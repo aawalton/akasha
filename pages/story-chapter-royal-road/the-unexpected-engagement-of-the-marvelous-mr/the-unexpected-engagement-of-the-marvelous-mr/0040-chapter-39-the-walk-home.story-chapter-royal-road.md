@@ -1,0 +1,671 @@
+---
+id: c96184ad-e4cd-5622-8b3e-5c03545c3599
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39 - The Walk Home"
+slug: 0040-chapter-39-the-walk-home
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 40
+ownLength: 5261
+unit: words
+publishedAt: 2022-07-01
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/939425/chapter-39-the-walk-home"
+royalRoadId: "939425"
+---
+
+Eleanor led Haley through the streets, down to the coast, and out onto the end of the longest pier. The ocean shivered and rustled out from under their feet to the ends of the horizon, carrying a subdued reflection of the sunset above it.
+
+Eleanor gazed out at the water for a minute, then she sat down on the boards, letting her legs dangle over the water. Haley dropped beside her without uttering a word.
+
+Lady Serrs felt strange about that. A part of her wanted to stay there all night to test him, but her curiosity and restlessness proved to be stronger than her perverseness. After only a few more minutes, she stood up. Haley rose and followed her.
+
+Various staircases led up from the east side of the port. Eleanor chose one at random. It took them away from the water and into the back streets of a quiet neighborhood. These were the old streets—some of the first ones ever laid in the city. They were little more than paved paths that wound between the buildings.
+
+As the daylight faded, more lamps were lit along their route, and they ran into fewer people. Since they were surrounded by homes, there were no taverns or businesses to attract outsiders. Eleanor and Haley might have been the only strangers in the whole neighborhood.
+
+“I love walking at night,” Eleanor said.
+
+It was the first thing she’d uttered on their walk. Her voice was barely loud enough to break the silence.
+
+“Do you do it often?” Haley asked.
+
+“Sadly, no. I’m usually busy—but any chance I get. Any excuse.” She took a breath of the cool air.
+
+“Why do you like it so much?”
+
+“It’s freedom.”
+
+It also had a tang of excitement, but when she was alone, there were times when the excitement would tip into fear. But that night, the sound of Haley’s footsteps made her feel safe.
+
+She glanced over and saw he was looking at her.
+
+“Well?” she challenged. “What do you do for fun, Mr. Haley?”
+
+“I’m afraid I don’t have much free time for myself.”
+
+“You never take any breaks?”
+
+“When I get the chance, I travel up to my aunt and uncle’s manor in the country.”
+
+“Do you like the country?”
+
+“I like the change. I feel fortunate that I can divide my time between the city and the country, and I don’t have to pick between the two.”
+
+“And what do you do there?”
+
+“I walk—of my own volition, Miss Serrs,” he said with a smile. “I also ride. I drive whenever I get the chance, and sometimes I play billiards with my cousins. My uncle is brilliant at checkers. I take him on at least once every time I’m there.”
+
+“Do you win?”
+
+“Never. Not once. And yet I keep at it.”
+
+“Imagine the celebration when you win.”
+
+“If I win. If. I think it’s mostly a tool I use to keep myself humble. With whatever time I have left, I like to read.”
+
+Haley wasn’t ignorant of the impact his words would have, so he was watching Eleanor’s face when it lit up with excitement.
+
+“What do you read?”
+
+“Uh…I prefer adventure stories. Or mysteries.” He glanced at her. “Why are you smiling like that?”
+
+“Why are you blushing?”
+
+The inspector’s cheeks ached as his blush deepened. “It’s not exactly respectable literature, is it?”
+
+“That’s probably why it’s so enjoyable. Have you always read adventure novels?”
+
+“When I was growing up in France, my mother was desperate to make sure I was fluent in English. We always spoke it to each other, but she didn’t think that would be enough, so she bought me books in English, and since she wanted me to read them, she bought me all the adventure books she could find. English, American—anything she could get her hands on.”
+
+“Did her plot work?”
+
+“I think I’m passably fluent. Don’t you?”
+
+“Tolerable.”
+
+“On the other hand, she does blame herself for the fact I’ve become a policeman. It’s tragic to hear her go on about how too many mystery books can ruin a man.”
+
+“Is she right? Did all those detective stories ruin you?”
+
+Haley made a face as he considered the question, then he looked at Eleanor. “Between you and me, maybe a little.”
+
+Eleanor grinned.
+
+“You won’t tell her I said that, will you?”
+
+She laid a finger over her lips.
+
+“What about you, Miss Serrs? What do you like to read?”
+
+“Everything!”
+
+Haley had to keep himself from laughing. He didn’t want her to think he was laughing at her, but her enthusiasm was delightful. “Everything?”
+
+“Well, almost everything. Adventure, mystery, math, science—natural sciences—I’m afraid I don’t have much taste for philosophy—medicine, novels, children’s books—all of it.”
+
+“That’s quite a broad list.”
+
+“The trouble is that I get so fascinated by things, I’ll study them every moment I can for weeks or months, then I pass on to something new.”
+
+“Is that a problem?”
+
+“I don’t know. I think it might be a character flaw. And I’m running out of places to store my books.”
+
+Now Haley laughed.
+
+They talked about books for several streets, then Eleanor spotted a staircase that led up into the darkness. Trees had been planted along both sides, creating a vaulted tunnel of thick summer leaves.
+
+“Come on.” She touched his arm to get his attention. “I want to see where it goes.”
+
+She darted away. Haley climbed after her.
+
+The scene at the top was another old neighborhood street. Between the buildings on the right, they could see bits of the ocean, and above them, the stars.
+
+For a while, they didn’t talk. Haley was trying to be considerate while Eleanor gazed at everything. A street and a half later, Eleanor broke the silence.
+
+“I think the streets are nicer away from Center Street.”
+
+“Certainly less busy.”
+
+“But this is the nicer part of the city. I suspect you know more about the rougher areas.”
+
+“My work brings me into contact with them a lot,” Haley admitted.
+
+“What do you do when you’re not chasing Penn?”
+
+Initially, Haley was reluctant to talk about his work, but Eleanor never shuddered or grimaced. There was nothing but curiosity in her eyes. Because of her persistent questioning, he wound up talking about it at length.
+
+When he caught himself describing various blood splatters and what you might be able to deduce from them, he stopped.
+
+“Miss Serrs, are you sure you don’t mind hearing this?”
+
+“I’m the one who asked, Mr. Haley.”
+
+“I know, but…”
+
+He wasn’t sure what he meant to say, but he felt certain that most people would not approve of the conversation.
+
+Eleanor instinctively understood his unstated objection.
+
+“I know,” she said. “My friends have all told me I’m ghoulish and unladylike for being interested in this kind of thing. And that I’ll frighten away the men. But I don’t know if a person can help what they’re interested in.”
+
+Haley considered that.
+
+“You know,” he said, “for you, it’s only a hobby. I found it so interesting, I made it my job. I think that, of the two of us, that makes me the more ghoulish one.”
+
+“And probably less ladylike.”
+
+“Probably.”
+
+Eventually Haley was able to distract her enough to ask her more about her own hobbies. When he did, he was dismayed to see Eleanor’s face lose all its animation.
+
+“I’m afraid that line of conversation is a dead end,” she said. “You’d have an easier time talking about the weather.”
+
+“How so?”
+
+“You know my life. It’s walking and reading.” Her face brightened slightly. “I guess I dance as well.”
+
+“Do you enjoy it?”
+
+“The dancing?” Her face brightened further. “I think I do.”
+
+“A woman in your position would probably get a lot of invitations—”
+
+“Yes, but those are to proper parties and balls. The worst of my nature is that I enjoy dancing, but I wish I could do without the parties.”
+
+Haley smiled. “I can see how that would be a problem.”
+
+Eleanor skipped in front of him and turned so she was walking backward with her hands twined behind her back. “Mr. Haley, do you dance?”
+
+“Yes,” he said warily. “Why?”
+
+“Mr. Penn said that he didn’t think you would.”
+
+“Should I ask why the two of you were debating my dancing skills?”
+
+“Probably not.”
+
+“Miss Serrs, I learned to dance in two different countries, so I likely know more than you, and I definitely know more than Penn.”
+
+“Well, you know what he would say—knowing the steps doesn’t matter if you never do it.”
+
+Haley took two massive steps forward to catch up to her. He snagged her right hand with his left and put his other hand on her waist.
+
+“Go on,” he said. “Name any step.” She was laughing too hard to answer, so he said, “What? Not up for it? I thought you enjoyed dancing, Miss Serrs.”
+
+“Let’s start out easy then. The waltz.”
+
+“Viennese or caprice?”
+
+Haley proved he was more than a match for the challenge. He even knew the dance Eleanor had learned in the Dancing Glass. When she had named every step she could think of, he started offering up ones she’d never heard of.
+
+Their last dance was another waltz. Eleanor knew the steps well enough Haley didn’t have to instruct her. He led her through several measures of nonexistent music, then came to a stop. But he didn’t let go of her hand or her waist, and he kept his eyes on hers.
+
+Eleanor could only tolerate a few seconds of this attention before she dropped her gaze. “Are there any others?” she asked.
+
+“Give me a minute. I’m thinking.”
+
+“It’s all right, Mr. Haley, you’ve proved your point.” Eleanor pulled out her skirt and curtsied. “Thank you for the dances, sir.”
+
+Haley bowed and let go of her hand.
+
+She added, “And if I ever see Mr. Penn again, I’ll be sure to set him straight.”
+
+“Thank you.”
+
+“You didn’t mention dancing among your hobbies,” Eleanor said as they continued walking.
+
+“I didn’t think of it. As I was growing up, it was more of an expectation than a hobby.”
+
+“You don’t enjoy it?”
+
+“Sometimes I do.”
+
+When he looked at her, Eleanor felt her cheeks grow warm.
+
+He looked away. “But if I’m being honest, I have to admit you’re right; I don’t often get the chance to dance. I still have a few friends and relations that remember me when they send out formal invitations, but as often as I accept, I have to decline because of work.”
+
+“Wait—does that mean you have a tailcoat?”
+
+“I can’t decide if I’m insulted by how surprised you sound. Yes, Miss Serrs. If you must know, I own several. I wasn’t disowned by my family, so I have to have something to wear when I show up to their events.”
+
+“Oh.”
+
+The answer was simple, but there was the light in her eyes, and a slight upward arch at the edge of her mouth. Part of Haley wondered what she was thinking, the other part decided it would be better not to ask.
+
+“Wasn’t I badgering you about what you do, Miss Serrs?”
+
+“You were. And I decided it’d be more fun to make you dance in the middle of the street with no music to prove Penn wrong.”
+
+Haley snapped his fingers. “That’s right. We have to add ‘amusing yourself at my expense’ to your list of hobbies.”
+
+“That’s not fair! I’m usually very respectful.”
+
+“Yes, you are. So what else would you do, if you could do anything?”
+
+Eleanor’s smile disappeared. Haley’s stomach sank as he listened to her stammer out her answer.
+
+“I-I don’t…know. No one’s ever—asked me that.”
+
+She lowered her head to gaze at the ground as they walked.
+
+Haley was silent for a few steps, then he said, “If I became a detective because I read too many mysteries, then considering everything you’ve read, it shouldn’t be difficult to imagine a few options.”
+
+“Penn says he’s trying to turn me into a thief.”
+
+“Miss Serrs, I’m going to ask you, as a personal favor, please don’t do that. Please.”
+
+Eleanor laughed. “All right, Mr. Haley. But only because you asked.”
+
+“Thank you.”
+
+They discussed her potential as a mathematician, but she dismissed it because she was too easily distracted. She decided she wouldn’t make a good doctor because she cried too much and thought it might upset her patients. One idea after another was suggested. By the time they reached the edge of Eleanor’s neighborhood, they were discussing what it would take to fund an Egyptian archaeological excavation.
+
+“I’m not boring you, am I?” she asked.
+
+Haley was amused by the question. “I can’t imagine how someone with so many interests could be boring.”
+
+Her next statement brought the inspector up short.
+
+“I bored Massey.”
+
+Eleanor stopped and looked back when she realized she couldn’t hear Haley’s footsteps. When she saw his face, she flushed and stared at the ground.
+
+“Please, Mr. Haley, don’t bother objecting. I know you must have talked to him by now, so I suspect you already know it’s true. I’d prefer not to pretend.”
+
+“You prefer plain speaking.”
+
+“Yes. Even if it isn’t very flattering.”
+
+Haley stepped up to her side. “I’m sorry for my reaction. I’m surprised you knew. I thought he would have hidden it.”
+
+“He tried, but it’s hard to hide. The eyes glaze and it takes a fraction of a second longer for them to respond. I tried to be engaging and discover his interests, but it didn’t work. So much of what I said bored him, after a while, I was too nervous to say anything.”
+
+“You’re very observant when it comes to people, aren’t you?”
+
+“It helps.”
+
+“Miss Serrs, what did you think of Massey?”
+
+“I already told you—he was polite and considerate—”
+
+“And I think you observed more than that.”
+
+Eleanor took a breath. Her eyes narrowed as she thought back on her experience. “He liked to think he was clever. And funny. He reminded me a bit of Edward, but with teeth.”
+
+“With teeth?”
+
+“Eddie is sometimes cruel, but it’s because he’s thoughtless of other people. I got the impression that Ryder would be mean because he didn’t care all that much about other people—it…it wasn’t often. Please, I don’t—”
+
+“Please, go on.” Haley’s voice was soft.
+
+After a second, Eleanor obliged: “I knew he didn’t like me much. I think he was relieved when I refused his proposal.”
+
+When Haley didn’t say anything, Eleanor looked over at him. “What are you thinking?” she asked.
+
+“I wish everyone I talked to was as observant as you. May I ask you for another opinion?”
+
+Lady Serrs shrugged.
+
+“Tell me about Fitzmon.”
+
+“Gervase is highly intelligent. And proud. Proud like my father. He didn’t mind me in the same way he doesn’t mind most people. He didn’t dislike me—it just didn’t matter to him whether I was there or not.” She put a hand to her forehead. “Which was so strange, because he talked like our marriage was already settled.”
+
+“But you refused him.”
+
+Eleanor shook her head. “Not like that. As we were courting, whenever he talked about the future, I was in it.”
+
+“What about Penn?”
+
+Eleanor laughed. “Ryce Penn is a rude little imp, a scofflaw, and every bit as much of an attention-seeker as you said. He deserves to be put in jail for at least a decade! All the same, I can’t help but like him.”
+
+Haley’s hands went cold, and the air seemed to stall in his chest, but he still said, “And Winfield?”
+
+Eleanor turned her eyes up to the sky. “Dominic was thoughtful. He had a quiet sense of humor, and he was respectful. He could be cynical…but of all of them, he was the one I liked the most.”
+
+“Did you ever tell anyone that?”
+
+“No. Edward might have guessed, but you’re the only person I’ve told.”
+
+“Miss Serrs, I know that Fitzmon told you about the bet.”
+
+Eleanor lowered her head. “I thought you might.”
+
+“Did you ever tell anyone else about it?”
+
+“Oh, no. That’s not something a woman is going to brag about—that the only way a man could be induced to approach her was through a wager? No.”
+
+“Did you ever confront Massey or your cousin about what they did?”
+
+“What would be the point?”
+
+“Did you tell Winfield that you knew?”
+
+“No.”
+
+“Why not?”
+
+“What would it matter?” She brushed away a tear. “It was over and done. He wouldn’t even look at me.”
+
+Haley felt sick, but she was talking, and he knew he would probably never get another chance like this.
+
+“Were you glad that Fitzmon told you?”
+
+“I think it would be impossible to be glad. But I was grateful. I prefer to know the truth, even if it hurts.”
+
+“Would it have mattered?”
+
+“It mattered.”
+
+“Is that why you refused to consider Winfield?”
+
+Eleanor nodded.
+
+They walked in silence. A whole street passed as a smear of gray and blue shadows while Haley tried to raise his heart high enough to say what he needed to say.
+
+“Eleanor, Dominic Winfield loved you.”
+
+She didn’t answer.
+
+“He meant what he said. He fell in love with you while you were courting.” When there was still no response, Haley muttered, “I apologize, Miss Serrs.”
+
+“It’s all right. None of this is your fault. What’s your question?”
+
+“There isn’t one. I just…thought you deserved to know.”
+
+“Thank you. I’m glad you told me.”
+
+“Maybe not glad.”
+
+She wiped the tears from her cheeks again. “But I am grateful. Things make more sense now.” She closed her eyes and let out a moan. “Dominic. You idiot.”
+
+Eleanor opened her eyes and tried to force her voice to sound natural. “Mr. Haley, if we’re going to talk about the case, could we at least talk about a different facet of it?”
+
+“We don’t have to talk about the case.”
+
+“But I want to. Please. It helps to think about it…rather than feel.”
+
+Haley could deeply empathize with that concept. “If that’s what you want, Miss Serrs.”
+
+“What do you still need to know?”
+
+“I would love to know who the culprit is.”
+
+Eleanor laughed. It was tainted by sadness, but it was a welcome sound.
+
+Haley went on, “There is one question I would have liked to ask Winfield, but that option is sadly out of reach.”
+
+“What question?”
+
+“I want to know if he thought Fitzmon would refuse you, had you gone to him.”
+
+“Of course he would have.”
+
+Haley stopped and turned to Eleanor.
+
+She went on, “Edward told me that Gervase isn’t married, but I can’t imagine that he’d still be willing to have me after I refused him.”
+
+She doesn’t know, Haley realized.
+
+He’d forgotten that. Eleanor was observant of everything around her, but since no one had been willing to talk to her about the situation, her knowledge was limited to her experience. She knew almost nothing about the things that had been simmering around her for two years.
+
+Haley explained. He told her about how Edward had formed the club, and about her father’s reaction to Massey’s brief foray into another courtship. When she heard what her father had done, Eleanor was so livid she trembled.
+
+“And you think Gervase and Massey have been forced to wait this whole time?”
+
+“I know they have.”
+
+She covered her face. “At least they weren’t pining for me. That’s some bitter comfort.” She dropped her hands. “I’ll talk to my father.”
+
+“Miss Serrs, now may not be the best time.”
+
+“You’re right. When this is over. And I’ll have to apologize to them.”
+
+“Do you think talking to your father will do any good?”
+
+“Sometimes it does. He won’t admit it. He’ll rage and argue and fight, but once you leave the room, he starts to think about things.” Eleanor remembered the air of thoughtful sadness that had emanated from him the night she’d found him in his study. “Maybe he’s already regretting what he’s done.” She raised her head. “One thing’s certain, if he does change his mind, it was his idea and it was always his idea.”
+
+“That sounds about right,” Haley said. They started walking again. “Did you know he initially refused to allow Winfield to court you?”
+
+“Why?”
+
+“I asked him that. He said it wasn’t really a refusal—that he needed time to think about it, and after he’d thought about it, he realized that Dominic would make an adequate son-in-law.”
+
+Eleanor smiled weakly. “That does sound like he changed his mind.”
+
+“As he can’t admit it, can you guess why?”
+
+“I think it’s because he was getting desperate. It’s hard to get rid of a stubborn daughter.” Before Haley could think of how to answer that, Eleanor went on, “Have you asked Edward if Dominic thought Fitzmon would say no?”
+
+“No, I haven’t.”
+
+“You should. Dominic was fond of Edward. He talked to him about most things.”
+
+Haley hesitated. “The baron didn’t make it sound as if they were that close.”
+
+“It’s possible Dominic wasn’t good at expressing his attachments.”
+
+Haley winced.
+
+“Is there anything else you want to know?” she asked.
+
+“I have more questions, but most of them are the edge questions.”
+
+“I’m sorry?”
+
+“Whenever I get to the far edges of a hard case, I run into these pockets of questions, little pieces of information, and if I understood any of them, I would understand everything. You know the joke, why is an item always in the last place you’d look for it?”
+
+“Because when you find it, you stop looking,” she said.
+
+“It feels like that. I don’t know if these questions are more difficult to answer than any others, but they feel harder because everything after that comes easy.”
+
+“Tell me.”
+
+“Let’s assume—and it’s only an assumption—that we’re searching for the man that Winfield was talking to on the phone and that he was somehow involved in sending out those invitations. If Winfield really did believe that Fitzmon would reject you, and if you didn’t tell him you knew about the bet, Winfield might have had good reason to hope you would choose to marry him. But what about the other person involved? Did they not care who you married? Did they know you wouldn’t pick Winfield? Or did they agree with Winfield and want to help him?”
+
+“If they wanted to help him, why would they kill him?”
+
+“You see my problem.”
+
+“I do.”
+
+“And there’s still the question of why this person would kill Winfield rather than confess to something that wasn’t a crime—but, also, why were the two of them working together when it all could have easily been done by Winfield alone? And why would they wait so long to do anything? For almost two years, everyone was content to leave the situation alone. What changed?”
+
+“Did something have to change?”
+
+“It feels like there’s some catalyst to all this. Winfield loved you, but if that was the only reason he sent out the invitations, why did he wait? You weren’t courting anyone else.”
+
+“No.”
+
+“If there was no immediate threat of you falling in love with someone, why would he suddenly become more desperate?”
+
+“I see what you mean. It feels like you're standing on the edge of something.”
+
+“I don’t suppose you have any suggestions?”
+
+“One thing did occur to me. It’s about why they’d be working together, but it’s only an idea of mine.”
+
+Haley motioned for her to go on.
+
+“I don’t think Dominic would have ever done it on his own. I think he was persuaded.”
+
+“You don’t think we’re looking for an accomplice, you think we’re looking for the instigator?”
+
+Eleanor nodded.
+
+As Haley considered her suggestion, Eleanor had the chance to look around. With mild surprise, she realized they were at the edge of Aubrey Park.
+
+“We’re almost home,” she noted.
+
+“Have any other thoughts occurred to you?”
+
+“Yes, but you won’t like it.”
+
+“I rarely like what goes on in a murder investigation.”
+
+“If you’re looking for someone who benefits from my marriage, and if my father has trapped both Massey and Fitzmon, there might be a lonely woman out there who’s in love with one of them.”
+
+The inspector grunted. “You’re right. That is worse than most. Am I going to have to track down and interview every eligible woman in society?”
+
+“Talk to the matrons. They observe everything and gossip like birds.”
+
+“Can’t I delegate the task to you?”
+
+“Are you allowed to do that?”
+
+“Why not? You seem determined to involve yourself.”
+
+“I wouldn’t mind, but since I’m the one our poor bachelors are supposedly waiting for, I doubt the good women would be willing to tell me about my rivals.”
+
+“I guess I’m stuck then.”
+
+“There could be worse things than talking to a gaggle of society women.”
+
+“Gaggle. Isn’t that the word for geese?” Haley looked over and saw her eyes glittering. “Ah. How appropriate.”
+
+“Were you thinking of the loud honking?”
+
+“I was thinking of the vicious hissing and the tendency to bite.”
+
+Eleanor laughed.
+
+“Thank you for sharing your thoughts with me,” Haley said.
+
+“I’m glad you’re willing to talk to me about the case. Being involved helps me feel less impotent.”
+
+They stopped outside the mansion’s gate and faced each other. Haley removed his hat.
+
+Eleanor said, “I’m sorry that I was so selfish. I kept you out—”
+
+Her apology was cut short when the inspector put a finger over her lips.
+
+As he removed it, he said, “I enjoyed myself, Miss Serrs. Thank you for letting me come.”
+
+Eleanor could still feel the unexpected weight of his touch, so it felt odd when her lips parted to say, “You mean that.”
+
+“I do.” He replaced his hat. “Good night.”
+
+“Good night, Mr. Haley.”
+
+Eleanor watched him walk away, then opened the gate.
+
+Haley resisted the urge to look back until he heard the gate shut. Then he stopped on the sidewalk and turned around. The top of the front door was barely visible through the trees. He waited until he saw it open and close, then he turned once more and headed home.
+
+Inside, Eleanor hummed as she took off her hat and jacket and put them away. When she turned toward the stairs, she saw a light was still on in the drawing room. She went over to see who it was. Lady Serrs-Comtess was sitting back in her favorite chair, reading.
+
+Eleanor smiled. “Good evening, Aunt Helena.”
+
+“Ah! Good evening, Eleanor.” The baroness put a slip of paper in her book and closed it. “You’re finally home.”
+
+“You weren’t waiting up for me, were you?”
+
+“Child, Edward came home before you did, and I knew where he was.” Helena took off her reading glasses and looked up. For a moment, she seemed surprised, then the expression was gone. She said in a quiet voice, “You look radiant this evening.”
+
+Eleanor’s cheeks went pink. “I’m sorry.”
+
+“That was an observation, not an accusation. You don’t have to apologize.”
+
+“Of course. I’m sorry.”
+
+Helena rolled her eyes. “May I ask where you were?”
+
+“Um. I was out walking.”
+
+“For three and a half hours?”
+
+“…Most of it.”
+
+“Would you care to assure me there was at least someone with you?”
+
+“Chief Inspector Haley saw me home.”
+
+Helena raised an eyebrow. “Ah. A gentleman you can name. That is comforting.”
+
+Eleanor studied the floor and wondered, once again, what possible evolutionary purpose blushing served.
+
+Helena asked, “Has there been any good news in the case?”
+
+“Some new information, but we haven’t solved it yet.”
+
+“I see.”
+
+Eleanor didn’t feel comfortable with the way her aunt was looking at her. Or the trace of a smile on the older woman’s face.
+
+“It’s late,” Eleanor said, “and I’m rather tired. I think I’ll head up to bed.”
+
+“A wise idea.” Helena took her cane and pushed herself to her feet.
+
+“Unless you need any help?”
+
+“I have my cane, Eleanor. I’m not so lame as that.”
+
+“So it was the sewing bag that was so heavy?”
+
+“I repeat, I have my cane. Are you sure you want to try being clever?”
+
+Eleanor skipped over and kissed her aunt on the cheek. “I’m sorry, Aunt Helena, but I don’t believe you’ve ever hit anyone with that cane.”
+
+Helena leaned her head on Eleanor’s. “You’ve caught me. I’m all threats, just like your father.” She lifted her head. “You go off to bed now.”
+
+“Good night.”
+
+As soon as her niece’s back was turned, Lady Serrs-Comtess stopped trying to hide her smile. She turned to grab her book but paused when she heard voices out in the hall.
+
+“Eleanor!”
+
+“Good night, Eddie!”
+
+“Ellie, wait—”
+
+She laughed. “I don’t think so.”
+
+A second later, Edward stuck his head in the drawing room.
+
+“All right, Mother. Who was she with?”
+
+“Chief Inspector Lucas Haley.”
+
+Edward came into the room and let out a loud sigh. “Well, I guess it can’t be helped.”
+
+“These things do happen.” Helena picked up her book and turned around. “Edward, what’s wrong?”
+
+The faint scowl on Edward’s face disappeared. “Not a thing.” He grinned. “Actually, I like Haley.”
+
+“Edward Archibald Comtess, I forbid you from teasing her.”
+
+Her son came forward and put an arm around her shoulders. “Don’t worry. I’ll keep my mouth shut.” He raised his head in the direction of the staircase, even though he couldn’t see it through the wall. “How do you think Uncle Erravold will take it?”
+
+“I don’t know if it will ever come to that. There are a great many complications.”
+
+“At least he can’t object to the man’s family.”
+
+Helena eyed her son.
+
+“What?” Edward said. “You think you’re the only one who noticed? I thought it might be worth asking a few questions. Can you imagine my surprise when I learned Taylor was already well informed on the matter?” He squeezed Helena’s shoulders, then let her go. With a sad smile, he said, “It’s good to see her happy, isn’t it?”
+
+“It is.”
+
+For some reason, Eleanor couldn’t fall asleep that night. She’d learned long ago there was no point in struggling against insomnia, so she tried to distract herself with a book, but her eyes dashed over the words without ever seeing them.
+
+She put the book aside, pulled her knees up to her chest, and moaned.
+
+If she couldn’t read, then she really was in a pitiable state.
+
+No. There has to be something I can focus on.
+
+There was that lonely ache in her heart. It seemed to be the only anchor in her entire body, so she turned to that.
+
+Dominic. You idiot.
+
+A flare of anger joined the sadness, and she knew what was important enough to gather her scattered wits.
+
+She picked up the lamp and went over to her desk. After pulling out a sheet of paper, she began to write.
+
+Dominic had been an idiot. If only he’d talked to her—but he hadn’t deserved to die like that. Not over those stupid invitations.
+
+Eleanor didn’t write for long, but when she was done, she felt better.
+
+She stayed in her chair for another few minutes, looking over her work. When she returned to bed, she took the page with her.
+
+Eleanor read it again and again, even as her eyelids fluttered shut.
+
+Her reading lamp burned until the oil was gone.

@@ -1,0 +1,413 @@
+---
+id: 97dd8fcb-6a73-523f-a3f0-50809150b7fb
+page-type-slug: story-chapter-royal-road
+title: "436 To Forge for an Empire"
+slug: 0396-436-to-forge-for-an-empire
+partOf: the-new-world
+position: 396
+ownLength: 5078
+unit: words
+ownProgress: 5078
+publishedAt: 2025-06-11
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2346751/436-to-forge-for-an-empire"
+royalRoadId: "2346751"
+markedReadAt: "2026-06-29T21:34:57.353Z"
+---
+
+She was right about that. Torix pointed at her.
+
+"Perhaps, but that isn't the true root of either of our reasonings."
+
+She rolled her eyes.
+
+"Oh, wise sage, please tell me what I'm really thinking then."
+
+Torix flourished a hand.
+
+"But of course. It's for style."
+
+Chapter Begin
+
+We kept chatting away, each of us catching up on the moments we missed. The hours bled away before we reached Mt. Verner and Springfield, their developments drawing in people from all over. After having lived in the city for a time, the sheer size of it astonished me. It crawled along into separate districts, each dictated by socioeconomic status and past merits.
+
+It was a side effect of the expansion program; we ended up advertising the safety and stability of the city and region. People flooded in from the Shattered Spires, our reforms popular enough to initiate a mass exodus by those given a poor fate in the effectively conquered city. Alongside the growing subsidiaries, my architect golems constructed towering buildings.
+
+Most of our people opted for an opulent approach to their homes. This left the entirety of Springfield looking like Beverly Hills but without material limitations. That luxury expanded into a few of the amenities that arose. Clothing stores opened, and people wore the newest styles sold. In particular, many wore tempered leather from different eldritch.
+
+These specialized outfits carried a mixture of mana-imbibed solutions. They effused the essence of the higher-tiered manas, from ascendance to primordial to quintessence. The base mana types like dominion or augmentation indicated a lesser status in these chic circles, and individuals competed in order to create overwhelming, visual illusions as they walked. Dancing sprites. Howling wolves. I even saw a roaring dinosaur that scared nearby children into frenzies of squealing laughter.
+
+Restaurants popped up in those areas, serving a gentile upper class with elaborate themes. Someone even founded a card shop, having restored board games and a variety of other old-world games. They replaced the video game era that dominated before Schema's arrival, as scientists hadn't reverse-engineered obelisks yet. Televisions and monitors weren't high on the list of priorities either, so people hadn't infiltrated that medium just yet.
+
+For that reason, simple board games held all you needed in a box and could be played by anyone. Or perhaps not. From within the shop, glowing pieces floated and maneuvered. A few magicians played at these tables, the games acting as tests of magical ability. In all honesty, I wanted to sit down and play right then and there.
+
+Alas, we passed it by in seconds.
+
+We even found a band playing music in one of the parks while parents played with children on elaborate playgrounds. Once more, runic inscriptions covered several parts of the playground. They augmented the seesaws, turning them into tame catapults. If a child fell aside, protective enchantments sprang to life, catching them from their fall.
+
+Finding it all left me glowing with pride.
+
+As we neared the mountain, Althea flew before a glassy look passed over her eyes. It was the standard expression when someone peered at their status. She angled her wings, coming closer to me and Torix. She let out a long sigh.
+
+"Hey guys, I have to head off for a meeting with my orphanage program. The inflow of kids from the Shattered Spires has left people overrun, and they really need my help."
+
+I flew over and held her hand.
+
+"Good luck."
+
+She smiled in confidence, though subtle cracks spread across the veneer expression.
+
+"I've done this more than once. So, I got this. Probably."
+
+She glided over, trailing towards a large building near the city center. Only Torix and I crossed the vacant airways above the city. Torix took the moment to let the consequences of our actions sink in. He interlocked his hands behind himself.
+
+"It would seem you enjoy seeing your hometown."
+
+I peered into several shops.
+
+"Yeah. It's nothing like it was, but it's nice to see so much life teeming here. It's motivating."
+
+Torix raised his gaze, peering down at the nicer communities.
+
+"I've always found it interesting about sentient species. They find any manner and method to raise themselves out of squalor. Once out, they bar the entrance to their sanctums, fighting to stay atop their mountains rather than building further mountains to climb upon."
+
+Two kids ran by in a park. One had an enchanted bracelet, amulet, and anklet. The other wore fine clothing but lacked the identical magical additions. I gazed down at them both.
+
+"That sounds like a gated community."
+
+Torix shook his head at the children.
+
+"Indeed. Many may wish for a better life than those who preceded them, yet those same ancestors never tried to understand what a better life truly is. They spend all their waking moments attempting to attain an ideal they've never taken the time to dwell on. To flesh out, so to speak."
+
+Torix ceased his flight, and I stopped as well. Torix sighed.
+
+"It's why those who fought for their lives hold those lives dear. If given everything, then a person's grip on their survival becomes loose and fragile. They become weak."
+
+I turned to him.
+
+"Based on what I know about the eldritch, we'll always need warriors to fight. Unlike the last few years, we'll actually be able to keep that as a subculture instead of our only means of survival. I think what we're doing is worth it since people get more of a choice in whether they fight or not. That's an incredible feat."
+
+Torix tilted his head.
+
+"And why, my disciple, is that?"
+
+"If you fight monsters long enough, you become one. I'm a great example of that."
+
+Torix remained motionless. Under the gloom of the moonlight, his metal, skeletal frame simmered in an aura of dominion mana. It bled the night onto his body, a molding of darkness and his thoughts.
+
+"Hm, are you speaking of Giess's bombings perhaps?"
+
+I shrugged.
+
+"I can eat people's memories. If that's not monstrous, then what is?"
+
+Torix gazed at Springfield's changing landscape.
+
+"Intent, perhaps. I believe that monsters aren't made by what they do. They are made by why they do it. Killing to protect is to become a savior. Killing for pleasure is to become a murderer. The act is defined by motive in that regard."
+
+I floated over to a quintessence lamp on the street, charging it.
+
+"There was a guy called Hitler in our history. He believed he was cleansing humanity of its filth. It didn't work out so great."
+
+Torix scoffed.
+
+"From what I've read, he didn't wish to cleanse anything. He believed in eugenics, and a warped, twisted version more akin to breeding at that. From my understanding of a few species' histories, the use of personalized genetic modification tends to operate far better. Unless, of course, you factor in Schema's deleterious influence over any species that dabbles in the concept."
+
+I frowned.
+
+"Like the remnants?"
+
+Torix raised a hand, the nearby light siphoning into his palm.
+
+"Indeed. They've devolved into a faction like Elysium, but not from their use of technology. It was their intent."
+
+I put my hands on my hips.
+
+"I'd argue their long-term relationship with Schema caused all of these problems, which is a kind of technology."
+
+Torix oversaw the square, dispersing the light in his hands to add moody ambiance.
+
+"Most certainly. However, I speak on the concept of technology, not its execution. Schema is a misused innovation, not a parable against the idea itself. In many ways, Schema was created as an attempt to better the lives of people, and yet, it has given more strife than it has solved. It was a classic misapplication of a utopian ideal."
+
+Torix rolled a hand, enjoying the philosophical stint on the conversation.
+
+"You see, struggle is what gives life its meaning. Without that meaning, there is no weight to survival. People will thus create struggle of their own accord. Such is the cause of war and competition. By trying to eliminate said struggle, the remnants walked down a path with no solution. That is why Schema has backfired."
+
+Torix raised a hand, the lingering light left in his palm casting his skeletal face in shadows.
+
+"They created the AI for something that cannot exist, and that was their undoing. It is as the fable of Icarus so deftly implied. Those that fly too close to the sun shall fall."
+
+I gazed at clean glass and polished stone.
+
+"I'm against a utopia as much as the next guy. Its...Arrogant, the mere idea of it, and I've never built my empire for that purpose."
+
+The light dimmed from Torix's hand, and city light spilled over Torix in subtle, small shadows.
+
+"Then what is it that you fight for?"
+
+I raised a fist.
+
+"For choice. I was born into a family where my mother died early and my father was an absolute scumbag. A lot of what kept me going was knowing that I could try to shoulder the burden of other people. It's part of what made Michael and Kelsey good friends of mine."
+
+Torix interlocked his hands behind himself.
+
+"And yet, they took advantage of that natural desire to bear their burden, didn't they?"
+
+I nodded.
+
+"They did, and I stayed with them for so long because I lacked the self-confidence to make other friends. I chose fear and complacency over pushing myself to see and speak to other people. This is different. I choose to carry these responsibilities now of my own volition, not out of fear."
+
+I hovered onto a cobblestone walkway.
+
+"To me, I shoulder the burdens for them, and carrying that burden is why I'm strong."
+
+Torix walked onto his cloud.
+
+"Yet you've become who you are from that struggle. To take that opportunity away from others is, itself, a curse."
+
+I shook my head.
+
+"There is a difference between being beaten and choosing to endure. One builds you and the other breaks you. I'm giving people that choice."
+
+Torix tilted his head.
+
+"But many will be left unfulfilled by this luxury you've given. In that regard, we may smother your people with unearned privilege. Ugh. Privilege. It's a poison. It softens the mind and spirit until it's like rotting fruit. These people will all live in lavish mansions that they did not build. They will never need to face the monsters that lie at their doorsteps."
+
+Torix pointed at the barrier far in the distance.
+
+"Have you thought of how people will live given your modifications? Most will never leave the confines of the cities you've built. They will never have to face the real world."
+
+I remembered the Old Ones, Elysium, and the spatial collapse all around us.
+
+"From what I've gathered, the real-world kind of sucks. I'm trying to make it suck a little less."
+
+Torix shook his head.
+
+"By doing so, you've isolated these people from struggle. Now, battling monsters will not earn them more than they have. They will have no reason to continue on."
+
+I smiled.
+
+"You grew up in Schema's system, right?"
+
+Torix's eyes flared.
+
+"I did."
+
+I turned a hand to him.
+
+"That's why we're disagreeing. I was raised in a world where the struggle was for meaning. If someone had desire and ambition, they lived with purpose. They didn't need monsters skulking in the dark. They chose their own demons to fight. If you ask me, I think everyone deserves that choice – to choose what they live and die for."
+
+I let my hand drop to my side.
+
+"Besides, people fight for more than survival. Many want status, power, opportunity, and the list goes on. If everyone has a mansion, then it becomes the baseline. It's no longer rare, so people will find something else to value based on scarcity. In that way, the cycle of struggle will revolve around whatever isn't easily obtained."
+
+Torix's fire eyes narrowed.
+
+"What will your people fight once they run out of enemies?"
+
+I frowned.
+
+"Probably each other."
+
+Torix tilted his head.
+
+"And how is that better than the eldritch?"
+
+I rolled a hand.
+
+"People make rules. Monsters don't."
+
+Torix's eyes flared white.
+
+"Hm...Sounds odd, but I'll be glad to see it manifest. Even if we ideologically oppose one another, I can respect the thought you've put into your principles. We shall see where they lead us in time."
+
+"You too. In fact, I've had like twenty minds in on this conversation since it started, otherwise I'd of been utterly staggered by what you said."
+
+Torix scoffed.
+
+"Pish posh. Nothing I've stated was remarkable, and you understand far more than you let on."
+
+Deep down, I disagreed. Torix held a weight to his thoughts and mind, and anytime I spoke to the lich, he relished in any kind of intellectual debate. Even as I argued against him, I felt the pull of his ideas. It left me hungry to speak more, but Torix stared at nothing before dragging a hand down his face.
+
+"Ugh. Yet another message. Despite my enjoyment over the discussion, I must proceed to these city requests. I'll be aligning a few for you to construct before you leave for Blegara, if you may find the time."
+
+I waved.
+
+"I'll make it even if I have to wrangle reality itself."
+
+Torix's glossy, chainmail robes clanked against him as he arose on his cloud.
+
+"I would expect nothing less, disciple."
+
+Torix flew off, and I organized my thoughts. Blegara required assistance, or I could build several cities. Based on Plazia's talks, the creature had already spread to a large portion of the planet as I recuperated. On the other hand, the vagni never settled in that region of the world, and our hivemind contained the issue inside a walled settlement.
+
+Thoughts about Jasmine, Nissa, and Jamal passed over me. As I dwelt on their fates, I took a moment to contemplate. While I lacked the years needed to blanket the world in my cities, I could spend a few weeks building cornerstone settlements at the edges of various regions. They would act as key checkpoints along the way, smoothing travel and providing a better hub for survivors.
+
+Choosing that approach, I flew off towards the warp travel center. Though a lavish luxury, I decided to burn through credits for the added hours offered. As I approached, several queues of dungeoneers and craftsmen lined up at the currency exchange center. In their armored arms, they held eldritch parts for credits, other lines turning those credits into delicious meals, raw materials, or new gear.
+
+Micky acted as one of the heads of the operation, and before leaving, I walked up to him. I raised my hand to the line I cut in front of.
+
+"Sorry, everyone."
+
+Most people bowed out of respect as if I ruled them with an iron fist. A few gawked in wonder or even anger. I had no time to inspect every emotion, so I turned to Micky.
+
+"I wanted you to know about the new ring requirements directly."
+
+Micky raised his hands, his pale face even paler than usual.
+
+"Oh, don't worry about that. I already turned it in after getting a solid amount of crystallized mana. It, uhm, it was an overwhelming gift, and I was glad to be able to give it back."
+
+I took a breath.
+
+"Good. I'm sorry you couldn't keep it."
+
+Micky had a soft smile on his freckled face.
+
+"It's probably for the best. It was like having a ton of gold in the house. We were asking for trouble."
+
+I stepped away.
+
+"I can't stay, but it was good seeing you."
+
+He bowed low.
+
+"You as well, guildmaster."
+
+At a certain distance, I turned back. Peering at the line of customers, I stood a little taller. Springfield finally reached a point where we could buy materials from the galactic market, and people oozed over the various selections on display throughout the city center. An absurd part of me envied them.
+
+I never used armor or weapons since the early days of the system. It looked like a lot of fun to try and find the perfect gear, as did chatting about the specifics with their group members. It was a point of connection I lacked. As I paced to the warp station, a strange, unearned sense of melancholy welled up from within.
+
+An architect remodeled the entire enterprise, turning the bare bones and basic into the novel and futuristic. Glass walls stood tall, held up by gravitation and kinetic augments. Unlike most glass structures, this one lacked any bracing, so a single sheet of glass composed the entire structure. This gave light an unimpeded entryway into the expansive room.
+
+Well, aside from a few shifting patches of shadow. Gentle as a dappling lake, the upper roof rippled from shifting mana constructs. They created rippling light as if we moved underwater and stared up at a crystal clear patch of the ocean. Ebon halos crossed the floor and over people's faces, and the shifting sheen of the sun enlivened what would've been a dull, governmental structure.
+
+Other forms of mana constructs swam about, mainly fish and other sea life.
+
+Glowing, semi-transparent corals attached along the glass, and they created a feast for the eyes. In fact, some magical architect even constructed a gradient that shifted the coloration from pastel teal to a dark azure. It fed into the sandy mixmash that interlayed with the ground.
+
+In all regards, it stunned me.
+
+Walking inside, the crowd scurried about, busy as ever. Of course, I stalled the entire building, my form looming and menacing as a rogue eldritch. In their awed regard, I passed the crowd, stepping up past the group and to a receptionist. The woman openly gawked, and the expression was out of place on her face.
+
+She had the side of her head shaved and her hair dyed fuchsia. A few piercings across her face gave her an edgy, punk rocker look, but her aghast expression gave away what she really felt. Beside her, an eldritchian squirrel skittered about. It cuddled up to her as she gave me a salute.
+
+"I-it's an honor, Mr. Harbinger, sir."
+
+I tilted my head at her Schematized outfit. She wore the blues and grays common to the AI's members, and it was my first time seeing a human use the uniform.
+
+"Are you working the station?"
+
+She gestured to the desk.
+
+"Oh, absolutely not. I'm helping operate this specific queue. I'm here to help people with where and when they want to warp. This station would be way more than I could handle."
+
+I observed hundreds of people running around.
+
+"Yeah, I'd imagine it would be a lot for anybody."
+
+I looked at my messages.
+
+"Do you think I could get a warp to Miami? There should be a warp station there now."
+
+She put one hand over the other, giving a professional smile.
+
+"You realize the normal charge of 30,000 credits will still be applied, correct?"
+
+"Of course."
+
+"I'll arrange it."
+
+I scratched my head before looking through the glass walls of the station. In all directions, I found prosperity, and my other planets and people would share in this. It gave levity, a realization as uplifting as a rousing speech or a father's pride. I sent more messages to Plazia, and the hivemind gave me the details about the Spatial Fortress's arrival, from where Schema would send it to when.
+
+It included mentions of the expanding eldritch threat. Apparently, one of the roaming eldritch on Blegara had found an energy source to feed on, which allowed it to expand rapidly. Plazia would give me more details whenever I arrived to handle it, but the good part was that the monster was caged up and no longer spreading further. It also expanded along an unpopulated portion of Blegara.
+
+If I guessed right, an eldritch found one of these spatial tears and consumed its energy to mutate and evolve. While not overly deadly, these creatures set off Schema's alarm bells. The AI always fought hard against evolving variants of eldritch as they spelled doom for entire solar systems, not just planets. It left me with a lot to do. I took a moment to square away how much time I had left before the fortress assaulted Blegara.
+
+With a bit over three months to spare, I got a handle on my message requests. Reading through them, I plotted out a series of coordinates. This created a flight path I'd take across our settled territory. I waved my hand at the receptionist.
+
+"Can I prepay for a series of visits?"
+
+"Of course. How many?"
+
+"Hm. Thirty."
+
+The receptionist froze in place, her expression fragile as glass. She took a steadying breath before she clicked and clacked onto a virtual kiosk in front of her. The squirrel pretended to type on its own keyboard, too. She smiled, her professionalism returned.
+
+"Aaaaand done. Anything else?"
+
+"Not right now, but thanks. Cya."
+
+"You too, sir."
+
+She saluted me, and so did the squirrel. It was beyond adorable.
+
+I jettisoned myself out of Springfield, and I followed the beginnings of my settlement line. Starting at the tip of Florida, I had no time to even observe the heart of Miami or appreciate its delapidated beauty. It had devolved into a partial swamp by now, but many still lingered in the marshlands. Before anything else, I constructed my classic town setup alongside the barrier. I left a blue core in this city alongside a set of dual-cored golems.
+
+It took about half a day, and I shuttled to Tampa next. Once more, I dashed through the process, unable to soak in anything aside from where and how my town's setup needed to be. Each settlement passed by in a daze, one blurring into the other. Orlando. Jacksonville. Atlanta. Charlotte. Nashville. Houston. Dallas. Austin. San Antonio. Phoenix. Las Vegas. LA.
+
+I passed the largest towns in the US, each of which varied and held entirely different circumstances. Despite their variety, I never experienced them. Instead, I dashed around like a coke addicted madman as I established beachheads across the US, Northern Mexico, and Southern Canada.
+
+As with the Shattered Spires, I gave them copies of architects, vanguards, wardens, and executive golems. I could only manage because of my wake's expansion in abilities. I could build them faster by simply saturating an area in the Rise of Eden before shifting to Perfection's Providence. Those golems and cores ensured a firm, established defensive force should something apocalyptic fly in.
+
+Lehesion, for example.
+
+These waypoints allowed my current settlements to expand far faster. It would still take years to cover the smaller, more disparate towns, but for now, this was enough. By the time I finished the fifteen largest metros in North America, a bit over three weeks had passed. By now, I lacked the time for anything aside from reinforcing the Great Lakes region.
+
+I followed the edge of the Great Lakes while constructing cities in the newly settled towns dotting the massive body of water. Unlike the major cities, I kept these constructs simple. Most of them lacked a blue core, but they all had a monolith that gave buffs, communications, and shielding. I left a pair of golems in each town as well, ensuring some measure of security against invading forces.
+
+Elysium, in other words.
+
+While not a perfect plan, it was a solid start. It also let me upgrade a smaller town in less than an hour. Within the week, I crossed Lake Michigan, Lake Superior, and Lake Huron while settling in most of Lake Erie. During my last week before Blegara's cleanse, I finished settling the Great Lakes and the St. Lawrence River.
+
+Lastly, I had time to contact Helios and build cities in the Grand Canyon, a few of its dungeons, and around twenty lunar settlements for the albony. In an utter reversal, the Grand Canyon changed into something mirroring an oasis. The skeptiles genuinely understood large-scale, persistent magic rituals, and that mastery reflected in how they managed their environments.
+
+Along the edges of the colossal canyon, water poured from a plethora of springs, each one creating a waterfall draping over the now lush stone walls. Hundreds of fish native to the skeptile's homeworld flooded the amassing ocean, and odd fruit trees grew in all directions. In fact, the entire canyon held vegetables, prey, and fresh water.
+
+It was the cradle of the skeptile's burgeoning civilization.
+
+The skeptiles congregated in a vast river dotted with islands settled by the lizards. They loved this place, and they took nothing for granted. I wished the sentiment reflected in the albony, though the moon made the Mojave look like a paradise by comparison. My cities ameliorated that concern, though resentment bloomed in the minds of the albony.
+
+They couldn't help but compare their situation to the other races on my planet.
+
+Other aspects fueled the flames of their scorn. The albonys' lunar colonies required blue cores at a minimum to guarantee protection from the elements. This made them expensive to make, but they eased their transition by orders of magnitude. The worst of this transition was Shalahora's cleansing. He helped filter these people, and he found a significant portion of their populace infected with Hybrids.
+
+It left a solemn air over all of them as I passed their settlements. People had families ripped apart as Shalahora and his summons inspected their psyches. Oftentimes, entire groups of albony exploded into hybridized tissue when caught. In those crises, battles were waged across the lunar encampments like battle royales.
+
+Despite the tragedy of the circumstances, it was Shalahora who suffered most from this culling. While efficient and deadly, he despised the work. He eliminated anything Elysium threw our way, but the albony only saw a dark, shadowed reaper in Shalahora. They whispered names that omened his coming, from The Executioner to The Last Shadow. In the end, he swallowed the little light left for the albony in his wake.
+
+Helios smoothed the situation over, ensuring the populace understood how necessary the cleansing was. Regardless of our reasoning, it left a bitter taste in my mouth. Elysium forced me to resort to a police state centered around mind magic. Hell, I despised that concept, let alone the actual execution of it.
+
+The alternative was even worse. If we hadn't cleared the populace, the albony would suffer a silent, psionic takeover. It was a proposition the albony understood all too well, given how long they'd fought Elysium. I had little time to comfort them as we had a month left before the Spatial Fortress's arrival. I wasn't willing to cut it closer, and I used one of the lunar settlement's warp drives to reach Blegara.
+
+By then, I experienced location fatigue. As I arrived at Blegara's capital, Saphigia, I found the hivemind's base within seconds. He carved it into the cityscape, a colossal pyramid jutting from the seafloor to just over the sea's surface. That upper island only left enough room over the waves to hold a statue of jagged, dark teeth.
+
+In the depths below, Vagni worshipped towards the pyramid using their many open courtyards. Or were they seayards? Either way, the Vagni as a whole had changed since I last visited. More socialized and civil, they built more advanced homes and practiced meditation on their roofs. All those who practiced were facing the colossal pyramid, their gazes never faltering. A mana signature pointed at the religious edifice, letting anyone know where to meditate. Or pray. I couldn't tell the difference, but such was life.
+
+As my curiosity piqued, I jettisoned through the water as a dark needle before propelling into the temple. Within, many insects guarded the vast labyrinth, their forms covered in a glowing basalt armor. Different colors carried different powers, from glowing orange symbolizing heat to bright blue leaving ice behind them. No matter the power composition, all the insects maintained basalt pillars across their backs and shoulders.
+
+The pillar aesthetic maintained itself through the grounds, from the supporting pillars to the shoulder pauldrons on the statues here. The insects cleared my path until I entered a room at the center of the pyramid. Bathed in light from above, the open space held all of Plazia's plans.
+
+Bioluminescent algae smothered the rooftop, their glow the source of light for the room. A few beetles cultivated the area, and these algae clustered around draping lines of kelp dotting the area. They flowed with the water like strands of the sun, their brilliance mesmerizing. The ancient, carmine stone towered in all directions, contrasting the dull, gray basalt.
+
+Hundreds of insects ran around in the lower room, many of them bowing to the basalt throne at the room's center. Plazia sat there, his form drenched in a primordial aura of mana and majesty. He leaned against one of his hands like a lazy king, and the insect minions walked up as if facing a god.
+
+They connected their minds to his in order to transfer information, and Plazia took it all in stride. It was an intrinsic difference between us. Unlike my pale imitation, Plazia had been born as a hive mind. He manifested it with an ease I lacked, not needing mental tricks to interact alongside many entities at once. He simply did, and speaking with a dozen of his minions at a time came as naturally to him as swimming did to a Vagni.
+
+As I walked up, the hivemind raised a hand. His insects stopped their scurrying, and they turned toward me. After making a path for me to walk, they waited. Plazia and I telepathically linked, and I stepped up to the basalt throne while looking around. I thought over as if speaking,
+
+"Huh. Remind me whose planet this is?"
+
+Plazia cackled through the water. It was like a nightclub's music from the outside, muted but still clear.
+
+"I assure you that you are still its sole retainer. I am a prime minister at most."
+
+His insects return to managing the planet's affairs. I creased my brow.
+
+"Right. It would seem you've managed to make a religion around yourself. You certainly have the ego for it."
+
+Plazia rolled his fingers across his throne.
+
+"The one I've centered it around isn't me."
+
+My armor smiled its teeth of jagged metal. Plazia steepled his hands.
+
+"They worship you, Harbinger."

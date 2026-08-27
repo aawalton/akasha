@@ -1,0 +1,633 @@
+---
+id: 0c557bde-0c61-549a-8c86-8775436c26e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 109: Of Great Fortune, and Little Troubles"
+slug: 0110-chapter-109-of-great-fortune-and-little-troubles
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 110
+ownLength: 2342
+unit: words
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3134322/chapter-109-of-great-fortune-and-little-troubles"
+royalRoadId: "3134322"
+---
+
+PoV Syliana
+
+The ants were a veritable anthill of trouble.
+
+Syliana paused mid-swing, her staff crushing through another soldier’s neck with a sharp crack of chitin before she stepped back and let the body collapse onto the already impressive pile forming along the camp’s outer line.
+
+Anthill of trouble.
+
+She huffed faintly to herself.
+
+That was probably where the saying came from.
+
+Another ant lunged at her from the side, mandibles snapping with predictable fury.
+
+She sidestepped it without even looking.
+
+A quick cast of her magic made short work of its thorax. The creature spasmed once before collapsing at her feet.
+
+The latest wave was nearly finished.
+
+Again.
+
+Syliana adjusted her grip on the staff and let her shoulders relax slightly as the immediate pressure eased. Around her, adventurers moved through the final motions of the engagement – she saw Sepio bracing his shield as he crushed a struggling Guardian under its edge, and Ray sliding a dagger neatly between two armored plates of another.
+
+Stab.
+
+Step.
+
+Guard.
+
+Repeat.
+
+The rhythm had been constant for hours now.
+
+Syliana was not easily bored.
+
+She had spent entire weeks locked in libraries chasing obscure magical theories. She had devoted days refining a single spell construct until the mana flow behaved precisely as intended.
+
+Patience had never been an issue.
+
+But this?
+
+This was simply repetitive.
+
+Wave after wave of Ants pouring from the forest only to be methodically dismantled in the clearing. Efficient. Predictable. Necessary.
+
+And utterly monotonous.
+
+She hardly could fault Luna for trying to get it done as fast as possible.
+
+The little wolf had been extremely proactive in dragging the Ants out of the forest in manageable waves. Without that effort, the nest itself would have required far more time and effort to properly dispose of.
+
+Tight spaces weren't new to her.
+
+Syliana had fought in such before.
+
+Still, they were unpleasant.
+
+So yes.
+
+Luna’s method was very effective.
+
+Just…
+
+Monotonous for them here.
+
+A final Soldier collapsed under Sepio’s shield strike nearby, its body sliding across the dirt before coming to rest among the others.
+
+The camp quieted again.
+
+Syliana wiped her staff clean against a scrap of cloth and allowed her gaze to drift across the camp.
+
+A few exhausted adventurers were leaning against whatever rock or tree trunk they could find, while they caught their breath.
+
+Ferric stood near the perimeter, scanning the forest line with the careful patience of a veteran commander.
+
+The man had truly grown over the years. He was so eager to rush into action all those years ago.
+
+Though he was still an incorrigible gossip. Where did that trait even come from?
+
+Syliana hadn’t the slightest clue.
+
+And then–
+
+She spotted the source of all this chaos.
+
+Luna.
+
+The girl looked perfectly fine.
+
+Not even a scratch on her.
+
+Naturally.
+
+Syliana had expected as much, and really wasn’t worried the little wolf girl would suddenly show up with wounds all over…
+
+Well.
+
+Maybe a little worried.
+
+But now something else caught her attention.
+
+Luna was speaking with Ray, unusually enough.
+
+And–
+
+Syliana tilted her head slightly at the sight.
+
+The girl handed him something.
+
+Now that was interesting.
+
+What could that possibly be about?
+
+Luna was usually many things.
+
+Loud.
+
+Direct.
+
+And very excitable.
+
+But subtle?
+
+Rarely, if ever.
+
+Yet now she was clearly trying to hide something.
+
+Which, unfortunately for her, made the entire scene far more conspicuous than usual.
+
+Syliana barely managed to contain her smile.
+
+The girl was attempting to whisper.
+
+Attempting.
+
+Which meant the effort looked more like an elaborate stage performance.
+
+Luna glanced left.
+
+Then right.
+
+Then beckoned Ray closer with exaggerated secrecy.
+
+“I have something to tell you,” the gesture practically screamed.
+
+Ray leaned down obligingly.
+
+And Luna–
+
+Syliana blinked once.
+
+The girl had gone up on her toes.
+
+Her little boots performed a rapid tippy-tappy dance as she stretched up to reach his ear.
+
+Then she cupped her hands and whispered something with intense concentration.
+
+To think the man was actually playing along for once. Syliana knew him to be a good soul. All of her party members were, that’s why she decided to work with them. But Ray could be shy in the weirdest moments.
+
+So seeing him–
+
+Ray froze, then leaned even closer.
+
+Listening.
+
+Actually listening.
+
+Syliana’s eyebrow lifted, as she stopped, observing for a moment longer.
+
+No. That was too genuine.
+
+He was actually excited about something Luna brought up.
+
+Even his expression reflected it.
+
+Now that was unusual.
+
+Syliana felt her own curiosity stir.
+
+She considered ignoring it.
+
+Letting the girl keep her clearly very mysterious secret.
+
+She better–
+
+But at that exact moment Luna spotted her watching.
+
+The girl’s eyes lit up immediately.
+
+Both Luna and Ray turned toward her.
+
+And the little girl waved.
+
+Very enthusiastically.
+
+Syliana felt curiosity tug at her with renewed force.
+
+It was honestly remarkable how such an over-the-top “secret” could still succeed in pulling her in.
+
+But who was she to deny curiosity?
+
+Syliana walked over calmly.
+
+This better be worth it.
+
+***
+
+…It was worth it.
+
+Syliana stood very still for a moment, studying the two conspirators in front of her.
+
+More specifically–
+
+Their genius little Wildling.
+
+Luna had apparently reached the point in her excitement where she had decided that this was a perfectly reasonable moment to eat.
+
+At some point during their whispering, she had produced a sandwich from her Maw and now proceeded to dig into it with the gusto of a starved child.
+
+Which couldn’t be further from the truth, the girl ate more than any of the adults did.
+
+But before the girl could actually take more than a single bite–
+
+Ray produced something for her.
+
+“Victory jerky,” he announced proudly.
+
+He held it out like a trophy.
+
+“And this bunch was made with a different spice mix.”
+
+Syliana raised one eyebrow.
+
+Where he was storing all of these things remained a mystery.
+
+Luna froze.
+
+The sandwich hovered in one hand.
+
+The jerky hovered in the other.
+
+Her golden eyes flicked between them.
+
+Sandwich!
+
+Jerky.
+
+Sandwich again.
+
+The conflict unfolding on her face was profound, and deeply amusing.
+
+Syl folded her arms quietly, suppressing a chuckle.
+
+This was clearly a moment of great importance.
+
+It wouldn’t do to interrupt.
+
+And after several seconds of extremely serious contemplation–
+
+Luna solved the problem.
+
+By biting into both at once.
+
+Syliana failed to suppress the smile that escaped her.
+
+Luna looked absolutely over the Moon.
+
+Her cheeks puffed out immediately, eyes sparkling with unfiltered delight as she chewed enthusiastically.
+
+Her tail was wagging behind her with renewed force.
+
+Adorable to a fault.
+
+Ray looked almost equally pleased with himself.
+
+But the food was only the beginning.
+
+Because the news Luna had brought with her…
+
+Syliana exhaled slowly.
+
+Now that was significant.
+
+Not only was the ant problem nearly solved thanks to their party–
+
+Chiefly Luna–
+
+But the little troublemaker had also discovered something else inside the Ant nest.
+
+A large ore vein.
+
+Hidden beneath the tunnels.
+
+Syl’s mind was already running through the implications.
+
+The ore sample Luna had brought laid wrapped in a cloth beside Ray. A dark yet slightly shining stone fragment sat exposed where he had unfolded it earlier.
+
+Syl knelt briefly and picked it up.
+
+It was heavy, and dense.
+
+And faintly humming with latent mana.
+
+She rotated the stone slowly between her fingers, studying the veins running through it.
+
+That shimmer was unmistakable.
+
+Manastone ore.
+
+High-quality by the look of it.
+
+If the deposit beneath the nest was even moderately large…
+
+Ferric was going to owe them quite a lot.
+
+Syliana placed the sample back on the cloth and stood again.
+
+Luna was still happily chewing.
+
+Apparently the girl had also brought other presents.
+
+Syl’s gaze drifted to the Ant egg Luna had handed Ray earlier.
+
+Fascinating.
+
+Apparently Luna had grabbed “lots of them” before leaving the nest.
+
+Enough to enrage just about every remaining Ant inside.
+
+Which explained the impressive final wave she had dragged back toward the camp.
+
+That meant any stragglers left in the forest were likely scattered and disorganized now.
+
+The nest had been emptied.
+
+The queen was already dead.
+
+And the entire expedition was essentially finished.
+
+Syl reached forward and ruffled Luna’s hair.
+
+It was difficult not to.
+
+The girl’s hair truly was incredibly fluffy.
+
+Luna leaned into the touch immediately with a content hum.
+
+Syl smiled faintly.
+
+Her mind was already calculating the leverage this entire situation provided.
+
+Ant extermination.
+
+Discovery of a manastone deposit.
+
+And Luna’s role in both.
+
+Ferric was going to have a very interesting evening.
+
+She was halfway through drafting the negotiation in her head when–
+
+Luna yawned.
+
+Then again, even longer.
+
+Before immediately trying to pretend it hadn’t happened.
+
+Syl chuckled softly.
+
+“Yes,” she said.
+
+It had been a very long day.
+
+She turned slightly toward Ray.
+
+“Could you fetch Trianna for me?”
+
+Ray nodded immediately.
+
+“Sure.”
+
+Syl gave a small nod.
+
+Much as she would prefer taking Luna somewhere quiet so the girl could rest properly.
+
+Trianna would have to step in.
+
+Not that the other troublemaker in their party would mind.
+
+Not at all.
+
+Syl glanced down at Luna again.
+
+If the girl didn’t have braided hair by tomorrow morning, it would almost certainly be a prank.
+
+“Luna.”
+
+“Mhm. Yesh?” Luna replied through a mouthful of sandwich, jerky, and the remnants of a second yawn.
+
+Syl brushed a few crumbs from the girl’s cheek.
+
+“I’m very proud of you,” she said gently.
+
+“You did amazing today.”
+
+Luna’s face lit up instantly.
+
+“Ehehe!”
+
+Syl wiped away the last crumbs and let her hand rest against Luna’s cheek for a moment longer.
+
+Warm.
+
+Soft.
+
+And so very squishy.
+
+“You can leave the rest to me,” Syl said quietly.
+
+Footsteps approached behind them.
+
+Right on time.
+
+“Go rest now. Trianna will go with you.”
+
+Syl removed her hand and gave Luna a small wave before turning back toward Ray.
+
+“So,” she said calmly.
+
+“We should discuss how exactly we’re going to fleece Ferric.”
+
+***
+
+Pov Luna
+
+Luna followed Trianna away from the noisy center of camp, still chewing determinedly on the last pieces of her sandwich and the equally important victory jerky.
+
+The camp behind them had begun to settle.
+
+It was still a little early, but fires were already being lit.
+
+Everybody was tired, in need of a meal, and some proper rest.
+
+People were sitting down with long, exhausted groans that sounded almost identical no matter who made them. A few laughs, and one person muttering very loudly about never wanting to see another ant again.
+
+And Luna agreed!
+
+Ants were boring.
+
+But the chasing around was fun!
+
+The smell drifting through camp had changed too.
+
+Less acid.
+
+Less blood.
+
+More smoke.
+
+More food.
+
+More tired people.
+
+Luna liked this part.
+
+It smelled like done!
+
+Trianna led them toward their tent near the camp center, where the noise softened into background murmurs. Then dropped down onto a folded blanket and stretched her legs out with a sigh that suggested her entire skeleton appreciated the decision.
+
+Luna didn’t wait for an invitation!
+
+She immediately plopped down next to her, still working through the remains of her food with the serious determination of someone who understood that victory snacks were an important part of any successful hunt.
+
+And it would be rude not to eat them all!
+
+Trianna watched her for a moment with a small amused smile.
+
+Then she said, very casually,
+
+“So… Ray got presents.”
+
+Luna nodded proudly mid-chew.
+
+“Mhm!”
+
+“And Syl got important news.”
+
+“Mhm mhm!”
+
+“And Ferric is apparently about to get robbed blind.”
+
+Luna giggled into the last bite of jerky.
+
+Trianna sighed dramatically.
+
+“But poor Trianna?” she said.
+
+“Nothing.”
+
+Luna froze.
+
+Her jaw stopped moving.
+
+Her golden eyes widened slowly.
+
+Her ears drooped.
+
+The sandwich lowered in her hand.
+
+“…Oh.”
+
+She looked genuinely horrified.
+
+“Luna– Luna bring something tomorrow!” she blurted quickly. “Big thing! Strong thing! Very good thing!”
+
+Her mind was already racing.
+
+What could she bring?
+
+A monster?
+
+Several monsters?
+
+Maybe shinies?
+
+Maybe–
+
+Trianna held the moment just long enough for Luna to start visibly panicking about possible gifts.
+
+Then she burst out laughing.
+
+“I’m joking, pup.”
+
+Luna squinted at her.
+
+Very suspicious.
+
+Trianna simply ruffled her hair and tugged the blanket up around Luna’s shoulders.
+
+“Relax. You did great.”
+
+Luna grumbled quietly under her breath but leaned into the warmth anyway.
+
+Trianna shifted slightly and began rubbing slow circles across Luna’s back with care and attention.
+
+The little wolf girl relaxed almost immediately.
+
+Her shoulders slumped.
+
+Her tail wagged once lazily, before giving up under the pleasant touch too.
+
+To keep her from popping back up with another burst of energy, Trianna asked lightly,
+
+“So… what amazing things did you do today?”
+
+That worked perfectly.
+
+Luna perked up just enough to begin explaining.
+
+“Oh! Luna found so many Ants,” she began proudly. “Big tunnels. Many tunnels. Ants everywhere.”
+
+“Mhm.”
+
+“And Luna took eggs.”
+
+“Of course you did.”
+
+“And shinies!”
+
+“Shinies too?”
+
+“Yes! Ray liked them.”
+
+Trianna chuckled quietly while her hand continued its slow, soothing motion across Luna’s back.
+
+“And then Luna went on a hunt! There were big monsters,” Luna continued, voice already softening around the edges.
+
+“Oh?”
+
+“Yes. Very big.”
+
+“What kind?”
+
+“Many kinds.”
+
+Luna shifted slightly, nestling deeper into the blanket.
+
+“And then Luna zoomed,” she continued with great seriousness, “and the big lizard went crunch and–”
+
+Trianna smiled faintly.
+
+“Of course it did.”
+
+“And Granidrake also went crunch,” Luna added sleepily. “But more messy…”
+
+“Mhm.”
+
+“And then Luna ran the whole forest and there were strong smells and more monsters and–”
+
+Her voice slowed.
+
+“…and then…”
+
+Trianna looked down.
+
+Luna had stopped mid-sentence.
+
+Already asleep.
+
+Her breathing had settled into the deep, even rhythm of someone who had finally run out of energy after a very long and exciting day.
+
+Trianna smiled faintly.
+
+She adjusted the blanket around Luna’s shoulders and brushed a few loose strands of hair away from the girl’s face.
+
+“Sleep well, little wolf.” she whispered softly.
+
+“You deserve it.”

@@ -1,0 +1,317 @@
+---
+id: e9c84ba7-6e33-523c-bce5-6579b2a2912e
+page-type-slug: story-chapter-royal-road
+title: "304 A Wake Up Call"
+slug: 0263-304-a-wake-up-call
+partOf: the-new-world
+position: 263
+ownLength: 5456
+unit: words
+ownProgress: 5456
+publishedAt: 2021-09-02
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/744053/304-a-wake-up-call"
+royalRoadId: "744053"
+markedReadAt: "2026-06-29T21:30:12.370Z"
+---
+
+Torix scoffed in utter nonchalance, "What else did you expect? Schema's been aiming to exterminate Elysium since they first announced themselves. The usage of Spatial Fortresses is an integral part of that."
+
+I blinked, calming myself, "I just...I didn't think Schema would just kill everybody like that. It isn't like everyone on those worlds hates Schema after all. It's, I don't know, inefficient to kill them all. Isn't it?"
+
+The footage warped a bit before a golden light appeared, like a star amidst the blot of red. Lehesion landed, fighting back the genocidal rampage of the Spatial Fortress. His beams unloaded in bright, delayed flashes due to the footage's distance from the event. Empowered by a ritual like on Gypsum, Lehesion razed the outer, spreading limbs of the fortress.
+
+I let out a sigh of relief, and Kessiah stepped up and looked at the footage in disgust, "That's how Schema does things. Yes and no. Black and white."
+
+Staring back to Phalanth, he took time to control his breathing as well. I let my hand off of his shoulder while he stood back up straight. He made a circle with his thumb and fingers on each hand, swirling them as if the gesture purged him of all his anxiety. He turned to us, "Excuse me, but based on that footage, I'm needed elsewhere."
+
+He stomped off, running towards the hovering plate. The space shuttle floated up before he entered the exiting bay. As the lower panel closed, a portal opened, and they crossed onto some unknown planet in the stars. I turned to everyone here, "Alright, well, we need to have a meeting."
+
+Torix leaned back, "What else is there to discuss?"
+
+I gawked at Torix, stunned by his lack of concern for the fortress's mass murder. That's when it hit me - he's a necromancer. Torix treated us well, but he was by no means a saint. If anything, his callous approach to life allowed him to experiment and perform his duties well. He reminded me of that in full while appearing bored of any further discussion.
+
+Not taking that trait as a fault, I peered at him, "I...I never thoroughly thought about the implications of, hm, Elysium losing this war. You obviously have, but I need a moment to digest this."
+
+Torix leaned back, "Well then, I suppose that isn't, uh, illogical. It seems rather strange you never considered it. For me, that is."
+
+I shook my head, "Maybe I just didn't want to."
+
+Understanding washed over the sorcerer, and he leaned over to me while his eyes dimmed, "Disciple, there's much you must learn about in life. One of those lessons is that not every consequence or event is under your control. Elysium took this risk onto themselves, and now their bet has fallen through. The death of billions is on their hands, not ours."
+
+I stared through Torix, "But I'm pretty damn sure our fight is why that happened."
+
+Torix cackled then said, "Were we supposed to just let ourselves die then? And besides that, only a fool puts all of their resources onto one entity like that. They are at fault for making Lehesion fight us in the first place, and they are paying the price for their folly."
+
+Torix waved a hand in an infinity symbol shape, "It was, hm, how to put this. Ah yes, it's cause and effect."
+
+For some reason, Torix's cutting logic sounded insane to my ears right now, even if I knew he was right. I stuck with his argument, mulling it over in my mind. I couldn't control Schema and Elysium, even if I was strong in my own right. It wasn't only unfair to me think I could; it was arrogant as well. I wasn't some diety, and I needed to remember that.
+
+I gave the sorcerer a nod, "Thanks for the reminder. I needed that."
+
+The necromancer locked his hands behind himself, leaning back upright, "Always a pleasure, disciple."
+
+Taking a breath, I spread out my hands, "I still want to discuss this. I don't want any of Elysium's other worlds swallowed."
+
+Amara stared with her expressionless helm, "That complicates things, doesn't it?"
+
+Torix, bolstered by his earlier help, paced back and forth, "If I may interject, I'd say that while difficult, a Spatial Fortress's attacks are by no means inevitable." Torix gestured to everything around us,
+
+"Blegara is a pristine example of this. Our landing here prevented this world from being tainted by the living abyss that is a Spatial Fortress. In that manner, we may save other worlds."
+
+Torix snapped a finger, spreading his silencing aura and fogging magic yet again, "That would be the case on Earth as well. It's by no means too late to save that planet."
+
+Helios stepped forward, "Our imperial worlds are no different. We still stand strong on them, and that presence prevents the mass genocide Schema wishes to enact. If you want to save worlds, then helping us get the ahcorous on our side is integral to that. The fact you stand to gain from both your ethics and my Emperor's deal is a pleasant circumstance."
+
+I frowned, "Ethics, huh? I wouldn't give me that much credit. Either way, those are both good points. The Spatial Fortress's attack doesn't change any of our plans, outside of us getting rid of Elysium's presence on Earth."
+
+Torix tilted his head, "For that, I've no idea how we'll dislodge them given our ceasefire."
+
+I stared at a roaming eldritch on the outskirts of Saphigia. It shepherded Vagni towards our camp, servicing with an impressive loyalty given the desolation surrounding it. I raised an eyebrow, "Huh, we'll have to see if something comes up. I'll keep my eyes peeled for an opportunity."
+
+Amara leaned back, raising her hands in disgust, "Why would you peel your eyes?"
+
+Other Hod murmured, "It is a customary saying for diligence."
+
+Amara gasped, "But, but why would that assist diligence? Their eyes would be left so maimed, you'd no longer be able to see."
+
+Other Hod crossed his umbral wings, "I don't know what to tell you. Humans...they are difficult to understand."
+
+I cracked a smile before we headed out. We still had a feast to attend to, and I wasn't about to miss it. Sending a message to Florence, the graceful albony responding in seconds.
+
+Florence Novas, Of a Golden Tongue and Honied Words(lvl 9,000 | Class: Speaker | Guild: The Empire) - Of course, I'd love to organize the feast. I'll ensure the correct members are invited and that our entertainment will match your guild's standards. Food, lighting, glassware, there's much to do, so I'll see you by tonight. Good luck.
+
+It alleviated stress having someone manage situations like this. That relief compounded from knowing Florence would do an excellent job too. Having that handled, we walked to the center of Saphigia, where my city still stood. It was a silent but long journey, each of us peering around and inspecting the fallout. At the blue core's barrier, we all took one last long look around.
+
+Most of our last week's work disintegrated into a shadow of its former self. The new roads, houses, and artwork I commissioned turned to ash under our battle's might. Even beyond those nearby settlements, we left much of the capital ruined. The coral homes and ancient temples melted into enormous sheets of dirty, mangled glass and igneous stone. Even the outskirts carried large bricks and boulders of debris, most of it ravaged to some extent.
+
+But it wasn't all bad either. The gialgathens saved many of the Vagni here, flying out during the first part of my battle with Lehesion. My super golems assisted that effort, along with eldritch deferential to my cause. It stunned me when the giant, roaming eldritch helped panicking Vagni escape into the countryside instead of eating them. Our global transmission turned their hunger for meat into a desire for status.
+
+That wasn't always the case, but having an eldritch, especially the wilder ones, help me out bewildered my preconceptions. It gave me hope that I'd find some way to coexist with them, even if fear would be my primary tool for that approach. Either way, abject terror was a more benign weapon than Schema's elimination or Elysium's Hybridization.
+
+Progress on that front gave me something to look forward to, instilling more motivation for the act of building up my guild. In fact, this general desire for building up gave me something to anticipate instead of just incessant fighting. Sure, a good battle was fun every now and again, but building an empire, one I could be proud of, motivated me more now.
+
+So, we treaded into our new unnamed city, and a crowd of my soldiers peered on. We came with all the packs of goods from Elysium, along with our own smiles and relief. I raised a hand as the crowd shouted, and I boomed,
+
+"The war is over. Let's celebrate."
+
+A chorus of cheers returned my announcement, filling me with purpose and enthusiasm. Spatial Fortress or not, our guild moved mountains in the year or so since we formed it. Now we aimed our sights at shifting orbits and altering tides. With so much to look forward to, I built super golems with an air of quiet expectation. We always needed those, and it passed the time while Florence organized the party.
+
+To my surprise, it took him only a few hours. With his many contacts in tow, the sociable albony converted the massive grimoire creation chamber into an enticing souriee. He covered the floors in blue, green, and dark gray carpets, masking the cipheric markings. Florence called in hundreds of chairs and tables, keeping a minimalist approach to dining ware and the like to match our guild.
+
+I read the progress from a stream of messages as I finished a constructor golem. Just as well, Florence picked up a few augmentation crystals from me, each of the stones saturated in antigravity wells. The amber glow of augmentation calmed an area instead of washing it in sterile, white light as quintessence did. That relaxed the room's ambiance, and that suited a celebration well.
+
+Unlike the austere cutlery, the food funneled in from all over the Empire, and Florence spared no expense for everything needed. Alien meats of all kinds came pouring in along with albony servants distributing the meals with the same type of variety. Inspecting closer, none of the servant species were also being served on platters. I took a deep breath after that one, fearing the worst after my conversation with Elysium.
+
+As the affair came together, Florence didn't hold back in his invitations, making sure many relevant parties arrived. Obolis, Ophelia, other albony royalty I didn't know, several razor queens from the ahcorous, and many others came in droves. It mounted the party from a small get-together to a social opportunity.
+
+Florence gave me name cards in list format through my messenger. They came with descriptions of the guests, including their occupations, names, and more. I used one of my manifold minds to memorize it, another for my elemental furnace conversion, another to organize gear from our trade deal, and a final mind to think during all of this.
+
+From this battle and the fallout, I learned a great deal. The first lesson was that I couldn't control as much as I thought I could. Even if I positioned myself well, my reach and scope were limited. Even in only Schema's universe, I enjoyed a spot in the upper echelon, but I wasn't above that elevated ring of sentients.
+
+Yet.
+
+The second lesson I uncovered was that the consequences of my actions rippled out further than I could see. Foresight would be my friend from here on out, and my efforts needed a more measured touch. Otherwise, I'd end up toppling societies or destroying worlds without even meaning to. That happened to Obolis because of his methods for subjugating worlds. I wasn't about to let that happen to me.
+
+And finally, I understood how lucky I was to have this armor over my skin and in my blood. Peering down, I saw my clawed hand and the plates over it. This dark metal gave me the opportunities I had now, and while it was challenging to get reigns on, I eventually conquered this memento of Baldag-Ruhl.
+
+If anything, this granted me more abilities than Schema had, all things considered. Without being a living dimension, I'd be an average person. It's something I never fully appreciated before my talk to Spear. He wanted power to enact his moral code and thinking. I needed none of that, as I lacked any principles I tried to play out. Despite my lack of direction, I ended up with this awe-inspiring artifact infused to me. It gave me the potential for immense change.
+
+That's why Schema called me the Harbinger of Cataclysm, even from day one. I was an omen of upheaval. He understood that from the initial scan that this armor put me ahead of the pack. Now I decided the fate of my own species and many more. That pressure often haunted me, but now it stuck out as an opportunity.
+
+I could make a difference.
+
+Getting to that, I opened my messages to see what piled up after our ceasefire with Elysium. Many notices repeated themselves, from 'thank you' to 'congratulations' to 'about damn time...sir.' They came from my guildsmen, but a few critical communications intermingled in the mix.
+
+Spear, despite our disagreements, proved his loyalty to Schema. Swallowing his pride, he already contacted the Overseer who sent me a message.
+
+Overseer(lvl 20,000) - Hello, Harbinger. It's been brought to my attention that you and your guild haven't received quests from Schema. This isn't standard protocol, and whatever Schema had planned, he never shared it with the Speakers I work with or me. We're willing to facilitate communications between us, but several specifics need to be worked out before that could transpire.
+
+Is there a time and place where a talk between us would be appropriate? I will be busy for the next three months, minimum.
+
+Daniel Hillside, The Harbinger of Cataclysm(lvl 18,719 (Cap: 26,000) | Class: Sovereign | Guild: The Harbinger's Legion) - When you're finished being busy, we can talk. We'll just stick with three months from now since that's when you're free.
+
+Overseer(lvl 20,000) - Then it's settled. Good luck during your ceasefire. May it serve you well to pull your guild from the ground and into clearer skies.
+
+Daniel Hillside, The Harbinger of Cataclysm(lvl 18,719 (Cap: 26,000) | Class: Sovereign | Guild: The Harbinger's Legion) - No hard feelings, huh? After Spear's response, I must say I'm surprised. I guess you were pretty torn up after our last meeting, mentally and physically, so you probably understand where I'm coming from.
+
+Overseer(lvl 20,000) - If anyone in the galaxy understands how brutal this war has been, it is I. To want an escape from it is only to be expected. Instead of despising your choice, I merely envy that you have one.
+
+Good speaking with you. I cannot continue messaging. Goodbye.
+
+The Overseer took that well, all things considered. I scratched my head as another message arrived from Obolis.
+
+Obolis Novas, the Finder of Secrets(lvl 24,027 (Cap: 27,000 | Class: Founder | Guild: The Empire) - Helios gave mention of many valuables you've received from Elysium. Most of that merchandise is very much illegal, and I'd love to scrutinize it with you and others. It would make for a splendid afternoon along with good drinks and fair food to pair with the event.
+
+We may even be able to trade should we feel like doing so. On another topic of note, I know your guild's inner workings aren't mine to judge, but this ceasefire was a superb idea. To follow through with it after the heat of combat, I can only imagine the strain. You showed wisdom despite mounting pressure, and know that we fully support your decision.
+
+Ah, what a pleasant surprise; Florence has already sent me an invite to your banquet. I'll be there with others. I look forward to seeing you then, Daniel.
+
+Sincerely, Obolis Novas.
+
+The formality and general warmth of Obolis's message stuck out like a painting on a bland wall, probably because of reading the Overseer's short memos. Either way, it left me with a lot to look forward to tonight. I prepped that while thinking of different ways to smooth out my tasks. The reason for those thoughts spawned from staring at a pile of books and documents.
+
+I needed to study all of this - every last page. It looked like it may take years to fully digest it all, but I lacked time for something that all-consuming. The books themselves required physical editions too. They worked with the cipher, a three-dimensional language. Taking pictures or even footage only got me so far. To understand the information within these books, I'd inspect each page from many angles in real-time.
+
+That reasoning developed from the unique imagery of the texts. Enchanted with magic, the pages showed models of the cipher that visualized on the page. When touching one of the books, anyone could tilt, turn, and tumble these markings to view it in any way you wanted. It reminded me of advanced engineering software that allowed the onlooker to peer into the center of a device.
+
+That utility sped up my learning, but it meant the actual physical book was required. Manifold Mind allowed me to read while talking to someone, and my senses amplified enough from my skills and levels that I lacked any need for direct sight of an individual. My other discernments compensated well for that, so I could read all the time if I wanted to.
+
+My problem stemmed from people's reactions to it; everyone enjoyed eye contact and general attention. Staring down at a book during a conversation enraged some people, and even if I responded like usual, a party or event wasn't the time or place for studying. Wracking my brain a little, I uncovered another solution to this problem.
+
+I took several of the books about the cipher inscriptions, the ones deemed safe by my guild. I pocketed them into my personal dimension outside of a single text. At the same time, I pulled my helmet over my face. It radiated with my current mana of choosing, quintessence. This white light blocked any display of my facial features.
+
+Now, normally, I pulled this helmet back when talking to someone face to face. It was rude to do otherwise and not look someone in the eyes after all. That being said, Obolis and most albony wore masks all the time. It wouldn't be that out of place to do the same. With my helmet on and the masking glow, I shifted the hidden text over my skin until it reached into my facemask.
+
+It plopped in front of my sight, held in place by the face mask's paneling. To me, the book appeared exposed for the world to see. That might not be the case, however, and I needed a mirror to verify. A reflection proved simple to find. Several of our soldiers kept them handy in their tents or pavilions. I asked for permission before stepping into one and using their spare looking glass.
+
+Inspecting my idea's results, my plan worked without a hitch. The book disguised itself completely, hidden in a white glow. Trying out Event Horizon, the sanguine sheen also covered the helmeted volume in its entirety. This omni-helmeted appearance might throw people off, but it didn't matter. The time-saving benefits of this strategy superseded any social angst other people experienced from it.
+
+Knowing the book didn't stick out anymore, I changed my efforts to actually reading the material. With a book right in front of my eyes, I reached a hand into my mask and opened it. It took a moment to adjust to the wall of words in front of me. My size helped me here, as I could hold a  dictionary in two fingers, let alone two hands - I was that big now.
+
+Blinded by the book, I used my gravitational sense, smell, and hearing to scope out my surroundings. Subtle temperature fluctuations helped, along with shifts in air pressure. I dedicated a manifold mind for this purpose, and all my other psyches drew from this precise picture. As I hoped, I no longer walked in the dark. I walked through a world of subtle pulses and fluctuating gravities.
+
+Testing everything out at once, I walked around in the raised tent, bent over, so I didn't snag the roof. I read for a minute like this, and a problem cropped up. I couldn't turn the pages, and the book itself jiggled around in my helmet with each step. Using a few armor tendrils, I held it in place and turned the page in my face mask.
+
+Voila, I read like a champ now.
+
+This masked reading allowed me to study magic while talking, working, doing anything outside of fighting, really. It would take getting used to, but the benefits outweighed its weaknesses. Stepping out of the war tent, I waved my thanks to the two soldiers who let me use it. They gawked in awe at me, each of them half my height.
+
+They weren't the only ones impressed, however. Each of them wore the Omega Strains that we harvested from this world. These multicolored, living gemstones gave them a colorful yet deadly bearing, one a deep violet and the other forest green. Each soldier leveled plenty from killing Hybrids as well, each of them capped to level 5,000.
+
+This, combined with my rings, meant these soldiers scaled to respectable levels of ability. Several thousand soldiers like them walked through this camp. It showed how our density approach to the guild assisted us in the long run. I intended on maintaining that approach going forward, and I skulked off to the party, reading the whole time.
+
+Florence pre-emptively called for a preparatory gathering with me. He mentioned not wanting me to walk in without some kind of plan. Hearing him out, we met at the entrance of Torix's lair above, right above the party grounds. Florence stood there on the steps of a Vagni temple, organizing messages in his status.
+
+The flamboyant albony wore stylish, flowing robes of several colors. It gave him the air of an Arabian prince. Seeing me stand over one of the shorter coral buildings, Florence spread his arms,
+
+"Daniel, it has been an age since I last saw you."
+
+He ran up and hugged me, and not wanting to be awkward, I returned the gesture. I didn't realize we were this familiar, but maybe that's part of the reason why Florence was so charismatic. His enjoyment of others ended with their enjoyment of him. It was kind of like a self-fulfilling prophecy, one where he kept control of its fruition.
+
+In line with that prophecy, Florence kept a hand on my shoulder while speaking of the party with enthusiasm. We stepped up the temple's walkway, reaching into its depths, and he gestured to a far-off room in the Vagni's ancient temple. In an unused chamber, Florence set up a tailored suit for me, along with a variety of jewelry.
+
+I stared at it, but, really, I stared at a book in front of my face. I was getting to the good part of a description in it, so I didn't want to set it down. I rolled a hand at Florence, "What about I just wear my normal armor? I think it will make me look more intimidating and earnest."
+
+Florence scoffed, "You're a guildleader of an S ranked guild. Do you honestly believe that such meager accommodations aren't necessary?"
+
+I shook my head, my armor rippling over my skin, "Eh, my last suit got shredded against Lehesion. I'm, you know, superstitious, so I don't want that to happen again."
+
+Florence put his hands on his hips, "I never took you for someone who believed in fairy tales or the sort. Odd."
+
+"Really, it's just this one thing. That's all."
+
+Florence tilted his head, smiling at me, "Ah, you're hiding something, aren't you?"
+
+I stiffened up, surprised he figured it out so quickly, "Pshhh, what? No. Of course not. Never."
+
+Florence raised his palms, "Do not fret, do not fret. I'm enough of a gentleman to know when pressure should no longer be applied. Simply walk-in as you are - you'll still wow them all, no doubt. Perhaps without the helmet, however. It's something I wished I didn't have to participate in-"
+
+Florence tapped the side of his mask, his claw pattering on the black wood, "These accursed masks ensure our relations with other species will always be...strained. Who wishes to discuss anything with someone who won't show their face after all?"
+
+Today was the day that Florence had to bring this up, huh? Shifting the conversation, I put my hands on my own hips, "I've been meaning to ask, but how have you and Helios's researches been going? I know he planned on giving me some portalling lessons. What have you figured out in the meantime?"
+
+Florence took a step back, peering back and forth, "Oh, quite a bit. Very much in fact...oh, very, very much let me tell you."
+
+I narrowed my eyes, "Uh-huh. Do you mind sharing?"
+
+He spread his hands, "I'll drop the helmet and attire conversation if you drop this probing of my duties. Does that sound amicable?"
+
+I smiled, "It's a deal."
+
+Florence puffed out his chest, "Then let us go forth to our guests."
+
+We stepped back into the temple's inner hallways, walking until we found Torix's main lair. The sorcerer stationed himself amongst several piles of books, his eyes parsing the pages with his analytical eyes. He raised a hand to me, unable to peer away from the pages,
+
+"Do excuse me this evening. I already have a rather lovely date that I simply must attend to."
+
+I frowned, "Tell me, is the date not alive like you?"
+
+"Yes. Quite unliving."
+
+"Is it full of information like you are?"
+
+"Indeed. Absolutely chock full, some would say."
+
+"And does it enjoy teaching as well?"
+
+Torix peered up at me, "Why, I believe you and my love interest may have already met."
+
+I turned a page of my own book in my facemask, "Eh, on occasion."
+
+If he had lips, Torix would be giving me a wily grin. It proved difficult not to laugh at our conversation because I was reading as he talked to me. Either way, I relinquished our necromancer from his social duties, so he could read as he wanted.
+
+Florence and I stepped past him, working our way towards a downward exit, finding the supplies from Elysium stacked here. Four super golems guarded it with unwavering resilience and attention. I turned to Florence,
+
+"What's all this for?"
+
+"To send a message of your dominance and prestige."
+
+I furrowed my brow at it, "Doesn't that seem, I don't know, overt?"
+
+"It is, but it's necessary. Your guild is small and compact. That serves as an advantage in many cases, but other guild leaders could look down upon you for it. Just look to the meeting area I procured. It's not an example of class and wealth. That much is certain."
+
+I stared at the expansive room with the pillars of steel, "Huh. It's nothing like Obolis's Nebula Drifter was, but it definitely gets the job done."
+
+Florence gestured to all our merchandise sprawled out in elegant displays, "And that is where this display of goods comes in. It allows you to signify your abundance in other ways outside of the location. It also enables you to understand more about the goods therein."
+
+I crossed my arms, "How?"
+
+Florence raised a hand, "I'll give you an example. I'm certain that Obolis wished to trade some of these goods with you, correct?"
+
+Florence was a mind reader. I nodded, "Yeah, he did. Did he send you a message or something?"
+
+"Of course not. I know Obolis well enough to derive his motives. He wishes for treasure from the outer reaches of space. Much of this fills that criteria. Armed with that understanding, you may pay attention to his nonverbal cues and what he wishes to trade for. Depending on the messages Obolis sends, you can understand what is valuable and what isn't."
+
+Florence shrugged, "That saves you some time when parsing out the valuables thereafter."
+
+I leaned back, "Damn. I never thought of that. At least I did think of this-" I pointed at four super golems guarding everything in sight with determined conviction. Florence pointed at them,
+
+"Safeguarding possession is a worthy pursuit, and many do so. However, few people gather the wealth of information hidden behind the subtext of every conversation. If you pay attention to a person, you'll find more than what they simply share. You'll also uncover what they wish to hide."
+
+I furrowed my brow, "Florence...Don't tell people you think like this. They'll take it the wrong way."
+
+He wrapped an arm around my shoulders, "And you see my, friend, I don't. That being said, I value our friendship highly, so I'll share a few of my own tricks here or there with you. I know that of all the people I've been close with, you're one of the few who will repay me in full."
+
+I frowned, "What do you want?"
+
+Florence shrugged before dashing off, "Nothing, for now. One day I'm certain we'll arrange something. Until then, I have a celebration to plan."
+
+He dashed off before stepping to the entrance of a corridor. He gave a bow along with an introduction,
+
+"And introducing the lovely and stunning Althea Tolstoy."
+
+Althea walked down, sporting a black dress that slimmed her already alluring figure. She smiled at me, and my heart did a little dance in my chest. Florence walked up the way she came, and he gave us some alone time. I stepped up to her, "Hey, beautiful."
+
+"Hey, handsome. I see you aren't wearing a suit this time. Why the change in attire?"
+
+"I didn't want them to see me in a different light than how I always am. That and the last party's outcome made me nervous."
+
+She rubbed her exposed arms, "You and me both. I still get chills thinking about it. It's a lot like the Spatial Fortress today...Huh, I just thought of something. I wonder why they didn't attack Giess?"
+
+"If I had to guess, Elysium puts all or most of their defenses around Giess when sending Lehesion out. Otherwise, they wouldn't be able to use him like they tend to."
+
+Althea stared down, "Yeah, I guess so...Are you ready for this, uh, party, I guess? I didn't think it would be like this."
+
+I raised my palms, "I handed it off to Florence, and you know how he is."
+
+"Heh, he's crazy. He seems like a good guy, though I can't ever tell what he's up to. I'm glad you're helping him iron out his issues with his family. I know it really threw me off when I saw it. At first, I thought that maybe it was because that's how families are. I don't have much of a reference."
+
+My face wrinkled at her words. I didn't know what it was like growing up in a lab, so I said,
+
+"Yeah, I knew a lot of different families before Schema's culling. Sometimes, they treated each other like they were better than other people. Other times, families treated each other much worse than strangers because those families knew they could get away with it."
+
+I tilted my head, "I think you should treat the people you're close to with respect and realism. They have flaws, and you probably know those flaws. That doesn't mean they're terrible people. It just means you know more of what they're hiding than the strangers you meet."
+
+Althea smiled up at me, "You get to see their good side too."
+
+I smiled back, "You do."
+
+We held each other close, slow dancing for a second to a song that wasn't playing, but we both heard. The moment ended as Florence began shuttling people inside, most of their names I already knew thanks to a manifold mind. I grabbed Althea's hand, giving it a light squeeze.
+
+"You ready?"
+
+She gulped, "For a huge celebration?"
+
+Obolis stepped out, speaking with two other albony royalty. He raised a hand to us while Althea whimpered,
+
+"Blegh, never."

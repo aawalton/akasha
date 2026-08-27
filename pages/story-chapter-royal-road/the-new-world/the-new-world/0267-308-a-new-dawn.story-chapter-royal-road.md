@@ -1,0 +1,227 @@
+---
+id: ba829c46-cd39-54fd-8be9-df0bfcb23d2c
+page-type-slug: story-chapter-royal-road
+title: "308 A New Dawn"
+slug: 0267-308-a-new-dawn
+partOf: the-new-world
+position: 267
+ownLength: 4218
+unit: words
+ownProgress: 4218
+publishedAt: 2021-09-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/747313/308-a-new-dawn"
+royalRoadId: "747313"
+markedReadAt: "2026-06-29T21:30:20.885Z"
+---
+
+"You're right. I spoke with him about being contracted under the Empire. I wanted to buy out the contract, along with his village. What's your price?"
+
+A sly grin cropped up on the Emperor's scarred face, "Oh, Tera? He's not for sale."
+
+Chapter Begin
+
+I leaned back, "What? Of course he's not for sale. I'm talking abofut the contract."
+
+Obolis rolled his eyes. "The difference between the two is negligible. Tera is an enormous pool of potential value, and while I understand your misgivings with our methods, I can't offer him to you without excessive compensation."
+
+Several minds kicked into action, as before. The fluidity of the process came through better this time, making me less clunky and stunted. I turned a hand,
+
+"Then there's got to be a price you're willing to accept."
+
+Obolis furrowed his brow, "That's the issue at hand; his value far exceeds what you believe it is. For that reason, the prices I'd state are unwieldy for you. At this time, that is."
+
+I raised my brow, "Try me."
+
+"Would you offer me all the treasure you gained from this ceasefire with Elysium?"
+
+I took a sharp breath, understanding that he wasn't playing 'Mr. Nice Emperor' anymore. I crossed my arms, "Ok...justify that demand."
+
+"Gladly. Tera is a Speaker who capped his level. He's a member of the skeptilian race, giving him a natural affinity for arcane magic. This sorcerous potential gives him a similar combative ability to a Breaker but with the logistical strength of a Speaker. That combination is invaluable."
+
+I frowned, "You could just send in a Breaker and a Speaker in place of him. Now I'm all for classers and their powers, but I'm well aware their wages wouldn't amount to that treasure over there. Don't try to play me here."
+
+Obolis raised his palms, knowing he was pressing a nerve, "While I understand your hesitation, you must also understand what Tera has accomplished under Phillip's instruction. Almost single-handedly, Tera gained the Empire another planet."
+
+Remembering Tera's misgivings over his titles, I clicked together a few pieces of my previous conversation with Tera. He was a World Breaker. Based on what Obolis just said, the World Breaker title didn't mean Tera literally shattered a world. He could've broken a planet in other ways. Putting two and two together, I gave Obolis a slow nod,
+
+"Ah, so that's what happened. Tera bankrupted another large guild on a planet. He made the world go 'broke,' so to speak, giving him his title. That's also why Phillip is in the position he's in; Tera earned it for him. That's impressive. I'm guessing you came in and took over the world by buying out their debts?"
+
+Obolis's eyes widened, "Well, well, perceptive, aren't you? That's correct. Tera gained us Absolon-78 by collapsing their economy. It was a genuine display of genius, and that's why I can't hand him over without absurd payment."
+
+I tilted my head, "That explains why Phillip didn't seem that well put together despite wearing a black mask. Compared to Florence or Helios, he's underwhelming by comparison."
+
+Obolis winced a bit at my words, the Emperor well aware of that issue, "You noticed that, hm? It's a shame that he's misrepresenting the Empire's lofty impression, but I must reward the subjects who reward me. Otherwise, motivations may plummet, and few would serve me well in turn."
+
+"Then why not reward Tera? He's the one who did all of that. Not Phillip."
+
+Obolis sighed, "Alas, the Empire is constructed with the albony at its center. To maintain order, I give the rights of lesser planets to my family members. Their management allows those planets to prosper, and what their subjects reap goes to the rulers above them. That is why Phillip wears the mask he does, even if his character doesn't suit its expectations."
+
+"But by giving the rewards to the albony, you end up in a system where many people succeeding aren't actually compensated. If you bend that system, even a little, many talented people will pop out of the woodworks. They'd want to achieve more because they would get what they deserve instead of helping those above them. It's not that complicated, honestly."
+
+Obolis gave me a knowing smile, "Your idealism is admirable, if not infectious at times. However, you lack the perspective to understand why I do what I do. Until you gain that context, I would reserve judgments."
+
+I rolled my hand, "Lay it on me then. Let's hear out those circumstances."
+
+"To put it concisely, all other large guilds employ these same tactics. If I neglect to use them, I end up well behind their curve of growth. Once behind, my guild would be susceptible to invasion by the eldritch and more. If I wasn't pragmatic during the Empire's inception, I'd have lost many of my worlds by now. I fear I would cease to own any planets at all, not even my own homeworld."
+
+Obolis raised his eyebrows, "And surely you understand how devastating that may be. Once owned, a race may be demoted to subservience, and it is a cruel fate. Through my maneuvering, I saved my own kind from that outcome. You may need to do the same for your own species, lest they become the prey of some other guild."
+
+Remembering Earth's inadequate infrastructure, I nodded, but I wasn't quite finished with my point. I raised a hand, "Yes, but those tactics may not be necessary anymore now that you're established. If you think about it, by continuing to put the albony on top, you've weakened the loyalty of those you're ruling. It comes across as unfair. That lacking loyalty is why you're experiencing a rebellion right now."
+
+I pursed my lips, "If you took a different approach, then you might not be in this war at all."
+
+Obolis shook his head, "Once again, your words are put together well, but they neglect the context of our situation. To maintain the Empire at all, I've resorted to unscrupulous tactics in the past. While I've attempted reconciling with those methods, I could never fully realize my reforms."
+
+I raised an eyebrow, "So what went haywire?"
+
+He spread his hands, "Eldritch would spiral out of control along with crime and discord. The planets under my wing would become proxy to other factions, and for continued governance, we've used harsh strategies. I would mention that we are, in fact, less stringent than many other large guilds. That laxness is why planets such as Blegara were lost."
+
+We disagreed there. I fought on Blegara, and the Empire never thought of the Vagni as anything more than local barbarians. While they were primitive, the Vagni held a culture with art, buildings, and even religions. Despite those signs of civility, the Empire restricted the Vagni from leveling properly. Many issues popped up because of those restrictions.
+
+Being all too aware of that, I raised a hand, "You sure about that's why Blegara fell? I saw the Vagni, and they were highly underleveled in Schema's system."
+
+Obolis shrugged, "They'd yet to earn our trust, and by restricting them, we stopped their rebellion from being as powerful."
+
+I waved my hands, "I'm thinking the opposite happened. The Vagni never gained any attachment to Schema or his system because they weren't allowed to engage in it. That meant when Elysium arrived, the Vagni had nothing to lose when they switched sides. Since you actively suppressed the Vagni, they lacked loyalty for you and your ruling as well."
+
+Obolis frowned, "The Vagni are only 'loyal' to the eldritch. That incessant refusal to move past worshipping monsters is why we restricted them in the first place. Our policies were more lenient in other territories, but we can't be expected to grant support to a people that serve our enemies. They'd have rallied behind the eldritch and led to Blegara's glassing."
+
+Obolis crossed his arms, "And so, I enacted a necessary evil. You do raise a good point of domesticating the natives, but unfortunately, the planet was a mismanagement of resources from the beginning. I shouldn't have attempted to conquer it at all. That's one of the reasons I gave this planet to you. Your skillset enables you to control wilder places such as this, just as you controlled the eldritch."
+
+He wasn't wrong about that. The eldritch responded to me well, even if they feared me. That alone gave me a different tool kit than Obolis, and those options are why I succeeded where he hadn't. Obolis put a hand to his chest,
+
+"On the other hand, I am more equipped to dominate developed areas. This is because economic tactics work well in civilized societies. That is also why I value Tera so highly; he's proven effective at utilizing those monetary means in the past. Given his history of excellent service, he's likely to do so in the future. These factors are why he's worth more than most."
+
+Obolis frowned, "And that is why I can't hand him over for minor gains. He has won us too much territory for too little investment."
+
+I raised a hand, "But how much of that territory was really yours?"
+
+Confusion spread over Obolis's face, "I would imagine all of it, by Schema's standards at least."
+
+I gestured around us, "But at the end of the day, you couldn't command the people or monsters here. That's because a planet is more than just a place. It's the people living on a planet too. If you never get those people on your side, then the planet isn't really yours. That's why I worked with the eldritch on Blegara instead of exterminating them. I wanted to win over the Vagni instead of controlling them."
+
+I squeezed my raised hand into a fist, "That is what's crumbling your Empire's grasp. You have to get people on your side, not force them under your heel. You understood that with the albony, and they offered you reverence and respect in turn. I've seen that with every albony that's ever been around you. Now you have to extend that to other people, even if it only starts with the talented few who happen to rise up."
+
+I offered the Emperor a hand, "A talented few, like Tera."
+
+A smile crept over the Emperor's face while he narrowed his eyes at me, "Well now, that was a rousing speech. Tell me, what inspired you?"
+
+I put my hands on my hips, "Nothing. I just said what I thought."
+
+The Emperor tilted his head while looking me over, "Oh, but I disagree. You've changed since we last spoke at length. You're putting yourself together far better, and you're more convincing. Did you gain a new skill? Perhaps you unlocked some skill tree for persuasion, hm?"
+
+"I'll leave you with that mystery, but my point still stands."
+
+He scoffed, "Ah, well, I do enjoy an enigma from time to time." He took a breath, "Now, regarding your points, they're interesting. However, my current administration would've never collapsed without the input of Elysium. They are the sole reason that these rebels gained any traction at all. There's little I could've done to prevent this attack."
+
+I shook my head, "But see, I don't think that's true. Those policies you mentioned made Blegara a vulnerable target. That's why they attacked you. You showed them a soft underbelly, and Elysium bit into it."
+
+Obolis raised his brow, "And you believe other factions are different? They, too, would've crumbled under the stress of both the eldritch and Elysium. In the end, our predicament is the result of misfortune more so than mistakes."
+
+I spread my hands, "But that's my point. If your guild needs good fortune to maintain itself, then you're relying on luck to maintain it. If no one wanted to rebel on your planets, I doubt Elysium's current push would be as successful. Those strong-arm tactics are backfiring."
+
+Obolis leaned back, considering what I said. While he deliberated, I pressed my point,
+
+"So with Tera, you can take this for what it is - a first step to making your guild more solid. It isn't as if Tera would be ungrateful for this new opportunity either. He could tell his story and inspire others to do the same. I can have Torix show you some of the media practices we use for our own guild even."
+
+Obolis laughed at that before waving his hand, "We have a media team of our own. We lack the need for oversight from Torix, though the offer's appreciated."
+
+"Either way, I'm willing to offer a trade that can help you in more ways than one."
+
+Obolis pointed his finger at me, "I can see it now - you've unlocked a mental skill of some kind. I can't understand how it works yet, but I will decipher it."
+
+I sighed before peering at Obolis, "Can you stop deflecting the conversation? Give me some of your thoughts. Come on. Talk to me here."
+
+Obolis interlocked his hands behind himself. He paced back and forth for a while, contemplating or pretending to. Once sorted out, he came to me and turned a palm, "I do wish to maintain our alliance, and I know you've made some kind of promise or arrangement with Tera. That much is obvious, and your pride is on the line."
+
+"His life is on the line based on what he's said about Phillip."
+
+"Regardless, you're asking me to give away a planet earner for what, exactly? A favor? Perhaps a single treasure? I can't afford to do that, especially when my own guild is currently being ransacked by an enemy faction, the strongest of which Schema has ever seen."
+
+His voice rose towards the end of what he said. It was the most riled-up I'd ever seen Obolis. He cooled off, "So, understand what I'm dealing with and what you're asking for. Please, do me that service."
+
+I frowned, "Well, you're definitely not wrong about that. How about this then - I'll take the rights to Tera and his clan in exchange for the ahcorus mission."
+
+Obolis raised his eyebrows, "Really now? You're willing to face a world-eating horror for just skeptiles? You do understand they amount to little more than backwater savages, don't you?"
+
+I winced at the phrase backwater savages, but I pressed on,
+
+"Here's what I do know: Tera has potential. If he does, then there are other skeptiles like him that do as well. Even if they come from some underdeveloped place, that doesn't mean they won't be the next avatar of an Old One."
+
+Obolis smirked, "But based on statistics, we know where an outlier is far more likely to form."
+
+"Sure, but you'll miss some of those outliers if you look at people as just 'backwater savages,' don't you think?"
+
+Obolis leaned back, "Can you name a counterexample?"
+
+I pointed a thumb back, "My whole team, including me."
+
+Obolis inspected my city for a moment, "Touche."
+
+"Remember, there are others like us out there. If you never allow them to showcase their abilities, you'll never know they have them." I rubbed the back of my helmet, "But, you know, I'm not ruling ten plus planets. Take my words with a grain of salt."
+
+Obolis contemplated before giving me a curt nod, "I've thought of this before now many times. Others have even discussed it, but you offer more than words. You are a living example of your idealism coming to fruition. That's why I'm even entertaining this discussion."
+
+He smiled, "I'll accept your deal of the ahcorus's aid for Tera and his clan. Despite granting you an elemental furnace, we both understood that simply wasn't enough of a reward for facing Plazia. I'd intended on a different payment, but this will do nicely."
+
+Obolis shook his head while furrowing his brow, "So do what you must for them, though don't voice complaints of their worth to me once they're under you. Also, don't expect the skeptiles to be as agreeable or as cultured as my own kin. They are brutish, but you'll uncover that soon enough."
+
+I raised a palm, "I need to know a few things first. How large is Tera's clan?"
+
+Obolis's eyes widened before he burst into a spate of hearty laughter. He chuckled and chortled until tears brimmed his eyes. As he wiped away a tear with a claw, he gave me a begrudging smile, "I must admit, Daniel. No matter what anyone says of you, they must admit you are bold."
+
+I flushed from embarrassment, but my helmet hid the tell. Obolis waved his hands, "Do excuse my enjoyment. It's simply been too long since I've been that reckless myself. I could learn a thing or two from it. That boldness wrought excellent results during your discussion with Elysium as an example."
+
+Obolis straightened himself out, "But yes, the clan that Tera holds is millions strong. You will gain many times your current guild's size from this trade. As I mentioned, I am not unfair to my subjects, and Tera is among them. I would not have him earn me a planet and not grant him a hefty wish in turn."
+
+He opened a portal, stepping back into his study, "That should act as a suitable reimbursement. It's more than the ahcorous may give me, but I haven't forgotten your arrangement with Elysium. By ceasing their attacks on our strongest worlds, it's made our position far firmer. Think of this somewhat lopsided deal as a thank you for that."
+
+He gave me a nod, "It's good we had this talk. I'll have a Speaker draft the contract you mentioned, and we'll sort out the details then. Just as well, do keep that boldness, would you? It's a delight to see in these dark times, even if it should show its consequences soon enough."
+
+Obolis stepped away, his portal snapping shut like a celestial guillotine. Once gone, pondered about the situation. He could be right about the skeptiles being primitive or useless, but I doubted it. In general, the Empire showed severe bias, and that favoritism led to them throwing certain people aside. To me, it was ironic, honestly.
+
+Obolis was a treasure hunter looking for loot on some far-off planet. He chased those stars, hoping for the next big find. All the while, he stood with a fortune right under his feet. He could gain so much from letting people like Tera rise to their proper positions. That might be why his Empire's military might floundered behind their economic prowess.
+
+By cushioning the albony, Obolis made many of them soft and weak. Races beneath the albony hardened over time, but those people never demonstrated their skills. Tera was the epitome of that, his position holding him back. Even with just a few more cases like Tera, a large chunk of the Empire's might was squandered behind arbitrary pecking orders.
+
+It would be like me putting Torix or Kessiah under random humans for no reason. That wouldn't exactly leave those two in the prime position to show me what they were capable of. I banked on those ideas with this transfer of resources. I mean, if Tera took over a planet while under someone like Phillip, imagine what he was capable of on his own. He could topple empires.
+
+Or perhaps help me build one.
+
+But I couldn't know until later on. Even then, Obolis had a lot of experience managing an Empire. My input could be coming from my lack of experience, but I still wanted to voice my thoughts either way. After all, the fastest way to end ignorence was to voice it. Someone could correct me then, and I just had to have the humility to listen. Yeah, the latter was definitely the hard part.
+
+Either way, I inspected my surroundings to get an idea of what was going on. By now, most people slept soundly in their beds or floating over them using my rings. Without the worry of constant invasions, many people got their first night of quality sleep since coming to Blegara.
+
+Others toiled through the night, some of them having chosen the willpower perk so they'd never need to sleep again. I followed suit, preparing for the journey tomorrow. Along the way, I found the mana crystals of our new hospital flaring fully. I stepped inside, finding Kessiah helping out a few members of the legion.
+
+She stayed lively, her complexion no longer as pale. Kessiah already wore the suit I made for her now, and she tapped a quintessence crystal anytime she exhausted herself, taking bursts of its mana for her use. Walking from patient to patient, she restored the missing limbs of those that lost them in the war.
+
+Unlike me, most people lacked the sheer endurance to restore missing limbs. This was accentuated by contact with the Hybrids. Often, people chopped arms or legs off that contained an infestation of the orange pustules and writhing cords. From those nubs, some restoration might occur, but rarely did full limbs come back.
+
+That's where Kessiah came in. She congealed bones from her blood before moving to skin and tissues. Once formed, she connected vital nerves to restore function and the like. I smiled at the somewhat grotesque process, but I also raised an eyebrow. She toiled with a fire in her eye.
+
+Staying busy, Kessiah only looked up from her work once to hiss,
+
+"I'm not going to take what Spear said lying down. We'll show him what we're made of. I say we start with demonstrating how we treat our own."
+
+That was the right attitude to have about the whole situation. I let Kessiah go about her business before inspecting the center of our unnamed city. At the core of it, Schema installed a warping station and a galactic trader. Even if the AI forgot our quests, he didn't forget this part at least.
+
+Maybe he had a good reason for neglecting us, as Spear said. In the end, my guild and I suffered for it, so Schema's explanations didn't really matter to me. He was cutting us off for some reason, and I aimed to discover why. Warping towards Mt. Verner, I stepped out into the open, forested air.
+
+I floated over toward our base's peak. The crisp cold and thin air swept against me while I sat on an icy stone. Snow surrounded this elevation, one of the few hills in Michigan where that was the case. From this vantage point, I stared at the rolling hills beyond our mountain's reliable peak. Out in the distance, birds flew, and the dew of dawn settled on oak leaves and pine bristles. Between these wooden spires, I found eldritch skulking. Small and underdeveloped, they squeezed between our extermination forces. I sighed, knowing even here, we hadn't kept the eldritch fully contained. Sending a few golems over here, I smiled at the impact even one of them would have. The countryside would flourish, and we'd expand to the far-off horizons.
+
+I'd finally be pulling this place, my home, up from Schema's culling. Only one task stopped me now, but it wouldn't stop me for long. I stared into that vast distance while cracking my thumb knuckles. As they popped, silver fluid dulled the otherwise sharp, metal cracking of my joints. Those cracks boomed loud into the air around me, causing birds to fly away in the distance.
+
+All the while, I read interesting tidbits on my ciphering. I synchronized another mind, pulling out another elemental furnace from the treasure we gained. The ancient lettering stood out as newer than my current furnace, the gray, matte surface showing a graphene exterior. One of my disparate minds tapped into this furnace in my hand, and from that eternal fire came unbounded energies.
+
+It revved into action, turning bits of generated matter into plumes of mana. That psyche took a small portion of the generated energy, strengthening itself further. Focusing deeper than before, this anima extracted more mana from the furnace by concentrating deeply. Once it unlocked the full potential of the device, the furnace reverberated with power.
+
+I stored that power in my cipheric runes. These two furnaces added billions of mana every minute, but from my storage, I pulled out several more furnaces. Lifting them up around me, manifolded minds synced with one of them at a time—each blistered energy of untold volumes into my cipheric carvings.
+
+The sun rose in the distance, and I stood with it. As I did, my aura trembled from seven furnaces firing at total capacity. A distant, sauntering cloud blocked my view of the gorgeous dawn. It lingered so far away that the massive plume appeared small in my eyes. Despite that distance, I raised a hand.
+
+The cloud warped, wisping to a singular point of water. That liquid plopped to the earth, my view of the sun cleared. I gawked at the display, the range of my abilities far exceeding what I believed of them. Dwelling on what I was capable of, I allowed my mana to effuse ever so slightly. The air around me blurred from it, the dimension around me warping.
+
+I hoped Plazia was ready for me.
+
+Because I was ready for him.

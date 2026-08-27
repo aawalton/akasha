@@ -1,0 +1,233 @@
+---
+id: 2b7eb385-78a3-5633-bf8e-e2f8490016fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68 – A Chest Full of Trouble"
+slug: 0068-chapter-68-a-chest-full-of-trouble
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 68
+ownLength: 2261
+unit: words
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2919428/chapter-68-a-chest-full-of-trouble"
+royalRoadId: "2919428"
+---
+
+Damien stepped up to challenge the badger, his sword drawn and his shield ready. "Get up you all! You want to advance to your next Guild rank don't you? This badger is weakened. We can defeat it, no problem!"
+
+Thankfully, Serena, Kalen and Kiva weren't rushing to help Damien fight the badger.
+
+"Why are you just sitting and staring? The monster we need to defeat is right there! Get up and fight. We have an ongoing System contract that states that you have to help get to this boss and back."
+
+"Yes, but nowhere was it stated that we have to kill it. This creature doesn't seem dangerous. It's not attacking," Serena said, pointing at the badger, who was licking at its wounds, seemingly completely uninterested in what was going on around it.
+
+"It's a monster! Of course, it is dangerous," Damien insisted.
+
+"You said the same thing about me," Kiva pointed out. "Not to mention, that the one who saved us was a monster."
+
+The weasel girl pointed at Liora, who at the moment was wondering whether the badger would mind if she grabbed its eye.
+
+Don't you even fucking think about it!
+
+But maybe—
+
+NO!
+
+But—
+
+I swear to everything that is holy, if you try to grab the badger's eye I will get my body back on my own and then strangle you, you stupid, shiny obsessed bird!
+
+Damien paused and looked at Liora, then shook his head. "There's a very big difference between a slightly strange bird and a giant, monstrous badger. We need to defeat it."
+
+Okay, I'm putting an end to this.
+
+Liora shook her head and then flew straight at Damien. She pecked him all over the place, deliberately hitting the places which weren't protected by his armor. Obviously, she wasn't using her full strength. At worst she might give him a mild bruise.
+
+"Ow, ow, ow! Stop, STOP!" Damien yelled, flailing his arms and trying to shoo Liora away. But she was too fast and kept pecking him all over.
+
+"Caw, caw, caw!" She screeched occasionally. For emphasis.
+
+"Okay, okay! I won't attack the badger!" The blond man finally relented.
+
+The moment he did, Liora stopped her onslaught, landing on the ground in front of him.
+
+"You're an absolute menace!" Damien growled.
+
+"That menace has already saved your life on several occasions," Kalen pointed out.
+
+"Shut up!" Damien growled, throwing his arms up in frustration. "How are we supposed to complete the quest now?"
+
+"We go back to the Guild and explain what we saw. That the badger was half-corrupted, so we couldn't do the test properly," Serena said calmly.
+
+Check your quests real quick.
+
+Why?
+
+Just do it. The others will see them too.
+
+Liora brought up her quests. Or namely the quest, since there was only one ongoing one. Except much to her surprise it wasn't ongoing at all.
+
+[Quest: Defeat the Cave Badger]
+
+[You've completed this quest!]
+
+"That bird can even bring up System screens?" Damien asked in surprise.
+
+But the others didn't seem so bothered, instead opening up their own quest screen.
+
+"Wait, it's marked as complete," Kiva said cheerfully.
+
+"Yeah, it is," Kalen confirmed.
+
+Damien hurriedly brought up his own quest screen and gasped. "It really is complete. But how?"
+
+It's actually the badger who decides when it's been defeated. It's the guardian of this place and has established a partnership with the Guild. They provide it with all the food it could ever want and it tests the strength of young adventurers without killing them.
+
+What?! But isn't this badger created by the dungeon master?
+
+Yeah, it was. But it's a badger. It won't obey somebody just because it created it. The only thing it cares about is food. Bribe it and it'll actually consider your requests.
+
+Wow, what a gluttonous badger!
+
+You could be great friends.
+
+Only if it shares.
+
+The badger suddenly stirred, growling and instantly making everyone flinch and snap their attention to it. It lazily got up on its feet and lumbered towards Liora.
+
+The humans (and Kiva too), jumped back nervously, each taking a hiding place behind a tree. Cowards. Liora stood tall as she faced the badger. It looked down on her with a tired look in one eye and a very shiny other eye. For a moment, they stared at each other.
+
+What? What does it want?
+
+I don't know!
+
+Then the badger bowed. There was no need for words to understand what it really meant. It was thankful to be cleansed of the filthy corruption. Now when she thought about it, the forest itself seemed cleaner. The air was easier to breathe. Could it have been that the badger itself was the source of it?
+
+"Chak-chak-chak!" Liora replied. "You're very welcome!"
+
+The badger raised its head, looked at the humans for a moment, and then lumbered away back into the depths of the forest. It was nice to see it recovered, but Liora couldn't help but feel a bit cheated. All that work and nothing but thanks in return. It could have given them at least a glimmerstone or two.
+
+But then suddenly Liora's Treasure Sense went off like a giant alarm bell. A treasure had appeared somewhere nearby. Something really valuable. She flew towards the place where her skill was urging her to do.
+
+Oddly enough it was pointing underground, near the place where the badger was lounging previously. Liora jumped around, searching for something, anything that could indicate treasure.
+
+"What's wrong, Liora?" Serena asked, coming up to her.
+
+"I think she found something," Kiva noted, also looking around the place.
+
+I feel it! I feel the treasure. It's definitely something here but I can't see it.
+
+It might be hidden underground.
+
+Liora began digging at the soil, trying to move the earth out of the way. But neither her beak nor her legs were made for digging. She barely made any dent in the earth.
+
+"There's something in the ground? Leave it to me!" Kiva said confidently, and began digging in the spot where Liora had tried to before.
+
+Earth and rock were flying in every direction as the weasel girl dug, forcing soil every which way. Liora was forced to back away or have her feathers dirtied even further. Others also came closer, curiously peering into the hole Kiva was digging.
+
+"I see something!" Damien pointed out.
+
+Everyone joined in digging efforts. Even Damien suddenly didn't care about getting dirty. Liora knew all too well what was driving them. It was the thirst for treasure. She was proud that they could appreciate the value of treasure. But at the same time, she had no intention of giving up the treasure.
+
+Liora hovered in the air right above them, watching as they dug up more of what looked like a huge, ornate chest. It was by far the most impressive dungeon chest she had seen so far.
+
+Wow, there must be something good in it. But why was it underground?
+
+Dungeon chest can be hidden anywhere. It is smart to examine locations around tougher opponents. In this case, the chest was hidden right under the badger.
+
+Before long the large chest was lifted out of the dirt, five pairs of hungry eyes staring at it. Much to Liora's relief there wasn't a lock on it this time, because she wasn't sure if she could break open this one. The metal looked far too thick. She supposed the lack of lock was because of how well hidden it was.
+
+"Before we open this," Damien said diplomatically, holding his hand on the chest lid. "Let's agree to split the spoils evenly. If it's a valuable item, then we sell it and split the money. If there's multiple items, then we split them evenly."
+
+"Agreed," Serena said.
+
+"I'd be more worried about your bird here," Kiva said, pointing up to Liora who had perched on Damien's broad shoulders.
+
+"We're splitting it evenly, bird! You can get paid in birdseed if you don't like money," Damien said, trying to glare up at Liora.
+
+"Chak-chak-chak!" Liora replied. "I make no promises."
+
+"Was that a yes?" The blond man asked.
+
+"No clue," Kiva shrugged.
+
+Serena's forehead creased. She likely had realized that Liora wouldn't be adhering to any codes of honor. Nonetheless the mage remained silent. Liora definitely would share the goodies with her.
+
+"Okay, I'm going to assume that the bird will be good. I'm trusting you, bird! Don't make me regret that," Damien said with a huff and turned his attention back to the chest. "I'm opening it."
+
+The others nodded. He then reached down and opened the lid. Liora stared at the contents in awe. The chest was filled to brim with glimmerstones. There must be at least a hundred of them there.
+
+"So many glimmerstones…" Kiva gaped.
+
+Damien suddenly snapped the lid shut.
+
+"CAW!" Liora protested. She had been ready to swoop down and grab as many glimmerstones as she could reach.
+
+"Don't caw at me! You were going to grab them all, weren't you?" Damien chastised.
+
+"She totally was," Kiva confirmed, and Kalen and Serena nodded along.
+
+Traitors!
+
+You were going to do that though.
+
+Not you too, Renir!
+
+Why are you even trying to deny it? I couldn't imagine a scenario where you wouldn't be grabbing every single glimmerstone in front of you.
+
+Liora tried to think of a scenario like that. She was sure that there must be one where there was a glimmerstone in front of her and she didn't reach out to grab it. But the more she thought about it, the more she realized that Renir was right. Only death could stop her from getting more glimmerstone, and even then it was questionable.
+
+She had died once and been reborn as a magpie. She could continue collecting glimmerstones and other treasures when she's reborn. So really there was nothing that could stop her.
+
+"I say we carry this back to our nearest safe spot and then distribute the glimmerstones there. We'll have to unlock new skills then as well," Serena suggested.
+
+"Agreed. We can block the entrance so the bird wouldn't be able to escape," Damien said, trying to shoo Liora off his shoulders. She merely pecked his hand gently, warning him to back off.
+
+Damien and Kalen then grabbed the chest, each on a different side and carried it back to their last hiding spot. Liora and Kiva kept vigil watch, one watching for threats and the other listening for them. But nothing dared to wander so close to the badger's home, so they got to their hiding spot.
+
+Once inside, they blocked off the entrance, leaving just a small enough hole for air to flow through and turned their attention back to the glimmerstones. They shone ever more brilliantly in the dim cave, making them look all the more magnificent.
+
+"Okay, I'm going to give everyone their share of glimmerstone, one at a time, so everyone can count along," Kiva announced, reaching for the chest.
+
+Kalen slammed his hand on the chest lid. "No way! I've seen you cheat people at card games. You'll make those glimmerstones disappear in your sleeves without anyone noticing."
+
+"I'm against it as well," Damien said coldly.
+
+"Sorry, Kiva. I think it's best if somebody else did it," Serena said.
+
+"I nominate Serena. She's the most honest person I know. Couldn't cheat a fly because her conscience wouldn't allow it," Kalen said.
+
+Damien looked skeptical. "I'd rather be the one to distribute it."
+
+"We don't trust you," Kiva shot back.
+
+"CAW!" Liora protested. "Just get to sorting already!"
+
+After some more back and forth it was decided that Serena would be the one to distribute the glimmerstones as she was the least likely to cheat a person or bird. Liora just sat down dutifully on the ground and waited for Serena to give everyone their glimmerstones, one at a time.
+
+It was pure torture. Liora wanted to grab them all at once and put them in her Inventory, but Serena insisted that everyone keep their glimmerstones in front of them, so they could constantly follow the count. Each glimmerstone that didn't go to Liora's pile was plain agony.
+
+No! I want them all!
+
+Sit still. You'll be getting plenty of glimmerstones.
+
+But I want them all!
+
+The distribution continued, each of them having exactly twenty three glimmerstones in front of them, when Serena paused.
+
+"That's not a glimmerstone, is it?" She asked, peering into the chest.
+
+They all got up to look at the contents of the chest closer and saw that at the very bottom buried beneath all the glimmerstones was another stone. It was the size of three glimmerstone and pulse with faith blue light.
+
+"That's a Pulse Stone! Wow, we're really lucky! They are really rare," Damien explained cheerfully.
+
+Liora, forget everything about being a good bird. Grab that Pulse Stone and get out of here.
+
+Aye, aye, captain!
+
+While everyone stared at the Pulse Stone, Liora hurriedly collected her share of glimmerstones. No reason to leave them behind. Then she changed into her magpie form and flew straight into the chest, grabbing the Pulse Stone.
+
+"Liora?!" Serena explained.
+
+"Sorry and goodbye," Liora said and flew towards the exit.
+
+Damien was screaming bloody murder at her and Kiva was rushing to grab her. But in her small magpie form, she was too fast for her catch. With Air Slash, the impromptu cave door was smashed to pieces and Liora was flying towards the dungeon exit. She had gotten what she came here for.

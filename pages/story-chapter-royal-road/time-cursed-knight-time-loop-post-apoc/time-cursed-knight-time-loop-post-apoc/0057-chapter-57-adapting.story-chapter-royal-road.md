@@ -1,0 +1,417 @@
+---
+id: 61dbbbaa-e00f-55cf-a335-a44bbf494389
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57: Adapting"
+slug: 0057-chapter-57-adapting
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 57
+ownLength: 3052
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3488689/chapter-57-adapting"
+royalRoadId: "3488689"
+---
+
+The dream was old.
+
+Not the kind of old that fades. The kind that calcifies. That hardens into something permanent in the architecture of the brain.
+
+I’d had it twice since the beach.
+
+This time, the dream gave me everything.
+
+I was small.
+
+It wasn’t me, me. It was Kaspar, the other one.
+
+The body I inhabited was a child’s. Twelve years old, perhaps. The limbs were thin. The hands that hung at my sides were soft, uncalloused, the fingers of a boy who had never gripped anything heavier than a quill.
+
+A lawn stretched before me. Vast and immaculate. The grass was the deep, saturated green that only constant tending and ridiculous expenditure could produce.
+
+Behind me, the mansion.
+
+I couldn’t see it in the dream. My body was being moved, pulled away from it. Yet, I could feel its presence. An enormity of stone and glass and old money that pressed against the air itself.
+
+Hexenzeit territory.
+
+The hand that gripped my wrist belonged to a butler. An older man in dark livery whose face I couldn’t quite resolve.
+
+Two soldiers flanked me. Their hands rested on my shoulders. Men who had been told bring him and had not been told be kind about it.
+
+I was speaking.
+
+Words poured from the mouth that wasn’t mine. Desperate. High-pitched. The voice of a child who understood that something irrevocable was happening and had not yet learned that words could not stop it.
+
+I couldn’t hear what the boy said. The dream swallowed the specifics, leaving only the shape of the sounds. The rising pitch, the cracking syllables, the way each word tumbled into the next without pause.
+
+The gravel path crunched beneath eight feet. Three sets of boots and one pair of shoes too polished for the terrain.
+
+Ahead, a carriage waited.
+
+Black lacquer. Iron-banded wheels. The Hexenzeit crest in silver on the door panel, small enough to be tasteful, prominent enough to be a warning.
+
+The driver sat on the bench with the reins loose in his hands and his eyes fixed on a point somewhere above the tree line. He did not look down. Did not acknowledge the procession approaching his vehicle.
+
+The boy’s body twisted in the soldiers’ grip. Not fighting. Not strong enough for fighting. Just the reflexive contortion of a small animal that senses the cage closing around it.
+
+My head turned.
+
+The dream gave me the scene in perfect clarity, as if the memory had been preserved in amber.
+
+The south wing of the mansion with its tall windows.
+
+There, standing on the upper terrace where the stone balustrade overlooked the grounds, a woman.
+
+Ameriz.
+
+The name arrived with the image, inseparable from it, as if the two had been fused in the boy’s mind. Yet another word fit her better.
+
+Mother.
+
+And yet, that word ached in the boy’s chest.
+
+She was beautiful. The dream insisted on this detail with a vividness that bordered on cruelty.
+
+Her hands rested on the railing. Her posture was straight. Her chin was level.
+
+Her expression was nothing.
+
+Not anger. Not grief. Not even the controlled blankness of someone who was feeling everything and showing nothing.
+
+Nothing.
+
+An absence of expression so complete that the face might have been painted onto canvas. A mask made of ice and silence.
+
+She hadn’t always been like this.
+
+He remembered warmth. He remembered a voice that said his name softly.
+
+Three days ago.
+
+Three days since the evaluation.
+
+Zero Circles.
+
+Three days since the warmth had disappeared from Ameriz’s face and hadn’t come back.
+
+She didn’t move.
+
+The soldiers lifted him. The boy’s feet left the gravel. His body was airborne for a moment, weightless between the hands that held him, and then he was inside the carriage and the door was swinging shut.
+
+The last thing the dream gave me was the sound.
+
+A small, decisive click that sealed the carriage’s interior.
+
+I woke drenched.
+
+The sheets were soaked. The pillow beneath my head had darkened. My shirt clung to my chest and back, the fabric adhering to some of the remaining bandages.
+
+My hands were shaking.
+
+I pressed them flat against the mattress and felt the cool linen, the solid surface beneath it, and the absence of chains on my wrists.
+
+A room.
+
+A room in the Imperial Palace. High ceilings. Thick curtains drawn against the morning light. Furniture that cost more than the tavern in Grenzheim.
+
+I lay there and let the dream’s residue drain from my body. It went slowly. The child’s voice lingered in my ears. The click of the latch replayed behind my eyes each time I blinked.
+
+Each time a memory surfaced — in a dream, in a flash triggered by a smell or a sound — the distance between his past and my present shrank by a fraction. The twelve-year-old thrown into a carriage wasn't me. I had never been that boy. I had never stood on that lawn or heard that latch or watched that woman’s face.
+
+Yet the grief that sat in my chest when I opened my eyes was real.
+
+I pushed myself upright.
+
+The room was silent. The Palace’s private wing maintained a hush that felt less like quiet and more like suppression.
+
+I’d been here for days. Three, by my count. Perhaps four. The hours had a tendency to blur when the only structure imposed on them was the cycle of physicians entering and departing.
+
+They came at regular intervals. Checked my status. Changed the bandages. Pressed mana-infused instruments against my chest and studied the readings.
+
+They asked questions.
+
+How are you sleeping?
+
+Any difficulty breathing?
+
+Can you describe your emotional state?
+
+I didn’t answer. Not because I was unable. Not because the answers were too painful.
+
+Because I didn’t have the energy for performance.
+
+Everyone wanted something from me. The physicians wanted symptoms. The officers wanted a debrief. The attendants wanted confirmation that the food was satisfactory.
+
+Each interaction required a version of myself that I couldn’t produce.
+
+Not at that moment.
+
+At that moment, my mind was far too full.
+
+So I said nothing. Ate when food appeared. Slept when my body demanded it. Stared at the ceiling when it demanded nothing.
+
+For everyone watching, and everyone was watching, the silence looked like trauma.
+
+They weren’t entirely wrong.
+
+The beach had left marks that went deeper than the burns and the bruises. The sound of chains. The weight of water climbing past my chin. The moment when the chains broke and the cages fell and I had to choose.
+
+But this wasn’t what kept me silent.
+
+The first days, perhaps. The first night, when the memory of the beach had been fresh enough, I had been grieving.
+
+However, I had known that kind of grief before.
+
+Not in this body. In the other one. The one that had lived in a world without mana, and curses, and elves.
+
+I had been a firefighter.
+
+There are things you see in that profession that you carry forever. A child’s bedroom with smoke stains on the ceiling and a shape in the crib that you know, before you reach it, will not be moving. A stairwell that collapses while your partner is still on the floor above. The sound a family makes when you walk out of a building and they read the answer on your face before you speak.
+
+You learn, in that profession, that some fires cannot be fought. That some people cannot be reached in time. That the margin between the ones you save and the ones you don’t is measured in seconds.
+
+You learn to carry the weight.
+
+You don’t learn to like it.
+
+What I hadn’t been prepared for, what no amount of firefighting or combat or dying and returning could have prepared me for, was the belief that I could save everyone.
+
+The curse had done that. The resets. The ability to die and return and try again.
+
+It was an intoxicant.
+
+Each loop whispered the same lie. You failed, but you can try again. You lost them, but next time you’ll be faster. Next time you’ll be stronger. Next time you’ll read the situation earlier and move quicker and the math will come out different.
+
+The lie was sweet. Addictive. It seeped into the foundations of every decision I made and rebuilt them around a premise that no human being should ever accept as truth.
+
+I can save them all.
+
+Pride.
+
+You would rather die a hundred times than admit you cannot save everyone.
+
+The skeleton was right.
+
+I had thrown myself against the problem of Grenzheim’s destruction with the absolute conviction that effort and repetition and willingness to bleed would be enough. That if I just tried hard enough, thought faster, fought harder, planned better, I could outrun the clock and outfight the elves and outthink the ritual and the entire military apparatus of a civilization that had been waging war for millennia.
+
+I had stopped the ritual. I had sent the letters. I had fought in the corridors. The front held.
+
+And five were still dead.
+
+Not everyone died. Not even close. Thousands were saved.
+
+But not everyone.
+
+Reality had delivered the truth: that everyone was a fantasy, and the real work of this world — the real work of any world — was choosing which losses you could carry.
+
+I could carry these.
+
+The silence that everyone mistook for collapse was something quieter and more complicated.
+
+It was recalibration. It was planning.
+
+Grenzheim had treated me like a savior.
+
+I hadn’t asked for it. But the public narrative doesn’t wait for permission from its subject.
+
+When the reinforcements from the garrison finally cleared the coastal cliffs and found the beach, I was barely conscious. The hypothermia and the salt-water damage and the burns and the exhaustion had compacted into something that looked, to the soldiers who loaded me onto a stretcher, like a body that was taking its last breaths.
+
+They got me to Grenzheim.
+
+The garrison physicians had worked through the night. Doctor Brennan, the same staff physician who had treated me after the Mana Blood experiment, had been at my bedside when I opened my eyes.
+
+“Welcome back,” he’d said. His voice was dry. “Again.”
+
+The town was different when I finally walked its streets.
+
+Not physically. The buildings were the same.
+
+But the faces had changed.
+
+People looked at me.
+
+They looked the way you look at something you’ve heard about but didn’t quite believe existed until it walked past you.
+
+I didn’t understand why until Mira told me.
+
+She’d found me at the Town Hall, where I’d gone to return a book I’d borrowed weeks earlier. Her desk was its usual controlled catastrophe of ledgers and correspondence and the small crystal communication device that she handled with casual expertise.
+
+“You’re famous,” she said.
+
+“What?”
+
+“Famous.” She reached into a drawer and produced a newspaper. Folded it open and placed it on the desk between us.
+
+THE IMPERIAL CHRONICLE
+
+The headline was set in type large enough to read from across the room.
+
+THE HERO OF GRENZHEIM
+
+Beneath the headline, a photograph. The image was grainy; crystal-captured photography was still a crude technology, rendering its subjects in shades of gray that compressed nuance into broad strokes.
+
+Next was a subheadline:
+
+IRON CROSS BASTARD SAVES SOUTHERN FRONT
+
+I stared at it.
+
+“Your letters leaked,” Mira said. She picked up her quill and resumed whatever she’d been working on before I arrived. “Or rather, they didn’t leak. The journalist who was already in town obtained copies through channels I’d rather not speculate about.”
+
+“Which journalist?”
+
+“Konrad von Ries. Imperial Chronicle. He’s been in Grenzheim for weeks.” She paused. “He’s good. Annoyingly good.”
+
+I picked up the newspaper. Read the first paragraph.
+
+The writing was precise and vivid. It described the battle in terms that balanced military accuracy with the emotional immediacy of narrative prose. The ritual. The defensive grid’s collapse. The mobilization of Grenzheim’s garrison through letters bearing the Hexenzeit seal.
+
+My name appeared in the third paragraph.
+
+Kaspar von Hexenzeit, a Schwarzling-ranked soldier of the Iron Cross classified as non-magical, identified the threat to the defensive grid and neutralized it through direct action before the military intelligence apparatus had registered the danger.
+
+“I asked to keep my name out of the correspondence,” I said.
+
+Mira didn’t look up from her ledger.
+
+“I did. Your name wasn’t in any communication I transmitted. Von Ries got it from somewhere else.” She turned a page. “He’s a journalist, Kaspar. Getting names that people don’t want published is what he does for a living.”
+
+I set the newspaper down.
+
+The implications were already unfolding in my mind.
+
+The Hexenzeit name. Published. In one of the capital’s most widely read newspapers.
+
+Connected to the Iron Cross. Connected to a front-line engagement.
+
+I could barely imagine the reaction from Hexenzeit territory.
+
+A name that Archduke Roderich had spent years burying, now blazoned across the front page in letters tall enough to be read from horseback.
+
+Whatever carefully constructed narrative the Archduke had maintained about his firstborn, whatever delicate political fiction had allowed the court to forget that Kaspar von Hexenzeit existed, was finished.
+
+It was done.
+
+The Hero of Grenzheim.
+
+That was the first nickname. Others followed with the inevitable proliferation of a story that the public had decided to love.
+
+The Bastard Knight. This one circulated among the soldiers, who used it with an affection that stripped the word Bastard of its sting and rebuilt it as a badge.
+
+The Chain-Breaker. From the survivors on the beach, whose account of the cliff and the cages and the iron chains that exploded like glass had apparently made it into one of the follow-up articles.
+
+Mana Breather. From the Academy circles, where the fact that a non-magical soldier had achieved what he’d achieved using only the most primitive technique in recorded history was producing reactions that ranged from fascinated to furious.
+
+I didn’t care about the names.
+
+I cared about what the names attracted.
+
+Within days, a convoy arrived in Grenzheim. Multiple carriages. Military escort. The Iron Cross insignia on every vehicle, supplemented by the royal crest on the lead carriage.
+
+Prince Varen wanted me back.
+
+The officers who accompanied the convoy explained, with the politeness of men who had been instructed to be both informative and persuasive, that my presence was requested for a ceremony. A formal recognition. An event attended by every significant political figure in the empire.
+
+The explanation was delivered by Major Oswin Brauer.
+
+I recognized him from Varen’s study in the palace. The heavyset officer with the face like crumpled leather.
+
+Brauer didn’t sugarcoat.
+
+“Your name is everywhere,” he said. We were sitting in Vael’s common room. Brauer had ordered ale. I’d ordered water. “Every noble house from the capital to the provincial borders. The Chronicle’s article was reprinted in six regional papers within forty-eight hours.”
+
+He took a drink.
+
+“A Bastard Hexenzeit saving the southern front. You couldn’t write a more politically explosive story if you tried.” His eyes, small beneath heavy brows, found mine across the table. “The nobility doesn’t know what to do with you. Half of them want to adopt you as proof that bloodline transcends magical classification. The other half want you buried because your existence threatens every assumption their power structures are built on.”
+
+He set the tankard down.
+
+“Prince Varen wants you by his side. In the capital. At the ceremony. Standing where every eye can see you, wearing the Iron Cross insignia, alive and functional and representing everything the Iron Cross was built to prove.”
+
+He paused.
+
+“That we must win the war.”
+
+I went.
+
+Back to the capital. This time to the palace.
+
+Three days of physicians and attendants and officers who knocked on the door and received no answer.
+
+Three days of being exactly what everyone expected: the broken hero. The traumatized soldier. The boy who had held too many things and cracked under the weight.
+
+Let them think that.
+
+The truth, the real thing consuming my attention behind the closed door and the empty stare, wasn’t the beach.
+
+It was the watch.
+
+My hand found the watch at my chest. The gold casing was warm against my palm. I pressed the clasp.
+
+The screen materialized.
+
+The countdown was gone. The timer that had measured the days until Grenzheim’s destruction had reached zero and dissolved. In its place, the interface had returned to its standard configuration.
+
+Notifications filled the screen. Stacked one on top of the other. A vertical cascade of blue-bordered text boxes that extended past the visible frame, requiring me to scroll through them in a procession that took nearly a minute to complete.
+
+I read them. One at a time.
+
+⌜ Senses — Level 6 ⌝
+
+⌜ Mana Perception — Level 8 ⌝
+
+⌜ Pain Resistance — Level 6 ⌝
+
+⌜ Novice Swordsmanship — Level 22 ⌝
+
+⌜ Mana Breath — Level 10 ⌝
+
+The numbers had climbed. Every skill had grown. Some by increments that reflected steady, grinding progress. Others by leaps that corresponded to moments I could pinpoint exactly.
+
+I scrolled further.
+
+More notifications. Skill acquisitions I hadn’t noticed in the chaos of the preceding days.
+
+⌜ NEW SKILL ACQUIRED: Swimming — Level 2 ⌝
+
+⌜ NEW SKILL ACQUIRED: Horsemanship — Level 1 ⌝
+
+⌜ NEW SKILL ACQUIRED: Endurance — Level 4 ⌝
+
+I almost laughed at the last one. Almost.
+
+The scroll continued. Beyond the combat skills, beyond the acquisitions, deeper into the notification stack where older messages waited.
+
+⌜ Reading — Level 5 ⌝
+
+⌜ Deception — Level 3 ⌝
+
+The forgeries.
+
+The System didn’t moralize. It measured. If you deceived effectively, Deception leveled. Whether the lie served good or evil was not the System’s concern.
+
+I kept scrolling.
+
+Until the last one.
+
+I reached the bottom of the stack.
+
+The final notification sat alone, separated from the others.
+
+⌜ WARNING ⌝
+
+⌜ Sin of Gluttony: Capacity Exceeded ⌝
+
+⌜ The Sin of Gluttony has consumed beyond its containment threshold. ⌝
+
+⌜ Accumulated absorption exceeds sustainable levels. ⌝
+
+⌜ Overflow protocol initiated. ⌝
+
+My hand tightened around the watch.
+
+A second line appeared beneath the first.
+
+⌜ Contents: Memories. ⌝
+
+⌜ Memories held by the Sin of Gluttony will be released. ⌝

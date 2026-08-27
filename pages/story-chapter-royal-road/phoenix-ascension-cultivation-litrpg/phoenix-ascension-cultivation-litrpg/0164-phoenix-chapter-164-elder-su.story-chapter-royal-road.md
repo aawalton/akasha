@@ -1,0 +1,293 @@
+---
+id: 77ae2267-6c0f-5a46-8680-23c32b398fcf
+page-type-slug: story-chapter-royal-road
+title: "Phoenix Chapter 164: Elder Su"
+slug: 0164-phoenix-chapter-164-elder-su
+partOf: phoenix-ascension-cultivation-litrpg
+position: 164
+ownLength: 2999
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3828933/phoenix-chapter-164-elder-su"
+royalRoadId: "3828933"
+---
+
+When I’d entered, an eerie aura hit me, accompanied by a stench of decay. It was awful, and all my senses were on overdrive, trying to understand what was happening.
+
+Nobody was around me, even though I’d entered with multiple people, and even though the entire area was dark, I could clearly see through it.
+
+Without much of a choice, I walked forward. I didn’t have any fears, since this was a building inside the sect. If it had any way of hurting those who entered, then it would be a really awful building.
+
+There were some images that appeared around the walls, glowing with a faint white light as they depicted a scene of war.
+
+As soon as I saw those, I knew what this place was.
+
+An indoctrination area. A pagoda of indoctrination.
+
+It was meant to show disciples that were strong enough to be in the inner sect the sect’s history, which was altered for dramatic effect, and to make them feel like serving the sect was a noble act.
+
+I did make it all the way through the tower, and the story was… interesting?
+
+At first, there were many clans led by leaders: kings, emperors, and tyrants. The land was dry, animals were scarce, plants couldn’t grow,w and the few trees that were didn’t produce anything useful besides the shade.
+
+That was, as the people called it, the Dry Land Era of the continent. At least, as far as they were aware, and as much as they knew of the continent back then.
+
+People fought amongst each other for food, clothes,s and resources as a whole.
+
+Death and loss were common things back in the day, and many great wars were fought, and people were wasted for them.
+
+Then, one day, something happened far away, so far that people only heard a thunderous clap that shook the heavens. Trees got uprooted, mountains collapsed, valleys sank in.
+
+No one knew what happened, but it was theorised that two very powerful cultivators exchanged blows.
+
+Then, water began to flow, but not just any sort of water.
+
+A river filled to the brim with Qi flowed down from all the way up top, where nobody knew what had happened, and gave new life to the plants and animals wherever it passed.
+
+The once dry land became lush with vegetation; animals thrived, grew stronger, and eventually evolved to become Spirit Beasts.
+
+As for humans, after realising that the river was magical, they naturally fought for the places upstream.
+
+They couldn’t go far because of some unknown limitations, likely due to the fact that they were too weak to go higher or their bodies would explode.
+
+Once they’d found the highest places, they’d naturally fought for them.
+
+The rivers led them down the path of cultivation. Discovering that the Qi could empower their bodies led them to create cultivation techniques, to realise that there was more to their bodies than muscle and flesh, and to make spiritual breakthroughs at a rapid pace.
+
+Even without fully understanding the path, they’d concluded that being in the richest area was better than not, and that they had an inherent advantage because of the rich amount of Qi.
+
+Therefore, once they wanted to settle and fighting started, many more lives were lost.
+
+The victors were benevolent, though. After winning the spot at the top of the river branches, which then split into more and more branches, they’d allowed the losers to occupy the lower ones.
+
+And so, the power structure of the continent was born.
+
+The images explained all of that in about twenty images, and some text.
+
+Next came why disciples should feel like the Reaper Sect was their family, though.
+
+Hundreds of years passed, and after each place had established itself, and sects began being a thing, the five clans occupying the rivers changed the way they presented themselves and their structure as a whole.
+
+The five sects have changed their names over the course of their history, and clans took charge and lost leadership, up until the current times.
+
+When the Reaper Sect was known as the God Slaying Sect, a period of darkness came upon the land.
+
+From the other side of the planet, from who knew were actually, demonic cultivators appeared.
+
+They plundered and burned away the land, killed and violated women and men alike, tortured children and animals, and didn’t leave until everything was destroyed.
+
+When the five sects saw such a thing happening, they couldn’t stay still.
+
+And the story went that they teamed up to defeat the big bad evil, with the top brass sacrificing themselves to slay the then-named Demonic Emperor.
+
+It was quite a basic backstory, and not unique in the slightest.
+
+From what I’d experienced, the demonic sect or clans or whatever they liked to be called were making an appearance again. That was a little worrying, but as long as they stayed out of my business, it would be fine.
+
+The last demonic asshole almost got killed by me, and he was a recruiter, of all things. I was really glad the Shu siblings did not fall prey to his schemes, though many more probably did.
+
+I couldn’t help but wonder what happened to that fatty.
+
+Anyway, the Reaper Sect painted themselves in a heroic light, and everyone was happy forever after.
+
+Then the images ended,d and I was finally in the pagoda.
+
+I really hoped that was a one-time thing.
+
+When I’d appeared, many people turned to stare at me again, and many couldn’t keep their eyes off of me.
+
+I… Was getting annoyed, actually.
+
+But it wasn’t such a grave sin, so I’d let it go. More importantly, I was more curious to know what the pagoda was about. I could see there were many floors and many clerks.
+
+“Welcome!” A smiling woman all but snuck up on me, startling me. I had to admit, I wasn’t paying attention, or she was that good.
+
+“Hello,” I spoke plainly.
+
+“I see that you’re not part of the Reaper Sect. Could you perhaps be a guest here for the tournament?”
+
+“I happen to be, yes.”
+
+“Wonderful! It’s been a while since we’ve had anyone not of the sect visit us. I hope you’ve enjoyed the little history lesson we’ve added.
+
+“Sure…” I did do a good job of lying to her face. Her attitude and demeanor didn’t seem to be that of a sect member, though, despite the fact that she was wearing the robes of the sect. “What is this place?”
+
+“Ah! Did you come from far away?”
+
+“You could say so.”
+
+“I see. Then allow me to explain. Junior Sister.” A shiver ran down my spine when she said that, but I didn’t correct her. “This is the most important place in the entire Reaper Sect. This is the hub to everything. And, don’t laugh, but its name is Reaper Pagoda. We aren’t exactly known for having the best naming sense now.”
+
+I rolled my eyes internally, and as it turned out, I was wrong. It was only part indoctrination pagoda.
+
+“To put it simply, everything outside would be the equivalent of a mortal’s shop, while inside here would be the emperor’s court. The only catch is that if you want to get anything from here, you would need to spend Reaper Tokens.
+
+“And Reaper Tokens are the currency used inside the Reaper Sect for mostly anything worth it in value. They are earned by sect members, so unfortunately you cannot… spend them, as you don’t have any…”
+
+I was not sure how to react to that. She said it in such a strange way that it made me question my sanity for a moment.
+
+“What’s the catch?” There was always a catch.
+
+“Oh, you’re perceptive!”
+
+I wish I could stick a sock in her mo- Wow, what was with this sudden anger inside me?
+
+“There is a catch, as you would like to call it. Visitors and visitors only can buy Reaper Tokens at an exchange of one to ten. One Spirit Stone would equal ten Reaper Tokens.”
+
+When she mentioned Spirit Stones, I wasn’t sure if she meant the small or medium kind. It changed between regions, based on their wealth. It was safe to assume that she meant medium-sized, though.
+
+Curious, and not wanting to chat with her more than I had to, I asked where I could exchange for some tokens.
+
+She’d pointed out toward a desk where a few people were lined up, and I made my way there in stealth.
+
+She looked pretty confused, but I was not going to stay there any longer. She gave me a bad feeling.
+
+Or maybe I was feeling particularly annoyed for some reason.
+
+Whatever the reason, I went and waited in line. It didn’t take long for the queue to advance, and before long, it was my turn.
+
+The clerk was also a woman, and she gave off… similarly eerie vibes. I didn’t even bother to greet her back and slapped a bag of holding with one hundred Medium Grade Spirit Stones on the table.
+
+She took them with a smile and gave me a skull-shaped token- how original- with the number one thousand on it.
+
+I didn’t know how far one thousand tokens could get me, but I supposed it should be enough just to allow me to explore.
+
+I doubted many disciples could collect obscene amounts of points anyway.
+
+Grabbing the token and hanging it by my waist, I walked around. Looking up, there were at least about fifty floors? If that was even possible.
+
+How were there even fifty floors in the place to begin with? Sure, it was tall, but not fifty floors tall.
+
+How have the people of this lower part of the continent mastered spatial manipulation to such a great extent?
+
+“Ah, I see you must be shocked by the grandeur of the place.” The woman who greeted me before appeared once again out of nowhere. “Yes, your assumptions should be right. No matter how much we’ve tried, we couldn’t replicate the spatial prowess of this pagoda. The truth is, it wasn’t us who created it, and we’d merely found it in a secret realm.”
+
+Figures…
+
+Of course they had to have found it in a secret realm and adapted it to their needs.
+
+“Impressive,” I muttered and walked forward, deciding to ignore just how this strange woman had snuck up on me not once but twice. Considering the patriarch was powerful enough, some strange servants ought to have risen from the strange Qi of this sect.
+
+I didn’t know where to stop first, but as usual, a place where one could find pills was always the best.
+
+The first shop that I saw was one… plain-looking one. Didn’t look much different from the others besides having the sigil of the Reaper Sect on top of the door.
+
+There was quite a selection of people when I’d entered, all wearing sect robes and looking around on the shelves.
+
+I stood out like a sore thumb with my orange hanfu and brightly colored hair. Now I was beginning to understand why everyone was staring; I would too.
+
+Regardless, I pushed away the feeling of being watched and looked through the shelves as well. There were no labels with prices, meaning that I would need to ask if I was interested in something.
+
+Which sucked.
+
+I was just about to turn away when two young men and women walked in front of me.
+
+“Hello there.” The woman in front said, a snake’s smile plastered on her face.
+
+I turned the other way. She was at the late stage of Qi Condensation, but I couldn’t give less of a fuck.
+
+“Wha-” She gasped, then footsteps hurried toward me, and not only did I feel the raised arm with my Divine Sense, but I also saw it as I turned around.
+
+“Ow-”
+
+Grabbing her wrist, I squeezed her just enough not to break anything but to make her feel pain. Letting some of my cultivation out, I applied pressure with my peak Qi Condensation stage.
+
+“You’re lucky this is your sect’s territory. Had it been anywhere else, your body would have turned to ashes in less time than it takes you to regret having attacked me.”
+
+I then let go and turned to leave the building. Since this was the reception I’d gotten, I wasn’t going to bother seeing the rest of the pagoda.
+
+Just as I reached for the doorknob, though-
+
+“Oh, it seems that we’ve had some issues. Apologies.” The strange woman appeared by surprise again.
+
+Was she following me around?
+
+“Elder Su!” The woman who tried to reach for me gasped, as did the rest of the people present.
+
+The strange woman, whose name I was now aware of, turned around, her smile slowly fading.
+
+“Is this any way for a member of the sect to act? How dare you try to attack a guest?!” She flared up, her unusually jolly demeanor disappearing.
+
+The sect member in question shivered as she got scolded by the elder, her wrist suddenly hurting a lot less than her pride.
+
+Seriously, what even was the point of that?
+
+Now she’d gotten caught and would soon be punished by the elder, and for what? Because I ignored her? She was a grown-ass woman!
+
+“Elder, but-”
+
+Elder Su looked to be at the end of her wits. She let out a frustrated sigh and let out the pressure of a Quasi Core Formation Cultivator. The entire building shuddered, and the woman fell to her knees, scared and afraid.
+
+Something was fishy about this whole situation. What were the odds someone was brain-dead enough to offend someone they didn’t know, and for this ‘elder’ to arrive right on time?.
+
+I couldn’t help but be suspicious.
+
+Without wanting to bother with the act or actual brain damage that woman had, I turned toward the door and left.
+
+The elder was still yelling at her when I’d left, and just to be sure, I activated all my stealth skills and made myself unseen.
+
+I almost rolled my eyes as I disappeared, not intending to stick around.
+
+However, due to the sudden disturbance, I couldn’t even take a look at the wares they had on sale!
+
+Part of me wanted to leave, but at the same time I did have a thousand tokens to spend.
+
+I was still wondering what that entire event was about. There was no way that woman decided to bother me for no reason, and that Elder Su probably wanted something from me.
+
+But I didn’t even know who she was. Thankfully, it didn’t seem like they’d noticed I wasn’t human, or their response would not have been so casual.
+
+But then, what did she want? Was she a witness to my lightning and wanted to inquire about it? Was she sent to recruit me?
+
+The entire situation was downright baffling, honestly.
+
+I didn’t deactivate my stealth skills until I was sure I was safe by entering another shop. It was emptier, as it had a sort of niche market.
+
+This shop was dealing in the selling of wine gourds, it seemed. Just the gourds, not the wine itself.
+
+I wasn’t sure why, but at least the only people present were older, middle-aged men. They didn’t notice me entering at first, but when the stealth deactivated, they seemed a litlte surprise.
+
+Looking me up and down, they nodded to themselves and went back to looking at the gourds.
+
+Weird…
+
+Since I was there anyway, I figured I might as well take a look.
+
+However… how interesting could looking at gourds be?
+
+They seemed really focused on them, though. Were they comprehending some sort of gourd Dao? Even if they did, doing so in a shop was hardly a good idea.
+
+It felt like any sense of normalcy went out the window the moment I stepped into this pagoda.
+
+After looking at the gourds for a whole five minutes, I’d figured that there was nothing interesting for me, so I went back into stealth and disappeared.
+
+That shop didn’t have any prices either. I was beginning to feel this floor was more like a tourist trap than anything.
+
+My theory was only further confirmed when the third shop I’d visited had the same condition.
+
+I didn’t even care about the weapons; I just made my way out and tried to get over to the second floor.
+
+A gate separated the two floors, and of course, there was a guard. He was a fat, bald man who raised an eyebrow when he saw me approach. There were many people going back and forth, but of course he had to stop me out of all the people there.
+
+I was beginning to wonder if the best way to go around was just to pretend to be a Reaper Sect member.
+
+Perfect Disguise could do that for me; I was pretty sure. As it was, I stood out too much.
+
+“Halt.” The bald fatty said, and well, I had no choice but to do so. “You’re not a sect member, are you?”
+
+I shook my head.
+
+“The entry fee is fifty tokens for non-sect members.”
+
+I paused, surprised for once that the person talking to me was reasonable.
+
+“Sure. How do I pay?”
+
+“Just tap your temporary token on the here place, and you’ll be good to go.”
+
+That was easy. I told myself and did just that, then hurried inside before Elder Su came back to sneak up behind me again.
+
+I allowed myself to let out a sigh of relief as I’d walked onto the second floor, and was surprised to see that there were many more people from outside the Reaper Sect there.
+
+Just as I was about to take a step forward, a creepy voice made me shudder.
+
+“Oh dear, why did you leave like that? I was just about to take care of that nuisance for you.”

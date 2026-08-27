@@ -1,0 +1,267 @@
+---
+id: 02aaa9d0-602d-52b6-8261-25996a476fa2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62: The Lord and Taco Tuesday"
+slug: 0063-chapter-62-the-lord-and-taco-tuesday
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 63
+ownLength: 2115
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3124334/chapter-62-the-lord-and-taco-tuesday"
+royalRoadId: "3124334"
+---
+
+The Worker's Union Hall was just as grey and depressing as it had been a week ago, but this time, Ren walked in differently. He wasn't a wealthy merchant with a baby strapped to his chest today; he was Lord Ren Fenris.
+
+He marched straight to the Director's office. Sylas walked a step behind him, radiating the kind of smug, professional satisfaction only a butler who has watched his master ascend to nobility can project. Mira waited in the carriage with Lily, too terrified to face the place that had held her family captive.
+
+The Director looked up as Ren entered. He smiled, a greasy, ingratiating expression that didn't reach his eyes.
+
+"Master Ren! A pleasure. Back so soon? I assume the guards are satisfactory?"
+
+"Adequate," Ren said, not sitting down. "I need more."
+
+The Director’s smile faltered. "More? Sir, as I explained last time, the law is strict. Seven elves. You have reached your limit."
+
+He gestured to a ledger on his desk. "Might I suggest Beastkin? Strong backs, loyal if you feed them right. Or humans? We have a surplus of farmhands. Very affordable."
+
+Ren didn't speak. He simply glanced at Sylas.
+
+Sylas stepped forward, adjusting his glasses. "The Director seems confused," he said, his voice ice-cold. "He labors under the delusion that he is speaking to a common merchant."
+
+The Director blinked. "I... excuse me?"
+
+Sylas continued, his voice rising in volume and authority. "You are addressing Lord Ren Fenris, Head of the Noble House of Fenris. A Peer of the Realm. A man who can raise an army if he so chooses. Who are you to quote statutes to a Lord?"
+
+The Director went pale. In Dolaria, nobles were not just rich; they were the law. A commoner questioning a noble was grounds for a flogging, or worse.
+
+"A... a Lord?" the Director stammered. "But... the records..."
+
+Ren reached into his tunic. He pulled out the deed, stamped with the Royal Seal. He placed it on the desk. Then, he took the heavy signet ring Ordan had given him—silver, with the howling wolf crest—and set it down with a heavy thunk.
+
+"My crest," Ren said quietly. "My seal. My ring."
+
+He leaned over the desk. "Do you require further documentation? Or can we dispense with the bureaucracy?"
+
+The Director was trembling. He stood up so fast his chair fell over. "My Lord! Forgive me! I... I had no idea! The system hadn't updated! Please, forgive my insolence!"
+
+"Forgiven," Ren said, waving a hand. "Now. Show me your stock. I have a household to build."
+
+"Of course! Right this way, My Lord! We have a new shipment of maids... excellent quality..."
+
+The Director scrambled out from behind his desk, bowing so low his nose nearly touched the floor. He led them down the familiar hallway.
+
+Ren walked past the rooms of humans and beastkin without a glance. He stopped, deliberately, in front of the room where the old couple stood.
+
+They were still there. Mira’s parents. They looked even more tired than before, resigned to their fate.
+
+Ren pointed. "Those two."
+
+The Director blanched. "My Lord... surely not. They are... damaged goods. The woman is frail. The man has lung rot from the mines. They are barely fit for the fields. I cannot sell such faulty merchandise to a House of your stature."
+
+"Faulty?" Ren repeated, his voice dangerous.
+
+"Useless," the Director corrected hastily. "Half that pair will be dead in a year. Please, let me show you the younger stock."
+
+"Stop," Ren said. "They are perfect."
+
+He looked at the old couple. The woman met his eyes, fear and confusion in her gaze.
+
+"I am building an extensive garden," Ren lied smoothly. "I need patience. I need experience. Young hands are too rough for delicate herbs. I need them."
+
+[Ana: Nice save. 'Delicate herbs.' Very convincing.]
+
+"And," Ren added, turning to Sylas. "Sylas. We need a cook. A proper chef to manage the kitchen under my supervision."
+
+Sylas’s breath hitched. "Yes, My Lord. I believe... I believe there is a candidate in the kitchens."
+
+"Find her," Ren ordered. "Assess her skills. If she meets your standards, hire her."
+
+"At once, My Lord." Sylas bowed and vanished down the hall, walking with a speed that bordered on running.
+
+Ren turned back to the Director. "I need more. My estate is large. I need staff."
+
+He went on a spree. He walked down the hall, pointing at rooms.
+
+"Four maids. Her, her, her, and her." (All elves)."Ten more guards. Veterans, if you have them." (All elves)."Ten general laborers. For construction and maintenance." (All elves).
+
+The Director scribbled furiously, sweating. "My Lord... you are exclusively selecting elves. It is... unusual."
+
+"I like the aesthetic," Ren said flatly. "Uniformity is key to branding."
+
+It was an open secret in the kingdom. The "seven elf" rule wasn't about safety; it was about privilege. Nobles hoarded elves because they were beautiful, long-lived, and graceful. Having a full elven staff was the ultimate status symbol. Ren was just playing the part of an eccentric, wealthy noble to perfection.
+
+Sylas returned. He wasn't alone. Walking beside him was a female elf with warm brown eyes and flour on her apron. She looked stunned, staring at Sylas as if he were a ghost. Her hand was gripping his sleeve tightly.
+
+"Her name is Cynthia, My Lord," Sylas said, his voice thick with emotion he was struggling to suppress. "She is... acceptable."
+
+"Good," Ren said. "Add her to the list."
+
+They returned to the office. Ren paid the bill. It was enormous. It wiped out a significant chunk of his remaining gold.
+
+[Ana: Ren. You just spent 50% of your liquidity. You are hemorrhaging money. We need to sell a lot of curry to cover this payroll.]
+
+"Investment," Ren thought back. "We're building infrastructure."
+
+He walked out of the Union hall. Behind him, a small army of confused, terrified elves followed. They carried their meager belongings in bundles. They looked at Ren not with gratitude, but with the wary suspicion of people who had been sold from one master to another.
+
+Ren stopped at the carriage.
+
+Mira was waiting. She saw the group emerge. She saw the guards. She saw the maids.
+
+And then, she saw the old couple at the back.
+
+She froze. Her hand flew to her mouth.
+
+The old woman stopped. She dropped her bundle.
+
+"Mira?" she whispered.
+
+Mira didn't wait for permission. She didn't wait for orders. She ran. She collided with her parents, burying her face in her mother's shoulder, sobbing. Her father wrapped his arms around them both, his weathered face crumbling.
+
+Ren watched them. He felt a lump in his throat.
+
+Sylas stood next to Cynthia, holding her hand. They weren't hugging, but the way they stood, leaning into each other, spoke volumes.
+
+"Worth every penny," Ren murmured.
+
+He turned to the group.
+
+"Listen up!" he called out. The elves stiffened, fear returning to their eyes.
+
+"My name is Lord Ren Fenris. You are now a member of the staff of House Fenris. We are currently... under construction."
+
+He gestured to the carriages. "We're going home. But I have bad news. The staff quarters aren't built yet."
+
+Confusion rippled through the group.
+
+"So," Ren continued. "We're camping."
+
+"Camping, My Lord?" Sylas asked, horrified.
+
+"Tents," Ren said. "Bonfires. Fresh air. I cancelled the rooms at the inn. We're all staying on the estate grounds until the roof is up."
+
+"But My Lord," Mira protested, wiping her eyes. "A noble should not sleep in the dirt! It is improper!"
+
+"I love camping," Ren lied. "It builds character. And team spirit. Now, let's go buy some tents."
+
+. . .
+
+The shopping trip for camping gear was chaotic. Ren bought enough canvas, bedrolls, and cooking equipment to outfit a small expeditionary force.
+
+By the time they arrived at the estate, the sun was setting. The dwarves had cleared a large, flat area near the beach.
+
+Ren directed the setup. A village of tents sprang up in the twilight. It looked less like a noble estate and more like a very high-end refugee camp.
+
+Ren stood by the central fire pit, watching his new family settle in.
+
+"System," he thought. "Food."
+
+[Ana: You have a chef now. Let Cynthia cook.]
+
+"No," Ren said. "Tonight is special. Tonight is Welcome Taco Tuesday."
+
+He walked over to the makeshift kitchen area. Cynthia was trying to organize the supplies, looking overwhelmed.
+
+"Cynthia," Ren said.
+
+She jumped. "My Lord! I apologize, the fire is not yet—"
+
+"Relax," Ren said. "Tonight, you watch. You learn. I cook."
+
+She looked confused. "But... a Lord cooking?"
+
+"It's a hobby," Ren said. "Watch closely."
+
+He opened the Shop.
+
+[Corn Flour (5kg) - 20 Dolarion][Ground Cumin - 10 Dolarion][Chili Powder - 10 Dolarion][Tomatoes - 10 Dolarion][Lettuce - 5 Dolarion][Cheese - 20 Dolarion][Ground Beef (10kg) - 100 Dolarion]
+
+He summoned the ingredients.
+
+"We need to feed them," Ren said. "Do elves have dietary restrictions?"
+
+Cynthia shook her head. "No, My Lord. We eat what the Master gives us. Meat, vegetables... they are luxuries. Most of us... Most of us have lived our whole lives on stale bread and watered-down soup. We have no preference."
+
+Ren looked at her. He looked at the thin, tired faces of his new staff.
+
+"Well," Ren said quietly. "That ends today."
+
+He went to work.
+
+He mixed the corn flour with water and salt, kneading it into a dough. He pressed it into small, flat circles.
+
+He heated a flat stone over the fire. He threw the tortillas on. They puffed and blistered, smelling of toasted corn—a scent unknown in this world.
+
+He chopped tomatoes, onions, and cilantro. He squeezed lime juice over them. Salsa.
+
+He threw the ground beef into the hot skillet. The sound of searing meat filled the air. The smell of fat rendering, of cumin and chili powder blooming in the heat, drifted over the camp.
+
+The elves stopped setting up tents. They turned toward the fire. Their noses twitched.
+
+"What is that smell?" one of the guards whispered. "Is it a potion?"
+
+"It smells like... richness," another said.
+
+Ren assembled the tacos. Warm tortilla. Spiced meat. A spoonful of salsa. A sprinkle of cheese.
+
+He made fifty of them.
+
+He arranged them on a large wooden platter.
+
+"Dinner is served!" he announced.
+
+The elves gathered around. They looked at the food with deep suspicion and awe. It was colorful. It was messy. It smelled incredible. But they were terrified to touch it.
+
+"What... is the protocol?" Sylas asked, staring at a taco. "Do we use a fork?"
+
+"Hands," Ren said. "Tilt your head. Like this."
+
+He demonstrated. He took a taco, tilted his head forty-five degrees, and took a bite.
+
+Crunch. Spice. Acid. Fat.
+
+"Perfection," he groaned.
+
+The elves watched him. They looked at each other.
+
+Then, Mira stepped forward. She trusted him. She picked up a taco. Her hands trembled slightly. She mimicked his head tilt. She took a bite.
+
+She froze.
+
+Her eyes went wide. She chewed slowly. Then, tears welled up in her eyes.
+
+"It's..." she whispered. "It has flavor."
+
+It wasn't just good. It was overwhelming. After a lifetime of grey sludge, the explosion of taste was almost too much to process.
+
+"It's real food," her mother whispered, taking a bite of her own. "I haven't tasted meat in twenty years."
+
+Sylas took one. Then Cynthia. Then the guards.
+
+Soon, the sound of crunching filled the air.
+
+"It burns!" a guard shouted, laughing, tears streaming down his face. "Why does it burn so well?"
+
+"The red sauce!" another cried. "More red sauce!"
+
+Even the dwarves, who had been working late, wandered over. Borin took one look at the tacos, shrugged, and ate three in one bite.
+
+"Good stuff," Borin grunted. "Needs ale."
+
+Ren sat on a log, holding Lily. She was awake, watching the feast with wide eyes.
+
+He dipped his finger in the mild salsa and let her taste it.
+
+She made a face. She stuck out her tongue. Then she smacked her lips and opened her mouth for more.
+
+"That's my girl," Ren laughed.
+
+He looked around the fire. His staff. His family. They were eating. They were smiling. For the first time, the fear in their eyes was gone, replaced by the simple, primal joy of a good meal.
+
+[Ana: You did it, Ren. You bought their contracts, but you just won their loyalty with corn and chili powder.]
+
+"The way to a heart is through the stomach," Ren thought back.
+
+He leaned back, looking up at the stars. He was broke again. He was living in a tent. But he had a clan. And tomorrow, they would build a home.

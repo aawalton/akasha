@@ -1,0 +1,409 @@
+---
+id: 89fd376a-f6d3-5474-b33e-c0fdee56c512
+page-type-slug: story-chapter-royal-road
+title: "399 Gaming the System"
+slug: 0359-399-gaming-the-system
+partOf: the-new-world
+position: 359
+ownLength: 3236
+unit: words
+ownProgress: 3236
+publishedAt: 2025-03-17
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2133331/399-gaming-the-system"
+royalRoadId: "2133331"
+markedReadAt: "2026-06-29T21:33:36.243Z"
+---
+
+Florence nodded.
+
+"In exchange for a dispersal of your own moral codes?"
+
+I scoffed.
+
+"You think that's all I'm going to ask for?"
+
+Florence frowned.
+
+"It isn't?"
+
+I steepled my hands.
+
+"Oh, I'm taking everything I can."
+
+Chapter Begin
+
+Florence rolled his eyes.
+
+"Ah yes, as is expected from the shady grifter I know and love. I'm certain you'll extend a hand to those in need with a poisoned dagger behind your back."
+
+I pointed my hands at him.
+
+"Perhaps. Perhaps not. I've been known to be a fine negotiator at times."
+
+Florence shrugged.
+
+"Hm, not to step on anyone's toes, but one could argue that point."
+
+I turned to the luminari leader.
+
+"Let's get down to the brass tacks. I know your planet is in dire straights. I have a solution to those problems, but I'm going to need a few guarantees."
+
+Echo's lights altered to chartreuse.
+
+"What kind of guarantees would you require, oh mighty Harbinger?"
+
+I blinked.
+
+"Huh. That feels out of place, so just call me Daniel. Anyways, you'll need to free any enslaved people you control."
+
+Echo let out a light laugh, its color changing to honey.
+
+"Oh, we never enslaved anyone. We merely offered prolonged indentured servitude."
+
+I raised my brow.
+
+"I watched their people choose to die fighting rather than surrendering. You don't do something like that because of fair contracts."
+
+Echo tilted its head.
+
+"One could argue that any contract is unfair to one of the parties depending on the circumstances."
+
+Florence stepped up.
+
+"That's a semantical discussion. Regardless of where your definition lies, the Harbinger's perception will dictate the terms. He will have a deal fashioned with the dimensional cipher, a language he knows well."
+
+Florence leaned over the luminari.
+
+"Should you breach this contract, you'll die. I'm certain you've seen it given Elysium's loose following of our ceasefire."
+
+The luminari trembled, his light shifting to a dark purple. I raised a brow at Florence, partly to ask a question but also in surprise. The guy changed his tune in an instant once he gained the position he wanted to take.
+
+I said, "Is that how it works?"
+
+Florence took a step back and nodded.
+
+"Yes. A normal contract is enacted by Schema via formalized punishments. On a factional basis, contracts are directed to the individual offenders within a guild. This is one of the largest pitfalls of joining a guild, as they may have factional contracts that are tremendously difficult to enact."
+
+Florence turned a palm to me.
+
+"On the other hand, a cipheric contract is inherently imprecise. It reads into intent, creating more leeway in the actions it curbs while enacting far greater punishments should its terms be breached."
+
+Florence's face wrinkled.
+
+"If I were to guess, Elysium's signing contracts then rediverting the consequences of breaking them onto other people. It must be a messy affair, in all honesty."
+
+I envisioned people strapped down, carved to the bone with the cipher, and experiencing the weight of sins they had never seen but fully felt. I massaged my temples.
+
+"Somehow, Elysium gets worse every time I hear about them."
+
+The illuminari's color shifted to red.
+
+"How are you two any different than Elysium? My people are being brought terms without any option of recourse. This is hardly diplomatic."
+
+Florence grabbed his chin.
+
+"Diplomatic? Have you seen the flying Hybrids? Those were once the giant amphibians known as the gialgathens. Elysium turned them into Blighted Ones, centers of telepathy and corruption."
+
+Florence gestured to Echo.
+
+"Elysium will use the amassed population of your species to a similar end, and that isn't a diplomatic reality. It's a life-and-death crisis. I wonder if they'll make you into tumors that can send messages through the void of space? Perhaps you'll devolve into a Hybrid model that can emote with light? I can hardly imagine the potential as Elysium has shown a vicious glint for creativity."
+
+Florence's voice hardened.
+
+"My kind is well aware of their tactics, Echo. Know it is a harsher road than what the Harbinger offers, no matter what he dictates."
+
+The luminari shook its head before sighing.
+
+"We...We can make that concession. It's similar to the terms brought by Elysium, but at least it doesn't carry the reparations they wished for."
+
+I furrowed my brow.
+
+"Actually, the molerats are who you're going to be paying for my assistance."
+
+Florence blinked at me.
+
+"And you said you weren't a selfless soul. Lair."
+
+I shrugged.
+
+"I'm not. These guys can't offer me anything I want anyway, so we might as well have them do something worthwhile. Think of it like organizing a charity or something."
+
+Florence walked over and nudged my side.
+
+"Ah, look at you. It would seem you're not all steel in there."
+
+He gave my chest a tap.
+
+"There's a heart composed of gold in there too. It's probably still metal, but it's a shinier, less cold kind."
+
+I raised a hand.
+
+"Alright, alright, enough of that. Come on, let's wrap this up. I don't have all night for this. I'm already late for an appointment."
+
+Florence turned to the luminari.
+
+"Then let's discuss details."
+
+I stayed with them for a while to help handle the largest logistics of the matter. They needed 2,000 war golems, and I could arrange that in a couple of days. In exchange, I guaranteed their race's continuation and the molerats' freedom, along with less significant reparations than what Elysium requested.
+
+It wasn't a perfect solution, but it definitely improved the outcome of their conflict. Compared to Giess, both species would lose fewer members in the war effort because I'd make my golems kill only Hybrid forces. The golems would even be directed to defend the molerats if they were attacked without provocation, preventing a few of the otherwise appalling war crimes.
+
+This all came about because of all I learned from my previous arrangement with the Empire. From specifics to peculiarities to minutia, it all mattered when speaking on guild-wide terms. That's why Florence ironed out those aspects in a rapid fashion, the albony's charisma and contractual abilities shining as he did.
+
+It left me on solid ground as I left the matter in Florence's adept hands to finish. Having handled what I needed to, I met with Shalahora for another torture session. On the hill we trained at, he waited for me. When I landed, the shadow took a breath.
+
+"I hoped you would wish to stop engulfing yourself in this purgatory. It would seem you were merely late."
+
+I rolled my shoulders.
+
+"Yup. It's out of the frying pan and into the fire. Let's do this."
+
+The night stretched out in excruciation as always, and by morning, I hobbled away from our training like some determined zombie. Once I recovered, I set up a plan for my guild's problems since they loomed over our horizon like a comet heading for Earth. With everything organized in my head, I got to work.
+
+Starting with the luminaries, I drafted up the cipheric contract based on what Florence messaged to me. This time, I wrote it out in normal schema runes as well before having both documents sent over to a specialist that Florence knew. After all my experience, I wasn't about to be tied to a guild-based document without experts helping me out.
+
+As they reviewed the forms, I sent out the golem scouting teams we amassed after the award ceremony. It required some reassurance, but after showing them what the golems could do, they left with fewer reservations. Torix helped organize their assistance, and his efficiency kept everything efficiently organized and neatly arranged.
+
+We weren't the only ones busy handling worldly affairs. Plazia returned to Blegara, and he began sieging the world and pulling the eldritch to our side. His invasion reminded me of a religious conversion. Having discussed the terms with him, Plazia used my image of fear to inspire the eldritch to surrender. While I was certain Plazia would use questionable methods, I figured he'd be the most humane conquerer I could assign.
+
+It was an eccentricity of him being an eldritch. If I hired a Fringewalker, they'd just kill the eldritch and cleanse the world. While I wasn't opposed to the idea, I wanted to try a different tactic first. Plazia enabled that approach since he understood and could subjugate the eldritch without killing them all. I would also check in occasionally to make sure Plazia wasn't doing anything too horrible, either.
+
+I mean, he was still a menacing hivemind of unknown means and power, after all.
+
+Returning from one of those meetings, Plazia and I stepped off of Blegara's shores and into his personal chambers in Mt. Verner. Plazia's voice echoed off the cipher-covered walls.
+
+"If you insist, I can avoid the displays of torture."
+
+I let a hand flop against my side.
+
+"Why would you think that's ok?"
+
+Plazia kept one foot on the beaches of Blegara.
+
+"My methods have saved many Vagni and converted the monsters that roam the abyssal seas to my cause."
+
+I sighed.
+
+"That's because they like torture. They don't fear it."
+
+Plazia shook his head.
+
+"I am still confused by this. My method accomplishes the goal without killing them. Why must you be so picky in how we harvest the world?"
+
+Interrupting our discussion, Shalahora materialized beside me. Plazia stepped through the portal and said, "I'll leave you be, and though arduous, annoying, and trite, I shall do as you ask. You must know that any resulting deaths are on your hands."
+
+I rubbed my temples.
+
+"It isn't like I want to entirely homogenize the Vagni into my empire, but holy hell, they can't be a bunch of rabid cultists who're into tearing our enemies apart. It isn't a good ethical fit."
+
+I gestured a hand at Plazia.
+
+"Besides that, shouldn't you have more than enough power to enforce our rule? Those deaths you're talking about, they make it sound like you're struggling. If you need help, I can send a few golems-"
+
+Plazia scoffed.
+
+"Perhaps I exaggerated the consequences of your approach."
+
+I pinched the brow of my nose.
+
+"Just remember, we're normalizing Blegara the right way. Just...Just take your time, and don't use shortcuts."
+
+Plazia's warp shrank as he stepped through.
+
+"As you command, Harbinger."
+
+Shalahora turned a hand to Plazia.
+
+"I may assist you during Earth days. I can kill masses of enemies with ease."
+
+Plazia cackled.
+
+"It's the domestication of wolves into dogs that is being done, not their culling."
+
+The hivemind turned to me, a split in spacetime humming between us.
+
+"But their demises can be arranged. Easily, if need be."
+
+I waved my hands.
+
+"Keep doing what you're doing minus the torture of eldritch."
+
+Plazia leaned forward.
+
+"What of the occasional bout of excruciation-"
+
+I threw my hands up.
+
+"Absolutely not."
+
+Plazia cackled as the spatial split slammed shut. Shalahora and I stood in Plazia's barebones room before the shadowy Sovereign's form rippled. Shalahora turned to me.
+
+"In a different time, you wouldn't have allowed such tactics at all. You must be stretched quite thin, though you have been since we met."
+
+I leaned against a wall.
+
+"You're not wrong. I'm a bit, er, diluted at the moment. The thing is, it's either I let Plazia handle this, or the eldritch will continue rebelling. That means letting hordes of Vagni die. I could head over and handle it myself, but I'm swamped with Earth and guild priorities."
+
+Shalahora whispered.
+
+"In your mind, you've chosen the lesser of two evils, but perhaps that is not so. You could head to Blegara then and come to Earth during the day."
+
+I frowned.
+
+"I'd lose out on training with you then."
+
+Shalahora peered away.
+
+"Must we continue this supposed training?"
+
+I sighed.
+
+"Of course, and you know why. While everyone else is settling down, I know threats are looming on the horizon. I'm readying myself for them so that we aren't vaporized, enslaved, or turned into mana batteries. Besides that, didn't you want to help me train?"
+
+Shalahora's body turned more translucent.
+
+"I did, and I have done so...But, perhaps we have trained enough?"
+
+I furrowed my brow.
+
+"I can't even hold a candle to you. How in the world is that enough to handle threats even stronger than you are?"
+
+Shalahora's hand shook. He grabbed it in his other palm and nestled it back and forth.
+
+"You will not be able to fight me in my given domain of competence. The axioms we fight on are intrinsically different. While you are now able to tolerate more psionic damage, that doesn't mean you'll be able to match me in regards to psionics."
+
+I furrowed my brow.
+
+"We can't know if we don't give it a fair shake, right?"
+
+Shalahora's form rippled for a moment.
+
+"That...That is true. You are given difficult choices, and you must rise to their demands."
+
+"For now, I think terrible choices are part of being a guild leader. At least, I think they are. Anyways, why did you offer to help Plazia? I know you hate killing stuff in general, so it seemed out of place."
+
+Shalahora gazed at a wall. His body became more corporeal.
+
+"I understand you wish to offer mercy to those monsters, but your kindness is wasted on them. The eldritch do not change, and that is an immutable truth."
+
+I nodded.
+
+"I know they won't change as a whole, but a few individuals may. Speaking of changing individuals-"
+
+I put a hand on Shalahora's shoulder.
+
+"I don't need you to kill anything or anyone. Instead, I have another task for you. We're going to have a lot more residents put on Earth. I'm going to need you to safeguard our psionic safety whenever you're free."
+
+I lowered my hand. Shalahora whispered.
+
+"What does that entail?"
+
+"First, you'll need to check everybody that comes over and make sure their minds aren't remade by Elysium. We can't have sleeper agents dismantling our efforts and giving the enemy intel on our guild."
+
+Shalahora tilted his head at me.
+
+"I can do so, but I may do other, darker tasks. I can evaporate minds in mass, turning entire cultures into nothing. It takes little time or effort, and I have done so many times in the past."
+
+Schema mentioned Shalahora having cleared over a hundred planets. However, this wasn't the path he wanted to walk, and I wouldn't force his footsteps down that path. I frowned.
+
+"Shalahora. You have murdered. You have killed. That doesn't mean that's all you can or will be. You're a lot like me in that regard."
+
+"How?"
+
+"There was a time when I thought I was going to be a monster, and I was afraid of who I'd become."
+
+Shalahora murmured.
+
+"And you escaped that fate. I did not. What has been done, is done. It can no longer be expunged from me."
+
+I gazed at the runes covering the walls.
+
+"You know what's wild? I still feel like a monster. Logically speaking, I know I'm not, but it's a hard sensation to shake off. The notion has this way of sneaking up on you when you least expect it. Personally, I think you're in the same boat. The thing is, you don't have to be some planet-wiping scourge for the rest of all time."
+
+I weighed my hands back and forth.
+
+"You could be a planet-saving guardian instead, and I think changing your path a bit will do you some good. You know, making some peace rather than waging some war."
+
+Shalahora whispered with force.
+
+"Lies and death are all I've ever been. They are all I've ever known. This task, I shall do it, but you must know it is new to me. I will no doubt fail."
+
+I narrowed my eyes.
+
+"Why? Are you going to self-sabotage or can it simply not be done?"
+
+Shalahora's voice reverberated into our surroundings.
+
+"It's not ability. It is a matter of my nature. You...You are trying to use a knife to heal."
+
+I tapped his chest with a fist.
+
+"A knife can choose if it's a sword or a scalpel."
+
+I walked off.
+
+"I'm not going to force you to do anything, but please, think about it. In the meantime, we'll be canceling tonight's training session."
+
+"To what end?"
+
+"I've got a few million people to shepherd to Earth. We'll need you soon for that, regardless."
+
+Shalahora tilted his head.
+
+"Who is it that you're bringing back to Earth?"
+
+"The skeptiles. I've been letting them rot for a long time, and I'm going to go pick them up and give them a better home. That's the plan anyway."
+
+As I walked off, Shalahora peered down, lost in thought. I left him to it while I headed to our local warp drive at Springfield. At the center of the town, dungeoneers lined up to use the currency exchange center, holding horns, spikes, bones, eyes, organs, glowing metals, and artifacts.
+
+They sold pieces of eldritch or rare ores they harvested. As I walked by, they saluted or bowed to me before I said at ease. Beside the exchange center, the warp drive hummed without anyone coming or going. We locked down the warp drive from outsiders because of Elysium, and locals would rather travel to other cities for trade since warping costs a pretty penny.
+
+Sparking from the first bit of activity today, an ionizing mist spritzed out of the cylindrical chamber, and out walked our grizzled albony. Helios brushed himself off, fog lingering on him.
+
+"At your beckoning call, your majesty."
+
+I raised a pinky.
+
+"Excellent. If you may, I'd prefer more beckoning and less call."
+
+Helios raised his brow.
+
+"Whenever you mirror royalty's dignity, then perhaps we can discuss matters of decadence."
+
+I smiled.
+
+"Looks like that's never happening then. Where were you, anyways?"
+
+Helios sighed.
+
+"I'm managing many tasks at the moment. Even if I disagree with Obolis's actions, the Empire was my home. I am saving my people from Elysium when free."
+
+He rolled a hand lazily.
+
+"Though I'm prioritizing your requests above any pressing matters that may appear. Also, I'm assisting while preventing any further antagonizing of Elysium, though it isn't as if I'd be the first one to break our treaty."
+
+His pale eyes narrowed.
+
+"But I will be the first to charge forward after it's fully gone."
+
+A mind of mine took note of that, chewing on the thought. I turned a hand to Helios.
+
+"Good work then. Are you ready to let the skeptiles in?"
+
+Helios cracked his neck before allowing mana to flow through his gauntlets.
+
+"I am."
+
+A rush of emotion coursed through me, but it was primarily fear. Months passed since making the deal with Obolis for the skeptile's freedom. Since then, the skeptiles had waited on me to arrange their transit, and I kept pushing it back for other matters. I did have my guild send consistent aid in the meantime, but aid wasn't a new home.
+
+I wouldn't blame him if Tera was pissed about twiddling his thumbs for so long. Without any reason to postpone the matter aside from dread, I let out a sigh.
+
+"Then let's give them the warmest welcome we can."
+
+Helios grinned.
+
+"I can't wait to see you get screamed at. It's actually one of my favorite pastimes."
+
+Primordial mana hummed in his hands.
+
+"Now then, let's cross the veil."

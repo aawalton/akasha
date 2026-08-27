@@ -1,0 +1,175 @@
+---
+id: f695222b-8a27-5374-93e6-9042e32001ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: May I Have This Dance?"
+slug: 0009-chapter-9-may-i-have-this-dance
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 9
+ownLength: 1837
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3733252/chapter-9-may-i-have-this-dance"
+royalRoadId: "3733252"
+---
+
+Next to the riverbank, the two young ladies walked along the flowing downstream currents. Marina’s vision was still somewhat blurred from her previous emotional outcry. She delicately wiped the edges of her eyes with the back of her hand, hoping to calm down the raging ocean settling within her mind just a little bit quicker. It was of no help at all.
+
+The forest around her was lively once again, with rustling leaves telling vivid tales of past times.
+
+She glanced at Hecate, who glanced back, with the same usual smile. Marina was conflicted by the expression. Hecate’s smile seemed unusual to her in ways she couldn’t explain. Her beauty, her grace, and her pride retained their usual shape; none of it changed.
+
+After a brief thought, Marina smiled back, less awkwardly this time.
+
+“Hecate.” She said, gently.
+
+“Yes, my dear?”
+
+“I know it’s not that far away, but” Marina paused. “Do you miss your home?”
+
+A slight surprise was hinted by Hecate’s escaping eyes. “Of course I miss it, though only once in a while. Why do you ask?”
+
+“Mmm… was just curious I guess?” Marina shrugged. “And also, where are we headed?”
+
+“In my experience, towns are often built around the downstream of waterways. So I was thinking if we keep heading this way, we might hit something.”
+
+So we were literally just wandering around blindly… Marina came to a realization. “In the meantime, can you tell me what exactly an Authority is? I keep hearing you talk about it.”
+
+“Sure.” Hecate turned towards the river.
+
+Reaching into her satchel, she pulled out what looked to be a wine glass. With the wave of her hand, small puddles of water flew from the stream, filling the glass halfway full. The glistening blue liquid continued to emit a faint glow, even after being separated from its source.
+
+“Here.” Hecate handed the glass to Marina.
+
+‘Uhh…” Marina stared. “What do I need to do with this?”
+
+“Drink it.”
+
+“What?”
+
+“Drink from the glass.”
+
+“You’re kidding!” Marina exclaimed, rejecting Hecate’s suggestion. “Have you not seen what that river just did to me?”
+
+“The river is indeed powerful, and that is why I separated these ounces of liquid from the source of their power,” Hecate explained. “In other words, these only contain the energy of the power, but not the ability to command such energy. Which also means that it is perfect for you to experience the power of the Authority.”
+
+“Mmm… It’s not going to dissolve me from the inside is it?”
+
+“Of course not, my dear.” Hecate insisted with confidence.
+
+Here goes nothing. Marina brought the glass closer to her lips, her hands trembling. She took a deep breath before emptying the entirety of the glass’s contents in one go.
+
+Gulp.
+
+“It actually tastes pretty good, kinda like…” Marina pondered for a moment. The flavors were very similar to a certain beverage she had before.
+
+“Lemonade perhaps?”
+
+“Exactly,” Marina exclaimed. “Wait, you know what–”
+
+Before Marina could question the existence of lemonade, and how Hecate knew the taste, her vision blackened like the fall of a curtain at the end of a performance. The colorful scenery now only existed in her wishful imagination.
+
+“Hecate! What is happening?!” She yelled in panic. “I can’t see anything!”
+
+“Take a deep breath my dear. The blindness should vanish in a moment’s time.” Hecate’s voice reached her through the darkness.
+
+This was yet another mistake; trusting the morally questionable vampire was bad enough, but actually taking a sip from the river was an unsalvageable fumble. Marina began to take deep, but frantic breaths. Slowly, small patches of luminosity appeared within her eyelids.
+
+The blindness subsided, and with it, Marina’s vision returned.
+
+“Oh, I can see again.” She opened her eyes. “But what was the point–”
+
+A strange red orb manifested itself within what appeared to be Hecate’s body, and yet, it showed itself to Marina without issue. Though the orb was about the size of a human heart, staring at its center, Marina felt a towering, ominous presence looking down upon her, like a crimson moon hanging in the sky on a clear night.
+
+“What is that?” She pointed.
+
+“My Authority,” Hecate lifted her chin. “It’s beautiful isn’t it?”
+
+Beautiful was certainly a way to describe it, but for Marina, there was an uneasy tension that grew the longer she made eye contact with the orb.
+
+“I guess?” She looked up at Hecate.  “But why does it feel like it’s staring me back?”
+
+“Perhaps it has taken a liking to you.” Hecate crossed her arms. “Or rather, a liking to your blood.”
+
+A wave of disgust flooded into Marina’s stomach. “Ehh, I don’t really want to see it anymore. How do I turn this vision thingie off?”
+
+“Mmm, tap twice at the center of your forehead.”
+
+Marina did as she was instructed. “That actually worked. Is this like a universal rule to turn off abilities or something?”
+
+“Not exactly. Most of us can do it without the need for such actions. However, for a beginner like yourself, it’s easier to have a visualization of your commands.”
+
+“I see…” Marina processed. “What do these Authorities do exactly?”
+
+“The answer to that question would depend on the type of Authority.” Hecate continued down the riverbank. “Let us resume this journey in the meantime.”
+
+Marina nodded before catching up.
+
+“Throughout my life, I have seen many Authorities, but they all seem to share a few things in common.”
+
+“And those are…?” Marina blinked with curiosity.
+
+“They all change the appearance of the bearer to their desirable form. In other words, towards what the user considers as perfection.”
+
+A whole minute passed as Marina considered the idea of perfection. Nothing was ever perfect, no matter how much she twisted her imagination. There were many times in the past when someone brought her something “perfect,” like an expensive bottle of wine. But after taking a sip, it was nothing special. Acidic, sour, and bitter aftertaste, just like how wine typically tasted. She could tell it was high quality, but not perfect because she was not an enjoyer of wine. The closest beverage to perfection would have to be the espresso she had a day ago. And if perfection embodied an individual, the most perfect person she’s ever met would have to be Hecate. But as new as she was to the Underworld, Marina could tell there was a sinister imperfection buried beneath the perfect facade.
+
+“Mmm… What if the user thinks that an egg is the perfect form?” She thought of something random.
+
+“Then they shall become an egg,” Hecate patiently replied. “Though I have yet to encounter someone who has turned into an inanimate object.”
+
+“Back where I was from, there are people who are obsessed with cars. I’m sure they won’t hesitate if they get the chance to turn into one.” Marina gossiped. “Do cars exist here?”
+
+“Like those steel-forged carriages in the cities? They run on four wheels.” Hecate contemplated.
+
+Marina nodded. “Yeah those. Maybe one day we should buy one so we don’t need to walk everywhere.”
+
+“Or, when you become an Authority Bearer, you will get to enjoy a more comfortable method of travel than on foot.” Hecate pointed out. “Another similarity between Authorities is the powers you may receive.”
+
+“Powers?” Marina held up her hand, “Like this string?”
+
+“You are one smart girl.” Hecate complimented. “My Authority allows me–” A loud rustling from deeper within the woods interrupted her explanation.
+
+Marina stepped behind Hecate, seeking protection as usual.
+
+The commotion revealed itself to be the sound of footsteps, growing louder and more hurried. And soon, a scream erupted.
+
+“Ahhhhh! Help! Somebody!” A voice cried for help.
+
+“Well my dear, would you like us to provide them with some assistance?” Hecate asked.
+
+“Could this be another illusion?” Marina scanned the area cautiously.
+
+“You have drunk from the river, you shall see no more illusions.”
+
+Marina doubted Hecate’s words. Lending assistance to strangers had proven to be an unwise act of kindness in this realm, especially in a forest like this. Though with the vampire by her side, the risks did feel inconsequential.
+
+“Because I am such a smart girl, I won’t make the same mistakes twice!” Marina turned back to the pathway leading downstream. “Ignorance is bliss, Hecate.”
+
+“Was that also your thought before you opened the door for me?” Hecate teased. “Because I can’t exactly describe your current expressions as blissful.”
+
+As the cry for help grew louder, so did Marina’s kind intentions. Ignorance was not blissful; it was easy, easy enough for people to want to live an unfulfilling life. Marina could afford to be ignorant with her second, not with the vampire by her side. Plus, if the threat was not dealt with, they could become its prey next.
+
+“Is it that obvious?” She sighed.
+
+“Very much so.” Hecate looked in the direction of the disturbance. “The situation is getting direr by the moment. I suggest you make the decision sooner rather than later.”
+
+“Yes I want to help, but how do we know wher–”
+
+Marina felt a vacuum of air beneath her feet before being picked up effortlessly. She watched as Hecate dashed straight into the woods, the crimson-colored barrier forming around them as it had before. The surrounding vegetation clashed against the resistance of the magical sphere, but only to be expelled. Marina could only keep her eyes closed due to Hecate’s immense speed. She could feel each one of Hecate’s steps and the distance that disappeared at the explosive power behind each movement.
+
+“We are almost there, my dear,” Hecate smirked, no longer able to control her boiling thirst for blood.
+
+Even with the sound of shuffling foliage, Marina felt a slight tremor vibrating in the air, which grew many times stronger as they approached what she assumed was the location of the one in need.
+
+Hecate stepped heavily on the ground, slowing down her momentum to a stop. She set Marina back on her feet. “Feast your eyes, my dear.”
+
+Marina opened her eyes to find the two of them now standing in a clearing, and to her surprise, in front of her was a… tree. But it wasn’t any ordinary tree; it had wooden legs and arms, and walked like the trees around the forest wouldn’t.
+
+“What is that?” Marina asked with more curiosity than fear.
+
+“Mmm… That is indeed a good question that we shall discuss later.”
+
+Within Hecate’s right hand, she wielded a sword, embedded with rose-colored crystals. The blade itself reminded Marina of a rapier; it was narrow, and yet the edges were sharpened to be thinner than a piece of paper. Hecate made her presence known to the branch-covered monstrosity, appearing right in front of it faster than Marina’s senses. And with her left hand behind her back, she pointed her sword at her opponent. Upon her face was nothing, except for a gentle smile decorated with the bloodlust of her red eyes.
+
+“May I have this dance?”
+
+“...”

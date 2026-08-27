@@ -1,0 +1,157 @@
+---
+id: 64ae9467-5820-5c4f-9f9b-e4792140404d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Into the Portal"
+slug: 0001-chapter-1-into-the-portal
+partOf: system-change-system-universe
+position: 1
+ownLength: 1911
+unit: words
+ownProgress: 1911
+publishedAt: 2020-08-26
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/544906/chapter-1-into-the-portal"
+royalRoadId: "544906"
+markedReadAt: "2026-06-29T19:56:46.905Z"
+---
+
+Chapter 1: Into the Portal
+
+“Derek, get ready! The portal will be up in five minutes.” Silvi was expending all of her mana to provide this one chance for Derek to portal over to the others and maybe just save them from being killed, or captured, by one of the “intruders” that came with the new system. “You’re only going to have a few minutes once you get there to find them and bring them back. You should be ported close to Ali, I’m using my mana sense to lock on to her.”
+
+Derek rubbed the back of his head and sighed. How did I end up in this mess? I barely even know these people. Now I have to risk my life to save this group? Why did I help them again, I don’t even remember. Derek was questioning his choices leading up to this point. Until now, he had been a loner in this weird apocalypse. Preferring to go it alone rather than team up.
+
+Hell, I’ve even refused to establish bases and cities. The system just keeps throwing them at me like I’m some Main Character that’s supposed to save humanity from alien invaders… pfft… At least I got a Title from refusing. Derek was really struggling with what he was about to do.
+
+“Are you even listening to me!?” Silvi yelled at Derek. “Stop daydreaming and get ready!”
+
+Derek jumped. Why is she so commanding? Whatever… “Yeah, yeah. I’m ready whenever.” And he was. He just didn’t want to do it. He thought about what he was about to do. Status, he thought to himself.
+
+Status
+
+Name: Derek Hunt
+
+Level: 79
+
+Class: Bronze Tank
+
+Race: Human
+
+HP: 4750
+
+MP: 2380
+
+Stamina: 5790
+
+Defense: 199 (211) [263 with Impenetrable Skin]
+
+Attack: 186 (213)
+
+Stats
+
+STR: 275 (343) [412 Solo]
+
+DEX: 210(241) [294 Solo]
+
+END: 351(491) [579 Solo]
+
+VIT: 297(400) [475 Solo]
+
+INT: 177(203) [247 Solo]
+
+WIS: 170(195) [238 Solo]
+
+Free Stat Points: 0
+
+Titles
+
+First of Many: Not only have you obtained your first kill, you were also among the first on your planet to obtain a kill. +10% to all stats.
+
+I Have Class II: You survived to level 75 and upgraded your class. +35 to all stats.
+
+Lone Wolf III: You feel free when you are alone. You have spent so much time alone that you are better when not in a pack. +10% to all stats when alone.
+
+Meat Shield III: You have taken an incredible amount of damage and yet still continue to look for more. You have taken over 100,000 damage and lived. +15% END and +10% VIT.
+
+Monster Bane III: You are not scared to fight the strong. Single handedly slayed a monster 50 levels or more above your own. +10% STR, +10% END, +10% VIT.
+
+Not Dead Yet: You have taken a fatal wound, yet you are still alive. +25 VIT +15 END.
+
+Rare: You have obtained a Rare class. Now you can live like a one percenter. +25 to all stats.
+
+Slayer III: You have slain more monsters than you can count. +15 STR +10 END.
+
+Solo King IV: You enjoy the feeling of fighting alone. You stand one versus many. +25 to all stats. +15% to all stats when fighting alone.
+
+Stat Collector: You have acquired over 1000 total stat points. Here, have some more. +25 to all stats.
+
+Unacceptable: You have been asked to build a safe haven for those of your kind, but have refused on multiple occasions. +25 to all stats.
+
+Uncommon: Your class is a step above most classes. +15 to all stats.
+
+Upgraded: Somehow, you were able to upgrade an Uncommon class into a Rare class, though not unheard of, it is still a feat. +5% to all stats.
+
+Skills
+
+Glaive Mastery (3): You feel more comfortable with glaives and other polearms. Efficiency +15%.
+
+Heavy Armor (4): Slow but steady, the armor you wear is like yourself. Heavy armor scales based on your END stat. +8% of END is added to armor DEF stat.
+
+Heavy Blow (7): You put all of your might into a single blow. Attack deals 70% more damage.
+
+Heavy Weapon (5): You choose to wield weapons that most cannot even lift. +10% of STR is added to ATK stat when using heavy weapons.
+
+Identify (8): You have looked beyond the surface of many things. You can identify targets up to 80 levels above your own.
+
+Impenetrable Skin (7): You have been battered and bruised by all sorts of weapons. Defense increased by 35% when active.
+
+Iron Stomach: There is not much that can harm you when it comes to food. Decreased chance of food borne illness.
+
+Meditation (10): Become one with yourself. Recovery of HP, MP, and Stamina increased by 100% while meditating.
+
+Wide Sweep (11): You project a sharp edge half a circle, up to 5 meters in front of you. Deals 55% of Attack damage.
+
+I wonder how I compare to others of my level. Derek sighed as he looked over his status, preparing to go on this rescue mission that he still didn’t know why he was going on.
+
+“This portal that you’re making is safe, right?” Derek asked Silvi. “I mean, I’ve survived quite a bit by myself and all, I don’t really want to be done in by a faulty portal.” Did I just give myself a death flag? I think I did, maybe I should just leave.
+
+“Yes Derek, it’s perfectly safe. You just jump in, and it takes a couple seconds to get from the opening to the exit. While you’re inside, you are in something like a space tunnel, nothing can harm you while you’re traveling at least. I’ve used it hundreds of times and nothing has ever gone wrong.” Silvi explained to Derek while channeling her mana into her portal spell. “The only thing you have to worry about is not coming back before I run out of mana, which is why you only have a few minutes to get the others and get back.”
+
+“It’s almost done. Get ready!” Silvi yelled as a blue oval crackling in what seemed to be electricity, but Derek knew that it was just another physical form of mana, started growing. The oval grew slowly but then picked up pace. Soon it was bigger than Derek was and was stabilizing.
+
+“It’s open, go, go, go! Remember, you just have a short window to find them and get them to the portal.” Silvi could not help but worry about her friends and longtime team. If only I hadn’t gotten injured, I would have been over there to help them.
+
+“I’m going.” Derek may be cautious and hesitant, but when he finally decided to do something, he did not take half measures. Derek leapt into the portal and prepared to face whatever was on the other side. She was right, it’s like I’m in some kind of dark tunnel and all I can see is the exit. Looking around, Derek noticed that everything around him was pitch black and there was a small light ahead that was rapidly getting bigger and bigger. Then it hit him.
+
+A portal flashed open, and a man covered head to toe in some type of dark metal armor flashed out of it. Everyone stopped fighting to look at the new arrival.
+
+First, Derek saw Ali, she was right next to the portal. He ran over to her and picked her up. “Who are you, what are you doing.” Ali was kicking and screaming not knowing what was going on. First, I was barely surviving, now I’m being taken hostage. Ali knew this was it, she had already watched John and Andrea die, now she was being captured.
+
+“Shit! Stop kicking me and shut up. It’s Derek, I came to bring you all back to Silvi. She ported me over from camp.” Can’t blame her though, this is the first time she’s seeing me in my armor, I do look rather scary. “Hehe.” Derek chuckled to himself before raising Ali up and chucking her into the portal.
+
+An arrow bounced off of the back of Derek’s head and fell to the ground. Derek turned and looked at the archer nocking another arrow. He scanned the rest of the area and found John’s head lying a couple meters away from his body and Andrea was on her back with a dagger sticking out of her chest, blood pooling around her body.
+
+Finally, he saw Gerard surrounded by a bunch of warriors with swords and shields. Looks like they’re toying with him. Derek sighed and took off toward the makeshift fighting ring. The warriors were all watching him with wary eyes as he approached. Two of them turned from the show and got in a fighting stance.
+
+Derek summoned his glaive from his spacial bracelet and thrust forward. The man on the right didn’t even have time to react before the blade pierced his front and ran all the way through his back.
+
+The blade brought with it pulses of blood as Derek ripped it from the heart of the warrior. The other warrior swung his sword at Derek, but Derek reflected it with his armored bracer, then choked up on his glaive, and using it like a sword, slashed it across his attacker’s throat. The man fell to his knees holding at the new opening, but it was pointless, he was already dead and just didn’t know it.
+
+“Gerard! The portal, run!” Derek rushed into the circle and pushed Gerard towards the hole he just made. “Hurry! There’s not much time left, I’ll be right behind you.” Gerard rushed out of the encirclement, moving as fast as his maimed leg would let him. Hobbling towards the portal, he released a sigh as he got closer and closer.
+
+Gerard turned his head to see four men split at the waist, torsos falling from their legs. Holy shit! He swore as he could see Derek chopping his enemies down one by one. Four by four, even. I’m glad we found him, or he found us. Gerard made it to the portal and took one last glance around.
+
+Seeing Andrea and John lifeless on the ground, tears started forming in his eyes. They had all been together since the first week of this so-called apocalypse, but this wasn’t the first friend he had seen die. And it won’t be the last. He thought.
+
+He looked again at Derek, about to break out of the mass of people, then jumped into the portal.
+
+“It’s Gerard!” Ali screamed. “We thought you were dead, like Andrea and…” She trailed off mid-sentence. John had been with Ali since before the start of this sick game. So Gerard knew that it was going to take a long time for Ali to be right again.
+
+“Where’s… Derek?” Silvi muttered, voice tired from holding the portal open. “I’m almost… out… of mana.” Sweat was dripping from her brow as she was using everything she had to keep the portal from closing.
+
+“I’m out.” Silvi mumbled and dropped to her knees.
+
+Derek could see the portal shrinking and becoming translucent as he made his way towards it. The damage to him was light or otherwise nonexistent, but he was almost out of stamina and mana. Getting close to the portal, he jumped in.
+
+The small light in the space tunnel that he had used to arrive vanished, leaving nothing but darkness.
+
+“Ah, fuck me!”

@@ -1,0 +1,341 @@
+---
+id: f597c27d-6a44-588f-bf27-5ab792ffbb8e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10 – A Quarry to Settle"
+slug: 0011-chapter-10-a-quarry-to-settle
+partOf: rock-falls-everyone-dies
+position: 11
+ownLength: 2368
+unit: words
+ownProgress: 2368
+publishedAt: 2023-01-24
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1095849/chapter-10-a-quarry-to-settle"
+royalRoadId: "1095849"
+markedReadAt: "2026-06-29T22:50:36.893Z"
+---
+
+On a certain mountaintop, high above the clouds, a hero and a villain were having a grand battle.
+
+“Take this—[Divine Darkness Sword of Banishing Pesky Heroes]!”
+
+“Hah, that is nothing against my [Aegis of Beaming Holy Light for Repelling the Nasty Darkness]!”
+
+Indeed, while a rock had been busy sitting around, a few hundred years or so had passed—and the time of great battle had come once again.
+
+Grand spells and abilities were flying every which way, tearing apart the landscape and slicing up the clouds below. It was a very grand battle indeed—one that would decide the fate of the world.
+
+And then a dragon flew by.
+
+The roaring hulk with scales of green and red interlaced in a blinding pattern flew by the dueling pair, sending gales of storm wind at the mountaintop.
+
+Both combatants were distracted for just a second, but unluckily, the [Hero] happened to be on the side nearer the dragon, and was sent tumbling to the ground by the gusts. The Demon Lord took hold of the advantage, and thrust his demonic weapon right into the human’s chest in a final killing blow.
+
+“Hah, now that you are finished, my reign will last for 666 years, dooming humanity to an eternity of servitude!”
+
+“No—foolish demon. There will always be another noble [Hero], ready and wiling to—”
+
+Alright, let us ignore those two for now, irrelevant sideshow that they are.
+
+Back to our real hero. No brackets around this one, for he was just a [Rolling Stone]—or rather—a flying one.
+
+The stone observed its quest counter, feeling quite a bit of alarm.
+
+Quest:
+
+Current Altitude: 10 222m
+
+What a catastrophe! The number was higher than it had been at the very start of the journey! Were all the trials it had faced for naught?
+
+For a brief moment—the rock felt a hint of despair in its soul. But then it calmed down, mostly because it was a rock. A rock really shouldn’t be panicking at every little thing. Especially as…
+
+STATS
+
+Diameter (d): 1.54m
+
+Mass (m): 4950.1kg
+
+Energy Level (E): 10000W
+
+Core Temp (T): 400K
+
+Yeah, come what may—it had already met great success in this journey. Maybe the destination didn’t matter, and the real treasure was the gains one made along the way.
+
+The rock felt at peace—freed from its monumental quest, learning valuable lessons of life.
+
+And then the dragon started diving down again, for it had surveyed the peaks, and realized that neither hero or demon were possible culprits for the sneaky thievery. It had only come to check up on the mountaintop because it was a methodical giant lizard—who approached pest control like a [Maid] approached cleaning a dusty library.
+
+Start from the top, then work your way down.
+
+And so the dragon flew down—wings held close to its body, transforming it into a veritable missile of aerodynamic potential. And the rock was still in its grasp. Celebrating.
+
+Because the quest number was going down again—so fast!
+
+The rock forgot all the lessons and tranquility it had learned from glimpsing the peak of Mt. Tai, and fell back to its old ways. Numbers above all! A quest started would have to be completed!
+
+So—deeply content—the rock settled itself back inside the comfortable tail it resided in, and decided to wait and see what would happen. Who knew—maybe the dragon would even carry it all the way to the bottom of the mountain? Now that would be fortunate.
+
+So, we return to the dragon, who was circling the mountain in a descending loop, examining every inch for pesky [Adventurers] who might have made off with its treasure.
+
+It circled and circled, swooping high and low, peering into caverns and caves—finding only goblins and rabbits. But… it was not in a hurry. It approached the matter with a dragon’s patience, one only rivaled by those of stone birth.
+
+Eventually, satisfied with its search of the bare mountaintop regions—the dragon finally decided to enter the second stage of its search, and it swooped lower. Below the clouds—and a brand new panorama expanded before the stone.
+
+Trees, grass, bright flowing rivers, peaceful and picturesque valleys, and the delicate fauna making a living. It was a sight brand new to the rock, a realm full of life which stood in stark contrast to the desolate zones above, and the rock almost gasped with admiration and wonder.
+
+Not at the scenery, mind you. No—as always, the rock was focused on the really important things, namely, the little screen in front of it.
+
+Quest:
+
+Current Altitude: 4 782m
+
+The number was past the halfway point! Its quest was nearing completion!
+
+What great joy—perhaps the dragon would even be generous enough to carry it along the rest of the way? Like a marathon racer finally reaching the final stretch, the rock felt its anticipation grow to never-before-seen heights.
+
+What would it get from completing the quest? Could it really be done?
+
+And… what would it do after it?
+
+That last question… it bothered the rock. For it had no larger purpose, just that of its stone brotherhood. Follow the whims of mistress gravity, and roll to where it was supposed to go, guided by fate.
+
+Could it really be satisfied with such a life?
+
+Well, yes. Probably. It was a stone, it didn’t really have complex desires.
+
+Finding a nice, cozy moss bed to sit around in would suit it just fine—at least once it had grown larger than any of its kin it had seen on this grand voyage. It still had a ways to go for that.
+
+And so, future plans clear and resolve sharpened, the rock prepared for the last leg of its journey.
+
+Which was, naturally, when the complications arose. For the dragon finally found its quarry. Inside a quarry.
+
+An adventuring party of four members, a [Knight], a [Cleric], a [Mage], and a [Thief]—male human, female dwarf, female human, and female elf respectively. A rather… generic arrangement. The dragon snorted at their composition, muttering something about Pathetic harems with only one man for three women, then swooped down closer.
+
+For who else could be the culprit? The [Thief] was even carrying a big bag with a money symbol at its side.
+
+The party was shambling out of a mountainside quarry, loaded with gains from a long day of adventure. Exhausted, battered, and ready to drink themselves dull at a tavern, they were gathering the strength needed for the long voyage down the mountain.
+
+Which was naturally when the dragon announced itself.
+
+“Wretches!”
+
+It shouted, sending a great shockwave through the landscape, which made trees swing around wildly and birds fall from the sky—dead on the spot from burst blood vessels. The dragon glared maliciously at the adventurers who were stunned from surprise, staring up at it blankly, and slowly coiled its tail back.
+
+Its great wings paused their flapping, and the dragon began dropping down from the air, every muscle in its tail readying itself simultaneously.
+
+The dragon gathered speed, falling towards the adventurers like a doomsday meteor, then swung its great tail out, suddenly shifting its flight up.
+
+The sole male member of the party recognized the maneuver from the world he had been summoned from, screamed something about “damned dive bombers,” and then readied his sword to oppose the payload dropped at him.
+
+Not a bomb—but a… stone.
+
+Our hero found itself flying faster than it had ever before, right at the [Knight’s] glowing magical sword.
+
+Current Velocity: 51.2 m/s
+
+Now, with its brand new [Diamond Skin], the rock may have been able to oppose the great sword of Damocles preparing to flay its stony hide, but it had a better plan.
+
+It observed the [Knight’s] companions, arrayed around him in a triangle formation, some distance away. It threw a mental three-sided dice, landed on the human mage, and prepared itself.
+
+It neared the knight, getting razor-close to him, and then…
+
+Pivot Point activated!
+
+Direction: Left
+
+Rotation: 90°
+
+It pivoted to the side, dodging the sword completely, and crushed the unsuspecting [Mage] against the cragged mountainside.
+
+Collide activated!
+
+[Unnamed] Dealt 38.2 * 4950.1 / 4  = 47273 dmg to [Magus Élena]
+
+New Velocity for [Unnamed]: 8.9 m/s
+
+Collision Damage received!
+
+HP 21/21 -> 19/21
+
+The [Mage's] fleshy body was reduced to bloody pulp, and so great was the impact, that even the stone received damage from it.
+
+The remaining momentum bounced it up the mountainside, and it gained a half-dozen meters on the surprised adventurers, who were staring at their slain companion with open horror.
+
+The rock bounced up… up the mountainside, then slowly—inevitably—aided by a side of sly braking with [Energy Shift]… it slowed. Stopped.
+
+Then started rolling back.
+
+Having gained a measure of heat from the braking, the stone had a small reserve it could use to boost itself forward further, which it did with eager pleasure—wanting to reach the thrill of speed the dragon had helped it to.
+
+Current Velocity: 51.2 m/s
+
+Alas, it could not quite reach it, even powered up by its bursts of speed, but nevertheless, it once more rammed into the party. It was [Steering] carefully, once more aiming at the [Knight], who was glaring with hate at the murderous boulder, ready to slice it open with his sword, his two remaining allies standing on either side of him. Once more, he readied for a challenge.
+
+But this time… Just before reaching him—the rock used one more [Energy Shift], using the rest of its stored energy, putting all the kinetic energy gained to the left. Right at the Squishy looking [Thief].
+
+However, the [Thief] was no fool, and dashed behind the [Knight] for cover right when the rock shifted towards her, in a fast [Backward Leap].
+
+But the rock too was ready. It prepared its [Pivot Point]—then attached it to the [Knight]—
+
+And began swinging around him in a wide arc.
+
+Pivot Point activated!
+
+Direction: Left
+
+Rotation: 270°
+
+First, it hit the surprised [Thief], who was squished against the rocky exterior, and then continued forth, promptly adding the [Cleric] to the pileup.
+
+Two more of the party were struck by the rock, then carried back to the mountainside, and crushed against it. This time the rock used [Diamond Skin] with all the might in its cultavion base, not eager to face any more self-damage.
+
+Diamond Skin Activated!
+
+Power: 10 000W
+
+Collide activated!
+
+[Unnamed] Dealt 25.7 * 4950.1 / 4  = 31804 dmg to [Cleric Kati] & [Unlucky Thief Aino]
+
+New Velocity for [Unnamed]: 0 m/s
+
+Two more bodies were broken, crushed together into a vaguely humanoid paste, which slowly started dripping back down the mountainside.
+
+The rock lost its momentum.
+
+And then… once more… started falling back down.
+
+But the [Knight]... he was just staring forward blankly, no longer even holding his sword up. The light of his life was gone, three times over, and the emptiness was simply too crushing for him to handle.
+
+He stumbled onto his knees, covering his face with shaking arms as wailing sobs left his mouth.
+
+And then a rock rolled over him.
+
+Collide activated!
+
+[Unnamed] Dealt 10.2 * 4950.1 / 4  = 12622 dmg to [Knight Lord Mathias]
+
+New Velocity for [Unnamed]: 0 m/s
+
+And then there were none.
+
+And the dragon, who had watched all this come about as a result of throwing one ordinary stone numbly blinked its eyes—disbelieving. What was the world coming to? Adventurers couldn’t even handle one simple thrown stone—why, back in the day there had been whole proverbs about how those who cast the first stone would eventually come to regret it!
+
+But with one simple toss—all its foes had been vanquished!
+
+Sighing, the dragon began to swoop back down, ready to search for the magical tools left behind the adventures, but… the bodies it found were empty. Crushed, yes—but also empty of all magical tools.
+
+Were adventurers really this weak these days? That would explain some things…
+
+For a moment, the dragon felt a hint of suspicion and gazed forward into the forest where the stone was happily rolling onward. Where had its hoard of treasures gone?
+
+But the rock… it was [Just a Rock]. Nothing special to it. Not really worth fetching any more than the myriad other boulders scattered about the mountains. And so the dragon began flying up, soul weary, once more reminded of how weak the world of today was compared to the days of old, ready to once more curl up into a slumber of aeons.
+
+And a rock celebrated.
+
+Level up!
+
+1000 / 1000xp
+
+You have reached level 9!
+
+Stats up!
+
+Mass (m): 4950.1kg -> 16706.7kg
+
+Diameter (d): 1.54m -> 2.31m
+
+HP: 34 -> 55
+
+New Ability Gained!
+
+Avalanche
+
+Gather the other rocks and stones around you, and bring them along for your journey.
+
+It celebrated not just the levels, growth, and skills gained, but also the magical treasures it had absorbed within itself, which it was busy converting into cultivation energy. Four adventurers, all absolutely loaded with rare magical equipment!
+
+What a fortunate find!
+
+Stolen Cultivation Activated!
+
+Converting Artifacts to power...
+
+Complete!
+
+Level up!
+
+100 / 100 Magic
+
+You have reached Cultivator Level 5!
+
+You are now in the [Magma Core] Realm.
+
+Stats up!
+
+Energy Level (E) = 100 000W
+
+Core Heat: 700 K
+
+Progress to next realm = 0 / 1000
+
+The burning core at its center shone even hotter than before, filling the stone with an unparalleled amount of energy, but even that was not the true source of its joy—for down below… looking down the mountainside, it saw the bottom.
+
+A great city at the bottom of the mountain, with a tall tower at its very center. The goal, it now knew, had to be there. Because… the number was just so low. The end was in sight.
+
+Quest:
+
+Current Altitude: 1872 m
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Line-Ender, Patient Ambusher, Bane of Demons, Grandmaster of Closed Door Cultivation
+
+🗿
+
+HP: 55/55
+
+Mana: 0/0
+
+Level: 9
+
+Experience: 0/2000
+
+Class: Rolling Stone
+
+Sub-class: Cultivator 5
+
+Race: Gneiss Stone
+
+Gold: 100%
+
+STATS
+
+Diameter (d): 2.31m
+
+Mass (m): 16706.7kg
+
+Energy Level (E): 100000W
+
+Core Temp (T): 700K
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift
+
+Pivot Point
+
+Just a Rock
+
+Meditate
+
+Diamond Skin
+
+Stolen Cultivation
+
+Avalanche

@@ -1,0 +1,105 @@
+---
+id: 8e317e2e-0bd4-59be-9778-139c2a664aef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Not a Leader"
+slug: 0019-chapter-19-not-a-leader
+partOf: succulent-girl-evolution
+position: 19
+ownLength: 2118
+unit: words
+publishedAt: 2025-09-06
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2579518/chapter-19-not-a-leader"
+royalRoadId: "2579518"
+---
+
+Bubbles couldn’t talk to Link while they were underwater, but she was glad to see he seemed to take the abduction in stride.
+
+Did you notice anything weird about this place? Bubbles asked Rock as the light faded away. I just thought this place was really pretty… is that what’s wrong with it?
+
+[Nothing egregious enough to catch my attention. There is no source of malicious mana I can detect, but the other mineral’s apprehension indicated to me something was off.]
+
+Miss Fish seemed to be taking them to a completely different location, since they were swimming in the dark for quite a while. Eventually though, she brought them to a smaller pond, set inside a cave. But unlike the cave with Rock Two, the roof opened up to the sky, letting in a comfortable amount of light.
+
+Surrounding the walls of the cavern were rock outcroppings that carried small cauldrons, all bubbling merrily away. Miss Fish deposited Link and Bubbles at a shallow shore on the other end of the cave. Several empty planters stood along this side, save for one small pot containing a delicate sprout.
+
+“It is safe to talk here… I couldn’t say anything outside, because I was worried the vegetation would hear,” Miss Fish said quietly.
+
+“This was quite the effort to go through for a simple discussion. What is the issue?” Link asked as he shook the water off of him. Miss Fish had been careful transporting them, but it was impossible to remain completely dry in the environment they were in.
+
+“The imbalance you noted in the forest… it is due to a mistake I made. I was trying to preserve a certain species of vine due to its useful properties, and my patron was helping me with it—the vine also happens to feed a great number of animals, which is why it got nibbled to near extinction—but I overcorrected…”
+
+Despite her best intentions, Bubbles couldn’t stop her attention from wandering to the potted plant. She wasn’t close enough to talk to it, or even see how it was doing, but for some reason… it seemed quite sad. Scolding herself for her bad manners, she moved to the other side of Link so that she could focus better on the rest of Miss Fish’s tale.
+
+“—The result is that now the vine propagates too quickly, and it is spreading all throughout these woods,” Miss Fish said despondently. “Not in a survival of the fittest manner, either; nothing else can compete. It’s choked out several of our ancient trees already, trees that have been ancient since before my ancestors hatched. The animals that used to feed on these vines aren’t able to keep the growth in check. It’s gotten to the point that even their burrows have gotten overgrown with the vines, so now they don’t even have homes anymore.”
+
+Link nodded somberly, and Bubbles nodded along with him with mixed feelings.
+
+On one shoulder, that sounded like quite an amazing ability, one worth celebrating—and of course, Fern was happy for that plant. All it had to do was focus on growing and becoming as big and majestic as it could be. No concerns about getting wiped out!
+
+On the other shoulder, Cuddles protested the simplistic depiction. Growing large enough to overshadow others would only provide a temporary high; eventually, the smaller plants would die out, and then you’d be left as the king of nothing. Alone and lonely.
+
+“If you’ve noticed the long flowers hanging outside, they’ve already spread to my pond,” Miss Fish continued. “The vine is called a wisteria… and they’re very aggressive. At the slightest provocation, they will spit their seeds at you, and when you shake the seeds off elsewhere, they take root immediately.”
+
+Would we win if we took some of these wisteria back home? Bubbles asked Rock.
+
+[Perhaps, though at the expense of the rest of the lives in the garden, as the cactus has pointed out.]
+
+“I’m beginning to understand your secrecy,” Link said slowly, his voice taking on a growl. “I was not assaulted by the wisteria during my prowl, but I noticed there was a distinct lack of prey… for my diet,” he amended. “Then I noticed there weren’t any berries or fruit, either, and I am not able to sustain myself on mere flowers.”
+
+“If you are hungry, I can provide sustenance,” Miss Fish said immediately, swimming over to a simmering cauldron. Using a combination of bubble magic and her fins, she began ladling pellets into two small bowls. “It is not quite as flavorful as real food, but it has all the nutrition you will need.”
+
+“Supplicants cannot be choosy,” Link said somberly, bowing his head as Miss Fish brought the two bowls over to them. “Thank you for your hospitality.”
+
+“If you don’t mind, what is that plant over there?” Bubbles finally asked. Miss Fish glanced over at the sprout.
+
+“Ah, that… that is the last remaining wisteria of the original variety. Once I realized that she was still alive, I had her sprout transplanted here so she wouldn’t be swallowed. I’ve been keeping her here, hoping I could plant her back in the woods one day… but as you can imagine…” Miss Fish shrugged helplessly, though she did bring the pot closer for Bubbles and Link to inspect.
+
+As Bubbles thought, the little wisteria was wilting, though not due to lack of care. Her potting soil was properly moist, and her tiny leaves and stem were a healthy green, indicating she received enough sunlight. As Bubbles and Link observed her, however, she perked up.
+
+“Hello, friend!” Bubbles said gladly as she noticed the plant’s mood improve. She must have been lonely. “My name is Bubbles! It’s a pleasure to meet you.”
+
+“She really shouldn’t be in this cave, all alone with only me,” Miss Fish said sadly, a small smile on her lips as she watched the sprout lean towards Bubbles. “But the outside world is dangerous… there’s no safe soil for her to grow, and a hungry insect will feast on her tender leaves.”
+
+“How long has she been in here?” Bubbles asked, dangling one of her spines above the sprout. She giggled as the vine reached for the needle, growing a small tendril to wrap around it.
+
+“About a week,” Miss Fish replied. “I don’t know how much longer I can keep her in her pot, but I suspect not long.”
+
+As the three of them watched the baby wisteria play with Bubbles, Miss Fish’s meaning hung heavily between them. She needed help with the new variety of invasive wisteria, but she didn’t want to burden them with something that wasn’t their fault, and ultimately didn’t affect their lives.
+
+“Do you have a plan on how to deal with the new species?” Link finally asked. “It seems like only a matter of time before your pond is overwhelmed by the plants.”
+
+Miss Fish blushed, and she swam to a different cauldron. “I… this is what I have been working on as a stopgap measure, and it has been working well outside my pond, but I don’t know how I can convert it into an overall solution.”
+
+As Miss Fish explained, there was no easy way to remove the new strain of wisteria; they simply propagated too quickly. However, she had made an herbicide (in the form of pellets that broke open when struck, releasing an inconspicuous cloud of gas that targeted the wisteria) that was effective at paralyzing the vines, allowing animals to come in and eat back the new growths. The problem was that the larger the wisteria growth was, the harder it was to keep it in check, and the invasive vines had already spread far enough that Miss Fish was struggling to keep the growth contained.
+
+Miss Fish had a small flock of birds who helped dispense her herbicide further out, but the bulk of the distribution still fell on Miss Fish herself since the birds couldn’t carry too many pellets at once. Not only that, once the vines had frozen, they didn’t have enough animals to eat the vines, so they were effectively at a stalemate in keeping the vines from encroaching, but they couldn’t venture deeper into vine territory to stop the new growth from advancing.
+
+“A huge part of the problem is that our range is quite limited,” Miss Fish said earnestly. “The birds covered a lot of ground in a day, but once they started dropping pellets is when it became dangerous. The wisteria have begun recognizing what they’re doing, so will shoot at them, which means the birds need to cut down on their load so they can dodge the shots. If I only had a large enough land animal serving as a carrier, I’m certain we can cover more ground.”
+
+“None of the apex predators are willing to work with you?” Link asked pointedly. Miss Fish blushed, sinking into the water so that only her lips remained above the water.
+
+“I… to be honest, I didn’t ask. And it’s too late now… they left, and don’t intend to come back. All that is left are the small creatures, and they are unable to withstand the wisterias’ pellet sprays.”
+
+“Why is that?”
+
+“They… they decided to cut their losses when things first started getting out of hand, because…” Miss Fish struggled to get the rest of the words out, the orange patches on her body seeming to glow more brightly than the other colors. She dipped completely below the water, clearly humiliated.
+
+“Because they had no faith in your leadership as the appointed Guardian of this forest?” Link asked dryly. Bubbles (the watery kind) breaking the surface of the water was the only sign of agreement from Miss Fish.
+
+“Why do they think that? Don’t they know how hard you work?” Bubbles said indignantly. “Look at this cave! Look at those nutrition pellets you gave us! You’re making so many things!”
+
+“If I were to hazard a guess, it is because they don’t know how much effort our Water Guardian is putting forth,” Link said when Miss Fish refused to surface and answer her question. “Not that a single impression is accurate, but from my understanding and limited observations, other than the small flock of birds involved in distributing the herbicide, there is no cohesion in the remaining animals’ activities. Every creature seems to be out for themselves, instead of recognizing the great threat the vines pose. That lack of cohesion indicates they either do not know or understand just how severe the situation is, or they firmly believe the Guardian cannot help them, hence them acting upon their own panicked thoughts. Of course, the only animals I’ve seen are small rodent types, so it’s not shocking if they are just clueless…”
+
+[He is very insightful,] Rock said admiringly.
+
+“However, based on how your workspace is set up and your ease of use with magic, I am inclined to believe you are competent,” Link continued, his eyes roving around the cave as he inspected the different cauldrons, all bubbling neatly in their own corners. “Technically competent in executing tasks, perhaps; intelligent, of course, enough to come up with your own unique formulations that work. However, lacking understanding of how to be a leader, which leads to inefficiency that ultimately prevents you from growing your capabilities at best, and causes the downfall of an organization at worst.”
+
+Miss Fish had floated back to the surface of the water during Link’s analysis of her character to listen, and she had slowly rolled in the water during his relentless judgment; her belly was now exposed to the roof of the cave, her fins floating listlessly beside her. But Link wasn’t finished.
+
+“I don’t mean to put you down with these observations,” Link said matter-of-factly. “I’m merely saying it all out loud so that you can correct me if I’m wrong. But if these observations accurately reflect you, then I would like to remind you that doesn’t mean you are irreversibly doomed. You still have a chance to change things, if you are willing.”
+
+[I approve of his message,] Rock said sagely.
+
+“I believe in you!” Bubbles shouted, raising her two front roots in hearty support. Beside her, little Wisteria grew two more tendrils to emulate Bubbles’s cheer.
+
+“I want to change, but it’s too late,” Miss Fish said, her voice muffled by the water. She rolled back over so that she was upright again. “The large mammals are long gone, and it’s only a matter of time before the vines recover whatever little ground I managed to wrest back from them. I fear I may just have to accept this outcome…”

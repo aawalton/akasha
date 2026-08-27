@@ -1,0 +1,157 @@
+---
+id: ac3aebf2-53ac-512e-86e2-ac186bbe175a
+page-type-slug: story-chapter-royal-road
+title: "349 (I) Broken Things [III]"
+slug: 0459-349-i-broken-things-iii-3346923
+partOf: path-of-the-deathless-book-4-completed
+position: 459
+ownLength: 3401
+unit: words
+publishedAt: 2026-05-02
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3346923/349-i-broken-things-iii"
+royalRoadId: "3346923"
+---
+
+Everyone inevitably turns delusional.
+
+When you notice it, it is a tragic realization, one I suffer multiple times per day. I have a separate ego watching me, and I often hijack the minds of another person—very carefully, might I add—to see what they think of me and how they perceive me. I'm not ignorant of my eccentricities, my obsessions, and my nature. I'm not ignorant of my flaws either.
+
+The problem is that you are not your awareness. You are not your mind. You exist in relation to it, but… Ah, here I am, indulging in one of my finest flaws: egotism! I want people to know about my brilliance. I want to feel like I matter because I have glimpsed beyond the veil in the world. The world does not think I matter. The System doesn't think I matter. The System feeds off me and the things I do. I am, effectively, a juicy grub warring against a nigh-omnipotent anteater.
+
+Even less, perhaps.
+
+And so I seek to disprove this notion consciously and subconsciously. I don't exist in the world. I exist relative to the world, much like I exist relative to my own mind. If I matter, if my presence has significance, then perhaps this delusion I feel, this egotism that is inspired, is justified. Perhaps it is true after all that I hold grand significance, ontological worth beyond doubt, that I am something absolute rather than just another note in passing, just another trout meant to be drowned beneath the eternal cascading waves.
+
+I seek more than eternity. I seek worth beyond measure. And I don't even think I can fully conceptualize what that is.
+
+So I have adopted countermeasures. I am not here to feel a certain way about this immortality I seek to claim. I am going to break down the System, but to do so I need to circumvent all my flaws. I installed additional measures to adjust and shock my consciousness so that I am fully aware of when I veer off and become over-biased towards my world view. I will further see patchworks of memories harvested from the people around me and made into a cocktail to further sober myself, for living in one's own mind is an act of spiritual drunkenness. And if I am to succeed, I cannot be drunk. I cannot.
+
+A thing cannot be if you just believe; a thing can only become if you change the foundations. And to do that, you must face the thing itself. Epistemology! The fundamentals!
+
+And such things cannot be averted by the self-affirming powers of the immensely powerful. Such is why there is ever and eternally an insight lost to the gods. For how can you grasp the grand design when it has already wrapped you within a protective cradle that distorts your view of the world?
+
+—Udraal Thann’s recovered notes
+
+349 (I)
+
+Broken Things [III]
+
+The arrow arrived from out of nowhere. One moment, it wasn't. The next, it split through the fabric of reality, defying the Usurper-Narrator's stilling of time to greet the back of her center head. It combusted in blooming, brilliant colors—colors that defined the sunrise of a distant horizon, cast by an eternally clear sky; colors that Shiv knew all too well.
+
+He had no idea how Adam had defied the temporal quarantine, nor what powers he now possessed that allowed him to surprise Evanescia so. It also didn't matter. Adam was here now, and everything came second to his immediate safety.
+
+The arrow's explosion consumed Evanescia; her very being vibrated, stunning her for the briefest of instances. A brief instance that both Shiv and Adam capitalized on.
+
+Shiv closed in on her—not to strike her with strength nor spell, but to divert her attention from Adam. Wherever he was.
+
+The answer to that question arrived in the form of a second arrow. This one, Shiv noticed beforehand. It too tore through the golden mana fused over the surface of reality like a layer of lacquer. Shiv's Legion of Self let him examine it in detail. Its blazing length was like something distilled from the pureness of a star, and its edges rippled and radiated with the corona of a wondrous horizon. Its tip sank into Shiv's flesh, but rather than tearing him asunder in body or soul, the arrow injected its essence into him, and with it came a glorious warmth accompanied by a long-missed presence.
+
+Once more, Shiv felt Adam ignite the insides of his soul, and graced by a source of boundless Heroism, Shiv felt his own powers swell. Felt his own skills rise in strength. Felt his heart clear twice over, of all doubt and darkness shrouding his judgment. The world around him grew brighter as he was infused by Adam's Divinity. Yet, amidst the incandescence was always that azure purity that stood deviant from the energies that radiated from Longinus.
+
+Inside, the blessings bestowed by Adam's power were even greater. The cracks lining the exterior of the Harbinger were sealed by the pyre of Heroism. Shiv's new Legendary skill went from being brittle to merely dented.
+
+"Remarkable," the Harbinger breathed.
+
+Adam's voice came as an incoherent, droning mess inside Shiv’s head. Processing anything while Legion of Self was active remained a struggle. But there would be time enough for dialogue and plans in a moment if Shiv did things right.
+
+"This still isn't a fight we can win. Not directly," the Harbinger instructed. "But you know now that not everything needs to be a fight. And we understand her enough that we can convince her to listen, if only for a moment. We can expand our strategy from there. First, stop her from crushing us."
+
+And so Shiv realized he had to do something unexpected to throw everyone off. If this had developed into a fight, then Evanescia would draw upon one of her Mythic-Tier characters, and even Adam’s divine power couldn’t bridge that gulf.
+
+The Deathless manifested his reinforced Harbinger. Its golden form manifested over him, shrouding him in the person he could be. That time-wrought body, constructed from golden shards of glass, was still deformed in a few places, but it shone clearer than ever before. The Harbinger resembled an older Shiv: taller, refined, stable of gaze, proper of dress, bearing the tools of his desired trade and the confidence of someone who was more than a mere monster. And the resolve residing within the Harbinger was cast out in a telepathic shout that made the world tremble. Even the Mythic-Tier Chronomancy gripping the world shook and fractured in Shiv’s immediate vicinity.
+
+Just because Evanescia's magics were greater than his by magnitude didn't make him weak. Ultimately, her time mana wasn't concentrated; it was spread out to hold an entire dimension in enduring stasis. The Harbinger, meanwhile, was dense and concentrated, and so it was able to contend with what the Usurper-Narrator pitted against him, at least while she was not focusing her efforts on him.
+
+“WAIT!” Shiv's voice struck Evanescia. Her silhouetted form staggered for the second time as Shiv's enkindled flames manifested before the Usurper-Narrator as a vaguely human shape with both hands held out, conveying Shiv's honest intent toward pacifism.
+
+Huh. Didn’t know I could do that. But it makes sense too. The Harbinger is a carrier of my thoughts as well. That's part of the Tripartite. It can carry my words and emotions to people more easily than it can break someone down.
+
+Using Legion of Self, Shiv sent another thought to Adam. “Adam, wait! I'm trying to do something with her here—figure out what makes her mind work. I don't think we can fight her, but I might just be able to lead her on. Just trust me, okay? Give me a second. And if this doesn't work, I'll get us out of here—I'll find a way.”
+
+With that done, Shiv let time progress an instant into the future, and both Evanescia and Adam stiffened and stilled, restraining themselves from immediate violence. Shiv felt the shift in their emotions and the faint whispers of their thoughts. The Harbinger wasn't just a courier of his intent, but also an astute listener of hearts and minds. It had to be, since communication was core to its way of ruin; after all, what difference to the Harbinger of broken mind from a broken body from a broken heart?
+
+Legion of Self ceased. Shiv's perception of time returned to normal.
+
+Evanescia stood across from him as a silhouette, no longer in the body of the tree-headed entity made of separated shards, her posture halted on the verge of violence, and her emotional core clear and excited, swirling with passionate energies. Within Shiv, somehow more deep and brilliant, was Adam. His heart was burning as well, but it was with defiance and a righteous urge to strike down the wicked. The Paragon’s mind was tense and anxious; he wasn't sure what game Shiv was playing, but he didn't question him. He trusted Shiv, absolutely, and it went the same the other way.
+
+Shiv and his Harbinger let out twin exhales. Right. Time to figure out how we’re going to solve this through persuasion.
+
+"Focus on her obsession over stories and narratives,” his skill instructed. “If she strikes us down now, then what tension will there be? There's almost no doubt that she can win—but what theme would that present? That she's simply stronger, that she is the dominant ruler of this place? No, that's not the way of the hero. That's the way of a tyrant. And there is no story that begins and ends with a boot stomping on an insect."
+
+“Adam Arrow,” Evanescia called out. Her silhouette quivered as if she was on the verge of summoning a Pathbearer to form, but she held herself back from self-inserting and stayed her hand from retribution. “This is the second time you've managed to take me by complete surprise!” Rather than sounding offended, she was positively giddy—and what's more, her emotional core boiled with curiosity. “I have to admit, your new abilities to hide from my awareness and continue facing me in my own territory are so vexing that it's made me excited.”
+
+“A sentiment I don't share!” Adam shouted back from within Shiv. His voice reverberated with power, but where Evanescia was a clear and crisp narrator, Adam was a resounding bellow. A clear clarion call that would blare like a horn signaling the arrival of cavalry, liberating a town under siege. “I've no urge to play your games or be a part of your story. I've never consented to such a thing, and neither have my friends. Neither have the countless characters you press beneath your palm. What you're doing is wrong. You are no reader, but an empress over countless prisoners who've done nothing to deserve their fate.”
+
+The Usurper-Narrator's body language betrayed a hint of confusion, and her mind whispered a faint note of hurt. Her feelings weren't offended so deeply that she thought less of Adam, but she simply couldn't seem to understand why he didn't appreciate the life she was offering.
+
+"She sees trapping us in the Fairwoods as a gift rather than a punishment," the Harbinger deduced.
+
+“Wait,” Shiv interrupted the conversation between the two. “Evanescia, we were talking before Adam so rudely interrupted us—”
+
+“What?” Adam barked with confusion and surprise.
+
+“Just roll with it, okay? I'm trying something here,” Shiv whispered to his friend telepathically. “Also, you don't have to shout; I can hear you just fine.”
+
+A burst of surprise came from Adam. “Shiv? Why do your thoughts sound so clear? It's like I can feel them echoing inside myself. And why do I feel what you feel? It's like you dumped part of your emotions on me—oh, Broken Moon, you’ve gotten another evolution again, haven’t you?”
+
+“Yeah, you’re one to talk this time. We can compare how many centimeters we each got downstairs later. Let’s see if I can save our asses with my words rather than my fists for once.”
+
+A quick peal of laughter escaped from Evanescia. She began circling Shiv, eyeing his Harbinger up and down. “Well, that is a remarkable skill! I was wondering how I felt your honesty, your intentions, your thoughts, how you managed to communicate that to me so fast. Harbinger of Tripartite Ruin. A rare Skill Fusion. This is perhaps the third time I've seen it in all my existence.”
+
+“Third, huh?” Shiv was genuinely curious about how he compared to the other two possessors of the skill—but the Harbinger whispered for him to focus, to avoid getting sidetracked like he so often did. “Well, since you know how it works, that saves me some explanations. So let me start off with a few ugly truths: We both know how a fight between us is going to end.”
+
+“Do we?” Evanescia and Adam said at the same time, though their emotions burned very differently from one another.
+
+“Yeah, we do,” Shiv insisted. “I don't know how many Mythic-Tier Pathbearers you can insert yourself into. On top of that, I don't even know if Mythic-Tier is your ceiling of power. And that's not getting into all your other skills. On the other hand, you know a lot about me. You've been watching me this entire time—well, most of this entire time.”
+
+“Even 'most' might be an exaggeration,” Evanescia said, still circling him. “But I'm going to find out about that little skill you have too. The one that lets you slip out of my narrative's loop for hours on end and makes me forget about you. It's eldritch, isn't it? It has to be. You're skipping over into the Outside. What kind of Eldritch God do you have a pact with? The Stranger? The Spiral Dancer? You know that's not going to protect you for long, right? If you expose the eldritch to the Fairwoods for too long, then it goes from being an Outsider skill to a Narrative one.”
+
+That revelation took Shiv by surprise. “Huh? How does that work?”
+
+“It works because the Outsiders the System has already colonized are simply aberrations of specific concepts. They're metaphysical abnormalities, and though they strain to be limitless and infinite, there is something they can't escape either—they have experiences, and they become parts of someone's story. And once they are exposed to mine, once they are drawn closer to the fires of my Watchtower, their personal design and the System's desires can be met—it allows them to maintain their strangest nature, to be boundless in so many ways, yet anchored to a single narrative trope. It's the path of least resistance, after all.”
+
+“And in time, do the Eldritch become Fae?” Shiv asked.
+
+Evanescia tilted her head. “Time? It's not time that makes Fae. It's narrative novelty and the new people that are processed by the Watchtower's fire. And I have to say, you're a hard one to burn, Deathless. You and the Seeker. The only one still in question is our wayward Paragon—who’s currently still hiding inside you. And I absolutely cannot wait to integrate him with our story and figure out what his new deal is exactly. Well, perhaps giving him to the Watchtower is less about integrating and more about uniting, if my suspicions are correct.”
+
+“Well, maybe it'll be the other way around,” Adam spat. “Maybe your Watchtower deserves a better master.”
+
+“Oh, very snappy line.” She snickered and rubbed her hands together. “Shiv, can you say stuff like that when we face each other?”
+
+“Yeah, sure. I can say all kinds of things. But that’s what I want to talk with you about—Evanescia, you know you're getting a little too excited, right? You're kind of spoiling your own story.”
+
+The Usurper-Narrator cocked her head and stopped circling Shiv as his words filled her core and mind with the smoke of doubt. “What do you mean by that?”
+
+“I mean exactly what I just said. You're damaging your own reading experience. Look, I understand you not intervening while I was beating on Longinus.”
+
+Adam shuddered with alarm inside him. “Longinus?”
+
+Shiv grunted in acknowledgment. “Long story. I'll explain in a minute.”
+
+Shiv turned his focus back to Evanescia. “But you had the excuse of wanting to figure me out, wanting to understand how I managed to slip out of your Fairwoods. On top of that, as you said earlier, me grinding Longinus down over days of skirmishing is entertaining—but come on, what kind of story arc is this, right? I've already deviated. You told me so.”
+
+“You have,” Evanescia admitted, and her heart sang a note of genuine mournfulness. “And you lost a lot of things. The armor I made for you—”
+
+“Wait, I thought the Princess made that thing. The armor with all those tooth fairies that was actually awakened and alive, right? The one that had its own Path.”
+
+Evanescia nodded animatedly. “Yes! I had that arranged to be given to you. The Princess herself has no capability to make such armor. The Summer Court as a whole might indeed be able to create something like that, but this is tailored for you specifically. You were supposed to put that on and explore the Path of the Chef where you never got the chance before. You were supposed to level that over years and focus on overcoming rival chefs who were duplicitous and ran their kitchens like cruel prisons. And you were supposed to face down this one terrible, despicable rival chef that's long held the Princess's highest regard, and struggle against him in a series of cook-offs before finally, maybe after years of struggling, beat him and manage to free your mentor as your final reward!”
+
+The Usurper-Narrator's voice was innocent and jubilant, but her words still roused a ravenous anger inside Shiv. She had planned this, in some regard. She'd allowed Georges to suffer—allowed so many people to suffer—at the hands of Longinus, a monster beyond compare. If Shiv knew one thing for certain, it was that the Wanderer was a monster that needed killing. Evanescia didn't care, however. She just let him be. She let him play Shiv's villain, and so many people suffered for it.
+
+"But she doesn't care about that. Moral outrage and personal feuds are beneath her interest. She is only driven by what might make someone turn the page." The Harbinger paused and considered something. "But though we might not be able to shame her lack of genuine virtue, there is something we can use to rattle her: She loves giving people spoilers. She can't help but share her thoughts and her plans. She remains the Usurper-Author rather than Usurper-Reader. Yes, focus on that. Spoilers. If she holds any pride in her title as reader at all, this would likely cause her harm."
+
+A weakness was identified. Shiv zeroed in on it. “Whoa, hey, whoa! What the hells, Evanescia!” He threw up both hands and sighed in offense. “Honestly, this is why dealing with you can be so annoying. You always do that. Always. It's like you don't respect yourself or this place at all.”
+
+The Usurper-Narrator didn't say anything at first, but her emotions rang clear. The sphere at her core turned bruised as her ego took a genuine hit, but she remained confused as to why. “Well, can you at least elaborate—”
+
+Shiv laughed humorlessly. “Sure. I’ll elaborate. Can't believe you didn't notice what you were doing all this time, though. Makes me wonder how many other people you did this to.” He was dragging a knife across her metaphorical flesh now, making it hurt a while longer before he sank it in. “Spoilers, Evanescia. You love giving people spoilers.”
+
+And then, almost to Shiv's disbelief, he felt the Harbinger's powers activate. A shadow formed behind Evanescia. It was a faint thing, a midnight fire that danced and flickered, but was almost akin to a mirage in how thin and weak it manifested. Even so, the shadowy effigy tied to the Harbinger ran a hand along the Usurper-Narrator's silhouette and a portion of her outside. A thin bit of epidermis began to glisten and crack—like compromised glass.
+
+A detonation of power went off inside Shiv for the rhetorical feat he just performed.
+
+Harbinger of Tripartite Ruin 208 > 213
+
+Rhetoric 25 > 32
+
+Deductive Reasoning 24 > 27

@@ -1,0 +1,259 @@
+---
+id: f7b1861c-92b3-5e4a-976f-9a9361eca7ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: I am Fa Xiaolan!"
+slug: 0034-chapter-34-i-am-fa-xiaolan
+partOf: phoenix-ascension-cultivation-litrpg
+position: 34
+ownLength: 3104
+unit: words
+publishedAt: 2025-10-11
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2668953/chapter-34-i-am-fa-xiaolan"
+royalRoadId: "2668953"
+---
+
+A sect stood upon a misty valley, surrounded by green, lush forests and radiating springs.
+
+Two towering pagodas stood parallel to each other, their ashy red roofs giving the sect an air of dominance.
+
+Countless people stood inside those two pagodas, each level having lesser and lesser people, up until the top, where one person stood on each floor.
+
+One woman, one man.
+
+The man had long white hair— a symbol of old age— alongside a flowing beard of similar color. He wore blue and silver robes decorated with dragon patterns, and a beautiful token made out of a blue material. The token simply read “Patriarch.”
+
+On the opposite side, a younger woman with flowing red hair and blue eyes looked down, her gaze filled with pride. Her beautiful red and gold robes accentuated her appearance, and the intricate phoenix patterns showcased her direct rivalry with the old man.
+
+Her token— made out of a similarly beautiful red-gold, read “Matriarch.”
+
+Neither of them looked at each other, their gazes fixated on an arena down below.
+
+There, two people fought— a man and a woman.
+
+They had ordinary appearances, but their aura emitted the air of true experts. People far above Foundation Establishment— true Early Golden Core experts.
+
+The two looked young, no older than twenty five, and the arena shook as they clashed.
+
+Water and fire emitted created steam, metal sparked and the echoes of the fellow disciples watching from below drowned out the sound of their exhaustion.
+
+They didn’t use any fantastic techniques or flashy moves. All they used was their body, weapon and proficiency.
+
+Finally, the man made a mistake. Instead of pivoting left, he pivoted right, and that created the most minuscule of openings that the woman took advantage of. Her reddish-black hair flowed with the wind as she attacked, her sword strike switching to a hilt as she tapped the man on the stomach.
+
+He collapsed, clutching his gut, and a bell rang as the woman raised her hands in victory.
+
+“Winner— Shu Lingfei!” An ancient, formless voice boomed, and she walked out not long after, while the man had to be escorted.
+
+“He fought well.” The red-haired woman said, a soft smile creasing her painted lips as she looked at the old man.
+
+He nodded, stroking his beard, and said without any shame. “Indeed. That Shu Lingfei took advantage of such a tiny mistake, I’m impressed by your disciple.”
+
+“Looks like this year’s top spots are mine.” She chuckled, pride evident in her voice.
+
+“I wouldn’t be so sure.” The old man’s lips curled into a smile. “There’s still six fights left, and so far we’re tied.”
+
+The woman shook her head, taking out a fan, hiding her face as she spoke. “I wouldn’t be so sure, old Yang. My disciple’s fighting order has been meticulously chosen. All of the matches I set up have gone as I expected, even the losses.”
+
+“You—” Old Yang began, but could only shook his head, swallowing any retorts he had. “It seems like the majestic Phoenix is also a fox in disguise.”
+
+“Whatever it takes to win. Next, your strongest will fight against my weakest. Tell me, what do you expect the result to be?”
+
+Old Yang considered, though anyone could predict the result even without his experience. “Your disciple will lose, of course. A Middle Stage against a True Stage? Hmph, don’t make me laugh.”
+
+She smiled, “We’ll see, old Yang. Some women would do anything to reach their goals. This one’s no different.”
+
+“Oh? I see, so it’s something like that.” Old Yang said, ignoring her last sentence. “Hmph, no wonder you got so many of the elder to abolish the lottery system.”
+
+The red haired woman chuckled and turned her gaze toward the arena, a proud smirk creasing her lips. “I couldn’t help it, your Thunderous Dragon Sect is too strong, and there aren’t enough women with the right constitution to practice the Ethereal Phoenix Sect’s cultivation technique. This secret realm is my only ticket to better resources.”
+
+“Hmph,” the old man snorted. “Fairy Xiulang sure knows how to talk. I’ll give it to you this time, you’ve schemed well.”
+
+“Hehe, old Yang is too kind.”
+
+“Next contestants: The Thunderous Dragon Sect’s Long Chen against the Ethereal Phoenix’ Sect Fa Xiaolan!” The ancient voice announced, its tone slow and firm. The two leaders went quiet, and looked at the arena with little interest.
+
+From the right side, a shirtless man with a dragon tattoo covering his entire body walked toward the center. Lighting crackled as his muscles flexed, and the Qi he let out made the air turn dense.
+
+Long Chen’s dangerous aura permeated the air, his presence alone putting huge pressure on the specially crafted tiles of the arena.
+
+The spectators on both sides cheered and growled.
+
+“Senior Brother Chen’s cultivation has already reached True Golden Core, only one step away from Nascent Soul.” A man wearing blue fighting gloves said, his eyes sparkling with adoration. “He’s the strongest in our sect right now, and is the direct disciple of the Patriarch. Senior Brother Chen is our key to earning the top spots for the secret realm!”
+
+“Yeah, there’s no way Senior Brother Long Chen would lose to a nobody!” Another one added, and the women from the opposite side glared at him with an intense amount of hatred.
+
+Though in the end they could only sigh and agree.
+
+After all, the person unlucky enough to fight him was none other than Fa Xiaolan. A woman past her prime who only had a tip of red in her black hair. Compared to the rest of them, who at least had half of their hair the color of fire, she was a nobody.
+
+A nobody who couldn’t even cultivate their sect’s techniques properly.
+
+“It’s gonna be a quick fight.” One of them commented with an arrogant snort. “I should have been the one to fight that Long Chen. Now I won’t be able to show off in front of the Matriarch.”
+
+Her hair was more than seventy percent red, and other colors like orange and yellow began showing up some of her strands. She was clearly someone who had a good amount of mastery over their cultivation technique.
+
+“It’s a shame, Senior Sister Xifeng. This Fa Xiaolan, who does she think she is? To think she joined our sect in her mid thirties… what does our Matriach even see in her?” Another one added, however her arrogant attitude had been shut down by a single glance from the senior sister.
+
+“You dare question our Matriach’s decision?” She growled, and the other woman cowered and lowered her head.
+
+“I don’t dare to.”
+
+“Good, keep your mouth shut from now on.”
+
+Just as she said that, the woman they talked about— Fa Xiaolan— slowly walked up the arena stairs. Her black hair had tiny tips of red, and she wore a similar robe to the rest of her sect sisters.
+
+She was meekish, the arrogance of the others missing from her posture, but her gaze contained an unfathomable perseverence.
+
+Fa Xiaolan stopped a few feet before Long Chen, her robe and hair unshaked, and bowed. “Disciple Fa Xiaolan greet Disciple Long Chen. This one is looking forward to exchange pointers.”
+
+Long Chen’s eyes gleamed as he looked at her— a woman who had no business being a cultivator at her age. To give her credit, she had reached the Middle Golden Core stage despite her late start, but it was clear that she barely had any affinity with the cultivation technique of the sect whose robes she wore.
+
+He smiled, then bowed.
+
+“I am also also looking forward to it. Please, treat me well.”
+
+With that, both of them straightened their back, and let out their auras.
+
+Long Chen’s already frightening presence grew even larger, with the phantom of a crackling blue dragon appearing behind him. The tiles cracked and the air turned heavy as he let out his True Golden Core cultivation.
+
+In contrast, Fa Xiaolan’s aura only increased by a tiny bit, the Middle Golden Core cultivation others would sell their blood relatives for becoming nothing more than a party trick in front of Long Chen.
+
+However, she didn’t shake.
+
+Blood dripped down her mouth, spilling onto the clean tiles.
+
+Nobody expected anything else. Long Chen could throw her out of the arena with a slap of his wrist. She knew that as well.
+
+However, even as the pressure of a True Golden Core cultivator fell upon her, she didn’t budge. Her gaze was filled with the determination to win, and the black pupils of the average human began turning to a scarlet red.
+
+Seeing that, Long Chen’s aura grew even stronger as he unleashed his cultivation technique, and the dragon behind him grew even more real.
+
+Fa Xiaolan’s eyes turned completely red, and blood seeped out of them as she resisted the pressure. Then, against all odds, she took a step forward.
+
+That step was filled with her determination, and the tiles cracked as she walked, a sea of fire growing beneath her.
+
+“What?!”
+
+“She— but how?!”
+
+“Senior Brother Long Chen’s aura can paralze even Upper Stage Golden Core experts, so how did she—”
+
+“Heaven, is that the Crimson Flame Sea? How did she—”
+
+Such questions kept being thrown out as Fa Xiaolan advanced, her aura growing with every step she took.
+
+The red at the end of her tips spread inward, turning her once ebony black hair into a beautiful red color that seemed to animate with fire.
+
+Her aura increased as well, a glowing, yet surreal Phoenix appearing behind. It wasn’t anywhere near as domineering as Long Chen’s dragon, but the gasps of shock from the Majestic Phoenix Sect’s side said enough about what it meant.
+
+“A Phantom Beast?!?”“How in the world, that Fa Xiaolan—”
+
+“I’m going to faint, this isn’t real.”
+
+“The heavens are blind, blind!”
+
+Upon seeing that, Long Chen’s fighting spirit erupted and he let out a roar that echoed like a storm. “Good, good! Here, take my strike!” Saying that, his palm turned into a claw as he struck at Fa Xiaolan.
+
+She didn’t dodge or move out of the way— she couldn’t, as the pressure was too great. Instead, she raised her palm and deflected the claw. Her own hand turned into a combination of feathers and talons as she did that, but it only lasted for the millisecond they touched, then it disappeared.
+
+Long Chen growled and struck again, excitement obvious on his face.
+
+Fa Xiaolan defended again, and again, but each time her fire grew dimmer, her aura sniffing out little by little.
+
+“Interesting, very interesting!” Long Chen said while laughing heartily, and he took a step back. “Fa Xiaolan, if you can take mine, Long Chen’s strike, this victory, I will give it to you!”
+
+Upon hearing that, the spectators— both from the Majestic Phoenix Sect’s and Thunderous Dragon Sect’s side— bellowed out, crying in shock. Neither side could keep to themselves as whispers and screams spread out.
+
+“Did Senior Brother Chen really say that? Who is that woman?!”
+
+“There’s no way Fa Xiaolan is that strong, no way! I refuse to believe it.”
+
+“That old hag, who does she think she is?!”
+
+“She’s someone who achieved a minor enlightenment in our sect’s technique, that’s who she is!”
+
+“Shut up, she has no talent, how could she be better than Senior Sister Xifeng in the technique?”
+
+“You shut up! Can’t you see the Phantom Phoenix behind her? Are you calling me blind?”
+
+“Yeah shut it Chifeng. When did Senior Sister Xifeng materialise a Phoenix, and in battle none the less? Never! Talent this, talent that, look at the evidence in front of you!”
+
+“You—”
+
+However, as they spoke, the arena shook again as the dragon behind Long Chen turned more physical, and it roared as thunder danced around its body. The Phoenix behind Fa Xiaolan lost some of its corporesence, but didn’t fade away. She looked at Long Chen with an unshakeable gaze, and she spoke despite the blood dropping out of her mouth.
+
+“I don’t need pity. Surrender? Where is the pride in that, where is the honor? Fight, or die, there is no surrender!” Her voice boomed loud enough to overpower the spectators. That in turn also made them go quiet.
+
+At the same time, the Phoenix behind her screeched as it burned to life, its phantom-like form becoming real. It wasn’t near Long Chen’s level of real, but the two Phantom Beasts glared at each other, then took to the sky at the same time.
+
+Their owners also took action, with Long Chen’s claw-like fist rushing toward her mid section. Fa Xiaolan wasn’t any shier, and her hand— now burning with fire— acted to counter attack.
+
+However, she wasn’t a match for his strength, and the direct clash sent her flying toward the edge of the arena. She managed to stop herself by clawing at the tiles, leaving a bloody trail behind.
+
+Water sizzled and fire extinguished above as the Thunderous Dragon and Phoenix clashed— and similarly to the scene on the ground— the Phoenix was getting overpowered.
+
+Yet, each time it looked like it was about to be defeated, it rose with newfound strength, once again matching the dragon.
+
+“Fa Xiaolan,” Long Chen said while walking toward the woman, his steps slow an calculated. “You’ve got  a good look in your eyes. Even amongst these women, besides the Matriach, it’s clear you’re the one that deserves to be called a Phoenix. I don’t want to hurt you any further.” He paused and looked at the sky, noticing that his dragon had coiled around the Phoenix.
+
+“Surrender, and I will spare your Phantom Beast. It would be a shame to have to nurture it to this point again.” Then, his aura increased once again, the full extent of his cultivation base collapsing upon Fa Xiaolan. “I like you; I like your spirit. Give up, surrender, and I will make you my wife. I will give you the best materials and resources, and nurture you into an immortal. What do you say?”
+
+There was a moment of silence, then, a snicker could be heard.
+
+Fa Xiaolan struggled to her feet, the hand she used to slow herself down now lacking fingertips. Blood covered her arms, feet and clothes, she looked like someone on the verge of death.
+
+Yet, when she raised her gaze to look at Long Chen, there was nothing except an unyielding perseverance.
+
+“Me? Marry you?” She coughed, this time spitting out a larger than normal amount of blood. Her gaze remained firm.
+
+“Long Chen…” Fa Xiaolan said slowly, her pressure increasing as an ethereal flame burned in her eyes. “You’re still wet behind the ears!”
+
+She screamed, her voice so booming it defend the weaker spectators for a moment, and her Phoenix joined in. It caught ablaze, the ethereal form it once had burning into a corporeal form that made the Thunderous Dragon roar in pain.
+
+However, it didn’t let go. His master, Long Chen, did not allow him.
+
+Yet, the man himself was also shocked, as two thick, large fire whips wrapped around his mid section and chest faster than he could blink. Fa Xiaolan held them tight, and they gripped him even tighter, rendering his attempt to struggle futile.
+
+The once dead sea of fire on the ground came to life, all the flames that once filled the area concentrating at Long Chen’s feet. His clothes and normal jewelery disintegrated into ash in less than an instant, and the mental shock he sustained left him vulnerable.
+
+Grrroar!
+
+The dragon high above groaned and let go of the Phoenix, retreating behind his master, trying with futility to undo the whips.
+
+“I think the winner has been decided.” Fairy Xiulang said, a proud smile hiding behind her fan.
+
+Old Yang shook his head, looking at his direct disciple with pity. “If he hadn’t held back, would the result have been so?”
+
+“That’s his weakness. He took pity on the ‘weak’ Fa Xiaolan and didn’t go all out from the start. He didn’t respect his opponent, and so he failed.”
+
+“He can’t be blamed entirely for this matter. I am curious, how did your disciple grow in strength so suddenly?”
+
+Hearing that question, Fairy Xiulang’s mood darkened. “Such matters are not to be spoke with to outsiders.”
+
+“Am I really an outsider? Fairy Xiulang, we’ve known each other for a thousand years, your secrets are my secrets, and likewise.”
+
+“Hmph, old Yang, your tongue is sharp and words are sweet, but would you tell me how your disciple managed to manifest such a corpoeal Phantom Beast?”
+
+“That—” He wanted to argue, but the Phoenix’ scream from the arena below caught him off guard.
+
+Fa Xiolan was pulling on the whips, her muscles tightening as she increased the amount of Qi poured into them. The Phoenix, on the other hand, dove from the sky toward Long Chen, but the dragon rushed out to intercept it.
+
+However, Long Chen was helpless to do anything, with both arms restrained and Phantom Beast forced to defend, he could only endure the melting of his skin.
+
+“This is a bit of a dirty trick, isn’t it?” He groaned, trying to free himself, but the whips tightened further, his blood boiling. However, he didn’t look panicked.
+
+Fa Xiaolan remained silent.
+
+A smirk creased Long Chen’s lips, his muscles tightening and thunder crackling along his skin. A horn appeared on his forehead, similarly crackling with lighting. Once that happened, all it took was a few thugs and the fire whips snapped.
+
+Fa Xiaolan stepped backward, sweat drenching her forehead.
+
+“You should have given up.” Long Chen said, his right hand— now turned into a claw— channelling powerful lighting attack.
+
+Fa Xiaolan heaved a sigh and weaved a series of hand signs. The Phoenix returned to her, disappearing into her body. In almost that same instant, a pair of fiery wings appeared on her back, and she didn’t hesitate to lunge at the Long Chen, who was watching the scene with increluity.
+
+It took a long time to describe, but the entire transformation and the attack happened than in less time than it takes a spark to fly off a piece of flint.
+
+By the time Long Chen reacted, Fa Xiaolan was already upon him, fiery claw driving through his abdomen, barely missing his dantian.
+
+“I, Fa Xiaolan, will never give up!” She declared even as blood poured out through her cracking skin, and her wings disappeared into faint traces of ember.

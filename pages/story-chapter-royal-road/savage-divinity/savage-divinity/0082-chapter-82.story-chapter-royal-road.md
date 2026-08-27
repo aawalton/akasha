@@ -1,0 +1,143 @@
+---
+id: f0869c72-8eb1-5a5c-bae6-ab59c8f86daa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82"
+slug: 0082-chapter-82
+partOf: savage-divinity
+position: 82
+ownLength: 3871
+unit: words
+publishedAt: 2016-06-17
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/76697/chapter-82"
+royalRoadId: "76697"
+---
+
+“No.” Arms crossed, Adujan shakes her head as we walk towards the stream, Shana adorably tilting her head for Adujan to scratch. Zabu simply follows behind, making me feel a little lonely. Why can't he just love me?
+
+A little flustered, I ask, "What? Why not?” I didn't think she'd refuse, she's been so agreeable lately, the thought never even crossed my mind.
+
+“I'm not comfortable doing that. Why can't you just wait?” She pouts at me, trying to look stern, but failing spectacularly, looking adorably irate.
+
+“Come on, I'm not asking for a lot here, just the tip. I have no one else to ask, please just do this for me? I'm sure you'll enjoy it, and even if you don't, it'll be over in a second.”
+
+That ends the adorable look, her face going dark. “What kind of person do you think I am, to believe that I would enjoy doing that for you?”
+
+Shrugging helplessly, I give her my best pleading eyes, trying to entice her. “An amazing, helpful, kind, charitable person?”
+
+“Rain.” Her eyes lock with mine, staring at me with confidence. “I am not going to cut off your finger, just so you can test your ideas about healing. It is insane.”
+
+These people and their lack of scientific curiosity. “What's so insane about it? I just want to know if I can reattach my finger. How else am I supposed to find out?” Reasoning with her, I ask, “Look, the worst thing that happens is the tip of my finger can't be reattached and I have to regrow it. It would be good practice for healing my arm.”
+
+“I said no, Rain. Stop asking.”
+
+Giving up on her, I throw my hand into the air in frustration. My stump raises as well, making me feel more than a little foolish. “Fine, if you won't help me, I'll just throw my sword in the air and hold my finger out, and hope it cuts cleanly. Are you happy? This is what you've reduced me to.” Actually, if I can pull it off, it would be pretty awesome. I can Guide and Hone, it'll just take a little practice, good timing, and just a tiny bit of luck.
+
+“Don't be an idiot or I'll beat your crippled ass into the dirt and take your sword away. Either wait until tonight to ask Tokta, or just go ask him now.”
+
+“You don't understand.” Making a face at the thought, I shudder dramatically for her to see. “He hates questions, and he hates being disturbed, and you're telling me to disturb him with a question? For a man whose profession is to heal injuries, he does not shy away from causing them. He probably thinks of it as job security. Even if that weren't the case, what if he decides to answer my questions? The man makes everything sound boring.” Memories of my crash course on Sentinel regulations and etiquette flow through my mind, listening to his nasal voice drone on about everything that was written on the paper in front of me, a slow torture that could have been avoided with a few minutes of reading. There is no way I'm going to visit him before I at least skim through the book on anatomy, because he is bound to ask me questions and lecture me if my progress is found lacking. He is a firm believer in pain as a motivator, not shying away from smacking fingers and heads.
+
+“Well, I'm not going to cut off your finger, and you shouldn't do it either, that's asinine.”
+
+“Bah. I don't see what the big deal is, it's just a centimeter off my pinky finger, above the first joint. I won't even notice it missing.”
+
+Fixing me with a smug look, Adujan motions back towards the camp. “You're right. It's nothing much, and I'm being unreasonable. You should ask Alsantset to help you, I'm sure she'll be much more accommodating. In fact, let us go find her right now.”
+
+A knot forms in my throat and I force my panic down. “Ah, no, no, that won't be necessary. I wouldn't want to bother her, she's so busy with... leading, and... other things.” Quickly herding her along, I continue our trek down to the stream, away from prying ears and eyes. Alsantset would do worse than Tokta: she'd guilt me, it's almost an art form with her.
+
+“You should not allow her to speak to us like that, brother. It would do her good to learn who is in control.” Other me chimes in, atrociously misogynistic and prideful.
+
+Pulling out a piece of fruit from my pocket, I munch away as we walk, using it to avoid accidentally speaking out loud, fending off Zabu's grasping paws as I mentally chat with my unwanted passenger. Stupid animal, only ever friendly when I have food. “Quiet you. She's my friend, and I don't need to 'control' her, she's fine as is. And what did I say about talking to me? Don't do it unless we're alone or you have something important to say.” I feed Zabu the remainder of my snack, smiling as he brings it over to Shana.
+
+Sensing other me withdraw, I can't help but picture him sulking in his comfy chair, roughly petting his hare. We did some testing after some practice, I managed to keep the backdrop around after mentally leaving. He can't make any changes and the hare doesn't move, but it beats hanging around in nothing, and the place is pretty comfy. It's just one room and the courtyard, but I'm waiting to see if there is any issues with what I'm doing now, like fatigue or headaches, before I try to improve it. It's not like I can go up to Akanai and tell her about the voice in my head that hears voices in his head. At best, she'll just look at me funny, and I'd rather not think about what the worst case scenario is. All I'm saying is, I haven't met any senile old people, and with how fatalistic and proud everyone is, I can't imagine them all being in a nice padded house with people to care for them.
+
+Reaching the stream, I begin stretching, getting ready for my performance of the forms while Adujan gets comfortable, leaning against a curled up Shana, the two of them looking sweet and adorable together. Zabu runs upstream, looking to hunt something without diving into the water, unwilling to go for a swim without his pack.
+
+Another beautiful morning view greets me as I look out over the forest, the sun only just rising, still hidden behind the trees, the morning dew still wet on the grass, dripping down from the leaves around me. A nice, private area where I can practice unseen and alone, except for Adujan. Although I don't need as much help anymore, she still insists on following me around, likely because she doesn't really have anything else to do. I mean, Sumila is working as an aide, Huu is on sentry duty, and I don't actually think she has any other friends. I'm not sure if it was Alsantset or Akanai who demoted her to babysitting duties, but she's been surprisingly tolerant about helping me, minus a few sarcastic complaints and depreciating jokes.
+
+I already spoke to Alsantset about buying Shana for Adujan, and she was surprisingly enthusiastic about something so mundane. I also asked her to buy Zabu, the irksome furball less expensive than expected, only 200 gold, about the price of four nights at the Golden Swan. I think I should stop going there, as fun as it is, it is way too expensive. I blame Fung for getting me hooked, rich young masters are dangerous in more ways than one. I mean, if I really wanted to work hard, I'm sure that gold wouldn't be too much of an issue, but I can't be spending all my time making money. I have better things to do, like regrow an arm, which apparently, I can't afford. 500 gold and it's still not enough to pay Taduk's fees, I really owe him a lot for everything he's done for me.
+
+Putting aside my thoughts, I take a deep breath and make contact with Other me. “Okay, you're up now, remember what we talked about. Don't go overboard, repetition is key. Just move through the Forms a few times, let me feel what it's like.”
+
+“Yes, yes, as you said, brother. I remember.” His zeal is bubbling up, affecting me as I try to calm down, focusing my mind on allowing him to come forth. My eyes closed, standing stock still, it takes several minutes before I am able to pass control over to him. It was easier with the imminent threat of death, or maybe it's some subconscious reluctance on my part, since the last time didn't go so well.
+
+For a split second, I feel as though I am falling, jerking forward to keep my balance, but my body does not move, my muscles no longer in my control. Damn, this is weird. It's like I'm floating and falling at the same time, weightless and uncomfortable.
+
+Other me ignores my rambling and moves gingerly, experimentally moving about the small clearing as I acclimate to my new surroundings. I can feel the breeze on my skin and the dirt beneath my boots, hear the rushing water and leaves blowing in the wind, smell the crisp fresh forest air, but I have no control of my body, an ethereal feeling, almost out of body. Watching through my eyes, I see him turn towards Adujan, giving an appreciative smile at her, almost leering as she sits idly, leaning back on Shana, probably preparing to meditate. His gaze lingers and she notices, making eye contact with a tilt of her head, inquiring as to my stare. “Stop gawking and get to work. I let you out for two seconds and you're already slacking.”
+
+Sensing his grumbling and feeling my face screw up as he turns, he begins to move through the Forms and I immerse myself in their study. Today, we are just moving through whatever he feels like, although I would prefer that he stuck to a few movements I'm already studying, he made a good case that I might be more suited to other combinations, so we are just playing it by ear.
+
+The movements are sublime and I can hardly believe that it is my body doing them. Until the very moment that he began to move, I remained dubious about his prowess, thinking it was just imagined and that his real movements would not be as refined, but if anything, it feels like he's moving even better than in our mind, more natural and graceful, without hesitation or uncertainty. Every step is purposeful, every strike unyielding, it is little wonder that he thought me weak. Jealousy wells up in me, railing at the unfairness of it all. Why is he so much better at this than I am? We're the same fucking person!
+
+My body stops and I feel my lips curl up into a smile. After a pause, I hear a faint voice whispering to me. “Brother, I can hear your words. Are you unable to keep quiet?” The smirk on my face makes me want to retake control and slap myself.
+
+“Ah sorry. I'm new at this, gimme a second.” This disembodied, free-form thinking is no good, maybe I should make myself an 'inner' body. The world materializes around me and I am sitting on my black, fake leather couch, my feet up on a stool, watching a big screen that is showing what I see through my eyes. I deserve my own place in my brain, fuck having a roommate. This is my bat cave, my happy place, my sanctum sanctorum, no alter egos allowed. After some testing, I get used to keeping my thoughts silent and he goes back to practicing while I watch.
+
+One downside of all this is I seem to have lost all tactile sensations, having removed myself to a corner of my mind. I can see and hear everything, but that is less than useful as all I see is scenery, rather than experiencing what he is doing. Either way, I sit back and relax, letting him move about, knowing that he feels jubilant at the newfound freedom. Dude needs to work off some aggression, or that poor hare is going to go bald.
+
+It's super weird interacting with him, knowing how he feels without looking, always being aware that someone else could be watching what I do. I know that he's me, but we're so different that if he were in another person's body, I probably wouldn't like him very much. Unfortunately, we're stuck together, which makes him a bit more endearing to me, oddly enough. If I can't get rid of him, I might as well try to get used to him, and even gain some benefits at the same time.
+
+I continue watching for about ten more minutes until the feeling of nausea creeps up on me, almost unnoticed until my stomach begins rumbling. Standing, my queasiness increases and my head begins to throb with a dull ache, feeling dizzy and intensely uncomfortable. Swallowing hard, I try to clear my head, but the persistent, nauseous feeling clings to me despite everything I try. Other me has stopped, standing stock still, his eyes closed judging by the dark screen. “Brother, I feel ill.”
+
+“Take slow, deep breaths.” A nagging notion jumps into my brain as I realize what has happened: I'm motion sick from watching him jump around. That's fucked up. “Open your eyes, and stare far away.” Think that perhaps it's because of the separation, with a thought I leave my sanctum, rejoining him in our fleshly body, the nausea immediately getting worse.
+
+“I don't understand, why is this happening?” I think he is just a little more miserable than I am, and with a thought, I send him back to his courtyard manor. “Ah, much better. What happened?” Lucky bastard.
+
+Continuing to stare out at the horizon as my stomach does backflips, I do my best to explain. “Err... well, we're motion sick. Our brain was receiving conflicting information, and our brain automatically thinks we've been poisoned or something. I think, I'm not sure.”
+
+“That was horrible, please find some way to fix it. I'm exhausted brother, I need to rest.” His presence fades away as I continue to stand there, trying not to throw up. After a few more minutes of struggling, I succumb and throw up all over the grass, my half-digested breakfast spewing from my mouth in spectacular fashion.
+
+“What the hell?” Adujan's indignant shout adds to my humiliation as she rushes towards me. “Are you alright?” Leading me away from the mess I've made, she brings me back to Shana, letting me rest against her curled up form as she pours water for me into a cup. Drinking slowly, I chuckle at myself, the indignity of it all just too much. I just got motion sick from watching myself through my own eyes, as if I were playing a game. C'mon son.
+
+After my countless reassurances that I'm alright, blaming it on some bad meat, she relents and sits side by side with me, our legs and shoulders touching. The People are big on contact, but I prefer to have some personal space. It's not so bad with Yan though. Adujan. “When did you learn all of that? Did you have an Insight?” She looks both happy and annoyed as she shoves me lightly with her shoulder.
+
+Just play dumb. All I do is shrug, sitting there with my one arm on my knees. “I'm not sure. I just moved and that happened.” Damn I need a breath mint. Better change the subject. “Shouldn't you be meditating? Isn't that your new obsession?”
+
+Making a face, she slumps her shoulders and lets out a sigh. “Mila made me promise her that I wouldn't meditate today, she thinks I need a break.”
+
+“So, you decided to spend your break watching me practice?”
+
+“Someone has to make sure your crippled ass doesn't fall into the water. Besides,” she leans back, looking me up and down like a prize piece of meat, “I can't complain too much about the view. A shame you aren't taller, and you could use some more weight on your bones.” Pointedly looking at my shoulder stump, she adds, “And more bones for meat to go on.” Reaching out, she pinches my reddened cheek, smirking all the while, payback for my alter-ego's previous leer.
+
+After a few minutes of ignoring her barbs and taunts, I feel well enough to return to practicing, although I am unable to recreate the magic that other me was able to do, my body feeling rigid and clumsy, my head still dizzy from my brief bout of motion sickness.
+
+A whistle sounds out, the camp greeting and I return the countersign as a Sentinel emerges from the trees on the other side of the stream, one of the sentries, I assume. Following him is a stooped figure, along with a good 20-odd soldier types, looking ferocious and unhappy, as well as small group of people, dressed in the distinct robes of the Disciplinary Corps. “You there, this is Lieutenant General Du Min Gyu and his escorts, as well as a Justicar and his court staff. Guide them to the Senior Captain.”
+
+A quick salute, and the Sentinel turns around and whistles, his quin emerging from the trees to take him back to his post. Quickly standing, I run down to the side of the stream and give a one handed salute, Adujan following suit, wondering all the while why someone so high ranked was here with a Justicar. I hope Akanai didn't piss anyone off lately. “There is a narrow path through the river, about half a kilometer down, I can lead you there.”
+
+“No need.” The stooped figure, presumably Du Min Gyu, is an elderly man with a long, gray beard, unkempt and wild, wearing plain, dark-green robes, his wrinkled face half-hidden beneath his conical, straw hat. With an uneven gait, signs of a pained hip, he ambles down to the streams edge. Flicking his sleeves, he takes a single step at the streams edge, his body seeming to float as the single step moves him slowly across the 8 meters of the stream. From the moment he lifted his foot to placing it down on the other side of the stream, it seemed as if he were simply taking a normal step, nothing out of place at all, the world shifting beneath him so that he can reach the other side.
+
+Now that is an entrance.
+
+Disappointingly, his retinue are far more mundane in their crossing, a number of them leaping the distance, landing with a thud, but the majority of them simply jump into the stream and wade across, despite my warnings of carnivorous fish. The Justicar's enforcers go a step further, jumping into the stream and allowing the Justicar to stride across their shoulders like stepping stones, not allowing a single drop of water to reach the hem of his robes, his masked face looking rigid and imposing.
+
+Leading the way up the hill, we advance slowly in silence, Du Min Gyu moving with difficulty once again, huffing as he slowly makes his way up the somewhat steep incline. Whistling to get Zabu's attention, I wave some fruit at him and he barrels over towards me, eager for the treat. Signaling him to crouch, I turn to the old man and motion for him to sit, a kind smile on my face. “Might I offer my mount to carry you up the hill? I'm sure your journey here was not easy.” This deep into the forest, they would have had to abandon their horses several days ago.
+
+Ignoring my gesture with a proud harrumph, he continues his way up the hill as his retinue collectively try to murder me with their gazes. Even Adujan glares at me, leaning in to whisper, “Why would you insult a Lieutenant General, you idiot?”
+
+“I wasn't insulting him!” My hushed reply is tinged with mild panic. “How was that an insult? He looks tired, I offered him some help. The man just floated across a river, why would I want to insult someone that can do that? I want to know how he does that!"
+
+Shaking her head at me, she walks off, continuing to lead the way. I need to make things right. Hurrying over to walk beside the Lieutenant General, I give him my most winning smile and a small bow. Fuck, that shows weakness, I shouldn't have done that. “I hope that I have not caused offense, I meant no insult. I'm just an ill-mannered bumpkin, unwise in the ways of the world. Please accept my sincere apologies.” I cannot have more people angry at me, there are way too many people I have to avoid already.
+
+Stopping in his tracks, he studies me closely with a surprisingly clear and sharp gaze, his countenance unreadable. His face is remarkably intimidating, despite the multitude of wrinkles and rough skin hanging from his chiseled jaw line. “How old are you, boy?”
+
+Shit. It takes longer than I like to answer him as I count out the years I've been here. “Umm.... 17. Yea 17.” Well that was convincing.
+
+Staring at me for a few seconds longer, just enough to make me start to squirm, he finally breaks the tension. “I will accept your offer to ride this... creature.” He doesn't look too thrilled, but in his defense, Zabu isn't the most... visually appealing roosequin around.
+
+“Master...” One of his soldiers begins to speak, but stops short at a thick, raised eyebrow from Du Min Gyu, white and bushy, as if well combed and oiled. What's with these old people and their super long eyebrows? Why would he comb his eyebrows, but not his beard?
+
+“There is no harm, the boy has offered and I give face in accepting.” His weathered face breaks into a smile. “Besides, I'm tired of walking.”
+
+I like this guy. He can laugh at himself, doesn't take everything so seriously.
+
+We make quick time up to the camp, the old man sitting side saddle on Zabu's back, and I lead them directly to Alsantset, where I let Adujan make the introductions, not sure of protocol and worried about accidentally insulting someone once again. Alsantset looks the old man up and down for only a moment before curtly asking, “And what, pray tell, is an esteemed Lieutenant General out here for? It isn't to take command, or else you would have more soldiers. This is a personal visit?”
+
+“Indeed.” He strokes his beard with his twisted, aged fingers. “I am here to collect my disciple, Brigadier Cho Jin Kai.”
+
+Ah...
+
+… Fuck.
+
+Poor old guy, he came all this way and his disciple is dead.
+
+I hope he doesn't blame us for that.

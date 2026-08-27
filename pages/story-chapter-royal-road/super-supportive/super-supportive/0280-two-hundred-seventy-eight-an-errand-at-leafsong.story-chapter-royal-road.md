@@ -1,0 +1,131 @@
+---
+id: c5dad893-d8aa-5497-b252-dd5450aac220
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SEVENTY-EIGHT:  An Errand at Leafsong"
+slug: 0280-two-hundred-seventy-eight-an-errand-at-leafsong
+partOf: super-supportive
+position: 280
+ownLength: 1370
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3194677/two-hundred-seventy-eight-an-errand-at-leafsong"
+royalRoadId: "3194677"
+---
+
+278
+
+******
+
+That afternoon, Alden was distracted with his new tablet and his book, but it was still hard for Stu to leave him behind at the cottage and head to the summonarium. This friendship they had woven was revealing new colors and greater strength with every passing moment. And despite Stu’s heartache over his parents, it had been a most beautiful day.
+
+Going to LeafSong to ask one of his housemates for a favor seemed almost disrespectful to what he and Alden were doing right now. But Eeaner-ket wasn’t easy to predict. He might decide to make a potion today. Or he might decide to drop the rings Stu wanted from him into a potion to see what happened.
+
+So Stu rushed to the summonarium and teleported to his university, promising himself, as he called a cart to take him across campus, that this trip would be swift no matter what ridiculous things his housemates were up to on a weekend.
+
+I’ll be back at the cottage before Alden has time to miss me. I won’t even save a single klerm.
+
+He heard a desperate skeek and looked before he could stop himself. To his right, one of the animals was being sucked down into a plant. Freshly caught, it hadn’t yet learned the pain of being digested.
+
+I’m not going to save it, he told himself. I am very busy.
+
+Skeeeeek!
+
+He ordered the cart to reverse.
+
+“I’m only saving one of you today,” he said firmly, leaning over as far as he could and grabbing the creature. “And I’m not taking you all the way to the summoning pool.”
+
+He held it in a pocket until he reached the canopy residences, and then released it into one of the fountaining puddles that lined the path beneath the house he shared with Eeaner and Bayab. The cart moved along to serve another passenger, and Stu stepped onto a disc of wood marked with the symbol that designated a lift. It carried him up, and he hopped off when it reached the walkway that connected to his house’s balcony.
+
+He was thinking that he might find the house empty since there was no sign of anyone outside and no decorations or sounds that would indicate they’d invited people over, but when he walked in, Eeaner was sprawled on his back on the floor. He was dressed in a festive orange tunic that bared his neck, but he was groaning at the ceiling like he needed a healer.
+
+Bayab was almost completely enveloped by the massage seat. He was watching Eeaner with one eye, which probably meant that Eeaner wasn’t hurt. Though Bayab wasn’t always bright. If he’d taken the wrong potion, he might just sit there enjoying a massage while their housemate suffered.
+
+“Are you healthy?” Stu asked.
+
+“Stuuuu,” moaned Eeaner. “It’s awful.”
+
+“What part of you is awful?”
+
+“Every wonderful part of me is suffering in this awful universe. The new ambassador to Earth is evil.” He raised his arms and let them drop onto the floor as if to add a drumbeat to his complaint.
+
+Stu frowned. “Why do you care about the ambassador to Earth? What’s happened?”
+
+Eeaner moaned again.
+
+He did this sometimes. Like he was trying to drive Stu crazy by refusing to answer simple questions in the most dramatic way possible. Today, Stu didn’t have time for it.
+
+“Can I have your ten-ring hand protection?” Stu asked. “That set you ordered after we had to explore the fourth bowel?”
+
+“I still have nightmares,” Bayab muttered.
+
+Eeaner sat up. “You want my rings?”
+
+“I do. I’ll trade you something of mine for them. They haven’t already become accustomed to you have they? I haven’t seen you wearing them.” The set in question took a while to acclimate to its owner. If Eeaner had worn them too much they might not adjust perfectly to someone new.
+
+“No, but I’m about to start wearing them.” Eeaner fell onto his back again. “I hate Worli Ro-den. I hate him with the sharpened hate of a hunter. I hate him until chaos takes us all. I—”
+
+“Oh,” said Stu, putting together the clues. “The new ambassador to Earth is forcing Ro-den to leave?”
+
+“I hate her too.”
+
+“She must not have wanted to deal with someone like him being so nearby, and apparently popular, when she has work to do,” Stu said. “That is wise of her.”
+
+“Don’t admire her. Now we have to deal with him. Sooner than we would have! He will have spent every moment of his time away thinking of things no instructor should ever ask their students to face. I need the rings. At least one student at LeafSong should get to keep their hands intact. I will wiggle my fingers at you one day to remind you of the ones you used to have.”
+
+“Can’t you get another set from your mother?”
+
+Eeaner opened his mouth, stopped for a moment, then said, “Yes. Especially if I tell her I gifted them to you. But why don’t you just ask your family to get you some?”
+
+“I already have them,” said Stu. He’d had a set for over a year and worn it too frequently for it to be good enough for Alden. “I don’t want to have a discussion with them about why I need more.”
+
+“You broke a set? What did you stick your hands in?”
+
+Stu didn’t answer him.
+
+“Have you done something wrong Stu-art’h?” Eeaner said, grinning up at him from the floor. “Tell me about it, and I’ll give you the rings.”
+
+Well, this wouldn’t work after all. “Never mind,” said Stu. “I’ll get Evul to buy more for me somehow.”
+
+He turned to go, only for Eeaner to fling himself across the floor like some kind of animal and latch onto his legs. “Eeaner-ket!”
+
+“Take the rings, and owe me a party!”
+
+“No!” Stu said before he’d actually heard the request. “Maybe…what kind of party?”
+
+“One worth a ten-set of armor rings.”
+
+“That’s a good party,” said Bayab.
+
+“You don’t have to throw it,” Eeaner said, still clutching Stu’s ankles. “You lack every single necessary skill. You only need to attend. With me.”
+
+“And me?” Bayab asked.
+
+“Me and Bayab.”
+
+“Not this week,” Stu said, after thinking it through.
+
+His feet were released. Eeaner was laughing. “The rings are in my room. Go get them if you want them. Bayab! We must find the right party or make it ourselves. We will transform the son of the Primary into one of us during the course of a single event.”
+
+The son of the Primary didn’t like the sound of that at all.
+
+But he did like how well organized Eeaner kept his jewelry. Finding the rings was easy, and he was leaving the house almost as soon as he’d hoped to. He dodged around Eeaner, who was whipping off his tunic and shouting, “A stripes-out party!” in Bayab’s face, then headed for their balcony.
+
+He still has some silver paint on his tattoo. The one on his stomach that Ro-den had given him.
+
+Before he reached the ground, Stu’s thoughts were already turning back to streamview cottage and what he and Alden should do this evening. He was ready to insist that they stop enjoying everything else and start enjoying a new focus on Alden’s skill and his next binding. It made sense, and Alden was usually sensible.
+
+Usually. Almost always except recently. About this.
+
+Stu stopped beside the puddle where he’d left the klerm. New knowledge was mingling with old, birthing an idea that immediately began nibbling for his attention.
+
+That’s a rather strange idea, he thought, as a ball of water leaped from one puddle to the next and the klerm screamed. It would explain Alden’s behavior…almost with perfection. But why would such a thing be so?
+
+It wouldn’t. It’s absurd.
+
+But if it was so…
+
+“I hate Worli Ro-den,” Stu said, trying the words out in Alden’s accent like that might help him taste a secret in them. “I hate Worli Ro-den.”
+
+It was a rather strange idea, but he kept considering it. He would carry it back with him to Rapport I.
+
+******

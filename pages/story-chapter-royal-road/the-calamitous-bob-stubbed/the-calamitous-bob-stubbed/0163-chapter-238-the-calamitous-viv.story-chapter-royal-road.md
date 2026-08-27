@@ -1,0 +1,677 @@
+---
+id: 79d462ee-d0b5-5e97-ab27-0c7054c60536
+page-type-slug: story-chapter-royal-road
+title: "Chapter 238: The Calamitous Viv"
+slug: 0163-chapter-238-the-calamitous-viv
+partOf: the-calamitous-bob-stubbed
+position: 163
+ownLength: 6666
+unit: words
+ownProgress: 6666
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2767888/chapter-238-the-calamitous-viv"
+royalRoadId: "2767888"
+markedReadAt: "2026-06-29T21:20:16.671Z"
+---
+
+Avarice crashed through the roof of Maranor’s temple. There was a time to respect her as a (nominally) light goddess and a time to disrespect brutalist architecture. Viv didn’t need a guide to feel the sickly emanations of mana coming from the complex’s sanctum. The only reason why she didn’t crash there on the spot was the fear of traps. A circle of Maranorian temple guards formed a half-circle in front of the elaborate entrance, their swords shining with divine mana.
+
+Viv strutted right up to the captain without slowing down.
+
+“This isn’t your fight. You’re outclassed. Help with the town’s evacuation.”
+
+She fully released [genocidal maniac], not sure that it would lead to anything. Holy warriors tended to — and they were running. Even Avarice was looking at Viv with wide eyes.
+
+Wait until I show you off to the other dragons.
+
+Proud parent moment. Nevertheless, it was time to end this. Viv opened the door with a judicious application of kinetic energy and her foot. Unfortunately it wasn’t enchanted and didn’t survive the process. Wood shards showered the altar and the high priest praying next to it. Viv and he looked at each other. He was the same one who’d tried to scold her after she freed Gil. It had been so long ago. Now he looked exhausted. Haunted.
+
+“You…”
+
+And in his eyes, she saw something that didn’t bode well: despair, tainted with hope. The same kind of hope a dying infantryman would express to a running medic.
+
+On the altar, Oleander stared up with empty eyes. His entire left hand had gone full aberrant. It was a disgusting amalgam of cancerous flesh and jutting bones. Whatever had filled him with the crimson light of his goddess was fully gone.
+
+“Holy shit.”
+
+Wasn’t he Maranor’s chosen? Then what did it mean for her?
+
+“Why didn’t you amputate? Any reason why you wouldn’t amputate?”
+
+Viv was not panicking yet. Surely she could solve the problem by purging the entire altar of anything molecular.
+
+“Well?”
+
+The High Priest shook, gasped, then the gaze that found Viv was darker.
+
+“It is… too late.”
+
+The voice was female, known to Viv, yet a far cry from the powerful entity that had summoned her in her throne room. The corruption was now spreading across Oleander’s chest at an alarming rate, hastened by Viv’s arrival.
+
+“He feels your coming. He is accelerating. I was wrong to think I could stop him. I was wrong to try and devour his might so I could rule.”
+
+“Hmm, Maranor? Should I purge it? Quickly.”
+
+“You won’t have the strength.”
+
+Viv glared.
+
+“Bet.”
+
+A torrent of void energy engulfed the supine form, drowning it in a bath of pure annihilation. Viv felt the aberrant flesh give way. She had grown so powerful that even the magic-resistant flesh was not immune to her power now, except there was a lot of it. A reaaaaaally huge mass of it. It was just… not actually there. Yet. It was… beyond.
+
+Shit that was a lot of meat to burn through. She blinked.
+
+“Ok I lose the bet. What the —”
+
+The walls of the sanctum disappeared to reveal the void of the in-between. The golden sun of Neriad and blue orb of Maradoc were there, as well as the purple, bladed soul of Efestar. The distant light of Sardanal pulsed in the far infinity. The presence of such massive souls gave Viv vertigo. And then she saw it: below Maranor’s red and black soul was a tether diving into the depths of the in-between — so far as the concept even made sense. It was rotten and defiled, yet stronger for it. A small portion of Maranor’s soul already carried the taint, though it was still limited.
+
+Warning: reality fabric thinning.
+
+Viv blinked again. She was here, yet here was starting to become an abstract concept. Nous’ message to her served as a dire warning.
+
+“What does that mean?” she asked, fear mounting.
+
+“It means we’re influencing the world too directly, and there are too many of us here right now,” Neriad said.
+
+“What happens if it thins too much?”
+
+“Total reality collapse. Anything and everyone around is reduced to dust.,” Efestar replied.
+
+Oh.
+
+“That might be quite bad.”
+
+“We might not have a choice,” Maradoc said.
+
+The immense blue sphere did something. In Larrean, City of the Gods, one of his alcoves lit with the alien flames of a portal, not the gentle one Viv opened with the world’s benediction to link places a planetary hair breadth away: it was a portal to…
+
+She spotted a blue orb through the fire. It was a bit more yellow than she remembered, but…
+
+“Earth?”
+
+“Sister,” Maradoc said.
+
+The high priest collapsed, the rest of his life force spent. On the altar, Oleander’s corpse was just a pulsating mass. Viv hesitated, then since no one was doing anything, she kept disintegrating it. And it helped. About as much as pissing on warehouse fire did.
+
+Maranor sighed. The image of the regal wielder of the slayer shivered, revealing a fit woman with wild hair and a short blade sheathed at her hip, her messy hair tied with bones and twine. She pulled the Slayer from its sheath with her left hand. On her face was an expression of grief, and also, resignation. Her right hand was already turning from the tanned limb of a warrior to the tumorous growth of an aberrant. She looked at it with patient disinterest.
+
+“It’s always been for mankind. That’s what I always believed,” she said.
+
+“I know,” Maradoc replied.
+
+The goddess turned to her brother.
+
+“You were right. Good luck.”
+
+With no hesitation, Maranor placed the Slayer under her armpit. In a single motion, she severed her arm.
+
+The scream of agony of a goddess willingly shattering her own soul would hound Viv for the rest of her life. It was a pain of existence itself, thousands of nails cracking themselves bloody on a chalkboard. Maradoc pushed his sister in the portal, cutting her scream in the middle before Viv could start peeling her eardrums out with void claws. She gasped.
+
+“Viviane, you need to hold the incarnation back.”
+
+No time to deal. The pulsating mass of flesh had turned into an egg-like form, but now it was moving again (mostly ignoring the disintegration effect), and forming what looked like a vaguely humanoid body. Its head formed a sort of rotten helm that first failed to maintain cohesion before reforming more slowly.
+
+“[Aspect of the Destroyer]. I’m doing my best over here? Hello?”
+
+“We have told everyone to leave. Those who fail to run will be absorbed by the incarnate’s growing form, their souls twisted for all of eternity.”
+
+“Fuck. AVARICE!”
+
+“She has already left. She is smart. Her kin are gathering.”
+
+The ceiling cracked above them. It collapsed, and the sky above was half blue, half dark from the thinning fabric. The egg grew in shape. As it became larger, the damage of Viv’s continuous blast grew more visible but also harder to maintain. The half-dead god was forcing its way through her barrage like a fist through high water pressure. Viv gritted her teeth.
+
+“What do you mean incarnate? Not an avatar?”
+
+“No. Khaton is here. In the flesh. Himself. This is how gods fight, kill, and die.”
+
+“And can’t you guys show up?”
+
+Maradoc remained calm while the himbo pair shook with agitation.
+
+“We will, but it will destroy the world around us, and drag the souls of those we kill into this battle where they will be consumed. You must hold it for as long as you can so we may limit the catastrophic damage.”
+
+The walls collapsed. Viv was pushed back. What had been a sacred, decorated room was now a ruin of dusty stones corroded by the void of the in-between. Khaton’s incarnation had grown to the size of a large chariot, and still struggled to form under Viv’s unceasing onslaught. She grabbed her communicator.
+
+“Solfis, talk to me!”
+
+//The evacuation is almost complete.
+
+//We are leaving those who refuse to depart to their fate.
+
+“Their fate’s going to come really fast. Tell all our people to pull out. Run away. Away from the city. As fast as they can!”
+
+//Your majesty, my energy readings are off the charts.
+
+//What is going on?
+
+“Khaton the Defiler took over Oleander’s corpse. He’s incarnating into reality.”
+
+There was a moment of silence while Viv drew a belated spell array around the amorphous mass in a desperate bid to increase her power. It didn’t help much. The god was still growing.
+
+//That is spectacularly bad news.
+
+“I know right? Any chance you could fire soon?”
+
+//Cooling and cycling required.
+
+//The lenses are overheated.
+
+//They would collapse.
+
+//However, dragons are gathering.
+
+//A great number of them.
+
+//I expect they’re going to help.
+
+Viv knew exactly one way dragons tended to help in this sort of situation. With one last curse, she flew through the half-collapsed ceiling and out of the collapsed zone. The skies became much lighter and also filled with dragons. There were dozens of the fat lizards forming a flying circus above her head.
+
+Mother!
+
+Mother, Mother has come.
+
+Viv’s mind froze because, although they were technically the same word even in the mind tongue of dragon, one was referring to a loving biped doing her best and who’d also recently grown proper wings, and the second was a Red Dragon the size of an airliner currently circling around the city. A massive shadow covered Viv’s back. Heat reached her like a summer wave, melting all the winter ice in a single moment.
+
+Viv slowly turned. Mother, third one-name she’d ever met and the oldest of the fire bloodline, led her kin. Flames were already erupting above the temple. The voice that rang in Viv’s mind was, by contrast, cold and calculated.
+
+Human Ascended, greetings.
+
+We have come to fix the mistakes of your kin.
+
+Again.
+
+You must fight it while we build a chorus.
+
+Viv nodded. She flew back into the maw of horror, feeling the fabric thin around her. Her willpower and soul sense allowed her to maintain cohesion but the in-between was now starting to pull on her existence, both mana and flesh, and it was taking some effort to resist both at the same time. The gods still stood there looking uselessly at the only one of them currently doing stuff: the dark one they’d failed to kill. Also the one destroying the fabric of existence. The sight felt like a metaphor of life.
+
+“Maradoc,” she said.
+
+“It is still too early.”
+
+“You know stuff, right? I could use advice on spells right now.”
+
+All of her spells had been designed to kill fast-moving avatars, not this.
+
+The God of Knowledge and Secrets turned to Viv abruptly.
+
+“Yes, of course. You need to allow me to grant you the insight, and be warned: it will cost a lot of mana.”
+
+“I have a lot of mana.”
+
+Something brushed against her soul. She allowed the intrusion, gaining a sudden insight like a good idea she’d have while relaxing in the bath. The complexity of the construct gave her vertigo. Also, it was tailored for a witch. She gave it a quick assessment.
+
+“Ok this will cost a lot of mana. Let’s do it.”
+
+Viv hadn’t been in combat for long enough to benefit from ‘A Light that Never Dims’ and she’d still not recovered from the fight against Oleander. It was going to be a close call. Casting as fast as she could, she breathed life into the hex. It was… monstrously massive. And complex. Only halfway through and with Khaton now the size of a car did she realize what was happening.
+
+“Hey that’s Solfis’ lance but close range and with void mana!” she complained.
+
+“The best ideas are built upon the shoulders of giants,” Maradoc replied with the august voice of a mighty god.
+
+“Fucking plagiarist.”
+
+She cast it anyway. Immediately, the dip in her mana made her suddenly insanely grateful that she was half-elemental with monstrous reserves. The air hissed. Pressure increased, even with little air left. Whatever she could see around her turned monochrome.
+
+“Annihilate.”
+
+The spell hit Khaton like a hammer. Its helmeted head, which was close to reforming, was obliterated in an instant. The concentrated power was more than Viv had ever wielded and even with all her skills, she was at the very limit of her abilities.
+
+“Holy shit that’s strong,” she gasped.
+
+“I simplified it for you,” Maradoc helpfully added.
+
+It was working. The mass barely expanded. A part of Viv wondered if she could do enough damage to the aberrant god to kill it before she remembered that it didn’t matter: aberrant flesh wasn’t truly alive to begin with. There were no organs to destroy.
+
+A pulse of power emerged from Khaton. Viv’s danger sense screamed so she had the Shield of Thirteen in front of her before it was done. Golden radiance blocked the strange thing. It wasn’t a spell. It was…
+
+“A scream?”
+
+The gods looked concerned. Neriad drew closer.
+
+“Maybe we should…”
+
+“Almost there. The edge of the population is still running away.”
+
+Around and behind Viv, the temple collapsed into twisted ruins. Screams tore through the howl of the spells. Viv spotted strands of aberrant flesh emerge from distant buildings, joining the profane mass: idiots who had refused the call to leave and whose body and soul now fed the defiler. She grit her teeth and kept going.
+
+“Almost there, almost there.”
+
+Viv’s mana kept dropping, and she got the distinct impression that she might not have enough. Khaton’s head reformed despite her best efforts. Its helmet was a cruel and misshapen thing, crude of construction even before considering the bones and twisted flesh that made it. Eyes formed, those of a corpse: rotten and unseeing. His thoughts crashed against hers. They were incoherent, barely more than a torrent of envy, hatred, hunger, despair, and terror. The heady mix of negative emotions forced another gasp. He was pulling at her, drinking the fragment of her mana he managed to steal from her. He was both a starving toddler and a murderous psychopath and the mix disgusted her at a fundamental level. Never since the flesh garden had she been so revolted by a gaze. She resisted it anyway. Her mana reserves dipped below the halfway point despite her massive regeneration and [A Light that Never Dims] picking up. One third.
+
+“Solfis can you let Arthur know any time now would be good?”
+
+YOU.
+
+Khaton was talking to her. Her focus wavered.
+
+//I will let Avarice know.
+
+I EAT YOU.
+
+“Shit.”
+
+But it happened. Fire pierced through the veil of the in between. A column of power descended upon the form of Khaton like the wrath of the sun, undoing Viv’s spell on the spot just as she was forcing the last dregs of mana out of her exhausted core. She stopped, breathing hard as if it would help.
+
+It was done. The chorus had begun. Khaton was silenced inside a coffin of pure energy, and the meat of his being started peeling away. Viv took a few steps back. She bumped into someone.
+
+It should have been impossible since only a person with a near-divine soul could stand here without being instantly turned into a pile of gore. Viv’s surprise was compounded by the fact the person standing behind her, wearing the sober white dress of a city servant, was herself. Her human self. Down to the auburn hair and green eyes. Only her newest scar was missing.
+
+Second Viv gave her a smile and spoke in a voice that made the original go ‘really? I sound like that?’.
+
+“I’ve always been underestimated,” Second Viv said in perfect Old Imperial.
+
+Viv’s danger sense screamed. Something cracked in her chest. She lashed out with
+
+spells and interposed her shield at the same moment, sensing something ping against it with godly violence. Her body was propelled backward by the force of the blow just as her spells peeled off her own face, revealing another, more lively mass of muscles
+
+“Gomogog…”
+
+Viv landed on her back, not too painfully thanks to her stats. She pushed herself off the ground to see the avatar of the God of Hunger fought the draconic chorus, deflecting the pressure for the briefest of moments. She tried to rise, but the pain in her core was now debilitating. Her gaze looked down to see that it had been revealed by Gomogog’s surprise attack and that a cloud of black mana was leaving its damaged form via the fissure. Those were the very last of her reserves.
+
+Viv had a cracked core and no more mana.
+
+“Oh that’s very b—”
+
+***
+
+Light.
+
+Viv was in the in-between. She could feel it in her soul, and yet she was also sitting on a soft chair made of piled beast skins and harsh fabric. It wasn’t in Larrean, where the gods lived. It felt like the same sort of place, yet unique and somehow more real. The scent of woodsmoke was prevalent, alongside that of dry herbs and that wet smell of rotting leaves that she associated with fall. A light wind pushed the glass beads near the open window, which chimed and painted the dirt wall with pearls of colorful light. Someone placed an earthen mug in front of her.
+
+She blinked. Facing her, a woman was currently busy pouring a floral infusion into a cup. She was short, not very good-looking with a squarish jaw, a prominent chin, and an ugly scar crossing her forehead. Gray hair sprouted from her temples to corner crows feet and ruddy skin. Her clothes were homey and comfortable, well lived-in. Viv recognized the sort of favorite garbs someone selected for light work. Her dark brown eyes sparkled with amusement.
+
+“You are…” Viv whispered.
+
+A child popped his head through the window, giving Viv the sort of insolent gaze someone who hadn’t learned about social pressure dared. It reminded her of Earth.
+
+“Leto, do not bother my guest. I need a moment,” the woman said, not unkindly.
+
+“Yes ma’am, sorry…” the boy replied, disappearing in the distance.
+
+A few seconds later, Viv heard shushed laughs and excited whispers. The woman smiled. Viv took a sip of warm liquid. The tea was light and not particularly flavorful. It still warmed her chest.
+
+“I keep the souls of children here. Give them the chance to play a bit until they’re ready to move on. Sometimes, I welcome adults too,” the woman explained.
+
+“So, errr, am I dead?” Viv asked. “Because I can still feel a link to my body.”
+
+“You are not dead,” Enttiku replied.
+
+The Goddess of Death chuckled.
+
+“So have you stopped time completely? Because I’m fairly certain my brain is supposed to shut down if it receives no mana. And with my core cracked…”
+
+“Your core is indeed cracked, and yet you are still receiving mana. More than enough to sustain you. Can you guess how?”
+
+Enttiku gave the aura of a patient teacher. Viv’s boosted mind quickly went through the possible options.
+
+“Worship,” she concluded.
+
+“Correct. You are already being worshipped, though your attributes are still undefined. I feel… Order and Change from you both. And Progress.”
+
+“Isn’t Order the domain of Maranor?”
+
+“Can two gods not share common themes? Both Sardanal and Gomogog are about Renewal. Both Neriad and Maranor cover War. Your Order is not the same as hers. It is intimately linked with Change, a conceptual opposite.”
+
+“Order without Change is a prison. Change without Order is Chaos.”
+
+Enttiku nodded.
+
+“That is indeed one of your beliefs. And Progress, well, I do not need to explain things. I sense other concepts in you too.”
+
+“None of them are going to manifest unless we stop Khaton.”
+
+Enttiku nodded as if Viv had suggested going on a mushroom hunt.
+
+“Indeed. And that is why I have called you here. You were always a good candidate because you were not pursuing immortality for its own sake. So many people accrue power because they are afraid of death. So afraid of it that they forget to live with the time afforded to them.”
+
+“Well I had an unfair advantage since I don’t age.”
+
+“Even before that, and although you fought to survive, there were acts that you would not stoop to in order to survive.”
+
+Viv nodded.
+
+“I don’t see death as a failure, more… an inevitability. Even if I were to become a goddess, I’d still be aware that even I would have an end. It’s ok. I think I’m at peace with stopping at some point. Go beyond and see what’s there. And if there is nothing, then, at least I get to rest.”
+
+Enttiku nodded.
+
+“Rest is what I try to grant, too. Now, tell me. Do you know why I never incarnated?”
+
+Viv wasn’t sure where Enttiku was going with this. But whatever. She had time.
+
+“I… actually wasn’t sure if or when you had ever done so, to be honest.”
+
+“That is because of who, or rather what I am.”
+
+Enttiku took another sip. In here, Viv was missing the sense of urgency that had needled her in the real world. It wasn’t because she was somehow prevented from feeling, but rather because fate shouted that listening to Enttiku was Important.
+
+“When the first daughter stayed with her dying father rather than follow the tribe, when she held his hand until his last breath, I was born. I was there when humans stopped running to bury their dead. I was there when grieving fingers tied one last wreath, this one woven from dark flowers. I was the first one. The others, those about building and taking and growing, they came after. I was always about letting go.
+
+“I am old, Viviane. You can count the years of my existence, but you cannot comprehend them.
+
+“When the new pantheon fought the old one for domination, I stood aside. I took in those who fell in the bloodshed that followed. For a while, I thought we might all perish. Not the gods. Our people too. Gorok asked me to intervene but I refused. The war was about choosing a path. I was never the path. I was always its end. I was always there for those who reached it, everyone, in the end. I was there to help them all. But I didn’t help Khaton when he fell, because he refused me. Just like I didn’t help Oleander because Maranor denied me. She was never good at admitting defeat. Not insisting was my mistake. I was… concerned. I didn’t want to choose for other people. It has never been my role. Just like Neriad refuses to do it for his mortals, I refused to do it even for the gods.
+
+“That was a mistake. My mistake. Perhaps the most dire error I ever committed.
+
+“I never incarnated because there has never been a vessel powerful enough to contain me.
+
+“Viviane. I am DEATH.”
+
+“I should have slain Khaton rather than allow him to turn into a blight that might yet consume the world. I will now rectify that error. It is time for me, after millennia, to fight, but I cannot do so directly or the entire continent may die. I need an avatar. You. Accepting me will not kill you, but the strain will delay your ascension and leave you weak for decades.”
+
+“Even if it killed me, I would have accepted. You know that.”
+
+Enttiku smiled. Viv’s soul sense picked the colossal soul hiding behind that simple expression.
+
+“And I still asked. Do you consent to hosting me, Viviane Saint-Lys, the Outlander?”
+
+“I do.”
+
+“Then the pact is sealed. Now… wake up.”
+
+***
+
+She’s coming to!
+
+Viv woke up to Avarice’s muzzle and the placid face of Abenezigel. She was under a tree some distance away from Mornyr. Above her, Solfis kept a quiet vigil.
+
+Oh, her core just… repaired itself?
+
+“I think we need to step back, dear one,” Abe told Avarice.
+
+Viv didn’t stand up so much as righted herself relative to the ground through sheer power of will. Black mana exploded from her presence in a silent burst. Memories, knowledge, power flooded her. A soul touched her own, gently despite its size. She felt it catch hers in a warm embrace.
+
+Two wills became one, both moving in the same direction. She knew so much. She was so strong. She was, also, so very old. Kindness and anger so intense they almost blinded her filled her heart.
+
+Consciousness merger complete.
+
+All stats temporarily increased by 25 - 36
+
+New Title: First of the Death Walkers.
+
+You are the first avatar of Enttiku. May she never lose her kindness.
+
+Temporary skill obtained: Aspect of the Goddess of Death (master)
+
+Death mana spells unlocked.
+
+The Avatar of Death flew up on wings of darkness. A shadow, much larger than it should be, blotted the land. In the distance, half of Mornyr had been swallowed in the partial void of the in-between, its buildings dust and fragments. Mighty forms battled a bloated creature through the veil. Or rather, the divine figures tore through cancerous flesh while the helmeted beast ate another mass of flesh alive, that one screeching in ways that would have made human Viv look away. Khaton was eating Gomogog.
+
+“The fool never learned,” a part thought.
+
+“That feels suboptimal,” the other replied.
+
+Death armor covered the avatar while the more divine part called for an old dagger made of bones. In her left hand, the avatar lifted the Shield of Thirteen. Tendrils of darkness emerged from her back. The avatar charged past the shining form of Neriad, oppressive and distracting, then past poor Efestar who had no weak point to attack. She moved around Maradoc’s spells that slowed and maintained the incarnate in place. The supporting magic of Sardanal touched her, then was gone. The avatar moved forward. A twisted arm rose to squash her relatively smaller form. The avatar struck up with her dagger while void blades tore through the arms.
+
+The incarnate pulled back, then stared at his limb with the bubbling grey orbs of his eyes. One of the aberrant fingers failed to regrow. Entire strips of unholy flesh peeled off from its arms, the others struggling, and failing to regenerate. The avatar could see the lines of life. She had severed several. Everything could die.
+
+YOU.
+
+She struck again before he could react. One of the stumps he rested on fractured, revealing other layers of tissue. She dodged under another strike, blocked spells with her shield, and then she was attacking again.
+
+YOU ARE TOO LATE, ANCIENT ONE.
+
+The incarnate dropped what was left of Gomogog. Its focus was now solely on the light gods.
+
+YOU SHOULD HAVE HELPED US.
+
+“He’s conscious?” Neriad screamed. “Fuck!”
+
+The God of Righteous War blocked another attack with his shield, allowing the avatar to cut at the wrist. A hand fell, but pointed bones surged from the wound, striking Efestar who barely blocked.
+
+ALL OF YOU, SO PATHETIC.
+
+HUNGRY.
+
+EAT YOU.
+
+Efestar was grabbed, but Maradoc put the shoulder in stasis and a combined effort from Neriad and the avatar cut another piece, which fell.
+
+I AM BEYOND DEATH.
+
+Despite his claim, the avatar felt confident. Mortal battle experience and divine wisdom showed that the incarnate was slowing down but those were not mortal wounds.
+
+LIKE FLEAS YOU BITE.
+
+WHERE IS YOUR FURY?
+
+WHERE ARE YOUR KING AND QUEEN?
+
+Khaton laughed, the sound vicious and grating. He was right, the human part thought. They needed an opening. Strike the chest, which the dead god was protecting. Ignore the head. He had shown he didn’t need it. She just needed a distraction. Turning her head, the avatar looked at Neriad, but he was struck with surprise.
+
+From the still-open portal where Maradoc had thrown Maranor, a figure emerged. She was an ancient woman wearing a formal suit, green eyes and short hair hauntingly familiar. The human part of the avatar did a double take.
+
+“That’s… me past a hundred… if I aged.”
+
+Facing her own mortality felt deeply uncomfortable. The figure stretched with a limber grace that didn’t match her appearance.
+
+“Aaaaaand I’m back! From my own funeral! What did I miss?”
+
+Khaton had blessedly been struck by disbelief as well or he would have kept attacking. As it was, all gods present just watched great grandma Viv morph back: her hair turned brown, her face, masculine. The dry body exploded into virile energy, showing pectorals covered in hair. In an instant, they were facing Emeric, the God of Luck. A naked god of luck.
+
+He grabbed his junk.
+
+“It’s good to have you back, old friend.”
+
+“Let’s just punch him in the face. Once,” the human part of the avatar begged.
+
+“Little shit had it coming,” the divine part agreed.
+
+Emeric looked up to the incarnation of the Khaton the Defiler, returned to Nyil as an aberrant deity, the half-eaten corpse of Gomogog lying at its, well, feet.
+
+“Oh. Damn.”
+
+He then turned his head to a stalking Viv.
+
+“Oh. SHIT! [Divine dodge].”
+
+The God of Luck dove under a right hook and right into the following left uppercut, which caught him in the kidney. The finisher cross smashed pleasantly against his nose.
+
+“Ow ow ow hey! Priorities!”
+
+Emeric smirked. The avatar felt herself grabbed. She was flying. Khaton’s shock passed but too late. She was already on his chest.
+
+She stabbed. The line she’d picked was pure luck, yet the chest of the dead god seemingly exploded in a cascade of discarded meat. He howled. A prison of sharp bones closed around her but then Neriad was standing, slicing them as they approached with a speed even her divine stats struggled to follow. Efestar blinked forward to deflect bone arrows thrown at her retreating form. A new spell’s idea snuck into her mind. The divine part rejected it.
+
+“You think you can teach me death, boy?”
+
+The spell form evolved as her mind followed its structure, growing in size with every passing moment.
+
+“Oh, that is… clever,” she admitted.
+
+The spell was a version of her Reign of Terror that used death mana to attack several life lines at once. She started casting.
+
+“Buy me time!” she asked.
+
+And they did. Neriad and Emeric were an impossibly deadly duo that struck at all the attacks the screaming Khaton threw at them, Neriad martial perfection and Emeric roguish grace. Every time she thought Emeric was cornered, he would find a new angle or avoid danger at the last instant. Efestar moved in and out of the battle, still weak but still capable of disrupting Khaton’s assault. Sardanal healed them from afar while Maradoc alternated between controlling spells and devastating hexes that peeled off meat as surely as if the avatar cast herself. They were a well-oiled, perfectly coordinated team skilled enough to survive yet aggressive enough to endanger Khaton so he couldn’t focus on her.
+
+“Wow they’re good,” the human part of her had to admit.
+
+And she understood her role. The finisher, Maranor, was missing. It was the avatar’s task to fill in for her.
+
+[Castigate]
+
+A vortex of divine mana ravaged Khaton, peeling off several layers of flesh. Something bright shone on the exposed ribcage. Eyes surrounded a black gem of massive proportion.
+
+“Just as I said. The head is a decoy. This is the true self!”
+
+Khaton roared. Limbs formed a forest of lashing tendrils around the exposed core. The head fully collapsed in a desperate bid to gather enough flesh to protect it but before it could even try, a shadow materialized past the barrier. Efestar slashed once, twice, cutting the core out of the flesh. It was only held by a sliver of ligaments by the time he had to teleport out. The avatar charged the forest of limbs that gathered to stop her, but she was ready.
+
+“Yoink!”
+
+The old spell slithered between the defenses with divine deftness. It made contact. Death magic invaded Khaton’s core. The beast froze in horror. In a last surge of effort, the light gods cut a path for the avatar who smashed the last of the tentacles aside with her shield. Khaton gathered one last ditch, a massive eye opening to freeze her in place with a hypnotic burst that challenged even the will of Enttiku herself. The emotions of the dead one poured through the connection: grief, rage, and the endless torture of eons spent between life and death. The divine part of the avatar shielded the human one, who managed to keep the yoink going. She just had enough conscience left to cast one last colorless spell.
+
+LIGHT?
+
+THIS IS… JUST LIGHT…
+
+“Nah,” she replied. “It’s guidance.”
+
+WHAT?
+
+Solfis’ death laser caught the eye in a burst of gore, searing it. Khaton screamed while the avatar closed in. Her bone blade severed the last of the meat, then she struck down before Khaton’s monstrous power could push the yoink spell away. The core cracked.
+
+It exploded. The avatar protected herself as she and the others were pushed out of the ravaged battlefield and back under the light of the sun. In front of her, all the light gods regrouped to form a circle around the erupting, dying form of Khaton. Their combined magic purified the corruption as it escaped the dead god’s control. The radiance they emitted was blinding and for a while, the darkness of the in-between faded, and Viv could see the shining skyline of Larrean in the distance. It was utterly beautiful and… a little tempting. But her work wasn’t done. The avatar stood up to find the mewling remnants of Gomogog. He was stuck to his avatar, perhaps one of Khaton’s spells to prevent him from escaping. She looked into a dozen, then a hundred green eyes forming on his mangled body.
+
+Not gonna work this time, the human side thought.
+
+“I will not make the same mistake twice, Gomogog. I wish I could say I was sorry but… you’re an unrepentant asshole. Farewell.”
+
+A second god died. When the avatar looked up, the light gods were around her. They appeared relieved, but also worried.
+
+“Viviane,” Neriad gently said, “perhaps it is time to let go. If there is enough time, maybe Sardanal could—”
+
+“Oh cut it. The girl will be fine, after a couple centuries.”
+
+She turned to Emeric.
+
+“We might even come for you.”
+
+“Alright,” the rake replied. “So maybe I deserve it. But that’s not going to be for a while. I suppose we’re going to need to shut this rift in reality with the help of our faithful clergy.”
+
+“You don’t have a clergy,” Neriad reproached.
+
+He was still a slacker.
+
+“And I will change that now that I have reflected on my past actions. Really, I will! But we have accomplished much and you are all tired. How about we head back first, have a celebratory party? Enttiku, old girl. Come on. Just this once?”
+
+A wave of annoyance coursed through both halves of the avatar, but in the end, Viv knew the God of Luck had changed and this was just the way he presented. And Enttiku could stand to be more involved with the others.
+
+“I consent,” the avatar replied. “But you, girl, are past your bedtime. No divine alcohol for you.”
+
+And Viv was summarily expelled.
+
+***
+
+Viv woke up under a tree, again. The wind was blowing and the distant smell of snow filled her lungs. In the distance, smoke rose from the ruins of Mornyr and its surroundings, a blighted ruin all that remained of the city and its immediate surroundings.
+
+Dragons still filled the sky.
+
+Mother, don’t leave me.
+
+I’m not readyyyyy.
+
+Avarice was crying, her throat letting out deep grunts that would be comical if the raw pain of her emotions didn’t touch Viv so much. She was feeling tired, exhausted even, more than she’d ever felt. Even lifting a finger was too much, and her chest rose and fell with her breath at the cost of a great effort.
+
+“Oooooow. I’m fine,” she slowly articulated.
+
+Nooo it’s not fine.
+
+No wait, yes it is fine.
+
+I am here for you mother.
+
+You have won a great victory.
+
+Oleander is defeated, and Khaton has been destroyed.
+
+Gomogog too apparently.
+
+You… you can leave without regrets.
+
+The dragoness sobbed.
+
+I will be strong for you, mother.
+
+And your grandchildren!
+
+“I’m not going to die, ok?” Viv replied, feeling a modicum of strength return. It was as Enttiku had said. She was feeling so weak now, but she’d live.
+
+Yes mother, you’re going to make it.
+
+Just rest for now.
+
+“No but like seriously I’m not going to die within the next week unless you sit on me while I’m trying to sleep.”
+
+Wait, really?
+
+“Yes, really.”
+
+… Oh.
+
+Well that is… fantastic news!
+
+I wasn’t worried or anything.
+
+Good, good, excellent!
+
+We have so much left to do!
+
+I need to introduce you to Mother.
+
+The bigger one, I mean.
+
+And we need to kill the Nemeti!
+
+And usher the planet into an age of fiscally and environmentally-responsible development fueled by a healthy debt leverage.
+
+And explore across the seas for new land to colonize!
+
+“Yes, yes, yes, the world keeps living, evolving. The Maranorians are defeated. Emeric is back on the throne.”
+
+You should replace him, mother.
+
+“Maybe in a century or two. Right now I just want to go home, savor the victory. We just crushed the Maranorian Empire and wiped out the last two of the Dark Gods still ‘active’. Now only Octas is left and she’ll be licking her wounds for a long time. It’s time to build. To help humanity progress. We’ve certainly bought them the breathing room they needed. And I know there’s still much we could do but… I’m really tired.”
+
+//WE ARE READY TO DEPART, YOUR MAJESTY.
+
+//TO NEW HARRAK.
+
+//YOUR LAND.
+
+//IF THAT IS YOUR WISH.
+
+“Do you need help?” Abe asked with a kind smile.
+
+“I do.”
+
+Avarice delicately hugged Viv between her scaly arms. She was very warm. Together, they flew back towards Solfis where the One Hundred and the crew waited near an open port. Someone had prepared warm kava.
+
+Are you sure you don’t want to fly by Luten to fire Solfis on them?
+
+They’re still kark and hadal-hating assholes.
+
+We could crater them. Who will stop us?
+
+“It’s as I said, daughter. The world keeps on turning but I think, this time, I’ll let someone else take the spotlight. And do fewer craterings.”
+
+The two plus Abe landed successfully. The docking port closed, then Solfis accelerated, turning west towards Harrak.
+
+“I get the feeling we’re forgetting something,” Viv told Avarice.
+
+It might come back to you after you sleep.
+
+“Oh that sounds like a great piece of advice.”
+
+***
+
+In the air, Mother could hardly believe her eyes.
+
+They’re… just leaving?
+
+Very rude.
+
+A dragon with the name of a storm — very cliched — had the audacity to fly closer.
+
+Perhaps you would follow?
+
+They have this excellent fish sauce.
+
+It would be a shame not to try it!
+
+Mother hummed.
+
+***
+
+Back on the ground half a league away, the combined cavalry of the Paramese alliance and a city’s worth of refugees — around thirty thousand people in total — watched Solfis fly away at top speed. Order Master Ered leaned towards Rollo.
+
+“So, my fellow order master, who shall open the portals back home?”
+
+“They’ll come back. At some point. Tea?”
+
+“I do not believe this is the sort of person I want to lead mankind towards a brighter future.”
+
+“They just killed a dark god. Perhaps a measure of understanding? Not to mention… you really don’t have a choice.”
+
+THE END.

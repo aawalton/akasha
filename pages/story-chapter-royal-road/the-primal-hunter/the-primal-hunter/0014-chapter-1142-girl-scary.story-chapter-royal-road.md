@@ -1,0 +1,191 @@
+---
+id: 0024f5a6-a6db-58b0-8499-b137713637d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1142 - Girl Scary"
+slug: 0014-chapter-1142-girl-scary
+partOf: the-primal-hunter
+position: 14
+ownLength: 2695
+unit: words
+ownProgress: 2695
+publishedAt: 2025-08-01
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2484148/chapter-1142-girl-scary"
+royalRoadId: "2484148"
+markedReadAt: "2026-06-29T19:29:42.328Z"
+---
+
+Artemis seemed to take Jake’s question very seriously as she frowned deeply. After a few seconds of consideration, she sighed and spoke. “I... have a bit of a confession. While I do keep beast companions, I only started doing so in higher grades, and I’ve never actually had to name, well, anything.”
+
+“Really?” Jake asked with surprise. “How about that Voidpiercer?”
+
+“Already known by that name when we met,” Artemis shook her head.
+
+“Huh,” Jake muttered. “Still, that doesn’t mean you can’t have good suggestions. I’m very open to suggestions over there.”
+
+Artemis once more considered for a while, looking toward the little fella who was still busy sorting all his stuff. “Alright, considering it's a Shimmerfur Warpsnatcher, and taking into account its Path and magic abilities...”
+
+Jake was waiting with bated breath as Artemis took this extremely serious during this dramatic pause. Finally, she looked at Jake, who was ready to hear the best damn name suggestion ever.
+
+“How about Snatchie?”
+
+Only for him to learn that perhaps Artemis was just as terrible at naming stuff as he was. Jake couldn’t help but cough at the suggestion before he chuckled. “You know, I considered the same, which means it’s certifiably a horrible name.”
+
+“It’s not that bad,” Artemis said, crossing her arms. “It’s descriptive. The Warpsnatcher snatches things, hence Snatchie. There is a logical through-line.”
+
+“If we actually named him Snatchie, I would get my head bashed in by Miranda,” Jake chuckled while shaking his head.
+
+“You’re exaggerating. I doubt that assistant of yours would dare do something like that.”
+
+“Oh, you don’t know her,” Jake insisted. “No, no, we need a better name. Something that’s an actual name would be preferable.”
+
+Jake put on his thinking cap and considered potential names he believed could fit the little bugger. He also considered the kind of magic the Warpsnatcher was capable of, as well as where he had found it. Looking at Artemis, Jake got an idea. A name from mythology appeared that he believed could fit.
+
+“How about Hermes?” Jake said, feeling a bit proud of that one. Hermes was a mythological god known to be able to pass through realms and represented travelers, merchants, and even thieves. The more Jake thought about it, the more-
+
+“Hermes? Like the courier god?” Artemis asked while tilting her head a little. “I guess it could fit?”
+
+“Wait, back up a little,” Jake said. “You know a Hermes?”
+
+“Yeah,” Artemis nodded. “There’s a god named Hermes who commands the Hermes Trading Association, one of the largest merchant factions in the multiverse. They are especially known as excellent couriers, and when valuable goods have to be transported into restricted areas or under safe circumstances, they are likely the best there is. Especially if Hermes himself takes on the job.”
+
+“Alright, yeah, scratch Hermes then,” Jake sighed, disappointed. Damn, he should have known there was already a god named that out there. In fact, he wouldn’t be surprised if most of the gods of mythology had counterparts in the multiverse, though evidently the details didn’t always seem to fit.
+
+Artemis was one example of it definitely not fitting perfectly, but so was Hermes. From what Artemis said, the two barely knew one another, yet on Earth, they had been part of the same Pantheon. Thinking back, chances were humans had just interpreted the Records that bleed through and constructed their own tales based on that. History and old stories weren’t known to be the most accurate and tended to be more fiction than fact, though with the introduction of the multiverse, there were some truths here and there.
+
+“I still think Snatchie is a good name,” Artemis muttered while looking to the side.
+
+“Wait, are you pouting?” Jake asked as he leaned forward.
+
+“I’m not,” Artemis insisted.
+
+“You totally are!” Jake laughed and pointed.
+
+“I told you. I’m not,” Artemis said, trying to sound resolute, though Jake could still see she was one hundred percent pouting after having her idea shut down.
+
+“You know what, I think we both learned a valuable lesson today,” Jake chuckled. “We’re both equally terrible at naming things. But you do know what that means, right?”
+
+“What?” Artemis asked, humoring him.
+
+“We’ll have to ask others for input when the time comes,” Jake continued to joke around, as Artemis looked even more confused now than before.
+
+“When the time comes for what?”
+
+“Ah, never mind, it doesn’t matter,” Jake waved her off, still with a cheeky smile. “We’ll have plenty of time to decide. At least I assume so. Say, on a totally unrelated note, how is the reproductive cycle of enlightened creatures affected by the system? Specifically, gestation periods.”
+
+Artemis looked like she was about to answer his question seriously until she realized what he was getting at. Jake really had to hold himself back from laughing as he saw her head turn slightly red before she quickly got her involuntary response under control.
+
+“I should brand you a heretic for that kind of joke,” Artemis said, also leaning forward.
+
+“You wouldn’t be the first one to try. Actually, thinking back, I think the last one who tried to brand me a heretic also did it shortly after coming onto me,” Jake said with a smile, remembering the Hive Queen way back then.
+
+Artemis looked Jake directly in the eyes before sighing. “Sometimes, I wonder what I’ve gotten myself into.”
+
+Jake was about to say something, but before he could do so, he was thrown back onto the couch, a wood elf goddess sitting on top of him. A pair of lips covered his a second later, and at that point, his only response was to reciprocate. He moved his hands to hold Artemis, but before he could, she stopped him.
+
+He felt a tinge of pain on his lower lip as Artemis leaned back, licking her own as a drop of Jake’s blood had gotten onto them.
+
+“Be satisfied with that,” Artemis said teasingly as she pushed herself off him while still keeping eye contact. “For now.”
+
+Jake wanted to say something, but just shook his head instead. “You know, if you’re that insistent on Snatchie...”
+
+“Hm?” Artemis said, acting ignorant. “No, deciding on the name is wholly up to you. My involvement will only be auxiliary at best. In the end, the Warpsnatcher is not mine to name.”
+
+“Then- “
+
+“But I will have veto for our firstborn,” Artemis said, her teasing smile back. “No rush, though. In your words, we’ll have plenty of time to decide when the time comes. Now, I have some matters to attend to, so I’ll see you in a couple of days. My absence should also give the Warpsnatcher plenty of time to acclimate. Oh, and don’t miss me too much. Being overly clingy is such a turnoff.”
+
+With those words, and before Jake could say anything, she teleported away, leaving him back on the couch with a slightly bleeding lip. Jake raised a finger and swiped it off as he chuckled to himself. “Should be careful about teasing a goddess too much. Or not.”
+
+Standing up, Jake stretched a bit. He was pretty damn sure that Artemis had no business but just made up an excuse to leave. It was a bit unfortunate, but Jake still felt in a way better mood as he headed down toward the cellar where the little fella who had yet to be named was busy doing his own thing.
+
+All the loot had to be properly sorted, after all. The Warpsnatcher had its own spatial storage, but this storage seemed to mix up all the items, forcing the poor guy to sort everything once out. Jake wondered if it was some kind of compulsion, but as he surveyed the piles of loot, Jake felt like there was more to it.
+
+The Warpsnatcher was very exact about where everything had to be placed. There was perfect spacing between the piles, and if he took a top-down look, it could almost look like the Warpsnatcher was setting up some kind of formation. Not that he could detect any mana or energy movements, but it was still possible that some form of Warpsnatcher Feng Shui concept was at work.
+
+“Hey buddy, how are things going?” he ended up asking the cat-like creature as it turned and looked at him.
+
+“Busy!” he said, turning back to continue sorting his pile.
+
+“Do you like the place?”
+
+The Warpsnatcher seemed in thought for a moment as his small paws kept moving. “Okay. Girl scary.”
+
+“She can be a little scary, but she’s not dangerous,” Jake tried to comfort the little fella. “Say, have you made any considerations for what you would like to be called?”
+
+It was a long shot, but hey, who knows? Maybe he could get lucky, and the little guy already had a name.
+
+“Me... me!” the C-grade said after a few seconds while raising his arms as if to show off his entire body.
+
+“I know, but I mean something like a name,” Jake said, thinking for a bit. “You know, like how I’m a human, but my name is Jake.”
+
+The Warpsnatcher looked and Jake while turning its head nearly ninety degrees to the side. “Human... Lake?”
+
+“Jake,” he corrected. “It’s something to make it easier to distinguish us from one another and give each person more individuality.”
+
+“Jake... Jake...” the Warpsnatcher repeated a few times, trying to get the word correct. “Me... also Jake?”
+
+“No, that would be confusing,” Jake shook his head. “You know, think about it a little, if there’s something you would like to be called. I’ll also think about something in the meantime, alright?”
+
+“Okay,” the Shimmerfur Warpsnatcher agreed. Jake watched as the little guy went over and took a few more pebbles from another pile and placed them on top of the one he was currently working on. Going back one last time to grab the last pebble, the Warpsnatcher stopped before jumping over to Jake and holding the pebble high.
+
+“You place!”
+
+Jake looked at the pebble and back at the Warpsnatcher, who was looking up at him with his big cat-like eyes. He just couldn’t resist and picked up the pebble as the Warpsnatcher jumped with glee and led him over to the pile while holding up his small paws.
+
+“Place!”
+
+Doing as told, Jake placed the pebble on top as the Warpsnatcher clapped its palms in happiness.
+
+“Done!”
+
+“You’re finished setting up?” Jake asked with surprise.
+
+“This done!” the Warpsnatcher said as it turned around and spread out its paws. From out of nowhere, another pile of what looked like useless junk appeared, the entire thing taller than Jake.
+
+“More pile!”
+
+“More pile indeed,” Jake chuckled and shook his head. “I’ll leave you to it.”
+
+“Bye!” the little guy waved as Jake waved back and returned to the living room upstairs. Once back there, Jake took a few deep breaths before deciding to just meditate a bit to calm his mind and body.
+
+Like that, time started passing.
+
+Jake spent the next few days just relaxing in the palace, sometimes playing with the Warpsnatcher. A couple of days later, Artemis did indeed return, and they were very much back to business as usual, though Jake still felt they were a bit closer than before.
+
+Not long after, the two had a brief training session, during which he had to confess that he had failed to upgrade his archery skill while away in the Hunting Ground.
+
+However, when he explained that he had technically succeeded in manipulating how time affected his arrows, just through the use of his arcane affinity and the skill Unblemished Arrows, Artemis could only shake her head and chuckle.
+
+“Isn’t that only a good thing? Primarily passive skills like that are incredibly powerful, and if you can separate them from your main archery skill, that’s only good. Having too complex a main fighting skill isn’t necessarily an advantage,” Artemis explained. “We don’t walk the same Path. Even if we achieve some of the same results, our way of getting there will naturally differ. In the end, I do believe there is a good chance you will eventually consolidate this Unblemished Arrows skill into your main archery skill, but keeping them separate for now is definitely recommended. But it does mean that for now, you need to consider another approach when it comes to upgrading your archery.”
+
+“I already have an idea there,” Jake smiled, briefly outlining his plan to focus more on the distance equals more damage aspect of his archery skill, as well as his desire to make it scale more off Perception. You know, seeing as Perception was still by far his highest stat.
+
+“Damage increasing with distance is also relatively common,” Artemis nodded. “Of course, it comes in many forms. Sometimes it’s based on flight times, other times absolute distance, and in others, it’s merely that the arrows can absorb energy from the environment while in flight, hence making them more powerful when they strike if they flew for longer. My arrows were based on the life affinity, so they naturally grew while in flight. I once shot an arrow across a galaxy, and by the time it arrived, it had already grown into a grand tree that sealed the entire solar system I had aimed at. Alongside my target, obviously.”
+
+“Sounds like Vinearrow extreme edition,” Jake chuckled, also briefly mentioning the Vinearrow skill he had been offered during his skill selection, something that got a good chuckle out of Artemis. He didn’t tell her the actual skill he ended up picking, though. He wanted Event Horizon to be a surprise, and he hadn’t had a good chance to test it out either, so he would prefer to avoid any follow-up questions he wouldn’t be able to answer.
+
+“More like a Treearrow,” Artemis joked, as they moved on to what else Jake had gained during his Hunting Grounds trip. Luckily for Jake, Artemis did find it amusing that Jake had gone to upgrade his archery skill, but ended up instead getting his melee skill to legendary rarity.
+
+She was also already aware he had the Fangs of Man skill. When Jake had used it back during the Ell’Hakan and Yip of Yore debacle to make it more convincing that Jake was considering joining Valhal, the news of Jake having this skill spread far and wide throughout the multiverse. As someone who had kept up with what Jake was up to, Artemis thus naturally also knew.
+
+“Your natural talents truly do lean more towards a melee fighting style, if I’m being perfectly honest,” Artemis said after Jake did a brief demonstration of his upgraded skill.
+
+“But I like the bow more,” Jake argued.
+
+“I wasn’t suggesting you should focus only on melee combat,” Artemis corrected herself. “I would actually consider it a positive. One of the biggest weaknesses of archers in the multiverse is what happens when the enemy gets close. Usually, we deal with this by finding means to keep our foe at a distance, but your situation is unique. You can seamlessly switch between both fighting styles and remain a pinnacle combatant, no matter the case.”
+
+“Yeah, yeah, I know I’m awesome,” Jake waved her off. “The only quality I have surpassing my awesomeness is my humbleness.”
+
+“You mispronounced arrogance,” Artemis chuckled.
+
+“Gotta be at least a little arrogant, you know? In fact, did you know I’m arrogant enough to even dare pursue a goddess?” Jake smiled. “Now if that ain’t peak arrogance, I don’t know what is.”
+
+“I would call it delusional, but if it’s working out for you, I guess that doesn’t really fit,” Artemis smiled in return.
+
+Jake was about to flirt back as Artemis’ expression suddenly changed. She turned her head and looked out the palace window, straight toward the utterly massive tree in the distance. After nodding a few times, she looked back at Jake.
+
+“The Mother Tree has asked for our presence. Your presence, more specifically,” Artemis said.
+
+“Is it about the Fallen King?” Jake asked, fully back to serious mode.
+
+“Yes... and something about a bow?”

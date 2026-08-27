@@ -1,0 +1,161 @@
+---
+id: 632b7743-21c1-5e0d-a475-82668f94384c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59: Refining Pills II"
+slug: 0059-chapter-59-refining-pills-ii
+partOf: phoenix-ascension-cultivation-litrpg
+position: 59
+ownLength: 2217
+unit: words
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2830931/chapter-59-refining-pills-ii"
+royalRoadId: "2830931"
+---
+
+Ah… what a boring day. Xing Ya Chen thought as he slouched over the counter. He was dressed in a red attire, with a hat adorned by a large metal coin. It was the uniform of the Myriad Market's most established shop— The Heavenly Pill Pavilion.
+
+It was made specifically to buy and sell pills, pill materials, cauldrons, and flames, as well as techniques and cultivation resources related to pill refining. In the entirety of the Hu, Bai, Xia, and Chen villages, the Heavenly Pill Pavilion was the most renowned and powerful shop.
+
+The profits they racked in could be counted in terms of Top-Grade Spirit Stones, not in Low-Grade or Medium-Grade like the rest of the shops.
+
+Every day, customers from all villages, both big and small, gathered there to buy pills.
+
+Their most renowned item was the Meridian Awakening Pill— One of the most important pills in the life of any cultivator. It was one of the few pills that could help with awakening the meridians of the young cultivators, helping them start their journey toward immortality. It worked even if one had no talent for cultivation, awakening their meridians even if they had the slightest amount of potential.
+
+However, if truly there was no potential, then all hope was lost. It didn’t work on Spirit Beasts either. Many have tried, but all failed, so they gave up. Throughout Heaven and Earth, one thing was sure— Spirit Beasts could not cultivate.
+
+Not until they took human form, at least.
+
+It could only do that, though. If their meridians were shattered, or worse, then the Meridian Awakening pill could do little about it. However, given the rate at which mortals were born, Meridian Awakening pills were always needed. Clans even stocked them up in storage, just in case they needed them.
+
+One such pill costs quite a lot, though— The lowest grade one could go as high as Fifty Medium-Grade Spirit Stones, while the highest grade ones could go as high as ten Top-Grade Spirit Stones. One Top-Grade Spirit Stone was about as valuable as one hundred Medium-Grade Spirit Stones, so the price was hefty.
+
+But it was all worth it, for the rich cultivators at least. If their sons or daughters already had tremendous talent, which was often the case, then the Meridian Awakening Pill would help boost that talent.
+
+However, when the Myriad Market prepared for the yearly auction, all Meridian Awakening pills were taken off the shelves, for one reason or another. Xing Ya Chen didn’t know why, nor did he care.
+
+All he knew was that it was always boring in the shop when the time for the yearly auction came. There weren’t many alchemists in such a backwater place, and those that could afford such luxuries were rare. Xing Ya Chen couldn’t recall anybody having purchased a high-grade pill ever in his life, at least not in the Hu village, nor the rest of the other villages.
+
+They were simply too poor. A medium-grade pill was already too much. Therefore, they all basically collected dust in their bottles.
+
+He thought it was a shame. If he could snag one or two, he’d be rich enough to live a comfortable life all by himself. A wife and kids could wait, though he wasn’t even sure he wanted any.
+
+Though the thought of coming home to a beautiful wife did entice him, he knew he wasn’t destined for such a life.
+
+He came from the Xing clan, a very renowned and well-off clan, far away from where ‘here’ was. A merchant clan, a clan with so much money they didn’t know what to do with it besides raising talents, and yet they were still stingy.
+
+Xing Ya Chen was not first in line to inherit, nor was he second or third. In fact, he wasn’t even on the line of succession. His mother was of low birth, and his father, well, his father— the Clan Leader— found her really pretty.
+
+He was sad to think that her bones were now rotting somewhere in an unmarked grave. Xing Ya Chen hadn’t known her for long. Allegedly, his father doted on her too much, and she angered the wrong concubine.
+
+When his mother ‘left’, Xing Ya Chen was only five. His father took pity on him, though he knew that if he showed any favoritism, then his son would end up worse than what happened to his mother. Xing Ya Chen thought it was ridiculous that a high and mighty clan leader couldn’t even keep some women under control.
+
+However, it was far too late for him to say anything about that, nor did he hold some sort of deep love for his mother. She was just as absent as his father in his life, and the person he cared about most— Old Aunty Xing— was also gone. She left when he was ten.
+
+She died a good, peaceful death. He cried for three days and three nights, and mourned her more than he mourned his mother. He regretted not being able to taste that woman’s warm chicken soup ever again, or her delicious sunflower cakes.
+
+As a result of the continuous loss of mother figures, Xing Ya Chen didn’t turn out to be the best of men. His father was sending him as much money as he could get away with, which was very little, but Xing Ya Chen was not a pushover.
+
+He took that money and made it more money, either through commerce, gambling, or less legal activities.
+
+However, after scamming the wrong person— the third son of an official— he was forced to join the Myriad Market as a shopkeeper, and has been suffering forever since. Although he couldn’t complain, it was either that or the gallows.
+
+Xing Ya Chen couldn’t even remember how much time had passed, but it was long enough for him to break through from the Qi Condensation stage into the Foundation Establishment stage.
+
+He was a little disappointed when the legendary ‘Heavenly Tribulation’ did not come to aid him, but at the same time, he was relieved. He would rather not deal with fierce lightning, even if that meant his foundation would be greater.
+
+He often thought about such random things when working, for there were no customers he could actually help. There was the occasional onlooker who didn’t buy anything, and sometimes he could do his job when a young master or elder passed by. Besides those times, though, he was as bored as one could get.
+
+“Excuse me?” A soft voice awoke him from his daydreaming. He hadn’t even heard the woman approach, nor did he hear the door jingle; however, when dealing with cultivators, one had to throw away common sense.
+
+Xing Ya Chen raised his head, and his jaw all but dropped. Before him stood a woman— no, a Goddess, for all he cared to evaluate her as. Fiery red hair cascaded down her shoulders, tiny flames basically dancing at the tips. She wore a beautiful dark orange hanfu, tied with a slightly darker belt.
+
+He did not dare stare for too long, as he felt that if he did look too much into her red eyes, he would lose himself.
+
+His back straightened, and he immediately became alert. Well, more at attention than alert.
+
+“How can I help you, miss?”
+
+“I would like to exchange for some alchemical ingredients, if you would be so kind as to help me.”
+
+“Huh… y-yes of course!”
+
+She nodded, handing him a paper note. He opened it, and his face almost fell, but he tried to hide his reaction. The writing looked as if someone used their feet to write, instead of their hands. It was even worse than a ten-year-old’s!
+
+Could she have… no… impossible, just look at her! He suppressed such disrespectful thoughts and deciphered the handwriting.
+
+Fifteen-year-old Red Ginseng Root, five-year Sea Star Tip, hundred-year-old Plow Mushroom… hum? Aren’t those the ingredients for a Meridian Awakening Pill? But then… what are the Blue Centipede Legs and Death Flower Bloom for? And this… Big Eyed Monkey eyes… on top of its brain? Just what sort of weirdo came up with this recipe?
+
+He took a look at the woman, who stared at him with a clueless expression. “Is there something wrong?”
+
+“N-no… It’s just rare to see… an alchemy master around here.” He did a decent job at hiding his surprise, at least, he thought he did. However, Xing Ya Chen quickly regained his bearings.
+
+Even though he was not the direct son of the Xing Clan Leader, he was his son nonetheless. Punished and exiled as he may be, his Xing clan taught him how to handle such matters well. After recovering from the initial shock, his gears started to turn.
+
+This is a rare opportunity. If I were to sell more ingredients to her, or even form a profitable business relationship on behalf of the Heavenly Pill Pavilion, then I could prove to my father that I wasn’t just a weasel.
+
+With that goal in mind, his attitude had changed.
+
+“This one begs your forgiveness for his rudeness. Honored Master, I can bring these materials to you in a few minutes. Would you also like to purchase a cauldron?” He asked, noticing the lack of of bag of holding at her waist.
+
+The woman’s eyes widened for a moment, as if she’d just remembered what she’d forgotten. “Yes, that would be great.”
+
+“Would you like to come take a look at our selection?”
+
+“Oh? Yes, that would be even better.” The woman agreed readily and followed Xing Ya Chen to the back. He left the shop empty. Nobody would dare steal from the Heavenly Pill Pavilion, and if they did, their hands would be put on display for everyone to see.
+
+The back of the shop was significantly larger than the front, looking like some sort of warehouse. Shelves upon shelves of jade bottles filled with pills, refinement materials, rare ingredients, and even some techniques resided within.
+
+The woman’s beautiful pupils shrank for a moment, though it was almost unnoticeable. She followed Xing Ya Chen toward another door, and only then did they finally see the cauldrons.
+
+There were many, from small to large, of every shape a cauldron could be. Round, square, oval, and each one had a set of jade tablets that described what sort of pills or techniques they were best used for.
+
+The woman walked as Xing Ya Chen explained, though she seemed to be tuning out his voice as she looked around. Her eyes darted from one cauldron to the other, to another, and then another.
+
+Finally, after about five minutes, she stopped and pointed at a cauldron made out of a jade-like metal. It was round, had three legs and two handles, sparkling with a slight shimmer.
+
+“I want that one.” She said without allowing Xing Ya Chen to talk. He nodded, though when he saw the price, his face twisted a little.
+
+Thirty Top-Grade Spirit Stones and one fifty Medium-Grade Spirit Stones… that’s so much money, is she that loaded? The ingredients she ordered were expensive, sure, but they were for a Meridian Awakening Pill. The ingredients of a Peak Core Formation pill were not that cheap…
+
+“Understood, I will pack it up for you. I can also offer a bag of holding as a gift, if your Lordship desires it…”
+
+“That would be… not necessary.” The woman said after a moment of thinking, and Xing Ya Chen could only shrug in response.
+
+With that being said, they walked back to the front of the shop, and he handed the woman her note. She looked at it and frowned, which gave Xing Ya Chen pause.
+
+“Is there something wrong, Miss?” He asked, not sounding the least bit disrespectful.
+
+“No I was just… Could you tell me the price?”
+
+Xing Ya Chen looked at the woman with a dazed expression, but swiftly followed her request.
+
+"I see... I don't actually have any Spirit Stones on me..."
+
+Huh?
+
+His face fell, and he was about to rage, but he held it in. He wasn’t a fool, after all.
+
+“Then would you like to exchange for the items?”
+
+The woman nodded.
+
+Just as I thought.
+
+“Err… It’s a little complicated.” She said and searched through her sleeve. “I was hoping I could auction it off and pay with credit?”
+
+Xing Ya Chen could barely control his shock, for what the woman pulled out of her sleeve wasn’t something anyone should have been able to get their hands on. At least not someone at her level.
+
+He wasn’t sure if it was true; he almost didn’t want to believe it, but that aura was unmistakable…
+
+A fucking phoenix feather?!
+
+***
+
+“Oh, you have to be kidding me!” I almost cursed in front of the children upon seeing my reflection. I was a beauty for sure, nice face, nice hair, nice hands… but the rest of me was, well, less than perfect.
+
+I looked in a mirror as I stood in the living room, turning around and scowling with disdain. That was because feathers covered my body everywhere but the extremities.
+
+If the Jade Emperor could see me right now… he would die of laughter.
+
+Hm… Jade Emperor, huh.

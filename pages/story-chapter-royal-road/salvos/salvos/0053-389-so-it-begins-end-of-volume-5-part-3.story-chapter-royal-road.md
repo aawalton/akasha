@@ -1,0 +1,101 @@
+---
+id: 1dcce5c1-2e6d-587e-a5f3-eb8edeafef2a
+page-type-slug: story-chapter-royal-road
+title: "389. So It Begins (End of Volume 5 Part 3)"
+slug: 0053-389-so-it-begins-end-of-volume-5-part-3
+partOf: salvos
+position: 53
+ownLength: 1617
+unit: words
+publishedAt: 2022-07-21
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/953513/389-so-it-begins-end-of-volume-5-part-3"
+royalRoadId: "953513"
+---
+
+389. So It Begins
+
+Then it was the day of the meeting.
+
+The events that played out would be written in the history books. Told for generations to come. This was the most important single moment in this century— perhaps even in the entire millennia.
+
+Saffron Merryster was relatively well-read, having studied in Mavos Academy and all, and she couldn’t name a single moment in the past thousand years as important as this. There had been plenty of notable events, of course. For example, the company war between the Remembered Order Company and the Forsaken Company. That had been a complete disaster that resulted in the dissolution of the Grand Eastern Empire into the dozens of kingdoms that now made up the Eastern Kingdom alliance.
+
+There was also the formation of the Alterian League. There was the Isolation of the Elves. The rise of the United Dwarf Republic. The Orc Empress Invasion of the West that was repelled by the Rising Veterans Company. And many more.
+
+But a thousand years was a long time, so Saffron understood that many important things would happen over its course. Yet, something like this was unprecedented in this millennia. A Primeval Demon had burned an entire nation to ashes. An empire had been infiltrated and taken over by Demon saboteurs. An army of Demons would soon be crossing the planes.
+
+This could potentially be even worse than the last Demon invasion. Where the Immortal King Alexander sacrificed himself to fend off the Demon King. Back then, the Vampire Families were united— specialized in battling Demons. The entire Human lands rallied under a single banner. Under the Immortal Empire of Alexander. That was the only reason why they’d won. Even then, it was a pyrrhic victory. So… what chance did Humankind have now against the Demons?
+
+Saffron was unsure. Rationally speaking, the young Vampire was certain it was a lost cause. There was no Alexander. There was no united Humankind. The Vampire Families were barely even cooperating. If this upcoming Demon invasion was even comparable to what it had been in the past, then it would be the fall of Humankind as a whole.
+
+If only there were a [Hero] in this day and age… Perhaps, if all the nations in the Human lands came to an agreement, they might even perform a [Hero] summoning. Maybe that would be enough to stop the Demon King’s return this time.
+
+Or maybe, the idle thought crossed Saffron’s mind, there is already someone here who can do just that.
+
+She thought of a silver-haired girl. Someone who’d had a rapid rise to fame in the last few years. Even though she was only three quarters of the way through Diamond Rank, she was already standing on equal ground with Elites. She’d even drawn the interest of Helena Warshade herself.
+
+If Saffron didn’t know Salvos, she would’ve assumed that the silver-haired girl was a [Hero] in hiding. But in reality, it was quite different. It was almost ironic.
+
+Salvos was a Demon.
+
+So that was a lost cause. Sighing, Saffron Merryster whispered to herself as she strode through the gilded hallways of the palace of Alyras.
+
+“Regnorex is at the gates. We’re so fucked, aren’t we?”
+
+Her words were only heard by the person accompanying her. Zin Norwood walked alongside the young Vampire and smiled.
+
+“Saffron, I know I am not the one you want to hear this from, considering…”
+
+The former Matriarch of the Norwood Family gestured at herself. She was a [Druid], and as such, she was wearing traditional [Druid] garbs while walking in the palace— which meant she was clothed in rags and foliage. But she shook her head.
+
+“However, I ask that you mind your language. Not for the sake of propriety, but for appearances. Those that will be attending this meeting will judge your character harshly if you stray from their idea of nobility.”
+
+“I know, I know.”
+
+They reached the end of the hallway. There was an ornate double door waiting for them with maids and butlers lining the sidewalls. Saffron and Zin nodded politely at them, stepping through the doors as a manservant pulled it open. This was the conference room where the meeting was going to be held.
+
+It was starting to crowd. A hubbub was already building up as the buzzing of chatter grew louder just from Saffron’s entry. She looked around until she spotted her father. Nodding at Zin, she departed from the former Matriarch of the Norwood Family and seated herself with the rest of the Merrysters.
+
+She cast her gaze around the room. There was a long table, and while most of the seats were still empty, they were starting to fill up. Many of the guests stood and chatted with each other before the conference officially began. But Saffron recognized faces. She knew their names— their importance.
+
+The obvious ones were those she already knew. The heads of the Vampire Families. Crocus Merryster, Gannon Norwood, Anya Veridian, Bolton Crimsonfang, and their important family members were with them. Then there were those from the Helbir Plains. Rana Alyras and her father, Artik Alyras, the royalty of Alyras. There were also the delegations from the Helbir League: Peris Dolonia and Zolan Zaetya were two such individuals who stood out.
+
+There were also plenty of names that Saffron recognized but she didn’t know. For example, there was the [Archbishop] of the Den of Souls, Thorsten Siegfrid, who was representing the Council of Cremont as the [Archbishops] of the Sanctuary of Fauna and Sanctum of Elements couldn’t show up. There was Kaitlin Darkhelm, the Commander of the Vaun Qieur Empire’s Swordsguard Forces. Three of the Seven Councilmembers of the Eastern Kingdom Alliance were here too, including Lamarr of Traith— whom Saffron knew by the virtue of being Salvos’ friend.
+
+Helena Warshade, leader of the Rising Veterans Company, and the Great Tempest Archmage of Mavos Academy. Scarlet the Red Rose, one of the two successors of Mori Gladius as the current temporary leader of the Remembered Order Company. Laux Lionfist, one of the triumvirate leaders of Forsaken Company.
+
+There were many Elite adventurers. Many kings and queens and other nobility. Dignitaries and representatives from states all around the Human lands. Even Mavos Academy sent a representative— Veronica Adash, a [Space Mage] instructor— since Clayton Skyshredder himself couldn’t attend.
+
+And even more important figures had yet to show up. But they would come. They did come. A figure stepped forward as the susurration died down. An announcer spoke up, and the doors slammed shut.
+
+“Let the Conference of Alyras begin!”
+
+Closing her eyes, Saffron prayed. As discussion began, she hoped that they would come to an agreement. That, together, Humankind would pool together their resources and repel this Demon invasion, even without a [Hero]. Or— if that wasn’t possible…
+
+Well, Saffron couldn’t lie and say she wasn’t hoping that a certain someone would step in and be enough to do the job. The only problem was… Salvos wasn’t even here right now.
+
+As the meeting commenced, and Humankind planned for their future fate, not everyone was present. For example, Edithe Dawnrise sat with Hadrian in a tavern, chatting, enjoying themselves as a heavy discussion was being held in the palace a few streets away. It wasn’t that they didn’t want to attend the meeting— there was only a limited occupancy, and Helena Warshade turned them down.
+
+Daniel Song himself wasn’t in the city of Alyras. He was not too far off either, training— sparring with a brown-haired girl who offered to practice with him to make up for his misgivings with her. He wanted to get stronger as a [Hero], and Amanda wanted to get stronger to prove herself to him.
+
+Even further away from Alyras, in a valley at the center of a forest, was Salvos and Willy. The Demon and the Spirit weren’t enjoying themselves, and neither were they training to get stronger. They were preoccupied, running around and chasing after the newborn baby Wyverns they’d forced themselves to take care of.
+
+Salvos herself was doing it for the sake of a promise she made. Her pride couldn’t allow her not to follow through with her word— plus, this was a challenge, and she wanted to overcome it. Meanwhile, the [Will O’ Wisp] found himself… a purpose.
+
+And far, far off— where an empire was gripped by the claws of an invisible enemy— Levithus watched a stream of Humans march to their soon-to-be demise. They were being hauled off to makeshift prisons, kept in conditions worse than cattle where they would eventually die.
+
+But it was not without a purpose. Soon, Regnorex would see his dream come true. The only one who knew their plans, Belzu, was dead. There were no more hurdles. The only thing standing in their way was Humankind itself. The Dukes and Duchesses were going to ensure that the ritual did not go awry. Already, they were gathering around that foolish conference that was being held at Alyras.
+
+Levithus wanted to laugh. The Humans really thought that working together was enough to stop this. Shaking his head, the hulking serpent drew away from the balcony and regarded the Sword of Alexander hanging from a wall.
+
+He reached for it, ran a hand over it.
+
+“Even their greatest treasures are…”
+
+And he trailed off. Levithus narrowed his eyes. He swung it once, and there was no flash of light. The Primeval Demon’s eyes widened and he snapped the weapon in half.
+
+It broke with ease. And Levithus realized that his problems weren’t… all solved, just yet. His face twisted. He tossed the weapon aside and bellowed.
+
+“WRETCHED INSECT!”
+
+End of Volume 5 Part 3

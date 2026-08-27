@@ -1,0 +1,245 @@
+---
+id: 545ea44e-994b-5daf-8bb3-21d9641ac097
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TWENTY-EIGHT: Here-to-There VIII"
+slug: 0230-two-hundred-twenty-eight-here-to-there-viii
+partOf: super-supportive
+position: 230
+ownLength: 3094
+unit: words
+publishedAt: 2025-07-02
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2402156/two-hundred-twenty-eight-here-to-there-viii"
+royalRoadId: "2402156"
+---
+
+228
+
+******
+
+“Your breath smells like recovery sauna potion, and your face smells like bad breath.”
+
+“Thank you so much, Haoyu.”
+
+“You dress better for the aliens. Can I see the egg?”
+
+“This is usually more of an undershirt. I have a couple of pezyvas, too.” Alden passed his carved egg to Lute and leaned away from Haoyu. “The Bromelimas tree looks great.”
+
+They’d put lights on it but nothing else yet.
+
+Alden dropped his messenger bag on the kitchen table beside a partially eaten baguette and a concoction that looked like chicken tenders smashed up with butter to make a spread.
+
+Butter and ramen seasoning, he guessed, spotting a foil packet surrounded by bread crumbs. “Lute, you realize we have campus cafeterias where people make sane food, don’t you?”
+
+“If you think about it, it’s just a chicken sandwich with the filling blended,” said Haoyu, still making sniffing sounds.
+
+“I warned you that the face paint smelled bad so that you wouldn’t take a big whiff of me!”
+
+“What kind of egg is this?” Lute was holding it up and peering at Alden through the gaps in the carving. “Are you going to put a light inside? You should. It would make a sweet lamp.”
+
+“It’s from an o’odee. I haven’t thought about—”
+
+“What does the symbol on your face mean?” Haoyu asked.
+
+“I don’t actually know.”
+
+Haoyu gasped. “Did you crash the Nine-edged Stroopwaffel? Is that why you had to teleport here?”
+
+“I didn’t crash anything.”
+
+A few minutes ago, Alden had left the pavilion where the afterparty was revving up and walked to a neighborhood teleportation point.
+
+The end of the Artonan day had been hectic. Stuart, and other wizards who feared Stuart’s judgement, were still hard at work. The Primary’s son had come to properly bless houses in a manner befitting the generosity of his knights and his own sense of occasion. Half-efforts would not be tolerated.
+
+Alden had heard a couple of wizards commiserating with each other about having been caught up in the young peoples’ first major status exercise. Stuart wasn’t a fully qualified wizard, and neither were the others. But knights fell into their own category. They received privileges wizards wouldn’t until after graduation, and if they wanted to take on more adult responsibilities toward the ordinary class, too, who could argue? It was commendable behavior for their age and their station…it was just a bit unfortunate that they outranked their elders and therefore couldn’t be told to lighten up.
+
+So the volunteers were stuck misting houses and apartments while the ordinary class people enjoyed the party that had been launched late in the night. Leeter-zis had declared that it would continue through dawn so that he could incorporate the light of the new day into his spell.
+
+Alden had promised to be back before that. But for now he was here, on track to make it to MPE in twenty minutes.
+
+Think about what home means. No washing off the face paint on purpose. My thumb still hurts from shutting it in that cabinet at the last house. Emban seemed happy. What does inhaling blessed mist do to a person…so hungry but not for plain bread…now Lute’s sniffing me, too.
+
+He wanted to go be alone in his room for a couple of hours, to reset. But since he wasn’t going to get that, he’d just have to enter school mode clumsily. What’s my priority this afternoon, in this place?
+
+He was drawing a blank. But then Lexi came out of his room to see what the commotion was. The widening of his eyes and his total silence were grounding forces. They helped Alden to see what he must currently look like, having appeared just inside their front door a full Earth day after he’d left. His boots still had some desert dust on them, he was wearing a mystery symbol on his face, and Lute was offering to turn his o’odee egg into a lamp.
+
+“I had it in my head that I wouldn’t miss gym class today,” Alden said to explain himself. “So I came back early from the thing I’m doing on Artona I.”
+
+Lexi blinked at him.
+
+It was too late now to consider the reasons why skipping this MPE might have made more sense.
+
+I’m here. Prioritize. “Do I stink that bad?”
+
+There was the possibility he’d gone numb to the smell, and his self-confidence might not be enough to carry him into a group of forty teenagers if he seriously reeked.
+
+“The smell is disgusting!” Lute said merrily. “What if it never comes off?”
+
+“It’s nothing to worry about,” Haoyu said. “People won’t even notice if you don’t tell them.”
+
+Alden looked to Lexi for help.
+
+“If you’re worried that you stink, wash.” He spoke slowly, as though he suspected Alden was incapable of grasping too many words at once.
+
+“It’s not me. It’s the paint on my face. I can wash, but I can’t wash with the goal of getting it off because I’m an ingredient in an ongoing ritual type of activity.”
+
+Haoyu laughed.
+
+“No,” said Lute. “That kind of thing comes up on the Triplanets sometimes. It’s not your fault if you get caught in a situation with people being ritually peculiar because—”
+
+Prostration, thought Alden, raising an eyebrow at Lute.
+
+“—it happens to innocent, ordinary guys for reasons beyond their control. Of course…Alden went willingly, so he’s probably not innocent.”
+
+“I’m innocent. I just need a clear answer on if I smell putrid or not.” He turned expectantly to Lexi again.
+
+“I can’t smell you from here.”
+
+“You’re half an apartment away.” Alden started toward him.
+
+“I don’t want to sniff your face.”
+
+“You have to. I can’t trust Lute. He thinks the vacuum works by incinerating whatever it sucks up.”
+
+“You’d better be nice to me, Alden,” said Lute. “I have what you need to not look like a victim of alien magic.”
+
+******
+
+******
+
+The ten people called out for good behavior on Wednesday hadn’t been promised anything special today, only their usual amount of class time with fewer students on the floor. But even as they sympathized with friends who were upset about sitting through what everyone knew was going to be a lecture, they were hoping that they’d get to do something cool.
+
+They weren’t disappointed.
+
+They played a four-on-four game that involved stealing colored armbands from the opposing team, with the entire floor covered in moving walls and morphing obstacles they hadn’t seen before. No lethal injuries were allowed, and everyone had the chance to work with everybody else since Big Snake and Foxbolt were calling them over one at a time for individual discussions and then swapping their team assignments up when they sent them back.
+
+With all of them being rather aware of their inclusion in the friendly, mature group, they were doubling down on their friendliness and their maturity. The harmony and helpfulness was off the charts. Alden felt almost guilty about how much he was enjoying himself while Lexi suffered through whatever Klein and Marion were doing to the others.
+
+After all, Lexi had consented to having a mask of black feathers painted around his eyes by the swift and talented fingers of Lute Velra. He looked badass, and it solved the one flaw that often marred his impressive features. Lexi looking annoyed with you was a little scary; but Lexi, raven lord, looked annoyed in a way that called to mind a high-fashion photoshoot.
+
+Haoyu had his whole face painted with black and white badger stripes that he seemed to be loving.
+
+And Alden had dumb coral paint glasses with pink and red hearts on them, as he deserved for mocking the artist’s deficient understanding of cleaning equipment.
+
+What were they doing? Helping their roommate out with a project, of course. And if there was even a rule against it buried somewhere in the student handbook, it wasn’t being enforced. People had been walking around with “Anesidora Forever” scrawled on their faces for weeks.
+
+The only downside was that Alden still smelled, and he couldn’t blame the paint because Lexi and Haoyu didn’t suffer from the same problem. That was why he was trying to stay at least six feet away from everyone who spoke to him.
+
+The armband game suited his abilities. People running fast around walls and leaping over obstacles they couldn’t see around were relatively easy to trip, and if Alden was using his skill on an armband, it was impossible to steal with a simple grab. Opponents had to break his shield, without killing him, to take it. Or they had to make him think they were about to so that he’d sacrifice it for the sake of not being rendered useless for the rest of the class period. That was hard for the others to manage when he was backed by teammates.
+
+So far, he’d only lost his band once, when one of Max’s traps had made him a sitting duck for Ignacio, and Alden had decided it was an impractical moment to find out how many seconds it would take for Shrike to saw through Alden’s protective magic with his Meister knives.
+
+Other than that, he was doing well…currently at Haoyu’s expense.
+
+“Drop your shield, clown eyes, and fight me with your fists!” Haoyu said.
+
+“No thanks.” Alden was still grinning because he’d successfully stolen Haoyu’s purple armband, but he was also scrambling back to the place where Lucille should be so that she could save him from his roommate.
+
+His “shield” was the same broad ribbon he’d lowered in front of Haoyu like a high-speed parking arm as the Dura Brute charged through a gap between two block-shaped obstacles. Alden had gotten him across the knees with the flat side of the ribbon, then he’d lost preservation briefly because of his rush to leap to Haoyu’s sprawled body and snatch the armband without being caught himself.
+
+The ribbon had been re-preserved into the roughly “m”-shaped squiggle it had naturally formed while he was jumping around, and it wasn’t the most ideal protection he could imagine. If Haoyu didn’t like punching it a little too much, he’d probably have found a way past Alden’s guard already.
+
+Haoyu made a move to the left, then dove down and to the right, and Alden whipped his “m” to block.
+
+And managed it. And managed again.
+
+Protecting my burden. Protecting. Not striking. He hits me; I don’t hit him.
+
+He wanted to be a little stricter with his intentions while he was practicing, but today’s class didn’t seem like the right one for trying to recreate what had happened with Stuart.
+
+Rotating entrusters, low stakes, no magical authority friend boosting me…
+
+Lucille was here, though. She suddenly came from above and to the right, landing behind Haoyu. She wrapped her arms around Haoyu’s chest and jumped, carrying him up to the top of a white cube the size of a small house and holding him there while Alden raced toward the bucket where he needed to drop the armband to earn himself and his current teammates a point each.
+
+******
+
+“You’re moving well today even though you’re practicing without the wordchain…you are practicing without the wordchain, aren’t you?”
+
+“I’m not using it right now,” Alden confirmed. He’d seated himself in the floor at Instructor Foxbolt’s feet instead of beside her on the bleachers. Criss-cross applesauce like a kid waiting for story time. If she was confused about that, she hadn’t asked, so he didn’t have to think of a way to say he was trying to protect her from his stench.
+
+“Then you’re doing great!” Her voice was upbeat, but it seemed like more of an effort for her than usual. She wasn’t wearing her blue and orange eyeshadow today.
+
+She pulled up his info on a tablet and thumbed through it. “How are you feeling about MPE? Any specific concerns that have popped up?”
+
+He wondered if she expected him to say something about Reinhard since she’d been the one to send the archer out to the track after he’d lost his temper last class.
+
+“Nothing major,” said Alden.
+
+“What about minor?”
+
+“I am learning from one-on-ones in bare dueling blocks,” he answered after a few seconds. “For now, I’m finding ways to get something out of almost every duel. But if we do that format many more times, I don’t know if that will stay true. I’m not saying the class structure should change to suit me, but if we’re going to do that particular thing every class between now and the end of term I wouldn’t mind some more freedom with weapon selection.”
+
+“We’ll probably do them at least once more, but after Wednesday…maybe we’ll do them once more. It won’t be next week. Was there a specific tool you wanted to try?”
+
+“I just want to mix it up versus some people.”
+
+So that I die in less boring ways.
+
+She set the tablet on her lap. “I’m probably supposed to take this opportunity to say that pushing through the worst matchups with limited resources is a learning opportunity.”
+
+Alden waited.
+
+“It’s a learning opportunity,” said Foxbolt, her smile tight. “But there’s been more learning than any of us expected this term already. And actually…I’m not sure that monetary expenditure isn’t your natural right as a Rabbit.”
+
+“Um… ”
+
+“Some people are born to be S’s, and we give them extra classes just because of that. Other people are Rabbits, so maybe we shouldn’t hold them back if they want a million argold cannon.”
+
+I’m not misremembering somehow, am I? This is the same teacher who told me there was no point in practicing with guns until uni. Because winning with equipment does nothing to challenge our magic and encourage growth.
+
+“I meant, like, tape,” said Alden. “Or a roll of paper. Or some foam. Permission to use the ground tiles from the storage room would be cool.”
+
+“Right!” said Foxbolt, her eyes going rounder. “Of course. I was just…spitballing. Not giving you permission to bring a flamethrower. Definitely not encouraging you to spend a million argold! Or any amount of money. Buying gear is something you shouldn’t consider for ages, and only then after consultations…”
+
+“Instructor?”
+
+“Ignore my rambling, Alden. I’ll stop wasting your time. One of the things I wanted to mention to you is your rank club. It’s having its gym time cut for the foreseeable future. Did you get the message from Instructor Plim?”
+
+“No. But I haven’t been checking my messages today.” Too expensive to do that from Artona I.
+
+“Then I’m sorry to be the bearer of bad news. Luna will do something fun for you all, knowing her. But it won’t involve gym time next quarter.”
+
+The news wasn’t a shock.
+
+“And it hasn’t been announced yet,” Foxbolt said, “but the class clubs are going to be making some changes, too. I thought I should tell you about it because we don’t have a Rabbit class club.”
+
+“I am the Rabbit class club.”
+
+She chuckled. “You are. I was going to suggest that you join Adjuster club as an honorary member. It makes sense for a lot of reasons, but also…I’m one of the advisors, and I know we’ll be handling our reduced hours in a way that won’t cut you out. And Max will be there!”
+
+The other Adjusters in their class would be there, too. She was obviously trying to tell him he wouldn’t be a lonely B-rank if he came to hang out with them.
+
+“Thanks. That sounds like a good opportunity for me.”
+
+She picked up the tablet and looked at it again. “You’ve really made an amazing amount of progress since joining the program. I know it’s premature, but I’m excited thinking about what you might be able to do in seven years.”
+
+“Seven years?”
+
+“That’s about the time you’ll be getting your first job offers,” she said.
+
+Alden blinked. “Right.”
+
+Of course. Seven years. Job offers.
+
+“I know it sounds like forever at your age,” said Foxbolt. “But you’ll be stepping out into the real world before you know it. And all the training you’ve done here will have paid off, and you’ll be surprised how strong you are compared to most problems you face, even if your rank doesn’t automatically make people sit up and take notice.
+
+“What I’m saying is, I hope you aren’t feeling discouraged by the changes happening. Having your progress and effort rewarded with less opportunity while others get more based on rank is so unfair, but years from now, if you keep at it, you’re going to get where you want to be.”
+
+Where do I want to be? he wondered as their meeting finished up and rejoined the others.
+
+And what was the real world? And why couldn’t Leeter-zis have asked him to contemplate something simpler than home?
+
+The rest of gym was almost as fun as the first half had been.
+
+Ignacio let him hold a giant knife when he swapped teams. And Alden couldn’t find much worry in himself about the B-list club, or much anger at Winston, who rolled his eyes at him while running in at the head of the depressed group who’d had to miss the first hour of class.
+
+Jupiter gave him one heck of a look when she got several meters away, and Alden watched her watching him, thinking he should probably be alarmed.
+
+She could smell the paint and who knew what else on him. Not the scent of someone who’d been at school today for sure. Not the scent he had when he came straight over from Matadero either.
+
+Asking the System to enhance her nose might not have been as weird as I thought. It’s practically a spy tool, and she’ll be able to track people like a bloodhound if that’s what she wants to do.
+
+He was sure all of the normal school feelings would come back when he didn’t have spit paint on his face and a light coating of herbs and bone in his hair.
+
+When he got back to the apartment, he finally showered, taking care not to wash off the ritual mark, just to be sure he wasn’t breaking Leeter-zis’s rules. Pink and red paint ran down his face toward the drain, and when he stepped out, only the coral hook around his eye remained.
+
+Before he left, he tore a page from a notebook and folded a single paper star for their tree.

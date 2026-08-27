@@ -1,0 +1,21 @@
+---
+page-type-slug: artist
+id: 019ea415-e8fc-73be-bc29-1dc0adc80d55
+title: Taylor Swift
+slug: taylor-swift
+seq: 5027
+external-id: 20244d07-534f-4eff-b4d4-930878889970
+external-link: "https://musicbrainz.org/artist/20244d07-534f-4eff-b4d4-930878889970"
+source: musicbrainz
+last-synced-at: 2026-06-08
+genre:
+  - pop
+  - country
+  - country pop
+  - singer-songwriter
+  - pop rock
+  - contemporary country
+  - synth-pop
+  - indie folk
+rating: S
+---

@@ -1,0 +1,271 @@
+---
+id: 2fa38d33-ba21-533a-a759-bb949e4ebbed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 787 - Delegate Sensibilities"
+slug: 0790-chapter-787-delegate-sensibilities
+partOf: mythrans-master-of-all-continued-completed
+position: 790
+ownLength: 3077
+unit: words
+publishedAt: 2018-12-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312912/chapter-787-delegate-sensibilities"
+royalRoadId: "312912"
+---
+
+Everyone, even the ones that had been there and seen it firsthand, watched the display and listened to Ren as if in a trance. This lasted for several hours, and when Ren finally ended his deposition when the caravan disbanded, since that was where the relevant part of the story ended, everyone let out a sigh.
+
+That was kind of weird. Ren thought.
+
+“It really was.” The woman who sat in the center spot of the curved table said. “I've never been so engrossed in someone's words and thoughts before.”
+
+“Neither have I.” The man beside her said. “I also didn't detect any deceptions, lies, or even partial falsehoods.”
+
+“He gave us every detail, even things that he himself believed to be trivial.” A woman said from the end of the table. “Providing the...” She squinted her eyes for a moment. “...vee dee oh... evidence, wasn't necessary; but, it was quite welcome as both confirmation and corroboration.”
+
+“Agreed.” A man said from two seats away. “He has been both truthful and thorough in his deposition.”
+
+“His deep seated need to express sorrow and apologize is distasteful in someone so powerful.” A man said from the other end of the table. “It is an inherent flaw to an otherwise superb combatant.”
+
+“Agreed.” The rest of the 11 investigators said.
+
+“Further testimony is not needed from the other delegates.” The woman in the center spot said. “You may retrieve your submitted items from your designated containers.”
+
+The delegates went to the heavy sled and quickly stored the items they had procured during the caravan's travels and went back to their previous positions.
+
+“With that out of the way, the infractions that occurred in the caravan will be discussed.” The woman said. “King Ren, since the most serious one of attempted murder involves you, it will be heard first.” She looked at the side of the room. “Bring in the prisoners.”
+
+Ren deactivated the statue and two guards left the room. They were back less than a minute later with a wheeled platform and on it was the clear floor piece. Both Rimsoh and Mires were still attached to it with the unbreakable chains, and someone had given them chairs to sit on.
+
+“Before we get started, we would like to know how you managed to stop someone from dispelling the Unbreakable Chains spell.” The woman said to Ren.
+
+“I didn't, actually.” Ren said with a smile. “I simply piled Widen Effect and Permanency spells in a stack on them.”
+
+“You WHAT?!?” One of the male investigators exclaimed.
+
+“Each spell needs to be dispelled in order, until you reach the Unbreakable Chain spell. It can then be dispelled normally.” Ren explained.
+
+The man was shocked. “You... used up...”
+
+“It took a lot of Mana, and it worked.” Ren said. “I've been doing the same thing for any spell that I don't want dispelled right away. I learned that lesson the hard way when I made a magical wall to protect my county and it was easily dispelled and destroyed.”
+
+“How many spells...”
+
+“Most magic users need to stop after three or four attempts because they run out of Mana, so depending on the importance, I'll use anywhere from 10 to 50 stacked spells.” Ren said, and everyone caught their breath. “Even a group of magic users would be taxed to remove them all.” He felt the investigator's reaction to that and he smiled, then he looked at the unbreakable chains that held the prisoners and saw there were only 15 spells left. “I see that some of you already know that.”
+
+“Chaining up delegates before they were even charged is a violation of established precepts.”
+
+“Not laws?” Ren asked, and they didn't respond. “I didn't break any laws by confining criminals to be held for trial.” He said. “They know the penalty for the crimes committed and would have escaped long before arriving at the capital to face punishment if they hadn't been restrained.”
+
+The woman who sat in the center spot looked at the prisoners. “You may speak.”
+
+“It's all just a misunderstanding.” Rimsoh said as he stood and started to explain.
+
+Ren felt a wave of Mana come from him and cast Dispel, and the wave dissipated. Another wave came off of Rimsoh, so Ren kept casting Dispel to stop whatever it was he was trying to do. Rimsoh started to sweat from the exertion of casting so many spells so quickly, then he gasped and sat down.
+
+“Are you all right?” The woman in the center spot asked.
+
+“I... I'm fine.” Rimsoh said. “It's been a... difficult two nights.”
+
+“You don't dispute that you tried to blow up a delegate's carriage?”
+
+“No.” Rimsoh said. “I do dispute that it was attempted murder.”
+
+“He would have fallen and been trampled.” One of the other women said.
+
+“That was my intent.” Rimsoh said. “His Toughness is too high to suffer any damage from it.”
+
+Ren raised his hand, and the woman in the center spot sighed.
+
+“Yes?”
+
+“Ignoring the fact that he has been trying to influence you with spells that I've dispelled, it is possible that I wouldn't have been physically hurt; but, those with me in the carriage would have been, and possibly killed.” Ren said. “That would have hurt me emotionally, and I believe that was his intent. Not to mention he didn't consider that if the giant boars, who were travelling at a very high rate of speed at the time, tried to trample me and tripped, it would have at least hurt the boars and the drivers of the carriages. If the carriages hit me, they could have been easily damaged and possibly broken apart, which would have hurt and possibly killed the occupants.”
+
+Rimsoh stared at Ren in shock, and Ren stared back at him.
+
+“As you can clearly see, he didn't even consider the collateral damage that his 'lesson' could have caused.”
+
+“You have shown us the footage already.” One of the men said. “We will be the ones to judge what he did and didn't consider and what those consequences could have been.”
+
+“As long as you understand that...” Ren started to say.
+
+“I believe it is you that doesn't understand.” The woman in the center spot said and cut Ren off. “Both Rimsoh and Mires are vassals in your domain, correct?”
+
+“Yes.”
+
+“They submitted to you and to your authority over them?”
+
+“I suppose that could be true, if Rimsoh hadn't tried to...”
+
+“It's either true or not.” The woman said. “They bear your mark and are under your domain, are they not?”
+
+Ren knew where this was going. “They are.”
+
+“Then, since they are under your authority, it is you that will be held accountable for their crimes upon the citizens of the kingdom of Pervaria.”
+
+“They are also under your authority.” Ren said. “You should be held accountable as well.”
+
+“We no longer have direct authority over their welfare or their behavior, once you assumed that role and marked them.” The woman said. “We don't need to see the evidence of what happened when you became an Uberbeast again. Regardless of how it happened, it was you that was lax in your duty to keep a firm hand on your subjects and to stop them from committing crimes.”
+
+“I have hundreds of thousands of people in my domain.” Ren said. “You can't possibly expect me to police everyone's thoughts and behaviors!”
+
+“The rest of your domain's citizens don't concern us. Only these two.” The woman said and motioned to Rimsoh and Mires. “They were the only ones to allegedly commit a crime within the borders of this kingdom.”
+
+“Are you serious?” Ren asked and looked at all the faces of the investigators. “You're going to sit there and charge me with trying to kill myself and my Mistresses?” He asked, incredulous. “Why are you doing this?”
+
+“You can challenge the ruling after we've deliberated and decided the sentence.” The woman in the center spot said.
+
+“Actually, I'd rather just ignore this idiocy.” Ren said.
+
+“You cannot leave the circle when it is invoked.” The woman said with a smile.
+
+“Excuse me?” Ren reached out and touched an invisible wall. He still couldn't identify it.
+
+“We thought it was odd that it reacted to you, since it hadn't glowed of its own volition for years.” One of the men said. “It usually takes a ritual to invoke its dissemination ability. Your absurd Mana total must have called it into being and it won't let you go until your business here is completed.”
+
+“Who decides that?” Ren asked.
+
+“We do, of course.” The woman in the center spot said. “That is our purpose.”
+
+“Then decide to let me go and end this farce.” Ren said.
+
+“We need to...”
+
+“I've done everything required of me, and a lot more than that.” Ren said and interrupted her. “I'll use Rimsoh's excuses as a defense if you're not going to listen to reason.”
+
+“Now listen here...”
+
+“If I was stupid enough to try and teach myself a lesson by blowing up the carriage that I and my companions rode in, no one... literally no one... would have been hurt by it.” Ren said. “You saw what happened. I stopped time and got everyone out, put Rimsoh and Mires in my place, and they still weren't hurt.” He said. “I even repaired the damage to the carriage.” He looked at all their shocked faces. “If it was me and I'm responsible, then no actual crime was committed.”
+
+The entire room was quiet as Ren's argument rang true, and the investigators closed their eyes and listened, then opened them.
+
+“Unfortunately, you don't believe that.” The woman in the center spot said.
+
+“It doesn't matter what I believe.” Ren said. “If it did, I would have been blocking the mental probes you keep bombarding me with.”
+
+Everyone in the room gasped at that.
+
+“How... how did you know?” The woman that had taken the word 'video' from him asked.
+
+“I've been able to feel them for years.” Ren said. “I've also blocked them from much more powerful beings than you.” He took out his iron sword and it was still 20 feet long, so he reduced it to its normal size and held the point against the invisible wall and pushed. The invisible wall turned slightly blue as it increased in strength to hold him.
+
+“Are you trying to escape?!?” One of the investigators exclaimed in outrage and stood up.
+
+“No, I'm just testing it.” Ren said and stored the sword. “Teepo? Any luck?”
+
+“No, Ren.” Teepo said. “The barrier goes right up to the ceiling to another circle.”
+
+“Hm.” Ren said and rubbed his chin. “Any suggestions?”
+
+“Try a micro-portal.” Teepo said.
+
+Ren smiled and took out his 9mm handgun and pointed it right at Rimsoh.
+
+“STOP!” The woman that sat in the center spot yelled and stood. “You will not shoot that... whatever it is... inside the delegation chamber!”
+
+“Is it against the law?” Ren asked.
+
+“To kill someone with it, yes!”
+
+“I wasn't going to kill him.” Ren stored the gun and cast a half-size portal to just outside the circle. When he reached for it, he hit an invisible wall. “Interesting.”
+
+“You can't get out like that.” The woman said snidely.
+
+“Oho! Thank you!” Ren said and dismissed the portal.
+
+“Wh-what?”
+
+“You just told me the secret.” Ren said and held his arms out as he cast another portal under her feet and the exit appeared above his head.
+
+“AHHH!” The woman yelled as she dropped down through the portal and fell into his arms.
+
+“Hello, there.” Ren said and grinned at her.
+
+“N-no! No! It's not possible!” The woman exclaimed and scrambled to get out of his hold.
+
+“Easy, there.” Ren said and put her down gently. “There's no need to panic.”
+
+“I can't be in here! I CAN'T!”
+
+“Why not?” Ren asked.
+
+“Once the circle is complete, no one can leave it!”
+
+“You said that already.” Ren said. “What you didn't say was that no one else could enter.”
+
+The woman stared at him with wide eyes and turned to touch the slightly blue see-through wall. “L-let me out.”
+
+“I believe you said that your business has to be finished before you can leave.” Ren said with a smile. “Is there anything you'd like to confess, now that you're stuck in here with me?”
+
+“I... I'm not the one on trial!” The woman said and pounded her fist on the wall.
+
+“It seems to me that you believe otherwise.” Ren said as he felt her emotions and knew she was hiding something, so he took out a comfy chair and sat down.
+
+“Let me out!” She pleaded with her fellow investigators.
+
+“I thought you said that you were the one to decide when someone is finished?” Ren asked, and she slowly turned around to look at him. “Now, tell me what you meant by that.”
+
+The woman hugged herself and leaned against the barrier, then she slid down it to sit on the floor and whispered. “Until... your sentence is carried out.”
+
+“Let me guess.” Ren said. “Death.”
+
+The woman shivered and nodded slightly.
+
+“Well, it seems you now share that fate with me.” Ren said. “I wonder why?”
+
+“You brought me in here!” She exclaimed. “It's your fault!”
+
+Ren could feel her emotions and leaned forward on the chair. “You don't mean about what just happened, do you?”
+
+“You're too powerful!” The woman said. “You lost control of your Uberbeast for only a few minutes and you converted four of the delegates to your domain! Four of them!”
+
+“Why does that scare you so much?” Ren asked and took her hand.
+
+“It... it could have been all of them.” She whispered as she tried, fruitlessly, to pull her hand out of his gentle grip. “If Tatya and the others hadn't been on guard and fought your influence so much...”
+
+“I gained an attendant, and he's more than happy about me becoming his patron, in more than just name like he was to his old patron. That tells me that the others had actual patrons and weren't affected by my accidental display at all.” Ren said. “Eight of the cooks are also a part of my domain, as is one of the drivers; but, they don't need or want my involvement in their lives and I won't impose upon them.”
+
+“Those losses are inconsequential.” The woman said. “If you had taken control of our strongest fighters that were chosen to represent the entire kingdom, we... we would have been...”
+
+“I don't think anyone would have perceived the Kingdom of Pervaria as weak, even if they had submitted to me.” Ren said, now that he could feel her emotions directly. “Do you want me to prove it?”
+
+“Ren, no!” Teepo exclaimed.
+
+“It's all right, Teepo.” Ren said. I'm not changing into the Dire Werewolf again. He thought reassuringly to his friend and Teepo relaxed.
+
+“N-no, I... I can't... we can't...” The woman kept shaking her head.
+
+“Why?”
+
+“We've worked... so hard to... to...”
+
+“I'm not going to judge you.” Ren said in a soothing voice and gave her hand a squeeze as he poured good feelings into her through his Reassurance Aura.
+
+“We're not animals, okay!” The woman exclaimed, her confidence back in full force. “We fought to break free of our shackles! We are our own people! We don't want owners anymore!”
+
+Ren slid off the chair and knelt in front of her as he felt her frantic and desperate emotions, then gave her a hug. “I don't want to own you, either.” He reassured her and let her go. “Even my concubines... my Mistresses... don't have to follow the rules set out for that position.”
+
+“Wh-wh-what?!?” The woman stammered as she stared at him.
+
+“Like I told Dilseffa's father last night, I lifted and changed their restrictions.” Ren said. “Even though they accepted the position and I accepted them in return, being my concubine isn't what defines them.”
+
+“But... but...”
+
+“I'm not like the other patrons that use, and possibly in some cases abuse, the members of their domains.” Ren said and took her hand again. He felt her flinch and try to hide her emotions. “Can I ask you a question?”
+
+“N-no.” The woman whispered, and he smiled.
+
+“You killed the one that held your mark, didn't you?” Ren asked.
+
+“I... I...” The woman's eyes filled with tears and she tried not to answer; but, the circle pulsed and she shivered. “Y-yes.” She admitted. “He was a sadistic bastard and he... he...”
+
+“Shh.” Ren said and took her into another hug. “You don't have to give the details.”
+
+“I... I do. I must!” She exclaimed, and hugged Ren back tightly and told him everything. All of the things her old patron did to her and the other women in his domain. How he thought nothing of them and how he had taken both married and unmarried women, then their sisters, their daughters, and in one case a granddaughter because he wanted to complete the set.
+
+“You couldn't take it anymore.” Ren said and kept a hold of her, even though she tried to let him go in the middle of her story.
+
+“No! I couldn't! The granddaughter was the last straw!” The woman exclaimed. “She had just become a woman and he hurt her so much! It was her first time and he ruined her!” She cried. “I couldn't let him do that to any more women.” She tried to push Ren away again as more tears poured down her face. “None of the others wanted to go against him, because he was so powerful and would ruin their families if they did; but, I didn't care!”
+
+“It was just you, then.” Ren said, and she nodded slightly.
+
+“While he was distracted by pleasing himself, I took one of his prized maces and smashed the back of his head in.” The woman said, and her tears slowed and stopped. “He fell unconscious and I pulled him off of... well, it doesn't matter.” She said. “I didn't stop. I hit him and hit him and hit him.” Her face turned feral as she relived the event and Ren felt her emotions. “I wanted... no, needed... to make sure that he would never touch another woman again. I beat him until I crushed his skull and his face caved in.”

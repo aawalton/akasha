@@ -1,0 +1,167 @@
+---
+id: d3f73b7c-faa7-5ac2-ad9c-8918dd41f324
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12"
+slug: 0012-chapter-12
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 12
+ownLength: 2307
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3476688/chapter-12"
+royalRoadId: "3476688"
+---
+
+“This map is shit!” Nix burst out. She stood over Ciara, who was resting on her haunches in a way that made my knees hurt.
+
+Ciara’s matted hair hung over her form, nearly obscuring the map.
+
+I hung back, because… well, they were maps. What the hell would I know? If it wasn’t a navigation app, it wasn’t going to do me any good. We’d been walking for an hour and a half now, and had yet to spot any enemies to attack. We’d seen Collectors hard at work on extracting resources from the ground, bushes, even chopping down the occasional scrawny tree. Three times now, we’d also seen other groups in combat with beasts of different kinds. But we’d spotted nothing that we could claim for ourselves. Except for my very first skill.
+
+You have earned a new general skill:
+
+Endurance
+
+Passive skill
+
+You are no stranger to toil or long hours watching your stamina slowly drain. Every level in Endurance will marginally reduce the stamina consumed by non-talent use.
+
+All of us had gotten it at this point. Only, for me, it would have a fifty percent increase, making my life comparably easier. I looked forward to all of us getting it a bit higher – especially Nix, who was slowing us down, complaining at the pace.
+
+Honestly, I’d expected Elio to be the slowpoke of the group, but he soldiered on, one hand on Ciara’s arm, with no complaints. Meanwhile, Nix was complaining about everything. Being out of breath. Her shoes. The mud. How we were practically running. At one point, Haddock even carried her for a while.
+
+After a brief moment of silence, Ciara grimaced. “No. The map is decent. The issue is the competition.”
+
+Elio added, from behind. “Ciara is right. It is only logical.”
+
+Nix snorted. “What’re you on about, Gramps? You can’t even see the map?”
+
+“Is a modicum of cordiality too much to ask? I do not demean you when I address you, do I?”
+
+“Except when you act like I’m a piece of gum stuck under your shoe… but okay, di Fiore. What do you mean?”
+
+“We are undergoing the largest civilian exodus since the Age of Discovery, when Europe aimed to take over the Americas. Yes, the issue of the positioning of Portal Home back on Earth as well as the bickering for positioning and favoured access slows the process down somewhat, as does the mortality rate among our kind. Yet, we are as ants, having discovered a picnic blanket filled with sweet treasures. As such, any maps will become rapidly outdated, any information targeted by dozens of groups the moment it is returned to camp. The competition will only increase.”
+
+“Well… okay.” Nix grimaced. “What should we do then?”
+
+“What they did back then, of course.” I grinned, adding my two cents. I’d been mentally prepared for this anyway. “Go in blind. No offense, mate. We aim for one of those blank spots on the map. Hope we don’t stumble onto monsters that are bigger and meaner than us.”
+
+For a second, the world was put on pause, as yet another one of those not-screams tore through everything.
+
+I shared a glance with Haddock, who shuddred.
+
+Elio bared his teeth, but ignored it, like most other things he didn’t care for. “Just so.” Elio added with a lazy wave at me. “We do not wait around for the leftovers from others. We go out there and pave our own way. Unless you would rather build a castle first, and hope the enemies come to us?”
+
+Nix stared at him, loathing unhidden in her expression. “Just try to keep up, Gramps.”
+
+An hour later, we were staring out at… something. I wasn’t quite sure what. We’d crossed an uneventful stretch of mud and tired grassland. Ciara and her impressive Perception insisted that the far reaches held tons of wildlife that the rest of us couldn’t see, including several bipedal figures. She said she thought they were all human. But now, we’d found something.
+
+Before us lay a watering hole. At least, that’s what I’d have called it if I spotted it in a wildlife documentary. Only, where those silver and black capillary-like things usually stretched in random directions, here one of them circled the entire way around the watering hold, before grasping on to itself.
+
+“Anybody know what those blood vessel thingies do?” I asked. “Besides looking like they’ll come alive and make you relive some tentacle horror nightmare, of course.”
+
+“Blood vessel thingies.” Elio’s face scrounged up in distaste. “Ciara, please inform him what you were told.”
+
+She grimaced. “Good news? While they look horrid, especially with their unknown origin within that far-off canyon, they’re inert. Bad news is, they’re not entirely dead. Some life Mage, whatever that is, reported he could feel the residue of life within. Also, those tremors that mess with our heads? That’s where they come from.”
+
+I shared a look, first with her, then with Nix and Haddock. “Did we just cross over into Cthulhu territory? Sure feels like it.”
+
+“Not likely. They’re petrified, or close enough. Apparently, some Collectors mine materials from the capillaries.” Ciara’s otherwise passive face shivered in distaste.
+
+“Okay. Okay. We’re going to act like those things definitely aren’t going to wake up and try to slaughter us all. But then what the hell are those?” I pointed at a bunch of vividly coloured growths attached to the tentacle-like things.
+
+“They.” Ciara said, and got up. She started windmilling her arms, and cracked her neck. “Are prospective targets. Core Leechers, apparently. Levels 4 through 12. Try to look at them more closely.”
+
+I squinted at the tiny, red-and-black striped things. Again, my imperfect eyesight wasn’t doing me any favours here. At this distance, they looked like oversized cabbages with legs who’d decided that the Mad Max colour scheme was the best sort of camouflage.
+
+Suddenly, a notification emerged.
+
+You have earned a new general skill:
+
+Identify
+
+With enough care and practice, you will never be taken by surprise by your surroundings. Every level in Identify will improve the chance you have for earning information about others, monsters and people alike.
+
+In addition to the skill, another descriptor appeared.
+
+Core Leecher. Level 8
+
+Further information locked
+
+I blinked in surprise. That meant with further increases, I’d be able to not only see monster levels, but also additional information? Sweet!
+
+Nix squealed in joy. “I love that! Okay. Thanks, Cee! Let’s see. There’s… six of those?”
+
+“Eight.” Ciara countered. “There are two half-hidden by grasses on the west side of the lake.”
+
+I whistled softly. “How can you even see that far? For me it’s just blue blur, brown blur, blackish taller blur.”
+
+For the first time ever, I saw something akin to a smile on her face. “Path of Perception.”
+
+Nix beamed. “Oh. Wait. Now I see them. Erm. How do we do this, then?”
+
+We bickered over the approach. Elio wanted to just cover the area with his spell while Ciara fired arrows, with the rest of us ready to act, in case it wasn’t enough. Nix and Haddock wanted to fully prepare an area in case things went south. I… was hyped enough I was barely listening.
+
+“Would you pay attention? Since these fools are refusing to listen to reason, your vote will actually count. Where do you stand?”
+
+I blinked and turned away from the Core Leechers, realizing that they were all staring at me expectantly. “Where do I stand?”
+
+Elio spoke through clenched teeth. “Are you a simpleton? Need I speak in shorter words? Yes! Where do you stand? We are perched on the cusp of greatness. Yet, these fools believe we should spend ages preparing and discussing, rather than engaging and starting our pathway to power.”
+
+“Huh. I actually agree with you? That’s a first.” I smirked. “Can’t wait to get this show on the road.”
+
+“So you are capable of rational thought? That’s-“
+
+“Don’t be an idiot.” Nix interrupted him.
+
+“Oh, do be quiet, scema.”
+
+The short woman walked straight up to the Italian and snarled. “I don’t know what you just called me, and I don’t fucking care! Now, listen. I can’t wait to get going either. All your blathering is making my head hurt.”
+
+He sniffed, contorting his face like he was smelling something foul.
+
+Nix continued. “But the thing is. We haven’t got a damn clue yet. You know why so many people die in here? I don’t either. But odds are, it’s because they jump into the deep end without preparing properly. It’s our first goddamn fight. We have no clue what those things can do, how tough they are, or even how powerful our own talents are. So, how about some fucking caution, just this once?”
+
+I snorted and looked at the others. Haddock was softly nodding, clearly used to going along with whatever she said. Ciara was looking to Elio, but had a conflicted look on her face, as if she wanted to disagree with him. “Okay. Nix convinced me. I hate wasting time. And I’ve always leapt straight into the deep end. You know where that got me? Fucking Sunderland. Nobody likes fucking Sunderland. Let’s do a bit of extra prep, until we actually know just how tough a Level 12 creature is.”
+
+Eventually, with a bunch of bickering, we agreed to an overall plan and circled around to the western end of the lake, where Haddock got to work summoning constructions. Ciara stayed on the eastern end with Elio to begin with, watching out for any arrivals from the Ever Steady who might rush in and steal our kills.
+
+I stood around, feeling entirely useless. I’d performed my warm-up routine, ensuring that I was ready and now, I was just… getting bored. Books were never like this. The protagonist would raise his sword, yell an inspiring speech, and they’d charge in. Meanwhile, I was here, waiting for the others to finish everything, with little input or say.
+
+Haddock and Nix spent a while discussing, then got to work. Ciara had located a spot for us that hopefully should earn us an advantage. She estimated that she should be able to hit a distant Core Leecher and hopefully end it without the others being alerted.
+
+The muddy plain gently sloped downward to the lake, with little enough in the ways of foliage that there was no fear of any hidden, ugly surprises. Now, the podcaster duo went to work adjusting the open area to heavily favour us.
+
+To being with, I was intrigued. One moment, we had mud, soft enough that it hinted at recent rain, sparse yellow grasses standing ankle-tall, and the occasional small boulder. The next, a three-meter-tall wall appeared at an oblique angle, cutting off part of our view. Except… well, there’s a reason people only clap for the first dig of a groundbreaking. Because watching repetitive actions gets boring right quick.
+
+Haddock took breaks between each section of wall. Not because it tired him out, but because he spent a ridiculous amount of time investigating the angles, the soil and all sorts of other things that looked utterly irrelevant to me. Nix, meanwhile, looked at him with eager interest, as if it was the most amazing thing she’d ever watched.
+
+Fifteen minutes later, I was about to keel over from boredom, as a shouting voice broke me from my reverie.
+
+“Chin up, Liam! We’ve got incoming!” Ciara was jogging toward us, bow in hand. Slowly, because she had Elio holding her arm and running along.
+
+I hefted my shield and perked up. “Enemies?”
+
+“Worse. Humans. There’s another group marching up from behind. We need to attack now, or they’ll steal our kills.” She slowed down and addressed Nix. “Are we ready?”
+
+Nix nodded firmly. “Expanding the wall to make sure they don’t circle around would be nice, but… it’ll do.”
+
+“Good. Get ready. I’m hitting the first ones.”
+
+We followed her and Elio down the gentle slope which, by now, had been entirely transformed. Before, we were able to take in the entire lake. Now, we were moving through a three-meter-wide, fifty-meter-long tunnel. Just ahead, it opened up as the walls angled outward on both sides, slowly angling out further with each consecutive wall. Effectively, it created a wide-ass funnel that would allow any surviving beasties to run straight at… well, at me.
+
+Ciara left Elio behind at the edge. Then she raised her bow – a simplistic thing, but elegant, looking every bit like it’d come straight out of Robin Hood.
+
+It looked to me like it should be hard to draw. Yet, the woman who otherwise looked like a blend between a hurricane survivor and a homeless person transformed into a vision of grace and control as she drew, nocked and loosed arrows, one, two, three times in succession.
+
+Standing in a loose group right behind her, we watched the arrows fly high and then descend… at three different Core Leechers.
+
+“Ciara!” Nix said with growing tension. “I thought you’d be trying for just one?”
+
+“No time! Either we attack now, or we lose them all.” Ciara grunted, raising her bow and releasing again.
+
+The first arrow was flawless. It descended like the punishment of God, struck dead centre into the Level 4 Core Leecher and pierced right through. The next Leecher was a dozen meters over. The arrow missed it by a hair’s breadth, bouncing off the rocky material of the black and silver tendril.
+
+The third arrow hit its target, just a bit off-centre and bored its way in. The Level 8 monster, shook, murky liquid spurting from the wound. Then it stretched and screeched, a shrill, ear-piercing sound breaking the silence of the plains.
+
+With that, every single one of the monsters awoke and attacked us.

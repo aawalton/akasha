@@ -1,0 +1,191 @@
+---
+id: c12cbbf1-fab1-5971-8b4f-987462e7a1dd
+page-type-slug: story-chapter-royal-road
+title: "438 Adoption"
+slug: 0556-438-adoption
+partOf: path-of-the-deathless-book-4-completed
+position: 556
+ownLength: 4677
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3844522/438-adoption"
+royalRoadId: "3844522"
+---
+
+Suffer the Implacable Dialectic ranks among the most oppressive Rhetoric Skill Evolutions recorded on Integrated Earth.
+
+It inflicts a sense of claustrophobic isolation—creating a sort of mana chasm that traps both the speaker and their listeners in a narrow one-way valley that amplifies the speaker's voice and passions until it becomes akin to a deafening wind, further buffeted by heavy rhetorical impacts. This Social Skill is devastating and vulgar in direct application, but also can be subtle and instrumental in communicating over long distances. It is active so long as the speaker focuses on the skill, and thus can carry their words over vast distances even without Psychomancy, provided that someone can hear them at all.
+
+But this effect extends beyond their voice, for if one possesses Psychomancy, then it can serve as a rhetorical medium as well, effectively ensuring that there is no escape from the implacable dialectic to come. With the devastating emotional and moral effects this skill can inflict, the skill finds much popularity among the Challenger's orcs or the various Incubi races who sell their services to the highest bidder, becoming swords of mercenary diplomats and shadow fixers for entire civilizations.
+
+Where this skill truly shines, however, is if the Pathbearer already possesses a potent Intimidation-related skill. This allows the user to massively amplify the scope of their Intimidation. The isolating effect of the implacable dialectic makes the listener feel as if they must contend with the speaker alone. This then supercharges the effects of intimidation if one lacks the proper psychological fortitude to withstand the rhetoric assailing them, and thus leaves them vulnerable to more forceful manipulation. As such, certain awakened monster lords such as Aildur the Sea-Drinker have found great worth in the implacable dialectic; worth beyond mere intimidation, in fact. There is much to be learned from an adversary if you can separate them from their masters and speak with them directly. People are most willing to part with secrets, after all, when properly pressed.
+
+—Encyclopedia Apocalyptia: Suffer the Implacable Dialectic
+
+438
+
+Adoption
+
+Skill Evolution: These Words of Truth and Adoration (Adept) > Suffer the Implacable Dialectic (Heroic)
+
+Suffer the Implacable Dialectic 102
+
+Feats: [7/13]
+
+As Shiv's Skill Evolution took hold, the unattuned mana that fueled his Rhetoric pulled on the displayed vulnerabilities of the Jotun gods and the Pale fused to them, drawing more and more of their impulses and emotions in his direction.
+
+A hint as to how his Rhetoric now functioned came as the world became narrow. He felt like he was standing at the top of a summit, or perhaps on an elevated end of a ravine, with an invisible crevice leading to the Jotunn gods, with walls to both their sides, making them unable to turn away from him or ignore his words. They felt it in an instant. He read it in their body language: they tensed, and even the cold winds went still.
+
+They clearly expected some spell or strike to follow, but when none came and Shiv spoke on only after a few moments of silence, they realized it; his Rhetoric had evolved right in the middle of this conversation.
+
+“You see it now, don’t you?” Shiv said, his voice loud and confident, but then again, the volume was utterly unnecessary now. His skill caused his words to flow down that chasm, bridging him to the Pale with no apparent way for it to avoid him. More than bridging him, however, it isolated each of his subjects. He could feel them in four parts: the Child, the Warrior, the Crone, and the Pale. All of them pieces to a greater alloy, but individual consciousnesses nonetheless. “You see the actual threat I pose, the absurd rate of my growth. And you see that I'm not like the Tarrasque. Not nearly. It has the mind of a child and is obsessed over a singular thing. Me personally, I've been trying to be a little broader in my thinking. And now, I'm going to paint you a picture of what’s to come.”
+
+“A picture?” the Crone whispered.
+
+“Another lie,” the Pale hissed through her, though its response was more emotional than rational. It feared what he might inflict upon it through his Harbinger, but unless it deafened itself and deadened its thoughts, there was no avoiding his words—even mutilated of hearing, it still had a mind.
+
+Awareness was but a poisoned pill when it came to Shiv.
+
+Shiv shook his head. “You might wish it was, but not. You can see it right now. No one else evolves quite as fast as I do. You give me another month, maybe I'll have another Legendary Delve along with a whole bunch of other Skill Evolutions. Now, you might be thinking, maybe the solution is to wait until I'm Delving and then come for me. But to get to me, you'll have to get through Gate Piety, and in a month, who knows where the Gate might be in its own evolutions. More importantly, though, my last few Delves were all under a few days—time isn't your ally. Force isn't your ally. Frankly, one of your biggest problems is that you have no allies. Lord Scorn? Yeah, sure, you share a hatred, but I don't think he cares about you. Neither do Compact or the vampires. I hope you're not stupid enough to do what I did and sign yourself over to the Challenger anyway, because he's just war, and war doesn't care. War just burns."
+
+Shiv sniffled as he regarded the unmoving frost around him. “Let me assure you, the Challenger isn't the Republic. The Challenger isn't going to stop. The orcs will keep coming and coming and coming until they overrun even your lands. You might fight alongside them for a while, but they'll use that time to learn about you, and then you'll have a lot more than just me to worry about. Truth be told, I understand why you did what you did. The Tarrasque went passive when it got to your land, probably developed some kind of Cooking skill, and fell into that obsession, so you took that opportunity. Maybe it was your plan to invade the Republic through Gate Piety as a potential flanking option.”
+
+He chuckled as he felt an Inland Embassy form within the Child's mind, and then the pale Crone’s thereafter. Only the Warrior endured, if only out of stubborn obstinacy. For that, he had Shiv's grudging respect to some extent. He liked the fighting kind—stupid or not, there was something beautiful about dying with steel in hand and hatred in heart.
+
+And at that thought, the Warrior took a step forward, glaring down upon Shiv. “You claim that we have no allies, and so you offer us a seat of representation in your supposed neutral city. You want to buy the Tarrasque through political favor and treaty?”
+
+“No, you got it wrong. I'm not buying the Tarrasque from you. I'm taking it. That's a service on my part. You're going to pay me to do it because, alternatively, you're going to have something that's very, very frustrated about not being fed anymore."
+
+Shiv spoke, the Implacable Dialectic proclaimed, and the Trespasser fed. His words inflicted defeat in detail through conversation, for this new evolution distinguished on an individual basis, and all of his victims felt his pressure alone. His Dread-Tainted Feat was fueled evermore by the oppressive nature of his new Rhetoric. Cold spots of black dripped from the shapeless presence of the Pale, dotting the crown of the Crone, painting the scarred, dark blue skin of the Warrior, and spilling free from the hollow sockets of the Child's missing eyes.
+
+Shiv smiled, and he aimed his joy like a spearhead against his foes. "I'm sure you're aware there's another version of me, still inside the dimensional enclosure, currently burning bits of my own mana and feeding that to the Tarrasque. I assure you there's no way you can replicate the taste. Now, it's not the best food I've ever made, but considering the Tarrasque has been eating nothing but fried slop it's been making for itself, and you guys foolishly allowed it to gain proper culinary experience… I can't imagine how happy it'll be if you banish me from these lands without letting me take it off your hands.”
+
+Though the Pale tried to hide its apprehension, the dread and null grew thicker as the dark began outstripping the white. They began as small patches, which then congealed into thick clumps of darkness before spreading, connecting to one another as a pall of shadow fell over the Jotun gods and usurped the Pale’s namesake.
+
+“It's too late for anything else to happen,” Shiv continued. He folded his arms and shrugged, for he was truly nonchalant about how things were going to turn out. Now, if they refused to surrender the Tarrasque, then he would do something unreasonable; he would use his on-site vessels to tear open the dimensional enclosure and set the beast free. Afterward, whatever the North suffered would be the North's lot, and Shiv would leave them to their fate—and then reclaim his Tarrasque afterward anyway, by luring it via slices of food.
+
+The Child seemed to glimpse this possibility via the gleaming orb of Divination socketed at the center of its misshapen skull. “No, this cannot come to pass. The pieces of the moon must be preserved. The North must be preserved. We cannot suffer this. We will not suffer this. We must guard our home. We must guard our home…”
+
+“Peace Child, peace.” The Warrior and the Crone spoke as one, becoming momentary parents as they brushed and consoled the third god in their pantheon. “It will not be so. We will not allow such a future to transpire.”
+
+“I won't let such a future transpire,” Shiv rebutted, but agreed at the same time. "I got no interest in destroying all of you, not right now, anyway. Down the line, we need to talk about your slavery habits and some other things you do, but your civilization doesn't need to die over this. You can still live. You can still have another chance at another day. You can have one acquaintance more instead of one enemy greater. So. I said my piece, and you know where we all stand. More than that, you know what might be waiting for you on the other side of this decision, but I'm not gonna rush you. I'm gonna give you some time. Now, how much time really depends on my patience, but you'll have some time to discuss amongst yourselves—or at least enough time for the Pale to tell you what to do.”
+
+He gestured at the cold with a casual flick of his wrist and snorted. “But you better think thoroughly about this. And you have to know that I'm being more than reasonable right now, especially considering what you planned to do to me and my gate before. Anyone else would've torn that enclosure open, and I can do that. I have that strength. I have the expendable lives. I'll keep coming and coming and coming like a nightmare that won't go away. But I got better ways to spend my time and better uses to burn my lives, so don't make me unreasonable. Let's choose to be pretend-friends rather than actual adversaries.”
+
+With that, there wasn't much more that needed to be said. He could continue layering on bricks of argumentation, creating a rhetorical edifice that would take hours to tear down, detail by detail, but that wasn't what mattered here. No, he presented himself as an existential threat, but a reasonable one. He could be an apocalypse, or he could choose to be affable. And then he did the most cruel thing he possibly could: he left the choice in the hands of his enemy. If they were to choose wrong, then a portion of the blame, when it came to the death of their home, would reside upon their shoulders forevermore, souring their hearts and minds—becoming a perfect vulnerability for him to exploit if he actually had hurt them via his Harbinger.
+
+But while he reveled in his near-certain triumph over the gods of the North, he felt something odd—another, narrow channel of pressure.
+
+A valley of Rhetoric was pointed in the opposite direction of the tripartite god of the North, to someone else entirely, someone who was no more than five steps behind him.
+
+With a startled shift, Shiv spun and found himself facing a person, their presence faint, almost imperceptible to his senses—thin on vitality, nigh-invisible and intangible, but ultimately there nonetheless.
+
+The hidden presence wasn't Valor, or anyone Shiv had met, however. It was someone he didn't recognize. The stranger was clapping their hands with open glee, appearing as a girl a few years younger than Shiv, and sporting a long, many-layered dress entirely black in color. A silver crown rested upon her head, and her long, blonde hair was so straight it gave Shiv the impression of a prim Lady of a noble house.
+
+But her face was entirely blank.
+
+It was stripped of all organs and contours; no eyes, no nose, no mouth, no eyebrows, and no ears besides.
+
+The strange voyeur was, in simple description, faceless, and as that word came to mind, Shiv understood who was watching him.
+
+“Well, that's a pretty sneaky skill you have there,” he muttered. He strangled his discomfort and held a blasé posture. If the Faceless Queen felt his emotional discord, she didn't comment on it.
+
+Instead, she simply grabbed the sides of her dress and curtsied politely. “It's only a bit more impressive than your new Skill Evolution. But honestly, I like your Harbinger the most! I really like skills that are born out of desperation and genuine struggle. It's, to give you a metaphor related to your favorite thing, like boiling something for hour after hour, until it's heated just right, simmering in good.” She made a loud slurping noise. Despite her lack of mouth, her voice physically reached his ears, or at least it felt like it, but far stranger yet was how it distorted and shifted, changing in terms of pitch, tone, and cadence with almost every word. Her demeanor adjusted as well, as did the dimensions of her body. Every few seconds, her nature seemed to shift, and her personality adopted subtle changes as well.
+
+And while Shiv spoke to her, it seemed the Jotun and the Pale either knew and accepted or were completely unaware of her presence. Shiv suspected it was the latter. He couldn't imagine the Frost Giants being so kind to a foreign ruler invading their lands, even if it was to observe the Deathless.
+
+“Or perhaps it was us who brought her here,” the Harbinger suggested. And he had to admit, it was the most likely outcome. He'd been interacting closely with an agent of the Stolen Throne ever since he was placed in the Rubix Well, and New Albion was known to be a nation that cut its teeth on subterfuge. After all this time, allowing so many agents of Aviary to flood into their gate, if only to bring them closer and keep things contained, any one of them could've tagged Shiv somehow, providing the Faceless Queen with the means to follow him wherever he went.
+
+But then, the Faceless Queen suddenly shook her head, long hair dancing from side to side. “It’s not Five. He’s too obvious. But if you can guess how I shadowed you, I’ll have a special reward for you! And since you’re being so very nice to the giants, I’ll be nice as well: I’m giving you until the Incursion arrives to figure it out.”
+
+“Why until then?”
+
+“Oh, because if things go the expected way, we won’t ever get to talk again.” She held a hand in front of her blank face and giggled. “You have no idea what kind of fate you’ve inflicted on our little world. Though it's really not your fault. It's just that Udraal doesn’t care about the costs, while the System wants the struggle above all, and so this was fated to happen. Maybe in another few hundred years instead of one. Maybe with someone else serving as the central feedback loop for our dimension’s collective strife. No way out for most—but some of us already have our golden tickets bought, and now we just can’t wait to see the show.”
+
+It was at this point Shiv decided he didn't much like the Faceless Queen. She was being cryptic in the way a kidnapper might play mind games with her victims. Still, he held his calm. Biting or barking at her would result in nothing. Her presence here was so faint that he doubted he could strike at her or do little more than drink away what paltry flicker of vitality she expended to manifest in her intangible guise. He countered her offer with one of his own, because you needed to face your enemy down on symmetrical theaters of battle, and hers was a most social domain indeed.
+
+“Well, with you reciprocating my niceness so courteously, I think I’m going to give you a chance too: consider yourself invited to Gate Piety. Come down, and we can talk about things face to… no-face.” The way she constantly shifted kept disturbing his Harbinger and Implacable Dialectic as well. Her emotional core warped and transformed with each personality update she experienced as well, making her more of a psychology shifter than one of pure material shape. “I'll even throw in a free meal at the Sky-Swallowing Carp so we can discuss things like proper adversaries.”
+
+The Faceless Queen just giggled again, each beat shifting up and down in tone. “I have always admired your ambitions, but despite your raw talent and your ability to push and prod and bully like few others, I'm afraid that you're still missing out on the larger picture. You're a pretty big piece, and there's a fire spreading out from you, burning up the grid, but you're still not seated at the table. You don't even know who the players are or what you're being used for.”
+
+“But you do,” Shiv concluded. “Let's talk business. What's it going to take for this piece to buy a seat at the table to play the game?”
+
+“So bold. So forward. So different from all my little birds.” The Faceless Queen sighed. “But I like it. I think I like you in a way inverse to how you feel about me.”
+
+The keenness of her insight sent a stabbing pain into Shiv’s chest, and he frowned as he looked down to see an open gash lining his torso.
+
+“Oops!” the Faceless Queen bowed in apology. “My Deductive Reasoning is sometimes a bit too piercing. I do apologize.”
+
+Blood welled from the wound, but Shiv just let it flow. “It’s fine. Good hit; nasty little skill. How’s it work? You get a correct deduction about someone, and you get to open them up?”
+
+“Hm.” The little queen hummed once but said nothing anymore.
+
+“Fine,” Shiv said. “Keep your secrets. But I’ll drag them out of you at some point.”
+
+“Some point soon,” the Faceless Queen agreed cheerfully. “Or at least, I hope you do. Also, I’ve decided that I’m going to use that free meal to redeem one I’ve already eaten. It’s the honey-glazed basilisk with roasted spinach and mango glaze—also had a spot of fondue after.”
+
+Shiv blinked and triggered Snapshot. A memory came back to him from four days ago—while he was still struggling to figure out how to overcome Valor’s challenge. “Wait, you’re already in the…”
+
+“The thing is, Deathless,” the Faceless Queen said—and a set of thin, translucent arms wrapped around his neck from behind to give him a warm hug. The sudden ambush made Shiv stiffen, but he stopped himself from reacting with violence, choosing to study this second instance of his new enemy instead. “We’re very, very different as people, but there are some skills and expressions we share. You’re not the only one who can be in many places at once. And you’re not the only person around with a Unique Legendary Skill. It’s always a delight, teaching a new Great Power their role in the Great Game—something that your grandmother is doubtlessly doing—to the extent where she can still apply some control over you. But remember this: What you are doing right now, even instinctively, is wise and right.”
+
+“Right now?” Shiv echoed, confused.
+
+“You’re giving the Court of the Shattered Moon a chance at mercy. You’re making them choose the right choice. The best choice where everyone profits instead of bringing about death and destruction. But. You have to understand that you are confused about the System. Your acts of peace constitute conflict as well, because you are resolving things through dominance and triumph. Social warfare is still warfare. Mental and psychological dominance is still dominance. And yet, it is the right thing to do. Give life in trade for life. Just like I have given life to you and your friends.”
+
+He read the subtextual threat with ease. If she had infiltrated their Gate so easily without Roland or even Adam noticing, she could have slain the Gate Lord at any point. She could have made an attempt on him or Uva, and they wouldn’t see it coming. But a part of that didn’t perfectly fit: just with such a dominant Stealth Skill—if it was a Stealth Skill—in her hands, New Albion should be one of the greatest empires on Integrated Earth.
+
+Yet, Veronica Chandler still lived. Yet, the Yellowstone Republic was unconquered.
+
+Which means she has other interests or greater limitations: Maybe she just doesn’t have the martial might to exert.
+
+But Shiv didn’t say that aloud. Instead, his Harbinger whispered for him to play a subtler game for this one. He needed to inspire in her arrogance and thoughtlessness. He couldn't give himself a high threat profile to keep her on guard. There was much to learn from the Faceless Queen, and since she'd revealed herself—he was under no illusion that his Rhetoric had somehow bypassed her concealment—it was better that she remain under control and within his awareness instead of slinking back into wherever she was hiding.
+
+“So, what I’m doing to the Frost Giants, you’re doing to me?” Shiv ventured.
+
+“Not exactly. You’re squeezing them awfully hard; you’re really rather vulgar, Legend Deathless. But alas, to be civil, one must be civilized, and to be civilized, one must be educated in—and aspire toward—a certain level of decorum and culture. But with your upbringing and the way this world is, being civilized often leads to such tragic ends.” Her sorrow in those final words sounded so genuine. “But do keep trying to educate yourself. Watching you go from unsophisticated barbarian to someone who uses a level of cromulence in your diction has been really quite pleasing.”
+
+Shiv forced himself to keep calm. Her words offered two more possibilities: She either had been watching him for far longer than just a few days, or she was lying to him. That was as much a possibility as anything else.
+
+Yet, if she was, why had his Gardener not triggered?
+
+Felling feels like I’m dancing with a snake and trying to keep it from biting me, Shiv thought to himself. “Is that even a word? Cromulence?”
+
+“Quite so!” she exclaimed—far too fast to ensure Shiv’s certitude. “But if you don’t trust me, then consult a dictionary; as I am sure you are doing right now—ah, no, not the Newswell-Thomas drivel. I swear, the fact that your Republic still uses them as standard for linguists is bile-inducing.”
+
+***
+
+At Phoenix Academy, Marcus Unblood looked over his shoulder—but saw nothing.
+
+***
+
+“Oh, I’m there,” she insisted. “You’re just not talking aloud. If you wish to lure me out, use your Rhetoric! It will make things clear and plain.”
+
+But it will also expose me, Shiv realized. His expression turned to a glare as another version of the Faceless Queen suddenly rubbed the back of his head. “You really like fucking with people, don’t you?”
+
+“One of life’s finest joys is the art of comedy. I just indulge in a little more conniving habits than your average queen. It keeps me from turning… noble.” When she said that final word, Shiv felt the heat of her hatred and power. There was something terrible in that word; something horrible that lingered in the queen when it came to the concept of nobility.
+
+Shiv recalled New Albion performing something of a purge on its old nobility according to Valor. Eileen Harkness’ mother had something happen to her; it seemed like some kind of revolution took place in New Albion that left the social caste system there more than broken. “And that’s part of why you appreciate me too, isn’t it?” Shiv asked. “Because I’m not noble at all.”
+
+“Oh, but no one is truly noble, darling. Never. In the ontological sense, anyway, but better to be a hound that knows what he is than the fox who imagines himself to be the golden apple of the Evertree. And just as well, since your friend already had such a golden apple put into him, and even that did not make him nobility in truth, but a slave that encased himself in new armor from the memory of a High God's corpse and the chains of his own Divinity. But we all have our fates to struggle, suffer, and succumb to.” The Faceless Queen patted Shiv’s head affectionately. “Ah. Your new victims have finally capitulated. Well. I congratulate you on this newest adoption you’ve made—may your menagerie of great beasts grow ever greater. Although for this one… you likely need to consider getting it out of this dimension as soon as possible.”
+
+“What?” Shiv asked. But the Faceless Queen neglected to respond; instead, she chose to dissipate in puffs of vitality as her translucence faded to transparency, and nothing remained before his lips could part again.
+
+Nothing but Shiv and the dark-tainted Pale.
+
+“We will settle,” the Warrior grumbled begrudgingly. There was still steel in his spine and a grim resolve that yearned toward violence. Shiv pitied him in that regard. If the Warrior asked, the Deathless would get bloody with him, if only because that was who the both of them were. Bone and bone and blood with blood was a simple way to settle things. But the world was never simple.
+
+“We will settle,” the Crone, the Child, and the Pale followed thereafter.
+
+The consensus was uniform, and in their reaction, they seemed closer to a single entity rather than separate parts.
+
+“But we demand a pact,” the Pale spoke through all three, its voice the dead of frigid night. “And we call to be carried alongside you—to ensure the delivery of the Tarrasque from our hands into yours, and to be reassured that no Republic plots will take shape in the aftermath.”
+
+“Sounds more than reasonable,” Shiv said, noting their continued ignorance of the presence of the Faceless Queen—or maybe she was a phantom that only existed in relation to him. Maybe not a skill at all. Maybe a Feat.
+
+Questions for later. Right now, I've got a deal to finish.
+
+“Alright, then,” Shiv said, clapping his hands together. “Let’s get that ritual circle drawn, the conditions hammered down, and, uh…” He paused as he considered how he was going to move the Tarrasque. “Listen, I don’t think Terrence here is a fan of getting teleported against his own will. That, and his Legendary Dimensionality is going to be a problem and a half. But I might have a solution to that if you have an expendable gateway I can borrow.”
+
+The Pale drew closer tentatively, fearfully, but curiously as well. “Elaborate.”
+
+“Right. So. I got this thing called a Slipgate, and I know this place in the Fairwoods…”

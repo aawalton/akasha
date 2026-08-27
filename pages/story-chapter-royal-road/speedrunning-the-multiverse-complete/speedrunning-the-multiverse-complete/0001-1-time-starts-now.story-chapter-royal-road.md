@@ -1,0 +1,261 @@
+---
+id: dccbfacb-7468-5691-b38a-be2f3ffab239
+page-type-slug: story-chapter-royal-road
+title: "1. Time Starts Now"
+slug: 0001-1-time-starts-now
+partOf: speedrunning-the-multiverse-complete
+position: 1
+ownLength: 2759
+unit: words
+ownProgress: 2759
+publishedAt: 2021-09-05
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/745468/1-time-starts-now"
+royalRoadId: "745468"
+markedReadAt: "2026-06-29T22:41:38.994Z"
+---
+
+9th circle, Hel realm
+
+Dorian stabbed Demon King Yama through the chest with a sword the color of blood.
+
+It hadn’t always been blood-red. Seven decades ago it’d been stainless silver, but alas! When so many—including old Yama, here—gifted him new coats of paint so freely, Dorian couldn’t say no.
+
+Yama’s eyes bulged, his fangs hung ajar, and his leathery wings drooped like the boughs of a felled tree. His mouth foamed as the sword’s magic took hold of him, paralyzing him, sucking the life out of him—
+
+—life which gushed into Dorian’s cultivation base in a great torrent.
+
+All around Yama his armies, or what was left of them, were strewn like torn puzzle-pieces on the molten ground: a few limbs here, a head there. If you squinted, you could make out the vague outlines of Ifrits and Djinn and gargoyles.
+
+“Finally!” said Dorian with a smile.
+
+He paused. “Do you know how hard it is to keep track of time in this damned place?”
+
+He glanced at the sky, as though expecting an answer from the always-black clouds. The clouds said nothing.
+
+“How long have I been fighting you, do you think? Forty, eighty years? A hundred? It’s important.”
+
+Yama gurgled angrily at him; blood dripped from his lips. It was all the poor Demon King was capable of. Dorian rolled his eyes.
+
+“That’s what I hate most about immortals,” he said. “You take so long to die.”
+
+The life-force still flowed out of Yama, but it was like draining a barrel through a spigot. The stronger ones always took longer. But this one, Dorian knew, would be worth the wait.
+
+If his guess was right, once Yama’s cultivation was added to his own… it’d be just enough. Enough to put him over the top for the last time.
+
+Another gurgle.
+
+Dorian cocked his head. “You’re still resisting, aren’t you?”
+
+Yama glared. Through Dorian’s sword he felt the Heavenly Dao of Life at work, draining away, but it had to pry each chunk of life from Yama’s stubborn grasp.
+
+Sighing, Dorian knelt and looked the Demon King in the eyes. “Listen. You’re done. It’s over. Your empire’s in ashes, your people are ruined. Why bother? Even if you survive—which you won’t—you’ve got nothing to live for!”
+
+He patted Yama on his scaled back. “Please give up. It’ll save both of us time, and I don’t have time to waste.”
+
+This time, a very angry gurgle. Dorian raised an eyebrow.
+
+“Perhaps this will help. In truth, I’m the reincarnation of a Godking—the Godking of Time, Dorian. Heard of me?”
+
+At this Yama’s eyes widened. Disbelief, shock, then understanding flitted by in seconds. “Go on, then. You’ve lost to a worthy enemy. You can die without remorse.”
+
+Now came a curious, confused gurgle. Blood leaked from Yama’s mouth in cascades; he was slowly losing color. Dorian frowned.
+
+“Well, you try being all-powerful for twenty millennia. You run out of things to do after the first. By five you’re ready to off yourself!” he snapped.
+
+More confusion in Yama’s eyes.
+
+“Ah. You still don’t understand.” Dorian sighed, draping an arm around Yama’s frozen wings. “We’re more alike than you think, you and I. We’re both addicts to progression, aren’t we?”
+
+Dorian paused for a response, got none. He forged on. It was nice, taking a break to chat after all that murdering. Plus, he had a captive audience—the best kind of audience.
+
+“We’d do anything for it. It gives life meaning. It’s our purpose for being.”
+
+He flicked Yama’s hairy ear. “Now imagine you’ve peaked. There’s nothing left to cultivate. Your purpose is gone… and you have all of eternity to live without it.”
+
+A weak sound, almost a croon, escaped Yama’s lips. Dorian nodded. “Sounds awful, doesn’t it? You’d do anything to get that spark back. Even start over, and over, and over again… In truth, I’ve done you a favor.”
+
+Silence. Dorian frowned. “Yama?” But the demon didn’t respond, probably because he was dead. “Ah.” The life-flow had stopped at last.
+
+Dorian bolted upright. All his jest vanished in an instant; he let Yama’s dried corpse fall to the floor. His heart pounded wildly in his chest. He’d waited centuries for this moment. His core was now full, too full, full to bursting. Primed for advance.
+
+He assumed a cross-legged position and began one final meditation…
+
+… until—
+
+Rank-up!
+
+[Empyrean] Lv. 9 -> [Godking]
+
+***
+
+2 years later, Dorian’s Estate, Zenith Realm
+
+The Zenith realm floated above all others on an expanse of endless cotton ball clouds. Two suns bathed the realm in eternal joyous shine; flocks of phoenixes drifted lazily about, soaking in the light. The only physical lands which breached the cloud cover were great peaks dotted with greenery—thousand-year trees, bushes ripe with Dao-fruit, proud gardens chock-full of flowers drawn from a hundred lesser realms.
+
+Atop one of these peaks floated a pagoda built of Stygian jade. An inch of the material would’ve bankrupted most kingdoms; wars had been fought over the furs that made the doormat.
+
+Within, Gerard, caretaker of Godking Dorian’s estate, was enjoying a nice soup dinner when the fabric of space tore open in front of him, upending his table and drenching him in broth.
+
+Then an unwashed god stepped out of the void, manic. “Time,” he gasped.
+
+“Good evening, my liege,” said Gerard. He picked a broth-slicked strand of hair from his eyes, unamused. “Might I suggest teleporting… elsewhere, the next time you return? To the doormat, perhaps?”
+
+He gestured to the keeled-over table, his upside-down plate, the sad remains of a fish sliding on the floor. “That soup was made from Inkshark fin. Four demigods died catching it.”
+
+“The time, Gerard!” The man’s eyes flashed. He trembled, and the world seemed to tremble with him. Pressure thickened the air like water.
+
+“Oh, very well.” With a gloved hand Gerard plucked out a golden stopwatch from a hidden pocket of space. He cleared his throat.
+
+“For this run, attempt number ninety-six—from no cultivation to the peak of the multiverse…Five hundred and sixty-six years, one hundred and twenty-nine days and eight hours.” He pocketed the stopwatch. “In plainer words, you’ve missed your record,” he said blandly. “By twenty-six years.”
+
+Dorian quivered for a moment. Then came a scream of rage—primal, air-warping rage. It would’ve shattered the eardrums of a lesser being. A vast whip of power rent the table, then another, then another, until the wood—carved from the Tree of Eternity, no less—broke to bits.
+
+Gerard simply stood there, unfazed, until his liege finished his tantrum.
+
+Then—“Do you know how many gods died making that table?” He said mildly.
+
+***
+
+“I was this close,” fumed Dorian as Gerard stirred his tea-kettle atop a spare table. “It was one of my best starts yet. Born the scion of high nobles in a lower realm, hit all the cultivation shortcuts perfectly, nearly no setbacks, no run-ins with Calamities… and still.”
+
+“Mhmm,” said Gerard, pouring out the tea. He offered a cup to Dorian, who took it with a white-knuckled hand.
+
+“The Life-sucking business. That was the issue. I chose the wrong Heavenly Dao,” Dorian sipped. Dragonheart tea was soothing on any other day, but today it was tasteless. “A hairy side effect of sucking people dry is that their friends and families come after you. Quite a hassle. I spent eighty years in just one circle of Hell!”
+
+“Oh?”
+
+“Drain one snot-nosed brat. It turns out he’s a demon Chosen. Suddenly an elder pops out, crowing revenge. I drain him, and the great elders come over, then the patriarch, then the ancestors…all of a sudden I’m fighting a whole empire of cannibal demons! How silly is that?”
+
+“Riveting, truly,” said Gerard. He sipped his teacup with one dainty finger in the air. Dorian shot him a baleful look.
+
+“Fine, then. Let’s hear what you have to say.”
+
+“Hum…” Gerard’s cup stopped an inch from his lips. “You know me. I don’t do realm-shaking histrionics. I won’t bore you with my wine-tasting adventures across the Middle Realms.”
+
+“What of the neighbors?”
+
+“Ah. The Kunpengs the next mountain over have birthed a new scion. You’re invited to the inheritance ceremony.”
+
+“Don’t care.”
+
+“Godking Fabro’s empire in Lythia collapsed a century back. He’s still put out about it, and whines to all who’ll listen.”
+
+Dorian snorted. “I’ve never understood the man. After a lifetime on the Jianghu he goes for politics, of all things? How does he stand it?”
+
+Gerard’s brow furrowed. “Old Man Fate’s dropped by a number of times. Warns of an impending, Multiverse-ending doom—“
+
+“Isn’t he always?” Dorian set down his cup. “How droll. He’s preached the same for three millennia.”
+
+“He insists it’s imminent this time.”
+
+“Bah. He’s drunk off his age.”
+
+Dorian stood, feeling pumped full of energy. Just as he would for the rest of eternity. He stretched—not because he felt sore, just a long force of habit.
+
+“I’ve missed nothing, clearly. I’m off to the saunas of Uria for a well-earned vacation. Expect me in a decade, Gerard, for another run.”
+
+The caretaker perked up. “So soon?”
+
+Dorian grunted. “I was so close. It’s tantalizing.” He stopped. “This next one might well be the one.”
+
+Then he grinned, stepped into nothing, and was gone.
+
+***
+
+10 years later…
+
+Everything was ready. It was time.
+
+Dorian and Gerard stood in a cellar in the bowels of the estate, sealed off from the rest of the realm. The cellar had no shape; it was an in-between space, a blank-void waiting-room dimension. In this cellar there existed only two things, two portals—the first, the entrance, was warded so that only Dorian and Gerard were keyed to enter.
+
+The second led to the most valuable room in the estate. That, only Dorian himself could access.
+
+“Start the clock,” said Dorian. Gerard clicked, and the stopwatch began.
+
+“May fortune favor you,” he intoned, grave as ever.
+
+Dorian breathed deep and stepped into the second portal. The world shifted in an instant.
+
+Now he stood at the center of a hall crafted from the multiverse itself; the smoothed floor, the grand columns, the roof all looked like substrata of space. Stars swirled slowly within the material, twinkling.
+
+To either side of him were eight massive thrones. These were the only things given color in this space, and each was tailor-made. On seven of them sat motionless bodies.
+
+Time was ticking, but he still allowed himself a little scan around.
+
+Malachai, the Father of Alchemy, sat perched on a throne of jade and vines; the trunk of a golden-apple tree made the throne’s backrest. His breakthrough recipes were still in vogue across the multiverse today, and he’d ascended to Godking via a once-in-an-eon pill. It hadn’t been seen since.
+
+To his side was Yeshima, the True Goddess of Light, perched on a simple throne built of the same fire that lit the stars. She wore a wreath and was draped in a spartan robe. She’d become Godqueen after her Church of True Light had come to dominate a fifth of the realms of the Multiverse; it was with the qi of billions of faithful that she’d ascended.
+
+Then came Salas Godhunter, the most feared mercenary in history, hunched on a throne of dragonbone. He made Godking—and a living—by bringing down tyrannical Godbeasts and devouring their cores.
+
+On and on the thrones went. Dorian strolled by them, passing era-defining figures, and stopped at the last empty seat. It was a crimson throne whose insides roiled and spun like blood circulating in an invisible vein.
+
+This one for Li’Kesh the Life-stealer. He’d cleared out an entire circle of Hell to become Godking. And now he, too, would fall into eternal sleep.
+
+Or rather, a sleep as long as Dorian wished. He usually grew bored of his old bodies once he’d finished with them, but it was always fun to take them for test-runs every few millennia.
+
+Dorian hopped up, settled in, and closed his eyes.
+
+Each body shared a soul, separate vessels of the same being. If his current body died, he’d simply reappear in one of these—even when he didn’t occupy them they were bound forever to him. While in this room, it took but a thought to reawaken each one.
+
+Or to exit each one.
+
+He felt the reincarnation spell tugging on his soul, felt its layers of magic like a primed cannon, ready to shoot himself off to a lower Realm.
+
+Here, he took a moment. He always did; he knew he shouldn’t dally, but this moment deserved a pause. If he missed his record this time, it likely wouldn’t be by a matter of seconds.
+
+When he activated the spell, he did so excited, with conviction.
+
+His soul was yanked from his body, and he was gone. Attempt number ninety-seven starts now.
+
+***
+
+His soul hurtled through space-time. There was no light, for he had no eyes to see. No sensation. Simply nothing, not even a void. A place made of things that were lacking.
+
+He hoped, in limbo, for another good start. The spell was crafted to find a random no-cultivation body in the Lower Realms; usually this meant a baby. A young master heir to a great sect would be ideal, especially based in one of the richer realms.
+
+Or perhaps a young Xuanwu or dragon—those were always great fun.
+
+Sometimes he was thrust into an old cripple or some poor villager who’d never glimpsed qi in their lives. Bad starts seldom spelled doom—his Yeshima run, for instance, had started off as a poor village-girl—but it would add, at minimum, a decade to the run. Not great.
+
+Usually Dorian was a very patient man. He had to be, at his age. But his patience always thinned drastically at the ends, and starts, of runs. What’ll it be? A young master. An alchemist heir. A powerful beast. Please.
+
+He didn’t need to wait much longer.
+
+The spell chimed, a resonance that drew him in across spacetime. A body was found. Yes! A soul left, and Dorian’s soul barged in.
+
+Rank-up!
+
+N/A -> [Origin] Lv. 0
+
+And instantly knew something was wrong.
+
+His soul felt like it was an ocean trying to squeeze into a teacup. This was normal; mortal minds couldn’t handle a Godking’s sheer breadth and depth of memory. He freely relinquished all his Daos and most of his Arts, keeping just the surface-level stuff, the stuff this body could handle. It was a temporary, necessary matter—he’d simply learn it all again as he grew; it’d be faster to learn this time around, too, like triggering a forgotten memory.
+
+That wasn’t what concerned him. No—his new body’s old memories concerned him. He scanned through them, and a weight settled in his new chest.
+
+What the….
+
+The first warning sign was the realm—Ylterra. He’d never heard of it, which meant it probably sucked. Then he moved onto the body, and things got worse.
+
+A fifteen-year-old boy named Io, raised by his sister in a nomadic tribe that wandered the Izod Desert. Here, humans were the lowest rung on the food chain; they spent their time cowering and hiding from the Desert’s fierce beasts and fighting low-rung scavengers for food. Worse than vultures.
+
+No, no, no…. But it got worse. Of course it did.
+
+Io was in the Rust tribe, one of the weakest tribes there was. Barely second-rate even in the desert.
+
+And Io, it turned out, was the weakest of them all. Zero cultivation. God-awful talent. Small. With no resources in a hundred-mile-radius. In a tribe that valued martial strength above all, Io was below trash.
+
+And somehow that wasn’t even the worst part. Dorian’s head spun.
+
+The last thing the poor sod remembered? Being beaten to the brink of death by a gang of bullies. Playing dead with six of his ribs fractured—then getting buried alive by those same bullies.
+
+It also so happened that his new grave overlapped with a nest of Izodian Leaping Scorpions, which shot him full of fatal venom.
+
+So there he lay, born in a second-rate tribe in a middle-of-nowhere, wretched desert in a middle-of-nowhere plane with no talent and no possessions and no bloodline, buried under six feet of sand, with most of his ribs broken. With about two hours to go before Scorpion poison took him.
+
+“FUUUUUUUUUU—“ was all he got out before the sand rushed into his mouth, choking him. Above the sand’s surface twin moons, one white and one red, shone calmly, oblivious.
+
+So began the legend of Io.
+
+Time Elapsed: 1 min.

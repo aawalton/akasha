@@ -1,0 +1,387 @@
+---
+id: 2ba6d5aa-a76d-591c-859b-ba757276d2aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: Ears"
+slug: 0017-chapter-17-ears
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 17
+ownLength: 2637
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3286438/chapter-17-ears"
+royalRoadId: "3286438"
+---
+
+My hand flew to my throat.
+
+Fingers pressed hard against skin, searching for the wound. For the gap where steel had opened flesh.
+
+Nothing.
+
+I knew. I knew there would be nothing. But it was impossible to resist the urge and panic.
+
+I sat there in the dim interior of my tent, chest heaving, sweat running down my temples. My pulse hammered so violently I could feel it in my teeth.
+
+Outside, the sounds of the camp stirring filtered through canvas. Boots on packed earth. The creak of cart wheels being loaded.
+
+I didn’t return to where I had slept. I went back to the start of my day.
+
+I lowered my hand from my throat, staring at my fingers as if expecting them to come away red.
+
+They didn't.
+
+Yet, my memory was perfect.
+
+The line across my skin. The curtain of warmth sliding down my chest. The ground rushing up to meet me. Lucy, still crouched behind those crates.
+
+Vael's eye going dark.
+
+I pressed the heels of my palms against my closed eyes until colors burst behind my lids.
+
+This death was different.
+
+Not because it hurt more. In truth, the blade had been so sharp and so fast that the pain had barely registered before I died.
+
+But the other deaths had been impersonal. Monsters killed because that was what monsters did.
+
+This had been a person.
+
+A person with fine features and a hooded face who had stepped out of the dark and cut my throat.
+
+Before that, someone had done the same to Vael.
+
+After that, someone would have done the same to Lucy.
+
+My mind began to sort through the wreckage.
+
+What did I know?
+
+I closed my eyes and rebuilt the night piece by piece.
+
+We marched to Grezheim. I heard conversations about monster attacks, about the Guild failing to respond, about patrols pulling back. I saw five Knights walking south through the town.
+
+I stayed at the inn. I ate. I slept.
+
+Sometime later, fire. Screaming. Hooded figures in the streets, killing with short curved blades and terrifying speed. Garrison soldiers cut down. Students slaughtered. The entire town burning.
+
+There was also the one who killed me.
+
+He moved like smoke. The blade appeared in his hand as if it had always been there.
+
+His features were fine, almost delicate. Yet, not human-fine. It was something else.
+
+I shoved the thought aside.
+
+The more pressing question was easier.
+
+I need a weapon.
+
+Tonight, people were going to die.
+
+Vael was going to die.
+
+Lucy was going to die.
+
+Unless I changed something.
+
+The column marched.
+
+I walked behind the mule with the rope in my hand and my jaw set. The beast was as stubborn as ever, stopping without warning, planting its hooves in the dirt, regarding me with that contemptuous stare.
+
+I didn't care.
+
+My mind was already in Grezheim.
+
+When the town's walls appeared on the horizon, when the column filed through the main gate and the officers began their dismissal speech, I collected my thirty silver coins and moved.
+
+No wandering or marveling at the patchwork architecture or eavesdropping on conversations about frontier politics.
+
+I went straight to the tavern.
+
+The door was open. The smell of cooking meat drifted out. Everything was exactly as it had been.
+
+Vael stood behind the bar, wiping a mug with a cloth. His mechanical eye tracked me the moment I crossed the threshold, the tiny gears clicking softly as the iris adjusted.
+
+"Welcome," he said.
+
+"Room and a meal," I said. "How much?"
+
+"One silver gets you—"
+
+"Fifty copper," I said.
+
+Vael's hand stopped mid-wipe.
+
+His real eye narrowed. The mechanical one whirred, refocusing.
+
+"Fair enough," he said.
+
+A beat of silence. Vael set the mug down and accepted the coins I counted onto the bar. His expression shifted from suspicion to something closer to grudging respect.
+
+"Meal'll be out shortly," he said.
+
+I chose the same one near the wall. Getting a clear view of the kitchen entrance and the back door.
+
+The food arrived. Meat, stew, bread. I ate quickly, not savoring it the way I had the first time. My attention was elsewhere.
+
+When the plate was clean, I looked toward the kitchen.
+
+Vael was behind the bar again, his back half-turned as he organized bottles on a shelf. The kitchen door stood ajar, and through it I could see the edge of a kitchen table.
+
+Cutlery.
+
+My eyes lingered on them.
+
+There were knives. Of course, they weren’t sharp enough to serve as weapons, but the thought still crossed my mind.
+
+I turned back to Vael.
+
+"Those knives," I said, keeping my voice casual. "Where did you get them?"
+
+Vael glanced over his shoulder toward the kitchen, then back at me. One eyebrow rose.
+
+"The knives," he repeated flatly.
+
+"I'm looking for similar tools," I said, the lie assembling itself as I spoke. "Butchering equipment. For... processing meat."
+
+The words sounded wrong even to me. Like a man reading from a script he'd written five minutes ago.
+
+Vael's expression told me he agreed.
+
+"Processing meat," he said, in a tone that suggested he was deciding whether to be amused or concerned.
+
+"I'm not from around here," I added, which was at least honest.
+
+"I gathered that."
+
+He set down the bottle he'd been shelving and turned to face me. His mechanical eye clicked through several adjustments, and I had the uncomfortable feeling it was analyzing more than just my face.
+
+He reached beneath the bar and produced a slab of cured meat, dark and dense. He set it on the cutting board with a solid thump.
+
+His index finger extended. The air around it shimmered, barely visible.
+
+He drew his finger across the meat in a single motion.
+
+The slab split.
+
+It separated along a perfectly straight line, both halves falling apart with the clean precision of a surgical cut.
+
+Wind magic.
+
+Vael lowered his hand and looked at me.
+
+"Why would you need knives to process meat?" He said simply.
+
+"I can't do that. No magic," I answered.
+
+Vael's expression shifted. The curiosity drained from his face, replaced by pity.
+
+It wasn’t even close to the kind of look others gave me. Blut and the students saw me more like a walking piece of rotten meat. Vael’s face, however, held no cruelty. Only genuine pity. Not that it made receiving it any less uncomfortable.
+
+He coughed once, as if trying to physically dislodge the awkwardness.
+
+"There's a smithy," he said. "Doesn't work on the main street. They're further out, closer to the wall. They do a bit of everything."
+
+"Thank you," I said.
+
+Vael nodded once, already turning back to his bottles.
+
+I pushed back from the table and headed for the door.
+
+As I stepped outside, I glanced back into the tavern's interior.
+
+Lucy wasn't there.
+
+Too early, I thought. She must start later.
+
+Neither of you is going to die.
+
+I said it to myself like a vow.
+
+The streets narrowed as I moved away from the commercial district. The buildings grew older, rougher, their walls stained with soot and age. The cobblestones gave way to packed dirt. The sounds of the market faded behind me, replaced by the hammering.
+
+I followed the sound.
+
+The smith's quarter wasn't a single building. It was a cluster of open-air forges arranged in a rough semicircle against the interior face of the town wall. Each forge was a stone-and-iron structure with a chimney that vented black smoke.
+
+The heat hit me from twenty paces away.
+
+Each forge was operated by a pair. One person fed material into the fire, ore, scrap metal, components I couldn't identify. The other stood with hands extended, palms open, and from those palms poured steady streams of flame that kept the coals white-hot.
+
+Fire mages. They're working as bellows.
+
+The efficiency of it was brutal and elegant.
+
+The area was packed.
+
+People crowded around the forges, shouting requests. The atmosphere was less like a workshop and more like an auction house.
+
+"I need a staff reinforcement! Third Circle compatible! I'll pay twelve silver!"
+
+"Armor plating! Runic-grade! Who's taking commissions?"
+
+"Can anyone inscribe a barrier rune on an existing shield? I need it by morning!"
+
+The smiths didn't respond to every request. They worked steadily, heads down, and only occasionally paused to assess an order that caught their interest. When one did stop, the crowd around that forge surged forward, voices climbing over each other.
+
+It was a market driven by demand, and the demand was for magical equipment.
+
+Not a single person was asking for a blade.
+
+I stood at the edge of the crowd and watched for a long moment.
+
+My request would be the simplest thing anyone had asked for all day. A sword. No runes or enchantments.
+
+Which meant no one would want to make it.
+
+I stepped forward anyway.
+
+I chose the forge with the shortest line, a station near the far end of the semicircle where only three people waited. The smith there was a broad woman with burn-scarred forearms, her hammer rising and falling in a rhythm that never varied.
+
+I waited until the person ahead of me finished their request and stepped up.
+
+"I need a sword," I said.
+
+The hammering around me didn't stop. But enough of it faltered that the rhythm broke. Heads turned. Eyes found me.
+
+The woman at the forge looked up from her work. Her expression was blank, like she was processing.
+
+Soon the whispers started.
+
+"Did he say sword?"
+
+"A sword? Here?"
+
+"Must be a Knight."
+
+"Doesn't look like a Knight. Too thin."
+
+"Rich kid, probably. Playing soldier."
+
+"Or just mad."
+
+The woman at the forge studied me for a long moment, then shook her head and returned to her work without a word.
+
+I moved to the next forge. Same result. A glance, a dismissal, a return to more profitable work.
+
+The third smith at least had the courtesy to speak.
+
+"Can't help you," he said, not unkindly. "Don't have the templates. Don't have the demand. Try the old man."
+
+He jerked his chin toward the far end of the semicircle, where the forges pressed closest to the town wall.
+
+"Aldric," he said. "He's the only one who'd touch something like that."
+
+I thanked him and walked.
+
+The last forge sat apart from the others. As if the other smiths had collectively decided to keep their distance.
+
+The forge itself was older than its neighbors. The stonework was cracked and patched, the chimney leaning slightly, the iron fittings dark with decades of oxidation. But the fire inside burned steady and hot, and the sound coming from within was unmistakable.
+
+The man working the forge was old.
+
+Not elderly in the fragile way. Old in the way mountains are old. His hair was white, cropped close to his skull. His face was a map of deep lines and old burns. His eyes, behind a pair of thick-lensed spectacles that sat crookedly on his nose, were sharp.
+
+Both of his arms were prosthetics.
+
+Magitech. The same kind of integrated mechanical limbs I'd seen on Vael's eye, but far more extensive. From the shoulder down, both arms were articulated metal, dark iron and brass, jointed with visible gears and pistons, the surfaces etched with tiny runes. The fingers were segmented, each one moving independently with a precision that organic hands might have envied.
+
+I waited.
+
+The hammering continued. Blow after blow.
+
+After what felt like several minutes, the rhythm slowed. The blows became lighter. The old man turned the piece on the anvil, examined it through his spectacles, and set the hammer down.
+
+He looked at me.
+
+The eyes behind the lenses were steady and unimpressed.
+
+"They told me you're the one to talk to," I said. "About a sword."
+
+Aldric didn't react immediately. He picked up a rag and wiped his metal hands.
+
+"A sword," he repeated. His voice was low and rough.
+
+"Yes."
+
+He set the rag down and looked at me properly. His gaze traveled from my face to my shoulders, down my arms, across my torso, to my legs. It was the assessment of a craftsman evaluating raw material.
+
+"You're not a Knight," he said.
+
+"No."
+
+"Don't have the build for it. Don't have the scars."
+
+"No," I agreed.
+
+"So what do you want with a sword?"
+
+"I can't use magic," I said. "I need something to defend myself with."
+
+Aldric's expression didn't change. But something behind his eyes shifted, a recalculation, as if I'd moved from one category to another.
+
+"Best thing for someone who can't use magic," he said, "is to find a safe place and stay there. Steel doesn't bring anything good to anyone."
+
+His tone wasn't cruel. It was the flat, honest assessment.
+
+I held his gaze.
+
+"I don't have that option."
+
+The silence stretched between us.
+
+Aldric studied me for a moment longer. Finally, he grunted.
+
+"Twenty silver."
+
+Twenty silver. Two-thirds of everything I had. Enough to live on for more than a month at Vael's prices. Enough to eat three meals a day for weeks.
+
+Still, I didn't hesitate.
+
+I pulled the pouch from inside my robe, counted twenty coins onto the edge of his workbench, and pushed them forward.
+
+Aldric looked at the coins over the rim of his spectacles. His metal fingers collected the silver with a series of precise clicks.
+
+"Name's Aldric," he said, as if the transaction had earned me an introduction. "I have blades in stock. They'll need edge work and final fitting. I've got a queue ahead of you. Could take days."
+
+My stomach tightened.
+
+"I need something today," I said, and I couldn't keep the urgency out of my voice. "Even if it's not finished. Something I can use."
+
+Aldric's pale eyes narrowed behind his lenses.
+
+He didn't ask why.
+
+He turned without a word and disappeared through a doorway behind the forge, into a back room I couldn't see into. I heard the scrape of metal on metal, the clatter of objects being moved, the grunt of shifting heavy things with his mechanical arms.
+
+He returned carrying a sword.
+
+It was short. Shorter than what I'd trained with in the loops, closer to a long knife. The steel was dull, unpolished, with visible hammer marks along the flat. The edge, when I ran my thumb along it at a careful distance, was present but unrefined. It would cut, but it wouldn't cut cleanly.
+
+The balance was off. The weight sat too far forward, pulling the tip down. The grip was wrapped in plain leather that hadn't been shaped to any particular hand.
+
+It was, by every measure, an ugly weapon.
+
+I took it.
+
+The moment my fingers closed around the hilt, something settled inside me. The simple reassurance of holding something that could hurt the thing trying to hurt you.
+
+"It'll do," I said.
+
+Aldric watched me grip the sword, and something flickered across his weathered face.
+
+"Come back tomorrow," he said. "I'll have something better."
+
+I nodded and turned to leave.
+
+The forge quarter's noise swallowed me as I walked back through the crowd. I was halfway to the exit when the crowd ahead of me compressed.
+
+Someone was coming through.
+
+The crowd parted, allowing a small group to pass through. I could see they wore the Academy’s uniform, yet none of the faces were familiar. None of them had been part of my expedition.
+
+The real surprise, however, was the person leading them. Dressed in robes that marked him as a professor, he had a thin, pale face. But what stood out most were his ears, long and narrow.
+
+I immediately recognized the same features as the hooded figures. The same ones who would later try to kill me.
+
+Whoever he was, he shared something with my assassins.

@@ -1,0 +1,323 @@
+---
+id: 199e0693-4395-55ce-8d08-9088ba1c5d97
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64: Sponsorship"
+slug: 0064-chapter-64-sponsorship
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 64
+ownLength: 3405
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3530777/chapter-64-sponsorship"
+royalRoadId: "3530777"
+---
+
+Darius von Dravenmoor.
+
+The name arrived with the face. But the name was all I had. Whatever history Kaspar shared with this boy was filed somewhere in the memories I hadn't explored. What I did have was Brauer's briefing. The Major had been thorough laying out the political landscape. He'd walked me through the major houses, the factional alignments, the names that mattered.
+
+Dravenmoor had come up.
+
+Not because of Darius.
+
+Because of Sera.
+
+Sera von Dravenmoor. Imperial Comptroller of the Royal Finances. One of Kasimir's most effective allies. Controls the budget apparatus with an efficiency that borders on weaponized. Dangerous in ways that have nothing to do with magic, but the fact that she knows where every coin in the empire goes and who spends it.
+
+Brauer had paused after delivering that assessment. Don't cross her. You can survive a sword. You can't survive an audit.
+
+The Dravenmoor name, then, carried weight. And yet, Darius was frozen in place, his face cycling through expressions at a speed that would have been comedic under different circumstances. Shock. Recognition. Something that looked remarkably like fear. Then an attempt to reassemble all three into something resembling composure.
+
+"Holy shit," he repeated. Quieter this time. His eyes darted left, right — scanning for witnesses, for escape routes, for anything that might extract him from the situation his shoulder had delivered him into.
+
+His gaze snagged on the Iron Cross insignia. Traveled upward to the white hair. Down to the scars on my face and forearm. Back to the insignia. Back to my eyes.
+
+"What — " He swallowed. "What are you doing here? You're — I thought you were — the Iron Cross, the front, the whole —"
+
+He gestured vaguely at the air between us, as if the sum of everything he'd read in the Chronicle could be conjured from nothing by waving hard enough.
+
+I watched him. The stuttering. The wide eyes.
+
+He knows me.
+
+More than that. He knew me in a way that produced this specific reaction.
+
+Interesting.
+
+Whatever Darius von Dravenmoor had done to Kaspar, or Kaspar to him, the answer sat on a shelf I hadn't reached yet.
+
+For now, the boy in front of me was useful.
+
+I smiled.
+
+The expression wasn't warm. It wasn't cold either. The smile of someone who was glad to see you and hadn't yet decided whether you should be glad to see them.
+
+"Darius." I stepped forward. My hand came up and landed on his shoulder. The grip was friendly. One that communicated camaraderie to anyone watching and you're not leaving to the person receiving it. "Good to see a familiar face. It's been a while."
+
+His shoulder went rigid beneath my palm.
+
+"Y-yeah." The word came out as a croak. He cleared his throat. "Yeah. A while. Good— good to see you too, Kaspar. Really. Great." His mouth was producing words at a rate that exceeded his brain's ability to check them. "You look— different."
+
+"Training," I said.
+
+"Right. Right. Training. Of course." He nodded with the enthusiasm of a man performing normalcy. His eyes kept flicking to the scar above my left eye.
+
+"What brings you to the Academy?" he asked. "I mean— not that you can't be here, obviously, it's open to— I just thought with the whole—" More vague gesturing. "— situation, that you'd be —"
+
+"Business," I said. I didn't elaborate. "It'd be helpful to have someone as a guide."
+
+Darius's face went through another rapid sequence of expressions.
+
+"A— a guide?"
+
+"Someone who still remembers me." I squeezed his shoulder. Let the pressure speak. "Someone who can show me around. Point me in the right direction. It's good to have friends like that."
+
+The word friends produced a visible flinch. A twitch at the corner of his mouth. But I caught it.
+
+Whatever you did, Darius, guilt and fear are eating you alive.
+
+"I—" He straightened. Drew a breath. The Academy robes settled around him as he attempted to reassemble whatever dignity he could salvage. "I appreciate that. Really. But I actually have— I'm headed to the presentations. The year-end research symposium. All the departments submit their final projects and the faculty reviews—"
+
+"Presentations?"
+
+"It's this week," he said. "Isn't that why you're here? End of the academic year. Every department showcases their best research. The amphitheater's been booked for three days. I'm actually already late for —"
+
+He reached into his robes and produced a booklet. He held it out to me with the desperation of a man offering a bone to a wolf.
+
+"Here. The program. You can —"
+
+I took the booklet with one hand. Kept the other on his shoulder.
+
+"Perfect," I said. "Show me where the amphitheater is."
+
+Darius's mouth opened. Closed. Whatever objection had been forming behind his teeth died against the pressure of my grip.
+
+"It's— this way," he managed.
+
+I steered him.
+
+My hand never left his shoulder. We walked side by side through the Academy's main corridor, past the lecture halls and the laboratory wings and the dormitory stairwells. Students and faculty parted around us. Some recognized me, but none approached.
+
+Darius moved beneath my hand like a man being marched to his own sentencing. His eyes fixed forward. Sweat had begun to darken the collar of his crimson robes.
+
+I didn't ask him questions. There would be time for that later, when the memories had given me the full picture.
+
+For now, his discomfort was information enough.
+
+The amphitheater appeared at the end of a wide gallery lined with portrait busts of former Academy deans.
+
+Darius made his move at the threshold.
+
+A subtle shift of weight. A half-rotation of his shoulder beneath my palm.
+
+I let him go.
+
+He slipped free with a gracefulness that suggested he'd been planning the maneuver for the entire walk. Two quick steps sideways, a body-turn that put three students between us, and then he was moving, weaving through the bodies toward the far side of the amphitheater.
+
+He didn't look back.
+
+I watched him go, holding back a laugh. After he was far enough, I looked down at the booklet.
+
+The program was organized by department and time slot. The pages were dense with names, titles, and brief synopses of each project. I scanned them quickly, cross-referencing against the names in Kaspar's leather notebook.
+
+Several matched.
+
+Gregor Weiß. Fifth Year. Department of Biological Engineering.
+
+Elke Hartmann. Third Year. Department of Theoretical Alchemy.
+
+Others I didn't recognize but whose research descriptions caught my eye.
+
+And one that was already underway.
+
+The name in the programme matched an entry in Kaspar's notebook: Practical applications of thermal management glyphs.
+
+Rolf Mercer. Fourth Year. Applied Magitek Engineering. Solid fundamentals. One Circle.
+
+The space was built for hundreds. Semicircular tiers of seating descended from the upper gallery to a central stage that occupied the amphitheater's floor.
+
+The tiers were perhaps half-full. The audience was a strange mix, Academy faculty in their departmental robes, students scattered in loose clusters, and, occupying the lower tiers closest to the stage, the nobles.
+
+They were easy to identify. The silk. The jewelry. The attendants hovering behind their chairs with notebooks and refreshment trays. These were the investors. The patrons whose gold funded the research that the Academy couldn't support from tuition alone.
+
+Near the front row, set apart from the silk by a row of empty seats, sat a pair of observers in charcoal-gray Ministry robes. The insignia on their collars marked them as attachés from the Advanced Research Bureau, the Ministry of Defense's liaison office for academic prototypes.
+
+I found a seat in the middle tier. Not too close, not too far.
+
+The stage below was cluttered with the apparatus of academic presentation. Dozens of blackboards, suspended in the air by simple levitation matrices. Each board was covered in dense notation — diagrams, equations, glyph schematics — rendered in chalk of varying colors. The text was small enough that reading it from the middle tier required genuine effort.
+
+Behind the blackboards, arranged on a long table draped in Academy blue, a collection of devices and prototypes. Copper tubing that connected components in configurations I couldn't parse at a glance.
+
+And at the podium, the mage.
+
+Rolf Mercer was younger than I'd expected. Mid-twenties, perhaps. He had the wiry, underfed frame of a researcher who forgot to eat when the work was going well and couldn't afford to eat when it wasn't. His Academy robes were clean but worn at the cuffs and elbows, the fabric developing the particular shine that came from years of pressing against workbenches.
+
+His hands were moving.
+
+They hadn't stopped moving since I'd sat down. They traced the air in front of the blackboards, pointing at diagrams, underlining equations, gesturing toward the devices on the table behind him with the frantic energy of someone who had been given twenty minutes to explain something he'd spent four years building.
+
+His voice was the problem.
+
+The amphitheater's acoustics carried every word to every tier with crystalline fidelity. But the voice itself was pitched too high by anxiety, each sentence accelerating toward its conclusion as if Mercer were afraid the audience would stop listening before he reached the point.
+
+Which, to be fair, they already had.
+
+Most of the faculty in the upper tiers weren't watching the stage. They were reviewing their own notes, preparing for the presentations that would follow.
+
+The students were worse. Those who hadn't simply left occupied their seats with the slack-jawed disengagement of young people enduring something mandatory.
+
+The nobles in the lower tiers were paying attention, just not to Mercer. Low conversations behind raised hands, eyes cutting sideways between sentences, the background calculation of who was investing in what and whether the current presentation deserved consideration or dismissal.
+
+Not everyone had checked out. In the third row bellow mine, a woman in pale blue Applied Engineering robes had stopped pretending to review her own materials. Her quill moved when Mercer described the recycling loop. She wrote quickly, then underlined something twice.
+
+Mercer didn't seem to notice. Or if he noticed, it didn't slow him down.
+
+"— the primary innovation is the glyph architecture itself," he was saying. His chalk-dusted fingers traced a diagram on the nearest floating blackboard. "Traditional cooling matrices operate on a direct conversion model. Ambient thermal energy is drawn into the matrix, converted to mana waste, and expelled. The efficiency ceiling is well documented, approximately ninety percent of the input mana is lost to waste conversion."
+
+He moved to the next board. The diagram here was denser, the symbols smaller, connected by lines and arrows that mapped a flow pattern I could follow only in the broadest strokes.
+
+"My glyph introduces a recycling loop." His hand traced the circular path. "Instead of expelling the converted waste energy, the matrix redirects it through a secondary channel that feeds back into the cooling cycle. The waste becomes input. The input produces cooling and generates new waste, which is again recycled."
+
+He paused. Swallowed. His eyes swept the audience and found what everyone finds when they look at a crowd that isn't listening. The emptiness of faces turned in your direction without seeing you.
+
+He pressed on.
+
+"The result is a thirty percent reduction in Mana Crystal consumption for equivalent cooling output. A device that currently requires one Grade B crystal per forty-eight hours would, under this architecture, operate for approximately sixty-two hours on the same crystal."
+
+Mercer's hand found the table behind him. He lifted a device.
+
+The object was small. A cube of hammered copper, roughly fifteen centimeters on each side. Its surface was etched with the glyph pattern from the blackboard. Thin tubes of copper extended from the cube's base, connecting to a secondary housing that contained, I assumed, the Mana Crystal that powered the device.
+
+He held it up.
+
+"This prototype has been running for fifty-seven hours on a single Grade B crystal. The internal temperature is maintaining at four degrees above freezing, consistent with optimal food preservation parameters."
+
+Nobody applauded.
+
+The Ministry attaché wrote three lines without looking up from the stage. His colleague leaned toward him and murmured something. The first man nodded once, made another notation, and returned to his ledger.
+
+The nobles continued their murmured calculations. One of them, a heavyset man in the second row, was examining his fingernails with the focused attention of someone who had found something more interesting than refrigeration.
+
+The sleeping student beside me snored softly.
+
+But I was watching.
+
+Mana Perception had become as natural as breathing. The ambient field of the amphitheater was a constant background hum, the combined resonance of hundreds of mana-bearing bodies and the Academy's own ward infrastructure. Against that baseline, individual sources stood out the way a voice stands out in a quiet room.
+
+Mercer's cube stood out.
+
+The mana flowing through the device was visible to my perception. I could feel the current moving through the copper channels — a controlled, cyclical flow that followed the glyph's inscribed pathways. The intake. The conversion. The recycling loop that Mercer had described, channeling waste energy back through the secondary matrix.
+
+The engineering was elegant. Even without understanding the theoretical framework, I could sense the intentionality of the design — the way each channel fed into the next, the way the glyph's architecture directed the mana through paths that minimized loss and maximized return.
+
+But something was wrong.
+
+The sensation was subtle. A vibration in the flow that didn't match the pattern.
+
+I couldn't articulate the fix. I didn't have the theoretical vocabulary. The sensation came from Mana Perception rather than engineering knowledge.
+
+But I could feel it. As clearly as I could feel the mint-burn in my lungs.
+
+The flow is unstable.
+
+Mercer finished his presentation.
+
+He set the copper cube on the table. Stepped back from the podium. His hands, which had been in constant motion for twenty minutes, fell to his sides and stayed there, fingers curling and uncurling against his robes.
+
+He waited.
+
+No applause. No questions from the floor. The silence that followed was the particular kind that carries more cruelty than any words — the absence of response that told a man everything he needed to know about how his work had been received.
+
+The people around me stirred. Conversations resumed. Heads bent toward neighbors.
+
+"Thirty percent is real, but the recursive glyph fabrication cost eats half the savings —"
+
+"The Transportation Guild will bury the licensing petition before it reaches committee."
+
+"Come back when it's fifty percent and I'll listen."
+
+"Who puts patronage gold into a cooler when the symposium has so much more?"
+
+"Practical utility is too narrow. Merchant warehouses, maybe. The margins aren't worth the political headache."
+
+I listened.
+
+They weren't stupid. That was the problem. The dismissals were specific — fabrication economics, guild obstruction, the comparison to whatever other mages would unveil during the next presentations.
+
+The words they were using — investment, returns, utility, margins, licensing — were the language of people who understood money perfectly well. They simply evaluated innovations against mental models built in drawing rooms and salon circuits. Models that had never stood in a field hospital on the southern front where severed limbs rotted in the heat because there was no way to cool the storage. Models that had never watched a supply convoy's food spoil three days into a six-day journey because preservation magic was too expensive to waste on bread and salt pork.
+
+Refrigeration wasn't a luxury. It was survival. Cold kept food safe. Cold preserved medicine. Cold managed fevers, slowed bleeding, reduced swelling in the field. Cold kept populations alive during heat waves. Cold preserved evidence for the investigation division, kept water drinkable in siege conditions, maintained the integrity of alchemical compounds during transport.
+
+Thirty percent less mana consumption didn't sound impressive to a man examining his fingernails in the second row.
+
+Yet it might sound like salvation to a quartermaster on the southern front.
+
+But these people didn't know that. They'd never been close enough to that reality to feel its weight.
+
+One of the organizers, a faculty member in the pale blue robes of the Applied Engineering department, stepped to the center of the stage. He consulted a list.
+
+"Rolf Mercer. Department of Applied Magitek Engineering. Thermal Management Through Recursive Glyph Architecture." He read the title as if it were a shipping manifest. "Any noble patron or institutional representative wishing to discuss investment or sponsorship of this research may contact the symposium secretariat. The researcher will be available for private consultations through the end of the week."
+
+Behind him, Mercer gathered his blackboards.
+
+He didn't look at the audience as he carried the copper cube from the stage.
+
+I pulled a slip of paper from the program booklet's back pages, blank sheets included for note-taking. My hand found the pencil I'd been carrying since the palace.
+
+I wrote.
+
+The numbers came first. 100,000 Golden Crowns. I studied the figure for a moment. It was enormous by any reasonable standard.
+
+However, the economics of academic research funding were a territory I hadn't mapped. Perhaps it was too much. Perhaps it was exactly right. Perhaps the excess itself carried a message: that someone took this work seriously enough.
+
+Below the number, I wrote a second line.
+
+The mana flow at the recycling junction is unstable. You don't need to cool the whole cube. Focus on cooling a liquid and let the liquid cool the recipient. I didn’t know enough about the engineering to be certain. But I’d lived in a world where refrigerators were mundane. Maybe imprecision was still useful.
+
+I folded the paper. Rose from my seat. Descended the tiers to the stage level, where a long table had been set up near the amphitheater's main entrance. Behind it, two junior faculty members and a secretary managed the symposium's administrative functions.
+
+"Sponsorship application," I said. "For Rolf Mercer. Applied Magitek Engineering."
+
+She looked up from her ledger. At me. At the Iron Cross insignia on my chest. Her eyebrows climbed.
+
+"We have standard forms." She produced one, dense with clauses I didn't bother to read line by line. Patronage was never a gift. It was a contract with a researcher's future attached. "Patron name, offered sum, disbursement account, and intellectual property terms."
+
+"Kaspar von Hexenzeit. One hundred thousand Golden Crowns. Kessler & Braun, vault reference HX-0044." I filled the fields as she dictated them. "Standard allocation for principal patron. This goes with the application." I set the folded slip on her desk. "Technical note for the researcher. Deliver it with the agreement."
+
+She read the sum twice. Made a notation in her ledger. Slid the completed form into a tray labeled with Mercer's department.
+
+"He'll receive both before end of day," she said. "If the bank verification clears, the offer enters the public record. Other patrons can co-sponsor under the same terms."
+
+"Good," I said.
+
+That was the point. Let the record show who moved first.
+
+The afternoon pressed forward.
+
+Presentations cycled through the amphitheater in thirty-minute intervals. The topics ranged across the Academy's departmental spectrum — ward architecture, elemental theory, biological applications, materials science, theoretical mathematics.
+
+Some were competent. Some were brilliant. Most were performances designed to attract patronage rather than advance understanding.
+
+The applause for these presentations was generous.
+
+The funding offers were immediate.
+
+The presentations that dealt with fundamentals — efficiency improvements, material optimizations, theoretical refinements of existing systems — received the same reception that Mercer's had. Polite silence. Empty chairs.
+
+I took notes. Marked names against Kaspar's list. Identified three additional researchers whose work aligned with what I was building — people whose talent exceeded their recognition, whose research occupied the neglected space between academic prestige and practical necessity.
+
+The hours accumulated. My body, which had been pushing since dawn, began to complain.
+
+I was preparing to leave when the organizer stepped to the center stage.
+
+His voice was different this time. The bored efficiency he'd maintained through a dozen introductions had been replaced by something more engaging.
+
+"The final presentation of the day," he announced. "By special invitation of the Dean's Office."
+
+The murmur in the tiers shifted. Bodies straightened. The nobles in the lower rows, who had been drifting toward the exits, reversed course and returned to their seats. Faculty members who had been conversing in the upper galleries fell silent.
+
+"Hagen von Hexenzeit."
+
+My blood stopped.
+
+"Presenting: The Thinking Machine."

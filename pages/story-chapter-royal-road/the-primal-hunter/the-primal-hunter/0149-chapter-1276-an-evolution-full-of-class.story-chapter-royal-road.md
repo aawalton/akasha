@@ -1,0 +1,95 @@
+---
+id: cfe8d995-6814-5c52-9b8f-6aa487ee33e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1276 - An Evolution Full of Class"
+slug: 0149-chapter-1276-an-evolution-full-of-class
+partOf: the-primal-hunter
+position: 149
+ownLength: 2884
+unit: words
+ownProgress: 2884
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3158666/chapter-1276-an-evolution-full-of-class"
+royalRoadId: "3158666"
+markedReadAt: "2026-06-29T19:35:00.947Z"
+---
+
+Jake was happy with his profession evolution, and all the possibilities for alchemy he now had to explore while in B-grade. He liked alchemy and the challenge it provided, just because he loved challenges in general. However, alchemical challenges lacked one crucial thing:
+
+Risk.
+
+Sure, Jake risked losing ingredients when crafting, and there were instances where he tried to do perhaps overly risky experiments, but it really couldn’t be compared to when he was staking his life in a hunt against a more powerful foe. Nothing could compare to the thrill of facing an enemy capable of killing Jake should he slip up for just a moment.
+
+That’s why, even though he liked alchemy and his profession evolution, he was still personally more interested in his class evolution. It probably also played a role that Jake felt that his class was more ”his” Path than his profession, even if he had now begun to deviate a little from the Legacy of the Malefic Viper with this recent evolution. He was now treading new ground with both, though for his class, he’d done so for far longer.
+
+Also… he was the Primal Hunter, and not the Primal Alchemist, right? So, it really shouldn’t be surprising that Jake felt more invested in his class evolving.
+
+Sitting comfortably on his now more durable bed, something definitely caused by Jake liking to chill on it while evolving, he got his third and final B-grade evolution going as the prompt popped up.
+
+Class Evolution Requirements Met
+
+The Horizon stretches endlessly before you, remaining infinitely distant, yet you feel as if you’ve moved closer to it. At the very least, you now perceive more than ever, having gone as far as to glimpse the Event Horizon – a feat that only further spurred on your curiosity and desire. In your pursuit of the horizon and power, many have fallen before you, including the Usurper known as the Celestial Child, and even a True Dragon was unable to escape your ceaseless pursuit after it had been designated prey. You continue to gladly use any means possible to succeed in your hunts, embracing both powers born from deep within, while not shying away from learning through the Legacies of powerful beings who came before you. No matter the means, no matter the obstacle, your Path will continue, and all who dare try to stop your progress will learn that no one escapes the Primal Hunter; it’s just a matter of when they will become prey, not if.
+
+Begin evolution now?
+
+Y/N WARNING: Postponing evolution for too long may have adverse effects, and no further class experience can be earned before the evolution is complete.
+
+Once more, the system really loved praising Jake as the goodest boy there was. It even called him Primal Hunter, which Jake always liked. It was always fun reading the system’s evolution messages somewhat recapping his journey through C-grade, surprising Jake a little by specifically mentioning him taking down Ell’Hakan. Jake knew Ell’Hakan had been a genius and someone with a lot of Records with a bright future ahead of him, but it seemed that he still underestimated the guy. Oh well, too bad he’d been born in the same generation as Jake and been so stupid as to provoke him, because as the nice system message said, no one escapes the Primal Hunter.
+
+He was also a little surprised it didn’t allude to Nevermore or his fight with Valdemar more, though, then again, he didn’t even have a class when fighting the image of the Primordial. It also didn’t talk about the Gate of Enlightenment, but he didn’t question that as much.
+
+Anyway, rather than question what the system wanted to highlight, Jake just gracefully accepted its praise and moved on to the actual evolution options on offer. After his profession evolution, he had high expectations, and honestly? It started out pretty good.
+
+Lone Arcane Master Hunter – On the endless hunt for power, you have chosen a solitary route, wishing to become a master hunter all on your lonesome. Is it a lonely Path? Yes, but to you, it’s the right one, and in the end, you know that to reach the apex, the only one you can fully trust is yourself. With a bow as your primary tool for hunting, supplemented by your powerful arcane affinity, you continue to chase down progressively more powerful foes, facing them on your own to satisfy your innate craving for a challenge. When you are alone, you shall grow stronger than ever, accepting of the fact that should you foolishly stray from your chosen Path, it will only be a display of weakness. Fortunately, you are no fool, but a lone hunter with no one worthy of recognition as your equal. Stat bonuses per level: +175 Perception, +150 Agility, +125 Strength, +100 Endurance, +50 Intelligence, +50 Willpower, +50 Wisdom, +125 Free Points (825 total)
+
+Was Jake ever going to take this option? No, obviously not, but it gave a lot of stats. The maximum number of total stats a B-grade class could offer was 900, so already being at 825 boded well for the upcoming options.
+
+Regarding the actual class on offer, Jake really didn’t have much to say. This class clearly leaned into his Lone Hunter skill, definitely far more so than Jake would like. Did he prefer to fight alone? Yes, obviously, but he also liked fighting with others once in a while, and knew that sometimes not fighting with others wasn’t an option, so picking a class like this that would clearly come with consequences should he do so would be very silly. Unless he wanted to cut himself off from everyone, that is, but, yeah, Jake wasn’t planning on doing that.
+
+Seeing no reason to waste further time on this obviously bad option, Jake moved on to the second class on offer, and it was way better already.
+
+Apex Monster Hunter – The job of a hunter is to hunt down foes, and you? You have chosen to hunt down the most powerful monsters the multiverse has to offer, claiming their Records as your own in the process. Taking inspiration from slaying a True Dragon in solo combat, you wish to continue this streak, hunting down monsters that most fear. With a bow and the powers of your arcane affinity as your primary weapons, few foes are worthy of your arrows, but when you find one, their fate shall be sealed. As you hunt down True Dragons and other powerful monsters, you adapt yourself and absorb their Records, allowing you to take on the properties of monsters to improve yourself as a hunter. No matter what your vessel becomes, no matter how much you change, you know that all is done in the service of standing at the apex of all existence, with all monsters nothing more than prey before you. Stat bonuses per level: +150 Perception, +150 Agility, +125 Strength, +100 Endurance, +50 Vitality, +50 Toughness, +50 Intelligence, +50 Willpower, +125 Free Points (850 total)
+
+As a small confession, Jake had expected to get a Dragonslayer or Dragonhunter class or something like that during his evolution. It just seemed thematic and like something that would happen.
+
+This fit the bill, though it wasn’t quite what Jake had expected. Evidently, this skill had come from Jake killing a fair number of powerful monsters, including, but not limited to, a True Dragon, though the True Dragon was definitely the core part of the Apex Monster Hunter class. Not to say it wasn’t a lot more and definitely better than just a Dragonhunter class.
+
+Upon further reflection, a class focused on hunting dragons would suck. Dragons weren’t exactly a dime a dozen, especially not True Dragons, so having a class that revolved around hunting them down was a good way to limit himself while making all the Dragonflights his innate enemies as a bonus.
+
+Apex Monster Hunter was instead all about hunting powerful creatures, drawing inspiration from them and adapting himself to become a better hunter. Jake naturally planned on hunting down more top variants and apex creatures of the multiverse, but he wasn’t a big fan of this class leaning into changing him physically. He did understand why the system would assume he could accept it, though. Several of the Legacy of the Malefic Viper skills changed him physically to the level where he had been mistaken for a monster before, and even his Primal Gaze had resulted in his certifiably inhuman eyes. Jake didn’t mind those changes that much, but that didn’t mean he planned on turning himself into some amalgamation of different monsters to grow stronger. It perhaps also conflicted with his variant race, though he doubted that would be the case.
+
+When it came to stats, it was also a big step-up, providing 850 out of 900 total per level. This made it a top-tier class for sure, and an interesting option that Jake could see appeal to others, but for him personally, he had three more, hopefully better classes on offer… though the next one he instantly wrote off simply from the name.
+
+Exalted Hunter-Champion of the Malefic Viper – Your arrows shall be the instrument to carry out the will of the Malefic One, furthering the goals of your Patron alongside your own. To others, you are a champion of the Malefic Viper, but within, you know your true identity is that of a hunter, taking priority even over your role as a Chosen. Fortunately for you, your Patron more than gladly accepts and revels in this. A bow remains your preferred tool for combat, and you do not shy away from mixing in a myriad of tools, especially your arcane affinity, but your most powerful method of empowering your arrows is found within the Legacy of the Malefic Viper. Your arrows are coated in toxins, making every shot a deadly concoction that few can stand against, and you are certain that the Legacy has far more methods available to make you the most exalted champion the Malefic Viper has ever had. In fact, you refuse to be anything less. Stat bonuses per level:  +150 Perception, +150 Agility, +125 Strength, +100 Endurance, +60 Intelligence, +60 Willpower, +50 Vitality, +50 Toughness, +125 Free Points (870 total)
+
+Jake and probably anyone else who could have seen this one coming from half a universe away. Every single class evolution, Jake was offered one of these that “fit” better with his title as the Chosen of the Malefic Viper, though it had begun to adapt at least a little to Jake’s Path. Even if he knew from the names alone Jake would never pick them, he still found the options useful as they offered insight into the system’s analysis of Jake and Villy’s relationship.
+
+The first thing he noted was that this class had also moved away from using the term Heretic-Chosen and, from the name alone, seemed a lot more standard. Jake wasn’t sure what being an “exalted” Hunter-Champion meant, but he reckoned it had something to do with his stellar job as a Chosen during C-grade. Perhaps his recent race evolution also played a role, but even if it didn’t, Jake would say he had actually been a pretty damn good Chosen.
+
+He’d gotten first in Nevermore, raising the prestige of the Order of the Malefic Viper, and afterwards, he’d helped his Patron fool Yip of Yore in a grand scheme of divine proportions, before finally killing Ell’Hakan, cutting off Yip’s Legacy from returning. Oh yeah, he’d also then conquered the galaxy, with most people believing it was now owned by the Order. Honestly, with all Jake had done, wasn’t gracefully donating rare and expensive True Dragon parts for Jake’s Bane Poison experiments the least Villy could do?
+
+On second thought, Jake should ask for more, especially after his recent race evolution.
+
+Anyhow, this class was once again better in the stat department, providing 870 per level, getting him pretty damn close to the cap. Notably, it gave a lot more spread stats than the professions prior, reflecting Jake’s very split Path, where he liberally used both magic and archery.
+
+It made sense, though, as if Jake did become a Hunter-Champion of the Malefic Viper, he would definitely start leaning more towards being a magic archer. Or perhaps poison archer would be more accurate, as the class very explicitly stated it was focused on empowering Jake’s poisons. As a class, it would definitely be great, but again, Jake didn’t want to lean further into just being the “second coming of the Malefic One,” but wanted to create a Path that was more his own.
+
+Something the next class most certainly embodied.
+
+Arcane Hunter of the Boundless Horizon – You’ve found yourself glimpsing the Event Horizon, and every time you do, you cannot help but draw closer. Be it arrogance, confidence, or rightful belief in yourself, you continue your eternal pursuit of this infinitely distant horizon. On this seemingly impossible quest, the bow is your primary tool, but you do not shy away from facing enemies with a myriad of means, adopting any methods available to uncover all the secrets of the boundless horizon. You continue onwards, slaying all in your path, no matter how powerful they believe themselves to be, uncaring, for your goal lies far beyond them. Never shy away as you gaze upon the Event Horizon, and never back down, but touch upon that which lies outside the boundary. Touch it, claim it, or merely admire it. No matter your choice, you know power comes from the journey, so why not make your goal boundless? Stat bonuses per level: +200 Perception, +150 Agility, +125 Strength, +100 Endurance, +75 Intelligence, +75 Wisdom, +30 Willpower, +125 Free Points  (880 total)
+
+Everything else aside… Jake was practically salivating at seeing that +200 Perception per level. It was more than any of the prior options for sure, with the second choice, a bit surprisingly, coming from the first Lone Arcane Hunter option. Was how much Perception a class gave a significant factor in whether Jake wanted to pick it? It shouldn’t be. Didn’t mean it wasn’t, but it really shouldn’t be.
+
+All the other stats were also pretty good, definitely leaning on the physical side still, while still providing a bit of Intelligence and Wisdom, with a smidgen of Willpower also tossed in there. Not a lot, but it was something, and Jake primarily wanted physical stats, seeing as his profession was pretty damn good at giving the mental ones. So, yeah, the stats were pretty damn good, and even reached 880 total, which was just a mere 20 off the theoretical maximum. Definitely meant this class also came with a nice handful of drawbacks, but Jake had a feeling none of those would bother him.
+
+Taking a step back, it was very evident that this was more or less the direct upgrade to Jake’s current Arcane Hunter of Horizon’s Edge. Going by the name alone, Jake wasn’t even sure if this class sounded more powerful, though Boundless was a cooler name than Edge. It reminded Jake a bit of the Boundless Hydra – better known as Snappy. That had to be a good thing, right?
+
+In all seriousness, Jake did understand what this change signified. In C-grade, Jake had just begun with this entire ”horizon” theme, and his class had been all about actually finding the edge of the horizon, despite knowing it was seemingly infinitely far away, and whenever he moved closer, it would, by definition, get further in the distance.
+
+Now, Jake recognized that the ”horizon” in this context was indeed entirely conceptual in nature and that all concepts were without limit. He acknowledged that the horizon was boundless, and no matter how powerful Jake ever got, he wouldn’t be able to reach it… But, in his arrogance, he believed he would one day be able to glimpse it. At least that’s what he hypothesized the Event Horizon signified.
+
+Who knows, maybe he was entirely wrong, and there was something even beyond the Event Horizon. It could also be that there wasn’t anything there, at least not yet, but that one had to truly see beyond the Event Horizon for what lay beyond to come into view. The class description sure seemed to say something was there, but who knows, and no matter the case, Jake looked forward to one day finding out. Even if his class diverged from the horizon theme, his archery skill would continue to try to allow his arrows to reach the seemingly impossible.
+
+Four options deep into this class selection, Jake already liked this direct upgrade to his current class a lot… but to address the elephant in the room, this was only the fourth option. Which is to say, there was one more class available. He briefly skimmed and saw it provided the exact same total stats as Arcane Hunter of the Boundless Horizon, but since it came after this one in the class selection, the system seemed to evaluate it higher.
+
+Taking a deep breath, Jake proceeded to the fifth and final option, and to no one’s surprise… it was related to Jake getting more in tune with the Primeval Origins side of his Path.

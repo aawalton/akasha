@@ -1,0 +1,149 @@
+---
+id: f587f4dd-da57-5224-9bdc-52672498aa9e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 539: Angel of Darkness"
+slug: 0062-chapter-539-angel-of-darkness
+partOf: reborn-as-a-demonic-tree
+position: 62
+ownLength: 2868
+unit: words
+ownProgress: 2868
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3099349/chapter-539-angel-of-darkness"
+royalRoadId: "3099349"
+markedReadAt: "2026-06-29T19:03:39.948Z"
+---
+
+Thane hadn't slept in days.
+
+Not that he needed to, as a Star Core Realm cultivator, but the constant stress of his current situation weighed heavily on him. Councilman Faelorian Lysanthos had dismissed him like a stranger after losing control of the All-Seeing Eye's mouthpiece without lifting his exile, meaning he was staying in Floridawn at risk of death, as he had no more information left to trade for his pardon.
+
+But he was stuck between a rock and a hard place, as all that lay beyond Floridawn was encroaching monsters and barren land.
+
+Escape was practically impossible now.
+
+Not to mention that Councilman Cyphion had marked him with Qi and could kill him at any distance, but the Monarch hadn't seemed interested in humoring his presence either. After learning from him about what happened at Councilman Faelorian's estate, he had gone into closed-door meditation with a scowl. Monarchs were strange like that. When faced with world-ending disasters, they hid away rather than face danger to preserve their precious Qi.
+
+It made Thane sick to his stomach.
+
+"Are the heavens punishing us, mister cultivator?" a curious child asked him as the second floor of the restaurant they were hiding in shook violently. They were on the front line, and he was using what little Qi he had left to shield the room from the desolation while the Empyrea Guard worked alongside Floridawn's cultivators to fight back the endless waves of monsters.
+
+Thane looked into the little black-haired boy's eyes. They were filled with childlike hope, begging to be lied to and told it would be all okay. But it wouldn't. He would likely die by the end of the day.
+
+"Where are your parents?" Thane whispered, looking around the room. It was packed to the brim, with families huddled sleeping along the walls, the faint green glow from his nature Qi being the only thing shielding them from the dark haze that was rotting the very wood the building was made from around them.
+
+"Over there," the sickly boy said, pointing to a middle-aged man and woman slumped over a bench. They both looked exhausted to death, a side effect of prolonged exposure to desolation Qi. It slowly robbed everything of life, and mortals had nowhere near as much Qi as Thane had to fight it off. He would urge everyone in here to flee further inland, away from the desolation. But he knew it was hopeless. Already a third of the city had evacuated closer to the World Tree. That was easily a billion people fleeing, and now everywhere was packed. It was the tail end of winter, so the outside was still too cold for most to bear, especially with the desolation making everyone sick.
+
+"Asleep, huh?" Thane said, sighing to himself. "What's your name, kid?"
+
+"My name? Sorry, I was told by my dad not to talk to cultivators, and especially not to give them my name," the kid said adamantly, crossing his little arms in an act of defiance.
+
+"Ouch," Thane said, faking an arrow to the heart. "Though I have to admit that's good advice. You have wise parents. But trust me, I'm one of the nice cultivators—"
+
+The kid shook his head. "They told me to be especially cautious around the nice ones. No cultivators are nice, Mister. You should know that, as a nice cultivator yourself."
+
+"I..." Thane chuckled, "I have no idea what to say to that. You got me, kid. Why are you talking to me then?"
+
+"Because I'm scared," the kid said honestly, staring up at him. "I don't want Mom or Dad to die. Can you save us, mister cultivator, with your powers?"
+
+Thane awkwardly scratched the back of his head. "See the green aura protecting everyone already? I'm trying my best here, kid, I really am." He paused as the whole building shook again, and he saw a flash of fire from the window. No doubt one of the Empyrea Guard had unleashed another barrage of fireballs upon a monster, but Thane knew it was pointless.
+
+The monsters... they kept coming back. Even when slain, they simply rose again as twisted beings of wood that felt no pain and marched forward without fear. Killing them further was just as pointless, as they merely fell and then rose again, if a bit weaker. It was endless. Thane had never faced such a hopeless situation in all his life.
+
+If only one of the dozen Monarchs in the Celestial Empire could set their political standing aside and 'waste' a smidge of their Qi to wipe out the monsters in one attack, Thane thought, clenching his jaw. Even from his perspective as a cultivator who had spent decades navigating court politics, he still couldn't understand their aversion. No wonder the children of the Celestial Empire are raised with such hatred for cultivators in their hearts.
+
+"Well, Mister, can you try harder?" the kid demanded, "my mom and dad are very sick, and I don't feel well, too. You can heal us with your magic, right?!"
+
+A few glances came his way from the other people in the room, but none were as brazen as the child to outright demand his help. Which saddened Thane even more. He wasn't the only cultivator who saw mortals as the humans they were. It's just that the majority didn't, giving cultivators an understandably bad reputation among the billions of mortals that populated the World Tree's many cities.
+
+"It's not magic, kid. I can just wield a single affinity that makes up reality around us, which has its limits. I'm sorry, just like how you get tired after running around all day, I'm exhausted. My soul is at its limit, you see? Keeping you all alive for a day or two longer is the best I can do." He looked out the window beside his head and saw an Empyrea Guard standing on a flying sword and looking into the distance with a terrified expression.
+
+Thane didn't even want to imagine what could make a seasoned member of the Chairman's private force look like that.
+
+"Can I learn too?" the kid asked, drawing his focus back to the stuffy room.
+
+"Cultivation?" Thane guessed. This wasn't the first time a starry-eyed kid had asked him such a question.
+
+The kid nodded.
+
+"I doubt you will like the answer, but fine. Give me your hand, and I can check," Thane said, offering his open palm. "Not everyone can cultivate—only a chosen few by the heavens are born with spirit roots pure enough to form a Soul Core and step onto the true path of cultivation. I can check to see if you have what it takes."
+
+The kid stared at his offered palm as if it were going to devour him whole. Just what stories had his parents filled his head with to make him so afraid? The kid then glanced over his shoulder at his dying parents and seemed to make a decision in his mind as he turned to Thane with an expression of newfound determination. "I'll do it." He placed his hand in Thane's, and it was terribly cold to the touch.
+
+Thane smiled a little, glad the kid finally trusted him. "Alright, kid, give me a moment. It might hurt a little, so bear with me." He squeezed the boy's bony wrist and inserted some Qi. Forcefully cycling it through the kid's spirit roots, but how he winced back in pain proved to Thane all he needed to know. The kid had unsuitable spirit roots for cycling Qi. A shame.
+
+"Sorry," he whispered, pulling his hand away. "You weren't one of the chosen ones. But to be honest with you, kid, even if you were a chosen one, I doubt it would do you much good. You see, being a cultivator is incredibly resource-intensive and..." He glanced at the parents, who were dressed in clothes that had likely been passed down to them decades ago by the faded colors and patchwork keeping them together. "Respectfully, I think your parents don't have access to the resources needed to raise you into a powerful cultivator."
+
+The kid glared at him with hate-filled eyes. "See?! You aren't nice like all the others! How can you speak of my parents like that!" he yelled, making Thane wince. "They do everything they can for me! Give me everything I ask for," tears streamed down his sunken cheeks. "Even when I can see Mommy in pain from the hunger. They would make it work, I just know it. If I were a chosen one like you, then we could live atop the World Tree and finally be rich enough to live freely!"
+
+A kid's dream.
+
+Thane glanced down. If only this kid knew how brutal the world of cultivators truly was, then he wouldn't be saying such things. Rich? Ha. He was a Star Core cultivator who had been banished to live out in the wilderness like an abandoned squirrel because a stronger cultivator decided so. His family? All dead and not from natural causes. How many years had he spent holed up in a damp cave to get closer to nature and to comprehend a mere glimpse of the heavens' mutterings? Decades, perhaps?
+
+All of that suffering had amounted to this much power. Just enough to keep a room of mortals alive for a day or two more. Pathetic.
+
+The kid will die knowing there was nothing he could do. Thane would die knowing he had been gifted the potential to save everyone and that he hadn't lived up to it. Who honestly had it worse?
+
+"I hate you!" The kid weakly planted a fist into his chest and then ran away, bawling his eyes out to his slumbering family.
+
+Thane placed a hand on where he had been struck. It didn't hurt in the physical sense, but what little pride he had left stung. "I hate my weakness too," he muttered. "But sometimes you have to accept that there's always a bigger fish—"
+
+A sudden wave of terror washed over him, stealing the breath right out of his lungs and sending an electric shiver down his spine. Every hair across his body stood on end, and he didn't dare take another breath in fear that whatever had taken it away would notice him. For a few seconds that felt far too long, he stayed perfectly still, eyes wide and staring at the stained wooden floor before him. Only the pounding of his heart and the blood rushing past his ears accompanied his terror.
+
+What... was that? Thane wondered as his mind slowly got past the feeling of death. He looked up and saw that the kid was still crying like before, and he was surprised his ears hadn't even registered the noise. He doesn't seem terrified like me, just sad, so was that a spiritual attack of some sort? Thane glanced out the window, only to be met with darkness. Not the type that came with night, with the sprinkle of stars in the sky that he had enjoyed so many times out in the wilderness. This was utter darkness, as if reality beyond the window had been deleted from existence.
+
+He scrambled to his feet.
+
+Had Councilman Cyphion deemed him unworthy of life and activated that mark? Was this the few moments of confusion he had been granted before his heart stopped and he crumbled to his knees like the useless puppet he was?
+
+One look out the window confirmed that was not the case. The restaurant he had taken refuge in was on the front line, with the advancing monsters only a few blocks away. Down the street, he could see a group of those accursed wooden fiends. Likely, once some kind of wolves, they had been morphed into grotesque beings that one would see in their nightmares. Yet, instead of endlessly advancing forward like a march of the dead, they were standing still like statues as if waiting for orders.
+
+Thane gulped, suspecting it had something to do with the liquid darkness coiled around their feet and slowly rising up the sides of buildings.
+
+He quickly unlatched the rickety window, welcoming a blast of cold air that confirmed he was still very much alive. Climbing up and leaping onto the roof, he took in a frigid breath and got a better view—only to wish he hadn't. In the distance, floating above the buildings with a cloak of darkness, was what he could only describe as an angel of death. Twice the height of a man, with wings of shadows eclipsing the world and a scythe that gleamed in the being's hand, it slowly surveyed the line of Empyrea Guards and Floridawn cultivators that had tirelessly mounted a defense of their home.
+
+The world fell silent for a moment, nobody daring to make a sound.
+
+An Empyrea Guard floating without a sword and therefore in the Nascent Soul Realm fearlessly bellowed toward the being, breaking the silent stalemate. "Are you the one behind all this?!"
+
+"In a way, I suppose I am," the being answered, surprising Thane and the others around him. Its voice sounded like death whispering in his ear and made him shudder. "I am Thanatos, and I herald my Lord's conquest of this land."
+
+"Who is your lord?" the man fearlessly demanded as fire flickered across his shoulders, fighting away the darkness.
+
+The shadow angel looked up, revealing its hollow eyes leaking darkness.
+
+Thane's eyes widened. While not precisely the same, this being gave the same feeling as the one Faelorian Lysanthos failed to capture. Did that mean there were multiple dark beings in service to the All-Seeing Eye, or had this being received some kind of promotion?
+
+"My Lord? He is the new ruler of these lands, a god of unmatched fairness. The All-Seeing Eye graces you with his presence."
+
+Everyone exchanged a glance. What about this was fair? Floridawn was rotting before them, people were suffering, and the Celestial Empire was being brought to its knees by an unknown force.
+
+Yet the angel continued zealously.
+
+"My Lord treats his people not with blind mercy nor cruel indifference. He prefers to reward rather than to kill. To the loyal, he grants unimaginable boons. To those he deems unworthy, he drags them into the dark. He does not forget. He does not forgive. He sees through the Celestial Empire's walls of jade and veils of lies. And when he comes… no empire's golden spire shall stand unshaken. Kneel now, and perhaps the dying ground beneath your feet shall remain still. Resist, and you will learn how far my god's wrath can truly reach."
+
+The angel raised its scythe, and Thane immediately felt danger. Without thinking, he jumped off the roof and swung his body inside, closing the window behind him and startling a few half-awake mortals inside.
+
+A tense moment passed, and Thane wondered if he had overreacted until he heard thumping and clattering sounds from the roof above. They were the unmistakable sounds of bodies and swords raining from the sky.
+
+Floridawn's final line of defense had been taken out in an instant.
+
+Thane peeked above the windowsill, his breath making the windowpane cloud as he saw the monsters down the street begin to move again. Except the shadows were now wreathing their forms like armor, making them look even more fearsome.
+
+"I'm going to die," Thane said, and froze as the realization truly hit him. This was it. Decades of effort, gone. A life all but wasted. "No, no," he hissed, scrambling toward the staircase—cursing under his breath as he almost tripped and fell over the slumbering mortals. He practically threw himself down the stairs to the ground floor and rushed toward the door. He could escape by sticking to the back alleys and keeping out of the air. It might take some bribing, but surely he could sneak into Empyrea or even one of the canopy cities. Those should be safe from the...
+
+He opened the door and came face to face with a shadow-cloaked being.
+
+"Monsters," he said as it leaned into the room, forcing him back. It was massive, with hollow eyes and made from interlaced black wood. How such a being could even move was beyond Thane, as it seemed to lack any signs of organs or even a beast core he could target.
+
+"S-Stay back!" he shouted, waving his sword uselessly at it, unable to conjure enough Qi from his Star Core to mount a defense. Is this what I get for trying to help the mortals? he thought as his mind raced. There had to be a way out of this, a way to survive.
+
+"Greetings, cultivator."
+
+Huh? Who was that?
+
+The shadow being's head moved to the side, revealing a middle-aged man wearing a black robe embroidered with a red eye. His smile felt like a light in the darkness as he stepped into the room.
+
+"W-Who are you?" Thane stuttered, finding himself completely bewildered.
+
+"Me? Oh, nobody special. Just a loyal follower of the All-Seeing Eye," the man said calmly, "and I was hoping you would join me in his worship."

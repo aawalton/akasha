@@ -1,0 +1,335 @@
+---
+id: ca9d1b72-7c8c-5601-81ac-d6b12c8f9591
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED ONE: A Weird Place"
+slug: 0203-two-hundred-one-a-weird-place
+partOf: super-supportive
+position: 203
+ownLength: 4025
+unit: words
+publishedAt: 2025-01-27
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2031903/two-hundred-one-a-weird-place"
+royalRoadId: "2031903"
+---
+
+201
+
+******
+
+Friday evening’s MPE class ended with a bang, a scream, and some whimpering.
+
+The bang came from Reinhard’s final shot blowing a hole in the regenerating barricade that had been added at the halfway mark. The instructors and volunteers must have thought they needed to up the difficulty level since everyone knew in advance what was in store for them. The new obstacle was similar in appearance to the usual gym barriers, but much more penetrable. It extended to the ceiling and had to be broken through to complete a run.
+
+The scream was Marsha’s as she arrived at the finish just in the nick of time to connect with her teammates and win, but not fast enough to engage Galecourse in a fight, which seemed to have been a personal goal for her all class.
+
+And the whimpers belonged to the members of the four teams that had failed to achieve a single victory.
+
+There was no prize for a second win, but Alden’s team had managed one about halfway through the session. That success came courtesy of Lucille, who’d smashed a hole in the barricade for her own team that they’d been able to reach before it closed, and Air Kon. Traveling with him required strong stomachs and nerves of steel. A couple of the trips they’d braved had ended in deaths, but it worked out on flight number four.
+
+Afterward, Haoyu declared the large wooden turtle shell they’d flown on lucky, and mused that it looked like it might have been a stylish piece of interior decor before it broke and ended up in Big Snake’s projectile pile. In response, Lexi announced that residents of the huntski lodge were only allowed to have one oversized personal item at a time in the living room.
+
+The other winners were Søren’s team and Max’s. He, Finlay, Jeffy, Astrid, and Lucille had reached the finish three times. Even Lucille had cheered on their last victory, and Max was looking pretty smug as the wind, the Zhang-Demirs, Big Snake and Klein all stopped attacking for the day.
+
+The students who’d been suffering simulated injuries had their suits instantly restored, and Jeffy ran toward the locker room yelling, “Pizza Moves!”
+
+Haoyu gasped. “Get me off this ice patch! I need to get to the ovens first!”
+
+Seconds later, helped along by a shove from Everly, he was sprinting after Jeffy.
+
+Alden thought Haoyu was talking about the oven in the Garden Hall community kitchen. He’d been hovering over a beef stew he’d made in his slow cooker all afternoon. It was something he thought would impress his mother during their family dinner tonight. Maybe there’s a baked dish to go with it?
+
+It wasn’t until he’d rushed through a shower in the locker room that Alden realized Haoyu had meant something else. He was sitting on a bench, uniform back on and fresh socks in hand, when he caught a joke about how the school didn’t need to provide ovens for their party since they had Søren in their class.
+
+“Are they cooking the pizzas fresh?” he asked.
+
+“It’s a pizza party,” said Kon. He stood nearby, drawing something on his cheek with a paint pen.
+
+“I know, but I thought they’d buy boxes of pizza from somewhere.”
+
+“That would just be ordering pizza for dinner, not a pizza party.” Lexi said that like it should be obvious.
+
+Before Alden could express his approval for the distinction, he found himself looking up at Mehdi, who was smiling at him pleasantly.
+
+“So, before class started,” Mehdi said, “when we were talking about—”
+
+Alden didn’t hold back his groan.
+
+Mehdi had caught him on the way into the building earlier and initiated a conversation. If one person asking the same question in eleven different ways and the other failing to answer it satisfactorily could be called that. Mehdi clearly had more hours in his day than normal people, and he’d spent them watching footage from their last class obsessively. He wanted, needed, to know about—
+
+“Klein’s Pause,” said Mehdi.
+
+Alden knew the phrase had capital letters in the other boy’s head just by the way he said it now and had said if before. Repeatedly.
+
+“You are really single-minded sometimes.”
+
+“Thank you. When Klein Paused, why do you think that happened? Was it your skill, or was he not trying as hard as usual? What percent of his effort do you think he was—?”
+
+“Man, I don’t know how hard he was trying.” Alden tugged his left sock on. “You’d have to ask him. And does it even matter? It took him half a second to burst through my shield. He was on his last leg, literally, after all of you had attacked him. I didn’t do anything but stand there and get crushed a little slower than he anticipated. Did you see what Lexi did to him? Look at Lexi!”
+
+“That’s right!” called Kon. He was adding something that looked like wings to his face paint. Alden was guessing Air Kon was getting an official logo. “Feast your eyes upon my brother! Killer of Agi Brutes and innocent teamma—”
+
+He squawked as a shoe flew across the room and hit the arm he was drawing with.
+
+“My point is that practically every contribution to Klein’s well-deserved defeat was bigger than mine.”
+
+“But you’re a B, and he paused,” Mehdi said.
+
+“Yes,” said Alden. “He did.”
+
+A few people glanced his way at that, but most were focused on Kon, who’d just painted a stripe across his face and jabbed himself in the eye.
+
+“Instructor Klein might have been tired, and he was dealing with a lot of danger,” Febri said. “Sometimes, even the agilest of Agility Brutes can, under these kinds of extreme conditions, trip.”
+
+Everyone laughed.
+
+“Keep telling yourself that, Feb!”
+
+“I watched you trip almost as many times as I watched Instructor Klein die.”
+
+<<I did, too.>>
+
+“Ignacio!”
+
+Mehdi let it go, at least for now, and as Alden tied his shoes, the guys moved on to talking about another subject.
+
+“Are you faster than light!?”
+
+“No, no, no! Don’t leave out the ‘nasty little fucker,’ part!”
+
+Ouch. It’s going to be a while before Winston escapes from this.
+
+He wasn’t even in the locker room, unless Alden had missed seeing him head into a stall. Most likely he was dawdling in the gym, trying to avoid them all. Alden wasn’t fully in the loop on class gossip, but in this case, it was loud enough that he’d been unable to avoid knowing that a few of the people with more active social media presences had made a bigger deal out of their post-gym updates than usual.
+
+Special guests, a prize on the line, and an exciting defeat of their instructor meant there was a lot to say. The students who normally posted a picture of themselves in the unitard and a quick update about how they had performed had decided to show footage. Most of the people involved in the Klein attack were pleased to have their contributions shared. Even if nobody said outright that Winston had failed to follow through on a promise to participate, there were enough hints and enough videos for the fans who had nothing better to do with their time to correctly surmise that either Winston or Rebecca had committed a betrayal.
+
+A few classmates unfollowing Winston had clarified for the curious which party was the guilty one.
+
+Alden was also aware that people were commenting on his pigeon picture again. He’d taken down his #MataderoThanksgiving, “Please, no more food!” post. Now the comments were full of some strangers berating him for not appreciating their contributions on the removed post and others thanking him for putting “The Shrine of the Line” back into its rightful place on top. Emilija was occasionally posting under it in a mix of Lithuanian and English, thinking up ever more obscure ways to say that Alden was a hazard to poultry.
+
+The next time he was in F, Alden was going to feed the ducks and take their picture just for her.
+
+******
+
+When they made it outside, Haoyu was already the proud owner of two flatbreads. He took off for the dorm after instructing Alden and Lexi to show up later with dessert pizza.
+
+“Does anyone else worry that the ocean will attack us again if we eat together as a class?” Febri asked. “No? Just me. All right. I call the oven in the middle!”
+
+The food was set up for them between the building and the track. Astrid was pressing buttons on a jukebox that looked like it could have been designed by the same person who’d made the Mr. Blingy vending machine Alden had seen at the Wright shop. Discs of pizza dough waited at one end of a table full of toppings, and three small pizza ovens were ready to serve. The one in the center was mostly transparent, so everyone had a clear view of Jeffy’s chicken nugget and cheese pizza getting blistered.
+
+The ovens cooked a pie in under two minutes, and it wasn’t long before Alden found himself sitting at one of the same picnic tables that had been set out during combat assessment day, wondering if the amount of garlic oil he had added to his tomato, basil, and mushroom pizza had been greed or wisdom.
+
+Wisdom, he decided, sinking his teeth into the first piece.
+
+As the sun set, they had light from the track, the ovens, and Søren. Alden went to make a dessert pizza to take back to the apartment with him. He was trying to decide if he could do half apple cinnamon and half chocolate strawberry or if that would make the place where they met in the middle gross, when he realized that the figure hunched over an unbaked crust at the end of the toppings table was Winston.
+
+Alden was going to ignore him. He hoped to be ignored in return. He separated the toppings with a dam made of pecans, feeling clever about it, then he headed toward the ovens.
+
+“I’m going to make an apology video tonight,” Winston said. “A good one.”
+
+Alden turned back to him. The speedster had made a feather on top of his pizza by tearing the prosciutto into strips and arranging it.
+
+Don’t you ever get sick of making every minute of your life about your brand?
+
+Alden kept the thought to himself.
+
+“That’s nice to hear,” he said. “Apology videos are probably hard to make. Good luck with it.”
+
+“Will you comment on it? Something positive.”
+
+The point of an apology video might have gone over your head a little there, Winston.
+
+Slapping down someone who was, possibly, trying to do better wasn’t an impulse he thought he should indulge.
+
+“You’re going to apologize for Thanksgiving, too? For making up stuff about me and Hn’tyon Esh-erdi?” he asked.
+
+Winston didn’t answer right away, but then he nodded.
+
+You could just apologize to my face right now.
+
+“Yeah, I’ll make a positive comment,” Alden said.
+
+On the way back to Garden Hall on board the nonagon with Lexi and a perfectly preserved pizza, he decided he was glad about the apology video after all. Even if it wasn’t as sincere as he’d want in a perfect world, it would be good to settle the tension he felt every time he saw Winston coming. He’ll say something apologetic, I’ll say something positive, and then we can not bother each other ever again.
+
+He enjoyed eating a piece of apple pizza with his roommates and Mr. and Mrs. Zhang-Demir. Haoyu’s mom laughed at the giant bromeliad he was trying to keep alive and raised an eyebrow at his spotless bedroom. She was right to be suspicious. Haoyu’s room was never that clean on a normal day.
+
+Alden showed off his dishwashing abilities before they left, and Haoyu seemed happy about how it had all gone.
+
+Just after eleven, in his own room, Alden put his auriad back around his neck and rose from his learning cushion. He’d finished giving his leaf bookmark some sunshine and a few drops of water from the melting ice cube he’d made a while ago. Spell review before bed was satisfying. He sent the books back into storage and stuffed the vegan marshmallow he’d crushed into his mouth.
+
+He wasn’t hungry, but squashing marshmallows would be a weird habit to explain if his roommates ever found a bunch of them in the trash. Buying more was on his to-do list. Since Lexi had started using them for his Writher practice, they’d been disappearing fast.
+
+He went to the desk under his loft bed and opened his computer to mark “meditation” completed on his Happy Avowed Days schedule. If he called his spell practice that, then the avatar would sit on the cushion he’d given it at the appropriate time.
+
+Finished.
+
+Checking out Winston’s apology was the last thing he had to do before sleep. Beside his laptop, his Opposite Stone blinked as he navigated to the video.
+
+Just five minutes of—
+
+“It’s how long?” he said aloud, aghast as he saw the time listed at the bottom.
+
+Winston had apologized for over half an hour.
+
+I’m not watching that. He tagged the whole class…fine, but I’m only watching it at double speed until he gets to the part about me.
+
+He put his headphones on and pressed play.
+
+“It’s been a tough week, everybody,” said Winston. He looked less vibrant than usual. “I know on Fridays I usually post my Wins of the Week, but this week I need to talk to you about loss. This week, I made some mistakes. This week…the one who needs a healing is me.”
+
+He moistened his lips then gazed soulfully at the camera.
+
+Alden watched the whole thing.
+
+He had to watch the whole thing because he was waiting for the part of the apology he actually cared about. Surely it was coming. Winston was laying the sorrow on thick. Someone who missed the word “sandbag” might be forgiven for thinking he’d ripped an infant out of Søren’s arms instead.
+
+It wasn’t terrible, though. Over the top. Some corny slogans to appeal to his fans. But he did apologize for things. When they got to the part where he told the entire country of Scotland he was sorry about some incident involving a care package Finlay had gotten from home, Alden thought surely the Esh-erdi apology would be next. But the video ended with Winston thanking his fans for understanding that he’d be taking a four-day break from vlogging so that he could recenter himself and heal his bonds with these wonderful people he was in school with.
+
+That’s it? Did I miss it?
+
+He hadn’t.
+
+Sighing and pulling off the headphones, he pushed himself back from the desk.
+
+That’s twenty minutes of my life I’ll never get back. Why the hell did he tag me if he wasn’t going to do the thing? You suck, Winston. You suck so much.
+
+He considered typing the Arfdog jingle under the video, to make his position clear to the world. Then he thought about posting a video of his own, in which he waxed the nonagon slowly while he stared into the camera and counted to the number nine.
+
+Then he went to sleep, because he was sure he’d regret enacting petty revenge fantasies come morning.
+
+******
+
+******
+
+“Stop rolling around in the sand, and tell me what to do with your product.”
+
+“Soft,” breathed a woman’s voice. “So soft.”
+
+“But still… salty.” whispered a man.
+
+“I don’t care,” said Alden. “Just tell me how to spray it on my hair.”
+
+The disembodied voices on the Softly Salty website ignored him, as did the actors and actresses gleefully kicking and throwing sand. And writhing around on the beach like they didn’t understand how to use one in a normal way. There was no option to skip the commercial, so he watched to the end, when all the people in their swimsuits took turns dumping buckets of sand on one another’s heads. The sand baptisms refreshed their hairdos, and they ran toward the waves together hand-in-hand with their miraculously grit-free locks blowing in the wind.
+
+“Is it only soft and salty?” murmured the unseen guy with the hypnotist voice. “Or is it something…magical?”
+
+Finally, Alden was in. He read through the instructions for how to use his new styling spray. He’d already used it according to the more minimal directions on the back of the bottle a couple of times, but he’d pretty much just scrambled it around with his fingers a little and hoped for the best. He thought now was a good time to try to get it right.
+
+Saturday had dawned sunny and warm, and he was actually beating the Keeper of Hot Potatoes at their shared schedule. His homework had been easier to breeze through than expected. And he was going to eat lunch with Natalie, so he had a rare opportunity to wear his new clothes instead of the uniform.
+
+The jeans were a given. He was still trying to decide between the tailored button-up and the Hawaiian shirt.
+
+He squinted at himself in the bathroom mirror and worked on the hair.
+
+[Video call from Twenty-seven Hundred and Sixty-first General Evul-art’h, Artona I. Connection fee waived.]
+
+Stuart?
+
+It was the last day of school for the Artonan week, and he should be at LeafSong. But he seemed like a more likely caller than Evul herself.
+
+Let’s find out.
+
+******
+
+******
+
+“She must be part of my parents’ conspiracy, but I do not understand how her current behavior helps them.”
+
+Stuart had called to make sure Alden wanted to teleport in this evening, but although that could have been covered quickly, they were still talking to each other twenty minutes later. Or Stuart was talking. Alden was back in his room, sitting at his desk and listening.
+
+Instead of being at LeafSong, Stuart was at the siblinghold, outside in the forest in a place Alden hadn’t yet seen. Tables made of different materials stood in a clearing, and he was working at one of them. He had been ordered home from school by his cousin so that he could brew a potion she wanted to give to someone as a gift. Apparently this kind of thing had now happened one too many times, at very inconvenient moments for him, and he’d grown suspicious of Emban-art’h’s intentions.
+
+He’d spent the majority of the call so far expressing his belief that she had joined in on the change-Stu’s-mind plan. Alden was trying to provide a sympathetic ear, even if he didn’t understand how Stuart had arrived at the conclusion.
+
+“You can’t think of any other reason she might have called you away from your favorite class?”
+
+“No,” Stuart said.
+
+Alden had a very clear memory of a bean-shaped tunnel blowing a hole in a goo-filled sackfruit just as Emban-art’h walked past it.
+
+While they talked, Stuart was walloping something that looked like styrofoam packing peanuts, but crunchier, with a mallet. The pieces that flew off were getting caught by a spell he’d cast that wafted them out of view. Alden didn’t know if they were being disposed of or if they were going into a cauldron off-screen.
+
+“It is strange she didn’t just buy the potion,” Alden said. “Instead of having you make it.”
+
+“That’s not strange. It’s going to be gifted to someone as a relationship marker. They have known each other for three years, and she wishes to acknowledge their importance to each other. So it should be made by her.”
+
+And Emban can’t make her own three-year anniversary potion because her free authority has just been bound. Got it.
+
+“What I do as her votary is <<to her credit>>, not mine, so it’s proper that I make this for her. But she has waited to request my assistance until I was enjoying favored learning experiences several times now. Too many times for all of the occurrences to be happenings of chance. She has <<motives>>.”
+
+It had been less than a human week since the two of them had overheard the conversation about how Stuart needed to be persuaded away from the path he wanted and how some of his parents thought Alden might be useful for that cause. Alden was still feeling stung when he thought about it, so it was to be expected that Stuart wasn’t over it. He was probably getting a fresh dose of hurt and anger every time he saw one of his own parents.
+
+But Emban-art’h pestering him when he wanted to be at school seemed more innocent to Alden.
+
+“Don’t votaries become properly educated in many useful subjects?” he asked. “Isn’t learning one of their duties?”
+
+“Yes. Of course.”
+
+“So shouldn’t Emban-art’h be encouraging you to study more, not less, if she’s in agreement with your parents?”
+
+Stuart frowned.
+
+“Have you considered the sackfruit?” Alden asked.
+
+“That?” He looked surprised. “Alden, Emban wouldn’t have made me offer apologies to Instructor Kera-zut over something like that.”
+
+“She wouldn’t?”
+
+“It was only some juice on her clothes! Something more must nest in her thoughts for her to interfere with my school.” He slammed his mallet into some more packing peanuts. “Your hair is all pointing to your right. Why?”
+
+“Does it look good?”
+
+“Is right a significant direction for a human’s hair to point in?”
+
+“I’m going to have to end our call now,” Alden told him. “So that I can make my hair point in more directions. See you soon.”
+
+******
+
+******
+
+Alden picked Natalie up on the roof of her building in Boomtown. She was wearing a peach-colored shirt, white shorts, and a pair of those ombre-dyed canvas tennis shoes that all the girls at Alden’s old school had been into last year.
+
+She smelled like vanilla and fresh bread as she jumped eagerly on the nonagon and said, “We match today!”
+
+Alden blinked and looked down at himself.
+
+“Our sunglasses!” Natalie pulled a pair out of her purse that were similar to the “beachy” green ones Alden was wearing, only yellow.
+
+“Hey, we do!” he said, watching her put them on.
+
+“And you wore a tropical shirt. It’s nice. We’re both pretending it’s a real summer day.”
+
+He watched her step over to the other side of the nonagon and peer down, then she knelt to rub her hands over the green surface. “So cool! This is The Nine-edged Son Whose Own Mother Forsakes Him. What is he made of?”
+
+“I do not know.”
+
+“Who’s his mother?”
+
+“I think it might be the planet. Or the concept of the planet? Or a craftswoman who didn’t like this nonagon. It’s also possible Esh-erdi was just making fun of me when he insisted I call it that. Sky Traffic Control called it a galleta.”
+
+“Nice cookie!” said Natalie, patting the nonagon. “Don’t drop us.”
+
+She looked back at Alden. “Do I have to sit down or can I stand up like you?”
+
+“Either’s fine. I usually sit. Just don’t fall off. If you do fall off, ET right away. I don’t think I’m good enough to catch a falling person.”
+
+She was unconcerned about the warning, judging by the way she immediately sprang back up and walked to the edge again.
+
+“You still want to go to the drudgery chest restaurant, right?” he asked.
+
+“Right! It’s called <<Meal>> Presto.”
+
+“Artonan and Italian—an unlikely combination.”
+
+“And it’s serving Greek food today. And every Saturday there’s a ‘Free Spells’ event on the street in front of it. Lots of people sit around chatting and seeing if anyone wants them to use their talents.”
+
+Their sunglasses met.
+
+“It’s still unreal sometimes, isn’t it?” Alden said. “Living on Anesidora with a bunch of Avowed…or is that just me?”
+
+“I’m still surprised about it all the time.”
+
+Alden nodded.
+
+“You just never know when some Rabbit is going to pick you up off of a roof on an Artonan flying contraption,” Natalie added. “It’s a weird place.”
+
+******

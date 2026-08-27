@@ -1,0 +1,251 @@
+---
+id: 109eda68-f24f-55f7-88d9-6fce47c8990f
+page-type-slug: story-chapter-royal-road
+title: "225 Moving with Intent"
+slug: 0184-225-moving-with-intent
+partOf: the-new-world
+position: 184
+ownLength: 3734
+unit: words
+ownProgress: 3734
+publishedAt: 2019-09-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/404719/225-moving-with-intent"
+royalRoadId: "404719"
+markedReadAt: "2026-06-29T21:27:12.783Z"
+---
+
+Just outside of the intergalactic customs on Belka, I looked around. I stood out among the throngs of different aliens, of that there was no doubt. It was strange, almost as if I was the alien here. Well, I was, so maybe it was normal.
+
+I threw those puzzling thoughts aside as I stared at the pristine metal prisms that formed an asymmetrical tower of steel. It flowed in my sight, however. It radiated a sense of strength despite the variety of formations and shapes that composed the building. On a plaque at the top of the entrance, a quote read.
+
+Though we are many, we stand as one against the coming darkness, one tide against another.
+
+It was a bit ominous yet inspiring at the same time. After reading that, I walked past a set of polycarbonate glass doorways. They opened with a soundless slide, even to my enhanced senses. Stepping past the throngs of aliens, I was a full head or two taller than most. This not only let me view others well, but it also let others view me.
+
+Eyes of all sights stared at me as if I was an eldritch in the middle of a city. I was an oddity to them, something unfamiliar to them even amongst the exotic aliens here. I stared back by moving my eyes, my helmet blocking the sight of my face. That was one of my favorite aspects of having a helm on - I could stare without staring.
+
+Indulging in my curiosity, I inspected thin, fat, muscled, and wiry aliens alike. They carried different shades of colors, most lacking armor on in this public area. Those that wore it had enchanted power armors if they were higher level, in the range of four or five thousand. Some even carried fancy staffs along with grimoires like Torix. Others stood along the edges of the walkways, their obelisks covering them in balls of impenetrable white light.
+
+A few even walked with bodyguards, the majority of those individuals wearing gemstone encrusted robes. These robes carried massive varieties of infused manas, giving them the aura of archmages. Outside of those few, several diplomats owned guards as well, walking the dignity and constant charisma of a politician. These individuals came across as fun, adventurous, and open-minded with just a grin.
+
+That's charisma at work for you.
+
+Eventually, my mind numbed to the exotic blend, the constant shifting of shapes and colors becoming normal. I walked further into the room. Above me, the ceiling stretched high, at least a hundred feet higher than my titanous height. Beneath me, an onyx floor bore the brunt of my heels without worry. Of course, I kept myself lighter here, but it was unusual nevertheless.
+
+At the back of this expanse, several rows of counters and signs were laid out. Behind a few of them, warp drives were set up. I stepped up to one of these counters. It was a polished granite, immaculate with its cleanliness if not outright sterile. Behind it, a generic but attractive female humanoid stared at me. She had blue hair and purple skin with yellow eyes. The colors melded together into a girl that looked kind of like she was made of candy.
+
+It weirded me out as I stepped up to her after waiting in line for a few minutes. Once there, she coughed into her hand,
+
+"Ahem, may I ask what you're here for, sir?"
+
+Man, sir felt weird to hear for me. I tapped the countertop, a bit nervous for no good reason,
+
+"Uh, I'm trying to warp to another planet called Giess."
+
+Her eyes widened as she leaned back, "Giess? They're staging an evacuation of the planet right now. Are you certain you'd like to go there?"
+
+I nodded. The receptionist leaned her head sideways, holding the heft of her head on her left hand.
+
+"Uh, ok. This will require payment of 15,000 credits along with a screening process before moving to the planet. If you pay double, then you can leave right now instead of with several others. Here's the waver you'll sign for any damages occurred during the screening process regardless of your choice."
+
+A status screen appeared in front of me, a six hundred page document for this simple, everyday process. Damn bureaucracy.  I scrolled to the bottom.
+
+Do you accept? Y/N
+
+I clicked yes before sending 30,000 credits on over. The receptionist gave me a practiced smile, "If you would step to the side, there's warp being powered for your coordinates as we speak. The screener will be here shortly."
+
+I stepped over to where she asked, not wanting to be a problem. After about two minutes of waiting, an octopus-headed person walked up. It looked like it just stepped out of a Lovecraft novel, its eyes menacing. It raised webbed hands as it spoke in a guttural voice,
+
+"You're the one going to Giess? Hmm...you look ready for it. Can you open your dimensional storage for me?"
+
+I raised a hand, the ring from Schema I gained forever ago molding to the outside of my finger. I opened it as the octopus man wriggled his tentacles. Out of nowhere, this creature's body lifted out of the air as if possessed. Underneath him, a circle of demonic formations embedded into the ground with streaks of fire.
+
+Speaking in tongues, he growled out, "Heasheom, mackrlthck, bashtorageiox, bhaoghastixyur."
+
+I couldn't understand a word he said, but from his chest, a pair of cricket legs sprouted out, covered in blood. I looked around, gauging other people's reactions. They weren't even looking this way. This was just a typical day at the office for them.
+
+Damn. Just...damn.
+
+A slithering mass of tentacles and limbs crawled out of the octopus man's chest before crawling up my side and into the dimensional storage. The demon mage clapped against the ground, blood splattering everywhere. A few minutes passed as I thought up stories for why I wasn't a murderer in case someone came to arrest me.
+
+After a few more minutes passed, the evil creature spawned out of the portal. It skulked right back up to the dead mage and began devouring his corpse. The horrific sight ended a minute later as the beast's belly swelled, and it finished lapping up the blood. It expanded too much, its back ripping out.
+
+As it did, the octopus man stood out of the carnage, robe clean and everything. The remnants of the leg monster disintegrated into the onyx floor, ridding it of the infernal markings. The tentacle creature turned to me, giving me a thumbs up,
+
+"You're good. Have a pleasant stay on Giess."
+
+I fumbled out my words, "I, I will, but, are all the screeners like you?"
+
+The tentacled man shook his head, "Not really, but it's not that uncommon. Is that all, sir?"
+
+I nodded, "Uh...yeah."
+
+As I stepped up to a platform of metal stairs, I looked around at every alien differently. That was their normal, yet somehow, someway, I was unusual. That thought alone disturbed me and made me curious at the same time.
+
+Stepping into a confined warp drive, the pylons around me engaged, bursting into ocean colored fires. Primordial mana flowed beneath me, filling several rings filled with crystalized mana of the same color.
+
+The air around me vibrated, the steel sheening with a dark blue color. Moments passed as it reached a fever pitch. As if blinking, my surroundings changed without me noticing.
+
+Glancing around at the pylons, they no longer burned. I shrugged before stepping out of a mirror match of the previous warp drive. As I did, I found myself in the same style of building. Unlike the clean, organized Belka, panic engulfed my surroundings.
+
+Espens and different races shouted at the receptionists. People shoved and attempted forcing other people down. One of the warps had dozens of people in it, everyone struggling to escape the doomed planet. A Sentinel stood guard in case actual violence erupted. Their hulking frames kept the underlying chaos at bay, but it was evident to anyone with a brain that a riot was moments from exploding.
+
+Usually, I'd just push past the frenzied congregation. I didn't have a ton of time for this, however. I stepped down from my platform, waving outwards with Event Horizon. The aura passed over the room, only the suppressive effects were active. The entire group went silent in an expanding wave with me at the center of it. Espens ceased crawling over one another. Diplomats quit arguing. Guards struggled to keep their composure, not wanting to be fired.
+
+I glanced around, "Follow the normal procedure. Understood?"
+
+Those closest to me outright lunged onto a knee. Some bowed. Even the Sentinels took a step back. As the silence stretched out for a few moments, I repeated,
+
+"Understood?"
+
+Everyone spoke in eerie unison except the Sentinels,
+
+"Understood."
+
+I pulled Event Horizon back, my runes turning white. I walked out of the now orderly place, everyone falling in line, waiting to be screened. As I stepped out, of the building, one of the Sentinels blocked my exit with a spear. I glanced at him as he gave me a curt nod,
+
+"Thank you."
+
+I gave him the same nod soldiers give one another before continuing my walk out. I stepped out onto a view of Yildraza. The city changed since I last saw it. The once bustling area of commerce hit a fever pitch of panic. Smoke rose from several buildings in the distance. Banners were hung from buildings, many of them embroidered with the image of a hanged gialgathen.
+
+Roaming groups of espens walked along the streets, many of them wearing masks over their faces. Their symboled uniforms and coordinated movements gave them an official look, though their actions didn't. They shook down shop owners, various strangers, and anyone without that symbol on their chest.
+
+The symbol of a hanged gialgathen.
+
+As I paced further, I discovered what was bothering me about Yildraza. Only the thinnest veil of sanity covered the otherwise evident terror that had taken hold of these people. They no longer cared who brought stability, the imminent glassing making many go mad. Some sort of quasi-government took hold of the fractured factions during this time.
+
+It was the same government that Thisbey attempted to make.
+
+I stepped past these events, standing over the throngs of people. So many people scrambled in desperate for an escape. The repercussions of the Overseer's proclamation was evident to me now.
+
+This was a planet on the brink of destruction.
+
+This was only more motivation to get moving. I rolled my shoulders before bending down and leaping up. The concrete walkway cracked under my heels as I shifted mana types fluidly. Using Force of Nature, I pulled myself along. Leaving fractures in the pavement, I zoomed across the skyline, avoiding others gifted with flight.
+
+After a few minutes, I reached the hill Helios teleported us to after we got our asses kicked by Lehesion. Once at the mini-mountain, we found the Sentinel still there. He meditated on the ground with his legs crossed, a couple rays from the sun glinting off his armor. He gave off this air of majesty.
+
+I walked up before tapping his back. The Sentinel lifted his head before turning to me. I offered a hand as he began pushing off the ground. He grabbed my hand, pulling himself up. As he did, he rolled his shoulders,
+
+"It appears as though that evolution you spoke of has finally begun manifesting."
+
+I still frowned from the events in Yildraza, "Eh, we'll have to see."
+
+I opened the dimension I gained from my armor evolutions. It acted as a separate space I could manipulate, and I hadn't yet truly tapped its potential. After opening the star-laden portal, I willed Torix out. Like pulling a cadaver out of the morgue, his body floated out with his arms by his side. I suspended him with a gravity well before Torix snapped into action.
+
+He turned around, stunned at his surroundings. I set him down, keeping him standing even as his knees wobbled. The Sentinel gave him a look of disdain, eyeing his weakness. Torix shook his skeletal head,
+
+"It's a pure stasis. All was null, and for me, no time has passed. It worked just as our experiments predicted." Torix glanced at his status, "Uh, seventy messages already? Ugh."
+
+The Sentinel stared between us, "What did you mean by 'experiments'?"
+
+I said, "I stored him in this pocket dimension I have control of. It's untraceable apparently, letting me smuggle Torix onto Giess."
+
+The Sentinel glared at me, "You admit crimes to me? Do you forget who and what-"
+
+I slapped his shoulder, "Come on man, you're off duty. Besides, we have a lot to take care of, like, I don't know, saving a planet from getting glassed?"
+
+Torix nodded, clasping his hands behind himself, "Indeed. I'd imagine saving billions of life forms takes precedence over a petty case of smuggling. Wouldn't you?"
+
+The Sentinel sighed, "Fine. Where will we go, and what will we do?"
+
+I turned to Torix, "That's a good question."
+
+Torix kept reading messages, "In all likelihood, we cannot prevent the glassing of Giess any longer. Even if we destroy all the silvers, Lehesion, and the Adair family within the next three weeks, Schema will be sending a message with this planet's utter destruction."
+
+The Sentinel glared at Torix, "Then you're not stopping the glassing?"
+
+Torix raised a palm to the Sentinel, "We shall still attempt it, but I doubt we can sway the decisions of a godlike entity such as Schema. Instead, recruiting those that cannot escape takes precedence. In this case, that means offering sanctuary for the gialgathens as they are the most sentient and most useful to us and our cause."
+
+He waved his raised hand, "In my eyes, the most justified course of action would be uniting with Chrona, Krog, and Kessiah. We'll be able to leverage their base of operations most effectively once there. As we cut our losses, we'll be relying on you to lead them once there."
+
+"Can do." I pointed in the distance while glancing at the Sentinel, "Can you teleport like an Overseer can?"
+
+The Sentinel pulled his spears from his back, the ornate engravings catching my eye,
+
+"Yes, but only to places that I've been to."
+
+Torix opened a map of Giess, showing the location of the encampment known as Elderfire. The Sentinel pointed to a site about halfway there, "I can warp us this far."
+
+Torix closed his status, "Excellent. That's about 50% closer than I imagined we would be."
+
+The Sentinel swung his spears in circles overhead before lunging forward. His legs landed ahead as he stabbed the lances into the air, the violet blades rippling with arcane energy. They tore through space-time, the continuum around us buzzing.
+
+The Sentinel jerked back while pulling the spears apart. A high pitched ringing echoed out around us along with a shockwave. The Sentinel sheathed his spears along his back, and the lances thudded across his back as the electromagnets activated. Stepping up to the portal, he grabbed the edges of the tear and pulled apart. He struggled for a bit, so I stepped up.
+
+I channeled The Rise of Eden, encompassing him within the aura. Grabbing the edges of the tear in the continuum, I yanked up. The dimension caved in my wake. I stepped along the bottom, stomping the bottom of the portal under my heel. It opened a view to a dessert, the dry air pouring out of the tunnel.
+
+Holding it open with my hand and foot, I gestured to them both, "let's go."
+
+The Sentinel looked at me before peering towards the portal. He stepped through with a shake of his head. Torix followed, his skeletal hand cupping his chin.
+
+Stepping into the desert, the hot sand crackled under my feet. As I stepped out of the portal, space-time slammed shut, sending out another wave through space. Sand dusted into the air, flying away with the wind. I walked through it, finding myself standing atop a dune of sand. I lifted the Sentinel and Torix, launching us into the air. As we beamed forward towards the coordinates, I turned and asked Torix,
+
+"Where too?"
+
+Torix pointed into a direction, and I pulled us along. As we traveled towards Elderfire, I tore strips of my armor off and melted them. I stored the glowing liquid within my dimensional storage, aiming to use the utility more now. Torix reviewed the messages from earlier, his gaze focused and littered with concern. As he closed his status, he turned to me,
+
+"Be prepared when we enter Elderfire. Tohtella made her first genuine assault on the gialgathens while you and I were traveling here."
+
+I pulled us forward, the three of us speeding along like a missile,
+
+"How bad was it?"
+
+Torix winced, "Very."
+
+After a few hundred miles of dessert, we reached a set of ruins along with an oasis in the desert. Perhaps oasis was a bit too strong of a word. It was more like a waterhole. The refugees built Elderfire on some ancient ruins, and the supposed spring was actually just a well of water. Various gialgathens drank from this pool and used it to keep their skins hydrated. Otherwise, their hides would crack under the harsh winds and heat here.
+
+That's probably why they chose this isolated position. The genocide of the gialgathens escalated as the panic of the planet reached a fever pitch. With hiding as the goal, the gialgathens settled in a good spot. They abused espen's amphibious nature here. To attack, enemy forces had to cross a dessert as well, and staying here also gave the gialgathens a great view of their surroundings. While safe, this position still came across as desperate.
+
+That fact unsettled me. To my understanding, the gialgathens had always overwhelmed the espens in martial might. Turning the tables would be no small feat. Either way, we landed among the ruins of the old city, the general malaise and dismay verifying my assumption. The attack must've left a nasty scar then. Walking past the collapsed pillars, Gialgathens huddled under the shade, their different shades and sizes a feast for the eyes. On a different day, they'd be the majestic creatures I remembered.
+
+Now they bundled together, many of them injured. Their body's carried fresh scars and still scabbed over wounds. They lacked the pride and noble bearing I remembered from the gialgathens I saw in the past. I winced at the sight, but it made sense I supposed.
+
+The guy they worshipped as a god was a puppet for the enemy. Their stronghold was decimated by that same idol in less than a single day. Now they faced a relentless force intent on exterminating them. Seeing their broken spirits and humility, it made me miss their cocky demeanors from before all this happened.
+
+And still, I questioned how this kind of thing happened.
+
+After passing dozens of these worn down derelicts, we reached the well of water at the heart of Elderfire. Chrona stood at the entrance to what was a rift opening. It opened up to an underwater domain with fish and other creatures swimming through it. The time mage peered up at me, her eyes weighed with exhaustion and her chest lowered. It caught me a bit off guard.
+
+Beside her, Kessiah sat down on a block of stone, attending to an endless array of wounds. Dark circles sagged under her eyes, her will extended to its absolute limit. Above them both, Krog flew and spoke to several armored gialgathens, ordering them to patrol the area.
+
+As we stepped up, Krog glared down at us. He flew down, his feet crushing stone under his clawed feet. As he grimaced at me, I found new scars over his face, neck, and body. His wings carried a few extra holes. In his eyes, the spirit of a warrior burned bright.
+
+In just a moment, I understood who was leading this entire effort.
+
+Krog kept his head high, his pride still there. There was a subtle desperation and relief in his words as he nodded to me, "Thank you for your arrival, leader."
+
+His respect caught me off guard. Something awful must have happened. I glanced around and spread my arms, "So, uh, what happened here?"
+
+Krog glanced at Chrona, then back to me, "Several of our cities were assaulted this morning before dawn. It happened after the Shapeless Arbiter killed several of the standing members of the rebels."
+
+I raised an eyebrow, "Shapeless Arbiter?"
+
+Torix leaned towards me and whispered, "They call Althea by that name."
+
+I shook my head, "Good god, what has her so motivated all of a sudden?"
+
+Torix shrugged, "Perhaps something more personal occurred."
+
+I made a note of that before hearing Krog out. The red and orange gialgathen continued, "They retaliated with a fierce counterattack." Krog shivered,
+
+"A mass of Hybrids assaulted our cities. It was a complete and utter slaughter. Our forces are in turmoil. I cannot organize them or gather moral."
+
+I narrowed my eyes, "And this happened this morning?"
+
+Chrona stepped up, leaving her station, "Yes. Up till now, the rebels hounded us like weaklings. They nipped at our heels, but they never openly confronted us. Today was different. They darkened the sky with their numbers, the Hybrids raining down like an endless storm."
+
+I glanced around, "Ok, and what did we do to stop it?"
+
+Krog looked at me, "I organized the retreat from Selarelia and Monothel. Chrona and I stopped them in those two cities. We were unable to stop the masses in other locations. From the messages I've received, they are war zones."
+
+Torix skimmed a few of his messages, "This report mentions that most of those caught in the crossfire weren't killed. What did you mean by that?"
+
+Chrona steeled herself, "It meant what it says. Before this attack, we believed this was a genocide. We all believed that we were to be culled. This isn't so."
+
+I glanced between them as Krog's eyes grew distant,
+
+"No, it is not something so simple. They aren't killing us. They never were."
+
+A spark of realization sprung through my chest as Krog growled,
+
+"They are harvesting us."

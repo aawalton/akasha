@@ -1,0 +1,199 @@
+---
+id: 7e12f3db-f62f-532f-b1fa-8dff1f7d71a3
+page-type-slug: story-chapter-royal-road
+title: "334 Sympathy as a Dagger [II]"
+slug: 0441-334-sympathy-as-a-dagger-ii-3269607
+partOf: path-of-the-deathless-book-4-completed
+position: 441
+ownLength: 5165
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3269607/334-sympathy-as-a-dagger-ii"
+royalRoadId: "3269607"
+---
+
+Once upon a time, there was a mother who was too honest with her child. She told him directly that stories are like opium:
+
+“They addle the reader's mind and make them confused about the true state of the world. They take the sting away from that cold and caring pain which comes with existence and replace it with a supposedly meaningful bitter-sweetness that is far more palatable, but altogether untrue.”
+
+With each word this mother spoke, her child realized more and more that people are not characters in a story, that there is no grand theme to their lives aside from what they decided to pursue and what they could achieve by their own power and the conditions of their environment.
+
+Some thought the mother cold:
+
+“You should let your child enjoy a few fairytales! He should be allowed to dream and hope. There will be time enough for him to suffer the cold hand of reality and the viciousness of the System.”
+
+But this too is an opium, a delusion that the System cares about your age at all. There is nothing that makes a child special. My love for you is great, but my love for you means nothing if a Pathbearer of a higher Tier than me enters our home right now and butchers you. I will scream and fight, and my mind and heart will break, as will your father’s, and it will make no difference.
+
+We do not live a story; we live a life, and life is ruled by one thing: entropy. Not strife. Strife is the artificial means the System uses to deny entropy its due. All this struggle, violence, and constant striving that defines our days is solely meant for this grand existence, this Integration, or so it is called, to persist indefinitely against the natural cycle of the universe.
+
+And I think it's quite a grand thing. A dizzying and awesome feat on the part of the System. Yes, so many of us Pathbearers die bitter and hopeless deaths, but the flames of our wars and the heat of our struggle feed it everlasting power. We are effectively its perpetual motion engine. Through us, the System has a means of sustaining true immortality, beyond the likes of which a Pathbearer will ever know, or so most might think. A rare few have the hubris and imagination to dream.
+
+But I have more capability than even those who merely dream. I'm going to tell you a new story, and I'm going to leave all those complaining voices silent and give you and them what they really want. Except my fairytale will not take place on pages made from mundane paper. No, only the best for my boy.
+
+We are going on a trip, Udraal, but you must not breathe a word of it to your father. Not until we get back and I am absolutely sure that this book is good and proper. You will be the judge of the contents within. Be brutally honest. Mommy can take it.
+
+But before we leave, there is someone I want to introduce to you, a sort of… playmate I have been trying to make for you for quite some time.
+
+Her name is Evanescia. And she will be our guide in this fairytale wonderland.
+
+—Recovered memory stored within a focus crystal found inside one of Udraal Thann’s abandoned laboratories
+
+334
+
+Sympathy as a Dagger [II]
+
+Uva despised logistics. She despised them as a Sister in training. She despised them as a Sister in the field. She despised them now as a Heroic-Tier Pathbearer who had to arrange hundreds of wounded, malnourished, and traumatized prisoners while also managing the now sympathy-stricken guards to ensure there would be no clashes among the two groups. Her solution came in the form of a simple rearrangement. All the prisoners went inside the Bell-Hold, and the ones who needed food were directed toward the pantry while those among them who possessed Medical Skills were tasked with healing the feeble. Their former jailers were placed outside, manning the walls, cleaning the bodies, separated from their victims by the hold itself.
+
+The entire process took two hours, and a cascade of casualties followed. Thanks to Uva's brilliant suggestions, a fourth of the prisoners were now afflicted with some plague or disease, and the filth that caked their forms brought forth infections aplenty. The guards suffered their own ailments, mostly mental. The survivors, faced with too many dead comrades and unable to endure the wrongness of their deeds, flung themselves from the walls or drove blades into their carotids. The suicides numbered fourteen; Uva was unable to save any of them. The deaths came too fast. Too sudden. Too unannounced. Such was a crippling limitation of her sympathetic Psychomancy—when you controlled someone's mind in its entirety, you decided what they did. When you brought certain buried feelings to the forefront and forced them to examine themselves, then you left them with the initiative, even though you changed their hearts. That came with brutal consequences. Some people couldn't live with who they were in the light, and so they chose that final oblivion to escape the burning bright.
+
+The self-resolved dead joined their comrades in the moat. The festering rivers of snaking centipedes fed well, tearing through armor and burrowing into flesh before hollowing bodies from the inside out. That brought forth even more trauma. Trauma Uva made sure to eat and convert to power to eliminate more unnecessary attrition.
+
+She had need of all of them: all the guards and all the prisoners were necessary if she wanted to bring down the Gnomish Council.
+
+“Is that what they'll be doing now?” Harkness wanted to scoff but held herself back. She scorned Uva in most cases, but now she simply pitied the girl. That pity leaked over into Uva's mind, taunting her directly. “I knew you were inexperienced, but I didn't take you for an ignoramus.”
+
+“Speak to me candidly, Harkness, or I won't let you speak at all.”
+
+The psionic effigy sneered. “Have you any idea how much effort goes into turning someone against their own nation? Into cultivating a traitor? Into flipping entire sections of society against itself? Of course you don't. You have no knowledge of this. You are an undisciplined, unpracticed, unaware cog of your state, serving the latest interests against the most atomized of your society.”
+
+“I didn't ask you for a political dissertation. I asked you what you mean.”
+
+“I mean that the guards have little to no reason to defy the Gnomish Council. They feel bad, yes. Their sympathy is driving them past the edge of despair, and some of them have already taken action—against themselves. Most of them haven't even thought about the Council. Their minds are in turmoil about how they view themselves, and that is mainly what seizes them. That is mainly what halts them now. Themselves. They despise themselves, and the prisoners are in no shape to be used either. If you direct them against the Gnomish Council, they will be cut down. They're feeble, filthy, broken. This is the point. Evanescia wants you to lead these filthy, feeble, broken rabble in a sort of uprising against the gnomes—but only after you secure a critical mass of their number and the slavers’ from within.”
+
+Uva scoffed. “I don't see a need for that. If I can compromise enough hearts and minds, then—”
+
+“Stop,” Harkness interrupted her. “You need to think like a reader considering a story. I know that you are rigid and unimaginative, but picture yourself as a hero now, which clearly is what the Usurper-Narrator wants you to be. What is it that people want from a story?”
+
+“Conflict?” Uva guessed, wondering where Harkness was going with this.
+
+As this conversation took place in her mind palace, the other instances of her consciousness cringed as they realized there wasn't enough food to feed all the prisoners inside the Bell-Hold for even a week. Furthermore, they didn't have nearly enough medical supplies to treat all their sicknesses either. This was, after all, just a fortress outpost in the subterranean depths, a checkpoint that was meant to deliver a batch of goods onto the Deepdiver, not a long-term living facility. Not for so many, anyhow. Another logistical issue she had to deal with.
+
+“Yes, conflict, but mainly tension. She wants you to confront a problem, struggle, and then, after going through a series of setbacks and triumphs, face the darkest hour before you finally prevail and thus bring the story full circle. That is the mechanism of most heroic stories meant to extol the virtues of a specific individual.” Harkness couldn't hide the scorn rife in her voice, but she still managed to finish her assessment regardless. “Evanescia’s delusion for selecting you as a hero due to your racial history aside, you must play this part, or she will simply revert everything. However, your conversation with her has revealed a few psychological vectors that we can exploit in her as well. She is not an experienced warrior—nor does she have the taste of one. However, she will change things for authenticity's sake and to rectify your dissonance. But she likely cannot anticipate my strategies disguised within yours.”
+
+“What do you mean?” Uva couldn't help but be suspicious. Even though this version of Harkness was just a telepathic effigy, the woman was an experienced spy, and spies were creatures of deception above all else. Uva didn't think it was possible for her own mind to betray her, but she had gone through enough strangeness that such an outcome wasn’t beyond expectation.
+
+“I mean that we should have a layered strategy to deal with a surface-level reader.” Harkness's spite was a two-headed snake: one pointed toward Uva, the other toward Evanescia. “There will be guards that you need to control directly. I know it bothers your newfound morals, but it must be done for the greater good. I will explain why in a moment; however, most of the rabble should be guided by suggestion instead of direct control. This is a good idea. Chaos will mask our true intentions, and furthermore, a leaderless movement is far harder to crush than one that has an obvious spearhead. Namely you. And while we're on this line of thought, it will be best if you appoint a false leader for this rebellion. Just to mislead the gnomes when the time comes.”
+
+“I don't see a point to this. I'm going to ring the Great Bell and call the Deepdiver. Once it arrives, we'll simply slip aboard the moving city and then focus on compromising the Gnomish Council directly.”
+
+“Again, you aren't thinking, girl, you are not thinking at all!” Harkness snarled. “You keep treating this like a subversive operation. It is not. You are a character in a story. Your tactics do not matter. What matters is the inevitability of tension. There will be a point of tension. It is what I experienced during my loop through the Fairwoods. The memories of which you haven't reviewed yet and refuse to review because you keep trying to brute-force the story using your Psychomancy like the toddler you are.”
+
+Uva hummed. “I would be mindful of what names I call my enemy. Lest I find the insult turned upon myself. The shame of losing to a toddler must sting.”
+
+“Less so when said toddler is a slave to the Outer Gods and a channel for their power,” Harkness sneered.
+
+There was an undeniable flavor of salt in the former Owl’s being. And Uva quite liked the taste of salt. “Yes, let us continue using that excuse. But self-delusion aside, you were about to explain to me how I am to delude the Gnomish Council and Evanescia of my true intentions.”
+
+“Our approach is simple. We expect direct opposition to us to arise. We will face setbacks. That much is inevitable. It is essential for the tension Evanescia desires to arise. We will likely find ourselves matched against a Psychomancer of the Legendary Tier, or even higher. Maybe several Legendary Psychomancers. They will likely serve as the hand or elites of the Gnomish Council and prevent us from simply overpowering them directly. But they will also have obvious weaknesses for you to exploit. Something that adds a narrative flair about how your wisdom or properly cultivated relationships among the slaves allow even the weakest Pathbearers to overcome the strongest. Some kind of drivel like that.”
+
+“And meanwhile?”
+
+“And meanwhile, we make additional preparations. We create so many threats and plot threads that Evanescia loses track of them or simply lets one slip by unnoticed. The most direct thing we can do is find a figurehead to serve as a leader. I suggest finding a prisoner who is particularly robust of body and charismatic in presentation to serve as your face. You can whisper suggestions to them, and then find other such charismatic creatures to seed with thoughts of rebellion. From there, cell after cell should spread through the gnomish operation, and the acts of rebellion and sabotage shall strike at random moments, unguided by a single will. Or so it might seem even to a rival Psychomancer.”
+
+Loath though she was to admit it, Uva saw the wisdom in Harkness' suggestion. Before gaining the System's favor and undergoing her Eldritch transformation, Uva was dedicated to counter-psionics. She was a hunter of her own kind and protector of Weave’s security. Harkness occupied the exact opposite of the spectrum. She was someone that collapsed a system from the inside.
+
+“Logistics aren't your weakness alone,” Harkness continued. “They can be made into anyone's weakness. It is always better to be the attacker and maintain initiative when you are hidden and striking from the shadows. This grants you knowledge of your enemy, while leaving them ignorant of you. Since we are whispering these intentions to our enforcers and they are just suggestions that they will likely not remember once we rip them out of their minds, it will seem spontaneous. Even a rival Psychomancer, no matter how high their Tier, won't be able to discover the sheer duplicity at play. But they might be able to suppress your rebellion, because remember, Evanescia wants her entertainment. Watching you simply walk through the opposition will be tasty at the start as a power fantasy, but lose its flavor quickly. No matter what our first strategy is, it will fail.”
+
+“And so you want me to add a control group,” Uva concluded.
+
+“Yes, specially selected Pathbearers who can apply the right pressures to an organization and cripple it from within. We're not selecting for power exactly; we're selecting for influence and intrusion. And we're also selecting them because we need them to perform a very specific set of actions at times. Actions that might not be logical or natural for them to perform under suggestion alone.”
+
+This made sense to Uva as well. After all, though some of the guards were undone when pierced by the humanity of their prisoners, some of their more callous comrades remained impregnable to the daggers of sympathy and had to be eliminated directly.
+
+“Then I'm looking for a gnome. Preferably a gnome battle mage with their own Psychomancy Skill.”
+
+Uva’s musing earned a rare huff of affirmation from Harkness. “Yes, exactly. You want someone who possesses a symmetry with your general skills so that some of your actions can be passed off as theirs. Even if they are compromised, you can remain hidden.” She chuckled. “Perhaps you would have had the potential to be a bird of our feathers.”
+
+As Uva drew herself up and out of her mindscape, she gave Harkness’ projection a smile. “I prefer to stay a spider. Let another come into my web.”
+
+Her stacked consciousness began working through the guards. If Uva wanted to mantle a Psychomancer, then there were only two options, both gnomes. They were an odd folk, very small in stature compared to humans and Umbrals, if still twice as tall as the average goblin, but much thinner than the green-skinned and noseless species that had migrated to Integrated Earth following a lost Incursion on their part. The gnomes’ skin color was more similar to Adam's than her own, and their overly large eyes came in pretty much every color and shade there was. Both sexes of the race commonly grew facial hair, with most of the men sporting long and braided beards while the women kept mustaches of different styles, as well as having longer eyelashes than their male counterparts.
+
+The first of the two that were now in Uva's sight was an Adept gnome Quartermaster with a paltry Initiate Psychomancy Skill. The second was the Bell-Hold’s Telediviner—a Master-Tier Pathbearer possessing a Divination and Psychomancy Skill Fusion who was burdened with the duties of mentally soothing the centipedes filling the moat and projecting thoughts to the Telediviners in other Bell-Holds as part of a communication network.
+
+The former came with reduced scrutiny. The latter came with more options. Thanks to her Skill, Uva could choose both. But instead of forcing her way into their minds, she directed a tendril of her mental magic to greet each of them.
+
+“Do you want to do the right thing?” she asked directly.
+
+Both gnomes shot to attention, shaken by the telepathic voice that greeted them. The Quartermaster currently had his bald head stuck out over the drawbridge. He was heaving nothing but sour spit after watching several of his friends be cast into the pit and devoured. The Telediviner was a white-haired woman with a thin, twirled mustache of the same color and ice-blue eyes that clung tight to a turret atop the parapets, having done nothing but cleaning the bolt loader over and over again to distract herself from misery since being appointed to her post there.
+
+“Who… Who's there?” the Quartermaster breathed, verbalizing his terror rather than responding using Psychomancy.
+
+“You're the one, then. The one that planted the thoughts in our heads.” The Telediviner's response was entirely different; her thoughts as sharp as her voice as they greeted Uva. In a single encounter, she'd deduced all that had happened. “I knew it had to be another mindfucker. I buried the thoughts deep. I sealed them with mental chains. You godless bastard. What have you done to me?”
+
+“I only made you hear what your heart was singing,” Uva said honestly. “If you were planning to blame me for your emotions, don't. I simply brought them to the surface. I did nothing else. If you despise me for making you aware of your slaves’ humanity, then you are a blind wretch.”
+
+The words she spoke to both were the same. Though their initial responses were different, they both flinched the same way, undone by shame, cowed by a greater power.
+
+“What do you want from me?” the Quartermaster cried out into the darkness. The ogre and gnome guards also puking nearby were startled by his outburst.
+
+“Are you going to punish me now?” the Telediviner asked. A part of her feared what was to come, but another welcomed the most deserved fate. She had been keeping more than laments buried inside her chest. There was a self-loathing there as well. She had been meant for more, or so she believed, but for the past ten years that she could remember, she was little more than a slaver, working these miserable operations, a practitioner of the skin trade with no greater glory under her belt, just faces she scrubbed from her mind and screams she tried to banish.
+
+Uva hummed. “I'm going to give you a chance to be something more, to do something right. I need your help. You know what you're doing is wrong, even if you have excuses in your mind. I can hear how your insides wail. You know you are party to depravity, and you know that this thing you stand for, the Gnomish Council's urge to capture and enslave, is wrong.”
+
+“It’s not my fault!” the Quartermaster shouted. By now, the ogres and gnomes around him were making distance, assuming he'd lost his mind and was close to a dangerous outburst. “I was… I had to! I would have been one of them if I wasn’t useful!”
+
+“The Courts forced us to this point,” the Telediviner spat. “We belonged on the surface. We had a home once. But we were banished. Driven down by the others. They refuse to even accept us as Fae. They consider us more Patternist than Samsarist.” A seething hatred shrieked out of her mind, like steam from a kettle. “We had no choice!”
+
+“You have a choice now,” Uva declared. “I am giving this choice to you. Previously, I would have forced my way in. But I don't want to be like you or the Council. If you wish to do the right thing, like me, if you wish to discover what it feels like, then I want you to let me in so that we can help bring this organization down. Afterward, we can talk about the surface and what the Courts are planning, and about the true player behind the pages.”
+
+With her final cryptic statement, both gnomes widened their eyes, wondering what she was implying. Uva half-expected the Usurper-Narrator to intervene and turn a page back, telling her she couldn't drop such a large spoiler. But when that moment didn't follow, she pushed her luck a bit further. The Seeker showed both gnomes a flicker of Evanescia, and a hint at the true nature of this world. A rush of memories flowed over. The Quartermaster folded once more and heaved harder. The Telediviner mirrored her counterpart, but she actually had vomit to release—all over the turret she'd been cleaning. Philosophically, emotionally, and existentially shaken, both gnomish Psychomancers were briefly indisposed and unable to give their response.
+
+As Uva waited, she directed a healthy prisoner to the top of the hold so they might ring the great bell and call upon the titanic beast that carried the greater remnants of the gnomish race from place to place, forever fleeing the wrath of the Courts. Uva was like a dragonfly skimming the surface of a pond. Both of the gnomes’ minds housed a great many memories, a long chain of history planted by Evanescia to give this story she was supposed to survive credence.
+
+And so, as the slaves gorged themselves on what little food there was, as wounds were sutured and, in worse cases, cauterized, as the prison guards became guardians of those they once walked in chains, a series of chiming bells echoed. The noise was so sweet that even the surrounding stone couldn't hold it in abeyance. It passed through the matter, trembling far, vibrating deeper and deeper down the cavernous black gorge that loomed behind the Bell-Hold like an empty sea.
+
+First, there was silence, only the quieting echoes of the Great Bell. But after a few moments, there came a violent, ominous rumble that made the earth itself tremble.
+
+Both Psychomancers whom Uva interfaced with turned. They knew what was to come, and so did she. “This does not end. Not unless you decide to make it end, and you will not become someone who can be at peace with themselves if you simply wait. Choosing to do nothing is also an action.”
+
+And now, Uva wished she were a bit more like Shiv. Her habit of ripping into someone's mind and bending their will left her persuasiveness wanting, and her Psychology Skill was comparatively feeble, since she could simply peek behind the curtain of someone's consciousness. But she knew they were emotionally fragile, and—
+
+“I can’t,” the Quartermaster whimpered. “Please don’t. I don’t want this… I just want to be done. It’s too much…”
+
+“Am I real?” the Telediviner asked.
+
+The two gnomes surprised her. They split tracks once more. The weaker Psychomancer was also weaker in spirit. He was crumbling. He no longer had the taste for any of this. She had made a mistake in showing him too much. That glimpse of Evanescia, of the true shape of this dimension, had broken something deep inside of him. Not only was he a slaver to a miserable exiled kingdom that existed beneath the heel of the cruel Courts, not only was he ostracized from the other Fae; he was effectively a character in a story. How would one face the fact that their history and existence were altogether manufactured? Perhaps a sense of self remained, but what happened when the pages flipped back? Were they still the same? Or would they simply be replaced by another iteration of themselves?
+
+And what about me? Uva wondered. Do I share that fate? Am I still the same existence that entered this realm?
+
+The spike of existential dread that followed the thought was compounded by the low rumble of the approaching Deepdiver. The caverns shook. Debris fell from on high, and dust climbed, bathing the entire space in a swirl of haze, but from that vast chasm behind the Bell-Hold came spearing lances of light that parted the dark. With every second, the lances grew brighter, and there came a reverberating warble that shook the air and rattled everyone's ears with the chiming of millions of bells that filled the canyon. Yet, though it announced its arrival with calamitous noise, the Deepdiver itself was a gentle, dextrous being. Its gargantuan size was belied by speed and smoothness, and it slid through the cavern without breaking any more of the surrounding earth. This tunnel had been dug long ago to maintain maximum velocity.
+
+Silence was the Deepdiver's nature. Its body was ridged with stone-like scales, and only the veins of crystalline light between them allowed it to be distinguished from the surrounding walls. The veins led to beady eyes, hundreds of them, all glinting like studs of onyx along the beast's sides. Shrouded by dust and wrapped in the gloom of the depths, the Deepdiver was an unclear thing, even for the prisoner standing at the top of the Bell-Hold. But Uva had seen it before. At least a section of its body.
+
+It wasn't truly insectoid, nor was it anything like a serpent or even an eel. A dense, rock-like matter crusting its exterior was closer to a cordyceps, and ultimately, its mind vibrated with such ambient awareness that Uva was almost certain it was an awakened creature, at worst a little dull, yet far too alien for her to casually comprehend. Pair that with its Legendary-Tier Magical Resistance, and piercing through its barrier to seize control of its consciousness was a tall order.
+
+Once more, it warbled; the air itself shook. As the dust settled, the prisoners clutched each other and remained still within the hold. Some of them whimpered; others prepared themselves for what was to come. The guards knew. They stared on, and there was an ominous feeling among them all, like they were uncertain what was about to happen next. It was a fitting feeling. Uva wasn't fully sure either. In every loop prior, she simply boarded the Deepdiver along with the other prisoners, got familiar with this branch of its body, and began a campaign of sabotage.
+
+As a few crystalline veins began rippling with black static, a pulsating chasm of Dimensionality opened, and a path revealed itself, leading into the Deepdiver as it did in the loops before. A small contingent of heavily armed ogres emerged. They marched across the back of the Bell-Hold, each one bearing a long-barreled weapon that had an axe spouting out from beneath the gun heads. Their armor was also forged of adamantium, a rare material in the Fairwoods.
+
+There were twelve members in the Ogre Elite Guard. They formed a hexagonal perimeter around the single gnome who stood at their center, and he trembled with magic: a Heroic-Tier Biomancer, Pyromancer, and Geomancer all at the same time.
+
+“Is any of this real? Is our history true? Is this all just a lie? Am I real?” The Telediviner veered on the verge of insanity, much like her fellow, torn between madness, despair, and a strange feeling of liberty.
+
+Harkness sighed with disappointment. “Fool girl, you showed them too much. You're supposed to tease someone's mind if you want to compel them, not break it with incomprehensible horror.”
+
+“I cannot say if we are,” Uva said to the gnome woman, ignoring Harkness. She sent a pulse of honest empathy across their link. “I cannot claim anything is true here. But if you want to find out, if you want anything to change at all, I need you to let me in. Will you? If you say no, I will find another way, and I will never speak with you again. Not in this loop, not in the next, and not in any that may follow.”
+
+The Telediviner’s hesitation lasted but a second. Mind-to-mind, Uva's honesty was like summer's breath, and that warmth settled upon her counterpart, a welcome change to her cold life serving cold masters in the cold, grim ground. “I… want to know the truth. I want to be someone else.”
+
+And as she spoke that, Uva felt the Telediviner’s defensively pointed Psychomancy field grow thin with reluctance. Uva slipped in without further preamble and settled around her new vessel's mind as she bound herself tight. Bit by bit, Uva's physical form faded into translucent strings as she deposited herself in another.
+
+“Have you a name, Telediviner?” she asked.
+
+A pulse of surprise came from her new carrier. “You didn't take it from my memory?”
+
+“I don't think we need to be enemies. I don't take things forcefully when you're not my enemy. I'd rather you tell me instead.”
+
+A heartbeat followed. A loud, imperious voice echoed from afar, further cast but from every stone, every bit of matter in the area. “Well, the bell is rung. Let's see what stock you have for us this time.”
+
+The Collector's voice rang afar, and his elite ogres marched forward, preparing to secure the hold. They didn't know what was staring at them from on high: Uva's Aberrant Fractals, the threads slithering behind the walls in the soil all around them.
+
+“Mara,” the Telediviner said. “I am Mara Einsfeld. Or at least I thought I was.”
+
+“Hello, Mara. I think I am Uva Mettabon, Sister of the Arachnae Order, and unsure Seeker of the Outside. I would say that I am pleased to make your acquaintance, but I don't feel much like lying either. So let's settle for another truth. I'm glad to have conducted your possession on the grounds of decency for once.”
+
+“I'm just glad you didn't tear into my mind,” Mara muttered.
+
+“Trust me,” Uva grunted, “it’s not a good feeling at all.” She paused. “But it was a lesson. Perhaps the one I needed.”
+
+Philosophy 10 > 11

@@ -1,0 +1,145 @@
+---
+id: 7f8f02ee-dabb-5662-9ad4-7768dd104e11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1362 - The Demon That You Know..."
+slug: 0159-chapter-1362-the-demon-that-you-know
+partOf: the-primal-hunter
+position: 159
+ownLength: 2826
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3733054/chapter-1362-the-demon-that-you-know"
+royalRoadId: "3733054"
+---
+
+Meeting old acquaintances was often a mixed bag, and seeing as Jake hadn’t met this person since Nevermore, he was unsure how this interaction was going to play out as he answered.
+
+“Bound to run into one another at some point, assuming everyone is capable and aiming to explore the Palace of Abundance,” Jake said in a neutral tone as he observed the other person.
+
+It was a rather bulky blue demon with ten horns growing out of his skull, forming what almost looked like a crown, that Jake once more immediately thought would make helmets awkward to wear. The demon wasn’t wearing much armor, though, but had on an elaborate robe with metal parts spread throughout, making him look partly like a mage, though his dense muscles and build screamed warrior. He was very much a hybrid, more than capable of both. At least that’s how Jake remembered the demon... or perhaps demon lord was a more accurate term.
+
+[Cerulean Demon Lord – lvl 352]
+
+“Very true, but I had only been standing here for a mere five seconds before you appeared before me,” the Demon Lord said before smiling and talking in a calm voice. “I must say, it’s good seeing you again, Lord Thayne. I hope you’ve been well since last we met.”
+
+“I’m managing, same as usual,” Jake shrugged, never having been one for small talk. “Also, you said you’ve been here for five seconds? I take it you got here by making contact with a ten-leafed flower, right?”
+
+“I did indeed?” the demon confirmed, curious what Jake was getting at.
+
+“In that case, did the flower’s surroundings look roughly like this?” Jake followed up while conjuring a projection.
+
+The demon studied it for a moment before shaking his head. “It did not, which I’ll assume means we entered this space through different ten-leafed flowers. Curious.”
+
+“Or one of us is merely a simulation made for this trial?” Jake proposed, only semi-jokingly.
+
+“An option we certainly cannot rule out, though I dare venture I’m not a simulation... though I reckon a simulation wouldn’t know it is one,” the Demon Prince muttered to himself. “It’s not a consideration that would lead to much productive I dare say, as I have no doubt that you are real. The system is not known for recreating Bloodlines.”
+
+“And you’re sure I have a Bloodline?” Jake asked with a raised eyebrow.
+
+“Your very presence confirms so. You aren’t exactly trying to hide it, resisting three of my skills unknowingly,” the demon shook his head.
+
+Jake considered keeping the gag going, but just nodded. “I guess. Still means we have no idea what the objective of this place is.”
+
+“At least nothing has presented itself yet,” the demon shook his head again. “Though I do believe this space is far more expansive than those I’ve encountered prior.”
+
+“Yeah, it’s quite something,” Jake confirmed, having already used Pulse himself, discovering that he couldn’t see any edges to this world even when he used it. In fact, Jake didn’t find anything when he used it. It was just a massive field of small golden flowers, so small they pretty much served as grass.
+
+“In that case, exploration seems like our best bet,” the demon suggested. “And unless you have any objections, I see no reason why we wouldn’t move together. Nothing indicates we are meant to battle one another directly, and I would certainly be more confident with your keen senses at my side.”
+
+“Isn’t it likely that only one of us will walk away with the reward?” Jake asked, raising an eyebrow.
+
+“Is it?” the Demon Prince questioned. “We confirmed earlier that we used different ten-leafed flowers to enter this space. Given that, isn’t it equally possible that we can receive one each should we pass this trial?”
+
+“That’s... huh. Good point,” Jake said, not really able to argue with that one, which did annoy him a little. He kind of wanted an excuse to fight, though it was clear the Demon Prince didn’t share this desire of his. Quite the opposite, the demon was obviously trying to avoid them coming to blows. Fighting someone who didn’t want to fight was rarely fun, especially when they weren’t even enemies. Jake wasn’t sure if he would call them friends, either, though, given how he didn’t really know the demon much as a person.
+
+The demon smiled while motioning with his hands. “Then let us proceed and see what this trial has to offer. I’ll also dare to take this time to converse, if you’ll entertain me.”
+
+Telling someone he didn’t want to talk to them felt a little rude, and truthfully, Jake was curious about the demon, in large part due to his power and his peculiar existence. Jake had helped him become a Cerulean Demon Lord in C-grade, and now, despite evolving, he had the exact same race name and appearance. That in itself was curious, but his power was more notable.
+
+Despite only being level 352, barely in B-grade, the Demon Prince felt stronger than both the Behemoth and Archfiend, and by a significant margin. Given his placement on the Nevermore Leaderboards, Jake had known the Demon Prince was talented, and that was before Jake’s assistance. Now, who could say just how powerful the Cerulean Demon Lord truly was?
+
+“I don’t see why not,” Jake responded after a moment, making the Demon Prince smile.
+
+“Would it be presumptuous of me to suggest you take the lead?” the Demon Prince asked. “I trust your instincts far more than my own luck.”
+
+“Now that is a funny coincidence. So do I,” Jake returned the smile with a small joke, lightening the mood as the two set off into the distance, Jake taking the lead as suggested.
+
+Jake set the pace high, wanting to test the speed of the demon, and he instantly found himself impressed. The Demon Prince kept up with Jake rather easily, not even having to use some kind of magic to speed himself up, something most people had to do when flying alongside him. If he used One Step, he would be even faster, but teleporting constantly made conversation difficult.
+
+At first, the two only made some small talk, getting the general gist of what the other had been up to since Nevermore. Jake learned that the Demon Prince had consolidated his own position within the Nine Hells and had very much been recognized as the top figure of his generation among all demons. He also shared rather openly his struggles and exploration of his new powers as a Cerulean Demon Lord, perhaps partly as a way to recognize Jake’s efforts in making him one.
+
+It would be impolite not to reciprocate, so Jake also shared what he’d been up to, though given many of his actions had been more high-key, the Demon Prince naturally already knew about them.
+
+“I will admit, I was rather worried when your showdown with Ell’Hakan took place, but never doubted you would come out the victor. I’ve seen more of what you’re capable of than others, after all,” the demon said. “However, I also recognize that the nahoom was no simple being, and he had a very tricky Bloodline. I’m glad you came out of it not only the victor, but it sounds like you didn’t suffer too many losses on your side. While general information has spread throughout the multiverse, the details remain unknown.”
+
+“I would guess things are even muddier regarding everything Yip of Yore related,” Jake commented with a smile. “And what happened with the Holy Church likely hadn’t been spread far and wide either.”
+
+“Now you've got me curious,” the Demon Prince said, narrowing his eyes. “I will not ask about divine matters, but I am curious about the Holy Church. As a new universe, I’ll assume they attempted to claim dominion over your galaxy, failing as they met you, but I guess there’s indeed more to it.”
+
+“Yeah, you can say that,” Jake shrugged as he gladly shared all the dirty laundry he had on the Holy Church, including how what had happened in his galaxy was mostly down to internal factions fighting within the faction, and the fact they’d tried to “obtain” Ell’Hakan’s Bloodline, one way or another.
+
+Usually, Jake wouldn’t share matters that should be confidential, but when dealing with the Holy Church, he really didn’t give a shit. If what he said ruined their reputation, maybe it was deserved that their reputation was ruined?
+
+“I’m not going to pretend I find the machinations of the Holy Church surprising. It’s only what I’d expect from them,” the Demon Prince said once Jake was done. “However, I do find some details interesting, including their use of a False God. The Church is very much against False Gods, calling their very existence blasphemous, so for them to use one is most curious. Unfortunately for this Desolate Child of Loss, it encountered the Runemaiden of Valdemar.”
+
+Jake raised an eyebrow at the demon, clearly knowing about Carmen in advance, as Jake had only mentioned he had a Runemaiden help him. Okay, he wasn’t that surprised the demon knew of her existence, but the tone in which he called her the Runemaiden of Valdemar.
+
+“You’re familiar with her?” Jake asked.
+
+“The Runemaiden of Valdemar? Most certainly. Runemaidens created using Valdemar’s Records are few and far between, and it’s best to be aware of them all. In fact, I’d dare claim I’m familiar with most of the notable figures we could encounter within this event, though I will also admit that I have little to no insight regarding their power for many. Only what I could gather from rumors, which is rarely accurate,” the Demon Prince shook his head.
+
+“Well, I would be interested in knowing... who are the five people you would rank the most notable in this event?” Jake asked curiously as he smiled.
+
+“Heh,” the demon chuckled. “I’m going to be arrogant and say two of them are right here. Then we have Aishalstromoz of the Regalflight, daughter of the Dragon of Gold. Before even fully maturing, she was incredibly powerful, and now that she’s reached B-grade and become a fully fledged True Dragon, it can only be assumed just how powerful she is. Wintermaul and Lopas, natives of your universe, are also theorized to be significant threats, though the organizational power backing them both is lesser. I know that’s already five, but I would be remiss to forget the members of the Dao Sect.”
+
+“The Eastbound Monk,” Jake nodded, feeling like he’d already heard that name mentioned so many times. He had lost to Arnold on the Nevermore Leaderboards, but everyone already spoke about the man with such high opinions it almost made Jake question if he had a Path kin to Yip of Yore, except the monk just made everyone think more highly of him.
+
+“Yes, most certainly the Eastbound Monk, but not only him,” the Demon Prince sighed. “There’s also the Chosen of the Lifesoul Daolord, Eron, who I believe is from your planet, and the Chosen of the Heartsoul Daolord. There might be more, perhaps even Chosen of other Daolords I’m not aware of, but with just what I know, the Dao Sect has certainly shown up in force.”
+
+“I see,” Jake nodded. “Haven’t come across any of them yet.”
+
+“My Territory has,” the demon said. “They weren’t too difficult to deal with, but it was only a group from the Water Palace.”
+
+Jake nodded again, recalling that the Dao Sect was split into palaces, each ruled by a Daolord. He didn’t know too much about the place and wasn’t too interested in it either, as he was suddenly struck by a thought. One he should probably have had a long time ago.
+
+The last time he and the Demon Prince met, hadn’t the demon invited him to his upcoming wedding? That was several years ago, and Jake had entirely forgotten until now, suddenly giving him a bad feeling akin to that time he completely forgot his mom’s birthday and felt like the worst son for days afterward.
+
+“Say... that wedding of yours... how did things go with that?” Jake asked a bit nervously. “I remember you saying an invitation would come... I think it got lost in the mail or something...”
+
+“Hm? No, a date hasn’t even been set yet. Why would invitations have gone out?” the demon lord asked, definitely sounding surprised at the very sudden shift in topic.
+
+“Oh,” Jake exclaimed with relief. “That’s one long engagement, huh?”
+
+“It’s a political affair more than anything,” the Demon Prince shrugged. “Its ultimate purpose is to maintain the alliance between the different Hells, with some also hoping it will lead to powerful offspring.”
+
+“Will the latter happen?” Jake asked curiously.
+
+“Maybe, maybe not,” the demon said, sounding genuinely unsure. “How about you? I understand that the concept of marriage also existed in your civilization before the integration. Were you married or had any partners?”
+
+“No to both,” Jake shook his head, not even having any partners from before the system worth remembering... or at least he didn’t really remember anyone of note. Something that momentarily struck him as weird. He felt as if there was at least someone worth remembering. Some relationship... but for the life of him, he couldn’t recall anything. Jake shook his head and refocused on the conversation as the demon spoke again.
+
+“Then how about now?” the Demon Prince naturally followed up, now truly looking for the juicy gossip. Unfortunately for him, while Jake was happy to spill all the dirty business of the Holy Church, he wasn’t open to sharing private details.
+
+“I like to keep things private,” Jake simply said.
+
+“So there’s someone,” the demon nodded with utter certainty in his voice. “And the fact that you want to keep it under wraps makes me believe it’s a figure of note. Seeing as there were rumors regarding you and the Runemaiden... no? Hm, who could it be, then...”
+
+Despite wearing a mask, the Demon Lord was scarily good at reading Jake’s reactions, instantly clocking that Carmen was wrong. Well, he wasn’t entirely off, as the two of them did have a friends-with-benefits kind of thing going for a while, but there was never any real relationship beyond that, and Jake had always just considered them friends.
+
+“Enough about that,” Jake once more tried to change the subject. “When do you think this wedding of yours will happen?”
+
+“It depends on a lot of factors,” the demon obliged Jake. “I understand that they want to make it a grand happening, seeing my new status and power. If I perform well and stand out, they will make it bigger and use it as an event to elevate the status of the Nine Hells as a whole. Most factions will probably be invited. Personally, I do hope to make it as big an event as possible, as the Records reaped from such a happening can only be beneficial.”
+
+Jake slowly nodded along, realizing that his and the demon’s views on that kind of thing varied widely. The demon saw a social event as an opportunity to exploit and was clearly aware of the political and diplomatic implications of such an event. Meanwhile, if it were Jake, he would definitely prefer to just elope and do a courthouse kind of deal, but that wouldn’t really make much sense with a political marriage. Not that Jake would ever agree to a political marriage in the first place.
+
+“Well, I hope things go well for you, and you get a brilliant excuse to make a giant party,” Jake smiled. “Speaking of something being giant, we’ve been flying for a while now, and I’m fairly certain we haven’t really moved anywhere.”
+
+“I was starting to get the same feeling,” the demon lord said, his vibe instantly shifting as he got serious and frowned. “There doesn’t appear to be any spatial magic going on; instead, it’s more like the world is infinite by design.”
+
+They both stopped flying, realizing it was useless. Floating down, they landed on the massive plain of golden flowers again, but Jake still didn’t get any response from his boots or any of his other senses. His intuition also didn’t help much, though he had a hunch that they weren’t in a rush.
+
+The two of them spent a few minutes trying to see if they could find out anything, but eventually ended up chatting, simply waiting for something to happen, only relying on Jake’s hunch that things would eventually sort themselves out.
+
+After about another half an hour, their trust that something would happen was rewarded, but not in the way they’d imagined. Rather than a trial appearing or the environment shifting, not too far away from them, something, or rather, someone, appeared in this pocket dimension.
+
+Another person who emanated an aura worthy of giving Jake pause.

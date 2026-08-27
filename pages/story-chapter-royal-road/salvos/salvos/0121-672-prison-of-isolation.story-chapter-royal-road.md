@@ -1,0 +1,265 @@
+---
+id: 97ace030-3132-50bc-a77f-1e25083a368f
+page-type-slug: story-chapter-royal-road
+title: "672. Prison Of Isolation"
+slug: 0121-672-prison-of-isolation
+partOf: salvos
+position: 121
+ownLength: 1594
+unit: words
+publishedAt: 2024-07-16
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1719553/672-prison-of-isolation"
+royalRoadId: "1719553"
+---
+
+672. Prison Of Isolation
+
+And I won.
+
+Hartia was dead.
+
+Well, actually, he wasn’t dead. But I had defeated him. I locked him away in a pocket space I had created, and in doing so, I had learned a brand new Skill.
+
+[Prison Of Isolation].
+
+That wasn’t all. I had also learned [Corruption Manipulation], which was interesting, to say the least. However, my [Prison of Isolation] was where I kept Hartia locked away for now. And he couldn’t break free.
+
+Even if I couldn’t kill him. At least, not at the moment.
+
+Maybe once my [Claw Of Corruption]’s cooldown ended, I could finish off the [Unseelie Lord]. For now, I was content with keeping him away as I flew back down from the crimson skies of the Netherworld.
+
+There was a mass of figures waiting for me below. They were all Demons— they were the Third Legion, and they had been serving under Hartia.
+
+Well… ‘serving’ is a stretch. They were forced to obey him, if anything. After all, he had been torturing them and killing them for fun, before I defeated him.
+
+But I didn’t know most of these Demons. I couldn’t have cared less if they died. What I did care about was the man standing at the front of the gathered group. He was my first ever companion. He was Haec. The former Heir of the Netherworld, and the Traitor of the Demon King.
+
+And he was smiling at me as I landed next to him. Giving him a nod, I placed my hands on my hips and beamed triumphantly.
+
+“I told you we could win.”
+
+“I never doubted you once, Salvos.”
+
+Haec replied, before he gave me a serious look.
+
+“But I didn’t receive any experience for Hartia’s death. Did he escape?”
+
+“Nope.”
+
+I scoffed and brought a hand up. There was a flash, and a cube appeared on my palm. Its surface was black and speckled with tiny sparkling lights. Like stars. Except they glowed with an iridescent color. And the surface of the object almost looked transparent, despite being fully opaque.
+
+I held it up to Haec and grinned.
+
+“This is my [Prison Of Isolation]. Hartia is in here.”
+
+“Seriously?”
+
+Haec stared at it in disbelief. I nodded.
+
+“Yep. I learned my first Skill in a while. It’s pretty awesome, huh?”
+
+“It’s more than awesome— it’s amazing, Salvos.”
+
+He gushed over the cube as I raised my chin. But I wasn’t able to indulge in him praising me more, because I was interrupted by a voice calling at me from the side.
+
+“Hey! What’s the deal?”
+
+Blinking, I glanced back at a trio of figures making their way towards me. Taburas, Bertrugil, and Aemula. They looked upset, annoyed, and confused, respectively. Moments ago, they had been lying in wait inside of my pocket space— [The World Of My Mind].
+
+But I had ejected them to defeat Hartia.
+
+“Why did you just throw us out?!”
+
+It was Taburas who was speaking out in outrage. But it wasn’t just her. Bertrugil frowned at me as he glanced back.
+
+“And you left us with the Deathsquad Hunters— could’ve been killed!”
+
+He agreed with the [Succubus], before glancing back. Behind him, I spotted Ultis and Aliq standing there, just as confused as Aemula about what happened. They stood there, surrounded by a pair of my clones.
+
+I waved a hand off dismissively.
+
+“I was protecting you guys. I didn’t want you to be harmed by either Hartia or the… uh, yeah. But now, you can probably return to my pocket space just fine now. Although, I doubt you need to do that.”
+
+I gave them a reassuring look. Aemula sighed in relief, but Taburas and Bertrugil looked uncertain. They exchanged uneasy glances as I turned away from them. I raised a brow at Haec expectantly.
+
+“I mean, we’re safe now that Hartia is dealt with… right?”
+
+Even I wasn’t so sure. Mostly because I knew nothing about how the Demon King’s Domain worked. It was possible that Hartia had a failsafe in place in case he was killed. Maybe even more Deathsquad Hunters would be sent our way. In which case, I wasn’t sure if having Ultis or Aliq around was a good idea anymore. Since they were former… or current Deathsquad Hunters.
+
+However, Haec seemed to be reassured that nothing like that was going to happen.
+
+“There is no need to worry. Not right now, at least. During Salvation, the Expanse is the least of Regnorex’s worries. We are safe as we are right now.”
+
+My first companion nodded at me. I sighed in relief, before I looked over his shoulder. My lips drew into a thin line.
+
+“So… what do we do about them?”
+
+I asked, eyeing the Third Legion. There were tens of thousands of Demons standing there— all of them collared, but none of them subservient to the Demon King. They were here against their will, forced to fight to the death for no good reason whatsoever.
+
+However, that didn’t mean every single one of them was trustworthy.
+
+“Do we just leave them here?”
+
+“No.”
+
+Haec shook his head as he saw a group of Demon standing at the front of the gathering. He drew back as he spoke resolutely.
+
+“I will deal with them. They will join our side.”
+
+“Are you sure? And how do we know we can trust them? How do we know none of them are loyal to Regnorex?”
+
+It was a valid question. One which I asked with a frown. But I was the only one who seemed concerned by that. Not even Taburas or Betrugil seemed worried. Haec shook his head, before looking towards the Third Legion.
+
+“Only those who prove themselves loyal to Regnorex are allowed to leave. And considering it is Salvation, they have already left. Those who remain at this point have no loyalty towards the Demon King.”
+
+“Huh.”
+
+I blinked when I heard Haec’s explanation. I watched as he drew back to deal with the Third Legion. I called out to him as he strode away.
+
+“I’ll let you deal with that. As for me…”
+
+I took a step back, opening up a rift into [The World Of My Mind]. It was not inhabited by Hartia, because I had cordoned off the space I trapped him, before breaking it away into the cube I had shown Haec.
+
+“There is something I have to deal with.”
+
+I turned towards Taburas, Bertrugil, and Aemula. The former two looked like they were about to protest, but the latter was concerned.
+
+“Is everything alright, Salvos?”
+
+“Yep. I will be back. And you two—”
+
+I turned to Ultis and Aliq as my clones ushered them forward towards the rift.
+
+“You’re coming with me and my clones. We don’t want you to cause any trouble.”
+
+The two Deathsquad Hunters scowled, but they didn’t argue. They disappeared into [The World Of My Mind], before I joined them. However, I didn’t enter the same room they did. They were also imprisoned, just in another section of the pocket space as they were guarded by my clones, and not in a separate space entirely while surrounded by corruption.
+
+I sat down in the main expanse of [The World Of My Mind], completely alone.
+
+“Now then, I have some time. So let’s deal with this.”
+
+I grinned.
+
+Salvos (S̶̛̼̗̅ecė̶̺̜͕ly’s S̶̛̼̗̅ė̶̺̜͕ntǐ̶̬nĕ̷̪ͅͅl̵̨̦̗͗̔̃) (The Devil’s Daughter)
+
+Species: [Primeval Demon of Pride]
+
+Secondary Species: [Lesser God]
+
+Subspecies: [Angelic Devil Princess] - Lvl. 168
+
+Class: [Draconic Apprentice] - Lvl. 153
+
+General Skills:
+
+[Advanced Mana Manipulation] - Lvl. 10 (Maxed)
+
+[Corruption Manipulation] - Lvl. 1
+
+[Corruption Navigation] - Lvl. 2
+
+[Identification] - Lvl. 6
+
+[Racial Skill: True Divinity] - Lvl. 1 (Maxed)
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 2
+
+[Rest] - Lvl. 5
+
+[Wisdom of the Old Gods] - Lvl. 5
+
+[Title Skill: Corruption Camouflage] - Lvl. 1
+
+[Title Skill: General Status Effect Resistance] - Lvl. 1
+
+[Title Skill: Invoke Wrath] - Lvl. 1
+
+[Title Skill: Protection of the Corruption] - Lvl. 1
+
+[Title Skill: The Devil’s Grace] - Lvl. 1
+
+[Racial Skill: Divine Essence of the Angelic Devil Princess] - Lvl. 1 (Maxed)
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 265 (+50) (+10)
+
+[Strength]: 265 (+50) (+10)
+
+[Endurance]: 265 (+50) (+10) (+3)
+
+[Wisdom]: 410 (+50) (+10) (+50)
+
+[Agility]: 450 (+50) (+10) (+5)
+
+Skills:
+
+[Available Skill Points: 0]
+
+[Angel’s Wings] - Lvl. 15
+
+[Barrage of Cinders] - Lvl. 20 (Maxed)
+
+[Divine Demon’s Mark] - Lvl. 20 (Maxed)
+
+[Divine Haste] - Lvl. 20 (Maxed)
+
+[Intimidation] - Lvl. 10 (Maxed)
+
+[Faux Limbs] - Lvl. 25 (Maxed)
+
+[Divine Nebular Construct] - Lvl. 25 (Maxed)
+
+[Divine Strike] - Lvl. 13
+
+[Divine Radiant Slash] - Lvl. 15 (Maxed)
+
+[Sacred Hellfire] - Lvl. 18
+
+[Salvo of Vanity] - Lvl. 25 (Maxed)
+
+[The Call of Armageddon] - Lvl. 15
+
+[The Holy Flames] - Lvl. 20 (Maxed)
+
+[Passive - Angelic Premonition] - Lvl. 15
+
+[Passive - Weapon Mastery] - Lvl. 20 (Maxed)
+
+[Available Grand Skill Points: 0]
+
+[Claw of Corruption] - Lvl. 2
+
+[My Flame Shall Burn Until Eternity Ends] - Lvl. 3 (Maxed)
+
+[Unused Skill Slot] x2
+
+Secondary Skills:
+
+[Available Secondary Skill Points: 0]
+
+[Draconic Fury] - Lvl. 20 (Maxed)
+
+[Greater Teleportation] - Lvl. 20 (Maxed)
+
+[Manifestation of the Old Gods] - Lvl. 10 (Maxed)
+
+[Prison Of Isolation] - Lvl. 17
+
+[Truth Divination] - Lvl. 10 (Maxed)
+
+[Warped Time] - Lvl. 20 (Maxed)
+
+[Passive - Dragon Scales] - Lvl. 10 (Maxed)
+
+[Passive - Master of Material Manipulation] - Lvl. 15 (Maxed)
+
+[Passive - Weaker Regeneration] - Lvl.10 (Maxed)
+
+[The World of My Mind] - Lvl. 1
+
+[Class Advancement Available]
+
+[Titles Available]

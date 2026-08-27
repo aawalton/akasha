@@ -1,0 +1,255 @@
+---
+id: 5b1b209d-c0ba-5c45-ac60-05a965774428
+page-type-slug: story-chapter-royal-road
+title: "136 The Sound of Thunder"
+slug: 0095-136-the-sound-of-thunder
+partOf: the-new-world
+position: 95
+ownLength: 2911
+unit: words
+ownProgress: 2911
+publishedAt: 2018-07-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/236599/136-the-sound-of-thunder"
+royalRoadId: "236599"
+markedReadAt: "2026-06-29T21:24:07.874Z"
+---
+
+People mentioned that they didn't understand Amara's motivations or character very well. I took the time to elaborate on it this chapter and set up a fun next few chapters. Hope you guys enjoy.
+
+Panic swelled in my chest, but I stomped it out. I tapped my forehead with a loose fist, wondering what to do. As I wondered, another message popped up.
+
+Torix Worm, of Darkhill(Time: Undefined) - The others and I are positioning ourselves near you. Althea’s scouting with Hod. He’s mastered something he calls a ‘shade form.’ We’ll see if it’s of any use. Knowing Hod, I doubt it.
+
+I’m certain Yawm will sense the Breaker’s approach, giving you some warning. We’ll assist as we can. Good luck disciple.
+
+I kept thumping my head for a minute before sighing. Over the last month, I researched common traits about Breakers. They cleansed high class bounties across a planet when they arrived. Anything that was around level 3,000 and unknown fell into that category. I fell into those requirements.
+
+To protect myself, I stood up and walked over towards Yawm. Reminding him about the breakers and what not was a good idea. I reached his room, finding Yawm behind his desk. Along the back wall, he stood with a hunched back between two tall bookshelves. Yawm pressed a hand onto a vine growing through the floor.
+
+He stood up straight, turned towards me,
+
+“Did you sense them as well?”
+
+I raised an eyebrow, “Who exactly?”
+
+Yawm rubbed his hands together, “An excellent question, isn’t it? Something came here. Many of the fauna here discovered a blinding flash of light in the sky yesterday night. The trees and grass know nothing of the light, but I have an idea.”
+
+Yawm stepped up, walking past his desk in a few strides,
+
+“Atmospheric entry. A shuttle arrived here, one big enough for more than a few people mind you.”
+
+Yawm raised a finger, “After that, they disappeared from the view of this planet’s plant life. Now why would they go through such lengths for stealth? The answer’s rather obvious, isn’t it?”
+
+I nodded, “Yeah, they’re probably after us.”
+
+Yawm gripped his fists, “And they know where we are. Considering I relax within a gargantuan rift, they’ve discovered my location. When they come here, I’ll sense their entry.”
+
+Yawm spread out his hands, “But I won’t know their exact location. We’ll need to work together for that.”
+
+I frowned, pointing at my chest, “You want me to find them?”
+
+Yawm looked around, “Well, uhm, yes.” He raised a hand at me, “You discovered the Old One’s plot to slowly destroy our minds. In my eyes, you’ve proven that your senses are well beyond keen. They’re tremendous.”
+
+Yawm clamped the hand pointing at me into a fist, “And once we find them, we’ll disintegrate them into a fine vapor.”
+
+Yawm laughed, excitement leaking into his voice. His hands shook a bit like lightning coursed through his veins.
+
+He raised hands, “We’ll show them what they’ve come to fight. Here is a storm, and we will show them this storm’s lightning.”
+
+His exhilaration was infectious. I banged my fists together,
+
+“And they’ll hear the sound of our thunder.”
+
+Yawm walked up and smacked my back, “Your words are vigor. Let’s go and show them a battle.”
+
+We walked towards the doors leading outside the room. Yawm raised a hand, pushing them aside. The bolt of the door snapped, slamming the doors outwards. The doors crashed against the walls, Yawm’s heels pounding against the floor. He walked up towards Amara’s room.
+
+He knocked onto the doorway,
+
+“Do you have time to discuss something?”
+
+Amara’s voice muffled through the doorway,
+
+“I don’t have a choice but to join your hunt, do I?”
+
+Yawm laughed, “Of course you do.” Yawm tapped his chin, “Though remaining by yourself here does leave you vulnerable. Considering that both Daniel and I are far more effective in combat than you, I advise you join us.”
+
+Amara opened the door, leaving one hand raised towards us. The eye on her palm stared at Yawm with a narrowed eye,
+
+“If you’ve decided it, then I’ll follow.”
+
+He turned towards me, “Let’s come up with a plan of action.”
+
+I shrugged, “I can sit behind you and CC the enemy with gravity and telekinesis. While I pin them down, you can blow them away.”
+
+Yawm laughed, “I doubt it’ll work out that easily, but we’ll work with that as the foundation for our plans. Let’s discuss it as we walk.”
+
+I frowned, “Where are we going exactly?”
+
+Yawm’s footsteps shook the building, “Towards my world tree. Within it carries a few advantages we could use.”
+
+We paced towards the edge of his ice palace, talking about refinements on our strategy. Yawm’s greatest strength was his long range combat. His antimatter explosions, singularity bs, and all his other shenanigans destroyed people from afar. Considering he and I owned extreme regeneration, wearing an enemy down was inevitable.
+
+If they did come at us, I channeled my mana and slowed them down. Once they reached us, we would show them our teeth as Amara put it. We swam through the lake, pacing up a root of the world tree. As we did, the discussion slowed. Once it stopped, I turned toward Amara.
+
+She glanced around with her hands, inspecting our surroundings. To my knowledge, Amara stayed in her room 99% of the time. Seeing the outside world for the first time engrossed her. With a bit of curiosity spurring me, I sent her a message.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - Hey, why are you helping me instead of Yawm?
+
+Amara, the Lost One(Time: Undefined) - Allying myself with you has a higher chance of survival and a lower chance for corruption. Why do are you asking?
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - I’m just curious.
+
+Amara, the Lost One(Time: Undefined) - I’m curious as well. Why are you even fighting Yawm? Schema has bitten into you many times. If anything, Yawm guards you from him, and he enjoys who you are.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - Eh, I think Yawm’s trying to bait me. Besides for that gut feeling, he’s trying to use people who mean a lot to me. He doesn’t listen very well either, so I don’t think I can convince him to stop.
+
+Amara, the Lost One(Time: Undefined) - No. You won’t be able to convince him.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - Thanks for the support.
+
+Amara, the Lost One(Time: Undefined) - I’m not insulting you. I’m pointing out the obvious. No one can convince him to change his mind once it’s made. He thinks of himself too highly for that, and he doesn’t trust anyone else enough either.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - Yeah, that’s true. I’m still wondering what you want to do after all this is over with though. I mean, I get you want to survive and all that, but what about after we’ve gotten away from Yawm?
+
+Amara, the Lost One(Time: Undefined) - I could ask the same question for you. Give me an answer, and I’ll give another in kind.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - That’s fair, I suppose. I honestly don’t know what I’ll want to do after Yawm’s gone. I’ll probably try and explore the galaxy some. Maybe set up a base here on Earth and help a few people out. I haven’t really thought it through yet.
+
+Amara, the Lost One(Time: Undefined) - I find myself in the same position. Surviving is all I’ve been thinking about since I was freed from my prison. Before that, however, I dreamed while in my prison.
+
+I imagined a day where the eldritch and sentients could...coexist. Perhaps there will still be conflict, but it won’t be an ongoing war at all times. Unlike Yawm, I believe there’s nothing wrong with the eldritch. I am proud of my lineage. I am proud that we eldritch survive, even as we’re thrown into another dimension.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - Yeah, but if you guys didn’t attack everything on sight, we wouldn’t kill you guys.
+
+Amara, the Lost One(Time: Undefined) - That is a lie. Many times I’ve offered peace. Many times your kind has snapped at my hand as I offered it. Your fear clouds your judgment. You offered me a chance because you never feared me. Anyone else would have killed me for status in your world.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - You gotta be aware of how destructive most eldritch are. You’re the only eldritch I’ve ever seen that isn’t trying to eat people. I’ve killed tens of thousands of eldritch too, and every single one tried killing me too.
+
+A minute or two passed before a message popped up.
+
+Amara, the Lost One(Time: Undefined) - There are three kinds of eldritch. Those that are relentless in their hunger, those that are nihilists, and those like me. The hungry eldritch want to come to this dimension and feast. They are the eldritch you most commonly see.
+
+The nihilists come second. They’ve understood that their hunger leads to nothing. Once we’ve eaten everything that can be eaten, what lies next in our lives? I’ve discovered the answer; there is null. Our incessant greed leads to a full belly. That is all.
+
+It’s a harrowing realization that all of your instincts are meaningless. These eldritch sit and wallow in self hatred. You’ve likely never seen an eldritch of this sort, as they hide from the probing eyes of others. I’ve seen into them, and I’ve been one of them. I understand their plight.
+
+That leaves the third group, my own kind. I still lack any answer for why I exist or why the eldritch desire what they desire. The difference between me and then nihilists is that I want an answer.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - Well, we’re just animals, like anything else. You just have to find your own reason to go on I guess. I haven’t really thought about philosophy or anything like that in all honesty. I’m too busy just trying to get by.
+
+Amara, the Lost One(Time: Undefined) - While in my prison, why I exist is one of the thoughts I dwelled on. I don’t know the answer, but I’ll discover it.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - How are you going to figure something like that out?
+
+Amara, the Lost One(Time: Undefined) - I’ll create a place of learning. Somewhere I can be safe in, and somewhere with more books than I could ever read. I’ll learn until I can devise a satisfying answer. I’ll enlist other eldritch and sentients, and we’ll hunt out the answers to our questions.
+
+I’ll discover a way to educate the eldritch, and I’ll elevate our kind above mere animals.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - Damn...that’s pretty awesome. I wish I had some overarching goal like that.
+
+Amara, the Lost One(Time: Undefined) - Help me build my place of learning, and you might hunt down the answer you seek.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - Eh, maybe. For now, I’m focusing on getting past Yawm. Thanks for giving me something to think about though. I’ll, uh, chew on that later.
+
+Amara moved one of her hands, pointing an eye at me,
+
+Amara, the Lost One(Time: Undefined) - Is that supposed to be a joke?
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - You’re always using biting and eating as metaphors when you talk. I figured I’d join in on the fun.
+
+Amara, the Lost One(Time: Undefined) - Hmmm...I never noticed my use of eating as a metaphor. I’ll bite into my speech less, I suppose.
+
+Dimension C-138, Harbinger of Cataclysm(Time: Undefined) - See? There it is again.
+
+As our conversation lulled as we reached the end of the world tree’s vast root. While reaching the end of the wooden path, I turned around, checking out the view. Below us, the lake’s edge peeked out from the world tree. The eldritch in the lake swam and snapped at each other, schools of fish swimming near the surface.
+
+The angle of light hit the lake just right, giving it a pleasing shimmer on the surface. Around us, a dense jungle grew. A bit farther from the lake, and the cityscape took over. A trashed city, greenery growing from every crack, reached out into the distance. Skyscrapers with busted windows and cracks like bruises dotted the horizon.
+
+Past the skyscrapers, floating islands dotted the skyline. Even further behind, a grey cloud loomed. The contrasting view took my breath away. I was in another world after all, and seeing it from a different angle reminded me how extraordinary it was.
+
+I turned back around, finding the world tree above. The runic carvings covered the center trunk. I turned towards Yawm and asked,
+
+“What’s all this for exactly?”
+
+Yawm walked up to the tree, placing his hand on it,
+
+“Whenever I teleport from world to world, an immensity of mana is required.”
+
+The runes glowed a bright green along the light brown bark of the tree trunk,
+
+“So much so that dispersing the mana exhausts me for a period of time. I enter a stasis for a while within the world tree, gathering my strength again. These runic carvings serve as protection and as a gateway into the minds of a world’s life.”
+
+Yawm closed his eyes, leaning his forehead against the tree,
+
+“The protection runes stem from deals with Etorhma. The other runes are ancient marking passed down by the porytians. Using them, I ask for energy from the plants. Some give, some do not. On a world with dense life on it like this, my recovery time is short. On less enlivened worlds, it takes a tremendous amount of time to heal.”
+
+After that, Yawm stayed silent for a few minutes. Right as I got bored, he lifted his head, nodding with gusto,
+
+“Ah yes. They’re here.”
+
+I turned towards Yawm,
+
+“So what are we going to do?”
+
+Yawm reached out a hand towards Amara,
+
+“Would you mind if I took your hand?”
+
+He spoke to her as if talking to a lady. If Amara blushed, I couldn’t really tell. Her pale complexion shifted a slight tinge of purple at least. He grasped her small hand, his thumb and index finger grabbing her palm. He lifted her hand against the world tree.
+
+“The world tree will embrace you now.”
+
+Amara lifted her other hand towards him,
+
+“What? Why?”
+
+Yawm raised an eye and narrowed the other, “To protect you from the battle of course.”
+
+Amara moved her hand between us both, “I didn’t agree to this.”
+
+Yawm patted her shoulder, “Why do you think I told you after I started the process.”
+
+He pushed her towards the world tree. She sunk into the bark, her body falling into the enormous trunk.
+
+Amara howled, saliva spatting from her mouth, “No! I will not be imprisoned again. I would rather die.”
+
+Yawm waved away her concern, “You’ll be fine.”
+
+Amara pushed with her hands, fighting the pull of the world tree. She sunk in, hissing her words like a viper,
+
+“And what if you die and I am trapped here eternity?”
+
+Yawm raised a fist, “It's simple really. I won't lose.”
+
+Amara fought before only one arm and her head remained out of the world tree. Her eye darted around in her palm, tears of frustration pouring from it. She closed her eye, one tear falling down on the world tree. Before the tree swallowed her, I walked up.
+
+I grabbed her hand, grasping her hand like a sideways handshake. From a pocket in my armor, I pressed the ring I made for her into her palm. Up till now, I never got the chance to give it to her. This was my golden opportunity.
+
+"Hey, Amara. You're going to be fine, alright?"
+
+"I...I will be."
+
+I walked with her arm as she sunk in, only letting go of her hand as the tree consumed it. She gripped the ring as I let go of her hand. With all the drama of the situation, it disguised me giving her the ring. Finally.
+
+It turns out that handing someone a ring under the eye of an all seeing, paranoid monster is pretty damn difficult. Even if this was a golden chance though, Amara still got shit on.
+
+With that in mind, I turned towards Yawm,
+
+“Man...That was mean as fuck.”
+
+Yawm rolled his eyes, “It’s better than her getting in the way of our combat, isn’t it?”
+
+I shook my head, “I don’t know. Did you really need to do all that?”
+
+Yawm nodded, “When you see the breakers, you’ll understand why she was a liability. True cruelty would be leaving her at the mercy of the coming monsters.”
+
+I frowned, but his point made sense. I wanted to live more than I wanted Amara’s feelings to remain unscathed. I sighed while Yawm rolled his shoulders. He lifted a hand, cracking his knuckles. Deep, bursting sounds snapped from his fingers, like someone snapping bars of metal.
+
+Yawm cracked his neck next, and he spread out his arms,
+
+“Who’d have guessed. Two groups arrived at the same time.”
+
+Yawm turned from one side of the rift to the next,
+
+“I wonder which of them we’ll hunt down first?”

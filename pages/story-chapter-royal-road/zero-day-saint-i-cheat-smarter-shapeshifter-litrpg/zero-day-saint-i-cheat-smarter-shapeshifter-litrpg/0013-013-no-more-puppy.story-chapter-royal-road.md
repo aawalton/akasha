@@ -1,0 +1,202 @@
+---
+id: c79c1c3d-765b-57c8-a53e-c8146aa27305
+page-type-slug: story-chapter-royal-road
+title: "013 - No More Puppy"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 13
+ownLength: 2938
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3351970/013-no-more-puppy"
+royalRoadId: "3351970"
+---
+
+And immediately I regretted my call. We should have gone for a pincer, giving Liz and her endless ammunition a clearer line of fire. But it was too late, people actually fell into position. Frank joined Liz and Constance, Anthony stayed close behind them, wielding what looked like a metal broomstick. I had no idea if he had levelled during the Wild Hunt or what his abilities even were besides pathfinding.
+
+The hounds were nearly on us now.
+
+"Shielding both of you!" Constance shouted. "Give them Hell! Wait, no! Send them back there!"
+
+A golden glow fell over Jamie and me. I'd seen her cast this on Jamie before. A buff appeared.
+
+[Holy Armor
+
+Duration: 30 seconds.
+
+Effect: Resistance against all damage. Immunity to Bleed.]
+
+Next to me Jamie shouted out a wordless challenge and banged his sword against his shield. Instead of a metallic clank, the shield rang out—a sound like a mix of a church bell and a wind chime. We both fell into a run, rushing toward the incoming pack—every second counted.
+
+Jamie welcomed the leading hound by slamming his shield against its jaw, when it tried to pounce on him. He pivoted to his left, slicing his sword over the hound's flank and leaving it dazed between us. I tried to go for the throat but caught the side of its neck instead. Still my teeth effortlessly went through the muscular flesh, tearing out a massive chunk. It wasn't dead but its health was down to a sliver, with a red drop-symbol indicating the Bleed status I had just inflicted.
+
+I left it to die and turned my attention to the others. Jamie was keeping the attention of a whole bunch of them, but they had learned from their leader's fate and didn't pounce him recklessly. I wasn't granted the same respect yet. Two peeled to my right, pulling away from Jamie's side, their eyes fixated on me.
+
+"Good girl!" Lucy cheered in my mind. "But here's the rub. You are falling behind. If you kill five of them I'll tell you about Hell's next attack. Make good use of that buff you just got and it'll be easy peasy."
+
+While I was processing their words I went for the two who were trying to flank me. As I dashed toward them, the first one got hit by something from our defender's side. It shattered against the hound's shoulder, shredding skin and muscle. An intense scent of pepper filled the air. Liz had thrown a glass pepper shaker.
+
+I took the opportunity and went for the leg underneath the wound, snapping and shattering bone as I danced past its flank. I wasn't a lot stronger than them. But a lot more mobile. Before it could fully turn I took out the hind leg. It collapsed to its side. As I crushed its neck, I was reminded of Gabriel's instructions. "One leg is already wrecked, circle it and take out the other." The instructions had felt so cruel to me then.
+
+The first hound died of its bleeding wound. Two down, three more to go. 22 seconds on the Holy Armor.
+
+"Eve!" Jamie shouted.
+
+The hounds were no longer hesitating. Jamie was forced into the defensive, as they had fanned out around him the moment I left his side. Ignoring the other hound who had peeled away to flank me, I ran back to Jamie's side. I had to trust the others to take that one before it got me in the back. One bit Jamie in the leg, denting his health bar, and he screamed.
+
+I decided against a precision strike. I could shift out of this shape to heal, Jamie only had the one body. Time to gather attention. Running full speed, I just tackled into the group with all my might. For a moment the world was a tangle of limbs and muscle and growls and snarls. I bit down where I could as I tumbled with and through the hounds. One got my leg, another scratched along my back. The spell dampened the worst of the pain, but my health still went down by a third.
+
+I got back on my paws, with one of the hounds half buried underneath my weight. I ripped out its throat, once more leaving it with a sliver of health.
+
+My maneuver had succeeded in giving Jamie room to fight again. He'd already finished at least one of them. Now he was lifting his sword up in the sky. When he pulled it down into the pile of hounds, which were still recovering from my tackle, it came down with a golden glow, followed by a pillar of light, right into the hounds.
+
+I only felt a warm breeze while the hound underneath me—and those in the pile—charred and burned. Leaving four of them, including the one I had nearly gotten just now, dead. Fuck you, Lucy. Fuck you, Gabriel. For making me angry about someone stealing my kills.
+
+Jamie's resource bar was now entirely gone. But so were over half of the attackers. I contemplated using local chat to urge the others to leave the rest for me, but that would both make me look like a maniac and risk actual lives.
+
+When we had cleared out the rest I had ended up at four kills. At least howling turned out to be a great substitute for screaming in frustration. Jamie gave me a worried look. I stopped when I felt a weird itch, a feeling that was very similar to the urge to sneeze.
+
+Then the itch gave in to reflex and I shook myself, spraying demon ichor all around me. Jamie had the presence of mind to raise his shield.
+
+We returned to the others. I didn't want to give up on this shape yet, it still had health left and I wasn't sure what we'd do next.
+
+"I'm disappointed," Lucy said.
+
+"I'm not," Gabriel countered.
+
+["I'm getting really sick of your fucking mind games, Lucy. If you cared about me not falling behind you'd have made that offer thirty seconds sooner. You wanted me to look like a lunatic, not sticking to my own plan and 'mindlessly' killing those hounds."]
+
+"Oh, but I do care about you falling behind. Which is why I want you to leave this group. They'll get you killed."
+
+["Not if Hell gets me first. Which you could prevent if you'd just tell me about the attacks."]
+
+"Don't pout, puppy. You failed, you don't get anything. Wouldn't be fair otherwise, would it?"
+
+I didn't reply any further. I was already imagining how my fangs could tear through their soft and tender flesh. They really knew how to rile me up.
+
+"You are doing well, Eve. Don't let them provoke you. Giving you two a heads-up, I'm in a discussion with the other Guides, we aren't certain what your next course of action should be. That summoner poses a problem."
+
+["Did you know the Guides had their own channel of communication?"] I asked Jamie in Party chat.
+
+Jamie shook his head. He was already listening to the conversation between the other Blessed. I lay down next to the group and did the same, while trying to project a calm I didn't feel. I got the distinct impression that a visibly angry large dog would make people uncomfortable. What a people person I was. I wondered if anyone out there got a Therapist class. I could shift back. Join the discussion. Offer my unqualified thoughts. Instead I put my head on my paws and listened.
+
+Anthony looked shaken, the reassuring aura he used to project gone.
+
+"I can't guarantee that we'd find another space before the next attack hits. I'm only level 2 still. My skill doesn't reach that far." he said. We fucked up when we didn't power level the Pathfinder.
+
+I read the transcription of the conversation so far in local chat. Thanks to my Senses skill the transcription worked even when I could barely understand what was being said, regardless whether I paid attention or not.
+
+I could see why the guides were torn. That summoner would be an issue. Any moment he could summon another pack to attack us, or gather a larger group to overwhelm us. Either way, they'd drain our already strained resources if we ignored them.
+
+The options were both simple and horrible. We could leave, and find another sanctified space, ideally before Hell's next attack caught us without shelter.
+
+Or we could enter the tower and take out the summoner. Or summoners. Real demons, not just lessers. The kind who'd killed Mike. The kind who'd cursed me with that Mark. Supposedly they'd be somewhere near the lobby, otherwise the hounds wouldn't have been on us that fast. But we didn't know what was going on in there. There could be Created, now tainted by the profane space. With the branding the place was given, Lailah surmised there would likely be a boss in there, too. Most likely not at the ground floor.
+
+I looked over my shoulder, at that massive claw gripping the red glowing text. I shuddered.
+
+"Did you know that impalas can reach speeds of up to 55 miles per hour? And that's without access to such divine pasta or a magical collar," Lucy chimed in.
+
+I didn't know that, that was a lot faster than I had thought they could go, but I would absolutely not give them the satisfaction of telling them that. I huffed and turned my attention back to the others. They were as split as the guides were.
+
+"Okay, Eve, I can see that you aren't going to give up on them that easily," Lucy went on. They had dropped the 'puppy'. "So I'm offering you both an opportunity to be their savior and one to make me see things with a more human perspective."
+
+That phrasing was so weird, that I had to bite.
+
+["How would I change your perspective? The perspective of a fragment of the Morningstar himself?"] I still didn't fully understand what this meant. Gabriel had been rather upset by that claim. But I felt in a theatrical mood.
+
+"By exchanging eyes. Duh."
+
+The fuck?
+
+"Only one each, of course. I get a beautiful human eye, to see the world like you see it. Well, how you see it, when you aren't a cute little pupper. And you get one of mine. A devil's eye. A Guide's eye. This is your red pill. Your peek behind the curtain. And it'll show you sanctified spaces as well as profane."
+
+I was immediately tempted. There was no denying it. And then Gabriel said the worst possible words she could have said in the moment.
+
+"There is no way that's legal. No way that'll be allowed to happen," Gabriel said.
+
+"Oh, that's why your side sucks, Gabby. Your Blessing is boring and lame. Our boons are the real deal."
+
+"Don't do it," Gabriel said.
+
+["Tell me more,"] I wrote.
+
+["Uh, what's going on, Eve?"] Jamie wrote. Right. He saw mine and Gabriel's part of this conversation.
+
+I wrote two more messages:
+
+["Jamie, what do you think of the assault on the tower? You are out of—what's your resource called?"]
+
+["Gabriel, what did you mean by illegal? You said there couldn't be any more cheats."]
+
+Lucy responded first. "I'll lay it out for you, Eve. Especially what it won't do. This isn't some evil cursed artifact, I can offer those, but it's not like that. No tempting whispers, no corruption bars above others—those really do not exist—no twisting your vision into horribleness. Interpreting everything it can show you fully will take Skill. It's both part of the Blessing and not, as we Guides are the boundary between the Blessing and reality underneath. The Blessing might still offer you perks related to it. What you'll immediately see is outlines of altered spaces, even through other structures. It will persist through shapes, but not degrade their visual perception. If you become a cat it'll be exactly as good as your other eye at cat-like vision, with the other advantages on top. You'll soon be able to see stats, levels and other details of others; Blessed, Created and Demons. The exchange will hurt, but not traumatically so. You've had dentist visits that hurt more."
+
+["Did you start using 'puppy' only so you could stop doing so when you were about to give me an offer you really want me to take?"]
+
+They chuckled. "Of course."
+
+["You said the eye itself would not corrupt me. What are your motivations, then?"]
+
+"It's an undeniable sign that you have dealt with Hell. It shows others that taking up our offers doesn't spell ruin. It helps you survive. Considering the religious tilt of the group, it might cause enough of a fracture that you'll eventually leave, even if you end up saving them. Taking the free first shot will make you more likely to ask for another next time."
+
+Those matched my suspicions almost exactly. Spelled out nice and clear with zero mockery or vague phrasing.
+
+"Oh, and last but definitely not least, it's both really fucking cool if you had my eye and I'm super curious about having yours. Would bring us a lot closer, don't you think?"
+
+This part I hadn't considered and I didn't know how I felt about that. It sounded a lot like infatuation, but I filed that away as further manipulation.
+
+Jamie had also replied, sticking to chat, too.
+
+["It's called Zeal. I… I don't think we should attack the summoner. Constance is low on mana, I'm fully out, Frank is running low on ammunition. And there is a lot of Apocalypse left to deal with before the Seal. Please tell me what that thing with the eye is about? Why is it illegal?"]
+
+["Lucy wants to give me one of their eyes. I could scout the next hideout."]
+
+["What about my job to stick with you?"]
+
+Lucy responded to that one before I could. Though I had to relay that reply. ["Tell him not to worry about his obligation to me. As long as he stays in party and is willing to go after you if you end up in trouble, he'll be fine."]
+
+I literally just copy-pasted Lucy's message. Turns out I could do that.
+
+Gabriel had also replied.
+
+["I apologize, it is not illegal and I should not have said that. It was a grave misjudgment on my part. Still I stand by my advice not to take that offer. Besides all the consequences Lucy already laid out, you'd literally be giving up a piece of yourself. You already didn't like what that Perk did to you, and this is a much deeper alteration. The reason I thought it would be illegal is because it is not something of Hell, but of a Guide. There are limits to what Guides are allowed to share, but Lucy can make that offer on Hell's behalf, through a Boon. And it can't give away what we aren't allowed to give away either."]
+
+Something about this reply ticked me off. Something felt wrong. There was something between the lines I wasn't seeing. Something Gabriel didn't want to spell out for Jamie and Lucy. I really longed for a private chat with her right now.
+
+Beyond the group of Blessed, still tossing ideas, still not making progress, I saw that boy standing at the entrance, looking out at us all. I tried to give him my best doggy-grin, but his wide-eyed reaction wasn't exactly an indicator of my success.
+
+["Lucy, throw in the next attack and the timing of the ice storm."]
+
+"That's very greedy, Eve. Is Mammon rubbing off on you? One or the other. The next attack or the timing of the storm."
+
+["So the storm isn't next."]
+
+In their voice I could hear them rolling their eyes. "Yes, you are a very smart girl, Eve. The ice storm isn't next."
+
+["And no more 'puppy'."]
+
+"I can do that. But I can find countless other annoying nicknames. And I won't give those up."
+
+I wanted to think I was still establishing the yes or no of the question. But I was already haggling over parameters.
+
+["Jamie, you already made your deal with the devil. How do you feel about it?"]
+
+["I think that was different. But, honestly, I don't feel much about it at all. I owe you anyway and now I owed them on top."]
+
+["Sticking with me purely out of obligation?"] I asked.
+
+["I figured you'd prefer practical over sentimental reasons."]
+
+Why did everyone read me like an open book? Why did the fate of this group fall on me at all? Was anyone else working on some secret solution, behind the scenes? Or were they really all stuck arguing?
+
+["Will you see everything I see, Lucy?"]
+
+"Oh, dear. I already do."
+
+I had feared as much. Both of them had been reacting to what I saw all this time, without actually being in my presence. Did they sit somewhere, watching my vision on a TV screen?
+
+["Can you read my mind? To any extent at all? Why are your reads on me so accurate?"]
+
+"As your Guide, I have extensive knowledge about your life before our invasion. And I'm a fragment of the most manipulative bastard across all realities. No, I can't supernaturally perceive your thoughts. I'm just that good. We need to head inside to seal the deal. And I need to know which you want to know. Next attack or ice storm timing?"
+
+["Next attack. With details."]
+
+"With details. Deal."

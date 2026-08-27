@@ -1,0 +1,313 @@
+---
+id: 4fea6832-9d9e-5298-9e88-1761a6b9a42e
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED EIGHTY-ONE: Nightlight"
+slug: 0183-one-hundred-eighty-one-nightlight
+partOf: super-supportive
+position: 183
+ownLength: 4991
+unit: words
+publishedAt: 2024-11-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1888828/one-hundred-eighty-one-nightlight"
+royalRoadId: "1888828"
+---
+
+181
+
+******
+
+The timer Alden had set through his interface went off, but he dismissed the flashing light with an irritated thought and went back to staring at the page in front of him.
+
+Focus yourself on calling the memory of light toward the symbol of the lantern, concentrating on the centermost point of the shape. Hold command of that point while returning your auriad to the release pattern of your choice. Some may be able to allow the auriad to fall for this spell, but having studied many castings, I deem it more effective to—
+
+His second timer sounded. It was his tablet playing a series of especially annoying chimes at high volume, and he’d put it all the way across the room on top of the loft bed so that he’d have to move to get it. Alden set down Whan-tel’s Art and stood from the learning cushion, hurrying over to make the racket stop.
+
+When he pulled himself up into the bed far enough to grab the tablet, he saw the note he’d stuck to the front: “EARRING OFF! I MEAN IT!”
+
+“I really don’t trust myself at all, do I?”
+
+Once he’d turned off the alarm, he pulled the clay spiral free of his lobe and place it carefully on the desk. With his mind only mostly stuck in his book, instead of entirely lost, he could see the signs of the day he’d had all over the room. Dirty clothes from a workout at North of North this morning, a smoothie cup from breakfast, the plate he’d eaten his lunch on, his books. His learning cushion had been brought over from Matadero yesterday before his meeting with Jeffy.
+
+It was three o’clock in the afternoon, and Alden had done nothing but exercise, eat, and learn his new flashlight spell.
+
+A completely fantastic day.
+
+But he had a couple of errands to run, and he was expecting a delivery soon.
+
+Or right now, he thought as a text from Yinuo arrived.
+
+He asked the System to store his book and consoled himself with the knowledge that he was probably past the reading stage anyway. Thanks to the earring, he was sure he’d gotten the details down. Now he just needed to take the spell all the way to the end and see what happened. That would be his reward for taking care of everything else he needed to do.
+
+He stepped out of his room to find the apartment quiet, as it had been all day. Lexi was spending Sunday with his family. Haoyu had only been in and out a couple of times. The slow cooker was plugged in now, so something was going on there. Alden was afraid it might be the “All the Thanksgiving leftovers together!” concoction Haoyu had mentioned trying out the night before last.
+
+And Lute’s door was shut. Alden assumed if his roommate had returned home, he would have said hi.
+
+How long is he going to stay gone?
+
+Occasional glances at the headlines made it look like Aulia was taking a beating, but there were also people who were very into her new persona—one besieged original Avowed, dedicating her life to getting to the bottom of what had really happened and finding who was out to get her and her beloved Anesidora.
+
+Her stunt with Orpheus and divesting herself of a bunch of property was clearly the start of whatever this was. She’d announced yesterday that she’d be giving frequent updates on her findings from “mission headquarters” onboard Libra, and she’d put out a call for people to apply for jobs on her new truth-finding task force. Then she’d shared a statement, purportedly written by Hazel, that implied she’d been pressured in some way by Jacob and his mysterious SAL connections to bring him with her to that birthday party. The statement didn’t actually say anything useful or concrete, and the kicker was that Aulia read it aloud like she had serious doubts about Hazel’s honesty.
+
+The waters were so muddied that it was impossible to say whether it was all for show or if she was embarking on a real detective phase. But a lot of people were unhappy with the System, the Triplanets, and the Anesidoran government saying the destruction seemed to be the result of one individual’s unpredictable decision, and those people liked the idea of a powerful person chasing after a different answer. Nobody else seemed to be throwing themselves and their money in that direction as dramatically as Aulia Velra was.
+
+Those people who don’t believe the official story should be the most doubtful of her, but she’s the only one giving them what they want. How does that shake out in the end?
+
+He thought Lute should probably stop exiling himself…but he did understand. As soon as Aulia had started talking about Hazel and the party, Alden had held his breath at the thought that his own name might come up. He’d been glad that if it did happen, he had permission to hang out at Matadero where no humans or drones could get to him.
+
+To reach the street where Yinuo’s driver had parked, he had to take a short jog, and she met him just before he got there. She was walking at a remarkable speed for someone in such high-heeled shoes, her white trench coat flaring out behind her.
+
+“There are a couple of things in the trunk,” she said, lifting one of the garment bags she was carrying. “Black car.”
+
+“I’ll grab them.”
+
+In the trunk, Alden found the shoes he’d bought yesterday, boxed and bagged, along with a gift wrapped in blue with a big gold bow. He almost left it because he assumed it must be something Yinuo or the driver had with them for someone else, but he looked closer at the small attached envelope, just in case, and saw his own name.
+
+A thank you for your business gift?
+
+He shook it curiously a couple of times before he closed the trunk and went to join Yinuo. It didn’t weigh much.
+
+“You didn’t have to come all the way personally,” he said when he’d caught up to her. “A courier would have been fine.”
+
+“I’m here in case there’s anything wrong with the order,” she replied. “There isn’t, unless Tuck and I both lost our minds without noticing it this morning. But if you have time now, you can look over it all and make sure it’s right. I’ll fix any poor fits or fetch any missing pieces. Or you can call us whenever you need us.”
+
+Back at the dorm, he led her upstairs and invited her to take a seat on the sofa while he carried everything to his room. She looked out of place there, but no more so than Esh-erdi had. And he did think checking over all of the important stuff was the right thing to do.
+
+He went through it quickly, tried on the second pezyva they’d finished up for him last night, and decided everything was exactly what he’d asked for and expected. Then he took the gift with him back into the living room.
+
+“It’s all perfect. I appreciate you both helping me on short notice.”
+
+“That was nothing,” said Yinuo. “Our waiting list tends to be long this time of year thanks to all the holiday parties coming up in the next couple of months. But a lot of clients had to reschedule this week. Given the circumstances.”
+
+Makes sense.
+
+He held up the gift. “Should I open this while you’re here?”
+
+“Whenever you want is fine. It’s just a small way to say we’re glad to have you as a customer. If you try it on, we can make sure it fits. But it will. I adjusted it a little for you.”
+
+Alden tore the paper off and opened the box to find a teal shirt covered with a palm tree print. “A tropical shirt!”
+
+“You did say you enjoyed them.” She rose to her feet. “That should be fine to wear on the Triplanets, by the way, if you’re doing something lighthearted and fun. It will look very celebratory and Earthly. But it should be a hit at parties because of that….and of course they’ll like the trees.”
+
+“Thanks.”
+
+“I think you made excellent decisions yesterday,” she said as she headed to the door. “Of course it’s great for me to sell you clothes, but on a personal level, I do like to know a young Rabbit is taking care with how they handle themselves out there.”
+
+She was sliding her feet back into her heels.
+
+“Making it clear that you are not disconnected from the world of wizards, as new Avowed often are, is good. There are some summoners who will treat you much more generously if you look like a person who might be sitting down for a chat with one of their colleagues next week. Your commendation sends that message better than Tuck and I ever could. But you won’t always be wearing it, and it can’t hurt that when you do, you wear it on something that makes it look like you know your way around their circles.”
+
+“Yes,” said Alden. “That sounds…pretty right.”
+
+Yinuo opened the door. “Have a good afternoon. And call us anytime.”
+
+******
+
+******
+
+How do I beat an A-rank Speed Brute who’s already been punished once for underestimating my skill?
+
+Half an hour after the meeting with Yinuo, Alden was pushing a cart down the aisles of the Wright shop, restocking on cordage and rope for class while he tried to figure out how to accomplish Max’s request. Though it pained him to admit it, Winston probably wasn’t stupid enough to self-decapitate again. At least not that easily. It would have to be a less obvious method to work.
+
+He’s probably obsessively reviewing all my gym footage to plan out how he’s going to give me “a heeling” or some shit like that, too. So nothing I’ve done before will surprise him.
+
+One possibility was upgrading his toolbox. He could go for an uncommon material that Winston really wouldn’t be able to see well enough to handle. Something much thinner than the fishing line, maybe with special properties.
+
+But he didn’t want to. Beating Winston with a filament of enchanted spider silk or something would be pretty unfair unless the speedster was allowed to bring his own exotic weapon to the duel, and at that point, they’d just be fighting to see who could buy the best toy.
+
+A cough from behind him made him realize he’d zoned out. He apologized to the woman who wanted to get to the shelf he’d been blocking and moved out of her way.
+
+Winston has to get close to kill me. And he’s fast, but he’s not Finlay. Or even Mehdi. Maybe if I practice a little before we duel, I can actually be a threat to him with something fairly simple.
+
+Finishing up the cordage restock didn’t take long. When he was done, he headed to the vending machine that sold temper spheres and bought three cartons. For experimentation purposes, not for MPE.
+
+He wanted more practice pulling enchantments. Breaking the locking mechanism on the puzzle door at Apogee Artist Spaces could have been a lifesaver, but it had taken him precious seconds. He needed to get better at it, and he might as well make the practice do double duty. He would learn what every single enchantment on the temper spheres did, and he would try applying different combinations of them to other objects, hoping to discover something useful.
+
+Making a cat toy hard to see for a few seconds wasn’t the best he could do, surely.
+
+Browsing the other vending machines for any cheap enchanted things he could break made him wish a tiny bit that he’d taken a couple of the rings from the cottage at the art’h house. But most of them were so much more useful there, serving their intended purpose as convenience spells for nonwizard guests and knights who didn’t want to cast after affixations. Alden would just pay for this part of his education himself.
+
+He stopped in front of a machine that held enchanted accessories—mostly rings and bracelets that he imagined were useful for Wrights working with sensitive or dangerous materials. He knew they’d be wildly expensive before he even checked the prices because the machine looked like it belonged in an amusement park instead of a professional environment.
+
+That was a trend he had noticed on past trips to this store. Sleek, serious-looking machines held the more common items. But if he found one that had a sign that said Mr. Blingy on top, and it was covered in flashing lights, then even the cheapest thing in it probably cost more than he’d spent on Yinuo and Tuck’s services yesterday.
+
+Alden assumed Mr. Blingy did something both painful and humiliating to anyone who messed with him.
+
+He looked through the rings more out of curiosity than a desire to be in possession of any of their effects. None of them were made of the same translucent green material that the nonagon and its ring were crafted from. And though a couple were dark silver, they didn’t have the geometric patterns carved into them that Joe’s did.
+
+Ro-den.
+
+He wished Yinuo hadn’t drawn his attention to the idea of summoners treating a person differently because of their perceived connection, or lack thereof, to wizard society. It was obvious…or it seemed obvious now. But it made him wonder again about Ro-den, and what the wizard had been thinking during the time they spent together in his office, and what Alden might have missed or misunderstood.
+
+It’s over. I’m totally done with him now. Just let it die.
+
+His questions weren’t ones he could unravel with the information he had, anyway. Back then Ro-den claimed to have thought Alden was sent by his enemies as a trap, then to have decided that he was a stroke of good fortune.
+
+He thought I must have some kind of wizard benefactor on Earth, one who told me what skill to pick without contracting me. A reckless one without any proper discretion, or one so powerful they could just do whatever they wanted without fear of consequences.
+
+Someone interesting, who’d liked Alden enough to talk to him but not enough to really teach him, hire him for a longterm, or monitor him.
+
+What did he think? Maybe that I was a way to connect with that powerful person? Or blackmail material he could use against them one day? Or a valuable thing that the powerful person had created and then abandoned on a whim…at just the perfect time for Ro-den to pick it up?
+
+And he even offered to give me a longterm job himself, there at the end. In a year or so, he said, after he’d squirmed back into everybody’s good graces.
+
+Wasn’t he afraid of pissing off my mysterious benefactor?
+
+I guess he thought I was really on my own…or maybe that he could manage any wizard out there, if he had enough time to plan.
+
+He told himself, again, to let it go.
+
+In only the few days Alden had spent with him, in just the moments Alden had seen him, Worli Ro-den had rubbed shoulders or bullied—it was kind of hard to tell which it was in some cases—multiple important wizards. The parents of everyone he’d helped out of the mishnen situation. All those people he’d been gifting potions to left and right at the party. Ro-den was a smart, talented, energetic doer of illegal things. Alden’s chances of really understanding what the professor had once thought of him and planned for him, when the guy wouldn’t even talk to him anymore, were lower than low.
+
+Brooding was stupid.
+
+In an attempt to snap himself out of it, he reached into his bag to grab his tablet so he could take a picture of Mr. Blingy. He had no clue what Kibby would think of the vending machine, but she’d surely have at least one hilarious opinion.
+
+She’d be so upset if she knew how angry I was with him. And at least him using me got her out of there. And most of the others.
+
+He had told Ro-den, during that first phone call after he’d made it home, that he didn’t think he’d made a bad gamble. What else was he supposed to do under the circumstances? If they’d had one more day, one more minute, before everything went wrong…
+
+Alden hoped whoever made decisions for Yipalck corporation saw Kibby’s explosion in their dreams every night.
+
+He snapped the picture of the Mr. Blingy machine. After saving it to add to a message for Kibby, he sent the image to Boe.
+
+[This is the poison dart frog of vending machines,] he wrote. [Its vibrant exterior is a warning.]
+
+[What are you sending me that for?]
+
+[Because I know you like frogs now.]
+
+[I don’t like frogs.]
+
+[Don’t be like that. They were there for you when you were wearing nothing but fronds.]
+
+By the time he finished escalating the dart frog jokes, he was back on the street, heading for his next stop. And he was so busy laughing at Boe’s replies that he’d completely let go of chewing over the things that he wanted to leave behind him for good.
+
+He was thinking about how he could make the frogs a recurring topic. But a really infrequent one. So that Boe was never expecting it.
+
+He was thinking about how funny it was going to be when he found an opportunity, months or years from now, to put a toy dart frog in front of a toilet, so that Boe stepped on it when he went to take a leak. A perfect reenactment of his Amazon adventure.
+
+And then, some subconscious process he hadn’t been aware was running produced an answer about Ro-den and himself that he’d never even asked it for.
+
+It wasn’t shocking.
+
+It was so clear that he knew it was true, and at the same time, so unwanted that he tried his best to make up reasons it might not be.
+
+He walked for blocks until he reached a neighborhood he hadn’t seen yet and a place he’d only read about online—a tall, egg-shaped building where you could learn about Life Shaping and agriculture. And pay a fee to enjoy a pick-your-own-produce experience. He bought the largest available basket from a man who spoke Mandarin, and wandered the winding interior paths, admiring the verdant trellises and the ballet of silent drones misting plants and moving containers.
+
+The place was busy but so well designed and managed that he often found himself in an area that felt like it belonged to him, tucked away between towers of peppers or surrounded by logs covered in mushrooms.
+
+He spent a while selecting fruit in a long pergola corridor where frames held up a roof of kiwi, grape, and tomato vines. It was worth the price of admission for sure, but his thoughts were still twisting and turning, looking for a way to get away from the truth.
+
+I can’t. It’s too basic. To everyone else who knows what happened, all this time, it must have been like blue skies and wet water and hot fire.
+
+I should have known. If I didn’t know at first, I should have figured it out so fast. The first time I saw that humongous lab. After the mishnen. During the—
+
+Something smacked into his leg. He took a startled step to the side, and looked to see that he’d been joined under the tomato arbor by a little boy with dark hair and light-up shoes who was too short to reach the vegetables.
+
+Very focused, though.
+
+He swiped at the overhead vine with the basket he’d just accidentally whacked Alden with. When swiping didn’t work, the little guy went for a jump and swipe move that had the potential to knock down tomatoes if he improved his execution. Though Alden did not like the tomatoes’ chances of remaining intact when their harvester was beating them with wicker and stomping around.
+
+“Do you want me to get some for you?”
+
+The kid gave him such a shocked look that Alden wondered if he’d somehow failed to notice that he wasn’t alone. He stopped jumping and unclipped a chunky, panda head keychain from his belt loop, then stared at the small screen on the front.
+
+It took longer than it should have for Alden to figure out that it was a translation device.
+
+<<I’m big enough to do it myself,>> the boy answered confidently.
+
+Alden nodded and ignored the jumping while he picked a couple more tomatoes.
+
+Some people, he thought as he headed back to campus with all his shopping  and a full basket, are big enough to pick their own berries.
+
+Ro-den might really be way over his head now, but back then, he was tattooing the heirs of important families and smoking hookahs with their parents. He was laughing it up in golf carts. The lab they took from him was massive. He had like fifty assistants at one point, and a lot of them were geniuses. Even fallen from grace, he was still so damn talented that they let him torment students at the second most prestigious school on the Triplanets as punishment for his crimes.
+
+When he acted like I was his one and only way of helping his assistants, that was just…a lie.
+
+He took a deep breath.
+
+Worli Ro-den was big enough.
+
+So why was Kibby still on Thegund?
+
+Why were the rest of them there?
+
+Why was I?
+
+******
+
+That night, despite his high expectations, casting the flashlight spell didn’t go well. He knelt on his learning cushion and tried until his authority was exhausted, until he felt like he was a feather trying to penetrate through concrete instead of someone who could sometimes ask reality to shift for him.
+
+His hands and his authority had moved well. He thought maybe he’d misunderstood something about the “calling the memory of light” part, which was slightly different from anything he’d been asked to do in other spells. His focus was off, maybe. Or his memory of sunlight spilling through his bedroom window wasn’t what the spell meant. Perhaps it was the turmoil of his thoughts this afternoon, still messing with him despite his efforts not to let them.
+
+One of those, he hoped.
+
+There was always that worry in the back of his mind that a spell wouldn’t happen for him because of his species. Calling the memory of light could be advice for someone whose brain worked differently.
+
+Unhappy and unsettled, he climbed to his feet and stripped off the silk pajama pants he’d been wearing while he practiced. He took them and the cushion over to the huge suitcase lying in front of the window, where its bulk was keeping the bottom of the blackout curtain pressed against the wall, and added them to everything else he’d carefully packed earlier.
+
+After he’d zipped it back up, he stared at a particularly large rip that Stuart had repaired with one of his silver patches.
+
+Tomorrow morning.
+
+First, a flight to Matadero. Then, a teleport to the art’h household. Then…a trip with Stuart to meet the healer.
+
+The nerves were beginning to bubble up again.
+
+I need to put myself to bed before I talk myself out of going.
+
+He did, and to keep himself in bed for at least a few hours, he took his Opposite stone with him and performed the mega-klutz half of My Body Becomes My Assistant. He laid down, careful not to bite his tongue or smash  some part of his body into the wall, and waited for his Opposite to notice.
+
+Hey, there, he thought when the crystal checker started glowing a few minutes later. Whoever you are, I’m really glad you’re all right.
+
+It took him a very long time to sleep, but at some point, the dark of his room turned into the deeper darkness of a moon that orbited the planet Kimnor. The lights of the lab were so far behind him, and he had the impression that he was running into an abyss that clawed at him from every direction.
+
+There was nothing in front of him but bare, chaos-ruined dirt. And even that was a fuzzy gray view that he was afraid of losing, despite his promises to Kibby that he could easily find his way back to her if the goggles she’d made for him failed.
+
+The lab lights are so bright, I’ll be able to see them from a very long way away, he’d assured her. But he’d worried, as he always did, about a hundred things he’d never say.
+
+If I fall, she won’t be able to come help me. If now is the time when the lab lights give out…if that thing that made the trails in the grass comes while I’m out here…if by some miracle I make it back with the car, but she’s not strong enough to make it to the next sunrise…
+
+One step after the other anyway. There was nothing else he could do.
+
+When he finally found the car, the pieces that had once been her father and Wivb-ee were so light in his hands and so heavy in every other way. Kibby wanted the bodies of her family to be completely gone, and so they would be when Alden brought the car back.
+
+Nobody but him would ever know how many pieces there had been. Or how he had tried to pull some of them free of the mutated grass that had vined its way through them only for them to break apart. The way he’d wanted to hurry and be careful at the same time. The few heartbeats spent holding a portion of a small skull, wondering what the right way to treat it even was.
+
+He had driven toward the lab and left them back there with only the dark for their grave.
+
+That night was long past and far away, but it was somehow right next to him and all around him when he woke in his room at Celena North. One of his hands was cold and locked like a vice around the railing that was supposed to keep him from rolling off the loft bed.
+
+It had to be close to morning because when his feet hit the floor, he didn’t fall all over himself. The wordchain had run its course. But his room was as black as his dream, and he stood there, almost disoriented, auriad sliding down over his hand to entangle itself with his fingers.
+
+He remembered how it had been coiled into the logogram for friend when she gave it to him. Right after he made it back from that trip to get the car.
+
+This is your present for returning safely….you will use it your whole entire life and be the best Avowed.
+
+Everything was so close to impossible, thought Alden, breathing hard, his face pointed toward the spot in the darkness where his feet should be. Everything was almost death. I could have started a fire with the promise stick lighting spell, but out there on Thegund I would have had nothing but my own clothes to burn.
+
+A flashlight that couldn’t be lost, that would be his forever. Wherever. As long as he could cast. One small thing that made the impossible a little less so.
+
+He started casting again—his auriad moving, his authority moving.
+
+To be a wizard is to move through reality with true awareness of your own freedom. The theoretical pinnacle of wizardry is dominion. Over the self. Over the universe.
+
+He didn’t try to call the memory of light toward the symbol of the lantern because there was a slightly different thought, more deeply felt in that moment. A shift in desire and perspective.
+
+I don’t want to call the light right now, he thought, lifting the auriad as if he were about to shoot a square of force at an enemy. I just want the darkness to FUCK OFF.
+
+He held that idea in his head, dropped the strands that transformed the lantern symbol into a spell release shape, and claimed his dominion over this one small matter. Not an exhausted feather now, but a freshly determined battering ram.
+
+The room lit up. It was less flashlight and more flash. One so bright that Alden actually saw almost nothing but the whiteness before his authority was spent and he was in the dark again. He stood there, caught in a state between euphoria and panic. He’d just done a new spell! YEAH! And also he was blinded and his skin stung and he smelled burning hair or dust or something.
+
+He managed to fumble his way toward the light switch and slap it, and then he had a minute of real panic because his vision was still definitely impaired. After a lot of probably-detrimental blinking, it went back to normal, and he walked around the room taking stock of it all.
+
+It still smelled kind of crispy and wrong, but there was no smoke or singed spots that he could find. He peeked out of the blackout curtain and didn’t see anyone pointing up at his window. He listened and didn’t hear Haoyu banging around like he’d been woken up.
+
+He seemed to have gotten away with it better than Søren had.
+
+Okay…that was…one way to do the spell. Not the best way. But I made magic. I called light to fuck up the darkness.
+
+That means I can call it in a more controlled way, too.
+
+He dug his toes into the rug and smiled.******

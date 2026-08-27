@@ -1,0 +1,205 @@
+---
+id: 36172244-3b26-5728-936c-872190348d15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 351 : Sylbera"
+slug: 0052-chapter-351-sylbera
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 52
+ownLength: 2114
+unit: words
+ownProgress: 2114
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3066888/chapter-351-sylbera"
+royalRoadId: "3066888"
+markedReadAt: "2026-06-29T19:43:31.691Z"
+---
+
+Leon had been minding his own business, carving a structure out of the large piece of solid rock he'd received. If he was honest with himself, he was somewhat jealous of this slime being able to magically conjure up resources, as where else would he be able to find such a uniformly solid piece of material?
+
+He was happily carving away for what must have been hours until he suddenly noticed movement. The slime had awoken from its bathtub and began extending tendrils out like some kind of ominous amoeba searching for food.
+
+Leon shuddered but watched curiously to see what the creature was doing. It hadn't moved much since it extended its slime across the island, which he'd likened to laying down powerlines. As if the spider's invisible webs weren't bad enough already, this felt even more terrifying, almost like he was already sitting in the mouth of a predator.
+
+A tendril pointed at a rock, and a magical construct was quickly formed. Leon had seen these strange phenomena from the mermen multiple times, but this looked unlike anything he'd seen before. In the blink of an eye, the rock turned to dust, atomized before his very eyes.
+
+Oh my giddy aunt!
+
+Leon was horrified. Could the slime turn him into dust? He continued to watch this strange display, which seemed to get progressively more dangerous over time.
+
+This magic bollock is far too powerful!
+
+A teleporting spider was scary enough already, but the power of disintegration felt more terrifying in his mind. While he was watching the horror show, suddenly two presences teleported right next to him.
+
+One was the spider, and next to her was a considerably short, sturdy woman. She was a pretty, dwarf woman with rounded features, her lengthy hair falling neatly over a crisp black-and-white maid's outfit, which contrasted charmingly with her sturdy build, giving her an unexpectedly elegant air.
+
+Leon was shocked, not knowing where this woman had come from, and while the two had mentioned elves and dwarves, he had felt they were exaggerating until one was standing right before him. He used [Threat Assessment] and, to his horror, received another "Utter Annihilation" result, causing him to panic internally.
+
+"How's the work coming along, Leon?" Vee asked.
+
+"I-it's going swell," Leon stammered.
+
+"That's good. I wanted to introduce you to Sylbera. She will be helping us around the island," Vee explained.
+
+"Pleased to meet you, Mister Leon. When I'm not attending to Master or Mistress Vee, you can request my services," Sylbera said politely with even a small curtsy.
+
+Leon felt like he was going to vomit blood at the absurdity of the situation. "M-mister!?"
+
+"Well, I'm not going to give you a better title until you earn it," Vee replied with a snort.
+
+"I don't care about that," Leon quickly denied. "How are you in charge of such a terrifying figure? Her presence alone is the same as that slime elf!"
+
+"Well, duh, why don't you follow the tentacle?" Vee replied and pointed a leg at the back of Sylbera.
+
+Leon followed the gesture and spotted a thin black cord coming out from the lower back of the dwarf. He would have mistaken it for a tail if it hadn't continued trailing along the ground until it attached to one of those large blue slime cables.
+
+This is the slime elf!?
+
+He was dumbfounded, but then he glanced over and saw that Syl was still magically conjuring vortexes of disintegrated matter.
+
+"I-I don't understand," Leon admitted.
+
+"You don't really need to. Just know that Sylbera will be helping us with anything related to earth, fire, and magma. I hope she can become a blacksmith one day, too," Vee explained.
+
+"If Master picks up the profession, I should be able to do that, Mistress Vee," Sylbera politely responded.
+
+"No rush, it's something for the future," Vee replied. "Speaking of which, what is Syl even doing? Is she trying to create a tornado?"
+
+"Master is currently trying to create a [Dust Magic] spell to quickly gain proficiency experience," Sylbera answered.
+
+"[Dust Magic]!?" Leon blurted out. "I thought she was atomizing or disintegrating matter."
+
+Vee shook her head. "Nah, it's nothing that big, it's called [Erosion] if I remember correctly."
+
+"That's correct, Mistress Vee."
+
+Leon was speechless. This seemed far above something as simple as erosion. Once again, he swore in his heart that magic was bullshit.
+
+The three continued to watch Syl, the displays becoming more and more impressive with the magical constructs reaching new absurdities before being joined together.
+
+"Question…" Leon said, breaking the silence.
+
+"Shoot," Vee replied.
+
+"Is all magic this complex?"
+
+"Oh, not at all. Syl is just doing Syl things," Vee stated.
+
+"Syl things?"
+
+"Like, instead of going from A to B to C, Syl skips straight to D."
+
+"I see…" Leon murmured, feeling quite out of his depth now.
+
+"You'll get used to it," Vee said with a chuckle.
+
+I don't think I want to…
+
+***
+
+I turned to see that three audience members were watching. By the looks of things, Vee had concluded her fun while Leon had finished crafting a temporary home.
+
+"Congratulations on finishing the new spell, Master. Our enemies shall tremble before your might," Sylbera said.
+
+"Master?" I replied.
+
+"It was Mistress Vee's instruction," Sylbera answered, gesturing to the spider who was radiating smugness.
+
+"Looks like you had fun," I sighed.
+
+"The best of fun. I'm sure you'll love Sylbera," Vee replied.
+
+"I live to serve," Sylbera said with a curtsy.
+
+"I have to ask… Why? And also, what is she even wearing?"
+
+"It's a maid dress…" Leon answered in an almost whisper.
+
+"Okay," I turned to Vee again. "But why?"
+
+"Why not?" Vee snickered.
+
+I sighed, feeling a migraine in my core.
+
+"Okay, okay," Vee giggled, likely feeling my mental anguish through the bond. "Well, I always wanted a maid. That only grew after we had Paeris serving us. Then, well, I might still have a teensy tiny grudge against the dwarves for everything I went through."
+
+I nodded. The maid talk and whatnot was irrelevant, and I didn't mind Vee having some fun, as at the end of the day, it didn't really affect me. On the contrary, it would benefit me as any experience or proficiency would come straight back to me.
+
+As for the dwarf grudge… I could certainly relate. Vee had been hunted and even kidnapped during her evolution, becoming a pawn in someone's political game. If she weren't so good at protecting her nest, she would have died.
+
+"Alright. Just don't bully Beta, I mean, Sylbera."
+
+"Oh, I don't plan on it. I put a lot of time and effort into her design."
+
+"Thank you, Mistress Vee," Sylbera said.
+
+"You're very welcome," Vee replied, before turning to me. "Honestly, you should come to me with requests for your next personas."
+
+"I'll think about it…"
+
+My [Sub-Cores] were pretty mindless, but I'd experimented with vague orders like "protect me" or "fake injuries," which had resulted in oddly good results. However, now with [Roleplay] thrown into the mix, they'd reached something I hadn't previously considered. Could I give them genuine personalities? Could I get them to think and act independently?
+
+Does this count as talking to myself? Am I going crazy? Well… I already spoke to my skills… Should I look into using [Skill Deconstruct] on [Roleplay] and see if I can make something more?
+
+It was certainly a thought, but I already had things I wanted to do. Also, if I lost the skill, it would be a pain to get it back. Not to mention it was vital to continuing my infiltration and impersonations.
+
+Taking apart [Roleplay] and [Identity Fabrication] and trying to make a new skill with both of them together…? No! Bad Syl! Stop!
+
+I banished the crazy thoughts trying to seduce me and lead me astray. Magic was my priority right now!
+
+We chatted for a bit until eventually going to inspect the home Leon had built for us. To my surprise, as I approached it, I received a notification that appeared to come from [Identify].
+
+<Temp-Fort-011.>
+
+"Temp fort eleven?" I read.
+
+"Oh, you can see what I named the fortress?" Leon asked with surprise.
+
+"It shows up with [Identify]," I explained.
+
+"Is there such an ability?" Leon gasped.
+
+"Yes, yes, there are lots of skills and stuff you've probably been neglecting," Vee said dismissively.
+
+"I see…" Leon mumbled.
+
+"Did you really make ten other fortresses?" I asked.
+
+"A lot more than that," Leon answered. "This is just my temporary series."
+
+"Yeah, the last one was the V-fort," Vee chirped.
+
+"You named a fortress after her?" I asked.
+
+"No! V for Volcano!" Leon blurted out in denial.
+
+I ignored the spider, laughing her ass off, and shared a few traits and skills with Leon. He was really lacking in the basics and seemed quite appreciative, especially with regard to the traits that improved one's Mana capacity and regeneration. I also shared with him my vital knowledge on the importance of saving up his points!
+
+The home Leon built was surprisingly detailed, and it was amazing how he turned a cube of stone into something that resembled a house, despite being classified as a fortress. At the same time, he explained and demonstrated some of his abilities that he could only access while occupying a registered fortress.
+
+These varied in usefulness, with some of them being quite interesting. He could instantly repair a certain amount of damage and even grant it temporary immunity to specific attacks. It could also self-destruct, which I found particularly delightful.
+
+"If you blow it up while I'm inside it, I'll banish you to another dimension!" Vee threatened.
+
+The two of them ate dinner together, sharing some of the meals Vee had stored away. Leon seemed appreciative of it, although it looked like he couldn't be bribed with food like she could. However, he asked me plenty of questions on the resources I could create through slime or magic, so I knew I had other methods to motivate him.
+
+Eventually, we all called it a night, and I had my [Sub-Cores] stand guard. Since they were positioned all around the island, they would be able to sense almost any threat that approached us.
+
+At the same time, it looked like Vee had asked Sylbera to be on guard duty, and she patrolled around our fortress like a loyal soldier. While we all slumbered in bliss, Sylbera fought off a small handful of mermen who had arrived on the island. I only found out that this happened when she approached me in the morning to report the night's activities.
+
+Maybe I really should invest more effort into assigning personas to my [Sub-Cores]...
+
+I put that thought on the back burner. I'd use Sylbera as a test case and watch how she performed. If it were worthwhile, then I'd likely add more workers to our island. Not to mention, if I ever broke free of the constraints of always being connected, I could spread my personas far and wide!
+
+While Vee and Leon ate breakfast together, discussing island plans, I went to examine the soil for our treehome. After having a day of alchemical transmutation and rejuvenation, it looked like fresh and fertile ground stolen directly from beneath Caelthal itself.
+
+Feeling excited, I washed over the soil with brown slime, hoping to further enrich it. Once that was done, I pulled out the diamond acorn. It was finally time to plant it!
+
+I'd asked if anything special needed to be done, but surprisingly, there was none—I just needed to shove it into the soil. Which was what I did, and to my surprise, the thing practically came alive as soon as it left my grasp.
+
+The diamond acorn suddenly cracked with multiple protrusions. I was concerned until I noticed that those cracks began to sprout roots faster than I could even form tendrils. Each one spread out, grasping at the soil and firmly establishing itself in the ground.
+
+Even without my further input, I could see it rapidly growing; however, I wanted to take full advantage of this opportunity to nurture my [Nature Magic], so after aligning myself, I began casting [Grow] with all my might.
+
+Each pulse of magic acted almost like a heartbeat, and the roots began to spread out even further. I thought they would never stop, when the acorn finally split in two and burst open, a slender shoot speared upward, unfolding leaves that shimmered. Within moments, a small sapling stood, humming with magic and life.
+
+Wow, this almost totally makes up for having to deal with that annoying dungeon and the damn plantoids.

@@ -1,0 +1,360 @@
+---
+id: 536ffcd2-3f0b-5574-8175-85062c7a4cab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70: Desert"
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 70
+ownLength: 3128
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3576215/chapter-70-desert"
+royalRoadId: "3576215"
+---
+
+"What the hell is that?"
+
+The words left my mouth before I could think.
+
+The desert stretched before us.
+
+Not stretched. That word implied an end. There was no such boundary. The desert simply continued. Dunes rose and fell in waves. The nearest crests stood thirty meters above the surrounding troughs. Beyond those crests, more dunes. Beyond those, more. The repetition extended to the horizon and past it.
+
+The color was wrong.
+
+Not the golden-amber of storybook deserts. The sand was pale.
+
+The heat was a wall.
+
+We had crossed from scrubland into true desert two hours ago, and the transition had been gradual enough that my body had adjusted in increments. But standing here, on the crest of the last rise before the terrain committed fully, the accumulated temperature hit with its full force.
+
+The wind carried no scent. Just the mineral smell of superheated silica.
+
+Henrik stepped up beside me. His hand rose to shade his eyes, fingers splayed against the glare.
+
+"Beautiful," he said.
+
+I looked at him.
+
+He meant it. The word carried no irony. His face, beneath the cloth wrap around his forehead, held the particular expression of a man encountering something that exceeded his expectations in a direction he hadn't anticipated.
+
+Lena appeared at my other shoulder. She had produced a pair of tinted lenses from somewhere in her pack. Her notebook was already in her hand. The pencil moved.
+
+"The briefing mentioned the brightness," she said. Her voice was matter-of-fact. "It didn't mention that the brightness has a mana component. Can you feel that?"
+
+"Yes," I said.
+
+"The sand is saturated." She wrote something. "Consistent with long-term elemental infusion."
+
+She looked up from the notebook.
+
+"This desert was made."
+
+She was right.
+
+The briefing materials that Katja had delivered to our quarters had been thorough.
+
+I had read them three times. Memorized the relevant sections.
+
+The Sultanate's history was not long.
+
+Compared to Silberwald, whose noble houses traced their lineages back before the fall of civilization, the Kumsur Sultanate was a recent construction. Two centuries old. An assemblage of refugees and survivors who had fled the collapse of the ancient continent and washed up on the shores of a land that was, at the time, marginally more hospitable than the one they'd left behind.
+
+For decades, they scraped by. Small communities. Subsistence agriculture where the soil permitted it. Trade with the scattered human settlements to the north.
+
+The elves pressed from the south.
+
+Their advance wasn't military in the conventional sense. The forests grew. The tree line crept forward meter by meter, year by year, converting open land into dense woodland the elves could fight from.
+
+Then came the Sultan.
+
+The briefing hadn't named him. The Sultanate's founding mythology used only the title, as if the man who had carried it had been so thoroughly absorbed into the legend that his personal identity had become irrelevant. What the briefing had described was the scope of what he'd accomplished.
+
+An Eighth Circle Mage. Specialized in Earth and Air. The two aspects combined in a formation that the briefing's author had described as "unprecedented in documented magical history." He hadn't simply wielded the elements.
+
+He had made the desert.
+
+The Sultan had pushed the desert south. Expanded it. Driven the sand across hundreds of leagues of territory that had been, before his intervention, forest and grassland and the leading edge of the elven advance.
+
+The elves hadn't stopped.
+
+They kept trying to advance, but without their forests, and without adapting to the environment, they became easy targets. Or at least, easier ones.
+
+The Sultan had built a wall of sand between humanity and the elven advance.
+
+Brilliant. Simple in concept. Staggering in execution.
+
+Two hundred years later, the desert held. The elves had not crossed it. The Sultanate had grown behind its protection into a sovereign power whose economy was built on the only activity the desert permitted.
+
+Caravans.
+
+The briefing's economic section had been the densest part of the document. The Sultanate controlled the most extensive overland trade network on the continent. Caravans that crossed the desert in every direction, connecting the human settlements to the resources that lay deeper in the continental interior.
+
+The interior was where the wealth was.
+
+Monster territories. Dungeon entrances. Mineral deposits that surface mining couldn't reach. Alchemical reagents that grew only in the wild zones where ambient mana concentration exceeded the levels that cultivated land could sustain. The deeper you went into the continent, the more dangerous the territory became, but the rewards scaled with the danger.
+
+The caravans that ventured deepest commanded the highest prices. Their goods were the rarest. Their guards were the best. Their routes were secrets guarded with a ferocity that made military intelligence look casual by comparison.
+
+Some of them, according to the briefing's more speculative passages, went all the way.
+
+All the way to the coast.
+
+The other coast. The one that faced the ruined eastern continent across the ocean. The Sea Beyond Hell, the caravaneers called it. A stretch of water so saturated with dimensional instability that the waves themselves were said to glow at night.
+
+Whether any caravan had actually reached that coast and returned was a matter of debate. The Sultanate's merchant guilds claimed it. The empire's intelligence analysts were skeptical.
+
+We had been walking for six hours.
+
+The sun had passed its zenith and begun its descent toward the western horizon. My clothes were soaked. The salt crust that formed on my collar and cuffs as the sweat evaporated was thick enough to feel against my skin.
+
+Henrik walked point. He placed his feet on the compacted ridgelines where the sand held firm rather than in the loose troughs where each step sank to the ankle.
+
+Lena walked behind me, her notebook sealed inside a protective case that she'd waterproofed against the sweat that dripped from her hands. Her tinted lenses reflected the desert in miniature. She hadn't complained. She hadn't spoken more than necessary. She conserved energy.
+
+We crested a dune.
+
+Henrik stopped.
+
+I reached the ridgeline two seconds after him and looked at what had frozen him in place.
+
+In the distance — perhaps two kilometers, perhaps three, the desert's featureless uniformity made distance estimation treacherous — something broke the horizon.
+
+A shape.
+
+It rose from the sand like a monument.
+
+From this distance, it looked like a hill. A massive, rounded prominence with three dark openings arranged asymmetrically across its nearest face. The openings were enormous — cathedral-sized voids through which sand poured in thin, continuous streams, the grains cascading into the darkness.
+
+"There it is," Henrik said.
+
+His voice carried something I hadn't heard from him before. Reverence. The particular tone that entered a voice when it encountered something that existed at the boundary between the real and the mythological.
+
+I stared at the shape. Tried to resolve the geometry into something my brain could understand.
+
+A hill with three caves. That was the simplest interpretation. A geological formation partially buried in sand, its interior hollowed by erosion or subterranean processes, the openings facing us like—
+
+Like—
+
+The recognition arrived slowly. The shape didn't change. My perception of it did. The scale shifted. The geometry reorganized. The three openings stopped being caves and became something else.
+
+A forehead. Two sockets side by side, and a third set higher between them? I thought I was losing my mind. My legs stopped working.
+
+The shape wasn't a hill. It was a skull.
+
+A skull the size of a fortress. A skull so vast that each eye socket could have swallowed a house whole.
+
+The mandible was gone. Either buried entirely beneath the sand or separated from the cranium during whatever cataclysm had brought the thing down.
+
+My foot caught on something. The sand shifted beneath me. My balance broke.
+
+Henrik's hand caught my arm. He held me until my feet found purchase, then released.
+
+"Wish I had a way to capture this." He glanced back at the skull.
+
+"What is... this?" I asked.
+
+Lena had moved to my other side.
+
+"You don't recognize it?" She asked.
+
+"No," I managed.
+
+She turned to look at me.
+
+"It's the Skull," she said.
+
+I shook my head.
+
+Henrik was staring at me with an expression that mixed disbelief with something approaching delight.
+
+"The Titan's Skull," he said. "The Titan."
+
+"Dear God," Lena said, pulling her lenses down to look at me with bare eyes that carried an incredulity bordering on offense. "What do they teach at the Academy?"
+
+"It was more focused on—"
+
+"The Titan," Henrik interrupted, spreading his arms wide as if the gesture might encompass the scale of the thing before us. "The only one ever killed. The reason the Sultanate exists. The Sultan didn't just push sand around. He killed this." He jabbed a finger at the skull. "The ambient mana field we've been walking through for six hours. It's the Titan's death energy, still radiating after two hundred years."
+
+Lena picked up the thread with the methodical precision of someone who couldn't bear to leave an explanation incomplete.
+
+"The Titans are one of the most unpredictable Sins. Some say they came from the sea. Others claim they were spat out of a portal on the ruined continent. Either way, they are mindless. They do nothing but wander and feed. No two are alike. They rarely appear, but when they do, it means the end of a kingdom."
+
+She gestured at the skull.
+
+"This one emerged from somewhere on the south, two hundred and ten years ago. The historical accounts describe it crossing the elven territories in a matter of days, destroying everything in its path. Forests, settlements, the elven defensive infrastructure. The elves couldn't stop it."
+
+She paused.
+
+"It walked north. Into the territory that would become the Sultanate. Into the path of the man who would become the Sultan."
+
+Henrik's voice dropped. The reverence was back.
+
+"He fought it for three days," he said. "Three days. The accounts say he pulled the desert up around it. Buried it in sand, crushed it with pressure, stripped the air from around its body until the lungs collapsed. It kept getting up. He kept hitting it. On the third day, something broke."
+
+He looked at the skull.
+
+"When the Titan fell, the mana that had sustained it released into the ground."
+
+He spread his hands.
+
+"The Sultanate was founded on the crater."
+
+I stood on the ridgeline and looked at the skull and felt the weight of what I didn't know settle across my shoulders.
+
+The Sins.
+
+I had been fighting their effects since the day I'd arrived in this world.
+
+But I didn't understand them.
+
+I had focused on the immediate. On the front. On the battles, the training, the accumulation of skills and levels and tactical capability. My knowledge of the broader war was partial at best.
+
+The books in Grenzheim had covered the elves because the elves were the local threat. The Academy's curriculum had addressed magical theory because magical theory was what mages needed. The Formation School had trained me in investigation because investigation was the function I'd been assigned.
+
+None of it had given me the full picture.
+
+I was fighting a war whose enemy I barely understood.
+
+That changes now.
+
+The thought was a decision. Whatever time the mission permitted, whatever access to the Sultanate's libraries and archives and oral histories the operation's constraints allowed, I would use.
+
+The Snow Dream investigation was the mission. Understanding the Sins was the war.
+
+I turned from the skull.
+
+"Let's move," I said. "We're burning daylight."
+
+Henrik fell into step. Lena's pencil resumed its motion across the notebook's page. The skull receded behind us, shrinking with each step.
+
+But the mana field didn't diminish. The pressure that emanated from two-hundred-year-old bone continued to push against my perception long after the skull itself had vanished from sight.
+
+We walked in silence for another hour before Henrik stopped.
+
+His hand rose. A fist, held at shoulder height. The patrol signal for halt.
+
+I froze. Lena, behind me, did the same.
+
+Henrik's head was tilted. Not looking at the horizon. Looking down. At the sand beneath his feet.
+
+I felt it a heartbeat later.
+
+A vibration.
+
+Something was moving. Beneath us.
+
+Henrik's hand shifted from the fist to an open palm, fingers spread. Multiple contacts.
+
+He dropped to one knee. Pressed his palm flat against the sand. His eyes closed. The Mana Blood that every Iron Cross operative cultivated hummed through his body.
+
+His eyes opened.
+
+"Five," he said. A pause. His jaw tightened. "Closing."
+
+The sand erupted.
+
+Five mounds detonated upward along the trough below us, geysers of pale silica blowing skyward as bodies the size of supply wagons clawed their way out of the dune. Carapaces caught the late sun and threw it back in shades of dried blood — that wet, rust-dark red of meat left too long in the heat. Mandibles the length of a forearm. Six legs each, segmented and barbed. Eyes that were not eyes but clusters of black facets crowded along the skull plate.
+
+The smell hit a second later. Formic acid. Sharp enough to make the back of my throat clench.
+
+Steel rasped on either side of me.
+
+Henrik's hands were already on the grip of his greatsword, the blade clearing the harness across his shoulder.
+
+Lena's draw was different. A shorter blade, narrow, leaf-shaped at the tip. The kind of weapon that traded reach for speed. She rolled her wrist once as the steel cleared the scabbard, testing the balance, settling the grip.
+
+They split before we'd spoken.
+
+Henrik broke left. Lena right. Each one peeled an ant from the formation as they moved, drawing the flanking insects into engagements that would isolate them from the center.
+
+Three left in the middle.
+
+For me.
+
+My hand was already at my belt.
+
+The pouch sewn into the inside lining was small. The vials inside it were not standard issue. They were not Iron Cross supplies. They were the result of my own attempts to replicate some of Kaspar's experiments, at least the ones I considered useful.
+
+My fingers found the one I wanted by the shape of the wax seal.
+
+Experiment #53.
+
+I had no memory of the testing process. The shelves in the library held the formula and the assembly, but the trial — whatever had happened the first time Kaspar had mixed this compound — that volume was in a corridor I hadn't yet walked. How he had survived discovering this thing was a question I would have liked to ask him.
+
+The ants closed. Twenty meters. Fifteen.
+
+I pulled the vial.
+
+The throw was clean. The vial spun once in the air and shattered against the lead ant's head plate. The first ant's head plate disappeared inside a blooming sphere of yellow-green that wasn't quite fire and wasn't quite liquid. A viscous flame that clung where it landed and pulled itself outward across every surface it touched.
+
+The second ant ran into the spreading edge of it.
+
+Then the third.
+
+The compound bridged across them like spit between teeth. Where it touched carapace it stuck. Where it stuck it ate. The reddish chitin blackened, bubbled, sloughed in wet sheets that exposed the pale, twitching tissue beneath.
+
+The lead ant's mandibles opened to scream. No sound came out. Its mouth-parts dissolved before the air could pass through them.
+
+I drew my sword.
+
+The blade left the scabbard and I was already moving down the slope, the loose sand of the trough giving and reforming beneath my boots. Mana flooded my legs. Mint-burn opened in my lungs and spilled outward through the channels in my thighs and calves. The slope didn't slow me.
+
+The first ant was already dying. I gave it a downward cut through the soft seam between the head plate and the thoracic segment, where the resin had eaten the carapace down to a translucent membrane. The blade went through that membrane the way a hot knife goes through butter. Pale ichor sprayed in a thin arterial pulse and hit the sand and steamed.
+
+It collapsed forward onto its mandibles. Twitched. Stopped.
+
+The second ant was still trying to advance. Its forelegs had welded together at the joint where the compound had pooled, and it was hauling itself forward in a lopsided crab-shuffle that turned its flank toward me as I crossed behind the first corpse.
+
+I drove the blade upward beneath the rib-plate, angled toward what passed for a thorax. The steel found resistance and then gave, sinking to the hilt as the carapace parted around it. I twisted. Pulled. The wound made a sound like a sail tearing.
+
+Ichor poured.
+
+The third was the worst of them. The compound had splashed across its face but missed the body. Its legs still worked. Its mandibles still worked.
+
+I jerked the blade free.
+
+Stepped left.
+
+The ant's charge committed it past my line. Its head swept where my torso had been a half-second earlier. As it passed I drove the point into the joint where the rear leg met the abdomen, twisted, and let the momentum tear the wound open as the body carried itself forward.
+
+The leg came off in a wet pop.
+
+The ant pitched sideways. The remaining legs scrabbled. Sand sprayed.
+
+I walked after it.
+
+It tried to turn. Couldn't. Two of its legs were welded to its own thorax by the resin.
+
+I put the blade through the cluster of black facets that served as its left eye and pushed until the steel met something that resisted, and then pushed harder until that resistance gave way.
+
+The thing under the carapace burst.
+
+The ant stopped moving.
+
+I stepped back. Breathing through my teeth. Mana settling back into the cores.
+
+Henrik's ant was already dead. He'd taken the head off entirely in two strokes. He stood over it with the greatsword resting across his shoulders.
+
+Lena's was twitching. She had put the leaf-bladed point through the underside of its skull, where the carapace plates met at a seam. The ant was dead and didn't know it yet. She pulled the blade out in a clean motion and let the body collapse.
+
+She wiped the steel on the corpse's flank.
+
+⌜ Novice Swordsmanship — Level 23 ⌝
+
+⌜ NEW SKILL ACQUIRED: Alchemical Combat — Level 1 ⌝
+
+⌜ Senses — Level 7 ⌝
+
+I dismissed the notifications with a thought.
+
+I didn't stop.
+
+There would be other ants. There would be other corpses. Time was the resource we couldn't replace.
+
+"Let's move," I said.
+
+Henrik shouldered his sword.
+
+Lena was already cleaning her blade with a strip of cloth from her pack.
+
+"Let's get to the settlement before nightfall," I added.

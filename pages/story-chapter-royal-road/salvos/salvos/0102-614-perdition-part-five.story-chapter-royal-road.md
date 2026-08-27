@@ -1,0 +1,247 @@
+---
+id: 925bb5e1-6a2b-517e-b9d9-5bff0743c4f4
+page-type-slug: story-chapter-royal-road
+title: "614. Perdition Part Five"
+slug: 0102-614-perdition-part-five
+partOf: salvos
+position: 102
+ownLength: 2591
+unit: words
+publishedAt: 2023-10-23
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1383239/614-perdition-part-five"
+royalRoadId: "1383239"
+---
+
+614. Perdition Part Five
+
+“You can still save Belphegor.”
+
+My voice echoed around my pocket space. The glint in my eyes faded away, and [Truth Divination] came to an end. My dad stood there before, still wrapped in a somber silence. He didn’t speak. He didn’t meet my gaze.
+
+I poured out all my feelings for him to see— I showed him that I was telling the truth. And I pleaded with him to do what was right. Not for the sake of justice, but for his own sake.
+
+So I looked at the Devil, waiting for his response. I had nothing else left to say. He had heard my souls, and now it was his turn to act.
+
+[The World Of My Mind] returned to normal. My pocket space stopped shifting, and the reflections of my memories faded away. There was an all-encompassing silence that remained. A sense of solitude that made it seem like it was only the Devil standing here.
+
+Not me. Not Haec. Not his friends. Not the lake of fire.
+
+It was just Sal. The Devil. Formerly known as Samuel. The first King of the Netherworld, disgraced and forgotten with time.
+
+His gaze was shadowed over. His brows were arched over his head, casting a darkness that seemed to envelope his body. It was almost unsettling to see. He stood eerily still. It was like he was a statue— refusing to move and refusing to act.
+
+Or so I thought.
+
+His head creaked back as the shadow was lifted from his body. The Devil’s black eyes bore into me, and I stood my ground. Was he glaring at me? Was he upset by what I said? I couldn’t quite tell. The expression he wore on his face was unreadable.
+
+I watched his lips moved. Sal whispered something, and I blinked.
+
+“What?”
+
+I asked, but my dad didn’t stick around to give an answer. A rift opened behind him— a portal that was pitch black. He stepped into it, and the hole in space sealed shut.
+
+The Devil was gone.
+
+It took a moment to register what had happened. Haec had watched the entire conversation as a spectator— he didn’t even feel like he belonged here. Everything that was said and shown felt too… personal.
+
+But he was there for it. He watched it all unfurl. And when the scene came to an end, he didn’t even realize it was over.
+
+But the Devil just walked away— opened a portal and left. Just like that, the conversation had ended, and now the former Heir of the Netherworld was left sitting there with his head spinning. The only reason he broke out of his stupor was because he felt a finger poking him from the side.
+
+“Haec…”
+
+He glanced over to Taburas who was biting her lower lip. She wore a worried look on her face.
+
+“What do we do?”
+
+“I—”
+
+Haec gritted his teeth. He glanced at Bertrugil— the normally quippy [Abraxas] was quiet now, processing what was said. Next to him, Aemula was stunned, but also confused. It looked like she didn’t quite understand the gravity of what was discussed.
+
+Taking in a deep breath, Haec shook his head as he turned back to the [Succubus].
+
+“I do not know, Taburas. If this is a problem that even the Devil flees…”
+
+But Salvos spoke up, cutting him off in an instant.
+
+“Nope.”
+
+Haec blinked at her simple response. He turned to his first companion, and she stood there with her hands on her hips, still staring at the empty space where the Devil had once stood. She shook her head, continuing with a small smile on her face.
+
+“My Dad isn’t running.”
+
+“He… isn’t?”
+
+Haec furrowed his brows. And Salvos nodded, turning to face him. She looked confident as she finished.
+
+“Not anymore.”
+
+A powerful explosion ripped across the dark tunnel. Fragments of broken buildings were sent flying in every direction, knocked back by a pulse of iridescent light. This expanding ripple formed bubbles of non-existence, popping up alongside rifts that distorted space itself.
+
+Belphegor stumbled back, staring at the remains of dozens of [Gargoyles] lying at his feet. He wiped the black blood from his face and raised his gaze. He heard a cacophonous chittering— he saw the bright light as it drowned his senses.
+
+The end of the world approached, and it drew closer faster than it had ever moved. Despite his best efforts, there was nothing Belphegor could do to stop it. It would consume the Second Layer of the Netherworld, just as it consumed all the others before it.
+
+The Guardian of the Netherworld could have given up. He could have fled like many of his comrades did in the past. He hesitated, looking back down at himself as the aura of divinity wisping off him vanished.
+
+And he made his decision.
+
+“I won’t run.”
+
+He was going to continue fighting— he was going to perish like those who stayed and fought alongside him.
+
+“I won’t give up.”
+
+Belphegor rose to his feet, clenching a fist. His gaze landed on stared a distortion moving through the end of the world. It hid behind an army of corruption. Whether it was Corrupted Netherstones or Corrupted Netherstructures or even Corrupted Hellspaces.
+
+They all seemed to protect it. Like it was their leader. This was the very first time Belphegor had seen such a behavior. And the only reason this could happen was because he had left the Second Layer.
+
+It was so brief. He had sensed something amiss in the First Layer, so he went to visit it. And he underestimated how much worse the time dilation had become between the Second Layer and the First Layer.
+
+Enough time had passed down here to create… that.
+
+Belphegor watched as it emerged from the end of the world. Bigger than before. Even though it was already massive. It was—
+
+A giant Corrupted Hellspace.
+
+One that was larger than any he had ever seen before. It had so many tendrils, he couldn’t even keep count. The aura of distortion that normally covered a Corrupted Hellspace wasn’t there, instead it had become fully visible, even to the naked eye.
+
+He didn’t even think it was a Corrupted Hellspace any longer. It had to have become something else… or maybe it was in the process of becoming something else.
+
+Belphegor didn’t know. He just knew he had to stop it now— before it got even stronger. He straightened, taking a tired step forward. And another. And another.
+
+The giant Corrupted Hellspace screeched, unleashing its tendrils at him. Belphegor sprinted forward, even as the corrupted army descended upon him. Even if his body broke— even if he grew tired— he wasn’t going to stop fighting. He wasn’t going to surrender. He wasn’t going to run away. Because he did it all for—
+
+“[Godkiller].”
+
+A familiar voice echoed throughout the second layer. It was a reverberation that shook the ground beneath Belphegor’s feet. The words alone sent the closest of the corruption recoiling back.
+
+And an instant later, the army of corruption was obliterated.
+
+Belphegor’s eyes grew wide as he saw a shining object rip through Corrupted Netherstones and Corrupted Hellspaces alike— like they were all made of nothing. It was a speeding projectile that moved so fast, it reached the giant Corrupted Hellspace in a split-second.
+
+The giant Corrupted Hellspace couldn’t react in time. Its core was pierced— a hole ripped through its body. The sheer force of the impact sent it flying straight back into the end of the world along with the glinting object.
+
+And there was a flash of light as the project clashed with the wall of infinite corruption. Belphegor watched as the end of the world trembled— slowing for just a moment from the attack.
+
+But as the giant Corrupted Hellspace sank into the corruption, the projectile stopped at the edge of the end of the world. The bright light slowly dimmed, and Belphegor saw what it was.
+
+It was… a pitchfork. A black pitchfork that was all-too-familiar to the Guardian of the Netherworld.
+
+He stared at it with round eyes, before watching as it flew back. The weapon shot towards him, but he didn’t flinch. Instead, he froze as he caught a glimpse of a red hand reaching out over his shoulder.
+
+The hand caught the pitchfork a second later as Belphegor stood there. He recognized that hand. He knew who it was without even turning around. And because of that, he did not dare to crane his neck.
+
+“I…”
+
+Belphegor trailed off. Slowly, the hand withdrew behind him. The weapon vanished behind his head, and a voice spoke up. A familiar voice. A soothing voice. A comforting voice.
+
+“I am sorry.”
+
+It was the voice of a man. A broken man. A man who Belphegor knew so well.
+
+“I didn't mean to abandon you. I didn't mean to leave you behind.”
+
+The man continued speaking, even as Belphegor closed his eyes. The Guardian of the Netherworld wanted to soak in those words— relish in the voice that had become a memory.
+
+“I failed you. I failed all of you—”
+
+But hearing what was said, Belphegor couldn’t stop himself. He spun around and hugged the man standing behind him.
+
+“Samuel…”
+
+He whispered the name of his friend. The name of his lover. The name of his king.
+
+Tears streamed down Belphegor’s bloodied face as the Devil stood there, stunned by the sudden embrace. Samuel blinked a few times, before he finally realized what was going on, and he returned the hug.
+
+“Belphegor…”
+
+The former Devil King lowered his head, looking down at his lover. In return, Belphegor tightened the hug, speaking softly.
+
+“You did not fail us, Samuel. Don’t you dare blame yourself for what happened.”
+
+“But I did fail you.”
+
+Samuel replied, shaking his head weakly. He swept his gaze over the corrupted landscape, before looking at the end of the world.
+
+“You needed me, and I wasn’t there for you. All of you.”
+
+There was a long moment where the two held their embrace, ignoring the wall of infinite corruption approaching just ahead of them. Belphegor didn’t care if the world ended right now, he was finally reunited with the man he loved.
+
+The Second Layer of the Netherworld trembled, and the corruption filled the air. Slowly, the two lovers broke from their embrace, and Belphegor shook his head.
+
+“My King, I cannot speak for those who fled, but I can speak for those who remained.”
+
+Belphegor gestured towards their broken surroundings. Samuel stared at him as he spoke softly.
+
+“We stayed and fought, because we believed that you would one day make your return. We never faltered, because we knew you would come back. We believed in you, because you are our King.”
+
+The former Devil King heard those words, and his eyes widened. He raised his head, staring at the Guardian of the Netherworld in shock.
+
+From the wall of infinite corruption, a tendril shot out. The giant Corrupted Hellspace crawled up from the end of the world. A gaping hole filled its core, and its movements were sluggish compared to before. But it was still alive.
+
+Belphegor ignored this, just smiling. He nodded at his King.
+
+“And you have finally returned. So you did not fail me, my King. You do not need to apologize. For you are here now.”
+
+Samuel closed his eyes, taking a deep breath. He bowed his head as the two remained silent for a moment. And he gave a simple reply.
+
+“I am.”
+
+The giant Corrupted Hellspace conjured up another army of corruption around it. Even more Corrupted Hellspaces took shape around the end of the world. They shrieked and screeched and descended upon the two Primordial Demons.
+
+Samuel chuckled as he stepped past Belphegor.
+
+“You are right. I have returned, haven’t I?”
+
+The former Devil King twirled his pitchfork, continuing to walk forward. He headed straight for the end of the world without hesitation. And behind him, Belphegor faithfully followed.
+
+Samuel set his gaze upon the wall of infinite corruption, a grin spreading across his face.
+
+“This is the first time we have met, oh grand failure of mine. It is a pleasure to finally make your acquaintance.”
+
+The giant Corrupted Hellspace let out a scream, lashing out with a tendril at the Devil. He ignored it, and Belphegor rushed forward, catching the tendril.
+
+“I know our introduction should have happened long ago, and I know I am not the man who I once was. But I want to make a good impression. So let me show you—”
+
+Samuel spoke, even as Belphegor yanked the tendril forward. The Guardian of the Netherworld pulled the giant Corrupted Hellspace to him, before delivering a powerful punch that shook the world.
+
+“[I Shall Bear Your Sins]!”
+
+A second hole was punctured through the giant Corrupted Hellspace. But it didn’t go limp just yet. It drew back, flying to the sky. It hovered there, hiding behind its army as he tried to repair itself.
+
+And Samuel continued striding forward. He ignored the Corrupted Netherstructures as they assailed him. He didn’t even need to dodge as the tendrils of the other Corrupted Hellspaces seemed to somehow miss him.
+
+The Devil had his arms spread wide, laughing wildly as he walked up to the end of the world.
+
+“Let me show you the might of he who was once called the Devil King. Let me show you the glory of he who once ruled all Thirteen Layers of the Netherworld—”
+
+The space of the Second Layer was still wobbling from the impact of Belphegor’s punch. But then, everything began to twist. The bubbles of non-existence nearby burst open, and the rifts sealed shut.
+
+Belphegor lowered his head, watching as the world around them began to change. The broken space around them was replaced by that of another plane.
+
+Samuel spread his arms wide as an ethereal castle seemed to emerge from the ground beneath his feet, carrying him high up to face the giant Corrupted Hellspace. He grinned.
+
+“[Let Me Show You: The Dreams Of He Who Slew A God].”
+
+And as he spoke the name of the Skill, the pocket space finished forming. All at once, the army of corruption was encased by a giant cube. Even the end of the world was trapped here, captured by the Devil.
+
+Samuel smiled as he stood atop a tall castle made of white rock. All around him, a vast grassy flatland spread out in all directions. The sky was a light crimson— not dark and overbearing like the Netherworld.
+
+Belphegor blinked, staring at this world he had never seen before. But it wasn’t just the world around them. He looked down at himself, and saw that all his injuries were gone. He had fought alongside Samuel countless times, but this was not a power that had ever been shown.
+
+It had to have been a new Skill.
+
+“What is this…?”
+
+The Guardian of the Netherworld wondered aloud. And Samuel spoke up, his voice echoing around this expansive plane.
+
+“This is my world. My kingdom. As long as I live…”
+
+The Devil King glanced back at Belphegor. The Guardian of the Netherworld nodded. Samuel smiled and looked back towards the giant Corrupted Hellspace, raising his pitchfork.
+
+“I will not let it fall.”
+
+And the two Primordial Demons continued their battle against the end of the world in that pocket space. Together. Empowered by each other.
+
+Fighting to save the world.

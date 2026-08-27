@@ -1,0 +1,101 @@
+---
+id: 30498bf1-9a23-5f3f-87c3-6c1a0068b87b
+page-type-slug: story-read-royal-road
+title: "My Lord! Please! (A Character Driven Kingdom Building Novel)"
+slug: my-lord-please-a-character-driven-kingdom-building
+world: my-lord-please-a-character-driven-kingdom-building
+unit: words
+author: "Animas"
+royalRoadTags:
+  - "Portal Fantasy / Isekai"
+  - "Kingdom Building"
+  - "Male Lead"
+  - "Slice of Life"
+  - "Drama"
+  - "Adventure"
+  - "Fantasy"
+  - "Mystery"
+  - "High Fantasy"
+  - "Ruling Class"
+  - "Strategy"
+royalRoadSeriesStatus: ongoing
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building"
+royalRoadId: "159068"
+---
+
+Leon never wanted to be a lord.
+
+The last thing he remembered was debugging code and complaining about his junior’s mistakes.
+
+The next thing he heard was a voice begging for mercy.
+
+“My Lord! Please!”
+
+When Leon opened his eyes, he was no longer himself.
+
+He was Lucien — the disgraced son of a noble family exiled to the frontier, standing before a crowd and a man about to be executed in his name.
+
+The previous Lucien ruled through fear.
+
+The frontier answers only to survival.
+
+Ashridge is small, poor, and dangerously fragile.
+Its people distrust their new lord.
+Its defenses are weak.
+And the wilderness beyond the Deep Forest does not forgive mistakes.
+
+Leon is not a warrior.
+
+He is not a hero.
+
+He is an engineer who spent his life fixing broken systems.
+
+Fields can be reorganized.
+Labor can be structured.
+Defenses can be improved.
+
+But villages are not machines.
+
+And every decision a lord makes carries a cost measured in human lives.
+
+Some problems can be solved with reason.
+
+Others demand something far harder.
+
+My Lord! Please! is a character-driven kingdom building story about leadership, community, and the slow work of building something that lasts.
+
+Release Schedule: Mon/Wed/Fri/Sun
+
+Patreon up to 28 chapters ahead!
+
+This will be a slow-burn Kingdom Building Novel that will take place over several years in story time, Enjoy the ride!
+
+Expect:
+
+If you enjoy plots like release that witch or How a Realist Hero Rebuilt the Kingdom, you will enjoy this one too!
+
+Rational and logical MC, still tries to consider the human aspect of things
+
+Frontier settlement development
+
+Practical governance and village life
+
+Some Tech uplift but gradual and grounded.
+
+Characters who grow alongside the land they live on
+
+Occasional combat when survival demands it
+
+Moments of levity between crises
+
+Ashridge will not rise through destiny or magic.
+
+It will be built one decision at a time.
+
+What not to expect:
+
+Harem
+
+Fast paced action
+
+Systems or LitRPG

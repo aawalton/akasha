@@ -1,0 +1,393 @@
+---
+id: 6b69310a-522a-56c5-bdc6-516b9d51733c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 118: Examination"
+slug: 0038-chapter-118-examination
+partOf: the-calamitous-bob-stubbed
+position: 38
+ownLength: 5473
+unit: words
+ownProgress: 5473
+publishedAt: 2023-05-19
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1218004/chapter-118-examination"
+royalRoadId: "1218004"
+markedReadAt: "2026-06-29T21:16:02.270Z"
+---
+
+Afternoon sunlight reflected on Viv’s shield and its latest addition, a letter from an unknown alphabet hammered on by a Hallurian smith.
+
+What had started as a light shield was now considerably heavier, its surface lined with symbols, a veritable roadmap of Viv’s progress and the friends she had made along the way. The Yries-made enchantments were still intact and fully functional under added plates grafted on like barnacles on a warship’s hull. The tree of Kazar, the shield of Neriad, the veterans’ mark, the sigil of the mountain folks, even the layers of fur left at the back by the Merls. She had made an impact over the last year and a half. A good one, for some.
+
+The rest could go fuck themselves.
+
+Even the description of the shield had changed. Viv wondered if it was due to her familiarity with the item.
+
+[Yries enchanted shield: made with care for a friend, this shield has since collected marks of respect and gratitude from very diverse people. The innate protections remain intact under an increasingly heavy layer of armor. Has stopped several blows despite the current wielder’s lack of expertise. Extremely resilient.]
+
+Hey, at least I hold it in a way that the edge doesn't smash me in the nose anymore, Viv told herself with some annoyance. This had not led to any skill for her. It took more than a few hours of effort for the magic of the world to decide to help.
+
+It was true, the shield had blocked several blows. An arrow in the cannibal compound and a downward dagger stab when she had gone after a captured Arthur. It was indeed solid. The description had it right, though, the main aspect was emotional. A reminder of what she had achieved in protective form.
+
+“Admiring your own reflection, dear?” Sidjin asked in a teasing voice.
+
+Viv frowned at her fallen prince boytoy.
+
+“It’s not even flat. On a related ‘not flat’ note, why are you naked?”
+
+“Why are you not naked?” the prince replied, extending his arms to the secluded clearing they were on and the tent they had set up.
+
+Viv considered his words and admitted that they made a lot of sense.
+
+The pair spent an hour relaxing comfortably, then the time came to work. They dressed and meditated for five minutes, centering themselves for the task to come. Viv checked the circle one last time out of habit, then centered on the teleportation gate destination array.
+
+The last hurdle towards making a stable teleportation for Viv was not seeing space as a fabric, which seemed to be hard to grasp for the local humans, but the calculations associated with origin and destination. Sidjin was a mage who used rigid, codified coordinates for distance and direction to link one portal with another. Viv realized her magic didn’t work that way. Mana buckled at those strict guidelines, not least because Viv realized they were, in fact, incorrect. Too approximate to link two points hundreds of miles away from each other. It should not work, but because mages made magic work through a more rational approach, it did for them. It was good enough to function, really. That would not fly with her instinctive method, so rather than using coordinates, she used a code. A portal had a set of glyphs that marked it and its surroundings. For example Helock would be ‘city, magic, flying, stone’ and a few others while the wilderness they were in for testing had ‘clearing, peace,’ and ‘naked’ in it. So long as it made sense to Viv, that was fine.
+
+One of the issues was that a witch portal would be too peculiar to be activated by someone else. On the plus side, it appeared to be more stable than a mage portal, requiring less material and less mana to activate. That was what the preliminary tests had shown. Now the time had come for the real deal.
+
+“Whenever you’re ready darling.”
+
+“Thanks Sidjin. What if we break the fabric of space and time itself?”
+
+“Then we can travel back and do it again! We will not, however. We are merely connecting to points in a temporary fashion. Legerit of Baran proved that Nyil would smother harmful effects to itself, if not the creatures that inhabit it as the Harrakan disaster shows, by conducting an experiment in two-sixty eight on the premise that —”
+
+“Yes, yes, thank you dear. The joke would have sufficed.”
+
+“You know better than to get me started on colorless mana studies. In any case, enough delay! Proceed! I believe in you and your weird witchy ways.”
+
+“Hmph.”
+
+Viv walked to the circle and took a step in, careful not to damage the lines. They had not used metal but traced divots into a flat stone disk Sidjin had casually raised from the ground. As soon as she did, a strange current raised the small hair from her arms. The spell was not even fully charged yet.
+
+She poured power from her core into it, feeling mana swell to answer her will. All of it made sense to her. Space was a fabric, only flat to her limited human senses. Gravity made it malleable. Nyil, the world, would let her touch it for a little bit, pinch it, as it were. There would be no breaking, no, merely small ripples. A small aperture so tiny only humans would use it. It would go from this isolated clearing, a peaceful place still bearing the memory of a couple making love, back to the city of sorcery, its place of learning, the enchanted walls, flying rocks hanging above like divine jokes or swords of Damocles. A passage would open. Two would become one, then two again, allowing passage for a fragment of an instant in the grand scheme of things. So easy. No need to force, not like those mages do. Just… go with the flow to create something unique and daring but ultimately harmless. Space could not be broken by the likes of her anyway. This was merely brushing a carpet with some strands standing at different angles.
+
+Massive power, stored over an hour by a powerful caster, swirled in front of Viv. The powerful energies could level the forest if she lost control, but she would not. Colorless magic had no real will of its own, only the caster did. It would not rebel. Not against her, at least. Slowly, carefully, she coaxed the ball to go deeper towards the inside in a direction humans may not tread. there was upward, forward, and to the side, but there was inward as well. It was so logical, so obvious. When the sun hit the place right, it created a shadow in three dimensions. Viv could just feel it work.
+
+“Gate,” she whispered.
+
+Simple and clear, no need for frills, for theatrics. Two places would be one, then two again, because she wanted it.
+
+The circle dove inward until it was so thin a quark could not have crossed it, but that was fine. It connected and now she could enlarge it a bit, just enough to let a mounted rider through. Practically nothing. There it was. The same sun but at a slightly different angle through the windows of Sidjin’s new lab, the one Sterek had to abandon.
+
+Sidjin floated the tent through, then led their horses as well. The beast snorted a bit in panic but did not resist any more than that. Viv had a last look around to check if they had not forgotten anything, then she was through.
+
+The spell faded behind her, its purpose fulfilled.
+
+Viv blinked.
+
+“Wow.”
+
+Mana mastery: Intermediate 2
+
+Arcane Constructs: Intermediate 3
+
+It made so much sense. Everything did on a fundamental level. Reality was plastic when suffused with so much mana. It permeated everything she could see. There was a code, no, there were codes of which one was eminently suited to her. She could see it, feel it, wield it, she could tire less and recover faster. This world was… wonderful.
+
+“It seems like you had a breakthrough. A big one.”
+
+“Yes. Magic is so smooth. I gained Mana mastery at intermediate level two. I did not realize the difference would be so pronounced.”
+
+Sidjin nodded slowly, suddenly solemn.
+
+“A momentous achievement. And sometimes, skill level is not everything. A fortuitous epiphany in the middle of a tier will have more impact than numbers can reflect. Thank you for trusting me with this news. I remember when I broke through to intermediate myself, back on Glastia’s walls. I felt I could hold the world in my palm. I wish I had someone to share that moment with me.”
+
+He smiled ruefully.
+
+“It only took me twenty years to achieve that result and you managed it in less than two but I am very secure in my own talent. This is nothing.”
+
+“Hey, hey, watch this!” Viv said, beyond excited.
+
+She took a step forward and dropped in her own shadow before reappearing by the door, a burst of darkness-infused mana left behind.
+
+“That, however, is utter horseshit.”
+
+***
+
+It was not the government that stopped the lower city carnage, nor time, nor even a cool breeze coming from the south carrying with it dust and the promise of rain. It was Helock’s worst enemy.
+
+Halluria, it was said, had stirred. Roving bands had breached the Baranese borders and conducted raids on frontier villages. Garrisons had repelled the worst of them in mutual bloodbaths, as had been the case this past century with Baran at the apex of its power. Nevertheless, Halluria was vast and its reserves of bloodthirsty, ambitious marauders virtually endless. The tide would come sooner or later. Whispers traveled from city to city, speaking of a great host raised in defense of civilization. There would be levies and taxes and dead sons but for now, the sky was still blue and the fields were ripe. Food shipments crossed the gates from many directions. Thousands of mouths would not need them because they were frozen rictuses smiling at the moon from atop corpse carts and funerary pyres. All would be well. The people licked their wounds and returned to work. A month of retaliatory murders followed but, all in all, people were sated. Life returned to normal.
+
+***
+
+Viv stared at the face of General Jar Jaratalassi, the weirdly named, dogmatic professor of magic military doctrine. The scarred man sustained her polite glare with his usual stoney demeanor, the two of them dancing a strange dance that had kept the other students betting, guessing. He, who disregarded instinctive casters and their unreliability from the bottom of his soul. She, who thought Nyil would fuck Harrak over unless she innovated. He, whose honor prevented him from flunking her. She, who religiously gave him the answer she knew he wanted. He, who could tell she was full of it and would try bullshitting her way through any military encounter with outlander knowledge. She, who knew he knew and asked tangential questions on which specific unusual tactics had worked, where, and when. He, whose unyielding principles forced him to answer in detail. They had never stopped testing each other’s limits and now the man was handing her a sheaf of densely written papers with complex diagrams showing troop movements. It was her magnum opus of asslicking orthodoxy. It was a monument to traditional Paramese warfare. It was an analysis of a Baranese defeat against a powerful Hallurian incursion, offering an alternative strategy that could have avoided the disaster.
+
+Said strategy was shamelessly based on Jaratalassi’s own performance at the exact same spot twenty years later.
+
+It was the most dishonest academic work Viv had ever submitted, however, it was also the most researched. Nothing had been left to chance. Every option had been explored. Viv’s work was so absolutely fucking airtight she could defend it in front of a jury and was already considering how to include it in the Harrakan doctrine which, as of now, didn’t exist outside of her mind.
+
+On the first page, a red, shiny stamp had been applied. It said ‘approved’. There was a cute little star added, a sober expression of the man’s regard for the presented work.
+
+Viv grabbed the sheaf but the general didn’t let go. They stayed like that, frozen for a moment. When General Jaratalassi finally spoke, his voice was unusually kind
+
+“Congratulations on being the first witch to ever graduate from my class, Miss ‘Saint-Lys’. I applaud your performance and hope I will be seeing you next semester.”
+
+Viv felt touched that the man had taken the time to learn more about her profile, or at least, the official one.
+
+The truth was that Saint-Lys should never have been her name. It had been selected by one of her paternal ancestors because it was rare and sounded posh, a good asset for a family of scammers, liars, and conmen. Her real one had been lost to history. By paying his respects, Jaratalassi had unwittingly stabbed the bitter blade of guilt deep into her breast. She was a bullshitter with a veneer of respectability, a ruthless shiv goon hidden behind a pearly mask.
+
+But that was fine.
+
+Fake it till you make it.
+
+“It will be my pleasure, sir, looking forward to the practicals,” she replied, truthfully.
+
+“Out of curiosity, are there strategies that resemble the one I followed at the battle of Kariss’ pass in your world?”
+
+Viv hesitated, but only for a moment.
+
+“There is. We call it ‘deep defense’ or ‘elastic defense’ and it has worked very well in a few decisive battles.”
+
+“So you already had a basic knowledge of tactics. Hmm. I admit to being curious. Do not disappoint me now.”
+
+“Oh, I promise I will do my best.”
+
+The two exchanged a last pleasant smile. Viv gave it a chance in three they would end up at the opposite ends of a battlefield at some point in the distant future.
+
+***
+
+“Your essay was interesting,” Viv’s etiquette teacher said. “Your idea to maximize general happiness certainly has potential, although the basis that something may be intrinsically good or bad is… disputable.”
+
+Viv shrugged. Utilitarianism was an old theory, one with its limits, yet one she had studied in school. It at least considered the greater good as desirable. Compared to the average Paramese, she was downright progressive. The teacher seemed to appreciate that. The Academy valued the spread of knowledge and trained capable mages regardless of their origins. Deep inside, they wanted to make the world a better place for mankind. They were just not brazen enough to say it.
+
+“However,” the teacher continued, and there was always a but, “I have a problem with your applied etiquette methods.”
+
+She sat back into her chair, interlacing her fingers. Viv remained seated on her side of the desk, waiting. The exam was over. She was certain she had passed, although she was well below average. It didn’t matter much to her.
+
+“Etiquette,” the prim woman said, “etiquette is codified respect. I have already mentioned it at the start of the class. The purpose of standardized curtises, bows, handshakes, baisemains, and all that pomp is to show respect. Only through etiquette can people of vastly different origin and social background mix without anyone taking offense. Wars have started over a misunderstanding, a perceived slight so great it could not be ignored. It has happened. It will happen again without etiquette. And the core of etiquette is respect. If you do not convey respect, if you do not mean that respect, no amount of perfectly angled head tilts will matter. Viviane, you ooze defiance.”
+
+The witch shrugged. That wasn’t news to her.
+
+“And here it is again. Deep inside, you don’t feel the need to express respect. I will give you a passing grade because our strict, Academy-defined rating criteria say I should but you will get a fail in the practical part and I will bar you from taking any diplomatic classes unless you fix that attitude. We work towards harmony here. My faculty has no room for hellions.”
+
+Viv nodded and waited. The teacher smoldered in her seat like an old ember, which probably meant she expected an answer. Viv licked her lips and considered her words before leaning forward.
+
+“Don’t take this the wrong way but… do you know who I am?”
+
+That got her a raised brow and a bit more than a smoldering, but Viv didn’t let the woman ignite her temper with righteous fury quite yet. She had a point to make.
+
+“I am currently the elected and permanent head of a freshly independent city, plus a few villages now, huddling at the edge of the deadlands. I represent those people to those who know about our situation. For all intents and purposes, I am the leader of a sovereign nation.”
+
+“There are military bases in Baran that are larger than your entire domain.”
+
+“And there are cities in my world with more people than the entire continent of Param. It changes nothing. I lead a group of people. Those people united against foreign aggression. We have fought, bled, and died so we would be free, and I carry those wishes and the burden of all this sacrifice even today. As their representative, any act of submission I perform is one Harrak performs. That is why, dear professor, I have played along with classes, I have learned the motions, but in real life, I bow to no one. I am Harrak, and Harrak has no masters.”
+
+The teacher gave her a considering look.
+
+“Will you bow to Elunath?”
+
+“He and I have a contractual obligation. I will not sell out my adopted people to save my life. I will remove myself from the throne for the duration of my service if he saves me. In the meanwhile, I stand by what I said.”
+
+The older woman conceded.
+
+“I believe you. Nevertheless, I cannot accept you in my diplomatic classes if you cannot act as an envoy. For your own personal development, I would consider getting a private tutor on sovereign to sovereign rites. It might be useful if you do intend to keep your small city-state thriving and independent.”
+
+“Oh, don’t worry. I know someone who is an expert at contact with other cultures. He is quite experienced.”
+
+***
+
+//I am not sure the timing is wise, Your Grace.
+
+//I am currently searching for agents capable of participating in the expedition.
+
+//However, I have yet to find a free agent capable of facing a necrarch.
+
+“We already have one,” Viv said, grabbing a pin and leaning over the massive map in the Five Fishes basement. She shoved a few of them over the river Shal heading west, then south from the Enorian northern capital of Losserec-on-the-Lake. It stopped short of the deadlands.
+
+“Sidjin has taken over Sterek’s contract. He will establish a network of teleportation gates two thirds of the way to Harrak and according to his contract, he can let anyone he chooses activate them so long as they are individuals. We will use the semester break to travel back to Harrak and get the one man capable of downing a full-fledged necrarch.
+
+//Solar.
+
+“Exactly.”
+
+//Brilliant, Your Grace.
+
+//However, are you sure he will accept?
+
+“Yes, because I will offer him what he wants the most: his freedom from ruling Harrak. We both know he hates it.”
+
+//But who will replace him?
+
+“I will. You see, I can operate Sidjin’s gates. More importantly, I can make my own.”
+
+//Your Grace, this is tremendous news.
+
+//It means…
+
+“That I will finish the gate network and link Helock to Harrak. Secretly, of course.  I will be able to travel from one to the other in a single day. It will take massive amounts of mana and I will be exhausted afterwards, but the next semester has frequent weeks without classes dedicated to practicals. We’ll make it work. But that’s not important. What’s important is that between Sidjin, you, Solar, and I…”
+
+//We can take down a necrarch.
+
+//It will require preparation and specialized gear.
+
+//Leave it to me, Your Grace.
+
+//You have done very well.
+
+//Once more, my trust in you proves to be warranted.
+
+//I shall look forward to adding its head to my collection.
+
+“Solfis. Focus on the bigger picture.”
+
+//The largest collection Nyil has ever seen.
+
+Viv sighed and let it go. The golem was merely being facetious. She took the item he had prepared for her then left, not particularly pleased with her next destination.
+
+***
+
+“The minerals will save me some time, and there are a few rare ones in the lot. I will give you two years for the lot,” Elunath said. “I am rounding up.”
+
+He had not even looked at the crate. Viv had felt the formidable aura of the man merely extend until it covered the container, withdrawing shortly afterward.
+
+She opened her mouth to protest but the elemental archmage raised a hand to shut her up.
+
+“And five years for the gravitite stone of unknown origin.”
+
+Viv stopped and nodded. It was generous for what Solfis estimated would be ‘fair’. It rankled to know she was still basically paying for an option to buy, but it was still that or dying. Unless Solfis’ mysterious contact came though, which she was growing dubious of with every passing day.
+
+“Six years nine months for the assorted supplies required for the spell. Well done on getting them, by the way, but you are still missing the most important piece.”
+
+“The black mana core, I know.”
+
+“See that you do not forget. I must be told in advance if you give up on finding one yourself. They do not grow on trees. If I am too late to acquire one…”
+
+“I will die. I know.”
+
+“It would be a shame to lose such a promising partner.”
+
+The archmage lifted a nasty assassin dagger between two fingers. It was so dark it appeared woven from the night itself.
+
+“Three days,” the man said.
+
+Viv grumbled and grabbed it back. Maybe Irao would find a use for it.
+
+“Thirteen years, nine months in total. Your current time of servitude stands at eighty years and three months. Was there anything else?”
+
+“No.”
+
+“No, sir. You will have to show deference when under my service so you might as well get used to it now. Before you see yourself out, there was one last question I had for you.”
+
+“Yes?” Viv asked with circumspection. It was the first time the archmage had shown any interest in her.
+
+“There are rumors of an anomaly roaming the bowels of the city, a bone construct of great power. You would not know anything about that, would you?”
+
+“I know a little,” she answered noncommittally. The archmage would detect a plain lie.
+
+“I would wave thirty years for a chance to examine its casing, if you can find a way. Don’t go after it yourself. It has proven to be quite lethal.”
+
+“I’ll take that under advisement,” Viv replied, “was there anything else?”
+
+“No. You may go. “
+
+Viv locked the door behind her. Elunath could do it with an effort of will, yet he insisted on people doing it and doing it quietly as well. The man was compeltely anal when it came to manners.
+
+At least, now she knew who had sent those bounty hunters after Solfis.
+
+She wondered if Elunath would hunt by himself. Doubtful for one who seemed to care about their own well-being so much, but a girl could hope.
+
+***
+
+The morning was cold and windy for the first time this year. A gale from the sea carried droplets and the faint smell of iodine. The change of season was coming.
+
+Just like a few other classes, dueling would finish early to allow students to focus on their most important discipline, namely the classes dealing with their chosen colors. The older classes would mix and match but the first years had their own category on account of their fights being uninteresting. In normal times anyway. This year, Professor Dirge had made an exception and chosen to display the final as an introduction to other matches. The contestants were, without surprise, Viv and Rakan.
+
+“I feel strangely nervous,” the young Hallurian said, scratching his head. He had decided to let the thick black strands grow. Some of his kin kept the whole hairstyle complete with dreads and accessories while others shaved it off entirely, depending on how they felt about their cultural heritage. Rakan was exploring his options, which was good.
+
+“There’s just a lot of experienced people here,” he sighed.
+
+The rafters were filled with young mages and a few witches, many of them decked in heavy protective gear. The first day would be relaxed but as duels continued, the more serious contenders would move up. That wouldn’t concern Viv, however. She and Rakan were out no matter what. Despite controlled auras, mana seemed to dance, ebb and flow around the casters, painting an ever-changing riot of colors in her sights. The usual arena had been reinforced for the occasion with a few additional staff members and a medic on standby as well.
+
+The two contenders walked to the arena when asked, then after a few short introductions they were left facing each other.
+
+“You may begin,” Dirge said.
+
+Spells exploded over the arena.
+
+Viv raised two eldritch walls of the path of fireball, detonating it early while a downward burst saturated the area with black mana. Colorless javelins harried Rakan as she walked to the side, keeping her eyes on him. Her projectiles smashed against quickly alternating shields, then a massive burst of gray emerged from him and Viv knew her lungs would no longer draw oxygen. She released a burst of black mana in the air and disrupted the spell, the rest of which he had to drop when her bolts finally pierced his shield. He had another up before the following sound attack could make him throw up.
+
+They exchanged more attacks with Rakan getting progressively overwhelmed. Viv’s increased mastery meant that she could weave and direct mana with a speed and grace even the gifted Rakan couldn’t hope to compete with, at least not yet. In desperation, he poured a vast portion of his remaining mana into a spell that looked suspiciously like one of Varska’s main lines. Viv had not seen him practice it before, and she suspected Ereska might have given the little twerp some advice. Pointy shards emerged from the ground behind him.
+
+“Ballista.”
+
+The hail of stone spears rose, then fell, but Viv was ready.
+
+“Net.”
+
+Black tendrils emerged from before her, slicing the projectiles into fun-sized bits. She grabbed most of those directly in front of her with an overcharged telekinesis spell and returned it to its sender. Rakan shielded his face with his arms as reflex but his stone shield held. Viv could tell he was on his last leg though.
+
+“Blight.”
+
+The darkness-infused cloud of nothingness expanded over the arena on Viv’s half. Rakan put all he had left into a front shield of various colors. He jumped in fright when Viv tapped on his shoulder.
+
+“AH! Shit.”
+
+She held an excalibur in one hand.
+
+“Victory is yours,” he allowed.
+
+Silence followed the short if intense display of battle prowess, then the spectators roared their approval. Feet and hands drummed on the wooden benches as was tradition across the continent. Words and comments surged across the crowd in quick succession. Rakan shook Viv’s hand then the pair stepped down the arena, receiving a symbolic ribbon from a smiling Professor Dirge. It wasn’t much but she appreciated the thought. The pair walked back to their rafters to drink some smuggled tea, watching the next duel with interest. That interest waned very quickly.
+
+“It’s going to be amateurs for the next few hours, or at least very one-sided fights,” Viv said.
+
+“I know how bloodsport works, Viv,” Rakan told her with a smile. “That said, impressive performance. You didn’t even have to use that stupidly strong ability of yours.”
+
+“The instant teleport?”
+
+“That. You just negated the skill edge for the entire assassination path.”
+
+Viv frowned.
+
+“Skill edge?”
+
+Rakan rolled his eyes.
+
+“Ugh you are so good at some things I forget you can be entirely clueless with the basics. Skill edge, it’s, errr, a concept in the study of path, the interface and Nous’ legacy. I took it as an elective. How to explain. You know different paths have different specific skills right? Like heavy infantry have shield walls, archers have fast shots and cavalry have grouped charges?”
+
+“I didn’t know that. I was informed asking was rude.”
+
+“It is but those skills have been documented throughout the centuries. You know heavy infantry walking in a line with shields will have a shield wall, that’s their entire reason for existing.”
+
+“That makes sense.”
+
+“And within the confines of those skills, even a low attunement individual will accomplish feats they do not understand with some impressive mana efficiency ratio. In a sense, skills are a way for non-casters to specialize in very specific tasks they will excel at. The interface guides someone into achieving through effort and repetition what they could never do through understanding, whether that understanding comes from their intellect or their instincts. Our skills are mana sight and mana manipulation, or enchantment. Other paths will have ‘thrust’ or ‘rune inscribing’, skills with a much lesser scope but a greater focus. We are more flexible but it comes at a cost. However, you know why we are still more powerful in the end.”
+
+“With time and effort, all becomes possible.”
+
+“Almost. We also have more time, usually. Willpower and endurance are associated with longevity. Endurance makes the body resistant to the ravages of time while willpower negates the reality of its effect. You are looking at the mirror and say no, I look younger than this, and then to an extent, it works. Anyway, sorry, I could talk about this for hours. The point is, mages who survive have time to practice until they become so good at something, it is as if they had the skill for it.”
+
+“And the instant teleportation is like that.”
+
+“Yes. An assassin path staple, the shadow step or blink or whatever fancy name you call it allows them to close the distance then escape with their lives. And you have reproduced it with a spell. Perhaps you do not realize it yet but this is an extremely powerful advantage. I wish I had a high black affinity now, just so I could steal it from you.”
+
+“Just find a way with colorless mana!”
+
+“Sure just after turning Halluria into a fertile land of goodwill and abundance and also after I have eaten freshly cut permonn slices off the tits of Warlord Uton’s favorite concubine. Nothing insurmountable. Alright, now that I have buttered you up nicely, I wanted to ask when you intended to recruit me and if I could bring my sister?”
+
+“Hmmm.”
+
+That was rather abrupt.
+
+“Now if you want,” Viv said.
+
+“What are your terms? You know I owe you my sister’s life. I would still appreciate it if…”
+
+“We don’t do forced labor anymore in Harrak. I specifically requested it.”
+
+“... and people listened?”
+
+“Yes, on account of me being the boss. I would have used more convincing arguments if I had to. Fortunately, Solfis listens to me and they know what he’ll do if I give him the go ahead.”
+
+“What will he do?”
+
+“Have fun.”
+
+“Alright, enough about the monster.”
+
+“Yes, my bad, you want a firm answer and I am wasting time. I can pay you to be the resident head mage. Most likely we will have mage candidates if not now then soon, statistically. They will need to be trained. There are enchantments in the walls, hunts to be done, beastlings tides to shred through. Research on imperial stuff. So many things, so little time. I can pay you, of course, and we always take on hunters.”
+
+“Yes. I would love that. Especially teaching, I think I would enjoy teaching very much. Yes, that would be fine. I ask for standard pay for a mage of my rank according to Helockian standards. Unless you’re broke.”
+
+“That might happen.”
+
+“That’s fine then, we’re in this together. Do we need a ceremony? Do you have to place your hand on my head and everything?”
+
+“We’ll make it official when I return. We are friends, Rakan, we’ll stay friends. I’m not the bossy kind. We work as a team or not at all. And I’m not putting my hand on your head because you are sweaty.”

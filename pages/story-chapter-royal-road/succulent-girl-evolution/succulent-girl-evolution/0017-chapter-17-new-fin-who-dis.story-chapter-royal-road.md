@@ -1,0 +1,131 @@
+---
+id: 53a83828-a629-5842-9530-635a6e0dca05
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: New Fin, Who Dis?"
+slug: 0017-chapter-17-new-fin-who-dis
+partOf: succulent-girl-evolution
+position: 17
+ownLength: 2104
+unit: words
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2568349/chapter-17-new-fin-who-dis"
+royalRoadId: "2568349"
+---
+
+Silence reigned in the Duke’s chambers, punctuated only by the occasional pop from the fire.
+
+“Please repeat what you just said.” Grede’s voice was mild, but the inspector in front of him still shifted uncomfortably.
+
+“Your Grace, the squad did capture the target, but it escaped—”
+
+“So the squad did not capture the target,” Grede interrupted flatly.
+
+“Yes, Your Grace,” the inspector said, after a pause. Grede noticed a muscle tick in the younger man’s jaw, clearly upset at being forced to admit to a failure. Good.
+
+Grede tapped his desk thoughtfully, thinking. He was disappointed, of course; he had spent far more time than he had originally budgeted for wading through the bureaucracy that plagued the Committee of Environmental Stewardship. But he would be lying to himself if he didn’t admit that his curiosity about the creature hadn’t piqued even more based on the update.
+
+However, he couldn’t let his true thoughts show through. As long as the CES was under the impression that he was displeased, that would only benefit him.
+
+“So, what is the Committee planning next?” Grede finally asked, keeping his question appropriately bland. The inspector cleared his throat, trying to regain his bearings.
+
+“W-Well, I’ll be meeting with the Committee leaders first thing tomorrow for a debrief and to discuss next steps.”
+
+The Duke blinked slowly at the inspector, letting a hint of exasperation show. The young man did an impressive job at remaining impassive, though the knot in his jaw throbbed harder.
+
+“I see. And, pray tell, what is currently running through your mind? What course of action will you propose?”
+
+“Your Grace, it’s—difficult to say what the appropriate course of action should be. I assure you, I will let you know as soon as a decision is made tomorrow,” the inspector said swiftly, his eyes clearly showing his alarm. Grede knew that look: the inspector had likely been expecting a quick, albeit embarrassing report. All he had to do was “take responsibility” for the failure of his team by admitting the undesirable result to their stakeholder, and then he could slink away with his tail between his legs, leaving the problem to others the next day. He likely expected the Duke to be an extremely busy man, the type to ignore problems as long as the quota for nice-sounding phrases was met.
+
+Well, Grede didn’t get to his position of Duke by letting things run their natural course.
+
+“So what are you saying?” Grede asked, letting himself frown now. “Do you expect me to just pause my operations for an undefined period of time? Due to your agency’s… incompetence?”
+
+The inspector flushed, and he struggled to keep his composure. “Your Grace, I…”
+
+Grede chortled internally at the expression on the young man’s face. He didn’t make it a habit to press on those far below him, but the past month of work going to waste really was quite infuriating. And now that he had made his displeasure very well-known, he should be able to pressure the inspector into presenting a solution more favorable to him.
+
+Namely, he was excited to begin mining the Remraf land as soon as possible, and if he could get the CES to continue hunting the creature on the side, that would be killing two birds with one stone.
+
+He exhaled dramatically, pinching the bridge of his nose for effect. “I’m sorry for my bad mood, son. It’s been a long day, and I was hoping for good news to end the night.”
+
+Grede paused, as if he was thinking—but really he was letting the inspector absorb his words. Hopefully the young man would figure out what direction he had to go in.
+
+He stood up from his desk and went to his liquor cabinet, pouring two glasses of whiskey. Sipping from one, he handed the other to the inspector, who accepted the glass blankly.
+
+The amber liquid flowed smoothly down his throat, doing a great deal to soothe his temper without dulling his mind. He sighed in appreciation, cueing his guest to sip from his own drink. “I needed this after the day I’ve had.”
+
+Grede led the queasy young man over and politely gestured to him to sit in the comfortable chairs in front of his fireplace, politely ignoring his guest’s struggle to contain the cough from the strong liquor while replacing it with an appropriately appreciative expression for the drink. Smiling warmly at him once the man’s smile firmed up, the Duke adopted the friendly persona he used for doing business with.
+
+“Let’s start over; I didn’t mean to take out my temper on you, and as I said before, I just want to help…”
+
+~ ~ ~ ~ ~
+
+Bubbles and Link traveled together for the next couple days, heading further and further into the wilderness. The deeper they went, the greater the incline, until there was no doubt they were climbing a mountain.
+
+Even though Bubbles was the one who suggested they travel together, she had still been apprehensive about traveling with a former enemy. However, Link proved a valuable ally. He was a proficient hunter, coming back with animal carcasses for steady meals every night while Bubbles rested.
+
+Thanks to his hunting prowess, Fern had taken a liking to him, far more than she had for the magpies. After Bubbles explained that she depended on Fern for the bulk of her energy, Link had obligingly fed the scraps of his meals into Fern’s ravenous well.
+
+“That is an impressive ability,” he remarked to her one night. “You have recovered all of your foliage from our fight, and grew significantly during that time as well.”
+
+“You should have seen Fern at her prime,” Bubbles agreed wistfully. “If she had been allowed to grow unfettered, I’m sure she would have become a world tree.”
+
+“Impressive.”
+
+Link wasn’t only good for keeping Bubbles fed. His predatory aura was so strong that their travels were quite literally walks in the woods; nothing bothered the two of them, even though she was aware of all the curious, glowing eyes staring at her during the nights.
+
+That wasn’t to say that Bubbles was a useless travel partner, either. Even though she couldn’t run as fast as Link, her presence still proved beneficial to the wolf: Fern cleared his body of fleas within the first day, and kept him free of parasites.
+
+As a result, the two of them reached a comfortable level of companionship, wandering through the forest with no direct aim.
+
+Bubbles quite enjoyed the trek. She had been fearful at first to even consider departing the garden, but having so many companions with her, reminding her she wasn’t alone, and even bringing a bit of her home with her, made it easier to brave the unknown. She tried not to think about what was happening in the garden much; the magpies had gone to great lengths to rush her out. She trusted their judgment.
+
+In fact, she was glad she was forced to leave home. The wilderness was wild, with so many different plant types growing as they pleased, wrapping around each other instead of on neat trellises, hosting so many different types of animals and bugs that didn’t exist in the garden. Bubbles couldn’t help but wonder what it would have been like if she had grown up in this kind of environment instead.
+
+It was on the third day of wandering that Rock indicated for Bubbles to begin following a stream. Shrugging, they climbed the rocks further upstream, ending at a large, peaceful pond fed by a tall, yet gentle waterfall. What was most striking about this pond was the undeniable ethereal beauty of the foliage surrounding the pond: hanging off of tree branches, framing the waterfall, were long clusters of tiny flowers, all in varying shades of blue and purple, pink and white.
+
+“This place is pretty,” Bubbles commented aloud. She dipped a root experimentally into the crisp water, shuddering at the refreshing coolness. “Ooo, I feel like I can stay here forever.”
+
+“Until your roots rot, I presume. Your core plant type seems like it does not need too much water,” Link replied, his deadpan response making Bubbles embarrassed. However, before she could reply Rock interrupted.
+
+[A magical creature is approaching!] Rock announced, excited. [I knew it—the mana signature is quite distinct!]
+
+Does that mean one of your kind is here? Bubbles asked, perking up. She hopped onto a nearby boulder, trying to see where the creature was coming from while informing Link to watch for a magic creature. She and Rock agreed it would be best in the interim if Link didn’t know she was hosting a mana mineral, though the good thing about him was that he didn’t seem particularly interested in how she came to acquire such unique abilities.
+
+[Yes. It is critical we make contact with the patron of these woods. I have many revelations to share, as well as questions to ask.]
+
+“It appears to be an aquatic animal,” Link said, staring into the pond. Sure enough, a shadow appeared below the gentle waves before clarifying into a multicolored fish with graceful fins.
+
+The fish stayed a good distance away from the shore, clearly watching them. As Link remained seated and calm, giving no indication he would attack, Bubbles raised a root to wave.
+
+Reassured, the fish approached them before poking its head out of the water, revealing large, innocent eyes and elegant whiskers.
+
+“Hello… may I ask who you are and what you are doing here?” Miss Fish had a cute voice reminiscent of a babbling brook. Bubbles decided she liked her.
+
+“Hello! My name is Bubbles, and my traveling companion is Link,” Bubbles said, gesturing to the wolf sitting on the pond bank. “We came because we felt the presence of a magical monster. Is that you?”
+
+The fish hummed, tilting her head at Bubbles’s straightforward question. “Mmm. I don’t know if I would call myself a magical monster, but I suppose I have lived longer than most of my kind. I attribute my longevity to the excellent conditions of my pond. You are welcome to partake of the water, if you wish.”
+
+[The signature is especially strong in her, so she must be close to the mana mineral,] Rock declared. [Ask her to bring us to the source of magic.]
+
+Doubting things would be as easy as Rock imagined, Bubbles conveyed his request. As expected, Miss Fish did not respond favorably.
+
+“Forgive me, I am unable to do that. Now, I must ask you to please be on your way after you have refreshed yourself at my pond.” With a flick of her tail, Miss Fish swam away with a huffy splash, leaving Bubbles gaping after her.
+
+“That was a ruder response than I expected,” Bubbles said. She didn’t know why she was so upset by a stranger’s attitude; perhaps it was because she had already decided she wanted to be friends with the magic fish, and being rebuffed like that, with no opportunity to explain herself, was hurtful.
+
+“In her defense, a stranger showing up at your home and insisting you show them the source of your power is a rude request to make in the first place,” Link said stoically. He lowered his nose and sniffed the water cautiously before lapping at it. “Even if it is obvious they have it in the first place.”
+
+What now? Bubbles asked Rock snidely. Ever since he successfully Leeched the mana from the humans’ artifacts, he had been acting particularly full of himself. He was still a valuable source of information, but he was no longer the thoughtful conscience who helped guide her interactions with others with social savvy.
+
+[That was a bit of a heavy-handed attempt at seeing my relative,] Rock conceded. He pondered. [Perhaps we can get my relative’s attention if we were to inject some of my own mana into the water. I am certain that fish is his champion.]
+
+Following Rock’s instructions, Bubbles entered the pond, stopping when she felt her roots just about to leave the ground. Turning herself around (which was a bit difficult due to her buoyancy), Bubbles gave Link an apologetic look.
+
+“Do you mind leaving for a bit? I’m about to do something… a bit private.”
+
+Link stared at her with a distasteful look on his face but acquiesced, padding out into the bushes and giving her privacy.
+
+Waving her roots gracelessly through the water to turn herself back around so that she faced the direction Miss Fish had swum off to, Bubbles prepared herself.
+
+Okay! Let’s summon Miss Fish back.

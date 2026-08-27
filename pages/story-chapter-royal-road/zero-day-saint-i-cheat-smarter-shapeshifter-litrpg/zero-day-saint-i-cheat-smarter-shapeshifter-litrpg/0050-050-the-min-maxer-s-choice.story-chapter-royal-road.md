@@ -1,0 +1,195 @@
+---
+id: 82e8d124-7033-582c-a685-85c4a0ee0f91
+page-type-slug: story-chapter-royal-road
+title: "050 - The Min-Maxer's Choice"
+slug: 0050-050-the-min-maxer-s-choice
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 50
+ownLength: 1595
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3615515/050-the-min-maxers-choice"
+royalRoadId: "3615515"
+---
+
+"I have a lot to catch up on. But first, I'd like to hear your opinion. Gabriel, Lucy, if you would like to join us, I'd like to hear opinions. It'll be a bit crowded, but I'm sure we can make it work."
+
+I told Jamie about the Crown's reward. Meanwhile Gabriel manifested in the chair Jamie had occupied before and Lucy at the foot of the bed, still wearing that dress. Gabriel was back to that tunic I'd seen her in on our first meeting.
+
+"You do know we are on a boat and not in the club anymore, right?" Jamie asked.
+
+"I'll keep this for a while. It gets great reactions from people."
+
+"Suit yourself."
+
+"I vote, you do it," Lucy said. "It's all positives, you said you'd only become a catgirl if it came with great stats and this is the definitive great stat giver." They paused for a theatrical moment. "Don't you worry, we'd still love you, even if you were a wyrm."
+
+I buried my face in my hands. "How long have you been sitting on that one?"
+
+"The very second you got that choice. I am nothing if not patient."
+
+"Gabriel, I have some questions. Dragons aren't demons, right? This is not making me into something directly from hell. Just borrowing the same aesthetic Mammon borrowed?"
+
+"Yes, that is correct."
+
+"Will it change the way my mind works? Shapes do that. I don't think I want draconic instincts to be my baseline."
+
+"It will not. At least I am fairly certain. You will stay you."
+
+"Will my human shape feel as weird as other shapes? Slightly wrong?"
+
+Lucy cut Gabriel off before she could reply. "As if you were ever comfortable in that shape."
+
+Gabriel went on answering. "It shouldn't. I can't predict the psychological effects it will have on you, but besides the facts that it'll be a lot more powerful and that it comes with a price tag, it should feel the same."
+
+"Jamie, what do you think?"
+
+"Honestly, I think you've made up your mind by now. It's not demonic, it doesn't make you evil, and Eve as we know her is still around. Sure, you are giving up the fact that your character sheet says 'human' on it, but to be honest? None of us are exactly human anymore. We can all do things that are completely beyond anything humans before the Blessing could do. Now you get to wear scales if you want to."
+
+"You are already comfortable with becoming different. Your heart and soul will stay human," Gabriel said. "But only accept if you believe me. If you understand that this isn't giving up on your humanity. Only on your DNA."
+
+"You want me to pick it, do you?" I asked.
+
+She smiled. "It's the min-maxer's choice."
+
+"The only fact that worries me is that all three of you think this is okay. I'm not used to not getting pushback."
+
+"Here is something to worry about, kitten: What if you end up looking like just a tall kobold. Can you deal with being adorable?"
+
+I clicked accept, finally freeing my vision of that choice. I felt the change rippling through my body. My biggest regret was that I hadn't gotten in front of a mirror first. A new shape appeared in my shapeshifting menu, atop all others. It said 'Human'.
+
+I took one look at the black, clawed hand and the thin golden lines running across it, before I selected that human shape. I had to know it still felt like me.
+
+Lucy immediately began to complain, but shut up when I pulled the blanket to the side.
+
+The shape still felt distinctly like me. But it was a humanoid shape. And it came with an outfit. And it sure as hell wasn't my apocalypse uniform. So far I had survived wearing sweat pants and hoodies. This outfit was not that.
+
+I was wearing a fitted black coat, something between streetwear and uniform. Around the shoulders sat a mantle of layered dark feathers, crow's feathers. Dark gold seams traced through the fabric in the same places the glow had run through my scales.
+
+I pulled my legs out from under Lucy and the blanket. It came with boots, too. Thigh-high, black and gold.
+
+Whoever the Blessing thought Eve was. The Blessing thought Eve was stylish as fuck.
+
+"I am no longer team suit. I am team whatever-this-is," Lucy said.
+
+"I'm with the devil on that one," Jamie said.
+
+I swung out of the bed, careful not to kick Jamie as I stood up. I kept checking out the outfit. The coat flared enough to leave me room to move. In the back, it was parted. As if to make room for a tail?
+
+I waited out the remaining seconds on my shapeshifting cooldown and canceled out of the human shape. The outfit stayed, and adjusted itself. Half-Dragon Eve was a bit taller than Human-Eve was. It fit both like it was made for them.
+
+"Hold up. This is cheating. Why does it stay? The other outfits didn't stay."
+
+"If I were to venture a guess," Gabriel said, "because you aren't going to find clothes that fit this shape. As you have noticed, the Blessing isn't concerned with humiliating shapes with nudity."
+
+"That… sounds a bit far-fetched."
+
+"Hey, Eve?" Lucy said.
+
+"Yes?"
+
+"Take the fucking freebie."
+
+I shut up and sat down, my tail swishing around my feet.
+
+"You know," Jamie said, "I've been talking to some more Blessed those last days. And when you came up, people seemed to have gotten the wrong impression. They didn't know the cereal-eating girl in the completely blood-soaked sweat pants. But you are starting to fit your story."
+
+"Huh. I'm not sure if that's a good thing."
+
+"It's a good story. Also we got some more of your cereal. But mostly oat milk."
+
+"Hell yeah. I fucking love oat milk."
+
+I leaned back onto the bed. "But first, I will now process rewards, thank you all for your advice. Feel free to leave."
+
+"And miss the subclass?" Jamie asked.
+
+I blinked. "Goddamn. I forgot. This isn't over."
+
+"Go and process. I want to hear what you get," he said.
+
+"Do as the unusually pushy paladin says," Lucy said.
+
+I quickly went through the Task Completions. There were three significant ones.
+
+[Deal catastrophic overkill to a Dangerous Foe
+
+Reward: Living Calamity (Trait upgrade - Certified Threat)
+
+-
+
+Living Calamity (Trait)
+
+Effect: +2 to all base Attributes
+
+-
+
+Get afflicted with and survive a Death Curse
+
+Reward: Elixir of Regret]
+
+I never clicked Accept as fast before. I pulled out the Elixir. It came in a slim phial. It looked like quicksilver, but when I squinted it seemed like I could see reflections of past events.
+
+"What is that?" Jamie asked.
+
+"Either the coolest thing ever or a massive disappointment." I turned to Gabriel. "Can I still reject what it gives me?"
+
+I held the phial out so Jamie could examine it.
+
+"Wouldn't be called Elixir of Regret then, would it?" Gabriel answered.
+
+I narrowed my eyes. "Yes, it would. Because it is about fixing regrets, given to me for a regretful oversight, not about creating more regret."
+
+"The Blessing disagrees."
+
+I groaned. I couldn't even remember all the perk choices I had not taken. Most didn't come with a big downside for taking them, did they? It didn't matter. I wasn't not going to drink this. There were two choices I very much wanted.
+
+I opened the phial and drank it. There was no notification. I went through my menus. Right there under abilities, there was a new entry. Embodiment. It was grayed out. I was in my default shape. There was no mastering this one. But my human shape was now an innate shape that I could master. That was weird.
+
+I noticed that three pairs of eyes were impatiently staring at me.
+
+"So?" Jamie asked.
+
+"I got one of the two I wanted. I can give up some experience to master a shape. That way I can make any permanent."
+
+"That rules?"
+
+"It does."
+
+I read back over the descriptions for both Exemplar Leader and Embodiment. The one said it converted all experience into mastery, the other said it prevented experience. I took a note to test if activating Embodiment first and Exemplar Leader second would allow me to circumvent the downside. It was an edge case and unlikely to work, but worth testing.
+
+And then there was the final reward.
+
+[You have slain a demon embodying a capital Sin
+
+Reward: Saint's Rebuke (Trait)]
+
+I crossed my arms.
+
+"What now?" Jamie asked.
+
+Lucy was already laughing. Even Gabriel couldn't help but smile.
+
+"This one should be yours," I said. "All the holier-than-thou stuff is for you. Or Constance. I have this whole corruption, devil, crow thing going on, and suddenly the Blessing is giving me a trait called 'Saint's Rebuke'? That's just not okay. It ruins my whole vibe."
+
+"Gives those golden lines a whole new meaning, does it?" Lucy said.
+
+"Screw that." I still clicked accept.
+
+"You owe me, Gabriel. She totally never noticed," Lucy said.
+
+"Your title, Eve," Gabriel said. "Lucy said you'd go through all your rewards without noticing. I thought this time you would."
+
+Again, right under my class. Another title.
+
+[Sin-Slayer]
+
+I checked out the trait.
+
+[Saint's Rebuke (Trait)
+
+Effect: You more easily perceive sin-aligned corruption and gain increased effectiveness against sin-aspected foes, powers, and profane manifestations.
+
+You are resistant to influences rooted in Sins you have slain.
+
+Slain Sins: Greed.]

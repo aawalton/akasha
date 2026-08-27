@@ -1,0 +1,165 @@
+---
+id: f71cbd62-ffcd-5039-ab64-d9330bb25c9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: Bread Baking (Part 1)"
+slug: 0022-chapter-20-bread-baking-part-1
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 22
+ownLength: 2600
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3516440/chapter-20-bread-baking-part-1"
+royalRoadId: "3516440"
+---
+
+Molly stood before the bakery, her crimson eyes stretching wide as she took in the structure that rose before her like a great hall from the old tales. Smoke curled from the chimney in soft, drifting ribbons, pale grey against the morning sky, twisting upward until it dissolved into nothing. The building itself seemed to breathe, a low thrum seeping through its stone walls and vibrating faintly beneath the soles of her feet.
+
+"Surprised?" Lilly's voice reached her from beside.
+
+Molly turned, her hair swaying with the movement. Lilly watched her with a bright, knowing curve resting on her lips, her ponytail bobbing gently as she tilted her head.
+
+Molly nodded, a rapid bounce of her chin.
+
+~ I've never seen a building as big as this, neither did I imagine Eoma's main bakery would be this massive.
+
+Lilly's round face held the cheerfulness of a young child as she nodded back. "It's expected," she said, turning her gaze toward the building once more, an amused expression settling upon her features. "Would you believe this building was raised almost five centuries ago?"
+
+Molly's eyes expanded, her jaw slackening a fraction.
+
+~ Five centuries?
+
+Lilly nodded again, a small chuckle escaping her throat. "Yes. Five centuries." She extended her hand in a gentle sweep, motioning for Molly to walk alongside her toward the entrance. Molly gave a short nod and fell into step beside her, her robe brushing against her ankles as she moved.
+
+As they approached, the humming rhythm of milling machines grew steadily louder, a low thrum that climbed through the ground and buzzed against their soles. "This main building was built by Fire, a great figure who once ruled over Sigsug, and who was the primary force behind the further development of this city." Lilly's voice carried a note of reverence as her eyes traced the interiors of the bakery's main hall, visible now through the wide entrance.
+
+She swept her hand in a graceful arc, and Molly's gaze followed the line of her gesture until it landed at the center of the hall, where a statue stood embedded in the stone floor. It was a sculpture of a young man, carved with such precision that every strand of hair and fold of clothing seemed frozen mid-motion. His face held a resemblance to someone Molly had seen before, though not in the flesh, but rather in an image, someone Jen had woven stories about during quiet evenings.
+
+Lilly's voice confirmed Molly's silent speculation.
+
+"Jack Eoma. One of the great rulers of Sigsug, and the younger brother of Changing Ice, the strongest of the centuries."
+
+Molly's expression warmed as she stared at the statue of Jack. She studied the vivid, picture-perfect carving that mirrored exactly what she had imagined Jen's brother would look like, the same proud set of his shoulders, the same gentle determination etched into his stone features.
+
+"The bakery is this way." Lilly's voice pulled her back.
+
+Molly glanced over to see Lilly pointing toward the right side of the hall. She nodded and pivoted alongside her as they approached an entrance marked with a sign that read, 'Production Zone,' the letters carved deep into the wood and painted in silvery gold.
+
+Lilly gestured behind them, toward the left side of the main hall. "That's where the wheat is milled and stored," she said, her hand lingering in the air for a moment before dropping back to her side.
+
+Molly nodded, her eyes flitting to the figures of people moving about the vast space. Bakers walked with purposeful strides, aprons fastened snug around their waists, their faces set with quiet concentration as they focused on their errands. Some carried sacks slung over their shoulders, while others pushed carts laden with ingredients, the wooden wheels clicking softly against the stone floor.
+
+"Ted." Lilly called out, her voice carrying clearly through the hum of activity. "Have the flours been mixed?"
+
+Molly's eyes darted to the person Lilly had addressed.
+
+Ted was a slender, tall young man who wore a cream-colored apron. A frown creased his brow as his deep shade of purple eyes shifted toward the voice that had summoned him. The moment he registered Lilly's face, a mask of realization washed the frown away, and he shook his head.
+
+"We're in the process of mixing the zahav flours with the stored-up Me-khutar flours," he said, dusting the pale powder off his apron with quick, practiced swipes of his hands before adding, "It'll be finished anytime soon." He turned and began hurrying away deeper into the passageway, his footsteps echoing against the walls.
+
+Molly turned to look at Lilly. The black orb that hovered beside her dissolved into tiny swirling particles and reformed to project her thoughts.
+
+~ Stored-up Me-khutar flour?
+
+Lilly nodded as she read the words floating in the air. "Yes," she said, her ponytail swaying. "Before the blight struck a year ago, Eoma's bakery had always been storing Me-khutar flours in mass." Her lips lifted at the corners. "So we were more fortunate than other bakeries when it fell upon the land."
+
+Molly's face lit up as everything clicked into place. If Eoma's bakery had been storing Me-khutar flours in bulk, and with one of its properties being its ability to last long even after being milled, that meant this bakery would not run dry of Me-khutar flour for a very long time. And to make things even better, Eoma's bakery had already begun blending other kinds of flours with their native flour.
+
+A frown soon settled on her features, pulling her brows together.
+
+The orb immediately dissolved and reformed, projecting her thoughts.
+
+~ Does the bakery mix the other two flours with Me-khutar?
+
+Lilly shook her head, the motion firm but gentle. "No. We don't use the remaining flours."
+
+Molly's frown deepened, a small crease forming between her brows.
+
+~ But why? Why only zahav flour?
+
+Lilly considered for a moment, her round face tilting upward as she gathered her thoughts. "You remember what I told you about the quality of flours?"
+
+The moment Molly heard that, her eyes widened in realization. She gave a subconscious nod, understanding dawning across her face like a slow sunrise spilling over the horizon. She turned to Lilly.
+
+~ The gold flour?
+
+Lilly nodded, a bright expression surfacing on her features. "Yes. And that's precisely why the bakery only uses zahav flour, since it shares similarities with Me-khutar, and it has a range of forty to sixty percent chance of producing gold flour from its grain."
+
+~ So the reason for blending both zahav and Me-khutar is to keep the constant achievement of gold flour while also reducing the quantity of Me-khutar flour used?
+
+"That's correct." Lilly beamed in approval, her cheeks rounding. "You have a good grasp on these things."
+
+Molly offered a polite smile in return, the corners of her lips curving gently upward.
+
+Their steps led them to the dressing room, a modest chamber lined with wooden benches and rows of hooks where aprons and toques hung in neat arrangements. Molly slipped off her dark purple robe, draping it carefully over one of the hooks, leaving only the light blue tunic beneath. The fabric was soft against her skin as she wrapped an apron around her body, tying the strings securely at her back. She settled a toque atop her head, the white fabric sitting snugly over her pale white hair.
+
+"It looks wonderful on you." Lilly's voice reached her.
+
+Molly turned to find Lilly already donning her own apron and toque, a bright curve resting on her lips as she observed Molly with warm eyes.
+
+Molly's expression mirrored Lilly's as she gave a short bow, her toque shifting slightly with the movement.
+
+~ Thank you very much.
+
+Lilly waved in a dismissive, cheerful manner, her hand fluttering through the air. "No problem," she said before stepping forward, her footsteps light against the floor. She reached out and helped Molly adjust her apron, her fingers working quickly to straighten the fabric around the shoulders. Once it was smoothed into place, she gestured outside the dressing room. "Let's get going—Ah, but first we'll wash our hands."
+
+Molly nodded and did exactly as instructed. When they were finished, Lilly and Molly exited the dressing room and walked through the passageway, their footsteps mingling with the distant hum of machinery. They passed other bakers who nodded in greeting, their faces flushed from the warmth of the ovens, until they reached the baking kitchen. With a calm motion, Lilly pushed the door open, and it swung inward with a soft groan of its hinges.
+
+Molly's expression brightened at the scene before her.
+
+Bakers moved with practiced ease, each absorbed in their assigned task, their bodies weaving around one another in a quiet dance of production. The scent of yeast and flour hung in the air like a quiet promise, rich and earthy and faintly sweet. Flour motes drifted in the streams of light pouring through the tall windows, swirling like tiny golden spirits caught in slow, lazy currents. Molly's eyes landed on Ted, who carried a large bowl of whitish-gold flour, its surface pale and smooth, a flour that Molly suspected to be the zahav and Me-khutar blend.
+
+Upon noticing Lilly, Ted inclined his head in a gesture for her to come closer, the bowl balanced steadily in his arms. "Let's begin, Lilly. This will be the twelfth batch for today," he said as he set the bowl down on the long table, the base of it meeting the surface with a solid, satisfying thud.
+
+"Alright." She replied, turning to Molly. "Let's get going."
+
+Molly gave a brief nod and walked alongside Lilly, her apron swaying gently with each step, until they reached the large table where the bowl had been placed.
+
+"What flavor are we making with this batch?" Ted asked, his eyes shifting between the two of them.
+
+Lilly thought for a moment, a crease appearing on her forehead as her brow furrowed. "We've already done the chocolate, strawberry, and banana. The blue grapes and the rest of the ingredients will be handled tomorrow." She paused, sinking into deeper contemplation, her fingers tapping once against her chin. The moment was interrupted when she noticed someone tugging at her clothes.
+
+Lilly turned to Molly, who had a small curve on her lips as the black orb that hovered beside her dissolved into tiny swirling particles, reforming to project her thoughts.
+
+~ What about honeyed milk flavor?
+
+Lilly's expression warmed, her round face brightening. Ted, who stood beside her, stared at the swirling particles with quiet fascination, his purple eyes tracking their movement, having never witnessed such a thing before.
+
+"The honeyed milk flavor was planned for tomorrow," Lilly said, hesitating for a heartbeat before adding, "But since you've mentioned it... I suppose we'll bake just that." She raised her hand and gave a thumbs up to Molly, her grin spreading wide.
+
+Molly giggled, the sound soft and bright.
+
+Lilly turned to Ted and offered a nod. He returned it with a short dip of his chin and strode away, his legs carrying him toward the storage area to retrieve some of the ingredients.
+
+Lilly turned back to Molly, gesturing gently with her hand, her fingers spread as if holding something delicate. "This is the moment you must pay full attention, because I'm going to be giving you some tasks. Alright?" Her voice remained as warm as freshly baked bread, soft and steady.
+
+Molly nodded with vigorous determination, her toque bobbing.
+
+Lilly raised a single finger, the gesture slow and deliberate. "First thing first. Bread isn't just food. It's patience you can hold. Every step has a soul, and if you rush, the soul escapes."
+
+Cheerful joy crinkled around Lilly's eyes, the skin at their corners folding gently. "Gather courage, baker Molly, and never forget, the dough can feel your mood." She concluded with a playful wink, one eye closing briefly while the other sparkled.
+
+Molly giggled again as Lilly's cheerfulness swelled, filling the space between them like sunlight.
+
+Ted returned soon after, and with him came other bakers who carried additional ingredients in their arms, cradling containers against their chests. The bakers behind Ted offered short greetings to Lilly, their voices polite and quick, before setting down the ingredients on the long table and excusing themselves. They slipped away to their own duties, their footsteps fading into the background hum of the kitchen.
+
+Molly watched as Lilly began gesturing at all the items arranged on the table, her hand moving from one container to the next. "This is the yeast," she said, motioning toward a clear plastic container, its contents a fine beige powder. She shifted her hand and indicated the remaining components.
+
+"This is the honey," she continued, tapping a jar filled with thick golden liquid that caught the light. "Milk," her fingers brushed a glass bottle, "salt," a small ceramic dish, "and..." Her voice trailed off as she lightly tapped a midsize bowl, the surface cool and smooth. "And this here is the eggs." She concluded before her face lit up as she recalled something. "Oh." She gestured to a small bucket set at the edge of the table. "And this here is the butter." She tilted the bucket for Molly to see, angling it toward her.
+
+A sweet, creamy scent drifted into Molly's nose when the bucket was brought near, rich and smooth and faintly warm.
+
+She gave a short nod after inspecting it, her crimson eyes taking in the pale yellow contents. Lilly arranged the butter back into position, setting the bucket down with care. "Well then." She clasped her hands together, the sound soft but decisive. "Let us begin."
+
+Lilly started by pouring a measured portion of yeast into the flour, the fine powder sifting through the air and settling atop the pale mound. "First, the spark. We use active dry yeast, a sleeping creature. A creature that we must wake gently." She glanced at Molly, her eyes checking for understanding. "But that will happen when we move the flour to the dough mixer machine."
+
+Molly nodded, her attention fixed as Lilly continued, sprinkling two teaspoons of salt into the flour, the white crystals scattering across the surface. "Salt is the wise one," Lilly said, her voice taking on a rhythmic quality. "It controls the yeast's wildness, builds strength. But they must meet gradually."
+
+A sigh escaped her lips, soft and content. "And now come the flavors."
+
+Molly watched as Lilly proceeded to pour the milk and honey into the large bowl of flour, the liquids cascading in pale and golden streams. "Honey is like a breakfast that reacts to the yeast. Sugar could have served as a reactive agent as well, but here at Eoma's, we prefer honey." An upward curl tugged at her lips, lifting the corners gently. "And not to mention, it is a honey milk flavor bread we're baking."
+
+Lilly grabbed a wooden spoon resting on the table and used it to scoop the butter out of its bucket and into the mixture, the pale yellow mound sliding off the spoon and settling among the other ingredients.
+
+The moment she finished, Ted, who had been standing still and observing the entire process with his arms crossed, stepped forward. His movements were professional and fluid as he lifted the large bowl that now contained all the ingredients, his hands steady despite its weight.
+
+Lilly glanced at Molly, who wore an expression of eager anticipation, her crimson eyes fixed on the bowl. "Now we take it to the dough mixer machine."

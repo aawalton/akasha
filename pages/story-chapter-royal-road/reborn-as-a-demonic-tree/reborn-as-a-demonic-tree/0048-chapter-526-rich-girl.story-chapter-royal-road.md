@@ -1,0 +1,209 @@
+---
+id: 2193bda6-d2dd-5771-ad53-93b2c064edbb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 526: Rich Girl"
+slug: 0048-chapter-526-rich-girl
+partOf: reborn-as-a-demonic-tree
+position: 48
+ownLength: 2755
+unit: words
+ownProgress: 2755
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2949709/chapter-526-rich-girl"
+royalRoadId: "2949709"
+markedReadAt: "2026-06-29T19:03:10.762Z"
+---
+
+"Ah," Stella held out her hand and caught a red snowflake. "It was over so soon."
+
+"Stella!" Janus yelled from above. "What have you done?!"
+
+It had only been a minute or so since Stella freed herself from the invisible line and let her anger loose on the fools of the Frozen Star Sect. Unfortunately for the gathered cultivators, the hunt had been relatively short-lived.
+
+Glancing up, Stella's gaze drifted past the dozens of chopped-up bodies that were suspended in the air with telekinesis. She saw Janus and the Nascent Soul Realm volcano cultist he had been fighting, both staring at her with horror. Blood continued to drip from the floating corpses, the intense cold crystallizing it into bloody snowfall.
+
+It was admittedly a bad look. Stella snapped her fingers, and reality shifted—the aether devoured the corpses in an instant, and with a flare of pure white soul flames, her face was cleaned of the blood. Now it was as if nothing had happened.
+
+She offered them the kindest smile she could muster and said innocently, "What's the problem, brother?"
+
+Janus's mouth opened and closed as he failed to say anything. Meanwhile, the volcano cultist floated backward, and so did his entourage. In fact, they kept going, and after exchanging a glance, the two factions mutually agreed to a full retreat back to the Frozen Star Sect, leaving Stella alone with Janus.
+
+Well, except for Jasmine, who was still asleep on her back. It was only now that Stella was reminded of Jasmine as the girl began to stir awake.
+
+"Stella, what happened back there?" Janus said, sounding disappointed as he floated down toward her.
+
+"I..." Stella frowned. "What do you mean? It worked, didn't it? They backed off, and now we can relax until Zeph and Ao finish their fight."
+
+"While that is true," Janus glanced into the distance at the departing backs of the cultivators, "that was the wrong way to go about things. Death is permanent, you know? While they wanted to interfere with Zephyrine and Ao Lingxuan's fight, don't you remember the whole reason we were holding them back?"
+
+Stella had to admit she didn't really remember. Her confusion seemed to give Janus the answer he was dreading.
+
+Janus sighed and explained. "None of them had the strength to so much as leave a scratch on either Monarch. The only threat posed by their joining the fight was to themselves. I wanted to keep them away to save them."
+
+"What?" Stella couldn't make heads or tails of this logic. "Why should we waste our Qi to stop them from killing themselves?"
+
+Janus appraised her for a moment. "Morals and the whole nonsense about the strong protecting the weak aside," he chewed his lip as if debating whether he should finish his line of thinking, "um, well, you see, Grand Elder Bingxu owed me like eight thousand Yinxi Coins. So with him dead, who is going to pay me?"
+
+"Huh?"
+
+Janus continued ranting, "Also, that kid you pummeled to death before abandoning the line idea? Yeah, he owed me a few hundred from a night of gambling we had a few nights back. The rest, I have no idea because their corpses were all unrecognizable and I wasn't watching."
+
+Stella felt her mind breaking. She had been expecting a lecture, perhaps about morals or maintaining the karmic balance. But no, her brother was just broke. That's why he was so 'disappointed' in her slaughter?
+
+"What the hell happened to the 500,000 Yinxi Coins I sent you not that long ago?" Stella snapped.
+
+"I... uh..." Janus coughed into his hand. "What you did today was good, it's just a more ruthless method than I'm used to."
+
+Stella rolled her eyes and pulled out her VIP gem-encrusted pendant, earning a raised eyebrow from Janus. Ignoring him, she opened up her friends list and selected him. If all it took was some money to get her brother to stop annoying her, then she would shut him up in one move.
+
+[Do you wish to send 1,000,000 Yinxi Coins to Janus Crestfallen?]
+
+[Yes / No]
+
+Stella pressed yes and then smirked at Janus. "Check your pendant, dear brother."
+
+Janus seemed suspicious of her grin as he slowly took out his pendant. Activating it, he looked at it once, then a second time, then a third time before he gawked at it in disbelief. "A million?! YOU SENT ME A MILLION YINXI COINS?!"
+
+"I sure did! Do you forgive me now, brother?" Stella asked, tilting her head sweetly.
+
+"What the... fuck. Just how filthy rich are you?!" Janus stammered, staring at her with a new kind of horror on his face.
+
+"I honestly don't even know," Stella replied, shrugging. She didn't spend her Yinxi Coins on anything, so they just kept accumulating endlessly. Besides, if Janus thought she was rich, just how wealthy was Ash considered? Not that it likely mattered to him, as a tree didn't have a lot of use for Yinxi Coins besides buying information and spirit stones for grand formations.
+
+"You honestly don't even know..." Janus parroted, shaking his head while looking equal parts in awe and disgust at the idea. "Do you know how hard I had to work for every Yinxi Coin, my dear sister? Over the years, I managed to save up a measly 200,000! A number you already doubled with your last gift. But now this... a million? Who, apart from the Elders of establishments like the Golden Dragon Alchemy Guild, has such wealth?"
+
+"A mere million is that impressive, huh?"
+
+Janus snorted. "Yes. Yes, it is that impressive."
+
+"Do you need some more?" Stella joked.
+
+"No!" Janus yelled surprisingly loudly. "Don't give me any more!"
+
+Stella blinked, not expecting such a reaction. "Why not? Is there a limit to what I can send or something?"
+
+"No. It's because..." Janus paused and then sighed. "I have a slight gambling problem. That's what happened to the 500,000 you gave me before. Most of it is now gone."
+
+Stella stared at him blankly.
+
+"I know! It's terrible! I had a really bad streak, okay?" Janus pleaded with her. "I'm so sorry. There's just nothing else to do in this frozen wasteland for entertainment, and I was frustrated by the whole dealing with Ao Lingxuan thing, and I lied to myself that it was a possible opportunity for me to earn more trust from the volcano cultists, but they just took all my money instead—"
+
+"Brother, stop. What even is gambling?" Stella asked. She was so lost regarding what Janus was going on about.
+
+"—huh?" Janus paused. "Ah, I guess you're still young, so you wouldn't have encountered it much yet. Basically, you play games but with Yinxi Coins on the line. If you win, you take the opponent's money. But if you lose, like I did a lot, then you lose your money."
+
+"Ah!" Stella pointed an accusing finger at him. "So that's the true reason why you wanted to keep them alive. It's not because a few owed you a little money for completed missions or something. It was so you could win back your money from them?"
+
+Janus hung his head. "Yeah, and like I said, some of them still owed me money that I was relying on. Well, until you gave me this gift."
+
+Stella snorted. "Brother, you made one mistake." She planted her hand on his shoulder, making him slowly look up to meet her gaze.
+
+"W-What would that be?"
+
+Stella grinned. "You should have called your sister for help. Let's go get your money back."
+
+"But you just gave me a million? I have no need to gamble anymore—"
+
+"It's not about the money," Stella said seriously. "By losing, you have brought shame to our family. Now take me to go gambling so I can restore our honor."
+
+Janus hesitated. "Is that... a good idea?"
+
+"Of course it is," Stella said confidently.
+
+"But, even if you have played before, they all cheat," Janus reasoned.
+
+"Perfect." Stella forcefully turned Janus around and started pushing him toward the Frozen Star Sect. "If it were a fair fight, there would be a chance I could lose."
+
+"But what about Zeph and Ao's fight?" Janus tried to reason while looking helplessly over his shoulder.
+
+Stella shrugged. "You said it yourself. Nobody can harm them, and who knows how long their fight will last?"
+
+"I guess that's true," Janus said, sighing and resigning to his fate. "Fine, let's head over there. You've already proven yourself strong enough that I doubt anyone in the Frozen Star Sect besides Ao Lingxuan can be your match. Just don't slaughter the entire sect if you lose, okay?"
+
+"Hmmm," Stella pondered for a moment before reluctantly accepting. "Fine, deal."
+
+A smile tugged at the edge of Janus's lip. "I have to admit, this is going to be fun. Gambling with my rich little sister. I can't wait to see the look on their faces."
+
+***
+
+It took a few hours of flying forward at full speed until they made it to the Frozen Star Sect. On the way, they engaged in some small talk, and Janus explained in more detail how gambling worked. He also warned her of a few tactics they used to cheat, and Stella concluded it was all child's play.
+
+However, before they could gamble, they had to get in. From a distance, the ice-covered volcano had been impressive. But up close, it was simply too massive to even register what it was. A steep slope seemingly rose endlessly into the sky, covered in spikes of ice that perpetually spewed foul-smelling steam, which quickly cooled into snow. It was chaotic, to say the least.
+
+"How can people even pass this?" Stella asked, gesturing to the wall of bellowing superheated steam topped with snow.
+
+"They can't, that's the point. The steam is infused with Ilyzathar's lingering hatred, making it capable of breaking even the strongest wills and spawning heart demons. It's what has kept the sect so safe over the years. However, there is a secret route," Janus said, taking a sudden sharp left and diving down toward the steam. "A long time ago, a great effort was made to craft a pathway through the steam. The start of it is down here and only known to the members of the sect or important people like me, I suppose."
+
+Janus vanished into the steam.
+
+Stella shrouded herself in a bubble of aether Qi and wrinkled her nose as she closely followed behind. Expecting to travel through hundreds of meters of steam, she was surprised when the bellowing steam almost immediately gave way to a large black ice platform built upon a few towering spikes. It glowed fiercely with power as dozens of grand formations layered into the ice platform worked in harmony to create a bubble she had just passed through.
+
+"Whoa," she said, actually impressed. She hadn't detected a thing from beyond the steam, making this place incredibly secret. Her eyes began dancing over the formations as she tried to figure out how they worked.
+
+"We've got company," Janus grumbled.
+
+"Huh," Stella said, tearing her attention away from the formations and following his gaze. Sure enough, waiting near a tunnel that seemed to carve through the wall of steam surrounding this little paradise were a dozen cultivators, many of whom she recognized from earlier.
+
+"I hoped they would have gone on ahead already," Janus clicked his tongue in annoyance and then glanced at her. "You see how they have all gathered at the tunnel's entrance to make a last stand against you? I bet they are planning to collapse it. Without the tunnel, we will have to wait for Ao Lingxuan or Zephyrine to take us through the steam."
+
+"That's annoying. What should we do?" Stella asked. While she was sure she could brute-force her way through the steam, there was no telling what it would do to Jasmine on her back.
+
+"Mhm, I'm not sure."
+
+"I got an idea," Stella said, and before Janus could refute her, she stepped through the aether and appeared before the tunnel. It was large—about ten people high—which made the gathered cultivators, with swords drawn and fierce glares, look relatively small and less intimidating.
+
+"Greetings, cultivators of the Frozen Star Sect, I have come to—"
+
+"Stay back, you murderous bitch," the Nascent Soul Realm Volcano cultist declared as he took the forefront of the group, which was a mixture of white and black-robed cultivators. They all looked utterly terrified.
+
+"Whoa, okay. Fair—but still rude." Stella raised her hands in fake surrender. "Can't we talk this out?"
+
+"Talk? What is there to talk about?" The man narrowed his eyes. "You murdered Grand Elder Bingxu when all he did was talk to you."
+
+"Okay, that is just not true, and you know it, you lying piece of shit," Stella started, but then felt a hand clamp on her shoulder. Janus had teleported to her side with a disapproving look on his face.
+
+"Grand Elder Vokar," Janus said, stepping before Stella. "I believe introductions are in order. This is my sister, Stella Crestfallen. She is a Grand Elder of the Ashfallen Sect, far to the east of here."
+
+"The Ashfallen Sect?" Grand Elder Vokar glanced her way and snorted. "That upstart sect that claims to be as strong as us on the Eternal Pursuit Pavilion rankings?"
+
+"Stronger," Stella corrected, earning another glare from Janus. "What? It's true," she mumbled, but everyone heard her.
+
+"Ahem," Janus coughed into his hand. "Stella is also one of the co-founders of the Ashfallen Trading Company. You know, those super high-quality pills with miraculous effects that people have been raving about? A large portion of all sales goes to her."
+
+Stella felt the mood among the cultivators immediately shift, especially Vokar, which confused her. Why would they disregard the Ashfallen Sect as an upstart but suddenly look on with interest when the Ashfallen Trading Company was mentioned?
+
+She soon got her answer as Janus continued.
+
+"My little sister here has taken an interest in gambling and heard the Frozen Star Sect was the place to visit. Though I must warn you all that she is still a complete beginner."
+
+Grand Elder Vokar stepped forward, practically rubbing his hands in glee. "I seem to have misjudged! You sure have quite the prominent sister, Janus! And to think I disregarded you as a loser—"
+
+"Hey!" Janus retorted, but the Grand Elder continued over him, entirely focusing on Stella.
+
+"—shut it, I'm talking to Stella here. Now, where was I? Ah, yes, we would be happy to show you the ropes, Stella."
+
+"Grand Elder Stella, or Princess to you," Stella said, not enjoying the disrespect.
+
+"Ah, yes, Grand Elder Stella, my apologies. However, considering the previous senseless slaughter, I believe reparations will be required for myself and the others to overlook the tragedy that occurred and treat you like an equal."
+
+Stella snorted. "Or I could just kill you all and step over your cold corpses?" she said coolly, not enjoying the hungry look in all of their eyes as if she were prey. She wasn't dumb—she knew Janus was painting her as this airhead rich girl who would be easy to rinse for money. Perhaps he even thought that himself. That didn't excuse them for staring at her while practically licking their lips.
+
+The Grand Elder reeled back at her glare, infused with bloodlust, instantly paling.
+
+Janus quickly stepped in front of her. "I'll pay on her behalf. Ten thousand Yinxi Coins to each person here. Take it or leave it."
+
+"You?" Grand Elder Vokar laughed. "What money do you have?"
+
+"My sister gave me some funds. It's none of your business."
+
+Grand Elder Vokar narrowed his eyes. "Interesting. Fifteen thousand each, and you have a deal."
+
+"That's fine," Janus said, gently grabbing Stella's hand and leading her through the gathered cultivators. They all parted, watching the pair pass like vultures.
+
+"Fine...? Fifteen thousand?!" Grand Elder Vokar blinked in disbelief. "Just how much did she give you?"
+
+"A lot. Now, are we going to go gambling or what?" Janus said, a wicked grin on his face.
+
+Stella also smirked at the cultivators as Janus led her into the tunnel by the hand. "Grand Elder Vokar, was it?" she called out over her shoulder. "Can you gather all the Elders and high spenders? I want this to be fun!"
+
+"Very well," Grand Elder Vokar said, silently nodding to some of the cultivators in his entourage before following behind.

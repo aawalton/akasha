@@ -1,0 +1,167 @@
+---
+id: 8ab810f1-b009-5314-b71c-8bd36b6ba7e0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91: Get off me!"
+slug: 0091-chapter-91-get-off-me
+partOf: phoenix-ascension-cultivation-litrpg
+position: 91
+ownLength: 1972
+unit: words
+publishedAt: 2026-02-21
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3078556/chapter-91-get-off-me"
+royalRoadId: "3078556"
+---
+
+The woman gave off an imposing aura, but I didn’t react to it. I’ve faced the aura of Supreme Emperors before, so a mere Core Formation child didn’t really scare me. As long as she didn’t have any killing intent, at least.
+
+“I was just meaning to ask him a few questions.”
+
+“Right, and that’s how it starts. First a few questions, then a tour, then a communal chamber and before you know it I lost another good worker. I know your type and I will not stand to lose him. I know he’s handsome and young, but why don’t you aim for someone your own age?”
+
+“My own-”
+
+“Yeah, yeah, I know cultivators don’t age the same way, so you could either be very young or very old but my point still stands. Leave him alone, there’s more fish in the sea.”
+
+“I think there’s a mis-”
+
+“Don’t even get met started.” She sighed and sat down, waving the waiter away while helping herself to my bottle of wine. “I’ve seen dozens of women like you, all wanting to taste young fruit. I’ll tell you now, it won’t end well. That guy is a talented worked but nothing else.  I can tell you come from a prominent family, so why don’t you forget about him, eh?”
+
+“What. Ma’am I think-”
+
+“Oh right, right. I should have asked your name. Where are my manners.” She said right before swallowing the entire cup of wine in one gulp. “My name’s Fu Ma, and I run this place like I run my own home.”
+
+“I’m… Shang… Hue?” I wasn’t really sure what to say at that point. The woman had spoken for so long and so fast that my mind just sort of defaulted to the first female name that came to mind.
+
+“Shang Gue, you say? Hm, sounds familiar to another name I know. Are you part of the Shang Clan in the area? If I recall there was a village nearby named Shang… I could be wrong as well. I heard they’re rich, you know? Anyway, Shang Gue, what did you want to ask my boy? I could answer that for you.”
+
+“Just…” I ignored the fact that she mispronounced my fake name and decided that she was just as good as the waiter, and it also saved me some Spirit Stones. Or not, depending on how much of my wine she was planning on drinking.
+
+“Just some questions about Foundation Establishment.”
+
+“Hm? And why do you want to know? From your aura I can tell that you’ve already reached it.”
+
+“Huh?”
+
+Her detecting that I was a the Foundation Establishment stage was false, but also surprising. I didn’t think cultivators could check each other like that. Then again, maybe the difference in our realms made it so I was defenseless against it.
+
+If I weren’t a Phoenix and met someone at the Core Formation stage as a Qi Condensation cultivator I would be quaking in my boots.
+
+“Curiosity.” I said plainly, not intending on revealing too much about this fake identity. The more that could be tied to the rich Fa Xiaolan the worse I’d be.
+
+“Curiosity, right. Well, go ahead then. I’ve already gone through the stages so I know a thing or two.” Said she, pouring herself another cup.
+
+I could only sigh inwardly and let her do as she wished, so long as I got the information I needed.
+
+After pouring myself another glass as well, and downing it like some cheap alcohol, I began my series of questions.
+
+They ranged from how she broke through to what sort of objects she had in her dantian and what did she use to advance. What the process looked like and so on.
+
+She didn’t divulge everything about herself at first. She mostly told me that her process was normal, and after gaining five times increase in size, she felt rather disappointment.
+
+It seemed that the author had forgotten to talk about the fact that how much more space your dantian gained depended on some sort of factor, luck or environment, perhaps both. Fu Ma had a five times increase, but some of her fellows had as low as two and as high as seven. In comparison to them, she was pretty average.
+
+When I asked what’s the most amount of size she ever saw, she told me about a long time ago when she was a child and heard about a talented man who had a twelve times increase, who was then picked up by some sect.
+
+She didn’t remember the sect’s name or what the man looked like, but she hard it was quite impressive.
+
+Afterwards, well, there wasn’t much about the realm that she told me that I didn’t know. I started asking more personal questions, and she only relented after I ordered a second bottle of more expensive wine and drank half of it.
+
+She then told me that she had the choice between a plant that turned pure Qi into purer Qi, a neutral tree of sorts that didn’t have any elemental affinities. Apparently not everyone had elemental affinities, so a pure affinity was actually the mos tcommon, and the most versatile.
+
+That was very interesting, as I’d assume they at least had one or two affinities. The Jade Slip and the woman had very different information regarding that.
+
+Fu Ma said that she could choose between a growing crystal, a tree or an artificial lake as her first Foundational Treasure. That’s what the objects or living beings that one placed inside their dantian to help with their growth was called.
+
+That was also something else that the Jade Slip had forgotten to mention.
+
+She told me chose a tree because it was the easiest thing that could help measure growth. It grew alongside her power, and it was also practical to create a vertical storage space. I could not deny that it was useful.
+
+Since her first tree, she’d added some soil that was also of pure affinity, and other things to help with the well-being of her tree.
+
+I wanted to pry on how she’d broken through the Core Formation stage, but she refused to tell me no matter how drunk she’d gotten.
+
+“What would happen if you were to remove your Fondational Treasure?”
+
+“Da-” She began, but the waiter and waitress from earlier stood next to my table before she could finish her first word.
+
+“I’m afraid we have to close.” The waitress said, then the man picked their manager up. They gave each other a wiry look, and the manager seemed quite discontent at her having to leave.
+
+“You can have the bottle.” I offered, and she immediately grabbed it and smiled drunkenly, as a drunk would.
+
+The waiter shook his head and sighed. “She’ll need to sleep if she wants to answer to her husband tomorrow. I hope you understand us.”
+
+“Of course.” I nodded and left the last Mid-Grade Spirit Stone I had on the table. “That should be enough to cover the wine and a tip.”
+
+“Oh! It’s more than enough, thank you!”
+
+The two of them didn’t look all that excited, and I had to admit it wasn’t tha impressive of a tip when they made twenty Spirit Stones an hour.
+
+Maybe I’m not as rich as I thought?
+
+Well, I wasn’t anymore since I was out of Spirit Stones that I could use anywhere outside the Myriad Market, so I guess I was broke.
+
+Anyway, I got what information I needed and more, thanks to the woman’s willingness to talk. I was pretty sure she just wanted to fish out more free alcohol, though.
+
+Well, I didn’t mind, since I gotten information I would have not had otherwise. So much for the Information Pavillion…
+
+Were they assuming some things were common knowledge? They must have had otherwise they would not have givem me something so incomplete.
+
+Anyway, now I didn’t have a good spot to read the other Jade Slip, which was more than a little inconvenient.
+
+In the end, I gave up on being a human and left the village, heading toward Yo Na’s cave. My cave had nothing I needed anymore and she at the very least could keep me company.
+
+I stored away the clothes after turning back into my original form and flew in the general direction until I found some familiar terrain. After knowing where it was, it didn’t take me long to locate it and enter.
+
+The temptation to steal more Water Crystals was great, but I decided that I was better off asking her. It wasn’t like I could refine her elixir right away, after all. She underestimated how difficult it would be.
+
+Even if I had the cultivation base required, which I didn’t, the ingredients were still something I was missing. Especially some of the more difficult ones to obtain, not to mention the materials. Needless to say, it would take me a good minute to get the elixir ready.
+
+However, there was also very little time for me to get ready to fight for it. With Meng Mao’s interference, the fight would be even fiercer than before. I didn’t know why he was trying to test me, but I didn’t appreciate it.
+
+My original plan was to sneak about, but the more people there were, the higher the chances I would be spotted. If it came to fighting, I couldn’t overpower that many cultivatrors by myself.
+
+Even if Yo Na could help me, it would still be difficult. Thanks to Meng Mao, though, my Stealth skill has not only evolved but also ranked up. I had no idea it would be so easy to do that. More research would be necessary to determine the exact conditions that allow skills to rank up, evolve and even be acquired to begin with.
+
+It was fun, a little like a game.
+
+Huh?
+
+I stopped my train of thoughts when I entered the large cave and saw Yo Na, in her human form,  try on clothes.
+
+What the hell?
+
+“What are you doing?”
+
+“Meow!?” She hissed and fell on all fours before seeing that it was me, and calmed down. She undid the skill and transformed back into her original form, the clothes disappearing as she did so.
+
+“Oh, it’s the Chameleon Robe!”
+
+“I just wanted to see how it works.” She said in a soft voice, and I decided to give her the benefit of the doubt. I also ignored all the other clothes strewn on the floor. “What have you discovered?”
+
+“A lot and nothing at all. I got some more information but I need to read the rest of it.”
+
+“You were out almost the whole night though.” Her ears flattened as she spoke and hid away the clothes with her hind legs.
+
+I shrugged. “Humans are difficult.”
+
+She then took a whiff of the air and frowned. “I know that smell. You… you went and drank that thing called alcohol!”
+
+“I- I did. So what?! It was to help with the research.”
+
+“You lied! You went to enjoy yourself and you didn’t take me!”
+
+“I thought you didn’t like humans!”
+
+“I- Well- I don’t, but they can have some interesting inventions.”
+
+“You… did you just want to drink wine?”
+
+“Proposterous!”
+
+“I bet you don’t even know what that means!” I laughed, but she didn’t find it as funny as I, since she arched her back and coiled her tail.
+
+“Don’t you-” But before I could finish my sentence she was already upon me. Instead of attacking, though, she turned around and sat on me, only allowing my head to be out so I could breathe.
+
+“You… Get off me!” I flared in anger and literally summoned fire about me, but she didn’t seem to care.
+
+“Get off!”

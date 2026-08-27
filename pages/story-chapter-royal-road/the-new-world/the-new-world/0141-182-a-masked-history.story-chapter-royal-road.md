@@ -1,0 +1,369 @@
+---
+id: 2c8d390c-18e5-507e-9ff1-5647edc78e37
+page-type-slug: story-chapter-royal-road
+title: "182 A Masked History"
+slug: 0141-182-a-masked-history
+partOf: the-new-world
+position: 141
+ownLength: 4290
+unit: words
+ownProgress: 4290
+publishedAt: 2019-02-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/330016/182-a-masked-history"
+royalRoadId: "330016"
+markedReadAt: "2026-06-29T21:25:37.788Z"
+---
+
+Prepared for diving into the silver's territory, I stepped toward the door of our room. As I did, a light voice chimed in from behind me,
+
+"Hey, where are you going?"
+
+Althea rubbed her eyes, sitting up from her bed. I raised a hand and whispered, "I'm going to find the Skyburner base. Go ahead and get some sleep."
+
+She yawned while stretching her arms. Her figure showed in all its glory. As I admired her, she murmured, "Come on. You won't even know I'm there."
+
+Before I could reply, she dematerialized. A second later, she bled back into reality beside me. She grinned,
+
+"The Skyburner's won't find me either."
+
+"That's the thing. I might end up hurting you."
+
+She shrugged, "I'm not some damsel that needs saving." Althea frowned, "Besides, I've been missing you a lot lately. We can spend some time together this way."
+
+I scratched the back of my head, "Hmm...Alright. Get ready and let's go."
+
+Five minutes later, Althea finished getting ready by pulling her cannon out from under our bed. She aimed down the iron sights,
+
+"Ready to go, captain."
+
+I leaned closer to the cannon, "Damn...I need to make you another one of these soon. It looks so rough."
+
+She raised it up, hugging the weapon, "What? This here is what I call old Betsy. There's nothing wrong with her."
+
+I rolled my eyes, "Uh, yeah right. That weapon looks like I used my bare hands to make it. Why? Because I did."
+
+Althea kissed the rifle then looked up at me, "That's what makes it special."
+
+I scoffed, "If you say so. I'm still making you a new one when we get back."
+
+We walked out of our room. Torix already converted the hallway into a base, charts and graphs on every surface. He installed a holographic projector besides the fire as well. Working with a graphic image of Giess, he consulted his status for info.
+
+He added markings, drawing out routes and circling issues. I walked up,
+
+"Looks like you've made this place your new evil lair."
+
+He nodded, "Ah yes, as I always do. It suits me after all."
+
+He pointed at three large circles near and on an enormous mountain,
+
+"These are the three areas where we'll find the Skyburner's bases. When will you be able to discover their locations? Excuse my rush, but it's difficult to create a plan of action without the necessary details."
+
+I shrugged, "Today probably. My next slot in the tournament is in two weeks. That means I can go ahead and iron this shit out."
+
+Torix clapped his hands,
+
+"Excellent. As you go and inspect our surroundings, do note any nearby anomalies. We may discover a few useful gems of information to act on."
+
+Torix waved his hand at the 3-d map, "Though this chart is detailed regarding geography, it doesn't note any high-level dungeons or that sort of thing. We could use any advantage we can get, both politically or in combat."
+
+I gave him a thumbs up, "Sounds good. We'll go ahead then."
+
+Althea walked up and hugged Torix. She smiled at him, "See you later."
+
+If Torix could, he'd have blushed. He laid a hand on her shoulder, "Likewise. Be safe, both of you."
+
+We paced out of Torix's newfangled base, finding Malakai standing guard beside our room. With a torch casting his smooth skin with an orange sheen, he glanced down at me. He gave me a bow,
+
+"Good to see you, warrior. I pray you've been resting well?"
+
+I shrugged, "I don't need to get shuteye. No rest for the wicked and all that. In fact, I'm more curious about why you're standing guard."
+
+Malakai chuckled,
+
+"Hah, you're quite relaxed, aren't you? As you may have already gathered, many worship Lehesion here. Quite a few of them despise you for your fight with Delilath. I'm here to prevent any foul play or assassination attempts while you and your comrades rest."
+
+I tapped the side of my helmet, "Good thing I never sleep."
+
+Malakai nodded, "Indeed it is. You've already made more than a few ripples around here as it is."
+
+I raised an eyebrow, "What kind of ripples?"
+
+Malakai glanced at the Lehesion statue off in the distance,
+
+"To understand your impact, give me the chance to explain the situation."
+
+His tail whipped behind him,
+
+"Rivaria serves as a capital for the gialgathen race. We lack a formal government or the like, but we do serve a higher code of ethics. Rivaria decides what those ethics are, and these unspoken rules affect all other gialgathens."
+
+Malakai glanced down at us, "So your utter dominance over Borom changed how gialgathens view your kind. To those that follow Emagrotha, they view it with admiration."
+
+Althea crossed her arms, "I thought she was the leader that was trying to keep the espens enslaved?"
+
+Malakai scoffed, "What? That's nonsense. Emagrotha believed that espens should earn their freedom rather than be granted it. She believed in the potential of your race. Obviously, she was correct in that regard."
+
+I cupped my chin, "Why should espens have to earn their freedom?"
+
+Malakai looked back to the Lehesion statue,
+
+"It's a piece of forgotten history that the espens neglect to mention. We uplifted their race, bringing them from the oceans and giving them knowledge of fire and magic. We offered our protection from the elements, and they handled menial work for us."
+
+Althea tilted her head, the sheen on her facemask shifting,
+
+"Wait, what does uplift mean though? From what I heard, you guys put the espens into slavery using your brute strength."
+
+Malakai rolled his eyes, "We enslaved no one. The espens followed us onto land willingly."
+
+My eyes widened, "Wait a minute, onto  land?"
+
+Malakai gasped, "They've told you all nothing but lies, haven't they? The espens were a symbiotic race of marine origin. They served the leviathans that swim under the water. We waged war so that the espens could have the choice to come to the surface."
+
+The old beast sighed, "In the end, we were victorious. The espens took no time to hesitate and followed us. We gave them the foundation to form their own society."
+
+I tapped my chin, "Then you guys enslaved them."
+
+Malakai shook his head, "They offered it to us. I will not deny that our dependence on the espens grew over time. We asked for more labor, and they conceded. It became twisted over time. The relationship began as mutual trust, however."
+
+Malakai pointed his tail at the Lehesion statue, "He is the one that looked down on the espen race. Emagrotha is the one that saw the espens have the ability to rise above their humble beginnings. We fought another war over this."
+
+Malakai grimaced, his massive head covering in wrinkles,
+
+"Emagrotha would've had our kind ween our dependence from the espens over time. At the same time, the espens would've gained confidence as a race. Instead, we waged yet another war for your race."
+
+I shrugged, "It's not my fault man. Find someone else to blame."
+
+Malakai took a deep breath. He bit his tongue, "No...no it's not. Excuse my indiscretion warrior. I find I'm far more set in my ways since I've aged. I'm less bitter now at least, but it does leak out from time to time."
+
+I pat his shoulder, "Don't worry. It was interesting to hear."
+
+He laughed a bit, "Well at least you found entertainment in my accusation. Don't let this old beast drag you into further conversation. At this rate, you'll both be old by the time you leave!"
+
+Althea walked up to him, giving him a bow,
+
+"Thanks for the wisdom. We'll use it."
+
+Malakai gave her a bow, "And thank you for your respect. I will return it in kind. Farewell."
+
+With the history lesson over, we walked out of the hallway of heroes. Once outside, I flew us my way out towards a vast ocean. It was on the other side of Rivaria's mountainside. In a few minutes of flying, it popped up in our view in the distance.
+
+Althea murmured, "It's beautiful."
+
+After reaching the ocean, I took us to Draygalga's first hint - a camp near the River of Tears. It turns out that it was an actual river, named for the many bodies dumped here during an epidemic. To my surprise, it took a couple minutes to reach the mouth of the river from the mountaintop.
+
+The gialgathens used it as a freshwater source, so it had to be nearby. Rivaria wouldn't function otherwise. That same river flowed into the blue-green ocean. As we neared it, details cropped up in my view.
+
+The shallow waters carried pits of algae on its surface. The green algae bled into the water, spreading the color outwards in massive blooms of color. Fish nibbled at the center of these pits, growing fat off the abundant greenery.
+
+Along the outskirts of the emerald colored blooms, leviathans Malakai mentioned swam. Just under the surface, their black, blurry silhouettes roamed around the pits. They opened massive mouths like anacondas unhinging their jaws. The beats devouring enormous amounts of fish in single gulps using this technique.
+
+This wildlife waned towards the river, the water's coloration turning clear. As I neared the water, I realized why. The stream was damn near sterile. This explained why Kessiah thought the water tasted funny. Something upstream was killing all of the wildlife in the water.
+
+With curiosity guiding me, I hovered us both just above the river's surface. We peered at the crystal clear water, spotting our blurry reflections. I passed miles of the vast waterway, finding next to no life.
+
+After many miles, I uncovered why the water was clear and sterile. At the border between silvers and Giess, there was a yellow damn blocking the river. Eldritch walked in and out of a dungeon along the edge of the damn. These eldritch took the form of spiky, blue crabs except for their faces and backs.
+
+Many tiny arms surrounded their gaping mouths. From the opening, a thin, filmy net expanded out. An electrical charge fired off around this next, killing anything in the water. The electricity was so dense, lightning shot up and out of the water every few seconds.
+
+Any of the creatures that weren't filter feeding maintained the yellow, crusty dam. They spit onto it, their saliva hardening and expanding outwards. With their many arm mandibles, they sculpted the smooth wall of the yellow structure.
+
+These blue crabs took turns at a pipeline at the dam's center. They feasted on the fish and water swept through it. They swelled up, pumping water into tubes behind them. These tubes ran out towards a giant embryo lying beneath the pool.
+
+A colossal creature squirmed within it, feasting on the crab's excess food. The swollen, bulbous egg sack shivered, ready to burst at any moment.
+
+Before I ran in, I analyzed the crab things.
+
+Shagura Larva(lvl 1,104) - These crustaceans create massive blockages in waterways. While initially helpful to primitive and local populace due to treating the water, they harbor dark intentions. By funneling the resources of a river, they create a Shagura Queen.
+
+Even though these monsters are created solely for their queen, they're more than able to defend themselves. They absorb the hardest minerals they find to build their shells. This in conjunction with their incredibly durable glue makes them very sturdy.
+
+Their claws can snap through steel even, killing someone in power armor instantly. They charge the waters with high volumes of voltage as well. Shagura warriors can also use this charged lightning to attack at a distance.
+
+For you, the colony should prove a simple task to dispatch.
+
+I analyzed the queen next.
+
+Shagura Queen(lvl 4,892) - Though this creature is young, it proves an exponential threat in the future. Shagura colonies can lay claim to entire oceans, converting all waterways into sterile pits. This destroys the life on a planet, and if evolved enough, Shagura Queens can launch their larva into space.
+
+This makes them a current priority on Fringe Worlds since they spread so quickly. Immediate and thorough elimination of this dungeon is highly recommended. It is also recommended that you inform a guild to regularly clear this area out before it spirals out of control again. Schema will provide compensation for the work.
+
+For you, this is a small concern, but handling it will help many in the future if you choose to do so.
+
+It was an easy dungeon clear, so I pressed my chest pad. My gray armor peeled off as Althea whispered,
+
+"They aren't too strong. You can just set me down on that tree over there and do your thing."
+
+I gave her a nod, floating her over to a nearby branch. She watched as I raised myself high into the sky, spending a minute falling up. I flipped my gravity wells, pulling me down. In seconds, I impacted the Shagura Queen's egg sack. The water vaporized as I crashed through the hardened shell of the creature.
+
+Surrounded on all sides by the giant crustacean, I absorbed it from the inside. Event Horizon devastated the nearby guardians, melting them. My armor sent out hundreds of tiny needles, soaking up the creature's mana and health.
+
+Within minutes, it disintegrated. At the same time, I absorbed the ambient charge in the water, converting it into mana. The Shagura colony discovered their queen's death and swarmed me from all directions. They were enraged at their queen's demise. All it did was make hunting them down easier though.
+
+After slaughtering the entire population, I flew up over the river. A purple blot spread out over the center of it. Curious about the cause, I floated behind the damn. It was a cesspool, full of mana pollution. The Shagura filtered it, making the water sterile after ingesting the poison.
+
+I frowned at the sight, but I shrugged at the same time.
+
+The queen needed to be eradicated before it spread out like a plague. When I got back to Rivaria, I would inform someone about what happened here. Having someone build a filtration plant or the like would solve this.
+
+With that in mind, I went down into the dungeon itself. If I didn't clear it, the Shagura would infest the river once again. The smaller, shriveled up larva dwelled deep in the bowels of the cave. I stomped out their guts. I smashed shells to a pulp. Over the next few minutes, I culled them all.
+
+At the bottom of the cavern, I found a deep pool of bright, red water. A dungeon core ingrained itself on the cavern floor. Diving into the abyss, I wrenched the dungeon's heart out. Using the extra points, I enhanced Star Forger before moving on.
+
+Without missing a beat, I jumped back out of the water. Maneuvering through the cave's depths, I reached the top in about a minute. I soared right out of that cavern with one last task at hand. Before parting with the leftovers of the Shagura, I lifted enormous amounts of soil from nearby.
+
+I added height and width to the damn and even clogged its one opening. This gave Rivaria time to save its drinking water from toxicity. With the odd job handled, I picked Althea up and soared towards the edge of silver territory.
+
+Before we reached it, Althea murmured, "Hey, can we talk?"
+
+I turned to her, "Yeah, of course."
+
+Althea rubbed her hands together while staring down, "Uh, so you've been working a lot lately."
+
+I glanced up, thinking about what I'd done recently. I shook my head, "Eh, I've been doing about the normal amount of work I think."
+
+Althea sighed, "My point is, you work...like, a lot. I don't get to see you often, and when I do, it's like your minds on other things."
+
+I looked at her, keeping us moving forward,
+
+"What do you mean?"
+
+She weighed her hands back and forth, "It just...I want us to settle down once we're finished with Giess. You know after we clear our bounties and all that."
+
+I scoffed, "Of course."
+
+She shook her head, "I mean my kind of settling down. Not your kind."
+
+I grinned, "What's the difference?"
+
+Althea snapped, "Oh, there's a world of difference."
+
+Hearing some genuine frustration, I slowed us down to a halt. I turned around, facing her. I crossed my arms, "Alright, something's up. What's wrong?"
+
+Althea bit her lip, staring at the small moon in the sky. She sighed, "I don't think you'll slow down once we get back. If anything, I think you'll speed up. You know, working even more."
+
+I spread out my hands, "What makes you think that?"
+
+She threw up her hands, "I don't know, the fact you're working 24/7 right now?"
+
+I crossed my arms, "Look, I don't even understand what the problem is. Is this really that big a deal?"
+
+Althea nodded, "Yes. It is. I never get to see the guy I want to see all the time. Do you have any idea how frustrating that is?"
+
+I raised a hand, "Just join me when I'm training."
+
+Althea rolled her eyes, "When you're training, you're in a different world. I might as well not even be there."
+
+A spark of irritation flared in my chest. I spread out my hands, "This feels ridiculous. My work ethic is why we're all still alive. It's going to keep us alive too."
+
+Althea shook her head, "There's a difference between surviving and living, ok? You don't live. You just survive all the time. There's a difference."
+
+I shook my hands, "What the hell is that supposed to mean?"
+
+Althea waved hands in frustration, "I don't know. You never relax. You never rest. Do you know how hard that kind of person is to be with? I can never just sit down and take a breather."
+
+I pointed a finger at her, "Easier than being with a lazy slob."
+
+My eyes widened after I said that. I raised my hands, "Wait a second, I didn't mean that."
+
+Althea grimaced, "No, I heard you loud and clear."
+
+I grabbed the sides of my head in frustration, "Ok, look, I'm sorry I said that. I'm just all defensive for some reason. I guess it just feels like you're turning one of my better points into a problem."
+
+Althea grumbled, "Maybe not for you. Then again, if it's not about you, then you don't care."
+
+I dragged my hands down my face, "What? Now you're being ridiculous. I've went through hell for you."
+
+Althea pointed her finger at me, "Are you sure it was for me and not for you? I'm starting to wonder."
+
+I rolled my eyes, "Ok, you're just in one of your moods or something. It must be your time of the month."
+
+"Great job dismissing my feelings. I'm just trying to tell you how I feel. It doesn't matter what I think though, does it? You're never going to just relax."
+
+I raised my hands, "I don't know if I can relax anymore, ok?"
+
+Althea snapped, "Why? You haven't even struggled fighting anyone since Yawm. Why do you keep pushing so hard?"
+
+I raised up my hands, "Because you almost died..."
+
+Althea's face unwrinkled. Concern spread over her face, "Wait...really?"
+
+I let my hands flop onto my sides, "Of course. Some assassin planted a bomb under our bed and blew us up. I was fine, sure, but you almost died. Do you know what that felt like? You're closer to me than my family. Losing you would be worse than losing a limb. I would be crushed."
+
+I spread out my arms, "Even before that, I haven't taken my foot off the gas pedal in over a year. Hell, I can't remember the last time I slept. I'm always on guard and trying to improve because I don't know if I'll be able to handle what comes next."
+
+"But, nothing is coming. We got rid of Yawm. Nobody is out to get us anymore once we get rid of these bounties."
+
+I pointed a finger at her, my voice firm, "You don't know that. It's irresponsible to say that shit because you can't know that. If everyone dies, I'll be the one left behind. Why? Because I'm the hardest to kill. That's why I work ten harder than everyone else to keep you all alive."
+
+I raised a hand, "Hell, every time I've let my guard down, some evil creature rears up and tries to kill us. First, it was Baldag Ruhl then the plague then Yawm. I have no idea what it will be next. Maybe Lehesion or maybe Helios. I don't know. All I do know is this."
+
+I clenched my hand into a fist,
+
+"When the next horror does come, I'll ready."
+
+Althea bit her lip, staring down. She sighed, wrestling with her conscious. A second later, she reached out a hand, wrapping it around my fist,
+
+"But if you're always living for tomorrow, you never get to enjoy today."
+
+I blinked, confused by what she said. I glanced down, thinking it over. In a way, she was right. I lived in fear all the time. Focusing on those fears made me strong. Now that I wasn't under the constant threat of death though, slowing down might be a good idea.
+
+At the very least, I could find a better balance. Even though she wasn't working as hard, Althea was keeping up with me from a strength standpoint. Well, probably...Honestly, I didn't know if she was. Her class closed the gap between us, but it was hard to say by how much. To be honest, I thought I'd thrash her with ease.
+
+The point is though, Althea wasn't sacrificing her entire life for being strong. She enjoyed nights out and time with friends. I didn't have anyone I could call a friend outside our tight-knit group either. Maybe focusing on my friends would do me more good than focusing on my enemies.
+
+Coming to a conclusion, I looked at the silver's border off in the distance. I looked up and took a deep breath. I let out my frustration as I looked back at Althea,
+
+"I'll think about it. What you said that is."
+
+Althea perked up, "Wait, really? I thought'd you'd just ignore me."
+
+I frowned, "Good to see you have some faith in me. But...yeah. I'll give it some thought. You're probably not, you know...completely wrong."
+
+She smiled, "Oh really? Thanks for the compliment."
+
+I shrugged, "Eh, I try."
+
+Without anything left to say, Althea reached out to me. Giving me a bear hug, my chest caved under the pressure of her arms. She hissed, recoiling back. I reached out a hand,
+
+"What's wrong?"
+
+She waved her arms, "Agh, you're too dense. I hurt my arms hugging you to tight."
+
+I scoffed, "How about you try not to kill me with your hugs of doom?"
+
+She grabbed her wrist, "Yeah, that's probably a good idea."
+
+I rolled my shoulders, "Uh, you ready to go?"
+
+She winced, "Yeah. I think I pulled some muscles in my arms. Ouch."
+
+I smirked, "I know some training that might help with that."
+
+She frowned, "I think I'll be fine."
+
+I opened my dimensional storage and tossed her a green health potion.  Althea caught it with ease, downing it in one go. She wiped her mouth and gasped, "Thanks. I needed that."
+
+I smiled, "Anytime. You ready?"
+
+"Yeah, let's go."
+
+With the conversation over, I pulled us along toward the silver's border. Steel spires rose up on the horizon, mountains of steel looming. Minutes later, we reached the border between Giess and silver. As we did, I set us down on a hill beside a crossfire of the two factions.
+
+A set of elementals smashed silvers attempting to cross the border onto Giess's land. These elementals were floating masses of lightning, ice, and stone. Beside the atronachs, fiery anteaters lashed out with whipping tongues at any Saysha that tried passing the border.
+
+The wildlife worked in sync, keeping the oncoming silvers at bay with razor-sharp efficiency. Inspired by their teamwork, I turned to Althea,
+
+"So I'll head out and clear most of the silvers. You can trail behind and finish off any stragglers."
+
+Althea grinned at me, giving me a salute, "Aye, aye captain."
+
+I turned back to the warring anteaters and atronachs. As I walked up, they turned towards me. Without having to speak, they backed up and gave me plenty of space. As they did, a cluster of engorgs rolled towards me. I cracked my knuckles and grinned as one of them neared me.
+
+I wanted to try something new.
+
+Instead of beating it to death with my fists, I molded my gauntlets into sharpened blades. Using Starforger, I heated the swords until they glowed white hot. With the hot air pluming around my knived hands, I charged mana into my arms. A crimson aura permeating them as I lifted my right arm.
+
+The engorg crashed into me as I sliced down. I rived it in two, each half rolling past me. Its blood hissed, evaporating under the heat. Spiky tendrils of my armor reached out, piercing each half of the engorg's corpse. They siphoned the creature's lifeforce, disintegrating it into nothing.
+
+The group of silvers ground to a halt, each of them unraveling. Some of them even turned around as I paced up.  I kept patient, sharpening my blades by swiping my arms together. Sparks flashed from the edges, illuminating the darkness around us.
+
+I frowned, "Come on, I'll show you what a real monster is."

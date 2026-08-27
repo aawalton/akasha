@@ -1,0 +1,253 @@
+---
+id: 8678be6a-9011-5080-a943-bc5674f3fc21
+page-type-slug: story-chapter-royal-road
+title: "Chapter 628 - More Catching Up"
+slug: 0629-chapter-628-more-catching-up
+partOf: mythrans-master-of-all-continued-completed
+position: 629
+ownLength: 2541
+unit: words
+publishedAt: 2018-07-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/230537/chapter-628-more-catching-up"
+royalRoadId: "230537"
+---
+
+After several minutes of trying to gently wake the succubi, Ren decided that he should let them wake up on their own, rather than trying to use a spell to wake them.
+
+“They are going to be out for a while, I think.” Artemis said. “I was shocked with all the emotions you were absorbing, and I don't have a version of the Emotion Siphon ability.” She said. “I can't imagine what they experienced.”
+
+“I'd say it was similar to what Tiatha went through, except I wasn't filtering for them.” Ren said and chuckled. “The poor things.”
+
+Teepo chittered in laughter. “Yes, the poor things look so sad that they had to go through that.”
+
+“You should have seen them.” Suniva said, and she still looked disgruntled. “They were kissing and touching each other like there was no tomorrow.”
+
+Ren walked over to the headboard and held a hand out to her. “I'm sorry I didn't take into consideration what would happen here.”
+
+Suniva turned her head away. “I don't know what you mean.”
+
+“It must have bothered you so much to have all of this happen in front of you, and you couldn't participate.”
+
+“It didn't.” Suniva denied it, but Ren could feel her emotions.
+
+“I'm sorry that you couldn't join in.” Ren said and used a fingertip to touch her cheek, and he felt a bit of wetness there.
+
+“I could seriously hurt them if I tried.” Suniva sniffed.
+
+“I'd like to offer to make it up to you.” Ren said and pulled his finger away.
+
+“What do you mean?” Suniva asked and turned to look at him.
+
+“I've got to spend some time working on all the new skills and abilities I've gained, so I'm going into my Sanctuary for a while.” Ren said. “Lara's busy doing her own thing, so I can take someone else in with me instead.”
+
+“I...” Suniva turned away. “I can't.” She said. “Not after doing what I did.”
+
+Ren put his hand by her. “I've had a long time to get over that, so I'm not angry anymore.” He said. “Please, come with me.”
+
+“Are... are you sure?” Suniva asked and turned to him. “It just happened, and...”
+
+“You and I aren't bound to each other as I am with Artemis and Teepo. They hurt me badly, and it wasn't fair of me to treat you like that.” Ren said. “Let me make it up to you.”
+
+“Make it up?” Suniva asked and stepped onto his hand. “What does that mean?”
+
+“I'll show you.” Ren said and cast a Portal spell. Another popup appeared, and this time he didn't dismiss it, because he was curious as to what it said.
+
+Notice!
+
+The Portal Gate Network has earned you 143 platinum coins, 63 gold coins, 28 silver coins, and 15 copper coins.
+
+Oh, so that's what all those popups were for. Ren thought and took a non-necklace from his inventory and slipped it over Suniva's head.
+
+“What's this?” Suniva asked and looked at the pendant.
+
+“It'll let you adjust to the time dilation without suffering the effects.” Ren said. “It kind of works like an interrupt for the enchantment.”
+
+“Like an anti-enchantment?” Suniva asked.
+
+“That's exactly what it is.” Ren smiled warmly at her. “Very good.”
+
+Suniva's face flushed red and her Fire element burned hotly.
+
+“It's one of the recipes in Issac's... my inventory book.” Ren said. “So, are you ready?”
+
+Suniva nodded and Ren took Artemis' hand and stepped through the portal with them.
+
+*
+
+“So, how long do you think he'll stay in there?” Dana asked as she peered around the corner of a building that was across the street from the Housing District.
+
+“How should I know?” Her friend asked. “You know just as much about him as I do.”
+
+Dana sighed. “I should have asked for his autograph when I had the chance.”
+
+“Did you bring any parchment paper?” Her friend laughed. “What is he going to sign? Your chest?”
+
+Dana had a contemplative look on her face, and her friend smacked her shoulder.
+
+“You are not going to flash your tits at some guy you barely know!” Her friend said, outraged.
+
+Dana shrugged. “He's the first celebrity I've ever met.” She said. “He wasn't all, 'leave me alone' or 'don't talk to me', was he?”
+
+“No, I guess not.”
+
+“He's got a hit television show, so you know he's got at least some money.” Dana said. “He just maxed his character right in front of us, so you know he's smart and resourceful.” She smiled. “Plus, he's really cute.”
+
+“Being cute isn't a good enough reason...”
+
+“I won't flash him, if that makes you happy.” Dana said, and saw her friend relax. “Unless he asks me to.”
+
+Her friend gasped and she laughed.
+
+“I'm kidding.” Dana said and looked back at the house. Mostly. She thought. Even if it was just a spell, he made me feel really happy.
+
+“We really should head down to the docks and look into that rumor.” Her friend said. “I heard it was an easy quest, especially if you buy that life saving novelty ring.”
+
+“Where do we get it again?” Dana asked.
+
+“According to the message boards, from the store called Master of All, Jack of None.” Her friend said and smiled. “It's his store.”
+
+“Then lets go!” Dana said and grabbed her friend's hand. “Hopefully, we have enough left from the last quest to buy one!”
+
+“I knew that would get your attention.” Her friend said.
+
+“Do you think he made it himself?” Dana asked. “I really hope he did!”
+
+*
+
+“Oh, Ren! Thank you so much!” Lara said as she left her closet after the set time Ren had given her. He hadn't wanted her nearby in case something went wrong, and she had stashed herself away safely in her closet. She received the popup for her maxed level and sat down at her desk, then looked over all the skills, abilities, and spells she now had access to.
+
+********
+
+Clint arrived at the coffee shop with plenty of time to spare, so he grabbed a basic cup of coffee and sat down in a booth with a direct line of sight to the door. He wasn't supposed to meet her for another half an hour; but in his nervousness, he had rushed his shower and gotten dressed in a flash, then drove his big pickup truck right at the speed limit the whole way into town.
+
+Right after he had sat down to wait, much to his surprise, Gwendolyn ran by the large picture windows. His eyes followed her as she skidded to a stop at the door, yanked it open, and ran inside. He watched as she stopped at the counter, slightly out of breath, and ordered up a basic cup of coffee. She paid and picked it up, took a big drink of it, then sighed loudly.
+
+Gwendolyn turned from the counter and started to walk across the room to sit in the booth that had a direct line of sight to the door, then stopped when she saw someone sitting there. She was about to get angry at the idiot for taking her spot, then she realized who it was that was sitting there.
+
+“Clint.” Gwendolyn whispered, her eyes wide.
+
+“Hello thare, little lady.” Clint said and stood up. “Ah've been sittin' here an' savin' tha bes' spot fer ya.”
+
+“Um... I...”
+
+“Ah reckon we both thoughta doin' tha same thang.” Clint said and motioned to the other side of the booth. “Ah jus' got here maself.”
+
+“You did?” Gwendolyn said and walked closer. “Does... does that mean...”
+
+“Ah'm more nervous than a long-tailed cat in a room fulla rockin' chairs, ma'am.” Clint admitted, and that took Gwendolyn's wide eyes away and she gave him a genuine smile. “Ah also didn' wanna leave a beautiful woman waitin' on me, so I showed up extra early.”
+
+Gwendolyn's face flushed red at the compliment, and when she sat down, so did Clint. “Well... um...”
+
+“Seein' as we're both really early an' our official date don' star' fer another half an hour, why don' we jus' yap fer a while?” Clint asked. “We have good coffee and should have good conversation, bu' we're missin' the good food.” He smiled. “If'n you wait righ' here, ah'll git some of tha' fer us.”
+
+Gwendolyn nodded and Clint stood up. “You don't seem nervous.” She said under her breath, but he heard her and smiled.
+
+“Ah'm so scared I'm gonna blow this tha' I'm shakin' in mah boots.” Clint said and reached out and touched the back of her hand. She felt the tremble there, and she blinked her eyes at him. “Ah'll be righ' back.”
+
+Gwendolyn nodded again and he let her hand go and went to the counter to order up something for them to eat. He's as nervous as me! She thought happily, and rubbed the back of her hand where he had touched her.
+
+*
+
+Alice had arrived home and took a shower to clean up, grabbed a quick bite to eat, then went to her bedroom and put on her VR headset.
+
+“I really need this.” Alice said out loud. “Flow Login Start.”
+
+********
+
+Jennifer woke up in her bed in her upstairs apartment of the Pleasure Palace. She got up and equipped her fur bikini, despite not needing it this early, and left the room. She went downstairs and saw several other girls were already there and relaxing in one of the booths.
+
+“Jennifer!” Candy yelled and waved, and Jennifer walked over to her. “You just missed the best feeling ever!”
+
+“Oh? What happened?”
+
+“Ren!” Candy said and rolled onto her back and sprawled out on the small table in front of the booth, which made the other girls laugh. “I don't know how he did it, but it was wonderful!”
+
+“I don't think I ever danced so hard in my life; and damn it, he made me horny!” Apple said.
+
+“You know it was a good feeling if he made Apple horny.” Candy laughed and sat up. “Actually, I kinda am, too.”
+
+“I can't believe I missed it.” Jennifer said sadly and sighed loudly.
+
+“It's okay girl.” Caramel said. “His ban ends on the weekend. I'm sure he'll visit soon.”
+
+“I don't know. That's right before that big fight.” Candy said.
+
+“Do you think Ren will come here first?” Gina asked hopefully, and the others looked at her. “What?”
+
+“He is so not your type.” Caramel said.
+
+“He can become her type, though.” Jennifer said, then slapped a hand over her mouth.
+
+“Oh? What's this?” Spice said and stood up. “How can a cute little elfling become a gruff, tall, and muscle bound oaf for Gina?”
+
+“Hey!” Gina said in a huff.
+
+“Never mind.” Jennifer said and tried to turn away.
+
+“Come on! Spill it!” Spice said and touched her arm gently to stop her from turning away completely. It was a symbolic gesture of restraint, and Jennifer sighed at it's simple and effective use.
+
+“I promised I wouldn't tell.”
+
+“Jennifer, we're all friends here.” Caramel said. “We know more about each other than our boyfriends do.”
+
+Apple crossed her arms and pouted.
+
+“Our significant others, then.” Caramel looked back at Jennifer. “It can't be that big of a secret.”
+
+Jennifer exchanged glances with Gina, who shrugged her shoulders and left the secret firmly in Jennifer's hands. “I really shouldn't say.”
+
+“We can all swear on our sisterhood not to say anything.” Spice said and looked at the other girls. “Can't we?”
+
+The other girls nodded, and Spice turned back to Jennifer with an expectant look on her face.
+
+“All right.” Jennifer said. “Do you remember that day when Santa Claus was here?”
+
+*
+
+Princess Diana had approached the hallway with 2 members of the Stonemasons Guild, and stopped walking when she heard the voices of her parents talking. She had ushered the workers back around the corner and crept up to the side of the hole and listened.
+
+“He's done.” Lady Eleanor said and relaxed. She had been a bit tense after that monster ram had broken through the wall, and now she didn't feel Ren's presence anymore.
+
+“Yes.” Her husband, King Alamast said. “I can't feel his Aura anymore.”
+
+“Are you still angry, My Love?” Lady Eleanor asked, and he sighed.
+
+“Yes, but you're right. There's no point to it.” King Alamast said and sat down. Lady Eleanor walked over to him and sat down on his lap. He looked at her with wide eyes, and she smiled.
+
+“It's times like these that I see you are a man deeply in love with me.” Lady Eleanor said and gave him a chaste kiss. “I never appreciated how much that would mean to me when things became difficult.”
+
+“Difficult?” King Alamast chuckled. “I almost lost the entire kingdom, twice, and that didn't bother me at all.” He said. “When you fell ill, I realized that everything else didn't matter. All I wanted was for you to get better.”
+
+Lady Eleanor gave him a stronger kiss this time, and he put his arms around her.
+
+“Everything that has happened since has always taken a back seat to your welfare.” King Alamast said, and Lady Eleanor rested her head on his shoulder. “If I can't protect you, then I can't protect anyone.”
+
+They were both silent for a few moments, then Lady Eleanor spoke.
+
+“That's why you are so upset over him.” Lady Eleanor said and lifted her head. “You don't need to be.”
+
+“What do you mean, need to be?” King Alamast said with a smile. “He has formed a bond with you that I cannot touch.”
+
+“Then we will ask him to either release me, or bind us together.” Lady Eleanor said to his surprised face.
+
+“I... I can't let myself be... branded.” King Alamast said, and immediately regretted his words. To his surprise, Lady Eleanor laughed.
+
+“It is a mark of survival, not a brand.” Lady Eleanor said. “That's why it's a skull. It's the Ghoul-Kissed mark, not the Ren-Kissed or Ren-Owned mark.”
+
+“I... I'm sorry, I misspoke.”
+
+“I know how you can make it up to me.” Lady Eleanor said and smiled wickedly.
+
+“My Love?” King Alamast asked.
+
+“Exactly.” Lady Eleanor said and kissed him passionately.
+
+Diana crept back down the hallway and went around the corner. “It seems the job is not as immediate as I thought it was.” She said. “Can you come back in an hour?”
+
+“Of course, Your Highness.” One of the men said. “We would be honored.”
+
+“Thank you.” Princess Diana said regally and took out two silver coins for them.
+
+“Thank you, Your Highness!” Both men said and quickly left.
+
+I hope they'll be done in an hour. Diana thought, then shivered at the thought of her parents having sex. Maybe I should have interrupted them. She sighed and walked down the hallway to her own room to wait. She thought back over the events of the day and she sat down on her bed. The glass castle model Ren had made for her sat on a custom made pedestal, and she smiled as she remembered what had happened when he had delivered it.

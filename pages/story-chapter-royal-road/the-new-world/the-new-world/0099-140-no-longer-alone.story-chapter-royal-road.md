@@ -1,0 +1,95 @@
+---
+id: b998d26f-fee6-5cd1-a36d-fe5a698d35cc
+page-type-slug: story-chapter-royal-road
+title: "140 No Longer Alone"
+slug: 0099-140-no-longer-alone
+partOf: the-new-world
+position: 99
+ownLength: 1655
+unit: words
+ownProgress: 1655
+publishedAt: 2018-08-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/242681/140-no-longer-alone"
+royalRoadId: "242681"
+markedReadAt: "2026-06-29T21:24:16.010Z"
+---
+
+The eldritch charged towards the breakers. Yawm commanded them earlier. My mana only enraged them. As the eldritch rushed against them, I turned towards Yawm. I pulled in my armor and leaped towards him with a burst of mana. The red tumor spreading from his neck had covered over half his face.
+
+Yawm stared at me with the one eye he had left. I gritted my teeth, sighing with frustration before lifted my hands. I slammed them against Yawm’s neck, piercing into the bloody tumor. I drilled my armor into the fleshy mass, sapping its strength. The assassin’s blade was coated in some kind of eldritch poison. I was the man to save Yawm from it.
+
+With a surgeon’s precision, I eliminated every ounce of the infestation from Yawm. I pulled my hands away from Yawm, his green blood soaking into my armor. His one eye widened in disbelief. I didn’t know why I wanted to save him. In all honesty though, Yawm was my friend. As much harm as he’d done, he didn’t deserve to die.
+
+Not like this.
+
+All the leveler's capping out to level 12,000 wouldn't be very helpful either. I turned away, the bullet of a sniper piercing into my chest. I sighed again, realizing this wasn’t enough to stop Yawm’s death. I put my palms over him, extending and wrapping my metal skin around him.
+
+Like a thousand black vines covering him, I encased him in an umbral sheath. I lifted him, tossing Yawm into the broken window of a skyscraper for cover.
+
+It was the best I could do for now.
+
+With Yawm healed and covered, I turned towards the Breakers. They dispatched the horde of beetles and abstractions with ease. Before they eliminated the horde, I rushed into the mess. The rush of mana flooded into my system, like liquid power. I pumped that energy through my veins as I reached Brim.
+
+He spun like a whirlwind of death. He slew a dozen eldritch with his energy spear as he positioned himself between me and Frode. Above him, Elessah floated and held the abstractions back. Frode set up mines and other traps around them, his back to Brim.
+
+I raised a hand right as Elessah shot out an arcane spell at an abstraction. Her antimagic failed to target me, letting me unleash a wave of gravitation. A wave of gravity crushed Elessah to the ground, her staff snapping in two. Frode eyed me, and he opened his dimensional storage.
+
+Brim sliced his spear towards me, and I raised both my arms towards Frode. A gravitational stream redirected Brim’s attack, making his spear slice at the ground. With an antigravity and gravity well, I sundered Frode’s arm from his body. The enigmatta choked out a scream, his dry, green skin and anglerfish mouth crinkling up.
+
+Brim roared in rage and wrath, spinning his spear towards me. He overpowered the gravitational stream this time, but I ducked under his strike. As I stood up, I let loose a monstrous uppercut. Detonated runes, waves of gravity and antigravity, every tool at my disposal amplified my attack.
+
+My punch shattered the rejuvenated mirrors across Brim’s face. A dagger stabbed into my back, slicing down my spine from behind. The damn assassin Breaker recovered from me killing her. Elessah must have cast a few spells.
+
+As the dagger slit down my spine, mana rushed in, healing the wound as she created it. I swung my fist back, but the assassin ducked down, slicing at my armpit. She cut arteries and armor alike, but I lashed out a wave of gravity towards her. Nothing happened. Elessah nulled my magic once more.
+
+I grit my teeth, using the gravity on myself instead. The remnant assassin struck at my neck. I pulled myself back, dodging the strike. As I did, I kicked upwards at her side. She ducked again, deftly dodging my kick. A wave of gravity stopped my foot in midair, and I swung it down at her.
+
+She stabbed my groin, but my heel broke her back. Like a guillotine, my leg cleaved her spine apart. Brim’s spear stabbed across my throat, leaving my head hanging on by a thread. With an unnatural movement, I shot a wave of gravity at my back, shooting me straight forward.
+
+I took the blade out of my neck without cutting any deeper. At the same time, I dodged an explosive bullet sent by the mystery sniper. I lifted an arm, wedging a layer of the road beneath us upwards. A slanted chunk of earth lifted between me and Brim, leaving me alone with the assassin.
+
+With the assassin lifted up, she tumbled down the patch of pavement towards me. I grabbed her throat with my hand. Brim charged through the crag of ground towards me. I sent myself sideways, dodging a pillar of yellow light once more. A one-armed Frode tossed a grenade towards me.
+
+The grenade shot out a thick, orange jelly onto us both. I slipped on the mush, falling backwards. Brim charged past me, grabbing the assassin. Even as I squeezed down, the jelly let her slip out of my grasp. A beam of yellow light rushed over me as a bullet whizzed right towards my skull.
+
+I already had a grasp on the sniper’s timing and location, however. With a meteoric burst of mana, I created an intense gravitational field beside me. A bullet skimped into the ground beneath my head, saving my life. I already discovered the weakness of Elessah as well. She could stop magic on others.
+
+She couldn’t stop my magic on me.
+
+I sent out a wave of gravity, slipping me out of the jelly and yellow beam of light. I rolled across the ground in a clumsy mess. Brim shot towards me like a silver bullet. My immense endurance let me get back my stamina, so I stood up. I faced his charge head-on.
+
+I raised an arm, blocking his arcane spear. It sliced through the bone of my forearm, but it didn’t amputate the limb. With my other arm, I whipped a slicing hook into his stomach. I pulled my arm back as he keeled over yet again. I wrapped my good arm around his neck.
+
+I had him in a headlock. I jerked upwards with all my strength. This move leveraged all his mass against his neck, breaking it. I let him fall back down on his feet. I wrapped my arms around him, flinging him backwards into a german suplex. His head smashed into the ground, cracks radiating through the destroyed city square.
+
+I kicked off my feet, flinging myself upwards. As I did, I crossed my arms in front of me. The assassin sliced into my forearms, aiming at my neck. I frowned, not knowing if she had a revival left. I’d fight as if she did.
+
+She whipped out three rapid sliced at me. I deflected one, the other strikes slitting my wrists. Her injuries, while deft and precise, did little against me. My regeneration outpaced the damage she dealt. With that in mind, I charged forward with a quick jab. She dodged and slit her knife down my arm.
+
+We pressured each other, each of our strikes compact and dense. Unlike with Brim, the assassin’s technical skill made her hard to hit. If I reared back my fist, she’d slit my throat before I knew what was happening. With that in mind, I gaged the timing of her hits, getting an understanding of her rhythm and attacking patterns.
+
+I kept mixing my attacks up, alternating the speed and angles. Some of my strikes involved waves of gravity. Some involved tendrils of my armor. Others involved telekinetic pulses. As I intermingled those three patterns of attack, I overwhelmed the assassin.
+
+I landed three clean strikes against her side. She slowed down, the body damage stunting her stamina regeneration. I aimed for that, letting her attacks graze me. If I stopped her damage completely, she might run. Like this, she’d stay longer and let me get off more damage.
+
+After a minute of this fighting, I dashed backwards while she reached out at my throat. At the same time, I clocked a weak left hook into her jaw. This rattled her brain, making her stumble.
+
+I hurt her.
+
+Scrambling forward with a wave of gravity, I dashed forwards, capitalizing on her mistake. A bullet pierced through my knee cap, causing me to fumble. I stabilized with gravity, but a grenade from Frode blinded me and left me deaf. I felt my way with gravity, but the sudden shift left me groggy.
+
+The assassin slit my wrists, ducked under a wild strike of mine, and cut my throat. After three more slices, I fell down, my tendons ruptured. Before I healed, she raised her dagger over my head. The dagger extended as she forced it down towards my eye socket.
+
+Before the blade entered my brain, Althea appeared beside me. She roared as she whipped her hand up, deflecting a bullet from hitting me. With her other hand, she grabbed the assassin. The remnant gasped at Althea’s hold, the remnant's arm breaking,
+
+“Who are you?”
+
+Althea answered by waving her hand through the throat of the assassin. Her hand slit down through the bone, lopping the assassin’s head off. I pulled in a patch of Event Horizon, taking it off of Althea. Althea stepped forward, her free arm deforming into a mass of claws and muscle.
+
+The reformed arm squashed the assassin down into the road below us. The force of the strike mimicked the might of Yawm, ushering forth a shockwave. The assassin’s body pulped under the raw power. Althea turned towards me, her face covered in the blood of the remnant.
+
+She gave me a smile sweet as sugar and deadly as venom,
+
+“I missed you.”
+
+I grinned back, “I missed you too.”

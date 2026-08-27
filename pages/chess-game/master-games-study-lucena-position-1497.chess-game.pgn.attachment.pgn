@@ -1,0 +1,13 @@
+[Event "Study - Repeticion de Amores y Arte de Ajedrez (Lucena, 1497)"]
+[Site "?"]
+[Date "1497.??.??"]
+[White "Rook and pawn"]
+[Black "Rook (Lucena position)"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1K1k4/1P6/8/8/8/8/r7/2R5 w - - 0 1"]
+[Collection "endgame-classics"]
+[Lesson "Rook endgame: the Lucena position - the winning method: drive the king off, then build the bridge with the rook on the fourth rank"]
+[GameId "study-lucena-position-1497"]
+
+1. Rd1+ Ke7 2. Rd4 Ra1 3. Kc7 Rc1+ 4. Kb6 Rb1+ 5. Kc6 Rc1+ 6. Kb5 Rb1+ 7. Rb4 1-0

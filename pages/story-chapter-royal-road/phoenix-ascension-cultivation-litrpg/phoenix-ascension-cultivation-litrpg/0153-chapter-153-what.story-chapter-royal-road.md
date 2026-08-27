@@ -1,0 +1,163 @@
+---
+id: fe1c6f48-5405-5072-9bb7-e792a7bc2d34
+page-type-slug: story-chapter-royal-road
+title: "Chapter 153: What..."
+slug: 0153-chapter-153-what
+partOf: phoenix-ascension-cultivation-litrpg
+position: 153
+ownLength: 1819
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3713691/chapter-153-what"
+royalRoadId: "3713691"
+---
+
+“This one’s name is Pei Hua.” She introduced herself to the elder, though I couldn’t help but wonder where she’d gotten that trace of a bloodline from.
+
+I knew that you could get the bloodline of a species if your ancestors mingled with the other races, but it was so faint it was barely there. Could she have used essence? Even then, it seems a little hard to believe.
+
+Did she have some sort of opportunity? I was really interested in knowing just to sate my satisfaction. It didn’t really matter overall, though, but it was still good to look out for any source of Phoenix essence.
+
+I knew that my father was somewhere north, but I still didn’t know where north exactly. If I could get an exact location of his whereabouts it would be better. Though just finding any Phoenix would be good.
+
+I wasn’t sure how the egg reincarnation cycle would work if the Phoenix had forcefully burned their life force to escape. I was sure it wasn’t something that uncommon, but it was still better to make sure.
+
+At the same time, I could also speak my mind to him for abandoning Mother. If he hadn’t left then I was sure that that Nascent Soul Old Bastard wouldn’t have dared do something like that.
+
+At the same time, I was worried my actions and whatever happened in my dantian would negatively affect Mother. They didn’t affect the Little Emperor in any negative way, so maybe it would work out?”
+
+“Oh, amazing. It went up past the middle point!” Excited voices around me pulled me out of my thoughts, and I looked toward the stage. There, I saw that the stone stele, which had ten levels to it, lit up all the way to six.
+
+That was a pretty good score, just above average, unlike Fah Xing who’d done below average and also cracked her bones.
+
+I would not like to be in her position right now.
+
+With Pei Hua having passed and me taking note of her, more and more passed. I was toward the end of the queue, which was fine. I could get plenty of information about my oponents that way and could also figure out where I should average my strength.
+
+It seemed that there were a lot of less than strong candidates this year though. About one third of the contenstants couldnot reach half way through the stele, and another third barely reached the sixth level. It was honestly quite a sorry spectacle.
+
+That changed when someone dressed with a blank, black hanfu and whose face seemed to be drowned in mist walked up. He didn’t bother to present his name, opting to walk straight toward the stele.
+
+He stopped, took a deep breath and pulled his fist back.
+
+In that moment, I felt that something had changed in the air, and the Qi around his fist got sucked in.
+
+He was using a technique to punch at the stele, though it was subtle.
+
+The elder didn’t say anything about not using techniques though, and using Qi is a technique in and of itself. I couldn’t help but nod, as even I hadn’t thought of that.
+
+However, whatever he used, it wasn’t a powerful technique, but merely a simple punch.
+
+When he was ready, and actually struck the stele, I saw the Qi focusing rapidly around his fist, becoming like a shield between his fist and the stele.
+
+When the colission happened, it exploded with a powerful force that made the heavy stele that required many elders to carry it shake. It lit up, shooting past the middle point and only slowing down after going past the sixth increment.
+
+It eventually stopped at the seventh, the highest one we’d seen so far.
+
+I was quite honeslty impressed. It wasn’t everyday that one could see such impressive display of Qi control from a junior.
+
+It was obvious from the elder’s expression that he was quite pleased as well.
+
+However, the next few contestants weren’t doing all that well. Some reached the fifth level, but not many.
+
+However, it seemed that everyone worth something had the same plan as me, and stood behind to evaluate everyone else’s strengths.
+
+The next disciple that went up was one of the twins, the man, who presented himself then turned toward the stele with a resolute expression.
+
+He closed his eyes, and Qi swirled around him as he focused on the attack. His twin also closed her eyes at the same time, and it was a little bit obvious what they were doing.
+
+However, It wasn’t against the rules.
+
+When he punched seemingly without any technique, the stele didn’t shake, but it lit up rapidly, eventually stopping mid way through the sixth and seventh stele.
+
+He let out a disappointed sigh and bowed to the elders, then left.
+
+Next up was his sister, who had a very similar performance to him. That did make me wonder if their strength would double when acting together or would it be a lesser multiplier.
+
+Either way, those performances were pretty good from what I could see. Part of me was wondering if the tenth level was meant to be atatined in the first place.
+
+No one had reached the eight either, which was strange.
+
+Maybe the next one would change that. A young man that looked to be in his twenties waring a dark red robe with the symbol of a rock on his walked made his way toward the arena.
+
+As he walked up, it was obvious that he wasn’t human. At least, to my senses. On the outside, he looked like a completely normal human, but I could detect a very strong Spirit Beast bloodline from him. It wasn’t a trace and neither was he beastkin.
+
+No, he was like me, a Spirit Beast disguised as a human using a skill.
+
+Sadly, his skill wasn’t as good as mine, but perhaps good enough to fool the elders. Maybe not the patriarch… I couldn’t be sure.
+
+One thing that was obvious was that he wasn’t using much Qi, if at all. Instead, the guy walked up to the stele and only used his strength. Punching it as hard as he could, the rock lit up all the way to the seventh level.
+
+Proud of himself, he walked down, and another person wearing a similar robe to his walked on. He was also a Spirit Beast, which was interesting. Was their clan one made entirely of non-humans? Maybe they knew something about what the others two were talking about.
+
+The second Spirit Beast had a lesser performance, though, landing somewhere between six and seven.
+
+He wasn’t as happy about his score, but it was a good one. So the average for the strong people should be around there.
+
+There weren’t that many people left, with the people from the main sects doing well above the total average.
+
+Finally, there were only two people left. Peng Li and I. He was the first to walk up, since I was quite literally the last.
+
+To give him credit, he did glance at me briefly, perhaps measuring me up. After all, I was the first one to break out of the illusion disk, so he probably saw me as a rival.
+
+My performance would decide whether or not I was going to be a threat.
+
+Sadly, I wasn’t planning on being anyone’s rival, as all I wanted were resources and opportunities.
+
+Anything that could help me break through into the Foundation Establishment Stage.
+
+Peng Li walked up and didn’t bother to greet the elder. For some reason, Peng Li’s disrespect specifically made the elder frown. Although it was probably some sect squabbles I didn’t need to care about.
+
+He pulled his fist back and took a deep breath. A lot of Qi gathered around him as he circulated some simple technique, not too dissimlar to what the mist-faced man did.
+
+When it was time to strike, though, instead of using the Qi as another layer of attack, he’d used it to accelerate his fist and protect his bones at the same time.
+
+That was a pretty good use of Qi as well, and it was obvious that the elder from before hadn’t expected something like that to happen. His pupils widened slightly before returning to normal.
+
+Then, he looked really disatisfied.
+
+I couldn’t help but grin a little, just because it was a little funny.
+
+The stele lit up, shooting past six, seven and eight, landing firmly on the ninth level of the stele.
+
+Everyone present broke out into either whispers or chatter, discussing the results with shock. He was the first person to have reached the ninth level of the stele.
+
+Peng Li looked quite proud of himself, and for good reason.
+
+He cupped his fists toward the elder, then jumped off the stage, and shot me a challening look as well.
+
+I rolled my eyes inwardly and pretended to have not seen that, then walked up.
+
+People’s whispers changed a little, but that must have been because they were interested in my strength, since I’d broken out of the illusion first.
+
+I’d thought about it, but I wasn’t sure how to tackle it. I could use Qi, or my phisical body, or both. Though I wasn’t sure how much I would need to hold back.
+
+I doubted they had anywhere close to my stats despite the fact that they were well into the Qi Condensation stage.
+
+[Strength: 2071 + (100)]
+
+My strength alone was well into the two thousands… I was afraid that whatever I did to the stele, it would break. It wasn’t really the best of results, so I had to be careful and to hold back.
+
+Howerever, how much exactly…
+
+Ah well, no matter what I did, my spot would be secured, so going just a little above average should be fine.
+
+With that said, I pulled my punch back just a little and lightly tapped the scale.
+
+…At least, I thought I did.
+
+When my fist touched the stele, the entire thing shook, leaning back, and almost falling from the inbalance. It took one elder to use his Qi to stabilise it, and another to make sure it didn’t fall over on the other side.
+
+I gave Meng Mao a brief look, but his eyes were ashen.
+
+I’m sorry… I truly mean it this time…
+
+My thoughts were quickly attracted by the stele, that slammed down with a powerful thud, and it lit up shooting past five, six, seven and eight, slowing down a little on the ninth level and finally stopping on the tenth.
+
+Everything went quiet, not even the wind seemed to be blowing anymore.
+
+When I looked at the elder, I saw his jaw dropped to the grown, eyes wide and expression of disbelief on his face.
+
+Then, he muttered a single word.
+
+“…What?”

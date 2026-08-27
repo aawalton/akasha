@@ -1,0 +1,325 @@
+---
+id: 72bae226-d0ae-507c-8a8c-d84a4c26f528
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED EIGHTY-SIX: Worlds"
+slug: 0188-one-hundred-eighty-six-worlds
+partOf: super-supportive
+position: 188
+ownLength: 4778
+unit: words
+publishedAt: 2024-11-28
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1928494/one-hundred-eighty-six-worlds"
+royalRoadId: "1928494"
+---
+
+186******
+
+Alden ended up sleeping another night at the cottage and returning to Earth on Wednesday morning. As soon as he stepped out of Matadero’s teleportation chamber, he ran into a wizard in emerald green who asked him for his opinion, as a human, on housing design. Specifically ceilings—how low was too low?
+
+Thrown for a loop by the randomness of the question, Alden said that humans preferred not to have their heads bumping into things. Then, he suggested that the inquirer talk to whoever would be living in the new building. Hopefully, the Artonan would listen to that last part more than the first. Alden didn’t want to be partially responsible for the creation of an apartment complex that was hostile to tall people.
+
+Rapport I, Matadero, Celena North, he thought. A rotating set of places that are all new to me. I’m a vagabond who can’t even stick to one planet, so I definitely shouldn’t be consulted about other peoples’ home construction.
+
+He wanted to get back to steadier and more predictable sleeping arrangements, but not enough to focus on it right now.
+
+Thanks to his experience on the inward path, he had some fresh positivity and a concrete goal that neatly matched what he’d told both Neha and Stuart he wanted out of life right now. More disaster-proof than I was when the System went down that day. I want to be able to use my magic to protect myself and stay alive, and I want to know there are some people out there who are better off because I lived.
+
+Proving that the person who he was now could save himself and Kibby sooner was so exhilarating that he wanted to call all his friends and tell them he was trying to do it. The only reason he wasn’t already getting into the nitty gritty of it with Boe and Jeremy was because he had calmed down enough to realize that his plans to go on an extended cross-moon camping trip with an Artonan child and kill a demon—in his dreams—went beyond the realm of quirky interest into unique personal obsession territory.
+
+He’d roped Stuart into it, but at least demons and chaos were relevant to Stuart’s own future. Nobody wanted to hear about the hour Alden had already spent researching the nutritive value for humans and Artonans of a bunch of different foods that had been stored at the lab. Pink rice was really healthy. He’d feared poison, in that case, for no reason at all.
+
+Flood Trap 2, he thought, as he passed the sign on the wall that labeled this section of the cube as such in multiple languages. I wonder how many ways Matadero has to kill a demon.
+
+There was a point Stuart had made during their planning session, when Alden was insisting he wanted to destroy the demon with his skill—magic wasn’t the only way.
+
+He had pretty much known that. The demon bugs did “die” eventually. Ones that hit bodies or magical objects were more likely than not to disperse immediately, but all of them had been gone from the area around the lab long before the end.
+
+“Reality has strength,” Stuart had explained. “Because you and I don’t have a full <<cache of nuts>> or time to gather more, I’ll speak only of demons. Simple, unintelligent ones like the bokabv we’ve been imagining.
+
+“The chaotic effect of the demon damages reality, but that damage isn’t always beneficial for it. And it doesn’t make reality unable to impact the demon. The creature probably requires air. It probably still runs on the ground. I suppose it wouldn’t be impossible for a demon that once existed as a bokabv to fly, but it’s very unlikely. And many of the things that would kill a bokabv may still kill the demon, as long as they make it through the chaos that accompanies it.
+
+“Do you understand what I mean?”
+
+Alden did. Flood Trap—a nonmagical way to kill demons that can’t survive in an Earth ocean.
+
+Stuart thought that encouraging the demon to hit an object Alden was shielding was a bad idea. He thought Alden would agree with him after he figured out a few bokabv-equivalent spells to launch at him. So they would be planning other ways, too.
+
+Kibby will definitely be on-board with other ways.
+
+He’d already gotten a reply from her; speedier communication was one of the perks of staying at the art’h house. She was interested in being included in his dream planning process, and he could already tell she wanted him to re-bomb the lab. She’d dropped a couple of hints about how no weak demon could survive such a large explosion, and why didn’t they just lure it there? He was sorry he’d needed to drop a couple hints of his own when he replied, to remind her that she ought to avoid showing too much glee about the destruction of a bajillion-argold research facility.
+
+I’ll make it up to her when I see her in person. But she’s definitely been getting a little more feral since she’s been hanging out with Kraaaa, hasn’t she? He didn’t mind, but he would have thought her new instructor and the Quaternary would outweigh griveck influence.
+
+He headed upstairs and met Porti-loth on the way. The healer thought an elevator was a fine place to discuss a person’s private medical matters. Things like: Any sign of my mud potion still affecting your digestion? There should be a few signs if you pay close attention.
+
+What does Yenu-pezth think of your mind? Did you talk about me with her at all? Why not?
+
+And what happened to your bag?
+
+“My friend’s pet ryeh-b’t happened,” said Alden. Porti-loth was standing in the way of the elevator door so that it wouldn’t close and cut off their conversation before he’d gotten all of his curiosities satisfied. “She keeps scratching it and biting it, and then he repairs it for me.”
+
+Porti-loth looked up at him over the rims of his spectacles for a long moment. “Interesting friend.”
+
+Alden didn’t know what to make of that comment, so he just nodded.
+
+“Did you see the ship?” Porti-loth seemed to feel absolutely no need to let the elevator go about its business.
+
+“Ship?”
+
+“The one being built near the Grove of the Thoughtful outside Vethedya.”
+
+So he’s familiar with Yenu-pezth’s House of Healing. I wonder if it’s ranked, like schools are on the Triplanets.
+
+“I saw the Sdyelis Branch,” said Alden. “It’s very large.”
+
+“Do you think I would like it?” Porti-loth asked.
+
+Before Alden could reply, the healer answered his own question. “I don’t think I would like it. ‘Better than other ships for your work,’ they say. ‘Maybe you should try it out for a while once it’s finished! You could always change your mind later.’” He huffed. “That sounds like a trap.”
+
+“Someone’s trying to persuade you to work on the Sdyelis Branch?”
+
+Alden supposed he shouldn’t have been surprised to hear that, since Porti-loth was connected to Esh-erdi and Lind-otta. They would be joining the campaign to reopen the way to that chaos-stricken part of the universe. A good healer who worked well with knights would obviously be invited to travel along.
+
+“Not persuade,” Porti-loth said. “Trick.”
+
+Alden nodded in understanding. “Esh-erdi.”
+
+“Him!” Porti-loth scoffed. “He couldn’t trick me up a wevvi tree. Lind-otta is the danger. So respectable. So wise. She makes you feel honored to be invited up to the roof to discuss the future with her, and then she says the spaceship might be almost as good as a planet. That isn’t true. She knows it. I know it. Maybe even human adolescents know it.”
+
+“If I had to pick comfortable planet or comfortable spaceship for a long stay, I’d pick planet,” Alden agreed.
+
+“The problem,” Porti-loth continued, “is she says try it ‘for a while.’ When I get out there, how do I leave? I will come to know all of my patients. Many of them are like those two, and they’re staying. One day I’ll look behind me and realize I haven’t seen a real healing grove in nine of the Mother’s years!”
+
+He looked at Alden like he was waiting for a reply.
+
+“Traveling on the campaign’s oasis ship for years would be a difficult decision,” Alden said, hoping that was a suitable response.
+
+Porti-loth sighed. “Only one person in the whole building is safe and not annoying to talk to about this, and he hasn’t even watched Kwoo-pak yet.”
+
+“I’ll watch an episode tonight! I swear!”
+
+Porti-loth shook his head. “Don’t swear oaths about Kwoo-pak. It’s not that serious. Go to school.”
+
+They looked at each other.
+
+“I can’t,” Alden said finally, “until you let go of the elevator door.”
+
+******
+
+******
+
+On the flight to campus, Alden checked his inbox and told himself that receiving over a thousand messages since he’d last looked wasn’t frightening. As was his usual habit, he focused on communications from the growing list of people he actually knew and left the rest of it for another day. Although that cut the number down to a more manageable size, he still had to field texts that ranged from Jeffy sending him a string of confusing emojis before inviting him to cook a vegetable of his choice on the next episode of “My Grandpa Shows Us How to Grill Right,” to Vandy telling him she was forming study groups for finals starting now, to Lexi warning him that the news about his commendation from Alis-art’h had, at last, found traction at school.
+
+Alden would have realized that anyway, given a few of the other messages.
+
+I could turn around and hide at the cube some more. Big news is happening every couple of days. I can just wait for Aulia Velra to announce she’s going to take over the country or move her whole family to Mars, and they’ll all be distracted again.
+
+He resisted the idea because he wanted to say hi to his roommates, attend MPE, and manage whatever it was his classmates thought about him…as well as he could.
+
+He scrolled through several more messages until he came to one from Principal Saleh, asking him to call her when he had the chance.
+
+Why does hearing from the principal make me feel like I’m in trouble when I haven’t even been here?
+
+After trying to come up with reasons why eight thirty in the morning might be a bad time to call, he admitted defeat and asked the System to connect them.
+
+Lesedi Saleh, dressed in a sharp suit and putting away a laptop by shoving it through the top of her desk, answered. “Alden.”
+
+“Hello. I got your message. I’m on the way to campus now. I did miss some more classes than I expected to, but I haven’t been on Earth, and I was told that was an excused absence.”
+
+“It is. I’m not sure why you’re confessing like you’ve committed a crime. I hope your trip went well?”
+
+“It went great. I’m seeing a slightly prestigious healer there, so I can’t ask her to work around my schedule. I’ll be missing some more days, but I’ll take care of all my homework, and—”
+
+“And you’re still confessing,” she said in an amused tone. “You’re really not in any trouble. I asked you to call me because I wanted to mention some media requests that have come through the school and talk to you about how you’d like to handle them.”
+
+He winced. I would like to not handle them.
+
+She looked like she knew what he was thinking. “We can say you’re currently focused on your education and recuperation, which doesn’t leave you time for interviews. That’s an option—a good one, if you want my advice. But considering how things seem to be going for you, you should probably talk to someone who specializes in image management sooner than the average student. If you don’t want to take advantage of the university’s advisement services, there are private options.”  She paused. “Please understand that I’m not saying you need to craft a hero persona in the near future. If someone tells you that you should, I would hesitate to listen to them.”
+
+“That’s very, very far from my thoughts,” Alden said.
+
+“Probably for the best. Find a faculty member you trust if you do want to talk about it. For now, I think you might want to acquire some assistance. Someone to help you sort the nonsense so that you don’t miss any opportunities you might really find worthwhile. I’m not sure if you realize that people have been trying to get in touch to see if you’d like to do a few events with members of the hero team in your old hometown?”
+
+Alden stared at her. “Like…in Chicago with them?”
+
+“The request isn’t firm, so don’t count on anything. They want to talk to you and present some possibilities. If you’re interested, and, to be frank, if everybody else who would be involved continues to like the idea, then it could turn into a rare chance for you to spend more time with family and friends than you’d usually be able to manage.”
+
+I want to do that! thought Alden. And also, What kind of things do I have to agree to if I want to do that?
+
+“No excitement yet,” Principal Saleh cautioned. “It’s just feelers at this stage, and there are some unusual tensions right now that will probably delay any offers they might make. But you might want to answer their emails.
+
+“And one final thing—I wanted to talk to you about taking Artonans on campus tours.”
+
+“Esh-erdi wanted one,” Alden said.
+
+Her lips quirked. “Then he can have one. Of course. But the next time something like that happens, maybe make a quick call or text me. Or someone else who represents the school. I’ll give you a few names…”
+
+Alden soon got the impression that Principal Saleh really didn’t care, but someone, somewhere was definitely freaking out over the fact that he and Haoyu had shown Esh-erdi bathrooms and introduced him to Cappuccino Girl instead of whatever it was you were supposed to do when you took knights around to see the sights at Celena North.
+
+“We were going to take him to the MPE Building and show him the gym. Only we didn’t want to mess up anybody’s practice time without warning.”
+
+“It would be best to give advanced notice of that, too, if you can. Nobody reasonable is going to ask you to manage a wizard’s schedule, but if you tell people you’re on the way, we can stuff skeletons back in closets and present ourselves as well as possible.”
+
+Alden was of the opinion that Esh-erdi would prefer to play with all the skeletons, but he agreed to try to text her if they had another tour.
+
+“That’s all I have to bother you with, Alden,” she said at last. “Is there anything you wanted to talk to me about?”
+
+“Not that I can think of.”
+
+“Thank you for your time, and have a good day. Your MPE class might be rowdy this evening.”
+
+“Rowdy?”
+
+“Have fun with it.”
+
+******
+
+******
+
+…but if you’re not sure about the rest of it yet, our heroes would still love to have you join them in their suite at Wrigley Field on a game day. Everyone always has a great time.
+
+Please know that I speak for Skiff, Ursula Gotcha, Howl Hawk, and Sharon when I say we’re all glad you’re back on Earth, and we hope to get you back to our Chicago!
+
+Looking forward to hearing from you,
+
+Baxter Washington
+
+Lead Hero Assistant
+
+Department of Superhuman Affairs and Events
+
+Alden was skimming the email for the fourth time while he stood in front of Garden Hall and directed the Nine-edged Son toward his favorite parking spot on the roof. They really are inviting me to come back home. Well…to come show myself off to the city a little.
+
+He was trying to tamp down his excitement and think it over critically. Judging by this first email that had been sent weeks ago and a follow-up that had come just a couple of days past, there was no specific request they expected him to fulfill. Not one that they were telling him about yet anyway. In fact, Baxter Washington did a flawless job of making it sound like the whole trip was just the right and natural thing for the city and the hero team to do, no strings attached. After all, Alden had been whisked away unexpectedly. He’d missed the final months he was supposed to have saying goodbye to friends, family, and the famous Peanut—a giant outdoor sculpture that Baxter very seriously called More Than One World, even though Peanut was everyone’s favorite name for it.
+
+But the trip’s not just for me. My name being in the news brings the Body Drainer massacre back into the news, which means if I wanted to risk ruining my day, I could poke around the internet and find a few people wondering why the Chicago heroes aren’t looking out for me now or talking about how I must hate them and the city.
+
+Yeah…that does put it in perspective.
+
+A picture of Alden enjoying a veggie dog at a baseball game with the current hero team was probably some kind of publicity bullet designed to lay that tragic zombie to rest.
+
+The thought dimmed his eagerness. Only a little, but it was enough for more ruthless truths to skitter out of the corners where they’d hidden as soon as he’d read Baxter’s assurance that any trip arranged through his department wouldn’t count against Alden’s annual allotment of personal visits.
+
+No trouble at all! Just a few forms exchanged and rules agreed upon with Anesidora, and he could hop right over and spend a week with Connie and Boe.
+
+But while they might let him have a week that felt like a vacation, wouldn’t it really be more of a trial period?
+
+Even though there were no specific terms for this proposed trip, Baxter did suggest some things Alden might like to do—a visit to his old school, joining Sharon for her Hour of Song, going on a training run with Howl Hawk, or getting a behind the scenes look at the making of a Skiff Says episode. It all sounded optional, this time. Not much pressure, this time.
+
+There’s no reason for them to give me a next time if I’m not willing to perform. So even the first trip would have to be treated like…a job, right? If I don’t sing with Sharon or smile for a camera, if I don’t come across as likable, the opportunity disappears.
+
+He felt nervous suddenly. He didn’t know why.
+
+While he headed upstairs with his suitcase in hand, he tried to blame it on the obvious culprit. If you were nervous after finding out that someone wanted to take publicity photos of you, maybe you just hated the idea of being famous even more than you’d realized. It made some sense.
+
+I mean, okay…so I don’t want to go back to my old school and have someone record me reminiscing about my locker combination. It’s no big deal, though. It’s still a huge win. I spend an hour walking the halls and saying hi to teachers with a film crew or whatever it is they want me to do.
+
+And then they let me hang out with Aunt Connie for the rest of the day, right?
+
+Boe and Jeremy can come. Sleepover, video games all night—I’ll crush them. I can get to know Brodie and question him about whether he stole cat food from me once. That needs to be resolved if he’s marrying my aunt.
+
+It sounds fantastic. And all for the price of looking like I’m fond of superheroes I have no serious issues with and a city that I really do miss? That’s an amazing bargain.
+
+He pushed opened the door to the apartment and strode in. Haoyu had made cinnamon oatmeal today, judging by the lingering smell and the dirty dishes. He and Lexi were probably in class unless they were watching video lectures in their rooms. But the robo vacuum was keeping the place lively as it whirred around on the kitchen floor.
+
+Alden wheeled his suitcase to his room and heaved it onto the rolling chair so that he could unpack it. There was enough time for that. Then he’d throw on his uniform and head off to Engaging with the Unexpected.
+
+He reached for the zipper.
+
+I’ll just shove the camera-shyness down and learn to be more photogenic and bubbly. Do I have to be bubbly? Maybe not, but I have to be interesting in a good way. Enough so that people who see me hanging out with their favorite superheroes will feel like they want to see more of me doing that.
+
+And in exchange for learning that trick and putting in some work…the work would be…I guess I’d have to actually do social media better. That’s the kind of thing publicity people would like. And like Principal Saleh says, I need to handle my messages. I should hire an assistant or a service for that. I’ll also have to come up with a bunch of smart answers for all of my sore spots and secrets if I’m going to be more in the public eye.
+
+He stared down at his bag.
+
+That’s a lot. I’m probably missing some other things. But in exchange, I’d get to…I just need to figure out when I could…
+
+Shit.
+
+That’s really going to be a lot.
+
+The nerves were ratcheting higher, and thanks to his train of thought, he identified them correctly this time. The problem wasn’t camera-shyness, unfortunately.
+
+“It’s going to be too much,” he said to his empty room.
+
+Cultivating the right kind of popularity, leveraging it, and maintaining it—if it was possible, it would still be a part-time job. He wouldn’t have to go as far as someone like Winston, but it would be hours every week. Maybe hours every day.
+
+And it might buy him Christmases and breaks in Chicago. It might buy him a life there one day. What if he did want that?
+
+There was a chance to set it in motion here, and it was a chance he couldn’t make a serious reach for unless he was willing to let something else he was doing slide.
+
+Like what?
+
+He suddenly remembered Zeridee-und’h handing him a tablet and saying, “You are allowed to name two people. Their evacuation priorities will be changed to match your own.”
+
+That’s way too extreme for a comparison.
+
+But maybe it wasn’t quite as far off the mark as he might wish. Before the principal’s call, just a short while ago when he didn’t realize he’d been ignoring such a tempting and complicated invitation…
+
+There was already too much for me to handle it all the way I’d like to, he admitted to himself.
+
+He wanted to be a good student. He wanted to attend every class. He really enjoyed spending time with Haoyu, and he was getting worried about Lute, and he felt like he was worming his way into Lexi’s good graces. Natalie had texted to ask if this weekend would be a convenient time to go see the drudgery box restaurant together, and he hadn’t gotten back to her yet because he wasn’t sure he could carve out time for something casual and fun like that.
+
+Somehow I went from finding things to keep me busy to having way too many things keeping me busy.
+
+He was fairly sure the tipping point had been Stuart asking him if he could come over for a visit earlier than they’d planned, but another tipping point would have arrived if that one hadn’t. Alden would eventually have opened these emails, or he would have started getting summoned to the Triplanets. Something.
+
+He hadn’t felt like he had too much free time in intake, and now he had so much more going on.
+
+Too many worlds.
+
+Here on Anesidora he had the possibility of some wonderful relationships. On Artona I, he had the Primary’s son, revealing truths about himself and weaving a friendship in the days before his first affixation. And on a moon orbiting Kimnor, there was a girl who was probably recording information about all the lab equipment she remembered, so that Alden would know if there was anything he could use to break free of that nightmare forever.
+
+They had promised each other they would one day have matching tattoos.
+
+She might change her mind when she’s older. Stuart will probably have tons of knight friends once they realize he’s going to succeed.
+
+But for now it wasn’t like that.
+
+I’m a registered Avowed. When I’m on Earth, Anesidora is…the only place where I’m guaranteed a place.
+
+The two people he wanted to save the most if the planet blew up lived in Chicago. He saw, very clearly right now, that the hardest part of his choosing season was going to be choosing what he lost.
+
+He realized he was squeezing the zipper pull so hard it was on the verge of biting into his finger.
+
+Zippier, he thought, letting it go. That’s what Stuart called it. He made it by hand. I promised I’d get him some bananas.
+
+He got dressed in his uniform slowly, wondering what he could do to hold on to every little piece of his life.
+
+But by the time he left the dorms to head to Engaging with the Unexpected, he knew that even though he would say all the right things and pose for photos if it meant he could get an extra trip or two to Chicago in the coming months, he wouldn’t do everything he could to appeal to them. He wouldn’t carefully craft posts about the hero team, angling for more invites. He wouldn’t push back healing sessions with Yenu-pezth or visits to Stuart to accommodate events in his former home.
+
+He would not give them his best, and so it was unlikely that they would find many uses for him after the initial dose of feel-good news about the lost Rabbit’s return had been digested by the people they wanted to see it.
+
+It was a decision he felt mostly sure about and mostly sad about at the same time.
+
+“Hey,” he said, when Boe’s face appeared before his eyes, “you picked up. I thought you’d be in class.”
+
+Boe wasn’t even in school. He was in his room at home, putting on a coat. “I’m going to try to find a missing person. I heard on the news that a kid wandered away from home this morning. I don’t actually like my chances of success, especially since it’s an hour and a half away and I don’t know the area at all. But I’ve got ten people to save, so I figured it was worth a try.”
+
+Alden smiled. He was heading down a busy walkway, so he had to remind himself not to say anything that would sound suspicious out loud. “That’s so cool of you. Seriously. ”
+
+“I’m just going to wander around, hoping that lost kid emotions are easy to pick up on.”
+
+“I know I can’t help from here, but can I watch?”
+
+“Don’t you have class? Yes. If you want. Really, though, this isn’t going to be anything to look at. I think it’s very likely that by the time I get there, someone will have found the escapee or he’ll have headed back home on his own.”
+
+“I hope so.”
+
+“You just don’t want me to catch up to you. What did you call for?”
+
+“Just to chat,” Alden said.
+
+Not quite true. He had felt a need to ask Boe why Boe wouldn’t register and come live on Anesidora. For a second, he’d wanted a clear answer more than he wanted to respect Boe’s privacy.
+
+But he couldn’t throw a search and rescue empath off his game.
+
+“I want my cat back,” he said instead.
+
+“You’re going to have to take that up with Jeremy.”
+
+“I was just expressing my profound desire for feline company. Are you nervous at all? Do you need hyping up on your way to your destination?”
+
+“I don’t think so,” Boe said. “How would you hype me up for something like this anyway?
+
+“By telling you about how Sharon wants to sing with me.”******

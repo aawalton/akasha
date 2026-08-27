@@ -1,0 +1,97 @@
+---
+id: 6ae88424-c582-5862-92d8-54c9db7383fd
+page-type-slug: story-chapter-royal-road
+title: "267 (II) “Fury Alone is but Impotence”"
+slug: 0332-267-ii-fury-alone-is-but-impotence-2958874
+partOf: path-of-the-deathless-book-4-completed
+position: 332
+ownLength: 1782
+unit: words
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2958874/267-ii-fury-alone-is-but-impotence"
+royalRoadId: "2958874"
+---
+
+267 (II)
+
+“Fury Alone is but Impotence”
+
+As the Culturist distanced himself, he let out a low breath. "Yes," the orc finally said. "I am not wasteful. And I couldn’t ignore the possibilities he offers."
+
+"What the fuck is that supposed to mean?" Shiv asked, his fingernails digging into his palms.
+
+"I stole a skill from the Eldest. A Legendary Skill. The very same that your mate now suffers."
+
+That was all it took for Shiv to understand. A river of bile nearly crawled up his throat. “You… I’m going to…”
+
+“Metamorphosis can work in many ways,” the orc said. “And the mechanics of Mana Parasitism offer a great many opportunities. It lets me see things from the perspective of another. And it lets me share their flesh and soul after melding it with my own. We are connected through his Seer of Horizons Skill now. And I can hatch free from him at any point if I so choose. Such is the consequence of failure.”
+
+“Failure,” Shiv whispered. His grief had gone cold. His furor became fuel for his thoughts. “No. This is control. You’re right. You can’t decide. You can’t be better than yourself. You’re doing this because you want an easy way to scratch the itch—everything else is just some bullshit psychology to justify what you’re doing. Killing him for good just hurts me once. You climbing inside him—fuck, you can mutilate and rip him apart over and over again… You can threaten me with him at any time for a quick hit. And that’s what you’re going to do, isn’t it?”
+
+“Quite so. I will fast. I will resist. But I will lose in the end, as I always have.” The Culturist scoffed and shook his head. He raised a hand and brushed the owl hood off his head, revealing a smooth, unscarred scalp. “Some Legend I am, I suppose. Orc. All too orc. But back to what you are interested in. I seek to do more than what you described. I can hear him screaming for you, Shiv. His pain is… delicious. And he does not deserve it. His nature is noble and pure, and there is something even more enticing about his ruin than yours. But I know there is an edge to his sanity. That he can break for good. And I have withheld myself from any higher satisfaction. Besides, I wonder if he can overcome me eventually. I would relish it if he could. Valor chose him as well, and I wish to learn why.”
+
+And once more, the Culturist’s form flickered, and Shiv saw that it was actually Adam standing in front of him. He caught the faintest glimpse of unnatural color bending around him, and the Gate Lord suddenly jolted free from the kaleidoscopic hues, hyperventilating, but restored to life.
+
+However, there was still a separation along his neck, and a raw, red imprint on his face. His body remembered the wounds that slew him, but they weren’t fully expressed. It was as if the Culturist was holding the final end back.
+
+Shiv didn’t care about any of that. He rushed forward and took Adam by both arms. He sent chains of Vitae into his friend’s body—but they bounced off the Culturist, who suddenly superimposed himself over his friend's body again. The last thing that Shiv saw was Adam about to call out again.
+
+“I will not let this separation happen without a proper fight,” the Culturist said. “He is not yours if you cannot take him back.”
+
+A cold fury hardened inside Shiv. “And you’re not yours if you can’t just let him go. You want to spite the Challenger? You hate your god? Let Adam go free. That’s choice. That’s dominance. That’s—”
+
+The Culturist rolled his eyes, sighed, and there came a sudden flash of blinding mana. Once more, Adam was released. He crashed into Shiv while the orc remained behind him. The Gate Lord spun and fired a chain of Veilpiercers with a cry of maddened desperation. The orc moved—and Shiv lost track of him.
+
+He's—
+
+The world went black as something slammed into the back of Shiv’s head before he had a chance to respond.
+
+Pillar of Orichalcum 275 > 277
+
+Nothingness took him. Sweet, blissful nothingness. For a short eternity, he was gone. In that border to nonexistence, there was no worry, no thought, no peace. Nothing.
+
+Nothing wasn’t that bad.
+
+But nothing came to an end as a single thought snaked its way back into Shiv’s consciousness. Adam!
+
+Light and sound and feeling exploded inside and around Shiv as he drew in a ragged breath, returning to consciousness. He felt a flattened piece of mana-infused metal half-buried in the back of his skull. It had cracked the bone, but not breached all the way through. Even so, Shiv’s Atlas told him he had a severe concussion and multiple spots of gray matter flooded by internal bleeding, filling him with a building headache that made it hard to think, hard to—
+
+“Shiv!” Adam wailed in agony.
+
+The Deathless’s blood froze. He turned, and he saw the Culturist sliding inside Adam, pouring into him in a rush of nightmarish colors. Shiv gave a half-coherent groan and flung himself at Adam. He got within arm’s reach of his friend when the Culturist assumed Adam’s place in a flicker of mana and took Shiv by the throat.
+
+“I’m not doing this to hurt you right now,” the Culturist explained. “I’m doing this to show you that you cannot stop me. Yet. He cannot stop me. Yet. The only ones of you here that will prove any challenge at all right now are the Severed Ascendant—who will most assuredly kill me if she notices my presence, and the Giantsbane, who will give me a hard, delectable death if I seek to pit my blade against hers directly.”
+
+Then, without preamble, the orc released Adam into Shiv’s custody again and turned away from them, making a show of raising his empty hands. Adam quivered like a leaf in the wind, and the noises he made were barely human.
+
+“Adam? Adam, are you—” Shiv cut himself off. Of course his friend wasn’t alright. No one would be alright after this ordeal. But the Culturist had released him, and for now, he was his own person again. “I’m here. I’m here.”
+
+“No—” Adam wheezed. “No… No…” He turned. Tried to manifest a Veilpiercer, but his hands were shaking, and his mind was so scattered that it came apart as motes of darkness. “You… What have you done to me…” the Adam seethed. A bit of drool leaked from his mouth as he struggled to keep hold of his sanity.
+
+The Culturist drew in a long breath, and then waved a hand. Suddenly, they surfaced from this place of boundless darkness—and found themselves surrounded by the rubble and ruins of the maze. Shiv could hear voices calling out nearby, could feel someone channeling their Chronomancy. He'd felt that specific frequency before—Gone was moving. Gone was trying to find them.
+
+“For now, I have let you go,” the Culturist said with great strain in his voice. “I have done what you asked, Shiv. And I want you to know that it is pointless. I have fought this battle many times. I have fasted as Valor recommended and asserted my control against myself. But it is never forever. There is something greater in me than me, and when I try to fight it, there is only one outcome. Desolation waits at the end of my virtue. Always.” He faced them with a faint sneer directed toward himself. “I will come for you again, Young Lord Arrow. You and him. It will get to that point once more. Perhaps I will be strong enough to let you go each time. Perhaps. Hopefully. But I will test you. I must test you. Over and over and over. I ultimately can choose no other path, loath as I am to admit this.”
+
+“I will die before I let you take my soul again,” Adam said, sounding like a ghost of himself.
+
+The orc observed the Gate Lord and shook his head. “No. You are psychologically wounded. But you are not at the point where you will choose death. I know this. You know this. A rule now: Please do not lie to me. Dishonesty is only for an enemy.”
+
+“And you’re not an enemy?” Adam asked, choked with disbelief.
+
+The Culturist shook his head. “No. I am no freer than you are. But I am here. And we share a common foe. And hopeless as it is, I cannot help but think there might yet be a way out with you two, disciples of my favored foe.”
+
+Shiv read the meaning behind the Culturist’s words. “You see us as… what, fucking allies against the Challenger? You think we're comrades in arms?”
+
+“You promised to strike him down from his throne, did you not?” the Culturist said. “How far you stand from such a declaration. But how true your intent. I suspect what I just did made that intent even stronger. And scarred the truth of what I am even deeper into you. The others were meant to prey on your desperation and comfort. That was how the Challenger reached you—and his triumph will be to bend you into becoming something like him. An undying thesis in testament of his wretched philosophy.”
+
+“And from me, will another god come,” Shiv breathed as a horrified understanding settled into him. “The Great One. Another Challenger.”
+
+Deductive Reasoning 15 > 20
+
+“A proper nemesis,” the Culturist said with a smile and a nod. “Very good. You have some aptitude for psychological and personal analysis. We will need to drive that skill to the breaking point. Repeatedly. As for you…” He regarded Adam again, but Shiv stepped in front of his wounded friend protectively. “We must see you hardened, Little Arrow. And this will be torment for both of us. You have no idea how enticing shattering you for good would feel—”
+
+The Culturist suddenly shifted left as a figure blurred past him. A single slash tore across the world, leaving a gash in the air—a gash that turned and cut out once more, glancing the Culturist’s cheek. Specks of blood drifted through the air and painted themselves upon Shiv’s cheek.
+
+There before him, a new Legend entered the fray. Standing on two burning wheels and bearing a blade shaped by shadow and broken fractals in place of Rusty was Jessica Hawgrave—and there was no hint of playfulness on her face.
+
+“Hey, grayskin,” the Giantsbane sneered. “Get your own Deathless to bully. This one’s mine.”

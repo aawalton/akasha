@@ -1,0 +1,141 @@
+---
+id: 515da791-1f55-54c5-83d5-8e0553a22cf9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: The Bee-ple of this Village"
+slug: 0014-chapter-14-the-bee-ple-of-this-village
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 14
+ownLength: 1378
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3750544/chapter-14-the-bee-ple-of-this-village"
+royalRoadId: "3750544"
+---
+
+The field of lush grass beneath Marina’s feet swayed softly in the lazy breeze blowing through the meadow. Waves of gentle wind brushed against her face as she looked to the distant village ahead; it carried no scents of sulphur and no flares of gray ash. The wind was both serene and calming, like the scenery around Marina, secluded from the hellish landscape which was what greeted her arrival to this realm.
+
+“You look disappointed.” Hecate’s voice dragged Marina from her daze.
+
+“Do I?” Marina raised a brow.
+
+“Yes,” Hecate nodded. “Would you humor me on what is so disappointing?”
+
+She was disappointed at herself. Disappointed that she did not come here earlier, and did not plant the bakery in a place like this. The crops would grow so much better with the fertile dirt, and the weather would be so much nicer without the dust storms.
+
+“I’m disappointed at your recent performance,” Marina stated firmly.
+
+“Seriously?!” Hecate fell to her knees. “All my attempts to impress you have been… futile?”
+
+“No, Hecate, it was a joke.” Marina helped her off the ground. “I would’ve never made it without you.”
+
+“Then… What are you disappointed about?” Hecate tilted her head.
+
+“I’m disappointed at the fact that I didn’t open the bakery here.” Marina sighed. “This place is beautiful.”
+
+“You think so?” Mellie glanced behind her.
+
+“I mean, the air here is pleasant, the weather is also nice, and there are also plants.” Marina listed. “It is much better than looking at dead trees and getting your clothes all dusty.”
+
+“Oh.” Mellie returned her focus to the road.
+
+Soon, after some moments of bantering, the three of them stood before the entrance of the village. There were no gates of any kind, only a small opening between the wooden log fence that surrounded the buildings within.
+
+All the houses, as far as Marina could see, were built to look like standing cubes of wood, with a certain architectural taste similar to that of shoeboxes. In front of the entryway stood two young men, around their mid-twenties, if Marina had to guess. They each wielded a wooden spear in their hand, standing guard in a statue-like posture, unwavering and fearless.
+
+As the three of them approached, Marina noticed the expression on the two guards’ faces tightened further, like a response to an imminent threat.
+
+Mellie stepped forward, “Hey Barry, hey Benson, I’m back.”
+
+“Mellie, you returned later than usual today, ” The guard standing on the right looked at Marina with skepticism. “Who are those two?”
+
+“They were outsiders who wandered into the forest, but they also saved me while passing by,” Mellie replied. “And I promise to give them something in return, so I’m wondering if you guys could…”
+
+“Mmm, Barry.” The guard looked to his right. “Go get the chief. This is not something we can decide.”
+
+“Yes.” The other guard nodded before taking off.
+
+“Sorry, we haven’t had foreign visitors in a while.” Mellie apologized. “But I’m sure the chief will understand.”
+
+“It’s no biggie. If it’s an issue, we can just scavenge the flower ourselves. We got plenty of time, right, Hecate?”
+
+“Indeed, we do.”
+
+“But–” Mellie’s voice was drowned out by the drum beats of incoming footsteps.
+
+Behind her, a group of around a dozen Bee-ple gathered, many of whom wore the same leather chest piece as the two guards and wielded the same wooden spears.
+
+At the front of the armed mob stood an older gentleman in his mid-fifties, a piece of membrane missing from the small wings behind his slightly hunched back.
+
+“Chief Humford!” Mellie rushed to his side.
+
+“Mellie, are you hurt?” the chief asked.
+
+“Not anymore, just a little tired. Miss Marina and Miss Hecate helped me back,” Mellie said with a plea. “Could you please–”
+
+“Mellie!” The chief raised his voice. “How many times do I have to warn you about these outsiders?”
+
+“B-but they–”
+
+“Could you not see how dangerous that white-haired woman is?” The chief continued to question furiously. “I can sense her murderous intent from my house.”
+
+Marina assumed one had to be an Authority Bearer for them to sense something of that depth. All Marina could sense from Hecate were pride and elegance, and that was only from mannerisms alone. This meant the chief was likely a Bearer himself, or he had other methods that Marina had yet to experience.
+
+“But they are really nice people. They saved me from death and helped me bury the Guar–” Mellie covered her mouth at the realization.
+
+“Mellie, what did you just say?” One of the townfolks questioned.
+
+“I-it’s nothing, I didn’t say anything.”
+
+“The Guardian, Mellie, what happened to the Guardian?” The chief interrogated.
+
+“Well, I–” Mellie panicked. “The Guardian is–”
+
+“Dead.” Hecate stepped forward, her voice sending the crowd into a shattering silence. “The Guardian is dead. It was me. I was the one who killed it. Now leave the poor girl alone.”
+
+Marina watched in shock as Hecate declared her order. This was unexpected. She assumed Mellie earned the smallest respect from the vampire after enduring the minutes of torment. But for someone like Hecate to intervene, it wasn’t even close to enough. How much did the young woman’s perseverance move Hecate? How much did Hecate pity her after the fact? Marina did not know, and likely won’t for a while.
+
+“You…” The chief shifted his anger-filled eyes to the two cloaked young women. “Guards, take them.”
+
+“Chief Humford, wait!” Mellie fell to her knees.
+
+“Silence!” The chief pushed her aside. “Do you not understand that you have just doomed us all?”
+
+Marina huddled closer to Hecate as a group of eight guards surrounded them, readying their weapons to attack at any moment.
+
+“Uhh, Hecate,” Marina held onto her arm. “What’s the plan?”
+
+“I wouldn’t be the one to know, my dear, but I shall carry out whatever it is that you wish.” With her sword in hand, Hecate readied herself for combat. “We could either retreat, or I could slaughter every single one; it is up to you.”
+
+Of course, the decision to intervene was made by Hecate, but the method of execution was reserved for Marina.
+
+If you didn’t have a plan, then why did you step up?! Marina rolled her eyes. “Is there a way for us to de-escalate and explain the situation and somehow come to an agreement?”
+
+“Of course.” Hecate reached into her satchel.
+
+“Without bloodshed,” Marina added.
+
+“Ah. Now you have just raised the difficulty of such a task.” Hecate raised her sword. “But still very much achievable.”
+
+Powerful storms of wind burst at Hecate’s sword swing, knocking the surrounding guards onto the ground, and the spears in their hands were torn into mere sticks. She blurred from Marina’s sight, and in an instant, appeared right in front of the village chief.
+
+“We wish to have a chat with you.” Hecate pointed the tip of her blade at his throat. “And of course, you have the right to deny us, or rather, yourself, that opportunity. But you are the village chief. You are wise. You will make the decision that is best for your people, will you not?”
+
+“F-fine.” Beads of sweat rolled off his forehead. “Can you lower your weapon?”
+
+“After your men.”
+
+“L-Lower your weapons.” The chief commanded as the townfolk began to slowly back away.
+
+“Very well.” Hecate returned her sword to her satchel.
+
+The chief let out a sigh of relief. “Follow me.”
+
+“Wait for me!” Marina hurried next to Hecate. “Chief Humford, was it?”
+
+“Yes, that is me.” The chief gave an annoyed look.
+
+A chat such as this one was less of a casual hang out and more of a formal meeting in Marina’s eyes. And formal meetings always came with a benefit that she took advantage of, always. Free beverage. The coffee she tried at the bakery was her closest experience of something perfect, but she doubted something of that caliber could be found here. Tea was the next best option. She did mind drinking tea, and Hecate voiced her love for tea on their first day together. It was the fairest compromise.
+
+“I was wondering if you guys have tea around here?” Marina pondered. “My assistant and I would love some.”
+
+“...”

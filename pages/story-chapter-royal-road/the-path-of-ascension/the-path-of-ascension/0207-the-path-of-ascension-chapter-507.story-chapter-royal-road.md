@@ -1,0 +1,269 @@
+---
+id: e903638f-1e76-5c44-9518-210e4ad936b1
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 507"
+slug: 0207-the-path-of-ascension-chapter-507
+partOf: the-path-of-ascension
+position: 207
+ownLength: 5625
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3764929/the-path-of-ascension-chapter-507"
+royalRoadId: "3764929"
+---
+
+Chapter 507
+
+Vincenzo, like most of the Capital's population, lived in one of countless spatially expanded buildings that littered the planet. Where his building differed from any of the others was the luxury. It wasn’t just the vaulted ceilings and expensive materials, it was the clientele that could afford to live there.
+
+Only a few steps outside one of the lobbies, Matt was one of the lowest Tier people. However, unlike the random passersby who wandered in and were calmly escorted back out, no one tried to stop him as he strolled through the entrance. Oh, he could feel the dozens of high Tier guards eagerly waiting in the wings for the pretext to interact with him, but apparently their professionalism was stronger than their desire to talk to an Ascender.
+
+As much as he wanted to linger, he didn’t do so for more than the few seconds it took him to enjoy the general atmosphere.
+
+It felt like almost anywhere he went in the Empire, war was the topic on everyone's minds and lips. That wasn’t absent here, but being a community that specifically catered to Tier 35’s and higher, there was a noticeable lack of the secondary effects he’d grown used to seeing.
+
+The people here weren’t entirely isolated from the realities of the Realm, but they were firmly protected from its consequences. A miniscule part of him wished he could vanish into such a gilded cage like the residents, but that feeling was drowned by the general discomfort that came over him from being near the place.
+
+Instead of heading up directly to Vincenzo’s room with a [Portal], he considered how he wanted to handle the upcoming meeting without bothering to hide his contemplation. Vincenzo had no doubt been alerted to his presence, and combined with his earlier messages, a small delay should hopefully mean they could skip anything that might extend the meeting like small talk.
+
+After that moment of deliberation, he headed for the emergency stairs.
+
+At least three of the watching high Tiers started to move for whatever reason, but when Matt started to track them, they halted and returned to their previous positions. Without any more distractions, he considered using the seldom used stairwell to speed up and cover the distance in an instant, but then he’d be there now rather than sometime in the future. Instead, he calmly took each step one at a time as he climbed his way to Vincenzo’s middle floor suite.
+
+Long minutes and hundreds of miles later he reached the door, and without bothering to wait, tapped his knuckles to it twice.
+
+The door was immediately opened by a beautiful, though strangely enough, fully dressed Tier 15 who tried very hard to not be flustered as she answered the door. She almost managed it, though the way she kept reaching for her braid gave away the lie.
+
+Matt made polite small talk as he was led through conspicuously empty halls deeper in. Given how quiet things were, he was half expecting to be led to one of the numerous meeting rooms he’d been redirected to in his visits, but that didn’t happen.
+
+It seemed his entrance had made his stance clear enough that he got to skip the rigmarole the man normally liked to play. If that hadn’t come with a whisper silent building, he might have even taken it as a good sign. As it was, he was prepared for a fight, though he couldn’t understand what would make the adjuster so foolish.
+
+When the nervous Tier 15 opened one of the sealed doors revealing a steam filled bathroom, she flinched as if expecting to be punished.
+
+That finally brought Matt’s full attention to her and he gave her his best, most practiced smile. “Thank you Vicky, you were very helpful. You can and should take a walk while Vincenzo and I have a bit of a conversation.” Seeing the naked fear flash across her face at the implied threat to her… whatever she was to Vincenzo, he continued with an offer he hoped she’d find hard to refuse. “I can open a [Portal] to anywhere in the system you’d like.”
+
+As a Tier 15, moving around the Capital wasn’t the easiest, and he suspected she, like most, preferred to stay within a few blocks of her primary residence or work place. Except for special occasions. Spatially expanded buildings turned blocks into worlds of their own, but her brother lived on one of the secondary planets, and so he wasn’t all that surprised when she took him up on the offer after getting a nod from the single remaining occupant in the building.
+
+One [Portal] later, with a promise to open a return one the moment he got her message, Matt stepped into the steamy bathroom and firmly shut the door behind him.
+
+As he did so, all the moisture in the room hit the floor with a splash as he rapidly ushered it into the many drains.
+
+A long and weary sigh was his watcher’s only response.
+
+Vincenzo, who’d been lounging in the steam as he snacked on slices of spirit bolstering fruits that would have worked a lot better had he turned them into the proper potion, waggled his fingers in a lazy wave as Matt entered. Eating them raw didn’t exactly waste all of the medical effects, but it wasted most of them.
+
+His words were dismissive as he used the built-in controls to try and replenish the steam, to little effect. “I have three more days before our last mutually agreed upon meeting. Unless you went ahead and got the army to pay my fees to push things up, I have zero intention of changing my timeframe, Ascender Titan. Not even by a few days. Like we went over last time, you can beat me into a pulp any time you like, but if you want your sword upgraded, you have to play by my rules.”
+
+Matt worked his jaw as he looked around the empty prison the man called home.
+
+Vincenzo’s smugness wasn’t without its merit. The man had earned a lot, if not most, of his pride and arrogance through brutal, genuine, effort. The problem Matt had with him was how similar the man’s life was to what his life might have been if he’d decided to step off the Path and take the noncombat route regarding his Talent.
+
+A little too full of himself, and confident that his Talent, and therefore his usefulness, would let him do anything he wanted. It would even be true, right until the minute it wasn’t and everything went to shit.
+
+Matt could also admit that he had been more than a little irritated when Vincenzo hadn’t been willing to let him cut the line more than he already had. The man’s services were always in demand, and there were over a dozen prelists most people needed to navigate before even getting a consultation for his services.
+
+After the breach auctions, Matt had been put into the actual queue, but he’d wanted to be moved upward so he wouldn’t have had to wait five full Tiers.
+
+If Vincenzo had been willing to put in a little extra work, he could have easily squeezed Matt in with only a little rearranging of his recovery periods. It was there that they ran into an impasse.
+
+Vincenzo had outright refused to alter his schedule without an army sanctioned rush order.
+
+Matt had even tried to get such a decree, but without a good reason beyond his own impatience, he wasn't willing to use his Ascender status to get such a bump after Rusty had informed him he’d be the one paying the penalty fees if he did. Matt would have loved to argue that the army could afford that minuscule additional expense, but he knew better than most that the army could very much not handle unexpected expenses as funds were poured into the troops and their preparation.
+
+That was why he’d come prepared today.
+
+“In fact Vincenzo, that is exactly why I’m here. I was attacked —”
+
+Vincenzo's eyes roved up and down him before he snorted as he returned to his fruit. “You look fine. And I told you I don’t do sympathy jobs.”
+
+Matt flicked a finger, finally allowing a message to go out.
+
+Vincenzo rolled his eyes at first, clearly expecting another plan of Matt’s on how to work him into the schedule, but he broke out in a laugh even as he climbed out of the water. “Well well well! A tax break isn’t exactly a normal payment, but it is only a few days early. I can handle the additional pain this will cause, knowing I helped keep the Empire that much safer.”
+
+Matt rolled his eyes right back but didn’t directly comment.
+
+Vincenzo whistled as he sauntered out of the room and through the winding halls, but he didn’t go for small talk, which forced Matt to ask. “Was it really necessary to kick everyone else out?”
+
+That seemed to catch the older man off-guard and he stopped before giving Matt a strange look. “Given your apparent mood as you climbed the stairs? Yeah, it felt safer getting my people out. Vicky stayed because she's too loyal for her own good, and I allowed it because even if you wanted to rip my head off, I know you wouldn’t touch her. That, and I didn’t want to get out of the tub just to get my ass kicked at the door. You could have sent the army’s offer before you arrived.”
+
+Matt snorted even as he held open a door for the two of them to pass through. “And let you start nitpicking over the details? No, this worked better even if it wasn’t what I intended.”
+
+Vincenzo chuffed at the comment but didn’t argue what they both knew was the honest truth.
+
+Matt had hit a sweet spot of the timing, being close enough and the alternative form of payment being just high enough to ensure Vincenzo didn’t want to refuse. They both knew he’d have done it anyway if he thought there was a chance of it working. Better to skip it entirely.
+
+The workshop was a little too elegant around the edges for his tastes, with murals of famous crafters carved into the walls, but it was still a fully functional room tailored to the man's special Talent.
+
+It only took a thought for Matt to spread his Concept to Vincenzo and top his mana pool up, but it had already been nearly full in the first place, with only a few channels running at their minimums taxing him. That worked, as he was able to take the leaked mana into his mana storage ring as a new sample. From there, it only took Matt a moment to copy the mana type and use it to flood the floor to ceiling pillars of mana stone that served as both formation nodes and charging stations.
+
+He might be impatient, but he wasn’t going to be rude. Additionally, it was a fairly elegant integrated design that he was happy to get a first-hand view of.
+
+By the time he’d finished, Vincenzo was still stretching but he didn’t move to rush him. For all of his many personality faults, the Tier 35 was damn good at his not so pleasant job.
+
+Instead, Matt pulled out the ingot of neutronium along with several other bars of various smaller sizes. For all of its benefits, neutronium wasn’t that good of a sword material. Its durability and weight were legendary, but it paid for that everywhere else.
+
+To ensure that his weapon was more than a large sword-shaped club, he’d collected other metals to help balance things out. Snake Scale Silver would add some much needed flexibility back, while the pile of granite steel dust would ensure his blade both took and retained its edge, and would pair with his additional Tier up material.
+
+Vincenzo's expression grew worse until it looked like Matt had personally offended him as the tenth and final supplementary material was laid on the spirit stabilizing table.
+
+Matt didn’t feel even the slightest bit bad as the Tier 35 swallowed the smaller piles of metal down with a grimace. Vincenzo could play it up all he wanted, but Matt had enough spiritual perception that he could see the man's Talent kicking in and controlling the metals even through the veils he kept up.
+
+The neutronium ingot, on the other hand, wasn’t as easy to deal with. Even with a five Tier advantage, Vincenzo couldn’t manage more than shifting the bar a few labored inches at a time, but he never asked for Matt’s help. Rather than push he watched, impressed by the construction of the room and table.
+
+With most of the metals ingested and only the larger bars left over, Vincenzo withdrew a small blade from a hidden drawer. The blade itself was only special because it was Vincenzo’s growth item, but beyond that, speculations about its abilities and powers were just that.
+
+Matt’s hopes of gleaning some information from watching were dashed when Vincenzo calmly plunged the dagger into his armpit without doing anything else. After a moment to perfect his angle, he pulled the blade down to his wrist, opening himself up with the same detached expression a butcher might have when preparing the tenth monster carcass of the day.
+
+His primary hand didn’t hesitate or stutter as he pulled Matt’s sword over to him and carefully laid the blade into the wound, making dozens of tiny adjustments. When he was done, the sword's hilt was sitting in his palm while the point of the blade was firmly lodged in his heart. Twisting, he repeated his actions on his legs, adding an additional metal to each limb before moving onto the next.
+
+When only the neutronium ingot with its missing corner remained, Vincenzo disemboweled himself and lay on top of it with a groan as he allowed his Talent to activate.
+
+His flesh immediately started weaving itself into the metal, merging the man with them in a way that should have never been possible, in both body and spirit.
+
+Matt had done his research, and for all his foibles, Vincenzo was the best at his job, with the smallest downsides. From a backwater planet much like Lily, the man had clawed his way upward step by agonizing step until he’d reached Tier 15 and started experimenting with what his Talent for metal control could really do.
+
+The ability to merge with and control metals hadn’t been too useful to Vincenzo while he’d been an active delver desperately trying to reach Tier 15 before the end of his lifespan, but Matt thought that was more a lack of creativity than a statement on the Talent’s power.
+
+It hadn’t been until he’d reached Tier 22 that Vincenzo started publicly selling his services to modify growth items that he’d been recruited and trained by the army to his current heights. His Talent saw him advance faster than most combatants all the way to Tier 35, but there he’d remained a recalcitrant, if dutiful, soldier until the minute his contract was fulfilled.
+
+Matt didn’t hate the man or his choices, he just wished Vincenzo was willing to keep to the more rigorous schedule as he had in the army. Or at least adopt it when ‘needs must’. His musings ended when Vincenzo started growling as the metals slithered through his body like slowly burrowing roots.
+
+Through his connection with his sword, Matt felt the metal being… subtracted was the best word he had to describe the feeling. It wasn’t being removed, at least not exactly; though that was happening, it was more than the metal that had comprised his blade for all of its existence since he’d bought it no longer considered itself a part of the blade. Reality somehow reflected that.
+
+It almost felt like a math equation trying to keep things balanced as the other metals started to consider themselves as part of his sword.
+
+To Matt, the combination felt like two streams of his blade, one in and one out, each perfectly balanced. Vincenzo, on the other hand, groaned and gasped as his spirit strained to move around the metals.
+
+Vincenzo spat out through gritted teeth as the neutronium started to slither its way through his body inch by agonizing inch. “I hate you. I hate you, I hate you, I hate youuuuu. I'll never do anything with neutronium again. The price has doubled. Tripled. Quadrupled. QUINT— AHHHH!”
+
+His verbal complaining devolved into agonized screams as the seal of silence was broken.
+
+If Matt hadn’t known how touch adverse Vincenzo was to everyone beyond his harem, he would have given the man a comforting pat on the shoulder, but he refrained. Instead, he did the next best thing and informed the healers on staff that had been waiting a few floors down to be more ready than they already were. He even went as far as unlocking all but the final door, knowing Vincenzo didn’t like unnecessary people inside his lab, even his healing team.
+
+Matt could understand and respect that.
+
+He readied a healing spell just in case, but didn’t cast it.
+
+Two long hours later, Matt’s bloody sword was expelled from Vincenzo’s arm, where it clunked onto the table with a heavy sound that pleased a part of him that had been waiting thousands of years to hear it. However, instead of inspecting his blade, he magically lifted the spent man and delivered him to the healing staff, who started pouring spells and potions into him.
+
+Matt waited until one of the healers gave him the all clear before he returned to his blade and the metals that used to comprise it. The latter were stored for later analysis, but he took his time with his sword, running his fingers over it feeling every bump and edge.
+
+With a five Tier lead over the blade, it was still light enough to move, but for the first time since he was Tier 10 or so, he felt the weight of his weapon. It was no longer feather light, it had a heft and weight it previously lacked.
+
+He felt his smile, but didn’t particularly care to suppress it.
+
+It only took a thought to return the blade to its hollow lattice weave, and another to fill it with a bar of liquid mana. Getting his liquid mana stones to work in the longer form factor hadn’t been easy, but after over a thousand years of plugging away, he’d figured out an internal weave that kept the mana liquid without requiring a perfect sphere.
+
+Matt let the mana dissipate as he cycled through a few more of his preset forms; a halberd, a glaive, a long dagger, and even a greatsword; before he returned it to its normal lattice longsword form as he ensured that the change of base materials hadn’t harmed his sword in any way. When everything worked the same way it always had, he quickly sketched out a few enchantments on the now blank blade.
+
+The efficacy had taken a hit, but it was exactly what he’d calculated and he didn’t mind. He considered it a worthwhile tradeoff when he could just throw twenty percent more mana at the problem.
+
+He could spare a few additional million mana per second in a fight.
+
+His inspection complete, he moved to find Vincenzo awake and glaring at him through the walls.
+
+When he got inside the lounge, he offered words of thanks. “You do good work.”
+
+“Of course I do. Are you satisfied?”
+
+Instead of arguing like Vincenzo clearly wanted, Matt tossed the man the storage ring he’d prepared thousands of years ago. “Payment in full as requested. One Arcane Life Scale. I even threw in a basket of Voluminous Spirit Pears for your inconvenience. There are even two of the fire variants we haven’t started selling yet. I did listen when you hinted about trying them.”
+
+That softened the man’s expressions and he waved lazily as one of the healers handed him a medicinal smoothie meant to soothe the spiritual damage that moving so much metal had caused.
+
+“Want a drink?”
+
+As much as Matt wanted to decline and immediately go to the army vaults to hopefully find the item he needed to Tier his sword up, he accepted. If Vincenzo was willing to play the part of a much more gracious host, he’d do his half of the hard work. For all his quirks, the man had garnered himself a lot of soft power over the years, and given his latest scandal, Matt didn’t need another enemy. They’d probably never be friends, but being polite cost him nothing.
+
+When he extricated himself, he [Portal]ed in front of a well guarded building deep in one of the many army bases scattered through the Capital. After a dozen rounds of scans, checks, and verifications, he was finally let inside the tower.
+
+Instead of immediately going to the thirtieth floor, he let his spiritual perception stretch the hundreds of miles the first floor encompassed. The entire building was hyper-massive, created with innately spatial materials that magnified the already extensive spatial expansion formations, but they really did need the space.
+
+The building and its contents weren’t inherently valuable, half of the objects were readily available on any properly Tiered world, rather it was what the collection represented that demanded so much protection.
+
+Taking the elevator to the thirtieth floor, Matt withdrew his sword and took a long, steadying breath, hoping against the odds.
+
+For all of Vincenzo’s advantages, his Talent had the side effect of randomizing the item that was required to Tier up a weapon. Matt only needed a single step to confirm the Tier 30 yellow footed rabbit’s fur was no longer the item his sword resonated with.
+
+He thanked the worried Seeker kept on staff and took his sword where he moved from case to case, checking its resonance with each and every item inside. It was tedious, slow, and fruitless, but he didn’t stop or pause. Part of him wanted to just skip the hassle and use the universal upgrade item he bought, but he knew he’d feel silly if it turned out he'd have found the correct item with little difficulty. If he was so lucky he could use the stone as a bet material with the other Ascenders, or sell it for a polished mana stone or twenty from someone who was as desperate as he was.
+
+Matt managed to keep that hope alive right until he reached the other end of the building and had scanned every type of Tier 30 material the Empire had been able to collect over millions of years. Not a single one had resonated, and he couldn’t help but add an attempt to understand why Vincenzo’s Talent had such a strange effect to the task list his [Actual Insight] worked through when otherwise unoccupied.
+
+The required items didn’t always get altered into stupidly obscure things, but it did happen more often than not. His best guess was that it had something to do with how Vincenzo’s spirit had merged with his sword’s spirit, but that didn’t explain the divination resistance. Maybe that came from the man's Domain?
+
+That was an interesting thought he didn’t investigate too deeply. Instead he made one much faster round about the floor just to be sure he hadn’t missed anything. When nothing changed he shrugged.
+
+He’d waited long enough and he wanted his primary weapon at his Tier.
+
+Withdrawing the unobtrusive stone that was the universal upgrade material, he pressed it into his blade, willing the sword to absorb the item. At first, the sword almost seemed confused as to why it was absorbing something that wasn’t what it needed to Tier up, but after a moment, something in the Natural Treasure resonated with the weapon and it eagerly devoured the stone.
+
+Before his sword finished the process and Tiered up, he added a Tier 30 ore he’d had specifically refined and treated, letting it get pulled in and integrated. The effect was slightly muted due to the sheer amount of neutronium it was trying to affect, but combined with the secondary metals, his sword's edge grew that much sharper and more willing to cut, further reducing the downsides of his choice.
+
+With his sword at Tier 31, Matt hefted it as he took the elevator up another flight of stairs. Midway through, he opened a portal for Vicky to return to Vincenzo’s, but he barely noticed the interruption, with most of his attention inspecting his newly Tiered up blade.
+
+The new metals had already formed a perfect and unified whole during Vincenzo’s alterations, but Tiering it up had cemented the changes in a way he liked. With most of the blade being neutronium, he’d known it would get heavier with Tier. He had more than enough experience with the neutronium in his own body and Tiering it up to know how that would play out, but he still took his time between floors getting to know this version of his blade.
+
+At its current weight, he was still able to wield it with one hand, but he knew that wouldn’t last very long. At least, so long as he found the required items to continue to Tier it up, because he was fresh out of universal upgrade materials. Thankfully, he ran into almost zero issues, with the on-staff Seekers able to lead him right to his items until Tier 33. There he needed to go through three quarters of the rooms to find the petrified gecko egg fragments his blade wanted, but refused to acknowledge until he’d checked manually.
+
+After mollifying the apologetic Seeker he moved to the next floor as runners pulled a full sized piece out of storage for him to absorb. They were quick and efficient enough it was already waiting for him by the time he’d reached the next floor’s Seeker.
+
+From there it was clear sailing.
+
+When his blade finally reached Tier 35, Matt couldn’t help grinning, even as he had to use a hefty amount of [Gravity Manipulation] to keep from ruining the building.
+
+His own body was heavy enough that it was an inconvenience most of the time, but JR had taken less than three percent of the bar. That tiny amount had more than quadrupled as his augment grew deeper, but he knew better than most how heavy that remaining ninety seven percent was.
+
+Now, Matt could barely lift his longsword with a single hand let alone fight with it. He’d known that battle with his newly improved blade would take some getting used to, but his excitement was almost painful as he wanted to put it through its paces. He’d thought he’d been properly prepared via his training blades, but now that he had his sword in hand, he knew they were poor training aids, if not outright detrimental.
+
+He briefly checked on Susanne, but when he saw she was still in the same training camp she’d been in for over a decade now, he cursed the fact his best sparring partner was out of commission.
+
+Instead of letting himself dwell on it, he redirected. He knew where he could find a hopefully willing sparring partner. At least if she’d managed to keep to their originally expected time frame. To that end, he opened a [Portal] in front of their official ducal suite, where he felt Liz was still holed up and working contrary to his expectations.
+
+Matt had only expected a few of the permanently stationed aides to be at the suite three months after the initial scandal, but when he saw the eighty four people all hurriedly moving about inside, he resigned himself to the fact he wasn’t going to get his desired spar any time soon.
+
+Nearly everyone in the room popped to their feet the instant he arrived, but he waved them down even as he hurried to Liz’s office where he could already hear two copies of her giving orders.
+
+A phoenix Liz who’d been napping on a perch was the first and only Liz to respond to his arrival by softly cooing at him. She then abandoned him as she tucked her head back under a wing and went right back to sleep.
+
+Instead of interrupting their conversations, one of the Lizzes split off and reformed another Liz that sauntered over to him in a manner he didn’t feel quite matched the intensity of what she was dealing with.
+
+When they separated, she drawled, “Hey there, hot stuff. What about Brendan?”
+
+Matt created an air pocket around them and then sternly said, “Brendan Alexander Moore, you get your behind back here right now, mister!” He let the feeling of the full name linger on his tongue before nodding. “It's not bad, but I can’t say I love it. I’ve actually been thinking about Rosalie.”
+
+Liz repeated his move with the new name, following one of the many surprisingly practical pieces of advice they’d gotten from Mara and Leon. “Rosalie Alexander Moore! Yeah I kinda like it actually. Rebounds well off the middle name and flows into the last smoothly. It's got good tempo. Let's put it on the list!”
+
+Matt threw out one of the few male names he’d felt needed to be championed since Liz hadn’t landed on it yet. “What about Casper? It’s a bit unique, and gives them a long and short name.”
+
+However, midway through, Liz was already shaking her head, and he asked, “What’s wrong with it?”
+
+Liz looked positively vindictive as she walked two fingers up his chest. “While I’ve been here putting out fires and soothing egos, I had lunch with Carissa and we may or may not have talked about baby names. I don’t think we want our kid to have the same nickname as the heir.”
+
+“Cas?”
+
+“Carissa is confident it's a girl, even though she swears she and Manny didn’t peek. To that end, she's dead set on Kassandra if they are right.” Putting on her best Carissa impression, she cupped her nonexistent belly and looked exasperated as she drawled, “It's a girl and I know it. I’ve been keeping the bugger inside of me for long enough, I just know.”
+
+Matt shook his head, not believing a word of it. “They definitely peeked.”
+
+“Of course they did. Well, maybe. I don't think Manny did. He's way too excited to talk about literally anything involving the baby to have it confirmed… anything. We talked about strollers for an hour. I figured he’d get bored at some point but nope, he’s still reading reviews and testimonies about every model on the market. No way he peeked. Carissa might have though.”
+
+Matt pondered that for a brief enjoyable moment before he nodded at the chaos ongoing outside their bubble. “How bad is it?”
+
+Liz sighed but didn’t resist his subject change. “Not as bad as we feared, but worse than we hoped. We might have caught the Cabal midway through this plot, but they still inserted over two hundred unauthorized rifts through our duchy. That was always going to have repercussions, even if they hadn’t been preparing key players on the other side.”
+
+Matt knew that and nodded along. “Have we been able to sort out the true players from the smokescreens?”
+
+At that question, Liz hesitated before waggling a hand. “A few, but I’m not going to tell you who they are yet. Not until this is over.”
+
+Matt wanted to argue, but they both knew what his reaction would be. He didn’t enjoy going full Ascender, but he was more than tempted after the latest stunt. That was exactly why Liz had taken the lead on the scandal.
+
+“Do we have a resolution?”
+
+Liz’s scrunched up face told him everything he needed to know, but instead of arguing he just nodded again to show he was listening. “You aren’t going to like it.”
+
+Matt rolled his eyes, he’d known that from the minute he’d found out from their own spies about the hundreds of illicit rifts scattered through their duchy. He hadn’t expected Liz to work that large of a miracle unless she did what he wanted to do, go and kill everyone who’d dared to touch his rifts.
+
+“We are going to pay the fines, fees, and penalties without pushback.” Matt sucked in his lips and chewed on them for a long minute before accepting that and nodding for her to continue. “I know you don’t want to end up paying the cabal for their plan, but unless we want to tear down the very aura protections we put in place, we are going to have to eat that loss and smile while we do it. If it makes you feel better, I think we can use this to push a few other aura based measures we’d been considering. If you look at it this way, it's just really expensive campaigning.”
+
+That actually did mollify Matt, but he didn’t get too excited. That would only be the outline of what she’d wrangled. Still, it was better than he’d hoped was possible when the news broke and he knew he couldn’t have done better. He’d need to go through everything himself and verify that fact before he truly felt at ease but he kept that thought firmly in his mind as he prepared himself to look at the situation.
+
+Suddenly, the war and previous dynasty, along with the myriad of troubles both things brought almost seemed like a welcome relief.

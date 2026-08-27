@@ -1,0 +1,193 @@
+---
+id: a4e40652-f913-583d-ab1c-3c6069aca1e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 390 : Relocation"
+slug: 0092-chapter-390-relocation
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 92
+ownLength: 2317
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3527384/chapter-390-relocation"
+royalRoadId: "3527384"
+---
+
+It took some coaxing, but eventually Yuzz jumped through the portal. Seeing her enter it and watch her figure walk around outside through the shimmering portal was quite spectacular. Vee must have spent quite some time on these web portals of hers, as they didn't previously show a window to their location.
+
+"Looks good, that cost practically nothing despite the great distance," Vee mused as she inspected the portal.
+
+"I mean, they are only goblins," I said through a private telepathy link. I didn't want to offend our first residents and workers, even if they were the simplest of the monstrous humanoids.
+
+Seeing Yuzz jumping around and gesturing for the others to come was the last encouragement they needed, and the goblins began rushing through. Vee's threats got them to behave somewhat orderly, and they went through one by one. The entire time, Vee was observing the portal and nodding along. It looked like everything was running smoothly.
+
+"Can I really not use it?" I asked.
+
+"Maybe last if you absolutely must, but why risk breaking it?" Vee asked.
+
+I sighed. I knew she was right, but I was feeling a little left out and wanted to experience it. Although this did bring up a good point, what would we do if we wanted to portal someone or something with a lot of dimensional weight?
+
+"Maybe I can ask Sylvester to look up some kind of Mana battery, like how the adventurer's guild does it with their big platforms."
+
+"What, like using blue slime cores?" Vee asked.
+
+"I was hoping to just use slime, not cores, as even if I can replace them and they are heavily discounted, it's not great. Plus, what if it's traumatizing the [Sub-Cores]?"
+
+"That certainly didn't stop you before."
+
+"True… I guess I'm just thinking about them a bit differently now that I can assign them one of my personas."
+
+If it really came down to it, they were still tools, and I would use them. But, no matter how rich in slime I became, I would probably always hold a bit of frugality when it came to slime, and especially cores.
+
+With everyone through, Vee turned off the portal, and I teleported both of us back to the island, since I always had Mana to spare. I was fully intending on returning, but I would at least spend a day helping Yuzz and the goblins to integrate.
+
+The island was abuzz with activity as the goblins began exploring it. Since Yuzz was the oldest and highest-ranking in the group, I nominated her as the unofficial leader. She seemed reluctant, maybe even fearing she would become like Garz, but I told her that if it got too much for her, she could ask one of my personas for help.
+
+That had given her quite the surprise, for Yuzz to come face to face with Sylthaeryn while I was there, too. What confused her more was that Sylthaeryn knew her and treated her like an old friend, and the same was true of Sylvester.
+
+Makes sense, they are the two closest to me.
+
+Sylbera, our budding blacksmith, was also interested in Yuzz, as her strange profession sounded quite profound.
+
+"It's nothing special. It just means I can do a lot of different crafting jobs. I had to craft everything. I even built some houses," Yuzz explained.
+
+"And I bet you had to harvest the goods yourself, too," Vee chimed in.
+
+"Of course! You think I'd let those knuckleheads ruin a good pelt?"
+
+"Sounds like the Omnicrafter is basically a full production line from collecting the raw goods to creating it. Seems you've really found a diamond in the rough for our island," Vee said excitedly.
+
+It was definitely what we needed, as Yuzz could quite easily fill in any gaps we had. She might not be the best at everything, as no doubt Sylbera would surpass her in blacksmithing, but in terms of variety, she was outmatched.
+
+Well, unless I raise multiple personalities and bring them all together. Which, I'll admit, is kind of cheating.
+
+Leon was actually rather happy to meet the goblins and was delighted when I said they were here to help on the island. This became even more evident when we brought the goblins to the class crystal and found that they could change to quite a few more specialized professions.
+
+They must have been close, but not close enough for the system to offer a class change. I guess the crystal is a bit more direct? Or was the [Chieftain] interfering?
+
+It was all speculation at this point, but I enjoyed a good mystery. My list of unanswered questions was truly endless, but that was part of the fun at this point.
+
+With a few goblins picking up the carpenter or mason class, Leon had some much-needed extra hands for his building projects. It also helped that the goblins were much weaker than he was, so it let him feel brave and come out of his shell a bit.
+
+With that, the goblins were resettled, and things were looking up for our island. The next day, I was ready to leave, but I stopped by Sylbera and grabbed a few of her "shoddy" products for the road.
+
+Compared to the stuff the goblins were using, these are like legendary artifacts.
+
+I felt a bit bad for the goblins after I abducted so many of their crafters, so I teleported back to their little ramshackle village and threw out the items Sylbera gave me. This way, I felt like I was giving them a good chance to keep surviving until they raised a few new crafters.
+
+With Yuzz gone, Garz changed, and my debt paid, I mentally wrote off this tribe of goblins. Whatever became of them had nothing to do with me anymore, and I just hoped Garz would keep his sanity for a bit longer.
+
+I made my way back to Southbrook, where quite a commotion was happening in the fields. Humans were scouring the fields, searching under every rock and in every brush of grass. They looked frantic about it, and when I overheard them, I got the gist of what was happening.
+
+Treasures from the god of slimes?
+
+It appeared that my gifts in return for eating a few slimes had sparked some kind of strange reverence among the people. The first few times I did it, it must have been written off as a strange occurrence, but now that it had happened again and again, they thought I was some legend or mythical figure.
+
+I don't know how I feel about that… But whatever, let them have their fun.
+
+I created a few more vials of blue slime and, with some subtle precision, scattered them throughout the field. Seeing the people so happy in the fields brought a smile to my face, and it was only a little bit of slime, something I could regain from a simple meal at this point.
+
+Speaking of which, I wonder if my food is ready?
+
+I sneaked back in, and when I was atop the inn's roof, I peeked inside using my combo of [Personal Rift] and [Spatial Sense]. It looked like they were still cooking up a storm, so they must have needed more time.
+
+I'll go visit Simon then. I want to ask him how long an application usually takes.
+
+Heading towards the local dungeon was a simple matter. Its entrance was guarded, as usual, but with a simple aperture; the problem was resolved, and I found myself again in the ancient crypt. Now inside, I could feel the dungeon's restrictions being applied to my rift and halving its distance, but unlike the underwater temple dungeon, Simon kept his dungeon tight and orderly.
+
+Let's go to the boss room!
+
+It was like a trip down memory lane, and I began teleporting from room to room. There were some adventurers present, nobody I recognized, but I made sure to avoid them. When I arrived in the boss chamber, another hidden door swung open in the wall, and a particularly disgruntled-looking Dreadlich appeared.
+
+"You… Get in here before you ruin my operations!" Simon demanded.
+
+I saw no reason to reject his invitation, so I followed. Compared to Juniper, Ygdran, and even that shadowy octopus, Simon seemed to have far less presence than any of them. Yet despite that, I couldn't help but recall how he nearly snuffed out my life with a single spell.
+
+"I hope you aren't here to extort me again… I got into quite some trouble the last time you were here," Simon said, taking a seat at a desk where he seemed to be in the middle of extracting bones from a strange corpse.
+
+The room looked like some kind of forbidden laboratory, with all sorts of unknown chemicals in various bubbling vats and, most notably, a vast collection of bones in all shapes and sizes. It seemed Simon didn't care about his slow development compared to the [Dungeon Masters], and he was keeping himself occupied with other activities.
+
+"No, while I'd love a green slime for the road, I don't want to push you."
+
+"Good."
+
+"What I actually came here for was to ask you how long a [Dungeon Master] application takes?"
+
+"An application…?" Simon paused his work and stared at me. "You're trying to become one?"
+
+I nodded. Simon looked nervous.
+
+"I'm not usurping it from you. I already defeated some shadow octopus-looking thing at the bottom of the ocean," I quickly explained.
+
+"I see," Simon murmured, regathering his composure. "In the case of usurpation, usually it is instantly transferred, but you and your kind are a rather special case…"
+
+"It's supposed to be instant?"
+
+Simon confirmed it again, and I sighed, visibly drooping at the bad news. This meant that Gramps, or possibly someone else, was interfering with my progress. Considering Mother had suggested it to me in the first place, it seemed strange that an [Experiment] would be barred from joining the [Dungeon Masters], but maybe something else was going on behind the scenes.
+
+"I don't suppose you could help expedite my application? I've already got myself a CUBE."
+
+Simon seemed genuinely surprised. "You have one?"
+
+"Yeah, I claimed it from the abandoned dungeon. Although all it tells me is that my application is still pending. I did get it to collect a bit of wild essence after giving it a good kick."
+
+"You… Kicked it?"
+
+"It wasn't doing anything."
+
+"This is an artifact from the gods, and you kicked it!?"
+
+"I didn't break it. It doesn't even have a scratch," I said and pulled it out to prove it.
+
+Simon stared at it, and a flicker of flame in his hollow eyes showed some hidden temptation in his gaze.
+
+"I see… Well, there's nothing I can do about it. I'm afraid you will just have to wait."
+
+"Can't you send a message to Gramps for me?"
+
+"Do you want me to get smited?" Simon replied, gazing at me with those hollow eyes.
+
+"I suppose not… I guess my only option is to try to reverse engineer the quest system and send him a message that way."
+
+Simon was staring at me, clearly confused. "What did you just say?" Before I could answer, he seemed to regain his senses and quickly shook his head. "No, never mind, if it was censored by the world, then it must have been something extremely forbidden. I don't plan on my undeath expiring so soon because of a silly slime who is poking into things it shouldn't be."
+
+"Well, you could help me if you want me to avoid anything forbidden," I suggested.
+
+"Even if I were willing, I'd need to be paid. What could you possibly offer me in exchange for sticking my neck out?"
+
+"Slime."
+
+"Who would ever be interested in that?"
+
+"The whole world."
+
+"Ridiculous."
+
+"Are you sure? I heard pink slime was extremely valuable."
+
+Simon paused, then, after a moment, finally spoke, "You actually have a pink slime?"
+
+"Have? I am a pink slime," I answered. "Along with blue, green, purple, red, white, yellow, orange, silver, violet, and brown. I'm still working on getting gray, black, gold, and copper."
+
+"Are there really that many slimes?" Simon eventually asked, breaking his stunned silence.
+
+"There's probably more. Gramps seems to be working on them. Anyway, I can give you some pink slime for your troubles. Or purple slime? I got a lot of different poisons sampled. Or even some blue slime, it's better than any Mana potion probably in existence after I uncapped my trait."
+
+Simon was once again stunned. It appeared that I had dropped far too much information on him, and he was seeing me in a whole new light. When he eventually recomposed himself, he surprisingly turned me down.
+
+"While those are valuable, they have little use to me, I'm afraid. I cannot drink potions after becoming an undead. Likewise, the pink slime would actually be to my detriment."
+
+"Oh, right, we suspected they ate undead," I commented casually.
+
+"They eat undead?" Simon repeated. I noted he was actually shuddering a little.
+
+"It was just a theory we had. I'm not sure if it's actually true, but the elves seemed to agree."
+
+"Elves…"
+
+"Anyway. Damn, I guess I've got nothing to offer you. Oh well, thanks for the visit. I'm going to teleport to Kaerlin, see if I can find some old friends."
+
+"Teleport…?"
+
+"Bye, Simon, maybe we will see each other at the next [Dungeon Master] meeting!" I said and let myself out, as Simon seemed oddly tired, barely able to utter more than a few words at the end.
+
+I did drop by unannounced. Maybe he was spending sleepless nights making undead or something. Wait, do undead even need to sleep? Probably not… Oh well, let's go see if my food is ready before I leave.

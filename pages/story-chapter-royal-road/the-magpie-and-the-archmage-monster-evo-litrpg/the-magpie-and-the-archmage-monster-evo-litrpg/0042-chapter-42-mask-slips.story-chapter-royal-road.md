@@ -1,0 +1,169 @@
+---
+id: 4b5f0d7b-dcf5-567d-bf2a-0d73c657be27
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42 – Mask Slips"
+slug: 0042-chapter-42-mask-slips
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 42
+ownLength: 1910
+unit: words
+publishedAt: 2025-11-01
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2722100/chapter-42-mask-slips"
+royalRoadId: "2722100"
+---
+
+Serena looked into the darkness, patiently waiting for Skye's return. The more logical part of her said it was ridiculous—relying on a magpie to guide them through a dungeon. Letting her scout ahead and even allowing her to participate in battles.
+
+But Skye had proved herself more intelligent than some people. Far beyond what should be possible for a bird. Sure, magpies were considered one of the most intelligent birds. But stealing the pass that they needed to get into the city, guiding them through a dungeon, and finding the weak spot of that snake monster.
+
+Even for a magical familiar, it seemed like Skye was too smart, far too understanding. Not to mention that she had stopped them from advancing, instead forcing them to stay and wait. She likely had noticed something in the dark and wanted to make sure it was safe to move forward. Or at least so Serena told herself.
+
+"Are we seriously going to trust that bird?" Kiva huffed in annoyance.
+
+"Why not? What's the harm?" Kalen asked in confusion.
+
+"Did you never stop to think that Skye was far too smart?" Kiva said.
+
+"Well, sure, but she's a magical familiar. Surely her master had some magical stuff for her to become so smart," Kalen shrugged.
+
+"That is not how magic works. You can't just suddenly make a bird smart," Kiva retorted. "Isn't that right, Serena? You're the magic expert here."
+
+Serena frowned. She's read up on everything she could find on magical familiars in their meager town library. It was always her dream as a child to have one. It seemed like an unbreakable bond—an adorable creature loyal to you, supporting your every step of the way. Somebody who, on a subconscious level, understood you better than anyone else.
+
+Serena believed that the bond mage had with their familiar was just as strong as bonds among family, just as strong as her bond with Kalen. But from those same books, Serena knew that magical familiars were still who they were before. They can learn magic and skills through their masters, but they don't magically become more intelligent. It was just as Kiva said. Skye was indeed far too smart, even for a magpie.
+
+"No, but it is possible to train magpies. Maybe her previous master taught her these things," Serena said, trying to come up with a plausible excuse.
+
+"Taught her how to navigate a dungeon?" Kalen raised his eyebrow.
+
+Serena sighed. "Fine, maybe not. I don't know how Skye is so smart, but she's been nothing but helpful, has she not?"
+
+"If you discount the fact that she nabbed those glimmerstones," Kiva narrowed her eyes.
+
+"She gave them back in the end," Serena countered.
+
+"What if she's a slime monster disguised as a bird waiting for an opportunity to eat us to fill out the profile for human transformation?" Kiva said in horror.
+
+Serena and Kalen both gave her an odd look.
+
+"Slime, really? You mean those little blobs that die the moment you poke them with a stick?" He asked, then started laughing. "Since when are they able to change their shape?"
+
+"What if one evolves?" the weasel girl flattened her ears to her head.
+
+"A slime? Evolving?" Kalen shook his head and laughed. "They're lucky to reach Level 2 without dying. There is no way one could reach the level needed for evolution."
+
+"But what if it could! What if their evolution were a mimicry monster? Their slime is so malleable. I can imagine it being able to take any kind of shape!"
+
+Kalen and Serena stared at Kiva for a moment. After a short stare-down, she finally relented.
+
+"Okay, maybe Skye is not a mimic slime, but there's definitely something strange about that bird."
+
+"Maybe that's not really a bad thing…" Serena said. "Like I said, she's been nothing but helpful to us."
+
+"That is true… I shudder to think what would have happened if she hadn't attacked that nymph," Kalen said. "Besides, if she did mean us harm, she's had plenty of chances to do that by now."
+
+"You got a point there," Kiva drawled out, although she didn't appear fully convinced, her ears still pressed to her head.
+
+Suddenly, they perked up and perked in the direction of the tunnel. "Something's going on…"
+
+"What?" Kalen asked, but Kiva pressed her finger against her lips, indicating for them to stay quiet.
+
+Her ears moved and twitched as they tried to pick up on the sounds somewhere in the distance. Serena couldn't hear anything—everything seemed completely silent to her.
+
+But then suddenly there was a loud crash that came from somewhere further ahead in the tunnel, followed by tremors that gently shook the ground underneath their feet. Serena saw a few rats and bats zooming past them as they ran away from whatever made the noise.
+
+"What was that?!" Kalen asked.
+
+"I-It sounded like a cave-in…" Kiva replied, still listening intently. Then her ears lowered, and she turned the other way. "Run!"
+
+"What is it?" Serena asked.
+
+"Run!" Kiva repeated more insistently, physically pushing Serena forward.
+
+Then she finally heard it too. Angry snarling of various monsters as they were getting closer and closer.
+
+"Move!" Kalen grabbed Serena by her hand and pulled her after him.
+
+Serena forced her legs to move while listening to the noises behind her. There were loud shouts, the sound of metal against rock, and something else which she couldn't distinguish. Whatever made those noises, there was a lot of it, and it was quickly getting closer.
+
+Serena wanted to take a glance over her shoulder when a light flashed in front of her. The next moment, Kiva screamed, forcing Kalen and, consequently, Serena to come to an abrupt stop.
+
+A bird the size of an eagle hovered in the air in front of them. It had long, slender legs, black feathers which seemed to shimmer ever so slightly in the dark as if somebody had sprinkled tiny stars in its plumage. But what stood out the most were its intelligent, amber eyes.
+
+"What the hell is that?!" Kalen called out, pointing at the strange bird.
+
+But nobody had enough time to answer when a whole group of little reptilian creatures jumped out at them from the dark. Serena launched a fireball at the nearest one, hoping to knock it back. However, the flames merely danced around its scaled body, leaving it unscathed.
+
+"Those are kobolds! Fire won't work!" Kiva screamed, grabbing her bow and shooting an arrow at the nearest kobolds.
+
+It hit her straight in the eyesocket, killing it on the spot. Kalen cried out and charged at the group of kobolds, slashing at the little monsters with his sword. They were surprisingly agile, most managing to jump out of the way in time. Those who did get hit didn't receive deadly blows. Serena suspected that Kalen's sword had been greatly dulled against the scales of the snake they fought.
+
+Serena followed up by using her earth magic to create rocky spikes right underneath the kobold's feet. There was no chance for them to dodge—many died right on the spot, pierced by the stone.
+
+[You've defeated <Kobold – Level 4>. Experience gained.]
+
+[You've defeated <Kobold – Level 5>. Experience gained.]
+
+[You've defeated <Kobold – Level 3>. Experience gained.]
+
+[You've defeated <Kobold – Level 6>. Experience gained.]
+
+[You've defeated <Kobold – Level 3>. Experience gained.]
+
+[You've reached Level 8.]
+
+Just like Serena had completed their quest. However kobolds didn't care about that. Many remained—like bugs they crawled over their dead and injured brethren to attack Serena and her companions.
+
+Much to everyone's surprise, the bird released powerful slashes of wind at the kobolds, killing them instantly. The kobolds hissed at it, but then it just disappeared into thin air. One moment it was there, and the next it was gone. When Serena next blinked, the bird had reappeared right in the middle of the kobold swarm and produced a horrifying noise, which sounded similar to a hyena's cackle.
+
+It must have been a skill because the kobolds began acting very strange—it was like they didn't understand where they were anymore. They attacked each other and ran into walls while screeching incoherently. The bird used the opportunity to attack them, one by one, delivering powerful strikes with its beak.
+
+Kiva and Kalen weren't sleeping either. Despite the mayhem, Kiva kept shooting her arrows at the kobolds, killing one after another.
+
+[You've assisted in defeating <Kobold – Level 3>. Experience gained.]
+
+[You've assisted in defeating <Kobold – Level 5>. Experience gained.]
+
+[You've assisted in defeating <Kobold – Level 3>. Experience gained.]
+
+Kalen, meanwhile, disposed of any kobolds who managed to get past Serena's stone spikes, plunging his sword into their chest. They were still mildly disoriented, unable to tell left from right, so it made for an easy target.
+
+Serena aided them as well, occasionally producing a well-aimed shot at an exposed kobold. However, she wasn't as proficient with earth magic as she was with fire magic—it was eating at her mana reserves at an alarming rate. She wasn't sure if she would last through the battle.
+
+"I'm about to run out of mana," Serena called out.
+
+"There are too many of them! We need to get out!" Kiva called.
+
+As if to prove their point, a new wave of kobolds crawled from the dark. The bird sent several slashes of wind magic their way, defeating some of them. But as those kobolds crumpled, more took their place.
+
+"Run! Run! I'll hold them back," Kalen said, grabbing the nearest kobold and throwing it at its brethren.
+
+"No! You have to run too!" Serena called out, reaching out for her little brother.
+
+"He can't run unless we run first!" Kiva grabbed her roughly and tried to pull Serena along.
+
+But she remained on the spot. There was no way she was leaving her little brother behind. She took a deep breath and, using the last bits of her mana, produced another flurry of rocky spikes at the kobolds.
+
+[You've defeated <Kobold – Level 3>. Experience gained.]
+
+[You've defeated <Kobold – Level 6>. Experience gained.]
+
+[You've defeated <Kobold – Level 4>. Experience gained.]
+
+[You've defeated <Kobold – Level 6>. Experience gained.]
+
+[You've defeated <Kobold – Level 3>. Experience gained.]
+
+"Kalen, run!" She commanded.
+
+Kobolds, partially blocked by the spikes and partially by their dead comrades, couldn't immediately follow, so Kalen finally ran. He grabbed Selena by her hand and began pulling her while Kiva ran ahead of them with a torch in hand, being much faster. The only one who remained at the scene was the unusual bird, still fighting the remaining kobolds.
+
+Serena's gaze lingered on the bird as she ran, until finally the dark took over and she couldn't see either the kobolds or the bird. But the further ahead they ran, the more Serena felt that something was very wrong with the surrounding mana. As if somebody had dropped poison in it. Then a bright flash of light shone from behind them, blinding her.
+
+"What was that?!" Kiva called out in shock.
+
+"I don't know, but keep moving," Kalen said, not stopping for a moment and pulling Serena along.
+
+Serena stumbled, her eyes watering from the bright light. She relied fully on her brother to lead her through the dark while the monsters snarling echoed behind them.
+
+She risked a glance over her shoulder, but saw nothing but darkness. Her heart clenched. "What about Skye?"

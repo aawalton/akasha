@@ -1,0 +1,31 @@
+---
+id: 254fd813-4112-5c86-994e-26a1bc0bda2a
+page-type-slug: story-chapter-royal-road
+title: "Mecanimus, signing off."
+slug: 0166-mecanimus-signing-off
+partOf: the-calamitous-bob-stubbed
+position: 166
+ownLength: 369
+unit: words
+ownProgress: 369
+publishedAt: 2025-11-18
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2771794/mecanimus-signing-off"
+royalRoadId: "2771794"
+markedReadAt: "2026-06-29T21:20:23.242Z"
+---
+
+The Calamitous Bob is complete after 4 years of writing, 236 chapters and I’m guessing around 1.2 million words. I started this story as a humorous break from Journey, not realizing it would grow to become my most successful story. It has been an amazing experience and I would like to thank you for being there along the way. I had so much fun writing the shenanigans of this disaster cast, playing with tropes and expectations, and just going wild with some foray into ethical questions such as what is order, how can one be ethical in war etc etc. Thank you very much for playing along in the comments. I certainly hope you had as much fun as I did!
+
+What’s next? Well Changeling is well on its way, for those who may be tempted. I also have another story planned and partially written that will come out in a couple of months. It will be a timeloop called ‘The 108’ with a male protagonist this time. Stay tuned!
+
+If you enjoyed the story and would like to show your appreciation, there are plenty of ways to do so. I like comments obviously. If you enjoy audiobooks, Soundbooth also did some amazing work with two audiobooks already out while I write this conclusion. Consider giving them a listen as an early success increases the chances that we get the full series. I'm linking the audio page in the post chapter note.
+
+The books are also on Amazon. I’ll be releasing a new one on KU as well every time the corresponding audiobook comes out if you enjoy a more, ah, typo-free version. Don’t worry if you’re not interested in any of this! Reviews also help me a lot, or even just talking about the story. Every bit helps, if it pleases you.
+
+If you have any lingering questions, you can ask them here and I’ll return to answer them on occasion.
+
+Again, thank you for being there to hallucinate my words in your mind. Accept this last piece of art by Antti Hakosaari as a gesture of my appreciation (courtesy of my patrons). And may the Spark of Luck visit your neighbor instead!
+
+With all my gratitude.
+
+Mecanimus.

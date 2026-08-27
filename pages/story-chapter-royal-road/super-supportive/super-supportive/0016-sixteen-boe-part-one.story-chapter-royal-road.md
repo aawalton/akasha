@@ -1,0 +1,187 @@
+---
+id: 745c9347-ef16-536c-bbde-f08884ca8d29
+page-type-slug: story-chapter-royal-road
+title: "SIXTEEN: Boe, Part One"
+slug: 0016-sixteen-boe-part-one
+partOf: super-supportive
+position: 16
+ownLength: 2057
+unit: words
+publishedAt: 2023-02-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1118803/sixteen-boe-part-one"
+royalRoadId: "1118803"
+---
+
+Boe, Part One
+
+Alden stepped out of the elevator, yawning.
+
+Maybe I really will go get breakfast before I come back.
+
+It was five in the morning, but a coffee shop had to be open somewhere. It would be nice to hang out in a place other than consulate basement while he researched his new class.
+
+He stopped by the vending machine to buy a fruit punch for Gorgon, then he headed toward the lobby desk.
+
+“So, I’m a pre-affixed Chainer now,” he said as he passed the alien the bottle of juice.
+
+“That is an extremely rare assignment.” Gorgon spoke in the same totally inflectionless voice he always used when the conversation turned toward anything Alden might construe as advice.
+
+“It seemed like something I could trade more easily. The guy I got it from seemed to think so, too. I think I was really lucky, but he was a little odd about it. I’m gonna go grab a bite and figure out why.”
+
+“I see,” said Gorgon. “Thank you for the juice.”
+
+Alden hesitated, considering his next works carefully.
+
+“I’m still thinking over what you said to me last night. I…noticed it.”
+
+He felt the need to acknowledge Gorgon’s hint now that he was positive there was no uncomfortable servitude thing going on between the two of them.
+
+He had been relieved when he returned to the consulate last night with things that might qualify as actual luggage in hand, and the alien had completely ignored him. Alden had fumbled a two-person sleeping bag, snacks, bottled water, his book bag and his ancient laptop into the building. Yet Gorgon hadn’t lifted a finger for him.
+
+But he couldn’t help noticing that the alien’s gray skin was looking downright charred beneath his magical bonds.
+
+So Gorgon had crossed some sort of line for Alden. And Alden didn’t even know how to say thank you properly without possibly making the situation worse for him.
+
+For a beat, the alien was silent.
+
+Then, instead of replying to Alden’s attempt to subtly express his gratitude, he said, “I have received confirmation that you are allowed to have your friends accompany you into the trading room. They would only be able to provide you with moral support, however. My supervisor was disinclined to grant them temporary access to the trading interface.”
+
+“Wow. Thank you. I really didn’t even expect that much.”
+
+Gorgon shrugged. “Normally, she would have been easier to persuade. But she’s recently been penalized for consorting with a demon, and I believe she’s trying to appear more law-abiding than usual.”
+
+“Your supervisor hangs out with demons?” Alden asked. “Not like you, but actual monsters made of pure chaos?”
+
+He didn’t have a lot of knowledge on real demons. Earth was only contractually obligated to deal with one or two a year, and they all landed in a controlled zone on Anesidora where they were demolished in a matter of seconds by a few hundred Avowed working together.
+
+No media were allowed, so the semi-annual event was never more than a minor headline.
+
+Still, it didn’t sound like they were beings you’d want to consort with.
+
+“All Artonans of the highest ranks have interactions with what some might call true demons. My supervisor just picked a worse one than she should have.”
+
+“Well, let’s not make her mad, then,” Alden said.
+
+“Indeed.”
+
+The conversation ended on that disturbing note, and Alden headed out.
+
+The walk down the still-dark street cleared his head, and after a few blocks he came to a bakery that was just opening its doors. He ordered a matcha and bought a vegan brownie from the section of the case where the shop kept its day-old baked goods.
+
+Despite multiple attempts to force-feed himself old favorites like shredded cheese and bacon, all Alden had managed to do so far was nearly choke to death.
+
+He had confirmed that his new, magically enforced diet was only a diet though. It didn’t affect other aspects of his life. He could still use one of his dad’s old leather belts, and he’d enthusiastically murdered a cockroach he’d found running across the kitchen floor a couple of nights past.
+
+He might be able to make peace with the situation. Eventually.
+
+At least the brownie’s really good.
+
+He set his laptop up at a small corner table and started delving into the Chainer class. At first, it was all normal stuff. There were reputable sites with basic intel on the class’s natural stat bonuses and a few surprisingly sparse lists of the starter skills offered to each rank.
+
+Interestingly, Chainers didn’t seem to have access to spell impressions. Or at least none of them had ever publicly admitted to earning one.
+
+Must be a soft restriction.
+
+It meant that System-granted spells were probably reserved for the class’s S-ranks or as special rewards instead of something they could earn just by leveling up.
+
+The latter wasn’t a clear-cut or guaranteed process for Avowed. Not in the same way it was in a video game.
+
+Alden didn’t know about Chainers specifically, but for most classes, leveling purportedly involved expanding the functions of your starter skill through a harrowing mix of trial, error, and epiphany. Nobody had ever really come up with a sure-fire method for doing it, as far as he knew. And it wasn't like the System told you how to improve your skill.
+
+You just had to keep hacking away at it on your own and make it work. Somehow.
+
+Even with a limit on spell impressions, the Chainers weren't suffering. In fact, there was an entire multigenerational family full of them on Anesidora.
+
+Which was one heck of a shock to Alden, since classes didn’t run in families.
+
+Avowed almost always married other Avowed. And more often than not, their children were chosen by the System. But though they tended to inherit ranks similar to their parents’ own, naturally they couldn’t inherit classes.
+
+They got the same random selection as everyone else.
+
+Gorgon had told Alden that Avowed sometimes had strong opinions about their children’s class trades and got themselves overly involved. But this was something else.
+
+Apparently, there were a few extended families on Anesidora that had managed to make sure almost every single one of their children ended up with the same class. It was usually done for the purpose of consolidating knowledge about the classes themselves, and it allowed the families to train children from birth with some degree of certainty about what their future would hold.
+
+To get the classes they needed, these families took advantage of the trading option and offered hefty bonuses to purchase them when necessary.
+
+The practice of class hoarding wasn’t illegal. But it had become controversial in recent years. Not with the Artonans or with Earth’s governments, but with the other Avowed on the island.
+
+Alden mostly gleaned his information from opinion pieces in Anesidoran blogs and newspapers. Various columnists complained that the families in question were getting a little too good at managing their skill and spell selections. And then they complained even more about the fact that the hoarders wouldn’t share insights into their classes with people other than their own relatives.
+
+It just seems like a lot of sour grapes.
+
+High-ranking superhumans complaining that it wasn’t fair other high-ranking superhumans were getting extra-special advice about build refinement from their own parents was pretty far removed from the average person’s reality.
+
+Alden felt like he was reading angry letters written by billionaires who didn’t like the fact that bigger billionaires existed.
+
+The Chainer family—the Velras—seemed to be one of the main targets of all the vitriol. And it quickly became obvious why.
+
+They were collecting high-level wordchains by having every family member select different ones from the System. And because they were wordchains and not skills, they could be shared with the other family members very easily. The Velras were a huge deal on Anesidora, and the only reason Alden had never heard of them was because almost none of them were active superheroes.
+
+Apparently Keiko was the rogue family member, choosing to do her own thing in Tokyo. All the other prominent members worked for the Anesidoran government or held positions on elite battle squads that were only called out to deal with massive emergencies and the occasional demon-squashing event.
+
+And unlike other families going down the single-class route, the Velras were making a serious attempt to monopolize Chainer. They had somehow persuaded several Chainers they hadn’t been able to claim in any other way to marry into their family. Others were associated with them by magical contract.
+
+They’d even adopted a few people.
+
+Alden was seriously curious about what was going on with the class now. He was tempted to affix it just based on the fact that a family of superhumans had dedicated themselves to making sure nobody else got to play with it.
+
+But he really didn’t want one of the family’s four S-ranks to swat him like a gnat the second he stepped foot on the island. Or force him to marry their children. Or slap a new surname on him.
+
+Andrzej didn’t want to sell the class to them because it would be a bad look for him and his Avowed uncle when they’re so controversial right now.
+
+That’s why he told me I should pretend to be ignorant.
+
+This was…good for him. Really good. At least it was as long as Andrzej wasn’t lying, and people weren’t going to try to burn a clueless newb at the stake if he traded the class to the Velras.
+
+So maybe what happens now is I contact them, they pay me a ton of money for the class, and then I use it to pay someone else for whatever one I want?
+
+But what if they don’t have any kids eligible to receive the class in the next three months? How does that—
+
+The sound of his cellphone ringing interrupted his thoughts. It was Boe.
+
+“Hey,” Alden said, still staring at his computer. “Did you know there’s a family that collects the Chainer class on Anesidora? Like, most of the people on Earth who have access to it are related to them in some way?”
+
+There was a moment of silence. Then, Boe said, “Good morning to you, too. Why are you telling me about the Velras at the crack of dawn?”
+
+Ah. That was unusual behavior.
+
+“Sorry. Morning. What’s up?”
+
+“You. Apparently. I haven’t even had coffee yet. I’m calling to ask if you’re coming to school today or if you want me to pick up your assignments?”
+
+Alden’s guts twisted uncomfortably. He had to tell his friends sometime. And Boe was probably the right one to tell first, since they’d been friends longer.
+
+He glanced toward the bakery counter. Nobody was there. The woman who’d sold him the brownie was busy stocking the display case, and she kept disappearing into the kitchen.
+
+“Alden? You there?”
+
+“I…got selected,” he muttered quietly.
+
+The connection went dead silent. The tone of his voice must have been enough for Boe to guess what he was selected for.
+
+But when his friend didn’t reply immediately, Alden thought maybe he needed to say it more clearly. “Yesterday. Right after that Hamlet quiz fiasco. I got chosen as one of the—”
+
+“Don’t say it over the phone.” Boe’s tone was hard to place, but if Alden had to, he’d put it somewhere between annoyed and afraid.
+
+Which seemed like a strange reaction. But Alden had wandered out of school yesterday, gotten lost, and then called a rideshare from the parking lot of a random podiatrist’s office. So maybe the news was just the sort of thing that made everyone act a little off.
+
+“Where are you right now?” Boe asked. “With Gorgon?”
+
+“I’m at a bakery a few blocks away.”
+
+“I’ll come.”
+
+Alden was startled. “You don’t have to. We can just meet up after school.”
+
+“Have you pulled the trigger yet?”
+
+Alden heard a series of loud bangs, as if his friend was opening and closing doors or drawers in rapid succession.
+
+“I haven’t affi—”
+
+“Don’t say it over the phone. And good. I’ll get dressed and be there in like an hour. Don’t get excited and do anything stupid.”
+
+“What’s that supposed to mean?”
+
+Boe was already gone.

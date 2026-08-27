@@ -1,0 +1,237 @@
+---
+id: a677df57-8b44-5809-a9f8-fc19ccccee01
+page-type-slug: story-chapter-royal-road
+title: "Chapter 663 - Into the Arena"
+slug: 0664-chapter-663-into-the-arena
+partOf: mythrans-master-of-all-continued-completed
+position: 664
+ownLength: 3125
+unit: words
+publishedAt: 2018-08-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242094/chapter-663-into-the-arena"
+royalRoadId: "242094"
+---
+
+Ren woke up and still had 5 minutes left for preparations. He didn't have anything left to do, so he kissed Artemis, Suniva, and the 4 succubi with him in the room. When they left the bedroom, the other succubi were there waiting for him. He gave them all a kiss on the cheek and their favorite emotions, since they also had their significant others with them, then he left the roost to head to the arena.
+
+The place was packed.
+
+Ren cast Full Illusion on himself so that no one would recognize him and try to attack him, delay him, or in any way interfere with him getting to the arena. He could have just used a portal, but he had forced Teepo to stay in the ring for half an hour while he set up the displays around the country, and he didn't want to make him do it again until it was necessary.
+
+Ren had set up a special seating section for the people that wanted to be there to cheer him on. Artemis, Seldanna and all of the succubi, and Suniva sat there... as did Elise the Half-Elf, Lara the Sage of Ages, Denise the Amazonian Barbarian, and every one of the girls from the Pleasure Palace. Even Janice the Glassworker was there, as was Clint and the guys from his party; which included Billy for some reason. Clint and Tommy had brought their girlfriends, too.
+
+None of the players knew it was him as he walked by their section, until Gina recognized his Ugly Man disguise. She caught her breath and tapped Jennifer's arm, and she saw who Gina was looking at.
+
+“YOU!” Jennifer yelled as she jumped out of her seat, and Ren stopped walking. She quickly walked over to him and stood in front of him with her arms crossed under her breasts. “I tried visiting you a couple of times, but you were never around.” She accused with anger in her voice.
+
+“I'm terribly sorry, miss.” Ugly Ren growled as he apologized. “I had ta stay at me other house because of other concerns.”
+
+“Really?”
+
+Ugly Ren nodded. “Just being around hurt some of those I cared about, and I need to wait fer the game ta update before I can come back.”
+
+Jennifer could tell that he was telling the truth and uncrossed her arms as she sighed. “I really missed you, Santa.”
+
+Ugly Ren laughed a thick gravelly laugh and remembered their last visit, and Gina gasped as the sound washed over her. He took Jennifer's hand and stopped himself from kissing the back of it, because that would have given him away in a heartbeat. Instead he stepped forward and put her hand on his crotch, which made everyone nearby gasp and mutter about doing lewd things in public.
+
+“This missed ya, too.” Ugly Ren growled, and Jennifer's eyes widened as she felt his hardness, then she gripped him through his clothing and grinned.
+
+“You better visit me later.” Jennifer commanded and didn't let him go until he nodded. “Now get out of my sight and sit somewhere else.” She spat. “This section is for Ren supporters only.”
+
+“Of course, miss. Sorry, miss.” Ugly Ren said submissively and started to clomp away. “He sure is lucky ta have so many friends.”
+
+They all watched as Ugly Ren quickly moved down the aisle and out of sight, and Jennifer went back to her seat and sat down.
+
+“Found someone else to play with, have you?” Billy asked.
+
+“I have lots of people to play with, Billy.” Jennifer said without turning around.
+
+“Billy.” Clint said in a harsh voice.
+
+“I wasn't trying to start a fight.” Billy said to him. “I was just asking if she's happy.”
+
+“I enjoy it, but does having fun make me happy?” Jennifer asked. “I don't know.” She said. “I used to think it did, but then things...” She shook her head. “I'm not thinking about that right now. We're all here to watch Ren fight and to support him against that headhunter.”
+
+“Well, the headhunter has a prime target, doesn't he?” Billy asked, and they all looked at him, even the dancers. “What? He gained three more spots on the XP leader board after he was challenged, didn't he?”
+
+No one could dispute that fact. They had all discussed at length how he could have done it; but, none of them could come up with how it was possible. Once was practically guaranteed, since he had done it 5 times before. Getting three records at the same time had them completely stumped. The totals were blocked as well, so none of them could even guess at how much he could have gotten. They only knew that he had taken the top three spots and had pushed the others down.
+
+“Hey! I think he's coming!” One of the dancers shouted as the main doors in the arena opened, and a hush fell over the crowd. A golden armored figure stepped into the arena proudly and casually strolled all the way to the middle after the doors shut behind him. When he stored his helm, hundreds of people started booing him when they saw who it was.
+
+“Yes! YES!” Glastor Killdane yelled, and everyone heard him. “It is me! I have come to kill the holder of the top spot on the XP leader board!” He lifted his arms and waved to everyone, and thousands more boos joined the others. He could feel their distaste and hatred power up his abilities, and he made kissing motions to the crowd, which generated more hatred and distaste.
+
+A second later, hundreds of screens appeared in the air 100 feet up, and each gave a close up shot of the middle of the arena, just like all the displays scattered over every city and town in the country. Shouts and hollers ran through the crowd as they saw the displays. Most wondered how it was possible, some wanted to know how it was done, and a lot of them wanted it for themselves.
+
+The other set of doors across from the main doors of the arena opened, and the crowd quieted as Ren, dressed only in basic Travelling Clothes, stepped into the arena.
+
+“What's going on?” One of the dancers asked. “He's not wearing armor or anything.”
+
+“Maybe he wants everyone to see him first?” Jennifer offered.
+
+No one else gave a better explanation as Ren walked to the middle of the arena and stopped 30 feet away from Glastor Killdane.
+
+“Before we get started, I just want to say a few words.” Ren said, and everyone heard him as if he was standing right next to them. “I'm not going to hold back during this fight, and I don't want anyone getting hurt.” He said and turned to a small section. “Except for you and your people, Tristan.”
+
+Tristan stood up with a big smile. “You're pretty arrogant, pipsqueak.”
+
+“I can feel everyone's emotions within my Aura, which is at a thousand feet without my armor and boosters.” Ren said, and he felt surprise from everyone. “I can pick out the individuals that want to hurt me, so I'm inviting you to enter the arena.”
+
+“HEY!” Glastor Killdane yelled. “This is my fight!”
+
+Ren chuckled. “Don't worry, this won't take long.”
+
+“I don't feel like ruining your big fight, not in front of all these people.” Tristan said and sat back down. “I can wait.”
+
+“Until afterwards or during the fight?” Ren asked, and saw Tristan's eyes shift sideways. “Okay, I'll delay the invitation until later. I doubt you'll want to challenge me then, though.”
+
+“We'll see.” Tristan said.
+
+Ren turned to Glastor. “Looks like you were worried for nothing.”
+
+Glastor laughed and nodded, and Ren turned to look at the crowd.
+
+“As I was saying, I don't want anyone getting hurt, so I've taken certain precautions.” Ren said and raised his hand. “Like so.”
+
+A Permanent Magical Barrier of Protection appeared 200 feet above the middle of the arena and formed a dome that stopped right at the walls of the seating area. Everyone was shocked at the size of the thing and some players felt that he was tricking them.
+
+“I assure you that it's real.” Ren said. “Please don't be scared as I prove it.”
+
+No one said anything as he took out a wand and pointed it right at Tristan and cast a Level 5 Fireball. The 20 foot wide Fireball shot across the arena instantly and struck the barrier. The barrier didn't even vibrate from the impact as the Fireball exploded and covered 100 feet of the barrier in front of Tristan, then it disappeared as there was nothing for it to burn.
+
+Most of the people in that section had ducked or tried to dodge, except for Tristan, who was too shocked to move. The people in the surrounding sections had screamed and hollered.
+
+“It's okay, everyone!” Ren exclaimed. “I told you not to be scared and that I don't want any of you to be hurt.” He said and stored the wand. He had felt a keen interest from Glastor because of that little stunt.
+
+“Come on, let's get this over with.” Glastor said.
+
+“I only have a couple more things to say.” Ren said, then felt a portal appear in the stands. He looked over and saw the portal open wider and that it was near his support section. Several of the dancers nearby started to panic, and Clint and his party stood up with weapons ready. Ren was suddenly right there by the barrier and pushed Calmness and Reassurance into his Aura.
+
+“Don't attack!” Ren said. “She's just a little late and making a dramatic entrance.”
+
+Lylyth, Queen of the Dark Elves, stepped out of the portal with Tiatha, and Dread covered everyone within her Aura. Clint and his party tried to hold their weapons steady in the presence of such a creature; but, all of their hands shook and they couldn't move. Lylyth's familiar poked its head out and waved a leg at Ren, and he waved back. It crawled through and all the dancers screamed, except for Jennifer.
+
+“Don't panic! He's her familiar!” Ren exclaimed and joined his Aura with that of the Pleasure Palace. All of the dancers were wearing their brooches and felt Ren's calmness fill them. “He won't hurt you unless you hurt him.”
+
+“I think you need to stop with all the surprises.” Jennifer said and looked up and up at the Queen of the Dark Elves. “Hi.”
+
+Lylyth smiled down at her. “So, you are the one he likes enough to break his own rules.”
+
+“Wh-what?” Jennifer looked at her, confused.
+
+“Not too bright, though.” Lylyth said and looked at Gina. “Excuse me.”
+
+Gina startled and jumped up out of her seat, then moved over to the end of the row and sat down.
+
+“That was mean.” Jennifer said as Lylyth sat down beside her.
+
+“She can't stand being near me.” Lylyth said, honestly. “I merely gave her an excuse to move.”
+
+Jennifer looked down the row and saw Gina was giving them furtive glances.
+
+“They all seem to be having a difficult time, except for you.” Lylyth said and pat her hand. “I can see why he likes you.”
+
+“Who?”
+
+“Ren, of course.” Tiatha said. “My Queen, I will be over there if you need me.”
+
+Lylyth waved her away and Tiatha went to sit beside Gina and they started talking. Caramel leaned forward and whispered in Jennifer's ear.
+
+Jennifer nodded and turned to look at Lylyth. “Can you... like... ease off that dread feeling?”
+
+“Of course, dear.” Lylyth said and deactivated her Dread Aura. Everyone around her sighed in relief, and Clint and his party sat down, now that the threat was less severe. They kept their weapons handy, though.
+
+“Thank you.” Jennifer said.
+
+“You know, most people just attack to stop that feeling.” Lylyth turned her head to look at Clint, then looked at Caramel. “It's rare for someone to just ask.”
+
+“Did Ren ask you to?” Jennifer asked, curious.
+
+“Not once.” She said.
+
+“He did not attack you.” Jennifer said seriously, and Lylyth laughed.
+
+“Of course not.” Lylyth said. “He was a perfect gentleman, and that alone made me like him.”
+
+“What did he do?”
+
+“He offered to feed me to save his friend.” Lylyth said. “She had insulted me, quite brazenly, and he made it up to me.” She smiled as she remembered their first feeding. “He satisfied me quite well, I must say.”
+
+“Me, too.” Jennifer said, then her face went red. “I did not say that out loud. I didn't.”
+
+Lylyth laughed, and Jennifer shivered as it went right down her spine and she couldn't tell if she liked it or not.
+
+Ren relaxed as the stir Lylyth's arrival had caused faded to only uncertainty, and he ran back to the center of the arena. “Sorry about that slight delay in my monologue.” He said, and several people chuckled. “Now, as I was saying, my Aura goes out to a thousand feet without my armor and boosts, so when I equip everything, you are all going to be covered by it.”
+
+Everyone exchanged glances and he felt their disbelief.
+
+“I'm going to be using it as a weapon, but I don't want you to freak out when you feel it.” Ren said. “I don't think it'll work on my opponent, but I've got to try everything, right?”
+
+“Yeah!” Someone yelled and stood up. “Kill his ass!”
+
+“Hey, I know you.” Glastor said. “You used to be first on the leader board and now you're ninth, right?”
+
+Ren felt the guy's hatred, and he felt Glastor kind of feed on it.
+
+“It's going to be a good fight.” Ren said to the guy. “I can't predict the outcome, though.”
+
+“Forget giving us a good fight! Kill him! He's right there!” The guy said, and both Ren and Glastor laughed.
+
+“You do realize he could do the same thing to me, right?” Ren asked, and the guy frowned at that, then sat down. “We're having a duel, and there are some rules. Until it starts, we're in a kind of safe zone.”
+
+Ren felt an odd mix of disbelief, wariness, grudging respect and acceptance from the crowd.
+
+“So, what we are going to do is going to be scary, and intense, and will shock you.” Ren said. “Please, don't try to interfere.” He said and glanced at Lylyth, then turned and looked at Tristan. “No matter what happens.”
+
+“As long as he kills you, I'm good.” Tristan said.
+
+“I will harvest his bones after your death.” Lylyth said.
+
+“As long as we're clear that it's not during the fight.” Ren said, and a lot of people laughed. He turned and motioned to Glastor Killdane. “You let me speak my piece, so you can do the same if you want.”
+
+Glastor Killdane nodded and turned to the crowd. “I see a lot of you like this guy.” He said and bared his teeth. “I'm going to break his arms and legs and shove a staff up his arse, then I'm going to drag him all around this arena to show off my new scarecrow.”
+
+The boos from the crowd started again and intensified.
+
+“I'm going to tear off his head and I'm going to mount it on my armor.” Glastor said. “I'll have it cast in molten metal so that I'll always have the best trophy in the game! I'll have killed the only player to have gotten the top XP leader board spot 8 times!”
+
+The boos were almost a continuous wave now.
+
+“There's no greater feeling than beating someone so prominent.” Glastor continued, despite already being hated and despised. “I will kill him, and I will enjoy it.”
+
+“To your corners!” Artemis said when she was sure Glastor was done talking.
+
+Glastor and Ren moved around to stand about a 200 feet apart in the middle of the arena.
+
+“Equip armor!” Artemis commanded.
+
+Glastor put his helm back on and Ren equipped his full set of platinum armor. Everyone in the arena felt the strength and power of his Aura as the armor took effect. Glastor felt the change in the people's hatred for him shift to neutrality.
+
+“Equip weapons, defenses and power ups!” Artemis said.
+
+Glastor equipped his special sword and shield, and the other boosters he needed to increase his speed and number of attacks. He's never going to take 15 hits at once. He thought and smiled.
+
+Ren equipped his platinum tower shield and his hammerpick, which doubled in size, then he equipped all of the bracelets and non-bracelets, rings and non-rings, necklaces that weren't necklaces, anklets and non-anklets, a backpack, a fanny pack, and packs attached to his lower arms, upper arms, thighs, calves, and on the inside of the tower shield. The last things he added were a cover to the shield that had thousands of little spikes on it, and two large metal bars on his shoulders with diamonds the size of his head on the ends.
+
+With each new addition, the sense of power from Ren doubled, then doubled again, then again. No one in the arena breathed as the oppressive feeling of contained power held them too still to even think of breathing. Ren now looked like a platinum covered tank.
+
+“He has definitely outdone himself.” Lylyth said, and activated her own Aura. It merged with Ren's for an instant and she absorbed that overwhelming feeling from everyone and deactivated her Aura. The whole arena took in a breath at the same time, and Ren turned his platinum-armored head to her and nodded.
+
+“Wh-what was that?” Jennifer asked.
+
+“I believe it was his Awesomeness Aura.” Lylyth said. “He sometimes forgets that even with a warning, he can be too much to handle.” She smiled. “I hate being such a fool sometimes.”
+
+“What?” Jennifer looked at her with wide eyes at the abrupt change of subject.
+
+“He offered me more than I could have ever dreamed of, and I turned him down because of my people.” Lylyth said. “He will always be my Royal Consort; but, he will never be the King my people will accept.”
+
+“He's a king?!?” Jennifer exclaimed.
+
+“After what I just told you, that is the part you focused on?” Lylyth asked and laughed.
+
+“But...”
+
+Lylyth took her small hand in hers and pat it. “Watch the fight and root for him, just like he wants you to.”
+
+Jennifer nodded. “Okay.”
+
+They both turned their heads to look into the arena, and Jennifer's hand gripped Lylyth's tightly as they both waited for the signal from Artemis for the fight to begin.

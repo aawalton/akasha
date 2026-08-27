@@ -1,0 +1,141 @@
+---
+id: 0efff620-7bc0-5364-869e-825e4c639a5b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 524: Fighting Chance"
+slug: 0090-chapter-524-fighting-chance
+partOf: rise-of-the-living-forge
+position: 90
+ownLength: 1740
+unit: words
+ownProgress: 1740
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2813586/chapter-524-fighting-chance"
+royalRoadId: "2813586"
+markedReadAt: "2026-06-29T20:01:18.951Z"
+---
+
+Arwin’s team arrived at the dungeon around 11 hours after leaving Milten. Their trip went surprisingly well. There wasn’t a single incident the whole way over. Either they’d gotten incredibly lucky or Art had arranged to make sure nobody would follow them from Milten.
+
+He was partial to believing the second option. Arwin wasn’t a huge believer in coincidences.
+
+The dungeon in question was situated at the top of a small valley and surrounded by looming mountains whose shadows cast the dungeon and the valley beneath it into chilly darkness.
+
+There had been no attempt to hide or conceal the entrance of the dungeon. It was a large marble structure roughly the size of a two-story house. Thick beams of white stone rose up around the entrance to support a plain but grand roof. The dungeon had no walls, allowing them all to see the twisting white portal waiting behind the pillars.
+
+Nobody else seemed to be in the area. That wasn’t a huge surprise. This dungeon was quite out of the way. Even though Arwin’s knowledge of local geography was poor at best, he knew Milten was pretty out of the way.
+
+There weren’t going to be many people hunting for dungeons this far away from the city. Espeically when there were quite a number of them much closer, and most of the adventurers visiting the area weren’t so obscenely powerful that they had to look for something this far out.
+
+That didn’t mean somebody couldn’t show up. There was always a chance, and dismissing it would only lead to being surprised. It was far better to prepare for the worst than to expect the best.
+
+“Everyone take some time to relax,” Arwin said. “We don’t want to go in there exhausted. We're about an hour ahead of schedule. I’m confident we’ll be able to clear the dungeon quicky, but let’s not take any risks. Rest up with the time we’ve bought ourselves.”
+
+Nobody argued with him.
+
+An hour wasn’t that long in the grand scheme of things, and it was well worth the time to rest instead of pushing ahead like idiots and getting hurt because of it.
+
+Arwin kept watch while everyone else relaxed. There still wasn’t anything out of the ordinary that he could make out. [Dragon’s Greed] didn’t find anything beyond what was inside the dungeon itself.
+
+It wasn’t long before all of them had recovered. There was nothing left between them and the dungeon. So, with little more than a round of exchanged nods, the four of them advanced into the dungeon.
+
+Pale, bluish-white stone materialized beneath Arwin’s feet the moment he stepped through the portal. He was instantly hit with the scent of something very, very old. It was something between a damp moss and a slightly sickly earthy smell.
+
+They stood in a looming hall, the portal they’d just stepped through at their backs. The arch of the hall was nearly twice the height of a normal ceiling, as if it had been sized for people far larger than normal humans.
+
+A faint glow emanated from the stones. It was dim, but since every single surface in the dungeon seemed to be made of the same stone, it was more than enough to see by for the time being. There were rectangular holes within the walls to their sides, as if something long had been meant to be stored within them, but all were empty.
+
+The hall almost immediately branched off in two directions just in front of them. There didn’t seem to be any real difference between the two paths — except for the fact that the golden pathway illuminated by the crown clearly headed off to the left.
+
+“Whoa,” Olive whispered. “It’s pretty. In a creepy way. Kind of like ghost stones. Do you think we could steal a rock on the way out?”
+
+“Let’s see how things go first,” Arwin replied. “We don’t want to somehow trigger a trap and bring the whole dungeon down on ourselves before we have what we’re here for. Follow me.”
+
+He started off toward the left path.
+
+“We might be dealing with undead,” Kien warned in a low tone as they walked. “This lighting scheme is common among such dungeons.”
+
+“The lighting scheme?” Olive asked. “You’re telling me ghosts have group meetings to decide on décor?”
+
+“Probably not ghosts. They prefer a deeper green hue,” Kien replied. “But there could be some wraiths present. And yes. Undead like pale colors. Blues, muted greens, things that feel peaceful or remind them of the earth.”
+
+“…seriously?”
+
+“Yes,” Kien said. “Do not forget that many dungeons attract wandering monsters. It would only make sense for monsters to be more drawn to dungeons that suit their desires for a home. Would you want to live in a barn?”
+
+“What kind of barn is it?” Olive asked.
+
+“Perhaps I should have expected that answer,” Kien grumbled, a small smile pulling at his lips. “But—”
+
+A faint click echoed through the hall. Kien’s broom rose instantly as he spun toward the source. Something blurred from the walls. Arwin caught a flicker of gray heading straight for Anna’s back.
+
+Caldera materialized in his hands in an instant. He didn’t even spend time to see what the blur was before the hammer was already hurtling through the air with a shrill scream. There was a heavy crunch followed an instant later by a clattering crash as a skeleton smashed into the wall across from them.
+
+At least, it had once been a skeleton. What remained now were a thousand different shards of bone that glowed the exact same dim blue as the stone surrounding them. The monster’s body had been completely obliterated. Large chunks of it were melted from the heat rising from Caldera’s head, and there was no sign at all of its head or upper body.
+
+No identification from the Mesh rose. The monster had died before it had even had a chance to be announced.
+
+They all stared at the monster’s pulverized remains for a second.
+
+“Shit,” Olive muttered. “What did they put in your cereal, Arwin?”
+
+Arwin just shook his head. He’d barely even felt the impact of the strike.
+
+“Look,” Kien said, stepping past Arwin and touching his hand to the wall where the skeleton had come from. There was a suspiciously skeleton-shaped hole in the stone. “It was melded into the wall. Our enemies could be anywhere.”
+
+“That’s problematic,” Anna said grimly. “We could already be surrounded. And the deeper we go…”
+
+Arwin frowned. He was actually less worried about their chances against a single powerful monster as he was a horde of average-strength ones. There were only so many places he could be at once.
+
+“What do we do?” Olive asked. “The mosnters can’t be that smart. One just attacked out of nowhere. But if they can communicate or saw what happened, they could try to ambush us.”
+
+That’s annoying. I almost wish I hadn’t killed it so fast. If I knew what rank the thing was, it would make it a bit easier to figure out where to go from here.
+
+“We need to make sure not to leave any behind us,” Kien said. “Otherwise, we risk a horde bearing down on our backs. This is a high ranked dungeon. That risk is not one we can ignore.”
+
+He’d mirrored Arwin’s thoughts exactly.
+
+Arwin studied the stone intently. The monster had been melded perfectly with the wall. If it hadn’t attacked, he was pretty sure they would have had absolutely no way to know it was there.
+
+“Ah,” Arwin said. His eyes lit up as an idea struck him. “Okay. I’ve got it.”
+
+“Really?” Olive asked.
+
+“You don’t have to sound so surprised,” Arwin said. “It’s a little offensive, actually.”
+
+“Sorry,” Olive said sheepishly. “It’s just Lillia or Rodrick usually come up with the plan. You usually just smack things. I’ll work on being more open minded.”
+
+“So… what’s the plan?” Anna asked.
+
+Arwin glanced from the others back to the wall. Then he adjusted his grip on Caldera. Dungeons were remarkably durable. It was incredibly difficult to deal damage to them due to all the magical power infused into their very being.
+
+But if monsters were hiding in the walls… well, that was a lot easier to damage.
+
+Arwin reared back. He felt familiar magic course through his veins like liquid adrenaline, filling him to the brim. Kien’s eyes widened. He took a step back, pushing the others away with his broom.
+
+Then Arwin swung his hammer. Caldera transformed into a streak of molten black motion.
+
+The weapon slammed into the stone to Arwin’s side with a deafening crash. The ground bucked beneath his feet and a huge tremor rolled through the wall.
+
+Two skeletons in front of them were physically thrown free from their hiding spots and smashed into the far walls of the hall. This time, the Mesh actually had a chance to identify them.
+
+[Palebone Skeleton – Expert 3]
+
+The monsters charged, but Arwin was already swinging. Caldera slammed into both of the skeletons in the same strike, sending them both smashing into the wall with yet another enormous crash.
+
+Bone fragments flew in every direction as the two skeletons were pinned and crushed in an instant. The parts of them that hadn’t been melted into the stone clattered to the ground in a ringing rain.
+
+Everyone stared at Arwin.
+
+“I take my apology back,” Olive said, staring at him with equal parts awe and disbelief. “Your solution was hitting the dungeon?”
+
+“What?” Arwin asked. “It’s a good plan. It worked! And hey, now you get to take some pieces of shiny stuff back. You don’t get to complain.”
+
+Olive looked down at the remains of the pale, glowing skeletons on the ground. Then she quietly crouched and scooped a few into her pouch.
+
+“Okay. Fair point,” Olive said. “But what now? You can’t mean to…”
+
+Arwin smiled in response. “Oh, I most certainly do. I have no interest in creeping silently through the dungeon at this point. None of us have a way to locate the monsters in hiding, so I’ll just be forcing them out.”
+
+“I suppose this will give the monsters a fighting chance.,” Anna said meekly, still staring at the remains of the two Expert Tier Skeletons.
+
+“No,” Kien said, shaking his head grimly as Arwin hoisted Caldera once more. “I don’t think it will.”

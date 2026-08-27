@@ -1,0 +1,149 @@
+---
+id: 8a6fa9c2-c9a0-5235-9d3c-eceade494187
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1150 - Return of the King 2: Gold Edition"
+slug: 0022-chapter-1150-return-of-the-king-2-gold-edition
+partOf: the-primal-hunter
+position: 22
+ownLength: 2709
+unit: words
+ownProgress: 2709
+publishedAt: 2025-08-13
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2515160/chapter-1150-return-of-the-king-2-gold-edition"
+royalRoadId: "2515160"
+markedReadAt: "2026-06-29T19:29:57.185Z"
+---
+
+Death... was no stranger to him. This wasn’t even his first time meeting his own demise. Both times, he had been slain by a foe he had failed to adequately assess, but the circumstances had differed vastly.
+
+The first time, because of his own overconfidence and arrogance, while the second time around, he had walked toward death willingly. Intentionally. Looking back at the decision made that day, it was a puzzling one.
+
+Unique Lifeforms were beings at the pinnacle of the multiverse. They were the darlings of the system itself and tended to be hard-pressed to find equals in their own level range. Yet he had been surrounded by them and even given his life to save another creature he’d come to consider a peer. In large part due to feeling a sense of responsibility for having put the two of them in a precarious position in the first place.
+
+However... could a creature so innately arrogant as the Fallen King truly give his life so selflessly? The answer was no. Not truly.
+
+The King felt like he had been stagnating, and he knew why. He was a King. A ruler. A sovereign meant to rule over other monsters in his dominion, yet that part of his identity had not only been put on the back burner but suppressed by his circumstances.
+
+Despite the hunter never abusing the fact that he held the King’s life in his hands, the fact that he did remained. That being the case, could he truly call himself a King? What kind of king could claim competence in ruling others when he couldn’t even rule over his own life and death?
+
+His entire existence had become a disgusting parody of what he was supposed to be. The name Fallen King had been chosen as a reminder of his own incompetence. To remind him that he’d fallen once and to never repeat that mistake.
+
+A reminder he’d followed... even as he’d seemingly fallen once more. But this time it hadn’t been a mistake, but done in a very deliberate fashion. Seeds had been planted for the future, and all the King could hope for was that those around him would be competent and willing to pick up puzzle pieces he’d left behind.
+
+Dying by sacrificing himself should also serve as an adequate motivator. The hunter had proven himself a person who would go to the edge of reality if it meant helping those he cared about or repaying a favor. Of course, it remained a threat that should the hunter die, so would whatever remained of the King, but such was a risk he’d willingly taken.
+
+And as the consciousness of the Unique Lifeform known as the King reformed, it appeared his risk had paid off. A small spark of awareness had slowly sprouted into more as the mind of the King had gradually been reassembled over a long period.
+
+The copy of his consciousness – something the King had spent years forming – re-merged with the rebuilt soul of the Unique Lifeform, allowing him to once more remember who he was. He had stored this spark within his true body worn by the hunter, as that had been both the safest and only option he had.
+
+As more and more awareness emerged, the King began to faintly perceive his own surroundings. The first thing he noticed was just how energy-dense the environment was. It far surpassed any expectations he had, and what’s more, the mana filling the air clearly belonged to a powerful entity.
+
+Before the King could even fully understand what was happening, the being ruling the realm he found himself reconstituted in let herself be known.
+
+“Unique Lifeforms also surprise me. Each one of you is odd in your own ways, which is worth preserving simply on account of your lives being unique.”
+
+The King, not yet able to distinguish anything in his surroundings, felt the voice directly invade his mind as he could only answer by faintly projecting his own thoughts.
+
+“Who?”
+
+“However, what you also have in common is an extreme level of natural competency that leaves most so-called young geniuses full of envy,” the creature the King knew had to be a god, completely ignored his question.
+
+“Do not believe what you did can be hidden from me. Your plans are as clear as the sun at dawn. In order for something to be fixed, it sometimes has to be broken first – for a connection altered, one has to nearly sever it in preparation. This... death of yours. It was far too convenient and purposeful.”
+
+The King remained silent, fully aware that the creature the hunter had found to assist in the resurrection was far from simple. Sure, the Unique Lifeform had known the process wouldn’t be easy and perhaps even include another miracle provided by the system, but the current scenario still seemed like overkill.
+
+“I would ask you the reason behind the subterfuge, but instead, I will ask you only two questions. Answer these truthfully, and I shall ignore what I know and keep it hidden. Lie, and your deceit shall be revealed. Do you accept?”
+
+Left with no other option, the King naturally agreed.
+
+“Was this done out of harboring hatred or negative emotions toward others, or because you had to do it for your own Path?”
+
+“Path,” the King answered truthfully. And it was indeed the truth.
+
+The god who had facilitated the King’s return had been entirely correct in that his demise had been planned to some extent. The timeline had been moved up by circumstances, but the intent had been there for a while.
+
+He knew he had to do something drastic to save himself. Ever since the King had been bound to Jake, he’d looked for a way to sever the connection, but everything had been in vain. As the god said, in order for the connection to be severed, it had to be nearly entirely broken first.
+
+Seeing as the connection had been formed through death, the only solution was to fix it using similar means. The King had to die in order to once more live as an independent creature, at least that’s what he believed.
+
+As for why he hadn’t simply spoken to the hunter about this… well, because the King knew Jake would have agreed to help, and that was unacceptable. For too long had the King relied on the hunter and had to ask for help. This time around, the King hadn’t been willing to ask.
+
+Instead, he’d purposefully manipulated the hunter into a scenario where he would do what the King wanted him to. In truth, the King didn’t like having to do this as he believed it beneath him, but he also couldn’t have his new life start on the terms of the hunter. He had to at least feel like he’d been the impetus behind his free existence, even if that feeling was nothing more than delusion on the King’s part.
+
+It was all about feeling like he was in control once more. Even if he ultimately still had to rely on the help of others to resurrect fully, what king didn’t have others assist him at times?
+
+“As suspected,” the powerful goddess said, seemingly satisfied with the King’s answer. “Second question… will you swear to never so foolishly risk your life again? Despite your machinations, the fragments you created were far from perfect. You played with concepts beyond your standing and nearly doomed yourself in the process. Such disregard for life is distasteful.”
+
+The second question was an odd one, but it provided the King with an answer as to who was helping him. He felt the powerful nature and life mana everywhere, and the magic affecting his soul was faintly reminiscent of what Dina had used. Considering the hunter’s affinity to get involved with only gods at the pinnacle of existence and the fact that the god who was speaking to him was female, he quickly put together who exactly the hunter had found to help.
+
+“I swear to the Mother Tree,” the King answered, putting much effort into making a complete sentence. In his current state, he couldn’t even fully feel his body, or if he even had a body. For all he knew, he was just a drifting soul kept stable through the powers of a Primordial.
+
+“Good. Continue your Path with the knowledge that it’s your great fortune that such a flawed plan came to fruition through the efforts of the hunter you tricked.”
+
+The King didn’t say anything more but simply acknowledged that what he had done was questionable, but the Unique Lifeform remained insistent on it being necessary. Even if his plan had failed, he would have had no regrets. It wasn’t anything he’d shared with others, but if he hadn’t done this, the King knew he would never have evolved to B-grade.
+
+“Thank you… Mother Tree,” he still managed to get out right as he felt the energy affecting his body intensify to a whole new level. He felt his soul set alight and become filled with power as his senses finally expanded beyond merely sensing the energy affecting him.
+
+He saw his own body… and finally realized. He was back to being nothing more than a mere mask, yet he could instantly tell the difference. This wasn’t the same mask from before his most recent death, but the one he’d worn before his first one. His original mask and the “true” one.
+
+At the same time, he felt another part of himself nearby. There was a second identical mask somewhere, also containing a mirror of his Truesoul. One incapable of thought, yet as real as the true one. The fact that the King had two souls at all times was the reason why he’d even been able to survive thus far.
+
+To be clear, the second mask hadn’t come into existence because of what happened in the Tutorial. The King had been born with both. However, when accepting to become a Tutorial boss to escape his planet, one mask had disappeared and only came back when the King had resurrected the first time around.
+
+Now, both masks were separate, neither with a body attached. At least not yet.
+
+Seeing his surroundings more clearly, the King saw he was in a large meadow, floating above a tree. Not too far away, several people were observing what was happening, but sadly, the King couldn’t fully distinguish who they were. He had his suspicions about at least one of them, though, as he seriously doubted the hunter wouldn’t be present to witness the fruit of his efforts.
+
+Right then, the tree below him opened up its crown and revealed a familiar-looking body. It was practically identical to the vessel the King had created for himself once upon a time, and he instinctively felt a connection with it, which struck him as odd.
+
+Usually, the King had to create his own body. The original one he had was created after getting inspiration from the wildlife in the forest he’d been born inside, and despite it not being made of actual bone and wood, it had been a nearly perfect replica.
+
+However, despite not being made by the King using his own unique creation method, this body felt as if it were his own creation. The vessel was already attuned to his body, and what made it even weirder was that the body, quite frankly, wasn’t something the Unique Lifeform would have been able to create on his own.
+
+It was too powerful. Too full of energy. It was also entirely made of wood and didn’t possess the bone-like claws and feet the King usually had. Not yet anyway.
+
+As if drawn together, the mask and vessel floated toward one another, the mask floating downwards and the vessel rising. The King focused all his efforts on what would come next, as finally it was time for the return of the King.
+
+One that’s free.
+
+One that’s complete.
+
+One that’s Fallen no longer.
+
+Jake had gone with Artemis right away, and only a few teleports later, they had arrived at the domain of Yggdrasil. Together with Artemis, the two of them approached the tree he knew the Primordial had used to create the King a new body, and he couldn’t help but feel excited.
+
+Above the tree already floated a very familiar-looking mask. More than that, the mask gave off a very familiar aura.
+
+He still felt a lot of lingering guilt for the Fallen King’s death, as he still felt that if he hadn’t gotten himself injured by stupidly messing with Palate, he would have been able to push back the Child of Loss back then.
+
+Knowing that the Unique Lifeform was about to make his return genuinely made Jake happy, and he was all smiles as they soon found themselves standing before the tree. Right then, Yggdrasil also made her entrance, as energy gathered and took the form of a dryad.
+
+“You have arrived.”
+
+“As requested,” Jake nodded politely, as he couldn’t help but glance at the tree. “I must admit… I’d thought this would end up taking a lot longer.”
+
+“My role proved simpler than anticipated. I merely had to facilitate with much of the framework already provided.”
+
+Jake nodded, knowing that the King had taken some precautions before his death as they’d discussed back when Jake gave Yggdrasil the mask. He was naturally happy the Unique Lifeform had done that, as without his help with the Desolate Child of Loss, there was a big chance that the encounter could have ended with more than one death.
+
+“What happens now?” Jake asked as he glanced at the mask and tree, where he saw the fully grown body contained within.
+
+“Now, you witness.”
+
+Yggdrasil turned around and waved her hand as the crown of the tree began to split open. From the split trunk of the tree, the vessel of the King began rising upward, while at the same time, the mask grew in power and energy as it was lowered.
+
+Looking at the vessel, it was an entirely wooden version of the King’s body. Jake knew that the true body of the King wasn’t actually made of wood but just a material that was a near-perfect imitation; however, it looked like after this, the King would indeed have a wooden body.
+
+As the body and mask slowly approached each other, a golden aura began emanating from both, as if they were synchronizing and resonating with one another. The two continued to grow nearer until finally the mask and vessel made contact.
+
+The moment they did, an explosion of golden light enveloped the meadow. Golden veins spread from the mask and onto the new body of the Fallen King, and as it reached the hands and feet, the bark of the wooden body began to split open as bone-like features grew out.
+
+Seeing the ivory claws and feet, Jake couldn’t help but smile as the King was starting to look like himself once more. The golden aura also continued to intensify with every passing moment, as Jake not only felt the familiar aura of the King, but one that felt even more powerful than before.
+
+It also somehow felt more… complete. As if the aura the Fallen King had given off for all the time Jake had known him by that name had been flawed. Without feeling this aura, Jake would have never been able to notice it, but now that he compared the two, the flawed nature of the Fallen King’s aura was evident.
+
+Jake kept watching as the King’s transformation slowly came to an end and his aura settled down. As it did, a final burst of energy washed across the meadow, and Jake found his vision filled with illusory images of what looked like golden trees everywhere.
+
+This image faded in mere moments as two wisps of light ignited within the eye-holes of the mask, signifying the full return of the King, and for good measure, Jake used a quick Identify, also confirming the King had indeed rid himself of the self-shaming name he’d carried for all those years.
+
+[Golden Forest King – lvl 299]

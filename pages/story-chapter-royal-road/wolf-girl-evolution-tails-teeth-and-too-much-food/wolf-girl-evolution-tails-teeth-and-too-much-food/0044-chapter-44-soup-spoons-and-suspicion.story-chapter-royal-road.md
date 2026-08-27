@@ -1,0 +1,311 @@
+---
+id: be1d5031-08ee-5afb-8ed9-c4529af97845
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44: Soup, Spoons, and Suspicion"
+slug: 0044-chapter-44-soup-spoons-and-suspicion
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 44
+ownLength: 1574
+unit: words
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2649438/chapter-44-soup-spoons-and-suspicion"
+royalRoadId: "2649438"
+---
+
+PoV Luna
+
+Waking up from her nap felt nice, but somehow didn’t solve all Luna’s problems!
+
+As yawn-ouch quickly confirmed.
+
+The disappointment she felt at that was immeasurable!
+
+Her body still ached, though a lot less now. Her jaw throbbed dully where it pressed into her cheek. Her ribs whispered small complaints with each breath. And even her back legs tingled like she had kicked too hard.
+
+Which, Luna admitted, was probably true.
+
+She sniffled and blinked up.
+
+Not on Syl’s lap anymore. A soft blanket was half-draped over her, smelling faintly of elf and campfire.
+
+Weird. She didn’t remember crawling under it.
+
+Moonlight still washed down, though pale now, fading behind the trees.
+
+Morning close?
+
+Oh no.
+
+Luna slept through prime hunting time!
+
+Prime moon and shadow tactics all-you-can-hunt buffet closed to her, Luna tried to make her displeasure known.
+
+And failed.
+
+Instead, a yawn cracked her muzzle wide, tongue curling long, ears twitching loose.
+
+Then her nose twitched sharper.
+
+And she was suddenly wide awake!
+
+Soup!
+
+Rich, spicy, and warm. Not stew this time, but thick enough to tease her tongue!
+
+Her ears perked tall. She shot upright, powered through the hurt!
+
+…Then froze.
+
+Where the bark was everyone?
+
+She sniffed again.
+
+Ah. There – by the fire!
+
+The adventurers huddled close, voices low. Syl stood at the center, her calm voice carrying just enough for Luna’s ears. The others nodded or grunted back, weary but sharp.
+
+Luna crept closer, paws quiet, tail wagging faint with hope.
+
+Words drifted her way. Ruins. Corruption. And plans?
+
+Still?
+
+Her head tilted. The ogre was the big ugly! Bite it, done, victory chew! What were her dum dums thinking about again now?
+
+But no. Apparently there was more. Deeper. Hidden in the corrupt ruins. And something hidden in stone bones too.
+
+They wanted to push further in. Carefully. Bit by bit.
+
+Luna’s tail twitched, half-annoyed, half-curious.
+
+Then her nose twitched again.
+
+Soup!
+
+Still there. Still calling to her. Promising spice and warmth!
+
+Priorities decided!
+
+Her tongue lolled, eyes bright. She padded forward, tail wagging harder now. If the pack wanted to talk boring corruption, fine!
+
+Luna had better hunts to chase.
+
+Like the bowl steaming gently by the fire!
+
+The scent yanked her into action.
+
+Blanket shoved aside and forgotten behind, Luna stretched long, her spine cracking with a groan.
+
+And then she bolted!
+
+Shadow surged around her as moonlight clung to her pelt. The Lunar shift hit mid-sprint. Fur faded. Limbs twisted. Claws shrank into clumsy fingers.
+
+She stumbled forward on two legs, arms flailing wild. Almost toppled! Caught herself last moment.
+
+Then grinned wide.
+
+“Hiiii!” she chirped, suddenly human-shaped and very awake. Hands shot out.
+
+“Where soup?”
+
+Syl blinked at her sudden appearance. Trianna burst into laughter, hand clutching her side. Ray snorted sharp, nose wrinkling with the effort of holding it in. And dum dum Sepio rolled his eyes so hard it looked painful.
+
+Luna narrowed hers.
+
+Rude.
+
+But then her amazing Second saved the day!
+
+Syl pressed a warm bowl into her hands, steam curling in a spicy cloud.
+
+Yes! Glorious food secured!
+
+Her traitorous tail tried to wag. Shoulders bounced with it, a whole-body jiggle of triumph. Luna was a little too giddy to care.
+
+She lifted the bowl, nose hovering close, ready to dive nose-first–
+
+Clink.
+
+A spoon was sat across the top.
+
+Luna froze. Stared.
+
+What was this metal claw thing for? And what in the awoo was it doing on top of her soup?
+
+Trap? Trick?
+
+Trianna leaned close, grin smug enough to scrape bark.
+
+“Watch.”
+
+Scoop. Tilt. Mouth. Bite.
+
+Soup vanished neatly into Trianna’s smug lips.
+
+Luna squinted. Fine. She could do that. She copied the moves.
+
+Scoop – half full. Tilt – too far. Bite – miss.
+
+No!
+
+Soup sloshed over her wrist, hot and dripping down. Her tongue darted out quick, lapping it clean before it could hit the dirt.
+
+Trianna broke into louder laughter, folding over her knees.
+
+Luna laughed too. But low. With teeth.
+
+This was war!
+
+Scoop again. Grip tighter. Tilt careful.
+
+Mouth open, bite snapped shut. Success!
+
+Mostly.
+
+Broth still dribbled down her chin, but meat hit her tongue. She chewed loudly, victory rumbling in her chest. Then licked the escaping trickle of spice away!
+
+Trianna’s giggles turned into hiccups. Ray’s smirk twitched wider. Even Veric’s lips quirked before he turned away, muttering something Luna didn’t hear.
+
+Luna’s grin gleamed soup-shiny.
+
+“See? Perfect.”
+
+She slurped proudly, broth running down to her elbow. Every drop was hers. Every spill reclaimed with quick tongue swipes.
+
+Spoons might be tricky prey. But prey was prey!
+
+And Luna was Apex Predator!
+
+While Luna wrestled her bowl like a seasoned soup gladiator, Syl’s voice drifted steady across the fire.
+
+This time it wasn’t only for her. Not just Second-to-wolf communication. Everyone listened!
+
+She spoke of the dungeon core. Again. Slow. Careful. Patient rhythm, the kind Syl used when she thought dum-dums needed extra help.
+
+Luna agreed, they totally did!
+
+That it was still active. Still corrupt. Still dangerous.
+
+That it had to be cleansed all the way through before anyone could call the ruins safe.
+
+And only then could they “report the bounty.”
+
+Luna blinked mid-sip.
+
+Report?
+
+Her ears flicked, catching the weight Syl put on the word. Important weight. Her tongue stilled on the spoon, broth sliding back into the bowl with a soft plop.
+
+What was that? An unknown.
+
+And unknown meant danger. Enemy to find. Report meant…
+
+Her golden eyes narrowed sharp as claws.
+
+Wait.
+
+Would they take her food?
+
+The spoon froze halfway to her mouth. She stared over the rim of her bowl, gaze locked on Syl. Suspicion curled tight in her chest.
+
+Syl glanced her way. Too smooth. Too calm. Then that small, sly smile curved at her lips.
+
+Suspicious.
+
+Very suspicious.
+
+Luna bared her teeth over the spoon. She considered biting the bowl right then and there. Bite, growl, guard, and slurp it all away!
+
+No-take. Only hers!
+
+But… soup.
+
+Luna now knew soup had to be eaten hot. Not hoarded. Or hidden. Bite too late and it lost the good burn.
+
+So she slurped faster!
+
+Spooned the bestest she could!
+
+Each gulp a little louder. Each wag of her tail sharper. Broth dripped down her chin, and she licked it off with quick swipes, never letting go of the spoon.
+
+Trianna tried not to laugh and failed, hiding behind her hand. Veric rolled his eyes and muttered something about pups. Ray kept his attention on sharpening knives, but the smirk tugging at his mouth betrayed him.
+
+Luna ignored them all. Her focus stayed sharp.
+
+She would watch them.
+
+She would protect her share!
+
+And if this “report” tried to steal her stew rights–
+
+Then she would bite that too!
+
+The bowl was empty.
+
+The spoon dripped in defeat, but Luna had won. Every last drop of soup had been conquered!
+
+She licked the rim. Twice.
+
+Then made sure none was left hidden on her mouth or fur.
+
+Then, satisfied, she looked up.
+
+Trianna flashed her a smug thumbs-up.
+
+Luna returned it with soup-stained fingers, chin high. Then licked them clean too.
+
+Victory salute!
+
+Around her, the others looked worn but no longer ready to topple. The night of rest making the tiredness go largely away.
+
+Bandages wrapped Trianna’s arm in neat white lines. Ray’s shoulder was strapped tight under his cloak. Veric bore a red scrape clawing down his cheek, proud as any scar. And Sepio–
+
+Luna’s ears twitched. His arm was stuck in a weird hanging wrap.
+
+He caught her stare, hesitated, and then decided to explain.
+
+“Potions help,” he said with a grunt, “but keeping it steady helps more while they do their work.”
+
+Luna nodded sagely. Yes. Of course. Totally understood.
+
+…Not really.
+
+She only knew health potions were warm and tingly and made her blood run hotter, unlike the blue mana ones that buzzed her skull. But words were words, so she gave him her best wise face and returned to licking her spoon clean.
+
+Then Ray came back. A box in hand.
+
+The same box she had ignored earlier, hidden away among other weird new-pack luggage. But it smelled stronger now – spoke of char and dried meat, smoke and spice, with a woody edge that curled into her nose until her ears shot tall.
+
+He set it down and opened it up.
+
+Inside – neatly wrapped, slightly glistening, was smoke-rich meat! Luna could briefly smell her hunts in them. Preserved. Salted. Spiced. Offered!
+
+Her jaw dropped open.
+
+Ray smirked.
+
+“As promised, we prepared some of your hunted game. Slow-smoked and salted.”
+
+Drool trailed before she could stop it.
+
+Syl’s lips curved into a quiet smile. Trianna passed over another small packet, her grin warm now instead of teasing.
+
+Luna accepted it with both hands, reverent as a pup tearing at their first piece of jerky!
+
+This… this smelled on par with jerky. But different. Meatier? Smokier? Woodier?
+
+Glorious.
+
+This was sacred spice!
+
+And as soon as Luna received her share…
+
+Her fangs tore into it in sharp, greedy bites. She chewed until her jaw ached all over again, smoke and salt coating her tongue. Every swallow hummed down into her belly, spreading satisfaction like fire.
+
+Her new-pack might be dum-dums sometimes. Slow. Wordy. Weird. And full of silly opinions.
+
+But they were hers now!
+
+And she would bite anything that tried to take them away.
+
+…after she finished chewing this through.

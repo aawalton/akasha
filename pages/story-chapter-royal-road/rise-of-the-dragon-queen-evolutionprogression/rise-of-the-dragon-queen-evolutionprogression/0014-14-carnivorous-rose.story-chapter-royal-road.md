@@ -1,0 +1,197 @@
+---
+id: 5d862f23-bd10-5fe6-98f2-4b110fb0fb48
+page-type-slug: story-chapter-royal-road
+title: "14 - Carnivorous Rose"
+slug: 0014-14-carnivorous-rose
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 14
+ownLength: 1996
+unit: words
+publishedAt: 2025-10-04
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2651695/14-carnivorous-rose"
+royalRoadId: "2651695"
+---
+
+As the root moved to crush her, a bubble of ice formed over her back. Though it shattered on impact, it had protected her.
+
+Time seemed to stop as she looked back, witnessing the ice split like glass and then cover her. The cold triggered her to move, narrowly dodging a follow-up attack from the carnivorous rose.
+
+As she rolled away, she transformed, acquiring dragon claws and feet. Her first instinct was to fly, but her wings were broken and very painful. But she could still get to a higher vantage point, using her claws.
+
+Roots whipped around, slicing through the air at high speeds. Before she was hit, she leaped and dug her claws into the side of a tree. She climbed swiftly, avoiding the rose’s roots as they shot towards her, some getting their thorns caught against the bark.
+
+I was reckless, coming out here, she thought angrily.
+
+I was so tunnel-visioned on making the potion that I didn't stop and think this threat might be a genuine one. But it's too late now… I must find a way to defeat it, or that old man will be let down!
+
+[You could simply return tomorrow.]
+
+I don't think you realize how much adrenaline is doing for me. If I stop fighting, I'll be out for at least a few days. By then, who knows if we'll even find one of these again?
+
+One of the roots grazed her tail, slicing off the tip. Pain ran up her spine, fading as a wave of fear pushed it down, enabling her to climb higher. The roots were long, but not long enough to reach her on the branch she'd made it to.
+
+Below, the flower was writhing, releasing thick pink mist like smoke. The sweet smell made Stella's stomach turn. She covered her nose.
+
+Everything has to have a weakness… I need to find the weakness of this monster, fast.
+
+But no matter how long she stared at the thing, she couldn't piece together what its weakness might be. Her breath gauge had improved, but she didn't have much more to spare and what she'd used had done nothing.
+
+Not to mention apparently I can just cast it like a spell? I wonder if that takes more effort… Ugh, head in the game Stella, focus!
+
+The flower was still writhing and screeching, its roots wriggling like gross little tentacles while it reached for her. Stella's tail was swaying below her, and it was as she observed the flowers behavior, that she realized its roots were attempting to grab her tail.
+
+They were following its movements, and that made Stella wonder if the flowers roots could somehow detect heat. Actually, what was it detecting. It had no eyes, no ears, so how was it even able to fight at all.
+
+A gross, but interesting idea came to mind. What if she cut off her own tail to use as bait?
+
+Without a weapon, Stella couldn't actually cut it off. So, she used her claws to tear it off. It was surprisingly, the least painful thing she'd experienced.
+
+Maybe my tail is supposed to be dropped, like a lizard!
+
+Her tail hit the ground with a loud ‘thump’. The flower instantly turned its attention toward it. Its center parted, more mist gushing out as it revealed its yellow center. Its roots had already seized the appendage, wrapping around it to prevent any escape.
+
+Stella worried that a hit to the center would destroy its petals, but she was getting weaker, in fact she figured she'd drop from the tree at any moment. This was her only clear shot.
+
+Using one paw, she dug her claws into the body of the tree and slid down. When she landed she released a fire blast from her other palm, aiming for the center of the flower.
+
+A direct hit from her explosive flames instantly caused it to screech and writhe. Its movements were chaotic as the flames began to spread.
+
+Bullseye!
+
+Stella felt a brief wave of satisfaction, followed by all the pain her wall of adrenaline had been holding back. She choked on her own blood and fell to her knees, trying her hardest to stay conscious. At least one more hit, it would take at least one more.
+
+But she couldn't move and a root had wrapped her up and was now holding her in the air. The center of the flower was briefly open, revealing a hollow stem that acted like an esophagus. Seconds later she was dropped, her own flames raging around her as she slid down into the belly of the flower.
+
+She had been dropped into green liquid. It bit into her skin, leaving behind small red burns. The tight space was squeezing her, giving her no space to get away from the burbling stomach acid.
+
+Below her, she could feel bones. She dared not think about whether they were human bones. She pressed her hands to the sides of the flowers stomach, pushing with all her might. It was like rubber, snapping back into place each time her pressure waned even slightly.
+
+Whatever air had entered when the rose had swallowed Stella whole, was going away. Her frantic breathing was using it up fast.
+
+She kicked and struggled pointlessly, before she released heat through her fingertips. Her fingers splayed as heat formed across her palms, burning through the walls of the flowers stomach.
+
+She was dumped out, acid gushing over her as she laid against the ground. Taking in deep breaths of fresh air, she scarcely had the strength to move.
+
+The flower was screeching, but the sound cut off suddenly and then it fell to the ground, now a lifeless husk.
+
+[You've defeated Carnivorous Rose.]
+
+[Evolution progress has increased to 25%.]
+
+[Item ‘Fatal Seed’ has been dropped by Carnivorous Rose.]
+
+[Elemental Breath is now level 10.]
+
+Name: Stella Algos
+
+Stage: Queen Dragon Fledging (25% to next evolution)
+
+Class: None
+
+Renown: 1
+
+Wealth: Peasant (+1 to all stats)
+
+(C: 200 S: 4 0 G: 0)
+
+Stats: (0 points available)
+
+Power: 28 (27)
+
+Vigor: 24 (23)
+
+Grace: 21 (20)
+
+Intellect: 10 (10)
+
+Skills:
+
+Wrath Of The Ravenous (Grade SS) - Level 2
+
+Elemental Breath (Grade S) - Level 10
+
+Silver Tongue (Grade B) - Level 2
+
+Strength In Numbers (Passive)
+
+[Fatal Seed: Ingredient to create deadly poison. Can be planted to grow a Carnivorous Rose.]
+
+It’s crucial I pick that up before it sprouts, Stella thought.
+
+Except I can't move my body. Not even a little.
+
+***
+
+I want to grow stronger.
+
+Despite setting her sights on being a merchant, Stella felt uncomfortable with the prospect of giving up on killing monsters entirely. If last night had shown her anything, it was that strength was the way to keep herself safe.
+
+And it could even be used to acquire ingredients to heal others. Stella's wide-eyed excitement about this world had gradually subsided, leaving behind a desire to settle. To become a part of the world.
+
+But she couldn't hide her true self and just live amongst humans. She had to…No, she wanted to be a dragon. She wanted to be a queen.
+
+I guess I'm being a little dramatic… I'm the one who put myself in harm's way like that, I should be more careful.
+
+Sapphire’s cold wet scales rubbed against her cheek, retching a scream from her throat. The young dragonet must've come back from swimming and, like usual, she came to take comfort in what was in her mind, her mother.
+
+“That's so cold, Sapphire. But hey! Maybe that'll feel good on my poor wing!”
+
+She grabbed the long, blue dragonet and sat her under her left wing. Stella shivered as the cold touched her aching wing muscles, soothing some of her pain.
+
+Sapphire was confused but yawned, enjoying the warmth there and deciding to take a nap. Stella admired her sparkly and wet scales, petting her..
+
+Smoke and Fire were chasing one another, sometimes butting heads. They'd grown small horns, while Sapphire remained hornless. They'd also become louder and more energetic.
+
+Stella watched them, lost in thought.
+
+Around her was her expanded camp. It was in a grassy area with thick canopy coverage. There was a line of blackberry bushes in one side. The branches were covered in yesterday's laundry, which was a mix of dresses that had tears for her wings and others that didn't. Her shoes were tucked safely inside of a nearby log.
+
+Over her shoes was her satchel, carrying her funds, the familiar horn and fatal seed. Beneath her, the bear pelt that still served as her bed and granted her peace of mind.
+
+I'm living like a caveman, but at least it's pretty.
+
+More importantly, can I keep living like this while I have some creepy summoner after me? What is that all about anyway?
+
+Stella ground as Sapphire stretched, causing her wing to move. She was too injured to think right now. And it didn't seem like she could shapeshift her wings away while they were injured.
+
+Well, I have the petals and what remained of the leaves. Now I can help that old man's wife… It makes me feel good to know that I can make an impact like that.
+
+She laid on her chest, wrapping her arms around her satchel.
+
+After a nap, Stella decided since she was bed ridden, she could do some final activities with the dragonets. They were intelligent and seemed to know what she meant even if they didn't know the finer details.
+
+For example, she could ask them to come closer, but whether that meant playfully smash into her or calmly approach was up in the air. The dragonets had selective hearing, they couldn't be lured by food because they caught their own food.
+
+Basically, training dragons was something better to start early. And even though Stella had become their parent/big sister, they only respected her for as long as their attention spans lasted.
+
+They did recognize their names and usually came when she called them. So she practiced on reinforcing that with back scratches. They stretched when she stroked them, like cats.
+
+***
+
+After healing for a few days, Stella was able to shapeshift again, allowing her to hide her injured wings. They weren't as bad as before, but she couldn't fly.
+
+Michael was surprised to see her again and even more surprised that she had the petals. The next step was to make the concoction using raw honey and a few other ingredients, then place the jar under moonlight in a windowsill, and let it set.
+
+The whole process resulted in a dense, white ointment that, when exposed to heat, turned oily. It smelled pretty weird, but Michael claimed the strong smell was a testament to the strength of his creation.
+
+Now all that was left was to bring it to the old man and offer some to his wife. Well, that's what Stella had assumed anyway.
+
+“No, absolutely not. We have to get this certified by a healer. Then we need to have them present during the process. If we were giving it to her and then she passes afterwards, we would be liable.”
+
+Who knew this world was that real worldly? Fantasy worlds usually just let you do whatever you want. But this is much safer.
+
+“Oh, okay.”
+
+“Also, thank you, for being so adamant about this. I've never forgiven myself for my failure and now I get the chance to make things right, or, at least to try again. This ointment might be able to help tons of people too, not just the farmer's wife.”
+
+“Oh, well that's just me, a big hero.”
+
+“Yeah, you are a hero. I don't know anyone capable of obtaining ingredients like this without a small fortune.”
+
+“I'm just super skilled.”
+
+“Maybe you can tutor me in whatever skill allows you to obtain such nice ingredients.”
+
+“Heh… Maybe.”
+
+What would I do?! Teach him how to be a dragon?

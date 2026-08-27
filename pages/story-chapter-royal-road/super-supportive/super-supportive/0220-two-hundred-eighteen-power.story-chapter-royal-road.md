@@ -1,0 +1,329 @@
+---
+id: 1a6acd87-6755-5ba5-bc22-c31f9679a1d1
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED EIGHTEEN: Power"
+slug: 0220-two-hundred-eighteen-power
+partOf: super-supportive
+position: 220
+ownLength: 4080
+unit: words
+publishedAt: 2025-05-15
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2282196/two-hundred-eighteen-power"
+royalRoadId: "2282196"
+---
+
+218
+
+******
+
+Alden didn’t have to walk far from North of North to find something interesting he’d never seen before—just a few blocks in a new direction, down a street lined with food trucks and closed to most traffic, then through a park with an outdoor stage that was surrounded by housing domes.
+
+On the other side of the domes, he stood looking up through a high black fence at the Apex version of a playground. Colorful lights outlined structures that could have been mistaken for unfinished high rises at a quick glance. Alden ate piping hot fries while he watched people scale them. There was enough lighting wrapping beams and shining through wide gaps in the walls of the three tall buildings for him to see what was going on. Avowed were running along tightropes and ledges and swinging from bars far above the ground. Some popped out of jagged cracks or window-like openings to climb the exterior before disappearing inside again.
+
+It reminded him both of the obstacle course and of Instructor Fragment’s scaffolding in MPE. But supersized and without the absolute protection from death or injury.
+
+The fence was up to keep kids out. They also had interface warnings telling Avowed that leaping the fence was not part of the Challenge: Apex Towers experience. Go around and pay for entry.
+
+Alden liked the idea of something like this a lot, but from what he could tell down here, the towers were above his ability level. He followed the fence around all the way to the gate. A woman with dark skin and a line of studs shaped like Artonan logograms in each ear was sitting in a folding chair beside it. She was wearing a Challenge: Apex Towers hoodie.
+
+“The left tower is the one that’s supposed to be good for your average B or C Brute climber. And you can use your spells and skills as long as they don’t affect anyone else,” she said when he asked about the difficulty. “It’s not like people with low foundation points can’t go up at all, but you might get stuck on a lower floor or think it’s not worth the entry fee.”
+
+“If you’re fine with me looking around, then I’m fine with the entry fee. I just wanted to see what it’s like.”
+
+“The price covers you for twenty-four hours at any of our locations. It’s ten extra if you want to film yourself with a personal drone.”
+
+“I’ll skip that part.”
+
+He paid thirty argold, and she waved him through the gate. “Yell for help if you get in a bind. We’ve got people stationed around all the towers keeping an eye on climbers, but the yelling will get their attention faster. And welcome to Anesidora! You’re one of us now. I’m telling every globie I meet that. You’re one of us.”
+
+The serious way she said it made it sound odd to Alden, but he thanked her and headed in.
+
+******
+
+Reaching the top of the left tower would be easy if standing on the roof was your only goal. There was an external staircase on one side that went all the way up, and it looked like it offered access to different floors along the way.
+
+Alden wanted more challenge than that, but only a little more. Hurting himself wasn’t appealing, and neither was getting dirty after he’d showered. He decided to find something easy and interesting on the first floor and then leave the rest for another day.
+
+He dropped his duffel bag at the edge of a moat of foam blocks that encircled the base of the tower. A line of purses, backpacks, and shoes there told him it was the unofficial bag place. Alden wondered if the moat would save people who fell all the way from the top, or if it was intended more for those climbing the exterior walls around the lower floors. He walked around the tower until he found what he thought would be the simplest route to the interior. He walked a slackline across the moat and then pulled himself up through a diamond-shaped hole in a section of concrete wall.
+
+He crouched there in the opening. The edges were rounded and the fit was tight, so it wasn’t the most comfortable observation spot. Below him, the floor was bathed in red light to indicate that stepping on it wasn’t a valid strategy. He was supposed to use the not-red parts of this long, rectangular room to make it across and up through a door set in the ceiling several meters overhead.
+
+This was one of a few starting areas he could have chosen from on the first floor. He’d seen a woman using a climbing wall outside, but the grips on it had all been made to spin or retract as soon as they were touched. This room seemed more doable. There were rungs on the walls and ceiling, spaced too far apart to provide a pathway unless he really launched himself between them. Stuffed cylinders hung from chains overhead like jumbo punching bags, and a couple of metal barrels splattered with fluorescent green paint lay on their sides on the floor.
+
+Maybe I can barrel walk across the floor, and then shimmy up that punching bag thing, stand on top of it holding the chain, and then jump or swing to the door.
+
+It was a regular door with a round knob, like you’d see on the front of a house. That’s fun. Kind of makes the room look upside down.
+
+“Lets do it.”
+
+Purposeless physical activity had its upsides. Alden remembered that as he leaped from the diamond-shaped window to a rung on the wall above the nearest barrel. If he wasn’t training for combat assessment or bokabv demon dreams, or out of fear that not training would leave him unprepared for future terrors, then he could spare a few brain cells for different things.
+
+Like noticing that this room had nice music. It had just shifted from pulsating EDM to a surprising, high-energy violin. Last year, he would have taken out his phone and added this to one of his “Drown out the Tinnitus” playlists. He’d had over a hundred lists, most created before he was twelve back when the ringing in his ears would sometimes carry his attention toward dark thoughts instead of being a mere annoyance. He’d kept them all, and listened to them, because despite his half-a-life-long collecting habit, he’d never developed strong opinions about the artistic worth of particular songs or narrowed his taste much. He liked what he liked, and he added it to the hoard.
+
+Reggae beside nature soundtracks beside the gloomy wailing that a ten-year-old Alden had been very attached to for a few months. “You just don’t get it like I do, Aunt Connie. It’s good.”
+
+I need to get my old computer and get those back.
+
+He gripped the rung with one hand, feet flat against the wall, body rotated while he studied the barrel. It was going to roll when he hit it, so he’d have to have his weight centered well, his legs ready to move. He’d have been much more confident if he’d been using the self-mastery wordchain tonight.
+
+But his body wasn’t currently his assistant; it was only his body.
+
+Safety roll out of it if you go down.
+
+He’d practiced falling with the parkour club, Bobby, and in gym. Falling was becoming one of his areas of expertise, he was sure.
+
+He aimed himself and sprang toward the barrel. A hollow sound rang out as he landed on it. It did roll, and he did start to fall. But then his feet moved along with it. His body corrected without overcorrecting, and he and the barrel rolled forward, balanced.
+
+Another upside. When he was just playing around for a few minutes, instead of thinking, “My skill, my future, chaos, consequences,” he could be a little more proud of himself. Being able to jump sideways off a wall and land on a barrel without wiping out would be small potatoes for many of the other Avowed he could hear banging around outside and above him.
+
+But Alden didn’t think he could have done this ten months ago without making tons of attempts or having a whole lot of luck. Now it was only a minor victory, and he felt sure he could climb that stuffed cylinder on the chain.
+
+I just hug it and scoot myself up to the top.
+
+He walked on his barrel, rolling it toward the hanging cylinder that was closest to the door. He grabbed onto it confidently, not too worried about the unexpectedly slick surface. Hugging it with his arms and positioning his feet so that he could—
+
+“Shit! You expand?!”
+
+The object was rapidly swelling. Soon he wouldn’t be hugging it, he’d be sliding down the surface.
+
+Swearing and hurrying, with no strategy other than aggressive upward clambering, he got a hand on top of the cylinder just as holding onto the rest of it was becoming impossible. And then the other hand. He pulled himself up and grabbed the thick chain in case the obstacle tried anything else tricky.
+
+It was already swinging from his scramble up. He got it swinging more, until it practically carried him up to the rung attached to the ceiling right beside the door. He grabbed the run with both hands, grip solid.
+
+“Ha! I win!”
+
+He reached for the knob, turned it, and pulled.
+
+And pulled.
+
+He tried pushing, but no, that was wrong. He pulled some more, then thought about his grip strength and decided it was enough to dangle from the door knob with both hands. Which it was. Because he was pretty cool tonight.
+
+But no combination of yanking, shoving, and body weight was enough to make the stupid ceiling door budge.
+
+He hooked his legs through the rung to give his arms a break and hung upside down, examining the room again because he wanted there to be some clue to find, like getting through the door was a trick.
+
+It’s not, is it? It’s some boring strength thing, for people with higher foundation points or arms as thick as a mleirt’s.
+
+He kept hoping otherwise, but he was getting uncomfortable up here, so he finally gave in and checked the internet, carefully avoiding spoilers for everything about the challenge towers except for the door.
+
+It was a strength thing.
+
+He closed the tab and frowned at his foe.
+
+You should see what I did to the last door that gave me trouble. Its knob is now a pancake at the bottom of the Pacific Ocean. If I can figure out how to kill you with my auriad, I still win.
+
+Crushing the hinges would probably work. That spell was hard, but it was so effective. One cast on the center hinge, he decided. Some of the wood would blow out with it. If the hinges were what made the door impossible to open, then that should do it. Or, if it was some mechanism he didn’t know about on the other side, then he’d see it through the hole and crush part of it, too.
+
+“See. I win.”
+
+It was a playground. You were allowed to make up your own games.
+
+Now, how do I get down without calling for help?
+
+******
+
+Several minutes later, Alden was back upright and outside, climbing the exterior stairs up to the second floor. The staircase was painted red, of course, but it was hard to tell in spots since the multicolored lights of the tower shone on it.
+
+There was no wall separating the second level from the stairs, so he could see that it was the start of a maze of human-sized hamster tubes. The floor was dark, but the steep plasticky shafts that people were supposed to climb through glowed green and purple. They were translucent enough for him to watch someone fall through one, but not enough for him to make out that person’s features.
+
+It looked interesting. And also as though it might smell like the BO of the last hundred people who’d gone up and down, which cemented his decision to leave it until his next visit. Instead, he took a seat on the metal grate of the staircase landing and hooked his arms over a bar while he looked toward the base of the next tower. There was a victory zip line down from the roof above him to a mat over there.
+
+When someone hit the mat, it flashed, “Rank Up!” or words that meant the same thing in other languages.
+
+Rank doesn’t matter. Except for when it does.
+
+He’d told Haoyu that, just a pack of french fries ago.
+
+If Thegund happened again, I could probably save us.
+
+There was always the possibility of bad luck on top of bad luck. Always another “what if” to tie his guts in a knot. But months of growth and an affixation had changed so much, and a little mind healing was making the change clearer.
+
+The early exit through the thick of the demon bug swarm wouldn’t have been possible before.
+
+He could take it now. Well enough to make it.
+
+Stuart thought so. Yenu-pezth did. Alden’s dreams said so. And he was finally sure, sitting here at the end of a day that had been good apart from a single MPE class, that he was going to be able leave it behind him.
+
+Not perfectly, but in the way that even awful things could be left.
+
+Eventually, the ringing in your ears did stop reminding you of loss every day. Eventually, Thegund would be something that had hurt him a long time ago.
+
+I could live for a long time.
+
+He tried that thought on like it was an outfit from Needle & Wheedle. He wanted to examine himself in it, not take it for granted.
+
+More than once this year, he’d known he was going to die. He started breathing harder just thinking about that walk down the halls of Alis-art’h’s ship. Wanting so much more time, trying not to show it.
+
+And then it had happened again on the roof with Zeridee, the water rising.
+
+Here I am, though. Made it. It’s not impossible to keep making it.
+
+He’d gone after superhero training like it would save him from his own helplessness. He still was. The “what ifs” surrounding his lifespan, as well as his ability to live it well and according to his own wishes, wouldn’t be going away anytime soon.
+
+Aren’t adults always talking about how teenagers think we’re immortal? My adolescence is broken, and I’d like a refund, please.
+
+He really liked his few little spells. He really liked Stu-art’h. He had a dread, rarely acknowledged, that these two things he was unwilling to stop liking would be what killed him.
+
+I wish I was stupider, so that I couldn’t see all the problems with this.
+
+There were so many.
+
+Maybe I do think I’m immortal. On a subconscious level that screws with my judgement.
+
+If he did navigate his choosing season wisely, if he lived and determined his own fate for a long time…some large issues were going to have to be addressed.
+
+Bearer of All Burdens would keep growing. Alden could slow it down by affixing other skills and focusing on them instead, but he felt resistant to that idea at the moment. He doubted feelings of resistance were going to lessen as the time approached.
+
+Power.
+
+He was most likely going to have a lot of it. If he made it through at least a few more affixations. Definitely a lot of it by Earth standards, even if he did end up being someone who slowed down in the future.
+
+One day, if I use my full power openly, I will absolutely out myself as someone worth looking into. And from then on, my future will be determined by the whims of wizards and the politics of planets.
+
+If I can’t use a power without laying waste to my life, what does that mean?
+
+It would still be his.
+
+Deciding how to handle gym classes and the fake profile were micro problems, as strange as it was to think of them that way. He didn’t plan to get by saying, “I dunno. The System’s just weird with me,” for the next year or more. But he probably could if he had to.
+
+The macro problems, the choosing season problems, were more about who he wanted to be farther in the future. And if he could get to those places on a rocket-powered bicycle that would upset billions of people if they saw him zooming along on it.
+
+Wanting to copy Hannah Elber, to be a good person in the same way she was, was so simple.
+
+He could see that it had been now. Not bad, just simple. The alternative ideas he’d had for himself back then had been simple, too.
+
+Graduate with good grades, go to college, become the functional kind of grown-up he remembered his parents being. He knew they were idealized in his mind, but that was okay.
+
+Alden Thorn, doctor. Alden Thorn, fireman. Alden Thorn with the clean, welcoming house—it didn’t have to be as big as Jeremy’s—and the canned cinnamon rolls in the fridge and some combination of friends and family around to feed them to.
+
+Maybe I’m still simple, he thought as another Avowed zipped down the line and landed on the “Rank Up!” mat. Because all of that sounds pretty great.
+
+Better than it had before even.
+
+Elementary school teacher. He’d try to be a cool one who took all the kids seriously, without making them feel like they were problems just because they had problems.
+
+Or if I wanted a more superpowered job…what about neighborhood watcher for one of the family neighborhoods here on Anesidora?
+
+It could be dull, like being a hall monitor for other Avowed. Or really stressful because the point of the watcher was to anticipate problems coming from other superhumans and get in front of them before they happened. And if you screwed up, you screwed up in one of the worst possible spots on the island.
+
+With my luck, a forty-year-old Marsha would move into my neighborhood.
+
+A stray swipe from her Mutable Haft would blow through the wall of her apartment and hit his shield, and when he shrugged it off, people would be like, “Wait a minute. What’s that Rabbit guy’s rank again?”
+
+That’s what I should be thinking, isn’t it? One day, at some point…I can just take a hit from a strong S-rank Meister’s weapon without worrying at all?
+
+He balked at it. Not as much as he had when she’d shown him the view of Lind-otta stopping the wave and asked him if he didn’t believe he could do something like it one day. But a bit.
+
+Make yourself think about it. The rocket bike goes past Marsha eventually. It goes past much scarier S-ranks than her. You know it must. If you survive the ride.
+
+Power.
+
+What am I supposed to do with it?
+
+Knighthood.
+
+That one was not a career choice. It was a leap into the dark with no way back. And no way forward unless he found the acceptance and protection of others. If Alden took a leap like that, he would not land on his own feet but in the arms of Artonans, who were not under any obligation to agree with the kernel of their home planet’s Contract that the human wizard was a neat new addition to their forces.
+
+He wasn’t sure he’d ever be ready for Intensity 99.9, even if the Rapports and the Grand Senate welcomed him warmly. And there were so many ways for it to go that weren’t remotely warm.
+
+I need more information. And I need time. I shouldn’t do anything irreversible so soon.
+
+After high school. After university even.
+
+Waiting, studying the darkness for a few more years before he made a final decision to take the leap or not—that would be wise.
+
+I want to be wise.
+
+He listened to the music from the hamster tube floor until he noticed himself yawning. Then he stood, shook off his thoughts, and headed back down the staircase.
+
+Not long after he reached the bottom, the sound of someone yelling made him turn his head just in time to see a boy plummeting into the moat of foam blocks with something in his arms.
+
+That sounded a little like Lexi. Or Kon?
+
+He doubted he was right about that, but he was going to take a look at the plummeter until he was distracted by an interface notification.
+
+[Video call from General Emban-art’h, Artona I. Connection fee waived.]
+
+She doesn’t list a rank number. But she does get the title.
+
+He stopped walking. Why was Emban calling him in the first place?
+
+“Answer.”
+
+Emban-art’h appeared, sitting at a floor desk in her room. She was filling a paper card with lines of colored ink. One eye stayed focused on that task; the other fixed itself on Alden.
+
+Stuart’s not with her.
+
+That made him a little nervous.
+
+“Hello,” he said in Artonan.
+
+“I invite you to come with us to the Here-to-There,” she said. “You do not have to say yes. If you do say yes, you’ll have to help Stu with the work.”
+
+The Here-to-There. Something that had sounded to him like a parade or celebration for people moving into new houses. An outing that Emban-art’h was hoping would be a treat for a couple of her squad members. All three young knights had affixed around the same time.
+
+Skipping wizard school when you can’t cast spells must be normal, or at least acceptable.
+
+“Does Stu want me to come?”
+
+She set aside her ink brush and turned the other eye to him. “If he doesn’t <<crave>> your company, then his behavior lately has been distressingly weird.”
+
+“He’s not eekeekeek.”
+
+“Then he will probably be happy when I surprise him with you.”
+
+Is this because she liked throwing paper planes with us? I think it might be.
+
+“I appreciate the invitation. I’ll come.” If Stuart wasn’t in the mood to weave friendship and do votary stuff at the same time, Alden would just leave.
+
+“The teleportation will be before dawn tomorrow. Thank you for banana.”
+
+“You’re welcome. What should I—?”
+
+The image of her disappeared. She’d disconnected them.
+
+He was almost positive she meant Rapport I dawn, so that was going to be Thursday afternoon for him. How long does a Here-to-There last? I had questions.
+
+And why did she thank him again for bananas?
+
+Is it a hint? It’s a hint, isn’t it? She ate them already.
+
+He’d given her a selection of banana varieties in her personal fruit basket, but she had divided them up for sharing with her friends.
+
+He debated calling her back for a second, decided against it in case it made her think the human was annoying, and headed toward the moat.
+
+A familiar boy with a familiar kind of lifematter bag held over his head was squashing his way through the foam blocks toward the edge.
+
+“Kon? It is you. Did you bring that weight bag all the way here from the gym?”
+
+Kon spun around to see him.
+
+“Alden? What are you doing here!?”
+
+“Sitting on the staircase thinking about my future. You?”
+
+“Climbing the tower. Or falling off it…. Is anyone else here with you?” Kon was squinting into the shadows behind Alden.
+
+“Nope. Solo trip.”
+
+Kon looked relieved at that.
+
+“I was about to go back to campus,” Alden said. “It’s pretty late. Are you going up again, or do you want to walk with me?”
+
+Kon didn’t answer right away. “I’ve been here ever since MPE let out. So maybe—”
+
+“That’s crazy. I’ve had recovery potion, a shower, and dinner. You’ve got to be exhausted by now.”
+
+“You’re not wrong. And I have started dropping Everly more often.”
+
+“Everly’s with you?”
+
+Kon patted the lifematter bag.
+
+“She looks different from the last time I saw her.”
+
+“She smells bad, too. I think whatever they stuff in these things molds sometimes.” He tossed the bag onto the ground and then climbed out of the moat. “I’ll head back with you. Just let me find my shoes.”
+
+******
+
+******

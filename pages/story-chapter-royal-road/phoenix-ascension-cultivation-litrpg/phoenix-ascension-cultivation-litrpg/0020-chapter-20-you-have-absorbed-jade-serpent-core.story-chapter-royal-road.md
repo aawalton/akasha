@@ -1,0 +1,331 @@
+---
+id: 617e03f2-814e-59f0-98a4-4d9bcccb1b08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: You have absorbed Jade Serpent Core"
+slug: 0020-chapter-20-you-have-absorbed-jade-serpent-core
+partOf: phoenix-ascension-cultivation-litrpg
+position: 20
+ownLength: 3403
+unit: words
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2585259/chapter-20-you-have-absorbed-jade-serpent-core"
+royalRoadId: "2585259"
+---
+
+When I got back from my meal hunting expedition, Mother was waiting for me. She looked at the pile of cores and shinies, then at me, and I didn’t need her to articulate her words to know the question she would ask.
+
+“I had a grudge to settle.” I simply said, hoping that she would understand.
+
+“Little Flame, I can understand a core, or two, or three… but thirteen? And not only that, you also got two evolved cores? Who did you have a grudge against?”
+
+“Ehm.. an entire… species?” I looked away, my tone a tiny bit guilty.
+
+“An entire species? Just— Little Flame, what have you done?”
+
+“Nothing much, really…” I half stuttered, feeling Mother’s anger and literally seeing it through her plumage. “I got the, ehm, “Species Destroyer” achievement, I believe.”
+
+When Mother heard that, her face fell. Not literally, but her eyes widened in surprise and she seemed too stunned to speak. She didn’t stay like that for a long period of time though. Mother moved toward the cores, inspecting them.
+
+“You eliminated… an entire species?”
+
+“Almost, I think.”
+
+“Was it the Jade Serpents?”
+
+I nodded.
+
+“Good, good, good!” Mother nodded enthusiastically, giving me an approving look. “I’m sure nobody would miss those bastards. Ah, I’m so proud. Tell me everything. Mother will purify these cores for you. Their poison is too potent for you at the moment.” Mother said as she sat down, beckoning me to come over.
+
+I did as she said and sat down next to her, telling her of the events and hiding certain things. She didn’t say anything, letting me talk to my heart’s content. After I finished, she paused the process of purifying the cores.
+
+“Incredible! I knew my Little Flame was strong, but to kill an evolved Jade Serpent and a Jade Serpent Lord… you’ve made me so proud! You must have some sort of talent. Tell Mother what level you are?”
+
+“I am only level eight at the moment, Mother. However I have a bunch of achievements and your food has nourished me extremely well.”
+
+“Level eight? That’s not too bad.” She nodded approvingly. “However, that means you have outgrown this tiny section of the forest. If you want to go out, go out.”
+
+“I understand, Mother.”
+
+“Good, now tell me about your stats.”
+
+I didn’t hesitate to cite Mother my stats. She was stunned for a moment, but quickly regained her composure. “Those are a little above average for your level. However I am glad to see you have such control over the system and already understand it so well. It’s clear you took after me, unlike your bastard of a father.”
+
+“Father?” Right, Mother had briefly mentioned him before. I had to have had a father at some point. Or rather, I still had a father, just not present.
+
+“Your father… You’re smart enough to understand. Little Flame, I tell you, never trust men! He left me all alone after I laid the eggs, and didn’t even dare to come check up on you. I shouldn’t have trusted him… but oh he was so handsome…” Mother brought her wings close to her face, probably attempting to hide an invisible flush.
+
+“Mother?”
+
+“Oh?” She cleared her throat. “Right, back to you sweetie. I’m proud of you. And don’t worry, if any trouble comes your way, I’ll protect you. Mother will take care of it. Though I seriously doubt anyone would miss these parasites, you can’t even eat them!”
+
+“Oh right, Mother!” I called out, watching her start the purifying process. “I’ve had an encounter with… humans. Again. They were really weak though. I took care of them, but I wonder if that will bring trouble upon us?”
+
+Her expression turned solemn. “Tell me everything.”
+
+***
+
+Mother listened to everything I told her, reciting what that guy had said word for word. She weighed the info, and assured me that there wouldn’t be any consequences.
+
+I failed to mention to her that the girl apparently hadn’t died, as I hadn’t gotten any notifications, but I did find her bag and clothes.
+
+If she manages to survive, then it’s just fate.
+
+After Mother purified all the cores, she warned me not to absorb all of them in a short amount of time. The amount of energy flowing through my body would be way too much for my flesh to handle.
+
+However, she didn’t know that I had Spiritual Cultivation, and I could almost hit the wall between the third stage and fourth stage.
+
+To break through from the third stage of Qi Condensation to the fourth stage of Qi Condensation wasn’t as easy as the first three. If the first three were considered Early stage, then the fourth was the beginning of the Middle stage.
+
+Usually, cultivators reached their first bottleneck here, and to break through one either needed a fortunate encounter, someone to help them, or the most commonly used method, brute forcing it with an absurd amount of Qi.
+
+Most people used pills, however if I had to guess, one core would be equivalent to one Qi Condensation pill or so. That meant that I held a small fortune that also came with other added benefits.
+
+Seeing as Mother was out hunting and wouldn’t be back for a long time, this was my best chance to advance.
+
+I laid out the first thirteen cores before me, their existence proof of my good deed for the world, and made them all touch each other. I then began chanting the mantra for the Ghost Qi Technique.
+
+The technique wouldn’t be as effective because I used it during the day, and it was really only effective at night, but I didn’t need it to absorb Yin Qi. I only needed it to lead the Qi through my meridians. The lake inside my dantian stirred to life as it rushed outward, almost filling the entire area and pushing against an invisible wall that stopped its flow.
+
+The wall showed signs of cracking, but I knew it would not break with my current amount of Qi. It was for that reason that I laid out all the cores before me.
+
+[Would you like to absorb the Jade Serpent Beast Core?]
+
+“Yes.”
+
+In less than an instant, all of the cores green luster expired, dulling to a pitch black color. In that moment, I felt an immense rush of energy, strength and Qi flowing all throughout my body.
+
+The tiny lake within my dantian gained a large influx of Qi, making it so that the entire space of my dantian filled up completely. The wall cracked further.
+
+However, even with that, it was still not enough. I subconsciously reached toward the other two cores while at the same time reciting the mantra within my mind.
+
+I instantly thought ‘Yes’ before System could ask.
+
+This time, the influx of Qi was so large that my Qi instantly condensed. An icy aura oozed out of my dantian, making my blazing body almost freeze over. The walls creaked under the pressure of the condensed Qi, and as more and more of it rushed within, they showed signs of shattering.
+
+So close!
+
+The condensed lake turned frozen as it absorbed the last bit of Qi, and as I finished the final verse of the mantra, it cracked!
+
+Both the ice and the wall.
+
+The resulting explosion shattered the walls into dozens of little pieces that then got absorbed by the lake; as the lake turned back from frozen Yin Qi to regular Qi, I noticed it had changed, if slightly.
+
+As it settled, it looked glossier than before, thicker and with a lot more luster to it.
+
+The fourth stage of Qi Condensation.
+
+It was a massive leap, going from Early stage to Middle stage, and regular people back in my hometown dreamed of achieving it.
+
+Now I, as a phoenix chick, broke through without so much as a sweat.
+
+And this was only the beginning. Once I gained enough strength to snatch the Qi lake from those beasts, I would soar!
+
+Thankfully, not much had changed about my appearance, despite my fears. It seemed that the natural Yang body of a Phoenix and the Yin Qi of the Ghost Qi Technique clashed, the former cancelling the other.
+
+However, just to be sure, I had to give myself a full body inspection. Besides the Qi lake, there were a few sources of flowing and still water nearby. Therefore, I began climbing down from the nest.
+
+Or at least, that’s what I planned, but as I spread my wings I noticed something… off about them. They weren’t short, well they were short, but not as short as before. The feathers somewhat glowed with a sort of ethereal light, though it was barely noticeable.
+
+They also grew longer, sturdier and even more beautiful. I couldn’t believe it.
+
+How long was I meditating for?
+
+Looking up, the sky was beginning to darken.
+
+Time truly passes fast when cultivating.
+
+I let out a sigh and looked down, unable to see the ground.
+
+“Little Flame!” I heard Mother call from afar, her massive wings creating a warm air current as she landed with grace. “What are you doing?” She put down a rather large Spirit Beast then walked toward me.
+
+“Mother—” I tucked my wings and did my best to hide the ghost-like glow, which thankfully disappeared when I willed it to.
+
+“I think I’m ready to fly!”
+
+“Oh?” She seemed to raise an eyebrow and gave my wings a closer look. “Spread them for me.”
+
+I did as she instructed, and her expression brightened upon seeing their length. “Ineed, you’ve already grown so much! Oh heaven it feels like yesterday when you were trying to catch worms. Now look at you, all ready to fly.”
+
+Mother’s voice turned emotional, a tiny teardrop dampened her feathers. “Alright,” she took a deep breath and straightened her back. “Show me what you can do.”
+
+I nodded, turning toward the edge and… jumped.
+
+I almost did a nose dive though, as the strong winds from my rapidly accelerating body didn’t allow me to spread my wings. The ground, so distant from the top of the nest, approached me faster than I could blink. Well, I approached it, same difference.
+
+Crap crap crap, open open open.
+
+My mind raced with panic, and for a moment I truly believed I would splat against the earth.
+
+However, a pair of talons gently grabbed me, slowing down my fall then lifting me back to the nest.
+
+“Good first try.” Mother nodded, though her voice held no hint of truth.
+
+Of course it wasn’t a good first try, I almost died!
+
+“When my mother first taught us, she had much more trouble— nevermind that. You need to take off with your legs toward the ground, not with your beak. Keep your wings a little bit open, not too much, and simply prepare for flight.”
+
+Mother guided me, holding my wings where they should be and doing the right motions for me, then kicked me off the ledge.
+
+Well, here we go!
+
+The ground didn’t approach me as fast the second time around, though it did scare me just as much.
+
+About halfway through my descent, I remembered what motions Mother made me do, and I tried them.
+
+I wished she’d told me that my wings would snap backwards if I opened them too fast, though.
+
+“Alright, that was my mistake.” She said, patting my wings and somehow healing them. I didn’t know she could do that, but as a Phoenix, her healing passives and natural regeneration must be amazing. It makes sense then that she could heal as well.
+
+“You didn’t tell me you can heal.”
+
+She laughed softly, “It’s not something that comes up often. I purchased a few healing skills. Your father… he always used to get into fights. I think you resemble him that way. Maybe a little too much, if you ask me.”
+
+I nodded, and decided to inquire a little bit more as she healed my wings. “Where’s his home? Why did he have to leave us here?”
+
+“He… had other things to attend to. If he’d stayed with us, we’d have been in more danger. I bet he didn’t expect these human bastards to come hunting for me though.” Her voice was filled with affection when talking about my father, despite her apparent anger. However, her tone turned as cold as ice when she mentioned the cultivators.
+
+And I couldn’t blame her.
+
+“Enough talk about that deadbeat man. Since you can fly now, we’ll go visit him. Whether he likes it or not, he’ll see his daughter!”
+
+She let go of my wings and we went toward the edge once again. “Keep your wings arched, slowly open them, and most importantly… let the wind guide you!”
+
+I took a deep breath.
+
+Then, without so much as a hint of hesitation, I jumped.
+
+My free fall didn’t last for long, as I spread my wings and let the wind take me. Just as Mother said, slowly opening my wings and working with the air was much easier.
+
+The wind blew through my feathers, which straightened, letting the air glide around, giving me even more speed.
+
+The forest grew farther and farther from me as I soared, my wings moving with instinct alone.
+
+Despite the strong winds, I could keep my eyes open, and my vision, which had improved further, allowed me to spot anything within a few miles.
+
+The skies were my kingdom and I was their ruler.
+
+Mother joined me, her flying speed hundreds of times faster than mine, but she slowed herself down for my sake. The two of us soared through the sky, going farther and farther away from the nest.
+
+Looking down, I could see a hint of a shadow formed by the sun, though it wasn’t mine, but Mother’s. I was so small I didn’t even cast a shadow at that distance.
+
+“You’re doing great, Little Flame! Keep going. Mother is here!” She yelled, her soft voice reaching my ears without any issues.
+
+I nodded and dove down, the rush of adrenaline keeping me calm, then I spread my wings and flew up at an even faster speed.
+
+“Amazing! You’re so talented, that’s my daughter!”
+
+I didn’t reply, but the rush of blood going from my heart all throughout my body would have made my face all red if I were a human.
+
+I closed my eyes and felt the wind flow through my feathers, gently pushing them away or sliding across. My tail, albeit shorter and less pretty than Mother’s, flapped wildly about. That made me wonder how Mother’s didn’t do that.
+
+However, in my excitement, I didn’t realise how tiring flying could be. Fatigue quickly caught up to me, my stamina not yet up to par with my increased ambitions. Taking a look around, I spotted a lake and dove toward it. My speed gradually increased until I couldn’t accelerate anymore, and as the trees and land approached I realised one crucial thing.
+
+I didn’t know how to land.
+
+CRASH
+
+I barely managed to pull up my wings and activate Strengthened Constitution, falling through leaves, branches and bushes before the earth kissed my face.
+
+[HP 958/1264]
+
+Well, that was a nasty fall…
+
+I got up, thanking the stars my bird instincts saved me from dying like an idiot, and dragged my shameful ass toward the lake.
+
+Mother landed next to me, placing her talon upon my body, checking for any serious injuries. “My fault, should have taught you that before.”
+
+I didn’t know whether to laugh or cry.
+
+I stared down at the lake and, just as I’d expected, saw the body of a Phoenix. A small, still very chick-like Phoenix. Before, I’d felt a lot of animosity, so I never dared actually look at myself, but now…
+
+I kinda liked it.
+
+The beautiful yellow, red and orange feathers, with my tiny deadly beak and sharp talons that could turn a tree into splinters. Not to mention my wings, whose span doubled my body in length.
+
+Mother bent down and saw her own reflection as well. In comparison, I looked like a chicken. She was tall, slender, with beautiful feathers decorating her head. They shimmered with dancing flames, flowing down like a blazing waterfall.
+
+We sat in silence for a moment, enjoying each other’s company.
+
+Although I couldn’t see my back very well, there was the beginning of a tail. Though tiny and still very stubby. I could look at Mother’s, and admire how beautiful they were, sighing with envy.
+
+With my inspection done, it was time to check out my notifications.
+
+[Jade Serpent Beast Core absorbed with 30% efficiency.] x6
+
+[Jade Serpent Beast Core absorbed with 55% efficiency.] x3
+
+[Jade Serpent Beast Core absorbed with 45% efficiency.] x4
+
+[Jaded Jade Serpent Beast Core absorbed with 50% efficiency.]
+
+[Jade Serpent Lord Beast Core absorbed with 65% efficiency.]
+
+[+800 Qi; +13 Strength; +30 Dexterity; +27 Perception; +10 Charisma; +10 Inteligence]
+
+[Skill: Poison Resistance[Lesser] has ranked up to Poison Resistance[Greater].]
+
+[Skill: Poison Blade(Novice) has been acquired.]
+
+[Skill: Poison Fang(Novice) has been acquired.]
+
+[Skill: Tail Whip(Novice) has been acquired.]
+
+[Skill: Lord’s Call(Novice) has been acquired.]
+
+[Cultivation Increased! Qi Condensation III has become Qi Condensation IV!]
+
+There were a lot of notifications. But I guess it made sense. I did a lot of things in such a short amount of time, it was inevitable. I was a little surprised I didn’t get any achievement or anything of the sort, even when I broke through to the Middle stage, but I couldn’t complain.
+
+But what’s this about ‘Poison’ skills? Is System making fun of me?
+
+[I didn’t do anything! \(˚☐˚)/]
+
+Are you getting more animated?
+
+Moving on, I definitely felt stronger. Much stronger than before. The extra stats from the Jade Serpent Beast Cores and the bonuses from the cultivation realm upgrade surely boosted my stats past 100!
+
+I had to check.
+
+“Stats!”
+
+Stats
+
+[Strength: 115]
+
+[Dexterity: 103]
+
+[Perception: 121]
+
+[Charisma: 116]
+
+[Intelligence: 111]
+
+[Skill Points: 20]
+
+It was indeed as I’d guessed, now all of my stats pushed past one hundred. What a delightful joy, I should celebrate with a feast!
+
+***
+
+The fish in the lake, although really low in both Qi and levels, were enough to satiate me. After cooking them with my Phoenix Fireand devouring without leaving the bones, it was time for me to leave.
+
+The sky had darkened and the moon began to rise, and sleepiness began to take over me.
+
+I guess I hadn’t truly slept in a little while, what with the killing and all of that, I truly felt like it was time to rest.
+
+I reached for the skies and took off toward the nest. Mother followed me, her flames glowing in the dark sky.
+
+I managed a better landing than the last time around, though it was hard to top that, and wobbled my way over. Mother landed before me, and she grabbed me in her talons effortlessly raising me to her face.
+
+“If only your father could see you…”
+
+She sounded sad for a moment, but then something clicked, and she raised her head. “I know, we must go look for him! He told me once his clan lived in the south, so maybe we’d be able to find him there. Now that you can fly, it will be a piece of cake!”
+
+“Ooooh…. Mother is so happy. Mother is truly happy, Little Flame.” She hugged me once again, the warmth from her feathers giving me a deep feeling of love and care. I closed my eyes and wrapped my wings around her neck.
+
+We stood like that for a moment, or a minute, but as the cold of the night made me shudder, Mother finally let me go. She made her way toward a corner of the nest where she’d made a tinier one. We slept there most often lately, and she kept expanding it as I grew larger every week.
+
+She nestled there, raising her wing, waiting for me. I made my way under and she stored me away safely, heat enveloping me. She left a gap for fresh air to seep through, and we both fell asleep.
+
+This week I will snatch that Qi Lake from these beasts and break past the Middle stage!
+
+Mother remained unaware of my nefarious thoughts.

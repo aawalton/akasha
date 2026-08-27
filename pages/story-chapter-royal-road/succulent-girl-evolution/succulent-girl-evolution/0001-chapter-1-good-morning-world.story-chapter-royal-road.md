@@ -1,0 +1,119 @@
+---
+id: 651f3dcc-dad7-5d39-a476-7293675c3d8f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Good Morning, World!"
+slug: 0001-chapter-1-good-morning-world
+partOf: succulent-girl-evolution
+position: 1
+ownLength: 2077
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525448/chapter-1-good-morning-world"
+royalRoadId: "2525448"
+---
+
+Bubbles enjoyed a pretty good life, if she had to say so herself. She lived in a safe area, never went hungry, and was always surrounded by friends. She never had to do anything that caused her guilt. There was a steady routine every day, but there were also friendly squabbles between neighbors and stubborn critters doing stubborn critter things to keep life interesting.
+
+Her life, as staid as it sounded, was one she wouldn’t trade for the world.
+
+Therefore, she was duly dismayed when her idyllic existence was rudely interrupted by the arrival of strangers, unaccompanied by the familiar stooped bearing of her master.
+
+“The signal is strongest here.” She peered up at the hooded man. His head was bent over an orb that was emanating energy she didn’t like. “I’ll set the harvest point.”
+
+She protested as the man drove a pike into the earth, right at the base of her neck.
+
+“Ouch. Stupid nature. Warn the workers to wear appropriate gear. The old man’s grown some crazy specimens.”
+
+She took savage pride in the saltgum tree that just dropped a payload of spiky balls onto the irritable man’s head. Fortunately, he was an idiot and thought the prickly pods were the same variety as the much more boring sweetgum balls, so took proper offense to being pelted by the pods. Thank you, auntie!
+
+“This garden’s beautiful,” another man observed from a safe distance away, eyeing Bubbles’s family around the garden. He had a reverent tone in his voice. “There’s a whole ecosystem here.”
+
+Bubbles perked up with pride at the compliment, along with her brethren. Their master spent all his days with them: he bathed them with his watering can in the mornings, and would gently rub their petals and stems in the evenings to make sure no unwelcome guests had snuck into the garden and hid among their foliage. He would sing, tell stories, and praise them for their growth.
+
+In return, some of her sisters gifted their master fruit, flowers, or other fragrant branches for his care. Others oozed out health sap for him to collect, while the remaining plants with no obvious viable produce did all they could to be useful to their master: offering whole dried branches for firewood, or growing comfortable nooks and encouraging moss to grow at their base so that Master had a comfortable place to rest. She wished she could do the same, but try as she might, he never harvested anything from her, and she was too small to provide him other sources of joy. Not even when she bloomed her largest flower ever the other day. All he did was smile tenderly at her, stroke her chubby leaves, and then move on with his tasks.
+
+Now that she thought about it though, she hadn’t seen Master for a while now…
+
+“You could build your own private oasis like this, too, if you didn’t have other responsibilities,” the first man scoffed as he pounded the stake deeper into the earth with a mallet. Bubbles shook her leaves at him, trying to alert him that he had breached her personal boundaries and was coming much too close to her taproot for comfort, but he ignored her.
+
+“The Remrafs gave nothing back to society. They squandered their resources, producing nothing of value with the land granted to them for the past five generations.” He snorted in finality, conveying his smugness with every fiber of his being as he stood up to inspect his handiwork. “You’d think the last noble scion of the Remraf family would have tried to do something to salvage any of his family’s honor. But no, he never developed the manhood to adapt and survive. He didn’t even grow a family.”
+
+Bubbles listened indignantly as the man derided her loving master. Who did this nobody think he was to pass judgment on the man who single-handedly raised the plant community here? Gave nothing back to society? The birds and insects who passed through the garden would share stories of a random sister popping up here and there as they dipped their mouths into their nectar. The old man’s love was so strong that they were able to propagate beyond the garden’s walls.
+
+Producing nothing of value? Her indignation faltered as she reached this criticism, before quickly repairing itself. She might not have produced anything of value, but all of her sisters and brothers certainly did! How could this man believe they were worth nothing when he had never tried a sweet apple from sister apple tree? Or when he had never eaten a honeyleaf right off of the long, elegant stem of sister sugar shrub?
+
+Bubbles hadn’t partaken of most of the garden’s produce, but she trusted the Master’s words. Whenever he sampled any of his harvests, he would always do a pleasurable shimmy, then coo at the plant who had presented him with the offering that brought him such bliss.
+
+The thought that this man saw fit to insult not just her Master’s life, but also his entire legacy—the whole garden!—made Bubbles pulse with rage. You are not worthy to pass judgment on Master!
+
+She spat futilely at the man with the orb, wishing she could at least defend her Master’s honor if she couldn’t have brought him happiness.
+
+The man sneezed. “Ugh. Let’s get out of here. My allergies are acting up.”
+
+She continued spitting after their retreating figures, but they didn’t even give her a second glance. Finally, her best friend and nearest neighbor, Fern, waved a frond at her.
+
+“Stop it. They’re too far away for you to do anything to them now.”
+
+“I wish they had stepped a little closer.” Bubbles, with Fern’s encouragement, had reluctantly begun growing small pustules of mild toxins on her stem. They weren’t particularly deadly—though she had successfully driven away a pesky squirrel the other day, with less help than usual—but she was certain they would have done something more than just trigger a sneeze if they had caught a full whiff of her spray.
+
+She had been against it at first, preferring to spend her energy growing something that could be beneficial to Master (she was considering a fruit of some sort, but hadn’t yet worked out the taste or texture she wanted), but her neighbor’s advice had been sound: she needed a way to protect herself if she was attacked.
+
+Now she wished she had dedicated more effort into cultivating these little buds, which were mere vanity at this point.
+
+Fern sympathetically dropped a frondful of seednuts into her leaves. “I’ll give you some more of my seeds. You need to consume more than just water and sun if you want to discover your true potential!”
+
+Bubbles grudgingly shimmied the seednuts through her leaves, down to the base of her stem so that her roots could begin drawing nutrients. Fern was tall and strong, despite being a relative newcomer to the garden; and she meant well, even though her priorities and values didn’t quite align with her own. And she had to admit: Fern’s seeds were packed with nutrients that she normally wouldn’t be able to get on her own.
+
+Before Fern’s arrival, the undersides of her leaves would be constantly itching as pesky insects tried to take advantage of her shade. She hadn’t minded the first few; in fact, she quite liked the feeling of being able to provide for something. However, they quickly took advantage of her goodwill, expanding far beyond what she, as a young succulent sprout, was able to maintain. Master had been distraught when he noticed she was getting overrun by too many new “friends” to keep track of, and hastily sprayed her with a foul-smelling elixir that succeeded in driving away the most exploitative companions she had ever met, but also left her feeling limp and heavy. Soon after, Master had brought home a tiny pot bearing a tiny frond, smaller than even Bubbles was back then, and transferred her into the plot right beside Bubbles.
+
+Bubbles had been too listless and exhausted from her ordeal to do more than fluff her drooping leaves in a weak acknowledgement of her new neighbor. But as Master slowly eased her back into her regular routine (without the elixir), she watched as Fern grew faster than a sprout had any right to.
+
+She first started paying attention to Fern when she noticed a light, delicate, delicious aroma emanating from her new neighbor. She had been keeping a weary eye on the “friends” that had been lurking just beyond the perimeter of the odorous elixir that still lingered on her leaves, resigned to living a life as either a constantly medicated plant, or being infested by ruthless bloodsuckers that would just take take take.
+
+However, the new scent—strong enough to overtake the elixir’s own stench—lured the “friends” right towards the newcomer.
+
+Bubbles did her best to warn Fern not to let the bugs get close—they would suck her completely dry—but Fern pointedly ignored her panicked shakes, even putting forth a stronger fragrance, as she tried to waft the scent of the elixir over to protect her new neighbor to no avail. The bloodthirsty insects swarmed into the tiny pouch at the base of her then-frail stem.
+
+When the sun rose again, Bubbles couldn’t believe what she was seeing: the tiny frond, having arrived with only three segments of leaves just the day before, was now unfurling a second set of leaves. The pouch was tightly closed, looking like a brand-new flower bud. Except unlike a regular flower, the bud was gently pulsating as Fern kept the insects trapped inside.
+
+Master confirmed Bubble’s suspicions when he arrived shortly after, first thoroughly examining each of her leaves to make sure there were no signs of new insects, and then chuckling gently when he saw his new daughter looking so fat and content. “I’m glad to see the two of you getting along. The two of you will need to take care of each other, Miss Fern, Miss Bubbles.”
+
+After two seasons, Fern was large and strong enough to attract all the unwanted pests in the garden to her. Bubbles no longer had to worry about getting nibbled by any predators; she had witnessed Fern lure rainbow slugs the size of Master’s hand into her pouch (which was more of a well at this point) faster than a butterfly could fly. Fern had also grown large enough to drop her seeds directly onto Bubbles’s plot, without needing Master to collect them from the undersides of Fern’s fronds first.
+
+Needless to say, Master was very fond and proud of Fern. “I have great hopes for you, Miss Fern. Keep on growing well, so you can take care of your sisters.”
+
+Bubbles would normally have become even more discouraged by Master’s direct compliments for other plants—especially the newest addition to the garden—if it weren’t for his words to her next: “I’m sorry it took me so long to unlock your potential, but now that Miss Fern is producing some top-quality nutrient bombs, I’m sure we will all see your capabilities soon. Keep it up, Miss Bubbles.”
+
+It was that unwavering faith in her that kept Bubbles going, and it was that unwavering faith that made Bubbles realize she had to make a change if she wanted to see Master again.
+
+Especially when eerie shrieks of pain from her more distant brethren started floating through the air.
+
+Especially when a cloud of dust began rolling through the garden, muting even the birds and insects that resided in the trees and bushes.
+
+And especially so when a completely unfamiliar feeling enveloped Bubbles’s senses, flooding her with nigh-incomprehensible information, yet making so much sense at the same time.
+
+[Hull breached. Foreign entity detected.]
+
+[Evaluation in progress.]
+
+[...]
+
+[Evaluation complete. Foreign entity determined as not malicious.]
+
+Bubbles was simultaneously confused and gratified that this random being could see she was just a gentle soul. Who are you? When did you arrive?
+
+…Where are you?
+
+[Danger. Corrupted energy detected.]
+
+From me?!
+
+[Negative. From the human lifeforms approaching.]
+
+The bland reminder that something alarming was happening drew Bubbles’s attention back to her beloved home. The sudden dust storm that had appeared obscured everything, but she could make out a few humanoid shapes approaching.
+
+She couldn’t feel the malicious intent this bodiless voice claimed, but the faded whimpers of her brethren was enough to spike her fear.
+
+What do I do?!
+
+[Run.]

@@ -1,0 +1,139 @@
+---
+id: 3647dbb1-e901-58bb-ab1f-1fc082402163
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37: Lead On A Level 3 Dungeon"
+slug: 0037-chapter-37-lead-on-a-level-3-dungeon
+partOf: the-gift-of-loot
+position: 37
+ownLength: 2046
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3488485/chapter-37-lead-on-a-level-3-dungeon"
+royalRoadId: "3488485"
+---
+
+Zach walked over, and he and Thomas engaged in one of those ridiculously complicated handshakes that Thomas hadn't done since high school, ending in a fist bump. Ha. Still got it.
+
+"Glad to see you," Thomas said. "How have you been? Did you figure out what you needed out there?"
+
+Zach's smile told him that he had, even before he nodded. He looked healthy, laid back and calm.
+
+"Yeah, good as new. Better, even. I absorbed the treasure I got from the National Guard, the one to fix foundations. Then I had to do a lot of thinking and looking inward, you know? Asking myself the big questions. But... I think I got the answer. My base is fire. It's who I am, for better or worse. So I'm gonna build myself in that direction, using air as an anchor to keep me from burning too hot, with some Adaptation mana if I can get it. Check this out." He snapped his fingers, and a little candle-top flame erupted over his index finger. Previously, Zach had needed an outside source to do that.
+
+Thomas's eyebrows raised. He was impressed. "No skills required?"
+
+"Nah," Zach agreed, with another easy smile. "I am the fire."
+
+"Fire, air, and adaptation," Thomas repeated, feeling out the mix in his mind. He nodded, barely realizing he was even doing it. "That's a good combo for you. Power and flexibility. But I thought air fed flames?"
+
+"It does that too," Zach said, the opposite of reassuring.
+
+Well, as long as it worked for him. The man was his mana, and as he was clearly not in his volcano demon form, Thomas wasn't going to question him.
+
+"I was looking for some level 2 Adaptation mana for myself," Thomas said. "I asked around the Crystal Flea Market, but no one seems to have any local."
+
+"Actually..." Zach drew out the word, tilting his head back and forth. "That's kinda why I came down here so soon. I meant to stay up for another few days, maybe a week, just to really settle in with my mana scheme, but then I found something interesting."
+
+"Another mimic dungeon? Level two?" Despite himself, he felt a twinge of fear at the thought of being forced to fight in the dark in an even harder dungeon. Though logically he understood that the darkness had not been natural, his lizard brain did not like the idea of diving into a creepy house dungeon sequel.
+
+"No, not level two," Zach said. "Level three." Then he continued, ignoring Thomas's visible start of horror. "Okay, picture this. There are no trails out in that wilderness, but I had found a sweet lake, and..." He trailed off and squinted past Thomas's shoulder. "What happened to your car, dude? Are... are those bullet holes?"
+
+He hadn't had time to fix the windshield. "The other day was... a real day," Thomas muttered. "That's not even half of it. Before that," he hooked a thumb over to his car, "happened. I took my nephew dungeon diving. Then that group of douchey dude-bros we encountered in Reno came into our dungeon instance."
+
+Zach jerked in surprise. "What?"
+
+Despite everything, Thomas felt a little gratified that Zach had automatically reacted to that news with the proper amount of shock and horror. It made him feel like he hadn't been overreacting. Barging into somebody else's dungeon instance was basically asking for a fight to the death.
+
+"Ashton, my nephew, is okay," he said, getting to the important part first. Then he went on briefly to explain the exchange, the message the dude-bros had given him, and how Thomas had come away from the encounter with Tad's mace.
+
+Zach looked pale at the end of it. He ran his hand back through his hair and let out a gust of frustrated breath. "That's on me. I shoulda been clearer with them and made sure you and your family didn't get caught up in their bullshit. Shit, dude, I'm surprised you didn't punch me in the face a few minutes ago."
+
+"It's not your fault. My nephew is fine," he repeated. "And I got a good lesson to always stay by the entrance door until the instance rolls over."
+
+Zach shook his head like he didn't quite believe him. "I'll talk to them and make it understood that you and your family are off-limits."
+
+"Are you going to be okay?" Thomas asked, when he really meant, Do you need help?
+
+But Zach scoffed. "They're nobodies who are trying to be somebodies. I'll handle them. But you said you got Woolworth's mace?"
+
+"Woolworth?" he repeated, briefly thrown. "Oh yeah, they called him Tad. I've used it a few times since then. It's... pretty lethal." Thomas pulled his backpack around and started digging through it. He had carefully positioned the mace so that it stuck handle-up as he did not want to see if his healing ability could deal with whatever spiritual damage was.
+
+On seeing it, Zach let out a bark of a laugh. "That's his family's, alright. Usually the spikes are poisoned. Let me see." He handled the mace every bit as carefully as Thomas and inspected the handle for a second. "Yeah, this is Woolworth's mace. They usually give it to their kids when they get their Gift." He chuckled again, a little darkly. "And you took it from him. He'll be pissed, and his father even more so."
+
+"The guy at the pawn shop said it causes spiritual damage. Any idea what that means?"
+
+"Nothing much to us right now. We're only level two — we're still sorta building our spirit through the mana." He gestured vaguely to his own body with his free hand. "No, it's the poison on the mace you gotta watch out for. Be careful with it." He handed the mace back.
+
+"I was thinking about selling it, actually." Thomas returned it to his backpack. "The mace isn't my thing; I mostly just threw it at monsters."
+
+"You threw that massive thing at those little chipmunks?"
+
+"No, at grizzly bears. And that brings me to the second part of my fantastic day," he said, somewhat sarcastically.
+
+He laid it out as succinctly as possible, though it did feel good to actually talk to somebody about all that had happened. He couldn't share this with Derek, and certainly not Ashton, and his other friends, like the people he knew from work or carryovers from high school, didn't even dungeon dive as far as he was aware. They wouldn't understand all this craziness.
+
+"Dude," Zach said appreciatively at the end. "Maybe you should go take a hike in the woods for a couple of weeks." He glanced at the bullet-hole-ridden car. "Or maybe not. You're like a danger magnet."
+
+"It does give my car a little something-something, doesn't it?" Thomas asked, turning to regard the vehicle and crossing his arms. Sure, he'd bought it used, but he'd just paid the damn thing off. Now it was full of holes that were probably going to rust.
+
+"Are you okay?" Zach asked bluntly.
+
+Thomas hesitated a beat, asking himself the same thing. "Yeah. Weirdly enough, I think it's the healing mana. It sort of shielded me from letting all the horribleness soak in."
+
+"That can be a thing. I've heard of healers giving out low-level heal crystals like ibuprofen after bad dungeon runs, even if no one was really hurt."
+
+Thomas shook his head. "It doesn't matter. The point is, I came out with this." He reached into one of his backpack's side pockets, the one that wasn't spatially expanded and just worked as a regular pocket. From it, he pulled out a skill shard. "It dropped from one of the robbers."
+
+"His Gift?" Zach leaned close to look, though he didn't touch. "Or a lesser version of it. That can happen sometimes."
+
+Thomas had said he was fine, but Zach's words still caused a small spasm of something close to pain. He had to close his eyes for a moment. "So, it looks like," he said slowly, "when it comes to me, it happens all the time."
+
+"Oh..." Zach's eyes widened as the penny dropped. "Ohhh."
+
+"Yeah."
+
+Zach glanced around as if to make sure no one was within hearing distance. They weren't. They were standing halfway between the apartment complex and the parking lot. While it was dark, it was not so dark that they wouldn't be able to see anybody nearby. "So, yeah, you know when I said before what would happen if the wrong people found out about your Gift? Well, if they find out about this aspect, they'll make you kill people too."
+
+"That will be so fun with my healing mana," Thomas said sarcastically. In truth, that scenario was just too horrible for him to consider. So he didn't.
+
+Zach nodded quickly. "You know the cure to that, right?"
+
+"What?"
+
+Zach grinned. "Bro, it's the anime solution: get stronger so nobody even thinks about messing with you."
+
+That sounded good to him. Or at least, it was better than the alternative, which was cowering until he got noticed by the wrong people. Thomas nodded and firmed his resolve. "So you were telling me about this dungeon?"
+
+"Right!" His enthusiasm returned, lighting up his eyes. "Okay, so picture this: I'm at this no-name lake, right? It looks a little bit like Fallen Leaf Lake, but not nearly so big. I couldn't even find it on a map, but it was like... perfect. There were fish jumping and frogs, and the air was like the best temperature. You'd almost think I was the first one there, except there are bags of trash right on the shoreline in the marshy area where the water meets the land. Who even does that?"
+
+"Assholes?" Thomas guessed.
+
+"Yeah, but I'm like twenty miles out in an area where ATVs can't even go. Who packs all that stuff up there? So I go through the garbage—" he said easily, like that was something someone should just randomly do. Thomas tried not to make a face "—and they were dumb enough to have their mail in there. It's the Ross-Aster family." He paused for a second. "I know you don't know who that is, but they are like the Kobe beef of rich old families."
+
+"Delicious," Thomas said appreciatively.
+
+"Eh, sorta. It's over-hyped nowadays," Zach said, then continued. "But anyway, they're an East Coast family. Why would they be way out here? I know people like to vacation in Tahoe, but I'm miles and miles from a road. It doesn't make sense. Then it hits me: they must have a feeder dungeon."
+
+He paused as if waiting for Thomas to get excited about this revelation, and when he was met with confusion, he said, "Oh right. That's a dungeon that the Old Families use to mine for good crystals and drops. They feed profits into the main family. They're not like the prime dungeons that are used for training and, like, status. Usually, feeders are out in the middle of nowhere and kept secret from other Families."
+
+"Let me get this right," Thomas said. "You want to sneak into an Old Family dungeon?"
+
+"Yeah, one that's probably been curated for awesome drops." He grinned at Thomas, "Outside of certain people's Gifts, of course."
+
+"A dungeon that you probably wouldn't be welcome in, and I certainly wouldn't be," Thomas continued. "And by the way, it's level 3, and we'd be going in blind."
+
+Zach's grin was downright sunny. "Nah, I'm not crazy. I broke into the gatehouse and grabbed one of the dungeon guides."
+
+"There's a gatehouse—?"
+
+"Right by the helipad, yeah," Zach said, like that was a normal thing to have on one's property.
+
+"Better to keep the plebs out, right? Give it here." Thomas held out his hand.
+
+Zach grabbed a sheaf of papers from his back pocket and handed them over.
+
+The title read: Ross-Aston No. 15: Level 3 Walk-Through.
+
+Thomas flicked through the pages and winced at what he saw. "We're going to need armor. Or... maybe some heavy-duty bug spray."
+
+"We never did get the money from the skill shard sale down in Reno," Zach mused. "You think they still have that fire cloak for sale?"

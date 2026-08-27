@@ -1,0 +1,191 @@
+---
+id: 1695e388-87ed-59c4-a60a-8022a63ae2b5
+page-type-slug: story-chapter-royal-road
+title: "7: Fueled by Flame"
+slug: 0007-7-fueled-by-flame
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 7
+ownLength: 2288
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572861/7-fueled-by-flame"
+royalRoadId: "2572861"
+---
+
+She awoke to a world that had been painted anew in orange and crimson flame.
+
+Life screeched from the trees in agony, the rat flailing her way out of the bush while the looming blaze on the horizon sent waves of gentle warmness and soothing—
+
+Oh…
+
+That was it. Just as the gems lit up the inner world every morning, the outer world was lit by this, this… Fire? It looked like fire, but it was far too steady, too consistent. Instead of leaping about in a blaze it merely slowly rose one tiny bit at a time, until it was a yellow disk hanging in the reddish sky just above the forest.
+
+She wouldn’t have been able to see it, back in the deeper areas of the woods. It was…
+
+Strangely beautiful, despite the horror it had first brought her. Something so warm, that changed the static world around her so drastically without even touching it….
+
+The harmony of the birds, not screeching, but singing. The gentle glow of the sky, and the way it threw everything from moss to leaves to trunks into a new light, a new world of colors and textures she drank in with her eyes. The warm breeze, dancing through the trees…
+
+There was something glorious about it. Something she would have never been able to see, nor experience, if she was still in those labs.
+
+Just like plenty of other rats still were, surely.
+
+Her mood crashed back down with the thought, fingers growing tight on the hilt of her new blade. They were even more nauseatingly human now, claws almost gone but for the tips of her fingers, fur down to a light dusting of silver so thin as to be almost invisible against her pale skin.
+
+Speaking of blades, she needed to retrieve the scalpel. It had magic, even if she didn’t yet know what it did, and besides, it would be a fitting weapon, once she was strong enough, for her to get her revenge with.
+
+She placed in it the pocket of her lab coat, and then paused.
+
+This was a distinctive outfit, probably. Apart from those humans right there, none of the rest of them had worn anything like it. Something better might have been in the piles of neatly stacked clothing in the original crate she had opened. Something that would offer more protection without standing out, or at least something that wouldn’t catch and rip on every branch due to being so thin.
+
+Not the frilly blue, nor the soft pink, nor the dark black pants made for someone three times her size. An outfit would need to fit, she realized. Not that she hadn’t known that before, in some sense, but the idea it would be a struggle to find something that did, and the idea that not everything would be as adjustable to her size as the coat coat, served as a surprise regardless.
+
+Of course it does, you idiot, she scolded herself. You know nothing about humans, about clothing. You need to start learning, fast, and to stop making thoughtless errors like these. If not….
+
+Well, she knew full well what life was like, when humans had power and authority over it. She would die before going back to that.
+
+She kept digging, throwing the worthless garments aside one by one, finally finding something that fit well enough, a dull purple set complete with a hood to cover her head. She needed to tie it tight, and belt all the rolled up sleeves and leggings in place, but it fit acceptably once she did.
+
+Reluctantly, she donned a pair of leather gloves and boots as well. The gesture of wearing them was very human, but at least she could pretend, while all covered up by them, that the clothing was the only thing making her look human. That it wasn't a reflection of her body underneath.
+
+The man she had taken the sword from had another belt, one with a sheath. It was leather of some kind, she thought. Leather….
+
+She wasn’t sure what leather was, really. This didn’t look like the type the white coat humans had, though. It was shinier, and the blood that should have stuck to it ran off as soon as she picked it up. It felt oddly smooth, and light in her hands, even through the gloves and her lingering soreness and tiredness.
+
+One by one, she transferred all her items into her new pockets, and then strapped the sword, Violet, to her belt. She paused, then stuffed every last bit of empty space she had left with food from the other barrels. There was no more cheese, but various bags of dried fruits filled another, even if they made her long to try their properly hydrated origins every time she stopped to snack on one.
+
+The next crate…
+
+No, this much is enough.
+
+If she kept digging through every crate and trying to load herself up with every item that could possibly be useful, she would take hours trapped in this one location, and she would burden herself to the point of clumsiness.
+
+She needed to move on, if she wanted to progress in her quest.
+
+She took another look at the system watch.
+
+[Current level is 3]
+
+[Loading current statistical ability measures…]
+
+Stats successfully measured.
+
+Total mana: 9
+
+Current Mana: 9
+
+Mana power: 4
+
+Mana control: 3
+
+Physical enhancement: 3
+
+Mana regeneration rate: 3
+
+. . . . . . . . . . . .
+
+No spell points available.
+
+Interesting.
+
+She’d gained no new points from that experience, nor had her mana reserves or regeneration rate changed at all. Even though just messing around without the pressures and intensities of combat to make her push herself had given progress before.
+
+Was it just that she’d been under too much stress, too much of a rush to progress?
+
+No, her first moments of learning had always been when she was cornered and desperate.
+
+Was it diminishing gains? Each next point was harder and harder to get, where the first one came easily, and the last one was all but impossible?
+
+That made more sense, but still not enough. The second point wouldn’t be this much harder than the first, even if that was true. There weren’t nearly enough, unless it multiplied several times over with each point, and even then…..
+
+No, there was something else, something that tickled at the back of her mind. It was, it was….
+
+It refused to manifest.
+
+She looked to the watch for answers, and it stayed silent in both word and voice, though for it those two manners were one and the same.
+
+Letting out a sigh, she made up her mind. I’ll have to come back to this later.
+
+Dragging herself away from the remains of the camp despite her doubt, the rat couldn’t help but glance backwards often. Every few steps her head would turn, and the camp would still be there, smaller than ever in her growing field of view but still close enough she could almost see it. Until it vanished into the trees, and she looked back one last time to see nothing but trunks, leaves, and branches.
+
+She looked forwards again, just in time to see herself stepping over the edge of a cliff.
+
+Her hands snapped out, grabbing onto the hanging vines, which merely snapped.
+
+The rat tumbled down two of her body lengths in full rotations, dexterity working overtime as her reflexes forced her fingers to move on their own, wrapping her arms up in enough vines to cease falling. They continued to stretch, though, even after her descent halted, slowly tearing apart and away from their attachments under her weight.
+
+She clawed at the tightly packed dirt of the cliffside, trying to make handholds for herself. If only I still had proper claws!
+
+One vine snapped, and then another. Then a third.
+
+No.
+
+A strange sense of calm came over her.
+
+I won’t die because of this hideous warping of my flesh. I refuse.
+
+If she had lost her proper claws, she would have to make due with what she had gained. Mana pooled inside her, and she forced it down her arms and into her fingers, granting them strength and stability. It wasn’t enough, but there was something else.
+
+Something her mind didn’t know, but her body did.
+
+The stabbing motion of her fingers, the impact of them biting into the dirt, was somehow amplified by the mana, as though it and the energy behind the motion, no—the motion itself—were one and the same.
+
+They cut through it as easily as burrowing into fine sand.
+
+Enhanced impact, she realized. Only not really, but some version of it that was fused with her digging attempt, in the same way that her mana had infused her running before, back the first time she ever used magic on her own.
+
+An enhancement of the cut, perhaps? Or the thrusting motion?
+
+Don’t think, just move.
+
+Once she had a grip, her position was secured, her hand jammed in up to the wrist. Only….
+
+How was she to pull it out, and make her way up? Did she have enough mana for that? To climb one stab at a time? Could she pull it off at will, even if she possessed the reserves to try?
+
+It wasn’t like she could look at the system watch, given that it was also half-embedded like the arm it was strapped to, so—
+
+Oh.
+
+With her other hand, the rat gathered up vines, this time giving them all a tug beforehand to test their breakage points. She twisted the strongest together into a rope, and then yanked her right hand free, slowly climbing it until she was safely atop the cliff once more.
+
+It was only then that she risked a look down, and pondered the strangeness of the landscape that had nearly taken her life.
+
+It cut through the forest, and through the hill under it, resulting in a flat, even chasm the same length at the valleys. A look to the left and a glance to the right showed it continued, stretching out in exactly the same manner for as far as her eyes could see, the bottom entirely bare of anything growing, and the walls smoother than they had any right to be, as though the middle slice of all the hills and mountains had simply been taken out.
+
+At a certain point, dirt turned to stone, smooth stone that lined the whole bottom, apart from the dark lines down the middle. The rat squinted at them, trying to make out what they were.
+
+Too straight to be a different kind of stone in veins, too hard to be dirt or plants….
+
+There was something, some description, a word floating at the back of her mind.
+
+Metal? Dull, rusty, worn metal?
+
+That was close. Or correct, maybe, technically. It was…
+
+Iron. That was it. Not the fine steel of the labs, but iron, coated in rust and dirt from exposure to the elements. Was iron something occurring in nature? She had no idea. Though, based on instinct alone, she didn’t think this instance was anything close to natural.
+
+That made the most sense, at least. What was strange about it was the way it stood out from the world around it not only in composition, but in form as well. Too straight, too perfect, too orderly. It reeked of humanity.
+
+It was a stain, a blemish upon the very fabric of nature, one that seemed to warp the air with its very presence in the land.
+
+No…
+
+It did warp the air, and the air, shaking everything every so slightly. As the rat stared closer, the shaking became more intense, a dull, vibrating hum filling the air and spreading through the stone all the way up to her, shaking free tiny bits of dirt and rock as it did so. Soon, it was all she could hear.
+
+Then a massive, roaring monster of iron, fire, and wood shot through the hollowed out mountain, hurling past at what had to have been at least a dozen times faster than even sprinting at full speed. After the first monster that screamed flames, a line of just barely smaller ones followed, these silent but for their vibrations on the metal.
+
+Each one was different, in a way. Open topped or sealed off, gaps in the walls or completely closed, made of wood, metal, bars of iron, completely flat and piled high with things strapped down….
+
+She could barely see that much of them, clouded in the steam their leader belched out in roars of hissing fire.
+
+It was only after a dozen of them were dragged past that she realized they were no monsters at all, but merely cargo being dragged past by the first beast, if it was itself one, and not some manner of mockery created by human hands, in their typical fashion of perverting everything they touched.
+
+It was so long that even with such speeds, it took more than a minute for the last of the attached things to trail past out of her view, bringing with them blessed silence as they faded into the distance.
+
+Her jaw was gaping open, she realized, and she had started to grip onto the vines for support…. No, from fear, she realized.
+
+She closed it, too hard, and felt the vibrations from her teeth replace those vanishing from the air. Humans… Were capable of more than she had thought. They were truly monsters, outside of her understanding.
+
+But the tracks of a beast like this were easy to follow.
+
+She had found her next lead.

@@ -1,0 +1,367 @@
+---
+id: 82806ef7-ebb9-53bb-8faf-db1571a7fa18
+page-type-slug: story-chapter-royal-road
+title: "301 An Abdication"
+slug: 0260-301-an-abdication
+partOf: the-new-world
+position: 260
+ownLength: 5934
+unit: words
+ownProgress: 5934
+publishedAt: 2021-04-15
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/665326/301-an-abdication"
+royalRoadId: "665326"
+markedReadAt: "2026-06-29T21:30:05.591Z"
+---
+
+I sprinted towards the beast, Lehesion's magic channeling even as I tackled into him. I made my shoulder's contact point sharp, telekinetically reduced that surface area further, used gravity wells to speed me up more, and I burst heat into Lehesion as I landed.
+
+My many minds gave me this fluidity. Lehesion's armor cracked while I knocked him back. An annihilating shockwave rippled out from our impact, and I turned to see the others. Chrona slowed down the wave using a block of temporal dilation. At the same time, Krog and his gialgathen troops released a burst of sonic booms, perforating the incoming tide of force. Torix redirected the last inklings of the destructive potential, and they all proved no worse for wear.
+
+It left me in awe but also unshackled. They all thought about fighting Lehesion like this, each and every one of them. Understanding the implications of a fight on this scale, Torix probably helped develop plans that Krog and Spear drilled into our troops. Each member practiced on their own as well, each aware of their roles.
+
+They did that while I handled the building of golems and our political affairs. I couldn't have asked for a better team, because they weren't unmoving. Each of them still progressed even if I didn't see it in person. That progress meant I no longer needed to hold back to account for them.
+
+I shifted forward like a flash, my speed mounting to a blur. Lehesion drove back from my fist's strike. Lehesion charged an enormous incantation. I thrashed through his protection, mauling holes in his side. The sky darkened while we tore each other apart, both of us immortal and undying.
+
+Stars drifted across the horizon, and they fell towards Blegara with an intangible essence. Those wispy clouds condensed before landing, releasing blinding energies and deafening echoes. Over us, my guild members went to work protecting the platform and our territory alike.
+
+Helios was the first to spur into action among them. His elemental furnace revved its wicked cracking of the air. Matter converted to energy, and the albony ruler lifted his arms. Void ice spawned in all directions, smothering the field with its brilliant yet bulletproof hardness. Beyond that shielding, Torix summoned portals nearby. Into those portals, our gialgathen troops launched bolts and fireballs into shooting stars. All the while, they moved at inhuman speeds.
+
+In fact, all of them did. Chrona sped them all up in a temporal dilation while slowing time around everything else. Chrona had trained since we last fought, and her abilities expanded in scope because of that. This let our team decimate the falling stars before they left our entire city and surrounding countryside leveled.
+
+None of these shining fragments were allowed to even graze our lands, which left Lehesion stunned. He gawked for other reasons as well. The golden gialgathen's magic cast darkness over us all outside of the dim starlight. He and I struck one another with sheening sparks radiating off each of our attacks. I deflected, ducked, and dodged, happy for an opponent that forced me to use those tools again.
+
+It had been so long since I fought an equal, so I cherished this moment.
+
+We poured upon each other punishment abound, our skin and bones harder than metal. From the sparks of our collisions, Other Hod initiated the peak of his offensive potential. Slashes, slices, and swords of darkness engulfed Lehesion. The massive gialgathen plunged into black fires, and Lehesion drenched in the shadowy abyss he created.
+
+Behind him, Althea launched spear after spear, keeping her aim steady. Each time she released a lance, her face grew paler as she drained her life to end Lehesion's. As her eyes glazed over from exhaustion, she grabbed the syringe I left Kessiah. Kessiah had filled it with her own blood, and Althea injected that potent serum into herself.
+
+Her entire being emboldened with the energy of Baldowah, that stringent connection making her into a monster. She put all of her defense down and put on a show. One violet charged spear. Two violet, crackling spears.. Then three life enders in a row. Althea outdid my damage output for a full minute using Kessiah's energized and enhanced blood as a fuel source.
+
+I had to admit it. Kessiah and Althea were more crafty than I thought.
+
+Their combined efforts left the entire field in tatters while I shielded myself with my dimensional portal. No amount of destruction pierced the pocket dimension's veil, even arcane energies. The storage was limited by my mass and mana. Having excesses of both, I swallowed the incoming waves of destruction, wondering if her new class gave Althea this ability.
+
+Either way, it left Lehesion scrambling for a response. One on one, I wasn't about to contain his ridiculous output of carnage. One against our legion, and we shielded the populations below while goring Lehesion alive. In fragments, Lehesion roared out in pain, unable to even think as he enveloped in a combination of Althea and Kessiah's potentials. I marveled at it, unable to keep close.
+
+As with all good things, the carnage came to an end. Kessiah's blood reached its peak and then dissipated. Althea fell back into her average firing speeds, unable to keep pace with the battle's intensity. From her, minute amounts of eldritch energy poured from our conduit. She was struggling to contain her transformations under the added duress.
+
+Althea rived in agony as her body contorted from ensuing transformations. Torix pulled out his new grimoire in response, channeling magic that settled Althea's mind and her metamorphosis. A super golem picked her up and shielded her while the group kept tight-knit.
+
+It was already more than enough of a contribution. Lehesion didn't understand what or how anything could output that kind of damage against him. His focus splintered as he peered away from me, searching for what sundered his entire being with such volatility. It made his melee even worse, and I made strides of progress in the meantime.
+
+One punch couldn't shatter his empowered armor any longer, but many could. Having every bit of my attention on breaking this frog dragon in front of me, I whaled with an intensity unbounded. Each attack mauled the giant, and compressive waves disintegrated my surroundings.
+
+At the same time, my many minds went to work. We needled Lehesion's sanity with mental assaults and Event Horizon. Another of my psyches used my enhanced senses to intercept Lehesion's star using vast singularities. These black blots dotted the skyline around us, curving clouds and breaking starbombs.
+
+In all viewpoints, the aftermath of our clash manifested. The clouds near us rippled into fragmented, shifting spirals. They left enormous spheres of emptiness that then dispersed into faint mists above and below. The ocean cried out as it took more force than it was ever meant to. It sizzled, boiled, shivered, and generated tsunamis that would travel for hundreds of miles.
+
+I thanked that sea for protecting the Vagni and our city. The water acted as a kinetic buffer, stopping us from liquifying everyone below. Even more so, it prevented heat from scorching everything to fire and lava. Instead, the water vaporized while pouring in from far-off places. This gave us leeway to make our mark on the golden gialgathen.
+
+If I alone made him weak with fear, my guild and I made him tremble in terror. Lehesion gained no ground, his form undulating like a drum. Incessant, annihilating magics, blows, roars, fiery breaths, and punches meant he couldn't comprehend all that came his way. Where he landed, the ground melted. When he tried to fly, the sky turned to ice. He breathed in to use a beam, but Torix turned the air to tar. Every move, every direction, it all came at Lehesion in an outpour of uncompromising, unyielding ruin.
+
+We came together with a fluidity few guilds could match because we were a group few in number but elite in teamwork. Even the super golems worked like a charm, all of Spear's training coming out as they supported our members and helped me strangle Lehesion physically. Within half an hour, the enormous rock platform I gave us turned to a patchy place of void ice and stone. That scarred landscape duplicated the scarred hopes of Lehesion. They were both decayed.
+
+Lehesion had aimed to prove his worth to his puppeteers, but now they would understand that he could not stop us. They'd need something more than raw power to overwhelm our guild because we had that in spades. Even then, we used what we had better. Lehesion used little of his strength as he was unable to fully manifest his powers. Since our last few fights, he'd developed no new strategies, meaning all of our counterstrategies landed without a hitch.
+
+Without the looming threat of Lehesion, the other Elysium forces would be leveled. Their armies would fall. We were a guild of few but had the might of many, and Lehesion experienced the full brunt of that crushing potential. All the while, Elysium fought for control of their mana battery, needing him to prop up their system. Each mind-shackling cuff and soul-crushing chain they scrounged up only weakened Lehesion, his vast mana pool being turned into upgrades for other people.
+
+So when he faded and another voice spoke through him, it left me more than simply empowered.
+
+We were left triumphant. We had won.
+
+Lehesion flew backward before speaking in a cold, calculating voice, "I see that your guild and you have achieved an admirable military presence. I salute your efforts, even if they go against ours."
+
+It was Tohtella Adair, her composure calm despite the enormity of damage we enacted on her faction. I crossed my arms, switching to The Rise of Eden for the boost in charisma. I made sure it also got to my guild,
+
+"Stop with the chatter. What do you want to talk about?"
+
+"It's good you don't want to waste time. I don't as well. I'll get to the point then - I want to make a truce."
+
+I raised my eyebrows, "What kind?"
+
+"A simple one. You can take Blegara and continue your actions how you like. Obviously, you want this place, and while we did as well, we have other war fronts we can focus on. Considering the resource sink this has become, I don't wish to facilitate further hostilities."
+
+I frowned, "You killed an entire species. Your hostilities aren't limited to just attacking us."
+
+"We did not eliminate the gialgathens. We simply took the majority of them for Hybridization. The rest have been taken to a different planet and allowed to breed like normal. Giess is now too volatile for life there, but the other gialgathens have continued thriving in a less hostile area."
+
+"So they're livestock? What a huge improvement." I clapped, "Real nice of you. Wow. Great job."
+
+Lehesion's brow rose, "We have cloning facilities for that purpose, and they are far more efficient. The gialgathens that we've put into habitation are simply being allowed to repopulate."
+
+"You're not convincing me of that unless I see them, and it wouldn't matter either way. You still killed nearly all of them. That's more than enough for me to know what you and Elysium are all about."
+
+Lehesion smiled, an eerie gesture since I knew it came from someone else, "We've done what we've had to for a far grander expanse than merely Giess. As for seeing the gialgathen's habitation, we can have that arranged if you'd like."
+
+I pinched the brow of my nose, "Look, I don't trust you guys. You're going to ambush, assault, or kill me. It's just too obvious, so no, I'm not going."
+
+Lehesion's face leaned back, and his tail pushed up invisible glasses, "There's been a misunderstanding here. We do not want to have enemies we cannot beat. This is especially true for enemies that can be reasoned with. Unlike Schema, you are not a brick wall that cannot speak. You are a sentient with a mind of its own."
+
+Lehesion turned a palm to me, "We can find a compromise. I am sure of it."
+
+I crossed my arms, "Alright, compromise time. Free the gialgathens. Stop converting species into mindless monsters. Quit turning eldritch into pawns for other people. They're 'people' too...Some of them, at least."
+
+Lehesion's eyes deadpanned, "You're unreasonable. Those demands undermine our war effort entirely. You've seen what the Sentinels and Overseers are capable of. The moment we relinquish a measure of our assaults, their forces will further compound with opportunistic classers joining in on the spoils of a battle against us."
+
+Lehesion's eyes narrowed, "Therefore, we cannot do that. Name different terms."
+
+I spoke without a change in expression, "Then we're done here."
+
+She raised a palm, an odd gesture coming from a colossal gialgathen, "Let's put a hold on that, hm? There are definitely arrangements that can be made. For one, we understand that moral grounds appeal to you. We derived that from your verbal clash with Lehesion earlier, at least. We wish to point out several of our moral virtues and reasonings to you."
+
+I narrowed my eyes, "Ohhh, I've seen some of them. We all have."
+
+I gestured to my guild members behind me, tilting my head to Krog and Chrona, "Especially those two. They've seen what your 'morals' are all about."
+
+Lehesion sighed, "We began this journey of stopping Schema for several reasons. You know many of those reasons, such as the cullings from Schema's rough transitions to a systemized world. He offers little support, so newer worlds become subservient to older ones. The Empire you ally with, is one such guild that abuses this system to their favor."
+
+Lehesion peered at Helios with disdain, "That is why twelve species are enslaved by them."
+
+I turned to Helios, and the albony peered back and forth between Lehesion and I. He coughed into a hand, "It's eleven, and it's not enslavement...merely indentured servitude."
+
+Man, I had to admit, that was a pretty awful response. I let it slide as Lehesion smiled at him, "If that is your defense, Helios, then I will let it speak for me." The big gialgathen turned to me, "As you can see, many species are belittled into servitude to enact the will of Schema's system. We've freed thirteen different races from this servitude, and we're working on the fourteenth here."
+
+Through Lehesion, she gestured to my golems with a tail, "You're doing an admirable job here, and we are willing to renounce our claim given your effectiveness. You've even found a way of managing the eldritch threat here."
+
+Lehesion spread his wings like a person spreading their arms, "We only want to expedite the freedom and progress of different species. Particularly fringe species that have been left abandoned by Schema's policies. It is Schema that attacks without end against us. We simply retaliate as we have to in order to survive."
+
+"Then why the hell do you keep launching attacks on my damn city?"
+
+"You're raiding one of our territories, whether you believe you are or not. That gives cause for our assaults. We're now offering a ceasefire. If you don't accept our generous conditions, understand that subsequent death on both sides is your fault exclusively."
+
+A chill ran down my spine as Tohtella continued, "That's why we're willing to forgive your previous transgressions, even the bombings on Giess, where you killed millions."
+
+That unnerving pressure mounted on me before it faded to anger. I pointed to her and shouted, "Bullshit. Those deaths aren't on me. You wouldn't stop converting the gialgathens, so I did what I had to so we could save some of them in the countryside. Don't forget that. And even then, you don't care who dies. You're just afraid of me, so now you don't want to fight anymore."
+
+I frowned, "You just don't want to lose."
+
+Lehesion sighed, "Hah...In essence, you are correct. You are worthy of fear. Why does that change the dynamic of this talk?"
+
+I threw my hands up in frustration, "Because you wouldn't have stopped attacking us if you were winning and the situations were reversed."
+
+Lehesion spread his wings, "That is simply untrue. We aren't looking to wipe out a new guild with promise. We want to have Elysium be a bastion for disparaged species, worlds, and one day, even the eldritch. That is how we gained many massive eldritch to help us defend Giess."
+
+Still not trusting her, I raised my eyebrows while diving into thought. Elysium wasn't about to forgive all that I'd done, but they might turn a blind eye to my guild for a while. That alone would be an enormous boon for me. Without that looming threat of obliteration, we could expand far out on Blegara. Hell, we could finally help people on Earth.
+
+It went even deeper than that. The gialgathens enjoyed Blegara, and they could settle down on it. I could help my homeworld after neglecting it for so long, and I even got some free time for Obolis's mission with the Ahcorus. In that way, I still fought Elysium. I just didn't need to put my own people on the line to do it.
+
+And yet, a part of me didn't want to let this go. Elysium terminated a species for their own gain and tortured silvers and eldritch alike. The eldritch did kill people, so it wasn't as if eliminating the eldritch was downright evil. It was more Elysium's methods that disturbed me.
+
+The footage from their camp on Earth flashed in my mind, vivid and wounding. Outside of the Hybrids, mind magic was a tenuous, grisly means of control. These reasons made me want to smash Elysium to pieces and put a stop to all of that. To make that happen, I would need to wage war.
+
+Peering around, the wasteland surrounding me gave me my answer to this trade. I didn't want to sign this ceasefire, but I had to for my guildsmen. They deserved better than this. If I chose to make some moral stand here, then they'd suffer for it, not me. Considering they'd be the ones making sacrifices, I turned to my guild.
+
+Torix already cast his silencing magic as I did, the aura passing over us. He even fogged our surroundings so that our enemies wouldn't be able to read our lips. I raised my eyebrows at my guild members, "Any ideas on what we should do here?"
+
+Krog snarled, "Kill every last one of them. My kin were killed. Elysium should die for it."
+
+I gave him a nod, "Noted. Anyone else have anything to add?"
+
+Chrona chimed, "If anyone understands your hatred, Krog, it is I. I still dream of killing them even while I sleep. But that is why I wish to stop this - I rest little these days. I suffer more nightmares than dreams now."
+
+She grimaced, "Krog, I've grown weary of these relentless attacks. As a species, we have adapted to this change in how we live, but we were not made for prolonged wars. We make our own slowly, and we take pleasure in the arts."
+
+She leaned towards Krog, "If they offer us peace, then I say we let go of revenge. We may turn that desire to destroy into a desire to rebuild."
+
+Other Hod hissed, "You're cowards."
+
+I frowned at Other Hod, "No, they're not."
+
+Other Hod winced, "He spoke of vengeance, but she forgoes it for peace. Is that not cowardice?"
+
+I lifted a palm, "It can be courageous to not fight sometimes."
+
+Other Hod tilted back, "I...Huh."
+
+Torix coughed into a hand, "If I may, I'd like to offer some of my thoughts."
+
+Ready for a calculated perspective, I let my hands down, "Alright, let's hear it."
+
+Torix raised a finger, "I've decided upon creating a list of the pros and cons of either endeavor, and they are as follows: we're choosing between Schema's favor along with Elysium's ire versus Schema's ire with Elysium's neutrality. I'm of the opinion that Schema's favor means little and that we've been used by that omnipresent AI from the start."
+
+I crossed my arms, "Why, exactly?"
+
+"It's simple. He's never offered reinforcements, bonus quests, or even extra experience beyond what he's offered to other guilds. Considering our central position in this conflict, I believe that is unacceptable. We deserve more for taking on these risks."
+
+I pointed above me at my title, "I got over five thousand extra levels added to my level cap. That's pretty crazy."
+
+"Indeed. However, I researched your bonuses, and they were, in fact, less than those offered to other select individuals during different times of conflict. As an example, there are reports of war with Etorhma's followers centuries ago. During that time, many individuals were given 15,000+ levels to their level cap along with class sub-titles and the like. Comparatively, you've accomplished far more yet received far less."
+
+That was strange. Schema played hardball with us for some reason. I sighed, "Huh...Well, that sucks."
+
+Torix swung a hand, "And I have a penchant to agree. Now, there are other reasons to agree to a truce. Elysium's raids will be defensible while our territories are small as they are. However, in the future, they will be able to destroy vast swaths of our conquered land. I also believe they won't attack us after an agreement. After all, they've stopped Lehesion from going into orbit and simply scorching this land entirely. Of all people, Daniel, you must understand this having fought him."
+
+I shook my head, "Yeah, he can't beat us in person, but that doesn't mean he can't beat everything around us."
+
+Krog's anger waned while he stood with less pride, "I...I hadn't noticed."
+
+Torix placed a hand on the gialgathen's wing, "And that is due to Daniel's dominance in direct combat. Unfortunately, they know where we are, but we don't know where their lairs lie. This puts us at a distinct disadvantage."
+
+Torix shrugged, "We'll be extremely limited in our guild's growth from now until a ceasefire of some sort is arranged. Given how little building we've managed, our guild is more than due for a rapid expansion, both here and upon Earth." Torix met my eye, "That is my final point; we can help your native species. I know you're not human any longer, but surely there's a lingering attachment, hm?"
+
+I tapped a knuckle on my forehead, "Yeah...It is."
+
+Torix spread his arms to the others, "As for the cons of forgoing battle, they are obvious. Elysium has enacted great evil against the gialgathens, the eldritch, and likely others as well. We have done great moral good in fighting them and preserving a culture and species. Of that, we can take pride in where we stand."
+
+Torix steepled his hands, "But does pride put food upon our tables or build roofs over our heads? No. It only gives you a warm, fuzzy feeling when you happen to think about it. In that regard, I believe we've done more than enough to satisfy any moral obligation we might've had. Personally, I believe we should move on from this conflict and progress our own agendas instead of the agendas of other factions."
+
+Torix's eyes flared bright, "And that is why I say we accept the treaty as is."
+
+I crossed my arms, "Does everyone agree?"
+
+The battered, bruised, and bloody battalion nodded at me. I bit my lip before taking a sharp breath, "Alright, but let's think about Elysium for a minute. We've actually been able to take the brunt of their assaults and withstand them. Even if we can't see it, their forces had to have come from somewhere else."
+
+Torix rolled his flaming eyes, "Obviously."
+
+I gave him a fake smile, "Thanks. Anyways, hear me out - I think they were supposed to be attacking someone else, but they siphoned those troops here instead."
+
+Torix tilted his head, "Daniel, I think very much of you, but you're stating the obvious. Where else would the troops have arrived from?"
+
+I raised a hand to the mage, "Yes, but let's take a step back from that fact. If they're offering a treaty, it's because they need those siphoned troops desperately. Having Lehesion's time taken up like this must be crippling as well, and having their forces get slaughtered without gaining ground, they might not be able to afford to do that."
+
+I spread out my hands, "Based on offering us a treaty mid-combat, I'd say they definitely can't, actually."
+
+Torix nodded, "That is a point of contention. Elysium may stand to gain more than we realize from this."
+
+I gestured to my guildsmen, "So we're actually in a point of power here. Let's not forget that."
+
+Chrona sighed, "And here I believed we'd gained peace. Instead, we wish for gold and riches at the expense of our enemies. Do you not believe that will breed resentment?"
+
+One of the supergolems deadpanned, "According to my history, our creator destroyed millions of their people. I am of the opinion that resentment is a non-factor, as it should be assumed to already be present."
+
+Chrona raised her eyebrows in disgust, "These creatures are sinister at times, are they not?"
+
+I pointed at the super golem, "Sinister or not, I agree. I don't care if Elysium likes us less because I know they hate me already. Knowing that, what can we gain from allying with them besides not being attacked? I say, let's gouge a little."
+
+Torix spread his arms, "If we must, then I have a few suggestions."
+
+"Let's have it."
+
+"Elysium has access to many forbidden technologies. I've recently gained access to many of these magics, as have you. Despite that newfound access point, we've no resource to learn about these magics. Perhaps an exchange of information could be arranged?"
+
+Torix leaned to me, "And also, though you're tutoring sessions for the cipher have been appreciated, hm, how should I put this...Your teaching style simply doesn't mesh with how I learn."
+
+I read between the lines of what Torix said,
+
+"So, I suck at teaching?"
+
+"To put it succinctly, yes. Yes you do."
+
+I shrugged, "Well, that's a good point. Does anyone else have something to add that we can ask for? Personally, I don't want Hybrids or the tech for them."
+
+Krog whipped his tail behind himself, "They are abominations, and they mar an otherwise beautiful world here."
+
+Helios spoke up, "I would wish that the Empire's planets would remain un-sieged. The Empire would pay much for the ceasefire if you could include that in this treatise of yours."
+
+My mind raced. The Empire's tactics bothered me, almost to the point that I regretted helping them. Sure, Obolis and the Empire treated us reasonably well, but I didn't want to help them take back worlds that didn't want to be ruled in the first place. Based on Helios's mentioning of indentured servitude, well, it was safe to say Obolis used questionable means of controlling their populaces.
+
+But, Helios put himself on the line earlier. Florence spoke well of us. Obolis also seemed like he genuinely wanted to treat us fairly too. Even Caprika helped put me out there on Giess. Those reasons spurred me on as I tilted my head to Helios,
+
+"Do you think Obolis would be willing to compromise a ceasefire with Elysium to squeeze us into the arrangement?"
+
+Helios scoffed, "You would be surprised at the lengths Obolis would go for your guild. He has told me that he sees you as a brother in many respects."
+
+Eh, that sounded like a stretch to me, and Helios's ulterior motives spilled out like liquid silver - evident as could be. I stared the albony down, his dark mask sheening with a glossy stain. Exerting more pressure, I wielded Event Horizon as a weapon over his mind, but I didn't actually drain him. I wielded the aura's mental stress alone while I spoke like iron,
+
+"You're not lying to me, are you?"
+
+Helios's knees buckled for a second, but he kept himself composed, "I...perhaps I exaggerated the lengths to which he would go. Obolis would attempt to help, yes, but he would not jeopardize the arrangement for your gain."
+
+I pulled back Event Horizon, "I'll do the same for him then, and sorry about that. I can't afford subtlety right now." Turning back to Lehesion, I spread out my hands. Torix's silencing aura ceased while I said,
+
+"We can arrange a deal, I think."
+
+Tohtella spoke through Lehesion, "Speak your terms. We will heed them."
+
+"I want you to stop attacking my city or any other world I'm settling on."
+
+"Done. What else do you require?"
+
+"I'd like you to give us books and files on forbidden technologies and magic, like antimatter, arcane, and dimensional magic, and, hm."
+
+I opened my status, looking at what my Sovereign-class unlocked, "Anything you have on genetic engineering, the eldritch, AI tech, and warping. Oh, and the cipher, of course."
+
+Those ancient symbols sheened over my armored skin, "But you probably figured that already."
+
+Lehesion smiled, "We can arrange that information transfer right now if needed. What else would be required?"
+
+I was surprised they were willing to do even more than this. I cupped my chin, "Huh, well, how about giving me info on Eonoth, Etorhma, Baldowah, planets in this galactic area, solar systems, fringe worlds, terraformable locations, terraforming techniques, fringe clearing techniques, schema, cloning, runes, smithing, all kinds of magic, governance, your reform plans, how you plan to enact said reform plans, necromancy, the Ruhl's, remnants, primordial mana, entropy mana-"
+
+Lehesion curled his neck out of frustration, "We see that an open-ended arrangement with you is perhaps asking too much. We'll send that information, but nothing else."
+
+I pointed my thumb back at Helios, "And yeah, stop attacking the Empire."
+
+"We will not do that."
+
+"Why?"
+
+"Their planets are poorly defended, they wish to no longer be under the Empire's rule, and they show resounding support for our invasions. To my point, this is one of the most difficult of their planets to take, and you're not the reason for that if you can believe it."
+
+Ouch. I bet Obolis wished he'd paid a bit more attention to how he set up shop now. I waved a hand, "Ok, then stop attacking their worlds that don't want to rebel."
+
+"That would weaken our offenses. No."
+
+"Yes."
+
+"No."
+
+"Yes."
+
+Lehesion's eyes narrowed, "We said no."
+
+I shrugged, "Then no deal. I hope you guys are ready for me when I learn my sovereign skill, cap out my level, get warping down, master mind magic, manufacture hundreds of thousands of golems, learn dim-"
+
+Lehesion seethed, "Fine. We will do as you ask. No more than this can be permitted in this deal. Understood?"
+
+I grinned, "Of course, of course. We won't attack more of your settlements if you do all that for us."
+
+Lehesion took a deep breath, "Then we will do as you ask. Representatives will warp over towards your city via a portal. We ask you don't blow them up when that occurs using your death magic."
+
+I gave the Lehesion puppet a thumbs-up, "Oh yeah, most definitely."
+
+Lehesion turned towards a warp that opened with a golden sheen. He headed towards unseen horizons and uncrossed borders before Tohtella smiled at me through Lehesion,
+
+"Though you negotiate fiercely, you did negotiate with us. We thank you. I hope that our future relations prosper."
+
+I narrowed my eyes, "Yeah. Sure."
+
+Lehesion walked onto a world of desserts, reminding me of Gypsum. Before closing the warp, Tohtella stated, "And lastly, a word of warning - Schema will not appreciate this deal. Expect recourse."
+
+I peered at my guild, "We'll be ready."
+
+Lehesion's portal closed, "As will we. Goodbye, Harbinger."
+
+They stepped out into a starry abyss, gone for the moment. I turned to the people here, and we stared at each other for a bit. That silence lingered for a while before I spread out my hands, "We're done, guys. The war's over."
+
+Chrona roared, "To victory, our new home, and the end of this never-ending battle."
+
+As she let out a plume of icy fire, Krog and the other gialgathens joined her. I lifted my hands and roared with them, my other guildsmen celebrating at that moment.
+
+We hadn't killed or destroyed Elysium, but we sent a loud enough message that they didn't want to keep fighting us. For a guild of our size, it was an enormous victory. That triumph saturated everyone here, each of them knowing that the constant raids, the endless battles, and this galactic war was over for us. It gave me solace knowing we pulled through with only a few casualties, at least relative to the scale of destruction our battles wrought.
+
+At the same time, we gained access to many technologies, new territories, and I could finally help Earth. We even pulled some pressure off the Empire, and we'd still undermine Elysium in other, less direct ways. It wasn't like I had to call off my mission of killing Plazia-Ruhl. By the time I finished that and a few other objectives, I'd of amassed a much firmer foundation for my guild and myself. Either way, it was a good day.
+
+No, a great day.
+
+After the initial celebrations ended, I lowered the enormous, floating island back towards Blegara's surface. It landed in a flat plop compared to its thundering rise, and I preferred it that way. Collapsing the structure into a tall mound of stone, it remained as an isolated island amidst the ocean's waves. To me, it was a monument to the battle and a reminder of our victory.
+
+Yet it loomed over a devastated Saphigia.
+
+I walked closer to Althea while we made our way home through that desolation. I watched Althea be taken by the super golem guard I gave her. The colossus stood several feet taller than she did and many times her weight, yet it held her like a fragment of glass, both sharp and fragile. That reflected who she was, beautiful but deadly.
+
+Kessiah would help Althea at the hospital, and I let the super golem take her away after holding her hand for a moment. She'd be fine, but she and Kessiah needed to work out the kinks of the blood stimulant. Being knocked out like that wasn't exactly optimal. Still, they should be proud of its results.
+
+Those weren't the only results we should be proud of. Congregating at Torix's lair, we walked into the city before holding an impromptu council. Krog, Chrona, Amara, Hod, Florence, Helios, and Torix stayed here with me while we took a moment to relax. Not long after, a warp popped open over our blue core's barrier.
+
+I kept several singularities of mana charged in my blood as a shuttle siphoned out. Viewing it from the glass, I peered at the lavender and fuchsia shades, unlike the grim grays and forest greens of their dreadnoughts. Along it, gold and platinum trimmed the paneling, and an excess of windows gave plentiful viewing of its surroundings.
+
+From those windows, stockpiles of ancient texts, tablets, and cipheric etchings piled up high. Sorting the cluttered mess, remnants went about stacking the assortment of rare treasures. Torix nudged me as we watched them from outside his lair,
+
+"It would seem they've made good on our offer."
+
+Rubbing my hands together, I grinned,
+
+"It does, doesn't it?"

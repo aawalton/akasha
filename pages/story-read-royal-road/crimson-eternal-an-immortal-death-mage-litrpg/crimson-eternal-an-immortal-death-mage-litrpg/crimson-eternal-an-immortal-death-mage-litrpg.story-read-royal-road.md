@@ -1,0 +1,71 @@
+---
+id: 7ce141be-2110-58a3-b100-cd31264c4ac7
+page-type-slug: story-read-royal-road
+title: "Crimson Eternal: An Immortal Death Mage LitRPG Apocalypse (Book 1 Stubbing in October)"
+slug: crimson-eternal-an-immortal-death-mage-litrpg
+world: crimson-eternal-an-immortal-death-mage-litrpg
+unit: words
+author: "WolfShine"
+rank: c-rank
+following: true
+royalRoadTags:
+  - "LitRPG"
+  - "Progression"
+  - "Post Apocalyptic"
+  - "Comedy"
+  - "Female Lead"
+  - "Action"
+  - "Adventure"
+  - "GameLit"
+  - "High Fantasy"
+  - "Magic"
+  - "Strong Lead"
+  - "System Invasion"
+royalRoadSeriesStatus: ongoing
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg"
+royalRoadId: "79141"
+---
+
+The main protagonist is unable to die. They can be captured and sealed away, but they cannot die. Do not read if you want the protagonist to be able to die.
+
+Death is an inevitability for all except Aria.
+
+Something she knows all too well.
+
+In a world locked in war, with the majority of its continents already wiped out before the signing of the Great Treaty banning strategic level weaponry and magic, Aria Crimson finds herself lost. Treated as a weapon by the military since she was young, she has almost forgotten what it was like to not be at war.
+
+But when a strange looking screen similar to those of the newly created devices known as computers appears in front of every last person on the planet, things change.
+
+Every human on the planet is given a class and a way to level their class. Given a new way to power outside of just their natural-born abilities.
+
+But along with the power comes the invaders. Humans from another world declaring war on their world, trying to take it for their own.
+
+Now, after ten years of fighting, Aria finally has a way out of the war. One that involves even more fighting.
+
+How will the world react to the changes, to the invaders, and to the power granted to them?
+
+And how will the only True Immortal in the universe, one dubbed by the System as Death, one of the Four Horsemen of the Apocalypse despite the irony, choose to proceed?
+
+Join Aria as she figures that out for herself.
+
+What to expect:
+
+~ A relatively laid back true immortal protagonist who cannot die.
+
+~ Written mostly in first person Point of View.
+
+~ The first world in the series with a level of technology equivalent to the 1950s.
+
+~ A world where people have a chance to be born with an ability.
+
+~ The world suddenly being initiated into a System upon the invasion of another world's people.
+
+~ No romance.
+
+~ Guns used as weapons in this story instead of just being dropped like many LitRPGs do.
+
+~ A protagonist who travels across a lot of worlds in their immortal life, slowly growing stronger throughout it with lots of time skips.
+
+~ Book 1 is largely introductory into the universe and characters with book 2 truly getting into what the story will be like.
+
+Chapters are generally between 1.4-2.3k words. The first chapters will be even longer. And there are currently about two chapters a week.

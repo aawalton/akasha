@@ -1,0 +1,117 @@
+---
+id: 01fd838a-fb5f-52a7-a750-a32d7ce74412
+page-type-slug: story-chapter-royal-road
+title: "Chapter 575: Advice"
+slug: 0142-chapter-575-advice
+partOf: rise-of-the-living-forge
+position: 142
+ownLength: 1814
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3165741/chapter-575-advice"
+royalRoadId: "3165741"
+---
+
+Neil dropped his croissant.
+
+He did manage to catch the pastry before it could hit the ground, but it was only through the power of sheer subconscious will. Every other part of him was lost staring in the direction of the auction stage far below. Even though the Menagerie had made it pretty clear that the items in the 3rd round were going to be the best ones thus far, this was taking it a step farther.
+
+They’d promised that every offering would be better than the last… and then opened with a Legendary item. Some time ago, Neil might have convinced himself then and there that the Menagerie were bluffing in hopes of forcing the people in the audience to offer up their own rare items as fast as possible.
+
+But that excuse had died in the previous two rounds of the auction. Absolutely no part of him could believe it anymore. No, the Menagerie weren’t bluffing. They had somehow managed to get their hands on enough Legendary items to make an entire round of an auction out of them.
+
+Neil’s back prickled as the hair on the back of his neck stood on end. Even if this round of the auction was considerably smaller than the other ones, only a fool would sell their most powerful weapons. It didn’t take a genius to start wondering. To connect the dots and realize that, if the Menagerie were willing to sell the items in this auction, they’d likely equipped their strongest members with even better ones.
+
+But this was a crafting guild. They shouldn’t have had items like this in the first place, much less have been in a position in which they could go around selling them. And Neil couldn’t help but notice that the first item they had up for auction hadn’t been made by their smith.
+
+Were they given that to sell? Did the guild backing them donate it? Or… did they get that, themselves, in a dungeon?
+
+Neil spent so much time staring and pondering that he didn’t even realize the auction for the first item had ended until it was already gone. He wasn’t even sure who it had gone to.
+
+While the upper level sections of the Mausoleum all had sound-proofed walls, the building seemed to have a way to know when they were calling out bids that let them magnify their voices. Unfortunately, it also changed the sound of their speech in the process, completely obscuring any ability for Neil — or any of the other attendees — to know who was bidding on what.
+
+Shit. If I’m going to win anything at all, I might have to move fast. I don’t think Bronze Dragon has the resources to get into a bidding war with any major players. Even with the rare materials I bought off Melissa… some of the other VIPs have to be major movers. If we get too late into the auction, I’ll have no chance to win at all.
+
+Neil chewed on the insides of his cheeks. This wasn’t an ideal situation. If he’d known even a little bit more about how important this auction would have been, Bronze Dragon would have reached out to some of their allies to secure funding sufficient to let them contend with… well, whoever he might have been up against.
+
+God, I’d pay a lot just to know who the other VIPs are.
+
+I wonder if that’s for sale.
+
+Neil’s scalp prickled. He paused, glancing over his shoulder as Reya stepped into the room. Her eyebrow raised slightly as she noticed him looking in her direction before she’d even had a chance to say anything.
+
+“Whoa. You heard me coming?”
+
+“No,” Neil replied. “But you’ve done that enough times that I’ve started to expect it. You don’t get surprised by ghosts when you’re in a haunted house.”
+
+“Huh,” Reya said. A small frown pulled at the corners of her lips. “I’m getting predictable. That’s not a good thing. Thanks for the warning. But I just came to check in on you. Was your business with Melissa good? Any trouble or requests?”
+
+“No.” Neil shook his head. “None at all. It went well. She didn’t even gouge me as much as I expected she would. You have good partners.”
+
+“We’re careful with who we pick,” Reya replied. She eyed the pile of pastries next to Neil. “You going to eat all of those?”
+
+“Help yourself. But I have to ask. Why exactly do you care so much about me?”
+
+Reya snagged a muffin with an appreciative nod. “You? I don’t. Not to be rude or anything. I’m sure you’re great. Probably.”
+
+“Thank you,” Neil said dryly. “But if that’s the case… why do you keep coming to my room? What makes me special? Didn’t you already get what you wanted?”
+
+“Oh. What makes you think I’m not checking on all of the VIPs?” Reya stuffed the muffin into her mouth, swallowing quickly before speaking again. “This is just standard service. Gotta make sure everyone who ponied up funds to be in the fancy section gets their back appropriately patted. This is the part of the auction meant for the pompous fluffy nobles, after all. You have to make them feel like we give a shit.”
+
+“I don’t think it’s standard to tell people that last part,” Neil observed dryly.
+
+Reya smirked. “No? Well, I don’t imagine you fall in those ranks anyway. Bronze Dragon isn’t a guild with major connections to anyone in the kingdom, after all. You’ve mostly built yourselves up by running dungeons and actual adventuring. You don’t play politics much.”
+
+“No, we don’t,” Neil agreed. He couldn’t help but feel like there was more to Reya’s words than she was letting on, but he was a bit too focused on the auction to pay them any real heed. Madiv had already started the auction on the next item, a Legendary dagger — and like the previous item, this one also hadn’t been made by Ifrit. A small frown pulled at his lips. “But I do have a question for you, since you’re here.”
+
+“Oh?”
+
+“These weapons,” Neil said. He pulled his eyes away from the dagger with no little reluctance. A weapon like that… he’d have done some pretty terrible things to get his hands on it. Unfortunately, he wasn’t using his own money anymore. Anything he bought would have to be for the purposes of Bronze Dragon as a whole. “Where are they coming from? Can I ask that? Are they from other people in the VIP section?”
+
+“No,” Reya said. “To the second question, that is. The Menagerie acquired them. There are some items from the other VIPs, but they’re still in reserve.”
+
+“But your smith didn’t make these,” Neil said. “So who did?”
+
+“Got them in a dungeon.”
+
+Neil’s fists clenched. That was the answer he’d been equal parts expecting and fearing.
+
+“How?” Neil asked. “Those had to come from a really powerful dungeon. I can buy that the Menagerie knows how to fight, but…”
+
+Reya grinned. “You’ll find that out eventually. We’ve got our ways. And not everyone in our guild is a crafter, you know. We’ve got our share of combatants. No point making weapons and armor if there isn’t anyone strong enough to use them.”
+
+Neil let out a grunt. His eyes flicked back to the dagger. The same person that had purchased the previous item was winning the bid. He could tell. Not because he recognized any of the magical materials they were calling out as an offer, but because they had listed so many that nobody else was even bothering to try and compete.
+
+Godspit. Who is in the room next to me? How are they so wealthy as to spend this much so quickly? We haven’t even gotten to the later items in the auction yet. Surely it would be smarter to save some resources… unless they’ve got so much that they don’t even care.
+
+That was a chilling thought.
+
+“Who—”
+
+“I can’t tell you that,” Reya said, guessing his question well before he even had a chance to finish it. “Don’t even ask.”
+
+Neil grimaced. “Yeah. Fair enough. But… well, damn. I don’t know if anyone is even going to get a chance to compete if they’re throwing wealth around like that.”
+
+“I assume Melissa sold you some good stuff,” Reya said. She snagged another pastry from his plate. “I’d suggest using all of it to get something you really want. You probably don’t have a shot of winning much if you don’t do that.”
+
+“That’s not particularly reassuring. But that was the plan,” Neil said with a grunt. “I don’t suppose you can tell me how many more items are in the auction? If I wait too long, I might not win anything at all. Then I’ll be left with a bunch of magical materials that are entirely useless to us.”
+
+Reya considered him for a moment. Then she glanced down at Madiv on his auctioneer’s platform. “There are more. I won’t say exactly how many because I don’t know myself. But there’s more. Ifrit made some stuff himself. I’d probably go for that. If you can, that is.”
+
+“I don’t get the feeling I’m going to be able to afford anything he’s made,” Neil said. “Not with whoever it is in the room next to me. You want to give me a bit of advice here?”
+
+“You want advice from the one selling you stuff?” Reya asked. The corner of her lips pulled up. “That isn’t a very clever person to ask.”
+
+“We’re allies, aren’t we?” Neil matched her small smile. “Are the Menagerie in the habit of screwing over people working together with them?”
+
+“Fair play,” Reya said. She paused for a second. “You want my advice?”
+
+“That is what I’m asking for, yes.”
+
+“Then you should bid on the item that looks worthless,” Reya said. “And spend everything you have on it. All of it. Right at the start. Wait too long and it won’t work. You’ll lose the item. You have to go all in before Madiv even finishes reading the stats. That’s the only chance you’ve got at winning it.”
+
+Neil blinked, taken aback. “You want me to spend everything I have on an item that’s not only terrible, but before I can even figure out what it does?”
+
+“You asked for my advice,” Reya replied with a shrug. “Whether you follow it or not is entirely up to you. Just remember — you have to put your bid in before Madiv is done revealing the stats. It’s the only way you have a shot of winning.”
+
+Then she was gone, slipping back through the walls like a wraith and leaving Neil sitting alone in his room once more, more lost than he’d been when she’d first shown up.

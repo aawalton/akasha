@@ -1,0 +1,253 @@
+---
+id: e1d97242-afa1-5492-a9d1-cb3b88dcabda
+page-type-slug: story-chapter-royal-road
+title: "Chapter 614 - Coming To A Head"
+slug: 0614-chapter-614-coming-to-a-head
+partOf: mythrans-master-of-all-continued-completed
+position: 614
+ownLength: 2726
+unit: words
+publishedAt: 2018-06-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/226059/chapter-614-coming-to-a-head"
+royalRoadId: "226059"
+---
+
+“How... how is this possible?” Edward Torren said as he looked at his computer screen at work and saw the three lawsuit notifications and a court injunction for information from the company about the workings of the game and the crash that happened. He had also seen the chaos that had been unleashed on the message boards and the main website after the game's shutdown, and he just started to read them when the notices that the websites were being locked for a legal investigation appeared.
+
+Edward hit the button on his intercom. “Tell me Max is here.”
+
+“He is, sir.” The secretary said. “He arrived just before you did.”
+
+“Good. Tell him to bring me everything he has on the game crash right now.”
+
+“Yes, sir.” The secretary said.
+
+“After that, send me a copy of the message board posts, including the private messages, and start transcribing them, please.” Edward said and let the intercom button go. Max better have a damn good explanation for this. He thought and read the notices again. A Defamation of Character suit on behalf of Ren Haddon? He asked himself and shook his head. What the hell happened last night?
+
+A copy of the message board posts appeared on his computer screen and he started to read them. By the time Max came into the office, Edward had been shaking his head unconsciously for several minutes because he couldn't believe what he was reading.
+
+“Hey, Boss.” Max said and put a USB thumb drive on the desk.
+
+“Don't 'hey boss' me.” Edward said and plugged the thumb drive into his computer. “Tell me what happened.”
+
+“It was all that kid Ren's fault.” Max said and made a choking motion with his hands. “I could just strangle the little bastard!”
+
+Edward opened up the files and looked at the information it showed. “What's this? How did he get so many NPCs to check the database at the same time?”
+
+“No idea.” Max said. “Something like that shouldn't be possible. He would have to be near them to trigger the call function.”
+
+Edward nodded and took out his viewing pad that he had queued up to follow Ren's progress. It wasn't necessarily illegal to do that, since the footage was being recorded for future use by the television studio, and he was grateful for that loophole. He checked the last files on it and opened the last one.
+
+“He went around and planted something all over the countryside.” Edward said and then saw Ren plant a large metal square into the ground.
+
+**
+
+“It's done.” Onscreen Ren said. Since the camera was behind him, you couldn't see his face.
+
+“I can't believe this is going to work.” A low and squeaky voice said. “I don't understand how...”
+
+“I've done this in much smaller scales a few times.” Onscreen Ren said. “I usually restricted myself from taking advantage of things, but... if I'm going to force a change, then...”
+
+The tall metal woman knelt in front of him and gave him a hug. “I think this is a bit drastic, but I also think I'm not as unaffected by this Sea Dweller thing as I thought I was.”
+
+“Can I have one last kiss before I cause a whole heap of chaos?”
+
+“You don't need to ask.” She said and they kissed briefly.
+
+“Get ready.” Ren said, and then there was a distinct chittering from a bug.
+
+“Why are you so happy?” The squeaky voice asked.
+
+**
+
+There was a response; but, it was too low to be heard, so Edward pulled the video back a couple of seconds and turned up the sound.
+
+**
+
+“Get ready.” Ren said, and then there was a distinct chittering from a bug.
+
+“Why are you so happy?” The squeaky voice asked.
+
+“This will be the very first time that Ren is going to actively use the Trouble recipe to actually cause trouble.” A tiny voice said. “I can't wait to see what happens!”
+
+“It's going to be... spectacular.” Ren said, then a moment later made his hands into fists. “Let's cause some trouble... Activate!”
+
+Then nothing happened on the screen.
+
+**
+
+“What the hell did he just do?” Edward asked, completely confused.
+
+*
+
+Gloria was tempted to talk while they waited for Elise to come out of the shower, but she knew when she started talking, she wasn't going to stop. Ren had gone through the trouble of giving them privacy in a house full of people, and she didn't want to squander that.
+
+Ren could see Gloria fidgeting and knew she wanted to hurry up and talk, but he stayed quiet as well. He didn't try to make small talk or polite conversation, because he also knew that when they started to talk that it was going to get heated very quickly. He didn't want her to feel too embarrassed to express herself, which she would feel if there were any witnesses.
+
+When there was 30 seconds left to Elise's shower, Ren carefully poured out another cup of coffee for her. He added the cream that she liked and tossed in a couple of sugar cubes with the small set of tongs in the dish.
+
+“Why cubes?” Gloria asked as Ren stirred the cup slowly. Her curiosity had gotten the better of her, despite her need to stay quiet.
+
+“They are exactly 1 teaspoon of sugar each and it saves us from having to measure all the time.” Ren said. “Plus, rich people use cubes, don't they? I know I saw that on television.”
+
+Gloria blinked her eyes for a moment. “You're using television as a guide to how to live?”
+
+Ren chuckled. “No, I just thought those little sugar packets we used to have made it seem like we were living in a hotel.”
+
+Gloria thought about everyone there and looked around the room. “It looks like a hotel.”
+
+“It really does.” Ren said, and the bathroom door opened. “Sweetheart!” He said and held up the fresh cup of coffee.
+
+“Yes! More coffee!” Elise nearly yelled and quickly crossed the room. She took the cup and breathed in the scent through her nose. She took a sip, then another, and sighed. “Thank you.”
+
+“You're welcome.” Ren said, and then he grinned up at her. “You better get downstairs before Barbi sets off World War 3.”
+
+Elise chuckled. “Yes, this...” She stopped talking and bent over to give him a quick kiss on the lips. “We will protect you from this.”
+
+Ren reached up and touched the side of her face. “Some things a heart can't be protected from.”
+
+Elise smiled and because she knew he wasn't talking about the backlash on social media. “See you at lunch.” She gave him another kiss and left the bedroom.
+
+A moment later, Gloria spoke.
+
+“I know you mean me.” Gloria said, a little peeved, and Ren looked at her.
+
+“Actually, I meant falling in love.” Ren said. “Sometimes it happens when you least expect it.”
+
+“Which also means me.” Gloria said.
+
+“You know, not everything is about you.”
+
+“No, everything is about you.” Gloria said, and Ren had to smile.
+
+“So, you were listening when we had that talk.”
+
+“Listening? You were shouting at me!”
+
+“You might think that, but my voice was raised because I was being passionate. If I was going to yell, especially in the game, you'd know it.” Ren said. “You were the one shouting.”
+
+Gloria clamped her mouth shut and made a fist under the table. She took a breath and let it out, and Ren smiled as he saw one of his relaxation techniques being used.
+
+“Why are you smiling? Are you happy that you can make me angry like this?” Gloria asked.
+
+“Actually, I was smiling because you've learned something from me that I didn't think you were even paying attention to.” Ren said. “But, yes. I'm also happy I can make you angry.”
+
+“Why?”
+
+“It means you still care about my opinion.” Ren said. “I have dropped way down in your priorities; but, at least you know when I tell you something, it means something more than the words you hear.”
+
+Gloria had to stop and think about that statement, and Ren waited for several moments.
+
+“Like I told Barbara, you've been pushing yourself away from me. I didn't realize until recently that it happened every time I tried to pull you closer.”
+
+Gloria didn't say anything, and he continued.
+
+“Gloria, I'm sorry that I want more from you than you're willing to give.” Ren said.
+
+“Ren, this... this conversation isn't going the way I thought it would.” Gloria admitted.
+
+Ren chuckled. “You assumed I was going to ream you out for thinking about taking the job, didn't you?”
+
+“Yes, and I was going to fight you tooth and nail over it.” Gloria said. “I was so mad when you made everyone log out of the game last night, when all I wanted to do was talk to you.”
+
+“Oh, I didn't realize...” Ren started to say, and Gloria kept talking as if he hadn't spoken.
+
+“I had all the good points memorized and I've had my arguments prepared since I left my apartment to come here in real life to confront you.” Gloria said. “I was even tempted to bring the job portfolio with me, just so you could see what it entailed.”
+
+“Do you want me to argue with you over it?” Ren asked. “Do you really want me to sit here and tell you what I really think?”
+
+Gloria took a deep breath and let it out, then nodded.
+
+“I don't believe you do. Not really.” Ren said. “You don't want to hear how stupid I think it would be for you to take the job, especially when you know what's going to happen.”
+
+“It's not stupid.” Gloria said.
+
+“Oh, yes it is.” Ren crossed his arms on the table and rested his chin on them. “To use an analogy, you're like one of the rescuers that came across the Titanic when it was sinking, who tried to go aboard to enjoy the luxury ride.”
+
+Gloria frowned at his words.
+
+“It's a sinking ship, and you know it's a sinking ship; and yet, you are trying to convince yourself to get in and loot it before it disappears under the water.”
+
+“That's not what I...”
+
+“You're kidding, right?” Ren chuckled and cut her off. “Gloria, all you see is a quick cash cow and you're going to milk it for as much as you can before the milk goes sour.”
+
+“What's with the analogies?” Gloria asked, and her anger started to bubble up. “Just say what you mean!”
+
+“You are an opportunist, and I believe if you try to do what I know you are trying to do, not only will you fail, but you will lose a lot more than you think you will.”
+
+“Are you threatening me?” Gloria asked, clearly angry now.
+
+“Yes.” Ren said, and he saw the surprise on her face. “As much as I hate to admit it, you are being too ignorant to make the decision for yourself, and I care too much for you to let you ruin your life.”
+
+“Let me?” Gloria asked with a sneer. “You have no right to...”
+
+“I have every right to protect those I love, even if they don't love me back.” Ren said, and she took in a quick breath. “It's taken me a while to go over everything we've been through, and I've realized something.”
+
+“Oh, yeah? Is it another way to call me stupid?”
+
+“You still think of me as that naive young man you met in jail.” Ren said, and her eyes went wide.
+
+“I... I don't...”
+
+“You didn't 'recognize' me the last time we met in the game, because you've been comparing me to what I was like back then.” Ren said. “I am so far beyond that, Gloria. It's not a fair comparison.”
+
+“But...”
+
+“Yes, I know you cared a lot about me back then, more than anyone else you've ever met... and I was in the same boat with my feelings about you... for a while.” Ren sighed. “Having the Emotion Siphon ability lets you feel much more than what's on the surface. When I went back and relived all of our experiences together...”
+
+“Wait, what?” Gloria exclaimed. “When did you do that?”
+
+“Just after my seizure that let me remember everything, I logged into the game and spent about 5 years in my Sanctuary.”
+
+“Five... years...”
+
+“I had a lot of time to go over everything in my life, one large part of which was you.” Ren said. “I felt everything you did while we were together, and I know you don't actually love me.”
+
+“No! I do! I really do!” Gloria exclaimed.
+
+Ren shook his head. “No, your need was what drove you, and my willingness to do anything you wanted made you feel better than you've ever felt before.” He smiled. “I made sure of that, actually.” He said and then sighed. “I think we were getting to where you were falling for me for real, and then I completed your ability.” He lifted his head from his arms and sat up straight. “I didn't realize what a mistake that was.”
+
+“It wasn't a mistake!”
+
+“But it was, and I didn't see why at the time. It wasn't until later and our relationship started to change that I knew something was going wrong, and I didn't know how to fix things.” Ren took a deep breath and let it out. “I seem to make that mistake a lot, and I'm sorry that it happened.”
+
+“That what happened? The relationship? Us?”
+
+“Of course not. I meant that I can't fix it.” Ren said. “The dynamic between us seems to be breaking, and I've tried loving you more, asked you to be around me more, and it's not working. All I'm doing is driving you away.”
+
+“No, you... you're so sweet and...”
+
+“I'm an idiot for trying to help you when you don't want any help, let alone mine.” Ren said. “I only wanted to protect you, and that's not what you need.”
+
+Gloria didn't say anything as she thought about what he said, and Ren sighed.
+
+“You're not going to ask what you need?” Ren asked her, and she still didn't respond. “Then I'll show you.” He said and stood up, then wobbled over to the night stand beside the bed and picked up the room's cell phone. “Hi, Lisa... No, it's not an emergency... Is Stella driving?... Hi, Stella. I'm here with Gloria... yes, I told her... no... well, do you think I should...”
+
+Gloria looked at his back and wondered what he was discussing with Stella that he didn't have to say much for her to respond.
+
+“Yes... okay, I'll do that. Thanks, Stella.” Ren hung up the cell phone and picked up the house phone and hit the button for the kitchen. “Denise, can you go to Stella's room and bring me the manila folder on her desk? Thanks.”
+
+“Ren, what's going on?” Gloria asked as he hung up the phone.
+
+“You'll see in a few minutes.” Ren said and wobbled back to the table, then he groaned as he sat down. “Ugh... I need to start my exercise routine soon, or I'm just going to get weaker.”
+
+“But, after a seizure...”
+
+“Yeah, I'm weak as a kitten.” Ren said and smiled widely. “It's a good thing I'm just as cuddly.”
+
+Gloria smiled back, but she only did that as an automatic response. What is he planning?
+
+Denise came into the room a minute later and walked over to the table to hand the folder to Ren. “Are you sure you want to do this?”
+
+“Unfortunately, yes.” Ren said.
+
+“Do you want me to...”
+
+“No, thank you.” Ren said and pointed to the coffee decanter. “I think Elise needs that. She forgot to take it with her.”
+
+Denise nodded and picked up the tray with the coffee supplies on it and left the room. The door shut and it sounded loud with barely any other sound in the room. Ren put the folder down on the table and stared at it for several moments.
+
+“What is that?” Gloria asked.
+
+“The last straw, I believe.” Ren said and opened the folder.

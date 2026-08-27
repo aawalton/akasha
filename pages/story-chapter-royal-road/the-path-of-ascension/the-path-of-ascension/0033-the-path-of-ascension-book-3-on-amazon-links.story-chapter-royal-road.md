@@ -1,0 +1,36 @@
+---
+id: ae210e9e-c8bb-5a7d-b568-3991b0eccf10
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Book 3 On Amazon - Links "
+slug: 0033-the-path-of-ascension-book-3-on-amazon-links
+partOf: the-path-of-ascension
+position: 33
+ownLength: 197
+unit: words
+ownProgress: 197
+publishedAt: 2023-05-17
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1215967/the-path-of-ascension-book-3-on-amazon-links"
+royalRoadId: "1215967"
+markedReadAt: "2026-06-29T19:18:36.685Z"
+---
+
+Path of Ascension is officially available on Kindle, KU, Print, Audible! While none of you NEED to read the new version that is appearing on Kindle, it has been thoroughly revised and edited to make it a much cleaner book without changing any actual content. It’s a significantly smoother version of the story you know.
+
+
+The audiobook was performed by a narrator I hand-picked out of a substantial list of options, and he did an incredible job making the story a new experience.
+
+
+Amazon: https://a.co/d/hSztbc6 
+Audible: https://www.audible.com/pd/The-Path-of-Ascension-3-Audiobook/B0C37WLDGX?
+
+
+What else can you do to help?
+
+
+If you have kindle unlimited already, even just a download apparently counts as a sale and can boost my launch rank. So, you don’t have to spend any extra money to help, though if you want to feel free…
+
+
+Also, on Amazon reviews and ratings are crucial. If you've been enjoying the story, I would respectfully ask you to consider leaving a review. You don’t need to have purchased the book on kindle to leave a review, either, though if you download on KU before posting a review, it comes up as verified which is weighted higher.
+
+
+Thank you for all the support!

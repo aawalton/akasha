@@ -1,0 +1,217 @@
+---
+id: 83d96731-2435-520a-8b44-c1ba2eb628d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6"
+slug: 0006-chapter-6
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 6
+ownLength: 2707
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3463444/chapter-6"
+royalRoadId: "3463444"
+---
+
+I left the tents behind, along with the teeming mass of confused newbies like me. Then I took a brief walk to clear my mind and take in my surroundings properly.
+
+It hadn’t escaped me that Will said their encampment lay beyond the wall. Now, I started to get around to understanding why that was. It appeared that the original encampment had outgrown the wall. Now, everything inside was dedicated to either the reception and procession of new arrivals like me… or to war!
+
+A few groups were running drills on one of the larger watch towers attached to one wall. Several different impromptu tents held Crafters. The hammering from one place fought for dominance with the sound of a grindstone elsewhere, while the sweet smell of meat cooking from a huge cookpot blended horribly with the vile stench accompanying dark plumes from a small enclosed tent. And whoever was lurking up in that tall tower right next to the portal seemed to never stay still. There was constant movement up there.
+
+As I walked, I saw barrels of spearheads, oddly dull. Bundles of arrows. Armor being made, oil cooking, food being dried. Yeah. It looked to me like they were ready for action, stocking up in case things went south. Humanity had come to stay.
+
+I chuckled as I noticed a recurring experience. Every now and again, somebody would leave the recruiter tents, start walking, and then just… stop, in the middle of the well-trodden muddy pathways and not move for several minutes. Honestly, it was just like being back in Sunderland, with the damn ket addicts out of their minds. Only, this was slightly different. Because I was about to join them.
+
+I decided to move over a bit until I was out of the way of the most traversed avenues. Then I took a deep breath and gave in. Now. I was finally going to go beyond being a regular human and become something else. Something more.
+
+That tiny blinking spot at the edge of my vision expanded. It swirled into being, a rush of multi-coloured clouds adding several different layers in front of the world as I could see it. For a moment, I had the impression that there was something more beyond the actual world. Another layer, something just out of my reach. Then the clouds solidified and turned into text, floating right in front of my vision.
+
+Welcome to Ademia, Liam Berg
+
+Congratulations. You have managed to enter an essence-rich realm. In response, your kismet has unlocked. New paths are now available to you.
+
+Attention: Due to years spent in an essence-starved realm, your body is devoid of essence, drinking in more than normal. As a result, you gain the Starved Growth trait.
+
+Starved Growth
+
+Trait (Temporary)
+
+You have been lacking a natural element for your entire life. Now, your body will adjust, soaking in essence faster than average, as it attempts to absorb what it has been missing. Your skills will increase faster than it will for natives in this realm.
+
+Time remaining: 399 days, 25 hours, 59 minutes
+
+Huh. An essence-starved realm? And what the fuck was Kismet? Sounded like a cat name. The trait was nice, though. Sounded like a freebie to catch us earthlings up to speed or something.
+
+Current overview:
+
+Liam Berg
+
+Level: 0. Progress to next level 0%
+
+Class: Undergoing class selection
+
+Path: Undergoing class selection
+
+Quirks: Undergoing class selection
+
+Traits: Starved Growth (Temporary)
+
+Health: 140/140
+
+Stamina: 140/140
+
+Mana: 70
+
+Health regeneration: 1.4 health/hour
+
+Mana regeneration: 63 mana/hour
+
+Stamina regeneration: 14 stamina/hour
+
+Attributes:
+
+Strength: 13
+
+Agility: 12
+
+Dexterity: 8
+
+Fortitude: 14
+
+Perception: 11
+
+Mental Power: 7
+
+Mental Control: 9
+
+Free attribute points: 3
+
+Apply attribute points now? Y/N?
+
+I blinked, trying to take it all in. Ignoring what they were saying about Earth being essence-starved and the implications that might have about, oh, let’s see, the entire universe except Earth having access to magic, things weren’t actually looking too shabby. Or, at least, so I guessed, based on the vague notion that ten was a regular average. I could be way off. But if I was right, I was a bit above average and feeling okay about myself. This was solid proof that all those hours in the gym paid off. Way better than flexing in front of a mirror.
+
+The regeneration stuff was a bit weird. If I’d get myself hurt near to death, I would heal in a hundred hours. Yet, my mana would regenerate in a bit above an hour? Oh, and my stamina would take ten hours to recoup fully.
+
+A few questions emerged, and I tried focusing on some of the details. An explanation emerged instantly.
+
+Agility
+
+Your agility defines the speed and precision of your entire body. It affects your running speed, your ability to dodge, and partially affects many other aspects of your body.
+
+Huh. That made sense, I supposed. Even with my size, I had to be quick to dodge in the ring, and I had worked quite a bit on fast, explosive movement. But what was dexterity about then?
+
+Dexterity
+
+Your dexterity defines the speed and precision of your fine motor control. It affects your ability for quick, precise movements, in particular the more refined movements of your fingers, hands and feet.
+
+Yeah. Okay. It wasn’t like I’d spent a whole lot of time knitting or… knife throwing or something. Now that it was out in the open, I could vaguely see a bunch of applications in a world like this that’d be harder for me. I shrugged and moved on. Strength, Fortitude and Perception were straightforward. Liam smash. Liam tough. Liam see stuff. Well. I could mostly see stuff. My long-range vision wasn’t 20/20. Fortitude did have an added detail, where it also marginally impacted the ability to protect from damage. Meaning, a ton of added Fortitude would let you shrug off damage that hurt others. Nifty.
+
+I moved on for the two final attributes.
+
+Mental Power
+
+Your Mental Power is the force with which you may imbue your mental skills and talents. It is the muscle imparting your magic with force, deciding how effectively your mind will impact the world. It also affects your mana pool.
+
+That was a downer. There was no denying that. Not only were they saying that I was going to suck at magic, they also pretty much implied that my mind was weak. Of course, countless report cards from a dozen different schools over the years would agree with the system. Still hurtful!
+
+Mental Control
+
+Your Mental Control defines the precision with which you may apply your Mental Power. It is the ability to refine and steer that which your mind unleashes. It also affects how well you may defend from anybody attacking you with Mental Power and talents and skills based on such and your mana regeneration.
+
+That was… interesting. And it explained the weird mana regeneration numbers. What else? So, Mental Power meant making a big, erm… ice bolt or whatever. Meanwhile, Mental Control meant making a tough ice bolt that didn’t fall apart straight away? Also, it decided your resilience to magic? If I wasn’t going to learn how to throw fireballs, it sure as hell sounded like I’d need some points to Mental Control. Weird how my mana regenerated a lot faster than health, though. And then again, perhaps not. Being able to use magic again after an hour, if I had some, made sense. Regenerating from near-death in a few hours sounded a bit more unbalanced.
+
+All told, I didn’t feel bad about my attributes. Which… well, to be honest, I’d known that already. Part of being a sparring partner over a long period meant that you were able to measure yourself against what the rest of the world had to offer. Still, it was nice to see it out in the open like this.
+
+I took in the overview one last time before mentally focusing on choosing ‘No.’ to whether I wanted to spend my free attributes. I might not be the fastest electric scooter on the block, but deciding on attributes before I knew which class and build I was going for sounded dumb to me.
+
+The vision before me dissolved and rearranged into another image.
+
+Select your class:
+
+Crafter
+
+Fighter
+
+Collector
+
+Mage
+
+Scout
+
+I was prepared for this part. Some of the now-celebrities returning to Earth for a quick boost of media attention had shared the possibilities here.
+
+I’d never been one to waste my times in front of a pc, shouting at twelve-year-olds. Way more fun to beat people up in real life. Anyway, apparently, this was one of the details that set this new world – Ademia, it would seem – apart from normal games.
+
+In games when you picked a class, you’d pigeonhole yourself into a specific approach. Like, if you went with a Fighter, there’d be a few different paths to choose your build. You could go two-handed, fight with a shield, maybe even go for a duellist-style build with parries and the like. Yet, you’d still, often as not, be limited to a few useful paths.
+
+Here? It was more a matter of the talents you picked, which were semi-randomized, but seemed to adjust to your attributes somewhat. Meaning, if you were a scrawny little fucker and still went with Fighter, you weren’t likely to be offered a lot of strength-enhancing talents, but were more likely to gain talents focusing on dodging, speed or throwing weapons.
+
+Also, one detail I found extremely intriguing, but didn’t quite get was how, apparently, there were paths and talents for everything. You wanted to run with Mage even if you were a world-class weightlifter? The system would adjust, granting you talents, or spells that would build around that. If you wanted to become a Crafter with all your heart, but had the strength and endurance of the common housefly? Your talents were likely to attune around becoming a really fast Crafter, somebody focused on detail work, or somebody who could make their building materials weigh less or something.
+
+Honestly, I was already decided on a good deal of the classes. Still, I brought them up to check them over and see if there was anything I was missing.
+
+Crafter
+
+This class allows you to become better at your chosen craft. It will allow you to work with extracted materials and produce something worthwhile. Where other classes focus on tearing down and destroying, this is your choice for bringing something new and better into the world, and your progress is based on those results.
+
+The positive vibe of the sales pitch was nice. Of course, it comfortably ignored how I’d already seen most Crafters here in Ever Steady hard at work creating goods explicitly aimed at warfare. Anyway, it was never going to be for me. I’d tried my luck as a plasterer at some point. Even got myself an apprenticeship. But I messed it all up. My mind wasn’t made for working steadily at the same damn thing constantly. I got distracted, got bored, and, try as I might, couldn’t keep it up. Besides, I wasn’t here to build. I was here to kick ass and become somebody. Not to build a magical opera house.
+
+Fighter
+
+This class grants you the chance to get up and personal with kismet. Regardless of your chosen armament, you know that no victory is won without putting yourself on the line. Your progress is entirely based on defeating your enemies.
+
+Yeah. That was more like it. Simple, to the point and understandable. Hit somebody. Grow strong. Flex a lot.
+
+Collector
+
+Ademia is filled with wealth. Whether siphoned from the air, extracted from a dead beast or plucked off a bush, you realize that there is no need to fight to grow. Ademia provides that which you desire. You need merely… pick it up. Your progress is based on that which you collect.
+
+No. Just no. I had no doubts that a bunch of poor souls in that HBBBJ Coalition were staring at their own status screens right now in horror, wondering how they got saddled with the crappiest of classes.
+
+Mage
+
+Your mind is your weapon. Where other classes are depending on the right armaments for survival, you need only yourself. Whether your chosen medium is disease, fire, or the arcane itself, the real work is done by you, as you make the world subject to your will. Your progress is entirely based on defeating your enemies.
+
+I looked at the prompt with longing. Of course I wanted to be a Mage. Who didn’t want to sling fireballs and summon icy knives into being? The system message knew exactly how to sell it as well, massaging that megalomaniacal part inside me that, apparently, wanted to become an evil wizard.
+
+Sighing, I moved on. It wasn’t for me. Even if – and that was a major ‘if’ - I managed to increase my attributes to where I could become an adept Mage, it just wasn’t going to work. My attention span and questionable mental focus would get me killed faster than you could say ‘squirrel.’
+
+Scout
+
+Where other classes are entirely direct in their approach to growth, Scouts are anything but. There are many types of Scouts, but they tend to have one thing in common: they avoid direct confrontation, attacking only when the situation is to their advantage. Your path to progress is based on your choices and talents.
+
+Huh. How should that final sentence be interpreted? You could actually become a Scout who didn’t even have to fight? That was… weird. Weird but intriguing! I glared at the system prompt for a while, before shaking my head softly. Again, this was not for me. I was all for finding weaknesses for attacking, sussing out the best attack and whatnot, but when the day was over, the word ‘indirect’ would never be applied to me. Life, break-ups, Anders in 6th grade. I’d faced them all head-on, no matter how much I knew it would hurt.
+
+I chuckled, ignoring how stupid I was likely to look, staring out into nothing and grimacing at invisible prompts.
+
+This choice? It was certain to result in even more pain for me. But I’d never shied away from pain, and I wasn’t going to start now. I was going to face whatever Ademia had to fling at me and come out on top!
+
+You have chosen Fighter as your class. A worthy choice, for those unafraid to pay the price for advancement. May your struggles take you to the very peaks of success and beyond.
+
+You may now choose your path: Select the attribute that will be the base of your future as a Fighter. Said path will help personalize any future talent trees.
+
+Strength
+
+Agility
+
+Dexterity
+
+Fortitude
+
+Perception
+
+Mental Power
+
+Mental Control
+
+This was the last thing I’d really known about selecting my path beforehand. Every class, regardless which, gained this choice. You could mix and match as you wanted, but of course it was going to skew the type of build you could expect in the long run. While a few of the options really intrigued me – like, which possible Fighter build could you create focused around Mental Control - the choice was easy for me. Really, it was down to two attributes – either Strength or Fortitude.
+
+I was never going to float like a butterfly, and when it came down to it, I wasn’t a slugger gambling it all on landing a knockout. Strength was all well and good. Yet, what that lady with the sunglasses had said in her speech wasn’t entirely off. It wasn’t about winning or losing. It was about surviving to do it all, over and over again.
+
+You have selected the path of Fortitude. From here on, many of your talents will be specialized toward Fortitude.
+
+Your offensive and defensive talent tree has been unlocked, based on your attributes and path.
+
+You have the option to select a negative quirk, granting you increased options elsewhere. Investigate? Y/N?
+
+I snorted. Yes, please. This was my ticket to join those nerds and earn the gear to go out there and dominate.

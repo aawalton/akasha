@@ -1,0 +1,181 @@
+---
+id: cf369cd4-d1cd-5bf2-b31a-5eda32d541e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1187 - Long Range Archery"
+slug: 0059-chapter-1187-long-range-archery
+partOf: the-primal-hunter
+position: 59
+ownLength: 3544
+unit: words
+ownProgress: 3544
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2701436/chapter-1187-long-range-archery"
+royalRoadId: "2701436"
+markedReadAt: "2026-06-29T19:31:08.120Z"
+---
+
+Artemis had truly prepared a varied lineup of archers for Jake to face off against, using all sorts of affinities and concepts to amplify their power. Some were halfway mages who used their arrows as delivery vehicles of their spells, while others used barely any magic to do anything besides making themselves stronger and faster.
+
+When it came to technique, Jake quickly realized that the ability to curve arrows was pretty damn standard, and the only ones who didn’t do it were those whose concepts they infused their arrows with didn’t mix well with the ability to control flight paths.
+
+One example was the gravity archer Jake had first faced, but there were several others. An archer using light-infused arrows only ever shot in a straight path, but later informed Jake he usually summoned mirror-like objects to bounce his arrows around in combat to alleviate the weakness of every attack going in a straight line.
+
+Another didn’t need to curve the arrows as she could make them “jump” while in flight to make them hit from unpredictable angles. A fourth one was a hunter with a Path, a lot more similar to Jake, in that she focused on stealth and taking down her foes before they even knew where she was, by unleashing an incredibly powerful opening shot. To her, she had sheared away all aspects of her archery skill that didn’t focus on empowering her opening attack, and her archery skill even had an effect, making her do more damage to foes she had struck before.
+
+From all these examples, it was further hammered home that there truly was no “perfect” archery skill. It was all a question of give and take and avoiding contradicting concepts.
+
+Again, that was why Jake couldn’t adopt something like his second foe’s ability to do more damage with every attack landed. To get that, Gladiel had to reduce how powerful her arrows could be at the beginning of a fight, but perhaps more importantly, she couldn’t get concepts that helped empower the initial attacks or ones that just allowed her to set a high baseline.
+
+Jake also didn’t want an archery skill like the one that was all about being a sniper and killing her foes without ever getting into a “real” fight. She sacrificed being able to last in prolonged combat should she fail her initial strike, and she confessed that her strategy usually was just to run should she fail her kill attempt, because if the fight dragged out, she would more than likely lose.
+
+Effects like these, and even the stacking damage one, were concepts Jake could gain, just not through his archery skill. The archery skill was the core of every archer’s Path and the foundation that every other skill using a bow relied on. That also meant every other skill using a bow was infused with the concepts of the archery skill, meaning that Jake could never turn it off if he had any effects that were situationally unwanted.
+
+Meanwhile, that could be possible with skills that weren’t his archery skill. If these concepts weren’t entirely passive, he could, in many instances, avoid their effects if he so desired. In their case, the definition of “passive” also sometimes got a little loose.
+
+Jake could – if he really focused on it – suppress even skills like Big Game Hunter, but he had no way to stop his archery skill from working when wielding a bow, as it purposefully “activated” merely by having the weapon in his hand.
+
+So... whichever way Jake went with his Archery skill, it had to encompass his entire Path while at the same time not becoming too much of a mishmash of concepts that didn’t necessarily play well together.
+
+Finally, as a skill, it naturally had a limited budget for Records. Skills could either spend these Records on doing a lot of things or doing a single thing really well. An example of the latter was Arcane Powershot for Jake. The skill was straightforward yet insanely powerful for its rarity.
+
+In total, Jake had faced twenty-nine archers thus far, all with different fighting styles and levels of power. Jake had won the majority of these duels, but he had also found himself defeated a fair number of times. Truthfully, the defeats had been the most beneficial ones.
+
+There were some encounters that Jake really wasn’t sure about, where people had some real wacky archery skills. Opponent number thirty was one such fighter, and this was also the first fight Jake began to seriously question whether what the guy did could even be considered archery anymore.
+
+Retreating back, Jake summoned several barriers to block the incoming burning shrapnel from the exploded arrow. At the same time, he quickly positioned his bow to block the incoming swing.
+
+A sharp edge descended upon him from above at the same time, but Jake swayed to the side, avoiding the blow while using the momentum from blocking the other hit to create some distance.
+
+The moment he got even slightly away, two arrows flew toward him, fired by the opponent with one of the most ridiculous fighting styles Jake had ever faced, and one only made possible by his opponent’s unique physiology, which had come courtesy of his race.
+
+[Demon – lvl 349 – Intermediate Blessing of Artemis]
+
+Jake blocked and dodged several incoming arrows as he fought back with his own arrows, their duel looking for a moment like a fight between two archers until the demon closed the distance again and continued his assault by swinging both his bows like they were glaives, which they kind of were.
+
+The demon’s two weapons were shaped like bows, sure, but they were made of metal and bladed on all sides as he held one in each of his two hands. Two of his four hands, that is.
+
+What made his opponent’s fighting style insane was the two additional arms that he had right beneath the first two. Between swings and whenever Jake moved out of range for even a microsecond, the demon would draw one or both bows using these other hands and shoot summoned metal arrows toward Jake while closing the distance to once more strike in melee.
+
+Each arrow was infused with fire energy, and many of them exploded after they had barely left the string, creating a shotgun effect where Jake found himself pelted by metal fragments.
+
+Truthfully, as an archer, the demon wasn’t very good. As a melee fighter, he also wouldn’t be considered impressive. However, putting the two together and using them interchangeably throughout the fight made the demon an actual nightmare to fight.
+
+Jake had to constantly keep track of the two glaives to see if they suddenly had arrows nocked on them, resulting in Jake potentially getting a projectile to the face halfway through a melee swing.
+
+This was definitely Jake’s first time meeting a close-range archer, and he still found it questionable if the demon could even call itself a proper archer, but he evidently had an archery skill that allowed this, so who was Jake to question if the system had given its approval?
+
+Alas, it was clear that Artemis had only chosen this demon because of his unique style and not because he was particularly powerful. Once Jake adapted adequately to the demon’s fighting pattern, he found more and more openings, eventually resulting in the demon being covered in wounds all over, as one of the weaknesses of his Path was definitely subpar defenses.
+
+“I... admit my defeat,” the demon said as he fell to one knee after Jake landed another solid arrow in his thigh. “The Chosen is truly powerful beyond approach.”
+
+“It was an interesting fight. Your technique is unlike anything I’ve ever seen before,” Jake said with a smile as he took a deep breath. He was covered in burns here and there but was otherwise in decent shape.
+
+“I thank the Chosen for his praise, and am pleased by his assessment of my meager abilities,” the demon said, being overly polite in Jake’s opinion.
+
+He didn’t get better when Artemis’s presence descended on the moon, but luckily for the demon, he was already down on one knee, which made switching into a full-on kowtow easier for him.
+
+“Do not sell yourself entirely short. Your clan’s fighting style remains novel yet powerful, and you still have a long way to go before you’ve mastered it. Also, find solace in the fact that had you used your armor, things would at least have been closer, even if your defeat was inevitable, no matter how good the equipment. Before you tackle your evolution to B-grade, you should...”
+
+Jake listened in as usual as the demon got some advice from his Patron, and he also took this time to consider and digest everything he’d gone through so far. He had been flooded with inspiration after having seen so many archers, and in the end, his conclusion was that he shouldn’t go overboard.
+
+Instead, as he stood there waiting for Artemis to be done teaching the demon, he decided on what his first step to upgrading his archery skill should be. Knowing there were so many available options and so many decisions he could make, he paradoxically decided that his first way to improve the skill wouldn’t include choosing anything at all. In fact, he wasn’t going to expand the capabilities of the skill at all.
+
+No, he would improve upon what was already there to create a foundation to build upon any expansion he would do in the future. This was a thought he already had for a while, but this duel with the demon had truly hammered home that he needed to lock down his Path somewhat to ensure he wouldn’t go astray.
+
+Not long after, Artemis was done teaching the demon, made the odd opponent disappear, and Artemis teleported back to the moon once more.
+
+She noticed Jake was in thought and waited until he snapped out of it before she spoke. “I know he wasn’t the toughest opponent, but his fighting style is interesting in my opinion. Even though you may find it a little silly, he’s from a very powerful clan that has even given birth to a god using the same style.”
+
+“How come a demon like that is even in the Pantheon of Life?” Jake asked curiously as the thought suddenly struck him.
+
+“Political reasons mainly,” Artemis shrugged. “The demons aren’t super united unless something threatens the Nine Hells, so they like to try to make allies wherever they can.”
+
+Jake slowly nodded, having figured it was something like that.
+
+“You don’t seem that injured, but some recovery time is still wise,” Artemis said. “Assuming you want to continue, your next opponent-“
+
+“Can I make a request?” Jake asked, now determined, as he knew what he wanted to do and also had a good idea of what kind of opponent could help make that happen.
+
+“Oh, sure,” Artemis answered instantly, likely having noticed Jake’s change in demeanor.
+
+“An archer focusing on long range. One that prefers as much distance between me and them, and without this desire for distance coming from some gimmicky magic trick,” Jake explained.
+
+Artemis, definitely knowing what he was thinking now, smiled and nodded. “Interestingly enough, I have just the guy for that request.”
+
+Yeah, alright, Jake was pretty damn sure she had been saving him in reserve for Jake to make this request, or when she deemed it was a good time to bring him out. Not that Jake was complaining as he nodded.
+
+“Thanks.”
+
+“Recover and I’ll teleport him here,” Artemis said as she disappeared a moment later. Jake sat down and began meditating to recover fully. A second later, an information crystal allowed Jake to briefly scan, making him smile.
+
+Almost comical.
+
+Jake was about to face a hunter with an archery skill that allowed him to do more damage based on how far away he was from his target, as well as his Perception. His Path was primarily one that focused on stealth, as he tried to snipe down most of his targets from far away.
+
+It pretty much read like a profile of Jake, though there were some crucial differences. This archer tended to work in teams and actually took part in quite a few wars, where he would take down key targets on the battlefield from half a planet away. So, his way of getting where he was differed from Jake’s, but if Jake ever took part in some war, he would definitely also be considered a good sniper.
+
+Once recovered, Jake stood up, ready to face his next challenge. Seconds passed with nothing happening, and after half a dozen seconds, Artemis’ voice echoed throughout the moon.
+
+“To facilitate a proper long-range duel, you are placed far away from one another. Good luck to whoever lands the first strike.”
+
+“Even better,” Jake chuckled, happy to hear he and his opponent wouldn’t have to waste time flying far away from one another before their duel could begin.
+
+Flying into the air, Jake scouted his surroundings. He looked all around, his gaze scanning the horizon until he finally spotted who he was looking for. Well over ten thousand kilometers away floated another figure, who had also decided to fly up into the air to make it easier to find Jake.
+
+As Jake spotted this other archer, so did the other archer spot Jake.
+
+[Human – lvl 344 – Greater Blessing of Artemis]
+
+For a brief moment, Jake felt they made eye contact, making him grin happily. One thing was for sure; the other archer had some insane Perception if they could even lock eyes over such a vast distance, making him look forward to what was to come.
+
+Whipping out his bow, he saw his opponent do the same. However, more than merely taking out his bow, the other party began to fly up and backward, increasing the distance between the two even further while trying to ensure he had an angle, making it impossible for Jake to use the curvature of the moon to avoid line of sight.
+
+The mere fact that such a statement could be made was testament to just how long-range this duel was about to be.
+
+Deciding to take the initiative, Jake raised his bow and took the first shot. His arrow shot forward, and as it was in flight, it only sped up, courtesy of Unblemished Arrows.
+
+In the distance, the other archer responded in kind as he also took out his bow and began shooting. His opponent’s arrows flew with insane speed as they also began to speed up while in flight, but Jake saw that the other guy’s arrows did so by absorbing environmental mana.
+
+Jake naturally also kept firing as the two remained over an entire pre-system Earth diameter away from one another. This meant both parties had more than a hundred arrows in flight combined by the time the first one would arrive, and to Jake’s surprise and delight, he was the first one who had to respond.
+
+While continuing to shoot, Jake dodged to the side but found that the arrow followed him. In fact, all the arrows in flight seemed to veer towards him slightly as he moved, making Jake smile more.
+
+Homing arrows.
+
+It was very similar to Jake’s own Willpower-based control of his arrows, but had some different drawbacks and advantages, both rooted in the difference in control these two methods offered. His opponent’s arrows would always fly straight for Jake with little variance, making them predictable, yet at the same time, it didn’t require any mental energy or further input from the other archer once fired.
+
+Once Jake dodged these homing arrows, the other archer seemingly didn’t think it was worth it to make them do a one-eighty to fly at Jake from the back, making them just keep momentum as they flew past Jake and into nothingness. Jake wasn’t even sure he would call that a drawback, as he was pretty confident their behavior was the result of a conscious decision by his opponent not to waste too much energy with every arrow by making them too complicated.
+
+Meanwhile, Jake had the opposite approach, as he had to influence his arrows far more, making them take his opponent by surprise; however, it also required significantly more mental energy from Jake to control them. Sure, he would “pre-program” how they would fly once he shot the arrow, and they would carry out his will, but that required Jake to know where his opponent would be once the arrow arrived, something that wasn’t a thing in a duel over this distance.
+
+This resulted in Jake having to manually control his arrows to make sure the other archer couldn’t easily dodge them, all while evading homing ones from his opponent. It was stressful and put Jake under pressure, making this just the kind of duel he wanted.
+
+Arrows continued flying between the two of them, neither finding much success at first, but as the battle continued, things did get heated. As an example, Jake learned that his initial conclusion that his opponent couldn’t make his homing arrows do a one-eighty was quite wrong, and the other guy had likely fooled Jake on purpose. Not that Jake could blame the guy, seeing as it worked, resulting in him getting struck in the shoulder.
+
+Jake didn’t take it lying down as he also controlled his arrows more, ending with a couple of his making contact. Seeing as both had arrows that kept accelerating during flight, by the time they reached one another, their speed was at a level where, without Jake’s near pre-cognitive dodging abilities, he found it challenging to get out of the way in time, with his opponent having the exact same problem.
+
+Still, both could avoid the vast majority of blows, making the duel drag out as thousands of arrows were passed between the two, filling the sky above the barren moon.
+
+This training session was the longest time Jake had spent consistently using archery throughout his life, and it had forced him to truly reflect on his Path and what kind of archer he wanted to be. It had confronted him with dozens of different techniques, all of them having powerful aspects in their own right.
+
+As he exchanged arrows with the other archer, Jake was fully focused as everything he’d taken in so far was consolidated, and all the progress he’d made ever since his last skill upgrade came together. All the minor improvements here and there, and even the training he had done with Artemis the first time around.
+
+All not to expand his archery further, but to truly form the basic foundation of what his Path as an archer would be.
+
+Jake’s arrows slowly began to grow faster and stronger as he kept shooting. The increase was gradual until suddenly he passed the threshold. He felt himself grow stronger as the stat bonus from his weapon skill increased and the arrows all sped up by a noticeable degree, and Jake instantly felt a far more powerful connection with all of his arrows in flight.
+
+His opponent also noticed when the arrows suddenly started doing more damage. It shouldn’t come as a surprise, but one party suddenly growing more powerful rapidly changed the balance of the duel as Jake’s victory became assured.
+
+He was past caring about merely winning the duel... because he’d finally succeeded in what he wanted to do.
+
+[Archery of Expanding Horizons (Epic --> Ancient)] - An Archer’s best friend is the bow in his hand and the arrow in his foe’s heart. Your horizon continues to expand, your foundation that of an archer who sees no limit on what his arrows can reach. You do not shy away from allowing other aspects of your Path to empower your archery, a testament to the vastness of your horizon. Allows you to affect the trajectory of arrows already in flight. By infusing arrows with your will before shooting, the effect is significantly improved. Adds a noticeable bonus to the effect of Agility and Strength when using a ranged weapon. Adds a noticeable damage bonus to all arrows based on distance traveled and Perception. Arrow trajectory control based on Willpower.
+
+It was the boring kind of skill upgrade. The one who didn’t change much beyond the flavor text, adding nothing new. It just made everything it already did a lot better, which had been precisely what Jake wanted.
+
+He wanted to ensure that the Records pertaining to his arrows dealing more damage based on distance traveled and Perception were as powerful as they could possibly be, so that they couldn’t be undermined by whatever came next.
+
+Jake also had to admit he had never before experienced having a skill upgrade twice while retaining the same name, but reckoned it had something to do with the C-grade evolution and potential downgrade happening in between.
+
+With his goal succeeded, and the Horizon reachable by his archery further than ever... it was time to also expand the scope.
+
+That’s to say, Jake wasn’t done and hoped Artemis had a lot more sparring partners available.

@@ -1,0 +1,369 @@
+---
+id: e60529ee-a2a3-5f70-a441-bb319e62cb26
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 421"
+slug: 0120-the-path-of-ascension-chapter-421
+partOf: the-path-of-ascension
+position: 120
+ownLength: 5319
+unit: words
+ownProgress: 5319
+publishedAt: 2025-06-20
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2372337/the-path-of-ascension-chapter-421"
+royalRoadId: "2372337"
+markedReadAt: "2026-06-29T19:21:58.688Z"
+---
+
+Chapter 421
+
+Matt rubbed his hands together as he looked at the rift in front of him.
+
+It might not be the most famous rift of the dwarven Great Power they had been delving, but it was definitely on the list. In fact, it was one of the ones they had been explicitly told they needed to delve by both sets of Clans Ascenders, and was a pair to another rift they would hit just before they met up with the allocated Domain trainers, said to be made by a Talented aperologist from the time of the Everlasting Kingdom.
+
+They had been so insistent about them delving this rift, they actually reserved three delve slots, one every other month.
+
+Wun rubbed his hands together as he approached. “Okay. I’ll come in with you guys and give you a little of that Wun Special.”
+
+Allie and Aster moved in unison, covering his approach, having experienced Wun trying to ‘help’ them by influencing their rift drops.
+
+There was no way they were going to let him do that again, and Aster called out, “Keep your luck changing fingers away from our rift. We don’t trust you not to sabotage us. Again.”
+
+Wun pretended to look hurt but couldn't keep the smirk off his face as he said, “I’m sure you guys will find a use for the box of boxes. I’m sure someone can make that a very valuable… object.”
+
+Moe sighed as he inspected the building that housed said rift. “Ahhh. I ‘eally ‘iss this place. So many good items ‘ulled out of ‘ere.”
+
+Brian nodded, his head nearing falling off. “Remember when we pulled the Scepter of Eeppy Sleepy. I loved that thing. Shame it broke during that fight with the Grand Regent of Kalrun. Damn, that was a fun adventure.”
+
+Matt resisted the urge to ask about the mission they had gone on and instead inspected the rift in front of him.
+
+Matt met Zack's gaze and the two of them nodded in unison. They both stepped forward, the Tier 35 guards not reacting to their presence.
+
+After inspecting the rift and making sure it was full of mana and bordering on a rift break, Matt stepped inside.
+
+He was quickly followed by everyone else to escape the spoilers.
+
+The entrance to the rift was not really what Matt expected.
+
+He had heard the rift was slightly a choose your own monsters variant, but he hadn’t expected to be dropped into a simple stone room with a single plinth in the center.
+
+Walking over to it, Matt and Zack both inspected the three shards of light that hovered over it, just to be joined by the others a heartbeat later.
+
+“Okay, so we need to pick one of the three options. Left seems to be some form of light, center seems to be fire, and right seems to be a mystery room. How do we want to play it?”
+
+Allie immediately pointed at the rightmost option. “I say mystery. They can have the best shit.”
+
+Liz shook her head as phoenix Liz pointed at the center with a wing. “Then we should choose the middle. Fire is a good safe bet. Remember, we need to choose for longevity if we really want to push this rift and finish all nine floors.”
+
+Aster shook her head. “And what does fire have to do with longevity? Light seems like an easier mana type if it's going to affect all of the monsters going forward.”
+
+Matt weighed the odds as well as running the simulations before looking to Susanne, who just quietly shook her head, staying out of the conversation. Seeing that, Matt frowned but didn’t push.
+
+She was always quiet but she had been especially so in the last few days, and he had a pretty good idea of why, but if she didn’t want to talk about it, he wasn’t going to push. Yet.
+
+Zack, however, spoke up. “I think we go with light.”
+
+Liz tapped him with the butt of her spear. “That's just because your name is Light. You're biased and therefore don't count.”
+
+Zack simply nodded, which got a laugh out of everyone else and was a good enough reason to choose one over the other. Given that they were simply in the first room, their choice didn’t really matter too much, as they weren’t hard countered by any of the elements. Not that any Ascender worth their mana stones would be hard countered by any one element.
+
+Poking the light shard, a portal spun itself into existence at the end of the room.
+
+Matt and Liz were the first through the portal, and immediately came under fire as a trio of ogres brought massive stone cudgels down at them.
+
+Liz blocked two. The first with her shield, which then created a bubble of protective force around her that blocked the second attack, while Matt just cast [Bulwark] to blunt the majority of the Tier 30 monster’s attack and used his blade to direct the remainder of the energy past him.
+
+He chopped down hard on the wrists of the ogre, cutting through the thick skin and bone.
+
+As his blade cleared the now severed wrists, he stepped in and brought his blade back up, cutting into the groin and then belly of the creature.
+
+He was just about to unleash [Mana Slash] to finish the creature off when he saw the ogre hadn’t lost its weapon as he expected.
+
+The ogre brought its club up in a tricky trajectory, right at his head.
+
+Matt ducked and brought his blade around, gathering momentum for a second strike.
+
+During that brief moment, he was able to see that he had cut the monster's hands off, but it had a light-based body hidden inside its physical body.
+
+Seeing that, Matt shared the news through the group chat to Liz, knowing the others would see the information the moment they entered the area. That would be any second, which meant he and Liz needed to clear the entrance to the portal.
+
+[Cracked Air Slide] launched Matt right at the ogre and he felt bones crack as he impacted the Tier 30 monster, but Matt didn’t let it faze him, throwing his Concept and [Telekinesis] into the move to send the ogre flying.
+
+Free, Matt turned to the two monsters Liz was fighting and brought his sword down, unleashing the mana he had filled the blade with.
+
+His current blade was the same lattice of metal weaving together to form a sword shape, and he had enchanted the mana stone he filled the hollow inside with to amplify his magical attacks, having expected to fight strong but traditional enemies. However, upon seeing enemies they were facing, he instead ignited the entire core of mana in a single [Mana Slash].
+
+The expenditure of billions of mana in a single spell overtaxed his sword, and he could feel the stress as it tried to resist melting, but it also obliterated the upper bodies of the two ogres, causing their attacks to falter.
+
+Liz brought a whip of Ichor around which cleanly cut through the light-based bodies, causing two rushes of essence to pour into her. Matt siphoned what he could absorb, but without the rest of the group, most of the essence was simply lost.
+
+The others arrived a moment later, led by Susanne, who protected the squishier members of each team.
+
+They were just in time to fight the ogre Matt had sent flying.
+
+Matt raced forward, baiting out a smash of its club as the follow up attacks were slowed by a blast of cold. That made it downright easy for Matt to cut its head off, exposing its light head, which Zack put a [Mana Bolt] through with expert precision.
+
+Aster sniffed upon seeing there wasn’t another ogre to fight. “And this is why I said we should choose fire.”
+
+Liz shuddered as she spun on Matt’s bond, poking her in the armor. “You liar and cheat. I’ll remember this.”
+
+Aster whistled even as Zack bent down, inspecting the pieces of the first ogre Matt had cut off and comparing it to the severed body.
+
+“Possession?”
+
+Matt weighed the possibility and shrugged. “It's possible, but unlikely. I think it's more likely a flesh puppet.”
+
+Zack brought the severed stump up to his nose and sniffed. “Weird scent for that, but the mana flows are similar. Physical soul?”
+
+Allie rolled her eyes and pulled out a small white dagger Matt had never seen before. “Easy way to tell.”
+
+She vanished for a moment and returned shaking her head, even as a scream of pain and anger reached them from deeper in the rift.
+
+“Not possessed. Oh, also, there are like ten of the monsters coming this way.”
+
+Matt rolled his eyes at the comment, as he could damn well feel there were a dozen ogres racing at them, including one who had a missing flesh eye.
+
+Jumping into the air, Matt quickly cast a [Breach], which vaporized the first two ogres’ physical bodies, leaving two light ogres racing at them undaunted.
+
+That at least confirmed Allie’s comment about possessions being ruled out. Or at least the typical style of possession, which needed at least a modicum of flesh to inhabit.
+
+That didn’t confirm a flesh puppet either, as both flesh puppets and physical souls could exist without their fleshly prisons for a small amount of time. The main difference was that physical souls were one and the same as the body, and were unique to that monster; not that different from a second life. Flesh puppets, on the other hand, could and would try to inhabit dead monsters if they were intact enough.
+
+Both, however, were typically vulnerable to magic-based attacks as well, but flesh puppets were vulnerable to dispelling where physical souls were not.
+
+The question was answered when Aster hit the leading two monsters with a dispel, followed by Zack doing the same.
+
+When the ogres were unaffected, they had their answer.
+
+Physical souls being a first monster modifier was less than ideal, but would hopefully translate well to their final reward.
+
+Matt threw himself forward even as he regrew the mana crystal in his sword, but instead of doing any fancy empowering, he simply made a magical armor-bypassing effect, as well as a spiritual disrupting effect.
+
+Driving his blade into the first ogre, the effect was immediate as the creature screamed its pain and rage.
+
+Dodging its retaliatory bite, Matt brought his blade up and chopped into its mouth.
+
+Unlike before, the monster didn’t survive having its head destroyed, with the spiritual disrupting effect being the equivalent of poking a hole in a balloon, leaving only the fleshly body left to protect the manifested spirit.
+
+After they finished off that pack of monsters, Allie immediately teleported them to the next pack, where they tore into them with a vengeance.
+
+Susanne was a monster, with her manifested blade acting just like Matt’s enchanted weapon and destroying the physical spirits.
+
+Once they finished the first cavern, they had to kill the mini boss of the area.
+
+It was another ogre, but a massive one, fifteen feet tall and fully armored in chainmail.
+
+Allie simply stabbed it in the eye, penetrating into its brain with a dagger Matt created out of his mana and enchanted similarly to his blade.
+
+Riding the boss down, she laughed. “And this is why you don’t play with the spirit, people. Lesson number one.”
+
+Aster nodded. “I’m so glad I said we shouldn’t pick fire.”
+
+Liz just continued to glare at his bond, but Matt happily raced Allie into the portal that formed over the boss's body.
+
+Once more, they were in a simple room with a plinth, but it wasn’t alone. Just next to it was the rift reward distortion, indicating they could exit the rift any time between rooms if they just dispelled the reward.
+
+Not that they would. Instead, they all looked at the plinth. Rather than three shards of mana types, they were presented with a sword, a shield, and a fireball. The choice was easy, with Matt only waiting for Aster to enter the room to poke the fire symbol.
+
+Like before, a portal appeared in the room, allowing them to fight their next set of enemies, and once more, Matt and Liz took the ambush head on.
+
+Instead of ogres, this time they were fighting proper trolls.
+
+Nine feet tall, lanky, regenerating trolls.
+
+Trolls that crackled with silver lightning.
+
+To make matters worse, instead of being bottom Tier 30 monsters, these were nearing the middle of the Tier, and were correspondingly that much harder to deal with.
+
+Matt took the first strike on his [Bulwark], this time cast with enough mana to ensure it didn’t break in a single attack, allowing three Lizes to rush forward to attack the seven trolls. Tossing a rock back through the portal, everyone else rushed through.
+
+Allie vanished and Aster started casting her debuff spells, but Zack started snatching the lightning out of the trolls’ control the moment the spell left their bodies, sending the bolts anywhere but at them.
+
+With the trolls’ spells nearly completely negated, the fight was short and quick. The troll's largest remaining advantage was their massive healing factor, which meant they needed to be dispatched with a single, devastating attack or by burning. But that was hardly a problem for their group of two Ascenders and a pinnacle elite swordswoman.
+
+Even the physical spirit didn’t help them much, as their regeneration was purely a physical trait of theirs, which didn’t apply to anything so magical, allowing the group to cut through them.
+
+It was time to push as deep as they could.
+
+***
+
+At the end of the eighth room of the ninth floor, Matt didn’t bother to look at the plinth as he entered the choosing room, instead flopping to the ground and slowly stretching. Only once he felt his right knee and his lower back crack in several spots did he sit up, just to see everyone else in various stages of recovery.
+
+Hauling himself to his feet, Matt looked at the plinth. There was a humanoid face with tusks sneering back at him in the leftmost slot. The middle slot had a pair of hands cupping a single flower. The third and right most slot had a silhouette standing in a neutral stance.
+
+Matt just blinked at the objects a few times before letting himself fall back onto the floor and resting his head on Aster.
+
+They sat there just breathing until Allie broke the silence. “What are they even supposed to mean?”
+
+Knowing the others would feel it in their spiritual perception, Matt just shrugged. He wasn't the only one, everyone seemingly had no idea.
+
+“Maybe the hands are a healing thing? I’ve seen such imagery about healing before.” Liz’s statement sounded more like a question than her actual question.
+
+Zack shook his head even as he leveraged himself up from where he had leaned against the wall. “I don’t think so. Healing in rifts is rare, and this one has no recorded instances of such. I think it's a rest water-based area. Typically, such imagery is combined with a hand pulling the flower out of water.”
+
+Allie kicked Zack’s leg. “That doesn't make sense with the theming.”
+
+“We are trying to establish theming, which is why we are guessing.”
+
+Matt didn’t bother to sit up, but instead inspected the objects with his spiritual sense.
+
+Even on a second inspection, he had no idea what they could mean. Instead, he rolled over, making sure to elbow Aster in the stomach hard enough to get through her armor.
+
+Shaking the snow out of his hair, Matt said, “Okay, let's just roll for it. Easier than bickering.”
+
+Allie laughed as she crawled over to Matt, where they each pulled out a die.
+
+Matt’s was made out of a light blue mana crystal and had a few scrapes and dinks in it, while Allie’s die was pristine and an unblemished white, as if she had just stolen it from a casino.
+
+Leaning over, she whispered. “This is your chance for greatness, Mr. Die. Fuck this up, and you go to the bad place. Imagine spending the rest of your life having to be played with by children. If you want to avoid that, you just need to roll well.”
+
+Matt just shook his head. “You need to be nicer to your dice. On three. One. Two. Three!”
+
+Letting his die fall from his hand, they watched as the dice bounced. The others had probably already calculated the final results from the initial bounce, but neither he nor Allie ever did, as that ruined the fun.
+
+Matt watched as his die’s three sat next to Allie’s die's two.
+
+Running the calculations for the three-two results through their list of interpretations, he looked at the tusked face.
+
+“Silhouette it is.”
+
+Allie looked at the dice and started whispering threats at them again, but Matt didn’t mind. The dice had chosen, and so what would be would be.
+
+Not that it really mattered, given it was the final fight of the rift, but it was the principle of the matter.
+
+After they took their potions and ensured they were ready, Matt and Liz rushed out of the room into total blackness.
+
+Having gone through Minkalla’s Eternal Darkness, Matt didn’t panic, simply letting his instincts guide his moves.
+
+He brought his blade up in an arc, impacting a monster mid jump.
+
+As he came in contact with the monster, the world came back, allowing all of his senses to work like normal.
+
+The goblin, however, wasn’t so pleased by being cut in half, and its light body starting to dissipate. Being a peak Tier 30, it didn’t die quite as fast as the other monsters had, which allowed it to drive a dagger into Matt’s shoulder.
+
+Before the creature had fully faded, Matt had already healed and subsequently returned to darkness, but the brief glimpse of the area they were in allowed him to fully model the space with his [AI]. He then compared that modeling with Liz’s brief moment of sensory return, ensuring the accuracy of it all.
+
+Everything changed a moment later as Zack entered the space. Matt hadn’t been able to hear him, but he chanted a long string of semi gibberish as he freeform created a spell model that was more complex than anything Matt had dabbled with.
+
+With a pulse, the magical effect blinding them vanished, revealing a smiling Zack.
+
+“After experiencing Eternal Darkness, I was interested in assuming Minkalla hadn’t pulled the effect out of nowhere. Many theorized Eternal Darkness is just a massively complicated debuff, but I never liked that explanation. Even given my rudimentary skills and less developed Talent at the time, I should have been able to at least feel such an effect on my own magic. I leaned more towards those who deem it to be a Domain-type power imposing a rule on the floor. But the first group did come up with a theoretical counter to the floor, which works for non-Minkalla places that do often use complicated debuffs.”
+
+Susanne frowned and finally spoke. “Can you fight like this?”
+
+Zack’s expression mirrored hers. “Not efficiently.”
+
+Aster leaned in and looked at the spell form in Zack's hands. “Is that based on a Tilly spell model?”
+
+“Based off it, yes, but it is also using the Anderson style to bridge the gaps. I—”
+
+Zack cut himself off as Aster pulsed with a snowy effect, which similarly cleared the debuff within a few hundred feet around her.
+
+“And I can tie this off on my golems.”
+
+As she spoke, two golems appeared from her Tiara’s ability to materialize spells. A moment later, each of them started creating their own snowstorms.
+
+“And there’s the hard part of the final floor bypassed. Praise me, please.”
+
+Matt sent a congratulatory pulse through their bond, even while Liz reminded her that she only started looking into free form casting after Liz had. While he wouldn’t have minded fighting in the dark, being able to counter the floor would speed them up. And given the eight other effects that were already affecting the monsters in the rift, Matt wasn’t going to complain.
+
+The goblins were no simple monsters, using squad-based tactics with dedicated ambushers along with ranged and magical variants. But none of that mattered to the six of them.
+
+Between Matt and Liz both taking on the frontline duties and Susanne acting as a flanking damage, they were able to cut through all the enemies in just eight hours, including the mini boss.
+
+Inside the final room, they didn’t have the plinth, but instead a rift reward next to the plinth and a portal that would lead them to the boss of the rift.
+
+The modifier it would get was always random, but they didn’t hesitate pushing into the final room.
+
+An iron golem stood in the center of a coliseum made entirely out of Tier 30 steel.
+
+Raising an eyebrow, Matt immediately sensed a trap and grabbed at the metal with [Metal Manipulation].
+
+His intuition proved correct, as Matt was fought for control of the metal by the boss, which launched itself at them.
+
+The pillars tried to turn and slam down at them, but instead of moving like the smooth tentacle-like appendages they were designed to be, they creaked and groaned as their structures tried to fight against Matt’s control. Being mechanical and not directly part of the boss monster, their lack of spirit made it possible for Matt to lock them up entirely, but it did take almost 20 million mana a second, which was nearly fifteen percent of his total mana regeneration.
+
+Not that such a limit stopped Matt, but it did limit what he could do if he wanted to keep the columns from helping the boss.
+
+Raising his sword, he deflected the first ballista-sized arrow away, even as the half dozen Lizzes merged and created a larger Liz, who moved forward to grapple the monster.
+
+She was picked up and tossed across the room thanks to an unexpected Domain of strength from the boss, but tendrils of ichor reached out and drove themselves into the ground, anchoring her.
+
+Her move did, however, tie up the boss long enough for Susanne to dart in and cut a deep furrow into its mechanical leg, nearly getting caught by a blast of steam which would have melted her skin into putty.
+
+Matt didn’t have such concerns and pushed into the steam, relying on [Cracked Phantom Armor] to block the damage.
+
+It was hot enough to strain the spell until it self aspected, but that only served to help them as Zack ripped the steam away and formed it into a super-heated arrow that he threw at the arrow launcher on the boss’ shoulder, which Aster then flash froze.
+
+The boss let out a loud whistle even as its arms and legs started to retract into itself, but they didn’t allow the boss to transform unbothered.
+
+Sadly, one of the floor effects they weren’t able to so easily counter came into play at that moment. Metal started to fix itself as the boss reverted itself to an instance of it a few seconds before, but they had done a lot of damage in three seconds and so the boss wasn’t able to fully heal.
+
+Liz redirected the tendrils of ichor from the ground, burrowing into the boss and tearing apart anything she could get around.
+
+It was mostly superficial damage, but it added up and forced the boss into desperate attacks.
+
+They didn’t rush and slowly whittled it down, Zack countering its attempts to shoot acid at them while Aster kept the boss's limbs encrusted in ice, even as she kept their senses clear.
+
+Matt, being so close to it, just hacked at the boss, trying to cut through its hard exterior while keeping the metal columns from smashing down on them from the sides.
+
+It was Allie who nearly killed it as she appeared next to the boss’ chest and cut what seemed like nothing with a slash of her dagger, before immediately vanishing again as the boss slapped a hand where she had been, stopping its fight with Liz to try and swat the teleporter.
+
+The boss shuddered for a moment, but Susanne appeared under it and thrust in the spatial opening Allie had created.
+
+That caused the boss to explode with a rush of essence.
+
+Allie appeared next to Susanne and slapped her shoulder. “Good follow up. There was no way it would let me get another deep cut like that in so quickly and for metal, it healed surprisingly quickly.”
+
+Susanne just nodded but Matt instead gestured to the reward distortion which was visible through the portal that had appeared. “Honors to the victor.”
+
+Instead of letting her argue, he started collecting all of the Tier 30 metal from the boss and the arena they were in. Tier 30 steel wasn’t exactly rare, but it wasn’t common either, and there was always a demand. Even if he didn’t sell it, Matt was sure he could come up with something to do with that much high-Tier metal.
+
+As he finally caught up with everyone else, they were waiting for Susanne to dissipate the reward.
+
+Seeing he had arrived, she did so and out fell a single thumb-thick bar of dull grey metal.
+
+When it hit the ground, it buckled the entire room, going so far as burrowing a tunnel to the edge of the rift’s space where it simply couldn't move any further.
+
+Matt was stunned seeing the neutronium ingot. Technically, its name was True Solid Neutronium, but that was way too much of a mouthful and the name was butchered down to its base description. It was also incredibly rare, and the rift had never reportedly dropped it before. The item was a truly one in a billion drop, even in the rare few rifts known to do so, which made it hard for Matt to calculate how rare it must have been in their rift. But he knew they had gotten extraordinarily lucky.
+
+Which they undoubtedly had.
+
+Unlike natural neutronium, True Solid Neutronium was a nearly pure alloy and acted as a solid, making it vastly easier to work with than the insanity that was natural neutronium.
+
+Degenerate matter was not fun to work with in the slightest, and only a handful of specialists could do so before it was Tier 15 and inherently stable, which simplified the matter slightly. Most neutronium was harvested from the very few known Tiered neutron stars in the Realm, but that didn’t mean there was much, if any, True Solid Neutronium. Even with specific Talents, there was no one currently in the Realm capable of producing the alloy in the same way rifts could. There were a few who could make lesser, but still useful, versions, but they were ultimately imitations.
+
+Having looked into it, Matt knew most neutronium was actually used in the limited situations where its properties aided in the manufacturing of other, less volatile materials and you didn’t have space constraints in the containment equipment.
+
+Rift solidified neutronium, True Solid Neutronium, had none of those issues, making it one of the sturdiest and heaviest materials out there, even before you add in the effects of Tiering a material up or enchanting. The rare few times it actually dropped always raised a furor among strength-based warriors.
+
+Moe’s war hammer had famously used two, and caused a fight among clan leadership at the time for using so much of the material, only ending when Sword Saint Hastor personally ordered it done.
+
+All the more tragic were confirmed reports of a neutronium ingot dropping, but being left behind in the rift because no member of the party was strong enough to actually move it.
+
+Additionally, all the known Tiered neutron stars were still low Tier, the highest being Tier 4, as they basically couldn’t form naturally. Neutron stars weren’t exactly conducive to having life around them, and they didn’t have the gravitational pull to draw Essence in from extreme distances like black holes occasionally did.
+
+The problem was simply that stars simply had too long of a natural lifespan. Where a human cultivator only got a few dozen extra years of life at Tier 1, even the largest of stars got millions of extra years. Years in which the essence inside of them would naturally self-replicate and multiply.
+
+In practice, that meant even a star on the brink of death given even a single unit of essence would either die and vent its essence or reach Tier 15. If the star did explode, its core was shattered in the process, meaning that wasn’t even a viable way to make a Tiered neutron star either.
+
+That was the commonly held theory at least. It was mostly theoretical, based on a small handful of galaxies with a suspicious amount of Tiered stellar bodies in a given area of real space, but there was some pushback on the theory. But then again, white holes were theoretical too, and Matt still fondly remembered discovering otherwise.
+
+Matt licked his lips, finally brought out of his stupor by Allie who kicked him. “What did you pay Wun for this?”
+
+“I’d love to have done so. I really, really would have. In fact, I’m pretty sure the only reason we got this drop was because we are at such a low Tier. This is good for me, great even, but I can’t function with a sword that heavy at Tier 27. And if that's the case, there is an argument to be made for taking it back to the Empire and letting the army crafters make something possibly more useful out of it. I’m sure that they could do some crazy shit with this.”
+
+Seeing his altruism hadn’t swayed anyone, Matt went with the fact he should have started with. “This is also a fantastic bet item. We could get pretty much any of the other Ascenders to put anything we want on the other side of this. Moe’s hammer famously uses two ingots of this stuff, and you know just how hard that thing hits. This ingot is really that rare, given it’s already Tier 30.”
+
+Everyone suddenly looked far more conflicted, but Susanne was the one to speak. “Take it and use it when you can. We are here delving rare rifts, not for fun but to grow stronger with the rewards they contain. That's not giving things away. That's not betting things. That's taking what we are given and forging ourselves into even better weapons. This is valuable. You can use it. Keep it.”
+
+Seeing the others agree, Matt nodded.
+
+Reaching down, Matt felt a kinship with the tiny ingot of metal that came from his Domain and its stellar aspect.
+
+It took him using his entire boosted physical strength, along with his Domain as well as [Telekinesis] and [Metal Manipulation] to finally get the item off the ground enough to pull it into a spatial ring, but he managed it.
+
+Thankfully, his junk ring was one that cut the weight of its content by four orders of magnitude, but even with that reduction, he still felt like he was tilting to the side.
+
+Tiered items became more of what they were, and neutronium’s main property was its density, which was amplified even further.
+
+If he could get someone to add the ingot to his sword, he’d need to work on changing his fighting style, but it would be well worth it for the additional strength and durability. Even if it forced him to call in a favor with one of the Royals, or even Manny himself.

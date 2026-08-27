@@ -1,0 +1,207 @@
+---
+id: bc8a7071-c9ad-510f-b731-62c80dc02d98
+page-type-slug: story-chapter-royal-road
+title: "117 Leverage"
+slug: 0075-117-leverage
+partOf: the-new-world
+position: 75
+ownLength: 2300
+unit: words
+ownProgress: 2300
+publishedAt: 2018-05-03
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/213061/117-leverage"
+royalRoadId: "213061"
+markedReadAt: "2026-06-29T21:23:25.936Z"
+---
+
+Yawm tapped his chin, “The hunt? Like toying with food?”
+
+I shook my head, “Naw, it’s getting the most out of it. Think about it like this.”
+
+I opened my right hand to Yawm, “If your fighting someone, when do they apply themselves the most?”
+
+Yawm leaned forward in his chair, resting his chin on his hands,
+
+“When their back is against a wall?”
+
+I raised my left hand, “When they believe they both win and lose.” I slammed my left hand into my right palm, echoing out the sound of clanging metal,
+
+“If you crush them immediately, that destroys any hope they have. That stops them from even trying anything to begin with. It’s like staring at your death and knowing it’s coming. You don’t want to fight at that moment. You just want to close your eyes and wait.”
+
+I spread out my hands, “You learn nothing from them if you do that. On the other hand, if you give the impression that they could win, they’ll show their best.”
+
+I counted with my fingers, “In that fight, I learned about alchemical vials, anti-magic fields, and I even discovered that Schema sent them a message about me. Schema’s planning something. With your methods, I wouldn’t have discovered anything.”
+
+Yawm nodded, “An interesting viewpoint. Being a native of this planet means your exposure towards galactic methods of fighting is meager. In order to cover this weakness, you discover what you can from even weak enemies.”
+
+Yawm pointed at me, “Hah hah, that’s a long-term strategy, if a bit risky in the moment. If the enemy is stronger than you initially imagined, then it could result in an untimely demise...”
+
+Yawm shrugged, “Still, I rather enjoy your methods. I’ll employ that tactic next time I find myself in a fight I know I’ll win. Perhaps I may learn something as well.”
+
+Yawm stood, the ice chair evaporating beneath him.
+
+“Are you ready to return?”
+
+I nodded, “Yeah, let’s go.”
+
+We both dashed back towards Yawm’s rift at the center of Springfield. As we ran on the worn down streets, our feet cracked the pavement beneath our heels. The gray loomed in the distance, wind rushing across my skin.
+
+We reached an intersection ending with a grocery store at its center. After stomping past the parking lot, we leapt onto the top of a grocery store. Our feet caved in the tin roof, the metal squealing at holding our mass.
+
+During moments like this, I appreciated the raw strength that Schema provided. Leaping across the buildings was effortless, like short bursts of flight. Watching stone crumble under my touch was exhilarating. It was like I needed nothing, and that gave me a sense of profound freedom.
+
+Still, Yawm was right beside me. He glanced around, inspecting the abandoned city. Reading his thoughts was like reading hieroglyphics. It wasn’t going to happen, so I just enjoyed the sensation of falling and rising. It was like a rollercoaster, in a way.
+
+Halfway back to Yawm’s rift, he spoke out. It was like he was telling me something rather than beginning a conversation.
+
+“You mentioned Schema planning something. I happen to agree. I might even know what it is that he wants.”
+
+I frowned under my helmet, but I let him continue. Yawm had that effect on people. You couldn’t help but want to listen to what he had to say.
+
+“Schema wanted my own talents for his own aims as well. He used all manner of methods against me. His threats began with access to his system. You know as well as I do that the dimensional cipher unlocks more than Schema can deny, however. Once I ceased responding to exile, Schema introduced other means of control.”
+
+Yawm’s eyes narrowed, “It began with an unknown status. That occured the first time I added a real enchantment onto myself with the cipher. Once unknown, you’re no different than an eldritch in some people’s eyes. The only difference was that you were once civil.”
+
+Yawm sighed, “After that, he used an incrementally increasing bounty against me. Even with what I’ve done, I’m not quite an S+ tier bounty just yet. At least to my knowledge. Combine that bounty with an unknown status, and your plagued by assailants at every hour. I enjoy the fight, but most crumble under the harsh reality of life becoming an endless battle.”
+
+Some of what Yawm was saying sounded familiar if not all of it. Once we finished sharing knowledge on runes, I’d discuss it with Torix or Althea. Whenever I thought out her name, an image of her face popped into my head. There was a warmth in my chest at remembering her. I realized I missed her.
+
+Yawm continued, “Once I he discovered I enjoyed the incessant fighting, he targeted my family. I made a bitter decision. Either I lived as a slave for Schema while enjoying my old life, or I cast it aside and lived on my own terms. My decision...well, you already know of it.”
+
+A shiver traced down my spine. All of the sudden, I compared Yawm with me. There were many similarities. We were both representatives of our species in a sense, given we both had Genesis of Potential. That skill tree was only given to one person in a species. Gaining half of my skills was due to it, from learning the cipher to my legendary skill, Force of Nature.
+
+Yawm was no different in that regard. If anything, I was following his footsteps. It was an eerie feeling. The odd sensation lingered for a bit as we reached Yawm’s rift. I dwelled on what he said until we reached Yawm’s pale fortress. From what I understood, there wasn’t much I could do about it at the moment. Given time, I’d change where I was headed though.
+
+I wouldn’t let myself be used for much longer. I’d forge my own path. It was simple as that.
+
+Steadfast in that desire, we both reached Yawm’s hideout. After letting my eyes feast on the visual delights of the sea life and lighting, we reached his study. Once there, Yawm clapped his hands and we began our next discussion about the cipher. The hours passed like minutes before I was waiting back in my room.
+
+As Keeja closed the door, I opened my status screen while sitting on the air. It was nice never having to worry about a chair anymore. If I got good at my magic, making a bed to rest on overnight wouldn’t be out of the question.
+
+As I floated on a gravity warp, I checked out level. It was 2412. Killing the levelers got me six levels. In other words, I gained nothing. After a sarcastic celebration, I glanced at the bonuses my cipher was giving. That was were the meat of my progress was.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. The bonuses are as follows.
+
++72 Strength
+
++72 Dexterity
+
++100 Endurance
+
++12% to effect of legacies
+
++20 Willpower
+
++2% to internal motivation]
+
+Over time, the bonuses would amount to ridiculous bonuses. For now though, it would take more time. I opened up my attributes and character screen, inspecting them.
+
+Level 2,412
+
+Strength – 2,256 | Constitution – 3,276 | Endurance – 11,169
+
+Dexterity – 822 | Willpower – 5,543 | Intelligence – 1,932
+
+Charisma – 195 | Luck – 602 | Perception – 330
+
+************************************
+
+Health: 867,845/867,845 | Health Regen: 753,921/min or 15,141/sec
+
+Stamina: 485,617/485,617 | Stamina Regen: 4,552/sec
+
+Living Dimension: 0.15 Trillion/4.30 Trillion
+
+Mass: 103,611 pounds(46,484 kilos)
+
+Damage Res - 98.5% | Dimensional Res - 49.25%
+
+Phys Dam Bonus – 26,530% | Damage Bonus – 40%
+
+Event Horizon – 20,000 + (100% of your total health)/min
+
+The stats increased at a steady pace, though much slower than before. It would take a long time before they amounted to much though. Based on that, developing my skills instead of my attributes was working out. Just by improving a few gravity focused skills with Force of Nature would make a world of difference.
+
+Before I got back on grinding again, I pulled out my obelisk. After opening it up, I surrounded myself in the serene calm of my screen saver. The sound of cicadas and a gentle creek enveloped me in a pleasant calm. For a moment, I just soaked in the scenery.
+
+I didn’t let that last. I opened my friends list, finding Althea and Torix. At first I wanted to just call Althea, but I bit my lips and contacted Torix first. Discussing a few details with him was more important, even if I wanted to chat it up with Althea.
+
+The ringing of an unanswered call rippled through the obelisk’s chamber. After a ring or two, Torix answered. His dry face and blue fire eyes popped in the background of maps along the walls behind him. He grinned,
+
+“It’s good to see you finally have a moment to discuss matters with me. Even better, you look no worse for wear. That’s particularly good considering I can’t imagine what’s been going on.”
+
+I shrugged, “Honestly? Yawm’s not quite as, well, uh, intangible as I thought he was.”
+
+Torix crossed his arms, two lines of golden trim running down his robe crinkling,
+
+“Really now? What is he like?”
+
+A burning curiosity hid itself just beneath the surface of Torix’s expression. I weighed my hands back and forth as I answered,
+
+“He’s...He’s kind of like a viking mixed with a mad scientist and gentleman spy. He’s hard to pin down, but he seems sort of stable. A lot more stable than I imagined. If anything, he spends all day researching runes and relaxing himself.”
+
+Torix leaned towards the screen, “So that’s what the living legend is like...odd.”
+
+I nodded, agreeing with him. He uncrossed his arms, “It seems as though he had you face off against the levelers as well.”
+
+I raised an eyebrow, “What did you think about all that?”
+
+Torix pursed his lips, “It was a situation where you were stuck in a bad situation. I believe you handled the situation as well as you could, considering the circumstances. What surprised me was that they attacked you altogether.”
+
+I frowned, “That’s because Schema gave them a message about killing me and gaining sentinel rights.”
+
+Torix’s eyes narrowed for a second. They opened wide,
+
+“Ahhh...Schema is raising your bounty.”
+
+I shook my head, “But how? They attacked me first. Surely I have the right to defend myself.”
+
+Torix waved his hands, “No, you don’t. You’re outside the protection of the system, but you’re still restrained by its rules. Killing you isn’t considered murder, but killing them is.”
+
+I tapped my teeth together, a dry frustration passing over me,
+
+“Really now?”
+
+Torix grinned, a sardonic look coming onto his face, “Indeed, Kessiah and I have managed to avoid the consequences of our unknown status for the most part. Given your situation, I doubt Schema will give you that option.”
+
+I sighed before shrugging, “Well, it is what it is I guess. No point mourning over it.”
+
+“I agree. Have you discovered anything else about him?”
+
+I glanced up, thinking for a moment,
+
+“Hmmm...He’s told me a bit.”
+
+I peered at Torix, letting my hands rest at my sides,
+
+“It’s mostly about how Schema’s planning on using me for something. What exactly, I don’t know. I’ll learn about it in time, at least based on how open Yawm is.”
+
+I raised both my hands, my palms facing each other, “I’m waiting for him to share what he wants to share rather than asking questions. I figured interrogating him would make him defensive.”
+
+Torix cupped his chin, “It’s a rather organic strategy. If it’s working, it’s working I suppose. Regardless, keep me updated if anything truly interesting comes up.”
+
+I nodded, “I will. It was good talking with you Torix.”
+
+Torix grinned, “You as well disciple. Ah, before you go, there’s two things I need to tell you.”
+
+“Shoot.”
+
+Torix raised a finger upwards, “The quarantine’s been going on long enough that information about it is starting to spread. Others will be coming. Be ready.”
+
+Torix raised a second finger, “And my last recommendation is to call Althea. She’s furious with your radio silence.”
+
+Torix gave me a wink, “Think of this as words of wisdom from your master. Never leave a lover waiting.”
+
+I grew a small grin, “Alright, alright, thanks for the reminder. Cya Torix.”
+
+I closed the call before letting out a sigh. Torix had that what I call a parent’s all seeing eye. Some parents could give you a glance then see right into everything you’re trying to hide. I’m sure he looked at Althea then wormed the fact we were dating out of her. Althea didn’t seem like the best liar anyway, so it couldn’t be that difficult.
+
+I rubbed my hands together before calling Althea. A nervous pulse crept across my skin, but excitement was there too. I couldn’t help it. We hadn’t talked since that night we’d done it. I didn’t know what to say to her exactly, but I missed her. I’m sure that would be enough.
+
+Those thoughts raced through my mind as tension built. Finally she answered the call. Whenever Althea’s face appeared, it was like a breath of fresh air. Her skin was blue gray with a vitality to it. Her hair was a deep, royal purple. Her eyes were light lavender. The expression on her face was much less appealing.
+
+Her eyebrows creased and she frowned at me. When she spoke, it wasn’t like breathing in cool air. It was like a splash of cold water,
+
+“You made me wait three days before you even call me?”
+
+Oh shit.

@@ -1,0 +1,187 @@
+---
+id: 1526b37d-ba81-5dc8-8afb-0b7d0ad7c8f2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Meat for Power"
+slug: 0009-chapter-9-meat-for-power
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 9
+ownLength: 1535
+unit: words
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2547388/chapter-9-meat-for-power"
+royalRoadId: "2547388"
+---
+
+PoV Luna
+
+By morning, silence hung heavy over the clearing.
+
+The Mireback was gone, dragged back into the forest’s shadows with groans that faded before dawn. What it left behind was worse.
+
+Three wolves lay still, their pelts matted dark, their eyes shut for the last time. No one touched them. The pack lingered around the bodies, shoulders low, tails pressed close. Not a sound came. Not even a whimper from the pups.
+
+The alpha limped across the dirt, his flank torn open, blood crusted in jagged lines. His head stayed high, but every step carried pain. His eyes swept the pack once, sharp and steady, then turned away.
+
+Luna stood at the treeline, paws rooted, ribs aching with every breath. The damp of morning clung to her fur, and her side still burned where the Mireback’s limb had struck.
+
+She stared at the clearing.
+
+Blood streaked the dirt in wide arcs. Bark scraps and broken roots littered the ground where the monster had fallen, only to rise again and again. The scent of rot clung to every patch of soil.
+
+Her ears drooped, tail limp at her paws. Her chest felt tight, and her breath shallow. But she was still standing. Sore yet alive.
+
+Luna swallowed against the taste of mold that hadn’t left her mouth since her bite. It soured her tongue, bitter and wrong. She licked her muzzle, but the flavor clung stubborn as sap.
+
+The pack did not howl, just stood around in silence.
+
+Luna’s gaze drifted once more across the broken clearing, then slipped away. Her paws turned toward the trees, carrying her into shadows where blood did not stain the dirt.
+
+Her belly grumbled, low and hollow. It wasn’t just hunger alone, but something sharper, heavier. Food had always filled her. But food wasn’t enough anymore.
+
+Neither rabbit nor squirrel. Not even jerky.
+
+She needed more.
+
+Her tail gave a weak wag at the thought, stubborn even through the ache.
+
+Luna needed strength. She needed levels.
+
+The word pulsed bright in her skull, carried on the system’s strange voice. Level meant stronger. Stronger meant surviving. Surviving meant more meat, and more meat meant everything!
+
+She padded deeper into the forest, each step dragging but determined. Her ears flicked at every sound, her nose twitching for prey. Pain sang sharp across her ribs, but her claws flexed eager for the next bite.
+
+Better meat. Stronger meat. Meat that fed her bones, her skills, her levels.
+
+Her tongue flicked across her lips, chasing the promise.
+
+Behind her, the clearing stayed silent, the pack bound together in their grief. She didn’t look back. Couldn’t.
+
+Her chest heaved, her breath sharp, but her eyes glimmered with a stubborn spark.
+
+If the Mireback came again, she would not be weak. She would not crawl into the brush, tail tucked, waiting for survival.
+
+Next time, she would bite harder. Next time, she would be ready.
+
+Her tail wagged, slow at first, then steadier. The forest ahead smelled of prey. Gamey and edible.
+
+It would be a start.
+
+She lowered her muzzle, ears perked, paws quickening.
+
+Luna needed more than food. She needed power.
+
+And power was meat.
+
+The forest thickened around her paws, damp earth springing under every step. Luna’s ribs still ached, but her nose twitched sharp, her tail wagging slow with focus.
+
+Prey. Strong prey.
+
+She found it rooting in the mud, tusks tearing at the soil. A boar. Big. Dumb. Fast.
+
+Perfect.
+
+She crouched low, breath steady, claws flexing. Her muscles coiled, tail stiff as a spear. The boar snorted, ears flicking, but too late.
+
+She leapt.
+
+【Jump Lv.4 → Lv.5】
+
+Her body arced through the air, claws sinking into the bristled hide. Her teeth found the thick curve of its neck, clamping down with all the stubborn strength she had.
+
+【Bite Lv.6 → Lv.7】
+
+The taste burst foul, copper and earth, but power surged hot in her chest. The boar screamed, thrashing, kicking dirt in wild sprays. Luna’s jaw locked tighter. Her claws raked, her body shaking with the force of the struggle.
+
+Then its legs buckled. It collapsed with a crash that rattled her bones.
+
+She tumbled free, rolling across leaves, ribs flaring sharp with pain. But when she stood, her tail wagged. Her tongue lolled in a tired grin.
+
+Boar meat wasn’t tasty. Too tough, too musky. But it was victory and she would still eat some.
+
+After chewing through the nicest parts to satisfy her budding hunger, she limped away, belly full of ache and triumph both.
+
+The hunt didn’t end there.
+
+Her nose picked up a pair of hares, fast little cowards darting through underbrush. She tracked their jittering hops, weaving between roots, her ribs screaming at every leap.
+
+They broke into the open, and she pounced. One twist, one strike, one bite.
+
+The second bolted. She chased, blood hot, legs pumping, tail streaming behind. The hare zigzagged, but her body was quicker. She cut it off, snapped down hard.
+
+Two limp bodies in the dirt. Two victories!
+
+【Level Up: 2 → 3】 【Strength +1 | Agility +1 | Willpower +1】 【You are beginning to impress. Keep it up.】
+
+The words gleamed across her mind, bright as moonlight. Her chest heaved, her tongue lolled, but her tail wagged furiously.
+
+Stronger. Faster. Even her thoughts felt sharper!
+
+Her ribs still ached, but her grin stretched wide.
+
+“More,” she muttered between pants, ears flicking back. Her voice was rough, cracked from blood and breath, but steady. “Still weak.”
+
+She nudged one hare with her paw, then tore into it. The flavor was simple, plain, gone too quick. It wasn’t good meat. Not like jerky. Not like spice. But every chew carried a promise of power. And levels.
+
+She licked her muzzle, blood streaking her whiskers, then picked up the second hare by its ears. Her tail swished, eyes glimmering as she padded deeper into the trees.
+
+Every bite mattered now. Every fight mattered.
+
+She would chew her way stronger. Bite by bite. Level by level. Until even Mireback’s rot broke beneath her teeth.
+
+Luna didn’t turn back toward the den. Not yet. The thought of the broken clearing pressed sharp against her ribs, but her paws refused to follow it. She needed something else first.
+
+And so she hunted.
+
+Through brush, over logs, belly scraping mud. Her nose twitched at every flicker of scent, her ears chasing each rustle. Prey fell before her, one after another.
+
+A lizard first. Small, crunchy, gone in a bite. Barely worth the effort.
+
+Then a fox, quick and sly. It darted through thickets, snapping at her heels. She leapt, twisted, caught its scruff. One shake, one snap. Its taste was sharp, gamey, but she swallowed it down without pause.
+
+Her tail wagged once at the progress. More meat. More power.
+
+Deeper into the woods, scales slid across her path. A fat snake raised its head, tongue flicking, fangs bare. Luna lunged, teeth sinking through coils. Pain lanced her paw as fangs scraped, venom searing into her veins.
+
+【HP -5】
+
+Her legs wobbled, her head swam, but she refused to release. Her jaws clamped tighter, biting until the writhing stilled.
+
+【Poison Resistance (Minor) Lv.1 Gained】
+
+She spat scales, panting. Her tongue burned, her stomach twisted, but her tail beat the dirt. Even poison could not stop her now.
+
+Luna barely tasted any of it. The flavors blurred – crunch, bitter, sharp. None of it mattered. Only the kills. Only the numbers flashing bright in her mind.
+
+The sun dipped lower, light thinning through the canopy. Her fur hung heavy, streaked with mud and blood. Her paws stung with cuts, her ribs ached, her lungs rasped. But her eyes burned bright.
+
+【Level Up: 3 → 4】 【Strength +1 | Vitality +1 | Intelligence +1】 【Strike Lv.6 → Lv.7】 【Perhaps you have some grit in you after all. Good job.】
+
+The windows gleamed like moonlight in her skull.
+
+Stronger. Faster. Better.
+
+Her legs finally gave. Luna collapsed beside the stream, chest heaving. Water lapped cool at her paw, dragging mud away from her fur. She lay there, tongue lolled, the world spinning with exhaustion.
+
+Only then did she eat.
+
+She dragged the fox’s leg closer, tearing meat free with slow, deliberate bites. It tasted like dirt, like iron, like effort. She chewed anyway, savoring not flavor but victory.
+
+Every swallow soothed the hollow ache in her belly, if not the sting in her ribs.
+
+She licked her muzzle clean, grinning through blood-stained whiskers.
+
+Her body hurt. Her muscles trembled. Her lungs still rasped with the echo of poison.
+
+But her tail wagged.
+
+This was it. This was the path forward. Not hiding in brush while her pack bled. Not waiting for strength to fall into her jaws. She would hunt it. Bite by bite.
+
+This was how she would survive.
+
+And how she would win.
+
+The moonlight rippled across the stream, pale and round, soft against her weary eyes. Her ears flicked, her chest rising steady at last.
+
+Tomorrow, she would hunt again. Tomorrow, she would climb higher.
+
+Her tail curled close as sleep pressed heavy. She dreamed not of flavor, not of jerky or spice, but of strength – sharp, warm, alive in every bite.

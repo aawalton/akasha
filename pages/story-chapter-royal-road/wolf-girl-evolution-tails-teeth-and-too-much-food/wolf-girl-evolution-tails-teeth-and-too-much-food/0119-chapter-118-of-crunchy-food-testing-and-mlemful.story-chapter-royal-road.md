@@ -1,0 +1,751 @@
+---
+id: a391ef31-817d-5194-b8ca-7b195bdfec87
+page-type-slug: story-chapter-royal-road
+title: "Chapter 118: Of Crunchy Food Testing, and Mlemful Moongazing"
+slug: 0119-chapter-118-of-crunchy-food-testing-and-mlemful
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 119
+ownLength: 3206
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3249014/chapter-118-of-crunchy-food-testing-and-mlemful"
+royalRoadId: "3249014"
+---
+
+PoV Luna
+
+Luna had claimed her place.
+
+Curled sideways across her Second’s lap, one arm loosely around her friend’s back, legs tucked in just enough to stay balanced while still leaning comfortably into her. Close, warm, steady.
+
+Exactly where it was the coziest!
+
+Hehe!
+
+Syliana’s hand moved through her hair in slow, absent motions, fingers occasionally brushing behind her ear or smoothing something that Luna had not noticed was out of place. Every pass made her lean in just a little more, her body settling deeper against her Second without conscious thought.
+
+It was pleasant! And made everything easier.
+
+From thinking to nomming!
+
+Her tail gave a slow, content flick.
+
+Luna hummed softly to herself as she chewed, taking her time with the bite of drake steak she had claimed earlier.
+
+It was good. Very good!
+
+But–
+
+Warm lap. Gentle scritches. Food in hand…
+
+–was even better!
+
+Apex Predator quality!
+
+Still.
+
+There was something very important that needed resolving.
+
+Luna tilted her head back slightly to look up at Syl, eyes narrowing with serious focus.
+
+“Second.”
+
+Syl glanced down at her, calm as ever. “Yes, Luna?”
+
+Luna considered her words carefully. This was complicated.
+
+“Cake is lie?”
+
+Syl blinked once.
+
+“…I beg your pardon?”
+
+“And pie is lie,” Luna continued, very certain of this part. “But lie can be pie. And maybe cake too. And lye is also pie.” She paused, frowning slightly. “Or maybe lye is cake?”
+
+Syl stared at her for a long second, the motion of her hand slowing just slightly.
+
+“I see,” she said at last, voice thoughtful.
+
+…But she did not, in fact, see at all.
+
+Luna nodded once, blissfully unaware of that fact.
+
+After all, her Second was super duper smart!
+
+So when she said she understood, she totally did!
+
+Yesh!
+
+“And… And–! Luna also learned there many types of lies?”
+
+She scrunched up her nose in thought.
+
+“...And maybe pies? And cakes too! Luna wants to try them all!”
+
+Syl exhaled softly through her nose, the faintest hint of amusement touching her expression as her hand resumed its slow path, brushing a stray lock of hair away from Luna’s face.
+
+“With enough time,” she said, “I imagine we can arrange for you to try most of those.”
+
+Ehehe!
+
+Luna shifted slightly in Syl’s lap, pleased with that answer, her tail picking up speed again as she returned to her slow, thoughtful chewing.
+
+The future of pies, cakes, and lies was already secure in her mind, which meant she could focus on more immediate concerns.
+
+Like finishing her drake steak properly!
+
+Very important!
+
+Luna leaned comfortably into her Second again, chewing on. She let herself sink into her friend’s warmth and steady presence. Her body relaxed further with each slow pass of Syl’s hand through her hair fur.
+
+And not even a minute after she was done eating–
+
+Syl’s hand paused.
+
+Only for a brief moment, barely long enough to matter.
+
+But Luna’s ear flicked.
+
+Her body noticed!
+
+Something had shifted, though she could not quite place what.
+
+Syliana’s posture changed slightly beneath her, one arm adjusting around Luna’s back while the other moved to brush a few stray crumbs from her cheek.
+
+Then she stood up!
+
+“Woo–Oh.”
+
+The motion was smooth, lifting Luna with her without breaking the comfortable hold. Luna blinked at the sudden change in height, then immediately settled again, one arm looping securely around Syl’s shoulder while she adjusted to being carried.
+
+Being moved without needing to move…
+
+It felt nice!
+
+Behind them, Trianna grinned with Ray. After letting Syliana know everything was ready–
+
+Their job here was done!
+
+Sepio was confused at first, but as understanding dawned, so too did his expression ease into open amusement.
+
+And even Veric’s mouth shifted faintly, before they quietly followed.
+
+They all knew what was up.
+
+But Luna did not!
+
+Syl began walking, her steps steady and unhurried as she carried Luna to the courtyard. People made space for them without needing to be asked, some glancing over with quiet smiles, others already watching what was about to happen.
+
+Luna remained comfortably where she was, her attention still only half there. All the tasty things, and her Second’s warmth made her a relaxed wolf.
+
+And a happy one too!
+
+Syl’s fingers moved through her hair again, brushing it back when it slipped forward, then lightly across her cheek once more, making sure no crumbs remained.
+
+Luna leaned into it without thinking.
+
+Mhm…
+
+Good Second.
+
+But as they continued–
+
+Her nose twitched.
+
+Once, twice, and–
+
+Her attention snapped back into focus, scanning everything outward.
+
+“…Second?”
+
+“Yes, Luna?”
+
+“…Smells changed.”
+
+The elven woman smiled.
+
+“That they did.”
+
+That was answer enough!
+
+Luna lifted her head properly now, drawing in a deeper breath.
+
+The difference was immediate and undeniable.
+
+She could smell how the spice layered over heat, fat carried on rising warmth, sweetness cutting through it all. It wasn’t just one thing, but many, stacked together until it became impossible to ignore.
+
+Her ears tilted forward.
+
+And Luna was all alert again!
+
+Syl slowed to a stop, giving Luna a full view of what waited before them.
+
+And it was just–
+
+Glorious!
+
+The courtyard had opened before them, and at its center stood a line of tables that had not been there before, arranged carefully and filled to the brim with dishes.
+
+Just waiting there, with a variety of food Luna never before saw in one place at once!
+
+A shiver of excitement ran through her body.
+
+And she nearly yipped in wonder!
+
+Yesh.
+
+This was heaven!
+
+Mister Stall Owner stood there with the other cooks.
+
+All facing her, with confident grins, waiting.
+
+Syl set her down in a chair, right in front of the tables.
+
+But that would not be!
+
+Luna instantly slipped down, landing lightly.
+
+And the very moment her feet touched the ground, her body leaned forward without permission. Her nose worked rapidly as she pulled everything in.
+
+Every scent! Every spice, taste, and texture and heat! Sorting, recognizing, discovering, trying to keep up with it all at once.
+
+Her feet began to move.
+
+Small shifts at first.
+
+Little tippy taps!
+
+Then quicker, her weight bouncing slightly from one foot to the other as she tried to stay where she was.
+
+Her tail picked up speed behind her.
+
+She stayed in place.
+
+Barely.
+
+Syl stepped in behind her, one hand resting lightly against her back, fingers moving slowly in calm, steady strokes.
+
+Stay.
+
+Listen.
+
+Luna listened.
+
+Or at least tried to!
+
+Grevan stepped forward, Ferric beside him.
+
+“As you all know,” Ferric called, voice carrying cleanly across the courtyard, “this feast wouldn’t be here without one very important contributor!”
+
+Grevan’s grin widened, picking up from there.
+
+“The star of the show, and the one who supplied all of this and more we’re still cooking up–”
+
+He turned, pointing.
+
+Right at her!
+
+“–is right here!”
+
+The surrounding adventurers clapped, and Luna suddenly felt a little shy.
+
+Or she would be if not for all the glorious, tasty, awoo-worthy smells stealing nearly all of her attention!
+
+Grevan continued on.
+
+“This entire spread was made from what our little hunter brought in! I’ll tell you this – we had ourselves quite a challenge working through it!”
+
+There were laughs from the people watching. But Luna could feel they were happy ones!
+
+Her ears perked immediately.
+
+“Everything here has been prepared from what was brought in, and it is only fitting that the one responsible taste-tests the results first.”
+
+Taste-testing!
+
+Luna already loved the word!
+
+Grevan swept his hand toward the tables.
+
+“…Everything here,” Grevan continued, voice bright with amusement, “is for you to try. All of it. And we want to hear what you think on each and every dish!”
+
+Ferric laughed.
+
+“Let’s see how big your appetite really is!”
+
+“Yesh!”
+
+They didn’t have to tell Luna twice!
+
+She stepped forward immediately, drawn in by the nearest scent, her hand already reaching before the rest of her had fully caught up.
+
+The first bite came as soon as she grabbed it.
+
+Crisp skin gave way under her teeth, heat and spice spreading instantly as juice followed, rich and full and even better than anything she had been holding before.
+
+Her entire body stilled for a single moment as the taste settled properly.
+
+Her eyes lit up.
+
+“Ohh!”
+
+Syliana patted her back one more time, and then retreated to stand with the others.
+
+Everybody was there, smiling, watching.
+
+Only Ray was off to make bets on just how many dishes Luna would manage to try!
+
+…Not that the little wolf girl ever noticed.
+
+Luna was too busy trying out every single dish before her!
+
+And she just couldn’t be happier!
+
+***
+
+The feast lasted a long, long time.
+
+And yet Luna remembered so little of it!
+
+Just the skill levels!
+
+【Gluttonous Soul 13% → 14%】【Devourer’s Right Lv.4 → Lv.5】【Devourer’s Right Lv.5 → Lv.6】
+
+And that she tried everything! Then Ferric even brought up some Ant cores for her to crunch on–
+
+And Grevan tried his best to ‘cook’ a few up.
+
+Luna liked the results!
+
+Liked all the results.
+
+But some were better than others!
+
+The crunchy Ant legs – cooked in spiced oil, or covered in dough and deep-fried – were delish!
+
+The mornay thingy with mixed Ant egg, spices, sauce, and meat cooked together was great too!
+
+Yes, there were many failures.
+
+But Luna ate them all anyway!
+
+No wasting food on her watch!
+
+And–
+
+The acid thingy turned great too!
+
+Kinda!
+
+Grevan told her they worked with it carefully. And diluted a batch with spices and sauce and stuff!
+
+For her to just use on things she liked.
+
+It was more acidy than expected, but after learning she had the resistance skill…
+
+They made a stronger batch!
+
+And Luna just loved the tangy tingly spicy mix!
+
+Though there was still a lot of pure acid left, as not much was needed for the sauce!
+
+Ehehe.
+
+Would be great for making more later!
+
+The other dishes were great too.
+
+And Luna was so happy she brought up the few remaining big hunts she did for them to cook!
+
+Like Ant Queen.
+
+They were very surprised with Ant Queen.
+
+Luna wondered why… for a whole of a second, before thinking of all the goodies they would make from it!
+
+Strong and abundant prey!
+
+It would make Luna a happy girl, yes!
+
+Even if Grevan shook a little when he gave her an okay–
+
+But it was fine!
+
+Luna was prepared, and gave him the rest of the shinies!
+
+And now–
+
+Now Luna was feeling rather full, and very very happy!
+
+She enjoyed the pleasant fuzziness, listening as the voices slowly turned softer, laughter came easier, and everything settled into that warm, heavy feeling that stayed after very good food and very good company.
+
+Luna had claimed an empty bench at some point, after trying out everything there was.
+
+And it was hers now.
+
+She lay sprawled across it, one leg dangling off the side, her belly full and round and very satisfied.
+
+She poked it once with a finger, just to make sure.
+
+It poked back.
+
+Good.
+
+Very good.
+
+…
+
+Still hungry.
+
+Luna frowned.
+
+That didn’t seem right.
+
+She shifted, rolling slightly onto her side before scooting closer to her Second, who was sitting nearby, talking quietly with the rest of the pack.
+
+Mmm-mu!
+
+“…Second.”
+
+Syl glanced down at her.
+
+“Yes, Luna?”
+
+“Luna is full,” she said, very seriously.
+
+“I can see that.”
+
+“But also still hungry!”
+
+Syl paused at that, her hand stilling for just a moment where it had been resting near Luna’s shoulder.
+
+“…That,” she said carefully, “is because you ate a great deal, very quickly.”
+
+Luna blinked up at her.
+
+Ate too much? Too quickly?!
+
+Impawssibru!
+
+She patted her belly again.
+
+…Maybe Second was right, again…
+
+Luna reached out, grabbed Syl’s arm, and pulled herself closer with a soft pomf, pressing in and nuzzling against her side like that would help explain the situation better.
+
+“But Luna still wants more,” she insisted.
+
+“That is not the same as being hungry.”
+
+“…Feels like it.”
+
+Syl huffed softly, though there was no real resistance in it as her hand came up to rest on Luna’s head, fingers slipping into her hair in slow, familiar scritches.
+
+Luna melted immediately.
+
+Ohhh–.
+
+That was nice!
+
+…Second was getting too good at finding all the nice spots!
+
+Not that Luna minded much!
+
+Wooo–!
+
+It was just too nice.
+
+Her tail gave a slow, lazy wag as she leaned further in, letting herself sink into the warmth and the steady presence beside her, her earlier complaint already losing importance.
+
+“Yes,” she murmured after a moment, eyes drifting half-closed. “Second correct. But Luna correct too!”
+
+Syl didn’t argue that.
+
+Probably because Luna was right.
+
+Genius as usual.
+
+Mhm!
+
+The night had settled enough by now that the smaller sounds returned – the crackle of low fires, the distant murmur of voices, the soft movement of people drifting through the courtyard.
+
+And above it all–
+
+Her ears twitched.
+
+Her gaze lifted.
+
+The Moon.
+
+Bright and clear and perfectly round, hanging in the sky, just waiting for her to notice it.
+
+Luna stared.
+
+So perfectly crunchy-looking.
+
+“…Moon,” she whispered softly, her voice dropping without her quite meaning it to.
+
+She had not watched it for a long while now.
+
+But now that Luna saw it again–
+
+It felt brighter.
+
+And Luna realized she had been missing it, all this time.
+
+Her tail gave another slow wag.
+
+Beside her, Syl shifted slightly, following her gaze for a moment before speaking.
+
+“…It is a clear night.”
+
+Luna nodded faintly.
+
+Yes.
+
+Very clear.
+
+Very good for Moon.
+
+She watched it a little longer, something in her chest stirring in a way that felt familiar but not quite remembered.
+
+Maybe her body wanted to tell her–
+
+“Would you like to train?”
+
+Luna blinked, her attention snapping back.
+
+“…Now?”
+
+“Yes.”
+
+Syl’s voice was calm, yet thoughtful. It made Luna tilt her head slightly.
+
+“You ate quite a lot. It would be good to burn some of that energy.”
+
+Luna frowned at that.
+
+Burn?
+
+That didn’t make sense.
+
+Burning was for things that were not food.
+
+Food was for eating!
+
+But Luna wanted to eat more… And training often made her hungry.
+
+So if she trained, Luna could eat even more!
+
+Yesh!
+
+That felt perfect.
+
+Her ears perked right back up.
+
+“Yip yep!” she said, pushing herself upright despite the heavy, full feeling in her belly. “Luna trains!”
+
+Syl smiled faintly.
+
+“Good.”
+
+***
+
+The courtyard had cleared enough that there was space again, though the warmth of the feast still lingered in the air as Luna stepped forward and stretched, her body shifting through Lunar Form almost automatically as she moved.
+
+Fur spread, claws formed.
+
+And then gone again.
+
+Luna blinked, pausing mid-motion.
+
+That felt… different?
+
+Different than usual.
+
+Her ears flicked as she glanced back up at the Moon, still bright and watching, before trying again – this time slower, more deliberate.
+
+The transformation came easier.
+
+Smoother.
+
+Her fur caught the light differently, brighter than normal, taking the Moonlight in greedily.
+
+Luna felt her human form more flexible now. Fuller, and more–
+
+“Oh!”
+
+She lifted her hands – human, but not quite – and flexed her fingers.
+
+Her eyes shone with happiness.
+
+Proper claws!
+
+【Lunar Form Lv.15 → Lv.16】
+
+The experiment was a success! Even System meanie agreed.
+
+Ehehe!
+
+She grinned, tried again–
+
+–and this time the trick didn’t work.
+
+Luna blinked down at her hands.
+
+“…Rude.”
+
+“You’re doing great. Try again,” Syl said calmly from behind her.
+
+Luna huffed softly, but tried again, this time not forcing it.
+
+Trying to catch that feeling again.
+
+To let the Moonlight flow into her Form…
+
+She stilled, just a little, letting her breathing settle as she reached for that strange, familiar sensation again.
+
+The Moon shone brightly, and as her eyes caught it’s nommy roundness in full–
+
+Her ears perked sharply.
+
+“Oh!”
+
+She remembered this.
+
+From way before.
+
+From when Luna was but a small pup!
+
+When everything had been new and strange and full of things she didn’t understand yet.
+
+“Second,” she said, more quietly this time, “Moon is doing the thing!”
+
+Syliana just nodded, encouraging her to continue. She had little advice to give. It was Luna’s skill, and she had to learn it herself.
+
+Luna tried again!
+
+She reached for it in a different way, the same way she reached for her shadows, the same way she moved when she knew something would work even if she couldn’t explain why.
+
+It didn’t respond at first, the feeling a little different–
+
+But as she basked in the silvery light…
+
+It came to her, that feeling.
+
+And as the bestest Apex Predator ever, Luna pounced on it right away!
+
+For a brief moment, a small, soft sphere of silvery light formed between her paws, glowing faintly as Luna’s eyes widened in delight.
+
+“Oh!”
+
+Then it vanished.
+
+【Lunar Form Lv.16 → Lv.17】
+
+Gone.
+
+Luna stared at her hands.
+
+“…Come back.”
+
+It did not.
+
+“Again,” Syl said.
+
+Luna grinned.
+
+“Yesh!”
+
+They trained like that for a long while.
+
+Moving.
+
+Shifting.
+
+Trying again and again as Luna tested the limits of her form, her shadows, and that strange, slippery Moon-feeling that came and went like it had its own thoughts about things.
+
+She finally remembered, the thing she forgot for so long.
+
+Her Skill–
+
+It worked differently under the Moon.
+
+Easier, cheaper, and apparently more flexible too!
+
+She could feel it now, the way it threaded through her, the way it answered when she pushed just right.
+
+Tricky and slippery as it was, the more she practiced–
+
+The more often her claws stayed.
+
+The light however–
+
+Gathered rarely. Slipping away, but still there!
+
+She knew it was just a matter of time now.
+
+And Luna will do what the System meanie told her was pawssible during her Evolution!
+
+Syl stayed with her the whole time, supporting her silently, and occasionally pressing something into her hands – or directly into her mouth – whenever she slowed down.
+
+It was good food.
+
+Mixed in with the tingly mana potion!
+
+Luna didn’t question it.
+
+Just kept on going!
+
+That was what mattered.
+
+And as she continued–
+
+【Lunar Form Lv.17 → Lv.18】【Lunar Form Lv.18 → Lv.19】
+
+–The levels flowed in.
+
+Luna barely reacted to the last one beyond a small, satisfied sound as she swayed slightly where she stood.
+
+Nice.
+
+Very nice!
+
+She yawned.
+
+A big one this time, her body finally catching up with everything at once – the food, the movement, the warmth, the steady presence beside her.
+
+Another bite of something was pressed into her mouth, and she chewed it slowly, almost absentmindedly now, her eyes growing heavier with each passing moment.
+
+Warm.
+
+Soft.
+
+Safe.
+
+Arms wrapped around her, lifting her easily as she leaned into it without resistance, her head settling against her Second as fabric closed around her like a cocoon.
+
+It smelled right.
+
+Familiar.
+
+Safe.
+
+“I think that’s enough excitement for today,” Syl said softly. “Don’t you think, Luna?”
+
+Luna meant to answer.
+
+Something important.
+
+Or clever.
+
+Or maybe–
+
+Her thoughts slipped.
+
+Her body relaxed.
+
+And before she quite realized it, wrapped in warmth, and full, and happy, and completely content–
+
+Luna was asleep.

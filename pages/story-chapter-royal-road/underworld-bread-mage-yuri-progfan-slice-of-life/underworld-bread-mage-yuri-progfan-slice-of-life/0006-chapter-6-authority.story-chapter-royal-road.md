@@ -1,0 +1,163 @@
+---
+id: 5f64030c-65c1-57c3-a394-17a8b96b4864
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Authority"
+slug: 0006-chapter-6-authority
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 6
+ownLength: 1613
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3732345/chapter-6-authority"
+royalRoadId: "3732345"
+---
+
+Anger boiled under Marina’s frozen expression. Her decision to help a stranger once again backfired in ways she couldn’t have predicted.
+
+“That is enough!” She shouted. “Don’t pretend like you know a lot about—”
+
+The ground beneath Marina stirred to life as a loud rumble soon engulfed her vicinity. Natural ash-filled basalt paths ahead of them began to crack under the force of a large moving mound. It was approaching their direction rapidly.
+
+“What is happening? Should we run?”
+
+“No need, my dear,” Hecate stated, calm as ever.
+
+Boom!
+
+Three large shadowy figures leaped from the mound of moving rubble, causing an eruption of gray ash that exploded in all directions.
+
+Marina tried to cover her eyes with her arm, only to see Hecate opening the left side of her cloak, shielding her from all the debris flying in their direction. “But your dress…”
+
+“It’s not the time to concern ourselves with such an inappreciable issue,” Hecate replied, her voice now colder than the midnight winds, and her eyes stayed fixed on the three figures walking toward them.
+
+The dust soon cleared.
+
+A hint of terror and curiosity struck Marina as she observed the three humanoids, though they didn’t look human at all.
+
+“Are they… insects?” Marina whispered, ducking behind Hecate.
+
+“They are Dessert Roaches,” Hecate said, shaking off the dust from her cloak. “Be careful as to who you call an insect. They may be lowly creatures, but they have a vast ocean of pride.”
+
+“Oh.”
+
+The trio of insectoids stood only a meter in front of Hecate, their immense height allowing them to tower easily over the two young ladies.
+
+“Ten gold coins.” The one standing in the middle spoke in a screechy tone. He reached out one of his four arms toward Hecate. “Or turn around.”
+
+How much is ten gold coins? Hecate looks quite rich; it shouldn’t be a problem for her anyway–
+
+“One gold coin.” Hecate took it from her satchel. “That is all you will be getting.”
+
+Never mind. Marina swallowed her previous thought.
+
+Appearing wealthy was fundamentally different from being wealthy. She knew the feeling perfectly, as most of her colleagues wore the fanciest handbags despite complaining about the lack of promotions.
+
+“Do you know who you are talking to?” The roach leaned in closer, revealing his sharp mandibles. “This will be your last chance. Ten coins, or you can turn around.”
+
+“Uhh, Hecate, can’t we just take another route?” Marina interjected, trying to salvage whatever was left of a peaceful solution.
+
+“This is also your last chance at my deal.” Hecate held the singular gold coin in her right palm.
+
+The roach laughed frantically. In an instant, He swiped down on Hecate with his blade-shaped claws, tearing through the air with a blur.
+
+The attack was faster than the movement of Marina’s eyes, even with her expectation of a possible conflict. All she could do was hold tightly onto Hecate, the only stranger in this strange world that she knew and… despised. She was no stranger to death at this point, but she wished not for death to take away her only known stranger within her arms.
+
+Clang!
+
+“Authority of Blood…” Hecate’s now hollow voice unleashed its command. “Crimson Ward.”
+
+Marina opened her eyes at the loud clashing. “Hecate…?”
+
+“My dear, I won’t be able to fight if you keep holding onto me like this.” Hecate glanced back.
+
+“S-sorry.” Marina took a step back.
+
+“Y-you’re a Bearer?” The roach retreated swiftly. “Brothers! Run!”
+
+The three dove into the basalt ground with surprising fluidity. They split in three directions, trying to escape at their maximum speeds.
+
+“Oh my, they sure are quick on the run, but I suppose that I should uphold my side of the deal.” A pitch-black void slit through the space above Hecate. “Abyssal Technique: Chains of Eternity.”
+
+A series of black, metal chains rushed through the rift, searching for their prey under the command of their controller. After trailing off in the direction of each of the roaches, the chains snatched them from below, dragging them back towards the two of them.
+
+“Please spare us! I’m only doing this because I have no other choice left–”
+
+“Silence, insect.” Hecate turned to Marina. “How would you like me to deal with these three lowly pests, my dear?”
+
+Didn’t she tell me not to use that word? Marina shifted her gaze to the roach brothers, who Hecate’s Technique now bundled up. “What is your name?”
+
+“My name is Mylix–”
+
+“Shut up! You weren’t the one she was asking for!” The seeming leader of the trio spat at the roach to his right. “Sorry for his rudeness. My name is Myrra, and these two are my brothers, Myrlix and Myrdek.”
+
+“You said you had no other choices left. Does that mean you were doing something else before becoming a… bandit?” Marina asked curiously.
+
+“Well, my brothers and I were living in the Thalasseo Forest not too far from here, until the bees decided to declare war on the ants. A big part of the woods got turned into battlefields, and many tribes decided to leave.”
+
+Marina tilted her head. “Has the war ended?”
+
+“Not sure.” Myrra shook his head. “Conflicts like these last for a long while before anything gets settled.”
+
+Searching for ingredients in a dangerous forest was one thing, but doing the same in a forest that also doubled as a battlefield was another. If anything was even left, that is.
+
+Marina looked to Hecate. “What do we do now?”
+
+“It is true that stumbling into a conflict like this is a bad idea. Perhaps we can search around the outskirts?” Hecate suggested.
+
+“I guess?”
+
+“If you don’t mind me asking,” Myrra interrupted. “Why are the two of you going to the forest?”
+
+“I am looking for ingredients for my bakery,” Marina replied. “And I was informed that the forest might have what I’m looking for.”
+
+“A bakery? All the way out here?”
+
+“Uh, not by choice… or demand.” Marina sighed, blaming the System’s choice in silence.
+
+“I’m sure there are some tribes that stayed. They might have what y’all are looking for,” Myrra suggested. “Though they do cost some shinies.”
+
+“On that topic, can I ask how much a gold coin is?” Marina knew it was an unwise question, but decided to ask anyway.
+
+“A gold coin is a gold coin. Are the two of you from the cities? We don’t got none of that fancy stuff around here. If you want to buy stuff, you gotta have the coins to back yourself up.”
+
+One of Myrra’s brothers let out a quiet screech.
+
+“Oh, Myrdek said one gold coin is exactly two Universal Currency.” Myrra reiterated. “Sorry, my older brother doesn’t speak Universal.”
+
+I remember the System did display a certain amount of Universal Currency on my account. Marina reached for the crystal device in her pocket. Ah, there. Looks like I was given a hundred as my starting fund, and if what Myrra said was true, that is around fifty gold coins. But of course, I still don’t know how expensive things really are in the Underworld, as well as how to get this currency into real coins. “Hecate, let’s bring the three of them with us.”
+
+“Really?” Myrra exclaimed. “We promise we won’t do any of those things ever again.”
+
+Both Myrdek and Myrlix nodded in unison.
+
+“As you wish, my dear.” Hecate walked to the roach brothers. “And for an extra safety measure, I shall place a seal within your blood, and if the three of you dare to have any thoughts of harming us, you will be met with a fate worse than death.” A red circle formed from complex diagrams appeared on Hecate’s hand; the symbol imitated itself before implanting into the armor-like exoskeleton of the siblings.
+
+Hecate snapped her fingers, and the metallic chain suddenly turned into a pile of dust. The three insectoids were now freed from their shackles.
+
+“Shall we continue, my dear?”
+
+“Mm.” Marina nodded. “This quest is going to be a very long one. I could already tell.”
+
+“Oh also,” Hecate glanced behind her. “How come the three of you are Authority-less? You all have the physical strength to maintain one.”
+
+“They are incredibly rare amongst species like ours. If we had an Authority, we wouldn’t be out here stealing pocket change,” Myrra said. “Out in these lands, if you had an Authority you could start your own tribe or clan. You’re one of the few we have seen in a while.”
+
+“Yes. We haven’t seen one in a while–”
+
+“Myrlix!” Myrra slapped him on the head. “How many times do I have to tell you to stop repeating what I just said?”
+
+Marina quietly peeked at Myrlix, who was now rubbing his small head with his appendage. Despite the three brothers looking almost identical in design, she could only assume Myrlix was the youngest of the batch. She didn’t pay much attention to the conversation between Hecate and Myrra; none of it made any sense to her anyway. Though the term Authority did seem to pique her interest.
+
+“Incredibly rare…” Hecate repeated those words, slightly baffled by the description. “How could they be rare when the Underworld produces them in extreme quantities, to equalize its own Abyssal Energy?”
+
+Myrdek whispered a light screech.
+
+“Mmm, Myrdek said that, while that is true for some parts of the Underworld, these lands had been cursed to not produce Authorities,” Myrra forwarded. “Due to the… the what again?”
+
+Myrdek shook his head before explaining again.
+
+“Oh, due to the Celestian War around ten thousand years ago.”
+
+Hecate paused her footsteps abruptly. “Ah. I see,”
+
+“...”

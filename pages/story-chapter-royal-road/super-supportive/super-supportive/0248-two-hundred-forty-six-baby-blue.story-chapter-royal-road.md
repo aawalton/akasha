@@ -1,0 +1,267 @@
+---
+id: e6908cde-4fb6-5584-b3d1-c6f3725dfeaf
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FORTY-SIX: Baby Blue"
+slug: 0248-two-hundred-forty-six-baby-blue
+partOf: super-supportive
+position: 248
+ownLength: 3414
+unit: words
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2628991/two-hundred-forty-six-baby-blue"
+royalRoadId: "2628991"
+---
+
+246
+
+Rapport I’s time wasn’t very different from Anesidora’s on that Wednesday, so Alden arrived at the school not long after nightfall. He appeared in the educational summonarium, with its map of the building, the arrivals board overhead, and the descriptions written on the floor beside the summoning areas.
+
+The student benches along the wall of windows were empty, but Rel-art’h stood in front of them. The knight was in a gray uniform, his long black hair kept out of his face by the two jeweled clips he’d worn every time Alden had seen him so far.
+
+“Hn’tyon Rel-art’h.”
+
+Rel had given him permission to use casual address when they were both at the siblinghold, but not elsewhere. Alden thought the formal came more naturally in his case anyway. He’d almost worn one of his pezyvas, like social armor, but since the reason he was here tonight was to spend time with a big, drooly bisonvark he’d left both vests in the suitcase the Artonan was now looking at.
+
+“Thank you for thinking of me before sending the bokabv back. Bokabvs.”
+
+“You’re the reason I acquired them. The students have enjoyed having the mother animal on the grounds, and every year group took turns observing the new life today. Many have benefited. Do you need to carry your bags with you, or would you prefer to leave them here?”
+
+“I’ll carry them.”
+
+One of them likes me, and the other has my learning cushion in it.
+
+“Do you want food or a drink?”
+
+“No. I’ve brought some with me for later.”
+
+“Will something else assist you with your study?”
+
+Alden was reminded of the string of questions and instructions this man had hit him with before he left for his first visit to see Yenu-pezth. “I can’t think of anything else I need.”
+
+Rel-art’h looked him over like he was trying to find something to fix, then said, “Come with me.”
+
+Alden knew the way, but he wasn’t going to tell a knight how to host him. They left the summonarium and followed the same route he’d taken with Stuart on his previous two trips. This was a school night instead of a weekend, and there were students out in the large courtyard at the back of the main building. Three of them were standing with their arms outstretched toward each other, forming a triangle shape as they looked up at a fourth who was rising swiftly into the air.
+
+That’s Quinyeth.
+
+She was in a casual tunic instead of her votary garb, and her pale hair was down…although, down was technically up right now since it was leading the way into the sky like it had gotten the lift from the spell before the rest of her. She waved at a couple of people watching from the upper floors of the student house as she passed. There were lanterns in the courtyard, but she was swiftly moving beyond the reach of their light.
+
+Rel-art’h paused to watch the students. Or he paused to watch Alden watching the students; Alden wasn’t sure which of them had stopped first.
+
+Isn’t she going too high? Of course if she was, Rel-art’h would say something instead of letting her fall to her death. Right?
+
+Alden wondered if she’d shared her honey or if she was keeping it beside her vanilla candle.
+
+“She’s very high,” he said finally.
+
+“Yes, they’ve done the spell well.”
+
+Okay. It’s only me who’s worried about her going splat.
+
+They left before the students noticed them, and they started down the long staircase set into the steep terrain, the steps ahead of them glowing to light their way and then fading behind them.
+
+“Were you worried the students here would open your bag if you left it behind? Normally, I would defend their manners, but it’s so obviously from another world and so interestingly repaired that I think a few of the more curious ones might have been unable to resist if they found it. None of them would have damaged your belongings or the learning cushion my brother gave you, though.”
+
+Alden stopped. Does he have x-ray vision? Did he read my mind? Oh shit, he does do something telepathic. What if…?
+
+Rel-art’h looked back. “Are you coming?”
+
+“Yes.” It wasn’t a confident yes, but his feet started moving again. “How do you…my learning cushion is in my bag. How did you know that?”
+
+I use my learning cushion to study things that aren’t spell books. I don’t even know what spell books are. Science. Engaging with the Unexpected. Intro to Other Worlds. Boring, ordinary classes—
+
+“Evul was teasing Stu about having a second human over every time you come, since the luggage is so large. He told us you take the cushion with you everywhere. Rather proudly.”
+
+“Oh!” Thank you, God. I’m not good enough to avoid thinking wizard thoughts while I’m talking about my wizard cushion. “I don’t carry it everywhere, but I have been carrying it anywhere I think I might have plenty of time to study.”
+
+“I’m glad you value my brother’s gift. I hope you also value the amount of time he finds to spend with you. I thought I was going to have to travel to LeafSong and use <<a kind of spell-resistant glue>> to stick him to his own cushion. He wanted to skip this evening’s special lecture when he found out you were coming here.”
+
+Alden had texted Stuart to let him know Rel-art’h had invited him. “I do value his time. Very much.”
+
+Did he bring it up because he had the impression that Alden didn’t?
+
+“It is not my intention to suggest you do not.”
+
+And now I’m back to thinking he’s reading my mind!
+
+[Hello? You’d tell me if all my secrets were flowing directly into Rel-art’h’s head, wouldn’t you?]
+
+The text he sent to no one received a single word in reply: [Haha.]
+
+She’s laughing at me. That means…I’m safe?
+
+Laughing at his worries, about this at least, would be out of character.
+
+“In the coming years, Stu will be busier. Once he’s settled onto his path, your lives will <<diverge>> more. That was my meaning.”
+
+“They’re already so different nobody takes either of us seriously when we say we’re friends. Soon-friends.”
+
+Rel-art’h’s steps slowed. “I believe most members of our family now understand that Stu’s wanting of a friendship with you is very serious to him. If they also have concerns about the difficulties of such a friendship, those are their feelings to manage. Not something you or my brother should consider much.”
+
+Alden was surprised to hear him say that. He’d assumed Rel-art’h would be someone who thought a wizard and Avowed being friends was too impractical. He’d been the one to ask Stuart about whether he’d had Alden swear to Privacy of the House…which didn’t mean anything, now that Alden reconsidered it, except that Rel-art’h was someone used to making sure others had their business in order, and he was familiar enough with Stuart to know he might not have treated the human visitor the way everyone else thought he should have.
+
+He isn’t exactly saying he approves, though. More like, don’t worry about what’s going on in other peoples’ heads when you’ve got your own thing happening. Maybe?
+
+Alden liked that advice, so he was going to take it that way.
+
+“It’s unfortunate you overheard some of our parents discussing the relationship you two are developing as if it might exist for their advantage.”
+
+“You know about that!”
+
+Rel-art’h sighed. “Stu warned me not to join in plots against you when I spoke to him this afternoon. So I asked him why he thought there were any plots against you.”
+
+That’s one way to handle it, Stuart. Just directly tell any family member that’s going to spend more than a couple of minutes alone with me that you suspect them of plotting.
+
+“I would ask you to excuse the one who suggested the idea, but I can’t think of any reason why you should.”
+
+“I’m not sure which of your parents suggested using me to change Stu’s mind,” Alden said cautiously. “I didn’t recognize their voice. But I understand they’re all trying to take care of him in their way.”
+
+“Their way shouldn’t involve a young guest, an alien, or a person whose healing we’ve helped to arrange. And it was Aymeg who wanted to manipulate you, according to Stu. He has likely been persuaded toward more moderate behavior by the others since then.”
+
+Rel-art’h paused on the next step and pointed up at the sky. The night was clear and full of stars.
+
+“Does your culture observe stars as constellations? I’ve heard humans do.”
+
+Alden stopped beside him. “We do. I know how to identify some on Earth. As individual pictures, though. Not a skystory.”
+
+“One of the skystories from this part of the world starts with that red star. It’s the first spark of fire made by the first wizard. She’s on her hands and knees beside it. And from there, the story is told in this shape.” His finger wove through the air. “About how she almost burned her home forest down and had to learn to be careful with her power. And then, starting from over there is the second story, about how she persuades the people of the forest to trust her again so that she can help them with her magic. I’ll send them to you. If you’re visiting us, you may enjoy learning to read our sky.”
+
+“Do you think Stu can persuade your family to trust him? If he keeps trying.”
+
+The man’s brows rose, and he regarded Alden until Alden found himself resisting an urge to drop his gaze.
+
+“I was trying to guide you away from the realm of our family’s togetherlife by changing the subject. I didn’t expect you to hear a metaphor in my description of the second story.”
+
+“Sorry. It sounded like…” Alden did look away. “The bokabvs are over there. I’ll just head in that direction.”
+
+“Stu speaks as though he has no doubts, doesn’t he?”
+
+Alden turned back to find Rel’s expression a little sadder.
+
+“I don’t think he has any,” said Alden.
+
+“You haven’t known him very long. Or you see only half his truth. He has no doubts about what he wants, but he does doubt his ability to face it. It might be our fault. He built strength while we weren’t watching. Perhaps it was real, and it was enough. But when he showed it to us for the first time, we told him it wasn’t. And he hasn’t been without doubt since then. No matter how much he refuses to acknowledge it.”
+
+“Then why are you all still…why don’t you support him now?”
+
+Anger was stirring. He tamped it down.
+
+“He’ll die.” Rel-art’h didn’t say it with any anger of his own. “You ask questions you can’t understand the answers to. I give them to you because it’s all right if you repeat them to Stu. It doesn’t matter that it was the people he trusts the most who weakened his confidence. What matters is that it is weakened, and we can’t repair it for him. A loving lie is too fragile a <<patch>> for this, now that he’s heard the truth. He has to find some way to shed his own doubt while enduring ours. If he can’t do that, and he chooses to go to his first binding anyway…that’s the outcome we must prevent.”
+
+Alden’s heart was starting to race.
+
+“You’re upset?”
+
+“He deserves better,” Alden said.
+
+Rel-art’h smiled faintly. “I’m afraid to ask whether you mean he deserves better circumstances or better relatives. Whichever it is, it’s fine for the one he weaves friendship with to think it. But don’t gnaw on it now. Let me turn your attention toward what you’ve come to see. The average lifespan of a bokabv is eighteen Artonan years. The calf will be mature when he’s around a year and a half old. In most herds…”
+
+The lecture was more effective at taking the edge off Alden’s mood than he would have expected, even though most of it was information he’d already learned.
+
+A few minutes later, they were both standing at the edge of the grass patch Stuart had grown for the animals. The interesting stick had been removed. Rel-art’h said it was bad for the calf and might make him bond improperly with his mother. Instead, waist-high wooden panels had been set up to keep the little bokabv in, which would also keep his mother where she belonged even if she was large enough to jump them.
+
+Another instructor had cast a spell to concentrate the moon and starlight that fell on this area, solely for Alden’s benefit. And a knight was explaining animal behavior to him so that he could safely enter the temporary pasture if he wanted.
+
+Bokabvs were active whenever they felt like it, not taking Artonan days and nights into consideration. They were both lively right now. Alden was having a hard time catching more than a partial view of the calf since he was under his mother, and they were standing in a mostly untrampled and uneaten area.
+
+She’d coated her offspring throughly with her bioluminescent saliva. He was a glowy little guy.
+
+“How long can I spend here?” Alden asked.
+
+Turning his thoughts from what Rel had said about Stuart to bisonvarks wasn’t going to be an immediate shift.
+
+“The herd keeper expects them to be sent back tomorrow morning. If you think you need more time than that for your mind healing, I can arrange for you to meet another animal.”
+
+Alden shook his head. “No. That’s plenty of time.”
+
+“I’ll be in my office for a while,” said the knight. “You should call if you have any questions or needs. Use the summonarium to travel to the siblinghold when you’re ready.”
+
+“I will. I appreciate the efforts you’ve made for me. Before you go…I do have a question. About demons. I already know, I think, but I wanted to ask anyway.”
+
+Rel-art’h nodded. “Ask.”
+
+“They should be treated the way a person would treat any other living creature, shouldn’t they? An equally dangerous one.” Alden took a breath. “They can feel pain, they can struggle for their lives, and they can be afraid. Some of them. I know they’re not all the same. But if it’s like that, and you treat them like something less…real…because of the chaos…that’s not right.”
+
+“You’ve asked me a question that’s best answered by yourself,” Rel-art’h said after a moment. “I have killed few demons. My skill is for communication and assisting others. I have felt empathy for the things I’ve killed. Others who kill more sometimes protect themselves by feeling less. I understand them, too.”
+
+I see. It’s personal and situational. “That makes sense.”
+
+“Call if you want anything.”
+
+Alden waited until the knight was on the stairs again before he climbed over the fencing and took his seat on the ground. Approaching would make the mother bokabv nervous, but Rel-art’h had said the calf was curious and would eventually come over to see a newcomer on its own if they weren’t too loud and active.
+
+With grass higher than his head, Alden couldn’t see much. He waited, listening to the soft bleating noise the mother was making, almost like she was muttering to her baby, and the occasional thump of the heavy animal taking a step.
+
+The night smelled like grass and funky herdcreature. Alden waited almost half an hour for acknowledgment, but he had a lot on his mind, and it didn’t feel so long. And the acknowledgment, when it came, was brilliant.
+
+A baby bokabv barreled out of the grass right in front of him, waving its snout like, “Wow! Company!” It smashed into him clumsily, then retreated like he was a scary monster who’d somehow forced it to fall all over him. It returned a minute later, only a tiny bit less excited than it had been on its first approach and ran back and forth in front of him, glowing blue with fresh slobber from its mother. It had generously wiped some of that on Alden’s chest when it hit him.
+
+The little animal seemed to be about forty pounds of leg, snout, and enthusiasm. It ran at Alden again and then away before coming back, like it wanted him to play chase.
+
+“I’m not going to do that,” he said, laughing. “Maybe there will be friends for you when you meet your herd tomorrow.”
+
+The calf stopped and stared at him for a few seconds, as if the sound of his voice needed thinking about, and then it went right back to being thrilled it was alive.
+
+Eventually, the mother bokabv came over to see what was occupying her calf, and since Alden had been instructed not to distress her in any way, he held perfectly still while she got him back for dodging her tongue on his last visit.
+
+“You have a real baby now. Lick him. Look at him! He needs yo—yuck. Okay. Okay, this is fine. It’s probably…you have an unlimited supply of drool, don’t you?”
+
+She left him alone when the calf came over for a drink, and he made a slow escape back over the fence.
+
+“You two aren’t ever going to end up like that thing in my dreams,” he said after watching them for a while longer. “You’re not allowed to. You only get to be normal, happy bokabvs. Because I said so.”
+
+He found the red star in the sky.
+
+Because I want it. Because I feel like screaming it at the universe until the universe listens.
+
+Maybe it wasn’t strange that wizards could do magic. Maybe it was strange that everyone else couldn’t.
+
+Right now, Alden almost believed he could cast protection over these two simple, peaceful lives just by flinging his authority at reality and demanding that it be so.
+
+He headed for the stairs instead, still hauling his suitcase. When he reached the school, the students had all gone in for the night, but Stuart was popping out of the door of the summonarium like he was in a hurry to get somewhere.
+
+He halted at the sight of Alden, and his mouth opened.
+
+“I’ve been visiting the bokabvs,” Alden said, when Stuart failed to speak.
+
+“I would have known that even if no one told me.”
+
+“Is it because my hair is sticking straight up and glowing?”
+
+“That’s one reason.”
+
+“Do you want to see them, too? The baby’s very glad to be here. It’s nice.”
+
+******
+
+******
+
+Later, in the cottage that looked out over the stream full of zansees, Alden lathered his hair and rinsed it five times before it finally stopped feeling slimy.
+
+When he got out of the bathroom, Stuart was sitting on the floor by the table, ready for their midnight snack.
+
+“I thought I’d never get that stuff out of my hair. Sorry it took so long.” Alden plopped down onto the cushion across the table from him.
+
+“I want this yellow thing first.”
+
+“That’s pineapple salsa. And you may taste everything in whatever order you like. Let me name them all for you.” Alden plucked a corn chip out of the separate bag they were stored in. “Tortilla chip.”
+
+“Tortilla chip,” said Stuart.
+
+“It’s salty and crunchy.” Alden pointed the chip at the meal prep container in front of them. “Pineapple salsa. Guacamole. Beans—don’t send one through the walls with your spell. They’re smoky and spicy. I don’t know if you like spicy. And this is nacho cheese, but it’s not really cheese. She makes it out of a bunch of different things. And this beautiful sweet bread over here is our cinnamon roll.”
+
+“Cinnamon roll.” Stuart leaned over it. “It smells good.”
+
+“It is good. It is.”
+
+Alden’s mouth was watering. Stuart was watching the tortilla chip with great interest.
+
+“I brought enough for us to do this twice,” Alden said. “Once tonight and once in the morning.”
+
+He grinned. “If we damage the pleasure centers in our brain, like someone once suggested eating too much Cook of the Moment food might do to me… it’s fine. Because we’re both going to see Healer Yenu tomorrow. She can just repair us.”
+
+Stuart returned his smile. “That’s a good plan.”
+
+“Isn’t it? Come on. Let’s eat.”
+
+******

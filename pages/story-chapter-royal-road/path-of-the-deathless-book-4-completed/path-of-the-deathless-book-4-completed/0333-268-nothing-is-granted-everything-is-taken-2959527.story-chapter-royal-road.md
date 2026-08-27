@@ -1,0 +1,195 @@
+---
+id: d4a9aa10-c3d7-522d-b08a-c20fe9564bbe
+page-type-slug: story-chapter-royal-road
+title: "268 “Nothing is Granted, Everything is Taken”"
+slug: 0333-268-nothing-is-granted-everything-is-taken-2959527
+partOf: path-of-the-deathless-book-4-completed
+position: 333
+ownLength: 4575
+unit: words
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2959527/268-nothing-is-granted-everything-is-taken"
+royalRoadId: "2959527"
+---
+
+"So, you will not even give me a final end. Even if I ask for it. Even if I demand it. Even if I try to break that thing that defines me. That single skill that binds me to you. You will not let me have this desired peace, will you?"
+
+"Why should I? What power do you have over me? How can you compel me to let you complete this pointless suicide?"
+
+"I have butchered, and slaughtered, and broken, and maimed in your name. Thanks to me, ten million souls have cried out in fear of you. It can be ten million more, and one hundred million more after that. But why? Why do you demand this of me? It's pointless. Pointless. It gains me nothing. Gains you nothing. What is the purpose behind our cruelty? What is the purpose behind our power, our strength?"
+
+"Power and strength are purpose. Dominance is definition. You cling to this urge to find something greater. But I don't understand why, among all my creations, you are the most troubled. And because I don't understand why you are the most troubled, it amuses me. It makes me wonder why you are so deviant. And so you must stay. You must stay until you capitulate and join the fold, or I come to understand what purpose there is behind your yearning for this… wholeness. It is not as if you are incapable of art. You can enjoy and savor culture and flavors just as much as anyone—"
+
+"Yet I cannot decide my own death. I cannot overcome what you have made me. And I wish to be more. I have seen more! This necessity for cruelty has made us as crippled effigies. How many among your works have reached Legend, O Challenger? How many of us have climbed to this precipice? How many of us will ever get further than that?"
+
+"Well, you know of one orc who stands beyond Legend."
+
+"Only you. And it is in your image that we are all forged. It is in your image that we are created. But none of us match you. None of us has achieved the heights you have. And it is not in power or desire that we are restricted."
+
+"And you think tasting the full spectrum of loss and being able to decide for yourself who you wish to be, or to turn away from your instincts instead of ultimately collapsing to it, will make you stronger? Will make you superior to what you are now?"
+
+"I think the only way to strive beyond Legend is to prove yourself greater than the story. To prove that you are more than the narrative the System has enforced upon you. That you are more than who you are."
+
+"What comedy! I am reminded again why you became one of my favorite children, despite how much you loathe me. Then let me tell you a secret, oh self-proclaimed Culturist. It is a cage all the way down. You resent me for sculpting you as my mirror—a lesser mirror, even—but the System loves me. It loves things like me. And before the actual monsters, so schizophrenic in their justification for violence that they deceive themselves into thinking brutality is a virtue rather than simply a desirable outcome, you will realize that I am the most honest conclusion. And that there is no truth beyond this."
+
+"Or so you claim, Challenger. But there are gods beyond the System. I will seek them. I will see what they can offer."
+
+"Oh, the Outsiders! Fine, go then. See what you discover there. See what you discover and then return to me more disheartened than ever before, but still desperate and still yearning. It is that final thing, the hope inside of you, that makes me like you so. Maybe you will be the one. Maybe you will step free beyond the itch. Maybe. Maybe. Maybe. So show me."
+
+-The Culturist and the Challenger
+
+268
+
+“Nothing is Granted, Everything is Taken”
+
+The Culturist shifted a half-step back as he regarded Jessica. "Ah, Giantsbane. Your name is spoken of highly among some of my cohort. I see they weren't exaggerating your resilience. A lesser Legend should have drowned in those shadow—"
+
+"Shut the fuck up and fight!" Jessica said, lashing out with an arching cut. Her fractal blade tore through the world, and the wheels beneath her feet spun. The air combusted. She descended upon the Legendary orc in a surge of fire and momentum.
+
+The Culturist didn't even attempt to counter her attack. He didn't stand and trade. He didn't go ethereal. He didn't even sink back into his shadows. He simply turned toward Adam and vanished in a burst of light, Jessica's blade hitting nothing. The Culturist became as if a colorful imprint on reality, and then he faded altogether. The very same colors radiated out from Adam, and the Gate Lord clutched at his chest as if something was burrowing into him.
+
+Suddenly, Commander’s Foresight was activated, and the world froze for Shiv's perception.
+
+"We should convince her to stop," the Culturist said casually, speaking through Adam. "I wish to start my fast. Any additional violence will be at the risk of our mutual friend."
+
+"Motherfucker," Shiv snarled. He understood the Culturist's game. He was like a cancer bound to Adam on a magical and spiritual level. At any point, he could simply reach into the Gate Lord, sink into him with the use of his eldritch skill. One he'd stolen from Eldest, no less.
+
+And that meant the Culturist had the perfect meat shield against Shiv, against everyone here. Anything they did, they did at risk of harming Adam. The Deathless couldn't accept that. And should the Culturist wish to engage in battle, he could usurp Adam's place in reality at any moment on a whim.
+
+Effectively, the Legendary orc was to Adam what the Eldest was to Uva.
+
+Motherfucking System’s implanting everyone I care about with goddamn parasites, Shiv thought despondently as Commander’s Foresight deactivated.
+
+The Giantsbane looked around and narrowed her eyes. "Where'd the orc go?"
+
+"He remains right before you," the Culturist said smoothly. He was speaking from within Adam, and the Legendary Swordswoman took a step back as her eyes widened.
+
+Shiv threw himself between them, desperately seeking to add context in case she decided to strike Adam down as a first resort. "It's the Culturist! He managed to corrupt one of Adam's skills. He's inside him. Don't do anything! You won't be able to hurt him. You’ll just end up hitting Adam instead.”
+
+"Shiv, Shiv," Adam wheezed. Sweat poured down from his brow, and he looked positively feverish. It was like he was struggling against something within him. Shiv could see a faint corona of unnatural essence pouring out from the Gate Lord, and it left him like a stench, like a toxic emission he simply couldn't process. "Get him out of me! Get him out, please. Please, I can feel him inside…”
+
+"I will step out of you, Young Lord Arrow,” the Culturist said, speaking through Adam's mouth. “I will release you and return you to a state of comfort. But first, I think we should all put away our weapons and hold back our skills. That way, we might begin this conversation in earnest, and as the rational and civilized individuals we are.”
+
+"Well, rationally and civilly, I want to stick my sword inside of you for forcing yourself into someone's soul," Jessica spat.
+
+At this point, Gone arrived in a blur of Chronomancy. She manifested next to Shiv, trailing crackling bolts of golden lightning behind her.
+
+A loud cry of "What's going on there, guys?" came from the distance as Solzimort swam through the broken debris that comprised this section of the maze. Sitting atop him were Five, Candles, Can Hu, and the Educator. And it was the Forgotten Ascendant that looked the most incensed. She held a paintbrush high, and it glowed a faint Animantic blue. Absurdly, that filled Shiv with the faintest hope. He knew the depth of the Educator's abilities, had experienced them firsthand.
+
+Now, they might very well be his only hope against the Culturist. Perhaps she could do something against the orc. Paint him into her tome or erase him.
+
+Barring that, he had two more people he could see being able to help him. And Shiv knew things were bad when he was considering asking Veronica or even Udraal for help.
+
+"Allow me to implore you once more, Giantsbane," the Culturist continued. "I understand that my actions fill you with distaste. For this, I cannot blame you. However, the deed is done, and any act of violence will risk his life far more than mine. More importantly, you will have need of me soon. Me and the rest of my team, if we are to have any chance of sparing the survivors of Blackedge a final fate at the hands of the Outsiders."
+
+The blade Jessica had summoned snaked and twisted in her grasp like a chain of broken glass. It left bits of reality fractured, and pieces of glass ripped out from between dimensions. Her Inertium Armor rattled loudly, and her closed visor blocked Shiv from reading her facial expressions. But her body language was one of hesitation. "You know I don't much like his father, right? That I plan to strike him down the first chance I get."
+
+“Legend Hawgrave, please. You are a champion of the blade, but you are utterly incompetent at hiding your truer nature. If you were ready to slay his son, you would have attacked already. You wouldn't have hesitated. And we both know enough about combat that we understand hesitation is a prelude to defeat.”
+
+The Culturist's words were both calm and dismissive. There was no mockery in the orc's tone, simply a gentle chastisement. "If you wish to face me in the open, you may, in due time. I am even willing to let myself be humiliated and spar against you. I confess I look forward to such a duel as well. I fear I might not impress you so much in the end, despite my ostensible Legendary-Tier Sword Proficiency. But right now, let us stay our hands. If only for the boy's sake."
+
+And with every word the Culturist spoke, Shiv felt a balm of calmness spill into him, a balm that crashed against the fires churning in his chest. Sage of the Enkindled Heart resisted that balm, resisted that building coldness in the air that poured free from Adam. The Culturist had some manner of soothing skill. Something related to his Rhetoric, perhaps. His words felt both comforting and disarming.
+
+And they took effect immediately.
+
+Jessica struggled not to lower her blade. It took great focus from her to resist the orc's charm.
+
+"Deathless, what is happening? What is the meaning of this?" The Educator slammed down beside Shiv. Her brush was pointed directly at him, but it was Adam who strode forth. Adam who clawed at his chest, running his gauntlets against his plate armor and filling the air with a discordant screech of metal on metal.
+
+"Educator," was all the Culturist said.
+
+“Abomination,” Maia hissed. She drew in a sharp breath, and then her features hardened. "I see you have arrived ahead of time. How long?"
+
+"Two days," the Culturist replied. "You should not blame yourself for failing to notice. I took additional measures to enhance my stealth. I possess Valor Thann’s torso."
+
+The Educator's face nearly twisted in a snarl. "You risk incurring Udraal's wrath with such an action, orc."
+
+"Perhaps. But the Beyonder's ambitions mean little to me. He will forget this slight the moment another one of his experiments goes astray, the moment he is distracted once more. If he truly cared, then he should have noticed and intercepted me. But he has far too many dividing concerns, doesn't he? He is too enamored with that Tarrasque to respond. He hasn’t even replied to your sync-letters yet, has he?”
+
+"He is a lesser danger to you, fool," the Educator said. "I am present. You need to release that boy. I will not tell you again." Then something behind her eyes softened. "Are you well, Arrow? Has he broken anything inside of you yet?"
+
+"I have not—" the Culturist began, but the Educator cut him off once more.
+
+"I wasn't speaking to you, creature. I was speaking to the boy."
+
+"No," Adam stammered. He barely managed the words, doubled over in pain now. "But it feels like too much, too much weight. Feels like I'm going to break apart from the inside."
+
+Maia scowled. "That's because your skills are bearing the burden of another. And the bastard orc is likely not filtering over his mana. Instead, he has poured it into your skill wholesale. You are now a Hero carrying the full weight of a True Legend using a single skill."
+
+"I will unburden him," the Culturist said, "but I wish to make a few things clear first. If you try to strike me, I will simply stride back into his compromised skill. I have taken this capability from the Eldest. I have contaminated his Seer of Horizons. The Deathless will not be fast enough to stop me. At least, not as he is right now. The Gate Lord will not be strong enough to resist me. Not as he is right now. But I no longer wish to harm them. I have already had my fill. Now I report myself to service. The Vaketh-Insul has called, and I respond as the ritual decrees."
+
+"I would have fought you properly if you were waiting on the other side of the Gate," Shiv growled. His voice was a snarl of barely restrained hatred, and he stared at Adam's chest. He stared at the orc hiding there. The Culturist made it easy for him as he emerged in another flare of color. This time, Adam was left behind. The Gate Lord collapsed. Shiv caught him before he could strike the ground, and the Culturist looked around, taking in the gathered force arrayed against him. Maia clutched her brush tighter but didn't strike out. She stared up at the Culturist, her face a mask of disgust and distrust.
+
+Jessica, meanwhile, could barely keep herself from striking. Her blade rattled into the air, sounding like broken glass too, but the Culturist simply regarded her.
+
+"If you try, it will be his life that stains your sword. You do not have it in you. Perhaps if I had taken Roland, but not his boy. Tell me what you consider to be the greater torment: the murder of someone whom you consider to be an innocent child in this grand mess, or the fact that you will become a mirror to the man you hate, the man who has taken one of your daughters from you."
+
+"Fuck you," Jessica replied dryly. But the orc's words landed. She took a step back, but kept her blade high.
+
+Behind the Culturist, through the rising curtain of smoke and dust, Shiv saw Merriemel stumbling over blocks, staring at the gathered group with wide eyes. Behind him, the other orcs loomed, and Shiv glared at them with barely restrained hatred.
+
+Of the group, only Helix had the decency to look slightly embarrassed, but even then, the Deathless knew it was because the orc Biomancer was afraid of his Master-Apprentice relationship with Shiv going down the drain. The others looked nonchalant, amused, and even proud. Mortar made a heart-shaped gesture at Shiv.
+
+The Deathless promised himself that he would beat the shit out of every single orc he could get his hands on at some point. But for now, he used the fire of his anger to focus himself.
+
+The first thing he did was take in every detail he could about the Culturist, now that the Legendary orc was standing beneath the light. His body and legs were coated in a layer of gleaming bone, and that gem encrusted in his sternum still shone bright; every few moments, the ghost of Valor would appear and then vanish, taunting Shiv.
+
+His rifle was missing, however. Shiv could detect no hint of Chronomancy within the orc. Most strangely, he felt no hint of any kind of magic either. The orc was barren, devoid of any fields. And that's how the Deathless guessed that they were all compact, things the Culturist could summon and manifest at a moment's notice.
+
+But that led to other questions as well, such as how the orc could use Strider of the Unbending Path. It was too specific a skill for him to possess, and it was also a Master-Tier skill, the exact same kind as Shiv's. So, that meant that the orc likely had Skill copying capabilities, a piece of equipment that mimicked Shiv's skills, or he'd specifically leveled his Chronomancy to become what Shiv currently possessed. The last option was most unlikely, considering how many skills the orc had at Legendary-Tier.
+
+And that's why the Deathless moved beyond the orc's personal skills. He considered the feather-eared hood. The Culturist had managed to use Adam's skills as well. That was likely because their souls were connected, or maybe because he could store certain skills within his equipment. That Phoenix Riposte had to have come from somewhere.
+
+"Now that we are all gathered, allow me to make my formal greetings." The Culturist placed a hand on his chest and bowed slightly. "I call myself the Culturist. The number of deaths I have experienced is no longer relevant. I stopped counting after ten thousand. I am pleased and ashamed to be here. Ashamed that I can resist no more."
+
+He turned to stare at Shiv and Adam. The Gate Lord wheezed, but slowly forced himself to stand to face the orc that had colonized a part of his soul.
+
+"I have come here at the behest of my god, and to stand witness to my greatest enemy's newest disciples. Thereafter, my motivations are contradictory. I intend to aid you in saving Blackedge. I intend to escort you across the Tutorial to make sure no other orc lays a finger upon you. I intend to deliver you to Gate Piety and free you from the Ascendants’ oppression. I also intend to break you at every turn, to unleash harm and ruin and bloodshed and torment when I can no longer hold myself back. And, if I am capable of doing so, I intend to fashion you into a twisted offering to Valor, for the sake of my hubris and as a partial taunt to my great adversary, to give him additional cause for retribution when I return his torso to him."
+
+Jessica did a double-take. "Wait, what? You've been stalking those two kids for two days. You steal a skill from one of them. You shove yourself inside his soul. You beat the shit out of both of them. And now you're talking about returning that thing you're wearing? And that's Valor Thann's torso?" Jessica was being thrown from one loop into another. "I'm sorry, but what's the point of all this shit? You could have just shown up and said, 'Hey, guys, I'm coming by to help.'"
+
+"But that wouldn't be sufficient to test the quality of our newest Insul’s character." The Culturist looked down thereafter, almost ashamed. He seemed more a sheepish child than a nearly three-meter-tall orc. "And the itch overcame me. I simply had to scratch."
+
+"And this is why you damn things belong in the dirt." Jessica hefted her blade high, but the Culturist remained still, as if daring her to strike. "You show up out of nowhere. You say you're here to help us. But you also can't stop yourself from mutilating a godsdamn kid. And we're supposed to work together? You expect us to trust you?"
+
+"No, and you would be a fool to trust me," the Culturist retorted. "I would not even trust myself. I do not trust myself." The orc held up his hands and stared at them. "These things, these limbs, these digits, they are not even truly mine. They have betrayed me more times than I can remember. I have tried to resist so many times. But eventually I—it is like I drown in myself. And when I return, these hands are bloodied or wrapped around a throat or folding a head backward or piercing someone's eyes as they writhe and scream."
+
+The orc's monologue fell silent as he lowered both hands. "You cannot trust me. You should keep that blade ready. You should be prepared. But also, I'm here to provide these two things that they will not be able to find elsewhere. Not even from you, for you are unwilling, for you do not have the cruelty."
+
+"And what the felling fuck is that?" Jessica asked.
+
+The answer came from the Educator. "Strife. His presence will be able to quench the System's endless desire. Somewhat. And he is capable of keeping Arrow alive." Maia was looking at the wounds lining the Gate Lord's body.
+
+"We are bound," the Culturist said simply. "We are bound in both ways. For as long as I remain attached to his soul, he will be connected to mine. And with my Biomancy, I will keep him here. I will return him to wholeness from disfigurement, from dismemberment, from beheadings, from mutilation." And then he turned, facing Adam, looming over him like a shadow of a distant monster, a nightmare made manifest. "But I will do nothing to protect your mind, for that is where you are most brittle, O son of Roland. That is where you must become unbreakable."
+
+Adam quivered and swallowed, but he didn't back away. The Gate Lord rose as his wings flared out by his side. "When did I call out for you? When did I demand your aid? When did I ask you for training?"
+
+"When did you have a choice?" the Culturist retorted. "It is not up to you, no more than it is up to me, to resist the urge to hurt you sometimes. And that is how life is, that is how the System is, until one of us grows strong enough to prevail over the other. Or at least until I grow strong enough to prevail over myself. So far, that is a losing battle. And so, the greater likelihood is that either you or the Deathless will grow strong enough to repel a lesser monster like me. Your mind will likely break, young Lord Arrow. Over and over. You will face insanity. You will face mental illness. You will face many things. Trauma you didn't think you could survive. But you will not be alone. I understand there is a third among your company."
+
+Shiv realized who the orc was talking about immediately. "You are not going to touch her," he said, voice ice-cold.
+
+The Culturist ignored him. "I am likely going to train her in mind and flesh. That is, if she survives the metamorphosis. She will need more assistance than what both of you can provide for what she is about to become." The orc tilted his head as he realized Shiv didn't fully understand his implications. "Ah, I see. Metamorphosis is a taxing thing. But it changes more than the flesh. It twists the mind, or more like it evolves one's cognition. She will not fully be the same. And neither will either of you by the time I am done."
+
+The Culturist turned and glared upward, where he likely saw the Challenger, or perhaps the System itself. And then, the orc snarled. "And if I assert my control right, if I maintain a hold over myself, aided by your other mentors, by Valor restored... Perhaps then I might be able to forge the shape of my vengeance if I cannot triumph over my own shadows."
+
+Jessica stared at the orc for a long moment. "The hells! This is how you plan to become a mentor? I mean, I've had some pretty bad masters, but this really takes the shit cake. No one jumped me, shoved themselves into my soul, then promised to beat on me and my friends until we went insane."
+
+"But that has happened, hasn't it?" the orc said. "Hasn't the System already done all these things to you? Hasn't it already pushed you to the brink? Hasn't it already taken far, far too much?" The Culturist's questions were like whipcracks. "We live in a world where nothing is granted and everything is taken. From us, by us. Don't you hate it? Don't you despise it? Don’t you wish to control it, somehow…”
+
+The Culturist turned away from Jessica and Maia, leaving himself open to the other threats. Instead, he fell to one knee, kneeling down to greet Adam face-to-face. "I hate that I couldn't watch you, that I simply had to take hold of you. I hate the fact that you didn't notice me. I hate the fact that the Deathless didn't notice me. I hate the fact that I couldn't avoid this course of action. That I am no more a master of my own impulses than I am the System's whims. I hate it all."
+
+The orc's words were honest in their entirety, with not a hint of lies. The Gardener of Doubt was starved inside Shiv, and as the Culturist turned to speak with him, the Deathless found himself borderline sympathetic.
+
+Sage of the Enkindled Heart: It's part of his Charm skill too. Focus, don't be distracted.
+
+"If not me, then something else, then someone else, then another monster, then another threat, then another crisis." A hint of fatalism entered the Culturist’s recital. "I can see the fire of the System's favor clinging to both of you like burning tar. Everywhere you go, there is death. It is like you are larger than you are, that you cast waves that amplify the calamities befalling people around you. Don't you hate that? Because I do. Aside from the unavoidable miseries of being in my company, I think I am in the unique position to help you."
+
+"Because the clashes between us will slake the System's need for conflict?" Shiv asked.
+
+"And also, because you need someone to resolve a few other threats that you might not be able to see. It is your urge to protect the people of the Capital, to guard the innocents from death, yes?"
+
+"And you plan to help with that," Adam deadpanned, rubbing at his chest. The Gate Lord had recovered somewhat, but he was still unbalanced, still terrified of the thing standing before him.
+
+The Culturist simply nodded. "Yes. I will see my itch scratched, but I will see that you are unburdened by other distractions. You wish for peace? Very well, you will have peace. From everything but me. For I desire to be a greedy conflict. For all our sakes. I desire to be a selfish mentor, a selfish problem, one you can focus on and solve."
+
+And slowly, the orc began to smile broadly. "And I desire to see Phoenix Academy, and to meet a certain someone on campus, an old friend, an old enemy. I understand there was a class you were supposed to attend before my interruption, yes? Let us go. We shouldn't waste any time."

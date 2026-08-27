@@ -1,0 +1,161 @@
+---
+id: 11ff9e1e-cf46-5c81-9cad-cf422765e9ed
+page-type-slug: story-chapter-royal-road
+title: "717. Insanity"
+slug: 0123-717-insanity
+partOf: salvos
+position: 123
+ownLength: 1457
+unit: words
+publishedAt: 2024-11-01
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1879449/717-insanity"
+royalRoadId: "1879449"
+---
+
+717. Insanity
+
+It was insanity.
+
+Edithe was certain it was insanity. Who would ever wage war on the Spirit Lord? Nobody sane would do such a thing. After all, the Spirit Lord was the ruler of all the Spirit Plane. There was no disobeying him.
+
+There was no such thing as going against him.
+
+All that would come from such an act of rebellion would be death. So Edithe wasn’t even sure about her initial plan to ally with the Archangel.
+
+It was entirely possible the Archangel would just kill her on sight if they met. After all, the Archangel didn’t exactly sound like a stable individual. But there was no other option here for Edithe.
+
+The portal that led back to the Mortal Realm had closed. The redhead was now trapped here in the Spirit Plane. She had to find another way out, without drawing the ire of the Spirit Lord. So she had to take this risk.
+
+It was a risk I knew I’d have to take when I decided to do this, Edithe told herself. And when giving the option of either guaranteed death by the Spirit Lord, or a chance of death with the Archangel, the redhead was going to choose the latter.
+
+So she, alongside Centina and Willy, followed Druma as he led them through the Spirit Plane. They all knew of the risk they were all undertaking. But they still pressed on, steadfast.
+
+After all, they were doing this for the sake of all of Mavos Academy. The life of thousands— perhaps even millions, if the Centinel outbreak wasn’t kept under control— was at stake.
+
+Edithe reminded herself of this fact as she trudged ahead. It kept her nervousness suppressed. It prevented her from succumbing to knowing that she was currently trapped in the Spirit Plane— a completely alien world to her— with no ostensible way back as of right now.
+
+This must be how Salvos felt when she first found herself in the Mortal Realm, Edithe thought as she raised her head to face the green sky. An unfamiliar sky to her eyes. And when she swept her gaze over her surroundings, it was an unfamiliar landscape to her too. It’s no wonder Salvos was so aggressive to everyone and everything when I first met her…
+
+Edithe pursed her lips, feeling more sympathy for her Demon friend now more than ever.
+
+Unlike the Mortal Realm, where generally-speaking, the grass was green, the trees were brown and green, and the sky was blue, the Spirit Plane had green skies, white trees, and blue mountains.
+
+Looking up, Edithe saw the impossibly tall undulating figures in the distance. From afar, the mountains almost looked like waves, reaching up for the sky. It was exactly like how she’d imagine being lost at sea would be like. Except, she was still on land.
+
+But the worst part for her was not her alien surroundings. Rather, it was… her inability to tell how much time had passed.
+
+The redhead squinted as she stared at the glowing green dome overhead. Not once had the light that came from above dimmed, even for a fraction of a second. It was constantly shining down at her, unchanging. A strange sight.
+
+“How long have we been here, Willy?”
+
+Edithe asked, turning to the [Will O’ Wisp] who was floating beside her.
+
+“Who knows?”
+
+Came his response, almost uncaringly. Edithe pursed her lips and faced Centina who was walking up ahead.
+
+“Centina?”
+
+“I’m not sure either. Probably a few days. Or maybe only one day.”
+
+The [Evolved Centinel] said with a shrug. The redhead sighed as she shook her head.
+
+“Aren’t you guys used to living underground where you can’t see the sun? I thought you’d be better at keeping track of time in your head.”
+
+Edithe muttered to herself, and Willy snorted.
+
+“We just stopped caring about time. That’s all.”
+
+“Mhm.”
+
+Centina agreed. Edithe glanced between them, before looking ahead at Druma who was leading the way. The [Ancient Yaksha] and her former summon paused as he regarded her.
+
+“Druma—”
+
+She started, but her cut her off.
+
+“It has been exactly thirty-six hours since we departed from my commune.”
+
+“Oh. Thank you.”
+
+Edithe blinked a few times, taken aback by his specificity. And he nodded at her with a smile, before continuing on.
+
+The group resumed their hike through the Spirit Plane as what felt like another day passed. However, it was not like they were traversing the landscape slowly. They were moving fast, considering they were all high-leveled individuals.
+
+If Edithe had to guess, she would have trekked through the entirety of the Human Lands already at this point at the speed they were going. But here, in the Spirit Plane, where the terrain was far more extreme, with mountains rising higher than any mountain she had ever seen, and valleys sinking deeper than even the deepest canyons she knew of, it felt like she had barely made any progress.
+
+And as they navigated this extreme landscape, Edithe remarked as she glanced around the mostly-empty world.
+
+“I am surprised we haven’t seen any… wild Spirits.”
+
+In the distance, she spotted a small commune of [Water Elementals] gathered at a lake. They were far enough away that they didn’t spot her, which was fortunate. Thanks to Druma, they had mostly avoided running into any communes of Spirits, even if they did spot a few of them from afar from time to time.
+
+Shaking her head, Edithe tapped a finger on her chin.
+
+“Salvos told me that the Netherworld is full of these so-called ‘wild Demons’ and it’s full of death and chaos. But in contrast, the Spirit Plane seems quite… peaceful.”
+
+“That is only thanks to the Spirit Lord maintaining the peace and order of the Spirit Plane.”
+
+Druma explained simply as he led the way forward. He tilted his head back as if remembering something he was told.
+
+“It was said that long ago, the Spirit Plane was in a constant warring state. That was, until, the Spirit Lord rose to power and united all of the Spirits under his banner. Only the Fairies were said to have been excluded, but that is because they had always remained neutral throughout all the wars.”
+
+Smiling, Druma looked down at himself.
+
+“And that is why we Spirits can live in peace in this paradise for as long as we wish. Only those who desire to grow are sent to explore the Mortal Realm. But it is not out of necessity— it is only out of our own free will.”
+
+“I see.”
+
+Edithe nodded as she listened along. As cruel and ruthless as the Spirit Lord sounded, considering he’d want her dead if he found out she was here, it seemed like the Spirit Lord was truly a force of good.
+
+At least, until Willy spoke up.
+
+“You know that’s not true.”
+
+The [Will O’ Wisp] scoffed, and Druma glanced back at the Grand Spirit curiously.
+
+“This world isn’t a paradise. I’m sure you know this truth.”
+
+“It is a paradise for the children of my commune, so it is a paradise to me.”
+
+Druma answered simply. Edithe frowned, wanting to press the [Ancient Yaksha] with more questions. However, he drew forward, scaling to the peak of the mountain they were on as he spoke simply.
+
+“Anyway, we have arrived, master.”
+
+“We have…?”
+
+Edithe blinked, then hurried after him. Centina and Willy were a step behind her. They hurried up to the very top, before pausing as they looked beyond the mountain range they had just crossed.
+
+There, a vast flatlands opened, before revealing a crystalline fortress rising up from the center. It was a massive fort that looked like it was made out of diamonds or glass. And there were dozens of figures floating up in the air, right above the fort.
+
+Edithe squinted as she used [Identification] on them. They had feathered wings, and they wore the faces and bodies of Humans. But they were not Humans. They were—
+
+[Angel - Lvl. 180]
+
+[Angel - Lvl. 191]
+
+[Angel - Lvl. 170]
+
+[Angel - Lvl. 165]
+
+[Angel - Lvl. 198]
+
+…
+
+“They’re Sacred Spirits… so many of them…”
+
+Edithe whispered as she swept her gaze over the flatlands. She looked back down at the fort, before frowning.
+
+“But what are they guarding there? And why do they look like they’re on high alert?”
+
+“There.”
+
+Centina was the one to speak up, raising a hand past the redhead. She looked in the direction the [Evolved Centinel] pointed— towards a figure that was flying opposed to the dozens of [Angels].
+
+“We have found our target.”
+
+Centina said simply, and Edithe’s eyes grew wide as she saw it.
+
+[??? - Lvl. ???]
+
+The Archangel.

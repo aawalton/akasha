@@ -1,0 +1,335 @@
+---
+id: a3755534-dc78-50a1-a605-9a219d13b9ea
+page-type-slug: story-chapter-royal-road
+title: "451 A Frozen Sea"
+slug: 0411-451-a-frozen-sea
+partOf: the-new-world
+position: 411
+ownLength: 3094
+unit: words
+ownProgress: 3094
+publishedAt: 2025-07-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2438625/451-a-frozen-sea"
+royalRoadId: "2438625"
+markedReadAt: "2026-06-29T21:35:29.565Z"
+---
+
+I raised a brow, and Torix coughed into a hand. The lich mused.
+
+"Backwater according to their standards, of course."
+
+I turned to the others, shifting my dimensional wake.
+
+"Alright. Is there anything else you need to say, Diesel?"
+
+Diesel scratched his clipboard.
+
+"We think that Schema is going to create a siege quest of our planet for several invading forces."
+
+My eyes flared red as Event Horizon coursed over everyone, the aura as heavy as grief.
+
+"Schema's doing what now?"
+
+Chapter Begin
+
+Torix cackled.
+
+"It's indeed quite strange. I've heard of planetary-mandated sieges in the past, but they were often relegated to planets like Blegara."
+
+Amara simmered her words.
+
+"Schema sieges worlds that worship the eldritch. That isn't a confusing prerogative. This world, however, is a different story."
+
+Torix gazed down at her.
+
+"Is it? Currently, this planet is swarming with high-level eldritch and evil avatars. From a system and likely statistical perspective, it's a sinking ship that's quite difficult to save. That's why these sieges take place - they are a means of both saving this planet before its fall while giving further initiative to other guilds and planets."
+
+Torix pushed up imaginary glasses.
+
+"In that regard, Earth hasn't failed in its transition to a developed world. However, it isn't an utter success either. I'd imagine there are many pockets in relatively undeveloped areas where different avatars are staging rebellions to our cause. Humans in those areas are likely siding with those hethens out of necessity."
+
+I took a calming breath.
+
+"Ok...I can understand that. It still rubs me the wrong way considering our circumstances, but at least it isn't Schema going out of its way to tear us down."
+
+Torix sighed.
+
+"Schema carries a directive, and those who go against its orders are admonished in various ways. Oftentimes, this can take place via classification, such as being labeled a fringe world. Other times, it's in the form of quests from other worlds to conquer the local and failing factions."
+
+I nodded.
+
+"Do you think they have a chance at taking over pieces of our planet?"
+
+Torix peered at a set of workers in the distance.
+
+"There is a possibility. We'll need to find and dismantle their landing points, but they could serve as hubs between our guild and their more developed worlds. As one would expect, it isn't always a terrible thing to be interconnected, and it could assist our guild in finding further data points on our cosmic map."
+
+I shook my head.
+
+"They could side with nearby avatars to create a difficult-to-siege team."
+
+Amara hissed her words.
+
+"They will eat the poisoned meat to fill their starving bellies."
+
+Torix rolled the fingers on a hand.
+
+"I recommend we observe and act once informed. Our current strategy should allow us to prevent this from becoming an impending disaster, and our military strength far exceeds a standard planet. In that regard, whoever Schema sends our way will likely be in for a rude awakening."
+
+A few of my minds tossed the information around. I turned to the others.
+
+"We'll continue our operations as we are. Whenever we finish Amara's mission, we'll head over to the expected invasion landings and augment any defenses already there. We don't want any tragedies to take place."
+
+Torix cackled.
+
+"Or lands to be left unconquered."
+
+Diesel spread his hands.
+
+"Guys. Is that how you see this guild? An invading force?"
+
+Torix's eyes flared red.
+
+"We're simply here to put flags in unoccupied territory. If we happen to expand a growing empire and develop various regions in the meantime, well-"
+
+He glowered.
+
+"All the better, I say."
+
+Diesel coughed into his hand.
+
+"Welp, benevolent overlords, please don't eat any children or make any skin rugs, wouldya?"
+
+Torix leaned to him, and the lich writhed his fingers around.
+
+"No promises, engineer. My lair has been needing a jar of eyeballs on a certain shelf lately. It's oh so empty, and it calls for organs to fill it."
+
+I put my hands on my hips.
+
+"I could just make a bunch of creatures, and you could harvest their eyes after they've been slaughtered."
+
+Torix waved a hand in disgust.
+
+"Bah. Lifeless trinkets. It only matters if the eyes have felt love, held hope, and swallowed despair."
+
+Diesel paled.
+
+"That's my queue to leave. Good luck with all the conquering Daniel. And uh, also with the hunt for eyes."
+
+I glared at Torix.
+
+"We're not doing that."
+
+Torix raised his hands.
+
+"In an unethical way, that is."
+
+I gave his shoulder a pat.
+
+"Good enough."
+
+We handled a few other miscellaneous details that involved trading with the albony, organizing lunar development, supplying the current frontier of the legion, and generating supplies. After making a considerable number of rings, I created another depot for the gear before telling a treasurer about it via system messages. With the details rooted out, Torix and I gathered ritual ingredients.
+
+Torix had prepared for this over several years now, and he carried a plethora of eldritch body parts. Many of them carried immense vitality, squirming and writhing long after death. An obsidian heart that beat with vibrant spurts of mana. A green liver sitting in a pool of toxins it purified at all moments. A diamond carrying ten thousand fighting eldritch, each of them killing the others to the last monster standing.
+
+These pieces all held life abound. Other treasures oozed deeply entrenched manas, the kind that soaked through a strong beast and was the source of its power. A vial holding a lake of the blood ocean from Baldowah's domain. A set of captured astral winds from Eonoth's dimension. He even used pieces from Kryaa's amber body.
+
+I held up a shard.
+
+"I wondered why you wanted all these pieces."
+
+Torix spiraled a few of the shards over his hand.
+
+"The world is full of treasures should you know where to look."
+
+Grabbing everything into dozens of gravity wells, I tossed a butcher shop's worth of organs, bones, and vialed liquids into my dimensional storage. I could carry millions of pounds by now, but it felt like Torix took the limits of my abilities as a challenge. He kept tossing in an assortment of valuables until my pocket dimension swelled to the brim with supplies.
+
+I scratched my head.
+
+"Can't we just use my mana for the ritual?"
+
+Torix took an unneeded breath.
+
+"We could, but yours carries a particular flavor, for lack of a better word. We need something less intrusive during this process, something that can be refined alchemically into a different kind of energy source. After creating this converter, we'll be able to more easily manage various aspects of the ritual."
+
+"So why didn't we use this for the spirit magic?"
+
+"The skeptiles offered us the mental imprints and various inclinations for those people. In essence, their collective vision acted as the refinery. I will need to do that all myself, and while I'm relatively competent within this given domain, I doubt I'll manage this ritual's full potential without taking precautions."
+
+I gripped my hands to fists.
+
+"Smart."
+
+Torix rolled his fingers.
+
+"Working within one's limitations always is."
+
+I put another eldritch corpse into my storage.
+
+"It's ironic, isn't it? By knowing one's weaknesses, you become stronger since it allows you to compensate or correct."
+
+"Knowing one's strengths is equally important. Abusing those strengths can oftentimes get you quite far."
+
+We kept chatting while we finished putting the bodies. We traversed the lower levels of Mt. Verner thereafter, finding many storage houses owned by Torix. Within these isolated and contained treasure troves, mountains of various gemstones, metals, and talismans piled up high.
+
+The stones glowed with radiant energies, each carrying various contrasting forces. Gravitation. Levity. Darkness. Light. Healing. Torture. They all welled within the confines of the multi-colored and oddly textured crystals. The metals imbibed with the souls and minds of the eldritch. Encapsulated within each substance, captured eldritch empowered each of the ores, turning trash into treasure using their rage and wrath.
+
+Other spirits meditated in a supposed serenity, though I doubted the monsters within wouldn't escape if given the chance. On the other hand, sigils covered many pedestals that held the rocks and metals. They seemed unaffected by time, something immemorial. It all passed by in a blur, and after filling up two more spatial rings worth of supplies, Torix turned to me.
+
+"Are you ready to leave?"
+
+I scoffed.
+
+"I should probably be asking you that question. You're taking all of Michigan with you."
+
+"If I could. Now, let us be off. A ritual awaits."
+
+He opened his portal, and we stepped through. In a sudden transition, we walked onto a panel of glowing ice. For miles in every direction, the wind howled with a life all its own. It carried fractals of ice that floated through the light, the snowflakes like dancing mirrors. The clouds above held the numbing abyss of true cold, and it weighed down on all that lived beneath its gaze.
+
+I marveled at the oppressive yet stunning surroundings.
+
+"A cold wasteland never looked so good."
+
+Torix floated over the ground.
+
+"It's good to choose the right atmosphere for an ascension. It wouldn't do to host it in a boring set of plains, now would it?"
+
+The wind howled, its roar a primordial terror. I smiled.
+
+"Like a spicy soup in summer or ice cream on a frozen lake."
+
+"Those experiences sound delightful."
+
+"But not timed well."
+
+"Well, that would depend on the circumstances and individual that experienced them, wouldn't it?"
+
+"Or if they could even eat to begin with."
+
+"Oooh, the possibilities of a hypothetical. I love discussing them."
+
+Torix floated while I ran across the ground. We fell into a comfortable silence, and I felt the ice under my feet, the cold nothing to my metallic body. That platform cracked and fissured below me, a thin sheet of powder covering a hard, thick panel of ice below. Glaciers in the distance groaned as we passed a frozen and beautiful terrain.
+
+After several minutes, we arrived. Torix floated down into a crack in the ice. I followed, marveling at the eldritch encapsulated within the frozen seas. I frowned.
+
+"It looks like the environment itself is hungry."
+
+Torix dragged his fingertips across the wall of ice, leaving streaks in it. Frost fell over us, and Torix telepathized,
+
+"Oh, it is. Some might even suggest this terrain is starving. I believe this is the beginning of some archaic, primordial beast. It encapsulated the eldritch that has spawned here since the system spawned. By taking in so many monsters, it amassed quite the life force, though chaotic and in general disarray."
+
+"Alright, and I'm guessing we brought these contrasting energy sources to tame all the latent energy here?"
+
+Torix's swiped his hand, the ice following us and trying to sink into our skin.
+
+"I knew I chose my disciple for a reason. It's a shame it's taken so long for your ingenuity to manifest."
+
+I shook my head, a reluctant smile on my lips.
+
+"You try becoming some well-read scholar while fighting world-rending terrors all the time."
+
+"I've heard of poorer excuses from my students, especially the hungover ones. Banter aside, here it is."
+
+We reached a tunnel. The light from overhead leaked through the ice, and the rays bent like light-piercing water. This illuminated this terrain even so deep into the depths of the ice. That bending and constant light contrasted the frozen ocean around us, hundreds of deformed whales encapsulated within the frigid abyss.
+
+They were in a static scene, the whales hunting krill. One of the leviathans split its jaw in three places, and its tongue lunged out to scoop up the crustaceans. The krill scuttled away, desperate to survive another day. All lay frozen within, and I inspected them.
+
+Torrential Swallower | Lvl: 6,239 | These are species of toothed whales defined by their enormous jaws and ability to hold vast amounts of water within their bellies. They carry small dimensional lapses within their stomachs that are propelled outward. This space is controlled by the torrential swallower using its tongue, and it can digest or hold entities within without having to use mana.
+
+Despite extensive research on many worlds, the inner workings of the torrential swallowers personal dimensions aren't well understood. That dimension also acts as a pair of jaws when swallowing or fighting other leviathans in the ocean. Their innate constitutions also give them incredible resilience against various oceanic elements, including water, ice, and tidal forces.
+
+This has created a business revolving around their leather. They are potent for creating better vessels, sails, and protective gear. It's said that their hearts are a source of courage for those who fear the ocean and its depths. By eating one cured by ocean salt and dried in the sun, one may gain the ability to breathe underwater and withstand its immense pressures.
+
+Despite their legendary status, they are no threat to you.
+
+I tapped the ice with a fingertip.
+
+"This is wild. There's a vast number of these monsters trapped here, all in the middle of some hunt. What do you think froze them?"
+
+Torix walked with his head held high and his hands interlocked behind himself.
+
+"This is the doing of Schema. It's taking pieces from other more developed worlds and filling in the cracking dimensional sections of Earth. Based on my approximations, the surface of the planet has already increased in size by nearly 30%."
+
+I gawked at him.
+
+"30%?"
+
+"It is that large an increment, if not more. Just as well, these are altered planes from wherever the eldritch are arriving from. That's my hypothesis, at least. I believe they are being siphoned from shattering dimensions, and Schema is pulling everything together into a kind of planetary patchwork here on Earth. Given time, I'm certain the AI shall succeed."
+
+"Then we'll need to give it time to get it done. Simple."
+
+"It's certainly simple to conceptualize, though not at all to handle in practice."
+
+I hit my fists together.
+
+"We fight monsters and blow up the bad guys. So far, it hasn't actually been that complicated outside of understanding the nuance of each situation."
+
+Torix's eyes flared.
+
+"I see it that way as well."
+
+I remembered how large the Grand Canyon had become, along with the Shattered Spires. I dragged my fingertips along the ice.
+
+"I actually think your estimates are off. I think Earth is probably many times larger than before. Even the Shattered Spires is large enough to be a country, and there are other places like it on Earth. I'd bet there are even different races that got spliced in based on how many new species we've found."
+
+Torix ambled up to a large crag in the ice.
+
+"That would depend on how eldritchified the new species are. On the lower end exists the gialgathens-"
+
+We jumped down the abyss, miles of ice flowing past us as we fell. The wind howled in our ears until we landed nearly three minutes later. Even at this depth, swarms of creatures still fought to escape their perpetual stasis. Torix continued walking forward.
+
+"And on the higher end of eldritchified species are the Vagni. The eltari are an excellent example of a moderately eldritchified species. I would imagine we'd find many more tormented kinds of sapients running about after fully colonizing the earth."
+
+I raised my brow.
+
+"Do you think the Ruhls are an extremely eldritchified species?"
+
+"I'd imagine so. Plazia, despite his proclivities, demonstrates excellent self-control and awareness. To me, he seems truly and well into sentience."
+
+"Wouldn't it be amazing if we could meet species we can uplift? For resources, of course."
+
+Torix shook his head.
+
+"Uplift? I doubt it. Help? Perhaps. Regardless, here is the center of the ritual."
+
+We reached a colossal rift in the ocean bed. Thousands of the undead toiled and worked here, from draugr to revenants to wraiths. They each operated on different tasks to help the process along. The giants carried large pieces of metal or gemstones. The skeletons worked on chiseling the ice at certain spots, and the draugr helped to command the lesser undead.
+
+As Torix walked by, they gave bows of reverence. The undead general stepped past them all, dominion soaked in his steps. As Torix reached the top of a central mound, he pulled out a set of diagrams and schematics. With a snap of his fingers, a pillar of light beamed down onto us from above like a spotlight.
+
+I walked up to it, and Torix gestured to his blueprints.
+
+"These are the designs I've toiled so endlessly on."
+
+I leaned over. On several hovering pieces of parchment, a series of designs sheened from metallic ink. They exposed a similar design to Torix's current self - a large, caped figure with spiked pauldrons and a skeletal head. A spiked crown rested on his head, along with luxurious gold and platinum embedded within his robes.
+
+Another image showed the exact figure with its arms spread wide. They showed a skeleton covered in dense, interlocking plates of armor. While my own armor carried an organic feel, Torix's design was that of a dark knight. The intricate runes, embroidery, and full-bodied plates left him mirroring some dark god walking out of the pits of Tartarus.
+
+I put my hand on his shoulder.
+
+"You'll look like a mix of Hades and Sauron. Royal, dignified, yet brutal. It suits you well, old friend."
+
+I smiled.
+
+"And edgy. Edgy as hell."
+
+Torix waved a hand at me.
+
+"Edgy? I'll have you know I'm not on the precipice of anything. There shall be no cliffside where I tread, as I'll be investing myself fully in this artistic direction. That is why I don't plan on leaving any doubt of who I am."
+
+His eyes flared red.
+
+"Edgy? I'll be the entire perimeter and then some if I have anything to say about it."
+
+I laughed before cracking my neck, the sound echoing in the hall.
+
+"If I'm honest, I like how authentic you are."
+
+Torix swung his cape.
+
+"But of course. Now, there is work to be done and blood left to be spilled."
+
+He raised his hands. The supplies began amassing into the enormous underground dome under the frozen ocean. The undead peered towards their leader, and they began bowing. The bows spread until an entire army kneeled before their leader.
+
+Torix spread his arms, and the light cast him in shadow as I gazed up. He mouthed.
+
+"Let us begin my ascension."

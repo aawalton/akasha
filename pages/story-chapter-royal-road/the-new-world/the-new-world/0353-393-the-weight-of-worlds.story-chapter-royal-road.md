@@ -1,0 +1,515 @@
+---
+id: 23f64d39-d3ea-56cf-a04e-60d15af7e77c
+page-type-slug: story-chapter-royal-road
+title: "393 The Weight of Worlds"
+slug: 0353-393-the-weight-of-worlds
+partOf: the-new-world
+position: 353
+ownLength: 3636
+unit: words
+ownProgress: 3636
+publishedAt: 2025-03-11
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2120584/393-the-weight-of-worlds"
+royalRoadId: "2120584"
+markedReadAt: "2026-06-29T21:33:23.609Z"
+---
+
+Still groggy, Helios wiped the sleep out of his eyes before a bolt of dark lightning snapped into the ground beside him. The boom and thunder woke him up seconds before Helios tilted his head. He closed his eyes and rubbed his temples.
+
+"What have you done now? Running an experiment to see if you could collapse the fabric of reality?"
+
+I shook my head.
+
+"What? C'mon. Cut me some slack."
+
+I peered at the portal.
+
+"But I am wondering if someone else is."
+
+Chapter Begin
+
+Helios pulled up his sleeves.
+
+"Gah, and I was praying this was a source of your stupidity."
+
+I gazed into the other world.
+
+"If only."
+
+Helios channeled mana through his gauntlet, the cipheric runes sparking to life. Primordial strands of mana stretched out onto the corrupted spacial rend, and Helios murmured.
+
+"This...This is nothing like Schema's normal dungeons. Do you have any idea what happened here?"
+
+"We don't know."
+
+"Hm. Neither do I. This is...I've never seen a true spatial rip like this. They often open up to some dark, other dimension. This...It's eerily similar to another world."
+
+I let a fire moth land on my hand.
+
+"Then how do you actually make portals?"
+
+Helios wrestled with the warp, parsing out its secrets.
+
+"I take two instances of space and fold them together. Once they touch, I fuse the dimensional spaces so that a warp appears. It's a tunnel, in essence. Schema's spears actually tear the space between two places rather than fusing them, but they still don't open warps to the abyss beyond the observable universe."
+
+Helios winced as dark lightning deformed a nearby stone.
+
+"This does. Ugh. Grotesque. What a genuinely disturbing thing you've shown me."
+
+I pulled my wake over the dimensional disturbance. It recoiled from me, but I wrestled it down. It shivered as if alive, but it felt more like a reaction akin to oil rising above water than real movement. Helios peered at me as if I were insane.
+
+"What are you doing?"
+
+"Sensing it."
+
+"You shouldn't-"
+
+I reached out a hand in front of Helios's face. As I did, a dark streak of lightning bolted into my arm. My skin absorbed the streak with immense hunger, like a starving beast. As I peered at my hand, Helios scoffed.
+
+"Never mind."
+
+He toiled for several minutes, the tear shrinking by tiny increments. I watched him like a hawk, ensuring he wasn't zapped and I didn't miss any other threats. An hour passed before Helios grabbed his mane.
+
+"This is just what I needed. A laborious task awakening me in the middle of the night. Technical. Difficult. Ooh, and I'm even learning about magic I've never heard of."
+
+He turned to me.
+
+"How delightful."
+
+I smiled.
+
+"I'm glad I could give you a challenge."
+
+Helios took a breath and raised a hand.
+
+"If I'm honest, I didn't even think about the time. I never sleep, and it's easy to forget about after all these years. We can handle this later-"
+
+He raised his gauntleted hand.
+
+"No. I'm finishing this. I simply require venting my frustrations from time to time."
+
+Several more minutes passed before Helios murmured.
+
+"It wasn't as if I was resting regardless."
+
+I furrowed my brow.
+
+"Struggling to sleep?"
+
+"Are you attempting to micromanage your guildmates, perchance?"
+
+I pointed beneath him.
+
+"Alright, snarky catman, I can make you a chair if you tell me what's up."
+
+Helios's eyes narrowed.
+
+"Hm. Deal."
+
+I generated a stone seat with a thin gravity panel over it. Acting like a cushion, Helios sat on it. He sank a little before peering down.
+
+"Interesting. I must say I much prefer this to the usual floating. The seat offers structure. I always feel as if I'll fall when floating-"
+
+"The sleep thing?"
+
+Helios peered off.
+
+"Ah yes, it's...It's something I've struggled with since I revived. I dream that Elysium succeeded in their goal and that I am nothing more than a shell of what I once was. I question my every thought and goal. I wonder if I am still alive or their puppet."
+
+I grimaced.
+
+"Damn. That's a lot. It reminds me of after I killed Valgus. I was worried he was still in my mind, too."
+
+My grimace deepened.
+
+"Eh, I still am."
+
+Helios shrunk another edge of the split in spacetime.
+
+"You don't trust your mind then. I am the same, and this is merely the beginning. My family is all but dead, with only my idiot brother still breathing. My uncle used me to accomplish his twisted, imperial goals, and I wasted my life on the pursuit."
+
+He grabbed his mane with both hands.
+
+"Now I toil on an underdeveloped, backwater mudball that's in the sights of Schema knows what."
+
+I raised a hand.
+
+"I'll have you know this mudball has water on it, which makes it pretty cool in my book."
+
+He seethed.
+
+"Emphasis on mudball. Mud. As in wet dirt."
+
+I sighed. What he said did sum up his situation. I scratched the back of my head.
+
+"I don't know what to say. Uhm, I'm sorry that all happened."
+
+Helios snarled.
+
+"You're why I'm alive. Why are you, of all people, apologizing?"
+
+He stood, throwing his arm to the side.
+
+"Obolis should be crawling on his knees, begging for forgiveness. I wouldn't even meet the cretin if I didn't have to attend so many funerals. No bodies, by the way. They don't trust that anything could remain untainted."
+
+Helios glared at me.
+
+"And who can blame them after what's happened? I still go for their memory, and Obolis speaks with me each and every time. He has the audacity to ask for my return. I wish I didn't find it so tempting."
+
+I sat down on a gravity well.
+
+"Why don't you go back?"
+
+"Pride. Fury. And I understand he used me. I understand that his aims end in nothing. It is meaningless. As all feels as of late."
+
+Helios sat back down.
+
+"I do wish that I still had that. Meaning. It's a hard thing to find. Even harder to keep."
+
+He reached out his hand, closing it to a fist.
+
+"It slips between my fingers like holding glass sand. The harder I grip, the more it cuts into my skin."
+
+A Pang of shame shot through me. I thought I could help him, but my guild offered a harbor, not a home. I reached out to say something before lowering my hands. Even with a dozen minds, I still didn't know what to say. A part of me hated myself for that.
+
+Helios leaned his elbows onto his knees.
+
+"What did you do after losing your home and family?"
+
+I blinked.
+
+"Who? Me?"
+
+Helios let his arm flop to his side.
+
+"Is there another thirty-foot-tall darksteel titan?"
+
+"Did that even happen to me?"
+
+Helios leaned back.
+
+"I spoke with Torix. He informed me of your past in detail. If you'd rather we didn't discuss it, simply say so."
+
+I waved my hand.
+
+"No, I, I didn't think about it like that. I guess that did happen. Uh, hm. Springfield was leveled. My friends and family died. Michael and Kelsey turned into monsters, and we couldn't save them. In the aftermath, I formed my guild and built Mt. Verner."
+
+There was no emotion in my voice. I recounted the details like a historian. Helios nodded.
+
+"After watching one home burn, you built another."
+
+I remembered the deformed wasteland Yawm turned Springfield into.
+
+"Yeah. I did. I didn't have another option. I think that's where my healing started. Probably."
+
+I oozed uncertainty, my words discomforting even to myself. Helios sighed.
+
+"Hm. Maybe that is the path for me as well."
+
+Several minutes passed as Helios worked. He grunted.
+
+"Thank you."
+
+I coughed into a hand.
+
+"I did nothing."
+
+"You listened while I hurled insults your way, yet they bounced off you as everything else does. Your fortitude...It's impressive."
+
+I blinked, feeling blindsided by the compliment. I stayed silent as Helios continued his work. After a while, he gazed at the last inklings of the warp.
+
+"Let's drop the gloomy topic, shall we? Now, this warp isn't possible without intervention. Something is causing it to destabilize. I can't tell if this otherworldly force is blocking Schema or if the AI didn't bother to heal this scar in space."
+
+I stood up, staring at the door-sized hole.
+
+"I have a few ideas. I'll be having a few people check it out."
+
+Helios raised a brow.
+
+"Who, exactly?"
+
+"More like a how."
+
+I reached my hand into the portal while it shrank. It cuffed onto my hand like a shackle, burning into my skin. A cosmic kind of pressure erupted over me, oozing over my entire body. I bent my knees, shaking as it tried cleaving my body apart.
+
+Helios reached back.
+
+"What are you doing, you idiot? I'd have stopped closing it if you wanted to return."
+
+The pressure mounted as if mountains rested on my shoulders. Perhaps they did.
+
+"I'm not going back. I'm taking it with me."
+
+Helios's eyes widened.
+
+"You...You never intended to close it."
+
+"Bingo."
+
+The portal shredded into my dimensional fabric, its size no longer sustained. My body stopped the warp's collapse, but it applied immense pressure. It ground down my arm like a serrated saw blade. The oscillations cut through me until I condensed my dimensional wake over the area. That slowed the dimensional cutting.
+
+I pulled more of my wake over the dimension, and it bore down on me like I held a sofa on my back. Pre-system, that is.
+
+Helios gawked.
+
+"You aim to mutilate yourself to carry it? You could have the others come."
+
+I shook my head.
+
+"You'd have to warp some more. I can't say anything that'll help, but I can do this much. Besides-"
+
+I poured some of my dimensional fabric through the warp. I shrank down to only a head taller than Helios. After remolding myself, my arm returned with the runes intact. I grasped it, finally able to breathe again. The ball I dragged around disappeared into the warp, and no one could even tell it was there. The invisible side of the portal faced outwards, after all.
+
+Though requiring some serious effort, I gained a way to manipulate my size at will and indiscriminately. Helios shook his head, a smile showing his sharp teeth.
+
+"I see you're still a reckless fool."
+
+I smiled back.
+
+"Always will be."
+
+Helios snapped his fingers, a warp to Mt. Verner appearing.
+
+"Need a lift?"
+
+I tried pulling the portal. It didn't budge.
+
+"I'm stopping by the guild outpost first. Thanks for the offer."
+
+We said our goodbyes, and Helios left. Standing by myself, I took a step. As I pulled myself forward, the warp chained me down. Even with all my physical strength, I struggled to move this even an inch. The ground crushed underfoot, the Earth splintering for well over a mile below.
+
+I kept applying force before the ground rumbled. I didn't want to cause an earthquake just to move this damn portal. Kicking it up a notch, I channeled mana into my runes. Empowered with energy, I took another step. I put the rebounding force into my pocket dimension.
+
+This time, I shifted forward in a slow drag. Shaking my head in disbelief, I contemplated my situation. This portal was bolting me to the floor, and dragging it was like tugging a continent. Physically moving it took untold effort, so I tried a different approach.
+
+With a bit of maneuvering, I swelled a portion of my dimensional wake into the other dimension. With it holding firm, I pulled all of my wake forward. The immensely heavy warp moved this time, and I followed along with it. I tried to stop, and it slammed into my back.
+
+I stammered forward out of surprise. It kept going up, eventually stopping thirty feet in the air. Hanging like a puppet, I gazed down while my dimensional fabric ball held me up from the other side of the dimension. It was an immutable anchoring point for my entire body. Hell yeah. Taking a moment, my mind danced with possibility.
+
+This unveiled a new world to me, but learning to move took precedence. I saved that tidbit of potential for later. I kept moving around with the dimensional anchor, and it dragged me around with an unmatched momentum. Hardly able to stop myself, I wielded my dimensional wake to shift around.
+
+It took serious effort, four minds devoted to that process alone. Considering the drop in mobility and processing power, I questioned this whole portal-dragging process altogether. My status popped up in my vision, interrupting my thoughts. I tried dismissing the notification, but it didn't budge.
+
+Weird. I opened it.
+
+Skill level gained! Dimensional Saturation |87| -> |88|
+
+Now, that was interesting. I kept moving around, and the skill leveled up at a consistent rate. After a while, I smiled. This process gave my dimension further stability and control. Considering how useful those skills were for defying any Old One, I'd be devoting a lot of time to this.
+
+It looked like I just gained a new hobby.
+
+After a couple minutes, I got myself up over Chicago. In tandem, I moved my physical self and dimensional wake. When I moved, I usually did both, but the passive effort lacked this same level of force. If that was moving myself, this was like moving an army. The intense concentration and persistent effort drenched me in perpetual exhaustion.
+
+As I hovered in slow motion, the weight of my task dawned on me. The animas I set on completing the task bristled from the exertion they employed. Their senses of self and continuity crumbled over the next few minutes. A few cracked at the seams, their sheer enervation building to a fever pitch.
+
+By the time I reached the top of the Sears Tower, one of the mind's efforts put all of us in awe. With my hands on my knees, I took a moment to collect myself. I hadn't been this tired since first learning time magic. I checked on the screaming mind once more, and it no longer thought anything back. It rested in a catatonic state for a while.
+
+My eyes widened, and I shook my head in disbelief. I already had to die in order to use time magic. I wasn't about to do the same for another form of sorcery unless it rivaled temporal dilation's power. This didn't, so off to the garbage heap with other useless-
+
+Ding. Another notification popped up. It was another one I couldn't close. Schema had become more overt as of late, so I rolled my eyes before opening it.
+
+Unknown skill unlocked! Dimensional Weight | Level 10 - In this reality, the laws of the universe dictate what is, what has been, and what will be. These constants rule over all with an unseen fist, one we can't even see nor fathom. Within your domain, you wield that unseen fist, and you press your own causality onto everything around you.
+
++10% to Dimensional Weight
+
++10% to Dimensional Weight's Efficiency
+
+500 skill points awarded!
+
+I rubbed my temples at the status. My psyches discussed this before we came to several conclusions. For one, this portal wasn't working the way I thought it would. I imagined dragging it around, keeping it as a solution to my size issues. Instead, this dimensional anchor was simply that - a literal dimension I lugged around.
+
+I pulled the entire fabric of another reality with me, and it was so, so very heavy. Heavy enough that I pressured one of my minds to a state of comatose by moving it. Shifting the space required far more mental exertion than I envisioned, but the reward exceeded anything I imagined up to this point.
+
+Based on the skills description, I could even influence causality. Whatever the hell that meant. I sent a Daniel to research it in my status. Lugging myself along, I reached the Sear Tower while night loomed over the city. Refugees rested in encampments built near here, a few talking around the fires. Since I only stood fifteen feet tall, only a few of these insomniacs gawked. It gave me a sense of ease I had lacked for a long time.
+
+At the primary outpost, the gialgathen kept an eye on the entire expanse. Its eyes met mine as I landed. A minuscule frown crossed over its face like a glitch. I followed my intuition.
+
+"What's got you up in arms?"
+
+Kaiayga leaned back.
+
+"You cleared the dungeon."
+
+"Not quite."
+
+The gialgathen gazed at the moon reflecting onto Lake Michigan.
+
+"Those two sent to the portal...They won't be silenced?"
+
+"Like...Killed? Hell no."
+
+The gialgathen turned to me, inspecting my face. I met its eye before it gave me a nod.
+
+"Good. I could never be certain."
+
+I spread my hands.
+
+"I've done nothing for this kind of scrutiny."
+
+The gialgathen tilted his head.
+
+"You believe so? Odd. I've heard different tales of you."
+
+My curiosity spiked.
+
+"Like what, exactly?"
+
+"They speak of sieges to other worlds. They whisper of battles with beings that can erase matter and create nuclear fire. Of wars waged against living machines and the terrors they infest."
+
+I lowered my hands.
+
+"Yeah...We have done that."
+
+It shook its head.
+
+"Is it so odd that I question what you're willing to do then?"
+
+I sighed.
+
+"Look, that's true, but the only reason you're even here is because of those decisions. You'd be infested by one of those machines without our intervention. The Eltari, my guild, we all fought battles that we decided on."
+
+It raised a horned brow.
+
+"Or was it you that did so?"
+
+I narrowed my eyes.
+
+"These people have chosen to follow me. They chose to fight. I never drafted or forced anyone."
+
+The gialgathen leaned towards me.
+
+"And what was their alternative? Death? Starvation?"
+
+Neel paced out of a warp from within the Sears Tower.
+
+"Excuse me, Kaiayga. I couldn't help but see you eyeing down our illustrious leader over here. I may not hear what's going on, but I think I've seen enough."
+
+Kaiayga turned to the war veteran.
+
+"Stay out of this."
+
+Neel waved his hands.
+
+"Now, I'm not one to question another man's anger. We have a right to it. But-"
+
+His eyes sharpened.
+
+"Not with him. Understood?"
+
+A moment of tension passed over them. Kaiayga jerked his head aside and snarled.
+
+"Ah. Fine. I'm scouting the outskirts of the city. Goodbye."
+
+The elegant creature jumped off the edge of the building, gliding down to the tops of the trees. As it got outside of earshot, Neel put his hands on his hips.
+
+"Sorry about all that. He doesn't do well with authority."
+
+I raised a brow.
+
+"Authority outside of yours, apparently."
+
+"Well, me and him have a few things in common. I helped him with stopping acetylsalicylic acid. If you don't know what that means, you're like pretty much everybody. It's aspirin."
+
+I leaned back.
+
+"Aspirin? Like...The medicine?"
+
+Neel gawked at me.
+
+"You don't know about aspirin? Your daddy never taught you nothing."
+
+"First off, mind your own damn business, and secondly, yes, I know what aspirin is. It's sap from a weeping willow, right?"
+
+Neel, on edge, shrugged.
+
+"Close enough. The willow bark had salicin in it. They used that to make aspirin. The point is, giving aspirin to a gialgathen is like giving a bear honey."
+
+"So it's sweet?"
+
+"Er, uh, ok, so imagine the honey again, but this time-" Neel spread his hands. "Laced with pounds and pounds of meth. Meth and cocaine."
+
+My jaw slackened.
+
+"It's a hard drug?"
+
+Neel took a breath.
+
+"Yup. As hard as they get. Good old Kaiayga ended up dependent on it after he arrived on Earth. He lost his family and then some in Lehesion's raid on Rivaria. The aspirin took that pain away, and I got him off of it."
+
+My imagination ran wild.
+
+"How in the world did you do that?"
+
+"The same way I quit heroin. Buddhism."
+
+Everything Neel said surprised me. I scoffed.
+
+"Buddhism?"
+
+"Suffering is attachment, as the good old Buddha says. Anyway, I got him to meditating, and he was able to kick the habit. We've been good friends ever since."
+
+I gazed at Lake Michigan.
+
+"Damn. He still seems kind of hostile."
+
+"The best friends you have always are. They have this habit of holding you to account."
+
+I remembered my conversation with Helios.
+
+"Huh. Maybe so."
+
+Neel smiled.
+
+"And before you say so, I'm assuming you cleared the dungeon?"
+
+"Essentially. You also have to let Jake and Gordan off the hook. This warp wasn't controlled by Schema."
+
+Neel blinked.
+
+"How in the hell did that happen?"
+
+"I aim to find out back on Mt. Verner, but before I head out, is there anything you need?"
+
+He walked up, offering a handshake. I returned the gesture. Neel smiled.
+
+"I wanted to thank you for all you've done for Springfield. Michigan. Hell, the world."
+
+I peered off.
+
+"Ah. Thanks."
+
+He pointed at me.
+
+"I mean it. You've done something special. Something I can hardly believe."
+
+I let my hand go.
+
+"I got lucky."
+
+He gave me a knowing look.
+
+"No, I don't think you did."
+
+My eyes narrowed.
+
+"And what makes you so sure?"
+
+Neel scoffed.
+
+"Kiddo, I knew you before the system."
+
+I leaned back. Neel stood tall.
+
+"Daniel Hillside. Certified punk. A tough boxer. And someone who took beatings from his daddy before dishing one back. Good one, by the way. That prick deserved it."
+
+Feeling vulnerable, I took a deep breath.
+
+"You. Who are you?"
+
+Neel peered off.
+
+"I know it's hard to believe but-"
+
+He met my eye.
+
+"I'm your grandfather."

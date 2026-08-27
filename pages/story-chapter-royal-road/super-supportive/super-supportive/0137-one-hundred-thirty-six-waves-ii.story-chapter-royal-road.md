@@ -1,0 +1,347 @@
+---
+id: 519813d0-12ff-5a85-8d73-24f4dbd133e7
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED THIRTY-SIX: Waves II"
+slug: 0137-one-hundred-thirty-six-waves-ii
+partOf: super-supportive
+position: 137
+ownLength: 3506
+unit: words
+publishedAt: 2024-04-22
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1605765/one-hundred-thirty-six-waves-ii"
+royalRoadId: "1605765"
+---
+
+136******
+
+The ambassador’s greenhouse was hot and damp. As soon as Alden had seen it, patchily illuminated tonight by lights dedicated to specific plants, he’d decided that rather than being a place for food production or research like the greenhouses at Joe’s lab, this was an environment meant for the residents of the house and their guests to enjoy.
+
+Flowers were everywhere, speckling tangled clumps of vines or shaded beneath foliage that looked otherworldly. A smell like nutmeg and lemons filled the air even though neither of those things was in evidence. Adirondack chairs were positioned in appealing leafy alcoves, and there was a pleasant burbling sound that never stopped, as if to imply a stream was nearby, just out of sight through the leaves.
+
+But Alden couldn’t hear the burbling now.
+
+His ears were full of the man with the weapon—what is it? what’sthat? a tent stake? a garden picket? some ordinary thing. not a Meister tool. it doesn’t look special enough. two foot long. thin. sharp. bloody—shouting at a second man who shoving on the back of the flyer with both hands.
+
+Two men.
+
+They were standing at the far end, beneath the place where one of the roof panels had been removed for the flyer’s exit. The back door of the greenhouse was open as well as the front, and wind swept through, stirring the plants.
+
+Two men. No there are three of them. The third is in the shadows. Lying down. Hurt? Dead?
+
+Not moving.
+
+“Fuck! The fuck!? —————— wizard ———! —————— stunner —————. Fuck!”
+
+The weapon wielder wasn’t speaking much English, and Alden wasn’t trying to figure out what the other language was. He was barely registering the words he did understand. Too much of his attention was glued to the sharp, bloody thing the man was waving through the air.
+
+“Shut up,” hissed the other one. “Stop panicking. It’s all good as long as we...as long as…fuck if I know! It wasn’t supposed to go this way. With Grigs down, we can’t use his swallow box. How do we move this out of…just check on him while I try to get this to roll or something! Fucking aliens making a round object that won’t roll!”
+
+Behind the babbling one who was shoving on the flyer, Zeridee-und’h was flat on her face. He was almost standing on her long, dark purple braid. Her body was crushing one of the big leaves with the zebra striping.
+
+The spot where she lay was dim. Alden couldn’t see her well enough to know what he needed to know.
+
+That terrifying, rippling authority cry had cut off so abruptly, right as he’d finished crossing the lawn. Did that mean she was gone?
+
+Maybe she’s not hurt too bad. Maybe she’s not.
+
+He crouched near the front door of the greenhouse, hiding in a dark corner behind a plant covered in large round berries.
+
+He didn’t remember thinking any of the things he must have thought to end up in this position: I need to be quiet. This is dangerous. I can’t let them see me. Get down.
+
+His body had run here, driven by adrenaline. It had made him duck behind this plant. And now…
+
+What do I do? WhatdoIdo? Think. Thinkthinkthink.
+
+His auriad was tangled in the fingers of his left hand. His right was digging in his bag.
+
+What am I looking for in here?
+
+His fingers closed on origami paper. A protein bar. A temper sphere.
+
+“—————— wizard!?”
+
+“Why do you care if the Artonan guy was a wizard or not? He’s a body now! Shit. A dead Artonan. Damn, you stabbed him good. You’re pretty fast. That’s the Brute in you. Good…good work. Ha! I’m shaking so much. Can't think straight. This is...there might be two bodies.” The babbler whipped around for just a second to look at the man on the floor before he went back to pawing at the flyer. “We should’ve just waited until the fucker flew off and searched the house for stuff. We should’ve waited.”
+
+“I say this! I say this twice!” shouted the man with the weapon. “But you say, ‘By my powers, little spaceship! Once in lifetime! ————- argold!’”
+
+He swung the weapon at the silvery side of the egg-shaped flyer, and it hit with a clang. “You and Grigs—”
+
+“Fuck! I know, all right? I know this is a mess. But it’s not my fault! I’m sorry about the stunner. They use ‘em at the hospital to knock out people who are out of their minds. The guy said it’ll even work on lots of high ranks. I didn’t know it wouldn’t do an Artonan! I hit him three times.”
+
+Maybe this? Alden thought, fingers closing on the temper sphere. I took the spell impression for situations like this, didn’t I? Distractions. Back when I wanted different things.
+
+“They’re not supposed to be martial fucking artists, are they?” the babbler said defensively. “This scrawny bastard throat-punched Grigs and took him down like—”
+
+“ ————————!” shouted the other one.
+
+“Keep your damn voice down! What if somebody hears us in here!?”
+
+Alden tossed the temper sphere out the door behind him. Into the grass.
+
+Now what? It’ll make a loud sound. Does that help at all? Will they run away? What if they don’t?
+
+He started lacing the auriad through his fingers.
+
+The babbler suddenly threw his shoulder into the flyer and bounced off, wincing. “It’s not my fault. It’s nobody’s fault. We should’ve gone for the Artonan healer’s place. But the Ambassador’s house was supposed to be empty! You heard those people whining about it on the train. This Matadero accident is supposed to be the best thing that ever happened to us! Get at the mother lode instead of scratching around for whatever shit the wizards leave behind in their offices overnight.”
+
+Alden’s hands were moving.
+
+“See if Grigs is still alive! Try to wake him up. If we could get this thing in the swallow box and get it out of here….don’t you understand? We couldn’t get our hands on something like this even if we got summoned. Do you know what kind of money those lucky bastards who bring home nice stuff from the Triplanets can make? This thing could be worth tens of millions!”
+
+Alden’s auriad was moving.
+
+His authority was moving.
+
+To do what? What am I going to do with it?
+
+He had begun cat’s cradling his way through his most familiar auriad spell with no plan, just a need to not be helpless. Now, a square of striking force was about to be brought into being. Around sixteen inches across on the diagonal. It would hit what he aimed at harder than he could punch or kick.
+
+But there are two of them.
+
+I can’t do it twice before they reach me. Can I cast and run and cast again?
+
+If they look over here…
+
+Should I have picked the triangle?
+
+No. Not that. I might miss.
+
+The flying triangle spell seemed to be more powerful, but the description in Whan-tel’s Art indicated it made a smaller shape. Alden was sure he could cast it, but because he didn’t want to blow a hole through the wall of his bedroom he’d never actually finished it to see exactly what it looked like and what it did. If his aim was bad, if it came out as some adorable little tap instead of the piercing blade he imagined…
+
+They stabbed Zeridee.
+
+The big one stabbed her with that long metal rod.
+
+Because they wanted to steal the flyer.
+
+Not even to save themselves. Not because they were scared.
+
+What kind of crazy shitbrains would rob wizards? Are they suicidal? Do they think the Artonans won’t care about something important going missing? It sounds like they originally planned to take smaller stuff from the house, but…focus. What’s a stunner?
+
+Second weapon.
+
+Some kind of knockout thing.
+
+The babbler was wearing a piece of gear on his right arm. Like a metal brace with an attached articulated glove that only covered the back of his hand.
+
+Is that it? How strong is it? How strong are they? Should I leave?
+
+It was the first time he’d had a thought about fleeing. He processed it in confused bursts as he finished shaping the spell.
+
+They’re bad people. They hurt her.
+
+More shouting.
+
+They think they killed her.
+
+The world tilted a little toward his entruster.
+
+I need to get her out of here.
+
+What would I expect Boe to do?
+
+I don’t know.
+
+“—————————— ! ———————— Punta!”
+
+“Yes, I see the disaster alert! I know the neighborhood’s not going to be looked after anymore! That’s why we’re here, and if we leave without getting anything, this is all a fucking waste!”
+
+I don’t know. I don’t know.
+
+She’s not dead. They’re not that strong.
+
+Last few finger flicks. The spell was building. The universe was about to part for it.
+
+Decide, Alden.
+
+Shoot it at the babbler who has the stunning weapon. Run outside. Activate the temper sphere. Maybe the screaming will make them think there are more people here. Prep second shot. Maybe they’ll run out to chase me. I’m probably faster than them. Hide in the dark, then sneak back and grab Zeri—
+
+A zebra-striped leaf crunched as Zeridee-und’h stirred. She was barely moving, still face-down where she’d fallen. The panicked authority cry started up again. An arm shifted.
+
+“He’s moving!!” screamed the babbler. “He’s moving! Hit him! Hit him! He’s seen us! He might do a spell!”
+
+The Brute rounded on the fallen Artonan with a panicked expression and raised his bloody stake over her body. Alden’s attempt at a plan vanished.
+
+Square.
+
+He stepped out from behind the plants, lifted the auriad, and shot.
+
+He aimed for the man’s head.
+
+Everything happened fast. His auriad was back under the sleeve of his sweatshirt, and he was moving. There was no more time for him to think. But maybe because he’d already gotten a little used to watching other Avowed—faster, stronger Avowed—he found he could see. Whipping his head around three times a week to check for tennis balls, classmates, and Torsten Klein had given him the impression that danger happened at a pace he could only rarely respond to.
+
+By the time you realized you needed to duck, Tuyet had already darted you. Or Klein had already disappeared. Or you were flat on your back, and Astrid was spring-boarding off of your face.
+
+But now, Alden managed to reach the two men before they even realized he was in the greenhouse with them. It was two big leaps with Azure Rabbit, and he accidentally knocked over a bucket, and then he was there.
+
+They were still scrambling from the first attack.
+
+The babbler, obviously under the impression that Zeridee had done something, was shouting, “Wizard! The Artonan is a wizard! Hit him quick! Hit him quick!”
+
+Rather than helping his friend, he had squeezed himself under the flyer’s cover and into the seat, and he was smashing logograms on the front panel with both hands.
+
+The Brute was on the floor behind the vehicle, scrabbling for his weapon. His right arm had been raised, swinging back for an overhand strike when Alden had cast his spell, and it had ended up in a position to catch the brunt of the spell’s impact.
+
+Fortunately, he’d dropped the stake. Unfortunately, he was still conscious.
+
+“Who the fuck are you!?” shouted the one in the flyer as Alden landed beside Zeridee.
+
+Alden’s poncho hood had slipped off. He yanked it back over his head, pulled his arms inside, bent toward Zeridee—
+
+Motion. He caught just the briefest, corner-of-the-eye glimpse of motion from the Brute behind him.
+
+Then the metal stake smashed into his back. Tip first. Right between his shoulder blades.
+
+It hit the magic of his skill instead.
+
+Alden stuck his arms out from the bottom of the frozen poncho, and grabbed the ambassador’s assistant under the armpits with both hands. She let out a small, high sound of pain. He kept lifting, trying to somehow cover her with the poncho without dropping his skill.
+
+I can’t…oh shit. He’s coming at me again.
+
+He let go of Zeridee. He spun. He kept his body in a crouch. Everything but his face and feet were protected. As long as he didn’t lift his face and give the Brute a shot at—
+
+The weapon smashed into the back of his head. He heard the faint sound of its reverberation and then the clanging clatter of it hitting the cement floor and sliding.
+
+“I’m a fucking S-rank Adjuster, you psychos!” Alden shouted over the sound of them shouting. “You’d better fucking run before I shove icicles down your throats and rip you apart from the inside!!”
+
+There were so many logical problems with this threat. But it was the first random, violent thing his brain could provide, so out it came.
+
+“And this lady is the best wizard on the Triplanets. She blows up gokoratches for fun!”
+
+He couldn’t see their faces now because that would require him to lift his vulnerable face, but he could see the big guy’s legs, and the man was going for the fallen stake again.
+
+Alden bellowed something else about icicles and leaped at the Brute, knocking him to the floor and narrowly avoiding a fall himself.
+
+The babbler was still yelling at the flyer like he thought that would make it go.
+
+The Brute's meaty hand managed to wrap around the weapon. As he grasped the stake, Alden kicked out with a foot, aiming for the side of the head only to hit a shoulder and be instantly and painfully reminded that I am wearing the sandals Zeridee got me shit and who has time to care about that he’s trying to kill me kick him again!
+
+There was another scream from the man in the flyer, much more agonized than any that had gone before.
+
+It cut off abruptly.
+
+Alden whipped his head for just long enough to see that the flyer had shut. There was a smear of blood on the transparent roof. The man inside was howling soundlessly.
+
+Alden turned back to the more pressing threat, but before he could kick the man again, the dim greenhouse suddenly went brighter than day.
+
+The Brute, still kneeling on the floor, grunted and swung at him, and Alden jumped this time because the swing might hit his unprotected legs.
+
+Driven by adrenaline and his trait, he jumped way too hard. He almost hit the glass ceiling of the greenhouse.
+
+In the air, he had a fraction of a second to see that it was the flyer that was blazing with light, and then the flyer was gone. Up and out, like a bullet racing for the stars. Alden was so blind in the sudden darkness that when he hit the ground and rolled he had almost no sense of where the Brute with the weapon was.
+
+He got onto his feet as fast as he could and re-preserved the poncho. The tape that had connected the messenger bag to it had come free at some point, and the bag was swinging against his side now, no longer entrusted or preserved.
+
+I can’t see. Gotta get Zeridee and get away. Where’s the…?
+
+His pulse was so high he could feel it throbbing in his head.
+
+As he managed to regain enough vision to make out shapes, he saw a figure kneeling on the concrete.
+
+He crouched, prepared to take another hit on his poncho. He waited.
+
+And then he realized the figure was smaller than the Brute had been.
+
+His eyes adjusted some more.
+
+“Zeridee? Are you…?”
+
+The Brute was on the floor beside her. He wasn’t moving. It looked like she had stabbed him through the temple with his own weapon.
+
+“I’m sorry,” she said in Artonan, her voice faint. “I’m sorry. They were going to hurt you. I had to send the flyer. You should run.”
+
+“Entrust yourself to me,” Alden insisted, forcing himself to talk gently. He was using Artonan just to be sure she could understand him. “Zeridee, please.”
+
+She’d slumped onto the floor beside the dead Brute. Alden knelt beside her now, left hand pressed to the bloody spot on the right side of her chest, right hand pressed to the second bloody spot on her abdomen.
+
+Does this help? Does this even help? The wounds go through and through.
+
+The Brute had stabbed her at least twice. And there was a massive gash on the side of her head. Alden was having a hard time imagining any kind of first aid other than getting her preserved as soon as possible.
+
+He pressed harder, and she made a choking noise.
+
+“Entrust yourself to me,” he repeated in the calm voice.
+
+Her blood was hot and slick.
+
+“Don’t be afraid,” she said. “This man isn’t dead.”
+
+It was the second time she’d said that.
+
+Only one of her eyes was focused on Alden’s face. The other was drifting around aimlessly.
+
+She’s really confused from the head injury.
+
+“Entrust yourself to me.”
+
+“He is only sleeping,” Zeridee whispered. “That other man is only sleeping, too.”
+
+No. She’s confused, but not in the way I think.
+
+The Artonan woman was trying to give him loving lies. Like he was a child.
+
+“I believe you,” said Alden. He didn’t spare a single glance for the Brute lying a few inches away with a metal spike shoved through his skull. “You helped the bad men go to sleep. I’m not scared. Can I pick you up?”
+
+“I’m sorry I had to give the other man your escape flyer. You have to leave the house now.”
+
+“That’s all right. We’ll leave together.”
+
+“He will not die of blood loss before he reaches the Amazon. It didn’t hurt him much when his arm was ————— by the flyer’s —————.”
+
+She meant it hadn’t hurt the babbler much when the ship’s hood had closed on his arm, severing it almost to the shoulder. It was the one with the magical equipment on it, and it was lying on the pavement nearby.
+
+Alden assumed the one-armed man who was now blasting toward South America in an escape flyer that didn’t belong to him had been sticking the limb out of the vessel, about to fire the thing he had called a stunner at Alden’s back.
+
+If it can take out high ranks it might have burst through my poncho. Or tired me out enough that the Brute’s next strike did. And then we’d both be dead.
+
+Zeridee must have managed to give the vehicle some kind of “go” command through her eye rings.
+
+“Ah,” he said, “so one of my teleportation site guesses was right. We were going to go the Amazon together. That would’ve been fun.”
+
+Zeridee took a breath.
+
+Does it seem like more of a struggle than her last one? Am I imagining that?
+
+Both of her eyes met his briefly before the left one wandered off again.
+
+“You go to a ———— now,” she said. “Hurry.”
+
+He assumed that was a synonym for shelter that he hadn’t learned yet.
+
+Is she having a good moment?
+
+He stared hard into her focused eye.
+
+“Zeridee, I will run faster if you are alive. My skill and trait will only work if you come with me. Can I carry you?”
+
+She blinked the eye.
+
+“I will run faster if I carry you,” he said slowly.
+
+He thought it might be true. But probably not. He would run faster at the outset for sure if he was using his skill, but he wasn’t actually sure whether or not he would lose entrustment if his entruster died. And he would also tire faster carrying her weight.
+
+Loving lies can go both ways.
+
+“I will be much faster if you let me carry you,” he said. “Can I carry you?”
+
+“Yes,” she said.
+
+That’s an agreement! He stopped pressing his hands to her wounds and reached for her braid.
+
+“Is there medicine that will help you in the house? Is there something like my special medicine bag there? One for Artonans?”
+
+“This man is just sleeping.”
+
+“I believe you. Is there medicine for Artonans in the house? Will any of the medicine in my bag help you?”
+
+“Yes. In the ———. Upstairs.”
+
+In the roof? The underroof? Is that a word for attic? Is searching for it the right move?
+
+He pulled the braid forward over her face. Her hair was thick, and soft where it wasn’t damp with blood. He tucked the purple tuft at the end into the waistband of her pants, then lifted the braid at the middle to make…well, it was a great carrying strap.
+
+If everyone came equipped with their own personal ropes, my life would be much easier.
+
+“Thank you, Zeridee. You saved our lives. You’re amazing. Everything’s going to be all right.”
+
+**********************

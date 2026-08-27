@@ -1,0 +1,131 @@
+---
+id: 5b8778ce-5488-57b5-bd83-5361386398dd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1370 - A Dance of Blades"
+slug: 0167-chapter-1370-a-dance-of-blades
+partOf: the-primal-hunter
+position: 167
+ownLength: 2894
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3778093/chapter-1370-a-dance-of-blades"
+royalRoadId: "3778093"
+---
+
+In pure swordsmanship, the Sword Saint unfortunately had to accept that he was inferior to these B-grades, who had been training for so many more years than him. He had been closing the gap, yes, but there was still a gulf between them not so easily crossed.
+
+Things were very different when it wasn’t a fight solely reliant on swordsmanship, though.
+
+As the elf and beastkin closed in, the very concept of time stretched as the Sword Saint moved, far faster than anything he’d done before. Even if all sides had used boosting skills and their boosting skills gave a roughly equivalent increase in pure stats, the Sword Saint did far more than merely amplify his stats.
+
+Unprepared for his increased speed, the wood elf was taken by surprise and had to awkwardly deflect a slash, only to find the Sword Saint’s sword suddenly speed up further as he pivoted and attacked yet again.
+
+The beastkin tried to help as Miyamoto felt as if a mountain was descending upon him, but he finished his attack, sending the elf retreating with a wound on his shoulder. By the time he did, the beastkin’s attack was too close and the gravitational pull too strong, forcing the Sword Saint to react as he pierced upwards toward the descending blade.
+
+A single line of water soared upwards as the tip of his blade struck the sword of his opponent, their edges meeting perfectly. The pressure was instantly split in two, much to the shock of the beastkin, who hadn’t expected his attack to be so easily nullified.
+
+Unaware that even mountains would fall before erosion.
+
+He tried to land a counter on the other swordsman, but the elf was far from out of commission as he appeared right in front of Miyamoto, having used the skill recognized as One Step. In fact, he’d noticed that all three of them seemed capable of using this skill, which truthfully shouldn’t come as a surprise.
+
+It was a Legacy Skill belonging to the Dao Sect, after all.
+
+Deflecting the elf's attack, the Sword Saint quickly countered again, his blade only growing faster with every swing. Having adopted a more defensive stance, the wood elf blocked every blow, and Miyamoto also recognized that all the wounds he’d left earlier had already healed, with the elf giving off a similar kind of affinity to Dina.
+
+Life affinity... a healer swordsman? Perhaps a hybrid of some sort.
+
+This theory was further confirmed as the elf slashed toward the Sword Saint, fully aware it would be dodged as a crescent wave of green energy flew towards the beastkin, infusing him with energy and healing whatever minor wounds he had.
+
+Not that it overly mattered, as the Sword Saint only upped the pressure as his blade was enveloped in a faint sheen of water as he pressed his advantage. While the time affinity was one the Sword Saint used far more now, he hadn’t neglected his original high affinity to water either. It remained a solid amplifier of his swordsmanship and fit his combat style extremely well. His form was fluid and reactive, and while water appeared deceptively gentle, when formed into an edge, it was more than capable of cutting through anything.
+
+Plus, water and time worked very well together. Water was incredibly stable and could react and fuse with many other affinities, and this even applied to something like time and space, where water gladly absorbed the time energy and allowed itself to be altered.
+
+This expressed itself in every slash of the Sword Saint containing the concept of erosion. Defenses would be sheared down, and the damage would be far more significant, as the lingering time energy made any wound more expensive to heal. Not necessarily more difficult, as water naturally also helped make the wounds very clean, but the lingering energy would make the wound take on an element of “being old,” and since the older a wound was, the more expensive it was to heal, the ultimate result was that the Sword Saint’s slashes were very problematic for healers to deal with.
+
+Miyamoto was on the offensive, quickly switching between both targets to never allowing either of them to rest or take advantage. His slashes left traces of water where echoes of his sword lingered within, creating small barriers that could block his opponent’s slashes while also leaving openings for the Sword Saint to explore.
+
+The wood elf kept using nature and life affinity techniques while the beastkin proved himself quite talented when it came to earth and gravity, making his blade feel incredibly heavy and his body durable enough for the Sword Saint to fail inflicting wounds unless he struck with his actual sword and not just crescent waves of water.
+
+Trying to outright block the attacks of the beastkin remained unwise, as even the rain and rivers needed much time to erode through mountains, and it simply wasn’t worth the energy expenditure to use powerful skills every time he had to try to block an attack. Instead, he kept relying on his speed, which continued to far surpass that of the two of them. Not even necessarily because he was faster; their relative perspectives and connection to the flow of time were just... different.
+
+This was one of the benefits of the Sword Saint’s upgraded boosting skill. It not only increased his stats but also allowed him to “cut” through time, allowing him to be less affected by it than everyone else. He viewed his entire body like a sword, and he sought a blade that could cut through anything, even time itself.
+
+The result was that the Sword Saint experienced a world where time was slowed down to a small degree, which could increase or decrease slightly dependent on what he was doing and in accordance with his will.
+
+His Patron had vaguely compared it to Jake’s survival skill, which the Sword Saint had experienced the power of firsthand. That one severed Jake from the concept of time somewhat, slowing down the world around him as he moved faster. The Sword Saint’s skill was similar, yes, but to a far lesser degree, and rather than say the Sword Saint severed himself from the concept of time, it was more that he was moving through it faster than everyone else.
+
+Miyamoto preferred to view it through the lens of relativity. It was as if the Sword Saint were an object in extremely fast motion, making time pass more slowly for him than for others. Aeon hadn’t viewed this perspective as wrong either, though the very concept of relativity didn’t exist in the multiverse, seeing as the speed of light wasn’t a constant either. That didn’t matter much, though, as the Sword Saint’s comprehension and interpretation of the concept of time allowed the skill to be born and become what it was now.
+
+Granted, there was also a bit of insight from his Transcendence in there, seeing as his Transcendent skill was closely related to the concept of change and loosely to time itself.
+
+While it hadn’t quite crossed the boundary and surpassed a mythical skill, it wasn’t far off. His Patron had also said that, given it was the Sword Saint’s own creation based on his own comprehension, it was likely already at the level of one surpassing mythical, though it lacked something to pass the threshold.
+
+It was more than enough to deal with the elf and beastkin, though, as he continued dancing around them, finding their movements far slower than before as he landed strike after strike. Throughout, he kept an eye on the last person present, waiting to see if she would make a move.
+
+From the initial duels of pure swordsmanship, he knew the human woman was by far the strongest of the trio, and that he’d far from seen the peak of her swordsmanship. He simply wasn’t good enough to face her at her best, at least not without relying on skills and his other strengths.
+
+She continued to calmly observe even as her two comrades were slowly and methodically beaten. They fought valiantly, but ultimately found themselves completely outmatched. It also didn’t help that they clearly weren’t used to fighting together. Probably because they didn’t have to under regular circumstances. Individually, they were truly elites who could easily dispose of most parties from other major factions; it was just that the Sword Saint was one or two steps above that.
+
+Deciding to finish things, the Sword Saint upped the tempo and used more of his skills as it started to rain, further empowering his water-based attacks while slowing down his opponents. Rain of Time had naturally gotten far stronger after his evolution and subsequent skill upgrades. His opponents defended themselves as best they could, but in the end, they had few options.
+
+The Beastkin was blasted back before the water dragon descended upon the wood elf, who defended as best he could. Alas, before a great tidal wave, even the sturdiest tree risked toppling, and he was unable to hold on as he was blasted into the ground. When the remnants of the attack finally subsided, the wood elf was kneeling on the ground, his sword arm severed and his blade lying on the ground.
+
+Miyamoto could easily have finished him off, but he didn’t, as he instead turned to look at the woman. She met his gaze and smiled before looking at the beastkin.
+
+“Enough, you are not his opponent. You two retreat, and I’ll have my turn,” she said, the beastkin nodding a bit shamefully as he teleported down and helped the wood elf retreat away. Not that the elf needed help, as the Sword Saint had no intention of doing anything. His attention was solely focused on the opponent in front of him, and he could see that she was also looking forward to what was to come.
+
+“I keep saying it, but you truly are the Chosen of the Primordial of Time. I will admit, I had some misgivings hearing that a swordsman had been granted such status. It made little sense to me, but now I realize my misgivings were merely a product of my own ignorance,” she said, slowly drawing her blade. “Still, I do not acknowledge your self-proclaimed title of Sword Saint. Though I do shamelessly hope you prove that you truly deserve it.”
+
+“Then is there a need for more words?” the Sword Saint smiled, taking a stance. The woman smiled as the surrounding air shivered for a moment, her boosting skill activating before she disappeared.
+
+The Sword Saint shot forward, meeting her halfway as their blades crudely clashed in a sheer contest of strength. The woman’s smile grew as she was pushed back, but she quickly spun around and delivered a strike, forcing the Sword Saint to attack as she unleashed a flurry of slashes that the Sword Saint could barely defend against despite his incredible speed. While he was fast, so was she, and the level of momentum she built with her repeated attacks was beyond anything he’d encountered before.
+
+As she attacked, the air around them was slowly filled with glimmering wisps resembling starlight, causing the Sword Saint some unease, as he had no idea what function these served beyond creating a beautiful sight.
+
+They clashed several hundred times in quick succession, neither side gaining any advantage, though it was starting to lean towards the core disciple from the Sword Palace.
+
+Not wanting to entirely surrender all momentum, the Sword Saint switched things up as he unleashed a barrage of crescent slashes. He hoped to bait her in and take advantage, but she read his move and also gladly retreated as she raised her sword toward the sky.
+
+“Please be careful with this one,” she said, still smiling as her sword and body were bathed in light. “Luminous Blade: First Dance.”
+
+Her blade extended into the sky like a thin beam before she swung down. The Sword Saint quickly dodged to the side as the extended blade continued past him and cut a fissure in the ground as far as he could see. He was about to be disappointed at her having used such a simplistic attack, but Miyamoto should have realized... this was a dance, not a simple attack.
+
+She spun in the air as the light of her blade flickered, and the Sword Saint barely had time to dodge as a horizontal slash sought to cut him in two. Just as he was about to try to counterattack, a second blade shot down from above, despite the horizontal slash not even having finished.
+
+The glittering motes of light all began to shine brightly as the core disciple swung again, this time making three blades manifest: one above, one horizontal, and one rising diagonally from below.
+
+Miyamoto barely dodged and stabbed towards the woman, shooting out a piercing beam of water, but during her dance, she effortlessly avoided it while unleashing her fourth slash, making four blades cut through the sky, all of them with only a mere moment’s delay between them, and all carrying the power to cut him in two.
+
+Having to take a risk, the Sword Saint charged towards the core disciple as he took a deep breath. He dodged the four blades mid-charge, losing two toes on his left foot in the process, but it was more than worth it as he got close enough.
+
+Mid-flight, he grasped his sword with both hands and took a stance to strike upwards as her fifth slash arrived, and this time, all of them came at the exact same time as a massive criss-cross of light blades filled the sky.
+
+Right before they were upon him, the Sword Saint spoke as she unleashed his attack.
+
+“Glimpse of Spring: Stormcut.”
+
+A single slash met the five luminous blades as the sky split apart at their clash. Light scattered as the Stormcut went through all five blades and seemed to cut the woman apart. Her body was split in two, but right then, they both faded away like wisps of light as the Sword Saint felt something from the sky above.
+
+He reacted instinctively as he retreated as quickly as he could, and just in time. A whirlwind of glowing sword slashes descended where he’d just stood, cutting through the air and all the way down into the ground, where the millions of small cuts proceeded to dig a hole.
+
+Looking up at the sky, she saw the woman floating there uninjured as she spun yet again, her long hair dancing through the air as she propelled herself down to clash with him yet again.
+
+Their blades met several hundred times as both unleashed skill upon skill, trying to gain an advantage, but neither side could land any decisive blows. Both knew the other was holding back, as naturally, if there was a First Dance of the Luminous Blade, there had to be more, right?
+
+At the same time, it was known that the Sword Saint was a Transcendent, and he’d yet to use that either, in part due to the backlash that came from doing so. He could invoke the Scorching Summer, but to do so would mean he’d find himself significantly weakened afterward and likely in a very perilous situation. Miyamoto believed his opponent was in a similar situation. Hence, they faced each other while holding back their strongest trump cards, while nevertheless unleashing much of their power.
+
+The sky was filled with streams of water and lingering starlight as their blades repeatedly clashed, momentum shifting back and forth as only minor injuries were inflicted. It was difficult not to smile as the Sword Saint could rarely find such interesting opponents, and the longer the fight went on, the more impressed he found himself.
+
+Using his divine skill, he improved at an incredible pace, yet whenever he believed he had found an opening, his opponent instantly closed the opening and adapted. In other words, while he was growing in real-time, so was she.
+
+Unfortunately, some good things had to come to an end, and after their blades clashed for the final time and both created distance, realizing in unison that things had to sadly end here.
+
+“Alas,” she sighed, the Sword Saint nodding in regret as he also lowered his blade. “The vermin have arrived.”
+
+It shouldn’t come as a surprise, but their fight had drawn quite some attention, and for a while now, people had lingered nearby, with this number only increasing the longer their fight went on. By now, the Sword Saint had detected over a dozen who were no doubt waiting for either side to achieve a decisive victory, hoping the winning side would be left severely injured, giving them the opportunity to step in.
+
+“A shame,” the Sword Saint shook his head. “It appears this isn’t the stage we’re meant to perform on today. Too rowdy an audience.”
+
+The woman nodded as she motioned with her hand, making the elf and beastkin move to her side as her eyes never left Miyamoto.
+
+“It was a pleasure to meet you, self-proclaimed Sword Saint,” she said with a smile as she bowed. “Introductions should also be in order. I’m Xiurong, Daughter of the Swordsoul Daolord. I hope that the next time we meet, we can dance without interruption.”

@@ -1,0 +1,173 @@
+---
+id: d5b8988f-87e6-5c0c-ac36-01dd05e617a6
+page-type-slug: story-chapter-royal-road
+title: "721. Archangel Part Four"
+slug: 0127-721-archangel-part-four
+partOf: salvos
+position: 127
+ownLength: 1470
+unit: words
+publishedAt: 2024-11-05
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1886985/721-archangel-part-four"
+royalRoadId: "1886985"
+---
+
+721. Archangel Part Four
+
+It was the Spirit Lord.
+
+As a child, Edithe had always been curious about him. There were plenty of tales— fables and stories about the Immortal King Alexander’s journey to meet with the Spirit Lord. However, other than that, there was never any story that focused on the Spirit Lord himself.
+
+There were the occasional writings in the temples about how the Spirit Lord united the Spirit Plane. But that was it. There was nothing about the Spirit Lord’s description or name or abilities.
+
+So Edithe was only left with unanswered questions.
+
+Until now.
+
+Her entire being trembled as her gaze was fixed on the seemingly Human-looking man standing there right before the crater. Despite the tempest of corruption swirling around him, he remained calm, with a small smile on his face.
+
+But it wasn’t a smile out of happiness or arrogance or any other emotion. It was like his lips naturally formed a hint of a smirk even with a neutral expression.
+
+He looked young. Like he was Daniel’s age. And while he wasn’t handsome, he wasn’t ugly either. But most importantly, he looked nothing like what Edithe thought he could’ve looked like. She thought he could’ve been a giant, or maybe a being made entirely out of mana— more similar to the Archangel.
+
+And yet, it didn’t matter what she thought.
+
+Here he was.
+
+The Spirit Lord.
+
+Or Soli, as the Archangel called him.
+
+All the gathered [Ophanims] bowed towards him, while both Willy and Druma backed away in reverence. The Archangel landed across from him as he casually strode forward, ignoring the Corrupted Heavenspace that was rising from the ground behind him.
+
+The Archangel smiled savagely as it spread its arms wide.
+
+“So we finally meet, you self-proclaimed lord of all Spirits! I never thought you’d ever show yourself to me. I always thought you were too scared, sending your annoying [Seraphims] to dispose of me. But finally— here you are!”
+
+Edithe watched as the Archangel licked its lips and produced a giant hammer made out of the iridescent aura wisping off him. Soli ame to a halt right before the Archangel, before slowly opening his mouth.
+
+“Iudex—”
+
+The Spirit Lord started. And the Corrupted Heavenspace slammed its tendril down at him, cutting him off. Edithe blinked, taken aback by this.
+
+The Archangel’s eyes flickered. Willy and Druma paused. And Centina just raised a brow.
+
+“Was that supposed to happen?”
+
+The [Evolved Centinel] asked. And the Corrupted Heavenspace screeched as it flew into the air, pulling its tendrils back. But before it could fly any further, a barrage of beams rained down upon it from the [Ophanims] in the air, obliterating it completely.
+
+Edithe looked up, watching as the [Ophanims] bore down on the corruption once more. And when she looked back at where the Spirit Lord had been standing—
+
+He was still standing there, completely unscathed.
+
+A translucent blue sphere protected him. A simple-looking barrier. But it was more than enough to withstand the Corrupted Heavenspace’s attack.
+
+So he ignored it. He didn’t even glance back. His gaze was still fixed on the Archangel the entire time. He left the [Ophanims] to deal with the corruption.
+
+“Iudex.”
+
+The Spirit Lord spoke simply as he placed his hands behind his back in parade rest.
+
+“I have ignored your trail of destruction for centuries, giving you a chance to give up your ways and see the light. But today, you have killed my creations. And for that, you will pay.”
+
+“So killing these things was enough to draw you out? I should’ve targeted them sooner, honestly.”
+
+The Archangel chuckled as it strode forward, twirling the massive hammer over its head. In return, the Spirit Lord shook his head.
+
+“Unfortunately, while I would have loved to personally attend to your demise, I have other far more pressing matters to attend to.”
+
+And that made the Archangel pause.
+
+“Wait—”
+
+It raised its head, its eyes growing wide as it stared at the Spirit Lord. Edithe frowned, not seeing what the Archangel was seeing.
+
+“You…”
+
+The Archangel started as its gaze darkened. Its breathing quickened and its voice grew deep.
+
+“You dare mock me?”
+
+It bellowed, shaking the landscape. Edithe shrank back at that.
+
+“You dare challenge me with this… this… this sham?”
+
+The Archangel continued as it pointed at the Spirit Lord. And the smile on his face didn’t waver. He just calmly met the raging Archangel’s gaze.
+
+And the Archangel screamed, its voice causing even the corruption to startle.
+
+“DO YOU TRULY BELIEVE YOU CAN BEAT ME WITH MERELY A VESSEL?!”
+
+“A… vessel?”
+
+Edithe blinked when she heard that. But she didn’t get an answer from any of her friends.
+
+The Archangel panted as it pointed its hammer to the ground, and the Spirit Lord just tilted his head in response.
+
+“Yes.”
+
+For a moment, all was silence. Edithe almost forgot about the raging corruption in the background— she almost didn’t see the blinding lights of the [Ophanims]’ attacks.
+
+And the Archangel raised its head as its face contorted in anger, screaming as an outpouring of iridescent light wisped off its body.
+
+“YOU MAKE A MOCKERY OF ME— YOU MAKE A MOCKERY OF THE NEXEUS! YOU MAKE A MOCKERY OF THE ARCRAEM! AND FOR THAT, I WILL KILL YOU!”
+
+The Archangel’s body blurred as it shot forward, its voice echoing all around Edithe.
+
+“[Godly Essence Of The Judge Ordained By The Arcraem].”
+
+The Archangel’s words came like a whisper. By the time Edithe could even comprehend what those words meant, the Archangel was already next to the Spirit Lord, swinging down with its blazing hammer.
+
+“FACE ME WITH YOUR REAL SELF, SO THAT I CAN GRANT YOU THE PERDITION OF A MILLION DEATHS!”
+
+The Archangel screamed as its hammer struck the simple barrier protecting the Spirit Lord. It was a powerful attack. More powerful than anything Edithe had ever seen coming from the Archangel before.
+
+The ground beneath the Spirit Lord’s feet cracked open from the impact. But even as the earth shattered and gave way, he stood his ground.
+
+Soli didn’t even budge.
+
+The Archangel screamed as he forced his hammer down with even more force, and the barrier protecting the Spirit Lord crackled. But it was the hammer that began to crack first, before shattering.
+
+Edithe’s eyes grew wide as the Archangel’s weapon broke apart with a flash of light.
+
+A pulse shot out, sending the Archangel flying back into a nearby mountain range. Edithe watched in horror as the Archangel crashed through a dozen or so mountains, causing each and everyone of them to collapse.
+
+Meanwhile, the Spirit Lord remained standing where he was with the same smile on his face.
+
+And the Archangel shot into the air, emerging from the rubble of the collapsing mountains. It brought its right arm in the air as it screamed.
+
+“[THE RIGHT HAND].”
+
+A giant golden hand appeared in the air above the Archangel where its right arm was. It laughed maniacally as it swung down, and the golden hand came crashing down into the Spirit Lord.
+
+Raising its left hand, the Archangel pointed towards the outpouring of corruption.
+
+“And— [Touch Of The Apocalypse].”
+
+And Edithe could only gape as the swarm of corrupted entities swirled up into a storm above the Archangel. They broke apart and shattered and became a single tempest of corruption which it redirected down into where the Spirit Lord was being crushed.
+
+The swirling corruption came crashing down, filling the landscape with a blinding light.
+
+“DO YOU TRULY THINK YOU ARE ALL-POWERFUL? DO YOU TRULY BELIEVE YOU CAN PLAY GOD? THEY CALL ME THE MADMAN, BUT YOU ARE THE ONE WHO IS TRULY INSANE!”
+
+Edithe could hardly even comprehend what was going on. All the while, the Archangel cackled as it continued its assault on the Spirit Lord.
+
+“I ACT MERELY ON BEHALF OF THE ARCRAEM! WHATEVER IT WILLS ME SHALL BE DONE! AND IT DECREES THAT YOU DIE—”
+
+And then a pulse of light overcame the landscape, washing over the tempest of corruption. All at once, the corruption was dispelled as the golden hand was obliterated. And standing down there, still unharmed, was the Spirit Lord. His barrier was gone, but his small smile remained.
+
+And this time, Edithe almost thought she saw a trace of arrogance in his expression.
+
+The Archangel blinked a few times, realizing its attacks had been dispelled with ease, before it conjured a lance.
+
+“I WILL KILL—”
+
+It started, only for Soli to point at it.
+
+“Fall.”
+
+The Spirit Lord said simply.
+
+It was only a single word. It was not an attack, nor was it even a Skill. But in an instant, the Archangel came crashing down to the ground as it screamed in terror and agony.
+
+And the battle was already over.

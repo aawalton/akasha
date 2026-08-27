@@ -1,0 +1,149 @@
+---
+id: 5b820a28-2163-54e0-b604-fa5ab3e65879
+page-type-slug: story-chapter-royal-road
+title: "Chapter 605: Common"
+slug: 0173-chapter-605-common
+partOf: rise-of-the-living-forge
+position: 173
+ownLength: 1729
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3514855/chapter-605-common"
+royalRoadId: "3514855"
+---
+
+Olive’s eyes fluttered open.
+
+Fragmented memories drifted through the back of her mind. She could recall flickers of… something. A brilliant gold light. Searing pain. Power and change. And then — nothing.
+
+Even though her eyes were open, the image before her was blurry and distant. She blinked heavily, screwing her eyes shut before letting them open once again. This time, the world felt a little more in focus. The ceiling swam above her. It slowly coming to a stop as more of her mind slotted back into its proper spot.
+
+There was something soft beneath her. It was warm. Comfortable.
+
+She was in bed.
+
+Her entire body ached. Especially her right arm — but not in the ache of a wound. It was closer to the feeling of a really, really good workout. Every single part of her had been strained to its absolute limit.
+
+When did that happen? What’s—
+
+Then Olive’s eyes went wide.
+
+She remembered.
+
+Drawing in a sharp breath, Olive jerked upright. She sat in a small room. There was a window just to her left, covered by gentle curtains, and a door across from her cracked slightly open.
+
+But she wasn’t alone.
+
+Sitting just a few feet away from her bed, one leg crossed over the other and a book in his hands, was Two. The man glanced over to her. He didn’t seem particularly surprised — or worried, for that matter.
+
+“You’re awake,” he observed.
+
+“What happened?” Olive asked, her heart still pounding in her chest. “I went into the Leyline. Did it work? Is my class—”
+
+“Calm yourself,” Two said. He closed his book, then set it down on the ground by his side. “Nothing went wrong. You just had a very difficult time of things. You still need to rest. Your body is exhausted. Panic will do you far more damage than good.”
+
+“Nothing went wrong?” Olive repeated. The words almost sounded distant, as if they were coming out from someone else’s mouth. She glanced down. Her hands had bunched up the sheets at her sides as if they were trying to strangle it to death. She forced herself to let go. “Are you sure?”
+
+“Yes,” Two said flatly. “I am sure. But your arm did not make things easy. You were within the Leyline for longer than most. I nearly pulled you out before you had completed Sunsetting. Were you someone else, I may have.”
+
+Olive looked down at her wooden arm. It didn’t look any different than before. She flexed her fingers. It still worked just as it had. Evidently, Sunsetting hadn’t done any damage to it.
+
+I remember going into the Leyline… and then nothing. Did you try to kill me, you bastard tree?
+
+“What happened?” Olive asked, looking back up to Two. “I can’t remember it. None of it. Not the Leyline. Not anything. I just went in… and that’s it.”
+
+Two’s head tilted to the side. “Not even your meditation afterward? The volcano?”
+
+“Volcano?” Olive repeated. She blinked. Then she shook her head. “No. Nothing. Just the Leyline. Did my arm try to strangle me or something?”
+
+“It was not a physical fight,” Two replied. “I suspect it tried to overpower your subconscious and assume control over your body. That was little surprise. I expected it to do such. That was why we ensured your resolve to be sufficient. And it was. You succeeded. The toll was just far higher than I expected.”
+
+“Toll?” Olive asked. That didn’t sound good at all. She wiggled her toes. To her relief, they worked perfectly fine.“Am I going to lose control of my body or something? What do you mean?”
+
+Two coughed into his fist. “Sorry. I should have worded that better. I simply meant that your energy is spent. Sunsetting is never simple. Reshaping your class is already difficult. But with a foreign being attempting to fight you the entire time… the process is considerably more difficult. As I said, it could have gone very badly. It nearly did. But what matters is that it did not. You remain in control.”
+
+“Right,” Olive said slowly. “Did you somehow know I would succeed?”
+
+“Know?” Two tilted his head to the side. “No. I was waiting to see if I would have to kill you. I had faith that you were strong enough to win… but we did have to make sure. Congratulations. You succeeded.”
+
+“What?” Olive exclaimed. She nearly leapt straight out of bed. “You were waiting to see if my arm crushed my mind and took over my body or something? You—”
+
+Two let out a snort of laughter.
+
+Olive let her hands drop. Her eyes narrowed. “You’re screwing with me.”
+
+“Yes,” Two said. “I am. I would have pulled you free from the Leyline if it looked like you were losing yourself. But your arm is the one that had to surrender. I would wager to guess that the merge between your mind and your arm is now far more complete. The Leyline does not allow those that survive its power to leave in pieces. You are one.”
+
+Olive flexed her hand again. Then she turned it over. The arm didn’t really feel all that different — but she couldn’t help but note that there were no mental suggestions to try and violently murder Two.
+
+Is the curse completely gone? Am I actually—
+
+No. I am still here. Do not sound so pleased about my potential death.
+
+Olive let out a huff. “You’re wrong. It’s still here. And now it’s pissed that I was happy it was dead.”
+
+“Angry, perhaps. But can it influence you?” Two asked. “I would wager not. Those thoughts are now yours.”
+
+Olive paused for a moment. Two was right. The arm was there… but it wasn’t the same as it had been. It didn’t feel like there was something attached to her anymore. The thoughts weren’t coming from the arm itself. They were within her own head… and they were nothing more than words.
+
+“Holy shit,” Olive muttered. “You’re right. It can’t control the arm anymore.”
+
+I can if you let me. You should—
+
+No.
+
+And, to Olive’s surprise, that worked. The voice faded away. It was still there, of course. But there hadn’t been been a fight. She hadn’t had to force it back. It had simply obeyed her. A grin split her features.
+
+“I trust you have confirmed my words?” Two asked.
+
+“Yeah,” Olive said. She pulled her blanket back slightly, confirming she was still clothed, then threw it off and swung her legs out of bed. Her body still ached, but the relief she felt was so strong that it was enough to completely make her forget about it. “How did you know?”
+
+“You are not the only one who has dealt with such issues. There are others who have had… pieces replaced. I have heard that their Sunsetting was not an easy one,” Two said. He hesitated for a moment. Then he shook his head. “But that is not my story to tell. Aside from the pain, how do you feel? Are there other gaps in your memories?”
+
+Olive thought for a moment. Then she shook her head. “No. I think everything else is there. It’s just the Leyline.”
+
+“Not entirely uncommon,” Two said. He clapped Olive on the shoulder. “Congratulations. You have joined the ranks of the Sunsetted. We will keep you here a short while longer. You had a much more difficult time than the rest of the Menagerie thus far, and it will be good to ensure you recover properly before heading back. One or two more days will be sufficient.”
+
+“Are you expecting side effects or something?”
+
+“Expecting? No. But you took a great deal of damage within the Leyline. Our healer has already seen to most of it. But soul damage cannot be so easily repaired. We have experience with it. As talented as Anna is, you are in better hands here for such matters.”
+
+Olive shrugged. Then she immediately regretted it. “Ow. Shit. That’s fine with me. As long as the Menagerie is fine? They don’t need me, do they?”
+
+“Eleven has reported that things are going smoothly for them.”
+
+“Good.” Olive let out a relieved breath. “Then I don’t mind sitting around and sprouting roots as I vegetate for a little while. I’m exhausted.”
+
+“As expected,” Two said. He rose from his chair. “Now that you have woken, I will not harass you. I just wanted to ensure you were in good shape. Move slowly when you next wake. You will find yourself considerably stronger and faster than you expect.”
+
+“Isn’t that a good thing?”
+
+“It is right up until you sprint into a wall,” Two replied. “Oh — one more thing. I will suggest that you avoid using any magical energy you have garnered. You need to let your body finish recovering from the changes. There will likely be more than you think.”
+
+“More than I think?” Olive repeated. Her eyes narrowed. “What exactly does that mean?”
+
+“I don’t know,” Two said with a shrug. “But you merged two existences into one. That will never be a simple process. I would not worry about it. The changes will likely be improvements. Just rest. You will find them in short order.”
+
+He turned to leave .
+
+“Is that because of the other guy that had missing parts or something?” Olive asked. “What happened to him?”
+
+Two paused. For a moment, he didn’t reply. Then he glanced back at Olive.
+
+“You will have to clarify that question.”
+
+“What happened when the other guy with missing bits got Sunsetted?” Olive asked. “What changed?”
+
+“A lot,” Two replied. “But I suspect he will explain that himself. Before you leave, he would like to meet with you. You can ask all you wish of him then.”
+
+“He’s here? Still?” Olive blinked. “It’s one of Setting Sun?”
+
+The corner of Two’s lips twitched and he let out a small laugh. “That’s one way to put it.”
+
+“What?” Olive asked. Her brow furrowed in confusion. “Why are you laughing?”
+
+“One of the Setting Sun,” Two said. “That is more accurate than you think.”
+
+“One of the…” Olive’s eyes went wide. “You mean—”
+
+“Yes,” Two said. “Once you have recovered, One would like to speak with you. It seems you have more than a few things in common.”

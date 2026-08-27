@@ -1,0 +1,351 @@
+---
+id: 2eeda802-52b9-5107-9b03-09e2707b6434
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 485"
+slug: 0185-the-path-of-ascension-chapter-485
+partOf: the-path-of-ascension
+position: 185
+ownLength: 6405
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3228201/the-path-of-ascension-chapter-485"
+royalRoadId: "3228201"
+---
+
+Chapter 485
+
+The venue, or rather Meadow, given the control auctioneers normally had over their auctions, deeply understood there were few things that could stand shoulder to shoulder with a set of gear made by Madam Renaissance. As such, they didn’t even try to compare, instead resetting.
+
+“To get things started, let’s do a few quickfire auctions. In this bag I have ten potions ranging from Tier 20 to Tier 40. As with all items today, these items are considered Tier 35, allowing anyone to bid without additional fees, so don’t miss this chance to pick up a bargain. Each potion will start its bidding at one Tier 1 mana stone and no reserves will be accepted. One bid at a time everyone! Good luck! Because first up is a Tier 26 Berserker’s Strength potion.”
+
+With such a bidding system being basically random, everyone in their room joined in cheering for the brief moment one of their bids made it onto the podium.
+
+Vinnie even won a Tier 26 healing potion, inadvertently offending Melinda with his excitement, leading to her waxing quietly about the fate of healers being replaced. He in turn then managed to apologize in the worst way possible, to everyone else's amusement.
+
+The antics only quieted down as Meadow’s next introduction distracted the rest of the room.
+
+“These next few items will be of interest to the leaders here today, nobles and business alike. Our first lot are a thousand sets of Tier 1 seedlings, though that might be something of a trend for these next few lots. In this case the seeds are the very same key ingredients needed to make Jaqui’s Clarity of the Stars potions. A few drops will give hours of mental clarity, allowing for increased learning ability without any side effects, like mental fog, afterward. On the Capital there is a waiting list of six months for each potion, with families fighting over each and every one to help their scions excel, and it can all be yours today. Bidding starts at one Tier 35 mana stone!”
+
+Matt looked to Liz but Aster covered his eyes. “Nope! I need a new commodity so you can’t fight me for it.”
+
+Pulling her hand off his face, Matt helped start mischief by plopping the deliberately frigid appendage on the distracted Melinda’s back, earning a squeal.
+
+“Fine, you can have this one but you need to sell some in our lands.”
+
+“Obvously!” Then under her breath she added, “Can’t saturate my markets too fast.”
+
+“Secure the win before bragging.”
+
+Taking his words to heart, Aster entered the bidding, pushing the reserve from two hundred and fifteen Tier 41 mana stones all the way to two Tier 42 mana stones.
+
+As others repeatedly tried to unseat her bid, causing it to increment, the attempts slowed down as they failed to change the top bidder with each new bid.
+
+It was only when the bid climbed past Tier 42 without unseating her that everyone else gave up, securing Aster and her duchy a new export.
+
+The following lots were equally interesting, though Matt didn’t feel the need to buy a duchy's worth of alchemy furnaces, even if it was a relative bargain.
+
+Allie ended up buying the licences to a line of armor. Though she intended to allow one or two of her nobles to specialize their industries, rather than keeping it for herself or specializing her entity duchy.
+
+Matt happily chatted with her about how much support to give the lucky nobles for optimal results when Liz grabbed his attention by excitedly shaking his knee.
+
+“I think we should get this one. I’ve wanted to play with the recipe for a while but independent licences are far too expensive to make it worthwhile.”
+
+Reviewing his [AI], Matt watched Meadow introduce the item.
+
+“Same as our first lot, we are also selling the core seeds needed to craft Valstora’s Body Cleansing potions, along with the distribution rights to sell the potions. This only marks the third time Valstora has sold the rights, so don’t miss this chance to buy one of the best general detoxifying potions. Poisons, toxins, venoms, these potions can handle a lot of harmful effects that target the body. And for those that it can’t fix outright, its secondary effect of suppression has proven to be a life saver. Bidding starts at fifty Tier 40 mana stones.”
+
+The price didn’t aggressively rise, but it did steadily do so. By the time Matt had looked into the potions, they’d reached fifty Tier 42 mana stones.
+
+“What do you think?”
+
+Seeing the price and looking at their duchy’s account, Matt shrugged. “I can’t see why we shouldn’t try. Even if they make the potions recipe and seeds available for free tomorrow, we’d still have a market with how useful they are. And, well… that seems unlikely.”
+
+Punching the air, Liz continued to bid, eventually securing it for just under a Tier 43 mana stone.
+
+The following auctions were aimed at crafters with rare and excotic metals being sold in fast lots.
+
+After that, however, Meadow’s attitude signaled a change in the pacing and an item was once more brought out with great fanfare.
+
+It was a light gray rock with not a single discernible or distinguishing feature. A Tier 33 Natural Treasure, but its energy signature set it apart from uncountable other riverside stones on countless worlds.
+
+“Ladies and gentleman, I only need three words to describe this, so I won’t bother with more. Beyond that, the bidding starts at one Tier 40 mana stone.” After waiting a moment she whispered to the room, "Universal upgrade material.”
+
+Even in their room there was an audible intake of air as everyone processed what had been said.
+
+The unremarkable stone could be used to fulfill the Tier up requirements of any growth item, up to the stone’s Tier. A boon for anyone with a growth item they hadn’t been able to find the Tier up requirement for, the stone represented the end of eons of suffering for one person. At least in theory, given the stones' relatively low Tier. It was possible some Tier 45 had a Tier 33 or lower weapon they hadn’t been able to Tier up to survive ascension, but Matt didn’t believe it would be too many.
+
+Where the stone differed from its lesser cousins was its ‘universal’ description. Most Natural Treasures that allowed someone to circumvent a growth item’s otherwise tedious upgrade requirement typically came with restrictions of their own. Most of the time they were on what the Natural Treasures could be applied to, what type of material they could be used in place of, or more frequently, both. The restrictions, and the resulting items it could be used with, were more often than not the deciding factor in such Natural Treasures’ evaluations.
+
+Matt had been on the look out for an upgrade bypass treasure thanks to one of the side effects of the Talent that could merge his neutronium ingot to his sword. It scrambled the next required upgrade material, but the real problem was that it made it a lot harder for Seekers to identify said material remotely. That was what they normally did when they needed to Tier up their growth items, and not being able to do so could be risky.
+
+It wasn’t an insurmountable problem, especially with their level of resources. It would be a hassle and potentially somewhat of a timesink depending on how lucky or unlucky he got.
+
+A universal upgrade material that could bypass all of those hassles tempted Matt deeply. The closest he’d found so far during the auctions was a Tier 32 petrified mouse paw that could only be used on metallic items. It had seemed perfect until he checked and found it relied on the item having a specific composition within a range that his sword wouldn’t fall into after its modifications, rendering it useless to him.
+
+This stone offered him the chance to completely circumvent any potential issues.
+
+The issue was cost.
+
+While they had a massive discretionary budget between their various identities, Matt couldn’t spend as endlessly as his Talent would allow for. There were too many other items they wanted to buy in the auction, and the Minkalla auctions wouldn’t be using the Empire’s economic system. Anything he wanted there would require hard currencies such as mana or essence stones, so he wasn’t willing to spend everything on something he might not get.
+
+As the price of the stone crept past fifteen Tier 45 mana stones Matt had given up, but to everyone's shock, the other bidders must have agreed the price had risen too high and backed out as the counter ticked down to zero, securing him an unexpected win.
+
+With a small worry taken off his plate, he relaxed further. If he ended up not needing it he could resell it to one of the other bidders. Their needs were unlikely to be resolved in the short term if they were willing to bid so much for a Tier 33 item.
+
+A dozen items later, Matt was only half listening as Meadow described it. “Wood cultivators beware! This item is special. A remedy that tastes just a little bitter knowing what could have been!”
+
+The tip of a once gigantic tentacle of gnarled wood, the Tier 32 Natural Treasure lightly glowed due to the sheer amount of energy packed inside.
+
+“This beauty here has three abilities. It's something of an oddity with the lucky buyer only able to choose one of the following effects. First, and the one nearest and dearest to my heart: the ability to draw nutrients from nearby plants to rapidly heal. Second! The ability to petrify one's wooden form, thereby increasing one's resistance to both fire and sharp weapons greatly. Next time a pesky fire mage starts throwing fireballs for fun, you can give them a good show.”
+
+At that point, Matt had nearly lost all interest, but her following dismissing words ripped him out of his conversation with Aster and Kyle.
+
+“Finally, if you need to move a lot of mana around your tree form, the third effect is perfect for you with a ludicrously strong mana throughput effect. Bidding starts at one Tier 40 mana stone!”
+
+Matt jumped to the privacy bubble, taking a good look at the unremarkable looking Natural Treasure. Looking into the provided information, he found it was far better than anything else he’d found. Finding one of the two pieces he needed took a weight off his shoulders.
+
+Unable to see most bidders' identities, the few he could see were all related to the factions involved in the Knightly Order revival. That was interesting, and made him contemplate possible larger uses for the vine. But when it came to his own armor, he couldn’t afford to be nice and step aside.
+
+It was an auction, and so they’d bid.
+
+When the bidding reached one hundred and fifty Tier 44 mana stones and the timer was finally able to start running down, Matt made his first and only bid setting his reserve at one Tier 45 mana stone. He was prepared for the price to rise further, but it was unnecessary. The final price only reached three hundred and twenty Tier 44 mana stones, taking a massive weight off his shoulders.
+
+Falling back into the couch bonelessly, Matt enjoyed the moment before opening his eyes and rejoining the room.
+
+Finding a calm moment while Susanne was bidding on a monocle that improved eye based skills, he used the Ascender chat he once more asked them to see if anyone in their Great Powers was known to have Tassal of Lament. Even if someone hadn’t found one in the current Breach, he was sure at least one group between all seven Great Powers had in a vault.
+
+Or he hoped. The Tassal of Lament was all he needed to make his armor a reality and he could almost taste it.
+
+Unable to rush things, he returned his attention to the auction and waited to see if his fishing would catch something. When the tentacle arrived at his room, he carefully inspected the energy. It would more than fulfill JR’s requirements, with enough room the raven might be able to do something interesting.
+
+Instead he allowed himself to relax.
+
+Amusingly, as the auction went on, the fewer items their room bought. They ultimately weren’t the target audience for most of the highest Tier items, but that let them turn the event into a show, which Matt enjoyed thoroughly. Or so he thought, as the final item caught their and everyone else's attention when a small orchard of four trees were brought out all at once.
+
+Making a production of it, Meadow smirked as she stood on her tip toes and covered her eyes with a hand. “I think I see a cousin or two in there. Hmm, maybe not now that I’m questioning it. If they start waving suddenly when I turn my back, I’ll be relying on you all to catch the pranksters and let me know. Everyone underestimates how playful young dryads can be, but I know because I was the worst of them.”
+
+When the chuckles died down, she sighed, “A pity they aren’t dryads, but pseudo Natural Treasures, so it isn't impossible. But it's so rare as to not exist today, so let us not lament what can not be. Besides, even without becoming a dryad, I doubt anyone will be disappointed in these lovely trees. Dukes and Duchess I will give you a warning now, start gathering your resources, if you thought the Dobrescu family spent a lot, find something to brace yourself. These can secure a ducal line’s prosperity… forever, and as such will come at a corresponding price.”
+
+After the hubbub around her died down, she continued, “As per our agreements with the sellers, each tree will be sold as individual in ascending order of Tier. Though, as everyone has no doubt already realized, the trees are heavily warded to obscure their Tier, leaving much to speculation. So while I can’t tell you what Tier the trees are, I can give a showcase of the fruits. Alexander, if you would.”
+
+As the trees plotted in spatial containers came to a rest behind her, Matt and everyone else watched a Tier 21 man hobble his way across the stage.
+
+Once he arrived next to Meadow, his haggard appearance stood in sharp contrast to her vibrance. Without preamble, he launched into an explanation while dropping his spiritual protections. “Two weeks ago in a delve I was struck by a spiritual attack which caused moderate damage that has since bled into my physical body.”
+
+Smiling, Meadow withdrew an ornate preservation container from a slit in reality, opening it to reveal two vibrant pears.
+
+The first was Tier 22 and slightly smaller, but that didn’t stop everyone’s interest as they scanned it and the Tier 7 fruit beside it, trying to gleam what made the pseudo natural Treasure so valuable as to be sold as the final item on the final day.
+
+Meadow didn’t keep them waiting. “As per the inter-Great Power exploration treaties relating to unique resources, only ten percent of the stable specimens were harvested, which is why there are only four available for auction today out of seven they brought back. However, all of the ripe fruit was harvested by the team who stayed at the location and observed enough to give us a clear picture of the tree’s properties. Alexander you may begin whenever you are ready.”
+
+Finally given permission, the injured man grabbed the pear and tore into it while looking at the ceiling, careful not to let any of the juice go to waste. He even went as far as to eat the core and seeds, to the lower crowd's audible distress.
+
+Mid-observation, Matt had to duck as he nearly caught a foot to the head as Melinda jumped over the couch to get a better view of Alexander as the energy in the pear started repairing the physical damage his body had suffered.
+
+With most healing methods, such as spells, that relief would have been temporary thanks to the underlying spiritual damage remaining untreated and requiring repeated applications.
+
+That was, in fact, the main way to heal spiritual damage in most cases: relying on the spirit slowly matching the flesh. Directly healing spiritual damage was far too rare of an effect to be widespread. In Alexander's relatively light case, that would have meant hourly healing spells unless he could self-sustain a strong healing spell for the five or so years Matt estimated it would take his spiritual wounds to recover. The third option was resorting to waiting in agony for a few centuries to allow his spirit's natural healing process to take its course, but few could handle that level of pain.
+
+Except, contrary to his expectations, the spiritual damage was being healed right along with Alexander's body. If he wasn’t wrong, the fruit was using his body as a method to affect his spirit, making each pear a supremely valuable healing treasure. And that was before any refinement, which might find untapped potential of immense value.
+
+As Liz excitedly slapped his thigh, he knew they’d be doing their best to buy one of the trees and started tabulating the total amount of money they had in all of their accounts.
+
+However, the pear wasn’t done expending its energies.
+
+In Alexander’s case, the energy in the Tier 22 pear was exactly enough to fully repair his body and spirit in large part thanks to how recent the injuries were. That explained why he’d been chosen out of the other random people suffering from spiritual damage just within the Capital. The shock value of the demonstration alone had been worth the cost of a single pear, and Meadow hadn’t tried to hide the team's harvest of fruit. They probably had two or three dozen pears at the lower bound, with the upper limits reaching into the hundreds ready to be sold the moment the auction ended.
+
+Though, Matt doubted that the trees had such an abundant harvest, given the normal trends among pseudo Natural Treasures. They were famously infertile, slow to breed, and the fact they’d only harvested seven trees out of an entire planet reinforced that idea.
+
+Meadow let the wash of comments from the various attendees wash over her until she raised the second pear. “Our next applicant was a random civilian from the Capital but their identity is being protected. Please respect it.”
+
+As she said her final words two Tier 46 aura’s rippled out threateningly, guards from the venue, but they were almost instantly dwarfed by the Tier 50 presence that loomed over everyone. Then, as if the invisible pressure had never existed in the first place, it vanished, allowing everyone to breathe again.
+
+Clearly surprised by the additional backup, Meadow recovered well and waved forward a Tier 5 woman wearing thin cloth clothes and a high Tier mask with a smile. “A lower Tier pear would have a similar effect, but the effect takes much longer and seconds matter on this stage more than most.”
+
+Not that anyone rushed the Tier 5 as she sat down directly on the stage, though many surely wanted to. Clearly prepared beforehand, she ate the entire pear in a near identical display to what Alexander seed’s and all.
+
+Without an injury for the pear’s energy to be spent on, Matt didn’t know what he expected, but it wasn’t seeing her body's ‘impurities’ being expelled in a fleshy goop. It was a very familiar sight and one he didn’t need his spiritual sense to tell him smelled foul.
+
+No, Aster did that for everyone as she excitedly described their run in with the Tree of Perfection and its triplicate effects.
+
+While she retold the story to their friends who were only observers at that point, Matt and everyone else in the audience who were interested in buying a tree tried to put the two displays together. Where it was possible that the pears had two powers it was incredibly unlikely.
+
+Having used the original, Matt realized the differences faster than most of the others, though Melinda was a close second with her medical background.
+
+The Root of Perfection had given Matt a body similar to what a peak Tier 14 could achieve, locking him into a state of peak physicality and granting an increase in physical capabilities. The pear hadn’t done that to the girl, despite repairing a lifetime's worth of wear and tear her body had accumulated; its effect was a one and done thing, with no shield from future injuries and damage that life would bring.
+
+Despite that, the effects of the pear put her well ahead of her peers who would only begin to start the process after Tier 10. Where they would need to dig away at a fully compacted pipe of sludge, she would only need a quick spring cleaning before going into ‘maintenance mode’.
+
+If the pears were true Natural Treasures, such a limitation would have killed their value. As a pseudo Natural Treasures, something whose production could be expanded, that limitation became its saving grace.
+
+With a flick of a finger, Meadow cleaned the girl, though Matt knew from experience she’d feel dirty for days, even after showers, until she got used to her new bodily sensitivity. “As everyone saw, the lower Tier pears have a side effect of purging the body of impurities. While that effect isn’t too applicable for the higher Tier variants, there is one more effect— the true effect if you will. This is the primary effect with everything else being a ‘side effect’.”
+
+Looking down at the masked girl, she gently smiled, “Same as you practiced, don’t worry about any mistakes, just go through the steps.”
+
+Nodding the Tier 5 closed her eyes and took several deep breaths. While seconds in reality, the auction's higher Tier participants were wishing the auction house had picked a higher Tier who could have moved a tiny bit faster.
+
+Thankfully, they didn’t have to wait long.
+
+While the Tier 5 started going through a mana control exercise, a time stamped recording of her going through the same movements only ten minutes ago froze everyone in their seats as they spotted the differences. Far from a massive improvement, the girl’s mana control was only a fraction of a percent better than in the recording, but the amount wasn’t what had Matt and Liz next to Melinda at the bubble.
+
+With each swirl of mana, they watched as the pear’s energy improved the girl's spirit, making it slightly stronger and more robust. The effect was only as great as her mana control, less than a full percent, but that lever was all an alchemist would need to make potions with a stronger effect.
+
+At least in theory. Though such a foundational increase in power would be desired by anyone with the connections for their scions even without improvements.
+
+With a wave, Meadow sent the girl backstage, returning to Tier 25 speeds.
+
+“I’m sure everyone has more questions, but before I release the prepared information, I have a few more things to say while I have everyone's full attention. First, the seller has full AI recordings for the entire find, along with the discovery process. They submitted it to the auction house and three independent entities who all confirmed our initial verification: They harvested seven trees as per the ten percent rule at the time of their arrival. They also gathered pollen samples of all existing trees, returning with far more genetic stock than what the trees might indicate. As part of that, with each of the trees being sold today, you are also purchasing the four most genetically diverse trees that remained behind. That will allow everyone to self-sustain their own orchard, should they not desire to trade externally.”
+
+Seeing the reaction she wanted from the higher balconies, Meadow smiled encouragingly. “As for the trees not being sold here, one has already been sold to the Emperor, one is being reserved for the Minkalla auctions, while the final tree is being kept in reserve by the seller. We will release the information and give everyone a moment to review it and get your accounts in order. Additionally, the trees will be sold relative to their Tier in ascending order but the trees will remain obscured, leaving the exact Tier unknown. The bidding for all lots will start at fifty Tier 45 mana stones.”
+
+Finally getting the additional information about the tree, many of Matt’s suspicions were confirmed.
+
+The unknown team were self aware enough to acknowledge that they’d gotten lucky finding the trees between breach bubbles, having checked a random and out of the way Tier 37 world choosing not to enter the breach bubble in the third layer after with the likes of Lila and other various other higher Tiers.
+
+Thanks to observing harvesting team realizing the pear’s value almost immediately, they’d studied the trees for over a decade before eventually returning to settled space with their prize. In their natural habitat, almost anywhere on that world as befitting their pseudo spiritual nature, the trees produced anywhere from five to twenty pears every three year cycle. That put them slightly under average for tree pseudo Natural Treasures but given the power of the pears that was hardly a surprise.
+
+He’d been prepared for far worse.
+
+Better yet, the reproductive rates of the trees seemed surprisingly strong. According to the information the tree’s had a one percent chance of having a fruit bearing a fertile seed per cycle. In nature with the local Tier’d wildlife feasting on the fruits without care or distinction, most special seeds were eaten the same as the other seeds. They followed a more traditional fruit bearing pattern with offspring being only semi-related to the parent trees with none of its mystical powers.
+
+In settled space none of that would ever be a concern. That meant on average, a new tree could be bred every century. That which was fantastic as few if any trees should have problems reaching Tier 15 under constant supervision and care.
+
+Doing so wouldn’t be cheap but the costs would eventually cover themselves.
+
+In fact… The more Matt strategized, the more he realized that he wouldn’t necessarily mind the lower Tier trees. If rapid Tier advancement wouldn’t be required it further lowered the expenses. A pyramid of trees across the Tiers would make for a better orchard, able to cater to everyone, which had more long term value than fewer higher Tier trees.
+
+Most non-hereditary nobles wouldn’t be willing to invest quite so much with such a long return of investment, but they were.
+
+Especially if potions could be made to better leverage the pear’s effects. Though even with Titan’s Torch at his disposable, Matt wasn’t confident in a potion being developed in the short term. Pseudo Natural Treasures were notoriously hard to wrangle alchemically speaking but he was confident someone would figure it out. He’d be more than happy to buy any such patent given the pear’s effect.
+
+Meeting Liz’s eyes, he saw mirrored excitement as she rushed out. “You call Lila and get her to bow out. I’ll try to find out if Aiden really hasn’t returned yet or is hiding and waiting to snatch this.”
+
+Allie squealed at the implication she and Zack didn’t need to be bribed to not bid but no one paid her any mind as everyone else in the room finally understood Matt and Liz were actually going to bid for one of the trees.
+
+Not wasting any time, Matt initiated a voice chat with Lila directly, speaking as soon as she accepted the link, “We’ll get you in the first generation of offspring trees if you don’t fight us for it. Deal?”
+
+“Fine! But you need to help me kick Wun’s ass for not pointing us to this planet. He leads us to fucking sponges when there were money trees sitting in the middle of nowhere?! I—”
+
+Matt rolled his eyes as he dropped the link. He wasn’t going to tell Lila what she already knew, the sponges were far more reproducible. She’d win or at least break even in the long term through volume alone and nothing was stopping her from putting cuttings up for auction. He knew that wasn’t what she cared about, even if that was what she was complaining about.
+
+Looking at Liz, Matt nodded at small copse of trees still on the auction stage. “Are you thinking what I’m thinking?”
+
+Both human Liz and phoenix Liz nodded vigorously in unison, “What happens if it's pulling in fire essence rather than neutral essence and if that can give someone a fire inclined spirit? Yeah, me too.”
+
+Matt opened his mouth but lacked the words to reply. He hadn’t considered that now glaringly obvious point at all. His mind had gone to accelerating the trees' growth in her terrarium orb to quickly increase production but her idea derailed that train of thought well enough that he nearly missed the official start of the auction.
+
+Taking one of her free hands, Matt gently kissed the back, playing up the act a little but meaning every word. “I hadn't even thought in that direction. I’m glad you are there to cover my back.”
+
+“Always.”
+
+Aster, having extricated herself from a tangle of limbs on the couch, joined them at the bubble as Meadow brought forth one of the trees.
+
+“With the upper bounds known, let us start the auction with the lowest Tier tree. Starting at fifty Tier 45 mana stones. Gooooood luck everyone!”
+
+The price immediately jumped up to eighty four before slowing down as it broke ninety, then one hundred before picking back up.
+
+Looking to Liz, Matt questioned, “Do we want to buy the lowest Tier one or wait for the second?”
+
+Chewing on her lip, Liz flipped the question to Aster, who shook her head. “I get where your head’s at, but I don’t think the second lot will be any cheaper. Let’s wrestle for the lowest Tier tree and hope we are right.”
+
+Not that confident himself, Matt nodded to Liz, wanting to establish their upper limit, but she’d already made a bet.
+
+“Are you really willing to walk away from something like this?” Her grin asked everything her words didn’t.
+
+“You’re right.” Matt didn’t argue, though they did have a fairly firm limit in the two Tier 47 mana stone area. Not because he couldn’t eventually pay back any over extension on their finances, rather that it would open them up to scrutiny they didn’t want or need.
+
+If the price got that high, it would be much less hassle to beg, bribe, or bully Manny until he coughed up a seedling. However, Matt doubted the price would reach that height, if only because without the other Ascenders fighting them, few ducal families beyond the royals could expend as much liquid capital as they could, even if their backings were technically wealthier.
+
+As the price reached two hundred and twenty, they seriously entered the bidding, adding another fifty Tier 46 mana stones to the price at once, taking top bid.
+
+Seeing their reserve be chipped away one mana stone at a time, Liz tapped the air five more times, increasing their reserve further.
+
+As the visible price ticked over to five hundred Tier 46 mana stones with a changing of the top bidding identification number, the atmosphere subtly shifted. That didn’t stop the price from rising further and breaking into the Tier 47 bracket.
+
+With that barrier broken the price once more surged and it quickly reached one hundred and eighteen Tier 46 mana stones in addition to the Tier 47.
+
+Then two hundred.
+
+Liz tapped the air five more times.
+
+Two hundred and fifty.
+
+Then, all the sudden, the number jumped to two hundred and eighty six, finally unseating them.
+
+Mid exhale. At the end of their dominance, the crowd was forced to catch themselves as Liz reclaimed the podium, forcing the current bid to two hundred and ninety seven mana stones.
+
+Whispers and speculation about their identities abounded, but Matt and everyone else in the room were focused on the countdown time. For the first time since the auction had started, more than five seconds passed without a higher bid, leading their room to mirror the crowd.
+
+Their copying was a little too good as, after the fifth second, the price increased all the way up to three hundred Tier 46 mana stones with their identification back on top.
+
+Grasping at both Aster and Liz, the three of them waited, not breathing or even moving too much as they watched the countdown tick downward one agonizing second at a time.
+
+When they passed the ten second mark the crowd started to murmur but it wasn’t until they reached the five second countdown that Matt started to shake.
+
+Or it may have been Aster shaking him. Or Liz shaking Aster which shook him. Or maybe he’d started it in the first place?
+
+Matt didn’t know and didn’t particularly care as the countdown reached three.
+
+Two.
+
+The timer reset as the bid incremented twice in quick succession before stopping once more.
+
+Matt interpreted that small increment as someone trying their luck but upon seeing their reserve higher than the two additional mana stones they were willing to bid, they gave up.
+
+One Tier 47 mana stones along with three hundred and eighteen Tier 46 mana stones.
+
+Three.
+
+T—
+
+Once more the price jumped but the second time it was pushed all the way to three hundred and twenty mana stones without their name disappearing.
+
+Three.
+
+Two.
+
+One.
+
+Zero.
+
+Matt almost couldn’t believe they’d won after the several close calls and it took a moment for his brain to catch up with everyone else.
+
+Unwilling to wait, they dissolved the privacy bubble for the first time. Liz stepped onto the balcony commanding their tree to rise with a wave while the room took firm notice of their identities.
+
+At the same time, she disabled warding on the tree, allowing everyone a first glimpse.
+
+Having just spent a considerable portion of their combined fortunes, Matt was even more careful with his inspection than everyone else, looking for any issues or flaws. After a thorough scan down to the molecular and spiritual level, his conclusion was: the tree was perfect.
+
+It was only Tier 6 but it was as close to a prime specimen as anyone could expect of something that had grown in the wild. Only after being assured their investment was good did Matt look at the tree’s bounty, ecstatic to see thirteen pears ripe, or close to it, waiting to be plucked.
+
+With both reveals combined, the crowd burst into a loud chatter but Liz only held up a hand to silence everyone after a dozen people unveiled their booths and started shouting offers for the next generations of trees at her.
+
+“Once we have an orchard going, Titan and myself are more than willing to sell, but we don’t intend to make promises or plans based on speculations.”
+
+Her words silenced everyone until a new bubble near the bottom opened up and a thoroughly mussed Leon and Mara flew out of their room and into Matt and Liz’s top floor suite.
+
+Mock glaring at the two where no one else could see it, he almost immediately broke as the two shamelessly started looking at the tree as Liz reengaged the privacy bubble. As fast as she was, she wasn’t fast enough to stop a single grain of sand from sneaking its way inside and expanding into a familiar, if smaller than normal, dragon.
+
+“Well, that is pretty. When can I expect mine?”
+
+That prompted Mara and Leon who immediately started blinking as if they were going to cry at the thought of not getting a seedling. The act might have worked but they couldn’t commit to the bit, as their attention kept being drawn to the young tree.
+
+Seeing Liz getting protective as Mara looked like she wanted to perch on one of the branches, Matt stepped forward, “Everyone can get their tree in due time but Liz wasn’t joking about not making any plans right now. The first thing we need to do is get a caretaker. In fact…”
+
+Stepping through the barrier, Matt spoke to the still chattering crowd, having seen Meadow was giving people time to gather more funds for the next tree, so him speaking out wasn’t interrupting. “For entirely unrelated reasons, Our duchy will be hiring a few botanist specialists. Both Talented and non-Talented of at least Tier 15 with the relevant skills should apply to the application I’ve set up.”
+
+Returning to their suite, he continued, “We’ll talk to the experts before we decide anything.”
+
+Having reached an agreement that everyone could live with the conversation turned into speculation about the potted tree.
+
+Aster was almost immediately proved correct, as the second tree sold for just over two Tier 47 mana stones. While the third reached a staggering two Tier 47 mana stones and five hundred and seventy Tier 46 ones, it set a new record. However the other buyers hadn’t wanted to advertise their identity.
+
+Though that streak of two was broken almost immediately in the fourth and final auction. Not because of anything illegal, rather it was due to Peter Wyatt disabling his privacy bubble and calling out to Ingrid Oberg to team up mid-auction. With her last minute assistance, he was able to secure the win, but his very public move ended up costing him almost four Tier 47 mana stones, draining both of the duchies finances in a grand finale.
+
+As the celebrations kicked off, Matt quietly pulled Leon into one of the side rooms.
+
+“What’s up, kid?”
+
+Smiling at his father-in-law, Matt didn’t beat around the bush. “I need a pep talk. I know there is a fairly large chance that when JR goes to take the me out of me, I’m going to panic. I was hoping you could give me the talk now and I can remember it later.”
+
+Sniffing, Leon forced out a smile. “Ye—. Yeah. I can do that.”

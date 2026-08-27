@@ -1,0 +1,117 @@
+---
+id: 857d92f1-c5c9-5df1-bbc4-a60d0718de06
+page-type-slug: story-chapter-royal-road
+title: "Chapter 482: Loyalties"
+slug: 0490-chapter-482-loyalties
+partOf: savage-divinity
+position: 490
+ownLength: 4062
+unit: words
+publishedAt: 2019-07-24
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/385110/chapter-482-loyalties"
+royalRoadId: "385110"
+---
+
+Seated atop his jade throne, Jorani sipped his plum wine and watched his courtesans dance in their flimsy, feathered dresses. Mere ribbons of silk loosely plaited together with strands of jewels, their enticing dresses were decorated with colourful plumage in an erotic, netted weave which covered little and concealed even less. Blondes, brunettes, red-heads, and raven-haired beauties all pranced and twirled before him to the steady beating of drums, fluttering their flirtatious eyes and smiling their seductive smiles as he feasted on the sight of their glistening, borderline naked bodies, a delectable exhibition of ivory, bronze, ebony, and every natural shade in between, for his tastes were indiscriminate and his lust insatiable.
+
+Round and round they went, shaking their hips and bouncing their breasts as they cavorted about his throne, each hoping to catch his eye and win his affections for the night. The mere presence of so many beauties had him raring to go, but his girls worked so hard on this dance number, it would be rude not to let them finish and give each a chance to catch his eye. He couldn’t stand the thought of scorning any of his beauties, but alas, he was but a mortal man and prodigious though his stamina might be, he could not satisfy hundreds of women in a single night. Ten or twenty should do for today, but he had to be fair and not play favourites, for there was no crime so great as leaving a beauty unloved. Such was the burden of being a fair husband to so many women, but all beauties loved a hero, so being the heroic and magnanimous man he was, he could not bear to spurn any woman’s affections.
+
+As the music came to a climax, Jorani’s restraint wore thin and he threw himself at the first of his chosen beauties, sinking his fingers into curvy buttcheeks and pressing his face into pillowy breasts as he lifted her into his embrace. “Jorani,” she cried, her voice filled with heat and ardour which stoked the flames of his desire. Working his mouth against her smooth, satiny skin, his tongue sought her succulent nipples and his hips ground hard against her, but try as he might, he could find no purchase on either end. “Jorani!” A man dying of thirst, he groaned and redoubled his efforts, but to no avail, with each passing second of agonizing abstinence drawing him closer and closer to madness.
+
+“Jorani! Wake up, you idiot.”
+
+Coming to with a start, he found himself hugging his pillow in the gloom of his yurt, all too keenly aware of his throbbing erection and a wet stain beneath his cheek. Then he noticed the shadowy figure standing beside his cot with blankets in hand, the deplorable criminal who woke him from the best dream he’d had in months. Daxian the ‘Virtuous’, a poncy, pompous, pig-fucking cake-eater if there ever was one, someone who was everything Jorani wished he was but wasn’t. Tall, muscular, and handsome where Jorani was short, scrawny, and rat-faced, with bony, gaunt cheeks which were better described as prominent and sculpted when mirrored on his older half-brother’s near identical face. When the two of them stood side by side, it was like looking at two identical portraits painted by two different artists, one a grand-master of his craft who composed works of art for the nobility, and the other a two-bit hack who sat around in the park drawing distorted caricatures for a few coppers a piece.
+
+Well, it made sense. Daxian was raised by their Ancestral Beast sire and probably had no lack of food, shelter, women, or guidance, whereas until two years ago, most days Jorani barely had enough food to fill his belly much less two coppers to rub together or time to practice the Forms. Still, Ma did her best and he loved her for it, so he wouldn't trade places with his half-brother for all the coin in the world.
+
+Thankful he’d gone to bed fully clothed, Jorani wiped the saliva from his face and shifted his pillow so he wasn’t lying on the wet spot anymore. “Fuck off,” he groaned, his eyes half-lidded and weighing a thousand kilograms each. “Already had me turn at guard duty and the sun ain’t even up yet.” Just a few days ago, he fought off a horde of Defiled and watched a Water-Awakened Demon run roughshod over the bossman’s Experts, so Jorani had precious little happiness in his dreams of late and was particularly irked by the interruption.
+
+Maybe if he fell asleep quick enough, then he might catch up with his heavenly beauties and pick up where they’d left off...
+
+The world flipped over and Jorani landed hard on the bamboo-panel floor of his yurt. Coming to his feet with a snarl, he was greeted with a slap to the face which sent him reeling in place, but after months of non-stop battle on the front lines, he was made of sterner stuff. Using his momentum, he delivered a spinning backhand which slipped through Daxian guard, or rather as he soon discovered, was let through on purpose. Hard knuckles met harder steel and Jorani emitted a strangled shriek of pain as the Runic breastplate not only blocked the full force of his attack, but also rebounded it back towards him. Skin broke and bones cracked, but Daxian was not one to leave things be as he grabbed Jorani by the neck and lifted him off his feet. “Done dreaming?” he asked, ignoring Jorani’s desperate attempts to kick himself free. “You want to defeat me? Come back after training for a hundred years and you might have a chance.” Dropping him like a sack of rice, Daxian sucked his teeth and said, “We’re leaving. Pack your weapons and a change of clothes, but nothing else. We’re travelling light.”
+
+“What? We just got back to Sinuji yesterday afternoon.” And he’d been planning on paying Sai Chou a visit in the morning. She wasn’t one for conversation and she hated gambling, but she was pretty as a flower in bloom and had yet to outright reject his attentions, so he figured he might as well persevere. “Where’s the bossman bringing us now? Back to Suihua?”
+
+“We’re not moving on Rain’s orders,” Daxian replied, always using the bossman’s name when out of earshot, probably because it grated on the ‘heroic’ Major’s nerves to take orders from a ‘mere’ Second Grade Warrant Officer. “Thank the Mother for small favours, but we’re finally leaving the little savage behind. We’re taking a ‘family’ trip, just you, me, and the Ascendant. Doesn’t that sound nice? Maybe the next time you piss him off, he’ll forget himself and kill you out of hand, which means my days of lecturing that runty bastard will be over and done with. All my life, I’ve never met a smarter idiot than Rain and hope to never meet another again. He expects me to condense ten-thousand years of teachings into a handful of afternoon lessons, then has the gall to only half-listen and criticize. Where does he get off thinking he’s smarter than the greatest military minds of an era? ‘Shock and Awe’ my ass, like the Defiled will give two shits about loud noises or dying in droves...”
+
+Already stuffing clothes into a rucksack, Jorani was also only half-listening to the man complain, and by the time he processed what was going on, Daxian was already dragging him across the camp. “Wait, hold up,” Jorani said, unable to free himself from Daxian’s steely grip. “I thought GangShu was using the bossman to avoid Imperial orders. What’s gonna happen there?” As unpleasant as Sinuji and the front lines were, there was no way following his deadbeat sire around would be any better. Sure, the rat-bastard might find them cozier accommodations, but Jorani’s interests lay in keeping his hide intact, and hanging around an active-duty Ancestral Beast was hardly conducive towards longevity.
+
+It was one thing when GangShu was acting as shadowy protector, but if he had actual orders to carry out... Jorani had heard stories of clashes between Divinities, and they all had two things in common: widespread destruction and enormous body-counts consisting mostly of innocent bystanders.
+
+“You okay Jor?” Running after them in his nightclothes with staff in hand, Ral’s ears flopped about as he glared at Daxian, ready to tear the man limb from limb if Jorani required it. Having circled around on her quin, Chey also joined the party alongside a handful of Jorani’s most die-hard cutters including Erkin, Awdar, Jinoe, and Ronga.
+
+A shame Kimi and Ciro weren’t around, but here in disappointing reality, the ladies wouldn’t bat an eye if Daxian ground him into meat paste. “I’m fine, big guy,” Jorani said, touched by the depths of Ral’s concern. The oafish lug was always looking out for him, and it shamed him to know he wasn’t half the man or a tenth of the friend Ral thought he was. “Nothing to worry about. Daxian here is just bringing me out on an errand with GangShu. Where you say we going again?”
+
+Sneering with an arrogance only he could pull off, Daxian barely glanced at Jorani’s thugs. “I didn’t say and they don’t need to know.”
+
+“Right.” Asshole. “It’s fine Ral, I’ll be back quick as can be. Ye’ll hardly even notice I’m gone.”
+
+“...You sure Jor?” Brows furrowed in suspicion, Ral gripped his staff tight and growled at Daxian while following close behind. “He can’t take you if you don’t wanna go. We’ll stop him Jor.”
+
+More like catch a spear in the gut for trying. “Yea, I’m sure. Nothing to concern yerselfs with here, so back to bed with ye all.”
+
+“Okay Jor.” Ears and tail drooping something fierce, Ral stopped following and said, “You’ll be back fer new years, right Jor? Me and Chey gonna get married after, so you gotta be there.”
+
+Rolling his eyes, Jorani called back, “That’s over three months from now, Ral. Plenty of time to do what needs to be done and get back to drink you under the table on yer wedding day. You just make sure ye plan ahead and buy enough food and drink, ye hear? Ye take care now.”
+
+Waving farewell to his closest friend, he tried not to let his sorrow show as he followed Daxian away in silence. Leaving camp on foot, they walked for another fifteen minutes before Jorani finally asked, “Er... We’ll be back in time, right? Three months ain’t too long a time, but it ain’t short either...”
+
+Daxian didn’t answer and Jorani thought he was being an asshole again, but after a long pause, the older half-rat finally opened his mouth. “...Not sure. Wugang and Yelu Shi have been gone for five months now, and even allowing for the Abbot’s... eccentricities, they should’ve at least sent word back. If the Imperials interfered, then they’ll be keeping close eye on the Ascendant. If we’re lucky and move fast enough, then we’ll get there before an Imperial Dharma Protector moves in to intercept, but if they’ve got one nearby, then it’s anybody’s game. I don’t know why they’d go to so much effort to keep a masochist eunuch away from Rain, but the Ascendant looks after his own, so if the Imperials killed Wugang and Yelu Shi to keep them from delivering their message, then he’ll be out for blood.”
+
+Ha. Looks after his own, that’s rich. There were a dozen half-breed bastards running around the streets of Sanshu and Mother knows how many more elsewhere. Most died, and others ended up slaves like Anrhi and Sorya, but yea sure, GangShu looks after his own. Daxian the Virtuous, more like Daxian the Dumbass.
+
+With his incredulity dealt with and out of the way, the full weight of Daxian’s statement finally hit home and Jorani spent the rest of their hurried journey trying to weasel his way out of the trip, but Daxian would not be swayed. After bringing Jorani east through the morning gloom for the better part of an hour, their deadbeat sire finally stepped out of the tall grass and greeted them with a hollow smile, looking like a superior Daxian just like Daxian looked like a superior Jorani. Being the ugly, ass-end of this trio wasn’t great for his self-esteem, but it’s not like he had a choice in the matter. Grabbing Jorani’s rucksack and rummaging through it, GangShu sighed and threw it back. “Well me boy, ye any good at Lightening?”
+
+Blinking in confusion, Jorani didn’t understand why the rat-bastard had him dragged out of bed at this ungodly hour to question his Martial Skills. “Err.... I can do it, but not well. I dunno.” Truth was, there’d been a time when he’d have called himself a master of the skill thanks to all his practice climbing walls, trees, and other obstacles, but then, one lazy afternoon almost two years ago, he happened upon the Lady Mei Lin doing the obstacle course for fun. After seeing her hop over a ten meter wall and all but float back down to the ground, he didn’t even dare claim to be passable at Lightening, much less proficient.
+
+“Tch. Well, do what ye can.” Obviously not expecting much, GangShu merely shrugged and sighed while tugging at Jorani’s belt, as if checking it for weaknesses. “I’d leave ye behind, but I wouldn’t put it past the Imperials to go to all this trouble just to trick me into taking orders, so yer ass is stuck with me. I figured this fer a cushy job, lookin’ after me whelps while they tag along with a Bekhai brat, but I’ll be damned if this ain’t almost more work than it’s worth.”
+
+What a load of horse shit. Four months on the front lines and GangShu acted once, and this was considered too much work? Then again, the rat-bastard probably never worked a full day in his life, an Ancestral Beast Divinity who’d been reborn as one of the most powerful beings in existence. What did he know about hard work? Maybe he toiled day in and day out as a mere steel rat, but Jorani doubted it. They were scavengers by nature, cowardly rodents who got their name not from a predisposition to Awakening, but rather because they ate anything and anything even remotely resembling food, hence their full name, Steel-Stomached rats.
+
+He only found out a little while back, when he heard about the half-fox Gams and their penchant with the Blessing of Earth, but unfortunately, GangShu wasn’t just arrogant, he was pretentious too.
+
+While Jorani looked down on his sire, the rat-bastard threw his rucksack back at him, alongside two others. “Best tie those together tight and loop em around yer neck,” GangShu said, favouring him with one of his fake charming grins which usually set every man and woman in sight to simpering, but only filled Jorani with disgust. “Keep em above yer waist too, just in case ye shit yer pants.”
+
+Though annoyed he’d been relegated to luggage duty and made fun for it to boot, Jorani played along and did as he was told, because the alternative was to face the wrath of this horrifying beast in human form. Tying the knots tight, he looped the string of rucksacks high around his neck and said, “Good ‘nuff? So we goin’ anywhere or we just gon stand around?” Looking around, he asked, “Where the horses? Don’t tell me we gonna walk the whole way.”
+
+“Nah, not walk, but it’s good to know yer eager. Try an’ hang onto that too.” There was something about GangShu’s delighted smile and Daxian’s genuine discomfort which Jorani didn’t like, but it was already too late. Disappearing from before his eyes, GangShu appeared behind Jorani and grabbed him by the belt, while doing the same to Daxian on the other side. “Alright then. Lighten yer body and close yer eyes, else the wind’ll peel yer eyelids back. Ain’t a pleasant experience Cloud-Stepping without a Domain, or at least that’s what Little Virtue says.”
+
+“Wait, wh –”
+
+GangShu didn’t wait, nor did he lie, and as the ground shrank away before his eyes, Jorani found out first hand just how unpleasant Cloud-Stepping could be.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+How long they’d travelled for, Jorani couldn’t say, because as soon as they reached the clouds, he’d passed out from sheer fright. When he came to, his world was shrouded in darkness and his eyes felt like they’d been stabbed a thousand times with daggers, so dry he worried that if he shut them, they’d never open again. Fumbling at his hip for a waterskin, he belatedly remembered he hadn’t brought one and opened his mouth to speak, but only a wordless wheeze came out.
+
+Probably from too much screaming. Oh Mother in Heaven, the screaming...
+
+Before panic or pain could set in, someone helped him sit up and pressed something into his trembling hands. “Drink,” an unfamiliar voice said, but he was beyond caring as the cup reached his lips and the cool, refreshing liquid surged into his parched mouth and down his tortured throat. Sobbing in sheer joy, he silently thanked this kind, merciful stranger and drank two more cups of water before saving a mouthful to wash his eyes. The pain was unlike anything he’d ever felt before, but he powered through the agony and blinked again and again until his vision finally cleared. Not much changed as it was still dark, but he could make out shapes and dim colours in the darkness around him, so he knew it was lack of light and not blindness which kept him from seeing clearly. Carefully dabbing at his eyes, the sleeves of his clothes came away red with blood before he realized he was being Healed. The warm energy surged out from the stranger’s hands and into Jorani’s body, repairing the damage GangShu’s Cloud-Stepping had done to his eyes, lungs, and all across his body wherever the high winds and low temperatures had done extensive damage.
+
+Not a pleasant experience? Jorani would sooner let a horse pop his chrysanthemum than go through that again...
+
+The next thing he knew, he was lying in a dark, unlit room with the windows shuttered tight, but before he could sit up for a proper look around, his benefactor’s hand pressed down on Jorani’s chest. “Eh-Mi-Tuo-Fuo,” the voice said, kind and amused but holding a hint of exhaustion. “To save a life is better than building a seven-story pagoda, but if you get up and injure yourself again, then this monk will have no choice but to start construction.”
+
+“Thank you for your help.” Remembering something about eyes needing time to adjust after Healing, Jorani avoided looking too hard and limply clasped his benefactor’s hand, both to show appreciation and seek comfort. A soft hand, with a thin wrist and wrinkled skin to go with a dreadfully thin and hunched man, but he couldn’t make out any more. “Might I have your name, good ser? So I know who to thank. Also, where are my er... companions?”
+
+Chuckling, his benefactor replied, “This one is but a humble monk whose name is unimportant. You are here in the monastery, as are your companions. If you promise to remain still, then this monk will go fetch them.” Though he didn’t really want to talk to them, Jorani agreed and lay in the darkness until GangShu and Daxian shuffled in. Waiting until he was sure the shadowy outlines belonged to them, he said, “Would it have killed ye to suggest I wear an extra thick coat or something?”
+
+The figure on the left shrugged and Daxian replied, “No one ever warned me.”
+
+Not expecting such an embittered answer, Jorani faltered and choked back his stream of complaints. Yea, GangShu didn’t seem like the coddling type. “Well, whatever. At least we found the Penitent Brotherhood, and without Imperial meddling to boot. That’s something to be thankful fer. You find the others?”
+
+“Nah. They ain’t here. Hang on.” Growling almost imperceptibly, GangShu paused for a long moment before continuing, “It ain’t safe to speak fer long. Since the Imperials ain’t interfering, we gotta take a good long look at these monks instead. Turns out there ain’t just one monastery, but hundreds of em, all scattered amongst these mountains. According to the wrinkled baldy outside, Fatty didn’t know this on account of only bein’ an initiate, and since the monks don’t keep track of their Abbot, him and Beardy just up and left fer the next location, hoping to get lucky and find him there.”
+
+Fatty and Beardy? Wugang and Yelu Shi, probably. Poor bastards. “That don’t make sense,” Jorani said, so sleepy and comfortable he almost forgot himself. “Why didn’t they just leave the message and let the monks pass it along? Not like they had to deliver it to the Abbot himself.”
+
+“Or send word back to keep me informed like I told em to?” GangShu replied, giving Jorani’s shoulder a pat. “Least yer noggin’ still works, eh? It don’t always go so well when I bring someone Cloud-Stepping, what with how fast and high I like to run. A risk, but it kept us safe, ye see? Hard to go unnoticed while zipping about the Empire, and there a lot of hidden monsters lurkin’ about who can get real particular about uninvited guests.” Chuckling as if it were all a big joke, he said, “Anyway, long and short of it is, since yer eyes are broked and ye gotta stay in darkness fer a few days, I’m leavin’ ye here while I follow in Fatty and Beardy’s footsteps.” Jorani never thought he’d thank the Mother for blinding him, even if it was temporary, but GangShu wasn’t finished. “I’ll take Daxian when I leave, but he’ll double back after a bit to watch over ye while you squeeze these chanting baldies fer whatever information you can get. There’s something off about em, these monks here, but they seem mighty interested in you, what with all their questions, so do what ye can, got it?”
+
+“Sure.” Waving them both away, Jorani yawned and closed his eyes, exhausted from lack of sleep, his terrifying ordeal, and the subsequent Healing required to save his life. Seemed strange for GangShu to be so suspicious of monks, but he always said he was more rat than man, so he was probably suspicious of a lot of things. Maybe the scenery was so nice Wugang and Yelu Shi felt inspired to visit all the monasteries, or maybe they were tired of being called Fatty and Beardy so they were taking a much-needed vacation, but either way, the Penitent Brotherhood were well known across the Empire as devout Mother-lovers who spent their days whipping themselves bloody, likely in remorse of chopping their dicks off. What nefarious schemes could they possibly be up to?
+
+Muttering an insincere good bye, Jorani willed himself back to sleep and hoped his dreams would once again be filled with barely clothed beauties. Since the Imperials weren’t involved, he figured the worst was behind them. After a few days rest, GangShu would be back with Wugang and Yelu Shi in tow, and they’d all have plenty of time to slowly walk back to Sinuji in time for the new year celebrations. Then again, even if there wasn’t enough time, Jorani would sooner crawl back on hands and knees and pay for a second wedding for Ral than go Cloud-Stepping again, at least not before he had a Domain of his own, whatever that was. Man was not meant to fly, that much was sure, and if he had his way, then the clouds would stay firmly above his head for the rest of his life, no matter how short it might be.
+
+Hell, this wasn’t so bad. A nice little break from all the fighting on the front lines was just what Jorani needed, and who knows? Maybe there was a Penitent Sisterhood with an abbey nearby, and he could pay a visit to see how seriously they took their vows of celibacy.
+
+He wasn’t a fan of the bald look, but sex-starved women with whips didn’t sound half bad, and Jorani still needed a date for Ral’s wedding...
+
+Chapter Meme

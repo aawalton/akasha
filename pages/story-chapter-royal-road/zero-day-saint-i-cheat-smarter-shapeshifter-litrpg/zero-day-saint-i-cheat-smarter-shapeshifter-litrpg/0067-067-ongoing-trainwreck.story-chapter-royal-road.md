@@ -1,0 +1,217 @@
+---
+id: 5625f6c8-fdc6-59d9-aca5-d732bdb39e0c
+page-type-slug: story-chapter-royal-road
+title: "067 - Ongoing Trainwreck"
+slug: 0067-067-ongoing-trainwreck
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 67
+ownLength: 1729
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3780579/067-ongoing-trainwreck"
+royalRoadId: "3780579"
+---
+
+I was still in Angel's shape, and despite my efforts, I growled.
+
+"Very much what I expected," said Devil-Eve. "While Claire is doing her best to preserve her humanity, you are already well ahead, thriving and reveling in the carnage."
+
+I managed to steady myself. She was trying to rile me up. She was succeeding for now.
+
+"Can you hear this?" I tried to say through Queen's voice.
+
+She tilted her head. "Indeed."
+
+"What do you want?"
+
+"No appreciation for a visit by a sibling? What if I just wanted to watch over you, while your own Guides seem oddly unable to."
+
+I had noticed that both were oddly quiet. Potentially an opportunity. A unique opportunity.
+
+I turned my head away from her and studied my menus. I couldn't let her notice anything.
+
+"Nothing to say?" she said. "You aren't being a good host, I must say. I would have preferred if she hadn't killed the boy, by the way."
+
+And there it was. Garmr-touched Golden Retriever. My entire rotation today was a joke. They were all a repeat of that first night, now with new powers.
+
+"... Why?" I asked.
+
+Garmr was the guardian of Hel. The Norse Cerberus. The menu didn't show me what Garmr-touched would do. But if any shape allowed me to punish an intruder into my own home, it had to be this.
+
+"I'd have preferred if he had killed you. Or you him. She still thinks of you and how you'd react to what she does. Removing you would make things easier."
+
+I turned to face her and sat across from her on the couch. For a moment she tensed. I could hear a tiny spike in her heartrate. But no fear. Not proper fear.
+
+"Your attacks lack nuance. Predictable. Yet you might help me out, since my Guides seem to be distinctly unavailable."
+
+At that she perked up. "Oh? What wisdom can a real devil provide to you?"
+
+Now it was my turn to tilt my head. "Do I sense a certain animosity toward my unusual Guide?"
+
+"They aren't one of us and are pushing the boundaries. This won't go well for long. Your question?"
+
+"It is about this new shape I got." I switched out of my regular Golden Retriever shape into the Garmr-touched version. She slid a tiny fraction away.
+
+"Yes?"
+
+I skimmed over my menus. And found what I was looking for. A new ability.
+
+[Sentinel's Howl (Ability)
+
+Effect: Briefly staggers or paralyzes hostiles in earshot. Duration based on Charisma. Effect and duration massively increased against targets who are attempting to intrude, or have intruded, on a guarded location.
+
+Cooldown: 5 Minutes.]
+
+I leaned my head back, activated Sentinel's Howl, and howled.
+
+She didn't move an inch. She couldn't. Her eyes widened. Her heart was racing. I smelled the fear.
+
+"Does this work on devils?" I asked as I pounced on her.
+
+We crashed off the couch, and my teeth found her throat. I couldn't tell when my plan had changed. I had planned to kill her. I didn't.
+
+"Funny thing about retrievers," I said. "Even Garmr-touched, they keep the soft mouth."
+
+Her skin tasted of fear. I pulled back.
+
+"Didn't even draw blood."
+
+Devil-Eve vanished.
+
+Holy shit. That just happened.
+
+I jumped up on the couch and curled up. There was no way for me to tell the time in here. It was far too early in the morning to be up, but there was also zero chance I'd get more sleep today.
+
+The first night of the Apocalypse had felt like a train wreck to me. A one-time event after which everything would be different. By now it was clear that this crash was still happening, and it would be a long and bumpy ride.
+
+Across the room, Lucy manifested behind the counter. The way I was turned, I couldn't see them, but the sound was deeply familiar by now. They began fiddling with the machines there.
+
+"Good morning," they said cheerfully. Something about their voice made me perk up.
+
+I turned to take a look. I nearly fell off the couch.
+
+"What in the unholiest of fucks is that?" I asked through Queen's Voice. If Devil-Eve could hear it, Lucy should, too.
+
+Lucy looked down at themself, feigning innocence. They wore a maid's outfit. Perfectly tailored, as everything they showed up with. With a little apron. And a bow tie.
+
+"Oh, this? Felt fitting for the occasion. Also, I consider it positive reinforcement."
+
+My cooldown had finally timed out, and I canceled out of my shape. Which I immediately regretted, since I still had to examine all its traits.
+
+"What occasion? What behavior are you reinforcing?"
+
+A machine began rumbling. An espresso machine? They didn't reply until the rumbling came to an end. The coffee scent in the air intensified.
+
+"The behavior of not murdering my coworker. As for—"
+
+"You were here? Just now? The whole time?"
+
+"No, we tuned in at the very end. Gave me a bit of a spook, if I may admit."
+
+"You did very well there, Eve," Gabriel chimed in.
+
+Lucy went on. "As for the occasion. You are now firmly part of the one percent. I'd wager even more than that. Probably among the five richest people alive. Even got your own private army."
+
+I stood up and walked over to the counter. "What? How is that even relevant? I don't have any army, I have squatters in the basement. And I don't own shit. I'm definitely not a one-percenter."
+
+"Tomayto, tomahto. Even if you never find a crafter to make use of the materials at hand, you are now the steward over a significant cultural heritage. At least over those parts that are in human hands. The Blessing won't let you have your museums for free. And they are only not your army as long as you don't command them. Do you think they'd refuse your command if you just took it?"
+
+They presented me with a steaming glass of coffee on a small tray.
+
+"Latte macchiato, with a spritz of vanilla syrup."
+
+I took the tray. "Damn."
+
+"Decaf of course. Wouldn't want to return to old habits, would we? If you want stimulants, I could probably dig up several caches of drugs in this building."
+
+I took in the scent of the coffee. It might have been the best coffee I ever smelled.
+
+Then I looked up at their smile. And their dress.
+
+"You are fucking distracting me."
+
+They sighed theatrically. "And it worked. For a while."
+
+I pushed the glass aside and leaned closer. "And you tried to cover your scent."
+
+"Why would I ever need to do that?"
+
+"Because you smell like Gabriel."
+
+On cue, my supposed guardian angel manifested next to me.
+
+"I'm sorry that we weren't around to warn you about her."
+
+I pulled the glass back and took a sip. As expected, the heat didn't bother new Eve at all. I took a moment to process it all, as my guides waited for my response.
+
+"I don't blame you," I said. How could I? They were both hot as fuck. And they had a whole forced proximity thing going on. Proper goddamn enemies-to-lovers recipe. It stung, sure. But that wasn't rational.
+
+Both seemed to relax. Gabriel sat down next to me, while Lucy made more coffee for the two of them.
+
+"Just," I began. "Just tell me that all this—the entire tower thing. That it wasn't just a setup for this opportunity."
+
+Lucy reached across the counter and tilted my head up so that our eyes met. "It was not. I have not guided you here for selfish reasons."
+
+I believed them. They weren't supposed to be able to lie, but I was not sure if that would really stop them. But I believed them.
+
+"Was it because of the genius loci? Because you wanted me to know about the spirit in the tower?"
+
+Next to me, Gabriel shifted. This was news to her, too. Lucy just smiled. "Definitely 'maybe' to that. It reached out?"
+
+"It did. In my dreams. It appears to be very inexperienced." I took another sip. This was excellent coffee. "It called me mother."
+
+I leaned on the counter and faced Gabriel. "News to you?"
+
+She nodded, frowning. "I had no idea."
+
+"You rushed things," Lucy said as they placed a coffee in front of Gabriel. "You created an unexpected vacuum, and that can cause far-reaching side effects."
+
+They came around the counter, their own cup in hand, and sat down next to me. "You'll do well."
+
+"I'll need time to process this. I'll make my way over to the others. It's been a while since I joined them for breakfast."
+
+Gabriel reached out and squeezed my shoulder. "That'll be good for you. Don't isolate yourself."
+
+"I try."
+
+"The tower isn't going anywhere. After how you dealt with previous occupants, I think you'll have a couple of days before someone will make a play on it," Lucy said.
+
+"But you are sure someone will?"
+
+"73% sure. At least."
+
+I finished my coffee. "Guess I'll want to keep that shape around then. Feel free to finish your coffee. I'm taking the roof exit."
+
+I stood up and returned to the Garmr-touched Retriever shape. With Embodiment active, I accepted the first of my outstanding Task Rewards. Instead of 20% of a level, it instantly filled the Mastery bar that had appeared when I activated Embodiment.
+
+Huh. I'd have thought it would take more experience to master a shape. 'Garmr-touched Golden Retriever' appeared under my other innate shapes. I took note to ask Gabriel about this. From her warning, I was certain that mastery would cost me an entire level.
+
+Before I ascended to the roof, I opened local chat.
+
+["Claire. Leave before I return. I do not wish to be ambushed by my stolen likeness in here again."]
+
+I could have hunted her down. But I also didn't want to encounter her today.
+
+Operating the elevator in this shape was difficult but possible. I finally examined its properties.
+
+[Garmr-touched
+
+50% increased size
+
+50% increased Strength
+
+50% increased Endurance
+
+Sentinel's Howl
+
+Hel's Vigil]
+
+I checked the details on Hel's Vigil.
+
+[Hel's Vigil (Passive)
+
+Minor Regeneration when guarding a designated location or ally.
+
+Note: Minor Regeneration upgrades to Regeneration if it is already present.]
+
+Hah. I made one Hel of a guard dog.

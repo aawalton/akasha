@@ -1,0 +1,123 @@
+---
+id: 061bed9d-0661-5774-aa23-e39c62338894
+page-type-slug: story-chapter-royal-road
+title: "Chapter 480: Counting with Men"
+slug: 0047-chapter-480-counting-with-men
+partOf: rise-of-the-living-forge
+position: 47
+ownLength: 1632
+unit: words
+ownProgress: 1632
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2588705/chapter-480-counting-with-men"
+royalRoadId: "2588705"
+markedReadAt: "2026-06-29T19:59:56.949Z"
+---
+
+Arwin and the Infernal Armory ran a full set of diagnostics on Gehenna, examining every inch of the armor to see the extent of what Mask’s magic-stealing dagger had been able to accomplish.
+
+But, as it turned out, Gehenna hadn’t taken much damage at all. There were only a few thin, almost insignificant scratches on the armor’s surface. That in itself spoke to just how dangerous the magic-stealing daggers were. Any non-magical weapon wouldn’t have even been able to leave a scratch upon Arwin’s armor. Even most magical weapons would have been hard pressed to do anything.
+
+Fortunately, the damage was easy enough to fix. Arwin didn’t even have to do anything. In the time it took them to observe the damage, the armor had already passively fixed itself. The Armory also reported that Gehenna wasn’t about to run out of power and destroy itself anytime soon.
+
+But, just in case, Arwin and the armory kicked up the heat and forged several magical bracelets. He ate most of them, then gave the remaining one to the Armory to use as food for Gehenna when the time came. None of the bracelets were anything special — but there was just enough magic within them to stave off the hunger for a few more days.
+
+He was hopeful that they’d do the same for Gehenna when the armor got hungry. After all, it was the same as him. It needed to consume magical energy. And they weren’t the only ones. Consuming magic was a trait they both shared with the world itself.
+
+That thought brought a small frown to Arwin’s face. Whatever the Adventurer’s Guild was up to within the Guildwall… they’d find out. Just not yet. They weren’t strong enough — and their biggest advantage right now was that the Guild had no damn idea who he and Lillia were.
+
+As long as that held true, he wasn’t going to overplay any of the cards in his hand. Taking things steady and building up their forces was probably the only way they had to challenge an organization as powerful as the Guild.
+
+He shook those thoughts off as he finished his work in the Armory for the day. After bidding it farewell and the best of luck with the Devil’s Den, Arwin set off to group back up with the rest of the Menagerie.
+
+The tavern was empty when he stepped through the door. Lillia wasn’t opening it back up to the public until tomorrow. That was probably equal parts due to giving them all some breathing room and so that she would have time to do her preparations for the next round of meals.
+
+Unsurprisingly, she was in the kitchen when he returned, hard at work preparing what seemed to be dough. Arwin didn’t bother her. They’d have time to talk later, and he didn’t want to interfere with her flow state.
+
+He’d never known just how long some recipes could take to make before he’d met her. It gave him a whole new level of respect for chefs. He probably would have been more than content to stand near the door and stare at her for a few more minutes if he hadn’t felt someone else’s gaze boring into the back of his neck.
+
+Arwin turned.
+
+Eleven sat at a table in the corner of the tavern — but she definitely wasn’t staring at him. She was slumped across the table, hair splayed in every direction as her back rose and fell with long, slow breaths. An occasional twitch shook her body.
+
+She looked fast asleep.
+
+With anyone else, that probably would have been the end of the story. But this was Eleven. There wasn’t a single moment in time when she wasn’t trying to fall asleep… and there was nobody else in the room paying attention to him right now.
+
+The rest of the Menagerie were scattered around several tables, all caught in their own conversations. None of them were looking at him.
+
+Arwin made his way over to Eleven’s table. The chair across from her had already been pulled out just enough for him to sit down. He didn’t miss the message, lowering himself into it and leaning back as he got comfortable.
+
+“Arwin,” Eleven said, mumbling his name into the table. “Five more minutes?”
+
+“If you want,” Arwin said with a small shrug. He didn’t have anything else to do today. A little rest didn’t sound like such a bad idea.
+
+“Really?” Eleven asked in surprise — though not enough surprise to lift her head from the doubtlessly comforting embrace of the hard, wooden table. “Nobody’s ever said yes to that before.”
+
+“What’s the point of asking if you don’t think anyone would say yes?” Arwin asked.
+
+“It’s out of habit at this point. Figured it couldn’t hurt to try. I just never got this far,” Eleven said.
+
+“Do you want the five minutes or not?”
+
+“I want em.”
+
+Arwin shook his head, a small grin tugging at the corners of his lips. He kept true to his word, staying silent for just about five minutes. His gaze trailed across the tavern, passing over all the members of the Menagerie within it, and a smile pulled at the corners of his lips.
+
+Only once five minutes had passed did he pull his attention back to his own table. He cleared his throat.
+
+“I’d say just about five minutes have passed. We’ve got some things to discuss, Eleven.”
+
+“Five more minutes?”
+
+“Now I know why people say no,” Arwin said with a laugh. “Get up. You can sleep after this.”
+
+Eleven let out a grumble. She pushed herself upright, and her long hair draped past her face in a shut curtain that completely blocked it from the outside world. She pushed her hair away from her face and over her shoulders. Then she yawned, rubbing at her eyes before resting her elbows back on the table and squinting to focus on Arwin.
+
+“You know why I’m here, so let’s get this over quick,” Eleven said. Then she paused, sniffing the air as her head tilted to the side. “Wow. Something smells good.”
+
+“Lillia’s in the kitchen. Of course it smells good,” Arwin said. “I’m sure she’ll let you join us for dinner once we’ve finished our discussion… and gotten our payment.”
+
+“Right,” Eleven said. She yawned again and rubbed at her eyes once more. It was a minor miracle she hadn’t rubbed them out of her own head at this point. “The party. How bad did it go?”
+
+“What makes you think it went bad?”
+
+Eleven stared at Arwin. “Did you not go?”
+
+“We went. It didn’t go bad. I mean, it could have been a lot worse. I’d say things turned out pretty well for us.”
+
+“I never said they didn’t,” Eleven replied. “I said the party went bad. Which it did. The Menagerie is not the party.”
+
+“I — okay. Yeah. Fair enough,” Arwin admitted. “We burned their mansion down and set a crazed half-naked woman free to beat the shit out of a bunch of nobles. We also stole one of the Blacktongue’s heirs to recruit him to our guild. The Blacktongues sent a team to our street to try and look for what we got from the dungeon they invited us to, but we caught them and sent them back to trick the Blacktongues to showing up somewhere where we won’t be in a week. I’d say that just about summarizes it. Oh — Esmerelda may have also sold chili paste as a contraceptive.”
+
+“Does that work?” Eleven asked, blinking.
+
+“Depends on your definition of work. If nobody has sex in the first place, then I suppose they can’t get pregnant.”
+
+“Oh. Yeah. I suppose that’s true,” Eleven said. “And the Guild?”
+
+“Ah. Yeah. We kidnapped him,” Arwin said. His features darkened. “The Guild has a lot of those magic-stealing daggers. More than we thought, at least. They’re using them to distribute magical classes among their people and feeding the daggers to something in a pit within the Guildwall.”
+
+Eleven’s features were unreadable for several seconds. Then she frowned. “Feeding?”
+
+“Yeah,” Arwin said. He had more thoughts on the matter — but he wasn’t so sure he wanted to share the truth of his class with Eleven yet. She wasn’t an enemy. He was pretty sure of that. But Setting Sun hadn’t proved they were outright allies yet either.
+
+“That’s it?” Eleven asked. “You didn’t deduce anything else?”
+
+“We did,” Arwin allowed. “But I think we’ve held up our end of the bargain, Eleven. Now the Setting Sun’s turn. We’ve gathered information about the Adventurer’s Guild. I believe it’s your turn to pay. You promised us information about how to Sunset our classes.”
+
+Eleven nodded slowly. “Yes. It’s just about time for that, isn’t it? You’ll have to give us a little more detail about what you’ve found… but that can be handled at the meeting.”
+
+“The meeting?” Arwin asked.
+
+“Yes,” Eleven said. “This is going a whole lot above my level now. I’m the scout, Arwin. Not the one pulling the strings.”
+
+Arwin squinted at her. “Are you? Or are you just too lazy to do it yourself?”
+
+The sheepish look on Eleven’s face told him that he was at least partially correct. She coughed into her fist.
+
+“I’m not lazy. I’m just tired.”
+
+“Right,” Arwin said. He shook his head, hiding a small smile. “Well, I think I’m in agreement regardless. If our guilds are going to work together, then maybe it’s time I meet someone else from Setting Sun. Actually, now that I think about it, I haven’t met any of your other members besides that asshole Twelve. Who’s next? Ten?”
+
+“No,” Eleven said. Her eyes darkened. “You’ll be meeting with Two.”

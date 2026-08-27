@@ -1,0 +1,405 @@
+---
+id: cc29aeb3-8bf0-5373-9f30-b0e601804f2b
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 366"
+slug: 0064-the-path-of-ascension-chapter-366
+partOf: the-path-of-ascension
+position: 64
+ownLength: 6626
+unit: words
+ownProgress: 6626
+publishedAt: 2024-11-11
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1897993/the-path-of-ascension-chapter-366"
+royalRoadId: "1897993"
+markedReadAt: "2026-06-29T19:19:49.475Z"
+---
+
+Chapter 366
+
+Kai listened to the man in the sky speaking and felt it hard to accept what he was hearing.
+
+But there he was. This… Ascender Titan.
+
+There was a weight to those words, imparted by what he assumed was magic projecting the speech into his ears, that he couldn’t quite describe. He wanted to just call it magic, but it wasn’t that. It was part tonal emphasis and part stressing of syllables that wasn’t typical of the Noricum lexicon.
+
+It was important. Kai didn’t know why, but he felt like a sword was hanging over his head and was correspondingly on edge, so he held on tightly to any possibly important tidbit and sorted it instinctively.
+
+Kai had seen a lot of things growing up in a rough neighborhood, but he had never imagined that magic was real.
+
+Magic was the thing of stories and legends. It wasn’t real.
+
+But one glance up showed him a man floating mid-air with a giant fractal spider webbing across the night sky.
+
+The architect part of his mind idly wondered what kind of material that spiderweb was made out of. Nothing had the kind of strength needed to reach the horizon without any kind of support. Or maybe the supports were there, but they were just magically invisible?
+
+Could he get some of those invisible supports?
+
+A shout from the neighboring apartment caught Kai’s attention. Any other day, the neighbors shouting at each other wouldn’t have been unusual. They argued over seemingly everything and anything, but it was easy to tune out because Kai didn’t speak Northern Cipri.
+
+Except, just as he had heard the flying man’s words whispered as if right next to his head earlier, Kai could understand his neighbors yelling.
+
+The woman was currently blaming the man for the appearance of the magical man in the sky.
+
+Kai nearly panicked as his mind went to the two of them somehow being responsible, and him getting caught up in whatever they were doing, but it quickly became clear the two were just venting at each other when the man turned the accusation around and blamed the woman in turn.
+
+That made Kai reevaluate just what was going on. He could understand the man in the sky speaking in his language. Heck, he was clearly magic, Kai would understand if he was speaking every language.
+
+But this? He hadn’t just made himself understood, he made everyone understood. When that… Titan, he called himself, had said that they were all now part of this enormous Empire, did that mean he’d just gotten rid of all other languages? Was Kai actually still speaking and thinking in his native tongue, or was he speaking some kind of magical common language now?
+
+What the hell was happening?
+
+As his mind ran through the possibilities, Kai finally started to accept some of what he had heard.
+
+Magic was real. That wasn’t necessarily a bad thing. Magic could be cool. Kai had never been one to dive too much into fantasy, the real world was rough enough that he didn’t have time to spend on such extraneous pursuits, but he was in touch with nerd culture enough to know about typical magic systems. Assuming that ‘real’ magic was anything like the stories, which didn’t seem likely.
+
+What kinds of things could he do with magical materials? There was clearly something able to literally stretch across the sky, and it was either ludicrously strong or supported by invisible struts. Could they build flying cities? Walkways that were invisible but invincible?
+
+Actually that last one was a safety hazard, they would need to be at least translucent. But then again, magic. Who knew what was possible?
+
+That brought his mind to the other things commonly seen in relation to magic. Fireballs, ice blasts, teleportation, and magical healing.
+
+But what were the limits?
+
+Kai didn’t suddenly feel the call to become some kind of fantasy healer, but he had seen people missing limbs one day with them back a few weeks later during his short time at Gate’s Rest.
+
+Had that been magical healing? The obvious answer seemed like a yes but was that all it could do? Could it do more? Was it useful for the general pains of a lifetime of hard work like his mother had experienced?
+
+His mother!
+
+Kai slammed his shin into his coffee table as he moved to the apartment’s phone, causing a spike of pain that nearly sent him sprawling. Cursing, he hobbled over and punched in his mother’s number.
+
+The phone gave a busy signal, and he had to call back three more times before his panicked mother picked up.
+
+Their call was cut short as the phone network went down for a few moments, but when he called back there weren’t any issues and they were able to talk and comfort each other until they both felt the need to start preparing for other outages. It was enough to know she was ok and was staying inside until things settled down.
+
+Kai went through storm prep even though he didn’t live on the coast any more. It was what he knew and he didn’t know what else might be useful. Tub filled with water, fridge closed tightly with the perishables noted, and windows securely closed.
+
+Calming himself, Kai flopped onto his couch and flicked on his TV out of habit, but every station was static, some pre-scheduled rerun, or news reports talking about The Announcement.
+
+Finding something inoffensive and unobtrusive, Kai turned the volume up to drown out his neighbors’ continued arguing. He did figure out that they were still speaking in another language, because if he really listened he was able to tell the difference between the sounds they were making and the words he was hearing… which was equal parts insane and distracting.
+
+Looking up at his TV, he fiddled with settings until he changed the audio channel into another language, and to his surprise, he found that even the words of the movie were translated.
+
+Not letting himself get distracted, he logged into his computer and paused as he saw on the front page of his typical search engine was a link to the document that the sky wizard had been talking about.
+
+There were multiple forms of media, but Kai went for the document.
+
+It was so large, his computer chugged as it opened the file, but after a minute that felt like an eternity, Kai was able to start reading.
+
+The introduction chapter was a dozen pages long, but that was nothing to the tens of thousands of pages of the rest of the document.
+
+Regardless, it was incredibly well-written, and he quickly felt a lot less unsure of himself. Things started to make more sense, and his fear of being killed by some magic man floating in the sky with nothing he could do about it slowly subsided.
+
+That was, however, replaced by other fears.
+
+These people, these cultivators, they were so powerful, so mighty, did they… have houses? Buildings? Did they need architects? The man in the sky had done something that wrapped around the entire planet, could they just magic themselves a house?
+
+The prideful part of himself insisted that of course they’d need buildings and houses, that even if they just shipped in castles from other planets and dropped them onto estates made out of clouds, of course they’d still need architects to design things, but… what if they didn’t?
+
+What if they didn’t care about that sort of thing? The introduction talked a lot about fighting and killing and wars and ‘rifts,’ were all cultivators soldiers? Did that mean they wouldn’t care about the beautiful and sublime, the graceful elegance that could be found in styles of building? Did they use architects, or did they just brute-force basic shacks by using impossibly strong materials?
+
+He sure hoped they needed architects, otherwise he was probably screwed.
+
+A decade of work might be in the trash if they just lived in basic buildings, if they didn’t care about the nuance he could provide. That thought ate at his mind. What else would he do? Any kind of academic job seemed useless with the existence of these magic powers that could seemingly hand wave issues away.
+
+Were all jobs filled with these magical gifted people and only them? Would he still have a job if he didn’t get this magic suited for his profession?
+
+Would he be homeless? Wait, the man had said housing was a right and was provided by the Empire. So they must have houses. But that didn’t mean that they weren’t just like tents made out of magic materials. Could he be the revolution that brought beauty into their buildings or would he end up with no skill set to market himself?
+
+Kai had tried to avoid that thought, but it bubbled up like a pocket of noxious swamp gas.
+
+He had worked too hard to allow that, to let the end of the world as he knew it make him or his mother homeless.
+
+He was still worrying when he fell asleep on his couch.
+
+The sun coming in through his window woke him up, and Kai felt a kink in his back from where he had slept wrong. Limping his way to the bathroom, Kai kept his ear out and faintly caught the couple next door talking.
+
+Just like the day before, the words translated themselves. As Kai processed what they were saying, he flushed hot and rushed to play some music so he couldn’t hear them any more.
+
+Looking up in the now sun bright sky, Kai was almost startled to see the man, Ascender Titan, was gone from his spot.
+
+He had half expected the man to float there, raining down divine judgment until he was satisfied.
+
+Seeing it was well past morning, Kai threw on the TV and cycled to a news station. There, he found two news anchors talking about what was going on.
+
+The past president of Noricum had even come out of retirement to give a speech urging everyone to calm down and try to adjust to their new world as quickly as possible.
+
+Kai wasn’t sure if it’s what the man intended, but it felt like the man was really saying that nothing they did would have any effect, and they needed to get used to their new reality. That didn’t sit well with him.
+
+It felt gross, like they had given up.
+
+Kai, like nearly everyone else, was glued to his TV in the coming days, as it was the best source of updates on what was going on. But it quickly became clear that things were truly different.
+
+Two TV stations went off the air for ’inciting discord and spreading falsehoods,’ even though Kai felt like nothing they’d said was really that bad.
+
+That left a bitter taste in Kai’s mouth, and he wondered just what they were trying to hide, and why this Ascender Titan felt like he could override their concerns. They had rights. Who was this outsider to decide what the truth was, and say that anything else was forbidden?
+
+Thankfully, things did start returning to normal after three days of chaos.
+
+The Falkner Architect firm was left adrift at first, not knowing what their place in this new world would be, and they mostly sat around their offices for a few days before they finally heard news.
+
+They would keep their jobs, but some of their standards would be changing.
+
+Kai was initially fearful that meant they would be told to cut safety corners, but if anything, the new standards were far safer than before. It wasn’t just more redundancies needing to be built into every structure, but every building was made for longevity, overbuilt to the point it should last centuries and with mandatory clear decommissioning plans, ensuring that any updates or demolitions could be done easily and cheaply. If a building was unlikely to last less than a century it could only be considered a ‘semi-temporary structure,’ and required a whole host of additional permits to even be considered.
+
+On the other end of the spectrum, government buildings and other ‘fixture sites’ were to be designed to last for millennia, something that he would have scoffed at even a week ago. But magic… well, magic probably made anything possible.
+
+That was another thing none of them wanted to hear: Most buildings were built with magic things called formations. Not just to do things like heat water, but to make the buildings themselves more durable and in some cases repair themselves.
+
+Once they were familiar with their new standards and passed a grueling certification procedure, the orders started to pour in.
+
+The city was expanding, and it was going to be doing so in three stages over the next decade.
+
+Word was that the monsters had been temporarily dealt with, but they would be back in a few months.
+
+The job security was nice, as were the new contracts they needed to sign, which was more generous than his previous in everything but terms of pay.
+
+Money was weird.
+
+After the first week, all of Soerilia switched over to the Empire’s currency credits. That would have been weird enough, but the value of things were all over the place.
+
+Food prices especially had dropped through the floor, or at least raw produce had. The Empire set strict food prices with zero room for negotiation. Kai expected pushback from the farmers because there was no way the prices were sustainable, but they were even happier, as the Empire was subsidizing not only the difference to the farmers, but almost triple what they had earned before with the understanding that farms should not only be producing but over producing at all times.
+
+Ready-to-eat food serving places didn’t change too much, as there weren’t any strict regulations over their prices, but most places did lower their prices somewhat which made it down right easy to grab a bite to eat during or after work instead of feeling bad about such purchases.
+
+Some foods, mostly snack foods, did increase in prices thanks to taxes placed on them but they were one of the few to increase in price. A fair bit of luxuries had additional taxes placed on them beyond their normal prices increasing which put them out of reach for more people but it wasn’t so bad that people got upset.
+
+It was strange, but Kai and everyone else got used to it before too long.
+
+There were jobs to do, which kept everyone busy enough that they didn’t have too much free time to think how much everything was changing.
+
+That was until Gate’s Rest got their awakening machine… thingy.
+
+The news stations had talked about the devices that gave magic powers, but Kai, like most people of the mandatory age, was nervous. Not that they could refuse. Apparently it was obvious to tell those who had been awakened from those who hadn’t, and anyone who refused was forcefully put into the machine and then fined for their troubles.
+
+The stories the news stations broadcasted about the awakenings were mostly positive, not strictly positive like Kai would have expected with media companies being shut down, but it generally leaned that way. Save for a few pieces about people getting seemingly boring powers, like the one lady whose power cleaned stubborn stains easier.
+
+There were a few rumors about people who had seemingly bad reactions, but they were rare. Far more common were all the people who got fantastical powers. The 18 year old girl who could now fly, and was now something of a minor celebrity, or the 25 year old man who could fix broken items with a touch so long as they were recently broken.
+
+What Kai paid attention to was the few reports about architects. There was apparently one 14 year old who had gotten the ability that made it so any buildings off blueprints he created were stronger than normal.
+
+Even a quick scribble was enough to make a suspension bridge made out of twine and thin sticks hold ten full grown adults. The kid had been given a full-ride scholarship to a prestigious university to get his architecture degree the moment he graduated high school.
+
+No one said anything, but everyone at the firm felt the pressure. How could they compete with someone like that? Who would want their work when someone else’s work was appreciably better than theirs?
+
+Kai didn’t know, and from the glum silences, no one else did either.
+
+He just hoped that, despite the records saying otherwise, that because of his dedication to his craft, he would awaken a similar Talent thing.
+
+Kai and seemingly half the town went to the facility, a massive building that had been converted from a warehouse.
+
+Kai sat down and went through a dozen screens telling him not to share his Talent with anyone, and after confirming that he was sure he understood, he felt a rush of something enter him.
+
+It was… more.
+
+Kai couldn't really describe it, but it was like he had a sense that had been asleep all of his life, and now it had woken up. He thought Awakened was just a word but he realized it was really the perfect thing to call it in absence of a better description.
+
+The feeling faded quickly, and a beep from the screen next to him brought his attention down.
+
+Kai looked at the result blinking on the screen in front of him. It was unbelievable, unacceptable. And apparently unchangeable.
+
+He felt sick.
+
+Sure, they said it was random and to not be disappointed with whatever you got, but he’d figured that just meant they couldn’t predict it, that he’d still get something related to architecture, the thing he’d devoted his life to. How was this awakening anything within him?
+
+Tier 1 Talent determined.
+
+Pigments you mix are more vibrant or subdued, depending on your desire.
+
+Pigments? Like paint? Kai had never painted in his life, nor had he mixed pigments before. He didn’t even know how.
+
+What was that Talent?
+
+Kai wandered back home, not knowing what he should do.
+
+In the end, he didn’t have any better answers than try to cling to his well-paying job for as long as he could before those with related Talents pushed him out, but he did stop by an art supply store on his way to his apartment and bought a few tins of oil paints.
+
+He had no idea what he was doing, and felt stupid as he squirted paint onto a disposable plate.
+
+Letting his eyes wander, he looked for a color and decided on the olive green of his jacket.
+
+Holding the color in his mind Kai dipped his brush in the yellow and then into the blue but in a lesser amount. Smearing the brush around, he found himself staring down at an olive drab that perfectly captured part of the jacket that was a little sun and wear-worn.
+
+It was perfect, exactly like the jacket.
+
+It was useless.
+
+What good was mixing paint colors?
+
+Any idiot with an instruction manual could have managed the same, even if it took them a few attempts. Suddenly Kai didn’t care about his Talent shenanigans any more and with a bit more force than he should have used, he threw away the oils he had just bought.
+
+Instead, he cracked open one of his advanced architecture books after ordering a dozen books on magic architecture and formations. If he couldn't get a Talent that would magically make his buildings better, he just needed to do what he had always done. Work twice as hard as everyone else to ensure he remained relevant.
+
+He just hoped that it was enough, but a small voice whispered that it wasn’t and his efforts were futile.
+
+Kai knew that voice and shoved it down ruthlessly. It had been a few years since he had heard its malignant whispered but he had refused to wallow in his self pity before and would do so again.
+
+***
+
+Trebor was watching the interview with this duke of theirs with bated breath. Finally, after far too long spent on unimportant topics like healthcare or economics, they got to the import part. The thing he had to beg his uncle to ask.
+
+“So, does the Empire have any special policies on pets?”
+
+“Pets? Well, if one of them harms someone then you’re held highly responsible, is that what you mean? Outside of that, pets are fine.”
+
+And with a relieved sigh he pulled his fluffy buddy even deeper into his embrace. As he started rubbing his cat's chin, he was at peace.
+
+***
+
+The reveal had been as large a shock for the Weekly Tidings as it was for everybody else, but Kenneth’s journalistic senses had kicked in before most others had stopped panicking. This could be his paper’s big break, to finally establish themselves as one of the big names in the Palkar Union’s media battlefields if they jumped on it.
+
+Just minutes after the reveal he and his dozen most dedicated employees started scouring the hideously dense multi-thousand page introduction book that was made available to write a summary for their website. Technically, they were justified in doing so. In that it was now apparently illegal to get anything even slightly incorrect when reporting on breaking news and they needed to translate ten thousand pages of legal jargon into a basic summary outlining the most important things for average people. But that wasn’t an excuse to just delete the article off their site. The move by the new government had certainly given the IT guy a minor panic attack as he wasn’t even able to tell how they had accessed their systems or why they couldn't reupload the document.
+
+Their questions were answered when not fifteen minutes later, someone working for their new overlords showed up at the office and gave them the short version of the ‘official media standards and guidelines’, as well as another overly thick book that had the rules explained in full.
+
+It was as clear a euphemism for censorship laws as he’d ever seen. They had given the rules the briefest skim possible before moving onto the next story: coverage on the whole magical ‘Awakenings’ thing. There’d been a report of somebody outright disintegrating, crumbling into dust instead of getting superpowers, but nobody was talking about it. Rumor had it that they’d just scooped the unfortunate kid’s former body into a bucket and tossed it in the river, but getting a definite answer was hard.
+
+This time they went straight to paper, once it was out there they assumed it would be way harder, hopefully impossible, to remove. Except when the order to the printer was sent, it got ignored. They tried everything, from different formatting to putting it on a data stick to manually typing the article on a computer directly attached to the printer, but nothing worked.
+
+That was until they tried printing something completely unrelated. Then the printer worked just as well as it had before.
+
+That was about the time the unease started setting into Kenneth’s gut.
+
+It wasn’t hard to figure out what had happened. Especially when some backchannel talk with some of the rival newspapers showed they had similar experiences. Even printers on a completely isolated network refused to print things that didn’t comply with censorship laws. One of the bigger newspapers who actually had their legal teams dissect the censorship laws in detail claimed the laws normally weren't that bad and mostly required things to be provably true, but that some kind of emergency provision was active only temporarily to ‘help reduce the chaos of integration’.
+
+Kenneth and most other media companies didn’t buy that, this was censorship plain and simple. He figured these ‘emergency measures’ would be rescinded in several generations at best when everybody was their obedient little puppet, and just never at worst.
+
+He wasn’t going to sit idly by and do nothing when a fundamental truth was being stamped out.
+
+Determined to get the news out there he spent a good chunk of his personal money and bought an antique printing press. Completely manual, down typesetting the pages by hand, one letter at a time. In hindsight it should have been obvious that digital methods were doomed from the start. Just look at how swiftly their conquerors had subverted the internet, but they had been trying to be fast and hadn’t considered every angle like they should have.
+
+That was why every part of that attempt had been done off the web. The payment for the printing press was cash, the article was hand written— this time on how atrocious the mortality rate of delving was— composing the pages was even done in the basement, where there physically were no cables for a camera or other surveillance system to connect to. Even the walls of their old building had enough steel in them to make any wireless connection a futile attempt, as had been bemoaned by many an employee who had to file things down there.
+
+Only when they tried to print their first copy, nothing happened. The press hit the paper, laden with ink and did nothing. The ink refused to adhere. When they with trembling hands rearranged some nonsense on the press, everything worked fine.
+
+That was when the unease turned to fear. They weren’t just watching their networks. They were watching them.
+
+But Kenneth wasn’t quite deterred yet. He wanted to make one final attempt. In the privacy of his own home and without telling anybody, he started writing a grocery list. Halfway through he switched to writing a flier about the oppression the press was enduring, but two sentences in, his pen stopped writing. When he resumed the grocery list, so did the ink. He looked at his wife, playing a board game with friends in the other room.
+
+That’s when his fear turned to dread. They were watching him. Everywhere. At all times. And they could reach him through magic bull-shit so it wasn’t even like running to somewhere even more secluded would help.
+
+When Kenneth shared the news at work, complete with an announcement they would from then on follow the guidelines, Miranda and Taylor, his two best journalists, started raising an uproar over how they shouldn't surrender. When they announced they’d shout the news from the rooftops if they had to and started walking to the door to do just that, the fist of the overlord stepped out of thin air and arrested them.
+
+In less than five seconds they were there and then they were gone.
+
+He sat there listening to the dreadful, ever increasing silence wondering if he had made the wrong choice, already knowing the answer deep in his heart.
+
+***
+
+Thaddeus looked up to the man who floated in the sky and felt desire like he had never felt before.
+
+Kev, Michel, and Amber were with him, as they were every Tuesday night. Tuesday nights were their sacred game nights. Daggers and Damsels had been a constant in their friend group since they had found each other in middle school, and it had kept them together for just over a decade at this point.
+
+Amber let out a small whisper as they watched the man create his magic spell. “My desires manifest!”
+
+The phrase was said in high plains elven, which Thaddeus only knew a few phrases of, but he knew that phrase as it was the sorceress' call-to-arms in Daggers and Damsels. What he didn’t expect was the words to be translated and projected into his ears.
+
+More proof that magic was awesome. Even a fantasy language was translated into a known language.
+
+It was even better than Elvish Ears, and he knew that if they ever bothered to play make pretend again with real magic at their fingertips, he would need to buff the in-game spell to match this.
+
+The four of them shared a look, and knew that they would be following the path the man laid out.
+
+Real tangible power they could reach out and grab if they were brave enough to turn themselves from damsels into those that gripped the dagger of destiny.
+
+Accordingly, they were the first ones to the awakening building that week. They had, in fact, camped out in front of the building, and were the first ones through the doors.
+
+Sadly, none of them got combat abilities.
+
+Michel got an ability that made any place he marked as a safe zone to let them recover slightly faster, which seemed useful for days spent in a dungeon crawl, but the rest of them got nothing obviously useful. And that was saying something, considering they were all munchkins of the highest order.
+
+Even Thaddeus couldn't see how to make his Talent for making clothes cleaner when washing by hand useful in a dungeon. According to the little that they had learned, these dungeons just weren’t big enough to typically need days to clear and the effect didn’t linger long enough to be useful for a rogue.
+
+Kev’s ability to hold his breath for longer than normal might be useful, but it was easily replaced by a self-contained breathing system that any firefighter like Kev had ready access to. They did some testing but the obvious ways to exploit such a power didn’t seem to apply.
+
+Amber had been hoping for actual magic, but instead just got the ability to change the color of her clothes at will. Theoretically useful, but easily replaceable by a simple trip to a military surplus store as it just took too long for her to make any substantial changes.
+
+Still, they were determined to go into one of the dungeons and start leveling up.
+
+They had dreamed about it for years.
+
+If only it was that easy.
+
+Their new ruler, Baron Hastra, had instituted a rule that no one was allowed to delve into a dungeon without passing a certification of capabilities.
+
+Daggers and Damsels didn’t have such things, and the four of them endlessly complained that the new government was adding bureaucracy to magic, but they weren’t willing to go to one of the dungeons deep in the woods that weren’t monitored.
+
+A few people they had talked to had done exactly that. Or, that was their intention the last they had heard from them, for not a single group who did that returned.
+
+Baron Hastra at least recognized the issue with such a rule, and brought off-worlders in to help train them for a nominal expense.
+
+Thaddeus had expected the training facility to be packed to the brim, but it was surprisingly empty. Oh there were others, dozens of other groups in fact, but his own excitement for real magic had blinded him to the fact that most people were content with their mundane existences.
+
+They and another three groups were assigned to a woman with sunrise colored skin who looked no older than thirty, but said she had a hundred years of experience at training new groups how to fight properly.
+
+Thaddeus had been intrigued by the incredible lifespan, but Michel was practically drooling the entire time Uvelt was going over her qualifications.
+
+From there, they were led into a private room, one group at a time.
+
+The four of them talked about their roles and prospective builds, but there was too much they didn’t know and so they had defaulted into their normal game roles.
+
+Amber wanted to follow her typical class and go for a magic user of some kind, but from what they had been told, magic was incredibly expensive, at least for your first few centuries.
+
+Centuries. The thought boggled the mind and all of them had a hard time processing such a thing.
+
+Kev wanted to be a barbarian of some kind, since his time as a firefighter had given him a large build and he knew how to wield his fire axe incredibly well. He kept asking them if he could get a magical axe that had fire properties but they were as clueless as he was and could only humor him.
+
+Michel was split between a typical sword and board combo, with a dagger as a side weapon, or going for a rogue build, but Thaddeus was trying to convince him to be on the frontlines together. While he rarely got to play, he always preferred the defender archetype. Protecting one’s friends from the dangers of what was trying to nibble at their toes while being a beacon of morality.
+
+Their argument was cut short by the door opening and them being waved inside.
+
+Once they entered Uvelt indicated to the side of the room. “Grab whatever weapons and armor you think you would like to use. Once you are ready, we'll do a little test and demonstration to see if you want to change your mind.”
+
+Amber picked up one of the magic gloves while the other three struggled to get into their armor.
+
+Michel tried to flirt with Uvelt and inevitably ended up talking about Daggers and Damsels, but instead of the cringes Thaddeus was used to, Uvelt seemed genuinely interested and listened attentively, even while helping them when they got stuck on a complicated part of the armor.
+
+It took close to twenty minutes for them to get fully suited and for Amber to get the knack of using the fireball glove, but they finally stood before Uvelt who said, “Get ready and treat me like an enemy. Come at me!”
+
+Thaddeus felt awkward and shuffled forward, his shield raised but his sword lowered. He knew it was blunt, but he didn’t want to hurt the nice lady.
+
+Michel, who had gone with a dagger build, slashed at her well before he was in range. But instead of reacting, Uvelt just deflected the attacks with a rapier Thaddeus hadn’t noticed was at her waist.
+
+Things seemed normal until Michel started to scream. Blood started to run like a river down his arms from where his wrists were cut through to the bone.
+
+Thaddeus was still processing that when he felt a blow strike his shield, and the top of the shield bashed him in the face from where she had kicked him out of her way.
+
+His world went white as pain blossomed over his head as his nose was shattered.
+
+He could hear a gargled scream from someone and a wave of heat that burned through the gaps of his armor.
+
+When his vision cleared, he saw that Amber was crying as she clutched a shattered knee, the limb bent and twisted into the wrong shape in a way that Thaddeus just knew was crippling.
+
+Kev, on the other hand, laid in a puddle of his own blood, his legs separated from his body trying to crawl to his axe.
+
+Uvelt, the seemingly normal woman just moments ago, turned from Kev’s body to Thaddeus, and with her rapier still dripping blood, slashed out.
+
+Thaddeus didn’t know when he had raised a hand or what he had done it for, but he felt a new white hot pain flash as the fingers holding his blade spun through the air.
+
+Gasping, he felt the world going black and wondered what the point of going through the motions just to kill them was for.
+
+Why were these people so intentionally, pointlessly cruel?
+
+Gasping, he found himself sitting on the floor of the practice room, still in his armor and not in pieces.
+
+Patting himself all over, he made sure he wasn’t injured and then looked to his friends.
+
+When he confirmed they were similarly fine, Thaddeus looked to Uvelt, who nodded. “A useful illusion to help you acclimate to the reality of what being a delver entails. It's not all fun and games. It's pain and blood. Yours or your enemies. If you want to withdraw from the course, you are entitled to a full refund. And if you need to talk to someone. There is an onsite therapist who can help you process what just happened. Delving isn't for the faint of heart, and sadly, your society didn’t prepare you for violence in the way ours does.”
+
+Amber gasped out even as she clutched her perfectly fine knee, “Does it get better?”
+
+Uvelt cocked her head before shaking it. “If you are asking if the pain hurts less, the answer will probably disappoint you. No. If anything, it gets worse. As you Tier up, your senses get better. You just learn how to push through it. Just be grateful that you were smart enough to sign up for these lessons so you could learn this in a safe environment. No one can save you when you are in a rift, and there, the wounds will be very real.”
+
+Kev turned to the side and vomited, but instead of looking angry, Uvelt just waved her hand, and a wave of light blue magic removed all traces of the bile. Even the smell vanished as if it had never been, and Thaddeus was once more reminded that magic was very real.
+
+Despite the memory of pain, Thaddeus wanted that. He wanted that so bad he felt he could taste it, even though he was pretty sure that was just blood from where he had bitten his cheek while under the illusion.
+
+Thaddeus looked to his friends, the terror of death still lingering in his bones like a cold chill, he wanted to be strong for them so he put on his best confident look. They didn’t seem anywhere near as shaken as he felt so he shoved those feelings deep down to be examined later when he was alone in bed or in the shower.
+
+Uvelt must have read their silence as acceptance and willingness to stay as she said, “Good for you four. Now, let's talk about your weapon choices. They can work, but might not be ideal. Your game is a good basis for some things, but real cultivation doesn’t have so many rules. Amber, you need more armor. Same for you, Kev. There are spells that empower you based on the damage you have taken, but healing is expensive, so they aren’t recommended. Michel, if you want to use daggers you need to not only learn how to use them, but learn how to read the battle. Frankly I don’t recommend them for beginners, but I can train you on the basics. Thaddeus, that shield is not only your lifeline, but the rest of your team’s as well. Hold the damn thing like you mean it, that kick shouldn't have disabled you like that. Really I recommend that you all take some time to try and break free from your fixation on your game classes and instead pick which actually suits you and your Talents best.”
+
+When they made it clear they understood and would think over her suggestions Uvelt continued. “Now, because everyone always asks for it, we'll go through a little weapon training today but you all will need serious physical conditioning before you are ready to go into a rift. Spread out and we'll start from the top.”
+
+Thaddeus wasn’t sure if this was a dream come true or a nightmare but this is what he had always wanted, what he had dreamed about. He wasn’t going to let something as mundane as pain, terror, and the threat of death stop him.
+
+Standing up he prepared to face the future no matter what it might bring feeling his friends take their spots at his back.

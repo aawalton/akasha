@@ -1,0 +1,33 @@
+---
+id: 9d313c50-1fe1-5d39-ab6e-de7c590e7641
+page-type-slug: story-chapter-royal-road
+title: "Legendary Fool 1 is out on Kindle Unlimited and Audible!"
+slug: 0013-legendary-fool-1-is-out-on-kindle-unlimited-and
+partOf: the-legendary-fool-a-deckbuilding-litrpg-b2-complete
+position: 13
+ownLength: 302
+unit: words
+publishedAt: 2025-04-01
+link: "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/2165405/legendary-fool-1-is-out-on-kindle-unlimited-and"
+royalRoadId: "2165405"
+---
+
+HAPPY APRIL FOOL'S DAY :D (THIS IS NOT A JOKE LOL, IT'S ACTUALLY MY LAUNCH DAY)
+
+I'll spare y'all the synopsis at the start, because if you're here you've in most likelihoods already read books 1 and 2 of the story.
+
+First, I want to show you the new cover, which is leagues above the old one.
+
+It's quite something, isn't it?
+
+Now, there's also this trailer I blew all my pocket money on lol, don't ask me why: https://www.instagram.com/reel/DHtqwCgzGP0/?igsh=MWo4Y3BudDZuZTloOQ%3D%3D&nbsp;
+
+I'll also add a link to this below.
+
+Moving on, it's launch day and any downloads, ratings or reviews you could leave for the Legendary Fool will help MASSIVELY in letting me keep doing this (Book 3 is still coming May 1st). You don't have to grab a copy to rate or review it and if you have Kindle Unlimited you can literally just download it for FREE and help me out by doing that. Any amazon reviews also port over to goodreads, so that can be massively helpful as well. (The way that Amazon ratings work is that any rating below a five star is basically a downvote, so please do keep this in mind!)
+
+In case you do want to buy a copy of either the ebook or the audiobook, I will say that the experience of listening to The Legendary Fool on Audiobook format was personally very enjoyable for me and if you want to re-read book 1 or recommend it to friends, it has been professionally edited! Any purchases, downloads or pagereads will play an essential role in allowing me to keep doing this :)
+
+Either way, that's all for now, all the relevant links are below!
+
+Cheers and thank you for letting me able to keep doing this!! Your support is what makes any of this possible!!!

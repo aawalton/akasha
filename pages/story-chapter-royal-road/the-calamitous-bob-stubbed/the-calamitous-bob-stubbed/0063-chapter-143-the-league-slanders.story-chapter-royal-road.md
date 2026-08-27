@@ -1,0 +1,471 @@
+---
+id: b1e804b3-b140-5cb7-8558-f338ec36c965
+page-type-slug: story-chapter-royal-road
+title: "Chapter 143: The League Slanders"
+slug: 0063-chapter-143-the-league-slanders
+partOf: the-calamitous-bob-stubbed
+position: 63
+ownLength: 5235
+unit: words
+ownProgress: 5235
+publishedAt: 2023-11-24
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1420445/chapter-143-the-league-slanders"
+royalRoadId: "1420445"
+markedReadAt: "2026-06-29T21:16:57.348Z"
+---
+
+“You?” Viv asked with total shock. “You? But I thought you were retired! Abe hired you?”
+
+Irao winced, which caused Viv to lower her voice immediately. The Hadal leader looked good in street clothes with a nice hat. Just dandy in a slightly gaunt sort of way.
+
+“Yes.”
+
+“Yes?”
+
+“Yes, he hired me.”
+
+“And you are fine with that? The assassination?”
+
+“Not really.”
+
+Viv weighed her options. Irao seemed a little ill at ease in their secondary base in the craggy forest of eastern Helock. Maybe he wasn’t here of his own accord. She wasn’t sure how far she could or even ought to push but confirming consent seemed like a good idea.
+
+“Irao, why are you here if you do not wish to be an assassin for someone else anymore? Are you being forced by someone?”
+
+“No. I—”
+
+He scratched the side of his head and sighed. Viv waited for a little while. The Hadal sighed deeply when he was done. He made his point, moving his hands to accentuate every new sentence.
+
+“You are in danger. I don’t want you to die. So I help. I am here of my own accord so I can leave if I want. I missed you, and… I love bank heists.”
+
+He grew a little animated.
+
+“They always have the best wards and the best gates. Sometimes golems. A great enigma. I love to crack them open but my previous Helockian employer always used that bank and didn’t want me to get in.”
+
+“Not Elunath, right?”
+
+“No. A high clan. Can we go steal soon?”
+
+“Yes. I just want to get started on my first little project. Can I count on you to join with the preparations? You can just write us notes if you prefer.”
+
+“Yes. Yes, that would be good. I have been looking forward to this. Goodbye.”
+
+***
+
+The more Viv walked and the more she thought this was a bad idea. It was only because the others were too noticeable, too well known that she was willing to take the risk. Abe didn’t have a solution to change footsteps or Sidjin would have gone instead. It didn’t matter that she could depopulate the entire South Gate slums in ten minutes. A shiv through the ribs would always remain an unpleasant experience. It was not so long ago that walking alone in a bad district was something she would never have entertained, special forces training or not. Good form could stop a stronger man. Maybe two, if she really caught them off guard. Five people and she would get her teeth kicked in no matter what. The phantom threat hanging over her made her heart beat faster. Erupt here, and Elunath would come rushing. Then…
+
+She might just die.
+
+Viv forced down a shiver and hastened her steps. A trio of men followed her jaunt with unblinking eyes like a pack of stalking hyenas. Mud and worse things squelched under her boots. It stank of human refuse and unwashed bodies. The spring sun removed the cloak of darkness from the pavement to reveal the utter state of everything, from decrepit walls to broken roofs and filthy steps. The people were constantly on guard. Women moved in groups. Viv was standing out like a sore thumb and that attracted a lot of attention. The bad kind.
+
+She sighed in relief when the street angled right, opening onto a small square around a well from which paupers drew water under the vigilant gaze of goons armed with truncheons. A two-storied inn reigned over the surrounding hovels like a beggar king. Its sagging frame still stood solid despite its old age. A corroded metal sign read “The Dog’s Bollocks” over its entrance. Viv spared a glance to the mastiff standing vigil by the door. The chain was barely long enough to reach the handle.
+
+The dog stood still. It had a better sense than the hovering thugs.
+
+Viv got in.
+
+There was light inside, enough to see that the main room was rather large, with a bar at the far side and stairs leading up on her right. The ground had been swept and covered with fresh hay. Sadly, basic hygiene didn’t extend to the patrons. It took every scrap of self-control she had not to wince at the heady cocktail of rancid sweat and cheap perfume assaulting her nostrils with eye-watering intensity. The people inside tried to look the part of those with more than two iron bits to rub together and failed spectacularly. Ragged upper class coats and stained jackets barely concealed the handles of clubs and pig stickers. Those were, Viv realized, the muscle. The brain was nowhere to be found. Maybe it was still asleep.
+
+Having pushed through legs and snickering comments, Viv sat at the counter though she hated exposing her back to the room. Her contact was due any time soon. The barman moved in to take her order with a curious look. He was a completely shaven, older man and the cleanest person here. Sad, droopy eyes gave him an air of constant worry.
+
+“You sure you should be around here?”
+
+“I’m meeting someone,” Viv replied carefully.
+
+Maybe if she implied she was under someone’s protection, they would leave her alone. No one would look at her and believe she could defend herself. Another inspection brushed against the amulet. It warmed a little against her skin.
+
+The sharks were circling.
+
+“I’ll have a beer please.”
+
+The local variety was made from a popular cereal and flat water, with a slightly salty taste. Viv was elated to discover that the mug was clean and the drink rather tasty. She paid her three bits and listened in on conversations. She failed. People used some sort of cant she couldn’t follow. Pressure mounted, as did her annoyance. Mostly, she was annoyed at being scared, and especially at being scared of lowlives the average heavy could probably have for breakfast. They couldn’t realistically kill her but her brain wouldn’t listen.
+
+It reminded her of days of fear and powerlessness.
+
+Her core pulsed softly. The energy wanted out.
+
+The door opened and shut. A moment later, a man sat down by her side with a smirk of amused incredulity. He wore better and cleaner cloth than the surrounding thugs but only just so. He was handsome in a rugged sort of way, with curly hair and long fingers stained with ink blotches. She had found her contact.
+
+“You must be Busson.”
+
+“I am, and you are my mysterious customer! I expected someone… taller.”
+
+“You could have picked a better place for a meeting,” she hissed, out of patience.
+
+Busson shrugged unapologetically.
+
+“A man cannot be too careful. Some folks can’t tell that I’m just the messenger, not the author yea? I just make copies and sometimes, I don’t even distribute them! The targets blame me for ‘unkind words’. I’ve had to move my workshop twice since last year, me, a poor and innocent entrepreneur.”
+
+The sarcastic sneer showed how much Busson cared about it all.
+
+“I’m just being careful. The owner of this place and myself, we have an understanding. He will protect me, yeah? Though when you contacted me, I didn’t expect a little lady to be the one to come. So, what will it be and how much will you pay?”
+
+Viv placed a small engraved sphere on the counter before activating it. Abe had given her a sound barrier tool just so she wouldn’t reveal herself as a caster.
+
+In the following silence, she slid several pamphlets over to her prospective hire.
+
+“A thousand of each.”
+
+Busson whistled at the amount, then he read and took a sharp breath. His fingers clenched at the copies. His breath quickened.
+
+“You’re fucking crazy.”
+
+“Five gold talents per delivery. A third in advance. We will handle the distribution ourselves. You only need to give us the finished products.”
+
+“We? Who is we? Wait, don’t tell me. I don’t want to know. You are all insane. I want no part of this…”
+
+Viv heard the outrage and fear progressively turn to consideration as the man finished his sentence, calculations plain on his features. Five gold talents was a tremendous amount of money for someone living in the slums. Fifteen was enough to change cities and get a small house. It was enough to turn the head of an ambitious man.
+
+“Five in advance, you say? You have them here?”
+
+“I do, and before you get any ideas, just consider the kind of group that can throw around that sum on pamphlets, hmmm?”
+
+“Oh do not be concerned. I have my professional pride!”
+
+Viv gave a noncommittal smile. She didn’t give a shit what he said. A walk to Elunath’s door and Busson would need replacement vertebrae.
+
+“Deliver the finished product to the Post Guild. They will be expecting it and pay you on delivery.”
+
+“This is my turn to tell you not to short change me, I suppose?”
+
+“You know the Post Guild doesn’t mess around with package deliveries.”
+
+“I suppose they wouldn’t. Nasty business those guilds. Cutthroat competition.”
+
+“I bet. Will you take the contract?”
+
+“Sure. Hand over the money.”
+
+Busson slipped the papers in his waist pocket. Viv felt like pocketing money in a thug den was a little risky but he did mention he knew the local crew.
+
+“Here.”
+
+Busson snatched the purse from Viv’s hand. His fingers danced on the leather surface with great speed. Was he feeling the coins?
+
+“All there. Good. I’ll be off then. Oh, and a last word of warning. I might be under the Gaters protection but you ain’t so I’d make myself scarce if I were you.”
+
+With a last nod, Busson left at a brisk walk. Viv made to stand and face the man who’d made for her as soon as the scribe had left. Viv looked at him and knew shit wouldn’t go well. He had a manic smile, crazy hair, the filthiest, gaudiest outfit of the lot and, more tellingly, his shiv was already out.
+
+“Alright, pipsqueak, Hand over the rest of the coin.”
+
+Silence spread over the inn. Viv knew what was going on. They were letting their crazy test the ground.
+
+Well.
+
+That was fine.
+
+“This is not—”
+
+Viv did not really finish her sentence. She calmly grabbed her beer mug behind her and sent it at the man’s face.
+
+It was at that exact moment that the mug snapped in half.
+
+Because of course, the vandal title picked its moments.
+
+The handle plinked against the back of the head of a tall man who’d been badly losing at cards if the bits in front of him were any say, while the body smashed on the chest of the bar’s tallest thug, spilling leftover liquid on his fancy doublet.
+
+The crazy man blinked, then shrieked in outrage.
+
+“Really?” Viv yelled as she backpedaled against the counter. “Really, Nous? Emeric? You absolute—”
+
+She pushed away the hand holding a shiv and blocked the front kick but the weight of it made her back slam painfully against the edge of the counter. She still ducked under a hook that clipped the top of her head. The thug somehow moved back from her uppercut but he was off balance. Her next jab caught him in the plexus. He was thrown back with a welp of pain.
+
+Viv stood and shrugged her shoulders. The card player had stood white the head thug was making for her with his goons in tow. The leftover anger from the previous day surged through her. Unbridled, unabated fury washed away her self-control like a tide, only leaving clamps on her use of mana. Delicious rage ignited her spine, her chest. Her muscles flexed. Her fingers found two nearby seats and grabbed them. The wood groaned piteously.
+
+A rictus of cruelty bloomed on her face and she didn’t care.
+
+“Fine. That. is. FINE!”
+
+No spells needed.
+
+“Let’s bleed this cu—”
+
+The card player blocked a thrown seat, the crazy the other, so they missed Viv sprinting forward and kicking the player. She aimed for his nuts and missed, still caught him in the belly. He flew back, taking the playing table with his girth. Iron bits flew everywhere. Other players screamed. One of them grabbed the fallen gambler as he picked himself up and kicked him. Other folks were standing. Meanwhile, Viv dodged a shive thrust and maneuvered around the crazy to keep the thug leader from reaching her. She found a discarded chair and slammed him with it, once, twice. She relished every impact. Every time her victim grew more confused by her power. The sound of wood on flesh. On the third blow, she got him in the temple but the chair broke. The thug captain’s group moved to surround her so she jumped back over a table. The people there complained. They stood to block the thug captain’s men. Someone threw a punch. The two groups started wailing on each other. Chaos spread through the inn.
+
+Viv jumped on the thug captain, using a burst of speed and strength. Her boot snapped his head back but he caught her heel, then pivoted to send her flailing on the closest wall. Her mind was faster than theirs but they moved with great instinct. Two thugs made to catch her. She used the wall to twist on herself and dodge under their grasp. A hook in the ribs sent the first against a wrestling pair. All three men swore. The other punched her in the shoulder then grabbed her from behind. She tried to make him lose balance and failed completely, but a brief struggle let her free her neck. She bit down on his arm. It was salty and gross but his screams were delicious.
+
+She was sent flying again. Their strength and her weight meant a lot of being thrown around which irritated an already inflamed mind. Those absolute fuckers.
+
+She slammed through the window. It broke and she was outside. Peons watched her bounce on one hand to avoid wiping the entire plaza with her fancy cloak. The dog whined.
+
+She was standing.
+
+Common sense said she was out and should make a run for it. Unfortunately, common sense was taking a vacation for its own mental health. Viv crashed back in like a discount battering ram into the back of an unfortunate twat whose main sin was being downrange.
+
+“SOMEONE GET THAT INSANE MIDGET!” the thug captain roared as he made his way through the melee.
+
+“Come and get it, asshat!”
+
+The captain finally pushed past the last fighter by punching them in the jaw. Viv spotted his furious gaze as he broke through the last pair only to catch a face full of beer.
+
+“NERIAD NOT AGAIN!”
+
+Before he was even blinded, Viv grabbed an entire table and swung overhead. It caught against a hanging candelabra which broke under the strain. Her downward strike smote the captain clean on the head.
+
+“Ow!”
+
+He pushed the table aside and caught the candelabra on the nose as gravity finished what the vandal title had started. Against all odds, the thug recovered, though he was bleeding heavily.
+
+He and Viv moved in to demolish each other.
+
+The slugging contest was short and brutal. It was clear the man had skill and experience while Viv had stats. He exploited his superior reach and weight to keep her away. It mostly worked. Meanwhile, Viv deflected all of his blows before they got to her nose. He moved in to try and wrestle her but that was his mistake. She gripped his wrist and twisted, sending him careening on the ground. She jumped on him but he twisted, kneeing her in the cheek.
+
+“STOP RIGHT NOW!” A voice bellowed.
+
+Viv did so, not because the pressure of an intimidation skill affected her but because it did everyone else. She was finally cooling down enough to realize that might have been a mistake.
+
+A massive man in gambeson stood at the edge of stairs heading up. He had long dark hair and an eye patch. Muscular arms crossed over a massive chest.
+
+The brain was here.
+
+Outside, whistles echoed each other.
+
+“Maranor’s cunt, you dickheads got a patrol in my business. Out, everyone. OUT!”
+
+The harried barman pressed something and a secret door opened at the back. All assembled thugs ran with abandon, previous opponents pulling each other up to escape. Viv followed. They moved through back rooms and out of a garden door, facing a small yard. Two guards in crimson uniforms waited, but they paled and backed away when they realized they were outnumbered fifteen to one. For some reason, one of the two found Viv at the back of the formation.
+
+“Halt! In the name of the law, stop right there!”
+
+Viv completely ignored a weak compulsion.
+
+“Kiss my ass, pig!”
+
+The guards went after her as the group scattered through a labyrinth of backstreets. To Viv’s surprise, the thug captain grabbed a broken jar and swung. The piece of ceramic slammed into the leading guard’s bassinet. That slowed him down considerably.
+
+“Criminals!” the guard accused.
+
+Well, yeah. Great deduction, Sherlock, Viv thought. She was getting the beginning of a hangover.
+
+Her speed let her move quickly but she was hopelessly lost. Thankfully, a shade detached himself from a nearby corner before she resolved herself to using her gravity harness to go for the roof.
+
+“Irao! Thank, errr, some god. Maradoc maybe?”
+
+“You are being pursued. Follow.”
+
+“Okay!”
+
+The Hadal led her to a sewer grate which didn’t lead to a stinky mess but to a tunnel instead. They surfaced a few minutes later in a deserted warehouse. Viv hoped Elunath had not been alerted but there was probably no reason for it. Bar brawls had to be common around those parts.
+
+“Are you feeling better?”
+
+Viv shrugged. She had taken a few hits. She didn’t feel any pain though - maybe just a little tired.
+
+Elemental bodies were cool.
+
+Except the short part.
+
+And the emotion overloads.
+
+Bah.
+
+“Yes, much better, thank you.”
+
+***
+
+Elunath woke up.
+
+The surface part of him opened its eyes while his perception extended downward and outward through the sedimentary strata below Helock. His mind glanced over the tunnels, caves, passages, secret exits and underground bases below his city, noting the familiar pitter patter of innumerable footsteps, then it traveled up to the cobbled streets, the marble slabs and ground levels of hovels and palaces. A moment of focus brought the voice of opposition leader Dalni with whom he had a spat. The old man had stayed upstairs today as well so the sound returned malformed and garbled beyond recognition. There were no anomalies. Frustrated yet relieved, he rose from the massive bed at the heart of his private quarters. The wards flickered down.
+
+Laina had forgotten a piece of garment. It lay discarded on the ground, lost when she had retired. She would need to be disciplined again for her sloppiness. Perhaps he should have her tonight as well. A thought for later. He frowned. So many frustrations, so many unfinished businesses because he had been soft and accommodating. The Baranese contract. The outlander bitch surviving somehow. Her futile but still harmful provocation he had no time to deal with. The government’s petition for his research on fast wall-making. Accursed builders guild. Worries gnawed at him like a flock of birds peck by peck.
+
+“I should stop sleeping. No, this is a trap.”
+
+Research was formal. Elemental archmages… disappeared. They never lasted more than a few centuries before going off the map. Elunath thought he knew why. Sometimes, it was hard to say where his body stopped and the earth started. Sleeping, eating, teaching. fucking, those anchored him. But they took time. His most precious resource.
+
+Another quick glance confirmed that the manor was in order. The girls were more or less where he expected them to be. They knew better than to slack off in the morning. With one last sigh, he made his way to the bath. A flex of will filled the low pool with warm water. He went through the motions, bored. His mind wandered.
+
+He caught something unusual.
+
+His names were on many lips, those muttering excitedly. He followed one at random.
+
+“You think it’s true?”
+
+“Powerful men get powerful appetites. It’s known. You’d do the same if you could, you dog.”
+
+“Yeah but… young ones? Mages?”
+
+“Likes them fresh, he does.”
+
+“The Academy won’t be happy.”
+
+“The Academy won’t do shit and you won’t either. Stop wagging your tongue like a fisherwoman and help me get this down.”
+
+Elunath stopped. Another flex of will saw his perfectly sculpted body dried and clothed. He moved through the house like a storm as more and more eavesdropped conversations drifted to him. He found his office and on top of the desk, Sen had left a pile of cheap papers. He levitated the first one to him.
+
+“Hide your daughters!
+
+Did you ever wonder what secrets Elunath hides in the recess of his manor? Well, wonder no more. A recent testimony validated by the Neriad temples confirmed that all of the archmage’s ‘apprentices’ are in fact sex slaves bound by a decades long contract! So if you want your girls to attend the Academy instead of being diddled by a pervert three hundred years their elder, watch out for ‘opportunities’.”
+
+Fury made the pamphlet disintegrate into little pieces. He swore with feeling when he saw there were others.
+
+“Congratulations, you are paying more taxes than Elunath! Because he isn’t paying anything.”
+
+That wasn’t true, he compensated the government by maintaining the city walls for free! That saved them hundreds of gold talents every year!
+
+“Is Elunath working with the Hallurians? He has not fought in a war in decades. He has encouraged Hallurian immigration. Two Hallurians have recently joined his perverted harem. We are just asking questions!”
+
+Those motherfuckers.
+
+***
+
+“I did not know about the Hallurian connection,” Abe whispered, “I am impressed that you would untangle what must be a net of conspiracies with such alacrity.”
+
+“What? Oh no, that’s false,” Viv casually replied.
+
+“... false?”
+
+“I’m abusing something called the Gish gallop. Just throw a lot of accusations at someone really fast and they get overwhelmed. Doesn’t matter that the allegations are made up. They just need to be plausible.”
+
+“I… we are lying?”
+
+“Hmm yes? Through our teeth? This is a smear campaign.”
+
+“I do not know what to think about this. I… need to consider… It seems fair to use any tools that do not hurt innocents, and yet… I… I will return to my garden now.”
+
+“Sure. Just wait until people start to join the fray.”
+
+“Will they not get tired of lies?”
+
+“Oh no. Soon they’ll spin ‘exaggerations’ themselves.”
+
+“This challenges the moral compass I have imposed on myself. I am leaving.”
+
+***
+
+“I heard he’s impotent. That’s why he got all these girls and no kids. Used witchery to make himself handsome but he got no meat so he got to fuck them with a dick made of granite,” a baker said to her friend.
+
+“Ain’t that a little cold? Using stone, I mean.”
+
+“How do you know?”
+
+***
+
+“The first night’s results seem conclusive though everyone is waiting for Elunath’s response for now. It will take a little while to break his hold over the populace. They are too afraid for now but the longer this goes on, the more damaged his image of invincibility will grow. It’s also possible I should have spaced the accusations a bit more over a couple of days instead but overall response seems positive according to Lim’s network,” Viv said.
+
+“Must we work with that individual? I do not think she can be trusted,” Abe remarked. “And I have concerns about the… penis insinuations.”
+
+“I didn’t make that one. And you are right not to trust Lim. She’s an opportunist. Does good work though.”
+
+//Focus, Your Grace.
+
+“Right. The slum arcane speakers with recorded messages have been a salutary idea. I suggest extending them to the southern district and pushing the Hallurian connection aspect as they’ve proven to be the most racist population group.”
+
+“Lim gave a report that the gang leader considers union with a Hallurian to be miscegenation,” Sidjin added.
+
+//That is correct.
+
+“It’s settled then. What about the backup pamphlets?”
+
+“I have finished them,” Abe said. “And we are ready for the grab.”
+
+“Bank first. It will be the greatest prize and I don’t want Elunath to wise up and add additional defenses. It will be difficult enough as it is. We’re still good for tonight?”
+
+“It cannot come soon enough,” Irao whispered.
+
+***
+
+Fury filled the archmage.
+
+“Sen. Get over here. Bring Lana.”
+
+He kept his attention on the dark-skinned beauty as she rose from her seat at the entrance, then found Lana helping one of his newer acquisitions learn blue mana mastery. The tone in Sen’s voice hinted at Lana that something was wrong because the smaller woman froze. Was it guilt? Those women were playing games with him, hiding things. They conspired behind his back after he pulled them from the mud and gave them everything they had. It was never enough for them.
+
+Maybe he should have Lana tonight. Then a pillow ‘talk’.
+
+Elunath tracked the two as they strode to his office with hurried steps, watching their every move for a sign of duplicity. How did the pamphleteers know? Collusion?
+
+The two women entered after a short knock. They stood at attention, eyes lowered. He couldn’t tell if they were truly afraid. They ought to be afraid. Especially Lana.
+
+Elunath tossed her a copy of the first pamphlet. Lana caught it with a hand that shook just a little. Cracks. He would find out soon enough.
+
+“Explain,” he ordered.
+
+She read. She licked her lips. She made him wait. He was not one to be made to wait.
+
+The backhand caught her in the jaw and she fell against the wall. He’d broken the skin of her lip. Blood dripped down her dress though she made no move. She waited, eyes still lowered. No hint of panic or guilt. Just resigned patience. That calmed him down, which led to another flare of anger. She was manipulating him after a fashion. She knew how to handle him so he would stop. She could not be trusted.
+
+“I do not understand,” she said.
+
+“Only one person stayed with the witch for any duration. Only one person could get a contract copy to a priest of Neriad to get them to swear. And make those… vile accusations.”
+
+A flash of anger and outrage went through the woman’s glare, gone so soon he could have imagined it.
+
+“Unless…”
+
+He turned to Sen. She shook her head.
+
+“The contract is still in the secured box under my desk. I’m sure of it, and besides, the witch’s testimony would have sufficed to a priest of Neriad. They wouldn’t need the original document so long as she swore. Any caster of our level has perfect recall.”
+
+“Even a witch?” Elunath asked with suspicion.
+
+“Yes.”
+
+“Well, it has been so long since I was weak. I tend to forget the requirements for each step.”
+
+He searched his mind a little. He did not quite forget things. The knowledge was merely not immediately available. Ah, yes, he remembered now.
+
+“I suppose. Yes. It remains… plausible.”
+
+He sat back in his throne, giving a glare to indicate they were not off the hook just yet. Lana used the opportunity to stand back up and wipe her mouth. Her dress was stained. More pointless expenses to get that cleaned up.
+
+“Sen, the witch clearly recruited a copy maker, most likely local. Compare with past works registered at the scribe office and find out who it is. I will pay them a visit. Lana, retain the services of our dear inspector general. I believed the witch would crawl like a cockroach in the sewers where she belongs but she is not there, so I assume she found a mud pit somewhere outside the walls. Have it found but do not intervene. I want to have the pleasure myself. Favor stinky, isolated bogs and you will likely find her.”
+
+“Sir, the inspector general might refuse you.”
+
+“What did you just say?”
+
+Lana swallowed but persevered.
+
+“The rules of the vendetta forbid the use of public resources.”
+
+“Nobody can tell me no without consequences.”
+
+“As you say,” Lana replied.
+
+“That will be all. Dismissed.”
+
+The two girls walked away. A spot of congealing blood against a column distracted him for an instant so he waved it away, stone obediently swallowing the spilled ichor. Harmony returned to the room. His patience was frayed.
+
+“Renea. Come,” he whispered.
+
+“At once, Your Grace,” his pale servant replied.
+
+Elunath watched her rush up from the basement lab. If only all of his pupils were like Renea, the world would be a better place. She was eager, disciplined, and aware of her station. Helock was at peace because its people understood the natural order, one enthroned by magic itself. Agents of discord like the witch could not be allowed free reign.
+
+“My lord?” she asked when she arrived.
+
+Elunath inspected her posture. Leaning forward, excited to hear what her new purpose might be. He would have to reward her later. Place her above those backstabbing leeches.
+
+“Someone has been badmouthing me all over town. You are to contract the Ustav agency and find who’s left sound magic enchantments in the slum. They will have to be replaced or recharged soon. Possibly tonight. Catch them in the act.”
+
+“Very well, my lord. I will direct them personally.”
+
+“Yes, Excellent initiative Renea. You never disappoint me. Say, Lana mentioned that the inspector general might not support me in a search outside the walls. What do you think?”
+
+Elunath watched her consider her reply. That was fine. He hated people blabbering uselessly.
+
+“No one would dare defy a direct request from you, however, here I will have to agree with her. Helockian officials will drag their feet. Oh, they will not overtly refuse you. Instead, they will make excuses.”
+
+“They always make excuses.”
+
+“Indeed, my lord. If I may, a search for that ungrateful…”
+
+Elunath gave a warning glare. Curses were not tolerated here, yet he appreciated the venom in Renea’s voice.
+
+“Perhaps the Ustav might be convinced to employ their ‘bounty hunters’,” she said instead.
+
+“Those slave catchers?”
+
+“They have experience in the wilderness, my lord. It will be costly, however.”
+
+“Money is not a factor at the moment. My mind lingers on an intriguing little contract for warborn tattoo ink from our friends from the south. I will not suffer distractions. I want this issue promptly resolved and the witch found so I can… impart wisdom upon her.”
+
+Renea smirked.
+
+“As you will, my lord. And for those awful rumors I heard about? Should we respond?”
+
+“You want me to roll in the filth with whores and fishmongers in a contest of gossip?” he roared.
+
+Renea flinched. Elunath stayed his hand. She meant well.
+
+“I am above such concerns, Renea. The sheep will think what the sheep enjoy thinking, as they always do. As for those who propagate those lies… they will be dealt with. Dismissed.”

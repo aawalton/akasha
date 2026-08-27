@@ -1,0 +1,307 @@
+---
+id: 9050cbcd-b230-5dc4-b08d-4f20cda1dc00
+page-type-slug: story-chapter-royal-road
+title: "395 AWAKENINGS"
+slug: 0510-395-awakenings
+partOf: path-of-the-deathless-book-4-completed
+position: 510
+ownLength: 5174
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3608639/395-awakenings"
+royalRoadId: "3608639"
+---
+
+Most Outsiders are devoid of vitality. It's not that they're not alive, but simply that they don't adhere to any standard structure. The little Eldritch Gods that were too weak to escape the orbit of the System, however, are a different matter. Over the course of decades and centuries, mana stains them. It infests them. It changes them and drags them closer to a structured order.
+
+Every skill they gain is another shackle, another bit of structure enforced upon them. They slowly lose that boundless freedom, that lawless nature that allows them to traverse the madness which lurks beyond Integration.
+
+But that doesn't mean the Outsider grows weaker. Rather, as the branches of possibility are pruned, they begin to grow into a more specific direction. Their race, as designated by the System, changes, and they become a new lifeform, one ruled by a specific theme.
+
+The Stranger, for example, is slowly becoming a voyeur, a temporal voyeur that is aware of everything. He leers at you through the past, the present, and the future. All these points of time are collapsed together for him, and they are never forgotten.
+
+The Stranger is memory. He is that lurking gaze just beyond your reach, and if he evolves a little bit more, I suspect he will become a God of Stalkers.
+
+Imagine that—the System affording this parasite such dignity. Disgusting.
+
+—Turn and Face the Strange(r), by Hades Hymn
+
+395
+
+AWAKENINGS
+
+Unconsciousness never fully took Adam. He tried to resist it. He managed to meditate during flickers of lucidity.
+
+But he wasn’t enough. He couldn’t beat it.
+
+That was the worst thing about the Crown of the Anti-Savior: he never gained a moment of rest. There was never any hope for peace. It was an instrument of perfect torture, driving his mind to the brink yet mending his sanity before he plunged over the edge, in an eternal cycle.
+
+No release.
+
+That was the central rule of the Crown. It fed hate and fury into his blood and dug its teeth deeper and deeper into his psyche, forcing him to behold visions of bloodshed and war. As his emotions tore his awareness asunder, the pieces in between were replaced by a millennium of festering violence.
+
+The Crown was more than a device of physical torture. As it subjected his nervous system to unspeakable torment, he was also laden with foreseen insights as he lived through a grand archive of suffering and death. He wasn't the first to be devoured by the Crown. So many others rested within the depths of its shifting metal. They screamed as a chorus, their voices echoing, drowning away his own thoughts as lifetimes of horror blended into his mind.
+
+Trapped in a feverish haze between reality and hell, Adam remembered fighting on worlds which he couldn't name, beholding vistas stranger than his vocabulary could describe, engaging distant foes far beyond the horizon, watching as flashing lights ignited the black of the void above, and witnessing continents come ablaze as blurring missiles struck the earth and sundered the tectonic plates deep below.
+
+His consciousness jolted—and he lost himself for small eternities.
+
+He watched his home world's atmosphere combust and the ocean planet's wine-dark depths turn to pitch-black steam. His flesh was boiled away as his two children turned to ash in his arms. His Toughness was superior to theirs, but his strength and all other skills too little, with no hope for saving himself nor all he loved. That lifetime broke, and he was cast in another memory, one that put him in the boots of a perpetrator once more.
+
+Adam dreamed that he was a Void Elf, one that prided himself on the purity of his bloodline and the potency of his magic. He served an empire of sin and atrocity, butchering all races deemed lesser than the Void Elf—and no race could be equal to or greater than they. What followed was a thousand years of unspeakable deeds. He was a prisoner locked in an alien perspective, trapped in a body that wasn't his own. The flesh he wore in that lifetime knew cruelty and lust to be commingled, and the things he did left Adam howling in the dark and deep, begging for all to stop.
+
+But the Crown just tore deeper into him. It tried to rewrite his mind. He felt it building new architecture in his brain matter, unleashing doses of indescribable euphoria through his body with every vile action he was forced to perform, with every horrific moment he witnessed in this unsheltered nightmare.
+
+The Challenger was conditioning Adam, trying to break him until he was nothing more than a dog of war, an animal that yearned for pain and butchery, for that was the only Release. There was nothing else of him. There was no greater pleasure, no finer deed than the death of another and the destruction of a world.
+
+But though it shredded his mind and left his sense of self in tatters, Adam never truly dissolved. Time after time, pain after pain, trauma after trauma, there was still something inside him, an anomalous seed deep within that refused to part, that refused to collapse, that simply couldn't.
+
+Adam begged for death, but where his emotions and thoughts dragged him toward the cliffs of oblivion, something inside him burned brighter. Something inside him kept him from going over that edge.
+
+He had to defy. There was no choice. He knew no other way. He had to fight. It was who he was.
+
+It was his legend, his history, his birthright, his Domain.
+
+But it was more than just Heroism—deeper still than that surface Divinity which the Watchtower woke within him. It had to be; this latent influence raged the strongest and burned the hottest with every surge of anguish he endured, and hotter still when he pleaded for mercy, debasing himself as he howled into the blasted madness that ruled his mind and received only the sound of the Challenger’s mocking laughter in response.
+
+And that power grew. It kept him whole of spirit and anchored of self. He was no longer truly sane, but he was still here, still capable of fighting.
+
+Though the urge to harm and kill and war sank deeper and deeper into his flesh, a greater dissonance loomed as his something within the core of his soul drove a counter-impulse against the re-education the God of Strife tried to inflict.
+
+“Enough of this groveling,” a heavy, hateful, and altogether unfamiliar voice thundered, resounding from the very bedrock of Adam's being. “Debase me with this weakness no longer, inheritor. Deny your pain. Enslave your torment. Defy this insult levied upon us by that mongrel bastard born to war. He is beneath us. He is and will always be beneath us. Do not shame us by feeding him any more pleasure. I command this of you: Enforce your dignity.”
+
+At first, Adam thought he was caught in another cycle of suffering. He waited for all the memories to tear through him. He waited to discover if he was to be a victim or a slave of war. Perhaps both. Was there any true difference? But then the voice sounded anew, and its tone grew even harsher, its fury ever greater.
+
+“You will remain ignorant of my presence no longer, unworthy scion! I linger in fragments and echoes, but even this palest shade of me is infinite magnitudes greater than anything that blood-craving mongrel will ever be. Master yourself. You are mortal no more, and I will not see you perform any more displays of mortal fragility. Gather your mind and heed me. Enforce your own Tyranny upon yourself. Accept no lesser one. Internalize these words: No Tyranny but that which defines us.”
+
+“Which… defines us…” Adam gasped, thrashing in his bed, drawing a breath and tasting… Was that the flavor of wet soil? Were those the sounds of birds? Was he in a garden? His mind splintered anew—he remembered enjoying brief instances of peace, and his Haunting Omniscience didn’t feel so overstrained anymore—even if he remained drowned beneath a sea of unwanted knowledge.
+
+“Heroism?” The voice within Adam scoffed with such derision it tore something inside his soul. “What a pitiful, feeble extension of my true expression. What a worthless Ensouled you are. But that is forever and always the problem with your like: Divinity was not meant for screaming apes. Ever defiled by your own emotions, by base needs and fears, unable to pick up the mantle of my true expression. Yet, how could I ever exist without you? How could I be without the actualization of your civilizations?”
+
+“Who…” Adam whimpered. “Hurts…”
+
+And suddenly, he felt a heavy hand press against his own. A rush of peace washed through him.
+
+It was an intrusive emotion, one that touched Adam for a brief instant, but was driven back by an ignition of unspeakable misery. Every thought within him was converted to murderous need; every muscle tightened as the Crown whispered for him to rise, to let blood fill the canals that defined his fingerprints, that he needed to know how it felt to bite into a thing of living flesh and rip pieces away until his stomach was heavy with gore and his prey empty of life.
+
+He blinked as his eyes stopped rolling. His gaze refocused, and for just a moment, his uncontrollable Pre-Legendary skill went dormant, suppressed by another's will. Adam saw two figures looming over him. The first was his father, his face wrought with stress lines, his eyes misted with unshed tears of near despair. Towering next to Roland was the Culturist. His eyes blazed with azure glory, like a perfect sky purified of all pollutants. Adam thought those eyes looked familiar, and he realized they used to be his eyes….
+
+“Why do you… have… my eyes…” Adam asked, confusion overtaking all other emotions. “You’re an orc. They’re supposed to be… yellow.”
+
+A choked noise slipped out of Roland. “Adam? Adam? Are you… How is he? Is he getting better? Can you make him better?”
+
+His father's words were more plea than question, and the Culturist’s brows furrowed in response. Adam felt another rush of calm wash through him—and that calm was amplified as the infusion of peace struck something inside him, spilling into a rumbling power that let out a pleased chuckle.
+
+Your Domain of [ERROR] has received an offering of Devotion.
+
+“A shame I was not given unto this mongrel of mongrels. At least he has a yearning for the hardest law and would have given himself to my will, if only to make the finest empires. You? You shame me, Arrow. Groveling and quivering in this bed like a pitiful mortal. What worth is your soul if you cannot even defy a scurrying cretin like the Challenger?”
+
+Something deep inside Adam stirred—and it touched the Culturist, tried to latch onto him.
+
+The orc’s expression flinched with astonishment—but then his mouth opened as the look on his face turned to one of absolute terror. “Challenger? Is that you? Is that your Domain I feel?”
+
+A thunderclap of cataclysmic anger exploded within Adam. But rather than bursting out from the Paragon as fire, it flooded the blissful garden as a dense layer of mist and seized everything in a stifling grip.
+
+Adam sat up, lifted by the mist now coming aglow with incandescence. This time, instead of seeing himself cast into another body, something else took hold inside of him. The slumbering will that lurked in his depths rose, displacing Adam’s memories—his sense of self and every aspect of who he was with its mass. It was like the shadow of a tide-shifting god of the deep rising out from a cup of water. The totality of what Adam carried was far too great for him; even this divergent splinter of its original wholeness. But even so, it exerted itself, and it inserted its own rules over the existing architecture of mana and legend.
+
+“The insults never cease,” the presence’s voice reverberated through Adam. “Speak of war no longer, for you exist at a greater tyranny’s merciful allowance.”
+
+Adam leaned forward and felt the Crown of the Anti-Savior scream inside his skull. It was burning hot, doing all it could to overload Adam’s nervous system; it even tried to rewrite his personality entirely, stacking a sprint of disturbing moments and emotions for him to endure.
+
+But the presence’s will proved greater than the concept of War itself—or simply so antithetical that conflict could find no purchase within Adam nor all of reality.
+
+If only for a moment.
+
+Adam noticed something else: the corners of the blissful garden were fraying and rupturing. Notification after notification blinked into place before his eyes.
+
+Warning: Severe mana rupture imminent in Gate Piety
+
+WARNING: Invasive Architecture det—
+
+“You be silent as well,” the voice within Adam snarled. The glowing mists thickened, and the notifications winked out. Suddenly, a feeling of wrongness came over Adam: the same feeling he endured when walking through mana-barren dead zones. “For this fleeting instant, while this shadow of me still remains, I will speak to the one who stole me from my grave. I will be the one true law of existence. As is my will. As is the eventual will of all true empires, of all worthy civilizations. War? It is but the weakness and decay of existence that festers in my absence. And I have been absent. I have been resting in a dream of death. But I am no longer within the cycle that is to contain me. I am infested by a lore that is not my own.”
+
+The mists clutched Roland tighter. He tried to move—Adam could see how hard his father was struggling. Yet it didn’t matter. This wasn’t even a matter of crushing inferiority like with the Challenger; grasped by the mists, defiance and strife simply became… impossible.
+
+Even in concept.
+
+“I remember you. Roland Arrow. Servant to a graverobber. Servant to Matthew Carter Thaen. Mortal after mortal playing at godhood, always clinging to the banalities of your Domains, but refusing to release the fetters of your narrow little existences.” A deep, mocking laugh sounded from the mists. “How I despise you. How you insult me with your ever-failure to defy and overcome this existence of yours. How I wish I could grind you down and reduce you from being.”
+
+“Do not,” Adam hissed, breaking free from the thing that wore him. “You will not harm him!”
+
+And for the first time, Adam exerted his will upon that which had roused within him, and commanded the mists around him to part. The Divinity infused within the vapors proved fragile. All that spilled out from Adam was drawn back inside. As the will of all-enforcing Peace was broken, both the Culturist and Roland staggered free—while the Crown returned in full force, tearing through Adam’s psyche unchecked.
+
+A howl escaped the Paragon as he was accelerated through hell after hell after hell after hell—
+
+But something caught him before he could plunge too deep; a fragile string held him in place as the presence spoke to him and only him once more. “Hear this, unworthy inheritor, and hear it well: I was not meant for you. I was not even meant for the wretched thing that held me before you. I am beyond you. I am beyond your System. I am beyond power, reality, or any notion of law—even as a fleeting memory of my once-self. Yet, your System has seen fit to impart a replica of me within you. The hidden schemes of your Starhawk have borne fruit more than once, and that which he stole, once meant to be your sister's inheritance, was bequeathed to you by bloodright, sparing you from fated death at the hands of the Meddler.”
+
+“Meddler,” Adam whispered, blood gushing down his face anew.
+
+“Adam!” Roland cried, clutching him by his arms. “Adam! Stay here! Do not… I…” His father looked more terrified. Human. Mortal. Terrible things for a son to realize within his father. He clung to Adam tight even as he remained tense, prepared for the mists to return. There came a shudder in the air, and Adam heard his mother crying out for him, as well as another following close behind her.
+
+I-isabella? Adam blinked, recognizing his love. She seemed winnowed and frail, yet she was still staggering toward him, dread twisting her features, bravery compelling her forth.
+
+“It does not matter. They do not matter. Your wants do not matter. None of this matters. Only your purpose matters. You are unworthy. You will always be unworthy. You have not the mind nor the will nor the foresight to see my truth made manifest, to see my final tyranny built. But you have inherited my Domain through duplicity or otherwise, and so I charge you with this duty: Enforce your will. Choke strife until it runs dry, even if it leaves this existence less than hollow. Be the boot, the fist, the scepter, and the crown. Purge the scourge of War and wipe clean all that is Anathema. Though only a facsimile born to a lesser reality, granted power rather than being the power unto yourself, an echo of mine you remain, and in you do I sense a will that yet burns toward the higher virtues, toward the promise of truest apotheosis.”
+
+And the presence went quiet and pensive—fearful of the higher power it was about to invoke. “And perhaps you will surpass my scorn. Perhaps you and this Integration will honor and rekindle His Memory, lest you succumb and sink further into the crumbling architecture of Her Design.”
+
+I don’t understand, Adam wanted to say, but the Crown was taking hold again, and he was losing himself.
+
+“You do not need to understand. You simply must enact the Domain we share. This shadow of an existence needs a proper master, and as you are now, you are no more than meager vermin. But that is no excuse to kneel and succumb. Even the lowest death-trash can rise from an entropy-choked corpse and usurp the light.”
+
+The presence waned inside Adam, and something final came over the mists as it thinned and vanished. “So fades this echo of mine. I have charged you, as I charged the so-called Great One before you. She failed. She fell. I expect you to do the same. Prove me wrong. Bring about the Final Tyranny—or see the Domains cast from my mold sundered within before it can take shape.”
+
+And with that final declaration, something slammed down upon Adam, smashing him through his bed, smiting flesh, mind, and soul. The Crown of the Anti-Savior rattled in his gray matter, and a flood of violence held back for too long flooded into him once more. Adam screamed as he felt himself torn in all directions, living too many lifetimes for a single mind to bear. Yet, something caused his suffering to stutter; instants of war were, but then instances of peace took hold.
+
+A struggle began within Adam.
+
+Something had hatched inside of his soul.
+
+A seed slipped out from within the shell that was his Heroism, and just as Adam’s Haunting Omniscience threatened to unravel his attention once more, a series of notifications loaded, and he felt his mind...
+
+Domain Restored: [Tyranny]
+
+Excess mana detected within Domain
+
+Non-Divine Attuned Mana detected
+
+Unable to determine Attunement
+
+Converting excess mana to priority Skills…
+
+Skill Inherited: Zone of Absolute Dominion (Legendary) 250
+
+This Haunting Omniscience 467 > 501 (Skill Evolution Reached)
+
+Meditation 46 > 83 (Skill Evolution Reached)
+
+Multitasking 50 > 90 (Skill Evolution Reached)
+
+Skill Evolution: Meditation (Initiate) > Peace Born From Fraying Flame (Master)
+
+Skill Evolution: Multitasking (Initiate) > Mind In Seamless Motion (Master)
+
+Skill Fusion: Peace Born From Fraying Flame (Master) - Mind In Seamless Motion (Master) - This Haunting Omniscience (Legendary)
+
+[Initializing Delve…]
+
+“Wait,” Adam said, his speech slurring as his soul nearly tore itself apart from within to accommodate the emergence of a new Domain and what felt like a divinely forced arrival of a Legendary Skill Evolution. “It’s too much—I still haven’t—”
+
+Before Adam could say a thing, he was wrenched straight down into his Delve—but the torment of his Crown never ceased. Instead, the pain it inflicted was magnified thrice over as Adam fell from one hell to another.
+
+***
+
+Reality rhymed.
+
+As the cocoon of burgeoning Divinity burst within Adam Arrow, a symmetry traveled across existence, like the reverberation of an invisible string plucked that had long been silent, passing over into the Court Leviathan hovering above Gate Piety’s Abyssal gateway. Aboard the monstrous vessel turned from instrument of war into a traveling kitchen, a brilliant sphere stained with a kaleidoscope of colors flickered a final time as eldritch mana was converted to fuel for stolen Divinity.
+
+***
+
+Elsewhere, in a sunken tomb that bound Integrated Earth to dead universes devoid of stars and choked black with entropy, higher realms where the brittle laws that shaped a mortal’s understanding of reality were reduced to less than dust in metaphysical maelstroms, and countless dimensions between, the festering taint of the Outside spilled over into the Great One.
+
+And tinted a High God’s dreams with vivid and lively colors.
+
+For the first time in eons, the corpse of a thing that remembered itself to be death felt something, and dreamed differently. For the first time in eons, the husk of the Great One thought instead of merely drifting within a diluted sea of their own memories and legend.
+
+***
+
+Meanwhile, the cocoon aboard the Sky-Swallowing Carp burst open, and from the parting shell extended a hand wreathed in colorful plumage, incandescent at the root, with feathers akin to the dancing flames of a stove-top, changing hues with each and every shiver.
+
+With a casual push, a newborn being staggered free from its receptacle of rebirth.
+
+Nested in the flesh of a mortal, imbued with the thieved Divinity of an Ascendant, and charged by rivers of mana connected to her own faraway realm, a nude pseudo-Umbral sprouting a swaying puff of wild-orange feathers for hair stumbled in and out of reality, striding between the ambient mana threshold that served as a habitat for mortals and the unbound phlogiston traversed only by Divinities and those who had long evolved past the limitations of mere Legends.
+
+“Where is… Where is my… felling… felling…” The goddess looked down at her arm and frowned at the pale, moon-bright skin almost hidden beneath blazing feathers. And then that frown deepened into a flabbergasted scowl as a few million currents of faith began to pour into her once more. Her being flared ever-brighter as a rush of sobbing prayers and overwhelming relief spilled into her personal plane.
+
+“O Wanderer! O Longinus! I prayed so much! I prayed so hard! Thank you, O Longinus! Glory to you, O Longinus! Thank you for returning! I give all I am unto you!”
+
+“Blessed Wanderer! You are well once more. I would have given anything! Anything! Praise be, your pain is ended… Our pain has ended… I feel you once more. I feel you once more…”
+
+“Longinus? Great Wanderer? I am calling to you, but why can I not feel you? Are you manifested in another body? Are you lost still? Great Wanderer, please speak to this lowly Avatar! Have I displeased you in some way? Do you not find my flesh to your liking anymore?”
+
+Millions of overlapping voices assailed the reborn Divinity, and she clutched her head as the mortal part of herself suffered extreme strain, while her Eldritch side reveled in all the dreaming minds that lit up around her like a spreading constellation.
+
+Her personal dimension was still only an expanse of blinding mana, but splotches of color were bleeding over the bland and bright. Schools of slithering creatures glided from place to place, while impossible architectures sprouted out of the ground and transformed with every story grown, until what started as a building became an arm-shaped bridge reaching through an ocean in the sky.
+
+The nonsense logic of dreams began filling this space, and the reborn goddess tried to process just what was happening, and remember who exactly she was. “Where is…. Who… Uva? No. Who is Uva? Who is Longinus? And why do I really, really want-need… a smoke? I want to taste… Dreams?”
+
+Domain Evolution: Exploration > Dreams
+
+Your Domain of [Dreams] has received offerings of Devotion.
+
+Your Domain of [Travel] has received offerings of Devotion.
+
+Your Domain of [Hunger] has received offerings of Devotion.
+
+Your Bound Dimension is Evolving…
+
+Warning: [This Sea of Taken Dreams] cannot be fully assimilated into your present Divinity in its entirety.
+
+Your [Aberrant], [Madness], and [Nightmare] Skills and Dreamspawn cannot be sustained by your current mana configuration.
+
+Assimilate anyway? (Your affected Skills and Dreamspawn will be destroyed in the process.)
+
+“What?” the addled goddess murmured. “No. Why the fuck-shit-cunt-hells would I want to do that? Give me another choice, you… you…”
+
+Bestow unassimilated Skills, Dreamspawn, and dimensional zones upon a Skill-Bound Seeker?
+
+A long list of names spilled down before the goddess’ squinting eyes, but her gaze never fell lower than the top-most option.
+
+Hero-Seeker Uva Mettabon
+
+“Huh. Uva…” The Dreamtaker tried to remember why she felt such closeness and… was that affection for Uva? While she was distracted, the part of her that was more Georges took hold. “Sure, fuck it. Let her have—AGGHHH!”
+
+The goddess felt something inside her come apart. Her Skills fragmented, and her very being was torn open at the seams, peeling apart as the System injected chunks of crystallized mana from her into her chosen Seeker. “YOU COULD HAVE WARNED ME OF THE PAIN-HURT YOU… YOU… YOU CUNNNTTT!”
+
+Her shrill cries went unheeded by the System, but below that, the sheer intensity of her agony, and the volume of her scream, tore through her faithful all across the Yellowstone Republic like a psychic hurricane.
+
+Thousands went insane on the spot.
+
+The goddess barely noticed.
+
+Transferring all rejected Skills, Dreamspawn, and Zone to newly designated Progenitor…
+
+It was at this point that both the greater whole that was the Dreamtaker and the part of her that was Georges remembered something about needing to ask someone for permission before firing something at their soul. And that just now was a loooooot of mana for a Heroic-Tier mortal.
+
+Maybe too much. Definitely too much.
+
+The Dreamtaker covered her eyes in embarrassment. “Oh, no-fuck, I might have performed an accident. Big, bad-felling accident.”
+
+***
+
+Uva wasn’t much of a screamer. Indeed, she wasn’t much for expressing unnecessary emotion when she didn’t need to. However, when her soul suddenly ruptured open without warning, for seemingly no reason at all, and found itself infused with a world-crushing torrent of Eldritch mana, her stoic facade shattered, and a throat-ripping shriek tore out of her—just as she was discussing the Gate’s accommodation problem with Still Water.
+
+The Heroic Weaveress nearly molted out of her skin right then and there as Uva collapsed, seizing violently. Her translucent mana strings went taut with tension, and suddenly began changing colors as they were stretched and angled upward to a place beyond this dimension.
+
+***
+
+“Uva? Sister Uva?” Still Water hesitated before reaching down to touch her. The Weaveress watched the surrounding Psychomancy strands warily as they began to widen into fissures, while the same strangeness afflicted Uva as well. The Eldritch tears that outlined her form expanded, and Still Water caught a glimpse of things scuttling on the other side.
+
+Things that made her mind reel and her hairs rise. “Sister Uva, if you can hear me, I’m going to go find that surfacer pervert—the Headmaster. You just… Keep yourself alive if you can. I’ll be back as soon as I—”
+
+“No need,” a different voice declared. That elven man, Hades Hymn, if Still Water remembered correctly, teleported into the office, fumbling with his clothes—most of which were off for some reason. Still Water also noticed a series of human—or Umbral—bite marks running down and along Hymn’s neck and exposed torso. His eyes lit up with violet and translucent mana as he strode toward them. “I know what this is. She will be fine. I think. Theoretically.” Hymn paused. “Alright, I’m actually not sure. She could turn into a vegetable if the transference goes poorly, so prepare yourself if she wets herself and starts drooling.”
+
+“Transference?” Still Water asked, taking cover behind the tall but still much smaller elf.
+
+“It’s when an Outsider God—or any powerful Outsider, really—is destroyed or consumed by the System, leaving a portion of their previous legend behind. In this case, I suspect the Dreamtaker has completed her Metamorphosis. Now, because she is too close to Longinus to carry aspects of herself, she decided to give all the Skills, spawn, and dimensional aspects born of her original existence over to Uva as a gift. Or just because.” Hymn closed his eyes with naked frustration. “System, you lucky, lucky girl. I would have welcomed and been prepared for such a thing. But no, everything must go to these over-favored, over-tortured children for some reason.”
+
+“H-hurts,” Uva gasped, her eyes rolling—growing brighter and brighter. So bright that all the other lights in the room began to dim, and a shifting mirage started to form.
+
+“I know,” Hymn said, sounding not at all sympathetic. “But let me tell you, girl, true pain is when—”
+
+Twin beams of coruscating light exploded out from Uva’s eyes—barely missing Hymn and utterly disintegrating the ceiling before flooding the Unique mana core high above.
+
+“Oh, no,” Hymn muttered, wincing. “That might not be ideal.” The sky along the mana core began to fissure, and bits of the Outside started bleeding over again. “That might not be ideal at all. You know, spider, Eldritch mana is invasive because the System hasn’t fully structured how it works yet, so it often causes a sort of corruption, and pair that with our dear Uva’s newest Feat…”
+
+Tendrils of eldritch power tainted the azure sphere in the sky, and the Gate was bathed in an ethereal glow.
+
+“Stop explaining how it works to me and find a way to stop it!” Still Water hissed.
+
+Hymn scratched his square beard and grimaced. “Well, it’s… quite a bit of mana. Stay here. I’m going to see if I can find a certain someone to block her eyes.”
+
+“Block her eyes?”
+
+“Yes! Using the Deathless. Maybe he can blunt the flow for a while. I’ll be back in a moment. Don’t die. I’ll be indifferent if you do.”
+
+With that, Hymn blinked out as suddenly as he entered, leaving only Uva and a speechless Still Water behind. A slight limb that resembled a merger between an Umbral’s and a spider’s slithered out from Uva’s unnatural flesh, and a symphony of disturbing laughter rang out across the world.
+
+Still Water's left palp twitched in exhausted terror. “I wish Null Mont was still here instead of me.”

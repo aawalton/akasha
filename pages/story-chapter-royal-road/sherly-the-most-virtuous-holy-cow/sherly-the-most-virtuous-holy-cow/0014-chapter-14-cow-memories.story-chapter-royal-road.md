@@ -1,0 +1,259 @@
+---
+id: f570d6e8-2642-54ba-949b-98ecf63e52f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14 - Cow Memories"
+slug: 0014-chapter-14-cow-memories
+partOf: sherly-the-most-virtuous-holy-cow
+position: 14
+ownLength: 2273
+unit: words
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2568523/chapter-14-cow-memories"
+royalRoadId: "2568523"
+---
+
+Chapter 14 - Cow Memories
+
+”Oh, Sherly! You’re awake! Are you alright? I came as quickly as I could!”
+
+Huh? Who?
+
+“I brought you some burgers from your favorite place. Be sure to eat lots, alright? You need to recover as soon as you can!”
+
+Oh… It’s aunty. Where am I? I fell? Where? When?
+
+“I mean… I’m sure my sister didn’t really mean to push you off the stairs. I’m sure it was just some argument, right? Money’s a little tight as always, so she’s super stressed.
+
+“Anyway, I think you should focus on recovering enough to get back to training. As long as you can get your medals, the school will let you study for free! Then you can get a good career and help around the house financially! I’m sure there’ll be no more fights then. Okay, Sherly?”
+
+Oh, yeah… I fell down the stairs. I wonder if my legs are alright.
+
+“Ah, by the way, I wonder if I can ask you to babysit for the kids again? I’m sorry I can’t pay you, but we’ll only be gone for half a day this time, promise!”
+
+That means overnight, then…
+
+“It’s today. Can you do it? I know you just woke up, but it doesn’t seem like you’re that badly hurt. I promise I’ll pay you soon!”
+
+Ah, so that’s why she came… What did I expect?
+
+[Sherly!]
+
+Hmm?
+
+“Oh, and while you’re at it, would you mind cleaning up the house a bit? You don’t mind, right, Sherly? If you’re recovering, you might as well exercise with a bit of cleaning, right?”
+
+I dunno… Sounds like nonsense to me.
+
+[Sherly, you have to wake up!]
+
+Who’s that?
+
+“Well, I’ll go now. Got to run. I’ll leave your school work here, make sure to finish it. Your classmates said you still need to submit your contribution for the group project.”
+
+I’m pretty sure I’m the one doing everything on that one.
+
+[Sherly!]
+
+Mmm…
+
+[Sherly!]
+
+“Sherly!”
+
+The cow girl opened her eyes. Ishuin was nudging her awake. The elf had a worried expression, gradually turning to a sigh of relief.
+
+“You were having a nightmare,” she said.
+
+The first thing that Sherly did was narrow her eyes. “Is that a bad thing in this world?”
+
+Ishuin raised an eyebrow. “It isn’t in yours?”
+
+“It is, technically. What I mean to ask was, if having nightmares will cause something bad to happen to me.”
+
+“Oh, no. Nothing bad would happen. It could be an omen, but having nightmares is a common occurrence regardless.”
+
+“I see… Well, I don’t think mine was an omen. Just bad memories resurfacing.”
+
+The cow got to her feet and yawned. It was evening. At some point, during the poor female bandit’s burial, Sherly had cried herself to sleep. Now that she was awake, she looked around and saw the people had finished mourning and had started making dinner.
+
+She found Duis in the group, facing the three victims that had turned into demons earlier than expected. She implied a silent question to Ishuin.
+
+“We have a small number of recorded incidents when a demon-touched victim turns quicker than normal,” the elf explained. “We have to take advantage of every opportunity we have. And Duis, whether you like it or not, studied this phenomena far deeper than I. My field revolves around effectively fighting them, rather than studying the cause.”
+
+“I don’t care that much,” Sherly said. “About Duis, I mean. He’s a meanie, but he did give me the potion when he was asked. Out of duty or not, he was instrumental in saving those villagers. But if he tries to bully me again, I’m fighting back.”
+
+“You’re kind,” Ishuin said. “Kasta gave him some disciplinary actions. If he refuses to stay in line, we’ll have no choice but to let him go.”
+
+“I don’t want to cause anyone any trouble, Ishuin.” Sherly sighed. “I’ll feel really bad if Duis gets pulled away from the Claw because of me.”
+
+“Well, as long as he doesn’t involve himself with you anymore, he’ll be fine.”
+
+Sherly turned and attempted to change the subject. “Do you have anything urgent for me to do?”
+
+“Nothing right now,” Ishuin said. “You should probably look into spending your Skill Points and Evolution Strains while waiting for dinner.”
+
+“Right. I intended to do that.”
+
+“Great. I’ll go catch up with Braum. If you need anything, you can call for Maymay. She knows your scent and voice. Oh, and don’t go wandering out of the camp.”
+
+“Why not?”
+
+“My Animal Speak only works at a certain range. If you go too far, you’ll lose your ability to talk. And if you meet strangers without the ability to communicate, you’ll find a hard time convincing them that you’re a good person.”
+
+Sherly sighed. “Even with words, I’m already having a hard time convincing people.”
+
+Ishuin giggled. “That’s true. But that’s your only option for now.”
+
+As soon as the elf Wielder left, Sherly sat down and afforded herself a few quiet moments. She didn’t ask for Letters right away, listening in on the people instead.
+
+“Can’t believe it, you know?” said one of the victims. “Regardless of what you say, bird-zilim, that demon-cow is a good egg.”
+
+“Sure,” said Duis, begrudgingly. “Whatever you say. After I take your blood samples, I’m done with you lot.”
+
+Sherly shook her head, ignoring that group and looking for a different group to eavesdrop on. She found it good practice for her hearing, and something that she felt was getting easier as she went up in level.
+
+“Psst, Sherly, can you hear me?” whispered Maymay. She was nowhere around the cow girl. “You’re trying to practice your hearing, aren’t you?”
+
+“Yes, I can hear you,” Sherly whispered back, controlling her surprise. “Was it that obvious?”
+
+“A bit, yeah. You’re closing your eyes. I know that helps sharpen your hearing, but it makes it a bit obvious. Also, good job spotting my voice among the crowd.”
+
+“How did you know I’m closing my eyes? And where are you, exactly?” Sherly asked. She could tell that the dog-zilim’s voice was somewhere behind her, but she couldn’t pinpoint the exact location.
+
+“I’m at the edge of the Managrove, monitoring the area.”
+
+“What!?” Sherly hissed. “That’s so far away! How can I hear that far?”
+
+“Should have something to do with your levels, I think,” the dog-zilim replied. “There are Skills that can help you hear even farther, but I think, since our animalistic senses are already sensitive, they’re quite amplified as we level up.”
+
+“How far can you hear?”
+
+“If I really focus, I can hear Kasta back in Crossmark. She’s currently showing off to some potential members, trying to convince them to join the Cancer’s Claw. It’s only possible because of how familiar I am with her. The other voices that far just become garbled to me.”
+
+“Woah… That’s so impressive!”
+
+“Thank you!”
+
+“So, umm… The volunteers will get some compensation, right?” Sherly inquired. She remembered Kasta looking for recruits for free. Back then, it sounded like a joke, but she wasn’t that sure now.
+
+“It’s not that big, but they’ll be compensated, yeah.”
+
+Sherly made a sigh of relief. “Alright, I won’t bother you anymore, Maymay. I’ll have to check in with Letters now. Got some Skills to learn.”
+
+“Alright, have fun!”
+
+“So, Letters, are you there?” Sherly said with a normal voice this time.
+
+[Yep. Are you okay? You were having a tough time sleeping.]
+
+“I’m okay. Thanks for helping out.”
+
+[You’re welcome! So, how can I help?]
+
+“Can you show me the list of Skills I can learn?”
+
+[You’re not checking to exchange for Evolution Traits?] the System Assistant inquired. [You have enough Strains to convert into even the most expensive one available for you right now.]
+
+“I’ll check those too,” Sherly said. “But I want to check if I can get a useful Skill first.”
+
+[Alright. You have seven Skills you can choose from. First, there’s Healing Light, which you already know.]
+
+“Can you give me the descriptions as well? Include the Healing Light, too.”
+
+Nine screens appeared in response, all showing Sherly the Skill’s name.
+
+[Choose one, and I’ll show it to you.]
+
+“Let’s start with Healing Light, then.”
+
+The screen with the Skill’s name expanded, showing a small description of the Skill.
+
+[Healing Light. With a small amount of mana, be able to heal an injured entity. You need to be touching the target in order to heal them.]
+
+“That’s it?”
+
+[That’s it.]
+
+“What about mana cost? Duration? How much healing do I actually provide? Is it just closing a wound? What about severed limbs or damaged organs?”
+
+[Those are determined individually. You’re either gifted with the Skill, or you improve it by practicing them constantly and increasing their levels whenever possible.]
+
+“That’s so vague!”
+
+[It is what it is. Please choose what you want to know next.]
+
+Sherly went on to study every Skill available for her to learn. Though vague, they all sounded useful in one way or another. In the end, she still learned Healing Light. Learning the Skill didn’t cost any Evolution Strains, only Skill Points. And she needed something to spend her mana on, now that she could regenerate it at a quick pace.
+
+“Touching would be a problem,” Sherly said. “I doubt a stranger would let me touch them.”
+
+That suddenly posed a different question to Sherly. She turned and saw Duis was already gone. Taking the chance, she approached the three former victims.
+
+“Hey,” she started. “Are you guys alright?”
+
+“Yep!” said the one in the middle. “Thanks again for saving us. That Duis-guy didn’t look like a friend of yours, though. Aren’t you from the same Claw?”
+
+“I joined a few days ago,” said the cow girl. “Not everyone’s friendly.”
+
+“Fair enough.”
+
+“So, umm… I have a question, if you guys don’t mind?”
+
+“Go for it,” said the one on the left.
+
+“How did you guys figure out that I’m a demon-cow?” Sherly asked. “Some people didn’t figure it out right away. But Ishuin and you guys could tell right away.”
+
+The three looked at each other, blinking. They looked like she had asked them something super obvious. Finally, the one on the right answered her question.
+
+“Your horns were glowing, and you had an overwhelming mana around you,” he explained.
+
+“That’s it?” Sherly asked. “I guess if my horns are glowing…”
+
+She tried to look at her horns, which she immediately determined to be impossible. Though, if they were glowing, she assumed she would be able to see some sort of light.
+
+Was I just too busy, then?
+
+“Is it glowing now?” she asked the three.
+
+“Nope,” they said at the same time.
+
+“To be clear,” the one in the middle started. “It’s how your horns are glowing that gave it away. They glow orange, which is a known demon-cow glow. If they had been blue or purple, then we’d know that you’re an awakened cow instead.”
+
+Though it was a lot of information, Sherly had no problem processing it. It made sense for awakened cows and bulls to exist. Cases like Pigmie, who was an awakened boar. It was the glow that she registered the most. Now, she was no longer confused.
+
+“Thank you,” she said.
+
+“Not a problem, ah!” The one on the left gasped, clutching an injured arm.
+
+“Are you okay?”
+
+“I’m okay,” he said. “The unirat horn’s lodged in awkwardly. The wound should heal, then the horn should settle and gradually disappear.”
+
+“If you don’t mind, can I try to heal it?” Sherly said. “I just learned a new Skill… Err, Spell. I think it’s the same thing? It’s called Healing Light, and I have nothing to test it with.”
+
+“Yep, Spells are also Skills, it just depends whether they’re being cast or not.” The bandit smiled. “You can practice with my arm. Make sure you don’t take the horn off, since it’s still working on curing my demon-touch condition.”
+
+The easiest way for Sherly to touch the man’s injured arm was with her horns. She placed it on above the injury so that her eyes could see the wound. Fortunately, he didn’t flinch away when she started casting the Spell.
+
+Healing Light activated, causing a brilliant golden glow. Sherly felt it as energy was sapped away from her core. It drained a lot of her mana, a negligible amount at first, but one that slowly built up. She kept using it until the unirat horn adjusted properly in the arm, allowing for the flesh to close around it.
+
+By then, a quarter of her mana was gone. For such a small wound, she had expended quite the amount of mana and time. It was far weaker compared to when she healed herself with Continuous Regeneration.
+
+Then again, this is a Level 1 Skill…
+
+“Thank you, Sherly!” said the man, moving his healed arm. “You saved me again!”
+
+Sherly felt warm and fuzzy. Despite her recent recollection, she liked helping out. And she liked it more when people appreciated her helping them.
+
+“Don’t mention it,” Sherly said with a smile. “Thanks for helping me practice. I should let you rest. I have a few more things to review on my end.”
+
+The three showed their gratitude again as she left them there. She settled back to her original spot, calling out Letters once again.
+
+“Can I see the available Evolution Traits?” she asked.
+
+[You’re not taking the other Skills? You have 3 more Skill Points to spend.]
+
+“Depends. I wanna review all my options.”
+
+[Gotcha. Give me a second.]
+
+“Take your time.”

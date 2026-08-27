@@ -1,0 +1,697 @@
+---
+id: 6a62d21e-ea05-5d39-bf28-ca58075bcd24
+page-type-slug: story-chapter-royal-road
+title: "NINETY-TWO: All Nighter"
+slug: 0093-ninety-two-all-nighter
+partOf: super-supportive
+position: 93
+ownLength: 5323
+unit: words
+publishedAt: 2023-11-15
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1410783/ninety-two-all-nighter"
+royalRoadId: "1410783"
+---
+
+The wind was so strong it almost tore Alden’s plaid shirt out of his hands when he stepped out into the night. He rolled it into a tube and stuffed it under his arm before looking up to admire the gleaming neon sign and colorful lighted spikes on the roof of the apartment building.
+
+
+The party was still underway, and some of the guests had found fresh energy reserves to draw on. They’d been starting up the karaoke when he said goodbye to Kon and thanked him for the invite.
+
+
+A minute later, the car he’d called arrived. It was a shiny black luxury sedan, with a woman in a suit and tie in the driver’s seat. He’d decided to search for the fastest possible route back to intake, and it turned out to be this car service, which had a driver available in the area.
+
+
+Fifteen minutes faster was fifteen more minutes to hang out with Boe before he left. And, anyway, he was a little over-peopled. A car sounded nicer than a crowded bus or train.
+
+
+He slid into the back seat and found a water bottle and candy bars waiting for him in the cupholders.
+
+
+<<Would you like music?>> the woman asked in Thai, as she punched their destination into a glowing screen.
+
+
+“Something calm would be good.”
+
+
+The car drove itself away from the building. The woman’s hands weren’t on the wheel; she was mostly monitoring the mirrors and cameras.
+
+
+Fancy.
+
+
+His mind flicked toward his contacts list and selected Boe’s name from the top. [On my way back. You want me to pick up anything for you?]
+
+
+[I’m eating all your food, so I’m good.]
+
+
+Alden snorted.
+
+
+He leaned back in his seat and looked out the window. The car had turned onto the palm tree-lined street he, Maricel, and Max had walked down on their way to the party earlier. The trees had lights wrapped around the trunks. A boy who looked around eight years old was crouched beside one, examining a fallen frond, while the group of adults he was with stood chatting outside of a Lebanese restaurant.
+
+
+This is a strange place for a kid to grow up.
+
+
+He’d thought it a few times tonight at the party. The Anesidoran natives had huge advantages, but they also had some areas where they were really disconnected from the rest of humanity. There were little things like their fascination with wild animals—nothing but the occasional fish or the even more occasional seabird to see around here. Astrid had kept telling him the names of every animal they didn’t have at F-city’s small zoo.
+
+
+And there were bigger life differences, too, like the fact that they’d grown up with the assumption that access to magical medical care for most ailments was the norm.
+
+
+The hospitals were combos here—MDs, Healers, and a couple of wizards besides. For the rest of the world, there was a significant amount of Triplanets-gifted healthcare everyone could expect to take advantage of. Certain vaccines and medicines had been made available as part of the Contract. And while the creation of genetically engineered children was still illegal in many countries, the use of magical wombs was allowed in most places even if people had all kinds of bizarre hot takes about it.
+
+
+But here, there were magical solutions for so many other things, and they were widely available. You could get potions for headaches instead of taking an aspirin if you wanted. People who had dangerous food allergies could have their immune system reconfigured without paying a fortune or joining a Healer lottery and hoping they got selected.
+
+
+If you capsize your boat, you just call on the System to ET you back to the Teleportation Complex.
+
+
+Obviously children couldn’t do that for themselves, but the authorities or their parents could do it on their behalf.
+
+
+That sort of rescue wasn’t something that happened for most people. Regular humans benefited from teleportation in the global sense, but individuals didn’t get access to it for personal use. The System let the Anesidoran government and Avowed living here do all kinds of things with it, though.
+
+
+I wish I’d had time to take that tour of the Teleportation Complex they offered for the intake residents last month. That one would have been cool.
+
+
+The whole facility was an enormous, well-dressed summonarium. If humanity was going to cram their Avowed into one spot why wouldn’t the Artonans help them build a massive one here to reduce the load on the System?
+
+
+The car turned onto a broader thoroughfare. Someone ran past in the opposite lane, and when Alden turned around in his seat curiously to get a better look at them, he saw that the woman had half-functional, half-decorative taillights. On the seat of her pants.
+
+
+Yep. Definitely an unusual place to be a kid.
+
+
+They weren’t far from Franklin High now. There were signs at almost every street they came to pointing the way to different sections of the enormous campus, and there were a lot of teenagers heading in and out of all the local businesses. The car stopped, and a rowdy group that had just left a bowling alley crossed the street in front of them.
+
+
+Alden’s driver suddenly gasped.
+
+
+“What’s wrong?” he asked.
+
+
+<<Finally! Eight months since the last time. I was staring to think the Contract had forgotten me.>>
+
+
+She pressed a series of buttons on the car’s screen to park it and activate the hazard lights, then she reached over and yanked open the glove compartment. She pulled out a small bag.
+
+
+<<I am sorry to leave you in the middle of the street. The company will be in touch with you momentarily. No charge.>>
+
+
+“Are you okay? What—?”
+
+
+<<Contract, send my preset travel messages.>> She pulled a slightly larger bag out from beneath the front passenger seat, unzipped it, and hastily checked the contents. She turned to look at Alden. <<I’ve been summoned, and I’ll be disappearing in a few seconds. Don’t be alarmed.>>
+
+
+He did feel sort of alarmed. He didn’t know why.
+
+
+“Yes. I understand. Okay.”
+
+
+<<Rabbit,>> she said by way of explanation.
+
+
+“You’re…just gonna go like that then.”
+
+
+I mean it’s not like I haven’t done it myself. I do realize it happens to other people.
+
+
+But he’d never seen it.
+
+
+“Good luck,” he said, trying to think through the manners of having the person in front of you disappear from the planet suddenly. “Have fun with the wizards? I’m a Rabbit, too.”
+
+
+“Hey!!” she said in English, giving him a little wave. <<Nice to meet you. Hello and then goodbye we say when this happens. I have skills for fragrance reduction and instant textile color change.>>
+
+
+“I preserve things. Not pickles. I prevent things from being harmed.”
+
+
+She grinned. <<Sounds like an excellent one. Artona II for me this time. I hope it’s a party.>>
+
+
+Alden was still processing. “Yeah,” he said finally. “The tips for those are fantastic.”
+
+
+He looked around for something else to contribute, and his eyes landed on the candy bars. He grabbed them and held them out to her.
+
+
+“Earth food?” he suggested.
+
+
+<<Can never have too much! Good idea!>>
+
+
+She took the candy from him. Their hands touched.
+
+
+She vanished.
+
+
+Heart racing, Alden stared at the spot where she’d been.
+
+
+“Alden,” said a man’s voice from the car speakers, “we apologize for the inconvenience. Your ride tonight will be free of charge. Do you mind if a remote pilot monitors the car on the way to your destination? It’s perfectly safe, and I’m afraid we don’t have any other drivers available in your area.”
+
+
+“That’s fine with me.”
+
+
+“Excellent. Thank you for your understanding. If there’s anything else I can do for you tonight, let me know.”
+
+
+Alden looked down at the hand that had just brushed the driver’s. Then he shook his head and sat back in his seat. “I’m good—oh, wait! Can I book a ride for tomorrow morning? From intake to the Teleportation Complex, then from there to Celena Circle. With a lot of luggage. And a cat.” 
+ 
+
+
+******* 
+ 
+
+
+By mutual agreement, Alden and Boe pulled an all-nighter. They didn’t know when they would see each other again, even though Alden was hoping to get approval for a trip back home when he could and Boe was semi-confident he could bounce in and out of catspace within a week. As opposed to disappearing for months at a time.
+
+
+“If you screw up and appear in the middle of the TC in your birthday suit, we can be prison buddies.”
+
+
+“Until some wizard summons your ass and I get left in the Locker by myself. I’ll err on the side of appearing a few weeks late rather than a few hours early if you don’t mind. Look! That idiot’s really going to try the jetpack!”
+
+
+He was gesturing at the television. They were doing all of Alden’s homework for the coming week together because why not? Right now it was Engaging with the Unexpected, and the tv was playing a documentary about superchasers—daredevils who made a hobby out of stalking their local hero team and inserting themselves into the action, to the detriment of everyone involved.
+
+
+Boe said, “Listen, if you’re ever flying around in your slutty loincloth—”
+
+
+“Cavemanly’s persona is questionable in so many ways.” Alden watched the superhero pause his flight around an office block to reapply one of several spells that helped him stay airborne.
+
+
+What did cavemen have to do with anything? How was a furry loincloth a good choice for flight? Was selling your own branded bodywax really that profitable?
+
+
+“If you’re ever flying around,” Boe continued, “and some moron chases you with a jetpack they bought at a flea market and assembled in their mom’s basement, don’t save them. Do the rest of humanity a favor, and let nature take its course.”
+
+
+He turned up the volume so they could hear the superchaser’s cries for help, captured by his own fleet of filming drones, as his badly designed gear sent him spiraling toward a water tower.
+
+
+“He looks easy enough to rescue though. And it’s not like Cavemanly will be in much danger doing it.”
+
+
+“The guy’s competent at everything except for costuming. I’ll give him that. But it’s the principle of the thing…that is a forty-year-old man who jumped off a building so that he could film himself annoying the crap out of someone else. Not for the first time either. I would let him enjoy the consequences of his own actions.”
+
+
+Alden smiled. “You wouldn’t. If I was a flying caveman, I’d save him. And then I’d call and tell you I’d done it. So you’d have to save someone equally stupid.”
+
+
+Boe shook his head violently. “No. I will engage in similar good deeds, but I reserve the right to make sure the lucky people I help are slightly more worthy than yours. That way I’m always one-upping you just a little.”
+
+
+“Seems reasonable.”
+
+
+For Convo IV, Alden was supposed to film himself describing his day. While he did that, Boe wrote a colorful summary for the reading assignment in Intro to Other Worlds so that Alden wouldn’t have to read the whole thing himself.
+
+
+By around two o’clock in the morning, they were done with it all. Boe was judging the local newscasters for their cheerful dispositions while Alden paced back and forth in the kitchen, practicing with his skill.
+
+
+“Are you going to play with your balls all night or are you going to try out the hydraulic press thing?”
+
+
+“You’re late with the balls joke,” Alden said absently, examining the network of enchantments on the temper sphere in his hand. They were duller than the NesiCard enchantment, but much more complex looking. “Kon already made a similar one. If I’d known eighth grade humorists were going to have so much fun at my expense, I’d have picked a different spell impression.”
+
+
+“Spoilsport. What are you doing with the banshee orb anyway? When you asked me to throw you one, I thought you were going to make it scream.”
+
+
+“I’m trying to figure out if I can pull the invisibility off it and put it on something else.”
+
+
+Boe looked away from an interview with a Kinshasa-based Meister who’d recently captured a pair of teens who’d been trying to go full supervillain—costumes, an unrealized plot to destroy government buildings, the works.
+
+
+“Run that past me again,” Boe said.
+
+
+Alden repeated himself.
+
+
+“You think that’s something you can actually do with Let Me Take Your Luggage? Why didn’t you bring that up earlier?”
+
+
+“You’re the one who wanted me to stop giving details about my powers and my profile until we were under contract,” Alden reminded him. “I wasn’t sure what to keep my mouth shut about. I’m not publicizing this one, though, so keep your mouth shut.”
+
+
+“So you can pick up an invisibility spell or enchantment or whatever it is? Like it’s a thing? And reapply it?”
+
+
+“Well, I’ve never successfully managed it.”
+
+
+Unless we count holding a debit card enchantment on my finger for a split second before it burns out. Alden poked at the ball he’d gotten Boe to entrust him with twenty minutes before. It was easy enough to see the enchantments when he deliberately tried to. And it felt like it was covered in a warm buzzing net. But they looked duller than the NesiCard enchant for some reason.
+
+
+“I’m practicing still. Let’s call it a goal rather than a current ability.”
+
+
+He wasn’t even sure how many enchantments were on the sphere and which did what. He could see the magic but not identify it. And the glittery sand inside the ball seemed to be connected to the network somehow, so he was assuming that it was critical to the temper sphere’s function.
+
+
+“Now, I’m done looking at it, so I’m going to make it scream,” Alden warned.
+
+
+Boe covered his ears.
+
+
+Bracing himself for the odd feeling of the impression taking over his body, Alden pointed at the orb, and activated it. It was easy. Just an assertion of the authority bound into the impression.
+
+
+His fingers moved, his focus narrowed.
+
+
+Good, I can still see the enchantments.
+
+
+He’d been worried that the artificial focus the spell impression created would mess with his ability to detect them, since doing so required a little mental effort on his part.
+
+
+Part of the magic shone suddenly brighter, and the sphere disappeared…except for the enchantments themselves. I wasn’t expecting that.
+
+
+Another thread of enchantment blazed bright, and the scream echoed through the apartment.
+
+
+“You’d better have superhuman-grade soundproofing on the walls in your new dorm, too, or your neighbors are going to hate you.”
+
+
+Alden was staring at the spherical network of magic on his palm.
+
+
+Okay so the one that’s glowing brighter still is probably the invisibility. The screaming one faded after the scream was over. The other stuff could be holding it all together or making the ball stronger. Or twenty other things.
+
+
+He concentrated on just the threads of the magic he’d decided were making the sphere invisible and reached for them. With his fingers. He was still, rather desperately, hoping The Bearer of All Burdens would reveal a function that would allow him to pick up enchantments with nothing but the authority of the skill itself. But tonight, he wanted success in other areas more than he wanted to try to squeeze something like telekinesis out of an affixation that might not have been designed with the option.
+
+
+He caught the enchantment and preserved it with his right hand. The temper sphere reappeared suddenly in his left. He couldn’t see the other enchantments on it anymore.
+
+
+Did they completely fall apart when I stole this one?
+
+
+The sphere should still be entrusted to him. That was how it worked with the NesiCard and its enchantment as long as he didn’t set either down. So that wasn’t it.
+
+
+“Holy…did you just de-magic it?” Boe leaped out of his chair and strode over to examine the ball eagerly. “You did right? When you showed that Haunting Sphere spell off a couple of days ago, the invisibility lasted longer.”
+
+
+“Yeah, I’m holding what I hope is some kind of temporary invisibility enchantment that’s been activated by my spell impression.” He held up his hand. “Can you see it?”
+
+
+He could. It looked like a pale golden web of spirals and curls. And to Alden’s surprise it hadn’t stayed in a sphere shape. Instead it was clinging to his hand like a partial glove. It felt like warm lace.
+
+
+I assumed the other enchantment laid flat against my fingertip because that was its natural shape. I thought this one would stay spherical.
+
+
+“I can’t see anything,” Boe said.
+
+
+“That’s a shame. It’s actually really cool looking.” Alden was still shifting his weight. He held his hand out, palm up since he was going to operate under the assumption that the enchantment was droppable even if it kind of didn’t look like it was right now. “Can you feel it?”
+
+
+Boe jabbed at his palm with an index finger.
+
+
+And Alden felt him do it. With his skin. Like it was a totally normal jab.
+
+
+“Feels like a hand,” Boe announced.
+
+
+“Really?” Alden stared at his light glove. “I was not expecting it to work like this.”
+
+
+I should have been practicing with something bigger than the NesiCard I guess.
+
+
+It wasn’t as obvious what was going on when you were working with something smaller than your pinky fingertip.
+
+
+He frowned. “I need a ball.”
+
+
+“You’re holding one.”
+
+
+“Another ball.”
+
+
+“There’s an orange in your fruit bowl.”
+
+
+“A ball that’s less closely associated with the Life element. An Object-ish ball.”
+
+
+Boe blinked at him, then he held a hand to his chest dramatically. “Excuse me, Master Wizard. I am but a lowly human without knowledge of Artonan arcana.”
+
+
+Ignoring him, Alden scanned the apartment. “Where’s that fluffy ball on the string that mesmerizes Victor?”
+
+
+“You heartless bastard. You’re going to make his favorite toy invisible?”
+
+
+“I hope so.” He tossed the defunct sphere to his friend. “Fooling around with enchantments is pricey. I want to get my money’s worth.”
+
+
+“You put it with his crate earlier so you wouldn’t forget to send it with us tomorrow.”
+
+
+“That’s right!” Alden headed into the spare room where he’d been keeping the crate. “Speaking of which, we’re leaving in like six hours. You should drop your barrier now, shouldn’t you?”
+
+
+“I’m okay. I don’t have to.”
+
+
+“Don’t you want your skill to be fully functional when you come back to reality?” Alden asked, re-entering the kitchen with a puffy yellow cat toy that dangled from a stick. “I’m emotionally average right now. I think. But Jeremy probably won’t be when he sees you appear from your own personal nowhere.”
+
+
+“The chances of him being at school or asleep are way higher than the chances of him staring at the cat right as it happens.”
+
+
+“You think after the coded message we sent him he’s not going to be staring at Victor every second he can? Waiting to see you emerge?”
+
+
+Boe looked disturbed. “Point taken.”
+
+
+Alden snipped the ball off the end of the string.
+
+
+“Truly heartless. I was experiencing your emotions right then, and you felt nothing but curiosity.”
+
+
+“I’ll tie it back on. He won’t even know the difference!” Alden looked over his shoulder. “Will you stab my hand a little? Don’t think I’m weird.”
+
+
+Boe raised an eyebrow. “I want you to replay what you just said.”
+
+
+“It hadn’t occurred to me that enchantments wouldn’t be shielded in exactly the same way as objects. I can see it and feel it clearly, so I thought it was similar. It’s not. The way the skill defaults to protecting them must be different. I’m pretty sure you can stab my hand.”
+
+
+“…he said with growing feelings of excitement.”
+
+
+“It is exciting. It’s a new feature.”
+
+
+“A less useful feature.”
+
+
+“Less obviously useful. It has advantages. The fact that you can’t tell I’ve got anything for one.”
+
+
+He found a small knife in a drawer and beckoned Boe over.
+
+
+“Right there,” he said, pointing to one of the spirals of light at the base of his palm with the knife tip. “Jab it enough to draw a little blood. Just to be completely sure.”
+
+
+“What are friends for?” Boe muttered, taking the knife handle and pressing down.
+
+
+Blood welled.
+
+
+Boe pulled the knife back. “All right. I have stabbed you slightly. And you’re quite pleased about it.”
+
+
+Alden ignored him.
+
+
+Nothing, he thought in surprise. No increase in the difficulty of preserving it. Which means there’s no shield. No physical shield anyway.
+
+
+That implies there’s no way for it to be removed from me physically either.
+
+
+He was guessing it would be vulnerable to magical attacks, by someone who knew to attack it. Which would be…absolutely nobody. Because they couldn’t see it.
+
+
+Maybe wizards can? But if I’m getting attacked by a summoner I’m going to have much bigger concerns on my mind. I guess chaos might still batter at it, too.
+
+
+And, of course, his own fatigue would eventually be a problem.
+
+
+It’s heavy.
+
+
+He played with his new “glove” for another minute, moving it from hand to hand as easily as picking up a piece of cloth and repositioning it.
+
+
+Then he closed his eyes and tried to feel the preserved magic with the very authority that was holding it. To become consciously aware of the points where his own power was protecting the enchantment.
+
+
+I’m touching it that way. I know I am. I feel the skill working. I just can’t feel the thing the skill is working on. Instead I feel a fake glove. It’s an excellent glove. But it’s stupid if the glove is all there is for me.
+
+
+For the hundredth time, what kind of bullshit wizards don’t design a skill to work with their own wizard senses?
+
+
+He examined his skill itself. All the settings and buttons he’d identified so far were there.
+
+
+Not buttons. I promised I’d come up with something nicer.
+
+
+He thought of the origami shape he’d created earlier tonight when he was supposed to be making a paper airplane.
+
+
+Maybe. That wasn’t exactly a happy moment, but it came naturally.
+
+
+Instead of switches, folds? Many-layered ones making new shapes when I adjust them…wait, let me try this one over here that I use to double run the skill. If it’s not a button, but a paper fold…
+
+
+He imagined turning it inside out, changing the shape of his authority in that spot so that it molded into its second option.
+
+
+I like that a little. That’s more like what I do with the auriad. And it’s less ON/OFF than a switch. Less YES/NO. Instead it’s…this shape/that shape/maybe one day we’ll find another shape that’s allowed with this part of the affixation too. That seems more positive.
+
+
+Wait, where was I? I’m getting a little tired.
+
+
+Alden opened his eyes. Boe was in the living room watching the tv on mute and munching on a box of Lucky Charms.
+
+
+Alden was leaning against the refrigerator, a cat toy in one hand and his enchantment in the other.
+
+
+“Hello there, space cadet,” Boe said without looking away from the television. “Welcome back. That was one heck of a flow state you were having. You kind of propped yourself against the fridge, and I decided you weren’t going to fall in the floor. So I left you to it.”
+
+
+“How long—” he checked the time. “Boe! It’s five AM. You could have interrupted me before I zoned out for three whole hours.”
+
+
+“No way. You were hitting that hyperfocus hard. Absorbed and challenged, but not stressed out. I just sat here and let myself enjoy it, too.”
+
+
+Alden stared down at his glowing hand. “But I wanted to…”
+
+
+“Hang out with me? We’ve done that a lot. A few hours lost isn’t the end of the world. Anyway—” Boe leaned around the edge of the chair and grinned at him “—you were making progress.”
+
+
+“No I wasn’t. I got completely distracted playing around with a metaphor.”
+
+
+“Really? It looks like success from where I’m sitting. Unless you dropped your invisible thing?”
+
+
+“I’ve got it still.”
+
+
+Minor miracle. No wonder his skill was getting tired if he’d been fiddling with the options and holding the enchantment with it all this time.
+
+
+“You haven’t moved in three hours,” Boe said.
+
+
+“Yeah, apparently.”
+
+
+Boe adjusted his glasses. “Don’t be slow on the uptake. It makes me worry about leaving you here to fend for yourself. I mean you haven’t been moving your feet. Not even weight shifting.”
+
+
+Alden looked from him down to his own bare feet sticking out of the bottoms of his flannel pajama pants. He straightened up and kept staring at them, very deliberately not moving a muscle.
+
+
+The enchantment stayed glued to his hand.
+
+
+“AH!” he yelled. “I’m doing it! And by ‘it’ I mean ‘nothing!’ I’m just standing here. Can I sit down?!”
+
+
+Immediately, he slid down the side of the fridge and let his butt rest on the floor. Three seconds later, his light glove was still on his hand.
+
+
+“I CAN SIT DOWN!”
+
+
+Boe stood to get a better look at him.
+
+
+Alden waved his hand at him for emphasis.
+
+
+“I note your hand,” Boe said. “And I trust that you are still holding the thing only you can see.”
+
+
+“What if it’s only because it’s an enchantment?! What if it still won’t work with physical objects? I have to ditch this and test it. Hang on.”
+
+
+He held up Victor’s fuzzy yellow ball and wrapped the hand gloved with the enchantment around it. He dropped the preservation.
+
+
+Boe whistled. “You really did have something in your hand!”
+
+
+The cat toy wasn’t perfectly invisible like the temper sphere had been. There was a fairly obvious distortion in the air around it if you were paying attention, and it got worse when Alden moved it back and forth. “I guess it kind of works as camo, since you can’t really tell what the thing is. What do you think?”
+
+
+The cat toy reappeared.
+
+
+“I think it didn’t last very long.”
+
+
+“It did break really quick compared to the temper sphere. What was that? Five seconds? I’m surprised it worked at all, though. So this is a win. Now we have to test the object preservation.”
+
+
+“Throw,” Boe said, holding out his hand.
+
+
+Alden tossed him the fuzzy ball.
+
+
+“Catch.” Boe tossed it right back.
+
+
+Alden preserved it the instant he caught it and held his breath. He examined his affixation again. The part of it that had enforced the carriage requirement—the foggy magic of the geas permeating it—did seem to be gone. He waited. And waited.
+
+
+“Well?” Boe asked after almost a full minute had passed.
+
+
+Alden felt himself grinning like crazy. “It’s still preserved! I can now preserve things while I sit on my ass. Thank you for not interrupting my inappropriately timed zone-out. I’m so happy I could scream.”
+
+
+“Go right ahead. If your Haunting Sphere didn’t piss off the other residents, nothing will.”
+
+
+Instead, Alden climbed to his feet. He tossed the ball toward the sofa. Victor was lurking behind it somewhere. “No. I’m good. Let’s do something fun until you have to go.”
+
+
+“I want you to crush things with your hydraulic press spell.”
+
+
+“I’ll try.”
+
+
+“Can of soda,” said Boe, heading toward the fridge. “By the way, if you crush the wrong thing will shards fly off and kill us?”
+
+
+“It’s not a long range spell. I have to stand right next to it with my auriad. It would be pretty terrible design if it made whatever I crushed into bombs, right?”
+
+
+Boe slid a dark purple can across the counter toward him. Alden’s fingers were already moving through loops of iridescent indigo string.
+
+
+“Sphere crush or pancake crush?” he asked. The pattern he’d been practicing for weeks was coming to him easily. His free authority was filling the gaps made by the auriad. “It’s a substantial spell. I’m not sure I can do it more than once.”
+
+
+“Wizard’s choice.”
+
+
+Pancake, thought Alden, holding his arms out toward the can and sighting it through the specific section of the pattern that was supposed to help him target. As his authority filled it and he focused, he experienced a much milder version of the phenomenon that happened when he used his spell impression on the temper sphere. The bottom four fifths of the can became just a little clearer and brighter. And so did the air around it, strangely enough.
+
+
+So much more pleasant. But apparently I can’t crush the whole can with this spell.
+
+
+He was worried he wouldn’t be able to finish casting it at all. He struggled with the last few steps. It wasn’t his memory of the pattern or his control that faltered; it was his authority reaching its current limits, growing exhausted as he fought to press through the escalating resistance that came as he approached the spell’s end.
+
+
+Come on, he thought, pushing himself. Trying to assert the spell into existence in the same way he’d grown accustomed to asserting himself in the chaos. He focused harder on the auriad. It’s been the best night ever for magical experimentation. Just give me a little more.
+
+
+He was barely aware of Boe standing quietly beside him, staring from his hands to the can with a thoughtful look on his face.
+
+
+Alden finished the spell.
+
+
+He was supposed to hold his authority over the final pattern and control how long the spell lasted, but he only had a couple of seconds’ worth of effort left in him.
+
+
+And that was all it took.
+
+
+Most of the can accordioned. Grape soda shot out of the spell-made crushing area and spattered with force against the tile backsplash directly opposite Alden. In the next moment, a flat metal disc that had once been a soda can clattered onto the counter, and its severed top fell straight down on top of it. Foaming liquid spread outward and dripped onto the floor.
+
+
+“Wow. That really crushes, doesn’t it?” Boe stared at the disc. “A lot like a hydraulic press. We should have filmed it so we could see it in slow motion and figure out what exactly you’ve got going on. Does all the excess debris and energy that the spell can’t handle just get blown away from you somehow?”
+
+
+“That’s what it looked like, right? The soda all shot off in that direction.” Alden was still blinking at the results.
+
+
+“How hard of a substance can you smash?”
+
+
+“It said a ‘stubborn stone.’”
+
+
+“That’s scientific.”
+
+
+“It might be. For all I know ‘stubborn’ is an agreed-upon category of stone hardness for educated Artonans. Somewhere between crumbly and adamantine.”
+
+
+“…you might want to reconsider your earlier comments about not making the things you crush into bombs. If you’re crushing certain materials, and it’s not one hundred percent magically contained, you’re going to be sending some bizarre shrapnel flying with deadly force away from you. Away from you is good. Unless someone or something you like is over there.”
+
+
+“And on a windy day I could end up inhaling tiny particles of pulverized junk.”
+
+
+“That too.”
+
+
+“I need to watch more videos of hydraulic presses.”
+
+
+“You need a physics class or three.”
+
+
+“I can make my own shields, so that’s good.”
+
+
+Boe clapped him on the back. “Just don’t do anything stupid. You’re the first human wizard as far as we know. If you kill yourself with your own spell, you’ll embarrass us in front of the aliens.” 
+
+ Stolen from its rightful author, this tale is not meant to be on Amazon; report any sightings.

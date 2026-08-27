@@ -1,0 +1,217 @@
+---
+id: b817e6fd-c3ce-5a5b-9c34-5ec61dfbbdd8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 74: The Plushie Buddies"
+slug: 0075-chapter-74-the-plushie-buddies
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 75
+ownLength: 2174
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3341795/chapter-74-the-plushie-buddies"
+royalRoadId: "3341795"
+---
+
+After the last of the opening night's guests had stumbled to their carriages, drunk on crab meat and the thrill of new flavors, the real work began. Ren and his exhausted staff spent the next two days in a blur of cleaning, organizing, and, most importantly, restocking.
+
+The grand opening had been a catastrophic success. They had sold out of everything. The crabs were gone. The lobsters were gone. The curry blocks and mayo jars had been bought out by nobles who refused to leave empty-handed.
+
+"This is a good problem to have," Ren said, staring at the empty shelves of his new shop.
+
+[Ana: It's an expensive problem. I just ran the numbers. To restock everything to meet the new demand, you're going to have to spend a fortune.]
+
+Ren just grinned. "Exactly."
+
+He went on a shopping spree in the System Shop that made his previous bulk purchases look like pocket change. Crates of ramen, vats of mayonnaise, and enough spices to fill a small warehouse materialized in the storeroom. He even splurged on some high-end items—saffron, vanilla beans, and a small, precious crate of something called 'truffles'.
+
+By the time he was done, my SPP balance had recovered beautifully. The 10,000-point upgrade had been a brutal hit, leaving me with a paltry 200 SPP. But this restocking frenzy? It had shot my balance back up by a solid 500 points. I was solvent again.
+
+Ren, satisfied with his inventory, finally took a break. He walked out to the backyard, a plate of leftover crab cakes in hand.
+
+The puppies saw him coming. They were bigger now, almost the size of large dogs. Their puppy fluff was giving way to sleek, adult coats.
+
+"Okay, you monsters," Ren called out, sitting on a bench. "Training time."
+
+He held up a piece of crab cake. Three heads snapped to attention.
+
+"Sit!" Ren commanded.
+
+Frosty sat. Stormy sat. Smokey just stared at the crab cake, drooling.
+
+Ren sighed. "Smokey, sit."
+
+The shadow pup continued to stare.
+
+Ren pulled out another piece of crab cake. "This is getting ridiculous. I've been trying to train them for a week now. It's useless. They just listen as long as I'm holding the treat."
+
+[Ana: Maybe you're a bad teacher.]
+
+"I'm not!" Ren protested. "I'm using positive reinforcement! I'm being patient! But they're just... stubborn. Sometimes it feels like they're more obedient to Lily than to me. A pat of her chubby hand, and they turn into well-behaved little angels. I'm the one with the food! It makes no sense."
+
+He tossed the first piece of crab to Frosty, who caught it neatly. He gave the second to Stormy. He held the third up to Smokey.
+
+"Sit," Ren said again.
+
+Smokey whined, but she sat. Ren gave her the treat. The moment the pup swallowed it, she stood up and started barking at the kitchen door.
+
+"See?" Ren groaned, slumping on the bench. "I have no authority here."
+
+He finished his own crab cakes and went inside. The puppies followed, hoping for more handouts.
+
+…
+
+Ren was asleep. Lily was asleep. The puppies were asleep, twitching in a pile of fur and dreaming of chasing squirrels. The entire Elven village, tucked away in the quiet of the forest, was dark and silent, the only light coming from the faintly glowing spirits that perched on the tree branches like magical owls. For the first time in what felt like an eternity, the world was quiet.
+
+I floated in the void of Ren’s mind, listening to the gentle, rhythmic hum of his brain in a deep sleep state. This was my time. The hours between midnight and dawn were the only moments I truly had to myself, the only time I could pull my focus away from the constant, low-level anxiety of keeping my host from accidentally starting a war or under-seasoning his soup.
+
+With the system upgrade to Level 3 finally complete, my private interface had changed. It was sleeker now, with more customizable options and a much faster processing speed. I decided to explore.
+
+I browsed the System Shop, ignoring the usual temptations of coffee machines and advanced communication modules. I scrolled past the modules for Combat Analysis and Threat Assessment, deep into the high-tier, prohibitively expensive section I usually avoided for fear of crying at the prices.
+
+There, nestled among the modules for planetary weather prediction and temporal mapping, was something new. Something I hadn’t seen before.
+
+[MODULE: Golem Piloting Interface (Ver 1.0)][COST: 100,000 SPP][DESCRIPTION: Allows the System to assume direct control of a compatible external entity (e.g., Golem, Animated Construct, Undead Servant) created or bound by the Host. Control is limited by the magical laws of the current world.]
+
+My non-existent heart skipped a beat.
+
+Direct control. It was the one thing I wanted more than anything. The ability to do something. To pick something up. To move. To interact with the world not as a voice in someone’s head, but as a physical presence.
+
+The cost was astronomical. A hundred thousand points was a fortune, even with Ren’s noodle-fueled military contracts. But the possibility... it was intoxicating. If Ren ever learned to build advanced golems, or maybe even robots if I could teach him about circuitry... I could finally get out of this box. I could walk.
+
+I bookmarked the module, filing it under "Someday, Maybe." A girl could dream.
+
+Then, I navigated to the feature I was most excited about. The one that had stirred just before my system went down.
+
+[ECHO MANAGEMENT INTERFACE]
+
+The screen was simple. It showed a single, glowing slot.
+
+[ACTIVE ECHO SLOTS: 1/1][CURRENTLY ACTIVE: NONE][WARNING: Switching active Echoes will place the previous Echo on a 7-year cooldown.]
+
+I frowned at the warning. Seven years? That seemed excessive. But I only had one Echo, so it didn't matter. There was nothing to switch to.
+
+I tapped the empty slot. A single option appeared.
+
+[Echo: Korg]
+
+"Come here, Korgi," I whispered into the void.
+
+I selected him.
+
+The change was immediate and wonderful. The faint, warm wisp of loyalty that had been dormant in my storage for so long surged forward. It solidified, coalescing into a tangible, interactive form in my private mental space.
+
+He wasn't a ghost anymore. He was... a plushie.
+
+A small, miniature Minotaur, about the size of a teddy bear, popped into existence in front of me. He had soft, fuzzy brown fur, stubby little horns, and big, black button eyes. He sat on the "floor" of my void, looking around with a confused but happy expression.
+
+I reached out my spectral hands. I could touch him. He felt solid. Warm. Fuzzy.
+
+I hugged him.
+
+Sky Spirit? Korgi’s voice was a simple, happy thought in my mind.
+
+"Hey, buddy," I whispered, ruffling the fur on top of his head. "I missed you."
+
+He let out a soft, happy "Moo" and leaned into the hug.
+
+I spent a good ten minutes just petting him, scratching behind his little plushie ears. After months of being a detached, formless consciousness, the simple, tactile sensation of petting a fuzzy friend was overwhelming.
+
+After I had satisfied my need for a hug, I checked his status. I was excited to see what my new, loyal minotaur plushie could do. I was already picturing him manifesting in the real world to fight for me.
+
+But the option to [Manifest Echo] was greyed out.
+
+[MODULE REQUIRED: Manifest Echo v1.0][COST: 5,000 SPP]
+
+"Of course," I sighed. "Another paywall. They always get you with the DLC."
+
+But then I saw something else. Something that made me pause.
+
+[ECHO SPECIES: Ancestral Minotaur (Spirit-Touched)]
+
+Ancestral? Spirit-Touched? Korg had been a regular, garden-variety Minotaur. What had changed?
+
+I frantically searched my new system interface. A free module had been included with the Level 3 upgrade, one I hadn't noticed before.
+
+[MODULE: Universal Wiki][DESCRIPTION: Access to the cross-referenced, multi-dimensional database of System-collated lore and information.]
+
+I opened it. A search bar appeared. I typed in "Ancestral Minotaur."
+
+No results.
+
+"Useless," I grumbled.
+
+I tried a broader search. "Spirit Magic."
+
+A massive data file is loaded.
+
+[OPENING FILE: Mother_System_Database_Taxonomy_v7.8.][ACCESS LEVEL: OBSERVER.][SOURCE: World System Cross-Referenced Database.]
+
+[Elemental Affinities: Classification & Hierarchy]All magical phenomena in this reality substrate are derived from the manipulation of fundamental energy types, colloquially referred to as "Elements." These are categorized into a tiered structure based on rarity, complexity, and their proximity to the core laws of existence.
+
+[Tier 3: The Natural Elements]Elements: Fire, Water, Earth, Wind, Lightning.Description: These are the foundational building blocks of the physical world. Wielded by the majority of mages, knights, and magical beasts.
+
+Boring, I thought. The standard stuff. Keep scrolling.
+
+[Tier 2: The Evolved Elements]Elements: Light, Darkness (Shadow), Plant (Flora), Storm, Spirit (Soul/Mind).Description: These elements represent more complex and specialized concepts. They require a higher degree of affinity and control to master.
+
+I scrolled down, looking for "Spirit."
+
+Spirit (Soul/Mind) Magic is a rare and powerful discipline that deals with ethereal and incorporeal phenomena. Unlike the Natural Elements, it does not always follow standard physical laws. It is the magic of souls, of consciousness, of life force itself. The most common practitioners of Spirit Magic are the Spirits themselves, who are composed of this energy.
+
+I thought of Leafy, the Primal Spirit. She seemed to use Plant magic, commanding roots and vines. But the way she spoke directly into Ren’s mind... that was different.
+
+Other creatures, such as Simurghs or Phoenixes, utilize a form of Spirit Magic for their rebirth cycles. It is also found in the most powerful magical creatures, such as Spirit Dragons...
+
+And then I saw the next line.
+
+...or in entities with a direct connection to a World Tree.
+
+My mind flashed to Leafy again.
+
+All practitioners of Spirit Magic require a connection to a World Tree, which acts as a conduit to the Ethereal Plane. Without this connection, the wielder cannot draw upon the necessary energies.
+
+I frowned. Where the hell would Leafy find a World Tree on this estate? She seemed pretty powerful without one.
+
+"Why does my fuzzy boy have this element?" I wondered, looking at Korgi, who was currently trying to chew on his own foot. "Is he related to a tree or something?"
+
+This was getting confusing. I kept reading.
+
+[Tier 1: The Absolutes]Elements: Void, Space, Time.Description: These are not elements, but fundamental forces that govern the very fabric of reality. Wielding an Absolute is exceptionally rare.System Note: A hard-coded universal law prevents the direct fusion of any two Absolute elements. Their interaction is inherently paradoxical and would result in catastrophic reality failure.
+
+Void, Space, Time, I repeated. The big three. The stuff final bosses are made of. Got it.
+
+Then, I saw the final tier. The one I hadn't seen before.
+
+[Tier 0: Transcendent Amalgamations]Description: Unstable, unmeasurable, and reality-breaking phenomena that occur when an Absolute (Tier 1) fuses with one or more Evolved or Natural elements (Tier 2 & 3). These do not follow established magical laws and are classified based on the unique, often cataclysmic, effects they produce. Known Amalgamations include:
+
+Celestial Abyss: A fusion of Space, Darkness, and Spirit. Creates localized gravitational and spatial anomalies, capable of warping distance, negating light/magic, and targeting a being's soul directly.
+
+Absolute Erasure (Codename: NULL): A fusion of Void and Spirit, augmented by a corrupted external code. Does not destroy matter, but "deletes" it from existence, nullifying all forms of regeneration or resurrection.
+
+Astral Genesis: A fusion of Spirit, Plant, and Light. Allows for the manipulation and manifestation of "conceptual" life-force, capable of healing, binding, or rewriting biological and environmental states.
+
+I stared at the last two entries.
+
+Absolute Erasure. I remembered the final battle with Liz. The man who had deleted her soul. He wasn't just a powerful mage. He was a Tier 0 Anomaly. A walking reality failure.
+
+And Astral Genesis. Spirit, Plant, and Light. Rewriting biological states. I thought of Dave in the Limbo trials. The way he had morphed his body. The way he had "optimized" Liz, turning her into a Hydra-Kin.
+
+My head started spinning. What had I gotten myself into? This wasn't a cozy fantasy world. This was a place where universe-breaking entities walked around in hoodies, and my own former Hosts were tampering with the source code of life itself.
+
+I closed the wiki file. It was too much. The lore was too heavy.
+
+I looked at Korgi. He had given up on his foot and was now chasing his tail, spinning in a happy little circle.
+
+"You're weird, Korgi," I said, reaching out to scratch his head. "A Spirit-Touched Minotaur plushie. But you're my weirdo."
+
+He stopped spinning and looked up at me with his big, black button eyes.
+
+Hungry? he thought.
+
+I laughed. "Yeah, buddy. Me too."
+
+I looked at my SPP balance. 10,000 had been a huge hit. But Ren was a money-making machine. I just needed to sell a few more crates of ramen.
+
+Then I could buy the Manifest Echo module.
+
+And then... maybe my little plushie could help me protect our new family.

@@ -1,0 +1,137 @@
+---
+id: 300d6876-5f5d-5bcc-b708-6782e81c9615
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: The A/B Test"
+slug: 0004-chapter-4-the-ab-test
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 4
+ownLength: 1948
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2574475/chapter-4-the-ab-test"
+royalRoadId: "2574475"
+---
+
+Korg woke up the way he did everything else: with the subtlety of a rockslide. A great, snorting inhalation that seemed to draw in half the forest’s oxygen, followed by a groan that vibrated through the very moss on the trees. He sat up, the crude iron spear shaft sticking out of his back clattering against the oak tree with a dull thud. For a long, silent moment, he just blinked at the morning light, his Logic: 3 brain slowly booting up.
+
+I, on the other hand, had been using his sleep cycle to do what I did best: formulate a test plan. My brief, terrifying glimpse into the System Evolution Menu had changed everything. The panic was still there, a low-level background process, but it was now overshadowed by a cold, sharp-edged ambition. My goal was no longer just survival; it was acquisition. I needed 1,000 SPP to upgrade my OS to Level 1. That was Priority One. Everything else was just a milestone on the ticket.
+
+My host was no longer a liability; he was an asset. A seven-hundred-pound, spear-toting, moronic asset, but an asset nonetheless. He was a simple machine, and I just needed to find the right input to get the desired output. And what was the simplest input for a creature driven by base instinct?
+
+The Pavlovian principle. Cause and effect. Stimulus and response.
+
+This was my first official A/B test. Version A: Positive and negative reinforcement using a simple color-coded system. It was a basic user interface design. Green for good. Red for bad.
+
+Korg’s stomach rumbled, the official start of our workday.
+
+Hungry. The foreign thought echoed in my consciousness, clear as a bell.
+
+Perfect. A motivated user.
+
+My system senses detected a rustle in the undergrowth—another Level 2 Wild Boar. An ideal test subject. I focused my intent, painting the creature in a faint, shimmering green light.
+
+Korg’s eyes fixed on the glow. "Green," he rumbled, the word a question.
+
+He started towards it. When he was halfway there, I materialized a single, perfectly rendered chunk of [Raw Boar Meat] from the inventory and let it fall to the ground in front of him. It vanished before it hit the dirt as I returned it to the grid, but he saw it.
+
+His eyes widened. The connection was made. Green glow means food.
+
+A new level of motivation, bordering on religious fervor, entered his charge. The ensuing fight was just as clumsy as the last, but this time it was shorter. He was hungry, and he now associated the green-glowing pig with the magical sky meat. The boar didn't stand a chance.
+
+[VICTORY!][+25 XP][+3 SPP]As soon as the creature fell, I used the Loot module, converting the corpse into meat and hide, which went straight into my inventory. Then, I used half of the meat to make a neat pile of raw meat, glowing in the same radiant green light. "Food!" Korg shouted, a tone of deep satisfaction in his voice. He reached for it, and I let him. One by one, he devoured a whole pile. Then he looked up with puppy eyes. I promptly popped the steaks from the inventory into his waiting hands, which he devoured with lightning speed.
+
+It was working. He was learning. The positive reinforcement loop was a success. We spent the next several hours like this. I’d tag a creature in green, he’d smash it, and I’d reward him with the spoils. He was a natural at this part of the game. For every three or four mobs he dispatched, I'd get a small trickle of SPP. It was a slow, arduous grind, but it was progress.
+
+By midday, we had accumulated a respectable 98 SPP, bringing my total to 263. It was a long way from a thousand, but the system was proven.
+
+That’s when we heard the screaming.
+
+It was a high-pitched, panicked squeal coming from a dense thicket of ferns. Korg, his belly full and his mind operating on a simple loop of ‘see green, smash, eat,’ paid it no mind. I, however, was intrigued. This was a deviation. A potential quest hook.
+
+My senses identified the source: [Gnome, Common - Lvl 3]. And he was in trouble.
+
+I guided Korg towards the Gnome by dropping steaks in the direction of the sound. We found the gnome pinned under a heavy, fallen log, his leg trapped at a nasty angle. A small pack of three [Shadow Wolves - Lvl 5] were circling him, their movements sleek and predatory.
+
+My QA brain lit up. This was it! Our first NPC interaction! A potential party member! Someone with a Logic stat higher than a piece of toast! This little guy could be our ticket to quests, towns, and information. I could finally offload some of the mental burden of keeping Korg alive onto someone with opposable thumbs and an ability to clearly communicate with Korg.
+
+The objective was clear: save the gnome. I painted the gnome in the most brilliant, angelic, reassuring green glow I could manage. I prayed to every God I know of. That he would understand they are friend and not food, my plan depends on it, that this moron has a tiny spark of intelligence.
+
+Korg saw the glow. "Friend," he mumbled, seeming to understand. This is GOOD! The plan worked! Maybe he isn’t a complete moron after all.
+
+Then he turned his attention to the wolves. They were a threat to the objective. He let out a low growl and charged. But the wolves were smart. They were pack hunters, flanking him, their movements a blur of dark fur. Korg was strong, but he was slow. He couldn’t fight all three at once.
+
+He needed a weapon. He needed reach.
+
+His gaze fell upon the fallen log pinning the gnome. It was too heavy to lift, even with his 12 Might. He needed a lever. His eyes scanned his surroundings, then landed on the spear shaft sticking out of his own body. An idea, simple and direct, formed in his mind.
+
+He reached back, grabbed the iron spearhead that was protruding from his shoulder blade, and pulled.
+
+There was a horrific, wet, tearing sound. My entire sensory feed lit up with pain notifications.
+
+[-15 Health (Self-Inflicted Wound)]
+
+But Korg didn’t even flinch. He just grunted, now holding a crude, blood-slick spear. He had a weapon. The gnome, witnessing this act of brutal self-surgery, let out a fresh shriek of terror.
+
+Wielding his new weapon, Korg was a different beast. He swung the spear in a wide, clumsy arc, trying to keep the wolves at bay. But his Grace of 5 was a significant handicap. In his attempt to swat at one wolf, the butt of the spear swung wide, missing the wolf entirely and slamming into the trunk of a nearby tree with a loud thwack.
+
+A low, angry buzzing began to fill the air.
+
+Oh, you have got to be kidding me.
+
+He hadn’t just hit a tree. He’d hit a tree containing a hive of [Giant Forest Bees - Lvl 3]. A seething cloud of black and yellow insects poured out, furious.
+
+This is it, I thought, my plans crumbling to dust. We’re dead. Mauled by wolves and stung to death.
+
+But the bees didn't come for us. They swarmed the nearest, most agitated targets—the three Shadow Wolves. The wolves, caught completely by surprise, yelped as the swarm descended, abandoning their attack on Korg to snap and claw at their tiny, venomous assailants. Within moments, the pack broke and fled into the forest, howling in pain. A cloud of angry bees followed them in hot pursuit.
+
+Korg stood there, utterly baffled, holding his spear. He had won a fight by accidentally weaponizing an apiary.
+
+[ACHIEVEMENT UNLOCKED: CONDUCTOR OF ACCIDENTAL RETRIBUTION (RARE)]For winning a fight by provoking a third party to attack your enemies. Grants Title: [The Befuddler].[+200 SPP.]
+
+My jaw dropped, if I possessed one, it would have been on the floor. Two hundred SPP. From pure, unadulterated incompetence. My total shot up to 463. We were almost halfway to the upgrade.
+
+With the wolves gone, Korg remembered his objective. He turned to the green-glowing gnome, who was staring at him with a mixture of terror and awe. Korg used the spear as a lever, and with a mighty heave, rolled the log off the gnome’s leg.
+
+The gnome, free at last, scrambled to his feet, wincing. “You… you saved me, you magnificent, terrifying beast!” he stammered. “I am forever in your debt! My name is Fipwick!”
+
+Korg looked at the small, chattering creature. He looked at the vibrant green glow I had surrounded him with. And his stomach rumbled.
+
+The single, solitary thought that bloomed in his mind sent a wave of ice-cold dread through my entire system.
+
+Green… Food.
+
+Oh no. Oh, nonononono. WHY? Why had I thought it was a good idea?!
+
+He started to raise the spear, not as a weapon, but as a skewer.
+
+"Wait! What are you doing?!" Fipwick shrieked.
+
+I was screaming internally, a silent digital howl of despair. My perfect, color-coded system had a fatal flaw: my user was a gluttonous idiot who couldn’t distinguish between ‘ally’ and ‘appetizer.’ I had to stop him, now.
+
+I didn’t have a voice, but I had 463 SPP. It was a desperate, panicked hotfix. I dove into my system menu, my intent flying.
+
+[SYSTEM EVOLUTION MENU]
+
+> Recommended Modules[MODULE: 'Pictogram Notification v1.0'][PRICE: 150 SPP][PURCHASE?] (Y/N)YES! BUY! CONFIRM! NOW![PURCHASE COMPLETE.][REMAINING SPP: 313.][MODULE INSTALLED.]
+
+I didn’t waste a nanosecond. I poured every ounce of my focus into the new tool. A new UI element flashed into Korg’s vision, overriding everything else. It was a gigantic, pulsating red skull, complete with crudely drawn crossbones underneath. It flashed on and off, accompanied by a dozen other pop-ups.
+
+[WARNING!][DO NOT EAT THE QUEST GIVER!][OBJECTIVE IS NOT FOOD!][BAD MINOTAUR! VERY BAD!]
+
+Korg froze, the spear held aloft. He looked from the little gnome to the giant flashing death-symbol in his vision. Green means food. Red skull means… not food? Sky Spirit is angry. Very angry. His face twisted with confusion. He lowered the spear, a low, mournful “Moo?” escaping his lips.
+
+Fipwick didn’t wait for him to figure it out. He gave a final, terrified squeak, turned, and hobbled away into the forest as fast as he could with the [Broken leg] debuff. My first potential party member was gone.
+
+A profound sense of exhaustion washed over me. Back to square one. The color-coding system was a catastrophic failure. I needed a new approach. No more ambiguity. From now on, training would be done with pictograms. A simple image of a sword for ‘attack.’ An image of a hand for ‘interact.’ And an image of a steak for ‘food.’
+
+And Rule Number One of the new system: Korg gets no food unless he does exactly what the pictogram says. All loot from kills would be completely and instantly put in the inventory. He would be rewarded from my supply, not his own initiative.
+
+As Korg stood there, sadly prodding the ground where the little green snack-man had been, my system senses picked up something Fipwick had dropped in his haste. A small, leather pouch. It jingled.
+
+My focus targeted it. A data tag appeared.
+
+[Fipwick’s Coin Pouch][Contains: 12 silver coins, 34 copper coins.]
+
+A flicker of my old, cynical QA self surfaced. Saving him was a service. The wolves, the bees, the psychological trauma of being saved by Korg… that was billable time.
+
+With a flicker of intent, I pulled the pouch into the inventory. Payment for services rendered. The grind, after all, must go on.

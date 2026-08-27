@@ -1,0 +1,203 @@
+---
+id: b471b940-9e11-54a1-8501-4dcaaf4cba41
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26 – The Feast"
+slug: 0026-chapter-26-the-feast
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 26
+ownLength: 2121
+unit: words
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2624348/chapter-26-the-feast"
+royalRoadId: "2624348"
+---
+
+Renir's question had caught Liora off guard. She did mention that she was a human before, but it was more like an offhand remark. She hadn't expected him to actually believe her.
+
+You believed that?
+
+Were you lying?
+
+No.
+
+Then I believe you. Sort of. It sounds completely unbelievable, but your thought process is not something I'd expect from a bird. Not to mention that you actually can read System messages. When I applied the System to you, I thought I'd have to spend a lot of time explaining everything.
+
+It was pretty intuitive.
+
+For a human. Not for a bird. Unless all magpies have secretly learned how to read.
+
+Not to my knowledge.
+
+Okay, then spill. How exactly did you become a bird? Are you like me? Princess of some faraway country with vast influence trapped in the body of a bird and waiting for her prince to kiss her and break the spell?
+
+No, I'm not like you, stupid!
+
+Then spill the beans already! Why are you a bird if you were human before?
+
+Liora shifted on her perching spot, watching the half-broken floorboards of the watchtower. She thought about the things she remembered from her past life, which, quite honestly, wasn't much. Most of it felt like it was covered by heavy fog. She couldn't remember any faces. She couldn't even remember her own face or name. She only remembered the vague things about the world—things that were natural there.
+
+I don't know. I remember very little of my time as a human. I don't remember my name or the people who were close to me.
+
+That is decidedly unhelpful.
+
+But I do know that I'm not from this world.
+
+Not from this world?
+
+Yeah. There were no monsters in my old world. People didn't have purple hair, and there was no System. Oh, and there definitely was no magic.
+
+World without magic? How did people even live?
+
+There was technology. Cars, computers, phones. They all made life convenient and easy.
+
+I've never heard such words before. What are these cors and komuters?
+
+Cars and computers. Cars are large vehicles for moving around. Kind of like carriages, but they could move forward without horses and much, much faster. Faster than cheetahs.
+
+Cheetah? Are those the superfast cat-like animals? I've seen illustrations of them in books, but never seen one myself.
+
+Yeah. I think I saw one in a place called a zoo.
+
+Zoo?
+
+It's a place where exotic animals are put in cages so people can view them.
+
+Like an animal prison? What did those creatures do to deserve that?
+
+I-I don't know. Now, when you mention that, it doesn't sound very nice. I'd certainly never want to be in a zoo.
+
+Okay, so you came from another world. I'm not sure if I believe it all just yet, but for argument's sake, let's assume it's true. How did you end up as a magpie?
+
+Liora tried to remember her past. The last memories of her human self. But all she got was a massive headache, which made her squeak in pain.
+
+Are you alright?
+
+Y-Yeah, I'm fine… But I don't think I can remember how I became a bird. My head really hurts when I try to recall.
+
+I wonder if you weren't supposed to remember at all… Or if something interfered with your life in another world.  Argh, now I only have more questions and yet no answers.
+
+Yeah, give up. I've tried to remember my past life so many times. General knowledge—no problem. I can even remember some TV shows I've watched. Awesomely fun stuff, by the way. But anything personal—nope! It's like it's been put behind a lock.
+
+Okay, tell me more about these cars. How do they work? It must be magic.
+
+Oh, give me a break. My head already hurts. I want to sleep.
+
+Aww… You can't just tease me with these supercool otherworldly things and not tell me more about them.
+
+Leave me be. We'll have plenty of time to talk about those things later.
+
+Okay, okay. But you promise to tell me more about it?
+
+Yes, yes, I promise.
+
+Excellent! I can't wait to learn more about this other world! The multi-dimensional theory must be right. I wonder how you end up in this world. Was it because—
+
+Renir then went on a lengthy and very smart-sounding inner debate about dimension magic and other worlds. Liora didn't understand half of it, but his incomprehensible mumbling soon lulled her to sleep. Like a boring audiobook.
+
+When Liora woke up next, it was late evening. The few remaining bats within the tower were flying out on the nightly hunt, while a few poor pigeons were cooing and woefully looking at the broken bit of railing Liora was perched on.
+
+"Chak-chak-chak," she said dejectedly and moved away. The pigeons scrambled for the spot, fighting over it for a little bit until finally about five of them managed to squeeze themselves into the spot, one pigeon sitting on top of them.
+
+My favorite magpie is finally awake! You know I've been theorizing all night about how you became a magpie, and I've come up with 53 plausible theories and about 113 theories that could be plausible if we accepted some wilder theories out there. Would you like to hear them?
+
+No! Didn't you sleep at all?
+
+I can't sleep. I'm a rock.
+
+Oh… That sounds lonely.
+
+Eh, it's not so bad when I have stuff to think about. Just tell me more about your old world, and I'll be plenty busy.
+
+Okay, but before I go to sleep. There's a lot of stuff to do today. I'd like to get that treasure.
+
+Good call. Don't forget that there's a feast in town today.
+
+Wasn't that tomorrow?
+
+You slept for a rather long time. If you had not told me about your other world, I probably would have died of boredom.
+
+Liora was surprised to hear that she had slept for so long. Then again, the fight with the wyrm and then being captured by those mage thugs was really exhausting, both physically and mentally. At least she felt well rested and full of energy.
+
+Curious about the feast, Liora made her way to the town. She stuck close to the shadows and listened. Distinct chattering noise and occasional cheers were coming from the town square. Peeking from the shadow of a building, Liora saw some people playing on old musical instruments, while others danced, and some others ate.
+
+The feast wasn't actually that impressive. There was very little meat, and most dishes were the plain ones Liora had already grown used to seeing here—cabbage stew, grain cakes, something that looked like hash browns. A woman was distributing the food fairly among the people, but despite the small portions, the people looked rather happy. Especially when they each got a small sausage on their plate.
+
+Oh… I'd love some of that sausage…
+
+Before she could stop herself, Liora swooped down and perched near the woman distributing food.
+
+"It's the magpie!" One of the children cheered and ran up to Liora, fully intending to grab her.
+
+She flew up a bit higher. While she was thankful that these children rescued her from the clutches of those mages, she didn't want them smearing her pristine feathers. Their fingers looked to be covered with fat from the sausage.
+
+"There, there, children. Don't scare the magpie away," the woman distributing the food said, and prepared a plate for Liora too, giving her a little bit of everything.
+
+"Will the bird even eat human food?" One of the other adults questioned.
+
+"Why should we feed a monster?" A gruff man muttered, but rather quietly, and nobody really paid attention to what he had said. Liora, however, didn't feel comfortable about his comment.
+
+"It's the thought that matters! We should honor this magpie for helping us in our time of need," Dr. Reius emerged from some corner, looking elated by Liora's arrival.
+
+That dude is giving me even bigger creeps now.
+
+Liora couldn't help but silently agree. Although he was taking her side, he was looking more disheveled, and there was an unpleasant look in his eyes. She couldn't explain it, but he appeared fanatic. But the townspeople seemed to defer to his judgment and muttered in agreement.
+
+"If the good doctor says so, it must be true," an older woman said.
+
+"The doctor has never been wrong before," another elderly man hummed in approval.
+
+The woman distributing food set Liora's plate in the middle of the feast table. "Please, enjoy yourself, Mister Magpie."
+
+Oh no… Everyone will call me a Mister now…
+
+That is kind of hilarious.
+
+Shut up! I am most definitely a female magpie.
+
+Oh, just eat the food, and let's go to the mountain before something happens here.
+
+Liora cautiously landed on the table, surrounded by townspeople who were eagerly watching her every move. Especially Dr. Reius, who was getting increasingly closer to her plate. Eventually, he gave her a part of his hash brown.
+
+"Please, bless us, good Magpie," one of the elderly women said and put a bit of her sausage on Liora's plate.
+
+"Chak-chak-chak!" Liora objected. "You don't have to do that. I have plenty of food already."
+
+But the townspeople took that as a sign of approval. A few more elderly people brought her a bit of food, as did the children. She understood why children did it—they just liked the novelty of feeding an animal, and Liora had no issue indulging them a little. But the elderly people who did it placed the food in front of her like they would in front of an altar.
+
+This is way too much. I can't eat all this.
+
+Just as she wondered what to do with all the food, Christie and her mother arrived at the square, dressed up all nicely.
+
+"It's Mister Magpie!" Christie said cheerfully and waved at Liora.
+
+Liora greeted her with a happy chak-chak-chak and landed on the girl's shoulder. Christie giggled and patted her head feathers as she always did.
+
+"Christie, you shouldn't touch Mister Magpie so carelessly," Dr. Reius said with a somewhat forced smile. Why was this guy always trying for Liora to keep distance from Christie?
+
+"Caw!" Liora objected. "I sit where I want!"
+
+Don't make a scene. I think I'm starting to understand what's going on.
+
+What?
+
+These people are starting to revere you as a god of sorts.
+
+What? No way! I'm just a bird.
+
+Yes, but think of it from their perspective. They've been living in these horrible conditions for generations now. Hardly any crops. Their livestock is constantly killed by monsters. Hence why they hold this doctor in such high regard—he's the only one who could save their dying animals. But then you show up.
+
+Liora didn't need more explanation. She comes along, gets rid of the hyenas who eat their livestock, and scares away the mages who terrorized them and abused their children. And the doctor they respected was only adding fuel to the fire.
+
+I don't want to become some object of reverence.
+
+Well, I don't think it's all lost just yet. The biggest problem is the doctor. You need to convince everyone that you are just a slightly stronger magpie.
+
+Liora looked around and saw how many were staring at her and Christie. Children looked at her like she was something cool. Adults looked mostly apprehensive, while the elderly were looking at her with reverence. It was time to solidify herself as a proper magpie.
+
+So she did what any normal magpie would do. She flew away to the rooftops and sang her chak-chak-chaks at the people. She played with shiny bits and bobs and occasionally landed on the table to snack on the food provided for her. Occasionally, she grabbed a bit of her offered food and accidentally dropped it on Christie's plate or the plate of another child.
+
+Whenever Dr. Reius tried to convince everyone of her supposed greatness, she would either caw loudly or distract the people by playing with the magpie reflection in the window. It was a bit embarrassing, acting so stupidly when she was a bird of high intelligence. But it set people's minds at ease as they laughed at her shenanigans.
+
+Once it got too dark, Liora left in the direction of the mountain. She needed to get that treasure, finish her training, and get out of this town before things got too out of hand.
+
+I'm going to miss Christie. That kid deserves better than to grow up in this half-dead landscape, surrounded by people who latch onto a bird as their savior. If only the corruption could be cleared away.

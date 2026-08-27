@@ -1,0 +1,275 @@
+---
+id: 5055e0bf-b1c1-54e8-98e3-d28211c55a18
+page-type-slug: story-chapter-royal-road
+title: "Chapter 779 - Rabbit Reactions"
+slug: 0782-chapter-779-rabbit-reactions
+partOf: mythrans-master-of-all-continued-completed
+position: 782
+ownLength: 3375
+unit: words
+publishedAt: 2018-11-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310966/chapter-779-rabbit-reactions"
+royalRoadId: "310966"
+---
+
+“You need to get out of my kitchen.” Duyu said to Ren. “Go on. Go sit and wait with the men.”
+
+“But...”
+
+“That wasn't a request.” Duyu said sternly.
+
+Ren knew better than to argue with a woman in her own kitchen, so he nodded slightly to her and left. The soup was finished to Duyu's satisfaction only a couple of minutes later, once she realized that Ren had already warmed up the meat and it matched the soup perfectly.
+
+“Dilseffa, the bowls.” Duyu said, and Dilseffa opened the cupboard and took out a huge stack of bowls. “Is there going to be enough soup for everyone?”
+
+“With all the meat he added, there's plenty for all of us, even with two unexpected extra mouths to feed.”
+
+“Mom, I would have sent word if it was possible.” Dilseffa said as she started setting out the bowls.
+
+“When did it happen?” Duyu asked as she started to fill them.
+
+“By normal time, only a couple of days ago.” Dilseffa said.
+
+“What does that mean?” Duyu asked as they worked.
+
+“Ren can... I mean, King Ren... can create time when he needs to.” Dilseffa said. “He has a Vasalor Statue.”
+
+Duyu gasped and almost spilled the next ladle full of soup. “He... he...”
+
+“He knows Vasalor, Mom.” Dilseffa said. “They're friends.”
+
+“Good god.” Duyu said, and didn't say anything else until they had finished filling the bowls. “You're his Mistress.”
+
+“I am.”
+
+“I'm so happy for you.” Duyu said and hugged her daughter.
+
+“Thanks, Mom.”
+
+*
+
+Ren left the kitchen and used his Heat Sense and Track ability to follow the trail that Doth and his brother Dohm had left, and it went through a hallway and around a corner into a large room.
+
+“Who's this guy?” Someone asked as Ren stepped into the dining room.
+
+“Dilseffa's Inamorato.” Doth said, and 6 of the 8 men that sat at the table froze in surprise. The two that hadn't were Doth and Dohm.
+
+“What did you say?”
+
+“He's her Inamorato.” Doth said as Ren walked around the room to stand near the end of the table. “She just introduced him to Ma.”
+
+“You're kidding!” One of them said. “This guy had the balls to make her a Mistress?” He asked. “Our only sister?”
+
+“What about Dilseffa?” A man's voice asked as he came into the dining room. He was of a similar size to the other men in the room, and was one of the reasons Ren had moved away from the entrance. More people were coming.
+
+One of the men at the table pointed to Ren. “He's her Inamorato, apparently.”
+
+Four more men came into the room while the first bunch were busy sizing Ren up. Ren on the other hand, could feel there were still more coming. He hadn't used his Heat Sense to count them before now, and he was surprised that there were 19 of them. He didn't say anything, since no one was talking to him directly, and his Etiquette skill let him know that he shouldn't speak until either Dilseffa or her mother came into the room.
+
+The soup's delicious smell flowed into the room as two serving carts were pushed into the dining room. None of the men said anything else as they found their seats and waited to be served. Duyu and Dilseffa stopped with the carts on either side of the long table, then picked up two bowls each to start serving, then they both saw Ren as he stood at the end of the room.
+
+“What are you doing just standing there?” Duyu asked.
+
+“I don't know where to sit to be beside my Mistress.” Ren said.
+
+“You can sit wherever you want.” Duyu said. “We don't sit until the men are served.”
+
+“Then allow me.” Ren said, a bit perturbed at that ritual, and stored all the bowls of soup and put them in front of the 19 men that sat at the table instantly. “Ma'am, where do you sit?”
+
+Duyu looked down at her empty hands and back at Ren. “Wh-what just happened?”
+
+“I served them all for you.” Ren said with a smile. “Please be seated.”
+
+Duyu walked over to the end of the table where Ren was, kind of in a daze, and she sat down in the spot next to the head of the table. He put a bowl of soup in front of her, and he looked at Dilseffa. She sighed and walked over to him and sat down across from her mother. He gave her a bowl of soup as well, then sat down next to her and gave himself a bowl. The only seat left was at the head of the table.
+
+“So, who eats first?” Ren asked, since his Etiquette skill didn't clue him in.
+
+“Usually my father, then from oldest to youngest.” Dilseffa said.
+
+“Which would be your mother, all of your brothers, then you.” Ren said.
+
+Dilseffa started to nod, then stopped. “How did you know they are all my brothers?”
+
+“Besides them all being about 6 feet tall and having similar hair color, you mean?” Ren asked, and she chuckled. “This seems like a family meal and most people don't normally invite hired help to eat with their family.”
+
+“Then who invited you?” One of them said jokingly, and the others started laughing.
+
+“Your beautiful sister did.” Ren responded as he looked down at his bowl of soup and dipped his spoon into it. “Whom I sincerely hope will allow me to do more than just groom her.”
+
+The laughter died instantly and Ren held in his smile as he put the spoonful of soup into his mouth.
+
+“What did you say?” One of the brothers asked.
+
+“He didn't...” Another started to say.
+
+“Not our sister!” One of them exclaimed.
+
+“Hey, he's eating!”
+
+“Dilseffa knows how old I am.” Ren said and took another spoonful of soup. “I believe you are next Duyu, despite looking as young and as beautiful as your daughter.”
+
+Ren felt outrage from the men at the table and looked up from his soup. He didn't look at the men. He looked at Dilseffa's mother and saw that her face was bright red. He knew it wasn't because of what he said, however. It was because he hadn't lied.
+
+Without a word, she dipped her spoon into the soup and ate some of it, then she shivered as its tasty flavor swirled around in her mouth. She chewed on the meat and closed her eyes, then she swallowed. She took several deep breaths and opened her eyes, and saw that she had gained a temporary +1 to her Endurance and +1 to her Strength.
+
+“Wh-what... what...” Duyu wasn't sure what to say.
+
+“It's something my ex-fiance taught me.” Ren said and ate another spoonful. “It's really good, isn't it?”
+
+“It... it is.” Duyu said and took another spoonful herself, then whispered. “It really is.”
+
+The eldest brother, Doth, was tempted to throw his bowl of soup at Ren for saying such things about his sister and mother at the dinner table. He assumed if he did that, then all of his brothers would follow his lead and do it, too. He couldn't take the chance that one or more of them would miss and possibly hit Dilseffa or his mother, so he sighed and dipped his spoon angrily into the bowl of soup in front of him and shoved it into his mouth. He couldn't stop his shiver as the flavor filled his mouth.
+
+Doth chewed and swallowed, then saw the same popup his mother had seen. “This is... what is...”
+
+With Doth already eating, the other brothers started eating at nearly the same time. They all had nearly the same reaction as him, and they all stared down the table at Ren. Ren wasn't someone to miss an opportunity like this, so he put his own spoon down and picked up Dilseffa's, dipped it into her bowl, then lifted it to her mouth.
+
+“Open wide, my Mistress.” Ren said, and her face went completely red as she accepted food from him in front of nearly her whole family. Her eyes widened at the delicious flavor and then the popup, and Ren handed her the spoon and picked up his own. He started eating again, as did her mother Duyu, then the shock wore off from the brothers and they ate as well.
+
+Buns were on plates all along the table, and Ren picked up a bun, tore it in half, and dipped it into the soup broth. It sucked the broth up like a sponge and he almost laughed at its ridiculous absorbency. He carefully lifted the piece of soup-soaked bread from the bowl and tilted his head back as he bit into it. He finished that half of the bun and took a few more spoonfuls of soup, then dipped the second half of the bun into the soup to absorb even more of the broth. He finished the bun and all that was left in his bowl was a bit of broth, a few pieces of vegetables, and two slivers of meat.
+
+Ren scooped it up slowly and ate it, then stored the bowl and spoon to clean them. “That was good.” He said and rubbed his belly, then put the bowl and spoon back on the table and sat back to wait for everyone else to finish. “Thank you, Ma'am.”
+
+“P-please, call me Duyu.” Dilseffa's mother said, and Ren saw that she had broken up her bun and left it in the soup.
+
+“I can't presume...”
+
+“I want to consider you a part of the family.” Duyu said, to the surprise of her sons at the table. “But, since you can't marry my daughter, I can't let you call me mother.”
+
+“That's reasonable.” Ren said and reached across the table and took her hand. “Thank you, Duyu.”
+
+“Take your hands off my mother.” One of the brothers said as he stood, and his hand twitched to draw his sword. “You've made my sister submit to you already, so I can't do anything about that.” He said and gripped the hilt of the sword. “You are not taking my mother as your sex slave, too.”
+
+“Before you embarrass yourself further and start to lose Respect, Dilseffa is not my sex slave, nor will she ever be my sex slave.” Ren said and gave her mother's hand a squeeze and let it go. “For you to assume I would dishonor her like that, shows that you need to be a better judge of character.”
+
+“I'm pretty sure I can judge the bad people from the good.” He said.
+
+“Then why didn't you stop her from getting involved with a ferret?” Ren asked and stood up. “You're her brother. By the way, I'm not standing here and accusing you of letting her put herself in mortal danger.” He said. “I assume you didn't say anything because none of you could hope to match either his fighting prowess or his magic skills.”
+
+The man closed his mouth on his response, and Ren felt the animosity grow from the other brothers.
+
+“He was chosen to represent the entire kingdom, just like your sister was.” Ren said. “Your sister can fight so well that she travelled around the world to meet new people, with different cultures, and learned from them.”
+
+No one said anything in response, so he took a deep breath and let it out.
+
+“I have to also assume that some of you had a hand in teaching her...” Ren started to say.
+
+“No, I did that.” A man said from the doorway. He was just over 6 feet tall and was covered in rippling muscles, just like all of the men at the table. He had several deep scratches across one pectoral muscle and had several foxes tied in a bundle at his waist.
+
+“Drikon!” Duyu exclaimed and hopped up out of her chair and stood, as did all the other people in the room. “What happened? What took you so long?”
+
+“I was clearing the traps and met a bear.” Drikon said and lifted a hand to touch the several 6 inch long gouges on his chest, and one of his fingers was missing and dripped blood.
+
+“Oh, my god!” Duyu ran around the table and over to her husband. “I'll tend...”
+
+“No.” Drikon said and stepped by her and walked over to Ren and stopped 9 feet away, putting Ren just inside his Aura. “You boast well; but, I don't feel anything, even though my Aura touches you.”
+
+“I've weighed the benefits of Respecting you as a fighter against the disadvantages of disrespecting your wife, while in her home and eating from her table.” Ren said and smiled. “Can you guess who won?”
+
+Drikon frowned for barely a moment, then he smiled and nodded to give Ren some Respect. “You made the wise choice.”
+
+“I know.” Ren said and nodded back.
+
+“Well, that didn't go how I thought it would.” Doth said, and his father turned to look at him.
+
+“He's right that we couldn't interfere.” Drikon said. “It's not that we couldn't have beaten Rimsoh, it was that he was a representative of the kingdom and going against him meant going against all of the representatives.”
+
+“Which included your daughter.” Ren said.
+
+“Yes.” Drikon said and looked back at Ren. “Tell me who you are and how you came to be here in my Warren.”
+
+“I can do that while your wounds are tended to and you eat.” Ren said and motioned to the head of the table and a bowl of the soup appeared there. Drikon grunted and walked over to the head of the table and sat down, then he started to eat. Duyu left for only a moment and was back with a small sack of things. She put it on the table and opened it, and different leaves, berries, and pieces of bark were in it. She picked up a vial of something and sighed at its nearly empty contents.
+
+Ren stepped over to her and held a hand out for it. She had no reason to refuse, so she handed it over to him and he identified it.
+
+Cleansing Liquid
+
+A drop of this pure liquid can be used on an open wound and will clean it instantly.
+
+Ren gained the recipe for it and handed the vial back to Duyu, then he took out his Alchemy kit and put it on the table. It shocked everyone, even Dilseffa, since she hadn't seen him do anything like this before. He quickly mixed the ingredients that were needed in a big bowl, used substitutions so that it wouldn't deplete his stock of difficult to acquire items, then activated his Hands of the Gods ability Refreshing Hands and added pure Water to the mixture.
+
+Ren ignored the shock from everyone as he switched to Burning Hands and warmed up the bowl to the required temperature, stirred the contents once more, then took out a potion bottle. He used his Duplicate Item skill and made a dozen potion bottles and stored the original, then he used a tiny ladle and a funnel to pour the Cleansing Liquid into the potion bottles. He had just enough left to refill the vial for Duyu, closed up the Alchemy kit and stored it with two of the potions of Cleansing Liquid, and left 10 of them on the table. Everyone just stared at him, and he chuckled.
+
+“Duyu, you should tend to your hurt husband.” Ren reminded her, and she jumped.
+
+“Yes! Right!” Duyu said and used the now full vial of Cleansing Liquid to add a single drop to each of the large cuts on her husband's chest, then looked at his missing finger. “Cleaning this seems pointless, since it's gone.”
+
+“It's not pointless.” Ren said.
+
+Duyu was going to respond, shrugged, and put a couple of drops on the wound to clean it, just in case.
+
+“Sir, if I may?” Ren asked and motioned to the hand with the missing finger.
+
+“I don't see much point either.” Drikon said and chuckled. “Not unless you can find the bear and get my finger back.”
+
+“That's not necessary.” Ren said and picked up the man's hand and examined it. “This is going to hurt a lot.”
+
+“More than losing it?”
+
+“I'm going to force you to regrow something that's not supposed to regrow. It's going to hurt a lot more than that.”
+
+“So, you don't lie.” Drikon said.
+
+“No point in that, sir.” Ren said. “If you tell the truth all the time, you don't have to remember all the lies you told or have to keep track of who you told them to.”
+
+“Ha!” Drikon barked a laugh. “Good point.” He said and braced himself. “Do it.”
+
+Ren nodded slightly and held the hand steady, then cast Full Regeneration on him and his whole body glowed for a moment.
+
+“AGH!” Drikon yelled as everything that was wrong with him reformed instantly and healed at once. “Goddammit!”
+
+“I told you.” Ren said and let the hand go.
+
+“You hurt our father!” Several of the men at the table said and drew their swords.
+
+“How do you feel?” Ren asked and ignored the unnecessarily angry children.
+
+“I'm sore all over.” Drikon said and used his reformed hand to rub the scratches on his chest that were no longer there. “I can still feel the wounds.”
+
+“It's regenerated, so it will be sore for a day or two.” Ren said. “It's new growth and your body has to adjust to it.”
+
+“It feels weird.” Drikon said and looked at his hand that used to be missing a finger. “Looks weird, too.”
+
+“You already accepted having the wound, so adjusting back to not having it will take a while.” Ren said with a smile.
+
+Duyu reached out and took her husband's hand and felt the regrown finger. “It's real.” She said in wonder. “There wasn't enough skin to cover the hole where the missing finger was, and I wasn't sure how I was going to sew it closed; and yet, you have the whole finger back now like it wasn't missing at all.”
+
+“What spell was that?” Dilseffa asked.
+
+“Full Regeneration.” Ren said, and her mouth dropped open in shock.
+
+“But... but...”
+
+“Yeah, I know. It doesn't exist officially.” Ren smiled. “I created it.”
+
+“You... created... a spell.” Dilseffa said in disbelief, despite just seeing the evidence.
+
+“I've been combining spells for a long time and only recently discovered how to edit them myself.” Ren said.
+
+“Who are you and why are you here?” Drikon asked as his wife carefully pawed at his previous wounds that no longer existed. Even ones he'd had for years were now nothing more than a memory.
+
+“He's my Inamorato.” Dilseffa said, confidently.
+
+“Is he, now.” Drikon said. “I don't remember approving it.”
+
+“It's already done, dad.” Dilseffa said and pulled her bodysuit down to show off the dire wolf mark above her heart. Drikon saw the same mark on the back of Ren's left hand, and he automatically looked at the right hand.
+
+“What's the skull one for?” Drikon asked.
+
+“It's the Ghoul Kissed mark.” Ren said, and everyone gasped.
+
+“You've been infected by a ghoul and lived?” Duyu asked, surprised.
+
+“No. I claimed the mark as my own to save people that were.” Ren said.
+
+“A noble sacrifice?” Doth, the eldest brother asked.
+
+“No, they were going to be killed and I stepped in to stop it.” Ren said. “When I touched the mark, I had the option to claim it, and them, to make them a part of my domain.”
+
+“Just noble, then.” Drikon said. “Sit down Adventurer, and tell me the tale of how you stole my daughter from having a future husband.”
+
+“I didn't actually steal her, and she can still get married.” Ren said as he sat down. “That was the first restriction I lifted when she accepted the position and became my Mistress.”
+
+“You lifted...” Duyu started to say and her husband held up a hand to stop her.
+
+“Continue.” Drikon said, and Ren started to tell him the story.

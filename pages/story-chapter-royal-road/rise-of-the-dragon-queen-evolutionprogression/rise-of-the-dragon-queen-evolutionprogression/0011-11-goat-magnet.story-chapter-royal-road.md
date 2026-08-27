@@ -1,0 +1,361 @@
+---
+id: c3f6cb8d-3755-527e-89e6-c2fd21fd1de6
+page-type-slug: story-chapter-royal-road
+title: "11 - Goat Magnet"
+slug: 0011-11-goat-magnet
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 11
+ownLength: 3152
+unit: words
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2623404/11-goat-magnet"
+royalRoadId: "2623404"
+---
+
+“Stella, what is the first thing that comes to mind when you think of a merchant?”
+
+Stella blinked groggily; she had to think long and hard in order to summon an answer. Luckily, the rush of sugar to her brain helped. The market place was always full of food stalls and she couldn't help but get some new treats whenever she came to town.
+
+“Stella, focus,” Michael urged.
+
+Stella sighed, then swallowed thickly on a remaining sweet. Focusing away from her stomach, she observed the residents of Fellheart. They gathered in large numbers in the market square, admiring everything from jewelry to potions.
+
+Stella couldn't help but eye the dessert stand across from her. Yum.
+
+“Someone who sells stuff,” she said assertively.
+
+“And how does a merchant ensure he sells his wares?”
+
+Stella shifted her weight on the bench she was sitting on and gave Michael an exasperated look.
+
+“I thought you were here to teach me, not make me solve riddles. And aren't you a failed merchant? Shouldn't you tell me what not to do?”
+
+Michael cleared his throat and fiddled with the bridge of his glasses before replying.
+
+“I suppose you're right.”
+
+“For your first lesson, I want to give you the fundamental knowledge you'll need to acquire merchant related skills. Critical thinking is a good place to start, but we'll save that for later.”
+
+Stella frowned.
+
+“To be a good merchant in any capacity, you must first know how to get the product people need and sell it at a profit. To ensure your goods are going to sell, you have to prioritize supply and demand.”
+
+“What do people want and how much of it can they buy? Sorta?”
+
+“Precisely. So, given what you observe, what would the people of Fellheart naturally lack?”
+
+After a bit of thinking, Stella was certain she had the answer.
+
+“Salt. The food around here is way under salted.”
+
+“That is a high value spice that Fellheart should need, yes. However, we have no means of acquiring salt all on our own. We have no cart and the means of traveling to the nearest bay would be costly. We could try to find a spice merchant that's already done the hard part and buy his product in bulk, but…”
+
+“But?”
+
+“But, we don't have the money to do that. And even if we did, attempting to sell expensive salt in a town without much wealth would give us a bad reputation.”
+
+Hm, I hadn't considered reputation. If a merchant were to sell a bunch of overpriced goods to people who want said goods, it would be good. But if no one has the means to purchase them, then would the merchant end up without any sales? Or with sales from angry customers?
+
+“Being a merchant sounds pretty difficult,” Stella commented.
+
+“It is. But that's part of what I like about it.”
+
+“The part where you get beaten up?” Stella asked.
+
+“Not that part.”
+
+“Hmm… It does sound like the challenge could be fun. But more than that, I just want money. If I can learn any useful skills or tactics from your tutoring, I'm certain I could move out of the woods…”
+
+“The woods?”
+
+“Erm, yeah. My family's home is out in the woods and I want to move into the city.”
+
+“Oh, I guess that makes sense. You guys must have powerful barriers to live out there.”
+
+“Yup…Yup…”
+
+I should change the subject.
+
+“So, what was all that stuff the other day about a lordless town?”
+
+“Huh? Oh, yeah. Fellheart doesn't have a lord due to some… Not so tasteful reasons. The king hasn't done anything to stop it, so it's flourished with its own council, a Merchant’s Guild and so on. It's one of the few towns that works for itself. We still pay taxes to His Majesty, but the council handles that, not a lord.”
+
+Stella had so many more questions. Like about why Calco would ominously claim she and him had things in common. Or why the water was so clean. Or why the bathrooms smelled so normal. Or how a toilet even functioned in this society. But she decided to save them for another time, except for one.
+
+“Do you know how easy it is to control a familiar?”
+
+“What? That's a weird question.”
+
+“Yeah? Well, I saved your life, so maybe I get to ask the questions and you don't get to judge.”
+
+“Fair enough.”
+
+“Who can summon a familiar? And what are the conditions to have one in the first place?”
+
+Michael scratched his hairless chin for a moment.
+
+“Summoning magic can come from a monster item or a magical item. But generally, it's from someone who's mastered summoning magic. It's pretty rare, though. If you're asking if I can teach it to you, sadly, I can't. If you're not interested in merchant skills, then—”
+
+“I’m interested in all of the merchant stuff. And I definitely want some new skills. I just wanted to know, that's all.”
+
+Well, I wanted to know that and if there was a way to track it back to its master. But that would be an extremely suspicious question.
+
+“Okay. In that case, let's get to work.”
+
+The most readily available thing to sell as a broke, wanna-be merchant, was plants. As an alchemist, Michael could use ingredients of all types to create potions. His specialization was in healing and transmutation potions, but here, specialize just meant it was what he sucked the least at.
+
+He explained that being an alchemist was nothing like being a mage and it required knowledge that couldn't be easily acquired. Alchemy worked on a principle of equivalent exchange, using ingredients like plants to substitute mana. With the use of spoken words and proper rituals, you could create almost anything.
+
+A perfect alchemist would be able to turn a pile of rocks into a sword. Or a leaf into a high-grade healing potion. But the reality was, that was perfection. The closer the ingredients were in properties to what you were trying to create with them, the easier the process. Herbs were used for ointment and healing poultices already, and the correct herbs, the ones already containing healing properties, worked even better.
+
+They spent time in the woods and nearby fields, collecting mint, lilac, and all manner of flowers and herbs. Stella took this chance to take in the scenery.
+
+The outskirts of Fellheart were crop fields and woodland. Oxen pulled cut trees toward buildings for processing. The occasional cat wandered through corn fields, a mouse between its jaws.
+
+Stella noticed the cats in question weren't domesticated. They were longer, taller and did not care for any contact with humans. Her repeated attempts to pet them had proven futile.
+
+Collecting plants took around an hour; when they were done, they took a break in the grass, arms full of random fauna.
+
+“So, do we need jars or something to put these in?” Stella wondered.
+
+“No. I have a skill called ‘Bottled’ that will bottle anything I process into a potion. We just need to grind down the ingredients, add some water, and then I'll say an incantation.”
+
+Stella found it hard to believe it was that simple, given that one of his potions had caused someone to go bald.
+
+“If you want to sell something, why not just sell the bottles you can summon out of thin air, then?”
+
+“Because they disappear when the potion is consumed.”
+
+Stella nodded and then laid on her back, laying the thick bushels of plants on her chest. The sky above was cloudless and bright. Stella enjoyed the scenery of this world. The air was clean and everything seemed more vibrant.
+
+“Okay, let's take this stuff down to the river. We can use the rocks to grind it down.”
+
+It wasn't that interesting to watch as Michael pulled out the herbs he needed from each bundle and began to grind them between two rocks. But it got more magical after he took the resulting flecks and dust, gathered them, and whispered to his cupped hands.
+
+A small bottle would appear below his cupped hands moments after his quiet, unintelligible chanting. The water and herbs in his hands turned into a thicker substance that he poured into the glass from his fingers.
+
+The potions he made were shiny and green with a really potent grass and mint smell. Stella took up the task of plugging the bottles with the corks that manifested next to the bottles.
+
+By the end, they had twenty lesser health potions, and had to carry them all back to the market place.
+
+They sat on the corner of the market and stored the bottles in a nearby flower pot.
+
+“Now, how do we sell it?” Stella asked.
+
+“Erm… Well, since we have no cart, we’ll just have to just sell them by hand. We could make an announcement, but…”
+
+Stella frowned.
+
+“But you're too shy? Is that it? Come on, you can make healing potions from nothing, I'm sure people will want them.”
+
+Michael fiddled with his glasses.
+
+“No one trusts me. My potions don't work too often, or if they do, they don't work as intended.”
+
+Stella proceeded to punch Michael in the arm.
+
+“Ow!”
+
+She proceeded to shove a potion into his grip. He looked between her and the potion, then drank it all. After a long moment, when nothing happened, he sighed. The developing bruise on his forearm wasn't healing.
+
+“Wait, just be patient,” Stella said confidently.
+
+They watched with baited breath as the bruise was chased away and eventually even the redness was gone.
+
+“See, it works. Perfectly viable to sell.”
+
+“Yeah, I guess you’re right.”
+
+“You guess? I am right, and you better teach me some skills because it's getting really boring just being your personal assistant all day.”
+
+Michael smirked mischievously and then handed her a fresh potion from the flower pot.
+
+“Manage to sell this and I'm sure you'll get a new skill. Hanging out with me all day isn't just for fun, I'm a tutor. You’re naturally more likely to get skills and have your skills increase when I'm the one teaching you.”
+
+“Really? Then sure thing, I'll sell this faster than any sale you've seen before!”
+
+Heh! Little does he know, door to door sales was part of my job description back on Earth!
+
+Stella lifted the potion high in the air and took a few steps into the densely populated market square. The midday sun shone down on the sparkling green bottle like a spotlight, catching a few gazes.
+
+“Introducing a wonderful new product! A healing potion like no other! It can heal bruises, scratches or even headaches. Long days at work have yet to become so easy! Or, pour some into your bath to heal away those acne scars. And for just ten copper a bottle, we’re practically giving them away! But wait! Act now and you could get two for the low, low price of 15 coppers!”
+
+Before anyone in the crowd could react, a loud bleet rang out, and then a veey plump white goat dashed through the crowd.
+
+“Peggy! No! Come back!”
+
+The goat's eyes were trained on the sparkly bottle in Stella's grip, and by the time she realized it was making a b-line for her, it was too late. The goat knocked her down and slammed its hooves into her stomach.
+
+Stella's world was full of stars and blurry figures as pain and the desire to vomit shot through her body. The potion she'd held above her head, was now being pried from her hands by the teeth of the goat.
+
+“Peggy! I'm so sorry madam, she just loves shiny things. Peggy, let go!”
+
+As the man tried to pry his goat away, it's powerful jaws clamped down harder. Stella came to her senses and tried to pull the potion away from it at the same time, hoping the combined effort would do the job.
+
+“L-Let go, you stupid goat!”
+
+The goat's horrible eyes furrowed with determination as it kicked its owner in the knees and then lunged forward. Its teeth gripped beyond the corked top of the bottle and instead on the glass neck.It pulled with all its might as Stella met it's grip.
+
+Her strength far eclipsed the goat’s, but as she pulled, the goat’s teeth were enough to break open the bottle. After that, the sudden release of pressure on one side sent the potion flying into Stella's face.
+
+It shattered, then disappeared, leaving her covered in sparkly green goo. She wiped the stuff out of her eyes and then looked down, finding her dress had been coated with the mixture.
+
+“Peggy! Look what you did, Peggy!”
+
+As the owner grappled with his goat, she continued to make a horrible and shrill bleating sound. She was still trying to drag herself to Stella, who was now covered in sparkly stuff.
+
+The owner lost his grip, and Peggy launched herself forward, headbutting Stella in the face. Stella lay on the ground, vision swimming as the goat licked the sparkly potion off one of her cheeks.
+
+“Peggy!”
+
+Michael, who was dying of laughter, finally did something useful and came over to help the owner of the goat. Together, they put a rope around her neck. As she was dragged away by her owner, Peggy the goat continued to throw herself towards Stella, bleating horribly all the way out of the marketplace.
+
+“Are you alright?” Michael asked, kneeling beside Stella.
+
+Stella rose slowly from the ground and wiped the potion from her eyes once more. Around her, a large crowd had formed, all of them looking alarmed.
+
+This is my chance!
+
+“Yes!” She announced, shooting to her feet.
+
+“The potion even works topically! As you can see, the bruise that should be on my head is gone! And I suffered no injuries from the goat's sharp hooves. See?! It works!”
+
+Slowly, clapping erupted, and Stella puffed out her chest very proudly.
+
+Please tell me this potion washes out…
+
+“Sure, I'll take a potion.”
+
+“Hey! Me too!”
+
+“That was so funny, I think I have to buy one!”
+
+Before she knew it, Stella had a pouch of 180 coppers. The eighteen potions sold fast, and when they were out, a few stragglers were sure to ask if they'd have more tomorrow. Stella assured them they would.
+
+“Did you see? I did it!” Stella said, carrying her bag of coppers to where Michael was sitting.
+
+He smiled at her, scratching the back of his head nervously.
+
+“Yeah, you did. I guess we'll have to see how everyone likes them.”
+
+“Oh, don't worry so—”
+
+[Skill selection available.]
+
+“Oh! A skill selection! I guess you actually can tutor.”
+
+“Nah, that was mostly you. You really did a good job turning things around.”
+
+Stella beamed, then turned her attention to her system screen.
+
+[Silver Tongue: Words are more convincing when the user believes them as well. Increases the chance of a good deal when bargaining with merchants.]
+
+[Goat Magnet: Attract goats in any location. Goats are responsive to your commands.]
+
+[Herb Identification: Identify any herb and its uses as long as you've consumed it before.]
+
+Definitely not [Goat Magnet]... I could get better at identifying herbs with the [Herb Identification] skill, but I don't think I want to start eating random plants. Plus, herbs aren't really my passion. [Silver Tongue] is by far the most useful and the most relevant.
+
+[New skill [Silver Tongue] has been added to your status.]
+
+Name: Stella Algos
+
+Stage: Queen Dragon Fledging (11% to next evolution)
+
+Class: None
+
+Renown: 1
+
+Wealth: Peasant (+1 to all stats)
+
+(C: 55 S: 4 0 G: 0)
+
+Stats: (0 points available)
+
+Power: 28 (27)
+
+Vigor: 24 (23)
+
+Grace: 21 (20)
+
+Intellect: 10 (10)
+
+Skills:
+
+Wrath Of The Ravenous (Grade SS) - Level 2
+
+Elemental Breath (Grade S) - Level 6
+
+Silver Tongue (Grade B) - Level 1
+
+Strength In Numbers (Passive)
+
+“Awesome! I just got a really cool skill. It's called ‘Silver Tongue' and—”
+
+“Yeah, I have it too. Good job.”
+
+Stella sat down with a big sigh, ignoring the green goo still only partially absorbed into her dress. She would get it cleaned later.
+
+“So, what other cool skills do you have?”
+
+“Quite a few. But the one I'm hoping to transfer to you is ‘Keen Eye’. It helps when you want to know the approximate value of something, or spot something of value. You basically just have better intuition, but as it levels up, it becomes more useful.”
+
+“That does sound cool. H-How exactly do you transfer skills?”
+
+Michael chuckled.
+
+“I forgot, you're clueless.”
+
+“I'm not.”
+
+“Okay, you're not.
+
+“Transferring skills can be an active or passive process. But you have to be a tutor to do either. Tutoring isn't a class or a skill, it's an innate ability, like walking or talking. If you can tutor, you don't have to even be good at teaching. You automatically transfer and enhance the skills of those you pass knowledge down to. The better you are at tutoring, the more stuff you can do with it.”
+
+“Wow, that's so much. I don't think I'll remember it all.”
+
+“I doubt you would've remembered it anyway. And did you just try to sell those potions at two for 15 coppers? That makes less money, y’know that right? We’re lucky they only bought singles.”
+
+“I was trying to make it more enticing!”
+
+“You already priced them at 10 coppers!”
+
+Stella stood up in a huff and marched away.
+
+“Where are you going?”
+
+“Somewhere I'm appreciated!”
+
+Stella walked over to the dessert stall she'd been eyeing all day.
+
+“Yes, I'll have two caramel banana buns please.”
+
+“THE DESSERT CART DOESN'T APPRECIATE YOU, IT JUST WANTS YOUR MONEY!”
+
+Stella stuck her tongue out at Michael and then turned back and smiled politely at the old lady behind the counter.
+
+“Here you go sweetie. And may I say what beautiful red eyes you have.”
+
+“What?”
+
+Stella nearly dropped her bag of buns.
+
+“Your eyes, dear, are a very bright red and it reminds me of cherries in spring time. Don't be ashamed, I promise I'm only complimenting you.”
+
+My eyes… Oh, how long have I been here!
+
+Stella ran straight for the edge of town, pushing through people as she went. She could feel it, her body reverting, sweat covering her as she held it back with pure willpower.
+
+“Hey! Where are you going?!” Michael called behind her.
+
+“I'm done for the day, right?!”
+
+“Oh! Well, you forgot your half of the money!”
+
+“I’ll get it later!”
+
+Stella was consumed by the crowd and then spat out at the edge of town. After wading through the grass, she disappeared into the forest, making her way towards camp as fast as she could.
+
+Keep it together. I have to learn to keep it together.
+
+The last thing she wanted was another torn dress.

@@ -1,0 +1,159 @@
+---
+id: 90d890a2-f073-582e-9536-8a238d7848e4
+page-type-slug: story-chapter-royal-road
+title: "284. The Goddess of Light (XI)"
+slug: 0040-284-the-goddess-of-light-xi
+partOf: speedrunning-the-multiverse-complete
+position: 40
+ownLength: 2133
+unit: words
+ownProgress: 2133
+publishedAt: 2023-08-15
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1310840/284-the-goddess-of-light-xi"
+royalRoadId: "1310840"
+markedReadAt: "2026-06-29T22:43:02.755Z"
+---
+
+The Blessings and Curses of Yeshima were her signature weapons. With them she conquered the Realm of True Light; with them she was ranked among the most powerful Godkings in the Multiverse. At first other Godkings had a habit of underestimating her—she was rumored to have a great qi pool, but little in the way of Martial Techniques. She was also small and pretty as a porcelain doll, and had this disarming way of smiling that meant she seldom had to fight.
+
+It wasn’t until a Godking in the Top 40 sauntered up to the Realm of True Light with the bright idea to try to forcefully take her as his bride that the Multiverse took notice. She’d giggled. Then with a Blessing and a Curse she’d torn him apart with her bare hands.
+
+She’d wielded the Blessing of Hercules, which granted great strength, but it was far from her only weapon. There was also the Blessing of Hermes, which granted incredible speed, the Blessing of Asclepius, which granted superb healing, and the Blessing of Hecate, which granted unmatched potency of Law. They multiplied the innate abilities of those they were cast upon—a temporary boost, lasting at most half an hour. But once her Blessings were cast, battles usually finished far earlier than that.
+
+It cost little qi to double a weakling’s strength. It’d cost perhaps a quarter of her massive pool to do the same to a Godking. Dorian could only imagine what it’d cost to cast a Blessing on himself.
+
+Whatever it was, it was well worth it! Dorian now had three full tanks of Godking energy to draw from. So what if he emptied one? With just these Blessings at hand, besides Houyi and Jez, he doubted a Godking in the Multiverse could stand against him.
+
+And that wasn’t even counting the Curses.
+
+The Curse of Niobe inflicted weakness, the Curse of Polyphemus blindness, the Curse of Chelone debilitating slowness.
+
+The strength of each Curse or Blessing depended on how much qi he put into it. Often Yeshima would inflict a mild Curse on an entire opposing army, and a few mild Blessings on hers. It was enough to turn a pitched battle into a slaughter. Dorian’s favorite kind of battle were the ones that got his blood boiling. But a close second were the kinds he won without having to lift a finger himself.
+
+“We’ve had quite a few great battles together, you and I,” sighed Dorian with a nostalgic grin. “Here’s to many more to come!”
+
+He stored the body in an Interspatial Ring, yawned, stood, stretched. What time was it? The sun had climbed to mid-morning the barred window of the cell. There was still one order of business to get to in this castle.
+
+The Infinity Heart. It had this rhythmic pulse of qi to it, unmistakable. Like hearing that distinctive soft crashing of the waves and knowing the sea must be near—even if you wouldn’t see it for several li. He tracked the pulse to the castle’s main tower. But before he could enter, there was a disturbance in the air. A dense pulse of qi which threw him off.
+
+“What the Hells?” There was a being in the sky slowly descending toward him. A being badly botched and radiating the auras of two Godkings. “Wait. Nuwa? And is that… Aurus? What—Who—ahh.”
+
+But he knew the answers to his questions as soon as he spoke them. It was plain what had happened to them. And there could only be one who.
+
+He had a sinking feeling he knew exactly what this was about.
+
+Sure enough—“Jez sends his regards,” moaned the creature’s two heads. Yup. Fuck.
+
+Hundreds of geysers of tar burst from the ground at once, upending towers and trees, sending boulders flying as easily as sediment. They became thick spiked vines in the air, swaying, clogging the air—and any routes of escape. In a blink Dorian was surrounded.
+
+They descended, hemming him in, a shrinking cage.
+
+Dorian breathed. The tar soaked in the heat, unmoved, which was a first. These things are conjured?! He would’ve thought they were treasures they were so durable—and there were hundreds of them, too. They must’ve cost a fortune in qi. Probably close to all the qi this creature had.
+
+It was trying to end him with the opening blow.
+
+He snorted and breathed harder. And harder. And harder yet as the cage of vines started to bubble a little in spots, and then all over the place, and then burst open en masse in a fuming shower. Waves of tar sloshed away from him, coating the ground for li.
+
+“Impressive!” he said, still grinning. “It’s not often I face a mass conjuration of that caliber. You forced me to use a quarter of my qi, almost. But you’ve started off far too strong, I’m afraid. My turn.”
+
+Dragon’s Bane leapt to his hands. But before he could draw it, the creature exploded with gold light. Gold qi gushed out of it, so much Dorian could hardly believe the thing wasn’t falling apart at the seams. It drenched the tar on the ground. `
+
+Instantly the vines started to reform.
+
+“Well, don’t I look the idiot,” said Dorian slowly. “It seems I’ve spoken too soon. How are you doing that?” So much qi was pouring out of the creature it was nearing Yama levels of golden overload.
+
+And yet it didn’t seem fazed in the slightest. There was no steaming or flaking, no limbs falling off.
+
+Dorian fired two shots at it, blink quick. And just as fast two gold shields burst into the air, swallowing them whole. Those were not light shots. That was no weak shield. This thing was burning qi like it cost nothing!
+
+In the same instant the creature screeched, throwing out its palms, and a new generation of vines—even thicker and spikier than last time—rushed him from all sides.
+
+And just like last time Dorian hosed them into sputtering black pools. This time it took another third of his Eclipse qi; he was aware he was running out painfully fast.
+
+And just like last time a torrent of gold soaked the ground. New vines shot out like lunging snakes, hundreds of pillars of tar arching straight for him, and for the first time that fight Dorian’s expression grew serious.
+
+That much qi should’ve fried this creature. He’d thought it a fool to try to go qi-for-qi with him; now he wasn’t sure who the fool was.
+
+So Jez had engineered some strange mutant creature that could take his energies better. And? He had over three Godking’s worth of qi at his disposal! Was he really supposed to believe this thing could channel that much qi without overheating?
+
+He opened his mouth and belted out another burst of dragon’s breath. Before the vines had even slumped his bow was in the air, firing a stutter of arrows.
+
+The thing simply threw up a three-sixty-degree forcefield and ate them all.
+
+And a fourth wave of gold qi gushed out of it. Enough to fill a Godking’s core.
+
+“You—! Unbelievable. Jez is a godsdamned cheat. This is ridiculous! What am I supposed to do?!” He threw up his hands.
+
+“You cannot win,” sighed the mutant. “I am Infinite.”
+
+“I don’t believe that. But you’re probably closer to it than I am, much as it pains me to admit… will I really have to pull out the trump card? This fast? Bleh. Hopefully this thing still works.”
+
+[Blessing of Hermes!]
+
+A full half of his Holy qi vanished. A shroud of silver light swirled over him and he was so light he felt like he had no body at all.  Like he was just a consciousness floating in space, flickering from place to place as easy as a beam of light.
+
+“Fleeing merely delays the inevitable,” moaned the creature.
+
+“You think I mean to flee? Whatever gave you that silly idea?”
+
+Dorian had to give the creature credit. Whoever had made it hadn’t only made its body a Spirit Stone; they’d also overhauled its reflexes. Its reaction speed was spectacular. There was hardly a sliver of time between the moment Dorian formed the intention to charge it and the moment the force field sprung up.
+
+But that sliver was enough for Dorian to slip through. He hadn’t even felt his wings bat, his body move. He’d just wished to be there—and he was.
+
+He stood less than a stride from the creature, so close he was within its force field, so close he could see its eyes widening, its mouth dropping open, could feel the qi flowing up its body as it tried to react. Too slow.
+
+[Curse of Chelone!]
+
+At first he thought he’d frozen the thing. But it was merely a matter of perspective—anything moving a thousand times slower than before would seem as though it were standing still.
+
+“There goes the other half of my Holy Qi,” sighed Dorian. “It ought to hold you here for… oh…a quarter of an hour?”
+
+The mutant’s eyeballs rolled toward him, all four of them. It took about three seconds, and he saw the utter lack of fear in those pupils. There was almost an arrogance.
+
+Dorian punched it in one of its faces with a [Fist of the Rising Sun.]
+
+It did depressingly little. Gold light flowed through its skin, blunting his qi, reinforcing the bone. The skin itself had been treated. It had this hard leathery feel.
+
+“Figures. You be good and wait here, alright? I’ll be back in a flash!”
+
+On his way to the main tower, he felt a vibration, a resonance on his Interspatial Ring. He pulled out the cause: a scrying glass that could work across Realms. Exceedingly rare. Along with the maps and the strings, Fate had included this single-use device in case of emergency.
+
+“Dorian!” cried Fate. “Jez has created a monster, a monster of two heads and horrible powers—it’s coming for you now!”
+
+“You’re  late,” said Dorian, crossing a hall and descending a flight of stairs, homing in. “I’ve taken care of it.”
+
+“You…have?”
+
+“Well, I’m about to. One moment!”
+
+He blasted open a bolted iron door, and there it was: the Infinity Heart, planted in the middle of a ritual circle on the ground.
+
+With the last of his dragon’s qi he punched it until it shattered, severing this realm from Jez’s Infinity.
+
+“Right then!” said Dorian. “Let’s try this again, shall we?”
+
+The Curse of Chelone was still holding by the time returned from his jaunt. But there was no golden sky. There were no golden shields, nor golden power making vines from the tar. There was just the mutant wading through the air, struggling to get to him.
+
+He shot it in the face with [Bolts from the Blue]. Both of them. Several times, just in case, though it’d slumped after the first. Its body sagged, then lay limp on the wasted ground.
+
+“It’s lucky it got here after I got Yeshima’s powers,” whistled Dorian. “That could’ve been ugly.”
+
+“That… that creature… is not the only one,” said Fate. “We’ve received reports of several of its brethren cropping up in the Upper and Middle Realms. So far the best we’ve managed is to fight them to a deadlock. Already they’ve claimed significant tracts of territory. These mutants… whatever Jez has done—goes against nature. Dorian, this cannot be allowed to continue—lest we lose everything! So long as Jez can siphon power to them from his many Infinity Hearts, they’re nigh invincible! And more and more are made in the depths of his Labyrinth as we speak…”
+
+Fate looked ready to tear his hair out. “How many of your bodies have you managed to gather?”
+
+“Two. Salas and Yeshima. Why?”
+
+“It shall have to be enough. As soon as you can, please meet me back in the Dragonrealm! As to why…” Fate winced. “I know this was not included in your original mission, but for the sake of the Multiverse I must plead with you—would you consider adding a few stops along your journey?”
+
+“…Define ‘a few.’”
+
+“Perhaps it’s best I brief you once you get here—”
+
+“Fate? Say it.”
+
+“…All of the Upper and Middle Realms?”
+
+“Wait, wait! Don’t sever the connection!” said Fate. Likely because he saw the look on Dorian’s face. “They’ll be quick—very quick! All we need is for you to drop by and destroy the Infinity Heart! With your powers, you are uniquely well-suited to ambushing a realm before he can send his reinforcements. If you were to do this—even just a few Middle Realms—it would deprive him of a wealth of his power! Perhaps enough to change the course of the war!”
+
+“Fate,” said Dorian. “Are you asking me to Speedrun the Multiverse?”

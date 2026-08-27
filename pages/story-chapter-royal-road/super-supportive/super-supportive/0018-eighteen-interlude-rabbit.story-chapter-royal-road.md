@@ -1,0 +1,199 @@
+---
+id: 6e29e94b-b18b-5ae3-b7f9-10735cd60f73
+page-type-slug: story-chapter-royal-road
+title: "EIGHTEEN: Interlude - Rabbit"
+slug: 0018-eighteen-interlude-rabbit
+partOf: super-supportive
+position: 18
+ownLength: 1638
+unit: words
+publishedAt: 2023-02-22
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1120720/eighteen-interlude-rabbit"
+royalRoadId: "1120720"
+---
+
+Interlude:
+
+Rabbit
+
+“All right, y’all!” said Ms. Jensen, smiling as she took in the class full of over-energized second graders. “I’m sorry about recess, but I can’t turn off the rain for you. We’ll have read-aloud time and play some games afterward. How does that sound?”
+
+“Boring!” one boy shouted, rocking back and forth so hard his desk clacked against the floor.
+
+“Good,” a few kids said, their eyes already on the stack of board games in one corner of the classroom.
+
+“Yes, ma’am,” the class’s goody-two-shoes replied, clasping her hands primly in her lap.
+
+From his seat behind the girl, Alden Thorn raised his hand, stretching for the ceiling.
+
+“Thank you for sitting so politely in your seat, Alden. Did you have a question?”
+
+“Can you read from the book about superheroes?” he asked quickly.
+
+“No, I want the dragon book!” another boy protested.
+
+“I want—!”
+
+Ms. Jensen held her hand up for silence. When the children finally calmed down, she said, “I think Alden should get to choose since he asked first. And since his family will be leaving Nashville soon to head to Chicago. Doesn’t that sound fair?”
+
+A few people grumbled, but not many. Superheroes weren’t a bad choice, as far as rainy day reading material went.
+
+The teacher pulled the familiar book out from under a stack of papers on her desk and took her seat at the front of the room. “Okay, who remembers which class of Avowed we read about last time?”
+
+“Meister,” the girl sitting in front of Alden said promptly.
+
+Alden lowered his hand in disappointment.
+
+“That’s right, Clara. So, let’s see…oh, today’s class is one of the rares! Isn’t that exciting? Who knows what a Rabbit does?”
+
+“My daddy says they’re rich.”
+
+“My daddy says they’re cowards.”
+
+“You’re wrong!” Clara said in an uncharacteristic shout. “That’s a bad thing to call any of the Avowed. They’re brave, and they fight demons and bad guys for us, and my momma says only dissants say mean things about them because they’re jealous not everyone gets powers!”
+
+The whole class had started whispering. Ms. Jensen’s smile was getting thinner by the second.
+
+“Settle down!” she called. “Remember that conversation we’ve had a few times this year? About how we will try to think our own thoughts in class and not only repeat what we’ve heard from others?”
+
+Clara gasped. “But that doesn’t mean our parents, does it?”
+
+The teacher cleared her throat. “Let’s all learn from this nice book,” she said. “And not talk about things like dissidents anymore.”
+
+Before anyone could protest, she started reading.
+
+###
+
+from A Children’s Encyclopedia of the Avowed
+
+(Interviews with real supherhumans in every chapter!)
+
+You’ve probably heard of the classes we’ve talked about so far, but have you ever heard of a Rabbit?
+
+No, not the cute and cuddly animal you might have for a pet!
+
+Rabbit is a funny-sounding name for an Avowed class that is just as serious and important as all the others in this book. Rabbits offer their service to make Earth and Artona better places, just like all the other superhumans here!
+
+The Interdimensional Warriors Contract isn’t just for people who fight villains here on Earth and wherever else they might be called to by our Artonan friends.
+
+We’ve already met some healers. Let’s learn about another class that does special work away from the dangers of the battlefield!
+
+But first, where did the name “Rabbit” come from? To answer that question, we’ve asked Honorable Ty-krol, a biologist from Artona 2, to explain:
+
+The Ryeh-b’t is a small flying reptile, native to Artona 3. It was domesticated more than twenty thousand years ago, and it has since become a popular companion animal throughout the Triplanets and on many of our resource worlds.
+
+The Ryeh-b’t is known for being swift, clever, and easily trained. Many Artonan children enjoy using their pet Ryeh-b’ts to send gifts and messages to their friends.
+
+Though normally it is unacceptable to call sentient beings by animal names, the Ryeh-b’t is so beloved that it has become common practice to refer to particularly helpful children or useful junior members of business organizations as “Little Ryeh-b’ts.”
+
+The Ryeh-b’t class exists on every Artonan resource world. Humans who are chosen as Ryeh-b’ts usually use their skills to work as assistants and errand-runners on the Triplanets. Their powers might not be as flashy as a superhero’s, but they are summoned to help out the Artonans more often than any other class!
+
+When the System first came to Earth in 1963, the word Ryeh-b’t and the way members of the class are prone to disappearing in a flash when they’re summoned, made English-speakers think of rabbits.
+
+The name quickly entered common use, and the System adjusted it to accommodate human preferences.
+
+Now, our friendly interviewer Steven will talk to A-rank Rabbit Maryam Musa about this interesting class.
+
+###
+
+Steven: Hi, Ms. Musa! Our young readers would love to know more about you and Rabbits in general. How long have you been a Rabbit?
+
+Maryam: I was chosen seventeen years ago.
+
+S: What are some good things about the class?
+
+M: If you select a valuable skill, you get summoned more than other superhumans. Rabbits do a wide variety of different jobs, and they usually receive Argold for their services.
+
+S: That’s the System currency! So, are Rabbits rich?
+
+M: Well, the ones who select a good skill. Not all of them.
+
+S: Is the money your favorite thing about being a Rabbit?
+
+M: No. I like my starter skill the best.
+
+S: What kind of skill is it, Ms. Musa?
+
+M: I fold napkins into decorative shapes. When I first became an Avowed, I could only manage a few, but now I can do hundreds of them per hour.
+
+S: What an unusual skill! Are most Rabbit skills like that?
+
+M: I don’t know about every skill. But skills like mine are interesting because they can help you do complicated things very quickly.
+
+S: I guess you use your powers to help at important parties and banquets on the Triplanets?
+
+M: That’s one of the things I’m often summoned for.
+
+S: So you’re like a party planner! That is a fun job.
+
+M: No. I don’t plan things. I just fold.
+
+S: Some of our readers may not realize how important that is, but the Artonans greatly value beauty. I’m sure they appreciate your skill very much!
+
+M: People don’t understand because they don’t think about it. Not really. There’s a lot that goes into folding a napkin.
+
+S: I bet! Well, thank you for your time, Ms. Musa. I’m sure many children will want to become a Rabbit after reading our interview!
+
+###
+
+In Ms. Jensen’s classroom, the second graders had all fallen silent. Most of them had looks of consternation on their faces. A few were smiling uncertainly, as if they thought their teacher might have told them a joke but they weren’t quite confident enough to laugh about it.
+
+Clara raised her hand. “Can’t…can’t regular people fold napkins into pretty shapes?”
+
+“They can!” another girl said confidently. “I went on a cruise, and the napkins were all folded! They don’t need super powers for that!”
+
+“But the Rabbit lady is rich. That’s good?” a boy said.
+
+“I wanna be rich.”
+
+“My daddy is rich.”
+
+“I want to be a superhero who shoots fire out of my face.”
+
+Alden raised his hand.
+
+Closing the book, Ms. Jensen smiled at him. “Everyone please notice how Alden and Clara raise their hands! Yes, Alden? Did you like the interview with Ms. Musa?”
+
+“I’m confused,” he said. “Why do the Artonans need somebody to fold napkins for them? Can’t they do it themselves?”
+
+“Well…” Ms. Jensen tucked her hair behind her ears and bit her lip, apparently thinking about the question. “I know everyone is very excited about super powers. When we see a brave hero protecting us from bad people or we hear about them saving someone from a disaster, all of our attention is on them. But the world needs all kinds of helpers, doesn’t it?”
+
+Clara raised her hand again.
+
+“Yes, Clara?”
+
+“Last week you taught us about want and need!” she said proudly. “Want and need are different.”
+
+“That’s true, but—”
+
+“Pretty napkins is a want isn’t it?”
+
+“It is,” one of her friends agreed.
+
+“I think so, too.”
+
+“Maybe it’s a need if it’s for a wedding? My cousin’s getting married. I’m going to be the flower girl!”
+
+“Artonans have weddings too!”
+
+“My momma says sometimes they have three brides and grooms at a time.”
+
+“That’s bad.”
+
+“No it’s not! Three’s my favorite number.”
+
+“All right, y’all. I think we’re getting a little bit off track. Let’s all take a minute to think of good things Rabbit Avowed can do for the world! Whoever comes up with the best answer will get a new pencil from the pencil box.”
+
+This challenge earned Ms. Jensen a few blissful minutes of quiet while everyone wrote down their best guesses.
+
+Alden, who had no knowledge of Rabbits beyond what he had just learned, answered that they could probably fold lots of towels for hotels. Which would be good for the hotels, since if you didn’t fold the towels your guests would hate you.
+
+Clara won because she knew that there was a Rabbit on the Anesidoran High Council, and he helped to make important laws for superhumans on the island.
+
+“Laws are a need, not a want!” she announced righteously as she marched back to her desk with her prize pencil.
+
+“It’s not fair,” Alden muttered.
+
+Lawmaking didn’t have anything to do with the Rabbit’s superpower. Which was the whole point of the assignment in his opinion.
+
+Rabbits are dumb. Who would ever want to be one of those?

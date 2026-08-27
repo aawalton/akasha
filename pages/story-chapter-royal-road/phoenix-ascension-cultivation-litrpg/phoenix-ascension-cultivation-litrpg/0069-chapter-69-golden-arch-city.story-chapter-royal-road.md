@@ -1,0 +1,189 @@
+---
+id: 314fb330-6f0c-588d-a2fe-8602f37c7871
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69: Golden Arch City"
+slug: 0069-chapter-69-golden-arch-city
+partOf: phoenix-ascension-cultivation-litrpg
+position: 69
+ownLength: 2533
+unit: words
+publishedAt: 2026-01-01
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2899089/chapter-69-golden-arch-city"
+royalRoadId: "2899089"
+---
+
+In the Golden Arch City branch of the Myriad Market, a man sat on a big, soft, and purple pillow. He was surrounded by a dozen or so other men and a woman. They all looked at him with interest, and more than that, they were staring at the object within his hand.
+
+On his lap, encased in a jade box, was an object of incredible importance. It was a large, long, and beautiful orange feather, brimming with life and emitting a moderate amount of heat. Unmistakably, it was a Phoenix feather.
+
+The man holding it looked very proud of himself, with a smile going from one ear to the other. He’d received it a few days prior, and rumors had already spread through the major cities. People from all over the continent flocked toward his branch of the Myriad Market, hoping to get a glimpse of it.
+
+And this man was no other than the manager. A powerful man, in status, money, and power— Du Ling Zhan.
+
+“Manager, what are you going to do with it?” The only woman asked, her eyes barely hiding the desire within.
+
+Du Ling Zhan didn’t reply immediately, though he had the answer already. “I’m going to have it appraised, first and foremost. I’m not that gifted in terms of Spirit Beast materials, and I want to make sure I have the real deal. The moment I heard about this matter from that fat— Manager from the Hu village, I sent word to the branch in Celestial Step City, and someone is already on their way.”
+
+The woman blinked, not having expected such a complicated answer, though satisfying. Meanwhile, some of the other men nodded, while others were skeptical.
+
+“How could such a thing appear in that backwater city?” A man with rather bushy eyebrows asked, his squinted eyes barely visible. “Do Phoenix feathers fall from the sky nowadays?”
+
+Du Ling Zhan cleared his throat and looked at the man, unable to hide the smile on his face. “A strange immortal has appeared in the Hu village, and her only purpose there was to sell this feather. She must have found it somewhere far away and brought it to the nearest branch of the Myriad Market.”
+
+“That still doesn’t explain what it’s doing there! How long could she have kept it for? More than that, why even sell it? A Phoenix feather is way too rare to just sell. I doubt even we, here, could sell it. The only people who could afford such a thing would have to be at least at the level of the heads of the Five Sects. Even then, it’s not guaranteed.”
+
+“Branch Manager Du, how much will you sell it for? Who will you sell it to, to begin with?” Another man asked, though not as aggressively as the one with the bushy brows.
+
+After a brief moment of contemplation, Du Ling Zhan said, “I will decide after the appraisal is finished. Once the amount of essence inside the feather is revealed, I will put it up for the next yearly auction and let the rich folks decide.” He chuckled, looking greedily at the feather.
+
+“Branch Manager Du is wise. Although even if this feather only had five percent essence, it would still be quite valuable.”
+
+“Look at that glow! Five percent is a very low estimate. I would say at least thirty percent.”
+
+“Hmph, don’t get ahead of yourselves, twenty-five percent would already be a good number for that size.”
+
+“Right, the Phoenix it came from could not have been too old. Probably a young chick.”
+
+“A chick, eh? Didn’t the Phoenix Ascension Sect recently find a nest?”
+
+“I think so, I didn’t really pay attention.”
+
+“Maybe this is their doing?”
+
+“Stop being a fool. Why would they sell something they need so dearly?”
+
+The men argued amongst each other, and Du Ling Zhan had begun tuning them out. He couldn’t care less about their opinions. Once the appraiser from the Celestial Step City arrived, he would know for sure just what sort of fortune he was holding in his hands.
+
+Just as they said, though, even if it had very little essence, it was a precious material needed by countless sects. Apothecaries from all over the continent would pay an immense price to have it, all so they could have a higher chance of success in their refinement.
+
+What sort of refinement? Nascent Soul pills, of course.
+
+Phoenix feathers were not only one of the key ingredients for refining Nascent Soul pills— pills that could aid a cultivator in breaking through to the Nascent Soul realm— but they also had an incredible effect on the soul.
+
+If one ingested a pill with a Phoenix feather used as the main ingredient, it would increase their soul power once they broke through. To any cultivator, their soul was the weakest part of themselves until they cultivated it. So such a pill would give them a head start in their soul cultivation.
+
+Naturally, that meant that any Phoenix-related resources were wildly sought after. It goes without reason that anyone would go crazy over such materials whenever they surfaced.
+
+Du Ling Zhan knew that Phoenixes were careful creatures who didn’t like to show themselves to any other race. Besides dragons, they had no equal, so their pride was natural.
+
+Nobody knew much about either species, so their existence remained the stuff of legends.
+
+As to why nobody interrogated that woman… Anybody who was crazy enough to snatch a Phoenix feather, regardless of the circumstances, was not someone most people dared to go against. Most notably because someone like that definitely had a backer, and a lot of people got burned in the past when dealing with such mysterious people.
+
+Therefore, they would rather not bother anybody like that.
+
+While he was thinking about how his position would change in the future, someone knocked on the door, then entered.
+
+It was a woman with long black hair and a piercing gaze. She wore a dark hanfu that dragged behind her as she walked, yet did not seem to get dirty. The woman stopped in front of Du Ling Zhan, bent down and whispered something in his ear, then left as swiftly as she had appeared.
+
+Du Ling Zhan’s eyes shone even brighter, and he immediately pointed at the man with bushy brows.
+
+“Fa Lin, send word to alchemist Hao as soon as you can; he is to go to the Hu Village to appraise pills. They were refined by the same woman who sold the Phoenix feather, so she has to be treated with the utmost respect.”
+
+“Understood.” Fa Lin cupped his fists, and he was about to leave when he heard Du Ling Zhan’s voice once again.
+
+“And send for Meng Mao as well, he is a capable man. Tell him his compensation will be adequate, and that he is to escort you and alchemist Hao to the Hu Village.”
+
+“...Yes, sir.” He bowed and left with a frown decorating his face.
+
+He didn’t like Meng Mao much, and he liked leaving Golden Arch City even less. Why would he need to accompany them anyway? He grumbled and left the Myriad Market, heading toward a large tower in the distance.
+
+It wasn’t as large as the market, but it was tall enough for him to want to fly up there rather than climb up the stairs. Unfortunately, flying was forbidden, so there was little he could do about it.
+
+He did have time to decide whether he wanted to meet the alchemist first, or get an audience with the biggest, yet most trustworthy bastard the city had ever seen.
+
+***
+
+I took a deep breath and opened my eyes, a cold breath escaping my beak. After getting accustomed to the real world, I looked at my feathers, only to see that they had turned even ghostlier.
+
+After seeing that the Demonic Qi was not advancing anymore, I wanted to test if the Ghost Qi Technique still worked. Much to my delight… maybe, it did. It wasn’t as effective as before, but I managed to condense the Qi Lake by a whopping fifteen percent. That meant that, at my current cultivation stage, I could store up to fifteen percent more Qi than normal cultivators.
+
+Not that there was anything normal about me.
+
+However, I couldn’t help but wonder what sort of benefits the technique would have once I reached foundation establishment. More than that, though, I was wondering what the drawbacks would be.
+
+For the moment, the only issue was my feathers turning ghostly, but nothing else. Well, the temperature was a problem, or would have been, if I weren’t a Phoenix. I was basically cheating, since the Yin Qi absorbed by the technique was being suppressed and assimilated by my Yang body, so it all worked out.
+
+Otherwise, if a normal person used this technique, they would have probably turned into an icicle sooner or later.
+
+I was willing to try it out after using the Divine Lighting Construction technique to break through.
+
+And I had a feeling that a breakthrough would be soon. Once all the Demonic Qi within my dantian transformed into pure Qi, I would have enough to achieve Foundation Establishment.
+
+Until then, however, I had to keep training. For some reason, I was beginning to have a bad feeling in my gut. Naturally, my only option was to get stronger.
+
+With that in mind, I calculated that not a lot of time had passed since I left, and out of the two days I was quoted, there was still more than half left.
+
+I wanted to make some good progress during the remaining time… But then I remembered the siblings, and I got up, heading toward them.
+
+It was nighttime, and I was pretty sure they’d forgotten to eat.
+
+When I reached the river, I grabbed my clothes and changed into human form, then ran the rest of the way. The river was nearby, so there wasn’t much terrain to cover, but running in human form was weirdly inconvenient. Especially considering I didn’t have all the motor skills required to perform well.
+
+Anyway, once I reached the gate, I snuck through the shadows and hopped the fence. Nobody could detect me anyway. Even without being able to use my Active Skills, hiding my presence was not a difficult endeavor.
+
+And so I headed toward the Shu house, a feeling of worry bottling up in my stomach. It was a strange feeling, and even I didn’t know why I cared so much about them. Had I gotten attached? Impossible.
+
+The big brother was basically begging to have a tragic end, and the little sister would follow in his path sooner or later.
+
+It must have been because of the quest. No, it was definitely because of the quest. I was just afraid I would miss out on the awesome rewards if something happened to them.
+
+When I entered their room, I found the two sleeping on the ground. They didn’t seem to be too comfortable, but I didn’t bother them. Shu Xu Ning probably used up all her Qi to expel the foreign Qi from her brother.
+
+A poisoned brother, mind you.
+
+With a sigh, I walked over to the bed and took off the dirty… everything. I was of half a mind to throw out the mattress as well, but I decided against it. Instead, I controlled my flames to burn away any leftover dirt and infectious disease, and replaced the sheets and pillows with clean ones.
+
+Afterwards, I grabbed the two and put them on the bed, allowing them some rest. Tomorrow, they would need to get ready for another difficult day. Once Shu Wao Tu’s body was free of the foreign Qi, he could use the time to heal and train his body.
+
+Unless he wanted his little sister to make their bully return what rightfully belonged to them.
+
+In fact, I was going to arrange that right now.
+
+***
+
+I didn’t know where exactly the ciao guy’s family lived, but it wasn’t hard to guess. There was only one large estate in the neighborhood, and they loved plastering their name everywhere.
+
+Thus, I had two choices: enter through the front gate or…
+
+I jumped over the wall. Seriously— sneaking in anywhere in this town was way too easy— and I looked for the main household. There were way too many houses around, but again, finding it wasn’t hard.
+
+It stood out quite a lot, actually.
+
+Anyway, on the way there, I changed my appearance to that of a middle-aged man, trying to look somewhat similar to an older version of Shu.
+
+That was because I wanted to deceive the ciao clan’s head.
+
+How?
+
+Well… Let’s say I’d heard something interesting by accident.
+
+But first, I had to find him.
+
+It was late at night, so the man must be sleeping. I snuck into his house and hid in the bushes, observing the guards. They were all very lax, to the point that security was nonexistent.
+
+It was hard to believe that this was the house of someone very important. Anyone with enough techniques and will could easily sneak in and assassinate whoever they wanted. Not that I was going to assassinate him, of course not.
+
+But I was going to threaten him, or at the very least, blackmail him. The quest specifically said that the ciao guy had to give Shu Wao Tu the pill, and that’s what would happen. I couldn’t afford to lose such an opportunity.
+
+Since the ciao father had the pill, and it hadn’t been sold yet because it was so expensive, it was my duty to make the events happen, even if I had to play dirty.
+
+Even though they played dirtier.
+
+My sneakiness led me to a large wooden door, which was quite the obstacle. It wasn’t a bedroom, that much was for sure, but it had to have been something important. Part of me wanted to explore, but I didn’t have much time. If I got caught, it would be quite a mess.
+
+So I walked past and searched for the ciao father.
+
+It wasn’t hard to find him. Like father, like son, as they say, except the father had enough money to hire courtesans to his place.
+
+I heard that the ciao guy liked going to brothels and getting drunk, and now I saw where he’d gotten that from.
+
+Well, it was much easier for me then.
+
+The ciao father was groping a rather beautiful-looking woman while another one poured him wine. It was disgusting, but I could understand where he was coming from. He was rich, after all, so what could he long for?
+
+Cultivation, of course! If you’re rich, cultivating is easier, so why are you wasting that much money on women, you fool?!
+
+Anyway, there were two guards on either side of the door, but they were more busy trying to steal a peek rather than guarding the place, so I used my expert stealth skills to sneak between them and knock them out with a chop to the head.
+
+Then, I entered the room.

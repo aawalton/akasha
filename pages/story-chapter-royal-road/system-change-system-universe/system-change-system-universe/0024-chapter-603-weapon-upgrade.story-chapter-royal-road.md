@@ -1,0 +1,189 @@
+---
+id: 0277df79-e399-5d33-90ea-18c280370ff3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 603: Weapon Upgrade"
+slug: 0024-chapter-603-weapon-upgrade
+partOf: system-change-system-universe
+position: 24
+ownLength: 2104
+unit: words
+ownProgress: 2104
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2758952/chapter-603-weapon-upgrade"
+royalRoadId: "2758952"
+markedReadAt: "2026-06-29T19:57:31.003Z"
+---
+
+Chapter 603: Weapon Upgrade
+
+Derek selected the notification about the weapon upgrade and read it.
+
+…
+
+Weapon Upgrade Token
+
+After examining user, the Origin System has found that user’s weapon is lacking in strength compared to user’s class rarity. You have thirty minutes to choose a legendary weapon to upgrade to Mythical. Please choose carefully.
+
+…
+
+Yeah… choose carefully…Derek snorted. His first thought was about his old glaive that had accompanied him for so long. If he were able to upgrade it straight to Mythical rarity, he would have done so in a heartbeat. He loved Void’s Harbinger, but he had such a history with his old glaive. It was the only thing that had kept him company for so long when he was trapped in the void. However, upon reading the explanation, he had to wave that thought away.
+
+Harbinger it is, he thought, then held his arm to the side and willed for his glaive to appear.
+
+…
+
+You have selected weapon: Void’s Harbinger
+
+Weapon Upgrade Token will be consumed, and Void’s Harbinger will be upgraded.
+
+Are you certain of this decision?
+
+…
+
+Derek mentally confirmed his decision. As soon as he did, Harbinger glowed a brilliant purple, which caused everyone still left to stop whatever they were doing and look at Derek. A few seconds later, Harbinger disappeared. Derek waited and waited—it was the first time Harbinger had really been away from him since he had bound it to himself.
+
+He could usually feel it resting inside him, but for the first time, he felt empty. Seeing that nothing more was happening, most people went back to whatever they had been doing before.
+
+“Did you get a weapon upgrade?” Edgar asked after walking over.
+
+“I did,” Derek replied. “It is turning Harbinger into a Mythic weapon.”
+
+“Lucky…” Edgar said with envy.
+
+“You didn’t get anything good?” Derek asked.
+
+“I did!” Edgar replied with a grin. “Actually… it’s a bit of a double-edged sword. I was given a few options—all of which were definitely tailored to me. In the end, I thought about what that elf said and chose one that didn’t sound all that great.”
+
+“Which was?”
+
+“To increase my lightning proficiency with help from the third-party governing system,” Edgar answered.
+
+“And what did that do?” Derek asked.
+
+“It… completed my second requirement to advance,” Edgar said. “And I’m sure that my lightning skills have gotten stronger because of it—I’m just not sure by how much.”
+
+“That’s great!” Derek said.
+
+“It is, and it isn’t,” Edgar replied. “It seems that I’m going to have to leave my family and go out on my own.”
+
+“That’s true,” Derek said. “But you may go to the same place as Alanah. Or, when the time comes, you could come…” he started, but he instantly stopped when Void’s Harbinger reappeared floating in front of him.
+
+Derek reached out and took Harbinger in his hands. The weapon looked the same, though the blade did look a bit sharper than before. Finally, he examined it.
+
+…
+
+Void’s Harbinger
+
+Durability: 3500/3500
+
+Void’s Harbinger is the first high-quality legendary weapon created by an extremely talented expert Blacksmith. With the help of another, the smith was able to push the weapon’s affinity for the void element to an unheard-of level. This weapon has acquired an innate ability upon reaching legendary status.
+
+Void’s Harbinger has since been upgraded using a rare Weapon Upgrade Token rewarded from the Origin System. Doing so has increased the weapon’s rarity. It has gone from a high-quality legendary weapon to a mid-quality Mythical-ranked weapon.
+
+Due to reaching mythical status, this weapon has obtained the intrinsic repair function that all mythical weapons have, as well as an innate ability.
+
+Material Drain: Any material, organic or not, can be used to repair Void’s Harbinger by using its innate connection to the void. Energy gathered via Material Drain can also be stored to be used at a later time.
+
+Channel: Allows the user to channel energy through the weapon more easily and efficiently.
+
+…
+
+“Nice!” Derek exclaimed as he channeled some void energy into Harbinger. The weapon actually felt like it was pulling the energy out of him. In about half the time as usual, Derek channeled enough void to cause an overlaying void projection of the blade to appear.
+
+“What is it? Anything awesome?” Edgar asked.
+
+“It’s a lot more efficient at accepting my void mana,” Derek explained. “And its old Material Drain function was upgraded, too. Not only can it be used for repair, but the energy can be stored and used later. The weapon also repairs itself over time, just like my armor does.”
+
+“So, you can use the skill, but save the energy. Then, if the glaive breaks in battle, you can use the stored energy to automatically repair it to full?” Edgar asked.
+
+“That seems to be the case,” Derek said.
+
+“Useful,” Edgar replied with a nod. Then he sighed. “Looks like my time here is up. I’ve already accepted both my rewards, and it’s trying to kick me out. I’ll see you later.”
+
+“Wait!” Derek said as Edgar vanished. “What was your second reward?” he muttered, then shrugged. He stored Harbinger and grinned. So far, he was enjoying actually being rewarded for his efforts again. I’ll ask him about it later. He wasn’t all that excited about the second one, anyway.
+
+Now… let’s see about this new skill, he thought as he brought up the next notification.
+
+…
+
+You have been awarded a new skill. Please make your selection from the list below:
+
+Void WhirlpoolVoid RendVoid Eclipse
+
+…
+
+Three void-based skills to choose from appeared in front of Derek. Of them, he only had an idea of what Void Rend might do. So, he focused on the first one and read the description.
+
+…
+
+Void Whirlpool: Creates a whirlpool that pulls anything in the vicinity towards it. Once time runs out, the whirlpool collapses and causes massive internal damage to anything close.
+
+Note: This skill does not differentiate between friend and foe.
+
+…
+
+Yikes…Derek thought. He knew exactly what kind of damage something like that could cause. It did seem like a great skill, but it was also one that he would have to be extremely careful with if he chose it. He hoped that the other skills were a bit more… controllable.
+
+He moved on to Void Rend.
+
+…
+
+Void Rend: An invisible slash that cuts both time and space. Enemies hit by the attack may find their movements or thoughts continuously delayed or sped up.
+
+…
+
+Well… that’s not what I was expecting. When he saw the skill name, he thought it would be something like Spatial Rend. Instead, it turned out to be more of a debuff to enemies. Honestly, that could be devastating. I can’t even imagine if one second I was moving at full speed, then the next, I was moving at double speed, then all of a sudden half speed. How do you even fight like that? And can I hit myself with it and practice?
+
+So far, both skills that he’d looked at had their uses. But, because of the possibility of having an accident with Void Whirlpool, he was leaning more toward Void Rend. He could definitely see its use. With that in mind, he looked at the next skill.
+
+…
+
+Void Eclipse: Create a massive void sphere above a battlefield. For the skill’s duration, time and space below the sphere become chaotic—affecting all that falls within its domain.
+
+…
+
+Okay… wow, he thought. Void Eclipse is basically a domain skill that brings the void to the outside. At least, that’s what it appears to be. But does that mean that it will be like the void when I use Void Travel, or will it be more like the first layer and Void Shift? Or is it like the inside of the Portal skill? And are people with the void affinity not affected by it?
+
+There were a few things that he was looking for when it came to skills. He had really wanted a domain after seeing that his aura was beginning to affect reality, but he wasn’t sure he wanted a domain like Void Eclipse. One thing he did understand, though, was why skills related to the void were rare. None of the skills were bad.
+
+He was slightly disappointed that there wasn’t any kind of cloaking or transformation skill. After fighting the King of Astrus and Jakis, he thought being able to turn into the void itself would be a great skill. How would it work? He had no idea. He just hoped that with a high enough affinity, he could get the chance at such a skill.
+
+The skills he was choosing from were also something that he knew the Davenresh System wasn’t able to reward. They really came directly from the Origin System. Derek really wished the Origin System could give him more information about the skills as well. None of them indicated what the mana cost or the cooldown was. For all he knew, he could use Void Eclipse, and then wouldn’t be able to use it again for a year.
+
+He was honestly leaning toward Void Rend just because of its simplicity. However, he had Sweeping Slash and Multi-Strike, and now he also had a weapon that could channel the void even better than before. On top of Spatial Collapse and Rend, he was fairly good against single targets.
+
+Technically, both Sweeping Slash and Whirlwind Slash were multi-target skills, but they also worked well against single targets when paired with his void energy.
+
+So… I either pick a non-damaging, great single-target debuff skill, or I pick one that seems to be multi-target and extremely deadly to anything and anyone around it. Or… I pick one for which I have no clue about the lethality. He really hated having to make decisions like this. He knew that he couldn’t go wrong with any of them… depending on the situation.
+
+Why couldn’t it just select one for me and give it to me? Why make me choose? He questioned internally. Derek ran his hands through his hair and sighed. I definitely need something for multiple targets at once—something that can help me while hurting all the other enemies at the same time. Finally, after hoping he would have more control over it than it seemed, he selected Void Eclipse.
+
+…
+
+You have selected: Void Eclipse
+
+Are you sure you wish to choose this skill?
+
+…
+
+Derek hesitated for only a moment before confirming his selection. Finally, he received his confirmation and a look at the full skill before it disappeared into his Temporary Status.
+
+…
+
+Void Eclipse: Create a massive void sphere above a battlefield. For the skill’s duration, time and space below the sphere become chaotic—affecting all that falls within its domain.
+
+Duration: 30 Minutes or Until CanceledCost: 25% of Maximum ManaCooldown: 3 Days
+
+Note: Leveling this skill will reduce cooldown and increase control over the conditions inside. The cost will always be 25% of the user’s maximum mana. This mana will not be regained until the skill is deactivated.
+
+…
+
+Huh, Derek scratched his head. That’s… acceptable, he thought. He was especially happy with the note stating that he was going to have some kind of control over the eclipse at some point. Reducing his mana pool by 25% when using the skill wasn’t something he looked forward to, but it had been an extremely long time since he had to worry about running out of mana.
+
+Overall, he was happy with his decision and couldn’t wait to test his new skill and upgraded weapon. Of course, he would do so very, very far away from anyone. The last thing he wanted was to accidentally kill a bunch of people because he activated a new skill in the middle of a city.
+
+Derek dismissed the skill notification and looked over the list of rewards again. He was certainly happy with obtaining five more Origin System Skill Upgrade Points, considering how good Dave said they were. And he would never complain about earning more Free Stat Points.
+
+Then there were the system store credits. It had been a long time since he’d been able to access a system store. He couldn’t wait to see what the Origin System’s Shop had in store for him.
+
+Finally, Derek dismissed the last notification and looked around. He and Silvi were standing alone in the white space, except for one other figure. The only other person left was Marrick, and the old elf looked more troubled than Derek had ever seen him before.

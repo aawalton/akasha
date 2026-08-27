@@ -1,0 +1,185 @@
+---
+id: e581f190-44e7-5be7-ab8e-b14ce93f7bf9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78 – The Breaking Point"
+slug: 0078-chapter-78-the-breaking-point
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 78
+ownLength: 2049
+unit: words
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2993711/chapter-78-the-breaking-point"
+royalRoadId: "2993711"
+---
+
+The night was nearly over, the first rays of sunshine making their way over the treetops. Liora and Cee had settled in a large tree hollow they managed to find in one of the older deathwillow trees. She did have to turn into her magpie form so there would be enough space, but in the end, both Cee and her could share the hiding spot.
+
+Renir was being held tightly in Liora's grasp while Cee talked with the imprisoned archmage.
+
+"So you helped out my little magpie while I was out cold? You have my gratitude," Renir said graciously.
+
+"Of course. As a fellow reincarnated human, we have to stick together. Not to mention that I've met you two before. It was actually a great relief to see familiar faces again. Let me tell you, it is VERY difficult to make friends as a spider," Cee said, slumping her head down.
+
+"To think that there are people like you around. Do you two come from the same world? Same time? Have you compared?" Renir asked enthusiastically.
+
+"I think so…" Cee said, thoughtfully pressing her front leg to her mandible. "I came from a world called Earth."
+
+"Yes, me too," Liora confirmed.
+
+"What about the time? What time did you come from?" Renir asked.
+
+"Twenty-first century," Cee said.
+
+"Same."
+
+"What about the country?" Renir continued.
+
+This made them both pause. What country did Liora come from? The question seemed so simple, yet Liora found herself struggling to answer. She remembered that there were bigger countries, wealthier countries, and technologically advanced countries. There were also countries where famine and lack of proper hygiene were commonplace. But she couldn't recall the name of a single country.
+
+"I don't know… I think it was a relatively wealthy and calm country," Liora said, but the more she thought about it, the more her head seemed to hurt.
+
+"No, I can't remember. Whenever I try to recall a country name, I draw a blank. As if somebody had plucked this information out of my head," Cee shook her head.
+
+"Fascinating! You both recalled the time and name of the planet without issue, yet you cannot recall the name of a single country in your old world. But why? The process must have been deliberate, meaning that your reincarnation was likely deliberate, too. But why? And who would do it? And how?" Renir gushed in his rambling voice.
+
+Liora rolled her eyes. "No matter how much you ask us, we don't know."
+
+"I'm afraid Liora is right there. But it's our turn to ask questions now. You're a powerful archmage, aren't you?" Cee asked in a voice filled with fascination.
+
+Liora wanted to chastise Cee for giving Renir a chance to brag, but it was already too late.
+
+"Why indeed, I am. In fact, I am one of the nine pillars, the Pillar of Lost Magic, so when it comes to—"
+
+Renir then went on his lengthy bragging rant, most of which Liora just ignored. She didn't know how, but Cee was listening with awe in her eyes, not interrupting him once. Liora didn't get it. Yeah, sure, he could do magic or whatever, but it was Liora who kept the two of them alive. She was the one who found the Pulse Stone.
+
+Yet all she got as thanks was him grumbling that she wasn't training enough, even though she had been molting and unable to fly properly. It was so unfair. She hadn't even gotten any shiny treasure lately; instead, she was stuck in this mucky, nasty marsh.
+
+"So what happened to you exactly, Mister Archmage? Why did you suddenly pass out? Is that the right way to call it?" Cee asked once Renir was done bragging.
+
+"I suspect that after removing a layer of my seal, I also unlocked access to some of my magic. However, I likely hadn't recovered enough mana yet, so suddenly using such a powerful spell to heal Liora left me completely dry."
+
+"I knew it! So I was right to assume that you need extra mana to reawaken."
+
+"That was your idea?" Renir asked.
+
+"Indeed. It seemed logical to me. After all, mana is an energy source much like electricity was in our world. Except I suspect that in this world it is necessary not just for devices for living beings as well."
+
+"Yes, yes! You got it completely right. Oh, if only Liora would show more interest in magic. But she just wants her glimmerstones," Renir said.
+
+"I'm right here, you prick," Liora cawed, tightening her hold on him. "And I'll have you know that I was the one who saved your ass."
+
+"After I saved yours. You're the one who got injured stupidly!"
+
+"I wouldn't have gotten injured if you didn't push me to evolve."
+
+"If you don't evolve, then you're going to die!"
+
+"You guys argue a lot, don't you?" Cee said awkwardly.
+
+"It's because this birdbrain only thinks about shiny things," Renir said.
+
+"It's because this dumb rock only thinks about magic," Liora exclaimed.
+
+"But magic is quite fascinating. I wish I could learn some, but the best I have are these elemental webbing," Cee said, quickly weaving a small thread of ice web.
+
+"Ice web! Amazing! I've never seen something like that before. How do they even work?"
+
+"Enough! I'm going to sleep," Liora squawked in annoyance and pulled Renir into her Inventory.
+
+"Awww… I wanted to talk more about magic…" Cee muttered in disappointment.
+
+"Tomorrow. We need to sleep. The rock doesn't. Trust me when I say that he will never shut up," Liora said, huffing out her feathers and settling her beak behind her wing.
+
+What put you in such a prickly mood?
+
+You did. Now, shut up. I want to sleep.
+
+When Liora woke up in the morning, Renir instantly demanded that she withdraw him from her Inventory so he could talk with Cee. She didn't want to do that, but Liora didn't have the right to hold Renir in her Inventory. After all, he too was a living being, albeit stupidly trapped in a rock. She didn't have the right to restrain his free will.
+
+So instead, she was forced to listen to Cee and Renir gush over magic while crunching on the disgusting marsh bugs for breakfast.
+
+"Do you think I could unlock an evolution which would let me do real magic?" Cee asked.
+
+"Yes, absolutely. Liora unlocked them almost immediately because I taught her the magic she's compatible with. I suspect there is magic you're compatible with already since you're able to make elemental webs."
+
+"Really?" Cee wiggled her front leg up in cheer.
+
+"Yes. If you touch me, I'll be able to see your System screen, and then we can work out which magic would be easiest to unlock."
+
+"I recently used all my glimmerstones to purchase Shadow Walk."
+
+"You actually use glimmerstones?" Renir exclaimed in shock.
+
+"Yes, what else would I do with them?" Cee cocked her head.
+
+"See, Liora! Normal monsters actually use their glimmerstones, not just hoard them," Renir said.
+
+Liora could feel irritation bubbling within her with each second. She wanted to object that thanks to her hoarding, she was growing faster and stronger with each glimmerstone she collected, but Renir had turned his attention back to Cee.
+
+"Show me your System," Renir urged.
+
+Cee got closer to Liora and pressed one of her eight legs to Renir's shiny surface. Liora felt even more irritation bubbling within her. She didn't like it when Cee was touching Renir. She logically understood that Cee wasn't trying to steal him or anything like that. He was just checking her System. But she couldn't help but feel the way she did.
+
+"Oh! I think you have a high affinity for poison. Makes sense since you're a spider. I suspect if you unlock Poison Shot, then it will be much easier to unlock a more magical variant in your next evolution."
+
+"How do I learn Poison Shot without glimmerstones?"
+
+Renir then went into lengthy detail, telling how to unlock Poison Shot by covering something in poison and then throwing it. He did mention that it was Liora who discovered this method, but somehow, for her, it felt like she was nothing more than a mere afterthought.
+
+"Where do I get poison here?" Cee asked. "I don't want to get close to those pythons."
+
+"You ask our local poisonous bird, of course! Liora, if you'd be so kind," Renir asked, confident she would do as he said without a word.
+
+She felt like rejecting his request just to spite the pompous mage, but it wouldn't be fair against Cee. So she prepared a small glob of toad poison on the branch.
+
+"Thank you, Liora!" Cee said, carefully grabbing the branch and flinging it away.
+
+"No, wait! You have to find a target first. Something weak to poison."
+
+"How about a crane? I know it's weak to poison," Cee suggested.
+
+"I'm not fighting a crane head-on," Liora protested.
+
+"To be honest, I wouldn't want to do that."
+
+"You two have been fighting cranes, right? I saw that your level is higher now, Liora. How did you do it?"
+
+"I would weave an ice web, and Liora would lure the crane into it. After that, it's easy to defeat," Cee explained.
+
+"Genius! You can just do that now. Capture a crane, then throw things covered in poison at it until you unlock Poison Shot!"
+
+Once again, Liora felt like she was left on the sidelines. Cee enthusiastically wove her web, while she was nothing more than bait and a convenient poison dispenser. But Liora decided to be the bigger bird. She would help Cee unlock her Poison Shot, and then they would train together until she finally reached Level 30. She was so close to it now.
+
+Cee wove her icy web, while Liora found another crane and lured it right into it. It was trapped just like the dozen cranes before, and Cee proceeded to throw poisoned branches at it. Unfortunately, no matter how many she flung, it didn't seem to work.
+
+"Strange… You should have unlocked the skill by now," Renir muttered, after Liora had withdrawn him from the Inventory at Cee's request. She didn't like how often he was out of her Inventory now. It was dangerous.
+
+"I think the crane has to ingest the poison for it to work," Liora noted, remembering how the wyrm had swallowed the poison before she unlocked the skill.
+
+"Oh, that's right! You should try that!" Renir said.
+
+Cee jumped onto her webbing at once, right in front of the crane. The bird let out a loud screech, and the spider instantly threw the small, poisoned branch inside. It blinked in surprise and began thrashing wildly as the poison entered its system. Cee jumped away to safety, and they waited until the notification appeared.
+
+[You've assisted in defeating <Marsh Crane – Level 25>. Experience gained.]
+
+[You've reached Level 30.]
+
+[You may now choose a new evolution.]
+
+Liora wanted to cheer. Finally, she was ready to evolve. But just as she was about to announce her victory, Cee spoke first.
+
+"I did it! I unlocked the Poison Shot!" Cee cheered.
+
+"Yes!" Renir cheered too.
+
+"Liora, you're so lucky to have found Renir. He knows so much about the System and magic," Cee said.
+
+"Liora doesn't appreciate my knowledge. She just wants shinies. I wish you had been the one to find me, Cee. Imagine the magic we could have learned together," Renir said.
+
+At that moment, something snapped within Liora. She had been holding it back for the whole day, but it was about to burst out.
+
+"You know what? If you like Cee so much, then why don't you go with her?" Liora snapped and threw the gem at the spider.
+
+But she regretted her decision the moment Renir left her talons. She wasn't a good thrower. Neither was Cee a good catcher. She didn't even have hands.
+
+The gem went flying through the air as Cee desperately tried to jump after it and catch it. But it slipped right by her legs and kept falling. Liora flew after Renir, desperately trying to grab him. But before she could, he fell into the murky swamp water and sank into its depths.

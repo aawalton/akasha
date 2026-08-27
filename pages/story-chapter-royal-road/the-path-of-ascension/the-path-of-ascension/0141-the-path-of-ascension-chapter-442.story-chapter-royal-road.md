@@ -1,0 +1,487 @@
+---
+id: 03a39ba8-401e-5ab5-8361-93dd35829ebd
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 442"
+slug: 0141-the-path-of-ascension-chapter-442
+partOf: the-path-of-ascension
+position: 141
+ownLength: 6896
+unit: words
+ownProgress: 6896
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2595736/the-path-of-ascension-chapter-442"
+royalRoadId: "2595736"
+markedReadAt: "2026-06-29T19:22:30.807Z"
+---
+
+Chapter 442
+
+The seekers did another round of divinations after they repaired the Unsparing in the closest world. From there, they reoriented themselves before heading deeper into the stronger energy regions, trying to find the core of the Breach.
+
+Both of their seekers had identified valuable worlds, but neither of their predictions had too much overlap, leaving them with more hard choices.
+
+Ultimately, they aimed to maximize the amount of worlds they could explore and hit two worlds in rapid succession. The first Tier 29 world had given Lura a strange feeling, but wanting to press their luck once more, that divination only made the world all the more attractive. Especially since it was perfect for their Tier and could potentially lead to something valuable.
+
+Edging into the world, they were ready for a fight if they encountered another exploration team.
+
+The moment they entered real space, they got it, but not in the form any of them expected.
+
+Thousands of creatures pressed up against the shielding and immediately started flailing at them ineffectively.
+
+No one attacked as spiritual perceptions and scanners alike tried to figure out what was going on.
+
+Matt did his own scan and paused at what he was seeing.
+
+They looked like shadowy star fish. Or rather, the shadow of a star fish. Five limbed, the shadow-like creature snaked its arms out and slapped at the shield mindlessly.
+
+No matter how much it looked like a creature or a monster, it wasn’t.
+
+There was no cultivation core. There was no life to the creature. It was as much alive as a rock or a hunk of metal was. Less so than even a plant.
+
+The majority of the creatures around them were Tier 1, but there were a few Tier 2s swimming towards them at a rapid pace.
+
+Matt called out through the command chat, “Has anyone figured out what these things are?”
+
+Zack responded almost immediately. “No, but I do know they are absorbing our shields' energies. Or rather, they are absorbing the light emitted by the impacts."
+
+With no one else having ever seen them before, they could only start their own testing.
+
+Spiritual control then showed, they didn’t seem to feel pain, not recoiling away when even near-crushing pressure was put on them.
+
+Left with little other recourse, they tried killing one with a Concept. It died, but didn’t provide any essence to the slayer at all, only further more proving they weren’t alive.
+
+They did, however, leave behind tiny black shards that looked like slivers of tinted glass.
+
+Collecting one from the other side of the mana barrier was as simple as Allie plucking it out of the air and showing it off to their resource team.
+
+When the man looked at it, he smiled. “Oh, now these are nice. It's a small spiritual catalyst. A low-power but valuable ingredient in spiritual strengthening items. There might be more beyond it, but the energy patterns are exactly the same as I'd expect."
+
+Matt didn’t mind hearing they had a seemingly unlimited mass of harvestable spiritual ores.
+
+This was, after all, a Tier 29 world, and if the shadowy things were taking up nearly all the space around them, Matt could only imagine what the rest of the world— maybe even the system— looked like.
+
+At first, they tried to be careful, flying forward slowly. But when it was clear the shadows weren’t alive, nor dangerous, they flew down until they neared the main world's gravity well.
+
+Exiting the ship, they were now surrounded by Tier 10 or Tier 11 shadows. They weren't necessarily harder to kill, but the increased Tier did give them some level of innate resistance. However, it was minimal.
+
+Still on high alert, they were ready for a reaction, any reaction. But as they exited the ship, nothing happened. The shadow creatures seemed content to simply exist, bumping into each other without care.
+
+That was until Liz exited the Unsparing. The moment she did so, the shadows began throwing themselves at the shields trying to get to her in a frenzy.
+
+Ready for a fight, Matt started to cast a spell but stopped when he realized they were only trying to get to her because the slight glow Liz naturally gave off was attracting them.
+
+When Liz controlled her illumination, the creatures quieted down almost immediately, ignoring them once more.
+
+Not quite wanting to go on a slaughter quite yet, the seven of them slowly flew down until they were surrounded by Tier 20 creatures.
+
+Near the planet's barren and rocky surface, which hadn’t known a sun's illumination in who knew how long, they found tens of millions of Tier 29 shadow creatures huddling around any light source they could find. Mainly lava vents, the creatures pressed themselves fearlessly against the light source and absorbed its energy, slowly empowering themselves.
+
+Once any light was made visible, the other shadow things piled in, trying to tear the other shadow off the light source. Those that weren’t torn apart grew stronger until the other creatures gave up and settled back down.
+
+Allie shrugged. “Should we kill them and get some of the spirit thingies? I’d hate to just leave with nothing, and sadly, these beasties aren’t conducive to a robust ecosystem that gives birth to Natural Treasures."
+
+Aster looked out even as she added, “Could be plenty of mineral-based ones since these things aren't alive and shouldn’t inhibit the formation of a Natural Treasure innately. Don’t be so negative miss ‘I already found my perfect item’.”
+
+Allie cursed back at Aster before she cut through one of the nearby creatures casually, all of them waiting to see the reaction.
+
+The surrounding shadow creatures didn’t react at all, nor did they resist letting them harvest the fallen shadow crystal that fell.
+
+With there being seemingly no resistance, they split up, each going their own way. It was there that Matt found the creatures seemingly couldn’t enter a rift space.
+
+That made sense, given they weren't alive, and only living things were able to activate a rift and pass through its entrance. That also meant rift breaks built up piles of crystals among the corpses of the monsters.
+
+These creatures had formed in some way, and taken over this world. Not alive and seemingly immune to pain, but with a hunger for energy, the creatures out-multiplied everything else, eventually filling up the entire star system.
+
+In theory, they could have gone further and swallowed the entire real space universe, but their scanners weren’t good enough to tell.
+
+They had already identified one distant star light source and multiplied out of the planet, so there was no reason to think they couldn’t have done so continuously.
+
+Given that the ship, with its more powerful and sensitive scanners, said they were surrounded by endless shadow creatures for as far as it could see, Matt assumed they were correct and that they truly had spread throughout the star system fully.
+
+Checking out a rift, Matt found it was a fairly ordinary cavern rift with normal monsters and so he turned back around, not wanting to spend too much time.
+
+As he was exiting, he received a message from Aster, who was broadcasting until he responded.
+
+Compressing space as he stepped, Matt found everyone near what should have been a shoreline.
+
+The once-liquid oceans were already sterile long before they were left without the heat of the local star. With Aster leading the way, it was easy enough to force their way deeper.
+
+Not that they needed to; the frozen ocean had already long split, a massive canyon exposing the strange realm to the world at large full of shadow creatures.
+
+“You may have found what caused this. A strange realm shouldn’t be surprising, but somehow I’m still surprised.” Matt gestured through the masses of shadows near the anomaly at the bottom.
+
+Aster replied with a sigh. “Probably. Sadly, the lack of sunlight has killed everything else interesting in the ocean. Now I’m negative like Allie.”
+
+Liz arrived a moment after Matt, and as she arrived, Matt found out why as she sent him two different snippets of the rifts she had checked.
+
+After gathering and sending information back to the ship, the seven of them stepped inside the strange realm.
+
+Matt found himself isolated, but only for a moment. As he was still in a transitional state, a shadow version of himself appeared, seeming to reverse melt out of the ground.
+
+What interested Matt most was that the other version of himself wasn’t hostile.
+
+Instead, once it was fully formed, it cracked its neck and smiled at him. “So there we are. How lovely to meet. I’m not sure you can complete this. Show me your greatest power and then I can empower you inside.”
+
+Matt just stared at his shadow, waiting for it to explain more. He was getting a strange vibe from the creature and didn’t trust it, so he did nothing, not even responding to its words lest that trigger another trap.
+
+The best course of action for any strange realm was to treat it as if he had entered a floor reward in Minkalla. The place might not work the same way as any of them, but it was still a careful mindset that would serve him well.
+
+When he didn’t reply or attack, his copy frowned.
+
+Finally, his mirror's face twisted into reality and the resulting creature frowned.
+
+“Pity you didn’t attack. Fine then. It's your funeral. Good luck. With no starting skill… I'll be seeing you soon enough."
+
+Matt found himself standing next to everyone else as if he had imagined the entire thing, but knew far too well it wasn’t any such dream.
+
+Seeing the others seemed okay, he reached for his external senses but found himself powerless.
+
+No essence-born strength fueled his limbs nor did his spirit have a mana core to be empty.
+
+Matt found himself as ordinary as any other Tier 0 unawakened mortal, even his Talent given mana generation sealed.
+
+Clenching his fist, Matt inspected himself as Zack grumbled, “Anyone not find themselves faced with themselves who was telling them to attack with their greatest strength?"
+
+Allie sighed when no one called out the opposite. “I didn’t actually miss Minkalla, you know. I liked it, but I didn’t have it scheduled to revisit any time.”
+
+Aster looked around. “Look at the positives. We’re all together and this doesn't seem to be a fight to the death, so that's nice!"
+
+Rah looked up at the perfectly normal sky and asked, “Does this incident mean this world was fairly standard when the strange area was formed and it ruined the entire world? This area looks like any world I could have passed by on my travels. Maybe there were once people who lived here?”
+
+Zack shook his head. “Possibly, but what we know about strange realms formations is next to nothing. They are almost unheard of in settled space, but far more common in the second and third layer of chaotic space. The explorer guilds believe that it is the greater chaotic energies outside the world, which enables them, but we have no idea if that's true at all.”
+
+Rah took in a deep breath and smiled. “I can happily report I have been in a few then. The way you guys talked about them, I assumed they were something different. Most worlds that drifted through my realm had at least one or two until they inevitably shattered after a usage. It was always a rush for who would explore them first when they passed by.”
+
+Matt tried not to get distracted about what more common strange realms implied and instead looked around him.
+
+Still completely powerless, Matt checked his clothes to find all of his belongings had been removed. He was, in fact, in coarse linen cloth that hung tight across his chest.
+
+The others were in identical outfits, their other items missing as well.
+
+Liz looked at her hands with a sigh. “I can feel this is an illusion. Possibly a mental realm, but I can’t connect with my real body enough to break through the barrier.”
+
+Allie had little different to report, her teleportation entirely blocked.
+
+Matt scrounged around and found two sturdy sticks under a nearby tree. He kept one and gave the other to Susanne, and with that, the seven of them started following the trail.
+
+Being professional delves and Tier 28, their bodies were in the best possible shape, and even with the strange realm suppressing not only their cultivation, but their bodies' special modifications, they were still able to make good time.
+
+Nothing faster than a loping jog, ready to fight at any moment, but something they could all keep up for hours should the need arise even without cultivation.
+
+As it turned out, their efforts were probably futile.
+
+No matter how fast they ran or how much ground they covered, the path they followed seemed endless. They traveled a considerable distance, the scenery changing multiple times throughout the day, but they never ran into anyone or anything that might give them a clue as to how they might progress.
+
+It was only when the sun that had started high in the sky began to set, that they finally encountered a town.
+
+That was their first oddity.
+
+The town was a mishmash of styles.
+
+Most buildings were simple, but sturdy log cabins with thick shutters that were the homes of the villagers, if Matt had to guess, but those buildings weren’t alone. Shoved in the middle of the village were all of the houses the seven of them had grown up in.
+
+Matt found his and Aster's childhood apartment sitting next to Liz’s childhood room, both looking utterly foreign and out of place given that they weren't standalone structures.
+
+A villager that almost looked like a normal human, except they were clearly a combination of Zack, Rah, and Matt’s facial features the rift had created trying to mimic other people, approached them.
+
+The false human looked askance at them before surprising all of them by speaking.
+
+“Is you heroes sent by the Manny?”
+
+Rifts rarely had speaking creatures, but given the word choice, the person was clearly an agglomerate of their thoughts and memories, just like the houses.
+
+Instead of waiting for one of them to reply, the person continued, “Need get inside. Fast. Get fire. Protect yourselves. Light banishes the shadows! Protector! Seven nights!"
+
+Just as quickly as the ‘person’ started speaking, they turned and fled into one of the houses, carefully locking the door.
+
+The scene repeated itself as all fifty of the villagers returned home from wherever they were just to sit there silently.
+
+With little other recourse, each of the seven went to their houses and inspected them.
+
+Rah’s was exactly like he explained it in his retelling, with his building being little more than a clay and wood shack, but clearly well-maintained and clean.
+
+Seeing the tassel hanging from the open doorway, Rah sighed as he inspected it.
+
+“Shame. I had been hoping this was doing more than pulling from my memory. Sadly, it's unlikely. I could never remember the third word of Bfa’Sula and our proposed family's motto. I forgot it one day. It took a long time for me to forgive myself for that, but it’s still empty here.”
+
+Turning the braided grain-like rope, Rah showed them two painted on characters and a messy third, completely illegible one.
+
+Susanne exited her house carrying a weapon, a nearly perfect copy of her sword. The only reason it wasn’t a perfect copy was the fact it was made out of real metal instead of her Concept made manifest.
+
+Inside their house, Matt and Aster walked around memory lane for a few short moments.
+
+What Matt found interesting was how the strange area had taken his Minkalla’s alternative life’s apartment, rather than his real life’s parents’ apartment. Given this was his shared life with Aster, and the one that he considered real, that only mildly surprised Matt.
+
+He had never forgotten the truth, but the life with Aster had been everything he ever wanted and he wished it were true. Or, he wished the early childhood they experienced was true.
+
+There were two things, however, that didn’t belong.
+
+Inside on the table was a slightly-too-big longsword and a tiara.
+
+Handing the tiara to Aster, Matt picked up his blade and tested its weight.
+
+There was no magical effect and Aster shook her now crown laden head. “No magic yet. Give me that stick.”
+
+Having claimed his stick, Aster walked back outside to join the others and he followed her out.
+
+The moment they did so, they found the path they had followed to the village swallowed by shadows.
+
+Not just any shadows, but humanoid shadows which tried to grasp at them but were restrained by the sun overhead preventing them from fully manifesting.
+
+Matt really hoped he was wrong, but he suspected they truly had found the source of the creatures swarming the world and system.
+
+Allie, returning with her own dagger, grumbled, “Even my dad’s stash of old weapons was gone.”
+
+Her complaint was cut off a moment later when she was attacked by a shadow creature that tried to grab her from a building’s shadow she strayed a little too close to.
+
+Her blade cut through the shadow, dissipating it, but more importantly sending a stream of darkness into her.
+
+Perking up, Allie exclaimed, “Ohhhh, so that's how it is!”
+
+Liz, who was exiting her own childhood home, came out in time to see Allie toss her blade into the back of one of the shadows that was still forming.
+
+“Hurry up and kill as many as you can. They strengthen your spirit when killed and return a little of your power. Seems random what skills you unlock, though, if you don’t direct it. I got nothing back-to-back so don’t bother, guide it where you need it. It's not that hard.”
+
+If that was truly the case, it meant it was a simple enough strange realm.
+
+Not being severely out-Tiered, the seven of them quickly killed their first creatures.
+
+Aster, the cheater that she was, summoned an ice golem from her tiara after she bashed the first monster to death with her stick, redirecting her energy to the crown instead of herself. Her giant ice golem then lumbered off and started smashing the newly forming shadow monsters, further empowering Aster, who followed behind.
+
+Not wanting to be left in the dust, Matt moved to an elongating shadow cast by Allie's house that already had three creatures forming inside of it.
+
+His blade passed cleanly though the first apparition, feeling a rush of power flow into him almost like essence. Except it wasn’t, it was far more oily, though it didn’t carry a negative impression, just slippery.
+
+Matt wasn’t sure what it was, but instead of directly empowering him, Matt felt it release some of his locked up power. It did strengthen his spirit, but that seemed more like a side effect than the main purpose.
+
+What that main reason was, Matt had no idea, but he was more than happy to find out.
+
+If they were going to have to protect the village, and more importantly its people, they would have to start acting quickly.
+
+A modicum of power returned to Matt and he raced over to where Zack was shooting tiny [Mana Bolt]s at the still-forming creatures.
+
+Matt called out, “I’ll cover you, start carving a flame barrier formation around the village.”
+
+Zack nodded, but instead of creating a flame barrier, he went a step further and created a full on light wall.
+
+Rah, Allie, Aster, and Susanne roamed the village, while Liz went to the edge and started glowing slightly. Unlike the creatures in the outside world, the creatures inside the strange area were damaged by the light instead of feeding on it, making Liz a walking death trap.
+
+They raced at her only to die to her spear or under her long-unused but not discarded fire mage guise.
+
+Her efforts kept a good portion of the creatures away from the village, which bought Zack precious time to carve runes into the hard-packed dirt.
+
+Instead of creating a complicated full encirclement, Zack created smaller ten foot sections that glowed with a soft but non-physical light.
+
+Thankfully, the creatures themselves weren’t too strong and were destroyed by the light wall with little effort.
+
+Matt, however, hardly had time to pay attention as it was taking everything he had to keep Zack free of enemies.
+
+It wasn’t so much that the enemies were difficult to kill, they were still shadow creatures, but rather so many were forming so quickly it was hard to keep up.
+
+His lungs burning, Matt controlled his breathing as he thrust forward his blade, hitting the nearest creature.
+
+For all his magic returning, Matt noticed a very specific thing not coming back.
+
+His physical cultivation remained absent despite his skills returning as he strengthened his spirit.
+
+Liz laughed as she called out loud enough for them all to hear, "It's not only strengthening our spirits, it's growing our spirits in size! This strange area is possibly going to give us more skill slots.”
+
+That immediately sent all of them into high gear.
+
+Skill slots weren’t exactly rare at the higher Tiers, with most having more outer slots than they knew what to do with, but inner and core skill slots were still limited enough no one would complain about having more.
+
+Matt personally hoped his Minkalla-created flexible innate skill slot would also be expanded upon, possibly allowing for two or more innate skills, but that seemed unlikely. The expansion started from the outermost edge of his spirit and went inward, not from the center outward. Not to mention that there were no records in the entire Realm of anyone getting an innate slot outside of Minkalla or a Talent.
+
+They’d have to kill a lot of shadows if they wanted to do anything more than give themselves a few otherwise unnecessary skill slots they would never use.
+
+That outermost region of their spirit was usually left to non-combat skills, along with old skills they didn’t want to get rid of but no longer used. That limited selection hampered everyone except Liz, who was more than happy to use fire and her older blood spells once more. She hadn’t been forced to do so since before they finished the Path, but that didn’t make her any less familiar with the disguise.
+
+Unlike his wife, Matt was left using [Side Swipe] rather than [Mana Slash]. It was a skill that he normally used to chop vegetables, not opponents, but it was at the edge of his spirit and easy to unlock first. Thankfully, while he used the skill for cooking, it was still a combat spell.
+
+It made a copy of his blade at a set distance, making it a very bad skill normally, but instead of having the blade a few quarters of an inch away, he was able to overlap the magical cutting edge over his own blade, empowering it.
+
+Matt hardly had any amount of control over the additional blade beyond that slight nudge, but with the monsters starting off as little more than mundane creatures, he was confident in his raw skills to carry him through any weird resistances to physical injury.
+
+Being in such a unique state, Matt forcefully centered himself and tried tapping into his Power. Restrictions were sometimes helpful in understanding oneself and Matt jumped on the opportunity.
+
+Contrary to his expectations, he found it surprisingly easy to harmonize, but advancing any further seemed utterly impossible.
+
+Pushing up against that seemingly unnatural barrier, Matt tried a hunch before he called out, “I don’t think we can access powers we don’t fully understand. I can't access the second stage of my Power at all, nor can I feel for my Aspect.”
+
+That spurred others into calling out the small oddities they had noticed and slowly they put together an understanding of what was going on, even as they fought.
+
+Things became much easier when Zack finished the first encirclement around the town. If the beings around them had been real people instead of rift approximations, Matt was sure they would have come out of their houses to see the spectacle.
+
+A steady stream of energy drifted into them as the creatures killed themselves trying to extinguish the light wall so they could get through to the people inside the village.
+
+Matt smiled as he felt his spirit slowly start to unlock more and more skills as the energy permeated deeper. Following Allie’s earlier instruction, he deliberately guided the energy to the most useful skills in his outer skill slots.
+
+It also passively had the consequence of giving him access to more of his cultivation, which meant his mana pool.
+
+That increase in mana generation let him take over more and more of the wall's operation as they fought, allowing the others to kill with fewer interruptions. At the going rate, he would be able to start producing mana stones in a few more hours.
+
+Matt fought on into the night, the shadow creatures growing larger and larger until suddenly the numbers reduced to near nothing.
+
+When the next creature arrived, it was obvious why: the thin humanoid shape had filled out and doubled its power.
+
+With the light barrier, the seven of them were still able to defend the village, but it took effort once more. Now, even a single one of the monsters attacking a single spot for too long meant it might shatter the projection runes and could enter the village.
+
+Leaving the surplus mana stones Matt had managed to make so far on the formation charging station, he sprang forward and into the barrier of light, skewering a creature by casting [Extend Arms].
+
+It was a rare skill they picked up from some random person they looted in Minkalla that was considered legendarily useless, as it almost required the Rubberfruit Natural Treasure he had used if the caster didn’t want their limbs shattered. Matt had absorbed it on a whim, but kept it near the outermost part of his spirit.
+
+Here, where he was still cultivation limited, the nigh-uncontrollable ranged extension proved useful because of where in Matt’s outer spirit the skill was.
+
+Pulling his arms back, Matt kicked the ground while casting [Earth Spear] at the next shadow that raced at him.
+
+The first projectile didn’t dissipate the creature, but the third did, and Matt sighed as he finally got access to one of his proper channel spells.
+
+He had long since outgrown his original [Flamethrower], but had never fully pushed it out of his spirit, given his emotional attachment to the skill.
+
+The wave of flame lit up the night even more so than the wall of light, and the shadow creatures screamed as they recoiled.
+
+Matt grinned as he continued to cast with his left hand while brandishing his weapon with his right. The creatures correctly identified him as the threat and ran through the flames trying to get at him.
+
+At first, Matt easily killed the shadow beings with his flames, but it still took time for them to be burnt away. And in that time, they were able to land two or three blows onto the light barrier before being replaced by the next a moment later.
+
+Matt darted in closer, thrusting his sword, but found the bodies of the shadow creatures growing tougher. It was the difference between an early morning mist and still-wet concrete.
+
+Retracting his blade, Matt finally redirected the energy into his weapon which unlocked some of its features.
+
+Matt found he had a modicum of control in what he selected, and so chose his weapon’s enchantments.
+
+His sword pulsed with light as mana channels were carved into it in a flash.
+
+Sending his excess mana into the blade, Matt’s second strike was far more effective and he once more overtook the shadow creatures’ growth speed.
+
+That positive trend ended when the moon, now high in the sky, pulsed red and the shadow creatures both stopped giving any energy to reveal new skills or cultivation, as well as grew shadowy plate armor that seemed to give an energy resistance to the creatures.
+
+With his fire ineffective, Matt changed his mind about the skill he redirected the last of his unlocking energies into.
+
+[Create Water] was immediately chilled by Aster and they split the quickly forming ice, using its physical presence to smash through the shadow creatures, bypassing their new armor.
+
+Even with that additional ability, they were still running into issues and the barrier was finally breached.
+
+With only seven of them, they couldn’t be everywhere.
+
+Liz saved the day by having gone for one of her older blood skills: [Blood Body]. With her physical form transformed back into her normal liquid state, Liz multiplied herself and was able to reinforce those otherwise undefended areas.
+
+That barely let them hold, and while they had to retreat to fighting in the streets, they managed to outlast the red moon.
+
+With the moon’s enchanting glow gone, the monsters returned to how they once were, gaining their essence back as well as losing their armor.
+
+Energy attacks once more proving lethal, they quickly cleaned up the village and confirmed all the villagers were still alive.
+
+They were about to celebrate when the monsters grew stronger once more.
+
+Thankfully, their group was growing stronger faster, and, with Matt unlocking [Create Blood], he was able to help Liz create fifteen full clones of herself.
+
+Without a proper clone skill to take up some of the load, that was all the independent minds she could keep going at once.
+
+As the sky started to brighten and the monsters began evaporating, Rah cried out, “In the southeast! Look!”
+
+Matt kicked off the ground, jumping fifteen feet into the air and landing on one of the buildings.
+
+As he looked where Rah indicated, he saw the massive black tower forming out of the forest's shadows.
+
+When the sun's rays hit it, unlike the monsters, it wasn’t destroyed, but instead seemed to phase out of existence, becoming translucent.
+
+The threat was clear but unavoidable.
+
+Trudging over to the others, Matt promised himself he’d add a few copies of his most-used skills into his spirit’s outer layer in case he ever encountered this type of situation again.
+
+He could really use [Endurance] or any other physical boosting skill in his outer core like so many others kept them there.
+
+With his physical cultivation only at around Tier 8, Matt was exhausted and wanted to nap, but knew that was an awful idea. Instead, he looked over everyone and made sure they were okay. They all had a few wounds but there was no serious damage.
+
+The moment he was about to speak, all at once and in perfect unison, the villagers exited their huts and started walking around mindlessly.
+
+Shaking himself free from the spectacle, Matt looked to Zack and said, “We need a better barrier for tonight. It was good but the timing screwed us.”
+
+Zack nodded but Susanne offered an alternative. “Why don’t we just grab all of the villagers and shove them in a single, well-reinforced house.”
+
+Matt was going to say that was a cruel punishment but, after reviewing his memories of how they simply sat in their houses quietly instead of sleeping or quivering in fear like real people, he couldn’t muster up the effort.
+
+She had a point and so they got to work.
+
+Without dedicated skills, it was brutal work to cut a cellar into the granite they discovered a few feet into the ground, but they managed thanks to Liz’s growth staff, which let her control any of the six level one elements with [Blood Manipulation].
+
+If there was one skill Liz had more than any other, it was [Blood Manipulation]. In her experiments with her Talent, she had created hundreds of copies of her most basic skill, hoping to stumble on a rare variant of [Blood Manipulation] from a plethora of [Water Manipulation]s sacrificed to the effort.
+
+Most had been failures, but some had been interesting enough to keep but not use, which saved them. Between Liz breaking up the stone and using Aster’s golem to haul it around, they managed to create and then enchant a bunker in half the day, allowing them to get some sleep.
+
+There was a risk being underground was more dangerous, but it was a risk they would have to take. Even after they did their best to enchant the bunker.
+
+When night arrived for the second time, they gathered the people as carefully as they could and put them in the bunker. The people didn’t fight back and quietly seemed to accept the relocation.
+
+Not having to cover so much ground, the seven of them were able to work together, which greatly increased the rate at which they killed the shadow creatures.
+
+If the tower in the distance wasn’t sending a steady stream of monsters at them, Matt almost wouldn’t have minded.
+
+Under constant waves, they eventually decided they needed to send an expedition to the tower.
+
+Liz, Susanne, Rah, and Zack went in a group while Matt, Aster, and Allie waited and protected the strange realm’s humans.
+
+That left them even more outnumbered, which made the defense harder, but they managed thanks to how small of an area they now needed to defend.
+
+Just before the moon turned red, the distant tower crumbled and the shadows pulsed, growing noticeably weaker.
+
+The four returned twenty minutes later, much stronger and jubilant.
+
+Liz grinned as a copy of her split off and kissed Matt. “You need to do the next one. When we killed the mini boss in there, we got to modify a skill in a direction as if we had a hundred years to do so. I tested it on [Blood Cunning]. The modifications are a tad simplistic but decent enough I’ll be using any other such rewards on my best skills. I hope we get at least one a night and it wasn’t only one usage per or I’ll be pissed.”
+
+Matt was happy for Liz but was also a tad jealous. Given the mergers he wanted to make, having an extra hundred years of modification would be really convenient.
+
+Thankfully, at the end of the second night, two towers were created, ensuring the second team could claim two skill modifications with the night indicating how many towers would appear.
+
+As it turned out, the tower fight wasn’t hard at all. Whatever they had done by refusing to give the strange area a baseline of their power, combined with their efficiency in killing creatures, ensured they were well ahead of the danger curve. The three of them ended the fight with no injuries at all in less than ten minutes.
+
+Once the bosses’ energy rushed into him, Matt felt himself put under another illusion and he became filled with regret towards his spells. When he focused on any of his skills, he was able to directly specify his regret and then the illusion would have him spend one hundred years time adjusting the skill in question with a final mental confirmation.
+
+Across the next few nights, Matt spent five of his modifications on making [Mana Beam], [Bulwark], and [Gravitic Bolt] better able to handle his current mana generation by reinforcing their skills structures via the regret method. With his mana doublings growing larger, it was becoming a greater and greater issue, and while he was still happy to have it done for him by the strange realm’s reward, he was considering more long-term solutions.
+
+That, and he didn’t exactly love all of the choices the dream him made.
+
+Aster modified her Talent-granted Innate [Ice Manipulation], given how important it was to her build, but picked an interesting second option by choosing [Deathly Cold] to reduce upkeep costs, letting her run it longer should she need to, even without Matt being there.
+
+Allie was simple and put both of her usages into [Teleport], making her free innate skill even better. Like Aiden, she honed her singular thing until it was the best it could be.
+
+Matt quietly bet Aster that Allie would use every opportunity except one on her innate skill, figuring she would use at least one to finish the [Home] modification she was currently working on.
+
+Aster disagreed and assured him Allie would use every one of them on [Teleport]. She would turn out to be right, and Matt owed her time as a taste tester, but Allie truly had gone all-in on her main skill.
+
+It wasn’t the wrong call, but Matt intended to branch out and adjust other skills he normally couldn’t justify modifying over others.
+
+When on the third day they started unlocking their inner core skills, their combat abilities skyrocketed, and they quite easily finished the seven day requirement, everyone getting fourteen mini boss kills and thus adjustments.
+
+After their initial testing, Matt, Zack, and Rah devised a method which they hoped would be able to personally modify the skills without the dream state taking over, and they actually succeeded. Given so many additional subjective years to tinker with his skills, Matt wanted to modify and merge [Mana Slash] and [Mana Charge] for their eventual merger into [Tribulation Strike] but couldn’t, as he could only work on a single skill at a time, and so could only get them ready for the first merge.
+
+It was quite the challenge, but he hoped he managed to keep the best parts of each skill, improving the final skill’s overall efficiency, but he would have to wait until he did the merge himself to find out.
+
+Matt spent all eight of his final attempts manually modifying [Cracked Phantom Armor] and [Archmage's Presence], getting them ready to merge in the same way. Unlike the simpler two skills, they still weren't fully ready to be merged. Matt needed far more real world feedback for his most important skills.
+
+They easily defended the village until the seventh day, and when the sun fully rose over the horizon, the world faded away and the strange realm ejected them. As it did so, Matt found his core spirit grew by not one but two skill slots, his inner core expanded by five, and his outer core expanded by fifteen.
+
+Finding himself back in reality, Matt found the seven of them nearly crushed by the shadow beasts falling on top of them.
+
+A thought destroyed the oncoming wave and they all opened up as they waited for the ship to arrive. Unlike their strange area brethren, the shadows never responded to their destruction, falling onto the seven of them endlessly for even using any spell that produced light.
+
+When the Unsparing arrived, Liz informed them of the strange realm and how it worked before letting them figure out who wanted to go inside. It was risky, but few explorers, even the auxiliary ones, were true non-combatants. That went doubly so for elite groups like Lila’s guild.
+
+After discussion and a review of their [AI] recordings, all of the crew entered together. The seven of them decided to kill the Tier 29 variants of the shadow creatures that were congregating around light sources, collecting the shards as they went for the seven days it took the crew to complete the strange realm.
+
+Matt was relieved when the entire crew came out of the strange realm one core slot richer and without serious injuries. Things could always go wrong, even for experienced crews, and he was glad to see it hadn't this time.
+
+Amusingly enough, through their experience they learned that if they had attacked their shadow selves, they would have started with some of their cultivation and that single skill unlocked.
+
+Matt felt dumb at that, but it seemed like a trap and they had come out fine even if they had chosen incorrectly.
+
+As they reentered the ever-dangerous second layer of chaotic space, Allie sighed. “I really should have put down a waypoint. I liked that world. My first proper strange area and filled with monsters that print money that don’t fight back. I could vacation there. Set up a spotlight with a zapper on it and dance as the resources rain down on me. Ohhh! Aster, hear me out. That could be a fun night club idea.”
+
+Aster rubbed her shoulders, ignoring the latter half of what she said. “It's okay. We didn’t really have time if we wanted to keep ahead and we’ll find even more cool stuff deeper in.”
+
+Sadly, her words proved prophetic for the wrong reason.
+
+Before they could even reach their next world, they started picking up transmissions from behind. They were spotty bits of signal that somehow managed to cross impossibly vast distances through chaotic space and were too garbled to understand, but they were indicators of how much everyone else had caught up.
+
+They still had a lead, but it was down to a planet or two before the worlds became congested with other explorers, and they wanted to check out the next notable world before the others arrived.

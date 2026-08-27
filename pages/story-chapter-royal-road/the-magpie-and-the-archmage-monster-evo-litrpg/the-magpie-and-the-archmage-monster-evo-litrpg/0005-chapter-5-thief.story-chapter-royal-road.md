@@ -1,0 +1,235 @@
+---
+id: c2d2a48f-1855-5cfb-96e4-c135553ffa81
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5 – Thief"
+slug: 0005-chapter-5-thief
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 5
+ownLength: 2160
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525569/chapter-5-thief"
+royalRoadId: "2525569"
+---
+
+"That's a lot of monster toads in one area," Renir mused, as he and Liora observed the lakeside.
+
+"A lot!" Liora agreed.
+
+It actually seemed like there were more toads than before. Perhaps last time she came during some quiet time. There were clusters of toads everywhere, some with yellow markings. Spark toads. Some had purple markings, some had red. She wondered whether they correlated to an element.
+
+"It's like they had a breeding season. I'd say we'd be doing this forest a favor by getting rid of a few of them. Let's pick out something you could have no trouble defeating. Hmm… How about those Ice Toads with light blue markings?"
+
+Liora looked around and quickly found a cluster of five fat monsters, croaking at each other lazily. She noticed that the mud underneath them had become completely stiff, likely frozen.
+
+"Ice Toads," she confirmed, and then deposited Renir's gem in a nook of a tall pine. She then flew down and grabbed a few fallen branches and pinecones and covered the gem with them so it couldn't be spotted.
+
+"These should be easier to handle than spark toads. Attack them from above and be careful of croaking. They can create a mild snowstorm of sorts. I doubt it'll be enough to truly hurt you, but being hit by it multiple times could take you out."
+
+No paralysis? That should make things easier.
+
+Liora flew high above the group of toads and picked out the largest one first. Best to deal with the strongest enemy first if possible. She positioned herself above it and folded her wings to her body, dropping straight down. The gravity pulled her eagerly, accelerating her fall to incredible speed.
+
+The toad had no idea what hit it. One moment he was croaking around with his buddies and the next—BAM! Liora hit it with her beak like a bullet shot straight from the sky, killing it instantly.
+
+[You've defeated <Ice Toad – Level 4>. Experience gained.]
+
+[New skill acquired – Air Dive.]
+
+[Air Dive – At [Basic] level allows you to inflict up to 300% damage depending on the height from which you drop.]
+
+Its buddies turned out to be more vigilant than it was, as they had already started working on their Icy Croak skill. However, unlike Paralyzing Croak, this skill took time to gain momentum. By the time snow was blowing around in circles around the toads, Liora was safely out of range.
+
+She flew up and began circling the toads. Little bastards didn't let up easily, but kept croaking one after another, creating a protective snowy shield.
+
+Let's see if I can actually mimic those skills or not. It's a bit of a risk, but I think I can take a few of those snowy hits.
+
+Liora waited for the toads to tire out a little bit. They couldn't keep croaking forever after all.
+
+There it was—an opening. Liora swooped down straight at the toads and, just as she was in the middle of them, let out a Paralysis Croak she heard from the Spark Toad.
+
+[You've failed at mimicking <Paralysis Croak>.]
+
+The ice toads resumed their croaking, and Liora got mildly hit with a cold, snowy breeze. It ruffled her feathers unpleasantly, but otherwise she was unhurt. She was up in the sky before their skill could fully activate.
+
+It didn't sound quite right. I need to hear it again to repeat it properly.
+
+Liora looked around the nearest area and saw a group of Spark Toads sitting behind the reeds, lashing their disgusting tongues into the water to catch fish, leeches, and whatever other unfortunate critters happened to be in their way.
+
+"Chak-chak-chak!" She taunted the toads, flying just above the range of their croak. They all activated their skills one after another, giving Liora plenty of samples to hear.
+
+Armed with fresh memory, she flew back to the Ice Toads and once again aimed for the brief moment when the ice skill wasn't active.
+
+"Buh-rup!" She mimicked as she flew between the toads.
+
+[You've successfully mimicked the skill <Paralysis Croak>.]
+
+A spark field appeared all around her, paralyzing all four Ice Toads before they could croak in response. With them unable to move, it was easy to finish them off with her Peck.
+
+[You've defeated <Ice Toad – Level 2. Experience gained.]
+
+[You've reached Level 3.]
+
+[You've defeated <Ice Toad – Level 3. Experience gained.]
+
+[You've defeated <Ice Toad – Level 2. Experience gained.]
+
+[You've defeated <Ice Toad – Level 4. Experience gained.]
+
+[You've reached Level 4.]
+
+After that, she hurriedly retrieved glimmerstones from the Ice Toads and flew away.
+
+[You've obtained 5 glimmerstones.]
+
+The Spark Toads she had agitated before were in hot pursuit, but when they noticed the corpses, the nasty creatures decided that eating was more important than chasing her.
+
+Gross. How can you eat your own kind? I mean, they are Ice Toads, not Spark Toads, but I think this still qualifies as cannibalism.
+
+She landed on the branch where Renir's gem was hidden to make sure nothing had happened to it in the short while she was gone.
+
+"How did it go? Gain some levels?"
+
+Liora uncovered the gem and picked it up with her talons. She could feel how he accessed the System logs—like a gentle tingle passing through her feathers.
+
+"Level 4 and 5 glimmerstones. Nice! This should help you buy some skills. Feel like you could beat a few more toads?"
+
+She thought about it for a moment, then let out an approving chak-chak-chak. Might as well since they were already here. The fewer toads around these parts, the better.
+
+She hid Renir again and found a group of toads with dark blue stripes on their bodies. They turned out to be Water Toads, and instead of croaking, they spat streams of water at her. It was far too easy for Liora to get rid of them by using Air Dive and Peck at opportune moments.
+
+After that, she fought a lone Spark Toad. This one was a higher level and gave her a bit more trouble as its range for <Paralyzing Croak> was larger. However, in the end, she was defeated by dropping a rock on it to disorient the toad and then Air Diving to deliver the finishing blow.
+
+[You've defeated <Spark Toad – Level 5>. Experience gained.]
+
+[You've reached Level 5.]
+
+Gosh, look at my feathers all ruffled up and covered with dirt. Enough fighting toads for today. Better find some food and head home.
+
+She flew back to the tree where she had left Renir's gem, only to find another magpie throwing the pinecones and branches off the gem.
+
+"CAW-CAW!" She screamed, flying full speed at the magpie. "MY TREASURE! THIEF!"
+
+The magpie, a young male unknown to her, grabbed the gem with his talons and darted away into the forest.
+
+"HEY, you are not MY magpie! Put me down!" Renir protested, startling the magpie for a moment, but not enough to make him drop it.
+
+"Chak-chak-chak," the male replied cheekily. "It is my treasure now!"
+
+It sped up, flying faster and slowly increasing the distance between them.
+
+Dammit! He's faster than I am. I need to stop him somehow.
+
+Liora dug through her mental library. Was there a cry that could make him stop or slow down? No, if she mimicked some strong predator, he would only dart away faster. She needed to entice him, not scare him.
+
+"Chak-chak-chak!" She suddenly cried out in panic and pretended to crash to the ground. She didn't actually crash, of course, merely folded her wings and regained control a short distance from the ground. Liora made sure that she was at an angle that the other magpie wouldn't see the crash properly.
+
+"I'm hurt! I'm injured! Help! Help!" She cried out from the ground.
+
+If this guy is a proper magpie, then he wouldn't leave a fellow magpie in a dangerous situation.
+
+As Liora had predicted, the male stopped flying and instead landed on a branch some distance away from where she had crashed.
+
+"My Lady, are you hurt?"
+
+"It is all your fault! You took my treasure, and in my haste, I crashed into a tree and broke my wing!" She wallowed, holding her wing limply.
+
+For a bird, there was no worse fate than breaking their wings. It was the same as condemning them to death. So when Liora said that it was his fault, it was the same as saying that he had killed her. No magpie would kill another magpie for treasure.
+
+"Oh, no! Are you sure it's broken?" He sounded more worried, although he only hopped closer a few branches, perhaps suspecting that she was only acting.
+
+"Look! I can't lift it!" She wailed.
+
+He hopped a bit closer. Just a bit more.
+
+"It does seem a bit limp, but not broken," he said thoughtfully.
+
+Dammit, I need to get him closer.
+
+"BOOO!" Renir suddenly yelled, startling the magpie.
+
+Liora used the moment of confusion and darted at him, grabbing the gem with her talons. But the stubborn male didn't let go, instead holding it tight.
+
+"Nice try, My Lady. Your mastery over lies is truly magnificent, but I'm afraid this gem is mine."
+
+"I found it first."
+
+"Will you stop cawing all the time and just get me free?!" Renir complained.
+
+"Chak-chak-chak!" She screamed. "I'm trying!"
+
+"You understand what this gem is saying?" The male magpie asked in confusion.
+
+"Of course, I can. He's just a human stuck in a rock! Now give it back," she flapped her wings desperately, trying to pull it back.
+
+"Oh, you grow more interesting by the moment," the magpie said in a suave sort of way.
+
+Oh no… Please, don't go there…
+
+"I think I'm going to give you this gem after all."
+
+Oh no…
+
+"If you become my mate," he finished.
+
+"NOOO!" She screeched and pecked his foot. Not enough to injure, but just enough for him to let go. Liora grabbed Renir's gem and flew off as fast as her wings could carry her.
+
+"My Lady! Hear me out! We'd make a great match! I'll build a magnificent nest for you!" He said, flying closely behind her.
+
+"I am not mating with anybody!" She screeched.
+
+Liora might be a magpie, but she had no intention of mating with one. She had been a human once. There were many things she enjoyed doing as a magpie. It was very fun being one. But mating was where she drew a line, no, built a wall. Made out of the thickest concrete and stone.
+
+"Persistent bugger! You can't lead him to your nest," Renir said.
+
+"Can't!" She agreed and began flying in a haphazard pattern, trying to shake him off.
+
+"You're strong-willed, too. I understand that I've caught you in a bad mood. I won't pursue anymore for today, My Lady, but you will hear my song again."
+
+Liora didn't linger to check whether he really gave up. She continued her mad, convoluted dash back to her nest, making sure to take a disorienting path that would lead any pursuers astray.
+
+"Okay, I think that magpie backed off," Renir said once they reached the nest.
+
+"Chak-chak-chak," she said weakly, utterly tired after the day's events.
+
+She settled the gem carefully in its place, checking whether it got dirtied and scratched at any point. But no, the gem was still shimmering brilliantly, its beauty putting Liora's mind at ease.
+
+"All's well that ends well. You got rid of those thugs, leveled up, gained a bunch of glimmerstones, and even got me back from another thieving magpie. Who would have thought that your greatest enemy would be another magpie?" Renir chuckled.
+
+Liora glared at him and pointedly began to preen her feathers. Because of that asshole magpie, she didn't even get to eat anything. She had a few nuts stashed away in her nest, but it would be better to save those for winter.
+
+"There, there! Don't get mad. I'll teach you how to get new skills."
+
+"Skills?" She cocked her head.
+
+"Yeah. Just will the System to show you skills available for purchase."
+
+Show skills available for purchase.
+
+The blue box appeared before her.
+
+[Skills available for purchase]
+
+Gust Flap – 4 Glimmerstones
+
+Talon Slash – 6 Glimmerstones
+
+Wind Slice – 10 Glimmerstones
+
+Featherburst – 15 Glimmerstones
+
+Liora squawked indignantly without even checking the rest of the list.
+
+I have to spend glimmerstones to get new skills?!
+
+"What's wrong?" Renir asked.
+
+Liora willed to withdraw all of the glimmerstones from her magical storage. 15 shiny, beautiful stones materialized in her nest, pulsating with gentle light.
+
+"Wow, you've gotten quite a few. We'll be able to buy several strong skills for you," Renir hummed.
+
+"Caw!" She protested.
+
+"Wait… You don't want to?" He asked and paused. "Please don't tell me you want to hoard these?! NO! You stupid bird!"
+
+"Chak-chak-chak!" She laughed. "Exactly! I'm not giving up a single glimmerstone!"

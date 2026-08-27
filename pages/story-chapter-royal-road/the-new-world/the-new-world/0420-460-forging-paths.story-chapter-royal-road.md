@@ -1,0 +1,415 @@
+---
+id: 3263f2dc-4151-517a-a576-5ca9ae1c13a7
+page-type-slug: story-chapter-royal-road
+title: "460 Forging Paths"
+slug: 0420-460-forging-paths
+partOf: the-new-world
+position: 420
+ownLength: 3468
+unit: words
+ownProgress: 3468
+publishedAt: 2025-08-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2500963/460-forging-paths"
+royalRoadId: "2500963"
+markedReadAt: "2026-06-29T21:35:47.144Z"
+---
+
+Other Hod raised his large, umbral hands. He held a gap between his index finger and thumb.
+
+"Only a minute amount, but enough to ask and evoke emotion."
+
+I let out a sigh, a small smile finding my lips despite myself.
+
+"Then who's up next?"
+
+Opal sighed.
+
+"Wait one minute. What is a primeval?"
+
+I stood up and pulled her out of the ground.
+
+"Actually, I'm glad you asked."
+
+I opened my pocket dimension.
+
+"Get ready. They're a handful."
+
+Chapter Begin
+
+From the pocket world I controlled, a herald of fire and radiation floated forth. The star primeval bent the laws of reality around it, the mana around us shifting its affinity. It coursed with the power of fusion and rippling plasma. Witnessing it and being prepared, I held a hand up and channeled mana through it.
+
+I kept the primeval's heat contained, preventing it from melting the entire city into magma. Opal gawked before falling backward. She scrambled further back.
+
+"What in Schema's name is that?"
+
+I gave the star primeval a pat.
+
+"It's one of the friendliest patrons on Leviathan-7. I got quite a few of them after my trip there. From what I saw, these are a good goal to try and reach with your light magic, though this guy leans more into heat. I think, anyway. I can't be too sure. Either way, this is a good goalpost. I want you to beat this thing in combat before we leave, whenever that happens to be."
+
+I revealed its title above its head along with its status.
+
+An Ascended Star, The Living Apocalypse | Level 43,902 - This is an absurdly powerful and resilient eldritch that has begun to manifest reality-warping powers. Its ability to affect causality is limited, but it carries an insidious potential. It will convert the ambient mana around it to match its affinity. It will then siphon the converted mana, feeding on the raging storms of fire.
+
+After developing to a level 60,000 colossus, it will begin to feed on the cores of stars. At that point, it's nearly impossible to stop it from becoming a systemic blight on anything it gets near. After several millennia, it will evolve into a quasar-like being. All light will siphon into its form along with all mana.
+
+At that point, extraordinarily powerful bounty hunters are registered to bring it down. You must kill this entity before it gains that level of influence and power. If you fail, then your planet and entire solar cluster will fall into darkness.
+
+For from the brightest light comes the longest shadow.
+
+I winced.
+
+"Damn. This is a wicked beasty, huh?"
+
+Opal guffawed.
+
+"What in the world do you expect me to do to match that?"
+
+I shook my fist in the air.
+
+"I expect you to strive for greatness."
+
+I turned to Chrona, Hod, and Amara.
+
+"We'll be doing the same with you all."
+
+Chrona chuckled.
+
+"I'll do my best, oh mighty guildmaster, but do temper your expectations of me."
+
+Other Hod stared the eldritch down, and his shadows bristled.
+
+"That...That is a terrifying entity."
+
+Amara turned around.
+
+"I'm out. Goodbye."
+
+I turned her back around with gravity. She rolled her eyes on her palms.
+
+"Don't tell me that you expect me to kill that? I'm going to lose my mind trying to get that powerful."
+
+I stepped up to her.
+
+"You don't have to show me your power in combat. I know exactly how you fight, and you're not as linearly focused on it as these others are. I will say that your hunger is what's limiting you, but I think I have a way to fix that."
+
+Amara peered down and sighed.
+
+"Over these years, I have learned that there is no means or method to take away an eldritch's drive for energy and biomass. I am chained to that desire, nothing more than its slave. I can only restrain it, and my will wanes with time."
+
+I sent her a message.
+
+"Not anymore."
+
+Amara's eyes widened as she received a system prompt.
+
+Full System Access Rights | Recipient: Amara, the Lost One - This is a message informing you that you've been selected by the owner of these rights. They've chosen to grant you full system access due to your loyalty, diligence, and power! These rights include, but are not limited to:
+
+Leveling
+
+Skill Tree Unlocks
+
+Legacy Unlocks
+
+Messaging Rights
+
+Guild Creation
+
+Travel Rights
+
+Sentient Protections
+
+And much, much more!
+
+With access to these traits, you'll also be given a set of tutorial quests and general screening every five years to ensure your continued loyalty to the system. Of course, your patron has chosen you, and you've earned their trust. That's great!
+
+You have not earned ours, you filthy mongrel!
+
+We'll hunt you down if you defy us! We'll purge any memory of you joining in Schema's grand endeavor! Don't think for a moment that you're free to become an ever-growing cancer! The moment you lose control of yourself, you'll become a target!
+
+A hunted, bleeding, terrified little speck in the grand design of Schema! That's all you've ever been. That's all you'll ever be unless you can control your primal impulses. Please prove us wrong by rising above those primal urges of yours, will you? We'd really appreciate it, but we're not expecting much! You'd be lucky to last a day in the system, you degenerate, disgusting cretin.
+
+So never forget that we're watching and waiting for you to fall.
+
+Do you accept? Y/N
+
+Amara gawked at it. She moved her hand across the screen for a moment before I tapped my temple.
+
+"Use thoughts to control it."
+
+Amara nodded.
+
+"Oh, that's...That's how it works. Obviously. I always used a backend means of accessing these screens, and they required manual input. It's odd using the user-facing side."
+
+I put the star primeval back into my pocket dimension, and Amara turned her screen to me after reading the notice.
+
+"Is this supposed to incite my excitement? It seems like walking into a wolf's jaws."
+
+I furrowed my brow.
+
+"Huh. I don't remember this same prompt for Plazia. To be fair, I don't actually recall him ever sharing it with me."
+
+Amara leaned back.
+
+"You gave him access to the system before me? Despite everything I've done for you and your guild?"
+
+I threw my hands up.
+
+"Yeah, and what you've done over these years is why it's taken so long to give you these privileges. You helped get me back into the system whenever I was exiled for learning the dimensional cipher. That helped tremendously against Yawm, but you did it so that you could escape him. Ever since then, you've only been involved in a few missions and your own experiments on the eldritch."
+
+I turned a palm to her.
+
+"You've been focusing entirely on yourself and your own goals. I'm not saying that makes you evil or unworthy of the guild, but I only have a few opportunities to grant full system access to any eldritch or unknown we come across. I need you to focus on accomplishing your goals while helping out the guild."
+
+I met her eyes.
+
+"So don't let me down, alright?"
+
+Amara turned between the status screen and me a few times. She took a long breath before her face twitched.
+
+"I...I want to, but I can't. This system will imbue me with energy, and my constitution will take over my mind. And that is why it is so difficult to work towards a future. All that I do is veiled in uncertainty, and I toil towards that vague, esoteric future without an inkling of hope."
+
+Her hands twitched.
+
+"Or perhaps it is certain, as all eldritch fall into madness in time. I will be no different."
+
+I waved my hand.
+
+"This is the system, and it works differently. If I had to guess, it purifies mana before giving you raw augments. I have an idea of how that happens, but I'll need to verify some details before I'm absolutely certain. Either way, you can invest almost exclusively in willpower to help yourself contain your hunger if you so choose."
+
+Amara winced.
+
+"It is a risk I wish to avoid."
+
+I stared at leylines in the distance.
+
+"Whenever I gave Plazia these system rights, he didn't have any qualms, and if anyone is struggling with hunger, it's him. He was at his wits' end trying to keep it at bay, but from our more recent conversations, it seems he's improved his system handling since he's been initiated. My two cents is that you'll also benefit from this if you give it a chance."
+
+I frowned at the system prompt.
+
+"Though Schema or the AI that drafted this up probably could've done a better job with their onboarding, if I say so myself."
+
+Amara thought it over for a while. I gave her a few minutes before a notification popped up in my status.
+
+Full System Access Rights usage used! Three remaining.
+
+I smiled at her.
+
+"Welcome to the team. We'll get you set up to a higher power level, get some good trees, and establish better control of your hunger. After that, you'll set up some cipheric runes. I think they're our guild's way of catching up to some of the more absurd entities out there."
+
+Chrona nodded.
+
+"The Old Ones."
+
+I pulled my shoulders back, stretching for a moment.
+
+"You bet. Now, it's your turn for a spar, Miss Time Dragon."
+
+Chrona guffawed.
+
+"Oh, I do quite like that one. Dragons are ascended beings, are they not? Then perhaps I fit the bill."
+
+I stepped over to the middle of the training grounds. She followed. I cracked my knuckles,
+
+"Ascended, huh? Well, we might need to set a new standard for the word. It's getting lax these days."
+
+Chrona bent time around her, becoming one with the fabric of reality.
+
+"Allow me to prove my worth, Harbinger."
+
+She pounced toward me. I waited for her, my hands raised. She lunged with her claws and fangs, and I reached out to meet her attack. Chrona flapped her wings, shifting momentum back and slamming her tail against me. The impact evaporated our surroundings, and a shockwave collapsed the nearby buildings.
+
+I dragged several steps back, the force of her assault moving entire dimensions. I let out a laugh.
+
+"Alright, I gotta give it to you. You have the oomph. Now bring the fire."
+
+She whipped her tail behind herself.
+
+"It is easy to forget, but I was a general of an army of gialgathens. I rode across the horizon and darkened entire cities with my legions."
+
+I dashed to her.
+
+"Legions that I defeated twenty thousand levels ago."
+
+Opal winced.
+
+"Oof. Ouch."
+
+Chrona glared at the luminari.
+
+"Oh, be quiet," Chrona said.
+
+Opal shrugged.
+
+"It's just a convincing fact against what you said. That's all."
+
+I dashed and collided with the silver gialgathen, and I found a profound difference in her magic since our last bout. When we last fought, she created a domain that hastened her time and slowed her opponents. Her debuff hadn't worked against me at all, and with my temporal pace now accelerated, she'd be left in the dust if she tried the same tactic.
+
+However, her ability to wield time shifted into something more spatial in its origin. That's why she met my charge without being torn apart. She dragged backward for twenty meters before leaning her head down.
+
+Chrona had a toothy smirk on her face as she glared at me.
+
+"You are not the only one who can wield dimensions, little one."
+
+She pushed me back, shockwaves ushering out from every point of contact between us. We struck and slammed strikes against each other, and we vaporized the entire arena. Portions of the city collapsed before my architect golems arrived. They restored damage and contained the kinetic onslaught.
+
+It gave us breathing room to apply ourselves more fully. I pulled more of my dimensional fabric from my pocket dimension, growing to thirty feet in size. I stood level with her shoulder height, though her bulky body still dwarfed me. We kept colliding, and I applied more pressure. I grew another five feet. In turn, Chrona molded together with the space surrounding her.
+
+As if facing down the world around me, her strikes held the truth and laws of the universe. They came with the cracking force of reality, each one holding a fundamental rule of existence laden within them. They crushed my bones and tore my skin, but I was eternal. Each of her attacks left me scarred, but I returned to normal within less than a second.
+
+And I grew again.
+
+"Who is the little one now, Miss Time Dragon?"
+
+At my full stature, I dwarfed her. I pulled my dimensions into my hands, feet, and torso. They acted like brass knuckles and steel-toed boots. While Chrona carried the fabric of reality within her, I held the weight of worlds in my palms. Our abilities collided with the usherings of power, of raw force that left the others in awe.
+
+Opal fell to her knees. Other Hod took a breath, sighing as a guardian golem protected them from the blowback of our attacks. Chrona's grin grew menacing as she snorted blood from her nostrils. Blood soaked over her teeth.
+
+"Come, Harbinger. I'll show you all that I've done and all that I am."
+
+Space compressed over her, fusing with her flesh. She faded in my sight, appearing behind me. I turned, her tail striking my palm. Another shockwave exploded. The forcefield covering the city rippled. The air howled and cracked in pain. The ground melted. The city turned into a sea of rubble around us.
+
+Chrona and I clashed for several minutes as I compressed time around myself further. I wielded my full physical might, and she met me with the world around us. It felt like fighting a planet, and we laughed as all fell to carnage. Ten minutes of pure destruction rained on us both. Ten minutes of leaving the world with an omen of what had arrived on its surface.
+
+But all things faded with time, even those that wield it. Chrona fell to the ground, exhausted. She gasped for air, primordial mana sparking around her. Wounds covered her body before she let out a roar of frustration.
+
+"I couldn't even get you to use your runes."
+
+Opal peered between us.
+
+"Runes?"
+
+Chrona neighed, her lips rippling like a horse for a moment.
+
+"He channels mana into them. He isn't using them for physical power right now. He's still channeling the mana into the cipheric carvings, not the sigils that empower his actual body."
+
+I raised a brow.
+
+"I'm surprised you can tell the difference. Still, that was astonishing. How in the world did you get so strong?"
+
+Chrona tilted her head at me.
+
+"I could ask the same of you. What in the world made you so heavy? I was certain my current set of skills would give me a domineering advantage in mass, yet you met me head-on. How?"
+
+I unwrapped the dimensional opening in my hand. It showed another realm in my palm.
+
+"I literally use the weight of pocket worlds. Cool, huh?"
+
+Chrona let out a long laugh.
+
+"How absurd. You're holding entire dimensions. No wonder my fusing technique didn't overwhelm you."
+
+I swiped my hand across myself.
+
+"That's patently false. If anything, you've improved faster than I have. Remember, I got quite a few extra months during the lottery. Despite that, you're over there, closing the gap instead of letting it get larger. That's incredible."
+
+Chrona beamed.
+
+"Thank you, guildmaster."
+
+Chrona peered around us, the entire city leveled to the last brick.
+
+"While I appreciate the compliment, I doubt we can spar here again."
+
+Opal shook her head.
+
+"I'm supposed to keep up with you monsters?"
+
+Other Hod put a hand on her shoulder.
+
+"Do not let this defeat you. Remember that you are only beaten if you give in or die. If you continue, there is always a chance."
+
+Opal let out a scoff.
+
+"Ok, evil shadow person. Did I ever tell you that the luminari find shadows repulsive?"
+
+Other Hod breathed in before breathing shadows out over Opal. She scurried away.
+
+"Blegh, ew, ew, gross."
+
+Other Hod murmured.
+
+"Ah, do excuse my impoliteness."
+
+We laughed before I turned to Chrona.
+
+"How in the world did you gain so much mass anyway?"
+
+She looked up at the sky.
+
+"I gained a legendary skill and several useful trees. The skill is called Planet Wielder. It gives me the ability to draw from the principles of a planet and use them in combat. It is far stronger here than on Earth since this planet is so much larger and more energized. I was hoping you'd need to use some of your mind magic or maybe your gravitation."
+
+I waved her comment off.
+
+"Pshhh, what? I used gravitation while we fought. I didn't use telekinesis since the surface area technique I developed is more of a killing move than anything else."
+
+Opal pulled herself together and wiped herself off.
+
+"Telekinesis surface area technique? That's a mouthful."
+
+I lunged down and held my hand over the ground.
+
+"It goes like this. I could put my entire hand onto something, and the force would disperse across my entire hand evenly."
+
+Opal's cross zigzagged.
+
+"Wouldn't the force be all over the place with a palm?"
+
+I frowned.
+
+"Close enough. Instead of letting the force go all over the place, I take a telekinetic panel, and I put all the force into a tiny point."
+
+I let my hand flop against the ground. The ground rumbled underneath us before the city's force field rippled. I moved my palm, and a pin-sized hole reached all the way to the underground shielding below us.
+
+"I based this technique on a technology we called guns. They came from a pre-system era, and strong guns could give a ton of recoil. I'm essentially converting that recoil into the piercing strength of bullets."
+
+Opal scratched her cheek.
+
+"I've heard of guns before, but I've never seen someone use telekinesis like that. It seems insanely effective."
+
+Chrona sighed.
+
+"I've attempted to use it. It simply won't operate with my magic style because I use thought-oriented sorcery. Whenever I try to use my own spatial magics in such a way, I end up overwhelmed by the details and minutia, so it isn't applicable in the middle of combat."
+
+I stood up and jabbed forward. My fist bounced back, and a telekinetic bullet ripped across the town before shattering against the city's dome.
+
+"Yeah, I wish I could help more, but you're absolutely right about how it's done. I'd like to make it sound complicated and full of finesse, but really, I just slam my fist and convert the force based on feel."
+
+Opal narrowed her cross.
+
+"Hm. Have you ever thought about using it on a larger scale?"
+
+I threw a few more telekinetic punches before lowering my hands.
+
+"Yeah. I've used it with this skill called Orbital Bombardment. It made the piercing power exponentially larger, but I think it actually weakened how much force went into my intended target."
+
+Chrona rubbed her chin with her tail.
+
+"That's an interesting idea. Hm. I'm going to my room to train."
+
+The architects had already begun recreating the city, every detail matching its previous splendor. I let out a breath.
+
+"Thank you, architects. You're a lifesaver for miscellaneous, tedious tasks that I really, really don't want to do."
+
+Opal stretched her hands to her sides.
+
+"Speaking of, I've got a lot to brainstorm and implement. You guys have given me plenty of ideas to chew on."
+
+She hopped away to an architect golem that had just finished her room.
+
+"See you guys later, and may the stars light your nights."
+
+Other Hod gave us a look.
+
+"I shall leave as well. There's much to learn from this, and I intend to come back with far more surprises next time."
+
+Chrona smiled at me. She smiled,
+
+"We'll see how long you can keep up that physical dominance."
+
+She flapped her wings, flying away. I put my hands on my hips.
+
+"Oh, we will."
+
+Peering around, the city came back together quickly. It would be good as new within a few hours at most, and that gave me plenty of time to try and work out where to go next. After all, we were here to uncover the secrets of Amara's past. To do that, we had to scope out the planet and figure out some of its secrets, so I flew up and out of the city's barrier.
+
+It was time to tread paths unseen and explore an unknown world.

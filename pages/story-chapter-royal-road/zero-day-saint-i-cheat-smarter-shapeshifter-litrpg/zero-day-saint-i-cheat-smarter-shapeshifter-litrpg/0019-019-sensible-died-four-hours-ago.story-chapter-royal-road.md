@@ -1,0 +1,134 @@
+---
+id: dcf2ac80-3d92-53c1-a4a6-91ab40a294ce
+page-type-slug: story-chapter-royal-road
+title: "019 - Sensible Died Four Hours Ago"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 19
+ownLength: 1680
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3389342/019-sensible-died-four-hours-ago"
+royalRoadId: "3389342"
+---
+
+Back at the station I traced the scent of Ash through the building. Through his scent alone I could already make out that he was stressed and heavy at work. I found him in an interior room, which looked like a conference or class room, white board and all. But importantly, no windows. As I burst into the room, he was putting something on one of the tables, which were arranged in a U-shape. He turned, shrieked and stumbled over one of the chairs.
+
+I had to really be more conscious of my appearance. I was covered in so much kobold blood that there was not a hint of gold left on my retriever shape.
+
+I shifted back to my human self before he could use one of his random spells to defend against the monstrous intruder.
+
+"It's me, Eve. Sorry for the heart attack."
+
+Ash scrambled back on his feet. "Good lord. I thought I was dead. Again."
+
+"Demons can't enter here."
+
+"Knowing is not the same as believing. And believe me, I know."
+
+I surveyed what he had put down here. There were rolls of duct tape, tarp, and fireman's clothes. Even what looked like scuba tanks with rebreathers. Was he preparing this room for us?
+
+"I found some very useful books for your, well, our, situation around the station. Even some really useful ones by FEMA and other alphabet soup agencies. I've determined this is the easiest to insulate room. I just hope your group isn't more than thirty people. Or less than five. In that case, we would have been better off with one of the sleeping rooms."
+
+I was slightly stunned. "Around a dozen. What do you mean useful books? I was gone for less than half an hour."
+
+"My class. I don't read. I absorb. Yes, we are in the Apocalypse and it is all very horrible—but it is also fucking amazing. I touch it, takes a second, and I can look things up. Anyway, better get to work, while I gather more things. Did you bring any large pieces of fabric? The best way to seal the vent would be to shove a big pile of fabric in there and seal it with a damp fabric around the edges and to the sides. When the cold hits, it'll freeze shut and become nearly perfectly air-tight."
+
+Ash was right. His power was amazing. Why didn't I have such a cool class? I began dumping everything I'd grabbed onto the other side of the table. His eyes went wide.
+
+"Perfect. You can do a lot with that." He ran off again. At this point I assumed he knew what he was doing and was gathering useful things. I pulled the cover off a pillow I'd brought, soaked it at the sink in the corner and shoved a desk under the ventilation duct. And then I saw the screws.
+
+"Fuck."
+
+Among the various doodads Ash had laid out on the table there was a severe lack of the necessary tools to deal with hex screws. I started to understand the limitations of his class. Knowledge but no practical experience. Then I remembered the backpack Jamie had packed for me. I checked my inventory and there it was—a multitool. I pulled it out, but I should have expected that it wouldn't have anything specifically for dealing with hex screws. I tried one of the knives, which worked, but way slower than I'd have liked.
+
+Lucy appeared with a plop behind me and began climbing the desk I was standing on.
+
+"Go and find the thing, I'll work on this while you do."
+
+I handed them the tool and they actually began working on the screws. Being even smaller than me, they had to stretch to reach them at all. I wanted to ask them why they were helping me help others. With the fox shape I would survive this no matter what.
+
+Which meant that whatever Hell's other attack would be—on my own I'd die.
+
+I ran off. There'd been a big toolbench in the truck bay. On the way I skimmed my Task Completions, turning in everything that didn't reward items. I'd check what the specific rewards were later. There'd be an hour of doing exactly nothing but not-freezing-to-death. Plenty of time to needle Gabriel with the dozens of questions in my notepad and to examine all the skills I'd gotten.
+
+The bugged Task had resolved itself.
+
+[Replace a lost body part with a primordial part.
+
+Reward: Minor Regeneration [Trait]]
+
+I accepted it like the others. I'd reached level 7 and that was without the impala kill reward. I contemplated banking that one, in case the 20% experience was of the current level, which would make it stronger the longer I waited, but level 8 would reward me with another Perk, supposedly a big one. No point in delaying that to optimize for a future I might never see without it. I put my 4 attribute points in the Intellect stat, raising it to 13 (+1 from Well-Sated) total. My mind felt pretty much the same.
+
+In the truck bay I found a cordless screwdriver along with a big set of bits. It all went into my inventory. If there was any justice in this world, Lucy could give me one of the screws, I'd put it in my inventory and my inventory would tell me exactly what size bit I'd need.
+
+I also grabbed a yellow spray can that was just sitting there. This one didn't go into my inventory, instead I used it to mark the way to the safe room from the truck bay. The others would be here any minute and this would save some seconds of disorientation they'd otherwise spend looking for the room.
+
+On my way, I opened the Guide chat. This question was bothering me too much and I had to ask.
+
+["What's a primordial?"]
+
+"A flaw in the Blessing's translation," Gabriel answered immediately. "There isn't a good word to use instead. The closest would be divine. Or god-like. But Lucifer is clearly neither a god nor divine."
+
+"But he's primordial?"
+
+"Yes."
+
+"Like God?"
+
+"For simplicity's sake, yes."
+
+"Is this one of those things you aren't really supposed to talk about and only can talk about because I'm asking about it specifically?"
+
+"Yes."
+
+There were far too many secrets going on for my liking. But one thing I'd learned was to read the obfuscation. Every refused answer was a data point, and eventually those would form a picture.
+
+Back in the safe room, I heard Lucy and Ash talking, though they stopped when I rushed in. Lucy had managed to pull a total of three screws out of the wall, out of eight. I grabbed one off the desk at their feet and pulled it into my inventory.
+
+Which presented me with the exact classification. I pulled the matching bit and the screwdriver out of my inventory and handed it off to Lucy, while I gathered the insulation material.
+
+"Will you be staying with us or going into your prepared room?" I asked Ash.
+
+He looked around the room. "I'm not sure yet. I'm no longer sure my tiny setup is sufficient. If I stay here I can help if something goes wrong. And, like, not die if I did fuck up. Well, maybe, not die."
+
+I held out my hand. "Let's party up then."
+
+Ash paused as he looked at my hand, at my face, my eye, and finally Lucy. I waited, while he clearly had his own discussion with his guide. As I waited the first blue dots appeared on my minimap. Eventually he reached out and took my hand. I sent him a party invite, and his dot turned blue, too.
+
+He awkwardly rubbed the back of his neck. "Sorry, I know we don't have time to waste like that. Just, you know…"
+
+"Yeah, devil eye, covered in blood, clawed hands. I'm definitely not looking trustworthy."
+
+"Hey, you think you can get a tail, too?" Lucy asked. They were climbing down the table, removed vent cover in their hands. "I think that'd really complement your feral look."
+
+"If I can make it through this apocalypse without any further alterations to my body I'd be perfectly happy."
+
+"What do you think, Ash? You look like you're a furry. Should Eve grow a tail?"
+
+The way his face turned red, they probably had hit on something there.
+
+"Just ignore them. They love making people uncomfortable." I turned to face Lucy. "Thank you for your assistance with the vent. Will you finish it up, too?"
+
+They looked over their shoulder at the open hole in the wall and shrugged their shoulders. "Nah, the others are here, it'll be crowded soon. And far more interesting moments to observe."
+
+I picked up the 'filling' I'd picked out for the vent and climbed back up.
+
+"Think about it, Eve. The internet is possessed. You have to think of the greater good."
+
+"The only reason I'm turning into a cat-girl is if it comes with incredible attribute boosts."
+
+Of course this was the moment Jamie showed up, holding Luke's hand as they both entered the room. He whispered something to the boy before he addressed us.
+
+"I'm sure there is an entirely sensible context for what I just heard," he said, before he introduced himself to Ash. I heard others talking as they approached, all of them sounded out of breath.
+
+"Sensible died four hours ago. Now please hand me that grille and the screws," I said.
+
+"One moment," Jamie said. He proceeded to pull out item after item out of his inventory. Lucy watched for a moment before they picked up the grille and handed it to me.
+
+"Useless paladin."
+
+"Nice to see you, too, Lucy."
+
+I ignored the banter and fixed the grille. In the pause between the whirr of the screwdriver, I heard a faint sound from the shaft. A rushing sound. Wind. The storm was kicking up. And we were far from ready.
+
+"It's here! Get everyone inside! Now!"

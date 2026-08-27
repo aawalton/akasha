@@ -1,0 +1,134 @@
+---
+id: 0f883424-7132-57bb-a42b-71a754b04056
+page-type-slug: story-chapter-wandering-inn
+title: "Goblin Days (Pt. 8) - Downwards"
+slug: 0723-goblin-days-pt-8-downwards
+partOf: the-wandering-inn
+position: 723
+ownLength: 2255
+unit: words
+ownProgress: 3092
+publishedAt: 2024-08-04
+link: "https://wanderinginn.com/2024/08/04/goblin-days-pt-8-downwards/"
+---
+
+It was not today. Rags sat there, in The Wandering Inn, and waited for the call. She knew she should have been at Goblinhome, but she couldn’t. She could neither pace about and alarm her tribe, looking to her for leadership, nor be in the presence of the Dragonlord of Flames.
+Nor the Wyvern Lord either. He had become, rather than a threat…a potential ally. She could not face him; not look into his bright yellow gaze full of wild intelligence, and feel the temptation. The twisted desire from the smart, ruthless part of her, to ask for his help, or even expect it.
+Down that road lay an [Innkeeper]’s tears and the garden of statues. It might save her tribe.
+She didn’t want to kill him and his.
+“I should.”
+Rags took another sip from her blue juice drink, the too-sweet, fruity beverage a cross between orange and blueberry for taste. Thick with pulp; nostalgic for a little Goblin who used to have nothing else to eat.
+How far she’d come. Rags took a longer drink, then raised a hand to her ear where a tiny speaking stone was held by a piece of wire looped around her pointed ears.
+“It’s me. What?”
+There was no clue, here, she could find about what might be coming. Though she had just received the most unwelcome news about a certain Goblin Tribe moving this way…
+Was it him after all? It seems too obvious. Why…
+She nursed her drink, sitting there and casually eying the regular patrons and guests who did come in to stare at the Antinium and Goblins or buy some cookies or food.
+Why do I feel like I’m being watched?
+Her visit to The Wandering Inn was making her suspect something else was at play beyond Naumel. Her only hope was that if this was going to turn into a full deck of problems, the Kraken Eaters might become a wildcard.
+“Chieftain. Can you come back to Goblinhome—now? Got a problem with huge poos. All over the tribe.”
+“Huge poos? What did you eat?”
+“Something bad with rocks in it. Sorry, Chieftain…”
+Rags kept her face straight, wondering if someone could monitor the speaking stone. If they could, they might guess what she was saying, but she bet most people didn’t give her tribe that much credence.
+“Rocks, you say?”
+She glanced out the window and then stood up.
+“I’ll be there.”
+ 
+——
+ 
+“Open a portal to that Goblin place? Come on. I know I’m a super [Door Gnoll], but do I have to do another spot?”
+Liska was complaining as a bunch of wet people dried off in her portal room. There were fresh towels being constantly laundered by a team of Antinium, but despite the efforts of Goldbody with a mop, the floor was muddy, and it smelled of wet Gnolls.
+She was not happy today; her services were doubly required because people either wanted to see Liscor or had had enough of the rains. When Rags pressed her for the service, she glowered…right up until Rags handed her a blue sapphire, cut from one of her [Miners]’ hauls.
+“How’s this?”
+“You can’t buy me with wealth! Who do you think I am?”
+Liska folded her arms, sneering, though she did eye the sparkling gemstone with interest. Rags took note of Liska’s padded seat and the table that held a drink and snacks. She sighed…then reached into her bag of holding and pulled out one of her travelling pillows. When Liska fluffed it in her paws, she brightened up.
+“Whoa. What’s this?‘
+“Baby Carn Wolf fur from their sheddings and a silk pillowcase.”
+“Door coming right up! You just let me know when you want to come back, okay? I won’t check it every thirty minutes. How about…every two hours?”
+“Deal.”
+Sighing, Rags walked through, cricking her neck as a few people in line stared at her with that curiosity, horror…
+She felt eyes on the back of her neck.
+ 
+——
+ 
+On the other side of the portal, Rags surveyed the spot where it opened up. Yep, same as last time. It was just outside of Goblinhome along a thin ravine that led into the main valley with no exit wave towards the fortress; steep rock walls surrounded her.
+She glanced upwards, then spoke.
+“Poisonbite, keep anyone who comes through alive. It won’t happen when Liska’s awake. It might at night.”
+“Roger, roger, Chieftain. You think they will?”
+I hope so. Rags just shrugged. It made sense to have a fast link to The Wandering Inn, for now. She didn’t want to put it in danger…
+But it was another way Goblins might flee if it came to it. And Lyonette will have to make her choice, and maybe it endangers them. But I’m just waiting and searching for the incoming attack.
+I hate waiting.
+Proactivity suited her. Which was why the guests waiting for her made Rags relieved. Even if it was incredibly unusual.
+ 
+——
+ 
+The two Trolls made a strange gesture, raising their heads and clenching their fists in her direction, which some of the Goblins took as a threat given their own body language. But Somo shook her head.
+The Ogre was bigger than the Trolls; they were seven feet tall, but they had thick, grey skin and looked just as tough in their way. They had shaggy, black hair and unreadable faces. Rags imagined they’d look like stone if they held still.
+“I am Chieftain Rags. I greet you in the name of the Flooded Waters tribe. Why have you come here? For peace or war?”
+She decided to be as straightforwards as possible. No one knew how Trolls behaved or interacted; they’d turned down food and been treated well when they appeared, and Somo had only vague hints on what to do.
+“Haugh ber. Dooragh ker goi—”
+One began, and Rags realized she had more than just the issues of culture to deal with.
+“Somo?”
+“Uh. One moment. Haugh dav gon?”
+She turned to the Trolls, and one hesitated.
+“Haugh dav…”
+He or she raised his hands and made a few gestures, rumbling a series of words that were probably explanations. Somo listened, rumbling a few back, then nodded.
+“Hmm. Dooragh dav gon?”
+Rags didn’t need anyone’s help to see the two Trolls look at each other and do a shuffling motion with their feet. One shook their head and turned; they had a nasty wound on one arm, Rags realized. A huge, red weal of a giant claw, scabbed over and no longer open and raw, but definitely within the last week.
+“What attacked them? Didn’t we heal them, Taganchiel?”
+The [Shaman] was fascinated as he leaned on his staff. He turned to Rags.
+“They were attacked by Eater Goats on their way here, Chieftain. We offered healing, but that one refused. They got hurt…two hours ago?”
+Two hours? Rags blinked. The wound was already covered! It was Prixall who spoke, adjusting her pointed hat.
+“Chieftain, I delved into old Goblins’ memories about Trolls. They heal faster than any other species; they can see in the dark. They have histories here, older than our tribes. If you ask for something, they will expect a deed in return. They don’t break their vows lightly.”
+“Hm. I understand.”
+The Troll pulled something out and proffered it to Somo, who inspected it, then jerked her head to Rags. The Troll approached, and Rags thought they smelled like the deep mines that Pyrite had shown her a few times. She realized that the Troll was nervous; her aura told her that the way they stood so still was their reaction to nerves. Or fear.
+Rags tried to make herself less imposing and took the object. It was a stone…horn? Very wide, heavy; she eyed the inside and saw there was more than just a hollowed interior. She imagined if she blew it, the tubing would create a deep bass sound.
+“Chieftain. Give it back.”
+Somo whispered, and Rags glanced up, saw the Troll’s palms were open, and placed the horn back where it was. The Troll nodded, relieved. They raised it up, showing everyone, then stepped away, joining their companion.
+There, the Troll with the horn held out both arms, as if wanting Rags to take it. But they did not move forwards, nor beckon her.
+Rags sensed the ceremony here and didn’t ask questions. Answers would be forthcoming. The second Troll’s actions were even simpler; they reached for their side and drew a sword.
+Redfangs tensed slightly, but only that; Rags inspected the sword.
+Good steel, but rusted. They don’t understand the rust, or don’t have maintenance gear, but they took that from someone. It was slightly deformed too. Signs of combat.
+The second Troll held the sword out, horizontally, and grunted at Rags. A word.
+“Wogot.”
+Then they pointed the sword down. They stood in a stone room of Goblinhome; no throne room because Rags hadn’t ever needed one. Even so, it was with great surprise that Rags saw the Troll thrust the blade into the stone as if it were water. The warrior pointed down.
+“Wogot bermal.”
+They looked expectantly at her and hopefully at Somo. Here, the Ogre brightened.
+“I know this. They say—”
+“This is an ancient Trollish ritual, Chieftain. A thing for a thing. They’re offering you the horn, which I think is some kind of pact, in exchange for your help, indicated by the sword!”
+Prixall jumped in excitedly, and Somo growled.
+“I know that. Sword is war. They said…down, Chieftain. Down is something bad. Killing them. Horn means alliance. Trolls fight and die here.”
+“What does ‘wogot’ mean?”
+“Something very bad.”
+The Ogre rumbled warily, eying the two Trolls. Rags had no idea of their numbers, but she knew that Kevin and the Goblins who’d been saved by the Trolls had seen enough to wipe out a lot of soldiers, even adventurers.
+They’d hidden and resisted attempts to communicate with her tribe so far. She guessed that something was bad; they’d been scouting the High Passes for a while now. She’d assumed they were keeping tabs on Teriarch and Magnolia and the Antinium.
+What if they were assessing the situation if they had to leave? And for allies?
+Rags turned to Somo.
+“How good is your Troll? Can you ask them if their Chieftain is the Troll with drums?”
+Somo hesitated, and then had someone get a visual aid—a literal drum—for help. The Trolls brightened up the instant they saw it. One nodded at once to Rags’ question, but then, to her astonishment, they came over and began to play.
+It was a fast, catchy tune, and Taganchiel started.
+“Chieftain. That’s the song Kevin played!”
+There was her answer there. Rags nodded and held up a hand; the Trolls stopped. They had a really good musical sense. Seeing one tap the drum expertly made them completely different from the imposing statues they’d been.
+“Somo, translate the rest for me. Troll visitors. I am Chieftain Rags. Flooded Waters tribe. Do you understand me?”
+They listened, ears twitching, and one raised a huge hand and wobbled it.
+Good enough. Rags pointed at her tribe.
+“Wogot. Here, too. Wogot.”
+She waved a hand around, and the Trolls glanced at each other and nodded heavily. They began to turn away, and Rags stepped forwards.
+They watched her as she strode to the sword. Rags placed her hand on it and felt it moving with the slight pressure she exerted. She pulled the sword from the stone and blinked at the lack of a mark where it had been. How did they do that? The Trolls watched her weigh the blade, then look at the stone horn proffered to her.
+Rags did not lift the sword overhead. She was counting, now.
+Fightipilota wasn’t back with Redscar yet. But the Kraken Eaters and any force would take time to get to Goblinhome. This…could be a disaster.
+Or it could be what she wanted. The Trolls waited. Rags handed the sword back to the one who had drawn it and heard a deep sigh, but then she pointed at the horn. Rags tapped it once, then her chest. Then the sword—the two Trolls looked at her, and she spoke.
+“I make no promises. Show me. Take me there.”
+They looked at Somo as she translated, then one smiled at Rags. Hesitantly, with their lips, no teeth. She copied the gesture.
+One more thing to pursue. One more ally—perhaps. 
+She wondered what the Trolls had found down there. What fought Trolls like that? Rags couldn’t promise she could help. But she had always been curious.
+Slowly, in the back of her mind, her [Dangersense] began to pipe a small alarm. It grew louder, with that building intensity, from the whisper of leaves to a hurricane to make the High Passes tremble. But the Goblin just sighed.
+She was used to it.
+ 
+——
+ 
+A Goblin’s story.
+A Dragon’s endless days.
+A falling child.
+Down she plummeted. Out of the known world full of wonders turned to mundane sanctuary. Through the ground—and then the weft of the world, plunging headlong, flailing. Around her, roots tangled ever-downwards, thin, questing tendrils that belonged to the Faerie King’s realm and obeyed not even his will fully. Roots, opening a passageway into some place neither the roots nor she should be. The girl reached out desperately to seize them.
+She missed, and then she was gone.
+Leaving no trace of where she had been.

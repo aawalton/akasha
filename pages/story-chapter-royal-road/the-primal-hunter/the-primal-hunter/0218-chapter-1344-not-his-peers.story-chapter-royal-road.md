@@ -1,0 +1,123 @@
+---
+id: 60128f69-d533-5987-aaaa-6e464333de31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1344 - Not His Peers"
+slug: 0218-chapter-1344-not-his-peers
+partOf: the-primal-hunter
+position: 218
+ownLength: 2613
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3617572/chapter-1344-not-his-peers"
+royalRoadId: "3617572"
+---
+
+Considering for a moment how to announce his presence, Jake had a few options. He could start off with a stealth attack on either the Archfiend or Behemoth, beginning the fight with a massive advantage. The idea didn’t really tickle his fancy, though, and it would honestly feel a little impolite to introduce himself that way.
+
+Plus, and this was perhaps more important, he feared that a big display of power could make one or both sides decide that retreat was their best option. Not even getting the chance to spar with those two top-tier B-grades would be such a waste.
+
+That’s why Jake ultimately decided to simply reveal himself. That way, maybe they even thought Jake wasn’t confident in facing them both. Sure, just based on his reputation, even arrogant and powerful B-grades would likely assume Jake was slightly stronger than themselves, so it could make sense in their heads that he didn’t believe he could take on two at once.
+
+Who knows, maybe he could even make his dream come true and have the two team up?
+
+While floating in the air, not too far away and not too close, Jake deactivated Unseen Hunter, and as he did, also flared his presence to really make sure they knew of his arrival. He probably didn’t even need to do the last part, as the second his stealth skill was gone, two presences locked in on him, the Archfiend and Behemoth instantly aware of his appearance.
+
+Jake used his Sphere of Perception to observe their expressions as they definitely realized who he was. The Archfiend frowned, and to Jake’s delight, the Behemoth looked surprised for a moment before turning its head with interest towards him, a hint of challenge in its gaze.
+
+Oh yeah, the Behemoth was definitely up for fighting.
+
+William also noticed Jake when he revealed himself, and he quickly reached out, showing he was capable of communicating telepathically over quite a distance.
+
+“You’re here. Things are looking pretty bad on our end, with Holstred doing his best to hold the line. I want to get involved, but I fear that if I do, the Behemoth and Archfiend will also step forward, turning this situation far more volatile,” William explained what Jake had already surmised. The two powerful B-grades definitely knew William was the strongest, and while they seemed more wary of one another, if the human suddenly started slaughtering beastkin and demons, they would have to get involved.
+
+“I’ll take things from here,” Jake answered, using the telepathic link. “No need for you to get involved. In fact, I’m telling you not to get involved. Instead, retreat with the survivors and regroup at the Territory Beacon where Miranda is waiting. Ah, but wait till you get a chance to do so. Hopefully, the situation will soon become a lot more exciting, making everyone forget all about you.”
+
+Jake’s appearance had also stopped all the other fighting, as his sudden presence falling upon the battlefield had rightfully caused quite a reaction. The three forces all retreated and regrouped, with those from the Milky Way definitely looking the worst after the skirmish. Holstred was heavily injured, his armor broken in most places, and he was breathing heavily, yet never lowering his blade as he stood ready should anyone dare try to attack them again. Meanwhile, the vice-leaders of the other two factions were a lot better off, also having more than twice the B-grades as Jake’s Territory.
+
+We really need to recruit some more B-grades, Jake thought, but quickly dismissed such considerations as he refocused on the two powerful B-grades beneath. He had still been flying closer during all this time, and soon stopped, only a dozen or so kilometers from the Archfiend and Behemoth, with the Behemoth flying further up in the air and the Archfiend closer to Jake’s eye level.
+
+“It appears I’m intruding,” Jake said, infusing his voice with energy to ensure everyone could hear him.
+
+The Archfiend and Behemoth shared a quick look before the demon responded. “I was not aware there were individuals from your Territory present, Chosen of the Malefic One. We did not come here to fight them in the first place, but have been in a prolonged conflict with the United Tribes, and believed your subordinates were allies of the beastkin.”
+
+Lots of excuses, which did make Jake fear the Archfiend wanted to avoid a fight. Meanwhile, the Behemoth remained quiet, merely observing their exchange. The demon wasn’t trying to stand up for the United Tribes either, but only wanted to communicate that the demon side hadn’t specifically aimed for the Milky Way Territory.
+
+Jake wasn’t sure if he believed that story, though. It was plausible, sure, but shouldn’t they have confirmed that was the case if they truly only wanted to fight the United Tribes and their allies?
+
+“Why make excuses?” Jake asked in a calm voice. “This phase of the event is all about eliminating other Territories. Nothing wrong with fighting. I just figured that there was space for one more participant.”
+
+He did not hide his willingness to fight in the slightest, wondering what kind of reaction these two top-tier creatures would show. The Behemoth seemed interested in Jake, but didn’t outright engage in conversation. Meanwhile, the Archfiend seemed reluctant to get involved while being way more communicative.
+
+“Your appearance means that all three sides have individuals making discussions of a truce and perhaps even a temporary alliance relevant,” the Archfiend tried to push for an outcome to this confrontation. One that Jake really wasn’t a fan of.
+
+“I’m not so sure I see the relevancy,” Jake countered, crossing his arms, really playing into acting like the arrogant Chosen he truthfully was. “I know I’m qualified, but are the two of you?”
+
+He released a bit more of his aura, seeing how the two would react. The Archfiend frowned a little more, considering his response. In the meantime, the Behemoth seemed to finally get involved as it looked down at Jake and narrowed its gaze.
+
+“You ask if I’m qualified? Odd, I was starting to question what all the warnings were about regarding you. I’m aware you have a wondrous ability as the Harbinger of Primeval Origins, making you a potential asset to the United Tribes, but do not overestimate yourself more than you should,” the Behemoth said, communicating two things at once.
+
+Firstly, the B-grade found Jake’s attitude distasteful. Secondly, that she was a female Behemoth. Yeah, there really weren’t any biological markers to tell the difference, and they were equally bulky whether they were male or female. Not that the monster’s sex had any effect on what would come next.
+
+“The line between arrogance and confidence is a thin one, and it only becomes arrogance if you cannot back up your words,” Jake countered, finding her attitude at least a little refreshing.
+
+“And you believe you have the power to act as you do... fitting for the Chosen of the Malefic One, I suppose. I’ve heard much about the exploits following his return after my hibernation,” the Behemoth said, the large monster continuing to look down at him. “However, do not let that make you think you are invincible. Perhaps you are among your peers... but neither of us is your peer.”
+
+As the Behemoth said this, she unleashed her own aura, while also stopping whatever she’d used to hide her true status. A faintly divine element entered her presence as she gave off an aura that was unmistakably that of a Chosen, prompting Jake to use Identify yet again.
+
+[Jagged Edge Behemoth – lvl 358 – True Blessing of the Thousand-Edge Empress]
+
+At the same time, the Archfiend let out a sigh as he also stopped holding back, unleashing what he had been hiding. He, too, was a lot more powerful than he’d initially let on, and to Jake’s surprise, he wasn’t just dealing with one Chosen.
+
+[Vermillion Archfiend – lvl 361 – True Blessing of the Infernal Globe Devil]
+
+What’s more, Jake also took note of what the Behemoth had said about them not being his peers. While most of the people Jake usually fought with were other talents who’d evolved alongside him and had even competed against him in Nevermore, that didn’t mean these were the only powerful entities in the multiverse.
+
+There were people who’d been in B-grade for thousands upon thousands of years already, having reached the grade before Jake’s universe was even integrated. Many peak C-grades had also evolved after the integration and spent years consolidating their strength without gaining many levels.
+
+From the sound of it, the Behemoth had been in some kind of hibernation, which lent credence to the theory that this was not a young B-grade he was dealing with. Hibernation skills were effectively an evolved version of the meditation skill, and they tended to last a very long time. Ten thousand years would be considered a short hibernation period for a B-grade, and they could go on for so much longer.
+
+During hibernation, they did as most others did while in meditation: they pondered their skills, mentality, concepts, and other qualitative aspects of their Path. Monsters also grew a little, but hibernation rarely included the active absorption and refinement of energy.
+
+In summary, Jake believed he could very well be facing a B-grade that truly couldn’t be considered his peer, and the longer she’d been alive, the stronger she likely was. It also appeared that the Archfiend was somewhat similar, being quite an old monster himself.
+
+Considering this, how could he not get excited?
+
+Jake had complained a lot for a long time about not encountering any foes worth fighting, and now, he’d suddenly run into two Chosen top-tier monsters that were likely far more experienced and older than himself, with one of them even being a Behemoth.
+
+By now, he’d also noticed that the many demons and beastkin had retreated a fair distance away, taking advantage of the three strongest people present talking. William and Holstred were also pretty far away now, and it didn’t look like anyone would dare chase another faction at this critical juncture.
+
+Seeing everyone send their weaker comrades packing made it clear that all three of them were ready should a fight break out. With a smile, Jake regarded the two B-grades.
+
+“We’re all three Chosen, huh? And perhaps you’re right. You two might not be my peers, and have probably been B-grades for longer than I have been alive... but that’s just all the more reason for me to learn from you,” Jake said, not trying to hide his intent to start a fight in the slightest.
+
+The Archfiend threw Jake another glance before sighing. “Very well... let’s see what the Chosen of the Malefic One is capable of.”
+
+Without any warning, a pillar of flames ascended from below Jake, having been summoned so fast that Jake barely had time to react. He stepped down at the very last second, teleporting out of the way as the torrent of flames burned everything behind him.
+
+He didn’t even get the time to speak or do anything else as more magic circles appeared all around him, shooting out beams of flames as if they were portals connected to some infernal realm. Jake dodged between them all, quickly taking out his bow as he prepared to launch a few counterattacks.
+
+However, before he could nock an arrow, an extreme sense of danger approached from above. As a fist the size of a large building descended upon him, Jake kicked to the side as his foot exploded with arcane energy, launching him between two beams of flames as he got out of the way of the Behemoth’s attack.
+
+Spinning magic circles started flying all around Jake, shifting patterns as they released a hail of small fire bullets, and at the same time, the Behemoth continued giving chase, moving incredibly quickly despite her large form.
+
+From these first moments of the fight, it was clear that the Behemoth and Archfiend had reached some agreement, showing that despite their previous talk about Jake being too arrogant, they still very much took him seriously. They likely both suspected he was stronger than either of them individually, leading them to conclude that they should team up to take him out.
+
+Such an outcome... it really was the best thing that could have happened, wasn’t it?
+
+A small grin appeared on Jake’s face as he summoned his wings to block the hail of fire bullets, turning toward the swiping claw of the Behemoth. He knew that taking it head-on would end very badly for him, as, despite Jake having pretty good stats due to all his titles, when it came to sheer physical prowess, he did not stand even the shadow of a chance against a Behemoth of this level.
+
+That’s why he didn’t even try to block, but only dodged as he teleported upwards, finally also getting the chance to shoot out a few arrows of his own. Two went towards the Archfiend, who managed to summon barriers to block them, while the three he sent toward the Behemoth all hit their target, the beast simply too massive to dodge.
+
+His arrows sank into the Behemoth’s hide, failing to fully penetrate it after also getting through the monster’s thick hair. Seeing his arrows stuck inside the thick hide, he gave a mental command to make all three explode, his attack having some effect as the hide was noticeably damaged.
+
+For a few moments, anyway. Quickly, the Behemoth’s small wounds started healing, showing another trait of these monsters: their incredible regeneration. They could easily regrow limbs in minutes, heal minor wounds in seconds, and anything short of removing their heads or simply making them run out of energy would fail to stop them.
+
+Anything less, and Jake would have been disappointed. Besides, despite his arrows seemingly failing to do any meaningful damage, that wasn’t quite the case. He was the Chosen of the Malefic Viper, after all.
+
+A powerful hemotoxin had made its way into the Behemoth’s body, making her consume more resources when healing her wounds, and even slowing down her regeneration a little. Three arrows hadn’t delivered a dose that would have much effect, but it was a start, and given the sheer size of his opponent, he reckoned she would have a very hard time avoiding his toxins accumulating.
+
+The Archfiend was a lot more annoying to deal with, though. Jake attacked both his opponents interchangeably, and while the Behemoth dodged or blocked a few attacks, most hit their target, with her relying on her sheer bodily might to ignore the damage. Meanwhile, the Archfiend hadn’t been hit once as he teleported around, summoned barriers, and conjured constant orbs of fire that could seemingly operate entirely on their own to cast spells. These spells were all on the weaker side, but there were a lot of them, and when a fire orb sacrificed itself, it could release a single powerful attack that Jake had to actually dodge.
+
+One opponent was an incredibly skilled caster, and the other stood at the peak of physical combat. While they likely couldn’t work very well together, they were a near-perfect combination. What’s more, neither of them had gotten serious yet, but were just probing Jake to see what he was capable of.
+
+Which was fair enough, because Jake was currently doing the exact same thing, as he also looked forward to seeing what the two could do if they got serious. Especially the Behemoth, as while the Archfiend was holding back somewhat, he knew that the Behemoth had barely even started fighting.

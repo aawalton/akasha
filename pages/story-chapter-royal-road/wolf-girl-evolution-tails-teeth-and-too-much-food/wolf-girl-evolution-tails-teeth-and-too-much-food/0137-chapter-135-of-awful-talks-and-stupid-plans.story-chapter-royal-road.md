@@ -1,0 +1,667 @@
+---
+id: ee51b6e5-1a56-514b-8e9f-7aac632c2ac7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 135: Of Awful Talks and Stupid Plans"
+slug: 0137-chapter-135-of-awful-talks-and-stupid-plans
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 137
+ownLength: 2796
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3585836/chapter-135-of-awful-talks-and-stupid-plans"
+royalRoadId: "3585836"
+---
+
+Chapter 8: Of Awful Talks and Stupid Plans
+
+PoV Luna
+
+Listening turned out to hurt very much actually.
+
+Luna currently occupied the safest position available in existence – curled tightly against Syliana’s chest while the elf carried her through the forest – and the awful feeling still would not leave.
+
+Which meant the situation was clearly extremely serious.
+
+“Buuu… Don’t leave Luna…”
+
+The words came out warped halfway by another failed attempt not to cry.
+
+That attempt joined the previous several failures in complete disaster.
+
+Syliana adjusted her hold slightly while continuing along the narrow lakeside trail, one arm securely beneath Luna’s legs while the other hand stroked slowly through silver-dark hair and twitching ears.
+
+She dried Luna off shortly into the Talk, and the warmth was nice, but–
+
+“It won’t be forever, Luna,” Syl murmured softly. “And I’ll still be with you.”
+
+That did not help enough.
+
+Because The Talk had been terrible!
+
+Absolutely horrible.
+
+Luna hated the whole of it!
+
+At first she thought Syliana only wanted another Important Human Conversation about roads or dangerous places or why Luna should “exercise restraint” before biting gigantic monsters.
+
+Instead the pack sat down together beside the shoreline while everybody smelled nervous in exactly the same way they smelled before monsters attacked.
+
+And then–
+
+Then Luna learned the pack was splitting up.
+
+Temporarily, they all insisted immediately afterward.
+
+Only for a while.
+
+Only to get stronger.
+
+Luna hated those words too.
+
+The explanation still twisted unpleasantly through her chest while they traveled.
+
+They talked about training, mentors, equipment, resources, contacts, all the serious human things everybody kept explaining because apparently reasons made bad ideas sound less bad.
+
+Except they still sounded terrible to Luna!
+
+Each of them had a mission of their own, different places to reach, different people to contact. They tried telling her the details, but Luna was too busy trying to convince them to not go for any of that to register!
+
+And they still didn’t listen!
+
+Noo!
+
+As for her Second–
+
+Her Second intended to take Luna northward herself for reasons she still had not explained yet.
+
+The rest of the pack would separate soon.
+
+Not forever, they would still be pack, and they would meet again, but–
+
+The idea hurt anyway.
+
+It hurt so much!
+
+Luna buried her face harder against Syliana’s shoulder while the forest passed quietly around them. Sunlight filtered through leaves overhead, and distant lake water rolled softly against the shoreline nearby. Usually the forest smelled exciting, but crying made every scent wet and blurry.
+
+Ahead of them, the others wisely pretended not to notice Luna quietly melting into emotional devastation.
+
+Though Luna still caught worried glances occasionally.
+
+Especially from Trianna.
+
+Traitorously nice-smelling Trianna.
+
+Ray slowed his pace enough to walk beside Syliana briefly.
+
+“She hates this,” he said quietly.
+
+Luna immediately glared at him through damp hair.
+
+“Yes.”
+
+“I noticed.” Ray’s voice softened. “For what it’s worth, I hate it too.”
+
+Luna blinked.
+
+Ray looked away toward the trail ahead, jaw working once before he continued.
+
+“I’m going – we all are – because I want to be able to do more the next time something like the tower happens.”
+
+That made Luna’s chest hurt in a different way.
+
+Still bad.
+
+Maybe a little less stupid.
+
+But still stupid!
+
+Trianna fell back on Luna’s other side a few steps later, her usual grin much smaller than normal.
+
+“You know we’ll come back, right?”
+
+Luna sniffed.
+
+“Trianna says many things.”
+
+“True. I am extremely talented that way.” Trianna reached over and poked Luna lightly in the shoulder. “But I’m coming back because I still have to teach you proper dramatic entrances.”
+
+“Luna already has those,” she stubbornly replied despite her teary sobs.
+
+“You have impact entrances. Very different discipline!”
+
+Luna almost smiled.
+
+Almost.
+
+Veric’s heavy steps shifted closer after that. He did not say anything for several breaths. Then one large hand settled briefly on Luna’s head with careful weight.
+
+“I will return.”
+
+Simple, solid.
+
+Veric words.
+
+Luna believed them, which made the sadness worse and better at the same time.
+
+Sepio approached her last. He walked near them for a while in stiff silence, shield strapped across his back and expression pulled into the deeply uncomfortable look of a man approaching feelings the same way they would hostile terrain.
+
+Finally, he exhaled through his nose.
+
+“This plan is ridiculous,” he said.
+
+Luna lifted her head slightly.
+
+Sepio kept his eyes on the path.
+
+“But it is less ridiculous than pretending nothing has changed. We need to improve, and then we will regroup. That is the entire point.”
+
+His gaze flicked toward Luna for one brief, awkward moment.
+
+“And you are part of the group. Obviously.”
+
+Oh.
+
+Luna’s ears twitched.
+
+That was almost nice!
+
+Very Sepio-nice.
+
+Syliana’s hand continued moving gently through Luna’s hair while the group followed the winding shoreline path beneath the trees. The steady rhythm helped slightly. Warm fingers brushing behind her ears helped too.
+
+But every time Luna started calming down, the awful realization returned.
+
+Pack would separate.
+
+She buried her face into Syl’s robe again.
+
+…And Luna even understood some of it.
+
+A little.
+
+The tower had been bad. And the claw marks beside the lake were so huge they still buzzed in her head whenever she remembered them.
+
+Luna and pack still had a long way to go.
+
+And pack just wanted to get there faster, like proper Apex Predators!
+
+Fine.
+
+Luna understood that.
+
+But knowing did not make the plan feel less wrong!
+
+If pack needed to get stronger, then pack should get stronger together. That was obvious! Ray could find his sneaky tools, Trianna could get better bow things, Veric could learn swordmaster violence, and Sepio could become even harder to knock over while everyone stayed close enough for Luna to smell.
+
+Woo…
+
+There had to be a way!
+
+A better way.
+
+A not-stupid-roads-taking-pack-apart way!
+
+Instead, everybody planned roads leading different directions.
+
+Stupid roads.
+
+Her fingers curled lightly into Syliana’s clothes.
+
+Luna hated that!
+
+Pack together meant pack safe.
+
+Pack scattered meant–
+
+Meant–
+
+That Luna would be alone again…
+
+“Buuu…”
+
+Another miserable sound escaped her before she could stop it.
+
+Syliana immediately slowed and pressed her cheek gently against the top of Luna’s head.
+
+“We are not abandoning you. And I will be here, Luna. With you. Always with you.”
+
+“Luna knows,” she mumbled weakly.
+
+…That helped, just a little bit.
+
+“And you will see everyone again soon.”
+
+“Luna knows.”
+
+Syliana did not press.
+
+She only slowed slightly and held Luna closer, one hand moving gently through her hair.
+
+Luna’s ears flattened harder.
+
+Because no matter how warm her Second was, or how pack promised things…
+
+Everything still hurt.
+
+And Luna was trying to be brave.
+
+But the little woo-sob still escaped her just then, her fingers curling tighter into Syliana’s clothes.
+
+Her Second’s arm tightened around her in response.
+
+The forest moved past them in blurry green and gold while Luna pressed her face even harder against Syliana’s shoulder and breathed in herbs, warm cloth, and safe-person smell.
+
+Behind them, Ray shifted like he wanted to say something, then stopped.
+
+Trianna’s usual bright scent had gone quiet.
+
+Even Sepio smelled unsure.
+
+Words would not fix the awful thing.
+
+Pack close helped a little.
+
+So Luna held on.
+
+***
+
+The forest path blurred softly past while Luna remained firmly attached to Syliana.
+
+Every now and then, the elf’s fingers brushed behind her ears or through her hair, calming the tight painful feeling in Luna’s chest for a few moments before the memory returned.
+
+Because The Talk kept replaying in her head.
+
+The pack had gathered beside the lake earlier while sunlight reflected brightly across the water and the shoreline still felt peaceful and safe.
+
+Then her Second ruined it!
+
+…Not on purpose.
+
+Which just made it worse.
+
+She had spoken carefully from the very beginning, explaining each part slowly while Luna sat beside her growing increasingly suspicious with every sentence.
+
+“...and then Guildmaster Ferric helped me arrange a few more introductions before we left town,” Syl explained back then. “Old contacts of mine, and some of his. Favors and opportunities.”
+
+Luna already disliked the smell of that conversation!
+
+Too serious. Too calm.
+
+And now her pack carried the same uncomfortable determination scent. Like they had already decided plans before telling Luna about them!
+
+Sneaky behavior.
+
+Syliana continued explaining.
+
+“Each of us has access to something elsewhere that could improve our chances of winning future encounters.”
+
+The tower.
+
+Everything circled back to the stupid tower!
+
+Trianna needed better archery training. Ray was given a task of information gathering and getting special tools. Veric knew where to find a proper sword instruction. And Sepio needed more than just typical shield training.
+
+Different reasons.
+
+Same awful result.
+
+Luna’s ears had flattened more with each explanation.
+
+Archery training meant leaving. Special tools meant leaving. Swordmasters meant leaving. Not-shield training meant leaving.
+
+Everything meant leaving!
+
+All the words were different shapes for the same bad thing!
+
+Woo–!
+
+And then Syliana explained the part that should have helped.
+
+“You and I will be getting stronger too,” the elf said gently, one hand resting atop Luna’s head. “Together.”
+
+Luna froze.
+
+Together was good.
+
+Second staying was good too.
+
+For one small heartbeat, the terrible thing almost became less terrible.
+
+Then Luna remembered the rest of the pack still had stupid separate roads to get to!
+
+Her ears flattened again.
+
+“Then everybody together.”
+
+Syliana’s fingers brushed slowly through her hair.
+
+“I wish we could.”
+
+No!
+
+Luna argued immediately afterward.
+
+A lot.
+
+“But pack together stronger!”
+
+“We know,” Syliana said gently.
+
+“Then no split!”
+
+“It is temporary.”
+
+“Temporary stupid!”
+
+For some weird reason, that argument failed completely.
+
+So Luna tried fixing the plan instead!
+
+“Then pack goes together,” she insisted, ears high with desperate logic. “Luna carries! Luna runs even faster. Fastest! We go Ray place, then Trianna place, then Veric place, then Sepio place. All pack together. Problem defeated!”
+
+For one tiny moment, the idea felt solid enough that Luna’s tail lifted.
+
+Ray’s expression softened in a way she did not like.
+
+“That is not the hard part, Luna.”
+
+Her tail stopped.
+
+“Bwuh?”
+
+“Getting there quickly helps,” Trianna said, quieter now. “But once I’m there, I have to stay. Training takes time.”
+
+Veric nodded once.
+
+“As does mine.”
+
+Sepio’s arms folded tighter across his chest, shield resting beside him.
+
+“And mine. These are not errands we can finish by arriving faster.”
+
+Luna’s ears lowered.
+
+No!
+
+That was wrong.
+
+It had to be wrong!
+
+“Then Luna waits too!”
+
+Syliana’s hand settled gently against the back of Luna’s head.
+
+“If we all wait at each place, the others lose months doing nothing.”
+
+“But pack together.”
+
+“I know.”
+
+“Luna can be faster,” she tried again, voice smaller now. “Much faster. Awoomazing faster!”
+
+Syliana did not argue this time.
+
+She only pulled Luna into her arms and held her close, warm and firm and impossible to reason around.
+
+Luna grabbed at her robe immediately.
+
+“No stupid separate roads.”
+
+“I know,” Syliana whispered.
+
+Then she kissed the top of Luna’s head.
+
+“It’s alright, Luna. We will see them soon.”
+
+Luna pressed her face into Syliana harder.
+
+Stupid, wrong–!
+
+But Syliana’s arms stayed around her, and the others stayed close enough that Luna could smell them all.
+
+For now.
+
+Then Luna climbed a nearby tree and refused to come down until everybody abandoned the idea entirely.
+
+That worked for approximately twenty minutes before Veric climbed up after her and carried her back down with one arm.
+
+Traitor!
+
+Afterward, Luna escalated into repeated jump-hugs. Maybe if she attached herself to everybody physically enough, the pack instincts would reactivate properly and stop all the terrible planning!
+
+This strategy produced several successful hugs, one crying Trianna hug, Ray nearly falling into the lake, and Sepio looking deeply alarmed while being emotionally attacked by wolf affection.
+
+But the plan still survived anyway!
+
+Luna considered this highly unfair.
+
+***
+
+Several miserable hours passed afterward.
+
+And Luna discovered that being carried forever was not allowed.
+
+Apparently Syliana’s arms required “rest,” which sounded fake but was enforced anyway.
+
+So Luna adapted.
+
+She held Syliana’s hand. Then Ray’s sleeve. Then Trianna’s wrist. Then she walked close enough to Veric that her shoulder bumped his leg every few steps. When Sepio drifted too far to one side of the road, Luna quietly moved there too until he noticed and looked uncomfortable.
+
+Good!
+
+…Thats still didn’t help.
+
+The forest thinned around them as the road curved farther away from the lake. Dense woodland gave way to rolling hills and scattered trees while the afternoon sun slowly drifted lower overhead, but Luna barely paid attention to any of it.
+
+Every few minutes, she counted her pack.
+
+Syl, Ray, Trianna, Veric, Sepio.
+
+Still here.
+
+…For now.
+
+The group stopped beside the roadside near a cluster of old stones overlooking distant grasslands below.
+
+The others gathered around her carefully afterward.
+
+Gently.
+
+Which made Luna suspicious immediately!
+
+Syliana slowly knelt in front of her while brushing loose strands of silver-black hair away from Luna’s face.
+
+“What do you think, Luna?” the mage asked softly. “Would you help your friends reach the city before we separate properly?”
+
+Luna’s ears flattened again.
+
+Nope.
+
+Still hated those words.
+
+Syl continued on.
+
+“We really will meet again soon.”
+
+Luna sniffled loudly.
+
+“…Promise promise?”
+
+Everybody nodded immediately.
+
+“Promise,” Ray answered first.
+
+Trianna stepped closer next, her voice softer than her grin.
+
+“Obviously. I still need to see how much trouble you become after training with Syl.”
+
+Veric nodded once with absolute certainty behind it.
+
+“I will return.”
+
+Sepio stood with his arms folded and his shield at his back, looking deeply uncomfortable but steady.
+
+“Yes. We will return.”
+
+Luna stared at all of them suspiciously through damp eyes for several long seconds.
+
+Normal promises felt insufficient. People could say promises very easily, and the world already proved that stupid disasters happened anyway.
+
+So Luna wiped furiously at her face before stomping directly toward Ray first.
+
+“Proper promise!”
+
+Ray blinked once.
+
+“…I already promised.”
+
+“More proper.”
+
+The man sighed dramatically before crouching slightly to her level.
+
+“Fine. I promise properly that we’ll meet again soon.”
+
+Luna narrowed her eyes.
+
+“…Headpat too.”
+
+“That sounds less like a promise and more like extortion.”
+
+Sha glared, cheeks puffed up.
+
+Ray snorted softly despite himself before resting one hand atop her head.
+
+Acceptable.
+
+Luna immediately marched toward Veric next. She stopped before him, looking high up.
+
+And stared.
+
+The giant warrior looked down at her calmly.
+
+“I will return.”
+
+“Headpat part of pack-paw promise!”
+
+A faint twitch crossed the corner of Veric’s mouth before one enormous hand settled carefully atop Luna’s hair and ruffled it gently.
+
+Humph!
+
+Very good!
+
+Trianna already crouched down willingly before Luna even reached her.
+
+“Oh no,” the archer laughed softly. “I know that look.”
+
+“Promise.”
+
+“I promise, fluffball.”
+
+Luna huffed weakly.
+
+Still not enough.
+
+Then Trianna’s expression softened before she leaned forward and gently pressed their foreheads together.
+
+“I promise to wait for you, my lovely little friend.”
+
+Luna puffed instinctively.
+
+She was not little.
+
+Absolutely not.
+
+But lovely was nice!
+
+…Very nice.
+
+The compliment settled warmly through the sadness briefly.
+
+Still, ordinary promises remained suspiciously fragile. Clearly stronger measures were necessary!
+
+Luna’s ears perked sharply.
+
+Ultimate solution acquired!
+
+Before Trianna could react, Luna leaned forward and dramatically licked directly across her cheek.
+
+“Mlem promise,” Luna declared with complete seriousness. “Unbreakable.”
+
+Trianna burst into startled laughter while wiping furiously at her face.
+
+“Hahaha– fine then. Mlem promise it is.”
+
+Excellent.
+
+Now the promise possessed proper mlemmy authority!
+
+Luna immediately turned toward Sepio next.
+
+Especially Sepio.
+
+The shieldbearer visibly realized this too late.
+
+“…Why are you looking at me like that?”
+
+“Promise!”
+
+“I already did.”
+
+“More proper.”
+
+Sepio pinched the bridge of his nose slowly while the others watched with increasing amusement.
+
+“Luna–”
+
+“And headpat too.”
+
+“That is not how negotiations–”
+
+“And maybe mlem promise!”
+
+“Absolutely not.”
+
+Luna narrowed her eyes suspiciously.
+
+Sepio looked deeply exhausted already.
+
+Hmph!
+
+The man sighed quietly before crouching down in front of her anyway.
+
+“I promise,” he said carefully, “that we will meet again after this ridiculous training plan finishes.”
+
+Luna stared hard at him. Sniffed.
+
+…Truth smell.
+
+Her tail relaxed from its curled state.
+
+Then, after several long seconds, Sepio very carefully rested one hand atop her head.
+
+The headpat remained awkward and slightly uncertain, but warm enough to count.
+
+Luna approved immediately.
+
+“No mlem?”
+
+“No mlem.”
+
+“Hum.”
+
+“Please stop evaluating that possibility.”
+
+Trianna chuckled nearby.
+
+Even Syliana smiled softly now while watching the disaster unfold.
+
+By the time Luna finished extracting promises, headpats, and emotional contractual obligations from everybody present, the awful tightness inside her chest no longer felt quite as unbearable.
+
+Still bad.
+
+Still stupid.
+
+But the worry in her heart eased.
+
+Just a little bit.

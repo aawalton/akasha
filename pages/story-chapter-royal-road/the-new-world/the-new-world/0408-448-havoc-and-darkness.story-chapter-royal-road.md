@@ -1,0 +1,345 @@
+---
+id: f134268f-3626-5c05-a02d-8ecdbf698771
+page-type-slug: story-chapter-royal-road
+title: "448 Havoc and Darkness"
+slug: 0408-448-havoc-and-darkness
+partOf: the-new-world
+position: 408
+ownLength: 5036
+unit: words
+ownProgress: 5036
+publishedAt: 2025-07-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2420121/448-havoc-and-darkness"
+royalRoadId: "2420121"
+markedReadAt: "2026-06-29T21:35:23.391Z"
+---
+
+The agent of Cygna carried a more combative form than before, its amber body carrying tiny cracks all over its surface. A rupture in spacetime leaked interdimensional energy behind it, and the corruption spread until I siphoned it to me. Althea moved behind me before she snapped.
+
+"What in the hell is that?"
+
+Kryaa waved a blurry, hard-to-make-out appendage.
+
+"Ah, there you are. I've been searching for a while before I found your home."
+
+Kryaa put two tendrils at the openings of the dimensional tear.
+
+"Now I recall mentioning you would regret what you did to me."
+
+He cackled, and his words ravaged my mind as if flaying my skin.
+
+"It looks like I've found a suitable payment."
+
+Chapter Begin
+
+My skin crawled as the strange entity slithered out of the sliced reality. It flopped out of the spatial rend, a writhing mass of black tendrils sopping out behind it. Once fully dislodged, the interdimensional miasma coursed, and other strange figures gathered. They carried eerie smiles, eyes full of malice, and gnashing teeth. From their collective influence, a strange aura coursed over this dimension, bending it to their will.
+
+That created a stasis that froze everyone nearby aside from me. Kryaa gestured to them with its formless body.
+
+"Do you like my friends? They're very excited to meet you, Harbinger."
+
+They writhed, each of them a shapeless horror that fed on the dark. As the blood drained away from my face, I gazed at Kryaa.
+
+"What do you want?"
+
+Kryyah laughed, and its expression shivered reality.
+
+"So much and more still. Firstly, I'll be taking those dimensional slices you're hoarding for yourself."
+
+My eyes widened.
+
+"You're still trying to tear open the rifts here? Come on. Surely there are better spots across the cosmos for that?"
+
+Kryaa's body danced between realities, its body a glimmering echo.
+
+"Yes and no. You'd be surprised how rare a planet like this is. Contrary to your kind's baseline assumptions, space is an endlessly vast void. Out there, in the dark, it is simply empty. This is one of the only places where, in that emptiness, a spatial instability has found itself attached to a star's gravity well. Even better, it is upon a planet's gravitation, and it's surrounded by stable space."
+
+Kryaa trembled.
+
+"It's a tremendous opportunity for all of us, and this happens to be the planet most aligned with the tear, along with the lunar body circling it."
+
+I listened as closely as I could, but a growing panic surged in my chest. I could absorb the spreading interdimensional energy for now, but in battle, Springfield would be destroyed. To buy time, I spread my hands.
+
+"And we live here. Is there a way to negotiate us leaving?"
+
+Kryaa's form took on panels of cerulean blue, and they continued covering the beast until it looked like a conch shell overstuffed by writhing purple fog. It reached out with its many tendrils, and amber nested as an eye at the end of its shell. It bore its gaze onto me.
+
+"The lives of a planet are so meaningless as to not be worth mentioning. And you may die here, too, should you choose to stay. I was able to inform my messiah about the different resources available here, along with its defenses. You stood as the primary concern, and we've brought everything we need to leave you as nothing more than a mindless corpse."
+
+I gazed into the dark infinity. Over a dozen entities floated within, their bodies like Kryaa, both formless yet whole. A wave of fear embedded into my chest as I raised my hands.
+
+"We don't have to fight. We really don't."
+
+The amber orb at the center of Kryaa glistened, a glint sparkling off it.
+
+"Hah. So you do fear death. After our last encounter, I thought you would think you were invincible. It's a funny thing to see mortals who have attempted some kind of ascension. They think they're far more than they are. Their perspective ruins their grasp of truth, and like them, you are nothing before the sheer breadth of the cosmos. We will show you that. I will show you that."
+
+I pointed at myself.
+
+"You think I'm the mortal who's attempting some kind of ascension?"
+
+Kryaa floated around me, bobbing up and down. Its body rippled like a ceruleite snake.
+
+"Of course not. You wouldn't have been able to harm me if you were only attempting to rise. No...You're a proper ascended one. You've risen past death and into eternity, but that is no problem for us. We can still tear you apart. We will simply leave you in a state where you are ineffectual to your surroundings. A kind of death, as it were."
+
+My eyes followed the chatty and grotesque body.
+
+"If I resist, right?"
+
+It let out a long sigh.
+
+"Yes. If you resist. Please, please, please do. I want you to understand the futility of resistance after our last incursion. Your arrogance is something that should be robbed from you until your last breath."
+
+I smiled.
+
+"But I do not breath."
+
+"Quite the nonsequitur there. You know, I'm taking portions of your planet's speech to connect with you on a greater level. These minds around us are a wealth of information in that regard. Despite that, you're not making this very interesting. What happened to all the bravado from before while we were on the white rock?"
+
+I kept myself measured.
+
+"I had a change of heart. Aside from that, how deeply are you probing into their minds?"
+
+Kryaa froze in place.
+
+"And you would care?"
+
+I shrugged.
+
+"It's simple curiosity. Nothing more."
+
+Kryaa's amber eye lit up.
+
+"Oh, interesting. You actually care about these weaklings. These...nothings. That makes this so much simpler."
+
+It teleported beside a man and woman who walked in the street. The mother held her baby, and she was rolling her eyes while the man tried making a joke. The baby gazed up into its mother's eyes, and it held an endless curiosity for the world. Kryaa reached out a tendril over their throats.
+
+"These deaths, they would leave an immortal like you affected?"
+
+My stomach sank.
+
+"Yes. Deeply."
+
+"Good that you admitted as much. I was going to test your resolve if you lied."
+
+I took a breath.
+
+"We don't have to have a wholesale slaughter here."
+
+Kryaa radiated through the people, his aura a corrupting thing. The family's eyes turned to me, the dissonance between their expressions and eyes eerie. Having enough, I pushed out with my dimensional wake. Having strengthened the aura since our last fight, I pushed the surging monsters' influence back.
+
+The space around us returned to normal, and the people here returned to a normal temporal flow. They gazed at the spatial rip in horror as I shouted.
+
+"Everyone. Leave."
+
+I didn't have to reiterate. The majority of the town began an impromptu evacuation, including Joshua behind me. Everyone leaped through the air, their systemization and access to my rings giving them supernatural athleticism. Within seconds, only Kryaa, the tear in time, and I remained. Kryaa laughed.
+
+"We can disperse ourselves out and kill them all even if they're not close by. After that, we can destroy that mountain and everyone within it. Then, the civilians who trade near here. But we have so much time, so why relent? We may steadily eradicate this entire planet's populace over the next few months. Perhaps we'll reduce the population centers until only a few stragglers remain? Wouldn't that be delightful?"
+
+I raised a hand.
+
+"And you'd do all that so that you can tear the space here apart?"
+
+Kryaa trembled with anticipation.
+
+"I'm attempting to enjoy animosity with you, yet you aren't even interested in entrenching our rivalry further. Instead, you derail with question after question, attempting to buy time to save these weaklings. It is a meaningless attempt to change the inevitable. Why do you do this?"
+
+I paced around his serpentine form.
+
+"First, answer why you want to come here so badly."
+
+"Ugh. It's our imperative. Our mission. Give us the tears you are carrying before I let those with me run wild."
+
+I stopped walking.
+
+"You'll leave after that?"
+
+"Certainly not. My employers have become curious about you and your abilities. It's rare for such a young world and hardly touched planet to generate such a cosmic entity. To fight back a herald of Cygna? That's not done every day. Or year. Millennia? Hm, it's done more than that, but still rarely."
+
+A part of my memory disappeared in a flash, and I grabbed the side of my head. Kryaa scoffed.
+
+"Oh yes, that's right. My employer won't allow you to know what it is."
+
+I took a breath, one of my knees wobbling. One of the entities reached out of the warp, its body a terrifying blur of different shapes, faces, and materials. Kryaa squirmed over right in front of me.
+
+"They aren't as kind as I am. I'll need you to come with us."
+
+I raised a hand.
+
+"One second. You forgot these."
+
+I tossed the tears in spacetime at him, throwing several at once. As I did, Kryaa reached out one of its shivering tendrils. One of the many blue plates on its body lit up with cipheric runes, and a wave of primordial energy suffused its extended tendril. The aura condensed, and Kryaa grabbed the rift with a grunt.
+
+"Gah. These are heavy. You really are a brute."
+
+I raised my brow.
+
+"Why do people act like resistance training turns you into some unthinking ape? It's mastery of your body, not a way to shrink your brain."
+
+Kryaa took several of the warps, able to hold four at a time. It drifted slowly towards the tear in time. Corruption leaked off of it like some kind of sweat that deformed reality, and Kryaa let out a guffaw.
+
+"You know, I'm not used to hauling this much at once. It's heavy, huh? Do you mind carrying them from this point on?"
+
+I kept my stare sharp as a knife. Kryaa let out a cackling laugh.
+
+"You're no fun, are you? It makes this all the more entertaining due to the novelty."
+
+Kryaa reached his tear in time after a few minutes of dragging the dimensions. It let out huffs.
+
+"So, you do this all the time?"
+
+By now, my panic receded, and rage replaced it.
+
+"I do."
+
+Kryaa scoffed.
+
+"I guess I'll just chat away while you act like some-"
+
+A spear materialized in front of its amber eye. As if slicing through the air, the bone lance pierced Kryaa and left a gaping chasm in the reality-warping horror. Portions of its cerulean panels cracked, and Kryaa gurgled out.
+
+"This is...What-"
+
+Another spear sliced it. The bone fractured on impact, exploding into many shards. Torix stepped out of a portal alongside Plazia. Shalahora manifested, as did Helios and Other Hod. In tandem, Kryaa's body splintered into a dozen segments before I compressed time. I dashed to it while using my aura to establish spatial dominance.
+
+An enormous plume of mana erupted all around us. One of Torix's many nested rituals activated, and in an instant, this entire portion of Springfield slotted out of the barrier surrounding the city.
+
+Kryya peered around.
+
+"What...What is-"
+
+I smashed my fist into its face while holding a dimension in the palm of my hand. An eruption echoed forth, enough to destroy regions of a world. Despite the enormity of physical force, my arm withstood the impact through gravitational reinforcement. Blood gushed out of my eyes and mouth from the internal reverberations, and the ground around us cratered into nothing.
+
+The forest surrounding Springfield wiped into a field of shattered trunks. Like broken matchsticks, they jutted out of upturned fields. A portion of Springfield's lower barrier exposed itself from the crater around us, and the ground gave way to solid rock after several hundred meters of depth.
+
+Kryaa's amber eye cracked before reconstituting. It snarled.
+
+"You think that my children aren't-"
+
+I held the rips in spacetime in my hand, including the one Kryaa used to enter here. Kryaa let out a cackle.
+
+"I must admit, this is a better response than I expected-"
+
+I darted forward, a blur of metal and mana. I smashed another attack into the side of Kryaa's face, and it withstood the absurd impact. More of the world around us gave way, our surroundings devolving into a desolate wasteland as I carved it apart from shockwaves alone. Kryaa turned to me.
+
+"In destroying my form, you destroy your planet."
+
+I smashed another fist into his gut before whipping an overhead right into his flinging body. The cerulean plates cracked as Event Horizon bore down on the beast. Like unchained hounds, my aura rended and ripped the massive psionic barrier of Kryaa apart. Some kind of strange, esoteric sorcery weakened my blows and bent space to stop me, but I could suppress it inside my dimensional wake.
+
+And despite Kryaa's dampening sphere, the residuum of my strikes cracked the sky. They cleaved into the beginnings of the horizons, each punch a detonation of energy, a bomb of kinetic expression. They exposed a physical dominance I had yet to manifest yet carried at all times. When unleashed, the ability was something undeniable, something pure, immutable, and dominant.
+
+It was an explosive reminder of what I could unleash, and it felt incredible to finally allow myself this indulgence. I had spent effective decades in dilated time, hastening myself via self-torture. I put myself under fire at all moments, burning myself into something denser, faster, and more deadly. In between these battles and moments, I experienced waves of self-doubt, pity, and weakness. I wanted to stop. At times, I begged myself for a reprieve, yet I denied myself the kindness.
+
+No, I fought tooth and nail every moment so that when this time arose, I would be ready, and I was more than simply prepared. I torqued upon telekinetic panels, my minds sequencing the forces to my benefit. Cracks across the surrounding region reverberated, the earthquakes changing the shape of the land. Air plumed out in trembling pulses, their fury hateful enough to peel stone apart.
+
+And more still, I put pain onto this monster. My hits carried kinetic bullets, and the rippling echoes of momentum bent Kryaa's entire cerulean shape. He cracked as wave after wave of devastation transferred through my constructed body and into his. My guildmates watched in awe but also in action.
+
+They contained the forces. They already carried nearby individuals away and out of the impact zones. This level of force would kill anyone even miles in proximity, yet we had prepared for this. My golems each held a psionic command to grab and take people far from here, and they had begun a mass evacuation the moment Kryaa appeared. Despite that necessity, my guild did more than save people.
+
+Althea pelted Kryaa using her spears. Mana oozed off her body, its thickened fog oozing from her many elixirs and boosting compounds. Torix commanded armies of necrotic corpses and empowered skeletons to carry others away as he offered support magic. Plumes of his magic crashed against Kryaa between my attacks, elemental blasts disabling the interdimensional horror.
+
+Plazia followed suit, his eldritch assisting for miles in every direction. Most fearsome of all, Shalahora bore the full extent of his mind magic onto Kryaa. As I tore apart the physical world, Shalahora unmade the psionic one. He tore out chunks of the nested, enormous, and swollen minds that protected Kryaa. What would take me months took Shalahora hours, and my demented aura fed on the psionic shards all the while.
+
+Kryaa's armor crumbled in minutes, the tenacity of his form becoming a curse as I pummeled him into submission. After his cerulean plates sheared off, the amber lining began to form and crumble in sync. However, the most damaging part of our offensive came from Althea's bursting rounds. As with all her enemies, she pierced Kryaa's defenses utterly and absolutely.
+
+She ignored them to a total extent, leaving the writhing shadow defenseless. After several minutes of being ragdolled through the sky and ground, Kryaa ceased lessening the force of my blows. My punch to its guts sent it spiraling away, miasma drenching my arm before soaking into my skin. Needles of cold pierced through my hand, and I bolted towards him. Before I could hit him again, Kryaa wrenched open reality, and his armada of shadows escaped.
+
+The horrors from another reality poured forth, becoming a tide of deformity and corruption. They caved reality in, screaming out in madness and harmony alike, a beautiful chaos that splintered the world into something alluring and grating, like honeyed tar. It rushed at the guild, and an all-out melee erupted.
+
+I leaped from shadow to shadow, destroying one group of dark spirits after the next. My blows created a backdrop of kinetic rippling, the air struggling to demonstrate the otherworldly forces involved. Althea killed them by the dozen, her piercing bolts firing through armadas of enemies before exploding in bone rains of death.
+
+Torix's magic spiraled, supporting our guildmates while unloading elemental magic in trembling blasts. Void ice shards formed from Helios's gauntlets as he lobbed shards of the hardened material through exposed and weakened monsters. Plazia opened another portal to allow Chrona and Krog through from Blegara. The silver gialgathen coated us in a time field, one that slowed the enemies and gave us a hastened temporal flow.
+
+In tandem, Krog roared out, his voice a grand, booming echo that weakened and reverberated into the incoming deformed abominations. The resonance of Krog's roar built over time, entire groups detonating from the incoming sound. Plazia closed the warp before whipping his spear in differing directions, culling the masses as his low laugh echoed into the distance.
+
+Armies of Plazia's insects arose from the ground, glowing magma forming basalt amor over their carapaces. They met the charge of the shadows, their forms matching the monsters. Gushing wounds erupted in all directions, and the insects' life force pooled out of their dying bodies. Plazia spread his arms, the light around us dimming for a moment.
+
+All darkened before a beam of arcane energy burst forth from his armor and runic glyphs. It cauterized reality, a swath of the darkness left empty and void by the light of day. Another portion of insects fell as Plazia drew their life into his palms, and he robbed the sun of its light once more. A shearing wave of arcane mana covered the monsters, and Plazia's swarm flowed from the ground.
+
+Glowing insects, many embedded by elemental furnaces, devoured the corpses of the enemies and other dying insects, and their number swelled as they split into versions of themselves. The mass expanded, growing into a mound of writhing hunger. Plazia bent his spear back, the humming blade palpable and charged in energy. In a single swipe, he tore another group of shadows away from this world, arcane light swallowing all it touched.
+
+On the other side of the battlefield, Shalahora left entire groups of horrors falling from the skies. The death he wrought was a silent kind, the quietness haunting and indifferent. As if having their souls stolen by a reaper, the abominations fell and flopped. Shalahora stood motionless and gazing at Kryaa all the while. The pile kept growing until it became a mountain, one that Shalahora floated over.
+
+An omen of his ability, Shalahora stood over bodies. Menacing, silent, an imposer of a dark will, his mere gaze stole the lives of thousands. Their slaughter gave me a window to think, and I took that moment. I ceased my blows before turning to the rend in reality. Swarms of changing shapes erupted from it like a bursting pipe full of oil. While the guild destroyed most of the monsters, a few escaped into the distance. Taking a breath, I raised my arms and began charging an unrealistic volume of mana.
+
+It plumed into my runes, leaving a physical indent on the space around me. A locus formed as a ripple coursed out of my body. A bright glow subsumed my entire frame, and I liquified while energy coalesced into a near-physical form. I became a monument to the concept of power, my body radiating out as a volatile hum, one to usher forth calamity.
+
+In a quick jerk, I pulled my arms down, unloading the energy onto the coursing mass. Singularities swallowed everything. They overlapped like hundreds of dark orbs, each of them forming simultaneously. They coated the entire mass of monsters before a single cascade of energy radiated out in its physical form. That pulse evaporated the remaining horrors, and the barrier around Springfield tremored from the overwhelming volumes of mana involved.
+
+Before Kryaa could cause any further havoc, I bolted up towards the gap in reality. As my dimensional wake suppressed him, Kryaa slinked into the dark ether of the portal, where silence overcame all. I followed him inside, the eternal dark oppressive and eerily resonant. It carried a saturated kind of darkness as if it held the potential of all worlds and realities inside the umbral ichor. Somehow, someway, that was lost in a blended chaos that stole the potential away.
+
+And my armor screamed to indulge upon it.
+
+Event Horizon stretched out, feasting on the dark. As I soaked in the volatile energy, shapes in the distance emerged. A monster made of concepts peered at me, its body immutable yet everchanging. Another beast held a sopping body drenched in spines and fluid, eyes peering underneath the pink mass beneath.
+
+A maroon suit of armor peered at me, the faceless plate lacking any expression aside from eyes. The light of the spatial rip peered in, sheening off the armor yet reflecting a shadow of its polished plates. The tumultuous bodies and shapes left me reeling to even understand my foes, and Kryaa let out a laugh.
+
+"A simple deception. Lured like a fool."
+
+They reached out of the dark, and I smiled. My armor let out a laugh, mana drooling out of the maw as a glowing red and as streaks of ascendant lightning. I spread my hands. Mana pooled into my body, and once more, I glowed bright. Energy coalesced until I brimmed into a resonant, shining ball of power.
+
+I kept fueling myself, pouring more energy until I threatened to explode. I swiped my hand, my instinctual understanding of the mana allowing me to guide it. It surged into singularities, the dark around me swallowed by another, more absolute darkness, one spurred by gravitational vises. After the physical shearing and shockwaves, Althea's spears unloaded from behind me.
+
+She danced around the deformed remnants while carving them apart like a blade dancer. Her bone swords cleaved off pieces of them, the squiggling fragments squirming as they floated in the eternal dark around us. They tried escaping, but tendrils from my armor impaled the falling pieces. I dragged them to me, and my armor feasted on their flesh.
+
+The monsters retaliated by splintering reality where the spears came from and over me. It left no effect on my body and Althea already faded from reality. Like a liquid, I coursed towards them. As I did, Kryaa fell back into the endless dark, leaving his supposed army alone and defenseless. The other monsters turned to him and followed into into the dark, and Althea spat out a stream of acid at them.
+
+It carried the same characteristic lethality of all her attacks, and the enemies let out howls of agony in languages that even Schema didn't understand. As they writhed away, tendrils of my armor followed them into the interdimensional ether. I extended Event Horizon, soaking in the surrounding energy and creating a larger, safe sphere within the dimensional tear. As I did, a low rumble surged in some unseen distance. Flashbacks of the horror in the abyss came over me, the one that I met when Marcella died.
+
+I swallowed my fear. Letting these entities escape wasn't an option after Kryaa left. Althea understood my ire, and from her changing position, several shots impaled the scurrying abominations. They splintered, their bodies letting the interdimensional energy in. The worst came from the maroon-colored knight, its armor splintering like the shell of a crab.
+
+It swelled and grew over itself, tumors amassing from underneath its polished armor. Like flesh flowers blooming from blood, its body became a terrifying amalgamation of its old self. It was as Kryaa had said - they never touched the interdimensional energy. The others fell to the same poison, and their once indefinite forms became solid, blurry bodies taking shape.
+
+I blended them with gravity wells before unleashing singularities in all directions once more. As the cascading forces erupted, the other entities scrambled away.
+
+I dragged them back using strands of my armor. Taking a moment, I inspected one of them.
+
+Unknown Horror | Lvl: 42,392 | Class: ?*$&@ | Guild: (>""@!) - This is, hypothetically, a spatial anomaly with a consciousness. How it lives, what it wants, and who it serves are mysteries that must be unraveled, but there's little we can do to discern its origins. Without those specifics, we can't pin down the organization behind them.
+
+These monstrous entities lack any discernable shapes or bodies, though this could also be the result of a cognitive hazard that spreads from the origin of these creatures. To most sentients, they are almost impossible to kill. Overseers have eradicated their forms using antimatter, but conventional attacks do little.
+
+And you must slaughter the horde, Harbinger.
+
+I pulled the incapacitated bodies close before wrapping them in my armor. They writhed for escape, but my armor held and assimilated them. I walked out of a bunched portion of the horrors, a portion of my body holding them in shivering mass. They let out cries of anguish, yet I felt nothing aside from a deep chill.
+
+The icy coldness began saturating my body, and I gazed at the dark infinity around me. I let my voice swell to a roar.
+
+"You hear them? Can you feel their suffering? If you continue to attack me, know that you all will follow the fate of these beings."
+
+They tried escaping the coursing metal, but they couldn't peirce past the confines of my dimensional fabric. I pulled my mind out of my body, not wanting to experience their terror so closely. As I gazed at myself, I looked upon a monster as terrifying as any eldritch. It left me numb as Althea and I floated in the secured interdimensional space.
+
+To my horror, it took several hours for the entities to die. Compared to the white-hot pace of the earlier battle, this was an exercise in the folly of durability. They could not perish quickly, having been treated by some strange method similar to Valgus and his physical potential. Still, time passed, and they soaked into the metal like oil into a whetstone.
+
+After they succumbed, I gazed at my surroundings. Memories of the dark leviathan I found in the dark surged, and I closed my eyes. Memories from that advent sparked to life. The beast hadn't spoken to me, but it had rumbled out and induced a strange feeling, as if speakign with emotion. The surge carried hunger and a territorial warning. Once it howled at me, my mind wiped for several minutes before I returned from a total psionic death.
+
+It hadn't even tried to attack me, merely warned me to leave its feeding grounds. I shook my head before opening my eyes. I turned back to the warp and floated back away from the darkness. Althea flew alongside me, her hand on my shoulder. She murmured.
+
+"I know what it's like to be that way. It's never easy walking away from it."
+
+I remembered our first meeting, where she became a ball of flesh. I sighed.
+
+"Thanks, but let's just go and see what the others have to say about this madness."
+
+At the end of the spatial rip, she jumped out. She turned to me.
+
+"What's up?"
+
+I held up a hand.
+
+"Just...One moment."
+
+She nodded.
+
+"Sure. Take your time. We'll let you know if anything happened outside."
+
+Surrounded by the interdimensional energy, I couldn't help but wonder what it really was. In many ways, I thought the Old Ones might be the source of this mana as well, but the surging darkness lacked the same focus and harmony as mana. Quintessence, as an example, required a mindset and a particular aim to manifest. Without that focus, mana wouldn't call forth.
+
+This energy simply was, and I reached a hand through the miasma. It crawled into my skin before being eaten. Raising my palm, I inspected the sensation of pinpricks. A second later, I breathed the energy out. All this time and still no answers. It left me angry and defiant.
+
+There was simply so much we didn't know, and it left us at such a steep disadvantage. That gap in knowledge meant I could never stamp my foes out at the source. I had no clue where Elysium harbored its silver-shaded hell. I lacked any awareness of where Kryaa crawled out of every time it appeared. Even worse, I didn't know if Schema was with or against me. After all these years, I was tired of not knowing what to do aside from creating an unassailable position.
+
+And yet, there was no means of doing so. I could try to construct the most magnificent defenses the galaxy had ever seen, but could I stop any attack? Would those defenses leave my people with lives worth living? Did I want to spend every waking moment for decades doing so?
+
+No. I was tired of waiting on my planets and hoping for the best. I wanted to know the secrets of the universe so that I could begin dismantling the pieces that kept trying to kill me. As I grabbed the edges of the spatial rend, I smiled into the dark despite my frustration.
+
+"Till next time, Kryaa."

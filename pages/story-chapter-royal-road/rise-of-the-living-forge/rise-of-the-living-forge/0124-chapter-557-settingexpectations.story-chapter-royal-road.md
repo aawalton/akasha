@@ -1,0 +1,97 @@
+---
+id: 81691a10-1e44-536c-a749-59ce62c09573
+page-type-slug: story-chapter-royal-road
+title: "Chapter 557: SettingExpectations"
+slug: 0124-chapter-557-settingexpectations
+partOf: rise-of-the-living-forge
+position: 124
+ownLength: 1743
+unit: words
+ownProgress: 1743
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3036728/chapter-557-settingexpectations"
+royalRoadId: "3036728"
+markedReadAt: "2026-06-29T20:02:24.571Z"
+---
+
+A murmur rolled through the crowd. It was a bit hard to tell if people were baffled, curious, or amused. Neil was pretty sure it was some combination of the three. Nobody had quite managed to figure out what the Menagerie’s shtick was — or why they were so obsessed with pretending to be monsters.
+
+Still, he couldn’t shake the feeling that something was a little off. Madiv was too serious. Too focused. For all his grandeur, there should have been at least something within his eyes that showed amusement at the show he was putting on.
+
+Some might have said that he was simply a very focused actor. But Neil wasn’t so sure. Unfortunately, there wasn’t any more time to try and psychoanalyze the strange man. The doors the Auction House were open. The vast majority of the crowd probably wouldn’t have given a shit if the Demon Queen herself were their auctioneer.
+
+There was only thing that mattered, and it was getting their hands on the treasures waiting within the Mausoleum. The crowd surged. People pushed toward the doors, excited conversation filling the air in a droning thunder.
+
+“Single file line!” Madiv barked. “Do not fight. Do not push. Most of you aren’t in the VIP sections. And, if you aren’t, I can assure you that it does not matter what location you seat yourself at. If you are… contact us. You’re late. We’ll arrange for discrete transport to your room. And please keep in mind one thing. No fights will be permitted on the Menagerie’s street during the duration of the auction. Anyone who causes physical harm will be removed from our land, regardless of status.”
+
+That was a bold claim. But, with Bleak Shield flaking him, Madiv’s threat actually held enough weight to slow the vast majority of the crowd. It obviously didn’t stop everyone. A few people pushed forward to squeeze ahead in line. But that was no surprise. There were always people that didn’t know what ‘no’ meant. Such a thing only became more true when representatives of some of the strongest guilds in the kingdom were all gathered to a single street.
+
+Neil spotted Barnav among the number of those squeezing ahead without any regard for those in their path, confirming his thoughts that the powerful guild leader was actually present at the auction.
+
+Nobody said anything. Neil fell in line with the rest of the crowd. He had no desire to draw attention to himself. Not now, at least. Something told him the Menagerie were looking for a scapegoat.
+
+They had to. Their guild was new to the kingdom. The majority of their respect came from the feats of a smith within it rather than any immense combat power. Their command of people’s attention was tenuous at best.
+
+If they didn’t make a strong stand, the auction was almost certain to descend into chaos… and Neil had no plans of being that sacrifice. He hadn’t come all the way out to Milten just to get used as firewood for some crafting guild’s attempt to ascend into relevancy.
+
+I’m just here to see what they’ve got for sale and to see if I can grab any good pieces. Small guild or not, they did perform pretty ridiculously well at the Proving Grounds. They’ve got strong backing. That’s my guess, at least. And that means they should have some decent shit up for great prices so they can build rapport with other guilds.
+
+This might as well be a grab-bag full of cheap goodies. I doubt it’ll be a true auction. They just don’t have the resources for anything at this scale. Maybe they’ll have one or two good pieces, but the real prize here is the medium-cost stuff that should come at a great bargain.
+
+Unfortunately, I think everyone else had the same idea.
+
+Well played to the Menagerie. If things don’t go poorly, they’re probably going to make a killing off this. Who knows. At some point in the future, they might get big enough to host a legitimately interesting auction. That’s why Bronze Dragon sent me here. This is an investment.
+
+Neil moved along with the crowd as everyone steadily filed into the Mausoleum. He couldn’t help but crane his neck, looking around in awe as he good his first proper looks inside the building.
+
+It was a lot bigger than he’d initially thought. Stands rose like those of a colosseum, and what must have been the VIP rooms jutted out above. It was impossible to tell who was sitting in any of them.
+
+Bronze Dragon hadn’t bothered wasting time with the VIP lounges. The entry fees had been too ludicrous. Showing up to pay the Menagerie a little favor was one thing, but the requirements for magical materials and assets that they had put on the VIP rooms were what someone would have expected from a top guild, not one at the edge of the empire.
+
+His roaming eye caught on a short, nearly invisible form standing in the isles and directing the flow of people. Neil blinked.
+
+It was an imp.
+
+Or, at least, it certainly looked like one. A monster composed of nothing but shadows gestured empathetically, shooing adventurers ten times its strength into their chairs.
+
+What an impressive display of shadow magic. Do the Menagerie have someone capable of wielding darkness to such a degree? Or did they hire someone? I don’t recall Bleak Shield having someone like this either.
+
+Neil followed the monster’s directions down the aisles and over to one of the seats. There was enough space between his and the nearest people for it to feel like he had enough personal space to think, which was a nice touch.
+
+There were two things on the seat itself. The first was a small stone sign, complete with a roughshod metal handle, with the number 110 on it. He was unsurprised to spot that the seats to either side of him both bore numbered signs as well. That was nothing new — it was just a sign for which the auctioneer to identify who was placing a bid.
+
+But the plate of assorted snacks sitting beside the sign was entirely new. There was a small loaf of bread, several pieces of browned meat drizzled with a burgundy red sauce, and a sizable salad complete with small chunks of cheese and nuts. Next to the plate was cutlery and a mug of beer.
+
+Neil blinked in surprise. Then he glanced over his shoulder, looking around at all the other seats scattered around the building. All of them had a plate. The Menagerie had actually laid food out for every single person.
+
+What an odd move. I could see this for the VIP sections, but for every single person attending the auction? Interesting.
+
+Neil couldn’t deny that the food smelled incredible, though. He picked the plate up and sat down in his chair, leaning back and getting comfortable. His spot gave him a pretty good view of the auctioneer’s stage.
+
+The Menagerie had done a good job with the Mausoleum. Every single part of the building slanted and pointed down toward its center. Madiv stood in wait, his arms crossed behind his back as everyone moved to find their seats.
+
+It took nearly twenty minutes before everyone had made their way to their spots. The auctioneer stood in the center of the platform, as still as a statue, the entire time. Neil could have sworn he didn’t even blink.
+
+But, finally, the doors of the Mausoleum ground shut. They closed with a resounding bang that cut through the murmured whispers stretching all throughout the building.
+
+Madiv remained still for several more seconds before finally clearing his throat. His voice echoed through the room a dozen times louder than it should have been, clearly magnified by some magic.
+
+“Thank you for coming, everyone,” Madiv said. “We’re excited to properly begin the Menagerie’s first auction. There are just a few things I wanted to go over before we get started. This auction will happen in three stages with breaks in between.”
+
+Breaks? What’s the point of that?
+
+“If you wish to put something up for collateral or auction, please raise your number card,” Madiv continued. “A representative of the Menagerie will take you to a private room to discuss our terms. Furthermore, every tier of the auction will have increasingly rare items. If you have an item of lower quality that you wish to sell, ensure you do it in the proper stage. I would suggest speaking to us during the first stage to avoid missing your chance, as even your best items may place less highly than you believe.”
+
+Neil nearly choked on his own saliva. The sheer audacity of that claim was insane. It was only natural to talk oneself up, but this was bordering on ridiculous.
+
+This isn’t how I’d go around trying to make friends with all the guilds visiting. What are they playing at? That was practically an insult! At this rate, they’ll just be a laughingstock. They’ve basically set things up so that if their first item isn’t at least some decently strong magical weapon, they’re going to look so pathetic that nobody will listen to anything else they say.
+
+The conversations that sprung up all over the room made it clear that Neil wasn’t alone in his thoughts. People weren’t too happy with Madiv’s claim.
+
+“Now, I don’t want to waste anyone’s time. That will be enough talk for the time being,” Madiv said. He adjusted his suit, then turned in a circle to flash a sharp-fanged smile to every single person sitting in the room. “So let’s get started. The first item up for auction might be the lowest rarity thing we have to offer, but you’d be a fool to pass up on this without thinking twice.”
+
+Neil grabbed a pastry and brought it to his mouth.
+
+That better be the case. If it isn’t, you’re done for. For your sake, I hope this is a powerful Rare Item. But I doubt they’ve managed to fill an auction with things exclusively better than Rare—
+
+“The first item up for auction is a sword created by our very own Ifrit. It’s not his newest creation, but it’ll serve as an appetizer for what is to come,” Madiv called. His lips curled up into a predatory smile. “Allow me to present the Serpent’s Sting, Epic Rarity.”

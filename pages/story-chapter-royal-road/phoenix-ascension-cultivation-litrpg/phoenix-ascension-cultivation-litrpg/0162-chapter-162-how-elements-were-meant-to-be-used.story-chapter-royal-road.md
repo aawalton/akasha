@@ -1,0 +1,197 @@
+---
+id: ba85c4b8-acdf-54b2-9704-7cb623bba564
+page-type-slug: story-chapter-royal-road
+title: "Chapter 162: How elements were meant to be used"
+slug: 0162-chapter-162-how-elements-were-meant-to-be-used
+partOf: phoenix-ascension-cultivation-litrpg
+position: 162
+ownLength: 1922
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3807713/chapter-162-how-elements-were-meant-to-be-used"
+royalRoadId: "3807713"
+---
+
+Ling Zhi looked like the average cultivator to me, with short hair and no beard. He seemed rather young; I would not give him more than twenty years, but what he had inside him was precious,
+
+It wasn’t anything much compared to most of the people I knew back in the day, but someone at this stage already having an internal flame was impressive.
+
+To a fire cultivator, an internal flame was their biggest asset. They would grow and get stronger with it, the two of them feeding off each other in a symbiotic relationship.
+
+The Nirvanic Flames used to be my internal flames long ago, but now they’ve been reduced to a skill. Seeing Ling Zhi made me wonder if I could harbor another one, though. Maybe I could collect many of the other elements as well?
+
+Cultivating them inside my dantian would be pretty awesome.
+
+The one inside Ling Zhi was still nascent; perhaps he hadn’t acquired it too long ago. I didn’t know how well he would be able to use it, though. Considering its age and his age, the two of them have not been partners for long.
+
+Maybe I could entertain him a little…
+
+Since he was going to lose anyway, I figured I might as well teach him how to play with fire.
+
+We did the bowing ritual, which was getting a little old by that point, but it was required nonetheless.
+
+When the time began to fight, I merely channeled lightning into my hands and waited for him to come.
+
+He didn’t hesitate to fight, much to my delight. After witnessing the previous fight, he should have realised that fighting would be useless.
+
+I admired his spirit, though.
+
+Following my example, his fists also got engulfed in flames, and he used a movement technique to speed up.
+
+With a quick dash, he was right in front of me. I watched the flames dance around his fists with wild vigor, and waited for his fist to land.
+
+When it was close, instead of attacking outright, his fist opened into a palm and a giant pillar of flame shot out from it straight toward my face.
+
+I decided to take the attack head-on, since that wasn’t my body anyway, and I wasn’t disappointed.
+
+Ling Zhi’s fire burned away my hair and part of my skin, but that was about it. My real body had taken no damage.
+
+The smile that appeared on his face quickly faded as he realised that I wasn’t as hurt as I’d looked.
+
+Using my newly learned techniques, I mimicked a sword strike with my fingers and pushed them into his chest before he could react.
+
+I did my best to hold back, not wanting to kill him. The attack sent him staggering back, his body paralyzed for the moment.
+
+I had enough time to deliver a finishing blow, but I allowed him to recover.
+
+He got up and wiped the blood that trickled down his chin, glanced at the wound, and shrugged it off.
+
+Suppressing the lightning still travelling through his body, he took a deep breath as his back straightened. Flames sprouted on his palms, and I could feel the internal flame responding to his call.
+
+As soon as its energy reached him, the fire grew into two beautiful flames that he then combined together.
+
+When his palms came apart, there was a single condensed ball of fire that floated before him. The heat emanating from it was enough to influence the air around, and Qi rushed to further feed it.
+
+I nodded internally. I didn’t recognise the move, but it looked powerful, and from what I could tell, wasn’t something he would use lightly.
+
+There were a few flaws though. Truth be told, his entire fighting style so far was unlike what a fire cultivator should be like.
+
+Clicking my tongue, I shot him a challenging glare.
+
+He’d taken the bait, as the flames of youth burned in his eyes, and started his offensive again.
+
+Flames surrounded his fists and legs, and his speed increased by a large amount. The ball of fire followed him around, feeding him its energy.
+
+So it was a support type? How peculiar.
+
+Not that it changed anything. Since when did fire cultivators need support? The only thing we needed was power, power and more power.
+
+But how could I drill that into his head without using fire?
+
+It was a difficult question to answer for sure, but one that I would eventually manage, as long as I tried.
+
+He swung his fists with some sort of direction; I had to give him that. For someone who wasn’t a rare body cultivator, he was doing well.
+
+However, it wouldn’t be enough. Why would he prioritise direct contact instead of overwhelming volume? Was it due to the lack of Qi?
+
+He was only a Qi Condensation cultivator; his resources couldn’t have been large, but still. Even when I was weaker than him, back in my old life, I’d still used flames with more gusto.
+
+“What is this fighting style?” I couldn’t help but ask, since it was truly peculiar.
+
+“The style of the Fiery Expanse Sect!” Ling Zhi answered shortly, sending yet another few punches toward me.
+
+“Why?”
+
+That question took him by surprise, as he’d even paused for a second.
+
+“What do you mean ‘Why?’”
+
+“Why is your fighting style so direct. I’d never encountered fire cultivators who fight with their fists.”
+
+“That’s what sets us apart from other cultivators!” He groaned as he punched and stopped talking to me altogether. It was… an interesting reply, for sure.
+
+That’s what sets them apart.
+
+“So you use internal flames as support instead of direct damage?”
+
+“What?” His expression went from angry to surprised and then to flabbergasted. “How did you know?”
+
+“I could sense it since I’d seen you. I’m a little sensitive to the elements, we could say. I was expecting something a little more explosive, honestly.”
+
+“What do you know about fire?” He hissed, sending a kick toward me, flames spiraling outward. “You use lightning!”
+
+I couldn’t help but chuckle at his remark. True, I used lightning, so maybe I should show him how elements were meant to be used.
+
+Snapping my fingers, I summoned two dragons made out of lightning, ones that weren’t imbued with tribulation lightning. That was the last thing I wanted these people to find out I had.
+
+“Wha-” Before he could finish, my pets jumped on him, biting at his leg and ankle, knocking him to the ground.
+
+“Lightning and fire are not that different, you know? Both are Yang, both give birth to life, and both take it. They both use heat to do both things, except one does it much, much faster.”
+
+As I said that, fear manifested on Ling Zhi’s face, because a giant lightning bolt appeared right above us. It stood there, waiting for my command.
+
+It wasn’t any special technique, but seeing a static lightning bolt with a clear sky would have freaked out anyone, honestly.
+
+However, the fact that it was pointed at him might have made him pee his pants.
+
+“Elements are meant to be used as they are, in their raw form and untethered. Who needs fancy punches when you can overwhelm your opponent with sheer strength?”
+
+I snapped my fingers, and both the dragons and lightning disappeared. Ling Zhi took a moment to gather himself, and he gulped as he crawled back.
+
+After enough distance had been created between us, he stood up and stared at his fists, which still had some trace amounts of flame.
+
+He then looked at the internal flame ball, and his eyes became unfocused for a few seconds.
+
+Ling Zhi sighed afterward and undid both techniques, and cupped a fist in his palm.
+
+“I concede.”
+
+I blinked slowly, not having expected that at all. Surrendering just like that was outside what I thought he would do.
+
+But… well, a victory was a victory, and now it was sure that I would not fight anymore today.
+
+I stepped off the stage and sat next to Meng Mao. He rolled his eyes, but didn’t say anything. I watched Ling Zhi join his sect, all of them looking at him with pity. Most importantly, they glared at me as well.
+
+Well, Pei Hua didn’t, but she didn’t seem to be concerned with them either.
+
+I sighed and closed my eyes in meditation, not caring about the outside anymore. Whoever was going to fight could do so without me caring; they weren’t any threat to me anyway.
+
+My consciousness went inside my dantian, and there I saw the Little Emperor sleep peacefully while my other belongings were scattered about.
+
+Mother’s egg was resting on top of the river, and it looked like she was… absorbing my Qi. Of course.
+
+Even Mother wouldn’t spare me from draining my resources.
+
+Then there was the Blade of the Elements, sleeping peacefully as if it had not just almost brought a calamity upon me.
+
+The Qilin horn was in my bag of holding, as I was afraid of what the sword would do to it if they were together.
+
+I had a good amount of my power focused on the sword, but it wasn’t even to refine it, just to suppress it.
+
+Did I really need a bloodthirsty sword…?
+
+I genuinely didn’t know what to do with it anymore. I wanted to refine it, but I wasn’t strong enough yet. Maybe I could use it somewhat once I’d broken through into the Foundation Establishment stage, but at the moment…
+
+Weak…
+
+I blinked and looked at the sword, flabbergasted. Did it really just call me weak? Are we serious? You damned piece of scrap metal!
+
+I could practically feel the smugness coming off of it.
+
+Fine, I was weak, so what? I bought it!
+
+Ok, deep breaths. Fighting with a sword would do me no good, not to mention that it could actually defeat me if it wanted to.
+
+But at the very least, I could suppress it inside my dantian. Unfortunately, it just seems to be another thing I would have to take care of once I’d broken through.
+
+The worst part was that I barely had what I needed to break through. Soil, being the most important, was still missing. I didn’t want to use low-quality soil, but I also didn’t know where to get better soil from.
+
+The branch of the Myriad Market in Golden Arch City didn’t have exactly what I wanted. The fine soil it had, along with the other good but heavily specialised soils, would not serve me any good.
+
+However, a secret realm like the Four Corner Sword Realm would surely have something. I wasn’t aware of there being such a thing as Sword Soil, so maybe I could get lucky.
+
+If I couldn’t manage to find any good soil in there either, though, I would need to settle.
+
+Other than that, I had a pretty good plan on how I would arrange my dantian and foundation, though it would remain to be seen if other better opportunities came my way.
+
+After checking to see if the Little Emperor was safe, I positioned myself on the Qi Lake and started meditating.
+
+He seemed fine, more than fine, actually. Somehow he kept getting healthier and healthier despite the fact that just a few weeks ago he was on the verge of death.
+
+He really was sapping me dry…
+
+Mother too…
+
+The sword too…
+
+Ah, I was so unfortunate…

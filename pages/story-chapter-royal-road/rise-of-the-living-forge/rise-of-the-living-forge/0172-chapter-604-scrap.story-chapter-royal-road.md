@@ -1,0 +1,93 @@
+---
+id: dc68febc-17a9-571d-99db-776b27512dd0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 604: Scrap"
+slug: 0172-chapter-604-scrap
+partOf: rise-of-the-living-forge
+position: 172
+ownLength: 1834
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3511980/chapter-604-scrap"
+royalRoadId: "3511980"
+---
+
+“You’re thinking something up,” Lillia said, catching the glint in Arwin’s eye instantly. “What is it?”
+
+“The Hungering Maw,” Arwin replied. He rose to his feet and crossed his hands behind his back as he started to pace back and forth behind the table, unintentionally forcing the members of the Menagerie that had been sitting alongside him to turn so they could watch. “The whole reason the Mesh gave it to me was to try and figure out what was going wrong with it.”
+
+“Right,” Lillia said. “But it might have been completely wrong about the issue, no? If we’re right about what the Guild is doing, then the problem is right under its nose. There isn’t some inherent issue in the world. There’s just some ancient creature literally taking bites out of the Mesh and stealing all the power for itself.”
+
+Arwin nodded. “That does seem to be the case. At least, by our best estimates. I know Rodrick wouldn’t want us going too far down a rabbit hole without verifying things to be fact first.”
+
+“Thank you,” Rodrick said. “Good disclaimer, that.”
+
+“But even with that considered,” Arwin continued, “This is still a tool that we can use to figure out what’s going wrong with the word. My class is basically a simulation of the issue this world faces created by someone who only knew the results and not the cause. That means I’m functionally a stand-in for the beast in the Guild’s hole.”
+
+Reya coughed into her fist. Art did the same. Vix shot an exasperated at him, though she seemed to be keeping her jaw clenched abnormally hard to avoid letting any amusement break through on her features.
+
+Arwin paused for a moment. Then he cleared his throat and continued.
+
+“Could have worded that better. Look. The point of the matter is, we have two problems right now. The first one is figuring out what’s going on in the hole and finding a way to stop whatever ancient being the Guild is working with.”
+
+“Doing that would bring the entire Guild down. It would free the kingdom from the chains that most of them don’t even know they’re in,” Kien said. “We must do it. But we cannot allow the truth to get out. If the Guild discovers this knowledge is public… they could wage war on the kingdom itself. They’ve kept to the shadows to retain their power thus far. But don’t let yourself think they’ll be content to stay that way if their power is threatened.”
+
+“Kien is right about that,” Wallace said grimly. “They’re like the Dwarven Council, but a thousand times worse. It’s not about the original purpose. It’s just about staying in control. If the public finds out what the Guild is up to, the death count will be untold. They’ll kill anyone and everyone that threatens them. A war the likes of which the Empire has never seen.”
+
+“But even if we must do it in secret, the Guild must fall,” Koyu said. His pale blue fists clenched. “They perpetuate crimes that have gone on since before the Great War. Even if nobody in this world knows what we have done, even if the Mesh itself cannot acknowledge it, we must still bring them to an end.”
+
+“Which we will,” Arwin said firmly. And was almost slightly surprised to find that he actually believed it. For so long, taking down the Guild felt like an unreachable goal. A target to strive for but one that would be years away. Not just to take revenge for what had been done to him, but to avenge all those who they had used up and thrown away.
+
+But now the guild had weaknesses. They had an opening. A massive one. And Arwin was far from alone. With the rest of the Menagerie, funded and backed by Melissa and Raen’s Merchant Guilds and supported by Setting Sun… they genuinely had a shot at ending this war once and for all.
+
+“But that doesn’t help us right now,” Anna said with a frown. “The Beast—”
+
+“I was getting to that,” Arwin said. He stopped pacing and turned toward everyone. “As I was saying, we’ve got two problems. The guild — along with whatever they’re doing to Corrupt Leylines and create their daggers — is definitely a major problem. But right now, our issue is the Beast.”
+
+“Which we can’t solve without those daggers,” Thane pointed out. His cheeks reddened slightly as everyone turned in his direction. He cleared his throat. “Right?”
+
+“Right,” Arwin said with a nod. “That’s our second problem. The Beast. And building a reversed version of the Guild’s daggers will absolutely help with him. But I think there’s an entirely different option that we haven’t properly considered. A replica.”
+
+“You mean to emulate the effects of a Guild dagger without actually using any part of a Leyline?” Esmerelda asked through a frown. “Or are you hoping to do it with a non-corrupted Leyline?”
+
+“The former,” Arwin said. He patted his stomach. “The Hungering Maw might not have the same problem as whatever lives in that hole, but the effect is identical. And I can make soul weapons. I’ve never tried infusing the Hungering Maw’s magic into an item. But, if I did…”
+
+“You might actually be able to create a dagger that could steal magic,” Lillia breathed. “Of course. But that would be one nasty weapon. And if it shares all the problems that you do…”
+
+“It would need to keep killing or shatter,” Arwin said. “Which is why I would have to make sure it wasn’t something that lasted forever. It would have to shatter after a use, if only to ensure that the wrong person never gets their hands on it. And I won’t be able to magically bind it to anyone. The whole point of the daggers is that they absorb pretty much all the magic they touch.”
+
+“Can you really do that?” Elias asked, exchanging a glance with Maeve before looking back to Arwin. “You could completely replace the power of a corrupted Leyline with your own magic?”
+
+“I think so,” Arwin said. He shook his head. “No. I’m certain I can. I’d be a little more concerned about the time we’ve got left to pull it off. Ideally, I’d prefer to figure out what’s going on with that corrupted Leyline and truly work backward from the source. But we can’t do that yet. And I don’t think Rodrick is going to be able to get us the information we need in time to deal with the Beast.”
+
+“It would be… difficult,” Rodrick admitted. “I can try. I wouldn’t say it’s impossible. But the faster I move, the more likely the Guild realizes something is up. We know the drill.”
+
+“That’s an interesting prospect,” Esmerelda mused. She cocked her head to the side. “If you were able to make a fake guild dagger that worked just well enough to fix the Beast’s problem, we could take more time figuring out how to yank the rug out from beneath the Guild. It would certainly be safer.”
+
+“Assuming the dagger works to kill the Beast,” Madiv pointed out. “If it doesn’t, we will have ourselves a problem. Would we be able to defeat him without the dagger?”
+
+“No,” Koyu said with a firm shake of his head. “There’s no chance. Not without great cost. The last time the Beast came, he didn’t use anything close to the true strength of a Revenant. He was just trying to kill time. I don’t think our next fight will be so fortunate. We promised that we could end his suffering. If we can’t… the Beast will not be pleased. Much of Milten will be destroyed if we have to enter a true conflict with him. And if the Guild hasn’t figured out where he’s run off to, they will after that. It will be a disaster.”
+
+“It sounds like trying to emulate one of the Guild’s daggers might actually be the best option we have,” Anna said. “We could do that while Rodrick tries to get information about the hole and the Leyline. Maybe we’ll get lucky and he’ll get what we need faster than expected. Maybe we can even get our hands on some of it in some manner. Who knows what the future holds. But in the meantime, it would be smart to keep working on other options.”
+
+“I agree,” Lillia said. “There’s no reason not to at least try and pursue the possibility. But is it something you can just… do?”
+
+“That’s a good question,” Arwin admitted. “In theory? Yes. I don’t see why I wouldn’t be able to make a Soul Weapon bound closely enough to my abilities that I could somehow infuse it with at least some degree of the Hungering Maw. And in the worst case, I can always just take a bite out of the Beast.”
+
+The others laughed.
+
+Arwin didn’t. He was only half joking.
+
+“Let’s save that final option for the very worst case scenario,” Lillia said. “What do you need to make a Soul Weapon like that? Are the materials we got from the auction enough?”
+
+Arwin scratched the back of his neck. “Honestly? I think they might be the entirely wrong kind of item to work with. I mean, some will be useful. But I’ll need more. That’s what I’m going to have to ask for some help for. This weapon isn’t going to be easy. I think I’ll need help getting my hands on the right materials to work with.”
+
+“Seriously? Even better than what we’ve already gotten?” Madiv asked in disbelief. “I don’t think we’ll even be able to get anything better than that. The payments we received are absolute top of the line stuff. Much of it is thousands upon thousands of gold just for a tiny chunk. How are we going to manage to find anything better?”
+
+“Wrong direction,” Arwin said with a grin. “I’m not looking for that kind of material. As a matter of fact, I get the feeling that the kind of item I’m looking for won’t be for sale at all. Not through the channels we have, at least.”
+
+Madiv blinked. His brow furrowed. “What? That rare?”
+
+“No,” Lillia said, her lips curling as she caught onto what Arwin was getting at. “The whole point is to make a dagger that will break after its purpose is done, but Arwin isn’t going to be able to magically ensure that to be the case. The Hungering Maw will eat any enchantments he puts on it. So he’s going to do it with materials.”
+
+“Exactly,” Arwin said. He chuckled. “In other words… I’m going to need you guys to find me the shittiest metal you’ve ever seen. Garbage that not even the most underhanded smiths would ever bother selling. I want to build a weapon to end the Beast out of material that isn’t even suited to be called scrap.”

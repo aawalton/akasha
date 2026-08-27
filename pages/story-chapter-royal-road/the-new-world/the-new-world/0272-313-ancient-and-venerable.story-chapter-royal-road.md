@@ -1,0 +1,189 @@
+---
+id: ef80c8ce-bf61-59c1-b293-95878a811d81
+page-type-slug: story-chapter-royal-road
+title: "313 Ancient and Venerable"
+slug: 0272-313-ancient-and-venerable
+partOf: the-new-world
+position: 272
+ownLength: 3107
+unit: words
+ownProgress: 3107
+publishedAt: 2021-09-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/751451/313-ancient-and-venerable"
+royalRoadId: "751451"
+markedReadAt: "2026-06-29T21:30:31.936Z"
+---
+
+I took a step back, and the others did with me. I reached up a hand, and I slid Amara into the portal in a quick swipe. Disappearing into my pocket dimension, Amara didn't have time to react. At the same time, I reached out a hand that grappled Plazia in an intense gravity well. Plazia hovered off the ground, his body inert yet oozing mana still.
+
+Plazia mouthed out, "You're cautious of me. That's excellent. Only a fool would trust an eldritch abomination, especially one so close."
+
+I grimaced, "So you could've shown up whenever you wanted. Why here and why now?"
+
+Plazia tilted the Sentinel's helm sideways, insects creaking within,
+
+"I exposed myself here so that I may show Wrath respect. Her colony is her domain, a sacred and venerable concept to the Ahcorus. To enter as you have is an invasion, both of her privacy and her dignity. It serves your goals well to remember that."
+
+We turned to Helios, and the ice mage chided, "I'll reiterate; I never said warping was a good idea. I was merely able to do so at the time."
+
+Plazia leaned towards Helios, "You are a master of portals, Helios, but masteries are often blinding. They mask our fragility, so our weaknesses are unseen and unknown by us. This promotes stagnation. Your blindness acts as an opposite to that concept - overcoming that blindness has given you strength."
+
+Around us, tiny mana spots swarmed, each of them unmanifested insects of magma. Plazia moved them, making them dance. The hivemind hissed, "From an endless gloom, you pulled yourself into a different world of motion. In many ways, the world you see outdoes the visible one in both beauty and function. Should you wield your other weaknesses as such, they shall grant you further reason to grow."
+
+I marveled at the dancing swarm while Helios crossed his arms. The albony royal sneered, "Enough preaching. What are you here for, and what do you want?"
+
+Plazia cackled out laughter before hissing, "For he who lives in darkness, you detest being seen. That fits you, who lives in an ever-moving umbra. Perhaps you never wish to leave it?"
+
+Helios leaned back while Plazia-Ruhl turned his head to me, "I've shown no aggression. Perhaps you're willing to release me now?"
+
+I narrowed my eyes, but I let him down. Plazia finished stepping through his warp, the dimensional tear snapping shut behind him. He turned towards the rock wall, and the stone sprung to life. Dozens of magma insects crawled from his presence, a larger space forming for us. Around him, cipheric markings formed over the molten rock.
+
+Those sigils solidified, and with a flash of primordial mana, Plazia poured energy into the incantations to enchant the lettering. My HUD disappeared, along with my notifications and status. Plazia sat onto a writhing throne of undulating lava. As he made contact, it condensed into basalt throne before he lifted a hand to us,
+
+"Find comfort where you may, as my words will grate your ears and slither under your skin...Should you heed them."
+
+While I wondered if Plazia planned on attacking us, Florence walked forward before I could access the situation. A stony pillar formed beneath the albony, and Florence sat on it. Turning back, Florence smiled at us, "He's not lying. Let's hear him out."
+
+Helios listened to his brother, and the ice mage stepped up. As Helios plopped down onto a forming basalt pillar, the ice mage leaned his masked face onto one hand. Helios mouthed, "Gah...I hope this isn't a waste of time."
+
+While they sat, I stood. The rock had no chance of holding my heft up, magical insects or not. I turned a hand to Plazia-Ruhl, "So, what is it you're after, exactly?"
+
+Plazia steepled his fingers while resting his elbows on his knees. On his twisted throne, he watched us,
+
+"I know of you all, as I know of many things. Florence, you've found new life in a foreign place where your talents are cherished. Helios, by being thrown into a fire, you've shaken yourself from your quiescence. The hidden Amara arrested under the tutelage of builders, and she found sanctum under the wing of that which she fears."
+
+The air grew heavy as Plazia locked in on me, "And you, Daniel...You've been forced to grow beyond your means, and now that growth terrifies you. That dread manifests from a lack of knowledge and experience but, most of all, a lack of direction. You are aimless. I am here to offer you direction."
+
+I raised my brow, "You sound a lot like Spear."
+
+Plazia stayed leaning forward, "His plea grounded itself in dogma. Mine is grounded in change, something that only you may enact."
+
+I crossed my arms, "Alright then, what's the change?"
+
+Plazia hummed his words, "I remember a time before my alteration into an eldritch. Only shadowy lapses still linger, but those memories are enough. They seep in from between the cracks of my mind. They are all I need as proof of what's occurring."
+
+Plazia spread his hands, "Schema would have you believe that the eldritch spawn from the clashing of dimensions. This is a hollow truth. The interdimensional energies do not create sentient species; they warp them. The eldritch arrive from another dimension that's dying, and that dimension's death results in us transferring across dimensions."
+
+Plazia tapped the side of his Sentinel's helmet, "And that is what leads to our full deformities. We are the minds of those lost in that ether, but our forms are disfigured into the eldritch abominations you now fight. If anyone understands the corrupt influence of interdimensional energies, it's you, Daniel."
+
+I winced, remembering when I put my hand in a dimensional tear in BloodHollow. That ended up changing the evolutionary path of my armor from then on, so it worked in my favor. Not everyone had an eldritch's carapace over their body, however. I almost succumbed to the energy at the time despite my advantages even.
+
+I frowned, "Even if what you're saying is true, does it really matter? Even if you're innocent before arriving here, the eldritch aren't exactly talkative after arrival. I'll help who I can, but for the most part, the eldritch are monsters that need to be wiped out." I turned to the albonies in the room,
+
+"Don't tell Amara I said that."
+
+Florence gave me a thumbs up while Helios murmured, "I wouldn't care enough too."
+
+Plazia sighed, "That is...An unfortunate reality, and it's worthy of note. Our kind is a darkness, one that cannot be purified only removed. By the time we've landed here, we've turned into nothing more than a shell of our old selves. Nothing remains of our lineage, and so, we've only made a new one here. It's a horrid picture we painted so far."
+
+Plazia shook a fist, "But that is where you may change our grim reality. You're the only creature outside of the Old Ones that can cross these transdimensional energies without corruption. Within you lies the only means of crossing those dimensions. You may be our beacon to crossing the veil, a lighthouse amidst dark, stormy seas."
+
+Plazia's voice rose, "Think of it. We may turn monsters to men and wolves to women. They'd carry a different dimension's knowledge, one we may establish without cause for concern. The secrets of the cipher would unveil to us. We could step into a life where there was no more need for the constant slaughter. We only need a shepherd, one that may guide us wolves back into sheep."
+
+Helios cracked his neck, "And Daniel is supposed to be this shepherd, hm?"
+
+Plazia nodded. Helios raised a brow, "If that is the case, do you have any comprehension of how many trillions of people Daniel would need to send over? What about the sheer scale and the enormity of the time commitment? Do you think Daniel has the available resources to worry about other people when his guild has just experienced a galactic war before it has even stepped off its home planet?"
+
+I couldn't have said it better myself. I pointed at Helios, "What he said."
+
+Plazia steepled his hands once more, "And that is where the crux of my offerings reside - I am willing to offer you my servitude in exchange for establishing a bridge between these two dimensions. Once you've left a mark there, we can sheer space-time as Baldag-Ruhl did upon both these planes. A warp will be possible thereafter."
+
+I leaned back, considering the proposal. I believed I'd be shuttling group after group of survivors, which sounded like a waste of time. I could save a few thousand per trip at most, maybe ten thousand tops. If I stayed here, helping normal planets and fringe worlds far exceeded the net benefit of something like that.
+
+On the other hand, a bridge? That changed the entire proposal. If that bridge landed on Earth, it gave us a way of avoiding many negative outcomes. In fact, if we gained a different dimension to escape to, we could avoid Schema and Elysium alike. That set us up in a much less precarious position. Of all the points in this equation, that one tempted me most.
+
+I wouldn't have to protect people all the time. I could run wild, and that sounded like a burden off my shoulders.
+
+And considering Schema's radio silence, I enjoyed the idea of having a bailout option. Of course, this all hinged on whether or not Plazia could even be believed at all. Killing Plazia also fulfilled my agreement with Obolis, something I wanted out of the way. I rubbed my temples before reaching out a hand, "Ok, Plazia. I think we can come to an agreement here."
+
+Florence clapped his hands while whistling, "Hah, wow. You're insane, Daniel. I love it."
+
+Helios stood, and he tilted his head at me, "Are you...Casually betraying Schema?"
+
+I waved a hand, "Helios, don't pull a Spear on me and be all close-minded about this. Give me a second to figure this all out." I pointed at Plazia, "First off, what are you going to do about Schema's retaliation? He'll figure out we're working with you, and I'll be exiled. My guild may be destroyed for it too."
+
+Plazia gestured around himself, "I've spoken with numerous Builders like Amara. Most of them have perished, but a few of them still owe me favors. They can construct bonuses and hack into Schema's system as Amara may. I can have my death, and the ensuing experience siphoned your way. My true form can hide in your pocket dimension until I can be secured across the dimensional lines. In that interim, Schema carries no influence, and our deception shall be complete."
+
+Florence cupped his chin, his legs crossed, "So you're willing to put it all on the line for this, huh? Because Daniel's pocket dimension is impossible to escape from, and he can hold you there as long as he likes. That could be forever, which is basically death."
+
+Plazia peered through Florence, and the hivemind stated, "Unlike my brethren, I live for more than hunger. I live for the hope of a future. It gives my tomorrow meaning beyond mere hunger. I cherish that gift, as few of my kind can ever hope to feel it."
+
+Florence leaned closer, "Oh? Really now? Ok, how about you let Daniel put you in his pocket dimension right now? That'll put some actual weight behind what you're saying."
+
+Plazia tapped his fingertips together, the Sentinel's graphene coating ebbing out a dull thud. Plazia stood, "You may throw me into the void or have me unleashed in the center of a star. Dying before I can even begin my goal is foolish. I'll be slotted into that void when the circumstances are well suited for it."
+
+Florence shrugged, "I'm just trying to let you show what you're made of."
+
+Plazia peered down at Florence, "Show me that you're committed, and I'll do the same."
+
+I waved a hand, "How is this whole dimensional transference going to even work anyway? How would you construct a bridge?"
+
+Plazia pointed at me, "You are the answer. Your armor is immune to transdimensional energy. By simply holding a thread of your fabric, we can create a tether between our dimensions. Once we tore the two gashes into space-time, we will construct a tunnel from your skin to shield others who traverse across the veil."
+
+I scoffed, "Are they just going to walk that infinity's distance?"
+
+Plazia shook his head, "No. We'll connect it via wormholes after establishing this tunnel between dimensions. It requires your fabric for this to have a hope of succeeding, however. You're a dimension, so you may allow for dimensional properties to manifest within your domain."
+
+Plazia sat back down onto his basalt throne, "We'll use those dimensional qualities to create the wormhole."
+
+I raised my brow, "You honestly think this will work, huh?"
+
+Plazia spread his hands, "Would I put my existence on the line if I wasn't absolutely certain?"
+
+I grimaced, "It sounds insane, like a theoretical concept you're using me as a guinea pig to test out."
+
+Plazia waved his hand, "That's a misunderstanding. You will not be testing hypotheticals. There are procedures we may follow to ensure your safety. We may test each step of my hypothesis until it is, without a doubt, proven. Only then, after the risks have been altogether muted, will we risk anything."
+
+Florence stood up, "That sounds all right to me, but we're here to finish a mission, one where you have to die. Are you willing to help us complete it? It requires you pulling your influence over Svia out of the equation."
+
+Plazia peered up, staring at the colonies lingering above, "I am willing.  While it may only be a temporary measure, I may establish a zone like this where Schema carries no influence or reach. These spots are cleared out by Overseers in time, but currently, they busy themselves battling Elysium. That grants us several weeks for work. That is more than enough time to begin these processes in earnest."
+
+I tapped the ceiling for a moment before opening my pocket dimension. I slid Amara out of it, and she fell out of stasis. I set her down with a gravity well. She remained unaware that I even captured her. I raised a hand to her, "Could you have a death message sent to Schema confirming Plazia's death?"
+
+Amara peered around, whiplashed by the sudden shift in time. She hissed, "What happened?"
+
+I snapped my fingers, "We're trying to arrange a deal with Plazia."
+
+She snarled, "Why should we help him?"
+
+Plazia gazed at her, "I know of your intentions. More worthy of note, I know of your motivations. Each of you desires some kind of outcome, and my offer may grant you all you wish and more. It is centered on an exchange."
+
+He turned a palm to Amara, "If Daniel acts as a shepherd between our dimensions and ferries untainted people from the new domain into our own, I will give you my undying services." Plazia leaned back into his throne while oozing confidence, "Of which, I may offer many."
+
+I rested my chin on my right fist, "He's saying that I'll need to go towards the collapsing dimension while creating a bridge and take unchanged people back. If I do that, I'll get Plazia as an underling."
+
+Plazia rested his hands on the armrests of his throne, "Yes...Though perhaps you may call me something else besides an underling?"
+
+I tapped my teeth together, "Eh...Maybe."
+
+A war waged in my head. Different minds threw out all kinds of thoughts on the issue, weighing pros and cons. Before I voiced my questions, Amara gawked at Plazia. She raised her palms to the hivemind,
+
+"You...You say that we're tainted? All of us?"
+
+Plazia peered off, unable to meet her gaze, "Yes. We are. We are like shadows, the dark manifestations of what we once were. Our passage from one realm to the next has molded us too deeply, and we may never return to our former selves. However, we may help those that have yet to turn."
+
+Amara stared down at her palms, or in her case, up at her face. She snarled out, "What proof do you have that the eldritch are changed people? Nothing about them says that. We're made of energy."
+
+Plazia pointed a clawed finger at his temple, "My memories of my past life verify it."
+
+Amara swooshed her hands, shouting out, "Like what kind of memories?"
+
+Plazia remained cool and collected, "They are vague impressions of a scholarly lordship. I remember my hunger for knowledge matching my current ravenous disposition. I did not desire flesh and biomass as I do now, however. This desire for an absolute centralization of all organic resources, it is our most crippling of curses. It weighs us down to a place where we exist as nothing more than mindless monsters."
+
+Plazia threw his hand to the side, "I may be a deformity...An abomination...A ruined mind. I know this, and I know I cannot be changed any longer. I'll live with my hunger as you do. Unlike most of us, I won't succumb to it." Plazia pointed to Amara, "Just as you've resisted, I shall too, little one."
+
+Amara snarled, "And look around us. You've conquered a world. Is there any reason as to why we should believe you weren't aiming for endless consumption from the beginning?"
+
+Plazia scoffed, "You speak quickly in anger but are slow to thought. Dwell on what I've done. Tell me if anything of my deeds are remotely malignant. You'll find nothing of the sort."
+
+I raised my palms, "Ok guys, that's enough. I'm willing to test this out. We'll work together for a bit and see if this has any validity to it. If it doesn't, we'll fight it out."
+
+Plazia reached out, "You're sure?"
+
+I gave him a decisive nod, and the hivemind spread his hands wide, soaking in that moment. He resonated out, "We have happened upon a time of burgeoning change. You've decided on the cataclysm you'll usher forth, Harbinger. I cannot wait to see it come to its fruition."
+
+I raised a finger, "Now wait one minute. We'll be needing a few resources from you first. It'll be a goodwill present."
+
+Plazia's hands lowered, "Hm...Then what is it you desire?"
+
+I gave him a greedy smile, "Oh, it isn't that much...Just a few things, really. Maybe a few elemental furnaces, perhaps?"

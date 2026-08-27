@@ -1,0 +1,375 @@
+---
+id: 1f73bbf3-8417-5192-ae9f-bdbcd1778114
+page-type-slug: story-chapter-royal-road
+title: "462 A Frozen Memory"
+slug: 0422-462-a-frozen-memory
+partOf: the-new-world
+position: 422
+ownLength: 3426
+unit: words
+ownProgress: 3426
+publishedAt: 2025-08-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2513765/462-a-frozen-memory"
+royalRoadId: "2513765"
+markedReadAt: "2026-06-29T21:35:50.918Z"
+---
+
+Its eyes glowed with a blue deeper than oceans or worlds. My breath seized in my chest as it reached out a hand, and it drew from my memories. It peeled back my mental defenses and found something. It spoke aloud.
+
+"Ah, it's you again, Harbinger. We meet once more, but now upon a plane of ice instead of on the branches of a dying Yggdrasil."
+
+My voice was but a whisper.
+
+"Yawm?"
+
+It smiled.
+
+"In the flesh."
+
+Chapter Begin
+
+I shook my head in disbelief.
+
+"No way. That's ridiculous. You died. You're-"
+
+I ceased mana channeling, putting all of my minds into the encounter. A wave of cognition rushed over me, and my gaze sharpened. This couldn't be Yawm as he died a long time ago. However, Yawm still left his mark on the world, primarily through those who remembered him.
+
+Like me. I grimaced.
+
+"You're trying to use my memories against me?"
+
+The emulation of Yawm laughed.
+
+"Memory. It's a strange concept. It acts as the last vestige that remains for many. It also acts as a catalyst for rebirth in those who seize its genuine power."
+
+"Power? You're a shallow imitation, an echo."
+
+"I am as shallow as your memory dictates."
+
+The monster paced sideways, interlocking his hands behind himself.
+
+"And it would seem I made quite the mark on you. Haven't I?"
+
+I paced with him, leaning over with my fists held tight.
+
+"As much as anyone."
+
+The yawm impression tilted his head.
+
+"Ah, but few enemies have scarred you as I have. Tell me, warrior, why is that so?"
+
+I blinked, falling into his rhythm.
+
+"Because you left my town as a smoking husk."
+
+The impression of Yawm chuckled, the laugh rich and royal.
+
+"The monsters you face every day have done that as well, and yet they never lingered in your mind like doubt in a pious man. If you would listen, I have my own theories on the matter."
+
+My curiosity spiked.
+
+"Such as?"
+
+He turned a palm to me.
+
+"It's a matter of principles. While other enemies have held your animosity, few have held your admiration. I have done so, and in seizing your respect, I carved an indelible place in your memory."
+
+I ground my teeth together.
+
+"Really now? I remember you as a merciless, genocidal maniac."
+
+He raised his gesturing palm.
+
+"Yet here I am - a strong, powerful, and articulate figure. I think you are lying to yourself. Not only about what you desire but also about what you believe."
+
+I took a step toward him.
+
+"I know exactly what I want."
+
+The icy Yawm turned to the horizon.
+
+"You wish for many things. I know there is a piece of you that desires a home. Another part wants recognition and a father you will never have. You want the power to stop the monsters pressing down on your universe. In tandem, you need to keep your found family safe. However, there are parts you deny, yet they still move you."
+
+His steps left shards of void ice reaching to the sky. I bristled at the mana coursing through him.
+
+"You think you know me well."
+
+"As well as a memory can. There is a vanguard within you, one that wishes to wipe worlds clean and bare and pure. You blame the warring impulse on your armor, but you have guided its evolution as much as it has guided yours. In that regard, the hunger you have is far more than a simple impulse derived from mana, fear, or pain."
+
+He stepped up to me, confidence oozing from his voice.
+
+"You wish to never be a whipped child again. You wish to become unbeatable so that you may never again be beaten, not necessarily in outcome but in conviction. I feel it in your mind. That humiliation, the way you gave in to pain and ran from terror...It is where this hunger stems from, isn't it?"
+
+I peered up at him as I once did, my psyches collecting themselves.
+
+"I come from a broken home, and it made me. There's nothing wrong with that."
+
+Yawm's gaze sharpened.
+
+"Do you believe a broken man can rule a planet?"
+
+I smiled, the expression caustic.
+
+"I do because I have."
+
+Yawm tilted his head.
+
+"I was born from war and the brightest of my kind. I had every advantage and more, yet the Old Ones left me as a shell. They took every part of me I ever loved, and they made me break everything I ever fought for. What makes you think you're any different?"
+
+I thought for a moment. I met his eye.
+
+"Our self-doubt."
+
+He laughed. He raised both his hands.
+
+"Would you mind explaining? I'd love to hear your thoughts."
+
+I kept my gaze on him, boring it down like a weapon.
+
+"I know my limits. I know my flaws. I understand how little I've come from, and how I'm missing a thousand little pieces for my mission. That's why I won't do this alone. While my guildmates help guide me, I'll forge the path."
+
+"Do you think I lacked any personal skepticism? I was drenched in it. Why else would I ask for power from Etorhma?"
+
+I scoffed.
+
+"You took that power because you believed in your strength. You thought you could contain it, hold it in your palms like a common spear. You even used it to twist those who trusted you to uncover secrets about the eldritch and the cipher. In the end, you held absolute confidence and certainty in your cause and methods. That's why you failed."
+
+Yawm laughed.
+
+"But have I?"
+
+I leaned back.
+
+"I would say so. You're dead."
+
+His laugh echoed.
+
+"And yet, my contract with you holds firm. I understood your potential, and I etched my mistakes into that mind of yours. In that regard, I exposed a path full of mistakes, ones of my own making."
+
+He spoke with the warmth of the sun and the solace of the moon.
+
+"As I hoped, you have taken steps to hold my mantle and tread further than I ever could. All of this, even the monster you face now, is beyond my reckoning. It is farther than I could've walked on my own."
+
+He put a hand on my shoulder.
+
+"And you have taken it upon yourself to bear the weight of our people, a universe's totality, all on your shoulders. Even in the afterlife, I am proud of the path you've walked and what you've chosen. It is incredible. A feat among feats. Each day is another challenge, one where you stretch the bounds of who you are."
+
+He gave my shoulder a squeeze.
+
+"Yet you've taken incremental steps to stop the encroachment on all you hold dear. Continue this path. It is difficult, long, and lonely. However, it is a good one. Trust in it, and in yourself. I know I have, and that is my greatest legacy."
+
+He raised his fist.
+
+"To trust in the Harbinger of Cataclysm. To give mercy."
+
+I leaned back, my eyes widening.
+
+"You...You knew all along?"
+
+"Of course I did. A foolish child from a backwater world trying to bluff the progenitor of a race? You were bound to fail. Your potential and ideals, those are why I chose to let you strengthen yourself."
+
+"But you faced us with all your power in the final battle."
+
+"Yes, as I had already faded into a mockery of who and what I was. A part of me understood how little agency I had left. I used that last piece to let you survive. Etorhma wished for you, and that greed allowed my mercy."
+
+Pieces of Yawm faded, his shape disappearing from the monster I faced. I snarled at him.
+
+"I hated you. You killed my friends, and you destroyed my hometown. I'll never forgive you for robbing me of my...My stability. For taking so much for so little."
+
+Yawm stood tall, his porytian form hulking over my own as he did in my memories.
+
+"And never you should. Know that my death was a mercy. I thank you for the release. Also know this - I fought to create a universe without perpetual war. A place where eldritch didn't skulk the hills and eat our children. In your hands, you can end that cycle."
+
+I felt a smile on his expressionless face. Yawm gave me a final nod.
+
+"As you have ended the cycle of your family, do so in our broken world. Not for me. Not for you. For us all."
+
+After Yawm faded, I held my gaze where he'd been. A part of me despised him, and another part of me missed him. I hated that emotion, and yet that was the feeling the figure evoked. Somehow, someway, I missed the insane conqueror. Even worse, his words instilled a sense of pride in me, one that simply shouldn't be.
+
+And yet it was undeniable as the moon or stars. How I could hate, admire, respect, and loathe all at once, I could hardly fathom. Before I could settle those thoughts, I peered down at a strange, shifting form. It coalesced into the glistening outline of an elk, no lines hidden within its striking outline. When I gazed at the body, my mind fell into an abyss, and a quick jolt took me out of my sudden reverie. Before it caught me once more, I inspected the strange beast.
+
+Ghelid, the Beginning of Stillness | Level: 56,091 - Ghelid is an entity composed of congregated causality disruptions. While not truly alive, it has enough sentience to wish for its continued existence. It borrows the memories of anyone it comes in contact with, forming a temporary consciousness that it then uses.
+
+Since it's permanently surrounded and infested with bloodthirsty monsters, it has become a part of what it is. It uses naturally and unnaturally occuring leylines to funnel the shifting principles in the Northern portion of [Rebirth] to fuel itself. Given enough time, Ghelid will eventually subsume the planet.
+
+Its powers are many. It wields the ability to slow down interactions of all kinds. Thoughts, mana, and even an enemy's fighting spirit, Ghelid is a being that wants to lull everything into a state of stasis. This allows it to hold eldritch within its large body and feast on them long-term. Its many dealings with more intelligent eldritch also showcase a malevolent nature that takes advantage of its prey's darker impulses.
+
+It should've already conquered this world long ago, but that conclusion assumes that there are no others who wish to rule this place. For this reason, Ghelid is an enormous threat to any world and solar system it happens to exist on. It needs to be destroyed. Otherwise, it will spread its influence to anything it can, including you.
+
+I shifted to Event Horizon, pushing the aura over the beast. It let out a majestic, aged laugh. Its voice was crystallized honey and a winter's quiet.
+
+"Sharp, aren't you? Do excuse the intrusion of my mind. I'm simply using the resources given to me, as it is how I manifest. I hope it hasn't unsettled you overly much."
+
+I kept my eyes on it.
+
+"You pierced into my mind and used my memories against me. Unsettled? No. I'm a bit more than just that."
+
+Ghelid walked onto the air, its footsteps rippling reality.
+
+"Ah, but did I have a choice? It is in my nature. That is why I ask you this - do you know what I am?"
+
+I furrowed my brow.
+
+"Hungry ice?"
+
+It shifted in my vision, bleeding into its surroundings before rematerializing.
+
+"No. You know that, and I know you can present a better guess than that as well."
+
+Despite myself, I found this entity's conversation interesting. I bit into the bait.
+
+"You took the form of someone I fear?"
+
+It raised its antlered head.
+
+"Now, that is a far better approximation, one that treads closer to an uncomfortable truth. It's a rather odd facet of authenticity that rings true even after all these years - truths are most apt when they are harsh. That harshness implies an internal conflict, one that is so much easier to simply ignore."
+
+Ghelid stood tall as Yawm. Somehow, he seemed shorter.
+
+"That is why a harsh truth is so telling; it is the opposite of a lie. When it is hardest to expose something, that is when speaking it aloud is most honest. That is also why I hate lies, whether those lies are the ones we tell ourselves or the lies we use to get what we want. Regardless of my musing on the nature of truth, you've come for a different reason, one where my thoughts matter little."
+
+Ghelid's voice echoed across the endless ice.
+
+"What matters is the choice you've been presented with. To kill me or leave me alive. Which harsh truth will you unveil to me now, Harbinger?"
+
+My primordial wake encompassed me, and I frowned.
+
+"That's a false dichotomy. I'm not limited to two choices right now. I have many."
+
+Ghelid's form trembled as a blizzard encroached.
+
+"Well, well, you've changed after all those years since you've fought Yawm. You're less open to his cunning."
+
+I shook my head.
+
+"He was never as devious as he thought. In fact, he was talking to a child who had never seen the wider world or faced threats like him before. I was isolated, and he took advantage of that. That's why he fooled me with surface-level philosophy without depth or genuine thought."
+
+I peered down at Ghelid.
+
+"And it won't work on me again."
+
+I couldn't tell if that was the truth or a lie. Mana circulated through Ghelid as he spoke.
+
+"I am a construct, one that isn't actually Yawm, though I believe myself close to the genuine article. So far, I'd like to remind you that I've shown you no hostility, and you've garnered a respectable understanding of my methods during your travels. I am a being that exists as the guardian of this land-"
+
+I sneered.
+
+"You feed on the creatures here like a bulbous leech."
+
+Ghelid turned to me, and void ice crept up along his sides.
+
+"Unlike you, I have never walked among the stars nor seen what the universe has to offer. I am alone here."
+
+Ghelid bowed his chest.
+
+"I am cursed to be a simpleton driven by instinct. I have never known what true insight is, and therefore, I have never understood what I'm doing. My methods are horrific to all, and I am more than willing to change my ways and live a better, more fruitful life now."
+
+Ghelid let out a gust of air, his breath a blizzard.
+
+"It's within my nature to evolve, and preferably to a better purpose. I ask that you allow me to change my ways. Please, give me this chance to change."
+
+I frowned.
+
+"I don't think you're redeemable."
+
+It took a breath before peering up.
+
+"And may I ask why before we battle?"
+
+"You've existed for millennia by torturing creatures. You have camps dedicated to the express purpose of converting their pain into your power. Even when not directly involved, your influence alone is awful down to its roots."
+
+Ghelid's blizzard came closer, the rumbling hum a promise of ruin.
+
+"You have two allies that have likely employed methods with similar volatility, haven't you? Or can you say with certainty that neither Shalahora nor Plazia-Ruhl have employed questionable methods in the past?"
+
+I took a breath.
+
+"Shalahora hasn't. He's passed off his own pain to others, but it has never been in mass and without any reason. Plazia has certainly killed many living things, but he's never used prolonged bouts of torture."
+
+The entity stopped walking.
+
+"Shalahora has been the tool of an otherworldly entity. He has destroyed many planets, not just a singular region as I have. You gave that entity a chance on a whim, but you're unwilling to offer me the same grace?"
+
+It simmered its words like boiling oil.
+
+"As for the lord of insects, you've seen it use questionable methods against the Vagni. You have no guarantee that Plazia isn't waiting until you're vulnerable or until it gets what it wants. It could have many of your allies being surveilled at all moments to use against you, and you'd be none the wiser."
+
+I scoffed.
+
+"Shalahora was pulled into that situation. He chose to become the tool of the Old Ones after having to face the slow extinction of his entire race. You're still choosing to enact mass torture even after being exposed to my principles."
+
+It sighed.
+
+"I don't know if you'll let me survive yet. I want to live, and that isn't a sin."
+
+I shook my head.
+
+"You've done this for centuries. What is a few moments in comparison to that?"
+
+It tilted its head, and the flows of mana from the eldritch below ceased.
+
+"Happy now?"
+
+"No. You compare your sins to Plazia, but he is different. I found him in a world with the ahcorus, and he coexisted with them for millennia without torturing them. He manipulated their politics at times, but that's nothing compared to this."
+
+I spread my hands.
+
+"You're telling me that despite having the ability to take the memories and thoughts from millions of eldritch, you've never even contemplated trying a different strategy?"
+
+Ghelid sighed.
+
+"And now you're willing to end my life off a few flimsy assumptions?"
+
+I smiled.
+
+"No. I'm analyzing your incentives. You're an incomplete entity. You're trying to buy yourself time to use some far-off tool, mobilize your forces, and amass your energy. This facade of peace isn't fooling anyone, and you're not the only one who can dissect the intent of someone using mind magic."
+
+The creature let out a laugh that slowed time.
+
+"Am I to believe that you've infiltrated my mind? I've yet to feel anything."
+
+I shook my head, taking a step forward.
+
+"I don't need to dissect your long-term memories to grasp what you are and what you want. You're a ball of spatial laws, and you have desires that manifest from those laws. One of those wishes is for all to be still for all time. That goal contradicts what I want, so we can't really coexist, can we?"
+
+Its encompassing presence settled over us.
+
+"And what makes you think that?"
+
+I murmured.
+
+"That smile from the mention of quiet."
+
+A grin crossed over its elken face, the subtle line the only real distinguishing feature over its lineless body. It glowed brighter as it spoke.
+
+"I can admit that the noise of other beings can be...Troublesome. Everything wishes to change and shifts in every way imaginable. Wouldn't the universe be more peaceful if it were all still? We would be much closer to the truth of what we really are, wouldn't we?"
+
+My runes glowed with power, a might palpable and a fury contained.
+
+"You're right. How about we start that great stillness off by making you still first?"
+
+Its form shifted into the shape of Valgus.
+
+"I see you're not one to listen to words."
+
+I bent down.
+
+"Deflection. Answer me."
+
+It cracked its neck before snarling.
+
+"Of course, I won't let you kill me. I have no guarantee that you'll enact the great stillness that would uplift all. You think I'm a fool who would give my own life and goals to a mere stranger?"
+
+I jeered.
+
+"Yet you demand that sacrifice from every living being aside from yourself."
+
+It let out a long, haunting laugh. As it ceased, a quiet encompassed us both. It soaked deeper as the blizzard arrived in full force. Ice chunks struck the ground hard enough to leave craters in the ice. Splintering shards of cold bit into the air that howled out. The slowing of reality wasn't even from time manipulation. It operated on some separate principle.
+
+Despite the overwhelming force, the shards shattered against me as Ghelid murmured throughout the storm. His voice expanded into a roar.
+
+"And I will sacrifice everything. No death. No life. Never-changing yet always peaceful. Only...Stillness."
+
+My armor grinned, mana falling from me in a crimson wave. It fought back the ice, my dimensional wake stretching over it like a cloud of smog in a clear sky. A wave of excitement rushed through me, melting the cold and hastening the states of matter near me. I spoke, my voice a thrumming violence in my wake.
+
+"Then let's see stillness save you."

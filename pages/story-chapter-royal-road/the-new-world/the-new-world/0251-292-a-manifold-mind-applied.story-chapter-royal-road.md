@@ -1,0 +1,333 @@
+---
+id: 63c1a44c-0dfc-5968-aab4-871b146d1ca4
+page-type-slug: story-chapter-royal-road
+title: "292 A Manifold Mind Applied"
+slug: 0251-292-a-manifold-mind-applied
+partOf: the-new-world
+position: 251
+ownLength: 6151
+unit: words
+ownProgress: 6151
+publishedAt: 2021-03-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/643436/292-a-manifold-mind-applied"
+royalRoadId: "643436"
+markedReadAt: "2026-06-29T21:29:43.998Z"
+---
+
+Using my new skill, I brainstormed while walking toward Mt. Verner's surface. At this point, I had quite a few options at my disposal, and using them all well would make a world of difference. Keeping that in mind, I sat down in my usual golem building spot. There, I drafted up a few strategies and techniques for saving time.
+
+My first good idea came from my newfound aura range. At this point, my dimensional wakes were no longer only for my personal use. These enhancing areas could cover immense distances, affecting thousands of people at once. Most importantly, I could augment others with Rise of Eden, which gave them extra stats.
+
+Therefore, where I worked mattered, and I changed work stations. The golem creating crew did good work, no doubt, but it was a team of twenty people. The engineers used the extra stats from Rise of Eden well, but there simply wasn't enough of them. Considering my golem making station required no machinery or buildings, moving workplaces was easy too. I was the end all be all for golem creation, so I moved into the forest above the Omega Strain users.
+
+There, the once-abandoned tunnel acted as my main aura center. Using a bit of eyeballing, I positioned myself to get in range of the super golems and the strain users. This put me in a great spot, affecting hundreds of rapidly growing members, maximizing my aura's utility. The forest served as a serene background for my work too, the sounds of birds and wildlife calming me down.
+
+Yup, nature was incredible.
+
+Planting myself into this position, I crushed the trees around me under a gravitational panel. They pulped into heated syrup, the water within boiling from the extreme pressure. Solidifying the mass with the grasp of my fist, I created a condensed blob of organic matter. Event Horizon culled it, disintegrating the life surrounding me for one hundred feet in every direction. It could go further, but that's all the space I needed.
+
+I motioned my arm sideways, creating a sheet of stone around me. At five feet thick, it acted as a foundation. Using telekinetic drills paired with gravity wells, I bored hundreds of holes through this giant pad of rock. Liquid steel siphoned into these crevices before I sent a gravitational pulse through the mass. This pulse straightened the uneven layers of the steel, orienting them all in the same direction.
+
+Right behind that gravity, I pulsed out intense cold, freezing the steel in the appropriate alignment. A sheet of metal over the floor followed, using the same building strategy. I created steel girders above those, rising up just below the trees. Lifting my arms, glass pooled between these columns. Looking up, I passed a hand over my head, making a roof of stone over me.
+
+With an enclosed space finished, I walked forward, slicing through the glass with superheated, telekinetic contact points. A rectangular slice fell forward as I walked out of my enclosure. Lifting myself above it, I stared down, thinking of ways to disguise this place. I created a raised edge around the entire roof before filling it with a five-foot layer of dirt. Uprooting and replanting trees, I simulated the nearby environment above my golem making domicile.
+
+Pacing back inside, I lined the glass doorway with a layer of steel. At the same time, I cleaned up the enclosure, making it neat and orderly. Finishing that, I peered around. The whole place leaked in natural light from all directions, but it was dark. That wasn't optimal for detail-oriented work, and the dirt above pressured the site. This meant even mild gusts of wind made forboding creaks throughout the structure's framing.
+
+Aiming to reinforce, I lifted my hands, creating pillars. Making another circle within, these metal columns supported the roofing. Connecting them with steel barring, I traced out a simple pattern onto the ceiling, making the steel 'flow' a bit. Lifting my hand, chains of black steel appeared, and at their endpoints, metal, waning moons cropped up. At the bottom of these crescents, I flattened them out, giving them platforms. Creating quintessence, white crystals spawned on these places, giving this place clear, efficient lighting.
+
+I did the same to the outer pillars, giving this place a post-industrial yet magical vibe. Staring around, I liked it quite a bit. It lacked Torix's retro stylings since I kept it so minimal. At the same time, the subtle accents I put up helped give the place warmth. I didn't want this place to feel cold, after all.
+
+Mulling it over, I resolved to give the engineers at the top of Mt. Verner a similar abode. They'd wake up to a brand new workstation, and that might make their workflow better too. Putting that aside, I walked outside. Using a robust and dense gravity well, I burrowed a hole towards the tunnel below. This crushing process reverted dirt back into stone, making the water within evaporate in plumes of steam.
+
+Pulling the dirt out of my path, I passed through this new shaft, and I reinforced the walkway with stairs, stone, and steel. Crashing through the concrete below with the flick of a finger, I found a work crew using drills and cement mixers to make new rooms in the abandoned tunnel. I gave them a thumbs-up before carving a name into the tunnel I just made.
+
+'The Golem Center'
+
+I put my hands on my hips, admiring my penmanship. All the carving helped out here, giving my lettering a fancy edge, but either way, I walked through the hallway towards the golem's training room. Etching its new name beside the door, I walked in to find Spear training our troops as always. I gestured to ten golems, and they followed me out while I gave Spear a wave. He gave me a slight bow before resuming their training.
+
+We leaped back up to my golem center. With the new workplace handled, I turned towards the golems. They'd act as my assistants, holding up certain parts and whatnot so that I didn't have to float every piece of every golem. Using humans would've been preferred, but they'd literally explode since these golem parts were glowing hot half the time.
+
+Giving my golem assistants a simple set of directions, I plotted some other refinements to golem making with a different consciousness. Peering around, several new departments formed in my head. I could make many golem eyes, cores, limbs, runes, and bodies at once. Doing so multiplied my productivity, and I scoped out methods of doing that while coming up with a few other adjustments.
+
+Once finalized, I revved my elemental furnace to full power, having plenty of mental capacity to spare. I put another mind onto skin ripping duty, my ability to regenerate far exceeding my ability to tear my skin. Yet another consciousness tasked itself with melting the generated metal. More minds compiled, and I made a dozen of myself focus on elementary parts of the golem building operation.
+
+While getting these minds intent on complex, dynamic assignments overburdened them, my fractured mind handled simple chores productively. They worked better than I did at full force because these fragmented parts of myself, they lacked the extra mental capacity for boredom. That's part of why I hadn't split up golem making into so many tasks before this. It was for my own quality of life.
+
+I mean, who wanted to do the same thing over and over again? Not me, at least typically. In the case of these miniature minds, they handled the grunt work while I kept everything together. This also stretched the limits of what A Manifold Mind could do, which trained the skill. That was good since I wanted that mythical ability to be as strong as possible.
+
+This process also exposed the skill's limits. I couldn't make infinite minds at full power, so at most, three to four of them revved at around 70% efficiency. Yeah, that was still an unreal efficiency boost, but I wasn't going to net something crazy like a one hundred times faster golem making process.
+
+I wanted to, however, so I pushed my limits. Eventually, I hit a wall where any more minds formed would make my mental capacity minuscule. So tiny, in fact, that they'd be unable to accomplish anything. It was kind of scary, as once I split myself apart, it became difficult to pull myself back together. I could end up like a confused Hydra, walking around with innumerable heads but no central brain for functioning.
+
+Keeping that in mind, I made sure one thought stream was large enough to fuse the others back together. Operating within those bounds, I got myself back to work. Each part of myself handled different aspects of the process, and my super golems ran simple stuff simultaneously. For my material gathering, I gave strips of skin to one golem to hold. Another golem helped hover these strips up as I melted them. Several other golems then suspended different parts of the golem.
+
+Once those parts solidified, another golem floated the pieces into their proper arrangement. A different super golem pulled parts of the heated mass and used my gyrating ball technique to make spheres. He got out ten at a time, and the largest of my minds charged the runes for cipher inscriptions onto those cores.
+
+This energizing process took up the majority of my mental effort. Invigorating the cipher required holding a certain mindset the entire time, and doing so required concentration. From that difficulty and others, I learned a lot. For one, splitting up the tasks like this showcased details about golem making. Some parts took up many times more mental capacity than others.
+
+For instance, most of the molding parts required minuscule amounts of attention. The material was good, and it required little shaping or precision. On the other hand, charging runes for several cores at once took up at least half of my mental faculties. Handling this many golems at once also exhausted me. After a few hours of this work, I needed an actual, genuine break for once.
+
+This wasn't just a pause without cause; my mind needed some rest. To help get my mind refreshed, I walked through nature for a bit, clearing my head. This left me rejuvenated to start up once more after fifteen minutes. I continued this cycle, generating golems at a rapid pace. These refinements built on one another and my skills accelerated the growth too. At the same time, I empowered my legions below using Rise of Eden.
+
+After a few days, I completed another facility during the night for the engineers, enjoying the job change. I kept this cycle up for the next week, falling into a work heavy trance. Days and nights passed, but I kept my head down, grinding the entire time. It left me fulfilled since I used my full abilities for once. Unlike what I'd done recently, I couldn't let up while making golems, at least like this. It required every bit of my faculties; else, I made common mistakes the entire time.
+
+It left me tired by the end of the week, but I was proud of what I accomplished. I kept up contact and calls with Althea, Torix, and my primordial teachers as well. In line with that progression, I quintupled my golem production, creating two hundred or so warriors. As I focused in, I lost the exact count. They were many, however.
+
+Those super golems improved over my last design, being registered as level 14,000 by Schema. This wasn't from a design fix but merely from my raw stat total rising. After all, their materials improved as mine did. This gave me a delicate balance after this. I needed levels for more stats, and that would permanently make my golems better.
+
+Keeping that in mind, I bided my time while getting ready for Blegara's siege. I handled other business while this passed as well. The gialgathens' armor took up less time than the golems since they required no cipher etching. Basically, the Omega Strain rings took literal minutes since I could mass produce a hundred with each batch. I just made them like Ophelia's ring, and it made our guildsmen stronger.
+
+That was a point worth mentioning; their strength was my own. Even more so, my guild peoples' letters gave me a lot of motivation. Some of their thank you letters just floored me. These ordinary, everyday people evolved from the ring's stat boosts alone, not even mentioning the powers they granted.
+
+For specific individuals, the Omega Strains made them even more potent too. It gave me a smile on my face, seeing how our guild saved a family or helped someone find their way. That transparency for what I accomplished, it kept me going strong. It was hard to burn out when I was getting this much fuel to keep going.
+
+Either way, we prepped everything for Blegara by the end of the week. I gave myself a break for a few hours before the siege, and that's why I leaned against my golem center, looking at the stars. Everyone else rested while my mind wandered endlessly. I glanced at the lights above and wondered what planets were there. It was awe-inspiring, which made me feel smaller, but in a good way.
+
+Waking me from this trance, a message from Obolis appeared.
+
+Obolis Novas, the Finder of Secrets(lvl 24,629(Cap: 27,000) | Class: Founder | Guild: The Empire) - I hope you're doing well, Harbinger. To skip further pleasantries, I ask you to forgive my bluntness - my ability to wait is waning. We lose throngs of albony every day, many of my people dying. The war effort is far from over, but the heavy losses and lack of progress are killing morale. I promised my people you'd help us. They are beginning to doubt.
+
+As am I.
+
+While I understand you are caught in your own machinations, I ask that you hurry with your tasks at hand. We need the ahcorus to assist us. Further delays might mean our undoing, and to prevent that, I ask you to go to Svia and speak with Wrath. I can facilitate that meeting if required.
+
+Please respond forthrightly.
+
+I flinched while reading his message. He was definitely right about me taking my sweet time starting his mission. I opened my own status, feeling guilty given the situation,
+
+Daniel Hillside, The Harbinger of Cataclysm(lvl 15,000(Cap: 25,000) | Class: Sovereign | Guild: The Harbinger's Legion) - Hey, sorry. I'll lease ten of my super golems right now as an apology. What would be a fair offer for you?
+
+A message popped up within seconds.
+
+Obolis Novas, the Finder of Secrets(lvl 24,629(Cap: 33,000) | Class: Founder | Guild: The Empire) - Well, I can see you've gained a class, a variant of the Ruler class at that. Welcome to the council, and I could help you arrive there with the correct impression if you'd like. Just as well, I pray that your strength will be in our favor.
+
+For the golems, I am willing to pay 1 million credits per golem, per month leased. I can send those payments preemptively if required.
+
+That was enough money to buy quite a few dungeon cores, something I still needed after blowing my fortune on red ones. At this rate, I could chip away at my core fulfillment while helping the guy out. It was a win-win situation.
+
+Daniel Hillside, The Harbinger of Cataclysm(lvl 15,000(Cap: 25,000) | Class: Sovereign | Guild: The Harbinger's Legion) - That sounds good to me. Before that, can we meet up soon for the Blegara transferral? I want to start a siege there before heading over to Svia. With a bulwark made, I think we can gain some serious ground there over time. That helps us both.
+
+Obolis Novas, the Finder of Secrets(lvl 24,629(Cap: 33,000) | Class: Founder | Guild: The Empire) - I shall make it so. Can you have an arrangement now? I'm at my study, and I'm currently busying myself between two other meetings, which are something I'm not particularly fond of. They are an unfortunate necessity given my position.
+
+I looked around, finding myself just loafing around for once. The stars shined overhead, satisfying fatigue washing over me. Yup, I definitely had time.
+
+Daniel Hillside, The Harbinger of Cataclysm(lvl 15,000(Cap: 25,000) | Class: Sovereign | Guild: The Harbinger's Legion) - Here are my coordinates. We can hash this out real quick—also, meetings. I have so many of those nowadays, so I can understand your pain.
+
+I waited for a few seconds before a portal popped up in my vision. Through it, Obolis's personal study showcased itself again in all its glory. Amidst the luster of foreign ores, the sheen of rare armors, and the solemn quiet of his underground bastion, I paced through. On the other side, the fur over Obolis's neck stood on end as I strode in.
+
+He peered up from his work slowly, eyeing me with an air of suspicion. His eyes widened before he returned to his usual, unshakable confidence. Obolis steepled his fingers,
+
+"Well, you appear quite different. I've heard the phrase that a class changes people. You appear to embody the sentiment."
+
+I stepped up to him, "It helped me out, in more ways than one. It took a long time to unlock as well, but it was worth the wait. I'm not the only one making progress, though. You gained a few levels too since I last saw your message."
+
+Obolis raised his eyebrows, "That is inevitable, given my ongoing war with Elysium. Though I am adept in combat relative to most, I never fancied myself as a warlord like some Rulers. I prefer a more economic and informational form of combat. I've found it works well, and it requires far fewer sacrifices and compromises than most battles. That being said-"
+
+Obolis leaned forward, "I find myself in need of a fighter, and soon. When can I expect your help with the ahcorus?"
+
+"A week."
+
+Obolis leaned back before mulling over some information in his head. He nodded, "That's acceptable. Your super golems should act as buffers until then. I would prefer a quicker arrival, however."
+
+At this point, my class's changes showcased their results. I found myself staring at Obolis with ease, no pressure coming my way. Whether from my new awe stat or only from the other attributes, his presence didn't command me as it once had. If anything, I sensed the opposite. While Obolis controlled his body language and inflection without fail, his body reacted like prey.
+
+His heart rate rose. His fur bristled. His eyes dilated. I found signs all over that he was struggling internally while he downplayed the difference my class made. He was one of the few people I could talk to without exerting this passive pressure, so an inkling of sadness crept up my chest. I held it down as I raised an eyebrow,
+
+"How many elemental furnaces could I expect to get by the end of our deal?"
+
+Obolis leaned back, staring at his claws for a second. He calmed himself, and he no longer showed those same signs. I let out a sigh of relief while he tapped his talons on his desk. He stated,
+
+"I can grant you eight."
+
+I tilted my head, "How about ten?"
+
+"I need them for the war I'm waging. They don't grow on trees, as you are already well aware."
+
+I leaned back, "Hmm, I wanted the furnaces before since they multiplied my mana growth. They don't multiply my mana anymore, however. My mana generation exceeds the furnaces now, so I don't need one of them anymore. I need many."
+
+Obolis's eyes widened, "I see...Then what else could I offer you in their place? I can't afford to turn them over, but there are other resources at my disposal."
+
+I raised a hand, "You know plenty of different worlds, right?"
+
+"Yes. I've parsed the stars many times in my pursuits. What do you need to know in particular?"
+
+I spread out my arms, "Can you give me the coordinates for a few worlds close to being terraformed and aren't overly...I don't know how to say this, 'fringed' I guess? I want to convert dangerous worlds, and I'll colonize them instead of taking over established places."
+
+"Ah, you mean like Blegara? The eldritch rule, but not overly so...Hm, you'd probably be searching for a world more infested than theirs, however. Something more like the ahcorus, where Plazia rules deep underground. By freeing those places, you add to the galactic volume of planets instead of fighting for what's already there. Noble, but difficult."
+
+"Yeah, that's exactly what I'm trying to do."
+
+"I can arrange that. I even own several solar systems where those barren worlds reside. I've considered terraforming them myself, but the economics simply didn't go in my favor. That overruled any other reason for colonization. Your golems could act as pseudo Fringe Walkers, however. If you can find the necessary resources, you may be able to feed a planet as well."
+
+I reached out a hand, "Give me ten of those planets and the resources to terraform. Do that, and I'll settle on five furnaces. You can even choose fringe worlds near your own planets. I'll take those, clean them for you, and your worlds will be safer for it. If you have them, I need terraforming information as well. Anti-fringe world procedures and documentation would also help."
+
+Obolis stood before interlocking his hands behind himself. He walked through his chambers, staring at the unfully formed Ruhl to his left,
+
+"I could arrange that. There exists a gas giant in our home system, one rich in oxygen. Harvesting those gases could grant atmospherically poor worlds the option to thrive. Water exists on Blegara, and that will do for now. You could bring life from other worlds as the start of these ecosystems if required."
+
+Obolis shook his head, "I would need further compensation for such a transaction, however. Worlds, as you may imagine, are difficult to come by. Could you guarantee trade deals with us on your settled planets to facilitate the deal?"
+
+"Trade deals like the ones for Blegara, where the albony are first come, first serve?"
+
+He gave me a gentle grin, "You know, I preferred negotiating with you when we first met. Now, it's become quite the ordeal, where many variables are at play." Obolis reached out a clawed hand, tapping the glass,
+
+"But it is interesting to bounce all these possibilities around in my head. I could offer you the worlds for that sort of exchange. If I do so, you'll be required to clear the fringe worlds first for my planet's security. That will make this arrangement feasible, and as you mentioned, I may offer worlds that passively benefit mine as well. It's always a blessing when fringe worlds aren't nearby. The eldritch that spawn can be world ending horrors."
+
+Obolis turned to me, "As you've seen."
+
+I remembered the Spatial Fortress, and it would be even worse if it was uncontained. Pushing that aside, I kept the conversation rolling by reaching out a hand,
+
+"Do we have a deal then?"
+
+Obolis shook his head, "You're not one for chatter. Hmm, I can arrange this. I've also drafted up the documentation for Blegara's transferral to you. It comes with a contract that I had shortened for ease of understanding. Not every individual may be a system lawyer, as you know, so I kept that in mind."
+
+I nodded, "Send it over. I'll read it."
+
+Obolis fiddled with his status, and the message popped up. I opened the documentation, and it carried a hundred-page long abstract detailing the contract. I frowned, "Ok, so this is the shortened version?"
+
+Obolis laughed, "Hah, did you think a contract for a planet would be insignificant?"
+
+"Not really, but maybe the shortened version wouldn't be a half-hour read."
+
+I narrowed my eyes, staring at the document.
+
+"Or maybe three minutes. Huh..."
+
+I spread out ten consciousnesses, and I opened twelve pages at the same time. Pulling them all to reading, I got a grip on the deal's contents within five minutes. Closing out all the abstract, I raised an eyebrow,
+
+"It mentions an embassy in the capital and that the albony there isn't punishable by the laws on Blegara. Why?"
+
+Obolis leaned back, "I see you've been working on your mind as of late. Hmm, the reasoning for that legal practice is the differences in culture. The Vagni carry strange, nonsensical laws. I don't want my citizens to be at their mercy should they break the local customs. In subsection B6, you'll note the albony there are still subject to the Empire's laws, which are more than stringent, I assure you."
+
+"Alright, just making sure."
+
+I reread the document a few times, and my different minds argued back and forth, presenting the pros and cons here. After ten minutes, I came to a consensus - this was the deal we arranged. However, I wrote up an addition to the contract, one written in the cipher. It was a simple yet effective section about good faith, where both of us were held accountable for our earlier conversation.
+
+Now, I wasn't the biggest fan of cipher contracts. My deal with Yawm put me in a terrible position with Schema, but at the same time, I understood their value. The cipher relied heavily on intent, and that's exactly what I needed. I didn't want Obolis to rope me into some ridiculous, fine print using his lawyers. This, er, addendum ensured I wasn't getting cheated, and it saved me a lot of time since I didn't need to reference a lawyer for it.
+
+While I planned it out, I waved at Obolis, "Give me a minute. I need to add something to the contract."
+
+Obolis nodded, "Certainly."
+
+Obolis worked as I ironed out the cipheric inscription in my head. He held a meeting where he spoke about various dealings on his worlds, learned about war fronts, and discussed new leads for expeditions. He still kept pertinent details silent, using the thought based messaging system from Schema. It was interesting seeing how he managed everything, however.
+
+As I finalized the cipheric inscription in my grimoire, Obolis paced up and watched me write. We talked while I etched.
+
+Obolis murmured, "That is by far the strangest grimoire I've ever seen. It's...metallic, and the different colored pages serve different purposes, do they not?"
+
+"They do. One's for cipher documents while the other pages are for normal runic work."
+
+"I imagined you'd be more of a brute regarding this kind of task. You actually carry quite a bit of talent for this, at least as far as I can tell."
+
+I frowned, "Thanks, I guess."
+
+Obolis leaned over towards my ciphering, "You write out the lines, and I can trust them. That, that is a rare thing for me to do, and it speaks to your ability."
+
+I shrugged, "I figured out a long time ago that I was good at runes. I beat out Torix in them despite him being better at 'bookish' stuff. According to Helios, you're quite good with the cipher as well. You made his gauntlet."
+
+"Hm, in a manner of speaking, yes. That was based on other elemental furnaces I'd seen rather than my own work. Beyond that, I can manage simple inscriptions involving most topics, but creating depth with it is still beyond my grasp. I feel this as a mental block more than one in ability."
+
+"Why would you hold yourself back?"
+
+Obolis closed his eyes, "I've seen the cipher's consequences first hand, and I'd rather not deal with them, despite the tempting rewards it offers."
+
+I finished the etching, "Ok, I can understand that. The runes are scary as all hell. I remember Yawm was covered in them, and they warped his mind, body, even his soul. He wouldn't have been as...unhinged, otherwise. I'd hate to have the same happen to me."
+
+Obolis's eyes narrowed, "Yet you carve them into your skin?"
+
+"It's different. I made these. Yawm didn't make his own. He relied on something he didn't understand, and it corrupted him. I'm not letting that happen to me."
+
+Obolis tilted his head, "I supposed that's right, and it's a shame, truly. I read Yawm's story and what happened to him. Yawm was a being of purpose, ambition, and brutality. His inability to show restraint regarding the Old Ones was what led to his eventual downfall. I can understand his mistakes as I almost walked down his same road."
+
+My mana roared through the pages of my grimoire, and I actively cooled it using quintessence while charging the document. Otherwise, it would melt. As I did, I raised a brow,
+
+"So you wanted infinite power from the Old Ones too?"
+
+Obolis raised his palms to his defense, "I wouldn't word it quite like that. For me, I always wished to be an explorer, even in my youth. To that end, I committed to a path that gave me absolute freedom. I questioned how to go about seizing that freedom many times, and in the end, conquering came out as the only answer. Exploring requires resources, and dominance provides that."
+
+Obolis shook his head, "And so I went about the accession of others. I did so many times and on so many worlds. I now own thirteen, though it'll be twelve soon. As I've gained ground, I've refined my approach, and as I've aged, I learned how to manage these people within my means. When I first began my search for domination, I was dissimilar to my current self."
+
+I finished the runes, a glowing series of symbols floating off the page,
+
+"Ah, I remember one of your titles is the Carnage of Olstatia. I'm guessing there's some history behind that."
+
+Obolis winced, "There is, though I'd rather not speak of it."
+
+I opened my status, the contract opened in view. I squinted at it, remembering the deal wasn't actually written down. Trying out something, I pulled the glowing runes over, and they created staticky ripples in my red HUD. The documentation changed, the additional cipher markings assimilating across all domains. Obolis scratched the side of his head,
+
+"That's quite odd."
+
+"I'll be honest, I didn't know if that would work or not. It saves us some time, though, doesn't it?"
+
+"Indeed, it does." Obolis went silent for a moment, his mind wandering to distant memories. He sighed, "Daniel, I know it may be out of turn for me, but I'd like to offer you some advice."
+
+I raised my palms, "Oh man, don't hesitate. I need all the help I can get."
+
+"There's wisdom in those words, and they apply to everyone. As for my advice, I want you to understand something. You, you're in a similar position to where I was centuries ago. However, you carry more potential than I did."
+
+"Don't sell yourself short."
+
+Obolis smirked, "Your words are hollow, Harbinger. My point is, you're in a position of great responsibility and potential. I would imagine that you feel liberated with possibilities as if there are no horizons that may weigh you down. Before you march forth, know this - our mistakes now will result in regret."
+
+That sounded obvious, so I raised my brow, "I'll keep that in mind."
+
+Obolis smiled, "I believe my point requires more emphasis, hm? To elaborate, I'll share some research with you. Did you know that many unaging immortals die by suicide before reaching a thousand years of age?"
+
+I tilted my head, "How are they immortal if they can die?"
+
+"There are many different kinds of immortals. Most are simply immune to death via several perks that extend your life span by killing eldritch. You have this perk already. You'll be considered immortal like any sentient if you live past a century and showcase no signs of aging."
+
+Obolis walked back and forth, "Schema can keep anyone alive if they continue slaughtering monsters, which is trivial after a certain point. This leads to a certain kind of timeless sentient, one that may die from trauma but not from the unending march of time. You stand at the crossroads between that immortality and true immortality."
+
+Obolis stared at several glowing poisons lined up for display near us,
+
+"I would be horrified by that prospect, as you may be. Eternal life is both a curse and a blessing, as you may never end your existence should it grow too painful to bear. That's the reason most unaging immortals never live to see a thousand years of age - their pain outgrows their ability to cope."
+
+Obolis peered around the room, "And in that manner, that is the outcome I most fear. To die in battle or exploring an unseen path is a noble and becoming death. To end one's life out of regret...It's a sad way to leave this existence. I wouldn't wish it on my worst enemy, even those in Elysium."
+
+Obolis turned to me and spoke with a voice carrying a distant sadness,
+
+"Try to live your life without regret. It's something that you can never be cleansed, and it will follow you until you die. I'm of the opinion that it's worse than being trapped in a cage, because unlike a prison, you may never escape regret. It will follow you with a single-minded pursuit that is unending and eternal like a ghost."
+
+Obolis's eyes went distant, "And those ghosts will drag you down until you can no longer stand."
+
+A silence passed over us, and his words soaked in like poison on exposed skin. Hearing him reminded me of Springfield, Michael, Kelsey, and even my relationship with my father. I carried those failures like wounds, and I beat myself over the head with them from time to time. Peering at Obolis, the unaging immortal probably had far more burdens to bear, and by the sounds of it, they wore him down.
+
+I gave him a solemn nod, giving his warning heed.
+
+"Thank you for the advice. I'm taking it to heart."
+
+Obolis gave me a sad smile, "Good, good." Obolis turned to his status, "Ah, I'm needed elsewhere. Of course." He gestured a hand to me, "This was an unexpected talk, but it's fortunate we were able to have it. As always, it's been a pleasure."
+
+"Same here."
+
+Obolis pointed down his hallway, "You remember the way out, I imagine?"
+
+"I do...Obolis?"
+
+"Yes?"
+
+"You know, I think about it too sometimes. My mistakes that is."
+
+Obolis scoffed, "Oh, you could tell I reminisce from time to time?"
+
+"I can. I do the same. Something that helps me is remembering that I can't know everything. I can only know what I know right now. That means that the decisions and mistakes I made, they were still the best outcomes I could have, given my situation."
+
+I waved a hand, realizing I was trying to give advice to someone who outdid me in experience by orders of magnitude,
+
+"I, uh, I don't know. It helps me sometimes."
+
+Obolis froze in place for a moment. He grabbed his jaw, "I'll keep that in mind. It was good chatting, but I must be on my way. Goodbye."
+
+I walked out of his chambers, reaching the rotating stairway. Stepping down towards the warp, I reflected a bit on what I'd done lately. Hearing Obolis like that made me more thoughtful about my actions. Either way, I reached the warp with my mind racing in many directions.
+
+Our Omega Strain divisions all carried rings, and we numbered over a thousand strong now due to Torix's marketing. My golems numbered in the hundreds, and our gialgathens were now armored. With my class, I'd be unleashing devastation on a regional scale as well. Plus, I could gain a few levels from taking out the Hybrids. That was always a plus.
+
+Knowing all this, I stepped out of the ionized air of the warp-drive. I rolled my shoulders, my eyes widening at the thought of battle. Trying out my new abilities, the prospect left me brimming with anticipation. I gripped my fists as I opened my status. With a quick thought, I sent a guild wide message,
+
+Daniel Hillside, The Harbinger of Cataclysm(lvl 15,000(Cap: 26,000) | Class: Sovereign | Guild: The Harbinger's Legion) - Blegara is ours now, and we're going to retake it, one triumph at a time. We wage war tomorrow, so be ready for blood, destruction, and most of all, victory.
+
+I closed my status while the sun rose in the distance over the hills. Before the day was over, Elysium would know what we were capable of.
+
+They all would.

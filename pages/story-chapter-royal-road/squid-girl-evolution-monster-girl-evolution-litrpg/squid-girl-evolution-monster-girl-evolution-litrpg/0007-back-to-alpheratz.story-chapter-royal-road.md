@@ -1,0 +1,117 @@
+---
+id: fa547c1d-1aab-56ca-be2f-ae5dc32053df
+page-type-slug: story-chapter-royal-road
+title: "Back to Alpheratz"
+slug: 0007-back-to-alpheratz
+partOf: squid-girl-evolution-monster-girl-evolution-litrpg
+position: 7
+ownLength: 1724
+unit: words
+publishedAt: 2025-09-07
+link: "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2582299/back-to-alpheratz"
+royalRoadId: "2582299"
+---
+
+- Alpheratz Hyper-Gaol -
+
+I blinked my eyes a couple of times, but while the world disappeared with each blink, my hud—and the splash screen, persisted.
+
+"How did I get here?" I asked aloud.
+
+「 System: to enter the dream of Azathoth for the first time, you need to choose to open the gate 」 started the familiar voice. I let it prattle while I explored the perimeter.
+
+The area seemed to be a safe zone now. A gas-lamp shined a pale blue light - that was new, and no more enemies seemed to have appeared.
+
+A huge brick wall seemed to fence in the medieval-style city, casting an oppressive shadow over the Gothic architecture. Despite the battle scars, the fortification held firm, though whether it was an impenetrable bastion or an ashlar prison, I had to wonder.
+
+"So it's because I'm asleep then? What happens when I return? Am I 'logging into' the dream, or 'being summoned' here?"
+
+「 System: It's closer to 《 logging in 》 — your ID is summoned to the dream which then conforms to it; awakening outside the dream will return your ID to your body. To, summarize, you dream when you dream. 」
+
+"Thanks for the TLDR..." I sighed, peering around the corner. The square might be a safe space, but out there the fog was a screen, homogenizing the supple shapes and shifting shadows against its marbled grey.
+
+My destination was readily apparent - Dominating the skyline loomed a limestone tower, its appearance like a solitary bishop upon a chessboard. It alone stood unweathered, casting its gaze not outward, but over the city.
+
+「 System: I must warn that there is a state of transfer—a sort of 'waking dream' where you will be most vulnerable. Do make sure to leave the dream in a safe place. 」
+
+"Well, What happens if something happens to me on this side?" I asked. My attention was focused, but the chatter helped alleviate the tension.
+
+「 System: Your death in the dream would mean that your ID will be irreversibly damaged. 」
+
+While I walked with intent, my breath was shallow with gnawing dread. The air was thick with the acrid scent of smoke and gunpowder from recent battle, and the ruddy overcast sky cast a suffocating darkness over everything.
+
+The thunderous crack of distant cannons could occasionally be heard, but the siege seemed to be waning for the moment. I almost jumped out of my skin when I saw something moving around the corner of the labyrinthian high street, but what my paranoia perceived as an enemy, was just bunting in the wind.
+
+“Really, who hangs bunting in a siege!?” I couldn’t help but yell. Could Alpheratz have been in the middle of a festival? Why was this place a ‘hyper gaol’ – just what was sealed here?
+
+I was sure that my questions would be answered if I just found my way to the tower, but it felt like every street I followed, every road I crossed, lead me to dead end after dead end—I was being funnelled along like a rat in a maze.
+
+I’d managed to avoid encounters so far, choosing empty tunnels and sneaking low and quiet, but, “Hang on a sec”, I muttered under my breath. This alley was different.
+
+I could see something—grey and squirming, convulsing like a wad of gum getting chewed up, so I instinctively slipped behind a crate. Was that a body? Is it eating someone? I don’t want to be its next meal, but I can’t see any other way to go either.
+
+The thing sang a strange song of coos and trills, clicking and scraping away. If I’m going to fight it, then I need a weapon—throwing my tentacles into something so amorphous would be dangerous. Just as I was thinking so, another distant impact shakes the air, and the amorphous blob breaks apart and takes to the sky!
+
+“It was a flock of… pigeons?” I laugh, letting my tension fly with them. But still, the birds removed from the scene, that was absolutely a body that they were eating. Ugh… I wrapped my tentacles around my face like a scarf, trying to ignore the stench, the need to gag or throw up, and grabbed the item with a trembling fingers.
+
+「 System: Item: 《 Signal Flare 》 added to inventory. 」
+
+A quick swish of my menu pulled up the item description; What the hell, did Miyazaki come up with this?!
+
+「 Signal Flare
+
+A glass thermos bears a catalytic formula impregnated by alchemical components. When the pin is pulled, the formula is activated.
+
+This fusion of alchemical and mechanical technology is the brainchild of the infamous heretical sorcerer of Alpheratz, whose grenade design is equally well known in trenches as in mines.
+
+This specific device when activated, becomes a shining beacon until the components are used up. While they were designed to bring light in times of dark, the Mirachi spies used them to designate targets for their engines of war. 」
+
+As I poured over the unnecessary world building, I sucked in a breath. This was a gank. With barely a breath to spare, a figure lunged from my blind spot, swinging with a blade as thick as my body, trying to cleave me in two.
+
+I threw myself out of the way, sliding, rather than rolling, and kicking up a puff of dust and debris.
+
+【 HP: 84 】
+
+My health dropped a mote in response to the poorly executed manoeuvre but looking over my shoulder, the enemy’s details came into focus.
+
+《 Ghoul headsman 》
+
+It was nothing like the zoog. No, this guy had little legs, apelike arms, and wide shoulders atop a squashed torso. He looked like a man who’d been pulled and pushed into an un-man-shaped package and left to set. His ashy, verdant skin festered with sores and open wounds and his splint mail sloughed from fraying leather.
+
+I took what I felt like was a grappling stance—wide shouldered, with a low centre of gravity, my arms raised to snare a foe, my tentacles fanned out and poised like cobras. To my enemy, I probably looked like cat, puffing itself out to try and look intimidating.
+
+“Can you tell me anything about a ghoul?”
+
+「 System: The 《 Ghoul Headsman 》 has not been recorded to the logbook. Further analysis required. I would suggest consuming 《 Ghoul Headsman 》 — 」
+
+“Alright, you’ve told me more than enough.” I sigh, I can’t even imagine Sesha making this nasty thing look appetising.
+
+The Ghoul snarled down its wolf-like maw, spittle flying from between inflamed gums. It lurched forwards, raising its axe overhead with the momentum rather than pure strength—and nearly toppling as a result. The whole thing reeked of ‘tutorial enemy’, I couldn’t help but smile, my beating heart coming to rest with newfound confidence.
+
+The telegraph was received well in advance of the sauntering swing. I stepped around it, reaching with each of my ten tendrils, winding them around its trunk, its limbs, its neck and face— Hey, there’s no playing dirty in a real fight, alright?
+
+Just like with the zoog before, my hold was locked in, now all I needed to do was wait as his health bar dwindles. Woah. It’s taking a while! The DPS was negligible, his health pool must be insane. I guess grappling doesn’t resolve everything!
+
+Uwahh! Even weighed down in my tendril’s grasp, the Ghoul clambered back to its feet. I was hoisted like a sack. I struggled to unwind my tentacles from its surprisingly powerful frame, but before I could, it careened into the side of a house, using me as a battering ram.
+
+Both of us landed splayed amid a shroud of mortar dust and crumbling bricks. I clutched my stomach, gasping for breath.
+
+【 HP: 64 】
+
+Despite tumbling through the wall, smashing through the cupboard and landing in a heap, the barely-human thing seemed none the worse for wear. I wanted to yell, seeing my health bar plunged only 25%— Why does it hurt this much just for a quarter!? I cursed the developer over teary eyes, but now wasn’t the time for lying about, Crusty there hadn’t even bothered getting back to his hooves, he saw his chance, and came crawling, drooling up a waterfall!
+
+I felt around the wreckage for anything I could use as a weapon, a shield, to defend myself. One tendril wrapped around a vase, another grasped splintered timber, and the last clutched a book dense enough to contain the whole human language.
+
+「 System: Item: 《 Surtr [40/40] 》 equipped 」
+
+It barrelled over me, and reached a paw back like a bear, a bloodshot glower in his bulging eyes. I threw my whole left tangle of tentacles at the raised arm, pulling in close. First came the vase, shattered against his collar, second the timber conked off his head, the sound rattling around in his skull. His health dropped--still 2/3, Shoot, then the third, I swung the dictionary for all its worth, and it made impact with a crack like a bag of bang snaps going off all at once, and a flash like magnesium, set aflame. In the blast, I lurched one way, but he flew the other with such force I was dragged along. When we crashed onto a heap, I was on top, my tentacles binding us tight.
+
+I swung the book down, bludgeoning, bludgeoning again, no more flashes? A third wallop, and the ghoul finally gave up the ghost, the last drops of its health bar spent.
+
+Bwwwwww…. Ping Ping ping ping!
+
+Congratulations! Level up. 9 → 13
+
+My chest rose and fell with laboured breaths, my head was silent against the beating of my heart, what was that flash, what was that? I want to do it again! I swung the book and conked the downed monster one more time. Nothing. What the heck… What is it? My eyes were still swimming, but I held it up, opening its cover. No pages. Between two covers, thick as paving slabs, it was empty. It didn’t even have a title, just a gold-leaf illustration of a fire emblazoned on the cover. I tossed the useless artifact to one side.
+
+「 System: Item: 《 Surtr [0/40] 》 discarded 」

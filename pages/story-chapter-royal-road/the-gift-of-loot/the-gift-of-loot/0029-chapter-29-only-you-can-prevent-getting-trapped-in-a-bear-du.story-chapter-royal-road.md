@@ -1,0 +1,211 @@
+---
+id: 527e5496-2fbf-5fda-a50f-9c3197ff5692
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Only YOU Can Prevent Getting Trapped In a Bear Dungeon"
+slug: 0029-chapter-29-only-you-can-prevent-getting-trapped-in-a-bear-du
+partOf: the-gift-of-loot
+position: 29
+ownLength: 2784
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3419934/chapter-29-only-you-can-prevent-getting-trapped"
+royalRoadId: "3419934"
+---
+
+Thomas's adrenaline peaked, and for a moment it felt like he could see everything: the flash of guns, not only from the robbers pointing weapons toward him but further ahead. Three other robbers were lighting up the occupants of the first car.
+
+They killed them! They're going to kill me!
+
+A bullet pinged off the hood of his car, another shattered the windshield, and Thomas was punched in the chest.
+
+That was his first impression. It felt like someone had slammed him so hard in his chest that he was instantly winded. He involuntarily jerked the wheel, and the car skidded sideways across the road, though thankfully not parallel to the guy shooting at him. One tire hit the thin strip of dirt that made up the shoulder.
+
+More bullets struck all around him. No time to correct his car's angle. He'd have to pull forward, and he was being shot at.
+
+Thomas somehow clawed his seat belt off, grabbed his backpack, opened the passenger door, and ran. His hand had been covered in blood.
+
+Have I been shot? he thought frantically. Had that been the punch?
+
+He didn't know. In full flight mode, his mind felt completely disconnected. All he wanted to do was get away.
+
+"There he is!" he heard as he entered the trees. Thomas glanced back to see one of the robbers holding a handgun sideways at him. The man's eyes were a glowing neon blue. He was using a Gift.
+
+Thomas ducked behind a tree just as bullets ripped by.
+
+"That backpack is the fucking mother lode. Don't let him get away!"
+
+Thomas ran, or tried to. It felt like he couldn't get a full breath, and his entire chest burned.
+
+For a second, a comedy sketch flashed through his brain. Getting mugged? Throw a wad of cash to the side and run in the other direction. Easy peasy. It had been hilarious at the time, but the seconds it would take to pull his backpack to the front, dig in, and throw a bundle of crystals now seemed like a fatal amount of time. Plus, he wasn't sure he had the motor control to do any of it. His legs carried him forward, but his arms weren't swinging with the motion because...
+
+Because he had been shot.
+
+Thomas clamped down on his core. Healing energy flooded through him, and the next breath he took was a little easier; the one after that even better. He picked up pace, which was good because he could hear the crashing of people behind him. Thankfully, they'd stopped firing—
+
+Nope. A bullet struck a tree just to his right, exactly at head height.
+
+They're trying to kill me, Thomas thought, which was ridiculous because obviously, but a part of him was still incredulous.
+
+Less than three minutes before, he'd been just driving down the road, only keeping a lookout for drunks and maybe a deer in the middle of the road. There were definitely things he did not like about this new world.
+
+Thomas swerved and had to catch himself before he slid on a patch of pine needles. The movement jarred his chest muscles, and a flash of agony ripped through him.
+
+Yep. Something was not right there. Luckily, they'd hit his right side and not his left. That was probably why he was still going.
+
+Ruthlessly, Thomas demanded more from his healing core, and as he did, he felt a flicker from his healing sight.
+
+So, it didn't only work in dungeons.
+
+He concentrated and "saw" four men chasing after him, like hunting down a wounded deer.
+
+Christ, didn't they have anything better to do? Other people to rob? Other... evildoer stuff?
+
+Thomas's mind was starting to clear, and he spared a second to wonder if this had been a setup from the very beginning. Had one of the pawn shops tipped these guys off? No, they had the feel of a gang. Or maybe they were escaped prisoners, though he hadn't seen prison clothing.
+
+He had just been a random target until the guy with the freaky eyes yelled about his backpack. He probably had a Gift to identify valuable goods.
+
+Should he ditch his pack?
+
+No, Thomas thought. He had earned this loot. No one was going to take it away from him. Besides, unless they scored a headshot, he could heal. Or at least, that's what he hoped. His chest still burned.
+
+His healing sight returned something else interesting. There was a lone figure standing about a football field's length away, just... standing there. Guarding something.
+
+A dungeon! he thought with relief and joy, which was the exact opposite of what he ever thought he'd feel about an unknown dungeon. Whatever. He'd take it.
+
+Unfortunately, in that direction, the forest thinned and opened out into a meadow. That meant no cover from the people intermittently shooting at him. Thomas had lengthened the distance between them somewhat. It seemed like the robbers weren't used to running headlong through forests.
+
+City folk, come to prey on people returning to town, or those who had decided to hide up in the woods with all their valuables. It wasn't too bad of a plan. Their trap had sure snagged him.
+
+Either way, halfway across the meadow, he saw the figure of a National Guardsman standing before a dungeon, a rifle in hand. The dungeon was a weird orange and brown mismatch that kind of looked like sunset.
+
+"Help!" Thomas yelled as he burst from the trees. His voice was gummed up with blood. He ran, clearing his throat, waving an arm that had just started working again. "Help!"
+
+The guard already had an alert posture. Surely they'd heard the gunshots.
+
+Thomas drew closer and saw the guard was a woman in her late thirties, with ashy blonde hair visible just under her helmet.
+
+"What in the world is going on?" she asked, and the twang in her voice was pure Fargo.
+
+"They... they got guns!" he choked out. His healing was doing double time, but he was still out of breath.
+
+She stared at his shirt, and when he looked down, he saw his chest was a massive bloodstain. Then another bullet rang out from the line of trees.
+
+"Get inside," she yelled, stepping from the dungeon entrance. "But don't step outside that safe room." She raised her walkie-talkie and started to issue a report, but then another two shots rang out. She raised her rifle and shot back, but that only caused the robbers to shoot too. Apparently, they weren't afraid of exchanging gunfire.
+
+"They already killed people," he had to take a breath, "in the car ahead of me," Thomas said, coming to a stop beside her. He glanced at the dungeon clock. Five minutes until the next instance turnover. "They... They aren't going to stop."
+
+She looked at him, glanced back at the tree line where the figures were already emerging with guns raised. Cursing, she shoved him in and followed directly afterward.
+
+The safe room was just as large as the chipmunk forest fire dungeon. This was a level two.
+
+"Sir? Sir, plunk your butt down. You're going to need medical," she said briskly.
+
+He shook his head. "No time, they're going to follow us."
+
+"Then they'll get a surprise. Guns won't work in a dungeon."
+
+"I don't know if they know that." Plus knives worked just fine in dungeons, and what criminal worth his face tattoos didn't have at least one knife on him?
+
+"This is a level two dungeon," she said, and he saw the fear in her eyes.
+
+"I'm a level two..." Now he had a second to breathe and think, he reached into his backpack and drew out the mace. The spikes looked extremely... spiky and dangerous in the light. "I'll keep you safe."
+
+He hoped that was the case. There was no time to argue. He opened the door and stepped out... almost into the same scene he had left. It was a meadow with a very Sierra Nevada-looking forest, complete with Jeffrey Pine trees, a scattering of cedar, and some flowers in bloom. The only difference was there was a creek running through the dungeon meadow.
+
+And a grizzly bear taking a drink from that creek.
+
+At least, he assumed it was a grizzly bear. It was like three times the size of the brown bears he occasionally had to chase away from his apartment's dumpster.
+
+As if reading his thoughts, the grizzly swung around a truly enormous head to look at him. Its lower lip hung down, loose and sort of cute, but its eyes were beady and evil.
+
+"Good gravy," the woman muttered. "I hope you know what you're doing."
+
+Oh... right. She expected him to kill this monster of an animal with his level two might.
+
+Thomas was about to tell her 'Nope, plan's changed,' and 'Get back in the safe room', when the robbers appeared. They burst out of the door yelling... something. It was all harsh curses overlapping with one another.
+
+Thomas turned to them, yelled, "Catch!" and lobbed the mace at the first one. He caught it out of reflex, earning himself a double handful of spikes in his palms, and probably some to his chest and stomach. The other three would-be robbers pointed their handguns and unloaded, point blank.
+
+Or they would have, if the guns didn't just go 'click' with nothing happening.
+
+Thomas's healing sight told him exactly what to expect next. He shoved the National Guardswoman hard away.
+
+"Run!" he yelled, just as the grizzly bear plowed full force into him on its way to the other four juicy targets.
+
+It was a little like being run over by an SUV with claws. Because he'd been expecting the hit, he curled up immediately and somehow avoided being directly stepped on. Claws still got him, though, including one slice right across the top of his scalp. One of the robbers screamed like a little girl, and it was just pure chaos for a few seconds.
+
+Thomas shut off his healing sight just so he didn't have to "see" what his ears were already telling him. Then he rolled, again and again. Not the most dignified, but it got him out of the way.
+
+A hand grabbed his shoulder, and the guardswoman said, "Get up!"
+
+Thomas did, though he needed her help. He was dizzy, blood was pouring down his scalp into his eyes, and he couldn't see for a few seconds. She pulled him into some flowering yellow buckbrush. Hopefully, the musty scent of the flowers would obscure the smell of his blood.
+
+The grizzly bear had caught one robber directly and was slashing into the body like a horror movie monster. To the side, the robber who had caught the mace was seizing on the ground with white foam coming from his lips. The other two were gone.
+
+They probably hadn't made it back out the safe room door, though. That lay in shattered pieces on the ground, courtesy of the bear. Thomas hadn't even known the entrance door could be destroyed.
+
+Huh. You learn something new every day.
+
+"Are you okay?" the woman demanded, staring at him like she was shocked he was still breathing.
+
+His healing mana had been doing a lot of work. In fact, now that he looked inward, he saw there weren't nearly as many motes of healing energy as he expected. He squeezed down on his core again, and it gave a resentful boost, but it wasn't nearly enough.
+
+"Fine," he turned and spat blood to the side.
+
+That wasn't a good sign either. He felt sort of dizzy and disconnected from the horrors around him. Was that another type of shock?
+
+Thomas grabbed his backpack and thrust his arm in up to the shoulder. He felt around until the side of his hand caught a shock of recognition. Then he grabbed the healing crystal and immediately absorbed it. The rush of pure healing energy was a relief.
+
+The stuff from his core had kept him on his feet like an immediate triage, but it had all been level one quality, and he now had a level two body. This healing crystal he had absorbed was also a level one, but once again, quantity was a quality. He breathed out and forced the tiny bits of remaining wellspring mana to lend a hand, sealing up his many, many hurts without scars.
+
+"I'm fine," Thomas repeated, but then he started to cough. She tried to shush him, casting a panicked glance in the direction of the grizzly, but he could not stop. He had a lung tickle from hell.
+
+Then he gave one sharp cough and hacked up something hard and foreign into his mouth. Thomas spit it out into his hand.
+
+They both stared. It was a bullet.
+
+The bullet had lodged in his lung. That was... he would have to think about that later. For now, they still had to get out of this mess.
+
+Thomas started to stand. "I gotta kill that bear."
+
+"No, would you just sit down for a moment," she yanked him back down. "I can hide us, okay? It's my Gift."
+
+Thomas appreciated that, and if he'd still been the man he was a week ago, he probably would have taken that offer.
+
+"No," he said. "I want bear loot."
+
+Then he grabbed his pen knife out of his pack and marched forward. The bear was having a grand old time munching on the by-now extremely dead robber. Like many wild animals, however, it was still well aware of its surroundings and started to turn at Thomas's approach.
+
+Thomas clicked the button on the penknife and threw it like a dart in a bar game. The bear was a wall of flesh, and it was easy to hit the target. The ghostly image of the boss mimic erupted out and wrapped itself around the extremely surprised grizzly.
+
+Thomas withdrew his long katana from his pack and darted in to start slashing at every spot he could. The trick was to not stab between the mimic's many, many entangling limbs.
+
+It was a lucky slice to the neck that did it, and Thomas quickly stepped away to let the roaring animal bleed out. The only reason the bear didn't come at him with its dying breath was thanks to the boss mimic tying it up, but it too faded to ghostly shreds as the bear died.
+
+There was no way he could have defeated that thing alone.
+
+The entrance door was completely destroyed, and when he half-heartedly kicked over the largest piece, the safe room wasn't magically underneath it. They were going to have to leave via the exit door, but that meant getting through a room full of bears just like this one. And he had just used his one mimic. A boss, at that.
+
+"Give me something good," he muttered, poking around the bulk of the bear's body. Up close, it smelled like a dog that hadn't been washed in years. "Give me something I can use."
+
+There was a brown mana crystal sitting on top of it. Level two, of course. That was the only loot he'd gotten.
+
+"What do we do now?"
+
+He twisted, surprised to see the National Guardswoman standing only a couple of feet away. His healing sight had been off, and he had just... forgotten she was there.
+
+That was some good hiding ability.
+
+"Door's broken," he said, nodding to it. "I guess we just... take this dungeon slow and get through it. At least we can see in this one," he muttered, still a little annoyed over the mimic dungeon.
+
+Almost against his will, his eyes were drawn to the man holding the mace. He'd died sometime during the whole fight. Oh, sure, the grizzly might have sideswiped the guy in a blow Thomas hadn't seen, but he didn't think so. He'd had a reaction to those spikes.
+
+Yes, it had been self-defense... but still. He was dead because of Thomas.
+
+It was so much worse than killing a dungeon monster for the first time. Thomas wanted to apologize, even though the man couldn't hear him... and even if he could, he had nothing to apologize for.
+
+Tell the sinking in his gut that.
+
+He focused on other things. That mace was valuable. Thomas didn't want to touch it, or the sharp knives he saw on the man's belt. He definitely didn't want to look at the man he'd killed... but he couldn't afford to leave a good weapons behind. He went over and grabbed the mace.
+
+A glittering skill shard lay underneath.

@@ -1,0 +1,155 @@
+---
+id: f6906547-1fc1-534b-8163-a859103431e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 469: Bull in a china shop"
+slug: 0036-chapter-469-bull-in-a-china-shop
+partOf: rise-of-the-living-forge
+position: 36
+ownLength: 1834
+unit: words
+ownProgress: 1834
+publishedAt: 2025-08-07
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2499735/chapter-469-bull-in-a-china-shop"
+royalRoadId: "2499735"
+markedReadAt: "2026-06-29T19:59:36.591Z"
+---
+
+Rodrick left Earnst in bed.
+
+That was, he’d found, the best place to leave a body. There weren’t many more locations where nobody would blink twice at somebody lying still. That went doubly true when the bed happened to be placed within the manor of some stuffy noble.
+
+No servant wanted to be the poor fool that woke their sleeping master. Not many of them were brave enough to venture into the room to check just who it was asleep. After all, only a fool would lay down in a bed that wasn’t theirs.
+
+The old bed trick generally bought him time until night. That was far more than Rodrick needed today. Just a few hours would be more than sufficient. He did feel a bit bad about taking advantage of the servant, but such was life.
+
+It wasn’t about the methods. It was about the results — and Earnst was still alive. Esmerelda’s potion had knocked him right out. That was more than Rodrick could say for everyone else attending this party. By the time the sun set over the horizion, he got the very strong feeling that there would be a few more corpses feeding the earth.
+
+Rodrick strode through the Blacktongue’s halls. His clothes no longer bore the fancy frills of a pompous nobleman but the plain, worn suit of a weathered butler. Rodrick rather liked this uniform. It was rare that he found an outfit with quite so many pockets and fancy little knickknacks. One never knew when they needed three handkerchiefs, after all.
+
+I think I’ll keep this one.
+
+He jerked to a halt as a female servant stepped through the hall. She bore a large plate of pastries precariously in each hand as she hurried past him, heading toward the party.
+
+“Let me help you with that,” Rodrick said, plucking one of the plates from her before she could protest.
+
+The woman just gave him an appreciative nod before vanishing around the corner, no doubt already preparing to head back and grab her next load. There weren’t many groups that ate more than a bunch of nobles after a hard day’s work of doing absolutely nothing.
+
+Our tasks are far from over. The party should still be in full swing. As long as everything went roughly to plan, Thane will have defeated Drake in their match by now. Nobles being nobles, they’ll have brushed the whole thing under the rug to continue on with the party.
+
+After all, physical strength doesn’t truly matter to them. That’s what adventurers are for. Thane still isn’t in line to lead the Blacktongues. And if he accepted Arwin’s offer, then he’s off the table entirely. He’s essentially just turned himself invisible to anyone seeking to garner favor.
+
+That makes things easier for us. Means I’ve got two things left to accomplish before anyone realizes something is up.
+
+Rodrick headed down the hall with his new plate of pastries. With his free hand, he reached into his pocket and pulled out a small vial. He popped the top off before expertly flicking it across the pastries. Each one only needed a drop or two — and then the vial was back in his pocket, any trace of the addition erased.
+
+He didn’t actually know what he would use the pastries for yet. But it never hurt to be prepared. A pastry could get someone quite far in life.
+
+Even farther still when it had a sleeping agent in it.
+
+***
+
+“How are you doing?” Lillia asked, holding a glass of water out to Thane. The two of them sat at one of the many outdoor tables scattered throughout the courtyard. There were a rather sizable number of nobles staring in their direction. Fortunately, Thane had yet to notice that. “You look a little uncomfortable.”
+
+“Uncomfortable is a word,” Thane said. He took the glass from her but made no move to drink from it. “I don’t know if it’s quite the one I would have used. There are lots of other ones that might be better. I… I just left my family.”
+
+“And good riddance to them,” Lillia said. “They didn’t seem very bothered, did they? The party goes on. Life goes on. If you can remove yourself from a group that easily, were you ever really part of it?”
+
+Thane looked down at the drink in his hand. He didn’t say anything for several long seconds. Lillia didn’t blame him.
+
+The boy had just basically uprooted his entire life off the back of a battle high. Sure, it had been the right move, but she could only imagine how many doubts and fears were assailing him.
+
+Better this than to never get a chance to worry about those things because even a moment of distraction will see all your friends dead.
+
+Not that concentrating helped me save anyone. They died anyways.
+
+Lillia blew out a breath and gently clapped Thane on the shoulder. “They’ll be fine without you, Thane. Or did you miss the fact that your dear brother was going for killing blows during your fight?”
+
+“No. I didn’t. You’re right. It’s just…” Thane looked to the side. That was a mistake. He caught a glimpse of all the nobles staring at them. The boy immediately looked back to Lillia, his face paling a shade. “Shit. They’re staring at me.”
+
+“Of course they are,” Lillia said. “You just made Drake look like an idiot. They’re probably wondering how they can use that to get into his better graces.”
+
+Thane set the glass down on the table and let out a groan, burying his face in his hands. “Shit. What, are they going to challenge me too?”
+
+Lillia snorted. “Of course not. Did you forget what you just did? No. They’ll probably try to spill their drink on you or something.”
+
+“Of course they will,” Thane muttered. Then he went pale and grabbed his bag, pulling it closer to himself. “Wait. My bag isn’t completely waterproofed. My research—”
+
+“Relax,” Lillia said. “Nobody said you should let them douse you, Thane. You can protect yourself. You can move out of the way. There are a lot of ways you could go about navigating this that don’t involve just sitting around and letting them do what they want to you. Now relax. Take a deep breath and think.”
+
+“But—”
+
+“Forget propriety. You’re with the Menagerie now,” Lillia said sharply. She kept her town low, but firm enough that Thane couldn’t miss anything. “They’re not going to try anything while I’m here. They’re not that stupid. I’d rip them in half.”
+
+Thane’s eyes lit up. “Then—”
+
+“Which is why I won’t be sticking around,” Lillia finished. “Though not entirely the only reason. There are other things I need to deal with.”
+
+Thane’s shoulders slumped again. “But what am I even supposed to do? Fight back? I could kill them. That would stop them, and Ifrit’s weapons would let me do it.”
+
+“You could,” Lillia agreed. “Not the path I’d personally go with, but a viable one. You’d certainly build a reputation for yourself. I’m sure you could even argue it was in self defense. It would be rough, but we’ll all be in Milten soon enough. Good luck enforcing any laws there. Is that the angle you want to go for?”
+
+“What?” Thane’s face paled another shade. “No! I don’t want to kill them!”
+
+“Then don’t,” Lillia said with a grin. She rose to her feet. “You’re bright, Thane. Use those brains of yours for something other than hiding and researching, would you? It’ll be good for your health.”
+
+“How?” Thane asked desperately. “I don’t have any useful abilities for fighting yet. I’m still Apprentice 1.”
+
+“To be honest, you really don’t need any abilities to deal with scum like this,” Lillia said. Her smile fell away and she shook her head. “You just have to get a bit unconventional. There are a lot of ways to do that.”
+
+“Like what?” Thane asked. “Beat them to a pulp but leave them alive?”
+
+“Good idea,” Lillia said.
+
+“That was a joke!” Thane exclaimed. “I can’t do that!”
+
+“Why not?”
+
+“I — well, you know! I wouldn’t even be able to! How do I do that with a sword?”
+
+Lillia shrugged. “You’re smart, Thane. We’ve been over that. And I really do have some other tasks to handle. This is a very important party, after all. Just don’t forget that it’s important for more than just Drake. It may be a day early, but this is your party too.”
+
+“But…” Thane trailed off. He threw a glance over his shoulder, then looked back to Lillia. The worry in his eyes was clear. But, even so, he held back from asking her for anything else.
+
+The corners of Lilla’s lips twitched.
+
+Always worried about everyone else.
+
+“We figured you might have a bit of difficulty adapting to being unconventional,” Lillia said. “So we brought you some help. A role model. In… some ways, I guess.”
+
+“A role model?” Thane asked.
+
+Lillia looked over her shoulder.
+
+And, from the crowd, a woman emerged.
+
+Thane’s eyes went wide. He nearly instinctively covered his eyes. She wore armor, but he wasn’t sure if the word armor properly applied to her equipment. She had a bunch of metal scraps mixed with tattered leather hanging from the more… important bits, but by no means were her defenses anywhere near, well, defended.
+
+She had so much showing skin that she may as well have been walking around naked for the purposes of a fight — or just about any other matter.
+
+“That fight was fantastic,” the woman said, giving him a wide grin. She paused for a moment. “How old are you?”
+
+“Too young,” Lillia said.
+
+“Too young,” the woman agreed. She extended a hand. “I’m Vanessa.”
+
+“Thane,” Thane said meekly, trying to direct his eyes anywhere but Vanessa.
+
+“Wow. This is bad,” Vanessa said. “He hasn’t even given me a single good look. I’m honestly a little offended. He can’t be younger than… what, sixteen?”
+
+“By a day,” Thane said. A note of defiance entered his tone. “Just about exactly.”
+
+“Sixteen,” Vanessa repeated. “Yep. I’m offended.”
+
+“What?” Thane exclaimed. “Why?”
+
+Vanessa chuckled. “Just kidding.”
+
+“Good luck,” Lillia said, though it wasn’t clear who she directed the phrase at. With that, she turned on her heel and strode away before Thane could say another word.
+
+Thane almost reached out for her but caught himself before he could. His gaze flicked back to Vanessa — her eyes, specifically — and he swallowed. “You’re going to help me?”
+
+In response, Vanessa grinned. “They mentioned you might need some help in getting more… unconventional. And Lillia also said she’d pay for any damage I caused within reason.”
+
+“Why are you saying it like that?” Thane asked. “What do you mean? And what damage are you talking about?”
+
+Vanessa’s grin just grew wider. “I’ve never gotten to break a noble before. Oh, this is going to be good.”

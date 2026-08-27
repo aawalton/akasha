@@ -1,0 +1,427 @@
+---
+id: 49846347-4b08-5609-ad05-55219d430e42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50: Family"
+slug: 0050-chapter-50-family
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 50
+ownLength: 2951
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3445190/chapter-50-family"
+royalRoadId: "3445190"
+---
+
+Time was against me.
+
+Every second I spent on this parapet was a second the elves advanced.
+
+I sheathed the sword mid-stride and hit the wall stairs at a run, boots hammering the stone steps two at a time. The descent was reckless. One misstep would have sent me tumbling into the cobblestones below. I didn't care.
+
+The sentries at the south gate were exactly where they always were. I'd seen them without ever learning their names. The one on the left was the grumpy one, perpetually sour-faced, his jaw set in an expression of chronic dissatisfaction with whatever the universe had most recently done to offend him. The one on the right was the ledger man. Always scribbling in a small leather-bound book.
+
+Both looked up as I skidded to a halt in front of them.
+
+"I need a horse," I said. "The fastest one we have."
+
+The grumpy one's eyes narrowed.
+
+"You're on leave," he said.
+
+"I need to reach the front line."
+
+"You're on leave," he repeated, as if the word constituted a physical barrier. "Your officer explained before returning. Ten days."
+
+The ledger man looked up from his book.
+
+"There's a supply carriage departing for the forward depot in..." He checked something he'd written. "Twenty minutes or so. Perhaps thirty. The driver's still loading. You could ride along if..."
+
+"I don't want a carriage. I need a horse. Something fast."
+
+The grumpy one crossed his arms. The ledger man exchanged a glance with him.
+
+"The wall guard keeps mounts in the stable block," the ledger man said, tilting his head toward a low stone building. "Six or seven horses, rotated for mounted patrols. But you'd have to talk to the stable master. He isn't the kind to release animals without paperwork."
+
+I was already moving.
+
+"Good luck with that!" the grumpy one called after me. His tone suggested he considered the endeavor doomed.
+
+The stable block was small. Six stalls. The smell of hay and horse and old leather. A single lantern hung from a ceiling hook.
+
+The stable master was young. Unlike the one at the stables near the eastern gate, he seemed far more approachable.
+
+Even so, I had a clear idea of how the conversation would go. Horses were a scarce resource, and if any soldier went without, it would be the stable master who got punished. Bureaucracy was their safeguard, their shield against any soldier who might one day come back with a complaint.
+
+"I need your fastest horse," I said from the doorway.
+
+He looked up from the saddle he was oiling.
+
+"Garrison mounts require authorization from..."
+
+The gold crown coin was in my hand before he finished. I set it on the crossbeam of the nearest stall gate with a click that cut through his sentence.
+
+He looked at the coin.
+
+Looked at me.
+
+The coin vanished into his pocket. He jerked his chin toward the third stall.
+
+"Third from the left. She's the fastest thing in this building."
+
+The mare was already saddled. A lean animal, well-muscled, with intelligent eyes that assessed me as I approached. She was taller than the gelding I'd ridden in the previous loop.
+
+I swung into the saddle with more confidence than the last time.
+
+I kicked the flanks.
+
+The mare surged.
+
+She was fast. The south gate blurred past us.
+
+I leaned forward against the mare's neck, pressing my body low to cut the wind resistance.
+
+My mind worked while my body rode.
+
+The refugees were the key.
+
+Everything pointed to it.
+
+I didn't know what they were doing. Didn't know how they were connected to the attack. But the coincidence was too perfect to be anything but causation.
+
+I need to find them.
+
+The mare ate the road beneath us. The hills rolled past. The wind roared in my ears and the world compressed into a tunnel.
+
+I'd been riding for less than fifteen minutes when I saw the color.
+
+A point of brightness against the dull browns and greens of the hillside ahead. Wrong for the landscape.
+
+Pink.
+
+My heart hammered against my ribs.
+
+There.
+
+On a high hill that rose to the west of the ridge road, perhaps half a kilometer before the terrain descended toward the bunker entrance. A vantage point that overlooked the lowlands and the no-man's-land beyond.
+
+Five figures on the hilltop. Five horses grazing nearby, still saddled.
+
+That unmistakable pink hair, vivid even at this distance.
+
+I pulled the reins toward them. The mare responded instantly, cutting off the ridge road and plunging into the rough terrain of the hillside.
+
+I aimed for the far side of the hill. The slope that would bring me up behind the crest, hidden from anyone standing on top.
+
+The mare's hooves slowed as the incline steepened. I dismounted thirty meters from the top and climbed the rest on foot.
+
+The grass was wet with morning dew. My boots slipped twice. I caught myself on exposed roots and kept climbing, keeping low, staying below the crest line.
+
+Before I saw them, I heard them.
+
+Voices. Raised in argument. The words were Russian, a language I couldn't understand. But the tone was universal. Anger.
+
+I reached the crest and raised my head above the grass.
+
+They were twenty meters away.
+
+All five of them, arranged around something drawn on the ground.
+
+The drawing was elaborate. Lines and curves scored into the earth. The pattern was circular at its base, perhaps four meters across. Symbols marked the intersections.
+
+Four of them stood inside the circle.
+
+Pyotr. Nadya. Ivan. Anya.
+
+The old man's face was the one I saw most clearly.
+
+Beside him, Nadya stood rigid. Her hands hung at her sides.
+
+Ivan had his arm around Anya. The boy's face was blank. The girl's face was blank. Twin masks of nothing, the same masks they'd worn in the carriage from the front, covering whatever they felt underneath.
+
+Only Yulia remained outside the circle.
+
+She stood at its edge, her back to me, her pink hair loose and tangled around her shoulders. Her hands were moving. Gesturing, pointing at the circle, then at the others, then at the distant tree line to the south.
+
+She was arguing.
+
+With Pyotr. The old man was shaking his head. Whatever Yulia was asking for, whatever she was pleading for, his answer was the same.
+
+No.
+
+I could read it in his body even without the words.
+
+I vaulted over the crest.
+
+"STOP!"
+
+The word tore from my throat at a volume that startled birds from the trees below the hill. Every head turned. Five pairs of eyes found me at once.
+
+My boots hit the hilltop grass and I was running. Closing the twenty meters in strides that chewed the ground.
+
+"Whatever you're doing, stop! Don't—"
+
+Too late.
+
+Pyotr's hand came down.
+
+His palm pressed flat against his own chest. Nadya mirrored the gesture. Ivan and Anya, together, placed their hands over their hearts.
+
+The circle ignited.
+
+Light erupted from the scored lines in the earth. A deep, saturated gold that blazed upward from the ground like a sunrise compressed into a column.
+
+The pillar of light punched skyward.
+
+The column climbed. Ten meters, twenty, fifty. Until it pierced the low clouds above and kept going, a spear of gold driven through the belly of the sky.
+
+At the base of the column, where the light met the earth, a dome materialized. A hemisphere of shimmering energy that enclosed the four figures inside the circle. Its surface rippled like water, translucent enough to see through but dense enough to distort everything within.
+
+The mana hit me like a wall.
+
+Not a figure of speech. The density of the energy emanating from the dome was so overwhelming that my Mana Perception buckled under it. Every sense I'd developed over months of training, every refinement of my ability to feel the flow and texture of mana in my environment, was crushed flat by the sheer volume of what the ritual was producing.
+
+It was like trying to hear a whisper inside a hurricane.
+
+I was still running. Ten meters from the dome. Five.
+
+I reached for it.
+
+My hands hit the surface.
+
+The dome rejected me.
+
+The force was absolute. An expulsion. As if reality itself had decided I didn't belong within the dome's radius and had rewritten the physics of the hilltop to enforce that decision.
+
+My body left the ground. The world spun. Sky and earth traded places twice before I hit the grass eight meters from where I'd been standing.
+
+The impact drove the air from my lungs.
+
+I rolled. Came to a stop face-down in the wet grass. My ribs ached. My shoulder screamed where it had struck a half-buried stone.
+
+Yulia dropped to her knees beside me. Her hands found my shoulders. She turned me over with a strength that her thin frame shouldn't have possessed.
+
+"Kaspar!" Her face hovered above mine. Pink hair hanging down, framing features that were tight with panic. "You okay? You okay?"
+
+I pushed myself upright. Shrugged her hands away.
+
+"What did you do?"
+
+The words came out ragged. My lungs were still recovering from the dome's rejection and the impact with the ground.
+
+Yulia's mouth opened. Closed. Her eyes were red. The lashes were wet.
+
+"I'm sorry," she said. "I'm sorry. I'm sorry. I'm sorry—"
+
+"Yulia."
+
+The name stopped the loop.
+
+She looked at me. Her breath came in shallow hitches.
+
+"What. Is. That."
+
+I pointed at the dome. At the golden pillar that rose from its apex into the sky, blazing like a beacon that could be seen for miles. For dozens of miles.
+
+"Ritual," she whispered.
+
+"What kind of ritual?"
+
+"Elven ritual." Her hands twisted in her lap, fingers knotting around each other. "They... teach us. The words. Where to stand. What to do."
+
+The blood drained from my face.
+
+"The elves taught you this."
+
+"Yes."
+
+"And you did it willingly."
+
+Her jaw clenched. A muscle jumped beneath her cheekbone.
+
+"They say... if we do. If we complete. Reward." Her voice cracked on the last word. "They promise."
+
+I looked at the dome.
+
+Inside, through the shimmering surface, I could see the four figures. Pyotr stood at the center. His arms were raised, palms up, and his body was trembling.
+
+"How do we stop it?" I said.
+
+I was already on my feet. Already scanning the dome's perimeter for a crack, a gap, a weak point.
+
+I drew my sword.
+
+Drove the blade into the nearest scored line. The steel bit into the earth, cutting through the pattern.
+
+Nothing happened.
+
+The dome pulsed. The column continued to rise. The golden light didn't dim.
+
+I struck again. Hacked at the circle's outer ring with desperate, chopping blows that sent clods of dirt flying.
+
+Nothing.
+
+I reached for Mana Breath. Pulled the cool-mint burn deep into my lungs and forced it outward, channeling every drop of mana I could muster into my arms, my fists, the blade.
+
+I hit the dome.
+
+The sword rang against the energy surface like a bell struck by a hammer. The vibration traveled up the blade and into my arms and rattled my teeth. The dome rippled, barely.
+
+I hit it again. And again. And again.
+
+Each strike threw sparks of golden light that scattered across the hilltop. Each impact left my arms more numb than the last. The dome didn't crack. Didn't weaken. Didn't so much as shudder.
+
+"Yulia!" I spun toward her. "There has to be a power source. Mana crystals. An anchor. Something feeding the ritual from outside. If we cut the supply—"
+
+The tears were falling freely now. They ran down her cheeks and dripped from her chin into the grass.
+
+"No crystal," she said. "No anchor."
+
+Her hand rose. She pointed at the dome. At the four figures inside.
+
+"They are source."
+
+The words landed like a blade between my ribs.
+
+"Their mana." She struggled for the word. Pressed a fist against her own chest. "Everything inside. Ritual takes everything. Until..."
+
+She trailed off.
+
+"Until what?"
+
+Her eyes found the dome. Found Pyotr's trembling form at the center. The old man's skin had taken on a translucent quality, as if the light was shining through him rather than on him.
+
+"Until end," Yulia said.
+
+The word sat between us.
+
+I knew what it meant. Of course I knew. The meaning was as obvious as the light blazing from the hilltop.
+
+Until end.
+
+A sound reached us from the south.
+
+I turned.
+
+The golden column, this blinding pillar of light visible for leagues in every direction, had accomplished its purpose. Whatever signal was broadcasting, whatever door it was opening, whatever barrier it was dismantling, the effects were starting.
+
+In the distance, at the far edge of the no-man's-land where the dark tree line of the elven forest met the blasted earth, shapes were moving.
+
+Emerging from the trees.
+
+Crossing the kill zone.
+
+The runic mines weren't detonating.
+
+The automated defenses weren't firing.
+
+The ritual had cleared the path.
+
+I watched the tide begin and felt the same helpless horror I'd felt from the trench, except now I understood its source.
+
+"Was it worth it?" I asked.
+
+Yulia sat down in the grass.
+
+Her legs simply folded beneath her. She sat on the wet hilltop and looked south, toward the attack, toward the distant tree line, toward whatever lay beyond the forest on the far side of a continent she would never see again.
+
+Tears tracked down her cheek. She didn't wipe it away.
+
+Her hand rose. One finger extended, pointing past the forest. Past the front. Past the no-man's-land and the trenches and the bunkers and the war.
+
+"Family," she said. "Prisoners."
+
+Her hand dropped to her lap.
+
+"For them." Her voice was barely a whisper now. "Everything worth."
+
+I closed my eyes.
+
+For them. Everything worth.
+
+That's where we differ. I might have said the same in her place. However, I would never ask others to sacrifice themselves. And I have no faith in empty promises. I opened my eyes. Looked at the circle. Looked at the dome.
+
+I tried everything and got nothing.
+
+Below, on the lowlands, the tide was reaching the trenches.
+
+I could hear it now. The first detonations. The first screams. The distant crash of steel on steel as the forward positions engaged an enemy that outnumbered them by orders of magnitude.
+
+An elven spell struck the hillside below us. Then another. The vanguard had reached close enough to spot the ritual. The spells weren't aimed at the dome. They were aimed at the surrounding terrain.
+
+At me.
+
+A bolt of compressed air detonated ten meters downslope. The shockwave ripped grass from the earth and hurled stones into the air. A second bolt struck closer. A third.
+
+The elves crossed the front line.
+
+The Iron Cross positions collapsed one after another, like dominoes falling in a line that stretched from horizon to horizon.
+
+The mage appeared in the sky.
+
+The sphere between his fingers was small and perfect and absolute.
+
+Darkness got me once more.
+
+⌜ Initiating Curse ⌝
+
+⌜ Restarting Day ⌝
+
+I tried.
+
+More times than I'll ever have the courage to put into words.
+
+I tried with mana. Without mana. Reaching them faster. Slower.
+
+I did things I'm proud of — and things I will bury.
+
+It didn't matter. One of them always saw me. One of them always began the ritual.
+
+I tried to break the barrier. I tried to blast through it. I tried everything a man can try when the alternative is accepting the unacceptable.
+
+But the obvious had been staring me in the face all along.
+
+The obvious I'd been running from.
+
+And yet — here I was again.
+
+The wall. The dawn. The sword in my hand.
+
+The shaking was worse this time. Reliving the pain for another time was torture, even if I was used to it. But worst of all was knowing I had no other choice. I knew what had to be done, no matter how cruel it was.
+
+In my stomach. A churning revolt climbed my throat and pressed against the back of my teeth. I leaned over the parapet and dry-heaved.
+
+Nothing came up. I hadn't eaten.
+
+I straightened. Wiped my mouth with the back of my hand.
+
+My mind had already thought of a solution, though I wasn't sure if it would work.
+
+My hands found the three letters inside my coat. I descended the wall.
+
+The sentries were at their post. The grumpy one. The ledger man.
+
+I walked past the grumpy one without a word. His mouth opened to deliver whatever complaint the morning had inspired.
+
+I stopped in front of the other. The ledger man.
+
+I placed all three letters in his hands.
+
+He looked down at them. At the seals. His eyes widened.
+
+"Take these to Mira," I said. "Town Hall. The logistics officer. You deliver them directly to her, no intermediaries, no stops."
+
+He was already examining the seals. His fingers turned the envelopes over. I watched his expression shift as he recognized, one by one, the insignia pressed into the wax.
+
+The Iron Cross. The Hexenzeit crest.
+
+His eyes came back to me.
+
+"Deliver them under the authority of the firstborn son of Archduke Roderich von Hexenzeit." The words felt strange in my mouth. Although true, they felt like lies. "Kaspar von Hexenzeit."
+
+The ledger man's face went white.
+
+"The letters contain intelligence from the southern front. The elves have breached the line. They are coming north. Grenzheim requires every available unit mobilized for defense. Maximum alert. Every bell in the city. Every soldier."
+
+His hands tightened around the envelopes.
+
+"Go," I said. "Now."

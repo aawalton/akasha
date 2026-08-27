@@ -1,0 +1,155 @@
+---
+id: bf851edf-a7c5-504a-8233-fde8cc33e01f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 365 : Tacit Approval"
+slug: 0066-chapter-365-tacit-approval
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 66
+ownLength: 2474
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3191004/chapter-365-tacit-approval"
+royalRoadId: "3191004"
+---
+
+I was shocked by what I was reading, and it looked like I wasn't the only one. Vee was shaking her head and muttering to herself while Vanessa was fidgeting.
+
+While [Masquerade] had sought to remove the drawbacks from [Roleplay], [Split Personality] arguably only made them worse. If [Roleplay] was a double-edged sword, then [Split Personality] also added spikes to the hilt and grip of said sword.
+
+Although… Do these actually apply to me or not?
+
+In my opinion, I had no real risk from any of these potential downsides, as I still retained full authority over my [Sub-Cores]. As long as I wasn't the one using the skill, then what was there to be afraid of?
+
+In fact, isn't this what Vee is already having my [Sub-Cores] pretend to do? At least it feels that way to me.
+
+Of course, it wasn't all sunshine and rainbows; the fact that the personalities had to earn their skills on their own was a bit of a downside. Sure, they could borrow inferior versions of skills from me until they reached that point, but the question remained: how inferior were they?
+
+On the sacrificing part, I wasn't too fussed and actually saw it as a bit of a relief—I'd be able to clean up a lot of skills that were useful but not really applicable to my day-to-day activities.
+
+Sylbera's smithing skills I wanted nothing to do with, so I could easily give them all to her. Even with my enchanting skills, I was tempted to throw all of them at Sylvester and let him handle it. This was with the assumption that if I needed some enchanting work done, like my spell orbs, I could just have a worker [Sub-Core] in my [Core Storage] assume the Sylvester persona and craft them for me.
+
+The more I think about this, the more I like this idea.
+
+There was also something that might have been overlooked by this [Split Personality] and "sacrificing" skills to it, and that was the fact that I had [Skill Deconstruct]. Which begged the question: if one of my personas deconstructed the skill, could they share the knowledge with me?
+
+The skill is lost either way, but I can reclaim the knowledge this way. It's a bit of an unexpected workaround, probably because not many people have access to [Skill Deconstruct].
+
+It was a gift from a goddess, and I doubted they handed those out too frequently.
+
+Well… Unc might, look at all the stuff he threw at Leon.
+
+I shook my head, then looked at Vanessa and gave her a reassuring smile. "Thank you, this is perfect for my needs."
+
+Vanessa looked immensely relieved; evidently, her fidgeting stemmed from her worry that I didn't want a skill that seemed so risky. With that, I dismissed her and Sylvain, allowing them to catch up and handing that problem entirely over to Alpha.
+
+"I'll go work with Mister Leon to make them a house away from the central island," Sylbera suggested.
+
+"Thanks, Sylbera, you're the best!" Vee said enthusiastically.
+
+With everyone gone, it was just the two of us, and we returned to the center of the island. Evidently, Vee wanted to have a chat.
+
+"Are you sure about this skill? I get some ominous vibes from it."
+
+"Sure, if it was just me, I'd be a little afraid of getting lost in the other personalities, but as long as I don't use it, I think there's nothing to worry about," I explained, hoping it would reassure my spidery companion.
+
+Vee remained silent for a moment until she nodded. "Okay. I think you're probably right in that regard. I mean, I was already getting Sylbera to basically pretend to do this already, so it's just a better version of that."
+
+"That's how I feel as well. I just hope that I'm not too limited on how many I can have active at once," I said and attempted to buy the skill.
+
+I was immediately met with a message asking for ten whole skill points for this purchase, which seemed far too high for my liking!
+
+"What the heck? Ten points!?" I yelled at the notification.
+
+"Wow, that's enough to uncap a skill. Is something wrong with that skill?" Vee asked.
+
+I shook my head and put my thinking cap on. After throwing around a few ideas, I had a good idea of what might be going on.
+
+"I think it's wanting me to pay for the upgrade to level ten first, and then one point to upgrade it to [Split Personality]."
+
+Vee seemed confused, even though the math seemed to agree with my idea. "But… Didn't we only pay a few points to tier up to [Mana Shaping] and [Mana Weaving]?"
+
+I scratched my head. Vee was right, and now I was really being thrown for a loop. One of the first things that came to mind was that Mother had given Vee and me a significant discount, as she wanted us to move more quickly along the path of magic. While it sounded plausible, I wasn't exactly sure. Curiously, I tried to buy [Masquerade] and found that it would cost me only a single point to upgrade, covering the difference between levels nine and ten.
+
+"Do you think… [Split Personality] is a tier higher than [Masquerade]?" I suggested.
+
+"Oh! That actually might make sense," Vee replied. "Either that or it incorporates another skill or two that you don't have access to."
+
+I shook my head, unsure. Either way, I'd get an answer when it reached maximum level, which hopefully wouldn't take too long, with at least three [Sub-Cores] putting on a show.
+
+Actually, I could throw Princess Sylthaeryn Feirelle into the mix. Vee did say she wanted an elf farmer.
+
+With that in mind, I gave the role to Gamma, one of my oldest remaining [Sub-Cores], and I figured it was up to the critical task. I would have loved to have given it to Alpha or Beta, who had been with me through thick and thin, but they'd already been assigned to Sylvain and Sylbera, respectively.
+
+There was only one issue: Sylthaeryn Feirelle had a bit of a hoity-toity attitude, what with being a princess and all. I worked together with Vee to adjust her personality a tiny bit, giving her a love of plants and gardening as any self-respecting elf should have. Loreleia, her mother, had holy plant magic after all, so it made sense for Sylthaeryn to somewhat follow in her footsteps.
+
+"When I can split off another core network and hand her over to the Feirelle's, she can also pick up alchemy from Llewel," I explained.
+
+"How romantic, hopefully her husband treats her well," Vee said with some fiendishly delighted giggles.
+
+I forgot about that part… Well, whatever, as long as it's them and not me. Llewel didn't really seem the type, whereas I think I have more to worry about with Sylvain and Vanessa. I have zero doubt that Vee will try to stir the pot there.
+
+With all that out of the way, things started progressing as usual. I gave Logan a bit of an update on Dran and Juniper and informed Vee of the good news that the ocean dungeon wasn't part of the dungeon alliance.
+
+I just needed Leon to show me the way to the dungeon, but that was for later, and right now my priority was getting [Roleplay] to the max level and finally doing my testing with [Triangulate] and [Mapping].
+
+I stared at the two skills and sighed, still feeling hesitant about this. Worse-case scenario, I could simply buy [Triangulate] again, but losing the six levels of progress I had made in it and the benefits it was granting made me reluctant to part with it. I didn't really share that affection with [Mapping], as honestly, I had forgotten more often than not that I even had the skill.
+
+Whatever, enough dancing around, let's do it!
+
+I metaphorically took a deep breath and slammed through the confirmation prompts, deconstructing both skills in rapid succession. The information I received flooded my mind, and I was relieved it wasn't another disappointing [Lava Magic] situation. Sure, I'd learnt the importance of the governing magic symbols now, but I still felt bitter about what had happened back then.
+
+I spent the rest of the afternoon digesting what I'd received, and while [Mapping] had left me with many more questions, [Triangulate] at the very least had delivered!
+
+[Triangulate] had two parts: assistance for manipulating coordinates and the added benefit of saving coordinates for later use. The latter effect was what I was unsure about, though it was what I hoped to mix with [Mapping] to produce a result. However, for its original purpose, I'd received a substantial benefit from [Skill Deconstruct]!
+
+In a similar fashion to [Multicasting], [Triangulate] was slotting our dimensional spells into a grander construct. The effect was unmistakable; it directly empowered any dimensional spells put into it by increasing their ability to manipulate coordinates. So, while I had no idea how to actually digest this construct, I could still put it to use immediately.
+
+The first few attempts made me quite concerned, as it was notably worse than the assistance the skill provided. However, with some trial and error, I had recovered roughly eighty percent of my previous functionality. I reckoned that in a few days I could get that back up to scratch, and then perhaps even expand it further!
+
+After all this messing around with this new magical dimension construct, it even granted me another level in [Mana Weaving], also bringing it up to level six.
+
+A lot of sixes today… Weird.
+
+I shook that random thought away and returned my attention to my original goal, somehow using saved coordinates with [Mapping]. However, what I was trying to comprehend was mind-numbingly complicated and seemed to involve aspects of the system I was completely unaware of.
+
+I've got broken pieces of two puzzles, but in theory, there should be some similarities between them. I just need to find those matching pieces and try… Putting them together?
+
+This thought process occupied most of my time for the next few days. I was going back into full hermit mode, as Vee put it, and trying to make my next big discovery. Thankfully, my [Sub-Cores] were keeping her socially satisfied, and no doubt she was also messing around with Vanessa.
+
+[Roleplay] should hit max level soon, but in the meantime, I think I need to deconstruct [Mapping] again.
+
+My idea was simple: go on a bit of a rapid world tour, earn the skill back for free, then take it apart again and add to my knowledge. Plus, if I were lucky, I'd even earn [Triangulate] officially for free too, which I could also take apart!
+
+With that in mind, I left the island and began using teleports in rapid succession. I was covering massive amounts of ground while also making sure to fully leverage the coordinate-amplifying construct. Originally, I had explored a portion of a forest to unlock [Mapping], and with my rapid pace across the ocean, it soon manifested itself.
+
+I quickly took it apart, but the information wasn't much, so I decided to let it gain a few additional levels before the subsequent deconstruction. I repeated the process and even teleported to a few faraway locations, hoping to significantly boost my experience. My trip to Dhoggurum gave me a lot of proficiency, widening the range of my map and revealing the prospective size of the world, and I successfully repeated this experience.
+
+This is a great way to farm proficiency experience!
+
+This method was so good that I genuinely thought I was going to be punished by Mother, or even Gramps, for my exploitation. Yet, the smiting never happened, nor were any of my skills suddenly updated to prevent me from doing this. I took this as a tacit approval that what I was doing was by the books, and so I continued my rapid travel back and forth, across the world.
+
+I continued this maneuver for about a week. While I probably had enough information if I started piecing it together, I had to admit I was slightly hooked on this feeling of rapidly gaining skill levels over and over again.
+
+Naturally, [Mapping] and [Triangulate] weren't the only ones benefiting from this treatment, as I was gaining experience in several skills at once. [Magic Efficiency] reached level nine, which was very exciting, and I nearly took it apart on the spot to quench my thirst for knowledge.
+
+[Stabilized Fluctuations] went from four to six, which gave me a bit of a giggle, and then I took it apart. Just like I had predicted, it gave me a construct very similar to [Subtle Afflictions], which acted like a coating to my dimensional spells and hid the rearranged coordinates from prying eyes.
+
+I even took apart [Dimension Magic] again when it reached level five, gaining a rather significant portion of its governing symbol. I was happy with this result and wondered what further skills I would need to create [Dimensional Praxis]. Did I need more types of magic, like how I combined all the elements together? Would dimensional support skills, such as [Triangulate], be enough? Or did I need more skills that directly affected dimensions like [Folded Geometry] or [Personal Rift]?
+
+Probably a bit of all of that, but that's for much further down the road. Heck, I'm still only at level one! Who knows what I'll get as revelations at level ten, twenty, or thirty!
+
+However, what finally brought my world hopping to a stop was a notification I had been waiting for. Although I actually received two in this case, which was a bit of a surprise.
+
+<Proficiency gained. [Identity Fabrication LV 8] improved to [Identity Fabrication LV 9].>
+
+I wasn't exactly sure why [Identity Fabrication] suddenly leveled up, even though I knew it was going hand in hand with [Roleplay]. Either way, I wasn't going to grumble about a free level, but I did brush it aside for the real prize.
+
+<Proficiency gained. [Roleplay LV 9] improved to [Roleplay LV MAX].>
+
+With that, I attempted to upgrade it once again, hoping for a much more affordable result.
+
+<Spend 1 Skill Points to Tier Up [Roleplay LV MAX]?>
+
+I was absolutely giddy as it was only asking for a single point now! It looked like my theory was somewhat correct, although I was still unsure about the previous pricing and whether we'd received a discount on our magic skills from Mother.
+
+Regardless, I didn't choose to upgrade it right now because I wasn't sure what it would do to my active personas on the island. So, I teleported back, as it was time to call a family gathering for this momentous occasion.

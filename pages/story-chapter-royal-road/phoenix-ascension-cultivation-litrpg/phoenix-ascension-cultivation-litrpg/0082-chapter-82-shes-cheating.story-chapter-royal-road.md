@@ -1,0 +1,161 @@
+---
+id: 5c99e92b-b0cb-5a74-916c-5f46efee43ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82: She’s cheating!"
+slug: 0082-chapter-82-shes-cheating
+partOf: phoenix-ascension-cultivation-litrpg
+position: 82
+ownLength: 2506
+unit: words
+publishedAt: 2026-01-31
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2999354/chapter-82-shes-cheating"
+royalRoadId: "2999354"
+---
+
+What the fuck was that? Who the fuck?
+
+Shang Ling Zi’s panicked thoughts filled his mind as he appeared a couple of hundred feet away from the Hu Village. His face had been almost completely burned off, but not fully. It was healing visibly as he caught his breath, but that alone used a lot of Qi and Vitality. He couldn’t afford to burn through his resources that quickly, especially not in the midst of battle.
+
+It didn’t take him long to figure out that he had to retreat. That woman, as insignificant and weak as she looked, had almost killed him. Even if he managed to heal some of his face, the scars would remain.
+
+He wasn’t sure what pissed him off; That he lost to her, that he got disfigured, or that he lost two seedlings again. It was clear that the woman had a hate boner against the demonic, and he could have sworn that she had some Demonic Qi inside her.
+
+It wasn’t something he could have paid a lot of attention to, at least in the midst of battle, but thinking about it afterward, he found it a little weird. The Demonic Qi even seemed familiar, but chances were high that she’d fought against one of the many seedlings he planted.
+
+Regardless of that, though, the hatred he felt for her went far beyond her killing his seedlings. No, it’d become personal. His disfigured face would be the last of his problems, as he truly had nothing to show to his Master anymore.
+
+He had to act quickly. He had to go to the Bai Village, as far away from that woman as possible, and spread the seeds of the demon.
+
+At first, he wanted to take control of the Hu Village because of the presence of the Myriad Market, but he could never have guessed that the Heavens wanted him to fail in this mission. Not once, but twice, his plans of infiltrating an organisation failed, and he’d gotten tired of it. Come what may, he needed new recruits.
+
+Though something told him these two were not quite lost yet. There was something in the fatty that would make him keep going no matter what, and the desire for vengeance in the Shu big brother made him a perfect target for his influence.
+
+Maybe I’ll stick around for a while longer…
+
+***
+
+Not once, not twice, not thrice did I slap that little piece of shit. No, I slapped him until his cheeks turned red. Once with the front of my hand, then again with the back. Just for good measure, I gave him a kick in the gut as well, so I got the point across, then resumed slapping him again.
+
+The sound of the slapping didn’t stop until I noticed that his little sister’s eyes opened, and she winced. Shu Xu Ning didn’t say anything, but she clearly didn’t like seeing her big brother like that.
+
+I grabbed him by the collar and looked at him, though he avoided my gaze. I growled as I brought his face closer to my mouth and said, “This isn’t over. Now stay put so I can fix this mess you’ve made.”
+
+He nodded, and she threw him to Yo Na, who caught him and promptly let him fall down. Shu Xu Ning gave him an apologetic glance, then closed her eyes and continued absorbing the core.
+
+The fatty trembled as he looked at me, but I didn’t pay him any attention. Instead, I looked at his father and forced myself not to spit in his direction.
+
+“I’ve heard some rumors.” He started, standing up. “But I didn’t think these two would have you as a guardian. Were you left here by Shu Lao to protect them?”
+
+Chiao Zhen completely ignored the matter of my starting a fight with a random cultivator and destroying part of his estate. I wasn’t sure if he was being considerate or if he really didn’t want to know what all of that was about. Either way, that worked out in my favor, as I didn’t feel the need to explain it. Not publicly, at least.
+
+“You can say that. You can also say I owed him one, and this also works out in my favor. However.”
+
+“Then… a friend of Shu Lao is a friend of mine as well.” He said that with as little friendliness as he could. I nevertheless pretended to accept his words at face value.
+
+“I apologise for the small amount of destruction I’ve caused. I can pay for the damages, so you don’t need to worry about that. More importantly, though… could you tell me how these two started fighting? Someone else told me, but I want to hear the full story. And as far as I know, this wasn’t what you and Shu Lao agreed upon, am I wrong?”
+
+“You…” He began, a drop of sweat running down his face. “You are not wrong; however, the circumstances forced my hand. It was either allowing them to duel or me taking things into my own hands.
+
+“What makes you say that?”
+
+“Well, you see, that child of the Shu family ran into my manor and demanded that I stop the duel between my son and his little sister. I couldn’t do that, since my agreement with Shu Lao could not be easily broken. However, even after I tried to explain things to him, he said he’ll simply kill my son and be done with it.
+
+“I found that incredibly rude but also unlikely to happen. I don’t know what you may think of me, but the child’s drastic change in appearance told me more than enough. I could sense that he was weaker than my son, so I allowed a duel between the two of them.
+
+“They started fighting, and much to my surprise, he had some talent and the two were more or less evenly matched. Their fighting was, well, barbaric, to say the least, but since neither of them knew any better techniques, that was to be expected.
+
+“I decided that it didn’t matter who fought my son as long as the wager remained the same, so you can say I merely changed the terms of which of the children should fight. I do have to wonder how he’d recovered his damaged meridians… And I will not be as preposterous as to assume that something backhanded is at play, but I am curious.”
+
+After he talked for so long, I was beginning to grow bored. Of course, I knew how he recovered his meridians, but I also knew that it wasn’t a permanent solution. Such demonic ways seldom ended well, and he must have known that.
+
+That showed how much he loved his sister, but that doesn’t excuse just how extremely stupid he was. I could only hope that this incident would wake him up to reality. Cultivation wasn’t a game, and colluding with demonic forces would only lead to ruin.
+
+Now that I heard most of the story, I find myself in a situation where I could finish my quest today. As for whether or not Shu Xu Ning was ready to face a demonified Chiao Gu… She could win.
+
+With her equipment and lightning Qi, she was the natural bane of demonic cultivators. That also meant that she had a fighting chance. In the worst-case scenario, I would save her and figure out another plan, but I had faith in her.
+
+Once she finished absorbing the beast core, she would have more lightning Qi and other benefits related to her stats. I should have bought her some Qi Condensation pills as well, but I could not do that right there and then.
+
+I jumped next to Chiao Zhen and sat down behind Shu Xu Ning, sensing the immense amounts of Qi flowing from the core to her body. Perhaps it would be enough to get to the third or fourth layer.
+
+“Allow your son to recover,” I said, and placed my hand on the little girl’s back. “And let her prepare.”
+
+***
+
+The Qi flowed from the beast core toward Shu Xhu Ning’s body, filling her with strength she didn’t know she could possess. The tingly feeling of the lightning Qi synced well with her body, and it felt rather good instead of the uncomfortable feeling she expected.
+
+Peering inside her dantian, she noticed that her Qi Lake had taken on a rather peculiar form. It wasn’t liquid, like her big brother told her it would be, but instead it was more like a very tiny sea of lightning.
+
+It crackles with increased intensity, devouring the Qi she absorbed from the core and growing with every passing second. She knew then that she was advancing.
+
+Currently, she was at the Second Layer of Qi Condensation, which was hardly an achievement. Even though she started a bit later than she would have liked, as her brother unlocked his meridians at eight years old, she still made good progress.
+
+However, would it be enough to defeat Chiao Gu? She didn’t know, but that was what Miss Immortal expected of her, and she would loathe to disappoint the woman who gave them a second chance.
+
+The Divine Lightning Constitution gave her some basic combat moves to best make use of her element, but she’d never actually given it a try. After all, she’s only been cultivating for a few days, so combat of any sort was new to her.
+
+But she had to do it for Miss Immortal and her big brother. Her big brother did what he did for her sake; she knew that well, but in reality, he didn’t have to.
+
+She wasn’t feeling all that confident in her victory, but she was confident in Miss Immortal protecting her come what may.
+
+Finally, after an unknown amount of time had passed and the core had been completely drained, she felt herself advance to the Third Layer of Qi Condensation.
+
+It wasn’t anything impressive in the grand scheme of things, but it was her own achievement. However, compared to Chiao Gu, she was still lacking. Regardless of that, she would try her best.
+
+When her eyes opened, they crackled with lightning, and even though it was only for a brief moment, she looked fierce.
+
+Standing up, she grabbed her sword and made sure that her gloves fit her well enough. The armor was a little loose on her body, but nothing that should be too detrimental, she figured.
+
+“Are you ready?” Miss Immortal’s voice echoed in her head, and she nodded, then gulped and looked over the ledge.
+
+I have to look cool, right?
+
+Without thinking too much about it, she jumped down and pretended it didn’t hurt her knees. Chiao Gu was meditating nearby, and after sensing her, he opened his eyes and stood up.
+
+A shiver ran down Shu Xu Ning’s back. She felt that his gaze was strange, but couldn’t put it into words.
+
+She clenched the sword even harder in her tiny hands and remembered what the technique taught her.
+
+There were twelve footsteps, and after the initial three, each one would be unlocked with each subsequent realm advancement. That meant that Shu Xu Ning currently knew six steps out of the twelve.
+
+She didn’t know if those were good or bad, or even how to use them, since that was her first fight and also the first time using them. She figured she would better learn fast if she didn’t want to disappoint Miss Immortal.
+
+Shu Xu Ning still didn’t know why Miss Immortal wanted to help her and her big brother, and she knew that it wasn’t purely out of the kindness of her heart. Yet, it was hard to believe that Miss Immortal did not care for them, even a little bit. Not after everything she’s done.
+
+So she didn’t want to disappoint her.
+
+Facing Chiao Gu, though, her confidence wavered slightly. She barely knew how to use the sword in her hand, barely knew how to move, and barely knew how to manipulate Qi. Chiao Gu was a slacker for sure, but he had years of experience on her.
+
+Yet, could she afford to fail?
+
+The answer was no, and she had to do the impossible.
+
+The technique gave her the twelve steps, but also a simple sword technique. That was also the reason she wanted a sword to begin with, and it was time for her to practice.
+
+There was a slash, stab, and thrust technique. Nothing that struck her as fancy or strong, but enough for a beginner to get the hang of the weapon.
+
+So she took on the stance taught to her by the technique— Sword pointed at the ground, hilt only a little bit above the pelvis, and hovering a few inches in front. That was all she knew, but she felt something change inside her when she took that stance.
+
+It felt right. It felt like she could do whatever she put her mind to.
+
+The start of the fight was signaled by Chiao Zhen’s whistle, and his son didn’t hesitate to charge at Shu Xu Ning without mercy. He rushed forward, hand gripped in a motion, and a ghostly hand appeared in front of him.
+
+It was about twice as big as his normal hand, and from what Shu Xu Ning could tell, even deadlier. She knew that she had to dodge it, and she did so by using the steps the technique taught her.
+
+That was all she knew, so that was what she used. Much to her surprise, when she actually used the steps imbued with Qi, her body became as fast as lightning. From her perspective, the world turned blurry with each step, but the distance she travelled was short.
+
+From the spectator’s point of view, her body turned into pure lightning, and she became untargetable by Chiao Gu’s hand.
+
+Unfortunately, she didn’t have all the steps; she could have dodged for way longer. When the first few steps she knew ended, she got dizzy, and didn’t do much in terms of dodging.
+
+As a result, Chiao Gu’s ghastly hand grabbed her by the throat and started squeeizng. Thankfully, despite her inexperience on the battlefield, she had the base instincts of a cultivator.
+
+With a quick, panicked movement, she imbued her sword with lightning Qi and cut at the hand. She’d expected to do some sort of damage, but what she wasn’t expecting was for the ghastly hand to get severed in half as soon as her blade passed through it.
+
+She fell to the ground and quickly used the first three steps of the technique to back away. From what she could see, Chiao Gu was just as confused as she was.
+
+However, it didn’t take long for either of them to realise what was happening, and Chiao Gu’s face fell.
+
+“She’s cheating!”
+
+“Your mother is cheating!” Shu Xu Ning barked back and surrounded her entire body with lightning qi.

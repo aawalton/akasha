@@ -1,0 +1,295 @@
+---
+id: 9f791067-210d-58d5-a0f3-48e7a2bace4e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 719 - Going Back Home"
+slug: 0720-chapter-719-going-back-home
+partOf: mythrans-master-of-all-continued-completed
+position: 720
+ownLength: 3207
+unit: words
+publishedAt: 2018-10-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295398/chapter-719-going-back-home"
+royalRoadId: "295398"
+---
+
+After an inordinate amount of non-time, and several lifetime's worth of pleasure, Anabelle finally admitted that she had had enough and wanted to go back to the way things were. Ren was a bit reluctant, just in case she decided to change her mind, and she reassured him that being with him for so long had made her happier than she had any right to be.
+
+Ren tried to convince her otherwise; but, she wouldn't listen to any of it. She felt how she felt, and he had to accept that. He had taken her into his arms and made love to her one last time, much to her delight, and he deactivated the backwards clock. It turned black and crumbled to dust, then the dust faded away.
+
+“So, it... it really was a one time use.” Anabelle said.
+
+“Things like that, things so powerful that they can only be used once... like the One Wish Ring... are singular items because they could change everything in the world if abused.” Ren said. “What if I had turned the pause clock on in the middle of the town square?” He asked. “Anyone caught in it would be paused in time as well.”
+
+Anabelle's eyes widened at the implications.
+
+“What if I never turned it off?” Ren asked, and she gasped. “Yeah, that's scary, right? Never being able to leave a small specific area forever could drive someone crazy.”
+
+“R-Ren...”
+
+“It's one of the reasons I wanted to get you out of Lord Eric's mansion. Oh, and why I took the Marilith Demon, succubi, and pixies out of Shargon Caverns as well.”
+
+“Ren, I've already thanked you for...”
+
+“I'm not looking for thanks, Anabelle.” Ren said and took two steps into the air to give her a hug. “Friends don't need to thank friends for their help.”
+
+Anabelle nodded and gave him a brief kiss. “You are too good to be true.”
+
+“Some people think so.” Ren said and let her go. “You've got the rest of the night to sleep, and you can open the business in the morning.”
+
+“Finally!” Anabelle exclaimed. “Sitting around and doing nothing is so boring!”
+
+“I've never been called 'nothing' and 'boring' before.” Ren joked, and she chuckled.
+
+“You know what I meant.”
+
+“I do, and that's why I figured you needed a short vacation before getting back to work.”
+
+“A short vacation!” Anabelle laughed. “Ren, we've been here for... for...”
+
+“Just the right amount of time.” Ren said and gave her a kiss. “Goodnight, Anabelle.”
+
+“Goodnight, Ren.” Anabelle said.
+
+Ren left the apartment with Teepo on his shoulder and went down to the second floor and told Princess he would be right back. He went downstairs to meet Tee-one and saw that he was already casting 1 inch wide steel balls in a two-piece mold.
+
+“It's so good to be connected to you again.” Tee-one said and Ren chuckled as he took out the Vasalor Statue and activated it.
+
+“Let's get these disposable wands constructed and enchanted.” Ren said and they got to work. After they had made 10,000 of them with wooden handles and the steel ball on the end as the focusing material, they both used their wand making skill to add 5 spells to all of them.
+
+Ren had intentionally limited their use and usability, and would only charge 1 gold each for them. He had been tempted to only have one or two spells; but, he knew there wouldn't be a whole lot of customers that wouldn't like that kind of deal. Plus, he had made a good mix of all the Level 1 Basic spells and that was a lot of versatility for non-magic users to have.
+
+Ren and Tee-one built a new display behind the counter and put out one of each, then made a big rack under the counter so that no one would see them. They were sorted and stacked appropriately to match the display models, and Ren looked at Tee-one.
+
+“New furniture?”
+
+Tee-one chuckled. “Rather than building new items, we can just update what we have, can't we?”
+
+“We can?” Ren asked, and Tee-one laughed.
+
+“You received the Update skill when you gained the Creator's Assistant title.” Tee-one said.
+
+“I probably should read it, then.” Ren grinned, and Tee-one shook his head.
+
+“Look, you can ignore it if you want.” Tee-one said and smiled back. “I'll handle it.”
+
+“Thanks.” Ren said. “Don't go too crazy with all this power, okay?”
+
+“I'm already crazy.” Tee-one said. “Now take your statue and let me get back to working normally.”
+
+Ren snorted a laugh and deactivated and stored the statue. “Have fun.”
+
+“Just as much as you do when you use a new skill and make things better.” Tee-one said and pat him on the shoulder. “The maids missed you a lot, so this last surprise should be good for them.”
+
+“I know.” Ren said. “See you later.” He walked over to the back door and turned back. “Let Anabelle know that she can take spell requests; but, they won't be approved until the end of each week.” He said. “Put up a sign saying that each higher level spell reduces the spells the wands can hold and increases the cost.”
+
+“So, someone could pay 5 gold and get a once use wand for Firestorm.”
+
+Ren nodded. “Or Viewing Cloud, or Enlarge or Reduce Anything.” Ren said. “Not Curse or Cause Critical Wounds, though.”
+
+“Oh, I know.” Tee-one said and tapped his temple. “I share your sentiment.”
+
+Ren smiled. “Only use the normal versions, please.”
+
+“Like I would give someone a permanent Firestorm spell for only 5 gold!” Tee-one laughed, and Ren waved and went up the stairs.
+
+“Princess, let's go home.” Ren said and let her out the back door, then locked it and climbed onto her saddle. She trotted up into the air at a normal pace, then trotted through the air to make the trip last as long as she could stand it. She only lasted 10 seconds, then poured on the speed, which made Ren laugh and Teepo chittered in delight.
+
+*
+
+“Wow.” Elerlyth said after Patty had regaled her with how Ren acted that day and his actions to try and save the whole kingdom, and she hadn't been surprised that the government didn't realize what denying his help meant.
+
+“He sure is something.” Patty said. “When he told them they were all fools and that he wasn't going to bother with the kingdom anymore, I thought they were going to poop bricks!”
+
+Elerlyth chuckled. “That would have been funny to see.” She said, and then she gasped as she felt Ren.
+
+“What is it?” Patty asked.
+
+“R-Ren...”
+
+Patty looked out the window and saw how dark it was and nodded. “He's running a little late from his normal schedule; but, that's understandable because he had so much to do.”
+
+“I need to catch him before he goes on Adventurer's business.” Elerlyth said and stood up. “Thanks for the story.”
+
+“Anytime.” Patty said, and Elerlyth stepped out of the office and then outside the front door of the Main House, just as Ren and Princess appeared in front of her and landed.
+
+*
+
+“I knew you couldn't resist going all out.” Ren said and scratched Princess on the chin, and she brayed lightly. “I'm not going to need your help for a while.” He said and pat her neck.
+
+“That's fine, My King.” Princess said and licked the cheek of his face without slobbering on him. “You intentionally made our trips that much longer, just because you wanted me to be happy.” She said and turned to her house. “Enjoy your fatherly duties.” She said and went inside.
+
+“What does she mean?” Elerlyth asked, and Ren turned to face her. He had felt her presence and did his best not to react to feeling her emotions.
+
+“That depends on what she means.” Ren said and watched Elerlyth's face for her reaction. “Frikara's pregnant.”
+
+Elerlyth stopped herself from gasping, and she saw Ren's smile as he felt her emotions. “Ren, that's not possible.”
+
+“You would think that, but...” Ren smiled wider. “...their contracts couldn't be fulfilled and nullified without giving them what they wanted.”
+
+“That's what Frikara wanted? A kid?”
+
+Ren nodded. “They all did.”
+
+Elerlyth actually gasped at that. “R-Ren, you... you didn't...”
+
+“Oh, I did.” Ren said and smiled. “A lot.”
+
+“Ren!”
+
+“What?”
+
+“Do... do you realize what this means?”
+
+“No, I have no clue what it means.” Ren said, and she winced hard. He saw and felt her reaction as he smiled, because she would have to care a lot about someone to react that much when they lied.
+
+“Ren...”
+
+“Look, I did it... knowing full well what it would mean. For them and for the game as a whole.”
+
+“Good god.” Elerlyth whispered and leaned against the front door of the Main House. “Ren...”
+
+“I can't do it for you.” Ren said, and she looked at him with wide eyes. “It's inherent in the code that female Adventurers can't get pregnant.”
+
+“Wh-what?”
+
+“It messes up their hormones in real life.” Ren said. “Having something happen virtually and feeling it in here, makes them react and change out there.” He said. “If a woman perceived herself getting pregnant here, with the resulting simulated biological changes associated with that, her real life body would change to her mind's assertion.”
+
+“N-no, that... that can't be true.”
+
+“In some cases, it's just a state of mind.” Ren smiled. “The power of belief can be pretty strong.”
+
+Elerlyth shook her head. “No, I can't accept that.”
+
+Ren chuckled. “Elerlyth, I've looked at all of the code in the game. I've seen the data related to it.”
+
+Elerlyth couldn't respond to the truth in his words.
+
+“You would think the same would be true for men, but... it's just...” Ren shrugged. “No real biological changes, no matter the state of mind the guy is in.” He chuckled and leaned in close as he put his hands to either side of her. “Don't get me wrong. I'm not trying to imply that women are less than men in this respect. Far from it.”
+
+Elerlyth shivered as his emotions came off of him in waves.
+
+“Women's brains are so powerful that you can convince your body to physically change with only mental stimulation.” Ren said. “You might not actually get pregnant, but your brain would believe it was, and your body will change to reflect it.”
+
+“R-Ren... s-stop...”
+
+“I'm sorry. I didn't mean to make you uncomfortable with all this existential talk of mental prowess versus physical capabilities.” Ren said and leaned back. “You came here to meet me, didn't you?” He asked. “Can I ask you why?”
+
+“I... I felt...”
+
+Ren nodded. “Tasty, wasn't it?”
+
+Elerlyth opened her mouth to argue, and Ren let some more emotions out for her. She caught her breath and closed her eyes as her ability sucked them up like the delicious morsels they were.
+
+“I don't mind sharing with a friend.” Ren said. “I actually meant to message you; but, I got busy with the Dark Elves and had to stay for a bit to eat a buffet they had in my honor.” He smiled. “I actually forgot to ask if they were going to give me an award or something, because I had to leave and visit the Giant starter city.”
+
+“S-so, you... you really...”
+
+“I've been all over the place and I'm running a little behind.” Ren said and removed his hands from either side of her and stepped back. “I've got some Adventurer's business to take care of for a while, then I'll be back. If you want to wait around, we can talk some more about what I was doing.”
+
+“Don't you mean who?” Elerlyth asked, and he chuckled.
+
+“Only if you enjoy hearing about an ex-boyfriend having sex with several women.”
+
+Elerlyth was going to say no, then sighed. “It depends on what you did with them.”
+
+Ren reeled in his emotions and she opened her eyes to look at him. “Well, at least you're honest about it.” He said and took her hand. Her special place contracted so hard that it was almost painful, and he felt her react. “I... didn't realize...” He sent her the mental image of relieving her tension there, and her body shook as she relaxed. “I think teasing you has taken on a whole new meaning if just being near me does this to you.”
+
+“R-Ren, I... I'm sorry.”
+
+“I know you are.” Ren said and let her hand go. “I need to go inside.”
+
+“I really wish you would.” Elerlyth joked.
+
+“Ah, you gotta love double meanings.” Ren smiled and motioned for her to step aside, and she did so. “I'll try to come back early so we can talk before I go to the Fire Realm.”
+
+“O-okay.” Elerlyth said and he stepped by her and entered the Main House.
+
+“Well, it doesn't look like she assaulted you.” Patty said when the door shut, and Ren chuckled.
+
+“Hi, Patty.” Ren said and stepped into the mayor's office. “It's been a while.”
+
+“Since we went to...”
+
+“Oh, it's been much, much longer than that for me.” Ren said and took out the Vasalor statue. “Do you still want me to play with you like I do with the succubi?”
+
+Patty caught her breath at the intensity in his eyes, and she nodded. Ren gave her a warm and welcoming smile and activated the statue and set it on the file cabinet, then cleaned off her desk and put a comfy cushion on it for her to lay down on.
+
+“R-Ren, we...”
+
+“I'll be gentle.” Ren said and gave her a kiss. Patty purred into his mouth as she kissed him back, and she stored her top to reveal her breasts. “Oh, nice.” He said and cupped them, then gave her a nice massage.
+
+“Ren...”
+
+“I can feel how much you've been wanting this, even knowing I've been with so many others.” Ren said. “I thought you might have lost interest after a while, since I wasn't trying to encourage you at all.”
+
+“Ren, I... ever since...”
+
+“I know I've changed how you live... how all of you in the county live... since I've been coming here.” Ren said. “I should apologize for it, but everyone seems so much happier now.”
+
+“Ren...”
+
+Ren shifted his hands down to her waist and she stored her skirt. He smiled when he saw the frilly lace panties. “Thank you.”
+
+Patty blushed at his sincerity, and he eased her back to lay down on the cushion. He caressed her legs and lifted them up, then slipped her underwear off. He touched her there and discovered that she was quite ready for him.
+
+“May I?”
+
+“P-please.”
+
+Ren eased her legs apart and kissed her special place in the same way he had kissed her mouth, and Patty lost herself in the sensations of being touched where no one else had even seen, let alone pleased her like that.
+
+Ren pleased and teased her for hours, and it blew her mind that he kept going and going. She relaxed so much that eventually she couldn't keep her eyes open and drifted off to sleep. He felt her lose consciousness and stopped pleasing her, put her underwear back on, then made a blanket for her and turned her onto her side so she would fit on the desk. He kissed her forehead and tucked her under the blanket, deactivated and stored the Vasalor statue, and left her office. He went up the stairs to the apartment and knocked on the door.
+
+“It's still your apartment, Ren.” Frikara said through the door and he opened it to see them sitting in various spots. “You don't have to knock.”
+
+“What if I had company with me?” Ren asked as Teepo flew up to land on the ceiling.
+
+“You would have called to warn us.” Andrela said and laid back on the bed as she put her hands over the slight bump on her belly. “Ren, do I look fat?”
+
+“If you're referring to the little bump that almost no one would notice, even if you were naked, the answer is a resounding no.” Ren said, and the other maids and Xuunah chuckled. “I know you're all still recovering from my visit this morning, so I won't ask if you want to do it again.” He said and walked over to the bed and stored his clothing. “Plus, I've got some Adventurer's business to take care of.”
+
+Andrela nodded and sat up to make room for him, and none of the others made a move to join him on the bed.
+
+“Don't everyone rush over at once.” Ren laughed and climbed onto the bed.
+
+“If you're leaving, we have to give you room anyway.” Navruth said.
+
+“You don't have to worry about that anymore.” Ren said. “When I'm near you, I won't phase out anymore.”
+
+“Wh-what?!?” All the maids said together.
+
+“I've been away from you for far too long.” Ren said and held his arms out to the side. “I won't deny you cuddle time just because I'm busy.”
+
+“Are... are you serious?” Frikara asked, and he felt her hope that he wasn't playing a joke on her.
+
+“I'll prove it in about 10 seconds.” Ren said, and Andrela was the first to slide over on the bed and cuddled into his side. “Any other takers?”
+
+Frikara couldn't resist and climbed onto the bed and laid down beside him, then cuddled in as well.
+
+“All right. I'll see you all in the morning.” Ren said. “Logout.”
+
+*
+
+Ren's avatar lost all of its tension and life; but, it didn't fade, even though this was a safe zone.
+
+“By the gods, he wasn't joking.” Lusinia said and climbed onto the bed with Ren, Andrela and Frikara. “I can't believe he's still considerate of our feelings, even though he's given us what we all wanted and could have tossed us out on our backsides.”
+
+Frikara chuckled. “He would never do that.” She said. “You felt how much he missed us while he was gone.”
+
+Navruth and Verwynn climbed onto the bed as well. They all nodded in agreement that he really had missed them, then they all turned and looked at Xuunah.
+
+“It's all right.” Frikara said and waved her over. “We've all been in bed before.”
+
+“That... that was when he was here to... to...” Xuunah couldn't finish the sentence, and Frikara laughed.
+
+“You can touch him as much as you want when he's like this.” Frikara said and caressed his face, then his chest.
+
+“He... he always stopped me before... before I could...”
+
+Frikara nodded. “We will run interference for you, if you want us to.”
+
+Xuunah nodded and walked over to the bed. “Thank you.”
+
+“We all have urges we need the others to hold in check.” Frikara said. “Girls, remember what I was like when we first started staying with Ren?”
+
+The other maids laughed, and started to tell Xuunah about their first encounter with Ren, and how things used to be. Xuunah listened intently as she laid down and rested her head on Ren's abdomen.

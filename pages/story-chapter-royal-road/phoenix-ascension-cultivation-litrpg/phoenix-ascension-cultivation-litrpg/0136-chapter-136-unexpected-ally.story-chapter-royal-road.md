@@ -1,0 +1,197 @@
+---
+id: ff5b4e8e-4927-5ec1-aa53-3f842d6fc791
+page-type-slug: story-chapter-royal-road
+title: "Chapter 136: Unexpected Ally?"
+slug: 0136-chapter-136-unexpected-ally
+partOf: phoenix-ascension-cultivation-litrpg
+position: 136
+ownLength: 2298
+unit: words
+publishedAt: 2026-06-07
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3504188/chapter-136-unexpected-ally"
+royalRoadId: "3504188"
+---
+
+A few hours passed since the little girl’s visit. The turtle and I spoke a lot, exchanging information and stories. It was nice to finally talk to someone who knew what the system was and that could share more information about the world.
+
+I omitted some parts of my story, of course, and largely didn’t mention that my system had evolved. Some information was better kept a secret.
+
+In our talks, I’d discovered something interesting. He had never unlocked the Universal Language skill before meeting the humans. He’d never needed it, and stayed away from the continents.
+
+He used to live in a large area of the ocean, ruling over it with his mate. Unfortunately, after a large battle between to human factions, the resulting destruction knocked him unconscious, and he washed ashore.
+
+Before he knew it, he was in a cage, trapped by a beast tamer, then sold to a fat rich slob who flew using a carriage. The journey to wherever it was that he took him was largely unpleasant and he’d enver once come out of his shell, not even to peek.
+
+I could understand him. The next thing he saw was a slimmer man that behaved very similar to the fat guy, but clearly didn’t have as much wealth. And then he was on the table, and then there.
+
+He didn’t know what had happened to his mate, and was utterly devastated. For the matter he wasn’t even sure how far awya from his home he was.
+
+It was really sad.
+
+He’d acquired the Universal Language skill while he was being held in the slim man’s mansion, listening them talk about this and that. Largely, he’d told me that he really didn’t care and that he was more worried about what would happen to him.
+
+Being a rich girlies gift wasn’t something h’ed expected to ever become, but there was.
+
+His story did not explain how he’d learned to read the system language though. Or, language, in general.
+
+He didn’t have the Reading skill like I did, so what gave?
+
+Well it turned out that there were many graves hidden or lost in the ocean, and he’d stumbled upon some of them. That naturally gave him some sort of reading comprehension, somehow. Apparently it was system-aided.
+
+I felt like there was more to the story than he let on, but I was willing to forgive him.
+
+The tiger cub was staring at us as we talked, confusion clear on his face. The snake, for what it was worth, did listen, but he seemed more worried about what would happen to him when the butler returned.
+
+As for the little bird… She wasn’t really all that conernced with what happened,  it’d seemed that she had nothing going on between the ears. Not yet at least.
+
+A level ten common Spirit Beast wouldn’t have enough intelligence, but it seemed like she was some sort of special case.
+
+Anyway, besides that, my plans had changed a little. I wanted to both take the Qilin Horn and spy for Meng Mao, but also to free the Spirit Beasts here. This was, simply put, animalistic. No, not even animals would treat each other like this.
+
+There was a certain decorum of respect amongst Spirit Beasts, and they never killed for the sake of killing. Survival was our base instinct and everything we did was for the sake of it.
+
+Well, most of us anyway.
+
+I wasn’t sure when I could leave my cage so I opted to stay put for the time being. There wasn’t much I could do though. My dantian was full, and so was I.
+
+The turtle didn’t seem to want to be in the mood to talk either. No doubt the fact that he didn’t know what had happened to his mate was devastating.
+
+As for the tiger cub… he was sleeping now. He looked really uncomfortable. The snake relaxed a little, but his eyes kept looking for ways to escape.
+
+The bird was just staring into the void.
+
+I figured I might as well rest until night fell, then I could go out and explore. This room was definitely fortified with many enchantements and alarms as to alarm them if any beast randomly escaped.
+
+So I would need to deal with things that Meng Mao had never warned me about, much to my disappointment. Could he have known about all of this? Probably not. Should he have thought about it? Definitely.
+
+Should I have had as well? Yes, but I didn’t, so in the end it was still his fault.
+
+The time passed rather fast, with no major disturbance. All of the Spirit Beasts present had lost their spark. They were but mere husks of themselves. It was infuriating.
+
+I could not allow this to go on any longer.
+
+At some point, the door opened again. This time there was only one pair of footsteps, one I’d already recognised.
+
+The butler.
+
+What is he here for? To kill the snake?
+
+I wasn’t sure if I could hold myself back if that were the case. Sure, he was a snake, but this wasn’t hunting, it was meaningless.
+
+Jade serpents? What jade serpents?
+
+I listened closely, then eyed him the moment he came back. The man wasn’t stupid, he knew something was up the moment it was Meng Mao that gifted me. Him and his boss could not have a good relationship if they wanted to get rid of each other.
+
+Not to mention, why would he gift a Vermillion Bird?
+
+Our disguise was compromised, and I didn’t even notice. I thought it would be a nice and easy mission, but I was wrong.
+
+There was no such thing as a free meal.
+
+He eyed me as well, but ignored me after a second. It was as I’d thought, he walked toward the snake.
+
+The little thing shook in his cage before squirming as the butler walked closer. Unfortunately, the cage was far too well secured, the ecnhantemets far out ranking his cultivation. Not that he had any, but the Spirit Beast equivalent.
+
+The butler walked closer without any emotion and tapped his figner on the cage, its door opening wide. Without any shred of hesitation, the snake bolted forward, but the butler had already caught him.
+
+It tried to bite his hand, but didn’t even get through the gloves, and even as a Spirit Beast, the butler was still a full grown human. His size dwarved the reptile.
+
+“Settle down.” He commanded, his voice filled with Qi. “I have no intention of hurting you.” The butler continued, but his words only made the snake squirm even more. How could he believe the words of a human?
+
+“Just sit and I will free you. Consider yourself lucky the Young Miss didn’t fancy you.” His voice was filled with even more Qi, and somehow even I’d gotten affected by it. The trance I fell into was very short though, at least compared to the snake, who’d seemed to fall into another world altogether.
+
+He let out a sigh and squished the snake into a ball then put it into his pocket. After doing that, he looked at me, a knowing smile on his face, but he didn’t say anything.
+
+Somehow I’d doubted that wouldn’t be the last time I’d see him.
+
+***
+
+The following days passed by rather quick, with the maids coming in and feeding us from time to time. The little girl had never returned, a sign that she really couldn’t care less about the animals here.
+
+She just wanted us for collection, the despicable little thing.
+
+I was going to empty her treasure room one way or another. My current bag of holding may not be big enough, but I would manage.
+
+The monotony of our daily life led me to just staring off into space as well, following the red little bird’s example. The turtle had not come out of his shell, not even to eat.
+
+Not that I could blame him, the food was far below average and was not anywhere near as good as Spirit Beast meat. I did have some on me, but it was inconvenient to pull out, so I made do with what I had.
+
+In the end, it took up until the celebration ended for someone important to arrive. Although I could have never expected who it would be.
+
+When the door opened, there were three pair of footsteps. The butler, the child and an unknown man. When he’d arrived, I knew immediately who it was from presence alone.
+
+Guo Lu Poo.
+
+A man at a similar level of cultivation to Meng Mao, his rival in power and man who has dirty secrets that he needs proof of. And the man I was sent to spy on.
+
+I was expecting someone to come investigate me, but I wasn’t expecting the big man himself to do so. He didn’t look a day over thirty.
+
+At that point all I could do was trust that Perfect Disguise was truly perfect. Any flaws in my disguise would be obvious, so I took precious care to make myself look as much as a Vermillion Bird as I could.
+
+The Guo man, the child and the butler approached us, looking a the newly captured animals with interest.
+
+“Not bad.” Guo Lu Poo said as he stared at the Black Turtle and tiger cub, nodding his head. He paused upon seeing the empty cage, then chuckled to himself.
+
+“I took good care of the bastard that dared to send you a snake.” Guo Lu Poo adressed his grand daughter. “What happened to the wretched beast?”
+
+“I took care of it, as instructed.” The butler lied through his teeth, but the big man himself didn’t seem to notice. Instead, he nodded and gave the small red bird a strange look. She looked back at him and squeeked.
+
+He brushed it off and turned to me. Giving me a deep look, I pretended to be a simple chick who didn’t know any better than the small red bird. I stared at him, bobbing my head a few times and squeaking.
+
+“Is this what that snake gifted me?”
+
+“Indeed, sire.”
+
+“What do you think he’s planning? This is far too valuable, it’s too suspicious.”
+
+“I’ve already sent people to look into it. Apparently he went out after his children had been killed to take care of the muredere.”
+
+“Children? Which children?”
+
+“I believe it was the two sons he’d exiled, sir.”
+
+“Ah, good riddance then. I’m glad that bastard finally suffered some loses. It was about time.” Guo Lu Poo didn’t actually seem all that happy.
+
+“So what happened while he was away?”
+
+“He remained hidden for the most part, never showing himself. He went down to a small village called ‘Hu’ and stayed there for a few days, then left with this bird in tow.”
+
+“Is that so?” Guo Lu Poo raised his eyebrow, his eyes shinning with Qi.
+
+“Precisely sir. It is believed that the Myriad Market had sold it at their auction there.”
+
+“Pft.” He snorted. “How could the Myriad Market branch of such a city have something like this? Something smells fishy.”
+
+“I asked around, and apparently they had a few surprises. Many things happened in Hu Village ever since Meng Mao appeared there.”
+
+“Such as?”
+
+“A prominent clan in the area disappeared, having gotten burned down. Some of the best paid killers in that area also went away, adn the Shang clan’s young miss left as well. But the biggest thing was the appearance of Peak Grade pills.”
+
+“Peak Grade pills you say?” Guo Lu Poo snorted as he turned to look at the butler. “What sort?”
+
+“Some Peak Middle-Grade Meridian Awakening pills, it seems.”
+
+“What?” Guo Lu Poo spat as he asked. “Peak Middle-Grade you say? Preposterous! How could something even I can’t get my hands on appear in such a small village?”
+
+“I have no idea sir.” The butler shook his head. “But all of these strange things started happening after Meng Mao arrived there, and they stopped when he left. Apparently, the local Moon Bloom flower had also gotten plucked with no owner selling it yet.”
+
+“That’s peculiar.” The big man turned pensive. His attention returned to me, and his eyes flared with even more Qi. With his pupils shaking, I could tell that he was using some sort of discerning technique.
+
+I kept on my act even as he circled around, but moved away when he tried to touch my feathers. That was not going to happen. He didn’t seem pleased, but it was the natural thing for a bird to do.
+
+When he stepped away and weaved a hand sign, though, I got worried. I prepared myself for the worst, but my favorite notification finally appeared.
+
+[Skill: Perfect Disguise(Intermediated) has ranked up to Perfect Disguise(Expert)]
+
+Exactly what I was waiting for. The skill finally ranked up, and the butler’s pupils narrowed for a second. They started shinning with a certain brilliance, as if he’d realised something, and nodded to himself.
+
+As for Guo Lu Poo, he didn’t seem to have noticed the change. All that he did was stop inspecting me and nodded approvingly. “I haven’t detected anything out of the ordinary. What about you, Mo?”
+
+“Nothing sir. Looks like a Vermillion Bird to me, though I have to admit seeing one in the flesh is drastically different from seeing one in picture books and scrolls.”
+
+“Right? What a wonder of nature.” Guo Lu Poo sighed with amazement,  his grand daughter staring at me with curiosity. I pretended to be clueless about everything, and the three went away.
+
+Though my mind had gotten bombarded by something unexpected yet again.
+
+I know about the Phoenix feather, too.

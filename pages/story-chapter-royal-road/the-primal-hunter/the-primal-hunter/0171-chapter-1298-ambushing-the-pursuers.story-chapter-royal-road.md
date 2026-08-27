@@ -1,0 +1,147 @@
+---
+id: 62c0c2c9-40db-580a-a02d-5bfcbd9568e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1298 - Ambushing The Pursuers"
+slug: 0171-chapter-1298-ambushing-the-pursuers
+partOf: the-primal-hunter
+position: 171
+ownLength: 2977
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3301089/chapter-1298-ambushing-the-pursuers"
+royalRoadId: "3301089"
+---
+
+Jake had initially gone to Venus with the goal of getting a bit of hunting in and becoming more familiar with what he could now do as a B-grade. Of course, things had been a little sidetracked when he learned that Venus was no longer a planet, but instead an entrance point to a massive Minor World filled with B and even A-grades.
+
+While that had delayed him a bit, all in all, it was probably even better from the perspective of someone who just wanted to visit Venus for a little bit of hunting. A planet like Venus could only facilitate so many B-grades, and they would likely end up living in their own territories far apart from one another, making it highly inefficient to track them down one-by-one. Also, Jake wasn’t even sure he would have wanted to hunt them down, as it seemed a bit questionable to visit a new planet and proceed to completely fuck up the local populace, all to probably not even get a single level.
+
+Meanwhile, the new and improved Minor World Venus offered an entire field of death filled with B-grade Arachnecs for him to kill to his heart’s content without any guilt. No, better than without guilt, he was actively making friends by hunting down the undead.
+
+Now, he did consider for a moment whether hunting down the Arachnecs was morally questionable. According to the Shaman, they were part of an organized faction, which meant they had sentience at the very least. Killing them unceremoniously could definitely be viewed as a dick move, but at this point, Jake had already made his choice on which faction he wanted to ally with within this Minor World.
+
+Also, let’s be honest, was it really a choice in the first place? The frog people were literally called Venusians, meaning that, even according to the system, they were the “true” natives of this Minor World. At least that’s what Jake thought, having already named this Minor World Venus. It would also be way too big of a coincidence that the frogs were randomly called Venusians if this Minor World wasn’t actually called Venus.
+
+Anyhow, along with the Shaman and four other frogs, Jake had started moving through the death domain and taken down several more Deathstalkers. Only after he’d taken down the fourth did the other Arachnecs react, and oh boy, did they react.
+
+“Retreat for now,” the Shaman said in a hurried voice as he summoned a barrier around them all. “They’ll likely start swarming soon, if they haven’t done so already.”
+
+Jake, who had already used Pulse to confirm this was indeed the case, nodded. “I detect at least a few dozen coming our way.”
+
+Below, the Deathstalker’s corpse hadn’t even finished turning into miasma yet, but all the Arachnecs had definitely felt it the moment their kin died, and this time, they’d reacted.
+
+“Your perceptive talents have reached a truly frightening level,” the Shaman muttered as they all retreated away. “Then again, if you are a lone wanderer who adventures through dangerous territories, having the ability to detect danger from afar must be an invaluable ability.”
+
+“Perception is the best stat,” Jake shrugged with a sly grin.
+
+“Hm?” the Shaman looked at him. “Is that the consensus outside the Boundary? I know it’s a subject the Circle has often discussed, as Free Point distribution is always a massive matter to decide, but so far, the conclusion has been that the choice is best left up to the individual and what suits them best.”
+
+“There are detractors, but in my opinion, Perception is definitely the best stat,” Jake said, not sure how far he could take the joke.
+
+“I see,” the Shaman nodded, and fortunately, he’d definitely seen through Jake’s joke. “With sincerity, I hope you do not find it offensive that I continue to focus on Willpower and Wisdom as-“
+
+“We have incoming,” Jake cut off the Shaman as he noticed that a group of eight Arachnecs had split off from the others and were chasing directly towards Jake and the others.
+
+The Shaman instantly stopped talking, and all five Venusians adopted a serious vibe as Jake relayed what he’d detected.
+
+“Eight in total, six Deathstalkers, and two variants I don’t recognize. One of them appears to be fully covered in flesh, with its upper body consisting of a two-armed growth that’s wielding something resembling a staff. The second one appears to have a large eye on a tendril of sorts rather than an actual upper body.”
+
+Jake’s descriptions were shit, but there were only so many different variants, allowing the Shaman to instantly recognize what they were dealing with.
+
+“A Corpsemender and a Monitor,” the Shaman said with a serious look. “The one with a staff is capable of repairing its kin and summoning undead creatures, while the Monitor is certainly the reason we were spotted. I believe it would agree with you that Perception is the best stat, as that’s its sole specialization. While I’m confident in my ability to obscure myself and my allies, I’m utterly incapable of hiding from the gaze of a Monitor. However, both of these Arachnecs are a lot slower than the Deathstalkers, so we should be able to escape if we-“
+
+“Why would we?” Jake asked as he slowed down. “Not saying you have to fight, but I don’t see why I wouldn't.”
+
+“A battle would be a needless risk and jeopardize our lives,” the Shaman said, visibly confused. “Better to only engage when we have an absolute advantage. The Arachnecs reproduce at a pace a hundredfold our own, so we simply cannot afford such reckless actions.”
+
+That was definitely one big difference between Jake and the Shaman, if not all Venusians. Perhaps due to their heritage as monsters, it was more efficient to just level up while taking advantage of the environment. However, he also understood from a faction’s point of view why the Shaman was reluctant. If what he said was accurate, the Venusians truly couldn’t afford to fight battles like this. While Jake did estimate each frog to be more powerful than the undead spiders, it wasn’t by a huge margin, and he reckoned the Warriors would be equal to, if not lose, a two-versus-one against the Deathstalkers. Based on his own estimate of how powerful each felt, anyway.
+
+“You don’t have to fight,” Jake said in a reassuring voice. “But I will, not because I have to, but because I want to. So keep retreating; I’ll gladly take advantage and ambush them mid-pursuit.”
+
+The Shaman stared at Jake as if something was seriously wrong with him, but ultimately nodded. “Very well, but please promise to retreat if you find yourself in a too perilous situation.”
+
+“No worries, I don’t plan on dying today. Or any day, for that matter,” Jake smiled, giving a final reassuring look as he stopped flying and exited the obscuring barrier created by the Shaman. The five Venusians kept flying, though they did slow down a little, giving Jake the sense that, should he be in big trouble, they still planned on helping him.
+
+A nice, but unnecessary sentiment.
+
+He’d already noticed that while this Monitor had spotted the Venusians, it hadn’t seen Jake, who was using Unseen Hunter. In other words, as they continued chasing towards the Shaman and company, they would pass right under where Jake was waiting in ambush, ready to unleash a nice opening strike.
+
+In fact, Jake’s actions of slowing down the Shaman’s retreat had resulted in the Arachnecs chasing with newfound vigor – a word Jake really wasn’t sure made sense for the undead. In either case, they were definitely motivated now that they were rapidly catching up.
+
+They were still pretty deep within the death domain after having hunted down the Deathstalkers before, and Jake guessed the Arachnecs would stop chasing if the Venusians escaped too far outside the advantageous environment, so this was good for Jake as he started setting up.
+
+Seeing as the Arachnecs were mostly similar, he’d already started working on a Protean Arrow before fully spotting his prey, and it was ready by the time he saw them. The eight B-grades moved together, spearheaded by three Deathstalkers. At the rear were the other three Deathstalkers, and in the middle were the two new variants. Jake quickly Identified both.
+
+[Arachnec Corpsemender – lvl 396]
+
+[Arachnec Monitor – lvl 401]
+
+Their levels weren’t that high compared to the other Arachnecs Jake had killed, and it looked like they shared the same feeble bodies as the rest of their kin, making Jake pretty confident in what he was about to do.
+
+As they drew closer, Jake nocked his Protean Arrow, his first target obvious. One of them was called pretty much the undead equivalent of a healer, and everyone knew that one had to kill the healer first.
+
+Once more, he activated Arcane Awakening at the offensive 50% as he took aim and charged his Arcane Powershot. Once he felt the strain on his body reach its limits, Jake loosed the Protean Arrow down towards the chasing Corpsemender that definitely didn’t look like it expected to get attacked from above mid-pursuit.
+
+Based on how it didn’t react at all in time, Jake was very correct. His arrow flew nearly straight down and struck the Corpsemender in the middle of the Arachnec group, resulting in very much the same as what had happened to the Deathstalkers Jake had struck prior.
+
+The B-grade’s body was torn apart as its entire humanoid portion was obliterated by destructive arcane energy, the arrow continuing down and blowing up its entire front half. Around the Corpsemender, all the other undead stopped, now aware of Jake’s presence and location, though the resulting explosion did instantly force them to spread out to avoid taking damage. Still, they were coming for him imminently.
+
+Jake didn’t pay this any heed as he proceeded to unleash several follow-up arrows. Unlike the Deathstalker, this Corpsemender hadn’t immediately died, but actually started repairing its own body at an insane speed right after being struck. New bone and rotting flesh were sprouting and fighting back against the destructive arcane energy, likely due to some survival skill of the B-grade.
+
+In response, Jake bombarded the Corpsemender with arrows as two Deathstalkers tried to move and defend their healer. At the same time, Jake’s danger sense warned him of an incoming attack as the Monitor below locked in on him.
+
+The Monitor looked like an undead spider with a worm with an eye for a head sprouting from its back, the entire creature looking very “wrong” and stitched together as if someone had just sewn the weird worm creature to an actual undead spider.
+
+This eye-worm evidently had noticeable offenses, as it proceeded to unleash a deep purple, laser-like beam up towards Jake, leaving a profound sense of death in its wake. With his precognitive danger sense, Jake reacted in time and avoided it, but he immediately sensed that getting hit by that beam would be a bad time.
+
+Several more were fired in rapid succession, but Jake dodged them all while flying upwards as he aimed to finish off the Corpsemender as fast as possible. The two Deathstalkers had reached their healer by now and tried to use their bodies to defend the heavily injured B-grade, but they were not designed for defense, allowing Jake to relatively easily make his arrows weave around them and strike the Corpsemender.
+
+His flight upwards was to buy himself a bit more time before the four remaining Deathstalkers reached him. They were all closing in quickly, but fortunately, Jake was faster. With a final trigger of Hunter’s Mark, an arcane flash of light signaled the death of the first B-grade.
+
+*You have slain [Arachnec Corpsemender – lvl 396] – Bonus experience earned for killing an enemy above your level*
+
+Jake didn’t have time to celebrate his success, though, as he still had seven remaining foes to contend with, four of which were already upon him. When the Deathstalkers moved, they seemed to almost fade from existence, using a high-level stealth skill, and coupled with another movement skill that made them move in unpredictable patterns, they were definitely fine-tuned for assassination.
+
+Unfortunately for them, Jake was a nightmare for any would-be assassins who relied on subterfuge. With his sphere, he easily kept track of their invisible forms as they flanked him from four different directions, showing an impressive level of coordination.
+
+Right before they all struck, Jake stepped down and teleported forward as he spun around and launched an Arrow Rain towards them, willing all of them to explode the second they got close to the Deathstalkers. Not with the intent of damaging them, but to buy himself some time to finish off the second-most important target: the Monitor.
+
+Case in point, he had to use One Step again immediately to avoid its eye-laser. These beams were impressively fast, and coupled with six Deathstalkers coming for him, Jake could definitely see how these Arachnecs could be difficult to deal with.
+
+Seeing as this fight was also one Jake had chosen to engage in with the intent of learning more about his new skills, he decided not to hold back. With six Deathstalkers moving like specters through the poison cloud towards him and a laser-shooting spider worm locked on him, Jake took a deep breath as he went all out.
+
+Arcane Awakening was fully unleashed, bathing his body in power as his eyes opened wide. At the same time, his Perception improved as he used Sight of the Boundless Horizon, and it was as if the entire world was filled with more clarity than before. His eyes were on the Monitor as Jake spoke, using his singular skill that required Words of Power to activate.
+
+“Event Horizon.”
+
+For a moment, he glimpsed the end of all things, but there was more than that. Usually, when he used Event Horizon, his target became marked to his sight, which also happened this time around, but that wasn’t the end of it. Instead, the Monitor was also smashed into the ground upon activating his skill, and its surroundings seemed to warp as if its entire body was wrapped by some invisible restriction.
+
+Immediatly Jake knew the source was an effect of Sight of the Boundless Horizon, as per the description.
+
+“May have additional effects when used alongside certain Perception-based skills.”
+
+With his target’s movements severely restricted, Jake unleashed a barrage of arrows down towards the Monitor as it tried to defend itself. A dense sphere of miasma condensed around its body, forming a shield to try to block Jake’s attacks, but its defensive prowess was far from enough.
+
+Dozens of arrows pierced its body before proceeding to explode, sending decaying flesh and bone fragments flying. Jake’s firing speed was sadly not as fast as he would have liked due to six Deathstalkers attacking him, and it was also only now that he truly saw how they attacked.
+
+Their upper bodies, which consisted of a vaguely humanoid bone growth with four arms, had morphed as each of those four arms had grown long, black, scythe-like weapons at their ends, each emanating a powerful sensation of pure death. Along with these four scythes, they also used their legs, wrapped in black energy and functioning like spears that tried to pierce Jake.
+
+Jake relatively easily avoided all their blows, but with six at once, and seeing as he was also trying to attack, he couldn’t dodge everything perfectly. He ended up choosing to take a hit as he raised his leg to block, which proved to be quite a mistake.
+
+The scythe cut straight into his flesh and nearly severed his entire leg, making Jake’s eyes open wide as he was abruptly reminded of the big demerit of using Sight of the Boundless Horizon.
+
+“While using Sight of the Boundless Horizon, the hunter’s physical and mental defensive stats will be severely hampered.”
+
+All the extra Toughness and durability Jake had gained after his evolution were rendered entirely null when using this skill, making him likely even more of a glass cannon than before. However, despite the downside, Jake had no desire to deactivate Sight, as the damage increase it provided was simply too good. Besides, he would just have to dodge everything thrown at him, and he would be fine.
+
+Despite his injury, and seeing how the Shaman looked about to jump in and try to help, Jake remained entirely calm and used yet another One Step to get away and buy himself some space.
+
+It allowed him to launch several more arrows towards the Monitor that tried to counterattack or defend itself, but the creature was effectively a high-damage moving turret, and with the restrictive effect of Sight-empowered Event Horizon, it was really just a sitting duck that could do nothing but hope its six companions could take down Jake before it died.
+
+Spoiler: they couldn’t.
+
+After a use of Pride and filling the entire area with arcane explosions, Jake bought himself enough time to fire a just-conjured Protean Arrow down at the Arachnec Monitor, and following yet another Hunter’s Mark detonation, the second B-grade of this fight fell, reduced to nothing but a pile of bones and decaying flesh.
+
+*You have slain [Arachnec Monitor – lvl 401] – Bonus experience earned for killing an enemy above your level*
+
+With it dead, Jake turned and watched as the six Deathstalkers had surrounded him once more, all of them practically uninjured. Seeing them all in formation and about to strike, Jake couldn’t help but feel in a good mood as he put away his bow and spread out his arms, a katar appearing in each hand. With a big grin on his face, he invited them to dance as they all charged.

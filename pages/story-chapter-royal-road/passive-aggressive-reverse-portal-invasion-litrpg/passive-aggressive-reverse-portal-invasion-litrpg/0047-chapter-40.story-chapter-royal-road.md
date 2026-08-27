@@ -1,0 +1,121 @@
+---
+id: a99d121c-d499-529a-b497-b914ce0ef4c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40"
+slug: 0047-chapter-40
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 47
+ownLength: 2125
+unit: words
+publishedAt: 2026-07-09
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3652111/chapter-40"
+royalRoadId: "3652111"
+---
+
+A good while later, I circled back in the direction of Last Chance. I slowed down my pace, jogging softly, allowing my Stamina Regeneration and Higher Endurance to help my stamina slowly start ticking up again. It had been a close call. Closer than I’d liked, for sure. Yet, after a while of just running, I took a stand, letting Wave of Reflection handle the few Ghastlings who were fast enough to still keep up with me. The rest of them had either fallen far enough behind to forget about me or simply fallen to the ground, out of stamina.
+
+And there they were. In the distance ahead of me, I spotted a trio striding in a southeasterly direction. Their heads were on swivels and they turned constantly as if they were ready to get jumped at any second.
+
+The moment they spotted me, a squeal went up. Or, rather, I thought it was a squeal. It sounded like another layer to the constant ringing in my ears.
+
+I had to hand it to Nix. The speed with which she sprinted at me, I almost suspected she’d picked something like Improved Run Speed as well. She was fast. She was also fast enough to stop herself from jumping at me when she reached me. Barely. She skidded to a halt and nearly fell. Her hand crept inadvertently to cover her mouth. “Liam. Your… everything.”
+
+I laughed. Even though it stretched my skin and pained my throat, I flung back my head and howled with laughter. Eventually, I relaxed a bit and brought up a soot-covered hand to wipe a few tears away.
+
+By then, the others had caught up. They stared me up and down. Steve especially looked ready to hurl. Eventually, he managed. “Are you… will you survive?”
+
+My nod didn’t hurt quite as much as everything else. “I’ve never had this many debuffs. It’s actually kind of impressive. My attributes are in the dumpster, my health is crap, and my everything hurts.” I winked at Nix. “But I’m alive. And we pulled it off.”
+
+“We?” Nix rolled her eyes. “You pulled it off. You absolute nutjob. Please don’t do anything like that again.”
+
+I snorted. “Hey. You were the one who torched me!” Noticing her face falling, I held up a hand. “Wait! Stop that. I fucking asked for it, remember? This needed to happen, and you did good. Besides… did you check your levels?”
+
+She perked up and nodded eagerly. “Three levels. Three! I didn’t think it’d be possible to gain that much of a jump all at once!”
+
+“Right on. Three for me as well. I’d say it’s probably for the best if we don’t spend it all right away. We should probably get back to Last Chance and have a proper talk about everything.” I shrugged. “I’ll want to hear if you know more about what went down back at the Ever Steady, and… what we can do and all.”
+
+Haddock looked like somebody had punched him in the liver. “That… yeah. We should talk about it. How did you even-”
+
+“Silence!” Steve held a hand out and grasped Haddock’s shoulder. “Nobody move or activate anything. We’re hiding.” He closed his eyes and the world… changed.
+
+It was like a see-through curtain had been pulled over the surrounding world. Like we were at the centre of a massive downpour under a giant umbrella, and everything beyond the umbrella was distorted.
+
+“We should move a bit out of the way. Whoever’s arriving back there is marching straight in our direction.” Steve frowned, then stared into the distance. “Wait a minute. They seem familiar.”
+
+I realized who he might mean. “I did pass three people on the way here. Is it them? My Perception is nowhere near good enough to see from here, especially with this weird talent. They were two Tavungor – those big-ass gorilla-like things – and a Moagie.”
+
+“Hold the fucking phone.” Nix snapped. “Moagies? Are they the ones looking like a seagull bumped uglies with a bulldog?”
+
+“Sounds about right. This one was a bit fancier than usual. Gold trim around his robe and whatnot.”
+
+“That fucking bastard.”
+
+It was the asshole who’d conned them into racing right into the horde of Ghastlings in the first place. He and his friends, who Kimzi had discovered were just interested in stealing whatever Nix and the others had on them, were now slowly strolling along, ready to sneak in and secure whatever equipment survived once the Ghastlings were done gnawing their bones.
+
+We had a very brief, very heated discussion about what to do. Five minutes later, we had another heated discussion. With the Moagie.
+
+***
+
+“You let us out of here, right this instance!” The Moagie shouted up at us.
+
+Watching Haddock’s fortress in action had been impressive as hell. The fact that he’d regained enough mana to summon another big construction into existence a mere hour after bottoming out on mana was impressive enough. But how, within a couple of seconds, he was able to turn another piece of soil into a deep hole into the ground? That was outright awe-inspiring.
+
+Of course, your perspective might differ if you were on the bottom of said hole, watching the distant horizon being replaced by soil. Soil, which was slowly ringed by spike-strips on all edges, just in case somebody got any ideas.
+
+Eventually, Haddock nodded, wiping a drop of sweat from his brow.
+
+I slowly strolled up to the edge of the hole, just in case they’d try to attack us immediately.
+
+In front of my eyes, intertwining sections of rods reaching from side to side of the deep hole emerged one by one, like bars in a jail cell, in case the Moagie got it in his head to try to fly out of there.
+
+“Do you even know who I am? You have no idea who you’re messing with!” Whatever stature the fancy clothes granted the bewinged creature was entirely lost by the way his face reddened with fury. Spittle flew from his mouth as he snarled at me. I swiftly identified the trio. One of the Tavungor couldn’t be identified at all, but the other one was just Level 12, with the Moagie at Level 16. The Tavungor had enough health I’d peg him as a Fighter, while the Moagie had to be a Crafter or something.
+
+“No idea, you say?” Nix appeared next to me, glancing down at the prisoners. “I’d say I have a fairly good idea. I think you’re the prick who tried to get us all killed.”
+
+His face fell as Steve and Haddock strode up next to her, looking none the worse for wear.
+
+Nix kept talking. I was pretty happy about that, to be honest. She seemed to have a gift for banter, much more so than I did, and didn’t give the Moagie a chance to find his feet. “The funny thing about this is that you’re clearly no-one important. Otherwise, you’d have toadies to send out into the wilderness instead of having to go for yourself. Besides, our friend told us you were… what was the word?”
+
+“Pond-grown scum.” I helpfully added. Those had been Kimzi’s words.
+
+The Moagie started talking – yelling, really – but Nix spoke over him. “Ah ah. I don’t think you really understand what’s happening yet. We could kill you here, and nobody would complain. In fact, nobody would ever have to know. Your bones would be left for the Ghastlings to pick. I was in favour of that idea, to be honest.”
+
+I raised my hand. “So was I.” I added helpfully.
+
+“Only, Steve here is a gentle soul, and so is my hubbie. Meaning, we’re going to give you one chance at life. One.” Her voice grew visibly colder. “You may test us. You may try to backstab us, or surprise us later. But it’ll be the very last thing you do.” Her entire personality flip-flopped, and she grew bright and warm again. “Now, this part is going to be extremely funny – for me, at least. I need you all to strip.”
+
+***
+
+“So, what the hell happened? Back when the Ever Steady fell, I mean. I think I saw you near the front, at some point?”
+
+We’d left the unlucky trio behind us by now. They were naked, locked inside the hole until the mana from the temporary construction would dissipate by itself and the hole would slowly start to refill itself. Meanwhile, I’d stashed what goods I could fit in my Personal Universe and we were carrying the rest along. Tavungor armor really took up a lot of space.
+
+Haddock nodded, his gaze fading, as if he were envisioning the night again.
+
+Nix put her hand on his shoulder and squeezed. “We were right there. When the walls fell, we nearly got trapped. Then that huge Skreeling raced right past us.”
+
+“Shaka, when the walls fell.” Steve added with a serious nod.
+
+I blinked. “No clue what you’re saying, but sure. And yeah. I met that big-ass Higher Skreeling.”
+
+“Everything was chaotic after that. When it all broke down, I managed to send a Flash Flood into the wall opening. That opened up the space a bit and let us get away. We had to fight to shake the pursuit, but eventually managed.” She sighed. “The next few days were scary. I don’t know how it was for you, but we were trying to organize some resistance, fight back against the beasts. We did well for a while, managed to get a whole band together, got ourselves some levels. That’s where we met Steve here.”
+
+Steve smiled sadly.
+
+“Then things went really tits up. We’d been staying on the move, hitting the beasts hard. Except, they must have tracked us after an engagement. Because they got to us when we were sleeping.” She indicated the Canadian. “Steve’s the only reason we made it away. The moment he realized we were under attack, he hid all three of us. We had to stay silent while we slinked away. It was… not pretty.”
+
+“You did what you needed to do to stay alive, and free.” My voice was hoarse, and not just from all the fire earlier. “My ride’s been pretty bumpy as well. But there is some good news among all the bad.”
+
+I spent a while letting them in on the facts around the Kadren and their slave quirks and what that meant for the humans who’d survived the initial assault.
+
+“So, yeah. They hit us hard – but they failed. And as long as we’re able to take any of them out, we should be able to free the survivors and eventually take back the Ever Steady, open access to the portal back home up again.”
+
+“Did they fail, though?” Steve sounded sad. “After we got hit the second time, we fled. We didn’t dare linger long, but we have kept our eyes open. And we haven’t seen a single other human since. Coming here to Last Chance was an eye-opener – realizing that there were other sentient beings out here. We thought they might help us. Instead, they nearly got us killed.”
+
+I smiled at him, sincerely. That was exactly what I’d been thinking, just a few days ago. How the challenge was insurmountable, how there was no way I’d be able to take on the world. Except… now it wasn’t just on me. “That’s the thing, though. They think they’ve won. They think they’re in control. Meanwhile, we’re out here growing stronger – and once we’re strong enough, we can hit them, and take them out. We just need to figure out how.”
+
+“You really think it’s that simple? We just need a good strategy, a good idea, and then we can absolutely defeat a thousand beasts!” Steve’s voice wasn’t scornful. It was hopeless, which was actually worse to listen to.
+
+“Simple? Fuck no. And they’re not just beasts either. This isn’t simple. I’ve been agonizing over this exact thing – when I wasn’t fighting for my life, that is. I thought I was done for, many times over, and couldn’t see a way to go up against such an overwhelming force.” I felt a devil-may-care grin erupt on my face. “Except, that’s the thing. We were surprised. We were ambushed, taken with our pants down. Only now, the roles are reversed. We’re free to come up with the plans, and they won’t ever see it coming. It’s entirely up to us when we go from passive… to passive aggressive!”
+
+There was silence for a moment. Then Nix sighed. “That was horrible. But I’m with you. Here’s to passive aggressiveness, and the resurgence of humanity!”

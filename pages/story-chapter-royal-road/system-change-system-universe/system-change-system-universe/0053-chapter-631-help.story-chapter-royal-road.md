@@ -1,0 +1,109 @@
+---
+id: 22acfcb9-90cb-5dba-a5af-e42eb87afb35
+page-type-slug: story-chapter-royal-road
+title: "Chapter 631: Help!"
+slug: 0053-chapter-631-help
+partOf: system-change-system-universe
+position: 53
+ownLength: 2006
+unit: words
+ownProgress: 2006
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3072704/chapter-631-help"
+royalRoadId: "3072704"
+markedReadAt: "2026-06-29T19:58:25.754Z"
+---
+
+Chapter 631: Help!
+
+“Oh, shit! Oh, shit! Oh, shit!” the voice of a young man sounded out over the empty terrain as he ran for his life. The man was wearing a blue robe with white patterns on the outside, and occasionally, the robe would open just enough to reveal a thin-looking metal armor underneath. “Dammit! Adrian!” the man shouted at no one in particular as he looked over his shoulder and saw the herd of Kethian Striders chasing behind him.
+
+The young man was having a very bad day. A couple of months ago, he, along with numerous other young members of his clan and more, were sent to survive on the ‘dead’ battlefield planet for three to six months. The thing was, it really wasn’t hard to survive. Each of the younger generation was given a guard to keep any real harm from happening to them.
+
+The young man’s guard was named Adrian, and he’d been one of his guards for as long as he could remember. Where was Adrian now? The young man had absolutely no idea. He’d gone to sleep one night about a week ago, and when he woke up, Adrian was gone.
+
+Up until this point, the young man had survived quite well on his own—knowing which monsters to fight and which to avoid. However, while wandering the empty battlefield planet, the young man had let his guard down and stumbled into a Kethian Strider nest. One strider was easy enough to fight, and he could probably handle up to three on his own. However, most of the nest was now chasing him. He tried to count them initially, but he stopped after twenty and focused on running away.
+
+“I’m really going to die…” he muttered as he ran. He was fast—even a bit faster than the monsters were—however, Kethian Striders were known for their stamina and relentless pursuit of whatever they deemed prey. Eventually, the young man would run out of stamina potions, or the monsters would catch up while his potions were on cooldown. And if that didn’t happen, his mental fatigue would do him in. But he was taught never to give up—not even in the direst of situations.
+
+So, as he ran, he was looking for any sign of another clan member. Hell, he wouldn’t even care if he ran into an enemy clan member. At worst, they would save him and ransom him back to his own clan. As long as whoever he ran into had their guard with them, he would be safe. His mission would be considered a failure, and he would be punished for it, but at least he would still have his life.
+
+***
+
+The last few days had been relatively uneventful for Derek and his group. They had run into and defeated a handful more of the Dunesail Gourup during that time. The first couple of kills were rough, and one even got dangerous for a moment. But by the fourth gourup, they were working like a well-oiled machine. Even Edgar had studied the creatures enough that his lightning wasn’t totally ineffective anymore.
+
+However, every time they ran into one of the flying monsters and beat it, Derek would look at Jace, and his friend would shake his head. The first flying monster set Jace’s Battle Intent off, but it didn’t even trigger for all the following fights against the monsters. No, it had locked onto somewhere in the distance and was leading him there.
+
+The person who’d had the hardest time over the last few days was Nivara. As a constant scout, she was becoming mentally fatigued—especially since controlling her scout illusion was already taxing for her. It also didn’t help that her illusion was broken by every Dunesail Gourup they came across. She just didn’t have any way to deal with its stealth or even sense it in her illusion form. At least Klaus had done a remarkable job of not throwing her onto her face again.
+
+“Is there any indication that we are getting close to the target?” Derek asked Jace for what was probably the hundredth time.
+
+“I told you that it doesn’t work like that. It’s not like the pull the invaders constantly felt during the invasion. It’s more like a ‘hey, come this way.’ So I won’t know what the fight is until we get to it,” Jace replied. “But we’ve been walking for a while now, so I can’t imagine it’s going to be too far away. Not to mention that it’s moved a bit recently. When the sense starts making me make minor adjustments, I can kind of say that we are getting closer. Then again, it could be another flying monster that moves incredibly fast.”
+
+“That’s reassuring,” Edgar said from the side. Unfortunately for the former prince, even though he’d found ways to do some damage, he was still feeling quite useless.
+
+The last time Derek opened the Time Prison to let everyone know what was going on and give them a bit of time to interact with their new system, he had asked about letting Blitz out to stretch his legs and wings for a second, but Edgar quickly refused. After Derek thought about it, he agreed. The sandrays were enough to take the dragonkin out easily, and if that happened, not only would they have lost a friend, but it would cripple, or possibly even kill, Edgar if Blitz died.
+
+The Magnificent Blitz was eager to come out and sad when Edgar refused, but after some swaying and an intense look from the bunny who Blitz ‘totally wasn’t afraid of,’ he didn’t complain. Brandi, on the other hand, was enjoying the time working on crafting without the ability to use the system and its skills. She’d gone back to the basics and had made some pretty decent-looking low-level daggers with some of the more basic materials that she had.
+
+Roman… was having problems. It seemed like alchemy without the system’s assistance was quite… explosive. Luckily, health potions at least still worked inside—albeit with the same new rules but without the system to provide a countdown timer for them. But he was pushing on—desperate not to let the young girl show him up too badly.
+
+Stella, Bones, Ogre, and Thomas had also settled into a routine of sparring without the system. Derek looked forward to seeing whether anything would come of that. Malorie was the only person without much to do other than watch over her daughter. She didn’t want to practice sparring because she wanted to shift her class completely away from combat—whereas Stella wanted to shift hers to combat.
+
+Still, as long as Brandi was happy, Malorie was happy too.
+
+As Derek was walking and thinking over all of these things, he suddenly heard something from behind him. He turned and looked toward Klaus—who was still carrying the former queen of the elves.
+
+“Derek!” Nivara’s eyes popped open, and she shouted.
+
+“What is it? Another gourup?” he asked.
+
+“No!” The woman wrestled herself free from Klaus and then landed on her feet. “I managed to get quite far ahead of us this time, but… there was a person. I think he saw me and started running my way before I dismissed my illusion.”
+
+“A person?” Derek questioned. That could be either extremely lucky or terribly unlucky. “He’s coming this way?”
+
+“Yes!” Nivara nodded seriously. “And there was a giant dust cloud following him,” she added.
+
+“A dust cloud?” Edgar furrowed his brow. “A skill… or…”
+
+“Or a bunch of monsters!” Jace cut in with a devilish smile. “I told you my Battle Instincts never let me down.” He drew his kukris and tapped them together. “I wonder if it’s going to be a giant sandworm. I’ve been waiting for one to pop up ever since we got here.”
+
+“We’ll see,” Derek said, knowing full well what Jace was talking about. He’d gotten the same feeling while walking over the wasteland. However, it was a wasteland, not a desert—no matter how much sand there was. It was mostly just packed dirt. “Everyone, prepare yourselves for battle. Silvi and I will be holding back if we can. We can’t risk our Void element being exposed until we know what kind of person we’re dealing with.”
+
+“I hope the person is an enemy,” Jace said as he walked to the front of the group. Even being one of the weakest in the party—when he didn’t have his Battlelust built up—he was either the most courageous or just… crazy.
+
+“I see the dust cloud,” Amelia suddenly said. “And there’s a person. They are too far away to see clearly right now.” She looked at Derek. “May I go scout quickly?”
+
+“Go ahead,” Derek said. “Watch out for the invisible fliers.” Amelia nodded, then shot into the air. Once high enough, she shot forward. Derek whistled. “Damn, she’s fast when she goes all out.”
+
+The group had stopped moving forward and waited. A few minutes later, Amelia landed and wore a somber but ready expression. “Well?” Jace asked. “What are we about to fight? Is it going to be fun?”
+
+Amelia looked at Jace, then ignored him before facing back to Derek. “You may not be able to hold back,” she said.
+
+“What is it?”
+
+“There is a man—he looks human. He’s wearing a blue and white robe with somebody armor underneath. He has long bluish-white hair tied up in a bun and no visible weapons on him. He is either a mage, or the weapons are stored in a storage device,” Amelia explained. “He does have a kindly face… more like Edgar than Jace.”
+
+“What about the dust cloud?” Derek asked.
+
+“Beasts,” she answered. “A few dozen at least. I examined some of them. They are called Kethian Striders. All between levels 290 and 330. Most were around level 315. They look… I’m not sure how to describe them. They have four legs, but their back feet… or claws… maybe talons… are turned backwards, as are their front, but their front legs are a bit longer than their back.
+
+“There seem to be a few different kinds. Most are a silver-gray color, but some are brown, a few are blue, and I also saw some red ones. I’m not sure, but perhaps that indicates their affinity. I need to work on my new examination skill,” Amelia finished.
+
+“Did you see how they might attack?” Marrick asked.
+
+“I would say they have very mobile and fast front claws. They also seem to be built for amazing lateral mobility. I saw one tumble, and the ones behind it moved to the side without slowing down at all. They are incredibly agile,” the woman replied.
+
+“No flying?” Marrick asked.
+
+“Not that I could see, but that doesn’t really mean anything. The person they were chasing wasn’t flying, so that may be why,” Amelia replied.
+
+“Or he may not have been flying for a reason,” Edgar said.
+
+“It’s possible,” Amelia said. “There’s no way to find out until we fight.”
+
+“I’m going to prepare the ground just in case,” Marrick said, then he went to his knees and placed his hands on the ground. The earth around them began shaking and moving under their feet. After a minute and a lot of sweat, Marrick stood up and sighed before drinking a mana potion. “That will make the earth easier for me to manipulate,” he said. “And I brought the sand I could find just under the top layer of soil.”
+
+“Good,” Derek said. “Couldn’t have timed it any more perfectly.” He nodded at the figure running their way. He was completely visible to them all now and matched exactly what Amelia had said. “Get ready!”
+
+The man drew closer and closer, and soon, the earth started rumbling again. This time, it was because of the horde of monsters behind the man and not Marrick. Finally, the man was within range. When he saw Derek’s group all standing there, his exhausted face showed relief. “Please! Help me!”

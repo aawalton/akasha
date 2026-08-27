@@ -1,0 +1,251 @@
+---
+id: 40b7f026-73c5-53d5-b104-597a8f85be01
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Crumbling Hearth"
+slug: 0054-interlude-crumbling-hearth
+partOf: there-is-no-epic-loot-here-only-puns
+position: 54
+ownLength: 2991
+unit: words
+publishedAt: 2018-03-24
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/203206/interlude-crumbling-hearth"
+royalRoadId: "203206"
+---
+
+“Papa! You promised me a cake!”
+
+Velki stepped back from the covered windows with a hand over her mouth. The upset girl tugged on the man’s hand and he picked her up.
+
+“Sweetie, the baker girl isn’t out today. You’ll just have wait and be a good girl for Dad, hm?” he soothed, his voice easily floating into her home and Velki hit a wall as she backpedaled, sliding down to lay on the dark and messy living room floor. Her house next to the bakery was dark inside and Velki stared at the thin gap of light that pierced the gloom.
+
+“Be a good girl...for Papa.”
+
+Velki rocked back and forward as the words repeated over and over in her head like some invasive spirit.
+
+“Go away... it’s got to go away,” she begged aloud. She climbed to her feet and sat down on the stiff rocking chair nearby.
+
+She gathered herself and tried to breath in and out.
+
+The thick rich air, so different from what she came to expect from Durence, hit the back of her mouth and she shook slightly at the Mana. Velki had never tasted such pure mana before and she wished she still hadn’t.
+
+Every sensation, every thought, every second was a heightened experience.
+
+It was not what Velki wanted, it was not even close.
+
+The bare empty house around her was an incomplete dollhouse and the sheer lack of any personal touch suddenly grated on Velki like sandpaper.
+
+“Air, I need...outside air. Maybe the Mana is just thicker indoors?” she half-hoped and took off without her coat or locking her door.
+
+Velki couldn’t exactly fear being robbed when she had nothing to her name bar ingredients and some cookbooks.
+
+Durence in the mid-day looking a little charming and a little distressing.
+
+Normal looking people stopped to chat to the the energetic Mr Haldi who was halfway down the old worn well that looked barely used. Next to the older man was a another man with a thick pair of black glasses on and an umbrella made of some kind of leather.
+
+Mr Von the Banker. Velki remembered meeting him not but a night ago. Mr Von looked up as if hearing Velki’s thoughts. He stared at her and made a start towards her. Velki felt her heart stop and she fled the other way.
+
+The banker had an odd sense of humor and Velki was sure her mother would have died on the spot listening to the creature. She looked over her shoulder, not seeing Mr Von before she smacked into someone.
+
+“My apologies-” Velki put on her polite smile and then froze as Mr Von peered down at her.
+
+“Well, well, well. If it isn’t Baker girl? Were you running from me?” he asked, his voice taking on some unholy glee. Velki looked at him with wide eyes.
+
+“I...you were back there, how did you-” she began to ramble and Mr Von raised one finger.
+
+“Now, I could answer that but I won’t because it will annoy you,” he responded calmly. Velki stared at him and sure enough, a spark of indignation rose up in her but Mr Von merely peeled off a glove and stuck a pale finger out from under the shade of the umbrella and after a few seconds the finger began to smoke.
+
+Velki stared as Mr Von pulled out a thin cigarette and lit it with his burning finger.
+
+“Come strut your stuff with me. I have some investments to collect and I can use someone with...” he trailed off to blow smoke off as he gave her a once over and Velki narrowed her eyes.
+
+Now she hoped the Mana would give her the power to shoot powerful eye beams at people.
+
+“With my witty charm? My new and innocent air?” Velki asked with a raised one eyebrow. Mr Von snorted.
+
+“Please. I have enough charm and no one likes giving blood money to the innocent. No, I need your outstanding figure,” Mr Von went on without shame and Velki realised she had started to follow the man.
+
+“Sir! I do not know you and that is a highly inappropriate thing to just blurt out!” Velki said with shock. Mr Von paused and then tilted his head.
+
+“Do you hear that, Baker girl?” he said suddenly and Velki blinked but heard nothing.
+
+“Oh, it’s the sound of no one buying your crap,” he beamed and Velki’s mouth dropped open. Mr Von strode onwards and left her behind but now a flame of anger flooded Velki and she stomped after him.
+
+“Who the heck do you think you are?” she demanded, not sure why she just didn’t walk away from the rude man. Mr Von suddenly stopped and Velki crashed into his back but he didn’t even move.
+
+“Hm... yes, it would be best to do introductions,” he said and turned, closing his umbrella to do an elegant bow.
+
+“Asdeusmous Zasmute Vongrief... you may call me ‘Mr Von’, ‘Master Von’, or if you happen to be around that dusty old bitch, Jose, you can call me ‘My Nightly Innocence Defiler’,” he said and his face began to smoke as he grinned widely.
+
+Velki swallowed loudly.
+
+“Aren’t vampires suppose to... die instantly under the sun?” she asked weakly and Mr Von looked up as if unimpressed.
+
+“I had a staring match with it once and I won,” he shrugged and opened his umbrella again. He beamed as the burns instantly healed.
+
+“Now, Baker Girl, you and you’re freshly baked goods are going to net me some...wet investments,” Mr Von’s eyes glowed red and Velki turned but a hand slid around her shoulders.
+
+“Dabberghast and Haldi are so worried and they are very good customers. Come, let me show you how to truly enjoy Durence in all it's horrifying glory that hides just out of sight. It usually takes a few weeks to really turn you dull but with this new dungeon, even old Jose is a more interesting skank,” Mr Von explained as he easily moved Velki forward.
+
+“Uh, Mr Von... I didn’t agree to this!” she protested and Mr Von made a low chuckle that turned into a full maniacal laugh.
+
+“Isn’t that the best part!” he stared down and his glowing red eyes seemed to stare into her soul.
+
+“I don’t feel safe around you,” she said bluntly and Mr Von tapped her nose.
+
+“Oh, you are just a smart cookie. Now, let-” he stopped as a man rushed past on a unicorn made of water.
+
+“TO THE WOODEN HUT OF THE HAPPY FOOL CHILD!” the dainty man urged to the creature while another man was dragged behind as he held onto the seaweed tail. Velki had never seen the rider but she knew the man being dragged.
+
+It was Quiss, the grumpy man that Velki had avoided. Quiss lost his grip before he rolled to a stop and was left behind as the man on the water unicorn vanished around a corner.
+
+“I... am going to....kill him,” Quiss said as he stood. Mr Von cleared his throat and Quiss stared.
+
+“Von... you’re out of the bank... and in daylight,” he said without greeting then he looked at Velki.
+
+“You’re out of your bakery,” he added as if this was a even bigger surprise.
+
+“Quiss, just the man I wasn’t expecting to see. How’s your surprise staff?” Mr Von smiled and Quiss looked at him confused.
+
+“Surprise staf-” he began and Mr Von moved past, gliding Velki as if she was made of air.
+
+“You know? The large stick you keep hidden up your rear?” he continued pleasantly. Quiss’ features went dark and sparks of fire leapt from his eyes and Velki stopped resisting Mr Von and she was shot forward in her attempt to be anywhere but in between the two men.
+
+“I see you’re feeling more like your old self,” Quiss stated and Mr Von looked at him with half-lidded eyes.
+
+“Oh, you know it. No mana and all work makes Von a dull undead lord of the night and when that happens, you would not believe the things I have to catch up on!” Mr Von said and gave Velki a sideway look.
+
+“Lord by accident. After I beheaded a lord, by accident. Accidentally. You know because he bored the fucking tits off me,” Mr Von grinned cheerfully and Velki went pale.
+
+Von sighed. “It was an accident!” he stressed. Quiss growled.
+
+“I liked you better when you were some bored bank owner. Watch your language, there are kids around and their parents will bitch at me about your language,” he warned which Mr Von raised one eyebrow.
+
+“Watch my language? Really?” he asked in a bored tone. Velki suddenly had a bad feeling as an absolutely savage looked appeared on Mr Von’s face.
+
+“Hey Quiss? You uptight son of a big titt-”
+
+----
+
+Deo stared as his mother went very still.
+
+He waited to see what would happen and his mother went to the study where Deo’s father was carefully giving his collection of battle axes a polish.
+
+“Dear,” she said and Deo loved how his mother’s mouth could shape words so gently and lovingly.
+
+Deo’s father never said a word. Just looked.
+
+“There is a disturbance... like words themselves were being violated,” she said with a worried expression and Deo knew his Mum was a bard. A special Poetic Class Bard. Deo didn’t know what that meant exactly but he knew his Mum could do really cool things the right words.
+
+One time, Deo remembered that she accidentally swapped her drink with his father’s drink at a monthly eclipse and she got up to sing. Before Delta, that was the most magical things Deo had even seen.
+
+Then next morning when she began to curse lightly and food began to cook itself and animals took care of her chores.
+
+His Dad tilted his head and his Mum just shook her head.
+
+“It’s nothing. Just a little sensitive,” she smiled and they shared a look of deep love that made Deo beam as well.
+
+He hoped he could find someone like his parents did. Deo had no idea what he would do with them but that was half the fun of finding out!
+
+---
+
+“-with a side spit of your mother’s tears,” Von finished and Velki couldn’t uncover her mouth until the urge to scream faded.
+
+Quiss even looked a little pale.
+
+“That was the most disturbing thing I have ever heard,” Quiss said, then blinked as he seemed to remembered something before he turned on his heel.
+
+“I have things to do and you are not helping. Don’t...speak more than you need to,” he warned and stormed off down the street.
+
+Von waved.
+
+“Tell that hunk of wonderful violence, Ruli, that I asked for her,” he called and Quiss didn’t respond.
+
+“What is wrong with you?” Velki had to ask and the vampire looked at her.
+
+“My father and about 600 years of having a violent woman fetish,” he offered which made Velki just wander a little bit ahead.
+
+“And what of you? Ms Velki Love? Daughter of once Popular, Owan Love? A highly successful baker that even sold bread to the royal family back in the day?” Mr Von’s voice seemed to slither from up behind her.
+
+Velki stopped, slightly kicking up dust from the path as she stumbled.
+
+“Before you even ask. A few strings I pulled slipped me the dirt. When you opened your account, I did a rough background check. Birthplace, siblings, parents, grandparents, potential reincarnation, prophecy links, any criminal records... sadly none but ah well, nobody's perfect,” Mr Von walked past her and Velki grabbed his black suits sleeve.
+
+“You had no right...” she spat and Mr Von looked down at with a small smile.
+
+“No, not really but it was fun and passed a boring afternoon! So, thank you for that. Sorry to hear about your pops, sounded like a real swell guy,” he mused. Velki’s ears rang with a wild thumping that sounded like her heart but it couldn’t be because this beating was happening too fast to be healthy.
+
+“Owan Love... shot outside his bakery shop, died with only his teenage daughter around to be with him until he died. Tragic. Makes one wonder what such a delightful past wants with this little cursed town?” Mr Von’s cheerful voice was now so flat that Velki could barely meet his eyes and when she did, they were glowing red again.
+
+Velki opened her mouth but Mr Von merely placed a slender finger against her trembling lips.
+
+“But... it’s none of my business. I just want you to be aware that things are changing and now that you are my client, your well-being is now paramount to my well-being,” he said and his fangs showed slightly as he smiled.
+
+Velki snapped and bit his finger with a childish fury. She barely did any damage but Von merely let her do it.
+
+“Tell me, it had been some time since I left this tiny hamlet of madness. What does the world say when they speak of Durence?” he easily pulled his finger back and Velki spat as if ridding herself of his taste.
+
+She hated how he never once lost any composure or that cocky smile.
+
+“Why don’t you pull more strings if you want to know so badly?” Velki said harshly and Von thought about it then he tugged on her loose brown hair gently. Velki moved back and just glared at his smug expression.
+
+“Tug tug,” he added sarcastically.
+
+“Durence. The town where people go to fade. If you can fit in and not cause trouble, you can die without dying. You can stop feeling. I... need that,” Velki began, Durence had been almost as she hoped.
+
+People spent time doing meaningless things and talking about unimportant facts. Day in and out. No one bought her pies or pastries because it wasn’t yet ‘mundane enough’. It was all going so well then a dungeon appear. It was just like the gods were laughing at her and now... Durence people were...people. Now just imitations that acted like people. Velki felt her eyes going blurry as she was assaulted by memories. Smell of rain, the shop, her mother’s perfume she had stolen. Blood. Blood. Blood.
+
+“Papa! Please, Papa! Don’t...please,”
+
+“Velki...be a good girl for Papa... be a good girl. My good gi...rl.”
+
+“PAPA!”
+
+“Well, I would have prefered a bullet to the man who shot him but I guess running across the country and trying to live on deadland is just as good... apparently,” Von said dryly.
+
+“I didn’t have a gun or a magic wand...I had no leads, I had no way to find out anything! What should I have done?!” Velki pushed Von’s wide shoulder and the man caught her arm.
+
+“Get… good. Well, no time better than now. First, you’re going to help me get my money, with your giant breasts and then I am going to teach you how to find and hurt a man so badly he wishes he could travel back in time and interrupt his parents from conceiving his own existence just to escape the fate that would befall him when you find him. Honestly, it’s either that or annoy Jose when she sleeping and hope I can get away before she gets her swords out,” he grinned.
+
+“I...agree?” Velki said with great uncertaintly.
+
+“Hm... means you have to call me Master, you know?” he said lightly and Velki pursed her lips.
+
+“Yes... master,” she pushed out. Von grinned as he lead her towards a house with a disgruntled dwarf outside it.
+
+“Now, time to get that attitude up and that chest out. Focus and use your powerful weapons to get me my damn 5 coppers he owes for stamps!” Von howled and Velki stopped, turned, and kicked him between the legs with a furious snarl.
+
+Von stood there and then a small pleased smile appeared.
+
+“Ah... Jose, I may have to dump you, this one is a real bun,” he said aloud and Velki had a delightful image of cooking the asshole in her bread oven.
+
+She would make little Von Von buns and Von layer cakes! She began to smirk which made Von laugh that insane noise again.
+
+The Dwarf turned and saw them. He watched and then slowly went inside his home and Velki heard a heavy metal lock being turned.
+
+“How do we...uh get him out...master?” she asked and turned to see Von was already knocking at the door.
+
+“Open up, I have a woman and I am not afraid to use her,” he warned and his long black hair seemed to spill out like the night.
+
+If darkness was loud and rude.
+
+Velki sighed but then noticed something.
+
+The mana no long made her choke. She breathed a few times and then noticed how everything seemed to feel...normal after she argued with Mr Von.
+
+“That son of a bitch,” she cursed then clasp a hand over her mouth.
+
+“Fuck!” she said in surprise then shut her eyes.
+
+The insane laughter sounded out and she glared at the back of Von's head, imagining her gaze locking with his own red eyes.
+
+Velki felt annoyed. She felt pissy due to the sweet nature of Von. Most of all, she felt slightly better.
+
+“I’m a good girl, Papa but...I may struggle with this one,” she admitted for the first time in a year.
+
+A gentle breeze sounded out and it sounded like a plea.
+
+“I don’t think I can back out now,” she muttered and sighed as Von was glowing with red energy and the door began to melt.
+
+“I’ll...call later, Papa,” she promised and ran off to stop her new boss from getting a face full of dwarven metal.
+
+In the end...Von walked home with his share of silver payment... still half buried in his face.

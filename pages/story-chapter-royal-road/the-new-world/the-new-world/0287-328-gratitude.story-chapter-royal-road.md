@@ -1,0 +1,221 @@
+---
+id: 054ab2da-25f8-5f6a-b4df-539507e45deb
+page-type-slug: story-chapter-royal-road
+title: "328 Gratitude"
+slug: 0287-328-gratitude
+partOf: the-new-world
+position: 287
+ownLength: 3652
+unit: words
+ownProgress: 3652
+publishedAt: 2022-02-05
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/839293/328-gratitude"
+royalRoadId: "839293"
+markedReadAt: "2026-06-29T21:31:03.950Z"
+---
+
+Hello Sovereign, you've been selected as a part of the 7,821st galactic council! As a new Sovereign, you shall be allowed to make an introduction to other ruling members and be allowed to speak with several Overseers and Schema free of charge!
+
+| Note | Length of talk varies. You shall be meeting with other ruler sub-class members, each of you representing the might and prowess of your guilds.
+
+You'll also be expected to create alliances with other guilds and form a tight-knit, galactic community! That's the Schema way! Due to the war with the rebels, donations will be mandatory, but Schema's not going to hold an event like this without the chance for an award. A lottery will be held with a special mystery prize!
+
+Who will win it? It's time to find out!
+
+| Note | Non-participation is considered a declaration of war against Schema. Noncompliance will not be tolerated.
+
+Time till meeting: Galactic standard time - 4 hours. Earth time - 3.5 hours.
+
+Chapter Begin
+
+I read the message and reread it, my stomach sinking at the prospect of being under Schema's thumb. Another message popped upright as my mind started racing.
+
+Don't worry rulers, Schema's thought of everything. We understand that mobility, locations, and even circumstances might be trying considering this is the shortest period between an announcement and the meeting ever recorded! Personal Sentinels will be put into place to escort each member of the council. This ensures you will each make it on time.
+
+No, you will not need a warping specialist. No, you will not be allowed a warping specialist either. Do not ask for permission to bring one. Standard galactic warping will be rescinded with the galactic meeting space to prevent incursions or other issues. Thank you all for your gracious compliance.
+
+After arrival, all weapons and items within dimensional storages will be confiscated, along with other supplies. Several Overseers and many Sentinels will act as guardians during your stay here. Be aware of this, and plan accordingly.
+
+Have an excellent stay on the Schema-owned cruiser and good luck with the lottery.
+
+I grimaced as dread pooling into my stomach. After rubbing my temples for a while, I got my thoughts together. I sent messages to everyone, asking them to have an impromptu emergency meeting at Chrona's home. The open vantage point gave us plenty of room, and it let people fly here from afar.
+
+While everyone gathered, I considered my options. The most worrying part of this process was being warped onto some far-off space shuttle. It could be a nearly infinite distance from home, and I may never get back home if Schema stranded me out into the dark recesses of space. Inevitably, I'd reach inhabited space wherever Schema sent me over decades, centuries, or millennia. With my runes firing at all times, I'd be a destroyer that'd wipe Schema off the face of the galaxy. However, Yawm's contract ensured I may die before I reached Schema or could reach him. The idea of being trapped like that made me nervous.
+
+Maybe finding some loophole in Yawm's contract was possible. I could also survive whatever backlash occurred from it, or I may reverse engineer the cipher. Pulling myself away from these worst-case scenarios, I got myself out of the tunnel and back towards Mt. Verner's peak.
+
+On arrival, I found most of our members already there. Chrona, Krog, Helios, Kessiah, Torix, Althea, and Amara gathered in Chrona's home. Only Hod and Florence lagged behind. Seeing Chrona's less humble abode brought a smile to my face; Helios erected void ice architecture for her.
+
+Like a luxurious version of her home in Rivaria, the permanent ice wafted a dense fog onto the ground at certain spots. Void ice operated strangely. It was essentially ice at absolute zero combined with magic shenanigans, which apparently changed its makeup. Even from a cursory talk with Helios, the process involved loads of complex computations and intricate mathematics. However, it gave way to an abundant, flexible material.
+
+In this case, Helios molded a specialized, insulating glass over the entire expanse. This stopped the void ice from peeling people's skin off when they stepped on it. Flying into an open courtyard at the ice palace's center, my guildmates waited for me in the court. The violet ice architecture left plenty of room for a gialgathen, meaning I didn't scrape my head on the ceilings here.
+
+It also made a chunk of Mt. Verner's peak change into the new material. I kept myself light on the icy glass, not wanting to destroy the beautiful lines and details. I found Chrona resting on an elevated platform, the others around her. Stepping up, I smiled at everyone,
+
+"It's been a while since we all met like this, hasn't it? How is everybody?"
+
+Althea hopped over and gave me a hug, and she tried lifting me. Before she shattered the glass or her bones, I pulled us up with a gravity well. I rested my forehead on hers,
+
+"We have to start thinking about our surroundings. I've gotten heavier lately, so that might not be the best idea."
+
+She rolled her eyes, "If you say so...Hm, you have seemed taller lately now that I think about it."
+
+I held back the size increase with my mass manipulation, but at this point, I stretched that skill's limits. I smiled at Althea, "How's your search going?"
+
+Althea frowned, peering away, "It's...It's been slow. I've been working with Florence to help out settlements here. In particular, I've been working on trying and helping children acclimatized to the system. Torix doesn't work as well with them, and I think I can do a lot of good there."
+
+I hugged her, "That's amazing. What do you mean things have been 'slow?' That's incredible, and I think you're doing great."
+
+She blushed, "Heh...I'm doing my best."
+
+I set us down onto the void ice, and I peered around, "Speaking of Florence, is he with Hod?"
+
+As I said that, Hod flew through the air, holding Florence in his talons. Even from far off, Florence's words rang in my ears,
+
+"Hod, do this like we planned. We must nail the landing. It will be glorious."
+
+Hod lifted his long beak, "Pshh, Hod born for landing. Hod only land well."
+
+I blinked, well aware of Hod's many crashes. As they both swooped over the courtyard, Helios facepalmed at the sight of his brother. The ice mage simmered, "Ah, perfect. Two idiots pairing together. It's a match destined since the dawn of time."
+
+As if on cue, Hod and Florence smashed into one of the voice ice pillars. They both flopped down, each of them plopping into the icy ground. Helios fixed the cracks wherever they landed. Florence lifted his face, his black mask cracked, "Ah, Hod, my man, that was horrible. Like, not even close to being correct."
+
+Hod rolled on the ground before snapping back onto his feet. He spread his wings and lifted a leg, mirroring a yoga pose. He cawed, "Hod trick you. Florence fool and Hod initiate special landing."
+
+He jutted his beak out while hopping in a circle. Mirroring a sprinkler, he let out a few caws and Hodisms before Florence smacked his hand onto the ground. The chatty albony gasped, "Agh, he's outdone me yet again. Making me the joker while he's prepared for this landing...A true genius worthy of fear."
+
+Florence played into the situation without missing a beat, and I blinked at them both. Kessiah burst into laughter, pointing at them both. Our remnant healer guffawed, "Gagh, you both look so dumb. It's been so long since I've seen either of you, and that's how you introduce yourselves?" She gave them an ok gesture with her hand, "Really, you nailed it. Just perfect."
+
+Hod puffed out his thin chest, "Hod know. Hod once thought Hod make mistake once. Hod mistake was Hod thinking Hod make mistake. Hod wrong about Hod being wrong."
+
+Hod tapped the side of his head as if he was saying something profound, "Hod think too much sometimes."
+
+Althea laughed, and she let her hands unwrap from around my neck. I set her back down onto the ground, having held her by her hip up till now. Our sizes were quite different at this point, and I mentally thanked her for her transformative abilities.
+
+No, I'm not diving into more detail about that.
+
+Anyways, with everyone gathered, I raised my hands, "Everyone, I have two announcements. Both needed to be in person."
+
+Krog raised a brow, and he spoke in his gruff voice, "Does it involve reinforcements for Blegara? The eldritch formed a rebellion against our cause, and it's been difficult to pacify the Vagni's support for that faction."
+
+Florence pushed himself up, "Ooh, could it be organizing the new guildsmen with an initiation? Most of the village heads wonder what you're like in person, and I tell them you're larger than life." Florence walked up, raising a hand to the top of my head and barely making it, "Which is even more true now. You're getting swole, Daniel. Slow down and leave some gains for the rest of us."
+
+I frowned, "It's the furnaces. Anyways, no, it's not about either of those issues, though they're important, no doubt, especially the eldritch rebels. What I'm talking about is a set of gifts for all of you."
+
+Amara hissed, "What does it entail? More of your flesh and blood?"
+
+I raised my brow, "Well, yeah."
+
+Amara drooled while rubbing her hands together, "Then all is well."
+
+Chrona pointed her tail at me, "Let him speak. We must listen as this is urgent. He mentioned two announcements, and he wouldn't call us here in an emergency message for just this."
+
+My pocket dimension spawned over me, and I pulled out all the specialized gear I crafted, "For the most part, you're right. I think this might be worth calling you all here by itself, but I'm gathering everyone for the second announcement. I'm getting this out of the way while you're all here."
+
+I dispensed with the grimoires, the new armors, and the rings. I gave Florence and Helios two rings as well, and as I did,  I murmured, "You can take these to the Emperor if you'd like. Just know that by the time he analyzes what this is, it'll be out of date. You won't get anything else after this if you do that too."
+
+Helios peered down at the ring, "Hm...Noted."
+
+Florence snatched the band from my hand. The chatty albony lifted it up, "Ooh, this looks fancy." He put the ring on before taking a step back, "But it feels even fancier. Hah, this is well made. It makes me feel more Daniel-ey. Physically speaking, that is."
+
+Unlike his brother, Helios suppressed his excitement. The ice mage peered back and forth between the ring and Florence. Helios gazed off while sliding the ring onto a clawed hand, "I suppose...I'll accept the gift." His pale blue eyes widened under his mask as the band took effect. He murmured, "That's...This is a developed enchantment. It's potent."
+
+I smiled, "It's the tip of the iceberg."
+
+Behind me, Amara lifted her new grimoire, studying the book and its intricacies. She sat down and opened it before gripping it from both sides. She spoke with surprising emotion,
+
+"This...It will make operating with cipher much simpler than before. It dwarfs anything I've ever been given. Thank you, Harbinger."
+
+Torix gawked at his grimoire while scoffing, "It's as if you'd devoted yourself to ceasing my technological renaissance. Why, if every magical device carried these conveniences, obelisks would become obsolete."
+
+Althea stared down at hers, "Uhh...Why did you make one for me?"
+
+I shrugged, "You can use my armors and the books themselves to fuel simple magical spells. I know you don't like using your blood magic, but this should give you a lot of utilities if you take advantage of it."
+
+She pursed her lips, "Thanks. This is really cool."
+
+I smiled, "That's my intention. You got a new set of armor as well."
+
+Althea walked up to her mobile exoskeleton, "Yeah, it's definitely a step up from what you gave us before. It's kind of...I don't know, a huge leap. It looks like power armor, just using your fabric's innate abilities rather than hydraulics."
+
+I frowned, "Yeah, it is."
+
+Althea leaned over it, "It's really neat...And it looks like it would require a pilot or skill to use. Heh, I hope I can get it up and running on my own, but who knows. It could be tougher than it looks."
+
+I cupped my chin, "You know, I thought the same thing. I think it'll be fine for the most part. Don't get in it until I get back, though."
+
+Althea tilted her head, "Back from what?"
+
+I sighed before opening my status. I turned it to everyone, "Schema's called the first galactic council since I obtained my Sovereign class. I'm set to introduce myself, my guild, etc. I wanted each of you to know where I intend to go with the guild and what kind of plans I have for the future. If there's something you don't like, now will be the time to say it."
+
+I turned a hand to everyone, "Everyone, I know I've been disengaged from the day-to-day affairs of the guild lately, and I haven't been discussing my future plans with any of you. By knowing my intentions, you'll all get a better idea of what we'll be working towards in the future."
+
+I spread the Rise of Eden over everyone, "You all know about this aura. I also have Event Horizon, and most of you've experienced that as well. However, I've discovered recently that Schema and I have come to a crossroads regarding my auras and mana. I don't hate the AI, but at the same time, he's put us me one bad spot after the other."
+
+I sighed, "The best example...It's Yawm. That was before most of you arrived, but those that experienced it will know what I mean. We were trapped on Earth and pitted against Yawm of Flesh. He was over 10,000 levels above us with Etorhma's cipheric augments. This gave him ridiculous powers, and it was a miracle we survived."
+
+I let my hands flop against my sides, "That was a death sentence. No quests or additional support during the war with Elysium was a cakewalk compared to that. The gialgathens also suffered cruel fates where they were allowed to be killed by Schema since they weren't in the system."
+
+I grimaced, "And Schema didn't get rid of our unknown statuses...He also left Hod's species to die. I mean, in all honesty, the system and our circumstances have been tugging us around for a while. So far, survival has dictated what we'll do next."
+
+I waved a hand, "I'll ensure that won't be an issue any longer. I'm going to establish Earth as a primary fortress for our guild. I'll be making thousands of cities over the planet, enough that a Spatial Fortress or two will have to think twice before landing here. They'll face a horde and me at full force."
+
+I pointed into the sky, "There are planets in our solar system that are terraformable as well, like mars, venus, maybe even the moon. We're in a unique situation where we can pull those planets from the brink. I'll talk with specialists to see how feasible each location is. I'll be finding fringe worlds to colonize as well as my golems are Fringe Walkers. Each and every one of them."
+
+I let my hand down, "And last but not least, I've also allied with a non-Schema entity. It's a dangerous gamble I'm making, but at the same time, I know this entity is a huge opportunity for us. We'll be able to expand our guild's options exponentially moving into the future by associating with this person. I'll elaborate more later."
+
+I looked at everyone from above, "Is there anything anyone wants to add that I should mention to the galactic council? Maybe something someone disagrees with."
+
+Florence stepped up, squeezing a hand where he wore his new ring. He stared at his hand before giving it a nod. He smiled at me under his cracked mask before reaching up and placing a palm on my shoulder. He said, "May I speak?"
+
+I stepped aside while generating a pillar of stone for Florence. I lunged to one knee, making me stick out less. Florence spread out his hands, "So, you all know I'm a member of the Empire and an albony royal. I've been a member of this privileged class since birth, and I've done well under that system."
+
+Florence put his hands on his hips, "But I've disagreed with it. I've disagreed with how we've handled natives, other populaces, and even how we manage planets from the ground up. Working with each of you has been a breath of fresh air. It's amazing that such a group of talented individuals from so many different species have come together under one cause. I know you're all used to it, but I can tell you from an outsider's perspective; it's extraordinary."
+
+Florence peered at me, "You all know the cause, but it deserves to be spoken aloud. You're the reason for this, Daniel. You gave each of us a new home to call our own, and we all couldn't be more grateful for it. Please, stand."
+
+I looked up at him in surprise, but I stood up. Chrona and Krog called out in unison, other gialgathens in the distance joining them. Hod spread out his wings and bowed. The others, even Amara, lunged to one knee and gave me a bow as well. Only Helios stayed standing, but he lowered his head regardless. Florence hopped off his platform before lunging with them.
+
+He bowed, and as he did, he removed his dark, wooden mask. A joyful, jovial smile of his stared at the ground. He said,
+
+"I, for one, have gained so much since coming here, and I can't imagine going back to the Empire."
+
+Florence tossed his covering aside, and Helios gawked as the wooden mask tumbled on the ground. Florence put a hand over his chest, "If you're willing, please, I'd be honored to join your guild."
+
+Florence made the most of the slight gesture, showing a willingness to throw it away. Without a second thought, I opened my status, sending him an invite. Florence accepted, and his bow and tone of voice deepened,
+
+"Thank you, Harbinger. You've given all of us a home, and whatever you want to do, we're all for it. Really, you don't have to ask for my input. I'm all in, and I think everyone else is as well."
+
+No one disagreed, and I stared at the group. They stayed in place for a while, and Florence's speech almost brought tears to my eyes. I hadn't expected it, and it really caught me off guard in a good way.
+
+I stammered, "T-thank you guys. This really isn't necessary. I'm just doing what I can."
+
+Florence peered up with clear blue eyes, "Come now, you deserve some recognition. I think everyone can agree with that?"
+
+Krog and Chrona growled out in the back, other gialgathens joining the cry. Hod's form flared out with umbral fire. Althea whisper-shouted, "Go, Daniel. Wooh."
+
+Kessiah shook her head, "You saved my ass, that's for sure."
+
+Torix's fire eyes flared green, "Whatever you decide to do from here, I shall support it however I can. You've done a fine job, all things considered."
+
+I swallowed back a wave of emotion before lifting my hands, "Ok, that's enough, guys. I can't take anymore."
+
+Althea ran up and gave me a hug. Hod joined, and Florence walked up and put a hand on my shoulder. Torix joined, along with Krog and Chrona, who put their tails on me. I gave everyone a small smile, "Thanks. We'll be doing big things from here. I promise you all that much."
+
+They all let me go and backed up. With the cheesy but warm moment over, Chrona gave me a grin while spreading her wings, "You took us from a doomed planet and extinction to several new ones with clean waters and open fields. I shall always miss what Giess was, but I know that this will be a fine home in the future. Whatever your guild does, the gialgathens will serve under it. For now, and for all time."
+
+Krog smacked his chest with his tail, "We stand by you."
+
+I soaked in the unexpected congratulations, feeling good about what I'd done for once. I took a breath, peering at the time. The meeting would take place in an hour, but the Sentinel would arrive in a minute to get me situated. I closed my eyes, "Then I won't let you guys down."
+
+I released my Mass Manipulation skill. As I did, I cracked my neck and rolled my shoulders. I waved out the stiffness from the magic while spinning my arms. The others gawked at me, even the gialgathens staring up by the time I finished my full expansion.
+
+I peered behind me, "When the Sentinel arrives, I'll be expecting each of you to test out the new gear. Well, everything aside from the armors. When I get back, I'll show you how to use them."
+
+Helios gawked up at me, "A-Are you expanding yourself?"
+
+Behind me, a tear in dimensions popped into existence. I turned to Helios, "Actually, I've been shrinking myself this entire time."
+
+Our old friend, Spear, walked out from the cleaved space-time behind me. He was my Sentinel chauffer. It looked like Schema had a sense of humor.
+
+I smiled at the Sentinel,  "Hey, long time no see. It's been a few weeks."

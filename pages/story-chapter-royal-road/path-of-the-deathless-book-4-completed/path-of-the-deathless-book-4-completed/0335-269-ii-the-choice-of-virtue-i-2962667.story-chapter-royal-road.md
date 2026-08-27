@@ -1,0 +1,119 @@
+---
+id: c643947a-1895-5492-b22f-ff3b2120ab05
+page-type-slug: story-chapter-royal-road
+title: "269 (II) “The Choice of Virtue” [I]"
+slug: 0335-269-ii-the-choice-of-virtue-i-2962667
+partOf: path-of-the-deathless-book-4-completed
+position: 335
+ownLength: 2256
+unit: words
+publishedAt: 2026-01-20
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2962667/269-ii-the-choice-of-virtue-i"
+royalRoadId: "2962667"
+---
+
+269 (II)
+
+“The Choice of Virtue” [I]
+
+***
+
+"Say it again, motherfucker! Say that my mother is addicted to sucking dog cocks and cat quims again! Say it, you little shit!"
+
+“I will say it again! I will! Pull your ear holes open and listen! I will say it again! I—let me go! Let me go! I'm not done here! LET ME GO! I'm not done here with that Van Selin FUCK!”
+
+Shiv took in the scene, pretending to be shocked. He assumed the guise of Marcus once more and attended his first Scouting Class. True to the orc's words, many of the students there were on the verge of violence. They were gathered in two small mobs, facing each other right outside the classroom. Snarls and curses were exchanged, and blades were drawn free from canes. A few spells were even shaped.
+
+And things were made even worse by the arrival of the instructor.
+
+As revealed by Adam, Scout-Master Athena was a retainer of House Stormhalt. This made her an accessory of said House, even though she was meant to be an impartial party. Currently feuding with House Stormhalt were the Lesser Houses Grant and Toradega, along with the Van Selins, a Major House long-allied with the Van Errens.
+
+Disappointingly but not surprisingly, Scoutmaster Athena decided to side with the Stormhalts. Rather than toning down the crisis, this incensed the other side, and things nearly devolved into violence right then and there.
+
+Somehow, Shiv, Adam, and the Culturist shared a sigh in concert as they took in Scoutmaster Athena. She resembled your stereotypical Bearer of the Path of the Shadow to the extreme. Her skin was dark and covered in scars, lines traced along her neck showing her close encounters with death. Her clothes were a shroud of leather that dampened noise and emitted an expanding darkness, and over that was a cape that caused her to be partially invisible. When stared at from behind, she seemed utterly transparent where the cape flowed. Rather than specializing in daggers or other implements meant for engagements of proximity, she preferred twin crossbows capable of being loaded with various kinds of ammunition, with the weapons strapped to her hips on each side.
+
+But despite possessing such an enticing aesthetic, she was ultimately no more in control of her own emotions compared to the students she was meant to govern. The moment she realized someone had wrenched open a few caskets and stolen a few items from the Stormhalt family crypt, everything became a matter of honor and offense, and soon she was among the many incensed, snarling at the children she was supposed to train.
+
+"What a volatile situation, and what a humiliating Master-Shadow I behold," the Culturist tutted with second-hand embarrassment. "To let yourself be drawn so far into the waters of emotional turmoil. What is the point of being a Pathbearer if you cannot even master yourself? How do you think you should resolve this, Deathless?"
+
+The Legendary orc's question was pointed. He gave no hints, but Shiv already had an idea. That idea wasn't to de-escalate. No, everyone was already far too angry for that. There were well over sixty students clogging up the hallways leading to the lecture hall. And right then, if any of them raised a weapon or released a spell, it would be like a match striking a powder keg. And so Shiv made sure that he added more flame. Too much flame. Far too much for the gathered mob to bear.
+
+The rage and anguish the Culturist engendered inside Shiv churned and spewed free from his eyes. He timed his blast carefully, using Scoutmaster Athena's shadowy shroud and the invisibility of her cape to mask his social attack.
+
+The first person he struck with his rageful fires was the Scoutmaster herself. She went from being furious and frustrated to coming apart at the seams. The fire within her emotional core reached a point where she was breaking before the pressure. So much added anger was flung into her from Shiv's very eyes that she clutched her chest as if on the verge of a heart attack. As she folded over, a brief lull of surprise entered the conflict. The Stormhalts reached out, trying to figure out what was wrong with their Scoutmaster. Meanwhile, the other side thought the momentum had shifted to them, that they could take advantage of this. They never got the chance. Shiv repositioned himself during the chaos and channeled his Enkindled Flames into the Van Selins from behind.
+
+The students fell in a wave, their rampage cut short before it could begin. Meanwhile, the Stormhalts were too distracted by Scoutmaster Athena's condition to truly see what had happened with their opposition. And they failed to discover Shiv shifting himself behind them as well. With a final burst of hateful fire, the Stormhalts fell, joining the Master-Scout on the ground as they all cursed and writhed, unable to control their own anger. Most of them were weeping, crying, hysterical with frustration, pushed beyond the brink, and utterly hopeless as the campus militia came to deal with the shrieking mob after a series of anonymous complaints were issued.
+
+Class, unsurprisingly, was cancelled thereafter, and the students from the feuding Houses were separated, at least for now. But this wasn't over, especially with the family heirlooms swapped and ancestral caskets looted. Shiv was going to need Solzimort to put what he'd stolen back in their original places. And after that, he would probably need to come up with a plan to see each of the noble Houses assuaged. If he gave a shit, that was. Frankly, Shiv didn't want to see any fighting on campus. If the nobility wanted to slaughter and butcher each other elsewhere, well, he didn't really care himself.
+
+The Creeping Void 142 > 145
+
+Sage of the Enkindled Heart 127 > 129
+
+Ultimately, the only reason why he might intervene on behalf of the noble Houses was if Adam wanted him to. But right now, the Gate Lord was still silent, simply observing. Or at least, Shiv hoped he was observing. Adam had fallen into a contemplative sullenness. Shiv didn't know what to make of it. He obviously didn't like the fact that the orc had decided to inflict such a thing on Adam. But there was a bipolar state to the orc. Now that he had dealt with his urge to dominate, he was itching to take on a mentorship role. He even seemed genuine. But that was the thing about orcs. They could be genuine one moment, and their psychopathy would overtake them the next.
+
+Sage of the Enkindled Heart: Never forget what he is. He won't.
+
+The Culturist decided to offer his comments after Shiv had resolved the problem. "I see, then. This is how you operate. On instinct. You push things to the extreme. You push people past their limits. It is a novel solution, I suppose. But it is not what I would have done."
+
+"And what would you have done?" Shiv asked semi-derisively. "Reached in their minds? Made them all like each other again?"
+
+"Yes, that would be a more reliable option. This does not solve things for good. She is still a teacher, and she should not be. One who cannot control themselves should not be in charge of the young."
+
+"Interesting words, coming from you," Adam said, his scorn barely withheld.
+
+"But they are truthful words. You do not like my presence, and I do not blame you. But I dare say I would be a good mentor for you, if I could control myself completely. And that only makes my words truer. Now, a question for you, Deathless: did you notice the mercenary Shadows hired by each faction lingering inside the building, waiting to be summoned into the fray?"
+
+"No, what? They hired mercenaries?"
+
+"Quite so. A few were inside the building, invisible and unseen. Or positioned atop a nearby aerial library. They have Awareness skills that allow them to peer through walls, and specific bows with dimensional enchantments, allowing their arrows to slip through matter as well. A word of advice: You really should use your Atlas more. In fact, before you do anything, before you engage with anyone, you should activate your Atlas and get a snapshot of your surroundings. Take in what's around you from all directions, and try to deduce what you are not seeing on top of that."
+
+"I noticed the Shadows nearby, but not the snipers," Adam said. "How did you know they were atop the library?"
+
+The Culturist chuckled gently, seeming more grandfatherly than monstrous. "Because Awareness alone is not enough. You notice things—things that stand out, noises and senses that deviate from the pattern. But you don't have Psychomancy. You did not compromise the minds of one of the Shadows, and so you lack critical intelligence."
+
+"It seems what I lack is a critical skill," Adam said with a huff.
+
+"I concur," the orc replied. "We will see to it that you develop Psychomancy in record time."
+
+"And how are you going to help me do that?" Adam asked.
+
+Shiv suspected he knew the answer—and that Adam wasn’t going to like it.
+
+"It will not be pleasant," the Culturist said, "but you will grow quickly with repeated exposure. I hope you gain an Eldritch Resistance Skill with my repeated Metamorphic attacks as well. Worry not, though. I don't use Psychomancy to strike at someone's sanity. I am more along the lines of neuro-regeneration and therapeutic care."
+
+"What? Is that a jest?" Adam sounded skeptical.
+
+"No, it is simply the outcome when the other orcs around you are too keen to break the people they were having conversations with, and someone needed to fix them."
+
+"And that's ultimately your problem, Culturist," Whisper commented. "You think that we're always doing something wrong and that you see something more."
+
+For the first time, the Culturist offered the other orc a genuine scoff, and Shiv tasted a slight measure of anger there. A lingering hatred the Culturist had for his kindred. A reduced flavor of what he reserved for the Challenger. "I think that without me, most of you would have died before ever laying eyes on the first sprawl of Lone Star Trenches. I think we wouldn't have conquered Neptunia. I think we would have never sacked Kalvazar. There is something wrong with us. We all think ourselves lions, but war is not to be fought alone. Yet we care little for the orc next to us. It makes us good for battle, but poor practitioners in a campaign."
+
+The Legendary orc sniffled. "Enough of this. I'm tired of speaking to my lessers. Bring me to my old enemy, the only one I regard higher than even Valor. I wish to see how far he has allowed himself to degenerate in his loathsome habit of slothfulness."
+
+“What, Hymn?” Shiv said, dumbfounded. He knew the orc had a history with the Headmaster, but regarding him higher than Valor? Shiv didn't see it.
+
+“You want to go meet him right now?” Adam asked.
+
+The Culturist huffed. "Of course. Frankly, I've been looking forward to this. I barely held myself back from attacking him while I was hiding within Adam. I expected him to be more of an independent operator now, but it seems that he hasn't changed. Still so willing to work with those greedy dragons."
+
+"Wait, so there's still something I haven't pieced together," Adam said. "When did you manage to reach inside me and contaminate my Seer of Horizons skill?"
+
+"I think you can figure it out, Adam. You have the logic. Think back. Where were you exposed to mana? When did you have to lower your Magical Resistance to undergo a transition? Eldritch magic is still magic. It cannot simply seep into someone through that protective membrane."
+
+Shiv thought hard as well, but Adam managed to figure it out in less than a second. "Oh, you godsdamned bastard. You were in the sewers, weren't you? When we transformed into water to enter the pipes, you were already there."
+
+The Culturist laughed mirthfully. "Very good, very good. Keen senses. Keener mind.”
+
+"Wait, then I have another question. How did you get into the capital without the Ascendants noticing you?"
+
+"Because while Harlock might be a God of Darkness, his understanding of Stealth is pitiful, especially compared to Valor Thann. To answer you honestly, I walked. Using Valor's skill, I simply strolled through the darkness and set foot in the capital. The so-called Midnight isn't very good at keeping track of people passing through his domain."
+
+A grunt of disbelief escaped Shiv. “Just how godsdamn good was Valor before he was broken?”
+
+The Culturist hummed thoughtfully. "I shall put it this way, to ease your understanding. You, Adam, I, the Giantsbane, the Educator, and every Legendary individual you have recruited could all face him together as one—and it wouldn't matter, not even the slightest bit. We would all perish at the end of his blade. There are Pathbearers who are Legends among Legends. And then there are Legends who prey on other Legends, as well as on gods beyond."
+
+Shiv blinked as he took all that in. "Well, then you better give him back his torso when you see him. We could really use someone like you just described in our corner right now."
+
+“And there’s another reason why I’m here: Because I wish to find someone to give me another end.”

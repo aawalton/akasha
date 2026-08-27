@@ -1,0 +1,257 @@
+---
+id: 41ca7fc4-07bd-5117-8451-28cdff71f442
+page-type-slug: story-chapter-royal-road
+title: "366 A Mind of Metal"
+slug: 0325-366-a-mind-of-metal
+partOf: the-new-world
+position: 325
+ownLength: 3554
+unit: words
+ownProgress: 3554
+publishedAt: 2023-03-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1131696/366-a-mind-of-metal"
+royalRoadId: "1131696"
+markedReadAt: "2026-06-29T21:32:21.691Z"
+---
+
+Death was a mercy to this anathema.
+
+The other entity was an ancient brute turned into Baldowah's tool long ago. It had existed for millennia, and it smiled at me, a mass of teeth and claws and blood. It whispered over the suffering, "You will be my next holder. Feel honor from it."
+
+This was what Valgus actually was. The presence shouted in my mind,
+
+"Fall."
+
+And so I fell.
+
+Chapter Begin
+
+Collapsing against the ground, I writhed in torment as Baldowah's avatar wrestled into the recesses of my psyche. I grabbed the sides of my head and shouted, "Get out."
+
+It replied, "Only when there is nothing left to gain from this vessel shall I do so, weakling."
+
+I slammed into it with all of my many minds. The consciousness rippled, surprised by dozens of psyches attacking at once. It sputtered, "You have fight in you yet. How long will that fight last?"
+
+I growled, floundering on the ground. The ancient avatar roared out as we gnashed and gnarled into one another. I let loose all of my offensive abilities, giving no attention to my defense. The avatar shivered in anticipation as joy and exhilaration flooded into the entity. It lauded,
+
+"Ah, you've more than a body of steel. You own a mind of metal as well."
+
+I kept attacking it, the avatar showing cracks in its psionic frame. It laughed, "I will so enjoy breaking you."
+
+In a palpable wave, it unleashed mana. It coursed. It drenched. It unraveled the fabric of reality, and the sheer quantity exceeded anything I'd ever touched or imagined. It flooded my psyche, a drowning roar of thoughts that dismantled my reason and resistance. The avatar scoffed, "To think you've experienced anything comparable is beyond my expectations. However, how long will you survive?"
+
+I rallied my mind, reprioritizing my defenses. This monstrous creature unleashed so much mana it mirrored a star's core, something so blinding it left nothing but fire in its wake. The sheer quantity oversaturated my body, quickly dismantling my physical form. It swelled into my dimensional wake, instantly becoming a coursing, writhing plasma.
+
+It gained a conscious, a roaring abomination of rage and anger. Lashing out, the ascendant consciousness pressed onto me from all angles, smothering my entire existence. I quashed down into a dense, mental cluster, the flow overwhelming me from all angles. The avatar laughed with glee,
+
+"And you fall as all the others have."
+
+I did not.
+
+I pushed mana into my runes, the primordial rune I crafted feasting on untold amounts of mana. It converted into my strength, and the avatar scoffed, "You merely strengthen my vessel."
+
+The rune peaked, unable to tolerate any more mana. It effused out of me as crimson cracks appeared on my surface. It oozed out of my primordial wake before I peered around. Nothing was nearby, and I sent out a pulse for help. The avatar burst into boundless laughter,
+
+"And now you beg me for help? Pathetic."
+
+I ignored him, focused on survival and survival alone. I pressed my mind into a singular point, coursing through the mana flows like a bullet piercing water. It eroded me over the next few minutes, pieces of my mind giving way to the madness. I growled out, "So this is it? You handle everything with raw mana?"
+
+The avatar laughed, "Oh, have you uncovered my origins, perhaps?"
+
+I seethed, "Yeah...I think so. You're just someone given infinite mana by an Old One."
+
+The avatar cachinnated out, "Hah! And so you unveiled my mysteries. Yes, that is all I am, a boundless, endless effusion of mana. The mind that wished for unlimited mana was granted it, but they didn't understand the consequences of their request."
+
+I grimaced, "Psionic drowning."
+
+"An apt term, but it matters little what you call it. You will be washed clean as all the others have been, and I will wear you like the monstrous husk you are."
+
+He spat the word monstrous as it said it. After searching my head for what bothered it, I grinned,
+
+"Oh, you didn't like that dimension rupturing, did you?"
+
+A fragment of spite leaked into the avatar's voice, "It doesn't matter now. You are immune to its effects, so I will never experience it again. I will take your strengths as my own."
+
+Off in the distance, a mass of minds pressed in. My golem armada arrived, and I pushed some mana into them. They soaked in the initial wave without struggle, and I ordered them to disperse it out however they could. The golems channeled ascendant spells at random. Gravitation, telekinesis, and ascendant crystals materialized in every direction.
+
+I poured more mana into the armada until they showed signs of its poisoning. At the same time, they offered psionic support. Hundreds of minds poured into mine and helped ease the pressure. The avatar cackled, "And you expect them to save you?"
+
+"No. Buy me time."
+
+The primordial rune feasted with abandon and expanded my abilities in real-time. I became an embodiment of its hunger, and it sated itself by devouring the supplying mana without recourse. It snapped, bit, and tore into the mana with its ravenous nature, becoming a source of growth for me.
+
+It wasn't enough.
+
+Even as I redistributed the mana to the golems, condensed myself, and gave a portion of the mana to my rune, I found myself washing away. I couldn't control my train of thought anymore, pieces of it going off randomly. It dwelled on battle, fighting, and blood. I considered giving in to the torrent as it gave me strength and power.
+
+I shook my head in disbelief. I resolved myself, remembering this wasn't me. It was another being, and it wouldn't win. I raised my hands, and I generated singularities in the distance overhead. The skyline evaporated as I continued unleashing a cataclysmic eruption in all directions. The plume of mana led to a seismic event, the kinetic forces rippling the ground below.
+
+Far into the distance, air, algae, and even primevals siphoned towards us. It fell into an endless, hungry abyss of singularities. The tiny implosions unloaded in a deafening cacophony, the sound alone visible in the air as it tore algae apart. The sheer output of spells exceeded anything I'd ever done by a factor of ten.
+
+And it still wasn't enough.
+
+The avatar poured out energy in a volume that exceeded my ability to withstand. It shouted with howling laughter, "And you will crumble despite all your efforts. You will steadily be eroded in time. You may believe I cannot maintain this flow, but this is as effortless as keeping my eyes open."
+
+It stated like stone, "This. Is. Nothing...As you will soon be."
+
+As singularities burst above, the ascendant cracks leaked out of my body from all angles. I fell down once more as my armor grinned. I held on with all my might, but it wasn't enough. I fell apart at the seams, pieces of my consciousness turning into slush. I raged about how unfair this avatar's ability was and about Schema pinning me here. This didn't have to be this way, yet it was.
+
+Interrupting my thoughts, my armor laughed. A piece of resentment boiled up from within me. In a way, this kind of end seemed almost fitting. For the longest time, my armor had wanted me to become some mindless monster. It tried to consume and devour without limitation. Soon, that would be its only prerogative.
+
+And I would become the forgotten entity huddling in the corner, rinsed into nothing.
+
+Mana oozed out of my skin, the ascendant cracks crawling from my hands and into the rainbow bones below. As my vision dimmed to red, my eyes snapped open. The avatar scoffed, "And what is it now?"
+
+I poured the mana into the giant mass of bones below me. It turned red, the sheer volume overwhelming this patch. The avatar laughed, "So you intend to metamorphose this plane into one of red, my-"
+
+From below, a psionic wave rippled. The avatar within my mind taunted, "You intend for a patch of bones to stop me?"
+
+The avatar had no idea how significant this 'patch of bones' was. After a few seconds, the beast of untold proportions rumbled, its roar an unknown and its mind endless. The avatar sharing my mind jeered, "What is this abomination-"
+
+And the psionic beast awakened.
+
+All around us, the bones began condensing into a solid. The thousands of behemoths above peered down, their fights halted as they watched an apocalypse. From below, strands of the rainbow bone sliced upward. They pierced the behemoths and pulled them down into the living bone mass.
+
+They were assimilated in seconds, their bodies unable to stop the metabolic rate of the bones. The primevals in the distance fought off one or two tendrils at a time, but hundreds of coiling bones pulled even those monsters into their mass. Many of my golems were caught in the aftermath.
+
+And I was as well.
+
+Rainbow bones burrowed through my body, digging into me with difficulty. They soaked in the profuse energy, sapping the sudden strength coursing through me. I shook my head, reminding myself the power was poison and the worst of its ilk. It intoxicated with hollow promises, and I would not listen.
+
+The giant rainbow beast below understood none of my struggles, yet it offered me hope in this insane situation. More bones burrowed through my chest, arms, and eyes. For once, I welcomed a monster crawling under my skin. The avatar in my head boomed out,
+
+"You think this can contain me?"
+
+The colossal mass of bones murmured like a planet trying to whisper,
+
+"Nothing."
+
+My bones rattled at the sound. The avatar howled, "An unnamed beast without a purpose expects to stop me?"
+
+I blinked back my eyes in surprise. Purpose? This avatar was a caricature of a warrior, lacking any substance. Who was it to criticize others for their purpose?
+
+Shaking my head, I refocused my thoughts as the bones soaked in the red, its shade changing. More needles shot through me until I became more opalescent bone than my actual body. The inundation of energy quelled, becoming a stream coursing over me. In that flow, I found a foothold to ground my mind. My thoughts returned to normal, becoming sane and whole once more.
+
+Having recuperated, I retaliated against the avatar. It shouted, "Gah. To think you'd be willing to give your blood and bones to this monster."
+
+I grinned, blood dripping from my teeth, "I thought this body was yours now, wasn't it?"
+
+The avatar winced as I psionically tore him apart. We wrestled for several minutes, and the avatar's laughs grew quiet. It no longer taunted me. Its thoughts shifted from relishing in its power to fighting for survival. I fought the creature with every tactic I learned from Torix. I used feints, sharpened strikes, and flanks to tear away at its mind.
+
+But this creature existed for millennia. It held an insane amount of experience. Each time I gored a piece of it away, it shifted portions of its mind it didn't need for this battle. Its moves evolved, becoming more and more logical. The madness left this entity, and replacing it, I faced a being of cold calculation.
+
+I fumbled, having a piece of my presence sliced apart. One of my minds ceased functioning, so I eliminated it. After several minutes, two more of my minds were turned into utter mush. The ruthless nature of the avatar shined through, and it reduced my psionic defenses to nothing, one mind at a time.
+
+I recuperated in seconds, but it kept shifting and changing tactics. The strength behind its attacks mounted to full-blown assaults. It found my weaknesses and exploited them, and where I looked, I found nothing. This creature didn't safeguard memories or a soul; it was only an endless spring of mana with many millennia of experience.
+
+It gave no credence to maintaining sanity, and its experience taught it when to change its approach. It silenced its incessant laughter, becoming something akin to an assassin. Each attack became precise. I pressed back, but my attacks lacked the finality of the avatar's aggression. I always defended my mind from being utterly scrambled. This thing didn't.
+
+Hours like this passed, and I shivered as my mind was killed over and over again. I trembled as I was silenced in a cyclical loop, and the avatar infested more of my body and mind. I faded, becoming like a memory as it dismantled my control over myself. After gaining a superior position, the avatar murmured,
+
+"Did you think I was only a being of mana?"
+
+I could hardly think, let alone respond. It whispered,
+
+"You thought so little of me. Your underestimation will be your undoing."
+
+I held on, thinking of how little this creature had going for it aside from experience and mana. It laughed at me,
+
+"I am victorious because I have given everything to fighting. You have only given a piece of yourself that isn't even whole. How can a fragment defeat something completed?"
+
+I ignored it, searching for some way out of this situation.
+
+"You will find nothing here to help you. Once I've evaporated your existence, I'll pull you out of this monstrosity below and return to my former glory."
+
+I murmured, "I thought your mana was infinite?"
+
+"Silence."
+
+I trembled as it continued assaulting my psyche. After a few minutes of fading, something pumped below me. Returning to the physical reality around me, I found the entire world trembling. The colossus of bone siphoned absurd amounts of mana out of me, keeping me sane. Before losing control, I grabbed the avatar's mind and pulled it into my dimensional wake.
+
+As I did, the entity became incorporeal, but it also showed an inkling of discomfort. This thing enjoyed being physical more than something intangible. That was good. I could exploit that.
+
+It scoffed, "You operate off of assumptions. What could you possibly do to my mind out here?"
+
+I compressed time, squeezing our minds within my dimensional wakes. We writhed and coursed, becoming a psionic slushie. The psionic agony impaled both of us, each passing moment another horror. The avatar shouted,
+
+"And you believe this will stop me?"
+
+I pulled us further down, tightening my dimensional wake even more. It howled, "And...And this isn't enough."
+
+Like an executioner wielding an axe, I continued hacking away at our sanities. I no longer defended my mind, content to put this avatar in a state of pain. It ripped away at me, but my mind was strong. I regenerated with each passing second, an endless well of will.
+
+It roared,
+
+"What kind of abomination are you?"
+
+I held myself in that perpetual torment, knowing this avatar had never experienced something like it. It shivered and trembled, its attacks becoming feeble and weak. It pulled into a shell of sorts, the mana and its willing aggression stifled. It growled out, "You may...You may keep me here, but-"
+
+It seethed, "You will stop this onslaught, and when you do, I will wash you away."
+
+It was right. The mass of bones below pulled me down, entrenching itself deeper into my body with each passing second. At the same time, it got used to psionic splintering. It would take time, perhaps months or years, but it would adapt. When it came back, I'd be back on Earth with the lottery over.
+
+And it would destroy everything.
+
+It laughed at my fear. At the same time, something coursed below us, larger than a river. I punched the ground, using the vibrations to feel whatever this underground river was. It weighed as much as something I'd seen before, so I smiled.
+
+The avatar jeered, "A return to your deathly grinning, I see."
+
+Instead of psionically defending myself, I sent my mind to the bone. I removed a portion of the shards and opened it, pulling us deeper. About thirty feet below, one of the many tunnels in the rainbow bones opened up. However, they were no longer hollow; the shining psionic liquid coursed through them like blood through arteries.
+
+Or perhaps more like poison.
+
+It drenched us, the psionic substance empowering us both. The avatar once again cachinnated before saying, "And you've decided to give me more strength yet again? I thank you-"
+
+Spines erupted from me as a creeping psionic death invaded us both. The avatar shivered, its mind eroding. It growled, "What have you done?"
+
+It tried pulling us away, and I fought it. We wrestled in an unseen battle while the liquid killed us both. It destroyed my will to resist, but the avatar wasted away with each passing second. It scrambled to get out of the juice, but I pulled it down. In my body, I breathed the liquid in and swallowed the poison. It envenomed us, and I embraced the creeping call of death.
+
+The avatar did not.
+
+It shouted in anger, "You wish to die?"
+
+I responded with a grin, not my armor's but my own. The avatar snapped,
+
+"You will still be manifested within your body, and you won't even be tormented like that other incarnation was. You will still exist, but this guarantees we will both be disintegrated."
+
+I kept a bloody smile on my face. The avatar screamed,
+
+"No. Let us go."
+
+I returned its howls with silence. It bellowed,
+
+"I don't wish to die. Let me be. I will leave you, but you must let us live. Please. Please."
+
+And I held on as the poison continued ravaging us. As the avatar lost control, its howling became incoherent. It trembled in rage, becoming a storm of hatred. As death crept closer, the avatar's anger melted into the most primal emotion of all - fear.
+
+It trembled. It quaked. It shivered as mortality crept into its mind and laid the seeds of finality into it. This being believed in its own eternity, but now it found the final page of its own book. It gazed at that last page, and it dawned on this avatar what death meant.
+
+As understanding infested it, it screamed in fear.
+
+I held on, hearing the being's final chorus and drinking it in. This entity didn't know dread. It didn't know what terror was as it had been invincible since its exception. Within the vessels of a planetary-sized monster, it found its end creeping in, and this all-powerful entity uncovered what an end meant. It also revealed what its true character was.
+
+A shallow, fearful creature drunk on its own power. Take that power from it, and it was nothing.
+
+As we faded, it reached toward me with feeble, grasping threads. It touched my mind, and its firm grasp turned gentle from its newfound frail form. It found me relishing in my victory, one where we both perished. It murmured,
+
+"You find joy in your end. You are truly insane."
+
+It was my turn to laugh. I shook my head and murmured,
+
+"I find glory in victory and sacrifice."
+
+As my own mind faded, I held onto my previous struggles. I remembered my many fights in BloodHollow and when Baldag-Ruhl tried to rob my body then. I reminisced on the torture of facing Yawm and finding my hometown eroded. Visions of killing millions on Giess flashed over me, and I recalled my fears of having my home planet violated by the Hybrids.
+
+I struggled through hell and high water to get here. As I kept those thoughts close to my chest, I continued persevering. Even if this was my demise, I wouldn't be the first to go. As I had before, I would face whatever this world, avatar, or Old One threw at me. They didn't understand, but what they tried to burn, they merely forged.
+
+And from fire, I would remain.
+
+As I held on, I found my mind quiet. I peered through the sanctuary of my psyche, seeing it clean and cleansed. Nothing remained but me within. I opened my eyes, finding my mind, body, and soul intact. The avatar had died, unable to tolerate the hell I put us through. As my vision faded, I remembered I might not live either.
+
+Panic raced through me as I found myself dying. I tried pulling myself out of the vein of the colossus, but rainbow needles embedded into every inch of my body. Remembering my abilities, I pulled myself out of my shell, soaking my psyche into my dimensional wake. The emptied husk I left behind dried up as it lost what gave it energy and life.
+
+I floated out of the giant bone colossus and walked back into reality. Standing in the sea of writhing bones, I found the waves lessening in height and impact. After a while, they turned back into the shining hills from before. The solidified mass fell back into shards of rainbow bones, and the algae began regrowing overhead.
+
+As the algae encroached from all sides, I stared at the black hole Leviathan. It gazed back at me, its endless void indifferent to the struggles on this planet. I closed my eyes, breathing in the poisoned air and finding it fresh and inviting.
+
+Once more, I had endured.

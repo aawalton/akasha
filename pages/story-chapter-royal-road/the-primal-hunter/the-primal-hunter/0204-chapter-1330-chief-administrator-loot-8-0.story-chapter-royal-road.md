@@ -1,0 +1,163 @@
+---
+id: 238e5a41-6d0a-500b-91ff-d57f701c5928
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1330 - Chief Administrator = Loot 8.0"
+slug: 0204-chapter-1330-chief-administrator-loot-8-0
+partOf: the-primal-hunter
+position: 204
+ownLength: 3029
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3514896/chapter-1330-chief-administrator-loot-80"
+royalRoadId: "3514896"
+---
+
+Jake.
+
+Jake won.
+
+Really, the outcome was as predictable as the election in your run-of-the-mill dictatorship cosplaying as a democracy. As expected, no one had dared to try to pull anything, and as Miranda had said, if they were, she should have really sniffed it out and nipped it in the bud before it became a problem.
+
+A system message predictably popped up in front of them all, confirming the expected result.
+
+The Chief Administrator Selection has successfully concluded.
+
+Selected Chief Administrator of the Milky Way Galaxy Seat of the Exalted Prima: Jake Thayne.
+
+It was a short and sweet message that just got the outcome of the election across. It didn’t include any details on how many votes Jake had gained, how many abstained, or anything like that. All the information he had was that more than fifty percent of those present had voted for him, and that was really all that mattered.
+
+A few seconds after this first system message, Jake received another, though this one wasn’t shared with everyone else present.
+
+Congratulations! You’ve been selected as the Chief Administrator of the Milky Way Seat of the Exalted Prima.
+
+As the Chief Administrator, you’ve gained certain privileges and abilities.
+
+Grants a certain level of control over the Seat of the Exalted Prima. Allows travel to and from the Seat of the Exalted Prima (limitations apply). Allows the Chief Administrator to grant certain privileges to others. More benefits and responsibilities will be revealed within the World of the Exalted Prima.
+
+[Administrator’s Seal of the Exalted Prima (Mythical)] has been upgraded to [Chief Administrator’s Seal of the Exalted Prima (Mythical)]
+
+The first few messages were exactly as expected, just letting Jake know he had some new privileges and whatnot to explore, given the new system menus he now had access to. There were a few things to note, though.
+
+World of the Exalted Prima. That was a new term that instantly let Jake form a very good idea of what the next system event would entail. This World had to be a simulated one based on everything seen so far, and from the sounds of it, perhaps it was a shared one and not just a small temporary simulation.
+
+Time would tell.
+
+Honestly, Jake found himself far more interested in the final sentence of the system announcement than in anything else. He had known it was a possibility, but getting his ring upgraded was a major boon that he immediately felt the second it happened. Making the ring visible, he saw slight changes in its appearance, but the biggest difference was its upgraded stats.
+
+[Chief Administrator’s Seal of the Exalted Prima (Mythical)] – Proof that you are the Chief Administrator of the Seat of the Exalted Prima, having claimed dominion over your own galaxy and are now one step closer to the World Wonder. This item has been touched by the Exalted Prima, granting it potent abilities of adaptation. This allows you to mimic a part of the Exalted Prima Guardian’s powers, giving you adaptable stats. These stats will apply dependent on your situation and your actions. These stats can exceed the stat cap provided by equipment by up to 5% or 10,680 stats, whichever is lower. The Chief Administrator’s Seal of the Exalted Prima grants you ownership of the Seat of the Exalted Prima in your home galaxy (Milky Way) and grants you the ability to teleport to it (limitations apply). Stat amounts granted by this item scale with level. Enchantments: +53,400 Adaptive Stats. Adaptive Stat Amplification. Chief Administrator’s Privileges. Chief Administrator’s Teleportation. As you further your qualifications as a Chief Administrator named by the Exalted Prima, this item can be further upgraded. Requirements: Soulbound.
+
+The ring had, for all intents and purposes, merely been upgraded from a C-grade item to a B-grade one. Everything it did, stat-wise, had tripled, and functionality-wise, it was exactly the same as before. It still had the overpowered effect of giving stats that exceeded the stat cap, which was truly all Jake cared about now.
+
+With his Primal Spirit of Man, Jake didn’t need to care about stats from equipment anymore, but this ring was different. Now, it not only allowed him to make sure he gained the stats he wanted and not just a more flat spread from Primal Spirit, but it also allowed him to gain an extra 10,680 stats on top of that.
+
+A stat amount that even increased with Jake’s level-ups, meaning that this ring would keep being overpowered for the rest of B-grade. What’s more, it even included that little nugget of information that it could still be upgraded further.
+
+If that wasn’t motivation enough to compete against the rest of the multiverse for a World Wonder, Jake didn’t know what was. Okay, most would argue the World Wonder itself was the grand prize, but the ring was also kind of sweet...
+
+Forcing himself to move on, Jake checked out some of the new Chief Administrator privileges he’d gained, and he quickly located the most important one that allowed him to share these privileges with other people. Without even asking her, Jake tried to share everything with Miranda, earning him a look.
+
+“I was just about to ask what the system told you, but I guess it has something to do with your new abilities,” Miranda muttered. “And there seems to be... not a lot of those.”
+
+Jake hadn’t really checked what he’d shared with Miranda, but now that he gave it an extra look, yeah, there really wasn’t much there. All Jake could currently do was ban other Administrators from teleporting to the Seat of the Exalted Prima, grant personal rooms to people within the Seat, and force people back to wherever they had teleported to the Seat from. There were a few other minor things, but there really wasn’t a lot.
+
+He couldn’t grant others the Administrator role, nor could he revoke it. He also couldn’t really do anything with the Seat of the Exalted Prima... at least not yet.
+
+“The true benefits and responsibilities are revealed within the World of the Exalted Prima,” Jake said, causing many of those present to look at him curiously.
+
+“Does Lord Thayne have any insight regarding what that is?” Kindroth asked. “For transparency, we all received system messages telling us that, as Administrators, we still have a role to fulfill within the World of the Exalted Prima. The issue is, we don’t know what this World is supposed to be.”
+
+“I also don’t know anything more than the name?” Jake shook his head.
+
+“Then I guess we are all equal in guessing its nature,” Kindroth nodded, not finding Jake’s answer surprising. “I assume we all believe it to be some simulated world, that the next stage of this World Event will take place?”
+
+“Seems probable,” Jake nodded. “Hopefully, we’ll find out shortly. Unless you guys have been given a system message telling you what happens next? Because I haven’t.”
+
+“Might take two days before we get one,” Miranda pointed out. “We elected you as Chief Administrator during the first round of voting, but there were potentially two more after that. Assuming there is another full day between the subsequent rounds of voting, it should take roughly two days.”
+
+“That... is a very good point,” Jake muttered, not having really considered that. “Which begs the question: what are we going to do now? Sit around for another two days waiting?”
+
+“Would that be so bad?” Kindroth asked with a light smile. “I personally quite enjoy the company.”
+
+“It could be worse, but I had something I hoped to do,” Jake said, primarily because he’d just been reminded of something fairly important when his ring got upgraded. Before leaving for Venus, Jake had given Arnold his Void Katar for a B-grade makeover, with the promise it would be done within a hundred days. He had kind of forgotten to get that back after everything that went down within the Minor World, and having it on hand for this World of the Exalted Prima would be nice.
+
+“Then see if you can leave,” Miranda suggested. “You’ve already been selected as the Chief Administrator, and it would be good to test if you can come and go now. In either case, I seriously doubt the system would stop you from returning for the next stage of this World Event when it’s time.”
+
+“Would be a funny way for me to miss out,” Jake chuckled. “Well then, allow me to see how this works.”
+
+Jake tried to focus on his Chief Administrator’s Seal, which had the teleportation function, and after a few seconds, he felt something stir to life. A complicated magic circle appeared beneath his feet, and runes appeared in the air as they wrapped around him. In the very next moment, he was gone, and in the blink of an eye, Jake found himself standing back in the Order of the Malefic Viper.
+
+“That was rather quick,” a voice spoke from behind, less than half a second after Jake appeared. “Then again, it was only a vote, right?
+
+Turning around, Jake saw the snake god standing there with his usual smile, making the hunter frown. “How do you already know that?”
+
+“Because Draskil returned three minutes ago? Not as the first person either,” Villy shrugged. “Most tried to teleport back first thing. Oh, and you can return to the Seat of the Exalted Prima, too. A gal returned there just now.”
+
+“Well then,” Jake muttered. “I guess that means I don’t have to spill any details?”
+
+“Not really,” the snake god shook his head. “And based on your timing, I can infer things went smoothly.”
+
+“As smoothly as it could. No one tried to claim power or stage a coup or anything else fun like that,” Jake said, not even trying to hide his slight disappointment in how boring this vote had been. “Thoughts on this World of the Exalted Prima?”
+
+“Gotta be some grand simulated world that is not merely there for a brief event with only a few people participating,” the Viper answered in a serious tone. “Given that Chief Administrators gain bonuses there, it might even be a semi-permanent if not fully permanent simulation, the actions therein will determine who ultimately gains control of the World Wonder. But all we can do right now is guess, and while that’s fun and all, it’s not super productive.”
+
+“True, but maybe you had some insights worthy of being semi-omniscient,” Jake shrugged with a sly smile.
+
+“I can only know what there is to be known,” the snake god said, shaking his head. “I cannot know the unknown, and if only the system knows, it may as well be considered unknown, as the system knows even the unknown, so is there really a difference?”
+
+“Who knows?” Jake asked with a chuckle. “Well, besides the system, I guess.”
+
+“I sure don’t,” Villy shrugged. “What I do know is that quite a few people are returning from the event these days, but that even more are still stuck there until this voting is over. The majority of galaxies with a Seat of the Exalted Prima aren’t as united as yours, with several having a handful of factions competing.”
+
+“Those don’t sound like they’ll be a major threat moving forward,” Jake said. “If they can’t even unite the galaxy, what hope do they have to compete on a universal scale?”
+
+“I do agree they likely aren’t the main competition, but you never know.”
+
+“You don’t, and I won’t let down my guard either way,” Jake reassured the god. “Speaking of not letting down my guard... gonna pop back to Earth and hopefully get a sweet katar upgrade.”
+
+“Won’t you technically pop by the moon?” Villy asked.
+
+“Yeah, yeah,” Jake waved him off before looking around, and before he could say anything, the god answered what Jake was about to ask.
+
+“Not around. She’s busy with matters related to the system event and all. As a Godqueen who has a healthy number of blessed individuals, Artemis actually has mortals she needs to pay attention to. Unlike me, who only has you and a handful of other curiosities that I quite frankly only care to check in on when you’re in one of your boring periods,” Villy said, being perhaps a bit too honest.
+
+“I really should have defected to Valhal when I had the chance,” Jake sighed, shaking his head. “Oh well, what’s done is done. Do me a favor and say hi to Artemis for me if you get the chance. No idea when I’ll be back, as I plan to return to the Seat of the Exalted Prima after stopping by Arnold’s place.”
+
+“I’ll compose a poem for her and pretend it’s from you, sure,” Villy nodded with a serious look.
+
+“I wouldn’t even be mad, and she’d definitely see through you, so go ahead,” Jake chuckled.
+
+“I might just do it,” the Viper said threateningly with his usual smirk. “Now, off with you. I do actually have work to do.”
+
+With that, Villy was gone, having teleported away despite telling Jake he should leave. Jake didn’t waste much time staying at the Order either, as he quickly went to the teleporter on the lawn and headed straight back to Earth.
+
+He appeared back in his lodge, and from there, it didn’t take long to reach the old Fort where Arnold’s metal dome still stood, now serving more as a teleportation center than anything else.
+
+Fortunately, the scientist’s defenses let Jake through without any effort, and not even five minutes after leaving the Order, Jake found himself teleported to the moon. Once there, he naturally released a Pulse of Perception, and...
+
+Yeah, Arnold’s building speed was absolutely fucking terrifying. In the three months or so since Jake was there last, the moon’s interior had undergone another massive change, with more and bigger factories getting added.
+
+Jake took a while admiring it all before walking towards the scientist who was in his usual lab. Arnold naturally knew of Jake’s arrival, seeing as he’d gone through security checks back on Earth, so by the time he stepped into the lab, the mad scientist was already waiting for him.
+
+“It’s on the table on the left,” Arnold spoke before Jake even had the chance to speak up. “I didn’t make any significant modifications this time, but merely tempered the metal with a new compound that empowered and brought out some of the latent potential within the weapon. I also switched out the handle with an improved version better fitting for a B-grade.”
+
+By the time the scientist was done talking, Jake was already in front of the black box Arnold had pointed out. He didn’t wait as he opened it up and saw the beautiful katar within, looking identical to before. Upon using Identify, the description also remained very similar.
+
+[Voidblade Katar (Legendary)] – A katar wielded by a hunter, born from the mind of one touched by the void. The blade is made of an unknown composite of metals that has been infused with void energies and refined by the hunter’s arcane affinity over time. This has made the blade incredibly sharp, allowing it to effortlessly cut and penetrate nearly all physical materials. When striking mana-based entities, the blade must be constantly infused with nascent void energy, or it will be unable to deal any damage or interact with the target. The handle of the katar can absorb all forms of mana infused into it and transform it into nascent void energy. This effect is more potent if the energy infused is the arcane affinity of the hunter. The blade will passively make void any other forms of energy interacting with it as long as it has sufficient nascent void energy. Has been stabilized so that it can exist within the material plane. This also makes it able to enter spatial storage. Enchantments: Voidblade. Forced Spatial Stabilization. Requirements: lvl 350+ in any humanoid race.
+
+The name of the Voidblade Katar hadn’t even changed. Honestly, the biggest difference was the level requirement now being B-grade. Besides that, all Jake could feel when he picked up the katar was that it seemed to respond better to his energy. He also didn’t doubt it was even more durable and sharper than before, but such things would only become clear through proper combat.
+
+“I was already happy with it in C-grade, so getting a nearly identical one that’s just updated for my evolution is more than good enough,” Jake said with a smile.
+
+Arnold nodded, yet to even turn around and look at Jake. “I didn’t know when you would come by, so I handed the chest and leg armor to a courier when they were done. They should already be at your residence. Other matters have kept me preoccupied.”
+
+“It’s fine,” Jake said, waving him off. “I guess I missed them at my lodge. Now, is there anything I can do for you? Are you perhaps interested in what went on with the Seat of the Exalted Prima?”
+
+“No, I’m not,” the scientist said. “I have no interest in simulated reality. Fully comprehending our current material world is already a significant endeavor. I also do not need anything, as I’ve already been briefed about your journey to Venus and its peculiar state.”
+
+“Yeah, Venus...” Jake muttered. “Didn’t exactly turn out how I imagined.”
+
+“No,” Arnold said curtly. “Now, please leave. I need to focus on this.”
+
+Jake was surprised to be told to leave so directly, and he wanted to ask what the weird cylindrical thing Arnold was tinkering with was, but he got the message and just nodded in response before heading back to the teleporter.
+
+He considered if he had more on Earth to do right away, but for now decided to just go to his lodge and see if he could find some more gear upgrades. Not like he had time to do much else, as he would soon have to return to the Seat of the Exalted Prima. But he could at least have a time banana or two while getting some new clothes.

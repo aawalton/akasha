@@ -1,0 +1,131 @@
+---
+id: ece43950-dd3c-539a-bba0-4add3a3a0ff0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 520: Creative"
+slug: 0086-chapter-520-creative
+partOf: rise-of-the-living-forge
+position: 86
+ownLength: 1676
+unit: words
+ownProgress: 1676
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2774914/chapter-520-creative"
+royalRoadId: "2774914"
+markedReadAt: "2026-06-29T20:01:11.099Z"
+---
+
+Arwin stood in a vast sea of white. His heart pounded like a runaway racehorse in his chest and he found himself reaching up for his heart before he caught himself. There was nothing around him at all.
+
+Nothing but vast, empty nothing.
+
+Faint tongues of electricity tingled against his bare feet. Coils of power twisted through every fiber of this place, stretching out in every direction around him with no end in sight.
+
+This wasn’t the first time he’d seen this place. He’d been here before. Twice, for that matter. The Mesh had spoken to him here. He turned in a circle, but there was nobody else here. Arwin was alone.
+
+He took a moment to catch his breath. Then he slowly let his hands lower. Something about the white void felt different than it had before. Stranger. Emptier. Lonelier.
+
+“Hello?” Arwin asked.
+
+His words were swallowed by the vast nothingness around him, denied so much as even an echo. There was no response at all.
+
+And, deep down, he knew that he wasn’t going to get one. The Mesh had made it clear that they weren’t going to be speaking again. Not here, at least. Sunsetting his class had freed him from the rules it had placed upon the world.
+
+That included the presence of Mesh itself.
+
+“Just me, huh?” Arwin asked. He looked around at the enormous void of white. It was rather… quiet. After the immense ocean of power that had just been beating down on the walls of his mind like it were trying to put him to siege, it felt odd for everything to be so still.
+
+There was no guidance. No instructions or golden lettering telling him how he could use his magic. But the magic was definitely there. Arwin could feel it. It twisted through every single part of the void around him, waiting to be called upon.
+
+Guess I’ve got to do this all on my own. I suppose it wouldn’t make much sense for Sunsetting to be freeing me from the restrictions of the world if the Mesh was going around and still handling the level-up stuff for me.
+
+Strangely enough, Arwin got the feeling he knew where to start.
+
+He lowered himself to the ground and crossed his legs beneath himself as he got comfortable. Or, at least, about as comfortable as one could get sitting on slightly electrified ground.
+
+Arwin blew out a slow breath. There was power all around him just waiting to be used. He hadn’t forgotten his conversation with the Mesh. The purpose of Sunsetting a class was to allow someone to truly control themselves. To choose where their magic was spent and how they grew without anyone or anything determining it for them.
+
+There were no more Titles and Achievements because the ability to write the future was now in Arwin’s hands. In theory… he could have directed the magic however he wanted. But something told him that aiming for something impossible would still result in failure.
+
+He hadn’t suddenly transformed into a god. The members of Setting Sun weren’t running around destroying cities with a snap of their fingers. Freedom of path did not mean absolute power over everything he laid eyes upon.
+
+At the end of the day, he was still Arwin.
+
+But that was all he wanted to be.
+
+He narrowed his eyes. His mind prickled as the magic brushed closer to it. There were a number of things he could try to make stronger. He had a lot of powerful abilities that felt nearly limitless in potential.
+
+But there was one thing that he needed more than anything else. A man’s strength was not measured by his most powerful ability but by his greatest weakness. Someone was only as powerful as limitations.
+
+And Arwin’s limit was not destructive nor creative power, but energy.
+
+Every time he worked on a powerful piece of equipment, he ran out of energy. Lillia’s cooking alleviated that problem. Having more smiths working with him went enormous ways as well. But at the end of the day, if he had more energy, the limits of what he could pull off would immensely increase.
+
+And that was where he was going to start.
+
+Arwin pressed his palms to the coursing through floor beneath him. He reached out to all the energy coiling around him, his thoughts focusing. His mind buzzed. Just as he could feel the magic, he could feel himself.
+
+Every single part of the being that was Arwin, down from his abilities to his flesh.
+
+Arwin’s lips twitched into smile.
+
+Then he drank in the magic.
+
+Power pumped back into his body. It poured into the center of his being in coursing rivers. Something deep within him shifted. His stomach bubbled like he’d just eaten something particularly distasteful, but he didn’t stop. Arwin drank power like a parched man.
+
+And his body responded.
+
+Changed.
+
+It was a change that he couldn’t have properly described if he’d wanted to. The part of him that stored magic wasn’t a physical organ — but it existed all the same. And it was evolving. Growing.
+
+But not in isolation.
+
+Arwin’s physical body adapted as well. They strengthened in response to the new power filling him. There was no other option. The more strength a vessel contained, the more powerful the vessel had to be.
+
+His body knew that instinctively and was siphoning power away from the constant flow of magic entering him to ensure that he didn’t just spontaneously self-destruct from the amount of power he was trying to contain.
+
+Even as he felt himself strengthening, Arwin felt the effectiveness of the magic starting to reduce. That didn’t take him by much surprise. It was only natural. The more he changed, the harder it would become to change further. That part was no different from before.
+
+But Arwin wasn’t the only thing changing. The void itself seemed to be shifting. What had once seemingly had no end now appeared to have very defined end points — and they were crawling toward him.
+
+So that’s how this works. The magic I gathered is literally making up the void. So, when I use it all up, I suppose the void will be drawn into me and I’ll be dropped back into my body. No point blowing it all on diminishing returns, then.
+
+Arwin let the flow of magic still. The void stopped moving, and the changes to his body came to a halt as well. He felt… strange. Different, and yet the same. That was something he’d have to deal with in the morning.
+
+There was still a lot more power he had to work with. And, with the tasks they had coming up, he was going to need every scrap of power he could get his hands on.
+
+The important thing here isn’t just making sure I use this magic. It’s making sure I apply it in the most effective way possible. I’m not bound by the limits of the Mesh anymore. I need to be creative. To find ways to get stronger. To find tools I have to close the gap between myself and stronger warriors — and abuse them.
+
+Arwin was silent for several long minutes. This wasn’t the kind of decision that he wanted to rush. He’d already started down the most obvious path. It would have been relatively simple if he wanted to just make one of his abilities stronger…
+
+But he wasn’t sure if that was really the most optimal choice. Everyone could make abilities stronger. Somebody didn’t need to Sunset their class for that. He needed more. Something that Sunsetting was optimized for.
+
+His brow furrowed as he dug through his memories for a hint that could point him in the right direction. He was pretty sure he could create almost any kind of ability that suited him if he used enough magic.
+
+Arwin could emulate anything that the Mesh had already given him. But he needed more than just a single ability if he wanted to turn the tides of what could be an impossible battle in his favor.
+
+His thoughts shifted to Setting Sun. If anyone had figured out how to maximize the rewards from Sunsetting a class, it was them.
+
+Arwin’s head tilted to the side.
+
+He’d never seen one of their members go all out in a fight. They’d only gone up against Twelve’s clone, and Eleven only ever seemed to go invisible and sleep. But there was one thing that Sunsetting seemed particularly disposed to.
+
+Twelve had wanted to be everywhere at once. Eleven wanted to be unnoticed so she could sleep — and both of their bodies had aligned themselves with those purposes perfectly. Twelve had literally controlled 12 bodies. Eleven had a thick bed of hair like seaweed, one that would completely cover her face the moment she put her head down.
+
+That wasn’t just for show.
+
+The strongest thing Sunsetting let someone do was choose more than the path of their magic. It could their physical form as well. There was no reason to limit himself to just making his body stronger or tougher.
+
+I don’t want to transform into some giant stone golem or anything like that. I don’t want to get kicked out of Lillia’s bed. This is something I’m going to have to live with… but this is the advantage I’m looking for.
+
+I just need to get creative.
+
+Several more minutes slipped by. Arwin sat in place, brow furrowed in focus. This wasn’t the kind of decision he was going to be able to take back.
+
+Then a thought finally struck him. It was going to be difficult. Really difficult. The changes were more significant than just some mere muscle strengthening… but he was pretty sure he had enough magic to pull it off.
+
+It would work. A bit ironic, but I think it would work quite well.
+
+Arwin’s lips curled up into a smile, and he reached for the waiting magic once more.
+
+This should be interesting.

@@ -1,0 +1,485 @@
+---
+id: 2187dc71-5b5b-5c13-813f-934ac5bce625
+page-type-slug: story-chapter-royal-road
+title: "Chapter 98:Notifications"
+slug: 0098-chapter-98notifications
+partOf: phoenix-ascension-cultivation-litrpg
+position: 98
+ownLength: 1977
+unit: words
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3134759/chapter-98notifications"
+royalRoadId: "3134759"
+---
+
+With the Little Emperor absorbing what remained of the Qi, I was safe to stop circulating either cultivation technique. The whole ordeal had taken quite a bit out of me, but I knew that it was well worth it.
+
+Opening my eyes, I noticed that I had changed back into my original form at some point during the process, with the clothes I stole acting as a blanket of sorts. One thing that was weird, though, was that the tunic was nowhere to be seen.
+
+I got ready for the influx of notifications that I was sure to see and opened System.
+
+[Congratulations! Dormant Core IV has become Dormant Core V!]
+
+[Cultivation Increased! Qi Condensation VII has become Qi Condensation VIII!]
+
+[Achievement: So Close yet So Far; Acquired]
+
+[Cultivation Increased! Qi Condensation VIII has become Qi Condensation IX!]
+
+[Achievement: Reached the pinnacle? Acquired]
+
+[Cultivation Increased! Qi Condensation IX has become Qi Condensation Peak!]
+
+[Achievement: That wasn’t supposed to happen! Acquired]
+
+[Achievement: Breakthroughs. Acquired]
+
+[Achievement: Menace. Acquired]
+
+[Due to completing the second layer of the Divine Lightning Construction Technique, you have obtained the following:]
+
+[Foot techniques; Sword techniques]
+
+[+5 Strength; +10 Dexterity; +14 Perception]
+
+[Due to completing the third layer of the Divine Lightning Construction Technique, you have obtained the following:]
+
+[Foot techniques; Sword techniques]
+
+[+7 Strength; +12 Dexterity; +17 Perception]
+
+[Due to completing the … you have obtained the following:]
+
+[Foot techniques;Sword techniques;Lightning Technique]
+
+[+25 Strength; +30 Dexterity; +20 Perception]
+
+[Achievement: Lightning Prodigy; Acquired]
+
+[The Mysterious Entity is curious about you…]
+
+[The Mysterious Entity is looking favorably upon you…]
+
+[Achievement: The Great One’s Favor; Acquired]
+
+Well, that’s not ominous at all.
+
+I still had no idea what the ‘Mysteries Entity’ was, but it didn’t seem like it wanted to hurt me, so I didn’t have to worry about that. It appeared right after I became an Heir, so it definitely had something to do with that.
+
+Maybe it was about time I started caring about that… Or not. I mostly picked the class because of the stats increase.
+
+[The Mysterious Entity frowned.]
+
+I’m sorry, oh Great One!
+
+[The Mysterious Entity rolled her eyes.]
+
+Clearly, it could read my thoughts, though I couldn’t say that was something I cared about in particular. If I had to, I would start to care about it, but if I didn’t, there was no harm.
+
+Now that the notifications ended, I wanted to look at my stats really badly. After such large advancements, my stats have to have increased by at least hundreds of points!
+
+Not only did I increase my cultivation by leaps and bounds, but so did my core. It was still in the ‘dormant’ stage, but it was clear that devouring all those cores increased its rank.
+
+Without further ado…
+
+Details
+
+[Name: Fa Xiaolan/Little Flame]
+
+[Race: Phoenix]
+
+[Class: Elemental Phoenix Heir]
+
+[Level: 21]
+
+[Hit Points: 7475]
+
+[Equipped Titles: None]
+
+[Bloodlines: Phoenix]
+
+[Cultivation: Qi Condensation: Peak]
+
+[Beast Core: Dormant Core V]
+
+[Qi: 13335]
+
+Stats
+
+[Strength: 716 + (100)]
+
+[Dexterity: 579 + (0)]
+
+[Perception: 603 + (0)]
+
+[Charisma: 378 + (0)]
+
+[Intelligence: 419 + (0)]
+
+[Skill Points: 45]
+
+I blinked a few times, unsure if what I was seeing was right. Thirteen thousand points in Qi, and almost all of my stats had increased by two hundred points, if not more! Ironically enough, Charisma had become my lowest stat. And to think I was worried I would be too cute.
+
+But judging by Xing Ya Chen’s reaction, it didn’t take a lot of Charisma points to get him to fall in love. If I had to guess, he changed right after I evolved, thus gaining more points.
+
+One thing that bothered me was the small amount of Skill Points. It seemed that levels, achievements, and selling skills were the only way to acquire more.
+
+Not that I was planning on selling any of my current skills, as they were all important to some extent.
+
+However, they were getting a little numerous, especially with the ones imparted by the Divine Construction Technique. I wasn’t sure if they would appear within the skill list, but I could check later. From what I could tell, I’ve advanced quite a good amount, going from the first layer to the seventh, which was quite a massive improvement.
+
+I’d not gotten any more Qi, no doubt because the first time around was a special situation, but the stats were still a nice compensation for all my hard work.
+
+Due to all of those increases, I was brimming with energy, and I could barely contain myself. I want to go out there and fight something strong. I wanted to test my power, I wanted to see just what I could do while at the Peak Stage of Qi Condensation.
+
+But before that, there was something else that could give me a small edge over any future opponents.
+
+Achievements
+
+[First Blood (Rewards Claimed)]
+
+[I found it on the ground! (Rewards Claimed)
+
+[I am a Spirit Beast! (Rewards Claimed)
+
+[De-Evolve (Rewards Claimed)]
+
+[Tiny Lord Slayer (Rewards Claimed)]
+
+[Species Destroyer (Rewards Claimed)]
+
+[Bloodthirsty (Rewards Claimed)]
+
+[Cultivator's Bane (Rewards Claimed)]
+
+[Ruthless (Rewards Claimed)]
+
+[Second Time’s the Charm… wait no(Rewards Claimed)]
+
+[The Great One’s Eye(Rewards Claimed)]
+
+[First Time's Special(Rewards Unclaimed)]
+
+[Who's That Skill? (Rewards Unclaimed)
+
+[Three of a Kind!(Rewards Unclaimed)]
+
+[So Close yet So Far(Rewards Unclaimed)]
+
+[Reached the pinnacle? (Rewards Unclaimed)]
+
+[That wasn’t supposed to happen! (Rewards Unclaimed)
+
+[Breakthroughs.(Rewards Unclaimed)]
+
+[Menace. Acquired(Rewards Unclaimed)]
+
+[Lightning Prodigy(Rewards Unclaimed)]
+
+[The Great One’s Favor(Rewards Unclaimed)]
+
+There were a lot of achievements I hadn’t claimed, which would be a waste, of course. I’d even forgotten about the ones post-evolution with all the craziness going on around that time.
+
+So it was, of course, time to… Claim them all.
+
+[Achievement: First Time’s Special has been claimed]
+
+[+10 Skill Points]
+
+[Achievement: Who’s That Skill? has been claimed]
+
+[+5 Skill Points]
+
+[Achievement: Three of a Kind! has been claimed]
+
+[+15% Affinity to all current elements.]
+
+[Achievement: So Close yet So Far has been claimed]
+
+[+5 to all stats; +100 Qi]
+
+[Achievement: Reached the pinnacle? has been claimed]
+
+[Title: Cultivator has been obtained]
+
+[Achievement: That wasn’t supposed to happen! has been claimed]
+
+[Title: Cultivation Breaker has been obtained]
+
+[Achievement: Breakthroughs have been claimed]
+
+[+10 to all stats; +10 Skill Points]
+
+[Achievement: Menace has been claimed]
+
+[Title: Weaponised Chaos has been obtained]
+
+[Achievement: Lightning Prodigy has been claimed]
+
+[+20% to Lightning Affinity. Passive Skill: Lightning Proficiency has been obtained.
+
+[Achievement: The Great One’s Favor has been claimed]
+
+[+15 to all stats; Title: Favored has been obtained]
+
+Whew…
+
+That was quite a long list of… everything. I was grateful that I hadn’t claimed my achievements beforehand, as I would have lost a decent amount of Water affinity. Besides that, though, everything else was simply… amazing. And I still had to look at what the titles did.
+
+I could not use the Tiny Blod Lord title, since it would scare all humans in my vicinity, but maybe one of those titles will give me another type of advantage. It was hard to say.
+
+Naturally, I didn’t waste any time looking them up.
+
+[Title: Cultivator]
+
+[You have proven yourself time and time again, and you’ve taken your first true steps into the world of cultivation. When equipped:]
+
+[+20 Strength; Rapid cultivation speed.]
+
+[Title: Cultivation Breaker]
+
+[Despite what was thought possible, you have broken past the limits of common knowledge and achieved a rare and almost impossible state. Due to your perseverance, when equipped, anyone you deem an enemy with a lower or equal cultivation base to yours will get a debuff of -20% to all stats. Anyone else with a higher cultivation base will get a debuff that will be lowered by 2% with each difference in major realms. When equipped:]
+
+[+30 Strength; +20 Intelligence; Faster Cultivation Speed; Higher Qi Control; Higher Qi Sense; Increases experience gain to cultivation related skills.]
+
+[Title: Weaponised Chaos]
+
+[You have become a wild piece in the bigger game of chess. Due to your ability to increase your strength and cause chaos by not playing by the rules, you have been awarded! When Equipped:]
+
+[+100 to all stats; +50% Chance of random events occurring, for better or for worse.]
+
+[Title: Favored]
+
+[Your unprompted joining in the game has made The Great One notice you. Your particular abilities have intrigued The Great One, and your perseverance and, most importantly, your strange nature, have made The Great One look favorably upon you. When not equipped: This title will grant you a 20% boost in experience gain and will make you slightly aware of other contestants in the vicinity. When equipped:]
+
+[+120 to all stats; Active Skill: Locate will be temporarily granted; Immunity to Locate will be temporarily granted, but other contestants will be periodically informed of your location.]
+
+[May your performance humor me, birdie.]
+
+Well, that wasn’t ominous at all…
+
+With so many good titles, it was hard tochoosee which one to equip… As if. The most obvious choice, was, of course, Cultivation Breaker was the most obvious choice. Even if it didn’t have all the crazy stat increases, as the others did, the passive alone was worth it.
+
+Reducing my enemy’s stats by a whole twenty percent was insane. I wasn’t sure if I would get that while it wasn’t equipped, but I highly doubted that. The other effects were pretty damn awesome as well, so between getting more chaos in my life and being hunted by other ‘contestants’, the choice was easy to make.
+
+[Equip title: Cultivation Breaker?]
+
+Of course!
+
+[Title: Cultivation Breaker has been equipped]
+
+I felt the tiny amount of strength course through my body, but most importantly, I could feel the changes around me. When I breathed in, large amounts of Qi entered my body, though it had nowhere to go anymore.
+
+It seemed that my dantian had been well and truly filled to the brim. The only thing left to do was start the preparations to breakthrough.
+
+Details
+
+[Name: Fa Xiaolan/Little Flame]
+
+[Race: Phoenix]
+
+[Class: Elemental Phoenix Heir]
+
+[Level: 21]
+
+[Hit Points: 8075]
+
+[Equipped Titles: Cultivation Breaker]
+
+[Bloodlines: Phoenix]
+
+[Cultivation: Qi Condensation: Peak]
+
+[Beast Core: Dormant Core V]
+
+[Qi: 13335]
+
+Stats
+
+[Strength: 776 + (100)]
+
+[Dexterity: 609 + (0)]
+
+[Perception: 633 + (0)]
+
+[Charisma: 408 + (0)]
+
+[Intelligence: 469 + (0)]
+
+[Skill Points: 70]
+
+Titles
+
+[Tiny Blood Lord]
+
+[Cultivator]
+
+[Cultivation Breaker]
+
+[Weaponised Chaos]
+
+[Favored]
+
+Active Skills
+
+[Peck: Beginner]
+
+[Nirvanic Flames: Expert]
+
+[Iron Claws: Intermediate]
+
+[Strengthened Constitution: Intermediate]
+
+[Stealth: Intermediate]
+
+[Tail Whip: Intermediate]
+
+[Lord's Call: Novice]
+
+[Side Step: Expert]
+
+[Myriad Qi Needle: Beginner]
+
+[Shadow Cloak: Intermediate]
+
+[Heaven's Protection: Beginner]
+
+[Dragon Flames: Intermediate]
+
+[Stamina Conversion: Novice]
+
+[Perfect Disguise: Intermediate]
+
+[Lightning Dragon: Novice]
+
+Passive Skills
+
+[Evasion: Expert]
+
+[Poison Resistance[Greater]: Novice]
+
+[Dragonbone Tempering: Intermediate]
+
+[Pain Tolerance: Expert]
+
+[Water Breathing: Novice]
+
+[Overeater: Beginner]
+
+[Stamina Regeneration: Novice]
+
+[Mental Fortitude: Intermediate]
+
+[Lightning Resistance: Beginner]
+
+[Pack Leader: Novice]
+
+[Split Focus: Novice]
+
+[Assassination: Novice]
+
+[Telepathy: Novice]
+
+[Balancing: Novice]
+
+[Paralysis Resistance: Beginner]
+
+[Lightning Proficiency: Novice]
+
+Bloodline Skills
+
+[Phoenix Fire: Expert]
+
+[Phoenix Reflex: Beginner]
+
+[Ember Step: Intermediate]
+
+[Elemental Wave: Intermediate]
+
+[Precise Flame Control: Intermediate]
+
+[Paralyzing Screech: Beginner]
+
+[Burning Wind: Beginner]
+
+[Flaming Talons: Beginner]
+
+[Pyro Breath: Beginner]
+
+[Blade Wing: Intermediate]
+
+[Water Shot: Novice]
+
+[Water Barrier: Novice]
+
+[Order: Novice]
+
+[Ruler's Authority: Novice]
+
+Achievements
+
+[First Blood (Rewards Claimed)]
+
+[I found it on the ground! (Rewards Claimed)
+
+[I am a Spirit Beast! (Rewards Claimed)
+
+[De-Evolve (Rewards Claimed)]
+
+[Tiny Lord Slayer (Rewards Claimed)]
+
+[Species Destroyer (Rewards Claimed)]
+
+[Bloodthirsty (Rewards Claimed)]
+
+[Cultivator's Bane (Rewards Claimed)]
+
+[Ruthless (Rewards Claimed)]
+
+[Second Time’s the Charm… wait no(Rewards Claimed)]
+
+[The Great One’s Eye(Rewards Claimed)]
+
+[First Time's Special(Rewards Claimed)]
+
+[Who's That Skill? (Rewards Claimed)
+
+[Three of a Kind!(Rewards Claimed)]
+
+[So Close yet So Far(Rewards Claimed)]
+
+[Reached the pinnacle?(Rewards Claimed)]
+
+[That wasn’t supposed to happen! (Rewards Claimed)
+
+[Breakthroughs.(Rewards Claimed)]
+
+[Menace. Acquired(Rewards Claimed)]
+
+[Lightning Prodigy(Rewards Claimed)]
+
+[The Great One’s Favor(Rewards Claimed)]
+
+Elemental Affinity
+
+[Fire: 518%]
+
+[Water: 15%]
+
+[Lightning: 45%]
+
+Equipment
+
+[Head: N/A]
+
+[Chest: Tunic of the Lone Phoenix]
+
+[Legs: N/A]
+
+[Feet: N/A]
+
+[Accesory 1: N/A]
+
+[Accesory 2: N/A]
+
+[Accesory 3: N/A]

@@ -1,0 +1,174 @@
+---
+id: 30f072d8-1ba4-598d-b6db-10d8728d452f
+page-type-slug: story-chapter-royal-road
+title: "014 - A Part of A Part of That Power"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 14
+ownLength: 2292
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3356757/014-a-part-of-a-part-of-that-power"
+royalRoadId: "3356757"
+---
+
+I trotted back toward the deli. Jamie followed me. Before crossing the threshold I shifted back to human again. Didn't want to scare that boy. Though I don't know if my ichor-covered self was any less threatening. He hid behind his, presumably, mother.
+
+"Eve. Can we talk about this? I don't want to tell you what to do or not to do, but I think you are rushing this."
+
+I stopped and closed my eyes. I was already feeling sick with dread. My heart was racing like crazy. I was more scared than when we just fought literal monsters from Hell. I really didn't want to have an argument.
+
+Jamie had moved in front of me, his hands on my arms.
+
+"It'll be okay if you don't do this. We'll find a way. You don't have to give up an eye to save everyone." That turned some heads around us.
+
+"That's a lot easier to say if it won't be you who's carrying that burden." I pulled away from him and spread my arms to the people around us. "If any of those die because I wasn't willing to do this? I can't… I can't deal with that. Mike. A close friend, one of the few I had left, died. Right in front of me. Because I hesitated. I could have shouted for him not to open that door. Could have done anything. But I froze, because everything was weird and I was scared. I'm really trying not to blame myself for that. But now? Now I know the stakes. Anyone who dies before the seal forms? Their fucking eternity is lost. Think about that. We, stupid people who we are, we all have immortal souls. And Hell took that eternity and burned them up and turned them into bugs and sent them to eat our faces. With their faces attached."
+
+At some point I had started crying. I tried rubbing my face, but only added demon ichor to the mess. Jamie stepped closer, but stopped when he saw me flinch.
+
+"It's okay, Eve. Hell is doing those things. Not you. You can't carry that responsibility."
+
+"Of course I can. The cruelty of the system does not justify inaction. Hell is the fucking enemy, but that doesn't mean I won't use every tool I can get my hands on to fight back."
+
+I didn't wait for a reply and instead made my way to the women's restroom. Lucy materialized next to me.
+
+"If it helps, I can assure you, you will regret this," they said.
+
+I fought down a hysteric laugh. "I will, will I?"
+
+"You, Eve, regret choosing a pizza topping the second you do. You regretted your first perk the moment you picked it. You regretted breaking up with Claire, you immediately called her, and then you regretted doing that. You regretted moving to LA and you regretted returning to New York. You are a smart girl who knows that life is far from black and white and that every choice comes with consequences. You'll regret this, but it doesn't mean you should."
+
+"You've made stronger pitches before."
+
+"But this is the one you are agreeing to." They turned back to the room. "Jamie, can you be a dear and assist for a moment?"
+
+I didn't look to see if he followed. In the restroom I washed my face at the sink. I looked up to see a trainwreck. My hair was covered in ichor and dried blood. I looked at my eyes. I'd always thought brown was boring. Surely yellow would be an improvement.
+
+"Which one will it be?"
+
+"Any preference?"
+
+Jamie stepped wordlessly into the room.
+
+"The right one. How will you do it?"
+
+Lucy took me by the arm and pulled me away from the sink. "Jamie, please wash your hands. And be thorough. Use the disinfectant."
+
+Jamie proceeded to wash his hands. "Why do I need clean hands?"
+
+Then they turned me around to face them. "There'll be a bit of magic involved. A tiny bit of telekinesis. First I'll pull mine out, Jamie will hold onto it, then I'll pull yours out. Put mine in, then yours. Gives you the shorter period of one-eyedness between us."
+
+They looked up at me, with slitted eyes, yellow around the iris, darkening into a faint red.
+
+"It might be easier if you knelt. I'm not being symbolic here, but you are actually a bit taller than me."
+
+I complied. The protests in my mind had just stopped. They gave me a puzzled look before they reached out and put a finger on the side of my throat. Measuring my pulse. It was racing. Their finger was warmer than expected.
+
+"You're pretty stressed. You aren't going to vomit when I do this, right? If you vomit on my eye, old or new, that would significantly hamper our future relationship, Eve."
+
+I closed my eyes and took some steadying breaths. Couldn't help but wonder if I'd lose that Well Sated buff if I threw up now. In, one, two, three. Out, one, two, three.
+
+"I'll be okay," I said. Nearly believed it, too.
+
+Jamie stepped next to us, bringing the smell of disinfectant with him. Would it burn if it got onto the eye and then into my head? What was I doing? His jaw was tight, but he held out his hands without further protest.
+
+["Gabriel, last chance to scream at me."]
+
+"I'll not scream at you for any choice. I've provided what you need to know and explained why I, as your Guide, can absolutely not recommend you go ahead with this." Her voice was soft, but carried a certain melancholy. How many of her charges had started on their path to damnation with exactly this kind of decision?
+
+Also, there was that phrasing. 'As your Guide'. Did Gabriel, as not my guide, want me to do this?
+
+"Okay, hold still now. It'll be over in seconds." Lucy said. "Ready?"
+
+I nodded, keeping my eyes open and fixated on the ceiling.
+
+I could only see Lucy's right hand hovering over their eye socket. Then there was a wet squishing sound and I could see them flinch. They swiftly handed their eye over to Jamie's waiting hands. I felt sick. I shouldn't have done this. They were right. I did regret it already.
+
+Then their hand hovered in front of me, in front of my right eye. One moment I could see the palm of their hand, then there was a pain, like the worst headache I ever experienced, splitting right through my skull, that same squishing sound, and I couldn't see their hand anymore. A moment later I felt their fingers on my face, on my eye socket, and then the pain was gone.
+
+I blinked. Once more their hand obscured my vision from seeing what they were doing, that they were inserting my eye into themself.
+
+They pulled their hand away, shook their head and blinked down at me, one eye brown, one eye yellow. Then I saw the contours of the deli, glowing blue, through the walls.
+
+I got a notification that I had completed another Task.
+
+There was no pain, no itch. I had expected something, but there was only the memory of the pain a moment ago. Jamie rushed to the sink, washing his hands furiously.
+
+"Huh. This is so interesting," Lucy said. They looked around the room and held out a hand, helping me up. Behind them, behind the bathroom door, beyond the deli, I could see the red outline of the Mammon Inc. Tower. The contours looked like they were burning.
+
+Lucy smirked and looked up at the ceiling. "Having regrets yet, boss?" At first I thought they were addressing me, but that question wasn't for anyone in the room. It was for capital-L Lucifer.
+
+And then I got it. Lucifer, the greatest rebel, or rather the Adversary, as Gabriel had called him, had put a piece of himself into this world. And the same as the original, they rebelled against their creator. Did they resent him for creating them? Or for creating them for such a trivial purpose, to tempt a single human soul?
+
+I refrained from taking notes on this. There were too many missing pieces, and I got the distinct impression that I did not want to be on the receiving end of Administrative Intervention, should Lucy's rebellion not be what their creator wanted. I couldn't help but notice that planting this very assumption, the idea that we shared that fundamental adversity to authority, could be exactly their intention. They were really good at pulling my strings.
+
+Lucy looked back down at me, their expression puzzled. Had my own face given away my thoughts? No time to dwell. I grabbed them by the shoulders, turned them around and shoved them, gently, out of the bathroom—avoiding any glance toward the mirror.
+
+"Already getting handsy? The corruption working that fast on you?" they asked, their previous bluster falling back in place.
+
+"No, but you will tell me all the details and everyone here will hear what you have to say."
+
+Only a handful of the Blessed were back in the deli, which was good. We didn't know when that summoner could launch another attack. Anthony was here, talking to Stephen, with some of the non-Blessed around. They stopped their discussion when I pushed Lucy into the room. I tried to keep my expression calm as I faced their shocked gazes.
+
+"I'll say that I disapprove of you putting me on the spot like this. I would just dematerialize, but this is far too fascinating."
+
+"The next attack. With details. Now."
+
+They jumped onto the counter and crossed their legs.
+
+"It'll be an earthquake. Or more precisely an earthquake-like spell. It doesn't literally shake the entire planet, but every single human-made building."
+
+Gabriel manifested next to me. "Any unusual alteration? Or the 'usual'?" she asked.
+
+Lucy shrugged. "To my knowledge it's a classic."
+
+Gabriel addressed the room. "Very dangerous when one is indoors. 10% odds of total collapse, much higher odds of partial. You all need to be outside when it happens. Or even better at the entrance to a subway station. It doesn't strike underground buildings or liminal spaces. But do not enter the station itself without Anthony." She turned to face me directly. "My briefing on liminal spaces got interrupted, but now after the Scramble, they'll be even worse. You can easily get lost there and end up separated from the others, with no way to return. Only a Pathfinder can safely do so."
+
+"Thank you, Lucy. Thank you, Gabriel," I said.
+
+I swapped to party chat and began collecting bottled water and snacks from behind the counter, transferring them to my inventory.
+
+["I need to get out there. Please convince them to loot this place for everything they can carry, leaving room for preparation against the cold, and then to sneak out there and follow in my direction."]
+
+"Hey, Gabriel. You can relay what I see to Jamie, right? Since you are our shared Guide?"
+
+Gabriel smiled. "It's an edge case, but yes. I can enable long-distance communication. But if he gets his proper Guide at any point, that connection is severed."
+
+Only then did I remember the Task Completion I had gotten.
+
+[Replace a lost body part with an /undefined/ part.
+
+Reward: Processing…]
+
+There was no accept button. No cancel button. I decided to do the reasonable thing and minimized the window, ignoring the potential catastrophic failure of my Blessing.
+
+I headed toward the door. Anthony intercepted me. He looked more worried than angry.
+
+"Eve? What happened to your eye?"
+
+I took a deep breath. It was a reasonable question. I wished I had a reply that sounded as reasonable.
+
+"I made sure we could find a new hideout. Before we get eaten by demon hounds."
+
+I had expected some kind of accusation. Or anger. He was a priest after all. But instead there was guilt. A whole lot of it. He was blaming himself for not being able to do this.
+
+I held out my hand. He looked puzzled, but gave in to the compulsion to shake it. I sent him a party invite.
+
+"If they attack again, and it's a smaller pack, make sure the others only injure and you and Jamie finish them. If I fail or die, you'll need to find a place to stay. So you need the levels."
+
+I didn't wait to see if he accepted, or for questions or explanations. I pushed past our Pathfinder and out of the deli. If I stopped moving, I didn't know if I could start again. I didn't look at the faces of the other Blessed. I prepared to shift, to run away, to be anyone but Eve, the nearly Fallen. But then I stopped anyway. Jamie hadn't responded. Hadn't followed me out of the bathroom.
+
+["Jamie, you okay?"] I wrote.
+
+Liz approached me, a question on her lips. I held my hand up and shook my head. Jamie's reply came quickly.
+
+["No, I am very much not okay, Eve. I was about to smoke weed with a cute gun-nut and then the Apocalypse happened. He's dead. I held an eyeball. A devil's eyeball. They pulled your eye out of your head, Eve. That's seriously fucked up."]
+
+I didn't know what to respond. I turned back toward the deli, feeling my entire facade collapsing in slow motion. Jamie wrote another message.
+
+["I will be okay. I'll be functional. I can talk to the others. Go and find a place for them to stay. Go and make sure your deal was worth it."]
+
+["Thank you, Jamie."]
+
+["Anytime, Eve."]
+
+I shifted into an impala and ran away.

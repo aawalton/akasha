@@ -1,0 +1,221 @@
+---
+id: c700a6f2-6c89-51ca-825b-a03eb3cd8fc1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 621 - Issac's Shop"
+slug: 0621-chapter-621-issacs-shop
+partOf: mythrans-master-of-all-continued-completed
+position: 621
+ownLength: 2656
+unit: words
+publishedAt: 2018-06-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/228312/chapter-621-issacs-shop"
+royalRoadId: "228312"
+---
+
+Ren had to use his Fire Manipulation ability to keep Suniva's Fire under control as it tried desperately to break out of the confined space of the alley. When Ren realized that he should just absorb it instead of just holding it, he pulled it towards himself. Suniva felt the flow of her Fire change and she tried to regain control, then Ren found a particularly ticklish spot on her with his tongue and she lost any semblance of control as she finished.
+
+I guess this is why she said she has never found anyone that could handle her. Ren thought, and was glad he had years of practice absorbing fire, so when Suniva let herself go and both the lava-like liquid of her joy and her Fire element poured out unhindered, he took it all. He held Suniva as she collapsed, boneless, into his arms. Her breathing was rapid and she had a huge smile on her face.
+
+“Hey, are you all right?” Ren asked, and then her Fire slowed down and then stopped coming out of her.
+
+“I... I...” Suniva blinked her eyes for a few moments. “I love you!”
+
+Ren gave her a warm smile. “You can't be in love with me yet. It's too soon.”
+
+“No, it isn't!” Suniva said and tried to lift her arms to hug him, but she was too relaxed to move. “All the things you've done for me, including saving my life, rescuing me, and giving me a home...” She took several breaths to calm herself down. “You care a lot about me, and about my happiness.” She said. “It wasn't love at first sight when we met, but... it grew to... to fill my heart, and...” She sighed. “I know you have so many in your life already, and I don't mind waiting until there's room for me.”
+
+“Suniva...” Ren said and his face twisted a little.
+
+“I know it's a lot to ask, but I want to be yours!” Suniva said desperately. “I'll do whatever you want to be with you!”
+
+Ren closed his eyes and winced, and Suniva misunderstood the gesture.
+
+“I don't care what it takes! I'll do it!” Suniva nearly yelled. “Please! Let me join the others in your circle!”
+
+“It... it's not... that.” Ren managed to get out through gritted teeth. “Artemisss...”
+
+Suniva's eyes widened as she realized what he meant and leaned out to look down, and saw Artemis moving her head forward and back almost faster than she could see.
+
+“What in the... how can she...” Suniva turned and looked at Ren's face again, and saw he was fighting to hold back and wasn't denying her like she thought he was. She brought her element up into her mouth. “Burn with me.” She said and kissed him, then poured Fire into his mouth and down his throat.
+
+“HURK!” Ren gasped at the sudden influx of Fire in a way he had never experienced before, and it distracted him just enough that he lost his battle to not finish. Artemis didn't stop moving her head as he went, and Ren kissed Suniva hard as he shoved his hips forward over and over to match Artemis' movements.
+
+The three of them stayed that way for almost a full minute before Ren started to relax. He stopped moving his hips and Artemis stopped moving her head, and after another several moments, she stood up to her full 6 foot height with a very satisfied look on her face. Suniva broke the kiss when she felt Ren sigh, and she gave him a smile just like the one Artemis wore.
+
+“How do you feel?” Suniva asked.
+
+“I don't know how to answer that.” Ren said. “There's too much going on to put it into words.”
+
+“Is it better than being pissed off?” Artemis asked, and he chuckled.
+
+“Definitely.”
+
+“Then that's all that matters.” Suniva said and formed clothes around herself. Ren felt the tingle on his hands as the magic cloth slid between his fingers and Suniva's back and legs. “You can put me down now.”
+
+Ren stood her on her feet and she wobbled slightly, and he put his arms around her. “You need to wait a few more minutes before standing on your own, I think.”
+
+Suniva nodded and he took out two chairs, then sat down and offered his lap to Suniva. She sat down and cuddled to his chest and Artemis sat beside them.
+
+“How long do you think he'll make you wait?” Teepo asked.
+
+“I told Lara, the Sage of Ages, to meet me about 40 minutes after I came here, so I think Tristan is going to make me wait about half an hour.” Ren said. “I don't think he can force himself to procrastinate much more than that.”
+
+*
+
+Ren was a little off on his estimation. Tristan was bored out of his mind only after about 10 minutes, and he was having a hard time feigning interest in the junk Issac had in his shop. He had already asked about the interesting things and used up their information after the first minute, and he had been doggedly trying to pick more things to ask about since.
+
+“...and that's how I discovered it.” Issac said of the latest item Tristan had asked about.
+
+“That's... great.” Tristan said, a little sadly. I think he's actually enjoying talking about everything. He thought and sighed. “I better get going.”
+
+“Of course!” Issac said. “Thank you for your purchases, and I hope to see you again soon.”
+
+“That's always possible.” Tristan said absently and walked over to the door of the shop. He glanced out the window before opening it and didn't see Ren there. So, I made him wait long enough that he left. He thought and smiled. Serves him right. He walked out the shop with the smile on his face and moved down the street. I can still feel his Aura, so he's close by.
+
+Tristan walked down the street and glanced into Ren's shop to see if he was in there. He didn't see Ren, so he continued down the street and around the corner and still felt Ren's Aura. He looked around as he walked, then he didn't feel the Aura anymore.
+
+I bet he followed me to see if I was really leaving. Tristan thought and chuckled. I'm actually making him nervous. He left the Artesian District and headed across the city to the Market District to spend the rest of the special platinum coin he had received for free. I hope you stay nervous, because you don't know what's coming for you.
+
+*
+
+It wasn't long after Ren had settled down to wait when he felt Tristan leave Issac's shop. He waited until Tristan was out of sight before he dismissed the Full Illusion spell and both Iron Wall spells. He shrunk Suniva back to her normal 1 foot height so she could sit on his shoulder again, and she cuddled into the side of his head like she had to his chest while Ren and Artemis walked out of the alleyway and into Issac's shop.
+
+“I don't know how you can do business with him.” Ren said. “You know what he did to me.”
+
+“You and I have had this discussion before, when you asked me why I would make a gauntlet that can harm people.” Issac said. “My answer is still the same. We can enchant things to do damage, and we can't complain when those things are used to cause damage by people we can't control.”
+
+“You can control who you sell it to.”
+
+“How do you decide?” Issac asked. “Someone just walks in off the street and asks for that dagger.” He said and pointed to the display case under the counter. “You know a knife can be used to cut things, and it can even kill; but, you don't know what it will be used for, nor do you know the motives of the person buying it.”
+
+“I assume you mean that we can't make snap judgments of people we just met, because they could want it for ceremony, or it looks pretty, or it has a neat effect.” Ren said and identified and examined the dagger, and received the recipe for it.
+
+Dagger Of Tears
+
+When this blade is used to make a cut, for a small amount of Mana, the wielder of this blade can reopen that cut, even if the wound was healed by magical means. Does 10 to 40 Damage and is also Sharp (cannot be sharpened further, +10 Damage).
+
+Durability: 100 / 120
+
+“Yes, that's right.” Issac said. “You know the things we make can be used to hurt others.”
+
+“Actually, you are right about that.” Ren said and kept looking at things and gaining the recipe for them. “But, we can also make things that intentionally hurt others.” He said. “Like the Amulet of Tithonus you made for Glaston Killdane.”
+
+Issac opened his mouth to deny it, then glanced up at his lie detector and sighed. “I didn't ask him his name, because I didn't want to know it.” He said. “I thought adding a God of Insects aspect to the Amulet of Truth was a nice compromise to what he actually wanted.”
+
+Ren wanted to ask what the real aspect would have been, then changed his mind. “Will it bother your conscience to know that he used it against the Sage of Ages?” He asked and looked at an old battered shield, then identified and examined it to receive the recipe.
+
+Ancient Iron Shield Of Themis
+
+This shield has seen thousands of battles. In all that time, it has always been used to protect those that need protection. Imbued with an old magic, it can expand up to 10 feet wide or 10 feet high.
+
+Durability: 20 / 200
+
+Issac sighed again. “Ren...”
+
+“Yes, I know. You don't want to know the details.” Ren said to stop Issac's excuses. “Some of this stuff is barely functional.”
+
+“Some of it is fake as well.” Issac said, and Ren pointed to three items near him. A sword, a cabinet, and a helm.
+
+“Those are enchanted to make them look like antiques.” Ren pointed to two other things. A gold chest plate and a staff with a gleaming emerald. “Those are Full Illusions.” He said and continued around the shop. Most of the things were just variations of things that he himself had made, then something caught his eye. It was an old wooden sword that was nearly a foot wide that laid on it's side on a high shelf, and Ren walked up into the air and used Identify on it, then examined it to get the recipe.
+
+Old Wooden Practice Sword
+
+This sword was used by a great fighter from a distant land. Sparring with this sword will give the wielder a prowess unbeknownst to most fighters. When equipped, this sword grants: Hidden Fighting Art (Skill), Parry (Skill), Lightness (+20 Anti-dark), +20 Agility
+
+Durability: N / A
+
+“Wow, that's pretty cool.” Ren said, then he saw something almost completely hidden behind it. It was a small chest, and he couldn't use Identify on it. “Hey, what's that chest?”
+
+“Ah, you've found it.” Issac said and walked over to him. “Only someone interested in the wooden sword would have looked there.”
+
+“It was a test?” Ren asked.
+
+“Of a sort.” Issac said and had to get a ladder to climb up to the shelf. “How are you walking through the air?”
+
+“Air Walk spell.” Ren said.
+
+“That would have worn off already.” Issac said. “I didn't see you cast it again.”
+
+“It's permanent.” Ren said, and Issac stared at him.
+
+“You had someone cast Permanency on an Air Walk spell?” Issac asked, and Ren felt his incredulity.
+
+“You think that was a waste.” Ren said, and he nodded. “It's saved my life a couple of times, and I've had fun with it, too.”
+
+Issac nodded his understanding and picked up the wooden sword to reveal the small chest. “As you can see, it can't be identified.” He said. “It's enchanted that way.”
+
+“You can do that?” Ren asked, and Issac nodded.
+
+“Most people assume that you can Identify anything, and they usually just overlook most things when they can't, believing that their skill needed to be higher to do it.”
+
+“Ha ha. I've done that myself.” Ren said.
+
+“We all have.” Issac said and picked up the box. “I see you've pretty much gone through everything I have on display, and this is the last thing I have out.”
+
+“May I ask what it is?”
+
+“It's a small chest, obviously.” Issac said, and Ren chuckled.
+
+“Okay, I'll bite. What's inside of it?”
+
+“I can't tell you that.” Issac said. “You'll need to buy it to find out.”
+
+“How much is it?”
+
+“Ten platinum coins.”
+
+“Whew.” Ren said. He hadn't come across anything that expensive in the starter city before. “That's really expensive.” He said, and then his Haggle skill kicked in. He smiled and thought for a moment. “How about one platinum coin?”
+
+“One!” Issac said and laughed. “Ren, what's in here is going to change everything for you if you buy it.”
+
+“Most sellers claim that.” Ren said. “One platinum, 50 gold.”
+
+“Eight platinum.” Issac said.
+
+“No, that's still too much. Will it be something I can reproduce?”
+
+“Of course not.” Issac said. “It's one of a kind.”
+
+“Okay, then. Three platinum coins.”
+
+“You're not understanding what I'm saying.” Issac said and held the chest out. “You will open this chest and everything you do afterwards will change.” He said. “Six platinum.”
+
+“You could be selling me a curse that will make me walk funny or make my arms shake.” Ren chuckled. “Four platinum.”
+
+“I give my word that this won't harm you in any way.” Issac said. “Let's meet halfway between our original prices. Five platinum.” He said. “I can't go any lower than that.”
+
+Ren took in a deep breath and let it out. “Well, I suppose it's too tempting of an offer to say no to.” He said. “It's a deal.”
+
+Stat Change!
+
+Haggle Level 7 (Intermediate 0%)
+
+Ren started to take out 5 platinum coins from his pouch, then stopped. He put one back and opened his inventory to look for something, and found the special platinum coin he had received as downtime compensation. He was a little surprised he had been given one, since it was his actions that precipitated the shutdown in the first place. He just assumed it was too much for them to add in the code to deny the compensation to just him, and handed the coin to Issac and added 4 more from his coin pouch.
+
+“Thank you.” Issac said and handed the small chest to Ren. “Go ahead and absorb the enchantment.”
+
+Ren nodded and instead of absorbing it and converting the enchantment to Mana, he used his Retain Essence ability instead and saved it, whatever it was, and used Identify on the chest.
+
+Small Chest
+
+This is a small wood and metal chest.
+
+Ren chuckled. “It's just a chest.”
+
+Issac smiled. “It is.” He said and handed Ren the small key. “Go ahead and open it.”
+
+Ren took the key and popped the small clasp, and opened the chest. Inside was a small pearly white book. Ren took it out and stored the empty chest, then read the cover.
+
+Legendary Book of the Goddess Isis (Unique)
+
+Magic Secrets for the Master Enchanter
+
+“Wow.” Ren said and held it like it was made of glass and he might break it at any time.
+
+“I told you that you couldn't reproduce it.” Issac said.
+
+“I think I should have paid the 10 platinum coins.” Ren whispered.
+
+Issac laughed. “I guess I should have told you what it was first.”
+
+“That might have been a good idea.” Ren smiled and stored the book.

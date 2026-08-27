@@ -1,0 +1,195 @@
+---
+id: e719d3ad-de2e-59c8-9b31-3d386824387f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: Second-in-Command"
+slug: 0034-chapter-34-second-in-command
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 34
+ownLength: 1210
+unit: words
+publishedAt: 2025-09-21
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2618112/chapter-34-second-in-command"
+royalRoadId: "2618112"
+---
+
+PoV Luna
+
+Luna crouched low, ears forward, tail twitching sharp. The air thickened with groans and rot, but her grin lingered. She wasn’t worried though.
+
+Her Second was here!
+
+Even if the others were dum-dums – with their loud boots, clanky armor, and silly questions – her Second would not let them flop around uselessly! Syliana was clever. Syliana had spice-smarts! Syliana would surely keep them safe!
+
+Thud. Thud. Thud.
+
+…Surely.
+
+Luna’s tail slowed. Maaaybe a little worry. But best to be cautious.
+
+Apex Predators knew when to wait!
+
+She shifted her paws, shadows curling sleek around her ankles, ready to spring into action at any sign of danger. Her nose twitched, catching tar-sap and burning moss as the treant dragged closer.
+
+THUD. THUD. THUD.
+
+The corrupted giant lumbered into the clearing. Bark cracked with every step, black sap oozing where its branches bent. Its hollow eyes glowed faint and wrong.
+
+Luna’s tail flicked again, sharper now.
+
+She crouched lower, weight coiled, every muscle begging to leap. But she forced stillness. Not yet. She had to trust! Her Second would move.
+
+“Go, new-pack!” she whispered fiercely under her breath, eyes blazing. “Show Luna what you got!”
+
+The treant raised one root-heavy arm and slammed it into the dirt. The ground shuddered. Clumps of moss flared black.
+
+But strangely, the other creatures didn’t stir.
+
+The first tree-thing Luna had spotted earlier stayed frozen, towering but unmoving. And the big fugly ogre – her prey, her destiny – still hadn’t turned their way.
+
+Big. Ugly. Dummy. Ha!
+
+It might have been a little further into the ruins, but still!
+
+Her ears twitched back to the fight.
+
+Sepio braced, shield raised, voice barking orders. His stance looked steady, but Luna’s nose caught the sweat sharp on his skin. Fear-brave-sweat. Still, he held the position.
+
+Rogue Ray slipped into the shadows. So quiet. So smooth. Even Luna had to narrow her golden eyes to keep track. Her ears twitched.
+
+Impressive squirrel. Very impressive!
+
+Luna approves!
+
+Syliana stood a step behind, lips moving again. Strange words spilled from her mouth, weaving nonsense into the air?!
+
+Luna tilted her head. Really?! Her Second liked talking far too much! Even more than Sepio!
+
+But wait!
+
+A sniff told her the truth. Magic! She was weaving magic through the air. It hummed on her whiskers, sharp and spicy. Ah. That was fine then! Second wasn’t simply wasting time talking – she was seasoning for the fight!
+
+The treant loomed closer, groaning with every step. One huge arm lifted, thicker than any trunk Luna had ever chewed. Bark cracked. Sap hissed black. A club of bark and hate, aimed to crush them.
+
+It swung down–
+
+But the rogue struck first. A clean slice under the arm. The treant’s wood split with a hiss, sap spraying in clumps, the wound narrow but deep.
+
+The attack faltered, veered slightly off-course.
+
+Sepio twisted his shield, shoving at an angle and to the side with all his weight. The giant blow thudded aside from the glancing hit, missing wide.
+
+Dirt shook under the impact.
+
+Sepio did not tarry. His sword lashed out with the rebound, carving across the treant’s face.
+
+And then Syl’s spell slammed into that very same wound! A gleaming bolt of light. Precise. Punishing. And strong!
+
+Very nice!
+
+As expected of her Second!
+
+The treant staggered back, groaning.
+
+Ray darted in again, blades flashing, cutting low across its leg. Again, and again. Before it could react.
+
+Luna’s ears perked. Tail flicked sharp.
+
+It was her turn now!
+
+Her body coiled, paws bristling with shadow. Muscles wound tight and she shot up! Shadow Step activated.
+
+The world blinked.
+
+And Luna appeared inside the cracked mess of sap and splinter, right where the wounds crossed! She could still see and feel the hissing of magic flaking the black sap away!
+
+Her paw lashed out before she even landed, claws sinking deep.
+
+【Momentum Claw Lv.7 → Lv.8】
+
+The treant howled at the attack, a broken bark-groan that rattled the ground.
+
+It flailed wildly, arms crashing left and right. But Sepio braced, shield smashing into one side. Ray struck again, carving sharp lines. Syl poured more light into its ruined face, burning deep.
+
+Her new pack was strong! She chose them well!
+
+But she had no time for tail wags.
+
+Instead, Luna did what Luna did best! Bite. Claw. Tear. And pounce!
+
+She snapped and slashed, then blinked away – only to Shadow Step straight back in.
+
+Again.
+
+And again!
+
+Her fur bristled, her blood sang, her grin stretched wide. The hunt was on!
+
+The treant stumbled. Groaned. Sap hissed from its body with its dying breath.
+
+And then it toppled.
+
+The ground shook as it slowly crashed down, a creaking, terrible fall.
+
+Silence followed, broken only by Luna’s panting.
+
+【Level Up: 2 → 3】 【Intelligence +1 Dexterity +1 Vitality +1】 【Congratulations. You are now slightly less bark-brained.】
+
+Luna spat out a splinter and narrowed her eyes at the glowing words. Then she wagged anyway!
+
+Victory!
+
+Mean system could say whatever it wanted, but it would never dull the taste of progress!
+
+And just as she was distracted by it, Sepio shifted his stance, shield raised high. He stepped aside in time to avoid the treant’s collapsing arm – or so he thought.
+
+Thunk.
+
+A thick branch whipped out from its back and smacked across his helmet. The sound rang through the clearing like a gong.
+
+Luna barked out a sharp laugh, tail wagging. Dum-dum Sepio! His armor made better music than his sword!
+
+Even her Second hid a smirk behind her staff!
+
+Sepio just stood there, glaring menacingly at the fallen branch.
+
+But their fun didn’t last.
+
+Her ears twitched. The forest changed after that last groan from the Treant.
+
+Where the corrupted things had been still before, doing their own twitchy things, now they moved.
+
+The twisted squirrel dropped from its branch, eyes glowing with black froth. Its teeth clicked like snapping twigs.
+
+The deer staggered closer, foaming breath hissing from its throat. Its legs bent the wrong way, hooves tearing furrows in the ground.
+
+Even the other tree-thing, tall and heavy, cracked its roots free of the soil. Bark groaned. Sap hissed.
+
+All of them turned toward the clearing. Toward the party.
+
+Toward her.
+
+Luna froze, tail stiff. Her hackles lifted in a ridge of silver.
+
+Uh oh.
+
+Her golden eyes darted to Syliana. The elf already stood tall, staff glowing faintly, eyes sharp and calculating. She met Luna’s gaze, no words wasted. The meaning pressed clear between them.
+
+Their time to bite had ended.
+
+Now it was time to RUN!
+
+Luna’s paws dug into the dirt, claws flexing in readiness. Her tongue lolled once, both nervous and eager. Running she could do. Running was her best!
+
+She bounded once in place, barked sharp, and flicked her tail forward.
+
+“Move, dum-dums!” she shouted in her head, hoping her wag and bark spoke loud enough.
+
+The air thickened as the corrupted horde began its lurch. Sap dripped. Foam hissed. Roots tore stone.
+
+The treant’s corpse groaned as it collapsed for good, echoing like a drumbeat.
+
+And then the forest roared back to life, almost every wrong-thing turning towards them. All charging at once.
+
+Luna’s grin returned, fierce and wild.
+
+Yes. Run time!

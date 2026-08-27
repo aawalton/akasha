@@ -1,0 +1,209 @@
+---
+id: 786f39de-3ff4-5717-8652-89c25b500432
+page-type-slug: story-chapter-royal-road
+title: "Chapter 554: A Bloody Fiend"
+slug: 0077-chapter-554-a-bloody-fiend
+partOf: reborn-as-a-demonic-tree
+position: 77
+ownLength: 2817
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3228271/chapter-554-a-bloody-fiend"
+royalRoadId: "3228271"
+---
+
+The world around Elder Hao slowed to a crawl as lightning Qi from his soul flooded his spirit roots, electrifying his reaction time and accelerating his thoughts.
+
+The demonic sword had somehow brute-forced its way through multiple layers of shields, and now he faced a wave of shattered glass that rushed toward him as the sword slammed into the command deck.
+
+He leapt to the side, barely avoiding the stupidly fast blade from severing him in two. The sword roared past his ear as a blur, obliterated a console and the cultivator standing behind it, then impaled the far wall behind him with such force that the room's defensive formations rippled along the walls and glowed brightly.
+
+They aren't going to hold, Elder Hao thought, and was proven right a second later as the entire room, perched atop the airship's central tower, cracked beneath their feet before breaking away and collapsing.
+
+Elder Hao didn't spare a thought for the cultivators who fell around him. His focus was fixed entirely on the sword that had somehow made its way onto his dreadnought.
+
+I underestimated it, he admitted shamefully. At this distance, he could tell it wasn't a simple weapon. It was emitting a notable bloodlust, indicating an ego trapped within, meaning it was likely a soul weapon.
+
+"Now that I know what you are, I'll treat you appropriately!" he shouted as he levitated and let the building fall around him. He pulled out a metal wire whip and ignited it with lightning. With a practiced flick, the metallic lash cracked through the air and struck the demonic sword embedded in the falling tower with a deafening clang.
+
+He had expected to cleanly break off the sword's hilt. Instead, the strike merely freed the sword from the tower it had been embedded in.
+
+A near indestructible soul weapon? Elder Hao grimaced. So this is what it means to face a dark god. I knew it wouldn't be easy after how he easily disposed of the late Councilman Faelorian, but I thought he'd be recovering after orchestrating such an attack.
+
+Lightning crackled around Elder Hao's form as he slowly floated upward, whip at the ready. If destroying the sword was impossible, then he would simply have to contain it.
+
+His gaze flicked to the breach the sword had torn through the shields, which were already beginning to close.
+
+Once the shield is restored, the telekinetic connection should be cut—unless the spatial cultivator is onboard. All I have to do is buy time.
+
+"Someone get to the auxiliary control room and boost those shields!" he ordered loudly, uncaring if the All-Seeing Eye heard him. It would all be over in a second. Without delay, he flashed forward and tightly lassoed the sword in his electrified whip.
+
+The demonic sword was even more imposing up close. It was crafted from a mysterious ancient black metal, its surface threaded with blood-red veins that pulsed like a living heart. It didn't seem to appreciate being contained, as it exploded with bloodlust. Elder Hao faltered as the sword twisted violently, ripping the whip's handle from his iron-like grip and hurling him to the floor.
+
+Elder Hao crashed into the deck, sending a tremor through the entire dreadnought. He didn't care. Wiping blood from his eye, drawn by a small cut on his forehead, he rose from the wreckage with a smile. He could feel the thumming of power in the formations beneath his feet. Someone had gotten to the auxiliary control room.
+
+The shields flared as borrowed power poured in from the Imperial Flagship. They were moments from being restored, despite the All-Seeing Eye's desolation Qi's best efforts to keep the breach open. The demonic sword seemed to sense its predicament and shot toward the tear to reopen it.
+
+Oh no, you don't!
+
+Elder Hao appeared above the sword in a flash and kicked it violently off course. The shield reformed a half second later—and with it, the telekinetic grip on the sword vanished.
+
+The weapon struck the reformed shield to little effect and clattered uselessly to the ground.
+
+Elder Hao smirked and glanced around.
+
+His dreadnought was in ruins, the central control tower completely demolished. Yet he had achieved a small but meaningful victory over the dark god. The indestructible sword had been subdued.
+
+He landed beside it and planted his foot on its hilt. "You're a soul weapon, right?" he sneered. "You'd better beg your master to recall you if he even can—"
+
+A sinister, metallic chuckle emanated from the blade.
+
+Elder Hao's blood ran cold, and the words died in his throat. He'd never heard of a soul weapon capable of such a thing.
+
+"My master has no need to recall me," the sword said, startling Elder Hao.
+
+The thick blood miasma coating its blade began to solidify and writhe, morphing as though a body were forcing its way out. Elder Hao leapt back, watching warily as the haze coalesced into a vague humanoid form roughly his height.
+
+"I'm right where I want to be," the blood miasma fiend said creepily, turning to look at him with a blank face. It lifted the demonic sword as if it weighed nothing over its head—and lunged at him.
+
+Elder Hao made use of his lightning-fast reflexes to dodge the immense sword, letting the fiend strike the dreadnought deck. The entire airship trembled as defensive formations flickered to life across the deck.
+
+Just what is this thing?!
+
+He had heard of soul weapons before. They were exceedingly rare, formed when a soul fragment from a beast or cultivator was imprinted or trapped within a weapon. Their defining traits were growth and autonomy, and some could be soul-linked, meaning they could be called back to their owner regardless of distance.
+
+Given how recklessly this sword had been wielded, he had assumed it would be recalled. What he had never expected—not in a thousand years—was for the sword to manifest a phantom-like body out of blood and fight to the death on its own.
+
+"Elder Hao, your orders!" a cultivator called out from a nearby tower. The destruction of the command tower had drawn the attention of all the cultivators aboard his airship.
+
+"Stay back and let me handle this," he said sternly. If his attack as a Nascent Soul Realm cultivator hadn't left so much as a dent on that sword, the Star Core Realm cultivators didn't stand a chance of inflicting damage and would only end up feeding strength to the sword.
+
+The fiend glared at them all and laughed. "Are all cultivators that seek the death of my master as cowardly as you lot?"
+
+"We are not foolish enough to fall for such taunts," Elder Hao said smoothly, keeping his distance. While the loss of his airship would be a great shame, it wasn't worth throwing away his life over. The Imperial Flagship will ensure my airship remains airborne, even if the fiend tears this place apart.
+
+"Oh, that wasn't a taunt," the fiend chuckled, "it was more of an observation. You're all weaklings compared to my master, who KILLED ME," it suddenly shrieked angrily, throwing Elder Hao off. Was the sword losing control?
+
+"You're not a mere soul fragment, are you?" Elder Hao pressed. "Who were you before your master trapped you in a sword?"
+
+The blood fiend looked like it was about to answer when the demonic sword it wielded glowed threateningly, as if reminding the blood fiend of its position. The fiend faltered under the sword's rage and fell silent.
+
+"I can free you," Elder Hao lied. "Just tell me your name—"
+
+"NO! I don't ever want to be free from my master. He is the lord of death, none can escape his reach, including you!" The fiend swung the massive demonic sword around—Elder Hao jumped into the air to avoid and protect his subordinates from an attack... that never came. Instead, the fiend had hurled the sword toward the layer of shields.
+
+Not good! Elder Hao flashed forward as a bolt of lightning to block the sword again—only for the fiend to anticipate his interception and sacrifice itself to block his strike. No! Elder Hao cursed as the sword impaled the shields and successfully pierced them despite their efforts. He desperately rushed forward and grabbed the sword's hilt—only for a shadowy hand to snake through the hole and grip his wrist.
+
+"I wouldn't touch my lord's sword if I were you," a voice that sounded like death itself whispered in his ear.
+
+Elder Hao slowly looked up, fearing what he would see. Just beyond the layers of shields, a towering shadow angel with vast wings and two hollow eyes that seemed like pits to the abyss stared at him. Elder Hao couldn't utter a word as the shadow angel used a massive scythe in its free hand to carve a rift in the shield, starting from the hole made by the sword, like a butcher gutting a pig.
+
+Desolation Qi poured in through the rift, making the shield hiss in protest as it was melted away.
+
+The shadow angel let go of his hand and floated through the breach, silently looking around before focusing back on him. "My name is General Thanatos, who leads the dark forces for my lord, the All-Seeing Eye. You are Elder Hao and the captain of this airship, are you not?"
+
+Elder Hao gulped. "I am."
+
+"Good. I want you to take control of the ship's steering for me," Thanatos said.
+
+"You destroyed the control room—"
+
+"And what of the auxiliary control room you used to boost the shields?" Thanatos narrowed his empty eyes and leaned in. "I would suggest cooperating, Elder Hao. I might even spare your life should you do as I say."
+
+As if I would believe such a lie, Elder Hao internally scoffed.
+
+"I'm not lying, Elder Hao," Thanatos said, as if he could read his mind. "I wouldn't bother thinking about fleeing either. You can feel it, right? The All-Seeing Eye's interest from the moment you entered his vast lands? He can track you down wherever you flee and send the Covenant after you. The same organization that finished off Faelorian. Do we have an agreement, Elder Hao?"
+
+Elder Hao clenched his jaw. Giving control of this ship to the enemy would spell disaster. It simply wasn't something he could agree to so easily. But Thanatos was right; he could feel the All-Seeing Eye's gaze intensely on him.
+
+"If you can't be helpful, then I'm sure one of your subordinates would be willing in exchange for their life," Thanatos said, turning his attention to the Star Core cultivators behind him.
+
+Elder Hao tried to take advantage of Thanatos's momentary lack of focus to strike his face with a lightning-empowered fist. Yet, the shadow angel reacted instantly as if possessing foresight and grabbed his arm mid-throw.
+
+That's when Elder Hao realized Thanatos wasn't merely in the Nascent Soul Realm like him—the shadow angel was at the peak of the Nascent Soul Realm and was half a step from becoming a Monarch.
+
+He didn't stand a chance.
+
+"A true shame," Thanatos said, his empty tone contradicting his words as he tightened his grip. "I had hoped we could work together against the greater evil. Unfortunately, it would seem the Chairman has blinded you."
+
+"I was not sent here by the Chairman!" Elder Hao lied. "We are here on the orders of Mistress Veilshade, Councilwoman of Umbraholme."
+
+Thanatos scoffed. "Do you think a lick of paint and fresh robes can cover the stench of the Empyrea Guard? I've slaughtered too many of your kind in Floridawn to mistake you for another group."
+
+"W-Wait," Elder Hao stammered as he saw the scythe being raised above his head. Their cover was blown. This mission was already a disaster. "I was mistaken. I can help you."
+
+The scythe came down—Elder Hao braced for death—but the great beyond never came. Slowly opening his eyes, he saw the glint of the scythe's blade a hair's breadth from his face.
+
+"A sudden change of heart?" Thanatos said and withdrew his scythe. "Have you finally recognized the All-Seeing Eye's greatness?"
+
+"Yes, yes, of course," Elder Hao insisted, nodding. "I'm happy to serve."
+
+Until I can find a way out of this, that is, he thought. I just need to buy time until the Imperial Flagship notices what's going on and sends support.
+
+"Then get moving," Thanatos said, gesturing for him to go.
+
+Elder Hao walked toward the auxiliary control room while shooting glances at his subordinates. Obviously, they all knew he was acting, and he could see a few had withdrawn communication jades.
+
+Okay good. The Imperial Flagship will know about what's going on here soon enough. Elder Hao thought, holding some hope in his heart. Which was promptly crushed.
+
+"With your cooperation, the rest will just get in the way," Thanatos said and raised his hand. Spears of shadow shot out, impaling the waiting cultivators. Screams of pain filled the air as the cultivators cradled bloody wounds.
+
+Thanatos wasn't done. Hurling a glass ball filled with black liquid, it shattered on the ground, and the liquid inside boiled into a billowing miasma that didn't just rise into the air—it rushed toward the hurt cultivators like a hungering swarm of insects.
+
+Elder Hao would remember the soul-wrenching howls of pain and cries for help from his subordinates for as long as he lived.
+
+"Come on," Thanatos said, taking the lead.
+
+Elder Hao followed in silence, his attention snagging on the sight of his subordinates writhing on the ground as their bodies changed. Skin hardened into bark, arms warped and split into branches—before his eyes, they were becoming trees.
+
+It was, without a doubt, the most horrifying thing he had ever seen.
+
+Noticing his distress, Thanatos leaned over and whispered, "This is the fate of those who defy the All-Seeing Eye. None can escape his grasp, and not even death will save you. Now take me to the auxiliary control room."
+
+Elder Hao did as instructed in harrowed silence. Reaching the room, he offered a silent prayer for the terrified cultivators inside as Thanatos gave them one look over before slaughtering them all.
+
+"Which console controls the ship?" Thanatos asked, looking around the bloodstained room with decapitated corpses strewn everywhere.
+
+"You want to lower the shields, right? If so, it would be this one—"
+
+"No." Thanatos cut him off. "I want to move the ship."
+
+"Move it? Why—"
+
+"Don't ask questions, unless you want to end up like them," he gestured to one of the headless corpses with a finger, "or the fools outside."
+
+Elder Hao gulped. That little glimmer of hope inside him had died by now.
+
+"It's this one," he said, pointing to the command console.
+
+"Good. Make the ship go backwards," Thanatos said.
+
+Backwards? Elder Hao blinked. Why backwards... oh. That would make my airship crash into the Imperial Flagship.
+
+"We will be obliterated by the Imperial Flagship's cannons long before we can crash into it," Elder Hao explained, but he knew Thanatos wasn't going to listen.
+
+"Just do it," Thanatos insisted.
+
+Elder Hao took a deep breath, and his hands began to dance across the bloodstained console. His only hope was that the Flagship would notice his change of course and, instead of obliterating them, he would be saved. After reluctantly putting in the final command, the entire ship tilted as it began to turn.
+
+"I'm really in awe of the All-Seeing Eye's capabilities. When can I meet him?" Elder Hao said, turning to face Thanatos. "I know a lot about the Celestial Empire and would be willing to cooperate."
+
+"You will get to meet him soon enough," Thanatos said.
+
+Elder Hao's attention was captured as he felt reality scream as the Imperial Flagship powered up its weapons.
+
+"We should get out of here," Elder Hao insisted, only to turn and find himself alone.
+
+Thanatos was gone.
+
+"Ah…" Elder Hao chuckled. A lifetime of service was about to end at the cannons of his own captain. "What a tragic fate," he mused as he faced his death. A heartbeat later, the entire room erupted in hellfire, and his body was incinerated in a wave of heat.
+
+Ejecting his Nascent Soul, he fled the burning wreck that was crashing to the ground. A deep anger rose up in him. His cultivation, his position in the Celestial Empire, and even his body had been taken from him by the All-Seeing Eye. I will get my revenge on that dark god one day! Mark my words—
+
+"I told you," the voice of death whispered to him as a shadowy hand cradled his fleeing soul, "not even death will save you."
+
+Elder Hao looked behind him and saw a grinning Thanatos.
+
+"I will take good care of you."
+
+In that moment, the true meaning of fear was engraved into Elder Hao.

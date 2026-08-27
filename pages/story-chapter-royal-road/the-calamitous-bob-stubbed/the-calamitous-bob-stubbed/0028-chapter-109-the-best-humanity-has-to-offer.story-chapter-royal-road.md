@@ -1,0 +1,313 @@
+---
+id: 50ab8680-6c94-5d2a-b306-9ac868b220c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 109 The best humanity has to offer."
+slug: 0028-chapter-109-the-best-humanity-has-to-offer
+partOf: the-calamitous-bob-stubbed
+position: 28
+ownLength: 4560
+unit: words
+ownProgress: 4560
+publishedAt: 2023-03-10
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1133953/chapter-109-the-best-humanity-has-to-offer"
+royalRoadId: "1133953"
+markedReadAt: "2026-06-29T21:15:40.187Z"
+---
+
+Elunath did not live in a mansion. He lived in a palace. To reach its protected entrance, Viv and Sidjin had walked through a ring of crowded manors hiding from each other behind high walls. Ancient walls topped with neatly trimmed hedges formed an impenetrable enclave around the house proper. Just the value of the real estate would suffice to buy all of current Harrak to the last infant, the last shirt button, if one could find a person rich enough to sign on it. Viv considered an obvious truth while they waited by the monumental gates. In Helock, money was a tool of the poor.
+
+The door opened by itself with a clang shortly after. A woman in a blue dress waited by the entrance, hands clasped in front of her in a demure fashion. Viv caught an impression of strong blue mana in her aura, and though she refrained from inspecting out of politeness, there was no doubt in her mind she was a powerful mage. Her clothes were enchanted as well. They looked pristine as if brand new, the azure contrasting with her pale skin. She smiled and bowed in a clearly rehearsed move.
+
+“Welcome to the abode of Archmage Elunath, the Earthshaper. My name is Lani. You must be Viviane and his Highness Sidjin of Glastia. Please, come in.”
+
+She guided them through a large entrance hall with stairs leading up. Viv could have parked a Rafale in here, plus the missiles. Thin columns reached up to a ceiling decorated with flowers and views of the ocean. A dark-skinned northerner in a white ensemble garnished with alabaster feathers sat by a desk, classifying documents. She used an intricate monocle to inspect Viv rather than the skill. In passing, Viv could not help but notice the woman was breathtaking. Like the greeter, both of them wore perfect make-up and magically perfected designer clothes. It was when they crossed a corridor displaying rare vases and came across a short, curvy Viziman that Viv’s suspicion grew to certainty. Elunath had something going on with his attendants.
+
+“So, Lani, I could not help but notice your practiced aura. Are you one of his students?” Viv hazarded.
+
+It was difficult to guess what was appropriate and what was not. Nevertheless, Sidjin had not reacted beyond a light frown and it was open-ended enough. Lani took half of the bait only. She gave Viv a political smile — one that didn’t reach her eyes — before answering.
+
+“We are all students, yes, and masters in our own rights. We have served archmage Elunath since he elevated us from our very humble origins. He trained us well, and in return we assist him with his research and the day-to-day activities. We also benefit from his wisdom for our own pursuits.”
+
+Viv had some questions, such as ‘Are you free to leave?’, ‘Are you even paid?’ and also ‘Are you all dressed to the nines on what seems to be a normal day to impress visitors and am I being paranoid or?’
+
+The main issue was that Viv knew that mentorship with a sex option existed in at least two ancient warrior cultures she knew of, Greek and Japanese. It could be the same here, or it could not, and even if it were the case there was little she could do. Even if the practice was frowned upon, Elunath was so far above the law it would take unspeakable atrocities for the other mages to take him on. And indeed, she could tell why. The earth mana kept getting thicker as they approached the back of the estate until its presence was nearly overwhelming and Viv would struggle to draw on anything else. The walls felt more solid and more real, somehow, and the few potted plants they came across were vibrant with life. Lani eventually opened a heavily warded gate with a finger symbol, each monumental pane sliding slowly and quietly over a polished pink granite floor. A man waited behind a desk at the edge of a circular room topped by a cupola. The morning light shone over floral patterns set in the ceiling by a gifted crafter. Or perhaps Elunath himself. An ornate seat sat empty in front of the white and gold desk.
+
+“Viviane the Outlander and Sidjin of Glastia, sir. They came together,” Lina presented.
+
+“Did they now?” the man replied.
+
+Viv took a moment to inspect the man, again without using the skill as she was absolutely sure it would get her out on her ass before she could say ‘faux-pas’. Elunath was handsome in a strange, artificial sort of way, with every separate feature perfect by themselves. He had chiseled cheeks, a square, stubborn jaw, and beautiful brown eyes under perfectly cut brows. Close-cropped black hair and perfectly unblemished dark skin gave him an image of neatness that was almost unnatural. Viv had moles and pores. Tiny scars. That was normal. This guy had nothing. He was like a statue or a portrait made by melting the images of a thousand hot guys together. She had seen more realistic people in photoshopped ads, except this guy was staring at them, ringed fingers twined over a gold-embroided robe. He was very real, and very dangerous.
+
+“I can wait outside if you prefer,” Sidjin kindly offered despite his appointment being the earlier one.
+
+“No no that will be fine. It saves me time. Please, take a seat,” Elunath said.
+
+He did not react but his power flexed and an identical chair came flying from a back door, settling near its twin with nary a thud. Sidjin and Viv sat in silence. The witch noticed a platter full of drinks at the edge of the desk but Elunath did not offer them any. It certainly set the tone.
+
+“I believe Sidjin of Glastia is first. Would you prefer being called your highness? Or did you forfeit the title with your exile?”
+
+“Just Sidjin is fine, sir,” the ex-prince graciously allowed.
+
+“Marvelous. Do tell me why you are here.”
+
+“I come regarding an issue of research theft.”
+
+Elunath did not react while Sidjin methodically exposed his case. A certain Magister Sterek had stolen his notes back in Glastia while Sidjin himself was otherwise engaged being tortured to insanity. He was now in Helock claiming them for himself, although he had issue recreating even the most basic version of the portal so far. Sidjin was going after him to reclaim his intellectual property and needed Elunath’s tacit permission since Sterek operated under his benevolent approval. Once he was done, Elunath had them stew in painful silence for half a minute before answering.
+
+“Sterek did come here asking for my wisdom. He had very little to offer and I have other new branches of experimental magic I am exploring at the moment. He is not working to further my goals, if that is what concerned you. I shall be frank. I abhorred research drama when I was at the Academy and I abhor it even more now. You are free to tear each other’s throats in front of the ethics committee, just leave me out of it or you will regret it. Only if, and I cannot understate this enough, only if you have a working proof of concept would I be interested in providing funds, resources, or advice. Until then, I will not be involved. Do we understand each other?”
+
+“We do.”
+
+“Excellent. For what it is worth and if you are truthful, I wish you good luck in your endeavor. Was there anything else?”
+
+“No sir.”
+
+“Then what about you, Viviane the Outlander? What do you want to talk about?”
+
+“I’d like your help to go part-elemental before my attunement rises enough to kill me.”
+
+Elunath didn’t reply, but Viv felt the light touch of an inspection skill. The man seemed to consider her in silence. While he thought, his skin suddenly gained the texture and color of bark. The effect disappeared so fast Viv was not sure if she had really seen it, or if the high mana saturation had fooled her mind, somehow.
+
+“You have a perfect black distribution. I did not think it was possible without turning into one of the undead. How long do you have? Five years?”
+
+“Less than two.”
+
+“Ah, yes, black mana is uniquely destructive, an antithesis to life itself.”
+
+Viv did not correct him.
+
+“And you come to me as one of the two elemental archmages still active around humans. Yes, I see how that would make sense. Hmm. It is truly unfortunate that you disseminated your unique regeneration spell so freely or you would have a valuable bargaining chip. Unfortunately, it might as well be public knowledge now. I hope for you that you live long enough to learn. In any case, the change into part elemental is not just a complex process that requires several steps and the use of precious tools and regents, the difficulty is to complete this process with your sanity intact. To do so for myself was a titanic project. To do so for you, I would need to modify my methods to take into account your specific alignment. I would need to research additional containment methods to prevent cross-contamination, and this is just a fraction of the effort I would have to expend to help you. I do expect some form of compensation for the list of favors I would do to you. What is it you offer in return?”
+
+“What I’d like to know is what you are looking for. This is a preliminary discussion. I have little to offer at the moment but I have means to find more.”
+
+“Yadda yadda, all I hear is that you have nothing. My interest lies in ancient knowledge or rare tools and objects. If you find something relevant, and only then, I will start my research. Be aware that I will still ask much for this service.”
+
+Viv thought for a moment, then she removed a notebook from a breast pocket and wrote the first line she remembered from the base of the statue of  an unknown god back at the lone mountain where she had almost died from a Necrach-induced heart attack.
+
+“How about this? Does it look familiar?”
+
+Elunath inspected the writings for just long enough that Viv knew he was interested.
+
+“Where do you see this?”
+
+“Did you not just say I should learn to keep my secrets?”
+
+Elunath sighed and rolled his eyes dramatically.
+
+“I am not asking for the exact geographical location. Was it a private collection? A ruin? A fever dream?”
+
+“A ruin.”
+
+“Hmm. Then yes, I am interested. Tell you what, I will contractually accept to save you and turn you part elemental to the best of my ability against a century of servitude.”
+
+“What?” Viv blurted, but Elunath lifted a hand.
+
+“Not slavery, the same terms the girls abide to. For each service you render, for every artefact you bring, I will shave time off this in accordance with the value of what you bring.”
+
+“And only you would judge its worth.”
+
+“I am not a bleeding heart idiot, but I am not dishonorable either. Working for me is a small price to pay to become a vaunted elemental mage. You will have the time and power to accomplish a great many things. Or you could refuse and die with the maddening pain of black mana poisoning while your organs shut down one by one. Do you have more writings?”
+
+“Yes. There were five stellae.”
+
+“Write their content and I will shave five years of the total. Give me context and I will remove another year. I will put everything down by contract.”
+
+With a flourish, Elunath moved his hand. A scroll unfurled and filled with ink. He gave it to Viv to peruse. She was not a legal expert, so she was not sure what to think of it.
+
+“It’s non-binding on your end,” Sidjin said in a low voice. “It gives you the option to enter a contract of servitude of the stipulated length with him against him turning you part elemental to the best of his abilities. He will have to honor it if you decide to sign. The magical seal is legitimate.”
+
+“Feel free to consult a lawyer. I will leave the contract with you,” Elunath said with a cold smile.
+
+“And you would reduce the amount of time?”
+
+“The empty section at the bottom will list all of your contributions and how much each one is worth. I never bargain, but you are free to refuse an exchange.”
+
+“So context and six stellae worth of writing and you remove six years.”
+
+“That is correct. We can proceed right away.”
+
+“... Alright, I’ll bite after I check the contract.”
+
+“Send the copies by writing alongside the contract so I can amend it when you are ready. The lawyer will recognize the seal and its value. I will not take your doubts as an insult since you are newcomers, but do know I have a reputation for honesty here.”
+
+“Right.”
+
+“I will be looking forward to our cooperation. Was there anything else?”
+
+“Not at the moment.”
+
+“When you have something, send me a message and I will grade it. A list of supplies and regents will be sent to you, and every piece you can acquire yourself will be deduced from the cost. I may also send you offers if you are so inclined. Do you fear getting your hands dirty?”
+
+“That depends on whether or not you ask me to murder orphans.”
+
+“I shall take this as a maybe. I believe our business is concluded. Kindly see yourselves out.”
+
+Viv and Sidjin walked out in silence, only stopping to exchange farewells with a falsely peppy Lami. The outlander waited until they were out of sight to ask the burning question.
+
+“So, are all powerful archmages cunts?”“The best mages humanity have to offer have reached their level thanks to their amazing drive. Sadly, a kind heart is not a prerequisite. Come, I saw a lawyer office on our way down. Let’s see if they can do a rush job.”
+
+It was only a single sheet of parchment so for the atrocious cost of five silver talents, Viv was able to quickly learn that yes it was a legally binding, official contract and that not only was it legit, a copy had appeared in the vaults of the Helock’s government to act as a reference and Elunath would have to burglarize two offices and murder five different officials to wiggle out of the contract.
+
+“You must be rather important to warrant such terms,” the lawyer said. She was a woman with graying hair and piercing dark eyes.
+
+“It just means he will take advantage by dictating the amount of years I can remove. I need to check other resources.”
+
+“You should and I will help,” Sidjin said. “but don’t expect much. Most archmages have had a decade of preparation to achieve what Elunath accomplished, and many still fail.”
+
+“You’d think they would document it.”
+
+“They do but most of those mages are rivals.”
+
+Viv sighed. She came from a world where the spread of knowledge was seen as mostly beneficial, but here on Nyil it appeared to be a strategic asset so people shafted each other over arcane secrets. There was no general notion that humanity could progress and make a difference here. Progress and enlightening were not concepts people even talked about. Everyone seemed to serve themselves and their close circles with the unwavering belief that, sooner or later, the septic tank would hit the industrial fan and drench the entire sub-continent. She understood but she didn’t like it.
+
+“Do you think I should take his offer?” she finally asked.
+
+Sidjin seriously considered her words before answering.
+
+“Personally, I do not want you to die. I want you to live a long and happy life and I want to be part of it. I believe Elunath will try to give you diminishing returns on your offering so you end up serving him for at least a few years, and though he is an asshole, it looks to me that it is preferable to a horrible death. I have gone to great lengths not to die just before escaping. I also admit that, if I were facing the prospect of more torture, I would rather relinquish this life. The only good answer here is the one you decide for yourself. This contract is just an option. If, at the moment of signing, you have a better choice or you prefer to give it up, you should. I will be there with you, if you allow it.”
+
+“Yes, you are right. It’s still early. And at least I have a last resort option if nothing else pans out. I should be relieved.”
+
+“This is cause for celebration! I would suggest a celebratory lunch, unfortunately, I wanted to start on Sterek right away now that you are enrolled and Elunath gave me his approval.”
+
+“You are going to the committee of ethics?”
+
+“I already did while you were busy. They insist I talk to Sterek first and try to resolve the conflict amicably.”
+
+“Uh, are they not concerned that one of their researchers tried to steal research and claim it as his own? Isn’t that bad?”
+
+“Well… it is considered unethical to steal from either the living or the recently dead with powerful living relatives.”
+
+“...”
+
+“...”
+
+“So it’s only bad if you get caught,” Viv said.
+
+“In moments like those, your outlander nature shines brightly. There is so much lost knowledge developed by isolated researchers lost over the centuries. Those who find interesting ideas in ruins or dusty private libraries are encouraged to refresh and claim them.”
+
+Viv thought about her hive shield, which she had ‘borrowed’ from the lone mountain ruins.
+
+“Oh.”
+
+“There is no shame in sitting on the shoulders of giants, especially when those giants are dead and cannot protest. Ah, here we are.”
+
+Sterek’s research lab was situated in the upper part of town around the edge on account of the volatility of its nature. Viv had been informed by a local that the mineral plateau was ‘as dry as a hag’s twat’ which made getting water difficult, hence why it was sparsely populated. Half of the laborers’ day was spent making sure the cattle was well-hydrated. Viv sat to wait at the entrance of the tall stone building. The wards were nice but that place was cold and unadorned. Fantasy brutalist. It was clear the designer had considered costs and the possibility the place would have to be rebuilt on occasion.
+
+A pair of assistants filling forms kept stealing glances at her. They looked younger than her, but the way their mana moved showed amazing control, especially of colorless mana. Sidjin returned before anyone could speak. From the tension in his shoulders, Viv knew it hadn’t gone well. She waited until they were back on a buggy before asking questions.
+
+“Wanna talk about it?”
+
+“He found a nice way to avoid the problem by asking me to prove it was me and my research. He did so by asking me a question pertaining to anchoring the portal. It’s a block in his research. His notes were on the board behind him.”
+
+“And you could not tell him without him completing the research I assume?”
+
+“Oh no, he has a few more ordeals to clear, but it certainly set the tone. He doesn’t want to relinquish his research. I think he has invested too much in it. Even if I had given him the answer, he would have still found an excuse to dispute my identity.”
+
+“There has to be a way to prove you are you.”
+
+“And I sincerely hope the ethics committee has them.”
+
+And it did have them, but they wanted him to be identified by a family member. No matter how many times Sidjin tried to explain to the clerks that he was banished, they argued that since he was a prince there had to be at least some Glastian people who would identify him.
+
+“Can’t you just take his word for it? He can swear an oath and demonstrate the level of magical mastery he claims,” Viv tried to argue, but the clerk disagreed.
+
+“He could be a madman and believe in what he has said. There were cases before where talented yet unstable individuals claimed to be a deceased expert. A prince is a public figure. Surely you have people who can recognize him.”
+
+“It is as I told you. I have been in prison for years, and I have scars. All of those who were close to me have reasons to see me dead and the rest will not be able to swear with certainty.”
+
+“We either need three unaffiliated witnesses or some sort of heirloom,” the clerk said, “sorry.”
+
+Viv could tell the people were not being arrogant about it. If anything, they looked like terrified people trying to cover their asses. Nevertheless, Viv had not anticipated so many hoops and from Sidjin’s face, she could guess he had hoped for a quick settlement. He was remarkably calm when they left the building, having made no progress whatsoever.
+
+“I’ll try to find a way, I suppose.”
+
+“Am I being paranoid or could it be that you are being deliberately sabotaged?”
+
+“No, it makes sense for centers of learning to protect their researcher and only punish when they have no choice. The Academy is not exempt from favoritism. I am disappointed, but not surprised. Don’t worry, I expected something like that to happen.”
+
+The fallen prince kept silent while Viv dealt with her annoyance at systemized assholery. He grabbed her shoulder and pulled her in a half hug. She returned it. Then she came to a decision.
+
+“I’m moving the schedule ahead. Buggy, get us to the academy’s faculty of medicine. It’s on the other side of — “
+
+“I know where it is, lady. I went there last time my foot got infected. They pulled a wood shard as long as my thumb!”
+
+“Hmmm, right.”
+
+“We are doing this now?” Sidjin asked, suddenly nervous.
+
+“I did not make any appointment today because I didn’t know how long it would take to meet Elunath. Since we’re out early, let’s put our time to good use.”
+
+“Ah it is just that my back hurts and the stone is so cold and I am making excuses, am I not?”
+
+“You did not sleep comfortably?”
+
+“No I… forgot to buy a mattress. Wait! You knew? You knew!”
+
+“What are you talking about, royal boy? I thought you were not pampered and had everything figured out?”
+
+“Aghhh you evil woman!”
+
+They spent the rest of the trip bickering.
+
+Tod was more than willing to help her get her hand on a cleric of Sardanal to help with the procedure.
+
+“We have that girl Morea who’s been harping about healing full time. A good sort. You show her your spell and make sure all is well, won’t you?”
+
+Morea turned out to be a short and cute young woman with very pinchable cheeks for an adult. She was constantly cheerful, though it had the sort of brittle quality of someone expecting it to shatter at a moment’s notice. Viv judged it might be a defense mechanism. In any case, she was delighted to have a kind person around for what was going to be a long and arduous procedure.
+
+As promised, they first finished repairing Sidjin’s body. The torturer had removed entire strands of muscle, leaving behind crevices and scar tissue. Viv’s first time was to ablate and rebuild large parts of the legs and arms since his body had compensated for the amputation. Morea’s help proved invaluable because she had a prayer that prevented blood loss. It even worked after Viv used her black mana scalpel. It took half an hour to do everything thanks to Viv’s experience. Once she was done, the time came for the ‘piece de resistance’: Sidjin’s nethers.
+
+“Okay, I’m starting now. Ready Morea?”
+
+“Ready.”
+
+“I’m ready as well,” Sidjin mumbled nervously.
+
+The witch cut into tissue with care. Without the priestess, this would have bled a lot and required a break to let Sidjin recover, but fortunately all was going well. The Halurian spell soon revealed the form of the lost member and Viv set out to rebuild it with clinical disinterest. Concentration came easily to her magically enhanced mind. It also helped that the penis wasn’t that complex to remake. Only the ‘corpus cavernosum’ and ‘corpus spongiosum’ were slightly exotic, the rest was nerves, blood vessels and connective tissue. Nothing she hadn’t handled before.
+
+When she was done, Sidjin was whole, except for the scars he had wanted to keep. His body was still a little too thin and the rebuilt skin was too pale. Those would come with time. He would also need some reeducation. Speaking of which.
+
+“Oooooh…” the prince whispered, staring at his freshly regrown cock.
+
+It was, she had to concede, a very nice cock. Really good specimen. The firing new nerves had also led to a bit of a turgescent situation. It was good that Viv had prepared for this moment. She put on a birth control ring while her lover watched mesmerized as the phoenix rose from the ashes. Then she grabbed it.
+
+Sidjin yelped with surprise then sighed in contentment.
+
+“Ah, Viv darling…”
+
+He turned incoherent under her ministrations. She had clearly caught him off guard.
+
+“I’m not sure…”
+
+“As your medical expert, I’d like to make sure everything is in working order. You wouldn’t object, would you?”
+
+“If you insist…” he croaked. “I bow to your expertise!”
+
+“Good!” Viv said while unbuttoning her dress.
+
+“Well…” a tiny voice said near the door, “I’ll show myself out then?”
+
+***
+
+Viv sighed with contentment and settled on her bed to read her etiquette course booklet. Sidjin was still in the hotel room they had rented after deciding a stone slab was not the best place to indulge. Classes would start the day after and she had to prepare a bit more. A knock on the door distracted her. She stood up to find an envelope had been left on the ground by the dormitory’s staff. It bore her name. She opened it and read its contents. They had been written in a suspiciously perfect hand, every letter the exact same as if coming fresh out of the printer.
+
+Your Grace,
+
+There is a prize of fifteen gold talents on the head of Prince Sidjin,
+
+Contact me at the five fishes tavern for more.
+
+Sincerely,
+
+S.
+
+“I will ruin that asshole first and then I will kill him,” Viv announced to a nearby pillow.
+
+“I hope you are not talking about a fellow student?” a suspicious voice said.
+
+“No,” Viv replied, then louder: “A researcher put a hit on my boyfriend after stealing his research!”
+
+Viv realized she had made a big mistake. Her brief outburst would be exhibit one in an earth trial and listed as motive. Thankfully, she was no longer on earth.
+
+“How dastardly. There is nothing worse than caught idiots doubling down on their crimes. Please,” Ereska said with a carnivorous grin, “tell me more.”

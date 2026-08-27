@@ -1,0 +1,417 @@
+---
+id: 4eaa63ea-6987-51c8-9f68-210dccd0797c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 112: The girl with the Dragon"
+slug: 0031-chapter-112-the-girl-with-the-dragon
+partOf: the-calamitous-bob-stubbed
+position: 31
+ownLength: 4904
+unit: words
+ownProgress: 4904
+publishedAt: 2023-03-31
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1153471/chapter-112-the-girl-with-the-dragon"
+royalRoadId: "1153471"
+markedReadAt: "2026-06-29T21:15:46.581Z"
+---
+
+“What is he even up to?” Magister Sterek grumbled.
+
+“The Glastian? Sir?”
+
+Sterek turned to his assistant and contemplated slapping her across the room, but that would be stupid and unproductive. He was neither. She was just one of those dumb puppies who thought he could do no wrong because he had hired her, and thus was a good person. He had hired her because she was talented and cheap, having probably fallen on the wrong side of some noble. Not worth the trouble of recruiting. She didn’t know how to leverage her skills.
+
+“Yes, Nara. The Glastian.”
+
+“I’m sure the Academy will know what to do with his accusations. Sir.”
+
+She stared at him with her wide peasant face and toad eyes, begging for validation. Gods, she was so naive. Maybe even a security risk.
+
+“That is not the problem. Renegades like him who have lost everything will resort to underhanded tactics. He has nothing to lose. But instead of doing anything, he’s staying in that stupid manor of his all day long.”
+
+“You… have him under surveillance, sir?”
+
+Shit. he should not have said that. Got to maintain plausible deniability.
+
+“Gossips,” he lied. “Washerwomen eager to earn a few irons to report to me. Not that they’re saying much. He must be up to something. Has to be.”
+
+“Perhaps prison broke him. I mean, I would not know but was he not severely punished?”
+
+“You don’t understand. He was called the Red Mist on the walls, because that was what his spells left behind. He never rested and he never left those… subhumans he eventually betrayed his homeland for. You have to admit he was committed and skilled if the rumors are to be believed. A man like that is mad but he has to be respected. Besides, Nara, heed my words.”
+
+‘You silly cornudon’ went unspoken.
+
+“Never plan your success on someone else failing.”
+
+“Maybe it’s the girl?”
+
+“What girl? Oh. Her? I do not think so.”
+
+“She could be doing his bidding.”
+
+Sterek considered the words in silence. It was true what they said. Wisdom could come from the simplest minds.
+
+“She’s one of the worst of them. No otherworldly magic, no ground-breaking knowledge, no local network. Poor choice. Hm, but perhaps she is a messenger for an agent. Good idea, Nara. I will see if I can get eyes on her.”
+
+***
+
+Viv’s first two weeks at the Academy ended in the blink of an eye, with mixed results. Her enhanced stats meant she could read and memorize material at an incredible rate… but so could everybody else. The workload of books to read and questions to ponder was astronomical and way beyond even the craziest earth prep schools. She had to remember the history of the continent, major families and cultural differences for the ethics and etiquette class. The military class required her to read battle reports and conflicting witness testimonies, learn variations on standard doctrines and general names and personalities. She found herself calculating the range of an artillery detachment on a flank of an old war just to see if they could have sniped a famous arcane fencer. They could not. She had drawn the curve to show he had been too far. It was insane.
+
+It was also incredibly useful.
+
+Most of Solfis’ knowledge was theoretical. Now she was learning how people fought for real in modern wars. It reinforced her opinion that she had been right to overwhelm the red mage guarding Prince Lancer immediately or she would have been in trouble. Her understanding of what local people were capable of and how they thought increased dramatically, at least for nobles and in the context of war. A skill she had never used also proved its utility.
+
+Polymath: Beginner 4
+
+Many of the questions asked covered a variety of subjects from ethics to sociology to logistics. So long as a problem was multi-faceted, she found herself enjoying tying the pieces together to form a harmonious whole. The skill truly was a godsend, because there was one major time sink in her list, and that was enchantment.
+
+For all she’d been capable of writing spells and setting alarms, it had been parlor tricks compared to the real deal. Real enchantment, the stuff that could influence palaces for years, required a careful balance of glyphs and geometry to last for more than a week. It stood at the crossroads of art and science, and though her approach tended to be more intuitive, there was no getting away from the questions of glyph balance and sustainable casting.
+
+The way she understood it, enchantments only persisted if the ‘sentence’, or the structure of glyphs, was coherent and stable. The number of rules that governed rune distribution and balance would disgust a trained engineer. Even for her, stable enchantment felt like a harmonious song to her senses and she was not sure how to form one herself. The worst problem was that everyone else knew at least the basics, and she had to catch up on years of studies in a relatively short time.
+
+Even Rakan had solid basics and he had received minimal training in this. The Faceless preferred their minions specialized so they could not operate independently. Viv had much to do. Fortunately, there were plenty of books to be found, including primers that she obtained from a copy office. She also had plenty of time during that period, but that was perhaps not for the best.
+
+It appeared her reputation preceded her and she had taken a firm step from being hot stuff to being positively radioactive. The students politely ignored her in and out of class. It was never disrespectful, but it was hard to miss. Noble students had started the trend and those who followed had been quick to imitate them. During the first two weeks, powerful families would scout young and unbound talent in a flurry of social events. Viv had not been invited. In fact, only Ereska and Rakan kept her company inside of the school.
+
+“I’m sorry, regicide is considered bad manners. Especially by kings,” the smooth Helockian had told her.
+
+“He wasn’t even king yet…” Viv grumbled.
+
+But she understood. As for Rakan, he was one among only a handful of Hallurians in the school and suffered from it. The two pariahs spent a lot of time together. It helped that they were both rather talented.
+
+In fact, Viv had come to an unexpected conclusion.
+
+For all her ‘born for magic’ and outlander nature, for all her achievements and her fast growth… Rakan was more gifted than she was. He learned at an incredible rate and with great enthusiasm, wielding four different colors with the mastery of a painter. To see him at work, to see him progress was a humbling experience. It also reminded Viv of what she could do if she put her mind to it, and her efforts redoubled.
+
+On the eve of the second weekend, she was almost frustrated when a message from Solfis was slipped under the door. It took her a moment to take a step back and realize she had more important things to do than perform well at the Academy.
+
+Stopping Sterek.
+
+Also, staying alive but stopping Sterek would be a good start.
+
+Viv escaped at dusk while Ereska prepared for the inauguration ball of the social season. She made her way to the Five Fishes tavern, face hidden under a cloak and eyes open. People were running home after their days of work while patrols of armed citizens walked the streets, equipped with torches and cudgel. The air felt wet and stifling even after nightfall, and sweat plastered the shirts of the men to their muscular bodies. No one stopped Viv, though a few looked. She was dressed too richly under the light hood. They knew that in Helock, connections mattered even more than might.
+
+The inn was wide awake with muttering angry customers when she came in. Men and women gathered in tight circles around their tables, clenching half-finished tankards. A lull in the conversation silenced the room when she came in. The conversations returned when the innkeeper hushered her in.
+
+She climbed down a set of stairs to find Solfis in deep discussion with Lim the Fell-Handed. As before, the dark-skinned woman wore innocuous office worker robes, a little loose. She studied Viv with hooded eyes.
+
+“Do we have everything?”
+
+//I have acquired the plan of the workshop, Your Grace.
+
+//Verified by the head worker.
+
+“I verified it personally,” Lim said with a ghastly smile.
+
+//The outer wards were verified by one of my new talents.
+
+“Alright. Let me see.”
+
+Viv studied the workshop. The entrance led to the vestibule where she had waited during her brief visit. This in turn led to the main lab, a massive central room hosting the main teleportation glyph encased in a protective layer of silverite-inlaid ward stones. Work stations lined the walls along with storage space. A corridor encircled this room and led to a warehouse and staff room at the back. Since the lab itself extended on two floors, the rest of the second level’s space hosted personal offices for Sterek and another staff member. There was no basement.
+
+All this information concerned the workshop ‘as designed’. Sterek could have made changes and they would not know. What they did know was that Sterek had spent almost half of the budget on that silverite shield and the rest on safety. Breaking in would be difficult. Breaking in without being found out? Almost impossible. Thankfully, she had access to some of the best talents of Param.
+
+“I could really use your help there,” Viv said.
+
+//You Grace.
+
+//You could not possibly think I would let you go alone.
+
+“Just making sure. Where is Sidjin?”
+
+//He will arrive shortly.
+
+//He requested surface access and I granted it.
+
+“How is his body double?”
+
+//Bored and well paid.
+
+It did not take long for Viv’s prince charming to walk up the stairs two at a time. He gave her the warmest smile and grasped for her hand with careful yet passionate movements. Viv was happy to see him slowly get used to just touching her casually. He had come a long way in a very small amount of time, trauma-wise. It had only been a month.
+
+“So, are we humiliating the research thief? To want to kill me is a thing, dear, it happens all the time. To steal my research is deplorable, but to force me to sit in a cramped quarter while I have regained full mobility? Now that is a crime I shall not forgive.”
+
+“And you will have your revenge, my love,” Viv declared in a husky voice and just enough theatrics to remain tasteful.
+
+//Please do not include mating rituals in our planning session.
+
+“Spoilsport. Alright, let’s get started. Sidjin, how much room do you need for a stable portal?”
+
+“First thing first. What do you plan to achieve?”
+
+“Oh yes, I should have led with that. Sterek’s financial sponsors will visit the lab on the morning of the day after tomorrow, and we are going to ‘drop in’ to have a chat with them.”
+
+“I doubt Sterek will appreciate the intrusion,” Sidjin mused.
+
+“Hence why we will not ask him his opinion.”
+
+“You want to teleport in.”
+
+“Yes, which has the added advantage of proving you already have the mature technology.”
+
+Sidjin considered the situation for a little while.
+
+“Why not just go to them and talk to them?”
+
+“We can always do that if we fail but then you are a second team asking to be on a project and the first one is backed by the Academy. With a little bit of presentation, we can catch Sterek in a ‘gotcha’ moment and ruin his standing. This will be much more effective than a protracted legal battle where the sponsors wonder if they are being conned. We need to ruin Sterek’s reputation first and foremost.”
+
+“Yes, but Viviane love, the cost if you are caught…”
+
+//We will not be caught.
+
+//There are no guards on site.
+
+//There is a patrol of night watchers that walks the road where the workshop is situated.
+
+//They seem fairly capable.
+
+//They do not seem capable enough if we are careful.
+
+“We will be. I am also concerned about alarms around the building.”
+
+//I will detect them.
+
+The conspirators kept studying the map, making plans and contingencies. Viv decided that they had to go to the workshop and check things themselves to be sure not to be surprised.
+
+“We have two nights. We will break in on the second one but we’ll do the preliminary work on the first and, ah, case the joint,” Viv said, using old imperial slang with relish.
+
+//I see you have already read the sixth book of the ‘Gladiators of Harrak’ series of homoerotic fiction.
+
+The room grew silent.
+
+“... no?” Viv lied.
+
+//Curious.
+
+//As it is the only surviving piece of literature where the expression is used.
+
+“Let us return to the planning. Right. We scout on the first night and act on the second unless we spot an opportunity.”
+
+“The workshop is on the highland, on the other side of the Academy compared to the river. There are only industries and pastures there. People might notice, so you will move after nightfall,” Lim said. “I will have my people babysit you. Remember that the more you do and the more risk there is that you might be found out.”
+
+“No heroics,” Viv confirmed.
+
+“You two are amateurs. Listen to us and only talk when you cannot be heard,” Lim advised.
+
+“We’ll be quiet.”
+
+***
+
+The team waited until night fell to leave, but not before Viv was dressed in a black and gray garb painted in irregular patterns. She and Sidjin were given enchanted pairs of boots that were not exactly their size but came with an interesting advantage. They exuded black mana as well, though the work was a little rudimentary.
+
+“Trackless boots. The watchers can see recent footprints with their unique skills. They have an enhanced sense of smell by the way, so make sure not to get too close.”
+
+//They also have danger sense, Your Grace.
+
+//Do not attack or use inspection on them.
+
+“We’ll avoid them. So long as a patrol is around, we will hunker down.”
+
+“That would be wise,” Lim said.
+
+She did not seem confident. Viv understood. This was a theft operation and the two casters were novices. It would be like handling two VIPs in a war zone. They probably shouldn’t be there to begin with. Unfortunately, Sidjin’s presence was necessary. As for Viv, well, it was her project.
+
+Naturally, they did not use the roads. Lim presented a team of three rough folks covered in dark gear more elaborate than their own, then they were off in a half-submerged tunnel.
+
+//Those are dry during winter when the Shal’s flow decreases.
+
+//And flooded after rains.
+
+//Be careful, Your Grace.
+
+//I only control part of the criminal population.
+
+//And control is too strong a term.
+
+//You cannot let your guard down.
+
+They continued in silence. Viv thought the entire rock must have been hollowed out like gruyere because Helock had sewers and they were in a separate system. The passage smelled musty, much milder than the unbearable stench of the sewers. They came across side openings leading deeper into the darkness, outside of the range of the light spell Sidjin had deployed. They eventually left the underground through an opening in a cliff bordering the sea itself. Waves crashed against their light skiff. They found a rocky beach and hid their vessel behind bushes. It was such a common spot that a divot was left from previous operations.
+
+The highlands over the city took another dimension at night. Cattle had fallen silent, and the cloudless sky felt very high above their heads. Stars shone brightly, providing enough light to see decently well. The floating islands and stones dotting the sky existed as little pieces of void blocking starlight like cracks on a fresco. The massive, distant form of the chalice ruled over them. When Viv looked, she could sometimes see whorls of mana disturbing the air.
+
+Without a word, Solfis and the three thugs led the casters up a steep road then alongside the chest-high stone walls separating different pastures. They came across a road and crossed it quickly and silently. In that brief moment, Viv saw the silent patrol moving far in the distance, their many lanterns held at the ends of poles. The thugs had timed the excursion well.
+
+Sterek’s workshop was luckily and relatively secluded. An entire side was completely hidden not just from the road but also from any surrounding estates. Sidjin and Viv examined the windows and walls, going so far as to have Solfis carry them up to the second floor, but there were no obvious gaps in the defenses. It was almost certain the intrusion would be noticed in the morning. The gates were even more heavily defended. At some point, the patrol walked by the workshop’s entrance but detected nothing unusual.
+
+They reconvened under a silence spell to discuss their options. Viv’s suggestion was deemed the most likely to succeed and they left to get tools for the next day’s work.
+
+***
+
+“You must be Viviane the Outlander,” the man said.
+
+The witch stopped in her tracks while the buggy driver froze, averting his eyes. Everyone in Helock knew better than to get involved in an argument between casters. That was clearly one of them. You just had to feel the way the world held its breath,
+
+“And you are?” Viv replied to Sterek.
+
+Sidjin’s would-be replacement was handsome and well-put together. He had the light skin of Baranese though he wore local robes with grace. More importantly, he exuded raw confidence.
+
+Viv hated him almost immediately. It was not just the underhanded tactics. It was why. Viv could see it in the man’s demeanor and the way he looked down from his nose, the small upturn of his lips. She had seen it before. He had a very strong opinion of the world’s hierarchy as well as his and her place in it.
+
+“Magister Sterek, chair of exotic colorless mana application and tenured professor for half a decade. I will cut right to the chase. I know you are still in touch with the traitorous prince and I have an offer for him, from man to man.”
+
+Viv did not reply. Sterek sneered and resumed his speech.
+
+“I am sure he knows he has more than overstayed his presence in the northern territories. I do not have to tell you that his prospects in Helock are bleak, so I am willing to offer twenty gold talents and a ship to Vizim for a convincing explanation of the unity theorem. If he is wise, he will know not to let that chance go to waste. Is that understood?”
+
+Viv waited a short delay before answering just to see the man’s patience run short.
+
+“If and when I see him, I will transmit the message.”
+
+“See that you do. For his sake,” Sterek warned.
+
+The threat of assassins went unsaid. Sterek had the stick hanging over Sidjin’s head like a sword of Damocles. It made sense to add a carrot as well, Viv thought. She left without a word and boarded the buggy. A moment later, she was gone.
+
+Sterek watched the small shape of the buggy recede in the distance, going west towards the river. He walked into the Academy’s outer garden and found a secluded bench under the statue of some long dead scholar. He removed a painting from his robe’s pocket. The dark shape of a man moved on its blurry surface, and a voice came to him.
+
+“Did you place the tracker spell?”
+
+“No, she would have felt it. For all her lack of otherworldly powers, she seems rather adept at using the local magic. She reacted to a bare twitch of my mana.”
+
+“Unfortunate.”
+
+“She will go to the tavern. I am sure of it.”
+
+“We will confirm it.”
+
+“When is the assault planned?”
+
+“Not immediately. The gang there has been taken over by something sinister. Those who made a move thinking them weakened were found without their heads. We will proceed carefully.”
+
+“There must be something at that tavern Sidjin is using. Perhaps a passage. I’m not paying you to do nothing.”
+
+“You have not paid us yet,” the voice warned, “and we have not lasted by being hasty. You will wait.”
+
+The connection ended. Sterek seethed in his seat. His financial backers would visit tomorrow and he had only made marginal progress through trial and error. What had that cretinous prince discovered that he could not? It was so frustrating.
+
+Sterek believed he should not let the matter distract him. A magister had to face problems both of the mundane and arcane nature. It was simply a test of his resolve. The issue would disappear soon, either shipped north or floating down the river in a burlap sack.
+
+***
+
+//The operation cannot be heard from the road.
+
+//Please make sure to move the spell as you progress.
+
+//We will still pause when the patrol approaches.
+
+Viv nodded and made sure to keep her silent spell active around Sidjin’s construct. The close quarters made the experience difficult.
+
+They had to break into a heavily fortified place without being seen, so Viv had resorted to an absolute classic of old-school heists.
+
+They were digging a tunnel.
+
+The Helockian highlands were dry and without much soil. The casters had dug only a meter before finding bedrock. Then, Viv had cast an area-of-effect silence she maintained while Sidjin worked. The man showed his mastery once again by using two mana colors in tandem. Brown clouds with green highlights seeped into the granite, fragilizing it, then the fallen prince’s signature colorless grinder turned it to gravel. Viv could have destroyed it but she decided to save her strength, and their hired goons simply spread the debris on a nearby field where it would not be found too suspicious too fast. It had been strangely exhilarating for the first minute, but now the strain of keeping the silent area up and the rising dust made Viv’s task uncomfortable. Funny how the smallest bullshit could ruin a cool event like breaking and entering.
+
+It took almost an hour to clear a tunnel barely tall enough to crawl through, but the effort was worth it.
+
+“If our calculations are correct, I believe we are… Oh, great.”
+
+Sidjin pushed up. The light of his spell no longer shone on gray rock, but on the concrete-lathered underside of a large white slab. There was a bit of give. Viv placed her hand on her lover’s shoulder but he had already pulled back. They crawled back to the entrance and let the magic-impervious strike golem go first. A low hum told them to follow soon after.
+
+The six members of the expedition gathered on the floor of the lab. The tunnel had allowed them to bypass two sets of securities, Viv could tell. Even the doors from the lab to the nearby corridor were warded to hell.
+
+//No guards.
+
+//However, they have a watcher.
+
+//Of sorts.
+
+The golem pointed a sharp claw at a nearby wall. The lab revolved around the large construct at its center, a colossal circle covered in layers of fine arcane script. Viv felt power from it even as it was deactivated, and the peculiar feeling of malleable space that Sidjin left behind as well, but while the prince’s work was streamlined and beautiful in its simplicity, that one bent under the weight of added parameters and hastily built support constructs. Sidjin made bullet trains to Sterek’s prototype coal locomotive.
+
+The magister's lack of understanding did not stem from a lack of effort, however. Desks and storage shelves lined the wall, covered in densely written calculations. A diagram showing three axes and a curve stood on a blackboard larger than any school’s. Samples and models cluttered the space even more, along with writing implement and measurement tools the function of which Viv could only start to guess. What interested Solfis, however, was a head. A statue head with eyes replaced by two finely engraved crystals and thick silvery cables connected to other measurement tools and what was clearly a core-based power source. The thugs swore under their breath and even Sidjin let out a curse.
+
+“Damn it. A golem. No illusions will fool this one if it is, indeed, recording,” the prince said.
+
+//Do not call it a golem.
+
+//This is not a golem.
+
+//It could barely pass as a component of a golem.
+
+//A very poorly programmed one, at that.
+
+“Whatever you say, big guy,” Viv said in a comforting voice.
+
+//I believe, Your Grace, that I am the local expert on golems.
+
+//Please trust my assessment.
+
+“Can you neutralize the not-golem without breaking it?”
+
+Solfis did not reply, but he did let out a sybillant and vaguely rhythmic warble, and Viv had a strong suspicion she had just been cursed at in binary. Rather than wasting time with those silly flesh bags, the golem strode to its lesser cousin (allegedly) and opened his own chest cavity in a horrific display of eldritch horror, whereupon he grabbed one of the many cable lining his metal heart and forcefully plugged it in one of the observer’s ports. Viv thought it was unlikely the newer creations used the same input output method as Harrakan did and she was right, but the end of Solfis’ tendril changed shape under her very eyes to accommodate the slot of its victim.
+
+//INTERFACING
+
+It appeared she could add ‘hacking’ to the vast list of tasks Solfis could perform. It took less than a second for the tendril to retract and for the eyes of the lesser golem (Viv refused to call it a component) to shine a little. It appeared it had been deactivated for the night, probably to save mana.
+
+//I have underestimated how far humanity would fall without the guiding presence of Irlefen.
+
+Viv was about to snap but… she would never interrupt Solfis when he talked about Irlefen, his maker. It was the only time he showed any emotion besides smug arrogance and smug rage. “We’ll return,” Viv said in Harrakan, and found she meant it.
+
+Solfis turned to her, and if she didn’t know better, she would have said he was startled.
+
+//Yes.
+
+//But first, Helock.
+
+//Sterek uses this storage unit to record experiment results, and the parameters he picked for the spell.
+
+//It mostly serves as a recording device.
+
+//However, I believe I could alter its programming to add a short-range transmitter function.
+
+//I could spy on Sterek.
+
+“An interesting idea, but I have another one. Does this golem record observations?”
+
+//It can project a blurry image of a scene using the illusion array hidden in its eye socket.
+
+Solfis plugged himself again and his voice now came from the lesser golem. It sounded less deep than usual.
+
+//It can also reproduce a wide array of recorded voices.
+
+“I want access to its memory. Find what’s recorded there.”
+
+//You can use those controls here.
+
+//Only the past two weeks are still in storage, I’m afraid.
+
+//There is a fast rewind option.
+
+How very VHS of them. Viv felt nostalgic.
+
+“Ok, I’ll have a look, see if there is something I can use. In the meanwhile, you two draw the gate circle.”
+
+“Not looking forward to that,” Sidjin said.
+
+//I do most of the work, meat bag.
+
+//You are only here to supervise.
+
+“Yes, yes, oh ancient one.”
+
+Viv chuckled and pressed the rewind button. A blurry image appeared on the ground, as if from a distorted projector. It showed the lab by day, three human shapes working on the circle. She pressed on the fastest rewind option. She was mostly interested in rants and bouts of anger. That had potential.
+
+The key broke under her finger with a ghastly crunch. The other stopped.
+
+“Must we?” Viv growled.
+
+Vandal.
+
+“I already apologized! Several times! The damage is repaired!”
+
+But the god ignored her.
+
+***
+
+The assassin guild’s strike team smashed the door of the Five Fishes Tavern just after closure to avoid the civilians. Always messy business, that, civilians. Sometimes they had powerful friends. The leader watched his team break in and seize the innkeeper as he was sweeping the ground. There were no guards on the surface. They would probably be inside.
+
+He would just kill those assholes until he finally got a damn answer. He knew his group should have refused the job. Princes were trouble, even exiled ones. Should have kept killing accountants.
+
+The man stood and removed a wicked blade from its sheath. He made to drop.
+
+It never happened.
+
+A large, clawed hand clamped around his neck like a vise, causing his vertebrae to creak from the sheer pressure. A strength like no other pulled him around as he desperately tried every trick in the book to save himself. It was all in vain. The hand was unyielding. Soon, he was face to face with a pair of malevolent, cold, and merciless crimson iris. Slit pupils narrowed.
+
+“Squee,” the thing stated.
+
+And then it got very, very hot.

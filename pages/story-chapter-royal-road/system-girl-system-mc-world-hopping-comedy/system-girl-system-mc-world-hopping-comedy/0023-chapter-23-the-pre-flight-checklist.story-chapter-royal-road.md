@@ -1,0 +1,143 @@
+---
+id: 10e59e8d-e086-51ae-90f6-dc1208582fc0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: The Pre-Flight Checklist"
+slug: 0023-chapter-23-the-pre-flight-checklist
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 23
+ownLength: 2324
+unit: words
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2649429/chapter-23-the-pre-flight-checklist"
+royalRoadId: "2649429"
+---
+
+The silence in the vault was deafening, broken only by the soft, rhythmic breathing of the unconscious boy on the floor. The glittering mountain of gold felt less like a hoard and more like the evidence of a crime scene. Liz and I were in a state of shared, horrified shock, the psychic echo of Genius Dave’s intellectual beatdown still ringing in our shared consciousness.
+
+Bestie, Liz finally projected, her mental voice a shaken whisper. What… what was that?
+
+[That was a failed stress test,] my own voice replied, clinical and detached to mask the system-wide alert bells still screaming in my private logs. [We have discovered a critical, user-breaking bug in the 50% competence build. We cannot deploy it to the live environment. Ever.]
+
+There was no argument. No debate. The decision was immediate, absolute, and born from the shared trauma of being logically dismantled by our own creation. 50% Dave wasn't a tool. It was a doomsday weapon, a monster in the code we had no way of controlling.
+
+So what do we do? Liz asked, the question hanging in the cold, still air. The meeting with the princess is tomorrow. We can’t send… him. She gestured with her snout at the slumbering form of baseline Dave.
+
+[We have only one viable option,] I stated, pulling up the data from our earlier tests. [We deploy the stable build. We deploy 30% Dave.]
+
+The useful one, Liz recalled. The one who organizes his books.
+
+[Correct. The one who is competent, but not hostile. The one who can be managed.]
+
+Will it be enough? she asked, a cold knot of dread tightening in her thoughts. He will be facing a prodigy who holds the fate of the world in her hands. Will ‘tidy’ and ‘proactively useful’ be enough to save us?
+
+[It will have to be.] I said, my tone leaving no room for further debate. [Now, we prepare. This is the pre-flight checklist. We will drill him until he can recite our entire strategy in his sleep.]
+
+We moved the still-unconscious Dave back to his room. When he finally woke, he had no memory of the vault or the argument, only a lingering headache. We dialed him up to a stable 30% and began the most important briefing of his life.
+
+[Your meeting is with Princess An Liling.] my voice was the calm, steady narrator in his mind. [To succeed, you must understand not just her, but the very foundation of her power. Pay attention.]
+
+My internal systems ran a full background check based on the initial data I'd gathered. The results were sobering.
+
+[TARGET PROFILE: AN LILING][LEVEL: 32][RANK: 7 (Celestial Bridge)][SOUL TYPE: ANCHORED]
+
+Level 32? Liz's thought was sharp with confusion. But you said there are only ten ranks!
+
+[Correct. 'Rank' is a societal and magical milestone,] I explained. ['Level' is a raw, quantitative measure of an entity's total accumulated power and experience, a metric visible only to my system. The data indicates that Princess Liling possesses a power level far exceeding what is typical for a practitioner at the 7th Rank. She is a prodigy of unprecedented scale. Underestimate her at your peril.]
+
+The strategy session became a crash course in arcane theory and geopolitics.
+
+[Mages and Cultivators utilize the same core energy source: Solarium.] I began. [The primary distinction is in the methodology. Cultivators, like the princess, follow a path of internal refinement, pulling energy inward. Mages, like your people, follow a path of external command, projecting their will to shape energy around them.]
+
+Dave absorbed this, his 30% brain processing it with quiet focus. So… they are like a jug, and we are like the hand that pours from it?
+
+A crude, but surprisingly apt, analogy, Liz conceded.
+
+[Correct.] I confirmed. [Now, for the progression system. This is critical.] I displayed a simple chart in our shared mental space, two columns side-by-side, now showing the full ten ranks for each path.
+
+[Both systems have ten ranks. For Cultivators, it ends with the ascended state of Spirit Immortal. For Mages, it is Spiritus Magus. The names differ, but the power scaling is roughly equivalent.]
+
+I highlighted the fifth rank on both lists.
+
+[Rank 5—Nascent Soul for them, Wizard for you—is the great bottleneck. Advancement beyond this point is impossible without summoning and binding a compatible familiar from the Spirit Realm. The familiar acts as a spiritual anchor, a conduit, and a catalyst.]
+
+I let the data point land. I felt a subtle shift in Dave’s mental state. He glanced down at Liz on his shoulder, and for the first time, a look of genuine, profound understanding flickered in his eyes. He needed her. And she, in turn, needed him. Their fates were irrevocably, mechanically, intertwined.
+
+[The ranks continue.] I went on. [At Rank 9, both paths achieve their mortal pinnacle: Sky Immortal or Archmage. They gain true flight and are considered living forces of nature. At Rank 10, they transcend. The familiar guides their soul into the Spirit Realm, an ascension from which there is no return.]
+
+The weight of that finality settled in the room. This wasn't just a political meeting. It was a meeting between two people on two different, yet identical, paths to an ultimate, lonely apotheosis.
+
+[This is the knowledge you will carry into that room.] I concluded. [You will not be a bumbling fool. You will not be a condescending genius. You will be a fellow traveler on the path, showing respect for a different methodology. That is our strategy.]
+
+Dave gave a single, firm nod, his expression no longer one of fear, but of quiet, focused resolve. The briefing was complete.
+
+The next day, the hour of the meeting arrived. The walk to the designated chamber was the most tense experience of my existence. Liz was a ball of pure anxiety on Dave's shoulder.
+
+[USER HEART RATE: 85 BPM - STABLE.][HOST (LIZ) STRESS PROJECTION: 78% - CAUTION.][MISSION PROBABILITY OF SUCCESS: 42%.]
+
+They arrived at a simple, unadorned stone chamber. The two guards outside the heavy oak door did not move. One of them nodded, and the door swung inward on silent hinges.
+
+Princess An Liling was already there. She sat serenely at a simple stone table, a single, steaming cup of tea before her. She looked up as Dave entered, and her calm, intelligent eyes held a universe of unreadable thoughts.
+
+Dave, running on the carefully calibrated 30% setting, walked forward. He gave a perfect, ninety-degree bow.
+
+Liz held her breath. I ran a final diagnostic.
+
+[ALL SYSTEMS NOMINAL. USER IS OPERATING WITHIN EXPECTED PARAMETERS.]
+
+The heavy door swung shut behind him.
+
+The meeting began not with a word, but with a presence. Coiled serenely on the large stone table, between Dave and the princess, was a creature of breathtaking, impossible beauty. It was an Eastern dragon, no bigger than a housecat, its long, serpentine body crafted from what looked like living, breathing jade. Its whiskers, fine as spun silver, twitched lazily, and a thin wisp of steam curled from its nostrils. It regarded Dave's arrival with an air of profound, ancient indifference, its emerald eyes half-closed in a state of regal boredom.
+
+My system instantly tagged it: [FAMILIAR: Jade Serpent Dragon (Juvenile, Epic-Tier)].
+
+Liz, however, saw something else entirely. All our careful preparation, all the diplomatic protocols we had drilled into Dave, vanished from her mind in an instant. Her entire consciousness was consumed by a single, overwhelming thought. A real one.
+
+While Dave and the princess exchanged initial, formal pleasantries, a fierce and deeply personal internal monologue was unfolding on his shoulder.
+
+Look at the posture, Liz seethed, her mental voice a torrent of critical analysis. Arrogant. The way its tail is coiled shows a distinct lack of respect for its surroundings. And the horns… far too ornate. Gaudy, even. A true sovereign of the draconic lineage, such as myself, understands that true power lies in elegant simplicity, not ostentatious displays.
+
+[Liz, focus on the mission,] I gently reminded her.
+
+I am focused! she shot back, indignant. I am assessing a potential rival! His scale-work is impressive, I will grant him that, but does he have a hoard? I highly doubt it. He has the look of a pampered, glorified house pet. I, on the other hand, am a self-made monarch of immense wealth and—
+
+My attempts to get her back on track were interrupted as Princess An Liling finally spoke, her voice calm and melodic, cutting through the tension. "Lord Dave," she began, her gaze direct and analytical, "your energy feels... chaotic, yet potent. Explain to me the nature of a Mage's connection to Solarium."
+
+Just as she finished her question, it happened. For a single, flickering instant, a translucent screen materialized in the air in front of her. The text on it was an inverted, mirror-image, almost impossible to read from our side of the table. But there was no mistaking the layout. It was a status panel. And at the top, I could just make out the inverted letters of Dave’s name. My internal systems, running at full alert, caught a snapshot.
+
+The screen displayed his stats, his class—Wizard (Rank 5)—and his level, a shocking Level 43. But the most critical line item, his [Hidden Blessing of Confusion], was completely absent, as if it were invisible to this foreign scan. The screen vanished as quickly as it had appeared, without a trace. The princess gave no sign she had seen anything. The jade dragon didn't even twitch.
+
+Liz and Dave, their focus entirely on the conversation, had noticed nothing. This was a new, dangerous variable, a piece of information I immediately archived and flagged with the highest possible priority. She has a System, or something like it. And it can’t see the Blessing.
+
+"We believe the will is the ultimate tool," Dave said, launching into the script we had prepared. "We seek to shape the ocean; you attempt to hold it within a cup."
+
+Princess An Liling listened intently, a small, thoughtful smile on her face. Her jade dragon let out a soft, dismissive puff of smoke.
+
+"And we believe a flawed cup will crack under the strain," she countered, her voice smooth as polished stone. "We seek to forge the spirit into a flawless vessel, one capable of containing the heavens themselves without breaking."
+
+Their conversation flowed, a careful, scholarly debate. They were two travelers on different paths, describing the scenery to one another. But then, An Liling steered the conversation into uncharted territory.
+
+"There are legends, of course," she said, her eyes gleaming with a keen, academic light. "Whispers of rare individuals who walk a third path. Those who practice what the ancient texts call 'Arcane Cultivation'—a fusion of both disciplines. They learn to forge the internal vessel and command the external storm. But such a path is said to be perilous, requiring a balance most cannot achieve."
+
+Dave's carefully constructed script vanished. A look of genuine, unfeigned excitement lit up his face, a spark of his true, 0% self shining through the 30% competence. "I've read about that!" he blurted out, leaning forward slightly. "In a book called 'The Unbalanced Soul'! It spoke of using runic circles not to cast spells, but to guide the flow of Qi internally! Most of the scholars at the academy call it theoretical nonsense, a fool's dream."
+
+"They say the same in the Jade Palace," An Liling replied, a real, genuine smile spreading across her face for the first time. "They call it a heresy, a distraction from the true path of internal purity. But I have always wondered… what if they are wrong? What if the true path is not one of exclusion, but of synthesis?"
+
+In that moment, the tension of the diplomatic crisis, the weight of the proposal, the millennia of animosity between their nations—it all melted away. They were no longer a prince and a princess, a mage and a cultivator. They were two nerds, two passionate scholars who had just discovered they shared the same secret, impossible dream. They talked for what felt like an hour, excitedly trading obscure theories and half-forgotten historical accounts of practitioners who had tried and failed to walk the third path.
+
+Liz was completely forgotten on his shoulder, her internal monologue about the inferior aesthetics of jade dragons silenced by the shocking display of her master's genuine, uncoached passion.
+
+Finally, the energy in the room shifted. An Liling leaned back, her smile soft and thoughtful. "Lord Dave," she said, her voice quiet again. "You are… not what I expected."
+
+And that was the moment 30% Dave, overwhelmed by the first real, positive human connection he had likely ever experienced, went completely off-script. The carefully constructed walls of our coaching came crashing down, replaced by a surge of pure, unadulterated, baseline-Dave honesty.
+
+He stood up. The movement was so abrupt it startled the jade dragon, which finally lifted its head.
+
+"Princess An Liling," Dave said, his voice shaking slightly, but filled with a strange, new conviction. "When I knelt in the garden, it was an accident. I will not lie to you about that. But what came after was not."
+
+He took a step forward, and to my and Liz's collective, silent horror, he dropped to one knee again. This time, there was no shoelace. There was no mud. There was only intent.
+
+"I think I fell in love with you the first moment I saw you," he said, his voice earnest and clear. "But now… knowing that you and I share the same dream, the same passion that everyone else calls a fool's errand… it makes my foolish love feel real. It makes it feel solid."
+
+He looked up at her, his heart in his eyes. The jade dragon hissed softly. Liz made a sound like a tiny, dying balloon.
+
+Princess An Liling simply stared at him, her serene composure completely shattered, her face a mask of profound, utter shock.

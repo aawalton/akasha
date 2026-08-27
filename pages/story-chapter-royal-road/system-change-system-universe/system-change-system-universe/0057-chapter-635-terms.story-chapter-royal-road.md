@@ -1,0 +1,137 @@
+---
+id: d56aa237-1a12-566b-85b7-8b7057f71504
+page-type-slug: story-chapter-royal-road
+title: "Chapter 635: Terms"
+slug: 0057-chapter-635-terms
+partOf: system-change-system-universe
+position: 57
+ownLength: 2014
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3145455/chapter-635-terms"
+royalRoadId: "3145455"
+---
+
+Chapter 635: Terms
+
+Nice! Derek thought as he moved to the next notification.
+
+…
+
+Level 252 Reached!
+
+You have gained 35 free stat pointsTotal Free Stat Points: 35
+
+…
+
+Seeing this and not wanting to sit on stat points right now, Derek quickly allocated the 35 new stat points from leveling into wisdom—taking it to 2,131 and increasing his total mana pool by 875 to 53,275. It wasn’t a big increase or anything like that, but it was better than nothing.
+
+Derek then went over the remaining kill notifications until he got to the final one.
+
+…
+
+Congratulations!
+
+You have taken part in the slaying of a level 322 Kethian Strider.
+
+Calculating total contribution…Calculating total contribution…Calculation complete…
+
+Total Contribution: 58%
+
+Essence to Next Level Gained: 0.48%
+
+Total Essence to Next Level: 48.92%
+
+…
+
+He then looked at his skills. There weren’t any major gains—the only real change was that the progression of his Void Shift had gone up to 84%, Whirlwind Slash was up to 65%, Spatial Collapse hit 54%, and Spatial Rend reached 51%. Under the old system, Whirlwind Slash and Spatial Rend would have gained a level, and Derek had felt the very minor increase when he used Spatial Rend later in the fight, so that still seemed to work the same.
+
+Derek sighed and dismissed his status.
+
+Alex had walked a distance away from the rest of the group that saved him. He’d been given a choice, and he wasn’t sure what to do. He’d only ever made one oath to the Origin System, and it was an oath not to knowingly and willingly betray House Loomis. That was an easy oath to make, as he had no plans to do such a thing ever.
+
+Honestly, he wanted to deny the request—he really did. But without Adrian, he didn’t have a teleporter to get home, and who knew how long it would be before he ran into any other system user again. And what if they aren’t as friendly as this group? he wondered. He looked up and saw the escort of the group talking to the bunny, then he pulled out a chair that actually looked a bit like the one his father had in his study, and sat down.
+
+The short elven man also sat beside the escort and began speaking. Maybe they are both escorts? he thought as he watched them talk, but couldn’t hear what they were saying. The elf was left in charge of protecting me and the weaker two of their party, so that means the leader escort trusts him.
+
+The only thing that was throwing him off and really making him hesitant to jump at the offer of an oath to join them was that he wasn’t sure if they actually had a relationship with House Gravenholt. When he was chosen to go to the dead Planetary Battlefield, he’d been informed of some of the bigger clans that were going to send heirs, and there was no mention of House Gravenholt. It just seemed suspicious. And why would that family even send heirs here? They have other, much better training grounds.
+
+Through all of that, he still couldn’t help but feel betrayed by his own escort, Adrian. He had no clue if the man had died. He’d never been given a life crystal from him. Even if he did have one, they weren’t completely accurate and could easily be manipulated. Only the extremely rare ones that were used on patriarchs of houses and true heirs worked well enough to be useful. The vast range that the Origin System covered was just too much. With one or two teleports and a user would be out of range, and the crystals would lose connection.
+
+The same was true for communication devices. Not only did they have limited range that could only be boosted so far, but many planets—especially those used as training grounds—had barriers around them that disrupted communication. People sent to training planets needed to survive on their own and not rely on calling up their clan to save them. It was always a risk, but it was well known that in the Origin System and System Universe, one’s strength grew much swifter when there was risk involved.
+
+“It’s not that hard of a decision, you know?” a voice sounded out that made Alex almost jump out of his skin. He had let his guard down, and someone had snuck up on him. He looked around as another human formed.
+
+“You! So… you are human, too?” Alex asked.
+
+“The name’s Klaus,” the new arrival said.
+
+“Why isn’t it a hard decision?” Alex asked.
+
+“They are assholes, but they are good assholes,” Klaus said with a shrug. “Derek is, at least. He’s not going to make you swear some ridiculous oath like some people. He only wants assurance that you won’t go blabbing about any secrets you see. I think you are overthinking things. You even retracted your senses and let me approach without knowing. That is way too much thought. Might as well go hear him out and see what oath he wants.”
+
+“And why do you speak as if you aren’t with them? ‘They’ aren’t assholes? Aren’t you a ‘they?’” Alex asked.
+
+“Nope,” Klaus said. “I’m just hitching a ride. Not much different from you. Same is true for the weak elf woman. The group that fought together is the main party.”
+
+“I… see…” Alex said. “So… you really are the same as me?”
+
+“For the most part,” Klaus said. “The difference is that I could survive here on my own, and I don’t think you can. Not after what I watched. You are strong, but you work better in a group. Am I right?”
+
+“That… yes,” Alex admitted. “But why didn’t you fight if you are so strong that you would survive?”
+
+“I’m not strong… not anymore, at least,” Klaus said. He then disintegrated into almost nothing, and Alex was barely able to reach out and find pieces of him everywhere. Then, an ephemeral voice sounded from around Alex, “I just happen to be quite unkillable.” Then, it was gone.
+
+Alex stared dumbfounded at where the man had been, then looked back up and suddenly saw the man again, but he was standing beside the elven woman now as if nothing had happened. What the hell is up with this party? I’ve never seen anything so strange. Alex sighed, then he took a deep breath and walked toward the rest of the group, waiting for the two escorts to finish resting and rejoin the group.
+
+After finishing distributing the few stat points he’d received from leveling, Derek waited for Marrick and Silvi. It wasn’t too long before Silvi found the last Kethian Strider that she had contributed the most to and dismantled it. When she finished, she appeared on Derek’s shoulder with Active Void Shift and said, “Kay. Done. You dismantle the rest.”
+
+“Maybe someone else can take care of it,” Derek replied with a laugh. “It looks like the new guy has made up his mind. Let’s go see what decision he’s made.” With that said, Derek stood from his chair and stored it in his storage bracelet. Marrick copied him and fell in just beside him as they walked back to the rest of the group.
+
+“Well, Alex?” Derek asked as he approached everyone. “Did you make your mind up?”
+
+Alex looked pensively at Derek, then his eyes shifted to Klaus. The ex-Adventurer’s Guild Leader gave the young man a subtle nod. Derek frowned and furrowed his brow, as he didn’t know what the two had discussed. He’d noticed Klaus appear next to Alex but didn’t bother paying any more attention than that.
+
+“I have a few questions,” Alex said.
+
+“I can’t promise to answer them,” Derek replied. “Not until an oath is made. But you can go ahead and ask them, and if I can answer them, I will.”
+
+“That’s all I can ask,” Alex replied with a nod. “Do you have any proof that you are connected to House Gravenholt?”
+
+“Proof?” Derek rubbed his chin in thought, then looked around. A moment later, he produced the Origin City pass that Dave had given him. “Does this work?”
+
+“That!” Alex’s eyes went wide in shock. “Is that what I think it is?”
+
+“Depends…” Derek snorted. “Do you think it’s a guest pass that Davenresh gave me to Origin City? If so, then yes, it is exactly what you think it is.”
+
+“May I?” He took a step forward and slowly reached out his hand before stopping himself at Derek’s stare.
+
+“Would you let someone else take it? Even if only to examine it?” Derek asked as he put the pass away.
+
+“No… I guess I wouldn’t,” Alex replied. “And… I guess… it really doesn’t matter whether that was given to you by a Gravenholt or not…”
+
+“Why is that?”
+
+“Because… someone who had a guest pass to give, gave it to you. That… is enough. It’s not like they are easy to get—even for Transcendents,” Alex explained.
+
+“What’s your next question?” Derek asked.
+
+“What oath would you have me take to join you and your group?” Alex asked.
+
+Derek had been thinking over this question since he brought up the idea. That’s why he’d taken extra time beside Marrick even though Alex had made his decision already. He needed to make sure that the oath was strict, but not too strict.
+
+“That you swear that you will not repeat anything you see me do—to anyone, including your own house—until I reach at least Ascendant rarity in my class or have died trying. Also, you will not reveal my relationship with the Gravenholt family—specifically Davenresh—to anyone until I have entered Origin City, or again, have died trying. And finally, you will not plot or work against anyone in my group at least until we have made it to Origin City, or have died trying… though, if we die trying, I guess there wouldn’t be anyone left to plot against… still…” he explained. “I figured that it would be easier for you to accept oaths with guaranteed expiration dates. What do you think?”
+
+“The limits on duration do help…” Alex replied. “Actually, I would have instantly refused had there been no limits,” he explained. “With such connections and probable power, I would assume that you have a better chance at reaching Ascendant or even Transcendent than the overwhelming majority of people in the Origin System—which could mean you would almost essentially be immortal. One major rule I have learned is never to agree to an open-ended oath with a Transcendent or someone who looks to have the ability to become one someday.
+
+“There are stories about those who have. As far as I know, there are even a couple of Transcendents… former Transcendents… who did so when they were younger. It is almost like having a Transcendent bound to you—not like slavery or anything, but huge limitations forever.”
+
+“Take the first part of the oath, for example. What if I swore that I would not repeat anything I saw you do, and it didn’t have an expiration date or clause, and you became a Transcendent? I would have to be careful for the rest of my life not to speak of you to anyone or risk being stripped of my power or even hunted down,” Alex said. “So, you understand why no expiration date is impossible for me?”
+
+“I do,” Derek said. “But these all have their own expiration dates.”
+
+“They do…” Alex replied. “But what if you make it off this dead Planetary Battlefield, yet choose to avoid Origin City forever?” he questioned. “Then I would be bound to the second and third parts of the oath until I die or until you do.”
+
+“I see…” Derek said. “Then we can add… ‘or until fifteen years have passed’ to those parts. What do you think?”
+
+Alex lowered his head in contemplation. After a bit of time, he let out a deep breath, looked up, and stared into Derek’s eyes. “I accept.”

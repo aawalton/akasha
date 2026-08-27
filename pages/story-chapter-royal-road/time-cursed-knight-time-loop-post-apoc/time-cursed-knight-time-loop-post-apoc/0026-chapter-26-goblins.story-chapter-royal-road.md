@@ -1,0 +1,345 @@
+---
+id: 647f39aa-50c5-54fe-9e14-061e239adbc4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Goblins"
+slug: 0026-chapter-26-goblins
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 26
+ownLength: 2403
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3314223/chapter-26-goblins"
+royalRoadId: "3314223"
+---
+
+Brandt rose from the bench.
+
+"We'll finish this later," he said, already reaching for the bastard sword. His steel hand closed around the grip. "Stay inside."
+
+The carriage lurched to a halt. Wheels locked. Horses whinnied and stamped.
+
+"Goblins?" I said. "What are goblins?"
+
+Ghost turned from the window slit and regarded me with an expression that sat somewhere between disbelief and clinical fascination.
+
+"Are you one of those nobles who never left the estate?" he asked. "Never set foot past the garden walls?"
+
+"Something like that," I said.
+
+The lie came easily. Each loop, I'd navigated with incomplete information had worn down the friction between truth and fabrication until they felt almost identical in my mouth.
+
+I didn't like how natural it was becoming.
+
+But I didn't stop.
+
+"I never had Circles," I continued, layering truth beneath the lie the way you reinforce a wall by alternating brick and mortar. "Couldn't use magic. So I studied. Spent years trying to fix the problem. Books, libraries, research. That was my whole world."
+
+I let a note of bitterness creep in. That part wasn't difficult.
+
+"My family didn't exactly go out of their way to teach me about anything beyond the estate. The fewer things I knew about the outside world, the fewer questions I'd ask. The fewer questions I asked, the less trouble I caused. Something like this."
+
+Ghost's pale eyes held mine for a uncomfortable moment.
+
+I couldn't tell if the lie had landed or if he'd seen straight through it. His face gave nothing away.
+
+"Goblins aren't one of the Eleven Sins," Ghost said, shifting his weight as the carriage rocked. "Not directly. But when the portals opened and the eleven damned crossed into our world, they brought their own pests."
+
+He paused, letting that settle.
+
+"Every world that died had its own ecosystem. Its parasites. When the refugees migrated, the problems that had plagued their worlds were brought as well."
+
+I nodded slowly.
+
+"Goblins are intelligent," Ghost continued. "Not brilliantly. But enough to use tools, form hierarchies, set ambushes. They also breed faster than anything else alive. A single nest can produce hundreds of offspring in a season."
+
+His lip curled faintly.
+
+"They've spread across every territory. It doesn't matter, human or elven. They're the cockroaches of the post-portal world."
+
+Through the carriage's window slit, I saw them.
+
+A dozen creatures. Maybe more.
+
+They were smaller than I'd expected. Hunched, crooked things with skin the color of algae-covered stone. Their bodies were thin but wiry. Shoulders too high. Spines curved at angles that should have been painful. Heads too large for their necks, dominated by wide mouths filled with teeth that grew in every direction.
+
+They made sounds. A chittering, clicking, guttural series of noises that fell somewhere between language and the sound of bones being ground together.
+
+In their hands, they held bone weapons.
+
+Sharpened femurs. Crude clubs made from what looked like a single massive vertebra.
+
+They stood in a loose cluster on the road ahead, blocking the path. Some hopped from foot to foot with a nervous, twitching energy. Others crouched low to the ground, their oversized eyes reflecting the afternoon light with a yellow-green glow.
+
+Brandt didn't give them a speech.
+
+He didn't shout a warning or demand surrender or perform any of the theatrical gestures I'd seen officers make before engaging. He simply stepped down from the carriage, planted his boots in the packed earth, and walked forward.
+
+His bastard sword came free of the scabbard.
+
+The first goblin shrieked and lunged.
+
+It covered three paces with a speed that caught me off guard, its bone club raised high, its mouth stretched open.
+
+Brandt's sword moved.
+
+A single horizontal cut. The edge met the goblin at the midsection and continued through without slowing, as if the creature's body offered no resistance.
+
+Two halves fell to the road.
+
+The second goblin was already airborne, leaping from a crouch with a sharpened bone in each fist. Brandt pivoted. His blade came around in a rising diagonal that intercepted the creature mid-flight.
+
+The impact didn't throw the goblin backward. It split it. Upper and lower halves tumbled in different directions, trailing greenish ichor that spattered against the road.
+
+My eyes devoured every movement.
+
+Why did he pivot instead of step back? What made him choose the rising cut over a thrust? Why did his weight shift to the left foot before the third goblin attacked from the right?
+
+His footwork was different from the elf's. Where the assassin on the wall had been fluid and lateral, all side-steps and angles, Brandt was rooted. He planted himself and rotated from the hip, his center of gravity low and stable, the bastard sword tracing arcs that used momentum like a lever.
+
+Each movement had a reason. Each choice flowed from the position of his feet, the angle of his shoulders, the direction of the next threat.
+
+It wasn't instinct. It was a structure of violence built on foundations I could almost see.
+
+I watched the way his steel hand gripped the hilt. The prosthetic didn't flinch. Instead, it seemed to redirect force, channeling the impact of each collision down through the wrist joint and into the forearm.
+
+The fourth goblin charged from behind. Brandt didn't turn fully. He pivoted his back foot, let the shoulder rotate, and extended the sword behind him in a reverse thrust that caught the creature through the throat.
+
+He pulled the blade free and continued forward. Twelve goblins. Each swing was a lesson and a new body on the ground.
+
+Yet it was over in less than a minute.
+
+The last goblin tried to run.
+
+It made it four steps before the bastard sword caught it across the back.
+
+Brandt stood among the bodies.
+
+He didn't pause to survey his work. He simply turned, walked back toward the carriage, and climbed inside.
+
+The greenish ichor on his sword dripped steadily onto the carriage floor.
+
+Only then I noticed.
+
+My hand had gone to my hip during the fight. An instinctive gesture, reaching for a weapon that wasn't there.
+
+My fingers closed on empty air.
+
+"Where's my sword?" I asked.
+
+Ghost glanced at me from the opposite bench.
+
+"You mean that piece of scrap metal you were carrying?" he said. "It was destroyed. The blade was warped past any reasonable repair. Three notches deep enough to compromise the edge entirely."
+
+He raised an eyebrow.
+
+"We left it in Grezheim. I wouldn't have used it to stir soup."
+
+I shook my head in frustration. We had left in such a rush that I never picked up the sword I’d commissioned. In the end, I had essentially paid twenty silver coins for a weapon that didn’t even last a single combat.
+
+"You'll receive a training weapon when we get to the testing grounds," Brandt said, settling back onto his bench. The bastard sword went across his knees. "Standard issue. If you pass the evaluation, you'll be fitted for something custom."
+
+"And if I don't pass?"
+
+"Then you won't need a sword."
+
+That wasn't reassuring.
+
+The convoy lurched forward. The horses resumed their rhythm.
+
+Something moved.
+
+Not in the carriage, on me.
+
+A vibration. Soft and steady, like a heartbeat.
+
+My hand went to the inner pocket. The pocket watch was shaking.
+
+I pulled it free.
+
+"What is that?"
+
+Roen's voice. His enormous head had turned toward me, brow furrowed, eyes fixed on the watch in my palm.
+
+The question drew the others' attention.
+
+Brandt's gaze dropped to the watch. Ghost leaned forward from his position near the window.
+
+I held it up so they could see.
+
+Gold details traced the edges. The name on the back, Kaspar von Hexenzeit.
+
+"It's my grimoire," I said.
+
+The silence that followed was different from any that had preceded it.
+
+Ghost's head tilted.
+
+"That," he said, "is strange for a grimoire."
+
+"I've seen grimoires from every major school and tradition in Silberwald," Brandt said. His voice was quiet. "Most times books. Sometimes scrolls. Never..." He gestured vaguely at the watch. "Never that."
+
+I turned the watch over in my hands. The vibration continued against my palm.
+
+"I can't explain it," I said. "It's been like this since I can remember. I didn't choose the form."
+
+The three Knights studied the watch with expressions that ranged from Roen's simple fascination to Ghost's unsettled analysis.
+
+I didn't give them time to ask more questions.
+
+I pressed the clasp.
+
+The cover sprang open.
+
+Light spilled from the watch face.
+
+⌜ First Kill Achieved ⌝
+
+⌜ You ended a life with your own hands. The weight of it belongs to you now. ⌝
+
+⌜ Sin of Gluttony → Blood Consumed ⌝
+
+⌜ Elven blood absorbed. Your body devoured it before your mind could object. ⌝
+
+⌜ Sin of Gluttony → Satiation Response ⌝
+
+⌜ Gluttony found elven blood... agreeable. It wants more. ⌝
+
+The next notification made the screen flicker.
+
+The runes along the border stuttered. The text warped, bent, reformed.
+
+⌜ Sin of Gluttony → Regurgitation Event ⌝
+
+⌜ Gluttony is rejecting something it consumed long ago.⌝
+
+⌜ Memories Recovered ⌝
+
+⌜ Gluttony has spit out fragments of your original consciousness. The curse consumed your memories alongside your mana. Elven blood destabilized its hold. Some of what was eaten has been returned. ⌝
+
+The door in my mind, the one that had cracked open in the carriage when I'd spoken Roderich's name without knowing how, swung wider.
+
+Not enough to flood me with a lifetime of recollections. But wider.
+
+I could feel them. Fragments. Edges of things. The shape of a room I'd slept in as a child. The sound of a voice reading to me. The weight of a book in small hands. The texture of a carpet beneath bare feet.
+
+None of it was complete. None of it formed a coherent picture.
+
+But they were mine.
+
+They had always been mine.
+
+The curse hadn't just eaten my mana. It had eaten memories, my identity. Everything that made Kaspar who Kaspar had been before I arrived in this body.
+
+If I feed it more...
+
+If I offer Gluttony more blood, more exotic material, more fuel from the creatures that populate this world, it might continue to regurgitate what it stole. Until the original Kaspar's memories return in full.
+
+Until I understand everything.
+
+The remaining notifications scrolled upward.
+
+⌜ Amateur Swordsmanship → Level Increased ⌝
+
+⌜ Level 4 ⌝
+
+⌜ Fear Resistance → Level Increased ⌝
+
+⌜ Level 2 ⌝
+
+⌜ New Skill Obtained ⌝
+
+⌜ Animal Husbandry → Level 0 ⌝
+
+⌜ You have spent enough time negotiating with beasts of burden to develop a rudimentary understanding of their behavior. The mule remains unimpressed. ⌝
+
+⌜ New Skill Obtained ⌝
+
+⌜ Deception → Level 0 ⌝
+
+⌜ Lies told often enough become comfortable. Be careful what you practice. ⌝
+
+I stared at the last two entries.
+
+Animal Husbandry. From the mule. From hours of pulling, pleading, bribing, and being dragged through dust.
+
+The system had watched that and decided it counted as a skill.
+
+And Deception.
+
+The word sat on the screen like an accusation. Not "Lying." Deception. A broader term that encompassed not just the words I'd spoken but the entire collection of half-truths and strategic omissions I'd been constructing since my first loop.
+
+The system's flavor text didn't help.
+
+Lies told often enough become comfortable. Be careful what you practice.
+
+I closed the watch.
+
+The screen dissolved. The blue-white light vanished.
+
+The swordsmanship jump was the most dramatic. Level 1 to Level 4 in a single cluster of events. The duel on the wall. The fight in the streets. The kill.
+
+I tucked the watch back into my inner pocket.
+
+The carriage rocked gently.
+
+Hours passed.
+
+The road changed beneath us. The packed earth gave way to something smoother. The wheels' rhythm shifted from an irregular crunching to a steady, almost musical hum.
+
+Concrete.
+
+I looked through the window slit.
+
+The landscape had transformed.
+
+We were rolling through the skeleton of a city.
+
+A real city. The kind that sprawled for kilometers in every direction, that reached toward the sky with structures too tall for the world that had inherited them.
+
+Skyscrapers.
+
+Or what remained of them.
+
+The buildings rose on either side of the road like the ribcage of some colossal dead thing. Their facades were cracked and crumbling. Entire floors had collapsed inward, exposing the steel and concrete bones beneath. Glass had long since disappeared from the windows, leaving dark, empty sockets that stared down at the road.
+
+Nature had come for all of it.
+
+Vines climbed the walls in dense, tangled curtains. Trees grew from rooftops, their roots splitting concrete and steel as they forced their way downward through floors. Moss covered everything the sun could reach, painting the ruins in shades of green that almost made the destruction look beautiful.
+
+A highway overpass crossed the road ahead, its span cracked down the middle. One half had collapsed entirely, forming a ramp of rubble that spilled across the street. The other half hung suspended, held up by rebar and faith.
+
+The carriage drove beneath it.
+
+I craned my neck, staring upward at the underside of the overpass as it passed overhead.
+
+"I never get used to it."
+
+Roen's voice was quiet. Almost gentle. It didn't fit the man who had bisected two elves with a single swing.
+
+He leaned toward the window slit on his side and stared at the ruins with an expression I hadn't seen on his face before.
+
+Awe.
+
+"The Ancient Civilization," he murmured. "They built all of this. And now..."
+
+He didn't finish the sentence.
+
+I looked at the destroyed city as we drove on.
+
+The concrete road stretched ahead, cracked but still navigable. On either side, the buildings continued their slow collapse into history. A parking structure, half-consumed by a tree whose trunk was wider than the carriage. A strip mall, its storefronts dark and hollow, a faded sign above one entrance showing letters I could read but the others couldn't.
+
+WALGREENS.
+
+I turned away from the window.
+
+"How long until we reach the capital?" I asked.
+
+Brandt shifted on his bench.
+
+"Seven days," he said. "Ten if the roads worsen."
+
+I looked down at the ropes around my wrists. Turned them over. Tested the knots with subtle pressure, not trying to escape, just measuring.
+
+Then I looked up at Brandt.
+
+"Can I train?"

@@ -1,0 +1,257 @@
+---
+id: 009d1a73-caf8-5ea5-a450-299a3b5968e2
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TWENTY-NINE: Here-to-There IX"
+slug: 0231-two-hundred-twenty-nine-here-to-there-ix
+partOf: super-supportive
+position: 231
+ownLength: 3934
+unit: words
+publishedAt: 2025-07-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2412738/two-hundred-twenty-nine-here-to-there-ix"
+royalRoadId: "2412738"
+---
+
+229
+
+******
+
+The teleportation point shared by the residents of this neighborhood was an oval room about the size of a two-car garage, waiting for anyone who wanted to use it as long as they had some portion of System capacity allotted to them. Nobody else was around when Alden arrived. He exited onto a square filled with flowering trees, wondering if he was the most foreign thing to ever pass through this point.
+
+Maybe just the most foreign this week, he decided.
+
+The artificial lighting that had been helpful on his way here had been turned off while he was on Earth. Every lamp was dark, and every window that looked down on the square was shaded. He waited for his eyes to adjust to moon and stars. Once they had, it was still strange to walk down such quiet, dark streets.
+
+Even though the city looked so very Artonan, the experience reminded him too much of trying to make his way through Apex with the power out. His auriad snugged itself tighter around his ankle, as if to tell him that this would be a great time to practice his light spell.
+
+He ignored the urge and walked quickly out of the square, leaving behind the thick, sweet scent of the trees to head toward the park where the party was being held. Halfway there, a text arrived. It was from one of the only people whose messages came through even when he wasn’t on Earth.
+
+[Want to see Number 2?]
+
+What?
+
+Alden stopped between the front door of a house and one of the oblong boulders that were frequent sights around the city. He wasn’t certain if they were primarily for use as benches, but earlier he had seen some of them being enjoyed that way. He tilted his head, trying to figure out what Boe meant.
+
+[I’m going to assume you want to see Number 2. Calling you now.]
+
+He accepted the video call, and Boe Lupescu appeared. He was in a black coat and a knitted hat that matched the dingy scarf wrapped around his neck. It was night in Chicago, too, though a much earlier one than this. Boe was walking down a well-lit street, wearing his old glasses instead of the new ones Alden had bought him through Dragon Rabbit.
+
+“What was the first thing that came to mind when you read that?” Boe asked. A phone was pressed to his ear to keep people from thinking he was talking to himself, or worse—guessing the truth. “Be honest.”
+
+“I think that you’ve come up with funnier jokes in the past,” said Alden. “Forcing innocents to carry you around for months at a time has made you lazy.”
+
+Boe’s smile peeked out from behind the scarf and then disappeared as he adjusted the garment and tucked his chin. “I’m currently following the drunkest person I’ve ever seen who’s still capable of walking for blocks. Not that he’s doing it well.”
+
+The view switched from Boe’s face to what he was seeing in front of him with impressive smoothness. Alden wondered if Boe might have truly perfect control of the System’s call “camera” without having been helped along, but before he could guess at how much practice that must have required, he was taking in the sight of a blond man in an untucked polo shirt who was weaving down the sidewalk. One side of the shirt was soaked, so he must have fallen into the slush or been splashed with something. He had to be cold wearing short, wet sleeves on a December night.
+
+Alden was going to comment on how close behind the man Boe seemed to be for someone who was talking about him out loud, but then the guy took a wide step sideways with one foot instead of forward. He crossed his own legs in a way that just didn’t make sense for a walking person and stumbled. As he tried to recover, he only made it worse, and he landed against a chain link fence that separated the sidewalk from a tennis court.
+
+He pushed himself off the fence too hard, and Alden’s view changed again while Boe, still gripping the phone, intercepted the man with an outstretched arm before he could eat pavement.
+
+“Watch where you’re going!” the guy bellowed.
+
+As if Boe had knocked into him.
+
+“I’m sorry,” Boe said in a barely apologetic tone. “Excuse me.”
+
+The drunk man grunted and fumbled his way forward, trailing a hand along the fence briefly, then weaving toward a small leafless tree.
+
+[If I tell him it’s his own fault, our little interactions take longer,] Boe added via text. [Poor guy lost his car key…because I pickpocketed it. So he’s chosen to walk home. I hope he’s right about where he’s going. I’ve saved him from operating a motor vehicle and several falls that could have resulted in injury. Once I see him enter a house that looks like it belongs to him, I’ll consider him rescued.]
+
+“This is Number 2,” he added aloud, holding up two fingers.
+
+Alden was glad Boe had called him for this, and not just because it gave him company. But he didn’t want to freak any Artonans out by being a stranger speaking in an alien tongue while he loitered outside their door in the middle of the night, so he started walking again.
+
+“Thanks for including me. You’re doing your good deeds on a Friday night. That’s extra heroic.”
+
+“I know. My active social life is sure to take a hit from this.”
+
+Alden had been thinking more about how Boe was missing the chance to devote the night to binging an entire series of something on TV. “Number 2 is lucky you ran into him.”
+
+“Luck?” Boe scoffed. “Luck had nothing to do with it.” [I walked around for over an hour before I found someone in a manageable amount of distress that was still bad enough for me to count it.]
+
+“That would sound so crazy without context.”
+
+“It sounds crazy with context, too.” [You know I can’t call police or ambulances to deal with things? I found two situations that might have warranted it. That’s what I mean by manageable.]
+
+Alden hadn’t thought about the precise number of people an empath walking around a major city in search of distress might find. He wasn’t sure if two emergency situations was more or less than he should have expected.
+
+“Does that bother you?” he asked. Boe had looked a little bothered as he texted it. “Maybe there’s a way for you—”
+
+“I’m used to being a scumbag type, remember?” Boe said in a dismissive tone that Alden didn’t buy. [And there’s no way to report everything I find without drawing attention. Even anonymously…if I’m too good at locating trouble, I’ll just be creating a mystery. And what will people trying to figure out that mystery naturally think I am?]
+
+“That has to be frustrating.”
+
+[I’ve decided to allow myself one or two anonymous reports per year. No more.]
+
+“You’re not a scumbag.”
+
+They were both distracted for a second by the drunk man wobbling backward like he was about to fall. He came into view again for Alden as Boe stepped forward. Boe was positioned to intercept, but it wasn’t necessary this time. The man seemed to defy physics to straighten up on his own.
+
+Alden could hear laughter coming from somewhere around Boe. “Is someone laughing at Number 2 or something else?”
+
+“Number 2,” Boe said. [It’s a couple of smug frat guys who will probably be just this wasted before morning. And a third, insecure, frat guy who felt uncomfortable but laughed anyway. Because he wants the other two to think he’s one of the pack. What’s on your face? And where are you? I thought you’d be doing your post-gym ritual with the roommate.]
+
+Alden had hoped they’d get to hang out for another few minutes before Boe asked. “It’s paint for a ritual,” he said. “So kinda similar. I’m helping Stuart, his cousin, and her friends out with a fun, productive thing. Like a migration of some ordinary class members. The ritual involves a few hundred Artonans and a master wizard who calls us all ingredients. But it’s safe for humans.”
+
+Boe stopped walking.
+
+“Number 2 will get away,” said Alden. “Don’t leave him.”
+
+[Why do you still have your interface set so that I can’t tell when I’m calling you on another planet!?]
+
+“Because I want to talk to you, and if you know calls are going to be long distance you might decide not to make one.”
+
+[Because the calls cost a freaking fortune, Alden.]
+
+“Which I have,” Alden pointed out. “It’s not like this is going to put as much of a dent in it as those charitable donations you helped me make the other day.”
+
+Boe glared at him.
+
+Alden shrugged. “I want to buy what I want to buy. Sometimes what I want to buy is access to your renowned conversation skills.”
+
+[This trip isn’t even for healing. It’s a social visit. You spend too much time around people who you—you of all people—should be avoiding.]
+
+“I know.”
+
+If he said more, especially if he said that he spent a lot of time thinking about what would happen if he told Stuart he was a wizard, this chat would turn into something very different. And this wasn’t the time or planet for it, so he should leave it here.
+
+[They’re like me,] he sent. [Stuart’s cousin and her friends. A little like me. Wizards with skills.]
+
+Boe still wasn’t moving.
+
+“Anyway, I’m just here for this party, and then I’ll be back on Earth,” Alden said. “The big moving day I’ve been helping with is over now. Please go help Number 2. What if he’s about to fall in front of a car?”
+
+[What are you thinking, Alden?]
+
+“Nothing that should make you look at me like that. I was just giving you…context for what might otherwise seem crazy. I’m here for a party.  I’m supposed to be thinking about home for a ritual, and I can’t come up with much. I hope you won’t hang up on me or let Number 2 die.”
+
+Boe started moving again. A short while later, they found out that he and Number 2 really were right around the corner from the place where the man lived.
+
+Alden made it to the park—a triangular slice of nature that cut through the city—around the same time that Number 2 entered his apartment. Boe was watching from down the hall as someone who might have been the man’s father helped him in.
+
+[He’s sad and resigned,] Boe said. [The older guy. I guess Number 2 is like this pretty often.]
+
+“That must be hard on the people who care about him. Thanks for letting me come along.”
+
+“It was a little fun,” Boe said.
+
+“You have a more heroic glow about you now.”
+
+“That’s oily skin.” [Alden, they’re not like you. Even if they are, they aren’t. Because they’re not Avowed.]
+
+“You don’t have to remind me of things that are that obvious. We can talk about it later if you want.”
+
+“Don’t do anything stupid.”
+
+“I’m going to an Artonan party,” he said lightly. “What could possibly go wrong?”
+
+******
+
+******
+
+The party pavilion was separated from the rest of the park by a vegetation barrier. From a distance, approaching down a gentle slope, Alden could see the umbrella-shaped roof of the building. The golden spike at the top twinkled brightly to indicate festivities were underway, but as he drew closer, it was hidden from view by towering, paddle-shaped plants. They reminded him of oversized cacti, only with dimples instead of needles. The paddles were twice his height, and they grew straight up from the ground in clusters of two or three, forming the walls of the large area that surrounded the pavilion.
+
+Walking between the plants made Alden think of mazes, though the layout wasn’t designed to get a person lost. Winding approaches to the pavilion were marked by paths made of narrow wood boards, so that even the most befuddled partygoers could find their way back to the center of the action if they wanted to after doing whatever had brought them out here.
+
+Alden hadn’t spared much thought for why the garden area was arranged in this way earlier, but now it was obvious that this was an extension of the partying facilities. The walls of plants created several layers of semiprivate nooks, most of them shaped like half-moons, extending outward from the pavilion. Those nooks were very useful if you wanted to slip away with a small group and a giant hookah, or if you wanted to cuddle on the grass with someone. Or if you wanted to dig a hole and bury some braided hair in it while you and your pal giggled about it.
+
+Those were all things Alden caught glimpses of while he made his way to his destination, and he couldn’t even see around most of the paddle plants from the wooden path.
+
+The pavilion itself had sliding glass walls all the way around, and when Alden stepped out from behind the last cluster of plants, the side facing him was open. He could see the party raging within, and it was looking wilder than when he’d left.
+
+Does it qualify as thunderous yet? It looks thunderous.
+
+Close to him, a couple of people were…fighting?…while they rode on the shoulders of two others who were clearly yelling. But no sound escaped from the pavilion to mar the peaceful night beyond its walls. Alden found the effect surreal. He was near enough that he could smell the food inside, yet the sounds of the funny-looking fight and the shouts of the people watching were missing. He felt like he was staring at them through a screen on mute.
+
+He kept staring, though, because the battle was so unique. Each combatant wore a white shirt and a white band around their forehead. Their fingers were wet with red dye, and whenever the people carrying them called out, they jabbed at each other with a single finger on each hand, trying to mark the clothes.
+
+The crowd around them was even rowdier than the actual fight. Leeter-zis was front and center, drumming two sticks on the floor and ignoring a woman who sat beside him, smearing dye on his white pants with one hand.
+
+Maybe she’s supposed to be doing that?
+
+She leaned toward another person and rubbed dye on their bare foot. They jumped away from her.
+
+Or not.
+
+Alden walked around the building once, considering what he could see of the party from out here and trying to determine if it looked safe.
+
+Safe enough, he decided after the circuit. He hadn’t spotted Stuart, or anyone else he knew well enough to hide behind, but things didn’t look too ridiculous from out here. If Ro-den showed up with a politician’s spouse, he’d beat a retreat, but right now the food was motivation enough to be brave. The smell was mouthwatering. He’d missed meals over the past day, though he couldn’t say which ones since he wasn’t sure if he was more on Anesidora time or local time at this point. And on top of that, he’d been inhaling recovery potion, which always made him ravenous.
+
+He would dive into the pavilion, grab something the gremlin approved of, and say hello to Leeter-zis so the master wizard would know he was here for whenever the spell casting needed to happen. If Stuart was inside, Alden would glom onto him, and if he wasn’t, he’d text him.
+
+Plan of action in place, he stepped through the open wall.
+
+Immediately, a fistful of something that looked and felt like cornflakes rained down on him from above. I know I came for the food, but this isn’t what I envisioned.
+
+He brushed flakes from his hair and shook out the one that had fallen down the front of his shirt while he looked up to find the culprit. The pavilion had a carved branches, netting, and platforms overhead that formed a second floor of sorts. It was patchily lit, so Alden had to scan the branch above him more than once before he realized Emban and Ryada were waving down at him.
+
+Ryada was waving, at least. Emban was taking the cup that must have held the cornflakes from her. Alden was almost surprised to see them there. He’d expected to find strangers doing that Artonan party thing where they slopped food all over the place to indicate that times were good. Once he was sure Stuart wasn’t with them, he carried on, aiming for a food table.
+
+The sounds around him were astounding in volume and variety.
+
+The young kids had all been tucked away somewhere, but the teenagers who’d sneaked up to sit on a balcony with Alden earlier that morning were still around. One of them came scampering out of a pile of people engaged in a group dance to announce that he’d like to be thrown up into one of the ceiling nets by the mighty Avowed.
+
+“What?” asked Alden.
+
+“Any one you choose will be fine,” the boy said, waving his arms over his head excitedly. He had dark skin and hair that was damp and reddish. Alden remembered it being a different color this morning.
+
+“And then you might throw Doee and Azkoo up, and come with us, and we’ll help you with your back.”
+
+Alden was trying to follow. “Because…my back will hurt after I throw three people at the ceiling?”
+
+The boy laughed and laughed. He laughed so much that he sat down for a second, like the energy required for his mirth had come straight from his legs, before he climbed upright again.
+
+“Don’t worry,” he said. “My hands are very strong. I won’t let go of the net and fall.”
+
+“I’m sure you’re strong, but—”
+
+“I’m going to repair machinery like my parents. Grip like a pekahop.”
+
+“But I’m not strong enough to throw you up to the—”
+
+“Don’t worry! I weigh less than the table you moved for the bors.”
+
+He was laughing some more with his arms wobbling around. It reminded Alden of Jupiter dancing with the snake plant during Kon’s party, but in this case, he was pretty sure the wavy arms meant, Pick me up, and throw me, human! I will tell everyone at my new school an Avowed threw me, and they will think that is a very awesome thing about me because of course it is.
+
+Alden suspected this would seem less cool when the boy wasn’t in a Here-to-There party haze…but what if this really was a once in a lifetime opportunity that would grant him fame among the local ordinary class people? Who was Alden to deprive him of that chance?
+
+He targeted the boy. “I’ll throw you, but I’ll do it in my own—”
+
+“Yes!” He grabbed Alden’s shoulders and squeezed them. Hard. “And then the others! They were too shy to ask.”
+
+So Alden contributed to the party by “throwing” three people at a net. He preserved their clothes, jumped up with them, and tossed them only a short distance. He didn’t think it was that impressive, since the net he’d aimed for was pretty low, but everyone here was in the mood to feel impressed regardless, so his passengers weren’t disappointed. At least not until he refused to let them “fix” his back by painting stripes on him with the same red dye they’d used on their own hair.
+
+“But we want you to match everyone else. For the party!”
+
+“I’m hungry,” he called up. “Maybe later.”
+
+He left them pouting there in the net and grabbed some food, piling random vegetables and grains into a bun for portability while he tried to step on a minimal amount of spillage and keep an eye out for Stuart.
+
+Oh no. He’s still misting houses, isn’t he? He’s never going to finish. He’s going to force himself until he completely exhausts his authority.
+
+Alden took a couple of gummy purple blob things and wrapped them in a napkin. They seemed like they might be a different flavor of one of the side dishes Stuart had enjoyed when they were eating meatpetal together.
+
+Now, I just need to let Leeter-zis know I’m back in case nobody told him.
+
+This simple plan fell to ruin a moment later when a silver ball rolled to a stop in front of him, marking him as the central character for the dancing group’s next song. He had no idea what to do as they encircled him, spinning, kicking, and calling for him to, “Shout the shout and roll the ball!” like those were comprehensible instructions.
+
+A woman took pity on him before he could make a total fool of himself and jumped in to teach him to, “Shout the shout,” which Esh-erdi would have loved to hear him attempt since it was supposed to be this twittery yodel in time to the music being played by volunteers up on one of the platforms. The best Alden could do was a loud gargle of a noise while he kicked the ball around to different dancers, trying to figure out how to earn freedom from this terrifying experience.
+
+He was finally let go when one of the dancers missed the return kick, and the ball rolled off toward another victim. If he’d known that was how it worked, he wouldn’t have tried so hard to make gentle passes that even the clumsiest, most party-afflicted dancers could aim for. Hurrying away from the dance as fast as he could lest it come for him again, he felt something he hoped was fruit splatter against his forehead, inhaled a tendril of smoke that was drifting through the room all by itself like it had a mind of its own, and then sneezed a flower.
+
+“What the heck?” he whispered, staring at the blossom of smoke in front of his face. It waved five petals and a curling vine before it drifted away.
+
+Nose burning and itching like crazy, veggie bun still held in one hand, he found Leeter-zis…only to be welcomed way too warmly by the people watching the fights. Poor Magoob-ith was a really tall woman, and the fights weren’t fair if the heights didn’t match up. If Alden Ryeh-b’t would just hold still and let someone clamber up onto his shoulders so that he could be Magoob’s opponent, the way of the night would be much closer to perfection.
+
+“Wait. I’m an Avowed, so doesn’t that make it more unfair than height—”
+
+“It doesn’t matter my leaf-eyed ingredient! You already have your partner!”
+
+Indeed. There was a person in white sitting on Alden. Not a person he knew. But a really tall Artonan woman and her own rider were coming at them, and people were screaming that they’d bet on the human…and when the party finally spat him out the same wall he’d entered through, he was victorious and confused. He rushed for the safety of the paddle plants before anyone could call him back, and caught his breath in one of the half-moon nooks, taking stock of himself.
+
+His forehead had fruit juice on it. He hoped Tuck and Yinuo could save his pants from the dye if the washers at the dorm wouldn’t do it. And his dinner…
+
+“Where’s my veggie bun?”
+
+******

@@ -1,0 +1,553 @@
+---
+id: 5cde56e0-3632-5f45-9f4f-a81d8fa53681
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FIFTY-EIGHT: Family Matters IV"
+slug: 0160-one-hundred-fifty-eight-family-matters-iv
+partOf: super-supportive
+position: 160
+ownLength: 5838
+unit: words
+publishedAt: 2024-07-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1731122/one-hundred-fifty-eight-family-matters-iv"
+royalRoadId: "1731122"
+---
+
+158
+
+******
+
+“Alden. Hey, Alden. It’s over.”
+
+At the sound of his name coming from Winston Heelfeather’s mouth, he looked up to realize that Instructors Klein and Marion were finished speaking to the class. Earlier, Alden had pulled out his tablet in case there was any need for note taking, and it lay untouched on the desk in front of him.
+
+His thoughts had been on another planet ever since Evul-art’h had ended the call.
+
+“So,” Winston said, “what do you think of my offer?”
+
+At the start of the meeting, the speedster had raced ahead of Haoyu to steal the seat directly in front of Alden, for the purpose of making another offer to present Alden’s Avowed selection story to his own fans.
+
+Waves of disinterest had flowed through Alden as soon as Winston said “social media collab.”
+
+“You’d have instant access to my follower base,” the boy was telling him now. He flashed a grin. “You know how much that kind of exposure would help you with your launch.”
+
+Why is he saying “know” so…knowingly? Like we’re in on something together.
+
+Alden had expected Winston to be extra obnoxious after running into the fishing line neck first. But he’d thought it would take the form of more jealous glares and insecure put-downs. This was so much stranger.
+
+“The fans will love it. We have to do it this week, though. My posting schedule is completely full for months. Couldn’t fit you in anywhere else. And there’s so much interest in Anesidora right now. Globally, I mean. It’s a perfect time for—”
+
+“I don’t think it is,” said Alden. “Who makes a ‘Meet me! I’m amazing!’ post at a time like this? I’m not interested, but even if I was, I wouldn’t do it now. It would either disappear in the noise or blow up in my face because it’s tone deaf. This sounds like a scam.”
+
+Winston gaped at him. Reinhard snickered.
+
+Was that too harsh?
+
+“I’m sure that’s not how you meant it,” Alden said. “But…yeah. Thanks for the offer anyway.”
+
+Winston sputtered something defensive.
+
+Alden didn’t have the bandwidth for him. He’d barely gotten the gist of what the instructors had said over the past fifteen minutes.
+
+Morrison Waker was safely back on the planet as of this morning, and he’d be returning to teach classes. Possibly with some days off since the government was trying to rope the more famous superheroes into PR work on behalf of the country.
+
+Alden wasn’t sure what that meant. Did they want Big’nLittle Snake to talk in a comforting drawl about the strength of Anesidora while he bulldozed through the rubble?
+
+Fragment would definitely be gone for the rest of the quarter since she was heavily involved in clean-up. Alden had looked around to make a commiserating expression at Maricel when he’d heard that, only to find she wasn’t present. Lots of people were out, though. He assumed they were watching through interfaces.
+
+They’d be having duels on Wednesday for the first time. One-on-ones.  And between now and then, they were supposed to watch footage of another first year combat class having their own duels to get an idea for the rules and how it would work.
+
+Other than that, the instructors had thanked everyone for their good behavior during the crisis, reminded them to come forward with any personal problems that might affect their performance, and told them to be cautious about getting swept up in volunteer opportunities that might come their way in the next few weeks.
+
+“Remember, you’re still new to being Avowed,” Marion had told them.
+
+“None of you know what you’re doing yet,” said Klein.
+
+“A lot of groups with good intentions are trying to assist with the recovery—”
+
+“But most of them are disorganized non-professionals who have never used their powers for anything more complicated than lifting a piece of furniture,” Klein interrupted.
+
+“What we mean is that they may not be the best judges of their own limits or yours,” said Marion.
+
+“If the authorities don’t put a stop to it, someone will drop what’s left of a house on someone else’s head before this is over.” Klein’s voice was dire. “Don’t be the one who does it, and don’t be standing underneath it. If you want to volunteer, do it through school clubs with advisor oversight.”
+
+The two of them had kept going after that, but Alden didn’t know what about.
+
+I don’t think I missed any critical information at least. He stood up from his desk. I’ll figure it out later if I did.
+
+He tried to turn his thoughts back to his surroundings, but it was hard.
+
+Stuart was having a negotiation with his family in the big living room.
+
+About me? he wondered as he tucked the tablet into his bag. It sounds like it might be about me…
+
+But no matter what angle he looked at the information from, he didn’t see how the family could have more than a ten-minute-long conversation with him as a main topic. The art’hs who weren’t named Stu or Alis didn’t even know him.
+
+Evul-art’h had made it sound like the “family negotiation” had started because someone had found out about the Privacy of the House contract. But Alden had told her he wouldn’t mind doing it. In fact, he’d prefer to do it so that Stuart’s family would be comfortable around him. As far as contracts went, one that asked you not to share embarrassing private information you learned about someone as a visitor in their home was mild.
+
+Like having magical backup to support your basic decency.
+
+What if I really never get to talk to him again? She didn’t mean never-never, right? She was being dramatic?
+
+Evul-art’h hadn’t clarified, and Alden had been too off-balance to ask her before she hung up.
+
+He felt like someone had pulled a rug he hadn’t even known he was standing on out from under him.
+
+In just a few long phone calls, Stu-art’h had come to occupy a larger spot in his life than Alden would have imagined right after Thegund, when the Artonan boy mistook him for a hallucination and closed the door in his face.
+
+He’s the kind of person who asks me questions about my life purpose and makes it seem like something we should obviously be talking about. And he’s actually got a good sense of humor when he finally relaxes enough to bring it out—“Would you like me to have Aunt Alis dig an ocean?”
+
+He tried to explain how auriads work because he noticed I was curious.
+
+I watched him watch his sister die.
+
+He’s going to be a knight.
+
+Alden was afraid he should have expected something like this from the start. He’d had worries that some stickler for rules would eventually put an end to the message exchange with Kibby. But Alis-art’h had said it was all right, so he’d been letting the fear go.
+
+He’d never been concerned someone would object to him befriending Stuart, though, since Stuart himself hadn’t seemed at all concerned about it.
+
+He invited me to his house. He’s old enough to pick his own friends.
+
+Maybe it’s not really about me. Maybe it’s about…
+
+He couldn’t think of anything. He didn’t really know the art’hs or their family dynamic.
+
+Because of the number of secrets still between them, he didn’t even know Stuart’s specific concerns well enough to guess. Evul-art’h had said her brother was trying to force everyone else to understand something that would only ever make sense to him.
+
+I can definitely imagine that, but at the same time—
+
+The world around him intruded suddenly in the form of Konstantin vaulting over the row of desks to his left. He gave Alden a smile that thoroughly showcased the new gap in his teeth. “I’m coming with you and Lexi! Thank you so much.”
+
+Snap out of it, Alden. “Sure. It’s no trouble.”
+
+“You can meet our sister. She wants to tell everyone she’s been to another planet, so you can say, ‘Me too!’ And you’ll hit it off right away. The important question, though…how fast are we going to fly?”
+
+Alden hadn’t actually pre-planned his flight speed across the water.  “I don’t even know what the top speed is. Not so fast I knock anyone off.”
+
+“That’s not what you’re supposed to be asking him!” Everly shouted from across the room. “How can you get distracted in two seconds?”
+
+“That’s right,” said Kon. “Everly wants to know how many people the General’s green thing can hold. She’s heavier than she looks, but she’s still very small.”
+
+“Oh my—stop. Stop talking. I’ll ask him myself!” Everly broke off her conversation with Jupiter and rushed over, a baby blue tote bag swinging from her shoulder as she bumped her boyfriend out of the way.
+
+She looked up at Alden. “I told him to ask you if you minded carrying someone else, and then to ask you if you wanted to charge anything. My parents would pay you.”
+
+“I’m definitely not charging.” He did wonder what the nonagon’s weight limit was. Four people would easily fit space-wise. “I think it’ll be fine with all of us.”
+
+If not, he assumed Drusi-otta would prevent them from doing it.
+
+******
+
+******
+
+They all headed back to the dorms after class so that everyone could pick up whatever they needed. As soon as the door to the huntski lodge closed behind Alden and his roommates, Haoyu said, “What the hell…the Velras.”
+
+Lexi made a face like the name had struck his vitals.
+
+“I was on a call with Lute when Aulia made the announcement.” Alden dropped his bag on the kitchen table, eagerly taking in the familiar furnishings.
+
+None of it got wet or ruined.
+
+There was a trail of dirt on the fluffy rug. It led between the sofa and the fireplace to the window, where one of the metal wastebaskets they had in their bedrooms had become home to a large tropical plant with long striped leaves.
+
+That’s new.
+
+“How was he doing?” Haoyu asked.
+
+“Not fine.” said Alden. “I told him it would be okay —-.”
+
+“In what universe?” said Lexi.
+
+Alden shrugged.
+
+“I have no idea what it’ll be like other than crazy,” said Haoyu. “The internet’s like a minefield right now.  People are saying everyone with a ‘V’ in their last name should be arrested, but also that Aulia is a hero for apprehending her own grandson and revealing ‘the truth about the hidden enemy on the High Council.’”
+
+“Wow ….. they’re going full government conspiracy theory already?” Alden asked
+
+Lexi groaned again.
+
+“We all have to get on the same page,” Haoyu announced. “And we’ll make sure we’re saying something other than urghhoooumnooo when someone asks us what Lute knew and what he thinks and what —”
+
+“I didn’t sound like urghhoooumnooo!” Lexi protested.
+
+Alden looked at him.
+
+“I didn’t.” Lexi said.
+
+“As far as what Lute knew and what he thinks…he didn’t know anything, and he was freaking out,” said Alden.
+
+“He knew nothing. He’s horrified. He’s barely on speaking terms with his family…what else?” Haoyu wondered aloud. “It’s hard because if people end up pro-Aulia, then should we tell them that he’s super mad at her?”
+
+“Maybe we just emphasize the fact that he’s been out of the Velra loop since he became an Avowed,” Alden suggested.
+
+“He should change his last name,” said Haoyu.
+
+“Does his tattoo allow that?”
+
+“I don’t know how to figure this out,” said Lexi. “I’m just going to spend the rest of the day and tomorrow focusing on my own family.  On Wednesday, I’ll try to think of some way to prevent a mob of people with pitchforks from killing Lute.”
+
+“He’ll be touched,” said Haoyu. “For real.”
+
+******
+
+Alden didn’t know when he’d get called back to Matadero by Esh-erdi.
+
+So far, he seemed to have free rein and an open schedule, but in case the situation changed fast, he grabbed a few clothes for himself and stuffed them into his messenger bag. When he looked around his room, his eyes stopped on the learning cushion Stuart had sent him. The note that had come with it was tucked in his hand casting book.
+
+May you gain knowledge all the days of your life, and may your days be many.
+
+Haoyu and Lexi were still banging around, collecting stuff. The doors were all open, so Alden could hear Haoyu having an excited phone call with his dad. He’d be spending the night with his parents, and tomorrow they were going to sit on the floor in their pajamas together, watching all their favorite movies. It was a tradition, he said, whenever one of them had been away.
+
+Alden shut the door.
+
+He knelt beside the new cushion. He watched the translations for the logograms appear and disappear one by one as he focused on them:
+
+siv ochoth - a growing path.
+
+zet - effort.
+
+utyoda - student.
+
+Alden touched his fingers to a gold one that meant “the pride of one who seeks.”
+
+I didn’t get to tell him how much I like it.
+
+He decided that when Stuart called, if he called, the first thing he would do was thank him.
+
+And the second thing I’ll do is ask what it is—the thing he’s trying to explain to his family that his sister is sure will only ever make sense to him. And I don’t care if it’s the weirdest, most incomprehensible idea that ever fell out of another person’s head. I’ll make him explain until I understand it, too.
+
+If it’s something he can tell the human about, anyway.
+
+It wasn’t much of a return present. But it was better than a random gift shop purchase, wasn’t it?
+
+I’m staying on Matadero with nothing to do tomorrow…what about the cushion?
+
+Having it for practice would be nice, but hauling it over the ocean and back sounded a little ridiculous.
+
+He made it back into the living room before Lexi, but not Haoyu, who was flicking water from a glass onto the new tropical plant.
+
+“That’s a nice plant,” said Alden.
+
+“I’m going to keep it alive,” said Haoyu, still flicking. “I think it’s some kind of bromeliad. I’m mimicking a humid environment for it.”
+
+“Where does one get a giant bromeliad?”
+
+“Look at the time! I really need to go meet up with my parents.”
+
+I probably couldn’t have resisted a rainforest souvenir either. Avowed didn’t get to visit beautiful places on Earth every day. But I’d have taken, like, a rock or a stick or something tiny and normal. He dug up a plant the size of Lute.
+
+Lexi had just emerged from his room with a stuffed backpack and the bag full of all the rhinestone jewelry he’d collected at Benjamin Velra’s birthday party. Before he could say anything, they received a group video call from Lute.
+
+When they answered, they saw him standing in a store aisle surrounded by boxes of hair dye. He had a pair of large sunglasses on top of his head.
+
+<<Hello,>> he said. <<Alden, don’t come pick me up. I changed my mind.>>
+
+Thrown by the fact that Lute was speaking German all of a sudden, it took Alden a second to reply. “Okay. You’re staying in the penthouse with all your relatives?”
+
+<<At a time like this?>> Lute scoffed. <<I barely made it out of the building without being chased by a drone flock or grabbed by a hysterical cousin who wanted me to use my S-rank charisma to speak to the Grandwitch on his behalf.>>
+
+“Will you show us your S-rank charisma sometime?” Haoyu asked.
+
+“Do you think German will keep people from recognizing you somehow?” said Lexi
+
+Lute grabbed a box of brown hair dye and shook it. <<The German is only the first part of a plan!
+
+<<I’m going to hide out with Dad and one of his friends for a couple of days. He seems to think me coming to save him plus the drunken armpit apology was…>> He made a face. <<I have work Wednesday afternoon anyway. I might stay an extra day or two and ask my boss some questions. I can watch from a safer planet to see what this situation becomes.>>
+
+“You want me to sleep in your bed and see if an assassin attacks me in the night?” Haoyu offered.
+
+Alden automatically looked around for Drusi-otta.
+
+<<Before I let you guys go: ‘Raven’s Wing’ or ‘Nutmeg’?>>
+
+“Are those hair colors?” Alden asked. “Or are you thinking up a new codename for yourself?”
+
+******
+
+Haoyu managed to send three group text messages mentioning “Nutmeg Velra” before they even made it into the garden.
+
+“Should I do Lutewing van Nutmeg next?” he asked as they exited through the dormitory’s sliding doors.
+
+“You should stop your dad from tasting things out of the planter labeled ‘Painful Vegetation,’” said Lexi, nodding toward the other end of the garden. Haoyu’s parents were there, both dressed casually. His mom was laughing at something his dad had just said.
+
+“I know they won’t hurt him,” Lexi continued, “but I’m sure the people who are growing those don’t expect someone to come along and eat—ow.”
+
+Haoyu sideswiped him in his hurry to get to his parents, “You came all the way here! I thought I was taking the bus. Come see our lodge!”
+
+“Lodge?” a voice asked from behind them. Kon had just come out with a small duffel bag. “You call your room a lodge?”
+
+“No,” said Lexi.
+
+“You’ve been too suspicious for too long now. There had better be marble floors and a gold-plated toilet when I finally break in, or I’m going to be so disappointed.”
+
+Before Everly appeared, they had a couple of minutes to say hello to Haoyu’s parents. “I was so excited when I heard there was a Rabbit in Haoyu’s class!” Mr. Zhang-Demir said. He insisted on bumping elbows with Alden since ordinary handshakes were out after you’d been handling the painful plants. “I’m coming to the gym as soon as they’ll let me, to see what you all do!”
+
+“You are?” Haoyu asked.
+
+“You thought he wouldn’t?” his mother replied. “He filled out the alumni volunteer form twice because he didn’t believe the website when it said it had been submitted.”
+
+“Cool! Guess what I got to ride on today?” Haoyu pointed toward the roof, where Alden had parked the nonagon at an angle against the shingles.
+
+His father’s eyebrows shot up. “What’s that doing here?”
+
+“Hn’tyon Esh-erdi loaned it to me for the day.”
+
+Both of Haoyu’s parents looked confused by that, but if they had questions, they kept them to themselves. It was obvious the whole family was happy to be together again. Haoyu’s smile was high-wattage, and he couldn’t seem to finish telling them about one thing before moving on to another.
+
+I’m relieved for him, thought Alden as he stood in the center of the nonagon and directed it up into the air a short while later.
+
+Haoyu’s face on the bus, when the sirens had first gone off, was impossible to forget.
+
+“How high do we fly?” Kon asked curiously, looking through the platform’s surface. “Higher is actually better, isn’t it? Because if you fall you need time to call for that ET.”
+
+Everly, who was on her knees and leaning over the edge to shout at some girls she knew down below, suddenly stopped and crawled closer to the center of the platform
+
+“I’m not going to drop you all. Just don’t jump. But I should probably…um, Drusi-otta, do you want to ride with us? We’re going to F-city. That’s the island to the south.” He spoke to the air because he didn’t know where else to speak.
+
+Or are you already riding with us? There was room, and if the votary was silent and good at dodging people…
+
+Lexi, Kon, and Everly all looked at him.
+
+“Are you inviting a random Artonan?” asked Kon.
+
+“Are you on the phone with a wizard right now?” Everly said.
+
+Lexi’s sigh spoke volumes.
+
+“I just had to ask,” said Alden. “She’s…a person who works with Esh-erdi who I should touch base with.”
+
+Several seconds later, he received a message:
+
+[I still watch over you in my own way. Live as though I do not.]
+
+******
+
+The flight went smoothly and quickly.
+
+They didn’t fly particularly close to The Span, but they did keep glancing toward it as they went.
+
+“Why couldn’t you have borrowed The Nine-Edged Son Whose Own Mother Forsakes Him on Friday night, Alden? Your timing is terrible,” said Kon.
+
+“I know right? Sorry about that.”
+
+From where she sat beside him, Everly was staring toward the bridge, too. “For some reason, I told my family it was easy. I suppose it was, if you think about it in a certain way. We only ran a bit, and then Maricel flew us. It was just a few minutes of being scared, really, and I didn’t get hurt.”
+
+“Easy is still not the word I would have used,” Kon said.
+
+“I know. And you lost your teeth.”
+
+“That part was fun! I moved a car! Lexi sliced one! We’re officially real Avowed now. But everything else…” He shrugged. “We’re all okay. That’s what matters. And Lexi’s boat became slightly famous.”
+
+“Your boat!” Alden exclaimed, turning to look at Lexi, who was standing up on his right. “What happened to it?”
+
+“It’s on top of our building,” Lexi answered. “It got stuck there somehow when the water fell away.”
+
+“The little white roof boat is yours! I saw that on the news!”
+
+“I should’ve sold it last weekend,” he said.
+
+He didn’t sound as grumpy about it as he usually would have.
+
+Either Lexi’s happier when he gets sunshine and a breeze, or he’s happy to be going back to his family.
+
+Less than two minutes after they crossed the coastline, Alden was lowering the nonagon down toward the parking area in front of a small warehouse. Everly had called ahead, so their arrival wasn’t a surprise. Her father and grandfather were outside waiting on them, and before the platform had even stopped, she sprang off to run toward them.
+
+“Mr. Kim’s a cryer,” said Kon, as Everly’s dad grabbed her in a hug that lifted her off her feet. “I saw him use an entire pocket pack of tissues when he watched her in one of our school plays, and she didn’t even have a major role.”
+
+He jumped off to take Everly the bag she’d left behind. Before Alden could decide if they should all disembark to say hello or not, Kon was bounding back toward them.
+
+They lifted off again and watched Everly wave goodbye with one hand while she had the other arm around her grandfather.
+
+Not long after that, Alden did park the nonagon and go inside to meet Lexi and Kon’s family. They were staying in an apartment that a friend owned. It had been unfurnished, but people who knew them had been generously donating over the past day. They had a bunch of mismatched used furniture making the place more livable.
+
+Their parents were nice. Mrs. Roberts made Kon hold still and show her all of his remaining teeth, apparently under the impression that he might have damaged another one without knowing it. And their dad made him stand side-by-side with Irina, who had recently lost her first tooth, so that he could take a picture of them both grinning.
+
+Alden had the impression from some of the questions they were asking in between hugging both boys that Kon wasn’t going to escape from explaining why he’d thought it was a good idea to magically move something the size of an automobile without ever having practiced it before in his life.
+
+“You can stay longer if you want,” Lexi said, when he finally looked up from helping his little sister sort through the bag of costume jewelry and realized Alden was leaving. “I don’t know what dinner is. But I’m sure it will happen at some point.”
+
+“No. You guys have so much to discuss with each other. I’ll see you when you get back to school.” He smiled as the rhinestone choker in Lexi’s hair slid toward his ear. “You’re totally right about that necklace, Irina. It makes a perfect crown for him. Make sure to get his picture, too.”
+
+******
+
+Where do I go from here?
+
+Alden was high over the water, heading toward Apex because he felt the need for motion, and he’d told SkySea traffic control he was going back to CNH.
+
+He’d actually had a loose plan in mind to offer to ferry more people in either direction. Flying vehicles were a hot commodity right now, and it was such an easy way to help. And it seemed like it would justify his temporary possession of Esh-erdi’s extremely cool and highly visible ride.
+
+Taxi Rabbit sounded fun earlier, he reminded himself.
+
+He just felt a little off now.
+
+Stupid advisement meeting. Stupid Joe. Stupid art’h’s.
+
+Maybe Esh-erdi was going to want that tour this afternoon. That would be about the right level of activity. And it wouldn’t be as draining as being the third wheel in everyone else’s post-disaster family reunions.
+
+He pulled up a search engine and typed, “General Esh-erdi latest.”
+
+Esh-erdi had left Apex about an hour ago. The people reporting on his  movements said he was going to clean up some contaminated water to the west.
+
+Alden didn’t know how long that would take, but it sounded like a full afternoon’s work.
+
+He flew back to the dorm and spent several minutes in the common area, eavesdropping on one half of the fascinating call Jeffy was having. His grandmother seemed to be talking him into investing in a stock portfolio.
+
+“Okay, Nana,” he was saying when Alden finally decided he couldn’t pretend to be washing his hands at the sink in the community kitchen any longer. “But shouldn’t I pay you and Grandpa back for the tractor first?”
+
+Upstairs, Alden emptied the robot vacuum’s canister, then he sat on the sofa and played with the infrared fireplace remote for a while.
+
+I usually enjoy peace and quiet.
+
+Right now it was lonely.
+
+I should just go back to Matadero and make sure the Artonans haven’t killed Kabir or roped him into a lifelong crouton-making deal.
+
+Decided, he jumped up and left.
+
+Before he reached the stairs, he turned around and went back for his learning cushion.
+
+******
+
+Cube sweet cube, thought Alden, wheeling his giant B-list-battered blue suitcase down the Matadero corridors. He hadn’t wanted the cushion to be exposed to the elements, and this was the only bag it would fit in.
+
+He checked the kitchen first, but Kabir wasn’t there. A note on the fridge said he’d be back at sunrise. It was written in logograms, which made Alden think a wizard had posted it rather than Kabir himself.
+
+Back in his room a few minutes later, he gave Tiny Snake fresh water. Earlier today, Liam Long had sent a text with a ton of happy emojis to say that he did want Candy Corny returned.
+
+“He doesn’t even know your real name,” Alden told the snake. “I’m so sorry.”
+
+The snake stuck its tongue out. The reptile was getting more appealing by the minute.
+
+I really need to get Victor back now that he’s no longer the return point for a U-type.
+
+“System, call Boe. Video if he’ll take it.”
+
+Boe picked up right away.
+
+Alden gasped at the sight of a familiar street. “You made it!”
+
+[I did,] Boe texted instead of responding verbally. He looked exhausted. The bright yellow tank top he had on was completely inappropriate, both for his image and the Chicago weather. [They sent me to the consulate. I’m a block from home now. Time to find out what happens when a runaway comes back after months.]
+
+That’s right…he’s about to have to figure out how to do school again in some form and work things out with Jeremy. And see his parents again.
+
+“Are you gonna be okay?”
+
+[Right now I really wish I hadn’t had to use the escape option. I’m better, but I trashed everything else. But yeah. I’ll figure it out.]
+
+“Um…good luck with your mom and dad. Tell them I said hi.”
+
+Boe stopped walking. [I will. Thank you.]
+
+“I’ll let you go. Go find yourself some glasses. And walk faster. You’re gonna freeze.”
+
+[Are you all right, Alden?]
+
+“Yeah. I just got attached to a snake I found, and I’m upset someone’s taking it away from me. Get home safe. It’s been long enough. And I was going to call Connie anyway.”
+
+******
+
+******
+
+Connie Hatcher had just opened the door of a climate-controlled storage unit when her nephew called. He was sitting in a chair beside that orange snake he’d showed her the other day, and he was looking sharp in one of those black school uniforms she’d only seen in pictures on the Celena North website before now.
+
+He was smiling.
+
+School must have gone well.
+
+“Hey, Connie,” Alden said. His green eyes widened. “Is that the storage place?”
+
+“It is.” She stared at the stacks of boxes, plastic tubs, and everything else that had been stuffed inside years ago. “I haven’t been here in a while.”
+
+“I almost forgot it existed. You did mention it a few times. What are you getting out?” he asked curiously. “Or putting in? Are those antlers?”
+
+She looked around until she found what he’d spotted. “Those are antlers. Your grandpa went bow hunting about three times if I remember right. Do you want them? Do you want anything out of here? Some of it’s yours.”
+
+“I want the antlers if you don’t. Probably nothing else right now. There’s not a lot of space in the dorm room. But I’ll come look one day!”
+
+He talked about flying around Apex on an alien disc while she searched for what she’d come for—the three-ring binder her mother had kept in the kitchen cabinet for years, the one with all her favorite recipes in it.
+
+“There was this pimiento cheese version of macaroni and cheese she made. Your mom and I loved it when we were growing up,” she told Alden. “And I thought maybe I’d make it. Brodie’s family invited me to come over for Thanksgiving. I want to bring a dish.”
+
+His chatting stopped for the first time since it had started up. But only for a moment. “That’s cool. I used to love macaroni and cheese.”
+
+“I’ll make it for you if I get good at it,” she said. “If you decide you want to cheat the diet a little?”
+
+Connie didn’t know why he’d gone vegan. I don’t know why so many things.
+
+“I pulled up the carpet,” she blurted as she yanked the next container off of the pile. “In the hall.”
+
+“The puke carpet?”
+
+“I hope all those stains weren’t puke,” she said. “Somebody puked themselves to death if they were. But yeah. It’s gone. New vinyl. You’ll like it when you see it.”
+
+“So you’re going to bring a covered dish for Thanksgiving?” he said slowly. “And you’ve done the puke carpet…what else are you working on?”
+
+“Everything I can,” she said. “I bought Artonan pudding squeeze tubes the other day because soccer moms said they were popular with kids, and Brodie’s nieces were staying over. Are you sure you don’t want anything but the antlers right now? I can show you some other stuff.”
+
+“The antlers are good. You wanted to talk to me about something the last time I called. What was it?”
+
+She set aside a stack of old magazines.
+
+Alden looked interested. He’d had a good day flying something with his new friends.
+
+“It was a little serious,” she said. “And I’m not good at that kind of thing, you know?”
+
+He waited.
+
+“I just wanted to tell you that it’s fine for you to take me off that special list of two people. Whenever you want or need to,” she said. “I don’t want you to feel like you have to keep me there because I’m your aunt. If you find some nice person…a friend or someone you want to be with….
+
+“You’re growing up, and you’re living somewhere new. So things change fast. And I know that. Plus, Brodie’s got an engagement ring he’s going to offer me if I don’t screw everything up again.” She smiled at him. “So, in a year or two I might be asking you to take me off the list anyway. But if you need to before then…I just didn’t want you to feel stuck and like it would hurt my feelings. It won’t, okay? I’m pulling myself together over here finally. I hope you’ll be a little proud of me when you get the chance to come visit.”
+
+******
+
+******
+
+Sitting in his hospital bed with his laptop propped on his knees, Alden stared at the footage he was supposed to study for combat class.
+
+It was a double Adjuster battle. They tended to be more fun to watch than most.
+
+But he wasn’t seeing it.
+
+When he realized he needed to rewind for the fifth time, he shut the lid instead and stared at the ceiling.
+
+“I’m glad she’s trying,” he said. “Good for her.”
+
+He didn’t mean it.
+
+“I’m glad. There’s nothing bad about her making a casserole for her boyfriend’s family. That’s a good thing. Casseroles. Thanksgiving. Love. I’m glad.”
+
+Why didn’t she try sooner? Why couldn’t she have tried just a little sooner?
+
+He covered his face with his hands. He took a breath that shuddered on its way into his chest.
+
+Why did something I wanted so much not happen until I was out of the picture?
+
+He threw himself out of bed and then just stood there, not sure how to escape from the sucking vortex of his own hurt and anger.
+
+I can’t…I can’t…
+
+His auriad had slithered helpfully down to his hand. Maybe so he could use it to blow a hole in the wall.
+
+[Video call from Twenty-seven Hundred and Sixty-first General Evul-art’h, Artona I. Connection fee waived.]
+
+Alden stared at the notification for so long he figured he’d probably broken some kind of record for keeping knights waiting.
+
+He shoved the auriad back up his arm. “Answer.”
+
+Stuart’s face appeared. He was smiling eagerly, and his sister was nowhere to be seen.
+
+“Hello! Would you like to be my guest at the Rapport?”
+
+Alden processed Stuart’s expression, the fact that he was being allowed to call, then the question.
+
+“In December?” he asked.
+
+“Yes,” said Stuart. “But also…now?”
+
+“Now?” What a strange word that was.
+
+“Now,” said Stuart. “Unless you are busy? If you’re busy, we could—”
+
+“I’m not busy,” said Alden. “I’ll come.”
+
+******

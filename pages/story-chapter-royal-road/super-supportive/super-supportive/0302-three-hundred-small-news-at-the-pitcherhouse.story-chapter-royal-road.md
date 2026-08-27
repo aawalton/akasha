@@ -1,0 +1,351 @@
+---
+id: 2eb75146-1d1d-5465-8ecf-7f99a7615f5f
+page-type-slug: story-chapter-royal-road
+title: "THREE HUNDRED: Small News at the Pitcherhouse"
+slug: 0302-three-hundred-small-news-at-the-pitcherhouse
+partOf: super-supportive
+position: 302
+ownLength: 4649
+unit: words
+publishedAt: 2026-08-01
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3753999/three-hundred-small-news-at-the-pitcherhouse"
+royalRoadId: "3753999"
+---
+
+300
+
+******
+
+“Moshk, you bank stalker, I’ll have half your thoughts and all your voice for the small news!” The speaker was dressed in an open-backed shirt that was gradually shifting colors to match the sky’s march toward night. She dropped a cylinder as long as her forearm on the table next to Moshk’s but went to sit at his, turning a chair so that her feet in their silver and gold sandals could stick out toward the pavilion’s edge. “They were just telling us Esh-erdi passed earlier, playing with that terackerin he got for his nieces.”
+
+She pointed a ring-adorned finger behind her toward the group she’d arrived with. One man and three women were standing at the back of the pavilion talking to the people preparing the night’s food and drink. The flyer they’d arrived in was being loaded with a delivery for someone else.
+
+“He’s here,” Moshk confirmed.
+
+“And Lind-otta?”
+
+“City.”
+
+“And the human?”
+
+“What do you need a bank stalker’s gossip for, Dazm, if you’ve already heard it all from others?”
+
+“So he has brought a human! The betting was on some surprise coming back with them as a souvenir from Earth. I was hoping for a date palm, or something musical for this place. Maybe an elephant, just for a day. I’d like to see one in person, but I wouldn’t want the creature to be much inconvenienced.”
+
+“You should just go to Earth yourself with a list like that. And what are you all doing here at our pitcherhouse dressed for a reveler’s night? You’ll make your neighbors feel dull.”
+
+“The plan was to have a reveler’s night in Wathe for Kayda. She’s home from working the line on Tympeh. One week in the house with her loving mother worrying over her was too much. I’m taking her out to prove I can be fun instead of fussy.” She looked back at one of the women she’d come with. “But as we were dressing, she started reminiscing about this old place like it was the fondest part of her childhood instead of somewhere she complained about if we brought her twice in ten days. So here we are instead to start our night, and you’re welcome to compliment us all more.”
+
+“I’ll compliment everything about Hn’tyon Kayda, especially her patience with someone as difficult as you,” Moshk joked. “But what is there to compliment you on?”
+
+“Are Esh-erdi and Lind-otta home for a while now?” Dazm asked, only huffing at the gibe. “The last I heard was about that issue with Anesidora. I don’t keep up as well as I should.”
+
+“They’re still assigned to Earth. Half duty, half pleasure at this point. They’re back here for quick business and a family visit. And for the human, I think. Esh wants to give the boy a treat. A pleasant trip to soothe his nerves after all he’s been through is the sense I have of it.”
+
+“What’s this?” Dazm asked. “The human’s not an Avowed helping with something?”
+
+“Oh no.” Moshk shook his head. “Not that at all.”
+
+At the table beside them, Dazm’s group was pulling out chairs and setting down drinks. They each carried cylinders like the one she had brought, all decorated differently. The man opened his and tipped it over, allowing brightly colored game pieces to spill out.
+
+“It’s that human boy you might have heard about,” said Moshk. “The one the Quaternary found on Moon Thegund. Only thirteen or fourteen. An Avowed for mere days before he was trapped there with an even younger child. Nearly pulverized by Hn’tyon Alis-art’h’s power since she didn’t know he was there.”
+
+Dazm gasped. “I had heard the story, naturally, but not that part.”
+
+“From what I understand, if the Quaternary’s first meal that day hadn’t been a leisurely one, both children would’ve been buried alive as they ran to her for help. It’s luck that they weren’t, but I don’t think good luck finds that human as often as bad considering what happened to him when he made it back home. You might not have heard that part at all? It’s to do with the und’hs, but it’s hard to run across an und’h who wants to talk about another und’h’s personal issues. One of their most promising young people couldn’t bring herself to choose the highest path and couldn’t trust herself to live as a votary, and she skipped over the other options to join the ordinary class and work on Anesidora.”
+
+He looked down at an arriving boat.
+
+“I know who you’re talking about,” Dazm said, lowering her voice. “Very talented. Very. And Zeridee-und’h was such a sweet girl. I’d feel better about her eschewing wizardry if she hadn’t gone to be a pretend votary in a pretend Rapport like that. It’s too close to what she could’ve been to be the right step down.”
+
+Moshk turned a flabbergasted face back toward her. “Are you calling Anesidora a Rapport? They’re nothing alike!”
+
+“Of course they aren’t! But serving a country of Avowed, serving a community of knights…it’s as votarylike a position as a girl who gave up on being a part of our world could find, don’t you think?”
+
+“I don’t,” said Moshk.
+
+“Well, I do, and it’s sad. What’s the news about her?”
+
+“She almost died somehow in that Anesidora disaster. The details are unclear to me for now, but she was with the Quaternary’s human. Esh and Lind-otta saved both of them!”
+
+“Not the same human!”
+
+“The same.” Moshk reached for his cup and cradled it in both hands. “So Esh took an interest in the boy, and now he’s here for a day of healing rest. He was learning to direct the terackerin earlier, and he went to see the rocks with my daughter’s little class. They’re coming back this way now…ay, actually that’s them in the distance! Looks like they’re dropping one of the poythe family’s children off at their dock.”
+
+Dazm and Moshk both stood and leaned to see better down the river toward the group of figures on top of the terackerin. A couple of the people who’d arrived with Dazm stepped over to look, too.
+
+“Poor Ryeh-b’t,” one of them said. “What a fear-filled introduction he’s had to magic and our kind!”
+
+“That’s truth. But he couldn’t have met better than Esh. He seems all fun, but he’s dearly kind. I once saw him try to modify a potion to save a lacefin that had been struck by an oar.”
+
+“Does a lacefin that’s been struck by an oar need saving?” Dazm asked. “Don’t they tend to wake up and swim off after a bit?”
+
+“We shall say that one needed it because it didn’t survive the potion,” said Moshk. “And when the terackerin stops here to deliver my daughter, we shall treat the human Esh has brought with soft voices and no alarming spells. In one of his messages to me earlier, he said he’d invited the human on this soothing trip to prepare him for a minor secrecy tattoo, so even something like that fills the boy with such trepidation that Esh goes to these lengths.”
+
+“The child is traumatized,” said a wizard sitting two tables over, who had been pretending not to listen in until now.
+
+“Is he seeing a mind healer?”
+
+“That Porti-loth went with Esh-erdi and Lind-otta, but does he know humans well enough?”
+
+“His name is Alden.”
+
+“I’m sure it was Porti-loth.”
+
+“I mean the human’s name!”
+
+“He may not even speak to us. I wouldn’t be surprised.”
+
+A third of the people under the pavilion were now watching for Esh-erdi’s terackerin and its alien passenger, either outright or through a subtle eye.
+
+Porti-loth’s name had caught Moshk’s attention, and he turned to Dazm again. “A date palm is some Earth tree according to the translation. If you were hoping for one of those, you should really see what Esh has had planted recently. When that healer was curing the boy of his physical injuries, he—”
+
+Shushing hisses came from three different directions.
+
+“They’re close now! Don’t let them hear you, Moshk.”
+
+“You said ‘soft voices’ yourself.”
+
+The watchers were overeager. The terackerin Ploomp was in no hurry. Everyone had to wait through an awkward, self-commanded silence while Esh-erdi, Alden Ryeh-b’t, and the three children came toward them.
+
+Finally, the human was giving the animal docking instructions in a cautiously enunciated voice. The watchers all smiled gently down on him.
+
+Esh-erdi was listening to something his nieces were telling him about their day as Moshk’s daughter climbed the ladder up from the water to her father. And then the nieces were climbing up as well. There was a barely noticeable stir through the crowd. Esh-erdi must be stopping here for longer than they’d expected. Would the human brave the ladder, too?
+
+He did! Though it looked not much at all like bravery. More like a tall, not-quite-Artonan youth in a rush to get up to where they stood. When he was among them, he looked around.
+
+A couple of people started to welcome him, but Dazm’s daughter Kayda swooped ahead of them.
+
+“Hello,” she said softly. “Welcome to the pitcherhouse on Wathe’s Ribbon. We’re glad you’re here. If there’s anything you need or anything causing you discomfort, please say so.”
+
+The human boy nodded at her. “Thanks. I’m here to eat and drink one of everything that won’t hurt me, as long as it isn’t made of animals. Do I order from you, or do I go over to the counter back there?”
+
+The knight, dressed for her revelry instead of in her uniform, shot both eyes in different directions, looking for advice, before saying. “Most…most people would ask at the counter. But I did say I’d help. So, I could get you…”
+
+“No sweat,” the human said mysteriously. “Except the literal kind from me. Sorry. I mean thank you for telling me. I’m here to do the pitcherhouse, so I’ll order the way most people would.”
+
+He marched a few steps toward the counter, then stopped and turned back around. “The erdis are planning to have my leftovers, but should I get anything for anyone else? I can carry a lot.”
+
+“Why…do you think the erdis will only consume what you’ve left?” Kayda asked
+
+“Because they said they were just going to eat and drink everything I don’t like or can’t have much of. So that I don’t feel bad about wasting it.”
+
+“I see. My sausage bread should be ready,” Kayda said.
+
+“I’ll bring it for you. What’s your name?”
+
+“H…Kayda.”
+
+Everyone who’d been paying attention to the interaction was now staring at her.
+
+“Hello, Hakayda. I’m Alden,” he said brightly.
+
+“It’s just Kayda! I misspoke.”
+
+“All right. Kayda.”
+
+“Kayda-lin, I mean!”
+
+“Kayda-lin,” Alden repeated. “Got it.”
+
+He waited a moment more, perhaps for her to change her name again, then nodded and strode off to the counter.
+
+The knight looked around. “I couldn’t figure out what to do with my title in the middle of all that. I think perhaps someone gave us a wrong impression of Alden Ryeh-b’t.”
+
+“Who might that have been?” Esh-erdi asked, beaming at them. “And what was the impression to make you all quietly watch my fellow knight impersonate a waiter?”
+
+Everyone looked at Moshk.
+
+******
+
+******
+
+Alden was going to do the pitcherhouse.
+
+He hadn’t intended to before meeting Zakithee-und’h. He did intend to after. He’d told Esh-erdi, and kept telling himself, that it was for his notes. But he watched the riverside pavilion growing larger as Ploomp swam toward it, and what he felt was something like an urge to burst through a wall into the real Rapport III. Not exactly the calm social analysis that was his stated goal.
+
+I’m just going to do the local pitcherhouse. I’ll challenge my own comfort zone, not other peoples’. I’m still Esh-erdi’s guest.
+
+He turned to his host. “It’s really okay that I want to stop here, isn’t it? This doesn’t interfere with your plans for the morning…the night?”
+
+“I brought you here because I hoped you’d enjoy it. Take whatever you like from our beautiful home,” Esh-erdi said grandly.
+
+“Not Ploomp!” said Droon.
+
+“Ploomp is ours!” Brim shouted at the same time, throwing herself forward to sprawl across the terackerin’s blue back like a possessive starfish.
+
+“Don’t worry. I know who Ploomp belongs to,” Alden assured the twins, his eyes going to the pitcherhouse again.
+
+I’ll take everything I can from there. Someone who wants to build home shouldn’t be too shy around the pre-existing walls and the neighbors.
+
+While he was parking Ploomp, he decided that a person challenging his comfort zone by doing the pitcherhouse right also shouldn’t be intimidated by wizards watching him from above with weird smiles on their faces. It was strange to have an audience while he climbed a ladder, but maybe they’d all consumed something from the more intoxicating section of this place’s menu.
+
+I’m here to get to know you, not judge you. I hope you’re all cool. Some Rapport residents might not like to hang out with Avowed. Eventually, I’ll have to find the ones who do and make the rest learn to put up with me.
+
+He thought Stuart would approve of this attitude and his efforts.
+
+I’ll send him pictures to show him I’m working on it.
+
+******
+
+******
+
+Stu knelt amid the students who filled LeafSong’s largest insight chamber, listening to an instructor he’d never met before today explain the principles that had led her to create a method for intensifying emotions through a fan-cast spell.
+
+This was one of the university’s coveted Innovations in Magic lectures. The students in attendance were mostly above fourth year, with only a few individuals from each lower cohort chosen to benefit from direct instruction in this chamber where the instructor’s own conversance with her new spell would transfer to them more easily.
+
+The spell was excellent. Though it was no faster than prominent methods currently being used, it was easier to vary the effect, and it was more subtle in its ability to insinuate itself through the subject’s automatic resistance to influence. Only moderately more subtle, but that kind of subtlety was valued by people who wanted to occasionally cast this sort of thing instead of becoming experts in this type of magic. The fan spell would be useless to the likes of Healer Yenu, but to the average wizard, it offered something unique.
+
+And it wasn’t irrelevant, in the university’s eyes, that it was going to have visual appeal. Almost the whole casting would be done with the fan held in a pocket or stationary outside it, and then at the end a single sweep of it toward the target might be used to turn a faint smile into laughter.
+
+For a few years, it would be a spell that caught attention and marked the caster as a LeafSong-trained wizard, elevating the school’s reputation along the way.
+
+Which was why the insight chamber had been opened and students had been selected with care. There were several hundred present, only a fraction of those who would have fought to be here if given the opportunity. Stu sat between Jel-nor and Amantha from his year. They were the only two here he knew well enough to speak to regularly.
+
+Eeaner was probably adhered to the outside of the chamber door, trying to gain insight through the wood.
+
+He’d been buzzing incessantly since yesterday afternoon when they’d arrived at their student house to find the delicately engraved five-leaf fan waiting in a case on their balcony. The lovely black fan was Stu’s invitation to this lesson and a good enough casting tool that he was unlikely to want a better one unless fans became a particular favorite in the future.
+
+Eeaner might consider it even more unfair if he knew the truth.
+
+Stu would be able to perform the spell after this training concluded, so it wasn’t entirely wasted on him. But a student who’d had unexcused absences in the past year should have been banned from this kind of enrichment, and he’d had several recently. The university just assumed he’d been away because he was still serving Emban.
+
+He could hardly tell them otherwise without making the perceived slight to his instructors worse.
+
+I was serving the one who wants to walk with me, our steps landing together until our journey ends. That’s even more proper. I will feel no shame about temporary deceptions made necessary by the imperfections of society.
+
+He would also not feel shame about setting his eyerings to show him Alden’s messages. In the insight chamber, they were supposed to be turned off. Even if a relative died or your student house burned down, surely the problem could wait and benefit from the better wizard you would be after you’d been taught by a master in here.
+
+That rule doesn’t account for being the only wizard who knows there is a human pursuing the path of highest onus. Things beyond imagining could happen to my friend.
+
+Stu should have been focusing on the final step of his own choosing season right now, as Alden had correctly insisted. But his contemplations kept turning into questions about Alden’s status that had him looking for the most recently updated versions of Earth’s internet and, simultaneously, for historical information about non-Artonan knights. The latter seemed not to have lived happily enough to ease Stu’s concerns. And there were groups of humans who vomited anti-wizard vitriol into one another’s mouths and mistook it for food.
+
+Ro-den had become sufficiently Earth-famous during his time on the planet for those groups to make drawings of him tied to a pole and set on fire, which was a too-recent human way of punishing other humans who were suspected of magical ability.
+
+What if one of the hundred and twelve people who’d given that image their love, as indicated by the symbol for a heart at the bottom, lived on Anesidora and Alden accidentally revealed his auriad to them?
+
+Things beyond imagining could happen. But that’s unlikely. He probably won’t even send a message. With my eyerings turned on, I can give both halves of my attention to this spell.
+
+A proper student in every way.
+
+He placed each finger of his left hand against the shallow dimples that indicated their correct spot on his new fan when it was in the closed position and touched those points with his authority, ordering the possibility of what he was and what he might soon demand to pool there.
+
+Alden would be able to feel this as Stu did one day. Stu would make sure of it. Even if they were only brothers on their path without that deepest of bonds.
+
+He loves magic. As much as I do. When he advances enough, I’ll teach him this spell.
+
+But would it really feel the same? Exactly the same, even when one’s self was bound to the purpose of a skill?
+
+Stu’s next few breaths came too fast. That was rude. He might distract the people near him.
+
+He had so many spells he wanted to share with Alden. Every day, every class, and every memory brought another one.
+
+And I want to see him cast Burrow of the Raintail. A spell nobody else I know casts, his own to master. I’ll stitch its name onto a housecoat or pezyva for him when he learns it, since the studding on his knight’s uniform should be done by the best instead of me.
+
+They hadn’t even spoken of that spell as much as they would need to before Alden committed to learning it, but already, Stu imagined that success.
+
+Isn’t the insight chamber supposed to keep my thoughts in better order than this?
+
+When he was a knight, the school would invite him to every opportunity in this chamber, whether he was a good enough student or not.
+
+But sometimes instead of casting…many times…I will only be able to listen.
+
+And now his breath was rudely coming to a halt, caught on grief.
+
+Is grief for something that hasn’t happened to me yet a sign that I’ve found the confidence I must have?
+
+Does Alden grieve for himself like this? Or is it different since he didn’t have this same before-time?
+
+That thought held him for a thousand of the instructor’s words. Maybe he was a terrible student, and Eeaner-ket did deserve the fan more.
+
+He forced himself back into the rightly receptive state. Casting better than Jel-nor was a petty motivation, but he turned to it. She’d behaved even worse than him during the mishnen error, and she was insufficiently sorry about it.
+
+He fell back into the instructor’s talk and was beginning to think he understood where the explanation would eventually lead. To fan anger or joy like a flame, first perceive how the subject hungers for it, then we—
+
+A message arrived from Alden. A picture. Stu stared at it.
+
+That is Esh-erdi. And a river. Different from mine and mother’s. And that…is a terackerin. Rapport III. Why is Alden with Hn’tyon Esh-erdi in Rapport III?
+
+They looked happy. It was all right. There was no word other than, “Hi.”
+
+Letting the image speak for itself is a fine way of communicating. I’m not distracted, since he’s obviously well.
+
+But then he recalled how Alden had an urge to tell Esh-erdi all or part of the truth. To stop hiding his true self and gain the approval and the companionship of other knights that he so clearly deserved.
+
+He agreed not to yet. We talked about how it was too soon and not the best idea right now.
+
+He searched the image for any indication that Alden was saying more than “hi.” Or that he was vulnerable to making sudden revelations.
+
+It’s just a terackerin ride. It’s nice.
+
+He wouldn’t tell Esh-erdi that without warning me. He’s very responsible.
+
+Stu smiled at the picture to put it out of his thoughts. And was successful, eventually.
+
+Some time later, he held his fan in the open position against his chest. He was starting to anticipate the moment when the instructor would allow them to practice a cast on themselves, when he received another message from the person he hoped would not be burned to death or subjected to suffering by an imperfect society.
+
+The hand with the fan jerked involuntarily. Stu almost cut his chin with the edge of it.
+
+Why does he have eleven different beverages in one hand? Is that piditsoo? That’s a piditsoo bowl. Humans can have that? And those other things! If he drinks all of those he’ll piss green in public and think his own auriad is for flossing his teeth!
+
+It was only after much examination that he was able to stop himself from running out of the lesson.
+
+Alden was only showing off his skill. Eleven glasses, bottles, and sipper bowls in one hand. They were all stuck together, preserved so that he could carry them to the people at the tables around him.
+
+Almost certainly that, Stu thought with relief loosening his body. He’s been a waiter before. He must have offered. Esh-erdi wouldn’t let people force him to perform tricks with his skill, and he’s smiling.
+
+Once again, the message was, “Hi.”
+
+He’s sharing his weekend trip to Rapport III with me. That’s good. I hope they’re all being welcoming to him. The glass of hahmp juice with ice in it must be his own. He likes ice.
+
+Stu ignored Jel-nor’s questioning eye and resettled on his cushion.
+
+I did tell Alden I’d be fine with him telling Esh-erdi.
+
+But he definitely knows he should warn me first. All is well.
+
+******
+
+******
+
+Alden showed off his ability to carry food and drinks in ridiculous ways, to the delight of the children present. In addition to Esh-erdi’s nieces and Moshk’s daughter, a family of seven had just arrived from a nearby house to pick up food for their second meal. They’d brought a pitcher with them and filled it with bundlefruit wine from the barrel on the counter.
+
+After he’d finished entertaining the youngest members of the crowd, Alden took his drinks and put them on the table beside a tasting dipper he’d been given. He’d take a taste from each drink, using either the small side of the dipper or the minuscule side of the dipper depending on what he was trying. Esh-erdi claimed to be able to consume all the rest. Bets were being made about whether or not he would.
+
+Moshk was sharing his riverside table with Alden and the erdis. Kayda-lin was at the next one over, eating a triangle of bread stuffed with sausage.
+
+“So you’ve become friends with Stu-art’h?” Moshk asked.
+
+Alden had reintroduced himself that way a few minutes ago, after deciding there was too much of a feeling in the air that he was someone here solely because Esh-erdi was a charitable person. Somehow, Esh-erdi bashing a fish with lacy fins in the head with an oar was similar to him inviting Alden on a trip?
+
+Anyway, Alden had clarified that he was here to learn about the Rapport for his own reasons, too. He was Stu’s friend. He wanted to know about the Rapports that were, broadly, Stu’s home.
+
+He’s still saying ‘friend’ like he suspects I used the wrong word, Alden thought, looking over the bite-sized snacks waiting in front of him, reciting their names in his head and adding details to the notes. Kol—paste that smells like cheesy mushrooms. Sessetimack—pickled water plant roots.
+
+“I’m his friend,” he said firmly. “And we both want our friendship to be lifelong.”
+
+“He’s saying the same thing Jeneth-art’h’s son does,” Esh-erdi added, leaning around Alden’s side to set down a bowl of smoldering grit that must be edible somehow. “So there’s no need for you to doubt it, Moshk. Alden, you might want to take Kayda-lin’s seat…when she has to go back to work serving tables. They’re playing a game you’d be good at. It’s not a favorite in the frozen forest of our first Rapport, so Stu-art’h may have been deprived of the opportunity to learn it. You could teach him.”
+
+Alden stopped examining his hoard of pitcherhouse goodies and peered at Esh-erdi.
+
+“Is Kayda-lin a knight?”
+
+“I just confirmed for you that she usually serves tables!” Esh-erdi protested, while Moshk and the woman in the clothes that were color-shifting both made small noises.
+
+“That’s why I just realized she must be a knight! You said it with too much funny-mean in your voice!”
+
+Half of the people under the roof chortled or laughed outright.
+
+Alden hastily turned and bowed to the other knight, who was blushing and nodding at him in acknowledgment. “Should I call you Hn’tyon Kayda-lin?”
+
+“Not since I somehow lost my own title trying to introduce myself,” she said. “At least not for tonight. The pitcherhouse is as casual as a place can be. I love it here. Do you want to learn to play Three-fingered Thief?”
+
+Alden looked at all the colorful game pieces. He’d seen the man at the table catching some of them as they bounced off discs in front of each player.
+
+“I have enhanced hands,” he said. “If it’s a speed game… ”
+
+“Then we won’t feel like we’re treating an amateur unfairly! I’m Dazm—Kayda’s mother and her votary when she allows it. Come sit next to me when you want to try. I always win.”
+
+“I’ll do that,” said Alden. “Thank you!”
+
+But first a sip of piditsoo with the minuscule end of the dipper. And another picture for Stuart. Alden selected the bowl that held the odorless drink and held it up for the photo, giving Stuart a thumbs up to show him how well everything was going.

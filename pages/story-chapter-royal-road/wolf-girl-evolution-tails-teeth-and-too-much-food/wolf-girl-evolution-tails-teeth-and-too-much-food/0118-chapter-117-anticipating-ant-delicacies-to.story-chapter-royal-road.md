@@ -1,0 +1,591 @@
+---
+id: 9ff8e084-8aac-5da4-91a4-6c6d77fcf4d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 117: Anticipating Ant Delicacies, to Terrible Tall Tales"
+slug: 0118-chapter-117-anticipating-ant-delicacies-to
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 118
+ownLength: 2900
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3240204/chapter-117-anticipating-ant-delicacies-to-terrible"
+royalRoadId: "3240204"
+---
+
+PoV Luna
+
+The courtyard filled up with people quickly. A trickle at first, but that changed as soon as the first tasty smells reached the people inside.
+
+Some even brought company from outside.
+
+But Luna didn’t fault them!
+
+Food was awoomazing, and free food even more so!
+
+Impawssibly alluring!
+
+At first, Luna simply stood near the edge, watching it all unfold.
+
+The cooks, the staff, the people – they all had their own rhythm, their own smells, and their own plans.
+
+But no matter what their plans were at first…
+
+They picked food over them!
+
+Hehe!
+
+Luna approved!
+
+Mister Grevan was already in motion too, loud and laughing as he barked instructions while moving from one station to another. All while Dyran and the other guild cooks split up the work without needing to talk much, hands already busy as knives came out, fires were set, and the first cuts of meat were sorted into proper piles.
+
+Marinades and spices were brought up, and Luna drooled at the idea of trying them all!
+
+But while some of it was waiting up for ‘spice to seep in’, other cuts were being brought to the fore.
+
+And didn’t stay raw for long!
+
+Things changed fast once the work started.
+
+Large slabs became smaller cuts, bones separated cleanly, fat trimmed or set aside, and before Luna even finished watching one thing, something else had already moved to the next step.
+
+A slow cooking station was set up, tougher pieces thrown into it.
+
+And a big steamer thingy too!
+
+Fat went into pans to render into lard.
+
+Other pans welcomed diced and spiced meat cubes!
+
+Lightly seasoned cuts went onto grills, brushed up with some goodie smelling stuff!
+
+Luna drooled. All of that looked sooo good!
+
+And they were not even done yet!
+
+Other pieces went into big pots!
+
+She didn’t know what would be made from half of those things… But the smells were already promising her an awoomazing time!
+
+Sounds of cooking that followed made Luna close her eyes in anticipation. She listened to the glorious sizzling.
+
+To oil catching heat, to a sharp crackle as something hit it, followed by the deeper, steady bubbling of thicker mixtures starting to form as spices were added and stirred through.
+
+Luna leaned slightly closer without realizing it, her nose twitching as the smells shifted from raw to something richer, layered, alive in a way that made her tail start wagging again.
+
+This–
+
+This was how tasties happened.
+
+How humans did their precious spice magic! Stew magic! Sandwich magic!
+
+And more!
+
+With hands moving in weird ways.
+
+And fire controlled into doing important things!
+
+Luna nodded to herself.
+
+So that’s how it was! Luna understood everything now! Especially how it all became so much more, and oh-so-super-tasty!
+
+Well, maaaybe she didn’t quite get all of it–
+
+But the important parts were what mattered anyhow!
+
+Things turning into better things!
+
+Yesh!
+
+She stepped to the side to watch one of the cooks slice through a thick piece of meat, then turned her head as another flipped something in a pan, the surface already crisping in a way that made a sharp, satisfying sound.
+
+Oh!
+
+That one was going to be good.
+
+Very good!
+
+Her whole body gave a small wiggle of approval before she moved again, circling just slightly to keep everything in view, never staying in one place too long but never getting in the way either.
+
+Just taking all the views, smells, and foods in!
+
+Finally satisfied – and to stop herself from drooling – Luna turned her attention to the rest of the Guild.
+
+And it has already changed a lot when she wasn’t looking!
+
+The noise shifted – new smells mixed with old. Some old ones went out and returned refreshed too!
+
+And more people were still coming in!
+
+It wasn’t just adventurers from the expedition either, but others too, invited over, or drawn in by the sound, the smell, the promise of something happening.
+
+They greeted each other loudly, and pulled into groups.
+
+Then they all moved toward the courtyard or tables, even as conversations picked up again, faster and easier now that there was food coming!
+
+Luna turned slightly, watching as one group entered, still covered in dust and gear, armor worn, cloaks hanging heavy from travel.
+
+They stopped just inside.
+
+Looked at each other.
+
+Then nodded.
+
+And left again!
+
+Eh?
+
+Luna tilted her head.
+
+That didn’t make sense! They had just arrived.
+
+So why leave?
+
+But just as soon as Luna got to try some of the first meats – pan-fried, sliced up, and presented on toasted bread with butter and melted stretchy thingy called cheese – they came back.
+
+And they were all… cleaner?
+
+Hair pushed back or tied up.
+
+Armor loosened or removed entirely, replaced with lighter things, easier things.
+
+Ready to sit and eat at leisure!
+
+Luna’s ears perked as she watched them settle in properly this time, taking seats, leaning back, letting themselves relax in a way they hadn’t before.
+
+Oh!
+
+That made sense.
+
+Eating properly needed proper cleanliness rituals!
+
+She nodded once, satisfied with that conclusion.
+
+Good thinking!
+
+Luna also liked being clean!
+
+And eating right after getting clean?
+
+That sounded super nice and comfy!
+
+Worthy of becoming Apex Predator tactic indeed!
+
+Hehe!
+
+Oh, toast is gone!
+
+Time to find something new to try!
+
+***
+
+Just as Luna finished up taste-tasting the third of delightfully spicy delicacies–
+
+–And licked her fingers clean–
+
+“Got you!”
+
+Luna barely had time to react before she was lifted clean off her feet, pulled into a tight, crushing hug that made her let out a small, surprised sound before her tail immediately started wagging again.
+
+“Trianna!”
+
+“There you are,” Trianna laughed, holding her firmly for a moment longer as she looked around the courtyard, then back at Luna with a grin that was already leaning toward trouble. “Look at all this. You planned it all, didn’t you?”
+
+Luna puffed up a little despite being held, her tail still moving as she nodded.
+
+“Yip yep! All Luna’s plan!”
+
+And clearly very genius!
+
+Trianna huffed out a laugh, tightening the hug just briefly before loosening it.
+
+“The Little Investor,” she said, tone teasing as she glanced toward the cooks, toward the piles of meat that were steadily turning into actual food. “Put in all that effort, and now look at it.”
+
+Luna followed her gaze.
+
+Watched the movement, the fires, and food becoming even better food!
+
+Then looked back at Trianna.
+
+“…Investor?”
+
+“It means you put something in, and get something bigger out,” Trianna added, already shifting her weight as if she might leave again any moment.
+
+Luna considered that.
+
+Then nodded slowly, her tail picking up speed again.
+
+“Yep! Luna is awoomazing investor! The most investy of them all!”
+
+That sounded right!
+
+Very Apex Predator.
+
+“Oh, truly? Then I wish this lovely little Investor Luna a lovely evening.”
+
+Saying so, Trianna grinned, set Luna down, and ruffled her hair once before slipping away again. The archer woman was already eyeing someone across the courtyard with clear pranky intent.
+
+Ehehe!
+
+That felt nice.
+
+Luna watched her go for a moment.
+
+Then turned back to everything happening in the courtyard at once.
+
+Yes!
+
+It was all coming nicely together!
+
+Her ears stayed perked, her eyes bright as she shifted slightly where she stood, already preparing to move again, to go try things, to see more, to make sure nothing was missed!
+
+With every minute there was more and more food being prepared.
+
+And it was only getting better!
+
+***
+
+The feast grew quite fast!
+
+What began as just Luna’s hunted game and the cooks quickly turned into something much bigger, with tables dragged out, more fires lit, and people coming and going with baskets, crates, and all sorts of things that smelled interesting.
+
+Very interesting!
+
+Luna approved.
+
+She did not stay in one place either.
+
+That would have been inefficient!
+
+Nuh uh!
+
+So instead Luna moved around.
+
+From one table to another, weaving through people, slipping between groups, occasionally appearing in places where shadows pooled – and where she absolutely had not been a moment before! – as she reached for something new to try.
+
+There was far too much food to commit to a single spot. Many cooks, and even staff bringing in things – and Luna was not about to make the terrible terrible mistake of missing out on any of it!
+
+She tried them all, one by one!
+
+Crunchy finger foods.
+
+Steamed dumplings, full of meat and sauce!
+
+Each a joy in its own right.
+
+And Luna liked to enjoy the first bites, eyes closed, chewing all proper and nice!
+
+Mhm!
+
+Awoo-worthy!
+
+Luna nodded to herself as she chewed.
+
+Yes.
+
+This had been the correct plan, after all!
+
+Truly genius!
+
+And around her, the Guild’s atmosphere had completely changed.
+
+Adventurers who had returned tired and worn now sat with food in their hands, shoulders loosening, voices rising as the first proper bites settled in. The tension that had clung to them since their return slowly bled away, replaced with laughter, louder conversations, and just simple happiness.
+
+Luna liked that!
+
+Very much.
+
+She paused near one of the tables just long enough to grab another piece of something deep-fried – she did not know what was inside, but it smelled right! – and then moved again, circling through the courtyard as she continued her very important task of trying awoobsolutely everything!
+
+And noticed something weird!
+
+Some people had started bringing drinks.
+
+Weird!
+
+Luna’s obvious interest got noticed by one such drinker – and the man offered her a cup of it.
+
+She paused just long enough to sniff it.
+
+It smelled strange!
+
+Sharp, and a little bitter.
+
+Bleh smelling!
+
+She frowned slightly, then took a small sip anyway.
+
+Immediate regret!
+
+Her nose wrinkled, ears flattening just a bit as she pulled back, staring at the cup with obvious dislike.
+
+“…Bad.”
+
+The adventurer laughed.
+
+“You get used to it!”
+
+Luna looked at him.
+
+Then at the cup.
+
+Then back at him.
+
+“…Why?”
+
+He opened his mouth. Paused. Thought better of it.
+
+And just shrugged.
+
+Luna handed the cup back.
+
+Then went back to proper food!
+
+A much better choice!
+
+***
+
+Luna made her way back toward her pack once she had gathered enough important discoveries!
+
+She wove through people with practiced ease as she carried a small selection of freshly acquired tasties that absolutely needed to be shared.
+
+Among them a sure hit!
+
+New types of skewers from Mister Grevan!
+
+And found that they were all dining happily together.
+
+Very nice!
+
+Luna slipped in beside her Second and Veric without interrupting anything, already holding one piece up.
+
+“Second! This one good!”
+
+Syl took it without hesitation, and Luna stayed close, watching as she tasted it, her tail starting to wag when the reaction came.
+
+“It is, ah, quite spicy. But nice and juicy too.”
+
+“Yes!” Luna agreed, pleased.
+
+She shifted slightly and handed another piece to Veric next, who accepted it just as simply, eating without fuss. Luna watched him too, just to be sure, before nodding once more, satisfied with both results.
+
+Mhm!
+
+Pack having good food and good time was important!
+
+So Luna made sure to hand out a bit of everything food to all of them, Ferric included!
+
+Duty done, she settled comfortably between Second and Veric, her side pressed lightly against Syl, while she continued eating her own share.
+
+Luna was content to stay snuggled there for a good while as everything moved around them.
+
+Letting her body relax and take all the tasty spice in–
+
+Trianna didn’t stay for long.
+
+Luna caught sight of her slipping away from the group, already moving with mischievous purpose, posture loose and light, which probably meant trouble for someone else. She disappeared behind another group a moment later, clearly lining up something.
+
+Ehehe!
+
+Her archer friend had a lot of energy!
+
+Just like Luna!
+
+Ray had moved as well, standing with another adventurer off to the side, leaning in slightly as he spoke, his posture and expression carrying that same intent Luna had already learned to recognize.
+
+Convincing the unfortunate human to bet on something, Luna was sure!
+
+So very Ray!
+
+As for Sepio…
+
+The gruff man was–
+
+Eating and drinking away happily! Not complaining for once!
+
+Just enjoying the moment.
+
+Luna could see him relax, and smell the stress leaving his body.
+
+Her eyes sparkled.
+
+She had never seen him so content and calm before.
+
+That was great!
+
+Awoomazingly so!
+
+For a good while, Luna simply stayed where she was, warm and settled between her pack, chewing slowly now instead of rushing to try the next thing. She let herself enjoy both the food and the moment as the Guild carried on around them.
+
+And didn’t even notice when a content smile made its way onto her face.
+
+***
+
+PoV Adventurer:
+
+He shouldn’t have come out here.
+
+That was the thought that had been sitting in his head for the past half hour, quietly stubborn and refusing to move, no matter how loud the Guild courtyard got around him.
+
+The food was good.
+
+Better than good, really.
+
+He had a plate in front of him, half-finished, something fried and spiced in a way he couldn’t quite place, and a mug of beer at his side that he had been working through slower than usual.
+
+Didn’t matter.
+
+Didn’t taste like much tonight.
+
+“…She used me,” he muttered, staring down into the drink, expecting it to have answers.
+
+Across from him, the Proper Human Team duo leaned back in their chairs, half-listening to what must have been his third retelling now.
+
+“Oh no,” the fox beastman said, already sounding tired.
+
+“Oh yes,” he continued anyway, because stopping now would mean thinking about it quietly, and that was even worse. “Meals. Gifts. Time. And then – she was gone. Just like that. Off with someone else.”
+
+“That’s rough.”
+
+“I thought we were meant to be together,” he said, voice dipping lower despite himself. “But no. Turns out–”
+
+He leaned back, letting his head tip slightly as he stared up at nothing in particular.
+
+“…Reality is a lie.”
+
+A profound statement, one he was a little proud of.
+
+Because it really was–
+
+“A pie?” the bull beastman asked.
+
+He blinked.
+
+“…What? No. A lie!”
+
+“Bah,” the man just waved a hand, unconcerned. “Better to eat cake and not care.”
+
+That–
+
+He frowned.
+
+That wasn’t even–
+
+“What is cake?”
+
+An entirely new youthful voice joined their chat, out of complete nowhere.
+
+One moment the seat was empty.
+
+The next– the little wolf girl was there.
+
+With no warning whatsoever.
+
+Just– there!
+
+Looking at them with bright, curious eyes – and a piece of stuffed dumpling rapidly disappearing into her mouth.
+
+The bull man cleared his throat.
+
+“Ah, Power Fluff Girl! Uh…” he scratched his chin thoughtfully, “Cake is… cake.”
+
+“That does not help,” she replied immediately.
+
+“The cake is a lie,” he interjected flatly, because at this point, why not.
+
+Her ears flicked.
+
+“Cake is a pie?”
+
+“No, no,” the Fox jumped in, already leaning forward like this mattered far more than it should. “The cake is a lie, so it’s better to eat pie.”
+
+The Bull man frowned.
+
+“But what if the cake is a pie? Does that make the pie a lie?”
+
+He stared at them.
+
+They stared at each other.
+
+And somehow–
+
+This was a conversation now.
+
+The wolf girl tilted her head, slow and deliberate, clearly turning the unfamiliar words over in her mind.
+
+Hah! So he was not the only one confused by this–
+
+“But if a pie is a lie,” she began, voice thoughtful, “and a lie is a pie… then can Luna eat a lie?”
+
+…Right, what did he even expect?
+
+“I– Uh– Don’t–”
+
+The Fox opened his mouth, closed it again, then reached for his drink instead.
+
+Drank, lifted his finger, drank again, then finally managed to reply–
+
+“…It depends on the lie?”
+
+That sounded like it might be the right answer.
+
+Maybe.
+
+The huge bull man straightened suddenly, eyes lighting up as something clearly brilliant occurred to him.
+
+“Oh! I can make a lye pie!” he declared, already nodding to himself. “I just need enough thyme!”
+
+That–
+
+He didn’t even try to process that.
+
+But the wolf girl’s tail started wagging immediately.
+
+“Oh! So there are flavors of lies?!” she said, delighted. “Luna wants to try them all! Will ask Second!”
+
+And then she was gone.
+
+Just like that.
+
+To make her Second’s day fun.
+
+Whoever that was.
+
+The group sat there for a moment, the noise of the courtyard rushing back in around them as if nothing had happened.
+
+“…What just–” the Fox started.
+
+“I think we might have–” then tried again.
+
+“…So does anybody want a lye pie?”
+
+The conversation trailed off, half coherent. Or they were just pondering the cakes, pies, and the lies.
+
+He looked down at his drink again.
+
+Then at the table.
+
+Then at the bickering duo.
+
+“No, I’m telling you, if cake is a lie, then–”
+
+“That doesn’t mean pie is–”
+
+“You’re missing the point–”
+
+He let out a small breath.
+
+And then… just laughed.
+
+Quiet at first.
+
+Then a little louder, shaking his head as the weight that had been sitting on his chest shifted just enough to loosen.
+
+“…Yeah,” he muttered, lifting his mug again. “Alright.”
+
+Maybe–
+
+Maybe life wasn’t that bad.
+
+At least–
+
+Not tonight.

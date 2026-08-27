@@ -1,0 +1,97 @@
+---
+id: 72bce673-48c9-5e0e-8f30-91a462054916
+page-type-slug: story-chapter-royal-road
+title: "Chapter 176: Dissonance"
+slug: 0178-chapter-176-dissonance
+partOf: savage-divinity
+position: 178
+ownLength: 2937
+unit: words
+publishedAt: 2017-02-22
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/120286/chapter-176-dissonance"
+royalRoadId: "120286"
+---
+
+Though the battleground lay to the north, where the Defiled desperately tried to retake the mountain fortress before it was completed, every morning, Akanai chose to eat her breakfast facing south. Wistfully staring past the fields and forests, she entertained the hopes of catching a glimpse of Mila, though she was camped hundreds of kilometres away. Foolish girl always making her mother worry, why couldn’t the little brat have fallen in love with a more sensible man like Huushal or Fung?
+
+Sipping her tea as she glanced over the letter once more, she ran her fingers over Mila’s beautiful brushwork, able to recite the message by memory. For all his complaining, she almost suspected the boy was seeking out trouble, disaster following him around like one of his hungry pets. Assassins in Sanshu, bandits in Xiang Mi, falling into Western Treasures Lake and losing his Token, it was all too much. Now, he'd surfaced a month later with stories of Defiled and Demons and her heart almost couldn't take it anymore, worried each time she opened one of Mila’s reports. With him caught in the midst of a Purge, were she a superstitious woman, she’d believe the boy had been born beneath an unlucky star, his life filled with adversity and misfortune.
+
+Ready to abandon the border fortress and ride south to rescue the boy from certain death, she’d gasped in shock when she read of his progress, startling her guards into action. Falling Rain, eighteen years old with only six years of training, standing at the forefront of his generation, displaying his Purity and putting any and all suspicions to rest. The pup’s tail would wag for a week and Alsantset would be insufferable, bragging to everyone who would listen and many who tried not to.
+
+This wasn’t even taking into account the information inside Gerel’s ciphered report, containing so many things Mila had left unwritten. Condensing his Aura at eighteen? Akanai had never heard of anyone with such an accomplishment, the news likely to shock experts around the Empire. What dog shit luck the pup had, literally stumbling across a disciple so blessed by the Heavens. She’d already sent word to have the troublesome boy brought back to the Bridge as soon as possible, intending to keep him close until his hair turned grey. With Nian Zu watching over him and the pup, she could rest easy knowing they were looked after. Besides, it was high time the pup took responsibility for his disciple, she’d never seen a more thoughtless Mentor. Letting the boy run free and fobbing his lessons off to anyone with the time of day, and he still dared call himself the boy's Mentor.
+
+Even better, the boy safe at the pup's side also meant Mila would be safe, a mule-headed girl chasing after her beloved just like her mule-headed father. Huushal could do as he pleased, she needn’t worry about the exemplary ‘young wolf’. Ghurda had done well raising him, the most level-headed of her young talents, reliable, dependable, and suitably heroic in appearance. Little Fung, however, was in for a rigorous regimen of disciplined training the moment he returned. The spoiled noble was two years Rain’s senior and lagging far behind, without even a name for himself. Unacceptable for the disciple of the Herald of the Storms, a disgrace is what it was.
+
+While planning the drills she intended for her youngest disciple, a flurry of motion caught her attention, shadows dancing in the forest while birds fluttered away in droves. Narrowing her eyes, she signalled for her guards and Sent a message to Orgaal, the commander of her picket line. “I’m seeing movement to the south-east. Report.”
+
+After a brief pause, Orgaal replied, “My scouts see it too, inspecting now Chief Provost.” Another pause, minutes ticking by. “I’ve lost contact with my scouts. No reply.”
+
+Going with her gut, she gave her orders and rode Kankin to the back lines. “Fall back.” Switching over to speak with Dagen, she ordered him to take command of the front lines and prepare while pulling reserves to bolster the back line, staring at the open field in anticipation. The minutes passed slowly as her soldiers took their positions, confident in her read of the situation.
+
+She wasn’t disappointed.
+
+Bursting from the tree line, a horde of Defiled warriors screamed in their unholy tongue as they crossed the field. Ready and waiting, her warriors loosed arrows from behind their earthen fortifications, cutting down the first wave before they crossed fifty metres. As the second wave pushed past the corpses of their companions, Dagen reported another Defiled assault on the fortress walls, working in concert with their brethren already inside the province. How they continued to coordinate these attacks was a mystery, but it mattered little to her. In fact, she was almost glad to see so many Defiled warriors still in the north.
+
+Every single Defiled here in the province was proof of Situ Jia Yang's incompetence. As she’d been ordered to hunt down the Defiled responsible for attacking Shen Huo, Jia Yang had similar orders here in the west and chose to pass those duties on to his subordinates. The fortresses to the east had yet to report a single Defiled attack from inside the province, yet here she was staring at thousands of Defiled, remnants of the destruction of Shen Mu charging towards her position, with even more marching her way.
+
+Smiling in good humour, she welcomed the horde with open arms, happy to have yet another excuse to reprimand the arrogant Society blockhead. Let the Defiled save her the trouble of hunting them down one by one, she had long foreseen Jia Yang’s blunder, her soldiers entrenched and secure in their positions. The second wave already dead, the third wave died as she watched, counting each one as a fly in Jia Yang’s soup, imagining his reaction when she shoved the official charges of negligence and incompetence down his throat. Let him choke on his failures and return south in disgrace, the People were rising to soon take the Society’s place as the new power in the north.
+
+Life was good.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sitting inside his office at the military barracks, Magistrate Chu Tongzu tugged his moustache while staring across the empty plaza at the innermost gatehouse. One of four, it housed the mechanisms which raised and lowered the innermost gate of the south-east tunnel entrance, five-hundred meters of enclosed stone and darkness sitting open in welcome to whatever dangers lay without. Heavily fortified, each gatehouse contained not only a deadly compliment of war machines, but also enough ammunition and food to last its garrison for weeks.
+
+It was all ingeniously designed, the city standing for centuries untouched. For a besieging army to raise the gates, they would first need to scale the outer walls and congregate in the plaza before him, both the only area large enough to amass troops and a perfect killing ground for the soldiers stationed in the surrounding buildings. Then, the enemy would be forced to march along the single avenue leading to the upper level, alternating between climbing stairs and crossing open ground through a storm of projectiles fired by the defenders above.
+
+Should the aggressors successfully cross the half-kilometre depth of the wall, upon turning the first corner, they would find a portcullis blocking their path. After battering down its doors, a flight of stairs running parallel to the wall awaited them, and after turning the corner, they would once again find a second portcullis. Once through, the path took them along the depth of the wall once more, back towards the plaza, climbing to their destination where a third portcullis stood at the summit. Then and only then would the aggressors finally be in place to assault the first, innermost gatehouse and open the innermost gate.
+
+All a moot point for the aggressors as three more gatehouses needed to be taken before the outermost gate could be opened, allowing a besieging army to enter unhindered. All or nothing, a daunting task, the defenders held every advantage fortified behind their walls, raining fire down with impunity the entire time. Guard Captain Mao Jianghong often boasted no enemy would ever take all four gatehouses while good soldiers of Sanshu still drew breath.
+
+Except now that very scenario had taken place, his gates raised and gatehouses seized by an unknown number of rebels and traitors. Many still wore the red and gold armour of his city guards, Mao Jianghong hidden somewhere among them. The treacherous bastard knew the city better than any and had chosen his time well. With 5,000 guards outside the city patrolling for bandits and another 3,000 elites taking part in the Purge, the city was sorely lacking in loyal, competent warriors. The question was, why was the traitor intent on holding the gates open? A demonstration of civil disobedience? A coup with the backing of the Council? Personal gain? Some nefarious purpose?
+
+Unfortunately, it seemed the traitor was in no mood to talk terms, ignoring Tongzu’s calls for a meeting. He disliked having the gates open at night, able see straight through the tunnel into the wilderness, ignorant of the happenings beyond the walls. Having waited long enough, he turned to his second and asked, “Are the guards in position?”
+
+A burly, handsome woman, he’d chosen Staff Sergeant Sovanna as his second by sheer virtue of proximity, the first guard officer he’d laid eyes on. With his best officers out herding civilians towards a horrific end, both his guards and soldiers sorely lacking in leadership, forcing him to rely on this uneducated, poorly trained guardsman. It wasn’t all terrible, she was doing a passable job thus far and was quick to learn. If he overlooked her low-brow drawl and ever-present scowl, she even had a certain rustic charm to her. “Aye Magistrate. Me bullies have the enemy in their sights, the catapults prepped and ready for yer orders.”
+
+“Good, good.” A last resort, destroying the gatehouses risked damaging the mechanisms, an unacceptable outcome. “Any disturbances to report?” As soon as he’d learned the gate had been compromised, he’d ordered the other city gates closed and locked down, installing trustworthy soldiers to oversee the mechanisms. Tongzu hadn’t earned his place as Magistrate by taking unnecessary chances and he wasn’t about to start now.
+
+“Nah Magistrate, only a few councilmen squawking about their bodyguards being conscripted. Threatened to conscript them as well and send em into the fray, had them poncy poofs scurrying off right quick.”
+
+“Well done.” He’d have to deal with the fallout when all this was over, but for now, he couldn’t afford the distraction. Short-sighted fools, still squabbling among themselves even in this time of crisis, he wouldn’t be surprised to learn of the death of several councilmen in the morning, all dying from ‘natural causes’. True enough, surviving a dagger to the heart was anything but natural. Good riddance. “The scouts?”
+
+Spitting out the window, Sovanna shook her head. “It’s been close to an hour without a single scout reporting back. I’m not liking this.”
+
+Neither did he. Either they were all traitors as well or Jianghong had allies working to keep him blind, concealing whatever was to come. Tongzu shuddered to think how much damage this traitor could have done with his authority as Guard Captain, burying reports, turning soldiers to his cause, misappropriating supplies and funds, the list was extensive and worrying.
+
+It would all have to be sorted out when this was over. The time for discussion was at an end, leaving him with no choice but to drown the traitors in to blood of his soldiers. Though a heavy price to pay, it was his duty to immediately retake at least one gatehouse and close the tunnel. Everything else was secondary. “My soldiers?”
+
+“Lined up nice and pretty as can be Magistrate. I’m gonna have to request yer permission to lead the charge again, me bullies are tougher than ye think and I’m expendable, unlike yerself.”
+
+Eager to prove herself and wipe out the traitor guards herself, her repeated insistence was understandable given the circumstances. “I need you here. By my order, Staff Sergeant Sovanna, you are hereby promoted to acting Guard Captain.” Besides, the woman was no match for Jianghong in combat, a capable, if arrogant, disgraced nobleman. “Sanshu is under martial law and you its highest ranking officer. Should anyone pass through the perimeter and approach this position, execute them without warning. Guard Captain Sovanna, the city is yours.”
+
+“Thank ye kindly Magistrate. The Mother watch over ye and bring ye back to our side. Sanshu still needs ye. Without ye to run things and deal with those pig-headed Council idiots, I’ll probably burn the place to the ground in frustration within the week.”
+
+He coughed to hide his laughter as she left. The woman was a refreshing breath of sincerity he sorely missed. Perhaps he’d make the promotion permanent when all this was over, he rather enjoyed how she dealt with the Council, direct and without fuss. Besides, the strapping, dark-haired woman had an enticing, athletic build, a pleasant change from the tiny, slim concubines he usually favoured. He wasn’t above sleeping with his Guard Captain, anything to keep the next one from rebelling.
+
+As his attendants prepared him for battle, he cursed all the years wasted in luxury, the strapping, heroic frame of his youth replaced by a large pot belly and flabby folds of fat. Aside from his helmet, his famed dazzling golden armour didn’t fit anymore, forcing him to wear an ugly, dark-iron breastplate held up by leather thongs, little better than a metal apron. It was unbecoming of a magistrate, his appearance far from heroic, but actions spoke louder than words.
+
+Words still had their place though.
+
+Setting aside his embarrassment regarding his appearance, Tongzu strode out the barracks and inspected his soldiers, cramped together wherever they might fit just outside the plaza. Using his Chi, he Projected his voice for them to hear. “You’ve all heard what’s happened. Mao Jianghong has turned traitor and seized the gatehouses. Defiled travel through our fields, a Demon runs loose in the province, a Purge underway only days from our doorstep, in these dark times, those traitorous maggots would leave Sanshu open and vulnerable. This cannot stand.”
+
+Looking over the troops, he saw the trepidation in their eyes, apprehension bordering on terror. “You also know the city’s defences well and the cost to retake them. I will not lie, it will be high, but that shit-eating filth led by that traitorous cocksucker Jianghong thinks they can hold our families, our friends, our city hostage. They act now in the absence of so many of our comrades, believing there are no heroes of Sanshu left to defend it. Tell me, is this true?”
+
+A resounding ‘No’ answered him, the soldiers jeering and taunting the enemy, blowing off steam before the battle began. Letting them finish, he waited for quiet before resuming. “You know what’s happened and you know what we must do. You also know me, my reputation, my name.” He listened for the whispers as the older soldiers clued in the younger ones, his back straightening as their eyes widened. “Mark my words. I will march in and retake the gatehouses alone if need be. I welcome you to join me in honour and glory.”
+
+Hefting his trusty maul Stoneshaper, Tongzu basked in the cheers of his soldiers, raising his tower shield before leading the charge. “Come, my soldiers, my warriors, my heroes of Sanshu! Charge forward into victory and let none stand in our way!” A wordless yell was his reply as his soldiers followed, sprinting across the plaza in full armour, their spirits burning with righteous fury, yearning to avenge this affront to their honour and exterminate the traitors.
+
+The traitors unleashed hell as soon as his soldiers were in range, a mass of bodies running into a hail of projectiles. The cacophony of battle rose around him, the shrieking of arrows, the cracking of bones, the screams of the dying, and still he ran, leading his soldiers into the avenue. Ignoring the arrow embedded in his shoulder, Tongzu emboldened the men to action, leading by example. “Onwards my heroes, retake our city from these bastards who dare threaten our families. There will be no rest, no respite, no retreat, until they all lay dead at our feet!” The smell of blood and shit filled his nostrils as his soldiers died in droves rushing through this choke-point of death, desperate to reach the enemy.
+
+The bodies littered the avenue behind him as he rounded the corner to confront the first portcullis, his chi gathered and ready. Picking up speed, his iron breastplate slapped against his thighs as he lowered his head and charged into the heavy, steel-reinforced door, using Stoneshaper as a battering ram. With the torturous screech of warped metal, the door exploded from its hinges, giving way before his mass and flying back into the waiting ranks of traitors with a thunderous crash. Screaming in fury and grief for the fallen, Tonzgu continued forward, stepping across the broken door and smashing aside the opposition as his soldiers cheered and set upon the enemy, giving no quarter as they hacked apart the outnumbered defenders in frenzied retribution.
+
+After three decades of hibernation, The Unstoppable Golden Vanguard Chu Tongzu led the way once more, blood boiling as he charged headfirst into the fray, his battle cry echoing across the walls for all to hear.
+
+‘Victory or Death!’
+
+Chapter Meme

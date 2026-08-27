@@ -1,0 +1,323 @@
+---
+id: ab97af10-169c-5648-a8e1-e7c9a8001e6c
+page-type-slug: story-chapter-royal-road
+title: "285 A New World's Ways"
+slug: 0244-285-a-new-world-s-ways
+partOf: the-new-world
+position: 244
+ownLength: 5787
+unit: words
+ownProgress: 5787
+publishedAt: 2021-01-28
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/621736/285-a-new-worlds-ways"
+royalRoadId: "621736"
+markedReadAt: "2026-06-29T21:29:28.006Z"
+---
+
+-Althea-
+
+Waiting in the brush was about dull as you'd imagine it would be. Amara and I were about fifteen miles from the Elysian camp, and no one was even close to finding us. I passed the time with a few downloaded apps from Schema's store, having way more credits than I knew what to do with. However, I wasn't exactly the biggest fan of video games, so I eventually turned to Amara.
+
+"Hey...So, uh, how are you feeling?"
+
+Amara seethed, "Terrified of what we are about to undertake."
+
+"Yeah, so am I. A little bit, anyway. I've done this thing before, so I kind of know what to expect."
+
+With the branches surrounding us on all sides, Amara turned a palm to me, the eye sickly and yellow, "What can we expect? Is it to be eaten alive?"
+
+I frowned, "That's definitely not a part of the plan. Right now, the others are scouting out the planet and seeing what's up. They'll be back to let us know what kind of plan they have in the works. We'll follow it, get on the world, and then warp out using Alexander's illegal magic."
+
+Amara's eyes narrowed, "Do you honestly believe it shall be so simple?"
+
+I shrugged, "Uh, yeah. That's the thing about plans; when you follow through, they tend to work."
+
+"And what if the plan breaks down, and we are stranded on another world with no way out?"
+
+I gave her a thumbs up, "We improvise. They have warps that can get us there and back. Using one can act as a failsafe."
+
+Amara peered down with her hands, her hair covering her face, "We could, though being there is racking my nerves. What they do to the eldritch and silvers to turn them into Hybrids...I don't wish to know the process. I can only imagine the torment behind such a thing."
+
+I winced, remembering the giant pits of Hybridizing silvers. It was the kind of process that required a psychopath to keep it going, that was for sure. Either that or they had no mercy for the eldritch and silvers alike. In my opinion, it was a little bit of both. Seeing Amara shiver a bit, she looked like a worn-down little girl, if only for a second. I put a hand on her shoulder,
+
+"I'll be keeping you safe, so just, you know, stay calm."
+
+Amara turned her palm back to me, "You are a but a sheep." She leaned towards me and smelled my arm, "Yet you carry the blood of wolves in you. I can't determine what you are, but it is something warped to the core."
+
+I didn't expect a compliment from reassuring her, but ouch, that stung. I pulled my hand back and crossed my arms, "Well, if that's how you want to be, then fine. Let's just not talk."
+
+Seconds later, Amara sighed, "I...I am merely nervous about this mission. I do not enjoy danger or adventures alike, and I prefer my research in my safe lab room. Elsewhere is dangerous, and I know what will become of me should I be captured. They will rip my mind apart, searching for answers to Schema's system and the codes lying therein."
+
+I pursed my lips, "How exactly do you know about Schema's system anyway?"
+
+Her lips grinned, the jagged teeth menacing, "I am an insider of sorts. For now, that is all I'll say."
+
+Bushes rustled in the distance, and I warped across planes. Skulking near the sound, I found the others pulling themselves through the woodlands to find us. Instead of popping up, I sent them a message. Seconds later, I warped out,
+
+"Hey, guys."
+
+Lester and Alexander expected me, but Isa failed to read her messages. She yelped before narrowing her eyes at me. I put my hands on my hips, "Look, I sent you a message this time. What else do you want from me?"
+
+Other Hod peeled from Isa's shadow, and he spoke like a snake, "For you to be perceptible before you arrive. It is a trial to not attack you each time you appear."
+
+Alexander spread out his arms, "Just read the message, guys. Not that complicated."
+
+I looked at each of them as Amara walked out of her bush. Amara hissed, "It would appear that each of you seems peeved. I'm left wondering why?"
+
+Alexander waved his arms, "We've been up since eight in the morning. It's 4:00 A.M. in the middle of the night on the next day. It's like we're pulling an all-nighter."
+
+Isa nodded at the wizard's apprentice, "I can't wait for a good night's rest when we get back to base."
+
+Other Hod cackled, "Oh, then you shall be disappointed. Much time will pass across the veil and on the enemy's world. Expect to be tested."
+
+I spread out my hands, "So, uhm, did you guys see the other planet yet?"
+
+Lester nodded, "You bet. It was insane. They live in this, this ultra-wide mall sort of thing. It's beneath the ground level, and a layer of some clear material that keeps people safe from the wind and the eldritch, er, I mean monsters there."
+
+Amara looked with her palms towards Lester, "You may call them what they are - eldritch."
+
+"So yeah, eldritch run over the area, so they use some stealth technology to keep the colony hidden. There are people everywhere, and they are from all over the place. I'll be honest, you just kind of have to see the place. It was wild."
+
+I rolled my hand, "That's great and all, but we're not there to be tourists. How was their warp situated? Was it well guarded? Are there places for Alexander to plant his ritual to get us out of there? Those are the kinds of things we need to know."
+
+Other Hod stepped up to us, "I observed in their shadow. The warp is in a room with a tunnel leading to the main megastructure. Two guards were stationed there at all times, and I don't expect it to be different when we arrive. From subtle questioning, we gathered they close a vault door there during the night."
+
+I pointed at the shadowy figure, "That's perfect. We'll use that cutting technique I mentioned to get through then."
+
+Other Hod nodded, his eyes red and ominous in the dark, "We are ready to leave now if you're all ready." Other Hod stared at Amara, "And, you may have as much time as you need, however long that may be."
+
+Amara stepped past Other Hod, "We have been ready for hours. Let us leave."
+
+I felt for the poor shadowy eldritch getting shut down like that. We stepped past several Hybrid patrols, my scouting letting everybody move along without any worries. There weren't a ton of patrols during the night or anything, but Hybrids had keen senses. Getting past them with our motley crew required some distance. I gave the group that, and we were within range of the Elysian camp's warp in minutes.
+
+The others hid in an alleyway, disguised by the darkness. Two patrolmen, both of them remnants, stared forward with their armors around the town's warp. They put it in a central hub of the city, near the silvers' zoo. Several high priority buildings lingered nearby, letting the VIP's of Elysium go to and from the warp with ease. It wasn't situated in a building either, meaning entry was a cinch.
+
+Getting through in the open would be like ringing an alarm bell since we'd most likely kill the two remnants. Instead, we went with a more subtle approach. The others clustered into the shadow of Other Hod and the dark entity shoved himself into a shady spot near the warp's entrance. I skulked off to the side before changing my form.
+
+I could always change shape ever since getting a grip on my eldritch powers. At first, my changes were grotesque and unrefined. Having practiced night and day, I ended up with reasonably convincing transformations by now. My deceptive guises worked better in the dark too. Using one of those disguises, I turned myself into a little girl with a torn-off arm.
+
+Using a recording of a Hybrid, I opened my status and played one of their grizzly, metallic screeches. At the same time, I screamed in agony. The two guards were well within earshot, so I kept screaming out and playing the prolonged recording. When the two remnants rounded the corner, they saw me stumbling away.
+
+An urgency gripped them as the two guards sprinted towards my location with their spears primed for combat. I kept them on the hook, ensuring they got several blocks away from the warp and into a residential area. After letting them get closer to me, they saw my dress and cloak, along with the bloody nub I had for an arm.
+
+Keeping them on the run for about five minutes, the guards got closer over time. Right as they became more suspicious, I got the message I'd been waiting for. I ran past an alleyway's corner as the guards got within grabbing distance from me. In an instant, I walked onto another plane. Leaping up, the guards stopped, wondering where the little girl went.
+
+Using wings, I glided down towards the warp, Amara already having hacked the device. As I neared them, our team charged up the warp, my commotion causing a stir several blocks away. With everyone distracted, we shifted across the veil, reaching the other world's coordinates. Stepping out of the ionizing spray, it was like Other Hod said. We stared at a bleak room without much light, outside of some dim rays leaking from windows above. In front of us, a massive steel door locked us inside, no guards within the warp room. Massive steel panels showed subtle signs of rusting, and the weary chamber groaned from the wind above.
+
+Out into this room, the others lobbed themselves out of Hod's shadow magic, and the poor birdman heaved for air as they fell. Other Hod gasped with his shadows falling off of him in a thick slop,
+
+"Bleca ruha. Sheagoma lack nock."
+
+I stared at him, unable to understand anything he said. I was so used to Schema's language conversions that I forgot what not knowing a language was like. Even without a translation, I got the message as Other Hod regressed, the shade coming off him and Hod returning. Reading my confusion, Amara slapped a pointed piece of metal into my shoulder. I let out a quiet yelp before an approximation of Schema's system came up in my view.
+
+She hissed, "You can thank me later."
+
+Thank goodness someone knew about this stuff. We'd be done for without her. She walked around, slapping steel into exposed skin for the party, and Amara giggled as others yelped at her subtle smacks. Hod turned and looked at everybody,
+
+"Hod wonder where Hod is. Hod know Hod confused."
+
+Amara walked over and pierced his wing with one of the software discs. Hod yelped, and I walked towards him, putting a hand on the side of his beak,
+
+"Hey, remember me?"
+
+Hod spread his wings and gave me a hug, "Hod remember lady friend anywhere. How lady friend? Being pretty?"
+
+I gave him a smile, "I'm doing great. You know what would make me feel even better?"
+
+Hod flexed his scrawny arms, "Hod flex muscles?"
+
+I scoffed, "Yeah, that too big man. I need you to follow us quietly as you can, alright?"
+
+Hod stiffened up and gave me a salute, "Yes, Lady Friend. Hod listen."
+
+I turned to the others, and Alexander stared around, "Ok, so we're here. Amara, you need to change the residual coordinates we left behind."
+
+The eldritch stood up and walked over to the warp's terminal. She pulled some tech mumbo jumbo before turning to us, "It's finished. They won't know we came here, but I can't eliminate the fact we've warped. They'll know it was just used, so the guards are coming."
+
+Alexander put his hands on the sides of his head, "Oh shit, what do we do next? Remember, Alexander. Remember."
+
+Isa gave the kid a pat on the back, "Come on now, lighten up. We're just getting started."
+
+She turned to Lester, "Here's what we need to do." The main dungeoneer for our guild lifted her hand and pointed up,
+
+"We're going to break one of those windows, and that'll alert the guards here. They'll come in through that vault door over there to check it out. We'll walk in through that door as they open it, with neither of them the wiser. Are we ready?"
+
+Our group nodded. I thanked whoever sent Isa with us because she just made the chaotic situation seem a lot more in control. Isa pointed at the glass, "You're up, Alexander. Make a hard rock."
+
+The mage calmed himself down before channeling origin mana. A second later, a small stone fell from the origin blot. Isa pointed at me, so I grabbed the rock before rearing my arm back. With my leg in the air, I torqued force through my shoulder and launched the stone through the roof. It shattered the ceiling like we wanted, but my throw may have been a little bit too hard. About a third of the glass on the roof collapsed from the stone's impact.
+
+As it sprinkled around us, the others glared at me. I blushed, "Huh...So, uhm, yeah...sorry."
+
+The guards rushed down the hallway, opening the vault door, and Isa pointed above it. We raced over there while I made my hands all grip-ey. Like a spider, I pulled myself up while Hod flew. Alexander pulled out his grimoire and channeled a spell. Mana coursed through his palms while Alexander hovered up the others and himself.
+
+The giant slab of metal opened up below us, swinging with little sound. Two remnant guards in their customary armor stormed in, looking around for the disturbance. Finding the shattered windowpane, they walked over while cursing,
+
+"Ah, dammit. Again? Already?"
+
+"Something big must of made this hole."
+
+"Yeah, and ugly too."
+
+I narrowed my eyes at the two jerk guards, one of them lifting the glass from the ground using magic. The other guard used a jetpack to rise to the ceiling before pulling out a plasmic welder. They went to work, fixing the broken fixture as we skulked out of the premise.
+
+Sneaking through a dim hallway of rusted metal, Alexander gasped as he set Isa, Amara, and Lester down. Alexander heaved for air, and his nose bled, his mana depleted from having to lift so much weight. His palms steamed with deep burns on them, the mana having singed his skin. Isa and Lester raised him by putting his arms over their shoulders, and the mage passed out while we walked back out through a sliding glass doorway to outside.
+
+Or, well, it wasn't really outside. We stepped into a vast, double-sided alleyway. Alleyway wasn't the right word, but it was a better description than a mall since everything was so old. The stores, housing, and mineshafts sprawled out under the customary clear panes above. Everything filled out into a line about a mile wide, with buildings and businesses crammed into the premise.
+
+Neon signs, piled trash, and dripping pipes gave the entire megastructure a worn-down look. The stagnant, stuffy air held an uncomfortable humidity which steamed over at the edges of the windowpanes overhead. One side of this place looked better off than the other, fewer mineshafts over there and more upscale businesses. At least as deluxe as they could be since this place passed its glory days long ago.
+
+What was important was that our team's info panned out - it was nighttime. A little light leaked in from outside, kind of like a sunrise and sunset at the same time. We used this pseudo night as camouflage while we ran through the townsite, following Isa and Lester. After a minute of walking, we reached an alleyway surrounded by several abandoned homes. Heaving for air, they caught their breath for a minute.
+
+The situation seemed stable, so I leaned towards them and whispered, "Where do we go from here?"
+
+Isa grinned with a drip of sweat pouring down her brow, "Yeah, so this is where it gets more complicated. We need to rest a minute before moving towards that side of the building."
+
+She pointed at the dimmer side of the expanse. Looking closer, the buildings showed more wear and tear than the buildings along the opposite side of this endless line of buildings. Isa took a deep breath,
+
+"These guys, they're on some kind of tidally locked planet. However, it's not completely locked, so this ring of buildings has to be moved every couple of centuries. This is the most stable part of the planet right now. That's why they build here based on what the guide told us."
+
+Hod stood up straight, "Hod enjoy history lesson, but what history lesson have to do with Hod?"
+
+Lester rolled his hand, "The point is, we're going to the abandoned ruins where this ring of buildings used to be. Every couple dozen miles along the older side of this place, we should be able to find a nook or cranny leading to those ruins."
+
+Isa pointed at me, "We'll need you to cut us a way into that place. Once we're there, we'll need Alexander to cast some atmospheric magic to help us survive. Schema helps, but this isn't the kind of planet you want to just be on the surface of. It's the weather. It comes in these huge dust storms, and the creatures crawl everywhere here. It's a fringe world because of that."
+
+My eyes narrowed, "How'd you figure this all out? Surely the guide wouldn't go into this much detail?"
+
+Isa rolled her eyes, "We talked to some homeless people. Give them some food and time, and they're usually more than just a little chatty. They also know a thing or two."
+
+I frowned, "I couldn't understand anyone when I got here. How did you guys?"
+
+Isa tapped the side of her face, "They gave us some kind of software implement so that we could. Amara checked it out for bugs earlier when we regrouped. According to her, we're safe."
+
+Amara already worked within her status, the red standing out from the standard blue coloring. She got to work, breaking into Elysium's system already. I turned to her, "How long do you think this will take?"
+
+The eldritch hissed, "Three to four days at most. Their security isn't as extensive as Schema's encryptions."
+
+I turned to the dungeoneers, "Then, uh, you guys lead the way."
+
+Isa pointed at me, "We need you to scout out where to go next. Find a crevice leading to the old ruins. We'll follow you there after you come back."
+
+I gave her a terse nod and walked onto a different plane. With my breath held,  I sprinted out of there, the metal underfoot creaking under my feet. The buildings blurred around my vision as a sandstorm raged above us. Rocks bounced off the translucent covering, the material resistant to any impacts. I winced at that, knowing they'd discover something was amiss about the broken glass in the warp room.
+
+There wasn't anything I could do about it now. After several minutes of running, I found a section of missing buildings. In place of living space, a slit appeared in the endless tunnel. Pacing down there, I found a steel tunnel leading down towards a sewer that drained its contents into an underground cavern. It was good enough for our escape. Retracing my steps, the rest of our group waited while huddled near the abandoned alleyway.
+
+I couldn't send them a message, so I appeared out of their view. I stepped over, waving my arms so I wouldn't surprise them. My new strategy worked, and they followed me towards the exit. They moved at a crushed snail's pace, Alexander holding us back. To speed us up, I pulled out a mana potion from my storage, pouring it over Alexander's face.
+
+It woke the wizard up, and the potion seeped through his skin. I lifted him up in my arms, turning towards the others, "We don't have time to carry him this slowly. Come on."
+
+I jogged forward, and the others ran to keep up. It annoyed me how slow they were, each of them moving in slow-motion outside of Hod. They couldn't help it, but I couldn't help my frustration either. We passed several nightly patrols, some of Hod's shadow magic serving as a distraction for us. Within an hour, we reached the tunnel I found the side slit from earlier.
+
+Looking around, the others made sure no one followed us while I pulled out a section of sliced wall. I cut it earlier, making sure it fit back in place like a puzzle piece. That trick made it so that it took a long time for someone to find where we left and entered. Funneling everyone through a cramped crawlway, we reached a series of pipes. I pulled the same tactic, taking out a chunk of the tube.
+
+That's where the situation got ugly. Blegh.
+
+We crept through the sewage pipe, the entire crawl resulting in a tight squeeze. The smell was unlike anything I'd ever had to suffer through, and it left me gagging. To my chagrin, Lester vomited on the way there. I nearly killed everyone when insects made of more leg than body came pouring out of the crevices of pipes. Those creepy insects squirmed over me before reaching Lester's vomit.
+
+We smooshed several of them just moving, and I turned to the dungeoneer and seethed,
+
+"You throw up again, and you'll be losing more than just your guts. Do you hear me?"
+
+The poor guy gave me a not with his eyes wide, "Yes, mam."
+
+I felt terrible about that later, but there's only so much a girl can do. At least no one else threw the hell up after that. Thirty minutes of crawling continued, and by the time we got out of there, the sewage might as well have fused with our skin. The pipe ended with a chute of waste pouring out into some water below us.
+
+Broadening my irises to see in the dark, I found the ledge from earlier. Extending my arm into a whip with a bone hook, I swung over towards the ridge. Using that same hook, I created a zipline for the others to cross. Gripping with lengthened fingers, I pulled my flexible, deformed arm taught over the gap.
+
+I spoke in a soft voice, "Hey, use this to get across. We don't want to leave evidence we were here."
+
+They listened to me, which was nice of them. Hod held Alexander, getting the boy across. He still hadn't recovered from his mana overuse earlier. The others wrapped their arms and legs around my arm and skulked through. It took a few minutes, but everyone was safe. As they got over, Lester gave my long arm a tap,
+
+"Where did you get this rope? It's effective, but it feels kind of gross."
+
+Pulling my arm back, I accidentally gave him a slap on the back while making my limb familiar again. Obviously, it was entirely accidental, so I said,
+
+"Oh, that was my arm you guys just used. Sorry, it's gross."
+
+Isa gave Lester a shove, "First the vomit and now this. Are you trying to get on her bad side?"
+
+Lester let out a cough, "No, but that doesn't mean I'm not doing a good job of it."
+
+Isa let out a hearty laugh, "Hah, let's go. We need to put some distance between us and them."
+
+We got away from the megastructure at the middle of the planet, and before we knew it, I carved us a route back into the old settlements from these caverns. If I thought the previous town was rusty, this place carried red wind and powder everywhere. The abandoned buildings served as breeding grounds for metal-eating eldritch as well, and the air stung my lungs.
+
+It stung my friend's lungs too, and the entire place smelled of blood because of it. Whether that was the rust or my lungs getting shredded by particles, I couldn't tell. Combine that with the dry, water soaking wind, and this place wasn't the funnest place to just sit around in. We managed by chugging health potions as we went forward. Hod kept moving like usual, almost enjoying the dry dust in the air.
+
+It left my eyes hurting and tearing up as we crossed this desolate, empty superstructure. I didn't know what else to call it, the expanse barren. It was an abandoned version of the last place. Above us, the crystal panels that kept the dust storms out were splintered beyond repair. The window panes crushed under rocks, adding a jagged edge to the ground and the air alike. Monsters eyed us from a distance as we walked, the steel eaters hungry for the iron in our blood.
+
+Other eldritch, the alpha predators here, ate the steel eaters as well. They hid in the dense, red clouds, all of these monsters walking around us. Green, glowing eyes opened in the red smog around us. These hulking, four-legged tank monsters hulked around us like rabid dogs.
+
+At this point, Hod took charge now, securing the perimeter around us. Each time one of these shadowy figures attempted attacking us, Hod tore their eyes out with the sharpened talons of his feet. He used magic I didn't know the guy could cast, imbuing his feathers with energy. The spare plumage lobbed like explosive shrapnel at the monsters, letting us make our way towards a sealed-off room.
+
+It looked like a shelter used to house people a long time ago. Bunk beds lined up in several rows, only decayed frames remaining. The doors ripped out a long time ago, and many bitemarks lined the outer walls on the most rusted parts. The dilapidated skeletons of bipedal, uhm, lizards, I guess? They piled in the corners in piles.
+
+Lester frowned at the place, "It's perfect..."
+
+Hod smashed two metal eaters' skulls, the lipless monstrosities falling in piles of burnt and orange gore. Their bodies congealed in seconds, turning into gelatinous piles of corpses. From the clouds above, slithering, steel cobras lunged down and spit onto those piles. Melting the congealed substance, they devoured the metal eaters in a frenzy.
+
+Isa put her hands on her hips, "We're not outside, even if there isn't much keeping us out of there. That'll do for now."
+
+I created hundreds of filaments over my forearm before brushing a clean area for Alexander. Setting him down, I pulled out a rebreather from my dimensional storage. Putting it on him, I turned to the others,
+
+"This atmosphere is breathable but toxic. Get some rebreathers on."
+
+They followed my command, everyone but Hod putting on a mask. The birdman stayed outside, securing the perimeter. I left Alexander and helped slice the monsters down. Keeping to the massive cobras, I slit them apart as they lunged at us. I got good looks at them as I did, and their metal scales explained how they survived here.
+
+These creatures reminded me of the silvers, though living off rust instead of mana pollution. Life found a way, at least when the eldritch were involved. These snakes used an acidic venom to melt the iron eaters' metal shells, and that let them feast on the mush left behind. At one point, I caught a cobra lunging at my face. The monster's teeth lined its throat all the way down, making its open mouth look like a pit of needles.
+
+Needless to say, I found those snakes more intimidating than the metal eaters. The hulking, four-legged iron munchers weren't slouches either, though. They carried enormous jaws full of shearing teeth. Metal plated them, big surprise, and they walked around with glowing patches on their underbellies. My guess, their stomachs were like furnaces that melted their food into absorbable nutrients.
+
+For them, at least. Either way, we culled several dozen of the creatures before securing our perimeter. We didn't let the cobras feast on the bodies of the iron munchers since they'd reproduce and multiply off of them. From facing Hybrids, we both discovered that a scorched earth policy worked best sometimes. Leaving behind anything alive meant it would come back later with interest.
+
+We stopped that from becoming an issue, culling for a while. By the time Alexander reawakened, we had massacred a large portion of the nearby eldritch. Hod guarded the corpses while I walked back in, the dungeoneers protecting Alexander in the meantime. Those creepy, insectoid balls of legs kept trying to crawl into Alexander's eyes, ears, and nose. What they intended to do in there, I never wanted to know. It wasn't good. That much I was sure of.
+
+Either way, Alexander shook off his fatigue after a while, and he pulled out his grimoire and a mana potion. Chugging the fluid, he went about casting another spell. A semi-transparent barrier passed along the old bunker, encasing this storage champer. Entirely. As it did, Isa pointed at the mage,
+
+"You overcasted your mana reserves again. You need to come up with more efficient methods for your magic. Otherwise, you'll end up hampering more than helping."
+
+Alexander sighed, "I know, I know. I'm just not used to missions yet. Sorry."
+
+Lester shook his head, "Just think about it next time." Lester sat himself down, looking at the rest of the place, "You did a good job clearing this place out of that rust, though."
+
+Alexander gave the dungeoneer a small grin, "Yeah, Torix taught me an atmosphere stabilizing spell before this. He figured the world might not have a habitable atmosphere."
+
+Alexander took off his mask, "You guys can take them off now."
+
+We did, and the magic kept the wind and rust out, clearing the air here. Alexander let out a breath before pulling off his rebreather. He heaved for the purified air, and we followed suit. Hod stayed outside, killing the stray metal eaters or flying cobras that came close.
+
+Lester sat to the side, pulling out a few venoms and fluid sacs from his dimensional storage. He pulled out a big bowl, poured several of the ingredients into a solution, and Lester piled bunches of rust into the generic mash. Isa whipped out a clear jar full of a glowing, yellow liquid too. She poured it over herself, and it cleansed her of all the muck leftover on her.
+
+She offered it to me, "This will clean-
+
+I snatched it out of her hands, pouring some of the good stuff over me while letting out a sigh of pure, unadulterated comfort. Isa scoffed,
+
+"Looks like I didn't have to tell her twice."
+
+Lester kept making his concoction while we all got cleaned. When we finished, Lester's rust porridge turned into a thick, delicious-smelling broth. He cleaned himself before taking out smaller cups, and he poured himself a serving with a ladle.
+
+We stared at him as he drank it. The sheer satisfaction on his face convinced us to follow suit. As we got our food, he gestured to the dish,
+
+"I've killed similar eldritch in the past. I kept their venoms, and I mix them and a few enzymes into this. It took a good bit of experimentation before I got the formula right, but now it tastes like beef stew after I've added some spices."
+
+I took a swig, and he was right. It was a lot like meaty gravy. Lester scratched the side of his head, "I will admit, I've been eating this stuff for about a year now. The only side effect so far is growing rust over my thighs. No big deal."
+
+We quit drinking before Lester busted out laughing with Isa. Isa pointed at us, "They believed you. Hah. Hah."
+
+Alexander, Amara, and I glared at them, but that didn't stop the two veterans from getting a laugh in. With the area secured and our mission understood, we took a breather for lunch. We chatted as we usually did, idling over preparations, practices, and how crazy it was on another planet. As I took another glass of whatever Lester cooked up, I stared off at the shattered sky.
+
+In the distance, this moon orbited a gas giant. The green, striped planet dwarfed everything else in the sky. Even at this distance, its gravitational pull influenced the world we stayed on. Its pull was palpable, though I might have just gotten used to gravity wells from Daniel. Further beyond that gas giant, a red dwarf star lulled in the distance. The star closed in more than the sun on Earth. Despite that, I could look at it without my eyes hurting, at least for a few seconds.
+
+The skyline brought a quiet, otherworldly beauty to this savage place. It wasn't a standard panorama, but it left a mark either way. The sounds of this planet echoed that feel. The winds above ebbed out with a low drone at all times, the surface inhospitable. It was like the breeze howled out for company in this lonely place. Somehow, that was a sad, serene sound.
+
+That might've been because of who I was around. Talking with my friends, enjoying a good meal, and watching the stars drift by made me feel warm and content. As Hod walked back in, he completed that picture. The bird spread his wings,
+
+"Hod wide awake. Hod sleep long time. Hod guard others while others sleep."
+
+Alexander rubbed the bags under his eyes, "Thank you, oh mighty birdman, for giving us some rest."
+
+Hod flexed his scrawny arms again, and I gently smiled at him. Goofy as he was, he always meant well. The dungeoneers coasted off to sleep first, drifting into a sense of ease in seconds. They were used to camping out like this, unlike the rest of us. Alexander relaxed second, the guy too tired to stay awake.
+
+I sat there and thought by myself, the echoes of the wind outside, offering a pleasant white noise. We had so much left to do here, like uncover the Elysian secrets and hack into their system. I couldn't even imagine the secrets we'd find here. It left me nervous, yet excited at the same time. As I dozed off, I slept with a smile.
+
+Who knew, this might even be a little fun.

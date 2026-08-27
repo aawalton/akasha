@@ -1,0 +1,469 @@
+---
+id: 82907c2c-fc4d-5eeb-a4db-614d9acda38d
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED NINETY-FIVE: Flashes VII"
+slug: 0197-one-hundred-ninety-five-flashes-vii
+partOf: super-supportive
+position: 197
+ownLength: 5610
+unit: words
+publishedAt: 2025-01-01
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1986958/one-hundred-ninety-five-flashes-vii"
+royalRoadId: "1986958"
+---
+
+195
+
+******
+
+“Alden,” said Max, “we’ll need your help.”
+
+Good. Tired as Alden was, the idea of being involved in a plan like this was energizing. “I’m willing to do whatever you think I can. Let’s go for it.”
+
+Max lowered his voice. “I’ll handle getting Klein into position at the right moment. You take charge of texting everybody and helping them to coordinate.”
+
+“Oh. Okay.”
+
+Haoyu chuckled.
+
+Alden shot him a look.
+
+“I think he wanted to help kill—”
+
+“I’ll be the text messaging person,” Alden interrupted his roommate. “That’s something I can totally be responsible for. No problem.”
+
+Max frowned at him. “You’re fast at it. And for the attack, we do need to use the high ranks who can deal significant—“
+
+“I understand that.”
+
+“And aren’t you quite close to wearing out your skill?”
+
+“Sure. I’m the phone guy. That’s me. What’s the plan?”
+
+“Speed,” said Max. “If this isn’t over in the time it takes for Galecourse to run one of her laps, then we’ve probably lost our chance. Here’s how I think it should go…”
+
+******
+
+******
+
+[Alden: Good evening, everybody.  As you might have noticed, the end of class is nigh, and none of us are doing as well as we’d like. My team and Max’s are back at the starting line, and we’ve come up with a plan that will take a lot of pressure off everybody if it’s successful. This might give us all a chance of making it to the finish line before the end of class.
+
+A squad of high-speed, high-offense representatives from each team will be put together for the purpose of ending Instructor Klein’s reign of terror.
+
+We don’t have time for debate. The only thing you have to do if you want to participate is agree to send the teammate in question to a designated spot when Galecourse next repositions. Klein will be there, as will Omega Scorpii.
+
+The chosen fighters should ignore Omega Scorpii. Focus all attack efforts on Klein. Once Klein is dead, you can go back to your own teams.
+
+As thanks for your participation, you will be rewarded with a feeling of pride and a pair of maps marking the location of all the flashing electrocution traps that are known to my team and Max’s. The maps and the absence of one evil Agility Brute should make your final runs easier.
+
+We hope the following Avowed will agree to be squad members:
+
+Lexi
+
+Finlay
+
+Heloísa
+
+Tuyet
+
+Reinhard
+
+Marsha
+
+Mehdi
+
+Winston
+
+Please reply swiftly. ]
+
+******
+
+******
+
+<<There’s a text message for us all.>> Ignacio’s Meister knives were in his hands, and while the members of their team jogged forward, he was looking at a pile of broken electronics and smashed wood that had formed against the barrier to their right. Big Snake had been throwing for long enough, and the wind had been blowing for long enough, for a few drifts like that to appear in the gym.
+
+Søren had noticed Ignacio glancing at them several times now.
+
+“You’re checking random texts?!” Febri shouted over the wind. “Who has time for that? Watch for that crazy man! He keeps praising my efforts while he’s carrying me around like a Boy Brutely doll! I just know he’s going to tell Haoyu I tripped.”
+
+“Tripping in a situation like that could happen to anyone,” Søren said.
+
+He wasn’t glad that the others had gotten more and more stressed, but he was glad that them being stressed gave him something to do. Trying to cheer them up wasn’t much, but it was better than lying on the floor waiting to be saved. Or being carried back to the start because he’d been killed by a strike from Marsha. Or having people make comments about his sandbags.
+
+His teammates had cut one up for the sand and discovered that throwing it in their instructor’s face was about as effective as everything else they’d tried against him. But Søren still had a 120 kilo one. Holding onto it kept his feet firmly on the ground, and he could imagine he was giving whoever was behind him—Tuyet right now—a break from the wind if nothing else. His muscles were burning from carrying weights all class, so at least he’d gotten a workout for his body even if his power was good for nothing.
+
+“You’ve been doing Apex-level work, Febri,” he added. “We’re ahead of everyone right now.”
+
+Haoyu and Kon’s team had gotten wiped out making a bold run for the finish, and Lucille’s team had run into the trap that Ignacio had quietly warned them would probably be waiting at the end of the gym.
+
+He knew his own grandmother’s talent, so there was an advantage there.
+
+“I’m an Agility Brute! I can’t trip. I might have to change schools after this.”
+
+“The message is from Alden,” Tuyet said, her own voice at a volume that made it difficult for Søren to hear her. “I don’t know what to…you all should read it. I’ll do whatever the team wants.”
+
+“You check messages during class, too!?” Febri exclaimed.
+
+“We need to stop now,” said Vandy. “I think Mrs. Zhang-Demir might come for us next.”
+
+Søren wished she would deliver warnings in a less factual tone. Across the gym, Alden had been yelling “Stop!” and “Go!” so urgently that Søren had almost obeyed him a couple of times.
+
+Vandy was good at reporting possible danger compared to the rest of them, but with Febri being so rambunctious and talkative—moreso as he got annoyed with himself—sometimes the importance of her words didn’t register through his chatter. Now they did, and Søren halted, looking toward the finish through eyes he had to keep in a squint thanks to the wind.
+
+Instructor Waker’s almost done with his pile of trash. He’s not going to come out here and fight at closer range when he runs out of things to throw, is he?
+
+He tightened his grip on his sandbag’s handle, while he reached up to check the message notification with the other hand.
+
+Everyone was quiet for a few seconds.
+
+“Why do they want—?!”
+
+<<Shut up!>> Ignacio hissed, elbowing Febri in the arm. “Secret. You know? Secret.”
+
+“But I want to…” Febri lowered his voice. “I feel like I should have been selected. That’s all I’m saying.”
+
+“Of course we should do this,” Vandy said quietly. “If the rest of the teams are going to try, we can’t take advantage of their efforts and race ahead of them.”
+
+“Having the maps would be nice, too,” said Tuyet. She touched the dart case hanging from a belt at her hip. “Wouldn’t it? I don’t mind going. I can make it back to you all.”
+
+They were all exchanging looks and nods. The looks and nods…didn’t really include Søren.
+
+I’m so tired of myself.
+
+“Wish it could be me. Make sure you get him,” said Febri.
+
+<<I want to help. I’ll come get you if anything goes wrong. Do you want some knives?>> Ignacio patted one of the modified knife rolls slung over his shoulders.
+
+Tuyet shook her head.
+
+“I hope people understand how to time a group attack,” Vandy was saying. “Getting everyone to cooperate might be harder than they’re expecting. Someone could hurt you accidentally, Tuyet. Maybe we should send one more person with you as backup.”
+
+“You should all go,” Søren said.
+
+Four pairs of eyes looked at him.
+
+“You should. Three more S’s…” He was looking at the list. It was obvious what the teams planning this had wanted from the attackers. Fast, because Instructor Klein was fast. The most lethal shots possible, because only one might make it through. This wasn’t supposed to be a drawn-out fight. But they’d been limited by needing to pick a member of each team.
+
+Nobody would have agreed to help if one team was being left out. It would be like giving them a free win.
+
+But Ignacio would definitely have been included if he’d been on another team. Febri would be better than Mehdi or Heloísa.
+
+This is a way I can help—encouraging them to do something other than guard me like I’m a baby.
+
+“All of you go,” he said. “Watch each other’s backs and coordinate with each other so that the plan works better for everyone and you all get back safely. Vandy might even get a chance to attack.”
+
+The Sky Shaper couldn’t do much with her element when her mother was dominating it. An attack that took place during Galecourse’s down period would let her work.
+
+“I’ll lie on the floor between the sandbag and the barrier. Nothing will hit me, and I won’t move a micrometer.”
+
+I won’t give you any trouble. I won’t hold you back.
+
+He could tell they were tempted. This class hadn’t given them as many opportunities to fully use their powers as they’d had during duels.
+
+“At least one of us should stay here with--” Febri said.
+
+“Here,” said Søren, typing quickly before they could argue.
+
+Have fun being real Avowed.
+
+******
+
+******
+
+Alden stood in a huddle with his team, waiting for responses to come in. Nearby, Max was having a quiet discussion with his own teammates. They were going to be the bait, since Klein owed them an attack. As soon as they got a certain distance out onto the floor, the instructor and Omega Scorpii should come for them, and they needed to be on the same page about what they were going to do when that happened.
+
+Getting this attempt completely organized in the next ninety seconds or so is ridiculous, thought Alden, but at least it doesn’t leave a lot of room for people to argue.
+
+He craned his neck to see what was happening on the floor. A couple of teams were being way too obvious about the fact that they’d just been invited to join a scheme, but maybe Klein wouldn’t notice with Mehdi currently screaming and swinging what might have been a curtain rod at him.
+
+The first message notification appeared on Alden’s interface, and more rapidly followed:
+
+[Heloísa: Yes!]
+
+[Reinhard: Where do I shoot from?]
+
+[Marsha: I’ll be attacking from the west. Two slashes as I run in. As many as possible when I finally get there.]
+
+[Reinhard: I’ve been saving up a big one.]
+
+[Marsha: I’m not dodging any of you.]
+
+“I don’t know about this.” Lexi was standing to Alden’s left, whispering at the others on their team. “What if Writher hits all the wrong people? Haoyu or Everly might be better.”
+
+“If you destroy our classmates instead of the instructor, I’ll give you my stipend next month,” said Kon. “Because it will be funny for years to come. But publicly, I’ll disown you.”
+
+“It’s not funny!”
+
+“You’ll be fine,” said Alden, frowning as Marsha added a text specifying which of Klein’s body parts the first two slashes would be aimed at. Is that a useful thing for the others to know? I guess it’s not unhelpful. “And we have to donate our best offense to the fight since we’re organizing. That’s you.”
+
+He wanted to say more, but some of these people needed replies. With the instigator of the plot busy and no time left….Alden decided to come up with his own answers.
+
+[Alden: All first attacks should arrive the second Klein reaches Max’s team. We don’t want him to be able to respond to them one at a time, so you guys need to try to hit from multiple directions simultaneously. I guess Marsha is coming from the west, which is toward the front entrance. Heloísa, you might want to start moving as soon as you see Max’s team heading back onto the floor so you don’t end up behind.]
+
+[Winston: I’ll help of course. Even if nobody else has been willing to help my team all class.]
+
+“What’s he talking about?” asked Lexi. “Did he ask for help with something?”
+
+“All I ever heard him complaining about was weights,” said Alden. “He thought his team deserved to have some at the start. But there’s a ton of heavy stuff on the floor now, and we’re all in the same position. It’s not like he got behind because of it. Never mind. Can’t talk.”
+
+[Winston: If it looks good, I’ll feature you all on my channel.]
+
+[Søren: All of my team is coming except for me.]
+
+Alden’s eyebrows shot up.
+
+“Wow,” said Haoyu. “That will help. We don’t want so many people that they get in each other’s way, but that’s significant added firepower.”
+
+“Mehdi’s down,” said Everly. “His team is just standing around. Why are they so useless? Should I go get him since he’s part of the plan?”
+
+[Marsha: I’ll focus on low shots. Let the archer and Tuyet take high ones. Don’t bother dodging me, Shrike.]
+
+[Alden: If someone dies during the attack, our team will drag them over the starting line to fix their suit, so don’t hesitate to go for it with everything you’ve got.]
+
+“I’ll grab Mehdi,” Haoyu was telling Everly. “One of your ice patches will put everyone else at a disadvantage if Klein decides to run toward it. He’ll go aerial, and they’ll skid around.”
+
+He ran onto the floor.
+
+“We’re on corpse duty?” Kon asked. He was still holding his bicycle. “Did you just decide that spontaneously, Alden?”
+
+“But why can’t I help, too?” Astrid was asking Max.
+
+Everyone was talking over each other. Alden hoped his own teammates didn’t mind about the corpse duty. It seemed like something somebody needed to volunteer for. Letting one of the chosen fighters die half a gym or more away from their team without offering any help would be a horrible thing to do, and he was feeling as responsible for this plan as he could, given the fact that he was still surprised it was happening.
+
+[Reinhard: I have a name. It’s not just archer.]
+
+[Alden: Sounds good, Marsha. Sounds great, Søren! Here are your maps, everybody. Good luck!]
+
+“I think Galecourse is about done with this cycle. Time to go.” Max looked back at Alden. “Are you ready?”
+
+Alden blinked. “I’m just making this up as I go along. I’m ready to do more of that.”
+
+Max nodded. “See you at the end of class.”
+
+He leaped onto Jeffy’s back, Astrid hopped onto Lucille’s, and his team strolled through the barrier onto the floor.
+
+So it’s about to start. Just like this. Max will try to time their forward pushes to drag Klein in at exactly the moment Galecourse stops…what do I take care of from here?
+
+He confirmed that his shield was in good shape, grabbed his large zip bag full of dirt and pried it open with his teeth, checked on Haoyu’s return progress with a stiff-suited Mehdi…
+
+Okay.
+
+Beside him, Lexi was breathing so hard Alden could feel it on his face. The pressure had to be bad. Lexi wasn’t back in his groove within their own team, and that was with them all reassuring him that mistakes with his unruly death whip didn’t bother them. Being a part of an unanticipated battle that was important to the whole class…
+
+If only one person screws up, everyone’s going to blame them.
+
+“Hey, Lexi,” said Alden, “I wasn’t going to mention this until we were at the spa later, because I’m not a hundred percent sure and I wanted to check the footage—”
+
+“You guys are going to the sauna again?”
+
+“That’s where you and Haoyu go after every class?”
+
+Alden talked over Kon and Everly. “I think you might have hurt one of Instructor Klein’s hands earlier. With Writher.”
+
+Lexi frowned at him.
+
+“I’m serious. He’s only been using one hand all class. It might be on purpose just to rile us up or give himself a challenge, but I noticed it after that first attack on us, and it hasn’t changed. Maybe you chopped off all his fingers or something.”
+
+“I would know if I’d—”
+
+“You were trying hard to hit the instructor then,” Everly pointed out. “Very hard.”
+
+Lexi reddened.
+
+“You don’t have time to be embarrassed,” Alden said. “I just wanted you to know I think you might already have dealt the biggest blow to Klein of anyone here today. So…just go do it again, right?”
+
+He lifted their shield and stepped onto the floor with the others behind him.
+
+******
+
+******
+
+“As far as how many teams we expect to succeed,” Torsten said in response to a question Hale had just asked, “there’s no set number. If some of them manage to put together a group that breezes through us all today, we might consider a more advanced challenge for them on Friday, but I don’t imagine that will happen.
+
+“We have the usual mix of strong personalities and new-Avowed foibles in this class. Some of them still think they’re on their way to being invincible. A few are so nervous about their own strength that they can’t use it properly. Every single one of them had the ambition to try for this, and when that ambition meets a challenging reality, they respond in so many unpredictable ways. Teamwork isn’t easy, especially under those conditions.”
+
+Aparna spoke from her desk by the window. “Maybe they’ll surprise us.”
+
+“I wouldn’t mind that,” Torsten said with a nod. “I’d like it even more if some of them surprised themselves.”
+
+******
+
+******
+
+So far, being a high rank was almost exactly like Ignacio’s parents and grandparents had told him it would be. He had plenty of examples in his family, and he’d had a lifetime to know it was probably coming. The things that surprised him weren’t small to him, but they were small enough that his older relatives hadn’t thought to warn him about them.
+
+Like the way so many adults looked at him and listened to him when he wore his rank on his name tag, as if he were a more respectable person than he’d been just three months ago. How his slightly enhanced vision made those looks stand out. The profound thrill and loss he’d felt after throwing a knife for the first time as an Avowed and having it sink up to the hilt in a practice target he’d struggled to hit the day before.
+
+His life had been split like the target, like his family had said it would be, like every Avowed’s was.
+
+He’d gotten in a little throwing practice before his bedtime one night. Then he woke up hours later, having been selected for the duty that two species had decided before his birth would be his.
+
+Ignacio had made a pre-affixation bucket list, but in the end, he’d only taken care of what he’d thought at the time were the most important wishes on it.
+
+He’d hugged all the people he loved with his full strength, he’d played a round of every sport he enjoyed with his friends, and he’d had sex. A neighbor a year older than him had put the same item on her own list of things she wanted to try out before she received her powers.
+
+He was still worried completing that last one as if it was a chore, with a casual acquaintance, hadn’t been the best choice for him. It was a more-enjoyable-than-not education, but it really hadn’t lived up to the romantic scenarios in his imagination. And maybe it was a small part of the reason he had affixed and applied to school without finishing the whole list.
+
+Around that time, a long goodbye to his ordinary humanity had started to be more depressing than fun, and Ignacio had decided to look forward instead.
+
+And now I’m here. And I’m this.
+
+The wind had just stopped. They were already moving together—him, Febri, Tuyet, and Vandy—and it was like playing football with his friends on that last day before he affixed. The same rush, the same worry about letting the team down, the same focus on a goal.
+
+Running was deceptive. His highest speed strained him in exactly the same way a sprint always had. It felt so similar to his mind and his muscles, and yet stationary objects flew past faster.
+
+People who said they were the same person before and after becoming Avowed…maybe they were better than Ignacio somehow. He wondered about that every now and then. Mostly, he thought they were fake for trying to pretend they were too humble for the changes to really change them.
+
+The body you inhabited and the things you could do with it affected who you were, didn’t they? Your first affixation didn’t make you a better or worse person, but it definitely made you different.
+
+Be careful shaking peoples’ hands. Learn to pay attention to how you move through crowds. Accept that fact that everyone on Earth has an opinion about how Avowed should use their powers and every Avowed on Anesidora has one about how S’s should behave.
+
+Throw knives in the Celena North High gym.
+
+So many sharp things around right now. I’ll take them all.
+
+He threw one of his knives to the right, past Febri’s back. Then he activated the Leading Knife skill with a whisper. He was trying to break the habit of that unnecessary whisper, but right now, he couldn’t afford to think about it. He let his weapon zip over a pile of debris, then recalled it.
+
+He liked the way his Meister weapons occupied their own special place in his attention. With his eyes closed, he still would have known which direction his knife was coming from. Wrapping his hand around the hilt was so natural.
+
+Throw it again before the following shards of metal, splinters of wood, and knives catch up. Keep them all in the air.
+
+Ignacio had decided he would be a Meister three years ago.
+
+He still remembered the first time he had answered someone too seriously when they asked him what he wanted to be one day. You were supposed to say a superhero. Or a celebrity. A politician or an athlete. You weren’t supposed to say what Ignacio had picked up from some of his relatives.
+
+If I’m destined to be a machine of war, then I will try to be an excellent one.
+
+The Artonans weren’t creating so many combat-capable Avowed on a whim. They were doing it, as they’d always said, because Earth or the Triplanets might one day need them. All the people who thought they could ignore that or avoid it were just thinking in the short term and hiding their heads in the sand.
+
+Strong Avowed were valuable. Eventually, valuable resources got used.
+
+That was what Ignacio’s family believed.
+
+Maybe it wouldn’t be for a long time. Fifty years. A hundred. Ignacio still planned to be alive then.
+
+But maybe for a hundred years, I get to be a superhero. And have a lot of fun with these new classmates of mine.
+
+Vandy’s arms were up. Febri had run ahead, trying to time his arrival to match the other close-range fighters. Tuyet’s expression had shifted to that serious one she always wore when she threw. Instructor Klein had just reached Jeffy’s team.
+
+I’ll help cut off his chance of escaping into the air.
+
+The swarm that followed his blade was so thick that Klein would be lucky to fit a single hand between the shards.
+
+******
+
+******
+
+Tuyet was tired, and she felt ungrounded. It had been the same ever since that horrible night.
+
+She wished she could go back to the first week of school again—getting away from the stressors at home, feeling grown-up with Vandy and Everly in their new apartment. She had been stunned that she’d made it into school with them when so many of the others had been cut, even though she’d known that the S, the class, and all the practice she’d done should help. A few days after they’d moved in, they’d been laughing together, painting each other’s nails, and trying to get to know Maricel.
+
+Having a new friend their age who didn’t know anything about Anesidora was exciting. For some reason, Maricel hadn’t explored much at all during her months in intake, so they had a list as long as the Span of everything she needed to see and do.
+
+Now, a third of that list was ruined by the floods, and Maricel was gone all the time. A lot of it was publicity or working with Fragment, but Tuyet thought she was also training in private. Or she was just avoiding the apartment.
+
+Last night, Tuyet had gone to visit the members of her family who were staying at her older sister’s place. She’d gotten back to campus late and had decided to wait up to see Maricel when she came in. But if her roommate had returned at all, it must have been sometime after two o’clock in the morning, when Tuyet fell asleep on the sofa, and before six, when she woke up thanks to a vague nightmare and a text message from her brother about the nightmare.
+
+She was supposed to tell on him when he read her mind. But he couldn’t help himself, and if she told on him, they’d just rush their plans to stick him on a new residential ship even farther out at sea. Where he couldn’t check on the people he worried about when the panic was bad for him.
+
+Right now, as uncomfortable as things were for everyone else, they were better for him. The government was quietly grateful to him. He was being allowed to spend time in Apex. The family had all eaten breakfast together one morning, and he’d made them coffee. And the Artonan general, the female one, had come to see him twice.
+
+She had thanked him.
+
+He’d been going through a difficult spell—listening hard and far, as usual—when he picked up the sound of one of the minds on the submerged boat. He was the reason the System had known the attack was going to happen just before it did. It was hard to say what those extra seconds had bought, but Tuyet knew they must have bought something.
+
+Someone’s life. Someone’s home.
+
+He finally gets to be the hero he always wanted to be. And he doesn’t get any credit for it.
+
+His choice, her parents’ choice, and the government’s.
+
+Unfair. Practical.
+
+Telling Anesidora her brother had helped save them like that would make a few people accepting of him, maybe, but it would make a lot more angry.
+
+It was the same reason Tuyet didn’t tell when he randomly texted her things like, “What are you scared of? Don’t think such unkind thoughts about yourself!” Or, “That person is lying to you. Stay away from them. Go home.”
+
+Can I help? Watch out! Do you need me? Do you need me, Tuyet? If you need me, I’ll be there as fast as I can.
+
+Nobody wanted to hear that a Sway who’d taken severe mind damage on one of his first ever jobs was quietly growing more and more powerful just offshore. Nobody wanted to believe that all he ever did was watch over the island and worry about the people he loved.
+
+Nobody wanted a superhero like that. And they never would.
+
+So they would get his little sister instead. She wouldn’t be as good; she knew that. He’d been charming and gentle, and even as a Sway, he’d been welcomed with open arms by the populace of a small city with a serious crime problem.
+
+The idea of being famous made Tuyet so nervous she wanted to throw up, and the thought of everyone judging her performance and talking about her all the time made her feel like she needed resuscitation.
+
+But she was going to become a superhero. She was believing it more every day.
+
+She could feel it in the way her hands went steady when she plucked a dart from her gym case, the way her thoughts cleared when she selected her spell. Shrike’s Leading Knife wouldn’t be a problem. Her darts never followed it.
+
+She ran nearly as fast as an A-rank speedster her age. She left all her anxiety behind her.
+
+When she decided on a target, when she fixed her eyes on it, it never quite looked like what it was. It wasn’t Torsten Klein, breaking Max’s leg and twisting away from Lucille’s grab. Instead, it was the unregistered Sway who’d tortured her brother’s mind—faceless, cruel, and still at large.
+
+She was going to find that person, that unregistered who must be so terrifyingly powerful to have ripped into a trained S-rank like that. And whoever they were, wherever they were, she wasn’t even going to give them the chance to see her coming.
+
+No heroic speeches for a camera, no appeals to their humanity and offers of forgiveness if they came to Anesidora with her peacefully. One day, she was just going to be there in the shadows where they were hiding, and before they could blink, quicker than they could think…
+
+Tuyet was going to bury every dart she had in their brain.
+
+Her arm moved like a whip.
+
+The first one flew.
+
+*******
+
+******
+
+It was happening.
+
+Alden and Everly were crouching with his shield over their heads. They were trying to reduce their damageable surface area while still keeping good visibility and remaining mobile. Kon had just split off from them. He was running forward and to the right across a thin scattering of dirt. Alden had flung his whole bag full in the direction of Max’s team just to give himself a very small, very temporary patch of ground to work with now that all hell was about to break loose.
+
+Kon had said he was getting a little closer “for corpse duty.” Alden was sure he just wanted to find an opening to throw the broken bicycle at their instructor. He was also sure that this meant he and Everly were going to end up corpse-dutying Kon back to the starting line in about ten seconds.
+
+But, you know, good for him for trying. Gym has been so busy for the rest of us today, and he didn’t get to do much. Spiking a bike into Klein’s face is a noble goal.
+
+There was a moment of something that sounded like quiet even though it wasn’t. No wind, just pounding feet as several teams dashed for the finish while the chosen people raced toward Alden and Everly’s position, and to the fight.
+
+Reinhard was drawing his bow. Marsha’s glaive was starting its first swipe.
+
+Alden wished he could see all of it at once so that he could admire the way this spur-of-the-moment attack came together from so many directions. It was going to be lethal to a lot of the wrong people. That was unavoidable under the circumstances. “Kill Klein no matter the cost,” wasn’t the kind of plan that would leave the attackers unscathed.
+
+But he was still so impressed seeing them move. Febri looked like Klein himself, ducking under Marsha’s first magical strike, sliding across the floor beneath Writher to spring up toward the instructor’s face.
+
+And at the same time, the ranged weapons were arriving. One of Shrike’s knives had picked up what must have been everything sharper than a thumbtack on its way in. It was dragging a spherical cloud of pointy danger in its wake.
+
+Heloísa was throwing what was left of the washing machine. Mehdi was flying over Alden’s head…flying? Yes, flying.
+
+He’d been hurled by Haoyu from back at the starting line. Alden didn’t have space to wonder if that was a mutual decision, or if Haoyu was adding some pizzaz of his own to the event.
+
+Klein was already taking the washing machine on a shoulder, dodging Febri, swiping Mehdi the Missile out of the air with a leg. Nope—Mehdi was grabbing onto the leg. Mehdi was flying off the leg. Mehdi was catching himself against the floor with just his hands and redirecting his body back into the fray.
+
+The Zhang-Demirs had already plucked Max and Lucille from the madness. Alden watched them both jump high to avoid Writher, which was awfully rigid. Everyone, including Klein, was just kind of limboing under it or hopping over it.
+
+Lexi, thought Alden. Come on. Do it like you were earlier. So fast I can’t even see it. That’s what we really need.
+
+Kon was almost—
+
+A hand slapped Alden’s arm.
+
+“Snake.” Everly’s voice was urgent. “Snake, Snake! Whose turn is it?”
+
+At the other end of the gym, Instructor Waker was lifting some kind of heavy metal cage that could possibly have been a dog crate. For a very large, strong dog.
+
+Whose turn? thought Alden. Oh…it might be…
+
+Then, before he could finish realizing that the dog crate would probably be flying toward one of his own teammates, a person crossed his line of sight.
+
+The person was very fast, and he was way out there, a few paces beyond the three-quarter mark.
+
+Why the hell is Winston all the way up there instead of back here with us?
+
+Briefly, Alden’s eyes flicked away from Big Snake and the cage, following the direction of Winston’s run. The speedster wasn’t aiming for the finish line. There was nothing in the direction he was heading except for Søren, lying on the floor between the barrier and a sandbag.
+
+That piece of shit.
+
+He wanted to be mad about it. To fix it. But his team’s fight was here, and he didn’t have the attention to spare.
+
+******

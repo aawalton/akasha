@@ -1,0 +1,215 @@
+---
+id: ba416aa8-090e-567c-a350-a2ddcaed3779
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Hexenzeit"
+slug: 0015-chapter-15-hexenzeit
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 15
+ownLength: 1637
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3278016/chapter-15-hexenzeit"
+royalRoadId: "3278016"
+---
+
+Far to the north.
+
+Hagen stood outside the heavy oak door, staring at the mirror mounted on the opposite wall. The glass was old, its surface faintly warped, but it showed him clearly enough.
+
+His hair was the problem.
+
+He leaned closer, tilting his head. The roots were showing again. Pale gold creeping out from beneath the vivid red. Another week, maybe two, and someone would notice. A servant. A visiting lord. A sharp-eyed officer who knew what Hexenzeit red was supposed to look like and what it wasn't.
+
+His father would be furious.
+
+Hagen's jaw tightened at the word. Father. It still sat wrong in his mouth. Roderich von Hexenzeit had adopted him years ago, shortly after the fiasco with Kaspar. The arrangement had been practical, not sentimental. Roderich needed an heir who could perform. Hagen needed a name that opened doors.
+
+What they had was not a father-son bond.
+
+It was closer to master and apprentice. On bad days, master and servant.
+
+Hagen smoothed the front of his coat and adjusted the documents pressed against his chest. The parchment was heavy, sealed with wax, carrying intelligence from the southern expedition. He'd read it twice already. Memorized the relevant details. Prepared his delivery the way Roderich had taught him.
+
+He glanced at the mirror one last time.
+
+Red hair. Sharp features. The right posture, clothes, and expression.
+
+Perfect.
+
+Or close enough.
+
+There had been a time, years ago, when Hagen had felt something like pity for Kaspar. The real son.
+
+The pity hadn't lasted.
+
+It couldn't, not when Hagen watched Kaspar fumble and fail and retreat further into books and obscure research while the family's reputation bled out around him. Not when Roderich's attention shifted, from the son who couldn't deliver to the orphan who could.
+
+Kaspar had been given everything. Nine cores. A legendary name. The full weight of a noble house behind him.
+
+He'd done nothing with it.
+
+Hagen had been given a bottle of hair dye and a set of expectations that would crush most men.
+
+He'd risen.
+
+The pity had curdled into something harder. Not hatred. More like the quiet certainty that the world sorted people into where they belonged, and Kaspar belonged exactly where he'd ended up.
+
+Somewhere far away.
+
+"Enter."
+
+The command came through the oak.
+
+Hagen straightened his spine, tucked the documents under his arm, and pushed through the door.
+
+The planning room was larger than it needed to be.
+
+Roderich's office occupied the entire north wing of the upper floor. Maps covered three of the four walls, pinned and layered so thickly that the stone beneath was invisible. Campaign routes, territorial boundaries and supply lines were drawn.
+
+A long table dominated the center, surrounded by chairs that were occupied by men Hagen recognized.
+
+Military officers. High-ranking ones.
+
+Hagen knew some by name, others only by reputation. Generals who commanded divisions. Strategists who had shaped Silberwald's borders through decades of careful, ruthless calculation. Men whose signatures on a document could move ten thousand soldiers or condemn a city to siege.
+
+Roderich von Hexenzeit stood rather than sat.
+
+He was tall. Everything about him was vertical and severe. His hair was the deep red of the Hexenzeit bloodline, threaded now with iron gray at the temples. His face was carved from angles: sharp cheekbones, a jaw that could have been used to split wood, eyes the color of cooling embers.
+
+Duke of the North. Minister of War for the Kingdom of Silberwald.
+
+He controlled the magical military apparatus of the realm. Every troop movement, every fortification, every alliance and betrayal that involved armed men passed through his hands before it passed through anyone else's.
+
+"The king's health continues to decline," Roderich announced without preamble.
+
+"A succession dispute among the princes and princesses is inevitable," he continued. "It is no longer a question of if, but when."
+
+"I need to know who's the winning horse," Roderich said. "Who we support. Who the magical army places on the throne."
+
+The officers responded.
+
+One by one, they offered assessments. Alliances dissected. The strengths and weaknesses of each royal candidate laid out like cuts of meat on a butcher's block.
+
+Hagen stood near the door, documents in hand, and waited.
+
+His eyes drifted, as they always did in these meetings, to the corner of the room.
+
+She sat apart from the others.
+
+Ameriz von Hexenzeit occupied a chair against the far wall as if she had been placed there by someone who wanted her present but not participating. Her posture was perfect. Her hands rested in her lap, fingers laced.
+
+Her hair was long and fell in deep blue-black waves. Her eyes were the same shade, a blue so dark it bordered on violet, and they watched the room with an expression that gave nothing away.
+
+Cold.
+
+That was the word Hagen always came back to when watching her.
+
+Hagen had the distinct impression that she hated him.
+
+He didn't blame her.
+
+She had borne two sons. Kaspar, the firstborn. And Alrik, the younger, too young for Roderich to notice.
+
+Two sons of her own blood.
+
+Yet Roderich was grooming an adopted outsider to lead the house.
+
+Ameriz never spoke about it. She never confronted Hagen directly, never raised her voice, never made a scene. She simply watched him with those fathomless blue eyes whenever he entered a room.
+
+Hagen knew she had been a powerful mage once. The rumors varied on the details, some said Fourth Circle, others whispered Fifth, but all agreed that Ameriz von Hexenzeit had possessed real, formidable talent before something had changed.
+
+Now she sat in corners during war councils and said nothing.
+
+Hagen didn't understand why she attended at all.
+
+The discussion wound down.
+
+Officers settled into their chairs with the exhausted satisfaction. Roderich remained standing, his gaze sweeping the room one final time before it landed on Hagen.
+
+"Yes?" Roderich said.
+
+The single syllable was an invitation and a command.
+
+Hagen stepped forward.
+
+He moved to the center of the room, positioning himself where every officer could see him without turning. He held the documents at his side. Roderich had taught him that. Never hide behind paper.
+
+"My lord," Hagen began. "I've received the initial reports from the southern expedition."
+
+He summarized efficiently. The expedition had reached the sealed chamber deep within the cavern system. The gate, the ancient mechanism that required massive quantities of mana to operate, had resisted all attempts at opening. A critical failure in the mana crystal reserves had rendered the ritual impossible.
+
+"The sealed hall wasn't breached," Hagen reported. "However, the expedition recovered several relics and artifacts of significant value from the surrounding chambers. These are being transported to the Academy for study and cataloguing."
+
+Roderich nodded once. A controlled motion that conveyed acknowledgment, but no enthusiasm.
+
+His gaze shifted to one of the officers seated near the middle of the table, a lean man with close-cropped gray hair and the insignia of military intelligence on his collar.
+
+"Go to the Academy," Roderich ordered. "Determine whether any of the recovered artifacts have practical military application. If anything can be weaponized or used to speed our preparations, I want it secured before the scholars bury it in a vault."
+
+The officer inclined his head. "Understood, my lord."
+
+Hagen waited.
+
+The room's attention had already begun to drift, officers reaching for their own documents, murmuring to aides. The meeting was ending.
+
+Yet Hagen hadn't finished.
+
+He held the last page of the report between his fingers. The ink on it was fresh, the information recent. He'd debated whether to include it at all. In the end, duty won over discretion.
+
+"There is one additional item, my lord."
+
+Roderich's eyes returned to him.
+
+"Intelligence reports indicate that Kaspar has enlisted in the army."
+
+The room went quiet. But the quality of the silence was different from usual. It was as if the air itself had drawn a breath and held it.
+
+"He registered as a Schwarzling," Hagen continued, keeping his voice level. "Lowest rank. No magical classification."
+
+In the corner, Ameriz's composure cracked.
+
+It was small. Almost invisible. A sharp intake of breath, barely audible. Her fingers, laced in her lap, tightened against each other until the knuckles whitened. Her brow furrowed and gaze dropped to the floor.
+
+Still, she didn't speak.
+
+But Hagen saw it. The worry that bled through the mask for just an instant before she pulled it back into place.
+
+Roderich's reaction was different.
+
+His expression didn't change. Not a flicker of concern. Not a twitch of surprise. He received the information the way he received weather reports.
+
+He waved one hand in a dismissive gesture. "Continue."
+
+"He participated in the southern expedition," Hagen said. "He returned without injury."
+
+Roderich's eyebrow lifted by a fraction. "Did he distinguish himself? Any commendations? Awards?"
+
+"No, my lord. No honors were recorded. However, his participation in the operation should be sufficient to secure his continued enrollment at the Academy."
+
+Roderich was quiet for a moment.
+
+"Stop reporting on Kaspar."
+
+Hagen blinked.
+
+"Unless the report concerns a significant military victory achieved by him," Roderich continued, "or his death, I don't wish to hear his name in this room again."
+
+The words hung in the air.
+
+Hagen bowed. "Understood, my lord."
+
+He gathered his documents, turned, and walked toward the door.
+
+Hagen stepped through the heavy oak door and closed behind him.
+
+He stood there for a moment.
+
+The mirror on the opposite wall caught his reflection again.
+
+For the second time that day, pity stirred in his chest.
+
+Enlisted as the lowest rank. No honors. No one waiting for him to come home. He straightened his coat, adjusted the documents under his arm, and walked away down the corridor.
+
+The pity faded with each step.
+
+By the time he reached the stairs, it was gone.

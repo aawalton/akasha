@@ -1,0 +1,355 @@
+---
+id: f0ae61a9-945d-5e84-930a-06e4a70f15b6
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 511"
+slug: 0211-the-path-of-ascension-chapter-511
+partOf: the-path-of-ascension
+position: 211
+ownLength: 6719
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3826904/the-path-of-ascension-chapter-511"
+royalRoadId: "3826904"
+---
+
+Chapter 511
+
+Messages flowed from the inner to outer systems as the approaching vessels slowed, but while he was able to intercept them, he didn’t have the passkeys to bypass such strong ciphers on the fly. A portion of his subconscious immediately started on the problem, but he knew it wasn’t actually necessary.
+
+He didn’t need to see the message to know what the Collective elites were asking the survivors. It was clear as day from the way they flew in wide and erratic looping patterns.
+
+They were waiting for a trap or some other obstacle to pop out and take a shot at them. None came, because they hadn’t set any up, but he didn’t mind the delay as he used it to chip away at the encryptions.
+
+He felt that he was getting close by the time the ships edged through the aperture and through the other side to the outer system, but at that point, it was a purely academic exercise.
+
+The ships stopped well away from the still settling wreckage of the fortress world, the Empire armies moving in to take over the planet, and the three of them.
+
+Matt recognized and brought up all available information on the elite teams the moment he saw them.
+
+Ursa’s Fangs was a peak elite team comprised of three core bear bloodline members. They were, in turn, supported by a plethora of peripheral personnel that rotated enough between missions that he couldn’t make any sure assumptions on who they would be or what capabilities they’d come with.
+
+Given it was the start of the war, he had some guesses, but they were only that.
+
+The Valiant Sparks team wasn’t as mysterious, but they could be an even more annoying fight. Ilsa, the team's captain, was touching upon the threshold of pinnacle elite, but the rest of her team was comprised of high elites there to keep her from being overwhelmed. Some had their Aspects, but it was far from all of them.
+
+Matt idly rejected the offer from their own distant ship with their own pinnacle teams who were ready to run interference with one of the enemy to even things out. He wasn't arrogant, but this early in the war was the perfect, if not the only, time to make mistakes. They needed to fight with the other elites and see exactly where they lined up. And while they might not be the first two he’d have chosen, it was who’d arrived.
+
+Ilsa was the first two to speak as she and the other four core members of her team exited the ship. “Didn’t want to wait around for us to join the party? Where is the fun in that?”
+
+Matt wasn’t inclined to talk back, but Aster clearly was as she buffed her nails against her armor, snipping right back, “Oh, we were willing to play, but no one here was capable of keeping up. Are you going to change that?”
+
+Ilsa didn’t strike out with rage at Aster's barb, but she did fall into a more ready position as the Ursa’s Fangs lumbered out behind them, along with half an army’s worth of reinforcements.
+
+The non-elites immediately backpeddled away from the ship that had brought them and chose to set up where the Empire army had been camped out as the attackers not that long ago. It was all perfectly coordinated and showed how well trained and ready they were.
+
+No matter how their fight played out, someone would be trying to retake the fortress planet before too long. It was inevitable.
+
+Matt kept himself focused and ready until the two Collective teams surged forward. With that signal, he matched them.
+
+Aster and three Lizzes were close on his heels, the three of them charging right in against their enemies. But once the three of them were moving, they slowed down, letting him take the lead.
+
+A wave of twinkling light rippled out at them, crossing the massive distance in a blink, but he didn’t stop, slow down, or change his path. When he was halfway into the diffuse cloud it twisted into a conflagration of blue-white lightning that reached out and silently roared at him.
+
+The first blast hit him and [Cracked Phantom Armor] with enough force to penetrate the second outer layer. It failed to penetrate the first layer that was interwoven with his augment, but that single attack proved it and its caster's power.
+
+The second, third, and forth blasts never reached him as one of the Lizzes exploded into her own cloud of golden blood.
+
+Ichor wasn’t lightning, but lightning was a component of her higher Level mana type, which let her convert it into more Ichor should she be given a few uninterrupted moments. The blasts only served to supercharge that Liz, who unleashed the energy at the lead bear that looked more like a porcupine or armadillo, given its armor of metallic fur.
+
+It didn’t hurt them any more than it had Matt, but it signaled the start of the fighting as he reached his maximum speed, further widening the gap between himself and the rest of his team with each passing foot.
+
+Matt cast [Meteor Shower], aimed at forcing the Collective backline to scatter, but one of the mages formed an illusionary wall of wood that the earth portion of the volcano spell failed to penetrate. The remaining magical fire lacked quite a lot of its oomph without the conjured material giving it heft and weight, but he’d nearly arrived, where it became a moot point.
+
+Two of the bears and four human fighters moved forward to intercept him, while the final, smaller and thinnest, bear pulled back and started circling as they looked for an opportunity to attack Aster, or possibly an occupied Liz.
+
+Matt tracked their movements as best as he could and shared that with the others, but he didn’t have the spare attention to do anything more.
+
+Ferocious claws swiped out at nothing as a dozen crescents of mana sought out him and his flesh
+
+He picked two of the spell forms apart mid-travel, but let the rest splash against him and his armor as he closed the gap.
+
+The two peak elite teams tried to split and back away, trying to lead him along as they peppered him with attacks. They wanted to avoid him and his blade, but that threatened to give him a clean shot at their backline mages and supporters, which forced them back into melee with him as it became clear he wasn’t going to stop on his own.
+
+Despite their clear reluctance to engage, they were smart about how they did it.
+
+Devin, the Deep Steel Ursine, didn’t hesitate to use his Aspect and the world turned fuzzy around the edges as Matt felt his emotions threatened to boil out of control. Every movement and twitch threatened to turn into a sea of blinding rage, hate, and discontent that grew with each passing moment. The logical and rational parts of his Insight were even impressed by how the effect slipped around [Sharp Mind], which was meant to protect him from such intrusions.
+
+Not that it mattered any more. Matt didn’t want to attack the mages, he needed to kill that bear.
+
+[Mana Beam] turned the world blue-white for an instant as a paltry fifty million mana a second was converted into raw destruction.
+
+Through his own rage, he heard a matching cry but the anger didn’t lessen. In fact, it only increased as his thoughts hyperfocused on the enemy right in front of him as they tried to twist and spread the damage rather than let it build and penetrate.
+
+[Bulwark] blocked the wave of attacks that had been aimed to make him relent, but it did nothing to stop the ever mounting anger.
+
+Matt didn’t so much change direction as he bounced when he seemed to hit a wall only a few feet away from the bear. The sudden redirection put him next to one of the human high elite fighters who’d raised their greatshield.
+
+Teal light seeped out of their armor, covering them in a near match to his [Cracked Phantom Armor], but its purpose was lost on him as the cultivator exploded on impact. Only their head survived thanks to their armor cutting it off and flinging it to the backline before the damage reached it.
+
+Matt’s longsword vibrated midway through his swing, as if he’d struck a particularly solid material. In his rage, he hardly noticed and redirected the sword and much of its momentum in a sweeping motion around and behind himself. Unlike with a blade he could move like any common stick, his ultra heavy weapon demanded a more flowing style of combat to be utilized to maximum effect.
+
+At least, it did if he wanted to build and keep any appreciable momentum and speed during a fight, which he very much desired.
+
+He stepped forward, stomping the metaphysical ground and shoulder checking the invisible Tier 35 who’d tried to drive a dagger into his right eye.
+
+The enhanced weapon cut through [Cracked Phantom Armor] as if it didn’t exist, but it only managed to skitter along his reinforced skull before he hit them. They didn’t take the blow any better than their compatriot had.
+
+The assassin’s body, inherently weaker than the frontline fighter, exploded as it found itself briefly reappearing in front of Matt.
+
+The rage still burning bright, he stepped through where they’d been, activating his Intent for a brief instant on his left elbow. He used the anchor as another pivot point to dodge the ink dark crossbow bolt that tried to skewer him.
+
+As it sailed past him, he finally stopped pouring quite so much mana into [Cosmic Pressure], letting his weight return to a slightly more normal amount now that he was inside their battle line. He and his longsword were still by far the heaviest things on the battlefield, but not by quite such a ridiculous margin any more.
+
+The liquid mana stone inside the lattice core glowed slightly as he brought the blade around at Devin and his rage Aspect.
+
+The bear, having seen exactly what getting in front of his sword entailed, tried to dodge. His fur blurred with an aquamarine shimmer and his speed went from a relative standstill to full acceleration. At the same time, his body shrunk by ten percent as he tried to avoid Matt’s weapon.
+
+Both of them nearly succeeded.
+
+Devin’s right arm was simply gone, but he managed to protect his head. The other bear in the trio, Ripley, moved to cover his retreating form, silver and brown mana wrapping around their claws.
+
+Matt considered following, but two of the human melee fighters moved in and tried to crowd him, their shields up and glowing with what he suspected was their best defensive spells. They wanted to prevent him from building up so much momentum again.
+
+It was a good plan.
+
+Matt punched Ripley in the armored chest, earning a shocked and confused look as their sternum shattered under the innocuous looking blow. They’d understood his sword was heavy, that news must have rapidly spread across the entire battlefront.
+
+But they couldn’t comprehend him being that heavy.
+
+The others rapidly learned their lesson and avoided every melee attack Matt wove into the fight, whether it be from his sword or his body. He was far from the first super strong melee fighter, let alone Ascender, given Moe’s fighting style, and they were already adjusting their tactics to reflect best common practices. It became immediately clear the two were trying to play it slow and learn as much as they could before their defeat or deaths, which was noble of them.
+
+It was only then that Matt felt their personal Aspects come into play. He knew from the Empire’s reports the two of them had defensive Domains, but he hadn’t known what to expect while fighting them through his own nascent sense of that stage.
+
+They felt solid. Not exactly weighty, but their Domains and the training and lives that led to their Aspects gave them the skills and courage to try and keep him contained as the ranged combatants let loose.
+
+They wanted to capitalize on the distance he’d created with Liz and Aster during his headlong rush.
+
+It was the right call.
+
+It was also exactly what he wanted them to do.
+
+He wanted every eye on him. Not for his vanity or even his Intent, rather because after the changes to his fighting style, that was now his number one job in a battle.
+
+While his defence had always been impressive thanks to his plethora of skills and the amount of mana he could throw at them, his capacity for dealing out damage had outstripped even that by quite a wide margin with skills like [Mana Beam] and [Titan’s Wrath] that he could pour millions of mana into without blinking an eye.
+
+Through consuming an ocean’s worth of mana through the last five Tiers, his augment had long completed the agonizingly slow second stage of its growth, where his bones were encased in mana. The last two Tiers he’d started chipping away at the third stage, where his physical cultivation started receiving direct feedback from his growth item.
+
+The first sub-stage in the third had boosted his strength. JR had insisted on that being the foundation for the other boosts and he’d been right to do so. However, it had been the second sub-stage that he’d personally cared about. The weave of mana filaments had grown denser through his muscles and boosted his durability to a point where they perfectly matched his offence.
+
+Combined with the third sub-stage boosting his regeneration, the result was overwhelming.
+
+His augment had been intended to grow with him forever, and he’d be cooked and roasted if the bird hadn’t delivered on that promise as well as he had. He was only a toe into the fourth sub-stage, which boosted the physical flexibility portion of his cultivation. But as JR had promised, the results were amazing, even if the costs to grow each new stage were equally high.
+
+In fact, he’d only started making appreciable progress in the fourth sub-stage, after he’d Tiered up to Tier 35 and doubled his mana regeneration once again. He could grow more powers if he sat idle at one Tier for long enough, but with each new sub-stage, let alone full stage, came with a larger cost for the next. Cheating in new powers had consequences, and the price was scaled perfectly to him.
+
+Not that it was all bad. Following his current trends, he hoped to have the third stage completely finished by Tier 36 at the latest. But if they lingered at Tier 35 for any amount of time, it was possible he’d manage it then. As much as he wanted to rush, he knew how much things could change by the time his augment had finished boosting his flexibility and proprioception.
+
+At that point, when he’d properly finished the third stage, he’d receive even greater boosts to his physical prowess thanks to the augment boosting his baseline physical capabilities. He wouldn’t quite be in a league of his own at that point, but he’d be another step farther away from most others.
+
+However, such thoughts were far away from the current reality. He was content to have reached the durability sub-stage for the war.
+
+Matt could now do too much damage to ignore him, while at the same time being too difficult to take down without an entire team focusing on him. That conundrum could leave nearly any team in an impossible situation. In their current fight, his enemies only had a small glimmer of hope due to his headlong charge making a gap between himself and the rest of his team.
+
+They made the same choice he would.
+
+They unleashed everything they could on him now that he’d been momentarily halted.
+
+Perfectly in line with what he wanted to happen.
+
+The spells hit him in a near perfect order, speaking to the long training that had made the peak elite teams what they were. He’d expected nothing less.
+
+He’d long since passed the point in merging [Cracked Phantom Armor] and [Archmage’s Presence], where his oldest skill was a pure channel. It was one of the few modifications he rarely tweaked any more, having settled onto a configuration he liked. That modification had hurt the spell’s baseline efficiency, as he’d needed to abandon portions of the skill structure that had long become accustomed to his throughput, but it had been a cost easily worth paying.
+
+Even with the skills half merged, the uncapped amount of mana he could feed his defensive spell more than made up for any hit to its efficiency. If he wanted to be needlessly wasteful, he could now throw all of his free mana generation into his first skill.
+
+Sure, everything after the first billion or so mana a second was slamming into the same issue all channeled skills suffered from: efficiency curves. Others might have cared, but he didn’t. As a plethora of spells slammed into him he considered every inefficiency worth it.
+
+The second layer of his yet to be named merged skill was penetrated almost immediately, with the first layer and his augment’s barrier blocking the rest of the initial barrage. His Insight categorized each attack, their owner, their mana types, their mana type’s subaspects if discernible, the power of the spell, speed, maneuverability, and any personal modifications he identified, categorizing and updating their combat profiles in real time.
+
+Profiles he annotated before pushing out to Liz and Aster right before they reached the battle.
+
+A puff of white caught everyone in the melee off guard as the sound of breaking glass was transmitted through everyone's spiritual perceptions. The wisps of wind and ice mingled as they swirled together, forming invisible manacles around their wrists and ankles.
+
+[Headwind] slowed everyone on the other side down, resisting their actions, but it was the [Brittle Cold] hidden underneath the show that was the real danger. It weakened their opponents' Domains by a tiny fraction, creating cracks they could maneuver in. The upgraded Tier 14 skill had relatively little effect on their opponent’s Aspects. It would, at least hypothetically, require a Tier 50 upgrade orb to affect that Domain stage, and that was flatly impossible. Its presence still helped balance the field, even if it didn’t lessen the rage.
+
+Liz had split into five, but she’d empowered each to the max rather than going wide and spreading herself out further. Each of her was fully armored in a layer of golden feathers, courtesy of [Feather Armory], that culminated in twenty foot wings of golden, radiant Ichor. In other circumstances she’d be the center of the battlefield with such a display, but that was why he’d led the initial charge.
+
+Her golden blood made the [Golden Wings of the Phoenix] shine like something out of a fairy tale. At least it did to Matt. The Collective fighters didn’t seem nearly as impressed, as with each flap of her wings, Liz added in a splash of offence or defense as the battle required. Sometimes they struck out, cutting with their feathers' razor edges, other times they took the hits meant for her, widening into a dispersed scale armor.
+
+And throughout it all, each flap, twitch, and general movement offered her a chance to send a rogue feather at a distracted enemy. It would slip from its home nestled amongst its brethren and fly out like a dagger, penetrating any exposed flesh they could find.
+
+Individually, each attack wasn’t that scary, with the feathers being weaker than a typical elite’s [Mana Slash], but none of the Collective elites were foolish enough to take a hit they didn’t need to.
+
+Liz was still Liz, after all, and the Tier 35’s didn’t need personalized lessons on why blood mages shouldn’t be allowed to cut them.
+
+They got it anyway, whether they liked it or not.
+
+The lower elites who didn’t immediately deal with the golden ichor splattered on their armor, or worse yet wounded by it, found themselves being consumed as the Lizzes devoured them to fuel her. With each death, the five Lizzes grew stronger, faster, and got small bursts of mana that helped keep her in the fight.
+
+Not that she particularly needed the help.
+
+Liz had spent the last five Tiers adding Natural Treasures to herself via her cauldron, strengthening her physical body as the additional powers stacked slowly but surely, but what really helped her was the refinement she’d done to her ichor in those sessions. She’d reforged her blood in each batch, concentrating it down and making herself that little bit stronger.
+
+No single refinement had made a large difference, but their cumulative significance made itself clear as she overwhelmed one of the human high elites that wielded a greatsword. Her shield caught the first blow, letting it slide along the wide barrier as she used her wings to slip around the attack.
+
+In doing so, she took a spray of needles launched out of their armor on the shield, using its size to get in a thrust without exposing herself. The elite turned into the blow, correctly trying to maneuver around her shield, but Liz didn’t retreat in the face of his attack, she flapped her wings and charged the man.
+
+He didn’t explode as the one Matt hit did, but he failed to regain his footing and took two more spear thrusts in the confusion, one to the heart and one to the head, opening the battlefield to the rest of her.
+
+That Liz immediately turned and went for the prowling bear that had been lurking around the edges of the fight, while the remaining four split into two groups. Two of them did what he’d been doing and rushed the back line, forcing more of the auxiliary troops to move in to defend their physically vulnerable combatants.
+
+The final two split. One kept back between Aster and the rest of the battlefield, acting as a screen while using her position to launch ranged spells acting as their own team's ranged damage, while the other final Liz rushed to his side.
+
+Matt hadn’t made it through the concentrated bombardment of his enemies unscathed, far from it, but by the time he’d cleared the smoke and detritus from the plethora of mixed attacks with a pulse of his Concept, his enemies couldn’t tell the difference.
+
+At least, if they excluded his distinct lack of skin. He held [Regeneration] back with a mental twist, excluding that organ for the time being thanks to the help of a modification he’d eventually made. While it didn’t bother him, he knew that neither Aster or Liz enjoyed seeing his outer layers of flesh get stripped away over and over in a fight.
+
+And now that he’d revealed his augment there was no reason to hide its mere existence. Even if the Watchers didn’t directly peek, the spies that had no doubt hidden throughout all the battlefield systems would be recording everything they could, and at that point, it was moot. Talented researchers would soon be analyzing everything about this battle, looking for any weakness, crack, or flaw in his augment that could be exploited and used against him.
+
+Matt may have healed, but he’d still been injured.
+
+There was a tiny crossbow bolt lodged firmly in his hip bone, penetrating through the outer layer of his augment where it dumped a riotous mixture of toxins into his bloodstream and body. The damage was limited and ineffective, but one of the neurotoxins was at least new to him and he preserved a bit in a bubble of solidified mana before purging the rest with the help of his Millennium Willow Lifesap.
+
+He’d also taken a shard of solidified lightning in the throat that had been deflected from his head. Its structure had proven inherently unstable and it had fallen apart on its own after dumping its payload into him, letting him heal like normal.
+
+As had the [Mana Thrust] that had gone for his brain via the ear and failed to penetrate.
+
+That had been a good attempt, but like the others, failed to achieve anything other than temporary damage he could regenerate through. Even his augment suffered no longstanding damage thanks to how closely it was tied to him. Its crystalline structure reformed along with his flesh. So long as he didn’t lose any piece of it, his augment could reform as his flesh regrew and he wouldn’t need to regrow the inherent functions mid-fight.
+
+That didn’t hold true for any lost pieces of his augment. A crushed limb could be healed, a missing one was a serious issue.
+
+Which was why JR had made the augment the way he had. A good thing too, otherwise Matt would be a patchwork of buffs midway through a fight and that would get him killed before too long.
+
+The two bears, Devin and Ripley, had gotten themselves healed and rejoined the other two high elite humans, clearly intent on trying to mount a defence after that bombardment. Their horror and incomprehension to how he was standing without apparent injury after taking it were secondary to Matt moving again as their bodies reacted while their minds faltered.
+
+With a Liz next to him, Matt thrust forward and forced Devin to retreat an extra step backwards. That opened him up to an attack in return, but none of the melee fighters were willing to brave the distance, sending out their own ranged attacks.
+
+Matt took them, but Ripley’s claw strikes did serious damage, managing to carve chunks into his augment even from a distance and through two layers of armor. His cutting Aspect had no problems overwhelming Matt’s defences and Intent alike, but it still failed to fully penetrate, and as such he ignored the man, focusing on the more tanky peak elite.
+
+Liz closed in with the high elites, using [Ichor Crystal Armor] to harden her wings to block Ripley’s attack, trying to bait the bear in close where her spear could reach. He didn’t fall for it, but she never stopped her onslaught on the weakest combatants.
+
+Their momentum reached its peak, but that was where things started to shift.
+
+Devin, a dedicated defensive peak elite, roared in helpless rage, which only amplified the corresponding emotion in Matt as the bear dodged another slash from his longsword. Except, rather than accepting his death, his jaw started working as his presence on the battlefield blossomed like a flower in bloom.
+
+That didn't surprise Matt. Combat potions were far from rare, the three of them had tailor made concoctions to bring out their best for every fight, but they didn’t use potions that came with significant side effects like the one Devin had taken.
+
+He was already a peak elite fighting at full power, for him to blossom like that there had to be a correspondingly high cost.
+
+Temporary power always came at a price, and it was rare for the Great Powers to dole out such potions, which Matt noted for further investigation. He somehow doubted the Collective had suddenly reversed their policy in burning out their elites en masse. It was far more likely that they’d managed to reduce the side effects, or had a way to fix the damage, and that distinction mattered for the war effort.
+
+However, no matter the price, Devin wouldn’t have to pay if he was dead, and after using the potion, his chances of that skyrocketed. Sudden bursts of power, external or not, had prices and consequences. Some of those prices were as likely to kill the consumer as the fight itself but the chance was all most cultivators cared about mid battle. What came after would be what it would be.
+
+Matt thrust with his longsword and shattered the now steaming fur armor even as Ripely copied his teammate and enhanced himself.
+
+Liz turned to face the other bear as he skated around her, which the two high elites didn’t let pass unpunished. Their attacks were mainly blocked by her wings, but a few still landed and broke some of the feathers in her armor, penetrating deeper.
+
+They reformed, but the process wasn’t instant and took concentration.
+
+A wave of ice blurred the battlefield around them, but it was quickly repelled as the enemy side’s supports fought to keep Aster from interfering with their battle. It cost them everywhere else, but that was clearly a choice they were prepared to make. That choice meant her wind, ice, and winter elementals were given free reign, letting her dominate her battle with the ranged elites who couldn’t handle them and Aster’s debuffs.
+
+Matt was charging at Devin when he tucked his head between his shoulders as a bolt of lightning the width of his chest struck his upper body. Unlike the solidified bolt from earlier, the energy carried with it Ilsa’s Aspect of Destruction.
+
+Alone, it wasn’t enough to bypass his augment, nor would the removal of his head kill him with [Regeneration] running, but Matt didn’t want to confirm that so early in the war. Like his manifested skills, he was saving such tactics for hopefully never.
+
+Matt would love it if he managed to keep some of his hidden cards hidden, and as such he protected his head. That, and he didn’t need anyone, not even a feathered Tier 50, to remind him that losing his head was a bad habit to get into.
+
+At the same time, Ilsa finally managed to break away from the Liz she’d been fighting with the help of a pair of high elites as they entangled her with chains of light and dark gray respectively. She almost immediately got free, but it had still been enough for Ilsa to change battles and add her efforts to the fight as it reached a pivotal tipping point.
+
+If the two of them lost here, the Lizzes in the backline would be at risk of being overwhelmed, and that would open up Aster to reprisal from the bear the first Liz was chasing around the battlefield.
+
+If.
+
+Devin’s metallic fur bristled with lightning as a cloak of the element settled over him, but Matt noticed that he hadn’t been boosted further, adding to the information on their new potion. The same size was small, but he’d bet that whatever boost was only actually safe for bloodline cultivators.
+
+Even with that added layer of defence, Devin chose to dodge Matt’s next few swings as he tried to separate Liz from him. That was until he took a glancing blow on a leg that was too slow to get out of the way. The bone in said limb shattered under the strike, but without enough room to build momentum, there hadn’t been enough power to obliterate the man’s limb.
+
+That gave Devin confidence.
+
+That nearly got him killed.
+
+Ilsa reacted Matt’s longsword’s liquid mana crystal flare to life first. Her fluctuated, “Dodge!” had barely echoed across the battlefield as Matt’s blade turned into a bonfire of blue for an instant.
+
+[Titan’s Wrath] had been created by merging three of Matt’s oldest and most commonly used skills: [Mana Slash], [Mana Charge], and [Tribulation Strike]. It was that last one that must have tipped Ilsa off, which saved both of their lives.
+
+The crescent of mana was superficially similar to [Mana Slash], but the arc of mana was much more concentrated and condensed than the original skill ever could have managed when cast with nearly two hundred million mana. This crescent was only as thick as his arm, though what it lacked in width it made up for in length, being fifteen feet tall, with the last two on each side being nigh invisible tails there to cut anyone who didn't quite dodge far enough.
+
+That was why he’d added [Mana Charge] to the mix.
+
+Devin activated [Back Blast] and what looked like an earth modified [Reflect], but neither stopped the crackling arc of energy that covered the distance far faster than any [Mana Slash] ever should as it cut him in half from shoulder to groin. Without Ilsa’s warning, Matt would have split the bear's head as well, but he was still content with the result.
+
+Reversing course, Matt raised his blade, bringing his downward chop back up as quickly as he could possibly move such a heavy object.
+
+[Mana Charge]’s addition meant that the slightly lesser glow that lingered on the blade wasn’t just a residual charge to give him more close range attack power. It was that, as he’d wanted to ensure he wasn’t losing damage in melee while attacking at range, but it wasn’t only that. It was also a second charge.
+
+The second crescent wasn’t quite as large as the first, but it was still more than enough to send Ilsa scurrying away and back out of their battle.
+
+Not that it mattered.
+
+Matt thrust his sword again before dropping it low and bringing it back up around in a large windmill. However, instead of aiming at any of the Collective fighters, he swung it down on the Liz that seemed to be skirting by him as she followed Ripley and the high elites splattering her everywhere.
+
+Droplets of blood clung to their enemies, even as their armor activated defence measures against her Ichor. Ripples of a silver sound magic radiated off of all three of them, which made the droplets of Liz quaver for a long moment, but her physical form was too robust to be destroyed with whatever automated defence the Collective had come up with before this last war.
+
+Matt didn’t miss the effect it did have however. He knew that one of their next battles, if not the very next, would see such counters improved and refined further until they worked or proved unviable. Then the race would resume.
+
+They would just have to ensure they kept a step ahead of their enemies.
+
+Not that the future did their current opponents any good. One of the high elites died, but the other managed to activate a helmet teleport, in time to save himself.
+
+Ripley wasn’t so lucky as the main target.
+
+The bear was covered in golden blood.
+
+The larger collections stretched up until they trembled with the exertion, before solidifying and driving their dagger-like forms deep into him. The smaller drops simply burrowed deeper, trying to reach vital organs and cause distractions, but destroying them was all the harder due to their digging.
+
+Others still snaked towards orifices, looking for much more direct paths to the brain.
+
+Ripley tried to activate a wind aura escape talisman, but a drop of Liz that was nearby on his ear self immolated and destroyed the talisman before it could be activated.
+
+Devin’s fate wasn’t any better, only delayed.
+
+Matt never stopped moving, gathering momentum but not weight. Instead of getting heavy, he pushed the other way, making himself as light as possible. He was still far, far heavier than most people, but he deliberately closed the gap as much as he could.
+
+As his and his longsword's weight decreased, the rate at which he gathered speed increased proportionally.
+
+Even empowered with [Archmage’s Presence], his muscles and bones screamed as he flipped the switch, increasing his weight as high as he could as fast as he could. His longsword’s trajectory twisted slightly as he pulled.
+
+It came down on the boosted bear, ending him and his aura of rage. What remained of his still reforming body was destroyed for a third and clearly final time as the healing cooldown made his flesh regrow mottled and waxy, singling the end.
+
+A part of him was tempted to ignore the surrender and finish the bear off, but he refrained.
+
+Continuing to move through, he saw the backline where Liz had things handled. One of her had lost a wing and the other had already consumed the energy in her shield to create a bubble barrier as she closed the distance with the remaining backline fighters.
+
+He helped by sending out a wave of [Gravitic Bolt]’s, the nigh invisible projectiles punching though anyone not heavily armored or perceptive enough to be ready for the blow. [Telekinesis] was thrown in for good measure, but mainly to keep formations disrupted without overplaying his hand with the nigh invisible spell.
+
+Not that Aster or Liz needed much help with that. Between the two of them, they’d cut a swath through the backline, but it was the towers Aster pulled out of her spirit space that caught his eye for a brief moment. They were relatively simple automated defence constructs that had been modified to work with her skills. They acted as relay beacons which let her cast specific spells with nearly full power from them instead of herself.
+
+It was one of the many tricks she’d learned from her spirit space forum, and one that Matt had enjoyed tinkering with as they’d prototyped the original design.
+
+He was glad to see them working properly in a real fight, extending Aster's effective range to anywhere she was able to extend her spirit space for even a few seconds.
+
+His attention was pulled away as another wave of ice radiated outward. It wasn’t Aster’s spirit space, rather it was a bus sized [Airsnow] that had detonated midway through the battlefield.
+
+The wave of ice and snow further slowed their enemies while leaving Matt and the Lizzes unaffected as they chased down the last coordinated resistance.
+
+The fight wrapped itself up shortly after, with the final few elites either escaping or surrendering. The battle had been decided, and he wasn’t eager for blood without Devin pushing his emotions. While only Ripley had died out of the peak elites the other two bears would need decades to recover from the healing cooldowns they’d be left with which was enough to make it a firm Empire victory. Ilsa had made it out with only moderate wounds from her initial fight with Liz but she was fast enough it wasn’t worth chasing her down.
+
+Matt took a moment to analyze the fighting, going over every move they’d collected and highlighting their successes and their mistakes. He’d initially made the mistake of only collecting data on the latter, but that much negativity had dragged even Allie down. After that, he’d started calculating both sides of the equation just to keep things even.
+
+It did actually help to remember that for every mistimed strike or missed opportunity, they’d made five other successful ones. The failures still needed to be addressed, but they’d only get better by identifying and improving.
+
+Sadly, it was only one fight on a border region that had already over five hundred active battlefields spread across the Tiers. There were ‘only’ seventy four battlefields designated as Tier 35 at this point, but they were spread out as befit their position as the peak most Tier.
+
+That, and the war was only just getting started. They’d missed such early battles during their first war. But for the Great Powers, the first few years of the war were the lightest they’d be until the minute they ended.
+
+They’d fought and defeated two peak elite teams, but the survivors would be healed and repurposed into other teams, where they’d be sent out again and again. Over and over until enough people had died that both sides decided to call it quits.
+
+Matt didn’t like it, but he had no better answers.
+
+Not that he’d have much time to dwell on it.
+
+Ascenders were needed everywhere during war, and as such, they were on their way even before the dust properly settled. They embarked on their ship and headed for chaotic space.
+
+This singular battlefield may have been won, but a dozen more might have changed hands during the same time. They needed to move and keep moving as they worked to patch holes and put out fires.
+
+That was the role of an Ascender. The sharpest blade in the arsenal wouldn’t be left in the drawer. It couldn't be. Not at a time like this.

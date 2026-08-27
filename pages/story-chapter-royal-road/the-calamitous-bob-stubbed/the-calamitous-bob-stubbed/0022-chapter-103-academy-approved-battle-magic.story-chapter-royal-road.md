@@ -1,0 +1,607 @@
+---
+id: 6385dbd6-cc17-5b24-93ec-56800e607ef6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 103: Academy-approved Battle Magic"
+slug: 0022-chapter-103-academy-approved-battle-magic
+partOf: the-calamitous-bob-stubbed
+position: 22
+ownLength: 5947
+unit: words
+ownProgress: 5947
+publishedAt: 2023-01-27
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1098446/chapter-103-academy-approved-battle-magic"
+royalRoadId: "1098446"
+markedReadAt: "2026-06-29T21:15:27.336Z"
+---
+
+“You are not using battle magic,” Leit insisted as he worried his hands. “The guild has strict guidelines on hostile negotiations. If there is any sort of problem, we cut our losses and let their recovery division handle it.”
+
+Viv looked up from the polished deck, where she and Sidjin were busying themselves tracing a complex array.
+
+“Sure,” she said. “You do the negotiations.”
+
+“We won’t stop you,” Sidjin added.
+
+“In fact, we’ll cheer for you and be supportive.”
+
+“We hope you succeed!”
+
+“All the best to you.”
+
+Then the pair returned to their tracing.
+
+“This is technically destruction of my property,” the poor merchant mumbled without conviction.
+
+"Normally, a fourth step war mage would charge upward ten gold talents for a semi-permanent defensive array,” Sidjin mentioned off-handedly.
+
+“For now,” Viv added. “It’s a shield, not a weapon. Think of it as, uh, plating.”
+
+“Besides, if someone spots it, it means they’re on your deck and by then it’s a bit late, don’t you think?”
+
+The merchant didn’t seem relieved.
+
+“Look, passengers have a right to defend themselves if assaulted, right? And it’s not your responsibility if and when they do, right?” Viv asked again, this time trying for the legal angle.
+
+The merchant stopped, then made to talk, then reconsidered. Finally, he shrugged.
+
+“This is technically correct. HOWEVER! However, if you attack the other party, then they will destroy this ship as retaliation.”
+
+“They can certainly try,” Sidjin mumbled.
+
+“If it’s about money, we can give it to them and have your recovery team compensate us later, yes?”
+
+“Well yes, minus the fees,” Leit agreed.
+
+Viv glared.
+
+“Very reasonable fees, for expenses you see. But if the recovery division makes a surplus, the fee is waived!”
+
+“What my companion is trying to say is that we will not interfere with tariffs, no matter how cutthroat they may be. It is the potential other demands we are concerned about,” Sidjin explained.
+
+“Other demands? Why would they make other demands?”
+
+Both of the casters sighed with eerie synchronization, sending a chill down Leit’s spine.
+
+“Call it intuition,” the witch said.
+
+“Or the strength of experience.”
+
+“Squee!” Arthur added with definitive conviction.
+
+Leit had a terrible feeling about this.
+
+***
+
+The River Flower sailed down the Shal river like the cautious fat lady she was, her holds filled with legally acquired and properly documented goods of dubious origins, all within guild guidelines of course. The mood aboard was grim. Most of the crew had not been allowed to get on shore leave, and the news of new negotiations filled them with dread. Sometimes, bandits and criminals loved to make a statement. Said statement would lead to a short visit by the recovery division, following which the river bandits would behave for the five years it took for someone more ambitious to get on top of the backstab pile. Then it would start all over again.
+
+The knowledge that one’s death would be avenged was of little value to these simple sailors. They would very much prefer to be home safe, Viv could see.
+
+She had no intention of letting anyone die. Not anyone on her side, at least.
+
+She was also reasonably certain the proverbial would hit the fan, and as for justification for her belief, the arguments were thus.
+
+Argument number one: the divine spark of luck.
+
+That was it, really. The spark was both a necessary and sufficient cause for worry. Realistically, there were the questions of bounties, grudges, slavery-driven profit, greed, insanity and so on, all valid reasons, but the spark was the root of all evil. And most of the good, to be fair.
+
+It was said that Emeric became king of the gods on luck, but Viv didn’t believe that. He must have been given opportunities and seized them. Luck here was not a boon, it was a crucible. Viv didn’t intend to flush away with the slag of history, so she was condemned to greatness. And overwhelming violence.
+
+The image of Solfis’ yellow glare made her miss the old AI. She hoped he and Marruk would find a way to get in touch. The bank would let her transfer money to them, if they needed it. Without her, they were also at much less risk. She should not worry too much.
+
+“An iron bit for your thoughts?”
+
+“I have left friends behind. And acquaintances back in Kazar. I miss them. I’d feel much better if they were here. Oh, please don’t take from that I do not appreciate your company.”
+
+“I assure you, my ego can take much more than this.”
+
+“Oh good, because I wanted to address the question of concubinage.”
+
+Sidjin’s nonplussed expression satisfied Viv. It meant her attack would take him by surprise.
+
+“You see, you are, by your own confession, an ex prince.”
+
+“Viviane?”
+
+“While I rule over a large territory. I even have a loyal army. And a council.”
+
+“Viviane, no.”
+
+“My path is even that of the Lost Heiress.”
+
+“I got your point, thank you very much.”
+
+“So what do you think about Head Hunk as a title? Chief Himbo? His Sexyness?”
+
+“I regret everything.”
+
+***
+
+The ‘private pier’ requested for the meeting was barely more than a rickety jetty thrown across the muddy waters. The pontoon itself showed some rather inventive designs in Sidjin’s far-sight spell, including an articulated part hinting at its temporary and ultimately movable structure. Viv thought it was neat, even though the circumstances were not.
+
+A welcoming committee lounged across the glade at the end of the pontoon. There were no crates of supplies, but there were horses and one cage. Every fiber of Viv’s being recoiled at the sight, and she promised herself she would die swinging rather than allow herself to be captured. Or perhaps the cage was for Sidjin, who probably had a bounty on his head. She turned to him and saw the tense expression under the calm demeanor. Her friend was on edge.
+
+She grabbed his hand, which he squeezed. The heat of his skin radiated up her fingers.
+
+His shoulders relaxed ever so slightly.
+
+“Neither of us is getting into that thing,” Viv said, and the implication was clear.
+
+“I have not just recovered my appetite to see it wasted on prison food,” he joked.
+
+Behind the joke, they were of one mind.
+
+“Right. Arthur, darling.”
+
+“Squee?”
+
+“Those are bad people, and we don’t know if they want to attack us or merely try to scare us.”
+
+Kill them.
+
+Burn them.
+
+Take their gold!
+
+“They’re probably too poor to have gold, I’m afraid.”
+
+Meat?
+
+“Stringy and stinky.”
+
+“SQUEEEEEEEEEE.”
+
+“I know, I’m frustrated as well. But I have a task for you, if you don’t mind. People might try to climb aboard while we talk. Could you pick them off the hull if this happens?”
+
+Kill?
+
+“Yes.”
+
+“It soothes me to know we have the terror of the sky looking after us,” Sidjin said. “Please accept my appreciation.”
+
+The canny man ceremoniously offered a string of monster meat jerky to the dragonette, who munched it with all the dignity she could muster. Thus adulated, She-Who-Feasts-On-Spider-And-Gets-Much-Gold took to the big blue above, to start her squealing vigil. Viv’s heart grew more peaceful.
+
+“How dangerous is she, really?” Sidjin asked.
+
+“Arthur is a tiny disaster when she gets in the mood. Honestly, I’m not even sure how she can be taken down. Even a skilled archer would struggle.”
+
+“Are you not afraid for her?”
+
+“I am, but she’s not a human child who needs guidance for over a decade. She’s a juvenile dragon. It’s already a miracle we can work together and communicate. I think, one day, she’ll just leave. Try to find her own kind. I just adopted her. I’m probably not even that good of a mom.”
+
+“You saved her life didn’t you?” Sidjin asked.
+
+“Well, yes.”
+
+“Then it’s a good start.”
+
+He sighed, then looked at the quickly approaching pontoon.
+
+“Were you trying to distract me?”
+
+“Trying?” Viv asked.
+
+“Thanks.”
+
+The River Flower slowed down to a stop. A pair of worried sailors lowered the gangplank, then withdrew to a position near the sails, ready to leave on a moment’s notice. Viv made no effort to approach. She wouldn’t be leaving the ship.
+
+Mouq’s number one rule about getting out of an ambush was: don’t get fucking ambushed you dimwit. This felt like an ambush and she had the advantage while on the ship, ergo, she wouldn’t take a step out of that arthritic tub. If things turned sour — and she felt they would — it would be preferable to stay aboard and to keep it mobile.
+
+The thugs had noticed her presence. Viv counted twenty-four including nine archers and, unsurprisingly, one caster who felt like reliable earth and free gray mana. While the rank and files feigned nonchalance, a group of three walked the pier. Viv inspected them.
+
+[River Mage, dangerous, one who specializes in water and air manipulations.]
+
+[Unseen Arrow: very dangerous, one who specialized in shooting unaware targets from the shadows.]
+
+[Blade of the Night: very dangerous, an assassin specialized in close quarter combat.]
+
+All of them shared the killer trait, meaning they had taken quite a few lives over the years. The inspection also confirmed what Viv thought: her skill assessed the danger potential of each target not to the world in general but to her specifically. A knight like Lorn, the Kazaran temple captain, would probably stand a better chance against the assassin than against the mage. To Viv, a blade in the back was eminently more dangerous than a spell to the face. The spell, she could block.
+
+What the inspection skill did not return was how young they were for leaders. The mage took the right, and he was a handsome lad with a square jaw and a scar running down his cheek. His robe looked ratty and pieced together from spare stuff, but she could also see a hint of mail under some of the folds. The archer was a woman with a short bow and a tightly fitting gambeson. She had rings under her eyes and a sour expression. The assassin took the center, clad in a dark armor of superior make, which felt enchanted. Viv could see a lot of dark metal, and yet the woman walked in perfect silence. She was also striking, with large, slightly manic brown eyes and a great many tattoos. They didn’t look a day above twenty-five. They also looked cocky and bored, a dangerous mix. For them.
+
+“Welcome to our little party,” the assassin said, spreading her arms. “It’s so good to deal with proper businessmen. Why don’t you come and join us so we can have a little talk?”
+
+“Of course,” Leit said. “I’m sure we can reach an agreement between civilized people.”
+
+He made for the gangplank until the assassin turned her gaze on Viv.
+
+“You too,” she demanded.
+
+“I’m fine where I am, thanks.”
+
+“That wasn’t a suggestion.”
+
+The mood turned instantly heavy. Viv felt intimidation brush against her soul. It was pretty good, but it felt… blander than her own, more built up on repetition than on meaningful displays. In any case, it wasn’t even close to making her sweat.
+
+“I said, I’m fine where I am,” she replied.
+
+“Oh, you’re a feisty one. Our boss likes feisty ones, don’t he, lads?” she asked, and a few people laughed nervously. Viv wasn’t duped. They felt wary.
+
+“I’m fine where I am. You can say your piece here.”
+
+“That’s the thing, honey. The ship is one thing but there’s something that’s piqued our interest. You see, Darla here said she watched you go into a temple with a cripple, absolute wreck of a man, and when he came out, he was less of a cripple.”
+
+Viv bristled. The term the assassin had used in Enorian was extremely insulting, especially in a culture where the man was expected to provide and fight. She didn’t like her boyfriend being insulted. Not one bit.
+
+Unaware of Viv’s mounting anger, the assassin kept talking.
+
+“So here’s the thing. A little bird told me the temples are in a tizzy, see? Someone came up with a way to regrow limbs. I’m sure you can imagine there are a lot of limbs to be regrown around those parts. It would be a flourishing business and also help the needy, as you can imagine. Lots of demand all around. My boss would like to create a, errrr, favorable business environment for the healing, yeah? So you’ll come down and discuss it.”
+
+Before anything else, Viv turned to the acher.
+
+“How’s the butt?”
+
+“Bitch!”
+
+“And I suppose,” Viv said, returning her attention to the assassin, “that the cage over here would be my carriage?”
+
+“Only if you make things difficult, otherwise we’ll be happy with this,” she said.
+
+Manacles, the magical kind. Viv remembered those were very expensive. You didn’t spend that much resources on a temporary investment.
+
+So yeah, no. She’d fight that to her last breath, if that’s what it took.
+
+“I’m not placing myself at the mercy of a crime lord, not now, not ever.”
+
+“Look lady, it won’t be slavery either. You’ll get a fair share of the profit and we’ll let you go when you become too important for us to keep. Someone’s going to try and use you anyway, might as well be us because we’re far from being the worst out there. Not that you have a choice.”
+
+“There is always a choice, and my choice is not to be used.”
+
+The trio was clearly losing patience. Leit was slowly retreating up the plank, his face ashen. As for Sidjin, he was letting Viv take the lead. Viv felt more than saw his focus shift from one group to another, making sure no one attacked her by surprise. Viv also felt a lot of mana coiled within his being, hidden by a shield. He was letting her know, but she’d bet a hand the river mage had no idea. This was the level of control he had.
+
+“Lady, I don’t know where you come from but this here is Markeis land, not your pampered backward shithole. It’s the real world. You’ll find that your fancy hair dye and nice clothes won’t count for shit when I have my blade kissing your throat, you hear?”
+
+Viv judged here and there that diplomacy would lead nowhere. There was still a chance to force them to back down, however, and that was better than a fight. Fights were messy affairs.
+
+“A glorified street thug telling me I need to see the world? That’s rich. You got it backward. Markeis is the isolated backward shitstain on Enoria’s knickers and you lots are just gnats feeding on it. You have seen nothing of the world… yet.”
+
+Viv cast the sneaky cloaky, slowly letting the solid black mana cover her form. She didn’t see herself, but she knew from the village that the sight could be intimidating. Black tendrils coiled out, seeking through air like lampreys.
+
+“You are not the big players here, you are street scum so out of their depth you can’t even comprehend it.”
+
+She cast a telekinesis spell and the manacles lurched out of the assassin’s grip, her reflexes working against her as she let go to grab at a dagger. Viv grabbed the purloined restraints. The thugs were going for their weapons. She raised her new hive shield spell. The intimidation might still work.
+
+And then Sidjin’s first strike hit the shore.
+
+The explosive spell obliterated the entire pier and parts of the glade beyond. A cloud of wood shrapnel and red mist expanded out in a cone. The shockwave hit Viv like a punch.
+
+Of the archer and the mage, there was nothing left.
+
+The sheer surprise stunned Viv for an instant, then the first arrows plinked uselessly against her magical shield. Compared to the javelins Enorian military archers shot, those were barely mosquito bites, but she didn’t lower her guard. The assassin had instantly drifted out of the blast zone. A string of darkness threaded after her, showing her movement. Viv cast a net at her. The bands of black mana arched after their target, but the assassin used a skill and disappeared.
+
+Slippery.
+
+Viv focused on the archers next. Her net took into account the nimble warriors’ flexibility, cutting their escape options before skewering them. The last of the thugs were running for their lives into the nearby woods.
+
+There was a terrible screech, a white blur, and the sound of flesh being submitted to forces it was not designed to withstand. A human voice screamed but it was cut short by a wave of heat. A last arrow clanged against a much larger shield surrounding the ship. Sidjin had rushed to the deck circle and placed the ship in a protective bubble.
+
+Arthur’s head popped over the railing.
+
+“Squee!”
+
+“Thank you,” Viv replied, “but…”
+
+She leaned forward and saw a trail of blood on her left, with the assassin’s corpse slowly sinking in the mud. On the right, an enterprising  fellow had tried to scale the wood and been scorched for his trouble. There was also smoke and, yep, the ship was burning.
+
+“Arthur. You set our ship on fire!”
+
+Enemy!
+
+“You burned the enemy and the ship too.”
+
+“Squee.”
+
+“We are on the ship!”
+
+The dragonette sheepishly moved her clawed hand. Water formed a depression, then a wave brushed along the hull, covering the small fire. It faded for an instant but the embers immediately started to smolder after the water was gone.
+
+“Squee.”
+
+“Arthuuuuuuuur.”
+
+There was a burst of magic from the central circle and the fire petered out. Viv and Arthur glanced at Sdjin, standing in the middle of the circle with dignity.
+
+“The great Arthur has no need to trouble herself with this task. I anticipated that we may be fired upon — pun intended — and added a few defensive measures. Although, your fire is several times stronger than what human mages could manage so please refrain from hitting us in the future.”
+
+The mighty She-Who-Feasts-On-Spiders-etc consented to it with a graceful wave of her sinuous neck.
+
+“So…” Leit said.
+
+The shore was the scene of the most savage devastation.
+
+“So yes. The negotiations, ah. Right. Say, your marsh drake, or what I thought was a marsh drake, is a marsh drake, right? Marsh drakes blow fire. Correct?”
+
+Qualifying the little menace as an ‘arson gremlin’ seemed ill-advised at the time, Viv judged.
+
+“I mean, the evidence is in front of your eyes,” she bullshitted.
+
+“Yes. Obviously, she cannot be a dragon,” Leit said.
+
+“That would be insane.”
+
+“Yes, well…”
+
+A distant tree crashed down.
+
+“I suppose we should be on our way then?”
+
+“That might be wise,” Sidjin said, looking behind.
+
+Viv pocketed the manacles just in case, though she was also considering dropping the cursed thing at the bottom of the river. She was disappointed when she realized that besides telekinesis, none of the spells she’d practiced could compare to shaped black mana when it came to battle. She would need more time. The manacles were a nice acquisition, however.
+
+“It appears we have picked up a tail,” Sidjin said.
+
+Behind them, two fast ships appeared from behind a bend. There were also three smaller skiffs that moved as fast as modern jet skis. Each carried a pilot, a mage, and a couple of archers. They all bore a crest like a shield with a fish on it.
+
+“I think we’re being pursued by the law,” Viv idly commented.
+
+It was her first time. Technically.
+
+“I know, exciting, isn’t it?” Sidjin added.
+
+“Oh dear oh dear oh dear oh dear that won’t do at all,” Leit said. “By guild rule, I must stop!”
+
+“Those are clearly criminals in uniform. They would have attacked us if we didn’t refuse to be kidnapped,” Viv said.
+
+“Irrelevant to the situation,” Leit said as the skiff made a quick approach.
+
+“Don’t you have a duty to protect your passengers from harm?”
+
+“Well… yes… within reasonable limits.”
+
+“Those are reasonable limits, we just need you to keep going.”
+
+“Think of it this way,” Sidjin added with a pleasant voice as he poured mana in the circle. “We won’t allow ourselves to be taken, so if you still want a ship at the end of the day, you’d best move, yes?”
+
+“Oh dear. The guild won’t like this one bit. Very well. Full sails!”
+
+The cry was picked up by the few sailors remaining on deck. Others rushed out of the hold and busied themselves doing sailor things. It mostly involved undoing knots, that Viv could tell.
+
+Meanwhile, the skiffs were getting close now. One of the mages cast a spell and his authoritative voice carried over the Shal river.
+
+“We have found you in violation of the law of Markeis. Drop anchor, lower your weapons, and prepare to be boarded.”
+
+“Oh, oh, oh, can I tell him no? I’ve always wanted to do something like that,” Viv said.
+
+Sidjin nodded, clearly concerned, but Viv merely used a voice enhancing spell and clutched the railing.
+
+“ANY OF YOU FUCKING PIGS MOVE, AND I’LL EXECUTE EVERY MOTHERFUCKING LAST ONE OF YOUS!” she roared with excitement.
+
+Sidjin sighed and raised the shields. It was probably an outlander thing.
+
+***
+
+In the dark recesses of a lightless, confined space, a pair of yellow eyes lit up. The ancient mind behind those ominous orbs inspected a new addition to its charge’s profile.
+
+New Title added: Anarchist
+
+//NO.
+
+//DO NOT TRY ME, DEAD ONE.
+
+The title faded away, having fulfilled its function. Nous, God of Magic, would never let his own death get in the way of a little bit of trolling.
+
+***
+
+Viv’s first spells hit one of the agile ships, despite the pilot’s desperate attempts to stop her. One of the nets killed an archer, but the mage reacted fast. He lifted a hand, and a black mana shield blocked her next spells.
+
+“You are insane!” the mage screamed, spell still active.
+
+Several offensive spells launched towards her, but Sidjin’s larger shield blocked them without issue. The skiffs activated something, and a blue, watery shield expanded over them. A net from Viv penetrated only lightly, and the damage was almost instantly repaired. Nevertheless, she could have killed another man if she had aimed a bit lower and the three fast boats sailed away towards the other shore, never slowing down. At least, they could not attack the other side of the River Flower since the old ship was still very close to the edge of the river. Viv switched to blast and fired once, arcing her projectile to hit the ship’s center, realizing it could only move forwards and to the sides.
+
+The smaller ship stopped where it was and let the spell land harmlessly in front of it.
+
+“Wait, those things have brakes?”
+
+“The blue mages use their power to stay mobile, but it’s tiring business. Keep the pressure on!” Sidjin advised.
+
+Their foes looked like they were changing tactics, seeing how useless attacking the Flower itself was. Viv shuddered to think what would have happened if they hadn’t prepared.
+
+Their new strategy involved a massive wave, which they were building up farther and to the right of the River Flower. The depression in the otherwise flat waters looked extremely strange, as if a turbid ocean had suddenly come from across dimensions. Viv realized the danger. Even if the wave didn’t sink the ship, which Viv didn’t think it would, the three fast crafts merely had to delay them until the heavier ships caught up to them.
+
+They charged towards Viv, tidal wave in tow.
+
+Which also made them much easier to hit. Viv waited, then arranged three blasts which she shot at the same time. The lead skiff tried to dodge and caught two instead. The ship disintegrated, though the mage and one of the archers managed to dive in time. The other two split up once it became clear inertia would do the job for them. Viv watched the wave approach and realized she was without recourse, once again. Fortunately, she was not without allies. Sidjin’s circle flashed blue and the waters around it settled immediately. Only a tiny joke of a ripple came to lick the River Flower’s Hull. Viv was aghast.
+
+“Did you think of everything?” she asked Sidjin.
+
+“I have something against wind attacks as well,” he replied.
+
+The worst thing was, he wasn’t even smug about it. Perfect preparation was just a matter of fact.
+
+“Okay then,” Viv said, then she returned her attention to the two surviving skiffs. She targeted the one who had raised the black shield earlier, casting in quick succession. As expected, the first blast was blocked by a black mana shield, which made it perfect when the yoink hit.
+
+The expression of pure bafflement on the mage’s face was a memory Viv would cherish for a long while.
+
+The next blast took the mage’s hand with it. He screamed and the fast craft came to a stop. The last one disengaged.
+
+The two larger ships didn’t give up the chase. They were quickly gaining on the Flower. Viv walked to the stern and watched them approach.
+
+“Can’t we go faster?” she asked Leit, who was standing in the middle of the deck with fear-tinged dignity while his crew did their best.
+
+“We will not outrun them,” Sidjin replied.
+
+“It is as the good mage says, I’m afraid. Patrol ships are designed to catch up with all but the fastest transport ships. They are not even at full speed right now. I fear… a confrontation will be inevitable.”
+
+Leit’s next words were interrupted by a loud clang and Viv turned just in time to see a flash of metal. She reflexively shielded, but she was not the target this time.
+
+Sidjin lifted a fist and punched forward. A woosh of displaced air heralded a terrible impact. Wood groaned, and only Viv’s reinforced reflexes prevented her from falling. She looked down to see a harpoon smacked sideways into the hull. The shaft had only dug a few centimeters in, thankfully. If it had been the tip going in first, they would have had trouble.
+
+A chain followed the harpoon, attached to the ship behind them. It was already growing taut.
+
+“You stopped that?” Viv wondered. The projectile was clearly enchanted to the gills.
+
+“No, I attacked the chain. It’s not enchanted after the first ten links or so.”
+
+“Oh,” Viv replied.
+
+She blasted the chain and cut it cleanly.
+
+“That will work nicely. They can still catch us, however,” Sidjin said. He calmly walked down and returned with a metal plate engraved with symbols.
+
+“Is that our spare heating plate?” Leit blurted.
+
+“Yes.”
+
+The mage threw it in the water.
+
+“I can reimburse you?” Sidjin suggested.
+
+“At this stage, I think I can justify it as a business expense.”
+
+Viv was about to ask a question when a panicked sailor burst out from below deck.
+
+“Something’s eating into the hull! We have a breach!”
+
+Viv’s mind went into overdrive. She leaned over the railing the sailor was pointing out and saw absolutely nothing.
+
+She could, however, feel the blue mana being hurled at the wood. It felt constructed.
+
+“It’s the mage we sank, the first one.”
+
+“Alas, protective domes seldom extend to the lower part of the hull. Can you handle it?”
+
+Viv thought. Her disintegration mana was strong but also indiscriminate. It would disperse against the water before she could cover the bubble of blue she felt under her feet, and that was before she got through the bubble the mage used around himself not to drown. She imagined fighting a blue mage near water would universally be considered a bad idea, but it was done. If only she could see him and…
+
+Actually, maybe she could.
+
+Viv slowed down time and focused to release a very, very powerful blast of light under the surface. The rave-like purple glow lit the murky waters, revealing the frame of the mage floating under the surface. She cast immediately, and missed by a hair. She had not accounted for refraction.
+
+“Fuck.”
+
+Before Viv could strike again, the mage fled, spooked. Apparently, the man was unwilling to forfeit his life for a corrupt city. It did not surprise Viv in the slightest.
+
+“They are gaining on us,” Leit said.
+
+He was sweating a lot.
+
+“I find it rather more exciting than I expected.”
+
+“Will you reconvert into a smuggler?” Viv asked him.
+
+“Gods no. I’m going to drink.”
+
+“Speaking of drink, I believe the time has come to depart Enoria. The border is near. I propose to go out with a bang, Viviane dear, I’ll take the right and you take the left?”
+
+“Gladly.”
+
+Sidjin gestured and a whirlpool opened in front of his target, dragging it in. The prow was caught and led the rest of the ship towards the depression. Once it was close enough, Sidjin gestured again and the whirlpool turned into a maw of colorless energy blades. The crew yelled with consternation as their ship slowly, slowly dove into a blender. Splinters and flying planks flew out of the vortex.
+
+“As I mentioned, the hulls are often a weak point,” Sidjin concluded as the spell faded. The damage was enough to put the ship out of order.
+
+“Is it my turn?” Viv asked.
+
+“Yes.”
+
+“Alright. Hocus, pocus, draconicus.”
+
+A screeching Arthur dive-bombed the remaining patrol craft, setting all the sails ablaze in a single pass. A shield blocked most of the remaining fire before it could turn the deck into a raging inferno. The pursuer was disabled, however.
+
+“I call foul,” Sidjin calmly stated.
+
+“I thought you would.”
+
+While the pair bickered, Leit turned around and found a barrel to sit on. He removed a flask from his breast pocket and took a discrete swig, the container disappearing quickly when a sailor made his way to him.
+
+“Captain, I don’t think it’s a marsh drake.”
+
+“It is a marsh drake i anyone asks.”
+
+“Okay…”
+
+***
+
+The journey continued for two days without incident. Viv did her best to practice mixing colorless and black mana, finding it surprisingly difficult. It was the first time she struggled to achieve what others took for granted. Sidjin had an explanation as to why.
+
+“You love black mana and black mana loves you. Using it is second nature. You are struggling to do what comes naturally to other casters as a result. Don’t worry, and take your time. It’s just a minor hurdle.”
+
+On the next morning, they arrived at a small outpost where Leit sent a report to his headquarters via one of the guild’s branches. Viv expected trouble for turning the ship into a fortress and dishing it out, but in reality, it was Leit who got chewed out and quite viciously too.
+
+“Your negligence and lack of foresight led to the grave endangerment of your passengers. Not only did you stop at a dangerous destination, but you took no steps to address the risks inherent to changes in the gangs’ hierarchy once you discovered them. After that, you knowingly led your charges into an obvious ambush. Their survival is due to their luck, skill, and wherewithal, not your services. Had they perished, you would have been removed from the list of approved captains and incurred serious penalties. Regardless, a disciplinary hearing will decide a suitable punishment. You may not decline carrying your passengers to their final destination, and you may not charge them for the repairs or the loss of your spare heating plate.”
+
+The tongue-lashing had been delivered in a detached voice by the branch manager, since he was only here to relay it. The fact that Viv and Sidjin were present for the blame made it public, always a significant choice when humiliation was concerned. It either meant they cared about their reputation, or about Sidjin and Viv’s future patronage. Perhaps a combination of both. She didn’t think it could be an accident.
+
+Nevertheless, she was more relaxed when they left since it was now someone else’s problem and that’s exactly how she envisioned her journey to Helock. It made the following conversation slightly less nerve-wracking for her.
+
+Viv picked a clearing near a waterfall, a short walk away from the outpost towards nightfall to have it. It was not going to be easy, and isolation from the other humans would not be a bad idea. She sat by a stone and shared a pile of freshly bought jerky with her adopted kiddo.
+
+“Hey Arthur, I wanted to talk to you a bit.”
+
+About stealing?
+
+“Did you steal anything?”
+
+Not.
+
+Recently.
+
+“It's not about stealing. I trust you are a big girl now, and you know why it’s not a good idea.”
+
+Thieving bad.
+
+Looting good.
+
+I know.
+
+“What I wanted to talk about is that… I fear I may be reaching the limits of what I can do for you. Or rather, what I know I should do. You see, you’ve been growing very fast the past year, faster than any creature I’ve ever met. And certainly faster than a human.”
+
+Of course.
+
+All humans stupid.
+
+Except mother.
+
+And bankers.
+
+“And here lies the problem. When we met, you didn’t know how to talk and you were very small. It was obvious that you needed food, water, and safety. That I could mostly do. Then you grew up and started taking things and I became generally sure you needed self-control and a sense of cause and consequences, if not right and wrong. Even then, it was a bit iffy because… you are a dragon. And I am using human logic and instincts to take care of someone who is not human by any means. It’s just the best I can do, the only thing I know how to do. It might not be enough.”
+
+Mother provides good meat.
+
+And gold.
+
+“As outlandish as it sounds, there is more than meat and gold in life.”
+
+The dragonette tilted her head pensively.
+
+Also.
+
+Scritches.
+
+She nodded to herself, satisfied with her wisdom.
+
+“And magic,” Viv said, getting Arthur’s attention. “And flight, and combat, and possibly etiquette. There are no books on dragon rearing. I’m operating on guesses, but it’s clear there is a lot for you to learn that I cannot teach. And I don’t want that, because I want what’s best for you. I just don’t know what it is.”
+
+I am still happy.
+
+And safe.
+
+And not hungry.
+
+Lots of magical meat!
+
+I grow fast.
+
+“Yes, you do. And you fly for longer periods of time, and explore much more than before. In bird terms, that would be called fledging.”
+
+Am no stupid feathered thing!
+
+“Leaving the nest, whatever you want to call it. Listen, there might be a point when you need to do more things or feel like doing more things. You can tell me. You can make your own plans. We’ll be going to Helock for a while, and I know you don’t like cities or being locked in for that matter. Don’t wait until you feel too sad to tell me. Talk to me. Tell me what you need.”
+
+If I don’t know?
+
+“If you don’t know what you need, we’ll figure it out together.”
+
+Ask other dragons?
+
+“Well… we may not have a choice. I just don’t know how to contact them without being roasted.”
+
+I protect you!
+
+“Sure.”
+
+“Skreeeeeeeeee!”
+
+Viv jumped at the sudden and unexpected scream, but Arthur didn’t show any sort of pain.
+
+Called.
+
+“Wait, what?”

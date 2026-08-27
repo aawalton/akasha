@@ -1,0 +1,271 @@
+---
+id: 9ed8c428-8518-5965-9277-ec62fc90bd2f
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 422"
+slug: 0121-the-path-of-ascension-chapter-422
+partOf: the-path-of-ascension
+position: 121
+ownLength: 4923
+unit: words
+ownProgress: 4923
+publishedAt: 2025-06-23
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2379905/the-path-of-ascension-chapter-422"
+royalRoadId: "2379905"
+markedReadAt: "2026-06-29T19:22:00.867Z"
+---
+
+Chapter 422
+
+Upon exiting the rift, Wun immediately noticed something was wrong with how Matt was walking and he cycled through expressions of disbelief as he realized what the reward must have been while also not believing it at all.
+
+“Seriously?”
+
+Ellen realized it a moment later and nearly spun in a circle as she looked from Moe’s storage ring to Matt’s and back again repeatedly.
+
+That clued Moe into it and he started laughing.
+
+Before anyone could say anything else, Wun waved his staff, pulling them all to Matt’s house which floated above the city they were in.
+
+Moe immediately jumped next to Matt. “I need to see it!”
+
+Matt grinned as he showed off the prize, careful to not let the ingot drop to the floor. It wouldn’t just punch through the floor, but the very planet they were on if that were to happen and one of the higher Tiers didn’t stop it. Not that Matt didn’t think Wun or any of the three in front of him would let such a thing happen, but he didn’t really want the local dwarven clan to know he had gotten the item.
+
+As part of their delving agreement, they were entitled to all of their own loot, but that wouldn’t stop idiots from trying or the clan from badgering them to sell.
+
+Some things were just better kept to ones self.
+
+Personally, Matt intended to bribe Allie to go and get a better weight-reducing spatial ring from the Empire and then leave the item in their house while they delved, as it would strain her spirit far too much to teleport such a heavy high-Tier item across the Realm. And anyone who wanted to rob their house while two local Ascender teams lived there only had themselves to blame for what happened after that.
+
+Upon seeing the ingot, Moe sighed as he wiped a tear away. “As ‘retty as I ‘emember.”
+
+Brian however asked the question Matt was waiting for. “Any intention to bet that? I’d wager a lot if that's put up.”
+
+Matt shook his head. “Not really. I’d much rather incorporate it into my sword.”
+
+Ellen scrunched up her face as if she had eaten something sour. “You wield a longsword though. That's a finesse weapon, not a heavy weapon. Do you really want to change your style up that much?”
+
+Matt grinned back at her, having gone through the same thought process but having the knowledge of his Talent and its scaling. “That would be true if I wasn’t an Ascender. But if I’m strong enough to move the weapon around like normal, it's a pure upside. Heavier weapon that hits harder than anyone will expect but is still as fast and as dexterous as a typical longsword.”
+
+Ellen opened her mouth a few times, trying to form the words and failing, before finally saying, “I think you are underestimating the weight of the neutronium ingot.”
+
+Moe instead smiled. “Do it! It would make a fight between us so much more interesting. I’ve never fought someone who could actually wield a neutronium weapon like normal. No bets with it!”
+
+Brian rattled his bones. “But I—”
+
+He was cut off as Moe jumped on him and wrestled the skeleton down to the floor and started giving it a noogie. “I ‘aid ‘o ‘ets.”
+
+As they devolved into their typical antics, Allie grabbed a better ring and they prepared themselves to reentered the same rift when their next slots came up three weeks later. All of them were eager to see if they could pull something as rare and as valuable for their second clear.
+
+They didn’t, but the reward wasn't trash either. Aldressi’s Tear was a valuable Tier 30 Natural Treasure that Zack planned to incorporate into his arm as one of its secondary effects helped stabilize non-corporeal bodies. He and Brian had been tinkering with the arm, as the necromancer was a master of all things incorporeal. Together with the Tear, they managed to bring the physical and immaterial perfectly in sync, giving Zack the ability to physically interact with all things spiritual.
+
+The third delve was a dud, with them getting a few hundred Tier 30 mana stones, which got dumped into their garbage reward ring along with the other disappointments.
+
+From there, they continued delving as hard and as fast as they could, going from rift to rift but the good times ended shortly after.
+
+War was brewing, and even the ever-jovial group of On the Last Line had to prepare, leaving them with just Wun to hang out with.
+
+That more than anything changed the experience of their trip, and it wasn’t Wun’s luck that did so. Contrary to expectations, the older Clans Ascender apparently preferred to travel incognito most of the time, pretending to be just an ordinary Tier 15.
+
+Given that he didn’t change his size at all, they got quite a different look at Clans life than they usually did when they were with the others, and Matt didn’t like what he saw.
+
+He noticed the human stigmatization, but Aster also noticed the bestial discrimination as they took a train to their next rift on a Tier 29 world close to the heartland of the Clans, but not quite inside.
+
+“Where are the other bloodlines?”
+
+Wun sighed into the book that he dropped onto his face earlier when he tried to take a nap. “That is sadly a result of the Dwarven administration. Unlike the Monster Collective, the Clans prioritize a single bloodline and are always trying to expand it, meaning they prioritize people under Tier 15 having children. That results in the dwarven bloodline growing larger, faster, but it also weakens the bloodline, meaning they need potions to bolster it. Given the socioeconomic and political situation in the Clans, the dwarven bloodlines hoard most of the bloodline resources for themselves. Not all of it, mind you, but something like eighty five percent. That has resulted in there being fewer other bloodlines in the Clans. Most have either reverted to humans or left for another Great Power. Not all of us as, I can attest to, but there are a lot less than you are used to in the Empire. I could talk for hours about the why’s and the causes, but it simply is what it is.”
+
+Aster growled but didn’t say anything.
+
+Liz, however, did have something to say. “It's something to know, but it's another thing to see. And it’s kind of fucked up when paired with the treatment of humans. Are the dwarves really so controlling?”
+
+Wun waggled a hand, still not bothering to move his book. “They are and they aren't. They don’t overtly oppress anyone, and they do open opportunities for humans and other bloodlines to both cultivate and advance. Part of it is dwarven superiority, given they rule the Great Power, and the other part of it is just resource scarcity. Take Awakening, for example. There are two main ways to get Awakened. Be part of a large family and just pay the fee. It's expensive and scales, but a Tier 10 delver can typically afford to Awaken two or three of their kids without any real hardship. That is a lot of people, given just how many cultivators exist. They aren't officially recognized ‘clans’ but they are ‘families’ that amount to the same thing, just typically lower in Tier. They function in the same way as any dwarven or the three human clans.”
+
+When Wun paused to scratch his nose, Zack asked, “If it isn’t official, does it really matter?”
+
+“Oh yeah, it does. They are registered, but they don’t have governing power. In fact a lot of the dwarven branch clans fall under the same laws. Being an official clan is more about power and accumulation of wealth than anything else. It's not just having a Tier 45 leading the family, but having lands and the ability to self sustain. It's more like your dukedoms, but there are some key differences, mainly in autonomy, governance structure, and inheritance. Unlike the Empire, the Clans don’t actually own the planets they inhabit, nor do they have much control over people outside their blood relations.”
+
+That sparked a small debate about the pros and cons of each system, but Aster eventually got them back on track and Wun continued. “First, you guys are outsiders and see things from your perspectives. Most people are happy and safe. They neither really want or need cultivation to do their jobs and live a very good life. Happiness indexes have rated the Clans’ mortal populations as first for happiness and contentment of the last million or so years”
+
+Matt mentally scoffed at the comment. Sure, if someone believed whatever metrics they’d cherry picked were perfect then anyone could make the case for something as subjective as a happiness index.
+
+Wun carried on, “It’s slipped once or twice, but things are good for the average folks. Especially the unawakened populations. They work less and make relatively more here than in other places. No one is slaving away like in the Corporations for unfair wages, and no one is telling people where they can or can't live like the Empire. Or rather, the Empire used to. It's not perfect, but it's worked for a long time. Few people, even the humans, want to complain, which can be seen with how many of our populations move out when a planet is transferred in a peace deal. It wasn’t too long ago where the Empire would get empty shells of planets because everyone chose to leave.”
+
+Matt briefly weighed whether he wanted to keep the debate going, but decided against it. Apparently, the others thought similarly, which let Wun get back on his original topic. “Like I was saying. Awakening. The other way to Awaken, the way people without already rich or powerful family members do it, is the Awakening system. It's a little rigorous, but those who can reach the benchmarks are Awakened for free at no cost. It typically fluctuates between the top two and twelve percent of applicants, but there are age brackets to allow people to try again. I've heard of one person who kept failing and kept testing until they were forty five and the only examinee, but even they eventually managed, so it's not like it's a single test or anything that determines one's future forever or anything so silly, like I’ve heard others think of it. Like, if someone fails and can’t bring themselves to test again next year, were they really cut out to be a cultivator? I won’t argue if it's fair to the people who want to but fail, but it does cut down on resource scarcities. Less cultivators means less competition.”
+
+“Which helps the dwarves most of all.”
+
+Matt hadn’t meant to say it out loud, but Wun just shrugged. “Yeah, but it also helps the people who do make it through who then don’t want even more competition. It also means fewer deaths. Those who want to do something but aren't capable don’t deserve to die just because they were allowed to do something dangerous, but that's the outcome in the Empire most of the time.”
+
+Liz rolled her eyes. “You have people die in rifts.”
+
+“Yes but it’s significantly less in the Tier 8 and below metrics. But once you are through the hurdle and you are a cultivator, you can then advance and then start your own family and push them up.”
+
+“What about crafters?”
+
+The question seemed obvious, but Wun just shrugged. “Most are apprentices and they get Awakened through that. It's cheaper for a master craftsman to Awaken an apprentice but a lot of delvers also pick up a craft. It's something like thirty to forty percent, but few of them are exceptional or even notable. But for those who can’t find or get a master, there are tests similar to the combat quota. Show that you have decent ability with your craft of choice as best you can when unawakened, beat most of your peers and get Awakened. If you fail the test, try again in a few years. Keep doing that until you give up, get good enough to get an apprenticeship, or just keep trying until you succeed by virtue of being the only participant.”
+
+The rest of the train ride was quieter than usual and Matt had to work to not let what he heard bother him.
+
+It wasn’t his home and it wasn’t his place, but he couldn’t help but feel it was so wasteful and cruel. Wasteful of the people who might have had exceptional Talents and cruel that the dwarven majority kept people unawakened to lower competition.
+
+Except, as Wun said, people were happy.
+
+The unawakened human majority seemed genuinely content. Matt was only able to see snippets of their lives but they worked, they went home, and lived fairly robust lives. If anything, Wun was underselling the happiness indexes. At least from a pure data viewpoint, the humans, at least the unawakened ones, worked around thirty hours a week, making enough for a family of two adult providers to house, feed, and raise several children while also having enough money left over for a vacation or two a year so long as they stayed on the planet.
+
+That meant they worked slightly less than the typical Empire civilian while making more per week worked.
+
+Part of that was the social services the Clans central government, if something so decentralized could be called that, had long implemented. Like the Empire, the mortal populations were mainly left alone with their own economies but unlike in the Empire, Clan cities were far more independent and that went doubly so for entire planets.
+
+Matt wanted to say there was a catch and he thought he might have found it, but it was so small a part of him felt like he was nitpicking.
+
+While Wun touted the thirty hour work week and that seemed true, the closer they traveled into the Clan heartland the more he found people, human and dwarven alike putting in forty and sometimes up to fifty hour weeks just to try and stand above their peers. It was far from everyone and no system was perfect, but if he could find one crack that easily how many others were hidden deeper?
+
+Something else Matt noticed was that they also just had a smaller population than the Empire. He knew the Empire was an outlier On that front, even discounting the Awakening divide but it was weird to see and once he noticed it he couldn't stop seeing it.
+
+Where a Tier 5 or under world would usually sit at a few hundred million, if not a full billion in the Empire, the Clans Tier 5 worlds typically housed half of that at most. It wasn’t so much population control as a result of the more family-based structure their societies revolved around.
+
+A cultivator didn’t tend to have more kids than they could Awaken and with the scaling price, they typically kept their second generations to three to five children each of the generation following that trend only if they could support their children. Something Matt noted was that the cost of Awakening each subsequent human child scaled faster than for dwarves. Officially that was because it took additional resources to ensure children kept the bloodline, but looking at the math, he felt it was just an excuse to keep humans from over-populating the dwarves in the higher Tiers.
+
+Matt also acknowledged that he was in a foul mood and knew he was being uncharitable.
+
+Digging deeper, he looked into the Clans’ stance on dwarven population growth. Seeing how they handled that, he was surprised.
+
+It wasn’t as draconian as he feared, but instead each dwarf who had a sufficiently potent bloodline was encouraged to have at least two children. Once they reached Tier 15, they were then encouraged to have more children, though spaced out over time, to add to the population without needing more resources. Immortal fertility rates ensured that was a slow but steady method of growing their populations. Some of the Empire records he had saved to his [AI] estimated there was a significant number of such Tier 15s who simply had as many children as possible.
+
+As he expected, the per-child Awakening fee wasn’t paid by the parents but instead the Clans government. Officially it was still imposed, but the gifts they were given per birth always more than compensated for such, having been an amendment made a few generations after the Clans founding.
+
+The empathetic part of Matt could understand the logic, but it still felt cruel to implement such a rule and then selectively remove it.
+
+Looking further, it was one of the major talking points of the human equality movements.
+
+Such movements weren’t banned; there were several halls even in the small city they were passing through, but rather they were treated as the fringe movements they were and mostly pushed to the edge of town.
+
+The cynical part of him wondered just how many of the movement's higher echelons were actually dwarves.
+
+Everyone knew every dwarf went through a process that sacrificed their human, or rather malleable, form, existing only in their ‘beast’ form, but Matt suspected there were some who simply never underwent such a process and instead blended into the human equality movement and then hampered its operations from the inside.
+
+He was fairly sure there were ways to check if someone had a bloodline beyond spiritual probes feeling for the third cultivation core. He just didn’t know them off-hand and didn’t know if the movement's leaders knew of them and how they were able to be subverted.
+
+Catching himself, he realized he had fallen into a very negative mindset that was far too reminiscent of the Federation.
+
+For all its faults, the Clans had never tried to enslave the humans as the Federation did to beasts. That didn’t mean they were automatically good people, but it did mean he shouldn’t be considering how to help a movement whose main uniting factor was their species.
+
+That conversation managed to ruin their mood for the next few days and it was only in their next delve that they managed to pull themselves out of their funk.
+
+It was a rift they had been eager to delve.
+
+The moment they entered, they were surrounded by shards of crystal, each uniform in size and shape but of varying colors and energy types, as well as a plinth.
+
+The resemblance to the rift Matt had gotten the neutronium ingot out of wasn’t a coincidence.
+
+The story behind the rifts was that a Talented aperologist had made the pair as part of an experiment, but whether that was true or false was lost to the passing of time.
+
+Matt couldn’t be sure it was, but he could see it being possible. The rifts were similar enough and used enough of the same core ideas while coming at them from different angles he gave the theory some credence. He was just happy to get to inspect the rift. He couldn’t see anything about the intrinsic properties of the rift or how it was made but it had a presence, a metaphorical weight, to it that most other rifts, even its lesser cousin, didn’t.
+
+This rift however was the more prized out of the two.
+
+While the first rift was more of a choose your own enemies but had little other selective process beyond that, this rift gave the delvers far more granular control.
+
+That wasn’t why the rift was so valuable or ranked so highly. That honor went to the rift's true uniqueness. At the end of the rift, there was a decent chance, estimated to be about one in five, that the item placed on the plinth would then replace the rift reward in a boosted state.
+
+They had argued long and hard about exactly which item they wanted to use, but ultimately Zack and Allie won the argument by arguing that a combat item didn’t mean much to them. Rather, they should roll for the chance of getting a super Natural Treasure.
+
+The main limit of the rift was that the item sacrificed had to be below Tier 5, which normally wasn’t an issue for items, but for Natural Treasures, it limited their options.
+
+Or at least, it did for most people. As Ascenders, they were able to get their hands on nearly anything and Allie had done exactly that in preparation for this rift.
+
+They had three attempts at the rift scheduled and three copies of a nearly unseen Two Pupil Stone.
+
+The seemingly ordinary sphere or rock looked and functioned like an eye, except it had an incredibly minor future sight ability.
+
+Normally, the eye went to seekers of all sorts, but with the Treasure being so low-Tier, its effects and scaling were nothing to write home about. It was similar to an [AI] trying to predict something, throwing a million possibilities at the cultivator, making it only slightly better than nothing.
+
+Still, people clamored to use the item to either give themselves a slight edge or to hope they could be the one to develop the Treasure and find a way to make it useful.
+
+The rift was one such way to make it useful and possibly the best one, so long as they could hit the odds.
+
+After depositing the Two Pupil Stone on the center plinth and collecting the shards, they went to the first monster and found five shard slots in the crystal that encased the mini boss. Similar to its sister rift, this rift allowed them to shape the enemies they fought while empowering the boss and the sacrificed item via shards.
+
+For a typical delver team, it was a harrowing balance of buffing the mini bosses as much as possible without exceeding their capabilities. For two teams of Ascenders, especially with Zack and Allie, they simply added the strongest shards they could, buffing the monsters to their limits.
+
+Even with the monsters all being peak Tier 30 mini bosses, they needed to activate them one at a time, making it a controllable gauntlet rather than a typical rift where a fight could happen at any time. Matt, Liz, and Susanne kept the boss occupied in close range, while Aster debuffed the boss and the moment they managed to expose a weakness, Allie or Zack would land a devastating hit.
+
+With Matt’s Concept, keeping their mana topped off each fight was simply a matter of doing the same thing over and over again until they killed it. From there, they gathered the shards it dropped, went to the next mini boss and repeated the process until they had cleared the rift.
+
+The time-to-essence ratio wasn’t fantastic, but it was interesting and novel to feel out how the different types of shards modified the monsters. The shards had different effects and the effects could vary in strength but it was fairly well understood that the stronger the crystal, the stronger the monster, which resulted in a stronger final item should they be lucky enough to get it as a reward. That meant their choices simply ended up being to grab the five strongest shards that dropped from the previous mini boss and chuck them inside the next monster.
+
+Sadly, they weren't lucky on their first run of the rift, and while they got the ever rare and valuable [Regeneration] skill as the rift reward, it just wasn’t that good for them. As they all already had the skill, and had it upgraded at that, or they just didn't use the skill. So they just tossed the skill in their ever growing for sale pile to be dealt with when they returned to the Empire.
+
+Their second run, however, proved to be a partial success.
+
+When Allie dissipated the reward distortion as it landed on their agreed upon silvery color, a single stone eye popped into existence.
+
+Aster punched the air. “Yes!”
+
+Matt instead scrambled with Zack to get the Natural Treasure and inspect it.
+
+What they found was not what they expected.
+
+The Two Pupil Stone had shrunk slightly and was clearly Tier 30, but its spirit was completely different. It felt empty, for lack of a better word.
+
+While Matt was no professional appraiser, he was knowledgeable and experienced, which meant even if he didn’t recognize the item, he could usually puzzle the effects out.
+
+Digging deeper, Matt grew more and more puzzled.
+
+It almost reminded him of a structural framework without anything filling the item out, which made no sense when he compared the current Two Pupil Stone to its former self.
+
+Zack reached out with his ghostly hand and plucked at one of the lines in the item, making Matt suck in a deep breath.
+
+Not because Zack touched the item, but because of its reaction. Or rather because the item reacted before Zack touched it.
+
+“Try changing your mind mid way.”
+
+Zack reached out and, under everyone's scrutiny, pulled back at the last second. Unlike the first time, the structure of the item didn’t even flicker.
+
+Liz leaned over Matt’s shoulder and asked, “That's cool, but what does it mean?”
+
+Aster copied Liz on his other side asking, “Does it mean anything at all? Feels pretty on brand for an item that has or had future sight as one of its main powers.”
+
+Matt met Zack's gaze, silently communicating before letting the other man speak. “I believe, and I think Matt agrees with me, that the item is in an incomplete or maybe proto state. When integrated, the person may be able to direct how the future sight manifests. At least, this is similar to how a Blank Elemental Crystal does so. The cultivator can fill the item with their mana as they absorb it, making it a perfect match instead of just a close one.”
+
+Matt just nodded along before everyone's gaze went to the Natural Treasure.
+
+It was rare for them to get something that was useful, let alone something that any of them could use.
+
+Having already gotten a fantastic item, Matt said, “I’ll back out. While predicting things is useful, with my upcoming [AI] integrations and modifications, I don’t really need it and it might even mess with our current plans.”
+
+Seeing the hungry looks on everyone's face Matt added, “Let me hold onto it and we can figure out who best can use this after its professional appraisal. It's Tier 30, so it's not like we need to absorb it immediately.”
+
+Putting actions to words, he grabbed the item.
+
+From there, they exited the rift and messaged Wun saying they needed a professional appraiser.
+
+The monkey Ascender appeared next to them, rubbing his hands together. “Oh, let me see. What did you get?”
+
+Upon seeing the eye, he had an appropriately jealous expression. “Super cool. I have no idea what it does though. Let's go check the locals.”
+
+As it turned out, despite being a Tier 30 world, none of the appraisers could figure out what the eye did to any level of detail greater than Matt and Zack's assessment.
+
+What was more telling was how all of the appraisers and their backing companies and local clan all offered to buy the Natural Treasure at exorbitant prices, the local clan even offering a Tier 35 Natural Treasure of their choice in exchange.
+
+Not being fools, they didn’t agree and instead turned to the Ascender chat to both gloat and see if they had any other ideas.
+
+Maya really wanted to get her hands on it, and even offered Allie an undisclosed reward if she teleported it over so she could inspect it. However, even she couldn’t give them any better answers. Though, she did offer quite a lot if they put the item up in a bet.
+
+Sien then did the same but also came up empty handed, offering quite a lot as a counter bet, but that just made them all the more interested in using it for themselves.
+
+Lila and Aiden both wanted to see it, but Allie refused to enter the Empire until their scheduled return, given that she’d get yelled at for breaching quarantine again.
+
+What that really meant was that neither of them bribed her well enough.
+
+Wun however had a suggestion, or at least a recommendation, of people who might be able to help.
+
+In three more years, their next major stop was for lessons in Clans Domains. They had been offered modifications to their Growth Items but none of them were willing to allow a foreign Great Power’s craftsman such a close look, let alone getting their hands on some of their most valuable items.
+
+So instead, they returned to the rift and ran it for the third and final time, hoping to get lucky.
+
+They didn’t, but they did pull an [Armory of the Heavens], which produced glittering stars that could be formed into weapons, armor, attacks, summons, and other constructs at a whim.
+
+With only a brief discussion, they decided to put it aside and see if Rah might be interested in it, given his whole fascination with the stars.
+
+After that excitement, they returned to delving the rare and interesting rifts the Clans had to show them, as well as getting a continued tour of the Great Power with Wun.

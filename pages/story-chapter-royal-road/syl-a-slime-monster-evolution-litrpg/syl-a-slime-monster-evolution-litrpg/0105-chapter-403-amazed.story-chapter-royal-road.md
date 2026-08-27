@@ -1,0 +1,105 @@
+---
+id: fbc71d04-8e95-52e9-9400-9a82fb9ec728
+page-type-slug: story-chapter-royal-road
+title: "Chapter 403 : AMazed"
+slug: 0105-chapter-403-amazed
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 105
+ownLength: 2164
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3678878/chapter-403-amazed"
+royalRoadId: "3678878"
+---
+
+After a somewhat unproductive information-gathering session, I finally returned to the wasteland and brought out the golem again. Following its directions, I was led to what looked like a massive crater that had not only permanently scarred the land but also opened what appeared to be an entrance to a hidden world below.
+
+The golem was pointing straight down into the crater, so I knew I had found the right place. Interestingly enough, my [Dungeoneer] Emblem showed no reaction to the area, and even when I equipped it directly, there was no change.
+
+Do labyrinths not count as dungeons? Or do I need an upgraded Emblem to count here?
+
+In theory, if there was an upgrade, I would get it, since I intended to solo the labyrinth and doubted my personas would negate it, since they were all born from a combination of my skills and traits.
+
+Before I jumped down into the crater, I spent a little time searching the perimeter, and beneath the sand I found a few scattered remnants of golems. It wasn't that I didn't trust Keldenar, even though my inactive Emblem kind of threw some doubt his way, but it was nice to have confirmation that his story was true.
+
+I stored the golem away in my [Personal Rift] and finally jumped into the crater. As the terrain flew by, I noticed the remnants of discarded climbing equipment dug into the walls. Considering the location, it seemed the owner didn't want too many visitors.
+
+Or maybe it's just to get rid of the riffraff?
+
+When I finally hit the ground with a squelch, it was like I had been transported into another world. No longer was it the scorching wasteland, but a long-discarded tomb of some unknown civilization. It even came with murals along the walls depicting various scenes of demons crawling out from the abyss, and this being built upon it to seal them.
+
+Keldenar had said a demon king had actually emerged from here, which meant these weren't just mindless decorations; it seemed to hold some kind of truth to the matter. In my mind, I was already putting together a rudimentary explanation: the person who sealed the demons was ultimately promoted to the role of guardian of the labyrinth and an agent of the gods.
+
+I couldn't help but wonder if Keldenar had talked to the one in charge here, as during our battle, he had casually mentioned pissing off [Dungeon Masters] in the past. It seemed just like my own [Experiment] Emblem; he had one of his own, and this led to the secrets of the world, like [Dungeon Masters], being a bit more open to him. I imagined this theoretical Emblem was probably something like [Otherworlder], a term I had learned from the elves.
+
+Sadly, when I tried to ask him about it, I got censored. Which makes me think I was on the right track. Although if he is an [Otherworlder], why was I censored from saying it? You'd think I'd be allowed to mention it to him, or is it because it's protecting his identity?
+
+It was the same for me. I could skirt around explaining myself, but I couldn't outright tell Keldenar about the [Experiment] Emblem. Thankfully, he seemed like an intuitive enough guy, and he caught on quickly enough to get the gist of the situation. Frankly, I was a little glad that he was such an oddball, as it meant he was far more receptive about my situation as a monster fully in control of itself, and he didn't even tease me about being a slime.
+
+I had run out of murals to inspect, so I started looking for the entrance. It was actually hidden behind one of the wall carvings, but I cheated by noticing the empty space behind by allowing my [Personal Rift] to flex out a bit. Not only did I find the entrance, but I also confirmed this was a dungeon as I noted the same dimensional restrictions being applied via dungeon brick.
+
+It's stronger than even the shadow octopus, but thankfully, my [Personal Rift] has grown stronger since then.
+
+Whenever I left Keld, I would reclaim my [Rift Beacon], as I wanted and needed the full scope of my ability. While the safety net was appreciated when dealing with exceptionally risky factors, having my range permanently cut in half would just be shooting myself in the foot.
+
+I was about to teleport through the wall when I recalled Juniper's warning. I didn't want to upset the master of this domain right off the bat, so I tried to enter the place normally. While touching the mural, I found that one of the stones could be pressed in, causing the wall to recede and reveal the entrance.
+
+If the warnings carved into the walls about the danger lurking within weren't enough, the tainted air that rushed out from the sealed chamber certainly added to the ominous atmosphere. I was just using my casual Syl the adventurer appearance for this, so I casually strolled through the imaginary barrier with confidence, the wall resealing shortly behind me.
+
+Spooky… I wonder how I'm expected to get out normally? Is there another exit, or am I supposed to break the wall?
+
+I had enough range to tear open an exit, so it wasn't an issue for me personally, but I was still curious about how the average adventurer was expected to handle it. I continued strolling down the path with my guard up until I eventually reached an empty chamber that acted as a fork in my path.
+
+Using a combination of my advanced sensory traits and my rift to feel out each path, I realized that the name labyrinth wasn't just for show—this was a genuine maze, and part of the challenge would be simply navigating it.
+
+I wonder…
+
+Pulling out the golem again, I placed it between the fork, wondering if it knew the way.
+
+"Do you know the path?" I asked.
+
+The golem finally reacted, though rather than pointing in the right direction, it simply began spinning in place with its arms outstretched. It seemed to say "we are here," which meant this wouldn't be my secret solution to the maze.
+
+I sighed and threw the spinning golem back into the rift, since it wasn't going to be any help. Next, I cast [Map], and to my relief, I saw that it was not only working, but also visualizing my current location. I was worried that my spell version would only work as a world map, but it seemed that, because I pieced it together from completed knowledge of the [Mapping] skill, it retained this functionality.
+
+Oh, right, I wonder if [Landmarks] has been updated.
+
+I cast the spell and saw a new entry for "Labyrinth of the Abyss," which I snorted at after reading. I had literally just dealt with the abyssal dungeon, now I was dealing with the labyrinth of the abyss. Yes, I knew the context of these names was entirely different: one was the abyssal nature of the deep ocean, while the other was the demonic abyss, but I couldn't help but mock the irony of it.
+
+Returning to my decision, I decided to just flip a coin. I had examined the two pathways and found signs of which path to choose. If I ended up choosing the wrong path, I could always double back thanks to the help of [Map]. I also decided not to exactly reveal my slimy nature for now, as I was worried that it wouldn't send a black slime against me if it knew who I was.
+
+Or maybe I'm just being paranoid again… Keldenar said I could find black slimes here, so I should be able to find one!
+
+I was still going to hide my identity, just in case. Thanks to [Personal Rift], I could even use slime attacks without revealing my nature by simply opening a hidden rift within myself. To me, it felt very fitting for a Riftmancer to be able to tear open holes that led to unspeakable monstrosities, which I certainly fit the bill of.
+
+The coin decided that I would take the left path, and I officially began my journey into the maze. I walked and soon found myself at another junction. After consulting my [Map] again, I chose another fork and continued onwards.
+
+I wasn't exactly a maze expert, and the logic I tried to follow was to avoid a path that would lead me back towards the start. For the most part, it seemed to be working until I reached my first dead end and was forced to double back and pick another path.
+
+I continued walking the corridors while staring at my [Map], slowly filling out various pathways through brute-force trial and error. Weirdly, I had yet to encounter a single monster, or even a room, for that matter; it was all simply twisting passageways and the occasional trap.
+
+Yes, these halls were trapped, albeit somewhat crudely. Spike pits, darts that shot out of holes in the walls, and even a ceiling that would attempt to squash anyone caught in its path. My long-abandoned[Rogue Expertise] skill had a momentary chance to shine, until I ultimately got bored with trying to disarm the traps. It was too slow and tedious, and the traps were far too numerous, making it easier to just avoid them outright once I pinpointed their locations.
+
+Being a Riftmancer meant I could simply [Blink] across the trigger points. Even if I accidentally hit a second trigger, being a nearly indestructible slime meant that these were not scary in the slightest. Poison darts? I'd snacked on deadlier poisons for fun. Spikes? Just try to break through my outer slime skin made from the finest [Metal Slime] alloys.
+
+Ultimately, the biggest challenge the labyrinth threw at me was this twisting maze. Even if I used [Personal Rift] to try to feel out a cavity between paths, I had yet to discover a proper room. At best, my spatial tears would allow me to return to my previous decision point sooner from another failed path.
+
+"I bet Keldenar just sent golems down every single pathway until he found the right one," I sighed after finding my umpteenth dead end. "I wonder if my choice of going left right at the start was wrong…? Did the coin fail me?"
+
+I still had several unexplored paths before I'd be forced back to that very first decision point, so I didn't decide to throw in the towel just yet. For all I knew, the rightmost path would be even more of a maze; it was just my inner pessimist being annoying in this situation.
+
+"I haven't even found monsters to kill… Although maybe the idea is that they are all trapped deeper within the maze?"
+
+I was talking to myself out loud now, just in case the dungeon master was listening. I knew I was supposed to be on my best behavior, but I wanted him or her to at least know I was getting bored. Maybe then I'd finally have some monsters sent my way for a tiny change in scenery.
+
+I spent what must have been hours traversing the same, identical-looking hallways. If not for [Map] constantly updating and drawing out the paths, I would have gone crazy thinking I was stuck in a loop. Of course, I didn't let the reality of the situation stop me from complaining and even voicing a few absurd ideas.
+
+"Maybe this was Keldenar's plan… He knows he can't kill me, so he wanted to trap me down in an inescapable labyrinth for all eternity. Joke's on him, I can still talk to everyone from down here and exact my revenge!"
+
+I was definitely going a little stir-crazy. I had already started trying to pass the time by playing around with magic, but when even that wasn't enough, I started sending messages to my personas through [Core Storage]. And yes, a lot of them were directed towards Sylvester to complain on my behalf to Keldenar. Heck, a few of my complaints were actually aimed at Sylvester, too; he was having fun times with golems while I was stuck navigating an annoyingly massive maze.
+
+I should put his persona into one of my [Sub-Cores], make him suffer down here with me at the same time…
+
+While I was tempted to do that, I ultimately didn't. I wasn't that petty, and even if he was having fun, I knew he was doing important work. So I kept my pettiness to our letters in the storage, while simultaneously vowing to never include a maze inside my very own dungeon.
+
+I was far too nice in my evaluation of this place. I gave it high marks for its atmosphere and the history it had in the opening chamber, and then it threw me into this hell maze! What did I ever do to deserve this suffering?

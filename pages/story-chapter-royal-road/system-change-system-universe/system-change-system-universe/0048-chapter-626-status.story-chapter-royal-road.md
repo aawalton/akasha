@@ -1,0 +1,85 @@
+---
+id: acc4bd00-aed6-5c14-af2e-6841bc50650e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 626: Status"
+slug: 0048-chapter-626-status
+partOf: system-change-system-universe
+position: 48
+ownLength: 2083
+unit: words
+ownProgress: 2083
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3010334/chapter-626-status"
+royalRoadId: "3010334"
+markedReadAt: "2026-06-29T19:58:16.238Z"
+---
+
+Chapter 626: Status
+
+Derek stared at his new status sheet for a long few minutes. He wasn’t sure where to start, but in the end, he figured he might as well focus on the top down—no matter how much he wanted to skip his stats and go straight to his skills to try to figure them out.
+
+First, he looked over his ‘personal information.’ It wasn’t all that different from what it had always been before, with a couple of exceptions. His age had changed to unknown. He tried to customize it to show him, but the system just couldn’t give him a perfect answer, so he was left not knowing. It wasn’t a big deal to him, but it really went to show that all those years spent in the void were something that not even the all-knowing Origin System was sure of.
+
+Next was his Experience Points, or… Essence. He could choose how he wanted to display it, but, seeing how his experience points were already in the trillions, he preferred to look at it as a percentage to the next level. He’d have to slay some monsters to see how those notifications would come, but that would be for later… as long as they weren’t attacked anytime soon, at least.
+
+After that, he saw his void affinity and was stunned. He was technically on the cusp of the 65% that Dave had told him he needed to be at—at a minimum—if he wanted to upgrade to the Ascendant rarity tier once he hit level 500. Still, the way it sounded, it would be better for him to keep his leveling and essence balanced and not hit that level until his affinity was over 70%. He didn’t want to get stuck like the Void Emperor had, so he would take Dave’s advice and do it right the first time.
+
+Dave said he waited to hit the level until his earth affinity was 75%. Maybe I should do the same, he thought. He doubted that Dave would ever have dreamed that his void affinity was already as high as it was showing. It seemed more like the man thought he was just over 50% or so, which already seemed to impress him. Looks like suffering alone in torturous darkness for decades or centuries really helps. He snorted.
+
+After looking over that, he minimized his essence and affinity tabs, then moved on. His class and race hadn’t changed… well, he was a ‘Void Human’ instead of the ‘Human (Void)’ or ‘Modified Human’ that the Davenresh System had always called him. Still, it was the same thing.
+
+All his new Titles and rewards had been great for his stats. He’d gotten another jump in his health, mana, and stamina pool gains, and he had a ton of free stats to use. And he was for sure going to use them by the time he and his party moved. This world and system were far too unknown to mess around and hold back. It wasn’t like when he was in Cydaria and could wait until he figured out the perfect plan. With almost 1,300 points to spend… should I stick to the build that has always saved my life and focus on endurance and vitality? Or should I keep myself balanced?
+
+Balanced had been the way to ascend. The first requirement for regular ascension, like Alanah had done, was to have 1,500 stat points in four different stats. But was that something he should continue to do? Or was it time to specialize again? As far as he knew, he didn’t need to meet any new requirements for advancement anymore, at least. Maybe I should split it between my four most used stats? It will be rough leaving my strength and dexterity behind, but the control and power my void energy gains from wisdom and intelligence are too good to leave.
+
+Not to mention that wisdom helps clear my head and will help me keep up with people even if I’m lacking in dexterity. Since the only skills I have to worry about are Void Call and Void Eclipse, all my other skills will benefit a lot from intelligence and wisdom. Void Shift is a great example, especially so if someone is faster than I am… unless they are just way stronger, then they could probably break me out of it like Alanah had on our first meeting. Still… vitality and endurance are a must, too, since if I die, I don’t know what will happen to those inside my Time Prison, he thought.
+
+The only real bad things about leaving strength and dexterity a bit behind are that my initial hits with my glaive won’t be as strong—which will be made up for with any void projection I use on an attack—and that I will have to be more strategic in battling and positioning since I may not be able to overpower monsters with sheer strength and speed. After going through those thoughts, he moved on.
+
+Derek had eight Origin Upgrade Points and one Skill Upgrade Token. He knew what the Upgrade Points did, but he wasn’t completely sure about the token. Actually… my skills lost levels, and all that was replaced by essence and percentages. I wonder if the Upgrade Points just add like five percent to my progression of each one. That feels like a level—especially based on how each level translated into progression.
+
+He had an idea about the token and its uses, and he wasn’t sure just how much the credits he’d received were worth. Maybe the token is used for the skills that say ‘Upgrade Possible?’ Then again, there is also an ‘Upgrade Available’ prompt next to my Identify skill. I’ll check that out in a bit. Finally, he looked over everything. Seeing all his skills and what seemed to be their rarity ranking laid out before him was very interesting to him.
+
+He honestly wasn’t surprised that most of his skills were ranks D and C. From what he had gathered, the Davenresh and Universal System V3 were both tier-C systems, so it would make sense that most of the skills available were of that rank or lower. One thing he was certain of after looking at the rankings, though… was that Dave was not lying when he said that void skills were rare and hard to come by.
+
+His lowest-ranked void skill was rank C, and there were only a few of those—four if he counted Time Prison and Absolute Nullify. Everything else was rank B or higher. Even Void Storage was somehow ranked B, and it had honestly been a pretty useless skill thus far. I’ll be interested to see what happens when it starts leveling, he thought. He had hopes that just maybe, he would be able to create a super stable separate void space that wouldn’t be affected by the void when he used Void Travel.
+
+If that happens, then it will make things a lot easier. He also couldn’t help but wonder about Void Creation and what he’d be able to do with it. As of now, his only thought was that maybe it would become easier to control or maybe he could make things more permanent. What if I could create void armor for people, then put them in the Time Prison, then Void Travel with them? If he could make the armor more permanent and not need to physically be touching it, it would solve a lot of problems.
+
+And then there’s Void Travel. I knew it was a good skill based on how strong it was without even having a level, and how it seemed that absolutely nothing could stop me from using it… other than Trischa… I guess. But rank S? Does that mean there’s a system greater than the Origin System since it’s technically rank A? No… if there was, I’m sure Dave would have told me about it. I feel like it’s just that the skill is way too overpowered.
+
+I mean… it makes me near invincible if I open up the void and step inside. Only the Void Emperor and his void… servants… would be able to even think about chasing me. And if I shut them in, do they have the ability to rip themselves out? Do they have the ability to navigate inside? It was all things that Derek couldn’t stop pondering.
+
+But also, Void Travel now being able to progress meant one thing for Derek, and that was that he had a goal. He needed to start leveling the skill up as soon as possible so that he could use it to go get Alanah. And now that he could see the physical progression of the skill, it took a bit of stress away from him.
+
+In fact, he was half tempted to bring everyone out of the Time Prison, then step inside a portal made from Void Travel and just see if he could locate Dave or that Sereph elf. Dave had never once told him that it was a good idea, and it was something that the elf would have thought about. Plus, he didn’t feel comfortable one bit leaving the weaker members of the party outside—even with Marrick, Jace, and Amelia around to protect them. There was just too much unknown.
+
+Finally, Derek looked over his Titles. He had a lot less than before, it seemed, but it also didn’t seem like any of the rewards from his previous Titles and Achievements were taken away. He nodded after going over them, then moved on to the last thing he was concerned about… Silvi. He didn’t see the skills that he’d shared with Silvi in his status sheet, and he also didn’t see her listed as a companion.
+
+First, he held out his hand and pointed at the ground. He let out a sigh of relief when a Void Lightning Bolt hit the ground. If nothing else, it showed that the skills they had previously shared were still being shared. Finally, he mentally tried to call up her stat sheet and was surprised when it came up.
+
+…
+
+Personal Information [-]
+
+Name: Silvi HuntLevel: N/A (Bonded)Essence: N/A (Bonded)Affinity: Void, Void Cooking [-]Void Affinity: 63% (Bond Affinity)Void Cooking Affinity: 50% (Stalled)Class: Mythical Void Battle ChefRace: Gluttonous Void Bunny
+
+Health: 47,700Mana: 44,900Stamina: 47,700
+
+Strength: 1,774Dexterity: 1,749Endurance: 1,908Vitality: 1,908Intelligence: 1,802Wisdom: 1,796
+
+Skills [-]
+
+[Active Void Shift(B) Progression: 100%, Upgrade Possible][Advanced Cooking(C) Progression: 72%][Advanced Mage Hand(D) Progression: 73%][Advanced Telekinesis(D) Progression: 57%][Battle Chef Knife Mastery(B) Progression: 56%][Charge(D) Progression: 98%][Chop(E) Progression: 76%][Cleaning(E) Progression: 92%][Cook What You Kill(A) Progression 35%][Cooking(E) Progression: 100%, Upgrade Possible][Dragon Flame(B) Progression: 58%][Fire Resistance(D) Progression 19%][Julienne(D) Progression: 46%][Mage Hand(E) Progression: 100%, Upgrade Possible][Magic resistance(C) Progression: 42%][Meditation(C) Progression: 93%[Mental Resistance(C) Progression: 60%][Mince(E) Progression: 37%][Physical Resistance(C) Progression: 13%][Telekinesis(E) Progression: 100%, Upgrade Possible][Telepathy(D) Progression: 48%][Void Cooking Creation(A) Progression: 1%][Void Lightning Bolt(B) Progression: 99%]
+
+Titles [-]N/A
+
+…
+
+Derek went over Silvi’s status sheet a few times before nodding. It seemed that the shared skills weren’t showing up there either, but if he could use hers, he was sure that she could still use his. She, too, had a few skills with possible upgrades, but not any with upgrades available. I’m going to have to get her to work more on her resistance skills, he thought.
+
+He also couldn’t help but frown when he saw her affinity. It was just as Dave had said. That her true affinity would be stalled while she was still connected to Derek’s. Luckily, she would at least still be able to focus on her skills and such while they worked their way off the planet and hopefully to Origin City. He was also hopeful that once she became a full system user, she would get a lot of the Titles that everyone else had gotten, and they would stack on top of the stats that she had ‘borrowed permanently’ from Derek.
+
+The status sheet had also left off her age—which Derek knew was technically eight years old. He wasn’t sure why it did that. Was it because she was a beast? A bonded companion? Or just because she wasn’t a full system user? There was no way for him to know, and really, it didn’t matter. She knew how old she was, and so did he.
+
+I may have to put her on the front lines. She really needs to practice her fighting. Her skills are lagging behind, Derek thought. Finally, he closed her status sheet and prepared to spend his stat points.

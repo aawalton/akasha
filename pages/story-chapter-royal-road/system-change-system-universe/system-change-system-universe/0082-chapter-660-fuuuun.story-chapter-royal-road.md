@@ -1,0 +1,139 @@
+---
+id: e5f2cebe-7cb4-5b76-b115-39b471631b6d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 660: Fuuuun!"
+slug: 0082-chapter-660-fuuuun
+partOf: system-change-system-universe
+position: 82
+ownLength: 2450
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3581890/chapter-660-fuuuun"
+royalRoadId: "3581890"
+---
+
+Chapter 660: Fuuun!
+
+Derek and the Windscar Hawk landed right outside the outpost. He waved his hand and tried to swat some of the dust cloud that appeared when they crashed into the ground away. He looked down and noticed that even though the bird was quiet and not really moving, he could more feel than see a slight movement in the thing's chest from its breathing. How tough, he thought as he reached out and clenched his hand.
+
+He willed a Spatial Collapse to appear within the creature's head, since its brain was likely only just hanging on after his previous attack. Moments later, he saw the alert that he had a new notification pop up in his vision. He ignored it for the time being and let out a sigh.
+
+When the dust settled, Edgar landed next to him. "That was fun!" he laughed. "Looks like I even got a lot of contribution since I was the one who held it still for you. I didn't think I would get 36%, but it looks like the support gets properly rewarded, too. I like the way this new system thinks."
+
+"I'm sure it somehow took into account the fact that I was having a hard time even catching the thing. So, your support certainly made the fight end a whole hell of a lot quicker than it would have had it just been me," Derek replied with a nod. "I was wondering how the system dealt with that. Up until now, it felt like contribution was just based on damage numbers."
+
+"Yeah," Edgar said. "I thought it felt that way a bit, too, until I fought the dark turtle."
+
+"Dark turtle?"
+
+"Yeah... the guy who turtled up inside that dome of darkness," Edgar chuckled. "Alex didn't do any damage, and all he did was point, but he still got a good deal of contribution. And then there was Herring. I barely shocked him before Jace cut him apart, but I received a chunk of contribution that I hadn't been expecting."
+
+"Yeah? That's good," Derek replied. It really was. He'd actually started feeling sorry for Edgar during their time on the planet. Lightning seemed fun and like a great affinity to have, but almost nothing on the planet was weak against it, and the majority of beasts they encountered had natural resistance.
+
+"It almost has me considering changing up the way I do combat," Edgar said with a frown.
+
+"What do you mean?" Derek asked.
+
+"Well... I love to battle, but I'm not stupid," Edgar said. "We're in an unfamiliar place..." he gestured to his surroundings. "And I'm not just talking about this planet. I'm speaking of the whole new system."
+
+"That's for sure," Derek said. "But what are you thinking?"
+
+"Some of the most fun I had back in Cydaria was bringing up and training a special team," Edgar said. "Selecting based on ability and having a member that could cover each gap—you know, the basics of team formation."
+
+"Yeah," Derek replied with a nod.
+
+"I was always too strong or advanced to be part of a real team back then. It also didn't help that I was a prince, and that instantly makes it hard to form true connections with almost anyone," he explained. "Nobles only tried to get close to me to benefit their families, and commoners were usually too afraid to say a word. So, I spent a bunch of time with the soldiers—even though a lot of it was forced onto me by my father," he said with a smile.
+
+"Yeah..." Derek replied.
+
+"So, I ended up training myself hard and solo for the most part—other than when I created and led that team," Edgar replied. Then, seeing Derek nod, he continued, "Being here, I've noticed a few things."
+
+"Like what?" Derek asked.
+
+"Like the fact that I'm not even a medium-sized fish any longer," Edgar explained. "I don't have backing or support. You're not the only monster at the same level as me anymore. I'm behind... really behind. But lightning is good for attack, and it is just as good for support. Most of my attacks have a chance to stun enemies, so I fall into a sort of nuanced role with my affinity. I'm wondering how I should proceed for the future. Should I keep going as I am? Or should I lean one way or the other? I have a lot of thinking to do since level 250 is no longer the cap."
+
+"What do you like best?" Derek asked while glancing in the direction of where the teleporter was. While talking, he opened his Void Storage and removed a good portion of the lesser monster corpses and materials that he'd stored just in case. He came down with his glaive and sliced off one of the bird's talons before moving to the next. "Could you settle for a support role on a team? Or do you like battling too much for that?"
+
+"I don't know," Edgar said as he started helping Derek dismantle part of the beast. "Power leveling like I did before the raid dungeon really hurt me, I think. I shouldn't have listened to my father back then." He cut the beak off the bird and tossed it into Derek's Void Storage before continuing, "But I don't think I'd have a problem falling back to support in the right team. There are buffing skills with the lightning affinity that I avoided previously, which could come in handy now."
+
+"Really?" Derek asked.
+
+"Yeah," Edgar replied. "One of them was a haste-type skill that I could cast on others. Then there are strictly debuff skills for monsters that I passed up, too. My personal stat distribution isn't bad either way, so now is the time when I have to decide. I can't just wait to make this decision until I'm level 500. I have to think about it all now."
+
+"That makes sense. It's something you can think more about—maybe talk to Alex about since he knows a lot more about this system than any of us do—once we get off this planet. And seeing as how Dave seems to be a much bigger deal than I originally thought he was, I'll see if I can get some information for you from him if or when I meet him again," Derek explained.
+
+"I appreciate that," Edgar said as he cut off a wing, then stuffed it into Derek's Void Storage. Derek did the same with the other one.
+
+Finally, Edgar placed his hand on the bird, closed his eyes, then sent a current through the corpse of the beast. "Avian enemies are always easy to dismantle for me," he muttered as he sent a few pulses. Then the feathers all stood up and fell off the skin of the monster. They didn't spend too much time collecting the feathers—they just tossed as many as they could inside quickly, then Derek closed the Void Storage.
+
+"Jace can have the rest of this to cook while he stays here if Silvi doesn't want to come get any of it for ingredients," he said. They were all pretty much full up on inventory space. "We'll have to start tossing things into the Time Prison with everyone else if we get any more materials... which shouldn't be bad now that we're making time move quickly inside there."
+
+After thinking about it for a second, he picked up the body of the beast, then used Void Steps to climb into the sky with it before coming down in the center of the outpost. He made the door to the Time Prison bigger, then tossed the corpse inside. While brushing his hands off, he said, "I could go for a good chicken, actually..."
+
+"That's mine!?" Silvi suddenly appeared on his shoulder and asked.
+
+"If we get out of here in time so it doesn't spoil inside the Time Prison," Derek replied.
+
+"We need out of here! Fast!" Silvi's little voice chimed through the communication crystal.
+
+"They are working hard on it," Marrick suddenly said. "Anytime now."
+
+"Good," Derek replied. About that time, Edgar landed beside him, and Jace kicked a gate open and came in dragging a dinosaur-like corpse behind him.
+
+"Y'all want this!?" Jace yelled from far away—his voice carrying the distance easily.
+
+"I'm not going to interact with him when he looks like that right now," Edgar said. "I'll be killing worms." After that, he vanished from sight.
+
+Derek looked at Jace and chuckled. He was steaming, and his skin was a dark shade of pink. His Battlelust had to be extremely high at the moment. Derek was a little surprised that he was even able to be considerate enough to bring the corpse back for them.
+
+Silvi disappeared, then reappeared on Jace's shoulder. Derek winced as Jace swatted at her, but she just vanished and reappeared on his other shoulder. They did it a few times until Jace calmed down and let her be. There wasn't any heart in the attacks—just a bit of annoyance.
+
+When the two got close to Derek and Marrick, Jace spoke. "She said she wants this."
+
+"Okay," Derek replied, then made the door even bigger. Jace ignored everything and dragged the corpse inside before coming right back out.
+
+"She needs to hurry," Jace said.
+
+"Who? What do you mean?" Derek asked.
+
+"That bird you fought released that shriek before it died," Jace said. "My Battle Instincts went wild after that. This place is about to be flooded with smaller and larger beasts. Some just as strong as that dinosaur and bird—maybe stronger."
+
+"Oh... shit..." Derek muttered.
+
+Jace's mouth turned into a menacing grin at that moment. "No... not oh, shit... fun!" He licked his lips. "At least for me. You're going to have to do something about that..." He pointed his thumb behind him at the teleporter protected by Marrick's sand. "There aren't enough people to keep protecting it from what's coming."
+
+"Well, we can't just let everything go to waste," Derek said.
+
+"Exactly, so they need to hurry up, because that teleporter is going to be gone before long," Jace said, then looked at Marrick. "You should harden the sand under it, too, because my instincts are screaming that things are going to be coming from below, too."
+
+Marrick didn't say anything and just nodded. Out of everything, nobody distrusted Jace's Battle Instincts. "Done," Marrick said. "I added a couple of layers underneath. I don't feel anything coming close by, but I don't doubt you."
+
+"Good," Jace said. "I'm going to go kill more shit to keep my Battlelust up for the upcoming fun. Call me when I need to send you all away."
+
+Derek nodded, and Jace ran off. He sighed and looked at Marrick. "They need to hurry."
+
+An hour or so later, Derek felt the ground start to rumble. He looked at Marrick and raised an eyebrow in curiosity. The old elf shook his head and said, "Nothing other than the worms underground for now. All of that..." He motioned around him. "Is coming from above ground."
+
+"Oh," Derek said, then jumped into the air. When he was well above the outpost, he looked around and gulped. From three different sides, all he could see were sandstorms. He also saw a figure moving quickly toward one of the sandstorms and shook his head. "He had better not get himself killed yet."
+
+Seconds later, Jace disappeared into one of the clouds, and an agonizing roar, squeals, and squeaks all sounded out one after another—over and over. "He's made for this," Derek muttered as he watched the sandstorm slow down drastically.
+
+Over the next half hour or so, Derek saw some of the fast monsters break free and run ahead of the coming storm. Amelia and Edgar worked on whittling them down bit by bit while Jace jumped from storm to storm. Not long after—when the storms were approaching and Derek was readying himself to give up and toss Brandi back into the Time Prison—he heard Marrick speak.
+
+"She's done," he said. Then the sand covering the teleporter disappeared, and Brandi ran out.
+
+"It's ready! I think," she said. "Just... somebody has to stand at that panel and inject mana into it the whole time since I can't fix the storage rune right now. And I think it will only be stable for one use, so we can't test it first."
+
+"Fine by me," Derek said and looked at Alex, who nodded. "Get in the space," he told everyone. Then he mentally sent a message telepathically to everyone else. Amelia and Edgar arrived quickly since they were fighting nearby. He nodded at them, and they went inside. Once everyone was in, other than himself and Alex, he closed the Time Prison and adjusted it to where time went by much slower inside than outside, so it wouldn't be long for those inside, no matter how long it took him to open it back up.
+
+"Where is Jace?" Alex asked.
+
+"I sent for him and got... a grunt in reply," Derek said. He wasn't sure if Jace was going to be in any condition to cooperate anymore. "If he doesn't come, I'll send you back. Try to find a way to get a teleportation device to us if you can."
+
+"I'll do it for sure," Alex said with a serious nod. "I'll burn all my bridges to get you all off this planet as thanks for saving me." Derek just nodded and waited. After some time, he sighed and then walked over and placed his hand on the panel. "Looks like it's all we can do... ugh!" he muttered, then something hit him from the side and pushed him away.
+
+When he looked back, he swallowed at the vision of Jace standing there with steam roiling off him and his body stretched out and ghoulish. Derek couldn't even make out real traces of anything other than instincts in his eyes, but still, the monstrous-looking man slammed his hand down on the panel, and it cracked. Then he shoved mana into it.
+
+Derek grabbed Alex and pulled him to the center of the teleportation area. "Don't speak," he whispered to Alex as the runes around him lit up blue. "The coordinates are in, and everything?" he asked lightly, and Alex just nodded. Moments later, a wall was destroyed, and a flurry of monsters stampeded inside. Then everything went bright, and the teleporter was empty.
+
+The ghoulish man's grin almost reached his ears. His blades appeared in his hands as he turned toward the mass of monsters. One gravely muttered word came from him in the face of everything. "Fuuuun!"

@@ -1,0 +1,515 @@
+---
+id: bba204c2-cb00-5293-bbfe-80315440ac78
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FIFTY-SIX:  A Pointy Thing on the Other"
+slug: 0258-two-hundred-fifty-six-a-pointy-thing-on-the-other
+partOf: super-supportive
+position: 258
+ownLength: 4683
+unit: words
+publishedAt: 2025-11-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2765192/two-hundred-fifty-six-a-pointy-thing-on-the-other"
+royalRoadId: "2765192"
+---
+
+256
+
+******
+
+[Dueling Block 6]
+
+[Opponent: Olive, Adjuster - A]
+
+[Incapacitate your opponent.]
+
+[Kills: Allowed]
+
+“Lexi, could you keep an eye on my project for the next minute or two? If you don’t get called to your own duel.”
+
+Writher was slicing away at one of the target dummies. Lexi didn’t glance in Alden’s direction when he responded. “I will.”
+
+“Appreciate it.”
+
+Alden wasn’t worried about sabotage, but other people in the practice area got klutzy with their powers sometimes.
+
+All right. Olive.
+
+He headed toward the dueling block, pulling up a random number generator as he went. He made it pick out of six. It landed on five. That meant Alden would be pretending to be fooled by the Fake Olive on the right to start their fight, and he was allowed to find Real Olive with his second attack. He was always allowed to hit Real Olive if she made herself obvious in some way.
+
+This was how he was keeping his abnormal Olive-identification powers in check.
+
+Three of her stood at their end of the dueling block, jaws set and pink baseball bats raised in exactly the same way.
+
+“Hi, Olive.”
+
+She didn’t reply of course.
+
+Alden took four temper spheres out of his pouch, two in each hand, and held them up. She ignored them.
+
+Things have been changing fast.
+
+He remembered throwing a single temper sphere at Tatiana Evans during that combat assessment duel. It hadn’t been much of a pitch really.
+
+But one of these is a heck of a pitch.
+
+And with the wordchain…
+
+“Let’s have a nice duel, Block 6!” Foxbolt said from where she stood outside the barrier, a couple of paces behind Olive, to monitor their block and a neighboring one.
+
+The timer in front of Alden’s eyes counted down.
+
+Soon…
+
+[90 second duel]
+
+[START]
+
+The Olives ran at him.
+
+He pitched a regular sphere as hard as he could through the illusion on the right and saw it pass through as he flung another one toward the real girl on the left. It pinged off the bat she raised in front of her face.
+
+Alden ran forward to meet her, watching the bat. It drew back.
+
+Let her swing. Duck it. Pop right back up.
+
+Olive swung high. For his head. That made ducking easier.
+
+Attack.
+
+He thrust his left hand toward her face before she’d recovered from the full-power swing. There was visual confusion from the two illusionary girls being right on top of them. He kept his eyes on the real one as she flinched away from his approaching hand, then he whipped his right hand up to release the temper sphere he’d accelerated and preserved earlier.
+
+Transparent stickers he’d put on it before placing it in the sling let him feel instantly that he had it turned the correct way. It wasn’t impossible to tell without them, but in the heat of a fight, the stickers helped.
+
+Alden let the sphere go an inch from Olive’s forehead.
+
+He was a little surprised that it shattered. He felt the muted sting of shards against his skin. She shouted and collapsed backward, stiff-suited, her bat rolling across the floor.
+
+Their duel had only lasted seconds. He wasn’t breathing hard.
+
+The notification of his victory was followed by one for the damage he’d dealt. If this had been a real battle, Olive would have a dire brain injury.
+
+He looked down at her. Her light brown ponytail was fanned out on the floor by her face. Her eyes were screwed shut, and she looked like she was grinding her teeth.
+
+“Good duel,” Alden said. Most people were in the habit of saying that or “good fight” now.
+
+Like a darker version of “good game” after a baseball match. We’ve even got the balls and bat here for this one.
+
+He wanted to offer Olive a hand up, but she wasn’t opening her eyes. “Your illusions are always so cool,” he said.
+
+Still not opening her eyes.
+
+He glanced at Foxbolt. The instructor noticed him, looked at Olive, and then waved him away with one hand.
+
+He jogged across the block to get the temper spheres he’d thrown. If the shards were a problem for the next duelists, Foxbolt could order the gym to sweep them off the floor.
+
+Olive was sometimes a good sport when she lost and sometimes not so much. Alden imagined he was one of the few people she really hoped to beat in a fight like this. Especially since she’d gotten permission to use the bat.
+
+She could have beaten me if we’d fought two months ago. It would have been harder for me today without the wordchain.
+
+Things were changing fast.
+
+As he grabbed the last temper sphere, Foxbolt shouted, “Nice double illusion, Olive! Let’s see you on your feet!”
+
+Olive got on her feet promptly at that, but she didn’t look at Alden once after picking up her bat.
+
+He watched her slouch away.
+
+Well, this one did nothing for my tension.
+
+And…there he is.
+
+Alden looked through a block where Everly was on the run from Sanjay, trying to buy herself enough time to complete the spell that would put an ice patch on the floor. Beyond them, Winston Heelfeather was breezing into the gym like someone who planned to post footage of his entrance later tonight. His smile was easy, and his fingers were running through his blond hair as if it just happened to need a ton of tousling. He’d ditched his sunglasses and his custom sweatbands. Alden assumed there would eventually be a new self-branded accessory to replace them.
+
+His celebrity arrival didn’t take him too long, and Alden, watching it, saw the moment when he stopped thinking more about cameras than everything else in the huge gym. The smile vanished. His eyes turned sharper.
+
+They found Alden so fast that it seemed unlikely it was happenstance.
+
+Alden spun and headed back toward the practice area. He didn’t want a staring contest.
+
+Looks like his mind is on what’s coming up, too.
+
+His tension coiled itself a little tighter.
+
+I really don’t want to lose. Not to him. Not today.
+
+******
+
+Alden didn’t think he’d have time to improve much about his weapon. One or two tweaks at most. He focused on the balance point. He preferred for it to be close to the center of the handle. With Haoyu’s help as an entruster, he preserved the weapon, lifted it to check the weight, and lowered it. Every time he set it back down he was wrapping a little duct tape around the paracord on the lighter end, just above the spot where the fishing line stuck out.
+
+The fourth time he did it and picked it back up, it seemed right. He carefully balanced the whole thing on two fingers, then one.
+
+“Looks good,” Haoyu said. He was fresh from a duel with Kon. They’d both come over here to watch and encourage.
+
+“Perching fifty kilos on your fingertip is impressive, Alden, but I can move a whole car with my spell. In case you didn’t remember.”
+
+“Such an amazing dolphin-whale man,” said Haoyu. “And I just beat you again, so I’m even better.”
+
+“I’m sea-saying when I cast, for your information. It’s an Artonan thing. I’m not surprised you haven’t heard of it. You don’t even drink from a magic cup.”
+
+“Aren’t dolphins sea-saying, too?” said Haoyu.
+
+Alden set his creation down very carefully and reached for a roll of blue painter’s tape.
+
+“Why are you using two different kinds of tape?” Haoyu asked.
+
+“I’m only using this one to mark the spot where it balances. So my fingers can find it easier. I like the texture of it better than the duct tape.”
+
+Kon squatted beside him. “Should I be offended that you’ve never custom crafted a weapon to defeat me?”
+
+Alden tore the tape from the roll. “If you want to practice against something you think I can do, you should tell me. I’ll try it.”
+
+“You hear that, Haoyu? I can put in requests. Alden and I are besties now that we’ve explored another planet together.”
+
+Haoyu bent over on Alden’s other side.
+
+“Fifty-kilo bonker,” he said, pointing at the weighted end of the weapon.  Next, he pointed at the thread that held the weight and handle together. “This lets the bonker fly free?”
+
+“Yes. As long as I have any kind of grip on the handle when I let preservation drop, that thread will snap. It keeps me from losing my whole entrusted object when I do that.”
+
+“Skinny little handle,” said Haoyu, tracing the line of the paracord with a finger then stopping at the fishing line. “Invisible blade.”
+
+“It’s not quite a blade considering how my skill works, but it is hard to see.”
+
+“What do you call it all together?”
+
+“I don’t know. Spear mace? Death baton? Winsterminator?”
+
+“The last one,” said Kon.
+
+“I vote for the last one, too.”
+
+“Maybe we can honor it with that name if I win.”
+
+“Don’t say ‘if’ say ‘when’,” Haoyu commanded.
+
+“Right…when.”
+
+A notification sprang up in front of his eyes as if his interface was answering him.
+
+[Dueling Block 1]
+
+[Opponent: Winston, Speed Brute - A]
+
+[Incapacitate your opponent.]
+
+[Kills: Allowed]
+
+Alden didn’t realize he’d gone still until Kon said, “Did you get the block assignment?”
+
+“Your expression changed,” said Haoyu.
+
+“I got it.”
+
+They moved a step back to give him room. He carefully pulled the paracord handle as straight as he could.
+
+“Take up your weapon.” Haoyu deepened his voice. “It is time.”
+
+******
+
+last week
+
+******
+
+Alden bent over to pick up yet another thin red stick he’d accidentally sent flying across the room. He wanted to fall down beside it instead.
+
+Liam Long claimed he was getting a workout, too, but the Brute was still moving just as easily as he had when they started an hour and a half ago. And he was talking so fast while he asked Bobby if she had acquired secret leveling tips from any of her most powerful clients.
+
+She was telling him good levelers were people who stayed motivated and found what worked for them.
+
+“Near death experiences—”
+
+“Are very overrated, Liam,” Alden interrupted. “I leveled fast on Thegund, in chaos. Strengthening your ability to do magic by a few levels isn’t worth it if there’s a chance you won’t survive the experience. Or if you end up so damaged by it that you need years to recover. Go for another method.”
+
+“Listen to Alden,” Bobby said. “He knows what he’s talking about.”
+
+Liam ought to know what I’m talking about, too, after last month. Was one night spent almost dying with his brother and sister not a long enough time period to make a permanent impression on him?
+
+Alden straightened. “Bobby, have you got half an hour’s worth of stuff to explain to me while I have that expensive drink I ordered?”
+
+“I’ve got half a lifetime worth of advice to share with you. Ready for your break now?”
+
+He nodded.
+
+“Is this the break I can’t be around for?” Liam asked.
+
+“It is. Sorry. The focus tool I’ve got should be used with just Bobby in the room. If you want to try out anything here that costs money while you’re waiting you can charge stuff to my account. You’re doing me a favor, so go for it.”
+
+“I’ll probably just see if I can find any famous speedsters around and watch them train.”
+
+Liam stripped off his padding and left.
+
+Alden stepped over to his messenger bag to take out the box that held his study earring. “I could use this with him in the room,” he confessed. “But I was worried he’d make some random comment, my brain would absorb it too well, and it would become part of my subconscious forever.”
+
+Bobby chuckled. “I’d better be careful what I say.”
+
+A woman from the North of North health center showed up a couple of minutes later to deliver the personalized energy drink Alden had requested last night in preparation for today. It was a service they advertised that he’d never taken advantage of because of the price and the need to plan ahead.
+
+It came in a black bottle with a prescription label, and it tasted gross. But he drained it and soon forgot the bitter flavor on his tongue thanks to the earring and Bobby, who was using video of the many brief encounters he’d just had with Liam to explain how he could improve.
+
+“Is this the correct way to help you when you’re wearing that earring?” she asked at one point. “You’re not talking as much as usual. In fact, you’re not talking at all.”
+
+Alden nodded slowly at her. “Oh…that’s right…I can ask you to explain more about anything.”
+
+“Yes. Like always.”
+
+Everything she’d said was so enlightening it was hard to choose. “The not moving my feet enough part?”
+
+“Once you start trying to maneuver your weapon to meet his strikes, you have a tendency to keep your feet glued in one spot. Is it because you’re focusing too much on your hands right now?”
+
+“I’m not sure.”
+
+“Don’t leave half of your body out of the fight. You and I have been doing all that jumping practice and the parkour. Your feet are good movers, so I don’t want you to let them freeze when you’re under pressure with a weapon in hand. Look at this moment. You’re using your arms so much while your legs are refusing to budge.” She paused. “Let’s try something and see if the earring lets you learn while you’re in motion. I’ll run at you, and you’ll defend yourself with the baton. As I reach you, don’t just twirl your stick and swing your arms to block me. Force yourself to take a step at the same time. Any direction you want. Even a little bounce is fine. What we’re trying to do is remind your legs to stay involved no matter what you’ve got going on with your fingers.”
+
+It turned out that the earring made Alden want to ponder everything too much for sparring. Instead of reacting to Bobby throwing a fist toward him, he just took in the way she was doing it. So they switched tactics, and she showed him how she thought he should have moved against one of Liam’s attacks while he watched her. Then he tried it on his own with and without the earring. Then she showed him again.
+
+By the time Liam was due back, she was fascinated by the earring and trying to determine its potential uses. She made him sit down and watch one of the few bouts he’d won against the speedster three times, telling her new things he’d noticed after each viewing.
+
+“Liam has a hard time not thinking of the weapon as a mace,” he said after the last one. “Or a bat.”
+
+“I think I know what you mean by that, but explain it to me for your own benefit.”
+
+“He knows the big block on the end is just foam, and he knows it’s light enough for me to change its direction rapidly. He’s seen me twirl it really fast. But if I swing it at him with a big arm motion, like I’m using a club of some kind, he expects it to behave like one. And he expects me to move like I’m swinging something heavy.”
+
+Alden watched the foam block catch Liam in the chest again.
+
+When Liam came back into the room and Alden took the earring off, he thought, I can use something like that against Winston.
+
+“Ready to go?” Liam asked. “I’m ready to go! Bobby, did you see anything I could improve while you were going through the videos? Alden, I’ll pretend to be a dumber speedster as many times as you need.”
+
+“You can keep choosing between smart and dumb whenever you like,” said Alden. “It’s good practice for me both ways.”
+
+“I still can’t believe a Celena North hero program student would run at you full throttle,” Liam said. “You explained how your skill worked, and the first thing I thought was, ‘Just go slow until the last second.’”
+
+Alden sighed. Liam walking across the floor toward him like he was out for a stroll had been an unwelcome surprise during that first fight. Even though it was how Alden would have fought himself if he were a speedster.
+
+When Alden dueled, he often had one dangerous shot of some kind, a net, or a rope. Super speed should be used for dodging his attack, or it should be used after the opponent had gotten under his guard, for the winning blow. Otherwise, it was something Alden tried to use against them.
+
+“Nobody dies by walking slowly into a fishing line,” he said. “I just hope Winston doesn’t realize that.”
+
+******
+
+now
+
+******
+
+Big Snake nodded from a couple of blocks over as Alden approached with his weapon over his shoulder. A second later, Winston Heelfeather zipped by on his left so that he could enter the block a step ahead of him.
+
+“You think a fifty kilo will be enough?” he asked, spinning to watch Alden approach. “This is our first real fight.”
+
+Here we go.
+
+“It is. I’m glad I’ve had so many chances to watch Finlay move before this one came up. I think it’s trained my eyes. You’re not going to look as fast to me as you did when I beat you last time.”
+
+“You didn’t beat me.”
+
+“I did. Everyone saw it. And you had a boost from Max when I did it, too. This time you’ll be even slower, so I like my chances.”
+
+“You used a trick.” Winston’s tone was so affronted that Alden wondered if he actually believed himself. “Today’s fight is the only one that matters.”
+
+Alden headed toward his end of the block.
+
+“There’s some fishing line on one end of this big-ass mace!” he called. “And the head of the big-ass mace comes off if I want. I bet I can catapult it across the block at you before you can blink. Don’t say any of it’s a trick since you know it’s there!”
+
+Was that enough? Seems light for smack talk, but I can’t bring myself to shout anything too rude in front of Big Snake. I don’t want him to think I’m a jerk.
+
+It’s not impossible to do this even if Winston’s careful instead of careless. I’ll still have a chance.
+
+His heart was pounding more than it had all class.
+
+He turned around. Winston had gone extremely red.
+
+Alden took a step back.
+
+Jeez. Is that a vein popping on his forehead? He looks like he’s about to blow from just those few words.
+
+How much does he hate me?
+
+Enough to tag me in a half hour long apology video, apologize to everyone and Scotland, and leave out the one, absolutely reasonable thing I asked for.
+
+“Why did you tell me you were going to apologize then not do it?” Alden asked.
+
+They had eighteen seconds on the start timer.
+
+“I did apologize.” Winston was taking up a position like a sprinter at the start of a race.
+
+Alden held his weapon in two hands and took up his own starting position. Like Olive had in his first duel of the day, he tried to look like a batter waiting for a pitch. “Why are you lying to my face when we both know it’s a lie?”
+
+“I. Apologized. To the people who needed apologies. And everyone’s over it but you,” Winston retorted. “But they’re about to see…you don’t matter. You’re a B-rank. And a Rabbit. This is a school for heroes. Even if you got lucky a few times, it isn’t your world.”
+
+It isn’t my world?
+
+The tension that had been building all day burst like a dam.
+
+“Søren had it right.” Alden’s eyes locked onto the speedster. “You’re a nasty little fucker.”
+
+[90 second duel]
+
+[START]
+
+******
+
+Winston Heelfeather had been a member of the track team at his old school.
+
+He hadn’t been the best member, but who would ever care about that again? Nobody.
+
+That was how it worked once you were so far beyond others that they couldn’t even see your dust. Your weaknesses faded from memory. Fans came to you.
+
+On the day the team had held that goodbye race for him, he’d started with his body in a position just like this, and he’d run, and not a single person could touch him.
+
+Humans versus a superhuman.
+
+It was a shame that S versus A was often the same way.
+
+But today…in this fight…
+
+He’d been watching so many videos of Alden’s duels. The Rabbit played around with weird tools, trying to come up with tricks and traps just like Max. To make up for his weakness.
+
+Because he’s a B. He’s only a B. The System gave him a good skill, but he wasn’t strong enough for an A.
+
+Winston had always considered himself a good person, but at this moment, he could admit that he wanted to look down on Alden Thorn from a rank above and a class beyond and show him what real, honest power looked like.
+
+He has a weight. Not even one of the biggest weights. Must be worried about his skill wearing out. All I have to do is dodge it, and I’m faster.
+
+I’m so much faster.
+
+“You’re a nasty little fucker,” said Alden.
+
+Bringing up Søren?! He hasn’t even managed to fire a shot like that one that took me out since then.
+
+Who does Alden think he is?
+
+Mehdi plays with him in duels. Rebecca beats him when she’s not trying out stupid stuff. I’m an A-rank, too.
+
+Why is he staring at me like I’m the one beneath him?
+
+Winston wasn’t using a weapon of any kind. He was going pure speedster, for when he told his fans about this. Pure Brute. A fair fight.
+
+[90 second duel]
+
+He was going to put his hand around a Rabbit’s neck and squeeze…
+
+[START]
+
+Winston blasted toward his victory with almost every bit of his speed.
+
+He wasn’t hitting that damn fishing line again.
+
+He wasn’t stupid.
+
+Alden hadn’t even moved from his starting spot. He was just waiting there to swing his homemade club. Winston felt a rush as fast as his own feet at the sight. This was it. Exactly what he’d wanted all term. Such a simple, clearcut display of their powers.
+
+Alden could hold a lot of weight. He could swing it with his human strength. But it didn’t even matter if he was using that wordchain that was practically doping today, because Winston knew he could dodge a human swinging a bat. He could dodge other A-rank Brutes swinging things at him most of the time.
+
+Thank you for the fair fight.
+
+Finally.
+
+Redemption.
+
+He’d stay up all night tonight, working out exactly how to describe this duel to his followers. And listening to the worst of his roommates pack his bags.
+
+“You know how Max hasn’t been letting me record videos in the living room for you guys? Well, he and I had a little bet…” That was how his Trime post explaining that the Adjuster had moved out would start.
+
+Almost there.
+
+Alden was waiting.
+
+Almost.
+
+The Rabbit was just staring. Was he even going to respond?
+
+There.
+
+Alden was taking a couple of steps back? He’d suddenly moved his hands to the middle of his rope handle? Didn’t matter. He was swinging it like a bat!
+
+Too slow! I see you.
+
+Winston was going to go over where the arc of the swing would carry the fifty-kilo sandbag. His fans had been complaining that he attacked from below too much.
+
+Kick him in the face. Pin him to the wall.
+
+He jumped.
+
+Then squeeze.
+
+That was the plan. It was a great plan.
+
+He was flying through the air, twisting his body for the kick.
+
+Something wrong happened.
+
+Very suddenly.
+
+Faster than Winston could react.
+
+******
+
+He’s fast, thought Alden.
+
+His weapon was so light in his hands it almost felt like it wasn’t there. The time for thinking was over. He just needed to keep his eyes open and move.
+
+When he reaches the midpoint…
+
+Winston had reached it.
+
+Alden grabbed the blue painter’s tape on his handle, the balanced spot, between the index and middle finger of his right hand. He closed his fist to hide the grip, then he took a couple of steps to wake up his legs for whatever was about to happen.
+
+He kept pretending he was swinging a bat…one that could be something other than a bat any instant now.
+
+Trust the practice.
+
+Trust the wordchain to help you do what you can do sometimes.
+
+Winston was jumping. Smirking.
+
+There.
+
+Alden’s feet and arms moved. His wrist and fingers twitched.
+
+And Winston Heelfeather crashed feet first into a sandbag that had just altered its course, flawlessly, at the speed of that twitch.
+
+Get him!
+
+Winston hit the floor. He was rolling backward, about to get his feet under him again.
+
+Alden sprang toward his enemy. He had already snapped his wrist back, moving the handle of his weapon so that the heavy sandbag was behind him.
+
+GET HIM!
+
+He flicked it forward again as fast as he could, not questioning what his right arm and his fingers were doing, aiming without thinking about aiming, releasing preservation at the moment his eyes said the black blur of the bag was about to meet Winston’s body.
+
+There was a boom when it hit.
+
+Not a huge one. Not one louder than Alden’s own yell as he preserved what was left of the weapon and pounced on Winston’s crumpled form. He was kicking the speedster over onto his back so hard his foot throbbed, trying to get the fishing line in a position so that when Winston sat up it would poke out one of his eyes and give him a blinding penalty and then Alden would be able to—
+
+The victory notice flashed huge in front of his eyes at that moment, while he was waving the fishing line tip back and forth like he was trying to scratch Winston’s nose with it.
+
+“No. I’m not done,” he said, even though his arm had frozen as soon as the notice appeared.
+
+He stared down, analyzing what was in front of him.
+
+Winston was lying there open-mouthed with his legs and arms bent like…
+
+Like he was trying to come out of that roll and get on his feet, and I broke his neck with a hundred pound chunk of accelerated sand, instantly stiff-suiting him.
+
+“You died? I was expecting to have to move around a lot more. And swing a few times. I didn’t want to have to, but I thought I would. You know…”
+
+Alden backed away and let his cord go limp again so that he wouldn’t look like he was thinking of using a weapon after seeing the victory notice.
+
+He scanned the gym and caught sight of Kon and Haoyu, still together in the practice area, pointing at him and jumping up and down, though they didn’t have the bad manners to scream, “Alden beat Winston!” out loud.
+
+Max was in a dueling block, facing off against Astrid. He’d have to watch the whole thing on video later.
+
+I’ll have to, too. It was so fast I don’t quite know what I did.
+
+So much practice and planning…for a few seconds of the real thing.
+
+Winston’s legs unfolded as his suit released him.
+
+“Good duel,” Alden said. He took a breath. Ah. I won. “Yeah. Good duel. I liked that one.”
+
+He looped the paracord through one of the handles on the sandbag and picked it up. Winston was still lying on the floor when he left the block.
+
+******
+
+******

@@ -1,0 +1,295 @@
+---
+id: 54c7df0e-11a2-5a12-86ad-83280e734c26
+page-type-slug: story-chapter-royal-road
+title: "146 Aligning Time"
+slug: 0105-146-aligning-time
+partOf: the-new-world
+position: 105
+ownLength: 3321
+unit: words
+ownProgress: 3321
+publishedAt: 2018-10-20
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/299623/146-aligning-time"
+royalRoadId: "299623"
+markedReadAt: "2026-06-29T21:24:34.267Z"
+---
+
+Amara lifted her palms towards me, her eyes narrowed, "You imbecile...You let him live?"
+
+I shook my head, "Oh, hell no. We got him. I meant whoops at the explosion."
+
+She looked around at the destruction, "You did all this?"
+
+I shrugged, "Yawm gave experience. What else can I say."
+
+Amara stood up, looking at my friends. I gestured a hand at Althea, "This is my girlfriend, Althea. The birdman is Hod. He means well I guess. The lich is Torix. He's a scholar who enjoys teaching. You mentioned making a center of learning for eldritch right? He could help."
+
+Torix gave Amara a short bow, "I'm at your service."
+
+She took a step back, "Then where is this?"
+
+Hod raised a hand, "Base of Harbinger."
+
+Amara kept one eye on me, but she moved her other hand across the others. She frowned,
+
+"You've created so much...It seems unfitting for one like you."
+
+Althea's expression turned sharp, "And why would you say that?"
+
+Amara turned an eye towards Althea, "He is a destroyer, not a builder."
+
+Althea crossed her arms, but she stayed quiet. I put a hand on Althea's shoulder,
+
+"You gotta think about what she's seen from me. Amara knows I killed Yawm and the followers. She really doesn't know much else."
+
+I turned a palm towards Amara, "If anything, she's probably suspicious as hell of us." I looked at Amara, "But let me know if I'm wrong. I don't mean to speak for you there."
+
+Amara sniffed, her slitted nostrils opening wide. She licked the air,
+
+"It tastes...delicious."
+
+Althea griped, "Yeah, ok...She's still a bit too eldritch-ey."
+
+Amara glanced at Althea, and the eldritch tilted her head, "You are as eldritch as I. So is the bird. Despite appearances, the walking corpse is the least eldritch of all of you."
+
+The sound of Althea's teeth biting down on her tongue. I put my other hand on her shoulder, "Hey, you hungry?"
+
+I looked at Amara. Her raven hair lifted up, feeling the air around her. She drooled, "What may I eat here?"
+
+Torix clapped his hands, "Most members of this party must be starving. How about you all eat something that isn't rations?"
+
+I nodded, "That sounds good. Let's do that."
+
+Torix opened his status, sending several messages. He grinned at all of us,
+
+"A cleaning crew will come up to fix this level soon. We'll be dining at Dark Coffee, a local cafe in the residential area."
+
+We moved down three floors into the residential area. We sat at the local cafe, rustic decorations everywhere. While not the most sizable establishment, the cozy, comfortable atmosphere was pleasant. We got our fair share of stares too.
+
+Everyone gawked at our group. They whispered about each of us, a growing legend forming about us. I didn't pay much attention to it as we all faced one another on a black, circular table. After ordering some food, Amara kept drooling as she spoke,
+
+"I have many questions."
+
+I raised a hand, "Let me state a few facts before you start: 1st, we killed Yawm. 2nd, we're planning on killing Ajax. 3rd, we're going to leave to another planet to get rid of our unknown status and bounties."
+
+Amara glanced with her palms, "Then here is safe?"
+
+Hod nodded, "Hod safest person to be around. Hod protect lady friend #3."
+
+Amara ignored Hod utterly. She sniffed the air. She looked at Torix, "I smell other eldritch here."
+
+Torix raised his palms to her, "Ah yes, the other eldritch here. You see, your kind is ordinarily unagreeable in the extreme. In order to protect us, I've developed techniques for restraining them."
+
+Amara snickered, her laugh like a hiss,
+
+"Don't worry about my feelings, lich. I am not unaware of the danger my kind presents. We're not welcome here as we are. Our acceptance relies on us changing. As we have always done, we will adapt."
+
+Amara looked around the table, "Are there intelligent eldritch under this keep?"
+
+Torix nodded, "There are a few, I suppose. I rarely let the bright eldritch live as their insidious nature is difficult to contain."
+
+She turned towards me, "I want an area of my own to teach them."
+
+I crossed my arms, "Are you ok with some surveillance?"
+
+She narrowed her eyes, "As much as you need for your comfort. I require freedom in my teaching methods, however."
+
+I pointed at her, "No killing or eating people. Animals are game as long as you don't eat too many." I looked at Torix, "Are you ok with observing her?"
+
+He nodded, "But of course."
+
+Several waiters walked up with a trolley as I clapped my hands together,
+
+"Then we should be good, right?"
+
+Amara nodded. I turned towards our food, "God I haven't had something sweet in literal years."
+
+They handed us pastries and a few kinds of jerky and greens. I lifted the warm, fluffy bread and chomped into it. I relished the texture and flavor. It was all soft, but varying kinds of soft. Imagine textures between water and pudding. That's what the food was like.
+
+Even then, it was a tremendous increase in the diversity of texture that I was used too. Compared with liquid rations that I splashed on my face, there wasn't much food that was worse. All this food was the best thing I'd had since I could remember eating something decent.
+
+After we finished our meal, Amara kept ogling everything around her. I frowned at her, "Are you still hungry?"
+
+She sighed, "We are always hungry. I will suppress it. I will survive on this much food."
+
+Several minutes later, and her drooling ceased. As we stood up, I pointed at Hod, "Hey, can you and your, er, assistant help Amara find a place to teach in? I think the third floor with the other students would be best."
+
+Hod gave a short salute, "Hod help the beautiful lady."
+
+Amara stared at him in disgust. Why Hod thought she was gorgeous, I'll never know. After they left, I turned towards Torix, "How are the troops?"
+
+He tapped his chin with a loose fist, "They're in high spirits. We did just destroy our greatest enemy. Now we can focus on rebuilding."
+
+I waved my hand,
+
+"I don't think that's enough. Let's upgrade the legion's gear. I can spend a few weeks making enchanted gear for everyone who was a part of the climactic battle. We'll make it a medal since they risked their lives."
+
+Torix opened his status, writing down notes, "Anything else we might need to do?"
+
+I brainstormed for a second, and an idea popped into my head, "We should commemorate the day of the battle. After a funeral service, how about we make it a holiday or something like that?"
+
+Althea pursed her lips, "Why would we do that?"
+
+I raised an eyebrow at her, "To honor the dead and make it clear that these people were part of history."
+
+Torix leaned back, placing a hand on my shoulder, "That's an idea requiring some finesse. When did you think of it?"
+
+I frowned, "You said we lost several hundred soldiers. That's a large chunk of our population. Even if we got our job done, it doesn't mean we don't have any wounds. This is a good way of recognizing that and trying to move on. You know, make their deaths mean something."
+
+Torix jotted down some more notes with his status, "You sound like a patriot."
+
+I shrugged, "It just seems like the right thing to do."
+
+Torix pointed at me, "So you'll be practicing that explosion technique in the meantime while I organize the upgrade system?"
+
+I wrapped my arm around Althea's waist,
+
+"Yeah, sure."
+
+Torix turned around, "Then it's a plan. I'll make sure that Hod isn't letting Amara eat my students."
+
+"Hey, Torix."
+
+He turned towards my voice, "Hmmm?"
+
+I gestured to everything around me, "You did an incredible job on the base while I was with Yawm. I can't describe to you how good it feels to come home to a place like this."
+
+Torix grinned with a bright smile, "But of course. Ah yes, Althea will show you your living quarters." He let out a chuckle as he walked off, "Ah, to be young and fully living."
+
+I turned towards Althea, and she smiled at me,
+
+"So, you wanna check out your room?"
+
+I grinned right back, "Of course."
+
+We walked into the elevator and back up to the third floor. Althea told Torix to build my room on the top level since she thought it would be my favorite floor.
+
+She was right. I loved trees for some reason.
+
+After pacing through the abundant greenery, we reached a spiral staircase. Althea talked as we walked up,
+
+"So I took a bit of time making these rooms myself. I wanted them to be perfect since they'd be yours."
+
+Althea's candidness caught me off guard. I looked away and blushed, "Uh, thank you."
+
+She giggled, "Did you just lighten...wait, are you actually blushing?"
+
+I rolled my eyes, "I can be surprised too. If anything, I'm amazed you guys made all this."
+
+She looked at the polished steps,
+
+"Torix explained it like this. We don't have to struggle with food or machinery. Schema's enhanced attributes pretty much eliminate the need for shelter or the struggle for food. When that's the case, you got to spend your time on something. Why not building stuff?"
+
+I looked around, noticing the temperature,
+
+"I never thought about it, but you're right. For one, the ground isn't even uncomfortable with any constitution. With a little endurance, you can sleep through even the coldest nights. A lot of the reason for building a house is pointless at that point."
+
+She nodded, "So people just kind of focus on making their house look good. If they can of course. Either that or handling the eldritch."
+
+We reached a set of oak doors, polished a dark brown. On them, pages worth of runes littered on their surface. I read them. They locked the door unless you offered a mixed mana type. In my case, I used ascendant mana, a mix of augmenter and dominion manas.
+
+It was perfect for me.
+
+I shoved a spike of mana into the door. A red glow traced through the lines of the wood. I pressed the doorway, opening them. I walked into the room. A wall of glass exposed a majestic view. Being high up on the mountaintop, we had a near perfect view of the spectacle.
+
+Sandwiched between two hills, the sun dipped halfway down them. Oranges, yellows, and purples hued the horizon. It was like an apartment out of Manhattan, luxury incarnate. The modern, sleek design of the room was out of place with the rest of the mountain's logical layout.
+
+Althea opened her arms, "Tadah! I spent some time looking at some old architecture magazines some legionaries brought. I also had a few people help with the design and making the furniture."
+
+I gasped at the quality, running my fingertips across the sleek stone tabletops. Althea walked around the room, showing me an island beside an up to date kitchen,
+
+"I got you a bunch of cooking supplies since you liked cooking so much. I figured it was something we can do together."
+
+She walked over towards a left corner of the room. Two posters hung on the wall, one of Mike Tyson and the other of Ali. I walked up to them, running my hand down them. To my surprise, they were real, though a bit wore down.
+
+Althea locked her hands behind her, looking up at me, "I remember hearing you talk about, uh, what was it...boxing, that's it. I heard you talk about it with Torix. I asked Diesel if he knew any boxers. He mentioned these guys. I found posters of them in some abandoned houses. Do you like them?"
+
+An intense wave of nostalgia whipped through me. I closed my eyes, remembering the smell of sweat and leather. I relived the hours listening to jump rope tap against concrete. I recalled the pop and crack of a fist hammering against a heavy bag.
+
+I turned towards Althea, touched by the gesture. She stared at me, grinning from ear to ear, "Hah, I knew you'd like it."
+
+I shook my head, "Like it? Hell no. I love it."
+
+I hugged her against me, holding her tight. Well, relatively tight. I didn't want to squash her after all. She hugged me back, my armor creaking under her unreal strength. With a bit of emotion in my voice, I whispered,
+
+"Thank you."
+
+We looked at each other, pressing our bodies together. Althea placed a fingertip against my lips, "You wanna repay me? I have one way you could start."
+
+She stared at me. I leaned over, pressing my lips against hers. She wrapped her arms around my neck, pulling me close. My armor bent away from me, letting her body push against me. It was like taking my shoes off after a long day.
+
+With enhanced senses, I relished the silky texture of her soft lips. I grabbed her, our breath hastening. Our heart rates rose, and Althea shivered at my touch. She gasped when I caressed her. I lifted her up, tossing her onto the bed.
+
+With tousled hair, she narrowed her eyes at me. She bit her lip as I laid on top of her. Starting with her shoulders, I guided my hands down her thin waist. As I reached her shapely hips, she shuddered again. She grabbed her jumpsuit and unbuckled four notches around her belt.
+
+She jerked it, throwing it across the room. She pulled her shirt off, exposing her bare chest. They bounced, jiggling for a moment. I brushed my hands against them, and she trembled. She let out a moan. I continued as she pressed herself against me.
+
+We whispered to one another. I told Althea how much I missed her body. Althea told me how much she missed my voice. We loved each other, admiring each other. After spending hours on the bed, Althea fell asleep in my arms. I watched her sleep for a few minutes, soaking the moment in.
+
+I never thought I'd get this far. I never imagined I'd have a life like this. After all the fighting, I arrived somewhere I could relax at.
+
+I found a home.
+
+I held onto Althea until she was buried in sleep. I picked myself up, my armor remolding onto my skin. Spikes from the armor pierced my skin, connecting on my bones from between muscles. This reinforced my bones, like giving it another layer of supporting structure.
+
+I walked over towards the bathroom of my personal room. After closing the door, I cut on the light. I found a mirror, showing myself. I was massive. My armor didn't have as many spikes as I remembered. It appeared more organic.
+
+I pulled my helmet off my face, the armor molding like liquid. It made no sound anymore, the smooth transition too well practiced. I looked at my face. Gray skin, flat scars, and gray pupils, I looked alien. I wasn't ugly per say, just rugged. Personally, I liked the look. It suited me.
+
+I pulled my armor back onto my face, looking at the helmet. Crimson light leaked out from the eyeholes still. I smiled, my armor following with a jagged grin of its own. I bit forward, my armor snapping shut like a guillotine.
+
+Honestly, I was unnerved, to say the least. The children had every right to fear me. I pulled the armor back, my hair tousled. I grinned, my teeth white. I looked around the bathroom, finding actual soap and shampoo. My metal skin stayed on me when I stepped in the shower. It seemed like the living metal only left my normal skin when having sex. Great.
+
+I washed my hair, brushed my teeth, and handled basic hygiene. I sighed with relief, finding comfort in old habits. After leaving the bathroom, I walked out of my room and closed the doors. I sent Althea a message, letting her know where I was going.
+
+While walking, I opened my status. After gaining the unknown skill Gravitational Singularity, I obtained 500 skill points. I invested the massive boon into my current skill tree, Immense.
+
+You leverage mass for might. You abuse size for strength. You wield this stature as a tool of devastation. You usher forth annihilation with the swing of your fist. As your heels shake the planet beneath you, the enemy sees you on the horizon. They tremble.
+
+Immense(Tier 4) unlocked! 20% of your total mass is added to your physical bonus damage. Unlocks the unique skill, Goliath's Fall.
+
+Unique skill unlocked, Goliath's Fall!
+
+Goliath's Fall(lvl 1) - You've seen the mighty crumble under the might of stone. You learned the lesson of those that have fallen before you. Grants enhanced stability and better footing on soft surfaces. Effect increases with level.
+
+I selected finalize again. A surging pulse of strength flowed through me. It paled in comparison with the boost after killing Yawm. I still grinned and stepped with excitement. Goliath's fall made the ground seem less like putty and more like sand. Not perfect, but it was better.
+
+The immense tree was near completion too, with 2,325 out of 2,500 points left. Finishing it might give me something incredible, like another mythical skill.
+
+Burning with that fervor, I walked through the camp. The ever present stares followed me as I went. After reaching outside the base, I called Torix with my obelisk. He answered, a screen appearing with soldiers in the background.
+
+"Hello, disciple. What is it?"
+
+I opened a projection of the base, pointing at it, "Where would you guys like to farm here? I'm about to train that new skill. If I can clear out some fields at the same time, that would be great."
+
+Skill unlocked, Efficiency(lvl 1)!
+
+Efficiency(lvl 1) - You work smarter, not harder. Increases the ratio of time and effort to output in tasks.
+
+Torix grinned at me, "An excellent method of partitioning out your time. I've noticed you seem sharper in wit as of late. Are you investing in intelligence?"
+
+I shook my head, "Nope. I do have a bit of intelligence because of all my endurance though."
+
+Torix shook his head, highlighting four areas on the map, "I suppose with that absurd strategy of yours, none of your stats are lacking."
+
+I frowned, "Eh, Charisma could use some work."
+
+Torix shrugged, "Perhaps you could try intimidation rather than persuasion? I find that fear works in the short term rather nicely." Torix turned and looked at the soldiers,
+
+"Once you've struck fear into their hearts, you can show kindness. It motivates them from both sides I've found."
+
+Torix turned back towards the soldiers behind him,
+
+"That call just saved each of you several hours of labor."
+
+As the soldiers let out a roar of approval, Torix gave me a curt nod,
+
+"Goodbye and good luck."
+
+I said the same, and we closed our calls. I walked towards the areas, and I charged my mana. It reminded me of overcharging my runes, but the stress applied to my health instead of the runes.
+
+The technique wouldn't be beneficial if my mana regen were lower. I would disintegrate myself before I could get a large pool of mana brewing. My regeneration allowed me to regenerate faster than I could be destroyed.
+
+As I readied my first strike of the skill, I let out a strained laugh. This was something Yawm could do. It was beyond what Schema's system customarily allowed. Mastering Gravitational Singularity was new territory. If I kept at it, maybe I wouldn't be at the mercy of Overseers, Schema, or even the Old Ones.
+
+Maybe they'd be at the mercy of me.

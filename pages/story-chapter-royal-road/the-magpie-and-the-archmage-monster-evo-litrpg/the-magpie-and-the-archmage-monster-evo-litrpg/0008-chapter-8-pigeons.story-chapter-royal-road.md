@@ -1,0 +1,181 @@
+---
+id: 742f470a-68d6-5dfb-8f72-d9dc27157f88
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8 – Pigeons"
+slug: 0008-chapter-8-pigeons
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 8
+ownLength: 2127
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525599/chapter-8-pigeons"
+royalRoadId: "2525599"
+---
+
+"So our goal is to attract as many of those hawks as possible," Renir said, as Liora stealthily hid in the tree canopy.
+
+She made sure to stick to dark shadows so nobody would be able to notice her. It appeared to be working, because she'd seen at least three hawks monitoring the skies, and none of them had spotted her.
+
+Unfortunately, she also witnessed them harassing other magpies. They would grab them, much like the other hawk had grabbed her, likely interrogating them. Most magpies got out unscathed once the hawks realized they wouldn't get anything out of them. But a few did sustain light injuries, like a gash from hawks' sharp talons.
+
+"Attract," Liora confirmed.
+
+"Let's wait until evening to take advantage of your new form," Renir suggested.
+
+"Chak-chak-chak?" She questioned."Wasn't the plan for me to remain visible?"
+
+"Yes, I think I understand your question. You're wondering why we are trying to be stealthy if we want them to see us, right?"
+
+"Why stealthy?" She confirmed.
+
+"It's simple, my corvid friend. We want them to follow us, but we don't want them to really follow us," Renir said cheekily. "Listen close."
+
+He explained his grand master plan in great detail, but Liora got the gist of it pretty quickly. They were going to lead the hawks on a false trail. After all, their goal was to get the hawks away from the forest. There was no need to have them chase after Liora across the country.
+
+So she settled into the canopy and waited until dusk took hold of the forest. It wasn't actually easy to sit still and watch hawks harass other magpies. Liora wanted to teach those bullies a lesson. But she patiently waited. They would pay when the time was right.
+
+When the dusk finally arrived, Liora executed her plan. She flew out of the canopy high up into the sky and mimicked a hawk's call, attracting every hawk flying nearby.
+
+"Oh, no! We have been spotted! Fly away!" Renir yelled for added emphasis. Just in case the hawks would be too stupid to realize that Liora really had the gem that they desired.
+
+Thankfully, the hawks caught on quickly and flew straight after her. Liora flew west, taking advantage of the last rays of the sun to blind the hawks. Initially, she had been worried that they'd catch up to her pretty quickly. But her wings were stronger now, and it was so much easier to gain speed.
+
+"Chak-chak-chak!" Liora taunted. "What? Can't even catch a single magpie?"
+
+The hawks took that personally, letting out an angry screech. One of them seemed to fly faster all of a sudden, bursting in front of the other three.
+
+"Caw?!" Liora exclaimed in surprise.
+
+"It must have a skill that temporarily increases its speed. I'm afraid you have to face it directly," Renir explained.
+
+Tch, so much for running away from them.
+
+Liora waited for the hawk to get closer and then mimicked the toad's Paralysis Croak.
+
+[You've failed at mimicking the skill <Paralysis Croak>.]
+
+Of course, it failed. Stupid skill.
+
+She had accounted for that possibility—the success rate was too low for her to use it reliably. But it would have been nicer for the hawk to just get paralyzed and drop to the ground. Was it too much to ask for some easy experience? Things, however, were never easy.
+
+The hawk did, however, slow down, likely alarmed by her unusual toad cry. This was her chance to strike. Liora flipped around and charged right at the hawk, going full speed.
+
+It had not expected that—which magpie, even an evolved one—would be crazy enough to fight a hawk directly. Her boldness made the hawk hesitate. It was a very brief moment; the next second, it outstretched its large talons forward, ready to grab Liora.
+
+But that split second was all Liora needed as she made a sharp turn downwards, folding her wings and speeding down into the forest. One moment, she was high up in the sky, the next—she was hidden in the forest canopy.
+
+All four hawks dove after her, the fastest one being a mere few meters behind her. But that distance had been enough. Her dark feathers blended her in with the increasingly spreading darkness as the last rays of sun disappeared behind the horizon.
+
+The bright satchel could have given her position away, but since it hung on her front and the hawks only saw her back, it wasn't an issue.
+
+"Chak-chak-chak!" Liora said. "Over here, stupid!"
+
+She had sneaked her way ahead of the confused hawks, who were haphazardly flying through the forest canopy, trying to find her. The moment they heard her call, they rushed after her.
+
+But the darkness was her greatest ally. These poor birds didn't have Night Vision, or it was severely limited, as they couldn't spot Liora. Not accurately, at least. They noticed a rogue leaf that she had moved on purpose, or a branch moving after she had hopped away from it. They heard her calls and followed them, but they could not see her.
+
+[New Trait Unlocked – Shadow Glide]
+
+[Allows for a silent flight, especially in dark places. At [Basic] level, detection by sound or sight is reduced by 20%. The effect is boosted even further at night.]
+
+Excellent, now those guys won't have any chance of finding me.
+
+Liora kept leading the hawks further west for a good while, making sure that all four of them were following. She made the intervals between her "hints" longer and longer. Once she was sure that they'd keep flying west, Liora stopped.
+
+She hid behind some thick pine branches and waited for the hawks to pass by. Once they did, she flew back and turned north. That's where Renir instructed her to fly, and she had no real reason to argue with it. North was as good a direction as any.
+
+She flew for several hours, keeping low to the ground to remain unseen. Who knew who else was watching over the general area besides those hawks, looking for her and the gem?
+
+Renir also remained silent for the whole flight, which felt a bit odd since he loved to chatter. But it just proved how crucial it was for them to remain unnoticed.
+
+Eventually, Liora reached a small town filled with old buildings, half of which looked on the verge of collapse.
+
+"Let's stop for the night. Find us a resting spot," Renir said in a hushed voice.
+
+Liora didn't reply, instead flying towards an old watchtower. She found a small opening of the cracked window, and squeezed inside. The tower looked like it had been abandoned for years—dust and cobwebs piled up in a thick layer on every surface. She wasn't the first bird or creature to take refuge there either.
+
+There was a group of pigeons huddled up on the staircase railing, sleeping and blissfully unaware of her presence. An armada of bats, half of them hanging from the ceiling and the other half flying in and out of the various openings of the cracked watchtower. But they clearly didn't care much for Liora's presence, continuing about their business.
+
+Liora found herself a corner away from the bats, so they wouldn't accidentally fly into her or worse—sully her beautiful feathers. It was filled with cobwebs and spiders. One of them looked at her curiously. Was it her, or did this one particular spider seem more intelligent than the others?
+
+Oh, what are you even thinking! It's just a spider like any other. I must be seeing things because of exhaustion.
+
+She flapped her wings to scare away the spiders, and they all ran away in a hurry. The biggest one, who had appeared intelligent, gave her an annoyed look, but scuttled away along with its brethren. Liora puffed out her feathers and settled down in the corner. It was far from a good sleeping spot, but it would do for the night.
+
+In the morning, Liora was woken up by loud Coo-roo-coo as the pigeons were busying themselves with their silly spinning dance.
+
+Really? First thing in the morning? I've barely slept for a few hours.
+
+Liora tried to ignore them at first, but it felt like pigeons were getting increasingly louder. Eventually, she couldn't endure it, and she let out an angry chak-chak-chak and tried to chase them away. It worked for maybe half a minute, after which the dull creatures continued their silly dance.
+
+"Caw!" She shrieked. "I am your natural predator! I eat pigeons! Fear me!"
+
+To strengthen her point, she grabbed one of the pigeons by the neck and pinned it to the ground. None of the other pigeons cared, not for long anyway. They fluttered away for a moment, then came back down and continued. Only the one she was holding cooed miserably, trying to break free.
+
+"Caw!" She released the pigeon. "You guys are too stupid to be worth the trouble."
+
+A soft laugh came from the gem.
+
+"Chak-chak-chak!" She asked him, feeling irritated from lack of sleep. "What's so funny?"
+
+"I can't believe that a magpie that killed a hawk can't even deal with some pigeons," he laughed more audibly now.
+
+If he weren't such a beautiful gem, I would have dropped him into the bat muck on the bottom of the tower.
+
+She pecked him instead, albeit gently.
+
+"Sorry, sorry! I'm just relieved we managed to get away from those guys successfully. We should still be cautious for a few more days—to make sure we weren't followed. But after that, we can start my grand plan!"
+
+"Grand plan?" Liora asked curiously.
+
+"Exactly! Plan to get me out of this stupid rock!" He said triumphantly.
+
+"Get out? You can?" Liora questioned. She was certain that he'd remain a rock forever.
+
+"I can! It won't be easy. Those bastards put up layers and layers of protective wards and seals to keep me inside. But it is possible, and you're going to help me do it!"
+
+Liora thought about it for a moment. Why should she help him? Sure, he gave her the System that made her stronger and allowed her to evolve. But she had already saved him from those nasty mages before—it was only right that he rewarded her for it.
+
+If the way of getting him out was so difficult, why should she trouble herself with it? She already had to abandon her home because of him. Liora would much rather find a new home and settle there. She wanted to rebuild her hoard, gain more glimmerstones, and live without worries.
+
+"No," Liora said stubbornly.
+
+"Don't say that! I can't do this without you!" Renir whined.
+
+"No help!"
+
+"Come on! I'm sure we can talk something out. Come to an agreement? I'll make sure it is worth your while," Renir said.
+
+"Worth?" She questioned.
+
+"Yes! I am one of the nine Archmages, Pillar of Lost Magic and…"
+
+Renir went on another lengthy rant, bragging about his magical accomplishments and how supposedly special he was. Liora couldn't be bothered to listen to it all.
+
+"Caw!" She stopped him from yapping on further. "Will you get to the point already?"
+
+"Okay, geez. No need to screech at me. You like treasures and shiny things, right? I can give you loads of those! I'm rich, you know," Renir said.
+
+"Treasures? Rich?" Liora perked up. Now he was speaking her language.
+
+"Yes! My mage tower is filled with both mundane and magical treasures. If you help me get free of the gem, I'll give you a good amount of them," he offered.
+
+"Good amount?" She asked suspiciously. What qualified as a good amount? He wasn't trying to cheap out on her, was he?
+
+"I'll give you all of my gems if you wish. I have heaps of them, you know. And any treasure you want. They are of no use to me anyway if I remain trapped in this rock," he said.
+
+"Heaps?" Her eyes lit up. Did that mean she'd have a whole bunch more gems as pretty as Renir's gem?
+
+"I'll drown you in treasure!"
+
+"Chak-chak-chak!" She squawked triumphantly. "You got yourself a deal!"
+
+"Is that a yes?"
+
+"Yes!"
+
+"Excellent! Then we don't have a second to waste. While you evolving is a great thing, you are still far too weak to really help me," Renir said.
+
+"Caw!" Liora objected. "Mighty words for somebody trapped in a rock."
+
+"Don't get mad. I'm just stating the facts. But don't worry, you can get much stronger thanks to the System. All you have to do is keep evolving and accruing power. There just happens to be a monster-dense zone in the nearby mountains. Not many people venture there, so it'll be the perfect training ground."

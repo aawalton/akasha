@@ -1,0 +1,213 @@
+---
+id: acd7501d-7b80-58e3-9fbd-668a604cad44
+page-type-slug: story-chapter-royal-road
+title: "Chapter 123 – The Most Terrifying Shiny"
+slug: 0123-chapter-123-the-most-terrifying-shiny
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 123
+ownLength: 2337
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3398024/chapter-123-the-most-terrifying-shiny"
+royalRoadId: "3398024"
+---
+
+"Shape oceans?!" Liora and Cee exclaimed at the same time.
+
+"You're exaggerating," Cee said.
+
+"Absolutely not. A Divine who solely focused their powers on a single element would have a complete and utter mastery over it. They could drown this whole planet if they so wished," Renir said.
+
+"Drown the planet…" Liora muttered in disbelief. Suddenly, she didn't want the pearl so badly. It really did feel like holding a nuclear warhead in her beak. What if she accidentally activated the magic within it?
+
+"Of course, the way you two are now, you can't access that power," Renir said.
+
+Liora and Cee both relaxed.
+
+"Why not?" Cee asked curiously.
+
+"Because should you try to access the glimmercore at your current level, its overwhelming power would simply kill you. You can't hope to contain such power," Renir said briskly.
+
+"I… I can't accidentally access it and blow myself up, can I?" Liora asked and withdrew the pearl into her Inventory. It felt better not to touch it physically.
+
+"No, of course not. That has to be done with deliberate intent, and even then, it's not guaranteed with how weak you two are now," Renir said.
+
+"Hey! These two weaklings just defeated a party of the best adventurers!" Cee protested.
+
+"No, you defeated their barely moving corpses. What you fought was just a tiny smidgen of what they could do while they were still alive," Renir clarified.
+
+Despite that, the fight had been formidable. If Liora didn't have the distinct advantage in the form of her holy magic, she didn't know whether they could have won against such a well-coordinated team.
+
+"Okay, so we put the pearl in my Inventory and never speak of it to anyone!" Liora said.
+
+"Umm…"
+
+"Please don't tell me it'll cause extreme rainfall wherever I go or something equally disastrous?" Liora asked.
+
+"No, it's nothing like that. But I'm afraid a powerful mage might be able to detect it if you were to come close enough to them. These kinds of glimmercores have a strong magical aura, and unless you know how to hide them, you're basically a walking beacon," Renir said.
+
+"Goddammit! I've never been more disappointed in a shiny thing in my life," Liora said angrily.
+
+"So should we get rid of it?" Cee asked.
+
+"No way! It'll be even more noticeable when out in the open. We'll have to be really careful in cities, not to get close to any strong mages. My Elites could likely sense it, as could Merlin and his Elites. But newbie mages should be none the wiser," Renir said.
+
+"More people we have to avoid… great…" Liora grumbled.
+
+"There's another thing that worries me," Cee said. "What is that part about reviving?"
+
+"Yeah, I noticed that too," Liora said.
+
+There was another moment of heavy silence.
+
+"Okay, what I'm about to tell you is just a myth. The Divine don't mingle among humans. We don't know much about them, and if it weren't for their powerful artifacts, nobody would likely even believe their existence…"
+
+"Get to the point," Liora urged, feeling that Renir was stalling for time to gather his thoughts.
+
+"Okay, so the myth says that the Divine are basically immortal. You can't really kill them outright. You can destroy their physical body, but as long as their glimmercore is intact, they can be revived," Renir explained.
+
+Liora suddenly felt all the more uncomfortable carrying the pearl around. "The pearl won't start talking to me in my head, will it?"
+
+"I… I don't know. Logically, thinking, the situation this particular Divine is in, and I couldn't be that different. Okay, my physical body wasn't destroyed; it was trapped inside the gem. But the point is that all of my essence is contained within the gem. All of the Divine's essence is also contained within the pearl," Renir said.
+
+"Theoretically, purely, theoretically. Don't think I actually would want to do this, because I don't," Cee began. "But could we revive this Divine?"
+
+Liora shot Cee a dirty look. "As if we don't have our hands full with this guy already."
+
+"Hey, I said it was purely a theoretical question. And I mean, wouldn't a Divine be grateful to be revived?" Cee suggested.
+
+"Divines are as fickle as the wind. You can never predict what they are and what their goals are. I do not know how to revive one, but I imagine the System would provide instructions if you prompted it," Renir said.
+
+"Hey, why don't you check it out?" Cee asked and poked Liora with her leg.
+
+"What?! No way! What's gotten into you, Cee?" Liora cawed angrily.
+
+"I'm just curious," the spider lifted her front legs in a shrugging motion.
+
+"No, no, no! I'm not checking and then receiving a prompt "Revive the Divine or DIE!". Screw that. This is most certainly the most horrifying shiny I have ever picked up. Straight after Renir," Liora said.
+
+"Hey!" Renir whined.
+
+"If it's not as bad as Renir, then what's the harm in checking?" Cee pestered.
+
+"I have grown and learned that trusting every shiny thing that crosses your path is a big mistake. We are not reviving the Divine within the pearl. In fact, how about we head to Renir's treasure trove and exchange this pearl of mass destruction there while taking actually good shinies with us!"
+
+"Hey, no! I promised to take you the treasure trove after you broke another seal on me," Renir protested.
+
+"Please! I really want some nice shinies! The last two I got, I can't even keep. I need treasure!" Liora whined, fluttering her wings in despair.
+
+"I honestly never thought I'd see the day you wouldn't be happy about a shiny thing…" Renir muttered. "But do understand me as well. The progress on the seals has been so slow. I want to regain more of my magic at least."
+
+"I prefer gems and precious metals to pearls. Pearls don't really speak to me as much as other shinies do. The fact that it might start talking to me in my head and demand to be freed is actually concerning," Liora said.
+
+"If you're so concerned about it, why don't you give it to me?" Cee suggested, outstretching one of her legs towards Liora.
+
+Liora regarded the leg skeptically. "You're just going to check how to revive the Divine, won't you?"
+
+"I wouldn't do something so reckless without consulting you first. I'm not you!" The spider shot back indignantly.
+
+Liora had to admit that, as far as trustworthiness went, Cee was without a doubt the most trustworthy in their group. In the end, Liora withdrew the pearl from her Inventory and handed it to Cee.
+
+"You better not do it!" Liora warned.
+
+"I won't! I promise. Better yet, what do we do now? We have charged the Resonance Crystal a bit more, but we still need two more elemental types, right?" Cee asked.
+
+"The treasure trove…" Liora said, pleadingly looking at Renir.
+
+"Resonance Crystal first! Let's try to find a wind mana node. I'm sure there should be one near Abylport," Renir said.
+
+"Okay, fine!" Liora grumbled. "But we're taking a day to rest. These woods are quite comfy."
+
+"It's a bit too cold for my comfort…" Cee admitted.
+
+Looking around, Liora only now realized that winter was already here. Snow was nowhere to be seen yet, but all the leafy trees were barren, leaving only coniferous trees as the only greenery in the forest. Granted, they made up the majority of the forest in these parts.
+
+"We can rest at Abylport. Find an old shed and rest there for the night," Liora suggested.
+
+"Sounds nice!" Cee agreed.
+
+With that plan set out, Liora turned to her big form, allowed Cee up on her back, and took off to the skies. She flew high to survey the surroundings and find the city. It proved to be rather easy, as they had ended up rather close to Abylport. That must have been deliberate.
+
+As it was still dark, it was easy for Liora to slip into the town unnoticed and find an abandoned warehouse near the port, where Liora and Cee decided to rest for the day. They ate the food they had stashed away in their Inventory and generally had a relaxing time.
+
+Liora would sometimes peek outside into the streets to check the situation in the city. It was like night and day from when she first arrived. People were bustling about in the streets, vendors and merchants alike shouting to attract customers, while fishermen carried loads of fish into the city with large grins on their faces.
+
+It looked like the people were relieved to be able to return to their city. Children ran energetically through the streets. Despite all the trouble Liora had gone through on the corruption island, and afterward, it was well worth it to see that she had managed to help these people. It warmed her heart immensely.
+
+It's a pleasant feeling, isn't it?
+
+Renir prodded her while she was sneaking a glance outside.
+
+What? What are you talking about?
+
+Don't play coy. I know the feeling all too well. It was the reason I became a Pillar.
+
+Didn't you become one for power and money?
+
+Well… That too. But it's still a nice feeling to help people. To know that you managed to make their lives better. It's why I study ancient magic, magic nobody seems to understand. By making discoveries, I can improve people's lives.
+
+Isn't that your natural curiosity about magic?
+
+Yes! But the point is that helping people is nice! You do know how to ruin a moment, don't you?
+
+I try my best!
+
+Renir did the mental equivalent of a sigh. Liora stared out of the window for a bit longer.
+
+It is nice to help people.
+
+When darkness descended in the evening, and Liora and Cee had completely recovered their strength, they emerged from their hiding spot. Flying unseen under the cover of darkness was comforting for Liora. Even while directly above Abylport in her aethral form, nobody was any wiser about Liora's presence.
+
+"So where are we supposed to be heading, oh mighty spider?" Liora asked.
+
+"Okay, let me check," Cee said and looked around, no doubt using her Mana Perception. "I see a yellow mana node at the sea."
+
+"That's probably Seabloom Island," Liora said.
+
+Without a doubt.
+
+"There's another vaguely yellowish spot somewhere far away inland, towards the marsh," Cee said.
+
+We don't need another earth mana node.
+
+"We don't need that one," Liora said.
+
+"Yeah, I figured. The last one I see is very tiny. I can't even tell its color properly, but it is further down the coast. Opposite of where we ended up yesterday," the spider said.
+
+"I suppose we'll go and check it out," Liora announced and flew in the indicated direction.
+
+It didn't take long for them to close the distance.
+
+"Oh! It is definitely green. Green is what we need, right?" Cee cheered.
+
+Green is definitely what we need.
+
+"Full speed to green!" Liora cheered and sped up.
+
+While the night was chilly, Liora was feeling great. Her feathers had great insulation, so she didn't feel the cold at all. Cee, being all cocooned up close to her body, was also feeling comfortable, enjoying the smooth flight.
+
+It took about an hour for the light to get so intense that Cee couldn't keep her Mana Perception on anymore. Liora then tapped into her Treasure Sense, relying on it to guide them the rest of the way. However, it didn't take long to realize where they had to go, even without the skill.
+
+The area they ended up in was mostly covered in forests, much like around Abylport. The difference was that there were noticeable hills scattered about. Nothing as large as near Sunvale, but there was definitely some elevation going on here, which would certainly make the place rather difficult to traverse on human feet.
+
+At the center of these forested hills, a village was hidden. But it wasn't like a regular village you would expect to see—tiny wooden huts, dirt roads, and poor-looking citizens. No, this was a rather peculiar place.
+
+The houses, although small in number, were all ornate, made out of marble with fancy railings and large, neat gardens around them. Streets were made with neat grey and yellow brick pavement and even had lights illuminating them.
+
+At the very center of this village stood a grand building which shone like a beacon in the night with all the light coming from its many windows. At the front entrance, above the large doors, were colorful and intricate stained-glass windows. Even from afar, Liora could see artistic depictions of mages fighting various monsters.
+
+Why is it always like this? Why can't we just find an empty mana node for a change?
+
+You tell me! I'm pretty sure this is your rotten luck haunting us.
+
+"What the hell is this place?" Cee whispered.
+
+"I would also like to know that. It's clear that this building is built right on the mana node!" Liora complained. "How do I get inside with it being illuminated like this? And I'm pretty sure I see guards patrolling the whole area."
+
+I'm afraid that this is an elite school for wind mages. Likely established by no other than Merlin himself. That damned buffoon. He didn't even tell me about this! I'm going to strangle that old man once I get my body back.
+
+"It's… a mage school," Liora said.
+
+"A school? How the hell are we supposed to sneak inside a school unnoticed, find the mana node, which I imagine is treated like some sacred resource, and perform our attunement ritual?" Cee asked, legs wiggling angrily. "Not to mention that somebody in there is likely a very skilled mage, who could sense the damned pearl in my Inventory."
+
+"That's the question, isn't it?" Liora said and sighed. She wished that they were monsters guarding the place instead. That would have been much easier.

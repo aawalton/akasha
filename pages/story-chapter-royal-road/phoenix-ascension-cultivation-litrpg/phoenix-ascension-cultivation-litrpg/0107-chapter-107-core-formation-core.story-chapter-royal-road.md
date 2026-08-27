@@ -1,0 +1,189 @@
+---
+id: ec817de4-fef1-500f-ac44-6b211eb98539
+page-type-slug: story-chapter-royal-road
+title: "Chapter 107: Core Formation Core"
+slug: 0107-chapter-107-core-formation-core
+partOf: phoenix-ascension-cultivation-litrpg
+position: 107
+ownLength: 1983
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3212175/chapter-107-core-formation-core"
+royalRoadId: "3212175"
+---
+
+“I wonder that myself.” That should have satisfied Meng Mao. I wasn’t planning on telling him anything more than that anyway.
+
+“I see. So, what now?”
+
+“I will eat this guy after expelling the poison, and after that, I don’t know, I still have a few things that need to be going,” I replied, hoping that he’ll just leave me alone. I appreciated the pill, I really did, but man, could I do without having to explain myself.
+
+“That’s a solid plan, even though I disagree with eating him. I mean, he’s all charred, probably doesn’t taste good.” Meng Mao continued, talking as if he were my friend.
+
+All I wanted and needed from him was to get me inside whatever place it was that had that cool treasure, so I could absorb it. He needed me as well, so it was nothing more than a business relationship.
+
+Though I wasn’t sure why he was being so nice to me. Even if I were a Phoenix, he was a Core Formation cultivator, and I was weaker than him. I wasn’t even close to reaching his strength, despite all my powerful skills.
+
+Quite frankly, I had no idea what he was scared of.
+
+Either way, I remained silent. Expelling the poison took utmost priority, and the more time I took to talk to him, the longer I would suffer.
+
+The pill that he’d given me was extraordinary,y though, so I couldn’t hate him too badly.
+
+Meng Mao seemed to have gotten the message, as he quietly took his leave and left me alone. I had no doubt he would come look for me later, though. For now, I was glad I took care of the assassins.
+
+There was one thing that bothered me, though. After killing Teng Yu, it seemed that I’d gotten another mysterious entity interested in me. I began to wonder just what these entities were. Besides the obvious fact that they were strong cultivators, of course.
+
+For the moment,t it seemed that they wanted nothing to do with me, so I shouldn’t have any issues for the moment.
+
+Though considering all that’s happened, the first entity must have been someone related to the heir thing, and the second one… well, obviously somebody related to Teng Yu.
+
+Or previously related, as his corpse stood a few feet away from me.
+
+Thoughts aside, I closed my eyes and focused on expelling the poison. As the hours passed, the sun began to rise. Thankfully, I’d long since gotten rid of his poison, and I’d just been resting, recovering my Qi via meditation.
+
+I opened my eyes and walked over to Teng Yu’s corpse, putting it in my bag of holding, and leaving the area.
+
+There were many things I still had to do, and very little time, as it turned out. I wasn’t sure I would be strong enough to snatch the flower from an inflated number of cultivators. While I was very confident in my stealth, it would be far from enough.
+
+I’d also lost track of time, but it wasn’t that far away. My only regret was that I couldn't buy anything useful from the auction. Most of the good showcased were low-tier trash, and all I wanted was to break through into the Foundation Establishment stage.
+
+My current level of Peak Qi Condensation was getting ready to explode, and if I didn’t break through soon,  I was literally going to explode from anticipation. However, I wanted the perfect breakthrough, so I couldn’t do that, not yet.
+
+I needed the soil, most of all, and to figure out how to turn the two Golden Cores into a sun and a moon. I was ashamed to admit that these things were rather new to me. But… Meng Mao would know, right?
+
+I would need to ask him next time I saw him. For the moment, I returned to my nest, flying while being shrouded, and took out the charred corpse.
+
+Thankfully, only the outside was burnt badly, and the rest could be argued to have been cooked to perfection, though I didn’t find cooked food that tasty.
+
+I much prefer raw meat nowadays.
+
+Also, the corpse was headless, so there was that. I would have loved to see Chiao Zhen’s expression once he woke up, but oh well.
+
+Meng Mao was right, though, I probably overdid it. Maybe just another threat would have been enough, but seeing the bastards who wanted to kill the children angered me. Naturally, I wasn’t expecting their leader to do what he’d just done.
+
+Speaking of, he did form a core…
+
+Without further ado, I undid all my stealth skills and began eating away at the five-star delicacy.
+
+Yeah, the taste was about as bad as I expected, but due to the fact that this had to be the strongest anything I’d eaten so far, the amount of energy remaining in the flesh was great. The quality wasn’t nearly as good as that of Spirit Beasts, but it was passable.
+
+My Overeater skill went to work, and I found myself quickly gaining a few inches in my width as I finished consuming him.
+
+All of him, except the core, of course.
+
+I scooped it up from his chest cavity with my wing and noticed its… inferior size. In comparison to what I was used to, the size and shape were lacking, but the energy brimming within was immense.
+
+The only cores better than this one were the two from the Vermillion Bird and Ice Crow, and I wasn’t planning on absorbing them.
+
+Of course, I’d absorbed good cores before, but now I was excited, since it would be the first human core.
+
+And if their cores were as good as their flesh, then…
+
+[Teng Yu’s Core]
+
+[A core harvested from the cultivator known as Teng Yu. Highly poisonous and possibly cursed.]
+
+Possibly cursed? What the-
+
+[Would you like to absorb Teng Yu’s Core?]
+
+Well, might as well, right?
+
+Yes.
+
+The core’s color dimmed, becoming grey as I absorbed the energy within. I felt a rush of something, then it stopped.
+
+[Teng Yu’s Core absorbed with 90% Efficiency.]
+
+[+5 Strength; +5 Dexterity; +5 Perception; +5 Charisma; +5  Intelligence]
+
+[Skill:Last Stand(Novice) Acquired]
+
+The rewards were rather lackluster, at least in terms of stats. I couldn’t believe I was still getting stats in the single digits even after getting so strong, especially considering where the core had come from.
+
+Then again, I shouldn’t have expected anything to begin with. Thankfully, whatever it said about the curse did not come to be.
+
+I was curious about the skill, though.
+
+[Last Stand(Novice)]
+
+[Gather energy for a final stand against your enemy. Upon activation, the skill drains your Qi, Vitality, and Stamina to give one immense burst of power.]
+
+It sounded like what Teng Yu had used at the end, but it was definitely not doing the same thing. For him, the skill boosted his poison-related skills; I had no doubt of that. But for me… It just made me stronger before I died? Or was it whenever I wanted?
+
+Either way, I wasn’t going to test that, at least not now. Though I couldn’t say I was particularly thrilled about adding another skill I may not use.
+
+Sure, I was doing a pretty good job at using all my skills, but the more I got, the worse it would get, right?
+
+If only there were a way to get rid of them… Aside from selling them, at least. I still wanted them all, as long as they weren’t poison-related.
+
+I waited, but nothing happened.
+
+I said-
+
+[More information will be awarded after reaching the appropriate level.]
+
+Now that was just bullshit. System knew, yet refused to tell me, again!
+
+I supposed there was little I could do, though. At least I was told when the information I wanted would be granted.
+
+Sighing, I stopped my shenanigans and wanted to check out what else I’d gotten after levelling up.
+
+System had a way of not showing me all the notifications. Or rather, it made me wait until later to show me what skill I’d gotten upon levelling up.
+
+Much to my disappointment, though, I’d only gotten one.
+
+[Skill: Elemental Mixture(Novice)]
+
+[Combine two or more elements to achieve the perfect deadly power combo.]
+
+That was… wow.
+
+There was so much information that I wasn’t even sure what to do with it. One whole sentence… I could barely hold back from rolling my eyes, if birds could even do that. I was a Phoenix, though, so maybe we could?
+
+Anyway, that was definitely something I had to test. I was wondering what sort of new elements I could get if I combined them. Very hot water became steam, right? Was steam an element?
+
+What would Lightning and Water produce? There were just too many questions and no actual answers. That, I could not stand.
+
+There was something else I needed to do before, though.
+
+And that was, of course, to check his bag of holding.
+
+An important man such as himself must have had some pretty amazing stuff hidden away, and I could not wait to see what sort of treasures I could claim as prize.
+
+I’d forgotten about the others’ bags, but ah, well, at least I grabbed the big boss’s bag. It was time for me to loot.
+
+Opening it up was easy, as there was no lock or anything of the sort, and after assessing that there weren’t enough items to fill up my cave, I took them all out and categorised them as I did so.
+
+The first things to look through were a bunch of scrolls, which I’d gotten better at opening through my original form.
+
+The majority of them were contracts that were never going to get fulfilled, unfortunately for them. I burned those, giving them a second look. Next were cultivation scrolls, though all of them were related to poison.
+
+Naturally, these went up in flames too.
+
+One did catch my eye, though. It looked very old and even had some story written on it. Something about how a snake became a dragon and formed its own cult. Standard evolutions, I supposed, but I didn’t care.
+
+Considering that it was also poison-related, it also went up in flames. A shudder ran through me when I turned it to ash, though, and I supposed I figured out what that second mysterious entity was.
+
+Malefic Viper something…
+
+I didn’t care much for it. Not that I could do about it, and it seemed like it couldn’t do anything about me, or he wasn’t really angry. Either way, it wasn’t anything important for the moment, and I would deal with it when the time came.
+
+After those boring poison-related cultivation techniques were the weapons, also all poison-related. Not that I cared much about weapons besides using them as explosives. Anyway, I kept those, since again, I could explode them.
+
+I was beginning to get annoyed, as the next haul was a bunch of pills… Poisonous pills. And some poison cures, but none for what inflicted me, it seemed.  I couldn’t believe I almost died from poison… again.
+
+Anyway, I didn’t dare risk burning them, so I stored them back in his bag of holding, but kept the cures. Who knew when I would have to deal with such bastards again?
+
+There were some health-restoring pills as well, so I snatched them up, just in case.
+
+Unfortunately, I could only be disappointed in his bag of holding. There was nothing else of importance, and the Spirit Stones he had were barely enough to fill up one-tenth of my pocket currently.
+
+I could just give those to Shu Xu Ning as pocket money, though, so not all wasted.
+
+But there was one thing that stood out amongst all the items I couldn’t use. A giant pile of dirt.
+
+[Poisoned Coarse Dirt]
+
+Fucking damn it.

@@ -1,0 +1,313 @@
+---
+id: a693086e-f6f1-566f-a672-98588f2d2fe4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 778 - Rabbit Rigmarole"
+slug: 0781-chapter-778-rabbit-rigmarole
+partOf: mythrans-master-of-all-continued-completed
+position: 781
+ownLength: 3149
+unit: words
+publishedAt: 2018-11-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310759/chapter-778-rabbit-rigmarole"
+royalRoadId: "310759"
+---
+
+The first thing Ren did was deactivate part of his Crusader title that made him protect the weak and downtrodden and kept both the Bolster skill and the Inspiring Presence Aura. He didn't activate the Aura, though.
+
+“Wow, this carriage ride is really smooth.” Yuwen said, her white-haired head rested on Ren's shoulder. “I don't feel like my teeth are rattling in my head!”
+
+Everyone laughed at that.
+
+“That's because this carriage has a special suspension and a reinforced undercarriage.” Ren said. “It absorbs the shock that the wheels normally transfer into the solid body of a normal carriage.”
+
+“That's amazing.” Tiyaphi said, her blonde hair waving slightly from the open window that she gazed out of. “Wait a minute.” She said and looked at Ren. “You had this on you the whole time?”
+
+“Yeah.”
+
+“Why didn't we get to ride in this instead of the delegate carriage?”
+
+“Mainly because it wouldn't be an official part of the caravan and I might not have been allowed to cross your lands, otherwise.”
+
+“Oh, I guess that's a good enough reason.” Tiyaphi said and settled back onto the plush and comfy seats and ran her hand over the fabric. “The ride would have been so much better in this thing, though.”
+
+Yuwen laughed. “We didn't pick you up until we already crossed the border!”
+
+“I know!” Tiyaphi said and laughed, too.
+
+“R-Ren.” Dilseffa said, and he turned his head to look at her. She sat beside him, barely an inch away, as if she didn't deserve to touch him.
+
+“I told you that I wasn't angry that you had to give up your adornments.” Ren said and took her hand. She flinched slightly at the touch, because she got an even stronger dose of his emotions.
+
+“But... it's just like you said. We didn't... it never crossed our minds to...”
+
+“It's all right, Dilseffa.” Ren said and lifted her hand to his mouth and licked the back of it.
+
+“But... now, when... when we...”
+
+“Are you nervous about meeting your family without wearing them?” Ren asked, and she nodded. “Is it because it defies my order, or because you can't show off what you mean to me?”
+
+Dilseffa opened her mouth for a moment, closed it, then sighed. “Both.”
+
+“Don't worry about it.” Ren said. “I'll...”
+
+“We're here.” The attendant said. The carriage slowed down and came to a stop on the side of the road, and everyone looked out the window to see a large and lush open field.
+
+“What in the world?” Ren asked as he looked around and didn't see anything. He quickly looked out the other side and saw the same thing. “Are you sure it's not a mistake? Are we really here?”
+
+“Y-yes, this... this is home.” Dilseffa said.
+
+“Okay.” Ren said and turned back to her. “Mistress, allow me to adorn you once more.”
+
+“Wh-what?!?”
+
+“I told you that I won't let anyone assume that I can't fulfill my duties to you.” Ren said. “Will you accept them?”
+
+“Y-YES!” Dilseffa yelled, which made Tiyaphi and Yuwen laugh. “Ah... I mean, yes. Yes, I will.” She said more sedately.
+
+Ren gave Dilseffa replacements for everything she had to give up to the delegation, and she took several deep breaths and relaxed.
+
+“Thank you, Ren.”
+
+“Like I said before, if I'd known they would take them, I would have waited until now to give them to you.”
+
+Dilseffa closed her eyes as Ren caressed the cheek of her face. She opened her eyes when he stopped and she nodded to him to give him Respect.
+
+Ren smiled at her as he dismissed the popup and he turned to Yuwen. “You as well, Yuwen.”
+
+“M-me?” Yuwen asked, surprised.
+
+“I assume for this first meeting, I need to go alone; but, they are going to ask about my other Mistresses and I won't have you bare before them.”
+
+Yuwen's face flushed slightly red at his choice of words, and he chuckled.
+
+“I meant bare of my gifts, not of your clothes.” Ren said.
+
+“I know.” Yuwen said with a smile, then she graciously accepted the replacements for her adornments.
+
+The carriage door opened and the attendant stood there with a wide smile. Ren stepped out and helped Dilseffa step out as well, then she pointed to a spot that was a quarter of the way into the field.
+
+“Right over there.” Dilseffa said.
+
+Ren held out his elbow and escorted her over to the spot, and he was surprised that their feet didn't trample the foot-tall grass at all, even though he could clearly hear his feet rustling through it.
+
+That's a neat trick. Ren thought.
+
+Dilseffa took a deep breath and spoke in a language that Ren hadn't heard before. There were snapping teeth sounds, squeak and squeal sounds, and even a bit of coughing. She felt Ren's surprise and turned her head to explain, then a 10 foot wide round section of the grass lifted slightly. It hinged up and opened like a hatch cover to reveal a stairway going down underground.
+
+“That's so cool.” Ren and Teepo said at the same time, then he felt something moving through his Aura at a high rate of speed.
+
+Dilseffa chuckled at Ren's comment, then she felt Ren's reaction to something. “What...”
+
+“Someone's coming.” Ren said.
+
+“Don't attack.” Dilseffa said immediately.
+
+Ren glanced at her worried face and gave her a wink. She couldn't help but smile at him, then suddenly there was a very large and nearly naked man that stood just inside the underground shadow of the hatch. He only wore a plain sash across his waist and held a battle axe in one hand and a broadsword in the other. He also wore haphazard armor pieces of inferior quality that were useless for more than basic protection.
+
+“Who dares open my home without announcing themselves?” The 6 foot tall man said in a deep and angry voice, and a menacing feeling came off of him in waves.
+
+“Give it a rest, Doth.” Dilseffa said and tugged Ren's elbow as she started to walk. “I don't have to announce myself every time I come home!”
+
+Ren took several steps to keep up with her, then walked beside her down the well-formed stairs.
+
+“Aw, come on, lil'sis!” Doth almost whined and the menacing feeling faded. “How often do I get to practice this?”
+
+“Every time I come home, apparently.” Dilseffa said and rolled her eyes, and Ren chuckled.
+
+Doth turned and looked down... way down... at Ren. “Who is this?”
+
+“I can't say.” Dilseffa said and stopped walking at the bottom of the stairs. “Not until mom meets him.”
+
+“Oho!” Doth sheathed the broadsword on one hip and hooked the battle axe onto the other. “She's either going to be angry that you're bringing someone home out of the blue, or ecstatic that you did and then get angry at you for not telling her before you showed up.”
+
+“I can explain...”
+
+“I can't wait to see her blow up at you!” Doth said happily and strode down the underground tunnel. “I can't wait!”
+
+Dilseffa sighed, and Ren pat her hand.
+
+“It's all right.” Ren said. “I'm right here to absorb all the attention for you.” He smiled. “Both the good and the bad.”
+
+Dilseffa nodded slightly, then they walked down the underground tunnel as the hatch closed behind them. Ren looked around as they walked and he saw various off-shoot tunnels, all the exact same size as the one he was in. Teepo kept track of all the turns and corners they took, and also all of the small rooms they passed. Some of those rooms had people in them, and they were of a similar size to Doth.
+
+“Hey, Ma! MA!” Doth yelled as they entered a room that was larger than the others, and the smells of cooking food hit Ren.
+
+“Stop yelling, you big oaf! I'm not deaf!” A woman's voice said angrily from across the room.
+
+Doth laughed and moved off to stand at the side of the room so he could watch the spectacle. “Sorry, Ma.” He said. “Guess who came home early?”
+
+“I hope it's your father.” The woman said, just as angrily. “If he doesn't get that meat home soon, this soup broth is going to taste awful with nothing in it.”
+
+No one said anything for a few moments, so Ren put his hand on Dilseffa's lower back to encourage her.
+
+“Mom.” Dilseffa said, and they all felt her mother react and stiffen. “I'm home.”
+
+“Dilseffa.” Her mother whispered. She took a breath and let it out. “A month.” She said. “You're home almost a month early.”
+
+“I can explain.” Dilseffa said.
+
+“Don't tell me you lost your job.” Her mother said as her anger filled the cavern. “You've worked too hard to earn a spot on the delegation to...”
+
+“She's home early because of me.” Ren said and cut her off.
+
+Dilseffa, Doth, and their mother gasped for different reasons. Dilseffa and Doth because Ren had spoken out of turn, and their mother because she didn't recognize his voice.
+
+“Before you overreact, I hastened the entire delegation's return to the Pervaria Kingdom, not just Dilseffa's.” Ren explained. “They just dissolved the caravan at the storage grounds and we need to go to the capital in the morning for the debriefing.”
+
+The woman's anger faded. “So, she didn't lose her job.”
+
+“Actually, depending on how things go, she might give it up.” Ren said, and her mother caught her breath.
+
+“Wh-why? Why?”
+
+“She found a different one.” Ren said, and they all felt how happy he was about it. The woman took a moment to process what he said.
+
+“What... what job could be better than travelling the world?”
+
+“I guess it's debatable if being the head of security for the Ren Dynasty is better or not.” Ren said. “I suppose it could depend on the size of the plot of land I can buy here.”
+
+“Did... did you say... dynasty?” The woman asked and turned around. She had brown hair just like Dilseffa, was exactly the same height, and she wore a form-fitting dress that bared some of her cleavage. The only differences between her and her daughter were their faces and the fact that she had gigantic breasts. She caught sight of Ren, all 4 feet 7 inches of him, and her eyes widened. She was about to comment that her sons were so much bigger, then she looked down and saw that he was only wearing a sash and nothing else. The shock of that hit her and she shook slightly, then her hands became fists and she took a deep breath.
+
+“Who are you?” The woman asked.
+
+“My name is Ren.”
+
+No one said anything for a moment, then Dilseffa spoke.
+
+“Step closer, mom.”
+
+“Wh-what?”
+
+“You need to feel it for yourself.”
+
+“Feel what?”
+
+“You'll know it when you feel it.” Dilseffa said. “Just take a step, mom. Just one.”
+
+Her mother thought about refusing and looked at Ren's face. “Why should I?”
+
+“I think she's trying to make a point.” Ren said. “I'm just outside the limit of your Aura. If you take step, it will touch me.”
+
+“How do you know that?”
+
+“I can see it.” Ren said and pointed to the spot right in front of his feet, then he pointed to Doth's feet across the room. “He's just inside of it so he can feel your reactions.”
+
+The woman nodded slightly and took a step, then gasped. “Oh, my god!”
+
+“What?” Doth asked. “What is it?”
+
+“He... he's...”
+
+“Come on, Ma. What is it?”
+
+“He's her Inamorato.” The woman said, completely shocked.
+
+“WHAT?!?” Doth yelled.
+
+Dilseffa pulled her bodysuit down slightly, just enough to show off the dire wolf mark above her heart. It also showed off the large enchanted diamond necklace she wore.
+
+“I can't believe it!” Doth exclaimed. “You... you found...”
+
+“I am King Ren's Second Mistress.” Dilseffa said, and let the pride she felt fill her. Ren funnelled it and pushed it out through his Aura so that they would feel it, too.
+
+“Did... did you say... Second Mistress?”
+
+“The other two are waiting in the carriage.” Ren said.
+
+“You have three mistresses.” The woman said. “Three.”
+
+“I won't go into the specifics of how it came about, because that doesn't matter right now.” Ren said, adamantly. “All that matters is that Dilseffa is under my domain and I will do everything within my power to protect her.”
+
+“What... what about...” The woman looked at Dilseffa's slightly red face.
+
+“He's under arrest and is being detained by the delegates.” Ren said. “I don't know what they are going to charge him with first, though.”
+
+Like a switch had been thrown, Dilseffa's mother changed from a stern and harsh woman into a blubbering and crying mess as she ran over to Ren and hugged him tightly.
+
+“Th-thank y-you! Th-thank y-you! Th-thank you!” The woman said as she mashed her breasts into Ren's face. “I was so worried... I could never say... her brothers couldn't...”
+
+“Muhm hm muh.” Ren mumbled into her cleavage and put his arms around her to hug her back.
+
+“Mom, you're smothering him!” Dilseffa said in exasperation.
+
+“He deserves a hug for saving you from that nasty man!” Her mother said and didn't try to wipe at her tears.
+
+“He doesn't deserve to die for it, though.” Doth said with a chuckle.
+
+“Oh, I suppose not.” Their mother said and eased her tight hold on Ren, and he lifted his face out of her cleavage.
+
+“Are you all right?” Dilseffa asked, concern in her voice and emotions.
+
+Ren nodded slightly. “I'm just glad that I can hold my breath for a really long time.” He said, and her mother and brother laughed.
+
+“My name is Duyu, and I welcome you into our home, the Dreikhyth Warren.” Dilseffa's mother said as she looked down at him.
+
+“I humbly thank you for the comforting softness that you have greeted me with.” Ren said with a smile.
+
+Duyu's face flushed red, because of where his chin currently rested. “Oh, um... well... I...”
+
+Everyone felt her confused emotions, and Doth chuckled.
+
+“You can start by letting him out of the hug.” Doth said.
+
+“Oh! Yes! I can do that!” Duyu opened her arms to let Ren out of the hug and tried to step back. Ren held on and stopped her. She widened her eyes at him as he turned his head to the side and rested it on her cleavage.
+
+“Just so you know, I really like hugs.” Ren said and gave her a little squeeze, then lifted his head and let her go. “Thank you.”
+
+“Y-you're w-welcome.” Duyu said, slightly flustered.
+
+A pulse of something passed through the whole Warren and Doth reacted.
+
+“Someone's at the door!” Doth exclaimed and ran from the kitchen.
+
+“It's probably just one of the others.” Duyu said to Dilseffa and turned back towards the stove and walked over to the large pot of soup broth. “If your father hasn't shown up by now, he's probably going to be a while.”
+
+“Then perhaps I could help.” Ren said.
+
+“I don't see how.” Duyu said. “Unless you've got some choice cuts of meat stashed somewhere.”
+
+Ren walked over to the counter beside the stove and took out a big pile of already cooked Dretch meat steaks. “With a bit of added spices to the broth, these should be a good addition.”
+
+“What kind of meat is that?” Duyu asked and took a sniff. “It smells good.”
+
+Ren took out a chef knife and sliced a sliver off, then held it out to her. “It's already cooked, so you can try it.”
+
+Duyu was a little surprised that he would offer to feed her like that, then she shrugged mentally as she leaned forward and carefully took the piece of meat into her mouth. Her lips kissed his fingers as her teeth bit into the meat and tore a piece off. Ren raised his eyebrows at her, because he had expected her to just take it with her fingers instead.
+
+Duyu stood up straight and started to chew on it, and the flavor filled her mouth. “Oh... mhm... that... that's so good!” She exclaimed and saw that he still held out the rest of the sliver of meat. She quickly leaned back over to get the rest of it, not realizing that Ren had been too surprised by her first bite to try and take his hand back. She put her mouth over his fingertips and her tongue slid between his thumb and forefinger to hook the rest of the piece of meat. Ren opened his fingers slightly so she could take it.
+
+“Mmm!” Duyu moaned as she chewed on it. “Where did you get such tasty meat?”
+
+“Um...” Ren glanced at his wet fingertips and then at her. “Shargon Caverns.”
+
+“You... you were in Shargon Caverns?!?” Duyu exclaimed. “I knew you were boasting your fighting prowess with that sash... but... Shargon Caverns!” She stopped talking and turned to Dilseffa. “If you do decide to not be a delegate anymore, I will approve of it.”
+
+“M-mom.” Dilseffa walked over to her mother and gave her a hug. “Thank you.”
+
+Ren remembered that he should be cutting up the meat, equipped a bodysuit for an instant to clean his hands, then equipped the sash and shorts combo again. He quickly cut up several steaks into slivers and several of them into diced chunks while Dilseffa and her mother hugged.
+
+Ren used a spoon to taste the soup broth and agreed with Duyu that it was bland. He added some spices to it and stirred it, then tossed in the meat he had cut up. He used his Fire Manipulation skill to quickly heat up the meat to the same temperature as the broth and the smell in the kitchen changed to reflect it.
+
+“It's just Dohm.” Doth said as he entered the kitchen with someone who looked just as big and muscled as him, then they both stopped when they smelled the updated soup. “What is that delicious smell?”
+
+“Your mother's soup.” Ren said and kept stirring.
+
+“It hasn't smelled like that before!” Doth exclaimed. “I can't wait to taste it!”
+
+“You better go and get your brothers, then.” Duyu said. “It's almost ready.”
+
+“What about Da?”
+
+“He can have some when he gets home.”
+
+“But...”
+
+“King Ren has provided us with suitable meat.” Duyu said. “Make sure you set the extra places at the table.”
+
+“Aw, Ma!”
+
+“Don't 'ma' me. You're the eldest brother. Get going!” Duyu said and pointed. “Don't forget to put out the buns!”
+
+Doth sighed. “All right.” He said and turned around and walked out of the kitchen. “Come on, Dohm. You're helping.”
+
+“Ah, dammit.” Dohm said and left with him.

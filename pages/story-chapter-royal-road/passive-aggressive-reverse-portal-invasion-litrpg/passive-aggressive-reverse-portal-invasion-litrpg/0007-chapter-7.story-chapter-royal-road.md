@@ -1,0 +1,195 @@
+---
+id: 2a6fb9a0-1f5a-5632-a653-967a0d276c8e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7"
+slug: 0007-chapter-7
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 7
+ownLength: 2131
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3463446/chapter-7"
+royalRoadId: "3463446"
+---
+
+My vision swirled and expanded, as I opened the prompt leading to the possible negative quirks.
+
+During your class selection, you may select a negative quirk. The quirks are divided into Tiers, based on their projected severity. For every Tier of a negative quirk chosen like this, you may choose to:
+
+You may mix these as you please. For instance, if you select a Tier 3 negative quirk, you could choose a Tier 1 positive quirk, five talent points and five attribute points, fifteen attribute points, or a Tier 3 positive quirk.
+
+Also, on top of these rewards, your options are expanded. For each Tier of your chosen negative quirk, you may choose to use your talent points for the corresponding Tier of available talents, instead of waiting to unlock them by leveling.
+
+See list of negative quirks? Y/N?
+
+I blinked, then read and re-read that last paragraph, three times. That was… that was huge! Why hadn’t anybody mentioned that?
+
+In this new world, of course, the way you applied your attributes had a huge difference in your impact and power. But they were nothing compared to the talents you selected – as had already been displayed by the alien invaders in Florida. City block-sized explosions. Invisibility. Skin like diamonds. The options were endless. But – and this was a huge but – the talents were also progressive, and their power corresponded to your current level. Meaning, Levels 0 through 4 only had access to the first Tier of talents. At level 5, you unlocked your second Tier, and so on.
+
+At this point, I hadn’t heard about anybody reaching level 25. But I was sure there would be further nice surprises as everything evolved. This quirk, however, was a gamechanger. If I picked a Tier 5 negative quirk, I’d be able to spend every talent point earned through Level 1 to 24 on higher-Tier talents, which would be vastly more powerful than Tier 1.
+
+I grinned, shaking my head in disbelief. Now I got why U-Nerds were so damn insistent on it. I just couldn’t get why everybody didn’t opt for a negative quirk right from the get go.
+
+Mentally, I selected the ‘Y’ option, and started reading through the available quirks. Then I got it.
+
+“This is absolute horseshit! Who’d ever pick anything like that?”
+
+Tier 5 negative quirk:
+
+Triple Amputee
+
+You will lose three of your limbs permanently. You may select which remaining limb you decide to keep.
+
+What. The. Fuck? And they still expected somebody to be a Fighter after that? What could a person even DO after that? Throw daggers? Though, I supposed, if somebody like that got put in a specialized horse saddle or something, they’d be able to still function. But damn.
+
+I looked at another.
+
+Tier 5 negative quirk:
+
+Luck of the Hanged
+
+Luck is a knife’s edge, they say. Any situation teetering on the edge of chance is more likely to fall to your disadvantage. That bedpost being right in front of your toe. A dagger barely finding the gap in your armor.
+
+Hell no. If you were, say, a Crafter, that might be survivable. If you specialized in… knitting or something. But anybody planning to throw themselves into battle, like I was, didn’t need Lady Luck holding a grudge against themselves.
+
+I looked through more of the Tier 5 quirks. Some were downright comical, like the one permanently reducing your Strength attribute to fifteen percent of whatever it was, and locking it permanently. Others were just vicious, like the one tripling any magical damage suffered, with no possibility of building resistances. I had trouble finding any that I would perceivably be able to survive, long-term – especially, if I wanted to level up, not just muddle by!
+
+A few of the quirks might be doable. Two different options at least didn’t feel immediately suicidal.
+
+Tier 5 negative quirk:
+
+Postponed Talent
+
+You are a powerhouse. There is no need for you to invest in talents to thrive. You will not earn any talents for the next five Tiers (until Level 25.)
+
+Limitation: You may not use Tiers earned through this quirk to purchase talent points.
+
+With a sufficiently powerful positive quirk and a bunch of boosts to the right attributes, that one might be survivable. Honestly, though, I didn’t feel too damn good about the notion of going up against a high-level monster with no talents at level 24. Still, at least I’d have my attributes to count on. Not so for the other option.
+
+Tier 5 negative quirk:
+
+Cut down to Size
+
+Attributes are overrated. You have decided that you do not need all your current attributes in order to thrive. You will deduct twenty-five points off of your current attribute pool
+
+Limitation: You may not use Tiers earned through this quirk to purchase attribute points.
+
+That one seemed doable as well… as long as I didn’t look to hard at it. Okay, I might be able to survive losing a few attributes in the physical department. And given that I wasn’t aiming to become a Mage, axing all nine points in that one might be doable, and a bit in dexterity and Perception on top of that. But what happened if I put mental control to 0? Would I have no defense whatsoever against magic? Would my brainpower be affected? And would I even be able to put up a fight out there if I lowered my attributes too far? I doubted that the locals called them the Killing Fields for nothing.
+
+In the end, I grimaced and continued looking. Then I skipped down to the Tier 4 ones and started afresh.
+
+I had no clue how long I spent there, next to the wall, immersed in my own universe of possible horrible impediments. Eventually, however, I decided that I needed to see which positive quirks they had to counteract the horrible fates they had in store for me, and possibly try to plan some good combinations.
+
+To my relief, the positive quirks didn’t underwhelm. There were enough possible offers and combinations, that I could possibly see myself coming out with something, that might be, not just survivable, but actually good. With Tier 3 as the minimum acceptable by the U-Nerds, that wound out also being the first doable combination I located.
+
+Tier 3 negative quirk:
+
+Magically Deficient
+
+Your body rejects magic. You will never be able to command magic beyond that of your talents. Your Mental Power is permanently set to 0. You will never be able to imbibe magical potions, eat magical food or use magical items that need mental direction.
+
+Tier 3 positive quirk:
+
+Force of Reckoning
+
+Your power should not be underestimated. Any damage you cause in combat, through talents or otherwise, will have a fifty percent increase. Your strength is increased by fifty percent.
+
+I could really see that. Given that my Mental Power was already a wash, it was really just the idea of giving up potions and magical food that hurt. And the increased damage would definitely increase my long-term viability, while still complying with what the U-Nerds required.
+
+Only… it didn’t speak to me. Was I truly going to go into a new, magical world, and outright cut myself off from the magic? Could I even survive without magical healing? I gritted my teeth and kept looking.
+
+Eventually, I located an option that made me pause.
+
+Tier 5 negative quirk:
+
+Enforced Anti-violence
+
+Some people are against violence. You take it one step further. You cannot attack, learn offensive skills or use weapons, may only select defensive and passive talents, and cannot share a group with somebody who attacks enemies. Access to your offensive talent tree is lost and future talent tree expansion is adjusted.
+
+It was ridiculous. Of course it was. Utterly, completely insane. But it was also one of the very, very few Tier 5 quirks that would leave my attributes, mental state and everything untouched. And there’d been that one Tier 4 positive quirk… I switched over the positives and started browsing the list. My eyebrows shot up, as I located it.
+
+Tier 4 positive quirk:
+
+Passive Power
+
+Any passive or defensive damage inflicted by the Fighter is doubled. Any gains from passive talents, where possible, are improved by 50%. Your Fortitude is effectively doubled.
+
+At first, I had no clue why I was even entertaining the thought. Obviously, it was a ridiculous combination. It was insanely prohibitive, to begin with. Losing access to the entire offensive talent tree? That meant no overpowered attacks, no way of laying the hurt on people. I couldn’t even use weapons, for Christ’s sake. It only grew worse from there. No grouping with people who attacked enemies? That meant no cheating. I wouldn’t gain experience from tanking attacks while others did the killing.
+
+But still.
+
+Still.
+
+It spoke to me. The combination spoke to me in a way that nothing else had managed.
+
+It was the same when I’d been religiously watching the few now-world-famous celebrities who’d returned to Earth through the portal to brag of their levels and accomplishments. What we saw second hand was insane.
+
+I’d seen a tiny African-American woman who could create explosions around herself and remain unscathed. A tall, thin whisp of a man able to guide a trio of bright ice daggers in an elaborate dance around himself, elegant like a conductor lost in his passions. I’d seen strength, power, and prowess, regardless of the physical capabilities of the wielder.
+
+Yet, I couldn’t imagine myself being like any of them. Not fully. It was too outlandish. Too outrageous. If I had to sum up my short life, it was one of overcoming despite the weight on my shoulders. Of taking what life had to give me and still stand up tall. I’d managed to do a lot of dumb shit, and still come out on top. And this would definitely qualify for ‘dumb shit.’
+
+Even so… I couldn’t help but think that there was more to it here. Enforced Anti-violence was a Tier 5 quirk. That meant I’d be able to take my pick of the top-shelf talents right from the get go. Talents, I wouldn’t be able to access until Level 20 normally. Also, with Passive Power being “only” Tier 4, it would leave me with enough left over to start with five talent points, where normally you wouldn’t get your first one until Level 1.
+
+I felt a grin come into being on my face. Five talent points, that I’d be able to spend on the best possible shield bash ability. Sure. I might not be able to wield weapons, or pick overpowered attack talents. But I would not be powerless. And since it was in the Defensive category, it’d all be good.
+
+Best of all? All of those people picking straightforward builds? They’d see me outgrow them in the long run. Doubling my Fortitude and improving the effect of passive talents by fifty percent? Where others would grow, I’d outpace them, and end up powerful enough to leave everybody else in the lurch and take half of this new world for myself.
+
+I grinned maniacally to myself. Well. That, or die horribly on my very first outing, while others rolled their eyes at my insane choices.
+
+Taking a deep breath, I nodded softly to myself. Then I did it. Surely, I’d come to regret my choices. But at least, nobody would be able to call me boring.
+
+You have selected a Tier 5 negative quirk: Enforced Anti-Violence
+
+You have selected a Tier 4 positive quirk: Passive Power
+
+You have opted to convert the remaining Tier into five talent points to be freely distributed
+
+Continue to talent tree? Y/N?
+
+Ye…no! In for a penny, in for a pound. I might as well go all in right from the get go. I moved to my attributes and tossed my three free attribute points into fortitude as well. Then I looked at how everything had changed.
+
+Current overview:
+
+Liam Berg
+
+Level: 0. Progress to next level 0%
+
+Class: Fighter
+
+Path: Path of Fortitude
+
+Quirks: Enforced Anti-Violence, Tier 5. Passive Power, Tier 4.
+
+Traits: Starved Growth (Temporary)
+
+Health: 340/340
+
+Stamina: 340/340
+
+Mana: 70
+
+Health regeneration: 3.4 health/hour
+
+Mana regeneration: 63 mana/hour
+
+Stamina regeneration: 34 stamina/hour
+
+Attributes:
+
+Strength: 13
+
+Agility: 12
+
+Dexterity: 8
+
+Fortitude: (17) 34
+
+Perception: 11
+
+Mental Power: 7
+
+Mental Control: 9
+
+I nearly choked. Then I started laughing. Cackling, really. I’d more than tripled my fortitude, health and stamina in one go. Sure, I’d also crippled my offensive capabilities. But these so-called Killing Fields were going to have to work hard to end me now!
+
+Still grinning, I opened the talent list. Time to find the option that would allow me to strike back at the world.

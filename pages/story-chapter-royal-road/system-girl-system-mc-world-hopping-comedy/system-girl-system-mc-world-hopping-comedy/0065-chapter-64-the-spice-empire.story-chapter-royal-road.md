@@ -1,0 +1,263 @@
+---
+id: d1acd4a0-2b5d-54c6-89b7-abdf7ac0da08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64: The Spice Empire"
+slug: 0065-chapter-64-the-spice-empire
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 65
+ownLength: 1917
+unit: words
+publishedAt: 2026-03-15
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3155966/chapter-64-the-spice-empire"
+royalRoadId: "3155966"
+---
+
+The carriage rumbled over the cobblestones of the Spice District, the sound of iron wheels on stone a rhythmic, jarring percussion. Inside, the air was tense.
+
+Ren sat opposite Sylas, who was currently buried under a mountain of ledgers.
+
+"The construction costs are accelerating," Sylas noted, adjusting his glasses. "The dwarves found a vein of granite that they need to blast through for the wine cellar. That’s an extra fifty gold. And the Elven staff... while delighted with the camping situation, will need winter uniforms soon. Wool prices are up."
+
+Ren rubbed his temples. "We have money, Sylas. We sold a lot of mayo."
+
+"We had money," Sylas corrected gently. "We spent it on buying a Barony, hiring twenty people, and purchasing enough camping gear to invade a small country. Our liquidity is... concerning."
+
+[Ana: Concerning is a polite word. 'Critical' is more accurate. You have enough gold to run the estate for two weeks. After that, you're paying the staff in IOUs and compliments.]
+
+"Right," Ren sighed. "We need a win today."
+
+The carriage slowed. They had arrived at the Spice Bazaar.
+
+It was a chaotic, colorful riot of stalls and shouting. But Ren wasn't here for the street vendors. He was here for the Guild House of the Spicers—a sub-sect of the Merchant's Guild that controlled the flow of every grain of salt and sugar in the kingdom.
+
+Ren stepped out, smoothing his velvet tunic. He adjusted his signet ring.
+
+"Showtime," he whispered.
+
+…
+
+The meeting room was opulent. The walls were lined with cedar, the table was mahogany, and the air smelled of cloves and old money.
+
+Five men sat around the table. They were the Spice Lords of Duckland. They looked at Ren with a mixture of curiosity and skepticism.
+
+"Lord Fenris," the head merchant, a man named Gormal with a beard like a steel wool pad, greeted him. "We have heard of your... innovations. The White Sauce is popular."
+
+"But popularity is fleeting," another merchant sniffed. "We deal in staples. Salt. Sugar. The foundations of taste."
+
+Ren took a seat. Sylas stood silently behind him, a shadow of efficiency.
+
+"Gentlemen," Ren began. "Salt and sugar are indeed foundational. But a house cannot be built on a foundation alone. It needs walls. It needs a roof. It needs... complexity."
+
+He reached into his inventory. He pulled out a small, unassuming jar.
+
+"In my travels to the Far East," Ren lied, channeling his inner Marco Polo, "I discovered a blend. A sacred ratio of five elements. It is said to balance the humors of the body and the soul."
+
+He placed the jar on the table. [Chinese Five-Spice Powder].
+
+Gormal raised an eyebrow. "Five? We barely use two."
+
+"Allow me to demonstrate," Ren said.
+
+He signaled Sylas. The butler produced a loaf of plain, white bread—fresh from the bakery down the street. It was good bread, but boring. Just flour and water.
+
+Ren sliced the bread. He took a pinch of the brown powder from the jar. It smelled of star anise, cloves, cinnamon, Sichuan pepper, and fennel seeds. It was a scent that didn't exist in this hemisphere.
+
+He sprinkled it over the bread.
+
+"Eat," Ren invited.
+
+Gormal hesitated. He looked at the brown dust on the white bread. It looked like dirt.
+
+But he was a merchant. He lived for the new.
+
+He took a slice. He took a bite.
+
+The room went silent.
+
+Gormal chewed. His eyes widened. His eyebrows shot up into his hairline.
+
+"It's... sweet," he whispered. "But also... spicy? And... cooling?"
+
+He took another bite. "It makes the bread taste like... meat. Like roasted pork. How?"
+
+"Alchemy of the palate," Ren said smoothly. "Star Anise for sweetness. Cloves for warmth. Cinnamon for depth. Sichuan Pepper for the tingle. Fennel for the finish. It turns a peasant's meal into a feast."
+
+The other merchants scrambled for slices.
+
+"By the Gods!" one shouted. "It numbs the tongue, but in a good way!"
+
+"I can taste the woodsmoke!" another cried. "But there is no fire!"
+
+Ren leaned back, watching the chaos.
+
+"I can supply you," Ren said. "Small jars for the nobility. Bulk sacks for the taverns. But I control the supply. You handle the distribution."
+
+Gormal slammed his hand on the table. "Deal. We'll take everything you have. Name your price."
+
+"Standard markup," Ren said. "But... there is a condition."
+
+The room quieted.
+
+"The Mayo and the Curry," Ren said. "My initial stock came from the town of Dolaria. I promised them I wouldn't cut them out."
+
+He looked at the merchants. "I want Dolaria to be the distribution hub for the White Sauce and the Golden Blocks. Your caravans will go there to pick it up. You will pay the local tolls. You will hire local guards. You will make that town rich."
+
+Gormal frowned. "That adds travel time. It cuts into margins."
+
+"It's non-negotiable," Ren said firmly. "Dolaria gave me my start. I repay my debts."
+
+Gormal looked at the jar of Five-Spice. He looked at Ren.
+
+"Fine," Gormal grunted. "We route through Dolaria. But we get exclusivity on the Five-Spice in the capital."
+
+"Agreed," Ren said.
+
+He walked out of the meeting with a contract worth five hundred gold coins.
+
+[COMMERCE SUCCESSFUL: +300 XP]
+
+Back in the carriage, Ren slumped against the seat. "We did it. Cash flow."
+
+[Ana: Don't celebrate yet. I just ran the numbers.]
+
+A holographic spreadsheet appeared in Ren’s vision. Red lines plummeted downward.
+
+[Ana: Five hundred gold covers the construction debt and the new staff's salaries for exactly... three weeks. After that, you're in the red again. The tax on your new title is due next month. It's a thousand gold.]
+
+Ren choked. "A thousand? For what? I haven't even moved in yet!"
+
+[Ana: Welcome to the nobility. You pay for the privilege of existing. We need more, Ren. We need volume. Spices are high margin, but low volume. You need a contract that moves thousands of units.]
+
+Ren stared out the window. The carriage was passing the barracks of the Royal Army. Soldiers in gleaming armor were drilling in the courtyard. They looked tired.
+
+"Volume," Ren muttered.
+
+He watched a group of knights sitting on a bench, eating. They were gnawing on hardtack—dry biscuits that looked like rocks. They looked miserable.
+
+"Soldiers," Ren said. "They eat terrible food. And there are thousands of them."
+
+An idea sparked. It was crazy. It was industrial. It was perfect.
+
+"System," Ren thought. "Open Shop. Search: Instant Noodles."
+
+[Ana: Oh no. You're not thinking...]
+
+"I am," Ren grinned. "Search."
+
+The catalogue is populated.
+
+[Instant Ramen (Cup Style) - 10 Dolarion][Instant Ramen (Packet Style) - 5 Dolarion]
+
+Ren looked at the price. Cheap. Shelf-stable. And addictive.
+
+"Driver!" Ren shouted, banging on the roof. "Change of plans! Take us to the Knight's Order!"
+
+Sylas looked alarmed. "Master? The Army? We sell food, not weapons."
+
+"Sylas," Ren said, his eyes gleaming with the fire of a man about to introduce MSG to a standing army. "In war, food is a weapon."
+
+…
+
+The headquarters of the Royal Army was a fortress within the city. Stone walls, iron gates, and guards who looked like they chewed gravel for fun.
+
+Ren walked up to the gate. He didn't have an appointment. He didn't have a contact.
+
+He flashed his Signet Ring.
+
+"Lord Fenris," he announced. "Here to see the Quartermaster General. Urgent business regarding supply logistics."
+
+The guard looked at the ring. He looked at the velvet tunic. "Wait here, My Lord."
+
+Ten minutes later, Ren was ushered into an office that smelled of steel and old leather.
+
+General Paramor sat behind a desk covered in maps. He was a mountain of a man, with a scar running from his eye to his jaw. He looked at Ren with zero patience.
+
+"You have five minutes," Paramor growled. "I have a border skirmish to plan and a shortage of grain to fix. If you're here to sell me fancy spices for my officers, get out."
+
+"I'm not here for the officers," Ren said. "I'm here for the grunts. The men in the mud."
+
+He walked to the desk. He didn't pull out a jar of spice. He pulled out a colorful, wax-coated paper cup.
+
+[Cup Noodle: Spicy Beef Flavor]
+
+"What is that?" Paramor asked, frowning at the bright packaging. "A toy?"
+
+"General," Ren said seriously. "Your men on the frontier. What do they eat?"
+
+Paramor sighed. "Hardtack. Dried meat. Moldy bread. Sometimes a rat, if they're fast enough. It is the cost of war. Logistics are slow."
+
+"And how is their morale?"
+
+"Low," Paramor admitted. "Cold food makes for cold hearts."
+
+"What if I told you," Ren said, holding up the cup, "that every soldier in your army could have a hot, spicy, meat-filled soup in three minutes, using nothing but hot water?"
+
+Paramor stared at him. "You're lying. Soup takes hours. Meat spoils."
+
+"Not this meat," Ren said.
+
+He turned to Sylas. "Hot water."
+
+Sylas, ever prepared, produced a thermos from his bag.
+
+Ren peeled back the lid of the cup. Inside were dry, curly noodles and freeze-dried vegetables. It looked unappetizing.
+
+He poured the water. He closed the lid.
+
+"Wait three minutes," Ren said.
+
+The General tapped his fingers on the desk. "Two minutes left."
+
+The smell hit first.
+
+It drifted out of the cup. Salty. Beefy. Spicy. It smelled of artificial preservatives and pure comfort. It smelled like a dorm room at 2 AM, but to a medieval general, it smelled like magic.
+
+Ren peeled off the lid. Steam rose. The noodles were soft. The dried meat had rehydrated into little cubes. The corn was yellow.
+
+He handed the cup to Kaelen. "Fork," he said, handing him a wooden utensil.
+
+Paramor looked at the cup. He looked at Ren. He took a bite.
+
+He burned his tongue. "Gah!"
+
+But he didn't stop. He chewed. The noodles were springy. The broth was rich with salt and fat.
+
+He took another bite. Then he drank the broth.
+
+He set the empty cup down. He looked at Ren with wide eyes.
+
+"How long does it last?"
+
+"Years," Ren said. "It never rots. It weighs nothing. You can stack a thousand of them in a wagon."
+
+"And the cost?"
+
+"Five silver for a crate of twenty," Ren lied, marking it up 500%.
+
+Paramor stood up. He walked to the window, looking out at his drilling soldiers.
+
+"A hot meal," he whispered. "Before a battle. It would change everything."
+
+He turned back to Ren.
+
+"I need ten thousand units. Delivered to the northern garrison. Immediately."
+
+"Ten thousand?" Ren asked, doing the math. That was... a lot of gold.
+
+"And I want a contract," Paramor said. "Monthly shipments. Can you handle the volume?"
+
+"General," Ren smiled. "I am a merchant. Volume is my specialty."
+
+He walked out of the fortress twenty minutes later with a contract signed in royal ink and a deposit that made his inventory heavy.
+
+[TRANSACTION COMPLETE.][COMMISSION: +2,500 SPP.]
+
+Ren sat in the carriage, shaking. "We did it. We're funded."
+
+[Ana: You realize you just fueled a war machine with noodles, right? That’s… morally grey.]
+
+"I fed hungry soldiers," Ren said, closing his eyes. "And I paid the rent. Morality is a luxury for people who aren't broke."
+
+He looked out the window as they drove back to the estate. The sun was setting over the ocean. His house was being built. His family was safe.
+
+And somewhere in the north, an army was about to discover the joy of slurping.

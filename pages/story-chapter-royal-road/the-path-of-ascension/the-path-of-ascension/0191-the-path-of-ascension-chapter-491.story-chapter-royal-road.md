@@ -1,0 +1,319 @@
+---
+id: 435e4b32-5ffe-568d-b347-e529a7a27125
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 491"
+slug: 0191-the-path-of-ascension-chapter-491
+partOf: the-path-of-ascension
+position: 191
+ownLength: 5045
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3400752/the-path-of-ascension-chapter-491"
+royalRoadId: "3400752"
+---
+
+Chapter 491
+
+Quill continued to slam his head against the wall of his new project, trying to solve numerous problems both large and small. His main goal was trying to rectify the duration problem before it was time for his first meeting with JR.
+
+He failed spectacularly.
+
+Stopping by Liz’s alchemy room, he nearly decided to play hookie right then and there, in a repeat of his last visit when he saw a small model of her business displayed over her work station. She’d changed the name and logo since they’d last brainstormed.
+
+Legion’s Quill had a nice ring to it, though he knew she’d have an uphill marketing battle tying the name to an alchemy business. However, none of that mattered.
+
+Her new logo at least was perfect.
+
+Both in terms of business and tickling his ego.
+
+Her logo was simpler than most, his namesake feather pen and his current business logo, held aloft by an indistinct hand. In more detailed renderings it was clear that the ‘ink’ was actually a drop of some unknown potion precariously perched on the razor sharp tip.
+
+He loved it.
+
+Unable to linger as long as he’d like, Quill wasn’t that apprehensive as he [Portal]ed to JR’s office. Upon arriving, he realized he probably should have been, at least a little, on edge.
+
+That was okay. Seeing his name strung up and half dissected like a science experience did that better than his imagination could have.
+
+The raven laughed at his clear discomfort. “Don’t get squeamish on me now, Quill.”
+
+Walking deeper into the room, Quill shook his head. “It's more surprised than squeamish. For some reason, I had expected my name self to be… not that real.”
+
+“This is what you get for doubting me. See? If you had simply assumed the best… well, you still would have fallen short, but you’d have been closer.”
+
+Not commenting on the mocking, Quill started looking at the various tables scattered around the lab. Despite each table being large enough for two or three items comfortably, they only held a single material or Natural Treasure.
+
+That was at least partially explained by the stasis fields enveloping the tables, but JR was happy to talk. “I’ve already done the prep work, so now we get the privilege of doing the harder but funnest parts. Putting plan to action. Thought to reality. It's true magic.”
+
+“Is there any particular reason we are starting in the shoulder? It seems random.”
+
+JR nodded seriously. “It was at perch level when I was getting started.”
+
+Determined not to bicker with the bird, Quill rolled with it. “I’ll buy that. Okay, what do you need me to do?”
+
+“Spit out the mana you want me to work with for starters.”
+
+Ruffling a few wing feathers, JR made it very clear what he wanted.
+
+Tossing a prepared storage ring over, Quill lost track of the raven for several minutes as he flew around the workshop, shoving claw fulls of mana stones into machines, and sometimes places, at what looked like random. It wasn’t, he was sure of that, but he also knew that asking wouldn’t do him any good, so he didn’t waste his breath.
+
+Instead, he hurried JR along with a waggled finger.
+
+That only earned him a snort, but his instructions were forthcoming at least as JR started to slice open Blake's reformed shoulder.
+
+“If you are so impatient, let me talk as we get started. For the first few meetings, we'll work on harmonizing the Natural Treasures. That way, I can start building out the framework. If I want to have work to do when you leave, we need to get at least these three done today. Look over these notes and ask any questions if you have them.”
+
+Quill didn’t, so they got to work. Harmonizing with Natural Treasures wasn’t hard, just strenuous on the spirit. All he was truly doing was getting them familiar with his spirit. While a necessary step for some exceptionally rare or dangerous treasures it was normally a step that happened with the absorption of the Natural Treasures. However, he wasn’t absorbing the treasures, they were being integrated into his armor. Since it was being melded with his name, this was a step that couldn’t be skipped.
+
+Feeling like he’d fought through a rift with cultivation suppression bands on, Quill wanted to die after the first. He also understood why JR had set the expectation at three. His name’s removal had taken the main engine out of his ship. He could move and function like usual with auxiliary systems during normal day to day life, but when asked to perform he found himself lacking.
+
+JR was waiting for him the moment he opened his eyes, standing on an actual perch for once. “It feels terrible doesn't it? One memorable lass compared it to going to school to take a test while sick. No matter how well you know the material, it's hard to do well when you aren’t all there. I always hated getting sick. Pre-sapience, it was always random and a potential brush with death. Thankfully, it's pretty hard to get sick after Tier 5, so I don’t actually remember getting sick that much. I have to go digging through memories buried so deep, even I strain to find them. Born on this very station, I learned the truth of the world early. Life is fragile. It’s why the first item I made was a tool, and with that tool I made armor. I complain about them being boring, but in truth, armor commissions are some of my favorites. My trick is that I don’t take the boring ones any more! Hahaha!”
+
+Quill couldn’t help but raise an eyebrow at the unprompted information, but he’d reciprocate if the bird wasn’t being rude.
+
+“I hated being sick as a kid too. It always sucked.” Remembering Minkalla and its false life where his sudden sickness had saved his parent’s lives, he couldn’t help but add, “It wasn’t always possible, but one of my parents always tried to stay home when I got sick. I’m sure they would have stopped before I got too much older, but I was too young to really appreciate that.”
+
+The silence only lasted until he stood and moved to the next table and restarted the process with the next Natural Treasure. When he finished that time, JR was already working on the first treasure.
+
+Not letting himself get distracted, he pushed through to complete a third and then a fourth Natural Treasure before taking a break. He’d used most of the allotted time, but he was confident he could squeeze another in if he was willing to stay a little longer.
+
+JR had other plans. “Don’t bother going any farther ahead than you already are. Instead, come over here and help me. I need a hand or eleven, and you are the only one who can assist.”
+
+Using most of his concentration to avoid slamming into a desk— he was sure he’d hurt himself more than JR’s work benches— he only got a good look at what JR was going on when he arrived. The raven had already started layering support structure enchantments in Blake’s shoulder.
+
+Quill was far from being able to jump in and start enchanting parts himself, but because they were ultimately making a Tier 30 item, he could assist. His part amounted to warming the tools up before the professional started using them, but he gave it his full attention and effort.
+
+He even picked up a few enchanting tricks he thought might be useful from watching the Tier 50 at work. He particularly liked the trick to enchant layers of unstable runes without holding the entire runic structure together with his own spirit. By carefully arranging the build order and runes used, JR made it so that the previous runes held the preceding one stable, allowing him to only worry about two runes rather than dozens.
+
+Then when he was done, he was able to work backwards through the assembly, slotting everything into their final places. It took a little more work to plan everything out and then remove unnecessary runes, but when used appropriately, the effect was incredible.
+
+JR surprised him further by speaking out of nowhere after over an hour of silent progress. “Each piece that you place is a part of you. With something like this armor, the harmonization…” he used the Guild word with an inflection usually reserved for Power talk, but Quill understood what he’d meant. “... Never really ends. Sure, you might pause it, but think about it for a moment. This is an item tied into your name, your spirit, your domain, your body. Just as how all of the listed things can grow, so can this armor. Not because of the gem you smuggled through time. No, it is due to such an item's inherent nature as being one with the user. The gem will help, I’m sure, but once homogenized and stuffed inside you, you will no longer be able to swap out Natural Treasures or change base effects. But that doesn't mean changes are impossible. Nothing is static. Not even in death.”
+
+Quill didn’t have an immediate response and JR didn’t pressure him, letting him think as they slowly built out the scaffolding in his shoulder. He thought he’d have more time, but they were less than a quarter through the structure done when JR called for a break.
+
+Backing away, he stretched before stomping across the table like a bird on a mission.
+
+“That’s enough for today. Next month we’ll do this again.”
+
+Looking at Blake, Quill asked something that had been on his mind. “Is this okay for these tests to happen inside of my name?”
+
+JR paused in his stretching to shoot Quill a strange look. “A little late to bring up that concern, isn't it?”
+
+“No, I mean we are building all of these support structures to build the armor inside my name, but we are also removing and rebuilding the armor dozens of times throughout the process. I understand wanting to have a perfect reference to build around, but couldn’t we use any of the alternatives?”
+
+Laughing, JR shook his head. “No no no. You're over thinking things, your name isn’t your body. There isn’t wear and tear on it with what we are doing. Look at it yourself.”
+
+Quill did as commanded but saw nothing out of the ordinary.  “What am I supposed to be seeing? It's our work project, the same as it was twenty seconds ago.”
+
+“Look. Look. Look.”
+
+JR wasn’t speaking, but the word repeated itself in Quill’s head like a gong being rung.
+
+Or was that 『　』’s head?
+
+“Watch the shoulder. Keep focused on the shoulder. The shoulder.”
+
+JR’s words gave him something to focus on and Quill tried to listen, but couldn’t look any harder. And yet, as his words overlapped, they seemed to fill his head with noise.
+
+“Look. Look. Look.”
+
+“Shoulder. Shoulder. Shoulder.”
+
+It was the same shoulder.
+
+It.
+
+He was about to ask another question when the raven barked two words simultaneously nearly sending him reeling.
+
+“Look!”
+
+“Shoulder!”
+
+Having never taken his eyes off the shoulder, Quill wanted to bark right back, but the words died in his throat as his name was perfectly normal. All of their work existed inside the name body perfectly, as if the shoulder hadn't been splayed open like a school project only a moment ago.
+
+Except… it hadn’t been.
+
+They hadn’t been.
+
+They—
+
+Quill clutched at his head as he felt a spike drive itself through his mind. An obliterating migraine appearing out of nowhere like a rubber band snapping into place.
+
+Forcing his eyes open, Quill resisted the urge to cover them again to stop even a fraction of the pain to look at his name body. He was confident it was the source of his pain. Or was he its source of pain?
+
+He couldn’t tell any more. It was all too blended together. All he knew at the moment was that he and JR had been working on it mere seconds ago.
+
+He remembered it from both perspectives.
+
+Every moment, every movement, every enchantment, every support they layered, every word, e—
+
+“Breathe.” JR’s command lacked the same ringing sensation as it had a moment ago and Quill followed it, manually manipulating each muscle as they tried to remain locked up.
+
+That return to normality helped, though it did nothing for the migraine, nor the ravaging his spirit had undergone.
+
+Especially his shoulder.
+
+He…
+
+Quill tried to focus on JR, but the raven ushered a teal smoothie packed with medicinal herbs to float next to him.
+
+When he didn’t immediately move to take the suspicious concoction, it bumped into his hand. “Drink. Slowly now. It will help and I’ll explain while you recover.”
+
+Braving the agony that was moving his head, Quill glared at the raven but took the drink and did as instructed without speaking.
+
+It helped.
+
+So did the refreshingly cool smoothie as it spread a mildly numbing sensation everywhere it touched, giving relief to Quill’s agony. That assistance was enough to get him to seriously contemplate cracking his skull open and pouring the rest inside, but his intuition told him it had to be ingested to be effective.
+
+He was halfway through when JR started explaining. “Let me start with a hearty congratulations. You handled that better than most people I've done that too. Few make it through the first set of harmonizations before they can’t handle it anymore, let alone have time to help at the end. Your work with Max combined with your own innate resilience will make this much easier than I’d feared. Now as to what we just did? What did you expect, Quill? We aren’t exactly working on a normal base material, our methods of interacting with it shouldn’t surprise you either.”
+
+Scanning Blake's shoulder, Quill was shocked to find that while his body was still dissected as it had been before he arrived, the work they’d done was seemingly integrated with every misplaced strand as if they’d been there from the beginning.
+
+Everything was so stretched that he couldn’t comprehend how their support structures hadn’t imploded. Combined with his headache, he didn’t have the faintest grasp of what was going on.
+
+“Elaborate. Please.”
+
+JR’s snort sent another spike of pain through Quill’s brain, but the drink was doing its job, and even that had dulled slightly.
+
+“What you want to know is something I won’t tell you. Not only is it personal and relevant to my crafting, you have zero chance of understanding what is actually happening in a million years. So when I say be content with the following explanation, I’m not saying it to be rude like usual. I’m saying it because it's the best I can do.”
+
+Waving him to continue, Quill singled his understanding with a flick of his fingers.
+
+Words were too much effort right now.
+
+“We were inside your name working on it, your armor, as much as it doesn't even exist yet, and your spirit all at the same time. I know you probably think I did something the moment you walked through the door, but I didn’t. I’d have loved to, it's much more dramatic, but as per our agreement, I need your mana to run the stabilizers. As for explaining things any more. Much but not all of the process will happen in that state. You’ll grow accustomed to it over the next few sessions, but like I said earlier, you showed a remarkable resilience. That will help us going forward. The oddities you noted in about removing the armor in and out of the name body is simply us working between reality and the… lets call it unreality.”
+
+Quill could confirm that he didn’t like JR’s answer, but he also had no recourse. What was he supposed to do? Force the Tier 50 to explain?
+
+Massaging his temples, he thought about what had happened.
+
+“You could have warned me.”
+
+Quill only heard the ruffle of feathers, but he could tell JR had waggled a wing to disagree. “Most people instinctively resist the transition, and while I could force you in, showing you that it's possible the first time makes everything that follows so much easier.”
+
+Leveraging himself to his feet, Quill moved to Blake’s body. Looking at everything they’d done with his own eyes only confirmed that he had no idea what was going on any more. His memories and reality seemed to blend together, but the work had been very real, and that was what mattered.
+
+“Will I get a headache like this every time?”
+
+The laugh was like a needle being driven into his head. “Its never going to be pleasant, but you’ll grow accustomed through repetition.”
+
+Quill pictured strangling the raven, but the smile it brought to his face hurt almost as bad as the laugh had.
+
+When the latest shocks of pain subsided, he brushed himself off and confirmed, “We meet in a month?”
+
+Understanding the underlying query, JR said, “Any sooner and we’d risk your mind. We can push the time inside as much as we want, but we need a month between sessions.”
+
+“Does that logic translate to less sessions?”
+
+Laughing, JR waved him out the door. “I’ll see you next month, Quill. Oh, and while you are gone, I want you to think about a question for me. You can answer it whenever you want, but I want a good, serious answer from you, not a textbook.”
+
+Stopping, Quill focused through the pain to analyze each word the raven spoke, looking for a trap. When he didn’t find any, he waggled a finger. Nodding would have hurt too much.
+
+“What trait does a Tier 50 look for when looking for their replacement? Before you rush to answer, consider this: At this moment I consider every one of the current leaders the type to pick a good replacement in the event of their sudden ascension. What I want you to consider is what quality I considered uniformly good between such vastly different backup heirs.”
+
+Not having the energy to remember any of that, Quill sent the speech to himself as a message to arrive in a week, and walked out the still open door. Finding himself in a familiar lobby, he did the polite thing and thanked Rosemarie for the smoothie. Even if he was wrong on its source, sucking up to the person who did most of the day to day work of any organization was a good move.
+
+As it turned out, even Rosemarie wasn’t immune to that form of flattery, if the small smile he got for his pain was any indication.
+
+Pushing through the torment, he cast [Portal] and arrived back at the estate. There, Quill immediately crawled into bed, sending Liz and Aster a message telling them not to worry before he passed out.
+
+***
+
+Quill woke up two days later feeling significantly better, with all but the distant ringing of his headache to remind him of what would come monthly going forward for the next decade or two. He wanted to complain, and he would later when it would actually be funny, but he knew if he was to voice his irritation now, Liz would have zero sympathy if he worded his frustrations that way.
+
+That amusement was enough to get phoenix Liz’s attention, who quickly turned into a human Liz.
+
+Pressing a hand to his head and sensing his body, she asked even as a new phoenix formed on her shoulder, “How are you feeling? Aster said you were okay but needed to sleep, so we weren’t too worried. Your message…”
+
+Only half remembering the message he’d sent, Quill brought it up and better understood their confusion.
+
+“The hole in my head wasn’t quite literal, though it felt like it. The technique we used had a side effect of a migraine. JR could have warned me, but refrained from doing so. It wasn’t pleasant, but from what I could tell through the pain, it's well worth it.”
+
+Crossing her arms, she glared upward. “Of course he did. If you hop in the shower I’ll have breakfast ready.”
+
+Showered, he felt remarkably better sitting down to breakfast with the two Lizzes.
+
+They loafed around for the remainder of the morning until his malingering ended with an idea about his talisman problem. Kissing phoenix Liz on the head, he tucked her under an arm while human Liz watched on in bemusement as he left.
+
+Dropping his golden heat lamp off on a swivel perch, he changed a few of the secondary runes he was using to less effective alternatives. While that further hindered the efficiency of the already awful talisman, the changes fit into the general pattern, better letting him undo other now unnecessary fixes.
+
+That didn’t instantly solve the tracking talisman, but it did help, and he was able to create two better prototypes he actually liked.
+
+The talismans almost worked.
+
+Or rather, they did work. But the moment he added the resonance aura, things started to fall apart. His original, most successful, talisman design burned up the moment he activated it with the resonance aura, but he didn’t let that stop him.
+
+Instead he continued his testing, gathering as much data as he could before returning to the drawing board. To solve the new problems he’d created, he designed a third more general rune to handle the overload. But while that fixed his original problem, it only caused more serious side effects, forcing him to restart from the beginning.
+
+Two weeks and an entirely new design later, he started from what felt like scratch. He quickly found three new problems, but that boiled down into a singular one.
+
+Duration.
+
+Resonance talismans weren’t designed for prolonged use at any point in their designs, and trying to stretch one out for an entire delve proved impossible. No matter what he did, no matter what activation sequences he used, no matter how many contingencies and backups he added, the moment the talisman activated, it acted like a faulty engine as it ran at full power until it burned itself out.
+
+The answer, as it turned out, was simpler than he expected and could have been found in any beginners textbook in the section on things to never attempt.
+
+Instead of letting the talisman work constantly, he converted it into a cycle based talisman. That converted a two hour duration into a set amount of activations usually called cycles after the mechanism itself.
+
+He didn’t love the answer, cycle talismans had to be half designed like enchanted items, which added multiple new problems he was forced to solve one at a time. His redesign of several components to better handle the sudden aura empowered deactivations looked like it was going to be a nightmare. However his first idea worked perfectly, giving him a needed confidence boost going into the following issues that came about from such a radical change to the talisman design.
+
+When he was done, he had a talisman that could activate a few thousand times before running out of energy or burning through its material shell. Or if activated and allowed to run freely, a bit under two hours. A regression of total activation time on the surface, breaking the talisman’s activation into discrete cycles added a lot of flexibility to how those two hours could be spent.
+
+When he was done, he only managed to fit four activation modes. One, three, or five cycles, with a final full throttle mode that needed to be manually disengaged. Once activated, the talisman would trigger that many times before turning itself off. Used appropriately, the three and five cycle modes would allow for quick pulses that could be used to calculate monster trajectories, while the single pulse mode could be used to check on particular targets without waste.
+
+The more he designed around the cycle based talisman, the more his excitement rose, feeling like he’d figured everything out. That good mood lasted until he returned to his testing.
+
+Looking at yet another pile of talisman ash, Quill threw his hands up and walked away, grabbing phoenix Liz and taking them to the hot tubs for a break. Dropping the sleepy bird in an ichor tub, he flopped face first into the neighboring tub and let it randomize the mana types as it saw fit.
+
+Quill laid there as the water simulated various mana types, trying his hardest not to think about the tracking talisman.
+
+He failed, but he did at least pivot to something slightly less irritating.
+
+The ink.
+
+He still hadn’t figured out a method to incorporate the resonance aura, but he was starting to think that was a dead end. He could probably eventually get something to work, but after thousands of tests, he was coming to an upsetting realization.
+
+Aura didn’t seem to mesh with the temporary nature of talismans like they seemed to with more permanent enchantments.
+
+Talisman were meant to be by their very nature disposable. Aura… Quill wanted to say aura didn’t want to be disposable, but aura was so naturally unstable the thought refused to manifest.
+
+In fact…
+
+Changing his mindset, Quill started looking at the talisman ink as purely an aura stabilizer, but almost instantly realized why that wouldn't work. He’d not only lose any possible increase in power that might be gained there, any such ink would be stupidly expensive.
+
+It would be so much easier if he could just permeate the talisman paper itself with the aura instead of trying to fiddle… with… the… ink.
+
+Bursting from underneath the woody air bubbles, he startled phoenix Liz, who’d been swimming around her tub doing her best impersonation of a swan.
+
+Her regalness was only mildly lost when he laughingly threatened to drag her into his still ever changing water. She quickly realized he wouldn’t do that and started preening at him in triumph.
+
+Her tune changed when he splashed some of his woody water into her tub. The magically conductive water quickly transformed to ichor when it fell under her tub's influence, but the battle had started.
+
+With the winner sitting on his head instead of on his shoulder, they returned to his testing room to check his new theory, feeling refreshed.
+
+Only seconds after getting started, he ran into a new problem.
+
+How did he imbue something with resonance aura, such that both retained all of their original properties? Knowing he could only learn by testing, he tapped into his various repositories, looking for anything that might help.
+
+He wasted four bottles of aura trying various combinations of talisman materials and imbuing methods, but he learned what he needed to. If aura talismans were going to be a thing, it was most likely going to be achieved by merging the aura and the talisman material itself.
+
+For all that none of his attempts worked the way he wanted them to, they hadn’t failed explosively like his earlier attempts. He just needed to find a method that could merge aura and talisman paper together.
+
+Pausing between tests, Quill pondered his results. Talisman paper was a bit of a misnomer, given that most talismans were made on parchment. Rifts were full of monsters and most civilian delvers would happily skin a planet full of monsters to recoup their costs, let alone a rift. That, in turn, made talisman parchment more plentiful than paper.
+
+Most of the time, the talisman base product didn’t matter, but some testing showed him it very much did when it came to aura. Though not in the way he thought it would.
+
+The divide wasn’t drawn between material, rather the material’s origin. Any material with any kind of fire mana in its original mana make up had immediate negative reactions with the resonance aura, the base material burning up and wasting everything. Worst of all, mana type seemed to be only the highest level compatibility he needed to balance and he had no clue where to even start looking for the others, or how to test for them.
+
+Getting the stupid aura into the stupid material nearly caused Quill to tear out his hair in frustration. Inevitably in every process he found that seemed like it might be able to interact with aura and the base material well, there always happened to be some snag in the process that made it non-viable.
+
+One process exploded the aura, another destroyed the base material, and while his third looked like it would work, it ultimately failed to perpetuate past the top-most layer. Two days later, he was idly going through more and more obscure imbuing methods when he came across a familiar name that gave him the lead he wanted.
+
+Amelia Gallery was a crafter he hadn’t thought about in… a while, given Quill didn’t exist most of the time, but he knew Blake had been in contact with her a few decades ago as part of their routine correspondence.
+
+While his assistance had been a drop in the bucket at Tier 5, at Tier 30, Blake was able to bankroll the entire business if either wanted. Neither of them did, but Blake and Amelia had a good working relationship, so he had no issues sending her a message asking for her help.
+
+A specialist in all things animal given her mana type and profession, she had several ideas on how to stably imbue aura into talisman bases. Mainly because she’d already been working on an adjacent project to merge aura into leather armor, wanting to capitalize on the new resource.
+
+Where her aim was to empower permanent enchantments with the aura, he only needed a stable way to imbue the aura into the parchment without weakening either. It wasn’t easy, but her experience and previous research work saved him decades of trial and error.
+
+Ironing out the inevitable problems wouldn’t be easy, but the last of his major hurdles had crumbled and the path ahead looked bright. At least so long as he ignored the monthly torture session he’d need to work around but he’d survive.

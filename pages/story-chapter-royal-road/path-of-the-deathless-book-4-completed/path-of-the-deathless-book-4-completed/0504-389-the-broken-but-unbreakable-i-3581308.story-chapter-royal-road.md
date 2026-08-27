@@ -1,0 +1,313 @@
+---
+id: 9f4c1574-4f9f-5ce4-a785-516c343bafae
+page-type-slug: story-chapter-royal-road
+title: "389 The Broken But Unbreakable [I]"
+slug: 0504-389-the-broken-but-unbreakable-i-3581308
+partOf: path-of-the-deathless-book-4-completed
+position: 504
+ownLength: 6759
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3581308/389-the-broken-but-unbreakable-i"
+royalRoadId: "3581308"
+---
+
+The original concept behind an Endhound’s Toughness was based on its ability to adapt and become utterly immune to innumerable variations of physical trauma instead of wasting mana in an inefficient arms race to become resistant to every form of possible damage at once. The inclusion of a High-Tier Regeneration Skill further facilitates this effectiveness. For what doesn't kill the Tarrasque is soon rendered a non-factor.
+
+With this philosophy in mind, the first Farwalkers created The Brittle Unbreakable—a Legendary Skill that allows the Tarrasque to become immune to any damage variant that it initially survives. The immense difficulty in creating such a potent scale and keeping its mana scope within Legendary-Tier aside, the Skill became one of the few Tarrasque Skills that immediately lived up to the promise of its initial concept rather than requiring a series of revisions. (For an in-field demonstration and download of this Skill’s full capabilities, please focus on the sigil at the end of this sentence to be Psi-Streamed into your Ex-Egg.)
+
+Where the first Endhounds found themselves stymied due to lacking self-enforceable leverage skills without magic due to their Physicality being focused more on raw and overwhelming force, their magic deficient due to their aggression affecting their cognition and collapsing higher sequence spells due to a devastatingly short attention span, their Toughness ensured that these issues could be patched in-field rather than with additional deployments as they adapted to every form of physical harm unleashed upon them.
+
+Against LowTech dimensions supplied with crude metallurgy and brute force, the Tarrasque’s shell simply grew dense and layered—drawing on little of their total mana capacity. For SystemTech post-singular dimensions that field quant-type weapons or focused deconstructor swarms, the Tarrasque proved equally durable as their shells became wavelength-jammed anti-foglets that allowed them to survive even the most subtle and invasive molecular destabilization skills and weapons. This allowed them to be deployed en masse and operate in almost any theater for extended durations, finally achieving the ideal of a low-logistic but high-functioning asset that had been sought to supplement the overwhelming backlog of System Enforcement Quests.
+
+However, though The Brittle Unbreakable is a remarkable and reliable skill, it is not a perfect skill—for with adaptability also comes the cost of potential and exploitable vulnerability. Since The Brittle Unbreakable is built toward immunity, the total mana required for high complexity adaptations is immense, even for a Legendary Skill, and can see the Endhound shattered at the soul if stressed for too long a period (Avg. 2 months to a year under sustained fire).
+
+What is more likely to cause an Endhound’s demise is being structured by a post-adaptation vulnerability, which, in the case of Endhounds who assume an adaptation of [wavelength-jammed anti-foglets], is concentrated glassing—namely, the kind delivered by a high-power fusion lance or star-cannon.
+
+The old rule always applies: The more complicated and flexible or extreme the skill, the more severe the cost and pointed the vulnerability.
+
+As such, it might not be best to always implanted the same dormant Skill Evolution within an Endhound. Sometimes, it may be best to consider a more calculated option…
+
+—Beasts of the End, First Edition — Farwalker Endhound Deployment Manual
+
+389
+
+The Broken But Unbreakable [I]
+
+Environment finalized.
+
+Simulating critical encounters…
+
+Initializing Skill-Shaping
+
+Delve Quest Gained: Endure the onslaught and protect Adam from harm for one hour.
+
+Success: Finalized Legendary Skill Evolution
+
+Failure: The simulation is reloaded.
+
+There were no clouds to fall through this time. No sky of deepest blue or Blackedge waiting for Shiv below. Instead, he returned to his flesh with his face pressed deep against the smooth fabric of a silk carpet. The notifications greeted him the moment he opened his eyes, and he shot to his feet with a groan of frustration. “Godsdamn it, Shiv, you really did it to yourself this time…”
+
+He wasn't supposed to Delve. The battle with the felling Supplicant was supposed to evolve his Stealth and Intimidation, not his Toughness. The Stranger's Avatar was the perfect sparring partner because its attacks were mainly esoteric and temporal, not physical, so even if he died, it would mainly be his Leviathan that gained levels instead of his Pillar. But then, of course, he had to go and test that evolved Blessing. Of course he had to try it without asking Valor or anyone else. What's the worst that could have happened? Death?
+
+What he didn't expect was that every bit of suffering he endured over the course of the last week, and all that he'd inflicted upon the Supplicant's middle finger, was amplified to such an extent that both of them suffered a spontaneous obliteration.
+
+“I never learn!” Shiv snarled at himself. “I never, goddamn learn! I could have asked. I could have asked anyone for a bit of advice, but no. But no, I just listened to the girl without thinking. I just tested things out without worrying about the consequences. What are the consequences to me? Just another death? Yeah, what was another death? Another death that saw you take all the damage you suffered over the course of the last week at the same time, so your Toughness spiked twenty levels! I’m an idio—”
+
+His self-flagellation came to an end as a very real wound burst open on his chest. His skin fractured like glass at first, then blood followed, welling between the cracks. An enkindled shadow clung to Shiv, strangling him, wrapping its arms around his throat and compressing his neck until he could practically feel his vertebrae creak and crack.
+
+That discomfort lasted but for an instant as a suit of shattered gold formed around him. Fragments of the Harbinger came together, assembling the Pre-Legendary skill and dispelling the emotional anguish made manifest, weighing Shiv down. However, the Harbinger was still fractured, damaged from how much turmoil it had to absorb. It helped Shiv survive the worst effects of the Red Rider's hand, but it was diminished, so diminished that even this action on its part saw it flickering in and out of existence. “What use is self-blame? What use is pointless regret? Learn from the lesson: intelligence is not earned from shame. Wisdom is not a scar, but the understanding of how to avoid one. Learn! Do not cling to the feeling. Do not…”
+
+And as sudden as it came, the Harbinger faded, its pieces scattering, its presence vanishing. Shiv was alone, his most potent social skill going dormant as it rested and recovered.
+
+Meanwhile, the wound he left on his own chest continued to bleed freely, a mark that served as a reminder: his thoughts and judgment carried the weight of violence, and when wielded poorly, he would bleed himself before anyone else.
+
+As he examined himself, he realized he wasn't wearing his armor anymore. Instead, he was dressed in an ensemble of cotton clothes and leather shoes, which offered no additional benefits to his Toughness or any of his other skills. His Last Morsel and cape were missing too, leaving him entirely deprived of equipment.
+
+With what Shiv knew about Delves, this was deliberate. The Quest wanted to test his Toughness skill on its own, without any outside assistance or alterations. No boosts or reductions offered by his armor, and no food that could see his flesh transformed into something more malleable or intangible.
+
+As Shiv read the details of his Delve Quest, his heart skipped a beat as he understood his duties. “Adam?” A gust of wind brushed past Shiv, beckoning him to turn his head. Behind him, within a small but pleasant chamber, lay Adam, bleeding from his scalp, struggling and writhing upon sheets soaked red with blood. He was as Shiv remembered: deep in the throes of suffering and vulnerable to any and all enemies. The simulation only made his condition worse. He didn't have a dimensional garden to keep his Haunting Omniscience in check, and so he was back to running a full gauntlet of suffering.
+
+Then there was the gap leading into Adam's chamber. It was perfectly sized for Shiv's baseline proportions: no wider, no taller. The room lacked a door—a deliberate decision on the System's part. What was more peculiar was how the surrounding walls were made from orichalcum. In fact, aside from the corpse that rested at Shiv's feet, every other bit of infrastructure was a blazing red and gold. He could feel the overwhelming structural integrity radiating from his surroundings, and guessed that it was to ensure this place didn’t come crashing down when the fighting began.
+
+“This place…” Shiv frowned. “One of the hallways in the Rubix Well. Or at least something similar. That’s probably the memory this Delve is drawing from.” Examining the surroundings further, he made a few other connections and deduced how the following Quest was going to go. Adam's sanctuary was located at the end of a long and expansive hallway. The further it went, the wider it became. Until, finally, Shiv found himself staring at a colossal gate, large enough to fit a dragon through, or perhaps something even bigger. What he could eliminate was a Tarrasque, or the Supplicant, but a large monster was definitely workable—if a bit tight.
+
+Aside from the grand gate, Shiv also noticed an assortment of doors flanking him on both sides. After a few moments, there came monsters pouring through the gate. Rushing forward to meet them before they could ever get close to Adam would probably result in one of the doors behind him opening for a single individual to slip into Adam's chamber and murder him where he slept.
+
+Shiv scoffed as he grasped the design of this Quest. Going on the offensive would see him punished. He would leave his rear open, and there was no one else present to protect Adam. His Atlas also failed to highlight any biological signatures behind those doorways, leaving him with no insight into what enemies were coming or when. Likely, they didn't exist until they crossed over, thus preventing him from gaining an edge using his Awareness. This left him with one option: to plant himself in front of Adam's doorway and hold the spot.
+
+“For an hour,” Shiv grunted with displeasure. An hour didn't feel long if judged by a day-to-day basis, but in active battle, an hour could feel like an eternity, and a single slip during one of those seconds would see the simulation reset. But that was the lesser punishment. The System knew how to hurt Shiv. That was the entire point of this Quest. Adam was the penalty: watching him die, reminding Shiv of the guilt of his failure, keeping his mind distracted and his heart shaken. The System sought to exploit his strife for its maximum pleasure, and that was enough to fill Shiv's gut with unbridled rage. “Fuck you, System. Fuck you today, fuck you tomorrow, and fuck you every day after that.”
+
+Initiating Encounter (1/5)
+
+Wave 1 activated.
+
+Shiv scoffed and called his Pillar of Orichalcum into existence. The manifestation of his Toughness served as spire and anchor at the same time. The roof of the translucent pillar slammed against the ceiling of the doorway, while its base burrowed deep against the orichalcum floor, grinding the plush carpet into frayed tatters. Legion of Self allowed him to cultivate tides and build up his speed as well. Shiv's right eye twitched in annoyance as he realized all the Shapeless Tides he had been accumulating over the week did not carry over into his Delve. He suspected the Quest would see them return when he woke, or so he hoped. The System wanted him to start with nothing, at a baseline, and defend Adam with only what he had. Depriving him of all the tides he'd built up seemed a step too far for some reason—something that would diminish him in his coming duel with Roland.
+
+“Come on,” Shiv growled. “Come and get me. Let’s get this over with.”
+
+Shiv heard the nearest door creak, and he clenched his fist in anticipation of the first adversary to come. He wondered who it would be. His mind whirled with guesses. Since these were smaller, individual-sized doors, it could be anyone, but going by his previous delving experience, it had to be someone he had faced before, and it started at a low Tier before the threat level spiked.
+
+But it’s different this time; I have to protect Adam for an hour instead of defeating specific monsters. Maybe the threats will be weaker, but keep coming. Maybe—
+
+His assumptions died and his mouth fell open as Uva stepped out onto the floor. She stared at him, her expression blank, but her eyes glowing with Outsider energies. Instead of unleashing her Psychomancy, she held up a pointed blade made from dancing fractals and shot toward him as a blurring missile.
+
+Shiv's breath caught in his throat and then was driven out from his lips as the tip of her geometric rapier painted a gash across the surface of his pillar. There was a distortion at the tip—her thrust unleashed an injection of magnified force that sent her somersaulting against the ceiling, whereupon she launched herself back down to deliver a second blow.
+
+The dumb animal inside Shiv screamed for him to reason with her, to ask her to stop. The Pathbearer knew the rules. This wasn't actually Uva. It was simply a collection of her capabilities distilled into her form to cause him further discomfort, to cause him further distress, and scatter his focus so that he would fail this delve. The System seemed to be getting real personal this time. Extra cruel. It felt like it was engaging in psychological warfare against him, trying to get his ego and emotions to crumble so that it could deal a fatal blow inside his Delve, but Shiv refused to succumb. He forced his will to take hold and drove away all doubt, all worry, all anxiety. This wasn't her; this was just a shadow made to look like her, possessed of a few of her skills. This wasn't her.
+
+But even as Shiv tried to convince himself of that, knowing something intellectually didn't mean feeling it emotionally, and that imbalance caused part of his spine to creak and grow brittle. Her second stab fared worse than the first, barely blemishing his pillar. Whatever skill her rapier possessed, it wasn't enough to pierce through his Toughness, but even so, he felt tendrils of pain glide across his skin. At least the System was decent enough to deprive her of Psychomancy. No way I could protect Adam if she had that.
+
+Shiv struggled against himself. His body felt like stone, his limbs and mind reluctant to move. It should have been easy for him to reach out and tear her apart, or at least hold her in place to stop her from continuing the onslaught. Still, he hesitated, and with every moment that dragged on, the fractures lining his body grew until he was bleeding from a series of spider webs disfiguring the expanse of his flesh.
+
+Godsdamn it, Shiv, it's not her. Get your shit together. Come on! It took more willpower than Shiv thought he had to strike at her. He didn't even use his hand. He extended his Biomancy, swept through her flesh, and stopped her heart. He didn't want to see her body splatter. He didn't want to reduce her from a beloved form to little more than a bag of broken viscera and jutting bone. He gave her a pristine death, this effigy of her at least, and even then, it filled him with nausea as he watched her collapse onto her knees while her eyes went blank and the fractals she wielded vanish from her like petals to the wind.
+
+Blood fell from Shiv's mouth. He was being torn open on the inside as well, and the enkindled flames he wielded were now pressed against him like an avalanche that constantly built with more and more mass. He sustained the weight. He endured. He was the Deathless, and this wouldn't be the worst of his torment, but it was torment nonetheless.
+
+Shiv thought about apologizing to Uva's shadow, but he held himself back. It wasn't her. It wasn't her, and the more he made it feel like her, the worse this would be. Toughness was more than physical resilience here. He had to be stronger, within and without, if he wanted to get through this Delve.
+
+“Do worse,” Shiv seethed, forcing himself to look at Uva’s body. “Do worse. You don’t have it. You can hurt me. You can kill me. But you can’t stop me. You won’t keep me here.”
+
+But the System’s wordless brutality continued as practically every door along the kilometer-long hall burst open, allowing hundreds of Uvas to step through. All of them had their gazes locked on Shiv, but their eyes stared through him, and he knew they had only one thing in mind: Adam. They came forth in a tide of bodies, and a ragged sigh escaped Shiv as he resigned himself to what needed to be done.
+
+The Uvas came bearing fractal blades capable of piercing through steel as if it were butter, which endured even as they speared divots into his pillar and inflicted bruises upon his flesh. They inflicted flesh wounds on his body. He reaped death by the dozen every fraction of a second. The twelve heads of his mana hydra swept through the Uvas, pulping their organs, bursting vessels in their brains. They fell like puppets with their strings cut, their faces blank but their eyes determined, set upon claiming Adam's life.
+
+Even in death, the System played its hand, vulgarly, cruelly, and viciously. It never stopped reminding Shiv what it intended for his group: to pit each of them against each other, to use them as weapons to slay one another. Adam against Shiv, Uva against Adam, Shiv against her.
+
+And the subsequent notification never arrived. The encounter never ended. The hallway was filling with bodies, piled upon each other meters high, and even more Uvas tread upon each other, their footsteps falling hard upon her own corpses. Their Eldritch bodies glowed bright, causing the colors from the Dreamtaker's realm to spill through, distorting all that Shiv could see. Despite this, her Unique Skill was diminished, and her nature was kept as a thing of organic tissue, making it easier for Shiv to kill, making it easier for him to suffer her death over and over again.
+
+As minutes passed, Shiv broke and bled, breaking more from internal anguish rather than external injury. And blood became the truest bond between him, Adam, and Uva. Adam spilling red in his bed. The same crimson pooling at Shiv's feet. The same gore leaking from Uva's ruined remains.
+
+At some point, Shiv stopped thinking, closed his eyes, and just started splattering all he could see with his Atlas. But with his vision seeing all biology, that left him with nothing but the glistening ichor they shared. Red on Shiv. Red deep enough to reach his ankles. Red dripping from the ceilings and walls.
+
+Aegis of Assimilation 154 > 157
+
+“They're not her,” Shiv kept repeating to himself, even as more Uvas came forth from the open doors. “They're not her! They're not!”
+
+***
+
+“Is he Delving?” Roland’s voice was choked with surprise and incredulity as he looked upon Shiv's glowing form. A supernova of silvery brilliance pierced through the dense alloys and countless wards layered over the tutorial bunker to form a second dawn inside Gate Piety. The sudden flaring was so bright that it blinded even Roland, let alone the lesser Pathbearers.
+
+The Descenders were already hurrying for the bunker when Roland arrived. He told them to stay back, that he would ascertain the situation. Shiv had informed him of the grudge between Sir Marikos and Valor. Right now, the last thing they needed was a death match between two Legendary Pathbearers. More importantly, however, Roland didn't want the Descenders Union to gain too much insight into whatever was happening with Shiv.
+
+And this was most definitely his doing, for drama and cataclysm were practically his birthright, even more than they were for Roland himself.
+
+I just hope he isn't dead, Roland thought at the time, only partially lying. A small bit of him yearned still to see Shiv resolved. A small dark piece of him that could never let go of what happened that night, of the great betrayal and the enduring trauma that followed. The rest of him was ashamed for even having such a thought. Shiv tried. It wasn't his fault, and Roland should have been stronger, but never was, and he forced the child of his enemies to languish. His enemies, whom he once considered brother and sister, this child who deserved none of it.
+
+Roland couldn't change the past. He couldn't make right what he did wrong, but he could choose now. He went forth, descending into the bowels of the bunker, prepared for anything. Part of him was worried that the God of Strife had come seeking retribution and to reclaim the hand Shiv had stolen from him. The truth, ultimately, was far less severe but no less surprising.
+
+Gathered before the Dread Horizon was a room full of Legends and Heroes. Uva was half-knelt over Shiv's brilliant form. She poured a flood of Psychomantic tendrils into his mind, trying to find where he was. Valor knelt just behind Shiv, cradling his head while channeling a faint blue glow into it.
+
+Then there were the vampires, the man who called himself the Sculptor, and the one who could control the tumors. Jessica stood nearby, her blade raised high, on guard. Her expression was conflicted, but also more than a little annoyed. Her eyes met Roland's and narrowed slightly, but then she turned back to give her attention to Shiv as he tensed and shuddered.
+
+“Ah, Master Arrow!” a nervous, stammering voice sounded from behind Roland. He turned and found himself faced with Enchanter Merrielmel. The bald elf's tasseled robes fluttered to and fro, and his drones darted about, carrying the anxious energy of their creator. Between his broken statements and gasping, stuttering, Roland made out something about Shiv going into the Stranger's Garden to use the eldritch god as a sparring partner for the coming duel—while also using that as a potential opportunity to find and retrieve what remained of the Enchanter's brother.
+
+Roland felt a node of pressure begin to build in the back of his head. For anyone else, it would be utter insanity to willingly go into the Outside. For Shiv, well, of course it would be great training. What could the Avatar of the Stranger inflict upon him? Death? That meant nothing. That just constituted an easy way to gain more levels, and there were few ways to improve as a Pathbearer that were quite as intense as true life-or-death battles, for even the slightest fault in decision will see you cut down.
+
+Then there was the Culturist. He loomed over Shiv, his shadow great and his expression one of consternation and genuine annoyance. He seemed disappointed in the Deathless somehow, like Shiv had done something wrong.
+
+“It’s his Toughness,” the Culturist said smoothly, informing Roland of a few things at once.
+
+“Of course it’s his Toughness; you all have been savaging him like a pack of wolves.” Roland bit his lip in frustration. “Him tumbling over the edge, I understand—he’s still just a boy—but you are all actual Legends. You should know better. You should have seen this coming!”
+
+“Hey, Roland: how about you fuck off back up to your Perch and leave this to us?” Jessica snarled in annoyance as she pointed her sword at him. Roland took a half-step back—which was a mistake, as something in Jessica's eyes shifted in a predatory rousing. But before the tension could build further, the Culturist stopped between them.
+
+“None of that,” the orc chided. “But I must agree with the Giantsbane—though for non-emotional reasons. You are to be the Deathless’ opponent, Master Arrow. It is improper for you to be here.”
+
+“It's improper to Delve before a promised duel as well,” Roland shot back. “Ascendants… It’s more than the stupid duel—we need him stable right now. We need him here in the Gate. We can't have him down too. The Descenders are only here because of him. The Brokers are fascinated by and willing to play with him.” A rush of discomfort passed through Roland as he pushed out his following admission. “And his social instincts are necessary right now, even more than his Skills. This is not the time to be incapacitated. I would have postponed if I had known he was going to do this.”
+
+Roland drew in a breath. “The dragons are outside right now. Sir Marikos is demanding to see Shiv—and he does not strike me as the patient type.”
+
+“He is not,” Valor confirmed calmly. A pulse of Animancy washed out from him and folded Roland’s body. “But he is easily distracted, and we need more time.”
+
+“Time we never had to begin with,” Roland said, shaking his head. “This could take months. Preparations are supposed to be made far in advance—security and safety. Affairs handled ahead of time. We have a Gate Quest that must be completed in a matter of weeks. My son is still incapacitated. Delegations from the Abyss and the surface are arriving en masse.” He caught himself before his stress could continue gushing out. Complaining wasn’t helping him, and it wasn’t helping the situation. “Are you with him, Legend Valor?”
+
+“Not yet,” Valor answered, distracted by his own efforts. “My Animancy is vastly diminished from what it was, and my memories and experiences are missing critical components.”
+
+“But Shiv may not need that at all,” Uva answered. She rose, pulling her threads away from Shiv as a look of resignation came over her. “He completed his last Delve in the span of a day in the Rubix Well. He will see this resolved—one way or another.”
+
+“I don’t doubt that,” Roland said, “but how long will it take?”
+
+“However long it must,” Uva answered simply, not looking at Roland. Her Psychomancy field spread out once more, and Roland caught glimpses of her multiplicative consciousness in the imprint of her mana. “I will address the Descenders—and all other guests for that matter.”
+
+The Culturist hummed. “I will take my leave for now as well. There is little I can provide the Deathless that he cannot manage himself. Besides, there is another I must see. Master Arrow, might you bring me to where my savior resides?”
+
+His request rendered Roland’s mind blank, his hand twitching to hold a bow in a desperate urge to commit violence. In the Culturist’s place, Roland briefly glimpsed the Challenger, and the orc seemed to sense that.
+
+“I intend to help him,” the Culturist said somberly. “However I can. And I ask your permission out of respect and decency—not an inability to reach him. I am still bound to his Awareness Skill, and I feel the burden it imposes on him. Please. He gave me back my personhood. Let me do what I can for him—and if you do not trust me still, then I bid my soul and every skill it contains to your mercy, for you to indulge your wrath.”
+
+And that was the worst thing about the orc: he was honest. Roland could hear the desperation to repay Adam deep in the Culturist's voice. But it was ultimately because of him that Adam was in his current state to begin with. Now, what if his closeness to Adam would incur more of the Challenger's wrath? What if, somehow, the Culturist wasn't freed after all? What if… What if…
+
+“Roland,” Uva said, placing a hand on the Town Lord’s forearm. His eyes snapped up to meet hers. Of all those in the room, she was the one he admired the most, for in his time of ruin and need, she assumed his mantle as Avatar, and nearly saw herself reduced to cinders by the burden. Without her, he would have died, and there would have been nothing of Blackedge left to save. “I know. But decide. If he could have struck, he would. Do not let fear decide for you. Face the truth, and proceed. It is all we can do.”
+
+And that was all she needed to say to leave him drowning in his own shame. She walked past him but left Shiv with a final glance and a single Psychomancy thread embedded in his mind. It wasn't that she didn't care, but the duties facing her were many, and the Gate needed to continue running, no matter what. Shiv’s state bothered her, but she had faith.
+
+Roland had faith too, but it was a broken, wounded faith, for the god that had guided and shaped his life for so long was absent—and refused to return even when called. Roland Arrow was alone, and he had to face his own choices, and the potential consequences that followed.
+
+But while he hesitated, Adam suffered.
+
+A pained rasp left Roland as he dragged himself through a mire of indecision. “What… what can you do for him?”
+
+“I’m not sure,” the Culturist admitted, sounding more furious and sorrowful than even Roland. “The Challenger is vile, but he is nothing if not powerful and intelligent. He has his designs on people, and rarely does he fail to see them through. But I might be able to take on a portion of Adam’s burden through our connection. Perhaps I can partially endure the itch for him.”
+
+“Partially?” Roland asked.
+
+“I have always failed,” the Culturist whispered, his confidence wilting. “No matter how much I tried. I never beat it. I couldn’t. Not for long. And if Adam wakes, I do not think he will be able to endure it without bloodshed either.”
+
+Roland scowled at the orc. “You do not know my son, then.”
+
+The weariness behind the Culturist’s eyes only grew. “Do you think your nobility endures even when you are starved and dehydrated, even when all you yearn for is relief more than pleasure? It’s not the desire that breaks you. It’s the deprivation.”
+
+Upon hearing that, Roland felt something inside him succumb. But what broke him wasn't a deprivation of hope, but the desperation for it. In the form of the Culturist, even if that hope was dim or potentially false, Roland had to take a chance, because the alternative was to continue letting Adam languish in his unjust fate alone. “With me, then. But you do nothing without my knowledge.”
+
+“Your will, my service,” the Culturist intoned.
+
+“And keep me informed about Shiv as well,” Roland added. He paused. “Actually, we should—”
+
+“No,” Valor interrupted. “He remains. Best not to risk moving him to the Perch. If something should happen, it would be wiser to cast him back across into the Fairwoods than risk his true elimination. This is the root of his soul we bear. To lose any other body is but a trifle; to lose this is the end of his immortality—ah.”
+
+“What?” Roland asked. “What is it?”
+
+The Undying was quiet for a long moment, as if he was trying to process something. “I have forgotten how cruel the System’s test could be,” he finally answered, sounding more than sour.
+
+***
+
+“End the encounter!” Shiv screamed. “End the encounter! Come on! FUCKING END IT!”
+
+But the System refused. The Uvas just kept coming and coming and coming. The hallway was flooding with blood. The gore was up to Shiv's knees, and constant attacks kept going. He didn't know if it had been close to an hour or mere minutes, and the torture he endured made it even harder to discern. His broken Harbinger turned his emotional anguish into physical agony, and pain became his every cell, his very thoughts.
+
+But pain didn't rule Shiv; discomfort didn't rule Shiv. Shiv ruled Shiv, and he imposed his will against all that sought to hold him at bay. They weren't her, even if they felt like they were, and he exerted his mind over his heart. For that was what it took to see this Delve done. But as another wave of Uvas came, their blades not even leaving marks upon his pillar anymore, a dark thought besieged him from within. He wondered if the System forced him to choose between the ones he loved, between all that he treasured, which would he pick above the other?
+
+Would he kill Adam to guard Uva? Would he stand against her in actuality if it meant saving him?
+
+We'll find another way, he told himself. We'll find another way. But then he remembered this desperation when he promised to save Georges. And look what came of that. Nothing at all.
+
+The System's will was of pain and violence. It was war, all facets of it. The Red Rider's Hand laughed in the back of Shiv's mind, taunting him even as it was far away beyond him, unusable for this Quest.
+
+But there was something else. Another presence. A strange sensation. Someone who believed in Shiv. Someone beyond himself. Someone trying to reach him but unable to navigate the chaotic currents of his soul. Whoever it was, Shiv found himself grateful, for any emotion beyond grim resolve was a welcome respite.
+
+And then, out of nowhere, the long-sought notification came, and the hallway suddenly cleared of blood, bodies, and fractals.
+
+Encounter Complete (1/5)
+
+Adjusting Legendary Skill…
+
+Shiv blinked, and a surreal feeling came over him. One moment, he'd stood a bulwark against an endless tide of hollow-souled adversaries, sculpted in the shape of his lover. In the next, they were all missing. The blood was gone. The doors were closed. The carpet was back. Shiv was mended of flesh, ready for the second round. And he found himself more grateful it was over than anything else.
+
+A long, shaking breath left Shiv, but he felt his spirit soar with pride. He faced that moment. He survived. He didn’t break, and he didn’t let any of them come close to Adam. “More of a mental toughness test than a physical one, huh?”
+
+Adam just twitched and choked on his own blood behind him.
+
+Shiv waved him off. “Oh, what do you know about pain? You got a little cut on your head and ended up bedridden. Wah. I lost my head a bunch, and I’m still here. You’re a real soft-skin sometimes, Adam, you know that?” The Paragon let out a whimper. Shiv forced the mocking smirk to remain on his face. “Yeah. That’s right. Keep whining. Keep… Look, whine and cry as much as you want. I’ll make fun of you, but only if you get better, alright? Only if you get better. Let’s make a deal: I won’t let them touch you here, and you get better out there… Oh, what the hells am I doing. System! Send the next, you shit!”
+
+Initiating Encounter (2/5)
+
+Wave 1 activated.
+
+Wave 2 activated.
+
+Once more, the doors along the halls snapped open. More Uvas spilled out into the hall. Shiv gritted his teeth and steeled himself for the ugliness to follow—but his eyes widened as the massive gate at the end of the hallway came alive, and a wall of towering bruisers stepped forth. From so far away, they looked to be the same size and height as Shiv, and for a moment, he thought he was going to be fighting the Culturist or some other orcs. But then he saw the head tentacles and the singular eyeballs.
+
+“Urri?” Shiv breathed.
+
+“URRI!” The first of the Legendary Vulteg Vanguards roared.
+
+Another followed right behind. “I AM URRI TOO!”
+
+“URRI!”
+
+“URRI!”
+
+“URRI!”
+
+And soon, there was a horde of them charging at Shiv alongside the Uvas—smashing the clones of his girlfriend flat against the walls in a destructive stampede.
+
+Things were escalating a bit faster than Shiv had expected; he began hardening his Toughness as fast as he could while bracing with his Shapeless Tides. “Shitshitshit—”
+
+“URRIIIIII!” The Vultegs roared in a deafening chorus. And then the first of them was upon Shiv, rearing his huge tentacled head back to deliver the mother of all headbutts.
+
+I need more time to increase my—
+
+Urri’s head came crashing hard against Shiv’s pillar. Its surface dented. Shiv’s sternum fractured. He winced, but he planted his feet as another Urri slid low and threw an air-combusting hook in the direction of Shiv’s liver. Once more, Shiv felt something crack—but his improved Toughness proved so potent that even a beast of raw strength like Urri couldn't break him without devoted effort.
+
+As Uva’s thrusts bounced off his sides and dotted his face with welts, Shiv just laughed while the Urris recoiled. “Yeah, I got stronger, you big, ugly—”
+
+A swarm of other Urris came barreling into Shiv, recoiling and smashing into him one after another. The first of Shiv’s ribs broke; each subsequent hit set off explosions of pain inside his body. It was still more preferable than facing the Uvas.
+
+“LORD SCORN!” Urri bellowed. “WE HAVE COME TO FILL ADAM ARROW’S CORPSE WITH OUR PISS AND SHIT AS YOU COMMAND!”
+
+Knowing Urri, the Vultegs meant that literally—and the System would make Shiv watch that depravity if he lost just to hurt him more. “The fuck you will,” he snarled back. He struck at Urri using his Biomancy—but his mana hydra bounced off as if they were being dashed against stone. Still, the Urris flinched beneath his lashing field. The hallway wasn’t big enough to fit more than three of them at a time, but they kept coming, shouldering past and jumping over each other to slam haymakers and knees against the Deathless.
+
+A splash of hollow flame was conjured by Shiv, breaking and clinging to the forms of the huge Vultegs—but it was like launching firecrackers at a bear.
+
+“These creatures are absolute idiots,” the Nihilist declared. But still it kindled—if only barely. “I would scarcely call what they have thoughts, let alone a foundation for perspective or philosophy.”
+
+But despite the Unique Skill’s complaints, it burned bright, its spread fast, and soon Shiv was boiling away at the Urris with a devastating firestorm that cooked the walls, turning the orichalcum edible in seconds, and all the lesser Uvas… into something Shiv didn’t want to think about.
+
+Despite this, the Vultegs kept charging, and Shiv felt himself get driven back. The ground beneath him screeched. Shiv flung himself forward on a rush of tides. He slammed into the Urris and drove a few of them back, but there were so many of them, and the Urris' Toughness and Magical Resistance were Legendary already, and so Shiv’s attacks—
+
+Wave 3 activated.
+
+Shiv’s eyes widened. “What?”
+
+And suddenly, a new foe entered the fray—one that blinked into existence between the Urris—and struck Shiv with a resonant palm that flowed through the pillar and his skin alike.
+
+The Urris staggered aside as the Culturist entered the fray—a diminished, shrunken Culturist, devoid of his owl-cowl and barren of any magic, but still the Culturist nonetheless.
+
+Shiv felt his heart stop beating, felt his muscles tense and lock, his nerves ignite and scream. He tried to hit the orc back, but his body refused to obey his mind.
+
+And then the bastard orc smirked, and he twisted his hand slightly before striking Shiv across a chain of meridians in a slow, deliberate show. “Sorry, Deathless, but crude density is not enough.”
+
+With a final tap of his finger, Shiv felt his skeleton unlatch from his flesh while his organs exploded out from his pelvic floor. His eyes were dragged down as his optical cords receded into caverns of his skull before compressing into a mesh of organs that got tighter and tighter and tighter…
+
+Through it all, Shiv remained too tough to die. His mana fields kept working. He struck blind with all his magics, unleashing his Nihilist in a supernova—desperate to incinerate all he could.
+
+But without him serving as a bulwark in the doorway, the only real person he managed to cook was the one he was supposed to protect. He learned that as a notification blinked into place before him like a taunt delivered to him by the system.
+
+Encounter Failed
+
+Resetting Delve
+
+Adjusting Legendary Skill…
+
+Initializing Unconfirmed Legendary Skill Evolution: The Brittle Unbreakable

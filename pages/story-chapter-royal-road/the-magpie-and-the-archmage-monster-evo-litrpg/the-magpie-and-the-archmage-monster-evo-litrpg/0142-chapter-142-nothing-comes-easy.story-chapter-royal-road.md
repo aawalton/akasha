@@ -1,0 +1,139 @@
+---
+id: 51cf6cb0-f141-5e0b-9909-f00240353228
+page-type-slug: story-chapter-royal-road
+title: "Chapter 142 – Nothing Comes Easy"
+slug: 0142-chapter-142-nothing-comes-easy
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 142
+ownLength: 2037
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3605888/chapter-142-nothing-comes-easy"
+royalRoadId: "3605888"
+---
+
+If someone were to stumble into a small forest clearing, hidden behind an unusually large rock, they would see the most peculiar sight that even this world filled with monsters, magic and governed by the laws of the System would struggle to accept.
+
+A giant spider with blue lines stretching on its legs and caparace, a juvenile fire wyvern, an amber gem with crystal protrusions for limbs and glowing, and finally a magpie stood gathered in a circle, talking with one another.
+
+"What are we supposed to do now? Renir has become a locator beacon for the Night Order mages. We effectively can't go into any city anymore," Liora said firmly.
+
+"To be honest, it wasn't like going into the city would have been easy before since I'm holding that Divine glimmercore. Now it's just even harder," Cee noted.
+
+"Unfortunately, not going to the city is not an option. In order to break the next part of my seal we're going to have to access libraries and find the proper ritual," Renir said.
+
+"You can move now, can't you? Why don't you just the ritual circle in the dirt for Cee to copy," Liora suggested, hoping to avoid cities altogether now that her previous gem couldn't be placed within the safety of the Inventory anymore. Admittedly, there was also something very pleasing about him being able to move. Not to mention that he was bigger. A bigger shiny is always better.
+
+"The ritual required uses an archaic form of sigilcraft. As knowledgable as I am in archaic and forgotten forms of magic, even I don't know a whole different system for sigilcraft. Best I could do was recognize which one is the one we require," Renir said, then. "And even if I did know, that wouldn't have been of much use. Look."
+
+Renir waddled forward with his stumpy crystal legs and tried to bend down to reach the ground with his tiny crystal arm. The problem was that Renir didn't have a spine or a way of bending himself. He was still effectively trapped within a gem. So instead of bending down, he just fell face first into the dirt.
+
+"CAW!" Liora hurriedly grabbed him and retrieved a cloth from the Inventory which she used to wipe the dirt off his shiny surface. She couldn't have her precious gem be dirty.
+
+"Thank you, Liora," Renir muttered. "As you see, drawing anything is outside of my capabilities. Although I am happy to announce that I have access to more of my magic than before. My mana reserves are about as big as Liora's was before evolving."
+
+"That's quite a bit," Liora noted.
+
+"Not really. Your mana reserves were small. Now they are decent. Cee's current mana reserves are about as yours currently and they will only increase once she evolves."
+
+"Which is going to happen very soon! I'm missing only three levels," Cee wiggled her front legs in the air happily, making Smokey look at her curiously.
+
+"We should focus on that before we do anything else. Evolved Cee would undoubtedly be stronger," Liora said.
+
+"I agree. I also believe that we need to decide our next course of actions depending on how Cee evolves. Liora is versatile thanks to her Magpie Disguise, so her evolving into a large bird isn't a problem. But we don't know what Cee will become. I suspect that an increase in size is almost inevitable based on the Monster Enclyclopedia Morgana so kindly gave us," Renir said in a sarcastic tone.
+
+"If I become larger, then sneaking around will become more difficult unless I get an ability similar to Liora's," Cee noted.
+
+"I believe you all are forgetting about something very important," Liora said and then flew up to land on Smokey. The wyvern regarded her curiously and it appeared like he would try to chomp her, but Liora pecked him lightly to show the rascal its place. "We can't just bring a juvenile wyvern with us into the city no matter how well masked we are."
+
+Silence descended upon their discussions as they all realized Liora's words to be true.
+
+"I told you that having a wyvern pet was not a good idea," Renir grumbled at Cee.
+
+"No refunds!" Cee protested.
+
+"Nobody really wanted the wyvern to begin with. I didn't even get any say in the matter," Liora said, flying off Smokey's back and landing next to Renir.
+
+"We can't abandon him now. He's attached to us. Don't you feel bad for him?" Cee pleaded, pointing at Smokey's dopey snout.
+
+Liora would have liked to shout that she felt not the tiniest bit of emotion for the wyvern. But that wasn't really true. As far as wyverns went, Smokey was… alright. Besides abandoning him now would mean that all the trouble she went through to carry him over the sea would have been for nothing.
+
+"Okay, okay, but the fact remains that we can't go into the human city with a juvenile wyvern. We need to teach him to remain behind and storm after us, although I imagine it won't be easy. I say that in the meantime we go and raid that treasure trove of yours, Renir," Liora announced with a satisfied chak-chak-chak.
+
+"That was always the only thing on your mind wasn't it?" Renir said, somewhat bitterly.
+
+"Hey, you promised! I worked hard to break your seal. I believe a little pick me up to keep me motivated to break your next seal," Liora said.
+
+"Fine, fine! I did promise. If that's what will keep you motivated, then let's go. I frankly would much rather discuss what we require to break the next seal," Renir grumbled.
+
+"We can do that afterwards can't we?" Liora said. "Besides, you said we need to get a book from a human city. Going into a city as we are now is impossible. I say that the best option we have is me stealing it."
+
+"Liora's right. You can't be hidden in Inventory anymore and the Divine Glimmercore in my Inventory is a constant beacon. Not to mention that Smokey will follow me anywhere I go while he is still small. Liora will have to go on her own without you," Cee concluded.
+
+Liora blinked for a second. Leave Renir behind? The thought was incomprehensible to her. They haven't been separated for the longest time now and whenever they were separated… well, it always ended with Renir inside a monster's stomach.
+
+"Oh, no, no, no! I am not going anywhere without Renir," Liora announced.
+
+"I likewise wouldn't want to be separated from Liora," Renir said firmly.
+
+"Wh-What? But I'd guard him," Cee protested. "We'd only do this after my evolution, of course."
+
+"First, we don't know what you'll evolve into. And second, I just don't think anyone could protect Renir as well as I could. You already have Smokey to look after and he's quite the handful," Liora argued.
+
+"I agree. As a bird, Liora is able to maneuver out of many dangerous situations. Frankly, I'd rather remain with her while she sneaks into the city and be discovered, rather than be separated from her."
+
+Cee raised her front left up in defeat. "Fine, fine! You're like an old, married couple, I swear. God forbid you split up for five minutes."
+
+"We are not like an old, married couple!" They both screamed in unison.
+
+"I would never marry a bird! Especially a shiny obsessed one like Liora," Renir said.
+
+"Who would ever want to marry you? You're an arrogant, overconfident mage whose main solution to problems is overwhelming it with magic. No elegance whatsoever."
+
+"You're one to speak of elegance, thief!"
+
+"Enough!" Cee growled, stopping the argument. "Let's just get to that treasure trove and decide our next move after that."
+
+Liora certainly wouldn't argue with that. She opened her guild map, and Renir told her the location of one of the nearby treasure troves. Nearby was a relative term in this instance as they would have flown some 200 kilometers further south.
+
+The treasure trove was hidden not too far from another port town by the name of Coralia. Apparently smaller than Abylport, but very beautiful, thriving as a tourist attraction. Renir, the vain mage that he was, also wanted a fancy villa near this beautiful location and that was where some of his riches were located.
+
+Setting up for flight was a bit finicky with Smokey in her claws and all the safety webbing that Cee applied to keep herself and Smokey both comfortable and safe during flight. Getting off the ground was a real pain since Smokey was quite heavy.
+
+Renir was secured in a special web pouch around Liora's neck—so he could see the view in front of him but also so Liora wouldn't have to fear dropping him by accident. Not her favorite way of transporting him since she remembered the incident with the giantmaw hyena all too well. But it would have to do for the time being.
+
+"I do miss looking at things through your eyes. I feel near blind in comparison to how well you can see," Renir noted during their flight.
+
+"Finally coming around to the bird's superiority? Why should I ever choose to be a human?" Liora cackled.
+
+"What if you could keep your great eyesight? I doubt you could ever become a human as you were before. But a humanoid with strong bird-like characteristics is likely still within reach," Renir said.
+
+Liora didn't reply, instead sinking into her own thoughts. Currently, she was very much content flying through the sky, feeling the breeze pass her feathers. The speed she was flying at made the scenery shot past her in no time at all, and glancing at the map she could see how quickly she was moving forward. It was exhilarating.
+
+Would there be any advantages to being a humanoid? Even if she kept her wings and bird characteristics. Liora shook her head. She didn't want to think about it. After all, she would remain in this form for a very long time since she had to reach level 50 before evolving again.
+
+The further they flew, the warmer it got. Soon, they reached a zone where deciduous trees hadn't even lost their leaves. They also differed from the ones in the north and flowers could also be seen blooming among the canopy. It was a truly beautiful place.
+
+Liora spotted several interesting looking fruit and was eager to try those. But that came later. After flying around two and half hours, they reached Renir's hidden summer villa.
+
+And when she said hidden, she meant hidden. They were at the location which Renir indicated but there wasn't a single house in sight, just a jungle.
+
+"Are you trying to fool me? There's nothing here!" Liora grumbled.
+
+"Do you really think I would just leave my summer mansion exposed for everyone to see? No! Only I can open the entrance. Land down by that huge tree with vines stretching down from it."
+
+Liora landed carefully while Cee worked on untangling Smokey and herself. While she did that, Renir was already muttering some kind of chant. Before they could land properly, the scenery before them warped and shifted. A door appeared within the trunk of a large tree.
+
+"What?! Your house is within a tree?" Liora asked.
+
+"No, it's not. Not in a sense that you believe at least. It's inside a pocket dimension. Now hurry inside before anything notices. Such magic is easy to detect," Renir urged.
+
+Liora allowed Cee and Smokey head inside first and followed shortly after them. What she saw was something nobody had expected.
+
+"What the—" Renir exclaimed, looking at what was nothing more than a burned wasteland.
+
+There was a spot which had charred stones in a rectangular pattern, the foundation of the summer mansion most likely, but besides that everything else was just… destroyed black soot.
+
+"I think somebody has raided your house, Renir," Cee said.
+
+Liora's feathers puffed up in anger. Somebody had come here and dared to steal her treasure. Treasure meant for Liora. Oh, she would not let this slide. She would track down the criminal and make him repay every last shiny thing lost!

@@ -1,0 +1,319 @@
+---
+id: 04550a28-c542-52f3-9bab-cc04fdd76e9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64: The Gift of Senses"
+slug: 0064-chapter-64-the-gift-of-senses
+partOf: the-gift-of-loot
+position: 64
+ownLength: 3604
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3764563/chapter-64-the-gift-of-senses"
+royalRoadId: "3764563"
+---
+
+"Now, wait a minute," Thomas started to say, but the administrator behind the desk was having none of it and handed him a bright red card. "Take this and follow the gentlemen."
+
+The 'gentleman' in question was a National Guardsman who came up to loom behind Thomas.
+
+Thomas' heart thundered in his chest, and he kept his expression calm through sheer force of will as he asked, "What's the problem here?"
+
+The man at the desk was already looking past him to the next person in line. "They'll explain it all to you shortly."
+
+"Come with me, sir," the guard said.
+
+If I go with you somewhere, will I come back out? Thomas thought, but did not say.
+
+He hesitated a long moment, wondering if he should run for it. But... it wasn't like he was the only Gifted person here, able to do actual magic. He didn't have his weapons either, having left his extra storage bag and loot back in his car, safe under a pile of Taco Bell and other fast food bags.
+
+Once again, Thomas was reminded that he had no way to defend himself.
+
+If he got out of here, that had to change.
+
+His own voice came out distant. "Of course." He turned to follow the man.
+
+Before he'd taken more than two steps, another guard practically materialized at his elbow. Oh, nice. He was getting the full prisoner escort treatment.
+
+"I got him," said the new guard.
+
+Thomas flicked his eyes to the side and saw that this new guard had tattoos on the visible strip of his face around his eyes. It was Twitch.
+
+"Your lunch is about now, isn't it, Mark?" Twitch asked.
+
+Mark glanced at his watch and shrugged. "Yeah, I could take my lunch about now. Thanks." He peeled off, apparently unconcerned that Thomas would make a run for it. Or he trusted Twitch to do what was needed to keep him in line if he tried to escape.
+
+Either way, Thomas didn't run.
+
+They were walking across the large open space to offices in the back. He wondered if the hallway he could see at the other end would take him to a new planet as well.
+
+"I told you not to come back," Twitch muttered once they were a few steps away from the main crowd.
+
+"I had to register my Gift," Thomas replied under his breath.
+
+Twitch grunted. "If it were me, I would have just kept it to myself."
+
+"Well, you have a criminal mind," he shot back, too stressed out to be polite. "I'm hoping that if I follow the rules, no one will notice me."
+
+"How's that working for you?" Twitch asked.
+
+That was a point. Thomas stayed silent.
+
+Twitch didn't, though. "So, your file got flagged?"
+
+"I guess," he said tightly. "What happens to people who have that happen?"
+
+Twitch shrugged. "Kind of depends. Sometimes they walk right back out, nothing to it. Sometimes—" he nodded with his chin towards a different, unmarked side door "—people go out to the vans, and I've never seen one come back."
+
+Cold fear zipped down Thomas's spine and then settled in his stomach. They were at a slow walking pace, about halfway across the building. A couple people glanced at him, probably wondering what he did wrong.
+
+"Are you okay?" he blurted, partially because it was easier to ask about Twitch than worry for himself, and partially because he was stressed that he would soon be sharing Twitch's fate.
+
+"Yeah, man, I'm good for now," Twitch replied lightly, but Thomas heard an edge to his voice. Then he added, "Hey, have you thought anymore about how you're going to jailbreak me out of this place?"
+
+Thomas blinked, completely thrown. "What?"
+
+"You owe me."
+
+"How do I owe you?"
+
+"We've had good times together," he wheedled. And though he was wearing a gaiter up to his nose, Thomas could see him smiling.
+
+"Yeah, some real Kodak moments, what with the bears and getting shot by your friends and all," he muttered back, but getting annoyed at Twitch made his fear fade a little. They were coming to the end of their walk. Not much time left for questions, so he blurted, "What does that ankle monitor do?"
+
+"Tracks me. Then there are two settings." Twitch held up two fingers. "Stun, which is painful as hell and makes you piss yourself. And kill. That activates the second you try to slip the device. Some guy tried it the other day. I don't think he died easy."
+
+They reached the hallway before Thomas could think of anything to say to that.
+
+From there, they fell silent, and Twitch walked him past several guards standing on duty. All saw that Thomas held the red card and didn't give him more than a glance. Twitch then led him to a sterile waiting room. It was filled with plastic chairs, and everybody looked about as stressed out as Thomas felt.
+
+"Someone will come and get you soon," Twitch said in an oddly formal way, then turned and left.
+
+There was room enough for everybody to sit with a few chairs between them. Thomas took the hint and did the same.
+
+The guy closest to him kept checking his phone, putting it away, and then pulling it out of his pocket over and over.
+
+Thomas pulled out his phone too, and his thumb hovered over the message to Zach. He could text him right now: Get me out of here, and he knew that Zach would.
+
+Wait... Actually, did he have to know exactly where Thomas was to teleport? No, he'd done it once before in the Ross-Astor House, though he wouldn't put it past Zach to actually know what the inside of that place looked like. As much as he liked to talk, he was as closed-lipped as possible about his childhood with the Old Families.
+
+So maybe a couple of text messages would be required, but the point was, if Thomas could communicate, then he had an out. Also, if Jo and Zach didn't hear from him in a few days, they'd come looking. He was sure of it.
+
+Unless, of course, they had been flagged and captured, too.
+
+His thoughts were derailed when one of the waiting men, who had been literally sweating through his shirt, stood up so abruptly that the chair scraped against the floor.
+
+"This is bullshit," he said. "I told them the truth! This ain't right, I told them—"
+
+Two guards immediately came up to him, and Thomas watched with horror and not a little pity as the man quickly became belligerent and ignored their requests to sit down.
+
+Then the man's hands sparked, and one of the guards, who stood to his side apparently waiting for just that moment, dropped a large necklace over his head and neck.
+
+The sparks immediately died to nothing.
+
+The man howled in protest, "This ain't right! Don't touch me! Get your hands off me!" as the guards grabbed him by either arm and hustled him out. Along the way, the man kept flicking his hands as if expecting something to happen.
+
+He was probably so amped up on adrenaline that he didn't realize what was blocking his magic.
+
+If I were an action hero, I would have used that distraction to get the hell out, Thomas thought, but as the door swung open to the hallway, he saw all the guards crowded behind it, apparently attracted by the noise. Or maybe not. I can't fight through them. I'm only good for fighting dungeon monsters, and even then, Zach or Jo set it up so I get the last hit.
+
+The world was growing dangerous, fast. He needed to up his game.
+
+The room went dead silent after that. He'd never really known the phrase "quiet enough to hear a pin drop" before, but he did now. No one even made eye contact with one another.
+
+A heavyset guard came in, looked at his clipboard and said, "Thomas Coldstrike?"
+
+Oh, great. He had been bumped to the front of the line before everybody else.
+
+Thomas stood and numbly followed the guy out.
+
+"This way," the guard said, and directed Thomas down an entirely different corridor. It led past closed doors and finally to a small office at the end of the hall. Before knocking, he turned to Thomas. "I'll take that."
+
+It took a blank second for Thomas to realize that he meant the red card that he was practically clutching with a death grip. Silently, he handed it over, and the guard gave a polite tap at the door.
+
+"Come in," said a gruff voice... one that Thomas thought he recognized.
+
+Sure enough, when the guard opened the door and gestured Thomas inside, he saw Colonel Applebaum sitting on the other side of a paper-cluttered desk.
+
+Thomas relaxed, just a little.
+
+"Thomas," Applebaum said, then gestured at the chair. "Sit. Sergeant, would you please get the item out of storage labeled 'T. Coldstrike'?"
+
+"Yes, sir," said the escorting guard, and left, shutting the door behind him.
+
+"Item?" Thomas asked as he took his seat. His voice came out croaky. He realized that his mouth was completely dry.
+
+"Yes, you've been called in for several reasons. First, though, as you've probably been told, your file has been flagged for review," Applebaum explained, not one to waste time on pleasantries. He looked at the screen of his open laptop. "Gift of Senses, is that correct? That was what was registered after your first dive."
+
+Thomas nodded. "That's right."
+
+Applebaum looked at him for a long moment. "I'm afraid you're going to have to prove it."
+
+"Um, prove it how?"
+
+"That is entirely up to you." Applebaum was still looking hard at Thomas as if he was trying to impart a hidden meaning. "There is a note here that says your Gift only works in dungeons."
+
+Thomas opened his mouth, but Applebaum cut across him.
+
+"The details of the REGISTER Act are still coming out, but you should be aware divers now have a 30-day grace period to officially amend details of their Gift in the registry. This was done for good faith reasons, in case someone naturally learns more about their own Gift, or perhaps there was a mistake in the original disclosure."
+
+He knew that Applebaum did not know his true Gift, or else he would be in far deeper shit than he was now. But he clearly didn't believe that his Gift only worked in dungeons.
+
+Now that he had a few seconds to think about it, Thomas certainly did not want to prove how his Gift worked while inside a dungeon. Dungeons were unpredictable, and if he got the last hit on a monster, it would drop a good amount of loot. Once was lucky, but if it happened more than once...
+
+"My Gift works outside dungeons, too," Thomas said.
+
+Unsurprised, Applebaum turned and started typing. "Prove it then. Show me something... extra-sensory."
+
+Thomas took a breath and activated his Healing Sight. In fact, now that he thought about it, he probably should have had it on all day just to burn off some of the healing mana. His level three core was generating more healing mana than his level two ever had, and the last thing he wanted was for the empathy and compassion to build up to 'pineapple' alert levels again.
+
+Now that his Healing Sight was on, he could sense the living objects all around him. Walls weren't an issue.
+
+"Well, you have a rat problem," Thomas said drily. There was an actual whole-ass colony of rats in the ductwork. Gross. Someone was going to get Legionnaires' disease.
+
+"This building is a Spirit of Halloween store two months out of the year and empty the rest." Applebaum sounded unimpressed. "Of course it has a rat problem. But you're saying that you can see... what?"
+
+"Living beings," he admitted. But that wasn't all. He hadn't really played with his Healing Sight since helping Prinna, and now he realized it had become a lot more nuanced.
+
+There were different colors that were not quite colors to Applebaum, right in front of him. It was a lot like his Eyes That See Riches skill that showed him a new visual spectrum. Had his skill somehow merged with his ability?
+
+That was something to think about. In any case, he had no idea what the colors meant for Applebaum, other than he suspected it had something to do with how overworked and exhausted the man looked.
+
+However, he did see something very clear that he could point out.
+
+Thomas pointed directly to his right. "Two rooms over, a woman is being interviewed. She's pregnant."
+
+Applebaum's eyebrows rose. "Is that so?" Then he stood, giving Thomas another look. "Stay right here. You won't like it if you try to leave."
+
+"I'm not going anywhere," Thomas muttered sullenly.
+
+Applebaum went out the door and down the hall. None of the doors down the corridor had windows, and Thomas knew that he wouldn't have seen that interview.
+
+Thomas heard doors open and close, then after a minute or so, Applebaum shuffled back in.
+
+"Well, that was an extremely awkward conversation," Applebaum said. "I was reminded that it's never polite to ask a woman if she's pregnant, even if she is." He gave Thomas a look. "And apparently she hadn't announced it to her family, so it was doubly awkward. So your Gift is what? Pregnancy tests?"
+
+He felt himself flush. "No, don't make it weird. Just living creatures. And there was an extra one, obviously."
+
+"Hmm. I can see how that could be useful in a dungeon." Applebaum typed something into his laptop, then turned his attention back to Thomas. "Did you absorb that Living Architecture shard?"
+
+Thomas tensed a little. "Why? You want it back?"
+
+"I want to know. There's been no records of it popping up in any local or national marketplace. I noticed that you and Ms Fitzsimmons also came out of the Grizzly Bear dungeon in remarkably healthy shape."
+
+He didn't see the point in lying. "I absorbed it. Why?"
+
+Applebaum gave him a look Thomas couldn't quite read. "Because people who've been in the know about magic have had that particular skill for decades, and no one else was compatible enough to try. Is it stable in your core?"
+
+"Yes?" Decades? Did they not have other healers in their ranks?
+
+Applebaum sat back. "In that case, I can offer you an officer's commission right now."
+
+"Um..." Thomas said, smartly. He was getting whiplash, considering that he'd expected to be dragged away somewhere in chains, not offered a job. His mouth moved before his mind could filter the words. "Does that come with an ankle monitor or a necklace?"
+
+"Neither. Those are criminals, and they are not here voluntarily," Applebaum said. "I'm talking about an actual commission that comes with good pay and excellent benefits." He hesitated, as if trying to decide how much to say. "Things are going to get harder before they get easier out there. The people upstairs know it, too. When that happens, this country is going to need people with real ability who are placed where it counts."
+
+Thomas felt the urge to help. He really did. But he was burning his healing mana by watching living beings in different multi-colors come and go, so he had firm control over it.
+
+Though he understood what Applebaum was saying and sympathized, he had never seriously entertained military service.
+
+"I appreciate the offer, really, but I'm not interested." He looked hard at Applebaum. "Or... Is this something where I'm able to say no?"
+
+There was a long moment of silence before Applebaum answered. "For now, yes. And trust me, I will do everything in my power to make sure it stays that way. An involuntary force is an unstable force." He shook his head, letting a little frustration show through. "Those ankle monitors... they're much more trouble than they're worth. In any case..."
+
+He pressed a button and a printer to the side whirred to life. The office was so small that Applebaum just had to stretch his hand to grab the fresh page. Then he slid it across the desk. It was labeled Gift Affidavit: Sworn Statement.
+
+"Read it," Applebaum said. "This is your moment to change anything. Once you sign it, the 30-day amendment window closes. Then, as far as the federal government is concerned, this is the absolute truth of your Gift, forever."
+
+Thomas read every line. Applebaum had added that his Gift of Senses had the ability to see living beings outside of dungeons. It was hopefully bland enough to keep him unnoticed, except for the little issue of the Living Architecture skill.
+
+"Let your friend Zach know, too, not to play games," Applebaum said.
+
+"I will." Thomas signed the bottom.
+
+Applebaum stamped it, and was filling out his portion on the bottom when another knock came at the door.
+
+"Come in," he called.
+
+The guard who had escorted Thomas to the office returned, carrying a gray strongbox. Something was thumping around inside.
+
+Thomas's Health Sight showed nothing living in the box, but he had a bad feeling he knew what it was.
+
+Also, there was a label on the box with Thomas's name and Social Security number, the whole thing just out there for everybody to see. Thanks for that, National Guard.
+
+"Is that what I think it is?" Thomas asked tiredly.
+
+"Yes, the second reason your file was flagged." Applebaum stamped the finished form with a second stamp and snorted. "This was removed from your custody in error, and we're returning it."
+
+"I don't want it."
+
+Applebaum glanced up at him. "Did your senses tell you what it is?"
+
+A high-whinny echoed out from the box.
+
+"It's a wild guess," Thomas said. "I don't need a murderous unicorn toy, and I really don't want to pay you back for it."
+
+The man snorted. "I don't think the government is looking repayment, but testing has confirmed that it is actually a bound object. It's useless to us."
+
+"Excuse me?" he said.
+
+"It is somehow bound to you," Applebaum repeated. "These toys are quickly growing into a big problem to the point we've submitted paperwork to have that dungeon restricted."
+
+Most of what he had said washed over Thomas. He was still stuck on the 'bound object' thing.
+
+"It took a chunk out of me in the dungeon," Thomas said. "It hates me."
+
+Applebaum's upper lip twitched like he was trying not to smile. "Well, from what I understand, you have a way to heal the damage."
+
+At that point, Thomas got the impression that if he had accepted the officer's commission, this would not be an issue, but Applebaum wasn't going to go out of his way to be helpful right now.
+
+The box rattled and Thomas looked at it warily. "I thought you guys were going to destroy it."
+
+"What makes you think that we haven't tried?" the second guard muttered.
+
+Oh, that was nice.
+
+"Take it, it's your responsibility," Applebaum said. "And Mr. Coldstrike..."
+
+Thomas looked at him, wondering what other shoe was going to drop.
+
+Applebaum smiled. "You're free to go."
+
+____
+
+Holding the box containing the psychotic unicorn toy, Thomas made his way out of the marketplace. Once through the doors, he stood outside and breathed in the scent of pine in the air. It smelled like freedom.
+
+He went to his car and shoved the whole box containing the toy into his backpack. Apparently, the backpack had a muffling ability or something, because the unicorn went silent and he couldn't even feel the thing throwing itself around.
+
+Then he checked his phone. Zach had sent a text.
+
+Zach: dude, the flea market here is awesome!!! You have to see this!!!1!!
+
+Thomas stared at the screen for a second. Then he grabbed his backpack, put it on, and stepped out of the car.
+
+Thomas: Get me out of here.
+
+He started to count to ten. At eight, Zach suddenly appeared out of nothing, grinning.
+
+"You sure you can take me?" Thomas asked, hefting his bag meaningfully. Zach had mentioned it was harder to teleport someone when they were carrying around mana crystals.
+
+Zach's grin widened. "I got a few good jumps in me, but you've got to check this out."
+
+He put his hand on Thomas's shoulder.
+
+A heartbeat after that, Thomas was not standing in the parking lot of the National Guard marketplace.
+
+The air around him was a lot warmer and smelled faintly of exhaust.
+
+Looking around, he stopped and blinked as he caught sight of the massive city below and the iconic Hollywood sign.
+
+"This isn't San Francisco," Thomas said.
+
+"Nah, I got myself registered, then I heard all the cool things happening down in SoCal." Zach gestured to the side, and Thomas turned his gaze away from the sign and the vista of downtown L.A. spread below to really look around.
+
+It took him a second before he recognized where he was: Griffith Park. He was at the top, where the observatory sat. Spread out along the green lawn was a huge, vibrant fair.
+
+Several signs proclaimed: GIFT MARKET. Best flea market on the West Coast.
+
+"They've got everything here," Zach enthused, then dropped the real reason for teleporting all this way. "And we can sell everything, too."
+
+Quick admin note that Applebaum's rank was upped to 'Colonel' as several people pointed out sergeant wouldn't do for him being in charge of so many people.

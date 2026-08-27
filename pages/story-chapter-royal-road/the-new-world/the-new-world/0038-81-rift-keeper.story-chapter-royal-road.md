@@ -1,0 +1,309 @@
+---
+id: 53476781-be44-5eee-b4fd-da337d24a552
+page-type-slug: story-chapter-royal-road
+title: "81 Rift Keeper"
+slug: 0038-81-rift-keeper
+partOf: the-new-world
+position: 38
+ownLength: 5143
+unit: words
+ownProgress: 5143
+publishedAt: 2017-11-29
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/177060/81-rift-keeper"
+royalRoadId: "177060"
+markedReadAt: "2026-06-29T21:22:05.053Z"
+---
+
+A colossal rumbling shook beneath me, knocking the core from my grasp. I stumbled backwards before falling off the pillar. Twisting around as I fell, I landed onto my feet, crushing the stone beneath me. I glanced up, wondering what the fuck was going on.
+
+Above me, the elder’s shack shook back and forth. A black tendril of mush shot out of the wood. A sickening gurgle growled from within before ebbing to nothing. Screaming shouted around us. Near the pillar, a black tentacle lifted the writhing body of a child. The Eltarian child leaked blood from its mouth, the black spreading through its body.
+
+The small Eltari melted into the black, consumed by the living shadow. The high-pitched howls lessened as the mouth that made them collapsed into the pit of black. Elders howled from within the shack. I gritted my teeth at my own naivety. The Drikah hadn’t been this dungeon’s boss. He was something else, like a corrupted god. That moving blob of black was the real rift keeper.
+
+Like all eldritch, the disgusting monster reached out to eat whatever it could. Jass hobbled out of the shack, leaping off the side of the wood. She glided away for a moment before another tendril of black wrapped around her. Hod leapt out of the shack, gliding towards her as he removed his mask. Without the toxic air to fuel his reformation, he remained normal.
+
+Hod wasn’t that inept without his monstrous form, however. He spun through the air before slicing a talon through the black tendril grasping Jass. A tiny cut formed in it before he spun again and fired his two hooks towards the monster. The black tentacle rived, splitting in two. The tentacle stayed wrapped around Jass as she fell onto the ground while howling in agony.
+
+They bled into her, melting her skin and eating her blood. Hod scrambled towards her before I charged at the monster. Hod grabbed her and pulled her from the tentacle, the blackened burns reaching down to her bones in places. Once her eyes met Hod’s eyes, she ceased her crying. The stern Jass returned. Hod grabbed the side of her face,
+
+“Jass be fine. Hod save you. Hod not let you die. Hod need Jass. Hod love Jass…Please, don’t leave Hod. Please.”
+
+The desperation leaking into his voice only strengthened the look of stone on Jass’s face. During their struggle, I reached the pillar the monster latched to. As it reached out with its tentacles, I molded oppression onto the limbs. The writhing tendrils retracted whenever I moved oppression over them. I stopped the tentacles from taking anymore villagers instead of trying to fight the monster.
+
+As I did, Althea leapt out of the building. She spun through the air before landing beside us. She turned to me then Jass and Hod. A look of seething hatred raced onto her face. She bent down, her body reforming. Muscles expanded. Bones and joints popped in and out of place. Metallic plates formed over her head, hands, and feet.
+
+As she transformed, Jass reached up a hand and placed it on the side of Hod’s face. Her hand shook as she lifted it towards him, but the firmness of her resolve carried her fingertips to his face. Tears fell down Hod’s jaw as he stared at her. As they landed on Jass, she winced but didn’t shout. She didn’t have time for shouting.
+
+She wiped away a tear from his cheek, “Hod, my child, stay calm.”
+
+With frenzy in his eyes and voice, Hod looked around, “Hod get help. Hod find doctor. Hod heal you. Hod save you.”
+
+Jass placed her hand over his mouth, “Shhhhhh. There’s no saving me now. I’m not young anymore, and none of our doctors could heal me even if I was young. I’ve lived a full life as the caretaker of this village. I’ve done all I could to keep us safe.”
+
+Her hand fell down, blood spreading out from around her, “The village, it’s changing. Our people don’t need some old seeker stuck in her ways. They need someone who isn’t so ancient and unchanging. They need someone like you.”
+
+Hod shook his head, his voice shaking, “No, Hod not smart enough. Hod can’t lead village. Village need Jass. Hod need Jass.”
+
+Jass frowned, “You don’t give yourself enough credit. You’ve defended our village as a true warrior. This is a time of war and battle. Shouldn’t the greatest warrior of our village lead us then? Even without your talents in war, your thoughts are simple yet wise. Who else would steer our village during this time?”
+
+Hod shook her shoulders, dead skin ripping in his hands, “Jass! Village need Jass. Hod need Jass. Jass mother to Hod. Please, don’t leave Hod. Please.”
+
+Jass grinned, a tear spilling down the side of her cheek, “And you’re a son to me Hod. Your mother and father would be proud of who you’ve become. Make us even prouder in the future.”
+
+Her white eyes dimmed, “Protect our people, and tell our story to your dying breath. In your memory, I will live on. Keep me close to your heart, and I will watch over your shoulder from the sky. I join the sun now.”
+
+Hod grabbed her hand and pressed it against his chest. Her eyes dimmed completely. Tears spilled from his unblinking, blank eyes. He raised his head and cried out, a deep mourning. He lost the person closest to him, and in his voice was that ocean suffering. There was so much pain in his howl, you could drown in the pain it held. Even I winced at the scene. Beside me, Althea kept reforming herself as several tears streamed down her cheeks.
+
+She turned invisible, the camouflage leaking onto her skin like blobs of ink spreading on paper. Hod stood behind me as I wrestled to contain the growing black void. Hod turned to the monster. His voice could have ground through stone,
+
+“Hod will kill you. Hod will kill your memory and feast on your children. Hod hate you. Hod hate, hate, hate.”
+
+The black energy leaked onto his claws without needing the toxic air to support him. The white of his eyes bled with red energy. The red consumed the normally white eyes, like a full moon eclipsing with red. The black expanded over the rest of his skin, reaching his now red eyes. At the edges of his black skin, a white aura emanated. It created a distinct outline around his otherwise depthless shape.
+
+He stepped forward, no light showing on his body. It was like a 2-D shape with a white glow, moving in our dimension. He roared with thunder in his chest and iron in his voice. The black drool dripped from his mouth as he spread out his arms. The talons grew, like daggers made of black. From behind him, a set of wings shifted out of his body.
+
+He flapped them, wind spreading in every direction at the force of his flight. An explosion ebbed from the black creature within the shack. Green acid covered a third of the creature before another acid bomb exploded on the monster. The corrosive smells burned my nose and throat, but I grinned. Althea got this fucker good.
+
+It wasn’t as good as Hod, however. Hod dived towards the monster. The monster reached out a black tendril towards Hod, but Hod’s own shadow devoured the black of the other monster. An unearthly squeal radiated from the monster as Hod’s jaws and talons ripped it apart.
+
+With each swipe, Hod’s shadow eclipsed the monster’s own shadow. The savage fury of Hod’s anger unleashed as he sheared the shadow. His hate took a physical form, his darkened form growing in power with each of his attacks. The hulking Hod chomped and bit. He ripped and roared. He mauled with might. He slammed and sliced. He crushed and crumbled.
+
+The monster was no longer a monster. It turned into the victim of Hod’s relentless rage, like the wave of a river overwhelmed by the fury of a flood. The shack covering the monster disintegrated under Hod’s onslaught. Anything Hod’s shadows touched was erased, disappearing entirely. It tried escaping him, but I pinned it into his grasp using oppression.
+
+The dissipating shadow drained into Hod, growing his size and strength. Within a minute, the pillar behind the monster appeared. It shrunk down into a smaller and smaller blob before reached the size of a person. It lashed out towards Hod, but Hod stabbed his talons forward. Hod’s talons sliced the shadow apart, tearing it to nothing.
+
+His hand traveled into the pillar. Hanging from the arm, he turned to the village. He thundered out in a deep voice like far off thunder,
+
+“Hod kill the killer of Jass. Jass memory live on inside of Hod. Jass memory live on in Eltari.”
+
+He raised a fist made of shadow as the Eltari roared in applause. I retracted oppression, pulling the aura in as I sighed. A second later, Hod grabbed his chest, coughing up the black drool. He stiffened up before his claws unlatched from the pillar. He fell down towards the ground. Before he slammed into the ground, Althea appeared beneath him.
+
+She caught him before sprinting towards me. I met her halfway, pulling my helmet off my face before she set Hod down. As if in a daze, the black drool oozed from his eyes. He turned back and forth, his chest heaving for air. I looked up at Althea,
+
+“What the fuck is going on?”
+
+She blinked, “I…I think it’s a mana saturation. He’s broken his limits on holding mana. Now the mana is tearing his body apart.”
+
+I spread out my arms, “Really? Mana saturation?”
+
+She nodded, “It’s the same thing that happened to me when we met. The difference is that my mana turns me into a monster. Hod’s mana is making this shadow stuff, and I think that’s melting him or something.”
+
+I tapped my hand against my head before I lifted both my hands. An idea had sprouted in my mind.
+
+“I got it.”
+
+I pressed a palm against Hod’s chest. My armor pierced into him, draining his mana. The red surrounding his eyes waned. The shadow covering his skin retracted. Over the next five minutes, Hod returned to normal.
+
+I pulled my armor out, satisfied once the shadow was gone. He stopped breathing before I shoved my palm against his chest. The black liquid spewed out over Althea and I. Hod raised his head, turning towards us both,
+
+“What happened to Hod?” He picked up his arms, “Hod back to normal. Shadow gone. Good.” He looked at us again, “Harbinger, Lady Friend…You both need bath.”
+
+He reached his wings around us, “No need to worry. Hod show you where best water spot is. Water still cold. Not as cold as normal water spot though.”
+
+I laughed before Althea followed suit. A nervous laughter radiated through the village. I fell backwards, breathing out a sigh of relief,
+
+“Jesus Christ Hod. I thought you were dead as hell.”
+
+Hod let Althea go, waving away my concern with a hand, “Hod understand Harbinger’s worry. Hod thought Hod dead too. Hod remember Jass last words. Jass want Hod to live, so Hod live.” He glanced down,
+
+“Jass with sun now. The sun always warm and never cold.”
+
+He sighed before standing up. In the distance, a wail echoed through the cavern. A thinner, more feminine Eltari leaned near the pillar. The tears of white poured from her lidless eyes. They fell down her face plate and tapped against the ground. The weeping tore through the fleeting peace. Hod walked over towards her. He placed his hand on her shoulder,
+
+“Hod feel your loss. Hod lose Jass too. Hod know son live with sun now, like Jass.”
+
+He lunged onto a single knee as she looked at him. Hod continued, “Hod know son warm now, not colder. No more struggle for food. Son watch you. Son want mother to smile. Be strong for son. Son watch you, even now.”
+
+She wiped her tears, “Ok…I’ll try.”
+
+She stifled her loud weeping, turning it into a quiet sob. As she sniffled, Hod walked up to me, “Hod believe village need time. Village need to mourn. Harbinger wait for mourning?”
+
+I stood up and nodded, “Of course. If you need a few weeks, that’s fine. We’ll just start eating the rats and stuff. No big deal. Take your time.”
+
+Hod shook his head, “No need for weeks. Eltari grieve little. Eltari strong. Eltari fight in new world. Give Eltari three days. Eltari leave then.”
+
+I nodded before wiping the black liquid off my face. Althea did as well. After getting it off, she walked up to Hod. She hugged him, “I’m sorry about Jass.”
+
+Hod glanced down at her, and a white fog grew out of his eyes a little. He raised both his arms, “Lady Friend! No need to hug Hod. Hod covered in muck. Hod get Lady friend dirty.”
+
+She squeezed him a bit harder, lifting him off the ground. Hod continued, “Lady Friend hug appreciated. Lady Friend hurt Hod with Hug. Please set Hod down.”
+
+She let go of him before smiling, “You’re sweet.”
+
+Hod scratched the side of his face, obviously embarrassed, “Uh, Hod thank Lady Friend too. Both Harbinger and Lady Friend have been kind to Hod, save village from monster, and slay Drikah. Many good things for village. Hod return favor.”
+
+He spread his arms, “Hod grant Harbinger and Lady Friend anything in village for three day stay. Enjoy till heart content.” He let his arms down, “Though village not have much.”
+
+Althea and I looked at each other. We gave each other one of those glances that held a conversation of details in them. I turned to him, “Sure. A break sounds damn nice. It’ll be like a vacation.”
+
+Hod nodded before a chunk of the core pillar fell. It caught everyone’s attention before Hod frowned, “Good time to leave village. Village about to fall apart anyway.”
+
+With the fight over, the villagers dispersed to lick their wounds. My oppression aura kept the deaths minimal though. Instead of throngs of the villagers dying, only two did. While that still sucked, at least the damage was kept to a minimum. For me, it was a resounding success compared with the Bloodbull incident. That was an unmitigated disaster.
+
+The resulting chaos of this event paled by comparison. Before three hours passed the village went back to normal duties. The main difference was the collection of yellow flowers and fallen feathers. While they atteneded to their own kind of mourning, Althea and I enjoyed the sights and scenes of the village.
+
+The main attraction was the marketplace at the middle of everything. Eight shopkeepers sold a variety of goods, each of them known by all the villagers. One of them sold trinkets or gifts, kind of a like a shop for oddities. The others focused on more pragmatic goods, so we only picked up what we needed from them.
+
+Despite how interesting some of the Eltari’s shops were, we spent most of our time talking with villagers. The way they saw me and her surprised us both. Most of them revered me as some messiah. Others saw me as just a good guy. I preferred that opinion personally. Being a messiah was a lot of pressure.
+
+Despite that pressure, the thanks I got was a nice change of pace. Normally, I leave a thick, bloody trail of death and destruction in my wake. Not on purpose mind you. This time was an exception, and the villager’s good will served as our reward for it. The villagers even gave us a house with a place to sleep.
+
+While a straw bed wasn’t ideal, it was a hell of a lot better than stone. Althea brought an expanding mattress with her, so it wasn’t a problem for her. The food turned out pretty decent too. Who knew roasted rat on a spit was actually pretty good. Put some pepper and paprika on it, and it might even be restaurant worthy.
+
+Regardless, the three days passed by fast. We organized with Hod to make sure the villagers were ready to leave and that they knew what to expect when we got to earth. We pretty much told them that there would be a ton of zombies. That, and they would need to go through the sewers to meet up with the steel legion.
+
+Once there, we’d be able to rendezvous with Torix and company. The plan was to train the Eltari and give them weapons. An efficient and effective aerial force would be a massive augment to the legion’s lacking forces. Combine that with the physical superiority of the Eltari, and we had a recipe for Spawn of Yawm destruction.
+
+With all those plans finished, there was only one thing left for closure’s sake. The night before we all left, the Eltari held a funeral for the two lost members. Jass’s body was burned, cremated to ash. Althea and I joined the ceremony as they walked up high atop the mountain. At the very peak of it, the wind blew with tremendous intensity.
+
+There the Eltari took the yellow flowers and put the spare feathers between the petals. Once night time arrived, the family of the boy tossed many of the flowers into the air. The feathers kept them afloat as they flowed with the wind. They symbolized the boy’s passage into the sky and union with the sun, or so I was told.
+
+They did the same with Jass’s ashes. Hod was the one to throw them. After watching the gray scatter, Following a mantra, Hod announced without his usual odd way of speaking,
+
+“Jass floats with the sun at her back and the wind on her wings. May she and Kal fly forever.”
+
+The congregation raised each of their right wings, staring at the sky. They said in unison, “May they fly forever.”
+
+Their featureless, glowing eyes turned the dark mountaintop into a cluster of tiny lights. It kind of looked like a starry sky. With the ritual finished, Jass and the boy’s deaths took on a finality. As we walked back towards the village, the aura of the group wasn’t one of sorrow. It was a more of a determined kind of feeling, like they were moving on.
+
+The atmosphere fit in with the next morning perfectly. All the Eltari had their packs at the ready. Before leaving, I leaned against the core holding pillar, checking out my status screen with Althea beside me. I wanted to invest my points before heading back. As I opened my status screen, I saw 347 levels gained from the sand worm, but I also gained 15 from the shadow monster.
+
+It turned out that the boss was conglomeration of the corrupted seekers. Seekers never died of old age, the toxic air sustaining them. When they lost control of themselves, they would be put into a prison built beneath the shack. Whenever I pulled on the core, it awakened the boss, leading to Jass’s death. The boss’s escape was an inevitability, so the villagers were thankful that Althea and I were there to help handle it.
+
+The fifteen levels the shadow monster gave me was a nice bonus for leveling. Combine them both and I ended up with 362 levels gained. After a little over three days of relaxation, the attribute points had uploaded, all 1012 of them.
+
+That’s right. One thousand and twelve fucking attribute points. It was an astronomical number. Both obliterator trees gave me 8 extra attributes every five levels. A normal person gains five attribute points and a single perk point every five levels. That perk point converted into an attribute point most of the time, meaning it was effectively six attribute points every five levels.
+
+Now I gained over double the norm. As I grinned at the fact, Althea saw my smile and analyzed my status. The last time she checked, she was still a higher level. Once she saw my completed level, she punched my shoulder before pouting in frustration.
+
+I laughed at her, “Guess who’s got a higher level now?”
+
+She hugged her legs to her chest, “Dammit…It was lot of fun being stronger than you.”
+
+I glanced at my status screen, soaking in the numbers, “All good things must come to an end.”
+
+She put her chin on her knees, “I’m going to miss it…Out leveling you that is.”
+
+I rubbed my hands together, “Let’s see the spoils.”
+
+I dug my face into my status screen. With how I set up my stats feeding each other, the framework for Endurance made it a do all attribute. I got the most from it when compared with any other stat. Taking full advantage, I began putting the attribute points into endurance. The perk screen appeared after placing six points into endurance.
+
+Congratulations on reaching level one thousand! Only 32.67% of current sentients have reached this level of achievement. Extra options, information, and settings are unlocked for your status. Data upload now allowed (1 terabyte of data per level over 1000.) Extra rights are unlocked for a higher status sentient.
+
+Perks for being over level 1000 include:
+
+Perk Selection. Choose one.
+
+[Body of Steel - Gives a permanent 10% bonus for endurance, constitution, and strength attribute bonuses. Grants title of Warrior. (3.7% of sentients over level 1000 own this title and perk)]
+
+[Mind of Steel - Gives a permanent 10% bonus to intelligence, perception, and dexterity attribute bonuses. Grants title of Technician. (55.8% of sentients over level 1000 own this title and perk)]
+
+[Spirit of Steel - Gives a permanent 10% bonus to luck, charisma, and willpower. Grants title of Influencer. (40.5% of sentients over level 1000 own this title and perk)]
+
+The most surprising aspect was how rare the warrior was. Based on what I learned from talking with various aliens, most species were smaller than humans. That must mean speccing into a physical build wasn’t possible for most species. remnants like Kessiah must be valuable then for their unique talents.
+
+In my case, the choice between the perks was obvious. To be honest, it didn’t take much in the way of thought to decide on a perk. I selected Body of Steel. A moment later, my attribute points wouldn’t go through when I tried putting them into endurance. I wrestled with my status screen before a message popped up,
+
+High speed data transfer unlocked for higher level sentient. One minute delay between further augmentations. Body of Steel now unlocked. Further allocation of attributes now allowed.
+
+Now that I knew what the fuck was going on, I allocated my points into endurance once more. After placing all 1012 points into the attribute, I selected the finalize button. A surge of strength and size coursed through me. I fell forward, off the pillar behind me. My face clapped against the stone, cracking it as I writhed back and forth.
+
+Althea bolted up, leaning over me, “Are you alright? What’s going on?”
+
+I couldn’t talk. Every piece of my body changed all at once. My armor snapped like always. My vision went white while my flesh turned to steel. The arcane bonds lacing my flesh turned from simple bonds into chains, preventing my body from breaking. My teeth cracked then grew larger before healing again. I slammed a fist into the ground, overwhelmed by the sudden change.
+
+My fist pierced into the ground, creating a fissure beside me. Strength flooded into my limbs. I gripped my hands, the sensation of power coursing like a drug. I slammed my face into the ground as the white faded. A distinct sense of control and lucidity rushed over me. All my senses enhanced. My joints turned nimble, my body like a well-oiled machine.
+
+The sensation of raw power passed. I pushed myself up, heaving for breath. Althea put a hand on my back, “Are you ok? For Schema’s sake, I thought you were dead.” She shoved my shoulder, the push playful, “Don’t make me worry like that.”
+
+With a sinister smile, I nodded, “Of course, sorry about that.”
+
+She blinked, “What happened to you?”
+
+I looked at my hands, “Well, if I was a Pokémon, then I just evolved.”
+
+She scratched her head, “What do you mean evolved?”
+
+I opened my status screen, willing my status so that Althea could see it with me. As we looked, our jaws dropped,
+
+Level 1360
+
+Strength – 1249.6 | Constitution – 1505.9 | Endurance - 2768
+
+Dexterity – 398.9 | Willpower – 1761.6 | Intelligence – 677.4
+
+Charisma – 94 | Luck – 227.2 | Perception – 189.7
+
+*****************************************************************
+
+Before relishing in the afterglow of my new stats, I looked at the new interface. Sleeker and less basic, the buttons layout was easier to see and understand. At the corner of the screen was a button called, ‘Previous Stat Iterations.’ I pressed it, and it opened my last saved stat sheet from forever ago.
+
+Level 997
+
+| 4.2 months held. Longest iteration held so far. |
+
+Strength – 971.4 | Constitution – 1110.7 | Endurance - 1077
+
+Dexterity – 315.4 | Willpower – 1000.7 | Intelligence – 421.4
+
+Charisma – 74.6 | Luck – 150.4 | Perception – 164.6
+
+************************************************************************
+
+The difference was astronomical. As I compared the two statuses, Althea gasped,
+
+“I…I can’t even…your health regen is higher than my health…By Baldowah, It’s over twice as high as my health…”
+
+I lifted both my hands into the air, “Mwahaha! Take that. Higher level than me my ass.”
+
+She fell backwards, “How are your stats so high? Are you, like, the chosen one or something? Does Schema have it out for you?”
+
+Her last few words gave me pause. I lowered my hands, staring at the ground, “I never even thought about that…Maybe he does?”
+
+She waved her arms, “I didn’t mean that in a bad way. This is a good thing.” She spread her arms wide, smiling bright, “You should be excited. This is awesome.”
+
+I laughed, “Yeah, no point in dwelling on it now. I got the levels and skills I wanted since coming here. It’s time to leave.”
+
+Althea stood up, offering a hand. I grabbed it as she pulled me up. Her feet caved into the ground as she did so. She stumbled backwards before I pulled her arm, keeping her steady. A moment later, we both laughed at the ridiculousness of the situation. Both of our stats had become ludicrous by now, at least when compared with where we started.
+
+With that handled, I looked up towards the dungeon core. After forming a gravity vortex above me, I kept it ahead of me as I jumped up, the ground caving beneath me. Keeping the ripple of gravity right above my head, I shot upwards before landing on the edge of the platform. My mastery of gravity was getting better. True flight wasn’t far off now.
+
+With that handled, I turned behind me. The crowd once again looked ready to leave. I reached towards the core, my arm piercing through the white energy. The cold, piercing sensation diminished quite a bit since last time. With ease, I grabbed the rift’s core. Not knowing what happens next, I pulled on the core.
+
+It was time to kill a follower. When I got back that is. The cores energy assimilated into my armor as I pulled it out. The sphere released a high pitch scream before silencing.
+
+Writhing, the carmine colored core died down its movements. Black expanded from the center before stopping just short of the outer edges of the sphere. The energy beaming from the pillar dimmed before stopping altogether.
+
+I stood there, waiting for the dimensional shift. Below me, Hod shouted,
+
+“Hod think core pull a letdown.”
+
+I shouted back, “Give it a minute. Patience is a virtue after all.”
+
+A rumbling started. The faint, cybernetic sound of the changing rift ebbed into the cave, muffled by a mile of sand and rock over our heads. The sound expanded into our ears, and the rumbling turned into a steady quake. Seconds later, a square outlined by blue energy appeared over the top of the cavern. The matter within it altered.
+
+The rock within each square changed color, redder and less brown. The squares webbed out from all sides of the cavern in seconds. As the squares passed us, my hud returned along with a sense of order. It was like all the entropy and chaos had been ironed out. After being away from the familiar structure of Schema’s system, it honestly felt weird.
+
+The air didn’t have the sweet smell of the rift anymore. An almost sterile odor took its place. Besides for that and a shift in gravity, the cavern didn’t change much outside of the color shift. The other most obvious change was the disappearance of the tunnels leading up to the weird ruins. The shift in the air’s density along with a shift in gravity’s pull was strange too.
+
+Taking advantage, I leapt off the core’s pillar. As I landed, I created a panel of telekinesis beneath me and deflected the energy throughout the surrounding air. A tempest of wind pushed in every direction, knocking over a few packs and tables nearby.
+
+Standing beside Althea, I waited for the overseer. As expected, a rip in dimensions formed beside us. The overseer walked out from his tear in space-time, turning towards us. Something seemed off about him, but I couldn’t quite put my finger on it. A realization came over me as I pointed at the overseer,
+
+“That’s what it is. You’re shorter now.”
+
+He was still two feet taller than me, (0.6 meters ~) but I was closing the distance. The overseer turned his body around, analyzing his surroundings before staring at me,
+
+“Yet another rift closed? That hunger you have, it will treat you well in time.”
+
+He opened his red status screen, outlined with liquid light,
+
+“Interesting that you left so many eldritch alive. While not required for the core, Schema’s manuals recommend killing any eldritch you come across. I’d encourage you in following them.”
+
+He glared at the Eltari, “Otherwise a new Rift Keeper will be born quite soon.”
+
+The Eltari winced and lowered their gazes at the overseer’s disapproval. I opened a palm to the overseer, “They’re Eltari, a sentient race. We’re taking them back to Earth.”
+
+The overseer turned to me, “Eldritch are not allowed out of their rifts, Harbinger. You will not be allowed to take them out of this place.” He raised a hand, closing his fingers together.
+
+“I will see to that personally.”

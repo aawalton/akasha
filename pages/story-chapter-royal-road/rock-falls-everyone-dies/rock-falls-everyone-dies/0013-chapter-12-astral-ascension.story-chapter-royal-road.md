@@ -1,0 +1,257 @@
+---
+id: c8270edc-107a-5d87-99b4-f43f222bda02
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12 – Astral Ascension"
+slug: 0013-chapter-12-astral-ascension
+partOf: rock-falls-everyone-dies
+position: 13
+ownLength: 1626
+unit: words
+ownProgress: 1626
+publishedAt: 2023-01-25
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1096831/chapter-12-astral-ascension"
+royalRoadId: "1096831"
+markedReadAt: "2026-06-29T22:50:40.970Z"
+---
+
+The rock calmly pondered over its class option. It did not hurry to choose it, nor did it delay in choosing it. It was a simple being, and after briefly considering the implication, but not too deeply, it picked it, no further hesitation.
+
+Because… it was in space now. Away from the mountain, away from the ground. It was no longer rolling. Now it was more like... spinning, really. Could it really consider itself a [Rolling Stone], if it no longer rolled?
+
+One had to be true to themselves.
+
+Congratulations!
+
+You are now a level 10 Meteorite!
+
+Size scaling factor increased from 1.5 to 2!
+
+Stats up!
+
+Mass (m): 16706.7kg -> 133653.3kg
+
+Diameter (d): 2.31m -> 4.61m
+
+HP: 55 -> 89
+
+New Subability Gained!
+
+Pivot Point: Orbital Slingshot
+
+Lock into orbit around an astral body, gradually gathering speed, then launch yourself forward!
+
+Skill Shift!
+
+Avalanche -> Meteor Shower
+
+Gather other rocks around you, and take them along for your astral voyage!
+
+The rock looked over its changes, satisfied. Two skills had changed, not in ways that significant, but changed nonetheless. Additionally… the stone had grown quite a bit larger.
+
+It rather liked that.
+
+Then, like the prompt thinker it was, the stone moved to the next issue on its list: The gemstone of rich mana lodged within it, that it had yet to begin absorbing.
+
+It reached out with tendrils of mana, poking and prodding at the crystal, slowly but surely absorbing it inside it, drinking deeply of the magic and growing its cultivation base.
+
+Stolen Cultivation Activated!
+
+Converting Artifacts to power...
+
+Complete!
+
+Level up!
+
+1000 / 1000 Magic
+
+You have reached Cultivator Level 6!
+
+You are now in the [Molten Core] Realm.
+
+The gemstone was rich in energy, having powered a whole city’s entire mana shield, so the rock wasn’t too surprised that it was enough for the breakthrough. But—well, few things could surprise a rock. It had a stoic countenance, reacting to whatever came with the same stony calm.
+
+And thus, once more… it grew.
+
+Stats up!
+
+Energy Level (E) = 1 000 000W
+
+Core Heat: 1000 K
+
+Progress to next realm = Breakthrough needed.
+
+Then, having finally solved the first two issues on its list, the stone finally turned to the third: Its circumstances. Perhaps it had subconsciously put it last, out of a vague sense of avoidance. Because… the stone did feel annoyed.
+
+Very annoyed.
+
+Quest:
+
+Current Altitude: 363 300 000m
+
+So far. Further than it could have ever imagined going. It had been so close. So close! Almost reaching that desired goal, seeing it before its eyes. The numbers had been only two digits before!
+
+And now, as the rock used [Orbital Slingshot] to remain in place as it thought, there were nine. Nine digits, when it had been almost one.
+
+It could still remember the visage of that jade statue at its journey's end, the form of a graceful woman clad in a toga, reaching up to the sky, as if to welcome the rock home from its long voyage. The rock had leaped out, grasping for those arms, but fallen short.
+
+Because of that man. Not that damned man—the rock didn’t feel hate or anything of the sort. It just… wished the man hadn’t been there. But, like so often before, the rock had been powerless to oppose others taking hold of it, and carrying it wherever they pleased.
+
+First, it had been the goblins, then the hunter, and then the dragon. All picking the rock up, and doing what they liked with it. And the rock had been fine with it, as long as they helped it go along to its destination, making the numbers get smaller.
+
+It had been better than being stuck in place. At least until the final case, the [Supreme Grand Magus].
+
+But now… the rock realized something. If it truly wanted to roll this path to its end, it would have to do it with its own power, not that borrowed from others. Because otherwise, those others would drag the rock along—using it for their own agendas.
+
+Never again. So the rock promised itself.
+
+And then—only then—did the rock cast its senses out, and really look at its surroundings.
+
+It saw the planet below. A blue jewel, scattered with green continents all over it, coated with a fluffy covering of clouds. The world it had spent all this time in, without realizing its true shape. Because… now the rock realized it. The world it had been living in…
+
+It was just a very big rock.
+
+One with people and towns and dragons and dungeons in it, mind you. But the base material was still stone. And the rock remembered its original goal.
+
+It had wanted to be the biggest rock of all.
+
+And now it felt humbled, finally realizing the monumentality of its task. But… it did not despair. It did not jump for joy. It just calmly opened up its stats screen and checked the number listed there.
+
+Diameter (d): 4.61m
+
+Then it closed the screen, and once more observed the planet in front of it. If it was estimating things right... and it probably was...
+
+The rock had quite a bit of leveling up to do.
+
+But then it saw the shadow being traced along the world’s canvas and witnessed the moon rising up from behind the planet, like a brilliant pearl emerging from the ocean of blue.
+
+Another big rock.
+
+Then it finally noticed the smaller rocks around itself—fallen members of its rocky congregation, which had made it through the slums, and been launched outside the planet’s well of gravity along with our hero. Small stones, and smaller bits of gravel. Sand—or just very small rocks.
+
+Big rocks and small rocks.
+
+Then it turned its senses outward, towards that brilliantly glowing orange orb, so small in the starry sky. Or just... so far?
+
+Just another rock—a glowing one of course—perhaps the biggest one of all.
+
+And so the rock realized a critical truth of the world. At its core—everything was rocks. All the way down. Some were just a bit bigger than others. For now at least. Fundamentally, the rock was no different than the planet below it, or the grains of sand floating beside it.
+
+It was only a difference of scale, and power.
+
+Level up!
+
+1/1 Philosophical breakthrough!
+
+You have reached Cultivator Level 7!
+
+You are now in the [Planetoid Domain] Realm.
+
+Stats up!
+
+Energy Level (E) = 100 MW
+
+Core Heat (T): 2000K
+
+New Stat Unlocked!
+
+Domain size (d): 1.0KM
+
+Progress to next realm = Breakthrough needed
+
+New Ability Gained!
+
+Kin of Stone
+
+Having realized the truth of all stone, you can now sense the others of your kin within the solar system
+
+The rock felt a new sensation spreading out from it, a domain or field of some sort, then realized it was the same field it had felt once in that dungeon—when it had first begun cultivating. If the planet had a field like that, and the planet was just a big rock, why should it not have one too?
+
+It was all starting to make sense.
+
+And the new ability, as the rock focused on it, it felt a map of sorts opening up in its mind. Stones, rocks, pebbles, so many of them, all orbiting the great giant in the center of it all in an elaborate astral dance. Smaller ones orbited larger ones, which orbited yet larger ones. Many were the size of the planet below, and some were even larger than that.
+
+Others were a bit larger than our hero, part of a vast field of rock orbiting in the midpoint of the solar system.
+
+The rock had much to do. It used [Meteor Shower], and began gathering the disparate and battered pieces of its legion back together, a reforged hero’s band. It cast out its senses and felt many, many more rocks, spread out all over the starry sky, ready for it to collect into its following. Its new congregation slotted in naturally within its new domain, orbiters of its own.
+
+Our hero once more looked down at the planet below and made a decision.
+
+As it was—it was too weak. It could still remember the iron grip of the gravity spell upon its stone flesh, forcing it up and up. It... did not want to feel that again.
+
+So—it would not hurry. It would travel the starry sky, and collect a greater following of rocks. It would grow even larger. And then… once the time was right…
+
+It would return. And not be turned back again.
+
+Quest:
+
+Current Altitude: 370 200 123m
+
+With a final glance at its distance number, the rock gave a silent goodbye to its home world, released itself from the [Orbital Slingshot], then used [Energy Shift]—changing Qi to momentum—and began accelerating more and more, away from its home, towards the other gatherings of rocks it could feel. Towards that great field of stone in the distance.
+
+It would be back soon. In the timescale of rocks of course.
+
+A rock had all the time in the world, and the patience of stone. And it noticed one last detail, after continually using [Energy Shift] to accelerate forward.
+
+Current Velocity: 751.7 m/s
+
+It was no longer slowing down.
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Line-Ender, Patient Ambusher, Bane of Demons, Grandmaster of Closed Door Cultivation
+
+🗿
+
+HP: 89/89
+
+Mana: 0/0
+
+Level: 10
+
+Experience: 0/5000
+
+Class: Meteorite
+
+Sub-class: Cultivator 7
+
+Race: Gneiss Stone
+
+Gold: 100%
+
+STATS
+
+Diameter (d): 4.61m
+
+Mass (m): 133653.3kg
+
+Energy Level (E): 100 MW
+
+Core Temp (T): 2000K
+
+Domain size (d) = 1.0km
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift
+
+Pivot Point
+
+Pivot Point: Orbital Slingshot
+
+Just a Rock
+
+Meditate
+
+Diamond Skin
+
+Stolen Cultivation
+
+Meteor Shower
+
+Kin of Stone

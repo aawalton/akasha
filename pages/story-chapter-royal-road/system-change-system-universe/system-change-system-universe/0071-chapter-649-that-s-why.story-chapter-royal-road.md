@@ -1,0 +1,151 @@
+---
+id: 7e99a65a-da17-5af4-9f1d-eb49892c6a83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 649: That's Why"
+slug: 0071-chapter-649-that-s-why
+partOf: system-change-system-universe
+position: 71
+ownLength: 2101
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3397132/chapter-649-thats-why"
+royalRoadId: "3397132"
+---
+
+Chapter 649: That's Why
+
+"You have an idea?" Derek asked with wide eyes. "What is it?"
+
+"Well... I just went through all the storage devices, right?" Edgar said.
+
+"Yeah?"
+
+"The Herring guy... I went through his things , and I found these," Edgar said as he picked up a ring on the table, then a large stack of papers that covered almost the entire table appeared. Once Edgar backed away, Derek leaned over the table to take a quick look at what they were. "It wasn't really my idea since it was brought up earlier... but..."
+
+"Are those..." Derek started, but was cut off.
+
+"Those are maps! Are they of the entire planet?" Alex practically bounced over to get a good look at the map. "So much more detail than what I was able to get my hands on and study. With these..."
+
+"With this, we should be able to find one of the old outposts with a real teleportation device that may be easier to get working than one of those complicated single-use ones, right?" Edgar asked. "Like we thought about earlier before we decided to go the other route."
+
+"Exactly!" Alex could barely contain his excitement as he turned his head from the maps to Derek. "And your crafter girl... with the way she was already able to read the runes on the teleportation plate... she just may be able to get it into a working condition. Stationary ones like that aren't nearly as complex. The only problem we'd have then is supplying it with enough mana to activate it and keep it active until we finish teleporting."
+
+"And will you be able to fix the coordinates or whatever?" Derek asked Alex.
+
+"I should be able to. Those don't change. I'll need some time to figure it out, but that will be the easiest part of it all. If... Brandi? Was it? If she can fix it, then we're good to go. I mean... I'm going to fail my training mission anyway, so I'm more than happy to teleport home early," Alex explained.
+
+"In that case..." Derek said, and everyone leaned in. "Anyone know how to read these things?"
+
+"Yeah, I can. Give me a minute," Alex said, then bent down and really started quickly looking through the maps. After a few minutes, he chuckled. "Looks like we're at least a little lucky here."
+
+"Oh yeah? Why do you say that?" Derek asked.
+
+"Because, unless I'm mistaken, Herring marked where they were on this map," Alex said as he pointed at a particular map, then placed his finger on a certain spot. "Now, there's only one marking, so we are certainly a good distance away from it, but it gives me a great starting point."
+
+"I see," Derek said as he leaned in and saw the marking Alex was talking about. It was just a small red dot on an otherwise large map. It was, after all, a very well-defined drawing of the area and quite large. "How big is this planet?" Derek asked.
+
+"It's one of the smaller ones," Alex replied while studying. "If it were bigger, it would have had more resources and more types of monsters with different materials. And if that had been the case, then everyone would have fought harder to keep it as a Planetary Battlefield."
+
+"That makes sense," Derek replied.
+
+After that, everyone stood around the table chatting a bit about the previous fights, their rewards, and other things while Alex went over the area on the map with a fine-tooth comb. As time went on, Alex began putting a bunch of the other maps away. Soon, only a few maps were left in the stack.
+
+"I think I got it!" he finally said. "We are right here... I believe."
+
+Alex pointed at a spot, and Derek leaned over the table to get a better look. "How can you tell?" he asked. "Everything is well done, but the landmarks are still really small."
+
+"I'm pretty good with maps... and studying in general," Alex said. "I'm not much of a fighter, which is why I took my class in the support direction every time I had an upgrade. I shouldn't even be here, to be honest, but my father thought it would 'get me out of my study.' Well... it did... and very nearly got me killed."
+
+"Yeah... but... the map?" Derek asked again.
+
+"Oh, right, sorry," Alex muttered. "I searched around the red mark until I found something that looked familiar. A few didn't pan out, but I recall this rock formation from a few days back. Then, I took the way the Grimshaws were headed and the way we came from, and here we are." He touched the spot again. "Clearly, the Grimshaws hadn't moved very far from their arrival point. I doubt anyone has, really. It probably took Herring forever to figure out where they were located on the maps before he was able to mark it down. I'd wager most of the others have done the same."
+
+"I'd wager you're right," Derek replied. "Now that you've found out where we are, can you find any of the official outposts?"
+
+"Mhm..." Alex nodded and moved two of the other maps to the top of the stack. "There are some way further out, but these two maps are connected directly to the one that we are located on. There is an outpost on each one, and they are still a distance away, but that's if we're just walking. One is about the same distance from here to where you met me... maybe half a day's travel more. Amelia could probably get there in an afternoon with the movement skills she's shown."
+
+"Well... we're not going to do that," Derek said. "We're sticking together. We may not have a ton of options, but we're not necessarily in a rush—especially now that we have an actual plan. And, if I'm completely honest, just in case something goes wrong, I would like to have Jace back up at or around 100% by the time we get there. It never hurts to have more firepower."
+
+"I beg to differ," Marrick said.
+
+"Huh?" Derek frowned. "Why?"
+
+"It can definitely hurt to have more firepower—especially when that firepower is attached to a battle idiot like Jace," Marrick explained. "But I agree. It would be better to have Jace with us this time."
+
+"Then it's settled. We'll go to one of the outposts and see what's up," Derek said. "All the outposts do have teleporters, right?"
+
+"They should," Alex replied.
+
+"Great!" Derek said. "Which one do you think we should go to?" he asked Alex.
+
+"How about we just go to the closest one?" Alex suggested.
+
+"As good a start as any," Derek replied before looking at Nivara—who had stayed out of the Time Prison once again. "Are you good to scout again?" he asked.
+
+"That should not be a problem," the former queen replied.
+
+"Good," Derek said. "Since we are a bit down on strength with Jace out of commission right now, it would be better to play it safe."
+
+After making the plan, Derek divvied out everything from the storage rings. Alex was correct that there really wasn't much. Silvi still seemed happy enough with the few ingredients she ended up with, and there were a few decent weapons that would at least earn everyone some credits if they were able to sell them. Finally, Derek stored the table after Alex stored all the maps but the one he currently needed.
+
+"Okay, Alex... point the way," Derek said. Alex looked down at the folded map he was holding, then pointed. "Nivara, lead the way with your illusion. I'm sure Klaus has no problem taxiing your body again."
+
+Nivara sighed, created her illusion, and Klaus caught and slung her body over his shoulder. Finally, the elven woman took off in the direction Alex was pointing. After waiting a short time, everyone followed behind.
+
+***
+
+After a day of traveling, they stopped to rest. They weren't physically tired, but being on constant lookout was mentally taxing no matter how strong one was. Derek opened his Time Prison, then went inside. He made a beeline to where Jace was, and when he arrived, he looked down at the unconscious man.
+
+"How is he?" Derek asked Stella—who was currently looking after him.
+
+"I thought he was supposed to be in and out of consciousness," Stella said. "But he hasn't opened his eyes once since he's been in here, and it's been days."
+
+"I see..." Derek said. "Looks like cutting him off from the system and putting him in here really won't let him recover faster from a skill like the one he used. It really is connected to the system. I figured that would be the case with skill backlashes. It's good to confirm."
+
+"Ugh..." Suddenly, Jace groaned and opened one of his eyes slightly. "Did you have to hit me so hard... and so many times?" he muttered after getting his other eye open. "Not like he was going to die..."
+
+"Couldn't take that chance," Derek said. "We never know how much control you have over yourself in that state."
+
+Jace didn't speak for a minute, then said, "Fair enough... still don't think I would have killed him."
+
+"You don't think?" Stella asked with a raised brow.
+
+"Well... I can't be sure... he stole some of my fun..." As he continued to speak, his voice got weaker and weaker. "I'm tired..."
+
+"Get some rest," Derek said. I guess he woke up since I opened the prison and reconnected him to the system, and the system took into account the time that passed on the outside. Good... that means we won't have to bring him out and take care of him outside of here while he recovers. It will be a pain in the ass for him now that he will be in and out of consciousness, but... I'm fine with that.
+
+"Wait..." Jace muttered. "We won? Right?"
+
+"We're all still here, aren't we?" Derek replied.
+
+"Looks like..." Jace said. "What about the teleportation device? Did you get it?"
+
+"We did... but I accidentally broke a bit of it, so it doesn't really work," Derek explained.
+
+"Oh... you had a fun fight, then?" Even in his weakened state, Jace managed to squeeze out a grin and show some fire in his eyes.
+
+"No... it wasn't a good fight at all," Derek said. "I actually had to think and plan to win. I much prefer punching things in the face and getting punched in the face to fighting with my brain."
+
+"And that's why you're my best friend," Jace said. "Who needs a brain when they're having a good fight, anyway?"
+
+"You two..." Stella muttered and sighed. "You aren't wrong."
+
+"Smart lady," Jace replied with a tired smile.
+
+Derek chuckled. "You do prefer fighting over all that administrative work Alanah had you doing, huh?" He recalled the first time he'd seen her prepare herself to fight. It was against Bones and Ogre. In the end, she didn't really do anything, but she definitely wanted to. That, and the fact that he'd been told by Avery and Alanah how much more she preferred it over running the restaurants.
+
+"Very much so," Stella replied. "And I am happy that I am still at a low level—especially now that I am connected to this system that is likely much more powerful. Perhaps all that work at the restaurant and as Alanah's assistant hasn't hindered my ability to grow as much as it would have in the Great System."
+
+"Maybe," Derek replied.
+
+"So... what's the plan now?" Jace asked as he fought to keep from nodding off.
+
+"Found a map. We're heading to one of the outposts like we planned earlier," Derek said, giving him a quick rundown.
+
+"Good," Jace replied. "Hopefully, you can get off this planet without any more problems."
+
+"Hopefully," Derek replied. "Now, you get some rest. I'll be in and out to connect and reconnect you to the system so you can recover. I also want to know what it's like for you, too. Don't be mad that I'm using your recovery as a bit of an experiment."
+
+"You kicked my ass again," Jace said. "Got your... second wind..." He let out a light cough. "You can do what you want. To the victor, and all that..."
+
+"Good," Derek said, and Jace's eyes closed. He nodded to Stella, then left the Time Prison. The group camped out for a few hours, then they once again began their trek to the outpost.

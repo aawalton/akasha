@@ -1,0 +1,293 @@
+---
+id: be5dcf93-39c2-5db8-824c-28ae68295057
+page-type-slug: story-chapter-royal-road
+title: "Chapter 501 & 502: The Crimson Night & IMPORTANT ANNOUNCEMENT!"
+slug: 0068-chapter-501-and-502-the-crimson-night-and-important-announce
+partOf: rise-of-the-living-forge
+position: 68
+ownLength: 3954
+unit: words
+ownProgress: 3954
+publishedAt: 2025-10-15
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2678621/chapter-501-502-the-crimson-night-important-announcement"
+royalRoadId: "2678621"
+markedReadAt: "2026-06-29T20:00:36.615Z"
+---
+
+“Vanessa!” Thane exclaimed, his voice full of false cheer. “What are you doing here? I thought you were busy working!”
+
+“Oh, you know,” Vanessa said, waving a hand dismissively before herself. “The Menagerie paid me so well that I might have gone on a bit of a bender. Got into an argument with the boss. He wanted a big cut of the money, but he didn’t do shit, so I refused. We got into a bit of a verbal pissing match and he told me to fuck myself. I’m not a solo act, so I found his wife. Did horrible things to her. She liked ‘em. He didn’t. I got fired. So… you know. The usual.”
+
+Thane stared at Vanessa, at a momentary loss for words as his cheeks heated. He’d never considered himself particularly noble or removed from the average man — but he’d still been part of the Blacktongue family. They had a very low tolerance for crudeness as a whole.
+
+But Vanessa made the word ‘crude’ feel like it was an underpaid market worker putting in the bare minimum effort. She was on an entirely different level.
+
+“I… uh, right,” Thane stammered.
+
+Esmerelda cackled.
+
+“Oh,” Vanessa said, suddenly wincing. “Shit. I forgot. You’re like ten. My bad, little dude. I keep forgetting. Not really used to people so young being anywhere near my vicinity.”
+
+“I am not ten!” Thane protested. “I just turned sixteen! You were literally at my party!”
+
+“Age isn’t just a number,” Vanessa said. She tapped the side of her head. “It’s about experience. And you, my little friend, have none of it.”
+
+Then she paused for a moment.
+
+Esmerelda started to cackle even louder. “Go on. Tell us more.”
+
+“Don’t quote me on that first part,” Vanessa said, clearing her throat awkwardly. “It’s out of context. I…oh, forget it. You know what I meant. I’m not a words kind of person. Not unless they get me—”
+
+She cut herself off and sent a pointed glance at Thane.
+
+He tried not to take too much offense at that. It was probably for the best. She wasn’t exactly wrong. He didn’t have even the slightest smidgen of experience with anything that Vanessa was talking about… and he wasn’t so sure he wanted to change that anytime soon.
+
+The axe in the bucket behind Thane trembled.
+
+The blood drained from his face instantly. Vanessa had taken him so off guard that, for a moment, he’d forgotten about just how big of a problem her presence was here. There was no way that Thane could let her be the one to bear the cursed weapon.
+
+It’s an evil, bloodthirsty devil stuck in an axe. She doesn’t deserve that. I can’t let her take it out of the store.
+
+“So what brought you to my store?” Esmerelda asked, tilting her head to the side and studying Vanessa intently. “You didn’t strike me as the type to swing by on a friendly visit.”
+
+“Hardly matters now,” Vanessa said with a half-shrug. “Hey, isn’t this place magic? I recognize those shelves from when you took us to the Blacktongue’s party. Did you come looking for me or something?”
+
+“No,” Esmerelda replied. “But it seems you came looking for us.”
+
+“But maybe you shouldn’t,” Thane said hurriedly. “Wouldn’t you rather be getting a drink at the Devil’s Den or something right now?”
+
+“Bah. I’ve been doing enough drinking,” Vanessa said with a grimace. “That’s how the boss’s wife and I — well, you know. Best to stop while I’m ahead. At least for a bit.”
+
+Getting fired for sleeping with your boss’s wife is what you consider ‘still ahead’? I’d really hate to see what she defines as behind.
+
+“What about someone else’s wife?” Thane suggested. “There are always—”
+
+Esemerelda’s hand clamped down on Thane’s shoulder. “Give me a moment alone with the boy, would you?”
+
+Vanessa’s gaze drifted to the black axe. She swallowed, nodding slightly, eyes never leaving it. “Yeah. Sure. No problem. Don’t mind me at all. I’ll just stand here.”
+
+“Don’t touch anything! It’s… uh, fragile!” Thane managed as Esmerelda dragged him a bookshelf and out of view.
+
+Esmerelda released his shoulder and crossed her arms as she leveled a flat stare at him. “Stop.”
+
+“What? You actually want to give her that thing?” Thane hissed. “It’s cursed! This is our friend! We can’t—”
+
+“We,” Esmerelda corrected, her voice as taut as a steel wire, “do not choose the wielders. The weapons do. It is not your place to attempt to stand in the way of that… unless you’re hoping that every single cursed item I have in my possession will realize I do not uphold my end of the contract and set out into the world to cause chaos as they seek out their owner?”
+
+Thane stiffened. His jaw clenched. “But… Vanessa is our friend! And that axe is evil! You said it was bloodthirsty!”
+
+“It is,” Esmerelda said. “That thing has been in my possession for a long time. I don’t have a single good thing to say about it. It’s a powerful, vile weapon. And it has chosen its wielder. If we deny it that, then it’ll go find her by force. And I can promise you that a whole lot more people are going to get hurt if things go that route.”
+
+Thane swallowed. His fingernails dug into the beds of his palms as he desperately searched for some kind of counterargument. None arose. He’d known what Esmerelda’s job was. None of this was a surprise.
+
+Perhaps he was a hypocrite. Thane hadn’t had an issue with the fairly logical approach Esmerelda had taken right up until someone he actually cared about had been involved.
+
+But, hypocrite or not, he couldn’t just accept that.
+
+“Can’t we at least warn her?” Thane asked desperately. “So she can make the decision herself?”
+
+Esmerelda blew out a sigh and pinched the bridge of her nose between two fingers. “Do you really think that will change anything? The weapon has chosen. And Vanessa isn’t exactly the sharpest sword in the armory. She’s about to put out for the damn thing.”
+
+“She’s what, now?” Thane asked.
+
+“Never mind,” Esmerelda said with a shake of her head. “She’s already seen the axe. She wants it. Don’t tell me you couldn’t see it in her eyes. The contract is as good as done. Nothing you tell her now will change anything.”
+
+“It’s not about if it changes anything,” Thane said. “It’s about her knowing what she’s getting into.”
+
+“And if you succeed?” Esmerelda asked, arching an eyebrow. “If she realizes it’s a bad idea and she doesn’t take the axe? What happens then? What will the weapon do?”
+
+“I… I don’t know.”
+
+“It certainly won’t be happy with you,” Esmerelda said. She flicked him in the forehead. “You’ll probably be dead. Entities that powerful do not take kindly to interference. It is fate.”
+
+“There’s no such thing as fate,” Thane said. He set his jaw. “Life is what we make of it. I won’t let anyone control my destiny.”
+
+Esmerelda stared at him for a long second. Her features tightened. Then she let out a heavy sigh and threw her hands up into the air. “Fine. Idiot. I’ll only agree to this because you have no chance of success. The woman is an idiot. She’s probably already licked the axe to see if it tastes good. And if she’s accepted it, then there’s absolutely nothing at all that can be done. It’s hers until death.”
+
+“Thank you,” Thane said in relief, spinning on his heel.
+
+“Don’t thank me,” Esmerelda said as he darted back around the shelf. “You’re just setting yourself up for failure.”
+
+Thane ignored her.
+
+To his relief, Vanessa hadn’t touched the axe yet. She stood a foot away from it, examining the black weapon curiously.
+
+“Wait!” Thane yelled. “Don’t touch that! It’s—”
+
+“Cursed,” Vanessa finished.
+
+Thane skidded to a halt, the wind leaving his sails as he blinked in surprise. “I — wait. You knew?”
+
+“No,” Vanessa said. Then she tapped an ear with a finger. “I’m a Thug, Thane. Physical combat class. I have enhanced senses. I heard everything.”
+
+He blinked. “I… oh. You did?”
+
+Vanessa snorted. “Yes. And I have to admit, this axe is something else. She’s a real beauty, but she’s definitely the jealous sort.”
+
+“What?” Thane asked, staring at Vanessa in confusion. “She?”
+
+“Oh, definitely.” Vanessa nodded sagely, then jerked her chin to the axe. “Look at her. That grace. That aura. That’s a woman, all right. Can’t you tell?”
+
+“No,” Thane said. “Not really.”
+
+“Well, it is.” Vanessa crossed her arms in front of her chest. “And for a woman like that, I’d almost be willing to give every other lady in my life up for her. Men too. Almost… but not quite. I’m not one for a committed relationship. I much prefer bouncing around. It’s more fun.”
+
+“You cannot be serious,” Esmerelda said from behind Thane.
+
+Thane blinked. His heart started to beat fast. “You mean—”
+
+“After what I just heard? Dead serious.” Vanessa snorted. “I’ll pass. I don’t want anything to do with this lass. She’s meant for someone else.”
+
+“Shit,” Esmerelda said, horror filling her words. She thrust her hands forward, purple magic swirling to life at her palms. “Shit. Thane, run! You need to—”
+
+The rest of her sentence was lost in a roar of blood-red shadow that exploded out from the axe, washing over the entirety of Esmerelda’s store.
+
+And then the world froze in place.
+
+Vanessa and Esmerelda’s breath stopped. They locked themselves in place as if carved from stone. Even Esmerelda’s magic went completely still. A book teetered at the edge of a shelf, moments from dropping but unable to begin or end its fall.
+
+Shadows poured out from the obsidian axe, pooling across the ground and twisting together like a nest of snakes. Any distinction between the shadows evaporated. They merged into the smooth, cohesive form of a tall woman. Crimson robes slithered across her skin to fall past her shoulders like a banner steeped in blood.
+
+Two thin eyes, the same color as her robes, formed upon her shadowy face — and they were followed an instant later by an all-too-wide mouth that stretched from one ear to the other.
+
+Thane took a step back, a lump forming in his throat.
+
+I really should have thought this through a bit more. I didn’t think Esmerelda was being so literal about the cursed weapons not liking interference.
+
+“You should have listened to Esmerelda,” the woman whispered, a sharp note of admonishment in her serpentine voice as her scarlet eyes bore into him. “I don’t like people that steal from me, Thane. I don’t like them at all.”
+
+Chapter 502
+
+Thane took another step back, his mouth going dry. He normally considered himself the type of man who took calculated risks. Esmerelda had made it clear that the cursed weapon wasn’t going to take kindly to its prey getting snatched.
+
+But Esmerelda was… well, Esmerelda. She could deal with anything. All of the Menagerie could. There was always some other path. He wasn’t just going to sit around while Vanessa got herself consumed by some evil magic axe. As long as the Menagerie were there, they could have figured something out.
+
+At no point had Thane considered that the axe could take the Menagerie out of the equation.
+
+Time was frozen. Esmerelda couldn’t help him. Nobody from the Menagerie was coming. The only ones here were him and woman made of shadows, draped in crimson cloth and with an all-too-wide mouth splitting her face like the unhinged maw of a snake.
+
+Thane’s back hit a shelf. There was nowhere left to back up, nowhere to run from the blood-eyed woman. He couldn’t tell what was in her gaze. Hunger? Fury? Hatred? A mix of the three, or something else entirely?
+
+It struck Thane that it probably didn’t matter. There wasn’t any emotion that was going to make him any less dead.
+
+Fighting back was entirely off the table. This was an ancient devil, a being strong enough that even Esmerelda respected it. He had an Apprentice Tier Class that specialized in research. The only thing he’d break punching the apparition would probably be his own wrist.
+
+“I didn’t steal anything,” Thane said, his voice catching in his chest and coming out a higher pitch than he would have liked.
+
+The appiration’s eyes narrowed. “It’s one thing to steal from me. It’s another to do it right in front of my face. But it’s an entirely separate issue if you steal in front of my face and then have the sheer guts to lie about it.”
+
+“I’m not lying,” Thane said, his jaw clenching as a tiny spark of indignation burned in his chest. “I didn’t steal anything. To steal implies that you had some degree of ownership over Vanessa. You didn’t. She’s a free woman. All I did was inform her.”
+
+A pitch black hand shout out before Thane could react, grabbing him by the throat. Her molten eyes burned as if they were trying to claw a path right through his soul.
+
+“Semantics,” she whispered. Thane caught the faintest glimpse of a forked tongue of flame within her mouth. “She was mine. The perfect vessel, and you stopped the contract with your meddling. Even through the Curse Broker’s warning, you interfered.”
+
+Thane wasn’t sure what the best course of action was. Maybe staying silent would have been his smartest move. He could have just accepted whatever punishment the devil saw fit to hand out. If he were lucky, she would show mercy. Maybe there would be a chance he would survive. Anna could patch up whatever damage the devil did to him.
+
+But he couldn’t stay silent.
+
+Perhaps it was sheer stupidity, but Thane’s mouth moved before he could stop it.
+
+“She wasn’t yours,” Thane said. “Stop saying she belonged to you. Nobody owns anyone.”
+
+The aspiration paused. Her head titled to the side, tongue flicking out as if to taste the air. A sneer twisted the shadowy woman’s face. “And who are you to tell me who I cannot own? She was the perfect vessel. I have been waiting for the arrival of my ideal servant for more years than you have drawn breath. I would not have stirred if my true wielder were not approaching. I am a picky woman, boy. And you have taken my vessel from me. For that, you will suffer.”
+
+Thane’s mouth was so dry that he could barely speak, but he was getting the feeling that staying silent definitely wasn’t his best option anymore.
+
+“You’re wrong.”
+
+The apparition’s eyes widened, as if in disbelief at his insubordination. Her hand tightened around his throat. Thane didn’t let his gaze so much as twitch. He stared into her eyes, jaw set and desperately hoping she couldn’t tell just how badly he needed to draw in a breath.
+
+“The. Sheer arrogance,” the devil hissed. Her grip grew even tighter and she lifted Thane into the air like he were a doll. “You dare? You think I cannot tell when I am in the presence of my wielder? Do I look a fool to you? Or are you a masochist? Perhaps you hope to be tortured?”
+
+“Vanessa said it herself,” Thane choked out. “She’s not your type.”
+
+“Are you a fool? What are you — wait. What are you talking about?”
+
+Her grip loosened. Thane dropped to the ground in front of her, drawing in a ragged gasp as his throat throbbed in pain.
+
+“Vanessa doesn’t like dedicating herself to one thing,” Thane said between wheezes. “She sleeps with everything she likes, and I’m pretty sure that goes for weapons as well. There’s no way she’d settle down for one weapon.”
+
+“I am no mere weapon,” the apparition hissed. “And this is not entering some manner of romantic relationship. It is—”
+
+“Still a relationship,” Thane said. His gaze lifted back to meet the shadow’s. “Not a romantic one, but she wouldn’t have been loyal the way a wielder should be. You’re too powerful of a weapon to be treated like that. You’d inevitably have issues. There’s no way someone like Vanessa could be your wielder.”
+
+“You mean to tell me that I was wrong?” The apparition stared at Thane, her red eyes flickering like furnace coals. “You think you know my desires better than I do?”
+
+There was danger in her words. Even a fool would have recognized that this was a trick question.
+
+“Yes,” Thane said. “I do. Because you’re definitely wrong. But even if you weren’t, I still wouldn’t let you bond with my friend without her knowing the risks.”
+
+“What sheer, dumb, idiocy,” the apparition said. “You defy me. Openly. To my face. Esmerelda cannot help you here, Thane. She can do nothing at all. You exist entirely at my whim. And you still dare talk back to me?”
+
+“Would you prefer that I lie?” Thane asked. “You already made it pretty clear you didn’t like that. I’m not defying you. I’m being honest.”
+
+The apparition paused. Then she glanced back at Vanessa. A second passed. When her gaze returned to Thane, something within it had changed. That should have been comforting. But it wasn’t. For some reason, something about her eyes felt even more dangerous than it had just a few moments ago.
+
+“I have observed you since you entered this shop,” the devil whispered. “Since I started to awaken. I did not understand why the Curse Broker kept someone as weak and pathetic as you around. Many of us considered removing you, but it didn’t feel like the amusement of your death would even be worth the effort.”
+
+“Thanks,” Thane said. He didn’t know how he felt about the devils in Esmerelda’s store talking about killing him, only to decide it would be too boring… but it wasn’t great. “I think. But this doesn’t change your situation. I’m not going to change who I am. But I am a researcher.”
+
+“And what is that meant to mean?” the devil asked, leaning closer until her eyes nearly felt like they would swallow him whole.
+
+“I can find you your real wielder,” Thane replied, forcing through the fear biting at his heart. “I know you can’t just wait around. You woke up. That means you need a wielder. If Vanessa had been the right one for you, then she would have picked you up even after my warning. Her heart just isn’t anyone’s to take.”
+
+“You are still treating this as if Vanessa were planning on taking me to bed,” the devil growled. “I think you misunderstand the situation.”
+
+“And I think you misunderstand Vanessa,” Thane said. He sent a pointed look at her. “Do you really think she doesn’t sleep with her weapons?”
+
+“Sleeping with her weapons is not the same as…” The devil trailed off. She glanced from Thane to Vanessa. “No.”
+
+“It’s Vanessa,” Thane said flatly. “Don’t put it past her. She goes after anything that consents. I’m telling you. She’s not the one you were waiting for.”
+
+“I would not have awoken if I did not feel the arrival of my wielder,” the devil said, but she sounded slightly less certain now than she had been a moment ago. She was silent for a moment. Then her wide mouth thinned, curling down into a thoughtful frown.
+
+“Maybe they just haven’t gotten here yet,” Thane said. “They could just be close. But if you’re looking for some bloodthirsty warrior who revels in destruction and hatred… that isn’t Vanessa. She’s a nice person. One with minor commitment issues. But I can help you find the one you’re looking for. I’m good at researching things. I’ll catalogue the people in Milten. Locate the one that suits your desires and bring you to them. Let me out of here and I’ll get you the wielder you were promised.”
+
+The devil didn’t respond immediately. Despite the odds, hope sputtered to life in Thane. He could tell that the deadly weapon was considering his offer. He’d made his point as best as he could, and it was clear that he was right.
+
+Vanessa just wasn’t the right warrior for the axe. There was a way out of this. A way where they could all—
+
+“No,” the devil said.
+
+Thane’s heart dropped into his stomach.
+
+“Why?” Thane asked. “Vanessa isn’t going to suddenly change her mind if you—”
+
+“Your offer will not be necessary,” the devil said, cutting Thane off before he could finish protesting. She grabbed him by the chin again, pulling his gaze back up to meet hers. Curiosity flickered within her crimson eyes. Curiosity… and disbelief. “You.”
+
+She didn’t say anything else. That was rather odd, as You wasn’t really a complete sentence at all.
+
+“Me?” Thane repeated. “I don’t understand.”
+
+“I awoke… when you arrived,” the devil muttered. “Not Vanessa. It was your presence I felt.”
+
+Thane froze.
+
+“What? But I’m not a warrior! I don’t want to hurt anyone. I definitely don’t love death and destruction. I just want to research things and learn about the world. And… I already have a weapon.”
+
+The devil threw her head back in an uproarious laugh. “You think that having a weapon means I cannot choose you? What do you think I am? Throw it away. You are—”
+
+“I can’t do that,” Thane said, swallowing as his mouth went even dryer. “It was a gift.”
+
+The devil’s head snapped back to stare at him. “You… refuse me. I offer you a way to live, and you refuse it? Because your weapon was a gift?”
+
+“It was a birthday gift from someone who means a lot to me,” Thane said weakly. “It wouldn’t be right to throw it away. And I wouldn’t want to make you share.”
+
+“Where did you get the idea that a weapon needs to be monogamous with its wielder?” the devil asked, aghast. Then she paused for a moment. “You are naïve. Naïve, but… you worry about making me unhappy when your own life is at stake?”
+
+“Well, if you kill me, Arwin will shatter you into a thousand pieces,” Thane said. “That helps a bit. I don’t think you want that. But I don’t want to screw you over either. Esmerelda promised you something. I’m helping her. That means I help you. I’ve got weapons already, and there’s no way I could swing a big axe. I don’t have the muscles or class for it. But I could help you find the right person.”
+
+The devil stared at him for several long seconds. Then she took a step back. “You said you will find me my true wielder. I accept your offer,” the devil said. “But your task is already complete.”
+
+“What?” Thane asked. “I don’t understand. I already told you, I can’t—”
+
+“I have felt your weapons. They are of fine material and good make… but they do not bear a soul,” the devil said. “I will claim one of them. The axe is merely the metal I am bound to. I have had wielders before. None like you. But you… yes. You will do.”
+
+“I—”
+
+“Are you going back on your word?” the devil asked sharply.
+
+Thane swallowed. “No. But I don’t know if I’m really the right person to wield you.”
+
+The devil grunted. Her eyes flicked to the side. “Nor do I. I have never had a wielder so weak. But I have never had one more concerned with my happiness more than their survival. Power can be gained. My choice is made. I, Vireth of the Crimson Night, claim you as my wielder.”

@@ -1,0 +1,157 @@
+---
+id: 09b770bb-7755-54c7-a729-02a5cee3af68
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28"
+slug: 0033-chapter-28
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 33
+ownLength: 2789
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3546758/chapter-28"
+royalRoadId: "3546758"
+---
+
+I closed my overview with a satisfied sigh. Honestly, I thought things were progressing rather well. I’d gotten my Poison Resistance to the point where I, along with Internal Scourge, would be able to take a constant influx of Millipede poison and still keep it manageable.
+
+My regular, non-capitalized skills were also improving. The benefits from skills in Ademia were undeniable. But knowing how to move in a fight was priceless. I’d become much better at moving right, at judging which attacks to block, which to deflect or dodge, when to run.
+
+On top of that, improvements in Higher Endurance and Athletics made sure I wasn’t running out of steam, and all my resistances and defensive skills ensured that even a cock-up or two wouldn’t see me dead.
+
+Finally, I’d kept up my efforts to defile the dead bugs, attempting to skin every single Millipede I slew. It paid off quite well, and the single Millipede skin that my Personal Universe could fit was a good deal prettier than the first ragged attempt.
+
+Now, I just needed two more talent points. Ten Millipedes or so. That was all.
+
+Life had it in for me. That was all I was able to conclude. For once, I knew where I needed to go and what I needed, and life absolutely refused to deliver. I’d roamed the Millipede hunting grounds for hours now, searching for my next target, and they were absolutely refusing to appear. It looked like somebody had managed to extinguish the entire protracted family. Oops.
+
+That left me in a bit of a bind. I needed to move on, I needed to improve, and I needed targets. But I wasn’t quite sure which way to choose.
+
+I did have targets, should I choose to go for them. With my Concussion debuff gone, Spot skill increased to nine and two additional points to Perception, my eyesight was better than ever. During earlier days, the presences on the ridge had remained half-seen glimpses of movement at the edge of my vision. Now, they were clearly present. Yet, they weren’t like the monsters who’d attacked Ever Steady. These were humanoid. And that gave me an entirely new range of considerations.
+
+The shapes, still hard to spot at this distance, were clearly guarding the incline leading to higher grounds. They carried glinting weapons, and moved about, not hidden, but definitely staying behind some sort of defensive structure. Not only humanoid, but with metal weapons on top?
+
+Who were they? What were they guarding? Were they hostile? What were the odds that they’d not be way higher Level than me?
+
+Every time I started in on those thoughts, the questions lined up and wouldn’t stop coming. And every time, the conclusions did not come up favourable. Every sentient race out there had turned up hostile so far. And, given what some of the first invaders had spouted, Ademia was likely to be a world that had been settled for ages – meaning, they were likely to be much higher level than me. Adding metal into the mix spoke to a degree of modernization that, again, I didn’t much love.
+
+In short, I didn’t want to chance it. So, with the southward option meaning wading through swampland, I opted to continue pressing west, exploring what lay beyond Millipede territory.
+
+For maybe twenty minutes, the answer proved to be more of the same. Grasslands, abandoned tunnels and an absolute lack of anything living.
+
+Oh, there were the regulars, of course. A few birds. Those horribly keening grasshopper-wannabes. A vibrant ecosystem of insects, worms and the like. But nothing with levels, and nothing lurking, whetting its claws in preparation for my arrival.
+
+Heh. Last time I’d been that wrong about a judgment call back on Earth, I hit on a biker’s girlfriend.
+
+I am not an expert on beasts. That’s a pretty easy concession to make. Some people can wax eloquent for hours on end about grazing patterns, natural habitats, evolutionary trends and all sorts of weird-ass shit.
+
+That’s not me. My experience with animals on Earth boils down to liking most non-chihuahua dogs, and having a tentative, unspoken ‘You don’t mess with me, I don’t mess with you.’-agreement with cats.
+
+Same thing applied to Ademia. After my first handful of days in the world, I wouldn’t claim I’d come closer to understanding much about local animals. Surviving them, perhaps. But understanding was still a good way off.
+
+Yet, even somebody as clueless as me would be able to admit that different species have their own, special… style, as it were. A certain mood, or sensation to their style and behavior. This was very much the case here on Ademia as well.
+
+The Core Leechers had been pure horror, driven by sheer bloodthirst and little else. The bestial army had been diverse. Skreelings were power and fury, combined with the grace of a bull. The Riverkin were all speed, with a bit of wide-eyed gopher-like innocence, even as they killed. Glimmerscales had all the pride and patience of experienced hunters out for the kill. Millipedes? Well. Not all monsters were blessed with positive qualities.
+
+The creature that arose from the ground was all grace. Like a dolphin at play, it arced out a tunnel, gracefully reaching a height that had mine beat, before diving back into another aperture. I didn’t even see what it was, before it was gone, leaving me with an after-image of fur and claws.
+
+Then the attack hit me, and I stumbled back a step, looking at the line of blood emerging on my right hand.
+
+I travelled with my shield at the ready. I always did, these days. Yet, there’d been no warning, no noise or visual give-away that I was about to be jumped. My Spot had failed me entirely.
+
+Eyes seeking all around me, I knelt, hiding my bulk behind the shield, as I brought up the notification before me.
+
+You have earned a new defensive skill:
+
+Air Resistance
+
+Passive skill
+
+Aerial magic is the epitome of versatility. It can be pure, blunt force. Tight, controlled damage. Insidious, unnoticeable and smothering. You have survived what could have been a lethal encounter with it. Every level in Air Resistance will marginally decrease the damage received from air magic.
+
+Air magic. Well, that was new. It also damn well explained the air time on… whatever that had been.
+
+I whirled at the hint of movement on my right, bringing my shield down to cover my leg. I didn’t entirely make it in time. A cut into my boot revealed my now-bleeding big toe. And the annoying beast was already well gone.
+
+A growl emerged in my throat and I ran for where the beast had disappeared again. I needed to stop being reactive and go on the offensive. Heh. Ironic.
+
+When I reached the tunnel opening, I glanced down and saw nothing. Yet, from behind me, a soft, slithering sound announced the arrival of another attack, carving into my leather armor and shoulder.
+
+“Fuuuuck!” I veered, shield-first, ready to charge in another direction. Then I saw them. Not ‘it.’ Them. Three small, furry heads, innocent and adorable, with a clear gopher-like component, extracted their heads out of their separate holes, peering at me. And… didn’t attack.
+
+I lowered my voice to a comfortable, friendly tone. “Hello, you lot. You look nice. Hey. I’ve got an idea. Why don’t we all - ” I extracted an entire Millipede kebab from my inventory and placed it on the ground before me. “become friends?”
+
+Slowly, I eked backward, keeping my voice low and comfortable, avoiding any sudden movements. I didn’t smile at them. Weren’t you supposed to avoid showing your teeth to animals? “That’s right. It’s all yours, and I have more on me, if you’re hungry afterward. You look like a friendly bunch. Why don’t we-“ I kept up the babble as I waited to see their reactions.
+
+The closest of the lot huffed loudly, clearly scenting the offering. It leapt gracefully out of its tunnel and bounded forward with the sort of comically adorable leaps you’d see from an otter. It moved fast, though, and the dark brown fur was ever so slightly blurred with a white-blue tinge. It reached the meat, huffed twice, cocked its head and seemed to take in the offering in good faith.
+
+It looked back up at me and chittered preciously.
+
+A second later, they all attacked.
+
+***
+
+“Oh, come on, you picky fuckers. There’s good eating on those! We should be friends!” I yelled, as I veered to run at one of the frustratingly fast creatures. It chittered, then dove down into its tunnel. It would emerge in seconds from one of the other tunnel openings. I knew. I’d been chasing them for at least five minutes now.
+
+The Ethereal Marmot, as they were called – one of them had kindly stood still enough for an Identify to finally land – weren’t high-level. They also weren’t sturdy. The one I checked out had less than a hundred health. But the buggers were slippery, magical and fast. And they absolutely refused to stand still for a single goddamn second to let me land a Wave of Reflection on them.
+
+After a minute, I’d given up on actually hitting them. Their attacks also didn’t register as proper attacks, meaning I couldn’t use Deflect to snap their adorable spines. No. This was magic, all the way. It definitely registered like that, allowing myself to activate and max out the retributive damage of Wheel of Magic. The bright edges of the wheel whirled around me as I ran, single spoke active to launch an attack at the beasts every two seconds or so.
+
+That wasn’t enough either. Sure, my magical projectiles actually did launch in the right direction, managing to make them scatter and dodge on occasion. Yet, just like with the damned Glimmerscale, a single missile was all too underwhelming.
+
+I’d admitted it already. I had my pride. Yet, I also had enough self-awareness to know when I was outmatched. Or, in this case, when I might be tougher and stronger, but the match-up was thoroughly, ridiculously unsuitable for me. Ordinarily, I’d likely be able to just run the damn things ragged, but with the tunnels and their magic, all bets were off.
+
+Strategic retreat was the name of the game. I didn’t like it, but I sure as hell played it. Only, the bloody things kept hounding my ass. And, it turned out, I’d vastly underestimated their dedication, because the blasted beasts kept following me. Little by little, they were starting to do some actual damage.
+
+I shouted, extended my shield to fend from an aerial missile, and activated Wave of Reflection. My deflection was well-timed. The direction was spot on. Except, the area where the magical wave hit was suddenly empty. The tiny, adorable bugger had seen the missile coming, judged it to be dangerous, and leapt below ground, in a matter of moments.
+
+During my run, I’d at least managed to come to a few conclusions about the critters, besides them being frustrating little things. Judging from everything, they’d clearly stayed in the area for a long time. They’d also, I felt certain, been one of the main stables of the local Millipede diet. That, again, made a ton of sense to me. Sure. The marmots would be able to run circles backward around the unwieldy, lumbering Millipedes and attack them at will. But their attacks would be weak against the overpowered defensive armor of the Millipedes. Also, the Millipede webbing was likely to be a problem for them, if their eyesight wasn’t excellent.
+
+Judging from the number of small bones I’d seen on the ground the past few days, I’d wager that I had my answer right there.
+
+In short, the Millipedes had arrived, and slowly expanded to take over the old territory of the marmots. Little by little, they’d been forced back in order to survive.
+
+Finally, after ten minutes of high-stress-running, under constant attack by the leaping, swirling critters, I reached safety. Millipede area. One I’d killed less than a day earlier. The place where their predators had dwelled, ripe with their scent, a few pieces of webbing still hanging in deteriorated capacities from random rocks. This should be more than enough to make the bloodthirsty beasts hang back and lose interest.
+
+They didn’t even pause to think.
+
+I couldn’t tell if it was because the damn things were on the warpath, if they just were really hyper focused, or if they were just that dumb. Whatever the reason, they continued their attacks and forward progress, leaping from tunnels like they were swimming through the air, with all the maniacal glee and grace of figure skaters.
+
+Whatever the reason, they kept up their assault on me, even as I led them straight to where I’d killed the local Millipede population. And now, I was slowly starting to panic.
+
+Health: 321/710
+
+Stamina: 420/710
+
+I was down to just under half health. Plenty of stamina to go, and I still had the restoration skill. That, in itself, wasn’t the worst of states. Rather, it was the undeniable fact that I was running out of ideas, and this wasn’t magically going to solve itself. My Aerial Magic Resistance had already increased to 3. However, whatever percentual damage reduction that meant, it wasn’t enough. The first handful of attacks had caused about fifteen damage. Now, we were talking thirteen or fourteen. A nice difference, of course – but it wasn’t going to save me in time.
+
+I shouted in frustration. Stupid, annoying mutated gerbils! I just needed two talent points, and they had to go make it impossible for me.
+
+With a growl deep in my throat, I abandoned my erstwhile plans, threw caution to the wind, and slammed every single talent point I had into Wheel of Magic.
+
+Wheel of Magic
+
+Passive Talent. The wheel can be activated whenever you are subjected to a minimum of magical damage (even if blocked, absorbed or shielded). The wheel will surround you, throwing magical damage back at enemies. Damage caused scales with damage suffered and the magic type is randomized. One spoke activated per point.
+
+Range: 30 meters
+
+Cost: 20 stamina per minute
+
+4/5 points
+
+I slammed the breaks, and watched the wheel erupt into life all around me. When I turned to face the Marmots, all three currently peeking out of their holes, I wanted to see fear. I wanted to see the realization of just how much they’d messed up. Instead, I got glassy-eyed gopher-y looks that, to me, translated to ‘Wow. Such pretty colours.’
+
+I began my hunt. It was simplistic. It was straightforward. It was effective. And, by gods, was it ever satisfying.
+
+I ran. That was my entire plan. I stayed in movement, kept my eyes on my surroundings, and, every chance I got, steered toward the Marmots, making sure I was as close to them as could be.
+
+The Wheel of Magic took care of the rest.
+
+It glowed like the halo of a fallen angel. Blue, green, red, and a brighter blue, the spokes spewed their payloads at the nearest enemy in a cascade of constant attacks. The attacks differed in size. They weren’t always perfectly accurate. Yet they were constant, with just the stutter from the single missing spoke outstanding, and I had the stamina to keep them up for half an hour and more, if need be.
+
+They were perfect.
+
+The first Marmot died with a curious, glassy-eyed stare on its face, as it stopped to take in the fireworks instead of diving back down to safety. The second one was hit mid-air by an errant blast of bottled lightning, and died instantly. The final one seemed to realize that the odds had tilted against it, but it clearly didn’t have the presence of mind to actually call it quits. It backed off, keeping a healthier distance, drawing out the engagement for nearly fifteen minutes more, before it finally took a glancing red blast to the face and froze for long enough for two more missiles to hit it in quick succession.
+
+I fell to my knees, revelling in the victory. I was elated. I was relieved. And I was so fucking frustrated with having spent every single talent point on a talent I didn’t want right now. They were low-levelled, too. The trio combined didn’t even give me more than half a level!
+
+That evening, I fried and ate three Marmots, even though they tasted like ass. The following morning, I went on a rampage against their brethren with a vindictive fury that would’ve made PETA run for the hills.

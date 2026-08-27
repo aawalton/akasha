@@ -1,0 +1,297 @@
+---
+id: 38b376b8-d11a-5207-bb14-c64fb533f0ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 687 - Stella's Training"
+slug: 0688-chapter-687-stellas-training
+partOf: mythrans-master-of-all-continued-completed
+position: 688
+ownLength: 3070
+unit: words
+publishedAt: 2018-09-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/286728/chapter-687-stellas-training"
+royalRoadId: "286728"
+---
+
+Ren spent the entire 11 hours with Stella, like he had told her he would, and he hadn't wasted a single second of it. They fell asleep after such a long and exhausting love making session. Ren woke up after an hour, thanks to his Sustenance ring, and he left Stella a note to explain where he went, put some items on the counter for her, then went upstairs. He told the succubi to go downstairs and wait outside the bedroom for Stella to wake up. They readily agreed and he made them promise not to do anything to her sexually.
+
+Seldanna laughed and hugged him. “Don't worry, My King. We will take care of her as if she were one of our own.”
+
+Ren smiled. “I'd rather you treat her as if she was mine.”
+
+“Does that mean she isn't really yours?” Seldanna teased, and Ren had to laugh.
+
+“Just be good to her and try not to tease her too much.” Ren said and kissed her.
+
+“After last night, I don't think you need to worry about her waking up anytime soon.” Seldanna said and winked at him.
+
+Ren nodded, because he had intentionally stayed within the area of effect the succubi generated so that they could experience it as well. He had been tempted to take Stella into the Sanctuary; but, he had never subjected another Adventurer to the stress of the modified time difference for an extended period of time before, except for Lara the Sage of Ages, and she had already been used to the time compression from years of experience staying inside her closet.
+
+Even then, they both had to acclimate to the Sanctuary slowly, and Ren wasn't going to essentially throw Stella into the deep end like that and expect her to have her first gaming experience inside a time-distorted space. Not even the necklace he made the others wear to help adjust to the time difference could be counted on to stop all of the effects that might happen to a normal mind.
+
+Ren laughed mentally at that. I guess that means I class Lisa's mind as not normal. He thought. “Suniva, are you coming this time, too?” He asked, and she flew over to him.
+
+“Of course! Even though it's only been a night for me, I miss her a lot!” Suniva said and sat on his shoulder.
+
+“Make sure you tell her, or at least have that feeling at the forefront of your emotions.” Ren said and took Artemis' hand. He cast the portal to the underground chamber and Teepo dissolved into the ring. They stepped through the portal and Ren dismissed it, checked the All-Seeing Mirror and cast the portal into the Fire Realm. Everlasting Fire gushed out and filled the magical barrier, then they stepped into the Fire Realm right on time.
+
+Fire Dancer was quite happy about that, despite her attempt to hide her feelings, and she felt Suniva's longing to be near her. When Ren summoned Teepo and she felt his longing emotions as well, it made Artemis' presence a lot less annoying for her and she successfully pushed the feelings aside that Artemis made her feel. Since it was night in the Fire Realm, Fire Dancer climbed into bed and Ren increased Teepo's size to her scale.
+
+Ren did it to himself and Artemis, and Suniva made herself the right scale, then they climbed into the other bed across the room. They didn't have to sleep since they already had; but, they didn't want to be up and around and possibly disturb Fire Dancer, so they cuddled in bed instead.
+
+Days became weeks as they worked and helped Fire Dancer, and weeks became months, then years.
+
+*
+
+Stella woke up in a strange and very comfortable bed. Her hand reached out automatically and felt a piece of paper. She opened her eyes and saw that Ren wasn't there, and felt disappointment. She smiled and shook her head at wanting to wake up next to him, then picked up the note and read it.
+
+Dear Stella,
+
+I wanted so much to wake up next to you, but I needed to go to the Fire Realm to spend time with my daughter. I know, I know. You don't really think it counts. To me, she is a creation that I helped bring into this world, and she is completely justified in her feelings of abandonment. I am going to try and make it up to her, somehow.
+
+Unfortunately, this also means that I need to leave you in the care of your new 'sisters' until I return tonight. I feel a little bad about this; but, they have a lot more experience with your abilities than I do. Getting their help and their advice should be fun for you, too.
+
+I left some things on the counter for you to equip when you wake up. When I get back, we can get you some appropriate armor and clothing to fit your lineage. Until then, have fun!
+
+Love, Ren
+
+P.S. You should check your missed popups.
+
+“Ha.” Stella said and stored the letter, then sat up to see the pile of things on the counter. “Geez, Ren.” She said and got out of bed and equipped her set of Travelling Clothes. “What did you leave me?” She looked through everything and couldn't tell what they did. Bracers, greaves, 2 bracelets, 2 rings, an actual necklace, and a tiara covered in diamonds. “Wow.” She picked it up and rubbed her hand over the glittering surface and didn't know what to say.
+
+A knock on the door broke her out of her trance and she looked at the door.
+
+“Yes?” Stella said.
+
+“We can feel you are awake.” Seldanna said. “May we enter?”
+
+“Sure.” Stella said, then forgot that the door was locked. “Oh, wai-”
+
+The wood splintered as the door was easily pushed open and Stella stared at the damage.
+
+“Good morning.” Seldanna said and looked at the broken door frame. “It was locked?”
+
+Stella nodded and Seldanna smiled when she felt her worry.
+
+“Don't worry about it. Ren can fix it in less than a second.” Seldanna said as she and the other succubi entered the room. She saw the pile of items on the counter and nodded. “I see he's given you our standard equipment.”
+
+“Wh-what?”
+
+“Without knowing our specialties, he couldn't give us specific items until he saw us in action, then he customized what we wanted to suit our needs.” Seldanna said. “I wanted more Mana boosters.”
+
+“Piercing Damage for me!” Ellaria said.
+
+“I wanted Speed and Agility.” Katori said.
+
+“Toughness and Strength for me.” Chenoa said.
+
+Stella blinked her eyes for a moment. “But... aren't you all alike?”
+
+Seldanna laughed and put a hand on her shoulder. “We can forgive your ignorance until you expand your Area of Effect.” She said. “When you start to distinguish us by our emotions and not by our appearance, you'll realize how stupid that statement is.”
+
+“I... I'm sorry.” Stella said. “I just thought...”
+
+“Like I said, it's all right.” Seldanna said and let her shoulder go. “What level are you now?”
+
+“What?”
+
+All four of the succubi chuckled.
+
+“What is it?” Stella asked.
+
+“As an Adventurer, you can check, can't you?”
+
+“I... yes.” Stella said. “Show Status.”
+
+Status
+
+Name  Experiment001  Level  8
+
+Gender  Female  Class  Cleric
+
+Race  Human / Part Succubus  Fame/Infamy  0 (Neutral)
+
+Titles
+
+Alluring Visage - Causes susceptible people to be infatuated with you
+
+Health  100  Mana  100
+
+Strength  10  Dexterity  10
+
+Vitality  10  Agility  10
+
+Endurance  10  Intelligence  10
+
+Luck  10  Wisdom  10
+
+“What? I'm Level 8?” Stella asked, surprised. “How? I didn't do anything!”
+
+The succubi laughed.
+
+“Oh, I suspect that you did lots of things last night.” Seldanna said.
+
+Stella stared at her with her mouth in the shape of a little 'o' of surprise, and Seldanna put her hand back on her shoulder.
+
+“Whatever you did to gain so many levels, you can only do them with Ren.” Seldanna warned her. “He's quite used to our abilities and can handle it.”
+
+“But...”
+
+“If you try to do it with another Adventurer, or even one of the townsfolk, you could easily kill them.”
+
+“WHAT?!?” Stella yelled.
+
+“Mmm, outrage.” Chenoa moaned and closed her eyes.
+
+“Even a part human... or a part succubus, depending on how you look at it, can use their abilities right away, even at so low a level.” Seldanna said. “It takes longer, obviously; but, they still work quite well. I can see why he asked us to look after you, now. You are like a novice with a loaded crossbow and your hand on the trigger.”
+
+“I... but... you mean...” Stella took a breath and let it out. “I can kill with sex?”
+
+“Oh, yes.” Seldanna said. “It's...” She stopped talking and sighed. “I thought it was the ultimate emotional high that a succubus could achieve when we absorb everything in that final moment of our prey's release.” She said and gave Stella a warm smile. “Our King has shown us there can be a better way and a better feeding.”
+
+“Wait, 'our' king?” Stella asked.
+
+Seldanna nodded and let her shoulder go. “He saved us and freed us, and he deserves our eternal gratitude and our devotion.” She said. “We no longer wear the shackles that used to bind us. You may not have been there with us, and your grandmother wasn't saved by him; but, I know he would have saved her if given the chance, so he is your King as well.”
+
+Stella didn't respond, but she also assumed that Ren would have done his best to save her 'grandmother'.
+
+“We're not used or abused, either.” Ellaria said, then smiled. “Unless we want to be.”
+
+“He actually cares about us.” Katori said. “None of us have ever felt that before.”
+
+“The other succubi are so envious of us.” Chenoa said and shivered, then she opened her eyes. “He gives us everything we could ever need or want.”
+
+“Like money?” Stella asked, and they laughed.
+
+“He hasn't given us anything since he let us keep the loot we gained in Shargon Caverns.” Seldanna said. “Plus, Chenoa just said that he gives everything to us.”
+
+“But...”
+
+“We've gone shopping a couple of times, and it is fun.” Ellaria said. “But, that's only because it lets us sample more of the population to see if there is anyone we might like.”
+
+“Or play around with.” Chenoa said. “Humans are so easy to tease.”
+
+“And you haven't found anyone yet?” Stella asked. “Someone permanent, I mean.”
+
+“To be honest, we haven't been looking very hard.” Katori said and smiled crookedly. “No one is as delicious as our King.”
+
+“No one can provide any emotion that we want like he can.” Seldanna said. “He's like an endless storage bin that's eternally filled with emotions.” She said. “We merely ask or even imply, and he can give us oceans of them to drown in.”
+
+Stella stood there and looked at the succubi, and didn't know what to say.
+
+“I think that's enough of us talking about how much we adore him.” Seldanna said. “Put on your equipment and come with us.”
+
+Stella quickly put on the things Ren had left for her and she caught her breath when they all took effect.
+
+“Amazing, isn't it?” Seldanna said and led her out of the kitchen. “Such little trinkets and they convey so much power.” She said and took her out the back door to the pig corral and pointed to the smallest pig. “Catch that.”
+
+“Excuse me?”
+
+“It's a basic exercise.” Seldanna said. “It tests your Dexterity, Agility, Endurance, and Strength. So, go ahead and catch the pig.”
+
+Stella sighed and nodded, then tried very hard to do it. The pig went through the obstacle course and Stella tried to follow it. She failed miserably less than 5 minutes later and sat by the house, exhausted.
+
+“You are level 8 and yet you barely did more than a child with the same boosters.” Seldanna said. “It's as if those levels meant nothing.”
+
+Stella gasped as she remembered Ren's letter and looked at the last few popups she had received. She saw that she had 40 normal stat points from leveling up and 100 special stat points to spend because of her succubi abilities.
+
+“Oh, my god.” Stella said.
+
+“What is it?” Seldanna asked.
+
+“I just missed something important that Ren told me.” Stella said and checked her Status again. She had chosen the Cleric class because of it's focus on healing magic, so she dropped 30 points into Intelligence and 30 points into Wisdom, then put 30 into Vitality and 30 into Endurance. She looked over her stats and dropped the remaining 20 points into Luck.
+
+Stella's Health had changed to 193, her Stamina Bar nearly doubled in size, and her Mana was now at 360. “Okay, let's try this again.” She said and stood up. She checked her spells and saw they were all greyed out. Damn, I forgot to prepare them! She thought. All I have available are the two basic cantrips, or automatic spells, from the Deity I chose. She looked at them and their descriptions. Light's pretty useless for this, so I'll go with Sacred Flames.
+
+Stella held her hand out and pointed at the pig. “I call upon the Sacred Flames!” She said as she read the incantation. “Let its Holy Heat burn those that-OW!”
+
+Seldanna slapped the bracer on her arm and knocked her hand away from her target. “What are you doing?!?” She asked angrily. “I said to catch the pig, not kill it!”
+
+“But...”
+
+Seldanna sighed and talked to her like she was a child. “Please, don't act so rashly. Chase the thing and catch it with your bare hands.”
+
+Stella looked at her for a moment, then nodded. “I don't really see the point, but okay.”
+
+Seldanna stood back and watched as Stella once again tried to catch the elusive pig. She was much more successful this time and actually managed to touch the pig twice before she collapsed almost 10 minutes later.
+
+“You're getting better at movement already.” Seldanna said. “Rest for a few minutes and try again.”
+
+Stella nodded and let her Stamina bar refill, then tried again. She really was getting better, because when she stopped, she had gained another point in Endurance and a point each in Dexterity and Agility.
+
+“Good, good!” Seldanna said. “Now store your equipment.”
+
+“Wh-what?”
+
+“It's hindering your progress so store them.” Seldanna said. “I let you wear them so you could get used to the movements and actions you need to do.” She said. “Come on, now. Store them.”
+
+Stella stored everything and felt weak as a kitten. “Wow, what a difference.”
+
+“It is.” Seldanna said. “Now, chase the pig.”
+
+“Not catch?” Stella asked.
+
+Seldanna laughed. “I doubt you'll even see the pig most of the time now.”
+
+“You'll definitely hear it squeal as it laughs.” Ellaria said and the other succubi laughed, too.
+
+Stella sighed and nodded. “Okay, okay. I get it.” She said. “Basic training.”
+
+Seldanna nodded and motioned to the obstacle course.
+
+Stella did her best to follow the pig. She worked hard and gained several stat points in almost everything, then Seldanna called an end to it.
+
+“Time to eat.” Seldanna said.
+
+“I have some basic rations.” Stella said and took one out.
+
+“Not that.” Seldanna said and turned to Ellaria. “You're the best with concealment. Give her something to chew on.”
+
+“Can... can I really?” Ellaria asked.
+
+“As long as you keep it to just kissing.” Seldanna said.
+
+“Yay!” Ellaria said and walked over to Stella, who tensed up. “Relax, this isn't going to hurt at all.”
+
+“What are you going to do?”
+
+“A bit of Glamour.” Ellaria said and put a fingertip on Stella's forehead. “Hmm, okay. Who do you love?” She smiled when the image came to Stella's mind and she saw it. “I've got a solid image.”
+
+“Then let her see her love.” Seldanna said.
+
+Ellaria nodded and cast the spell on herself, and her body glowed slightly and it morphed as it changed into a 6 foot tall version of Ren. Stella stared at her with wide eyes and didn't know what to say.
+
+“It's a reflection of your utmost desire.” Seldanna said. “Now feed.”
+
+“But... but...”
+
+“It's not our King; but, it is his representation from your mind.” Ellaria said in Ren's voice.
+
+“That's kind of creepy.” Stella said and Ellaria Ren stepped close.
+
+“You really want this to happen.” Ellaria Ren said, and Stella couldn't deny that she would absolutely love it if Ren was somehow just a little bit taller than her, and Ellaria Ren smiled and took her into a hug. Stella caught her breath as she looked up slightly at Ren's face, then Ellaria Ren kissed her. Ellaria Ren glowed slightly as their emotions flooded out and Stella let herself enjoy the fantasy for a few seconds.
+
+Stella came back to her senses and broke the kiss. “N-no, I... this isn't what...”
+
+“It was just an example to show you that you can make your own emotional gratification that much better.” Seldanna said. “Ellaria, how do you feel?”
+
+“Like I could float on a cloud!” Ellaria said, and Stella saw that she looked just like the other succubi and not like Ren anymore.
+
+“What... how...”
+
+“It only works until someone decides it doesn't anymore.” Ellaria said. “I won't be able to look like that ever again.”
+
+Stella just stood there and stared at her, and Seldanna laughed.
+
+“We have so much to teach you, but not right now.” Seldanna said. “Go catch the pig.”
+
+“I can't, I'm exhausted.” Stella said, then she realized that she wasn't. “Wait, what happened?”
+
+“You can charge yourself up.” Seldanna said. “With some of Ellaria's energy in you, you'll be faster, stronger, and a little more agile.” She said. “Go ahead and try it out.”
+
+Stella nodded and tried to catch the pig. She was only about half as fast as she was with the boosters; but, that was a significant improvement over not having anything. It wore off quickly, though.
+
+“All right, you can rest.” Seldanna said.
+
+Stella sat down beside the house to rest.
+
+“We have all day to get you into shape.” Seldanna said, which made Stella groan and the succubi laugh.

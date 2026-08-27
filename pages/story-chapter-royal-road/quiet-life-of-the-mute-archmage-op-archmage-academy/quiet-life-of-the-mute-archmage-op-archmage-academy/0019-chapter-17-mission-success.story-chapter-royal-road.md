@@ -1,0 +1,193 @@
+---
+id: 8c1460bb-d620-510d-b0f9-ae6d3b63371c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: Mission Success"
+slug: 0019-chapter-17-mission-success
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 19
+ownLength: 2080
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3474949/chapter-17-mission-success"
+royalRoadId: "3474949"
+---
+
+Molly walked out of the store with an enthusiastic bounce in her step, a small basket clutched in her right hand, filled to the brim with boxes of chocolate she had just purchased from the shop behind her. Her lips curved upward as she surveyed the bustling market square ahead, where merchants called out in lively voices and sunlight spilled across the cobblestones in warm, honeyed pools.
+
+Beside her, she heard a sigh. "You know... you didn't need to buy one for me too, right?" Sebastian said.
+
+Molly turned to face him. He wore an amused expression as he dangled the box of chocolate loosely from his fingers, as if unsure what to do with it.
+
+She tilted her head, and the black orb drifted out from the pocket of her robe.
+
+~ Why not? You said you're a close colleague of Fiona's. It would be wrong of me not to buy anything for you.
+
+Another sigh slipped from his lips as he read the floating words. "If everyone could see the world that way, we might all be at peace with one another." He let his gaze sweep over the vibrant stalls that lined the market street in neat, orderly rows. The voices of sellers boomed across the crowd, each cry competing to lure in the next customer.
+
+A frown soon settled on his face when he noticed something peculiar.
+
+"Isn't this the street where we started?" he muttered, glancing at one small shop painted in a brownish-gold hue.
+
+He turned his attention back to her. "And isn't that the very store where I met you?"
+
+Molly gave a brief nod. The orb shimmered, projecting her thoughts:
+
+~ It is. We're going to use a short cut at the end of this street that leads toward the bakery.
+
+A bright expression lit her features.
+
+~ And I still have one more errand to run.
+
+Sebastian's confused look gradually melted away. "Is that so?" A knowing glint entered his eyes, and the corner of his mouth barely lifted as he watched Molly nod with enthusiasm.
+
+"Alright then," he said, shifting his gaze back to the lively street. "Lead the way."
+
+Molly took a short, skipping stride as she quickened her pace, guiding Sebastian forward while secretly, eagerly awaiting Eric's reply. Her eyes darted toward the small shop painted in that familiar brownish-gold. Her expression softened when she spotted Eric standing at the entrance of the stall, glancing around with nervous energy, already waiting for her.
+
+The moment Eric noticed Molly, his tense posture eased. He raised his hand, preparing to offer a short wave and the signal they had agreed upon, but he paused when he saw Molly excuse herself and walk briskly toward him, the little basket of chocolates swinging gently at her side.
+
+Eric watched as Molly stopped directly in front of him, plucked a box of chocolate from the basket she carried, and extended it toward him with a warm and open expression.
+
+He stared at her outstretched hand for a long moment. His gaze lifted to the black orb as it wove a sentence together.
+
+~ Another gift. Please don't reject it.
+
+A gentle warmth spread across his features. He accepted the chocolate with care. "Thanks," he said. Then, with a calm and deliberate motion, he dipped his hand into his own pocket and produced a small box brimming with radenite seeds.
+
+He offered it to her. "I was planning on giving it to you later, but now that you're here." He motioned. "Please don't reject it."
+
+Molly gazed at his hand, her lips pursing in thought as she wondered whether the Jigeens could finish both boxes. In the end, she accepted the gift with a short bow of thanks, which Eric immediately waved off with a dismissive gesture.
+
+Then, as if suddenly remembering something important, his expression brightened. A lopsided smirk tugged at his mouth, and he gave Molly a firm thumbs up. "Take care," he said.
+
+A brilliant grin spread across Molly's face. The signal was clear. The mission had succeeded.
+
+Fiona truly did know Sebastian.
+
+With a swift nod, Molly bade Eric farewell and walked back toward where Sebastian waited. The two of them resumed their path through the crowded streets, falling into step beside one another as the noise of the market hummed around them.
+
+*****
+
+Molly's steps slowed to a halt when she reached a particular spot in the market square. Her crimson eyes settled on a store that stood neatly apart from the others, its structure larger than any she and Sebastian had passed along the way.
+
+"So this is it?" Sebastian asked from beside her. Molly turned to look at him and gave a short nod. The black orb floating above her shoulder dissolved and reformed, weaving her words into view:
+
+~ This is the bakery where you'll be able to find Fiona.
+
+Sebastian gave a brief nod in return, his gaze shifting back to the store. "Eoma's Bakery." A small, upward curl tugged at his lips as he read the sign hanging above the entrance.
+
+"I really did take a wrong turn back there," he murmured to himself.
+
+After a moment, he glanced at Molly and inclined his head toward the shop. "Shall we get going, then?"
+
+Molly shook her head.
+
+A slight crease appeared on Sebastian's brow. "Why not?"
+
+The particles dissolved and shaped her reply:
+
+~ You're free to go. But I'll have to stay here. I still have one last errand to run.
+
+A bright expression surfaced on her face.
+
+~ And it's one of my favorites.
+
+Sebastian considered this for a moment, the frown on his face receding into curiosity. A sigh escaped his lips as he stepped back. "Alright then."
+
+Now it was Molly's turn to frown.
+
+~ You're not going?
+
+Sebastian's mouth quirked with silent laughter. "I've been with you through all your errands," he said. "Why would I miss this one? Not to mention it being the last."
+
+He drew in a deep breath. A sweet scent of honeyed wheat drifted into his nose, and his eyes wandered toward the bakery once more. "Besides, if Eoma's bread carries aromas this alluring, I might just buy every loaf in there if I don't control myself."
+
+Molly stared at him for a moment, and soon she mirrored his expression. With a breath of her own, she lifted her eyes to the magical sun that washed over them in a warm, golden glow. Her expression softened as she watched the puffy clouds drift across the gentle blues of the sky.
+
+She raised her free hand to her mouth and blew.
+
+A clear, whistling note rang through the air.
+
+A beat of silence swept past.
+
+Sebastian's expression perked up as he caught the sound of distant flapping. He lifted his gaze skyward, and a lopsided grin flashed across his face. He gave a short laugh under his breath. "Jigeens."
+
+He watched the birds descend. They resembled something white, yet at the same time their bodies appeared almost glossy, as if sculpted from glass, and they carried a faint luminescence like the first pale light of dawn. Their three eyes blinked in unison as they spiraled down from the heavens.
+
+Molly glanced at Sebastian, whose lips twitched as he fought to keep his widening grin at bay.
+
+Her attention shifted to the Jigeens as they danced around her. She giggled while they weaved through the air, their wings beating softly as they brushed their sleek bodies against her robe. As they fluttered and swooped, she began counting them and noticed there seemed to be more Jigeens than she normally fed. Her eyes tallied each one as they settled onto the cobblestone path, patient and waiting for their treats.
+
+Seven. She calculated. Her gaze warmed. It seemed the five Jigeens had invited other family members along.
+
+"Ah..."
+
+Her thoughts were briefly interrupted by Sebastian. She glanced up to where he stood and nearly giggled aloud at the sight before her.
+
+Sebastian wore a wry smile as three Jigeens perched comfortably on his body. One sat atop his silky blond hair, while the remaining two occupied each of his shoulders. "I didn't know that Jigeens here were this friendly," he remarked as the bird on his head poked at his hair, treating it like some strange, unfamiliar nest.
+
+Molly's giggle grew stronger, but she paused when she recalculated the Jigeens present.
+
+There were actually ten of them now, far more than the usual five she fed.
+
+Her expression warmed further. It was a good thing she had accepted Eric's gift.
+
+With that settled, she walked a step forward, stretched out the hand that held the small basket of chocolates. The black orb dissolved into a sentence.
+
+~ Can you hold this for a moment, please?
+
+Sebastian gave a short nod after reading the words. "Sure." He accepted the basket from her hand, and the three Jigeens on his body fluttered down the moment they noticed Molly producing two boxes. She opened one of them, revealing glossy, ruby-red seeds nestled inside.
+
+Molly watched as the ten Jigeens settled fully, each of their three eyes blinking up at her with interest and warmth.
+
+A cat-like curve of satisfaction graced her lips as she began feeding the waiting birds.
+
+With happy chirps and tweets, the ten of them pecked eagerly at the glossy seeds Molly kindly offered. They ate until the first box lay empty.
+
+She wasted no time. She opened the second box and offered everything inside to the Jigeens until not a single seed remained.
+
+When they had finished, Molly gave each bird a warm pat on the head. They twittered beneath her gentle touch. Then, one by one, the Jigeens lifted off into the sky, circling happily around her and the waiting Sebastian one last time, bidding them farewell.
+
+For yet another time.
+
+Molly and Sebastian stared upward, watching the Jigeens chirp merrily, their bellies full as they flew away. A soft expression spread across both their faces as they observed in comfortable silence.
+
+It was Sebastian who broke the quiet. "Who would have thought that these Jigeens, who usually live in hiding back in their former home of Desjut, would reveal themselves like this?" He glanced at Molly, his expression turning amused. "I wonder what made them change."
+
+Molly's expression brightened as the black orb shaped her thoughts.
+
+~ I think it's love.
+
+She shifted her gaze upward, her pale white hair fluttering silently as the wind brushed through. A wistful smile played on her lips.
+
+~ Love from a kind person.
+
+******
+
+Molly and Sebastian stood at the entrance of Eoma's Bakery. Without much thought, she pushed open the door, and the two of them stepped inside.
+
+As always, Molly's eyes first landed on the picture that hung along the entrance passageway. A flicker of sadness crossed her face as she gazed at it for a lingering moment.
+
+Then a tender curve appeared on her lips as she studied the happy family in the photograph. Her attention drifted most especially to one figure who stood apart from the rest, at least in her eyes.
+
+"It seems you have a fondness for ancient history," she heard Sebastian say. She shifted her gaze to him as he spoke. "Or do you have a special liking for one of them in the picture?"
+
+Molly stared at him for a moment, the question ringing in her mind like a whispered secret. Her eyes wandered back to the photograph, silently watching as the elder sister ruffled the younger brother's hair.
+
+A chuckle escaped her lips as she turned to Sebastian. The black orb projected her thoughts:
+
+~ Yes... I do.
+
+Reading her admission, Sebastian's expression warmed. He gave a quiet, respectful nod.
+
+After Molly silently bade the picture a see-you-next-time, they walked through the passageway, passing more photographs of the generations who had inherited this bakery.
+
+Upon stepping into the main area, Molly's crimson eyes found the counter immediately. A young woman in her early twenties stood behind it, shooting a pointed look at her younger brother, who wore a triumphant grin as though he had just won a grand lottery.
+
+Molly's expression softened when she noticed the familiar sibling banter between Fiona and Ren.
+
+Her features gentled even more when she glimpsed Jasmine walking out of the bread storage room.
+
+A sense of triumph swelled inside her chest as she remembered everything she had done before arriving here.
+
+Mission Success.

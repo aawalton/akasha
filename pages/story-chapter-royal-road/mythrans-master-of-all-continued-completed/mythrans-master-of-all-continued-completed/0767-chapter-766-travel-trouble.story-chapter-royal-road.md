@@ -1,0 +1,273 @@
+---
+id: 98301901-d2ae-5661-a942-c2d6ed7c30ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 766 - Travel Trouble"
+slug: 0767-chapter-766-travel-trouble
+partOf: mythrans-master-of-all-continued-completed
+position: 767
+ownLength: 2823
+unit: words
+publishedAt: 2018-11-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/308017/chapter-766-travel-trouble"
+royalRoadId: "308017"
+---
+
+Rather than use up the remaining time they had, they all agreed to end their time there so that their morning almost matched the one happening outside the tower.
+
+“We only hoped to stay long enough so that Dilseffa could get a turn grooming you, anyway.” Yuwen said when Ren deactivated the Vasalor Statue. Ren chuckled and stored the statue and equipped his sash and shorts combo to leave himself completely exposed, just like the highest rank fighters did. Artemis equipped a bright blue dress that highlighted her red hair nicely and kept her Full Illusion normal color skin to hide her metal body.
+
+The three Pervarian women equipped their outfits for the day as well. Since they were still technically members of the caravan, Yuwen and Dilseffa equipped their thin bodysuits and their long and white arm-less tunics. Tiyaphi on the other hand, equipped her medical professional uniform so everyone would know she was available if she was needed. They quickly went down the stairs and when they reached the front door, Ren stopped and looked at them.
+
+“Can you equip your adornments and not violate your dress code?” Ren asked them.
+
+“Yes.” Yuwen said and equipped hers. “You designed the items well.”
+
+You could see the bracelets, tiara-like crown, and the rings, since they were in plain sight; but, the necklace and anklets were well hidden.
+
+“Good. Because you are to wear them at all times outside of where we sleep, whether I am here or not.”
+
+“Is that really necessary?” Dilseffa asked.
+
+“Yes, because you are representing me now.” Ren said. “I will not be known as someone who doesn't fulfill his obligations, and since you pledged to help me earn Respect...”
+
+“We won't cause anyone to disrespect you.” Yuwen said.
+
+“I'm not worried about you causing it. I'm worried you will become targets to make me lose Respect.” Ren said. “If anyone challenges you...”
+
+“We will... refuse... if you wish.” Yuwen said, and he felt her aversion to do that.
+
+“You'll do nothing of the sort.” Ren smiled and touched her cheek. “You will accept all challenges. However, if you believe you can't handle the opponent, you can defer to me as a substitute.”
+
+The three women froze at his declaration.
+
+“R-Ren, you... you can't be serious.” Yuwen said. “We can't possibly accept all challenges.”
+
+“Why not?”
+
+“I...” Yuwen looked at Dilseffa and felt her resolve to do it. “I will do as you say.”
+
+“Excellent.” Ren said and opened the front door. “After you, My Mistresses.”
+
+The attendant that had been staring at the tower saw the door open. “He's coming.” The man said and felt Ren's Aura cover him. He felt slightly better than he had only a moment before, and took a deep breath.
+
+“Just because you submitted doesn't mean you have to follow him everywhere.” One of the cooks said.
+
+“No, but... I want to.” The man said and walked over to Ren and the 4 women that had come out of the tower. “My King, how did you sleep?”
+
+“Surprisingly well, considering what I was very privileged to wake up to.” Ren said.
+
+The man's mouth dropped open in surprise and Yuwen, Dilseffa, Tiyaphi and Artemis laughed at his shock. “You... they...”
+
+“They did very well, considering I'm not a member of a beast race.” Ren said. “If they didn't change so fast, I'd gladly groom them completely in return.”
+
+Everyone in the whole caravan that sat nearby, stopped eating at that statement.
+
+“Why is everyone surprised?” Ren asked. “I don't have a tongue suitable to lick fur.”
+
+“I think it's because you'd groom them at all, not that you can't.” Teepo said.
+
+“Oh.” Ren said and looked around. “I Respect them enough to lick them where I can, and I have.”
+
+Complete silence greeted this proclamation, and Ren felt a hand on his shoulder.
+
+“You can stop shocking them now.” Artemis said, and he laughed.
+
+“Not yet.” Ren said and deactivated the new tower and stored the cube without touching it, then looked at the supplies for the first carriage and stored them as well, then put the supplies into the storage crate on the carriage. The carriage's attendant hadn't closed his mouth after the first shock, then he saw his job was done in only a second.
+
+“My... My King.” He said, and sighed. “Am I to be completely useless?”
+
+“Of course not.” Ren said. “I need to leave once the caravan is on its way and I just sped up our departure.”
+
+“Then... how will... what about...”
+
+“I am always connected to my Mistresses.” Ren said and concentrated on the dire wolf emblem on his hand. It glowed, as did the emblems on the three women's chests, and you could see it faintly through their clothes. “I can return to them at any time. If I feel they are in danger, or in distress, or need me urgently, I will feel it and will come to their aid.”
+
+“Is that true?” Someone asked.
+
+“It has to be. He didn't lie.” Someone else said.
+
+“His Mistresses didn't know.” One of the delegates whispered.
+
+“That's because I wanted you all to find out at the same time.” Ren said. “I didn't want everyone to feel how much my Mistresses enjoy the thought of having their Inamorato at their beck and call.” He turned around and looked at the three women. “I thought about telling you before; but, I didn't want you to be comfortable enough with the idea that you might become smug about it.”
+
+“You are looking after us before we can look after ourselves?” Tiyaphi asked.
+
+“If I can, I will try to.” Ren said and everyone felt his resolve. “I should pack the rest of the carriages, too.”
+
+Ren then did the same thing with each carriage that he did to the first one. He stored each set of supplies and put it into the storage crate on each carriage, which did all of the attendant's jobs in seconds.
+
+“Have you fed the giant boar yet?” Ren asked the attendant for the first carriage.
+
+“Yes. First thing this morning.” The man said.
+
+“Then give it this the next time the caravan stops.” Ren said and took out the very large bowl of food scraps he had saved from the food fight.
+
+“Th-thank you, My King.” The attendant said.
+
+“Don't save it and eat it yourself.” Ren warned him when he felt the man's need to eat the food. “Most of it was on the floor and my friends and I stepped on a lot of it.”
+
+“That was such a fun fight!” Teepo exclaimed and chittered in laughter.
+
+“It sure was.” Ren smiled and motioned to the carriage. “If you would honor me, please join me in our conveyance.” He said to his Mistresses. They gave him a slight bow, so Ren took Artemis' hand and walked over to the carriage with the three women slightly behind them. He helped Artemis climb inside and did the same for the three Mistresses, then climbed in himself.
+
+“Wow.” Tiyaphi said as she felt everyone's emotions through Ren. “It's because you're here that I can still feel them, isn't it?”
+
+Ren nodded slightly and sat down. “I'm holding our connection open so you can feel everyone's reactions.”
+
+“I didn't know anyone could do that.” Tiyaphi said and sat beside him
+
+“I don't have your Auras, so we can't merge them and share completely.” Ren said, and felt their reactions.
+
+“What... what do you mean by share completely?” Yuwen asked and sat on the floor between his legs.
+
+“If we had the same Aura, and we both are concentrating on them, our Auras will merge and we can feel each other's feelings.”
+
+“We can already do that.” Yuwen said. “I can feel your emotions just fine.”
+
+“Yes, you can.” Ren said and smiled. “What you can't feel is me feeling your emotions.”
+
+“You... you... you're serious.” Dilseffa said and sat beside him. “I thought... only other Emotion Siphons...”
+
+“Oh, it's even better if you both have that ability.” Ren said and thought about the emotional exchange he had with Tiatha, the Queen of the Dark Elves attendant and healer, the last time they had done it. The three Pervarian women stopped breathing as they felt the emotions he was pushing out for them to feel.
+
+“R-Ren... s-s-stop.” Yuwen managed to say as she fought not to change.
+
+“Oops.” Ren said and stopped sharing, then used his Emotion Siphon ability to take some of the emotions he had inadvertently raised in all three women, and they calmed down.
+
+“I want to feel that.” Dilseffa said and put her hand over her heart. “Not the echo you just made. I mean the real thing.”
+
+“I'll see what I can do.” Ren said, and he felt everyone moving around outside and used his Heat Sense to 'look' around and saw them all climbing into the carriages. The attendants and drivers attached the giant boars back to the carriages, then they climbed aboard as well.
+
+“Here we go.” Teepo said and the carriage slowly pulled out of the rest stop and formed a line with the other carriages behind them, then the giant boars ran full-out.
+
+*
+
+“He... he...” Rimsoh made a fist with his hands and tried to remain calm. He and Dilseffa had broken up the night before and he had no right to be angry; but, his feelings weren't being logical at the moment.
+
+“My friend, there's not much you can do about it.” Mires said, and he felt a similar anger about Yuwen being touched by another man. “You know what he can do.”
+
+Rimsoh took a deep breath and let it out. “Yes, I know.”
+
+“You're also a part of his domain.”
+
+“So are you.”
+
+“Yes, I am; but, I don't want to kill him like you do.”
+
+“How can you say that with how you're feeling right now?” Rimsoh asked, then he started gathering Mana.
+
+“Hey, don't.” Mires said. “Don't do it.”
+
+“Do what?” Rimsoh asked with a smile.
+
+“Whatever it is you're trying to cast covertly.” Mires said.
+
+“You can feel it because you're right beside me.” Rimsoh said. “He'll never know what hit him.”
+
+“It won't hurt him!” Mires exclaimed. “He has Toughness 10!”
+
+“I'm not trying to hurt him.” Rimsoh said. “I'm trying to teach him a lesson.”
+
+*
+
+“Ren.” Teepo said in the voice only Ren could hear. “Rimsoh said he's going to teach you a lesson.”
+
+Ren smiled. Shall we change things up for him, then?
+
+“Oh, that's sneaky.” Teepo chittered in laughter. “Do it.”
+
+I can feel something gathering under the carriage. Ren said and concentrated on it. It almost feels complete, whatever it is.
+
+Ren took out the Vasalor Statue and activated it as he stood up. “Ladies, please come with me.”
+
+“What? Where?” Yuwen asked.
+
+Ren checked the All-Seeing Mirror and cast a portal to Rimsoh's carriage, then cast a Sleep spell on the occupants. “We're switching carriages.”
+
+The women didn't question him further and stepped through the portal, then froze as they left the statue's area of effect. Ren stepped through and they unfroze, not knowing they had frozen, since it had been instantaneous.
+
+“Rimsoh!” Dilseffa exclaimed as she saw his glowing fists. “What are you doing?”
+
+“He can't hear you.” Ren said and picked Rimsoh up by the collar. As Ren tossed him through the portal, he dismissed the Sleep spell. Ren picked Mires up and Yuwen touched his arm.
+
+“Why him?”
+
+“He's not trying to stop his friend from making the second worst mistake of his life by attacking the guest of the caravan.”
+
+Yuwen nodded slightly. Ren tossed Mires through the portal as well and dismissed his sleep spell and the portal.
+
+“What do you think he cast?” Dilseffa asked, despite not wanting to know the answer, and her voice and emotions were full of worry.
+
+“No idea.” Ren said and everyone sat down. “Let's find out.” He took out the All-Seeing Mirror and asked it to show the underside of the carriage. “It's not very big.” He said and enlarged the mirror to 3 times its normal size so everyone could see it. “Please show me a split screen of the underside of the carriage and the inside.”
+
+Both scenes appeared and the Pervarians thought it was so odd to see the two men suspended in mid-air like they were. Ren deactivated the Vasalor Statue and everything started moving again.
+
+*
+
+“Ugh!” Rimsoh grunted as he fell to the floor and Mires landed on top of him. “What... what happened?”
+
+“How would I... hey, this isn't our carriage.” Mires said as he saw the slightly torn seat that Yuwen had chewed up.
+
+“What?” Rimsoh looked at the seat. “Oh, cra-”
+
+*BOOOOOM!*
+
+*
+
+The small Penetration spell exploded and destroyed part of the floor, then Rimsoh and Mires fell through the hole.
+
+“NOOO!” Dilseffa screamed.
+
+Ren activated the Vasalor statue, then cast a Portal spell on the road right under the carriage the two men fell from and on the ceiling of the carriage he was now in. He took a step up into the air and reached up through the portal, then grabbed both men and pulled. Rimsoh and Mires fell out of the portal and landed on the floor.
+
+“AHHH!” Rimsoh and Mires yelled hysterically for several moments, then realized that they weren't being run over by the giant boars and the carriages in the caravan.
+
+“What... where...” Rimsoh lifted his head and saw all the accusing stares being hurled at him. “It was just a joke.”
+
+“You BLEW UP a carriage in the caravan!” Dilseffa exclaimed and fought her urge to beat the hell out of him. “With the caravan's GUEST IN IT!”
+
+“He wouldn't have been hurt.” Rimsoh said in his defense.
+
+“You just wanted to teach me a lesson, right?” Ren asked, and he nodded. “A lesson to survive a loss, right?”
+
+“What?” Rimsoh looked at him in confusion. “I just wanted you to be run over and trampled.”
+
+Ren shook his head. “Your murdering tendencies are too much for you to be safe around other people.”
+
+“It's not murder if you know it won't kill.”
+
+“There were other people in the carriage, you fool!” Dilseffa said and stopped fighting her urge to punch him and made a fist. Rimsoh smiled at her, and she hauled off and punched him as hard as she could in the face. His head whipped to the side from the force of the blow and several of his teeth were knocked out and fell to the floor.
+
+“Ow!” Rimsoh held a hand to his mouth. “I only targeted him! Only he would have fallen through the hole!”
+
+“That might have been true if I had been sitting there alone.” Ren said and looked at Mires. “Yuwen was sitting on the floor between my legs. She would have fallen first.”
+
+All the color drained from Mires' face and he looked at Yuwen, who nodded slightly.
+
+“N-no.” Mires said, and they felt his horror at Yuwen dying. “No.”
+
+“Oh, yes. Your murdering friend's killing prank would have killed the woman you love.” Ren spat at him. “How does that make you feel? Horrible, right?”
+
+“Y-yes.” Mires said.
+
+“You were fine if it was just me, though.” Ren said. “You are a more despicable person than that idiot.” He said and pointed at Rimsoh. “For evil to prevail, all a good man has to do, is nothing.”
+
+“Hey, I'm not...” Rimsoh started to say and felt a hand on his shoulder.
+
+“Right now, you've only lost a couple of teeth.” Tiyaphi said. “You better shut up or I'll ask Dilseffa to punch you again.”
+
+“You have no right to...”
+
+“Dilseffa.” Tiyaphi said, and Dilseffa punched him again and knocked out two more teeth with an accompanying spray of blood. “Her job is the security and safety of everyone in King Ren's Dynasty, and you tried to murder us.”
+
+“N-no, just...”
+
+“We were cuddling him, you idiot!” Tiyaphi said and shook him by the shoulder. “If he fell, we were all going to!”
+
+Rimsoh shook his head and refused to accept it.
+
+“The carriage looks intact, even with that much damage.” Ren said as he looked at the mirror again. “I wonder what Tatya is going to say about this.”
+
+“We... would have... stopped by now.” Rimsoh managed to say without mumbling or slurring his words. That was quite a feat, considering he was missing five of his teeth.
+
+Ren smiled as he deactivated and stored the Vasalor Statue, then the sound and results of the explosion reached the rest of the caravan as the giant boars ran over the shredded metal pieces of the first carriage's floor in less than a second. Everyone felt a wave of something pass over them, then the caravan immediately slowed down and came to a stop.

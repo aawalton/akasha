@@ -1,0 +1,209 @@
+---
+id: 43c0c326-2dc9-5cab-87c4-a998e568d768
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: The Greatest Sage "
+slug: 0010-chapter-10-the-greatest-sage
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 10
+ownLength: 2708
+unit: words
+publishedAt: 2026-05-16
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3402548/chapter-10-the-greatest-sage"
+royalRoadId: "3402548"
+---
+
+Night slowly descended over Sigsug, stretching endlessly across a vast, unbroken canvas of deep indigo. The full moon hung low and luminous, its magical silver glow casting soft, shifting shadows over the land. The sky seemed to hum with a quiet magic, the stars twinkling like whispers of something still… something grey.
+
+Something, something sad.
+
+Inside the simple cottage at the top of the hill, in the dining area, two figures sat on opposite sides of the table. One was a woman who appeared to be in her mid-forties or early fifties, her features carrying the weight of years that numbers alone couldn’t capture. Her hair was a stark, luminous white, like that of someone who had lived far longer than any ordinary lifetime. Her lush blue eyes held warmth, though beneath it lingered a deep, quiet sadness as she watched the figure across from her.
+
+The second was a young girl, no older than thirteen, with deep crimson eyes that had lost every trace of the liveliness they once held. Her pale white hair tumbled past her shoulders in rough waves, catching the lamplight that illuminated the dining room like a sea of spilled snow.
+
+Molly’s hand trembled as she held her spoon. Her swollen, dull eyes stared distantly at the meal before her, which once would have been tempting but now felt more like poison than nourishment. She gazed at the neatly sliced portion of lion fish, soaked in an alluring soup made of chopped red lettuce and blue snow pepper, with a handful of red potatoes cut into small, tender pieces that filled the bowl.
+
+Jen watched Molly in silence, her expression saddening further as the dining room sank into a deathly stillness. Neither of them had eaten. Even the heart-shaped bread at the center of the table sat untouched, as if it had never existed at all.
+
+Jen released a soft, tired, mournful sigh, though she tried to mask it as one of acceptance. Her gaze drifted to her own plate, already nearly cold. A small smile tugged at her lips when she noticed that despite the news she had delivered earlier today, Molly had still prepared their dinner with care. Her smile warmed. She needed to at least taste the young girl’s efforts.
+
+Without further hesitation, Jen reached for her spoon, scooped a generous amount of the broth along with a slice of fish, and took a bite.
+
+The moment the food touched her tongue, an involuntary sound of satisfaction escaped her as she chewed slowly. “Hmmm…” The texture of the lion fish was firm and slightly spongy, almost like a tender, sweet rubber—reminiscent of white fish but richer. The soup blended seamlessly with the fish’s delicate yet powerful sweetness.
+
+“This soup is wonderful. I love how gentle it feels in my mouth,” she said calmly, her voice low as she scooped another spoonful, this time adding some of the chopped red potatoes. The sweetness of the mixture filled her senses. The red potatoes melted smoothly into the rest of the ingredients.
+
+Jen ate steadily, not stopping. She scooped and scooped and scooped, each time a quiet sound of pleasure escaping her as she savored the rose porridge. She ate as though there would be no tomorrow.
+
+Which, in truth, there wouldn’t be.
+
+She halted mid-bite when she noticed there was nothing left on the plate. Her left hand drifted to her cheek, finding it wet with tears she hadn’t realized she’d shed.
+
+A breathless, silent laugh slipped from her lips. “Look at me. I didn’t leave any soup for the bread.”
+
+Her gaze shifted to Molly, and the sadness in her eyes deepened. The young girl had been watching her all along, her swollen eyes already brimming again, fresh tears streaming down her face. Weak sobs escaped her as she tried desperately to suppress her cries.
+
+“Molly…” Jen’s voice trailed off, her expression crumbling as she watched Molly wipe at her eyes while still sobbing.
+
+Jen’s heart clenched. Without thinking, she rose from her seat and crossed to the young girl, who was trembling with the effort of holding herself together. Jen knelt slightly and wrapped her arms around Molly in a warm, steady embrace. “Shhhh…” she whispered. “It’s alright, Molly. Please don’t make this harder for me too.”
+
+Molly’s arms tightened around Jen’s frame as if letting go would make her vanish on the spot. The dam finally broke, her cries spilling freely into the quiet room.
+
+A tender smile graced Jen’s lips as she gently patted Molly’s back, doing her best to soothe the girl she had come to love more than life itself.
+
+After a long moment, Jen pulled back, her slender hand rising to wipe the tears from Molly’s face. A small, gentle smile remained. “Why don’t you finish your dinner before we go outside?”
+
+Molly sniffled and gave a short nod.
+
+Jen’s smile warmed. “Alright.”
+
+She returned to her seat, and together they prepared to share their last meal.
+
+*****
+
+The wind swept through the wide meadow of green and vanilla-scented grass, the blades bowing gently in the cool night air.
+
+Molly sat upon the smooth grass nearby, her dull eyes lifted toward the deep indigo sky where the full moon hung low and luminous, as if waiting for what was to come. She watched its magical silver glow cast soft, shifting shadows over the land. Eventually, her gaze drifted ahead to where Jen sat atop a large rock, staring beyond the hill, out toward the village.
+
+Staring at Sigsug.
+
+A deep sigh escaped Jen, and Molly straightened instinctively.
+
+“You know, Molly…” Jen began, her voice carrying on the breeze. “People like us, who are far more powerful than our peers, have a great burden to bear.”
+
+She slowly shifted, turning away from the view of Sigsug and letting her gaze settle on Molly. A small smile touched her lips. “If not for mine, there is nothing that would have made me choose to embrace the hands of death.”
+
+The wind swept through the meadow with a quiet hush. Molly watched as Jen lifted her gaze skyward, her eyes growing distant as she stared into the indigo expanse, at the moon that hung like a silent witness.
+
+Jen continued, her voice softer now. “I would have loved to see you grow up, had it not been for this burden.” A warm, wistful smile graced her lips. “I would have loved to watch you go to school, make friends, get married, live a full life… and most especially…”
+
+Her smile grew warmer. “…I would have loved to watch you live a happy life.”
+
+Molly felt her face grow wet again. She sniffled silently, fighting with everything she had not to cry, not to make this harder for Jen. But in the end, the tears came anyway.
+
+Jen’s warm smile turned sorrowful as she opened her mouth to speak once more. “Now that it has come to this…” Her expression slowly hardened into something serious. “I think it’s time to tell you the whole truth about my burden.”
+
+Molly’s breath hitched as she felt a sudden shift in the air. The symbols that had been drifting lazily around the meadow began to swirl violently, gathering around Jen as though paying homage to a sacred being.
+
+Homage to a god.
+
+Golden light flared, taking the shape of divine chains. They appeared around Jen’s form, wrapping around her like bindings meant to restrain a being capable of ending the world with a blink.
+
+Molly instinctively lurched to her feet, ready to rush forward, to help however she could—but she froze when Jen shook her head slowly.
+
+Jen smiled warmly, seeing that Molly had stopped just as commanded. Her gaze dropped to the golden shackles that encased her body like a seal, their chains stretching upward until they vanished into the sky.
+
+Slowly, she moved her right hand, still bound by the radiant links. The sky darkened. The world shuddered with the motion.
+
+“I hear the calling of ascension,” she began, her voice a whisper. “Yet I choose to ignore it. The chains of the higher realms wrap around me in fear.”
+
+An amused smile curved her lips. “The gods are afraid of what I might become, the first human to ascend into godhood.”
+
+“A god with no limits.”
+
+Then, like an illusion dissolving, the golden chains vanished. The sky returned to its tranquil indigo. The symbols floating in the air resumed their lazy drift.
+
+Molly released a shaky exhale she hadn’t realized she’d been holding, her mind reeling with relief as she saw that Jen was still there, still whole.
+
+She watched as Jen’s lush blue eyes found hers, a warm smile returning to her lips. “You see, Molly,” she said. “I could break the chains that bind me with ease.” She gestured with both hands toward the heavens. “I could set myself free and move on with my life, or choose to ascend.” She paused. “But if I do…”
+
+Her hands fell back to her sides, and her warm smile thinned, replaced by a sad one. “This world. This womb of creation. The very life I long to cherish…”
+
+“Ends with my choice, no matter which path I take.” A deep sigh escaped her as she stared at her slender hands. “All because this world cannot contain the existence of my affinity.”
+
+She exhaled again, pressing forward without dwelling on the feeling. “After learning from Death that even if I never freed myself from these shackles, the world would still be destroyed by my continued growth despite the seals I placed on myself…”
+
+A small smile touched her lips. “I decided to fake my death a hundred years ago, living in hiding until only a few years remained before my time here expired.” Her gaze drifted back to the sky, an expression of quiet acceptance settling over her features. “When only five years were left, I resolved to return to my hometown and finally rest. But on my way back…”
+
+A warm smile bloomed on her face. “I met the most precious thing that has ever happened to me since the day I watched everyone I loved age with time.”
+
+Her gaze landed on Molly, who still couldn’t stop the tears from spilling down her cheeks, as though she held an infinite reserve of them.
+
+Jen’s smile brightened as she looked at the girl. “And that was you, Molly.”
+
+A strange, aching feeling settled in Molly’s chest. She sniffled, hiccuping as she cried.
+
+Jen’s next words felt like the shifting of the wind before a storm. “Ever since the day you came into my life, I have never had a moment when I felt regret.”
+
+A flicker of movement caught Molly’s eye. The symbols scattered throughout the meadow began to gather, their soft, ethereal glow pulsing like the steady rhythm of a heartbeat. They danced through the air, their lights weaving together like threads of a celestial tapestry.
+
+Jen’s body began to glow. Not with a soft radiance—but with something deeper. Something brighter.
+
+Like the descent of the moon.
+
+Molly’s breath caught. She knew what was happening. Her heart clenched even though she had known this was coming.
+
+She sprinted forward, running toward where Jen sat. But it was as though the distance itself stretched endlessly, though she could see Jen clearly, she couldn’t reach her.
+
+“Aseo… wau…” Molly fumbled over the words, trying her hardest to speak, despite being mute. She watched Jen’s body glow brighter, and she desperately, desperately wanted to say something. Anything.
+
+“I never again regretted not being able to bear a child for my husband, because of my affinity,” Jen continued, her voice now something distant and pure. “I never again regretted choosing to live this long to protect the world.”
+
+Jen’s ethereal form, her very being—began dissolving piece by piece, slowly, into white motes of symbols that drifted upward as she spoke. “And I never again regretted having waited so long in hiding.”
+
+A warm smile bloomed on Jen’s dissolving features. “Because that patience made my wonderful husband’s final wish come true.”
+
+Molly stumbled as the distance suddenly snapped back into place, but before she could fall, Jen caught her in a gentle embrace. “And now, Molly… these are my final wishes for you.”
+
+Molly wrapped her arms around Jen’s fading form, sobbing weakly as she listened.
+
+“Hide. There are many who will seek your downfall because of the future that awaits you. Keep your potential and your affinity a secret from anyone you don’t trust.”
+
+She gently patted Molly’s back. “Enroll in the academy I’ve written about in my diary.” A warm smile touched her lips. “I’ve prepared everything for you already. The letters I’ve been sending were to a family I trust, one who will ensure you enter the academy without anyone discovering what you truly possess.”
+
+Jen’s arms tightened around Molly once more. “Find a party.” An amused smile played on her lips as her ethereal, lush blue eyes grew distant. “You know… when I became a hero, I usually accomplished my tasks alone, because everyone around me seemed weak.” She laughed lightly. “But I later regretted not having a group I could truly talk to.”
+
+Her hold around Molly’s small frame tightened further, a deep, shuddering sigh escaping her as she felt how little time remained. “And now, finally… my last and most important wish of all.” She paused, letting the words settle like a weight into still water.
+
+“Molly… please. Do not end up alone again. Just remember, even after my death, you are never going to be alone.”
+
+Molly felt Jen’s hand gently lift her chin. Slender fingers wiped at the tears still streaming down her face. A warm smile graced Jen’s lips.
+
+“You have a family to return to.”
+
+“A big one.”
+
+The glow around Jen intensified, and the motes of symbols began floating upward faster. Molly’s breath hitched as she watched Jen’s figure dissolve more rapidly. Her breathing turned ragged. A groan, almost a scream, tore from her throat as she shook her head, already knowing this was it. Her heart pounded wildly as she fumbled over words, knowing fully well she could not speak, yet desperate to try anyway. She wanted to say something, anything, without the aid of the artifact Jen had crafted for her.
+
+“Aaah!” Molly screamed, clutching at Jen’s dissolving form, pressing her head against what remained of her.
+
+Molly’s expression crumpled into something raw and broken as she felt the weight of Jen fading away.
+
+Unbidden, she screamed—
+
+“O-ve yu.”
+
+Jen’s dissolving form stilled for just a moment. The fading halted halfway.
+
+And then Molly felt it.
+
+A warm kiss pressed to her hair, and the faint, tender warmth of tears falling onto her head.
+
+Jen was crying.
+
+“I love you too, my dear Molly.”
+
+The glow around Jen flared once more, brilliant and blinding, as she concluded, “This is my final farewell.”
+
+“My lovely daughter…”
+
+Her voice faded, and Molly caught one last whisper, laced with quiet regret.
+
+“If only I could stay a bit longer…”
+
+Molly’s breath hitched as she felt Jen’s form dissolve completely. She didn’t look up at the bright white light that illuminated the whole world, nor at the faint white rain that fell upon all creation, marking the passing of a great being.
+
+Her reddened, swollen eyes simply stared, expressionless, at the rock where Jen had once sat.
+
+She stared for a long moment. Around her, the wide meadow of green and vanilla-scented grass began to change, slowly, steadily, the blades dying into a sickly purplish-brown. The glowing white rain fell harder, drenching the small figure who remained fixed on that empty rock, as if the person who had once sat there might somehow return.
+
+Then a low groan escaped her lips. Her face contorted, twisting into an ugly mask of grief. A louder groan broke free—
+
+And this time, she couldn’t hold back her scream.
+
+Molly screamed, shouting until her lungs burned, before collapsing to the ground in broken, aching sobs. She ignored the rain. She ignored the now-plagued meadow. She ignored everything around her.
+
+Because it was on this day…
+
+Jen Valtoria. The Greatest Sage Humanity Could Ever Conceive.
+
+Disappeared with the light.

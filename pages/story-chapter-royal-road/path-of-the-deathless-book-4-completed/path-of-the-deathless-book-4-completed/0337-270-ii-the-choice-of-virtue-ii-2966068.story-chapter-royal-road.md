@@ -1,0 +1,117 @@
+---
+id: 24db8401-1cbc-559a-aa4e-424241453de0
+page-type-slug: story-chapter-royal-road
+title: "270 (II) “The Choice of Virtue” [II]"
+slug: 0337-270-ii-the-choice-of-virtue-ii-2966068
+partOf: path-of-the-deathless-book-4-completed
+position: 337
+ownLength: 2370
+unit: words
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2966068/270-ii-the-choice-of-virtue-ii"
+royalRoadId: "2966068"
+---
+
+270 (II)
+
+“The Choice of Virtue” [II]
+
+Shiv took a sip from his hot chocolate and glared at Hymn. "You know, this is the only Academy I've ever been to, and you're the only Headmaster I've ever met, but I’m pretty sure you’re the worst Headmaster I'll ever meet.”
+
+Hymn cracked a wide, sardonic grin in response. "You know, for a street rat who's been bounced around from one fight to another, you're still strangely optimistic."
+
+"What the hells is that supposed to mean?" Shiv asked.
+
+"It means that you have no idea what the worst Headmaster and the worst Academy even look like. I do, and I hope you never end up there, because you are going to hate it, and all those poor beastlings who train there are probably going to die." Hymn paused. "Wait a minute, maybe I should restart the exchange student program and have you cause mass killing sprees on someone else's campus for a change. Wouldn't that be something…"
+
+The Headmaster looked around expectantly, but slowly his smile faded as Shiv, Adam, the Culturist, and Hawgrave just stared blankly at him. "Gods, I'm a lot less funny than I remember myself being. Alright, I get the point, Culturist. I'll go get my stuff together. I'll be ready when you drag me out into the Outside. Let's get this whole Blackedge thing sorted before everyone makes a run to steal the slipgate from us."
+
+"And that is another reason why I'm here," the Culturist declared. "Just how many people know about this slipgate?"
+
+Hymn made a loud humming noise as he started mouthing words to himself and counting with his fingers. This continued for well over a minute or two. "Well?" the Culturist said, betraying a hint of impatience. Shiv noticed how the Culturist started tapping a finger on his bicep, and a slight look of agitation was entering his expression. These two had history, much more even than they let on. More importantly, it seemed like the Culturist actually enjoyed Hymn’s company. Judging from how the Headmaster behaved, he wasn't entirely offended by the orc’s presence either.
+
+Sage of the Enkindled Heart: Is this how we will turn out? So hardened and numbed by the System that the enemies we fail to kill will turn into the closest thing we have to companions? Where are Hymn’s friends or family? Why is there more warmth between him and the Culturist of all beings than anyone else we’ve seen him deal with?
+
+"Well?" the Culturist pressed, leaning forward.
+
+Hades stopped counting and shrugged. "If you want my guess... everyone. Veronica Chandler will almost certainly move on this opportunity, so there are good odds that the Inquisition and the Prismatic Guard will appear when the slipgate functions and most of the refugees are across the Tutorial. Then, I suspect that our mutual friend Udraal Thann might make a surprise appearance as well, but I cannot be sure there. Perhaps the better person to consult will be the Forgotten Ascendant among us."
+
+Maia most certainly heard that, but she didn't respond in any way.
+
+"Whatever the case, we must be ready to move the mechanisms that make up the slipgate as soon as we're done with it. Best that it doesn't fall into untrustworthy hands."
+
+"Let me guess, you and your dragon pals already have people in place to help us move it," Shiv grunted, folding his arms.
+
+"Oh, it's even better than that. We have a destination as well: Gate Theborn. And with an entire world filled with orcs and the Challenger as a deterrent, I don't think the Ascendants will be in quite so much of a hurry to follow us across, even if they find out where we're going."
+
+"And in exchange, we express our thanks by allowing you to expand your operations within my Gate," Adam finished.
+
+"Something like that," the Headmaster said. "But it's probably more than that too. Theborn, excuse me, Piety, is going to be very important in the future. It's going to be a sanctuary, a place away from the storm, if you will. But also, it's becoming a convergence point. It already serves as a connector between the surface and the Abyss, but with a slipgate included, it can be a junction leading anywhere across Integration. And that's worth more than you two can possibly imagine."
+
+"I have a guess," Shiv said. "We're going to need to go to the Fairwoods at some point. I got a fae I need to return to the Summer Court, and he alone is probably worth more than his weight in mithril."
+
+And that got Shiv thinking some more. With the slipgate, he could go practically anywhere in the world so long as he knew the dimensional frequencies of a Gate in the area. He could go beyond Integrated Earth as well, to any number of faraway worlds.
+
+Suddenly, he was struck by a feeling of inspiration and liberation. Things weren't all bad. He'd been so focused on the evacuation of Blackedge that he failed to consider what this could do for him when he started out on this journey. He was consumed by a dream of wanderlust, of being a Pathbearer, untethered from the world, by a drive to move where he wished to live based on his own whims. To walk free of chains. And this might allow him to do that. Yes, he had far too many enemies, and there were far too many people hunting him, but through the slipgate, he could at least see the world.
+
+And that was something. That was more than he'd expected ever to get.
+
+"And is the slipgate already in Maiden's temporal dimension?" Hymn asked.
+
+"Yep, the calibrations should be done by tomorrow," Jessica said. "And don't worry about me. I haven't told any of my Inquisitorial buddies about any of this. But considering Veronica is pen pals with the kids, we should give her a heads-up, because she's going to find out either way, assuming she doesn't know already. There are usually consequences when you try to hide things from her."
+
+"I'll write her a letter or something," Shiv said. "Maybe just before we go across." That reminded him that he hadn't checked his sync-letter for a while.
+
+"Well then, I should declare classes postponed for two days." Hymn slapped his knees. "That should give the noble Houses enough time to start fighting each other away from my academy and thereby distract the Prismatic Guard. And it should also allow us to begin maintenance around Gate Infernius for the sake of the slipgate’s activation."
+
+"Seems a bit sudden, no?" Shiv said. "Won't this draw attention?"
+
+"No, mainly because most of the attention has already been drawn to the fact that the Stormhalts and other Houses are feuding. Something that you and your friends have helped me prevent from spiraling out of control. I suppose that's a good enough excuse for now. In the meantime, as I make my preparations, you should make yours. Go back to the coliseum, gather what you have there, and be prepared to move. Because the moment the slipgate is ready, you will be moving into the Tutorial and then the Outside, two of the most regrettable vacation destinations known to man."
+
+"And this will also give us time to consider strategy," the Culturist mused. "I wish to know Blackedge's layout and examine the others in our party to gauge their trustworthiness and capabilities."
+
+Adam sneered with loathing. "You? You're worried about someone else's trustworthiness?"
+
+"Of course. You know exactly what to expect of me now, but I don't know what to expect of them. And to be honest, I think neither do you. I think you have been forced from one bad situation to another, and we don't fully have a measure of those who stand beside us."
+
+Shiv shrugged. "They promised to fight with us. To some extent, anyway. We've told them that we can help them get wherever they want after all this is done. But more than a few just want out of here—away from the capital, away from the Ascendants. We don't force those who refuse to fight."
+
+The Culturist hummed. "Understandable, but I wish to gauge their character for myself, as well as discuss terms with the Forgotten Ascendant and the Swordswoman. You should come by and participate as well, Headmaster. Since you are already embroiled in this affair and intend to get an apprentice of your own out of this matter, you should be a part of this campaign."
+
+Hymn rolled his eyes as if he had been expecting this line from the Orc. "And will one of your hardened killers try to take my head from me at some point?"
+
+"Most assuredly," the Culturist admitted honestly.
+
+"And thus I am reminded why you creatures annoy me so much. Now, I think I'll arrive exactly when the slipgate is ready and not a minute prior. I have too many other things I want to do."
+
+"Like drinking hot tea while looking at pornographic images?" Adam asked acerbically.
+
+"Yes, indeed. Now, since this conversation is over, can you please go out and close the door? Actually, no. This is my office. Why should I make a request? You have approximately 30 seconds before my pants are around my ankles. If anyone wants to stick around…"
+
+"Alright, you fucking pervert, we get the message." Shiv sighed, downing the rest of his hot chocolate in one gulp and swallowing before standing up and turning to leave. "How the hells did you ever become a Legend?"
+
+"Through overwhelming apathy, I suspect," Hymn mused. Once more, he dug the book filled with sensual illustrations of all kinds of races, some of which Shiv had never seen before, out from a mound of scattered paper and immediately began flipping through the pages once more.
+
+The group didn't bother leaving through the door. Adam fired an arrow and flew across without ever looking over his shoulder. Hawgrave followed with a disgusted snort, her animosity toward Hymn becoming clearer by the second. Shiv waited for the Culturist to move, but the orc adopted a pensive expression as he stood rooted before Hymn’s desk.
+
+"Don't make the same mistake with this one," the Culturist said. Shiv couldn't fully figure out what the orc was insinuating, but Hymn stiffened. His performative page flipping stopped. “Her life is not to be wasted. She will not be the key to your freedom, even if she can prevail against the Eldest. No more than I was your salvation. You must face him yourself.”
+
+"I don't need this from you," Hymn replied, staring harder at his smut while his jaw continued to move.
+
+"The girl is not you, nor is she me,” the Culturist sighed. “Everyone's experience with the Eldritch is different. Don't push her beyond the point of breaking. What remains and what will emerge in that case will not be a God, nor anything beyond that. Simply a shattered monstrosity."
+
+"What the hells are you two talking about?" Shiv asked. He'd deduced that they were speaking about Uva, and he didn’t like the sound of any of this.
+
+The Culturist continued staring down at Hymn. "I am just reminding him that he does not know nearly enough about the Outside nor the System's ways to create his magnum opus, and that he should be patient."
+
+"Speaking of patience, my cock is hard, and my pants are coming down. Please leave." Hymn’s dismissal was as flippant as it was hurried, and Shiv realized the orc was pressing on something tender, something desperate. "If you want to tell him about my desire and fill him with paranoia, be my guest. Just do it outside my office."
+
+The Culturist let out a breath, and it was strong enough to cast a small gust through the room, scattering the pages lying on the Headmaster’s table. He pulled his feather-eared hood back up and turned away. "Come along, Shiv. Come along, and let me explain to you why you should worry about your companion."
+
+Shiv cast a final wary look at the Headmaster, who was actually doing what he'd promised. Through the open part of the lower desk, Shiv saw that his pants were actually down by his ankles, and the Deathless looked away, trying not to gag. “Okay, I think I caught sight of a tip. That was—I don't think that's a human cock.”
+
+"Side effects of being exposed to the eldritch for too long," the Culturist explained smoothly as they both stepped into Adam's portal and drifted across. "It is a good time to remind you once again that you should distrust everyone around you, including me. But what you're going to learn is that I am one of the more honest enemies you will face. Hymn… He does not seek to do harm to you. But he has one true desire: to find a way to usurp the Stranger, to break the Eldritch God that has hold of his bloodline."
+
+The orc sighed as he shook his head. “I do not proclaim this with pride or satisfaction: I will be one of the most honest people you will ever deal with. With me, there is pain and danger. But with everyone else, there is something more. I like Hymn. I find him quite commendable—though he does everything he can to mask his true nature beneath a layer of indifference and debauchery. But know that he will do everything he can to slay the angry god that has twisted his family and left his life a nightmarish ruin. Even if it comes at the cost of someone you love. And before you say you won’t let it happen, I should make clear to you that I could not spare your life if he wished to take it. I could not even preserve my own from him if murder was his intent, despite his claims.”
+
+Just as they arrived at the end of the dimensional pathway, Shiv looked up and met the Culturist’s colorful, eldritch gaze. “There are great Psychomancers, Shiv. And then there are those above them. Those that can quench another’s sapience at a whim.”

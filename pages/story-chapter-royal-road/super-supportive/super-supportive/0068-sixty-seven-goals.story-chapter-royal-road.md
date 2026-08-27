@@ -1,0 +1,517 @@
+---
+id: ccff3c77-0713-595f-921f-9fc170cfaa83
+page-type-slug: story-chapter-royal-road
+title: "SIXTY-SEVEN: Goals"
+slug: 0068-sixty-seven-goals
+partOf: super-supportive
+position: 68
+ownLength: 6715
+unit: words
+publishedAt: 2023-08-24
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1320188/sixty-seven-goals"
+royalRoadId: "1320188"
+---
+
+Alden sent his list of links off to Stuart. And after some contemplation, he decided if he was going to try sharing human culture with somebody, he should probably start engaging with it again himself.
+
+Time to be brave. How hard can it really be to mingle?
+
+He stood in front of the fridge, staring at the community activities calendar for the day. He had a more detailed version pulled up on his interface, too. They went all-in on the programming here at intake; virtually every minute from six o’clock in the morning until midnight curfew had something on the schedule. There were tours, classes, board games, athletic events, guest lectures, nondenominational religious services, a scavenger hunt, a mocktail party, and even volunteer opportunities.
+
+Alden wanted to pick up litter along the bike path. It sounded like a peaceful job almost nobody else would choose to do. Since that defeated his whole purpose for the day, he selected an educational group tour called Government Buildings and Procedures.
+
+It’s not the most stimulating option, he admitted to himself. But it’s got things going for it. It was one of the for-credit opportunities, so there would be people. But there were other classes and tours happening this morning that sounded more fun, so there probably wouldn’t be a ton of them. And, more importantly, it didn’t seem like an activity where everyone would be showing off their powers.
+
+Just by walking through the dorm halls over the past couple of days, Alden had realized that power displays were a huge part of introducing yourself to the other teens in intake. What’s your name? Where are you from? What can you do?
+
+He was hoping to get to know other new Avowed in a setting where he could just say what his skill was without it being appropriate for them to ask him to do tricks with it.
+
+I’d like to at least have some normal conversation before I have to brush everyone off or get into the whole ‘I can’t use it right now’ thing.
+
+He headed out, stopping by the counselor’s desk to show Neha his face and prove he was engaging with people. She hadn’t told him to do that. Nobody had. But he was aware that there was a certain amount of concerned watching going on in this place.
+
+Not just of him. But of several people in unusual situations.
+
+None of his new neighbors had caught on to any anomalies with Alden’s presence, as far as he knew, but he’d heard them talking about others. There was a Wright who’d registered and regretted it, and he kept trying to escape from Anesidora by stealing boats. If he didn’t knock it off, they were going to have to take him out of intake and put him in more restrictive housing.
+
+And there was a Morph Brute who had come to the dorms after spending weeks at the island’s healing hospital. Her own brothers had set her bed on fire while she slept when they found out she was an Avowed. It had made global news.
+
+I bet she hates it that everyone knows that about her.
+
+He stuffed his hands into the pocket of his hoodie as he crossed the drive that separated his apartment tower from the one that was dedicated to Brutes. The tour group was supposed to meet there in the lobby.
+
+Most people get to keep their tragedies private. But when you have one that hits a certain level of gruesomeness, suddenly the rest of the world feels like they have a right to stare at it and comment on it.
+
+He entered the lobby and blinked in surprise at the decorations. Ten-foot-tall bronze statues representing different Brute types dominated the space. They stood on raised circular platforms, and there were cushioned benches around each of them. One statue was of a shirtless man holding up a globe like the Greek god Atlas. And there was a woman mid-run, her hair streaming behind her. Alden was pretty sure the man with his mouth open and his arms spread was supposed to represent the vocal subtype.
+
+We don’t get cool statues in our tower lobby. Unfair.
+
+Probably it was because they couldn’t rep all the class subtypes without turning the lobby into a thicket of bronze, but they could have done a mural or something.
+
+<<Why do they get statues?>> someone said behind him. <<We don’t have statues in our building.>>
+
+<<Almost a third of all Avowed are Brutes. It’s easier to make lots of people happy by catering to them. Or maybe they just get more donations from former residents of this building.>>
+
+Alden glanced over his shoulder to see two guys nearby. They were staring up at the statue for audial Brutes. His interface informed him that they were speaking Spanish and Urdu.
+
+“Are you here for the tour, too?” he asked.
+
+Of course they were; it was the thing starting in the lobby of this building in a few minutes. But you had to begin a conversation somewhere.
+
+<<Yes,>> said one of the guys. He poked around at the air with a hand, and a moment later, a custom name tag appeared beside him with his personal details.
+
+He was seventeen. From Pakistan. He was a C-rank Meister of Staves.
+
+His friend popped a name tag up for himself, too. He was sixteen. From Costa Rica. He was a C-rank Meister of Torches. He enjoyed fishing. And he was looking for a girlfriend.
+
+Torches? thought Alden, pondering the tag. Did you fight with the torches? Or illuminate things with them? Did it depend on how the Meister built their talents? Oh, wait. It’s probably not old-fashioned torches. Maybe it’s more like welding torches?
+
+Magic welding actually sounded kind of cool.
+
+He tossed up the name tag he’d made for himself. He’d kept it simpler than they had.
+
+[Alden - 16 - Rabbit]
+
+<<Rabbit!>> shouted the maybe-a-welder guy. <<Do you know her?>>
+
+“Um…who?”
+
+<<The most beautiful girl in the world is on the Rabbit floors. She’s an S-rank. She—>>
+
+“Natalie Choir,” said Alden. “I’ve met her.”
+
+Mistake.
+
+The other boy’s interest level in Natalie wasn’t quite in stalker territory by Alden’s estimation, but it was dangerously close to it. The guy missed two polite attempts to change the conversation topic and one much less polite one.
+
+Fortunately, his roommate wasn’t as dense. He started talking about the upcoming tour loudly, and things got more normal.
+
+Both of the Meisters had arrived over two months ago. They were a few weeks away from overstaying their welcome and getting kicked out of the intake dorms. Their counselors had told them it was time for them to start participating in some of the for-credit activities—like this one—or else they’d be forced to sit through a month of much less fun orientation classes with the slackers when they started school.
+
+So that’s how it works. Alden had wondered what the “punishment” for being a total non-participant during your intake period might be.
+
+Both of the boys were happy to have been chosen as Avowed. And they were pretty relaxed about it. They were interested in the fact that they now had powers, of course. But it was in a more casual way than Alden had expected.
+
+The Meister of Staves was enjoying a combat class with a few older Avowed who had the same subtype. He thought it was a good hobby and an impressive art. The Torch Meister liked his stat enhancements. Neither of them were thinking of their abilities as something that would be the main focus of their futures.
+
+Maybe they’d level a little, maybe they’d get some cool spell impressions, maybe a job here or there—they weren’t stressed about it.
+
+For them, the big perk of being an Avowed was getting to live here on Anesidora. As far as they were concerned, they were already on top just by reaching the island. Whether they ever got summoned or not was pretty irrelevant to them, except for the obvious monetary benefits.
+
+“But…you know you could get summoned to fight or do something dangerous, right?” Alden asked, addressing the question mostly to the stave user.
+
+The torches were for magic welding, so the other boy was more likely to be summoned for work, not combat.
+
+The two Meisters exchanged glances.
+
+<<It could happen? But C-ranks with combat classes don’t get summoned much. And when we do, it’s usually more for appearances than dangerous fighting according to the other Meisters. Getting a deadly job from the aliens is like being struck by lightning, isn’t it? You can’t walk through life worrying about it.>>
+
+<<Exactly,>> his friend agreed. <<Anyway, if you don’t want to leave Earth, you just don’t train your powers too much, right? High ranks are one thing maybe, but low ranks with low levels are completely different.>>
+
+<<We just get to live here.>>
+
+<<And get hot Avowed girlfriends.>>
+
+<<I’ve been looking at the boarding facilities for the schools, and they’re almost as nice as intake.>>
+
+Okay. So that’s how it was. Probably Alden was the one who was being unrealistic for immediately wondering what they were going to do if they ever got lethal assignments from the Triplanents…instead of asking them about their favorite things to do on the island and what school they were planning to attend.
+
+They loved Anesidora. They were happy to be here.
+
+It is a very high standard of living.
+
+Alden had known that, but he hadn’t really thought about what it meant for people other than himself.
+
+Sure. You were trapped. Especially if you didn’t have the highly-marketable talents that would get you a superhuman job in another country. But despite Boe constantly joking that Alden would starve to death because of the price of things on the island, even poverty on Anesidora was pretty cushy.
+
+Basic healthcare was free and high quality. Education was free, high quality, and mandatory—in one form or another—until age 21. There was no such thing as homelessness. Once you were out of school, they would give you a very small but undeniably clean and comfortable apartment to live in if you couldn’t afford one on your own.
+
+You even had internet access through your interface if you wanted free entertainment. Although Alden had decided just this morning that he hated browsing that way. It felt really intrusive.
+
+I need to buy a laptop, he thought as the tour group finally set out.
+
+There were about thirty of them. Most people had come because they needed the credits, but a few had chosen this tour because they were super enthusiastic about the fact that they had voting rights now. You were a legal voter on Anesidora the second your Avowed feet touched the ground, and they actually wanted to find out how the government worked.
+
+Their guide spoke mostly Mandarin, and in the way that a lot of native born Anesidorans did, he sprinkled in tons of loan words from other languages.
+
+They took a train through F-city, stopping at the capitol building. It was an unusual, trapezoid-shaped structure made of glass and black stone that reminded Alden of the hot lab on the Leafsong campus. This was where the High Council did their thing. The group toured the council chambers, and they even got to meet a few of the class representatives who were in their offices.
+
+The current Rabbit councilor was in. The Rabbit rep never had much power on the council unless they became President, but maybe because of that, she was more willing to talk to the tour.
+
+She was a short woman with silver corkscrew curls, and she did a brief double-take when she saw Alden’s name tag. She didn’t react at all to the name tag of the one other Rabbit who’d come today. Alden assumed it meant she knew who he was through some kind of gossip. It was a little concerning. But she didn’t say anything about it when she shook his hand, so he decided he liked her fine.
+
+The tour was over after four and a half hours, and Alden, feeling highly successful about talking to other people without coming across as someone who’d been living on a moon for way too long, gave himself permission to break off from the group.
+
+They were all going to see a movie together.
+
+He picked up an order of stir-fry from a restaurant and went back to the dorm. He wanted to read his auriad book and practice his logograms.
+
+And he needed to think.
+
+Only a couple of people on the tour planned to seriously pursue leveling their Avowed talents.
+
+A lot of the others said they did, but either they didn’t mean it or they hadn’t actually considered how to go about it. They were almost all going to attend the general high school programs in F-city. Those included some cultural training for life as an Avowed, in case you got summoned, but they didn’t cover power development at all.
+
+Well, there weren’t any high ranks on the tour. Alden was sitting on the kitchen stool, watching the logograms shift while the System translated the first spell in his book for him. It’s not like they could get into a serious hero track course.
+
+He’d been the only B in the group. Everyone else had been C or lower.
+
+But doing a hero-prep program at one of the Apex high schools was far from the only option for developing your Avowed talents. Even for low ranks, there were leveling-track programs of other kinds that split your education between academics and more class-focused learning. If you wanted that.
+
+They were considered more time and labor intensive, but…
+
+I expected more people to want that. Who just gains the ability to do magic and then doesn’t do much with it?
+
+Maybe he was thinking about it wrong, though.
+
+Most people didn’t spend all their time “leveling up” in normal life. It wasn’t like Alden had been doing aerobics to level up his body before he’d been selected. Or seriously striving to expand his mind. He’d been taking advanced classes in high school and lots of consulate extras. But if he was being honest with himself, he’d always just liked keeping busy with school. So that shouldn’t count.
+
+It was probably more uncommon to run at your goals full-tilt and laser-focused than it was to kind of…stroll in their general direction.
+
+But he’d thought he would encounter a lot more ambition than he had so far. More than in regular high school.
+
+I guess I subconsciously stuck too many Avowed in the insanely dedicated category because my real-life experience was all with Hannah. And she was a workaholic by any measure.
+
+Maybe the most useful thing he’d learned on the tour was what normal here on Anesidora actually looked like.
+
+He called Boe to leave his daily voicemail.
+
+“I’ve been thinking that living on a demon moon made me confused about who I am and what I want to do now,” he said in a conversational tone. “Upon reflection, that’s not accurate. What it made me unsure about is long-term career choices.”
+
+He took a sip from a bottle of blackberry soda. The vending machines in the dorm were free and they had drinks from all over the place. Trying them all was a mini goal.
+
+“Honestly,” he said, “being a hero sounds so damn horrifying right now. If someone walked into this kitchen and said, ‘Alden Thorn, run with an injured child on your back for days until you are bloody and broken,’ I think I’d have to ask if the kid was Kibby or not.”
+
+He split open another soy sauce packet and poured it over what was left of his rice.
+
+“I’m not sure it’s in me to do something like that again. To deliberately put myself in a situation where I know I might have to. For her—a thousand times. But maybe not for someone I don’t know.”
+
+He took a bite and swallowed. “I’m…really so disappointed in myself. For not being the person I imagined I was. Was I naive before? Or am I a coward now for not wanting to go through something that terrible again? I don’t know. But I do know who I am at this moment. Better than I thought. And I know what I want to do next.”
+
+He paused.
+
+“Come out of hiding if you want to find out what it is, Boe. Otherwise you can just suffer from your own curiosity. Talk to you tomorrow.”
+
+He ate the last few bites of his lunch and finished his reading.
+
+The first spell in the auriad book was complicated. This wasn’t a wizard kindergarten textbook for sure. He had no way of knowing if it was actually advanced, but it was definitely more advanced than he’d been expecting.
+
+She has a lot of faith in my fingers and my authority control, doesn’t she? he thought as he studied the method.
+
+When he mastered it, the spell would create a small crushing shape around objects at close range. About the size of an apple. And the things inside it would get very crushed, since it said it could turn “even a stubborn stone” into powder.
+
+Neat.
+
+He tucked the book back in his magic bag and locked it, wincing again at the bite of the id chip against his sore authority. He’d been wondering how secure it really was in there. As far as he knew there wasn’t a population of dorm thieves. But on the off chance that there were, it was going to be hard, bordering on impossible, for Alden to get his hands on another auriad book of this quality if anyone stole it to sell to wizard paraphernalia collectors.
+
+“All right, System,” he said, shoving his takeout garbage into the trash. “What would it cost to store my magic messenger bag in one of your warehouses?”
+
+It immediately gave him a list of options, along with prices that frankly hurt.
+
+The System warehouses held the Wardrobe items and whatever things other classes could purchase before they were sent out to their new owners. There was tons of stuff for Wrights from what Alden understood.
+
+But it didn’t do post-purchase storage for free. And it cost even more to store things that were totally personal and not class-related. Like a bag of books. Over the course of a year, if he had the bag stored and teleported to him on a daily basis, it was going to cost like two hundred grand.
+
+But nobody was going to rob the System of its Artonan-made goodies unless they wanted the Triplanets to take an aggressive interest in them. So it was undeniably safe. And convenient.
+
+Maybe the bag can’t be stolen at all because of the lock. Maybe it knocks thieves out or attacks them. How do I even figure that out?
+
+“Hey, I know you know how my magic bag works,” he said to the System hopefully. “And I respect the fact that you don’t usually answer random questions. But since it was a gift from another System, maybe you’ll tell me? Do I even need you for storage?”
+
+It didn’t answer.
+
+“Fine. Be that way.”
+
+He let the System disappear the bag and the books to one of its overpriced hideaways. Then he left the apartment and headed for the elevators.
+
+Halfway down the hall, he passed by a dark-skinned girl with long braids. She was sliding fliers under doors.
+
+<<Stop!>> she said, whipping around to hand him a flier. <<You need us.>>
+
+The System translated the flier for him. It turned out the Rabbit girls in Room 802 had complementary skills, and they had used them to set up their own in-apartment salon. Like Natalie, a lot of people who’d taken the class were business-minded. They were planning on their skills being a big part of their future careers, either here or for the Artonans.
+
+Maybe that was why I was a little surprised by the others on the tour.
+
+<<Your hair,>> said the girl, staring at Alden. <<I can help.>>
+
+Alden smiled. “It’s that bad, huh?”
+
+<<Asymmetrical is a fine look. But that’s too hacked up.>>
+
+He knew it was. Met-oosa’s party haircut had required wires and gel to look good in the first place. And then it had grown out for months. It was significantly longer in some places than in others. And on top of that, he was growing a ton of new hair thanks to Rrorro.
+
+<<You look like something bad happened to you,>> she concluded. <<I’ll fix you for free, and you can decide to pay me if you like it.>>
+
+He’d been planning to take care of it eventually. He hadn’t even been here a week yet. “I’ll probably take you up on that.”
+
+She looked satisfied.
+
+He went downstairs to the counselor’s desk. Neha was there with her feet propped up, watching television on an Artonan-made tablet. Like the kind from the lab. Alden hadn’t actually seen anyone else using one on Earth before.
+
+“Hey,” she said. She spied the flier in his hand, then glanced up at his hair. “Good choice.”
+
+“Wow. I must be hideous.”
+
+She snorted. “Of course not. You just look like you ran afoul of some cursed scissors. What’s up?”
+
+“Goals,” he said. “You asked about them. I have some.”
+
+She sat up straighter. “Do you want to duck into the counselor’s office for a private chat, or—”
+
+“No. It’s not private. We can schedule something more in-depth for later. I just realized I do have some things I’m already sure about, and you said you usually kept track of peoples’ goals. So I wanted to tell you.”
+
+“I’m interested. And I’m listening.”
+
+“I want to spend the next two months living here in intake. I want to get used to life on the island and get to know people. I want to focus on settling in and prepare for what I’m going to do when I leave.”
+
+Neha set aside her tablet. “I think that’s probably a really wise choice for you.”
+
+It might have been. But it was also a necessity since he couldn’t really use his powers right now.
+
+“After that,” he said, “I want to go to school.”
+
+“You have to go to school,” she pointed out. “In some form. We’ve got lots of options. Anesidora is all about keeping new young Avowed in school and out of trouble. And using your time in intake to go through the application process is the norm. What kind of education do you want to pursue?”
+
+“I don’t care which school it is. Or what the program is. As long as they can help me train my body and my mentality to be…let’s say stress-resistant. Or even disaster-resistant.”
+
+It rang true as he said it. It wasn’t a big, bright life goal, like he’d had before. But it was something he actually wanted right now.
+
+“And I need talent development. I want them to make me practice the hell out of my skill. I want to get really great at using it. I suspect it has creative applications, but it’s going to take a ton of effort to figure them all out. I could use some help.”
+
+Neha lifted an eyebrow, but when she spoke it was in the same quick, businesslike tone she usually had.
+
+“Okay. That’s a different take from most of our kids. Especially Rabbits. But it’s probably all doable.” She paused before adding, “I don’t actually know what your skill is. You don’t have to share your full profile, but to offer the best guidance, it would help to know what kind of power set you have.”
+
+Alden went to Choose Persona and clicked the share button under his false profile.
+
+Neha blinked rapidly as she read through it.
+
+“Let Me Take Your Luggage.” She glanced up at him. “I see…that’s the one that vanished from the B-rank list early this year. No kid ever showed up on the island with it. When you came in, I wondered if it was you.”
+
+“It vanished?”
+
+Alden was startled, though he probably shouldn’t have been. Joe had called it “limited edition.” He hadn’t thought to read through the Rabbit skill lists since he got back home.
+
+“You know it happens. Skills get cycled out. Either the System itself decides they’re not working well for humans, the committees decide they don’t like them, or they were experiments to start with and once someone claims them, the System is supposed to take a wait-and-see approach before releasing them more widely.”
+
+She shrugged. “Some of them are just one-offs to start with. They’re designed for something really esoteric or special. Sometimes the Triplanets is interested in having something but not having too much of it. There was someone who got S-rank Bridge Wright around the same time you must have gotten this one. You know how old I am, and I’ve never seen that subclass float by. Although in that case, it was a brand new creation, and your skill has been on the Rabbit list for as long as I’ve been reading it.”
+
+“It’s an object preservation skill.”
+
+“I see that. I also see that you’re a bit of a badass.”
+
+“I’m really not.”
+
+“No. I’m looking at this, and I see three levels gained in six months under presumably shit conditions. Some slightly weird balancing going on between your foundation points and your levels. I guess you had strange options because you leveled without a System around?”
+
+Among so many other things, thought Alden.
+
+“You also really like Dexterity,” she noted. “That’s quirky.”
+
+“Quirky?”
+
+She smiled. “I don’t mean that as an insult. Quirky is good. I see way too many teens coming in with ‘ideal builds’ they found somewhere. And they don’t even know what they’re building themselves for. You should pick at least some of your talents because you think they’ll give you joy. Even if you do want to be ‘disaster-resistant’. You have to remember that you’re living a whole life here, inside your own skin, not designing an unbeatable video game character.”
+
+“Noted.”
+
+Actually, extra noted.
+
+That seemed like advice he should make an effort to keep in mind. Now that Alden knew what skills cost there was additional pressure not to mess up with his choices. It seemed like it would be easy to reach for practical-sounding powers he hated rather than stuff he actually liked.
+
+“Flickerer was a fun choice for an F-rank skill,” she mentioned. “I’ve only met a couple of other people with it. It gets overlooked, but temporarily breaking things is unexpectedly useful. Even if it only works on minor enchantments.”
+
+Alden brightened. “I thought it would be good for that, too!”
+
+He expected The Bearer of All Burdens to do a much more thorough job than a skill like Flickerer. It ought to lift any enchantment the skill was strong enough to support, not just minor ones.
+
+But it was nice to have confirmation that people found a similar skill useful.
+
+“Do you know if your skill preserves living things?”
+
+“It does.”
+
+“No damage?”
+
+“Zero.”
+
+“How long?”
+
+“It depends on the thing.”
+
+“People?”
+
+Alden stopped himself from saying “days."
+
+“A few hours. I have to carry them though, so small people are better.”
+
+Neha smiled. “All right. Got it. You want to get your bearings for around two months and get your applications done during that time, and then you want to head off to a school where they make you get creative and ‘use the hell’ out of that power.”
+
+Alden nodded.
+
+“It sounds like you do indeed have goals. I will think about these things, call some people, and come up with ideas for you to consider.”
+
+“Thanks.”
+
+He turned to go.
+
+Before he’d taken two steps, the Rabbit counselor said, “You could have just specified that you wanted to go to a high school with a hero training course, but you didn’t. Is that because that option is off the table for you?”
+
+“No,” Alden said, staring at his blurred reflection in the elevator doors. “If the hero prep schools in Apex are the best places to help me level up my skill and gain survival know-how, it’s fine.”
+
+“So you did know those were the places most likely to match your goals then?”
+
+“I thought they might be.”
+
+“All right. I ask because the culture in those is pretty unique. They’re hard on B-ranks. And on <<oddballs>>. And I don’t mean the coursework, though that’s incredibly tough, too.”
+
+Alden glanced back at her.
+
+She was resting her chin on a hand. “I don’t have to burst this particular bubble very often because Rabbits tend not to be big fans. But superheroes are…hmmmm…how to put it?…let’s say half of them are focused on the hero part. And half of them are focused on the super part. The ones in the first group are very nice people. The ones in the second are some of the most obnoxious on Earth. Personally, I find both types difficult to take in large doses.”
+
+He considered it. “You think half are in it for the glory?”
+
+“The siren song of celebrity doesn’t skip over Avowed. If anything, it’s the opposite. And frankly the whole superhero concept is built on an unwholesome mix of necessity—thanks to the existence of superhuman criminals—and pandering. Every major city has to have its pretty little mascot team because people love watching them.”
+
+“I understand that.”
+
+She nodded. “Then let me tread on your dreams just a little more. Even the good ones have their flaws. It’s usually a particular kind of personality that goes to superhero school, even for the right reasons. If you don’t fit the type…”
+
+“I don’t expect people to be perfect,” Alden said, surprised she was making such a point of it. “And right now I’m just looking for a place to teach me the stuff I need to know.”
+
+“Okay. I’m only telling you because…the hero programs are the best at the things you just asked me for. The training portion of becoming a hero is hardcore, and it’s impossible to deny that the programs are excellent at pumping out more powerful Avowed. So, unless you want to go to arts school to become a professional gymnast—”
+
+“A what?” Alden couldn’t hold back a laugh.
+
+“Hey, I see these specs for balance and agility, and you want to work on your body and your mentality…have you ever met gymnasts? Super gymnasts? I’m teasing you because it’s really a career for Brutes. But you say, ‘Stress me out bad, Neha,’ and I think of those guys.”
+
+“I said I want to be more stress-resistant,” he said.
+
+“It’s the same thing.” She gave him a smile. “And lucky for you, you will have plenty of stress if you end up at hero prep school. Because I think you will find many of your classmates, and perhaps even a few of the more unprofessional instructors, will be inhospitable to you.”
+
+Alden considered it. “Do you even think the really good schools will let me in?”
+
+“The ones in Apex? They’ll let you in.”
+
+“I know they don’t accept many B-ranks.”
+
+“I assume you would want Celena North's feeder high school?” she said. “Unless you’re ready to jump up to college, and I don’t recommend that. The college and high school hero courses are well connected anyway, and for that kind of program in particular it’s better to stick with Avowed of your own age group. Especially if you’re weaker than them.”
+
+“I wouldn’t mind going to the other schools. It’s just nice that Celena North classes are mostly in English. Subtitles are fine, but…you know.”
+
+She nodded. “Hard to deal with. Especially when you’ve got groups talking over each other. Or when speed or nuance is important. CNH caps annual B-rank acceptances at 25% for most programs, but for their hero course they cap it at a generous—” she drumrolled her hands on the desk “—5%.”
+
+“Oh, okay. I’m never getting in. I’m a Rabbit.”
+
+“I was wondering if you knew that. But they’ll let you in. Like I said, you’re secretly a badass.”
+
+“Because of the three levels?”
+
+“Those are very impressive, but probably not impressive enough under normal circumstances for a Rabbit. The thing about our class is that it’s a choice. Everyone knows you wanted it when you got it because it’s easy to trade out of. Picking it tells the world you prioritize certain things. None of those things dovetail well with superhero work. Or even superhero school.”
+
+“Right. The timers. And summons frequency. But I do have eight months off. And vacation days on top of it. And some refusals.”
+
+“Nice break. Please make good use of it, and take care of yourself. After that…your school will just have to suck it up and deal with it. Because someone important gave you a star.”
+
+“The commendation?” Alden frowned. “That doesn’t really have anything to do with school.”
+
+She arched her brows at him. “The commendation for bravery from Numero Cuatro doesn’t have anything to do with getting into a hero program?”
+
+“Did...did you just call Knight Alis-art’h ‘Numero Cuatro?’”
+
+“The System translations for their…I don’t know what to call them—extra special champions against chaos—get pretty ridiculous. I just use what I like in the moment. I’ve seen a few of them from a distance at events. Never met one face to face, though. You can bet I’ll use my proper Artonan terminology if I do.”
+
+She was giving him a very curious look.
+
+“Oh,” he said, after realizing she wanted juicy details. “She was nice to me. They all were. I think.”
+
+“All? How did you manage to encounter multiple Numeros in one half year session? I do understand it was a bad session. But I’ve spent longer on the Triplanets than just about any human you will ever meet, except for the people who’ve literally moved there. Seeing one is like sighting an endangered animal. All the other wizards in the room get odd.”
+
+Alden scanned her face, trying to figure out if she knew why the other wizards got odd.
+
+“Well, they are really powerful, right?” he said finally.
+
+“So I’ve heard. I have suspicions about them, but that’s all. I think wizards are socially—hell, maybe even magically—obligated to keep silent about them outside their own class. Even teenagers will clam up if you start prying. And the regular Artonans I’ve asked seem to regard them as a separate, higher class of wizards.
+
+“But just between you and me, I’ve always suspected that the Triplanets saved the really good talents for themselves. Why wouldn’t they? I don’t know why wizards don’t all affix something, but I assume it has to do with limiting who gets access to additional power. Whatever oaths the Numbered Ones have to swear are probably so restrictive that they exclude most of the species.”
+
+Ah. So she…didn’t know. Not really. Alden was just guessing, but he suspected the oaths themselves weren’t that bad. And it was just the other thing that kept people from signing up for knighthood. Because it was bad enough.
+
+He found he felt no need to clarify. Instead he said, “I guess I was lucky? I actually met a couple of them even before everything went wrong.”
+
+It did feel really good to talk casually with someone about Artonan stuff. He hadn’t realized he’d be able to. With most people in the dorms, it would be like talking about a study abroad trip you’d taken to a country they knew nothing about.
+
+“They were at a party,” he said. “At LeafSong University. It’s on Artona III.”
+
+“Gotta love a Triplanets party. Also…sweet job. That’s literally their second best wizarding university. They rank schools with absurd seriousness, just like they do everything else. The first is on the Mother. LeafSong supposedly has a better climate.”
+
+“It has a terrible climate.”
+
+“For them,” Neha clarified.
+
+“I sweat so much,” Alden said, leaning over the desk. “Like, there was not enough antiperspirant. I kept wondering why the hell it didn’t bother them that their human staff were all disgusting and dripping on their stuff.”
+
+She cackled.
+
+“It was ninety degrees Fahrenheit!” he exclaimed. “All. The. Time. The human dorm was air conditioned, but it reeked of body odor from peoples’ unwashed laundry.”
+
+She kept laughing.
+
+“The outfit I had to wear to do lab work was a full-length leather coat.”
+
+“Oh my god, kid,” she said, wiping her eyes. “Stop, stop! You’ll get me started on some of mine.”
+
+“How do you not melt?” he demanded. “I need you to tell me. You’re my Rabbit elder. It’s basic survival skills.”
+
+“You…you…” She snorted. A couple of guys stepping off the elevator gave the two of them a strange look before they headed down the hall. “You have to suck up to a wizard who likes enchanting. Give them all of your clothes, and have them put cooling spells on them. It will save you. From pit sweat. And rashes.”
+
+“Okay,” said Alden. “Since we’re talking about this…what is with all the drugs?”
+
+“Don’t do them.”
+
+“I don’t do drugs. Normally. But you get there, and they’re like, ‘Here’s a pill, human. And here’s another pill. And here’s a shot in your jugular. And here’s a dozen shots to fix what that first shot did to you.’”
+
+“They actually have substance abuse problems,” she said. “Seriously. It’s a big issue for the wizard class. But they have to learn all of the magic chemical stuff for school so none of the ingredients are illegal. And they just really like making and taking potions themselves. And they want to share.”
+
+Alden cleared his throat and whispered, “Also, I wanted to report it after reading my legal guide, but I didn’t know who to tell. I think maybe I committed a crime by bringing a piece of gum back with me.”
+
+She blinked. “That would depend on what kind of gum it was,” she whispered back.
+
+“Some kind of sensory sharing stuff. They gave it to me at the party.”
+
+“Oh. That kind’s actually not illegal. You can keep it.”
+
+“At first I thought it might be useful for combat training or something…”
+
+“No,” she said.
+
+“No?”
+
+“Nope.” She was still whispering. “I’m sorry. But as your Welcome to Avowed Life counselor, I have to ask before you make some kind of mistake…you know what that gum is designed for, right?”
+
+“Sharing senses?”
+
+“Yes.”
+
+She stared at him.
+
+He stared back. And, very belatedly, he remembered certain implications that had been made by Joe the first time he’d asked about the gum.
+
+“Um…so. That was indicated to me. By someone. A girl wanted to eat appetizers with me? I just thought it was one of many possible functions—”
+
+“Maybe? But if someone of an appropriate age gave you that, they were hitting on you. Trading that gum is junior wizard flirting.” She was keeping her expression professionally blank. “I’m just trying to make sure you know, for future reference, that appetizers plus gum is a lot more suggestive than it would be at a human party.”
+
+“Shit. I just…now I have to go to my apartment and crawl under the sofa and die.”
+
+“Don’t feel embarrassed,” she said. “It’s a totally reasonable point of ignorance. And when you get done dying, please note that there are some educational courses about that kind of thing you can take for credit. Gustavo teaches them with one of our other counselors. They try to keep it lighthearted.”
+
+“I’d rather not.”
+
+“Suit yourself. But if you don’t take them here, they just make you take them as part of high school orientation.” She paused. “Welcome back to Earth. Think of it as our special way of making sure you don’t get too comfortable here.”
+
+“Thank you,” said Alden. “I will never ever forget this conversation. Unfortunately. And you’re going to live forever and remember how dumb I am eternally. So…yeah.”
+
+“I’ve already forgotten it.”
+
+“Thanks.”
+
+“I don’t even know what you’re thanking me for.”

@@ -1,0 +1,349 @@
+---
+id: 131b6f65-e0b9-5eee-8e31-31268e1e04b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11 - A Visit to the Groom"
+slug: 0012-chapter-11-a-visit-to-the-groom
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 12
+ownLength: 2879
+unit: words
+publishedAt: 2022-06-01
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/918613/chapter-11-a-visit-to-the-groom"
+royalRoadId: "918613"
+---
+
+Stewart and Penn were in the main room of their hideout, standing by a table full of what Penn called their “tools of the trade,” and muttering over a list, when they heard a knock on the door. It was such an unexpected sound that both men fell silent, waiting to see if their ears had fooled them.
+
+It sounded again. Five sharp raps as knuckles met the old wood.
+
+Penn showed an exaggerated confused face to his associate. Stewart shrugged, his eyes wide, to demonstrate his equal befuddlement.
+
+“Crisp,” Penn hissed.
+
+The man seated at Penn’s elbow looked up. Penn nodded toward the door. Crisp put away the knife he’d been whittling with and made his way over to one of the spy holes the gang had carved into the front wall.
+
+“It’s a woman!” Crisp said in a whisper calculated to travel only as far as it needed to.
+
+“Dammit, Stewart!” Penn said.
+
+“She’s not one of mine! We’ve got a job tonight. Do you think I’d send for a girl?”
+
+“Nah. Definitely not one of his.” This was Jeremy. He’d claimed the other spy hole. “She might be lost.”
+
+“How do you figure?” Crisp asked.
+
+“Well, she doesn’t look like she belongs here, does she?”
+
+“What?” Steward said.
+
+“She looks too…nice.”
+
+If anyone had been watching, they might have spotted the second when Penn’s face went slack. If they missed it, all they would have seen was the marvelous thief drawing himself up and clearing his throat.
+
+“Gentlemen, I think this caller might be for me.”
+
+There was the inevitable laughing and whistling, even if it was all done as quietly as possible.
+
+“Sir,” Stewart said, trying not-too-hard to keep a straight face, “you knew we had a job.”
+
+Penn turned to him. There wasn’t a trace of humor in his expression. “She isn’t supposed to be here. I don’t know how she found us.”
+
+Stewart sobered. “I’ll get everyone in the tunnels. What do we take?”
+
+Penn put a hand up by his head and flicked his wrist. “Nothing. Not yet. Make sure the boys are safe, then wait for me in the back.” He put down the list he was holding. “I’ll see what she wants.”
+
+“Your office?”
+
+Penn nodded. He straightened his vest and touched his collar, only to realize he wasn’t wearing a tie. As he made his lazy way toward the door, figures darted around him, lamps went out, and a rush of shadows fled from the front of the warehouse. By the time he put his hand on the door handle and turned around for one last check, there was no one in sight.
+
+He opened the door.
+
+It was funny how a rich woman could try to dress down, but even her most humble outfit gave her away. It was the cloth. It was too high quality. And the tailoring fit too well. He recognized her long before she raised her face enough for him to catch sight of her green eyes.
+
+Ryce Penn smiled. “My darling Eleanor.”
+
+To his delight, she blushed.
+
+“Mr. Penn, I appreciate that you and I have an unusual acquaintanceship, but I have never given you leave to call me that, and I would prefer it if you would call me Lady Serrs.”
+
+Penn put his foot out the door so he could peer at the shadows near the street lamps.
+
+“I’m alone,” she said.
+
+Ryce looked at her. “How did you get here?”
+
+“I hired a cab to bring me to this area, then I walked the rest of the way.”
+
+He caught sight of the dust and dirt on her long skirt. It was possible she was telling the truth. “Eleanor, beloved, I meant what I said when I offered to be of service to you, but I do believe I warned you I had other matters—”
+
+“Please, Mr. Penn. I wouldn’t be here if it wasn’t important.”
+
+It was then that he noticed she was trembling. It wasn’t as bad as it had been that morning—had it only been that morning?—but he could see her hands were shaking.
+
+He bowed her inside, and with one last glance at the darkness, he shut the door.
+
+She stood only a few feet inside. Her eyes roved over the room. It seemed like the natural amount of interest anyone would take when they were introduced into a new building. On the other hand, she’d managed to find him when he’d given her no clue to his whereabouts.
+
+He cut off her view of the room by putting a hand on her shoulder and motioning to a rickety staircase nailed directly into the boards of the wall. “Shall we go up to my office?”
+
+He grabbed one of the still-lit lamps and led the way. Once they were upstairs, Penn took her across the long landing and over to one of the back rooms. When he opened the door, she went inside.
+
+“Your office?” she asked.
+
+Penn finished shutting the door and brought the lamp around. He saw her nervous smile.
+
+“I know,” he said, putting the lamp down on a nearby wooden box. “I’m afraid my luxurious accommodations won’t do your clothes any favors, but please feel free to take a seat on any pile of flour you want.”
+
+Eleanor went over to a stack of four, twenty-five pound sacks and sat down with the same grace she used to seat herself on a velvet armchair.
+
+Penn chose a taller column by the door and jumped so he could perch on it. He put his elbows on his knees and stared down at the woman in front of him. “Now! What can I do for you, my darling?”
+
+“Mr. Penn”—she sounded exasperated—“I really must insist—”
+
+“Uh-ah! How could I possibly address my fiancée so rigidly?” He smiled at her.
+
+Eleanor watched him for a second, then seemed to decide it wasn’t worth the fight.
+
+“I have to ask you a question,” she said. “It’s an important question, and I’d like your assurance that you’ll answer me honestly.”
+
+Penn’s smile expanded to a grin. “That’s a bold thing to ask me. Would you trust the word of a thief?”
+
+“You’re the only person who can answer this question, so your word is all I can ask for.”
+
+“I’m sorry, Ellie, but I don’t know if I can promise to tell you the truth. If I got into that kind of a habit, it could destroy me.”
+
+“Did you send those invitations?”
+
+Penn’s eyes widened in disbelief. “What?” The question came out with a laugh.
+
+“Did you send out our wedding invitations?”
+
+He laughed again. “You’re joking.”
+
+But her eyes never wavered. His mirth bled away.
+
+“No, Lady Serrs. I did not send out those invitations. And that’s the truth.”
+
+Her perfect posture relaxed. She bowed her head and her eyes dropped. “I thought so,” she muttered. “The way you thanked me—you thought I had sent them, didn’t you?”
+
+“Of course. Are you telling me you didn’t?”
+
+“Why did you think I had?”
+
+“Well, I knew I didn’t do it.”
+
+“But why would I do something like that?”
+
+“That’s the question I had to ask myself.”
+
+“Did you come up with any answers?”
+
+“I thought of several possibilities. The first was that it was a trap of some kind, invented by the police. But a little research proved that was unlikely.”
+
+“Why?”
+
+Penn arched his head forward. “Because you exist.” He relaxed. “That damned frog would never involve an innocent woman in one of his schemes. Besides, it somehow didn’t seem like him.”
+
+Eleanor blinked and shook her head. “I’m sorry, but who do you mean?”
+
+“Detective Chief Inspector Lucas John Haley.”
+
+“Why do you call him a frog?”
+
+“Because he’s French.”
+
+“He said his people are from the north.”
+
+“His mother’s people are from the north. The other half of him came to us across the water. He spent most of his time over there, but he spent all his childhood summers here. Then he tore up his roots and dropped his unwelcome self on our lovely city.”
+
+“You seem to know a lot about him, Mr. Penn.”
+
+Penn gave her a faint nod, as if accepting a compliment. “Know your enemies, darling. Know them well.”
+
+“But why would he move here?”
+
+“To make my life a living hell!—as far as I can tell. Why are you smiling?”
+
+Eleanor shook her head. “Never mind. But if it wasn’t a plot by Inspector Haley, why else would I send out those invitations?”
+
+Penn folded his arms. “Another option was that you were an overenthusiastic admirer. It was quite a stunt! And it certainly got my attention.”
+
+Ryce wasn’t so sure about those green eyes anymore. Every once in a while, he wondered if they were laughing at him.
+
+“Do you deal with problems like that often?” she asked.
+
+“You know, for all the society women that talk about wanting to meet me, they’re never quite as enthusiastic after they’ve discovered I’ve already enjoyed their acquaintance. But I had never robbed you, so I thought you might have dreamed up a romantic notion, and in your desperation…”
+
+His voice trailed off. Eleanor had blushed again, but there was a pained expression that warned him she wasn’t only feeling embarrassed.
+
+He continued, “But no. It wasn’t that.”
+
+“You figured that out now?”
+
+“I figured it out the moment I saw you. I knew then you’d have no cause to be desperate when it came to romance.”
+
+The pink hue changed to red, but at least she no longer appeared distressed.
+
+“But if that wasn’t it,” Penn went on, “then my last guess was that you already had a lover—lucky fellow—but your father didn’t approve. I’ve only met the duke once, but we’ve had a fairly extensive correspondence, and I think I have a slight measure on the man. I thought you had arranged this little game so he would be forced to allow you to marry the man you preferred in order to get rid of the far greater threat of being married to me.”
+
+“Thus you saying that you’re always happy to be of service.” Eleanor paused. “Mr. Penn, that was incredibly risky.”
+
+“I’m delighted to know you’re worried for me, but remember, it wasn’t that risky to start with. I was given the honor of cutting the world’s most conceited duke down a size or two. Who could resist?”
+
+“And then?”
+
+“Well, he challenged me.”
+
+“And you couldn’t let that pass.”
+
+“Of course not!”
+
+There it was again. That spark, shining out from her eyes. He couldn’t see what was funny.
+
+“There’s only one problem, Mr. Penn. I didn’t send those invitations.”
+
+“Yes. I can see that. You all thought I did it.”
+
+Eleanor nodded.
+
+“Haley too?”
+
+She nodded again.
+
+“Damn! If I’d only known, I could have put it to better use.”
+
+“How?”
+
+He waved away the question. “I would have thought of something.”
+
+“Do you have any enemies who might have done it?”
+
+Ryce laughed. “Oh, my darling Ellie. Not a chance. First of all, with the exception of Inspector Frog, most of the men I would call my enemies probably can’t read. Secondly, they’re the kind of men who are more likely to shove a knife in my ribs rather than waste time learning how to compose a proper wedding invitation.”
+
+“Is not all well in the family of blackguards?”
+
+“You read my letters?”
+
+“I enjoyed them very much, sir.” This statement was uttered with quiet, unadorned sincerity.
+
+Penn’s eyes crinkled up at the edges. “Well, thank you.”
+
+“Maybe you should have been a writer.”
+
+“Good lord, woman! I thought it was understood—I like money.”
+
+That earned the master thief one of Eleanor’s real smiles. He glimpsed it before she managed to bow her head, and he thought he felt his heart stutter.
+
+She raised her eyes again. “But what about some of your victims? Would any of them want to do you harm?”
+
+“Eleanor, I don’t think you’re seeing this clearly. What harm could this do me? It’s no slight for me to become engaged to the daughter of a duke.”
+
+“If my father’s to be believed, you were almost shot.”
+
+“An occupational hazard.”
+
+“It’s worse than anything I’ve suffered.”
+
+“You’re sitting in a thieves’ hideout, alone in a room with one of the city’s most notorious criminals.”
+
+“You haven’t hurt me.”
+
+“I might. Did you ever think of that? I could violate you, here and now.”
+
+“If you tried it, Mr. Penn, I would use the heel of my boot to smash your testicles.”
+
+Ryce leaned back. After a strained moment, he managed to say, “May I ask how a high-born lady—a virgin, presumably—would even know that word?”
+
+“I read.”
+
+“What do you read?”
+
+“Mr. Gray’s Anatomy, Descriptive and Surgical.”
+
+Penn shook his head; it was a slow, wary movement. “It’s a terrible thing when a woman takes to educating herself.”
+
+Despite her brave (and precise) claim, Penn saw her hands were trembling. She reminded him of a kitten—shaking with fear, but if backed into a corner, he had no doubt she would fight with everything she had.
+
+“Don’t worry,” he said. “I won’t hurt you—but you didn’t know that! It seems to me, you’re as careless with your life as I am with mine.”
+
+“I needed to know the truth.”
+
+“You know it. Now what will you do?”
+
+“I’m not sure.” She fidgeted with her skirt, then said, “What will you do, Mr. Penn?”
+
+“Me? Nothing.”
+
+“Nothing?”
+
+“Why should I do anything?”
+
+“But the insult—”
+
+“As I said, it’s no insult to be engaged to you. Your father tried to insult me, but I think I answered him fairly well.”
+
+“And you enjoyed every minute of it.”
+
+“I did.” Penn hopped down from his pile of flour sacks.
+
+Eleanor stood up. “But aren’t you the least bit curious who tried to use you?”
+
+Penn froze. Eleanor actually saw the master thief stop where he was as his mind spiraled off in thought. When he turned to her, there was a slight smirk on his face.
+
+“You’re a very clever woman, aren’t you, Eleanor Serrs?”
+
+“I’ve been accused of that,” she mumbled.
+
+“Well, I can’t tell what the next day will bring—if there is a next day—but for tonight, I’ll have to lay this matter aside.”
+
+“Why?”
+
+“My darling, you don’t seem to realize what you’ve done! A person who was not supposed to know how to find me has tracked me to my hideout. I’m going to spend the rest of the evening relocating myself and all my men.”
+
+“But I told you I came alone.”
+
+“I know, but you also strike me as a generally law-abiding woman, and I know that you’re in contact with the police. Unless…” He stopped at the door and turned. “I don’t suppose you’d be willing to give me some advice on how to pick a better hiding place?”
+
+Eleanor pressed her lips together.
+
+He pointed at her. “And that’s why I’ll be vacating.” He picked up the lamp.
+
+She lowered her eyes to the white-dusted floor. “I understand.”
+
+“If you need to reach me, there’s always the Quotidian Journal. I’m a regular reader. But I will have to ask you not to look for me again. You’re entirely too good at finding me.” He opened the door partway but halted when he heard her come up behind him. “Where do you think you’re going?”
+
+Her brows furrowed with confusion. “Home?”
+
+Penn chuckled. “Oh no. I’m sorry, Eleanor, but you’re staying right here.”
+
+“What? Why?”
+
+“I need time to make good my escape, and the only way to guarantee that is to keep the one person who knows where I am safely tucked away.”
+
+Now those brows knit down, and Penn guessed, rightly, that she was annoyed with him.
+
+“So much for all those endearing names,” she said.
+
+His hand swept out in a grand gesture. “My hertis rote!” Then he motioned to her with the same hand. “I seem to remember you saying something about risk.”
+
+“How long do you intend to keep me here?”
+
+“Hours.” He nodded to the sacks of flour. “You might as well get some sleep. I’ll be taking the light with me.”
+
+“So I can’t signal anyone?”
+
+“This is a mill’s storage room. It has to keep out mice. There are no windows, no space between the boards, and the door shuts tight in its frame. You can break your nails and waste your time trying to escape, or you can take my word for it.”
+
+“If it’s so secure, why can’t you leave me the light?”
+
+“Because you’re clever, and I, for one, won’t underestimate you.”
+
+“Then you’ll come and get me when you’re done moving?”
+
+He laughed. “Not a chance. But if you’re a good girl, I’ll send someone to get you.”
+
+He was halfway out the door when he caught sight of her angry face. It was almost as attractive as her smile.
+
+With puckish joy he called out, “Good night, my beloved!”
+
+He shut and locked the door. Since she was alone, Eleanor could indulge her temper by stamping her foot at Penn’s phantom. Then she felt her way back to her dusty bench.

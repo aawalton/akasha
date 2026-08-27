@@ -1,0 +1,115 @@
+---
+id: d385c879-2265-5dbc-8a92-4940d12ca72c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 513: Awful"
+slug: 0079-chapter-513-awful
+partOf: rise-of-the-living-forge
+position: 79
+ownLength: 1615
+unit: words
+ownProgress: 1615
+publishedAt: 2025-11-06
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2737796/chapter-513-awful"
+royalRoadId: "2737796"
+markedReadAt: "2026-06-29T20:00:57.733Z"
+---
+
+The echo of ringing metal rolled through the Infernal Armory. The Mesh might no longer have guided any of his strikes, but it didn’t even matter. The Nightiron was practically forging itself. Every strike of Arwin’s hammer just gave it the energy it needed to move.
+
+It was fascinating. The flaring energy from Caldera’s head flashed through the room like miniature fireworks, and Arwin’s consciousness homed in entirely on the task at hand. All the world faded away.
+
+Even his sense of self melted. There was no Arwin. Only the conglomerate of himself, the Infernal Armory, and Lillia — and the metal that they were helping into the shape that it had always been meant to hold.
+
+One strike after another layered the metal, sending the twisting river of power flowing into the Nightiron to infuse it. They’d already added Rodrick’s hair to the mix. A large portion of the magic they were using was going into avoiding accidentally burning the hairs to crispy nothingness. The materials couldn’t just be smacked together.
+
+For the core to take proper form, they had to truly merge.
+
+The metal’s connection to Rodrick grew stronger with every strike. Even though the man wasn’t here to directly lend himself into its creation, the hairs that Anna had donated were enough. All the energy flowing into it from Arwin, Lillia, and the Infernal Energy was more than enough to bring it to life.
+
+Arwin worked the metal until it was ready, folding it and Rodrick’s hair together until the two were indistinguishable from each other. Their essence became one and the same and their songs melded together.
+
+He then set Caldera to the side and added the gemstone to the core. Using the black flames roaring in the hearth beside him, Arwin worked the metal with his hands. He molded it around the gem like he were forming a round ball of dough.
+
+His fingers tingled at the intensity of the magic contained within the small core. This might not have been the most powerful weapon he’d ever made, but it was still the core for a Soul Weapon. The amount of magic within it put pretty much any normal weapon to shame.
+
+If he were to drop it and the magic was expelled before it could settle down — well, Arwin decided not to let his thoughts drift in that direction. Every shred of his focus was needed to make sure his song didn’t falter.
+
+He kept working the metal, filling it with every scrap of power that it could hold from the river pouring through him. Arwin listened intently to the songs layering through his mind. Every single tiny adjustment he made to the core was a different note — and he wouldn’t be done until all that remained was a perfect harmony.
+
+It was hard to say how long he spent working. There was no room in his mind to consider such things. But slowly, surely, the layers of magic settled in exactly how they wanted to be. They found their home within the core. No imperfection remained.
+
+Arwin soon pulled the results of their work from within the hearth, smoothing over the exterior of the core until it looked like nothing more than a black, palm-sized pearl.
+
+A faint pulse beat within the core, so soft that he could have easily convinced himself that it was entirely within his head. But the rush of freezing energy that poured through Arwin’s body like an icy shower was unmistakable.
+
+[Nightshifter Core] has been forged. Forging a magical item has granted you energy.
+
+Power flowed into his body, gathering within his soul. The core was finished. Arwin waved the glowing words away from his face before they could have a chance to pull him out of the flow state.
+
+They were still far from done.
+
+He didn’t even have to say a word. Even though he could feel weariness pulling at his body, he still had strength. And so did Lillia and the Infernal Armory. The hard part was complete. With the core done…
+
+All that remained was to finish its housing.
+
+A black tendril coiled over to Arwin, bearing several large chunks of Nightiron on it. It only took him an instant to listen to their songs before he selected one of them and turned back to the pool of lava.
+
+There was still work to do.
+
+***
+
+Two stood uneasily at the edge of the room, staring up the sloping stone to the chair suspended in the thick beam of pure Mesh. Golden light pierced into his eyes and forced him to squint, and his heart pounded in unease.
+
+And upon the chair sat Rodrick.
+
+It had only been days since the man had arrived. But, against all the rules that Two himself had set, he had brought him to the Leyline. Arwin and Lillia were one thing. Rodrick might have had training unlike any of the people that Two had ever brought to this place… but that didn’t much relieve the worry burning at him.
+
+In fact, it was Rodrick’s training that was causing half of his worry. Two had never even thought something like this could be possible. But there was a very good chance that Rodrick was actually overly prepared for the Leyline.
+
+Arwin and Lillia were already broken before they came here. That’s why the Mesh didn’t have to break them again. The damage to their souls was already there, so it just had to pull everything back into the right shape. But everyone else must be broken down in order to be rebuilt. And what manner of trial would be powerful enough to break a man with training like Rodrick? How much will he have to go through? Can a human even survive such a thing?
+
+The only answers resided only in the future. None would bear themselves to Two until it was too late for him to do much at all. His jaw clenched and he resisted the urge to pace back and forth.
+
+Rodrick had been sitting upon the chair for just over an hour. The man’s expression hadn’t flickered even once since he’d sat down, but Two could see the stiffness in his hands and the way his fingers dug into the stone beneath them like he were trying to scoop it apart.
+
+“He’s taking it well,” Eleven said from behind Two. “You brought him here way faster than I thought you would. What happened?”
+
+“He was more prepared than I was,” Two muttered, not breaking his line of sight with Rodrick. He would have to be fast if something went wrong. Very fast.
+
+“Is that even possible?” Eleven asked in surprise. “I thought you worried about everything.”
+
+Two just put his hand on Eleven’s head, barely even paying attention to their conversation. His attention was too focused. Her eyes widened in surprise, but she didn’t pull away.
+
+And there the two of them stood.
+
+Time slipped by.
+
+Rodrick remained within the Leyline. Beads of sweat rolled down his face and soaked into his shirt. His fingers trembled. But he didn’t move. He didn’t stand, nor did the strength leave his body.
+
+It was impossible to tell if he was actually succeeding in his task. The only person who knew that was him. All Two knew was that Rodrick was still fighting. And so long as he fought, Two could do nothing but watch and hope.
+
+“How long has it been?” Eleven asked.
+
+Two nearly jumped at the sound of her voice. He’d almost forgotten that there was someone else there with him. His hand was still on her head, but he’d been so focused and she’d been standing so still that he’d completely lost track of her.
+
+“I don’t know,” Two said. His voice felt dry. “Hours. Maybe 5? His resilience is ridiculous.”
+
+“You’re sure he isn’t dead, right?”
+
+Two grimaced. “Yes. He’s still fighting. I don’t even want to imagine how painful the process must be for someone who is so incredibly resistant to pain. But the System needs to tear down so much that I have no idea what to expect. Just be ready to get—”
+
+Rodrick’s eyes snapped open.
+
+He drew in a sharp gasp, snapping upright with such speed that Two nearly leapt out of his boots. Rodrick staggered and took a step forward. It looked like he would tumble down the side of the raised stone for a moment — but before he could, Rodrick caught himself.
+
+It didn’t even seem like a conscious motion. His body just adjusted before he could fall. Rodrick stood still for a moment, staring off into the distance as if blind. Then his gaze flicked down to Two and Eleven. Shimmers of gold spun through his eyes like trapped flecks of sunlight suspended floating through an icy river.
+
+Rodrick stepped forward. He slid down the side of the twisting hill and came to a stop near the entrance, swaying and catching himself before he could trip over his own feet. Then he rose to his full height before them. Exhaustion and pain were clear in his posture — but he didn’t fall.
+
+He did it. I can see it in his eyes.
+
+“That was awful,” Rodrick said through a clenched jaw. “Now what?”
+
+Two wiped his surprise away. There was no time for it. He just looped his arm around Rodrick’s back to make sure the man couldn’t fall on his face. Eleven took his other side. Rodrick had succeeded with the hardest part of the process.
+
+“Now,” Two replied as the three of them started off at the hall at a brisk pace, “You Sunset your class.”

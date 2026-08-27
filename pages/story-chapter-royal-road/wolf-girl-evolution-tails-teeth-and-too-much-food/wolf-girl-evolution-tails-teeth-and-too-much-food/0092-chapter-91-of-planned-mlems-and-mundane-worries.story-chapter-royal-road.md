@@ -1,0 +1,369 @@
+---
+id: 12f76994-3408-5af4-bc68-1f5eb5437b09
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91: Of Planned Mlems and Mundane Worries"
+slug: 0092-chapter-91-of-planned-mlems-and-mundane-worries
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 92
+ownLength: 1870
+unit: words
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2985442/chapter-91-of-planned-mlems-and-mundane-worries"
+royalRoadId: "2985442"
+---
+
+PoV Adventurer
+
+Location: The Western Altracian Plains, near Forest of Aeon
+
+Adventurer work was rarely fun.
+
+It wasn’t always dangerous, either.
+
+In fact, many requests were simple. Boring. Sometimes so easy they almost felt insulting. But for all that, adventuring never quite crossed into the territory of a regular job.
+
+Too many variables.Too many teeth.Too many things that could go wrong or nobody else was ready to do.
+
+Take their current task, for example.
+
+Vartic leaned on his spear and watched the two workers move carefully between the rocks, chisels tapping with slow, practiced rhythm. Tap. Scrape. Tap. The sound carried farther than it should have in the open air.
+
+It always did.
+
+The crystals grew in clusters here, faintly glowing veins threading through stone that looked otherwise unremarkable – huge slabs of dull grey scattered across this part of the plains from who knows what sort of cataclysm. Or perhaps something massive had once rolled through and forgotten them behind.
+
+From a distance, it all looked dead and flat.
+
+Up close, it hummed.
+
+Apparently, the rock here both was and wasn’t special. Mundane, but somehow tapping into ley lines. Something about resonance. And about how the crystals “liked” the place.
+
+Vartic had stopped listening halfway through the explanation.
+
+All he really knew was that the crystals grew here, slowly but reliably, and that people paid for them just enough to make the trip worthwhile.
+
+Glassworkers liked them.Alchemists used them.Enchanters needed them.
+
+Though… in small amounts only.
+
+Not enough to justify a permanent camp.
+
+And certainly not enough to justify settling out here.
+
+Largely because of the monsters.
+
+It wasn’t that the area was especially dangerous.
+
+Most of the creatures that wandered through were low level. Annoying, more than lethal. There were some things that burrowed. Some that hunted in twos and threes. Things that would never go near towns but liked the open plains well enough.
+
+Individually manageable.
+
+Collectively exhausting.
+
+Vartic shifted his weight and scanned the horizon again. The plains rolled outward in gentle waves, grass bending lazily under the wind. Peaceful, if you didn’t know any better. Big rocks broke the line of sight in awkward places, casting long shadows that made the hand inch closer to a weapon.
+
+Far from town.Far from help.Close enough to trouble.
+
+That was always the balance.
+
+If the crystals were worth more, or needed in larger amounts, someone would have built walls by now. If the monsters were fewer, someone would have tried farming the place. But it sat in that perfect middle ground where neither side quite won.
+
+So instead, there were escort missions.
+
+Short-term harvests.Quick jobs, few days at most.
+
+Go out. Guard the workers. Drive off whatever wandered too close. Come back. Get paid.
+
+Simple.
+
+And because of that–
+
+Endless.
+
+He exhaled slowly and adjusted his grip on the spear, eyes tracking a patch of grass that bent a little too unevenly in the wind.
+
+Probably nothing.
+
+It usually was.
+
+It was simply just another day. Another stretch of plains. Another pair of eyes watching for movement that might or might not come.
+
+Adventurer work always found a way to exist.
+
+Even when it didn’t look like it should.
+
+And why was Vartic complaining about such things now?
+
+Well. There really wasn’t much else to do on watch duty.
+
+He stood atop one of the largest rocks in the area, boots planted wide for balance, spear resting easily against his shoulder.
+
+From up here, the field of vision was excellent. Grass rolled outward in every direction, broken only by scattered stone and the distant dark line of the forest.
+
+Perfect for spotting trouble.
+
+Yet terrible for passing time.
+
+His eyes swept the horizon in a slow, practiced rhythm. Left. Right. Pause. Repeat. His mind wandered anyway. It always did, eventually – especially when nothing happened for long enough.
+
+And lately, nothing felt duller than this.
+
+The excitement of the past few weeks had ruined him for quiet jobs. Syliana’s party alone had been enough to keep the guild buzzing. Their arrival to tackle the corruption spreading through the forest. The preparations, the rumors, the tension that settled over the hall like a held breath.
+
+Then their return, barely a week later.
+
+Triumphant.
+
+Normally, that would have been the talk of the town for days. Feasts. Drinks. Loud retellings that grew more exaggerated with every telling.
+
+Instead–
+
+Luna happened.
+
+The little Wildling girl had somehow managed to eclipse even that.
+
+Vartic rubbed absently at the fading bruise on his thigh, the memory drawing a soft snort from him.
+
+She truly was a force to be reckoned with.
+
+Painful.Humbling.Exhausting.
+
+But also… good training.
+
+The last time he had leveled a skill had been months ago. A slow crawl upward, barely noticeable, earned through repetition and patience. Then Luna had shown up, and her pure enthusiasm and momentum with absolutely no sense of restraint shoved him past his limits again and again.
+
+Which got him two skill increases.
+
+In mere days.
+
+The stories really didn’t do the Wildlings justice.
+
+He smiled faintly.
+
+But they also glorified them too much.
+
+Luna was alright. Dangerous, sure – but certainly not malicious. Just… intense. Like a storm that didn’t realize it could knock things over.
+
+And–
+
+Movement.
+
+His smile vanished instantly.
+
+Vartic leaned forward, eyes narrowing as his focus snapped into place. His skills kicked in, sharpening the distant blur into defined motion.
+
+Animals.
+
+Boar. One. Two. Five.
+
+Deer.
+
+Too many.
+
+And then–
+
+Monsters.
+
+A mixed group. Scattered. Disorganized. Shapes that didn’t belong in the open plains, spilling from the forest’s edge in uneven bursts.
+
+All easy kills, individually.
+
+But–
+
+Monsters didn’t just enter the plains like that.
+
+His grip tightened on the spear.
+
+That meant trouble.
+
+“Gather everything up!” he shouted, voice carrying across the plains. “Monsters from the forest! We are leaving!”
+
+Below, the workers startled. Tools clattered against stone as they scrambled to obey, hands shaking as they abandoned careful extraction for survival.
+
+His team moved instantly, training taking over as they closed ranks, helped pack and haul everything, and began ushering the civilians toward the path back to town.
+
+Vartic kept watching.
+
+More shapes burst from the treeline.
+
+Too many.
+
+And then–
+
+The first of them appeared.
+
+An ant.
+
+A damned ant monster, chitin gleaming dully in the sun as it skittered forward with unnatural speed, mandibles clicking as it tasted the air.
+
+His jaw clenched.
+
+One ant meant–
+
+Two more emerged.
+
+Then three.
+
+Then more, the ground seeming to crawl as they poured out in a dark, moving wave, antennae twitching in frantic unison.
+
+“We’ve got a damned ant surge on our hands!” he yelled.
+
+Vartic didn’t wait for acknowledgement.
+
+He vaulted down from the rock, landing hard and already moving as the group broke into a run. The plains rushed beneath their feet now, grass whipping past as distance vanished far too quickly.
+
+Everything would be fast now.
+
+Too fast.
+
+Escorting civilians while outrunning monsters was never clean.
+
+And ant surges were never something you handled alone.
+
+This had to be reported.
+
+Give them time, and their numbers would swell beyond anything a small team could handle. Left unchecked, they chewed through land, resources… and people.
+
+He glanced back once, breath sharp in his lungs as the first shrill clicks rose far in the distance behind them.
+
+“…And here I was complaining about the job being mundane.”
+
+Now they ran.
+
+Plains blurred. Shouts rang out. Monsters spilled from the forest behind them.
+
+Vartic would very much like his boring day back.
+
+***
+
+PoV Luna
+
+Finding Second was quite easy!
+
+It just took Luna a long time.
+
+Because there were so many more things to see on the way.
+
+Honest!
+
+She might have – maybe, perhaps, perchance – also spent a little too much time frolicking around and climbing random buildings as she went.
+
+But that was important exploration!
+
+Very important.
+
+And fun!
+
+Very fun!
+
+The humans who noticed her gaped up at her all silly-like when she popped up on rooftops or waved from places she absolutely should not have been standing on.
+
+One kid pointed at her. A few people shouted. And one older lady nearly dropped a basket in surprise.
+
+Silly humans!
+
+Seeing the world from up there made everything make more sense, too. Streets felt like they connected better. Smells flowed differently. And interesting places stood out more clearly, new paths just waiting to be followed.
+
+Luna would absolutely have to mlem Trianna a thank-you later for showing her the glory of high ground!
+
+Definitely.
+
+All of that did make Luna a little bit…
+
+Late.
+
+Perhaps?
+
+But Second didn’t know Luna was coming anyway, so that was fine!
+
+You couldn’t be late if no one was waiting!
+
+Right?
+
+And now Luna stood in front of a door where Second’s scent led into.
+
+She sniffed.
+
+…and sniffed again.
+
+It smelled of many things.
+
+Some nice. Some spicy. Some sharp and green and promising.
+
+Others–
+
+Awchoo-itchy!
+
+Woooo….
+
+Her nose twitched violently as her ears flattened a little. That was a lot of smells. All together. Thick. Concentrated. Like the air itself was made of plants.
+
+Luna hesitated.
+
+Just a moment.
+
+Then she opened the door.
+
+Inside, Second was there, talking with a kind-looking granny. The room was full of shelves and jars and bundles of dried things hanging from the ceiling.
+
+Everything smelled even stronger in here, layers upon layers of leaves and roots and powders.
+
+They both looked up as Luna entered.
+
+“Second! Luna came to play–”
+
+The scents hit her all at once.
+
+Her eyes watered immediately. Her nose burned. Her thoughts scattered like startled birds. She squeaked, half-blind, tail fluffing up as tears spilled over before she could stop them.
+
+“Oh dear,” the granny said at once. “Here, wait a moment. I have something for that.”
+
+She bustled off and returned with a moistened cloth, holding it gently up to Luna’s nose.
+
+“Now, inhale.”
+
+Luna sniffed.
+
+Coughed.
+
+Sniffed again–
+
+…and then it stopped.
+
+“…Huh?”
+
+The smells dulled suddenly, like someone had turned them down. Still there, but softer. Manageable. Her eyes blinked as the burning faded away.
+
+Before Luna could say anything else, the granny dabbed gently at her cheeks with a soft handkerchief, wiping away the tears.
+
+“All good now, little one?”
+
+Luna nodded, suddenly shy, ears flicking back as she clasped her hands together. Second was already beside her, fingers brushing gently through her hair in calming pats.
+
+“…Do you have some of that potion to spare?” Syl asked the granny. “I would like to buy some.”
+
+“Oh, it’s not a potion, really,” the granny replied with a chuckle. “Just a herbal mixture this old lady uses to help those with more sensitive noses. I will add it to your purchase–”
+
+But Luna wasn’t listening anymore.
+
+Because Second just went and picked her up.
+
+Without warning!
+
+Syl finished speaking with the granny, then shifted her full attention to Luna. Then she brushed her thumb softly along her cheek, while settling her more comfortably in her arms.
+
+She smiled.
+
+“So,” she asked gently, “how was your day, Luna?”
+
+Wooo….
+
+Unfair!
+
+Capturing Apex Predator Luna in a moment of distraction!
+
+But the embrace was warm. Safe. Nice.
+
+Luna’s tail wagged.
+
+She would allow it!

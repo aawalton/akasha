@@ -1,0 +1,229 @@
+---
+id: 893b1aba-ad26-51ce-886e-30f4ce9f9d10
+page-type-slug: story-chapter-royal-road
+title: "350 The Truth Without, The Lie Within"
+slug: 0461-350-the-truth-without-the-lie-within-3359424
+partOf: path-of-the-deathless-book-4-completed
+position: 461
+ownLength: 5424
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3359424/350-the-truth-without-the-lie-within"
+royalRoadId: "3359424"
+---
+
+Self-deceit is a poison flavored to the sweetest of nectars. Most of our worldviews are improperly shaped. We wear so many lenses and see the world through so many tints that the truth is far and distant, even though we live amidst reality. The same tints are layered inward as well. We are taught to understand ourselves through the world, through the union of how other people perceive us and the consensus of who we think ourselves to be. But even this is not the truth. Even this is the sweet lie.
+
+And over time, the poison known as self-deceit will cause cracks to form in your worldview. For the lie cannot bear the enormity of the truth, and so, between the cracks, you will see things that do not conform to your understanding that you must reject. Otherwise, what else is false about your notions of the world? What else is wrong about the shape you perceive around you? How do you live if all around you is put into question? What a burden that must be! What a strain! What a great struggle!
+
+But if you wish to be a true practitioner, you must seek the truth. You must. Even if you maul yourself, you must heal and scar, and then shed those scars to seek things as they truly are, lest you develop the terminal condition of hypocrisy.
+
+Before a Walker of the Tripartite Way, all lies are weapons to be rendered against you. For that which unbalances your mind and destabilizes your heart can be expressed upon your flesh, and the other way around. Every flaw of the spirit you possess will be expressed in your totality, all three aspects mirroring one another. And the lie within is deceitful and clever, as clever as you can be. A powerful body might mask a crippling insecurity, a doubt instilled by a figure once respected, now a shadow of scorn—for no one can wound you deeper than a parent or a beloved mentor. And just the same, no one can bestow upon you undue arrogance, causing the very same outcome.
+
+But though the origins of the lie within might be different, the symptoms expressed and the weaknesses they form are always fatal.
+
+For should someone who uses the truth as a weapon face you with a brittle heart, a brittle mind, a brittle body, then your fate is sealed.
+
+Time's entropic touch will see you broken, and so will someone who walks the Tripartite path.
+
+There is no eternity for a flawed pillar. There is not even longevity.
+
+And so, Pathbearer, sculpt thyself. Deface thyself to remove what has already been defaced and to replace the rotting structures with substances of truth and true strength. Ignore these words at your own peril, and know that the choice to do nothing is tantamount to suicide by the passage of time.
+
+—Legend-Philosopher Melaia Kelhaus
+
+350
+
+The Truth Without, The Lie Within
+
+Shiv's words seized the Usurper-Narrator, binding her in chains wrought from the flames of her own heart. The enkindled fires coiled around her, draping over her body like a heavy, festering shadow.
+
+Evanescia's imbalance came in three parts: Physically, she was cracking beneath the strain of her warring insides. Her mind was the strongest portion of herself, resolute and aware of all the risks that lay ahead, but her heart was deprived, dehydrated of true passion and yearning for the meagerest of sips so that she could breathe a hit of effervescence back in her withered soul.
+
+She had been bestowed great duties, likely by her creator, Udraal’s mother, Valor’s lover, but the Usurper-Narrator had developed her own character as well. She had her own wants. After what must have been eons of simply watching and living in someone else's skin, she wanted her own role. Her own story, a chance to finally take center stage as Evanescia, not anyone else.
+
+“I can't…” The words escaped her with such strain that her silhouette responded. Another portion of her broke. Her hip became disjointed as the traces of her structure that lined her outsides were now plunging inward. If she were a person, something within her flesh and bone would have been run through by the substance that formed her contours. “I have a duty to the Grand Design. With the three of you here, the Watchtower's completion is almost at hand. I can't let you go. I can't.”
+
+She wanted to say something else, but the words never left her, because if they did, Shiv suspected, that would give them too much power, and she might become undone in full. “Look, I get it, Evanescia, you got a lot riding on your shoulders. You got a lot of weight there. I know you don't really mean to torture people. If that's a byproduct of the story, fine, you'll just let it happen, but it's for the sake of the narrative. I know you're not a cruel psychopath. I know that you're not just doing this for monstrous desires. You're not like Longinus. But what I want to get is why. What is this Grand Design? Actually, if you can't tell me that, tell me why you can't risk losing us.”
+
+But the Usurper-Narrator was still hesitant, still reluctant to give anything away. Her mind clung hard to the rest of herself. It formed a translucent veil around her emotional core. Yet the stuff of her insides that compelled her to feel and savor stories was leaking out between her every crack and crevice. That vulnerability incensed Shiv. She had a duty to enforce, but her heart was tearing her apart. It was dragging her in direct opposition. In this moment, he was simply a whispering shadow on her shoulder, just as the enkindled flames were; she was her own true antagonist.
+
+"And fittingly so, because we certainly don't have the power to break her ourselves," the Harbinger admitted without shame.
+
+And it was then that Shiv realized just how threatening a skill Harbinger of Tripartite Ruin was. Everyone lied to themselves in some way. Everyone had higher goals that clashed with baser wants. And it wasn't even duty that set heart and mind at odds. Shiv wanted to throw himself at Longinus. He wanted to torture the Wanderer until he was broken beyond breaking, until all the pain he'd inflicted on the world, and Georges in particular, was turned back on him. But brute force wasn't Shiv's ally, and if he acted as he was, without the guidance of his mind, balanced by only the rushing torrent of his heart, then he would have died completely and truly at the hands of a most disgusting adversary.
+
+Instead, Shiv had mastered his emotions, had grappled with his own rage and frustrations to engineer his desired outcome. Evanescia's pent-up want was immense—and he could see that in the blackened flames inside of her. The sheer amount of emotion she felt, the intensity at which it burned, made Shiv's righteous anger pale in comparison. She wasn't just more powerful than he was in terms of skills and mana.
+
+Her heart boiled with emotions and desires far greater than Shiv had ever felt and might ever feel, and her mind was so complex it stole his breath to even glimpse at, countless thoughts and considerations running in tandem. Shiv might as well be an intellectual insect beside her.
+
+But this wasn't him pitting all he had against all she was. This was him redirecting the parts of her that were already loose and yearning to slide free.
+
+“Evanescia, what kind of villain would I be if I can't inspire any kind of development in you? You don't need to betray yourself or ruin whatever it is you were made for, but there has to be a threat. There has to be. You know I'm right. You can see I'm trying to help you and trying to help myself as well.” He threw his hands up in an expression of genuine exhaustion, wielded the truth of his own emotions to fan the embers of the lie that was beginning to build inside of her. The lie that if she just indulged this once, if she read and played along, she wouldn't lose control. “If I wanted to hurt you, I would have kept going. I would have kept cracking you. I would have kept trying to make you break apart. You know how this skill works better than I do. And I know you're more powerful than me.”
+
+Her mind stilled. She looked at him, and her self-enforced struggle briefly halted. “You openly admit to manipulating me?”
+
+Shiv felt Adam's breath hitch, felt the Culturist tense inside of him. But the Deathless wasn't worried; this was calculated as well. He needed to take these risks and perform these less-than-optimal actions and say words that highlighted the danger of the skill so that she might be convinced that he wasn't trying to harm her, at least not directly. The moment the damage went too far and she was reminded that he was a genuine threat was the moment this path to survival and escape would be closed forever.
+
+And I can't let that happen. Shiv's mind was resolute about what it had to do. It guided every aspect of him toward one goal: the infiltration and subversion of Evanescia's psychology and emotions.
+
+“Yes,” he said, loud and proudly, without a hint of worry. “I am trying to manipulate you. I am trying to get you to talk to me so we can understand each other. We can't be enemies because there's no fight to have, right? You trapped Longinus here for how many seasons, how many cycles? And you probably accelerated his experience of time too. What did he do to piss you off? Try to break out one too many times, ruin your narrative one too many times?”
+
+Evanescia didn't say, but her heart let out a coronal eruption of aged anger. The feeling was dulled, but the annoyance and genuine distaste she held toward Longinus were true. It was only balanced by how fascinating she found him, how often he became useful as a villainous figure in her many stories.
+
+“Yeah, that's what I thought. I see how he makes you feel, and however you feel about him, know that when I feel even worse, he works as an antagonist. He works as someone I hate and want to hurt. He works. But ask yourself: do I work the same way?”
+
+“You can't,” Evanescia admitted.
+
+“Right, because our natures and characters are too different. But it doesn't need to be the same, right? There are different kinds of tension, right? And you don't need to hate your antagonists, right? You just need to be opposed to them. I'm opposed to you because I want to get away, and I want to get away from your Grand Design. But we can still work together on this.”
+
+“I can't risk it. I cannot risk letting you go. You, the Paragon, or the Seeker.”
+
+“And why not? Why can't you risk that? Tell me. You don't even need to explain to me in detail. Just tell me what I threaten so that I can properly threaten it, and you can properly protect it.”
+
+“It's your Path. It's your nature. It's what you can provide. You do not die. The System doesn't get to reclaim you, and the strife that burns inside of you, it burns ever brighter. It combusts exponentially with every subsequent demise you experience, each feeding the Flame.”
+
+“The Flame?” Shiv didn't understand. “What flame?”
+
+But where he was lost, Adam wasn't. “The Broken Watchtower. The Flame at the Heart of all Things. Remembership. When the hands connected to the clock face were aligned, the Flame swallowed you and Uva. It missed me. She was feeding our inherent strife into it. She's using it to power the Fairwoods, even now. It's become like a renewable engine for this place. One that practically sustains itself. One that causes this strife to spread through all the Fairwoods.”
+
+And with Adam's epiphany, the Culturist's heart grew cold with genuine dread. “Why the Fae don't die is because they're held in a perpetual balance of mana—attuned and not. They are effectively constrained to this place. They cannot grow in terms of powers or skills here, lest this entire place come apart under the encroachment of entropy. But with you here…”
+
+The Legendary orc's horror proved contagious. With how fast Shiv grew, with how much the System rewarded him, just how much mana was he generating for the Fairwoods? Just how many new Fae were going to be born to him? Born to Adam or Uva, if they were all fully consumed by the Watchtower?
+
+“It's worse than you think,” the Culturist said, guessing his thoughts. “I can feel the ambient magic staining this world. Everything here is formed from the purest distillation of stories, but the stories have been growing. I taste the mana grow denser. I've seen patches of land spread out between loops, evolve, and transform. The stories themselves are evolving. The dimension is expanding; the Fairwoods are growing larger.”
+
+“So what?” Shiv asked. “It's going to be harder to escape? Is that what you're saying?”
+
+“No. What I am saying is that in the end, after enough mana is accrued, there will simply be no place left to escape to.” The Culturist fell silent, formulating his thoughts before continuing. “Has Valor told either of you much about his former love?”
+
+Both Shiv and Adam fell silent at that question.
+
+“Valor couldn't remember much before,” Adam muttered. “He was in pieces, and his memories were fragmented as well.” He tried to think of anything substantive, but failed to recollect even her name.
+
+“Just as well,” the Culturist whispered. “It's not my story to tell, and it feels ill to give away another person's pain—especially that of an esteemed elder’s. But there is something beyond that: Silence Valeros did everything she could to live up to her namesake. I have read notes left by her son and what other works speak of her. Valor’s Stealth was Legendary, but he was never very circumspect. When he did something, you would hear of it, and it would cause ripples across Integration. Not so for Silence. Her work as a historian of the Pre-Integration and as an Animancer, one seeking to recreate and reconstruct the nature of a soul, was beyond pure, but she wanted none of the credit.”
+
+“But wasn't she working together with Valor on whatever they were doing?” Shiv asked. “There's not exactly anyone out to get people who want to overthrow the System, is there?”
+
+“It goes further than just this. Silence loathed any and all undue attention—and those who broke her privacy found themselves meeting their ends as a result. All except one: Valor himself. But though she worked with Valor on a few things, her true co-conspirator was her son. And from what has been recovered of his notes, she was circumspect with even him. The fact that no one knew anything about the Usurper-Narrator's existence or this broken Watchtower is not unexpected. It's by design. What this design is, however, I can only guess at. Considering Silence was united with Valor with regards to the preservation of everything, then I have to suspect that the broken Watchtower was installed post-hoc, that the Usurper-Narrator is meant to be its custodian, and that the Fairwoods have been converted from a looping seasonal set of stories meant to be in perfect equilibrium to an eternal archive for all individuals and monsters to eventually be encompassed by the Fairwoods. This dimension is a mechanism for forever. A potentially superior mechanism to even you, Deathless. At least, in some form.”
+
+For that, however, the Harbinger had a counterpoint. "That depends. Are the people who live through each loop just copies of the ones that came before? Or are they actually brought back?"
+
+The Culturist considered the Skill’s words. “This I cannot say, and I have my own criticisms for the design as well, namely the stagnation. Of course, it needs mana injected from the outside. This place has been run dry of genuine strife—everything that is happening right now is enforced and arranged by the hidden hand of the Usurper-Narrator. And it seems like Silence’s vessel, meant to continue maintaining her Grand Design, has also been eroded to a point of near-traitorous desire to be part of a story herself. Which begs the question: Why did Silence create such an individualistic custodian? The Watchtower would be better served by a simple, unfeeling mana construct.”
+
+Shiv frowned. “But something that doesn't feel or find significance in things can't gain any enjoyment from the story. And maybe that's just the problem.”
+
+“The Watchtower needs fuel,” Evanescia said, breaking her silence. Something inside her shifted. The enkindled fire—that emotional shroud shaped to be her antagonistic mirror—clung tighter to her, burned away her silhouette, and replaced it with a frame of glass. A part of her mind had succumbed to weakness, and with that, reluctant honesty spilled forth. “You are that fuel. You are a source of endless strife. No matter how many scenarios I put you through, you're not a copy derived from yourself. You are the original, and with vitality, you return. An endless resource. A means to see the Grand Design finally made complete.” Her voice hitched as she let slip a final admission. “And the only way the Fairwoods evolves beyond being a cage of stories, and becomes something that can blossom.”
+
+“Blossom across worlds, you mean,” Shiv shot back. She didn't confirm his suspicion verbally or mentally, but she didn’t have to. So she does intend to spread the Fairwoods across worlds. Felling shit, Valor, is there no one in your family that isn't a reality-collapsing psycho?
+
+The Harbinger hummed. "Be mindful of how you speak of your ontological grandmother."
+
+My what? What does that even mean? What the hell is ontological?
+
+“I believe it means relating to your existence,” Adam explained.
+
+Harbinger, the fuck—you’re mocking me with words I don’t know? Right now?
+
+"You will know them," the skill replied—and made it sound like a threat.
+
+“Okay, okay, alright.” Shiv shook his head and rubbed at his face. This entire affair was getting too messy for his liking. “So you don't want to risk losing me because the Fairwoods might run out of fuel. Fine. I get that. But haven't I already been burned?”
+
+“Your integration is incomplete, and it seems to refuse to complete itself,” Evanescia answered. “Your Unique Skills refuse to be assimilated, and your original body—”
+
+“My what?”
+
+“—cannot be copied. But you have been marked by the Flame of the Watchtower. So long as you remain within the dimension, I can find you and call upon you.”
+
+“And insert yourself over me?” Shiv guessed.
+
+Evanescia shook her head. “No. Not until you are completely one with the Narrative Flame.”
+
+Shiv was beginning to see her worries—even if the entire thing made him sick. Everything devolves into a giant godsdamned enslavement engine. Longinus and the Boiling Toad, Evanescia and this place, the Vultegs and Scorn.
+
+His grudge against the divine aside, Shiv was beginning to see Evanescia's problem. If he escaped, then the Fairwoods would go back to being what they were. They would lose their newly gained source of reliable and renewable strife, and that would cause the Grand Design or whatever to come to a halt. She'd called it an evolution. The Fairwoods were changing and, as the Culturist suspected, likely branching out.
+
+Shiv imagined this dimension of stories spreading to consume Earth. I guess that can seem like a kind of immortality, but being trapped in a series of unending loops for the rest of eternity to entertain an extremely lonely and mentally malnourished bookworm with infinite power is no kind of forever to enjoy. I can't reject her directly. Or tell her that the Watchtower is unlikely to consume me. If even I can't find my Unique Skills and cut them out using my aura, I don't think the Watchtower's fire is going to find them either. It seems like Udraal created something beyond the understanding of his mom in me.
+
+He sucked in a breath. “Alright. A slight pivot to the strategy, guys. I'm going to convince her that I want to stay here, that I don't want to escape for good. Her biggest worry is that I'm going to run away and make this all pointless. But if I can get her to trust me, if I make her think that I'll come back no matter what, then the risk to the Fairwoods is limited. She already wants to betray herself. I just need to give her a reason, a little push, so that she goes over the edge.”
+
+“Well, if you're worried about me leaving and not coming back, I think you need to put those worries to bed, because you got something I want for good, and I'm not leaving until I get him back.” Shiv looked in the direction of Longinus, or at least where the Wanderer used to be. He did that to indicate what drew him here in the first place: Georges. “I don't know if he's a clone of the original. I don't know how he got out of the Fairwoods and how another version of him is still here, but Longinus doesn't get to keep him. Longinus doesn't keep torturing him. I'm getting him out, even if this is just a shadow of Georges. I'm getting him out.”
+
+“But even should you best Longinus without destroying the Avatar completely, even if you managed to save him, to separate him from the Wanderer, what then?” Evanescia questioned.
+
+“Well, I'm still gonna have to come back here. He's tied to the Watchtower, isn't he? He can't leave the Fairwoods without your allowance, and even if he does leave, since he's been fully assimilated, what happens when the next narrative cycle starts?”
+
+Evanescia studied Shiv with rapt attention. “For his case, he is drawn back here, back into the embrace of Longinus. And all the work you did to free him will become undone once more.”
+
+Shiv really didn't want to hear that, but he'd also expected it. “See, there are my stakes. I want him back, and I'll do just about anything to get him out from under Longinus and away from you, and so long as you have him, I'm not gonna stay gone. I can't.” And Shiv performed another calculated risk—he turned the power of the Harbinger on himself. He used his Legendary skill to target his mind, to gouge at his skull. A patch of his face turned to glass, and it cracked, letting droplets of blood ooze free and exposing the tissues beneath.
+
+His rationality told him it was a fool's errand, that this might not even be his Georges, that this Georges had no memory of the times they shared together, that he had no idea how to break Georges away from Longinus, let alone Evanescia's greater power.
+
+But the knowledge possessed by a mind never changed the desires that propel the heart. He was imbalanced in this. And he made it known, obviously, by blood.
+
+“Shiv, what are you doing?” Adam cried out in alarm.
+
+But where the Paragon was horrified and confused, the Culturist understood, and he let out a laugh of grim affirmation. “A calculated act of self-mutilation. I salute you, Deathless. She might well do too.”
+
+The orc's predictions proved true. Evanescia took a step back, and her empathic core cleared in a burst of surprise as she stood witness to Shiv's resolve. The ground she gave was claimed as Shiv took a step forward. He pointed at himself. “No lies here. Just painful truths. We're both betraying ourselves. Here's an offering of my imbalance for everything I got out of you earlier.” The smile he offered was not feral but cold, calculated, and provoking. “And right now, I dare say that I'm closer to being your villain than ever before.”
+
+“I see it,” she whispered, her breath hot with tantalizing want. Not for him in flesh or in mind, of course, but the idea of him. The notion of an adversary who grasped her desire and wielded it against her, who was willing to crack himself to show his commitment.
+
+Here were the stakes. What they both wanted was to be placed on the bidding table and laid naked for the other side to see.
+
+Shiv raised his chin. “So do I. Now, let's change up this narrative arc. I raise my unwillingness to let go of Georges against your fear that I'll turn and walk away and never come back to the Fairwoods. I raise that, and I challenge you to stop my breakout. You bring Uva back to me. You keep yourself away from Adam, at least for now, and you let me try to escape. You try to stop me. And we will take this struggle from the Fairwoods back to Gate Piety, back beyond the Tutorial, back all across Integration. You can have your narrative arcs, and I can have mine, but you know I'm coming back no matter what. And time is on your side.”
+
+“But you know of me. You know of the Watchtower now, of my creator’s work. The risks I face—”
+
+“What about the risks I face? Or about what you might do to Georges? What you might make him suffer if I offend you? Which one of us is more fragile? Which one of us might break first?”
+
+“The Paragon—I must have him as well. He strides beyond my notice—”
+
+“And he makes me a proper threat to you. How is there going to be tension if you know where I am at all times? No. You want him like this. You want an ensemble of enemies. If you’re going to claim him, it shouldn’t be by brute force and blindly throwing power at your problem, but through a real, three-act victory.”
+
+“It’s what a hero would choose,” Adam said aloud, speaking from Shiv's heart. His mind grew softer as he added to that. “I would know, Evanescia. But you?” His words worked as a concurrent taunt and challenge, and Evanescia couldn’t help but be incensed.
+
+“The Seeker. Her Unique Skills are the only thing stopping her from her full integration into the Flame.”
+
+“And what storyline do you have her running that’s more interesting than her being involved in this escape? Come on. She can be a real threat to your world and you if you just loosen the collar a bit. Give her the right to choose what kind of story she wants to be a part of, and allow yourself to enjoy a bit of thrill while you’re at it.”
+
+With every word Shiv spoke, he learned a new lesson about himself, about other people, and about psychology and argumentation in general. Your own vulnerability could be made an advantage if you took hold of it with aggression. If you used it against your enemy. If you unbalanced them with what they should have exploited to unbalance you first.
+
+“Evanescia, if you don't take a chance, this goes nowhere. If you don't take a chance, you never get to live a story that's worthy of you or the Fairwoods. You're never going to be a hero, and you'll always be here, waiting and wondering, even as I live through loop after loop. And time cuts both ways. You'll get tired eventually. You will, even if the Fairwoods evolve. You will want to make that offer. You will want there to be a fight worth having. I'm telling you, spare yourself the suffering. Spare me the suffering. Let's do this now. Please.” He took another step and loomed over her, staring down at her with the gold-black eyes of the Harbinger, burning with his every emotion.
+
+Evanescia took a step back. “I… I must… I’m going to need to review the season… I must think and re-read what I have planned…” None of her mutterings formed an answer, but the subtext she offered and the quivering nature of her succumbing emotions told him enough. It took the Harbinger enforcing an extra dose of self-control on Shiv to stop him from smirking in triumph.
+
+When Evanescia disappeared, she vanished without a trace, leaving nothing behind.
+
+Nothing but her defeat.
+
+He knew then that she had folded. That they were going to get a way back home. But ultimately, he also intended to live up to his promise: he was going to leave a body in the Fairwoods, to continue running through the seasons as training, to continue trying to free Georges and figure out what the Watchtower was supposed to do and stop it if Evanescia threatened the rest of Integration.
+
+“What just happened? Did she just leave? Why?” Adam remained wary, nervous of any potential subterfuge. Even though he resided within Shiv and had a telepathic connection to the Deathless, there was too much nuance he failed to grasp. There were spectrums of emotionality that corresponded with Evanescia's mentality that Shiv had clear insight into, but Adam couldn’t see.
+
+The Culturist, though, chuckled quietly with awed amusement. He knew, he saw, and he was proud. “What an evolution, Deathless. Truth be told, I did not anticipate this to be your next step, and the next step you would take so soon. But you do know the vulnerabilities that come with this skill, yes?”
+
+Before Shiv could reply, the dimension-spanning veil of gold that held the Boiling Toad still in a bubble of unmoving time vanished.
+
+At the same instant, a new figure was cast into the fray. Uva materialized right next to Shiv with a surprised gasp and a look of startlement. She stared around, her Psychomancy threads whipping about until she noticed Shiv and finally took stock of the change in her scenery.
+
+Twin currents of emotion ran through her. She was glad to be reunited, surprised on top of that, but also agitated, for she had been in the middle of her own story. “Shiv. Your doing? Or hers?” She wanted to know why she had been spirited away from where she once was.
+
+Shiv shrugged and gave her a nonchalant grin. “Talked a bit with her. I guess she decided that we were better together after all.”
+
+“She is actually going to risk letting us leave, letting us escape, because you… you spoke to her,” Adam sputtered, beginning to be overwhelmed by joyous laughter. “You actually bloody managed to convince her. You mad, undying bastard!”
+
+“Not just yet,” Shiv replied. “But I think we're going to get there. Once her heart finally finishes breaching the final walls of her mind.”
+
+"The lie within has prevailed," the Harbinger whispered. "The mind no longer reigns, and so she must suffer the risk of defeat. Yet she chose this since she was already suffering. What a state to endure for all these centuries."
+
+Just as the Harbinger finished speaking those words, a second individual was loaded into the scene. An individual that was promptly reintegrated with its Avatar. At Evanescia’s will, Georges splashed back into his captor’s embrace, and the God of Exploration and Hunger came ablaze with stolen Divinity before Shiv and his companions as he reached back into the physical world.
+
+“DEATHLESS, YOU FUCKING PIECE OF SHIT! I’M GOING TO FUCK A CHILD INTO YOUR CORPSE!”
+
+And as the raging Ascendant raised a hand to summon a blazing lance into his grasp, a notification loaded in Shiv's vision.
+
+Quest Gained: Alright, Deathless. I want to see a proper audition for the three of you together. You say your companions matter—that they make you more of a threat for this coming story. I want to see the truth of it. Break Longinus in battle, without slipping out from my Fairwoods to recover or whatever it is you did before. Defeat the Wanderer, and we will finalize this… most dangerous affair you wish to embark upon.
+
+Success: You and your companions’ lost equipment will be returned—with added gifts; a new story arc: a chance to escape, if temporarily, from the Fairwoods; +20 Levels to a Skill of your choosing.
+
+Failure: The narrative loop reverts, and you undergo whatever storylines I so desire for a century.

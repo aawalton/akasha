@@ -1,0 +1,145 @@
+---
+id: a227c5c9-15fa-5181-b4da-5c41ae804a9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 523: Eager"
+slug: 0089-chapter-523-eager
+partOf: rise-of-the-living-forge
+position: 89
+ownLength: 1767
+unit: words
+ownProgress: 1767
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2797881/chapter-523-eager"
+royalRoadId: "2797881"
+markedReadAt: "2026-06-29T20:01:16.978Z"
+---
+
+Everyone split off immediately. Arwin, along with Olive, Anna, and Kien, headed up with Lillia to the main floor of the Devil’s Den. She then headed up the stairs to the second floor of the tavern. Lillia returned before so much as a minute had passed, the crown cradled in her hands.
+
+“Here it is,” Lillia said as she handed Arwin the crown. “Rodrick tested it a while ago, back before he got chosen to Sunset. “The dungeon isn’t too far, but you’ll have to move fast. It’ll probably be around twelve hours of travel each way from what he said.”
+
+“Thank you,” Arwin said. He took the crown from Lillia and examined it for a moment. The Mesh shimmered above the golden circlet.
+
+Band of the Vaultkeeper: Legendary Quality
+
+[The Map]: This item was carved from the very door of the [Legendary] vault from which it is bound. The connection between it and the vault will persist regardless of the distance between them. Whoever wears the Band of the Vaultkeeper will sense the location and direction of the vault.
+
+[The Key]: Inserting this band into its door will cause the door to unlock, destroying this item in the process.
+
+“What about entry to the dungeon?” Anna asked. “Do we need a key to the dungeon itself? Will the crown work?”
+
+“Rodrick’s sources found a dungeon already in the area that the crown indicated,” Lillia replied with a shake of her head. “Shouldn’t be any trouble there. It’s just a standard dungeon. The vault itself is the important part, and the only way in should be that crown.”
+
+“So we probably shouldn’t lose it,” Olive said dryly. “That would be a bit unfortunate.”
+
+“Don’t tempt fate. It has a way of playing with your words,” Kien warned, but there was a slight smile on his grizzled features. “Rodrick manages to help even when he isn’t here. Quite the man.”
+
+“You don’t have to tell me that,” Anna said with a small smile. “But we’ll only have a day to both clear the dungeon and rest enough that we aren’t exhausted. That’s a tight schedule. A very tight one.”
+
+“Maybe we shouldn’t have turned down Esmerelda’s offer to make us energy potions,” Olive said with a frown. She scratched at her wooden arm with her real one, then scrunched her nose. “Then again, those probably would have turned us into frogs. Or something.”
+
+“Don’t give her any ideas,” Arwin said. He examined the crown for a moment. The idea of actually donning it felt a bit… uncomfortable. It obviously didn’t grant any degree of rule, but such a showy piece really wasn’t his style at all. The crown likely would have been far better suited to Madiv’s fashion sense.
+
+After a moment, Arwin slid the crown along his arm and up to his bicep, pushing it until it fit snugly into place as an armband. Magic prickled against his skin like an electric current. A golden shimmer passed through the air before him, pouring down like sand to form into a dim path at his feet.
+
+At the same time, a dull pulling sensation gripped at the back of Arwin’s mind. It wasn’t too dissimilar from his [Dragon’s Greed] ability. He could vaguely make out the location and direction of the dungeon they were heading toward.
+
+Arwin honestly wasn’t sure how long it would take to arrive at the dungeon. Rodrick’s guess seemed just as reliable as any he could make. There was no reason to doubt it.
+
+“There’s no way that actually works,” Olive said. “It’s supposed to go on your head, Arwin.”
+
+“I don’t want to put it on my head,” Arwin replied. “And yes. It works.”
+
+“Is it humble to avoid being a king, or is it bragging that your arms as big as a lesser man’s head?” Kien asked in a wry drawl. “Though I suppose it doesn’t matter either way. All that matters is results. Let us go.”
+
+“Both is good.” Lillia’s eyes lingered on Arwin’s arm for a moment. Her lips curled up and she pulled her gaze back to meet his eyes. “Get moving… unless you want to get delayed for considerably longer.”
+
+“We’ll see you in two days,” Arwin said, coughing into his fist. “Take care of the street for us.”
+
+“You know I will,” Lillia replied.
+
+And then they were off.
+
+***
+
+Arwin’s group made fast progress. Following the crown proved strikingly easy. It worked — well, exactly how it said it would. The path along the ground told them exactly where to head in order to make their way toward the Vault.
+
+They set a brisk pace that would have been unsustainable for anyone whose body hadn’t been reinforced by the Mesh. For Arwin, it felt too slow. He couldn’t remember the last time his body had felt so powerful.
+
+Moving was a hundred times easier than it had been. His stamina made what he’d been working with before feel pathetic at best. Even when he’d been the Hero and magnitudes of levels higher, his form hadn’t felt this… refined.
+
+His Hero class had given him an enormous build with muscles that now felt like they’d practically been more for show than for purpose. And while he’d definitely been physically stronger back then, that strength definitely hadn’t been this optimized.
+
+Arwin’s entire body had advanced. It wasn’t just his strength and stamina that was improved. He could feel every step he took bearing less of a toll. His lungs needed less oxygen to be satisfied, and his coordination was easily twice as good before.
+
+Hours slipped by. And, while everyone started off at roughly the same pace, at around the six hour mark, they eventually had to pause for a break in a grassy field dotted with large boulders.
+
+Arwin wasn’t even out of breath.
+
+He wasn’t the only one that remained standing. While Anna flopped down to the ground with a groan to massage her legs, Kien and Olive both remained upright. But that wasn’t to say they weren’t tired.
+
+Kien hid it well, but there was faint weariness clear in his posture and accelerated breathing. Olive’s forehead was sleek with sweat. While neither of them were anywhere near exhausted, the run had definitely taken a toll.
+
+It didn’t take them long to notice the odd one out.
+
+“What kind of training are you doing in the forge, Arwin?” Olive asked in disbelief. “How are you not even sweaty?”
+
+“It’s not the forge,” Arwin replied with a sheepish grin. “At least, I don’t think it is.”
+
+“Then Lillia must really be giving you a run for your money at night,” Olive muttered. “I need to tell Reya to up her game. This is just—”
+
+“It has nothing to do with that,” Kien said without a hint of amusement. “Such things can train stamina, but not to this degree. I have tested all methods of training to find the most optimal ones… and this degree of stamina is abnormal. These changes must be due to the procedure Arwin underwent.”
+
+Arwin nearly choked at Kien’s completely straight face.
+
+Better than them thinking boinking is somehow making me a superhuman, I guess.
+
+“It is. I didn’t realize quite how significant the changes were,” Arwin admitted. “I think the difference is considerably greater than we initially thought.”
+
+“You don’t say,” Anna said, pushing herself up from the ground with a grimace. “Bummer. I would have preferred the alternative option as to how you got this strong. Would have been more fun. Think we can lie to Rodrick and say it has nothing to do with Sunsetting?”
+
+“Somehow, I doubt you need help there,” Kien said. “The walls still aren’t nearly as thick as they should be.”
+
+Anna just smirked.
+
+“How do I volunteer to get Sunsetted?” Olive asked. “It was limited, right? I don’t want to force my way in, but if there’s a chance to get that much stronger…”
+
+“We’ll figure that out later,” Arwin said. He leaned against a boulder, more out of the desire to reposition than any need for rest. “I don’t want to make promises right now. I think we’re going to need to come to a deal with Setting Sun. I don’t think it should be too difficult as long as we can prove we’re worth it. We’re working for the same goal, after all.”
+
+“That’s fair,” Olive said. “Just remember I’m down for it.”
+
+“I would imagine most of the Menagerie would be,” Kien said. “I certainly am. I have nothing to lose.”
+
+“We don’t even know what your class is,” Olive grumbled.
+
+Kien just smiled in response. “Such information must be earned.”
+
+Not even I know what his class is beyond the fact that he’s a terrifyingly effective frontline fighter. I suppose that’s a bit weird, but who among the Menagerie isn’t?
+
+“Just focus on resting for now,” Arwin said. “I don’t want to pause for long. We should get moving again in around thirty minutes.”
+
+The others all nodded their understanding.
+
+Arwin crossed his arms in front of his chest and looked up in thought. The changes to his body were even more than he’d initially thought.
+
+And that isn’t even mentioning that I’m far lower in level than I was back then. Sunsetting is incredible. The difference isn’t even quantifiable. I… wait. Has the Mesh quantified my advancements? I did technically spend energy to get stronger, but I never actually checked my level.
+
+He summoned his status with a thought. Arwin didn’t need to see his skills — he already knew all the changes that had happened there — but his gaze never even got a chance to drift down to them.
+
+His eyes went wide.
+
+What?
+
+Name: Arwin Tyrr
+
+Class: Living Forge (Unique)(Tier: Adept 9)
+
+Specialization: Forbidden Soulmancy
+
+Arwin nearly choked. His Tier had gone up by 4 ranks. It was little wonder that he’d gotten so much stronger. That said, this was still far from where he’d been back as the Hero. It hardly mattered. He was still vastly proportionately more powerful.
+
+Holy shit. What a huge advancement. And I don’t even have to worry about missing achievements or titles anymore. The stops on my progress have been completely removed.
+
+A cold, determined smile slowly crawled across Arwin’s lips. The Adventurer’s Guild time was coming faster and faster than ever. It wouldn’t be long before he caught up with his former power and surpassed it.
+
+But first, there was a dungeon waiting to be cleared… and he was quite eager to see how much more powerful he’d truly gotten.

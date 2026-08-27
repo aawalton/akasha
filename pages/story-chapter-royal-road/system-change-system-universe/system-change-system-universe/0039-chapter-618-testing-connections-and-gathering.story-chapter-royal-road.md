@@ -1,0 +1,149 @@
+---
+id: 48c29c49-df90-59b3-ba85-c64a83f5104f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 618: Testing Connections and Gathering"
+slug: 0039-chapter-618-testing-connections-and-gathering
+partOf: system-change-system-universe
+position: 39
+ownLength: 2339
+unit: words
+ownProgress: 2339
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2918872/chapter-618-testing-connections-and-gathering"
+royalRoadId: "2918872"
+markedReadAt: "2026-06-29T19:57:59.143Z"
+---
+
+Chapter 618: Testing Connections and Gathering
+
+After Derek left Braxton a few days ago, he got to thinking. Braxton had asked if he wanted him to bring Mara with him, and Derek had told him to go ahead. After having some more time to think about it, he realized that leaving would affect more than just those he would invite to go with him, so he spent the days leading up to his gathering informing most of the people he thought would be affected—even some of the ones he’d only known for a short while.
+
+One of those people was Ashley Brandt, which worked out well. It hadn’t taken her—or really the crafters in her family—too long to understand some of the properties of the teleportation and communication devices that were left over from the invasion. Derek was surprised when he Void Traveled to David’s estate and was informed that Ashley had been able to reactivate the original devices and was working on producing ones of their own.
+
+Ashley thought the meeting would be a perfect time to test it. So, there Derek and Brandi were, just a few hours away from the time he’d scheduled the gathering. They were standing in his travel room with a stake-like device that Ashley had given him. “Like this? She said to activate it here…?” Derek said as he looked over the device. As he was about to push some mana into it to try to activate it, he was stopped.
+
+“Let me see it,” Brandi said, sticking out her hand. Derek handed her the device, and she examined it for a moment. Finally, she traced her finger up and down it. “These are spatial runes that I don’t understand yet,” she explained. “But we don’t need to understand them to activate them.” Brandi placed her palm on the flat end of the device and channeled mana into it. The device soon lit up blue, and the girl placed it upright in the center of the room. “Now we leave the room so it can activate.”
+
+“Ah… so it really was just an easy injection of mana to activate it? Will it have enough mana to do a full teleportation? I know the circles take a lot of pure mana to use,” he asked as they stepped outside the travel room and into Brandi’s workspace.
+
+“It was built with a material like the golem cores you gave me,” Brandi said.
+
+“So it can store mana until it’s ready to use?”
+
+“Yes,” Brandi said. “Based on what I felt when I activated it, I’d say that it really is just a temporary long-distance device since it only stored enough mana for maybe three uses. Of course, you only need to fill it back up with mana, but… I think it will burn out, eventually. It’s easy to see that it wasn’t built with any kind of longevity in mind. I wonder what the main one is like… if they made it more permanent since it should be like… a tree… while the one in your room is a branch.”
+
+“Huh…” Derek muttered. “That’s interesting… And let’s hope that they solve that quality issue on the ones they are making themselves.”
+
+“If there were a dungeon with spatial golems…” Brandi mumbled as a glint formed in her eyes.
+
+“What was that?” Derek asked.
+
+“Nothing…” Brandi replied. “I was just thinking that if they could get spatial cores from golems like they can with the more basic ones, then a single spatial core the same size as what is inside the teleportation device could work like… twice the amount of times at half the cost… probably.” The girl went quiet for a minute, then looked up at Derek with a face that could only remind him of a puppy who wanted a treat. “Can… can I have one of the temporary devices? Or… two?”
+
+“You want one?” Derek asked.
+
+“To study…” Brandi replied with an innocent expression. “Who knows when we may need them? Isn’t it better to be prepared?”
+
+“You are getting too good at that,” Derek said with a snort. “But I’ll see what I can do. I’m sure I can wrestle at least one of them away from Ashley, but I don’t know if I would want to take more than that. Even if it’s a good idea for you to study them just in case, they really need them to establish a real connection between the continents before we leave. I’d like to leave this world peaceful and connected so everyone who stays behind can have a carefree life for at least the next few generations…”
+
+“Oh… one is good enough, then,” Brandi said. “I’ll have to be very careful with it.”
+
+“Yeah… don’t blow it up,” Derek replied. “You just got your eyebrows back, after all.” He expected to get a rise out of the young crafter, but she didn’t say anything. Instead, she was staring through the door at the teleportation device with a frown. “What’s wrong?”
+
+“They are late,” Brandi said. “By three minutes already.”
+
+“What’s a few minutes here and there?” Derek said, waving off Brandi’s concern. “It’s the first time they’ll be using it to travel such a distance. I’m sure they are just making sure everything is safe.”
+
+“Oh… probably,” Brandi replied with a nod, and the look of concern faded from her face. However, after another fifteen minutes, it appeared again. “Are you sure they are okay?” she asked.
+
+“I… don’t know,” Derek replied. He was also starting to become concerned. He thought they already had it working. It was something that needed to get done before he left because he was the only way for someone to go from one continent to the other easily. “I’m going to go check. I can’t use the travel room, so I’ll apologize to Mal later for causing any problems.”
+
+Brandi nodded, and Derek reached out and opened a space. Moments later, he was standing in front of a frowning Ashley and David. “What’s wrong?” he asked.
+
+“They think… the distance is too long,” Ashley replied.
+
+“Then how did they get from one continent to the other?” Derek asked.
+
+“I… am not quite sure,” Ashley said with a sigh.
+
+“Do you have any others active?”
+
+“Yes, and they work just fine,” Ashley said. “The only one that isn’t working is the one we sent with you.”
+
+“Huh…” Derek muttered. “Give me another one, then see if you can teleport to it around two minutes after I leave.”
+
+“Okay.” Ashley handed Derek a device, and he traveled back to his shop.
+
+“What’s wrong?” Brandi asked.
+
+“It’s not working, but that’s the only one not working,” Derek replied as he went to his room and deactivated the device. He activated the new one, then waited. Two minutes passed, and then nothing. “Looks like it is the distance.”
+
+“Can they go from teleporter to teleporter?” Brandi asked.
+
+“What do you mean?”
+
+“Like when we need to get to a faraway city. The distance is too much to go straight there, so we have to go through two or three to get to where we want to go.”
+
+“Oh… I don’t know,” Derek said. “But that’s a good idea. I’ll go see if they can work as more of a relay.” He left the active device in the room, then took the other one into the void with him. When he stepped out this time, he was on the very edge of the continent, on the beach. It was quite a distance away from Cydaria, but there was still an entire ocean separating the continents. He activated it and waited two minutes, then sighed and disappeared again.
+
+“Give me another,” he said as soon as he stepped out. Ashley frowned but gave him one. This time, he went to the edge of their continent and activated it. Two minutes later, Ashley and David appeared. “Try again, but from the one I just placed,” he said before they could ask anything. A short time later, Ashley smiled at Derek, then they disappeared. Derek snorted, then moved back to the room with Brandi. Soon after he arrived, Ashley and David did, too.
+
+“So the range is at least the distance of the ocean?” Derek asked after they stepped out of the travel room.
+
+“No,” Ashley shook her head. “There is one on a small island in the ocean that we didn’t know about.”
+
+“I bet there are others around here that we don’t know about, too,” Derek said.
+
+“There are,” Ashley said. “At least three are active on this continent, not including the two you put here.”
+
+“That’s great!” Brandi said happily, and Ashley just nodded. Derek knew that they were thinking the same thing but for entirely different reasons. Ashley was just thinking that it was great that they would have more to work with, while Brandi was most likely thinking that if they have more, she may be able to get more.
+
+“Well… sounds like you’re going to need to do some experimenting to find the exact range. Also, it could be possible that the range gets shorter and shorter for each device you use to extend it.” Derek was looking at it the same way he thought about routers and their extenders back on Earth before the arrival of the system. It may not work like that, but it would be worth checking out.
+
+“We will certainly do that,” David said. “But…”
+
+“Yeah?”
+
+“It would be easier to test ranges if we had your help since you would be able to go back and forth,” David explained.
+
+“Then I’ll help, but I can’t take too long,” Derek said. He hadn’t actually told Ashley or David why they were meeting, but they would understand why there was a time limit when they learned.
+
+“We’ll take what we can get,” the older man said with a nod.
+
+“Sounds good,” Derek replied. “Now that the two of you are here, you can go upstairs and get settled. It will be awhile before everyone else arrives. But Silvi has made snacks for everyone.” The father and daughter soon vanished upstairs, and Derek let out a sigh of relief. “I’m glad they got that sorted. Though I wonder how the invaders got the device to the middle of the ocean…”
+
+He thought about it, then he pictured the floating blue man that he’d taken out at the beginning of the battle. “Holcom… I think,” he said. “I wonder if he was just able to float over the water… or maybe he has his own personal teleportation?” Derek didn’t know. It was all guesses. All he knew was that Holcom had created them. The blue man didn’t even get a chance to activate his powers when they fought, so Derek had no clue what he could do.
+
+He looked at Brandi, but she could only look up and shrug. “I don’t know,” she said. “I’m sure there are things about them that nobody knows yet.”
+
+“Yeah…” Derek said. “They were also used for communication, I think. They made their devices work after the system limited the range.”
+
+“Oh! Neat!” Brandi clasped her hands together. “I think I know where those runes are. I just didn’t know what they did. Now I do. I’ll have to study the communication crystals along with the device if I can get one.”
+
+“Well, I’ll get you at least the one that I promised,” Derek said. “Now, you should go upstairs. I’m going to run and grab the stragglers.”
+
+Brandi glanced at the teleportation device, then back at her smithing workbench. Finally, she said, “Fine…” and then turned and ran upstairs.
+
+Derek laughed, then went and deactivated the device and placed it in his storage. Since people were already around and the Brandts were there, he was going to use his travel room and didn’t want to risk the device being there. After closing the door, he used Void Travel, and the next moment, he was standing in the courtyard of the Queen of the elven country on the other continent.
+
+A rush of guards formed around him—weapons drawn. However, one elven guard recognized Derek and shouted, “Stand down! This human is a… an acquaintance.”
+
+“You’re the guard from before,” Derek said.
+
+“I am,” the man said. “Do you need something?”
+
+“The Queen,” Derek said. “I’m having a meeting in a few minutes and decided I should invite her since it may affect some things.” The Queen—Derek didn’t know her name—wasn’t someone that he actually knew. Edgar got to know her a bit and suggested bringing her. So, Derek decided he would at least see if she wanted to join.
+
+“A meeting?” A sensual voice came from nowhere.
+
+“I don’t have time for games,” Derek said. “Are you coming or not?”
+
+“You are no fun, Mr. Hunt,” the voice said, then the Queen appeared behind Derek.
+
+“If she is going, so am I,” the guard from before said.
+
+“Fine,” Derek said. “I’ll be right back.” Soon, the two of them were in his shop, and he directed them upstairs. Derek then went and got Marrick—who refused to travel since he knew that Derek would go pick him up. He also picked up Braxton’s brother, Darius, the two elf royals that he always dealt with, and a couple of others he deemed important enough.
+
+Soon, he followed the last person upstairs. They had already closed down the shop and removed everything from the sales floor. Still, even though they weren’t shoulder to shoulder, the room was quite packed. Derek walked over to where the counter was, then hopped on it and let his feet dangle over the side. This is good enough, he thought. Everyone can see me here.
+
+With a nod to Malorie, Derek scanned the room. It looked like everyone he invited—and a couple he didn’t—was all there. Finally, Derek cleared his throat loudly to grab everyone’s attention. “Thank you all for coming today. There is a lot to discuss.”

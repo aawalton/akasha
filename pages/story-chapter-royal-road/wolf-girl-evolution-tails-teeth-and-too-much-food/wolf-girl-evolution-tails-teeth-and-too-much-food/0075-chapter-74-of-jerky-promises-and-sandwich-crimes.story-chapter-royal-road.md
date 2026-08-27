@@ -1,0 +1,641 @@
+---
+id: 50b80a3b-49e6-5b20-abe0-bd873cb5fadf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 74: Of Jerky Promises and Sandwich Crimes"
+slug: 0075-chapter-74-of-jerky-promises-and-sandwich-crimes
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 75
+ownLength: 2311
+unit: words
+publishedAt: 2025-11-28
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2801948/chapter-74-of-jerky-promises-and-sandwich-crimes"
+royalRoadId: "2801948"
+---
+
+PoV Luna
+
+Waking up felt so awoomazing lately!
+
+Pack warmth. Blanket softness. Fur brushed in all directions.
+
+Not cold. Not alone. No scratchy bark under her back. No weird bugs climbing over her ears. No night wind trying to steal her tail fluff.
+
+Just… warm.
+
+Luna stretched out under the blanket, legs long, paws kicking once. Her tail twitched happily.
+
+So warm! So soft! So good!
+
+And pack was there.
+
+Proper pack!
+
+Their breaths filled the space, slow and steady. Their scents told her they were close. Syl's magic hum floated in the air, calm and strong. Ray mumbled in his sleep nearby. Trianna made tiny snorty noises.
+
+Home. This was what home was like!
+
+Her heart thumped slow and full.
+
+She licked her chops, blinked the fuzzies from her eyes, and yawned wide.
+
+“Time for the ritual,” she mumbled into the blanket.
+
+And then, with predator focus and complete stealth, she rolled toward her Second’s side.
+
+The Mlem Attack would begin!
+
+Tongue out. Soft pads only. No claws. No noise.
+
+Only love!
+
+She crept closer. One paw over the blanket. Then another. Closer.
+
+Her tongue hovered an inch from Syl’s cheek–
+
+“Luna.”
+
+She froze.
+
+Ears snapped up.
+
+Syl was awake!
+
+Eyes open. Voice sharp. Already waiting.
+
+“Caught?! Unfair!”
+
+The elf didn’t even flinch. Her hand darted out and poked Luna square on the nose.
+
+“No mlems before breakfast.”
+
+“Why?! Mlems good! Show love! Make fur shiny!”
+
+“No.”
+
+“But–”
+
+“No.”
+
+“Mmmmlem.”
+
+“Luna.”
+
+Luna growled softly into the blanket, defeated but not deterred.
+
+One day she would land the perfect stealth mlem.
+
+One day!
+
+But not today.
+
+Syl groaned and rubbed her forehead.
+
+“We’ve been over this.”
+
+And thus began…
+
+The Lecture.
+
+It started very important sounding, and Second made it clear it was important yesterday.
+
+But…
+
+Syl monologuing about “manners” and the important things to be mindful of when in “human society” and all the “civic behavior” stuff made Luna so very very…
+
+Bored.
+
+Luna tried to focus. She really did!
+
+But her tail started twitching. Her tongue began to sneak out again. The inside of her ears itched.
+
+So many not-chewable ideas!
+
+“There are rules to follow around people,” Syl said. “And others still, in towns and cities.”
+
+“Big people or small?” Luna asked, rolling upside-down.
+
+“All kinds.”
+
+“Do small ones bite back?”
+
+“Luna.”
+
+She sighed. Her paws waved dramatically in the air.
+
+“Still listening!”
+
+Syl crossed her arms.
+
+“What did I just say?”
+
+“…No biting inside towns?”
+
+“Close. Try again.”
+
+“No licking strangers?”
+
+A pause.
+
+“Also correct,” Syl allowed. “But let’s review the big ones. Ready?”
+
+Luna flopped back over and nodded solemnly.
+
+Syl lifted a finger.
+
+“First: No mlems unless invited.”
+
+“Rude.”
+
+“Second: No stealing food. You can’t just take what isn’t yours. You need to trade for it, and the other party can always say no.”
+
+“But what if it smells of heaven and spice?!”
+
+“No.”
+
+“Fine…”
+
+“Third: Stay in your Wildling form. No shifting in the middle of the market.”
+
+“Even for zoom?”
+
+“Especially for zoom. Actually, no zoom in the town either. Not everybody is as nice as us, and it’s rude.”
+
+Luna whimpered and curled tighter around the blanket.
+
+This was cruel. Cruel like dry jerky with no spice.
+
+But then!
+
+Jerky appeared.
+
+Syl held up a strip, eyes full of quiet challenge.
+
+Luna’s eyes locked in.
+
+Instant focus!
+
+Luna would be the bestest student!
+
+Apex Predator of Learning!
+
+“Speak politely. Walk calmly. No growling. No sniffing people’s boots. And absolutely – under no circumstances – may you bite a person.”
+
+“Not even if they smell bad?” Luna asked, eyes wide.
+
+“Especially then. And if anything bad happens, if you feel like you need to bite, just run away. You are very fast, nobody will catch you if you do,” Syl said.
+
+“But what if they have meat and don’t share?”
+
+Syl raised her brow.
+
+Luna sighed.
+
+“Still no?”
+
+“Still no.”
+
+Luna still had many buts though!
+
+Big buts. Important buts. Bitey buts.
+
+“But if Luna smell danger–”
+
+“No charging.”
+
+“But if Luna see crunchy thing–”
+
+“No snatching.”
+
+“But if Luna only nibble–”
+
+“No nibbling. Of anything. Or anyone.”
+
+It was cruel.
+
+Incredibly cruel!
+
+The laws of people were strange and unnatural!
+
+But Luna endured.
+
+Because jerky!
+
+The sun climbed higher. The camp packed up around them. Syl kept lecturing while tying down the bedrolls and brushing Luna’s hair into something that didn’t look like a windstorm.
+
+Luna nodded at the right moments. Mostly. Her tail thumped every time she earned a new bite of jerky.
+
+By the end, she had learned many, many words.
+
+Would she remember them though?
+
+Possibly.
+
+Probably.
+
+Maybe?
+
+But even if not… she had earned jerky.
+
+So it was still a win!
+
+***
+
+Luna was on scout duty!
+
+She had to promise – cross her heart and tail – not to go too far, to come back often, and to definitely, definitely not bite anything.
+
+Luna saluted with paw and promise.
+
+“Apex Scout accepts mission!”
+
+Then she turned and trotted off across the plains, tail high, humming her personal mission song under her breath.
+
+No potion this time. No overcharge. Her paws still remembered the ache of zooming too hard, and how quickly she got tired from using all the skills at once!
+
+But Shadow Run? That one was fun!
+
+And new.
+
+Luna would test the bark out of it!
+
+She let the calm settle. Let the earth speak.
+
+The light shifted. Her focus narrowed. Shadows answered.
+
+They pooled at her feet – cool, slick, full of tension and bite.
+
+“Zoom-time!” Luna grinned.
+
+One step. Two.
+
+Then slide!
+
+Fast.
+
+She glided across the ground, paws skimming with barely a whisper. Her shadow curled beneath her like living silk, launching her in pulsing bursts of power.
+
+Sliding. Sprinting. Leaping.
+
+The world flowed beneath her like a river of wind and color. The grasses blurred to streaks. Bugs scattered. A rabbit squeaked and vanished behind her before it even knew she passed.
+
+【Shadow Run Lv. 3 → Lv. 4】
+
+“Yes! Luna shadow-surfs now!”
+
+Her laughter rang across the plains as her tail carved long trails through the air behind her.
+
+She darted around boulders. Weaved between brush. Bounced once, caught a perfect curve of momentum, and somersaulted mid-glide just for the joy of it.
+
+Freedom!
+
+Speed.
+
+And Zoom-zen!
+
+Her pack trailed behind now – small, distant dots. Luna could still smell them if she focused, but they were far. Far enough for thinking.
+
+And hunting.
+
+And–
+
+“System!” she barked, slowing her pace. “You! Explain Luna’s new numbers!”
+
+The glowing panels blinked into place, floating before her nose.
+
+Lines and lines of words.
+
+***
+
+Name: Luna
+
+Level: 9/10
+
+Race: Moon Wolf Pup (Tier 0)
+
+Gender: Female
+
+HP: 54/54
+
+SP: 47/54
+
+MP: 35/40
+
+Strength: 17
+
+Dexterity: 16
+
+Vitality: 17
+
+Intelligence: 15
+
+Willpower: 7
+
+Charisma: 4
+
+Luck: 3
+
+Active Skills:
+
+Strike Lv10
+
+Bite Lv15
+
+Jump Lv10
+
+Momentum Claw Lv9
+
+Run Lv14
+
+Shadowmeld Lv9
+
+Shadow Step Lv11
+
+Lunar Form Lv5
+
+Devourer’s Maw Lv1
+
+Shadow Run Lv4
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv2
+
+Pain Resistance Lv2
+
+Poison Resistance (Minor) Lv2
+
+Devourer’s Right Lv4
+
+Traits:
+
+Beast Constitution
+
+Gluttonous Soul – 10%
+
+Effects:
+
+Craving (Unknown)
+
+***
+
+Too many words.
+
+Not enough chew.
+
+But… they looked meaty. Shiny. Full of secret strength!
+
+And Luna gained a few more level ups since she last looked!
+
+And… Willpower?
+
+Weird.
+
+But very nice!
+
+Luna licked her lips.
+
+Her paw reached out. Maybe this time she would actually–
+
+Then the wind shifted.
+
+Her nose twitched once.
+
+She blinked and skidded to a halt on a low ridge.
+
+A small rise stood ahead. A line of trees. A faint glow of heat and life and…
+
+Smell.
+
+Scent rolled over the rise in a wave of truth.
+
+Jerky.
+
+Cooked food.
+
+Smoke. Iron. Cloth.
+
+And underneath all of it, the soft electric buzz of many, many heartbeats!
+
+Luna’s ears perked.
+
+She crept forward, stalking low over the crest.
+
+Then she saw it.
+
+Houses. Walls. Roofs. Gates.
+
+A town.
+
+Small. Cozy. Full of scent.
+
+And snack potential!
+
+Luna’s eyes gleamed wide. Her claws flexed into the soil.
+
+“The promised land of jerky…” she whispered reverently.
+
+Then her tail wagged twice.
+
+Time to report back.
+
+Maybe. Probably.
+
+Eventually.
+
+...Right after one more sniff.
+
+***
+
+By the time the adventurers caught up – or rather, trudged close enough for Luna to see them – she was already on her third circle around the hilltop.
+
+Not walking. No.
+
+Full-speed, shadow-zoom spirals!
+
+Dust sprayed behind her like smoke. Her shadow curved with perfect bends. She dipped, slid, leapt, and spun, each motion smooth as soup and twice as satisfying.
+
+Trianna cupped her hands around her mouth.
+
+“You know, for someone told not to run off, you’re doing an awful lot of running off!”
+
+“Luna waiting!” Luna shouted back proudly, trailing her own orbit like a comet. “See? Circles mean waiting!”
+
+Syl pressed her palm to her forehead.
+
+“Technically… not wrong.”
+
+When the rest finally reached the ridge, panting and sweat-streaked, they saw what Luna had already smelled.
+
+Altracia.
+
+A small town tucked into the curve of the hills, surrounded by low walls and lazy farmland. Smoke curled from chimneys. Gold and green fields stretched wide on both sides, dotted with tiny figures tending crops or chasing livestock.
+
+A breeze carried the scent of cooking oil, warm bread, and pig.
+
+Luna sniffed. Then squinted.
+
+“…A human hive,” she declared. “Humans are bugs confirmed!”
+
+Syl froze mid-step, then begrudgingly translated for others.
+
+Veric actually paused at that.
+
+Ray blinked once.
+
+“What.”
+
+Syl sighed and massaged the bridge of her nose.
+
+“Well… you’re not entirely wrong.”
+
+Luna nodded wisely.
+
+“Yes. Luna understands.”
+
+She absolutely did not.
+
+The road turned smoother underpaw as they descended. Ruts and footprints marked infrequent trade use. Fences appeared. Tools. Cart ruts.
+
+Weird human clutter!
+
+Syl walked beside Luna now and handed her a small flask.
+
+“Mana potion. Change form, please. And wear your shirt properly this time.”
+
+Luna took a polite sip.
+
+“Fine, fine.”
+
+In a flash of silver shimmer, fur turned to skin. Tail remained. Hair stayed long. Wolf ears flopped against her head, still twitching with excitement.
+
+She put on her shirt. Badly. One hole skipped. Crooked.
+
+Trianna giggled.
+
+“We’re going to have to buy her new clothes soon. The wolf look doesn’t quite fit in town.”
+
+“Why?” Luna tilted her head. “Fur clothes good. Soft, strong, weatherproof.”
+
+Ray groaned.
+
+“We’ll explain later.”
+
+They were within a stone-throw of the town gates now.
+
+Altracia’s outer walls were simple – wooden and wide, meant more for deterrent than defense. Two guards stood at the open gate, spears slouched and attention lazy.
+
+Luna’s ears twitched.
+
+Then, to the left, chaos.
+
+Two farmers were shouting at their oxen. The beasts had tangled their harnesses. A cart tipped sideways in protest.
+
+Everyone turned to look.
+
+And Luna was gone.
+
+***
+
+PoV Derek, Town Guard
+
+Today was turning out to be another lazy afternoon.
+
+Very boring, with the largest dash of excitement coming when a pair of goats decided they did not like the feed the passing farmer gave them. The bleating and thrashing adding that tiny bit of spice that almost made this posting bearable.
+
+Almost.
+
+Nothing really happened here, only farmers trudged through, and beyond that were plains and The Great Forest of Aeon. Practically a dead posting. So it wasn't a surprise when Derek's favorite time of the day was meal time.
+
+And since becoming a guard he became really really good at making sandwiches. Not much else to do or look forward to here, after all.
+
+He took a pair of them out, prepared to dig in.
+
+Thick slices of bread. Cheese. Cured ham jerky. A smear of mustard. Perfect.
+
+He lifted the first one toward his mouth. Bit. Chewed.
+
+And froze.
+
+A voice chirped right next to his ear.
+
+“What this? Smells tasty!”
+
+He nearly dropped the whole thing.
+
+A girl stood beside him. Small. Beastkin. Golden eyes and dark silver hair, tail flicking like a squirrel on holiday. Her nose twitched.
+
+Her gaze locked onto his sandwich like it was prey.
+
+“Excuse me?” he croaked.
+
+She pointed.
+
+“That! Smells good!”
+
+“Well… it’s a sandwich,” he managed. “Bread, meat, good stuff inside. I made it.”
+
+Her stomach growled. Loud. Echo-worthy.
+
+He chuckled and offered despite himself.
+
+“Want a bite?”
+
+Her eyes sparkled – but then she looked torn.
+
+“Yes! But… Um, Second said Luna can’t just take! Luna needs to trade!”
+
+“Trade?”
+
+In a blink of an eye, or perhaps a trick of shadow, she held out a small hunk of roast.
+
+Fresh. Nicely browned. Glazed with spice and something sweet. The scent nearly knocked him sideways.
+
+He stared.
+
+Were his eyes playing tricks on him?
+
+The little kid suddenly had a piece of roasted meat in their hands. Clearly unwilling to part with it too, but far too interested in the sandwich not to.
+
+He replied anyhow, years of guard work making him immune to all sorts of small talk.
+
+"Your 'Second' taught you well."
+
+Whoever they were.
+
+He reached his other sandwich out, and it got swapped in the blink of an eye.
+
+"Yes, Second bestest Second!"
+
+The girl bit into his sandwich, then tippy-tapped in a circle, humming with delight.
+
+It made him doubt whether it really was him who made it.
+
+And as he looked down on the roasted piece of meat he got in exchange, and then back up again, the girl was... gone?
+
+He blinked.
+
+Then blinked again.
+
+She was gone.
+
+He looked down at the roast in his hand.
+
+Took a bite.
+
+Then a second.
+
+Flavor exploded – fat, smoke, slow-simmered perfection.
+
+He leaned against the wall, bit into his sandwich next.
+
+Chewed once.
+
+Twice.
+
+Then laughed softly.
+
+“Goes really well with good old sammich.”
+
+A breeze rustled his collar. Far off, a girl’s laughter echoed past the fences.
+
+The town of Altracia had just gained a very strange visitor.

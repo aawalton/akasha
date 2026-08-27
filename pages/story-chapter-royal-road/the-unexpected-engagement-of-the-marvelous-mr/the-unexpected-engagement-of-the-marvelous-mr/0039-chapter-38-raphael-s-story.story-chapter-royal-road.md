@@ -1,0 +1,357 @@
+---
+id: 7246effe-858b-5d33-a549-87e1bdb2c2d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38 - Raphael's Story"
+slug: 0039-chapter-38-raphael-s-story
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 39
+ownLength: 2776
+unit: words
+publishedAt: 2022-06-30
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/938712/chapter-38-raphaels-story"
+royalRoadId: "938712"
+---
+
+Inspector Haley and Lady Serrs arrived at the corner of Robin and Archers as the church bells were ringing the hour. Raphael was already waiting for them. With him was an old man who had dark hair, glasses, and a battered cane. The old man’s clothes were neat but worn.
+
+Haley glanced at them both before turning to help Eleanor from the carriage.
+
+When Eleanor’s eyes fell on the old man, she quickly bowed her head, but not before Haley caught a glimpse of a smile.
+
+“Lady Serrs!” the boy called.
+
+She greeted him with the same enthusiasm: “Good evening, Raphael!”
+
+Raphael hopped down the stairs to meet her. “How are you?”
+
+“Very glad to see you again, but who’s that?” She nodded toward the old man, who was laboriously hauling himself to his feet.
+
+The boy looked around at the old man, then turned back and said in a flat voice, “My grandfather.”
+
+“I see.” Eleanor noticed that Raphael was peering around her, so she stepped aside to clear the way for Haley to come forward. “Raphael, this is my friend, Chief Inspector Haley.”
+
+Haley held out his hand. “Lady Serrs has told me about you, Mr. Raphael. Thank you for coming tonight.”
+
+The policeman’s respect and gravitas melted most of the boy’s reluctance. As Raphael shook Haley’s hand, a slow smile spread over his face.
+
+“Yeah. It’s good to meet you, Mr. Haley.”
+
+A creaky voice said, “That’s Chief Inspector, boy.” The old man walked up behind his grandson. He lifted his hat. “Ronald Westwin. Pleased to meet you both. Lady Serrs, I’ve heard of you from little Ralphie here. He went on and on.” Mr. Westwin reached out to press her hand. “What a lady! What a kind and lovely lady to be so nice—”
+
+“Mr. Westwin, I think that’s enough of your inane drivel,” Haley said.
+
+Raphael shifted his weight, as if preparing to run, but Eleanor put a hand on his shoulder and pulled him close.
+
+In his ear, she whispered, “It’s all right.”
+
+“But—”
+
+“Shhhh. You’ll see.”
+
+Mr. Ronald Westwin reached up and took off his glasses. He wiped them clean on his shirt, but rather than replacing them, he tucked them into his jacket pocket. “You seem familiar, Inspector Haley. Have we met before?”
+
+“No, but don’t try my patience or I’ll ask you to leave.”
+
+“You’re not asking me to leave now?” Mr. Westwin said in a suddenly deeper voice.
+
+“Minors are allowed to have a member of their family with them while they’re talking to the police—as I’m sure you know. As long as you don’t interfere, you’re welcome to stay with your grandson.”
+
+Westwin lifted his hat. When he spoke, his voice creaked like ancient iron as it rose and fell in the best tradition of truly bad acting: “You’re a gentleman, Inspector Haley. Thank you.”
+
+“There’s a bench back behind the church,” Haley said. “It’s off the street and quiet. Do you mind if we talk there, Mr. Raphael?”
+
+The boy jumped. He was too used to being forgotten to expect the question to be addressed to him.
+
+“Yeah,” he said. “That’ll be fine.”
+
+Haley started toward the side of the church. Raphael hung back with Eleanor and Penn.
+
+“Do you think he knows it’s him?” the boy whispered.
+
+“Oh, I don’t know,” Eleanor said. “He called him Mr. Westwin, didn’t he? And he said they’d never met.”
+
+“I thought you said he was smart,” the boy hissed at his “grandfather.”
+
+“I think he’s smart enough to not know who I am,” Penn said.
+
+Raphael had to think about that.
+
+While the boy was thinking, Penn said to Eleanor, “You smiled when you saw me, didn’t you?”
+
+“I might have.”
+
+“It’s always gratifying to know you’re happy to see me, darling, but do you think you could hide it better next time?”
+
+“I’m sorry, Mr. Westwin, but you look ridiculous.”
+
+Eleanor and Haley sat on the bench with Raphael between them. Penn stood in front of them.
+
+Haley said to Raphael, “I understand you found the egg.”
+
+“Yes, sir.”
+
+“Can you tell me what happened?”
+
+Raphael took off his hat so he could play with it as he talked. “It was four nights ago, Wednesday, and it was really late—like, after ten. I was walking home, and I saw a man standing in the street.”
+
+“Could you see him clearly?”
+
+“No, but I could make out his shape.”
+
+“Tell me all the details you can remember.”
+
+“He must have been wearing a jacket. I saw the edge flap. He was about average tall, and he wasn’t really fat or thin, but he moved funny. I remember because that’s why I stopped. I try to stay away from the drunks—you never know, right?”
+
+Haley nodded to acknowledge the wisdom of this.
+
+“I was waiting to see which way he was moving when he stopped and took something out of his jacket pocket. The thing was big. I couldn’t see what it was, but it was bigger than what you’d normally carry around in your pocket. Then he wandered over to the gutter drain, and he pitched it.” Raphael mimicked the motion. “Pitched it like that. Then he goes the other way and turns the corner, so I went over to see what it was.”
+
+“Wouldn’t it have rolled away?” Eleanor asked.
+
+Raphael shook his head. “Drains don’t get cleaned often, so there’s a lot of muck down there to catch it. I only had to reach in and pull it out. It was pretty gross, but when I got home and washed it off, I saw it was this beautiful rock. I knew it had to be worth something, so I took it into Croft, and I sold it to him. He said it wasn’t anything special, but he gave me a few bucks for it.” He muttered, “That was a good find for me.”
+
+“And lucky for me,” Haley said. “I’m glad you were there to find it, Mr. Raphael.”
+
+The boy nodded.
+
+“May I ask you a few questions?”
+
+“Sure.”
+
+“First of all, did the man who dropped the egg see you?”
+
+“I don’t think so. I was in the shadows, and he wasn’t looking my way.”
+
+“How did you know what time it was?”
+
+“I heard the bells. I was out with my mates when I heard the hour and knew I had to blow it home or my mum would have something to say to me.”
+
+“Do you know where you were when you saw all this?”
+
+“Kite Way.”
+
+Eleanor tried to remember if she’d ever heard of a street by that name.
+
+Penn noticed her expression. He was so absorbed in what he was hearing, he forgot to use his old-man voice when he explained: “It’s the nickname of an alleyway a few streets west of Winfield’s place.”
+
+“It’s not an alley,” Raphael insisted. “If you can drive a carriage down it, it’s not an alley.”
+
+“But it’s not a major street, so it doesn’t have any lamps,” Haley noted. “At ten o’clock, it would have been dark. How could you see him?”
+
+“There were lights on in some of the buildings, and one of them had a lamp over the back door. It was enough to make him look like a shadow.”
+
+“A silhouette,” Eleanor murmured.
+
+“Why did you think he might be drunk?” Haley asked.
+
+“He was moving funny. I told you.”
+
+“You did. Can you tell me how he was moving funny?”
+
+The boy shrugged. “Slower, and maybe his feet were a little far apart. Like he didn’t trust himself.”
+
+“Did he stagger?”
+
+“He wasn’t that far gone.”
+
+“Which way did he go when he turned?” Eleanor asked.
+
+“Toward Center Street.”
+
+Haley said, “Raphael, could you take me to that storm drain tomorrow?”
+
+“Would it take long? Only, I work tomorrow.”
+
+“I can meet you there whenever you like. All you have to do is point to it, then you can go.”
+
+“I can do that. But then I’m done, right?” The boy saw all three adults look at each other, and his voice rose. “And then I’m done, right?”
+
+Haley took off his hat. “That’s unlikely, Mr. Raphael.”
+
+“Why? I didn’t do anything wrong!”
+
+Haley looked at Penn. “Does he know?”
+
+The thief shook his head.
+
+Haley turned back to the boy. “You’re right. You didn’t do anything wrong. But you accidentally stumbled onto something serious. Can I trust you to be careful?”
+
+Raphael nodded.
+
+“That egg was probably used as a murder weapon.”
+
+Eleanor reached out and took Raphael’s hand. He barely felt it.
+
+“You mean that rich American, don’t you?” he asked.
+
+“Yes,” Haley said. “He was murdered on Wednesday night, sometime between nine and ten o’clock. It’s possible that the man you saw was his murderer.” The inspector waited to see if Raphael would have anything to say to this, but when the boy stayed silent, Haley went on. “I agree that it’s unlikely he saw you—if he’d known you were there, he probably would have waited to dump the egg somewhere else—but I still want you to be careful who you talk to about this.”
+
+“Why?”
+
+“Because I don’t want the murderer to know there might be a witness.”
+
+Raphael used his free hand to jam his hat back onto his head. “I didn’t see who it was.”
+
+“But he doesn’t know that, and he might not have the patience to find out. Do you understand how serious this is?”
+
+Raphael nodded.
+
+“Have you told anyone else about this?”
+
+“I told my mum about the egg. Not the man.”
+
+“Then the four of us are the only ones who know. We won’t tell anyone, so if you keep quiet, then I don’t think you’ll be in any danger.”
+
+“I can keep my mouth shut.”
+
+“Good. When we find the murderer, there’s a chance you might be called as a witness and have to show up in court.”
+
+The boy pulled the brim of his cap down so hard it bent his neck. “Here—you’re not bad. Lady Serrs likes you, and you listened. You didn’t yell at me. But I don’t want to stand in front of a judge and let him call me a liar with all those people watching.”
+
+“Why would he call you a liar?”
+
+“He will.”
+
+“Do you have any reason to lie? You came to me of your own freewill, and you told me a nice straight story. If I can see that, I think the judge will see it too.”
+
+“And what if he doesn’t?”
+
+Raphael felt Eleanor squeeze his hand. He looked at her.
+
+“I’ll be there for you,” she said. “Every day you have to sit in that courtroom, I’ll be there.”
+
+The boy shook his head. “It’s a murder. You don’t want that.”
+
+“You’re my friend.”
+
+“What if it gets too gruesome and they kick you out?”
+
+“I’m Lady Eleanor Serrs, the daughter of Duke Erravold Aubrey-Serrs! They can try.”
+
+Penn and Haley both hid their amusement, but Raphael grinned at her.
+
+“That’s a lot of rank to pull.”
+
+“It has to be good for something.”
+
+“All right, Lady Serrs. I’ll do it.”
+
+Haley pulled out a card. “Do you know how to use a phone?”
+
+“I know people who do,” Raphael said.
+
+“You know, it’s a relief to work with someone as reliable as you.” The inspector handed him the card. “If you have any question or concerns, you can call me. If, for whatever reason, you can’t get to a phone, go to any policeman or police station and tell them that you need to talk to Chief Inspector Haley. They’ll make sure I hear about it.”
+
+“Got it.”
+
+“I’ll need your address as well.”
+
+Haley wrote it down, as well as the time Raphael agreed to meet him the next day, then he put away his notepad, stood up, and took a step closer to Penn.
+
+“The egg?” Haley muttered.
+
+“Still at Croft’s,” Penn said.
+
+“Is he expecting me?”
+
+“Yes, but he doesn’t know why.”
+
+While the two men were talking, Raphael turned to Eleanor. “Why are you in all this, Lady Serrs?”
+
+The boy’s question muted both Haley and Penn. When they looked at each other, they saw a mirror of their own unease. Each struggled to think of something he could say to deflect or distract from the question.
+
+While they were still thinking, Eleanor said in a soft voice, “I knew Dominic Winfield. He was friends with me and my cousin.”
+
+“Is that the man that was murdered?”
+
+She nodded.
+
+“I guess that would make it important to you,” the boy said.
+
+“It makes you my hero, Raphael.”
+
+“A hero?”
+
+Eleanor smiled when she saw the skepticism in his smirk. “Yes, a hero,” she teased. “An angel.”
+
+“Not that again.” Raphael tried to sound gruff, but he tucked his hat so she wouldn’t see his blush.
+
+“Do you think they’ll put you in the papers?” Eleanor asked.
+
+“How would I know?”
+
+“I hope they do. Then I can brag to all my friends that I know you.”
+
+That idea seemed to please Raphael.
+
+“Come on.” Penn kicked the boy’s boots. “I think it’s about time to go.”
+
+Raphael stood up. Since his hand was still in Eleanor’s, he helped her to her feet.
+
+“Your hero then, my lady.” He bowed over her hand and kissed it.
+
+This time, Penn and Haley were very careful not to look at each other.
+
+Eleanor laughed and curtsied.
+
+They all walked to the front of the church together. Eleanor and Haley stopped at the street. The inspector hailed a carriage while Penn and Raphael kept walking. The boy had his hands jammed in his pockets, but when Eleanor called good night to him, he turned and waved to her until Penn roughly pulled his head around.
+
+As a hansom cab rode up and stopped beside them, Eleanor turned and saw Haley watching the retreating figures.
+
+“Mr. Haley?”
+
+The inspector shook his head. “It goes against all my instincts to let him walk away like that.”
+
+“You mean Grandpa Westwin?”
+
+“But I think he’ll look after the boy.” Haley put his foot up on the floor of the carriage and put out his hand. “Well, Miss Serrs, I’ll see you home.”
+
+Eleanor didn’t take it. She stepped back. “Thank you, Mr. Haley, but I’d rather walk.”
+
+After a second, Haley withdrew his foot and motioned for the cabby to drive on. As it pulled away, Haley turned to Eleanor.
+
+“Then we’ll walk.”
+
+“But—”
+
+“I brought you here, and I’d like to see you home.”
+
+Eleanor’s cheeks flushed, and her voice trembled, but she forced herself to speak, even if she was speaking to the cobbles. “Mr. Haley, please don’t think I don’t appreciate what you’re trying to do—it’s considerate of you—but you don’t understand.”
+
+“Then help me understand.”
+
+“I really do want to walk.”
+
+“I know.”
+
+“No, you don’t.”
+
+Haley pressed his lips together.
+
+Through it all, Haley’s voice had been calm and soft. If it had been any other way, Eleanor would never have ventured an opinion, but when she saw how patiently he was watching her, she felt a thread of courage unwind in her chest.
+
+“I’ve never been in this part of the city before,” she said. “We’re close to the ocean, and the stars will be coming out. You want to get me home, but I want to explore.” She took a breath. “So, again, thank you, but I can see myself home.”
+
+“I’m willing to go with you.”
+
+“I don’t know how long I’d be. Don’t you need rest?”
+
+“I’ll rest much better if I know you’re safe.”
+
+Eleanor fidgeted with her fingers. “It’s not that dangerous, Mr. Haley.”
+
+“Miss Serrs, if you want me to leave, I will, but I’m willing to walk wherever you want. I don’t care how long it takes. If you want silence, I won’t speak until I’m spoken to and you can shut me up with a word. I’ll walk three feet behind you if that’s what you want, but, please, may I accompany you?”
+
+Eleanor looked at him out of the corner of her eye. “You don’t mind?”
+
+“I promise, I don’t mind.”
+
+She sighed. “All right.”
+
+Eleanor started walking. Haley waited before following her.
+
+They hadn’t gone a yard before she turned to him. “As long as you behave, you don’t have to stay three feet behind me.”
+
+Haley took a few quick steps to catch up. “Thank you, Miss Serrs.”
+
+As he touched his hat, he saw the hint of a smile on her face, and he smiled in return.

@@ -1,0 +1,359 @@
+---
+id: 087e4d3b-727e-5874-a2d1-9886f752e471
+page-type-slug: story-chapter-royal-road
+title: "EIGHTY-SIX: One Word"
+slug: 0087-eighty-six-one-word
+partOf: super-supportive
+position: 87
+ownLength: 3965
+unit: words
+publishedAt: 2023-10-28
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1388481/eighty-six-one-word"
+royalRoadId: "1388481"
+---
+
+86
+
+Alden slept like a baby.
+
+Going to bed physically tired and emotionally drained on the night you’d found out your missing friend was okay turned out to be the perfect recipe for rest. When his alarm woke him early in the morning, he turned it off and hugged his pillow tighter.
+
+Bed is amazing. I’m going to sleep until noon.
+
+He was on his way to doing it, too, when someone turned on all his lights and yanked his blankets off with a businesslike brusqueness that was almost as cold as the air in his room.
+
+“No,” Alden moaned, bringing his knees up to his chest. “Why??”
+
+“Because you have school. You ran out on your first day. You can’t skip your second. Your new teachers will think you’re a flake,” said Boe, reaching over to yank the pillow away, too.
+
+Alden clung to it. “It’s not real school. The first week was optional. I haven’t even moved into the dorms!”
+
+“But you showed your face, and they all know you don’t have anything better to do now. So you’ll make yourself look bad. Go to school. Make nice with the other Avowed.”
+
+Alden tightened his grip on the pillow. “That was the best sleep I’ve gotten since February,” he hissed.
+
+“You were that relieved to see me, huh?”
+
+“No! How can an empath be such a heartless monster?”
+
+Boe rolled his eyes. “Did you really want to sleep all day?”
+
+“I guess not. But I didn’t plan to go to school either. I planned to stay here with you.”
+
+“Thanks,” said Boe. “But I stayed up all night maintaining my barrier and sorting out my own return to life, so I’m going to sleep all day. And you can go to school. And then we can hang out all afternoon.”
+
+He ripped the pillow from Alden’s grip.
+
+Alden groaned.
+
+“You can go late and skip the science lecture you hated,” Boe said placatingly, tossing the pillow at the foot of the bed. “It was a giant class, right? Nobody will miss you there. ”
+
+That wasn’t a bad idea, and…Alden checked a blinking message. “Natalie wants to come over to deliver my last few meals.”
+
+“That’s fine. I’ll just hide out in here. Why are they your last meals?”
+
+“She’s not going to have time to prep for me as often with her classes. Maybe every now and then, she said.”
+
+Boe raised both eyebrows at him. “I’m not reading you right now, but you sound mournful.”
+
+“You tasted her food.”
+
+“I did.”
+
+“How am I going to survive without her?”
+
+“Judging by the number of messages you left me describing various condiments, not too well. Can I borrow more of your clothes?”
+
+Alden waved at the closet then rolled out of bed.
+
+[Come over. I’m running a little late this morning, so if you’re heading up to Apex early again I won’t be able to go with you.]
+
+“I texted her,” he reported. “Stay out of sight.”
+
+A couple of minutes later, he received a notification that Natalie was at the door, and he went to open it.
+
+“Hey!” She glided past him into the kitchen. She was wearing a pleated skirt and a pastel blouse with a pattern of rabbits and radishes on it. Her arms were full of containers, and the smell of vanilla and cinnamon followed her into the apartment. “Don’t be upset with me. I know you’re going easy on the sweets. But I finally got the cinnamon rolls right, and they’re fresh out of the oven, so I just had to bring them over!”
+
+He shut the door and breathed deeply. “Natalie, I miss you already.”
+
+“We’re going to the same high school.”
+
+“I’ll starve without you.”
+
+Natalie giggled as she set everything on the counter. She opened the fridge. “The campus has so many options! You’ll find something. How was your first day? Are the teachers nice? What about the other students?”
+
+They chatted briefly, and the cinnamon rolls made an appearance. She’d even managed to make something that tasted so much like real cream cheese frosting that Alden was going to need to find a way to send one of these things to Gorgon.
+
+“I know you said you were running late, so don’t mind me,” Natalie chirped. “I’m just going to have my coffee in your living room with Victor. There’s my precious boy! Who’s a good kitty?”
+
+Victor was rubbing his head against Natalie’s ankles.
+
+Alden swallowed an enormous mouthful of sticky, sweet roll. “Um…yeah. That’s all right.”
+
+He glanced past her at the door to his room. It was opened a crack. He definitely hadn’t left it that way.
+
+“I’m going to go change out of my pajamas. Be right back.”
+
+The second he entered his room, he was met with Boe sitting cross-legged on the foot of his bed, polishing his glasses on the hem of his shirt. He put them on his face, and gave Alden a double thumbs up.
+
+“What were you doing poking your head out?” Alden whispered. “What if she’d seen you?”
+
+Boe grinned. [There are certain things a person has to experience for himself.]
+
+Right. We can text.
+
+[What’s that supposed to mean?]
+
+[You can’t just casually mention in one message that your personal chef put all her freely selectable S-rank points in Appeal and then never describe what she looks like at all. What kind of a friend does that?]
+
+[You risked prison to see how pretty she was???]
+
+[Yeah. And it was very worth it.]
+
+“No it’s not,” Alden mouthed at him.
+
+[She’s a masterpiece. The System has outdone itself. And I barely caught a glimpse of her face. Are her eyes gold, or am I imagining it?]
+
+Alden had spent some time pondering the eye color since it was Natalie’s most impossible-looking feature. [I think they’re as gold as they can be without falling over the edge of fascinating into the uncanny valley.]
+
+[She must have been stunning to start with. I don’t think even S-rank Rabbits get enough free points on their first affixation to do that well. Did she choose some trait that boosts her appearance on top of it?]
+
+[I’m not going to ask her that. Just sit here quietly. I’ve been letting her and the other girls from her apartment hang out when they want. I couldn’t think of how to tell her no without it being unusual. She probably won’t be long. I’ll throw up the Do Not Disturb as soon as she’s gone so they can’t get in for the rest of the day.]
+
+[It’s fine if she stays. I’m jealous of Victor. Listen to all the nice things she’s saying to him. Even her voice is worth it.]
+
+Alden rolled his eyes.
+
+********
+
+“Okay, three things,” Boe said a short while later. He was in the fridge, opening all the containers Natalie had brought and sniffing them.
+
+Alden was boxing up a cinnamon bun and trying to figure out the best way to get it to the Chicago consulate.
+
+“Number one— Alden, you’re friends with a teenage supermodel! Strong emphasis on the super. And she cooks. And she’s sweet. I did not see your life going this way.”
+
+“I’m going to have some cereal delivered to the apartment so that you don’t eat all of my magic meals.”
+
+“Cereal?”
+
+“You like cereal.”
+
+Boe inhaled deeply over a container full of soup. “I do. But you’re really asking a lot of highly processed breakfast food if you think it’s going to beat this.”
+
+“Cereal and whatever else you want.”
+
+“Sandwich-making supplies will be fine. Number two—and I’m not joking around with this one—you know you’ll be in huge trouble if anyone finds out you’re harboring an unregistered, don’t you? At the very least, you would get expelled from your new school.”
+
+Alden turned to him. “Don’t get caught.”
+
+“I don’t plan to. If anyone who isn’t you comes through the door, I’m catspacing myself. But you need to seriously consider how risky this is. Do you want me to go ahead and leave?”
+
+“No.  Also, how would you leave?”
+
+“Again. Catspace. I disappear; you send Victor to Jeremy. My time sense isn’t good there, but if I try to do it fast I’m sure I’ll be in and out within a week or so.”
+
+“Or six years later. Or never. That skill sounds dangerous, Boe.”
+
+“I think the riskiest thing about it is the chance that I end up appearing without my clothes in front of Jeremy’s sister. Sarah would beat me to death with a wind instrument before she stopped to realize who I was.”
+
+“It might not be Sarah. It might be his new girlfriend. She carries a tennis racket.”
+
+“Oh we need to talk about him and Kimberly Martinez at some point. He’s dating an older woman. And he didn’t even have to work for it! She asked him out at lunchtime in front of a hundred people. When he was wearing the wiener dog shirt.”
+
+“The dachsund-frolicking-with-a-ketchup-bottle shirt?”
+
+Boe nodded. “That’s the one.”
+
+“His taste in clothes…” Alden trailed off.
+
+Then he looked over at Boe’s taxi driver, who was lying in the spot on the sofa Natalie had just vacated. “I don’t want to jinx Victor, but has it occurred to you that he’s a pretty old cat?”
+
+“You’re age shaming him as well as fat shaming him now?”
+
+“I’m being serious like you asked,” Alden said. “You be serious, too. What happens to you if the creature you’ve attached yourself to dies? Do you know?”
+
+Boe was quiet.
+
+“Oh my g…you don’t know, do you?”
+
+“I’m not sure,” he admitted. “I like to think there would be some kind of emergency eject, but it’s not something I can test.”
+
+“And you’re mad at me for being reckless?”
+
+“Mine was a last resort,” said Boe. “To keep me from going insane. Or doing something I would regret until the end of time. Yours was some kind of ‘Alden feels like he has to throw himself at danger because’—no. It’s over. Never mind. About the cat…you have to admit that if I’m just planning to be gone for a week or two, the likelihood of the cat dying right then isn’t that high.”
+
+Alden tossed the cat a diet treat from a jar on the counter. “You’re awesome, Victor. I hope you have nine lives and live to be twenty in every one of them. But, Boe, if you have to use your escape plan, shouldn’t you attach yourself to something sturdier? One of those tortoises that wander around gardens eating lettuce for two hundred years. Or a young human being.”
+
+“You volunteering?” Boe asked in a dry voice.
+
+Alden stared at him. “Yes. Of course. If you ever need to.”
+
+Boe blinked. “Oh…thank you? I’ve never tried the skill on a person though. Like I said, I haven’t had many opportunities to practice it. And since I don’t know exactly when I’m coming back, a house pet is actually better than a human in some ways. If I used you as my attachment point, you’d have to confine yourself to a private location until I reappeared. Victor’s usually chilling out in a semi-private location anyway, so he doesn’t have to inconvenience himself for me.”
+
+Victor’s a cat, thought Alden. What if he’s chilling out in a garbage can? Or on top of a roof? Or under a parked car?
+
+Alden knew his concern must show on his face, but his friend ignored it.
+
+“Number three,” Boe said. “You should pretend to call me from a public location today. And we should talk. Just like we would if you’d heard from me for the first time yesterday, but we hadn’t seen each other.”
+
+“You want a fake phone call?”
+
+“Anesidora is so incredibly not private, Alden. The Informant—”
+
+“Oh, I met his son! He tried to sell me experimental Wright equipment. He knew all kinds of things about me. Not deeply secret stuff, but it was still unsettling.”
+
+“The Informant is the biggest example. But at least the guy has a reputation for never openly violating the rules about private spaces. You’ve got to take into account everyone else who can get intel on you. Superpowers make it really easy to spy on people. Sways, audials, people with legal and illegal listening gear. And there are probably a hundred spell impressions that will let people pry without anyone ever knowing.”
+
+“I realize that. I can’t decide if it’s something I have to be constantly worried about or not.”
+
+“You have to be constantly worried about it with regard to certain subjects,” Boe said seriously. “For example, me. Unlike the rest of the world, Anesidora is fairly forgiving about unregistered Avowed. They’ll treat us like we’re one hundred percent legit as long as we willingly show up before we’re twenty. And even if you’re older or you get caught and dragged here against your will, if you haven’t ever committed a crime other than refusing to register, they just give you a probationary period for a couple of years. During it you have to agree to have all of your talent uses logged. Then you’re a citizen just like everyone else and free to move on with your life.”
+
+“Having every power use logged sounds terrible,” said Alden.
+
+“Not compared to prison. And depending on how the legal system is feeling, that’s where I might end up instead of in the Welcome Aboard program if I get caught here in this particular situation. Technically I used my powers to break onto the island…which there can’t be a lot of examples of on the books. But I’m sure they’ll take a dim view of it since I’m Swayish.”
+
+“I would tell them it wasn’t your fault.”
+
+“And then they would point out that if it was an accident, I should have just gone to announce myself the second I arrived.”
+
+Alden couldn’t disagree with that. “So. Fake phone call. Yes. Let’s do it.”
+
+“Thank you. We’re actually lucky I popped up while you were still in intake. In Rabbity intake, too. We’re as far from Apex as we can get. Your neighbors don’t have spy powers. The rooms are all sound-proofed. We can be pretty sure they’re not bugged since you newcomers are well guarded, and nobody would risk it just to eavesdrop on random kids constantly moving in and out of the place. And the Sways are in an entirely different building here.”
+
+“I'm supposed to move into the CNH dorms at the end of the week.”
+
+“I know.”
+
+“You’re not going to suddenly decide to register between now and Saturday, are you?” Alden asked. He kept his voice casual.
+
+Boe fiddled with one of the magnets that held the weekly activities schedule to the fridge. “You wish I would.”
+
+"Of course I do,” Alden answered. “But I don’t expect you to. I swear. A lot of people treat Sways like shit here. U-types tend to be admired, and some people are jealous of them, I think? Because of the rank-up potential and the one-of-a-kind powers. I’m just starting to get a handle on it all. But I know you wouldn’t enjoy being treated like shit or like an extra-special mystery. You should stay at home and be normal. It would make me happy for you if that was what you wanted and you got to have it.”
+
+“I’d fucking love to be normal.”
+
+Alden smiled.
+
+“But I’m not,” said Boe. “And you’re not. I was agonizing over it a lot while you were at LeafSong. You weren’t supposed to get selected, you dick. It messed up all my future pretending-to-be-normal plans.”
+
+“Sorry about that.”
+
+“What are the chances? I used to think you were going to be chosen. When we were kids. Because you said you really wanted to be a superhero, and I thought…well, I was eleven. I had some specific, crazy ideas about how the System chose Avowed. But I grew out of it.”
+
+“I promise your crazy ideas aren’t as crazy as my current theories,” Alden muttered.
+
+“Really? I’d love to hear whatever you’ve come up with. But what I need to tell you now is…I don’t think I can.”
+
+“Register?”
+
+Boe shook his head.
+
+Alden swallowed. He’d known Boe probably felt that way. If he’d wanted to live on Anesidora, he’d already be living here. But there had still been a flicker of hope inside him.
+
+“Since you’re here now…maybe one day,” Boe said. “But I’ve got some things I have to take care of first. If I even can. And, honestly I need to think. I didn’t do a lot of thinking while you were away.”
+
+“No?”
+
+“Well, I did, but my thoughts were the kind of thoughts that made me sure I needed to magically evacuate from humanity, so…”
+
+“Yeah.” Alden hopped up to sit on the counter. “Those kinds of thoughts get erased when your reality changes, right?”
+
+Boe put the magnet back on the fridge. “I hope so.”
+
+“For example, I had thoughts about hiring other Avowed to carry me around in a palanquin when I got home. And they were going to force-feed me racks of ribs.”
+
+“Why did you abandon that plan? I’m in favor of it.”
+
+“I suppose it could always return if I have a few too many bad days in a row.”
+
+Boe’s smile faded. “Mine weren’t nearly that fun.”
+
+“Mine weren’t really either. Do you know…well, you can’t know. But it almost didn’t happen. Me getting stuck on Moon Thegund. I had to go to the party—”
+
+“It’s been so long since I thought of you at that party. You were so unhappy about it, but Jeremy and I were having a lot of fun imagining you there. Please tell me you’ve got pictures of your costume somewhere.”
+
+“Not a single one,” said Alden. “But that party kept me from picking berries that night. And if it hadn’t, I would have been able to…”
+
+Save Kibby and her sister. The next night, I would have saved her father and the scientist in the green coat. The only reason I didn’t teleport in time was because Kibby was scared of leaving. We delayed so her dad could make her feel better.
+
+The delay would have come a night earlier if not for the party. It would have come on a night when nothing went wrong. On the day the System broke, I would have left a few minutes sooner.
+
+Three more people would have lived. Kibby would have her family.
+
+He wanted to say it all. But it was too much detail about his real assignment from Joe for the contract to abide. The words wouldn’t come out of his mouth.
+
+He cleared his throat.
+
+“I would have picked the berries faster,” he said. “If not for that party, I would have come back home when I was supposed to. I know nobody hurt me on purpose, but things happened that wouldn’t have happened if others had just been semi-okay people instead of flaming-dumpster people. And sometimes, when I was puking up food because I’d guessed wrong about it being safe for humans to eat or I was watching one of the lab lights flicker out for the last time and feeling like it was a metaphor for what was happening to me and Kibby…I wanted some punishment. For the dumpster people.”
+
+“Just hearing about it makes me want to punish the dumpster people, and I wasn’t even there.”
+
+“I don’t mean justice, Boe,” said Alden. “I mean punishment. If someone had sent me a space pigeon message while I was in one of those moods, and it said that Manon and the executives who owned the lab had gotten lost on Sreeeakk and were being hunted by the locals, I’m afraid I might have smiled.”
+
+He didn’t feel that way anymore. The anger was there but it was a dull ember of what it had been. It was hard to maintain a hot rage when the corporation was completely beyond the scope of his knowledge or reach and Manon was involved only because of a series of manipulations she couldn’t have known would lead to the disaster.
+
+I wish the boater would quit sailing through my mind at the worst moments. Even if I go through with the "email everyone" plan, am I still going to feel like I haven’t done enough? Manon is the—
+
+“To hell with the dumpster people!” Boe had just taken a mug from a cabinet. He raised it in salute. “May the grivecks enjoy their feast.”
+
+It was so great to have Boe around.
+
+“Don’t you need to go to school?”
+
+“I was just thinking you were good company, and you come out with that.”
+
+“You’re a legal voter and everything now. You have to be responsible.”
+
+“No. Let’s play video games all day.”
+
+“How are you going to fake being normal and give me my fake phone call if you stay here instead of going to school?”
+
+Alden groaned.
+
+“Anyway, I’m not playing video games with a person who had his hands magically speeded up. Unless they’re puzzle games. Or games where we use foot controllers.”
+
+“Buzzkill.” He checked the time. “But if I’m going, I really do need to leave…ten minutes ago. I’m going to have to run to make it to class.”
+
+He slid off the counter and grabbed his bag. “I’ll leave you the laptop. I’ll take the tablet. It’s unintuitive if you haven’t used Artonan tech before.”
+
+Boe was leaning toward the coffee machine, studying all the buttons. Just as Alden was about to head out, he said, “The hand speed—you did it for spell casting, right?”
+
+Alden stopped and his eyes widened. “I completely forgot I blurted that out last night.”
+
+“Oh, I definitely didn’t forget.” Boe pulled on a lever, and the coffee machine started grinding beans. “You’re a wizard now?”
+
+“I mostly just know kindergarten-level spells.”
+
+“But you do know spells. As in multiple ones. That the System didn’t give you.”
+
+“Yes.”
+
+Boe turned to smile at him. “Alden, you’re a wizard?”
+
+Alden adjusted his bag. “Humans can’t cast just like Artonans. Their spells are designed for them. I’m anatomically incapable of lots of them. But for hand casting at least…one day, I’m going to be a wizard.”
+
+It felt simultaneously embarrassing and awesome to say it.
+
+“Oh my god,” said Boe, grinning more now. “That’s so freaking cool.”
+
+“It is.”
+
+“I don’t know why you’re turning red. It’s literally so cool I can’t even think of a way to make fun of you that doesn’t just make you sound more awesome. You mage geek. You didn’t get to be an Adjuster like you wanted, and the Rabbit spells made you mad, and so you just…became a wizard instead?”
+
+“It wasn’t that intentional.”
+
+“Who cares?! I didn’t know humans could even do that!” Boe stared at him. “Do the Artonans know humans can do that?”
+
+“They’re aware it’s a possibility, but I think it’s such a distant one that they don’t take it seriously. Humans aren’t naturally suited to it. A lot of different complicated things had to come together for me to get there. And the Artonans definitely don’t know that I’ve actually managed it. I’m keeping it a secret from them, too. ”
+
+“This is terrible,” said Boe, shaking his head. “You just keep sounding more ballsy and badass with every word that comes out of your mouth. I’m going to have to diss your rank more until I feel better. Shitty B-rank.”
+
+“Shitty B-rank wizard,” Alden countered.
+
+Boe winced. “Oh great.”
+
+Alden nodded.
+
+One word really could hold a lot of power.
+
+*

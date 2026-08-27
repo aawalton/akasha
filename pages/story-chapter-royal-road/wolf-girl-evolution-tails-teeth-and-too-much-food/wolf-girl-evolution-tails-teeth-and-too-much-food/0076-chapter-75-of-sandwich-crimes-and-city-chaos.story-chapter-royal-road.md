@@ -1,0 +1,537 @@
+---
+id: eac02194-0f4b-5a14-bd05-bbac4a8afda5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75: Of Sandwich Crimes and City Chaos"
+slug: 0076-chapter-75-of-sandwich-crimes-and-city-chaos
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 76
+ownLength: 2215
+unit: words
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2810563/chapter-75-of-sandwich-crimes-and-city-chaos"
+royalRoadId: "2810563"
+---
+
+PoV Adventurers
+
+The group had turned away just for a moment. Not even a particularly long one, and only to check out what the commotion had been about.
+
+A cart had tipped, and two oxen were acting weirdly scared. One had mooed indignantly. The farmers were shouting, trying to calm them down. But the shouting clearly wasn’t helping any.
+
+By the time their attention returned, Luna was standing back beside them, right where they remembered, tail wagging proudly, munching away on–
+
+“…Luna,” Syl began slowly, tone flat. “Where did you get that?”
+
+Luna paused mid-bite. Crumbs clung to her cheeks. Something leafy poked from the side of her mouth.
+
+She held up the half-eaten remains of her prize in one hand, and a piece of drake roast in another. “Trade! Luna traded, as Syl taught! Tasty! Goes well with meat!”
+
+It was a sandwich.
+
+Trianna blinked.
+
+Ray leaned forward with a quiet murmur.
+
+“The better question is… when did she even have time to get that?”
+
+Veric squinted down the road.
+
+“She was gone less than twenty seconds.”
+
+“More than long enough,” muttered Sepio, already rubbing his temples. “This is how cities fall, and civilizations crumble to dust…”
+
+Trianna stepped forward, folding her arms.
+
+“What did you trade, exactly?”
+
+“Roast piece!” Luna replied proudly, tail swishing. “Very tasty one!”
+
+Syl's eye twitched.
+
+“The drake roast?”
+
+Luna nodded rapidly.
+
+Ray sighed.
+
+“Well… could’ve been worse.”
+
+Veric tilted his head.
+
+“At least she returned of her own accord. That counts for something.”
+
+Trianna looked thoughtful.
+
+“Does it?”
+
+Then the silence won as the realization kicked in.
+
+If Luna had vanished, made a trade, gotten food, and returned in mere seconds without them noticing...
+
+Ray muttered the obvious:
+
+“She’s too fast.”
+
+“She’s too Wild,” said Sepio.
+
+“She’s Luna,” added Syl quietly.
+
+They turned as one to look at the town ahead.
+
+Walls low. Streets narrow. Crowds forming near the market gate. Children running between carts. Vendors setting up wares. Chickens.
+
+So many chickens.
+
+The town would never survive if Luna so wished.
+
+“Impossible,” Sepio muttered, already picturing the worst. “She’s completely impossible to contain.”
+
+Veric nodded solemnly.
+
+“Like the wind. Or taxes.”
+
+Trianna grinned.
+
+“This is going to be a long day, isn’t it?”
+
+Ray groaned.
+
+“Don’t say it like you’re enjoying this.”
+
+“Oh, come on!” Trianna shrugged. “Don’t tell me you’re not curious! I want to know what she tries next.”
+
+Syl’s voice cut through their musings like a thrown dagger.
+
+“Keep up.”
+
+She was already walking fast – no, chasing after the source of the sandwich crime.
+
+Luna, oblivious to all commentary, had resumed her zoom-propelled exploration.
+
+“Mlem patrol!” she declared loudly, licking the air, trying to see if there are any other tantalizing scents wafting about.
+
+Veric exhaled and started after Syl.
+
+“We will need containment procedures.”
+
+“I vote leash,” Ray muttered.
+
+“You try putting a leash on her,” Trianna shot back, jogging after them.
+
+Sepio took a long breath and followed last.
+
+“May the gods have mercy.”
+
+Luna, meanwhile, had finished the last bite of the sandwich. It went howling well with the drake roast!
+
+Her nose twitched. She spun once, tail high.
+
+“Time to find more food!”
+
+Syl caught up just in time to snatch the back of her shirt.
+
+“No running or zooming inside or beyond the gate.”
+
+“But–”
+
+“No biting.”
+
+“Luna would never!”
+
+Syl raised an eyebrow.
+
+“…on purpose,” Luna corrected, grinning wide.
+
+The guard at the gate gave them all a once-over. His expression went from professional to confused to ‘a-ha!’ in the span of three seconds, eyes landing on the wolf-eared girl currently buzzing with energy.
+
+Luna waved.
+
+The guard just shook his head, amused. Then let them through.
+
+***
+
+PoV Luna:
+
+Altracia smelled incredible!
+
+Luna barely made it ten steps past the gate before her nose tilted to the sky, her ears perked, and her entire soul began to vibrate.
+
+Smells she would only later learn the names for assaulted her nose.
+
+Meat! Fresh bread! Crunchy things! Spices! Soft cheeses! Fried sizzlies!
+
+Smoke and flour and hot oil. Salt and wood. Sweat and perfume.
+
+Fruit, snacks, and everything nice!
+
+And sugar. So much sugar.
+
+“Awoo-mazing!” she gasped, spinning slowly like she had just stepped into a dream.
+
+The town moved in every direction at once. Carts rattled past, children ran laughing between wagons, one merchant shouted about fresh onions, and she could hear something very clanky banging metal on metal near a crooked alley.
+
+And the animal noises were there, too!
+
+Smelled like weak prey.
+
+But Luna would taste them anyways!
+
+She took it all in with shining eyes and a slowly rising tail.
+
+The excitement growing as they moved further into the town.
+
+“Luna,” Syl warned, already bracing.
+
+“Pack is here. Good.” Luna nodded solemnly. “Luna ready for mission.”
+
+“What mission?” Trianna asked.
+
+“Everything mission!”
+
+Then the smells hit her again.
+
+Her head whipped to the side, tail fluffed to full alert.
+
+“FOOD!”
+
+The street had stalls.
+
+Food stalls.
+
+Sizzlers on sticks. Balls of dough. Pouches that puffed with steam. Bright fruits and sauces and meats that dripped glorious fat down iron racks.
+
+Luna zoomed.
+
+Syl reached out but only caught air.
+
+“No–!”
+
+Too late.
+
+“Trade! Trade!” Luna chirped as she skidded to a halt at a stall of something flat and foldy and meaty.
+
+She whipped out a piece of her roast from the shadows and slammed it down proudly. “Luna trades!”
+
+Before the startled vendor could speak, Luna snatched a golden triangle and bit down.
+
+Crunch.
+
+He blinked. “Uhh–”
+
+Syl appeared behind her, panting slightly, face already entering apology mode.
+
+“I am so sorry,” she said, giving him a silver coin and retrieving the piece of roast from the counter. “She’s learning. Very new to… everything.”
+
+The vendor chuckled, and gave her the change back.
+
+“Cute kid.”
+
+Luna nodded, still chewing.
+
+“Very good trade,” she declared.
+
+Then her ears twitched again.
+
+“Oh no,” Trianna whispered from behind. “Not again.”
+
+“Oh yes,” Luna breathed.
+
+Syl turned in horror. “Luna, wait–”
+
+Gone.
+
+With Shadow Step and Shadow Run, their little Wildling was off!
+
+Luna bounced from one food stand to another, nose twitching like it was doing its own dance. A stand with colorful powders made her sneeze. A cart of honeyed nuts got three very intense sniffs.
+
+One stall even had no vendor, but Luna really wanted the melty smelling thing!
+
+She did the trade anyhow!
+
+Then was off again.
+
+A basket of apples earned a slow, suspicious inspection.
+
+“What is this… red round thing?” Luna muttered, sniffing. “Red but not meat? So weird!”
+
+The vendor chuckled, and threw her an apple to try anyway.
+
+“My treat, kid.”
+
+She blinked at it, grinned, and tucked it into her Maw.
+
+“Thank you, mister!”
+
+And then she was off again!
+
+It wasn’t until a few zooms later that Luna realized… the crowd thickened.
+
+Humans. There were too many humans.
+
+Too many things.
+
+Too many smells.
+
+No longer as tantalizing.
+
+Overpowering, every thread leading somewhere. Everywhere, in every direction!
+
+Softskins swirled around her – bumping, brushing, talking over each other. Loud voices. Strange smells. Clothing that rustled. Metal that clanked. Spices that tangled into confusion.
+
+Her breath caught. Her tail stilled.
+
+She swirled around, trying to find the familiar faces.
+
+Trying to find her pack.
+
+But there was no Syl.
+
+No Ray, no Trianna.
+
+No pack.
+
+“Pack?” she called, too quietly.
+
+Nobody turned.
+
+“Pack?!” she tried louder.
+
+“PACK?! WHERE PACK?!”
+
+A cart rolled past her, towering and wooden. A child shrieked with laughter, chasing a bouncing ball. A woman scolded someone about beets. A hawker rang a bell.
+
+Luna's ears pinned flat.
+
+Panic surged like claws in her chest.
+
+The smells turned sharp. The sounds too loud. Her heart beat against her ribs like a battle drum.
+
+“Pack!” she yelped, then bolted.
+
+She dove between legs and barrels, down an alley, leapt a crate, then Shadow Stepped around a fruit stand.
+
+Nose up.
+
+Sniff.
+
+Nothing.
+
+Sniff.
+
+Nothing.
+
+Sniff – spice. Spice, and calm. Tea. Magic.
+
+Second!
+
+She leapt toward the scent, half-running, half-sliding, and then crashed straight into Syl’s legs.
+
+“Luna!” Syl caught her before she tumbled, sinking to a knee, arms wrapping around the trembling Wildling.
+
+“Easy. I’m here. We’re here.”
+
+Luna clung to her shirt, tail drooping.
+
+“Too many. Too much. Too loud.”
+
+The others arrived seconds later, breathless.
+
+Trianna crouched next to her, brushing Luna’s hair gently.
+
+“First time in town, huh?”
+
+“Too many softskins,” Luna mumbled, nose buried in Syl’s coat. “They walk weird.”
+
+Ray gave her a sympathetic look.
+
+“That’s civilization for you.”
+
+“Civilization smells confused,” she muttered. “And loud. And weird. And crunchy. But no crunch allowed.”
+
+Syl smiled into her hair.
+
+“We’ll make it easier.”
+
+Luna peeked up, golden eyes still wide.
+
+“…More trades allowed?”
+
+Trianna laughed.
+
+“Only if you stay near us this time, promise?”
+
+Luna bared her teeth in a slow, hopeful grin.
+
+“Yes! Luna promise!”
+
+Syl groaned softly.
+
+“A long day,” Sepio muttered.
+
+***
+
+The clean-up operation began with Luna half-hiding behind Syl’s leg, a half-chewed pastry in her hand and the other half in her mouth.
+
+Crumbs clung to her cheek. Her tail gave the occasional guilty twitch.
+
+Step one: calm one Wildling.
+
+Syl crouched, brushing crumbs from Luna’s face.
+
+“Next time,” she said softly, “you ask before trading with your teeth.”
+
+“But it smelled so melty!” Luna whined. “And the vendor not even look! Luna thought Apex Predator rules apply!”
+
+Trianna asked, curious.
+
+“Apex Predator rules?”
+
+“Yip-yep! Appear, swoosh in, take what you want, bite, vanish. Apex Predator!”
+
+Syl pinched her nose.
+
+“That is not a thing.”
+
+“Is now!”
+
+Step two: compensate the confused vendor who still wasn’t sure if he had dreamed the whole thing.
+
+She was flour-dusted, sweet-smelling, and laughing softly.
+
+“Oh, I’ve had pigeons steal pastries before, but never had I somebody swap my pastry with a chunk of roasted meat.”
+
+Syl handed over payment and a little extra.
+
+“Thank you for understanding. She’s… new.”
+
+The woman waved it off, eyes twinkling.
+
+“Bring her back if she wants to learn how to bake. I could use the help.”
+
+Step three: return the trade item – one of Luna’s precious roast pieces – back to her hands before she starts sulking.
+
+Luna hugged it protectively, then hid it in her Maw for later again. Then she eyed what little remained of her pastry.
+
+It was tasty, even if not meat!
+
+Luna hoped there could be more…
+
+Once Syl deemed the marketplace stabilized, she straightened and addressed the team.
+
+“Right. Normally we would head to the Guild immediately, but Luna needs to be presentable. Proper clothes take priority.”
+
+Luna blinked down at her current attire. A shirt too big, sleeves rolled and tied, hem dragging a little.
+
+“What wrong with shirt? Covers all! Even tail-wag spot!”
+
+Ray raised a brow.
+
+“It looks like you mugged a scarecrow.”
+
+“Or a wizard’s laundry line,” added Trianna.
+
+“Luna strong. Luna mug no one!” she protested, tail flaring indignantly.
+
+“You don’t want to stand out,” Syl said gently. “Town folk already stare. Clothes help blend in.”
+
+“Also help not get arrested,” Sepio muttered from behind.
+
+The others stared at him.
+
+Who would even arrest that little pup here?
+
+Syl shook her head, and off to the tailor’s they went.
+
+***
+
+The shop smelled funny!
+
+Not food-funny. Weird-funny.
+
+Fabric dust, pressed linen, old thread, and something oddly floral.
+
+Luna sniffed deeply.
+
+“This place smells of plants. And… of dead prey?”
+
+She grabbed a roll of leather and licked  it experimentally.
+
+Trianna caught her wrist mid-mlem.
+
+“No biting the leather.”
+
+“But it smells tasty!”
+
+“That’s because it was an animal. Now it’s a jacket.”
+
+Luna did not know what jacket was. But hunting prey was good Apex Predator behavior!
+
+“Jacket from prey?! Luna approves!”
+
+Syl sighed.
+
+“Let’s try things on before you approve the entire stock.”
+
+The first outfit was too tight. The second too puffy. The third had buttons that confused Luna.
+
+The fourth fit.
+
+Light leather tunic reinforced at the shoulders and sides, short-cut pants that didn’t snag when she crouched, with tail hole in the perfect spot!
+
+Soft dark boots that let her toes flex, and a sleeveless jacket that swished when she spun.
+
+She spun again. And again. Testing all motions.
+
+Clothes still confused Luna, but she did have to admit they looked nice on her.
+
+But most importantly!
+
+“Look! Zoom-compatible!” she declared, launching into a slow shadow slide across the wooden floor.
+
+The tailor gasped.
+
+“Careful!”
+
+“Best test!” Luna called, doing a second lap.
+
+Syl managed not to panic.
+
+Barely.
+
+Eventually, Luna stopped mid-spin in front of the mirror and struck a pose.
+
+“Luna looks cool!”
+
+Trianna clapped.
+
+“Very cool.”
+
+Ray smirked.
+
+“Now try not to roll in soup five minutes from now.”
+
+“Luna makes no promises!”
+
+Veric nodded.
+
+“Gear is sound. Well tailored and easy to move in.”
+
+Syl crouched to adjust the hem and brush a stray lock of Luna’s hair behind her ear.
+
+“You look like part of the team now,” she said with quiet warmth.
+
+Luna’s tail wagged once. Then twice. Then so fast it blurred.
+
+“Part of pack! Best pack!”
+
+They stepped back onto the bustling street, sun high and noise higher.
+
+The city spread out before them.
+
+So many scents.
+
+So many paths!
+
+Luna grinned.
+
+Adventure was waiting. Hopefully with snacks!

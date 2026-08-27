@@ -1,0 +1,365 @@
+---
+id: 997f29c6-eb79-54c2-8ebe-d60e83cad8f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 114: Busy"
+slug: 0034-chapter-114-busy
+partOf: the-calamitous-bob-stubbed
+position: 34
+ownLength: 3903
+unit: words
+ownProgress: 3903
+publishedAt: 2023-04-14
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1169658/chapter-114-busy"
+royalRoadId: "1169658"
+markedReadAt: "2026-06-29T21:15:53.744Z"
+---
+
+It was now five weeks into the semester and Viv was busier than she had ever been in her life. A part of her wanted to drop everything and dedicate herself solely to finding precious things to feed Elunath since it was by far the most important task on her list. What held her back was, once again, cold pragmatism. Solfis had told her he would take care of this aspect. Her time was better spent arming herself with every technique and every scrap of knowledge she could so when the time came to act, she would have more tools. Her efforts paid off.
+
+Mana Mastery: Intermediate 1
+
+Lost Heiress (7/10)
+
+Mana mastery made up the foundation of all her spellcasting. She could see colors more clearly, including those that were less present in an individual or a spell. Her threads and glyphs were cleaner than most, faster to form, more efficient. Mana flowed more easily. It made most of the fundamentals class trivial which allowed her to spend more time on what she wanted to improve. One of those things was enchantment.
+
+Although she did not consider herself good at it by any means, it was clear she was making much progress in the field of enchantment.
+
+Arcane Constructs: Intermediate 1
+
+Her motivations were clear. Harrak needed ward stones to survive and she needed to be good at them, not just ape the same model again and again at a slow speed. Her expertise grew every time she approached a new problem or carved a new set of runes. Some of them were more fun than useful like self-opening doors or wards that would not react to children, but others were used in making the armored carriages Viv had seen carry the Enorian mages into battle. The other intriguing use of enchantment was experimental and tied into her strategy class.
+
+“And do you also have a ‘potential idea’ to go with that?” the grim-faced General Jaratalassi often asked at the end of her demonstrations.
+
+Once she had said his name aloud and realized it was very close to the Phantom Menace character Jar Jar and now she could not unhear it. It was horrible and even more so because she could not share her pain with anyone. The locals could not relate.
+
+Viv had a technique to handle the curmudgeonly old warhorse. First she would show her understanding of traditional methods, then she would ask about the methods and techniques she would do just to see what he had to say about them. Most of the time, there was a good reason why people proceeded the way they did.
+
+“Because elevation does not affect spell range, young witch. You are bending the will of the world by moving its essence, not throwing gooey projectiles made of magical snot. Yes, many spells arc, but they do not fall short because of it.”
+
+And sometimes they were some that did not.
+
+“You cannot move a shield alongside the troops you would try to protect, witch. An isolated mage trying to cover an infantry formation would be weak and isolated, quickly picked off.”
+
+Except… that was not quite correct. Shields could move with a formation.
+
+Viv was thinking long term. More specifically, she was thinking about Harrakan power projection and force multipliers.
+
+For now, Harrak was fine, kind of, but it was a very large nail on a hammer continent and it was only a matter of time before someone tried to put them down. The way she saw it, they would either face a siege, attack towards the deadlands, or attack through the forest. The defense itself was something she was relatively confident in. The problem was the rest.
+
+Viv placed a sheet of paper on the table and looked up to the standing form of Solfis. He had little commanding experience but his knowledge of tactics and history were unequaled. She started to draw and make a list.
+
+“Light troops like guards and levies are useless against the undead. They don’t have the tools to effectively take them down and they might stand up again to attack their previous allies if they are overwhelmed. Except in defense, I don’t see us using them. The same applies for an attack through the deadshield woods. Levies can do very little against actual monsters. We would just be bringing victims.”
+
+//That is not quite correct, Your Grace.
+
+//The role of levies has always been to die for the cause.
+
+//Bog down or slow elites, or face other levies.
+
+//You are too concerned about the casualty ratio.
+
+//However, I agree with your logic.
+
+“You do?”
+
+//The budding little seedling that is the new Harrak cannot afford mass casualties.
+
+//We need our population to expand.
+
+//Harrakan forces were historically comprised of fast moving elites searching for decisive engagements.
+
+//They were always outnumbered and never outmatched.
+
+//With high levels of motivation, access to Yries weapons, and you, we have the tools to recreate such a force.
+
+//You were, however, leading to something.
+
+“Right, yes. In order for our forces to overcome bad odds, we need proper logistics. We also need to leverage what we have so we can win against higher numbers and most likely a superior enemy mage contingent. I believe there are ways. The first is Tercio infantry. The second is combined arms tactics.”
+
+//Those are translated terms with no equivalent in my archives.
+
+“Let me explain. Tercios were the elite infantry of the Spanish Habsburg empire and the first moder… right that means nothing to you. Historically, tercios were formed by professional soldiers combining spears and ranged weapons, counting a large number of ‘veteranos’ or experienced soldiers and led by the low nobility. In battle, they would fight in squares of pikes and mobile groups of ranged fighters called mangas… but that’s not important. What’s important is that at the time, they were quite formidable and could outfight both cavalry and levies very reliably. We already have elite pikemen and spearmen with Harrakan heavies. We have the witch-pact crossbowmen for ranged. All of them are as close to professional as can be. I believe we could create a tercio.”
+
+//I approve of integrating our crossbows and spear to fight together more efficiently.
+
+//I noticed that they had poor coordination when we stopped the prince.
+
+//Several aspects need to be resolved.
+
+//We need to create a training regimen from scratch.
+
+//We need to experiment with the tercio’s application on Nyil.
+
+//We need a competent body of officers.
+
+//Additionally, there are aspects you hinted you could resolve.
+
+//We need proper logistics.
+
+//We need to solve the mage issue.
+
+“Right, so tight formations are artillery magnets, especially when it’s clearly made of elites, but what if we use a mage to cover them effectively? That way the heavies protect the mage and crossbowmen who use the opportunity to kill things while the mage stops artillery spells. We do so by creating a portable shield or ward stone and placing it on an Yries war machine’s frame.”
+
+//You want to replace the ballista or drill by an actual stone.
+
+“Yes.”
+
+//And use the machines as a supply train as well.
+
+“Yes.”
+
+//It will not work.
+
+“Oh.”
+
+//The Yries war machines are core-powered.
+
+//There is no other valid explanation.
+
+//It takes energy to keep them working.
+
+//According to my calculations, it would be much easier to use normal cornudon-drawn carriages.
+
+//A machine-drawn ward stone would work if the shield itself is resilient enough.
+
+“Shields, like enchantments, can be powered either by the caster or by a charged core. The best option is to have an actual core and the caster nearby to recharge it and defend the stone. It makes me wonder though, why are people not already doing it?”
+
+//Mage carriages have several purposes, but they are mostly defensive.
+
+//They are very large and very heavy.
+
+//A war machine is a much smaller target.
+
+//It has less risk of sinking into mud as well.
+
+//There are no records of combining several types of soldiers into a formation rather than separating them by kind in state armies.
+
+//I have noted your remarks.
+
+//I will prepare a training regimen.
+
+//I will run scenarios and prepare possible strategies.
+
+//I will make a list of resources required for operations of various sizes considering the army we have and various durations.
+
+//You will prepare a model of the shield enchantment.
+
+//You will list the requirements a dedicated machine would have.
+
+//Finally, you must prepare for the fact that there are no competent officers to lead such an army into battle.
+
+//Therefore, it will have to be you.
+
+//But that is for later.
+
+//For now, I will make all the preparations.
+
+//Speaking of preparations, we are almost ready to assault the assassin’s base.
+
+Solfis had located the assassin’s base under the warehouse district. Unfortunately, the issue now was to catch enough of them at the same time to dismantle the guild. It would be stupid to leave trained killers with a grudge in the wilds if there was any chance to disable them now. And they did have a grudge after the death of several of their members.
+
+“I still can’t believe they didn’t take the bribe. I thought they would accept the money and move on.”
+
+//Such guilds depend on their reputation, Your Grace.
+
+//They perhaps correctly assessed that I would not let the gruesome death of my innkeeper go unpunished.
+
+“Shame about him, and the five fishes stew recipe. They didn’t have to dismember him.”
+
+//Now it is to the death.
+
+//I have prepared a lure.
+
+//We will be ready very soon.
+
+“Thanks, Solfis.”
+
+//There is one last thing.
+
+“Yes?”
+
+//I am only allowed to say I have been contacted by an individual I am programmed to identify as an enemy.
+
+//We are currently considering an alternative to Elunath’s proposal with terms.
+
+//The individual does not wish to interact with you at this junction.
+
+//The individual will contact you when the ‘timing is right’.
+
+Viv watched the golem, trying to find a hidden meaning behind the strange words.
+
+“You are being mysterious.”
+
+//My silence was a condition for the negotiation.
+
+//I am only allowed to share the existence of said individual with you.
+
+//I will reply if you override me.
+
+//I request that you do not do that.
+
+“And you believe this mysterious benefactor will help me?”
+
+//Said individual certainly has the means to do so.
+
+//That is all I am able to share.
+
+“Fine, fine.”
+
+***
+
+It was raining on the training field. The light shower was the first of the season, a harbinger of what would come later that year. The dueling class students milled under thin roofs protecting the rafters. No one was eager to get drenched, nor could many of the students protect themselves from both water and whatever their fellows would throw at them. A few blue-attuned members were charging the water-repellent runes — because of course that was a thing — that would keep the arena relatively dry. Viv used the opportunity to breathe out. She had started practicing the forms Solfis had taught her again and her muscles were sore from the lack of practice. Rakan rested on the side, juggling four mana balls of different colors in complex shaping exercises. It was nice to take a break. The weather was cooler, though still a little oppressive. Viv could smell freshly cut grass and grilled meat in the distance. She hoped it wasn’t a burnt red mana caster because that would be really awkward.
+
+“Excuse me, a friend of mine and myself had a little disagreement,” a young woman with a serious face and long, straight black hair asked her. A young man calmly stood by her side, brushing a growing beard.
+
+“We were wondering if the use of the adjective is correct in the sentence: From the lake rises a deep green tree.”
+
+They were talking in Old Imperial. She gauged the sentence in her head a little.
+
+“Sounds like old poetry. I know the structure was used in older works including some I’ve read but the Old Imperial we use here is the latest, so I would change the word order to a more standard form.”
+
+“Thank you. See?” the woman told the boy.
+
+“What? It’s still correct, just for a different version of Old Imperial. Most of the work we…”
+
+Viv watched the pair leave and bicker amicably.
+
+“Since when am I the reference for Old Imperial?” she asked.
+
+“Since you got full marks on your ethics class essay about social harmony.”
+
+“Hmm.”
+
+Viv had basically taken a marxist approach of ‘to each according to their needs, from each according to the means’ as a joke, added a smattering of social mobility and common purpose born from patriotism and produced her most left-wing work to date. The entire essay did not contain a single original thought, merely a reformulation of various theories she only had a shallow understanding of, but apparently it had been enough for the teacher. Maybe the feudal system she was in didn’t have that many original political theorists. Or maybe the teacher didn’t dare tell her it was a fantasy out of fear she would just answer ‘well we have it in my world’. She should try to defend an actual democracy and see what would happen.
+
+“You lose points if your Old Imperial has mistakes. The only way to get a full score is to be eloquent and use flawless grammar.”
+
+“So now they think I’m smart.”
+
+“For a witch,” Rakan added teasingly.
+
+“Hey.”
+
+“You also teach. It is as you told me earlier; people value competence. Perhaps someone will try to recruit you soon.”
+
+“Or I’ll recruit them.”
+
+“Do not count on it. You have told me about Kazar. Foreign invasions, undead hordes, weird forest creatures… No fish.”
+
+He sighed.
+
+“Sounds just like home to me.”
+
+Viv clamped on that opening like a piranha on an unsuspecting tourist.
+
+“You could come, you know? I can’t promise you luxuries beyond your wildest dream but you’d be valued.”
+
+“I’m a gifted mage, Viviane,” the young Hallurian replied with a brittle smile, the affected shrug barely masking his lack of confidence.
+
+“I’d be welcome anywhere.”
+
+Viv considered buttering him up and decided against it. She would not prey on Rakan, merely try to convince him rationally. He seemed to like rational approaches to problems.
+
+“You know what I mean. I would not treat you like an outsider, but there is no rush. You should consider all your options.”
+
+“Are you trying to recruit me or to push me away?”
+
+“I don’t want you to regret your decision.”
+
+“I’ll keep this in mind.”
+
+Just then, a shimmering blue dome appeared over the arena with a low hum. Water drifted on it in rivulets and free droplets that trailed down to the other side of the rafters. A warm light surged from the roof, warming and drying the students. The hubbub of conversation turned to expressions of delight while the students stood and stretched, ready to resume class.
+
+“See you in the finals,” Rakan jested.
+
+“Yeah yeah.”
+
+Viv did some shaping exercises and waited for her turn, then she was called together with a gangly lad who moaned audibly when he heard they were pitched together.
+
+“Come on, Tarid, let’s see your improved bolts,” she teased.
+
+“Don’t cast your sound thing when you’ve breached my shield please. I don’t want to throw up my breakfast.”
+
+The duelists had protective gear but sound seemed to bypass some of it. The issue was that it was exceptionally inefficient at blocking the nauseating sound spell Viv used. On the other side, the nauseating effect could not even pierce the weakest shield.
+
+The pair climbed up to the elevated platform and took their respective positions. A signal, and the duel was on.
+
+Viv ignored an opening fire bolt that missed her by a meter and cast her own, which was blocked by an earth wall. Tarid then tried to lift the earth from under Viv so she flooded the ground with veins of black mana.
+
+“Eldritch wall.”
+
+Her own spell messed with his defenses and forced him to fall back, blocking another bolt on a hastily raised shield. Viv walked away from another fire bolt, physically ducked under another to Tarid’s frustrating curses and pulled on an exposed boot with telekinesis. The young man yelped and fell, still managing to cast one last bolt Viv had to stop with her own shield.
+
+“Not too bad!” professor Dirge said from the side.
+
+The dueling master brushed his dark curls and invited both duelists to climb down. He approached Tarid to advise him, noting that the accuracy was still problematic. As usual, he only nodded at Viv in passing.
+
+“Good show. It is you and Rakan again. Be nice.”
+
+Viv returned to the starting position to find a nervous Halurian smoothing his defensive robe. Rakan was always stressed at the beginning of a duel, at least when facing her.
+
+Until he started casting, at least.
+
+Professor Dirge used a spell to return the arena to its undamaged self and on signal, they opened on each other.
+
+The duel was on an entirely other level than the game of kind cat and furious mouse she had played with Tarid.
+
+“Hive Shield.”
+
+“Javelin. Rock tide.”
+
+Viv flooded the area in front of her. In answer, Rakan interrupted the spell, causing it to explode and pelt the both of them with debris. While they did nothing to Rakan’s earth barrier, they drained Viv’s reserves by forcing her to disintegrate every piece of rock, but she used the distraction to attack his shield through the wall with a powerful spear of her own. Rakan cursed and shored his defenses, then he attacked her again in the same manner, exploding his spell once again, This time, Viv raised an eldritch wall of her own, then used telekinesis to lob a large rock at her friend at an unfavorable angle. He blocked it and lowered the barrier. Viv did not need line of sight to know where Rakan was. He burnt with mana in her perception like a beacon, a multicolored torch that shone bright even in this mana-saturated place.
+
+Rakan was never more alive than when he was using magic. Even his posture would change from slightly stooped to straight and proud. Their eyes met. He was focused. Viv used sound and black mana in tandem to open breaches in his shield then try to stun him, but he would rotate spells too fast for it to succeed. Sometimes red, sometimes brown, more rarely gray and blue shields alternated to block the worst of her aggression while he tried to corner her as she moved across the arena. Viv threw a dart at a forming fireball, destabilizing the construct and making it blow up but Rakan managed to recover some of the heat through a supreme effort of will and threw it her way. It was loaded with intent, a persistent fire that could not be drenched. He covered an entire quarter of the area with it. Viv was caught.
+
+Rakan did not hesitate. He started another spell, a gray construct that would blow her out of the arena. In answer, Viv raised yet another eldritch wall in front of her.
+
+She climbed it using a burst of power and jumped over the high fire, coating herself in black mana to fend off the worst of the fumes. The appearance of an obsidian-clad aerial Viv surprised Rakan enough to make him hesitate. Viv did not.
+
+The sound spell caught him square on the head. He winced and faltered.
+
+“Stooooop!” Dirge bellowed.
+
+“Nice one. If a little unorthodox. Take a break while I repair the arena.”
+
+Viv and Rakan saluted and the young Hallurian ribbed her for using ‘underhanded tricks’, then Viv teased him for moving like an old man.
+
+As she walked back to her seat, Viv considered that the dueling class was reaching the limit of its usefulness. By rule, she could not challenge upperclassmen until her second semester here but it had become clear that no one except Rakan was a match for her. It had been fun facing different kinds of spells carrying different colors of mana. Unfortunately, at their level and without preparation, the diversity of spells was very limited. Spells could come in the form of bolts, clouds, spheres, spears, and even in one case ribbons. They could affect the air or the ground or her directly. Some froze or slowed, some set the world on a fire that would not stop. It was all fancy and interesting but it never got really weird. There were no spells to turn someone into a newt, for example. A limited number of shields and area denials were enough for Viv to stop pretty much everything anyone threw at her, then she would grind down her foe’s defenses and hit them with a sound attack that left them a little nauseous for five minutes and claim victory. She would have dropped the class if she didn’t want the certification and held some hope it would grow more challenging later.
+
+“We could find a private tutor, maybe.”
+
+“Are you not already too busy?” Rakan asked as he sat by her side.
+
+“A project of mine should be completed very soon. I’ll have a little more time later.”
+
+“If the medicine faculty doesn’t get to you first.”
+
+“Limb regrowth is seldom urgent. Besides, it’s important.”
+
+Viv shelved the idea of getting specialized training later. There were bound to be duelist mages around eager to pad their pockets with her healthcare money. Rakan was right though. She didn’t have the time right now.
+
+***
+
+The last of the students had left for the day, some more excited than others. The black mana class was at the stage where most of the remaining attendees were perfecting simple black mana shields. Those were small and difficult to use for most of them but it did stop every kind of spell. The next step would be proper bolts and other offensive tools. One step at a time.
+
+Ashra settled with Viv in the middle of the training room. The sun pierced through the windows and shone on dancing motes of dust. It was quiet now. The air smelled faintly of ozone. Volutes of dark energy whorled in the teacher’s black eyes as she spoke.
+
+“You are almost here. Let us practice more.”
+
+Viv closed her eyes. The shadows at the corners of the room extended and, for a short while, the light of the late summer receded. The varnished wood lost its luster. It was as if the world stood still. Darkness was not an absence but a denial, her denial. She would rob others of visions and the other senses they had come to rely on, and then there would be just them, the dark, and her. Tendrils of black mana snaked out, diffuse and vaporous, questing. Subverting. It was colder now.
+
+And Viv lost her focus.
+
+“I think I need to do it by night.”
+
+“I am counting on you to practice then. You are almost there.”
+
+“Yes.”
+
+Viv left the class and returned to her shared room to find a letter from Solfis. It was to the point as usual.
+
+Meet me at dusk.
+
+Bring everything.
+
+It was time to take out the assassin’s guild.

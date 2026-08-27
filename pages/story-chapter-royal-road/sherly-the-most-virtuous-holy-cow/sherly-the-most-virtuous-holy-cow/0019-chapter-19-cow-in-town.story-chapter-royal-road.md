@@ -1,0 +1,175 @@
+---
+id: f2109ac7-09f4-5816-b42b-8d615f9db859
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19 - Cow in Town"
+slug: 0019-chapter-19-cow-in-town
+partOf: sherly-the-most-virtuous-holy-cow
+position: 19
+ownLength: 2078
+unit: words
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2628288/chapter-19-cow-in-town"
+royalRoadId: "2628288"
+---
+
+Chapter 19 - Cow in Town
+
+”These aren’t actual gold, are they?” Sherly guessed.
+
+She had never held gold before. Coins, bars, bits and pieces, whatever. Sherly, even in her past life, hadn’t been such a fortunate person as to ever hold genuine gold of any size.
+
+The question was more directed towards the fact that she was receiving gold coins, rather than because she didn’t trust the authenticity of what Ishuin was giving her.
+
+“Gold as in the metal?” Ishuin clarified. “Nope. These were originally called Monster Coins. They’re created from purified monster mana-cores. They have some really useful uses for crafting and improving yourself. And since they looked like actual gold, people started calling them Gold Pieces instead.”
+
+“How do I use them to improve myself? I’m guessing buying gear and stuff like that, but is there anything else?”
+
+The two were chilling at an outdoor coffee and tea hub. A variety of tables were nicely spaced from each other. And because of the time, people were heading towards the restaurants and eateries that served heavier meals than just coffee or tea, or the snacks that came with either. With their intention being to attend a party, and with their dinner plans already made, this situation allowed the both of them some much needed privacy to relax.
+
+The evening breeze brought with it a relaxing atmosphere. Ishuin had suggested that they take a little break before diving into the market. She had followed up by saying it was a battlefield of some sort.
+
+So they took some seats, ones that were a little isolated to the other patrons, and started some lectures to help Sherly learn how the world worked. Money was the first lesson.
+
+“Some Skills will require you to spend some of these Monster Coins, but the System’s adapted to the more colloquial term. So it will ask you to spend some Gold Pieces instead. Not all Skills and Spells will require Gold Pieces to learn them, but most will only require them when you’re upgrading to higher levels.”
+
+Sherly nodded, absorbing the information. “What about Evolutions?”
+
+“Evolutions will only ever require you to use Strains and Traits.”
+
+“Gotcha… Do I only ever have to deal with Gold Pieces when I want to purchase things, or can I barter?”
+
+“When you have some nice things to trade, then you can do that too.”
+
+Sherly took a sip of her coffee. Surprisingly enough, the establishment had automatically given her a bowl instead of a cup. Only after she found other chilims meandering around town did she remind herself of the nature of her new world.
+
+I really need to get used to this fast…
+
+The coffee was bittersweet and full of milk. Other than the overwhelming creaminess and milkiness of the drink, it had no apparent jarring difference when compared to the coffee back in her world. That was when she noticed that a lot of things still resembled her world.
+
+The chair, the table, the counter, the menu, the cup, the bowl, the utensils. Even the flooring design and stairs, even the houses and windows, and even the carriages pulled by beasts of burden. They were all fairly familiar. Though there were some unique carriages that ran specifically on mana, rather than utilizing animals to pull them. These were far fewer than the other variants.
+
+“So, basically,” Sherly started. “If I grind out monsters… Wait, hold on. Did we get any mana-cores from the unirats?”
+
+“Yep. Maymay has the cores, we’ll purify them tomorrow. We managed to collect slightly less than a hundred from the unirats, and the big one from the Boss unirat. The small ones are around a Gold Coin a piece, and the big one varies a bit, so we won’t know for sure until we purify it. Of course, we’ll divvy it up to us three once they’re all purified.”
+
+“Thanks. If I had known prior to that, I would’ve taken them from the ones I ate.”
+
+[It’s technically the mana-core that you should eat, Sherly,] Letters interjected, appearing as a small screen, which the cow-chilim showed to the elf. [But once it’s purified into Gold Pieces, you can’t gain Evolution Strains from it anymore. The purification purges the necessary information you would need from gaining the Strains, or the Trait, if you got lucky.]
+
+The cogwheels started turning inside Sherly’s brain. “You’re saying that the amount of gold coins I get is equal to the Evolution Strains, and I can sometimes get lucky with getting a Trait, which would be technically worth more?”
+
+[For clarification, you can’t give away a Trait, nor can you exchange a Trait back into a Strain.]
+
+“Still feels like there’s a business opportunity in there somewhere.”
+
+“You can’t trade your Strains either, Sherly,” Ishuin said. “What Pigmie did with the cures we made is totally different from giving someone a Strain so they can use it for Evolutions or Skills. You have to earn your own Strains. But if you’re looking to buy mana-cores, it’ll be a guessing game instead.”
+
+The elf Wielder brought out what Sherly assumed to be a mana-core from her Domain Heart. It looked like a crystalized flame. Red, frozen in the shape of a bonfire.
+
+“This is a mana-core from a demon-cow,” Ishuin introduced. She held it out for Sherly to take and study. “I took it from one of those that attacked the village we went through a couple of days ago.”
+
+Sherly analyzed the crystal. Or at least, she tried to. She wasn’t picking up anything from it other than it looked pretty and that there was some semblance of mana within. Like a dormant potential, sealed away by the crystalline formation.
+
+“You can’t tell how many gold coins you’ll get from this until you purify it,” Sherly said. “Just like the one with the big unirat.”
+
+“For clarification,” Ishuin started. “If you’re referring to the denomination as a group, you call them Gold Pieces. Some people call it GP. That’s fine too. 1 GP, is equal to one gold coin. 100 GP is a gold chunk. And 1,000 GP is a gold plate.”
+
+Sherly nodded at that. “Got it. Gold Pieces, or GP it is.”
+
+“Good. As for your previous observation, you’re correct. While there’s a Skill that can help you identify the exact amount of GP you can get from a mana-core, there aren’t a lot of people that take it. First of all, once they’re purified, you get all the Gold Pieces anyway. Second, there’s a bad stigma associated with that Skill.”
+
+“Because some people who do take it lie?”
+
+“Something like that.” Ishuin took a sip of her coffee. “There are some well-respected establishments who deal with mana-core trading. I haven’t really delved into that myself, so I have no idea why they do that in the first place instead of just converting them to GPs. But I do know that they only deal with extremely rare and mutated mana-cores. So collecting exotic things is probably one of their motivations for that.”
+
+“I see…” Sherly returned the demon-cow mana-core to Ishuin. “That makes things easier. Basically, if I want GPs, hunting down monsters will be my easiest bet.”
+
+“You can also take quests, like we did today,” Ishuin suggested. “You get some extra rewards that way, and you’re helping out the community as well.”
+
+Sherly nodded and started making plans, but she quickly realized there were a lot of things she had to prepare first, before even stepping foot into wherever she would be taking a quest.
+
+“I don’t have the slightest clue how to properly do any of this.” She scratched her head, looking embarrassingly towards the elf. “I guess I’ll be asking for your guidance, Ishuin.”
+
+“Well, that’s exactly what I’m here for.” Ishuin smiled. “The first place we’ll go to will be your essential one. Care to take a guess?”
+
+“My identification certificate!” Sherly guessed, pumping her elbows with enthusiasm.
+
+Ishuin frowned, raising an eyebrow. “What? I thought it’d be more obvious…”
+
+“Umm… My questing permit!” Sherly guessed again, smiling.
+
+“Huh?” Ishuin shook her head in response. “No, it’s your—”
+
+“My food supply!”
+
+“No!”
+
+“Hiring companions!”
+
+“That’s so not part of what we’re going to do!”
+
+“Training equipment?”
+
+“Uh… Close, but it’s—”
+
+“Ah! Casual clothes!”
+
+“We’ll do that too, but…”
+
+Sherly giggled as Ishuin stopped herself mid-sentence, expecting another far-off guess. When the elf finally realized what was happening, she slowly shook her head while smiling.
+
+“You got me there, Sherly.”
+
+After paying for their drinks, Ishuin led the way towards the blacksmith. They had to go through a wide road full of carriages and other people, slip through a narrow back alley, which was fortunately rid of any problematic people, and then emerged in a market that looked specifically made for adventurers.
+
+There were about three major buildings in the area, with a bunch of stands and pop-up shops in between each one. There wasn’t a single restaurant in sight.
+
+A number of people were browsing, while a few were actually entertained by the sellers. With the light of the broken moon now high in the sky, the energy was now quite low, and some shops were starting to close.
+
+Sherly noticed she was being led towards the first of the large buildings. Even from afar, she could feel the blazing fires from within.
+
+Inside, the cow-chilim was greeted by workers in half clothing. Men and women wore more down their waist than above. The smell of sweat and fire and all sorts of chemicals was in the air. She could even feel some sort of energizing behavior on the mana within the air.
+
+Way different from the others outside…
+
+Forges and workstations were set on the sides of the infrastructure, and stands and racks were mostly in the middle. Weapons and armors of all sorts, some of which Sherly couldn’t even identify, were everywhere. Each one had a tag, which she couldn’t read at all.
+
+“This is the Crossmark Blacksmiths,” Ishuin started. “Our first order of business is your gear.”
+
+“Umm, Ishuin,” Sherly started. “Remember what I said back in the coffee shop?”
+
+The elf Wielder raised an eyebrow. “Coffee and tea, but sure. You said you’ll have what I’m having.”
+
+“Umm… It’s because I can’t actually read any of your letters.”
+
+“Oh… But you can read Letters’ letters?”
+
+“Oh, that’s right. I can! Maybe Letters can translate for me?”
+
+[Your System Console doesn’t have a functionality like that yet, Sherly. So it’s a no for now. As your System Assistant, I’m able to communicate with you through a language you can understand, but I’m unable to do the opposite for you for now.]
+
+“When will we get that?”
+
+[After a few more levels.]
+
+“Well, I can help you with the translations, Sherly,” Ishuin suggested. “The tags on those equipment are just names. Basically, everything you see here is already owned by someone.”
+
+“Thank you, Ishuin. You’re doing so much for me already.”
+
+“You’re welcome, Sherly. But I don’t really mind.”
+
+Their first stop within the building was the receptionist at the far back of the floor. They were greeted by a female human who was dressed in the same way as the other workers.
+
+“Hello, Welcome to Crossmark Blacksmiths! What can we make for you?”
+
+After dealing with the guards at the entrance, Sherly had agreed with Ishuin to keep her identity as a demon-cow-chilim a secret from the residents of the town. So long as she didn’t use any sort of mana, her horns would stay black, and none would be any wiser, unable to guess that she might be a demon.
+
+But still, Sherly couldn’t help but feel a sigh of relief whenever someone greeted her like a normal person.
+
+“I’d like to help my friend here pick some armor, please,” Ishuin began, unaware of Sherly’s internal struggle. “We’re looking for a budget one, but with none of the major compromises nor shortcuts during the craft.”
+
+“Haven’t seen a cow-chilim your size before,” said the receptionist. She looked at Sherly from horn-tip to hoof, and gave an affirmative nod. “Give me a second, and I’ll give you some estimates. If you’re looking to have adaptable armor, for when you evolve to a zilim, it might cost you a bit more. Otherwise, I’ll give you my basic list.”
+
+Sherly and Ishuin looked at each other.
+
+“Just the basic list, thanks,” they said at the same time.

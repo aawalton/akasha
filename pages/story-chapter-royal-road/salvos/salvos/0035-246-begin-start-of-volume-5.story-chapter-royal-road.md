@@ -1,0 +1,255 @@
+---
+id: 0d33bc58-f37b-5eea-b45d-3fa64d739b78
+page-type-slug: story-chapter-royal-road
+title: "246. Begin (Start of Volume 5)"
+slug: 0035-246-begin-start-of-volume-5
+partOf: salvos
+position: 35
+ownLength: 2023
+unit: words
+publishedAt: 2021-12-17
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/808169/246-begin-start-of-volume-5"
+royalRoadId: "808169"
+---
+
+246. Begin
+
+The Breastplate of Alexander was lost. Belzu hovered over the fallen city as his monsters gathered beneath him. The sun rose over the horizon as his silhouette played against the sky. A little speck from afar— his figure no different than that of a bug.
+
+But Belzu was no insect at the feet of a giant. He had proven it. In a short span of time, he’d evolved from a mere Archdemon into a Primeval Demon. Now, he had felled one of the great countries of the Mortal Realm. Now, he held with him one of the greatest artifacts in history. Now, all of Nexeus knew his name.
+
+“Regnorex shall perish by my hands.”
+
+His voice echoed to himself. No one else was left alive in Nightsveil. He wouldn't spare anyone in the city. Each person he killed would garner him experience— more levels to reach even greater heights. And eventually, once he was strong enough, he’d rule all the Netherworld himself.
+
+“But before Regnorex, I shall have to deal with a smaller, insignificant problem.”
+
+His eyes flickered as the world warped around him. A silver-haired Archdemon came to life before his eyes. She sprang up at him, waving a black scythe. With the snap of his fingers, her head fell off, and his illusion vanished.
+
+“Hmph. A tiny Archdemon like her won’t be able to stop me. No matter what she does or whatever training she undergoes, I shall recover the Breastplate Alexander from her corpse. Then I’ll truly be unstoppable.”
+
+And his army moved. The ground shook as they stepped in unison— a synchronized march away from the former city of Nightsveil. Towards his next goal.
+
+Towards victory.
+
+I’d been beaten by Belzu far too many times— sent running from him barely surviving thrice now. I had enough.
+
+I was going to do whatever it took to defeat him. To kill him. Even if it meant making a deal with the Devil. I had enlisted Sal— as he wanted me to call him— to train me and teach me a Grand Skill to achieve my goal. And, well, while he did agree to help me, he also enjoyed messing with me.
+
+So, instead of training me right away, he…
+
+“You have exams coming up, young lady. I will not have you failing your classes because of some… guy!”
+
+The Devil was usually a red-skinned man with black goat-like legs and a pair of crooked horns poking out of his head. Right now, however, he looked like a Human— one with multi-colored eyes. Crimson and azure. His skin was tanned, and he walked around without a shirt for whatever reason.
+
+I scowled.
+
+“It’s not because of some guy. It’s Belzu! And I want to kill him!”
+
+“No buts, young lady.”
+
+He wagged his fingers. I rolled my eyes.
+
+“I didn’t even say ‘but’—”
+
+“I said no buts!”
+
+And that was that. I had to finish my finals first before I could begin my training with the Devil. Which I guess would work since I had a month and a half of break before the next academic term began. So, first, I’d finish up my classes.
+
+Problem was, I wasn’t able to focus. Not only was I excited to get stronger to defeat Belzu. I also had… other things in mind. Literally. Here I sat in a lecture hall, doing my final examination for Professor Isais’ class, but I was somewhere else too.
+
+There was a Skill I’d recently gained thanks to the Devil— [Salvo of Vanity]— and it allowed me to create clones of myself. I could perceive and sense things through my clone, to a certain extent. And right now, she was far away with my companion, Saffron Merryster.
+
+Honestly, it felt like everything I saw was through a thick fog. What happened with my clone was being relayed to me, rather than being fully experienced. Saffron, for some reason, had refused to return to Mavos Academy for now. She was skipping her final exams because of what had happened in Nightsveil.
+
+Her family was heading… somewhere? To meet with other Vampires or something. I didn’t know. They didn’t communicate with my clone because my clone couldn’t talk. I did try having my clone write something with fire.
+
+Apparently, my clone had even worse handwriting than me.
+
+Anyway, as long as Saffron was safe, it didn’t really matter what she did. And if she was ever in danger, I was pretty sure I could teleport to my clone with my new Skill. That was right— I had another new Skill. One which I learned.
+
+[Long Ranged Teleportation].
+
+It was a Skill for my second Class. I only had 5 secondary Skill Slots available, and they were all taken. So, I replaced one of my unused secondary Skills with it. [Object Levitation] seemed pretty pointless, considering I had not used it much ever since I got it. Meanwhile, [Long Ranged Teleportation] allowed me to teleport over great distances— hundreds or maybe even thousands of miles in an instant.
+
+Of course, I couldn’t just teleport to anywhere I wanted. I tested it out, and apparently I could only teleport to places I could see, or I saw in the past hour. Otherwise, it needed to be a place I was connected to. Like my Lair.
+
+The Devil said that wasn’t all I could do with the Skill, but that was all I had tested out so far. And it was not like it was needed right now. It took up a lot of energy to use, and Saffron wasn’t currently in danger.
+
+I pushed my clone’s perception to the back of my mind as I finished up my final exams. A| week passed as I waited to get back my grades. I spent most of the time just hanging out with my friends in Mavos Academy. Valda, the fifteen-year-old genius, was more than happy to spend time with me.
+
+She and her friends were amazed when they visited my room, even though it wasn’t actually my room but Saffron’s room.
+
+“Woah. As expected of the Liberator of the Plaguelands…”
+
+“This is one of the luxury dorm rooms, isn’t it? I hear only the highest of the nobility and the richest [Merchants] can afford this room.”
+
+I beamed as Valda’s friends, Marie and Jonas, sang praises my way. I conveniently forgot to mention that I was just staying over and sleeping on the couch for free, and that this wasn’t actually my room. Matthew was kind enough to provide us snacks, which I gratefully accepted.
+
+Valda narrowed her eyes as he bowed and stood off to the side.
+
+“Wait, isn’t that Saffron’s butler?”
+
+I quickly nodded and waved a hand dismissively.
+
+“Yep, he is! Anyway, what do you guys think of my schedule for the next academic term?”
+
+I showed them the list of classes I’d chosen. More space magic classes, with a single enchantment class. They exchanged glances.
+
+“Aren’t you in the School of Aspiring Elites?”
+
+Eve furrowed her brows. I cocked my head.
+
+“I am, yes. Why?”
+
+Jeremiah tilted his head back.
+
+“Well, I don’t mean to tell you how to structure your schedule, Salvos. But I think that you’re taking too few classes at once.”
+
+“He’s right.”
+
+Valda nodded and crossed her arms.
+
+“With what you’re doing right now, you’ll hit only the bare minimum number of courses required for your graduation. And that’s not considering your dissertation— you may take over two years if this is your planned schedule.”
+
+“Huh.”
+
+I tapped a finger on my chin as she explained.
+
+“But I took the same number of classes last term and no one said a thing.”
+
+She shrugged.
+
+“I was under the impression that you chose to lessen your course load due to enrolling in the middle of the term.”
+
+Well, no one told me what I did was bad! Well, not bad. Just not ideal. I didn’t want to spend too long in Mavos Academy. It was nice, and I had friends, but I was starting to get bored. I perked up as a realization settled in.
+
+“Wait, so theoretically I can finish all my coursework for Mavos Academy and graduate in a single year?”
+
+Valda pursed her lips.
+
+“You could, but it’d be very difficult and it’s not recommended.”
+
+“But I am Salvos.”
+
+My lips curled up as I amended my schedule. Valda blinked before staring at me. She smiled.
+
+“You are. I’m sure you’ll do just fine.”
+
+With that decided, I rolled up the piece of paper as Jeremiah hesitantly looked over at me.
+
+“By the way, there’s a ball being hosted next week and—”
+
+—--
+
+Unfortunately, as much as I wanted to attend these rich, social events and feel like a Princess. I couldn’t. Because the week soon passed, and it was finally time for my training with the Devil to begin. I got back the last of my grades and returned to my Lair. I passed all my classes, as expected. I even scored a distinction grade for a few of them.
+
+I held up the report, waving it in the air as I strolled into the cavern.
+
+“Hey, Sal, if you’re done messing around, I’d finally like to learn a Grand Skill—”
+
+I halted when the familiar notification of entering my Lair didn’t ring out in my head. My Lair seemed untouched. I had my books stacked up in a corner, and my treasures displayed against the side wall. Yet, there was something off about the room.
+
+For some reason, the dark cave seemed darker than usual. I lit a flame, and it was instantly snuffed out by the smothering damp atmosphere. The flicker of light briefly illuminated the room long enough for me to see the shadows crawling against the walls and reaching for me. I leapt back, readying a Primordial Scythe—
+
+But before I could react, the shadows grabbed me.
+
+Everything vanished. My vision faded away as my shouts came out silent. I tried to move, but my body didn’t respond. It was like I was back in that sea of nothingness— back trying to struggle free into existence. However, I couldn’t do anything about it now.
+
+This feeling lasted for both an eternity and for a single moment before my senses were restored to me. I found myself lying on the floor of… somewhere.
+
+The Devil’s voice echoed around me.
+
+“Alright, good job, Salvos. You did well. You passed your Human, mortal classes. You even did quite well for someone with no formal education, if I had to say so myself. But now, it’s time for my classes to begin. And, trust me, it will not be as easy as writing a boring essay.”
+
+I sat up, baring my teeth.
+
+“Good.”
+
+Salvos (Liberator of the Plaguelands)
+
+Species: [Archdemon of Pride]
+
+Subspecies: [Daeva Cambion] - Lvl. 110
+
+Class: [Worldly Mystic of the Nexeus] - Lvl. 52
+
+General Skills:
+
+[Advanced Mana Manipulation] - Lvl. 8
+
+[Identification] - Lvl. 6
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 1
+
+[Racial Skill: Demonic Essence] - Lvl. 4
+
+[Racial Skill: Partial Mortality] - Lvl. 6
+
+[Rest] - Lvl. 5
+
+[Lesser Enhanced Wisdom] - Lvl. 6
+
+[Title Skill: General Curse Resistance] - Lvl. 2
+
+[Title Skill: Recall Skill] - Lvl. 1
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 136 (+25)
+
+[Strength]: 112 (+25)
+
+[Endurance]: 125 (+25)
+
+[Wisdom]: 213 (+25) (+10)
+
+[Agility]: 270 (+25)
+
+Skills:
+
+[Available Skill Points: 1]
+
+[Barrage of Cinders] - Lvl. 20 (Maxed)
+
+[Demon’s Mark] - Lvl. 7
+
+[Haste] - Lvl. 10
+
+[Intimidation] - Lvl. 10 (Maxed)
+
+[Faux Limbs] - Lvl. 1
+
+[Nebular Construct] - Lvl. 6
+
+[Radiant Slash] - Lvl. 15 (Maxed)
+
+[Salvo of Vanity] - Lvl. 5
+
+[The Primordial Spark] - Lvl. 15
+
+[Wings of the Netherworld] - Lvl. 5
+
+[Passive - A Hunter’s Sense] - Lvl. 10 (Maxed)
+
+[Passive - Blue Flames] - Lvl. 20 (Maxed)
+
+[Passive - Weapon Mastery] - Lvl. 20 (Maxed)
+
+[Unused Skill Slot] x1
+
+Secondary Skills:
+
+[Available Secondary Skill Points: 2]
+
+[Mystical Projection] - Lvl 10
+
+[Long Range Teleportation] - Lvl 5
+
+[Planar Navigation] - Lvl. 5
+
+[Scatter Shift] - Lvl. 5
+
+[Temporal Distortion] - Lvl 20 (Maxed)

@@ -1,0 +1,221 @@
+---
+id: acf03c9d-8c7f-5b83-ad54-e8c2ee2687f2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9"
+slug: 0009-chapter-9
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 9
+ownLength: 1839
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2525613/chapter-9"
+royalRoadId: "2525613"
+---
+
+New skills available.
+
+Please select from listed skills and skill upgrades.
+
+Improved Leg Strength - Uncommon
+
+Forceful Momentum - Rare
+
+Keen Sense - Common
+
+Martial Kick - Common
+
+On the Wings of Hermes - Rare
+
+Tachyon remained seated in front of the stone pillar where she had fallen, her legs still healing excruciatingly slowly as she looked over her new skill options.
+
+There are two rare skills this time around. Did I get lucky? She thought absently as she began going down the list.
+
+Improved Leg Strength - Uncommon
+
+This skill temporarily increases the leg strength of your next strike by a moderate amount.
+
+Costs a small amount of stamina.
+
+Cooldown: None
+
+Scales off strength and stamina.
+
+Continued use will leave you exhausted.
+
+The description read rather plainly, only the amount stated that it increased the next strike by, and what the skill scaled from changing. But Tachyon wasn’t surprised, this skill seemed to just be a simple upgrade with no real additive traits to it.
+
+She went on to the last two Rare skills, as the other two were from her previous selection. Tachyon did wonder if that was going to be a continued occurrence however. As when she had first gotten her initial selection at level 5, to when she improved and evolved at level 10. The selection of skills was quite different. The entirety of the list changing. Was that because of the evolution?
+
+Tachyon would have to keep that in mind for later evolutions as it was true that sometimes an evolution could bring a significant and dramatic change to a monster. Changing their magic affinity or body structure altogether.
+
+Her own evolution hadn’t done much. Frankly she didn’t note a change outside of her ability to now use light magic. But she gave a mental shrug and looked at the new skill descriptions.
+
+On the Wings of Hermes - Rare
+
+This skill temporarily allows you to sprout wings and move through the air with the same swiftness of the messenger of the gods. Praise be to him.
+
+Costs a small amount of mana and stamina.
+
+Duration: 30 minutes.
+
+Cooldown: 5 minutes.
+
+Speed and acuity in the air scales off Agility.
+
+The wings of Hermes can take on innate magic affinity, increasing or decreasing speed.
+
+Tachyon looked over the description again. However, something about it was rubbing her the wrong way.
+
+Praise be to him? Who the hell is him? I don’t know any Hermes. She thought.
+
+While she liked being in the air because it made it easier to fight anything that could fly. The way down was something else. She looked down at her still healing legs, the pain a stark reminder that she might not enjoy flying if every landing entailed crashing and breaking something.
+
+It was a good rare skill, Tachyon couldn’t argue that. Speed plus flying and an added bonus of a similar effect as her shoes where it can absorb her magic? Seemed like a sweet deal.
+
+However, she just didn’t like how pretentious it seemed that the system offered her someone else's skill.
+
+Tachyon was strong, fast, and smart. She could make her own damn skill.
+
+Forceful Momentum - Rare
+
+This skill allows one to build and store momentum for a short period of time. Allowing one to either unleash said momentum in a forceful display of power, or store it allowing them to move at speeds before impossible. While storing momentum they will be able to traverse land at great speed while also being unimpeded by anything in their path, whether that be trees, rocks, mountains, monsters, people, or otherwise.
+
+Costs a small amount of mana and stamina.
+
+Storage Duration: 30 minutes.
+
+Cooldown: 1 minute.
+
+Speed and durability scale off Agility and Resistance. Power Scales off Strength and Magic.
+
+Now this was a skill she could get behind. Speed? Power? And Magic? It was almost no contest on top of there was no random guy’s name attached to the skill.
+
+Promptly she decided on the skill Forceful Momentum. In her mind, there was no debate.
+
+New skill has been obtained.
+
+New Title earned: Faster than Most.
+
+Faster than Most
+
+Gain a skill that gives you a substantial speed boost, putting you a cut above.
+
++10 to Agility.
+
+Tachyon liked that. Being fast was one thing. Being faster than everyone else? Even better!
+
+Pleased with herself and her decision, she gave a happy nicker, promptly going to her full status to look at her stats.
+
+Tachyon
+
+Race: Lightfoot Mare
+
+Rank: F-Rank
+
+Level: 16
+
+VIT - 13(3)
+
+STR - 15(5)
+
+AGI - 80(22)
+
+MAG - 44(6)
+
+STAM - 34(13)
+
+RES - 14(10)
+
+Free Point - 5
+
+Titles
+
+Sapient Monster, Survivor, Captive, Defiant, Sturdy, Slayer of the Strong, Improbability, Manslaughter, Kings Queens and Castles, Bat Out of Hell, Magic Artillery 1, Faster than Most.
+
+Skills
+
+Light Charge - Uncommon, Blood Doping - Uncommon, Light Magic - Rare, Leg Strength - Common, After Image - Common, Forceful Momentum - Rare.
+
+She was happy to see that her stats were growing, but a little concerned that they weren’t filling out per se. Tachyon wasn’t very concerned with her health, nothing could really hit her, not unless she wanted them to or she was truly distracted. But she did confess there wasn’t a zero chance of her not taking damage that would be dangerous.
+
+But there was also her Strength and Resistance. Now that she had a second skill that scaled of Strength and one that also scaled off Resistance, she would have to pay more attention to where she put her points.
+
+That or maybe there would be items that helped compensate for them around the Controlling Stones?
+
+Tachyon had visited a total of four Controlling Stones so far. And she was confident that there were many more. Speaking of, she had just lost another one. Maybe she should figure out a way to keep control for longer?
+
+Or perhaps there were Controlling Stones further up the big pile of dirt that were more powerful?
+
+Then a thought passed Tachyon’s mind.
+
+Didn’t my skill description mention something?
+
+She looked at her Forceful Momentum skill once more, reading over the description and there they were.
+
+Trees and mountains? What’s a tree? Tree… She thought frowning. What a dumb word. It doesn’t make sense. There’s no context! How am I supposed to know what a tree is?!
+
+Then she focused on the world.
+
+Tree
+
+A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground.
+
+"We came to a small clearing in the trees."
+
+She frowned even harder.
+
+Did the system just give her a definition?
+
+While helpful, she couldn’t help but feel a bit annoyed as she looked at the things she called tall brown sticks with green feathers.
+
+“Trees…” she muttered and shook her head, “No, still a stupid name…” she repeated, totally not trying to cover up her embarrassment.
+
+Then she focused on another word she didn’t know.
+
+Mountain
+
+A large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill.
+
+"The village is backed by awe-inspiring mountains."
+
+Tachyon looked at the big pile of dirt, her eyes thinning in derision.
+
+“Mountain…”
+
+She snorted, almost scoffing, “Nope, still stupid names!” she humphed.
+
+Over the next few hours, the sun set on her first day in this tutorial space, her legs healing excruciatingly slow. During that time she had lost every single Controlling Stone she had taken besides the one she was currently next to.
+
+There had also been a few challengers that attempted to take it from her, however, many of them were under level 5 and did not come in large enough packs to pose a threat.
+
+But after the first pack of monsters, a group of birds that walked on tall slender legs that were hot pink in color. Similar to her bag of holding. Tachyon decided it was probably a good idea to put her free points into Vitality, to heal more quickly if nothing else. Just in case something or someone stronger came, bringing her Vitality from the measly 3 to 8. And with the Controlling Stone’s buff after losing her other two, it was technically buffed to 10 in total.
+
+The dead of night was setting in and Tachyon used her magic light carrots to illuminate the area around her. Namely the treeline while keeping herself still in darkness.
+
+She would be able to feel anyone with mana approaching at this point but being able to see them as well put her mind at ease. It wasn’t like she was afraid of the dark or anything. It was just she didn’t like the dark. The dark reminded her of the cells in the arena and she would rather do without that memory.
+
+Still, despite the very violent start to her freedom she was happy to be free. Looking up from her spot near the Controlling Stone she began seeing small bright lights and a large white ball that poked out of the sparse clouds blanketing the sky.
+
+“I never thought I would see stars and the moon. I remember my mother telling me of the large plains where we used to live. The nights filled with dazzling lights in the dark sky, one large ball that danced from end to end.”
+
+A fond memory of when Tachyon’s mother still comforted her at night. But that time was long past, however, Tachyon made a mental note to visit the plains at least once when she left the tutorial.
+
+The night continued on, some monsters drawn in by the lights Tachyon used. And some by the Controlling Stone.
+
+Thankfully, none put up a fight much like the other monster groups during the day.
+
+By the time day came again and she was fully recovered, she had killed well over forty monsters but sadly did not gain a level, title, or skill upgrade.
+
+Standing up and giving her body a good shake, she breathed out a sigh, “The monsters won’t be strong enough to help me level up. At least nothing around here. Maybe they are all around the other Controlling Stones?”
+
+For now, she took out some grapes and blueberries to snack on while she thought on where to go.
+
+Tachyon was sure that there were more Controlling Stones on this level of the mountain. How many? That, she was more in the dark about. But from where she could sense stronger monsters, as well as the strongest. They were clearly up higher on the mountain.
+
+Blue and purple covered her lips as she chewed, making up her mind.
+
+“Let’s go around the mountain and see just how big it is. Maybe I can get some more goodies from the Controlling Stones before going deeper in?”
+
+Tachyon turned around, backtracking herself and also going in the direction of the faint pillar of light she was still being drawn to.
+
+“First, I’m going to get back my stuff!”

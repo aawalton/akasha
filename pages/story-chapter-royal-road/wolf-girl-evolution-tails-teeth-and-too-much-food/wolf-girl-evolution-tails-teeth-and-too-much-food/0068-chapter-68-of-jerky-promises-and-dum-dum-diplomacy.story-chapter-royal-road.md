@@ -1,0 +1,421 @@
+---
+id: 2f116183-f7bc-5d2e-88b6-4c671509fb05
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68: Of Jerky Promises and Dum-Dum Diplomacy"
+slug: 0068-chapter-68-of-jerky-promises-and-dum-dum-diplomacy
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 68
+ownLength: 1962
+unit: words
+publishedAt: 2025-11-06
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2738479/chapter-68-of-jerky-promises-and-dum-dum-diplomacy"
+royalRoadId: "2738479"
+---
+
+PoV Luna
+
+The morning smelled like heaven.
+
+Roast. Fresh, smoky, drake roast!
+
+Luna’s tail thumped under Syl’s blanket cocoon, hard enough to make the elf stir. She wriggled and squirmed, trying to escape, but the fabric only tightened around her.
+
+“Mmph! Second trap!” she muffled through the folds.
+
+Syl’s sleepy voice came from somewhere above her.
+
+“You moved before dawn. That’s your punishment.”
+
+“Unfair!” Luna protested, kicking uselessly. “Morning moon means food time!”
+
+“You mean breakfast,” Syl corrected, still half-asleep.
+
+“Same thing!”
+
+Eventually, Luna clawed her way free, saw the Moon still hanging on in the sky, and transformed mid-yawn.
+
+Her hair was wild and the shirt – oh. Missing.
+
+Syl blinked, sitting up.
+
+“Luna. Shirt.”
+
+Luna blinked too. Looked down.
+
+“Uh.”
+
+Ah. Yes. Right. She had gone full wolf the day before.
+
+Poof. No shirt survived a poof!
+
+“Luna will fix!” she announced, and bolted into the trees before anyone could say a word.
+
+The forest greeted her in dew and birdsong. She padded barefoot through moss and leaf litter, following her own scent trail.
+
+There! Half-buried under ferns, damp and slightly chewed.
+
+She held it up triumphantly.
+
+“Found it!”
+
+It smelled faintly of dew, Syl, and forest morning.
+
+Perfect!
+
+By the time she returned, the camp was awake and alive.
+
+Trianna hummed while putting her boots on. Veric checked his sword edge against the light.
+
+Sepio quietly inspected the drake bones stacked near their packs, while Ray was already working on making some more roast.
+
+Luna drooled at that!
+
+Syl, of course, sat by the fire, already polished and calm, her eyes soft as Luna dropped back into camp with an exaggerated sigh.
+
+“Eat first,” Syl said, handing her a plate, “explain later.”
+
+Luna didn’t argue.
+
+Hot, spicy, perfect!
+
+The drake roast was crisp on the outside, soft and steaming inside. Each bite burst with flavor and victory. And Luna could feel her body warming up and brimming with more energy at every bite.
+
+Her tail twitched furiously with every chew.
+
+Trianna laughed.
+
+“She’s going to fall over if she eats any faster.”
+
+“Leave her,” Sepio said. “She earned it.”
+
+Ray smirked into his cup.
+
+“That’s one way to define ‘earned.’”
+
+Luna pointed at him with her skewer, cheeks puffed.
+
+“Hunted. Fought. Bit. Strong wolf!”
+
+“Nearly died,” Veric corrected.
+
+“Still strong!” she said proudly, then returned to chewing.
+
+The laughter circled around the camp again, easy and warm.
+
+Syl refilled her cup and leaned back, finally letting herself relax.
+
+Then Sepio came around, another piece of roast in his hand, which Luna followed with deadly precision.
+
+Her own piece already eaten, yet tummy demanding more.
+
+“So, Luna?” he began simply.
+
+“Yesh?”
+
+“Do you remember where we’re going, and that you’re to be our guide?”
+
+Luna briefly broke eye contact with the oh-so-very-tempting piece of roast awooing her with promises of spiced goodness.
+
+“Uh-huh. Luna remembers! But, uh, maybe meat will help with memory?”
+
+Sepio snorted at that, while Trianna openly laughed.
+
+“Very well, here you go. Memory jostled yet?”
+
+Goodies gotten, Luna only spared the briefest ‘Mhm!’ for Sepio before digging in full force, the talk forgotten.
+
+The man just stood there, awkwardly, to the amusement of the others.
+
+“Well, you got your answer, yes? Meat helped with memory, ha!” Ray couldn’t help needling him on.
+
+Sepio just shook his head in disbelief.
+
+“I don’t know what I expected, but somehow it wasn’t this.”
+
+Syl hid her smile behind her cup.
+
+“Don’t worry, I will remind her if she forgot somehow. And remember, after this, we head home.”
+
+Home?
+
+The word felt warm in Luna’s chest. Her pack. Their laughter. The smell of fire and meat and safety.
+
+She tore another bite from her roast and grinned.
+
+“Then Luna help finish fast. No hungry left behind!”
+
+Trianna raised her fork in mock salute.
+
+“Now that’s a motto.”
+
+The camp crackled with firelight and easy chatter. Beyond the trees, morning sunlight climbed higher, washing the clearing in gold.
+
+One last task!
+
+Then the next adventure.
+
+But for now – meat!
+
+***
+
+But before they left, Luna had Important Business to say!
+
+She stood square in the middle of camp, tail wagging with commanding swishes, ears forward, tone deadly serious.
+
+“Pack promise not to hurt old pack?! Must promise! Or Luna no bring along!”
+
+Trianna paused mid-pack, one brow lifting.
+
+“We promise,” she said, easy and warm.
+
+Luna narrowed her eyes.
+
+“Jerky promise?”
+
+Sepio sighed through his nose, adjusting the strap on his shield.
+
+“It’s pinky promise, Luna.”
+
+Luna folded her arms, unimpressed.
+
+“Nuh-uh. Jerky better. Importanter.”
+
+That earned laughter. Even Veric cracked half a smile.
+
+“Fine,” Trianna said, tearing a strip from her rations. She held it up between them. “Jerky promise it is.”
+
+Luna sniffed it seriously, then took it in one decisive bite.
+
+“Accepted.”
+
+Ray groaned.
+
+“That’s not how a promise works.”
+
+“Is now,” Luna said through her chew, voice smug.
+
+Syl only shook her head, faint amusement tugging at her lips.
+
+“Let’s move before she tries to make us swear on soup next.”
+
+So they did.
+
+Gear packed. Fire doused. The crystal on top of Syl’s staff glowed faint blue as they fell into formation – Veric up front, Syl and Sepio center, with Ray and Trianna on rear guard.
+
+Luna padded slightly ahead, leading the way.
+
+The forest waited, thick with damp and memory.
+
+Luna’s nose twitched.
+
+She knew these paths. Perhaps not every dip, or moss-covered stone. But the scents, yes, those did not lie. Her paws – no, feet – remembered where her old pack had bled and laughed and bitten too hard.
+
+The scent of damp fur, old smoke, and broken bark clung to the wind.
+
+Behind her, Sepio’s armor clinked softly.
+
+“You’re sure this is the right path?”
+
+“Yip-yep.”
+
+Trianna glanced around, frowning at the tangle of vines.
+
+“Doesn’t look like much of a path.”
+
+“Not path. Shortcut.”
+
+Ray grumbled under his breath.
+
+“Of course it’s a shortcut. Why would we ever take a normal–”
+
+“Quiet,” Syl said gently. Her voice carried that calm that made everyone listen. “Let her work.”
+
+Luna’s ears twitched. She liked that tone – soft but steady. Second always sounded better when she trusted her.
+
+Smart Second. Best Second!
+
+“Fast then,” Luna said, sniffing once more. “In, out, no problems.”
+
+Syl gave her shoulder a light squeeze.
+
+“Lead the way.”
+
+So Luna did.
+
+Through hanging branches and tangled roots. Through air that hummed with quiet tension.
+
+The deeper they went, the heavier the smell became – iron of old blood, churned dirt, and memory.
+
+When they broke into the clearing, everyone slowed.
+
+Bones littered the grass, pale and still. The remains of armor gleamed dully where moss hadn’t swallowed it yet. Wind brushed through the hollow with a low, empty sigh.
+
+Nearby another set of bones lay, from a bear Luna fondly remembered.
+
+Her first… and the last old pack hunt.
+
+Her first jerky.
+
+Her first steps to becoming strong.
+
+Emotions overcame Luna for a moment.
+
+And then the moment was through, and the bones were just bones again.
+
+She turned towards the rest of her pack.
+
+Her new pack!
+
+The past was the past.
+
+But the future did not look so bad.
+
+Luna would take it, dum dums and all!
+
+Done with the survey, Trianna knelt first, fingers brushing against a broken helm.
+
+“Poor bastards,” she murmured. Her usual smile was gone.
+
+Ray said nothing for once, setting his tools down in quiet respect.
+
+Syl moved to the center, her light glowing brighter as she whispered a preservation charm. Magic folded over the space like a veil, clean and soft.
+
+Luna stood still, nose lifted, tail stiff.
+
+The scents had changed since before – colder now, faint with age. But under it all, her ears caught a thread of movement.
+
+A rustle. A shift.
+
+She froze.
+
+“Pack,” she said quietly. Voice low. Firm.
+
+Sepio looked up.
+
+“What?”
+
+Luna’s pupils thinned, her body lowering into a half-crouch.
+
+“Old pack.”
+
+The words came out half growl, half breath.
+
+The wind carried more than silence now.
+
+Something moved in the shadows between the trees.
+
+Dark shapes, low growls, fur bristling in the wind.
+
+Not many – fewer than before.
+
+Luna’s chest tightened.
+
+Ogre fight. Too many lost.
+
+The wolves circled, paws silent over dirt, their eyes sharp gold in the morning light. Tension rolled through the air, thick as sap. Her new pack slowed, spreading out behind her. Syl raised a hand, ready to cast if things went bad.
+
+Luna stepped forward.
+
+Then changed back to wolf form.
+
+It felt… right. To confront her old pack that way.
+
+And then he emerged.
+
+The Alpha. Broad-shouldered, scarred, every step a challenge. His scent hit her first – dominance and old blood.
+
+“You,” he rumbled.
+
+“Alpha,” she answered, steady and sure, tail low but not tucked.
+
+“You return not welcome, and bring humans here this time.” His teeth flashed when he spoke, low and cutting.
+
+“They come for dead ones,” Luna said. “No harm to pack.”
+
+“You lead them.” His tone sharpened. “Forgot who you belong to?”
+
+Her fur bristled, ears folding back.
+
+“Luna belongs to Luna,” she growled. “And Luna’s pack now different.”
+
+Growls rippled through the circle. The wolves pressed forward a step. Syl moved to stand beside her, but Luna lifted a paw without turning.
+
+Her fight!
+
+Then a softer voice cut through the noise.
+
+“Enough.”
+
+Her mother padded from the shadows. She looked a little more tired, silver fur streaked with dirt and pride. Her eyes still glowed that same calm blue Luna remembered from pup days – the look that stopped fights faster than teeth ever could.
+
+“Alpha, hush,” her mother said, brushing past him. “You are being too harsh. And she brings no war.”
+
+“She brings noise. Smell of man,” the Alpha snarled.
+
+“She brings herself,” her mother replied simply. “And I welcome her here!”
+
+The Alpha huffed, ears flicking.
+
+“Uppity unwanted pups playing pretend-pack.”
+
+A sharp whap followed – the sound of paw meeting skull.
+
+Luna almost winced in sympathy.
+
+The Alpha froze, glaring at her mother, but said nothing more.
+
+Luna padded closer, shoulders proud but respectful.
+
+“Luna promises we leave soon,” she said. “Take dead, go. No fight.”
+
+Her mother studied her for a long moment. Then her voice softened.
+
+“Good girl. You found your pack, then?”
+
+Luna’s grin bloomed bright and toothy.
+
+“Yes! Dum, slow, loud, and feisty pack. But Luna’s pack!”
+
+Her mother chuckled, leaning forward until their noses brushed.
+
+“They sound perfect.”
+
+A smaller movement drew Luna’s gaze – a twitch of fur in the brush.
+
+“Sister?”
+
+A tiny wolf pup peeked out, eyes wide and ears too big for her head. Her baby sister.
+
+Luna’s chest filled with warmth. She trotted over, lowering her head to nuzzle her.
+
+“Strong tail. Good paws. You growing fast!”
+
+Her little sister giggled – a breathy, happy chuff – and pawed at her nose.
+
+Behind them, Syl and the others worked quietly, burying the remains and marking the fallen. No spells now – only hands, care, and respect.
+
+They took what mementos they could with them, but left everything else be.
+
+The air stilled. The wolves watched, wary but silent.
+
+Luna gave her sister one last lick between the ears.
+
+“For luck,” she said softly.
+
+Then turned to leave, ears perked high, trying very hard to look all serious and not at all emotional–
+
+Until her mother strode over and gave her a loud, wet mlem right across the cheek.
+
+“Mom!” Luna yipped, surprised but happy.
+
+Her pack laughed behind her – Syl most of all.
+
+Luna groaned but her tail wagged furiously.
+
+“Fine. Mom wins.”
+
+They left the clearing together – old pack watching, new pack carrying their fallen.
+
+Two worlds meeting side by side.
+
+Tied by fur, memory, and jerky promises.

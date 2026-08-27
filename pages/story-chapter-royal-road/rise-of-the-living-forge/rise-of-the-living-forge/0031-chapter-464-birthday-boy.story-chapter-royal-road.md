@@ -1,0 +1,189 @@
+---
+id: ac6942b5-0d2d-5c7a-a769-b6f595c26d4c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 464: Birthday boy"
+slug: 0031-chapter-464-birthday-boy
+partOf: rise-of-the-living-forge
+position: 31
+ownLength: 2702
+unit: words
+ownProgress: 2702
+publishedAt: 2025-07-29
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2476114/chapter-464-birthday-boy"
+royalRoadId: "2476114"
+markedReadAt: "2026-06-29T19:59:26.997Z"
+---
+
+Today was Thane’s birthday.
+
+Well, if he was to get really technical, that was tomorrow. But nobody ever actually celebrated his birthday when Drake’s was the day before, so he tended to lump the two together in his mind. It did make a certain amount of sense. Celebrating two birthdays so close together was quite the hassle. There were guests that had to be invited, plans that had to be set. Having one right after another one… that was just too much.
+
+Logic dictated that it was easiest to just celebrate the first birthday. You couldn’t delay the day you were born, after all. And it wasn’t like someone could move his birthday a day earlier.
+
+Drake’s came first, so Drake’s got celebrated. And that was just fine with Thane. After all, all the celebrations weren’t just because anyone was getting older. Noble parties had far more meaning to them than that.
+
+This was about the successor of House Blacktongue. Drake was old enough to start taking on responsibilities from their father. His sixteenth birthday was celebrated to ensure the other houses could mingle and get to know who would one day lead the Blacktongues. It was about business, not pleasure.
+
+Thane’s birthday was just him turning sixteen. It was just the day when he got a year older. House Blacktongue didn’t get anything from that, so there was really no need for them to celebrate anything.
+
+He was more than satisfied to stay in the corner of the banquet hall and shovel away all the food that had been brought in for the event. That’s what he’d done for just about every other birthday. It let him avoid the other nobles, and he didn’t have to worry about accidentally stumbling over his words and shaming the Blacktongues in the process.
+
+Thane’s hands tightened into fists at his sides.
+
+That is what I feel… right?
+
+He stared down at the long banquet table he sat at. The food had already been laid out upon it and distant chatter from the visiting nobles stung his ears. More and more nobles poured into the hall with every passing minute.
+
+His brother was somewhere among their number, probably at the very center of the large crowd gathered near a raised dais that had been set up in preparation of a number of speeches that Thane had no doubt he would sleep through.
+
+Thane had hoped he’d have at least another hour of silence before the insufferable day begun. He’d even chosen the spot farthest in the corner in hopes that he’d be able to evade all the excited chatter that had absolutely nothing to do with him.
+
+I don’t want to be here.
+
+But he couldn’t leave. It would cast shame on his family’s name. What kind of brother didn’t show up for his twin’s sixteenth birthday? People would think there was tension between them — that the Blacktongues had internal strain. Thane couldn’t allow for that. It was his duty to make sure his family looked powerful—
+
+Who said it’s my responsibility?
+
+Arwin’s words rung through Thane’s skull.
+
+He gritted his teeth and shook his head. Those thoughts were dangerous. This was his duty. Sitting around a party really wasn’t that big of an ask. It was easy. All he had to do was stand there. His purpose was to show the strength of the Blacktongue Family. That his parents had been able to get him a class—
+
+But they didn’t get me anything. The Menagerie did.
+
+Thane shook his head even harder. He couldn’t afford to let himself have thoughts like that. Not today. Even if the Menagerie had a point, this was his brother’s birthday. It was too important to let himself let personal feelings get in the way.
+
+I just have to stay out of the way for one more day. It’s not that hard. I’ve done it pretty much every day of my life. One more birthday isn’t changing anything. If I’m lucky, nobody will bother me today. I don’t feel up to keeping proper decorum… but as long as nobody talks to me, it won’t matter.
+
+He resisted the urge to sigh. Even the smallest slipup could snowball into something far worse. The smartest move to do right now was just to stuff his face full of some of the delicious food laden on the table before him and ignore everything else. Nobody could notice the look on his face if he was chewing.
+
+But for some reason, the idea of putting food into his mouth made him feel sick to his stomach. His tongue tasted like ash.
+
+I don’t want to be here. I want to leave.
+
+Loud laughter echoed through the room, joined by the clinking of glasses as people toasted each other. Thane heard his brother’s voice coming from somewhere within the mess of voices.
+
+“This? It’s too much,” Drake said with a bassy laugh. “I’m not worthy of armor like this, Baron. But I will treasure it greatly. I’m quite partial to adventuring, you know. Been planning on it for a long time. I don’t have as much free time as my brother, of course, I’m quite busy. But soon. I expect I’ll be quite apt at it.”
+
+You wouldn’t last a second.
+
+Thane strangled the thought before it could reach his features. This was bad. He’d never been this worked up for absolutely no reason before. If any of the nobles caught sight of him pouting like some spoiled brat, there would be trouble.
+
+“Where is your brother, anyway?” the baron’s voice came. Thane didn’t know which one it was — there were a number of them, and none of them ever had much need to speak with him. He couldn’t recognize them from voice alone.
+
+“Oh, he’s over there. Our parents paid a team to hand him a class,” Drake said.
+
+“A team did it for him?” the baron asked. “You can’t get much if you don’t earn it.”
+
+“Don’t I know it,” Drake agreed. “That’s why I’ll be doing a dungeon on my own when I set out for a class. I don’t need any handouts. But his class is definitely strong. The question is just how well he can use it.”
+
+“What kind of class did he even get?” another noble asked. “I heard he was part of an Expert ranked dungeon.”
+
+Drake let out a laugh. “Oh, yeah. I’m certain his class is fantastic. My parents paid a great deal to make sure he was given something suitably strong. He’ll be working for the family soon. I’m certain he’ll be a valuable asset.”
+
+Another sharp flash of anger cut through Thane. He grabbed a leg of chicken from the table and took a bite out of it. The food tasted like ash in his mouth.
+
+Every passing second made him want to leave even more. There was nothing for him here. He didn’t even know why his parents needed him present. Drake could do all the talking — and Thane didn’t need to hear whatever it was that was being said about him.
+
+There’s nothing for me here. Nothing at all.
+
+Thane hadn’t yet told anyone what his class did. He’d taken that piece of advice to heart. And it hadn’t been hard. His parents hadn’t even pressed about what he’d gotten. After confirming that he did, in fact, have a class, all else was forgotten. After all, Drake’s birthday was today. There were more important things in life than a class.
+
+And I don’t need to prove myself to anyone here. I don’t care what they—
+
+“Still, what about the team that guided him through the dungeon?” the baron asked. “The Menagerie, wasn’t it? They’re quite the up and comers. It’s been a while since I’ve seen that much interest around a team. How did the Blacktongues get their attention?”
+
+“Them?” Drake let out a chuckle. “Interested, baron? We can put you in touch. They’re adventurers like any other. Toss them enough coin and they bark like dogs. It’s how the world works. Adventurers are nothing without equipment, and that costs money.”
+
+The bone of the chicken leg in Thane’s hand snapped under his grip.
+
+Liar. They only helped as a favor.
+
+Fortunately, the noise of the party was loud enough that nobody noticed. Thane forced himself to put the piece of meat down on his plate. He grabbed a napkin and wiped his hands off, rising to his feet.
+
+I can’t stay here any longer. I’m going to do something stupid. Leaving is better than—
+
+“Oh, look!” a noble exclaimed as Thane strode for the door. “It’s Thane! First time I’ve actually seen him moving around during a party.”
+
+“Oh, Thane?” Drake pushed through the group of nobles. His handsome face split into a grin as he spotted Thane — but it was one that didn’t reach his eyes. “Well, if it isn’t my little brother! You finally decide you liked the rest of us as much as the food?”
+
+“I was just going to the washroom,” Thane said tersely.
+
+“Eat too much?” Drake asked, arching an eyebrow. “I’m sure it’ll pass. Stick around, Thane. It’s been too long since we spoke.”
+
+Not long enough.
+
+The distaste in Thane’s thoughts surprised him. He couldn’t remember disliking Drake this much — but every word that came out of his brother’s mouth made him feel sicker. And it wasn’t just Drake. Everyone in this room made him sick.
+
+“Happy birthday, Drake,” Thane said, forcing each word from his lips like they were poison.
+
+“Did you bring me a gift?” Drake asked.
+
+What could I possibly bring you that you don’t already have? Besides, when’s the last time you celebrated my birthday? Do you remember? Because I do. It was never. Not once have you ever wished me anything at all.
+
+“I was a little too busy in the dungeon,” Thane said. He was all too aware of all the stares boring into him. Practically all the nobles in the party were staring right at him and Drake. “I apologize. My preparations and recovery took much longer than expected.”
+
+“Recovery? From what?” Drake let out a snort. “It’s okay, Thane. You’ve done everything you could. There’s no shame in being weak — so you don’t have to lie. Nobody believes you actually did anything in the dungeon.”
+
+That’s not true. I helped.
+
+“I—”
+
+“Say, didn’t you give out an invite to the party?” Drake asked abruptly. The grin on his lips grew wider. “Mom told me you handed one out. Shouldn’t you be introducing your guests to me? Where are they? Or did they not show up?”
+
+Anger tightened into a pit in Thane’s stomach. He’d had to report he’d given an invite to Esmerelda, but the Menagerie were busy. They couldn’t just drop everything to show up to Drake’s birthday. Unlike everyone here, the Menagerie had actual tasks that needed to be done.
+
+He didn’t know why Drake was wasting time on this. This was his party. Bringing attention to Thane was completely pointless. Nobody was here for him.
+
+But, in that moment, Thane realized exactly what the problem was.
+
+The party was meant for Drake, but somehow, Thane had become the topic of the conversation. Even if it was mostly in jest and passing, that was still enough to pull the focus away from the Blacktongue’s firstborn.
+
+Drake is jealous. Seriously? Of me? What is wrong with him? When did he become so spoiled? Or have I had my nose buried so deep in a book that I never noticed?
+
+“You okay, there?” Drake asked, false worry in his tone. “You look a little pale. Did your friends stand you up?”
+
+Thane bit back an angry retort. It wasn’t worth it. No matter what anyone said, he still had a duty to his family. If this was how Drake wanted to handle himself, then there was nothing he could do. It wasn’t a good look for the Blacktongues, but fighting back would make for an even a worse one.
+
+“They were busy.”
+
+“They were busy?” Drake let out a laugh, and several of the nobles around him — the ones trying to get into his good graces before he took over the house — mirrored the laughter. “Is that what they told you? Or did you not get a response?”
+
+“I don’t know,” Thane said simply. That was where he should have stopped, but he couldn’t stop himself from adding one more sentence on. “Adventurers have a lot of responsibilities. They can’t afford to show up to every single party they get invited to.”
+
+“Are you implying that the friends you invited are so high and mighty that they’re too good to come here?” Drake clapped Thane on the shoulder. His grip was anything but friendly. “That’s quite rude, Thane. You should keep better company. That sort of scum can rub off on you.”
+
+“They’re not scum!” Thane snapped.
+
+He regretted his words almost instantly.
+
+“Is that so?” Drake asked. “I was just trying to give you some life advice, Thane. Gods know you need it. Your nose never leaves those damn books of yours. Adventurers that can’t be bothered to show up at a noble’s command are nothing at all.”
+
+“That isn’t true. They’re busy,” Thane said. Even though it was stupid, he couldn’t just sit around and let someone, family or not, talk bad about the Menagerie. “Don’t talk about them like that. They’re better—”
+
+“Better?” Drake tilted his head to the side. “Better than who, Thane? Me? All the good people here?”
+
+Dozens of sharp gazes bore into Thane from every direction. He wished he could shrink in on himself and vanish, but that wasn’t an option. Thane didn’t have invisibility magic. He didn’t have combat magic at all.
+
+“You know, no good coming of age is right without a proper duel,” the baron said from behind Thane. “And who better to give the honor than your brother? Shared blood pushes us forward better than any other.”
+
+“You’re right,” Drake said with a grin. “Thane is so full of fighting spirit today. I couldn’t think of a better way to get the party started.
+
+“I don’t want to duel you,” Thane stammered, his stomach twisting into a new knot. “That—”
+
+“Oh, no. Look at all the good people here. They want more than some bandied words. They’re here for entertainment. And as it is my party, it is my duty to provide them with such.” Drake’s smile was as cold as ice. “I must insist, Thane. We duel. Besides, you’ve got that new class.”
+
+“It isn’t—”
+
+“To make things fair,” Drake continued, speaking past Thane before another word could make it out of his mouth, “I’ll just go ahead and use some of the weapons my good friends have gifted me with. It’s only proper, after all. That should put us on even ground.”
+
+From the corner of his eye, Thane spotted his father standing in the corner of the room. But the man made no moves to interfere with what was happening. On the contrary. He looked at Drake with approval.
+
+Only too late did Thane finally realize what they had planned. He didn’t know if this had been the plan from the start or something they’d cooked up when he’d made it back from the dungeon alive and with a class.
+
+It didn’t matter. His family didn’t actually care what kind of class he had. The only thing that mattered was that he had a class, one supposedly even better than normal because it came from an Expert Ranked Dungeon. And when Drake defeated him in a duel, the Blacktongue’s heir would look even stronger still.
+
+Thane’s ears rung and his mouth felt like it was full of cotton. He could barely even believe it, but there was no other explanation. It didn’t matter how hard he squinted at the situation.
+
+After everything I’ve done for my family… they set me up to be fodder. They know my class isn’t going to be enough to beat someone decked out in magical gear.
+
+The only use they have for me is to lose to Drake.

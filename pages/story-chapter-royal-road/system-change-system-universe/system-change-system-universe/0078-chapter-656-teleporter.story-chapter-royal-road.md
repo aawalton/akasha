@@ -1,0 +1,131 @@
+---
+id: f559c35c-68c0-51e3-a9b0-5d9610301e2a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 656: Teleporter"
+slug: 0078-chapter-656-teleporter
+partOf: system-change-system-universe
+position: 78
+ownLength: 2054
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3516691/chapter-656-teleporter"
+royalRoadId: "3516691"
+---
+
+Chapter 656: Teleporter
+
+Derek stared at the giant of a woman as she moved over the outpost. After hovering for a few moments and looking around, she deactivated her skill and fell out of the sky, out of Derek's sight. After that, Derek turned his head and watched as Marrick floated closer to their destination, then fell to one knee and placed his hands on the ground before closing his eyes and concentrating. When the old elf opened his eyes, he frowned.
+
+"What is it?" Derek asked as he walked up behind the man.
+
+"There is a lot of movement underground," Marrick replied. "Nothing seems particularly strong, but there are a lot of beasts. I think it's the remaining larvae that never made it up before The Amber Tyrant died. They probably lost their connection to their commander and are now going crazy."
+
+"Are any heading up to the surface to fight?" Derek asked with a frown, just before one of the worms shot up out of the ground. It was close to them, but it didn't seem like it had any particular target in mind. Still, before it hit the ground, Jace had already chopped it to pieces.
+
+"Yes," Marrick answered with a snort. "There are plenty that seem to be approaching the surface, but they are moving quite aimlessly."
+
+"If the outpost is empty, do you think it will be safe to let Brandi out to work on the teleporter if we find a broken one?" Derek asked.
+
+Marrick looked around, then closed his eyes again before nodding. "With us around her, I think we can hold them off while she works on it."
+
+"Okay, then," Derek said as he let out a breath. "You can't just... crush them all from here, can you?" he asked.
+
+"If only I were that powerful," Marrick chuckled. "Maybe if all the worms were only half of their current level... but as they are and I am now..." He shook his head. "The best I could do would be to slow their movements by hardening or more densely packing the ground beneath us. Maybe I could stick some of my new sand on them, but that's about it."
+
+"That's a shame," Derek said as Jace flashed over and chopped another one of the larvae to pieces. "At least he's still having fun," he laughed.
+
+"He is an idiot, after all," Marrick replied.
+
+Soon enough, as they were still talking about the potential danger of the underground monsters, Amelia appeared back in the sky and moved toward them. Finally, she landed on the ground in front of Derek and looked around at the new corpses of monsters.
+
+"There are more of the minions?" she asked.
+
+"We think they are just the remaining ones that lost their connection to the tyrant and then went crazy. There are a ton of them underground, apparently," Derek explained. "How about you? What did you find in the outpost?"
+
+"I didn't see any signs of enemies... or really anything. The place has been abandoned for quite some time, and I think the presence of the World Boss kept most of the monsters away," Amelia said. "As far as I can tell, the outpost should be safe for all of us."
+
+"Great," Derek said. "Did you notice a teleporter or anything that may have looked like it could be one?" he asked.
+
+"Maybe," Amelia replied with a shrug. "There are a few constructions that look like they could be that, but I'm not sure of the technology of this world or system, so I am unsure."
+
+"I'll know it when I see it," Alex said from the side. "I've seen my fair share of different teleportation devices."
+
+"Sounds good," Derek said, then raised his voice so that everyone could hear him. "In that case, let's go to the outpost and see if we can get it up and running."
+
+"I'll stay out here and keep killing these Graboids!" Jace shouted back. "They aren't great for my Battlelust, but they're at least keeping it charged."
+
+"I'm going to get a little fighting in, too," Edgar said. "I'm itching to kill something after missing out on a World Boss."
+
+"Alright," Derek said. "I'll let you know if or when the teleportation device is ready." He turned away from Edgar, then started walking to the outpost.
+
+After leaving Edgar and Jace behind to mop up any of the larvae that popped up, the others followed Derek to the outpost. Soon enough, they were at the dilapidated entrance to the past stronghold. Stepping inside the partially crumbled walls and looking around at some of the destroyed buildings, Derek turned to Amelia and asked her to take them to the likely teleporters that she'd found.
+
+"Okay," Amelia said. "The first one isn't too far from here." She stepped in front and led them all to a square platform that was more crumbled than standing. "This is one..." she said. "But I hope it's not actually the teleporter."
+
+"Same," Derek said as he examined the platform. "There's no way Brandi would be able to fix something in this bad shape."
+
+"She'd be better off trying to build one from scratch," Marrick replied with a nod.
+
+"Don't worry," Alex finally stepped up. "This wasn't a teleporter," he said as he crouched down and looked at it. "It's way too close to the side walls of the outpost. A teleporter would be in the center of the area or tucked inside one of the buildings. There is no way they would put a teleporter this far away from the center. It's likely nothing more than a speaking platform or maybe even a training square."
+
+"That's good," Derek said, then looked at Amelia. "Where is the next one?"
+
+"Since you think it won't be stationed close to the edge of the outpost, let's go to the one closer to the center." Amelia took off walking. Everyone followed behind—they were already at the outpost and had defeated the main threat, so they weren’t rushing around. Instead, they were cautiously walking and making sure there were no other threats along the way.
+
+After all, a young girl with a much lower level than any of them would be out working once they found the teleporter, so they didn't want any big surprises while she did that. After a few minutes of walking, Alex spotted something and half-rushed toward it. Derek sighed and followed close behind, just in case the young man encountered a problem in his hurry. Luckily, that didn't happen.
+
+"This is it!" Alex shouted. "Oh... and look. It's in bad shape, but it looks mostly due to time and not real damage. If your crafter is good, she should be able to work with this... I think."
+
+"Really?" Derek asked, with a bit of hope in his voice.
+
+"I really do," Alex replied. He was standing in the center of a dusty circular platform with some cracks running through it. It seemed to be mostly made of stone and some kind of metal. There was a fallen rail that circled around it that had fallen due to no upkeep, and there was some kind of stand or desk at the side. Alex ran to the stand. "This is where we input the destination and activate the runes and everything. It doesn't have any power, of course, but if she can repair everything—which I think she can—then we should be able to get off this planet."
+
+"That's good news," Derek said. Then he looked at Marrick and Amelia. "Make sure there are no real enemies around one more time, then I'll go in and get her."
+
+The two did one last pass, looking for enemies. Marrick checked the ground and only found what looked like a large amount of larvae, and Amelia checked the skies and the outpost from above. When she came back and Marrick gave him a nod, Derek opened his Time Prison and went inside.
+
+He found Brandi back in her smithy, still studying the teleportation plate and the communication and teleportation extender. He walked up behind her and waited for her to pause her studying before talking because he didn't want to disturb her on the off chance she was in the middle of learning something important.
+
+After some time, Derek saw her give the teleportation plate a slight nod and release a sigh. With a small smile, he said, "Did you figure something out?"
+
+"Wha!" Brandi nearly jumped out of her boots as her head swiveled around to look at Derek. "Oh... it's you. Don't sneak up on me like that!"
+
+"I didn't exactly sneak," Derek replied with a chuckle. "I just saw you were focusing and stood here until you finished... So... did you learn something new?"
+
+"I did!" Brandi replied.
+
+"Oh, yeah?" Derek raised his eyebrows. "Will it help with repairing a teleporter?"
+
+"I don't know," Brandi answered.
+
+"Then what did you learn?" Derek asked.
+
+"Layering! Manually layering runes over one another without them interfering with each other. It was how this plate did it with some explosion and tamper runes. It's so neat! You can't do it with every rune, but most runes have areas where you can naturally connect other runes to them, then inscribe the runes together."
+
+"What use does that have?" Derek asked.
+
+"You can save a lot of room... like 20% if you layer like that. Which means you can add more runes to something. It also saves energy and can even let you hide one rune inside another—you know, like they did with the tampering runes on the plate here," Brandi answered.
+
+"Does that mean that no matter what, you would have to activate two runes at the same time always?" Derek asked. Brandi frowned, so he elaborated. "Say you have a flamethrower and a fireball rune that are connected on your glove. If you send mana into one, will it automatically activate both the flamethrower and the fireball at the same time?"
+
+"Oh!" Brandi finally understood. She shook her head. "No, if you have good control of your mana, you can manually keep it to where it only activates a single portion. Or, a good runesmith would be able to inscribe something to keep them together but activate them separately. But..." she smiled. "If you do activate them both at the same time, I may be able to think of some ways to amplify the power of the attacks while, at the same time, saving on mana. Oh... this is amazing! I can't wait to experiment!"
+
+"Okay..." Derek said. "What happens if one of the runes is damaged?" he asked. "Like, what happens if a sword slices through a specific part of the glove and cuts the fireball rune in half? Do both runes automatically fail at that point, or can you keep using the flamethrower rune?"
+
+"Huh..." Brandi rubbed her chin. "If there's nothing separating the runes and you're relying only on your mana control... I suppose the runesmith could put a natural mana injection point on each of the layered runes so you could start on either rune—that way, you don't have to go through the damaged rune. That would also take care of the activation issue. It would make it where you needed less control and could just fill the rune up like usual and just not let it flow into the other..."
+
+"Oh... that... that sounds like it would work quite well," Derek said.
+
+"It does, doesn't it!?" Brandi asked excitedly. "Can I go work on it now? I'm so excited!"
+
+"Uh... oh... shit..." Derek facepalmed. "Sorry about all that. This stuff is interesting to me, even if I'll never do anything more than use runes made by other people. I actually came here for a reason."
+
+"What reason?"
+
+"Well... we found an outpost with a teleporter. It's mostly damaged by time and decay, instead of just being broken. Alex thinks that a good crafter would have a chance at fixing it. What do you say? Want to give it a shot?"
+
+Brandi's eyes brightened as she nodded fiercely. "If I fix it, that means we can go to that city and I can start crafting for real again?"
+
+"Something like that," Derek replied with a laugh.
+
+"Then what are we still standing here for?"

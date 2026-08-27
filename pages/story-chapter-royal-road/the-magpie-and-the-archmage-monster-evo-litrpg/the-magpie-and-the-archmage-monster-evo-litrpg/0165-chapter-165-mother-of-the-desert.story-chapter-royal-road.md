@@ -1,0 +1,177 @@
+---
+id: e63c802a-8f58-59e3-87f8-29519f04e692
+page-type-slug: story-chapter-royal-road
+title: "Chapter 165 – Mother of the Desert"
+slug: 0165-chapter-165-mother-of-the-desert
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 165
+ownLength: 2090
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3841903/chapter-165-mother-of-the-desert"
+royalRoadId: "3841903"
+---
+
+"Oh, shit, oh, shit, oh, shit!" Liora mumbled, staring at the giant shark fin that was moving closer to the oasis at an alarming speed.
+
+"What? What?!" Cee panicked, scuttling around Liora. "I see something moving in the distance, but it's too far for me to tell."
+
+"A level 65 Desert Shark Matriarch with a bright red label."
+
+Caspian's face grew incredibly pale. "Did you say desert shark matriarch? We have to return to the sea at once!"
+
+That was Liora's first reaction, too, but there was a bit of an issue. "Aren't you forbidden from returning to the merfolk city?"
+
+During their training time, the merfolk had occasionally come to the oasis to gather the fish and materials as was norm for them. They would talk with Liora and Cee in a friendly manner, bringing them gifts of actually good food and inviting them to their city sometimes.
+
+However, they always acted as if Caspian wasn't there. As if the merman didn't even exist. It was off-putting to be honest. Sure, he had done the forbidden ritual (forbidden for a very good reason), but did they really have to act to mean to him?
+
+Or maybe by treating him this way, they were discouraging any other merfolk from undertaking the life-threatening ritual. Perhaps, they didn't want to treat Caspian this way, but to protect others, they had to. Then again, it didn't seem like they had ever treated Caspian nicely.
+
+Caspian, realizing that it was unlikely that his brethren would allow him passage inside the city, turned green. Even more green.
+
+"Surely, they would let him in this case. It is an emergency! Let's go into the water!" Cee urged everyone towards the exit of the dungeon.
+
+It was certainly worth trying. Cee hurriedly constructed an air bubble for Smokey. The wyvern didn't want to go into the water, so Liora had no choice but to drag the little beast in. Caspian followed after them, transforming into his merman form as soon as he dove into the water.
+
+Together, they swam for the dungeon exit where the two tough-looking shark merfolk were standing guard. As soon as they saw Caspian, they barred his exit.
+
+"This is an emergency!" Liora said. "There's a Level 65 Desert Shark approaching the oasis."
+
+The guards paled, but their stance remained firm. "You, Cee, your mate, and the wyvern are welcome in our city. But Caspian has been cast out. He can never return."
+
+"Oh, come on! Don't be ridiculous. We can't just leave him here. That thing is going to kill him. We won't even go into the city. We can just sit by the entrance until it leaves," Liora insisted.
+
+"Absolutely not. For everyone in the city, Caspian is already dead," one of the guards said.
+
+Cee swam forward. "What do you mean by dead?"
+
+"It is the law. If anyone decides to undergo the Landwalker ritual, they are exiled and declared dead. We cannot have young merfolk performing the ritual in the heat of the moment and losing their lives. It is too dangerous!"
+
+"Are you fucking kidding me? Caspian isn't dead. He's alive. Wasn't he your best healer? Didn't he save the lives of your people?" Cee yelled in outrage.
+
+The guard did have the good grace to look uncomfortable, sharing a glance with his companion, but they still didn't budge.
+
+"It was his choice. The law is known to everyone. It is not refutable!"
+
+Liora couldn't believe it. They would just leave Caspian alone with the monster simply because he broke a stupid law. Was it foolish of Caspain to perform that ritual? Yes, absolutely. There was no doubt about that.
+
+But just abandoning him in the dungeon to fight on his own… He wasn't even a fighter. He was a healer. Liora felt intense anger at these people. Merfolk acted like they were better than humans, but it seemed to her that they were no better at all. They acted the same way, following the narrative that suited them the most.
+
+"Y-You can go ahead… I'm just going to hide here… Desert sharks can't go in saltwater after all…" Caspian chuckled, but it looked like he was about to hurl.
+
+Liora couldn't blame him. If she were in his shoes—uhh… fins—then she would feel the same way. The basin wasn't very deep. It was obvious that if the desert shark matriarch decided to snatch up a merman snack, the monster could easily do so, even if it couldn't stay in saltwater for long.
+
+"I can't believe this!" Cee swam up angrily to the merfolk. "Are you really so single-minded about your rules that you would leave a healer to fend for himself in a dungeon, just because he broke one of your rules? Oh, yes, sure, you don't want others to do the ritual, but leaving him to die… For fuck's sake!"
+
+The spider was basically vibrating with anger, and even Smokey, influenced by his master's mood, was growling threateningly at the mermen.
+
+"He should have thought of that before attempting the forbidden ritual!" Both of them replied in unison.
+
+"You pieces of shit!" Liora spat and flew back up to the surface, pulling Smokey out along with her.
+
+"Liora, you dive back into that water," Renir demanded.
+
+"And leave Caspian here to die?" Liora retorted.
+
+Cee also jumped out of the water, throwing her front legs up in outrage. "I can't believe that. We should tie them up and force our way into the city."
+
+"As much as I would like to do just that, I don't want to make more merfolk into my enemy. They seem very stubborn in their ways."
+
+"So what do we do?" Cee asked.
+
+"Please, don't suggest fighting that thing…" Renir begged. "You didn't even know this guy until recently."
+
+"We are going to fight that thing!" Liora announced. "It's not even about Caspian. It's just the principle of leaving someone, someone who can't even fight, mind you, to fend for himself in a dungeon."
+
+Caspian looked at them in shock. "Wh-What? You can't be serious? Just head to the city. I'm the only one they won't let in."
+
+"No, Liora is right!" Cee announced. "I am so angry right now that I'm going to fight that giant shark. Sure, it's big and overleveled, but it is just a single monster."
+
+"You're… monsters too…" Caspian noted, but his words were completely ignored.
+
+"We have clever tricks! We have my webs. Liora has aerial power. What can a shark do to a bird? It doesn't matter how huge or strong that thing is if it can't reach Liora!" Cee cheered.
+
+"Yeah! We can take it! We'll bring it down bit by bit and collect all of those wonderful  glimmerstones!" Liora agreed.
+
+"YEAH!"
+
+"YEAH!"
+
+"Can you two stop being insane for a moment and think?!" Renir yelled.
+
+"There is no time to think! The shark is getting closer by the second. I need to go and lay out my traps," Cee announced and scuttled away.
+
+"I finally get to try out Meteor Impact! I can't wait!" Liora said giddily. Obviously, it wouldn't kill such a large opponent in one strike, but it was bound to hurt.
+
+"Liora, please! You could get hurt again!" Renir said nervously.
+
+"Since when are you such a worrywart?" Liora pointed out. "All you ever wanted was for me to grow stronger."
+
+Renir froze, going silent.
+
+"I am going to heal any injuries you might have. As long as you avoid any lethal blows, I can heal you!" Caspian announced, now transformed into his humanoid form.
+
+"We have a healer now, Renir! We can't let him die before getting any use out of him," Liora said and flew up to the sky. "Cee, I'll try to buy you some more time!"
+
+"As much as you can!" Cee yelled, already hard at work, weaving her webs.
+
+Liora flew towards the giant fin. As it turned out, it was even larger than she had initially thought. The monster had been so far away that she misjudged its size. The fin alone was as tall as a two-story building. Was this thing the size of a blue whale?
+
+"That's a big fish…" Liora noted, not feeling quite so certain anymore that she could beat it.
+
+"It's not too late to turn back," Renir said. "Please, Liora!"
+
+Liora did consider the option. It would be safe in the merfolk city. But Caspian… He said there was a chance the monster wouldn't attack him in that saltwater basin. But Liora felt that the chances of that were very slim.
+
+This monster must be enraged. She was clearly the mother of the juvenile sharks Liora and Cee had been killing for weeks. Any decent mother would be pissed about her children being slaughtered. Her anger was justified, and she would take it out on anything and anyone.
+
+A bit of saltwater wouldn't stop her.
+
+There was another issue. The antkin merchants. What would they do if they saw this monstrosity on their way to merfolk city? The answer was obvious. They would get the hell out of here!
+
+As long as this shark monster was here, the antkin merchants wouldn't come. There would be no way for Liora and her group to navigate to the other exit of this dungeon. The chances of them finding it while searching blindly were astronomical, even if Liora were to fly.
+
+"We have to do this. This isn't just for Caspian. This is for you, too," Liora said.
+
+"What? What does it have to do with…" Renir trailed off, as he likely realized exactly what Liora had been thinking. "The merchants won't come with this monstrosity around…"
+
+"Exactly," Liora confirmed.
+
+Renir growled. "Uggh! Dammit it all! Fine, fine! But you can only attack when you're certain it can't retaliate. We are lucky that you have an elemental advantage against this thing."
+
+"Desert sharks are weak to holy magic?"
+
+"Not holy magic, you dummy! Wind magic."
+
+"Oh!"
+
+She had been focusing on training Skypierce and Raptor Lunge, so there was no chance to see what was super-effective against the sharks. Not to mention that their goal was to train up Smokey.
+
+"That's good to know. But I think we should start with something more… impactful. Chak-chak-chak!"
+
+"You're becoming a battle maniac…" Renir grumbled.
+
+"You have nobody to blame but yourself!" Liora announced and flew high up into the sky. So high that nobody would be able to see her from below. She wanted to make this first strike count. Perhaps, if it were powerful enough, the Desert Shark Matriarch might get scared and leave. Although that was mostly wishful thinking.
+
+"Meteor Impact!" Liora announced, high up in the air where the monster wouldn't hear her, and then dove.
+
+She could feel the force at which she was falling. Her body was larger. She was stronger. She was boosted by Glimmerlust, and she was using her new and improved attack. The resulting damage should be devastating.
+
+Liora aimed to strike right in front of the fin. Hitting the head would have been better, but there was no way of knowing exactly where it was under all the sand, so she was playing it safe. Even if this didn't kill the shark, it should deal massive damage.
+
+She descended onto the monster like a meteorite, her body impacting the flesh and sending sand flying all around her from the strike. There was a loud, low growl in response to her strike, and she expected to be covered in blood and bits of flesh now.
+
+However, all Liora saw was sand. She had only struck sand? But how was that possible? She had definitely aimed for the spot in front of the fin with the least amount of sand. But the fin itself looked more submerged than before.
+
+"Fly up! It used sand to lessen the strike," Renir commanded.
+
+Liora hurriedly flew up as the Desert Shark Matriarch emerged from the dune.
+
+"Oh no…" Liora muttered as she saw the true size of the monster.
+
+It was a massive beast, easily twenty meters long. Its whole body was flatter than that of a sea shark, looking like a weird mix of a shark and a flounder. Its mouth was massive and had rows of huge, razor-sharp teeth. But the worst part was that the place where Liora struck… It was nothing more than a scratch. She had grazed the skin, but hadn't drawn blood.
+
+"We're totally screwed, aren't we?" Liora muttered.
+
+"Yup!" Renir confirmed.

@@ -1,0 +1,151 @@
+---
+id: 53742d3b-0654-517f-8b71-84fdaf71f2c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57: Read this for me!"
+slug: 0057-chapter-57-read-this-for-me
+partOf: phoenix-ascension-cultivation-litrpg
+position: 57
+ownLength: 2109
+unit: words
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2816398/chapter-57-read-this-for-me"
+royalRoadId: "2816398"
+---
+
+In the dark alleys of Hu village, a shadowy figure walked. His eyes were red; his cloak was dark, and his face was hidden. The only thing that stood out was a blood-red pill that he played with between his bony fingers.
+
+He whistled a tune that sounded like the wailing of the wind, accompanied by the tired barking of dogs and the slow chirp of the birds. As he neared a certain house, his smile revealed a set of black teeth.
+
+I can’t believe those two idiots died just like that. His internal thoughts were all but happy, though.
+
+The man lamented the loss of two potential subordinates. They weren’t strong, but good enough demon seedlings to join his master’s cause. However, his plans had been thwarted when they died.
+
+He didn’t know who or what killed them, and after checking their corpses, the only clue he found was the poison traces of a few low-quality pills.
+
+Normally, such trash pills should not have had any effect on their demonic bodies, so the way they died remained a mystery. Now, he was looking for other seeds to plant, so that his master could sow them later.
+
+He’d long since heard of a fallen family, whose only survivors lived a life of misery. They were also a pair— brother and sister— so he was interested in replacing his lost pawns. Were they as strong? Probably not, but they had more drive.
+
+The two he’d lost belonged to a sect, one that his master wanted to infiltrate and take over. He had yet to tell his master of what happened, as he knew once he did, his life would either be forfeit or his master would throw him away.
+
+Both cases were awful, though if you asked him, the latter was worse than the former. Why? Because he loved his master.
+
+“Enough useless thoughts. I’ll make it up to Master with those two seedlings. One is crippled, while the other didn’t unblock her meridians." However, what did that matter? The pills his master had developed would unlock the full potential of a human body, at the small cost of giving it up.
+
+As he approached, the dark figure let down his hood, revealing a red face with two black, ugly horns. His eyes were yellow with cat-like pupils, and black markings spread from his neck all the way to his cheeks.
+
+The light of the moon revealed his appearance, which quickly changed to that of a regular human. In fact, the man almost looked like a saint, as the technique he used simulated a faint holy aura.
+
+The man slowly walked through the broken gate of the Shu residence and knocked on the door. For a moment, there was no answer. He waited a full five minutes before the door creaked open, revealing the sickly figure of a young man.
+
+“H-hello?”
+
+“Greetings, young man. I’m a wandering monk, and I heard of your peril. Could I take a look at your meridians?” The man said with a sweet, warm smile. His voice was filled with traces of protection, care, and holiness.
+
+The young man’s eyes sparkled as he looked at the man, whose holy aura gave him a strange sense of trust.
+
+Shu Wao Tu stared at the beautiful blue pill in his hands. It sparkled with a mesmerizing luster, and based on what that monk said, it would be his ticket to getting out of the pit of despair he fell into. The man had also left a pill for his sister, so she could awaken her meridians and step on the path of cultivation.
+
+Besides those two, the monk left one other thing—a scroll— it wasn’t any normal scroll either. It contained a cultivation technique that would help them reach heights that their bloodline had never seen before.
+
+It all sounded too good to be true, and Shu Wao Tu knew that there was no such thing as a free meal. When he asked the monk why, the only response Shu Wao Tu got was that his mission was to spread kindness in the world.
+
+As for payment, all Shu Wao Tu had to do was commit good deeds, help the less fortunate, and take pity on the weak. For a monk, such a request wasn’t too out of place. After all, most if not all of the monks were affiliated with the Holy Spirit Sect.
+
+It was a big sect, bigger than the so-called ‘Five Great Sects’ combined. They were great, but in the grand scheme of things, they were only minor characters. Shu Wao Tu knew that, because his mother had told him stories of the great immortals.
+
+Of realms beyond Core Formation, Golden Core, or Nascent Soul. Of realms so strong and so mighty that even ten sets of Five Great Sects would not be enough to beat them. Ever since he was young, he’d dreamt of reaching such heights.
+
+However, before his dreams could even start, they were taken away.
+
+As he remembered all the awful things that happened to his family over these past ten years, Shu Wao Tu clenched the pill within his fist. It let out a sense of comfort, something he hadn’t felt in a long while. Not ever since his mother had been driven to suicide.
+
+His only light, his little sister, Shu Xu Ning, was too young to know about such matters. He’d raised her ever since his family’s downfall, with the help of a few loyal servants that lent a hand every so often.
+
+However, five years ago, after being baited into a fight by Chiao Gu, his meridians had been crippled. His ability to cultivate had been stolen, and his body weakened with every passing day.
+
+At this rate, I won’t be able to see Xu’er grow up. I won’t be able to see her get married and have kids. She may not even survive without me. Chiao Gu, you bastard… to think you had such thoughts about my little sister…
+
+Shu Wao Tu’s hands were bleeding, and he could only calm himself down after a few minutes.
+
+He could not allow his sister to suffer anymore.
+
+He would not allow his sister to suffer anymore.
+
+And the key to all of that was a pill. All he had to do was swallow it and cultivate the technique left by the monk. After reaching the third stage of Qi Condensation, he could get his revenge on Chiao Gu, leave the damned Hu village, and get stronger in the wild.
+
+All it took was one pill. One pill for his dreams to come true, for his revenge to be fulfilled, for his sis-
+
+“Big brother, I’m home!” Xu’er’s voice broke him out of his declining mental state, and he quickly hid away both pills and cultivation technique. He wasn’t sure if he wanted to let his sister cultivate yet, and he didn’t want to worry her.
+
+Not to mention, if they made too big a commotion, that Chiao Gu bastard would come and steal away those pills as well. He could not allow that.
+
+“Big brother, I brought home a guest! She’s the immortal I talked to you about.”
+
+“I- Immortal?” He repeated weakly, watching the door to his room open with a half expectant, half fearful gaze.
+
+However, nothing could have prepared him for what he was about to see.
+
+Following Xu’er, a somewhat tiny, yet interesting-looking figure walked through. The ‘Immortal’ was covered with a white blanket, onto which were glued leaves, twigs, and other such vegetation.
+
+Shu Wao Tu didn’t know whether to laugh or cry, but he kept a solemn expression as he bowed toward the ‘Immortal’.
+
+Is my little sister being conned?
+
+***
+
+That costume wasn’t my first choice in terms of fashion. However, in order to walk through the village without being spotted, it was necessary. So what if it was broad daylight and everyone stared at us?
+
+I would much rather be seen as a freak than for people to know that I was a Phoenix. However, in order to persuade that Chiao Gu fella to hand over the pill, this sort of disguise would not do.
+
+But to get inside the little girl’s house? It was more than enough.
+
+As I neared her house, I sensed a faint and really weak presence. It must have been her brother, the one she cared about so much. Poor guy, the expression he had on his face while bowing weakly made it hard not to laugh.
+
+Anyway, I decided to keep my disguise on, as I didn’t want him to know about me either. Just being an ‘Immortal’ was fine. I would need to figure out a way to get some sort of form or costume that did a better job at showcasing my might.
+
+I still wasn’t done with System. There had to be something I could use that didn’t cost half my skill points!
+
+But that was for later, for now I wanted to get acquainted with the little girl’s brother.
+
+As a former great expert, I naturally knew how to act around mortals. I kept silent and let out an invisible pressure. Strong enough for him to understand my might, but weak enough to allow him to breathe.
+
+Upon sensing the aura of a cultivator, his bow deepened, and the expression on his face turned solemn. The little girl went quiet as well, though she was holding back a giggle.
+
+“Lord Immortal, forgive me for not being able to properly greet you.” Her brother said, and I simply scoffed in response.
+
+Pacing around the room, I tested to see how much he knew about the world of cultivators. The little girl followed me every step, while the young man’s eyes remained fixated on a single spot on the floor.
+
+I nodded and walked closer to the bed. “Extend your hand.”
+
+He shivered and did as I told him to. I brushed my wing against his wrist and sent a little bit of my consciousness inside his meridians.
+
+“Don’t resist.” He nodded and gritted his teeth.
+
+What I saw next shocked me, though. Not only were his meridians shattered, but his acupuncture points have also been broken. The young man could not absorb any Qi inside his dried dantian, and Qi kept invading his body, poisoning him.
+
+I retracted my wing and nodded.
+
+“I understand your situation now. I owe this little girl a debt, so I will help resolve your situation.”
+
+The young man’s head rose almost instantly, his lifeless eyes shining with a bit of hope. My chest tightened upon seeing those eyes of his, as they reminded me of a certain someone.
+
+It was a painful memory, one that just resurfaced. Fragmented and blurry as it may be, what I felt in that moment was as clear as the morning sun.
+
+I looked away, suppressing those painful emotions, and said after a moment. “Your body is being invaded by foreign Qi. I have a method for you to expel it, but the underlying problem remains at the level of your meridians. “
+
+“The pill I gave your sister… should have helped you repair them, and with a bit of training, restore your acupuncture points to peak condition. However, since that cousin of yours holds such malice in his heart, that plan will have to be delayed.”
+
+I wasn’t lying; I did have a method to help expel the poisonous Qi invading his body. However, it was a bit of a pain to explain the ways to use it, especially to someone with limited knowledge.
+
+The fact that I was still only a bird aside, I could not use my own Qi to help him. But the technique in itself was simple. The only problem was that someone else with intact meridians would have to use it on him.
+
+“Lord Immortal… this…” The boy stuttered, looking at me with hesitation. Despite his hesitation, though, I could tell that he was hopeful.
+
+“I’ll need you to do something for me first. Since I can’t help you personally, and you have no means of using Qi, your sister would need to be the one to do it for you.”
+
+“But Miss Fire- Fire Immortal.” The girl began, then just as quickly corrected herself. “I haven’t awakened my meridians yet.”
+
+I let out a scoff and threw out the cultivation technique I stole from the two brothers. “Read this out loud for me!”
+
+The two looked at me with a strange expression, but the little girl picked up the technique and sat down next to her brother, reading it for me.

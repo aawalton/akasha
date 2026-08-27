@@ -1,0 +1,155 @@
+---
+id: 4cbe26cd-c84d-5641-8fa8-c33ca050812c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: The Faceless Hunters"
+slug: 0037-chapter-32-the-faceless-hunters
+partOf: shapeshifter-a-non-human-litrpg
+position: 37
+ownLength: 1985
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3736979/chapter-32-the-faceless-hunters"
+royalRoadId: "3736979"
+---
+
+"Yuki sent you here?" Alex said, his eyes widening. "Then does that mean he's safe?"
+
+Xen chuckled. "You don't need to worry about Yuki. He is far stronger than he looks. Though I'm glad I arrived in time, you all look a little worse for wear than I had been anticipating. Let me heal you—"
+
+"Wait, you can heal like Yuki as well?" Hina asked, her eyes narrowing in suspicion.
+
+"Well..." Xen trailed off as he drew a blank. Once again, he had to fight to regain their trust. His mind raced. Why would Ghostwire possibly be able to heal? Ghostwire was a well-known Savior, registered online with the Phantom Scout class, which specialized in movement skills. And now he had shown them destructive power with Corruption Missiles that he shouldn't have possessed.
+
+There's a slim chance none of them saw me use Corruption Missile to wipe out the Abyssal Slimes past the barricade, but a Phantom Scout using Flash Mend is far too unusual. I need a way to explain this and also how Ghostwire and Yuki know one another. Is there something Yuki and I have in common?
+
+His hand instinctively reached up to the mask on his face—the indestructible Cursed Mask that followed him through forms. He could conceal it with Changeling Veil, but he had left it visible as it had originally been Ghostwires. It was clearly recognizable as Alex had already noted that it was similar to the one that Yuki wore.
+
+The mask... that's it. I can use it to explain everything.
+
+Vesper had even bought masks from a shop after their guild registration so that Xen could impersonate any of them. The mask wasn't an issue, it was the solution.
+
+"I don't know how to use any healing skills," Xen lied. "But you see, this mask is actually a powerful artifact that's part of a set. The system links them, allowing the shared usage of skills between anyone wearing one of these masks."
+
+Alex, Hina, and Daisuke exchanged an understandable, shocked glance.
+
+"I can tell you don't believe me. So let me show you," Xen said as he walked over and crouched beside Kenji. He reached out his hand and gently placed it on his back. "Flash Mend." At the cost of a little extra mana, he forced the radiant glow of the skill to illuminate the surface of his mask first. He then had it travel down his arm and finally into his palm.
+
+Kenji briefly glowed and let out a wretched cough as he seemingly came back to life the moment Xen pulled his hand away.
+
+"Holy shit," Hina gasped, her eyes wide as saucers. "You really can use Yuki's skills. That artifact, it's insane."
+
+Xen nodded and stepped back as Kenji continued coughing. "While I agree, there are downsides. It costs me far more mana than it would cost Yuki to use the skill, and there's no way to take this mask off, which complicates my daily life. But in return, all masked members of the Radiant Accord guild can share their skills, making us far more adaptable than other hunters."
+
+Hina hit her palm as if everything had just become clear. "That makes so much sense. I was wondering how Yuki had more than five skills, but it was because of the mask. He must have used one of your movement skills to phase through the barrier."
+
+"That sounds likely," Xen agreed, glad that Hina was taking his made-up explanation so well. "Can I heal the rest of you? Yuki will be mad at me if I let one of his party members die from injuries."
+
+"We aren't that weak," Alex chuckled painfully and pushed his ruined body closer across the steps. "But if you're offering a heal, I'd gladly accept it. Life in the dungeon has been tough since Yuki left."
+
+"It's my pleasure to assist you in Yuki's absence. Though you have some abyssal slime burns on your neck, so I'll give you some extra help," Xen said and placed two palms on Alex. "Flash Mend. Cleansing Light."
+
+Once again, he used some mana to force the skill to originate from his mask and travel through his body to his hands. It was all for the theatrics and to get the group to buy his lie. It was also convenient that Flash Mend and Cleansing Light were bound to his Human form, so there was no need to add them into his Free Skill Slots, and he could use them freely.
+
+Mana drained out of him at an alarming rate as he quietly spammed the Flash Mend skill multiple times. Alex was severely injured, practically at death's door. Xen's human form also had a notably lower magic stat than his Elf form, despite being a few levels higher, so using healing skills was more costly than he was used to.
+
+Alex slowly sat up and rolled his shoulders, a look of relief spreading across his features. He then heartily laughed. "I really thought I was going to die," he said, shaking his head. "To think I'm being saved by Ghostwire no less."
+
+"I'm a Savior first and foremost, you know?" Xen said, pretending to sound hurt.
+
+"Ah, yes, of course," Alex said with some seriousness. "I really appreciate it."
+
+Xen nodded and moved on to Hina next. She extended her arm for him with a wince. It seemed broken. "Flash Mend," Xen incarnated, and made sure to perform the same theatrics. Hina stared at his mask as if it were a mirror, watching the flow of radiant mana down his arm and into her own.
+
+There was the sound of bone snapping back into place, and Hina reeled back in surprise. She inspected where the break had been and hesitantly rotated her arm. When she didn't wince in pain, she nodded in satisfaction.
+
+"All better," she said with a genuine smile. "Thanks."
+
+"Not a problem," Xen assured her. "What about you, mage?"
+
+Daisuke waved him off. "I don't need any healing."
+
+"Really? You look ashen."
+
+"It's just mana deprivation. One of the mask wearers doesn't happen to have a mana recovery skill, do they?"
+
+Xen shook his head. "Not one I can impart onto others, and call us the Faceless Hunters."
+
+That earned a small reaction from everyone.
+
+"Faceless Hunters..." Hina muttered. "Is Yuki also a Faceless Hunter?"
+
+"He is indeed, but I shouldn't really be sharing all of this with members of other guilds," Xen said, trying to steer away from the topic before he created cracks in his lies.
+
+"Oh, that isn't a problem," Hina assured him. "Remember? I said earlier that we all quit the Guild Association."
+
+Xen slowly nodded. "I do remember you saying something along those lines. Can I ask why?"
+
+"I'd like to know the answer to that, too," Kenji rasped from the stairs, having finally shifted onto his back. He looked as ashen as Daisuke, and his clothes were dyed with dried blood. But he was alive.
+
+"Well," Hina hesitated and sheepishly scratched her cheek.
+
+"In our final moments, we realized the Guild Association had basically sent us here to die and wouldn't care once they learned of our demise," Alex explained to Xen and Kenji in Hina's stead. "We would be another name added to a list of casualties hidden from the public to avoid a drop in stock. Our families would be quietly compensated, and if they protested, they would be buried under a lawsuit into silence."
+
+"The other guilds are just as rotten," Hina said with a hint of disgust. "All they care about is extracting profit from the dungeon and don't care about the human cost."
+
+"What about your guild, Ghostwire?" Alex asked. "Is it any better?"
+
+Hina perked up. "Oh yeah, the Radiant Accord, right? Are they any good?"
+
+"I'd say so," Xen said after a moment of hesitation.
+
+"I've never heard of them before, yet they seem to have multiple S-rank Hunters," Daisuke said, rubbing his chin in contemplation.
+
+"That's because we carry out the needed dirty work from the shadows. The World Dungeon is far bigger a threat than any of the guilds on the surface realize," Xen explained.
+
+"No kidding," Daisuke muttered, his gaze lingering on the barricade still sizzling with abyssal sludge. "The usual hunter groups present on this floor would never be able to fight against the empowered monsters, let alone the Guardian. I believe the system message regarding the abyssal rift mentioned an invasion—"
+
+Xen glanced at the corner of his vision at the system message that had yet to disappear.
+
+[Floor 11 has been sealed in preparation for invasion. The Abyssal Rift cannot close, and the floor cannot be left while its Guardian lives]
+
+"—If these monsters got out, I could only imagine the destruction inflicted on Tokyo," Daisuke said.
+
+Hina nodded in agreement and muttered, "especially those Abyssal Slimes that detonate on death. Fighting monsters inside a populated area is already hard enough without the monsters being abyssal bombs."
+
+Kenji sat up and scratched his head in confusion. "Guys, I'm a little lost here. Did Yuki heal me?"
+
+Alex patted him on the back. "No, Kenji. This here is Ghostwire, a member of the Radiant Accord guild. He works alongside Yuki and was able to use the Flash Mend skill because they share the same mask artifact that allows them to use each other's skills."
+
+Kenji slowly nodded. "Right... ignoring how ridiculous that sounds, where is Yuki then?"
+
+Alex glanced Xen's way, as if hoping for an answer.
+
+Xen really didn't want to continue this lie any longer than he had to. "I... can't discuss Faceless Hunter missions with outsiders. I understand you three have left your guild, but that doesn't make you my allies. Besides, Kenji is still a member of the Guild Association—"
+
+"If my friends have quit, then I quit too," Kenji said adamantly, crushing his metal badge in his fist and discarding it onto the stone floor.
+
+Xen stared at the crumpled badge at his foot. "I see..."
+
+"Can we join your guild, Ghostwire?" Hina asked.
+
+"Huh?" Xen's attention snapped to her. "You want to join my guild?"
+
+"Wasn't that group Yuki was having lunch with when I hired him part of it, too?" Alex asked. "They seemed young and possibly lower level than us."
+
+"Come on," Hina begged. "You don't even need to pay us or anything. I'm tired of working for these bureaucratic guilds. One that operates from the shadows would suit me far better."
+
+Xen tightened his jaw. This wasn't what he had in mind at all. He trusted Randy, Vesper, and Valoria with his secrets. They already knew he was a monster wearing human skin and had accepted him. While he somewhat liked this group too, he had little to gain from accepting them into the Radiant Accord.
+
+But he did want them to survive, and leaving them here alone in the tower would be too dangerous.
+
+"I must warn you, our targets aren't only monsters," he said slowly, studying their expressions from behind his mask. "Can you kill people if ordered?"
+
+"That..." Hina hesitated, but only for a moment. "I could do it."
+
+The other three nodded. Though none of them seemed too keen on the idea.
+
+"I'll put that to the test," Xen said, realizing this was perfect. "If you want to join the Radiant Accord, follow me."
+
+He turned and left through the hole in the barricade. Hina was the first to follow, and seemed to be brimming with excitement. "What are you going to have us do?"
+
+"I'm going to have you four assist me in hunting a group of Ether Technocrafts like the animals they are."
+
+Hina flinched at how coldly he delivered the mission.
+
+"If you can't slit their throats," Xen glanced at her. "Then you can at least act as bait, and let me handle the rest."

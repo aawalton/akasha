@@ -1,0 +1,313 @@
+---
+id: b39043c9-d719-5798-b833-42b79e410e37
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 384"
+slug: 0082-the-path-of-ascension-chapter-384
+partOf: the-path-of-ascension
+position: 82
+ownLength: 4975
+unit: words
+ownProgress: 4975
+publishedAt: 2025-01-31
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2040782/the-path-of-ascension-chapter-384"
+royalRoadId: "2040782"
+markedReadAt: "2026-06-29T19:20:30.588Z"
+---
+
+Chapter 384
+
+Hearing that over a dozen of their aura shipments had been hit immediately set alarm bells ringing, and Matt flew down to their floating island that was currently pretending to be a more standard island on one of Palustris’ seas as it was being renovated.
+
+Liz was already there and waiting for him, which meant he couldn’t even really enjoy Palustris as he descended to ground level.
+
+Matt hadn’t expected how much he liked seeing something under his care flourish, but he found it addicting. Seeing something grow might seem adjacent to gardening or crafting, but while he could do the first and enjoyed the second, neither had given him such a rush as leading a planet itself.
+
+There was something majestic about seeing his world develop and its people grow and thrive under his guidance.
+
+On the rare occurrence that he didn’t have something to do, he would take the trip from his guild on the moon to the planet slow and steady to enjoy it. This time, however, he moved fast enough that if he wasn’t isolating himself from the atmosphere, he would have ignited like a meteor and caused serious weather pattern deviation. But with only a thought, his Concept separated him from reality well enough that he didn’t even cause a stray gust.
+
+Landing, he found Liz in what they had taken to wearing based on the local styles: robes in a loose fashion, more draped around oneself then held in place. But the lack of formality didn’t take away from her beauty.
+
+Around thirty years ago, in the process of merging her Ichor with her combat abilities, Liz had expanded her tattoos into more of a full body art of golden highlights that stood in contrast to her now slightly darker tanned skin.
+
+In their various body modifications over the years, they had played with a few looks before settling down once more.
+
+He hadn’t let Liz live down her failed attempt at a look akin to a stereotypical vampire, complete with incredibly pale skin, dark hair, and sallow eyes. Meanwhile, she never let him live down his attempt to toughen his skin, which just made him look like he had contracted a disease.
+
+But that was part of the fun of being an immortal and being able to test things. If they didn’t work, it was easy enough to change it.
+
+Really it was all Zack's fault who, after being teased by Allie one too many times for being an old man, showed up to a gathering looking closer to fifty than his original young twenties appearance.
+
+Ultimately, they had settled on something fairly close to what they originally started as, even if they went a little wild in the process. Liz with her tanned skin, Zack being older, Matt brightening his hair a little as well as growing a short beard, it was fun.
+
+And even with a crisis looming, Matt couldn’t help but take in his wife.
+
+“What happened?”
+
+Liz sent him a pulse of information even as she explained. “Someone just attacked us. Fifteen out of twenty of our current traveling shipments of aura potions out of the duchy were attacked. Word is still spotty with the captains reporting things from their nearest worlds, but I wouldn’t be surprised if a few of the others were also hit and we just haven’t gotten word yet.”
+
+After reviewing the information, Matt agreed with her assessment.
+
+Piracy wasn’t common in the Empire, but it wasn’t rare either. The Empire was massive, and the spaces between worlds in chaotic space were inherently dangerous. Even without outside provocation, it wasn’t unheard of for ships to experience issues and be lost. Even mortal-run ships, rare as they were, rarely had deaths from those incidents, but they did happen given the size of the Empire and the sheer number of ships that were moving at any given moment.
+
+When bad actors were added into the mix, things got interesting.
+
+In absolute numbers, the Empire had a lot of pirates. Millions of Tier 15 and higher groups occasionally preyed upon a lone shipping vessel traversing chaotic space, and at any given moment, there were probably a dozen ships being robbed. But in percentage terms, pirates were rare.
+
+One or two bandit groups might pop up every so often per duchy, but usually they hit a ship or two before fading back into the masses of cultivators for decades at a time, hardly daring to do another hit.
+
+Banditry, piracy, and all manner of waylayment was strictly illegal, but the Empire was so large that it was usually left up to the local powers to deal with, meaning if one was careful enough, they could get away with the occasional pilfer. The only surefire way a bandit could get the Imperial government itself searching for them was if they crossed a few very basic bottom lines, namely touching mortal foods, killing the crews of the ships, stealing Imperial goods, or trying to form a bandit cabal not tied to one of the established thieves guilds.
+
+Doing any of those things was a one-way ticket to a Tier 46 divination team hunting down the perpetrators with ruthless efficiency. However those teams had other jobs, so everyone understood that if they didn’t cross those lines, the central government couldn’t be bothered.
+
+They and their duchy had had a few scrapes with bandits in their early years, but they hadn’t had any issues since he and Liz had ruthlessly hunted down those groups, showing everyone they had a zero-tolerance policy. So the fact that fifteen ships transporting one of their main exports had been hit all at once was suspicious.
+
+Extremely suspicious.
+
+Especially considering his guild had just had its business agreements tampered with.
+
+“Someone's targeting us. They hit my guild as well. Any word from your bloodline group?”
+
+Liz’s expression turned even more sour upon hearing that. “No, but it's still based out of the Capital. Anyone we recently pissed off that might do this off the top of your head? Easier to go to the source rather than chasing down underlings.”
+
+“If your people have been hit, that changes the list drastically. Currently, it could just be someone really mad at me striking out at the guild and things related to it. Or—”
+
+“Or someone who is mad at your guild and took an opportunity to sell the information about the aura potions routes. They are mildly obfuscated, as are all high-value shipments, but anyone looking into your guild would probably be able to track the shipments well enough to sell the routes to anyone interested.” Liz finished for him.
+
+“Exactly my thought, and I’m not liking the look of this picture.”
+
+Mostly because it tied into Kees’ comment about how the guild was making enemies that now seemed all too accurate.
+
+But who would do this?
+
+If Liz was right, and they were only targeting the guild or things related to it, that didn’t really narrow things down at all.
+
+Even in the last century since the aura rifts, the guild had stepped on a lot of toes. Not all of it was intentional, but they stepped all the same and that built resentment. It was easy to say that taking out a fraction of one percent of a company's bottom line by releasing a competing but free product license wasn’t enough to declare this kind of corporate shadow war, but people's hearts were unpredictable and wars had been fought over less. That made his list of potential suspects a mile long, since not everyone who had their hands in low-Tier business were low Tiers themselves.
+
+Matt’s gut told him things were more complicated than someone just selling the information to bandit groups, thanks to the cancellation of the supply shipments.
+
+That didn’t mean he could write off the bandits if he didn’t want his guilds shipments to attract true opportunist bandits.
+
+All of which depended on if they were real bandits. This wouldn’t be the first time that corporate battles bled into real life via ‘bandits’. There was every possibility that the bandits had actually been corporate muscle pretending to be bandits just to strike out at him.
+
+Or they could be real bandits who had been used as disposable pawns.
+
+Few bandits were actually stupid enough to attack an Ascender's shipments, but there were a dozen possible reasons as to why they would, including but not limited to them just not knowing whose goods they were stealing. If it was just one ship that had been hit, Matt and Liz would be mad and they would just write it off as the price of doing business, but now they needed to send a message.
+
+Making up his mind, Matt said, “I’m going to go chase down a few of the bandit groups. They probably know nothing, but we can’t let this go unanswered or we'll never be able to ship anything.”
+
+Liz nodded. “Agreed. If you're ranging out I’m going to stick close to home in case they are trying to lure us both away from Palustris.”
+
+During their goodbye kiss, she sent to him through their skin contact, ‘I’ll hit a few of the nearest locations and see what I can find out quietly.’
+
+Taking to space, Matt didn’t enter one of their luxury ships, and instead boarded a much smaller vessel more similar to a long-range scout ship.
+
+It had been a gift from Lila, who had tried to tempt him into joining her guild on an expedition or two into chaotic space. The ship was Tier 30 and only had room for one person, but what it lacked in comfort it made up for in speed. Even before the engines had been replaced with travel mana engines built by Origami for him, the ship had been fast, but now it was something else.
+
+Entering the ship in real space, Matt felt his [AI] merge with the ship’s controls and visuals as the engine pulled four million mana a second to initiate its startup procedure. Instead of the typical transition into chaotic space he was used to, which involved the engines performing the jump via spatial twisting, the scout ship cut a hole through space and he had to drive through.
+
+Pulling out of reality, Matt felt the turbulence of chaotic space buffett his ship like he was on a rowboat in the middle of a hurricane, but all of that vanished as he started the ship forward.
+
+At a tenth of the engine's max power, it was moving fast enough that he felt nothing as he cut through the eddies. With his 83 million mana per second generation, he was more than able to max the engine out, but that put him at a level beyond what typical Tier 35 ships could do.
+
+Even with the fast iteration of travel mana engines changing the transportation landscape, speed was still stratified by Tier. As the high-Tier companies and guilds released their second and third generation travel mana engines, the engines typically settled in at about one Tier faster and more efficient than their older counterparts, but even that was changing as everyone was trying to one up each other.
+
+Titan’s Torch had even kept their hand in the travel mana race as they iterated upon their initial designs. The gains were smaller in the lower Tiers, but each iota of savings was worth the expense for him.
+
+On a more personal note, another company had finally figured out how to make a practical personal flight enchantment that worked with travel mana, leading to the boom of travel mana flying devices. The Tier 40 corporation was an old hand in the personal flying device scene, which made the discovery not too unexpected, as it was only a matter of time before someone figured it out. They had also surprised no one when they had immediately patented the idea and were only licensing the idea in brand deals, ensuring they had a dominant market lead.
+
+Another company had tried to file their own patent, but it had been ruled too similar to the first and struck down, showing the fate of those who came in second.
+
+Their discovery had at least forced the government to allow the company to license their design after a shorter period, but that still meant they had five hundred years of exclusivity to strangle out their competition.
+
+While Matt liked the idea and had bought one of the first prototypes to play with, it was that breakthrough that had given his people the idea of how to create mana engines that would be more feasible for smaller vehicles such as buses, personal cars, or small planet-bound boats. It was doubtful they would ever be better than existing engines for such small-scale vehicles, with how rarely they can go full speed for long stretches of time, but maybe there was a use case he was overlooking where it did make sense.
+
+It was projects like that which Matt would have liked to look in on while he traveled, but his ship was so fast that he needed his full concentration to ensure he didn’t run into another ship. Chaotic space was vast and empty, a lot like normal space, and even if he was traveling away from the teleportation tethers, thanks to the way chaotic space limited the senses of himself and his ship, he needed to focus at all times.
+
+It took almost two days for Matt to travel across part of his and then through Aster's duchy to the next one over, arriving where the first ship was hit, but he wasn’t too worried about the time.
+
+He had known from the moment he left that he wasn’t going to make it in time to find the bandits just lingering or anything so easy. Thankfully, Luna had trained them for situations like this and he knew what to look for.
+
+Arriving at the spot between worlds where the supply ship had been hit, Matt inspected the area looking for all the little details Luna had drilled into their heads.
+
+The area was in a longer tether between two worlds, which made it isolated, but as if that wasn’t enough, it was also in a relatively poorer county that innately had less traffic. But none of that was as damming as the fact that the region’s count had been in a rift for the last three years.
+
+He knew his perspective was skewed because of his combat prowess, but needing years to complete a Tier 25 rift was just sad.
+
+Even if Aster was alone and going for a full clear, it would at most take her a few months, but they were far from the normal delving party that understandably took their time to ensure their chance at messing up and dying was as low as possible.
+
+Matt couldn’t complain, but that absence had turned this region into a prime location for bandits.
+
+Putting himself into the bandits’ shoes, he ran through what he would do and where he would go depending on if they knew who they were hitting and if they didn’t know. Then he had his [AI] simulate the same scenario to check himself.
+
+When both of them agreed, he headed to the county capital, a Tier 16 world.
+
+It would be easiest to fence stolen goods there and easy to blend in with the immortal population.
+
+The shipping captain had reported to the guards that the pirates had been Tier 20 to his Tier 15 senses but that was easy enough to fake, as were physical appearances. Spiritual signatures were possible to fake in the short term, so long as one didn’t fluctuate them too much. But as the ship's captain had rightly surrendered when boarded, he had to assume the sample readings the ship had taken were faked.
+
+Two hours later, Matt arrived at the county capital and entered its real space; his ship stowed away before he arrived to keep any of the inevitable watchers guessing at how he was moving so quickly.
+
+They would probably suspect he would grab Allie for this, and while he was sure she’d be willing to play spy, he didn’t want to escalate this unless he had to.
+
+Currently, it looked like an attack on him and his guild, and bringing in others beyond Liz and Aster, his immediate family, could escalate things further. And he’d prefer to keep things as contained as possible. For now.
+
+As Manny had said when they got their duchies, these issues were opportunities for them to grow, learn about their weakness, and interact with the Empire as a part of it. Ignoring his Royal connections, Matt could just call in his allies, and they could carve a path through any opposition near their Tier. For those too strong, they could call in Aiden or Lila, either of whom would be happy to smash heads together, but Matt was willing to play this game so long as it kept to the typical rules, and that meant dealing with things with his and his guild’s own powers.
+
+And it wasn't like he couldn’t call in reinforcements later.
+
+To that end, Matt decided to play the part of angry Ascender.
+
+Sure, he was angry, but probably not for the reasons his opponents would think.
+
+He didn’t really care about the aura potions. They were expensive enough that the loss of so many shipments would hurt the duchy’s bottom line for this year, and he’d be covering the losses out of his pocket. But by the same token, the aura potions were valuable enough they would be sold on various gray and black markets, and would still end up in the hands of Tier 4s.
+
+What he was more irritated at was that the bandits had stolen everything their storage items could fit, which inconvenienced everyone else involved just because someone wanted to hit him.
+
+Controlling himself, Matt entered the world’s real space just outside the main planet’s atmosphere and let his spiritual perception cover the entire planet, letting it seep in and through wards and walls alike, letting his [AI] scan for hits.
+
+He quickly found some, but not as many as he expected.
+
+His aura potions were in a dozen shops spread across the planet. The bandits, or the shops themselves, had replaced the identifying markers placed on each bottle with their own or a generic fake label. But as part of their process, Liz had taken great efforts into making their duchy’s aura potions stand out.
+
+First, they used a subtly different bottle shape that highlighted the aura potions’ unique glimmers better than a standard bottle. Second, the aura potions they exported were of the highest quality. Anything less than perfect was sold at cost in the duchy, even though few could tell them apart, but the difference let someone like Matt who was intimately familiar with the process identify the potions.
+
+What Matt hadn’t found were the bandits.
+
+They could have already left, but he doubted that.
+
+If these had been professionals, they would have never fenced the stolen goods so close to the hit, which only further confirmed that these people were bait left out to test his reaction to the opening salvo in this little war.
+
+He also couldn’t find any watchers.
+
+His enemy might have relied entirely on mundane or technological surveillance, but Matt suspected there was a higher Tier invisible to his senses watching over the planet and him, just as he was doing to the planet.
+
+If they wanted to see how he would react to their probe, he would happily show them.
+
+Feeding his [AI] with all the mana it wanted, Matt brute forced the problem, and two minutes later he identified fifteen anomaly sites in the star system. Nine of them were on the closest world, while the other six were spread out between the Tier 4 gas giant and the Tier 8 secondary world, but they were both well outside his spiritual perception and only identified by reviewing the various Planetary AI. And yet, none of them were high enough Tier for what he was looking for.
+
+Instead, he turned his attention to the planet and went over the nine anomalies there.
+
+Three were local corporation secret research bunkers which he ignored after checking to make sure they weren't covers for a bandit hideout. Two were hidden bunkers for local bigwigs to escape to if something happened, but the remaining four were harder to crack.
+
+One had wards that far outclassed anything a Tier 20 planet should have, let alone a Tier 16 planet, and he suspected it was his target, but he still checked the others before dismissing them.
+
+One of those he reported to the local government because they were manufacturing a variation of ClearView, which was very illegal, but the rest either weren't illegal or not so illegal that he felt the need to step in.
+
+Gathering his spiritual perception, Matt created a spike and drove it through the wards giving no care to subtlety.
+
+Alarms blared, additional wards flared to life, and a Tier 28’s spiritual perception tried to crush his spiritual own, but Matt had already scanned the inside of the hidden location.
+
+A thieves guild.
+
+While technically a legal entity, they only existed because the Empire found it was easier for thieves, assassins, and other less than legal ‘jobs’ to manage themselves and so allowed them a degree of leniency.
+
+Technically, upon seeing the guild sanctum, Matt should have retreated since he didn’t have a warrant in someone else's duchy, but he didn’t care. With a pulse of power, he scanned the guild looking for anyone who even vaguely matched the descriptions he had been given.
+
+Before he could finish a second layer of wards, this time controlled by the Tier 28, which were strong enough to force his spiritual perception out of the building, he got an angry message from the Tier 28, telling him to desist.
+
+Matt’s reply was simple. “You are being used as a pawn in a game you want no part of. Drop the wards, let me find who raided my goods, and we can all go our separate ways.”
+
+The moment he heard a negative response, Matt dropped the connection. He didn’t mind cleaning up this little den of rogues. Neither he nor Liz would hunt such groups down for no reason, but neither would they tolerate them if they encountered them.
+
+Dropping into the planet's atmosphere, Matt looked to the side where his gut told him any watcher would be and said, “Your masters wanted a show. Now you have one. Tell them I’ll play their game, but if they step out of line, I’ll step further.”
+
+As he neared the seemingly normal building in one of the teleporter city’s downtown that was the camouflaged thieves guild, Matt didn’t stop or slow.
+
+He hit the barrier with a glowing fist that unleashed a wave of lightning that would have killed everyone in a ten mile radius if he hadn’t kept the power contained. It wasn’t a spell, just him gathering friction and choosing how it manifested upon his attack, but he was going for flashy and so went for a bang. He also didn’t bother to hide the lightshow the attack caused which shocked everyone.
+
+Seeing the shield didn’t go down, Matt looked up at the spot the watcher was probably hiding, and without looking away pointed his left pointer finger at the barrier and cast [Mana Beam].
+
+The barrier popped in less than a second, and the beam of mana cut directly into the core of the formation and destroyed it.
+
+“Do you know whose guild you are attacking?” The Tier 28 either didn’t realize who Matt was, had been paid really well to test Matt, or he was an idiot.
+
+The Tier 28 moved to attack him even as the guild went up in flames, but Matt glared at him.
+
+“Open your mouth again and I’ll tear it off. I’m busy.” He didn’t stop the tinge of his anger from leaking into the words.
+
+The man opened his mouth, and so Matt flared his cultivation boosting spells and flashed in front of the man, gripping his jaw and skull.
+
+Looking up once more, Matt pulled and followed through with his promise.
+
+Throwing the Tier 28’s jaw to the side, Matt scanned the guild even as it was in the process of collapsing, thanks to his second attack.
+
+Because things were never easy, the three people who had robbed the ship weren’t inside, but he did find the room that held records and scanned through them.
+
+Most of them were just petty crimes, but he did get the names of those thieves who had done the robbing.
+
+Grabbing the LocalNet node that the Tier 28 had already turned off and wiped, Matt forcefully rebooted it and using his [AI], recreated what he could of the data that had been stored inside, but the wipe had been clean.
+
+Having little recourse, Matt turned to one of the Tier 15s who had been lingering in the building and stepped in front of them, even as they were still trying to react to the first attack on the barrier.
+
+Dropping his perception to a Tier 15’s, Matt demanded, “Give me the real identities of those who just hit the cargo ship last week.”
+
+The man stammered as fear at facing a high Tier morphed into sheer terror as he recognized Matt.
+
+Unlike the Tier 28, the Tier 15 immediately spilled the beans and sent who he suspected the three were.
+
+Using his [AI], Matt identified them and smiled. Unlike most immortals within spiritual perception range who were either hunkering in place or trying to scan the area to find out what was going on, the three of them were panicking.
+
+Tier 17s and actual siblings, if he wasn’t wrong.
+
+Two wanted to play it cool and act innocent, while the third wanted to start running and try their luck.
+
+Not that any of it mattered.
+
+Matt used his Concept to keep the flames from spreading to nearby buildings, but he didn’t extinguish them outright nor did he stop the thieves who had been at the guild from running.
+
+He even let the Tier 28 run, but he was tracking them all looking for further anomalies.
+
+Otherwise, this would have been for naught.
+
+With a step, he appeared in the siblings’ living room, and from the panic and terror, he had nearly confirmed they were the ones who had stolen from him.
+
+Arms crossed, Matt put on his best Manny impression and looked down at the three of them.
+
+“The three of you stole from me.”
+
+The terror factor ratcheted up a dozen notches, but the oldest and peak Tier 17 had enough courage to throw himself on the sword of Matt’s wrath for his siblings.
+
+“It was just me. I did it with a domain clone.”
+
+Matt didn’t let his mild appreciation for sibling protection change his expression as he asked, “Who told you about the information of the ship? Tell me everything.”
+
+The three instantly caved and babbled to tell him.
+
+The information was as he feared, and it had simply been a tip sold to the guild through an anonymous source, like most high-value target hints were.
+
+The trio even sent proof they had recorded with their [AI].
+
+Matt asked a few more questions but nothing was very useful, and by the end, he knew how he wanted to handle these three.
+
+“Turn yourselves in and pay restitutions for the other goods you have stolen and I won’t kill you here and now.”
+
+They would end up paying a lot more than they had earned, but they would stay alive, and that was mercy enough.
+
+That wasn’t the only loose end Matt needed to clean up.
+
+Taking another step, Matt appeared in one of the shops selling his stolen aura potions.
+
+The proprietor, an older looking Tier 15 woman, grasped her heart and stammered a greeting, but Matt could tell that everything but the terror was fake, so he cut through it all.
+
+“You are selling my stolen goods.” It wasn’t a question but a statement and he glared at her until she broke and nodded feverishly while apologizing.
+
+“What price did you buy them at?” Shocked at the seeming non sequitur, the woman stammered until she told him the price. It was about two thirds of the retail price and she was selling them for ten percent over that. It was that last bit he took issue with.
+
+“How much are you selling them for?”
+
+She must have known he could see the prices, but she was also smart enough to understand what he was telling her, and she immediately changed the price to below what she had bought them for.
+
+Seeing that, Matt went to the next shop and repeated the same procedure until he had finally gone to them all.
+
+He then took another step to arrive next to the Tier 28 who had fled to one of the safe houses he had scanned earlier.
+
+The interrogation wasn’t clean or as thorough as it could have been, but the man was thoroughly cowed by Matt’s earlier performance and told him what little he knew.
+
+The guild had bought the information on a valuable ship through an unidentified source that seemed reliable, nothing more.
+
+As for why he had tried to stop Matt? He was trying to follow guild orders.
+
+It was so stupid, Matt actually believed him and let the man go.
+
+A bit of a dead end, but he still had fourteen more locations to check out before he was finished.

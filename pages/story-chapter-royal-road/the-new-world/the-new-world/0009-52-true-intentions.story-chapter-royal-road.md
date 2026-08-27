@@ -1,0 +1,225 @@
+---
+id: 58923d4f-f430-5d64-afb8-c5e539deaf91
+page-type-slug: story-chapter-royal-road
+title: "52 True Intentions"
+slug: 0009-52-true-intentions
+partOf: the-new-world
+position: 9
+ownLength: 4299
+unit: words
+ownProgress: 4299
+publishedAt: 2017-09-29
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/164972/52-true-intentions"
+royalRoadId: "164972"
+markedReadAt: "2026-06-29T21:21:00.061Z"
+---
+
+My helm split, the jagged teeth of ruptured metal sharper than before. With a bite, I tore into the tentacle surrounding me. The monster’s grip loosened, letting me shove my right hand into its eye. My whole hand pierced the clear lining that protected its eye. A forest of armor needles erupted from my arm, pinning me to the monster.
+
+The massive eyelids of the creature came crashing down from above and below. They slammed against me, knocking me sideways. Before it could blink again, I punctured my other arm into the monster. Another forest of needles appeared, locking me in place.
+
+The giant creature writhed in pain, shaking as glowing purple tears poured from it. They floated in the water like globules of heavy oil. The monster darted its other limbs towards me, but I forced my own arms apart, ripping the creature's eye apart.
+
+The monster dashed backwards in agony, but my armor kept me attached to the monster. The sea creature shot its gargantuan tentacles towards me once more. I slipped into the gaping wound, escaping it.
+
+I had about three more minutes before I needed another breath. All that endurance paid off when I needed to hold my breath after all. I pulled myself deeper into the eye of the creature, the entire organ shivering in pain. The monster reached into the painful tear, but it couldn't rip me out. My armor already expanded the collection of needles, keeping me in it as it tried to get me out.
+
+With a burst of effort, I ripped and tore with my arms, letting me reach further into it. Within a minute, I pierced through the eye of the monster, tearing into the optic nerve. I wrenched the tissue apart, shearing it with raw strength. Another minute passed, and the inside of the creature’s skull was turning to mush.
+
+Its health ate away as I swam in the thick blood of the monster. Running out of breath, I reached the soft brain before crawling on it. I reached upwards, dealing tremendous damage with just my movement. A few seconds later, and I reached a thick layer of bone.
+
+Moving through the thick, pressurized mush of its insides, I reared my fist back. A flood and fury of ascendant mana rushed into my right arm as I forced my fist forward. Like tearing through a block of wood, the bone snapped, gushing me outwards. Out of the skull I floated before sinking to the bottom of the pool.
+
+The dark water was red now, bits of brain and mush tapping me as I sunk. Disgusted, I landed on the floor of the cavern with my lungs burning. My chest convulsed a bit, pleading for air, but I kept my breath held. My vision closed in, my peripheral vision dampening. My lungs wanted to let the air out and breath again, but that meant death.
+
+Once my feet landed, I ran along the bottom of the pool. My weight let me move quick since I had enough weight holding me down to push myself forward. If anything, the water didn’t feel that different from air. The only difference was that I could breathe air. Alright, it was a pretty big difference. Whatever.
+
+Anyways, seaweed and corals bumped into me as I ran along the water. My pace increased before I took around half my health and used it as fuel for my ascendant mana. I figured using my health to live was better than letting myself die without using it. My health was a mana pool I could use and a colossal one at that.
+
+Channeling the mana took about three seconds. My runes grew in brightness before pieces of my armor ruptured. The cracks crept across me, letting out a blindingly bright crimson glow. The entire lake lit up like someone shot a dozen flares under the pond and they stayed lit under the liquid. Strength filled my bones until I almost shattered under the weight of my own energy.
+
+With sudden godlike explosion of power in my limbs, I leapt upwards. The stone cracked under foot before I bolted upwards, the water trailing past my face like wind. The water around me splashed upwards as I swooped up and over the surface of the lake. I kept going, my speed waning while I took in another lungful of air.
+
+I misjudged how much I needed to jump. I smashed into the top of the cavern, the stone chipping with another booming echo. I flopped in the air, back down towards the lake. I kept enough composure to take a full breath of air before belly flopping into the pond.
+
+I sunk like a stone, plenty of oxygen left in me this time. With a few more stomping steps, I sprinted out of the pond. I mentally praised the dry land I walked on, my steps light despite the level of damage I took. Glancing backwards, a giant hump was left on the pond. Glancing at my notifications, the giant sea dude was dead.
+
+As I assumed, the fight wasn’t that hard. The only dangerous part had been falling into the water. Still, I could hold my breath for a long time now. Combine that with all my other advantages, and a level 700 boss wasn’t anything too deadly.
+
+I got a bit close to choking afterwards, but nothing a little ascendant mana couldn’t fix. Behind the lake, a corridor continued deeper down the tunnel. One of the tentacles of the creature flopped onto the edge of the pool’s side as well. Getting over there would let me absorb the creature’s mana, something I was quite keen on doing.
+
+With that in mind, I walked along the edge of the pool, keeping knee deep in the water. As I passed through the pond, one of the gross slugs from earlier crawled up to the edge of the water. After lurching twice, it vomited into the pond. Many species of the fish in the pond rose from the depths, snipping at the nutrient rich soup. Once I passed into range of oppression, they darted towards the other edge of the pond.
+
+I suppose killing their leader made them fearful of me. It didn’t matter now. I already killed what I wanted to kill. Even the slug crawled away, leaving a mucus trail behind it. I would follow and kill it later. For now, consuming the boss’s body came first.
+
+I reached the back of the pool a minute later. I grabbed the tentacle flopped on the edge of the pool and pulled the monster out. I only got it to move a few feet, but with a bit of ascendant mana, I got the job done.
+
+Most of the monster’s body was still in the water, but I could reach the center of it. From what I could see with the red light of my ascendant mana, the monster was a giant octopus. It had eight tentacles, most of the them missing from our fight earlier. Fighting me on land almost left it without any arms it turns out.
+
+At the top of the creature, there was the giant eye. Below it was a bone skull with a million bajillion insect legs and teeth. Looked like it would make for a mean death at least. My armor wasn’t much different though with all the needles and what not.
+
+Speaking of which, I stabbed into the monster and absorbed the mana of the creature over the next few minutes. The drained corpse floated like an empty skin on the surface of the pond. Nothing nibbled at it. My armor left nothing of value behind.
+
+Once finished feasting, I walked towards the mucus trail of the snail. As I reached the back of the pond, I glanced back at the pool. A few bones floated in the water…human bones. I turned back towards the mucus trail and remembered what Yawm’s named ones were doing earlier. A few seconds of thought passed, and I came to a conclusion.
+
+Yawm was feeding humans to the eldritch, to let them grow. My brain kicked into gear, connecting disparate dots. I was wondering in the back of my head why Yawm hadn’t just broken the quarantine zone. He could easily after all. It made sense now.
+
+He could create his world tree thing here while feeding this city to the eldritch. The eldritch would grow and become ferocious. The dungeon’s doors would break before the eldritch poured outwards, hungry for more.
+
+Yawm gained loyal followers from the forested parts of the city, and fed the eldritch with the outer portions of the city. Once the eldritch reached a certain level, they would break out of the dungeons. The eldritch would then break the quarantine without Yawm ever having to sacrifice a soldier breaking it himself. His entire legion would never have to even lift a finger.
+
+After spending a minute or two typing up the information, I sent my theory on over to Torix. I had no way of knowing if I was correct, but it seemed likely. With that finished, I followed the snail’s mucus trail towards the back of the cavern.
+
+A minute of running later, and the snail hunched beside tiny crevice. The hole led outside, and the snail was halfway through. It couldn’t quite get through though, so now it was stuck. Easy pickings for me. A few strikes later, and the snail converted into a pile of bloody mush.
+
+With that handled, I tried passing through the crevice myself. Oddly enough, I barely fit through. The size of constitution almost worked against me there. I could always just snap the rock constituting the wall though.
+
+Anyways, after passing through the crevice, I reached a room full of clear eggs and the dungeon core on a pedestal. I walked up and snatched the core, my armor absorbing it with ease. Glancing around, the tiny squids writhed within their eggs, the smaller ones already withering. Oppression would kill them soon without me needing to lift a finger doing so.
+
+Needing to wait a few minutes for the eggs to all die, I checked my status screen. Of course, I gained nowhere near the same volume of experience. It was a solid 55 levels since defeating Gabriel, putting me at level 563. I tapped my chin, having 110 points to invest. The obvious choice for my initial points was in perception. I put 18 points into it, unlocking the perception perk.
+
+[Oracle (Perception of 100 or higher. You have (1) level 100 perk left for selection. Choose wisely.) – Often the most complex things can only be seen, not understood. You are the seer of these truths. Doubles sensory, awareness, and comprehension bonuses for perception. Doubles precognition bonuses from perception. Dramatically lessens the required effort for focusing your senses, like actively listening. Adds 5 more health per point in perception (10 total.) Adds one to total mythical skill cap(6 Total).]
+
+It was a simple and effective method for a slight boost in my options here on out. From here on out, I’d be working on building up a mass of stats to work with. I already had a strong inkling of how I’d progress from here out, but time would tell.
+
+It turned out that my endurance, armor, and my arcane blood gave me an enormous working pool of mana. If anything, having full health was a waste of my potential. My pain tolerance was maxed out, so using enormous portions of my health at once was well within the realm of possibility. Considering how high my health pool was, I had more options for bursting than I thought.
+
+Talking with Torix may enlighten me on some options. For now, I poured my points into endurance. It gave me plentiful amounts of willpower and a good bit of intelligence. Those stats would help with the discovering magic while the extra health acted as extra mana. Those benefits aligned with my current goals.
+
+With that in mind, I put all my points into endurance and checked out my stats.
+
+Level 563
+
+Strength - 252.6 | Constitution - 562.1 | Endurance - 705
+
+Dexterity - 100 | Willpower - 332.4 | Intelligence - 123.7
+
+Charisma - 28.3 | Luck - 61.5 | Perception - 100
+
+If I wasn't looking wrong, my health regen was scaling faster than my health now. At the very least, it was scaling almost as quickly. It wouldn't even take four full minutes to heal any wound. It would look like I was reversing time or some shit.
+
+The increase in health and resistances made me tankier as well. I might even be walking after taking a hit from Dakhma by that point. That's good, because the next armor evolution was miles away. It would take months if not years for it, but that was fine with me. My armor already gave me more than I needed to suceed. When I finally got the next bonus for it, I'd look at with surprise instead of expectation.
+
+I lifted a palm, letting the mana ebb from my hand. It poured up and out, a red torrent of energy. I kept urging it out until it matched my health regen. It was like my hand was full of liquid nitrogen, with a red, electric mist pouring from it. Brute forcing some magic with this much mana wouldn't even be that hard anymore.
+
+The same rush of wellbeing and health radiated from me as well. Endurance gave a sort of vibrancy after investing into it, like waking up after a good night's sleep. Using that vitality, I glanced around and all the eggs devolved into mush already. Sitting in a cross-legged position, I leaned forward and pushed off my heels. I didn't need my arms to stand anymore since my balance was excellent. I could stand with one leg, like doing pistol squat, if I wanted to.
+
+I didn't though, so after standing up I crawled up a stone tunnel leading towards the sewers. On both sides of me, collapsed rubble locked me in. The only way out was the manhole above me. I climbed the metal rungs of the sewer ladder before reaching a set of bars. Grabbing two bars of metal, I pulled them apart.
+
+The metal gave out a light squeal as I did so. With a bit of my ascendant mana, I ripped the bent bars, giving me room to squeeze out. There was no light leaking in from outside. When my head banged on a piece of metal, I figured out why. There was a dumpster lying over the sewer entrance, making it impossible to notice. Combine that with the alleyway it was in, and you would never notice something so out of the way.
+
+I lowered myself before planting my legs against the wall and pushing up with my arms. The dumpster tilted over before I pulled myself up and out of sewer. Glancing around, I was at the bottom of some hilly resident area. Even then, no one was here. I dashed across a street or two before slipping into the sewers again.
+
+As I crawled into the manhole, the sun crept up along the horizon, the first inklings of a sunrise cascading onto the rooftops. With that in mind, I dashed back towards our encampment while shutting oppression off. No need for it now. Once I reached the encampment, the vibrant levels of activity were a welcome sight.
+
+The tents folded against a gust, the wind enough to send a stack of papers flying. As I reached deeper into the encampment, voices came into focus with ease. I didn't need to lean over and focus to listen. It was like the information was being fed to me instead.
+
+"Over level 500...Wow."
+
+"He's a monster."
+
+"I see why's he's called a harbinger now."
+
+A little sprinkling of pride was in my chest before I walked up to Torix's current hideout. No more homely furniture was in the room. Data points, charts with data on followers and enemies lined the walls. A map of Springfield with the moving dots was taking up an entire wall now, segments separated into specific sector names.
+
+Torix wrote a giant ritual onto the floor, some of the runes familiar. As I walked in from the door's entrance, Torix looked up from a fly he had at the center of the ritual. With ink and other dust all over his robe, he patted himself down as he stood,
+
+"Good to see you Daniel. I take it your roaming was successful then?"
+
+"Yeah, I suppose so."
+
+His eyebrow raised, "Level 565? That's...incredible. Excellent progress."
+
+Noticing a shade of suspicion in his voice, I decided to stay casual about it. I shrugged, "Eh, I think it's the quarantine zone combined with this obliterator perk thing I have. It doubles experience from unique boss enemies."
+
+He nodded, "Quite a powerful bonus then. Regardless, I thought over your previous messages and thoughts. I find myself agreeing with them more and more as I analyze the data."
+
+He walked over towards the map on the wall and pointed towards a one of the dots. This happened to be one of the dots with an area highlighted around it. Each of these dots had different sized circles surrounding them of a different color, some green, others yellow and red.
+
+Torix pointed at one of them, "This is a color-coded map. Each of these dots represents a dungeon. I tallied all the dungeons in Springfield, and I noticed a worrying trend. Each dungeon had missing parts of Yawm's jungle around it. This is due-"
+
+I waved my hand, "To Yawm feeding the nearby population to the eldritch."
+
+Torix raised a finger, "Precisely. Each dungeon has a varying size of missing forest depending on how ravenous the eldritch lying within are. I color coded them based on danger levels. Green meaning benign. Yellow meaning dangerous. Red meaning malignant. The shift in our current plans involves taking out the highest priority dungeons that we can before they spiral out of control."
+
+I nodded, "Sounds good. I was planning on suggesting that too."
+
+"Powerful minds find the same conclusions." Torix turned to the map, "You've taken out two of the highest priority dungeons already. But that leaves seven, very dangerous and very invasive dungeons left. If you can take them out before they can spread to far, then we may be able to turn Yawm's plans against him."
+
+He pointed towards a giant tree etched into the map. Torix tapped it, "Yawm is stuck in here, trapped into absorbing the nutrients of the planet to feed and control his growing army. Our team will whittle away at what he has created, using them to grow stronger before assassinating each of his named, disciples, and followers. One by one. "
+
+Torix sighed, "Hopefully, by the time we reach Yawm, You and Althea will have strengthened enough for us to cripple or assault him.Eeither way, we will have a sentinel's rights by the time we get that far into the plan. Perhaps that shall change things, unless the reward is deceptive. If the situation spirals out of control before then, we'll use the dimensional slicer rewarded to Sentinels to go towards our planned fringe world."
+
+I clapped my hands, "Now that sounds like a damn good plan. That's what we've been needing."
+
+Torix walked over towards the center of the room, "It's a solid plan now that we've gained enough information to infer Yawm's plan. That's what this is all for. I'm revamping my little spies so that we can continue to plan and adjust as needed, depending on the circumstances. It should give us the bit of oomph we've been wanting."
+
+Torix walked over towards the center of the ritual's circle and pressed a palm into the ground. The complex runic inscriptions glowed with light, folding off the floor. They formed into a circle, shining a bright blue for a moment before collapsing onto the fly.
+
+Torix stood, wiping imaginary sweat from his forehead, "That should enable greater clarity for future messages. I wouldn't want you all running into another follower again. Organizing these events will likely have certain timed intervals between the dates of them. Perhaps a week or so between them. Besides that, I believe Althea is tiring of this lifestyle. She needs some time to relax, otherwise she's going to fall apart at some point."
+
+I walked up and put a hand on Torix's shoulder, "You're doing a damn fine job of this Torix. It's good to know I'm in the hands of someone who's knows how to handle this kind of thing."
+
+Torix glanced up at me, "You are...taller...When did you grow taller than me?"
+
+"Probably after defeating Gabriel. Anyways, I need to show you something else."
+
+I moved my hand off his shoulder and pressed my fingers into my palms. The ascendant mana roared in my veins, turning my flesh and blood into pure energy. The rich, powerful force surged through my runes, resonating in the confines of them. There was wobbling in the runes, like an engine that needed some screws tightened.
+
+The extra perception was already paying off. I couldn't even sense how my runes weren't quite right before. Now I could tell they weren't exactly right for my new mana. It was like an off-center wheel. It wobbled a bit, making the rune convert the mana less efficiently than it should. After tearing the runes earlier, a more flexible enchantment would be needed. Something larger and different for the larger flow and different mana coming in.
+
+Torix would be vital in learning that. I raised a hand, the ascendant mana pouring from my palm. Several planks of wood cracked under my foot before I poured more mana into my silent casting. The wood sheared, letting take several planks of wood and circle them around me.
+
+My mind exhausted at the sheer volume of magic done, I released the cast. The planks fell to the ground before the room returned to the normal morning light. I sighed,
+
+"Hah, hah, hah...how was that?"
+
+Torix pointed at the boards, "Was that...telekinesis?"
+
+"Uh, yeah. I think so."
+
+"And was that...augmentation you used to do it?"
+
+I shook my head, "Naw. It was a new type of mana. I fused augmentation and dominion magic into something called ascendant magic. It works like both, with a few kinks here or there."
+
+Torix blinked a few times, "Ascendant? Are you certain?" Torix reached out a hand, "Would you mind letting me control some?"
+
+I reached out a hand, pouring the mana from my palm.
+
+"Uh, am I doing this right?"
+
+"Yes." Torix bended the mana before squeezing his fist. The mana sunk in before Torix grinned, "This is a potent cocktail you've made." He pulled the mana from him before pressing his fingers together. As he outstretched his hand, the planks all bent in the same direction, forming a spiral that completed a perfect circle of missing wood. His hand lowered as Torix nodded,
+
+"This is much like an overseer's mana. Theirs’s is a mixture of origin and augmentation mana. It's less volatile, but this mana may carry even more power. Controlling it should be quite trying. Are you able to handle it?"
+
+I weighed my hand back and forth, "Eh, more or less."
+
+Torix shrugged, "Good enough I suppose. You'll gain a more precise handling of it over time. It's an excellent tool to have. Perfect for gravity wells. That's what I just used it for, a reverse gravity spiral. It's difficult to maintain without high constitution."
+
+Torix's eyes narrowed as he looked me over, "That shouldn't be a problem for you however, being taller than me now."
+
+I laughed, "Neither will a limit on my mana. With my armor, I regenerate it at a pace I doubt any mage could match."
+
+Torix rolled his eyes, "Really now? You'd be surprised how many tools there are out there for enhancing the regeneration of mana. What would yours be per minute? A thousand?"
+
+"Eh, eleven."
+
+Torix scoffed, "Hundred? Nothing exceptional, for a pure mage of your level at least. Commendable for your warrior roots."
+
+"No, I meant eleven thousand."
+
+Torix leaned back, his face scrunched up. He looked pissed as he frowned, "Lies. Show me your status."
+
+I opened it then twirled it towards him. The interface flew in a semicircle before stopping in front of him. Torix's jaw dropped. He glanced back up at me, then back down at the status. He whispered,
+
+"40,000 health...11,000 thousand health regeneration...98% damage resistance...7 attributes totaling over 100. An enormous amount of bonus physical damage and stamina pool. Your aura, it's improved dramatically in strength. How...how have you gained so many tools and stats?"
+
+I tapped my armor, "This gives me the bonus resistance, most of my health regeneration, and the aura. My obliterator tree basically doubles my stat points per level. My determinator bonuses give me a ton of extra willpower, endurance, and regeneration. Finally, my genesis of potential tree lets me unlock the level 100 perks for seven of my stats. It's a solid bunch of stuff I'm bringing, though learning how to use this mana better would be huge for me."
+
+Torix blinked, stunned to silence for a few moments. He nodded a few times before laughing. His laugh grew until it was nigh maniacal. He met my eye and said,
+
+"Yes, gravity magic will be perfect for you. After unlocking it and mastering your mana, you'll live up to your title."
+
+He nodded, his grin growing till his grew almost evil,
+
+"Except you won't be a harbinger. We'll turn you into cataclysm."

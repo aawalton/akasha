@@ -1,0 +1,151 @@
+---
+id: 598d3e4c-3a31-5e76-b895-ff1f1616c237
+page-type-slug: story-chapter-royal-road
+title: "267 (I) “Fury Alone is but Impotence”"
+slug: 0331-267-i-fury-alone-is-but-impotence-2956095
+partOf: path-of-the-deathless-book-4-completed
+position: 331
+ownLength: 3589
+unit: words
+publishedAt: 2026-01-18
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2956095/267-i-fury-alone-is-but-impotence"
+royalRoadId: "2956095"
+---
+
+"This was… magnificent. You were magnificent. I did not think you had in you the capacity to endure, to simply let all those people die. Your willingness to strike directly at me and sacrifice the city along with so many of the dogs... I was wrong about you. So very wrong. You are not chained by your humanity, by the fear of losing them. This will not even leave you scarred, will it?"
+
+"The young are still alive in the tunnels below, as are some of their elders, and a few of their warriors tasked with defending that final sanctuary. The Canis will survive, albeit at immense cost. It will take them years to recover, perhaps even centuries, from what you did to their world. But in time, they will. And you will not be here to witness it. I will sever your Gate from this world. I will deliver retribution upon the Tutorial, and you will spend many seasons trying to recover your numbers. When you return from death, you may tell the Challenger I have received his insult. And that I intend to teach him how to properly siege a world."
+
+"I see you for who you truly are now, Legend Thann… I see you. A true Pathbearer. Truer than I, truer than any of us orcs."
+
+"Self-pity? From you, Culturist?"
+
+"No, not self-pity. Really, an existential lament. You understand what we are. That we will never be truly whole. That we will never be able to choose and struggle as you do. Choose cruelty for its own effectiveness. Choose cruelty because that is what we want, rather than who we are made to be. And also, choose pain. Pain over satisfaction. Pain for victory. Choose pain…"
+
+"Hm. Have you ever tried fasting before?"
+
+"You speak of a diet, a cleanse, to stop myself from indulging in cruelty? Haha… I have, actually. If only as a small rebellion on my part against my god. I wanted to delude myself into thinking that what I am doing matters. That I can control my fate at all. At any level…"
+
+"I think you are right in some sense. I think you cannot win. I think the Challenger, for everything he has said thus far, does not want to let you go. He is too controlling. I do not think he will ever agree to release his grip on your kind. But even if small victories over your own instincts and impulses are not absolute, they still matter. They can still teach you things. They can still show you the possibilities beyond the life you know."
+
+"Will they, now? I must try that in my next life, then. I hope you understand that this is not finished, O Legend. I will come seek you out, in time. Perhaps by the time I find you again, these dogs that you've decided to fight for will be glorious once more, recovered from what we've done. Perhaps you might even have forgotten this moment when that time comes. But I won't. I won't. This has been a beautiful lesson. I've enjoyed this war, and I've enjoyed bleeding at the end of your blade."
+
+"And I have learned to pity you, Culturist. Now, lift your throat so I can give you a brief respite. Until we meet again."
+
+-The Culturist and Valor Thann
+
+267 (I)
+
+“Fury Alone is but Impotence”
+
+Anguish became Shiv.
+
+The world shattered into separate instances of sounds and sights: a trail of blood leading out from Adam's severed head; The twist that his body made as the Culturist carelessly tossed it aside, and it tumbled into the dark, only to be swallowed unseen, lost to Shiv forever. And then the Culturist had the audacity to sigh. To hold Adam’s head in front of him and spit the acid of sympathy. “Ah. You care for him so deeply? Your heartbreak has escaped the hold of your heart, and it festers on your face. Oh, my poor child. My poor, poor Deathless child.”
+
+The words were muffled to Shiv. All he heard was the roar of his blood. His heart pounded inside his chest he thought it might explode. It beat so hard, it was painful. And the anger inside him burned. Black fire billowed out from his eyes. And the moment it did, his mind cleared. Rationality took hold. Rationality as he'd never known before. It was like entering a berserk state, yet the world became clear. Everything grew crisper and more detailed. Shiv's thoughts went from being a messy, murky pond filled with contaminated mud to a pristine lake.
+
+Sage of the Enkindled Heart: Assume nothing right now. Focus. See how the Culturist is still trembling. That's doubt. His body is utterly wracked with the vibrations of deception. But even if Adam is dead, you cannot strike blindly. We need to plan a strategy. We must disengage entirely.
+
+But where Shiv's rage fueled his rationality, his grief unmade him. The turmoil that seized him made him less than a monster, eroded every bit of strength he possessed, until he was at his heart, naked, pure—the very essence of his soul. And the Deathless, banished in thought of the story of humanity, stripped away of his monstrous impulses, his bestial urge to rage and defy, was a simple thing, an elemental thing, a thing damned to a fated path.
+
+To explode, to destroy, to devour the world whole, and to leave only himself thereafter.
+
+The Deathless moved, not as a man, not as a weapon, not even as an animal. He moved as if an avalanche, a disaster seeking to claim a single adversary. An adversary that had wounded him, that had mutilated him so deeply in a place that could never heal, that would never be right again. The Deathless's body came apart. His Vitae sprawled out, becoming additional limbs and lashing fangs to bore down upon the Culturist. The orc, however, didn't move, didn't recede into the darkness. He bore witness to Shiv’s onslaught with a slight gasp of pleasant surprise.
+
+"I see," the Culturist said, his eyes wide and clear. "How pure. How genuine."
+
+And the ruin that was Shiv came swirling down. A ruin that the orc embraced wholeheartedly, not bothering to evade, not bothering to dissipate. He wished to feel the full consequence of his actions, and the Deathless didn't hesitate in issuing this deliverance.
+
+A nested sea of white and red slashed and burrowed, grinding and gliding upon the bone armor that protected the Culturist's form. The Culturist stood there, arms open, face held high. His neck was split across the middle and then down from chin to throat. Blood sprayed out, blood that mingled with the red of Shiv's tangible vitality. Blood mingled inside Shiv, and the Deathless was incensed, his wrath rising to new levels.
+
+Vitaemancy 123 > 127
+
+Gardener of Doubt: He wants this. You betray yourself now. With these deeds, you show him too much. He is reaping pleasure from this. You must control yourself. You must—
+
+But as the Culturist accepted a gift of wounds from Shiv, his body came aflame, and lo, was the fire brilliant and bright, lively with a resurrective essence. It was a flame Shiv had seen before, a flame that belonged to Adam. A phoenix combusted them, and both the Culturist and Adam's head vanished into a blaze of screaming radiance. The light crashed hard against Shiv's body, and a detonation sent pieces of Vitae flying free. A coldness returned to him, but he responded with his Bifurcated Processing, extending another tendril out of himself to seize control of the world around him to rip and reave—taking in the vitality of the System itself.
+
+It mattered not to Shiv. If he had to collapse the columns that held up the temple of existence, he would do it with euphoric scorn. He would let everything fall. If it would only allow him to slay this thing, this less-than-a-creature, this mongrel, insect, vermin spawn of a cruel god.
+
+Rolling waves of vitality crashed down, and Shiv embraced the oncoming inferno as the flood of light that had become the Culturist bore down on him. An explosion took hold of another. He closed himself around the Culturist and endured the hit. His Pillar of Orichalcum shuddered and groaned, but did not break. Shiv took hold of his enemy tight, seeking to rip, and tear, and gouge.
+
+Yet, as fire gave way to embers and smoke, the one unsheathed from the ash was not the Culturist or Valor, but Adam himself. Adam returned, his eyes wide, his expression confused. "Shiv!" he ground out. "Shiv! What's happening? Where—where am—"
+
+And before the Deathless could respond, Adam's head burst apart in a spray of gore, and a massive bone-coated arm reached out, seizing the Deathless by the face.
+
+Something between a scream and a muffled snarl escaped Shiv, equal parts confusion, heartbreak, and rage. His sanity veered toward freefall. He didn't know if Adam was still alive, didn't know if he was hallucinating, if something inside him had broken, but the Culturist was holding on to him now. The Culturist briefly squeezed, hand tightening against the hardening Orichalcum Pillar surrounding Shiv. Fractures spread, and then fractures ceased.
+
+A low rumble of pity escaped from the Orc, and soon he adjusted his grip, letting his hand slide down before it closed around Shiv's throat. Shiv struggled on. He didn't need to breathe to fight. He didn't even need life to fight. He swung his Last Morsel free from the skeletal bind amidst chipping sparks of Orichalcum. His Shapeless Tides allowed him to break the grapple as he pried the orc’s thumb loose—and once more, the Deathless detonated his inertial sheath. A cataclysmic detonation sent the darkness around them scattering back, but the Culturist remained in place as the mountain-shattering wave of force and fire flowed around him like water.
+
+Inertial Overdrive 193 > 195
+
+"Is this all you are?"
+
+The Culturist’s question, delivered through a Social Skill, came to Shiv clear and crisp as an order ordained from the heavens toward that wallowing below. The devil heard, but he did not respond, not verbally or telepathically anyway. He tried to strike, he tried to reach, he tried to tear and mutilate and devour.
+
+But the Culturist was beyond him, and not even the faintest glimmer of vitality lit the fuse of the orc’s soul. Yet he wasn't devoid of all lifeforce, for within him there was a dimmer presence, a Heroic-Tier presence, and that made something in the back of Shiv's mind shudder. It reignited the vanquished sparks of his cognition, and the man that Shiv was began his crawl up the deep, looming well to reassert himself over the vengeful shape left of his rampaging instincts.
+
+"Is this all you are?" the Culturist asked again, and this time Shiv did manage a response.
+
+"I'm whatever I need to be. I'll become whatever I have to be to kill you. To make you give him back to me, give everything back to me." And though the outskirts of Shiv's mind resembled a maelstrom of hysteria, the eye of the storm was calm, was spreading, was a source of anger-stabilized rationality. It was effectively a tower, a shape, a place that was a sanctuary. A plain of thought amidst a sea of turmoil. And it demanded that he stop. It demanded that he think. It demanded that the man take the throne and stop ceding it to the element of fury within.
+
+Sage of the Enkindled Heart: Stop this. Turn and face yourself. Face what is happening. Take in the pain, but do not be twisted by it. See the truth for what it is. Deal with the situation. Deal with the shit. Choose, Shiv. Because a monster cannot take retribution on this orc. He’s better at being a monster than we are. We are no Legend at all compared to him; strength alone is not going to be enough. Be the chef. Consider the ingredients—stop striking blind. We need the right recipe for the proper customer.
+
+Gardener of Doubt: We didn’t become a Pathbearer to drown in a sea of our own weakness. We didn’t.
+
+And so, the struggle became twofold: He seized the Culturist, wrapped his Vitae and his hands around the orc's neck once more. He squeezed everything inside him, screamed for him to squeeze every cell, every sinew, every single neuron, howling for violence. For recompense of blood. But he was also facing himself: The Deathless warred against that violent impulse, that craving for brutality, that pain.
+
+For he was not storm enough to sink the grand vessel that was the Culturist. For he was not elemental enough to turn this enemy above enemies to cinders. And so he needed another approach. He needed to be more than a destroyer. He needed to find another way.
+
+He needed to choose another path. A path beyond the orc's ability to even conceptualize.
+
+Sage of the Enkindled Heart: He is looking for something from you. He is not even seeking a true battle. He could have struck us down. Give him his epiphany. Find out what it is. And then… And then Adam—oh, gods, Adam, I’m so sorry…
+
+And second after second, bit by bit, Shiv prevailed against himself while the physical force he exerted upon the Culturist found itself wanting and wasted. His fugue of violence ended, and he felt like his awareness had reassembled itself, had rejoined in a combined alloy once more. He was there behind his own eyes, settled in his own mind, no longer far, no longer creeping upward into the halls of his own consciousness to retake control from the rage-filled riptides spawned by his broken heart.
+
+Shiv found himself shaking as if he was bare and wet in the middle of a blizzard, his eyes twitched, and he stared deep into the eyes of his enemy for the first time. He saw the truth. The Culturist's gaze was not merely the yellow of his brethren; it was a pit of color, color not unlike that which rested within Uva's gaze, and there he glimpsed the usurped powers of the Outside and something more, something worse, something soothing, barred unnaturally so. A violating calmness pressed against the Sage of the Enkindled Heart, and a rival will compelled him to love the Culturist, to give everything he was over to the Culturist. But Shiv's rage and hate were so dense that the intrusive emotion disintegrated in an instant.
+
+Sage of the Enkindled Heart 117 > 127
+
+"There you are. There you truly are." The Culturist spoke these words proudly. He brought up a large, bone-coated thumb and rubbed it along Shiv’s exposed cheek. It was only then that Shiv realized he had been weeping all this time. The Culturist took hold of Shiv then and gently pulled him into an embrace. He placed Adam's head in the air beside Shiv and hummed. "Do you have any idea how jealous of you I am right now? How much of Valor I see in you?”
+
+A delirious sensation took hold inside Shiv. Just a second ago, they were fighting, and Shiv was embroiled in the greatest rage he'd ever felt. And now the Legendary orc was confessing his envy.
+
+"For a moment, I was almost disappointed. I thought Failure had chosen wrong, but it hadn't. It had seen something in you. I see that too—that thing, that full personhood coded around so much potential, the true Pathbearer you might be able to become." And then the Culturist sighed. "A flame that I will never grasp, for my shape is wrong. I am wrongly made.”
+
+The Culturist pulled away slightly and stared at Shiv with an unreadable expression. The Deathless was trapped between revulsion and disbelief.
+
+“I hurt you deeply when I butchered your friend, didn’t I?” the Culturist breathed. “I wish I could say I am sorry. But I am not. It would be a lie. I wish it wasn’t. I wish I understood how wounded you are. But that is missing from me. I am blind to certain colors. And I detest it. I detest how you can truly weep. How you truly love. I only felt a divine pleasure when you howled your anguish, and then a fullness, like tasting a great meal. Yet, I am already empty again. My stomach is a void. No longer do I dominate, for you have chosen to starve me of conflict. For you chose peace against someone who harmed you so brutally, so deeply—and chose it so quickly.”
+
+“Not peace,” Shiv rasped, unable to keep the raw hate from turning his throat hoarse. “Just control. I know… I know I can’t kill you with my hands. So I want to find another way. So I will find another way. But not without being stronger than myself first.”
+
+The Culturist let out a grandfatherly laugh. “And so my jealousy grows greater. For what orc can ever be stronger than himself? What few of us can even glimpse the barest edges of what it means to be a Legend? And there we reside. There, and no further. Only one stands far beyond the rest of us, and so we suffer for his bottomless avarice, his urge to make us half-shaped tools.”
+
+The Challenger watches in satisfied amusement.
+
+A heavy presence descended upon both of them. The Challenger’s breath rolled through the plane of darkness like a whirlwind, stripping the sky bare of clouds, leaving everything a bare canvas of hollow, cold whiteness.
+
+“And so you meet my most troubled creation, my Bruiser. He is so frustrated with what he is. So hateful of what I am. So miserable and bitter about his own existence that he strives and wars and defies his own shape, his designed purpose. As if there is any grander freedom in vulnerability. As if individuality will offer some greater gnosis into godhood and my eventual usurpation.”
+
+While the Challenger spoke, the Culturist turned away, and his expression went from one of philosophical lament to something of naked loathing. His face twitched, and the flame within the Legendary orc’s core churned and boiled, until it too was an inferno—something that matched the sheer intensity raging within Shiv’s breast. Then, they were two of a kind: the Deathless who despised the Culturist for his casual atrocity, and the Culturist, who refused to even acknowledge the existence of his own creator.
+
+“And what a beautifully miserable moment of strife. He tells himself that it is his nature that damns him to do such things, to hurt you, Bruiser. But I do not think so. After all, it is only an urge I put into place, and a resilience against despair besides, I have given unto my orcs. He could have chosen to fast longer. He could have chosen to starve. There is nothing I would have done if he simply died and returned and died again, eschewing brutality to seek that supposed enlightenment he thinks is only reachable by the like of a ‘whole’ individual.”
+
+“There is a point where it’s too much,” the Culturist whispered. He met Shiv's eyes once more. “What I have done to you revealed that your humanity is more than myth. That you can return from pain and be a person once more. But the tale of myself dies when the itch grows too strong. I wanted to rip into him since I arrived and began to watch. I held myself back for so long—and I faltered eventually. I lost hold of myself and didn’t return until I was slaked. There is no choice without self. And there is no self when I suffer the itch. But there was a flicker of you beyond the crystallizations of mana that form your skills, that define your Legend.”
+
+Sage of the Enkindled Heart: We both want to be more. But he hates that he can’t. The Challenger, meanwhile, finds this layered pain delicious.
+
+More than hate, however, there was a chain of fear leading away from the Culturist upward, toward a place unseen, to a realm beyond.
+
+And maybe he fears the truth that he can resist his urge. That he is just weak at the very core. Maybe he is just blaming the Challenger. But Shiv knew it was just as likely the god was mocking his own creation—a perverse game of dominance all the way down.
+
+Sage of the Enkindled Heart: No one gets out. Perhaps not even the Challenger, by his own design. But what can be said about a creature that locks himself within a cage of his own making and calls that divinity?
+
+Godhood, maybe, Shiv replied to himself. And that answer left a vile taste.
+
+Philosophy 41 > 46
+
+"I have intruded on this moment enough." The Challenger chuckled. "I return you to one another’s company. Enjoy your moment, and do remember to make things interesting."
+
+As the Challenger's divine presence faded, as the world went from white to dark once more, the weight of his words lingered while Shiv and the Culturist faced each other in the aftermath.
+
+"Is he still alive?" Shiv struggled to keep any hint of emotion out of his throat. The orc stared at him for a moment, and then released him, gliding away on wings of darkness—wings that crawled and spread out like the limbs of an insect piercing into the thin membrane of reality.

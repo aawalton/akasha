@@ -1,0 +1,199 @@
+---
+id: 2eb38795-50fa-5789-927a-bde9e55b5b7d
+page-type-slug: story-chapter-royal-road
+title: "251 General Understanding"
+slug: 0210-251-general-understanding
+partOf: the-new-world
+position: 210
+ownLength: 3763
+unit: words
+ownProgress: 3763
+publishedAt: 2020-04-12
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/481019/251-general-understanding"
+royalRoadId: "481019"
+markedReadAt: "2026-06-29T21:28:11.361Z"
+---
+
+We practiced for two more hours, each of them stretching on into eternity. It was a painful, slow, and tedious process. The reason for that was simple - I was bad at it. This wasn't like runic work or punching stuff down. I lacked talent in mind magic, and Torix showed the opposite.
+
+For example, as I got better and gained skills, Torix exposed more depth in the mind magic battles. I didn't close the gap. Instead, it remained constant, like running up a never-ending set of stairs. Each time I gained a bit on him, he showed more of his skills.
+
+Traps, illusions, attrition, blitzing, scouting, countering, hell, he even used parallel thought lines at one point. All you do is separate your consciousness into multiple, independent entities and have them each do something different. It makes specific strategies, particularly blitzing and scouting, far more effective.
+
+Even after going through the rounds of those tactics, Torix demonstrated nuance with each tactic. His traps, initially just nuisances that wasted my time, turned into crippling landmines. When I attacked the wrong target, it created a whiplash effect. It was like swinging a bat at a stone wall. The reversed force made my bones ache in response, and Torix never gave me time to recover.
+
+It gave me a newfound respect for mind mages and what they went through. Here I imagined the process of learning it was simple and easy. No, it was brutal, and anyone that chose this path didn't do so lightly.
+
+This wasn't for lack of Torix's teaching, however. The guy did a fantastic job of explaining the concepts. His descriptions and elaborations were concise, passionate, and thorough. They had no excess rambling, yet they never missed essential details either. In every way possible, Torix showcased a mastery over the art of teaching.
+
+It was nothing like how I explained stuff. I just...felt my way through things. Torix created these massive mental systems to guide his way through complex problems. That meant that even if someone didn't know where to start, Torix could spell out even the most basic concepts.
+
+In other words, when Torix taught, my limit was my comprehension skills, not the lesson's quality.
+
+Either way, I was glad the lesson was over when Torix unclasped his hands behind him and said,
+
+"That is all the time I have left, unfortunately. There's much administration work I must finish, but we should devote more time to this task. While potent, you lack a refinement to your mind magic. Considering the opponents we find ourselves facing, this should be a priority."
+
+I pushed past a wave of dread,
+
+"Yeah, you're right...This is harder than gravity magic or learning runes. It's definitely something I need to work on."
+
+Torix shrugged, "It is inevitable that you shall find a field you lack talent for. This is no excuse for being incompetent, however. This is especially true given the resources at your disposal and the enemies we face. We shall devote an hour's time a day until you've reached a reasonable quality in your mental warfare."
+
+I nodded. Talent or not, I needed to learn this and fast. Having more mind magic oomph during our battles would make a huge difference. It would remove a lot of the strain on Torix, who was already handling dozens of different tasks. Considering all that, I resolved to put my all into this.
+
+However, I needed Torix for the training since no one else had the base stats to fight me on even footing. I left him in his lair, letting the guy manage all the affairs he needed to. Once gone, I walked to my room on the top floor of Mt. Verner.
+
+It was the same as I remembered it, though someone cleaned it before I arrived. Otherwise, a dense layer of dust would've formed over the stonework and floors. I paced over towards the Earthen, modern facilities like a fridge and sink. It came across as nostalgic, something I'd forgotten about.
+
+With a small amount of time to kill, I plopped myself onto my bed, pulling out my obelisk. A dozen different gravity wells suspended me over the fabric, stopping me from destroying the entire floor at this point. There, I researched a few topics I was curious about.
+
+The first was getting some better obelisks for Torix and us. It took a few hours, but I found out quite a bit. For starters, obelisks weren't cheap by any means. They started at around 300,000 credits and worked their way up from there. How Torix had that kind of money when we met, I don't know, and in all honesty, I kind of didn't want to know. It was a different chapter in his life, and the guy had changed since then.
+
+Either way, that was chump change at this point. Surfing through the market, I discovered a vast system of exchanges for used obelisks and the like. The obelisk manufacturers mentioned the risks involved, from implanted viruses to fishing schemes that gained your financial data. It reminded me of the web before Schema arrived.
+
+Considering my sheer lack of competence, I didn't trust myself to find a good deal. Instead, I just went towards different manufacturers and looked for an obelisk like the Emperor's fancy one. As expected, they weren't on the market. The ones I found paled in comparison, even as they reached into the millions of credits. Even for me, that wasn't an unsubstantial sum, which was stunning in its own way.
+
+The average person would never be able to afford them. Ever. It was a luxury item sold to the highest class of businessmen or guild owners. I fell into one of those categories, so I ordered one, dipping into my personal funds. I got one that carried a relatively primitive AI, but it could still automate a few of Torix's tasks with a bit of finagling.
+
+It came with software package options, something else I knew nothing about. After letting out an internal groan, I handled the research for that too. Once again, I went with an expensive but standard package for general security needs. It wasn't nearly as pricey as the obelisk but still came in at a few hundred thousand credits.
+
+Finishing my shopping up, someone opened up the door. I leaned up, finding Althea peering into the room. Our eyes met, and a  grin popped up on my face. As she walked up, we hugged for a bit, just enjoying each other's company.
+
+She whispered, "I missed you."
+
+"I missed you too."
+
+"I missed you three."
+
+I leaned back, "What? Missed me three?"
+
+Althea shrugged, Well you said you missed me two. I missed you more, so I missed you three."
+
+It took me a second to comprehend, and when I facepalmed, she giggled at my frustration. We fell into a light-hearted chat, something we hadn't been able to do in a long time. With an entire evening ahead of us, she wanted a personal, homecooked meal from yours truly.
+
+It reminded me of the dates we had forever ago while preparing to fight Yawm. Like then, I stuck to relatively simple recipes, sticking to stuff I remembered cooking for myself. We laughed, relaxed, and enjoyed ourselves. It was the first night in a long time where I just...shut the world out for a bit.
+
+Once Althea slept soundly beside me, I went back online, scoping out other obelisk functions. I always dealt with real-world, pressing issues for the most part, so I never explored this part of Schema's universe. I assumed all of it was heavily censored, which was partially correct. Criticism against Schema was strictly forbidden.
+
+On the other hand, everything else wasn't. People still didn't share skills and trees, keeping those details to their guilds or clans. On the other hand, the utter strangeness of an online space still thrived. Memes of all kinds, inside jokes, constant bickering, it was a lot like the internet of ages past.
+
+I kept out of those time sinks for the most part, being too busy to relish in that kind of arguing. I did laugh at a few comment threads on the videos Torix posted of me, though. People were clever, and they honed their comment game to a fine edge. Some gems I can remember off the top of my head,
+
+'Incoming news report: Gravity Guy too angry to die.'
+
+'Hybrids: Exist.
+
+Gravity Guy: Imma end this whole man's career.'
+
+A lot of these jokes actually came from people on Earth, which surprised me. I learned after that the comment system sorted by location, and that explained a lot of what was going on. I was from Earth, so Schema gave me Earth comments. Because of this, meme culture lived on into Schema's age, still going strong. Of course, a large variety of jokes from other cultures intermingled with them, but I didn't understand them. The cultural disconnect was real, and I was out of the loop big time.
+
+It was still interesting to see a general, positive sentiment for our guild. In fact, Torix even created a specific page where we released the videos at timed intervals. It worked towards making the guild more famous while boosting our guild's image. He did a good job, editing it in such a way that I looked pretty good. He let people apply for our guild without giving away our location either, and taking such efforts for security ensured we were safe for the most part.
+
+Something that surprised me about the videos was a small, vocal minority in favor of the Adair Family. These comments were shot down immediately after being made, but when I did see them, they carried a sting I didn't expect. They spawned from people who lost their entire families to eldritch all the way to the world's recently Schemafied. These people created a potent, negative undertone among the masses.
+
+I ignored them for the most part, closing out of my obelisk's browser. While getting a feel for galactic sentiment was nice, I still had dozens of tasks I needed to do. I said my goodbyes to Althea before heading towards the lower segments of Mt. Verner.
+
+At the bottom floor, the residential district thrived as usual. Our guild's presence acted as a deterrent for eldritch infestations in the immediate area. This let people focus on more than fighting, and that showed in the variety of shops available. People made art, music, and other stuff that, while not utterly necessary, did add a lot to live for.
+
+Stepping through the residential district was an experience in its own way as well. People stared, no, gawked at me as if I were some historical figure walking around. I guess I was, in a way. Well, to these people at least. It stopped me from hearing what people actually thought, however.
+
+That's why I was down here. I wanted to get some kind of understanding of what an average person's life was like. I felt it would help me understand why the Adair Family was doing what it was doing. After all, they wanted to change Schema for a reason. If I got a grip on that, then I might gain an edge our guild needed for success.
+
+It seemed worthwhile, and Earth's safe period after being Schemafied was coming to an end soon. Expanding my guild would never be easier than it was at that moment, and there were probably a lot of people out there needing my help. It gave me something to gain instead of just giving away my resources for free. Considering how easy help was to give, it seemed like a real shame to ignore the masses out of ignorance.
+
+That's was the crux of the issue - no one told me what they actually thought. They got starry-eyed the moment I walked up, even the stoniest cynic in the room. All our guildspeople's problems melted away when I asked for some insight, and eventually, the lack of honesty grated my nerves.
+
+Without any means of getting a decent answer here, I took my sights elsewhere. I downloaded a map of the area, searching out different communities we found that weren't too far away. While not perfect, it gave me something to look at to scope out a normal person's prospects. If I chose a town to nearby, then I'd get some community already receiving our guild's assistance.
+
+That wasn't what I was after. I wanted to know a normal person's life, and that meant no Harbinger's Legion helping them out. Determined to figure this out, I raced through the night sky, suspended by gravity wells. With stars gleaming overhead, I inspected three random towns within a few hundred miles of Mt. Verner.
+
+They...weren't what I expected.
+
+I thought people would've already organized and handled the eldritch for the most part. In one of the villages, Brownsville, they had. Brownsville was a militant, authoritarian settlement. Surrounded by barbed wire and electrified fences, it was once an old military base. This let people level quickly after the culling first began. With this solid backbone, they kept the nearby areas cleared of eldritch for the most part.
+
+This came at a severe cost, however. No one retained any freedom, a strict curfew enforced. Armed guards paced around, enacting order as much as keeping roaming eldritch out. In general, a lingering sense of fear soaked every interaction here. These people barely hung on, and they couldn't thrive like this.
+
+At first, I thought Brownsville was a real shitshow. I was wrong. It wasn't so bad compared to Gale City. Gale City was an extensive collection of people at the center of what used to be Lansing. Along the horizon, I found dozens of different bridges built across the skyscrapers. It was a new town built on the bones of an old city.
+
+Trees covered the streets below, and they lacked any kind of maintenance. There along overgrown streets, eldritch roamed free, monsters skulking in the dark. These beasts crashed through glass panels, searching for meat and sustenance. Hyper competitive, eldritch fought one another, feasting on each other's corpses.
+
+At the same time, they hungered for anything weaker than them like ravenous insects. By now, some of the eldritch reached level 1,000, the dungeons having developed quite a bit. Fringe zones developed across the countryside, no real force eliminating them.
+
+The reason for that was simple: for the most part, humans lacked the same leveling capacity. That made sense. Most people didn't thrive in this kind of environment. Most people just wanted to do enough to get by, and that wasn't enough for Schema. The AI lived out the virtue of kill or be killed.
+
+Inspecting from afar, I found the average level in Gale City was around six to seven hundred. It was about three hundred levels below your average member of Brownsville. That was impressive, but they weren't keeping up with the eldritch below. Instead, they stayed hidden above the ground in the skyscrapers.
+
+The bridges let them exchange resources, from lumber fueling fires to the meat of hunted animals. They cooked and ate eldritch, something I found dangerous considering how viral those monsters could be. Some farmed along the rooftops, having taken soil from the ground up to the top of the buildings.
+
+They kept guards along the rooftops that defended their crops from flying eldritch. It meant their diets weren't awful, and they weren't wallowing in absolute poverty by any means. At the same time, damn, they were definitely struggling compared with our guild.
+
+I...I guess I hadn't been a usual person in a long time, even from the very get-go of the culling. I got out of BloodHollow over-leveled and armed with a massive advantage in the form of my armor. Other people weren't that lucky, well, if you could call my experience in BloodHollow lucky.
+
+In a way, it was, though. I got ahead of the experience curve. Being overleveled let me explore and fight often without much fear of dying. These people were struggling just to hold on. They were in a rat race of sorts where they never had enough to start thinking long-term. This meant they were forced into short term decision making, preventing them from ever really getting ahead. It hurt seeing this, and it made Schema's world look like a real dystopia.
+
+Imagining this kind of suffering across thousands of worlds...maybe the Adair Family was aiming for something different. They still needed to be put down, but this put their actions into perspective. It also showcased a need for military might. The eldritch required systematic eradication. Otherwise, people would be forced into this kind of life, one where they didn't know if they'd have a tomorrow to wake up to.
+
+It wasn't all doom and gloom at least. Some places handled themselves well with just a bit of assistance. Along lake Mead, South of Mt. Verner, a lake town did pretty well. It was located on an old port city, Fairmount, built around the waterside lifestyle there. The Steel Legion landed here, just as they had in Springfield.
+
+Because of that, the population was armed and organized. The Steel Legion was mainly the neutral guild Schema used for modernizing new worlds. Using that new tech and policies, Fairmount did well for themselves, the population rivaling Mt. Verner.
+
+They kept several boats roaming the lake's edge to monitor any eldritch spawning in hidden coves. The city itself needed little protection, having been built along a cliffside. With only one face of the town needing protection, this gave them a lot of leeway. The power armor didn't hurt them in that regard either.
+
+Fairmount seemed self-sufficient for the most part, getting most of their food from the lake. They also took in refugees, something I hadn't expected. After skulking around the town's edges, I discovered the Steel Legion enforced the whole accepting new member's policy.
+
+Several of the bars and hangouts didn't accept anyone but natives. It showed a general disdain for newcomers. It was better than Brownsville, but not by much. Either way, having one out of the three towns be halfway decent was pretty good. If this was how the rest of the world was doing, then it wasn't all bad.
+
+Having seen my fill of sights, I flew back towards Mt. Verner while lost in thought. After weighing my options, I decided to give most of these towns offers to join my guild. Even if they weren't the best fighters, they could provide extra resources overtime. We would protect them in exchange. It would be like a representative government.
+
+Schema helped us there with his handy guild functions. I could keep the taxes relatively low, and it wasn't like I cared much for the money. Either way, it seemed like a good deal for most of these cities. Having resolved that, I headed back towards my room as the sun rose. Walking in with the sunrise, Althea's eyes cracked open, finding me.
+
+After having a quick breakfast with just eggs and bacon, we parted ways with a kiss and hug. She backlogged a few missions for our evening together, and I needed to organize a few meetups. With that in mind, I called Chrona having her answer with a big yawn,
+
+"Ah, Daniel, it is good to see you well. What are you calling for?"
+
+I peered at her silver skin, the moisture levels maintained by mana laden mist surrounding her,
+
+"I need you to talk with Torix about your mana. Considering his specialties, I think he'd be great at learning primordial mana. It would be great for his summoning too."
+
+Chrona murmured, "Hmmm, the walking skeleton? Ever since he shifted bodies, he has shown far greater confidence than before...Yes, I believe he would learn quickly. I am available most days during most times, so I shall work with him. As you command, Daniel."
+
+"Alright then, cool. Let me know how it goes after a few sessions."
+
+"I will. Is there anything else you need?"
+
+I shook my head, giving her a thumbs-up right after,
+
+"Nope. Thanks and keep kicking ass."
+
+Chrona frowned, "It is you who is performing the kicking of the asses. I am merely waiting for a crisis to show my skills."
+
+I crossed my arms, "Guarding Elderfire could save countless people."
+
+Chrona sighed, "I understand. It is simply difficult to wait, that is all. I will stay here and serve your commands heed, for they are the lifeblood of my people. Goodbye, and may the stars shine upon you."
+
+"Er, may the stars shine on you too."
+
+Chrona chuckled as she closed the call. Right as I finished it, I walked into Torix's lair. Centered here, Spear, Torix, and several scientists looked ready for war. The scientists carried lead suits over themselves, keeping out anything trying to get in. Spear even wore protective gear over his exposed skin.
+
+Beside them, dozens of different instruments measured air pressure, temperature, levels of radiation, and a dozen other metrics I didn't know about. Torix advised the group on handling several of the magically inclined devices, his tone sharp,
+
+"And if any of you drop one of the resonators, I shall simply mirror the condition of the device onto you. Understood?"
+
+They each gave a heavy nod, their nervousness oozing through their plastic facemasks. I paced up, a behemoth among them. The disparate sizes of Torix, Spear, and I created a split in the room. It was like two worlds colliding, each of us living different lives. That was good because we needed what these guys were good at.
+
+After a few greetings from each scientist, I learned their names and occupations. Rob, Scotty, and Amanda, they worked in the eldritch research center that Amara oversaw. Though nervous, they carried a general air of professionalism no different than a surgeon. Either way, they looked like good people.
+
+Torix turned to them,
+
+"This is a life or death discovery. We know nothing about what this section of Lehesion will do. Perhaps it will cling and crush one of you. It may release a biohazard that requires each of you to remain in quarantine for months. Perhaps it shall do worse. Are each of you prepared for those realities?"
+
+They replied in unison, "Sir, yes, sir."
+
+"Excellent." Torix turned towards me,
+
+"Are you prepared for the discoveries we shall unfold?"
+
+I clanked my teeth a few times before taking a deep breath,
+
+"Always."

@@ -1,0 +1,587 @@
+---
+id: 0201f9d8-918e-588e-9a73-b8e28715962f
+page-type-slug: story-chapter-royal-road
+title: "401 A Journey's End Is Another Beginning"
+slug: 0361-401-a-journey-s-end-is-another-beginning
+partOf: the-new-world
+position: 361
+ownLength: 4664
+unit: words
+ownProgress: 4664
+publishedAt: 2025-03-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2140397/401-a-journeys-end-is-another-beginning"
+royalRoadId: "2140397"
+markedReadAt: "2026-06-29T21:33:40.371Z"
+---
+
+I'd make sure of that. I raised my brow.
+
+"Are you all ready?"
+
+Tera gulped.
+
+"Of course."
+
+Helios took a deep breath, his mood like sour milk. He stretched out his hands, and our dimension bent. Springfield stood on the other end, and one of my architect golems waited for their arrival. Helios and I walked through before we turned to the skeptiles on the other side of the warp.
+
+I gestured to the city.
+
+"Alrighty then. Welcome to your new home planet - Earth."
+
+Chapter Begin
+
+The skeptiles paced onto another world, many of them having never left their world and its barren hellscape. The skeptile veterans ogled at the buildings, city streets, mana lamps, and especially the greenery. One of them murmured.
+
+"It is as if the world is dyed green."
+
+As they walked onto Springfield's heart, Krog, Chrona, and Diesel waited for them. Though somewhat afraid, the skeptiles gave them bows and exchanged greetings before we got the group situated. Once everyone was over, Helios hopped through his portal. His nose bled before he raised a hand.
+
+"I'm getting a drink."
+
+He stumbled away. His portal remained open in case we forgot anything. With everyone on our side of the ether, I raised my hands.
+
+"Hello, skeptiles. You are the frontrunners of your kind, and your mission is to bring your species out of anguish and into avarice. I'll be giving you more than one chance to make that happen, and with diligence and duty, you'll forge a new path for your people. No corpses will desiccate under the sun if you all apply yourselves."
+
+Honestly, even if they lazed about, they wouldn't starve here. My declaration had the intended effect as they radiated a palpable enthusiasm. I shifted my aura from the Rise of Eden to Event Horizon as I turned to our convoy.
+
+"This is Krog, Chrona, and Diesel. They'll take an architect golem towards your new home. There, you'll scope out various lands before forging a massive capital of your choosing. I'll add nine other cities once your primary landing point has been established. All I ask is that you work with the locals of any area by giving them plenty of breathing room and space."
+
+I gestured to Diesel.
+
+"Once you're settled in, Diesel will assist with creating your new city layout and building plans. He's experienced and will help you pull this together quickly."
+
+One of the skeptiles murmured.
+
+"It will take centuries, but it will be done."
+
+Diesel sat on the shoulder of the architect. He tapped the ethereal-looking golem.
+
+"You'd be surprised how much ground one of these babies can cover."
+
+The architect gestured a hand.
+
+"Though I am but a humble servant, I am here to grant my services to all in the name of my creator."
+
+I smiled.
+
+"That's the plan. I'm guessing these are the volunteers for the project?"
+
+Four gialgathens, a few dozen Eltari, and twelve people waited behind my followers. Elthara was one of the Eltari, her Omega Strains rippling over her body. By now, they were a part of her body as much as my armor was mine.
+
+She bowed to me.
+
+"We are. We wish to grant these people as warm a welcome as we received."
+
+Tera blinked.
+
+"I'm hoping it wasn't a cold night when you arrived then."
+
+Elthara reached out a crystalline arm.
+
+"To us, this world is chilly, but its people are like embers. It's good to meet you. I am Elthara."
+
+Tera smiled, his eyebrows rising.
+
+"I-I,m Tera, the World Breaker."
+
+Elthara's eyes widened.
+
+"Impressive title."
+
+Tera let her hand go.
+
+"I'm certain you've got plenty of achievements that rival my own."
+
+One of Tera's wives, this one a warrior, walked up.
+
+"You seem ripe. Would you join our clan?"
+
+Elthara gawked.
+
+"Huh...I, I don't think so."
+
+The wife pointed at her eyes, then at Elthara's.
+
+"I will tell you first, but we don't give up easily. Be ready to be invited to many warm meals when we get a new home."
+
+Tera nudged his wife back with an arm.
+
+"Do ignore them. They're just ecstatic we get to live somewhere with so much water."
+
+Elthara laughed.
+
+"You should see Blegara."
+
+They chatted away, getting along without a hitch. Chrona scoffed.
+
+"It would seem these skeptiles are like babies that never fully grow."
+
+Krog nodded.
+
+"They're so strange, like tiny caimans."
+
+I gawked as one of the skeptile children ran up and grabbed a horn on Krog's side. They must've run through the open portal. The child spread its hands.
+
+"You feel like big frogs."
+
+Krog's face soured.
+
+"Ah. I suppose all races know of frogs aside from us."
+
+Chrona leaned down, her eyes the size of the child's entire body.
+
+"Little one, have you not learned fear?"
+
+The child put its eye up to Chrona.
+
+"I am so afraid I will either laugh or cry. I choose to laugh."
+
+Chrona smiled.
+
+"Then I will choose to laugh with you."
+
+Tera grabbed the child.
+
+"Go back through the warp before it closes. Stay with your mothers until I return."
+
+The child deflated like a popped balloon. It sprinted through the ruptured space-time before it slammed shut. In an alley to the left, I could hear Helios vomiting. We wouldn't be getting any more warps for a while. Either way, we had one last remaining issue. I messaged Shalahora, who warped into the square an instant later.
+
+A palpable wave of fear spread through the skeptiles before Shalahora dispersed a subtle psionic web. Tera narrowed his eyes at the shadowy Sovereign. Tera murmured.
+
+"What is he doing?"
+
+Shalahora whispered.
+
+"They are clean."
+
+As quickly as he came, he left. I waved a hand, getting everyone lined up.
+
+"He's running a quick checkup to make sure there's no smuggling going on."
+
+Tera tilted his head.
+
+"What counts as smuggling?"
+
+I smiled.
+
+"Apparently, aspirin."
+
+A short chat later, I accepted the skeptiles into my guild. Each of them grew by several feet in height, thousands of pounds in weight, and gained enormous amounts of stats. Tera scoffed.
+
+"Is this what everyone who is in your guild experiences?"
+
+One of the eltari in the back laughed.
+
+"I threw up when I first joined. It was like bad hangover."
+
+After squaring everything away, I waved bye as the skeptiles left. Some floated with the architect golem. Others rode the backs of the gialgathens. Tera shouted on the back of Chrona.
+
+"Thank you. This is a beautiful home, and we will not tarnish this gift given."
+
+I smiled.
+
+"I didn't doubt you guys for a second, but you're welcome."
+
+After they were gone, I pulled Helios back up to Mt. Verner. We wove through tunnels before I set him near his room in the top suites. He hobbled off, his exhaustion leaving him shaking. Even if he didn't say it, I could tell the trip shook him up. Combine that with fighting Elysium's forces, and Helios hardly made it to his room.
+
+Before he walked in, I extended a hand.
+
+"You know, I could always give away a few golems to help you with your fights against Elysium."
+
+Helios leaned against his doorway.
+
+"I am not going to be a burden to you. I fight on my own terms for my own reasons. They're not yours, and you will not treat them as such."
+
+He glared.
+
+"I ask you to give me this dignity."
+
+I frowned.
+
+"Dignity, huh? Well, consider it done, but know the offer still stands."
+
+He hobbled into his room.
+
+"As do my principles. Goodbye."
+
+His doorway closed before I stood there in contemplation. I had to admit that it was nice having a follower who wanted to handle his own business when needed. I was always getting pulled around to different tasks, and a large part of that stemmed from how much help everyone needed. Still, it didn't take long to make combat golems by any stretch. I could crank those out in like, two hours or something.
+
+Making them weaker was the real problem.
+
+Anyway, I walked towards one of the ventilation shafts before heading outside. As I traversed the inner tunnels, I collected lint before burning it outside of Mt. Verner. Whether I liked it or not, I was, in fact, a giant duster at this point. I might as well do a good job dusting. With the sun setting, I headed towards Shalahora and my hill, my chosen place of purgatory.
+
+As I lazily hovered over, my thoughts tumbled in my mind like clothes in a drier. I let them tumble without any rhyme or reason. The skeptiles suffered under Obolis, and other species did the same. I was aware since the Vagni suffered a similar fate, but the Vagni were half eldritch.
+
+That's why the Empire's paranoia against them seemed logical at the time. After all, Blegara had been a fringe world. It carried many detriments that would require decades of determined effort to fix. However, the skeptiles demonstrated no such hostility, and their upbeat attitudes amidst their harsh lives left me feeling hollow.
+
+How many races were in their position? How many people suffered the same kind of fate, one relegated to squandering in dirt as others pilfered off them? It didn't even make sense to me why someone would do that. It left the leeching species fat and weak, with their minds lazy and their bodies soft.
+
+It helped no one. No one at all.
+
+I wanted to have people fight and face reality head-on. In my kind of planet, we'd find what we love and do it every day. Although I didn't understand people well, I knew enough to say they were happiest when working towards something. A guild worth building would have that goal front and center by inspiring the masses and giving them a deeper purpose.
+
+In that regard, I had floundered. My guild's mission and purpose were dictated by my personal concerns, not anything overarching or principled. In some ways, it stopped us from getting caught in the weeds. If everyone acted without any direction, then the guild would naturally splinter apart. On the other hand, by directing the guild on my terms, I swiveled this ship's helm in wild, crazy ways.
+
+In time, I needed to sit down and think about my governance. How would everything be managed while I was away? What guiding principles did we need? What about punishment, legalities, etc? These were skills and entire thought systems I sorely lacked. It left me humbled as I arrived with Shalahora waiting on me.
+
+The shadow sighed.
+
+"Again. You never miss an opportunity to suffer, do you?"
+
+I pulled my dimensional anchor into a comfortable, easy-to-maintain spot.
+
+"If the suffering has meaning, then sure. Anyways, you ready?"
+
+His form blended into the dark, an encompassing visage.
+
+"Tell me if the night is dark enough."
+
+The night of training passed by in a flash. Well, you know, if a flash was a prolonged persecution by torture-happy demons. After being mentally beaten, psionically bruised, and spiritually trounced, I got my bearings back by meditating. Once handled, I checked up on the luminari leaders. After seeing the skeptiles wallowing, I grounded my actions once more.
+
+Even if I didn't see it, what I did mattered. It really, really mattered at this point. To take advantage of that leverage, I aimed my sights on establishing a solid relationship with this new species. That, and I got my revised contract back from Florence's contact. The lawyer albony quadrupled the length of my document, having an extensive history of comments and details on what changes he made and why.
+
+I had one mind convert it in the cipher, another read through the changes, and a third one carve what the other converted. Doing a dozen things at once, I landed in the medical bay. A real one, this time. Kessiah had an architect construct a series of concrete buildings with the appropriate quintessence lighting. While sterile and lifeless, the hospital gave the luminari exactly what they needed.
+
+Each space offered direct vantage points to the sun and stars, glass lining every ceiling to the sky. They even had fans operate when medical personnel left the room, ensuring a steady breeze bombarded the aliens. It left them healing at a rapid pace, giving Kessiah a much-needed break.
+
+Speaking of, she walked out of the room, her belt buckle glowing. A bead of sweat poured from her forehead as I walked by. I pointed at the artifact.
+
+"How's it holding up?"
+
+Kessiah leaned against the wall.
+
+"Yeah, well enough. It's...I don't know, noisy? It's definitely a strong tool, but it puts a lot of pressure on me to perform."
+
+She wiped a brow.
+
+"It's so damn weird. I feel like I'm barely scratching the surface of what it can do, but that's while I'm giving it my all."
+
+Remembering my experiences with Shalahora, I nodded.
+
+"I understand the feeling. How many casualties were there?"
+
+"None. The only people that died were the ones Shalahora uncovered to be Elysium agents."
+
+I held up a hand. She high-fived before letting out a gasp.
+
+"Yeah, some of these people you handed off to me...They were in such bad shape. Keeping them stable took everything I had."
+
+I winced.
+
+"You mean the rulers from L-7?"
+
+She shivered.
+
+"I can't believe some of them were even alive. Some of them even had these rainbow spines coming out of parts of their body. You told me not to touch them, but I didn't need the tip. They felt...Like demons under their skin or something."
+
+Kessiah's eyes grew distant.
+
+"I think that's about where my new limit is. After the Yawm situation, I'm willing to take on tough jobs. Sometimes, dealing with them is easier than tolerating the guilt from running away."
+
+Her eyes narrowed.
+
+"But that new planet you mentioned, L-7? You won't see me there unless I'm dead or dragged by my hands and feet, kicking and screaming."
+
+I shrugged.
+
+"You might surprise yourself, but yeah, it's pretty bad."
+
+Kessiah scoffed.
+
+"That's an understatement. I'll walk into the fire, but I'm not diving into a lava pit."
+
+She walked off.
+
+"Anyways, good luck. Cya later, big guy."
+
+She left me wondering if my perspective was warped on Leviathan-7. I estimated the pressures of the planet, but my build gave me immunity to most physical ailments. Based on Kessiah's description, the hostility of the planet dwarfed even my high estimations. Either that or she sensed something I couldn't.
+
+I hoped the golems and cities I left behind would make it until I returned.
+
+Putting myself back in the present, I checked the medical rooms. Each alien glowed with far more health and radiance than when they arrived. With the luminari's safety ensured, I finished forming the luminari's contract as I walked into Echo's room.
+
+Having regained its vitality, Echo's white outline thickened into a shimmering mist. The internal dark deepened, its skin a void without end. Its surface lights bounced around within its outlined shape, but to show politeness, it dimmed the flashing so it wouldn't blind other races.
+
+Echo bowed its head to me.
+
+"Harbinger, thank you for the hospitality. We can hardly believe the thoroughness of your care."
+
+I raised a palm.
+
+"It's the least we can do, but I wouldn't thank me just yet. We still have this to attend to."
+
+I showed the contract in my grimoire. Echo's lights changed to red.
+
+"This is far more than we agreed upon."
+
+I waved my hands.
+
+"I had a professional work on it. It stops you guys from rescinding as easily or finding loopholes. This isn't just for my safety, either. You guys will suffer fewer stray bullets if I use better legal documentation and all that."
+
+Echo's red deepened to the color of blood.
+
+"This stops us from using Schema's system to our advantage. You are stopping the future prosperity of our race."
+
+I scoffed.
+
+"You're not feeble. You don't need to leech off other species."
+
+Echo's lights hastened.
+
+"We're not invincible. Those measures you look down upon allow us to save other races while benefiting our own in the process."
+
+I shook my head.
+
+"Do that without the daily contracts or caste systems, or is your entire species only able to use this one venture for affluence?"
+
+Echo glared down at the contract, its eyes coalescing into a single orb on its face. It was like an ink cyclops with charcoal skin.
+
+"I know your thoughts, but you have to understand that I'm more than worried. We're going to struggle after this war. How are we luminari supposed to recover?"
+
+I furrowed my brow.
+
+"I've read a little about your kind since we last met. From what I gathered, the luminary are not weak, frail, or foolish. Maybe you need to be reminded of that."
+
+Echo's hands shook.
+
+"This...This will ruin us."
+
+I pulled a ring from my dimensional storage.
+
+"You're underestimating how much I offer in return for your obligations."
+
+The luminari stared at the ring. I gestured to it.
+
+"Try it on."
+
+Echo put it on a finger.
+
+"We are a people worthy of trust-"
+
+He gawked at the ring. His light outline thickened, more lights forming within his body. He expanded, and the bed buckled beneath him. I tapped the steel pages of my grimoire.
+
+"I thought the last people I worked with were worthy of trust as well, but I was wrong."
+
+I pulled the grimoire's words out as glowing letters.
+
+"And I'm not going to be wrong again. Sign, or our alliance is done."
+
+The letters singed onto a large plate of my dimensional fabric. The luminari heaved back as if distraught.
+
+"Y-you use your skin as paper for contracts?"
+
+I floated the panel over to him.
+
+"Paper is fragile. I am not."
+
+I saturated the panel in a gravity well before pointing at it.
+
+"Use something to turn it if you need to. Putting your hand against the page will result in it being crushed."
+
+Echo pulled its hand away.
+
+"Why use so much gravitation?"
+
+"Because it's heavy. Very, very heavy. I'm going to have a talk with Florence real quick. You heal up and read through that."
+
+Echo leaned back.
+
+"Aren't you worried I'll change the wording of the contract?"
+
+I leaned over the document, my hand on the dark metal. It shivered as if alive.
+
+"You can try, but know this document still has teeth."
+
+I stepped out of the room.
+
+"Remember one thing if you've forgotten everything else I've told you in this conversation. I believe in you and your people. You should start doing the same."
+
+As I walked out, Echo's head lowered, and his hands squeezed the hospital bedding. Heading out of the place, I sent Florence a message. He replied, and I walked back inside to a different room in the single-floor building. Florence rested with his feet propped up. He chatted on his obelisk, enraptured in a conversation as I walked up.
+
+He closed his obelisk, more like a chatterbox, before Florence grabbed his knee.
+
+"Oh, oooooh, the pain. It's too much to bear."
+
+I gently flicked his leg. He pulled it back while rubbing his ankle.
+
+"Oof, what was that for?"
+
+I rolled my eyes.
+
+"I was testing to see if it was still injured. How are you holding up?'
+
+Florence pulled his feet off his bed before standing up.
+
+"I'm fine. Kessiah and Shalahora have analyzed and tested every facet of me to ensure I'm not implanted with Elysium's ilk. I've been cleared this morning for further tasks."
+
+"Good. I'm going to start offering this deal to other empires."
+
+Florence's brow raised.
+
+"Really now? Where's this sudden change of heart coming from?"
+
+"Eh, I've seen what state a lot of these people are in. It's not good, and if I can change it, then I will."
+
+"Ah. You must've seen skeptiles then. It's a nasty business, isn't it? I remember the first time I saw their capital. Corpses lined the streets in droves. It was as if some dark demon put a straw in their veins before sucking out every ounce of moisture."
+
+Florence frowned.
+
+"That was a large part of why I signed up to rule over Blegara despite feeling so unprepared."
+
+I put my hands on my hips.
+
+"You didn't want them to do the same thing to the Vagni?"
+
+Florence brushed off his hospital robe.
+
+"Indeed. It was a personal vendetta, in a way. My family thought it was too difficult a thing for me to manage, from my idealistic standpoint to my monumental task of rehabilitating the Vagni."
+
+Florence's eyes carried a lingering sadness.
+
+"They were right. You bailed me out of my over-commitment, and they still rebel to this day."
+
+I shook my head.
+
+"We rebutted Elysium, took control for a while, and we survived."
+
+My eyes hardened.
+
+"Considering who our enemies are, we accomplished a lot. That's actually why I'm here."
+
+Florence tilted his head. I raised a fist.
+
+"I want to extend this anti-slavery deal to all the other rulers we saved on L-7. It lets us retaliate against Elysium for sending Lehesion to Blegara and for breaching our air space on Earth. After we have these empires benefitting from our arrangement, I'm extending the same deal to anyone being assaulted by Elysium."
+
+Florence winced.
+
+"I was fine with doing this for one species, but well over a dozen? I don't think that's a good idea. We'll attract the ire of Elysium on a different scale."
+
+Through the glass roof, I stared at the sun. I could peer into the light without being blinded or hurt by its brilliance.
+
+"I gave that some thought. See, they can't face us in an open military conflict. If they send the giant, mopey gialgathen our way, I'll brutalize him like I did last time. Plazia and Shalahora can be used as potent weapons both offensively and defensively as well, and Earth's retaking doesn't require my direct intervention."
+
+I interlocked my hands behind myself as Torix oftentimes did.
+
+"However, Elysium's ability to turn neutral ground into an advantage is unmatched. Without anyone knowing, they can dismantle an alien force from within using their remapping abilities. Anyone with the luck perk can be reconstructed into an unwilling homunculus for their goals, one they guide towards key positions before they take the offensive."
+
+I frowned.
+
+"That's how the luminari fell. You mentioned them turning sides at random. It turns out there's nothing random about it."
+
+Florence winced.
+
+"Nasty business."
+
+I nodded.
+
+"Agreed. If anything, we need to apply pressure to keep our position where it is. If they're able to focus on an unseen offensive against us, they'll destroy us from within like cancer killing its host."
+
+I met Florence's eye.
+
+"Hm. We'll apply soft pressure where we need to, and perhaps their response shall be far less tumultuous than we expect. We're not promoting slavery in these arrangements, and that is what Elysium fights so ardently against. The ideological sting of their propaganda should fall flat in the face of this leveled response."
+
+Florence gawked at me.
+
+"Since when did you become a strategist?"
+
+I tapped my temple.
+
+"Eh, think of it like this. There are many Daniels swirling in here, and I'm speaking for them. If my articulation alternates midspeech, it could also be from me switching my dimensional wake to a different one. In this case, a primordial aura."
+
+I rolled my hand.
+
+"It's better at the tactical application of knowledge, but the interpersonal skills are...Well, lacking."
+
+Florence laughed.
+
+"This version of you reminds me of Helios."
+
+I interlocked my hands behind myself.
+
+"He has his good points."
+
+Florence tilted a hand to me.
+
+"Speaking of which, I wanted to discuss him. He's pushing himself too hard as of late. I was wondering if you could offer him some support. I'll pay back your patronage fully, of course."
+
+I shook my head.
+
+"I already have, and he won't accept it."
+
+Florence put a hand over his chest.
+
+"Then I'll take whatever you planned on offering him before forcing it down his throat. I'll make sure he won't take no for an answer, either."
+
+A menace shined in Florence's eyes. I smiled.
+
+"I'll send you the golems along with a copy of the cipheric contract we aim to have the other species sign. I'll change the details as necessary, but it should give other species some understanding of what will be required."
+
+Florence walked through the room, his voice rising in volume.
+
+"Ah, finally, we can take some mark of aggression against these monsters. I know I'm not the most impartial of observers, but someone should've already Elysium wiped off the face of the Earth and from all planets and from all peoples. It's going to be difficult, but we'll silence them one voice at a time."
+
+I sighed.
+
+"I'm as anti-Elysium as anyone, but they're not going anywhere anytime soon, no matter what we do."
+
+Disgust erupted over Florence's face.
+
+"What? Do you not believe in our potential? We can wage war and win."
+
+I frowned.
+
+"To me, it's not a matter of who's stronger. It's a matter of will. I'll give an example. In my world, the worst wars were fought over ideological nonsense, from striving for absolute purity to enacting a utopian ideal. The pursuit of perfection clouded people from viewing the hell they created while pursuing their goals."
+
+I raised my brow.
+
+"I think that Elysium is the result of millennia of silenced dissent against Schema, and it's erupted in this brutality for that reason."
+
+Florence grabbed his chin.
+
+"Perhaps, but it doesn't justify what they've done."
+
+"You're right. It doesn't, but it does explain why they do what they do. That means if we kill them, we still haven't killed the reason behind what they do. They'll come back in another form, and it may be even worse than the current iteration."
+
+Florence scoffed.
+
+"I doubt that's even possible."
+
+My eyes darkened.
+
+"If there is something I've learned since diving into Schema's universe, it's that there is no end to how deep a pit can go. Some of them are so abyssal, you can jump in and die before you even hit the bottom."
+
+Florence gulped.
+
+"Certainly, that seems to be the case. The fact they're recreating people to serve them is as dystopian a principle as anything I've ever heard of."
+
+I frowned.
+
+"What if they did it to unborn children? Perhaps they could cipherically implant their ideas into the genetic code of people. They'd propagate silently, spreading their ideas and messages in silence, yet the proliferation would be as certain as stone. It would be akin to a plague written into their DNA."
+
+Florence shivered. I closed my eyes.
+
+"Or they may make a disease that slowly alters other people's DNA in the same way. I can't say because, at this point, the situation has become worse than I imagined it could four or five times over. That's why I think my imagination might be the problem."
+
+Florence took a step back, his eyes wide.
+
+"Daniel...Don't speak something like that into existence."
+
+I turned and stared at a wall.
+
+"We'll need to tackle this problem from a wider angle. They're doing all of this because of Schema. That means we need to fix the problem at its source. At some point, at least. As for eliminating Elysium, it's impossible without getting past their protector."
+
+Florence furrowed his brow.
+
+"You mean Lehesion?"
+
+I grabbed the wall, my fingers digging into the concrete.
+
+"No. I could've smashed him like a bug. I need to kill the so-called gods that protect him."
+
+Florence furrowed his brow.
+
+"And who might they be?"
+
+I spiraled the concrete dust over my palm. It swirled like nebulae in space as I turned to Florence.
+
+"The Old Ones, of course. I'm going to kill them all."

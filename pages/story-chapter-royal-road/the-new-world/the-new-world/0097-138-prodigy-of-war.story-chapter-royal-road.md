@@ -1,0 +1,165 @@
+---
+id: da64c78e-c901-5eb1-8cbd-8cfcc3886815
+page-type-slug: story-chapter-royal-road
+title: "138 Prodigy of War"
+slug: 0097-138-prodigy-of-war
+partOf: the-new-world
+position: 97
+ownLength: 2748
+unit: words
+ownProgress: 2748
+publishedAt: 2018-07-31
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/239485/138-prodigy-of-war"
+royalRoadId: "239485"
+markedReadAt: "2026-06-29T21:24:11.923Z"
+---
+
+As I dashed closer towards Yawm, Frode tossed something towards me. I turned around, seeing a net right at my nose. Before it made contact, my reflexes kicked into gear. A wave of gravitational energy shot out, reflecting the net back. Brim sliced it with his spear, slowing him down.
+
+I turned forward, smacking a telephone pole out of my way. The wires snapped, the wood cracking as I swiped through it. With gravity and telekinesis, I shot the pole toward Frode. Brim leapt in front of him, snapping the pole apart like a twig. It bought me more time, however.
+
+As I reached Yawm, he turned towards me. Spotting Brim and Frode, he reached out an hand towards them. Korga knocked his arm up, sending a destructive pulse above us. Another skyscraper evaporated before Korga jumped up. He rushed past Yawm, wrapping his arm around him and pulling him at the same time.
+
+They landed on the ground, the pavement sheering under them. I raised an eyebrow in shock as Yawm laughed like child playing with his friends.
+
+“You fight differently than Daniel. He relies on strikes. You rely on wrestling. I find the difference novel, however.”
+
+Yawm laid a hand onto the ground, vines growing from his fingertips. Wooden tendrils wrapped around the thick neck of Korga, rushing up his nose and eyes and mouth. The mage flew over them, firing an arcane spell at Yawm. It landed on Yawm’s back, leaving a crack in the bark. The spell hurt Yawm, making the vines retreat from Korga’s face.
+
+Yawm reached up over his head, grabbing the face of Korga. His grip split the skin of the old remnant. Yawm raised his legs, flipping his entire body over Korga. He slipped out of the grasp of Korga, his sweat making him greasy. Yawm drove his feet into the chest of Korga.
+
+I blocked my ear, the shockwave of impact unbearable and unbelievable. The wave off the hit left glass crumbled and the ground rumbling. It was like a meteor struck the chest of Korga. From his chest, a plume of blood propelled, covering Yawm’s face in red.
+
+Yawm lifted his hand, but the mage cast a spell. Vibrant, ornate lines of green traced the air in front of her staff, sending out a flash of green. Korga recovered, twisting his body and dodging Yawm’s punch at the same time. He flipped himself, catching Yawm in an arm bar. Korga pulled, but Yawm just laughed.
+
+Yawm lifted Korga up with a single arm, curling his wrist up. The damn remnant turned a shade of lavender as he struggled against Yawm’s might. Viens crept across the remnant's face, but it wasn’t enough. Yawm was beating his entire body’s strength with his arm.
+
+I didn’t see the rest. From behind me, a wave of black mana reached out towards me. I molded my armor, removing any weak spots. Brim threw a spear, however, piercing through my shoulder. The mana rushed into the wound, creating another onset of itching.
+
+I uncovered my eyes, running despite the discomfort. Korga’s arm bar held on by a thread. Before the arm bar broke, the floating mage pointed her staff at Yawm. She cast an aura over him, a pillar of yellow coming down from the sky. Yawm’s arm went limp, letting Korga pull at him.
+
+The bone snapped, the skin rupturing. Yawm’s glowing green blood leaked out before he grabbed Korga’s face with his good arm. From deep in his chest, Yawm let out a bellowing chuckle, jerking Korga from his broken limb. Yawm’s aura left my hair on edge and sent a chill down my spine.
+
+“This is how you wage war, remnant.”
+
+Yawm whipped Korga through the air like a rag doll, slamming him into the ground. The impact was nuclear, unlike any kinetic impact I’d ever see nor felt. It rippled the ground, sending out a wave on the surface of the ground. It flipped cars as a shockwave passed over me. It left my skin numb.
+
+Yawm lifted his broken arm above his head. He whipped it like a club, mauling Korga. With vicious, savage laughter, Yawm relished each strike as the clubbing broke ribs and bone and skin. Here I thought I was a hardass in a fight.
+
+I really needed to step my game up.
+
+Despite the awe of such brutality, the itchiness and discomfort overwhelmed me.
+
+Skill gained! Itch Tolerance(lvl 1) - Not all forms of discomfort fall under pain. You’ve learned that, and you fight against irritation. -1% to itchiness felt.
+
+I fell onto my knees, my vision blurring. The spell of the damn enigmatta hurt more than pain. I looked at my hands, maggots crawling out of my skin. I clenched my teeth, clasping my fists. I stood, ignoring this half baked illusion. The last damn thing I let stop me is me being a bitch.
+
+As I recovered, a chain rattled behind me. The whipping of air siphoned around it. The same arcane blade cut halfway through my chest, leaving my legs limp. I fell down again. As I thud into the ground, I condensed my weight, sinking me into the ground. At the same time, I altered my armor, pulling the arcane blade from my spine.
+
+Within seconds another wave of black mana infused with me through my wounds. My throat dried and my stomach emptied. A primal hunger surged up, like I hadn’t eaten in weeks. Even with the illusion magic racking me, I grabbed the chain leading to the arcane blade.
+
+The chain jerked, sending me whipping with it. I shot upwards, glancing down. One of Brim’s arms molded into the chain, letting him control it. I glanced down, seeing the arcane blade beneath me. The embroidered, glowing arcane blade connected with a small spear at the end of the chain.
+
+My spine healed as I whipped towards the road below. I dived into it, shooting towards the ground. Using my burrowing skills, I dragged the chain down. As it turned taught, moving the chain was like pushing a brick wall. Abusing my mana pool, I detonated several hundred thousand mana at once.
+
+I shot down, breaking through the resistance. As the chain dragged further down, I no longer struggled with dragging him. My armor dug into his his silver, extended body. Nearly a minute of digging passed before Brim let the arcane blade go.
+
+As he did, the blade fell downwards, scorching through the earth. I jolted down, grabbing the precious block and blade. My armor coated it. I shot back upwards, lifting out of the ground. By the time I reached over the dirt, the four Breakers cornered Yawm...but Yawm also beat Korga to a pulp with his broken arm.
+
+Yawm’s arm had returned to normal too. He already tore off Brim’s last arm, and he threw it at the floating mage. After that, he charged Frode down. I bolted towards the fight, analyzing the annoying utility mage.
+
+Elessah May, 100% Match
+
+Class: Breaker | Race: remnant | Lvl:10,439 | Legendary Skill: Fallen Into Abyss | Guild Affiliation: The Wanderer’s Home
+
+Galactic Synopsis: Respected as the right hand woman of Korga Ryker. She acts as a shield and he their sword. While Korga handles most of the obvious leader oriented details of the guild, Elessah handles the background details. In a way, she makes more of the guild’s actual decisions than Korga does.
+
+Specialties: Elessah’s specialties are numerous. In particular, her stamina draining and antimagic aura are whispered of in legend. She also has access to basic arcane magic like most Breakers, making her dangerous to fight for prolonged periods. She’s considered the guild’s ace since she can cripple almost any foe and negate their potent strengths.
+
+I knew which one to beat the hell out of at least. As I neared them, another Breaker materialized behind Yawm. Covered in a suit of hexagonal plates, the near translucent figure unsheathed a red blade. Sliding it down Yawm’s throat, the metal tore the bark skin of Yawm.
+
+Green blood burst from the wound, red residue from the blade wiping into it. Yawm reached back behind him, grabbing the assassin’s neck. Frode stopped running and turned towards them. He created a plume of black mana. Green energy coalesced into Yawm’s hand, and the warlord gurgled on his own blood, glee still in his voice,
+
+“Antimagic this.”
+
+Elessah pointed her staff towards Yawm, but I already closed in. With an explosive burst, I dipped into my health with a burst of gravity. The wave pulled the staff, jerking it towards Frode. A pillar of yellow light beamed down onto Frode, making him fall limp. His magic fell apart as he clunked against the dirt.
+
+Yawm pulled the assassin Breaker towards his other fist. In an instant, her helmet crushed open, revealing a mane of white hair and violet skin. Another remnant. At the same time, Yawm reared his fist back again, slamming his fist into her face once more. Her bottom jaw cleaved from her face, revealing her tongue and upper teeth.
+
+Yawm reached back again, but Brim tackled Yawm’s side. Yawm balanced himself, taking the charge with ease. Yawm dragged backwards towards a now refreshed Korga. Elessah had healed him yet again.
+
+Yawm reared back his fist once more, but Korga reached behind him. Korga wrapped his arm around the neck of Yawm, pulling him back just in time. Yawm’s fist still landed despite the loss of footing. Yawm’s glancing blow caved the assassin’s skull in, one eye hanging out of her squished skull. Frode dashed in, screaming in rage.
+
+As he did, I met his charge.
+
+Frode and I rolled onto the ground, but I ended up on top of him. I raised my fists, exerting overcharged runic strikes with each punch of my fist. A shield of mana protected Frode, blocking my precise, explosive strikes. With the mana protecting him, he opened his dimensional storage again.
+
+A memory flashed across my eyes. I remembered the limitations of the dimensional rings. Frode could only hold as much mass in the ring as his own mass. If he put in more than the mass he had, he would die.
+
+With desperation fueling me, I jabbed my arm into the night sky looking portal. My hand disintegrated then my forearm. As it did, all four of Frode’s limbs evaporated. Before I reached any deeper into the portal, something pierced into my neck with force. I whipped through the air like a puppet with no strings. My throat burned.
+
+I tumbled across the ground before standing up mid roll. I reached up towards my neck, touched it, then pulled my hand back. An arcane flame burned on my palm. I grabbed my wrist, jerking the armor over my hand off. The arcane flame covered strip of armor landed on the ground. It burned away.
+
+I got an idea of where the wound in my neck was. The arcane flame dug into my health, spreading fast. Before it did more damage, I drove my armor around the entire wound. Turning my armor thin and sharp, I cut through the flesh of my neck and lopped it off me.
+
+A three inch crater of burning neck landed on the ground beside me. An arcane flame ate away at it until only a metallic, empty round remained. I glanced up, breathing through a hole in my neck. A sniper did this.
+
+I covered my neck wound with my armor. In front of me, Frode writhed on the ground in agony. The enigmatta architect would bleed out soon without intervention. Korga battled it out with Yawm again, this time with Brim’s help. Yawm lashed out, keeping them at bay.
+
+Elessah landed near Frode, casting her healing magic on him again. As she did, I dashed towards her. She looked up towards me. Her head whipped around like she was rolling her eyes at a nuisance. She pointing her staff, casting the same yellow light on me. As the yellow hit me, exhaustion grew up my limbs.
+
+I stopped moving, but I stayed standing. Ellessah shouted in high pitched voice,
+
+“How in Schema’s name is a level 3,000 tanking my abyssal spell? What kind of build does it have?”
+
+I stepped forward, a tenth of my stamina draining. My feet were lead and my head heavy. The light evervated my body, enfeebling my mind. The mage didn’t know about my endurance though.
+
+With a stamina regen I’d long forgotten about, I took another step forward. Elessah stood up straight, cancelling her healing magic. As she did, the yellow beam’s strength augmented. My knees debilitated, turning like noodles. My hands shook like dry leaves in a roaring tempest. My eyelids turned to lead, heavier then in months.
+
+I heaved for breath, the edges of my vision blurring. I willed myself forward, but I didn’t even budge. All my effort was in standing. That was all I had in me. I could do no more. I demanded more from my body, but the stamina drain breached my limits. A sense of defeat washed over me as I stood there, useless as a pile of dirt.
+
+“Why won’t you fall...Why won’t you fall?!”
+
+Elessah’s ragged voice echoed across the booming impacts of battle. She reared back her staff, channeling more mana into her spell. The yellow light bathing me mixed with green and brown, turning sickly. My knees landed on the sidewalk beneath me. Elessah shouted,
+
+“Finally, he finally fell.”
+
+Something tore into my chest. I looked down. A small tunnel led through my chest, blood gushing out. Silver blood spurted out, drenching me with it. Even in my exhaustion, I curved my armor onto the wound. I glanced over at Yawm, confusion washing over me with the blood loss.
+
+He hadn’t beaten Korga or Brim yet. Cuts gashed up and down his sides. Korga and Brim are worse off. Yawm tore an ear and nose off of Korga. Brim regenerated his arms, but he shrank further. His suit sagged on him, and I dwarfed his height. Behind them, the caved in skull of the assassin covered in blue squares of light.
+
+The assassin lifted herself off the ground, scars tracing the remnant’s violet skin. She looked around, utter confusion spread across her face. A portion of her hair didn’t grow back from her revival. She slammed her hands into the ground and howled,
+
+“My revival...That motherfucker stole my revival!”
+
+Elessah shouted, “Don’t worry. We’re taking the revival of this monster too. Fair trade.”
+
+I glanced at my health. It was at 40%. I raised my head from the ground as my neck healed,
+
+“No, you’re not...Not yet at least...Keep up the pressure and maybe.”
+
+Elessah raised her other hand, channeling an arcane spell.
+
+“Be quiet. You’re not the reason we’re struggling, low level betrayer.”
+
+Even on the ground, that pissed me off. As she shot her spell forward, I dipped into my mana regen. With gravity, a chunk of pavement raised in front of me. The arcane magic destroyed the chunk, a wave of dust covering us. Using the explosion as a distraction, I condensed my weight. My mass crushed the dirt, digging me into the ground.
+
+Elessah raised her hands, “What is giving me this damn headache?”
+
+A bullet lodged into the ground, passing just over my head. I smirked. Even if my stamina was zero, I made a difference with magic and auras. Over the sound of impacts and struggle, Korga roared in his deep voice,
+
+“Use your magic on Yawm, you idiot. Why are you wasting it on that level 3,000 unknown when we’re fighting the world eater?”
+
+From above, the exhaustion ceased. Life force rushed into my bones, stamina flooding my system. At the edge of my senses, a few strings of mana connected with me. It felt just like the conduit between Althea and I.
+
+Between the heated combat, Yawm murmured under his breath, “Others are here now as well...A large group.”
+
+Yawm turned towards Korga, meeting his eye,
+
+“Did you bring an Army?”
+
+Korga squinted his eyes, his beard shifting, “And what, have them obliterated in a second? We’re not that moronic.”
+
+Yawm turned towards me. I layed on the ground, unable to move yet. Six seconds later, and my stamina passed the 10% mark. I pushed myself off the ground, shrugging towards Yawm.
+
+Yawm sighed, “Then I’ll bring my own army as well.”

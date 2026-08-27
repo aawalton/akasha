@@ -1,0 +1,209 @@
+---
+id: 012428c1-7655-5903-9ff7-195fe49ccf80
+page-type-slug: story-chapter-royal-road
+title: "63 Makings of a Class"
+slug: 0020-63-makings-of-a-class
+partOf: the-new-world
+position: 20
+ownLength: 4710
+unit: words
+ownProgress: 4710
+publishedAt: 2017-10-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169390/63-makings-of-a-class"
+royalRoadId: "169390"
+markedReadAt: "2026-06-29T21:21:24.867Z"
+---
+
+I stomped the ground and activated oppression. High pitched screaming echoed out around me along with a hailstorm of hellfire. The trees wilted in seconds, turning to dust. The brushes and birds and bees disintegrated, exposure the to the aura killing them in an instant.
+
+Amidst the rain of blue bullets, I noticed something odd. Oppression was different, not quite like before. Controlling it was easier, like I didn't have to think about the intensity or range. Figuring out the difference would wait for later. The ascendant mana in my blood raged before they finished unloading their bullets. The blue gunk fell off my armor, hissing and steaming.
+
+Plumes of heat blurred the air before I grinned with my armor. They’d burned through a fourth of my health, but the bullets wouldn’t be able to outdo my regen. I turned around, glancing at them,
+
+“Looks like these bullets are designed to melt eldritch over time. Most of those monsters lack health regeneration from what I’ve seen. It’s a good strategy.”
+
+The bullets fell from my armor, clattering against the ground,
+
+“It’s just, I’m no eldritch. I’m something different altogether.”
+
+One of them stepped forward and swung a knife towards my throat. I ducked under the swing and stepped forward. Dragging my fist behind me, I launched an uppercut into his stomach. His armor held him together, but my telekinetic implants let me create a hole in his skin and armor. A thousand needles from my armor shot into his body as he flew away.
+
+His body split into pieces, first from the needles slicing him apart, then from the force of the blow. Blue blood splattered across the aliens and me, like smashing a smurf full of blueberry cobbler. A blade scraped against my back, so I unleashed a torrent of spikes behind me.
+
+It wasn’t as difficult to mold my armor as I remembered it being. The swords of armor skewered the alien before two other FearFighters tried reloading clips into their guns. I pushed my two hands together, creating two telekinetic fields to smash their heads together. As their skulls slammed in front of me, my hands clapped with enough force to generate a shockwave.
+
+Their heads crunched before the wave passed through them. They fell to the ground, the electrical joints and gear short circuiting. I turned around, finding three other members left. One of them sprinted away, the other two starting up their jetpacks.
+
+I stepped forward, reaching out and clasping with my hand. A telekinetic tether formed between me and the guy running away. I pulled him towards one the guys jetpacking away, slamming them together. The jetpack member careened off course before slamming into a tree trunk in the distance. His body crumbled under the force of his propulsion.
+
+I charged towards the falling guard as that happened, reaching him before tackling him to the ground. His body popped underneath me, blood splattering once more. As the final scout escaped with his jetpack, I decapitated the head of the guard beneath me by wrenching it off.
+
+The ascendant mana flowed in a torrent as I launched the skull towards the fellow guard. The skull collided with his jetpack, destabilizing his line of flight. He flew in circles before slamming into the ground and exploding. These members were so poorly trained it was almost comical.
+
+Killing them still presented a problem however. I didn’t want the FearFighters or whatever else to be an enemy. Hiding the bodies became a priority. I walked over and picked up a chunk of a body before sighing at the gruesome work.
+
+Like a living nightmare, the arm in my hand melted into my armor over a few seconds. I stumbled backwards before landing in a pile of mush behind me. My armor soaked in the corpse, sending a chill down my spine. I lifted my hand, staring at it. The armor shook, pulsing with hunger. I frowned. Up till now, I never absorbed the corpses of normal people. It was always some variant of eldritch.
+
+I didn’t even think it could eat the corpses of normal people. It horrified me, almost like a diluted version of cannibalism. It did present a convenient solution towards my current conundrum, however. I didn’t know if killing like this left evidence of who I was behind. If they figured out, I wouldn’t be able to know what kind of problems it could cause further down the line.
+
+So with my teeth grit, I walked around and cleaned up the corpses. After that, I tested oppression once more. It was like summoning a force from me, not quite like mana or moving an arm, but it was in the same vein. I hadn’t been able to use it before because I was unaware of it, like having a hidden talent and never knowing about it.
+
+Oppression’s range fluctuated bit, allowing me to change the shape of the aura. It had always been unleashed in a growing sphere, but now I could alter that shape. After a few minutes of trying out different things, I discovered an ability to condense the aura. As I did so, I opened my menu screen and checked out oppression to see what had changed.
+
+The Charging Calamity - Gives unique ability IV Oppression | Current Damage: (15,000 + 48% of health/min) within a maximum of a 240 ft/73 m radius. Counts as physical damage to enemies and allies.
+
+The range and scaling of oppression had increased, by 20%. The reason clicked in an instant; it was cosmic soul. The tree had given me the ability to handle oppression with greater ease. I molded my armor once more, stretching the tips of my fingers into long blades. Stretching them out was simpler and easier than before. Cosmic soul helped with the abilities that my armor granted me.
+
+I shut oppression down before running through the forest again, lost in thought. I still searched for a deer as I pondered what my armor was. From what I could tell, and from what cosmic soul told me, my armor was just a change in my soul. If I controlled my soul better, then I could wield the abilities my armor gave me better as well.
+
+Suddenly cosmic soul was an exciting prospect. My armor’s abilities were already very powerful. Making them stronger may make them overwhelming. I’d discuss it with Torix when I got back, but first things first. I had a deer to kill. I wasn’t about to let this fifteen-minute fight get in the way of the two hours I’d put into making the lunch happen.
+
+So I dashed through the forest, keeping closer to the town. There may be more of those scouts around, though they were likely a group testing to see how hostile the environment was. I wasn’t going to take that risk though.
+
+One thing I learned from all my near-death situations is that most battles take place before you meet in person. More important than raw power was the circumstances surrounding the fight, the time put into practicing, the raw effort to line things up in your favor. All those factors made a bigger difference than level.
+
+Yawm and his followers had forgotten that. I already vowed I’d take full advantage of that weakness.
+
+First came deer though. I found another wilderness trail, this one littered with bits of brown and white hair. Tiny signs showed themselves to me, but I could distinguish them. They became more and more prevalent once I homed in on a scent of a deer this time. I would rely on my sense of smell this time instead of sight.
+
+My change in tactics helped me this time. A deer glanced at me in the distance before darting away. I out sped it, tearing through the briar brambles and underbrush. It kept weaving around obstacles, but I tore through them. This cut down on my travel time, letting me reach it in seconds. Once I reached it, I used telekinesis to snap its neck.
+
+The deer’s legs dug into the ground, still trying to escape me. With the central nervous system severed, it could no longer make a coherent escape. Seconds later, it ceased movement. I reached lunging onto one knee and giving it a quick thank you. This wasn’t like killing an eldritch. The deer meant me no harm, so I tried being grateful.
+
+I’m not the most spiritual guy, so it wasn’t long before I went to gutting the deer. I tore out two bits of my armor, making them into hooks. I attached them to the tree, and I hung the deer by its feet. I sliced a cut down its belly and field dressed the organs. After clearing out the innards and taking care with the nastier ones, I dug a deep hole and buried the organs. Otherwise, a bear would smell them and come running.
+
+After that, I slit the deer’s throat, letting the blood drain out of it. Using a bit of telekinesis, I squeezed it from toe to head, speeding up the draining process. Once the blood no longer dripped from the deer’s throat in excess, I left a marker on my minimap for its location.
+
+I was aging the venison, letting the muscles cool down and relax. If you didn’t do this to wild game, the meat would be harder to chew than strips of leather. Any excess blood dripped out during the process as well, making the meat taste less gamey. Considering how much meat there was to be had, this was the least amount of effort required for it.
+
+Optimally, I’d rather wait a day or two before cutting into the meat. This would do well enough though. With that handled, I left out towards our current encampment. As I passed through the trees, there was a chill in the air. It was the first inklings of a cold fall coming. Glancing up, a few trees changed in color, the green leaved turning orange and red.
+
+Winter was coming. Time was passing. Yawm wouldn’t be stuck for much longer, and the knowledge of his eventual resurgence hung around my neck like a noose. By the time I reached the encampment, I calmed my anxiety. I could do this, no, I would do this. Using the rift’s time sink would help as well, letting us make up for any lost time. Enjoying a few meals with someone wasn’t a cardinal sin after all.
+
+With that in mind, I paced back up into torix’s home. My telekinetic pads kept my from breaking the house down before I reached him again. He still sat and dissected and insect, jotting down messy notes into a journal beside him.
+
+I stepped in front of him and waved. He glanced up, setting down his knife,
+
+“Ah, you’re back. To what do I owe the pleasure?”
+
+I shrugged, “I met some scouts out in the surrounding forest. I ended up uh, taking a few out.”
+
+Torix nodded, “Did you catch what they were called?”
+
+“The FearFighters.”
+
+Torix nodded, “Ah, a bit more militant than the steel legion, though far less widespread. You dispatched with the bodies?”
+
+I nodded. Torix continued, “Then it should be fine. They aren’t the worst enemy to have on a galactic scale regardless. The real question is why they are here.”
+
+I shrugged, “Seemed like they weren’t here to take over or anything crazy. The scouts were pretty weak honestly.”
+
+Torix frowned, “Then they’re likely protecting a group of non-combatants. Why non-combatants would land here is beyond me, but they will likely reveal themselves soon.”
+
+I nodded, walking back outside, “Who knows. Maybe they’ll help us against Yawm.”
+
+Torix shook his head, “I doubt it. It’s much more likely that they’re here for research of some kind. Either that, or maybe it’s a group of bounty hunters looking to gather research specimens. Althea was one of those bounty hunters once upon a time after all.”
+
+I shrugged, “Time will tell. Before I go, have you ever heard of a class?”
+
+Torix rolled his eyes, "Back to myths and legends again I see. Yes, I have heard of classes before. Only bits and peices in old texts. Nothing substantial." He turned back to his note, "Good hunting, Daniel.”
+
+Once again, Torix blew off any discussion about the topic. If I wanted to learn anything, I'd have to learn it on my own. I made a mental note of it after leaving him. With those thoughts in my head, I went back out towards the forest. Figuring out how to control oppression and my armor had become my weekly goal. I’d focus on training them, honing them down till I could wield them effectively in combat.
+
+So after reaching a hundred feet into the forest surrounding Springfield, I reached out with oppression. Up till now, controlling the distance of it correlated with intensity. If I wanted the full force of oppression, then I needed to move it out to the full distance. Now I could control the intensity without having to increase the distance as much.
+
+The scaling had improved some as well, making the ability better overall. After molding my armor for a few more minutes, I opened up my current skillset. One of my newer skills was called Gorger of Mana, a skill used to drain enemies of their energy and essence. I used the skill with my telekinetic enhancements, allowing me to shoot needles inside someone’s body.
+
+The telekinises let me pierce someone’s skin or armor. The Gorger of Mana skill allowed me to spread the needles. Pulling out my fist once the needles were in ripped the opponent’s insides out. Ever since Boundless Storm, this had been the most development my style has gained. I didn’t have to change how I fought. It simply made my fighting better.
+
+What made Gorger of Mana such an interesting skill, however, wasn’t how it interacted with my telekinesis. It was how it was a unique skill already. Way back in Baldag-Ruhl’s cave, I’d gained a skill called Dreadnought Brute. It allowed me to fight one on one with one of the red bears. The skill was made by combining five other simple skills into a single kind of combat.
+
+Gorger of Mana was made without combining any skills. I learned it all at once. Any mythical skill required three unique skills to make. If I could get several other unique skills, I could make another mythical skill on par with Boundless Storm. From what I could gather from the level 1000 perks for endurance, I may be able to combine three, maybe five mythical skills into a legendary skill. Even though I researched on my obelisk a bit about them, there was nothing on them, so I couldn't tell much about them.
+
+In other words, I would have to figure out all that shit on my own about legendary skills and classes. Even Kessiah and Torix didn’t have one of those, so I set that as my goal. Hopefully, having a class or legendary skill in conjuction with a level higher than 2000 would be enough to kill a follower or two of Yawm. Either of those goals would take months, maybe years. Figuring out would be tough to tell.
+
+Considering Boundless Storm was more of an innate fighting style of my own, developing other mythical skills would be tough. I had to find some sort of direction for them, otherwise I’d never be able to get them.
+
+With that in mind, I planned out a few mythical skills that likely existed. The first was a runic warrior kind of one. Carving runes, using the language, channeling mana through them, and even crafting gear for other people could make a mythical skill. It would be something like a blacksmith and runic mage kind of thing.
+
+Another likely mythical skill would be a gravitational mage. My ascendant mana gave me a powerful difference from most mages. It was already a unique skill all on its own. If I could combine that with gravity magic and my telekinesis magic, I could make a mythical skill out of that too. Up till now, these two other mythical skills would give me a total of three mythical skills.
+
+Why would I care for so many mythical skills? Well, so far the hierarchy of skills worked like a pyramid with five normal skills for a unique skill then three unique skills for a mythical one. It only made sense that a class would be made of several mythical skills, hopefully only three. It might require a legendary skill as well. Hard to say. What I did know was that these new abilities with controlling my armor and oppression opened up the gateway for finding one of those new mythical skills.
+
+If I could gain a few more mythical skills after that, then maybe I could gain a class. Fighting off Yawm may not be so impossible after that. Getting Althea at least a mythical skill would be huge for us as well. In fact, making her a rifle from my armor would be a boost to her power. Bolts from my armor would be massive gain as well.
+
+The metal of my armor was much harder than bone after all. Combine that with a few runic carvings, and I could give Althea a massive boost in power. That tied perfectly into developing the runic warrior skills I needed as well.
+
+I didn’t want her leaning on me like a crutch though, so I’d show her how to make them on her own. It ensured I wouldn’t have to get into the habit of making her equipment over and over. She didn’t take as much damage as I did during fights though, so she wouldn’t need replacements as often. Getting Kessiah to tear strips out of my armor would help as well.
+
+With that in mind, I headed out towards the encampment, leaving a patch of dead trees and wildlife behind in my wake. Once I neared the encampment, the sun already set a while back. I reached the central crafting area and began my work.
+
+Configuring a rifle would be difficult without a reference, but the steel legion had a few in stock. They call harpoon cannons by the name equalizers. After researching them in Schema’s logs, I figured out why. Versus armored targets and vehicles, the piercing rounds were hyper effective. They operated much like rpg’s did before schema came in.
+
+The inner barrel was set with a set of spiraled grooves. When the bolt passed through the barrel, this made the bullet spin. Behind the rifle, a giant block of iron was placed. Whenever the cannon was fired, the block of iron would absorb most of the force generated by firing the weapon. In other words, it acted as a momentum sink.
+
+This stopped the rifle from dislocating the shoulders of soldiers. Althea didn’t need one anymore since she’d become so strong. That made the assembly much easier. Outside of that, the ammo compartment was oversized to handle harpoons instead of bullets. Every part of the weapon was made thicker as well, allowing it to handle the extreme forces generated.
+
+All in all, it would be a serious pain in the ass to build. With that in mind, I got to work. The moving parts were the most important aspect, since they handled most of the shock of firing. Althea could grow her arm into the weapon with her abilities, letting her compensate some of the structure of the weapon. It would feel more natural that way as well
+
+Adjusting the way the gun was built would be the starting point for that. I began a blueprint in my head, conceptualizing the key differences needed. First, I decided on removing he trigger. There wasn’t a need for it since Althea would grow into the rifle. Second, I added a bayonet on the barrel. Adding a grip on the side of the barrel would help with hip fire as well instead of putting the grip below the rifle.
+
+These differences would make the rifle lighter, easier to handle, and give Althea a few options for close combat. With that handled, I began production. Of course I could tear out a piece of armor and blacksmith it into shape. I could work the metal and make it into an excellent piece of gear with hours and hours of effort.
+
+Fuck that. I had better things to do. Instead, I expanded my armor into the shape I needed. I began with the barrel, being the easiest piece to conceptualize. I stretched the barrel from my palm, growing it over the course of fifteen minutes. It took time to keep the barrel straight and smooth. I ended up having to try several times.
+
+Once I got the hang of it, I made the barrel about two meters long. By then, I strained to keep the armor in form. I reached up with my other hand and pulsed my ascendant mana through it. Strength surged into the limb, enhancing my slicing strike. My armor cut through the barrel, a clean-cut forming. From there, I needed a few tools.
+
+First was sandpaper made with bits of diamond instead of sand. Sand wasn’t hard enough. The steel legion had the daimond paper on hand though. It turns out that tiny pieces of diamond are a lot easier to get than big ones. Especially when they’re artificial.
+
+Then the grind started. I ground out the imperfections, smoothing the inner lining of the barrel. It was hard, requiring some serious finesse. I needed to grow my finger and hand to comical proportions to reach deeper into the barrel. It was perfect for learning precision control with the armor.
+
+What followed made that look like child’s play. I carved out the inner spirals of the barrel. That itself wasn’t the hard part. I brainstormed for a bit, and I found out a phrase or two that would help the bullets drill more. It would reduce friction and contact with the barrel as well.
+
+With ascendant mana pouring into my arm, I cut into the barrel’s inside. The simple inscription changed from a simple process into an undertaking. Hours passed, and sweat beaded off my forehead as I etched the patterns into the spiral barrel.
+
+The passage was a combination of two runes. One represented ease, flow, and taking the path of least resistance. The other rune symbolized motion, change, and movement. They melded into the incarnation of fluidity, like a river turning a jagged stone smooth. It was the perfect combination of runes for enchanting the bolts.
+
+As I finished the inside of the barrel, the sun rose. Althea and I wouldn’t have lunch until midday, so I ate a ration from Torix before continuing my carving. On the outer portion of the barrel, I carved another combination of runes.
+
+The first rune represented stability. It was like the surface of the moon, always facing earth with an unchanging surface. The next rune was far more intricate, representing the power of finality. Locked within the symbol was the enormity of a supernova and the glory of a good death. These runes came into a message like the reaper whispering in your ear.
+
+It chilled my spine a bit staring at the barrel. It looked more like an artifact of great power, like the flute of a god with all its intricate detail. Glancing at it, I couldn’t help but smile with satisfaction. There really wasn’t another word to describe it. It was exquisite, like glancing at a painting infused with history.
+
+The power of the runic language pulsed through the barrel as I charged it. By the time I finished charging it, the might of the runes glowed. After slicing into one of my fingers, I sealed the power into the barrel. With the sun hovering midway over my head, it was time for the lunch with Althea.
+
+I headed back towards my tent, setting the barrel inside it. After that, I ran back towards the forest and got the deer. No bear crawled off with it, so I counted my blessings before flaying it. Once the skin was ripped off, I sliced meat from the deer in long chunks. The muscle cooled and relaxed a few hours ago, letting it fall off the bone.
+
+Either that, or the density that constitution gave made the meat seem soft. It was good enough for me. I packed the meat into the skin before slinging it over my back. I left the rest of the deer for scavenging animals.
+
+With the meat in hand, I headed back to camp. After picking up my grocery cart full of packing supplies, I walked on over towards Althea’s tent. As I walked, something fell over my eyes. It was my hair. It had grown in length, reaching well below my ears and down to my neck. By the time I reached Althea’s tent, the sensation of my hair surrounding my head infuriated me.
+
+I didn’t have time for it though. Once I reached Althea’s tent, I knocked on the side of it. No noise came out. I frowned, knocking once more. A quick groan ebbed from the tent before Althea snapped,
+
+“Who is it?”
+
+“Daniel.”
+
+“Oh shit.”
+
+The sound of fumbling feet and clothes being put on rumbled from within the tent. A minute later, her voice muffled through the tent,
+
+“Uh, can you come back in like, ten minutes?”
+
+I sighed before setting the shopping cart onto the ground along with the deer skin and meat. It was a weird sensation, waiting on someone. I could be doing something productive instead. That’s when I remembered my hair.
+
+I figured I could cut it while I waited. I walked a few blocks away, finding a house with a mirror in it. Almost any house has one, so it wasn’t hard to find. After peeling my helmet back and inspecting myself, I noticed a few changes.
+
+First off, I was way taller. I had to lean over to get a good view of the mirror. Even when I walked through the house, I had to duck beneath doorways. Otherwise, I’d bump into them. Well, probably crush through them, but you get the point.
+
+Besides for that, a bit of stubble had formed on my cheeks. Hell, I always wanted a bit of beard. This wasn’t the kind of stubble a forty-year-old man had though. This was assuredly the kind of stubble you get at the cusp of manhood. It didn’t look good, so I made a razor with my armor and cut it off.
+
+Besides for the beard, my hair covered most of my face. My skin was straight up gray. A vibrant and alive sort of gray, but still gray. There was a scar running vertical down a lip I don’t remember having last time I looked. A couple other scars traced down my neck and face, most of them just small Knicks. Nothing to eye catching.
+
+My hair turned black too. It matched the gray skin at least. Grabbing a chunk of my hair, I cut it with a razor formed from my armor. After about ten minutes later, and I’d done a damn good job. It was close undercut, though not too edgy or anything. I just didn’t want to look like shit and have my hair out of my face and eyes. So far, mission accomplished.
+
+Glancing closer at the mirror, I didn’t look too shabby. Who knows. On a good day, with the right lighting, and with a sharp suit, I might even be handsome. Hard to do with the armor though. In the end, I still looked like an ashen warrior. Not the most welcoming sight.
+
+It would do though. I walked out of the house and went back towards Althea’s tent. I knocked on the entrance, and she made me wait another minute or two. I spent the time flipping stones with telekinesis. Interrupting my trance, Althea finally unzipped the tent, letting me in. Glancing inside, I could see what took Althea so long.
+
+She was…well…beautiful.

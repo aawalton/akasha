@@ -1,0 +1,165 @@
+---
+id: bdefdf6d-19c5-5919-8c53-2782b39196c6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 - Cow on Fire"
+slug: 0004-chapter-4-cow-on-fire
+partOf: sherly-the-most-virtuous-holy-cow
+position: 4
+ownLength: 2059
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525659/chapter-4-cow-on-fire"
+royalRoadId: "2525659"
+---
+
+Chapter 4 - Cow on Fire
+
+“Letters,” Sherly began, ignoring Ishuin’s challenge. If she had a choice, she would rather just be a normal human, so the elf’s point was already moot. She concentrated on her idea instead. “Do you think this would work?”
+
+[There’s no real way of knowing unless you can analyze the potion’s potency. Otherwise, I can run the number after you drink the potion.]
+
+“But Duis over there said it can keep my mana full even if I keep casting magic.”
+
+[You can’t trust everything people say, Sherly. Trusting them that it’s actually a potion, sure. Even I can tell that it has some mana-regenerating properties. How effective it actually is can range from extraordinary all the way to illusionary sales talk.]
+
+Sherly nodded to herself then opened her mouth, asking Ishuin to help her drink it. The elf only considered her options for just a few seconds, before pouring all the contents. Duis had both hands clutching his head, groaning his regret.
+
+Energy surged within Sherly. It began with a low thrum, like a mechanical engine revving up in a single gear as if it had no top speed. She could literally feel the mana overflow. A waste, for sure; her capacity was just too small. But this was exactly what she was looking for.
+
+[Well, color me impressed. I think this will work, Sherly. But you know the limits. You can’t risk any severe injuries.]
+
+“No problem,” she replied before turning to Ishuin. “I can help. I’ll absorb most of their attacks so you can focus on killing the leader. If it’s dead, it can’t resurrect the others, right?”
+
+“That’s right.” The elf nodded. She turned to her comrades who were standing by while also addressing those who were already fighting. “The white one is our ally and she’s willing to help! Provide her with some defensive enhancements. We’re aiming for the leader!”
+
+Almost immediately, wards and barriers surrounded Sherly. Hexagons, circles, squares, and runes. They came in all shapes and sizes.
+
+“You have all these defensive magic, and yet no one’s brave enough to be the frontliner?”
+
+“You have the wrong impression, Sherly,” Ishuin replied, looking ahead. “There is no glory in dying for a village that’s already lost. I will not have my people lose their lives in a place like this.”
+
+“Ah… I get it. I’m expendable.”
+
+“That’s the harsh truth, yes.” This time, Ishuin afforded Sherly a glance, a smile, and a challenge. “But I also think this is your best opportunity to prove to everyone that you’re not a demon. Hence, why I’m providing you with the best support we currently have.
+
+“If it’s possible, then we’ll take our chance. But we don’t really need to kill the leader,” she added. “We only need to buy enough time to get all the survivors out. And you only need to show us your determination. Also, take this with you.”
+
+“Take what?” Sherly blinked as she realized that her words come out not as moos, but as her actual voice. The voice that she was familiar with. The voice that she missed. “Oh, what the hell! I can talk now!”
+
+“Feels a little rude to be mentioning hell, when all I did was let you speak.” Ishuin shook her head disappointedly. “I can remove it if you want.”
+
+“No, please! Let me keep it!” Sherly begged. “It’s so hard not being able to talk.”
+
+“I bet. That should help you convince the others that you’re not with the demon-cattle. Since none of them can speak. This will only last for as long as you stay near me.”
+
+Sherly didn’t even consider the language at this point. She had already been talking to the lot of them the entire time. There was no need for her to backtrack and ask herself how it was possible.
+
+“Thank you.” Sherly looked towards the skirmish. Already there were many who were tired or injured, but there were no casualties yet. “Let’s go deal with these monsters.”
+
+Without awaiting further orders, Sherly dashed into the fray. She didn’t know the first thing about fighting. She didn’t know the first thing about self-defense. Sure, she had been to a few workshops that helped her learn a bit how to kick or how to punch, but none of that applied to her, now that she was a cow.
+
+But she had gained horns.
+
+Aaaaaaaah!!!
+
+Desperate and furious, Sherly lunged her horns at the closest demon-cattle she could find. She connected with one, piercing through the lower part of its belly. It felt like headbutting a wall, her entire momentum stopped by something far larger than her.
+
+She reeled backwards, feeling dizzy. But the concussion she got was quickly remedied by her Continuous Regeneration.
+
+The demon-cattle she attacked groaned in pain. In self-defense, it reared up in an attempt to stomp her.
+
+Sherly retaliated and drove her magically enforced horns into its stomach, forcing it off balance before it could even put its hooves down. The weight of the monster slammed on her, but the shields and barriers on her provided enough protection as she shoved the demon away. Rather than check if she had dealt a fatal blow, her eyes went around to assess the situation.
+
+Ishuin and the others had rallied behind her charge, providing reinforcement to those that had already engaged the demons. Kasta and the dog-zilim—who she didn’t know, Sherly realized—had been boxing a pack of demon-cattle. They were too preoccupied to notice the leader demon-bull focusing on them.
+
+With a roar, the demon unleashed a white fireball. Without hesitation, Sherly jumped towards the projectile’s trajectory. She had promised to be the shield, after all.
+
+The fireball exploded, causing the earth to shake as its white flame engulfed Sherly.
+
+The cow girl, however, simply blinked. Bathed in brilliant conflagration, Sherly stood valiantly. Her skin was burning, her hair too, and even her eyes felt like they were boiling. But she remained there, controlling all her instincts to roll around in pain, pushing them down with her sheer determination.
+
+The enchantment protections provided to her by Ishuin’s troops had long since dissolved. But her Continuous Regeneration kept her conscious. The Skill fought through the entirety of the fireball’s duration. And when the conflagration vanished, she was all that remained. Mostly intact, and healing.
+
+She looked around, the others were stunned at the fact that she was still alive. Even the demon-cattle paused. Sherly wondered if they knew she wasn’t on their side. Regardless, this was the perfect time for them to get momentum.
+
+She took a deep breath.
+
+“Aim for the leader!” she started. “I’ll shield you from all their flame attacks!”
+
+Of course, not everyone listened to her. But when Ishuin, Kasta, and the dog-zilim rallied towards her, eventually, so did the others. Even Duis, who was the most hesitant in the entire group of warriors, fell into formation.
+
+As if in response, the demon-cattle surrounded their leader, creating a barrier of cows and bulls.
+
+“That’s fine,” Ishuin shouted. “They’ll be easier to keep in one place that way.”
+
+Sherly wasn’t satisfied. She wanted to defeat the leader. Whether it was something as simple as to prove herself, or something as selfishly extravagant as to exact revenge for the poor people of this village, it didn’t really matter for the cow girl. It was something more primal. Something more personal.
+
+She didn’t like being so similar to these monsters.
+
+Urged by this unreasonable hate, Sherly charged, breaking formation. She didn’t care when Ishuin shouted for her to come back. She wanted blood.
+
+Sherly was smaller when compared to any of the demon-cattle. But she had momentum. And for one reason, or another, they were ignoring her.
+
+Because they think I’m one of them! The thought made her want to vomit. Fine! If you’re giving me a free shot, then I’ll take it!
+
+With a defiant, roaring moo, Sherly shoved her horns straight into a demon-cow’s neck. It roared and retaliated, now realizing what it had thought a smaller demon-cow wasn’t one of them.
+
+Sherly backed away from the stomp, only to be pierced in her side by a different demon-cattle’s horns. She screamed in pain, but held on, standing valiantly as she tried to gain ground against the bigger monster’s leverage.
+
+Suddenly, the opposing force slackened. At the same time, Sherly heard the crunching and squelching sound of bone and flesh being punched through from a well-placed arrow. The demon-cattle fell on the ground, lifeless. Almost immediately, the red shimmering aura surrounded it.
+
+Sherly had no time to react. A couple of demon-cattle roared in front of her. She recognized the gesture and braced herself. From her hooves, flames erupted and consumed her squat form.
+
+She endured. She held on. The force, the impact, the heat, the melting and regenerating of her flesh, she stood valiantly against all of them. The entire attention of the demonic herd was now on her. And they relentlessly tried to burn her alive.
+
+Sherly screamed. Just standing there, each explosion threatened to blast her away. But she held on, trusting that Ishuin might have something up her sleeve now that she got all of these demons’ attention.
+
+Seconds passed. Minutes.
+
+Hours?
+
+Sherly couldn’t tell the time. Her knees were shaking horribly. She couldn’t feel her mouth anymore. She couldn’t even see. Her eyes had probably melted and failed to regenerate on time.
+
+She could taste ash.
+
+She couldn’t hear a thing.
+
+But she felt the earth quake again.
+
+This time, she was sure she would be blasted away. But beyond all belief, she remained on the ground. At the very least, she could feel her legs still supporting her.
+
+For some unexplainable reason, the flames didn’t feel that hot anymore. Gradually, she couldn’t feel it anymore. Her eyes began to reform. Her tongue regenerated. Her skin, the muscle under it, and even the nerves within them.
+
+Sherly was standing in a great conflagration, renewed.
+
+“What?”
+
+Before Sherly could comprehend what she was reading, her attention returned to the demon-cattle in front of her. She couldn’t believe her eyes.
+
+There were less now.
+
+Underneath the demonic herd was a golden, magical circle. It was filled with runes and patterns Sherly couldn’t understand. But she saw the important thing; it was absorbing the red aura.
+
+She turned to find Ishuin cross-legged on the ground along with other people. Their hands in prayer form, their eyes closed. Others were surrounding them, guarding them. Kasta and a number of warriors were assassinating the demon-cattle from afar.
+
+All this, she knew, stemmed from her. Without her taking the demonic herd’s attention, Ishuin wouldn’t simply sit down and close her eyes. The others wouldn’t follow her. And the demons would keep resurrecting.
+
+Sherly found her confidence, her eyes trained on the leader.
+
+Whether the large demon-bull recognized that he was now alone or not, it didn’t matter. Sherly could feel his intent. She could feel his hate and desire to destroy.
+
+There was nothing resembling the animal anymore other than its physical appearance.
+
+Sherly roared and dashed straight for the demon-bull. In response, the monster did the same. Arrows pelted its tough skin, dropping like mere pebbles on a mountain. A single projectile pierced his skin by the neck, making him flinch.
+
+The cow girl didn’t miss her chance.
+
+With a jump, Sherly assaulted the demon-bull’s chest, digging in with both her horns, using as much force as she could. He toppled over, causing her to flip, but the cow girl didn’t lose her opening. With a rapid shuffling of her legs, she managed to jump back and bite the monster by the jugular.
+
+The demon-bull roared in pain, trying its best to find purchase with his legs, but to no avail. Sherly dragged him back to the golden circle, and chomped down as hard as she could. She sent occasional stomps on his face, whenever she found a chance.
+
+The monster was pinned, screaming in agony. His death was slow, but life eventually left the monster.
+
+Sherly couldn’t let go. Adrenaline had taken a number on her jaws, locking them in place. Eventually, her Continuous Regeneration fixed that issue, loosening them until they could open once more. But rather than let go, she ripped his throat apart.
+
+The demon-cow girl started to eat.

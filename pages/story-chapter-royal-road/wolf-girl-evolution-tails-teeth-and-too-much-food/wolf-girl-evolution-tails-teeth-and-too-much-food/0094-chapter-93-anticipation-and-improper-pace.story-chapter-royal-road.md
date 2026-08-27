@@ -1,0 +1,397 @@
+---
+id: 472af169-2488-58a7-b189-eaafb761f429
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93: Anticipation and Improper Pace"
+slug: 0094-chapter-93-anticipation-and-improper-pace
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 94
+ownLength: 1797
+unit: words
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2995957/chapter-93-anticipation-and-improper-pace"
+royalRoadId: "2995957"
+---
+
+PoV Luna
+
+It was preparation time!
+
+Which meant bags.
+
+And straps.
+
+Pouches… And other stuff!
+
+Humans really had too much stuff!
+
+Luna’s eyes spun just thinking about all the little trinkets she saw the adventurers move around.
+
+…What do those things even do?
+
+She stared. Hard!
+
+At the very specific shffk–thmp sounds of things being put where they belonged, taken out again, checked, adjusted, and then put back in slightly differently.
+
+And how every adventurer around seemed to have a different set of things and armor on them!
+
+…It did make for a colorful sight, and Luna kind of liked it.
+
+But the answers did not come to her!
+
+Her Maw opened, and she found herself biting into a skewer.
+
+Chew. Hm. Nom. Chew.
+
+Tasty, nice, convenient…
+
+Oh!
+
+Luna understands now.
+
+Humans just liked to have loads of stuff.
+
+Just like Luna liked to have snacks on hand!
+
+She nodded to herself.
+
+Sometimes Luna’s genius… It was almost frightening!
+
+Apex Predator worthy!
+
+Her skewer finished, fingers licked clean, her attention turned back to her party.
+
+A hop and bolt later, Luna stopped in place… only to hover nearby her friends! She gently rocked on her heels while watching Syl’s hands move.
+
+In. Out. Buckle. Loosen. Re-tighten. Fingers flicking between vials, cloth wraps, and small, important-looking containers.
+
+Second hands…
+
+Were very competent hands!
+
+They gave scritches! And made pretty magic too!
+
+“Thank you again for storing the herbs yesterday,” Syl said, mostly to the inside of her pack. “It saved me quite a bit of time.”
+
+Luna nodded automatically, even though she was only half-listening.
+
+Her eyes followed the motion instead. The way Syl’s fingers hesitated briefly over one pouch, then moved on. The way she frowned faintly, thoughtful.
+
+“I had hoped to make our potions myself,” Syl continued, almost idly. “But with the time constraint, that will have to wait. I’ll need to buy some instead.”
+
+Luna’s ears twitched.
+
+The pause in her Second’s voice caught up to her.
+
+Syl’s hands slowed just a little as she spoke. Most people likely wouldn’t even notice – but Luna did. The faint pause before a vial was set down. The way Syl exhaled through her nose instead of out of her mouth.
+
+That was a thinking pause!
+
+Luna froze.
+
+Her ears tilted back slightly, tail slowing as her attention snapped fully to her Second. The potions themselves stopped mattering immediately. What mattered was that Syl looked… not unhappy, exactly.
+
+But she could sniff a hint of upset and annoyance.
+
+Luna’s chest tightened.
+
+She stepped closer without realizing she had moved.
+
+“Second?” she asked softly.
+
+Syl glanced down at her.
+
+“Yes, Luna?”
+
+Luna hesitated, fingers curling into the hem of her sleeve. She searched Syl’s face, nose twitching as she tried to sort the smells – focus, urgency, a thin thread of frustration tucked underneath.
+
+“…Is that bad?” Luna asked. “That you can’t make them?”
+
+Syl blinked.
+
+Luna hurried on, words tumbling a little.
+
+“Luna can wait. Or help more! Or not be in the way. Luna doesn’t want Second sad.”
+
+For a heartbeat, Syl just looked at her.
+
+Then her shoulders eased.
+
+She reached out and rested a hand on Luna’s head, thumb brushing gently along her hairline.
+
+“It’s not bad,” Syl said softly. “Just inconvenient. And I’m not sad.”
+
+Luna watched her very closely.
+
+Sniffed again.
+
+“…Not even a little?” she asked.
+
+Syl smiled, faint but genuine.
+
+“Not even a little.”
+
+Luna relaxed all at once, tension draining from her posture. Her tail gave a cautious wag.
+
+She stayed still for a heartbeat longer… Then her shoulders dropped all at once and she pomfed into her Second with a hug.
+
+“Oh,” she said, relieved. “Okay then.”
+
+She nodded decisively.
+
+“Then Luna doesn’t care about potions either.”
+
+Syl laughed under her breath.
+
+And Luna leaned into the touch, satisfied that the important thing was no longer wrong.
+
+Second smelled… steady again, and even a little happy.
+
+Luna’s hug helped!
+
+Hehe.
+
+That was good.
+
+Very good!
+
+That meant Luna didn’t need to worry anymore.
+
+She let go of Second and straightened up, decision made.
+
+And followed Syl as she moved to the next pack, padding close at her side. Close enough to bump elbows, and make sure her friend was okay!
+
+Preparation continued. Straps tightened. Buckles checked. Vials shifted from one pouch to another. In the meantime Syliana even sent Ray to go buy some potions.
+
+He complied without question.
+
+Luna watched for a bit longer, mostly out of boredom now.
+
+Then curiosity crept back in.
+
+And curiosity was very persistent!
+
+“Second?” Luna asked, voice light again.
+
+“Yes, Luna?”
+
+Luna tilted her head, thinking carefully.
+
+“Are Ants tasty?”
+
+She asked it completely sincerely.
+
+It was important information!
+
+Really important!
+
+Syl answered automatically at first, attention still half on her preparations.
+
+“I suppose they might be. To some. Their exoskeletons are hard, and the insides would be… rather gloopy. One would also need to watch out for acid… And I have never heard of anyone eating them…”
+
+Her words slowed.
+
+Then stopped entirely.
+
+Syl stared ahead, expression tightening just a little as her mind replayed the sentence she had just spoken.
+
+Luna’s ears perked up at the new knowledge!
+
+“So crunchy on the outside,” she said thoughtfully, “and slurpy on the inside?”
+
+Syliana went very still.
+
+She saw it now.
+
+The logic.The trajectory.And the impending future.
+
+A future where Luna absolutely tried this.
+
+Her stomach turned… Because that was exactly how Luna decided on food things.
+
+“Second?” Luna asked, tilting her head, genuinely concerned now. “Why are you so pale? Is something bad again?”
+
+Syliana absently patted Luna.
+
+But decided to very carefully finish closing her pack instead of answering.
+
+Ray, who got back in the middle of this awoobsolutely tasty conversation and was watching from across the room since… made a quiet gesture of surrender and quickly left.
+
+Preparations continued.
+
+Though Syl might have been a little more sluggish now!
+
+***
+
+The meeting point for the expedition was full of people!
+
+Full!
+
+They were everywhere – standing in loose clusters, sitting on crates, leaning against wagons, checking straps, arguing about straps, rechecking straps they had just finished checking! Boots scuffed stone. Armor clinked and squeaked. Metal rang softly as weapons shifted.
+
+And everybody’s voices overlapped in a messy, constant hum that hit Luna like a physical thing.
+
+It was glorious!
+
+The noise crashed into her the moment she stepped into the space, and Luna grinned so hard her cheeks hurt. She spun once in place without thinking, tail flicking wide and dangerous as she tried to take in everything at once.
+
+So many Guild humans!
+
+In gear Luna had never seen before!
+
+And so many new smells too!
+
+Leather. Sweat. Oil. Fear-but-excited. Excited-but-trying-to-look-calm. And under it all, that sharp, electric edge of hunt coming.
+
+Luna loved it.
+
+Especially the last part!
+
+She bounced on her toes, barely containing herself, eyes darting everywhere at once.
+
+Guildmaster Ferric was off to one side, talking with a knot of adventurers. He stood straight and unusually serious, hands moving in short, controlled gestures. His stomach was big, but his posture was firm. Even his face was set like stone!
+
+Luna looked at him for a second.
+
+Sniffed.
+
+Important smell. Serious smell.
+
+Aha!
+
+He was doing Important Standing Around!
+
+That was another weird human thing! A very human thing. Probably involved rules. And words. And waiting!
+
+She nodded with sudden understanding.
+
+Humans… They liked waiting!
+
+Luna immediately stopped caring.
+
+Because–
+
+There!
+
+Her ears snapped forward.
+
+Across the gathering, she spotted her new friends!
+
+The Proper Humans!
+
+They were unmistakable! With glorious ears and pretty tails.
+
+But what made them stand out the most was not how they looked, nor even how loud they were – though they sometimes were very loud! – were their poses!
+
+They took wide stances! Squared shoulders. Arms folded just so! Flexed and extended! With expressions carefully balanced between confidence and theatrical menace.
+
+They were doing it again!
+
+The cool poses.
+
+Luna gasped, delighted.
+
+“Oh!”
+
+She did not hesitate!
+
+And immediately zoomed forward!
+
+A blur of motion carried her between people and crates, her path just barely avoiding knees, toes, and one startled man who yelped as she passed close enough to stir his cloak.
+
+Luna did not apologize even a little.
+
+She skidded to a stop in front of the fox beastkin just as he finished a dramatic flourish.
+
+“Hey!” he called out cheerfully. “If it isn’t little Luna!”
+
+“Hi Mister Fox!” Luna chirped.
+
+She beamed up at him, utterly confident. Because he was obviously a fox. And therefore Mister Fox. This was very sound logic.
+
+“Mister Fox?” he gasped, clutching at his chest as if struck. “You wound me! Truly! Didn’t I already tell you my name?”
+
+He staggered back half a step, striking a pose that suggested deep emotional pain and perhaps even imminent collapse.
+
+Luna paused.
+
+Looked at him.
+
+Tilted her head.
+
+Fake injury!
+
+No bleeding, or limping. And too much talking!
+
+Definitely fake.
+
+Not Luna’s problem!
+
+She was already past him.
+
+“Hello Mister Bull!” she announced happily, skidding to a stop in front of the massive, broad-shouldered man nearby.
+
+Her eyes shone as she looked him up and down. He was big. Thick arms. Wide chest. Heavy stance that looked like it could stop things just by being in the way.
+
+Much better!
+
+The bull beastkin chuckled, arms crossing comfortably.
+
+“Power Fluff Girl. Good to see you. Came to learn more poses?”
+
+“Yes!” Luna answered instantly.
+
+He shifted his stance, planting his feet wide and lowering his center of gravity.
+
+“This one here,” he said, demonstrating, “if you use it right – with proper weight, and right balance – it can do a lot of damage.”
+
+He flexed his massive arms, leaning closer.
+
+“And it looks cool.”
+
+“Oooh!”
+
+Luna nodded vigorously.
+
+And immediately tried to copy him!
+
+Badly.
+
+Her feet were a little wrongly placed. Her knees bent too much. Her tail wagged at the exact wrong moment and threw her off balance.
+
+She wobbled.
+
+“Woah–!” Luna laughed, windmilling her arms before catching herself.
+
+The bull adjusted her gently, one hand at her elbow, another nudging her foot.
+
+“Less sway. More weight.”
+
+She tried again.
+
+Better!
+
+They practiced a bit – him demonstrating, Luna imitating, correcting, tipping, laughing. A few nearby adventurers paused to watch. Someone clapped when Luna managed not to fall over.
+
+She stepped back at last, nodded once with great authority, and declared:
+
+“Good pose. Very hitty!”
+
+The bull laughed.
+
+The fox called out from behind them,
+
+“Oi! What about my poses?”
+
+Luna turned just enough to wave.
+
+“Too loud! And talky!” she replied cheerfully.
+
+“…Cruel,” he murmured. “Utterly cruel.”
+
+But Luna didn’t listen, her tail wagging with excitement.
+
+This place was excellent!
+
+Very excellent.
+
+The wait time wasn’t so bad after all!

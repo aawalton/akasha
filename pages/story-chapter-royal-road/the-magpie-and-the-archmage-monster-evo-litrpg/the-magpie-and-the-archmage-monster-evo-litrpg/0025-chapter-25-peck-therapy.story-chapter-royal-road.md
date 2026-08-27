@@ -1,0 +1,221 @@
+---
+id: c93c9565-170f-525a-883b-a737cfa1d2dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25 – Peck Therapy"
+slug: 0025-chapter-25-peck-therapy
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 25
+ownLength: 2088
+unit: words
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2619113/chapter-25-peck-therapy"
+royalRoadId: "2619113"
+---
+
+Liora didn't hesitate. She didn't falter. Not at first. The crying of children, the blood dripping down their faces, and the people desperately grovelling on the ground. These mages deserved to die. It would be an appropriate punishment.
+
+But as she dropped down like a grim reaper in bird form, a little voice spoke in her mind. Remnants of her past life whispered that if she did this, then she would be a murderer. It didn't matter if these people deserved it or not. If she killed these mages, then it would change who Liora was forever. There would be no going back.
+
+So at the very last moment, instead of hitting Walter in the head, Liora adjusted her trajectory ever so slightly and went for his arm instead. With her Air Dive at maximum power, his arm, which he was holding the boy with, snapped with an audible crack. Blood gushed from the wound where her beak had torn through the skin.
+
+"ARGHH!!" Walter screamed, falling to the ground and clutching his arm in pain. It had gone completely limp.
+
+Liora didn't give the mages time to realize what had happened. She Faded and attacked the healer woman next. Liora Pecked at her hand, forcing her to release the wand she had been holding and drop it to the ground. Then she flew towards Arvid, intending to disarm the young mage as well.
+
+But he was more vigilant than his two companions and erected a shimmering shield around himself.
+
+"What the hell?! Is that the same magpie?!" Beatrice howled, holding her bloody hand in pain and looking frantically around for her wand.
+
+Liora flew back up into the sky. Arvid tried to shoot icicles at her, but she was long out of range before any of them could hit her. Then she Faded and dove down again.
+
+"It disappeared!" Arvid gasped in shock.
+
+"Beatrice, heal me before I lose my fucking arm!" Walter howled.
+
+"How am I supposed to heal you without my wand?!" She retorted.
+
+As they argued, Liora Air Dove at Arvid, crashing into his shimmering shield. It held, but just barely. She could feel that a bit more force would break it. Before flying back up, she attacked Beatrice as she tried to reach her wand with a few nasty Pecks.
+
+The woman screeched and ran. Arvid tried to encase Liora in ice again, but with her Aerial Agility, dodging it was easy. She rose high in the air and Faded again, aiming for Arvid's shield.
+
+The mage scanned the sky nervously, but didn't see anything until it was too late. Liora struck his shield, and it finally broke. Like shattered glass, it dispersed into a thousand shimmering pieces and disappeared. Then she began to mercilessly pommel the mage with her Pecks.
+
+[Your skill <Peck> has reached [Adept] level.]
+
+He tried to cast something on her again, but she let out a hearty Buh-Rup, creating a shimmering electric field.
+
+[You've successfully mimicked the skill <Paralysis Croak>.]
+
+The mage seized up and fell to the ground convulsing from the electric shock. Liora struck his wand, breaking it clean in half. Then she gave him good Peck therapy. Not enough to kill, but enough to leave lasting bruises.
+
+"That… That bird is a demon! RUN!" Walter screamed like a girl and ran away as quickly as he could with his mangled arm.
+
+Arvid scampered to his feet as soon as the paralysis allowed him and followed after his two beaten companions.
+
+If you don't finish them off now, you might regret it later.
+
+I am not a murderer!
+
+That's a surprisingly human sentiment.
+
+I was a human once, you know.
+
+Wait… What?!
+
+Liora didn't listen to Renir anymore as the townspeople looked at her with a mixture of fear and awe. She blinked back at them, and for a while, nobody moved. It's like they were trying to decide whether to be afraid of her or not.
+
+"Chak-chak-chak?" She said, hoping to ease the tension.
+
+"The magpie saved me!" The purple-haired boy said in relief as his mother cradled him close.
+
+"It's the same magpie those scoundrels were abusing at night! We saved her this morning!" The oldest boy said loudly for all the people gathered to hear.
+
+"What did you do, boy?!" A burly man, likely his father, glared at the boy.
+
+"We snuck her out of their room. Christie carried her away and set her free," the boy explained.
+
+"Why would you all do something so dangerous?!" The mother of the purple-haired boy asked desperately, looking at her son.
+
+"But you all adults were saying that this magpie is a good sign. That she's brought good luck to our town. We didn't want these guys to kill her!" The purple-haired boy said, and the other children nodded in agreement.
+
+At that moment, Christie, followed by her mother, also joined the gathered crowd in front of the inn.
+
+"Oh, no… Everyone is hurt…" Christie said, tears welling up in her eyes.
+
+She's about to cry!
+
+Liora hurried over to Christie and gently nudged her cheek.
+
+"Chak-chak-chak!" Liora said. "It's okay. They're gone now."
+
+"W-What happened here?" Christie's mother asked. Then the townspeople began retelling the gruesome things the mages had been doing, while the children said how Liora was a hero who saved them all. They completely exaggerated how she had fought. One kid claimed she breathed fire.
+
+"B-But… How could a magpie do something like that?" One of the mothers asked fearfully, looking at Liora. She didn't like that look. She, along with other people, was looking at her… as if she were a monster.
+
+"There is absolutely nothing to fear, folks!" Dr. Reius suddenly emerged, looking as disheveled as ever. "This magpie has merely evolved."
+
+"Evolved?" People questioned.
+
+"Like a monster?"
+
+"Yes, like a monster, but I believe our magpie friend is completely unique! Unlike monsters, she has retained her high intelligence, which is characteristic of magpies. This—"
+
+Then the doctor went on a lengthy rant, which could be summed up as Liora was good, but monsters were bad. It was a bit suspicious how fervently he defended her.
+
+"So you're saying that this magpie will not hurt us?" One of the mothers asked.
+
+"No. Especially if you leave a bit of snack as an offering by your house," Dr. Reius said.
+
+"This magpie is a hero! She got rid of the bad mages all by herself," one of the children cheered, and soon, adults also joined in the cheers.
+
+"Chak-chak-chak!" Liora said. "That's right! I'm great. Praise me more!"
+
+Hey, birdbrain! You realize we can't stay here anymore.
+
+What?! It just got good.
+
+These people are just happy that the immediate threat is gone. Even if Dr. Know-it-all has his weird theories to defend you ready, it is only a matter of time before you'll be considered dangerous. Let's finish our training in the mountains, evolve, and leave. Besides, those goons could come back with more mages to aid them.
+
+Liora suppressed a sigh. She did a good thing and still couldn't enjoy it for long. But there was something she could enjoy. Like that wand that the mage woman had dropped. Her Treasure Sense was telling her that it was valuable. She swooped down and grabbed the wand, scaring a few people momentarily. Then she perched back on Christie's shoulder.
+
+"Do you like this stick?" Christie asked.
+
+"Chak-chak-cak!" Liora confirmed. "It's a nice stick!"
+
+It looked like the girl wanted to say something more, but shook her head instead. Perhaps she wanted to hear Liora talk, but she certainly wouldn't do that in front of all of these people. Thankfully, Christie didn't mention anything about it either.
+
+Once everyone had cleared up the situation and calmed down, the people dispersed to their homes to deal with their wounds. They would throw a feast tomorrow to celebrate the banishment of the mages and the overall improvement of the conditions in Sunvale. She certainly wouldn't say no to some extra morsel of food.
+
+Much to Christie's disappointment, Liora didn't stay at her home. After eating her fill of seeds and grain, she returned to the old watchtower. The place had been completely trashed. The mages had destroyed most of the staircase and the platform on the top where Liora had rested before. But she found a stable enough corner and perched there, tired from the day's event.
+
+Now what do I do with this?
+
+She assessed the wand from each side carefully. While she understood that it was valuable, she couldn't understand why.
+
+It feels like a dungeon item. Whose wand was it?
+
+It's from that woman who could use holy magic.
+
+You know, I found it odd that she could use such powerful Holy Light so easily. She didn't strike me as an experienced mage. I wrote it off that she had just been born with the natural aptitude for holy magic, but what if it's not the case?
+
+What you mean?
+
+Try mimicking Holy Light while holding that wand.
+
+Liora found the request odd, but Renir was the magic expert, so she obeyed. She fumbled the incantation the first time, receiving a nasty backlash. The second time, she was more careful, speaking the incantation slowly.
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+Liora aimed the light beam at a hole in the wall to avoid damaging the tower any further. However, the produced attack was much stronger than before, creating a hole that was twice its original size.
+
+What the?! It is much stronger now!
+
+I knew it! That wand amplifies holy magic.
+
+Such useful things exist?
+
+In dungeons, they do. This is perfect!
+
+Liora looked at the wand with newfound awe. To think that the woman had something so useful. If she had known, she would have snatched it away a long time ago.
+
+Perhaps now I could try clearing away that miasma and get to the treasure on top of the mountain.
+
+With this wand, it is entirely possible.
+
+Liora let out a victorious chak-chak-chak. Her only problem was that the wand was rather unwieldy in her talons. If only she could stuff it in her Inventory and keep it there.
+
+[Would you like to unlock your Inventory?]
+
+Oh, I can do that? Yes!
+
+[Use 50 glimmerstones to unlock Inventory?]
+
+Noooo!
+
+Liora…
+
+But that is so expensive!
+
+How do you intend to carry around all the treasures you find? Surely you don't intend to content yourself with just glimmerstones.
+
+Liora thought long and hard about it. Renir had a good point. The wand needed a safe place to be stored, and in the future, she would surely find more treasures. She didn't have a nest anymore, and it was unlikely that she would be able to settle down. Not until she got Renir out of his rocky prison. If it were even possible.
+
+No, a storage for her treasures was a must. Even if… Even if that meant spending glimmerstones. The thought nearly made her puke.
+
+Are you done being dramatic yet?
+
+Shut up, rock! Why did the System even suddenly allow me to unlock the Inventory? It wouldn't let me before.
+
+Probably because it has had enough time to integrate it into your being and make it compatible. A monster with an Inventory must have been something novel for it, but not so crazy that it wouldn't be able to adapt.
+
+Not a monster, but good for me! Now let's… let's get this over with.
+
+With a heavy heart, she commanded the System to unlock the Inventory. Liora could feel herself getting weaker as the glimmerstones disappeared from her storage. It was as if a good chunk of her feathers had been torn out. But with a single thought, she was able to stash the wand in her Inventory.
+
+Ask the System to show you the Inventory.
+
+Show Inventory.
+
+[Inventory]
+
+Renir's Gem x 1
+
+Holy Wand x 1
+
+Neat! It's there. Now I can hoard all the treasures! I'm definitely getting that thing hidden on top of the Blightpeak. First thing tomorrow!
+
+With that thought, she settled into her corner and began preening her feathers to relax. For a moment, everything was peaceful and quiet. But of course, with Renir around, things couldn't remain that way for long.
+
+Hey, Liora, could we talk about something?
+
+I'm busy.
+
+Preening?
+
+It is very important.
+
+Humor me for a second.
+
+Ugh, fine! What do you want?
+
+You said that you were a human before. Could you tell me more about that?

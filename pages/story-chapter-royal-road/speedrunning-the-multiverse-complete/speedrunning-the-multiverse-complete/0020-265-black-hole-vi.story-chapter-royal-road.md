@@ -1,0 +1,165 @@
+---
+id: eec12b7f-dee6-5655-a3f4-f5b8d5b5d0f5
+page-type-slug: story-chapter-royal-road
+title: "265. Black Hole (VI) "
+slug: 0020-265-black-hole-vi
+partOf: speedrunning-the-multiverse-complete
+position: 20
+ownLength: 1892
+unit: words
+ownProgress: 1892
+publishedAt: 2023-07-19
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1281777/265-black-hole-vi"
+royalRoadId: "1281777"
+markedReadAt: "2026-06-29T22:42:21.385Z"
+---
+
+An hour later in real-time, Dorian was fully healed and so was Gerard. Before they set off Gerard insisted on burying Pliny. Even crowned him with a gravestone—something neat and poetic about returning a centaur whose life work was fossils to the earth, an apt resting place.
+
+Dorian and Gerard Jr. stood by, incredulous. Dorian didn’t feel the centaur deserved shit. Gerard Jr. thought so too, by his increasingly irritated croaking. Dorian was pretty sure that little monster was even more vindictive than he was. After Gerard finished up, planting a sapling atop Pliny’s grave and bowing to it like a monk, Gerard Jr. strode up and took a piss on it.
+
+Gerard rapped him over the head with at with a tiny flyswatter for it, but the toad didn’t look very sorry.
+
+Then they were off to find Sun.
+
+A day’s journey later, they were back where they’d started, where they’d met Greenscale and Slickjaw and the rest. Their peaks were deserted. There wasn’t a dragon in sight, save for a blind wingless codger who tried to eat Dorian when he asked where the Resistance had gone.
+
+Sun had left nothing behind to indicate where she went.
+
+“Sire, perhaps junior can help,” said Gerard. “Yulwa Toads are magnificent creatures, as you well know. One of their many spectacular talents is a prodigious sense of smell. Junior—if you would?”
+
+The toad didn’t answer at first, still smarting over the swat. But Gerard won him over with some coaxing, some head rubs, and a glazed spider as a treat. He extended his fat lilypad tongue into the air, as though tasting it. Satisfied, he raised a leg and pointed.
+
+Dorian and Gerard exchanged a glance. Dorian shrugged. “Why not?”
+
+So Gerard Jr. clambered onto Gerard’s head and assumed the role of his hat. The toad pointed like weathervane, and they flew on.
+
+Hours passed, and still they found nought but empty peaks. They passed a mountain range caked in greenery with orchards bursting with fruit, but no one there to tend them. Dorian was worried something had happened to her until he visited a high lone peak, only to find an array formation sealing off the entrance. “YELLOWEYE IS OUT,” read a sign nailed haphazardly to the stone. Then, underneath, “LONG LIVE THE RESISTANCE!”
+
+“It seems she’s been busy in our absence,” murmured Gerard.
+
+Nearly half a day in, they came across a troupe of sprightly dragon Gods. They wore red sashes, and they all looked to be in great spirits—enjoying life a little too much for Dorian’s taste. He would’ve been on guard as they flew up to him, but they really didn’t seem the mugging type. They seemed more likely to get mugged, honestly, and by how irritatingly innocent and joyful their smiles were Dorian had half a mind to do it himself.
+
+Sighing, he reminded himself he was supposed to be one of the good guys now, and good guys were not allowed to have fun. Begrudgingly he forced down his more sinister instincts. How Fate managed the good guy act all the time he’d never know. Dorian’s own good guy phase had only lasted right up until he’d first hit Godking, and it’d been an exhausting thousand-odd years.
+
+“Sir!” squeaked the dragon at the lead. He brandished a pamphlet at Dorian. No words, curiously—all pictures. “Sir! This humble one is called Squashednose for reasons that, er, ought to be fairly obvious. Do you have a spare moment?”
+
+“No,” said Dorian.
+
+“Oh…” said Squashednose, head drooping. His neck was so long it took a few seconds. “Was I too forward? I’m sorry, sir. I’m kind of new at this—I’m still learning…”
+
+“You were well within the bounds of etiquette, mister Nose. Please pardon my master,” said Gerard gently, stepping up. “I fear he is terminally antisocial. What is it?”
+
+Squashednose brightened. “Oh! Excellent! Sir! Have you wondered why so many peaks lay empty?”
+
+“I have, in fact.”
+
+“There is a great movement sweeping all of the dragon realm, as we speak, sir! We common folk are tired of crawling under the shadow of the oppressive elites of Mt. Tai—and we’ve decided to give them a peace of our minds! Many pieces of many minds, in fact!”
+
+“Hear, hear!” crowed the dragons behind him.
+
+“It’s all outlined very helpfully in this pamphlet, sir,” said Squashednose. He opened it up to the first page. “At first no-one believed we, the common folk, could rise against such a powerful foe. But under the leadership of the greatest military mind of our age—Supreme Leader Sun Wukong—we have routed every force they’ve sent to destroy us! We’ve beaten back their Empyreans.”
+
+Here pointed to what looked to be a child’s sketch of a dragon with crosses over its eyes. “We’ve broken their Godcannons and felled their warships!”
+
+Yet more doodling. “And with each victory our numbers have only grown!”
+
+“Hear, hear!” crowed the dragons.
+
+“Impressive,” said Gerard.
+
+“Thank you! Do you like the pamphlet? I made it myself, with some notes from the Supreme Leader,” said Squashednose. His little crew weren’t full grown—Second or Third Form at best, Dorian guessed. They had the starry-eyed look of new recruits, the type that liked the idea of fighting for a cause without thinking much about what it’d actual entail. He suspected they just liked being part of something.
+
+“And how many fighters have you amassed?” asked Gerard.
+
+“Almost two hundred, sir!”
+
+“If memory serves, that’s about three-quarters of the realm,” muttered Gerard. “She’s managed this in just three days?”
+
+Dorian was only mildly surprised. Whenever Sun got her mind off food (unlikely) and crippling self-doubt (which she’d gotten a lot better at of late) she could be a terrifying force. If she could string together a solid century or so of unbridled megalomania—in other words, just be a normal cultivator like the rest of them—she could probably be ruler of the Multiverse.
+
+“We’ve all been chafing at Jez’s rule for ages,” piped up a dragon in the back. “We just needed, a spark. Like… we’re dry straw, or something. And she made the sparks.”
+
+He looked to Squashednose. “Did… did that make any sense?”
+
+“I think you made plenty of sense, comrade Thickskull! Great job.”
+
+Thickskull beamed. “Aww. Thanks, chief.”
+
+Dorian cleared his throat. “So! What are you meant to be? Infantry?”
+
+He dearly hoped not. Sun might’ve gotten a lot of folk to join, but if this was their quality they might as well trade those red sashes for white flags.
+
+“Oh, Heavens no. We’re just recruiters, see. Our mothers said we’re too young to fight. The soldiers are far off,” said Squashednose. “They’re about to assault Lockjaw Fortress right about now, right as we speak, actually! After we’re through with that… well, there’s only Mt. Tai left. So we’re out here recruiting for brave folk who’ll join us on the final push! To a free dragon-realm!”
+
+“Hear, hear!” cried the dragons behind.
+
+A thin, sickly-looking dragon with a head too big for its body waddled over and whispered something in the lead dragon’s ear. The lead dragon gave a start.
+
+“Oh! I forgot to mention the most important part of the pitch! Pardon me—it’s my first day on the job, see. Err—” Squashednose squinted down at his pamphlet. “Military mind… routing foes… recruits so far… Mt. Tai…ah! Here it is. If you, dear listener, are still unsure, Supreme General Wukong hears you! She knows it’s a daunting ask to go up against Mt. Tai itself—what with Scraggletooth up there and all. Despicable villain he might be, but he is still a Godking. But fear not! For the Resistance has an ace! A trump card! A…” Squashednose seemed to be struggling for a third synonym. “A…”
+
+“Secret weapon?” offered a dragon in the back.
+
+“Yes! That. Thank you.”
+
+Squashednose pointed to a sketch on the last page. There was a mountain for scale—and next to it, towering over it, a giant horned dragon with smoking eyes, giant batlike wings, and a tail brimming with spikes. Tiny dragons cowered around it.
+
+“They say he’s taller than the tallest mountains—that just standing upright he towers over Mt. Tai!”
+
+“Woah…” said the crew.
+
+“They say he’s as powerful as ten thousand dragons! They say he’s never lost a duel!”
+
+“Woah…” said the crew.
+
+“They say he’s the Supreme Leader’s personal mount! That she’s ridden him into battle, and slain a Godking!”
+
+“Woah!” said the crew.
+
+Dorian’s eye twitched. This had better not be who I think it is.
+
+“Dragons tremble before him. The Heavens dare not defy him! His name…”
+
+“…is Dorian?” said Dorian.
+
+Squashednose blinked at him. “How’d you know?”
+
+Dorian pinched the bridge of his nose and sighed. “I’m Dorian.”
+
+The whole troupe frowned at him. “No you’re not,” said Thickskull.
+
+Dorian wasn’t sure what he was supposed to say to that. “…Yes, I am.”
+
+“No,” said Thickskull stubbornly.
+
+“No offense, sir, but you don’t look very rideable,” said Squashednose.
+
+“I—never mind. My friends and I will join your cause. Can you take us to your  Supreme Leader?”
+
+“Hold on,” said Squashednose. “You’re—you’re really joining?”
+
+“That’s the idea.”
+
+Squashednose turned back to his crew, sniffling. “Comrades—we finally got one!”
+
+***
+
+Thickskull was dispatched to guide Dorian and Gerard to the rest of the Resistance, which was in the middle of assaulting Lockjaw Fortress. It was the last of Mt. Tai’s outposts across the realm, apparently, and it looked like Mt. Tai’s much less impressive little sibling. A mountaintop fortress, stone and bulky, squatting atop a peak of middling height. But it did have cannons mounted atop it, and array formations throwing up a forcefield.
+
+A swarm of Sun’s dragons a hundred strong, almost all Gods, were busy firing at the forcefield. It was dimming by the breath. Sun sat on a hill behind them, chewing on a leg of meat so huge she could barely hold the bone with both hands, looking very pleased with herself.
+
+The Fortress’s forces tried shooting them down with cannon fire, but there were simply too many to nail down. The forcefields soon failed.
+
+Then Fortress’s own forces responded. A dozen Empyreans, all decked out in plate, clasping giant swords and bows and spears, shot out to face the mob. Trailing them were a squadron of equally well-armored troops. Real troops, unlike Sun’s ragtag volunteers, and their quality soon showed.
+
+The Fortress troops rammed into Sun’s swarm, which scattered and burst apart. Retreating, screaming as they went. It only fueled the Fortress troops, which gave furious chase. Perhaps a little too furious.
+
+Sun dropped the leg and hopped to her feet. Waving frantically, mouth half-full, she shouted, “Now!”
+
+They Fortress troops had flown a few dozen strides from the Fortress by now. They had nowhere to retreat to as the cloud layer below them erupted with Techniques, and a dozen Empyreans of Sun’s own burst through and tore into their flanks.
+
+At the same time Sun’s seemingly scattered troops turned as one and blasted the baffled Fortress troops in the front. A nicely executed pincer maneuver that quickly put an end to the fighting. Then the army broke out in raucous celebration.
+
+“Long live the Supreme Leader!” went the chants. “Long live!”
+
+“It occurs to me that we are all very lucky her ambitions do not extend beyond her belly,” mused Gerard.

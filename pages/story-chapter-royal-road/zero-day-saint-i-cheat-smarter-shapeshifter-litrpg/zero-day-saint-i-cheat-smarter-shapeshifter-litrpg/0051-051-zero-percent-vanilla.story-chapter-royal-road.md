@@ -1,0 +1,241 @@
+---
+id: 85e02914-a9a8-5f8c-a2bd-a012cb332d8b
+page-type-slug: story-chapter-royal-road
+title: "051 - Zero Percent Vanilla"
+slug: 0051-051-zero-percent-vanilla
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 51
+ownLength: 1908
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3620444/051-zero-percent-vanilla"
+royalRoadId: "3620444"
+---
+
+After reading through ten options for my subclass, I got up. This wasn't a decision I'd make in a cramped tiny room in a couple of minutes. The list was down to a couple of favorites, but I had enough to process already.
+
+Besides, I was on a boat. I had never been on a boat.
+
+There was also a massive bandaid, waiting to be ripped off. I went over my notes once more before we left.
+
+Shifting Arcanist - No more ATP, everything becomes mana. Spells from all shapes in all shapes. Maximum nonsense, maximum flexibility. Gabriel hates casters.
+
+Luna's Chosen - Dramatic name. Makes every shape combat viable by allowing humanoid hybrid war beast shape. That shape comes with stronger instincts and they are mostly murder.
+
+Wyrmling Ascendant - I get to be a real dragon. It starts smol and weak and eats experience or loot to get stronger. Would be stupid if I didn't eventually become a freaking dragon.
+
+Apex Seeker - Ultimate anti-ambush tech. Boosts Heightened Senses, pierces supernatural concealment, and allows me to hunt for specific shapes.
+
+Faceless One - I already gave up on being human, why not give up on being anything at all. Specialized in various humanoid shapes and fluidly switching between them, borrowing advantages from each other.
+
+I left the cabin as my new, true, gold-and-black self. That'd take a while to get used to. Jamie followed behind me.
+
+I stopped. I was also starving.
+
+"Jamie, what's the nautical term for the kitchen?"
+
+"Galley?"
+
+"Yes, that. Is the galley where my breakfast is?"
+
+"It is like 4 p.m., Eve."
+
+"Show me the galley, please."
+
+Jamie pushed past me. "Follow me, milady."
+
+"Did you just milady me because of my outfit?"
+
+His steps paused for just a moment.
+
+"Maybe?" he replied sheepishly.
+
+I shook my head and followed him.
+
+Lucy snickered in my mind. "Look at Miss Seven-Charisma suddenly flustered when the boys do as they are told."
+
+I checked my Attributes. It was actually up to seven. I had assumed the fact that Certified Threat raised it by a full rank was a rounding error. But Living Calamity just raised it by another rank. Huh. Other buffs did not work that way.
+
+Since this boat was supposed to be a tourist attraction, the bedrooms were very small, but the shared rooms were a bit more spacious. From the direction we were going, something drifted over which I hadn't heard since I drove the U-Haul that carried my belongings to New York—music. Jazz to be specific.
+
+We entered what seemed to be the galley combined with the dining room. Only that half of the available surfaces of the kitchen area were covered with chemical utensils, including a bright-green substance that slowly boiled over the low flame of a Bunsen burner. There were stairs leading to the deck, which let bright sun and the scent of the coast drift in. Only Ash and Stephen were present, Ash scribbling in his book while Stephen was reading. A cookbook. I couldn't help but notice the French surname of the author.
+
+The music came from a record player in the room. On a shelf above it was a sizable collection of LPs.
+
+Both of them were entirely absorbed in their activities and didn't notice our entry.
+
+Before I could bring attention to myself, Lucy already manifested next to Ash, who shrieked in reaction.
+
+Lucy clasped him on the shoulder. "You wouldn't believe how I missed you, smarty-pants. But there is something you might want to pay attention to." They nodded in my direction. Ash's head slowly peeled away from Lucy, still wearing that dress, to me.
+
+Stephen had also caught on by now.
+
+"Eve?" they both asked in unison.
+
+"Tada," I said, doing a little twirl. "Witness: the new me."
+
+"That's one hell of an outfit," Stephen said. "What shape is that?"
+
+I took a deep breath.
+
+"Not a shape. Literally me. This is me now. I still got Human-Eve as a shape now. The outfit just came with suddenly being cool, or something."
+
+"Wait. This is not something you shift into? But you can shift into being a human again?" Ash asked.
+
+"Exactly. Which also breaks a ton of rules of how this used to work. My human shape has all the attributes I pumped in there but now gets all the bonuses of my shifted shapes. It is firmly in superhero territory."
+
+Stephen was the first of them to put his book down. He got up and walked over. He extended his fist and I bumped it.
+
+"Never had a moment of doubt, Eve."
+
+This also got Ash to scramble up. He looked up at me. I had already been a bit taller than him before.
+
+"May I hug you? We were all really worried."
+
+I didn't reply and instead pulled him into a hug. My tail instinctively curled around his legs.
+
+"Missed you guys, too," I said.
+
+I pulled away first.
+
+"I'm not gonna lie. Those last days were a living nightmare. Pretty sure they'll leave scars. I might malfunction from time to time."
+
+Jamie put a hand on my shoulder.
+
+"When it happens, we'll be around to help you out."
+
+"If I'm not on another solo trip."
+
+"You've made your point and solo'd one of them. Not going to leave any for the rest of us?"
+
+"I have annihilated greed. I will not hoard kills. On the contrary, next time we go out we can start powerleveling y'all."
+
+Ash looked up at me again. He was about to ask something but I stopped him with an outstretched claw.
+
+"Before we continue this discussion. Where is a mirror? I'm realizing I'm having a bit of an identity crisis by not knowing what my face looks like."
+
+"First door on the left," Stephen said.
+
+I went to the bathroom and examined my face. It was not kobold-cute. But it was also really far from human. Still distinctly lizard-like, just a bit flatter than the kobold's and without the disproportionate eyes.
+
+I tested a grin. It looked pretty badass. This would take a while to get used to, but it didn't feel impossible.
+
+Sure, I was some badass dragon creature now. It was only seven days into a ten-year war. In a year this shape would seem entirely normal and tame compared to the cosmic horrors we'd be facing.
+
+I returned to the others.
+
+"Crisis averted. Where were we?"
+
+"I wanted to ask you if you had picked your subclass yet. You still show up as Shapeshifter," Ash said.
+
+"Nope, I have not. Too many good choices, too much recent trauma."
+
+A shadow appeared on top of the stairs. Liz stepped down, wearing nothing but a bikini.
+
+"Is that the sound of coping by—" Liz stopped mid-sentence when she saw my new look.
+
+"Yes, it's me. Eve. Now fifty percent more dragon flavor."
+
+She looked me up and down.
+
+"And zero percent vanilla, huh?"
+
+"Wow, Liz. Wow. No one, not even Lucy, made it a kink thing so far. Why aren't you dressed?"
+
+"First: Those boots are boots you wear to step on someone. That's just facts, don't blame me. Second: I was sunbathing. After three exhausting days of getting our supports into a state where they could save your ass, I'm taking the opportunity of your ass being saved to relax."
+
+Even while roasting me, she, too, pulled me into a hug. "Well done, oh mighty dragon slayer."
+
+"Thanks for being part of the saving Eve operation."
+
+"It was called Operation Homecoming. Operation FAFO lost by one vote."
+
+"I would have voted for FAFO."
+
+I stepped towards the stairs. "Are the others up there? I still need to thank them."
+
+Liz put a hand in front of me. "Just the one, and you are not ready to face her."
+
+I looked at Liz, perplexed. "What?"
+
+"You, Eve, are not in the right mental state to face a scantily clad red-headed genius with a French accent."
+
+I sat down.
+
+"You might be right."
+
+"Always am."
+
+"Stephen, does it count as a meal if you pour oat milk into my cereal?"
+
+"I doubt it, but I'm willing to give it a try."
+
+Stephen went through the cupboards and prepared breakfast for me.
+
+I didn't remember the French dog lady being hot. But I was also not in the right headspace last I saw her. I had to trust Liz's judgement.
+
+Just when I ate the first spoonful of cinnamon-flavored bliss, three dogs rushed down the stairs and the room got far too small.
+
+Jamie basically threw himself at the three, doling out copious amounts of cuddles, scritches and pets. He really was a dog person.
+
+Eating with the new face was slightly weird, and I didn't want my first impression on Helene to be any weirder than necessary. I swapped back to my human self.
+
+On cue, another shadow descended down the stairs. She had put on her lab coat over her bikini—which was worse than if she had stuck to just the bikini.
+
+"Jamie, dear, you are spoiling the babies," Helene said.
+
+"Am not."
+
+Helene stopped in front of me and held out her hand.
+
+"It is a pleasure to finally meet you, Eve. I'm Helene."
+
+I dropped my spoon, stood up and took her hand, all maybe a bit too hastily.
+
+"I—I really want to thank you, Helene. Sorry for growling at your dogs."
+
+"All good. They know better than to approach a feral beast."
+
+I blinked. She had freckles.
+
+"There was still some sanity in there. I wasn't completely feral. Just—" She put a hand on my upper arm.
+
+"I'm joking, Eve. I understand what ordeal you went through."
+
+"Oh, well, thanks again."
+
+Helene turned and began tinkering with her alchemical gear.
+
+"I must say, you are not how I expected you to be."
+
+I sat back down.
+
+"What did you expect me to be like?"
+
+I glared at the others, who all acted like they hadn't at all gossiped about me with Helene.
+
+"Less, let's say, charming. Your friends gave the impression you were more of the reclusive type."
+
+"I'm working on it. My instinct is still to run away when there are more than three people in a room."
+
+Helene laughed, her back still turned to me. "Delightfully honest, too."
+
+I didn't know what to say to that and continued eating my 4 p.m. breakfast. The dogs had started to lose interest in Jamie and were now examining me, the newcomer. I held out my hand for them to sniff, but that only made them more curious.
+
+"May I pet your dogs?" I asked.
+
+"Please do. They've been hunting your scent for a while now, they are delighted to have found you."
+
+I joined the dogs on the floor and doled out my own share of affection. I, too, was a dog person. And Helene's dogs were very good dogs.
+
+Helene was far too nice. I had been prepared to dislike her on principle. The freckles felt like sabotage.
+
+While on the ground I checked my daily selection. Even though my next step was thanking Anthony and Constance for their contribution to my safety, I couldn't rest. I had rested for three days already.
+
+"Ash. How big is a Giant Pacific Octopus?"
+
+"A lot smaller than you probably think it is. Octopus, not squid. Some thirty pounds or so."
+
+"Oh. Okay."
+
+American Osprey, White Rabbit and Giant Pacific Octopus.

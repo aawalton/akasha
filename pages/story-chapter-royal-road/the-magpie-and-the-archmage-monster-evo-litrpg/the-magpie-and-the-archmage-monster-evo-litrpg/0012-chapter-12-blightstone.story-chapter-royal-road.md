@@ -1,0 +1,269 @@
+---
+id: e6663e32-63f2-5598-972f-7972c00c74cd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12 – Blightstone"
+slug: 0012-chapter-12-blightstone
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 12
+ownLength: 2244
+unit: words
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2540581/chapter-12-blightstone"
+royalRoadId: "2540581"
+---
+
+The ooze kept converging into a single spot, becoming increasingly denser as more of it clumped together. A small blob formed from the sludge, until finally the last bits of it were absorbed into a menacing, dark stone.
+
+"I don't know what that is, but I don't like it one bit," Renir said.
+
+Liora had to agree. Whatever that black stone was, it was bad news. But just leaving it lying around there also felt wrong. Cautiously, Liora landed some distance away from it.
+
+"What are you doing?" Renir asked incredulously.
+
+"Danger!" Liora said.
+
+"Yes! Danger! Why do you approach it?"
+
+Damn, I really need more human words to speak properly.
+
+"Danger, human," she tried again.
+
+"Yes, it's dangerous! So stay the hell away from it!"
+
+"Danger can't stay!"
+
+[Your skill <Mimicry> has reached [Adept] level.]
+
+[Mimicry – At [Adept] level, you can mimic sounds that you have heard before and memorize them. There's a 40% chance of mimicking sound-based skills and incantations. An appropriate amount of mana will be consumed at each attempt.]
+
+Liora felt like some restriction had been lifted from her mind. It felt much easier to remember human words, and her mimic library felt expanded. Especially where Renir's voice was concerned. He did like to talk an awful lot.
+
+"The stone is dangerous to humans here," she said in a rather close approximation of Renir's voice.
+
+"Wow, that was quite a leap in skill there. It's creepy how you sound almost exactly like me now. The magpie raspiness is not as pronounced anymore," Renir said thoughtfully.
+
+"Focus!" Liora reprimanded, flapping her wings angrily.
+
+"Sorry, yes. You're right. We probably shouldn't leave this lying around. Most likely, this is the glimmerstone that was within that hyena before. Except now it has become corrupted."
+
+"What to do?" She asked.
+
+"I'm not sure. I guess we should take it for the time being. It would be a valuable study subject. Perhaps we can figure out how to reverse the corruption."
+
+Liora hopped closer to the black stone, but felt strong revulsion. She didn't want to touch it. Before touching it, Liora took a stick and prodded the stone with it. Nothing happened. She shuddered, shook herself, and finally grabbed the black stone with her talons. It felt disgusting.
+
+"CAW!" She protested, nearly dropping the stone.
+
+"Yes, I feel you. I don't like that thing near me either. Can you put it in your glimmerstone storage?"
+
+"What if it corrupts my shinies?!" She protested.
+
+"I guess that is a possibility," Renir mused.
+
+"CAW!"
+
+"Chill, chill! Why don't you pull a single glimmerstone out of your storage and lay it next to the black stone?"
+
+That sounded… logical. Better to test it next to one glimmerstone than lose her whole hoard. Liora withdrew one of her glimmerstones and reluctantly laid it down next to the black stone. Then she waited.
+
+One minute passed without any change, two, then five. The glimmerstone remained just as radiant as before.
+
+"If there was a chance of corruption, it would have shown some signs of it by now. I think it's safe to store with other glimmerstones."
+
+Liora was reluctant to put the nasty thing in her storage, but in the end, did just that. Curious about how this would reflect on her profile, she decided to check it.
+
+[Profile]
+
+Name: Liora
+
+Species: Duskwing Magpie
+
+Level: 5
+
+Health: Small
+
+Mana: Meager
+
+Glimmerstones: 71
+
+Blightstones: 1
+
+Skills (4/10):
+
+Mimicry [Adept]
+
+Peck [Novice]
+
+Air Dive [Novice]
+
+Air Slash [Basic]
+
+Traits (6/10):
+
+Keen Vision [Innate]
+
+Treasure Sense [Basic]
+
+Aerial Agility [Adept]
+
+Night Vision [Basic]
+
+Glimmerlust [Basic]
+
+Shadow Glide [Basic]
+
+Next Evolution: Requires Level 20 and ??? Glimmerstones to unlock
+
+"Blightstones? Interesting that they already have a name," Renir said thoughtfully.
+
+What is a blightstone exactly?
+
+[Blightstones are (**^&& %^$%^$ ()*&E#B )@#*&^@#$ &$#%$#... ERROR… ERROR.]
+
+Oh, great! It broke!
+
+"That's odd… I've never seen System do that before. In its essence, blightstone should just be a corrupted glimmerstone. Is there more to it than that?" Renir pondered.
+
+"I need to get hyena glimmerstones!" Liora suddenly said, remembering the other two hyenas she had killed before.
+
+"I was wondering if you're going to forget about those. I'd give up if I were you. I have no doubt the other hyenas have already gotten to those carcasses by now."
+
+Liora ignored him and flew back to the place where she had defeated the hyenas. She didn't have trouble finding them—just as Renir had said, there was a swarm of twenty hyenas around both corpses. Each of the hyenas was hungrily pulling on whatever morsel they could get their teeth on.
+
+Quite often, it would end up in a fight as one of them would nip their neighbor and then go tumbling around the area, snarling at each other.
+
+"My glimmerstones…" Liora whined.
+
+"You can have your revenge on those hyenas later. I think you need some rest now. You're completely out of mana."
+
+"Caw!" Liora screeched at the hyena. "I'll get you for this!"
+
+But the hyenas were too busy fighting each other to care for Liora. There was not much she could do. Dejected and angry, Liora flew back to the watchtower. It wasn't even nighttime yet, but she felt so tired that she fell asleep the moment she settled into her corner. At least all the pigeons were gone.
+
+When Liora woke up, it was already nighttime. Pigeons were sleeping while the bats and spiders were just waking up, bustling in and out of the place. It was still odd being able to see in the dark. As a magpie, she had always felt rather helpless at night.
+
+"You're awake? How are you feeling?" Renir asked.
+
+Liora inspected herself, trying to find the holes in her wings, but she couldn't.
+
+"Injury is gone?" Liora asked curiously.
+
+"You were injured? I didn't even notice. Being stuck in this satchel really sucks, you know. I'd like to be able to see again," he complained.
+
+"How can I carry you safely without a satchel?" She retorted.
+
+"I… I don't know. But we need to figure out something better. Maybe put me in a necklace or something."
+
+"People will see," Liora protested.
+
+"Yeah, I know…" he agreed dejectedly. "But I'm sure that there is a solution. We just need to find it. As for your injury, the System must have healed it while you slept."
+
+"System can heal?" Liora asked.
+
+"Everyone heals, silly magpie. But the System accelerates the process. An injury that might have taken a week to heal might take only a day. You can always check by asking the System to show your status," Renir explained.
+
+Liora cocked her head curiously, "Show status?"
+
+[Status]
+
+Health: Healthy
+
+Mana: Steady
+
+The health was easy enough to understand. But what does steady mana mean?
+
+"What is happening with mana?" Liora asked.
+
+"Steady mana means you've recovered about half of your capacity. It'll change to Flowing when it's almost full and to Surging when it's fully recovered. If you had checked your status after the fight, you would have seen that it's either Trickling or Drained."
+
+Liora nodded her head. That explanation made sense.
+
+"The status screen will also show any affliction you might have. For example, if you were hit by Paralysis Croak, then it would show status Paralyzed or Partially Paralyzed. You can also ask the System to explain the affliction for you."
+
+That could be useful with afflictions I'm not familiar with.
+
+Liora dismissed the System screen and decided to scrounge for more food in the town. Fighting those monsters had worked up her appetite.
+
+The world was strangely serene at night. While lights were coming from a few houses in the town, the streets were almost completely empty. The rare few people she did see outside mostly hung out in the backyard, and even then, they seemed reluctant to do so.
+
+Liora took advantage of this situation by helping herself to a few fruits in the garden. She was amazed that these people managed to grow fruit in this horrible place. They were noticeably smaller than the ones Liora was used to. But one small pear and apple were more than enough to fill her to the brim.
+
+[Your skill <Night Vision> has reached [Novice] level.]
+
+[Night Vision – At [Novice] level allows you to see decently well in the dark.]
+
+Liora squawked in surprise at the sudden change. The world became so much clearer–as if somebody had turned on a more powerful nightlight.
+
+"Your Night Vision has improved? Maybe you should take advantage of that and hunt some monsters at night?" Renir suggested.
+
+That is actually a pretty good idea. Some other monsters might have Night Vision too, but some certainly won't.
+
+Liora flew back to the foot of the mountain and found that it actually looked more active at night than during the day. There were twice as many hyenas skulking around the place now. Owls were also more obvious, occasionally hooting and attacking some smaller critters. Even the toads were noisier, calling out to each other with the deep croaks.
+
+"Looks like this place is filled with nocturnal monsters," Renir said guiltily.
+
+"Chak-chak-chak," Liora grumbled. "Should have known when most people were sticking close to their homes."
+
+"Do you have to do the magpie talk? You can mimic human speech decently well now."
+
+"It's more fun," Liora retorted.
+
+"You little… You're lucky I'm stuck in a gem."
+
+"Chak-chak-chak!" Liora laughed.
+
+Despite the activity at the foot of the mountain, Liora decided to continue her training. She did have a skill that gave her a distinct advantage over these monsters—Shadow Glide.
+
+Liora quickly understood the true power of this skill. Her flight was almost completely silent. Her dark feathers hid her from view, so when she approached one of the Razor Owls from behind, it had no clue Liora was there. Until it was too late.
+
+"Kyeh-heh-heh!" Liora mimicked the hyena's skill.
+
+[You've successfully mimicked the skill <Maddening Cackle>.]
+
+The owl staggered in confusion, attacking the tree trunk instead of Liora. A few good Pecks were all Liora needed to dispose of it.
+
+[You've defeated <Razor Owl – Level 6>. Experience gained.]
+
+[You've reached Level 6.]
+
+She would have liked to gloat, but for the sake of not revealing herself, Liora remained silent. Instead, she gleefully retrieved glimmerstones from the owl's wings and continued her hunt.
+
+I'm doing the town a favor anyway. These monsters must be causing the townsfolk quite a headache. I'll get rid of a few of them.
+
+With this justification, she kept sneak-attacking lonesome monsters either with Air Slash or Air Dive. Air Slash allowed her to attack from afar. Quite often, she wouldn't even be noticed after the first attack. Air Dive was basically a one-hit-kill move. It was a bit harder to use in the dark, but it was good enough to use against toads.
+
+Yes, she fought the toads. Nasty as they were, they were utterly helpless against her in the dark. Five dead toads later, she had gained another level and ten more glimmerstones.
+
+[Your skill <Shadow Glide> has reached [Novice] level.]
+
+[Shadow Glide – Allows for a silent flight, especially in dark places with low visibility. At [Novice] level, detection by sound or sight is reduced by 30%.]
+
+I think it is time to exact my revenge.
+
+Liora flew to the place where she had encountered the three hyenas. A pack of ten hyenas was lounging about there, looking rather satisfied.
+
+I'll show what happens when you steal MY glimmerstones.
+
+Liora flew up high in the night sky, remaining completely unnoticed by the hyenas below. She chose her target carefully. The largest hyena, which had five others lounging on the ground next to it, occasionally snarled at one of its brethren. She took aim and dropped.
+
+[You've defeated <Giantmaw Hyena – Level 8>. Experience gained.]
+
+The other hyenas were blown away by the residual force, scattering them all over the place. Liora Pecked at the nearest hyena, mercilessly, not giving it time to react.
+
+[You've defeated <Giantmaw Hyena – Level 6>. Experience gained.]
+
+Take this, you assholes! I'll show you how to mess with me.
+
+Liora flew back up and threw Air Slashes at the hyenas. It took a while for the group to gather its wits. She suspected that the large hyena she killed was their leader. Without it, they were left vulnerable.
+
+This will be a piece of cake!
+
+Liora used Shadow Glide to its full potential, often flying up and circling around until at least a few hyenas would lose track of her. Then she'd swoop down and peck them from behind. This way, she managed to take down two more hyenas.
+
+But she'd grown too complacent. Too confident. As she swooped down to Peck a hyena, one of its brethren jumped out on her from the side, its giant maw ready to chomp down on her. Liora avoided it, but the hyena managed to catch the edge of the satchel and pulled on it viciously.
+
+"Ow, ow! What the hell is going on?! Let go!" Renir wailed.
+
+Liora Pecked the hyena frantically and beat her wings to get away. But another violent yank from the hyena proved too much. The thread snapped, and the gem tumbled straight into the monster's mouth, disappearing down its gullet. Bleeding from Liora's attack, the hyena whimpered and ran away, the rest of the pack following after it.
+
+"CAW!" She screamed. "NO! MY GEM!"

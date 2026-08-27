@@ -1,0 +1,281 @@
+---
+id: 4c4b5866-01d4-547a-bc03-85182fa7305c
+page-type-slug: story-chapter-royal-road
+title: "185: Red Moons and Bad Jokes"
+slug: 0207-185-red-moons-and-bad-jokes
+partOf: there-is-no-epic-loot-here-only-puns
+position: 207
+ownLength: 3597
+unit: words
+publishedAt: 2023-09-08
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1336070/185-red-moons-and-bad-jokes"
+royalRoadId: "1336070"
+---
+
+Delta was moving through the garden, her face contorting as she held her stomach, she was just far enough when the air grew hotter and the scent of charred flesh filled the room.
+
+“You smell of home,” Runilac said as Delta slunk along the third floor to get to the fourth one as she wanted to be as close to her core as possible right now. She stopped as the demon blacksmith emerged from his workshop to speak to her. His body was covered in its customary soot and burn marks, and visible heat waves wafted off his skin.
+
+The demon was coming out for a casual chat? That was not something the demon did nor did Delta force it. His presence was still a bit weird for Delta as he was like a void that easily resisted her mana and made her feel like she had a void inside her.
+
+“I may have barfed my way into the abyss and claimed some of it for myself by no fault of my own,” she said bluntly, refusing to look embarrassed and the blacksmith frowned as tasting something in the air around him.
+
+“Hmm a door to the abyss… I… well, all I will say is that it’s getting awfully thick with dungeon mana here, you’ll need to slow it down. You’re not nearly equipped to be opening permanent doors to the abyss,” the blacksmith warned and Delta shot him a look as he was slowing her journey down. She looked bloated, sick, and ready to burst into tears on the first sympathetic shoulder offered to her.
+
+The demon really needed to pick the timing of his pearls of wisdom better.
+
+“It isn’t by choice. I can’t stop it happening,” she admitted through gritted teeth and the pain in her gut was like two rocks rubbing together after being dipped in car oil. Occasionally, she felt a piece of her dungeon shake slightly before she got a grip over it. If this kept up then… Delta didn’t want to think of the consequences. Runilac rubbed his sulfur-like beard with a frown.
+
+“Don’t get worked up. I can’t give you tips due to my confinement and bindings. The bastard who owns my name is still way under here, but I can tell you something… when opening a portal, if the two sides are working in tandem or giving equal share?” He said in a casual tone, “it slows the process to a crawl as the other side needs to work twice as hard,” the blacksmith finished and Delta tried not to politely shake the demon and just beg him to skip the riddles.
+
+“Pretend I’m in a lot of pain and thinking isn’t a priority right now. Just pretend for me,” Delta finally managed and she was sweating… how long had it been since she had sweated out from pain?
+
+Runilac sighed as he teased out snarls in his beard.
+
+“You have too much Dungeon mana here…, Fix it!. The less you have, the more time you have,” he grunted! As black veins crawled up his neck like poison, making him curse as he fled back into his workshop, pulled back by whatever enchantments or promises that kept him there. It was a bit of a shame how much Runilac isolated himself. It made her think sometimes he had no problems or issues. She wanted to help him with his bindings or oaths. Delta could break one, but not the other. She would get to work on it as soon as she got her current issue under control. Thankfully, Runilac couldn’t be clearer that time, she needed to spend mana and a lot of it. The sheer number of people coming in and out made that pretty much impossible for longer than an hour.
+
+Still, she had to try and Delta knew where to begin.
+
+---
+
+Heat followed by a sensation of falling ended the dream she was having of landing a golden three-headed shark that was made up of ten other sharks. Greatly annoyed, Ruli sat up in her bed, her mother’s monstrous snores in the next room soothing like the bugs and night birds to her ears. Ruli felt hot, then itchy and uncomfortable as she sat there for a moment. It was a strange sensation she hadn’t much felt before since Ruli simply didn’t get hot outside of circumstances that would melt a normal man.
+
+She climbed up and out of bed, her massive shirt billowing around her knees. It was a good night shirt and the half-giant she had got it off made it the perfect size for someone as tall as Ruli. There was a very old brown stain on one side where the giant got stabbed in the kidney, but Ruli didn’t know anything about that or how he was stabbed with a special enchanted curved knife that cost her two silvers.
+
+Ruli went to the kitchen and shifted a bunch of butcher knives out of the sink so she could get a cup of water. The sink gurgled before drawing water that was pumped down from the mountains through a series of old pipes that should have needed replacing years ago but never had an issue.
+
+Growing up, the stuff always tasted very ‘stiff,’ but now? Ruli eyed the water and sipped it again. It had a colder crispness to it. She even drank a second cup before she grew irritated that the itchy feeling on her skin wasn’t going away.
+
+It was then she noticed her mother’s snoring had stopped.
+
+Ruli turned to see a looming shadow of a powerful beast standing near a window and as moonlight appeared, the monster melted away to reveal her mother staring outside, her yellow eyes glowing.
+
+“You feel it too?” Mila asked and Ruli sighed and nodded. This sensation, this burning in her blood, made it clear that the abyss was swelling. Either a demonic invasion was coming (a highly unlikely event since that meant any demon wanted something in this world) or…
+
+“Dad,” she grumbled. She peered at her mother, frowning.
+
+“I got demon blood to warn me, but how did you know?” she asked suspiciously. Mila shot her a stoney expression.
+
+“I had my first longing for a man in over thirty years,” she said with great annoyance and Ruli slammed her cup in the sink and stalked off with her hands over her ears. Ruli didn’t want to hear any of that.
+
+Even in the abyss, Ruli forced her dad to cover up the massive wall to wall paintings of her mother covered in her enemy’s blood and little else. Ruli didn’t need to see that either! She got dressed and grabbed her sword, its edges glowing slightly at her annoyance.
+
+As she walked out, she became aware of a commotion coming from the direction of Delta’s Dungeon. It sounded like an argument and it was loud enough to travel all the way to the town.
+
+Her yellow eyes narrowed and Ruli stalked through the woods. She emerged near the entrance to find a dozen groups outside, raising their voices in protest.
+
+At first, Ruli tried to politely squeeze through but after so many dirty looks, jabs to her chest with sharp elbows and people stomping her foot, she began to pick up offenders and hurl them across the crowd as she moved. It didn’t take her long to make it to the entrance properly to find two goblins, a mime, a kobold, and an annoying little undead fairy trying to block the entrance with rope, buckets, and creative curse words.
+
+She stopped short as she ran face first into an invisible wall and the ghoul raised one hand and made a gesture of pulling a door open, the pressure removing itself from Ruli’s nose.
+
+“-And I will use your malleus to rearrange your phallu-” Mharia stopped as Ruli loomed over them.
+
+“The blood knight maiden arrives,” the fairy said with a sigh of relief. That… that was worrying if Mharia had been concerned. She watched as the two goblins glared at the others behind her as if daring them to get close as they held up Gutrot mushrooms as projectiles.
+
+Ruli felt the ‘home-sort-of’ feeling grow thicker and her alarm jumped three notches.
+
+“What is going on?” she demanded and Jack the Kobold looked up at her as he raised what looked like a dirty book for housewives as a weapon.
+
+“Delta. Delta… she horked too deep,” he said gravely.
+
+“How did Delta ‘hork’ into another dimension of immaterial demonic energy and symbolism?” Ruli asked, voice deadly serious.
+
+“With the grace of a gazelle and the accuracy of a goat,” Mharia said brightly.
+
+Ruli grabbed the fairy and her hand turned dark and energy leaked off her, causing the fairy discomfort as her necromantic energy was slowly ebbed away by Ruli’s part-demon.
+
+Demons were not of this world and did not obey the same rules of ‘decay.’
+
+“She was ejecting some rooms and the normal process couldn’t handle her ‘Deltaness’!” Mharia scowled and pulled herself free, some of her face melting off as her disguise slipped in front of everyone.
+
+There were screams from some of the adventurers and ‘oohs’ of appreciation from death magic users…or were they goths with swords?
+
+Ruli always couldn’t  tell them apart until they fought.
+
+“Ugh, I flashed the goods for free to so many. You made a scarlet woman of me,” Mharia said with annoyance as she put her face back on with a slopping noise.
+
+“Where is Delta?” Ruli asked and the contract monsters looked inside with worry.
+
+“Needing space to work,” Hob spoke up and then came the clameous arguments from the groups of people wanting to get back inside to get more ‘treasures.’ A few of them wielded Fran and Bacon equipment sets like horned helmets, elegant armor, pig saddles, pig-iron lances, long enchanted blond ‘fabio’ wigs, fake pig snouts, and shields that had Bacon’s face on it.
+
+Some of them had more exotic things such as pure black feathers tucked into hats after they fed the lake duck a bronze or silver dagger. Some had pots on their back for luck which were filled with clean water, some of them had tiny little pigs with mushrooms on their backs that oinked in near chorus.
+
+The more experienced of the lot had authentic Pygmy tribal gear which they must have thought was magic but she supposed all it did was make the Pygmy mushrooms target other people first before turning on the wearer.
+
+That was actually magical, if Ruli thought about it.
+
+Some had long stingers as swords, some of them dyed red or blue, while having flasks of glowing honey on their hips. She even spotted some woman wearing what looked like a replica Bob helmet, complete with a maw of teeth. It looked heavy and monstrous.
+
+Ruli stared at it and felt just a little bit envious.
+
+She sort of maybe wanted a Bob helmet.
+
+“Listen, the dungeon is currently experiencing a…” she looked at the monsters for help.
+
+“Maintenance,” Mharia said, “we’re adding new banners and a Summer Bikini Rale banner for 0.005% chance of rolling,” she added sarcastically then blinked at herself.
+
+“Delta, your world is terrifying,” she whispered to herself.
+
+“We want a Fera summer with a plate of booze!!” a group called and they looked drunk. Ruli liked the look of them.
+
+“Right, so Delta is getting these ‘banners’ and things I don’t want to imagine in swimsuits, so you all need to wait outside so your experience is improved. You want a better dungeon experience, right?” Ruli demanded, her eyes looking over the crowd and no one met her eyes.
+
+The drunk ones tried but they were looking in two different directions.
+
+“Why does it smell like a bad bbq?” someone spoke up and Ruli hesitated.
+
+“That’s the smell of bikini banners,” she said quickly. They could not learn Delta was connecting to the abyss. That would bring down some very unwanted attention from many churches.
+
+Some decent, others not so.
+
+Nothing soured a good day like a church turf war.
+
+“What if we don’t want to wait?” a strong-looking man asked with his sleeves torn off to show off his muscles. Ruli crossed her arms and her muscles were bigger without flexing.
+
+“I suggest you find the desire, quickly,” she said simply. That shut up a lot of them and Ruli got comfy as she didn’t want to ruin whatever it was Delta was doing either.
+
+If she was a contract…
+
+Ruli shook her head. That was a thought that led nowhere good.
+
+---
+
+Delta was moving through the second floor, setting up small groups of trees that she shifted with her movement tools and created open groves of sorts. She was sweating from the pain in her gut, but it was far less pressing once all the people had been evicted from her Dungeon.
+
+They didn’t even know what happened as Hero in his full form appeared in all dimensions. He swept them out with blackholes. It seemed her current pain and need to deal with many people counted as a ‘raid’?
+
+Still, she was needing to spend mana fast, but she wasn’t going to let this pain and threat of imminent death ruin her schedule. There was dying and then there was just panicking.
+
+The groves she made were empty in the middle and she raised stone pillars in each, trying to use her will and imagination alone to shape them instead of the system. It took more mana and Delta could flex her art skills.
+
+An elegant figure of terror and beauty emerged with long tendril-like fingers and-
+
+“Terrifying Forest Hag Witch totem created!” Prim chimed.
+
+“It’s supposed to be Wyin,” Delta said numbly. The screen turned to the totem then back to Delta a few times.
+
+“…I hope she never sees this.”
+
+Prim blinked away and Delta sagged as she patted the totem.
+
+“People don’t appreciate real art,” she said sympathetically to the stone. She fiddled with her menu and found the totem was now a ‘decoration’ which she placed in each grove before opening their sub-system to allow Delta to give them ‘purpose.’
+
+“Wyin Witch Statues: A powerful and memorable stone totem.”
+
+“Diplomacy suits you well, Prim,” Delta murmured with a side-eyes.
+
+“Allow Wyin to possess these statues and stalk adventurers to her murderous heart’s content. 50 DP.Turn these statues into anti-pygmy wards to allow adventurers tiny pockets of peace. 20 DP.Wyin’s natural divine powers allow all medicine, healing magic, and druid magic to be empowered within range of these statues. Alcohol is now 5% more effective. 40 DPThese statues actively burn away any parasitic effects of the god REDACTED. The ‘World Tree.’ DP 150.”
+
+Choices, choices… Delta just didn’t know which to pick.
+
+“Nu, how’s my resources?” she asked and a dark blue screen appeared.
+
+“You make the 1% of the world weep in envy.” Nu said bluntly.
+
+“Fabulous,” Delta said and dragged her finger down the screen with one smooth motion.
+
+---
+
+Wyin looked up as she continued to peel dried honey off her branches.
+
+“I sense a Delta-ning,” she muttered with wariness. Suddenly, her awareness began to spread and she saw some horrid looking statues that formed a spiritual bond to her power.
+
+“So ugly they become cute,” Wyin mused with a blink. They must be some sort of dryad hag made to serve her!
+
+Oh, the fun she would have with this.
+
+---
+
+Delta looked over the second floor, rubbing her arms to fight off the ache she felt.
+
+“What the second floor is missing is a figure… a presence to urge them to hurry,” she muttered and snapped her fingers, shifting the sky from bright sun to a dark night.
+
+“Second floor weather system:Make every hour shift the time forward. 6 hours of day and 6 of night. During the night, the first hour is a new moon and the sixth hour is a full moon. 40 Mana.”
+
+Delta purchased it, and a moon formed above the jungle, tinged slightly red.
+
+She went to the secret flower garden and opened her menu. It seemed Prim had been following her thought process, because several ideas were already waiting for her. Luna was nearby, collecting the herbs she needed for her springs.
+
+“Oh?” the young frog said with a coy smile as she watched Delta work.
+
+“Floor Guardian:Colors of the Bloody Wind: A wind elemental that is made up of a dozen toxic flower petals. It has no defined form but sometimes looks like a see-through fish. 200 Mana.
+
+Big Hoop Bear: A monster bear that seems to move through the jungle without disturbing the trees. Those who have eaten honey in the last six hours will never be able to escape this bear’s nose. 200 Mana.
+
+Boss Bunta: A 12-foot tall frog of demi-divine lineage. The combined skills of all the frogs on this floor become this warrior’s tools. To bring it forth requires all the frogs to truly embrace its myth and believe it. 200 Mana.”
+
+Delta hummed but didn’t pick any.
+
+“This is sort of tough,” she admitted, not able to just buy them all this time since it would only let her pick one.
+
+She would have to consider each’s strength in relation to her current floor’s abilities already. Think of what she had and what she lacked.
+
+Delta supposed she could ask the other monsters for opinions and-
+
+“Random Floor Guardian. 250 mana.”
+
+“Oh no, someone stop me,” Delta said in a very faint voice as her finger rose.
+
+“I can stop you if you want?” Nu offered and Delta hit the red cross symbol at the corner of his screen.
+
+“Shhh, no adulting. Only gambling,” she said with a soothing voice.
+
+She hit the random option and waited with excitement. Before her, the flowers shifted and the winds picked up as above, the blood moon glowed ominously.
+
+Before her, what looked like a very pale, but normal girl appeared in the midst of the flowers. Delta stared at her simple neck-length brown hair, scratchy-looking dress, and innocent expression.
+
+“I got a child. I’m sure this is terrifying to most young adults, but I wanted firepower,” she called to the system. The blood moon shone once more and there came the sounds of tearing and fabrics ripping. Delta turned to see a maw filled with canine-like teeth belonging to a ten foot tall creature with white fur streaked with red lines, a dozen tails behind it whipping and lashing in a destructive manner as the glowing yellow eyes snapped to her.
+
+It was hunched over, but clearly walked on two legs.
+
+It let out a roar that was part shriek, part scream, sending a dozen petals flying into the air as it shook the jungle.
+
+“I thought it was a pale moon that did this,” was all Delta could mutter.
+
+“Haha, everyone’s in danger!” Luna clapped her hands in delight.
+
+Lyre: Red Moon Beast: Floor Guardian.Only appears in the final hour under a full moon.This creature has simple goals and to feed off others fear and hunt the slow. Most of the time, she is just a normal looking girl who doesn’t think or do much but any ill-actions taken against her will be repaid double when she changes.
+
+On higher difficulties, the full moon lasts all six hours.
+
+The creature bent down to allow Delta to pet her. It was undeniable but when Delta looked into her eyes, she understood one thing.
+
+“Not much going on, but you do your best,” she praised and the creature’s tails thumped.
+
+This was helping, but she wondered how her ‘secondary core’ was getting on?
+
+---
+
+“Did you hear about the girl with three feet-”“Why did the chicken catch the bus-”“You have contracted Lig-”
+
+Beta was sweating, ready to end it all as she tore through the spongy black mushroom flesh with her transformed claws. Every inch was a new layer of worse jokes. She was moving slow as the damn stuff was regenerating faster than she could cut it at times.
+
+Before, it had even trapped her and she had to eat the foul stuff. It was the worst experience of her life and she had been dunked in a vinegar pond by evil dragon ducks the day before.
+
+She paused to catch her breath as the flesh before her turned orange instead of black.
+
+“Why should you never sing in the shower?” said a much clearer voice, a woman’s voice.
+
+“Because if you get soap in your mouth it becomes a soap opera!” she laughed and Beta’s heart twisted painfully as if the voice meant something.
+
+She pulled at the new layer and it was heavy, tough, and unyielding.
+
+“It’s okay to be angry. You can be angry here. Your emotions are valid.”
+
+“Shut up! I don’t know you! I don’t know anyone!” Beta screamed.
+
+“It’s okay if you want to hate me. As a teacher, if it helps, I can bear that.”
+
+Beta sagged and her energy felt spent, but for some reason the mushroom had stopped regenerating.
+
+“I… don’t want to hate you. I don’t hate you. I just don’t remember why,” she whispered to the ground.
+
+She tensed.
+
+“And not remembering is pissing me off!” she roared and began to tear and rip. She would not be denied!
+
+She would get to the heart of this thing. It called to her.
+
+“I asked a dog what one minus one was. He said nothing.”
+
+Also to murder the jokes.

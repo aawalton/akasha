@@ -1,0 +1,131 @@
+---
+id: 824d65cd-af17-56b4-965a-9bbe49e73834
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1228 - Rushed By The Accomplishments of Others"
+slug: 0100-chapter-1228-rushed-by-the-accomplishments-of-others
+partOf: the-primal-hunter
+position: 100
+ownLength: 2871
+unit: words
+ownProgress: 2871
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2920550/chapter-1228-rushed-by-the-accomplishments-of"
+royalRoadId: "2920550"
+markedReadAt: "2026-06-29T19:32:25.974Z"
+---
+
+“I remember telling you before that the first era didn’t have Tutorials or anything like that,” Villy began as he leaned back. “But I don’t think I’ve ever gone into detail as to how the integration actually worked, have I?”
+
+“Gonna go out on a limb and say it wasn’t that much different from the one the monsters on Earth had,” Jake guessed.
+
+The snake god looked at Jake before laughing while shaking his head. “Oh, man, yeah, I guess fundamentally they were the same? But in practice, things sure didn’t go that smoothly back then.”
+
+Villy seemed incredibly amused as he painted the picture of the first integration. “Imagine a universe being flooded with the system from one second to the next. In an instant, the laws of the world change, mana replaces nearly all other forms of known energy, and everything is terraformed to better fit the system. In your universe, this process took the duration of the Tutorial… in my universe, most of it happened within hours.”
+
+Jake wasn’t even sure how to imagine that as the snake god continued.
+
+“Cities were ravaged as space expanded; some were even torn in two as landmasses seemingly grew between them. Unknown sources of energy appeared, turning certain territories into lands of certain death, and if you happened to be in one of these territories during the integration, well, better fucking hope that initial rush of energy also gave you the ability to live in your new environment. Spoiler: for the vast majority, that wasn’t the case. All in all, it was a fucking shitshow that created world-altering natural disasters all over the universe, and you should be thrilled that the system learned a lot from those early days.”
+
+“Okay, point taken,” Jake muttered as he was reminded of his original question. “Things must have been even more messed up for the Neurotar, right?”
+
+“Yes and no,” Villy said, considering the question for a moment. “Yes, they were pretty screwed by the fact that they were a very spread-out race inhabiting entire galaxies while numbering at least in the quadrillions, but they were also a race that found themselves blessed by the system. One thing that might also surprise you is that the Neurotar weren’t necessarily a single race, even if they self-identified as such. For example, the one you saw me interact with was classified as a monster by the system.”
+
+“That guy did look quite humanoid, though,” Jake pointed out.
+
+“He did, but he wasn’t considered enlightened,” the snake god shook his head. “To be clear, the Neurotar were technically an enlightened race; it’s just that a lot of its members weren’t when the system integration arrived. Their mastery of technology had reached truly profound levels, and they had long surpassed the forms they were born with. Body modifications and alterations were taken to such an extreme that when the system arrived, it saw many of the Neurotar as closer to golems or even elementals than the enlightened they originally were.”
+
+That explanation made Jake frown a little. “Is that something the system no longer does, or did their modifications just reach insane levels? I remember hearing that the humans on Earth who, for example, used prosthetics or had other in-body medical equipment were either fixed right up by the system or remained unchanged, dependent on how they viewed themselves.”
+
+“The system seems to usually prefer that solution, but you seriously underestimate the Neurotar. The one you saw me working with didn’t have a single biological trace left in him, at least not of what he was originally born with. He had replaced much of his internals with this odd liquid metal that I think he called picomachines; he had no brain, and his entire being was indeed closer to that of an elemental or golem than anything else. Moreover, because the system wanted to keep him alive during the initiation, it was forced to infuse him with more energy, resulting in him instantly becoming a C-grade. Oh, and to be clear, he was not a unique case at all.”
+
+“I had the impression the system really didn’t like technology?” Jake questioned, remembering how all tech on Earth had been messed up.
+
+“It was a little more lax back then, but that doesn’t mean old tech worked post-integration,” the Viper shook his head. “And not just because of the system purposefully sabotaging. Technology all needs energy, so what happens if the very nature of this energy changes? When the laws dictating the creation of energy warp? It’s not that the system has anything against technology, just that the rules of the system still apply to it. So, even if the Neurotar’s weapons worked, it wouldn’t do them much good, as it would require people too powerful to actually use them.”
+
+“But the system still allowed the technology within the Neurotar to exist,” Jake pointed out.
+
+“Because they still had souls, and the technology had become truly part of them,” Villy said. “Even if they were entirely synthetic, their souls remained, hence the system facilitated their continued existence by adapting their changed bodies to work with the system in the most seamless way it could, which just happened to be something that made them incredibly powerful from day one.”
+
+“Weren’t they still kind of fucked, though?” Jake wondered out loud. “Their transportation and communication networks must have been nuked.”
+
+“Oh, they were. That was the part really fucking them up. The Neurotar had been overly reliant on what was essentially a super-charged version of your planet’s internet that connected all of them across space using means I never bothered to understand. All I know is that being cut off from this did indeed make things very messy, and all their warp gates and whatnot they used to travel also stopped working, isolating each individual planet. However, this only managed to slow their ascent to power in this changed world. Even if they had lost most of their technology, their sheer numbers and insane intelligence quickly allowed them to rebuild their empire and make contact with the nearest planets. The rest is history from there, as they indeed managed to reestablish themselves and grow more powerful than ever, quickly becoming known as the most powerful faction in the first universe. At the time of the vision you saw, they already had beings at or approaching the peak of S-grade and had spread throughout the universe.”
+
+“The more I hear about them, the more I’m beginning to question how they aren’t still around,” Jake commented. “Like, if they had such an advantage and were so powerful, how come they didn’t manage to have a god ascend? Even if they didn’t have a god, how did they all get wiped out? I can guess Rigoria was the reason, but I have a hard time imagining how a single god could wipe out a race spread throughout an entire universe easily.”
+
+“You are right, Rigoria was the ultimate source of their doom, but in reality, they never had any future in the first place,” the Viper sighed. “Their greatest strength was also their greatest weakness. The reason they were so damn powerful could be summed up in one word: unity.”
+
+The Viper took a drink of his own beer as he elaborated. “The Neurotar shared everything with one another. They connected with telepathic bonds to share new discoveries and even created something similar to their version of the internet. This allowed all their members to grow more powerful and created incredible unity, but I hope you can guess what it also did?”
+
+“Fucked up their Records,” Jake muttered.
+
+“Exactly,” the Malefic Viper smiled. “Not enough to entirely stop their Paths, but I do believe it was a major contributing factor to them never being able to nurture any gods. They lacked individualism and had a tendency never to speak much of their own Paths as something that truly belonged to them, but instead saw it more than just another cobblestone laid down to further the might of their faction.”
+
+“So they tried to make Rigoria,” Jake said, knowing this part of history at least.
+
+“Yep,” the Viper nodded. “In part due to me, actually. Even after becoming a god, I was a bit of a menace and took revenge on a lot of people and factions I had negative run-ins with before my ascension. I wasn’t the only one, and as more Primordials appeared, they started realizing they were only falling further and further behind, making them panic a little as our accomplishments proved their relative weakness. Rigoria was their attempt to create a god to protect themselves. While I can’t exactly say they succeeded, their actions led to Rigoria’s ascension. As for the exact details, you can ask Rigoria about them someday. Not all stories are mine to share.”
+
+Jake paused, considering the implications of everything the Viper had said as he chose not to press the snake god further, knowing he wasn’t gonna share more. “So, their unity made them strong enough to dominate, but it also doomed them to stagnation? They sacrificed the spark of individuality that might’ve let one of them break through.”
+
+Villy nodded, a somber look passing over his face. “Exactly. In their pursuit of collective strength, they lost what made true ascension possible.”
+
+“Guess it served as a good lesson for all factions that came after,” Jake sighed. “Though I do wonder if the Holy Church doesn’t risk falling into a similar trap.”
+
+“No, they’re very cautious and allow people to discover their own Paths while instilling the needed amount of individualism in those that show potential to reach godhood,” the Viper shook his head. “But yes, they definitely learned a lot from the Neurotar. So did the system. I don’t think it’s a coincidence that there has never been an integrated universe with any faction that managed to reach such technological supremacy since the first. The system has definitely become more cautious about pre-system technology in general. However, as your void-following buddy can attest, technology-focused Paths are most certainly still viable. And if you don’t believe him, you should visit the Automata or Altmar Empire one day.”
+
+“Right,” Jake nodded as yet another thought occurred to him. “Say, why were you even working with the Neurotar in the first place?”
+
+“That... is something else I’ll keep a secret for now,” the Viper chuckled, shaking his head. “Suffice to say, we worked together for a while, seeing as the arrangement was mutually beneficial. However, the Neurotar were also beings who believed in logic above all else and viewed all interactions with other races as transactions. If it benefited their faction, they went for it, no matter what they would have to do. I’m not going to argue I wasn’t ruthless, but the Neurotar conquered and enslaved countless planets just to keep harvesting resources and continue their expansion. When they were in a rush, they mined out entire planets in short periods, killing all the natives as collateral damage in the process, all without a single fuck given, as giving a fuck about other races didn’t benefit the Neurotar.”
+
+“Maybe it isn’t that bad Rigoria wiped them out,” Jake said in only a semi-joking tone.
+
+“Not many complained,” the Viper shrugged. “Anyway, was that everything you wanted to ask about?”
+
+“I think so,” Jake said, until he remembered: “Wait, actually, about my upcoming dragon hunt... did you find one?”
+
+The Viper smiled at Jake’s question. “Oh, I have, and let me tell you, she’s quite something...”
+
+--
+
+Miyamoto opened his eyes and quickly glanced about. He found himself in a completely empty space, or so it appeared for several moments until he spotted something in the distance.
+
+It looked like a small collection of trees, plants, a small hill with a cave in it, and several other odd things that didn’t look like they quite belonged there. There was nothing else to see, so he naturally began walking toward this odd place, his footsteps slowly taking him forward.
+
+After the first step, he noticed a slight change in the scene. One of the trees seemed to start leaning slightly, and after a few more, he saw it topple to the ground. Continuing to walk, all the trees fell over one by one, and as they did, the surroundings also changed.
+
+The cave in the hill grew larger, exposing veins of ore that were soon extracted and placed outside it. After all the ore was gone, the cave collapsed, and the entire hill started sinking into the ground and disappearing.
+
+Miyamoto kept his steady pace, simply observing as the change continued. He noticed that, depending on his tempo, time seemed to move either faster or slower. Keeping a steady pace, he watched on as the trees were stripped of bark, the wood cut into pieces, treated, and cut several more times. Some parts were discarded, but many others were assembled, taking the shape of a table on the spot where the hill had once stood, with two chairs following soon after.
+
+All the ore was changed as it was smelted into ingots and then made into various metal objects that were placed on the table. From the broken hill below, clay and sand were also extracted, melted, and formed into mugs.
+
+There were so many scenes going on at once that the Sword Saint couldn’t follow along with them all, but he ultimately knew what they would form. As he was nearly there, he found himself approaching a table with two mugs placed on it, several half-made clocks on both sides.
+
+When he was only a couple of steps away, another figure appeared, making the Sword Saint stop and cup his hands. “I greet my Patron.”
+
+The new figure, Aeon, was obviously unaffected by the changing scene as he walked over to the table, holding a metal carafe that gave off the smell of coffee. “Yes, yes, now get over here and sit.”
+
+Nodding, the Sword Saint did as told, and as he took the last few steps, pillows also appeared on the chairs, making Aeon nod as he poured them both a mug of coffee before taking a seat.
+
+Sitting opposite his Patron, the Sword Saint regarded the Primordial, waiting for the god to speak. He had to wait for Aeon to finish taking a good sip of his coffee and let out a satisfied sound before he regarded Miyamoto.
+
+“You shouldn’t feel rushed by the accomplishments of others,” Aeon said in a calm voice. “That’s not your Path.”
+
+The Sword Saint didn’t say anything but just silently nodded. He was already fully aware that he shouldn’t try to force his progress just because he felt external pressure. Even then, it was hard.
+
+Sylphie had only grown more powerful after experiencing that offshoot of the Vortex Pinnacle. The Forest King was growing more powerful by the day, seemingly without end. From what he heard, even Carmen was making extreme progress and was closing in on B-grade. Finally, there was Jake, someone he didn’t even want to think about. All he knew for sure was that Jake had secrets of incredible power, which had truly been put on display when he saved them from the attack in the void. Everything combined made the Sword Saint feel… lacking. Unworthy of the title he’d chosen for himself.
+
+Aeon seemed to see his blessed’s inner thoughts as he sighed. “Trying to force the change of seasons isn’t something you’re capable of yet. For now, merely experience them.”
+
+The Sword Saint slowly nodded once more. “I shall take your teachings to heart.”
+
+“You shall do more than that,” Aeon began before he decided to finish off the rest of his coffee mug, creating quite the dramatic pause before he spoke again. “Push yourself to truly be one with your Path. Remember what you are. You’re a Transcendent. Truly master what you already have… and even the Chosen of the Malefic Viper is within reach.”
+
+Miyamoto’s eyes narrowed. “Without Springtime Advent…”
+
+“Expand your view,” Aeon said, remaining calm. “The Chosen of the Malefic Viper is truly something, but do not underestimate yourself. Oh, and do remember: historically, the natural counters of those with truly extraordinary Bloodlines have always been Transcendent Skills. This is naturally dependent on the power and nature of the skill, and while I certainly recognize that the Viper’s Chosen’s Bloodline is amongst the best of its kind, the same is true for your Transcendent Skill. You just need to truly realize what you have.”
+
+The Sword Saint was quiet once more, and before he could get any words in, Aeon waved his hand. “Now get out of here and keep working hard. Oh, and assuming you don’t disappoint me between now and then, reach out before you evolve to B-grade and I’ll make you my Chosen.”
+
+Miyamoto’s eyes opened wide, and he opened his mouth to speak, but no words came out before he found himself back in his courtyard on Earth. He sat there for a while, contemplating the pep-talk he’d just gotten from his Patron before he smiled and shook his head.
+
+Experience the seasons… expand my view, huh…

@@ -1,0 +1,335 @@
+---
+id: 9ee273a5-710a-503c-8b52-84b2ac6fef5a
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED EIGHTY-FIVE: What next?"
+slug: 0287-two-hundred-eighty-five-what-next
+partOf: super-supportive
+position: 287
+ownLength: 5345
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3360542/two-hundred-eighty-five-what-next"
+royalRoadId: "3360542"
+---
+
+285
+
+******
+
+Before Stuart had stepped outside, he’d cleaned most of the melon from the alcove. The room still smelled like it. Alden stood near the door, exhilarated by his freedom from the secrecy contract and eager to follow his friend, but waiting for a final interaction with Worli Ro-den. Even though he didn’t know what there was for either of them to say, there must be something. Ro-den had pushed to get him alone for a private conversation. Now they could have one. Alden was surprised the man hadn’t burst into speech the second Stuart exited.
+
+Didn’t he have more for me than ‘You’ll die!’? Details about that warning?
+
+Or even a request not to spread the word about his tutoring sessions?
+
+Ro-den was just sitting. He slumped on the chest that held Renjen-art’h’s demon hide, drinking from a cup. Alden noticed that it didn’t match the other dishes Stuart had taken from the table. He had time to observe random details like that, since the person he was waiting around for wasn’t speaking to him after all.
+
+Guess the smooth talk was a show again, he decided. And I’m not worth the effort now.
+
+Alden told himself he should count this silence as a win and simply be grateful that the professor wasn’t pushing him to reactivate the tattoo.
+
+He was extremely grateful. To Stuart. But the longer he stood here, watching Ro-den sulk, the more furious accusations were coming to mind. He had had a long time since their last talk to fill a well inside him to the brim with resentment. He could dip his hand in there and pull up so many different varieties of anger for this one person.
+
+Here was some tinged with his embarrassment about how easily he’d trusted and how much he’d failed to understand. Location-specific grievances were coming to mind; he was here to see a mind healer who was helping him deal with his memories of Thegund, after all. And he could feel even darker stuff rising—cruel things he’d pictured himself saying to Ro-den when he woke up from nightmares about cleaning the remains of Kibby’s family out of the car.
+
+No. There’s nothing from that place that should ever be said.
+
+“I’m glad I can talk to Stu about myself now,” he said. “Properly. But I don’t see a good reason to spread around most of the things that were covered by our agreement, if that’s something you’re worried about. I’ve got enough common sense not to shout about Earth Contract’s soft spots or the smuggling of bombs.”
+
+Ro-den’s only answer was a glance.
+
+That’s it? How exactly did Stuart put him in this state? I guess I did basically say that I’ll keep what benefits me and protects my planet a secret, and that might be so obvious it’s not worth responding to.
+
+Whatever. If this is all there is, I’ll go.
+
+He turned.
+
+“‘Common sense’ must mean something different to you than it does to most intelligent beings.”
+
+Ro-den’s parting shot was quiet but petulant. It struck Alden as absurd. The ‘bald general,’ the Distinguished Master, the tyrant of the LeafSong labs. Joe. Sitting on a box with nothing more to offer than that insult.
+
+Who is this person? Why did he have so much power to disappoint me?
+
+“People expect you to be cool,” Alden said in English. “So many people. You obviously know how to be, but then…you aren’t.”
+
+When he stepped out into the evening air, he felt like he’d finally gotten that clean break Ro-den had insisted on when they met at Matadero.
+
+Stuart was waiting for him on the road. He’d already selected a green pebble from the bucket to carry as his offering to the House of Healing.
+
+Now there’s a guy who knows how to be cool when it matters.
+
+Stuart was trying to hold his pebble in one hand and multiple cantaloupe shards in the other. He had his anti-Ro-den stick under his arm. His mouth was full.
+
+“How did you do this?!” Alden crowed, bounding over to join him. “You looked exhausted when we talked a few days ago. You still do. Have you been trying to make this happen all week? That’s badass! You need to teach me how to say ‘badass’ in Artonan. I thought we were going to have to put up with so much shitty misunderstanding before this was over. I was trying to train my way out of it. But you just came along and figured it out and solved it. Give me that. You didn’t have to eat the attack cantaloupe. I would have brought you another.”
+
+He was sure Stuart had been extreme. The chest Ro-den was taking was extreme all by itself. Wasn’t the rest of the art’h family going to flip out when they realized it was gone?
+
+“I’m relieved I did the right thing,” Stuart said. “If I’d been wrong about you needing help with it— ”
+
+“You were right. You were so right. And you’d better be proud of yourself for persuading Ro-den. He wouldn’t even answer a call from me.”
+
+Stuart wrapped his fingers around the last piece of melon before Alden could take it. “I am a little proud.”
+
+“Be a lot proud. And if the consequences from your family are rough,” said Alden, “I’ll be worth the trouble eventually.”
+
+“Already. Not eventually.”
+
+“You can blame the demon hide on me. Tell Aymeg I’m so stupid I misunderstood him and thought he wanted me to give that chest to a smart wizard.”
+
+“I won’t do that.” Stuart paused. “Blaming you wouldn’t be badass.”
+
+Alden laughed. “You’re right! I feel shame for even suggesting it. Let’s go get my mind healed so that I have better ideas in the future.”
+
+******
+
+The long walk along the inward path that night was as helpful as always, but for the first time, Alden was in a hurry to leave at the end of it. He popped out of the grotto where he had been obediently steeping and bowed his thanks to Healer Yenu at the spiral’s entrance.
+
+His peaceful thoughts were already being swept up in the thrill of finally getting to head to the Rapport and have a talk about his skill without anything getting in the way.
+
+“Where’s Stu?” he asked, looking around the dark grove behind the House of Healing.
+
+“Inside,” said Yenu-pezth. “He argued with his healer that he would not sleep, but he is sleeping. Let that be instructive.”
+
+Sleeping? He’s going to do that for hours. I can say anything I want, but who am I supposed to talk to?
+
+“Good.” Alden tried to sound like a person with self-control. “He needs it.”
+
+******
+
+******
+
+“It’s part of a ritual for when a member of the family goes traveling. It allows me to carry the land with me, in a way, wherever I go.”
+
+Stuart pointed the object under discussion—his walking stick—toward a cluster of bushes that had overgrown the path to the old art’h house. The bushes leaned away, opening a narrow trail for them to pass.
+
+“I couldn’t invite Ro-den here, so I did this. Leeter-zis leveraged the power I was carrying with me and designed a separate ritual to enhance it and make the greeting house my domain. I thought he’d be able to do something like that after seeing his work during the Here-to-There.”
+
+“Despite the first impression I had of him, he turned out to be a serious wizard,” said Alden. “And he did tell me he wished he could use you as an ingredient here in your home.”
+
+“He told me the same thing. He wasn’t hesitant about it at all. And the way he takes advantage of other peoples’ festivities for his casting requires creativity and competence. I was still surprised at how much he managed in such a short amount of time, though.”
+
+“Him? I can’t believe how much you did in a short amount of time. We’re definitely in private now? Since you started talking about this, I can say whatever I like, too?”
+
+It was an early morning in the middle of the woods, but about fifteen minutes ago, Stuart had said he sensed his brother Kofa. They’d walked in companionable silence since then.
+
+“We’re alone.”
+
+Alden hit him with an authority greeting. “Finally! Hello! I’m The Bearer of All Burdens. But that’s a gloomy title, so please just call me Alden.”
+
+Stuart stopped. The butt of his walking stick dug into the soil. Alden had almost gotten used to its presence, but the stick did call attention to itself in a way a normal accessory wouldn’t.
+
+Stuart returned the greeting with his own authority, but said, “Would you please not speak jokingly about your skill for now? It’s important that I understand how you think of it, and with everything that’s happened and language differences… ”
+
+“You want to be sure.”
+
+Stuart nodded.
+
+“I understand. That’s the right thing.” Alden did want to make sure they were on the same page, too. “I’m…not certain whether or not I was completely joking about that. I am The Bearer of All Burdens. Sometimes that sounds impressive to me. At other times, it sounds too hard. Bearing burdens isn’t the most pleasant concept I can imagine for a skill.”
+
+Stuart’s reply was soft. “I hear.”
+
+“I’m proud of a lot of things I’ve done with it, but I’m also overwhelmed by it. For example, you asked about that time I managed to hold Zeridee with it during the flood. Just my magic, no hands. I was in pain, dying myself, and trying to hold onto her with everything I had left. I am glad I can do that, but I don’t actually want to have to do that. To go that far to be one with my skill. And then, in addition to that, you told me there was a way to have a skill that does very similar things to Bearer without the entrustment restriction. I can’t say that doesn’t make me…regretful. Somewhat. The negative emotions aren’t my main ones, but they’re there.”
+
+Before Stuart had a chance to reply, Alden added, “Right now, I’m so happy I get to talk about it. I might tell you I’m The Bearer of All Burdens fifty times before the day is through.”
+
+“It’s a beautiful skill, Alden,” Stuart said after a moment. “I’ve collected some of the information that’s available on it for you.”
+
+“Thank you!” Alden blinked. “But already? That was fast.”
+
+They’d both spent the night at the House of Healing and gotten up early. Stuart had done a short ceremonial handover of the greeting house to the healers. Now, they were back here to talk and give the walking stick to the old house. It seemed impossible that Stuart had found even a second of free time.
+
+“I had a reasonable theory about which skill was yours before yesterday.”
+
+“You did?”
+
+“After I realized the contract with Worli Ro-den was what made you act so unlike yourself whenever I wanted to discuss your skill with you, the possibilities narrowed. He wouldn’t have forced you to hide the truth if it were a common Avowed talent. And when I gave you my tablet to research masterpieces, I saw that you were most interested in spells similar to the skill you already have. As if you intended for it to be your main one long into the future. That narrowed the possibilities even further. Once it occurred to me that you might have bound one of the skills that were designed for early Avowed, I looked them up in our manuscript library.”
+
+The whole mystery of what was wrong with me was being unraveled while I assumed I had to deal with it myself.
+
+“I even knew where the information I wanted was without asking. Jozz had looked at some of those skills when researching to find his own. And I had followed his research while trying to help you. Among those skills, there was only one that could have been yours, and it matched so well that I was almost sure.”
+
+“You figured it all out just like that.”
+
+“After seeing you use your skill many times and spying on you.” Stuart sounded frustrated. “I’m sorry I didn’t realize sooner.”
+
+“I have no complaints,” Alden said. “I feel ridiculous, though. I even thought you were trying to be sneaky when you gave me the tablet with the spell descriptions, but I didn’t know how sneaky. Did you read my search history or something?”
+
+Stuart pointed to rusty orange eyes that wore thin golden implants.
+
+“Your eyerings! I’m an idiot. Of course you can view your own tablet through them.”
+
+“You’re not an idiot. You just trust me, which I hope you will continue to do. I’ve felt guilty. I had to stop myself from confessing.”
+
+“It’s all good. It’s really good from my point of view. But what’s…so…my skill is something you’ve read about. You’ve seen me use it, and now you know it’s going to be something I do a lot of. For a long time. What do you think about it? From a knight’s perspective. And from a practical one. Honestly.”
+
+This was a question that filled him with nerves.
+
+Stuart had said the skill was beautiful, but that seemed like what one person should say to another in this situation. Even if a knight revealed they had a skill that was weird as hell, Alden thought he would be able to sincerely tell them it was beautiful that they’d found the thing they wanted to make part of their soul and chosen to share the news with him.
+
+Useless, broken, or painful things could contain beauty. But he didn’t want to hear that he was a quirky clunker by the standards of someone who’d been exposed to all the awesome modern skill options.
+
+Maybe I shouldn’t have asked. If he thinks I’m massively flawed, I’m not sure I’m ready to hear it.
+
+Stuart was taking a long time to answer the question, too, which wasn’t helping.
+
+“Stuart?”
+
+“I was considering my reply,” Stuart said. “If I heard another Declared had selected that skill—someone who was a stranger to me—I would admire their choice and think they were someone I’d like to know. I would look forward to meeting them and would make what efforts I could to be considerate of their need for an entruster. There’s nothing fundamentally wrong with The Bearer of All Burdens, not even to the slightest degree. It is dignified, versatile, and selfless. What it costs the knight, or Avowed, who becomes it is repaid in potency. Actually, it’s more practical than my own skill will be in many ways, so I hope you won’t worry about that again. If you had chosen it for yourself after a choosing season like my own, I would be glad for you and think you had chosen something close to perfection…. But every time I think of you choosing it in ignorance, I grow more furious.”
+
+The forest went as quiet as it usually was closer to the siblinghold. Shadows seemed to sharpen. Stuart’s eyes burned.
+
+Alden could suddenly imagine him taking on the Grand Senate. Only it would be less like politics and more like what he’d done to Ro-den.
+
+“Thanks for that,” Alden said. “But don’t send the trees to war for me… unless they’re definitely going to win.”
+
+Stuart exhaled and relaxed his grip on the walking stick. The nearby trees creaked, and the noises began to return as he and Alden moved on.
+
+“This skill will grow with you for your whole life. You could choose another and neglect your first, but it will always be a prominent part of you. There’s a different…weight to a skill like this than there is to something like your spell impression. I say you may neglect it, but that’s a last resort that is likely to have bad outcomes. Ideally, you would have had access to everything I’ve had access to before your first binding. But you didn’t. And from where we are now, the best course is for you to nurture what you have become and take pride in it.
+
+“One day, when you’re sure you have an enduring, positive relationship with who you are as The Bearer of All Burdens, then you might bind another major skill. The older knights tell us the right reason for doing something like that is to run closer to what we already are instead of fleeing from the first skill. They also say we’ll find it hard to tell the difference during the early years. Does that make sense?” He looked over at Alden worriedly.
+
+“It does,” Alden answered. “Lying to yourself about why you want a new skill would be an easy trap to fall into. Convincing myself I’d be better at bearing burdens if I could fly…it might be true, but if I’m taking a flying skill even a little bit because I don’t like something about Bearer, like entrustment, I’m feeding self-hatred.”
+
+“Entrustment,” said Stuart. “I’ve wanted to address this with you. How much do you truly dislike it? And what would make it worth the sacrifice that is inherent to it?”
+
+The way he asked was careful, so Alden tried to answer with equal care. “At best, it’s inconvenient. I can’t use my skill without requesting permission or tricking another person into giving it. At worst, it terrifies me. If something bad happens when I’m alone or with someone who won’t entrust anything, I don’t have a skill. I know the point of it is to make me more powerful in certain circumstances and that a preservation skill without entrustment would be weaker than mine. On most days, I even think it’s worth it…if the effect’s strong enough compared to what it would be without it.”
+
+“You do! Good!”
+
+Alden let himself laugh a little at that. “You were worried I was holding onto much worse regret, I guess? I’m fine. Honest. I’m just not sure I would have accepted that price if I’d understood more and thought it through. I don’t think I’m going to flee from it, though.”
+
+“I’m relieved you acknowledge its potential,” Stuart said. “It’s the kind of restriction anyone might struggle with, even someone who’d chosen it wholeheartedly. But as long as you don’t <<despise>> it, I think you’ll come to appreciate it more than not. You need more practice with taking advantage of that aspect of the skill. I’m not sure you’ve ever used it in an ideal way except perhaps with Kivb-ee. But that wasn’t the best situation, and she wasn’t the best entruster to help you experience all it has to give.”
+
+“Harsh.”
+
+“I only mean that she’s a child and not very powerful.”
+
+“Harsh on me,” said Alden, frowning. “Do you really think I’ve only ever had one correct entruster experience? What about Zeridee?”
+
+Stuart lifted his stick to encourage another bush to get out of his way. “I know she had a severe brain injury that prevented her from thinking clearly, but didn’t you say you had trouble getting her to agree to your help?”
+
+“She didn’t want me to take any risks because my death might make an art’h sad.”
+
+“It would have.”
+
+“Good to know.”
+
+“To me, it sounds like she might not have been able to be a proper entruster. Your magic was very effective during that disaster, but that doesn’t mean you were expressing your skill perfectly. You were, as you just indicated, immensely burdened. That would make you more in tune with your skill, but your skill is like a song with many notes. Were you singing all of them well, or only the ones that are about suffering and sacrifice? Most of what you’ve done as The Bearer of All Burdens has been <<wrong difficulty>>, hasn’t it? Either too unserious or too torturous. How many entrusters have actually trusted you to protect something that is important to them? And how often are you genuinely willing to serve them in that way?”
+
+“Both of those at the same time?” Alden looked down at his feet, thinking. “Hardly ever. Maybe with you during the mishnen. Ro-den’s assistants. I don’t really know how any of you felt, though. But definitely with…”
+
+“Kivb-ee,” said Stuart. “You carried her frequently, didn’t you? During your final days at the lab, not only during your run to find Aunt Alis. She needed you to bear the burden of the chaos for her and trusted you to do it. You wanted to do it. That was probably close to a perfect expression of your skill in multiple ways. I think your, ‘At best, it’s inconvenient,’ doesn’t acknowledge that the entrustment requirement made you strong enough to do that.”
+
+“I know,” Alden said. He looked down. They were getting close to the old house. There was bluish green grass here peeking up between roots. “I do appreciate that.”
+
+“If Kivb-ee had been as powerful as Father, you might have been able to shield the whole laboratory without much strain.”
+
+“I…what?” Alden leaped ahead a couple of steps so that he could spin and face Stuart. He held up his hands even though Stuart had already halted. “The strength of the entruster’s authority affects what I can do? That much?”
+
+“It does.”
+
+“How do you know that? How do I not know that?”
+
+Stuart raised an eyebrow at him.
+
+Alden raised one back. “Because I’m not usually approaching entrustment with the proper attitude.”
+
+“Entrustment isn’t a restriction that exists solely for the sake of adding to your burden. It’s magic you can do, intentionally, to forge a connection between you and another person that will increase your skill’s authority to influence reality because you’re not alone. You’re representing someone else as well. If you do it in the right way, the authority of the other person becomes a relevant factor.”
+
+“Oh.”
+
+“But you don’t have to be the perfect Bearer of All Burdens in every way every time you do anything with it. As long as you’re not fighting yourself, however you want to use your own skill is fine.”
+
+“I want to make sure I know how to do it all, though. I don’t want to be a half-ass knight. I want to be able to preserve a large asteroid that’s bothering my entruster. I’m assuming my entruster is you, by the way.”
+
+“A bothersome asteroid?”
+
+“You’ll pick one, and I’ll throw it toward a moon-sized demon. You know, if your own skill is exhausted.”
+
+Stuart’s expression shifted from consternation to delight. “I’d like to do that, too.”
+
+“Of course you would. Who wouldn’t? We’ll make it a goal.” Alden turned and led the way forward, squeezing past the next bush before the walking stick could get involved.
+
+“Half-assed is bad?” Stuart asked.
+
+“Correct.”
+
+“Badass is good.”
+
+“Also correct. You are a badass who kicks ass with a walking stick.”
+
+“That’s confusing,” said Stuart. “But I will learn.”
+
+******
+
+******
+
+“ …so I took Burden of Enchantment,” Alden concluded. “It hasn’t been useful many times yet, but I think when I’m better educated about which enchantments do what and can be moved where…well, I’m hoping it will be something worthwhile.”
+
+It was around midday, and he sat on a huge windowsill beside Stuart, facing the outdoors with his feet dangling over the edge above a carpet of dead leaves. Stuart said if that carpet was swept away, a “spell court” of stone stars would be revealed. But there was no sign of that, and the grand hall at their back had almost as many leaves in it. They covered the glossy floor and piled up in drifts at the base of columns carved into the shapes of plants and animals that Alden didn’t know the names of.
+
+The old house was a magnificent place, but a very strange one. There were no windows, only the openings where they would have been. When people last lived here, spells had allowed the good weather in and kept the bad out. Some rooms had no roofs. There was furniture, but not in normal amounts or arrangements—a set of stools in one room, a wardrobe in another, a table with a white basin full of water in a third. It had been hot and clean, and Stuart had encouraged Alden to wash his hands in it because he’d been brushing grime off things everywhere they went to see what the house really looked like.
+
+Nothing seemed to be dirty beneath the dirt the way it should have been. Piles of rotted leaves left no stains on the floors. Something that looked like mold had fallen away from an entire wall when Alden had only wiped a single board.
+
+It was like this place remembered how to be a house and wanted to be one again.
+
+It also wanted to drink Alden’s blood like a vampire. That should have been concerning, probably. But the house wasn’t too mean about it, so he had decided to take it as evidence of welcome. Like Stuart was doing.
+
+“I’m sorry it’s taking so much,” he said, sounding more chipper than sorry as he wrapped the fifth makeshift leaf bandage of the day around Alden’s left palm. “These do seem to be slowing it down.”
+
+When they’d first arrived, Stuart had buried his walking stick under the tree he’d cut it from. Then he’d introduced Alden to the house as the friend, the knowledge, and the power he’d brought back from his trip to foreign lands. Alden had done his part by shining his light spell around to show the house he was friendly, knowledgable, and powerful. After minimal protest, he’d also given the ground a few drops of blood from a tiny cut they’d made on his palm.
+
+A couple of weeks ago, he’d have argued more. Not because he minded donating his blood to a house, but because he’d been specifically deprived of the opportunity to do it before. During his welcome to the siblinghold, no human blood had gone on the hearthstone. Sure, it was a little bit of a bummer to be left out, but he didn’t want his DNA to break something because ancient wizards hadn’t imagined just how foreign a foreign guest could be.
+
+Now, though, Stuart insisting was enough reason to ignore his misgivings. His friend had built and furnished a small building and threatened a teacher with it. He’d stolen a demon hide that they’d been told not to mess with. Ro-den was probably feeding that thing to his grasshoppers while plotting how to murder Stuart…when he finally stopped skipping school.
+
+So Stuart was definitely getting yelled at soon, and some amount of fallout might land on Alden, too. But considering everything he was getting in return, it was worth it.
+
+If his friend wanted this house to meet a human the old fashioned way, so be it. Alden had taken off his rings and shed a few drops on the same patch of soil where Stuart had apparently donated so much he’d almost fainted a few days ago.
+
+The gremlin had been a giant mental question mark ever since. Like it knew something was going on and couldn’t decide if it was a positive or a negative.
+
+The old house hadn’t collapsed on top of their heads, and no alarms had sounded. Instead, the wound on Alden’s hand had gotten wider and wider until he was leaving a trail of blood drops behind him as they explored.
+
+“It’s funny that one of the first things we do once I’ve got my protective rings is take them off so that they don’t interfere with the house injuring me.”
+
+“Leaving is a better prevention if the bleeding won’t stop. And of course your Burden of Enchantment will be useful. A lot of the equipment knights use gets damaged but not completely destroyed. I think you should be able to move an enchantment that’s still good off of something broken onto another tool. The possibilities will increase as your power grows, and I’ll be there to help you decide what can be successfully transferred. If we’re partners, my knowledge is yours.”
+
+“That’s nice to hear. I wish I could learn everything myself, but until I can actually cram decades of new information into my brain… ”
+
+“You’ll have me.” Stuart let go of Alden’s freshly bandaged hand. “I wonder if the Burden of Spell facet would allow you to hold one of the ways I create. And what the result would be.”
+
+“You mean literally hold the tunnel that forms when you use your skill?” Alden tried to wrap his head around the idea. “It doesn’t exist for very long. Did whatever you read about my skill say I should be able to do something like that?”
+
+Stuart shook his head. “It wasn’t detailed in that way. You know we can do things with our skills and steer them in directions their designers never imagined? You can follow rules they didn’t set and value aspects of yourself that they didn’t account for.”
+
+“Like your father deciding ‘fair play’ was an important concept for Cleaver of Strength? And you deciding to use Maker of Narrow Ways like you plan to.”
+
+“Yes. You can do the same as The Bearer of All Burdens. You’ll find your own  way of liking it, and you’ll turn it into something that is uniquely yours even if others have held the skill in the past. I look forward to finding out what you’ll be doing with it a few years from now.”
+
+“I’m really not getting tired of being able to talk about it. Do you have preferences for what I choose during my next binding? Now that you know I’ll be working with this. If we’re going to fight together, there must be some things you wish I’d lean toward.”
+
+Stuart pulled his legs up to sit with them crossed on the wide sill. “I want…to understand what you’re choosing and why as part of making my own choices. I’ll give you my opinions on everything, but I don’t want us to be very concerned about maximizing the functionality of each other’s skill for our early bindings. I think we’ll find plenty of ways to support each other as it is.”
+
+“What’s next then? Now that you’ve solved the thing I thought would be getting in our way for… I don’t even know how long…what do we do? I’ve changed my classes around at Celena North so they’re mostly helping me get ready.”
+
+“Your MPE classes aren’t bad training for now. I’ll help you practice your skill and your wizardry whenever you want. But I won’t be very good at that for a while after first binding…I don’t know how much I should delay that… ”
+
+“Not at all for my sake,” Alden said adamantly. “The advice your father gave you sounded good. Do it when you’re sure. That’ll be the right time. Everything else will fall into place around it.”
+
+“I’m scared.”
+
+Alden’s stomach clenched. “That’s healthy.”
+
+Stuart stared out over the grounds of the old house, toward the hillside where they’d fired the keda bean together.
+
+“Our friendship is now so many things I’ve wanted. I wish I’d met you years ago, or that we had years ahead of us to live like we did today, or that day.” He gestured toward the hill. “I’ll change, Alden. I want to be better. What if I’m not? What if, as a knight, I’m worse?”
+
+The obvious answers crossed Alden’s mind:  You won’t be. You won’t change that much. Lots of people have done it, and you’re as good as any of them.
+
+But the obvious answers kind of sounded like bullshit in the face of emotion this raw. He reached for Stuart’s spot in reality and stayed beside it. An act of attention. Closeness.
+
+“I’ll be here,” he said.
+
+******

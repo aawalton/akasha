@@ -1,0 +1,209 @@
+---
+id: 13231cf7-7c32-57be-877a-30139bbc9334
+page-type-slug: story-chapter-royal-road
+title: "Chapter 560: Travel the Stars (End of Book 9)"
+slug: 0084-chapter-560-travel-the-stars-end-of-book-9
+partOf: reborn-as-a-demonic-tree
+position: 84
+ownLength: 3099
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3286686/chapter-560-travel-the-stars-end-of-book-9"
+royalRoadId: "3286686"
+---
+
+"Marked for death?" Ren scoffed. "Why not just kill me now?"
+
+"That can be arranged," the void creature flexed its bloodied claws menacingly. "However, the Covenant prefers to give their victims the hope of survival and take pleasure in crushing those hopes."
+
+Just like that spider wanting to weave a web to trap victims for sport, Ren thought. Either the All-Seeing Eye was really that powerful to be this confident, or everyone under his command was insane. Magnus had mentioned that the dark god and his daughter were far more insane than he was.
+
+From the void, the creature pulled out a black vial. "Drink this poison, and you're free to go."
+
+"Poison?" Ren said and hesitantly walked over. The void creature simply held it out for him to take. "What is it?"
+
+"A poison made from the blood of the All-Seeing Eye."
+
+Ren inspected the vial and prodded it with his spiritual senses. It returned nothing. He went to open the vial, but the creature warned him. "Only open it when you're ready to drink it."
+
+"Why would I drink it?"
+
+"Because if you don't drink it, you will not leave here alive with the false hope of survival," the creature said as if it were a fact. "Aren't you a poison Monarch? Why would you fear a little poison?"
+
+"I don't fear poison, but I know better than to drink an unknown liquid handed to me by a monster that just pulled the heart out of my formation commander."
+
+"Don't worry about your formation commander's fate, or anyone else for that matter," the creature said, "everyone here is going to die. You alone have the chance to live, if only for a little longer. Drink it."
+
+Ren hesitated and weighed his options. His domain was still recovering, and he had used his most deadly poison to kill Magnus. If another Monarch, however unlikely that was, were to show up right now, he would be in trouble. But if there wasn't another Monarch-level threat able to fight him, then he could leave freely, and there was nothing they could do about it.
+
+The void creature before him was possibly one such threat. It seemed to lack a domain, but the void was a tricky affinity to fight, and if it didn't die like the Ents outside and simply came back weaker but could keep hunting him, he would eventually run out of Qi.
+
+Larry's words echoed in his mind.
+
+How long can you fight Grand Elder Ren? How long can you bleed until there's nothing left to give?
+
+The answer was not much more. Fighting two Monarchs, despite being weaker than him, had taken a lot out of him. He needed time to recover—time that drinking this poison would supposedly give him.
+
+He was also deathly curious; just what would the poison made from the blood of a dark god taste like? If I can study it, I might even be able to figure out what the All-Seeing Eye is and how to defeat him.
+
+Ren popped the lid open and gulped it down. It burned terribly as it went down his throat, but he had crafted his body out of poisons upon becoming a Monarch; he wasn't going to let it beat him. Sitting down, he crossed his legs and got to cultivating. He had to isolate and stabilize the poison.
+
+The void creature simply watched and honored their words about letting him go freely should he drink the poison. An hour or so passed, and Ren slowly opened his eyes.
+
+"I want to, no, I need to meet the All-Seeing Eye," he said adamantly. "This poison, it's like nothing I've ever experienced before. I need to—"
+
+"You can meet with him in his afterlife. I advise you leave this place soon before the fleet is wiped out," the creature carved a rift into the void and stepped through while offering him parting words. "Enjoy your last days in the land of the living—the Covenant will seek you out shortly."
+
+"Wait!" Ren begged, scrambling to his feet—but the void creature was already gone.
+
+"My lord," Elder Lu said as Ren's outstretched hand slowly fell. "Are you truly going to leave us? You have to take me with you!"
+
+Ren ground his teeth and glared at the incompetent Elder. "Oh, I can," he said, closing the distance in a single step. Elder Lu's courage was shattered upon seeing Ren's cold expression. He tried to retreat, only to be pinned against his console. "Right after you drink this poison, just like I had to, to earn my freedom."
+
+"I misspoke!" Elder Lu tried to reason. "I—I don't need any poison..."
+
+"Oh? I think you do," Ren seized Elder Lu's jaw and forced his mouth open. From the tip of his finger, he secreted a bead of the dark god's blood and let it drip down his throat. Elder Lu screamed as it slid past his lips.
+
+Ren stepped back, smiling. "How does it taste?"
+
+Elder Lu collapsed, clawing at his neck. His skin began to stiffen, hardening into bark, and Ren recognized the effect at once—it was the same poison they had unleashed on the Titan's Judgement that had turned its crew into trees before they basted it.
+
+"Anyone else?" Ren asked, sweeping his gaze across the room. "Survive the poison, and I'll be happy to escort you back to the Celestial Empire."
+
+No one spoke.
+
+"Then you can all die here."
+
+Satisfied, he turned and left. The mission was a disaster, unsalvageable, so he had no qualms about abandoning it.
+
+The Flagship was already tilting as the gravity-reversal arrays failed. The shields around the control tower flickered weakly, moments from collapse, while massive Ents loomed beyond the windows, their silhouettes pressing closer.
+
+Grand Elder Ren paused only once, giving the Radiant Dawn a final, silent farewell before blasting through the ashen dome and escaping into the open sky.
+
+"I still can't believe the size of Larry's domain," he muttered, marveling at the vastness of the dome as he shot toward the Celestial Empire.
+
+The All-Seeing Eye's attention bore down on him, heavy and inescapable—but there was no sign of Moros, nor of any pursuers.
+
+True to their word, they had let him go.
+
+For now, at least, he cursed. Assuming the Chairman didn't chop his head off when he returned, he would have the Covenant to deal with. That void creature is already a concern as it could come and go without a trace and could likely kill me should I be distracted. I'm going to have to build a sanctuary and seal myself away if I want to survive the All-Seeing Eye's forces.
+
+***
+
+Ashlock watched Grand Elder Ren of the Celestial Empire leave with relief.
+
+He didn't know what the situation had seemed like from Ren's point of view, but from his, it had been somewhat dire. He had sent Larry and Magnus to kill Ren, only for them to fail due to his poison that could directly target souls. He had thought Magnus had the upper hand for a moment, only for him to perish in an instant to that breath attack Ren had unleashed.
+
+In desperation to kill Ren, Ashlock had contacted Elysia and asked if she could come help, but she had informed him that her presence was all that was keeping the Celestial Empire from storming in and wiping out Floridawn. Should she leave, even for even a few minutes, the Council would swoop in, kill Cyphion, and retake Floridawn, which would wipe out all her efforts thus far in converting the people of Floridawn to his side.
+
+That left Nyxalia as his final trump card, but he didn't want to risk it as Ren had a poison that could target the soul, which was the ultimate counter to Nyxalia, who was basically a spiritual being.
+
+So, in the end, Ashlock had devised a plan to let Ren go—for now. This wasn't a total loss. By marking him for death by the Covenant, it would further instill the Covenant's reputation when he eventually killed him and would farm him sacrificial credits in the meantime.
+
+"He's gone," he told Larry once Ren was a tiny dot on the horizon.
+
+"I'm sorry for failing you, Master," Larry said.
+
+"It's not your fault. Who would have thought Ren would have a poison that could get past your undying body and target your soul directly? I bet few Monarchs can contest Ren."
+
+"I still failed your orders to restrain," Larry said, sounding genuinely upset. "I should be punished."
+
+"Stop that. You're already injured enough and need to rest."
+
+Larry's domain had saved him and Magnus from Ren's poison by storing their souls in stasis, and upon the dissolution of his domain, their bodies would be restored and their souls cleansed of any effects. That also included the many cultists who had perished during the battle that Ashlock had been stashing away in an empty hangar, as they had to remain within Larry's domain to be revived.
+
+"I'll pull out our forces and wipe out the remaining people, then you can lower your domain," Ashlock informed Larry and got to work. Portals overhead tore open, and he directed the cultists and Ents still fighting to retreat. The remaining survivors on the Flagship seemed momentarily relieved and filled with hope, only to experience true despair as they tried to fight against Khaos and Ashlock's unstoppable demonic sword, which he wanted to feed more blood to.
+
+The slaughter took over an hour to conclude, and by the end, not a single soul remained alive on any of the airships. The ghost fleet, including the Radiant Dawn Flagship, was now his. He had already turned four of the ships into Bastions, with Nascent Soul Realm spirit trees serving as their commanders.
+
+"Larry, you can dissolve your domain now," Ashlock instructed.
+
+The silver ashen dome enshrouding the entire fleet collapsed back into Larry's body, still entombed in his spiders. The tribulations returned in full force, targeting the four airships he had turned into bastions, which Ashlock directed away from the rest of the fleet to avoid the heavens striking the defenseless fleet out of the air.
+
+With the domain gone, the many ashen spiders returned to life, and Larry was able to climb out of the heap.
+
+Magnus also returned to life as the ash fell away; his dissolved head had returned, and he was free from the poison. Yet, he didn't move. He sat there, staring at the floor.
+
+"Are you alright, Magnus?" Ashlock asked, concerned.
+
+"I died," he said simply.
+
+"But Larry brought you back to life," Ashlock pointed out. "That was the entire point. We knew Ren was far stronger than you, but with Larry's domain protecting you, you could fight at your full strength without risk."
+
+"I know, I get all that," Magnus paused, seemingly finding the words. "I just thought that once I became a Monarch, I'd be unstoppable, you know?" He shook his head and chuckled. "I actually felt like a true Monarch during the fight as I beat him down—I knew in the back of my mind I was always going to lose as his domain was overpowering mine—but I didn't expect to die so... suddenly. You know? It was quite a shock to me. One moment I was there, and then the next, just blackness."
+
+Ashlock understood how he felt. "I almost died once, and would have if not for Stella bringing me back to life. I know what confronting that blackness feels like. It's eye-opening, to say the least."
+
+"Yeah," Magnus clenched his hand. "You could say that."
+
+Ashlock opened a portal for him and Larry. "You two should head back while I clean up here. Be proud of yourselves. Ren was a tough foe."
+
+Magnus slowly got to his feet, though he seemed relatively empty inside by his gaze and movements. A feeling that confronting death gave everyone, and it would soon pass. Larry followed behind Magnus, and soon the hangar that had staged a great battle between three Monarchs was empty. Ashlock made sure to open rifts for the revived cultists in the other hangar as well, many of them with expressions similar to Magnus'.
+
+Ashlock then got to work. He went through the airships one by one to sort the corpses. Those that were too damaged or weak, he piled up to be devoured. A few he turned into Ents and planned to deploy them in Floridawn as guardians and, maybe, to send a message to the Celestial Empire since they vaguely resembled the humans they had once been.
+
+Where possible, he found the corpses of each ship's captain and turned them into trees. He didn't have the credits right now, but eventually, he wanted to turn them all into Bastions.
+
+"This is annoying. None of the remaining Elders I killed are suitable to be the Bastion tree of the Flagship. Maybe Cyphion will be suitable once he has served out his purpose?" Ashlock mused as he used telekinesis to guide all of the airships through a giant portal that seemingly split the sky in two. It led to an empty valley a few hours from Red Vine Peak, which he planned to turn into an airship base now that he had an entire fleet to command.
+
+Mudcloaks had already been deployed to the site for construction of the base and repairs of the airships, and he had contacted Douglas regarding the project while slaughtering.
+
+Returning to Red Vine Peak, he informed those waiting of the situation.
+
+"Grand Elder Ren has been marked for death, but let go for now."
+
+Tiberius seemed concerned by the news. "Are you sure about allowing him to live?" he questioned hesitantly. "Grand Elder Ren is a vindictive person and is likely to go and tell the Chairman what transpired. I fear he will leak your battle tactics."
+
+"I had no choice," Ashlock admitted. "Though that works both ways. Grand Elder Ren was far too dangerous, but now I know his capabilities. I will be far more prepared when I send the Covenant to hunt him."
+
+"Will I still get to see him before he dies?"
+
+"That's up to you," Ashlock said, surprising him.
+
+"What do you mean?"
+
+"Well, I let him go. You're free to contact him or visit him before he's assassinated," Ashlock explained. Though obviously, he would listen in on any conversation they had now that he had Ren marked with his cursed sap and Gaze of the Tree God.
+
+Tiberius bowed deeply. "I appreciate you letting my master live, even if it's only temporarily. Perhaps he can make amends with you in the meantime."
+
+"Marked for death means he will die—no matter what," Ashlock said sternly. He wanted the Covenant to be taken seriously, and that could only be achieved through consistency. He didn't want people in the future to think they could bargain for their lives.
+
+Tiberius gulped. "I see... that's a shame, but I understand."
+
+Ashlock left Tiberius to sulk and moved on to the next pressing topic. He addressed Elaine and the members of the Mystshroud family she had gone to gather.
+
+"Now, Elaine, I leave the upgrading of the peaks' illusion formations to incorporate Mystic Qi to you, and also the research on the Fleshfruit trees."
+
+Elaine bowed. "I'm grateful for the opportunity to contribute more to the sect and won't disappoint you."
+
+Ashlock appreciated her enthusiasm. "I look forward to it. For now, that is all."
+
+He retreated into his Inner World and sighed. Things were escalating faster than he had anticipated. While that fleet had been comprised of older airships set for decommission, the Celestial Empire had still sent hundreds of cultivators and a Monarch to kill him.
+
+Worst of all, they were starting to figure his tricks out—such as staying away from the ground and even going as far as to firebomb the trees. This fight had also further proved to him that he needed more Monarchs, as no two were the same. One who would work great against Ren might suffer against another.
+
+"A poison that targets souls," Ashlock mused. He had never realized how incredibly dangerous that was, having never been on the receiving end. Yet, that's what his cursed blood was capable of, and it was even capable of turning into a miasma that hunted down targets.
+
+"I'm getting quite terrifying, aren't I?" Ashlock chuckled as his attention shifted to the entrance to the Eternal Realm. The celestial fog stored within the cave shimmered and shifted peacefully. "I wonder how Stella is doing? It's been a few days, so I don't expect her to be a Monarch already, unless she got straight to business and didn't get distracted."
+
+Ashlock relaxed for a moment longer before returning his attention to the surface. He didn't expect the Celestial Empire to launch another attack of that scale on him immediately, so he had some time for his forces to recover and to set about making a fleet of his own.
+
+"I'll keep Moros lurking in the wilderness in case any stray airships carrying spies or a few strong cultivators come my way," Ashlock decided as his vision zoomed through the wilderness and he located Grand Elder Ren.
+
+The Poison Monarch had already made it to the edges of Floridawn, yet instead of heading toward the World Tree, he paused in the air and then made a detour. His destination? Ashlock could only guess, but he seemed to be heading straight for Cyphion's estate and would also encounter Elysia, who was there.
+
+Ashlock watched with interest, totally unaware that something had occurred in a pocket realm many layers of creation away.
+
+***
+
+Stella slowly opened her eyes and took her first breath as a Monarch of the Aether.
+
+"Oh," she said with a massive grin as power crackled around her, "so this is what it feels like to be a Monarch. I like it."
+
+"Congratulations on your ascension," Kael said, coming into the room. "What will you do now?"
+
+"Is Thalos Tessellate still insisting on that meeting with their Patriarch?"
+
+Kael nodded. "He's been coming here regularly to check on your progress and has members of his family posted outside. I'm sure he's already aware of your success and will be here shortly. Should I send him away?"
+
+"No," Stella shook her head. "I thought meeting their Patriarch would be impossible and planned to evade the meeting, but with my new domain?" She smiled. "I really can become a princess who travels the stars."

@@ -1,0 +1,391 @@
+---
+id: 5687ed2d-0e9d-5ff1-9b77-5dcf899cc715
+page-type-slug: story-chapter-royal-road
+title: "61 Final Frontier"
+slug: 0018-61-final-frontier
+partOf: the-new-world
+position: 18
+ownLength: 5451
+unit: words
+ownProgress: 5451
+publishedAt: 2017-10-19
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169037/61-final-frontier"
+royalRoadId: "169037"
+markedReadAt: "2026-06-29T21:21:20.372Z"
+---
+
+Kessiah blinked, “Uh…You sure got up from that fast.”
+
+I nodded, “I mean yeah, of course I did. Remember, my health regen is crazy high.”
+
+Torix tapped his chin, “It’s astonishing when seen in person, however. It’s nothing like I imagined it. The process is much more…grotesque.”
+
+I shrugged, “Better to be disgusting and alive then beautiful and dead, right?”
+
+Torix glanced at Althea, “I suppose.” He glanced at the cracking, dry skin on his corpse hands, “I suppose I can’t argue. I’m not necessarily the epitome of beauty either.”
+
+He turned towards Kessiah,
+
+“But this vixen over here tried killing you.”
+
+I rolled my eyes, “Yeah right.”
+
+Kessiah stared at the ground, scratching the back of her hair.
+
+Torix’s eyes turned from a deep blue to a bright purple,
+
+“Using your mythical skill against a friend who is over 1000 levels below you. How far will you sink?”
+
+Oddly enough, Kessiah blushed, her violet skin turning purple on her cheeks. She frowned,
+
+“Uh…I’m sorry. I channeled the spell in the heat of the moment. Once the spell’s been cast, it’s done. I can’t stop it.”
+
+I shook out the tightness in one shoulder, “Who cares. You failed. Good job trying though. How low did my health get?”
+
+Torix frowned, “Less than five thousand.”
+
+Exasperation welled up, clear as day on my face, “Why are you complaining then? It’s fine. I’m more interested in how in the hell that Blood Arts stuff works. Looks pretty damn awesome.”
+
+Torix shook his hand towards me, “Don’t. It isn’t useful for someone with arcane blood. You’re much better off putting in the time and effort it takes to master magic than using her methods. Besides for that, it’s hereditary.”
+
+I frowned, “Well fuck. That sucks. Can I get an explanation on how it works?”
+
+Kessiah propped her weight onto one leg, “I trade a bit of my blood for the blood of Baldowah, an Old One. He’s kind of like a god of war or something like that.” Kessiah frowned, “The ichor dried up fast though since my body can’t sustain it. It’s a last resort.”
+
+I raised both my fists into the air, “I managed to get out the last resort. That’s what I’m talking about.”
+
+Kessiah grinned, “Yeah, you can’t handle more than one hit though.”
+
+I grinned back, “Yeah, one hit now. Wait till later.” I glanced at her arms, seeing bruises on them along with a few fresh cuts, “Besides, it doesn’t look like you came out unscathed either.”
+
+Her shoulders flopped, “I don’t have health regen like you. It takes me a while to recover from the fights.”
+
+I cupped my chin, “Alright, so my takeaway is that you’re actually a burst fighter. An assassin of sorts. If we fought for real, you’d use that technique right away. If that was the case, I’d be overwhelmed in seconds. If I can just last long enough for it to end, then I’ll win. Is that right?”
+
+Torix grinned, “Excellent analysis. Indeed, that is quite correct. Good luck sustaining through the onslaught Kessiah leaves in her wake. She can do in seconds what takes other warriors minutes.”
+
+Kessiah pointed at me, “Yeah, but I’m going to need to get a skill like that Boundless Storm you got. It makes fighting you up close so hard.”
+
+I raised an eyebrow, “Really? You could just smash me with that mythical skill though.”
+
+Kessiah bit her lip, “Yeah, but the fact you can beat me in any way already…It’s humbling.”
+
+Torix raised a hand, “I concur. Having already bested Kessiah without her unleashing her true potential. That by itself is impressive. You’ve come quite far. After you’ve settled down, come back towards my study for tutelage.”
+
+I clapped my hands, “Sure thing. Just have to carve out these runes first.”
+
+Althea walked up. She pressed together one finger from each hand, glancing at me,
+
+“Would you mind carving a few plates from your armor?”
+
+I raised an eyebrow, “What for?”
+
+“I was hoping to make a rifle out of them. Maybe the runes would help me with my rifle. I uh, I don’t know. Just trying to get a little boost is all. You know, close the distance.”
+
+I grinned, “Sounds like good practice. I can show you how to carve them later if you’d like.”
+
+A slight grin traced her lips, “That uh…sounds great.”
+
+She stepped back before Torix opened a portal beside him. He walked into it while saying,
+
+“Remember to stop by and visit after you’re done with your runes.”
+
+I gave him a tiny salute with a hand, “You got it.”
+
+We dispersed, ready for a bit of relaxation after the mission. Whenever we reached back to the camp, more people sat about then before. Without the need to close off the quarantine area, the workload had decreased. More and more lazy bums just sat around beside other lazy bums, chatting away. It struck me as foreign, like a dog walking on its hind feet.
+
+They were so close to giant monsters that were clamping their teeth at their throats. How they didn’t feel anxious about it was absurd. Most of them barely reached level 100, meaning even a single zombie kill would make a huge difference. Like, a fifty level plus kind of difference.
+
+Didn’t seem to bother them though. It reminded me of soldiers before a war. Instead of practicing their aim or working on their physical fitness, they just sat around playing cards. Since I’d been going hard nonstop for months, it looked weird.
+
+As I passed by, I was an oddity to them as well. Whispers of awe, fear, and admiration floated around me in disparate bursts. After my speech a week ago, I curried quite a bit of favor. Combine that with my new fancy-shmancy title, and I was an outright inspiration.
+
+Taking advantage of my new status symbol, I trotted up to the center of the camp. Work benches lined up in a giant square, kind of like a public square for ingenuity. The social pressure was supposed to help with productivity or something. Hard to slack off with prying eyes after all.
+
+Using that, I surged my ascendant mana before lifting a hand with a sharpened spike coming out of my palm. For a second, there was a surge of fear. When I slammed my fist into my thigh, that fear dissolved into confusion.
+
+Grabbing the puncture wound, I tore out a piece of my armor before setting out on my carving. The result was always better after a practice carve or two anyways. Making a few new pieces for Althea’s rifle would be perfect.
+
+After working on the runes for so long, I could add in more than one single meaning to the inscription. I would make out the runes with multiple meanings. Of course, making two half-baked messages was far weaker than a single strong one, so this was difficult. I found a way around it though using a double entendre. In other words, a set of words with more than one right explanation.
+
+Just like with normal words, the runes carried multiple meanings. If I layered these meanings together, I could generate multiple effects without diminishing their effects. A quick example in English would be like this: new obesity study looks for larger test group. It could mean a larger number of participants in a study. It could also mean the participants aren’t fat enough.
+
+Making these in a different, almost transcendent language was difficult though. If the meanings didn’t at least synergize or align with each other, they would disrupt the flow of mana. Since this was my first time making Althea’s inscriptions, I figured trying something a wee bit less ambitious was ideal.
+
+I stuck with making the plates help with her ammo consumption. Althea’s lack of infinite bolts seemed to be her primary problem in combat now. Even adding just a few more bolts in combat would make a huge difference.
+
+With that in mind, I connected my thumb, index, and middle finger into a single, sharp horn. This form gave me superior control when carving. It was tidbit I picked up after watching Torix use mana to scorch out his runes. My ascendant mana hummed with a violent power as well, my control of them being superior to what it once was. I could handle even delicate tasks with it burning in the background.
+
+With these new innovations, I carved out the rune that represented waste, misuse, and carelessness. The word dived deep into the meaning, bringing out all the pain that comes with being carefree. The consequences, the regret, even the semblance of loss, those emotions all surged from the rune. The neatness and precision of my carving had improved with practice and my levels, causing the change in potency.
+
+Combine that with the extra strength, dexterity, and perception, and I was a certified carving machine. As I carved with care and intent, several other guards began working nearby. It seemed my own will to work gave them the heart to work on their own tasks as well. That was good. We would need them versus Yawm, in one way or another.
+
+Keeping myself focused, I carved out the rune that represented what cannot be. It represented not even the oblivion after death, but the oblivion after you are forgotten. When a king’s legacy is forgotten, that is when he truly dies. This rune captured the essence of our menial, meaningless existence. It was a nihilist's dream.
+
+Shifting midway through, I combined the rune with another, even greater rune. This new rune cherished the meaning of our existence. It gave purpose and life to that which was once useless and dead. The rune empowered the things we gave value, holding them near and dear like the life of a loved one.
+
+After finishing the letter, I encircled the passage with the rune for unity. Written in much smaller lettering, the rune barely spanned a fifth the length of the other three inscriptions. At the end of the letter, I extended the last line of the last letter. It was like a fancy signature. This encircled the entire passage in a wire thin line, granting a portion of the runes meaning to the other letters.
+
+Doing this prevented the letter from interfering with the current passage, but passed on a part of its power. After handling this, I envisioned Althea’s rifle. My memory came to me, clear as crystal and glass. Using it as a reference, I bended the plate into the side panel of Althea’s rifle.
+
+With my thumb, I pressed out holes at the ends of the plate. This gave Althea useful hooks to keep the shield and runes attached to her plate. Before I finished, I placed my hand on the plate, surging my ascendant mana into the plate. The torrent poured into the greedy rune, letting it charge until it was completely saturated with the might of mana.
+
+I opened the jagged mouth of my armor before removing the armor on my thumb. I biting down on it, opening a wound. I wiped a smear of the blood around the rune before it discharged. My blood leaked into the hungry metal, not to be absorbed, but to make it alive. This allowed it to hold onto the mana, kind of like the wax that seals a letter.
+
+When Althea needed to use the rune, she just had to connect her mana and guide the plate for her use. With this combination of engravings, she should save around 1/3rd of her bolts. At least I hoped she would. This was my first time trying this out after all.
+
+With that finished, I set the plate beside me before placing my left forearm against the table. Of course I reinforced the shitty, rickety, just pathetic wood of the table with a telekinetic field. It was like I was setting my own arm on my back, though a bit heavier. Odd, but very effective.
+
+Speaking of which, that reminded me of another odd sensation. Ever since unlocking the level 100 dexterity perk, I didn’t have a dominant hand. The difference that produced was larger than I thought it would be. For instance, try brushing your teeth with your non- dominant hand. You’ll be jabbing the shit out of your mouth. If I tried doing it with my right hand though, I could do it with ease.
+
+Writing, eating, all of that wasn’t strange or unnatural for my right hand anymore. Tasks that were difficult and arduous before became simple. This was a perfect example. Trying to write with my right hand was hard as hell before. carving the runes was far more difficult. Without that handicapping me now though, I tapped my chin, brainstorming for a bit.
+
+It didn’t take too long before I thought up a few interesting combinations. I decided on my favorite one before beginning my carve. The passage was more intricate than Althea’s blending several characters into one. With an elegant touch and an eye for detail, I zoned into the project, relishing in each detail.
+
+From the curves of the lines to the angle of the arches in the letters, I carved with precision. A minute or two later, and the rune looked wrong. It wasn’t right, too perfect and too contrived. When I fought, I fought with a cool anger. I kept composed, calm, and cruel. While the rune was calm, it lacked the fury and fire of battle.
+
+I quit carving for a moment and urged my armor to heal the markings. What I needed was more. More pain, hatred, rage, and more fervor. The message I carved was about an icy wrath, a malice and molten rage tempered by an intent to harm. The rune when carved with such precision was like a cinder. I needed no cinder.
+
+I needed fire.
+
+I brought forth memories of my father. I bathed in my hatred of his malignance. No. That wasn’t enough. I dug deeper. From the abyss of my mind, I brought forth a bleaker, blacker hatred. The hatred I had of the powerless child that did nothing but cried. It surged with a wild wrath, like starving wolf having his meal stolen.
+
+That child wept pointless tears, tears that would do him no good. Scars and bruises and hurt, that little child hid within his own torment. He could of told his teachers. He could have taken a knife to his father’s throat. He didn’t. He sat there and withstood the abuse. Not like an unsung hero, but like a quiet coward.
+
+That rage and hatred, I wielded it. The boy forged in fires of his own self-loathing. Tempered by that fire, that child grew into a man made of metal. Haunted by the powerlessness of his past, he fought for his future. He fought to never be so powerless again.
+
+Relentless, unyielding, and uncompromising, that hatred burned scars deep into him. They were no weakness. They became his greatest strength. Using that strength, a strength born out of humiliation and agony, a monster was born.
+
+And so, I surged with the ascendant mana within, letting me carve through the armor in a fit of the very emotions that made me strongest. It drove me forward. It let me ignore my own suffering, turning the pain to power. Like a ichor of a dark god, I let the ferocity consume me as I etched in the runes.
+
+But at the core of my being, I remained calm. I kept composed. That rage gave great strength, but it would steal my mind if I allowed it. I would never allow it. I crushed the anger, beating it into submission. I turned the untamed into the tamed. I bound the unbounded.
+
+With chains of my own choosing, I shackled that inner turmoil. I turned it from something wild, something malicious, something that could not be controlled, into the most stable part of my being. Like the eye at the center of a boundless storm, I decided where my path of carnage would carry me. I decided what I left in my wake, for I am the master of my fate. I am the captain of my soul.
+
+I carved the new runes onto my arms, my legs, my palms. In the spur of the moment, I carved two more runes. One a across my back, going off feel and using my extreme flexibility. The other across my chest.
+
+Once I finished, I forgot to maintain my telekinetic field on the table. It snapped, flopping me face first into the ground beneath me. Since so many people walked here, there wasn’t any grass anymore. That meant a face full of mud.
+
+It squeezed in between my helmet before I pushed myself up, lunging off one knee. I pulled back my helmet, shaking my head to sling the mud away. Even odder than the fall, sweat poured down my dirty face. Without even noticing it, I was literally steaming. I didn’t even notice, but without my runes, channeling my ascendant mana caused this.
+
+That’s probably why the surge of emotion during the carving process was so intense. Reigning all that in made for some interesting results though. I glanced at the runes on my arms and legs. They were jagged, rough, like serrated teeth. This wasn’t the result of sloppy craftsmanship though. This was entirely intentional.
+
+It was like the rough strokes of a calligraphist. In all the chaos, there was a certain kind of order. Menacing and powerful, like the hulking frame of a monster. No, this was a thing that ate monsters. It was me.
+
+Glancing at my notifications, I saw another element that worked in my favor.
+
+Breakthrough! Carving into Oblivion(lvl 72)--->(lvl90) Breakthrough maximum level reached.
+
+I didn’t even see the notification when I was carving. My guess, I was too in the zone.
+
+Now I was out of that trance, I was eager to test the new runes out. First though, I reached behind me and felt the rune on my back. It didn’t feel like I could do something like that. The rough metal grated against my armored fingertips, just like the etchings on my arms. Thinking about it, I must have looked like a freak as I did it.
+
+Glancing around, I one hundred percent did. Several steel legion guards still stared at me, wondering what the fuck had possessed me. Considering the guards still looked at me like I was inhuman, I must have really given them something to see during the process. The ominous red mana ebbing off me mustn’t have helped either.
+
+I shrugged, knowing I couldn’t really do much about it. Picking up Althea’s plate, I walked off towards her tent. There was no point in dwelling on how weird they thought I looked. Or, well, how weird I actually did look.
+
+Without wasting any time, I passed through the camp, ignoring the whispers around me. A minute later, I walked up towards Althea’s tent. I gave it slight tap, but she didn’t answer. I gave another tap. After a groggy groan, Althea walked outside.
+
+In a tanktop and shorts, I could see her blue gray skin, almost like dull silver. Her purple hair still looked crazy, but silky and flowing, unlike dyed hair. I never paid much attention to what Althea or Kessiah looked like, mainly because I knew I was only 17. Or 18, I didn’t know what normal day it was now. I was almost certainly 18 now.
+
+Anyways, that meant I could lose my shit if I was around a sexy girl. I’d already seen Althea naked, but the circumstances prevented it from sinking in. Wearing casual clothes, Althea looked good. I mean really good. That could have easily have been the hormones talking though. Either that or my preference for a sort of messy hairstyle in girls.
+
+That’s how Althea’s hair was at this point. She had just woken up, looking tired. When she saw me, she raised an eyebrow,
+
+“What is it?”
+
+I handed her the plate, “Here it is. It might save you some ammo when you fight. I didn’t know what else to give you, considering your bolts already pierce.”
+
+She frowned, taking he plate and inspecting it. She lifted it overhead, turning it as she tried deciphering how it was supposed to be used. I noticed.
+
+“Turn your arm into the biotic rifle thingy.”
+
+She nodded, altering her arm into the interlocking plates of bone that composed her rifle. From her other arm, a spine of bone fell out before she cocked the rifle, letting out a hiss of steam. Putting the bolt into the chamber, she pointed it at the ground,
+
+“So what do I do?”
+
+I grabbed the biotic rifle, surprised by how brittle it felt. With a care I didn’t think I needed to use, I placed my plate of metal onto the rifle.
+
+“Now you just grow ropes or whatever to latch around the holes I made. It should give you a solid grip. Kind of acts as a shield and an ammo saver. Figured you could use it.”
+
+She grinned, “Wow…This is super cool…Why did you make it with holes? You could have just made a barrel or something for my rifle.”
+
+I shrugged, “Eh, I thought you wouldn’t want something like this being hard to remove. Even if you morph your hand into a giant monster arm, this plate will stay on. Figured the more open design gave you a bit more freedom.”
+
+She blinked, creating white strips of tendon that latched the plate onto her rifle. She aimed and fired a bolt. With a bit of steam floating off the barrel of the rifle, her grin grew,
+
+“I can’t believe it. It costs half as much to use bolts.”
+
+Without my helmet on my face, I scratched my nose, “Heh, try morphing your arm.”
+
+She expanded her arm, the plate remaining locked. She might as well have smiled ear to ear. Her monster arm deformed as she went in and hugged me,
+
+“Thank you, thank you, thank you.”
+
+Utterly shocked at this sudden hospitality, I glanced around, making sure Torix and Kessiah weren’t playing a prank on me. No one busted out to laugh at my reaction, so I assumed they weren’t here. I had my arms up in surprise, mainly because I almost leapt back when she had hugged me. A second later, I gave her a second-long hug,
+
+“Uhm. No problem. Glad you enjoyed it.”
+
+She glanced up at me, raising an eyebrow,
+
+“Are you…uncomfortable?”
+
+I glanced around, suppressing a blush with sheer power of will,
+
+“Hell no. Fuck you.”
+
+She grinned again,
+
+“Wow. You’re blushing.”
+
+I blinked twice,
+
+“No, I’m just not used to being in contact with a murderous eldritch lady.”
+
+She lifted me up, her strength well beyond what it should have been for her size, “Join the murderous eldritch club.”
+
+She dropped me, letting my feet smash into the soil. I rebalanced myself, standing upright. Althea continued,
+
+“If you saw what you came back from after Kessiah hit you, then you’d know what I mean.”
+
+I shrugged, “Eh, it couldn’t be worse than some eldritch I’ve seen.”
+
+She walked back into her tent, setting the plate on an office table she dragged in there,
+
+“I wouldn’t be so sure. She tore you apart. Your limbs were just so bent out of shape. Blood was everywhere. When you came up, your armor reached out in little tendrils. I don’t know if it ate the blood around you or not, but it helped you heal that’s for sure. Then you snapped your legs back into place. Bleck. gross.”
+
+I smirked, “You got to do what you got to do.”
+
+She smiled, “Yeah, I guess so. It’s was kind of cool watching you shrug it off. Anytime someone stares at me after I transform, it burns my soul. I don’t know why, but I hate it when people look at me.”
+
+“Why?”
+
+Althea shrugged, “I don’t know…probably because I think I’m gross too.”
+
+I spread out my hands, “I mean, I can see their point.”
+
+She frowned at me, but I continued with a devilish smile, “Doesn’t mean I agree though.”
+
+She rolled her eyes before tossing me a fork. I caught it, snatching it out of the air and bending it. She opened one of the drawers under her desk and pulled out a few cans with her fingers. She made her hands larger than normal, letting her grab three cans in each hand.
+
+The reformed before she tossed me one. This time I caught it without crushing what she threw me. She smiled,
+
+“Want to have lunch? It’s boring doing it by myself all the time. It’s fun having company.”
+
+I glanced around, looking for someone else. Finding no one, I turned towards her and pointed at my chest, “Uh…me?”
+
+She grew pointed claws at the ends of her fingers. After piercing the top of a can with three of her fingers, she rotated her hand with laser like precision. Her fingers sliced through the metal with ease before she pulled off the top.
+
+“Yeah you. Kessiah’s fun sometimes, but it can be hard to relate about her stuff. And Torix…” She shook her head, “I’ll have lunch with Torix when I want to listen to another lecture.”
+
+I laughed a little, “Yeah, it’s like he’s in love with the sound of his voice sometimes.”
+
+“I know right? It’s ridiculous. Yesterday I asked him about how to optimize my rifle, and you know what he told me?”
+
+I walked into the tent, making telekinetic pads under my feet. The force of it compressed on my sides, but it wasn’t uncomfortable. I leaned back against the tent, making another telekinetic field to withstand my weight.
+
+“What did he tell you?”
+
+She raised her hands, “He started stuttering before going on a tangent about how magic is better than technology. By the end of the conversation, I just wanted to say, ‘You don’t know anything about rifles, do you?’”
+
+She lowered her hands, taking a spoonful of some canned beef stew, swallowing it, “I didn’t tell him though…I didn’t want him to feel bad. He’s just trying to help.”
+
+I shook my head, smiling a bit, “I would have just told it to him straight.”
+
+She nodded her head, stirring the brown broth in the can, “Yeah…I think so too.”
+
+I reached out a hand towards her. Althea glanced at me, confused at first. She pointed at her stew, “You want this?”
+
+I nodded, but she pulled it towards her,
+
+“Hell no. This is my favorite brand and flavor. It tastes like heaven compared with those rations.”
+
+I pointed at a can in the drawer, “What about that flavor?”
+
+She glanced at it before I snatched the can from her hand. She reached out for it, but I put a hand on her forehead. The ascendant mana poured into my hand, generating heat that warmed the stew. She stopped struggling for a moment before I handed it back.
+
+She narrowed her eyes, staring at me with suspicion before taking another spoonful. She perked up,
+
+“It’s good. Really good.”
+
+I nodded, “Yeah, you’re supposed to warm stews and soup up before eating. Well, for the most part.”
+
+She glanced at the can, trying to find that information, “Really? Here I thought these were just puzzles with food for rewards.”
+
+I busted out laughing before she frowned at me,
+
+“What’s so funny?”
+
+“Nothing. Sometimes I forget you’re an alien from who knows where.”
+
+She pointed the fork at me, “And sometimes I forget you’re a human from Earth.”
+
+I poured the soup down my throat while crushing the can. I swallowed it before raising an eyebrow,
+
+“You seem like you really like food. I remember finding some cooking books here before.”
+
+The inklings of a blush formed on Althea’s cheeks as she glanced down,
+
+“Uh. Yeah. Just trying to figure this cooking stuff out. It uses names for all kinds of stuff, but I don’t know what any of it is. I mean what is paprika? I have to look it up, then I have to figure out what a teaspoon is, then I have to figure out what tea is. It’s exhausting.”
+
+I set my empty can on her desk, “I can teach you how to cook.”
+
+She rolled her eyes, “Yeah, sure. You know how to cook.”
+
+I crossed my arms, “Well, I’m not Gordon Ramsey or anything, but I can teach you the basics.” I raised my right hand, “Like what a teaspoon is.”
+
+She narrowed her eyes, “I don’t believe you.”
+
+“I can prove it. I’ll come by tomorrow and make us lunch.”
+
+She laughed, “Really...Ok, I’ll bite. Let’s see if you can make something edible.”
+
+Uncrossing my arms, I raised my palms at her, “I’m not saying it’s going to be amazing or anything.”
+
+She pointed a finger at me, “No, no, no, you can’t worm your way out of this one.”
+
+“Not trying to. I’m trying to set up some reasonable expectations.”
+
+“Hmm, ok. I doubt it’ll be better than this canned stuff though.”
+
+I grinned, a quiet confidence lacing my words, “I can make better stuff than off brand beef stew.”
+
+“If you’re lying, I’m firing a bolt between your eyes.”
+
+I laughed, “Your standards for taste are just incredibly low. And I mean low.”
+
+“Ok Daniel, I’m looking forward to it.” She glanced down, tearing open another can. “Thanks for the company, but I’m pretty sure Torix will hate you if you keep him waiting much longer.”
+
+I smacked my forehead, “Oh fuck. Yeah, I gotta go.” I walked out of the tent while waving a hand, “It was fun. We should do this again sometime.”
+
+With a slight smile, she nodded, “Yeah. I’d like that.”
+
+After walking across the camp again, I reached back into Torix’s home. As he lived in it longer, the place turned more and more eerie. There were trails of upturned earth surrounding the place, probably the burrows that the beetles used. I remember overhearing Kessiah and Torix’s conversation before being tossed by one.
+
+Combine that with the shattered windows inside the building, and you had a certified evil lair by now. I walked up towards it, using my telekinetic fields to not break through the housing. The force of compression was weird, but better than breaking every building I went into.
+
+Once I reached into the building Torix had added tables and tables laden with tools. Clippers, snappers, breakers and beakers, hammers and scissors of all shapes and sizes, the tables were chock full of creepy, metal tools. At the same time, everything was neat and organized which just added to the ominous effect.
+
+I didn’t really care by now though. I walked into the room with my footsteps damn near silent. I was reorienting the weight of my body against my sides and shoulders. Since my armor was so hard, it didn’t make much noise when even the weight of my heels pressed against it.
+
+This allowed me to sneak up to Torix, who was hunched over a table and dissecting one of the plague insects. I tapped his shoulder, “Sorry I’m late. What you up to-“
+
+Torix whipped out a hand, a block of black mana forming around me. He pressed me backwards about a foot before slamming himself into the wall. With pieces of drywall falling with him, he fell onto his table before glancing back up at me,
+
+“Oh, it’s you apostle. Excuse my sudden assault. I thought you were an intruder.” He glanced to his side while cupping his chin, “I knew I shouldn’t have told the beetles to handle you as a non-threat.” He glanced back up at me, “You almost gave me a heart attack.”
+
+I reached out a hand, which he took to help him back up,
+
+“If I had one that is.”
+
+Once upright, he lifted a hand. The wall reconstructed while the metal pieces reoriented back into their precise placings. Turning back to me, he grinned, “Have you been working on your sneaking skills?”
+
+I shook my head, “Not really. I’m using telekinesis.”
+
+Torix raised an eyebrow, so I continued, “I’m placing field under my feet and redirecting the weight against my shoulders and sides. Makes it so that I don’t crush through floors.”
+
+“Ahhhhh. I understand now. Creative and effective. Good. I believe you’re ready.”
+
+“Ready for what exactly?”
+
+Torix smiled, making his signature evil grin, “To wield gravity.”

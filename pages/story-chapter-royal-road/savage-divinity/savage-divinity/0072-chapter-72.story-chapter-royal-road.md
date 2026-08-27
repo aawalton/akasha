@@ -1,0 +1,95 @@
+---
+id: d6eaae67-42fe-5f94-970b-d36d619148b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72"
+slug: 0072-chapter-72
+partOf: savage-divinity
+position: 72
+ownLength: 3380
+unit: words
+publishedAt: 2016-05-25
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/72357/chapter-72"
+royalRoadId: "72357"
+---
+
+The cool evening air feels wonderful against my hot skin, itchier than ever. I must have slept in some weeds, or gotten bitten by a bug or something, because the irritation is getting near unbearable. I've tried a number of salves and cooling compresses, but it's all temporary, the itching coming back with a vengeance after a few hours. Maybe I just need a bath, I'm filthy from all the mud and gore. I miss home, it feels like I haven't been there in forever. No, I need to stay here, to fight in the war. This is where I want to be.
+
+My sword arcs through the air, moving erratically in every direction as I try to puzzle out the movement. So far, I've managed to puzzle out exactly one combination form: Springing Step and Killing Lunge, and that was with Song's help, but that's secondary. It'd be nice to figure out more, but what's more important is the mental exercise distracts me from my anger. It helps that it's been calm for a few days, with no battles or bloodshed, just quiet scouting missions and traveling.
+
+After taking the fortress, we sat around for a few days, before receiving orders to head further west, to deal with more Defiled. I've had plenty of time to deal with my anger issues, with breathing exercises and attempts to relax, trying to figure out just what's wrong with me. It was difficult keeping my anger in check at times, as if I'm looking for a reason to be angry, especially when I'm laying in my empty tent, trying not to hate Huu just because he's out sleeping with two sisters. I mean, I should be happy for him, but it isn't easy. Why the fuck does everyone praise him so much? I've done just as well, killed more champions than him, made more of a name for myself, and that goofy chump has all the women admiring him while all I get are dirty looks. It's fucking bullshit is what it is, I should be the one banging the sisters.
+
+Pausing my movements, I close my eyes and take a deep breath, putting my sword away. To say that I may have anger issues would be putting it lightly, but I can imagine what Akanai would say if I brought it up. 'Just deal with it, boy. You are a Sentinel, act like one'. I need to get a handle on it, control my anger before I end up doing something I regret, but the amount of power that comes with it is just incredible. It's freedom from my worries, able to fight without fear, it's just all so thrilling and addictive. In a week, I've progressed further than I have in the past year, not just in physical strength, but in mental fortitude as well, so I have no intention to stop. I only need to learn how to control my anger, focus it to my advantage and not get carried away.
+
+Opening my eyes, I take in the beautiful forest scenery. From the outside, the bright-green leaves and tall, thin, brown trunks look majestic and inviting, but hidden within were shadows and dangers. Not just the Defiled, but wild beasts and unfriendly terrain, the verdant plant life covering the rocky walls of small mountains. Most of the Northern province is like this, hilly, rocky forests, teeming with insects that buzzed around, the sounds of critters scurrying about as night birds begin their hunt. Forests like this, they remind me of home, and calm me down somewhat. Although the Tiger Fortress is close to the village, it was just too... manufactured, I guess? Plain, boring, open fields, with pebbles and dirt strewn around, the rocky mountainsides enclosing the area like prison walls, it reminded me too much of the mines. It's better out here, at the edge of the mountains and forests, cleaner, and more unrestrained.
+
+As I sit in quiet contemplation, I feel my anger simmer to a reasonable amount, like an annoying backseat driver to my emotions, and not firmly in control. Along with the release of my anger, I feel exhaustion setting in, my overtaxed body aching and pained all over, but my mind sharpens, my head clearing. I tried many different anger management techniques, and this is something that I found works, just enjoying some solitude and natural beauty.
+
+It reminds me of my camping trip with Charok, before I was ever able to find Balance. Despite all my near-death experiences inside forests, and my love for nice, orderly cities, I still love the feeling that comes over me when I see just how beautiful nature can be. Dangerous, but still beautiful.
+
+“Rain, move it, time for our sentry duty.” Yan waves me over, carrying all of my extra gear, looking saucy as ever as she bites her lovely, pinkish lips. That's another thing I need a handle on, my sex drive. It's out of control lately, and frankly, rather dark and unsavory. Luckily, since Huu has been sneaking away at night, visiting a pair of pretty sisters, I no longer need to share a tent, so my sex drive has been... suitably managed. This is my life. Huu gets to have a threesome with sisters, and I'm just sitting around masturbating. Life is unfair. I can't even sneak off to find Fung and borrow one of his courtesans, we left him and his lovely ladies back at the 'Fortress' with Man Giao and Husolt.
+
+“Aren't I supposed to have last watch, with Huu?” I've had my moments of forgetfulness lately, but I'm pretty sure that's my watch. I just want to lay down and rest.
+
+“Huu did some rearranging, so he could be closer to his lady friends. Come along, or we'll be late.” That fucking dog. Literally, he's probably off fucking. Sisters. That's the dream. Yan saunters off and I follow behind, unable to tear my eyes from the sway of her hips. Somehow, despite being in the same circumstances, Yan manages to smell of wild grass and flowers, while I stink of blood and death. And sweat, lot's of sour, rank sweat. Although summer is in full effect now, a few days from the sixth month, the weather up north never gets hotter than 'mild', which is alright by me, since I fucking sweat enough already.
+
+Mounting up, we ride out along with a group of Sentinels which includes Dagen and Tanaraq for about 20 minutes before setting a line of defense away from the camp. The setting sun offers little light, deep in the heart of the forest, the last rays of sunlight glinting off wet leaves as Zabu pads through the dirt and branches with barely a sound. This furry little monster is starting to stink of rotten fish, which is apparently his 'mating musk', and honestly, I can understand why he hasn't managed to seal the deal yet. I don't even know what they do, I'm pretty sure he doesn't have a penis, unless it's hidden in his fur and really tiny. Where do the eggs come out of anyways?
+
+Taking my mind off of incomprehensible roosequin biology, I ask, “So where am I stationed?”
+
+“With me. the Senior Captain wants the sentries in pairs. The Defiled we're hunting are smart and stealthy, you must have heard what they did to Major Vichear's unit. He said it was like they came out of the shadows, but they weren't wraiths or anything like that, just Defiled warriors.” That blowhard Kai was in charge, getting most of Vichear's men killed. The Major had a few choice words about him, none said too loudly, most of it wishing he hadn't bothered saving the loudmouth braggart. I'm glad the Major survived though, it was good to see a friendly face, even if it was only for a few minutes. Yan points out a good vantage point, moving up a small embankment and into a recessed area for the quins to hide in, while we sit above them to keep watch.
+
+As we settle in, I lower my voice to the barest of whispers. “Why are we in pairs? We taking turns out here?”
+
+“No, if the enemy arrives, we both retreat, but if they come charging, then one of us rushes back to warn the Lieutenant General, while the others stay behind to delay. Dagen says it's one of us, so I'll stay behind, and you move.”
+
+Frowning, I shake my head. “Absolutely not.” She stares at me and I sense an oncoming tirade of cursing. Grabbing two strands of grass, I hold them in my palm. “Pick one, shorter one leaves.” She randomly pulls one and I tighten my grip, the strand of grass ripping in half as it leaves my hand. Dropping the bottom half of her strand, I wave my piece of grass, clearly longer than hers. “Looks like you're leaving.”
+
+“That wasn't fucking fair.” Her jaw is set, lips pouting, looking full and plump. “Again.”
+
+Turning away, I shrug. “Nothing in life ever is, Yan.” Leaning against the trunk of a tree, I rest my body while my eyes scan the area for any sign of Defiled. “I have a better chance of surviving, and you're faster than I am. It just makes sense this way. Now quiet down, we're on sentry duty not gossiping around the well.”
+
+She tosses me a mottled green and brown cloak which I quickly throw on, covering my head and helping me blend in, the two of us lapsing into a comfortable silence as we keep watch, with only the sounds of the forest and Yan's light breathing to fill my ears. Out of all the people around my age, I'm most comfortable with Yan, just because she's the most similar to me, and the general lack of tension between us. I mean, Huu likes to make everything a competition, while Mila is smug in her superiority, although that is probably just my bruised ego talking. Song is just always flinching when I move too quickly around her, or whenever we accidentally make eye contact, or really... all the time. While I understand and empathize with her pain, I do not enjoy feeling like a monster, simply for being a man, so I just avoid her when I can.
+
+Then there's Lin. If I'm honest with myself, I miss her. I love just chatting with her about something the twins did, or bringing her out with me to pick herbs, or even listening to her talk about boring gossip. It's just that lately, she's been too insistent about marriage, which really freaks me out. I used to do her braids and cut her meals up for her, it's difficult to see her in a romantic light. I miss the old Lin, so obedient and sweet, always with a bright smile on her face, needing me to help her with her studies.
+
+Unfortunately, people change, situations change, and here I am, with anger issues and insomnia, standing on a rocky hill, watching for cannibal murder-soldiers in a dark, spooky forest. Woo, the honor and glory of warfare.
+
+Riveting.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Adujan's fingers tapped against her leg, drumming out a silent beat while she gathered her nerve to put her plan into action. Alsantset had come up with the idea, and while it was a great idea, it meant that Adujan was the one who needed to carry it out. There was no way Alsantset could perform convincingly enough for it to work, so by default that left Adujan to carry out the role of maiden in distress. Rain was focused on his watch, and she should be too, but without meaning to, she continued to glance over at him out of the corner of her eye.
+
+He seemed so calm and collected, nothing like how he had been after the fire. Perhaps she was wrong after all, that it was only her overactive imagination. That he had volunteered to stay behind gave her hope that he was not truly lost, but still, she needed to be sure. She had been unable to sleep well for the past few days, her worry gnawing away at her as she searched for some clue, some sign that Rain had not been Defiled. While it was usually incredibly obvious, not all people who were Defiled turned to raving, violent lunatics. If that were the case, then the Sentinels would not have been dispatched here in the first place, to deal with a group of cagey warriors.
+
+Truth be told, she was nervous about more than just Rain. The battlefield was a joyless place, her former dreams of glory and recognition seeming the fancies of a naive child. There was no glory here, only blood and death. She had watched Sentinels die before her eyes, men and women she knew and had served with, whose strength she had admired, and their lives had been snuffed out in an instant. The dying screams of the battlefield were beginning to haunt her dreams, and she was only barely managing to keep herself together.
+
+Mila and Huu were completely fine, as were most of the other younger Sentinels. They all took everything in stride, the killing, the deaths, none of it seemed to bother them. Adujan had almost broken down into tears, having to pile up the corpses of Sentinels and Roosequins, their bodies to be burned so that they would not be desecrated by scavengers. She had retreated to the forest with Shana, crying into her little friends fur, the thought of losing the quin rendering her incapable of coherent thought. She had decided that she would earn enough coin to purchase Shana, and let the little quin retire and grow fat in the village, free from war and hardship.
+
+Enough delay. It was time to find out if she had lost Rain, or if they could still save him. Taking a deep breath, she simply leaped into the flames. “Rain?” Her voice was barely more than a whisper.
+
+“You see something?”
+
+“No, I just wanted to ask you something.” She sensed, more than heard, his sigh, and quickly continued before he could object. “I've been having trouble with my cultivation with the runic Ring, and wanted to know what it was like for you.” This was the plan that Alsantset and she had come up with, to feign distress to get Rain speaking. Ask him how he was doing, and the mule-headed jerk would just shrugs, before wandering away from conversation. Ask him for help, and he was more likely to engage, as it was simply who he was. The only problem was that Adujan hated asking for help.
+
+“I don't really think I'm the best person to ask. In fact, I've been contemplating just giving the ring away, to Fung or something. I can barely use it. Try asking Mila or Song.”
+
+Things were going as planned so far. “Mila and Song have very little difficulties with the ring, and are unable to relate to my problems. I thought that since you were having difficulties as well, we could put our heads together and speak of it. What is it like for you, when you are cultivating?” She waited as he stood in silence, doing everything in her power not to look at him, pretending to be casual and indifferent to the outcome when nothing could be further from the truth. She wanted to slap his idiot face for making her need to do this.
+
+After a long pause, he finally spoke up, still focused on the surroundings. “Cultivating with the ring is nothing like normal cultivation. Without the ring, as soon as I slip into a State of Balance, it's like a warm summer breeze, while sitting in the cool shade. A gentle feeling that envelops me, makes me feel safe and cared for. Meditation is refreshing and invigorating, and I wake from it content and tranquil, feeling like I belong, wherever I may be.”
+
+Hearing this, Adujan smiled wryly at herself. This asshole, refreshing and invigorating? For her, it was like grasping at oil in water, trying to capture it as it escaped through her fingers, bits and pieces at a time, a frustrating endeavor. The ring allowed her a sensation closer to what Rain was describing, but still not so simple, and he claimed that was what it was like for him unaided? It seemed that he was able to slip into something close to a perfect state of Balance, to have the Energy of the Heavens flow gently into your body, like water to a low point, or air into a vacuum. It was how they described the process to children, but that was so they could have an idea of what it should have been like.
+
+It was no wonder he was so good at healing. Although his ability to store chi was low, he could simply spend some time and replenish his supply of chi in a matter of hours, practicing as much as he wanted to. It took a steady and calm mind to be able to reach such a perfect State of Balance like that, and the only person that Adujan knew capable of such a feat at their age was Sumila, who was considered a prodigy. Who would have thought that Rain was one as well?
+
+“You say at the best of times. Are things different now?” Adujan was almost reluctant to ask, her ego bruised and motivation depleted. Talent was one thing, but how could she surpass Rain, who was both talented and hardworking? No, life was indeed unfair, and it was for reasons like this that talk of cultivation and progress was discouraged among peers. The emotional strain of competition was oftentimes enough to throw someone out of Balance, the inability to match a rival or reach a goal some of the most common deterrents of cultivation.
+
+“Lately it has been. Ever since I've started using the ring, it's been getting more and more difficult to find Balance.” His open admission of it filled Adujan with joy. If he were truly Defiled, the state of Balance would be forever lost to him, unable to control his base emotions and desires. She waited quietly for him to continue, but silence was all she received in turn. Perhaps he would realize the problem on his own?
+
+She wrestled with her thoughts for an agonizing half-minute. They had not planned this far, only how to lead him towards admitting his problem. Now that he had, what was she to do? “What exactly is the issue when you cultivate with the ring? Perhaps it is the same as mine.” Better to speak of something innocuous first, get him comfortable with talking to her.
+
+“It's a struggle, a raging torrent drowning me within itself, and I can barely find a breath, until such a time that the struggle ends, and all that is left is peace and serenity.” Adujan blinked a few times at Rain's statement, trying to comprehend his issue. How was that even possible? “It's like I'm fighting the Energy, trying to keep it out of me, and then suddenly, I just want to lay within it, give myself over to it, and surrender.”
+
+Adujan sat in silence, without words to aid him. She understood little of what he was saying, had never heard anything like he described. She began to open her mouth, to suggest that he ask someone wiser than her, but Rain's hand tapped her shoulder thrice, signaling that he felt something was amiss. Tensing up, she nervously waited in silence, not even daring to breathe, hoping that he would soon signal that it was a false alarm. All other thoughts had been shoved aside for the moment, survival of the utmost importance.
+
+No such luck. Three bird calls, long-to-short whistles, and she was moving, hopping down from her perch to land atop Shana, waking the quin rudely from her rest. Riding off in silence as quickly as she could, the dark night covered her escape as she frantically moved towards the Lieutenant General, the sounds of battle erupting behind her as the Defiled arrived, ready for blood and death.

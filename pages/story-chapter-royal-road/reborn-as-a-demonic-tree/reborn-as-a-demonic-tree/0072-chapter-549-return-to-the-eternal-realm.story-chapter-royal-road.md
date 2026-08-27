@@ -1,0 +1,193 @@
+---
+id: 628f58ee-b249-51cd-ad6b-ed3142b39d9b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 549: Return to the Eternal Realm"
+slug: 0072-chapter-549-return-to-the-eternal-realm
+partOf: reborn-as-a-demonic-tree
+position: 72
+ownLength: 2915
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3185120/chapter-549-return-to-the-eternal-realm"
+royalRoadId: "3185120"
+---
+
+Stella felt like there was something unmistakably different about Ashlock.
+
+It wasn't his cultivation realm, as he was exerting the same oppressive spiritual pressure as usual—it was something else. Stella traced her fingers along his rough bark as she tried to pin down the reason for the shift.
+
+He has this subtle aura around him now that makes him feel like a profoundly ancient being. She glanced around and blanketed the area with her spiritual pressure. So strange. It's as if I have entered a grove as old as time and am standing before a tree that has seen the rise and fall of nations. Not Ash, whom I saw grow from a sapling to this behemoth of a spirit tree over a mere decade. This ancient aura doesn't match him at all.
+
+Stella sighed and looked up at his canopy. She knew for a fact that Ashlock wasn't thousands of years old. Yet, the subtle way the surrounding nature bowed in his presence was throwing her off. That wasn't all. Stella had also felt strangely watched ever since entering Ash's territory. Initially, she had confused it with the subtle attention Ash's gaze always gave her when he was focused on her, but no portal appeared to shepherd her home, and he didn't reply when she called out during her journey.
+
+Even now, as she stood directly before him, she felt his lingering gaze but could also tell his attention was elsewhere.
+
+"He's got some explaining to do," Stella muttered as she rang the bell to get Ash's attention.
+
+The sudden shift in his attention from a faraway land to Stella was extremely noticeable. If his gaze had been like a passing cloud in the sky before, it was now like a scorching sun blazing down upon her.
+
+It was... intense. But also nice in a way. She liked knowing his attention was wholly focused on her.
+
+"Stella! You've finally returned! I missed you a lot," he said excitedly, but his voice also carried a weird, ancient feeling to it, as if every word was being enriched by the soil. He then paused, and Stella felt his gaze shift to Ao Lingxuan, who stood silently at her side. "And who is this ice dragon?"
+
+Stella crossed her arms and refused to answer the question until she got some answers of her own. "Who are you, and what happened to the Ash I used to know?" Stella half-joked.
+
+"Huh? What do you mean?"
+
+Acting mysterious, are we? Stella thought and rolled her eyes.
+
+"Your gaze is far more intense now, and the aura around you is that of an ancient tree. It's as if you are now thousands of years old," Stella explained what she was feeling as best she could.
+
+"Oh... well, the gaze thing I can explain. I upgraded the technique that allows me to see within my domain, meaning my gaze covers my entire body at all times, and I can also focus it on people to drive them effectively mad." Ash paused. "As for the feeling ancient part, I'm not too sure. Perhaps it's because I now possess Nature Law?"
+
+"You have Nature Law now?! How?" Stella said in disbelief, pointing an accusing finger. "You cheated somehow, I know you did." She had almost died getting her hands on Aether Law. How could Ashlock have possibly achieved Nature Law in a few days?
+
+"Quite simple, really. I devoured the soul of Faelorian, a nature Monarch from the Celestial Empire. I then absorbed his latent dao knowledge and experienced it as a lucid dream, where I had to carry out nature's will until I understood it perfectly."
+
+"Y—You what? Devoured a Monarch?"
+
+Ashlock chuckled. "You didn't hear about it from the others? The war in the Celestial Empire hit a breaking point last night, and I went all out against one of the Monarchs. I required the help of Magnus and Khaos to finish him off, as Monarchs are far more durable than I expected."
+
+Stella was too stunned to speak. She had been excited to blow Ash's mind regarding the stuff she had gotten up to in the Frozen Star Sect, but now it felt so... ordinary.
+
+"Has the Celestial Empire responded yet to the slaying of one of their Monarchs?" Stella asked. Despite feeling down, the news filled her with excitement. If one Monarch had fallen, more were sure to follow now that Ash had no reason to hold back. This was all-out war!
+
+"I was about to check on that, as I've been asleep until now."
+
+"You have? How long was the dream?" she inquired, fearing the answer. There was no chance the dream had been short if it had resulted in understanding Nature Law.
+
+"Only one night in real time, but hundreds, if not thousands, of years in the dream world, I suppose," Ash casually replied. "Why? Are you worried I've forgotten about you? Because I can assure you that just like anyone else's dreams, those many years have faded into the back of my mind and have merely altered my view of nature and reality a little—"
+
+"I know," Stella said, cutting off his ramblings, "None of that was ever a concern of mine. The number of passing years one experiences is unimportant; it's what they endure and learn during that time that shapes them," she snorted in amusement. "I bet Douglas could go into secluded cultivation for a century and come out with more rocks for brains than when he went in."
+
+"While that is mean," Diana said as she stepped through a nearby portal that Ash had made earlier, "I have to admit it may be true. Not because Douglas is a fool," she quickly clarified, "but if a cultivator does nothing but lock themselves in a cave and listen to the whispers of their affinity for years on end, it's going to alter them for the worse. Not to mention that age doesn't make one wise—actually, in my experience, it makes them more stubborn and blind. Wait, who's the dragon?"
+
+Stella smirked. "Speaking of stubborn and blind, this is Ao Lingxuan, a foolish Monarch Realm ice dragon who bet his soul against me and lost tragically. Now, he's my slave."
+
+"You bet your soul?!" Ash thundered, and the whole aura of the mountain peak reflected his rage. "What if you had lost? Would you have willingly surrendered your soul to this lizard and become his pet?"
+
+"Of course not... um... Father," Stella chuckled nervously. "I had Zephyrine and Maple with me. If I had lost, they would have stepped in and killed him. It's not like the bet we made was heaven-binding. If it had been, he wouldn't have tried to deny my victory and kill me."
+
+"I'm confused," Diana admitted. "What was the point of the bet if you could make him your slave from the start?"
+
+"Because it was fun," Stella said honestly and shrugged as Diana stared at her like she was mad or something. "What? It really was, and I suppose winning the bet gave me a moral right to enslave him and take over the Frozen Star Sect as I did beat him fair and square at his own rigged game."
+
+"Who proposed the bet?"
+
+"I did," Stella said, but quickly added, "but he agreed. I think he wanted to get back at Zephyrine after she beat him up by winning my soul and humiliating her in turn."
+
+Diana opened her mouth to say something, but the words seemed to die in her throat as she silently appraised her with a disapproving look.
+
+Stella looked to the ground and sulked. "It all turned out fine. What are you two so mad about? I conquered the strongest sect in the wilderness and enslaved their patriarch in a single day, fair and square, by the way."
+
+Ashlock sighed. "I suppose a prideful dragon finally met his match with you, Stella. I dare not imagine the scene that led up to this result, but I'm just glad you are okay. Though I must ask, is this Ao Lingxuan truly safe to keep around you and others?"
+
+Stella perked up a little and glanced at the tall ice dragon who had shifted into his human form so as not to flatten the trees on Red Vine Peak. "I think so? Whatever Maple did to him caused his personality to die, leaving behind an almost lifeless husk that follows my commands. Watch this," she clicked her fingers before Ao Lingxuan, earning no reaction. "Sit," she commanded, and the ice dragon sat down on her bench.
+
+"That's kinda sad, no? I don't know how to put it," Diana crouched before Ao Lingxuan. "He looks like a person, but you're right, his eyes... they are empty. Devoid of any soul."
+
+"It was either this or death," Stella admitted. "I mentioned this before, but after losing the bet, he tried to murder me. Zephyrine was not happy about that, to say the least."
+
+Diana frowned. "You make it sound like death is worse than becoming your mindless slave."
+
+"I mean... do you not remember what we saw in the afterlife? I'd not want to go there. Ever."
+
+Diana pondered her words for a moment before finally giving up. "At the end of the day, he was the fool for betting his soul and losing. I suppose this is what he deserves." She stepped back, shaking her head. "Are all dragons like this?"
+
+Stella snorted. "Most seem to be. No matter their age or cultivation level, their pride always leads to their downfall in the end."
+
+"You should take a lesson from that," Diana murmured under her breath.
+
+"I heard that," Stella snapped. "I've gotten better, and besides, unlike these arrogant dragons that try to stand at the top alone, I have you guys to back me up when I fall. Right?"
+
+"That's true. I suppose it's them I should be more concerned about if Ao Lingxuan's fate is anything to go by. You really should be more careful, though, you know?" Diana laughed and playfully hit Stella on the shoulder. She felt nothing from it.
+
+Ao Lingxuan twitched ever so slightly.
+
+Diana's eyes instantly narrowed. "Why did punching you feel like I hit an ice wall?"
+
+"Damage transfer," Stella explained. "It's part of the soul binding between Ao Lingxuan and me. Any damage I take is transferred to him—a safety measure put in place to prevent him from turning on me, and it turns out to be quite useful."
+
+"Wait, what?" Ash asked, his interest understandably piqued. "Do you know the limits of it?"
+
+Stella turned to face Ash before answering. "No. As I said, it was added as a safety feature, but it means I should be far harder to kill now, so long as Ao Lingxuan is alive, that is."
+
+"This is insane, Stella. I don't think you understand how durable Monarch Realm monsters and cultivators are. I had to use everything I had to take out Faelorian, including many void-based skills and Khaos."
+
+"I must point out that Ao Lingxuan isn't a particularly strong Monarch, considering he lost quickly to Zephyrine, and it wasn't even close."
+
+"Monarchs are still Monarchs," Ash insisted. "Their strength is incomparable to the realms of power below."
+
+"I see," Stella said. She then hesitantly glanced at Ash and back at Ao Lingxuan. "Say, Ash, I was wondering if—"
+
+"You could join the fight? No."
+
+"W—What? But I have Ao Lingxuan to take the damage for me."
+
+"So? He will simply die in your place, and then you will swiftly follow. Even at the 7th stage of the Nascent Soul Realm, a Monarch will crush you, Stella. In fact, since you are here now, it is a good time. Go with Diana and Kaida into the Eternal Realm and complete your ascension to the Monarch Realm. Then I'll be more than happy to let you fight."
+
+Stella pouted. This wasn't the answer she had been expecting. She thought about arguing that Ao Lingxuan could also fight for her, but then remembered she had just downplayed his strength. Sighing in resignation, she accepted. "I'm sure the Tessellate family and Kael have missed my presence in the Citadel, but I also need to do some research on the Fleshfruit trees..."
+
+"Leave some here for me to inspect and take the rest with you to the Eternal Realm. The time dilation will help you finish your research faster," Ashlock said.
+
+"No getting out of it, huh?" Stella grumbled. "Fine, I'll go."
+
+She didn't feel quite ready to challenge the heavens and form her Inner World. But compared to when she had left the Eternal Realm, the trip to the Frozen Star Sect had given her far more confidence.
+
+"Once you are a Monarch, Stella, you can do as you please on this layer of creation."
+
+A portal to Ash's Inner World opened, and she stepped through.
+
+She smiled as she did so, as Ash had no idea.
+
+I can do whatever I want in the Tessellate Citadel. After that lucky timing with Khaos arriving, they are so terrified of me that I wouldn't be surprised if they think I'm the daughter of the heavens themselves. I just hope that while I was gone, they didn't give Kael too hard a time.
+
+For the second time, she entered the Eternal Realm.
+
+***
+
+Thalos Tessellate was at his wits' end. It had been utter chaos in the Citadel ever since the Slaughter Princess's abrupt departure and the reestablishment of the portal to the mainland.
+
+His father, the head of the Tessellate family, had given him an earful for being greedy and asking for so many shipments. However, once he caught his father up on the situation with the strange Princess, a realm-spanning investigation into Stella the Slaughter Princess had been launched.
+
+Nothing had turned up despite their efforts.
+
+At least since then, time had gone back to flowing normally, and they were reconnected to the mainland. Though that only confirmed Stella's claim that her father had the power to isolate any pocket realm of his choosing and alter the flow of time—something only a high god or the heavens themselves should be capable of.
+
+Annoyingly, Stella herself was nothing too extraordinary, but her father's presence made dealing with her incredibly dangerous.
+
+Thalos rubbed his temples as he stared down at the many reports sprawled out on his desk before him. They outlined the steps they had taken to prepare should the princess return. Besides a significant increase in the food and pill stores, they had brought in experts from the mainland to upgrade the portal.
+
+"Hopefully she never returns," Thalos Tessellate grumbled as he leaned back in his chair and let out a sigh. Nothing good ever came from dealing with the spoiled brats of gods; that's what his father had warned him, anyway.
+
+Drumming his fingers on his desk, he pondered what he should do with Kael, the servant boy the princess had left behind to take care of her estate. The council was split on the matter. Some wanted him imprisoned as leverage against the princess, while others argued that angering her was a terrible idea.
+
+He was with the second camp, while the Elders from the mainland, who didn't believe the stories, made up the majority of the first group. He was obliged to listen to the Elders on all decisions, but this wasn't one he was willing to bend the knee to. Even now, he could feel the chill of the void from that headless monster that had come to check on Stella that fateful day.
+
+But denying the Elders' direct orders to imprison Kael had resulted in more problems than he had anticipated.
+
+"Ugh, what a headache—" His doors flung open, and his stuck-up cousin, Elder Virelia, strode in. Her way of entry wasn't too unusual, but her dire expression was. He raised a brow. "What's going on to cause you to look so ashen, cousin?"
+
+"The portal has stopped working again," she said, her words cutting through his headache like a blade of ice.
+
+Thalos paused and then waved it off. "It's likely a malfunction brought on by the recent upgrades—"
+
+"Communication jades too. It's just like last time."
+
+Thalos felt his soul leave his body as he sighed deeply. Rising from his chair, he eyed Virelia with a darkened expression. "Gather everyone and head to Stella's estate. I fear the Slaughter Princess has graced us with her presence once more."
+
+Elder Virelia nodded sharply and turned to leave, only for another Elder to run inside in a panic. "A dragon is attacking the Citadel!"
+
+"What?" Thalos said, wondering if he had heard it wrong. "A dragon? We don't have any wildlife on this godforsaken rock, much less something as legendary as a dragon—"
+
+"I'm not lying. Just look out any window on the east side, and you will see a giant ice dragon in the sky over the noble district with a cackling girl standing on its head."
+
+The entire building suddenly quaked.
+
+Thalos and Virelia exchanged a glance.
+
+That cackling girl was most certainly her, wasn't she?
+
+"Instruct everyone not to attack the dragon," he said. "Its owner isn't someone we can mess with. Elder Virelia, you're with me."
+
+With a snap of his fingers, a portal to Stella's estate opened. It was time to meet the Slaughter Princess again, and he wasn't happy about it at all.

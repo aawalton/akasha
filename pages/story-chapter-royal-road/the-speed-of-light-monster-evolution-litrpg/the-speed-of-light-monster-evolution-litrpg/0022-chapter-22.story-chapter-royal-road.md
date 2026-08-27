@@ -1,0 +1,231 @@
+---
+id: 49171abb-9eb2-5d29-883d-bf4e2ec04b96
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22"
+slug: 0022-chapter-22
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 22
+ownLength: 2098
+unit: words
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2594490/chapter-22"
+royalRoadId: "2594490"
+---
+
+Tachyon stood in the middle of the carnage she had just committed, the ceiling still finishing partially caving in around her.
+
+The medium Controlling Stone, slowly reformed next to her, along with a larger-than-normal chest.
+
+While she was eager to see what was inside, she needed to first make sure that she was able to collect everything from the monsters she had killed before they were buried beneath more rocks.
+
+She made sure to stay aware of the ceiling as she went around the entirety of the cave, picking up anything shiny or something she thought looked valuable. While doing so she was loath to notice her shoes.
+
+Her knock-off Hermes shoes had been badly damaged during the fight. And not from actually fighting. The flames around her feet had melted them almost completely. She looked behind her at the path she left behind, small blotches of melted metal filling indented hoof prints seared into the ground.
+
+Tachyon became worried it would become a serious problem if she couldn’t get her own body under control. While she was able to handle herself during the fight, that was more of her letting loose than her being masterfully adept at using her skills and such.
+
+Feeling a bit embarrassed, she subconsciously knew her ears were turning rosey.
+
+Now more aware of her body, Tachyon watched where she stepped. Doing her best to not burn anything important.
+
+She found several more mana rings among the mages, but held off placing them on her legs as she noticed the one she had there before was also turned to molten sludge.
+
+Just how hot is this fire around me..? She thought, not feeling the least bit of heat from the flames.
+
+Instead of equipping the accessories, she stored them in her bag, which was surprisingly fine and still hanging around her neck along with her cuirass. While the cuirass was slightly singed, it was holding up quite well in comparison to her other equipment.
+
+By now, she had picked up a multitude of other rings with red stones, sticks that the mages used, and a few other small items. She would have to sort through them later when she could finally rest.
+
+The Medium Controlling Stone had now reformed, the chest along with it. She made her way back, looking down at the completely crushed corpse of Gregor, next to him a smashed staff with four colored stones. One blue, one red, one brown, and one green.
+
+She assumed it may be useful thanks to how tough Gregor was, so she stored it as well. Then she brought her attention to the chest, careful to nudge it only with her nose as it swung open.
+
+Once the chest had creaked open, revealing what was inside, she was unsure what to say.
+
+A small coin, a shiny stone surrounded by metal, and new boots?
+
+Tachyon placed all three into her bag for now. There was no sense in slipping on new equipment if it could still get damaged by her body.
+
+But now that she had done scouring the cave, she was in a weird melancholy at what to do next. She knew she had more Controlling Stones to find and conquer. And she was aware of one more within the cave system.
+
+However, the fight she had gone through for this particular one was the hardest and most dangerous to date. Yet, she felt as if she wanted more. Not just to fight, but to push her limits further.
+
+She was unsatisfied with how she had won. Displeased with the speed and prowess she displayed.
+
+Tachyon’s foot pawed at the ground, the flames on her legs burning a small scorched divot into the cave floor. What she wanted was more. More speed, more precision, more overwhelming skill and power.
+
+She felt a limit that needed to be pushed past. The ultimate potential of her new body, of the evolutions to come. There was something she was chasing now, she just couldn’t put her hoof on what.
+
+“W-What have you done!? You little bitch-”
+
+Tachyon’s head snapped to one of the entrances to the cave. Her senses had not picked up the monster entering due to being lost in her own thoughts, still becoming accustomed to her new body, dulling her senses.
+
+Her eyes burrowed into the monster, who barely fit through the passageway, as it froze in her gaze.
+
+Troglodyte of Hercules Level 23
+
+Tachyon’s light fire carrots manifested around her as she thinned her eyes curiously.
+
+“Are you here for the Controlling Stone?” she asked.
+
+The troglodyte’s face grimaced and twisted in anger, “You killed my brother,” the troglodyte said in a low tone, its hand pointing to the mushed pile of monster next to her, who used to be Gregor.
+
+Tachyon’s head turned to follow, then back, “Yes, he attempted to kill me. So I killed him, that isn’t so unreasonable here, is it?”
+
+She watched closely as the troglodyte seemed to calm himself down, taking a breath, then rubbing the back of his head with massive hands.
+
+“No, I suppose not. He had a staff with him. Give it-” he coughed, “I would like it back.”
+
+Tachyon recalled the stick, which she assumed was the staff the troglodyte was referring to.
+
+She shook her head, “No. He lost, it is mine now, unless you have something… to trade for it?”
+
+The monster shook his head, seemingly giving up rather easily.
+
+“No, nothing a mare would want…” the troglodyte groaned, “Fucking, Gregor! You stupid cunt! You had to go and die!” he cursed.
+
+Tachyon readied herself, her magic carrots flying dangerously close before the troglodyte raised his hands.
+
+“Hold on! Hold on! I don’t want to bloody die, damn it!”
+
+She stopped the magic carrots a few feet from him, but continued to have them hover close.
+
+“Then tell me what you want. I am busy and have things I wish to do,” she said tersely.
+
+Like get out of here and find some real food… Tachyon thought, grumbling internally.
+
+“I just wanted to save my brother before he died. It’s only right for a brother to do that. But seeing as he’s dead. And I don’t want to stinkin’ die. I’m going to get the hell out of here now.”
+
+Tachyon stopped him from turning, another magic carrot barring his path back into the passageway.
+
+She was curious.
+
+“Why are you so sure I will kill you? You are at a higher level.”
+
+The troglodyte shook his head, “Don’t matter one bit. I can’t use magic, and you already have me surrounded. I lost the moment I entered the cave after the fight.”
+
+“Even being two levels above me?”
+
+The troglodyte nodded.
+
+Tachyon released her spells as they winked out of existence, only keeping a few near her for the light as well as a countermeasure.
+
+“Perhaps we can make a deal. You seem very intelligent. What did you say your name was?”
+
+“Sandor,” he grunted.
+
+“Do you have a problem that I killed your brother?” Tachyon asked.
+
+“Not particularly,” Sandor sneered, “I was a bit surprised he died. But he wasn’t exactly the best bloody person you’d ever meet.”
+
+Tachyon tried to gauge his response. She wasn’t particularly a good judge of character. After all, she was in seclusion in the arena for nearly her entire life. Her only interactions with her captors and parents were before they passed.
+
+But she did have one thing. Her sensitivity to mana now that she was focused. And she could feel no fluctuations in Sandor’s voice while speaking.
+
+“Then will you agree to protect this Controlling Stone, as long as it does not threaten your life, until the end of the tutorial?”
+
+Sandor looked confused, but Tachyon saw no reason not to be straightforward.
+
+“You said you do not wish to die. And I need someone to watch the stone while I am going after the others.”
+
+“You’re going to go after the other Controlling Stones?” Sandor asked, parroting her, then looked Tachyon up and down again, giving a shrug, “Okay. Can’t promise I’ll sit my ass here for the entire tutorial. But I’ll be here for at least a few weeks, best I can do.”
+
+Tachyon was a little annoyed he wouldn’t agree readily but she honestly didn’t want to fight just yet. Having him agree now would avoid one while she got a hold of her new body and skills. And if he decided to take the Controlling Stone while she was away, she could just come back and get it again.
+
+“Fine,” she nodded, then remembered something, “Did you happen to pass two Diver Troglodytes on your way here?” she asked pensively.
+
+“Who, Ted and Ned? What about those two idiots?”
+
+“Did you kill them?” she asked sternly.
+
+“No, not particularly. They're still alive, least last I saw them they were.”
+
+Tachyon let out a small breath of relief. If Sandor had killed them, she would have fought him out of principle. She couldn’t have friends who fed her dying without revenge. Not to mention, she hoped that she might be able to get them to feed her again.
+
+“I’ll stay here. Would you go retrieve them for me?”
+
+“What am I, a bloody fucking dog?”
+
+Tachyon stared at him silently.
+
+“Alright. Guess I’m a bloody dog now,” Sandor waved, turning around back into the passage, “I’ll be back in an hour.”
+
+She simply watched Sandor walk away, waiting for his mana signature to move far enough that she felt safe to let her guard down.
+
+Tachyon felt her ears turn rosy. She had never talked to another person for that long. Had she been too demanding? What if it backfired because she was so bossy? Well, why should she be too concerned?
+
+Tachyon nodded to herself.
+
+Sandor agreed after all. All's well that ends well! And now I might get to eat some more food by Ned and Ted! Win-win! She cheered internally.
+
+Now she was left alone for some time as she waited for them to return. Learning from her previous mistake of becoming too distracted. Tachyon made sure to do a sweep of the cave and as far out with her mana sense that she could.
+
+With nothing within her range of perception, she decided to take a break and finally take a long look at her status after evolving.
+
+Race: Light Fire Alpha Mare
+
+Rank: F-Rank
+
+Level: 21
+
+VIT - 43(11)
+
+STR - 60(13)
+
+AGI - 184(25)
+
+MAG - 121(14)
+
+STAM - 76(16)
+
+RES - 60(18)
+
+Free Point - 40
+
+Titles
+
+Sapient Monster, Survivor, Captive, Defiant, Sturdy, Slayer of the Strong, Improbability, Manslaughter, Kings Queens and Castles, Bat Out of Hell, Magic Artillery 1, Faster than Most, Death on Four Legs, Skills of Legend, Bane of Cavemen, Magic Artillery 2, Rare Evolution, Kings Queens and Castles 2.
+
+Skills
+
+Fire Light Magic - Unique, Fire Light Clones - Rare, Unstoppable Force Meets Movable Object - Legendary, Mana Motion Platform - Rare.
+
+She noticed two new titles that were not there before her evolution. There was also the fact that her new bonuses had not applied to her stat gains just yet. She couldn’t complain too deeply, however, something had given her a significant bump in stats.
+
+Kings Queens and Castles 2
+
+Registered as owner of section 2 Controlling Stone. Remaining in control of the Controlling Stone during daily reset will net +5 control points per day.
+
+Passive +5 to all stats due to ownership of Controlling Stone.
+
+Magic Artillery 2
+
+Kill over 50 opponents from a stationary position with magic. Wow, that's some really scary stuff.
+
++10 to MAG
+
+Rare Evolution
+
+Obtain a rare evolution.
+
++20 to all stats.
+
+Tachyon was more than pleased. Titles and descriptions that were short and to the point were, for the best, she felt. And she was curious how high the numbered bonuses went. If she just sat and fired off her magic, could she get to Magic Artillery 69? She sure hoped so.
+
+That was when an annoying beep and headache hit her.
+
+Secretariat, The Eternal Wind, has invited you to their realm.
+
+Do you accept?
+
+Realm? Who the hell is this? No! Fuck off! She thought with a shake of her head.
+
+The notification and beeping continued, however. But just as stubbornly, Tachyon rejected every new notification. At least that was until she read the latest one.
+
+Secretariat, The Eternal Wind, has invited you to their realm for tea and sweets.
+
+Do you accept?
+
+“Sweet treats?!”
+
+You are now being transferred to the 1st Era realm of Secretariat.

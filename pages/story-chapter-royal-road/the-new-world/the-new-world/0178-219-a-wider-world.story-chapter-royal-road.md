@@ -1,0 +1,377 @@
+---
+id: 2f819c59-2a4a-5dd2-97b9-c7afdc11e8e7
+page-type-slug: story-chapter-royal-road
+title: "219 A Wider World"
+slug: 0178-219-a-wider-world
+partOf: the-new-world
+position: 178
+ownLength: 4182
+unit: words
+ownProgress: 4182
+publishedAt: 2019-07-31
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/387509/219-a-wider-world"
+royalRoadId: "387509"
+markedReadAt: "2026-06-29T21:26:59.191Z"
+---
+
+I raised an eyebrow, "Wait, I'm seeing the Emperor right now?"
+
+Helios dragged his hand down his mask, "No. He's busy. You have an appointed date for meeting two months from now."
+
+I pointed at Helios, "Don't act like I'm ridiculous here. What you said was misleading." I turned to the Sentinel, "Isn't that right?"
+
+The Sentinel uprooted his spears from the ground and swung them over his back, "Just leave. I'll wait here until you've come up with a plan of action." The Sentinel glanced down, entering a deep state of meditation. Helios stared at the Sentinel,
+
+"You convinced that oaf to follow you...How?"
+
+I gave Helios's shoulder a pat, "I have my ways. Let's go."
+
+Helios eyes me for a second before letting the issue pass. He pulled himself through his portal, and I followed. As I stepped through it, we entered an office of sorts. The room lacked a desk, instead opting for an elevated platform in the middle of the room. Several paintings covered the walls, very renaissance in style. It was an elegant, efficient room outside of the view.
+
+And what a view it was. An entire glass wall gave a glimpse of a futuristic city outside the office. Mana powered cars flew through the skies in streams of traffic. Sleek, modern buildings raised up to the heavens with entrances to them at over a hundred stories high. Beneath these giants, smaller buildings carried more character. Composed of glossy stone, many shops, service centers, and entertainment squares existed.
+
+They were neatly organized, this being a city built well after building codes were established. Pre-planned parks were made to incorporate a nature motif, letting the entire place feel less stuffy and constricting. The buildings never lined up to block a clear view of the sky. It was breathtaking.
+
+Helios caught me staring, so he puffed his chest a bit, pride leaking into his voice,
+
+"It's awe-inspiring, isn't it? This is the power of the Empire."
+
+I put my hand on the window, feeling a subtle layer of carbon fiber over it. I tapped it, and Helios answered my question before I could ask it.
+
+"The windows are lined with a graphene-polymer resin. They intersperse layers of the composite between the glass, strengthening the material. This prevents any weather from becoming a problem, even on far harsher worlds than this."
+
+Helios crossed his arms, "We never needed to worry about weather here, however. Belka-623 is an optimal location for many different species to live on."
+
+I raised an eyebrow, "Belka-623?"
+
+"It's one of the worlds I govern. Though many of the innovations you see here were originated by my uncle, I carried them out. We raised this planet out of an enslaved position with a group of raider mercenaries. They weren't very open to negotiations at first."
+
+Helios let out the sporadic kind of laugh someone lets out from thinking of a personal joke,
+
+"The Emperor can be quite persuasive, even to savages...No, especially to savages."
+
+I nodded, turning back to Helios, "I'd imagine so. I always go the skull cracking route. It's easier that way."
+
+Helios scoffed, "Perhaps you and uncle would get along better then I imagined. Now, I'm certain you're curious where your friends are?"
+
+"Yeah."
+
+Helios tilted his head to another room. He turned, walking up to the raised platform. A series of screens opened as Helios did.
+
+"Eva, send a message of my arrival at the Selta Medical Center. I'll be having a guest as well."
+
+A feminine, warm voice answered, "Of course. It is a personal or business arrangement?"
+
+"Perhaps both."
+
+"Then I'll make the necessary arrangements."
+
+Helios interacted with several of the screens, moving them over. I pointed at them, "Why don't you just do it mentally?"
+
+Helios moved his hands across the screens with quick, practiced movements, "I prefer something to visualize. It enables me to keep track of many things at once as well." He turned to me, "Several planets worth, in fact."
+
+I had to admit, Helios impressed me quite a bit here. I wasn't the biggest fan of organizing groups of people, but he was selling the concept without even trying. He was also giving me a lot of ideas for accomplishing the monumental task.
+
+The Ruler of Worlds cracked his neck before closing out the personal AI and turning to me, "Excuse me for the delay. I was in the middle of handling a few problems before you called."
+
+"Dude, don't even worry about it."
+
+Helios turned and walked towards the sliding glass door of his office, "I assure you, I'm not in the slightest. It's a matter of pleasantries. Now let's go see your allies."
+
+We walked through a hallway, dozens of offices lining the building. They worked with diligence, organizing many elements for the planet from the looks of it. As we passed the entrance, two guards pressed their hands to their chests, saluting Helios. The Novas raised a hand, letting them stand at ease.
+
+After passing through the metal hallway, we reached a landing platform on the side of a taller skyscraper. Helios turned to me, "I doubt a vehicle is necessary for our travel. That being said, do try to avoid creating a catastrophe with your gravitational wells."
+
+He waved a hand, "Most don't quite weigh as much as you do. We wouldn't want cars crashing into buildings, now would we?"
+
+I mumbled, kind of starstruck by everything,
+
+"Uh, not really. I'll keep that in mind."
+
+Helios stepped onto a panel of ice, and I created four gravitational vortexes.  Two were antigravity and the others average. They counteracted each other's forces, resulting in a cylinder around me that kept me afloat. Helios turned to me and shook his head. I frowned,
+
+"What? It's a way to get around."
+
+Helios grumbled, "It's quite the opposite of what you're imaging. I'm actually impressed you'd use such convoluted magic just to fly for a few miles."
+
+I crossed my arms as we hovered over the cityscape, "What's so convoluted about it?"
+
+Helios dragged his hand down his facemask, "You own no perspective of normal, do you? At times I forget you're a backwater savage."
+
+I pointed at him, "An impressive backwater savage."
+
+Helios turned to me while standing on the ice, "In ways, yes, but in others, I'm remarkably disappointed. It's odd. You seem exceptionally competent in some subjects, and in others, you're but a toddler by comparison."
+
+I shrugged, "I know I'm not a genius. I have to stick with what I know, or else I'll get overwhelmed."
+
+Helios opened his status, fiddling with it as we spoke, "Wise. I don't have that luxury. My position demands flexibility, so I must diversify my skillset to succeed. Even then, I doubt I could rival your fluidity with magic no matter the circumstances."
+
+I spread out my hands, "Pshhh, you're selling yourself short."
+
+Helios shook his head, "I'm being realistic." He raised a gauntleted hand, the cipher sheening on it "Do you know what this is?"
+
+I pointed at it, "It looks like a transcription in the dimensional cipher for splitting atoms then containing and converting the energy into usable mana before it's discharged."
+
+Helios let his hands flop on his sides, "And there's the wild swing in competence once more. How do you know this?"
+
+I shrugged, "Yawm used the same technique, though his ability was from Etorhma's cipher augments." I shivered, "Now those were confusing. I looked at them quite a bit, but they never cleared up. I figured they're just unusable after a while."
+
+I released a torrent of mana from my hand, "Besides, I'd never need more mana than I have."
+
+Helios pointed at my hand, "That is why your magic is so fluid. While this augment gives me access to a limitless supply of mana, it comes at a cost. It's not my own personal mana reserve, making it unwieldy. It's like going into another person's body and trying to fight using it."
+
+I grimaced, "Man that sounds impossible."
+
+"It isn't, but it's difficult. Innately, the potential difference in fluidity prevents me from achieving feats of magic like you have there. Of course, I can mimic that kind of magic on a smaller scale using my personal mana reserves. However-"
+
+Helios sounded like he talking through a clenched jaw,
+
+"They're dwarfed by yours." He calmed down, "It's an unfortunate reality, but that's the nature of talent, isn't it?"
+
+I scoffed, "Talent? I've invested almost entirely into mana regen from the very get-go. At least 90% of my investment was into pure endurance."
+
+Helios leaned back, "What? Endurance guides health regeneration, not mana regeneration."
+
+I banged a fist against my chest, "I have blood magic."
+
+Helios stood silent for a moment. He cupped his chin, "You're rather open about the intricacies of your status...aren't you?"
+
+I grinned, "It isn't like I'm letting you know my weaknesses."
+
+"No, but knowing an enemy's strengths is equally valuable. Avoiding them can easily lead to victory."
+
+I tapped my hand against the side of my head, letting out a metallic ring, "Hard to avoid having skin harder than steel."
+
+Helios let out an amused jeer, "Perhaps. Perhaps not. We've arrived."
+
+Beneath us, a facility was labeled by several drops of blood. It looked more like an asylum than a hospital, dense, orichalcum chambers interconnecting with concrete bridges without windows. As hovered down to a small entrance, I said,
+
+"So uh...This place looks friendly."
+
+Helios sighed, "It's like speaking with a child." We walked through a series of doors, several guards saluting Helios. The Novas rolled a hand,
+
+"What would lead to most of the medical injuries within an advanced planet."
+
+I cupped my chin, "Hmm, eldritch."
+
+"That's correct. Now tell me, what's a hazard of treating injuries from the eldritch?"
+
+"Well, they could have pieces of the eldritch in them, parasites in their blood, all kinds of problems really. That could get messy fast." I snapped my fingers, "So that's why you guys keep it so locked up here. Its to stop the eldritch from escaping into the middle of the city."
+
+Helios nodded, "It's good I didn't have to explain even further. Perhaps you should think a little before asking an endless stream of questions."
+
+I rolled my eyes, "I haven't even been in the system for five years. Cut me some slack."
+
+We stepped through a series of hallways as Helios continued,
+
+"I already have. Many wouldn't and will not. It's better you develop these habits now than later." Helios shook his head in exasperation, "Why am I helping you with this?"
+
+"Maybe because you know I can help you. Could be pity though."
+
+Helios stopped walking and looked at me. He turned and stepped forward,
+
+"Definitely pity."
+
+We reached a larger room, one without an orichalcum binding. It was for larger patients, many of them looking like war animals. Most of them laid on heated pads with troughs for food. The gialgathens had the troughs taken away, fresh carcasses taking their place.
+
+There was still a sterile smell to the air along with a bit of giant animal funk. As walked through the corridor, Helios waved a hand, "This is the best room we had available on such short notice for them. They're quite large and difficult to tend to."
+
+I waved a hand, "I get it. They're gigantic."
+
+We stepped through an automatic door, finding Kessiah tending to the wounds of several gialgathens. She looked out of place compared to the other nurses and doctors nearby. She still had her mid-drift showing, her classic leather jacket showing plenty with a few tattoos on her arm and neck.
+
+They didn't discriminate despite her being a remnant. She didn't look up at us as we walked up, her eyes focused on an orb of her own blood. She took a deep breath before funneling it into the necrotic limb of a gialgathen. The black, festering leg gained some color, turning purple from black. Kessiah smacked a plastic bottle off a table beside the gialgathen,
+
+"Goddammit, I fucked it up."
+
+A nurse raised her hands to Kessiah, "I assure you miss, you're doing excellent work."
+
+Kessiah waved her away, "What the hell ever. I know when I'm doing well and when I'm fucking up." Kessiah shook her head, "Damn, I'm just so tired."
+
+I stepped up to her, "Looks like you've been busy. I was wondering where you were."
+
+Kessiah looked up to me, "Wow...You look different. Maybe I just forgot how imposing you can sometimes be. Eh, I don't know."
+
+Helios raised a hand, "I want to thank you again for your work here. It's invaluable."
+
+Kessiah poked Helios's chest, "You're lucky I'm helping you out. I hate arrogant asses, and you definitely count as one. Most people from the empire do." She shrugged,
+
+"But money is money."
+
+I turned to Helios, "Damn, I didn't expect this...like, at all."
+
+Helios deadpanned, "At times, Diplomacy is painful. Let's go view the others."
+
+We walked off as Kessiah rubbed her hands together, "Alright you piece of shit, get ready for round two."
+
+I suppressed a laugh as I looked at Helios. He stared forward,
+
+"Though unorthodox, she's quite the healer. It's rare to find someone who can restore limbs, let alone bring back people who are half dead. I also have more personal reasons for allowing her to treat me in such a manner. They matter more to me than my pride."
+
+I didn't press further as we stepped up to an elevator. Helios stepped into it, so I followed. As we went down, turned to him,
+
+"What happened when you arrived at Rivaria? I forgot to ask."
+
+"Chaos. I arrived as Lehesion was enclosing onto the district. At first, I believed I could fend him off, but that proved futile. After a few rounds of attack, I humored him while allowing many of the citizens there to escape."
+
+Helios shook his head, "Your guildsmen assisted with this. Chrona, in particular, used her hastening to carry people out of harm's way. Sheom attempted to reason with Lehesion. He reacted poorly..."
+
+I bit my lip, "What then?"
+
+Helios supported his forehead with hand, looking disappointed, "The escape was working well until Lehesion discovered what we were doing. He was furious, howling out his insanities. Instead of letting us evacuate, he drained the life force of the gialgathens and surrounding wildlife. They howled out in anguish as their life drained from their bodies."
+
+Helios shivered, "I created an ice vortex to destroy the life nearby, including their kind. It was strengthening him. He stealing their lives. I decided to eliminate them before he could."
+
+Helios stared at his hands, "I...I take no pleasure in genocide." He clasped his gauntleted hands into fists, "But sacrifices needed to be made." He turned to me, "Tell me, does my choice bother you, oh great Harbinger?"
+
+There was a bitterness there I didn't expect. I crossed my arms,
+
+"You did what you had to do. Besides, I've been there. My hometown was wiped out by a plague from Yawm. I ended up killing almost everyone that ever lived there, down to the last woman and child. I lost my friends to that plague. They almost killed me at the time."
+
+I shook my head, "Sometimes, you aren't given good choices. You just do what you can."
+
+Helios stared off into the distance, "For once, we agree."
+
+We stood there in silence for a while, both of us thinking. As the doors opened in the elevator, Helios straightened up and walked out. We entered a more luxurious room with old wood, various paintings, and gold lining the walls. It was a more old fashioned kind of place, though it lacked nothing in modern niceties.
+
+We turned to one of the rooms were Helios knocked on the door. We waited a second before a familiar voice answered.
+
+"Come in."
+
+Helios opened the door towards Caprika's voice. We found her and Althea standing over the model of a city. I turned to Helios,
+
+"So that's why you let Kessiah treat you that way."
+
+Helios stepped up them, "Silence. There's work to be done."
+
+Althea walked up and gave me a jumping hug. I hugged her back,
+
+"I love you too."
+
+Helios glanced at Caprika's model city,
+
+"It seems you lack the standard barriers between classes. Do you intend on implementing a less physical obstruction? I wouldn't suggest it. It's far easier to forget a mana barrier than an actual wall. You wouldn't want rabble wandering, would you?"
+
+Caprika shook her head, "No, I don't intend on having them at all."
+
+Helios leaned back, "Hm...if this is a joke, it isn't humorous in the slightest."
+
+Caprika walked up to him, "You've seen what rabble can do. I'm not letting someone with talent get smothered. I'll use every resource I have."
+
+Helios tilted his head, "Even if you believe your so-called meritocracy of classes will result in equality, you're simply replacing one oppression with another."
+
+Caprika looked him in the eye while crossing her arms, "How so?"
+
+"It's a simple deduction. Talent is dispensed unequally, creating an imbalance in how resources are distributed. This creates individuals with sufficient collateral that can be leveraged for better training and education. This is difficult to differentiate from talent."
+
+Helios leaned over Caprika, "This is how the Empire began. Is that no different than the monarchy that's now been formed?"
+
+Caprika held her ground, "It's good to give people the chance to make empires of their own, however. It's more motivating that way you'll find."
+
+Helios stared her down a for moment before letting up the pressure. He gave her a slow nod,
+
+"I'm impressed by your conviction. Do as you wish. I look forward to seeing the results."
+
+Althea and I looked on, my hand over her hip. Caprika turned to us as she sized me up. I gestured a hand to her, "It looks like Kessiah fixed your legs."
+
+Caprika nodded, "She certainly did, though she was generously compensated for that...You seem even more menacing than before. What changed about you?"
+
+I gripped my hand into a fist, "I'm tougher than before."
+
+Caprika scoffed, "I find that hard to believe. Now, I've been speaking with Althea about various details of my city. Her insight's been helpful, but she's no replacement for the guild leader. I was hoping to discuss a few trade deals with you."
+
+I scratched the back of my head, "Hmmm, alright, I can do that. It can't take up too much time though since I need a few days to learn this mythical compendium."
+
+Caprika let out a laugh before laying a hand on my forearm for a moment,
+
+"You'll find them amicable, I'm certain."
+
+I raised an eyebrow, "You seem more confident than before, like your old self."
+
+Caprika raised her glance, looking haughty, "I've much to be confident of. I allied us with a rather potent ally, The Immortal."
+
+Helios shoulders drooped as he let out a groan. I glanced between them, "What was that?"
+
+Caprika nudged Helios, "He's the one that gave you that title from the Empire. That's what he told our father when reporting to you earlier. That's what I overheard while listening to him in his office earlier."
+
+Helios sighed while holding his head up with his hand, "He is a giant block of iron with a brain of equivalent functioning. I chose a rather flattering interpretation in my report."
+
+Caprika put a hand to her face, "Ho ho, of course you did. Thank you for that."
+
+I turned to Althea, ignoring the siblings' antics. I pressed my forehead to hers, "It's great to see you."
+
+She grinned up to me, "You're looking handsome today. How'd the...uh, evolution treat you?"
+
+"It was painful. Not as painful as missing you though."
+
+Helios raised a palm to me, "That's enough. Any more flaunting of your affection and I'll vomit."
+
+Caprika pointed towards the city, "Perhaps we could talk business instead?"
+
+I frowned, "Eh, ok."
+
+Helios left us while we ended up spending the better part of the next hour discussing some economic transactions between my guild and her city. Though it was pretty tedious, we ironed out a few resources to exchange. I learned a bit from the talk too.
+
+The way resources worked in the galaxy wasn't quite what I was expecting. Of course, dungeon cores, credits, and troops were valuable. I saw that coming. On the other hand, it shocked me how useful our old world tech was. It wasn't because it served a practical purpose, but quite a few wealthy collectors sought out the remnants of ancient societies.
+
+Caprika let me know a few spots for premium exchanges using her contacts in the Empire. She gave details for a few material collectors that would pay top dollar for fragments of my armor as well. Combine that with our old world style paintings, and Earth was turning into an antique shop rather than a junk heap.
+
+I wasn't sold on selling pieces of my skin, but it was nice to know that this would help Earth transition into a new power, though it would still take a while. That got me curious about how Earth was doing in general, including Hod and Amara. I was about to open up my status to send them a message before I remembered that Thisbey could read it.
+
+I turned to Caprika as she gushed over the new design of her city,
+
+"Wait a second before you continue, I was wondering if you knew anyone that understood system hacking?"
+
+Caprika sputtered her words, "Ahem, wait a moment, you mean hacking into Schema?"
+
+I waved my hand, "I already know someone like that. I'm talking about someone's status."
+
+Caprika spread out her hands, "What? How do you know a system hacker? I don't even know one, and our resources are incomparable."
+
+I shrugged, "I'm lucky. I don't know a status hacker though."
+
+Caprika facepalmed, "It's like talking to a baby that can't crawl but has access to nuclear bombs. I've learned that the more I know about you, the more you have hidden."
+
+I waved off her concerns, "I'm not really hiding anything. I just never mentioned it. I really need some status hackers though."
+
+Caprika sobered up, "Would you mind disclosing why?"
+
+"Thisbey could read my status. From our fight, it wasn't my character screen at least. That's why I was able to overwhelm his trap."
+
+Caprika froze up for a second.
+
+"What?"
+
+"Thisbey could read my messages. Most likely, Tohtella could as well. That's why Althea was captured."
+
+Caprika leaned back from me, her head tilted, "Wait. Before we speak further, I'll send in a techsmith for you. Your system might be recording us now. You should have mentioned this earlier before we elaborate on any sensitive information."
+
+"Yeah, you're right. I've been juggling a lot here recently, and details are leaking through the cracks."
+
+Caprika sighed, "I know you'll be fine if they lure you into some sort of deathtrap. Your followers are far less tenacious, however. Nothing is guaranteeing that they aren't attacking your base on Earth, for instance."
+
+I shook my hand, "I'm doubtful. No one's sent me a message about it, and Hod and Amara are very powerful, Hod in particular."
+
+Caprika raised her head, "What are his accolades?"
+
+"He killed Yawm by tearing him apart. With help of course, but still."
+
+Caprika nodded, "Then assaulting your keep isn't as easy as you'd presume. Hmm, would you need me to send guards perhaps? The Empire's resources are vast, so we could afford to spare a few."
+
+I raised a hand, "Thanks for the offer, but I want Earth to be independent. We start our own fights, and we finish them." I frowned, "You do have me nervous, though. This system hack might be blocking messages from my allies. I should check up on them."
+
+Caprika scoffed, "Whoever hacked into your status did so by very subtle and difficult to detect means. Otherwise, it would've been easy to pinpoint when and where they did it. That means it must be relatively limited. Otherwise, they know of hacking methods that even the Empire doesn't know of."
+
+I sighed in relief, "Thank god. Here I was thinking they could stop me from leveling up at this point."
+
+"That power only belongs to Schema."
+
+Well, she wasn't quite right about that. Amara put me out of exile status, and that let me level up again. I wasn't about to mention that, so I turned to the door,
+
+"If you say so. This was a good talk, and I'm glad your legs are up to snuff again. I have to go organize my guild though and come up with a plan to take out Lehesion."
+
+Caprika scoffed, "If an Overseer couldn't kill Lehesion, what makes you think you can?"
+
+I shrugged as I walked out of the door, "Who said anything about killing him?"
+
+I rubbed my hands together, "I've got a few better ideas."

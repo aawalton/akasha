@@ -1,0 +1,187 @@
+---
+id: cfba1286-004c-5a81-8ed6-67a99b7d7619
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1198 - An Extremely Perplexing Situation"
+slug: 0070-chapter-1198-an-extremely-perplexing-situation
+partOf: the-primal-hunter
+position: 70
+ownLength: 2674
+unit: words
+ownProgress: 2674
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2748897/chapter-1198-an-extremely-perplexing-situation"
+royalRoadId: "2748897"
+markedReadAt: "2026-06-29T19:31:29.104Z"
+---
+
+For a moment, things were calm once more. Jake stood within the vessel, his eyes still burning as he’d forced himself to witness the scene of Oras’ arrival, despite it searing his brain to do so. Looking around the vessel, he saw that Dina, Sylphie, and the Forest King were all unconscious, with the Sword Saint still aware as two trails of blood dripped from his eyes and onto his robe. He wasn’t doing that well and had clearly strained himself significantly.
+
+Of the five of them, Jake was definitely in the best state, likely because he had encountered Oras a few times before, but definitely also partly due to his Bloodline allowing him to fully withstand the aura of the Void God, even if it still creeped him out.
+
+The Void God in question had already begun to retract his aura, the swimming sea of eyes receding like the tide as his presence nevertheless remained, Oras showing no signs of fully leaving just yet.
+
+Jake felt Villy approach and would be there shortly alongside many other pinnacle gods, Jake reckoned. Hopefully, when they did, everyone could get some answers.
+
+Because right now, little made sense to Jake. He had no idea why this ambush had happened in the first place, what they truly wanted of him, and if the words the woman had said were even true. Her final sentence about it never having been the plan to kill him especially messed with Jake.
+
+It made a lot of his prior assumptions wrong. Of course, it was entirely possible she had only said it to mess with him, but why would she do that in the first place? Could a god of that level truly be so damn petty?
+
+As Jake was thinking, Artemis arrived at the vessel. When Jake saw her, he had to hide his shock at her state. While her body was whole, several sections of it were oddly discolored, and a multitude of wounds could be seen everywhere as she clearly hadn’t been on the winning side of the battle.
+
+She threw Jake a brief look filled with relief before turning her attention to the Void God. Cupping her hands and bowing, she spoke with a deep sense of respect, only surpassed by when she spoke to Yggdrasil.
+
+“This one greets Oras the All-Seeing and thanks him for saving my life,” Artemis said, seemingly not daring to raise her gaze and look directly at the Void God.
+
+“I greet thee, companion of He Who Hunts,” the Void God said, not looking inclined to say anything more. Jake wasn’t sure if it was a diss to simply refer to Artemis as Jake’s companion, but the Godqueen didn’t seem offended as she merely bowed again before turning towards Jake.
+
+“I don’t know what you did... but good job,” Artemis said, forcing a smile.
+
+“You did say you’d never met a Void God before, so I reckoned I’d let you have the experience,” Jake said, trying to lighten the mood despite the seriousness of the situation.
+
+Artemis kept smiling as she looked inside the vessel through the still-open hatch. “Is everyone okay?”
+
+“As well as can be,” Jake sighed.
+
+“I believe we will all need an extended period of rest to address any long-term mental effects,” the Sword Saint answered, already looking a lot better now than before.
+
+“Alright,” Artemis nodded, but just as she looked like she was about to say more, the first of many gods made their arrival.
+
+A dark green sheen overtook one entire side of the void as Jake briefly saw the image of an astonishingly gigantic snake slithering through the nothingness before the aura retracted, revealing the humanoid body of the Malefic Viper.
+
+An instant later, he stood in front of Jake and gave him a good look as the god spoke.
+
+“What the fuck happened?”
+
+His voice was full of lingering bloodlust that made even Jake feel cautious, but he kept his cool and answered.
+
+“We were ambushed,” Jake shook his head. “I don’t know how, I’m not exactly sure why either, but they evidently wanted me to do something for them, not caring about anyone else besides me.”
+
+Jake gave a few more details about what had gone down, including the actions he’d taken to try to get them out of it. He hoped to get everything out before they were joined by more gods, so he spoke extra quickly.
+
+The Viper nodded, having calmed down a fair deal as he looked toward the Void God.
+
+“Thanks for the help, I owe you one for sure,” the Malefic Viper said, giving the eldritch being a small nod.
+
+“Denied. Favor merely returned, scales tipped towards balance,” the Void God Said, remaining quite mysterious.
+
+Villy didn’t seem to completely get the Void God either, as he nevertheless nodded. “Thank you either way.”
+
+“Keeper of Lost Knowledge, gratefulness acknowledged, yet unnecessary. Between He Who Hunts and I,” Oras said, actually clarifying matters a bit as Jake frowned. He was about to look at Oras but stopped himself as he spoke while looking down.
+
+“You make it sound as if you owed me a favor?” Jake asked. “I helped deliver things to Arnold, sure, but I’m pretty sure you already paid me back for that.”
+
+“Yes,” Oras simply said, not seeming like he had any intentions of elaborating.
+
+The Viper looked up skeptically before shaking his head and surveying the area. He waved his hand and instantly frowned. “What the...”
+
+Energy gathered, pulsing outwards from the Viper as he tried to do something. Reality seemed to vibrate and shiver for a moment, and Jake saw the void shift all around them, except in one specific area:
+
+Right where the gods had imploded themselves.
+
+Frowning deeply, the Viper did a quick teleport and appeared right in front of the spherical area. His frown only deepened before he looked at Jake.
+
+“You said the god took out some kind of circular metal object that looked like a coin?”
+
+“Yeah,” Jake confirmed.
+
+“Any more details?”
+
+Jake considered quickly as he tried to summon a projection of what he’d seen. The Viper studied it closely for a few moments before shaking his head. “Not very useful.”
+
+“Any idea what that thing was?” Jake questioned.
+
+“No, not really,” Villy sighed. “All I can tell you is that it wasn’t anything simple.”
+
+Turning towards Artemis, the Viper looked her over quickly before summoning a bottle in his hand and tossing it towards her. “Drink that and tell me what you say. Also, did you only battle avatars or had any of them actually come with their real bodies?”
+
+Artemis inspected the bottle for a second before drinking it. Right as she did, her body began to visibly heal, and the lingering energies in her wounds were fought off in an instant.
+
+“I thank the Malefic One for his continued generosity,” Artemis bowed, likely wanting to also bring up the gift the Viper had provided that allowed her to reach her current level, but she understood this wasn’t the time for that. “And no, I believe only two of the gods involved were avatars, both of which were the ones surpassing the realm of Godqueen.”
+
+“Now this is all just getting more and more perplexing,” the Malefic Viper muttered. However, before he could say more, they were interrupted by more arrivals.
+
+The void roared in the distance as a mass of pure destruction made its way through. Flames, lightning, and wind mixed, tearing apart everything in their path before rapidly subsiding once the god got close. It all merged and formed a blue bird of pure energy, which flew into the scene like the living disaster she was.
+
+“I’m here! I’m here!” Stormild yelled, flying around in a circle a few times before spotting Oras and the Viper. “Oh! Hey Oras, hey Vilas! Wait, I’m I late?”
+
+“I only got here faster because I was actively surging the moment I felt Jake’s location,” the Viper shook his head.
+
+“I see, I see, sounds like Oras did us all a solid!” Stormild said, having seemingly spoken with the Void God too, likely through telepathy.
+
+“It’s an odd situation for sure,” a new voice joined the others as a man had appeared in the void without any of them seemingly noticing. Well, Jake had naturally noticed him, but the man spoke literally the second he appeared.
+
+“Aeon! You’re here too?” Stormild said with excitement.
+
+The human nodded as he observed the spot where the gods had disappeared. “Oblivion, huh?”
+
+“Yeah,” the Viper confirmed. “Do you two have any idea who’s capable of this?”
+
+Both remained silent as they stared at the empty spot. Jake just looked on at the scene of three Primordials and a Void God having gathered, and he saw that Artemis wasn’t looking super comfortable. She was already nervous when it was only Oras, and adding three Primordials hadn’t helped matters.
+
+Not that the situation got any better when there was movement in the void once more. As could only be expected, the Pantheon of Life also knew what was going on, and seeing as Yggdrasil wasn’t known to be the most mobile, had sent Nature’s Attendant to inspect the situation.
+
+He came in looking calm, but it was clear he was nervous. Fortunately, his nervousness was quickly dispelled when he saw that Dina was only unconscious, which was why he had been unable to contact her even after the formation had been broken by Oras.
+
+Jake, who was still standing right at the open hatch of the vessel, looked on as the many gods seemed to exchange extremely quick telepathic messages, likely discussing the situation at hand.
+
+After a while, they switched back to using normal speech again as the Viper briefly explained to Jake what they had discussed.
+
+“They used an item of unknown origin related to the concept of oblivion,” Villy said. “Oblivion is a nasty concept that’s primarily made to erase all other concepts and energies. Usually, this erasure is incomplete, but those gods managed to effectively delete themselves entirely, leaving not even a single speck of karmic dust behind.”
+
+“Seeing as they wore special masks that not even Oras could see through, finding out who they were is improbably to say the least,” Nature’s Attendant muttered. “What kind of organization has several Godkings willing to end their own lives to try to kidnap a C-grade? In what world could it be considered worth it?”
+
+They were all silent for a while as Jake quickly exchanged a look with the Viper. The god understood and nodded, making Jake raise a hand. “I... saw how they looked.”
+
+Instantly, everyone turned to him with a mix of suspicion and anticipation.
+
+“How?” Aeon asked, looking at Jake skeptically.
+
+“That’s not important now, is it?” The Viper stopped the line of questioning. “Jake, if you would.”
+
+Nodding, Jake focused on how the gods had looked and summoned projections of all the gods. In some ways, Jake had been incredibly lucky that the masks the gods wore had been special in that they didn’t truly have much physicality to them. They were more conceptual masks that only showed up to regular Perception, meaning to his Bloodline, they might as well not have existed.
+
+One by one, Jake made the projections, the gods studying them closely. Jake started with the woman who had talked to him – one of the gods surpassing Godqueen – but none of the Primordials had any idea who she was, something that was truly perplexing.
+
+Neither did they recognize the other god who had surpassed Godking, meaning the two who had come there with avatars wouldn’t be easily tracked down. However, as Jake summoned the next projection, someone spoke up.”
+
+“I know him,” Aeon said, motioning towards one of the faces, studying it closely. “It’s unmistakable. That’s the Oakspear Monarch from Valhal.”
+
+“Valhal?” the Viper exclaimed with surprise as he motioned for Jake to continue. He summoned another projection, making Stormild speak up.
+
+“Hey, isn’t she from the Seventh Hell?”
+
+“She is,” Nature’s Attendant nodded, now also looking very confused.
+
+Continuing, Jake was now on to the two Godkings who had lost their lives. One of the Godkings was an unaffiliated god that didn’t belong to any factions but had his own. Meanwhile, the other was also recognized immediately.
+
+“The Holy Church,” Villy said with confidence.
+
+The others nodded and had all turned oddly quiet with those two final images. They all seemed to consider matters before Nature’s Attendant looked at Jake. “You’re absolutely confident, right?”
+
+“That’s what they looked like,” Jake nodded.
+
+“How could he even have faked that?” Stormild chimed in admonishingly. “Would have been super weird if he knew the faces of gods that had been dead for a few dozen eras.”
+
+Now it was Jake’s time to look confused as the Viper corrected her.
+
+“Evidently not that dead,” he said. “Also, as far as I know, they went missing.”
+
+“Usually, a god is dead if they’re missing for that long,” Aeon said, narrowing his eyes.
+
+Things got quiet once more before the Viper looked back up at Oras. “Got any input? Also, I need to ask, how come you didn’t stop them from erasing themselves? I know you could have.”
+
+“Unnecessary, uninterested,” Oras made it clear he didn’t really care about all that was going on. Evidently, his only goal had been to save Jake and the others without caring about what would come after or finding out who was behind the attack in the first place.
+
+The Viper didn’t look pleased but didn’t say anything as he sighed. “So, to summarize, you were ambushed by six gods, four of whom are now dead. They did this not only by misdirecting the teleportation array established by the Pantheon of Life, but also had a formation capable of blocking the detection of even Primordials. Then, when things went south, they all blew themselves up using the concept of oblivion executed at an incredibly high level. This includes four gods who willingly experienced true deaths by getting involved in this, all four of whom were known gods of different factions that were believed to be dead. Finally, the two gods that did escape both surpass the level of Godkings, meaning we should be aware of their existence, yet none of us has any idea who they are. That about sums it up?”
+
+“Yeah, pretty accurate, though I think we should consider that their true target was Sylphie,” Stormild said. “And I can’t even blame them for finding her irresistible.”
+
+All the others ignored her as Nature’s Attendant thought aloud. “Only a major faction has the power to pull something like this off, yet it doesn’t fit the profile of any of them.”
+
+“It also begs the question, which faction would be foolish enough to try?” Villy said, crossing his arms.
+
+“We should find out,” Aeon said as he waved his hand and summoned a bubble around himself, along with a set of chairs and even a table, which he promptly sat down at. With a wave of his hand, he teleported over the Sword Saint, who took a moment to orient himself before nodding toward his god.
+
+“I took the liberty of reaching out to some of the others,” Aeon said while motioning for the Sword Saint to take a seat. “I did so under the assumption they’re also curious why gods of their faction they believed dead, would suddenly show up in the void to ambush the Chosen of the Malefic Viper, an action that’s more likely than not an active breach of the Bloodline Accords.”
+
+Hearing this, Jake got the feeling this sudden ambush was turning into something far bigger than he could fully understand... and he really felt bad for the people around him in the vessel who were still unconscious, as they were in for quite the shock when they woke up. Not to speak of Artemis, who looked almost enviously at the knocked-out C-grades.

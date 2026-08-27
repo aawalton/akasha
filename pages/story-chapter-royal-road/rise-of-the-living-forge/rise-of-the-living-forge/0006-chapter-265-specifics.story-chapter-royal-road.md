@@ -1,0 +1,118 @@
+---
+id: bd8d63e3-ea2f-5b3c-bbe6-17cac85faddd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 265: Specifics"
+partOf: rise-of-the-living-forge
+position: 6
+ownLength: 1822
+unit: words
+ownProgress: 1822
+publishedAt: 2024-08-23
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1771239/chapter-265-specifics"
+royalRoadId: "1771239"
+markedReadAt: "2026-06-29T19:58:39.015Z"
+---
+
+Of every way that Raen could have asked for a magical item, Arwin was pretty sure that had been the worst one he could have chosen. It took a force of will to keep himself form letting out a burst of laughter.
+
+“Yeah, I’m not agreeing to that,” Arwin said with a shake of his head. “Get more specific. There’s no way I’ll promise to make you just some generic magic item and then have you showing up asking for a city-melter. What kind of item? Why do you want it?”
+
+“You can make an item that melts a city?” Raen asked.
+
+“I think you may have missed the point,” Arwin said. “And no, I can’t. And I won’t be making anything at all if you don’t tell me what it is you’re looking for.”
+
+Not yet, at least. I haven’t exactly tried. Don’t really want to. Nothing good is going to come of making something that melts cities.
+
+Raen was silent for several seconds. “What if I promise that I won’t ask for a weapon?”
+
+“Specifics,” Arwin said. “I won’t agree to anything else. I could always just say yes and go back on my word, but that’s not how I like to play. If we’re going to work together, then be honest and I’ll do the same. Put your shit on the table or leave.”
+
+The Dawnseeker guildsman rubbed two fingers together, twirling a stray hair between them before inclining his head just enough for Arwin to notice it. He let out a small sigh. “I need something that can significantly change an appearance. Permanently, or at least as long as the item is being worn. Something that will last years. Forever, if its possible.”
+
+Arwin blinked. That hadn’t been at all what he’d been expecting Raen to ask for. Even though the man had already specified it wasn’t going to be a weapon, he’d fully thought he was going to be asked for something that was basically a weapon in everything but name.
+
+He doesn’t want a battery that just happens to explode if you throw it hard enough or some shit like that? Why would you go through all the trouble of coming to us if you just want a glorified illusion? I feel like someone in a merchant’s guild should be able to get their hands on an item like that easily.
+
+“That’s it?” Arwin asked, unable to keep the suspicion from entering his voice. He’d never even made anything like what Raen was asking for, but he doubted it would be too difficult. “Just an illusion bracelet or the like?”
+
+“More than illusion,” Raen said. “It must be a perfect change. No mere shifting of image or light, but a true physical modification.”
+
+That makes things a bit harder… but still doesn’t really seem like something a person like this would want. Is he going to try to rob banks with it or something? That’s such a convoluted strategy that it almost feels pointless. There have to be easier ways to commit crimes. So what’s he want this for?
+
+“You want a magical item that changes someone’s true appearance?” Arwin asked, still trying to figure out what Raen’s angle was. “That’s it?”
+
+“Yes,” Raen said. “One that lasts for years. Not something that will break quickly.”
+
+“Why?”
+
+“That is none of your concern,” Raen replied flatly. “Is the nature of the item not sufficient for you to determine its potential uses?”
+
+Arwin exchanged a glance with Lillia. She gave him a half-shrug in response. An item like that would probably actually be pretty useful for her, but Arwin was pretty sure Lillia had absolutely no desire to attempt to hide her demonic heritage. It was probably too late for her to even bother trying. If anything, the attempt would just make things looks suspicious. Enough people in Milten already knew of the Devil’s Den and her supposed dress-up habits that changing them now would just draw attention.
+
+“How extensive are the changes you’re going for?” Arwin asked. “Do I need to be making something that could turn a person five times larger? Because that—”
+
+“No. Minor,” Raen said with a firm shake of his head. “No more than a few square feet of modification at most.”
+
+“How extensive and detailed do these changes have to be? Are we talking modifying your features to completely mirror somebody else’s?” Arwin asked, trying to make sure he exhausted every single possibility that the potential item could be used for. Having someone with doppelganger powers running around sounded like a massive nightmare.
+
+“No, nothing like that. I want something that can modify an existing body, not make a new one.”
+
+Arwin considered Raen’s words. There were obviously some nefarious things Raen could do, but he was running out of potential problems. He had absolutely no idea what the guildsman even wanted to do with the item — but it didn’t seem like it was going to be too big of a problem.
+
+If worse comes to worst, I can do what I did with Melissa’s armor and put a kill switch in it so I can break it if he starts doing something really shitty.
+
+He couldn’t come up with any other problems, and they needed a way to deal with Twelve. Getting to clear a whole extra dungeon and take all the rewards for the Menagerie was like the icing on the cake. The idea of giving a powerful magical item to Twelve didn’t sit right with Arwin, but that could be a problem to deal with later. They didn’t have the heart yet, and they needed options.
+
+Arwin looked to Lillia, checking to see if she had any thoughts of her own. She gave him a one-shouldered shrug. It didn’t look like she’d managed to notice any obvious loopholes in the item that Raen had asked for.
+
+If she’s fine with the offer as well… I don’t see any reason not to take it. Getting Twelve’s attention off us and the Infernal Armory is the most important move we can take right now. At the very least, this will give us a potential path forward.
+
+“Fine,” Arwin said after several long seconds of silence. “I think I can help you with that. If you really don’t want anything else, then I believe we have ourselves a deal.”
+
+Arwin extended his hand. Raen smiled, took it, and the two of them shook.
+
+“Fantastic,” Raen said as he released Arwin. “I had a feeling we would get on well. When will you be prepared to go to the dungeon? It is important that we acquire the Dungeon Heart with utmost haste. The Ardent Guild had the same idea we did, which is why they sent for this key in the first place. They’re going to find out that their caravan never made it to the city rather soon, and then we will be on a time limit. It will not take Tironal long to suspect me.”
+
+“Won’t he suspect you anyway once we give Twelve the Dungeon Heart?” Lillia asked.
+
+Raen’s smile turned cold. “It won’t matter at that point. Complaints only have power when they are spoken by someone with the ability to turn ears. That power will evaporate when Twelve pays us for the Dugeon Heart.”
+
+“And what exactly is it that you plan to do when you move into Milten?” Lillia asked. “The exact same thing the Ardent guild is doing? There’s already another merchant family here, isn’t there? The Montibeaus. Are you going to crush them as well?”
+
+“Rarely do cities only have a single mercantile guild. Most are not strong enough to monopolize everything,” Raen said with a dismissive wave of his hand. “And Melissa’s family is not powerful enough to interfere with our sales. She will find her space selling what we do not, and we will do the same. My move to Milten is not entirely because of the city. To be frank, its location is terrible. There is little in the way of valuable exports — though I suspect your guild may be changing that soon.”
+
+“You don’t care about Milten? What’s the point of all this, then?” Arwin asked with a frown.
+
+“The Ardent Guild is the point,” Raen replied, his eyes as sharp as those of a hawk. “We have unfinished business. I move not to advance pieces on my own game board, but to shatter theirs. Business is more than growth. It is also ensuring that your enemies know exactly what you are capable of.”
+
+Looks like there’s more than a little unfinished business between the Dawnseekers and the Ardent Guild. Well, I can’t say I’m particularly bothered. The Ardents tried to blacklist us and were nearly the cause of a Dungeon Break. I doubt the Dawnseekers are really all that much better, but at least our relations with them aren’t curdled.
+
+“I’ll gather the guild. We’ll all be ready by tonight.”
+
+“Prompt. Good,” Raen said with a nod. “How many of your people are fighters?”
+
+“All of us,” Arwin replied. “But too many would probably end up causing chaos in a dungeon. We’ll go with six people. Me, Lillia, a healer, a warrior, and two close-range fighters.”
+
+“You? You are a smith, are you not? Wouldn’t it be wiser to remain behind? I can provide extra men to reinforce your team if needed, but this is an Adept level dungeon.”
+
+Arwin smiled. “I think we’ll be just fine.”
+
+“If you’re certain,” Raen said, not sounding particularly convinced himself. He rose to his feet. “Very well. I will arrange for your guide to arrive here at nightfall. Be prepared.”
+
+“We will,” Lillia promised.
+
+“Best of luck,” Raen said. “I hope for both of our sakes that your efforts are successful.”
+
+With that, he swept out of the tavern.
+
+Arwin and Lillia exchanged a glance.
+
+“Didn’t see that one coming,” Arwin said.
+
+“Neither did I,” Lillia admitted. “Weird guy. Seems relatively straight forward, though. I suppose we’ll have to add another person to Rodrick’s list of people to investigate.”
+
+Arwin chuckled. “He’s going to regret letting us know just how good he is at his job pretty soon. We’ve got until nightfall, though. That’s enough time for me to get a little extra work in. Make a few preparations in case we run into a particularly difficult fight.”
+
+“Workaholic,” Lillia said with a smile and a shake of her head. “Just don’t get too lost in it and waste your magical energy. I’ll get some meals ready for all of us to make sure we’re in top shape for the dungeon. It’s been a while since we’ve all done one together.”
+
+“It has,” Arwin agreed, rolling his neck and stretching out his arms. “It’ll be quite interesting to see how far we’ve all come — and I’ve got quite a few new toys to test. I’m looking forward to this.”

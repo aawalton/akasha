@@ -1,0 +1,315 @@
+---
+id: 505280e3-bd63-5de0-bcf6-8aef36b0ba8c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Moon-Bitten"
+slug: 0021-chapter-21-moon-bitten
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 21
+ownLength: 1456
+unit: words
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2585275/chapter-21-moon-bitten"
+royalRoadId: "2585275"
+---
+
+PoV Luna:
+
+Darkness settled thick around her, quiet and still.
+
+Luna blinked, or thought she did. Her eyes were already open. Probably, maybe, perhaps?
+
+She wasn’t cold, but she wasn’t warm either. Simply just there. Floating. Drifting in herself.
+
+Feeling neither pain nor movement.
+
+Only the dull rhythm of her heart, thudding behind her ribs.
+
+No System voice, or light.
+
+She sniffed.
+
+Nothing.
+
+Tried to speak, but her voice got caught in the stillness and stayed there. Not even a squeak got out.
+
+Her tail didn’t move. Her ears didn’t twitch. Her paws weren’t under her, or above her, or anywhere at all. She felt like a thought somebody forgot to finish.
+
+Luna didn’t like it.
+
+She wanted to chew on something!
+
+Anything.
+
+Her teeth ached for resistance, and her tongue flicked uselessly at the back of her mouth. The little shiny shard still sat tucked behind her molars, untouched and unimpressive. She licked it twice more, just in case.
+
+Still nothing.
+
+Then, without warning, the space brightened.
+
+Not in her eyes, but deeper inside.
+
+A flicker behind thought. A silvery warmth that made her ears twitch.
+
+It wasn’t heat. It was… shape. Pattern, and meaning.
+
+Like a scent, but made of ideas!
+
+It whispered one clear thing:
+
+Moon.
+
+Luna’s breath stirred. Or the memory of it. A pulse moved down her spine, quiet and clear.
+
+Moon.
+
+Her namesake, and crunchy snack from the night sky.
+
+Luna felt the word shimmer. Big and slow and beautiful.
+
+A scent of cold wind and bark. A taste of clear water and half-dried blood. A sound like snow falling through leaves.
+
+Everything at once, and none of it edible. Or was it?
+
+She huffed.
+
+Moon, yes. Good word. Big word. But where was the bite? The chew? The spice?
+
+Her paws itched. The space behind her eyes prickled. She felt the shape of her body returning, outlined not by touch, but by want.
+
+She wanted to stand, to stretch, and to move.
+
+And chew!
+
+The darkness stirred, slow and curious.
+
+Her tail twitched.
+
+A glow flared in the void above her. Pale silver, soft around the edges. Not light exactly.
+
+It pulsed.
+
+Once.
+
+Then again.
+
+Her fur caught it like dew. The tips of her paws glowed faintly, then brighter. Her claws sharpened where light touched them.
+
+Her breath came back, soft as mist.
+
+Luna stood, or the idea of her stood, outlined in silver.
+
+Then she felt a crack from within her chest, telling her the deed was done.
+
+The shape of her body clicked back into place. Her ears found the air. Her tail found the ground. Her weight pressed gently into something moss-scented and safe.
+
+The darkness trembled around her.
+
+And then it was gone!
+
+She crouched low, eyes sharp.
+
+The light above her rippled once more.
+
+She grinned.
+
+The flicker inside her snapped wider, fuller now. It curved like a grin across her ribs. It hummed like her belly before a hunt.
+
+And it whispered again.
+
+Not a word this time.
+
+A promise.
+
+Silverlight, yes. Bite-shaped and bright. And it would be hers.
+
+Luna wagged once, slow and certain.
+
+The moon didn’t speak, but it didn't need to.
+
+She was listening anyway!
+
+And as she did, more flickering thoughts bloomed that hadn’t quite been able to form before.
+
+Old things made clearer. Words. Concepts.
+
+Her brain itched in a good way. Like chewing bark that cracked just right.
+
+Her thoughts lined up a little better. A bit cleaner. A bit smarter.
+
+Like her skull had been full of bouncing squirrels and now they were sitting in neat rows! She drooled at that thought, before snapping back to focus.
+
+The world didn’t feel closer.
+
+She did.
+
+A steady hum moved through her chest. A buzz of knowing.
+
+Her body hadn’t grown any bigger, but it had stopped wobbling. That strange floating feeling faded like morning fog.
+
+Her paws felt more like paws. Her jaw felt like it fit better. Her breath, when it came, pressed out of lungs that knew what they were for.
+
+Her shape was back to something she understood now.
+
+Luna grinned.
+
+Just because she could.
+
+Because it was her grin.
+
+Another flicker of change passed.
+
+A choice for her to make.
+
+Luna didn’t chase it, simply leaned into the pull.
+
+Warmth washed over her fur in a ripple. Her tail flared proudly. Her ears twitched high. Her breath caught once, then pushed steady once more.
+
+She stepped forward.
+
+The moon shone clear overhead, pale and round and closer than before. Close in the way meat was close – important.
+
+Luna tilted her head. Her fur shimmered faintly silver at the tips.
+
+The new part of her sat quietly, just waiting.
+
+She didn’t need to test it.
+
+She already knew.
+
+Luna padded forward, claws tapping gently.
+
+The ground welcomed her weight, but didn’t bite back. Her breath fogged once, then vanished. Her tail swayed side to side.
+
+Good.
+
+Her head lifted, catching the scent of bark, leaf, and her own fur.
+
+No ache, or slime, or frogs.
+
+Just herself.
+
+Sharp and centered and whole!
+
+Luna crouched to feel the strength in her legs again, before jumping once, light and fast!
+
+Her landing barely stirred the grass.
+
+She grinned again, tongue flicking against her teeth.
+
+Her teeth felt cleaner now. Better for biting!
+
+The moon didn’t speak, but it didn’t need to.
+
+Luna nodded to it, once, firm and proud, before testing her new body again.
+
+Her paw twitched once, then twice. The ground greeted her pads like an old friend. Dirt clung beneath her claws. Her tongue ran over her teeth again just to make sure they were still sharp. They were.
+
+She stood up slowly, legs steady, claws quiet against dirt.
+
+Nothing felt heavier. Not even stronger, really.
+
+But her thoughts were… brighter.
+
+Sharper.
+
+And cleaner!
+
+She could think through things, not just past them. Not run headfirst into bites and hope they tasted like progress. Now she could plan the chewing!
+
+Her tail swayed in slow rhythm.
+
+The wind tugged through her fur, softer than before. Her gaze lifted toward the sky, pulled like it always was to the silver glow above.
+
+The moon blinked between branches.
+
+Her coat caught the light differently now.
+
+Less muddy-dark. Less hidden.
+
+More shimmer. More pale glint across the tips of her tail and the ridge of her shoulders.
+
+Still very much wolf. Still shadow ready.
+
+But kissed by moonlight.
+
+Luna twisted her head to catch a better look. No luck.
+
+She would have to find water. Preferably not a frog puddle. Maybe the humans had a shiny bowl somewhere!
+
+Preferably full of jerky she could munch on too.
+
+Maybe she would check. Later.
+
+The System picked this moment to return.
+
+Its words came clear, sharp, and proud behind her eyes.
+
+【Evolution Complete. You have become: Moon Wolf Pup (Tier 0)】 【Epic Path Achieved – Your instincts run deeper. Your mind runs clearer.】 【New Skill Acquired: Lunar Form (Lv.1) – Transform into stored forms for a limited time (30m). MP cost increases when outside moonlight. 1 slot available.】 【Intelligence +3】 【Willpower +1】
+
+Luna blinked.
+
+Transform?
+
+The word danced across her thoughts like fresh meat on a hot rock. She tilted her head.
+
+Then grinned.
+
+"Yes."
+
+It stretched wide across her muzzle, ears lifting high.
+
+Just as she wanted!
+
+Her way towards the life of spice – secured!
+
+Spice forms. Human food. Her own paws carrying her in different skins. A thousand snacks just waiting for the right paw to snatch.
+
+She spun in a fast circle and pounced at a leaf, caught it, then missed, then caught it again just to prove a point.
+
+Her grin didn’t leave.
+
+Lunar Form.
+
+One slot. Thirty minutes.
+
+What would she become? What would she store?
+
+Could she become a squirrel?
+
+Or a bigger wolf?
+
+A shadow with teeth?
+
+No, there was only one answer to that. Luna wanted to eat human food. To eat spice without a tummy ache to follow!
+
+She needed to become a human!
+
+Luna barked a laugh, tail spinning like a leaf.
+
+Then paused.
+
+She didn’t know how to use it yet.
+
+That was fine.
+
+She would learn, and soon.
+
+Moonlight curled through her fur again, soft and quiet, and she felt the tug of direction settle back in her bones. North. East. Home. Sky.
+
+Everything was clearer now.
+
+No more squinting through instinct, or dumb-fect guesses.
+
+She could feel her own thoughts forming. Her own pull.
+
+Her head lifted again.
+
+"Moon Wolf Pup," she whispered.
+
+The words tasted nice. Bit of spice. Bit of pride.
+
+Her eyes caught the silverlight and glowed back at it.
+
+The world had just opened its menu.
+
+And Luna had every intention of chewing her way through it.

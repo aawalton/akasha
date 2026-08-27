@@ -1,0 +1,471 @@
+---
+id: 1bfe3c61-376d-541d-9af8-5071676caf95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84: Of Luna Training, and Pack Groaning!"
+slug: 0085-chapter-84-of-luna-training-and-pack-groaning
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 85
+ownLength: 2147
+unit: words
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2927955/chapter-84-of-luna-training-and-pack-groaning"
+royalRoadId: "2927955"
+---
+
+PoV Luna
+
+Her Second was getting worryingly good at scritches!
+
+Luna lay sprawled half across Syl’s lap, tongue out, panting softly as her entire body buzzed with fluffed-up happiness.
+
+The scritches were precise. Too precise! Behind the ears. Along the neck. Just enough pressure to make her legs move and paws curl without knocking her fully unconscious.
+
+This was dangerous!
+
+Luna tried to lift her head, dignity intact.
+
+Then Trianna sat down beside them.
+
+“Oh no,” Luna thought dimly.
+
+More hands descended.
+
+Pats. Pets. Ruffles. Both sides now. Trianna’s fingers were faster, more chaotic, scratching in enthusiastic bursts that sent Luna’s tail thumping wildly against the ground.
+
+“No,” Luna huffed weakly. “Luna… will not… lose…”
+
+She was still fighting!
+
+She still had–
+
+A large, heavy hand settled gently on her head.
+
+“Hrm. You did well today, pup.”
+
+Veric’s low, gravelly voice rumbled right through her skull.
+
+“Excuse me–” Luna began, indignation flaring at being called a pup. Luna was not–!
+
+–and then her mouth was stuffed full of jerky.
+
+…Nom.
+
+Her protest died instantly.
+
+Nom nom.
+
+Her brain tried very hard to reboot.
+
+Luna is–
+
+Nom. Chew. Lick.
+
+–a big and proud–
+
+Nom. Gulp!
+
+–Apex Predator and leader of the pack!
+
+Her tail wagged so hard it threatened structural damage to the surrounding area.
+
+…Though jerky made it really hard to be mad.
+
+Ray and Sepio stood a short distance away, watching the scene unfold.
+
+“…Damn,” Ray muttered. “They got her all pacified. Who knew all you needed was food and scritches?”
+
+Sepio nodded along.
+
+But Luna would have objected!
+
+Strongly!
+
+Those were not just any scritches.
+
+They were awoomazing scritches!
+
+But she didn’t get the chance.
+
+Trianna suddenly abandoned all subtlety, leaned in, and pomfed face-first into Luna’s fur, hugging her and Syl by sheer proximity.
+
+“Ohhh, I needed this,” Trianna sighed happily. “Luna, you’re a fluffy goddess.”
+
+Hmph!
+
+To that, Luna absolutely agreed.
+
+Syl glowered at Trianna for a brief, sharp moment – territorial, dignified, very Second-like!
+
+Then she relented.
+
+Her hand resumed its slow, devastating work.
+
+“You know, Luna,” Syl said thoughtfully, “with your ability to store your hunts, and how speedy and strong you are…”
+
+Oh no.
+
+Second was praising her!
+
+Luna’s tail went into overdrive.
+
+“…Though your transformation times are still a little too short, we’ll have to work on that…”
+
+Aaand Second had drifted into her thinking voice again.
+
+Good thing Luna only sometimes listened!
+
+“…Yes,” Syl continued, more to herself now, “what do you say we start using potions again? A lot of them? With potions, us, and your speed, this could be very… efficient.”
+
+Scritches were doing most of the thinking for Luna now.
+
+But that sounded good.
+
+So Luna agreed with a happy little woof.
+
+“…Great,” Syl said, smiling.
+
+The others shuddered.
+
+Only Luna remained blissfully unaware, chewing jerky, basking in scritches, tail wagging as the world became very warm, very safe, and very, very fluffy.
+
+It took a good few minutes before Trianna and Syl finally relented.
+
+Luna lay on her back in the grass, belly exposed, tongue lolling, chest heaving with happy little pants.
+
+Defeated!
+
+Utterly conquered.
+
+Yet incredibly, gloriously happy.
+
+Her tail still twitched now and then, like it hadn’t gotten the message that the scritches were over. The world felt warm. Safe. Full. Too full, maybe!
+
+But in a good way!
+
+And then Syl spoke.
+
+“Luna,” her Second said lightly. “What do you think about play-fighting with us today? The fields a little further away are perfect for sparring.”
+
+Luna’s eyes flew open.
+
+Fun?
+
+More fun?
+
+Her heart did a little flip. Today already had jerky. Scritches. Hunting. Zooms. Praise. It was very full.
+
+But…
+
+She could fit some more still!
+
+“Yes!” Luna barked instantly, rolling upright. “More fun good!”
+
+Syl smiled, clearly having expected exactly that answer.
+
+She held up a vial and tipped it gently to Luna’s lips.
+
+“Drink. Slowly.”
+
+Luna obeyed. The potion slid down her throat, and the familiar tingly warmth bloomed through her limbs, buzzing under her skin. Energy followed, bright and fizzy, making her paws itch to move.
+
+Then came the inconvenient part.
+
+“Alright,” Syl said. “Transform back, let’s get you back into those clothes.”
+
+Poof!
+
+Fur shimmered into skin. Paws into hands. Luna wobbled slightly, then scowled at her legs.
+
+“Clothes again,” she muttered.
+
+Very rude invention!
+
+But Syl was already there, efficient and practiced, helping her into tunic and belt and boots before Luna could wander off distracted by a butterfly or her own shadow. Everything snug. Everything proper.
+
+Soon after, Luna tucked all the hunted rabbits and itchy plants safely back into her Maw, shadows swallowing the day’s work at Second’s request.
+
+Then they moved.
+
+The fields opened up around them – wide and flat, grass rippling gently in the breeze. Nothing to hide behind. Nothing to trip over.
+
+Plenty of space to run, dodge, leap, and crash into people!
+
+Perfect!
+
+Syl turned once they were deep enough in, staff tapping the ground softly.
+
+“Alright then. One by one. Only non-lethal moves.” She looked at Luna. “Come here.”
+
+Luna bounced over.
+
+Syl handed her two vials.
+
+“Mana and stamina. Sip a little, then more as needed. You know how by now, yes?”
+
+Luna nodded seriously, then sipped.
+
+Ohhh.
+
+Energy surged again, deeper this time. Her muscles felt light. Her breath came easy. Even her shadow stirred eagerly beneath her feet!
+
+She grinned with unrestrained energy.
+
+Oh, this would be so much fun!
+
+The others spread out.
+
+Sepio stepped forward first, shield raised, stance low and solid.
+
+“Ready?” he asked.
+
+Luna’s eyes sparkled gleefully. Her predatory smile was all the reply Sepio got before she lunged!
+
+And immediately bounced off his shield.
+
+“Oof!”
+
+What followed was weird!
+
+Sepio hardly moved from his position.
+
+Instead, he absorbed. Every strike, every shove, every attempt to slip past was met with that blasted slab of metal. Luna darted left – shield. Right – shield. She tried low – shield. High – also shield!
+
+“Turtle!” she complained, circling him.
+
+Sepio grunted, advancing inch by inch, inexorable.
+
+Luna eventually escaped by jumping clean over him and landing behind, laughing breathlessly.
+
+And ultimately won by going full zoom! Even Sepio could not stop getting bowled over by the speedy missile intent on tripping him up.
+
+Still, that was good fun!
+
+A short break, and then came Veric.
+
+Luna approached cautiously this time.
+
+Veric was… spiky.
+
+Not literally – just everywhere dangerous!
+
+His blade moved in tight, efficient arcs, always threatening. Luna darted in and out, swiping, testing, but every approach was met with steel that hummed a little too close for comfort.
+
+She yelped once as the flat of the blade clipped her arm.
+
+“Ow!”
+
+Veric nodded.
+
+“Good.”
+
+Rude human!
+
+Still, one clever Shadow Step and Strike at his feet took him down too!
+
+Ray was worse.
+
+Fast. Jabby. Everywhere at once. He danced around her, poking, retreating, poking again. Luna chased. Missed. Turned. Almost got tagged again.
+
+“Stop moving!” she barked.
+
+“No,” Ray replied cheerfully, and stabbed the air near her ribs again.
+
+It took being clever to get around him. Being right where he was just stepping into at the right time!
+
+Another down!
+
+Trianna took space.
+
+Lots of space!
+
+At first Luna wanted to just barge straight in, full zoom and tap the easy win!
+
+But she learned very quickly that arrow-sticks hurt even when blunted.
+
+And came at her very fast when she just zoomed in straight!
+
+So she zigged!
+
+Dodged.
+
+Zagged.
+
+And dodged again!
+
+An arrow smacked her shoulder.
+
+“Ow!”
+
+Another caught her thigh.
+
+“Ow!”
+
+She growled and rushed in – only to get smacked again for being impatient.
+
+Very unfair.
+
+It took a lot of zooming back and forth, but Luna won again! That particular spar ending with Luna steamrolling Trianna into a heap she then happily sat upon to show dominance!
+
+Apex Predator Luna wins again!
+
+Breathing hard and grinning despite herself, she felt it.
+
+The difference.
+
+Each of them pushed her in a different way. Made her think. Made her move differently. Adjust. Learn.
+
+It was fun. And it was learning too!
+
+Then Syl stepped forward.
+
+Luna tried.
+
+She really did.
+
+But no matter what she did – run, jump, feint, charge, zoom – Syl was always there. Always just out of reach. Redirecting. Tripping her gently. Tapping her balance away. One step ahead.
+
+Magic, staff, and even bare hands.
+
+Completely unreachable!
+
+Luna lunged anyhow!
+
+Syl stepped aside and tapped her knee.
+
+Luna fell. Scrambled back up again.
+
+And Syl was already behind her!
+
+Again, and again!
+
+Luna laughed, breathless and exhilarated.
+
+“I can’t win!”
+
+Syl smiled softly.
+
+“Not yet.”
+
+But soon!
+
+Luna stood there in the open field, heart racing, body humming with potion-fueled energy, pack spread around her, laughing and aching and alive.
+
+Today had been very full!
+
+And yet, there was still room for more!
+
+“Luna,” Syl said once everyone had finally slowed enough to breathe properly, staff resting against her shoulder as she regarded the group. “How about we show you what we can really do when we try?”
+
+Luna’s ears perked so hard they almost snapped upright.
+
+“And then,” Syl continued calmly, eyes glinting with that dangerous, thoughtful light Luna knew very well, “after a short break… you try to fight all of us together. Your speed and everything you’ve got – except for dangerous moves.”
+
+For a heartbeat, Luna just stared.
+
+Then her tail started wagging.
+
+Then it wagged faster.
+
+“Yes!” she barked, bouncing on her toes. “Big fight!”
+
+And so they did.
+
+The change was immediate.
+
+The party stopped feeling like five separate people and started feeling like one thing with many moving parts.
+
+Sepio planted himself as the anchor, shield angled just so, stance wide and immovable. Veric shifted closer, blade held low and ready, cutting invisible lines through the air that Luna instinctively avoided even before he moved. Ray stopped darting randomly and instead flowed along the edges, always where Luna wasn’t looking, always ready to poke, trip, or distract! And Trianna never stayed in one place for more than a breath, creating space, denying it, controlling distance with frightening ease.
+
+And Syl was everywhere.
+
+Not leading. Guiding.
+
+A step here. A gesture there. A spell woven so lightly Luna barely felt it before it landed.
+
+Luna watched, eyes wide, chest tight with something warm and fizzing.
+
+“Ooo…” she whispered, barely realizing she had spoken out.
+
+They moved together. Turned together. Covered each other without speaking. When Sepio shifted, Veric already adjusted. When Ray overextended, Trianna’s arrow forced Luna to turn instead of exploiting it. When Luna thought she saw an opening, it closed a heartbeat later.
+
+It was beautiful.
+
+And it was her pack!
+
+Then Syl lifted her staff slightly.
+
+“Alright,” she said. “Your turn.”
+
+Luna didn’t need telling twice.
+
+She launched herself forward.
+
+Zig.
+
+Zag.
+
+Zoom.
+
+The field blurred as she picked up speed, shadow smoothing her path. She rushed Sepio head-on, leapt, landed briefly on his shield, and sprang off it with a triumphant bark–
+
+Only to find Veric’s blade already there, flat edge tapping her side hard enough to sting.
+
+“Ow!”
+
+She twisted away, laughed, and Shadow Stepped.
+
+Right into the middle of them.
+
+For exactly one glorious instant, Luna thought she had done it.
+
+Then the ground shifted.
+
+Her feet slid out from under her as Syl pulled the earth just enough to unbalance her. Before Luna could even hit the ground, a firm but gentle push from the staff sent her skidding back out of the formation, tumbling harmlessly into the grass.
+
+She popped back up, panting and grinning.
+
+Again!
+
+She ran wider this time, faster. Built speed. Zigzagged hard enough the air screamed around her ears. She dove for Trianna, only for Ray to intercept her path and jab at her ribs lightly, forcing her to twist away straight into Sepio’s shield.
+
+Thunk.
+
+She bounced off, rolled, sprang up–
+
+Only to find no opening at all.
+
+Every path was closed. Every rush answered. Every clever idea countered before it finished forming.
+
+Luna slowed at last, hands on her knees, chest heaving, eyes shining.
+
+“…Awoomazin,” she breathed.
+
+Her pack wasn’t just strong.
+
+They were together.
+
+She had picked well!
+
+As expected of her genius!
+
+Eventually, the potions wore off, and they were done sparring.
+
+The sharp edge of speed dulled into a pleasant ache. The sun dipped lower, painting the fields gold. Laughter replaced exertion, groans replacing battle cries.
+
+Luna yawned, long and deep.
+
+Without thinking, her hand drifted sideways, fingers curling into Syl’s. She leaned just slightly closer, exhaustion finally catching up to the joy.
+
+Then her stomach growled. Loudly.
+
+“…Luna wants soup now.”
+
+The party burst out laughing.
+
+Syl squeezed her hand gently and patted her head.
+
+“As soon as we return to town, Luna.”
+
+“Ehehe!”
+
+And wrapped in warmth, laughter, and the promise of soup, the long day in the fields finally came to a close.

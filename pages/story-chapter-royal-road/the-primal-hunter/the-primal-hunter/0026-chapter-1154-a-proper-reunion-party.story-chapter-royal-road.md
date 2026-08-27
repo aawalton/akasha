@@ -1,0 +1,177 @@
+---
+id: 82fafcce-199c-56a7-8104-7c595f4770ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1154 - A Proper Reunion Party"
+slug: 0026-chapter-1154-a-proper-reunion-party
+partOf: the-primal-hunter
+position: 26
+ownLength: 2787
+unit: words
+ownProgress: 2787
+publishedAt: 2025-08-19
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2530846/chapter-1154-a-proper-reunion-party"
+royalRoadId: "2530846"
+markedReadAt: "2026-06-29T19:30:04.878Z"
+---
+
+Sylphie and Minaga had truly gone all out when it came to the catering of the reunion party, and it quickly became clear that the two had spent a bit of time teleporting around the Great Planet to gather food.
+
+Was this all done because the large palace Jake had been assigned didn’t have plenty of high-quality food available? No.
+
+Had anyone asked them to do this? Also no.
+
+But not having been asked to do something had never stopped Minaga or Sylphie before.
+
+After their initial light show died down, Jake shook his head. “Welcome to the two of you. Happy that you have finally decided to join us.
+
+“Oh, come on, you totally approve,” Minaga smiled. “If not, you would have revealed our presence far earlier and ruined the surprise.”
+
+“If you hadn’t dragged Sylphie into this, I totally would have,” Jake said in a serious voice.
+
+“Hey! I would have you know that Sylphie and I are equal coconspirators!” Minaga expertly defended himself while crossing his arms. "Or is it just conspirators? Either way, we are in this together!"
+
+“Ree!” Sylphie agreed, crossing her wings. Or, well, at least she tried to.
+
+“Alright, alright,” Jake waved them off. “Thank you for the wonderful catering.”
+
+“You’re welcome,” Minaga said. “Now, allow me to introduce the menu! From the left, we have honey-roasted venison meat cubes, prepared by- “
+
+Jake exchanged glances with Dina and the Sword Saint as Minaga went over every single piece of food on offer. It all sounded very fancy and expensive, with Sylphie screeching out her personal verdicts of how good every food item was after the Unique Lifeform got done introducing it.
+
+After what felt like an hour of everyone else humoring them, Minaga and Sylphie were finally done. They had taken long enough for Minaga to have summoned what looked like magical heating lamps above certain items to keep them just the perfect temperature.
+
+“So, what do the party guests think?” Minaga said proudly.
+
+“I don’t have a mouth and cannot eat,” the Forest King was the first to chime in.
+
+“Yeah, which really shows that not all Unique Lifeforms are created equal,” Minaga sighed. “And by that, I don’t mean I have a biological advantage, but that I’m clearly superior in intellect. If I were you, I would have designed a body capable of eating.”
+
+“I’m fully capable of absorbing natural treasures directly,” the King said, crossing his arms.
+
+“Well, yeah, but you can’t taste them, now can you?” Minaga shook his head.
+
+“I taste them differently than you do, but I most certainly can. I see no need to create a clear weakness in my own design by creating an opening leading directly into my interior, all for the sake of being able to consume food I don’t need in the first place,” the Forest King countered, holding nothing back.
+
+“And that’s why I’m clearly superior in intellect,” Minaga proclaimed before swiftly changing the topic. “Anyway, good to see you up and floating again! Yggdrasil did quite a wonderful job creating that vessel, didn’t she?”
+
+The King, seemingly over the bickering with Minaga, answered honestly. “Yes, it’s remarkable. I’ve yet to fully uncover all the advantages of this improved form, but the mere fact that it’s an improvement over my own original design is proof of her expertise.”
+
+“Yeah, for sure,” Minaga nodded along with a severe look as he inspected the King. “The depth of understanding one must have to create a vessel like that is truly astonishing, isn’t it? Admirable, even.”
+
+“It truly is,” the King agreed, fully willing to recognize just how good of a job Yggdrasil had done.
+
+“For sure, for sure,” Minaga nodded. “Of course, Yggdrasil is no Unique Lifeform, which makes it even more impressive. Then again, Yggdrasil is a very smart Primordial, so it would make sense for her not to simply handle such a task alone. In fact, I would even expect her to ask for consultancy from others who may be even more familiar with Unique Lifeforms. Maybe even someone who knows a thing or two about multiple bodies and creating vessels for souls and whatnot. Perhaps even one without a skill to do so, as clearly freeform magic would be required for such a-“
+
+“Wow, yeah, she definitely got lucky it all worked out,” Jake interrupted Minaga with a nod.
+
+“Certainly she did,” the Sword Saint concurred. “And without any help whatsoever.”
+
+“It’s only expected for the Mother Tree to perform so expertly all on her own,” even Dina fully agreed.
+
+“I shall be sure to extend my thanks to the Mother Tree once more if I’m given the chance, her individual merit is undeniable,” the Forest King nodded, and Jake got the distinct sense he’d known Minaga had been somewhat involved one way or another from the beginning.
+
+Minaga just looked at them and pouted. “Bullies.”
+
+“Ree,” Sylphie screeched as she’d flown over and padded Minaga on the head... truly delivering the deathblow.
+
+“What do you mean it’s okay that she didn’t ask me?” Minaga said, offended. “She... wow, even you are a bully.”
+
+“The Nevermore party gotta stick together,” Jake grinned. “It’s only natural we are in agreement when it truly matters.”
+
+Minaga muttered something under his breath as he picked up a small biscuit with cheese and quickly munched it down. “I’m gonna eat all the good snacks before you get to them...”
+
+Sylphie was quick to react to this as she did a quick fly-by and snatched a large skewer with meat on it for herself. Jake also shook his head and chuckled as he decided to give the food a chance, the Sword Saint and Dina also joining him.
+
+The Forest King even decided to take some of the items, talking about how they were mana-rich enough to serve as sustenance. The garden area of Jake’s massive mansion also had plenty of seating available, allowing them all to sit down, and only a minute later, Minaga had already forgotten all about the recent bullying session as he spoke animatedly about all his own recent adventures.
+
+Jake also shared what he’d been up to since the last time they met, the Sword Saint and Dina doing the same soon after. A lot of this recapping was for the King to get him fully up to speed about everything, and the others told him a lot of the details that Jake had either forgotten or didn’t know about. Especially the Sword Saint had a lot of insight into how things had developed politically and what had happened to the areas the King ruled on Earth before his temporary demise.
+
+Dina and the Sword Saint also shared plenty about their hunting adventures, with Jake also chiming in. Everyone besides Minaga and the King was unsurprised when Jake talked about the contract out on his life and his encounter with the Chimera, with the three nonchalant individuals not viewing the contract on his life as a real problem.
+
+It wasn’t, but the fact that not a single person, not even Sylphie, seemed worried did hurt a little. Or maybe they just all had confidence in him. Either way, some concern would have been nice.
+
+The one Jake was most interested in hearing about was Sylphie, who’d spent the last many months with the Sylphs. Jake had been a little worried about how she would be while out on her own, but from the sounds of it, she’d gotten quite a positive welcome.
+
+In fact, they had positively treated her like she was truly one of them in a fashion only the innate curiosity of elementals would allow. Sylphie had made a lot of new friends and enjoyed “traveling the winds” with them all. The biggest wind they traveled was naturally the offshoot of the World Wonder that bled through the wormhole down onto the Great Planet.
+
+Jake had briefly heard about this Vortex Pinnacle tornado, but the more he learned about it, the more he understood not just how frightening it was, but how beneficial it could be to all kinds of wind elementals. The winds were infused with special concepts found only within the Vortex Pinnacle, and understanding merely a fraction of these could help an elemental get far stronger.
+
+Even gods of the wind affinity could learn much from the tornado, though if they wanted the best gains, they would have to head to this Vortex Pinnacle itself. The tornado on the Great Planet was mostly for those who were still mortals, and for someone like Sylphie, it was the best spot she could possibly be in.
+
+That’s also how, despite not having hunted at all during all this hunting by Jake, Dina, and the Sword Saint, she’d still outpaced their leveling speed.
+
+[Juvenile Sylphian Hawk – lvl 331 – Divine Blessing of Stormild]
+
+Alright, the fact juvenile was still in her name also played a factor as Sylphie had the advantage of naturally growing simply by existing. Sadly for her, the party would soon be over, as when she evolved to B-grade, she would finally be considered a fully grown adult Sylphian Hawk.
+
+When it came to how much the Sword Saint and Dina had grown, they’d roughly kept pace with Jake, if not been a little slower, seeing as how Jake was now above both of them in level, with him being level 319.
+
+[Dryad – lvl 311 – Divine Blessing of Nature’s Attendant]
+
+[Human – lvl 314 – Divine Blessing of Aeon Clok]
+
+The fact that Jake had outpaced them both by a little was something he felt was worth being proud of, especially when one considered he had a period of immense soul damage that stopped him from being able to gain levels. Then again, he also had his large clash with Ell’Hakan and all the Yip of Yore stuff, which netted him a lot of fast levels... but then there was also the Anomalous Soul thing to consider... oh, but the Sword Saint was a Transcendent which tended to also affect leveling speed, and as a dryad, Dina only had to level a race and her class, with her race being a naturally slow-growing one...
+
+In summary, comparing leveling speeds between individuals who each had their own unique Paths, all of which stood at the pinnacle, was kind of a waste of time. Everyone had their own advantages, downsides, and fortuitous encounters, which led to one’s leveling speed fluctuating immensely.
+
+The only person definitively behind the rest of their Nevermore group in levels was the Forest King, something the Unique Lifeform was teased plenty about. Especially Jake and the Sword Saint took this opportunity to make fun of the King as they knew they would soon be caught up with and overtaken, so they had to take advantage when they could.
+
+Once they were all done eating and sharing stories of what they’d recently been up to, the real fun could begin. With a god present, they had someone who could easily facilitate a few small duels or opportunities for them all to show off.
+
+Jake was tempted to have a duel with the Sword Saint, but decided against it. Now wasn’t the time or place. He had avoided dueling the old man for a reason, as he wanted their rematch to be a proper one.
+
+Dina also wasn’t super interested in duels. She’d already trained with Sylphie and the Sword Saint, and with her lack of interest in participating, this left only a few possible matchups. In the end, rather than proper duels, it turned into a chance for the Forest King to test out his new body and powers.
+
+“I can’t believe I’m being taken advantage of like this,” Minaga complained as he created a transparent barrier around the entire area, and with another wave of his hand, spatially expanded the entire thing to turn the garden into a massive grassland.
+
+“You could have just teleported us somewhere,” Jake commented as he stood next to the god atop a small hill overlooking the two duelists below.
+
+“Then he wouldn’t have been able to show off,” the Sword Saint smiled.
+
+“See, the old man gets it,” Minaga said with a grin.
+
+“You’re far older than he is, though...” Dina commented.
+
+“They were speaking about mental ages, I reckon,” Jake explained kindly to her.
+
+“I should brand you all heretics...” Minaga complained under his breath.
+
+“Can you even do that? Or does it require some skill the system decided not to give you because you’re already too damn overpowered being, well, you?” Jake asked.
+
+“I can,” Minaga crossed his arms. “Never done it, but I totally can designate someone a heretic. Anyway, let’s watch!”
+
+“Sure, sure,” Jake smiled before he turned his attention to the two below.
+
+On one side, the Forest King floated slightly above the ground, energy revolving around him. On the other side, a small hawk sat perched on the grass, nearly blending into the green grass around her.
+
+“In an acknowledgment of my inferiority in power, I shall make the first strike,” the King said as he raised a clawed hand and pointed it toward the hawk.
+
+“Ree!” Sylphie responded, telling him to just come at her.
+
+Without any further hesitation, a massive blast of force was released from the King, tearing up the ground between himself and Sylphie in an instant. Right before the shockwave struck the hawk, a sphere of wind appeared around her and burst outwards.
+
+Shearing winds hit blast of force as the ground exploded, the result showing that the wind had definitely won out. Undeterred, the King struck again, releasing a barrage of attacks toward the small hawk.
+
+The wind responded once more, sending out shearing blows that battled the force magic. Every time the King attacked, the wind retaliated with equal or greater force, and after half a minute of exchanges, Sylphie had yet to even move. The surrounding ground had been torn up and destroyed, but in an area of three meters around the hawk, not a single mark could be seen.
+
+“I see that my attacks are utterly incapable of breaking past your current defenses, so allow me to try something different,” the King said as he lifted his claw again. The ivory bone claw glowed golden, and a moment later, a beam of pure golden energy erupted.
+
+Sylphie seemed to get a bit more serious as she opened her wings, making the sphere of wind expand. Crosswinds formed as the wind seemed to blow from all directions at once in her vicinity, and once more, the King found his attack nullified as the winds sheared the golden beam apart.
+
+With another wave of his hand, five golden orbs appeared floating above the King, each shooting a beam moments later. Sylphie had to actually flap her wings once this time around to nullify the attack, though she’d yet to move.
+
+“Her winds have gotten stronger,” the Sword Saint commented.
+
+“Yeah,” Jake nodded. “It seems more... solid. Physical. Not quite sure how to describe it.”
+
+“The wind energy has definitely been compacted and intensified,” Dina nodded. “But there are a lot of concepts at play I have no insight into.”
+
+She glanced at Minaga after saying this, but the Unique Lifeform just shrugged. “You’ll figure it out someday. Or not. Either way, I’m not gonna spoil anything.”
+
+None of them commented on Minaga’s reluctance to share, and Jake even found himself relieved at not knowing, as it would indeed be more fun to figure it out himself. They all remained quiet for a while longer as they saw the King shoot off attack after attack, finding himself unable to even make the bird move.
+
+Despite this, the Unique Lifeform did not appear frustrated. Quite the contrary. He focused entirely on every attack, trying to refine and improve it as the energy traveled through his new vessel. Jake even saw a few attacks clearly blunder as the King messed something up, making it weaker than the one prior.
+
+Sylphie also seemed to enjoy herself as she got some good practice with using her wind magic purely defensively. As they had commented on earlier, it seemed a lot more solid now, allowing it to play a far more defensive role than before.
+
+Jake couldn’t help but smile watching this scene of the two tearing up the local landscape. There truly was no better party game at a reunion than shooting deadly attacks at your friends to learn if they'd gotten better at not getting killed. Definitely way better than beer pong. Unless it was beer pong played with live grenades... in that case, beer pong might have been more fun.

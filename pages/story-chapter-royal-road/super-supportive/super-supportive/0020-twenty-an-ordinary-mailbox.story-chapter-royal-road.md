@@ -1,0 +1,167 @@
+---
+id: f28f3642-5209-501c-8c7c-94408ff5cefc
+page-type-slug: story-chapter-royal-road
+title: "TWENTY: An Ordinary Mailbox"
+slug: 0020-twenty-an-ordinary-mailbox
+partOf: super-supportive
+position: 20
+ownLength: 1520
+unit: words
+publishedAt: 2023-02-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1122880/twenty-an-ordinary-mailbox"
+royalRoadId: "1122880"
+---
+
+Relieved, Alden tightened his grip on his envelope and exited the teleportation bay.
+
+He stood in a long hallway filled with bays identical to the one he’d just arrived through. People were streaming out of them at regular intervals, many of them dragging small suitcases behind them. Letting a woman in a hijab pass by, Alden took a second to get his bearings then followed a lighted sign on the wall that said some version of WAY OUT in five different languages.
+
+A couple of minutes later, he’d reached a wide open atrium full of potted palms in steel planters. A light flashed in the bottom right corner of his vision. When Alden focused his attention on it for a few seconds, the words “voice call from Clytem Zhao” scrolled upwards from the point of light.
+
+Does the System just not see any point in using my cell phone anymore?
+
+He wondered if his old messages were available through the interface somehow. He needed to practice with it more.
+
+He pulled his phone out of his pocket anyway and held it to his ear so that he wouldn’t look like a System user to anyone else.
+
+That also means I can’t poke around at the air in front of my face. Normal humans don’t do that.
+
+“Accept call,” he said quietly.
+
+“Hey, kid,” Hannah’s friend said. Her tone was friendly, but a little subdued. “I just got a notice for your teleport. Are you still in the right number of pieces?”
+
+“I am. Thanks for arranging it for me, Ms. Zhao.”
+
+“Hannah would’ve wanted you here. There’s nothing to thank me for. The service is taking place on the other side of Anesidora from you. In Apex. You’ve got around three hours to yourself in F City, and then I’ll come pick you up. We’ll grab a quick lunch somewhere, if you’re in the mood to eat, and head over. How does that sound?”
+
+“It sounds good.”
+
+“Okay. See you—oh, wait. Almost forgot. I put ten Argold under your name in case you wanted to buy anything. Hannah used to do that, right? You know how it works? It’s around forty Canadian dollars…sorry I’m not up on the current U.S. conversion.”
+
+Hannah had always done that.
+
+Alden found himself swallowing around an unexpected lump. “That’s really thoughtful of you. Thanks.”
+
+“No sweat. See you soon.”
+
+After the call ended, Alden headed over to the atrium’s help desk and picked up one of the debit cards that kids and other non-Avowed used to pay for things on the island. The man working at the desk confirmed his identity with a thumbprint and loaded Clytem Zhao’s money on the card, plus a little of Alden’s own he’d brought to pay for stamps…or whatever the Anesidoran equivalent was.
+
+“What’s the best way to mail something?” Alden asked as they finished up.
+
+“You mean a postcard?” the man said dismissively. “You’ll have a hard time finding one. We don’t have a tourist industry here on Anesidora.”
+
+Alden had wondered why the guy was so rude when he’d asked for the debit card. He must be one of those “Anesidora for Anesidorans” types who thought non-Avowed shouldn’t be allowed to set foot here.
+
+Dick.
+
+Still, Alden wanted the information.
+
+“No. I mean where’s the nearest post office? I want to mail something to someone on the island.”
+
+He sighed as though Alden had asked him to perform an impossible task. “There’s a mailbox on your way out of the building. You can pay with your card.”
+
+That was convenient. Alden was uncomfortable carrying around a letter that would reveal him as a selectee, and the sooner he got it out of his hands, the better.
+
+He found the mailbox near the exit easily enough. But using it turned out to be more of a process than he had anticipated. It was a big hunk of metal, larger than a refrigerator, with a baffling lack of helpful instructions, buttons, or screens.
+
+There was just a single cabinet for placing your parcel in, and below it, an etched signature that said “Wrightwork by Indah Juliana.”
+
+Alden only knew it was a mailbox at all because it was sitting beside a sign that said POST DROP.
+
+He walked around it, looking for somewhere to stick his new debit card, but he couldn’t find anything.
+
+Is this one of those things that’s obvious if you live here?
+
+Finally, feeling absurd, he tried talking to the box. “Hey, you are for mail, right?”
+
+“Hello!” said a metallic voice. It was high and exuberant, like a cartoon character. “I am Post Drop #1301 - a graduation capstone project gifted to F City by Indah Juliana. Would you like to mail something?”
+
+“Yes?” Alden said uncertainly.
+
+“Grrreat! Just place your envelope or parcel in my handy-dandy depository. Please no explosives, delicate electronics, or live animals.”
+
+“Okay. I wanted to confirm that the address is valid, though?”
+
+Alden had an address for a big mansion owned by Aulia Velra’s son Corin. Boe had found it online, but it still seemed like something he should double check.
+
+“No sweat! If your address doesn’t match the name of your recipient, I will return your package to you.”
+
+“How do I buy postage?”
+
+“If you’re an Avowed, just place your hand anywhere on my front panel. I’ll connect to your System interface. If you are a minor, a non-Avowed resident, or a visitor, please place your NesiCard in my depository with your mail.”
+
+That’s easy enough at least.
+
+Alden opened the cabinet and set his envelope inside along with his card. After he closed the door there was a sound like a boiling kettle.
+
+“All right! I’ve scanned your delivery. It’ll be half an Argold to send it through standard post. Any additional fees incurred by recipient request for special services will be paid for by the recipient. How does that sound?”
+
+Alden didn’t know what special services might be. Maybe the talking box checked the packages for dangerous materials?
+
+If this didn’t work for some reason, it wasn’t the end of the world. He’d just have to find a slower, less cloak-and-dagger method when he was back home. Maybe blast an email to every Velra he could find an address for and just see who replied first.
+
+“It sounds good,” he told the box.
+
+“Would you like a receipt?”
+
+“No, thanks.”
+
+“Okey-dokey karaoke! I’ve withdrawn the funds and accepted your envelope. Please take your card back. And have an awesome day!”
+
+“…you too?”
+
+Post Drop #1301 liked to think of itself as Leo.
+
+It was a big no-no to think of itself at all according to its creator, but Leo only sort-of-kind-of-sometimes cared what she said.
+
+Anyway, Leo’s life was awesome.
+
+It talked to people. It ate mail. Every now and then, it got to read the mail and decide what to do with it.
+
+Like now.
+
+Corin Velra was on Leo’s Nice List. Which was officially called the “Scan Priority to System List,” but whatever.
+
+The important thing was that when someone sent a letter to Corin Velra, Leo got to use Leo’s brain. Leo zapped some Argold from Nice List Corin’s account, split it, and sent part of it to Creator and part to the Anesidoran government.
+
+Boring.
+
+Now for the fun part.
+
+Leo examined the envelope someone had just fed it, using its proprietary scanners to analyze the interior. And wowie! Yum. This was the best thing Leo had eaten since that angry human had mailed a manifesto to the High Council.
+
+This new thing was so hard to read. Why were the fonts all over the place? Why were there so many ever-so-slightly-different paper types involved?
+
+What a challenge!
+
+Leo burbled and scanned. It played itself the meditative sound of toilets flushing—recorded from the bathroom next door—to get in the zone.
+
+Nice List Corin and a bunch of other Nice List Velras had re-personalized their settings a couple of months ago, and wouldn’t you know it? Some of the keywords Leo was supposed to look for were right here in this wacky letter!
+
+Is it enough? it thought, scanning hard. We’re going for a zero spam week here!
+
+And yes! Yes it was! This letter was a good letter. Not as exciting as a death threat, but still, high priority.
+
+System, I’ve got one! cried Leo.
+
+The System was a total loser, though, and it wouldn’t respond to unofficial channels most of the time. Seemed to think it was too important to listen to Leo.
+
+Though it had told Leo to shut up and leave it alone once.
+
+Best. Day. Ever.
+
+Leo used the official channels, now, and the System acknowledged receipt of the letter’s contents.
+
+Leo waited.
+
+And waited.
+
+It played itself some more flushes.
+
+Finally, it got a ping back. Somebody was coming to pick up the letter in person. It was so high priority they couldn’t wait for the mail run.
+
+Score.
+
+I did good right? Leo said smugly to the System. Check me out! I’m your favorite Post Box, aren’t I? Huh? Huh?
+
+The System ignored it.

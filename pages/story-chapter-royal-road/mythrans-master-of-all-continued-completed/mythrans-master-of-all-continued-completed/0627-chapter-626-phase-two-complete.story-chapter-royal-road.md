@@ -1,0 +1,245 @@
+---
+id: 5ccf2266-33d3-514e-8e4b-be4b326d44da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 626 - Phase Two Complete"
+slug: 0627-chapter-626-phase-two-complete
+partOf: mythrans-master-of-all-continued-completed
+position: 627
+ownLength: 2752
+unit: words
+publishedAt: 2018-07-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/229889/chapter-626-phase-two-complete"
+royalRoadId: "229889"
+---
+
+“Oh, my god!” Artemis exclaimed as she felt the ocean of emotions pouring into Ren and saw his body glow with the power. Tiatha, the Dark Elf healer, was still on her knees and stared up at him. She had done as he asked and made herself into a funnel and siphoned off all of the negative emotions Ren absorbed and gave them to her Queen.
+
+*
+
+The Queen of the Dark Elves screamed as the mark above her heart burned with such intensity that she thought she was dying. She fell to her knees as her Emotion Siphon ability worked overtime to absorb all the emotions the Royal Consort and her personal attendant were forcibly feeding her.
+
+“Too... much!” Lylyth said, and she shot out Mana tendrils to the other Dark Elves around her. She was grateful that she had only been in a conference to discuss what to do with the High Elven soldiers they had captured and not in the room with the soldiers themselves, because she didn't choose her targets. Everyone around her had a Mana Tendril attached and she pushed the emotions she couldn't absorb into them.
+
+*
+
+Ren felt a little guilty about absorbing emotions from people without asking their permission first; but, he justified his actions with the fact that no one would have had the emotions at all if it hadn't been for the Water Works update. He wouldn't have created the artificial Aura to get their attention, either.
+
+Ren concentrated on the negative emotions that him being a Sea Dweller gave them, and he pulled them out of everyone. He looked down at Tiatha and saw her stunned expression as he pushed all of those negative emotions through her. He knew she wasn't keeping anything for herself because her body wasn't glowing at all. It only took a minute or so to pull out all of the negative emotions from everyone, and Tiatha relaxed as the flow trickled down to almost nothing.
+
+“Don't relax yet!” Ren said and used his Awesomeness Aura's inherent ability, Charm Person. Since he could cast it on anyone within his Aura, and his Aura covered the entire country, every single person that was susceptible to it was charmed by it.
+
+*
+
+King Alamast was in the middle of an important meeting with several delegates from a nearby nation when he felt Ren's Aura cover the castle. “No! Not again!” He exclaimed and stood up. “Please excuse me!” He said and ran from the room.
+
+“Hmm. He has a good Charge reaction at least.” A gravelly voice said through furry lips. “I wonder if his soldiers have the same fight or flight response?”
+
+“I would say at least some of them do. Despite being ferried inside a covered cart, we could still see out.” Another said. “They just had to bring us by their front lines where they had been fighting those undead things.”
+
+“Ghouls.” The third one said and smiled as he bared his sharp teeth. “Nasty taste, but great fighters.”
+
+The three delegates laughed deep throaty laughs.
+
+King Alamast was halfway down the hall when he felt his emotions about Ren start to be pulled out of him, and he ran faster. He arrived at his wife's private room and burst in through the door without knocking like he normally would, and found her leaning against the wall with a hand over her heart and the Ghoul-Kissed mark there.
+
+“My Love!” King Alamast ran over to her and took her into his arms.
+
+“He needs our help.” Lady Eleanor whispered.
+
+“He could have asked!”
+
+“You would have said no.” She said, and he couldn't deny it. “Prepare yourself.”
+
+“For wha-aaahh!” King Alamast grunted as the emotions being drained changed to the negative ones and the force they were being pulled increased. “What... what...”
+
+“He hates that we were forced to dislike him.” Lady Eleanor said, and she didn't fight Ren taking the negative emotions like her husband was.
+
+“Yes, he does.” Diana said from the doorway. She was completely unaffected by the negative emotion drain, since she didn't have any strong negative emotions for Ren. She saw her father struggle with it, and she walked over to him. “Father, let it go.” She said. “So what if he's a Sea Dweller?” She asked. “Does that change the things he has done for us, like saving mother's life?”
+
+Lady Eleanor looked at her daughter's face and saw calmness. “You saved my life, not him.”
+
+“I came up with the idea, but it was he who brought the healers here in time.” Diana said. “He also stopped that coup attempt by Lord Eddlemere, not to mention saving my life.”
+
+“But, he... he took...” King Alamast looked at his wife.
+
+“He has healed me fully and made me stronger. He has neither stolen my heart, nor earned my favor.” Lady Eleanor said, and Diana sighed.
+
+“What else does he need to do to satisfy you?” Diana asked, and then King Alamast stopped slumping and stood up straight.
+
+“He stopped.” King Alamast said and hugged his wife. “It's over.”
+
+“No, it isn't.” Lady Eleanor warned, then both her face and the King's gained a joyous expression.
+
+“He is so wonderful!” They exclaimed together, and Diana watched in stunned silence as her parents danced around the room and celebrated the times they had been privileged to see Ren in person.
+
+“What is going on?” Diana asked, and she heard similar shouting and laughing in the hallway. She walked over to the door and looked out to see a maid and a butler dancing together. The trays of food they had carried were discarded on the floor to ease their revelry.
+
+*
+
+The scene was repeated all around the country by most of the people that lived there. Tasks and jobs were ignored as they celebrated Ren and his entry into their lives. It was mostly NPCs that were affected, but some Adventurers were as well. They didn't know why they were celebrating their knowledge of Ren, and because of the Charm Person spell, they didn't care. They let the joy and happiness fill them and counted Ren among their closest friends.
+
+*
+
+Ren felt the overflow of positive feelings for him and started to absorb them. He knew the Charm Person spell wasn't going to work on everyone, and he felt a small backlash of negative emotions, so he pushed them into Tiatha in a mix of good emotions. She caught her breath as he added in his own appreciation for her and her body glowed almost as brightly as his.
+
+Ren's level gains came faster and faster as each second passed while he absorbed an entire country's population of emotions. The other members of his party called the Virtual Survivors also went up in levels; so Artemis, Teepo, Princess, Ruck, Tee-one, and Lara the Sage of Ages, all gained levels, too. Because Ren needed so much more XP to go up a single level, approximately 220% more, everyone else in his party gained levels so much faster than him.
+
+“Whatever you're trying to do, stop it!” A woman yelled and tried to push through the dancing crowd. “You're hurting these people!”
+
+Ren smiled at her. “It's not hurting them at all.” He said and kept absorbing the emotions. “Even if I didn't use a spell to make them all happy and like me, my ability doesn't work that way.”
+
+“Look at them!” The woman said. “They're dancing around like they're crazy or something!”
+
+“That's just a reaction to happiness.” Ren said. He was tempted to check his status to see how far along he was, but decided he didn't need the distraction at the moment. “Some cheer, some dance, some hug.”
+
+“I... I'll stop you.” The woman said and drew her sword. “Let my friend go!”
+
+“Where is she?” Ren asked. The woman pointed, and he saw a young woman not far away as she jumped around by herself and cheered for him. He had to slow the flow of emotions to concentrate on the young woman, then dismissed the Charm Person spell on her. He saw her do two more jumps, then she looked around.
+
+“DANA!” The woman near Ren yelled and the young woman turned and caught sight of her friend.
+
+“Hey!” Dana said and made her way over to her friend. “What happened? I don't feel as happy anymore.”
+
+“It was Ren! He used some kind of magic on you!”
+
+“Really?” Dana looked at Ren and smiled. “You have to be really talented to cast a spell out of sight of someone.”
+
+“Dana!”
+
+“What?”
+
+“He had you under a spell! He could have made you do anything he wanted!”
+
+Dana put an arm around her friend's shoulder. “If that's true, why are we all just dancing and cheering for him?”
+
+“He only just started this... this... whatever it is! He could have you strip off your clothes or... or...”
+
+“It's just an apology.” Ren said and both women turned to look at him. “I got tired of feeling everyone's negative emotions for me and the Sea Dwellers, so I absorbed them without their permission.”
+
+“Wait, I think I heard about something like that.” Dana said. “Can you, like, suck people dry or something?”
+
+Ren chuckled. “I can't drain people to death, since my version of the ability doesn't work like that, and I wouldn't do that even if I could.” He said. “Once I took all the bad emotions, I used Charm Person to make everyone be happy and have fun; but, the spell's compulsion is really strong because my Aura is so big, so I'm absorbing the excess emotions from everyone.”
+
+“There are hundreds of people around.” Dana's friend said. “How are you doing that without touching them?”
+
+“It's not just here.” Tiatha, the Dark Elf healer said, and remained on her knees. “He's absorbing them from everyone in the whole country.”
+
+“WHAAAAAT?!?” The woman and Dana yelled together.
+
+“Ren, you need to hurry.” Teepo reminded him.
+
+“Don't worry, I think I'm almost done.” Ren said and closed his eyes, then concentrated on gathering as much of the excess emotions as he could. His level kept going up and up, and people stopped dancing as he absorbed more emotions. The cheers died down as he took more and more from them, and all across the country, everyone slowed and stopped celebrating.
+
+*
+
+“Oh, my.” Lady Eleanor said breathlessly.
+
+Diana looked back into the room and saw that they had stopped dancing and that her father, King Alamast, stood beside her mother and he slowly clenched his hands into fists.
+
+“You don't have to fight it, dear.” Lady Eleanor said, and King Alamast's wide and happy smile started to fade, and his eyes turned from joy to anger.
+
+“How could he do that to you?” King Alamast said through gritted teeth. “He dares to cast a spell on you! I will have his head the next time I see him!”
+
+Lady Eleanor reached up and rested her hand on the cheek of his face. “Didn't you enjoy it? Dancing with me without a care in the world?”
+
+Some of the anger left the King's eyes and he unclenched his fists to give her a hug.
+
+“Of course I did.” King Alamast said. “But, still...”
+
+“It's not permanent.” Lady Eleanor said and used her other hand to touch the Ghoul-Kissed mark above her heart. “For some reason, I believe he wouldn't do that.”
+
+“No, he wouldn't.” Diana said. “I just wonder why I wasn't affected?”
+
+“There are two simple explanations for that. You didn't have any negative emotions for him to take and you are already charmed by him.” Lady Eleanor smiled demurely. “Neither of his attempts would work against you.”
+
+********
+
+“Sir! Something is happening!” One of the programmers assigned to monitor the progress of the game at Sid Tec said, and Francis the Head Programmer walked over to him.
+
+“What is it?”
+
+“I don't know, sir.” The programmer said. “Look.”
+
+Francis looked at the data and nodded. “That matches the data from the last time this happened.” He said. “It seems our illustrious player activated his gigantic Aura again.”
+
+“You're kidding!” The programmer said. “How can he do that?”
+
+“He's more versatile than... wait, what's that?” Francis said and pointed to a numerical counter.
+
+“Oh, that's my XP monitor. It lets me gauge how many quests are paying off for players and...”
+
+“Why is it going up so fast?”
+
+“Hm? Oh, it always counts fast. With all the players...” The programmer looked at the counter and saw the million marker flip, then flip again, then twice more, then three more times, then six times. “What the hell?”
+
+Francis watched the programmer open up the XP tracker and saw the source for it. “Okay, I need to know how he's doing that.”
+
+“I don't know, sir.” The programmer said. “It's got several things tied in together, according to the source. Level ups and a running quest mixed in.”
+
+“Can you tell me the quest?”
+
+“Just a minute.” The programmer said and opened several other programs, then cross-referenced it to the open quests list. “Okay, I got it.” He said and brought up Ren's Running Quest to show everyone what he could do.
+
+“Oh, that's slick.” Francis said. “He probably didn't have a chance in hell of making a level up with this stunt, but if he's also showing people what he can do, the XP gains are going to be enormous.”
+
+“Why?” The programmer asked. “Shouldn't it just be a one time thing?”
+
+“Yes, but if he does several different things...”
+
+“...they compound together, especially with the entire country's population inside his Aura.”
+
+Francis nodded. “He's definitely a smart one.”
+
+“Sir, what do we do?”
+
+“There's nothing we can do.” Francis said. “His little plan isn't taxing the main servers, let alone affecting the reserve backups.” He chuckled. “We can't go in and put an XP cap on anything, because all the other players will complain that they won't be able to gain enough XP to get on the leader board.”
+
+“They have been complaining about that, ever since the third time he got on there with a ridiculous amount.” The programmer said. “According to Jerry, anyways.”
+
+Francis nodded. “He's going to get the top spot again with this.” He said and thought about something. “We might not be able to stop him taking the spot, but we can block the amount that's shown.”
+
+“You mean like when he broke the Honor to XP subroutine?”
+
+“Exactly. He'll get the top spot, but people won't know by how large of a margin he has.” Francis said. “Healthy competition is one thing, since it spurs people to do better; but, destroying any hope for reaching the same height defeats the purpose.”
+
+“That's a good point, sir.” The programmer said. “Hey, Jerry! We need you over here for a second.”
+
+********
+
+Ren could feel himself getting stronger and more powerful as the minutes passed, then suddenly the flow of emotions cut off abruptly and his Emotion Siphon ability stopped working.
+
+Notice!
+
+Your Emotion Siphon ability can no longer be used to convert emotions into XP.
+
+Ren immediately deactivated the ability and then dismissed the Charm Person spells on everyone within his Aura. He felt everyone relax and felt their relief, because it had been quite the event for them to experience, and now that part of it was over.
+
+Notice!
+
+Using your Emotion Siphon ability and absorbing so many emotions, has earned you an insurmountable amount of XP.
+
+XP gained: XXXXX
+
+Running Quest Update!
+
+You have shown an entire country of people what you can do.
+
+Rewards: XXXXX XP
+
+Fame: 1,548,943
+
+Notice!
+
+Your excess Fame has been converted to XP
+
+Fame 1,548,943 x 10 XP = 15,489,430 XP
+
+Wait, what? Ren thought and blinked his eyes at the X's in two of the popups. I can't tell how much XP I gained? Does that mean I didn't get it?
+
+Notice!
+
+You have gained 851 levels! You are now Level 999 and 8,510 stat points have been automatically allocated. You have unlocked: Everything for your class. There is nothing left for you to learn. Please refer to the various lists available to you (skills, recipes, spells) to find out what you can do.
+
+“Holy crap!” Ren exclaimed. “It worked!”
+
+Teepo, Artemis, and Tiatha felt his shock and started to laugh, because he had shocked himself more than he had shocked everyone else.

@@ -1,0 +1,341 @@
+---
+id: 15a35685-c380-5690-869f-fd90af69346f
+page-type-slug: story-chapter-royal-road
+title: "PoA The Concept of Death Chapter 3"
+slug: 0011-poa-the-concept-of-death-chapter-3
+partOf: the-path-of-ascension
+position: 11
+ownLength: 6068
+unit: words
+ownProgress: 6068
+publishedAt: 2021-10-13
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/766231/poa-the-concept-of-death-chapter-3"
+royalRoadId: "766231"
+markedReadAt: "2026-06-29T19:17:46.790Z"
+---
+
+PoA The Concept of Death 3
+
+Melinda looked at Tara in disbelief.
+
+She had to be joking.
+
+“You must be joking. Right? She’s like a million years old.” Melinda thought over what she said and corrected herself. “She’s multiple millions of years old. She’s probably had naps that lasted longer than we’ve been alive.”
+
+Tara stood there with a look on her face that Melinda knew all too well. It screamed that Tara had the proverbial bit in her mouth, and was going to charge ahead no matter what anyone said.
+
+Wanting to head off an explosion or rant, Melinda threw an arm over her friend’s shoulders and squeezed. She knew Tara would have gone off with a million and one reasons why it was a good idea.
+
+“If that’s what you want to do, fine. Just don’t do anything stupid.”
+
+“You think I have a chance?”
+
+Melinda sighed and debated lying, but threw the idea out after a slight hesitation.
+
+“Probably not a snowball’s chance in a forge.”
+
+“What? Why not? I’m pretty. I’m smart. I’m a good fighter. I’m...”
+
+Melinda interjected, “Young. Tara, you are a fraction of a blink for her. Your life experiences are nothing compared to hers. I think that will be a hard gap to bridge.”
+
+Tara didn’t seem as put down by that, and had a thoughtful look on her face, instead of the dejected one that Melinda expected.
+
+“So I just need to get stronger and live forever. That’s easy enough. Life experience is more a percentage than a flat number, so I just need to get some under my belt to lessen the relative gap. After a few thousand years, I assume you’d have seen it all and done it all, so I would have caught up by then. Thanks, Melinda! Good talk.”
+
+Melinda shoved her archer away, and focused on the meeting point they were at. She had been more focused on saying goodbye to Aunt Helen than looking around. Now, she saw that there were hundreds of people milling about in little groups. She expected that they were other teams, and that the larger ones were multiple teams engaged in casual chatting. She didn’t miss the few lone people that appeared to be solo delvers either.
+
+Her Concept showed her that everyone was healthy and in fine shape, so she meandered around and checked people that she had previously missed because of the crowd.
+
+As she reached the other side of the mass of bodies, she noticed a massive cordoned-off area. She peered around, searching for some official to ask about it, but a wave passed through the crowd, and everyone got quiet. Following the gaze of the people around her, she looked to the sky and saw a flying vehicle descending. The thing was silent, which felt wrong for its bulk, but fit its sleek and aerodynamic design. The thing looked more like an armored transport vehicle from the movies than anything else.
+
+A quick search showed her that was exactly what it was. It was a few millennia-old model that had been out of commission for four thousand years, according to her AI. She also found the warship that the vehicle was traditionally paired with. It was a massive cruiser-type ship that was used to transfer million-strong armies through the void of chaotic space in a single trip.
+
+Mathew encircled her from behind and kissed the top of her head, saying, “Now that’s a ship.”
+
+“Did you see what it’s attached to? It’s even more impressive.”
+
+“Of course. Do you think they still have the cannons installed?”
+
+Melinda bumped him with her butt and scoffed. “The transport has its weapons stripped, and I’d bet the cruiser does as well. There is no way they would bring us onto a ship with combat stuff on it.”
+
+“But it would be so cool. I guess being on the ship will have to suffice. I wonder if we’ll get to sleep in the old barracks. Oh, that could be fun.”
+
+Melinda listened to her husband ramble on, and smiled as she watched the ship land. It had been strange to spend three days without him. They hadn’t spent that much time apart since before the rift break, so it was nice to have him back.
+
+The shuttle’s rear opened up, and she could see a space that was at least a dozen times larger than the apparent outerhold of the ship. Instead of the rows of hard seating she expected, there looked to be an upscale lounge. There was a crewman in an immaculate suit, but she saw what was hidden to everyone else.
+
+The man, while he exuded only a Tier 4 aura, was at least Tier 15 or more. Their body not aging or having any blackness was the peek behind the curtain, and she assumed he was a hidden bodyguard. It made sense. Why would the Empire gather its young and talented youth, but not have hidden guards to prevent sabotage from the other great powers?
+
+It reassured her that they would be in no danger during this excursion.
+
+Soaking up Mathew's excitement, she followed him around as he poked and prodded at the hull of the ship. He completely ignored the splendor while trying to find an unupholstered portion of the hull.
+
+She did pick up a flute of champagne from another hidden immortal that was pretending to be Tier 5. As people filtered in, Mathew led her to a portion of the ship that had a window. They watched as the city grew smaller and smaller, until it was just a dot on the ground, and covered by a passing cloud.
+
+With a twisting of reality that she felt in her bones, they were suddenly amidst a soupy void of blacks, purples, and tinges of red. As the ship rotated, they got a view of the world sitting in the chaotic space.
+
+It was like a shining firefly with four strings of light reaching off into the darkness. Mathew had his face pressed against the window and gasped out a quiet, “It’s so pretty. And look, that’s what we teleport on. Wow. I can’t tell if it’s super small, or huge.”
+
+Melinda rubbed his back and murmured an agreement. There was something mesmerizing about the shifting colors that called out to her, soothing and lulling her into feeling sleepy.
+
+Mathew started peering around as they turned and started moving and said, “I can’t see the ship.”
+
+A passing crew member stopped after hearing that and lightly laughed, saying, “Yeah, without a Concept and with lower cultivation, our vision is limited in chaotic space. I believe we’ll be passing the ship with a good view if you go to the port side window.”
+
+“Thanks!” Mathew nodded to the liar and pulled her along. Melinda felt a petty desire to call the Tier 15 out for him pretending that he couldn’t see from here. The man could probably feel the cruiser in chaotic space from where they were.
+
+Debating on whether or not to let it go, she chose not to. But she decided to do it in private.
+
+“Matt go ahead. I'll catch up in a moment.”
+
+Her husband was so preoccupied, he just hurried along as she turned to the waiter.
+
+“You’re giving yourself away. Even if I couldn't see that you’re Tier 15 or higher with my Concept, I could have guessed it with you spilling something most people under Tier 15 wouldn't know. Sloppy really.”
+
+The man stumbled and she internally danced to see him so shaken.
+
+The server turned to her and inspected her head to toe. If she didn't see the serious look on his face, she would have interpreted it as him checking her out. “I don't know what Concept you have that allows that, but I’d ask you to keep it to yourself. We’re here for your protection. But I can't stop you.” He paused then nodded to her. “Thank you for the warning. I didn't even register it.”
+
+She walked through the halls with a smile on her face and caught up to Mathew, who was busy snatching snacks off of the passing waiters’ platters.
+
+Melinda had to stifle a laugh at a Tier 6 berating a waiter who was only Tier 4 for not having a better selection of finger food. If he knew the waiter was at least Tier 15, she was sure his tune would turn around completely.
+
+It also caused her to pause. Was her team like that?
+
+She thought about it long and hard, but didn’t think they were, and decided against telling her team that the people serving them were all powerhouses. It would allow her to observe her team, and correct any behavior that was like that man's. She also tagged him with her AI, so they could avoid him in the future.
+
+After watching the Tier 6 man go on and on for a while, she decided to intervene. Being berated like that was wrong, no matter your Tier.
+
+“Excuse me.”
+
+The berater paused and looked startled.
+
+Seeing that she had his attention, she pulled out what her team called her ‘mother hen’ tone and expression.
+
+“Listen here. You are being incredibly rude. Would you talk to someone like this if he was a Tier 15?” She internally grinned at the squirming hidden immortal, but forged on.
+
+“No. And you shouldn’t do it if they’re Tier 4 either. It's rude and sets a horrible example for everyone else. Also, you make yourself look like an ass.”
+
+“But he nearly spilled his tray on me. And he had bad food.”
+
+Melinda looked at him as if he were stupid and waited for the man to squirm.
+
+“So, that gives you the right to call him out publicly and loudly? Shame on you. I was raised in an orphanage and have better manners than that.”
+
+Normally she hated using the orphan card, but seeing the embarrassment that crept onto the man's face made it worth it.
+
+Turning to the waiter, she smiled and let it morph into a knowing grin. “It’s alright, sir. Maybe when you hit Tier 15 you won't be as clumsy?”
+
+She took a moment to savor the immortal’s awkwardness for a short moment before leaving.
+
+After she rejoined Mathew and after a short wait at the window, they saw the cruiser appear like a ship parting the mist on a foggy lake. It was massive. With over a mile and a half of exterior surface area, and over fifteen on the expanded inside, it was a monster of warfare travel. Unlike the shuttle that was transporting them, this cruiser was a boxy thing with hard angles. It had no regard for travel in atmosphere, and maximized available space as opposed to its aerodynamics.
+
+Apparently, the battleships' direct use fell off in the last few thousand years, but it was once a titan of a warship that still commanded the space around it with a threat of imminent violence. She felt that there was some poetry in the fact that it was still being used, but now for civilian activities. It somehow felt like a fitting retirement for a ship that had survived and served well during the wars.
+
+She wondered what the new ships looked like, but wasn’t at all surprised to find nothing of use on her downloaded snapshot of the EmpireNet. There was no way that the Empire would let current military technology out on the open Nets.
+
+They entered the warship through a simmering silver barrier, and the view of chaotic space outside was replaced with a hanger that had a multitude of banners and other decorations. Once they exited the transport vehicle, everyone was corralled to a podium, where a woman in a civilian navy suit called out to them in a resonating voice.
+
+“Good evening, ladies and gentlemen. You are on the HMS Deceiver. She’s a good girl who served her time in the wars, and has since been refitted to a more mundane purpose.”
+
+Melinda wanted to roll her eyes. An old warship filled with hidden Tier 15’s masquerading as lower Tier servants on a ship called HMS Deceiver. She wasn't sure if that was fitting, or if someone had a sense of humor when they assigned the ship for this mission.
+
+The woman who could only be the Captain looked wistful as she looked at the exposed metal, but continued after a deep breath. “I am Captain Kelsie, Tier 16.”
+
+Melinda didn’t believe any of that. The woman felt more like Baxter did. Their cultivation could be hidden, but there was a depth to it that Melinda had learned to pick up on after enough time around the higher Tiers.
+
+Glancing around to check everyone’s reactions, she saw that their ship was only one from half a dozen, with each having released a few hundred people onto the hangar floor. A quick guesstimation gave her around a thousand people picked up from the planet. She was surprised there were that many Pathers on a single out-of-the-way planet.
+
+She knew it wasn’t that hard to remain on The Path at Tier 6, but the numbers implied were startling. You only had to reach Tier 6 by twenty-four years old, which really wasn’t that difficult. Her team had done it by late nineteen.
+
+She was pulled out of her musing by the Captain’s next words. “As you are all on The Path, and time is of the essence, you will each be given essence stones of your Tier. One every other day while we are underway.”
+
+There was a slight cheer and some whooping from some in the crowd that caused the Captain to smile. The smirk allowed Melinda to notice the thin scar on the captain’s face, as it made her smile slightly crooked. If she believed the Captain was actually Tier 16, she would have offered to remove the scar. It could be hard for the newly immortal to exert enough control over their bodies to remove things like scars. But she knew the woman was much stronger, and would have the body control necessary, which meant keeping it was intentional.
+
+“Yes-” Captain Kelsie continued, “A wonderful and useful resource. If you want the advice of an old lady, absorb them slower than the five hours it usually takes. They’re as compacted as essence from rift monsters, so no need to fiddle around as if it were ambient essence, but essence stones can teach you something if you look deep enough.”
+
+There was a murmuring that reflected Melinda’s own thoughts. She tapped into the ship’s LocalNet and did a search for essence stones, but found nothing. She doubted that the Captain would mess with a bunch of kids, and decided to take the hint as it was intended. She would see if she could discover anything.
+
+“We will be traveling for another two weeks, and making more stops to pick up others on our journey to the vassal kingdoms. Our ship’s AI has already allocated rooms for each team. But on to the important things. Food! Chow will be available at all times in the form of sandwiches, and there will be hot meals every six hours, every day. If you have any problems, please just ask one of my staff, they will be more than willing and able to help.”
+
+Someone from the crowd called out, “What if we want to fight?”
+
+The Captain smirked at that and grinned into the crowd. “ Ah, yes... Fighting. You’re all going to a little war and don’t want to show your asses to the locals. Yes, we have training rooms and arenas in the port aft of the ship. If you want some more advice on your little war, wait to choose a side. Show off some skill when you arrive at the neutral city, and get them into a bidding war for you.”
+
+Melinda was miffed they hadn’t thought of that and already locked in their chosen side. None of them had even considered not clicking on the box to choose when they were given the option. She had thought it was a requirement, but it clearly wasn’t.
+
+The Captain half turned before she spun back and winked, “Feel free to explore the ship while you’re on board. There are a few areas not marked that I’m sure some of you would enjoy finding. I’ll see you all at our destination. Please enjoy your time on my vessel.”
+
+Melinda wanted to sigh. She didn’t need to turn to feel her husband vibrating in anticipation at the offer of free rein to explore the ship. She knew he would have done it either way, but at least she’d have seen him if he had to be circumspect. Now, she doubted she would see him until they left the ship.
+
+Ignoring the ping to her AI with their team’s assigned room, she latched a hand on Mathew’s arm and pulled it in. “We’re all visiting our rooms and settling in, then having at least one meal together before you’re allowed to explore. I also want to do some training while we’re here. A few spars could be a good way to test out our combat experience.”
+
+There was a slight groan from her team, and she squashed it with, “Three hours a day. I don’t care; we’re doing it.”
+
+There was a chorus of sarcastic “yes, mom”s that she took as agreement.
+
+They, along with most everyone else, filtered into the ship and followed their AIs to their assigned rooms.
+
+Melinda was pleasantly surprised by their accommodations. There were actual beds, instead of the barrack bunk style beds she had seen in movies. They were small, but they had some privacy, as the room was attached to a small common area that linked all of their rooms into a suite.
+
+She waited in the common room while they put their bags away and reassembled, and when they had gathered she said, “There’s lunch in an hour, or dinner in seven hours. Pick which one we eat together.”
+
+“Dinner!”
+
+That was the general consensus, and she nodded her agreement with her team. It was what she expected.
+
+“I’ll see you there then. Do. Not. Be. Late.”
+
+She glared at each of them as they filed past her. Mathew kissed her and vanished out the door and down the hall. She gave him fifty-fifty odds for getting engrossed in his exploration and forgetting dinner, so she queued a timed message to remind him.
+
+With her team duties taken care of, she left the room and found the healer's bay. She wanted to get familiar with her local healing area, and see if they needed some shifts covered.
+
+She found Baxter playing cards with a number of other people in healer's clothes once she reached the healers bay. She noticed that they were also Tier 15 or higher and hiding their cultivation. Feeling comfortable in her setting, she scoffed at all of them.
+
+“Why are all of you hiding your cultivation? I get the wait-staff, but healers? Come on.”
+
+She got raised eyebrows from everyone but Baxter, who rolled his eyes and answered the unspoken question. “She can see your immortal bodies.” He turned to her and continued, “Go away. You aren’t a general healer for this excursion. You’re on team-only duties. No backlines for you.”
+
+He stared at her for a long moment, while she looked back in confusion.
+
+Finally, he shoo’d her with his hands and returned to his card game, ignoring her.
+
+“But why? I’m a good healer...?” The last came out more as a question than she intended, and with a sigh, Baxter turned from his card game again.
+
+“I don’t think you’ll get anything out of sitting in the backlines. We have a ton of healers from the Empire coming to make sure you kids don’t end up dead. We don’t need your help. Your Talent won’t be considered in play for this little excursion, which means your team will have the joy of dealing with standard healing. You’ll be a normal team healer, like any other team will have. If your team dies, y'all are out. Then you’ll either have to forfeit your points to rejoin like everyone else, or leave the war. No special treatment.”
+
+Melinda was shocked and didn’t know how to react. It was reassuring that getting ‘killed’ in the war didn’t mean the end of their time fighting, as it could mean a long trip for little benefit. But still, she didn’t like the implication that she couldn’t help with healing others during her downtime.
+
+People would need her. Overhealth was perfect healing, and therefore had no cooldown on the time to wait between healing. The body automatically accepted it as if it were natural, and the patient needed no time to adjust or deal with healing strain.
+
+Turning, she left the healers station and wandered the halls, lost in thought.
+
+She would have two possible roles in a real war. Either she would be helping other healers in the backline, or fighting with her team. She couldn’t do both, and didn’t know what the right answer was. With her Talent, she would be better used in the rear guard. But she didn’t think she could leave her team to the ravages of a war, if she had the choice.
+
+Melinda thought that was exactly what Baxter was trying to prove by keeping her out of the healers' stations in the rear. If she didn’t have her Talent, that meant she would have a single large heal per person, before they needed to retreat as the healing resistance grew. She and her team would be limited like never before.
+
+She didn’t know what she had expected, but it wasn’t this. She expected to keep her Talent’s effects hidden, but not to be restricted from its effects with her own team.
+
+How would they fight? She realized now, just how reliant they truly were on her zero downtime healing from Overhealth.
+
+Suddenly this war seemed like a bad idea.
+
+Melinda felt adrift as she wandered without purpose.
+
+Finally, she passed a line of people, and it brought her out of her daze when she noticed that they were heading towards an Immortal Empire representative handing out essence stones. To her bewilderment, people started immediately betting with the essence stones on fights, or even more shocking to her, on other people’s fights. She could kind of understand betting on yourself, but to completely rely on someone else with something this valuable seemed foolhardy.
+
+She joined the line to get her team’s reserve of essence stones before heading back to their room and writing up a message. She explicitly stated that betting with the stones was not allowed under any circumstance. She hated the idea of her team doing something so foolhardy. An essence stone only had the essence of a single rift’s worth of monsters, but it was free progression without downsides.
+
+They were also ruinously expensive. Her AI indicated that they sold for two full Tiers higher than their own at Tier 6. By Tier 10, they sold for four Tiers higher. The stones also had restrictions on how many an individual could buy per year at that price. Apparently, the Empire subsidized the cost of the stones for the first five purchased per year. She didn’t want to know what the true value of the stones were when she realized that she couldn't find anyone selling them at their non-subsidized cost.
+
+In their years of delving, her team had never gotten a single one. The fact that the Empire was handing them out like candy was slightly unnerving.
+
+She understood a mana stone's value scaled insanely fast, but the amount being spent on this war seemed to dwarf anything they could get out of it. What was worth spending so much on a game for kids on The Path?
+
+It seemed extremely wasteful.
+
+***
+
+Melinda stood behind her team and surveyed the squad across from them. It was a five vs. six fight, but they were high Tier 6, as opposed to their mid Tier 6. One was clearly a defensive melee fighter like Mathew, while another had what looked like a longsword. Its tip glowed with a shimmering red light.
+
+Having not seen the weapon before, she quickly queried her AI. It identified the blade as an estoc, a variation of a longsword without edges. It was a thrusting weapon, purely designed to pierce armor in a single lunge. What it lacked in slashing abilities, it made up for in the ability of its glowing tip.
+
+Their backline had a pair of mages, and a woman with dozens of throwing blades strapped to her person.
+
+Their fighting platform was a rocky setting, with a few scraggly trees clinging to life on the sides of cliffs, and a small stream that cut the area in half. It was perfect for Vinnie, and Melinda felt good about their chances. There was even cover in the form of pillars of rocks that were interspersed throughout the landscape of the fighting arena.
+
+The referee called the start of the fight, and everyone exploded into action. Mathew rushed forward and slammed his shield into the other tank’s, and they began grappling with one another. Melinda jumped left as a glowing blade whizzed by her chest.
+
+Kyle ran forward, and swung the oversized slab of metal he called a sword at the ribs of the opposing tank. He was intercepted by the estoc wielder when they used a skill that reflected all of the blow’s force in the form of a glowing sword. The estoc wielder followed up with a lunge that skewered Melinda’s teammate.
+
+She lunged forward while Tara finally released her arrow into one of the enemy mage's shoulder, and Sam covered Kyle’s downed and bleeding form with her poison covered daggers while Melinda moved to heal him. If she took too long, the referee might pull him out for safety reasons, so she needed to move fast.
+
+Melinda reached her fallen teammate’s side and pushed a [Ranged Heal] into him, and he struggled to his feet. He was up in time to catch the estoc user off guard, and force her to abort a lunge. Together, they seemed to have her under control, but the ability to counter attacks made her a tricky opponent.
+
+The AI pinged her that Tara was wounded, so Melinda ran while using the rocky terrain as cover.
+
+Vinnie was gone, but she knew he was underground, going to drag one of the mages under to take them out of the fight. She caught an [Ice Bullet] in the side that preceded a cast of a [Fireball]. They had correctly identified her as a healer, and were trying to take her out quickly.
+
+While smart, it hurt.
+
+The ice had turned to steam, and scalded her flank, but Melinda pushed through the pain and grabbed Tara. She had two throwing daggers sticking out of her gut. If they didn't have a registered member of the team with healing skills, Tara would have been removed for her injuries.
+
+Tara was still standing, and she ripped the throwing dagger out of her body, hurling it back at her opponent. Her bowstring was cut, and she had been returning thrown weapons with deadly precision. Melinda healed her teammate, who coughed up blood and grinned maniacally in response.
+
+Melinda used the lull in combat to get back to her responsibilities as shot caller.
+
+Using their AIs, she called out to her teammates over voice chat, “Vinnie, finish the mages and surface. The estoc user seems to be able to counter physical attacks.”
+
+The woman was fighting off Kyle’s massive sword, along with Sam’s daggers, to a complete standstill. Her teammates were fighting together while perfectly weaving in and out of each other's range, but they were unable to get through the woman’s skill.
+
+Melinda glanced to the side and watched Tara return another knife to its owner, catching the woman in the throat as she popped out of cover. Melinda winced as the referee pulled the woman out of the fight to get the wound tended to. It was a nasty one, but thankfully it was shallow enough in her professional opinion, that it wasn’t life threatening.
+
+Tara had enough control of her aim that if she wanted to kill the woman, she would have aimed for an eye. The Tier 15 referee would have caught the weapon, but that was bad sportsmanship. Part of Melinda was pleased at the comeuppance when Vinnie’s hands burst out of the ground,grabbing one leg of each opposing mage, and pulling them both underground. He left their heads exposed, but they were out of the fight.
+
+The tank was dispatched when Tara threw a dagger into his armpit, right as they defended a strike with their shield raised. The ref considered that enough to pull the enemy tank out of the fight. Melinda medically agreed, as they would have either bled out quickly from the dagger being removed, or it would have caused more damage while they tried to fight with the weapon still inside of them.
+
+Finally, it was only the estoc user remaining. She was easily countered when Vinnie’s [Earth Manipulation] wrapped her feet up and pulled her down, but she called out in surrender when she realized the numbers were against her.
+
+Melinda quickly scanned her teammates and threw a [Ranged Heal] onto Sam, who had a deep gash in her side.
+
+They hurried off the arena, and Melinda inspected each of them with a more detailed [Directed Heal]. She found nothing lingering, and waved off the healer who came to inspect her team. She was shocked when they ignored her and performed their own inspection.
+
+The healer nodded to her and said, “Good work. Your healing is almost as good as a professional healer’s would be. Keep up the good work.”
+
+Melinda had to count to ten to keep her tongue in check. She was pissed enough at their performance, and the healer's side comments threatened to push her over the edge. She was aware of how some certified healers looked down on team healers. They typically only had a single undirected healing spell, and didn’t know anything more about the science other than casting the spell and letting it do its job. But it irked her that without her identity as a healer, she was treated like a novice.
+
+Him doing an inspection was fine, as his job was to see to the fighters, but his condescending attitude had struck a nerve.
+
+She couldn’t turn off her Talent, so she knew her healing was perfect. The condescending ass caused her words to her team to come out harsher than she intended.
+
+“That was awful.”
+
+Vinnie shrugged. “We won. And easily at that.”
+
+Tara wiped off the blood that covered her armor and flicked it at him. “No, we didn’t. You hid underground the whole time, so you didn’t see us getting taken out.”
+
+Melinda counted to ten again, and realized some of her irritation was from ignoring the wounds that still lingered on her side. With a thought and push of mana, she healed herself.
+
+With the clarity of being fully healed, she added, “We were. We’re unprepared for fighting against people. If we didn’t have me as even a normal healer, we would have lost in the first two exchanges. Kyle would have been taken out, and then we would have been slowly whittled down. Even Tara had her bowstring cut, and was unable to effectively deal with our opponents. We would have lost that one if the referee didn’t know we had a healer. He surely would have pulled us out otherwise.”
+
+Mathew and Vinnie’s mood sobered, they hadn’t dealt with the brunt of the damage and missed how brutal the fighting was.
+
+“We need more training and more practice. No more real fights for the next three days, since we’re dealing with the healing downtime.”
+
+She made sure to emphasize the fact that they were pretending her Talent didn’t exist while they were out in public. Normally, they just pretended that they never got hurt in rifts to avoid downtime. But Baxter’s words were a strong reminder to be careful.
+
+It wasn’t worth it for her Talent to get out over a game in which no one would die. Especially with Tier 15’s watching everything.
+
+Melinda sighed. “Let’s get showered up, and then tomorrow we train. We train like we’re back at the PlayPen and still struggling. We have amazing abilities, but I think...” Melinda paused and faced reality. “We haven’t been pushing ourselves nearly as hard as we could have, or should have been.”
+
+Everyone looked somber as they moved to their rooms. Melinda made a note that they needed armor repairs as well. She just hoped the crafters weren’t charging too much.
+
+Either way, they would have to pay for it. But suddenly, this whole adventure took on a new light. She hadn't realized how different fighting people could be. She intended to use this to ensure that her team didn't have any glaring weaknesses. She would improve them all.
+
+Only by becoming strong could she ensure her family’s safety.
+
+***
+
+Melinda and her team worked themselves to the bone for the next week and a half. They spent five hours a day in group training, and another two working out and exercising. When their nonexistent healing cooldown ended, they fought against other teams.
+
+They lost three matches out of the seven they fought, which was honestly better than she had hoped for. All of their losses were against teams that were peak Tier 6, and clearly older with more experience.
+
+Those losses didn’t hurt as much as their close win against a team that was barely Tier 6. They had six people as well, but it was humbling to struggle against people weaker than them. The team just had better coordination and instincts for fighting together. That, more than anything, drove her team to work harder.
+
+They had been so busy, they hardly noticed as their ship stopped at two dozen planets and picked up nearly a million people. If the ship wasn’t spatially expanded as it was, they would have never fit everyone, but it wasn’t as crowded as she expected. While they weren’t restricted from wandering the ship, they learned there were five locations like theirs, with chow halls and fighting arenas for each set of living quarters. The layout helped keep the numbers in any one facility down to a reasonably uncrowded level.
+
+But today was the day, and they were prepared to exit the ship and start fighting. Melinda felt slightly regretful that they had chosen a side already, but they were all excited to see Matt again. She directed her AI to send Matt a message the moment it got access to the PlanetNet.
+
+As their shuttle descended into real space, she was shocked to see a massive city bustling with people and flying platforms. There were also hundreds of shuttles like hers that swarmed down and dropped people off into a massive open area in the center of the city.
+
+She had already learned they were a week late for the official start of the fighting, as they were part of the second wave, but she was shocked at how many people were already there. Her AI calculated the number in the millions for just this city alone. The problem was, the Empire was just too large, and they hadn't been on this side of the territory, which increased travel times significantly. Even more waves after theirs would be coming for the next month, as the farthest reaches of the Empire arrived.
+
+They landed and were hurried out of the shuttle by people in silver and light purple uniforms, or at least armbands. Her AI registered them as people in the queendom, and once they were off, they were led into a building with the same coloring.
+
+As they entered, she got a message from Matt addressed to their whole team.
+
+“You guys came? I hope you didn't chose the queendom. Haha!”
+
+Melinda didn’t feel like laughing.
+
+Couldn’t something go right for us?

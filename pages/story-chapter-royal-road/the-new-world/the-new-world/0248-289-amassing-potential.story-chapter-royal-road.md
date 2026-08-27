@@ -1,0 +1,231 @@
+---
+id: 77d00a43-1e2c-5e73-ab60-3cf14d3de93a
+page-type-slug: story-chapter-royal-road
+title: "289 Amassing Potential"
+slug: 0248-289-amassing-potential
+partOf: the-new-world
+position: 248
+ownLength: 4054
+unit: words
+ownProgress: 4054
+publishedAt: 2021-02-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/637623/289-amassing-potential"
+royalRoadId: "637623"
+markedReadAt: "2026-06-29T21:29:37.169Z"
+---
+
+While sinking miles and miles from Saphigia, Elysium already set up shop in the Vagni's capital. They constructed a net out of energy to hold in mana pollution. This purple sludge sustained a silver population, all of it grown at the top of this purple pillar. Saysha beetles constructed a landmass of metal, and merjects acted as Hybrid fodder at the top of it.
+
+All of this occurred at the city's core. Outside of this new wall of congealed pollution, the Vagni thrived. They accepted Elysium's rule, and like I predicted, they already set up a system here. That much was evident by the sheer number of aquatic Hybrids swimming with the Vagni. The natives even grew in size and speed. That kind of change happened from enhanced stats, along with a subtle, gray hue to their skin.
+
+Turning gray showed constitution investment, though its intensity varied from person to person. I remembered when I played an obelisk based game once, and it had an ad in it for powders that 'de-grayed' a person's skin. I didn't care enough for something like that, but I could relate to why someone would.
+
+Sinking towards an aquatic, isolated cliffside, I stepped up and peered at the now Elysium city. They granted breathing equipment and a swimming course for land dwellers, all of it hosted in several classes. They kept the same adventurer's guild format for completing quests and gaining access to Hybrids. Elysium also erected many buildings, some full of air and others without it, for Vagni and land members alike.
+
+The most massive change came from the upgraded road systems. That was something I noticed about Elysium so far - they emphasized transportation. On Earth, they cleaned the countryside of roaming eldritch for trade routes. In Gypsum, they implanted many teleporters for navigation.
+
+In this case, Elysium implanted Leviathan based Hybrids at various intervals. These colossal creatures channeled mana, creating artificial water currents across Saphigia. This allowed for a better flow of goods and people, granting immediate economic prosperity. Combine that with the clearing out of nearby eldritch, and the Vagnis' farms and outlook changed for the better.
+
+This was no subtle shift either; it was night and day compared to the Empire's approach. The albony wanted to rule via suppression, like a heel crushing a neck. Elysium took a more carrot-on-a-stick approach. The carrot was tempting to get, so the Vagni sprinted towards it, and they ran exactly where the Adair's wanted them to go.
+
+Outside of those direct changes, Elysium managed to reconstruct most of the ruined areas of Saphigia. They used origin mages that molded matter into the collapsed buildings and streets. Since the Vagni's homes weren't symmetrical, even a novice mage could get some work done. That assumed their mana reserves held up.
+
+I watched a mage create a wall in the distance as Amara drifted up to me. She breathed in the water around her using one of the rings I made. Breathing out, she peered at the mage as well,
+
+"It would seem that they have chosen a far easier path."
+
+I frowned, "Yeah, I think you're right about that."
+
+Amara gazed at the city, "This place...it is saturated with we eldritch, a world embodied in our image. Those here, they are all composed to the core from my kin. Elysium has taken a far kinder approach to us, merely trimming our numbers rather than calling for systematic extermination."
+
+I turned away from the city, a giant eldritch rolling over the countryside. I pointed at it,
+
+"Isn't that monster's goal the same? It's just trying to eat everything alive."
+
+Amara winced at the gargantuan creature, the rolling ball of mouths and eyes grotesque. She shivered, "That...that is not what all eldritch wish to become. Many do, but not I. Not Hod. We wish for something else, something more. It is a tempting goal for most, I admit, but there are those of us that are different in the end. We wish for more than endless consumption and growth."
+
+Amara turned a palm, eyeing me from the side, "Unlike others, I could mention."
+
+I shrugged, "It gets the job done. At least I'm not eating someone else, right?"
+
+"To me, it seems no different. We will agree to disagree."
+
+She glared at my chest, and I knew good and well she was looking at my elemental furnace. I let the issue slide, turning back to Saphigia. Elysium's approach worked better than Schema's for this place, and that's probably why the Adair's wanted to own this territory.
+
+Their victory wasn't absolute, however. I walked around a few rural villages nearby, telepathically eavesdropping on a few Vagnis' conversations. None of them even spoke with the new rulers, many not even knowing what was happening. While I couldn't make out complex discussions, I uncovered another seed of resentment building up.
+
+The Vagni didn't like having their old gods suppressed, whether that was good for them or not. It was like forcing medicine down a dying man's throat. Sure, they needed it, but that didn't mean they'd like you for it. This eldritch killing provoked some animosity, and it gave me a lot of optimism going forward.
+
+I could suppress eldritch even better than Yawm had before me. Using that tool, I didn't have to actually kill them. Instead, I could intimidate them, which would bolster far greater loyalty from the Vagni than merely eradicating the monsters. My golems acted as the meat and bones of this idea, spreading my presence throughout Blegara. They'd serve as reminders that the eldritch were allowed to live on this planet.
+
+So working within that framework, I planned on instilling a deep fear in the monsters here. Pulling out a mana crystal, I stared at it before flipping it in my fingers. Enough of these could attract a massive swarm of eldritch. Once here, we'd see whether or not my status as a living multiverse would be enough to get the eldritch on my side.
+
+Time would tell.
+
+I brainstormed these solutions while we traveled through the countryside, towards the trenches surrounding Saphigia. We created a long line of members, each of us dedicated to picking up the Omega Strains along a singular, straightforward line. Once diving down, the golems and I began harvesting Omega Strains, hastening as we went.
+
+After fifteen minutes of quick diving and picking up the stones, we finished one of these slices of a trench. Moving further down, we dove down again. This covered the bottom of the indentation like lawn mowing through all the Omega Strains there. We didn't harvest most of them as we passed initially, as we kept ourselves unseen.
+
+It wouldn't be the best idea for the Vagni to see hundreds of lights moving through the bottom of underwater valleys. That's why each member of my golem armada using their abilities to search. I stayed stealthy during the entire operation as well, opting for feelers instead of lights.
+
+I extended hundreds of armored tendrils in all directions as I passed the ground. These felt out my immediate area, and anything that shivered at my touch, I stored in my pocket dimension. A few fish and plants were in that mix, but they didn't exactly fill out my storage. The same could be said for the super golems, who each carried my same abilities.
+
+They covered a smaller area with their feelers, but they quickly learned how to get it done. Having a means and a method, we didn't waste a ton of time, tackling the task at hand. As the process extended out into hours, we got the process ground out to a sublime level of efficiency if I say so myself.
+
+The whole 'feelers' based tactic worked better than eyesight alone. I could tap and check behind rocks that would've taken more time to look behind. The same could be said for the super golems, though they ended up putting a lot more rocks in their storages than I did. Turns out that not giving them a sense of touch resulted in them pocketing more stones than not.
+
+It wasn't too big a deal in the end as they emptied out the stones into the trench once they ascended above Omega Strain depth. Keeping the magenta-colored gemstones, the golems moved on right after. This meant the golems didn't harvest quite as quick as I'd like, but we still accumulated plenty of strains.
+
+At the same time, this monotonous labor gave me plenty of time to think. Using my Congruent Mind Strain ability, I put a little bit of effort into harvesting Omega Strains. All of my other mental abilities focused on channeling my elemental furnace and checking my status. It was about time I dusted off some cobwebs there, so I handled a few of my skills and notifications.
+
+I had a bad habit of letting them pile up, and that penchant only got worse as I got busier. It was still better than some people I saw who checked their status after every update. They'd spend hours pruning and tidying their status every day, and it wasted a lot of time. Either way, I could afford to devote a bit more time to that process. As always, a balance was vital.
+
+Catching up on that, I opened my status and got to work sorting out skills. I found more updates there than I expected. The first part was the creation of two unique skills, each useful in its own right.
+
+Congratulations! By fusing the skills of Runic Programming, Mental Construction, Engineering, Construction, and Craftsmanship, you've gained the Artisan of Danger skill! 105 skillpoints rewarded.
+
+Artisan of Danger(lvl 27) - Others would choose to destroy enemies with their own two hands. You build that which destroys, so the arms of those you created are stained by blood in your place. Allows the superior creation of automatons, such as golems, constructs, or AIs.
+
+Congratulations! Artisan of Danger evolved into the Artisan of Destruction due to Apotheosis's influence. Further enhancements were made due to Craftsmanship being capped at 100.
+
+This unique skill explained how I made the golems so much faster than when I started. I also hadn't checked the entire week, so it made sense the skill was above ten already. It also contained a bit more power than most unique skills, considering how many steps and procedures were involved. The dual enhancements from a legendary skill and a capped normal skill explained that at least.
+
+I was confident that if I handled most of the golems' mental creation and design process, I'd probably already have a mythic skill. Of course, I wasn't exactly good at those things, so I let that issue slide. I couldn't have talent in everything, and despite that imperfection, this was still a great way to start off a system update.
+
+In the upcoming siege, we would need as many golems as possible. Having a unique skill speed up that process was always welcome, and it planted a big smile on my face seeing it. However, there was more to read, so I didn't relish that feeling for too long.
+
+Congratulations! By fusing the skills Telepathic Link, Mental Bombardment, Mental Defense, Strategy, and Mental Adaptability, you've gained the unique Bulwark of Logic Skill! 109 skillpoints rewarded.
+
+Bulwark of Logic(lvl 17) - Many would build their body, wealth, or magic. You've chosen the greatest resource instead; to grow the mind. Grants greater mind magic abilities and gives the user more robust, focused thoughts.
+
+This was the kind of skill that was endlessly useful but hard to quantify. That being said, it didn't bother me that the ability only mentioned ethereal benefits. If anyone, and I mean anyone, could use a mental upgrade, it was me. This entire guild running thing, it was more than a handful sometimes. Making my thoughts better could only help in that regard. Having more potent mind magic was always helpful against the Adair Family's remnants as well.
+
+I took these bonuses to the bank, surprised each of the skills were so pragmatic. Using my more, ahem, focused thoughts, I came up with why. I was doing useful things. Big shocker, I know, but there was more depth behind that line of thinking than the statement implied. It came from a conversation with our resident lich.
+
+I spoke with Torix over the last week while creating golems, and we talked a lot about all kinds of stuff. Gaining skills was one of those topics. Besides discussing how to make some generic, useful skills, we got into more philosophical discussions. At one point, the chat shifted to a standard growth strategy used by newer sentients: the skill accrual method.
+
+The idea behind it was simple. By gaining many simple, easy to learn skills, you'd build up a considerable base of skillpoints to enhance skill trees. Most of the time, this risk-averse practice involved practicing all kinds of generic skills then leaving a safe spot once you'd gained a certain amount of treepoints.
+
+It turns out, Torix was once one of these skill hoarders. He sat and studied for decades on innumerable subjects, developing the first twenty points of a given skill. This gave him plenty of treepoints, but Torix ultimately regretted his time doing that.
+
+In his own words,
+
+'Learning useless skills requires time. Time, even for an immortal, represents an opportunity cost. I spent an enormity of that resource learning dozens of subjects, none useful to me. In the end, I wish I'd spent my time better. I could've learned skills while accomplishing meaningful tasks. Perhaps I may have had more than one mythical skill before meeting you if I'd taken a different path.'
+
+I tried making him feel better about that, but he was right. Personally, I preferred layering useful tasks with learning so that I got as much out of my time as possible. That's also why I'd argue that Congruent Mind Strains was one of my most valuable unique skills to date. It gave me more from my time, which was priceless.
+
+It wasn't like adding more endurance at this point because I didn't really notice attribute increases any more. That included attributes like intelligence or perception since my stat totals were simply too high. So percentage-wise, even a thousand point increase in an attribute made little difference.
+
+These recent skill gains made a much more significant difference. In fact, that got me thinking about intelligence in general. It never seemed to make much of a difference for my mental plasticity. I could calculate and learn faster, but my generalized critical thinking still suffered. Experience helped me some there, but intelligence did less than expected. Mulling it over, I believed my lack of mental skills was the likely culprit.
+
+Unlike thinking skills, I pursued physical and magical abilities with conviction, and that single-minded focus paid dividends over time. By comparison, I neglected my mind. That's probably why I never manifested as some genius despite my sky-high intelligence.
+
+I mean, a mind's acuity was a challenging thing to gauge anyway, so I doubted Schema's ability to produce actual, genuine masterminds using only the system. If anything, I think he simply accentuated already existing aptitude rather than created it. I worked with what would be a smaller base than most then, at least in my opinion.
+
+It made me wonder what someone smarter would be capable of given all my attributes, like Torix or Tohtella. Either way, these mental skills meant I could accomplish more tasks with less time. It made me feel a little more like Torix's disciple, considering he had plenty of these thought-based skills at his disposal already.
+
+Looking through my unique and mythical skills, I had more than I thought. In fact, I already had Knowledge Maker on top of these two new mental skills. If I fused them, I'd have an actual mind based mythical skill. That would be pretty cool. I put that on my to-do lists and speaking of which, I poured my treepoints into my Sovereign skilltree.
+
+I ended up with less than 50 points remaining for my class unlock. It wouldn't be long now.
+
+I'd unlock that class after giving our Omega Strains to Torix. That wouldn't be long, considering our harvesting of the Omega Strains was almost complete. I had the golems dump their extra strains into my own storage once theirs was full, and this let them do a few more laps around the trenches. By the time we left, we had harvested over 10,000 of the gemstones. It was more than enough for everyone in our entire guild and then some. I didn't intend on selling them or anything, but extras were always appreciated.
+
+As we finished up, I met with one of the last golems to finish their job, waiting for them to finish. Reaching above Omega Strain depth, I found Alpha, and I gave him a wave, opening up a telepathic link,
+
+"Hey, what's up?"
+
+Alpha peered up at me, seeming kind of down, "I believe that the sky is upwards, based on my current perspective."
+
+"Hah. Anyways, what has you down?"
+
+"I don't understand. How am I to be asked what is up then told I am down? I am confused."
+
+I tapped my chin, thinking my way through this, "I'm just wondering why you aren't as energetic as normal."
+
+"Oh. I...I was sent on a mission with others. We scoped a dungeon full of monsters. We succeeded in our assignment."
+
+I narrowed my eyes, "Huh, you don't sound very happy about it."
+
+"I am not. I injured one of my teammates. They lived, but I was reminded of many things. One of the harshest of which is my body. I am a living blot of stone and metal. All that exists around me is temporary, yet I am eternal. That is a harrowing concept to realize, and I am grappling with the terms of my existence."
+
+A sinking feeling went through my stomach, a sense of responsibility brooding over me. Alpha turned towards the trench,
+
+"This, working with my kin, has lifted my spirits, however. It is not that I dislike completing missions with humans. It is simply that I don't wish to destroy them. I've found that task arduous, and for many reasons."
+
+Alpha shook his head, "They...they are broken so easily. It is a miracle that any of them are still living."
+
+Hearing the golem's concerns, I related quite a bit. Dealing with people was always hard, but in Alpha's case, he struggled for different reasons than most. It reminded me of using Event Horizon and avoiding my own troops. It made something easy into something severe, and I often wondered if I fought better alone. In some ways, I did, but In others, I didn't. I reached out a hand,
+
+"Just remember that while you're physically stronger, you're not necessarily as experienced, tactically sound, or as mentally powerful. A group of mind mages and tacticians would work wonders at releasing your full potential. I'm the same way. I'm great at tearing things down, but I struggle with a more targeted approach."
+
+A shiver ran up my spine while thinking about Lehesion,
+
+"And you never know when your limits will be tested one day. Learning to work with other people raises your abilities in general, pushing that limit-testing day back. Besides, you won't know ahead of time if you'll be ready. It's always nice knowing someone has your back if a situation falls through."
+
+Alpha peered up at me in wonder, "In that way, I wish I were like you, master."
+
+I raised my eyebrows, "What do you mean?"
+
+"You hold no limit. I am absolute in this, my faith strong like a sun's wind and a star's death. Simply act with confidence, and you shall never fail."
+
+As naive as Alpha was, I wanted to believe him. I put a hand on his shoulder,
+
+"Yeah, sure."
+
+He gave me a bow, following the other golems. I rolled my shoulders, finishing up our trip here. We trekked across the changing underwater horizon until we met with Spear and Amara. Our hacking eldritch already infiltrated their system, and she leisurely scrolled through a few files from their databases. Spear meditated, perhaps reflecting on his gratitude or Schema's code. It was hard to say.
+
+Walking over, I tapped his shoulders, "Hey, you ready to warp us out?"
+
+Spear snapped into action, standing straight up from his cross-legged position, "Yes. I am."
+
+A quick rip through realities later, and we walked through Mt. Verner once more, this time from the golems' training room. Getting a message back from Torix, I figured out he was in his bird emporium. We walked there, and as we did, I talked with Spear.
+
+"I spoke with Helios the other day about warping. He made it sound complicated, but you seem able to teleport anywhere after just having been there. How do you manage to do that? Does it work the same way as normal warping?"
+
+Spear kept looking forward, "Our spears are calibrated with integrated positioning systems. This ties us to Schema's positional network, and we can use those spots to warp places. The spear does most of the work, tethering the locations while we open a wormhole through time and space."
+
+"Ah, so it's that blade there and the cipher inside it then?"
+
+"Yes."
+
+I stared at the device, "Could I use one of those?"
+
+"You could, but you would be exiled from Schema's system immediately."
+
+"Well, that's a hard stop on swinging one of those."
+
+"That isn't the only law you would've already broken. When you made Amara a follower, the Overseer and Schema were displeased."
+
+I frowned, "You know, Schema uses several gargantuan, world eating eldritch to do his bidding. I'm using a small, smart eldritch to help with system issues since Schema won't help me. Even then, Amara's put herself at risk for my guild and Schema's benefit. There's a point where exceptions to rules should be made."
+
+"The rules for Schema are different than the rules for you."
+
+Walking through the glowing fungus hallway, I shrugged, "And that's why Schema's fighting this war. He sets the rules then doesn't follow them. That's not exactly the best way to incite loyalty."
+
+Spear crossed his arms, "We shall agree to disagree."
+
+I opened the door towards the bird's observatory, "Eh, I'm fine with that."
+
+We peered inside, and within the open area, two dozen individuals practiced fighting with the Omega Strains. Using different manifestations of the living crystal, they jousted with their own unique abilities. Some of the gemstones collected around a person's arms, so they used them like blades to gut enemies. Other strains collected over a battler's legs, making them agile and fast.
+
+Further still, some of these new crystals embodied different kinds of fighting styles. Some of them molded over their wearer into the shapes of animals, like snakes or wolves. The user attacked in these forms, working within the bounds of their new bodies. Other crystals created mana amplifying gauntlets and helmets, giving the wearer the ability to channel energy faster and better.
+
+One gemstone even hovered as a floating sword around its user, accentuating the wearer's hand to hand combat. It connected via a tiny thread of crystal, like the links of a chain. It got my blood pumping just looking at these iterations, and my mind raced with possibilities for how to win in hand to hand combat.
+
+Before I jumped down there with them, Torix stepped up to me, his arms interlocked behind him,
+
+"Ah, it's good to see alive and well. How was the mission?"
+
+I opened my pocket dimension, pulling out a dozen or so magenta-colored crystals and hovering them in a circle. Torix cackled,
+
+"Hah, perfect. Is there an estimate on the number of Omega Strains present?"
+
+"At least ten thousand. Maybe more."
+
+"Perfect. We'll be more than ready for strain divisions then, even after our guild's expansion into Blegara. This development suits our plans well."
+
+I raised an eyebrow, "You sound like you've come up with something new to add?"
+
+Torix raised both his hands, primordial mana pooling in one palm and ascendant mana emanating from the other. His eyes flared bright,
+
+"Oh, most certainly."

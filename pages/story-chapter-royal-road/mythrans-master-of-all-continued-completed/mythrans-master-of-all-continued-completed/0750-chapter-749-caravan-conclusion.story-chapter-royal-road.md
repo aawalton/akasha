@@ -1,0 +1,241 @@
+---
+id: bd09496e-6de9-53ac-8116-14c02385030b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 749 - Caravan Conclusion"
+slug: 0750-chapter-749-caravan-conclusion
+partOf: mythrans-master-of-all-continued-completed
+position: 750
+ownLength: 3187
+unit: words
+publishedAt: 2018-11-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/302980/chapter-749-caravan-conclusion"
+royalRoadId: "302980"
+---
+
+Unable to resist Ren's charms, both Yuwen and Dilseffa activated their Seduction Auras and Enticement skills as they asked him in sexy and pleading voices to tell them all about his adventures while they waited for the caravan to get to its destination. Since they had almost 5 hours before that happened, Ren couldn't refuse such a polite request, despite their heavy-handed application of their skills.
+
+“Where would you like me to start?” Ren asked.
+
+“From your very first adventure.” Yuwen said right away without having to think about it.
+
+“Oo! Oo!” Teepo hopped up and down on Ren's shoulder. “That's when he met me!”
+
+“Really?” Yuwen asked and leaned forward as she loosened her tunic. “Do tell.”
+
+Ren almost laughed at her nearly pointless effort, since she was already his concubine. He let her feel his amusement and started to tell them the tale.
+
+*
+
+“So, Jirqym.” Kenkoth said. “How many of his skills did you get?”
+
+“All of his base skills as an Artificer, some of his fighter skills, and some of his mage skills.” Jirqum said. “It will take a lot longer to get them all.”
+
+“I saw that he surprised you just as much as us with the Fire and Water from his hands trick.” Tatya said, and he felt her amusement.
+
+“It wasn't a trick.” Jirqym said. “He has the Hands of the Gods ability.”
+
+“You're wrong.” Kenkoth said. “Mortals can't have that ability.”
+
+“Is he mortal, though?” Jirqym asked, and both Kenkoth and Tatya fell silent. “The longer I'm around him, the more I learn about him.” He said. “He's not normal. At all.”
+
+“What do you mean?”
+
+“He's not invulnerable; but, he might as well be with Toughness 10.” Jirqyn said and they gasped.
+
+“Some of the toughest creatures we've encountered have only been a 6 and we could barely hurt them, even with magical weapons.” Kenkoth said. “How did he become a 10?”
+
+“He said that he is fully leveled up as an Adventurer.” Tatya said.
+
+“I always knew Adventurers would be difficult to deal with if we had to fight them.” Kenkoth said. “But, now...”
+
+“If it ever came down to it, he would put us all to sleep in a few seconds, just like he did with Meccis.” Tatya said. “He wouldn't have to fight us at all.”
+
+“What do we do about him?”
+
+“We keep doing exactly what we've been doing.” Tatya said. “We treat him normally and try our best to not make him angry.” She said. “If he ever decides we shouldn't exist...”
+
+“...we wouldn't even know we were dead before it happened.” Jirqym said.
+
+Tatya was quiet for a while and Jirqym managed to generate a piece of parchment and handed it over to her. She shook her head at the very large list and couldn't believe that one person could have so many skills. Beholo the healer sat beside her and read it over her shoulder.
+
+“How does he decide what to do first?” Tatya asked and scanned the list. “I can barely understand these descriptions!”
+
+Jirqym chuckled, which was rare for him. “If he spent as much time in his Sanctuary as I suspect he did, he knows exactly what he can do.” He explained. “I suspect a lot of his special skills won't show up on that list.”
+
+“What? Why?” Tatya asked.
+
+“I wouldn't have known he had the Hands of the Gods ability if he hadn't used it in front of me.” Jirqym said.
+
+“Is he hiding his skills?” Kenkoth asked. “Is that even possible?”
+
+“No, he doesn't realize that some of them are like that.” Jirqym said. “He was completely honest when he said he would let me read as much of him as I could.”
+
+“You got a lot in so short a time.” Beholo the healer said. “I've not seen you make this large of a list before, even from other Adventurers.”
+
+Jirqym smiled and held out another list and it was much smaller. “This was from an Adventurer fighter that visited the castle last week.”
+
+Beholo held the small piece of paper next to Ren's large one and compared them. “He really does have the Fighter's skills mixed into his own.”
+
+“He can also change them at will.” Jirqym reminded them. “It takes but a moment and he can become any other kind of Adventurer out there.”
+
+“Why would he cut himself off from those other skills?” Tatya asked.
+
+“He doesn't.” Jirqym said. “He has access to them all the time; but, it just makes using those skills easier if he's that type at the time.”
+
+“He can cast a top level spell on his own; but, if he's a top level Mage at the time, it's a little easier?” Tatya asked, and Jirqym nodded slightly. “That's amazing.”
+
+“What's amazing is that he agreed to let me learn all of the skills he has.” Jirqym said. “We won't need to meet any other Adventurer to learn what they can do, because after his trip to our lands we'll already know everything.”
+
+*
+
+Several hours passed as Ren told Yuwen and Dilseffa about his many adventures. By the time they reached the border of the Human Kingdom, both women had removed their tunics completely and were cuddled up on either side of him with death grips on his arms. All they wore were their thin bodysuits, which was like a second skin for them and left nothing to the imagination.
+
+Teepo warned him when they were about to cross the barrier between the lands, and Ren paused in his story about the Marilith Demon. When the caravan crossed the border, it was almost like crossing someone's Aura. Ren felt a bit of a tingle and then they were across and kept going. Ren was happy that he had unlocked a new area to explore, then continued his story about stopping the fight to eat the summoned pig demon, and Yuwen and Dilseffa couldn't contain their amusement any longer.
+
+“You... you stopped the Shargon Caverns boss fight... to... to... hahaha!” Yuwen laughed.
+
+“I can't believe you did that!” Dilseffa exclaimed and laughed, too. “Imagine that! Killing a summoned creature, then eating it in front of a Marilith Demon!”
+
+“Thankfully, it had the virtue of both surprising and amusing her.” Ren said and let his own amusement join theirs. “It smelled so good that I couldn't help myself.”
+
+“She could have torn you apart when you left yourself so wide open like that.” Yuwen said.
+
+“She could have done that at any time, not just then.” Ren said. “I realized it pretty quickly that she was trying to amuse herself by playing with her prey for a while before killing it.”
+
+“Why didn't she kill you?” Dilseffa asked.
+
+“I kept her entertained, of course.” Ren said. “I kept her interest and showed her different things, and her curiosity overpowered her need to smite me.”
+
+Yuwen laughed. “You played a very dangerous game, My King.”
+
+Ren shrugged. “It was more like... hey, you could kill me or you can look at this enticing thing!”
+
+Dilseffa laughed at that. “Yes! That works for nearly all predators!”
+
+“Well, only if they're predisposed to be distracted.” Ren said. “Remember the sabretooth rock golem?”
+
+“Oh, that was a scary story!” Dilseffa shivered as her fear rose and she hugged his arm tighter and pressed it between her breasts. “A giant rock cat leaping and clawing at you!”
+
+Ren poured calming feelings into her and she relaxed. “I didn't mean to traumatize you, I just wanted to show you that some can't be distracted from their task, no matter what you do.”
+
+Dilseffa took a deep breath and let it out. “Yes, My King.” She said. “I understand what you're saying.”
+
+“I hope so.” Ren said, and leaned his head towards her and rubbed his cheek against hers, since both of his arms were still held by both women. “I want you to be careful, okay?”
+
+“I will be, My King.” Dilseffa said, her face flushed slightly red at his caring and worry over her safety.
+
+Ren straightened his head and looked at Yuwen. “For a change of subject, you said before that if I took you to dinner, you would show me why you're mine.”
+
+Yuwen glanced at Artemis, who now sat across from them, then at Dilseffa, who let Ren's arm go. “I had hoped for a more private setting.”
+
+Ren chuckled. “Artemis is my familiar, and you and Dilseffa are my concubines, even if only in name.”
+
+Yuwen nodded slightly and let his arm go so she could sit up straight. “This is how I know I am yours.” She said and used both hands to grab the neck of her bodysuit and pulled down. Ren was surprised at how stretchy the fabric was as it easily moved out and down off of her shoulders without tearing, then she revealed her very nice chest. That wasn't what caught his attention, however.
+
+“Is that...”
+
+“I don't know what it is, but I gained it when I submitted to you.” Yuwen said.
+
+Ren reached out with his right hand to touch the emblem of a dire wolf head that was embossed above her heart. “I didn't realize...” When he touched her skin, the emblem pulsed and she gasped as it started to glow and the connection between them appeared. He felt a tingle as a glow started on his left hand.
+
+Notice!
+
+You have declared sovereignty over those weaker than you and created the Earth mark: Wolf Pack (Dire Wolf Head). All holders of this mark are members of your domain.
+
+Current Holders of this mark: 14
+
+Ren didn't know what to say to that. Fourteen of them? I wonder who...
+
+“I'd say your two concubines, Mires and the magic user, and maybe some of the cooks and attendants.” Teepo said in the voice that only Ren could hear. “No one else is talking about it; but, 4 of them were the ones we met that were kneeling and Artemis said Tatya and Kenkoth met others.” He said. “Since no one else really deferred to you when we were eating, I'm guessing it's the cooks since there are 10 of them.”
+
+Ren lifted his left hand and the spider emblem there now had a dire wolf head emblem on its back, just like the spider emblem on his right had the skull.
+
+“You see? We match.” Yuwen said and touched the mark on the back of his hand. “OH!” She gasped as his power poured out of him and into her. Her body rippled like water as she quickly transformed into a minx right in front of him. Her white hair grew out and flowed around her, down to the middle of her back, and her whole body was covered in a light white fur that matched it.
+
+The tips of her breasts popped out as if they had been played with a lot during foreplay and her face grew only a slight muzzle and her nose changed to the same color pink as her nipples. Her ears slid up slightly and became cute little half-circles that popped out of her flowing white hair and her hands became thicker as they changed into paws.
+
+“Wow.” Ren said.
+
+Yuwen took her hand away from his hand and covered her face with her paws. “No! Don't look at me!”
+
+“Why not?” Ren asked. “You look so cute!”
+
+“Wh-what?” Yuwen looked at him through her paws.
+
+“I've never seen anything like this.” Ren said and touched her paw to move it a little, then stroked the side of her face. “Your fur is much silkier than Tatya's.”
+
+Yuwen and Dilseffa caught their breath and he felt their surprise.
+
+“Did that give you Respect?” Ren asked, and she nodded. “Good.” He said and looked at her in the eye. “Can I touch your ear, and maybe run my fingers through your hair?”
+
+Yuwen was surprised by that for only a moment, because she could feel that he wanted to do it and wasn't trying to make her feel better about losing control like she had. She nodded slightly and Ren used both hands to rub her ears. She closed her eyes and started to purr like a cat. Ren was surprised by this and how loud the sound was, then he felt how happy she was that he was being so gentle that it made him happy and he moved on to run his hands through her flowing white hair.
+
+Yuwen's backside felt slightly uncomfortable and she shifted her weight briefly so she could take the weight off of her short fluffy tail. It popped out into view and it caught Ren's attention immediately. She almost finished from the intensity he felt, and she dropped her hands from covering her face. He was still playing with her hair; but, he was pointedly trying not to stare at the slowly flicking tail. She knew she had his interest, so she used a paw to catch his hand and slid it down from her hair.
+
+Ren didn't try to fight the movement as Yuwen moved his hand down from her hair and rested it on her still clothed hip. “Yuwen...”
+
+“Yes, it's okay.” Yuwen said as her purring lessened and she let his hand go. “You can touch it.”
+
+“But...”
+
+“I'm yours, Ren.” Yuwen said and she used her paws to cup her fur-covered breasts and squeezed them to present the pink tips to him. “You can look. You can touch. You can play.” She said and rubbed her breasts as she flicked her nipples with the tips of her claws. “T-touch m-me, p-please.”
+
+Ren couldn't deny her sincere request, and his hand moved from her hip to her backside and grazed the start of her tail. Yuwen's pur came back in full force and he liked that sound. His hand slid down her tail and he stroked it, and she wiggled her hips at the feelings of pleasure it gave her and that he felt for giving them to her.
+
+“Can you turn over for me?” Ren asked and let her tail go.
+
+Yuwen slipped around almost instantly and was on her hands and knees on the seat, which put her ass and her 2 foot long tail right in his face. He saw that she was completely soaked and the skintight bodysuit had ridden up on her and showed everything.
+
+“Good god.” Ren said at the sight, and her pleasure rose. He reached out and grabbed her tail, then pulled on it a little.
+
+“OH!” Yuwen gasped and finished a little.
+
+Ren saw it start to drip, so he leaned forward and caught it on his tongue without touching the cloth. He had surprised himself at the act, then realized she was projecting her deep seeded need onto him. He could feel that she really wanted someone to please her after months of teasing her ex-lover and he would never have sex with her again.
+
+“May I?” Ren asked.
+
+“Oh, please! Please!” Yuwen begged, and Ren grabbed the little hole her tail had popped through and pulled. It stretched out just like it had at her neck when she pulled it down, so he pulled it out and down off of her hips. Her bright pink special place greeted him with a twitch and a little squirt.
+
+“Thank you.” Ren said and kissed it as he gripped her tail and held it up and out of the way, which was exactly how Yuwen liked it. Dilseffa had moved off of the seat while Ren and Yuwen had interacted and sat next to Artemis, so both she and Artemis had ringside seats as Ren very thoroughly made sure Yuwen was pleased.
+
+“Is... is this really happening?” Dilseffa asked in a whisper. “Yuwen's changed and he's... he's...”
+
+“Quite enjoying himself.” Artemis said, and Dilseffa turned her head to look at her. “Stop blocking so much and let yourself feel it.”
+
+Dilseffa shook her head and took several shallow breaths to stay calm.
+
+“It is possible to enjoy it without losing yourself to the feelings.” Artemis said. “Or you can join them.”
+
+“N-no, I... Rimsoh...”
+
+“Ren is right. You need to be careful of him.” Artemis said. “Ren will protect you when you need it.”
+
+“I... don't really need...” Dilseffa stopped talking because she didn't want to lie so blatantly.
+
+Artemis put an arm over her shoulders. “Until then, let's just sit here and see how long Yuwen can last.”
+
+“Wh-what?” Dilseffa asked.
+
+“Ren absolutely loves doing that.” Artemis said and motioned with her other hand at Ren. Yuwen had her face pressed into the seat and had her teeth dug into it to stop herself from screaming in pleasure. Her intense purring gave her away, though.
+
+“If we didn't make him stop to give us a break once in a while...”
+
+Dilseffa felt a shiver go down her spine at the thought of never having to stop, then her immense sexual desire peeked out through the unintentional gap that had left in her defenses. Everything seemed to stop as Artemis, Ren and Yuwen felt it, and they all turned their heads to look at her.
+
+“Wh-what? What is it?” Dilseffa asked, then she felt a very strong feeling of Camaraderie and understanding. She blinked her eyes at those feelings, then Ren was there in front of her. “What... what are you doing?”
+
+“Giving you a hug.” Ren said and leaned in to give her a hug. “I'm the same way.” He said. “I have to keep it restrained or I'll make a mess out of everything.”
+
+Dilseffa's eyes had teared up and she wasn't sure why.
+
+“If you need to talk about it, you can always come to me.” Ren said into her ear, gave her one last squeeze, and let her go. She saw his kind eyes and felt his welcoming feelings. “I hope you can enjoy the show for what it is.” He said and walked back over to Yuwen, who had stayed on her knees with her head resting on the seat.
+
+“What's that?” Dilseffa asked.
+
+“Mutual pleasure.” Ren said and looked at Yuwen's eyes. “Would you mind if...”
+
+“Please continue.” Yuwen said and her purring started up again.
+
+“I'm starting to really like that sound.” Ren said and smiled, then grabbed her tail and pulled it up. It made her catch her breath, like he had intended, then he kissed her special place and kept pleasing her.
+
+Dilseffa was completely surprised that Ren kept pleasing Yuwen for just over an hour as they passed over the Gnome lands. Teepo warned Ren that the next land border was coming up and he had to stop. Ren made Yuwen go one last time and cleaned her up, then slid her bodysuit back into place. She didn't move or react in the least, and stayed where she was as she kept panting heavily with her tongue stuck out. Their time was at an end and the carriage dropped fairly quickly to land just inside the border of Pervaria.

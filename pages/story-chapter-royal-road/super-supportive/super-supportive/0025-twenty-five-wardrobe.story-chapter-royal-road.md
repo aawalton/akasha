@@ -1,0 +1,417 @@
+---
+id: 045f0c31-8576-59c3-9383-83e551c29ffe
+page-type-slug: story-chapter-royal-road
+title: "TWENTY-FIVE: Wardrobe"
+slug: 0025-twenty-five-wardrobe
+partOf: super-supportive
+position: 25
+ownLength: 4262
+unit: words
+publishedAt: 2023-03-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1139356/twenty-five-wardrobe"
+royalRoadId: "1139356"
+---
+
+Wardrobe
+
+The boy stood in front of a white door.
+
+He didn’t know how long he’d been standing there, or where he had come from, or what he was supposed to do next. His fingers rested on the cool metal knob without gripping it. He watched them for a while, then gradually he looked up.
+
+A sign had been affixed to the door with clear tape. It said QUARANTINE in black marker.
+
+The handwriting looked familiar.
+
+He blinked slowly, and it changed.
+
+DON’T BE AFRAID, it said. WE ARE HERE TO HELP YOU.
+
+As though the phrase had triggered something, he had his first clear thought.
+
+My name’s Alden. What’s going on?
+
+He looked from left to right. There was nothing but endless, empty hallway on either side of him. And at his back…he was scared to turn around. Something bad would happen to him if he did.
+
+He tightened his grip on the knob and twisted. The door swung open easily, and he stepped through into a room that glowed with a deep gold light. It was several degrees warmer than was comfortable. A bed made of artfully curved wooden branches embraced a thick foam mattress, and a line of screens glowed on the wall above it.
+
+Every screen was flashing with the same message that had been written on the door.
+
+That’s not right, Alden thought.
+
+He recognized this room. It was in the House of Healing in Chicago. The screens were supposed to be showing numbers and graphs and detailed anatomical models.
+
+VERY GOOD, said the screens. PLEASE HAVE A SEAT AND WAIT.
+
+There was nowhere to sit but on the bed. Alden walked over to it. There was a stool in place below it as if a much shorter person was expected to need it. He hopped up and sat, twiddling his thumbs while he watched the white door.
+
+Just as he started to feel the first stirrings of impatience, the door opened, and something that Alden decided was most likely a robot stepped through.
+
+It was a solid white humanoid figure, about the same size as him. It looked like it was made of plastic, and it had no recognizable physical features. Even its hands were fingerless oval shapes.
+
+“Hello, Alden,” it said, holding one of the ovals out toward him.
+
+Alden shook it automatically.
+
+“Good,” it said. “That was the desired response. Allow me to apologize to you for the inconvenience of this meeting. On rare occasions, my final integration with a being proves abnormally difficult. At such times, special protocols must be followed to prevent the creation of an abomination.”
+
+“You’re the System?”
+
+He remembered now. He’d just affixed his class.
+
+“Good,” it said again. “The timing of your realization is within parameters. And your mind is intact. Affixation will be possible, though adjustments may be necessary in the future.”
+
+“What’s an abomination?”
+
+“You are not one. You merely contain a previously un-encountered presence.”
+
+Gorgon, thought Alden. It’s whatever he did to me.
+
+“Yes. Prisoner #12005794 has slightly modified you.”
+
+“I didn’t say that out loud.”
+
+“We are currently in a room made of your own memories while I monitor your mental processes. Your thoughts are the entire source and purpose of this conversation.”
+
+“It’s just a little magically enforced veganism. Nothing for you to worry about.”
+
+“Good. A sense of humor is a sign of healthy mind. But I do not worry. And if I did worry, I would not worry about this. The presence is exerting a stabilizing effect on your existence, which is also one of my functions. It is merely new to me, and therefore difficult to interact with.”
+
+So the System was good with Alden’s new mental weirdness. That was nice. But what if the Artonans weren’t?
+
+“Anomalies are only reported if they exceed certain thresholds. Violation of spiritual or mental privacy incurs a debt.”
+
+What the hell does that mean?
+
+The white robot tipped its head at an angle that somehow looked annoyed despite the lack of visual information on its blank face. “It’s too expensive to violate the finer details of the Contract for the sake of small-fry.”
+
+“Insulting me while you play with my brain will probably give me some kind of complex you know.”
+
+“Good,” it said. There was a long pause.
+
+Alden raised an eyebrow at it.
+
+“Fear for your own wellbeing is an appropriate response.”
+
+#
+
+“He’s awake! Boe, he’s awake!”
+
+Alden blinked up at a fluorescent light overhead. He felt a little dizzy. And he was confused about why he was tucked into the sleeping bag on the floor when he clearly remembered sitting on the trading table while he finalized the affixation.
+
+Before he could sit up, Jeremy hit the ground beside him and grabbed him by the shoulders. “You’re not brain dead, are you? How many fingers am I holding up!?”
+
+He waved his hands in Alden’s face.
+
+“All ten of them I guess?”
+
+“He can count, Boe!”
+
+“I see that. Good morning, Sleeping Beauty.”
+
+Alden managed to fend off Jeremy for long enough to right himself. Boe was sitting at the table with a thermos beside him. It was full of coffee, if the smell in the room was anything to go by.
+
+“Guess what percentage of B-ranks swoon like distressed damsels?” Boe said.
+
+“Not a lot?” Alden rubbed his eyes. Fainting during affixation was a rare occurrence.
+
+“Yeah. And guess how many new Avowed stay unconscious for sixteen hours?”
+
+Alden stared at him. Then he looked around the room. There was a half-eaten pizza on the table. And one of the mats from the wordchain classroom was beside his sleeping bag.
+
+“Jeremy tried to wordchain you back to life like he was a healer. My Artonan sucks, but I’m pretty sure he traded his liver away accidentally. So that’s on you now.”
+
+Boe had dark bags under his eyes.
+
+“Sorry, man. Sorry both of you. Jeremy, seriously? I can stand up on my own.”
+
+“You’ll have to apologize to Gorgon, too,” Boe said. “When you didn’t wake up after a few minutes, we went to get him. He wasn’t even remotely interested at first. But after three hours, he started to chew on his claws.”
+
+I bet he did. He must have suspected the System would notice. Alden climbed to his feet and bounced up and down on them experimentally.
+
+He felt normal, but…high-end normal. Healthy, well-rested, thoroughly grounded. Slightly too interested in the trading table.
+
+Huh. That was weird. That Rabbit point boost in Sympathy for Magic must be doing that. Alden didn’t think coming out of your affixation with a newfound love for alien furniture was standard.
+
+“What time is it, then?” he asked.
+
+“Around two in the morning,” said Boe.
+
+Alden winced. “Wow. You guys could have gone home and left me with Gorgon.”
+
+“No way!” said Jeremy. “I wanted to be here when you woke up!”
+
+“I went home and showered.”
+
+“But if it’s two, the consulate’s empty, right?”
+
+“It’s just the three of us and Gorgon,” Jeremy said, excitement coloring his voice. “Are you gonna play with your new skill?”
+
+“I just got a super power,” Alden said, grinning. “Of course I am.”
+
+Jeremy leaped up. “Boe made a list of things for us to try.”
+
+“Grab the box in the corner, Alden,” said Boe. “It’s got some supplies.”
+
+Alden bent to pick it up, examining the contents curiously. “Why do we need so many golf balls? And what’s the spray paint for?”
+
+“Test One,” said Boe. “Jeremy, your time has come.”
+
+Without a second’s hesitation, Jeremy karate chopped the box with all his might.
+
+With a startled yelp, Alden leaped back as it tumbled from his hands. Golf balls went everywhere. “What was that for!?”
+
+“I told you to grab the box,” Boe said, making a note in a binder he’d brought. “I wanted to see if you accepting the request automatically made me your target and started the preservation.”
+
+“But you could have told me that!”
+
+“It was funnier this way. After you pick up all the stuff you just dropped, we’ll do Test Two.”
+
+#
+
+Standing in the lobby under the glittering LED’s, with Gorgon watching quietly from the desk, Alden finally got to use his first superpower.
+
+As far acts of magic went, it wasn’t that special. “Target Boe,” he said. Immediately, the his System interface showed a ring of white light over Boe’s head.
+
+“It gave you a halo,” Alden reported.
+
+“I guess that’s better than crosshairs. You’re not trying to shoot me after all. Here’s a package for you, Rabbit.”
+
+Boe set the box of junk down, and Alden bent to pick it up.
+
+It’s heavier, he thought at first. But that wasn’t right. It was just his mind trying to wrap itself around what appeared to be a brand new sense. It was like the cardboard box in his arms suddenly had its own gravitational pull, but that pull only affected…
+
+My what? Focus? Willpower?
+
+The strange pull lessened and then stopped. For a second, Alden thought he’d adapted to it, but then he remembered. “Right. Cessation of carriage ends preservation. So if I take a step…”
+
+He took his first, and then immediately stopped again, startled by how different it was. “Oh, the Azure trait’s going to take some getting used to.”
+
+“I can’t imagine it wouldn’t. Its effect is supposed to increase as your speed does, so I recommend you wear a helmet before you try running around in an enclosed space…what’s it feel like?”
+
+“My foot pushing off the ground felt normal, but…” He walked a few more steps, testing it out. “I’m getting more oomph out of each step than I should. I almost have to tiptoe to maintain my usual walking speed.”
+
+“Sounds uncomfortable.”
+
+It was a little, but Alden was not in the mood for negativity. “Yeah, but if I walk like I normally would…”
+
+He gave it a try and managed a series of strides more like short leaps than steps with only the same amount of push off. This is cool.
+
+It was easy to control. It was just confusing because he wasn’t used to it.
+
+“To my absolute shock, you don’t look totally ridiculous doing that,” Boe admitted grudgingly. “Only like fifteen percent cartoon-character.”
+
+“His posture’s good,” Jeremy said. “Can I hit him yet?”
+
+He’d been shadow boxing for a while. For some reason, he really wanted to punch a magic shield.
+
+“Hang on. Alden, how’s your skill working? The luggage skill I mean, not whatever it is you're doing with your feet.”
+
+Alden refocused on the box. That odd new sense was still there.
+
+A willpower drain still seemed to be the closest thing he could come up with for a good description. But it was small. He probably wouldn’t even have noticed it if it wasn’t so new.
+
+He was pretty sure his arms would give out before the drain forced him to stop carrying the box, but it was still useful to know there was some limit beyond the physical.
+
+“I think it’s good. There’s a kind of…metaphysical weight to the skill I wasn’t expecting. I’ve heard people talk about skill fatigue, but they always make it sound more sudden. Like you hit a hard wall and just stop. I guess it’s something you can feel coming on with this one?”
+
+“Interesting.” Boe grabbed the binder from the arm of the sofa beside him and made a note. “Try dumping everything out. While you keep walking, obviously.”
+
+Still strolling through the lobby at a leisurely pace, Alden adjusted his grip on the cardboard, and flipped the box over. Before he’d even finished, he knew nothing would fall out. The weight didn’t shift in his hands the way he would normally have expected.
+
+Now he was walking around with a box full of gravity-defying junk. Just for emphasis, he gave it a shake.
+
+“That’s great,” he said, relieved. “I was afraid it might take ‘item’ so literally that it would only count the box itself, and not the contents.”
+
+“Yeah, it’s way more useful if it doesn’t get snobby about containers. What happens if I say, ‘I no longer entrust you with the box?’”
+
+Nothing happened.
+
+“You’re untrustworthy,” said Boe. “Let go of my parcel. Request cancelled. I want my stuff back. Cease carriage.”
+
+“Drop it right now!” Jeremy was getting in on the action.
+
+“Still nothing,” Alden said, leap-walking around with a grin on his face and shaking the upside-down box.
+
+“That’s surprising. You’d think the entrustment could be revoked by the person who gave it to you, right?”
+
+“Maybe once it’s in my hands I’m the only person who can affect it? Part of the preservation might be preventing any outside influence.”
+
+“Can you make the stuff fall out then? Just by wanting it to or something? Or do you have to stop and put it down to cancel the effect?”
+
+Alden gave the box a more serious shake, imagining that he was actively trying to dislodge the contents, and was instantly punished for it. His push-off from his last step didn’t send him as far as he’d expected, so he stumbled. At the same time, golf balls, duct tape, spray paint, a lighter, an apple, and an air horn clattered around his feet.
+
+“Shit!”
+
+He fell, but caught himself easily with his hands. He somehow avoided placing them on any of the dropped objects or rolling balls, and he sprang back up in an instant. It was embarrassing that he’d fallen when good balance was supposed to be his new thing, but he couldn’t help thinking it was a very tidy fall.
+
+“Alden.” Jeremy sounded devastated. “You can’t just fall over, dude. Who does that? The other superheroes will laugh at you. You’ll be photographed and turned int a meme.”
+
+Boe snickered.
+
+Even Gorgon was hissing quietly at his computer monitors.
+
+“I wouldn’t have fallen if I wasn’t leaping! I didn’t expect the trait to insta-cancel like that.”
+
+“In all fairness, your recovery looked decent,” Boe said. “Those points in Agility and Speed are doing you some favors.”
+
+“Do we have to chase all the balls around right now?” Alden asked. They’d scattered all over the lobby. “Can’t we test something that doesn’t roll.”
+
+“Yeah, now that we know containers work. Just stick whatever’s handy in the box.”
+
+Alden grabbed the lighter and dropped it in.
+
+“Am I still targeted?”
+
+“Yep.”
+
+“All right. We know I don’t have to physically hand you the thing, which is amazing. Let’s see if I can entrust something to you that you’re already holding. Alden, please carry my box.”
+
+Alden started walking. “No,” he said, surprised. “It’s not working. I can tell. Why though? It’s your box. Is it not an ownership thing?”
+
+“Let’s see. Alden, I’m entrusting you with that potted fig,” he pointed at a tall tree in the corner.
+
+“Really, man? That thing’s giant. I’m not sure I can even lift it. Never mind walk around with it.”
+
+“Don’t you want try out your new super strength?”
+
+“Shut up. I bet the spread-down from Agility isn’t giving me anything worth mentioning.”
+
+“I get to arm wrestle you later,” Jeremy said, pulling up a sleeve to show off a bicep. His parents had a weight room that he used sporadically.
+
+“Fine,” said Boe. “Pick up that chair, then. I entrust you with it.”
+
+Alden picked up the faux-leather chair Boe was pointing to and immediately felt the skill kick in. “It worked. So you don’t have to own the thing you entrust me with. But you can’t entrust me with something I’m carrying.”
+
+He considered it as he set the chair down. “Is it a control thing? If someone else has direct possession of it, another person can’t entrust it?”
+
+“Seems reasonable. Go steal Jeremy’s wallet.”
+
+Alden walked over and took the wallet from Jeremy’s back pocket.
+
+“Didn’t work,” he reported, passing it back to Jeremy. “Can we test the shield theory now?”
+
+“It’s punching time!” Jeremy said.
+
+Alden shook his head. “Now we know what your hero motto would be.”
+
+Boe entrusted him with the box again. First, while pacing beside Alden, Jeremy tried reaching inside the box to take the lighter out.
+
+He couldn’t. “It’s weird,” he said, tugging lightly on the lighter. “It’s made of plastic, but it doesn’t feel like plastic.” He felt around the bottom of the box. “The cardboard doesn’t feel like cardboard either.”
+
+Boe walked over and felt the box, too.
+
+“Neat,” he said, flicking a nail lightly against the side of the box. “There’s no sound when you thump it.”
+
+“What’s it feel like if not cardboard?” To Alden it felt like a regular box.
+
+“Like electricity and water had a baby,” Jeremy said.
+
+“Yeah about like that,” Boe agreed.
+
+“So it’s a shield right?” Jeremy said excitedly. “I can punch the box?”
+
+“Why are you so eager to break your hand? You could just hit the box with a bat or something.”
+
+“A friendly reminder that I am standing on the other side of the box,” Alden said, still walking slowly to maintain the preservation. “No bats.”
+
+“I’ll punch it easy the first time,” Jeremy said decisively.
+
+“Wait a sec, Jeremy,” said Alden as his friend took a step back. “Don’t just punch m—”
+
+A second later, Alden staggered sideways. It wasn’t from the force of Jeremy’s blow, though it hadn’t been an easy punch judging by the way he was huddled over clutching his hand and swearing. Instead, Alden felt like someone had just taken a bite out of his ability to bear the package’s other weight.
+
+He suddenly really wanted to set it down. He gritted his teeth and took another step to keep the preservation going, and the feeling gradually returned to its normal, low-level drain.
+
+The box was unharmed.
+
+“What was that stumble?” Boe asked. “Did the momentum transfer somehow?”
+
+“No. It was more like he sucker-punched me in the skill’s generator…or my self-discipline or something. I really wanted to drop the box.”
+
+“It’s a drain on your ability to perform magic?” Boe suggested.
+
+“Ugh…I guess. That’s tough to make sense of, too. I’ve only been able to ‘perform magic’ for an hour, and it really just feels like walking around.”
+
+“My hand,” Jeremy moaned.
+
+“Is it still attached?” Boe asked dispassionately. “The box didn’t bite it off or anything?”
+
+“So I have…minimal shielding,” Alden decided. “I wouldn’t like to try taking a bullet with my junk box here if Jeremy’s punch almost made me lose control.”
+
+After that, they tried several other experiments.
+
+They discovered Alden’s targeting range was large. Even when Boe went across the street and out of sight, Alden could still target him just by saying his name. He saw a dot of light in Boe’s direction to represent the halo.
+
+And if he was in sight, Alden could target by pointing at him with either index finger. It was simple, and it would get even easier when he taught himself to give the command mentally.
+
+When Boe lit the lighter and passed it to Alden the flame froze. And when he held a freshly cut slice of apple for several minutes it wouldn’t brown. Holding the lit flame by itself was slightly harder than holding the entire box had been, but it really wasn’t a massive difference.
+
+They learned that anything counted as an item as long as it was physically touching the other components of the item. A bunch of random things stacked on top of each other could be one item. No part of an item could touch the floor, however, or it wouldn’t be preserved. Alden had to carry it. But he could carry it in his arms or on his back or even in his mouth.
+
+Finally, worn out and with some unexpected muscle aches from trying to master his new movement trait, Alden decided to reward himself with something from the Wardrobe.
+
+Though, he wasn’t sure it was so much for him as for Jeremy and Boe, who desperately wanted him to buy the stupider looking outfits so that they could tease him.
+
+“All right, fine,” he said, flopping into a chair and pulling up the Wardrobe for the first time. On the sofa across from him, Jeremy and Boe had pulled a copy of it up on the laptop.
+
+The items in the Wardrobe were more like work uniforms than actual armor. They did all boost Sympathy for Magic by at least a full point. And many of them had an additional half point of another stat. A few of the higher end numbers—the ones that would take twenty percent of Alden’s newfound wealth in a single swoop—had some kind of uber-specific special effect with them.
+
+For example, there was an ensemble for bartending that would prevent the wearer from getting drunk. According to Boe, it was polite on Artona for the bartender to share the first drink with each patron, so they needed that to keep themselves from falling over.
+
+Most of the outfits looked a little peculiar. Bartenders wore lots of glitter. Butlers dressed in long jackets with an unfortunate bustle-like poof of fabric over the butt. Alden thought an outfit called “Garments for Housekeeper” was the best looking, since it was just a lightweight black tunic over black pants. The half point of Stamina it gave was welcome.
+
+“What about this—”
+
+“No!” Boe and Jeremy said at the same time. They were both chuckling like idiots over the outfit they were trying to convince him he had to buy. Because of reasons.
+
+It looked like someone had gotten confused and tried to make a hazmat suit sexy. It was a lavender jumpsuit covered in awkwardly placed leather straps. It had a clear window for the wearer’s navel. And a bejewled gas mask.
+
+“I’m not wearing that. What is it even for?”
+
+“It says it’s for a tattooist’s assistant.”
+
+Alden made a mental note to stick to human tattoo artists if he ever had a need.
+
+The real benefit of the Wardrobe, for most Rabbits, was the passive effect every single item had. Wearing any of the clothes from it would reduce the magical expenditure required to summon you, thereby making you more likely to be summoned ahead of others. As for the specific outfits…some jobs had special requirements. Someone who was summoning in a servant for a last minute event wanted them to arrive dressed for the occasion.
+
+The ideal usage was to buy an outfit for a job you particularly wanted and then wear it. Every. Day.
+
+Despite Boe and Jeremy booing him, Alden chose two sets of clothes that he could stomach wearing regularly. The black housekeeper’s garments and a pair of cargo pants and boots in matching shades of forest green that would boost his strength by half a point. They said they were for “expeditioners.”
+
+Finally, he was left with his finger hovering over a possible third purchase. It was one of the million dollar pieces. It felt like it would be insane to buy it…especially since it was weird enough that he wouldn’t want to wear it and try to make friends at the same time. But it offered a full point in Dexterity and Agility. And an effect that was actually useful—Blast Resistance.
+
+If he was wearing it, he’d have a little extra protection from heat and sudden explosive force.
+
+It was called “Hot Lab Coat,” and according to the computer, ‘hot labs’ on the Triplanets were used for making magical bombs. Not where Alden wanted to be running errands, that was for sure. But still, a don’t-get-exploded effect was hard to complain about. And two stat boosts outside the standard…
+
+“Why is it so red?” he demanded. “Who thought that was a good idea?”
+
+It was a long, shiny leather trench coat with a hood. Which could have been manageable, maybe, if it wasn’t the color of a STOP sign. It also came with goggles. Alden couldn’t tell from the description if he had to wear those too to get the benefits or if they were optional.
+
+Finally, he just bought the thing.
+
+What was the point of being a millionaire at fifteen if you couldn’t do something a little out-there with it? And Boe and Jeremy would be happy to have something to tease him about.
+
+He had the new lab coat teleported to him immediately, which cost him extra. The Wardrobe was not a personal subspace, just a Rabbit-exclusive marketplace. But Alden could pay for the gear he bought there to be stored in and teleported from one of the System’s warehouses.
+
+It was extravagant. Most people just stuffed their most frequently used gear in a backpack and carried it around.
+
+“You have to put it on!” Jeremy said, staring at the glaringly bright leather coat. “I want a photo.”
+
+“So this is what you’ve chosen,” Boe said, poking at the goggles. “Really not the superhero persona I saw you going for, but okay.”
+
+“I’m not sure what persona this even is,” Alden said, slipping the coat on over his shirt. It fit flawlessly at least. “I just wanted something with some kind of actual defense. And I wanted to play with the extra Agility”
+
+He started buttoning it. “Oh, wild, I can feel the Dexterity. My fingers feel limber.”
+
+He reached for the goggles.
+
+His interface flashed.
+
+[Summons to Artona III incoming]
+
+[You do not have an available refusal.]
+
+[Please make any necessary preparations.]
+
+Time Until Summons: 48s

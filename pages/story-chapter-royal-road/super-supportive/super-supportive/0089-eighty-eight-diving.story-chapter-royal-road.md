@@ -1,0 +1,429 @@
+---
+id: b1a66020-1f40-526d-b339-297036a44383
+page-type-slug: story-chapter-royal-road
+title: "EIGHTY-EIGHT: Diving"
+slug: 0089-eighty-eight-diving
+partOf: super-supportive
+position: 89
+ownLength: 5795
+unit: words
+publishedAt: 2023-11-01
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1392714/eighty-eight-diving"
+royalRoadId: "1392714"
+---
+
+88
+
+Alden stood on the packed train, staring at the name of the approaching station as it scrolled over the door across from him.
+
+O Cruzamento.
+
+He watched the words. He'd research Manon a little more in Engaging with the Unexpected. People had been talking about what "goodness" was--a fairly common discussion point, he assumed, given the number of groans it had elicited. And typing her name into a search bar had suddenly seemed like a chore that had to be completed.
+
+He'd learned that the boater's leader had an office within walking distance of this station. He didn't know what to do with the information now that he had it other than agonize over it.
+
+Fortunately, another text from Boe came in to take his mind off things. [Pick up snacks for us.]
+
+[Snacks?]
+
+[Unhealthy ones.]
+
+******
+
+Half an hour later, Alden walked through the door of his apartment and spotted his friend sitting on the sofa. Victor was beside him, and Boe was typing on Alden’s laptop.
+
+“Hey,” Alden said, dropping his messenger bag on the kitchen counter and lifting up the net shopping bag full of snacks he’d bought on his way over from the station. He was preserving it just for the practice. “Why do we need unhealthy snacks?”
+
+“Because we’re watching a movie,” Boe announced. He picked up the remote and pointed it at the television.
+
+Familiar music filled the room, and an equally familiar image of a sand dune appeared on the screen.
+
+“The End of the Lonely Earth documentary?” Alden toed off his shoes and dumped the chips and candy on the coffee table. “I don’t mind, but didn’t we have it memorized by seventh grade?”
+
+“Us and everyone else,” said Boe. “But see, I think it’s going to be way funnier now that my friend is a wizard. And we can pause it every time that hammy narrator says something about the Artonans or Avowed and discuss it with our fresh perspectives. Mostly your fresh perspective. Since you’ve actually been hanging with both Artonans and Avowed, and I have not.”
+
+“My job is to argue with the narrator. Got it.”
+
+“I’ll argue with him, too, of course. You can’t leave me out of a good roasting.”
+
+Alden sat with his legs crossed on the floor and watched the familiar montage of images from the late 1950’s and early 1960’s that started the film. “Telstar” started to play while a woman in high heels and an apron pulled a crown roast out of the oven. A poster for the Four Pests Campaign turned into an image from the Vostok 1 launch turned into a scene of military personnel guarding students as they tried to integrate a school.
+
+Photos of a Japanese city flooded by a typhoon faded into newspaper headlines about the Cuban Missile Crisis.
+
+“It was a rough time,” said Boe.
+
+“Would we have nuked the planet by now?”
+
+“Definitely.”
+
+“I think so, too.”
+
+“This was our lonely Earth,” the narrator said in a deep voice that would have fit right into some of the radio snippets that would play later in the documentary. “The late 1950s and early 1960s was a time full of humanity’s highest highs and our lowest lows.”
+
+“They didn’t have to synch ‘lowest lows’ with that clip of Elvis dancing. He looks like he’s enjoying himself,” Alden said.
+
+“That was uncalled for.”
+
+“If we didn’t blow ourselves up, we’d have gotten over a lot of the rest of it without an alien intervention by now, right?”
+
+“I think we could have eradicated malaria on our own,” said Boe. “Given a few more years. It was great they did it for us, but we could probably have handled that one?”
+
+“A lot of the things they fought about must have seemed serious one day and then insane the next. You’ve got people all over the world saying some version of, ‘You have a different god than me, so you should die. You like a different kind of political system than me, so die. You look different from me, so you can’t sit in my restaurant.’”
+
+Boe reached for a box of chocolate raisins. “Uh…Alden...it's still like that in a lot of ways. We're literally on an island that was made because normal humans want to limit our access to the rest of the species.”
+
+Alden blinked. “Right. That's...an unfortunate counterexample I somehow never considered any of the other times I watched this. My original thought was that it's not as bad for most people? It feels like there were so many more groups of humans sitting around feeling superior to other humans for no reason at all back then. And they were using it to justify all kinds of terrible shit. And then—”
+
+“Then one day,” the narrator said dramatically as the wind howled across the Sahara, and a re-enactment began, “we learned we were not alone after all.”
+
+A large group of wizards and Avowed, one from almost every resource world, appeared in a cloud of smoke.
+
+“Pretty understated of them to land in the desert,” said Boe. “I’d have materialized on top of the White House or in Red Square. Or both. Maximum impact."
+
+“I highly doubt there was a cloud of smoke when they showed up. I bet it was either nothing at all or something so much creepier.” Alden was remembering how the teleportation room on Alis-art’h’s ship had smelled like blood. “Anyway, if your whole personality was built on being right about everything and fundamentally better than anyone different from you, how do you feel when boom—space wizards and a ton of superpowered representatives from their empire invite themselves over to ask if you’d like to join up?”Then one of the first things they do is that.
+
+They both watched the screen. The footage now looked different from that filmed by human cameras at the time. It had been captured by the Artonans themselves using both magic and their own technology.
+
+“Tan-wyk and the others casually wandering away from that meeting with U.S. and Soviet leadership and then showing up in Bali a few hours later would have been a decent power move on its own,” Boe noted. “But why not record yourself stopping a volcanic eruption while you’re there?”
+
+There were museums all over the world where you could experience various moments from that day, instead of just seeing it on a screen. The magic rooms made you feel like you were standing there, watching the pyroclastic flow that was going to kill you suddenly encounter an impenetrable wall of magic, the ash and rock piling skywards rapidly.
+
+“Here’s my favorite line.” Boe turned up the volume.
+
+A couple of days later, Tan-wyk with her familiar crown of purple hair stood blinking into a camera—a human one this time—and said in response to a question about what the next stage of the operation would be, <<We will clean up so that it doesn’t look so unattractive. And we will fix the fields that were destroyed. They grow rice here. I like rice.>>
+
+Boe was laughing so hard Alden couldn’t hear the narrator’s next few words. “The best part is that she’s not just saying that! All the other members of the delegation go back to talking to world leaders and doing good deeds all over the rest of the planet, and she just stays right there for the next year, magically fixing things for the local villages and observing the rice-growing process.”
+
+“She likes rice,” said Alden. “She beat a volcano, so she gets to take a break and enjoy as much Earth grain as she wants.”
+
+The volume was still high, so the narrator’s next words filled the room, “Every human who witnessed such an amazing feat wanted to know, ‘What is magic? And can we do it, too?’”
+
+“Here it comes,” said Boe. “The first official definition the Triplanets gave us of magic. Unfortunately, it was delivered by an Artonan who wasn’t as cool as Tan-wyk.”
+
+“He did take the time to deliver it in every known human language separately. Maybe he was really pumped and creative in the first three dozen, and by the time he got to English he was tired.”
+
+The man on the screen started to speak in a dull voice.
+
+“Magic is the process by which we wizards prove our existence and assert our dominion over all else that exists. If your planet chooses to form a Contract with us, we will present you with magical tools, healing, and conveniences that you will never otherwise be able to obtain. And a few among you will be granted the ability to wield magic yourselves, with the expectation that you will use those powers for the benefit of both your species and ours.”
+
+Boe paused the video. “Such an idiot. The rest of the team was busy presenting themselves as helpful friends who’d come to say hello and tell us about the chaos that was eating the universe, and then he set them back with a definition of magic that fueled everyone’s belief that the aliens had come to exert dominion over all of humanity in mustache-twirling villain fashion. Someone shot the ewtwee Avowed a couple of days after this aired.”
+
+“That upset me so much the first time I heard about it. I know the ewtwee just dug the bullet out of her armor and then added it to her memories necklace. But how could anyone shoot one of them? They’re one of the most harmless aliens. She thought the bullet might have been a gift that was delivered too quickly.”
+
+Ewtwees looked sort of like large fennec foxes with furless, prehensile double tails. They wore charm belts and necklaces full of shiny objects that they liked.
+
+“I saw one in real life,” said Boe. “When I was around eight.”
+
+“You did? You never told me that!”
+
+They weren’t a low population species, but Alden had still only ever seen them on screens.
+
+“He must have been an Avowed working for an Artonan visitor, but he was alone at the time. He was coming out of a jewelry store, and he was glittering like he’d bought out the whole place. I wanted to say hello to him, but my mom dragged me away before I could.”
+
+A few seconds passed, then Boe looked at Alden expectantly. “So?”
+
+“So what?”
+
+“You’re a wizard. Say wizard things about magic. Comment on the first definition.”
+
+“Oh! Replay what he said.”
+
+“You have the attention span of a flea.”
+
+“Some jerk made me go to school today. I burned myself out debating superterrorism and talking to Lute Velra.”
+
+Boe replayed the section of the video; Alden listened to it closely.
+
+“It’s only one sentence, It sounds like it’s not an answer to the question at all, and he has a massive wizard-superiority complex,” said Boe. “The definitions the other ambassadors gave when they were cleaning up his mess were much more satisfying to most people.”
+
+“The other answers mostly imply that magic is a kind of special energy Artonan wizards have inside of them and they use it to manipulate the universe,” said Alden.
+
+“That’s right. And that’s the explanation that’s most popular. Remember that kid in seventh grade who called it Alien Spirit Gas?” said Boe.
+
+Alden did. The unfortunate boy had been subjected to fart sounds whenever he walked into classrooms after that.
+
+“Some people think it’s mystery energy,” Boe continued. “Some people think it’s more like prayer with replicable results. Others—and quite a few Avowed—think doing spells is like outputting code that the world responds to. And the Artonans muddy the waters by not outright disagreeing with any of it. I’ve got you here now, so…reveal the truth.”
+
+“Well, magic does a lot of different stuff. So it’s not like you can point at any one of those ideas and say, ‘This is completely wrong.’ Even the prayer one…people who think that are probably thinking of wordchains, right? And ‘outputting code’ makes a lot more sense as a concept if you’re an Avowed with a spell impression.”
+
+“Does it?”
+
+Alden nodded. “They make you feel like a robot.”
+
+“Weird. Should I get one if I ever have the chance?”
+
+“It’s convenient,” said Alden. “Really thorough. Very efficient. Nearly infallible.”
+
+“You sound so surly about it.”
+
+“Feeling my body and my brain do complex things on autopilot grosses me out.”
+
+He looked back at the screen. It was nice that Joe’s first, more generalized lessons on authority hadn’t been conducted under the same extreme strictures as their long final discussion about The Bearer of All Burdens and the original skills. Alden had since figured out some things on his own and had his knowledge shored up by Kibby and Instructor Gwen-lor, so he could talk about this a bit more freely.
+
+“The first definition was better,” he said. “I mean, it was worse in one way because humans don’t have the base concepts of reality or the senses to understand what he meant by it. So it comes across as him bragging instead of giving information. But it was actually better as far as openness and honesty goes. That’s like a stripped-down and language-limited version of the definition of magic they give wizard toddlers.”
+
+“Really?”
+
+“Really.”
+
+Boe grinned. “I wondered! For the first time in my life today, I delved into the depressing and embarrassing world of adult humans who believe, despite literally decades of evidence to the contrary, that they can become wizards by mimicking footage of wizards in action.”
+
+Alden winced. “Oh no.”
+
+“Yes. Mine eyes have feasted on many strange sights! There is a man in Washington state making wands out of sticks he marinates in his own bodily fluids. There is a woman who has spent the past twenty years meticulously memorizing every single facial expression ever made by a visiting wizard. However! Despite the fact that many of these people pursue foolish and smelly habits, they do have some valuable qualities. They all speak Artonan well, and their unhealthy obsession makes them strive for authenticity.”
+
+He spun the laptop around to show Alden a Japanese website. The System translated the title as <<Dominant Humans Society.>>
+
+“Please ignore the many layers of confusion the name they’ve chosen can produce. They’re just big fans of the first definition of magic. Because, as they point out, contemporary Artonan guests on Earth use many different words that the System translates as ‘magic’ that are better translated as ‘power,’ ‘dominance,’ ‘sway,’ or…more bizarrely…‘my spot.’”
+
+“Avowed who go to the Triplanets often enough have to notice those things, too,” said Alden. “Once you speak the language, it’s impossible not to realize that the way they talk about magic is different than most humans think of it. But it probably comes across as wizard cultural posturing to people who don’t like Artonans or who don’t care to delve into it. Because if a wizard doesn’t sit down and explain it to you really slowly and clearly, it’s easy to convince yourself that they’re just being poetic, arrogant, and alien. Instead of surprisingly literal.”
+
+Boe shut the laptop and set it aside. “So give me your definition!”
+
+He was leaning over his knees toward Alden. He sounded eager.
+
+Of course he did. Alden wanted to tell him, and at the same time, he very much didn’t.
+
+“Talking about it in general is fine,” he said hesitantly. “But if you want me to try to teach you how to do it, too, I…I’m going to need to think about that. For a long time probably. Okay?”
+
+Boe stared. “You think you can teach other people how to do it?”
+
+“I don’t know. I don’t think it would be impossible if I chose the right person. Probably another Avowed. It would be really hard. And time consuming. Maybe even years worth of time consuming for both of us? If I even wanted to at all.”
+
+“I wasn’t asking you to teach me,” said Boe, watching him closely through his brand new glasses. “I assumed you couldn’t. Either because of that tattoo on your chest or because you were a one-of-a-kind case. For the obvious reason.”
+
+“Oh. I am, but I think there should be others who are capable of it. Only it would be harder for them than it was for me. And possibly less worthwhile.”
+
+According to her, Gorgon’s refinement of Alden’s authority made him qualify as ‘gifted’. He hadn’t thought much about that statement over the past few weeks, but it had crossed his mind a few times. Mostly when he was wondering how gifted you had to be for an entity like that to acknowledge it.
+
+Thanks, Gorgon. Hope you liked Natalie’s cinnamon bun.
+
+“I think you have to be underestimating the difficulty of it even with all those caveats,” said Boe. “Everyone is curious about magic. Plenty of smart Avowed spend lots of time with the Artonans. By all accounts, they’re secretive as hell, but there’s no way every last wizard, including a couple who’ve gone and married humans, would refuse to teach it. Someone would have broken the rules by now. So if it’s not damn near close to impossible, then the Triplanetary Government must assassinate everyone who does it, because otherwise there would be a small population of human wizards running around already.”
+
+“From what I’ve been told, I’m basically the only one right now,” said Alden.
+
+It made more sense when you knew the whole truth. Joe was probably the king of rule breakers, and even he had been very firmly against teaching an Avowed magic. It meant flouting your culture, your colleagues, and your conscience. And after months or years of training, you’d be gifting your student not only power but a variety of pain they couldn’t properly understand and consent to until they were too deeply involved to back out.
+
+You’d have to be at least a little bit of a monster.
+
+Or a very patient and determined child who didn’t know any better.
+
+He cleared his throat and pointed at the TV. “My definition is totally better than that guy’s. Here it is: while I was on Moon Thegund being sandblasted by chaos, I became aware of <<myself>> as a unique existence within reality. Becoming aware of yourself in that way is probably what the Human Dominators, or whatever they’re called, are translating as ‘my spot’? It works. You gain awareness of yourself as an entity beyond the physical, and in doing so you come to understand that you both have and are authority. You learn to direct your authority to effect changes in reality—aka doing magic. In the process of doing so, you can grow the strength of your authority and expand it beyond your initial ‘spot’, gaining <<presence>> and the power to do more magic.”
+
+Alden took a breath. Awesome. He’d gotten it all out. Mostly in English. And it sounded closer to right than he’d thought it would.
+
+“I don’t know why you’re grinning. That was some of the most abstract, batshit sounding—”
+
+“It was really very clear!”
+
+Boe shoved up his glasses. “You sound like a snooty Artonan wizard wearing an Alden suit.”
+
+Alden considered that. “Thank you.”
+
+“Fine. I did understand that better than the single sentence definition at least.”
+
+“Do you want to see me do it? We can always finish the movie later.” Alden undid the buckle on his leather cuff bracelet and unwrapped his auriad.
+
+“Cool. Is that a magic string?” Boe reached out curiously.
+
+Alden had been in the process of standing, and at the sight of a hand reaching for the auriad, he reflexively leaped backward. Only to fall over the coffee table full of snacks.
+
+“Ow…” he said, staring up at the ceiling.
+
+Boe stood with an amused look on his face. “Are you all right? Your Agility stats failed you hard just now.”
+
+Alden let his left foot sweep a chip bag to the floor as he yanked his leg off the table and sat back up. “Yeah. Sorry. That was—”
+
+Boe held up his hands. “I will not touch your magic string,” he said, the solemn voice at odds with his growing smile.
+
+Alden climbed to his feet. “I know. I know. That looked crazy. Maybe you can touch it. I just haven’t really thought about it, and I panicked.”
+
+“Is it delicate, or is it dangerous?”
+
+“It’s part of me,” said Alden. “I’ve bonded with it, and we’re growing more intertwined as I practice.”
+
+“We? Does it have a personality?” Boe asked, lowering his hands.
+
+“No. That’s me projecting.” He looked down at his fingers. He was already absently weaving the auriad into the starting position for the elementary school graduation spell. “It’s an auriad. It’s a tool that feels sort of like an extra limb. But it’s also a deep expression of myself. Honestly, I’ve got a little bit of a security blanket thing going on with it, too.”
+
+He took a step closer and held the interlaced string out toward his friend.
+
+Boe regarded it cautiously.
+
+“It’s neat. It’s almost like liquid instead of string to the touch,” Alden said, holding it in front of Boe's nose. “I promise not to fall over the coffee table again.”
+
+“I’m good. I’m not sure if we’re talking about me shaking hands with your soul or you offering to let me touch your favorite kidney, but either one sounds unnecessary just to satisfy my curiosity.”
+
+Alden shrugged and lowered the auriad. “Well, move Victor off the sofa then, and watch me and my favorite kidney do something cool.”
+
+He headed into the kitchen, his hands moving by rote. His mind was focused on manipulating his authority into the shapes that filled in the gaps in the auriad’s pattern. It felt good. Exciting. Like he was approaching the edge of a high dive, and he was already anticipating the way the water would part for him.
+
+Yield to him.
+
+In exactly the way that he demanded.
+
+His free authority moved. Not as fast as his fingers could. His hand speed had surpassed his authority control by too much, but that was all right. It gave him a new goal to work toward.
+
+He spun to face the sofa as the final design of the spell took shape. Boe was standing off to the side by the pinball machine with the cat in his arms. Alden lifted the auriad, aimed over the counter, and made sure to throw himself into the final push. He didn’t have enough free authority to hold himself back in the way he’d been able to on those final days at the lab.
+
+But the water still parted.
+
+Alden couldn’t see the square of force shoot across the room, but he was aware of it on another level. It was as if there was an echo of the command he’d given in the world around him that he could just barely detect. One day, maybe he’d be able to feel it more clearly.
+
+He was staring at the exact spot he’d aimed for, so he saw the instant the back cushion of the sofa depressed, in a perfect square shape, with a thwuff sound. The whole piece of furniture rocked and fell over onto its back.
+
+“Did you see?!” he demanded, hurrying into the living room and letting the auriad helpfully wrap itself back around his left wrist. He pointed at the fallen sofa. “That was my spell!”
+
+Boe set the cat down. “That was sick!” His voice was almost as excited as Alden’s. “That was a hundred percent a spell that the System would never offer a Rabbit. And you’ve got it anyway!”
+
+“I know!”
+
+“You kicked the couch from across the room!”
+
+“I can do it from even farther, but the aim needs a little work. It’s just the graduation spell they give wizard kids when they leave this fancy-pants elementary school on Artona I. But—”
+
+“But if you can do that you can do so much more!”
+
+“I know. There are like a billion spells I won’t be able to do because I’m not Artonan, but they’ve been wizarding around since the dawn of time and they’ve got more magical knowledge than anyone could ever learn anyway. So even if I’m stuck with pure hand casting and I can’t do double-brain dolphin chanting or jet off to other worlds to get potions ingredients, I’m not ever going to run out of stuff to try!”
+
+“Can you do it again?”
+
+“Yes! A few more times at least. Can I show you some others, too?”
+
+******
+
+An hour later, they sat on the floor in the wreckage of the living room. All the furniture was tipped over. Several chip bags had been used as targets, and crumbs littered the floor. There was a faint smell of smoke in the air from the little bits of paper that had been burned in lieu of candles, they both had very sanitized hands, and the last chiming notes of the song spell were fading from the air.
+
+Victor had abandoned them to their madness long ago.
+
+Alden laid on his stomach on a battered sofa cushion and watched Boe. His friend’s back was propped against the bottom of the overturned sofa, and he was trying to get the wax paper wrapper off a smashed caramel. He was relaxed and happy. They both were because Alden had asked if he wanted to share the emotion.
+
+Boe had seemed surprised. Alden just thought it was the obvious thing to do.
+
+And there was another reason…
+
+Now’s a good time.
+
+“Big anxiety spike,” Boe said without looking over at him. He’d been verbally identifying Alden’s emotions for a while now, maybe as an attempt to fully disclose what he was reading.
+
+“I know. Could you shield up again?”
+
+“Done.”
+
+“I wanted you to know it’s fun for me. Doing magic.”
+
+“That’s an understatement. You’ve got this very specific emotion when you do it. Like self-affirmation and a success high all rolled up together. I haven’t felt anything quite like it before.”
+
+Alden took a deep breath. [My affixations hurt now.]
+
+Boe’s fingers stopped prying at the caramel wrapper. His eyes met Alden’s.
+
+[I don’t know why I’m texting it. I guess it’s easier. When the System does my affixations now, I can feel it. Changing me.]
+
+“Oh,” Boe said quietly.
+
+[The work the Artona I Contract did on me after I got back from all that time away was… I couldn’t even use my skill after it happened. Not until a couple of weeks ago. And it’s still this thing that…sometimes I can’t sleep. I don’t want to talk about it. But I did want you to understand why I freaked out yesterday when you were trying to tell me about U-type affixations. And why I’m not sure about teaching anyone else.]
+
+Boe hadn’t looked away.
+
+Alden did himself, letting his eyes fall on the dirty floor.
+
+“Anyway,” he said after clearing his throat, "now that I’m back in action again, I’ve been memorizing new spells. I think I’ll be able to cast a couple of them really soon. There’s this one that crushes the hell out of stuff. Close range. Baseball-sized crush zone. Sphere or pancake depending on how I adjust it. I think it’s going to be like having permanent access to a hydraulic press. I’m going to flatten all the things. I don’t know how practical it will really be in everyday life—”
+
+“Extreme crushing doesn’t have to be practical,” Boe said in a casual voice. “You should just enjoy it.”
+
+Alden smiled. “Right. Also—close range flash freezing. I’ve got both of those down, and I’m basically just waiting until my authority develops enough so that I can do them. I think I'm almost there.”
+
+“The freezing spell goes well with your new passion for keeping inappropriate things in your pockets.”
+
+“Exactly! I can make frozen food and keep it frozen. All I need is a spell to heat it back up, and I’m a one-man kitchen.”
+
+“You can make tiny flames,” Boe pointed out. “Just learn to cook over an open fire, and you’re set.”
+
+Alden gasped. “I’m amazing.”
+
+“You’re shaping up to be the ideal camping buddy if nothing else. You even entertain people with finger songs.”
+
+“The spell I plan to memorize after those is very similar to the graduation spell. It makes a sharper force shape, a triangle that flies through the air like a thrown dagger. Spells that cut and smash in different ways seem to be particularly common uses for auriads, but they aren’t the only kinds. There’s an honest-to-goodness object summoning spell at the end of the book. I’m drooling over it.”
+
+Anything in your line of sight below a certain size could be summoned.
+
+They talked about some of the other spells Alden was looking forward to, and then, out of the blue, Boe asked, “Does having the tattoo bother you?”
+
+Alden looked at him in surprise. “In what way?”
+
+“In any way.”
+
+“The level of restrictiveness I agreed to is inconvenient,” Alden said after thinking about it briefly. “There are a lot of things I can’t say that I would like to tell a few people. Like you. But I did agree to it. And I got a lot in exchange. I honestly think the wizard who made the contract with me was…more than I was ready to deal with. But he was pretty fair to me other than that.”
+
+“So no lingering negative associations with tattoos in general,” said Boe. “Do people give you a lot of shit for having it?”
+
+“I haven’t shown it to many humans other than you and Jeremy. The doctor who did my physical exam for CNH was appropriate about ignoring it. And I know the worst you two are going to think is that I was a dumbass who got in over my head. Not that I agreed to a private contract because I was committing murders off-the-record, or that I took money in exchange for letting some creep do experiments on me.”
+
+“Yeah, I assume the most common use of them is to protect sensitive info instead of covering dark deeds. Or that they’re fake and the Artonan-obsessives who have them just wish wizards wanted to tat match with them.”
+
+Alden brightened. “I’m getting one on my face!”
+
+“Excuse me, what?”
+
+“With Kibby! When she gets her summoning rights for the first time, I’m going to be her first Avowed summons. And the entire purpose of the mission will be matching facial tattoos.”
+
+“What will the contract be?” Boe asked slowly.
+
+“Eternal friendship and respect,” Alden said. “It’s all decided.”
+
+“When is this happening?”
+
+“More than a decade from now most likely. But it’s happening.”
+
+“Okay. You look really excited about having blue ink on your face forever, so…way to go. Also that makes me feel much less worried about what I was about to ask you. Can you make a magical contract with someone? Like can you do the wizard part of it?”
+
+“I don’t really know how to. Kibby kept asking me for one because she thought it would be like an authority handshake with magic ink added. And I do think it’s probably something pretty simple at the core. But I don’t know how. I understand how tattoo design works, but I think to make it all come together I’d need instructions.”
+
+“Do you have any way to get those kinds of instructions without risking revealing your wizardness?”
+
+Alden considered it. “I’m not sure. I could ask some people I know really general questions ‘just out of curiosity’ and hope the answers were enough to go on. I could try to buy a magic book with the info in it—”
+
+“Oh yes. Trying to shop some kind of Avowed magical black market is a very smart thing to do for someone in your position,” Boe said sarcastically.
+
+“Or I could trial and error it. We might end up looking like the walls in a public bathroom before I got done. I’m assuming you’re asking because you want one with me?”
+
+Boe nodded. “I spent all day trying to negotiate with the System. Shithead didn’t give me so much as an exclamation point in answer. Finally, I asked if I could tell you everything without losing its help if I formed a wizard’s contract with you, and it woke up.”
+
+“It actually agreed?” Alden asked, surprised. And impressed. He hadn’t realized you could successfully negotiate with Earth. Maybe he needed to try harder in the future.
+
+“It sent me a picture of those concentric triangles on your chest. And the words, ‘Yes. If you both make not revealing the information to anyone else in the future part of the bargain.’”
+
+“Oh. So it only agreed because in that scenario you telling me would actually give us both less freedom to do what we want than we have now. That checks out.”
+
+“A surefire, ‘Shut Boe up,’ solution seems to be really tempting for it. I guess making myself less of a future variable must take a load off its plate.”
+
+Alden pushed himself up from his cushion. “Is this big secret something you actually want to tell me? Or is it something you feel like you have to do for my sake? Because if it’s the second, then I don’t need it.”
+
+“I regretted a lot of things when you disappeared. This was one. I want to.”
+
+“Then I’ll figure it out. I don’t think I’ll manage it before you leave, though. I can’t possibly get the info I need in the next few days, unless the System’s willing to give me the instructions itself. System, could you do that?”
+
+[No.]
+
+Boe looked startled. “It answered on my interface, too.”
+
+Group chat with the System. What an afternoon.
+
+“Can we not just do a magical contract through you somehow?” Alden asked. “System-moderated. You’re the Contract for an entire planet. This should be right up your alley.”
+
+[You completing such an agreement yourselves will produce a more ideal result.]
+
+“Why?” Alden and Boe asked at the same time.
+
+The System didn’t answer.
+
+Of course not.
+
+“It’s a good idea for you to learn anyway,” Boe said. “If you’re going to wizard, you should wizard all the way. And I would sleep much better if you would contract lock a lot of the news you’ve already given me in my head.”
+
+“You sound like Kibby. ‘Contract with me, Alden! I will not reveal your secrets even under torture.’”
+
+“She does sound cool. By the way, where are all these alien kid videos that you’ve been promising me?”
+
+*

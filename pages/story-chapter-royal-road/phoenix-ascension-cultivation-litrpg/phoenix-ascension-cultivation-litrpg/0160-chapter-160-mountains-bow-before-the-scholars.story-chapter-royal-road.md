@@ -1,0 +1,219 @@
+---
+id: 17345346-c36e-5bd4-9e73-4c216b09611b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 160: Mountains bow before the scholar's brush"
+slug: 0160-chapter-160-mountains-bow-before-the-scholars
+partOf: phoenix-ascension-cultivation-litrpg
+position: 160
+ownLength: 2228
+unit: words
+publishedAt: 2026-08-09
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3790528/chapter-160-mountains-bow-before-the-scholars"
+royalRoadId: "3790528"
+---
+
+Nobody noticed when Mei Ba Do won, not until Xing Po yelled out bloody murder. It was rather funny.
+
+I didn’t manage to see the whole fight, but the end was interesting.
+
+The two of them were pretty even, but Xing Po had the lead due to the sheer amount of Qi coursing through Mei Ba Do.
+
+However, while they were both distracted, Mei Ba Do woke up and smacked Xing Po over the head with his sword.
+
+Xing Po fell, and Mei Ba Do won; then he collapsed as well.
+
+I… was not entirely sure how to feel about that, but I did almost laugh.
+
+Almost.
+
+I was too tired to care about much of anything momentarily, but I was surprised I did so many things over the course of a single fight… Well, technically it was an extended fight, but that was besides the point.
+
+As the crowd settled down and the winner got dragged off the stage, I’d also made my way down. The next fight would start soon, and I could be the lucky number.
+
+Though I wasn’t sure how lucky playing with children was, especially when said children had very pointy swords.
+
+I did feel a little strange about getting back there after causing such a commotion, but I would have to sooner or later.
+
+I made my way back to Meng Mao, who had the lifeless expression of a corpse, except he was trying to hide it with makeup.
+
+One could command his talent to act, though, almost had me fooled.
+
+‘What the fuck is wrong with you?!"‘
+
+I could only shrug when he’d asked me that. I didn’t expect that to happen either; how could I be blamed? If anything, it was the sword’s fault.
+
+There were also many stares directed at both him and me, and they were unpleasant. The hardest one to bear was that of the patriarch, Peng Long, who seemed really interested in what I was hiding.
+
+As it was natural, but I wasn’t going to give him anything.
+
+When the crowd returned to normal, two more numbers were called from the lot. Fifteen and sixteen were permanently eliminated, but thankfully I wasn’t called that time around.
+
+Unless one of them showed me anything special, I was not going to hold back anymore.
+
+Especially not after they saw my lightning. I would be surprised if they didn’t surrender right away.
+
+The next names to be called were Yi Lingxi, number nine, and Fah Xing, number eight. Neither of them was particularly interesting to watch, honestly. And they were both from the same sect… again.
+
+Just what sort of crazy coincidence was this? If I didn’t know any better, I would have said they were rigged!
+
+But with both being from the Golden Claw Sect, the fight was quick, at least since they both had a savage-like fighting style with quick and decisive movements.
+
+Fah Xing did use her fang whip and clutched the victory after taking her opponent by surprise. Poor bastard wasn’t expecting to get blown back by something like that.
+
+She won, but it was close, and at least the part where Yi Lingxi fainted from blood loss was funny.
+
+Well, to me, at least, the crowd found it entertaining as well. Except for those that lost their bets, of course.
+
+The arena had some cleaning done, since there was quite a bit of blood on it. Thankfully, the process was quick, and soon enough, it was ready to accept another fight.
+
+The lucky contestants were… Number twelve, Peng Li against number five, Lei Bai.
+
+The Scholar Domination Sect against the Reaper Sect prodigy. The outcome was already obvious, but it was nevertheless something I was eager to watch.
+
+Mainly because Peng Li was giving off a different feeling than the rest of the contestants.
+
+Not to mention his relationship with the patriarch, he was definitely someone worth paying attention to. At least, more than all the other newbies.
+
+Qi Condensation cultivation at the ninth layer with the strange Qi of the Reaper Sect. Not to mention his feels thicker, to the point where I could feel it without him using it even once.
+
+On one hand, it was impressive; on the other, I didn’t want my expectations to be set too high.
+
+Lei Bai’s entire existence was interesting. Someone from a sect with scholar in its name couldn’t be simple, especially not someone that was chosen to participate in this tournament. And all of it just to enter a secret realm.
+
+With what I knew about scholar-type cultivators, this fight was going to be interesting.
+
+Both disciples took their places in the arena, did the bowing motions, and then started to fight.
+
+Peng Li pulled out a sword; his movements were precise and trained. The Qi of the Reaper Sect flowed through, coating it with a rusty sheen that became a giant scythe-like weapon.
+
+Lei Bai stepped back and brandished a brush. As I’d guessed, he was going to use words in order to defeat his opponent. But there were changes made often, and I could not help but wonder what sort of things he would say or write to defeat Peng Li.
+
+Though even if he had some good techniques, defeating the prodigy of the Reaper Sect was going to be difficult.
+
+He used some sort of technique to get closer to Lei Bai, whose brush had already finished writing out his first character.
+
+It was a simple ‘Defend’ character placed right in front of him.
+
+It shattered as the attack swiped it, but through some strange means, so did Peng Li’s Qi disperse.
+
+The latter stared at the sword in his hand and clenched its hilt, a vein popping around his index finger.
+
+Did he seriously get offended by that?
+
+I shook my head and felt second-hand embarrassment. How could he be so fragile?
+
+Seeing that his first attack didn’t work, he opted for a close-range battle.
+
+Using a technique similar to Li Li’s, he advanced forward and appeared behind Lei Bai; however, the scholar had clearly expected that.
+
+With one stroke, he wrote the character ‘Repel’ and Peng Li’s attack bounced right off as he fell backward.
+
+The corrosive Qi destroyed the character, but it had already served its purpose. Peng Li didn’t waver tho and brandished his sword, covering it with Qi and slashing down.
+
+Another ‘Defend’ appeared, blocking the strike, and then another and another. Peng Li’s sword failed to cut the retreating Lei Bai.
+
+Finally, just as Peng Li was about to use a wider motion, Lei Bai used his first-ever attack character.
+
+‘Slash.’
+
+A horizontal slash cut across the arena, the wind blowing back as the Qi surrounding Peng Li’s sword faded away.
+
+There was a moment of silence as a cut appeared on the man’s cheek, blood dripping down his formerly perfect face.
+
+He was stunned for a moment, his pupils dilating as he registered that he had indeed been hit.
+
+Then, his expression twisted into a deep anger. Another slash ran through the arena, and another one cut his cheek.
+
+After those initial two, many more arrived; however, no matter how many hit Peng Li’s robes, face, or arms, none hit any vital areas.
+
+The latter simply took them all without saying a word, at least to the naked eye.
+
+I could clearly see that he was moving very quickly, avoiding any vital cuts. Lei Bai wasn’t stupid, and based on his concerned expression, he’d figured that something was up right away as well.
+
+For that reason, he stopped attacking and decided to preserve his energy, opting to retreat instead.
+
+Peng Li allowed him to do so as Qi gathered around his sword.
+
+A giant scythe made out of Qi appeared once again, and that time, he didn’t wait for Lei Bai to react.
+
+Instead, the moment his weapon fully formed, he swung it at the retreating opponent.
+
+Yet, despite the short timeframe, Lei Bai was able to write out an entire poem in the takes one to blink twice!
+
+How was that even possible?!
+
+His brush moved with the speed of a seasoned scholar, characters written in perfect calligraphy appearing above the arena.
+
+“Fine rain veils the distant hills.A lonely lamp shines through the night.Though storms assail a hundred times,The scholar's heart remains unmoved.”
+
+The moment he’d finished writing out the last character, a large barrier of black ink appeared around him, blocking Peng Li’s attack.
+
+The two techniques clashed against each other, Peng Li’s weapon digging deeper and deeper into the barrier.
+
+The moment the two made contact, the barrier started getting corroded, the Qi used to create it disappearing rapidly, getting eaten away slowly but surely.
+
+Lei Bai was clearly shaken, but the resolve in his eyes didn’t waver. He did a series of hand signs, and the barrier’s rate of deterioration slowed down, but not enough for him to be safe. When the scythe began penetrating toward the interior, he’d given up on the barrier and stepped out of it.
+
+It broke apart the moment he stepped out, but Lei Bai was ready to counter Peng Li’s brutality.
+
+Channeling more Qi into his brush, Lei Bai started being more aggressive. However, he couldn’t use the same rapid writing technique twice in a row, it seemed.
+
+The other characters he wrote were ‘Repel’, which he already used, but also ’ Parry ’, which, if timed correctly, would send a portion of the damage he would have taken back to the attacker.
+
+Using both of these characters at the same time yielded an interesting result of Peng Li getting shot back, almost being thrown out of the arena.
+
+One particular character that hit him unexpectedly as he tried to focus on surviving was ‘Nausea.’
+
+I didn’t think much of it, as it was slow, but for some reason Peng Li hadn’t managed to dodge it in time and took it in full.
+
+There didn’t seem to be any effect at first, but his stomach began convulsing rapidly and he… threw up.
+
+Lei Bai took advantage of that moment of weakness and shot a ‘Dizzy’ character toward him, which made Peng Li drop his guard even further.
+
+Now he could barely look forward.
+
+In that crucial moment, Lei Bai activated his technique once again, and the characters above the arena read,
+
+“Clouds part above Mount Tai.Ink falls like stars from heaven.The ancient peaks acknowledge their lord.Who beneath heaven dares stand upright?”
+
+As the last few characters were written, they all merged into a giant ‘Mountain’ character and fell down at an immeasurable speed.
+
+Peng Li was taken by surprise, despite being dizzy, or whatever effect that character had on him, as one should be at seeing a giant character crash into their head.
+
+At the same time, he’d recovered from the previous attack instantly upon sensing danger. That kid had great survival instincts as well.
+
+Based on Peng Li’s reaction and the poem itself, the intention of the attack was to have the equivalent weight of a mountain fall on top of his opponent.
+
+That would be hard to do at his current cultivation level, though. If I had to guess, it was only about one tenth, which was still impressive.
+
+Peng Li was even more impressive for being able to suffer that sort of strength. Any normal person would have already fallen, but surprisingly, Peng Li had enough time to protect himself.
+
+The character was weighed down by a barrier made entirely out of his Qi, which slowly but surely ate away at the attack.
+
+That didn’t mean that Peng Li was doing nothing while the pressure was threatening to crush him.
+
+Weaving a few hand signs, he’d made it so his sword turned somewhat ethereal. I couldn’t quite put my finger on what state it was, but instead of becoming a scythe, it merely increased in length.
+
+By quite a few factors.
+
+It reached Lei Bai without any effort, and he’d made an attempt at taking the man’s life, but Peng Li failed at the last moment.
+
+Lei Bai shot back, his fingers weaving furiously as the brush floated beside him.
+
+Once the technique was done, a giant ‘Brush’ character appeared in the sky.
+
+The mere act of summoning that drew sharp inhales from the rest of his sect mates, though I wasn’t entirely sure why that was the case.
+
+However, inspecting it closer, I saw a hint of why these people were so agitated. Inside the character were multiple characters, each spelling out something different. I could scarcely make sense of what it was saying, but it seemed that the attack wasn’t as simple as it seemed at first.
+
+Lei Bai himself looked like he was about to faint, which was never a good sign.
+
+He threw his brush into the ‘Brush’ character and took a deep breath. His voice sounded out in a whisper as the character floating before everyone began glowing. All the while, Peng Li was trying to get himself out of the prison he’d been trapped in.
+
+“The black wind crosses desolate plains.Ancient bones sink beneath yellow sand.Rivers dry and mountains weather.All things return to dust.”
+
+Those things were written out; however, Lei Bai did something I was not expecting at all.
+
+For the first time in that fight, he spoke.
+
+"Mountains bow before the scholar's brush."

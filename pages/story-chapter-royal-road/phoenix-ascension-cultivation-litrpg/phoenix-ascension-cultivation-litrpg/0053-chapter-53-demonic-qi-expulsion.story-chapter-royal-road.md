@@ -1,0 +1,207 @@
+---
+id: 0b97b3b0-2c98-51be-8de8-688ac7d1b967
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53: Demonic Qi Expulsion"
+slug: 0053-chapter-53-demonic-qi-expulsion
+partOf: phoenix-ascension-cultivation-litrpg
+position: 53
+ownLength: 2452
+unit: words
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2789980/chapter-53-demonic-qi-expulsion"
+royalRoadId: "2789980"
+---
+
+There was nothing I could do about the Lightning Qi entering my dantian. It wouldn’t kill me, but the follow up attack was definitely not something I wanted to face. Especially not when the little girl was in harm’s way.
+
+Luckily, it seemed to work out in my favor. Through some stroke of fate, the Lightning Qi could fight against the Demonic Qi, to some extent. I wasn’t sure how far it would go, but I definitely wanted to find out. The amount of Lightning Qi that invaded my dantian was too little. It only managed to purify some trace amounts of Demonic Qi.
+
+However, that purified Qi dripped into my Qi Lake, giving it a darker color. It wasn’t very noticeable, but it was there.
+
+Could I convert all of this Demonic Qi into my own Qi? I need to try!
+
+The only issue was that I couldn’t do that with the girl beside me, and the temporary paralysis from the lighting made it so I could not fly away just yet.
+
+Although the damage it did to me was really minimal, all things considered. My stats were probably just way too high for the man to do any real damage. Not to mention the defensive passive skills I had, such as Dragonbone Tempering.
+
+It hadn’t ranked up in quite a while, but I also didn’t take that much damage. Maybe I could rank it up using Skill Points? I hadn’t used them in a while and they’re piling up now. Though from what System said previously, it would take many more points to buy better skills.
+
+So between keeping them and spending them, I had no good options.
+
+Anyway, when the man saw that the damage he did to me was basically non existent, he frowned and decided to take out his sword. I turned my head and looked toward the fight his partner had with the tiger.
+
+It seemed like I’d underestimated his skills. Once the fear of the tiger faded, he was able to fight against it on almost equal ground. He would lose, eventually, but I was pretty sure he planned on escaping before that. All he did was defend, and without my fire to reveal his position, he’d slip into the shadows really quick.
+
+I was pretty sure he was just waiting for his partner over here to confirm the girl’s capture. However, how could they have ever expected someone else to be snatching her? And a Spirit Beast, no less.
+
+I was debating between capturing him and escaping. The prospect of making him hit me with lightning until he fainted didn’t sound so bad, but I was willing to bet that bag of holding he had contained techniques on lightning manipulation.
+
+The only issue was that… I still couldn’t read. I bet the girl could, though!
+
+“Hey girl, can you read?” I turned, completely ignoring the cultivator, whose face widened in shock upon hearing me talk.
+
+The little girl nodded, the complex look in her eyes making me want to sigh. Such a tiny girl should not have gone through all of this, what the devil made her explore this far out into the forest?
+
+“Hey, you.”
+
+“Me?” The man asked me a little perplexed, his mind most likely still not recovered from the shock.
+
+“Who else am I talking to?”
+
+“Eh…?”
+
+I was starting to get angry. Come on, it wasn’t that hard to understand, was it?
+
+“Answer me clearly, and I might spare your life.”
+
+“You?” When he heard me say that, his guts seemed to have returned. “Might spare my life, what is this, some sort of joke? Did I suffer from Qi Deviation and now birds suddenly talk to me? Threatening me too, no less.”
+
+I almost wanted to roll my eyes. It looked like I had to do things the hard way. I really wanted to get the method of using Lightning from him. Wether or not he wanted to teach me was another issue.
+
+I would have killed him on the spot and stolen his bag of holding, but I was still iffy about using Qi to open them. So if I just kidnapped him and made him take out all of his treasures, wouldn’t that be better?
+
+With that thought, I took a step forward and appeared right in front of him, then kicked at his legs before he could even swing that toy he called a sword.
+
+They broke with a satisfying crunch, and he fell on his ass, groaning in pain.
+
+“You will talk.” I ordered, and the fear in his eyes upon hearing my voice was greater than the fear he had after seeing the tiger. Speaking of, it seemed like his friend had managed to slip out into the shadows, and was stalking me.
+
+The tiger let out an annoyed growl and was rushing back here as well. I stared at the man hiding in the shadows, letting him know that I knew exactly where he was hiding.
+
+Our gazes met, and the terror within his eyes made it so whatever technique he wanted to use failed on the spot. I would have smiled if I had lips, but I could only stare.
+
+Anyway, since the girl was tied to my legs, that meant that I could still grab something with my claws.
+
+The paralysis had faded a long time ago, so I leaped and flapped my wings, grabbing the man by the shoulders. The little girl tangled gently just below, the rope keeping her safe. As for the man? He was bleeding, so what?
+
+I flew toward the place where I left the little girl before they kidnapped her, and also where I hid my pill.
+
+After letting the girl down gently, I broke cut off the rope and threw the man on the ground. It wasn’t enough to kill him, but enough to make him stay still.
+
+“Tie his hands for me. I’d do it myself, but…”
+
+The girl nodded meekly, fearfully taking the rope and approaching the man. I gave him a ‘You better obey’ glare, and he stood still. With that done, I made sure that the knot was tied tightly, and pulled the little girl away.
+
+She looked at me with a strange expression, and I could not blame her. If a bird that was almost her size came and rescued me from my kidnappers after seeing her kill a Water Serpent, I would not know what to do either.
+
+But she said she could read, so that meant I had a little use for her. I took out the pill from its hiding spot and threw it in her hands. I had no use for it, but if I could barter for some help with reading the techniques, that would be great.
+
+So what if it was a weird thing to do? I couldn’t read and I didn’t want to use the Ghost Qi Technique forever. It was too sinister, and I didn’t feel like being a ghost.
+
+Every now and then my feathers would turn into a ghost-like color, and it creeped me out. The benefits it had on my dantian were amazing, but the price to be paid was too great. Plus, how would it affect Mother’s rebirth?
+
+I didn’t want to know.
+
+Therefore, the best way to go about it was to ditch it, but for that I needed another cultivation technique. System wasn’t exactly fitted to manage that, as it turned out, so I had to do things my own way.
+
+I had a lot of cultivation techniques, or at least, I thought I did. The scrolls in the bag of holding inside the cave had to be something I could use to cultivate, but using the lightning one seemed like the best idea. I could temper my body and slowly get rid of the Demonic Qi.
+
+“I have a deal for you, child.” I sad that as if I wasn’t a baby myself. “You teach me how to read and confirm if what that bastard says is true, and you can keep that pill.”
+
+She stared at the pill in her hand with a shocked look, and did so for a while. It took me clearing my throat for her to snap out of it. However, she still couldn’t talk. In fact, she looked quite scared of me.
+
+I couldn’t understand why. Well, I could, since I was a Spirit Beast and all, but at the same time, I wasn’t that scary, was I?
+
+Scary… wait a minute-
+
+[Tiny Blood Lord]
+
+[Effects: When the title is equipped, it emits a murderous aura that can only be felt by humans. The higher the amount of humans killed, the stronger the aura. Human cultivation rank and level have an effect on the intensity and growth.]
+
+Yeah, that would do it.
+
+[Unequip title Tiny Blood Lord?]
+
+Yeah, do that.
+
+[You won’t be able to equip it for a day.]
+
+That’s fine.
+
+[Title Tiny Blood Lord has been unequipped.]
+
+Finally, the fear in her eyes had almost vanished, replaced instead by a certain sparkle.
+
+“Can this pill heal injuries?” The girl asked in a soft voice, and suddenly it all clicked. The reason she was out in the forest was because she was collecting herb, and the reason she was doing that was because someone she cared about was hurt. What a noble, yet very foolish soul.
+
+“What sort of injuries?”
+
+She shook her head. “I don’t know, but my big brother used to be able to use Qi, and now he can’t anymore. He won’t tell me why, but he said it’s a serious injury. Some time ago, our cousin attacked him, and we have nobody except our neighbor to help us. Big brother refuses to tell me more, so I snuck out. I heard herbs can help heal injuries, so I… I…”
+
+The little girl couldn’t finish her sentence, as tears streamed down her cheeks. Seeing that, a warm feeling pumped in my chest, and I almost wanted to kneel down and give her a hug. A certain image popped in my head for a moment, but it was blurry, and I could not make much sense of it.
+
+But the image of the girl in front of me overlapped slightly with the blurry picture, and I could only use my feathers to wipe her tears.
+
+“There, there, child. No need to worry, if what youd told me is true, that pill should be able to help your big brother.”
+
+“Realy?” She sniffed and wiped some snot with her sleeve.
+
+I nodded and flapped my wings. “Would I lie to you?”
+
+She seemed to be thinking for a moment, then she nodded, mostly to herself. “Ok, I will teach you how to read. Mom always told me I was smart, so I should be able to teach Miss Fire Bird how to read.”
+
+Miss Fire Bird again…
+
+I didn’t mind it as much anymore, not after the little koi fish kept addressing me as such. I supposed it was just the way of the world. Speaking of the little koi fish, I wondered how she was doing.
+
+If she took my advance and fled after three days, she should be safe, more or less. Maybe we could meet again one day.
+
+“Alright then. I’m going to have a nice talk with that bad man over there. You can return, since it’s going to get dark. Let’s meet in three days time here, and keep my existence a secret.”
+
+The little girl nodded and smiled at me with her teary eyes. “My name is Shu Xu Ning and I promise not to talk about Miss Fire Bird to anyone.”
+
+With that, she took off, and I did too. I wouldn’t let her return without watching her, of course. Flying a half a mile or so above would be enough for me to be able to monitor her and jump in if anything happened.
+
+Luckily, her journey back toward her village was safe, and I left after she passed through the gate. The last thing I needed were them seeing me.
+
+I went back to the man and grabbed him by the shoulders, then flew toward my cave. Going back there was much easier, and less perilous.
+
+I really didn’t want to meet Yo Na again. The less I saw of her, the better.
+
+Throwing the man at the back of the cave, I ignored his groans and conjured a flame to keep me warm and the place lit. System still refused to give me some sort of night vision, so I did what I could.
+
+The man looked a little tattered, what with his legs broken and shoulders bleeding, but what did I care? I grabbed his bag of holding and tore it from his waist, then pushed it again his hand.
+
+“Open it.”
+
+“What?”
+
+“Open it, did you not hear?”
+
+“Ah-”
+
+He finally understood what I meant, and took out a lot of things. Swords, scrolls, pills… a lot of rope, some food and spirit stones as well.
+
+“Which one of these teaches you how to use lightning?”
+
+“Huh?”
+
+Is this guy stupid? Even the little girl could understand me better.
+
+“Which of these taught you to control lightning?”
+
+“Ah- Well, that one there, in the middle.”
+
+“This one?” I asked, grabbing a scroll with my talons.
+
+He nodded, and I opened it. Just as I thought, I still couldn’t fucking read.
+
+“What does it say?”
+
+“I… don’t remember that well.”
+
+Rolling my eyes, I put it in front of him and shone some light over it. “Read it.”
+
+“Huh… o-ok.”
+
+Was this guy slow or did I turn him stupid?
+
+As he read it, I could immediately tell that it was a low tier cultivativation technique. It had a lot of useless phases and movements, as well as a lot of wasted Qi during the process of cultivation.
+
+If what he told me was true, then this technique would help you reach Core Formation, and will create a Lightning Core. After that, though, you’d need to swap it for a better technique of the same nature.
+
+If I took some time to modify it, I could probably make it so it went all the way to the Nascent Soul realm, forming a Ligthning Soul.
+
+Of course, that was with the pre-requisite that he was telling the truth. I didn’t know how much of what he said was believable, so I would need to wait until the girl returned.
+
+In the meantime, I had a lot of questions to ask him, and from the looks of it, he would be more than willing to answer.

@@ -1,0 +1,147 @@
+---
+id: f3a94fba-5807-5edd-8b2c-c6f56774db77
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1300 - Sometimes Better Safe Than Sorry"
+slug: 0173-chapter-1300-sometimes-better-safe-than-sorry
+partOf: the-primal-hunter
+position: 173
+ownLength: 2946
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3309460/chapter-1300-sometimes-better-safe-than-sorry"
+royalRoadId: "3309460"
+---
+
+Jake stood there, confused, with an empty health potion bottle in his hand. The Shaman and four other Venusians stared at the empty bottle with utter disbelief, as if they couldn’t believe what Jake had just done. As if he’d just set fire to some invaluable natural treasure for no damn reason.
+
+Looking at the bottle, Jake pointed to it while tilting his head. “You mean this? The potion?”
+
+He was genuinely confused about what the damn frog was on about. For a moment, anyway.
+
+That’s when Jake realized something he really should have considered prior. From all he’d seen so far, this Minor World didn’t have any enlightened races, but was solely inhabited by monsters. Alchemy was a profession, and while there were some monsters that could also practice alchemy, that didn’t come naturally to them. Instead, it was a learned practice, and most monster alchemists in the multiverse came from the Order of the Malefic Viper.
+
+Villy himself had needed the help of the First Sage to learn alchemy as a monster, as he couldn’t get the regular profession skills that made it possible. Help that ultimately led to Sagacity of the Malefic Viper, which members of the Order tended to receive versions of.
+
+Given all that, it really wasn’t a surprise that the Venusians had no true exposure to alchemy. That didn’t mean they lacked regenerative items, though. There were plenty of natural treasures in the multiverse that increased healing rate or even worked directly like a healing potion. Sure, healing potions were better, and often these natural treasures were a waste to consume, as any alchemist could turn them into processed products that were better, but monsters still often used these naturally occurring items.
+
+But... this was Venus. A world filled with toxins and a large undead populace, from the looks of it.
+
+Even if there were creatures capable of creating potion-like products, where would they get the ingredients? If Jake wanted to do alchemy, he needed herbs, and while this world had plenty of plants, nearly all of them were poisonous. Anything with life affinity was a rarity, and the only place Jake had seen so far that possessed a strong sensation of life was the aptly named Life Pool in the Venusian village. Perhaps one could grow some herbs in there, but the primary function of that place was to help nurture the next generation of frog people, and trying to use it as a garden also risked draining its energy, leaving less for the Venusians.
+
+This general lack of life also definitely made these naturally occurring healing treasures far rarer than in the wider multiverse. Given that, it really wasn’t surprising that they saw Jake’s healing potion as something rare and his casual consumption as a complete waste of something valuable. The Shaman’s next words more or less confirmed Jake’s thoughts as the frog continued staring at the empty bottle in disbelief.
+
+“Such a potent life treasure,” he muttered, also looking at Jake’s leg that was practically already fully healed, which admittedly was also partly due to Blood of the Malefic Viper increasing the effectiveness of potions.
+
+“Am I right to assume you obtained that treasure from beyond the Boundary?” the Shaman asked, Jake already knowing what the Venusian truly wanted to know.
+
+“I did,” he answered, unsure how to approach this line of conversation. In regular circumstances, Jake would have gladly informed the guy that he had made the potion and had a pretty decent stock in his spatial storage, but this was a Minor World part of the ninety-third universe. One occupied by beings that were both far stronger than Jake and unconstrained by the regular rules and norms of the multiverse.
+
+It was a genuine possibility that, if Jake revealed his ability to mass-produce potions, he would soon find himself confined by several A-grades who wanted to effectively enslave him as a one-man potion factory. Or worse, forced him to try to teach others the ways of alchemy.
+
+He hoped the Venusians wouldn’t do anything like that, but he wasn’t going to reveal too much if he didn’t have to. Right now, he was valuable because he represented a connection to the outside world, which also meant that acting against him risked losing that connection. He saw no reason to view him as having something even more valuable than that.
+
+In time, he would reveal his profession and probably ask Villy to set up a frog alchemy academy or something, but best do that when he wasn’t alone and still lacked a lot of knowledge about Venusian society. Sometimes, it was better to be safe than sorry and all that.
+
+“Dare I ask how you obtained it?” the Shaman questioned in a serious tone.
+
+“It was created by a human,” Jake said, not believing he could hide even that part. The potion had come in a bottle, and if there were other creatures in this world capable of making something even remotely similar, they would likely suspect it had been crafted. Hence, Jake went with the truth, without actually saying the whole truth.
+
+“Your kind is capable of creating such a thing?” the Shaman asked as his already big eyes opened even wider. “Is it a racial skill or something only certain variants are capable of? If so, how common are those variants?”
+
+“It’s something only some can do, so yeah, like variants,” Jake nodded, thinking it wasn’t that inaccurate a thing to say. Granted, all humans were technically “variants” unless maybe if two people had the exact same class and profession setup, but there was no reason to say that. “As for how rare they are, I would say pretty rare? Humans can specialize in an extremely wide variety of things, and creating products like the potion I just consumed is just one of many.”
+
+“I see,” the Shaman muttered, looking a bit deflated. “Would you happen to have more of them? I merely wish to study one, and I promise you can get it back afterwards without any damage.”
+
+“Sure, you can have one, and no need to give it back. In the outside world, these aren’t rare at all,” Jake said as he took out another health potion and handed it to the Shaman, who received it as Jake had just given him an invaluable treasure.
+
+“Truly? I can keep it?” the Shaman asked with disbelief.
+
+“Yeah, and if you want more, I can give you a few. Though I do want to keep a few for myself. As you saw, they are very useful in rapidly healing injuries,” Jake explained with a smile.
+
+From the looks of it, the Shaman didn’t at all suspect Jake could actually create these potions, which, fair, why would he? Especially seeing as he had no knowledge of enlightened races.
+
+Monsters tended to be far more specialized by nature. From the Shaman’s perspective, it would likely make no sense at all for Jake to be both capable of fighting well with all his combat skills and also craft something as valuable as potions.
+
+The Shaman held the potion and used some form of magic on it that Jake couldn’t see through at all. Jake watched curiously as the Shaman nodded in awe for a few seconds before his magic faded, and he looked at Jake again.
+
+“A wondrous item indeed, so dense with vital energy. I would have a difficult time believing it was created and hadn’t been created directly by the system if you hadn’t told me otherwise. It must be a very special skill or set of skills that allows for the creation of something this perfect in design,” the Shaman said, showing that he had some pretty damn good analytical skills.
+
+He was also very right. Potions were items very reminiscent of those directly created by the system. There was a lot of system-fuckery going on with them, as, quite frankly, they shouldn’t be as effective as they were. That was also why Villy had such a time initially learning how to craft potions.
+
+“Regarding your offer to give me more, let us have it wait until after we return to the village and also consult with the Oracle. If this is a product your kind can offer in sufficient supply, I’m certain it will help foster a prosperous trade relationship,” the Shaman said in a very official-sounding tone.
+
+“I’m sure we can figure something out,” Jake nodded, seeing no reason why they couldn’t do that. Based on what he’d seen in this Minor World so far, he was also confident it had plenty to offer Earth in return. Places like these also tended to have many unique treasures, meaning they would even have value on a multiversal level.
+
+“Very good,” the Shaman said, sounding elated. “I would suggest we head back to the village promptly to discuss something this important. However, I have a strong feeling you would reject such a proposal.”
+
+“Indeed, I would,” Jake confirmed as he turned towards the territory of pure death that spread into the horizon. “We can always head back once I’ve killed a few more Arachnecs.”
+
+“Then let us do that,” the Shaman agreed. “Perhaps I should also show that we Venusians are also quite capable of slaying these undead.”
+
+“Oh, that would be fun to see,” Jake smiled, genuinely curious to see what the Shaman was actually capable of. He was clearly the strongest of his party by a fair margin, and he’d shown some odd magic Jake couldn’t recognize, so getting a good look at him fighting would be fun. Especially after learning that he had clearly held back against the Boglord, as the goal hadn’t been to kill it.
+
+“I’m uncertain this is the kind of activity I would classify as fun, but I understand that you find it such,” the Shaman shook his head with resignation. “Though I will admit I find some enjoyment at the demise of Arachnecs, I just don’t seem to find any pleasure in the process of causing said demise. Not as you do.”
+
+“That’s a shame, but hey, if you like seeing dead Arachnecs, I’m sure you’re in for plenty of enjoyment,” Jake chuckled.
+
+By now, with this conversation, he’d nearly had time to fully recover, and seeing as there weren’t any prey immediately nearby, he would have a bit of time to get in top form while flying to his next target.
+
+Thus, with his far from enthusiastic Venusian comrades, Jake headed further into the Arachnec territory to make the undead even more dead. All while hopefully not saying anything that would make the frogs less friendly than they were currently being, but instead keep his title as the best damn diplomat that had ever visited this Minor World.
+
+While Jake was having fun making friends with frogs, the rest of the multiverse was making their final preparations for the first part of the Seat of the Exalted Prima event to begin.
+
+Across the multiverse, groups formed to enter the World Wonder together, with factions busily trying to claim galaxies by ensuring they had the most qualified Administrator there. A lot of doubt remained about how the system event would function, but many were betting that the Administrator Test would allow even those who came along as companions who weren’t originally named Administrator Candidates to be promoted.
+
+If not, they would simply make do with a puppet Administrator. In the grand scheme of things, it likely wouldn’t matter who was an Administrator in every single galaxy. What mattered far more was what would come after.
+
+In the battle of Administrators, the true gains would be found. No doubt, the individuals who took part would benefit themselves, but the faction naturally cared far more about the World Wonder itself. While few believed the B-grades would actually gain full control over a World Wonder, there was a good chance this event could lead to at least partial control or influence. With lacking knowledge, no one wanted to risk losing out, and all the most powerful factions could tell that this World Wonder wasn’t one to ignore.
+
+The problem was that winning influence wouldn’t be an easy endeavor.
+
+No one yet knew what the contest between Administrators would entail, but most assumed it to be at least partly combat-related. Nearly all system events tended to be. This didn’t necessarily mean that the Administrators would fight one another. In fact, most factions hoped this wouldn’t be the case. To be forced into a direct fight with the Chosen of the Malefic Viper, who’d already shown himself in Nevermore to be at the peak of his generation, would spell disaster for nearly all Administrators. No one had the confidence to face him... besides perhaps a few.
+
+--
+
+On a green mountain peak full of life stood a single figure, facing towards the land below with his hands behind his back. He had a peaceful look as his aura was fully constrained, not leaking the slightest bit of energy. His clothes consisted of a simple robe that left one side of his chest exposed, and his head was shaved. The man appeared young, perhaps in his early twenties, but with the advent of the system, telling his true age was naturally impossible. Though, as a native of the new universe, it surely spoke to his age upon integration.
+
+His eyes were closed, but when there was a faint movement of energy behind him, he turned around to greet his visitor. Cupping his hands, he bowed forward. “I greet the Chosen of the Lifesoul Daolord.”
+
+“Is there truly a need for such ceremony?” Eron answered with a smile, bowing towards the other B-grade despite his words.
+
+“My friend, I would never lose an opportunity to pay you respect,” the young man said with a light chuckle. “Now, how are your preparations going?”
+
+“They are done, and my party members have been selected,” Eron said, fully aware that in the event of combat, he truly needed proper party members. He was no fighter, and truthfully, never wanted to be.
+
+“That’s good,” the young man nodded. “I wish you prosperity.”
+
+“Thank you,” Eron said in a neutral tone before getting to the reason why he was there. “I came to inform you that your assistants for the upcoming event have been selected, should it become relevant.”
+
+“Is that truly necessary?” the young man asked with a sigh.
+
+“Not my call,” Eron shrugged. “This is at the insistence of the higher-ups. They want to ensure you have the best possible circumstances should the event involve battle. I, too, hope it will not be necessary, but if it does, who else would you expect to face people like the Cerulean Demon Prince, Wintermaul, or any of those other so-called geniuses?”
+
+The young monk let out another sigh as he looked out at the quiet valley below, simply enjoying nature. “I hope it doesn’t come down to needless conflict. Ideally, this World Wonder is one to be shared, not conquered.”
+
+“That’s rarely how the system operates,” Eron shook his head, though he did find himself in agreement with that statement. “Alas, you must ready yourself should you face any of them. Speaking of, here.”
+
+Eron waved his hand as a jade slip flew over towards the monk, who caught it while still keeping his back turned. He infused energy into it briefly before nodding.
+
+“Quite a few notable figures. Several of them from your homeworld,” the monk said. “Including the Chosen of the Malefic Viper. Am I correct that he was the one who killed the one referring to himself as the Celestial Child?”
+
+“That’s him,” Eron nodded. Jake’s name was indeed at the top of the list compiled, consisting of people to watch out for in the upcoming system event.
+
+“I see,” the monk sighed. “I hope Ell’Hakan found rest in the end. A troubled soul, that one, but his death was surely necessary.”
+
+“Few mourn him,” Eron agreed as he looked at the young man. “While that slip includes a lot of information, I will also add my personal warnings. Jake has shown himself to be hard to quantify many times before, so I doubt any dossier can fully enlighten you about his character. So be careful.”
+
+The monk smiled a little as he looked down at the slip with a conflicted look. “I truly have no desire to fight him, nor anyone else on this list.”
+
+“Yet you will probably have to,” Eron shook his head. “Now, I have my own matters to attend to. Study the information well, and prepare accordingly.”
+
+“Thank you for your visit, my friend,” the monk said with a light smile as he looked up and cupped his hands once more. “May we meet again soon.”
+
+“Let us,” Eron nodded as he turned to leave, descending the mountain once more. Behind him, the monk turned to look towards the horizon again before closing his eyes in meditation.
+
+Eron still felt unsure about this monk who was meant to lead this generation of the sect. For him to face Jake, the Sword Saint, Sylphie, Vesperia, the Forest King, Carmen, and so many others, not to mention the factions backing them... it was difficult to imagine. Especially Jake, who always seemed to overcome his own limits whenever pushed into a corner. Always able to reach one layer deeper to grasp more power and come out victorious. His position at the top of the list of people to watch during the upcoming event was well-earned.
+
+But... then again. This generation, Eron included, had never seen the true depths of the Eastbound Monk either.

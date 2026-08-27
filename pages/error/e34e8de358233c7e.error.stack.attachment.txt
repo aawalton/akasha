@@ -1,0 +1,1 @@
+gate=slug:reading-story (Electric snapshot fold) elapsed>=4000ms acquired=true

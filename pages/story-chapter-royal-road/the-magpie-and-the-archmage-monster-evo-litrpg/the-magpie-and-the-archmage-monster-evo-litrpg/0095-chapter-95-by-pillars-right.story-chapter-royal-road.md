@@ -1,0 +1,173 @@
+---
+id: 67504e2f-cac0-58c8-80ff-dd75be335d15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 95 – By Pillar's Right"
+slug: 0095-chapter-95-by-pillars-right
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 95
+ownLength: 1907
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3139288/chapter-95-by-pillars-right"
+royalRoadId: "3139288"
+---
+
+Despite the defeat of the mages and the shapeshifter, the miasma only increased in density, as if some safety switch had been removed from it. Perhaps that was exactly the case. The Night King assholes set up some magical contingency in case they failed.
+
+Liora wouldn't let that happen.
+
+First, she absorbed as much mana from the dead mages with Mana Conversion as she could. Despite the loss that happened while she was sulking on Morgana—utterly embarrassing, Liora couldn't believe she had done that—and all the mana they had supposedly used in the battle, Liora had managed to recover a third of all her mana reserves.
+
+Status!
+
+[Status]
+
+Health: Scrapped
+
+Mana: Steady
+
+This would have to do.
+
+Liora had to hurry and find the source of the corruption before this whole thing became a huge death dungeon. It clearly wasn't the shapeshifter as she had previously thought, nor was there anything on the mages that would have suggested that.
+
+Liora had to fly into the dreaded third tunnel—the one that was spewing miasma like there was no tomorrow. She didn't want to, but who else could do it if not her? She was the only one who could do holy magic.
+
+However, as Liora flew closer to the nasty miasma cloud, she noticed Cee jumping on her back.
+
+"I'm coming too!" Cee said.
+
+"It's too dangerous!" Liora warned.
+
+"The miasma isn't as dangerous for me as it is for you. I have my spidery respiratory system advantage, while birds are known to be rather fragile when it comes to gases," Cee said.
+
+"We are?"
+
+"Yeah! Remember how miners used to bring canaries down with them to detect dangerous gases in the caves. The birds would drop dead before them."
+
+"I have never heard of that fact, and holy fuck is that gruesome towards canaries!"
+
+"It is, but the point is that the birds are much more fragile than spiders. You're going to be completely busy trying to keep your breathing normal with your magic. But if there are any enemies in there, you leave them to me," Cee assured.
+
+Liora thought about it for a moment, then nodded. "Thank you, Cee!"
+
+"Anytime, my Earthly friend!"
+
+Instead of constantly using Purify in small amounts to purify the air, Liora launched a Holy Light powered by the Holy Wand directly into the tunnel to purify a longer pathway for herself. Just like on the Blightpeak, the miasma didn't instantly rush to fill the purified space; instead, it lingered around the edges.
+
+Nonetheless, Liora had to fly carefully so her head remained in the cleared space. Halfway through the tunnel, she had to use Holy Light again, although the resulting tunnel seemed more narrow than before. As if the miasma was too thick to be fully purified.
+
+Unfortunately, Liora didn't get to reach the end as some kind of monster leapt straight at her. She couldn't even tell what it was at first, with all the miasma blocking the view.
+
+But after dodging the creature a few times, she realized that it was one of the fishpeople, except this one was fully corrupted. And there were more of them coming from the tunnel.
+
+"Shit! Are we too late? There are corrupted monsters here!" Cee screeched while hurriedly weaving her webs and tossing them left and right to tangle the corrupted fish people.
+
+"I don't know! But I won't back away now. Try keep those monsters at bay for me," Liora said and began purifying the air she breathed in instead.
+
+She was using both the necklace and the wand to recover her mana and provide herself with the strongest holy magic effect available. Corrupted fishpeople jumped at her left and right, but thankfully, her Aerial Agility allowed her to dodge them, while Cee threw webs their way to prevent them from following.
+
+After dodging three more of the corrupted freaks, Liora finally reached the main chamber. She couldn't see much of it, because the thick miasma covered everything. Gruggled rasps of fishpeople came from somewhere within, but Liora ignored them and instead gave her Treasure Sense a strict order.
+
+I desire the source of the corruption. I want it more than anything. I need it!
+
+Her Treasure Sense didn't betray, instantly pointing her in the right direction. A corrupted freak jumped at her in an attempt to take a bite of her wing, but she dodged, and Cee followed with her frost web, attaching one to the fishperson and the other to the ceiling to which she jumped up to. It instantly began freezing, making the ugly, nasty thing struggle in place.
+
+They continued at the same pace, with Cee jumping up or down Liora's back to set her frosty webs and hinder the corrupted foes. Eventually, Liora reached the source.
+
+It was a bracelet with four large, black stones embedded in it, all spewing copious amounts of miasma. Liora didn't hesitate and set out to Purify all four. When she hit each stone the first time, the miasma stopped, although the stones remained black. When she hit them the second time, a small sliver of color appeared through cracks.
+
+Liora was so focused on her task that she didn't even pay attention to her surroundings. She trusted Cee to keep her safe. Even when a loud explosion resounded nearby, she kept purifying the stones.
+
+She feared that there wouldn't be enough mana to clear them all, but then a bright light erupted from the bracelet, throwing Liora some distance away. Miasma disappeared in an instant, as did the fishpeople who were hit by the light and cleansed, leaving only glimmerstones behind.
+
+"Holy… You actually did it!" Cee cheered, although Liora saw that she had injuries on her body. Nothing too bad, but she definitely needed a potion.
+
+"Not my first time…" Liora said, although she felt completely drained.
+
+Curiously, she took a closer look at the bracelet. Each stone was shining with a different light: red, green, blue, and yellow. It was incredibly pretty. So shiny, so nice.
+
+Before Liora could help herself, she grabbed the bracelet and stashed it in her Inventory. A prize for a job well done. Renir wasn't here to stop her either, and once he woke up complaining about this being a national treasure or something like that, it would already be too late.
+
+"Wow, look at all these glimmerstones. I didn't even realize there were so many," Cee said.
+
+"I'm more surprised by the amount of webs in here," Liora pointed out, then realized that Morgana and her crew would be here soon. "Quick, gather the glimmerstones before we need to share."
+
+"But there's quite a lot. Wouldn't it be alright to share a little—"
+
+"If you're not taking them, I will," Liora said and began gathering.
+
+"Hey, no! I saw you grab three! We're splitting these fairly!"
+
+By the time Morgana arrived, all the glimmerstones were gone, and Liora was sitting satisfied, cleaning her feathers. She had picked around 60 glimmerstones, bringing her total stash up to 745 and her boost provided by Glimmerlust to 22,35%. She was rather proud of that number and couldn't wait to tell Renir all about it.
+
+"They… they purified the miasma…" The swordsman gaped in shock.
+
+"What are you so surprised about? You'd already seen the bird use holy magic. I do wonder what the source of it was," Morgana said, walking up to Liora.
+
+"Bracelet," Liora replied.
+
+"Hmm… And where is it?"
+
+"Broken," Liora lied without a second thought. She thought she saw Cee giving her the stinkeye, but it was hard to tell her spidery expressions apart.
+
+"I suppose we can't do anything about it. Let's return to Abylport and see how the situation changes there. We'll send a research crew here later," Morgana said.
+
+Liora had no issue with that. She had fixed the city; now she just had to get their talons on Resonance Crystal somehow. Would it take long for those merchants to return? Liora hoped not, because she felt she had exposed herself too much to Morgana.
+
+"And you, little beasties," Morgana said, turning to Liora and Cee. Before Liora could blink, Morgana was right there, having grabbed her firmly by her talons while holding her wings with her other hand, preventing her from flying.
+
+Liora cawed loudly at the woman, trying to break free of her grip, but she was surprisingly strong for a human.
+
+Cee was scuttling around in panic until the archer threw a net over her, trapping the spider.
+
+"Scum! Traitor! Let go!" Liora screamed at Morgana.
+
+"Calm, calm! I don't intend to hurt you. But you two are a bit too amazing to be just let go. We're going to take you with us and figure out what you two are. I mean, an eagle-looking bird that caws like a crow and spews holy magic isn't something you see every day. Neither is a spider that can talk," Morgana said.
+
+"Ungrateful humans! I shall tie webs in your underwear!" Cee hissed.
+
+"Are you sure we should be handling them so roughly?" The lancer asked.
+
+"I don't want webs in my underwear…" The swordsman added.
+
+"Nobody is getting webs in their underwear. We just want to figure out what these monsters are and why they are so advanced and… human-like. Now, back to the ship."
+
+Despite Liora's best efforts, she wasn't able to break free from Morgana's grasp. She had hoped that once they got out of the caves, she'd be forced to do so to fight with the fishpeople.
+
+But with miasma gone, it seemed like some spell had been lifted. The fishpeople were gone.
+
+I'm back! What did I— Holy shit! Why is Morgana holding you like that?
+
+She wants to study me, apparently. Renir! I cleansed the corrupted bracelet thingy, and all the fishpeople disappeared, even the ones that weren't corrupt.
+
+There were corrupted fishpeople? Nevermind that. Did you take the bracelet with you?
+
+Maybe…
+
+It was likely set as the dungeon core. I'm frankly surprised you managed to cleanse it…
+
+It wasn't easy.
+
+Hmmm… I suppose you have gone through an evolution since Blightpeak. Makes sense that you'd be able to cleanse a weaker dungeon core. Once you remove it from its designed place, you also stop the production of the monsters.
+
+Production?
+
+Yeah, those fishpeople weren't natural monsters, but rather dungeon monsters. The moment the dungeon core was removed, their essence dispensed.
+
+Okay. I suppose it's logical… But how do I get free?
+
+Liora did her best to struggle against Morgana, but the woman held her firmly. She was too tired to fight back in earnest. Maybe the smartest thing to do was wait for the right opportunity.
+
+Looking at the Cee, the spider had already woven a protective cocoon around herself, despite being within a net.
+
+"Don't think ill of me, birdie. I do appreciate what you did, but as one of the Pillars, I can't just let you fly off without figuring out what you are and how dangerous you are. Not to mention that we are currently in desperate need of holy mages. Perhaps, we can make a favorable arrangement?" Morgana said as she walked towards the shore.
+
+"I don't work with those who trap me," Liora spat.
+
+"Neither do I!" Cee added, muttering from within her cocoon.
+
+"There, there, beasties. I'm sure we'll work something out."
+
+Ugh… I never did like her.
+
+I don't like her either!

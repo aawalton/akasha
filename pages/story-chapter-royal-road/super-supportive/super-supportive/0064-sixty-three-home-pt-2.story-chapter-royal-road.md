@@ -1,0 +1,519 @@
+---
+id: 23a28ee9-8189-5607-bd8c-35aef6ecbbac
+page-type-slug: story-chapter-royal-road
+title: "SIXTY-THREE: Home, pt. 2"
+slug: 0064-sixty-three-home-pt-2
+partOf: super-supportive
+position: 64
+ownLength: 5179
+unit: words
+publishedAt: 2023-08-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1307349/sixty-three-home-pt-2"
+royalRoadId: "1307349"
+---
+
+Alden stood in front of Stuart’s door, pondering what to say. Visiting him wasn’t a requirement for this special quest, but it had obviously been what she wanted. And Alden felt like she’d been treating him better than she had to, maybe even better than she should have, and he figured he should do the thing right in return.
+
+He tried to remember his first impressions of the Artonan boy and combine them with his newest one.
+
+He’s really, really serious about things I barely understand. And, I think, the guy is socially awkward by both Artonan and Earthling standards. Plus, he’s grown up in what’s obviously a high pressure environment even if most people seem to be in chill mode here this evening.
+
+I don’t know what to do with all of that.
+
+“You know,” he whispered, “I’m not sure I’m the correct person for a…a friend-making mission at the moment. I’m probably off personality-wise myself right now.”
+
+He’d thought he was dying. Then he’d felt like he was dying. Then he’d gotten to talk to Aunt Connie. Chicago still existed. Earth was still blue. Alden was spying on the Primary’s family. He wanted to go home and see everyone and stand under his own planet’s sun, and simultaneously, he wanted to be all alone in a dark room for a few weeks.
+
+Nothing felt quite right or real.
+
+He decided he would just knock, say, “Hello, please help me get back home,” and figure out how to be friendly to Stuart from there based on the guy’s reactions.
+
+He knocked.
+
+He heard the sound of footsteps, then a boy several inches shorter than him opened the door. He was in the pared-down version of the wizard’s uniform that students wore at LeafSong, and he had thin gold rings wrapping both of his irises, which were a slightly unsettling bright rust color.
+
+His shoulder-length brown hair was still sporting the dramatic and unflattering style he’d adopted for mysterious reasons in the wake of the mishnen incident. Half shaved bald, half French braided.
+
+“Hello,” said Alden.
+
+Stuart’s pale face paled further. He opened his mouth slightly, closed it again, and then, without blinking, he slowly shut the door on Alden.
+
+And did not re-open it.
+
+“That wasn’t one of the reactions I’d planned for,” Alden muttered, staring at the brown wood. He waited a couple of minutes, then knocked again.
+
+“Stu-art’h?” he said, talking in the direction of the door’s access panel on the off chance it worked like an intercom. “Hi. It’s Alden Thorn. We’ve met before. I think you probably remember. Um…I brought you third meal.”
+
+He paused, knocked some more when there was no reply, and then added, just in case it wasn’t clear, “I’m not dead. I am here at your house unexpectedly, though. Sorry if I scared you.”
+
+The door finally slid open again.
+
+“I did not succumb to fear,” Stuart said quickly.
+
+Sure you didn’t.
+
+Alden held up the meal container. “…let me in your room?”
+
+The Artonan boy hesitated, then stepped aside.
+
+All of the places Alden had seen so far during his work as the room service guy had been customized for their occupant, and this one was no different. But Stuart’s tastes were unusual. He had almost no furniture and a ridiculous amount of floor space. Everything functional was tucked into a wall nook, from a standing desk with a pair of screens over it to his bed.
+
+He had plenty of square footage for an entire living room set, but he’d opted for nothing but a bare wood floor.
+
+“Where do you want your food?”
+
+“Put it anywhere.”
+
+The only place in the room that wasn’t neat as a pin was the desk, and it was covered in some delicate-looking glowing glass thing that might have been anything from an art piece to Stuart’s schoolwork. Alden wasn’t going to risk knocking it over, so he set the container the only other place he could.
+
+The floor.
+
+When he turned around, he found that Stuart had sneaked up behind him. To stare. They were standing half an inch apart.
+
+“Oh. That’s close,” said Alden, taking a step back.
+
+There were splashing sounds coming from a closed door to his left. Maybe Stuart had left the bath running?
+
+“The entire campus heard you died on an assignment for Superior Professor Ro-den. I had someone check, and the likelihood of your survival was so low that no resources would ever be wasted on a rescue attempt. You are probably not really here.”
+
+Startled, Alden asked, “What do you think’s happening right now, then?”
+
+Did Artonans believe in ghosts? Kibby hadn’t mentioned it.
+
+“I believe I am <<hallucinating>>. As I used to in my childhood. It’s probably been brought on by the stress of socializing with my university peers. If I converse with you, I will detect more and more flaws in your presence, and then you will vanish.”
+
+He’d had hallucinations as a kid? In that case, he was handling Alden’s arrival shockingly well. He had to be freaking out right now.
+
+“No,” Alden said hastily. “You won’t detect flaws in my presence. I promise. I’m really here.”
+
+Stuart narrowed his eyes. “You speak Artonan. You did not previously. That is a flaw.”
+
+“No, it’s not! I’ve been speaking nothing else for the past several months while I was trapped on Moon Thegund with an Artonan and no Contract translation. Listen to me. I’m sure I have an unusual accent. Would a hallucination have an accent?”
+
+Alden thought this was a good argument, but Stuart didn’t agree.
+
+“The Thegundese accent is distinctive. As are some of the human quirks of your speech. I think I am fully capable of hallucinating those.”
+
+Alden grabbed him by the shoulders.
+
+Stuart looked startled. Then he said, “Avowed do not usually <<initiate>> contact like this with wizards. That is a fl—”
+
+“It’s not a flaw. I totally slapped you in the nose once,” Alden said in English. “And I called you a prick in front of your friends. Listen…you’re not crazy. I am really here. I was on Moon Thegund. I ran into your aunt, Knight Alis-art’h. I’m sure you know she’s there doing something dramatic to the dirt. She used a creepy teleportation chamber on her spaceship to send me here. I was supposed to die for real, but I didn’t. Instead, I landed in your forest. Since you’re the only person nearby who I know, I thought I would come see you and say hello and ask if I could use your family’s summonarium to go back home to Earth. Please.”
+
+He managed to get it all out in a single breath, before Stuart could imagine any more flaws.
+
+“Aunt Alis.” Stuart blinked for the first time since Alden had stepped into the room, then he stared down at the floor for a second and back up at Alden. “I did think your clothing choice was peculiar for a hallucination. I would not normally imagine something that looked quite like…that. Did you say my aunt teleported you here?”
+
+“She teleported me, and here is where I ended up.”
+
+“But not in our summonarium?” Stuart said slowly. “In the trees?”
+
+“Yeah. A few miles away.”
+
+Stuart’s fairly neutral expression underwent a rapid transformation, shifting through several different emotions so quickly that Alden wasn’t sure he caught them all. Shocked, worried, confused, worried…happy?
+
+He settled on something that looked like a cross between nervous and happy, and he stepped out from under Alden’s grip on his shoulders.
+
+“You walked here to say hello to me.” He sounded both pleased and surprised.
+
+Out of everything Alden had just told him, he was sure that should have been the least noteworthy thing.
+
+“You are my guest.”
+
+Stuart said ‘my guest’ the way Kibby said ‘my magic lesson’. The phrase had just a little too much fervor behind it for it to come across as normal.
+
+The Primary’s son clasped his hands together in front of his chest. “You have traveled a long way,” he said formally. “May I offer you a cup of wevvi?”
+
+Alden closed his eyes for a moment. Of course there has to be wevvi.
+
+“I’d love one.”
+
+********
+
+Wevvi at Stu-art’h’s house was an elaborate affair. He hurried from the room, leaving Alden to stand awkwardly in the barren space listening to the mysterious splashes from the bathroom, and then he reappeared several minutes later with a silver cart full of supplies. Fresh wevvi fruits that resembled white papayas went into a press, then the juice went into a pitcher that looked like it was made of pink quartz, and then about twenty different spices, each selected from its own little silver bowl with a pair of tiny tongs, got dropped in with it.
+
+There was a somewhat mesmerizing chanting session over the pitcher, and then it started to steam.
+
+Despite the amount of effort involved, Stuart worked quickly, and with a kind of precision that made Alden think he was probably doing everything in a specific, mannerly order.
+
+When it was done, Alden took a sip from a cup that matched the pitcher. They were both sitting on the floor. Alden’s new messenger bag full of books was beside him, and Stuart was across from him, watching him closely over the top of his own drink.
+
+“This is actually good.” Alden examined the wevvi with surprise. “Really good.”
+
+The Artonan boy looked proud. “Yes. Guests of the household always say that! Most people have only tasted the artificial kind. There aren’t enough orchards to produce the fruit, so it’s usually reserved for ceremonies.”
+
+“This kind isn’t so slimy.”
+
+“I hate thick wevvi,” Stuart said with a deadly serious expression on his face. “I always feel as though I am drinking someone else’s saliva.”
+
+Accurate. If the saliva was boiling hot and sweet.
+
+“It’s all they ever gave me at LeafSong,” Alden said. “And we had the same kind on Moon Thegund.”
+
+“I had to drink eight cups before first meal one morning.” Stuart shuddered. “When I was meeting with faculty members to make special arrangements for my classes.”
+
+Alden raised an eyebrow. “Can’t you refuse?”
+
+If the son of the Primary couldn’t, then was anyone safe?
+
+“Now that I have <<established>> myself as someone who doesn’t refuse a beverage of welcome it will mean things to people if I do.”
+
+He sounded frustrated.
+
+Alden finished his cup, and Stuart jumped up to serve more.
+
+Alden was under the impression that they were still in the “making small talk” portion of their wevvi-drinking party, so he cast around for something to say. They didn’t have many points of connection to work with. The only thing he could think of…
+
+“How’s your foot?”
+
+Stuart looked down at the foot in question. He was wearing socks, so Alden couldn’t tell what it might look like underneath.
+
+“There is some lingering nerve damage,” Stuart said dismissively. “I will have it healed after I have finished contemplating my errors, weaknesses, and <<misconceptions>> from that day.”
+
+Yeah. There’s that…unique outlook on things.
+
+“Not to be rude,” Alden said hesitantly, “but wouldn’t it be all right to have it healed, and then continue contemplating?”
+
+“Do you still think I’m being a prick?” Stuart said in a slightly injured tone as he passed back the fancy cup.
+
+“You learned to say prick in English?”
+
+“I accessed the human internet in order to research all possible <<connotations>> of the word as part of my contemplations.”
+
+Alden almost spat wevvi across the room.
+
+“Don’t do that!” he said, aghast.
+
+He had never met someone who belonged on the internet less.
+
+“Why not?” Stuart looked at him closely. “It must have been an important insult for you to have so bravely given it. And cultural research is best <<pursued>> through <<native>> sources.”
+
+“Noooo.” Alden wanted to melt into the floor. “Listen, you’re giving me way too much credit for bravery. And presence of mind. And accurate word choices. I had one thing I was capable of doing to help you, and you wouldn’t let me do it. So I was frustrated and uncomfortable, and I insulted you because I couldn’t understand you.”
+
+Still don’t understand you.
+
+“There wasn’t a lot of thought put into it on my end of things,” Alden concluded. “So you definitely shouldn’t put so much into it on yours.”
+
+Stuart looked unconvinced.
+
+“I don’t think you’re a prick.”
+
+“The internet said—”
+
+Alden waved a hand as if he could erase the internet from Stuart’s mind.
+
+“I’m me. We should trust me to interpret me, and leave the internet alone. During the thing with the mishnen, I was thinking, ‘Oh no! A killer fish. Yikes! A boy with a missing foot! I think I should take the boy with the missing foot to a House of Healing. Why is everyone here trying to stop me from doing that?!’”
+
+Stuart sat back down and scanned Alden with his eyes like he was trying to memorize every dirty thread of the Hawaiian shirt.
+
+“Is that all you thought?”
+
+Alden almost said ‘yes,’ but Stuart was a person who had taken a single insult so seriously that he’d spent the past several months researching it. Maybe it was better not to leave him to come to any conclusions on his own.
+
+“I had a lot of thoughts. But they were based on ignorance, guessing, and stress. If you want to know what I think about things now, when I’m actually calmer, you should just ask me.”
+
+Stuart nodded.
+
+Alden waited.
+
+No questions came.
+
+Guess he doesn’t want my opinions on his actions, after all?
+
+Fine then. Time to change the subject. “How’s school? Congratulations on passing your entrance exams, by the way.”
+
+“I did pass them,” Stuart said, as if he thought Alden might have doubted it.
+
+Well, Joe had said he’d be let in the school even if he failed, so maybe some people assumed favoritism?
+
+“I am in the top seven percent or better in all of my classes.”
+
+“Cool.”
+
+“I have not invited a guest to the <<Rapport>> from among my classmates. I planned to. But then nobody was exactly what I was expecting. And bringing people here…it is delicate.”
+
+Alden could imagine like eighteen different ways for Stuart interacting with his classmates to be “delicate.” But it still shouldn’t be that hard to invite a friend over for a weekend sleepover, or whatever the alien equivalent was. His family was operating on a different level, but they didn’t seem like they were impossible to get along with.
+
+“Guess I kind of invited myself over,” Alden said. “Sorry about that. Consider it a trial run.”
+
+Stuart blinked at him. “I will.”
+
+Alden finished off the second cup of wevvi.
+
+“I should have asked if you were all right,” Stuart said suddenly.
+
+“Hmm?”
+
+“You just teleported from a chaos incident. Into the forest. I should have asked if you were all right, but I was focused on my own state of mind. And then I was excited to have a guest.”
+
+Guests are so dang important to him.“It’s okay. Don’t worry about it.”
+
+“Are you?”
+
+“What?”
+
+“Are you all right?”
+
+“I’m good.”
+
+“You are very dirty.”
+
+“Well, I ran across a lot of a moon in this shirt. And then I…fell down when I arrived.”
+
+Stuart tilted his head. “Were you injured on Thegund?”
+
+Alden glanced down at himself.
+
+“Yeah. I was. But I’m fine now. You don’t need to worry. Your aunt’s icorlax healer took care of me for an entire week. Rrorro. It was quite the experience. And I’m healthy now.” Alden looked at Stuart’s foot pointedly. “Getting fully healed doesn’t prevent contemplation.”
+
+The boy sighed. “My family says the same thing.”
+
+“Then why—”
+
+“It’s an ancient <<practice,>>” he said in an annoyed tone. “I wish to follow it. For multiple, long-considered personal reasons.”
+
+Alden examined him for a moment.
+
+“Yeah. It’s your decision. Sorry I brought it up after you’d already told me what you were doing.” He snorted. “I guess that was me being a prick.”
+
+Stuart looked surprised. Then, he smiled. “You are different than I thought when I first—”
+
+He was interrupted by a loud thumping sound from the door where the splashing noises had been coming from all this time. Alden glanced over.
+
+“What’s in there?”
+
+“It’s…an indoor <<habitat>> for my pet.”
+
+More thumping. Scratching sounds. A plaintive trill.
+
+“It sounds like it wants to get out.”
+
+“She does. I usually take her out for flight training in the evenings. She has excess energy, and it is necessary for her development at this age. She thinks I’ve forgotten.”
+
+Flight training?
+
+“Oh! Is she a ryeh-b’t?” Alden asked, the spark of an old interest rekindling. He had wanted to see one in person, but although they were supposedly common pets, he hadn’t managed to spot one during his entire time at LeafSong.
+
+Stuart nodded. “I bought her egg several months ago.”
+
+“Can I see?”
+
+The Artonan boy stood up. “You should stand against the far wall I think. She’s never smelled a human before. She might be scared of you.”
+
+Alden did as he was told, and a moment later, a scaled, horned, spiny thing with large wings hopped and flapped its way across the room straight toward him. The ryeh-b’t was about twice the size of a full grown cat. She looked a little like a dragon, but with smaller forelimbs than hind ones and more of a naturally upright stance that reminded Alden of bipedal dinosaurs.
+
+She was bright red, with blunted gold caps on her claws to keep her from scratching up the floors, and she sniffed Alden’s knees and made a gurgling, enthusiastic squawk at him.
+
+“Look out,” said Stuart, hurrying over. “She’s going to—”
+
+The ryeh-b’t half-flapped, half-clawed her way up Alden’s body to rest all fifteen or so pounds of herself on top of his neck and shoulders while he hunched over trying to figure out how you were supposed to hold an animal shaped like this anyway.
+
+Pretty sure this isn’t the way, he thought in amusement, as the ryeh-b’t lost her grip on him and tumbled to the floor.
+
+“Don’t climb him,” Stuart said in exasperation, grabbing the creature by one of the large hind feet and letting her hang upside down from his fist like a huge red bat. “You are too big for that now.”
+
+Alden stood up and examined the animal with interest. The ryeh-b’t was damp all over, and through the open door, it looked like she had a whole terrarium and pool situation going on in her special room.
+
+“She’s awesome!”
+
+“She’s a large <<breed>>. Much faster and stronger than usual,” Stuart said, lifting her proudly. “The message carrying and flight competitions are only for child trainers, but I am teaching her anyway because exercise is good for her.”
+
+Kawaahh! the ryeh-b’t said exuberantly. She seemed to like dangling upside down.
+
+“I do not think it is immoral to ask a healer to extend her lifespan,” Stuart said, as he stroked the shiny scales on the ryeh-b’t’s neck. “So we will be together for a long time. And she likes the forest. I will import appropriate small <<game animals>> for her to hunt when she is responsible enough to feed herself.”
+
+It was the easiest conversation topic the two of them had found, so Alden leaned into it. He asked every question he’d ever had about ryeh-b’ts and got lots of detailed answered from Stuart, who was now letting the animal drape herself over his head despite what he’d told her about being too big for that kind of thing a moment before.
+
+One of her wings was blocking half of his face, and she was gnawing lightly on his ear.
+
+“I can’t believe I didn’t ask to start with,” said Alden. “The most important question. What’s her name?”
+
+Stuart stiffened up like a board.
+
+Alden frowned. “I mean…unless ryeh-b’ts don’t usually have them?”
+
+Suddenly, the Artonan was blushing so hard his neck had gone from having a purplish undertone to being actually, undeniably purple.
+
+“She has a name!” he croaked.
+
+“Okay…”
+
+“It’s a normal name.”
+
+“Right. What is it?”
+
+Stuart’s one visible eye shot up toward the ceiling, then down toward the floor, then off to the side like it was looking for answers around the room.
+
+“Ryeh-b’t!” he shouted.
+
+And then he closed his eye, and his whole face dropped. Like he wanted to die on the spot.
+
+“You’re…you’re not great at lying, are you?”
+
+Stuart’s face was continuing to grapify.
+
+“I have endeavored not to do it for so long that I believe I have lost the <<knack>> for it,” he said faintly. “If I ever possessed it.”
+
+“You don’t have to tell me her name if you don’t want to for some reason.”
+
+Maybe he was one of those people who gave their pets stupid names on purpose and he didn’t want to reveal that?
+
+But then some of Alden’s brain cells sprang to life, and he remembered Rel-art’h, just an hour or so ago, saying Like the ryeh-b’t? after Alden had introduced himself.
+
+Stuart said he got her egg a few months ago…
+
+I knew it was weird that Rel-art’h recognized my name!
+
+“Did…did you buy a pet and name it after me when you thought I’d died?” Alden asked, managing to hold back actual laughter but not his amusement. “Why would you do a thing like that?”
+
+She had said Stuart was upset Alden had died, but Alden hadn’t taken it that seriously.
+
+“I’m so sorry,” Stuart whispered. “I humbly apologize. I am very sorry. I—”
+
+“I don’t mind at all. I think it’s funny but not in a bad way. I just don’t understand.”
+
+He reached out cautiously and patted the ryeh-b’t’s warm, smooth wing.
+
+“You’re a good girl, aren’t you, Alden?” he said, just to prove he didn’t have a problem with it.
+
+At the petting and the sound of her name, the ryeh-b’t trilled.
+
+Stuart’s eyes were still clenched shut. “I thought…it was awful and sad that you had died. And that nobody on the Triplanets would mourn you. And I thought, maybe, based on things you had said during the incident, and my father had said in its aftermath, that I might have made the last few days of your life worse. So I decided I should mourn you.”
+
+“It was only a couple of bad hours. I don’t think you should take credit for ruining entire days of my life.” Alden paused. “And you weren’t enjoying yourself either. Unless you liked having a limb eaten. And then exploded.”
+
+“I didn’t. I’m not a <<masochist>>.” Stuart finally opened his eye. “I researched on the internet how to mourn a human—”
+
+“Listen. You need to send me a message in the future every time you use Earth’s internet, so that I can offer you some perspectiveon the things you might read there.”
+
+“Initially, I favored a funeral service in which a boat with your body in it was set adrift and lit on fire. Though further research indicated that was not a traditional or common method—”
+
+“That would have been so much cooler than what my school did.”
+
+“As an alternative, I read that I could name my first born after you,” said Stuart. “But we didn’t know each other that well, and people should choose their own mourning names if they want to. Not have them bestowed by their parents. And I have already taken my own.”
+
+Some Artonans took a mourning name in honor of a person who had died. It went at the beginning. Like the “Worli” in front of Joe’s name.
+
+“So instead you bought a ryeh-b’t,” Alden concluded.
+
+“It occurs to me now that you might find this insulting,” said Stuart. “My family thought it was weird. I meant well, but if you hate it—”
+
+Alden lifted the wing covering Stuart’s face. “I like it,” he said slowly. “It was a little weird. And it was also kind. I really doubt anyone else apart from my aunt and my friends cared that much that I was gone.”
+
+Stuart stared at him.
+
+“Can I try holding the ryeh-b’t upside down now? I feel like I should be allowed to. For obvious reasons.”
+
+********
+
+After that, Stuart didn’t want to let Alden leave. He didn’t say it. But it was clear. He kept finding excuses to talk about new subjects whenever the conversation hit a snag.
+
+Alden didn’t know why the Artonan was so eager for company when he lived in a sort of mini-neighborhood packed with relatives and other “household members.” But he did discover that Stuart had never really interacted with people outside of the community of Knight Rapports. He’d lived here and gone to school here, and it was only now that he was in the wizard version of college that he was actually meeting the rest of the world.
+
+He seemed conflicted about the other students at school.
+
+Alden couldn’t begin to unravel the nuances, but it seemed like they weren’t what Stuart had hoped they would be and hewasn’t what they’d hoped he would be, and everyone was mutually disappointed in each other.
+
+Finally, with a great deal of regret in his voice, Stuart said, “You wanted to go home. I shouldn’t keep you here all night.”
+
+Alden gave his namesake one more scratch on the chin and stood up. “Yep. Spent half a year in a corruption field. Now I get to rest.”
+
+“You look like you need rest.”
+
+“One of those twins down the hall said that.”
+
+“They’re my cousins. Aunt Alis’s daughters.”
+
+Alden turned to the door.
+
+“Let’s go out the window,” Stuart said suddenly. He strode over to what Alden had thought was a blank stretch of paneled wall and pressed his hand to a spot. The wood slid back to reveal a wide window with an expansive view of the surrounding forest.
+
+“Why don’t you keep that open all the time?” Alden asked, surprised.
+
+Half a second later, the other Alden crooned and raced across the room to leap at the window. Stuart grabbed her just before she could smash into the glass.
+
+“Never mind. That answered my question.” He watched the Artonan boy drop the ryeh-b’t into its habitat. “Why go out the window, though?”
+
+“If my family realizes that you are just here instead of here after being summoned, they will want you to form a contract with someone.”
+
+At Alden’s alarmed look, he hastily added, “Only the standard Privacy of the House agreement. It’s like a promise not to share certain kinds of personal information you might learn here. Anyone who works for us has to do it. I could argue that you are my guest, and therefore should be exempt, but I’m not sure…”
+
+That was no big deal. Except that it was.
+
+Alden wasn’t sure, but he thought that forming a contract might hurt like hell right now.
+
+“The window sounds like a fantastic idea.”
+
+It was too dark for Alden to see outside, but Stuart cast a spell to increase his own night vision and reported when the coast was clear. Then he casually jumped out of the second floor window and landed on the ground below like it was only a short hop.
+
+Alden didn’t think it was an ankle-breaking distance, but it still shouldn’t have been that easy.
+
+The guy supposedly has physical enhancements, he remembered.
+
+Alden jumped too. He landed well, but it still sent a jolt through his skeleton. He grunted.
+
+“I should have cast a spell on you,” Stuart said apologetically.
+
+“No. I’m fine.”
+
+The summonarium was a fairly long walk away down a winding path. It was almost as large as the one at LeafSong.
+
+“Is it so big for teleporting in giant things? Or large numbers?” Alden asked as they entered.
+
+“Either. It’s also easier to make them extremely powerful if they’re large.”
+
+He pointed toward a big runic design, and Alden went to stand inside it.
+
+“You should be getting an option to teleport away from there?” Stuart’s tone was curious. “I can’t initiate a cycle for an Avowed myself yet. But even if there was some reason for it not to directly teleport you out of the woods, the Contract should have already forced you to…<<shoo>>?”
+
+Alden had known that it wasn’t normal for him to have unlimited wandering rights on the Mother Planet. He adjusted his grip on his bag.
+
+“It’s giving me an option,” Alden admitted. “But no timer. Maybe it thought I deserved some space after everything that happened.”
+
+Stuart blinked. “Maybe it did.”
+
+“Bye.”
+
+“Goodbye.”
+
+“Teleport to Anesidora,” Alden said, bracing himself.
+
+[Teleportation in 19 seconds]
+
+“In a few months,” Stuart said suddenly, “I will probably have…a lot of time off from school. I think I will use it for cultural studies. I know you will still be on your official leave. But maybe I could arrange for you to come over then. And you could help me learn about human culture. If you wanted to be my guest again…”
+
+Alden considered it.
+
+“I would like that. But, we’d need to plan it out in advance. And agree on exactly how long I’d be here. Maybe just on one of my weekends or something. I’m going to have school and life and stuff going on, too, you know.”
+
+Stuart looked happy. “I know.”
+
+What an unexpected ending to my first trip as an Avowed.
+
+The teleportation hit him, and he was suddenly in the nothingness, where before there had been that completely baffling sense of his own authority wrapped around him and whatever he carried like a cocoon.
+
+It was different now.
+
+He could feel the shape of himself. Sore, grieving, enraged, struggling. Overly sensitive and feeling a little existentially electrocuted by the teleport because of it.
+
+But in a way, it was better like this.
+
+He was Alden Thorn.
+
+Whether his authority was bound into a skill or free, it was strong enough to keep him Alden Thorn through this. And through many other things, too.
+
+It was easier to understand that here.
+
+And then he was opening his eyes inside one of the teleportation bays on Anesidora. He took a deep breath. The air smelled like Earth.
+
+Earth totally had a smell
+
+He smiled at the plain metal door in front of him. What a beautiful thing to know.
+
+“Welcome to Anesidora, Mr. Thorn,” said a voice.
+
+It sounded like it might even have been the same woman who’d done his security check the last time he came. But she was more flustered now.
+
+“Um…just a minute. I see we’re expecting you. And this is your first arrival as an Avowed, but it’s also your first return from the Triplanets…that’s a new one for me. Let me call my supervisor about security procedures. Sorry for the delay.”
+
+“I don’t mind waiting,” Alden said. “I’m just really glad to be home.”

@@ -1,0 +1,153 @@
+---
+id: 59644786-d63f-5d47-8eb8-9402fb8281a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1274 - Two Awesome Options"
+slug: 0147-chapter-1274-two-awesome-options
+partOf: the-primal-hunter
+position: 147
+ownLength: 3201
+unit: words
+ownProgress: 3201
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3144163/chapter-1274-two-awesome-options"
+royalRoadId: "3144163"
+markedReadAt: "2026-06-29T19:34:57.252Z"
+---
+
+The bar had been set sky-high, so Jake’s expectations were at the peak when he moved on to the final profession on offer. Before he’d begun this evolution, he had predicted that he would most likely end up still being a Heretic-Chosen Alchemist of the Malefic Viper, the name even staying the same. No different from C-grade in that regard, with him also having expected the quality to jump up yet again.
+
+Given these expectations and not yet having seen the direct upgrade to his current profession, after viewing four options, he was sure the last one would be it. With it being ranked higher than Harbinger of Primeval Origins, he even expected it would be the one he ended up taking… before reading Harbinger anyway, because, damn, was it good.
+
+Good enough for Jake not to want a straight upgrade to Heretic-Chosen of the Malefic Viper anymore.
+
+However, when Jake finally went and saw the last option, he had to pause, genuinely confused for a moment.
+
+No direct upgrade?
+
+Jake was under the impression that one would always get a direct upgrade to one’s current profession at least somewhere during an evolution, but as he looked at the fifth and final option… that didn’t seem to be the case.
+
+Because rather than a direct upgrade, Jake got a legitimate contender for Harbinger of Primeval Origins
+
+Primeval Alchemist of Malefic Origins – You continue down your Path, embracing its paradoxical nature. You remain a Heretic-Chosen, working with your Patron to mutually benefit one another, yet you also start to explore powers from within yourself, independent of the Malefic Viper’s Legacy. Origins of Primeval nature are yours to explore, and not even the Legacy of your Patron is off limits. An alchemist you remain, not only fully dedicated to grasping all that the Malefic Viper’s Legacy can grant you, but going beyond even that. Find deeper secrets, uncover unknown mysteries, and truly comprehend the underlying concepts behind the Malefic Viper’s powers – perhaps even find that which the Primordial himself is yet aware of. Grants skills related to the alchemical profession, primarily focused on poisons while exploring the Malefic Viper’s Legacy, as well as skills related to your innate powers as a Harbinger of Primeval Origins. Embrace the paradox, explore Primeval Origins through alchemy, and begin to truly claim powers found through the Legacy of the Malefic Viper as your own. Stat bonuses per level: +175 Wisdom, +150 Willpower, +100 Perception, +100 Vitality, +60 Toughness, +125 Free Points (710 total).
+
+Reading it, Jake needed to take a moment as he first checked the stats it provided to get an idea of its tier. After doing some quick math, he saw that it gave just as many stats per level, 710, as Harbinger of Primeval Origins, making him consider that maybe this profession wasn’t superior. Instead, they were effectively tied.
+
+Comparing Primeval Alchemist of Malefic Origins to Harbinger of Primeval Origins also seemed pertinent in many other areas. Just their names alone were very similar, both sharing the words Primeval and Origins. Besides that, both were naturally about Jake’s Primeval Origin Energy and what it could do, with both even using alchemy to display this energy, though one definitely did so more. The one with alchemist in its name.
+
+Shaking his head, Jake refocused on the profession description from the beginning as he studied it closely, line by line. It immediately made clear that, despite Heretic-Chosen no longer being in the name of the profession, Jake very much still was one. It also pointed out that Jake had started to substantially branch away from only doing alchemy related to the Legacy of the Malefic Viper, even if Jake didn’t feel like he had.
+
+Most of the time that Jake crafted poisons, he used the Malefic Viper Legacy skills liberally. Shit, he nearly used all of them every time he crafted, recently even mixing in Invocation to make what he made even better. His ritual skill was also related to the Malefic Viper, and every single skill he’d selected during C-grade, besides Arcane Curse Manifestation, a skill he didn’t really end up using much, had “of the Malefic Viper” in their names…
+
+Yet the system had determined that his actions as a Harbinger of Primeval Origins rivaled what he’d done as an alchemist. If that didn’t speak to the Records involved in Jake’s use of Primeval Origin Energy, he didn’t know what did, but he did know that the majority came from three events. First was the birth and creation of Vesperia, then the Demon Prince turning into a Cerulean Demon Lord, and finally, Jasper, the little Warpsnatcher Jake had helped from the Pantheon of Life, who was now out adventuring with the Seeker.
+
+There were more minor uses of Primeval Origin Energy than this, but these three were definitely the main factors.
+
+Continuing down the description, it even started talking about Jake using his abilities to explore the Origin of the Malefic Viper’s Legacy, something Jake hadn’t even considered doing… unless…
+
+Jake frowned as a thought struck him. A theory of sorts that got stuck in his mind the moment it appeared.
+
+What if Jake had used Primeval Origin Energy more times than he thought he had? What if he had a skill that used this energy, all the way back in D-grade, just without realizing it? The more he thought about it, the more it seemed to fit, as he thought of what had to be considered the signature skill of Jake’s Path as a Heretic-Chosen… quite obviously so, given the name.
+
+[Path of the Heretic-Chosen (Unique)]
+
+This was a skill that had allowed Jake to upgrade his Malefic Viper Legacy skills so many times, and even given him the chance to meet the First Sage, which, when he really thought about it, didn’t make any fucking sense in the first place.
+
+It was a unique skill, with the system even talking about how it allowed him to experience the actual past. Not just a memory of it, or someone’s reconstructed version, but the Records themselves that made up such a moment in time.
+
+Primeval Origin Energy wasn’t necessarily related to the concept of time, but it was associated with the concept of history. The Origin was the beginning of history, and while Path of the Heretic-Chosen didn’t take Jake all the way back to the Origin of something, it did take him back some of the way towards an Origin. Additionally, everything Jake saw that pertained to the Malefic Viper was essentially Jake witnessing a part of a Legacy Skill’s Origin, as the Primordial was naturally the Origin of all his Legacy skills.
+
+So... what if Path of the Heretic-Chosen had used Jake’s Primeval Origin Energy all along to power its usage? What if it had passively reserved some of his energy to use as “charges,” all directed by the system? If that were the case, it would help to explain why Jake even had a skill like this in the first place.
+
+Given the multiverse's extremely long history, others should have had similar experiences before, right? Jake had thought about this before, but he had seen himself satisfied that it all came from his unique status as a Heretic-Chosen. Which again didn’t make much sense.
+
+Something that also didn’t make sense the more he thought about it was the entire concept of it using charges in the first place. Jake did know there were other such skills, but usually, one had to do something special to get charges back. Methods such as infusing energy into the skill until one reached a certain threshold, or maybe consuming specific items to power up the skill and gain a charge. Things like that.
+
+Meanwhile, all Jake had to do was gain levels. Levels were an expression of Jake gaining experience and Records, and, as Jake also now knew, this process produced Primeval Origin Energy. So, considering that, wouldn’t it make sense that the energy to create the charges for Path of the Heretic-Chosen could have come from Primeval Origin Energy?
+
+In some ways, it felt like a reach, but the system could clearly replicate and even use every aspect of his Bloodline in certain situations, Sim-Jake being simulated living proof of that.
+
+If Jake was correct that Path of the Heretic-Chosen relied on Primeval Origin Energy, a lot of things made sense, including why he was offered this profession and certain parts of the profession description. He had already started exploring the secrets of the Malefic Viper’s Origin, including the person Jake believed to be the most important subject of the Primordial’s rise to power: the First Sage.
+
+That man was a living mystery above anything else, and Jake believed he would learn more about the man if he continued to delve further into the Viper’s Path. Of course, assuming Jake was right about Path of the Heretic-Chosen using Primeval Origin Energy, there was a chance that even if he went with Harbinger of Primeval Origins, he could still use the skill and would continue to generate charges. Nothing said he couldn’t.
+
+Jake took a step back and returned to reading the Harbinger of Primeval Origins description again. Needless to say, he had already written off the first three options by now and was solely focused on either Primeval Alchemist or Harbinger. Re-reading Harbinger, Jake again wanted to pick it, as it seemed great... but checking back with Primeval Alchemist? Also bloody awesome.
+
+Ultimately, Jake had to admit that overall, the two professions were extremely equal, shared many common traits, but from the looks of it, had a couple of critical differences.
+
+Harbinger of Primeval Origins put the focus solely on exploring his Primeval Origin Energy. It was kind of in the name. Alchemy was just a tool, and further improvements of the Malefic Viper’s Legacy weren’t seen as anything important. Neither was his status as the Heretic-Chosen. It was all just there to support his role as the Harbinger.
+
+In return for it being this focused on Primeval Origin Energy, Jake didn’t doubt it would make him far better at using his unique energy. He would likely be able to help create or evolve way more creatures, would generate the energy faster, and would more likely than not find new ways to use it that he hadn’t even thought about before. There was definitely going to be a lot of ritual magic in there.
+
+Gaining experience would likely come primarily from using his Primeval Origin Energy in inventive or effective ways, providing way more levels than his current profession. Yet at the same time, he would earn way less for alchemy, doing Heretic-Chosen stuff, and things related to the Malefic Viper’s Legacy unless Primeval Origin Energy was somehow associated with those three, anyway.
+
+Meanwhile, Primeval Alchemist of Malefic Origins was far closer to his current profession. It remained an alchemy profession, with alchemy still a core part of the skill. Exploring the Legacy of the Malefic Viper was still an important part of it, so upgrading those nine skills would still give plenty of experience. The entire Chosen aspect did seem to get a downgrade compared to what he had now, though far less than Harbinger of Primeval Origins would.
+
+Seeing as Primeval Origin was an essential part of this profession, he would definitely get more experience for things related to that, though again, far less than with Harbinger.
+
+All in all, he would likely end up doing the same things with both, just with a shifted focus and a difference in what was considered most important for his progress. A part of him did fear that his alchemy would end up falling behind if he went with Harbinger, but at the same time, he feared missing out on unknown powers if he didn’t go with it.
+
+This was by far the hardest choice Jake ever had to make between any profession or class evolution. Both of them were truly awesome, and each had pros and cons compared to the other.
+
+If Jake tried to be objective, Harbinger of Primeval Origins was probably the best fit for him. It had manifested from who Jake was and his Bloodline. Meanwhile, Primeval Alchemist was far more tied to the Malefic Viper and alchemy as a whole.
+
+Jake got up from his bed and walked through the lodge as he thought, eventually going onto the porch and sitting down as he stared at the small waterfall and pond. It was serene, giving Jake some time to think. Both professions were so tempting, but what eventually pushed him towards one over the other was something external.
+
+As he sat there, he felt Villy’s passive observation and was reminded that, while this evolution was 100% his choice, he also wanted to consider its broader effect on others. Villy, first and foremost.
+
+The Primordial had helped Jake far more than Jake had helped him; that much was undeniable. Just recently, with Jake wanting to hunt a True Dragon, Villy had gone out of his way to secure hard-to-obtain alchemical ingredients and even found him a good target to hunt down. Whenever Jake had any questions, the snake god was willing to answer, and while he only sometimes gave answers, Jake knew the reason Villy sometimes held back was for Jake’s own sake.
+
+In the Profession Evolution flavor text, the system discussed their relationship becoming more equitable, though it was still far from equal. Jake knew that he was an investment for the Viper and that his progress would help his Patron, but he still felt that Villy had gone above and beyond.
+
+That’s why Jake always comforted himself with the thought that even if he, right now, didn’t do as much for Villy as Villy did for him, that would change at higher grades. While Jake would certainly still benefit the Malefic Viper, even if he became a Harbinger of Primeval Origins... picking it would also mean distancing himself significantly.
+
+Jake knew he would eventually have to make the Legacy of the Malefic Viper more his own than it was right now. Sure, one could ascend to godhood while riding on the coattails of a far more powerful god. In fact, it was easier to ascend that way, but it also nearly always resulted in one never being able to ascend beyond the god one initially followed. Jake was fully intent on not only matching but one day surpassing the Malefic Viper, and had always planned to fully lay claim to the Malefic Viper’s Legacy.
+
+But... going full Harbinger of Primeval Origins felt like a step too far. Primeval Alchemist of Malefic Origins was still taking a noticeable step away, making the Legacy more his own, but it was far less extreme. A middle ground between simply staying with the status quo and going with Harbinger.
+
+One day, Jake would have taken everything worth taking from the Viper’s Legacy and fully assimilated it into his own Path, but he wasn’t sure that day had to come quite yet.
+
+Everything else being equal, even if Jake was selfish in most things, he did consider the effect on those around him capable of tipping the scales. He also had some qualms about Harbinger that made him reluctant to take it.
+
+He feared the leveling would make it incredibly difficult unless he went on a spree to spread his Primeval Origin Energy across the multiverse. Jake knew there were a lot of factions who would want him to do precisely that, but Jake didn’t feel like it fit who he was.
+
+It was weird to say, but he wanted every instance of him creating or helping evolve another living being to be special. The only exception to that so far had been the Demon Prince, and out of all the times Jake had used his Primeval Origin Energy, that one still felt like the most questionable from a personal perspective.
+
+Sure, Jake technically didn’t have any inherent karmic connection to the creatures he helped, but that didn’t mean he wanted to splurge out Jake Juice all across the multiverse irresponsibly just to level up fast.
+
+With Primeval Alchemist, he could instead focus more on regular poisons and being Villy’s Heretic-Chosen while still making all his Primeval Origin Rituals special.
+
+Also, deep down, Jake wanted to stay an alchemist. Harbinger would slowly take him away from classic alchemy, and while Jake could probably force it to remain a core part of his Path, he didn’t want to force it. He liked alchemy. It was fun. Challenging.
+
+A fundamental misunderstanding many still had about Jake was that he lived only for combat. That wasn’t even remotely true. Jake lived for the challenge. He loved facing difficult challenges and overcoming them. That’s also why the Puzzle Box remained the greatest gift of his Chosen Ceremony by a landslide.
+
+Alchemy was challenging, and Jake liked seeing the fruits of his efforts when he finally finished a good concoction. The satisfaction only grew when he then took that hard-earned poison and used it on an enemy, also taking down a challenging opponent.
+
+One more concern Jake had about Harbinger before not long ago, was that choosing Harbinger would make it harder to see more of the First Sage, but now he believed it was possible with both professions. Primeval Alchemist would likely be better at it, though, due to its connection with Villy.
+
+Again, Harbinger of Primeval Origins remained a fully valid choice, and if Villy wasn’t a factor, Jake could legitimately have ended up just flipping a coin.
+
+Jake took a deep breath and walked over to the pond. He stood there for a few moments and looked down at it before sighing. His instincts were silent, leaving the choice entirely up to Jake, and in the end, he ended up selecting the one that would disappoint most major factions in the multiverse, but also the one that Jake believed was best for now.
+
+Oh, yeah, and one really important thing also pushed Jake to this choice... one he had neglected to even mention before now:
+
+Primeval Alchemist of the Malefic Viper gave Perception. So was it ever really a choice in the first place?
+
+’DING!’ Profession: [Primeval Alchemist of Malefic Origins] has reached level 350 - Stat points allocated, +125 Free Points
+
+After making the choice, Jake immediately felt a wave of calm as he stopped questioning himself. The decision was made, and he would now just focus on all the goodies this new profession would bring as he was already looking forward to seeing the skills it-
+
+Jake’s eyes opened wide as he felt something weird. Something off. He instinctively looked up, towards the direction Villy was observing from, as he vaguely felt whatever was happening had a connection to the god. Yet it didn’t.
+
+He had planned to wait until after he was done evolving to talk with Villy, but this weird feeling made Jake speak up immediately.
+
+“Hey Vil-“
+
+’DING!’
+
+Jake was interrupted by the sound of a familiar notification he’d just heard moments prior as he stared, and before he could even fully comprehend what had happened…
+
+’DING!’
+
+’DING!’
+
+’DING!’

@@ -1,0 +1,225 @@
+---
+id: a8080d33-325b-54e2-a92e-4d552f7a1b3d
+page-type-slug: story-chapter-royal-road
+title: "159 Surprise"
+slug: 0118-159-surprise
+partOf: the-new-world
+position: 118
+ownLength: 2636
+unit: words
+ownProgress: 2636
+publishedAt: 2018-11-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/305129/159-surprise"
+royalRoadId: "305129"
+markedReadAt: "2026-06-29T21:25:02.180Z"
+---
+
+Earnest unholstered two pistols, quick drawing them with skill. He fired off the entire clip towards Iasis. Iasis clasped a fist at the same time. Water from the air snapped together, forming ice. This plate of ice caught the bullets, cracks snapping through the plate.
+
+The wall of ice crumbled. Iasis turned around, gesturing with his hands. Blue, origin mana built in his fingertips. He faced the shards of ice, launching them towards Earnest. Iasis created new shards formed as fast as the old ones fired out.
+
+The pistol expert reloaded his pistols, dodging the shards with subtle flicks of motion. Once loaded, he fired the guns at shards he couldn't avoid. As the shardstorm thinned, Earnest let out several shots at Iasis. These bullets weaved through a sea of ice shards, straight at Iasis's vitals.
+
+Althea murmured, "Wow...He's so good."
+
+I nodded, "Yeah. He is."
+
+Iasis molded his ice shards, deflecting bullets and launching ice at Earnest. This flurry of activity continued, shells launching off in every direction. They fizzled against an energy barrier around the arena, keeping spectators safe.
+
+As the standstill reached its peak, Earnest pointed one of his pistols upward. He shot into a panel of ice while firing a gun in a random direction. At least I thought it was random. The first shot bounced off the glass panel. It then snapped against the other bullet.
+
+The rapid series of deflections launched a bullet from an odd angle at Iasis. The bullet pierced Iasis's shoulder. From it, Iasis lifted out his blood with magic. He clenched his fist, the blood disintegrating. Red mana rippled up through Iasis, making his physical might amplify.
+
+He dashed towards Earnest, covering himself in an armor of ice. Earnest sped away, kiting the mage. Earnest fired the pistols, reloading without missing a beat. Iasis dashed towards him while dodging the projectiles by zigzagging.
+
+Earnest tossed out two proximity mines from his belt while firing the pistols. The Steel Legion member maneuvered himself, keeping the mines between him and Iasis. Iasis took three more shots, bleeding from his legs and chest. He molded the blood into yet more mana, encouraging him further.
+
+Iasis ran into the mines. They detonated, but the kinetic energy of the explosions siphoned into the hands of Iasis. Took off guard, Earnest threw a grenade at Iasis. It exploded, spraying superheated green plasma in every direction.
+
+Iasis deflected the wave of goop by reaching out one of his hands. The condensed explosion in his palm released. The plasma shot back at Earnest. The master gunman turned around, his power armor flaring to life. A jetpack launched him away, the resulting fiery explosion spraying the plasma in every direction.
+
+With the sound of singing stone in every direction, Iasis and Earnest flew. They fired ice and lead at each other, elaborate aerial stunts keeping them safe.
+
+I raised an eyebrow, "Why doesn't the mage just surround the guy with ice?"
+
+Althea shrugged, "I dunno. Maybe he's hiding his more advanced tactics?"
+
+I nodded, "Ok, I could see that."
+
+Both sides fumbled, each of them struggling to gain the upper hand. The mage's mana dwindled just like the gunman's ammo and fuel. For the first time in the fight, the gunmen zoomed over the water. As his jetpack left a cloud of steam, the mage clapped his hands.
+
+Thousands of ice needles shot into Earnest's body from all directions. He crashed into the water. As he did, the announcer lifted a hand to Iasis,
+
+"And Iasis Klon is victorious!"
+
+Two members of the legion floated towards Earnest with jetpacks and power armor. They picked him up, pulling him to a nearby medical station. A  healing mage cast magic while a doctor injected him with adrenaline and stims.
+
+The whole crowd clapped their hands, including Althea and I. I turned towards her, nodding my head with begrudging respect, "This turned out way better than I expected. Who'd of guessed?"
+
+Althea raised her eyebrows, "They were both cappers, so the rest of the tournament might not be as exciting."
+
+I sighed, "I'm just praying the rest of the matches are like that. That shit was epic."
+
+She giggled, "We'd take them easily."
+
+I shrugged, "Doesn't matter. That was still badass."
+
+She pursed her lips, "I'm a better shot than that guy."
+
+I scoffed, "Uh huh, sure."
+
+She narrowed her eyes at me, "What, you don't believe me?"
+
+I shook my head, "I know you're a worse shot. Here's the thing though. Your bolt would've pierced the ice and killed the mage. You don't need to be a better shot."
+
+She raised her eyebrows in reluctance, "I mean, I guess so."
+
+I nudged with an elbow, "Besides, you wouldn't have run from the mage once he tried coming at you. You'd rip him apart."
+
+She smiled, "Thanks."
+
+I looked at the next competitors entering the arena, "Just being honest."
+
+The two competitors paled in comparison to the last ones. Neither exceeded level 2,000. They both relied on tech, using machine exoskeletons to fight it out with each other. They were clumsy compared with Earnest and Iasis.
+
+Don't get me wrong, they'd have been worthy contenders normally. Following up the first fight was a tall task though. After they both kicked each other's asses, the announcer lifted his hands up to announce the next combatants,
+
+"This year we have a fresh face here in Icosah. On the one side, a mysterious man who cleared over twenty quests in two weeks. The mysterious and memorable Daniel Hillside!"
+
+I looked around, surprised they called my name out already. Althea grabbed my shoulder, "Hey, good luck."
+
+I gave her a thumbs up. I jumped up, letting myself land onto the arena with some gravity magic for assistance. The crowd oohed and aahed at the display of finesse. They expected me to be a fighter for my size, so seeing magic must have surprised them.
+
+On the opposite side of the arena, a wiry alien walked up. It was a member of the Enigmatta. Hidden inside a pressurized suit, the girl prepared several spells for combat. The announcer pointed at her,
+
+"And here is Elsa Tiary. She's a regular combatant at the yearly tournament. Though she's never won, she's been a finalist several times. Don't count her out folks."
+
+The enigmatta all raised their hands, air bubbles lifting in their oxygen tanks. Elsa raised her thin arms, waving at them. After the hoopla, the announcer looked at us both,
+
+"Are both combatants ready?"
+
+We nodded. The announcer raised his arms, "Then let the fight begin!"
+
+I pressed down one of my hands. A wave of gravity sent Elsa to her knees. I lifted a leg before kicking out. My foot hit a telekinetic panel. A telekinetic panel generated in front of Elsa, smashing her face.
+
+Though weakened, I kicked with plenty of force to shatter her dome helmet.  She spun through the air, her suit's water and some sharp teeth launching in every direction. She slapped against the water surrounding the arena, belly flopping hard. She was out cold.
+
+Everything turned quiet. I didn't go all out on her with the kick, so Elsa was fine. I looked around, making sure everything was ok. The announcer stammered,
+
+"Uhm, wow, that was fast. The, ahem, winner is Daniel!"
+
+I raised a hand,  but no one cheered except Althea. She howled loud enough for everybody though. Althea looked around at everyone right after she screamed. Embarrassed as hell, she looked down, blushing like crazy.
+
+I waited a few more seconds. Nobody came to help out Elsa, so I jogged up. I lifted a hand. I floated Elsa with a clump of water. I set her down in the open medbay. She landed on a bed with a woosh as the water spread out. Like professionals, the cleric and doctor shook off their surprise and went to work.
+
+I turned around, jumping out of the arena. I fell towards Althea, the crowd dispersing and giving me space. A few sparse claps littered the area, and the announcer pointed an open hand to me,
+
+"Look at that sportsmanship. Let's hope the rest of the fights follow that spirit. Onto the next bout!"
+
+The tournament fired back up, two more competitors walking up. I sighed, looking down at Althea, "Didn't mean to make a scene. Fuck."
+
+Althea looked down, blocking her vision, "Don't talk to me for a minute, ok?"
+
+I smiled, "Are you that embarrassed?"
+
+She looked up at me and snapped, "You shocked everybody with how cool you were. I shocked everybody by looking like an idiot."
+
+I hugged Althea to my side, "You shocked me with how sweet you were. Hell, I almost blushed myself."
+
+Althea looked away, blushing again. I'm pretty sure I saw a smile under her veil though. We chatted for a while like that, enjoying the fights. I surprised her with some stall food from a nearby vendor. We both munched on candies before they called me up again.
+
+Once again, I floated up and landed onto the arena. This time, a bulky alien was at the arena. It was a living fungus, mushrooms sprouting from the cracks in his armor. With gray armor covering him, he dragged a flaming club behind him
+
+It seemed strange for a plant to use fire as a weapon, but hey, it's his life.
+
+The announcer lifted up his arms, "On the one side, we have Vox Keeocktureanitrix."
+
+The announcer pronounced his name without fucking it up, keeping the enunciation fluid the entire time. Not gonna lie, I was impressed by that alone. He was good at this job even if he looked goofy.
+
+The announcer pointed to me, "And on the other side, we have the newcomer who made a big splash, Daniel Hillside!"
+
+I raised a fist as a few people cheered for me here or there. I also winced at the terrible joke. We get it, Elsa ended up belly flopping. That didn't mean it was funny.
+
+Some people booed at him as he made the terrible joke. It sounded like they were booing at me, but I shrugged it off. I wasn't here to make fans. I was here to win.
+
+After the hecklers stopped, the announcer coughed into his hand, "Anyways, are both combatants ready?"
+
+We nodded. With the same attack as last time, I pushed down a wave of gravity by pushing down a hand. Unlike Elsa, Vox stayed standing. He couldn't move though, so I just lifted my hand up again. With another wave of gravity, he fell onto his knees.
+
+I kicked forward, extending my reach with telekinesis. Vox dodged my attack, ducking down. I pulled my leg back and spun around. With a fancy spinning back kick, I shot a pulse of kinetic energy into Vox's chest. His armor caved in, and he ragdolled through the air.
+
+He slammed into the energy barrier surrounding the arena. He fell onto the water, sinking in seconds. This time the carriers flew over and picked him up. They learned from last time. So did the announcer.
+
+"And yet again, Daniel has conquered another round with ease. Let's hear it for the newcomer!"
+
+I lifted a fist, and quite a few people cheered at this point. I was building momentum. I jumped back towards Althea, people already giving me some space to land. As I did, a voice reached out into my mind. It was the gialgathen again.
+
+I turned towards him, the behemoth staring me down. His name was...Bah, I didn't give a shit at the time. His voice radiated into my head, "I will admit, I assumed your first bout was a fluke. With that display of power, I can firmly say you're a worthy opponent."
+
+I looked back and forth, "So?"
+
+"You've earned my respect. I only give it to those that are worthy."
+
+I laughed, "Are you serious?"
+
+The gialgathen waved his head, "Of course I am. We gialgathens don't lie like dirtwalkers."
+
+I rolled my eyes, "Bother someone else."
+
+He narrowed his eyes, "I warn you dirtwalker-"
+
+"Fuck off."
+
+I snapped the mental connection like slamming a door. What's his face shook his dragon head, looking flabbergasted. He was just a little bit too condescending for my taste. In fact, I planned on breaking several of his bones if we fought. I looked forward to it more than I should have.
+
+Althea looked at me, grabbing my arm,
+
+"Did I say something to make you mad?"
+
+I nodded, "Naw. The gialgathen across the stream won't cut his condescending bullshit."
+
+I flicked him off, acting mature and elegant. He didn't understand the gesture regardless. He gave me a glare from hell though, wishing death upon my entire family by the looks of it.
+
+Either way, my first impression of the gialgathens was bad. Real bad. The whole treating espens like a lower caste was pretty believable too. Still, I didn't want to start making assumptions about other gialgathens. That would be like racism but for species. I'd be a speciesist...I think.
+
+Anywho, we relaxed and watched a few more fights. The sun dipped down. As it did, even more espens watched the ensuing fights. Before I knew it, more business people set up shop. They sold entertainment for the lulls between fights. They sold fans, umbrellas, even fold out chairs.
+
+It contrasted with how rural Icosah was. The modern influence was shaping the city too, seeping in slowly but surely. As the fights drew to a close, Althea and I almost left. Right before we decided, the Announcer called out, "And here is the semifinals for Icosah's yearly tournament. We have the victorious Iasis Klon against the notorious Alzoroth Vern!"
+
+I snapped my fingers, "That was his name. Alzoroth. Sounds like something off of Lord of the Rings."
+
+Althea looked at me, "What's that?"
+
+I raised an eyebrow, "The best shit ever. We should watch it when we get back to Earth. I'm sure we could scavenge a copy or two somewhere."
+
+She pressed her hands together, "It's a date then."
+
+I grinned. I had something to look forward too. Interrupting my joy, Alzoroth landed on the arena, quaking the ground. Iasis walked out to the center of the stage. Before the fight started, Iasis used ice magic to coat himself in ice armor. A wave of mental energy covered every part of the arena. Speaking to everyone, Alzoroth spoke out,
+
+"Tell me then espen. Why do you prepare for combat before we fight? You neglected that act against the pistol user."
+
+Iasis responded, his mental voice radiating to every one of the audience,
+
+"Earnest and I go way back. He's a good friend. I knew he couldn't use magic before the battle started. I didn't want to take advantage like that."
+
+The gialgathen, "Waved his wings, wind blowing outwards in every direction, "It's good you respect me, dirtwalker. Otherwise-"
+
+Iasis snapped, "Will you shut it and just fight?"
+
+A look of utter rage passed over the face of the gialgathen, "I cannot believe that not only one but two dirtwalkers would interrupt me in a single day. I'm going to use your spine like a toothpick."
+
+Iasis rolled his eyes, "Yeah, sure."
+
+The whole blackmail thing wasn't even a big deal to me anymore. I enjoyed Alzoroth getting pissed, so I raised a hand and shouted aloud,
+
+"Kick his ass Iasis. You got this."
+
+The espen looked at me, his Soldiers of Fortune crest flashing. He scoffed and looked down with a smirk. He looked up at the gialgathen, ice covering him. The announcer shouted,
+
+"That's what we like to see. Some friendly banter before a battle!"
+
+He spread out his arms, his goofy suit shifting in color, "Are both combatants ready?"
+
+They nodded.
+
+"Begin!"

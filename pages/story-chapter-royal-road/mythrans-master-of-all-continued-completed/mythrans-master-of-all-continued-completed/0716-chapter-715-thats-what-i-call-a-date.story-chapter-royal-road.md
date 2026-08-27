@@ -1,0 +1,241 @@
+---
+id: 2a3568e2-fb50-5b74-81f3-0e914d774c04
+page-type-slug: story-chapter-royal-road
+title: "Chapter 715 - That's What I Call A Date"
+slug: 0716-chapter-715-thats-what-i-call-a-date
+partOf: mythrans-master-of-all-continued-completed
+position: 716
+ownLength: 2927
+unit: words
+publishedAt: 2018-09-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294453/chapter-715-thats-what-i-call-a-date"
+royalRoadId: "294453"
+---
+
+Ren and Teepo transitioned to go back to the house in Aurora and appeared in the bedroom, and he greeted everyone there.
+
+“Are you up to spend some time in...” Ren started to ask, and the succubi vehemently said no. They needed time to recover after the last time, and he gave each of them a kiss.
+
+“I would, but I suspect it would only be us there this time.” Artemis said and kissed him, too. “The Marilith Demon has been asleep the whole day.”
+
+Ren chuckled. “I've got my date with Nathalia to get to, then.” He said. “Are you coming with me?”
+
+Artemis wrapped her arms around him and gave him another kiss. “I suspect you and she are going to be a little too busy for me to hang around.”
+
+“Are you regretting me taking off the restriction?” Ren asked, and she laughed.
+
+“No, I don't regret not feeling excruciating pain when we get separated.” Artemis said. “Have fun on your date.”
+
+“There is a faint hope of that.” Ren joked and equipped his fancy purple suit that he wore during his last night in the Dwarven Kingdom, and Artemis let him out of the embrace she had him in. “I can drop you all off at the county if you want.”
+
+“We can wait to move back until you make the Marilith Demon's real living space.” Seldanna, the Sovereign of the Succubi said.
+
+“How do you know I haven't made it already?” Ren asked.
+
+“You haven't asked her what she wants yet.” Seldanna said, and he chuckled as he nodded.
+
+“I'll be back later.” Ren said and checked the All-Seeing Mirror for a safe spot, then cast the Portal spell and stepped through it to appear right in front of the restaurant and walked inside.
+
+“Welcome.” The hostess said as he entered the building. “Your table is...”
+
+“I can feel her waiting for me, thank you.” Ren said and walked by the hostess and over to one of the curtained-off tables. He stepped around the curtain and saw Nathalia. She wore a beautiful dress that was a modification of one of his designs, and he smiled as she stood to greet him.
+
+“Hello, Re-mhmm!” Nathalia's words were cut off as Ren hugged and kissed her. She put her arms around him and kissed him back as she poured out how much she had missed him through their fully restored Collective connection. He felt this from her and let his Emotion Siphon ability absorb as much of it as she wanted him to, since she didn't really need it anymore, and he let his own feelings of missing her and loss out. She gasped into his mouth at the sheer amount of them, and he eased the flow to a trickle, so she could calm down.
+
+Ren broke the kiss and looked her in the eyes. “You look beautiful.”
+
+“Th-thank you.” Nathalia said. “Dorathy has been experimenting with your designs.”
+
+Ren smiled and let her out of the hug and motioned to the chair. She sat down and he moved a chair over and sat down right next to her. “I'm glad she's keeping busy.”
+
+“You offering her the job to be House Neram's Official Tailor was a great idea.” Nathalia said. “With all the new people coming in and joining the house, we definitely needed someone to make the proper outfits for everyone.”
+
+Ren chuckled. “I wanted help working on the uniforms for the Garrison when I offered it.” He said. “Has anyone else...”
+
+“Oh, she gets orders all the time.” Nathalia said. “It takes her a lot longer to make something than you did; but, the customers appreciate it just the same.”
+
+“Tell her that I'm happy to hear that.” Ren said.
+
+Nathalia nodded. “So, how have you been?”
+
+“Nathalia, you've felt some of that.” Ren said. “I can feel our Collective is sharing constantly, so you'll have the whole story eventually.”
+
+“But... we only have...”
+
+“...as much time as you want.” Ren said and put the golden Vasalor statue on the middle of the table.
+
+“What is that?”
+
+“A heavily modified Sanctuary spell.” Ren said, and the curtain moved.
+
+“Hi!” The waitress said excitedly as she stepped into the private space. “What can I get you?”
+
+“Two supper specials, and put a rush on it, please.” Ren said. “If we eat quickly enough, I can make love to her a few dozen times before I have to leave.”
+
+The waitress' mouth dropped open in shock and Nathalia smacked Ren on the back of the head.
+
+“Ren!” Nathalia exclaimed.
+
+“What?” Ren asked. “I want to store this table and take out a bed, then I'd like to...”
+
+“REN!” Nathalia yelled.
+
+Ren sighed. “All right, I'll be good.” He said and looked at the waitress, then recognized her. “Hey, did you find someone to treat you like a Lady yet?”
+
+“Wh-what?” The waitress blinked her eyes, because she still hadn't recovered from the first shock.
+
+“I guess that's a no.” Ren said. “I'll send out advertisements for Nathalia's Nourishment, and I'm sure someone will come in and show you that you deserve to be treated the way you want to be treated.”
+
+The waitress stood there and stared at him, and Ren looked at Nathalia.
+
+“I think I overdid it on the honesty again.” Ren said. “Maybe you can ask her for the food?”
+
+Nathalia sighed and looked at the waitress. “Two supper specials, please.”
+
+The waitress jumped a little, nodded several times, then left through the curtain.
+
+“Ren, you shouldn't...”
+
+“Nathalia, I love you.” Ren said and pushed out one of the other chairs and put the Vasalor statue on it. “I'm going to show you just how much I do over the next year.”
+
+“T-the next YEAR?!?”
+
+“I know that seems a bit short; but, I don't want to monopolize all of your time.” Ren said and grinned at her.
+
+“R-Ren, you... you can't be serious.” Nathalia said. “I... I can't be away from...”
+
+“Don't worry. No one will even know you've been gone.” Ren said.
+
+They sat in silence as Nathalia worried about what Ren was planning, since erasing everyone's memory was going to be a difficult thing, then the waitress brought their meals and drinks. After she served them, Ren reached out and caught the waitress' hand and gave it a kiss.
+
+“Thank you for the prompt service.” Ren said and felt the thrill from her, as did Nathalia. “Please come back in a few seconds to clear the table.”
+
+“O-okay.” The waitress said and stepped out of the curtain. Ren activated the statue and he and Nathalia entered accelerated time. The waitress stopped walking when she realized Ren had said to come back in a few seconds. She knew that must have been a mistake, so she turned around and walked back over to the curtain and opened it, to see both Ren and Nathalia were completely dishevelled. They had big goofy grins and looked like they were holding in laughter, and their plates were clean of food.
+
+“You... you really...”
+
+“Thank you.” Ren said and stood up after storing the Vasalor statue. He handed the waitress a couple of gold coins, much to her surprise because he had paid a platinum coin earlier, and then he held a hand out to Nathalia. She took the offered hand and they left the curtained-off area, then went outside.
+
+“Where are... oh.” Nathalia stopped talking when Ren took out an instant tower and opened the door to lead her inside, then he shut the door. Once inside, Nathalia gasped as Ren activated his polymorph helm and transformed into a dwarf for her. “By... by the gods!”
+
+Ren's fluffy beard went halfway down his chest to show he had never shaved or even trimmed the beard, and when he stored his clothes and showed her that not only was he very ready and excited to see her, she saw all of his rippling muscles. It hit all of Nathalia's ingrained dwarf stereotype requirements and she stored her clothing to show him that she was just as ready as he was.
+
+“Let's make a baby.” Dwarf Ren said and Nathalia finished just from that.
+
+“R-Ren, we... we...”
+
+“I won't have anyone else give birth before you, my can't-be-official wife.” Dwarf Ren said and picked her up, then took her to bed. Nathalia had been surprised when she gained the Unofficial Tainted Queen title, then forgot everything as Dwarf Ren showed her just how much he had missed having her in his bed.
+
+For the next two months, they enjoyed each other's company and caught up on everything that had happened to them while they had been apart. It went much quicker because of their Collective connection, and Nathalia's love for him deepened, even though she didn't think that had been a possibility.
+
+“You saved us all.” Nathalia said.
+
+“With Vasalor's help, since he didn't want everyone to suffer when he realized what the connections meant to people.”
+
+“Ren...”
+
+“It's okay, now.” Dwarf Ren said. “Plus, since you told me how long dwarf pregnancies are supposed to be, I can ensure that you will be first.”
+
+Nathalia looked down at her belly, and Dwarf Ren showed her the All-Seeing Mirror again.
+
+“We can even make it happen before Narhilda and Barnar's birth next month.” Dwarf Ren said.
+
+“You know the time that's going to happen?” Nathalia asked.
+
+“I spent a lot of time in Vasalor's realm.” Dwarf Ren said. “We checked on everyone's connections, no matter how big or small.”
+
+“You saw...”
+
+“Yes. That's also how I found out that Frikara and the others were pregnant, because the connections between mother and child were the same.”
+
+“Oh, wow.” Nathalia said.
+
+“Yeah, it was a pleasant surprise.” Dwarf Ren smiled. “You're going to beat them all to the mark, though.”
+
+Nathalia chuckled. “I can just imagine Narhilda's face when she finds out!”
+
+Ren nodded. “You should have Erika send out notices to the whole Dwarven Kingdom when we leave here.”
+
+“Ren, I won't need to tell Erika anything. She's going to see how big I'll be!”
+
+Ren laughed. “Big and beautiful!”
+
+“You are so biased.”
+
+“I really am.” Dwarf Ren said. “I wish I could be there when Angeilin finds out.” He smiled. “She's so enthusiastic about being in House Neram that when she learns there's going to be an heir...”
+
+“By the gods, she'll never leave me alone!” Nathalia laughed. “Not even her husband Dorcot can restrain her when she gets going.”
+
+Dwarf Ren laughed, too. He rubbed Nathalia's belly and looked at her with a seductive smile.
+
+“Ren, we... we need to...”
+
+“Don't worry. I'll be very careful.” Dwarf Ren said and pleased her.
+
+Over the next few months, it drove her a little crazy that he could take his time and still please her, when all she wanted was for him to ravish her. She knew he couldn't do that, not with her in the state she was in; but, she was getting hornier and hornier as the months wore on.
+
+By the time the year was up, her belly was very large and she looked like she was ready to pop. She also really, really needed to have sex. Dwarf Ren obliged her as much as she wanted and she loved him dearly for that. It was an itch that she couldn't scratch herself, especially with her belly so big, and she pretty much spent all of her time in bed.
+
+“Let's go, My Love.” Dwarf Ren said and used his polymorph helm to change back to his elfling form. He helped her stand up carefully and they walked to the door of the instant tower. He opened it and they stepped out, and only a few minutes had passed.
+
+“I can't believe... it's been a year.” Nathalia panted and waddled out the door. Ren deactivated and stored the instant tower and helped her walk into the restaurant.
+
+“Welco-OH MY GOD!” The hostess exclaimed at the sight of a very pregnant Nathalia. Everyone in the restaurant turned and looked, and the kitchen staff came out to see what the ruckus was about. Everyone was shocked at Nathalia's condition, considering she had just left and looked normal.
+
+“I'm taking... some time off.” Nathalia panted and Ren helped her waddle over to the back room.
+
+“God, what happened?” One of the waitresses asked.
+
+“I spent some time with... the man I love... and now I'm... a little pregnant.” Nathalia managed to say before Ren opened the door to the back room.
+
+“A little!” The waitress exclaimed. “You look like you're going to burst!”
+
+“It feels like it, too.” Nathalia said and Ren sat her down by the portal. He sent a message to Erika and told her Nathalia needed her help, and to get one or both of the healers, Artrude and Malenka as well. Ren waited for a couple of minutes, then helped Nathalia stand.
+
+“I'm sorry, Nathalia.” Ren said. “I might have waited too long to...”
+
+“No, this is... for the best.” Nathalia said and took a deep breath. “You'll feel it when it happens, won't you?”
+
+“I'll be there in an instant, assuming I'm not on Adventurer's business.” Ren said and kissed her. “So, keep the little dickens tucked away inside for as long as you can.”
+
+“I might make it... until morning.” Nathalia said and stepped forward, then turned to him. “I really need you again, Ren.”
+
+“Of course, My Love.” Ren said and took out the Vasalor statue, lifted her loose dress, and pleased her until she was satisfied. Nathalia kissed him passionately when she had finished, and he deactivated and stored the statue and watched her step through the portal. Ren turned around and walked out of the back room, and saw the large audience they had attracted.
+
+“Show's over for now, folks.” Ren chuckled and left the restaurant, checked the All-Seeing Mirror to see Nathalia be greeted by three very shocked women, then cast a portal to a spot above the Main House in his county and stepped through.
+
+*
+
+Elerlyth couldn't believe the sights and sounds she witnessed at Ren's amusement and water parks. She had spent the entire day going to various rides and trying out all of the different carnival foods. At first she suspected that he had somehow imported the rides she had used in Stella's stress and evaluation tests, then she saw them up close. She saw that he had used them as a starting point and expanded and changed them all to ridiculous extremes.
+
+The food's stat bonuses were also a shock, then she realized that they helped people tackle the rides and helped them deal with the situation. It put them in a better mood and they enjoyed the experience even more than they normally would. Elerlyth spent an inordinate amount of time just sampling people's emotions as she walked around, so she knew this was true.
+
+By the end of the day she was sitting beside the large pool area in the water park and had a hard time filtering out all the happy emotions that everyone emitted. She reclined on one of the patio lounge chairs and closed her eyes as she let those emotions flow over her and only took what she wanted, rather than trying to consume them all.
+
+He was right. Elerlyth thought. This place really is great.
+
+Elerlyth gained another level and sighed as she thought about Ren doing what she was doing, only with an entire country's worth of emotions and leveling up so fast that it took no time whatsoever.
+
+I don't understand how he can do that. Elerlyth thought in surprise, then she felt his presence and caught her breath, because he wasn't trying to suppress his emotions like he did when she had met him that morning. Oh, my god. She thought and her body started to glow as she concentrated on him. What... what has he been doing to be so happy?!?
+
+Elerlyth hopped up off of her lounge chair and whistled for her steed, Etheria, and he flew over to land beside her. She quickly climbed into the saddle and flicked the reins.
+
+“To Ren!” Elerlyth said and her steed took off up into the air to try and catch Ren before he disappeared again.
+
+*
+
+Ren felt someone's piqued interest and chuckled as Princess jumped out of her house to greet him. “I think someone is a little eager to head out.”
+
+“I am, My King.” Princess said. “Please mount me and we can be off.”
+
+“You know, I really should say goodbye to...”
+
+Princess huffed her derision at his fake attempt to delay her running full out, hooked one of her horns between his legs, then flipped him up and onto her back. Teepo chittered in laughter as Ren landed upside down on the saddle, then Ren grabbed on as Princess took off at full speed. Ren's legs flailed around up in the air and he couldn't help himself and laughed, too.
+
+Ren had deserved that for teasing her.
+
+*
+
+As Elerlyth approached the Main House, she saw Ren do a crazy flip to get onto Princess and landed upside down, then they disappeared from her sight.
+
+“Goddammit!” Elerlyth exclaimed at just missing Ren, and her steed neighed and huffed at her. “Yeah, yeah.” She said and smiled. “That was a pretty funny sight.” She looked in the direction where she had last felt his emotions and sighed. I'll wait for you right here.

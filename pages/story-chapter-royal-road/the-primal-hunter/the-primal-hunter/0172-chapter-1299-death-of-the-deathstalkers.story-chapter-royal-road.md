@@ -1,0 +1,135 @@
+---
+id: f3973441-15ba-581e-8765-309110aff4b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1299 - Death of the Deathstalkers"
+slug: 0172-chapter-1299-death-of-the-deathstalkers
+partOf: the-primal-hunter
+position: 172
+ownLength: 3025
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3305334/chapter-1299-death-of-the-deathstalkers"
+royalRoadId: "3305334"
+---
+
+It was truly an exhilarating and highly palpitating situation the Shaman found himself in as he watched the human engage the six Deathstalkers in melee combat. Seven times he’d already motioned for the rest of his comrades to get ready and move to save him, but every time, the Shaman had stopped himself.
+
+Especially when the human took a blow that nearly severed one of his limbs, the Shaman’s heart had skipped a beat. The human dying unceremoniously in the very first expedition out of the village simply wasn’t an option, and the disappointment of the Oracle would be unimaginable.
+
+As a Shaman, he only had a surface-level understanding, but he knew that the Circle had long believed there was a world beyond the Boundary, and if the carelessness of the Shaman resulted in the hope of his superiors being snuffed out, he could only begin to imagine the consequences.
+
+Yet, despite this being the case, the Shaman didn’t move. He felt as if he couldn’t. The sensation given off by the human was almost suffocating, and the way he slaughtered the first Corpsemender and then proceeded to kill the Monitor despite being hounded by six Deathstalkers... it was something the Shaman couldn’t quite comprehend how was even possible.
+
+But there were many things he couldn’t comprehend.
+
+The magic used by the human was unlike anything the Shaman had ever seen before. He continually unleashed projectiles, all roughly identical in form, yet some exploded while others pierced, though sometimes they pierced and then exploded. Some were also small, while the big ones delivered absolutely devastating damage.
+
+All of his methods seemed to belong to the same affinity, though such a realization didn’t help him much. It was an affinity that the Shaman didn’t have any experience with either. He hadn’t even read about such a form of energy before.
+
+However, all that paled in comparison to the sensation the Shaman felt when he spoke those two words. Event Horizon. Words of Power weren’t anything new, and the Shaman even had a couple of skills that mandated using them, but that didn’t mean he wasn’t utterly shocked by whatever happened when the human spoke.
+
+For a mere moment, the Shaman felt as if he saw something that he couldn’t comprehend, but just as fast as it had come, it was gone, and no matter how much the Shaman tried to recall what he glimpsed, he simply couldn’t. It was unsettling, and he would certainly have to ask the Oracle about it later.
+
+There were a lot of things the Shaman needed to converse with the Oracle about. So many things had shocked him and didn’t make sense.
+
+Genuinely, he didn’t even understand why the human was so insistent on fighting the Arachnecs, but the Shaman had a strong feeling that should he attempt to step in and interrupt the needless combat, he would risk offending the human. Something he very much wanted to avoid, especially seeing the current scene.
+
+The human had taken down the Monitor, only to find himself surrounded by six Deathstalkers. His body burned with an unknown energy that seemed to destroy everything it touched, and as he stood there with enemies on all sides, he, for some reason, made his weapon disappear.
+
+Once more, the Shaman was flummoxed, as clearly this human race used weapons. So for him to willingly discard it was simply shocking. However, right after it disappeared, he spread out his arms as two new tools appeared in his hands. Both looked like knives of some kind, but with shapes that weren’t quite conducive to cutting. They were weird weapons that the Shaman questioned the efficiency of. For a few moments, anyway.
+
+All six Deathstalkers closed in, the Shaman not capable of keeping up with all of them at the same time, as their bodies seemed to disappear the second he stopped focusing on one. Despite this, the human didn’t take a single injury from their opening salvo, but avoided every single blow.
+
+He proceeded to dance around them as they desperately struggled to lacerate his body, but their strikes were always a leaf’s thickness short. Contrarily, the human counterattacked with devastating efficiency, piercing holes in the undead bodies of his foes; that odd energy of his destroying them from within with every blow.
+
+The Shaman even detected the use of some toxin that was capable of affecting the Arachnecs. It didn’t seem particularly effective or powerful, but it did speak to the human deploying poisons in combat alongside his destructive energies. A peculiar combo, seeing as they didn’t seem to mix in the slightest.
+
+As the battle with the six Deathstalkers continued, the Shaman started slowly calming, despite the human seemingly teetering on the edge of death at every moment. His offensive prowess was prodigious, but defensively, he appeared far weaker than even a newly evolved B-grade Virumancer. When he got hit, that is.
+
+Throughout his life, the Shaman had seen many skilled fighters who specialized in Agility. The Venusians even had the rare variant that focused on speed, yet even if he put all of those together, they seemed to pale in comparison to the sheer perfection of the human in the domain of avoidance.
+
+It was as if he knew every blow was coming before it even did, and he entirely ignored all feints and stealth abilities of the Deathstalkers. No, he didn’t ignore them; he actively took advantage of their false belief that they could fool him, only to launch counterattacks and gain ground as he slowly tore all six opponents apart.
+
+Opponents who were all more than thirty levels above him. A reminder that this human was only newly evolved, which raised many questions about how powerful this race truly was. Considerations the Shaman was far from qualified to weigh in on the implications of.
+
+The fight continued, and soon enough, the first Deathstalker fell. Not long after, a second one was slain, and with the reduced pressure from having fewer foes, the human pressed his advantage and rapidly took down a third and a fourth.
+
+With only two remaining, the end was a foregone conclusion. However, that’s when the Deathstalkers stopped attacking and rapidly disengaged as both fled in opposite directions, suppressing their own injuries.
+
+That was when the Shaman was reminded he’d forgotten to inform the human about the Arachnecs often having this tendency. When they were losing a battle against a type of creature of which they had no prior knowledge, they would often try to retreat and convey information about this foe to the rest of their kin.
+
+The Venusians did the same, though the Arachnecs were more resolute in their approach as they would only retreat once defeat was an absolute certainty. This often allowed them to relay more information back, as they’d seen more of what their foe was capable of, and given the reproduction rate of their race, it was likely worth the losses to gain more.
+
+Unfortunately for the Arachnecs, this time around, their opponent was not one that could be easily fled from. Seeing them running, the human seemed annoyed more than anything before he proceeded to dismiss his two melee weapons and re-summon his projectile-slinging tool, which he referred to as a bow.
+
+He proceeded to launch one of his large projectiles towards one of the fleeing Deathstalkers, which utterly failed to avoid the deadly blow, ending its life in a swift and direct manner.
+
+However, the human didn’t shoot another projectile towards the final Arachnec. Instead, he simply looked towards it for several seconds as the Shaman frowned. Was the human letting the final one go? No, that would simply make no sense... but then again, the human had done many things already that made no sense to the Venusian.
+
+It turned out the Shaman had things wrong. The Shaman faintly saw the human’s eyes glow, as in the distance, the Deathstalker began moving more slowly before it stumbled and fell. For several seconds, it writhed in the ground, tearing up the terrain as if in extreme pain, which once more made no sense, as the Arachnecs were incapable of feeling pain courtesy of their undead existence. Yet it was evidently suffering for nearly ten seconds before it fell still. Slain. Its soul extinguished. As someone with an above-average level of knowledge regarding the realm of soul magic, the Shaman could barely understand what had happened. All he could tell for sure was that the human’s mere gaze seemed to have attacked and killed the Arachnec.
+
+Another unsettling and somewhat frightening sentiment.
+
+Maintaining a positive relationship with this human race and establishing diplomatic ties seems most wise. At the very least, antagonizing them would be highly inadvisable, the Shaman thought to himself as the human stopped looking at his slain foe and turned towards the five of them.
+
+He dismissed his powerful aura, which the Shaman guessed was a boosting skill of some sort based on its effects. It evidently left him weakened, yet the Shaman had no self-sabotaging thoughts of trying to take advantage. He had no intention of ending up like the Arachnecs.
+
+“See, no reason to run when you can fight,” the human said in a happy tone as he floated over towards them. At least the Shaman estimated it to be happy. It was difficult to tell what humans truly felt, seeing as their faces were mostly blank, with only their eyes showing.
+
+An odd evolutionary trait, though it did seem to offer great defense for what was otherwise an important weak point. Plus, they could still consume foodstuffs, which the Shaman had tested by offering the human beverages. It was odd how the cup had merely faded through his face to enter some kind of mouth beneath, but the Shaman already had far too many things he didn’t understand about humans to bother questioning something as mundane as that.
+
+“A most impressive display of your prowess,” the Shaman said, genuinely impressed at how powerful the human was. Truly a powerful race, even if this one was an exemplary variant. Once more, certainly ones to establish diplomatic relations with, assuming the Venusians would be allowed to set foot beyond the Boundary.
+
+He just hoped that the human race’s lack of faces wouldn’t prove a challenge in negotiations.
+
+--
+
+Jake felt pretty damn good as he looked at the Shaman, who appeared to be having some weird internal thoughts. No matter; it probably wasn’t anything important.
+
+The fight with the Deathstalkers had been just the kind of thing Jake had needed after evolving to B-grade. It felt damn good to stretch his muscles and even use his boosting skill at full power. The strain had been significant, but still manageable.
+
+What he felt even better about was his second “boosting” skill. Sight of the Boundless Horizon had proven itself pretty damn good. Just the increase in the effectiveness of Perception was a significant passive damage increase, and while it did leave him significantly less durable, it was a trade-off he was fully willing to take.
+
+Its effect on Event Horizon had also been impressive. It had restrained the Monitor for its entire duration, which perhaps didn’t seem like a lot, seeing as his arrows were effectively already homing towards the target marked by the skill, but it did more than merely restrain his foe physically.
+
+The pressure it put the target under also appeared to suppress the movement of energy, and based on how the undead spider-worm-hybrid couldn’t even properly fight back while locked down, Jake also guessed it limited the senses of the target to a certain extent. All in all, it was an incredibly powerful effect. Granted, the Monitor had been weak, and it was still unclear how well it would work against a more powerful foe, but it should still have some effect.
+
+Towards the end of the fight, as one Deathstalker was fleeing, Jake also finally tried combining Sight and Primal Gaze. He had already confirmed that if he wanted to augment skills with Sight, he had to actively try to make it happen, and with only one target remaining, he’d taken the risk of empowering Gaze.
+
+Jake still wasn’t entirely sure how he felt about the outcome. Usually, Primal Gaze was a quick one-and-done kind of thing, where he momentarily glimpsed the soul of his target while putting his own against it, pretty much always resulting in his foe freezing.
+
+However, when he empowered Primal Gaze with Sight, something far different happened. Jake’s entire vision had shifted, and rather than look at the physical body of the Deathstalker, it was as if he could only see its soul. When he looked at the soul, rather than launch a rapid, powerful soul attack, he formed some manner of connection between his own soul and the Deathstalker’s.
+
+One that allowed Jake to continually attack his foe’s soul while barely feeling any negative impact on his own, though he once more reckoned that was in part due to his foe being on the weaker side. Either way, it was as if Jake shot some invisible laser out of his eyes that burned into the soul of his target, destroying it little by little until the B-grade died.
+
+It was powerful for sure, but Jake knew the circumstances had been heavily in his favor. His target was already weakened from the fight, making it far more susceptible to the attack. Secondly, as with most soul attacks, the mental state of both parties was important to take into consideration, and a fleeing foe that was clearly afraid of him and ran with the full knowledge it could never win was easy pickings.
+
+He also realized after using the skill that this version of Primal Gaze had drained a lot of resources. He had consumed all three resources to perform the attack, honestly making it more of a trade in damage rather than just an attack, seeing as Jake had effectively taken damage from using it. It naturally also strained his soul, though again, not actually that badly, meaning he could probably keep the skill up for quite a while. Jake was definitely curious to test it further, but alas, all the Arachnecs were dead. Besides, he should really take some time to recover, as he had taken some damage and spent quite a bit of energy.
+
+Jake had been a little cautious due to the presence of the Venusians, though. He had shown off his power very purposefully to make an impression, all while keeping a close eye on their reactions. While he definitely hoped it wouldn’t happen, he had been fully prepared for them to try to jump him right after he showed weakness from deactivating Arcane Awakening.
+
+He was both happy and relieved to see that the Shaman didn’t show the slightest hostile intent, but instead expressed admiration for Jake’s fighting prowess.
+
+“The Arachnecs don’t strike me as very powerful variants,” Jake said, not sure if they actually were considered average in this Minor World. They definitely were on the weaker end from an objective standpoint, and they were all incredibly squishy.
+
+“They are not,” the Shaman shook his head. “Their means of combat are also highly limited, in part due to their lacking intelligence. However, what they do have is sheer numbers and generally high offensive capabilities. They are fine with throwing away five of their own to take down a single foe. As long as their Nest is not threatened, they can simply keep spawning more.”
+
+“I take these Nests are not easily accessed?” Jake asked.
+
+“All guarded by A-grades,” the Shaman answered with a sigh. “In truth, killing Arachnecs accomplishes very little, as much of their essence is returned to the Nest after death, allowing new ones to be born quickly. That’s one of the reasons we tend to avoid fighting them when we can, only truly bothering to get into conflicts when they encroach on our land.”
+
+“I see,” Jake muttered. The Arachnecs sounded surprisingly similar to the Ectognamorphs, though as far as Jake knew, there weren’t any Lineages in the Endless Empire that were undead. Not that this kind of reproductive ability was exclusive to ectognamorphs in the first place. Even something like the rat colony Jake encountered in the Tutorial dungeon had the ability to mass-produce drone-like spawns.
+
+“Am I right to assume that they are aware of our existence even if none of them got away?” Jake asked, knowing that sometimes, these kinds of creatures had methods to remotely relay information back to their “queen” or whatever equivalent these Arachnecs had.
+
+“While they certainly know their kin have fallen here and will probably send more to investigate, they cannot send back any detailed information as far as we know,” the Shaman shook his head. “What can be done is fully relaying memories should one return, adding to what is essentially a shared knowledge pool that all Arachnecs inherit upon spawning.”
+
+Jake slowly nodded, as he couldn’t help but smile. “From the sound of it, this seems like a prime hunting ground. You wouldn’t mind sticking around and having some fun here, would you?”
+
+“While I would certainly find it questionable to remain, if you wish to continue slaying more Arachnecs, I will not get in your way,” the Shaman said with a low, croaky chuckle as he looked at Jake’s heavily injured leg. “Though I would recommend recuperating first. I know some healing spells, too, if you would allow me to assist you.”
+
+“Eh, no need,” Jake waved him off as he took out a healing potion and quickly chugged it, his leg healing instantly as flesh snapped together and mended as if glued. It was a good thing he had taken some time to give himself a nice supply of potions during his Lesser Primeval Energy practice.
+
+His action of taking out a potion had been casual and without much thought, which was why he hadn’t at all expected the result of the Shaman, who stared for a moment before loudly exclaiming:
+
+“That… how did you get such a treasure?”

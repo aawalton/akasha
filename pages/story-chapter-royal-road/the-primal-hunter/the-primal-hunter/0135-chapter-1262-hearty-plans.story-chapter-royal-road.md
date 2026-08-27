@@ -1,0 +1,105 @@
+---
+id: 5bf06211-f42e-5db2-8742-5f306c55ca10
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1262 - Hearty Plans"
+slug: 0135-chapter-1262-hearty-plans
+partOf: the-primal-hunter
+position: 135
+ownLength: 2738
+unit: words
+ownProgress: 2738
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3088057/chapter-1262-hearty-plans"
+royalRoadId: "3088057"
+markedReadAt: "2026-06-29T19:35:15.841Z"
+---
+
+Jake always felt like he had so much he needed to do whenever he returned to Earth. Was this partly because Jake purposefully avoided doing any of these things on a regular basis, piling everything up for him to handle at once? Sure, but he was never going to actually acknowledge that.
+
+After the beta test of Minaga’s dungeon, Jake returned to Haven, where he had a quick meeting with Miranda to get him up to speed about recent happenings. The two of them had been neglecting their regular check-ins, in part because there wasn’t actually that much happening Jake needed to know about.
+
+Not to say a lot didn’t happen. Earth continued to expand, and by now the planet’s population far exceeded the eight billion or so who lived there before the system. Even with rather strict immigration policies, many arrived from other planets in the galaxy and from other universes, giving Miranda and company a lot to deal with.
+
+Fortunately, she had a good support system around her. The Council she’d gathered had grown significantly, now including other competent World Leaders as its influence spread across the entire galaxy, but the core members of the World Council still remained and continued to focus on Earth.
+
+Arthur, Jacob’s father and the former leader of an alliance of smaller factions, had apparently really stepped up and taken over many of the more Earth-focused tasks. While he wasn’t that good at dealing with multiversal politics and all the races and factions that began to make a presence on Earth, he was extremely skilled at all things regular management.
+
+This allowed Miranda to focus more on the bigger picture than on the small stuff. She no longer had to be involved in things like city planning, but could instead leave the rest to others after doing territory planning. The only city she remained heavily engaged in was Haven, as she knew that was honestly also the only city Jake cared about, seeing as he lived there. That, and Skyggen, but the Court of Shadows managed that place.
+
+Jake also heard a lot of interesting things about other major cities on Earth that had begun to expand significantly. He honestly felt a little nostalgic when Miranda mentioned how Paradise had now become a major trade hub where the merchant factions gathered and placed many of their headquarters. By Miranda’s estimates, she wouldn’t be surprised if it became the financial capital of the planet sooner rather than later. He hadn’t been there since his visit with Carmen, where they helped fix her family troubles, but Jake was still confident he was banned in all the casinos.
+
+Renato remained in charge, but Sultan had also moved there and was apparently doing rather well for himself. Both of them were people Jake didn’t hear much about or see anymore, but as with many others, they were doing their own things in the background. Things that didn’t include hunting strong stuff or alchemy, which meant Jake didn’t care much.
+
+So many other factions had also truly begun to take root across the planet, effectively forming their own countries in the process. Jake still wasn’t sure how it would all work out, but Miranda seemed confident this was the best approach to ensure Earth could remain independent, no matter how contradictory that seemed.
+
+In her words:
+
+“The more factions have a presence on Earth, the less likely a single faction is to gain significant influence. No major faction wants to risk another expanding too much, making them effectively keep each other in check. If we only had a few factions, we would risk one making a move to assume control or a few teaming up, but what if we have all of them? A single faction trying to take over entirely risks pissing off everyone else, and making an alliance will be a tall order, to say the least. Given how many would be required to take part in the alliance, I trust my intelligence network is competent enough to pick up on it. That’s why many will probably decide that the best approach to maintaining a presence on Earth is to have a ruling third party... us. Sure, many will see it as the Order of the Malefic Viper, but fortunately, the Order is a predominantly neutral faction in the first place.”
+
+So, yeah, Miranda seemed to have it all figured out. She would be the wise ruler, while Jake remained available to be the blunt instrument in case anyone needed a beating. Not that she required his help currently, as even with all these immigrants and factions coming, Earth’s military might far surpassed them all combined.
+
+People like Scarlett and the Sky Whale alone were enough to utterly suppress most factions, being B-grades and all. Also, while it was theoretically possible for factions to bring in other natives from the ninety-third universe who’d reached B-grade, Miranda had wisely not allowed such a thing to happen.
+
+Still, if Miranda asked Jake to step in and help, he would gladly do so, but he had a strong feeling she would view it as a personal failure if she ever had to ask him to get directly involved in a matter.
+
+Anyhow, after Jake had a long, good meeting with Miranda and got the lay of the land, he paid a visit to Rick the troll and his kids in the cave system below his house. He played in the garden a little and noticed that Rick had really expanded it downwards through the tunnel system, effectively creating an entire underground garden for him and his kids to care for. The kids were also growing, though by now, Jake wasn’t even sure he would call them kids anymore.
+
+Jake also considered checking in on Arnold, who was busy making his moon base, but he ultimately decided not to, as the dude seemed busy. When he looked up at the moon and squinted a little, he could also see signs of the mad scientist’s presence there, and he was looking forward to visiting, but only when invited.
+
+There were plenty of other places Jake could visit, but he preferred to just head back to his own lodge, or more specifically, the alchemy lab beneath it. Jake didn’t have that many levels left before he reached B-grade, and he didn’t want to delay more. Especially not knowing how many of the people around him were on the precipice of evolution, with the possibility that some had already evolved.
+
+In his alchemy lab, Jake sat down and went over some other minor things he had to address. The first one was the Soulflame Cradle he’d received in Nevermore from defeating Minaga. He still checked it occasionally to see how things were going in there, and today was no different.
+
+Immersing his consciousness in the internal world of the Cradle, Jake saw that his arcane affinity was indeed making good progress inside. There were more Soulflames of his arcane affinity than any other, and honestly, at this point, it was just a question of time before he would get the Supreme Soulflame he wanted. Would it happen before B-grade? Maybe, maybe not. All he could do was continue checking and infusing energy into the Cradle here and there while hoping a Supreme Soulflame would emerge.
+
+Next up, Jake started considering whether he truly had anything else he wanted to get done before evolving. Initially, there really wasn’t anything. Jake had wanted to kill a True Dragon, and he’d done that. Maybe he could focus on trying to improve his class skills more, but Jake didn’t believe he necessarily had to, and in all honesty, he would rather focus on his profession for now.
+
+In that department, Jake didn’t see himself lacking anything either. All his Malefic Viper Legacy skills had been upgraded in C-grade, and while only a few of them had reached mythical rarity, Jake knew it was utterly unrealistic to try to upgrade them all. Especially seeing as he was out of uses for Path of the Heretic-Chosen. Besides that, he’d wanted to upgrade his Meditate skill and fix his Palate, something he’d also accomplished.
+
+He’d also wanted to upgrade his Concoct Poison skill, something he’d accomplished alongside hunting down a True Dragon. Really, looking back, Jake had gotten more or less everything done he’d wanted to get done, and now, he was starting to look ahead. As for whether there were any last projects he wanted to do, Jake quickly wrote them all off.
+
+Could he try to do another Primeval Origins ritual? Sure, but Jake didn’t believe now was a good time, and he didn’t have anyone to use it on either. During the dungeon with Casper, Jake had considered bringing up to the Risen that he could potentially help Lyra get a better B-grade evolution, but he’d ultimately decided not to mention it.
+
+Lyra was a Blightwraith and carried the Records of the Blightfather himself. In some ways, she was also the creation of the Primordial, and that made Jake more than a little hesitant. He didn’t know if the Blightfather already had plans or an evolution Path planned out for her, but more than anything, Jake feared that his interference risked outright killing her.
+
+She wasn’t a regular being in the slightest, but a ghost bound to Casper’s locket. She appeared entirely independent, but she wasn’t. Jake had never tried using his Bloodline-powered ability on someone like her, and he sure as hell didn’t want to risk killing his friend’s girlfriend just to experiment.
+
+Outside of her, Jake didn’t have any obvious candidates. Jasper had been a very sudden and spontaneous ritual, and while everything had worked out well there, he knew that compared to Sylphie, Sandy, and Vesperia, he was nowhere near as close to the little Shimmerfur Warpsnatcher. Technically, the Demon Prince from Nevermore was also partly one of Jake’s “creations,” but besides a wedding invitation with a date that had yet to be determined, Jake wasn’t particularly close to him either.
+
+Shaking his head, Jake went over some of the alchemical ingredients he’d gathered in recent times to try to figure out what kind of poison he wanted to work on. Starting another major project like learning to craft Bane Poisons wasn’t something Jake was interested in, as the research phase wasn’t exactly known to reward a lot of experience, and his main goal right now was still to reach B-grade quickly.
+
+Jake did have some ideas, though. His time with Casper had given Jake inspiration for how to use his own curse affinity to craft certain poisons, but he also had another affinity he wanted to get better with:
+
+Desolation.
+
+The concept of desolation was heavily tied to the Path of the Malefic Viper, and Jake knew he would have to learn more about it sooner or later. Fortunately, he was already making good progress in that department, courtesy of the massive fuck-up he made when he originally broke his Palate of the Malefic Viper skill.
+
+While progress remained slow, Jake was slowly but surely refining and absorbing Records from the World Core fragment he’d eaten. In fact, he was closing in on being confident of having more than just the core within his stomach, and as he was looking ahead to B-grade, he had some ideas of what he wanted to eat and become more familiar with for an upcoming project.
+
+First of which was an item Jake still felt very particular about and was honestly hesitant to use.
+
+[Starlight Heart of the Celestial Child (Unique)] – The crystalized heart of Ell’Hakan, also known as the Celestial Child, former Chosen and Usurper of Yip of Yore. This Starlight Heart was created after his death, containing his Records. Contains remnants of the Bloodline of the [Redacted], granting it unique powers. This item allows you to [Redacted] while held. Additionally, if consumed, the Starlight Heart of the Celestial Child may grant the consumer [Redacted]. May the powers of the moons and stars guide you.
+
+The odd, unique item dropped by Ell’Hakan was still something Jake didn’t fully understand. He knew it wasn’t normal, though. People normally couldn’t drop unique rarity items, even if they had Bloodlines or Transcendent Skills that were unique, yet Ell’Hakan had.
+
+Jake’s only guess about how that had happened was still that it had something to do with the odd state he was in towards the end of the battle. He was fully consumed by his own delusions and had effectively become some legendary being called the Celestial Child. Of course, he’d still died in the end, but he’d ended up providing quite an interesting item that Jake was deathly afraid of messing with.
+
+That didn’t mean he wasn’t planning on using it for something, though. He just knew that he wasn’t going to use it himself, as he still considered Ell’Hakan’s Bloodline way too dangerous to mess with. That’s why he planned to use it on someone or something else... and he already had a good candidate to combine the Starlight Heart with: another heart.
+
+[Light-touched Luxellian Dragon Heart (Mythical)] – The heart of a Luxellian True Dragon, touched and empowered by her kin mere moments after death. Contains the focused Records of a Luxellian True Dragon, granting it incredibly potent energy of the light-affinity and even the true essence of a dragon. Has many alchemical uses, but be warned that manipulating the inherent power within will not prove easy.
+
+Yrelstromoz’s heart wasn’t an item anywhere near the same tier as the Starlight Heart, but it was still the heart of a True Dragon and an item Jake had a certain level of emotional connection with, as it came from his first True Dragon kill. This connection wasn’t only emotional; it was also expressed through Records. Anything Jake crafted from items he obtained himself was inherently better than if he had merely bought those same materials.
+
+As for how Jake planned to combine these hearts... well, it wasn’t hard to guess. He had successfully slain a True Dragon, so why not try to do the exact opposite and help create one?
+
+It seemed like a good B-grade project to combine the hearts of True Dragons with the Starlight Heart and juice it all up with Primeval Origin Energy to see what he could create.
+
+Jake didn’t fear that he could somehow recreate Ell’Hakan’s Bloodline, even if he did use the Starlight Heart that contained Records related to the Bloodline. That simply wasn’t something Jake believed he was capable of doing... but should it happen, Jake was at least happy he was planning on birthing an entirely new creature and not helping an existing one evolve. Sure, it was still a little fucked up to kill a newborn baby dragon, but if that’s what Jake had to do to ensure Ell’Hakan’s Bloodline remained dead and gone from the multiverse, he would have to be a Dragonslayer once more.
+
+Admittedly, Jake had one minor problem with this plan... if he wanted to create a newborn dragon, he would need an egg. A proper True Dragon egg, and he had a strong feeling getting one of those wouldn’t be easy. He would have to ask Villy for some assistance on that one, that was for sure. Approaching the Dragonflights directly was also an option, but Jake was hesitant to do that as he didn’t want to force the born True Dragon into being part of the Dragonflights as some freak creature of intrigue.
+
+But he would cross that bridge when he got there. For now, he would focus on digesting more of the desolation World Core so he could eat the hearts, and in the meantime, he planned on going on a proper crafting spree. Just full-on experience grinding, and while it would definitely be boring, it was just the kind of thing one sometimes had to do if they wanted to reach B-grade and do even more cool shit post-evolution.
+
+With all that in mind, Jake pulled out his cauldron and decided to start with churning out some good old regular potions. That way, not only would he get some experience, he’d also create something actually useful to others.
+
+Truly, Jake was a benevolent and worthy World Leader who totally didn’t just want to use the variant Lavender flowers Rick had given him earlier that day. Nope, definitely not.

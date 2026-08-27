@@ -1,0 +1,329 @@
+---
+id: 52087459-012f-52f3-9d93-75258a4c742e
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 363"
+slug: 0061-the-path-of-ascension-chapter-363
+partOf: the-path-of-ascension
+position: 61
+ownLength: 6039
+unit: words
+ownProgress: 6039
+publishedAt: 2024-11-01
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1879786/the-path-of-ascension-chapter-363"
+royalRoadId: "1879786"
+markedReadAt: "2026-06-29T19:19:42.615Z"
+---
+
+Chapter 363
+
+The once pristine marble around the rift was positively bathed in blood.
+
+There wasn’t a single spot in the surrounding area that wasn’t completely soaked in blood, and looking up, the cause was obvious.
+
+There was a battle happening in the sky above, while lower Tier sect members fought street by street.
+
+The moment they appeared, several spiritual perceptions roughly scanned them, but none got through their defenses and the perceptions slunk away after the five of them lashed back out.
+
+Sien was standing off in a corner watching the show and waved them over. “Look at what you guys set off!”
+
+Phoenix Liz cocked her head so far, it was nearly upside down in confusion. “Us? How did we manage this?”
+
+Sien chuckled darkly. “The corrupt local official was apparently bought out by another sect, and your issues exposed his connection, which caused the attacking sect to launch their attack early, before their influence was completely scoured from the local one. Well done!”
+
+Matt scanned the surroundings but found that there were almost no low Tier unaffiliated people in the city, let alone mortals. They must have been evacuated before the fighting started in earnest.
+
+That, or they had been slaughtered completely before they had exited, but Matt didn’t want to think of that possibility because that would force him to act.
+
+Allie fingered one of her daggers even as her eyes darted around, but Sien waved her hand and created a portal out of a nearby shadow. “Best not to linger where we aren’t wanted.”
+
+“I’m surprised they are letting us leave so easily. Unless you informed them of your identity, Sien.”
+
+Zack's question reached the heart of the issue, but Sien shook her head. “I said I was incognito for this trip, and I shall remain so.”
+
+“Except for tea service," Aster quipped.
+
+“Or that time at the pastry cafe,” Allie added.
+
+“Or—”
+
+“A woman of my station needs her luxuries. Besides, it's completely different here. If they had known exactly who I was, they never would have launched this attack, and how boring would that be?”
+
+Matt shook his head. “Are the Sects usually this… involved? I feel like everywhere we have gone, things have been hectic.”
+
+Sien nodded slowly before shrugging. “Yes and no. We are in valuable, high volume systems, and that leads to conflict more than average. I’d say what we are seeing is average for these systems, with the understanding that this region is more contested than most.”
+
+From there, they broke into chaotic space and traversed seven worlds to reach their next destination.
+
+The rift there was a fun puzzle-jungle theme that they actually delved twice, as there were two main ways to beat the rift, each with their own typical rewards, and they wanted both.
+
+The first was the typical way to delve the rift by solving the puzzles, piecing together the clues until one was able to fix the hidden area with the boss.
+
+The second was to fly up and punch the hidden boss, the false sun that loomed large in the rift.
+
+Anyone who could kill the hidden boss was able to get an otherwise inaccessible rift reward, which was typically a Solar Oculus, a very rare Natural Treasure, which could be sold in the Empire for a large fortune to any fire mages who wanted the ability to shoot fire out of their eyes without a spell.
+
+On their first delve, they got a giant block of Icarus marble that was a decently valuable floating material that they intended to sell back in the Empire. The second delve, the one where they fought the sun, instead gave them a mediocre [Warmth of the Sun Shines Down on All Below Me Thereby Initiating the Growth of Life]. The pretentious name aside, the Tier 32 skill was a fairly complex plant growth encouragement skill that could sadly be replicated by any decent formation master, which made it fairly worthless.
+
+They were going to sell it, but Aster brought up a good point. They might be able to give it to Luna if she ever tried to turn Liz into a heat lamp, like she had done to Mara more than once. And if that didn’t work, the portable volcano might serve as a good heated bed.
+
+Matt doubted it would work, personally, but it would be funny to try.
+
+Allie wanted to try for a third time, but they ended up dragging her to the next location. But Matt was sure she made a waypoint at the system so they could return at any time. It was more of a question of if she would bring the rest of them, or delve the rift on her own when she inevitably slipped in.
+
+Days quickly morphed and elongated into years as they kept delving. Not all of the rifts were that interesting, but the progress felt amazing. It could easily take centuries to millennia to Tier up, starting in the late 20s, as rift slots became ever-harder to come by and healing cooldowns absolutely skyrocketed. But with two teams of Ascenders working together, meaningful wounds were quite rare, and the Sects were footing the bill for the rifts they ran.
+
+Were it not for the unavoidable injuries adding up and the time constraints they still had to deal with, Matt felt like they could make it to Tier 27 in as little as a half a century given their current pace. They weren’t even pushing that hard. Well, not by his standards of the Path and mid-war rushed delving, anyway.
+
+At one point, they completed a set of rifts that was scheduled to take them almost a year in two and a half months, so they ended up going back to Yun Me’s planet where they spent the rest of the year messing around with Sien.
+
+Yun Me and Gan Le were nearby, but the only one they saw was Gan Le, who was always battered and bruised when he came to visit.
+
+Matt personally wanted to clash with Yun Me, it would have been a fun battle to see just what level a ‘normal’ person could reach with a million plus years of training. But she must have sensed that, as she never showed up in person.
+
+During that time, Matt did get a better understanding of Gan Le and his powers. He had about as much offensive capabilities as a baby kitten. Well, by Ascender standards anyway. He was probably decent by more ‘normal’ comparisons, but Matt was self-aware enough to acknowledge he had no real clue what normal people their Tier were expected to be able to do. On the other hand his defensive prowess was top notch.
+
+He even got to see it first hand, as at Sien’s encouragement, they went into a local rift that had a giant tentacle ooze monster as its final boss. When neither Matt or Liz wanted to get close, Allie, at Aster's laughing suggestion, simply kidnapped Gan Le and they tossed him into the monster as a distraction. Despite yelling about the indignity, he didn’t actually get hurt in the entire fight, which was a statement of power all its own.
+
+Even their time between rifts was rather fun. As part of Zack and Allie’s buyout, they’d ended up with access to a decent number of Sect experts for training and lessons. A lot of them were too directly connected to their respective specialties to really be useful to Matt, Liz, and Aster, and others refused to give their lessons to anyone except strictly those they’d been paid to teach. But with a bit of help from Sien, they still ended up spying on those.
+
+Through the process, Matt’s overall impression of Sect skill modification culture ended up somewhere between skepticism and awe. It seemed like they were a bunch of superstitious, often-backwards self-righteous maniacs who were intentionally giving them bad advice at times… but at the same time, “might makes right” was a very literal proof that at least some of what they were saying had some truth to it.
+
+Imperial modification techniques were rigorous, straightforward, and reliable. They’d been honed over eons for maximum effect, and a properly-honed skill was one with no extraneous effects, optimized for pure performance. Sure, if you wanted maximum performance you couldn’t just blindly follow a guide, but that still meant you just needed to learn the underlying principles as to why and how a given action would improve a skill’s efficiency, or power, or cooldown. Only then could you effectively apply them to your skill.
+
+Aster could drastically cut back the prominence of the portion of her [Astral Path] skill that was responsible for generating aurora mana, for example, because the mana she supplied it was already aurora mana, and therefore didn’t need to be converted. It was simple, mathematical, and logical.
+
+His prior exposure to Sect modification techniques, such as the one he’d built his [Analyze] based on, had led him to believe that Sect techniques were similar enough, though more elaborate and involved at earlier Tiers. But that was proven distinctly wrong as he spent time learning from the respective masters directly in the Sects.
+
+Where an Empire module might guide someone to improve their [Fireball]’s cooldown speed by repeatedly dry-firing it while spiritually pulling on a particular portion of the structure, training the skill structure to prepare to fire faster while under stress, a Sect technique might involve a very specific and complex dance that needed to be memorized and mastered while tying the skill’s effect to completing that dance. Then, one would slowly pare down the dance itself until it got simpler and simpler, faster and faster, all the while reducing the cooldown it had been associated with.
+
+Matt had, when first learning about it, commented that it was like intentionally giving themselves training wheels, then removing them to improve their overall performance. Luna had swiftly disabused him of the notion, pointing out all the ways in which his analogy was incorrect, even on a surface level. But the main thing he’d taken away from that whole experience was that Sect skills often went through periods of intentionally making themselves worse before they became better, sometimes overtaking the more-regular improvements of Empire methods, sometimes not.
+
+He was only now learning just how true that was. Sect skill modifications could sometimes absolutely cripple the base skill, sometimes with no expectation that it would ever surpass the basic effect, just for entirely nebulous or incredibly rare benefit. There was a [Fireball] modification known as [The Blooming Of The Pyroclastic Garden] that was worse in every way than the basic skill, but was nonetheless quite popular, because if you later got ahold of an Embers Of An Ashen Rose, it almost instantly became an insane cascading multi-stage conflagration that coated everything in burning ash and opened the door for a dozen other improvements.
+
+It wasn’t like skill modifications that depended on a specific natural treasure were unknown in the Empire. Matt’s own Sliver of True Night’s Sight was the basis of a modification he’d made to [Telekinesis] to help him with sensory feedback. There were even a couple of modifications that effectively subsumed a natural treasure as part of their modification, requiring you to drink a potion made of the treasure or absorb it like a skill shard while performing some form of spiritual exercise. But he was starting to suspect that those rare modifications may have been leaked or copied from Sect equivalents, rather than happening organically.
+
+Matt considered himself fairly good at skill modifications.
+
+No, on a second thought, he considered himself excellent at skill modifications.
+
+His mana regeneration meant he could modify skills far faster than most people, an advantage only further amplified by his flexible innate skill slot from Minkalla, and he had taken lessons in skill modification from the very best teachers in the Empire. His skills had almost no truly wasted mana, with peripheral benefits resulting from everywhere it spilled beyond its bounds. If he had perfect mana control, his [Cracked Phantom Armor] wouldn’t glow slightly, but until that day came about, he’d rather benefit from it being harder to dispel. He knew all of the fundamental laws and basic principles for how skills worked and the ways they interacted with the world, the difference between good skill design and bad skill design, and had come up with several quite successful custom modifications.
+
+He was damn good at skill modification.
+
+Compared to Sect techniques, though, he was a baby playing with building blocks.
+
+Maybe.
+
+He still wasn’t entirely sure he wasn’t being messed with.
+
+According to one of the visiting teachers, what phase the local moon was in had a drastic impact on whether or not a given modification would work, and the world absolutely had to have exactly one moon, or else the modification would completely backfire. Another lecturer claimed that a certain modification must be performed while unconscious, advising that while an AI was acceptable, it would be better if either a dedicated skill- specifically, a modification of [Copy Text] of all things- or a Domain was used to do the mod. Oh, and while sleep was allowable, it would be better if it was due to passing out drunk while in a room filled with incense smoke. A specific kind of incense made it even better, supposedly.
+
+By far the most outlandish one, though, was the woman who claimed that certain classes of skill modification techniques, performed in the same way by different people, could have different outcomes solely depending on whether someone was married or not.
+
+That didn’t even make sense, but she had enough anecdotal evidence that made Matt question things.
+
+Then again, there was a lot of stuff that didn’t make sense. Some skill patterns, from what he knew, couldn’t work. One modification for [Endurance] created a section of the skill completely disconnected from everything else that only functioned as a timer of sorts. Nevermind that it wasn’t built like a timer, and he had no idea how it kept track of time. But if that timer was removed after it was created, the entire skill stopped working. Even the basic skill effects that shouldn't have been affected at all were disabled.
+
+He was so close to calling the person who told him that out as just trying to give him bad info, but Sien confirmed that it was all true, as she had done a similar mod when she was a lower Tier, except hers had required her to be eating coconut as well.
+
+So in the end, Matt was forced to acknowledge that there was at least some stuff going on that he didn’t understand, and that skill modification was more complicated than simple mathematics.
+
+A good half of what he was learning had to be pointless superstition, but there was no way to figure out which half or what grains of truth might be hidden within without decades, probably millennia, of testing. How anyone was supposed to figure out custom modifications in this framework was beyond him, but apparently very few people made entirely custom modifications. Those who did frequently had a Talent or Domain helping them, while everyone else managed to figure out a way to modify a modification to apply to a different skill.
+
+Overall, the most tangible advice he picked up was regarding skill merges, how to identify what he thought of as “nodes of attachment,” and how to develop an eye for what apparently-harmless modifications might completely ruin everything. He’d need to pick up a bunch of low-Tier skills and experiment before committing to anything, but he had a few skills that he wouldn’t mind merging. Even at a very basic level, [Archmage’s Presence] and [Cracked Phantom Armor] were two skills that he basically never used separately, and even being able to get the benefits of his innate skill slot to both of them simultaneously was tempting.
+
+It was probably Liz’s eternally optimistic attitude on how well things would go rubbing off on him, but depending on how he managed the merge, he might be able to make [Cracked Phantom Armor] into a true channel, entirely removing its normal mana throughput limits and freeing him from his everlasting efforts to keep it capable of keeping up with him.
+
+Or maybe he’d be able to enhance [Archmage’s Presence] with his Tier 25? As a life-aspected spell, he couldn’t use his Talent’s skill-reinforcing mode to strengthen it, but having flexible mana crystal [Cracked Phantom Armor] embedded in his body would probably do something impressive if he could properly integrate the spells together. He’d been very pleased with how his Millennium Willow Lifesap had strengthened him, and tying the merger of [Cracked Phantom Armor] and [Archmage’s Presence] into the effects of that natural treasure could be very interesting.
+
+Going for both would probably be… not impossible, nothing was impossible. But he would undoubtedly be forging new ground with such a merger.
+
+The most likely outcome would probably require him to make one skill or the other a primary, and the other a more definitive subservient skill. As far as merges went, he was practically a complete novice, and none of the people he spoke to in the Sects had any experience too applicable to his exact situation.
+
+Regardless, he needed to first finish up his modifications to help [Archmage’s Presence] stack with his lesser buffs like [Mage’s Retreat], [Ranger’s Sight], [Barbarian's Hide], and the like. It was possible to get two buff skills that functioned in the same way to stack, but doing so would typically harm efficiency when only using one of the two. Not that Matt cared too much about that, not when doubling up would increase his effective maximum buffs and help him benefit from more than just the lower-Tier skill’s secondary effects. But it was an annoyingly long process, even if an entirely known one.
+
+That meant it would be a long, long time before he tried to do that particular merge. Even beyond everything else, cracked skills and high-Tier skills were famously difficult to merge individually, and he was absolutely not going to risk his first skill and his highest-Tier skill until he was certain he wasn’t just throwing them away.
+
+His first major target was probably going to be merging [Tribulation Strike] and [Mana Charge]. It was a good mid-term goal, as [Tribulation Strike] was already heavily modified from its original form as [Lightning Torrent], and if he could pull off a merge of a ranged channel skill and a melee weapon empowerment, he’d consider himself ‘pretty good’ at merges.
+
+With just a few months left of their time in the Sects, the seven of them were out shopping. Gan Le had been dragged along, as he was the only one to have actually gone to the secret market they wanted to visit, when they had another incident.
+
+Gan Le, over one of their dinners, had mentioned a black market he had visited when he was a mortal that had had a treasure Liz was looking for. Trees of Beginnings were rare, and all of the known ones weren’t set to flower for a few thousand years, but Gan Le suspected that the black market’s tree had flowered in the last fifty years based on when he had seen it last and their typical blooming cycle. If true that meant they might still have some of its pollen. Pollen that Liz wanted to augment her blood lemon tree.
+
+Trees of Beginning were life mana treasures and their pollen was incredibly potent, almost dangerously so. It could, if transferred to other tree type Natural Treasures or items, rapidly age them without significant side effects.
+
+Liz’s lemon tree was still incredibly young for a dryad spawn, which limited its maturity cycles. She believed that was why no matter how much mana and blood they fed it, the tree was slow to produce Rank 2 bloodlines and seemed to refuse Rank 3 ones all together.
+
+Sien hadn’t even known there was a black market at that location and volunteered to get them close, despite Gan Le’s insistence that he could go there and get some of the pollen himself without creating an incident. Frankly, Matt agreed with him: Gan Le was nothing if not low key, and if he went to buy something no one would look twice at him, whereas their group was anything but and from what he had seen of the Sects, a black market was bound to be a truly lawless place.
+
+Despite his misgivings, between Sien, Aster, and Allie wanting to go, he and Liz decided to just tag along.
+
+After hearing that Gan Le had stumbled on the location when he was just a mortal, Matt hadn’t expected much, but he was proven wrong almost immediately. The black market was like a pocket dimension inside a slum that even Allie couldn't pinpoint until after she entered the first time because, as she explained, it wasn’t actually a pocket dimension and they weren't using spatial magic at all even if it looked like it.
+
+Once they entered, they immediately found the Tree of Beginning, which bloomed with light as tens of thousands of paper lanterns were hung from its branches. The tree was far older than Gan Le had implied, and even Sien whistled upon seeing it.
+
+“We can avoid the market itself and reach the House of Beginning in a few minutes. Their exchange house manages the tree and keeps its discards.” Gan Le almost seemed to beg them.
+
+At least Matt imagined that was what he was doing as he tried to steer the group away from the bustling central market.
+
+Allie laughed as she headed in the opposite direction. “Not a chance. Let's check the stalls. I see a pair of bracelets I want to check.”
+
+“This is a very lawless place. I recommend we complete the mission without detours. I—”
+
+“Booooring.”
+
+Matt shrugged as he and Liz followed Aster and Allie, who ran ahead. “For what it's worth, I agree. We should buy the pollen, then window shop.”
+
+“Is it really window shopping if the businesses in question don’t have windows?”
+
+Matt contemplated Liz’s comment but shook his head, denying her. “It's an expression. You called it window shopping when we checked out weapons a few decades ago, and they had the weapons laid out on mats, so I’m going to count this.”
+
+Zack shook his head. “Window shopping is just looking without an intention to buy. Simple. But Allie always wants to buy things, so she can never go window shopping.”
+
+Gan Le opened his mouth to say something, but simply shook his head, following behind and resigning himself to his fate.
+
+They made their way through three different stalls without seeing anything too interesting, but on the fourth one, Matt found a rift-made pillow that was said to be unstoppable once in motion. As his Intent had a similar but opposite effect, he wanted to test the item and see if, like his heart of a black hole, he could use it to hone his Intent just as he had done to his Concept.
+
+It was cheap enough that he was pretty sure the effect would be minimal, but at worst, he was out a few seconds of regeneration.
+
+Sien even picked up a vial of silvery liquid said to induce nightmares from a stall selling poisons. She immediately downed the bottle like a shot of liquor, which terrified the seller so badly they immediately swept the rest of their belongings into a spatial ring and fled the hidden realm, not even taking her proffered payment.
+
+Sien merely dabbed the corners of her mouth with a procured silk cloth. “Curious.”
+
+“Did it do anything to you?” Liz inspected Sien like she was expecting the other woman to sprout tentacles or something horrendous.
+
+“Naturally. However, I am far superior to it, and even nightmares know to defer to their betters. If you are so inclined, I could expose you to a recreation of its effect.”
+
+Matt quickly denied for both of them, even as Gan Le quickly backpedaled before Sien’s gaze could travel to him. “I think we are good.”
+
+Aster was two stalls over, looking at the Natural Treasures laid out, and Matt hurriedly followed Gan Le to join her, dragging Liz along.
+
+That was part of the charm about this black market; things were so intermixed it was impossible to guess what the next stall would have.
+
+Liz, clearly copying Sien, picked up a Tier 20 flower crackling with lightning and popped it into her mouth, chewing through a grin at Matt.
+
+The vendor looked horrified, but Matt just started bargaining. Liz eating the merchandise put them in an awful starting position, but he was determined not to get fleeced.
+
+Just as Matt was getting the woman down to a reasonable price, a shout from the side wretched their attention.
+
+“Get out of my way and hand it over. I saw it first!” A Tier 28 woman was in Aster's face and shouting.
+
+Asters response was curt but she didn't back down. “It was in my hand first. Buzz off.”
+
+The Tier 28 seemed a little surprised to hear a lower Tier talk back, and her response was to flex her cultivation, trying to pressure Aster. It might have been impressive or threatening, but not even a hair on his bond’s tail fluttered, which made the display pitiful instead. “Hand it over or I’ll take it.”
+
+Matt felt Aster’s hackles rise and his own reaction was to get ready for a fight.
+
+Sien had vanished to somewhere, clearly not interested in interfering.
+
+Zack didn’t visibly do anything, but Matt noticed the small formations start to appear around his hand as he prepared for combat. Allie likewise had her daggers out and her expression had gone flat.
+
+Matt took a step away from Liz, giving them both room in case things turned hostile. Part of him wanted to tell Aster to just back down, no Natural Treasure could be worth the bullshit that would follow, but he deferred to Aster.
+
+Matt even noticed that Gan Le had spread his aura of protection over Aster, which at this distance would be enough to ensure she survived even a fatal blow.
+
+The Sects didn’t have any punching down laws. Even if it was fairly rare for a higher Tier to besmirch their honor by attacking down, it wasn’t prohibited.
+
+Not that a similar number of Tier 28s were any threat to the five of them.
+
+Aster started to shimmer as the woman leaned in close enough her nose almost touched Aster’s. “Now.”
+
+Instead of immediately responding, Aster sent them a message. ‘Let me handle this.’
+
+Aster looked the woman up and down before she sneered. “No. And if you don’t back down, I’ll put you on ice.”
+
+The Tier 28’s hand blurred as it wound up to slap Aster, but before the attack brushed his sister’s hair, the woman vanished in a puff of wintry air. Aster smiled slightly as a snowflake-laden breeze caressed her face. In a move he was sure she had practiced, Aster caught a single snowflake on the tip of her finger and licked it off with a vicious, tooth-filled grin.
+
+Matt nearly laughed at Gan Le’s instinctive shiver, but instead got ready to defend Aster from the remaining part of the group.
+
+One of the party members shouted even as he ran at Aster. “What have you done, you wench? Do you know who her father is?!?!? You court death by offending the—”
+
+Aster raised a finger to her lips and blew a puff of air in the direction of the offended man. The faint gust of wind picked up a glimmer of aurora as it traveled, and as soon as it reached her new target, he too vanished.
+
+Matt didn’t bother to hide his smile. Aster’s Tier 25 Talent hadn’t seen much use beyond being an extra store of mana in the war, as it functioned on spatial magic principles, and the countermeasures aimed at Allie blocked Aster’s own efforts quite well. But out here, with no Ascender-grade spatial blocking to be seen? They didn’t stand a chance.
+
+A pair of marketplace guards appeared, both Tier 28 and brimming with combat buffs aligned with a formation buff that was activating around them. It moved to suppress the six of them and boosted the guards into Tier 29 levels, but that meant nothing as Zack raised a hand and a fractal appeared above them, nullifying the formation around them.
+
+At the same time, the two guards moved to apprehend Aster and Matt could feel dozens of other cultivations flare as more and stronger guards started to respond to their disturbance.
+
+Liz teleported in front of one of the guards and drove her spear through his chest in one fluid movement. It wasn't lethal, Liz having not activated any of her more sinister attacks that would have targeted the guards spirit, but it stopped the guard in his tracks.
+
+Gan Le, despite still providing his defensive aura to Aster, did his best to fade into the background. That was until a stray lightning bolt from one of the guards struck him dead-on, it didn’t make him so much as flinch, but it did prompt him to take a bit more of an active role, and he tossed up a few barriers meant to hamper their attackers.
+
+Seeing they had things well in hand, Matt tossed the vendor he had been bartering with a Tier 32 skill shard to cover the flower Liz had eaten and the disturbance they had caused next to her shop. She was already packing her goods away, but took the skill with a nod before vanishing.
+
+Matt, just like Liz, used their bound rings to teleport forward and drove his fist through the chest of a third guard that had arrived.
+
+The fourth and fifth who had arrived with him moved to attack Matt, but their heads separated from their bodies as Allie’s daggers flicked in and out of existence.
+
+Trying to ensure things didn’t escalate more than they had to, none of them were using lethal blows, so Matt and Allie allowed the three to retreat instead of finishing them off.
+
+Matt sighed and looked over to the base of the tree where the pollen they needed should be sold.
+
+“Any chance they might let us buy the pollen if we ask ni—” Sighing he shook his head as he realized just how ridiculous that statement was. “Never mind.”
+
+Instead of waiting, Phoenix Liz flew forward to the shop just to get intercepted by close to a dozen guards.
+
+Liz squawked and drops of golden blood flew out and struck the leading few guards.
+
+They seemed shocked as the attacks not only pierced their armor, but their defensive spells as well, and that quickly morphed into horror as the blood started corroding them from the inside out. The moment they started to flee the corrosion stopped, but before Matt could see if they returned, he was forced to teleport forward to punch a mage who had conjured a bolt of void mana between their hands.
+
+Zack appeared next to him a moment later in a burst of travel mana before he punched the air and a series of invisible walls that were forming around them fell apart like planes of glass.
+
+More guards rushed in, but this time they were Tier 30s, and Matt knew their little game was about to end.
+
+Flashing forward, Matt entered the House of Beginning with Liz to find a pair of terrified sales people.
+
+Stepping forward, Matt forced out a smile. “Hello, we would like to buy two doses of Tree of Beginning pollen. I—”
+
+The man pointed to the side and shouted and Matt just sighed as he found a vault a few rooms away. It was incredibly secure, made out of Tier 35 materials and enchanted to its gills but Matt ignored all of that.
+
+Pressing his hands to the wall, he started dumping mana into the formation. It had anti overload shunts but they were meant to handle backflow and not close to fifty million mana a second.
+
+The runes started to glow before they went critical and failed not even a second later.
+
+Zack was ready and drove a single glowing finger into the metal which parted around him like he was repulsive.
+
+Inside the vault, they found Allie holding two massive bags filled with seemingly everything in the vault.
+
+Phoenix Liz, perched on his shoulder, laughed even as Liz, Aster, and Gan Le arrived in the building but Matt put his foot down.
+
+“We are only here for the pollen. And two doses, no more. And we are paying.”
+
+Allie theatrically sighed. “You're no fun.”
+
+Dropping the bags, she pulled out two small wax paper packages. “Sadly, I expected that and was prepared.”
+
+Doing some quick mental math, Matt tossed what he hoped was the appropriate price onto the ground, along with enough to hopefully cover the damage to the vault he and Zack had caused.
+
+He then doubled it, as he was pretty confident that Allie had pilfered a few things before they arrived, but his deliberation was cut short as the Tier 30s were bursting through the front doors.
+
+Allie waved to a shadow next to the door. “See you back at Yun Me’s!”
+
+With that, the six of them appeared at the guest house and Gan Le sighed before taking out a new set of robes.
+
+“Why couldn’t we just buy the pollen first.” He seemed to be working up a head full of steam and pointed at Aster and shouted, “And why not give her the Klipiso Scale!? You don’t need it! It's a defensive Natural Treasure! Why can’t Masters be normal? What is wrong with you all?”
+
+Aster reeled back as if struck, but Matt could tell she was thoroughly enjoying herself.
+
+Gan Le rubbed his face before peeking out between his fingers with his pupil-less eyes. “Are they at least alive?”
+
+Aster twisted her toe into the ground, giving Gan Le her best puppy eyes and Matt could feel she was needling him trying to get another rise out of him. “Define alive?”
+
+“Ahhhhhhhhh!”
+
+Seeing she had thoroughly broken him, Aster laughed and waved a hand. In a puff of cold air, five blocks of ice appeared in the guest house.
+
+Allie looked from Gan Le to the statues . “Hey, how come you didn’t turn into an ice pop when Aster put you on ice? Should we try again?”
+
+Gan Le sneered, his attitude turning around immediately. “As if I could be bested by such a trivial technique.” Catching himself, Gan Le took a deep breath before closing his eyes and saying, “At least they are alive. How long will it take them to thaw out?”
+
+Aster shrugged. “Maybe a decade or two without a good ice mage or fire mage to remove the ice? Depends a bit on their cultivation. But possibly longer if we stick them somewhere cold.”
+
+Before she could say any more, Yun Me appeared in the living room and inspected the statutes. Her next question was flat, like she expected to hear news she didn’t want, but knew she couldn't avoid. “How many dead?”
+
+Allie sighed. “Zero. Matt didn’t even let me pilfer the place either. I was waiting for something like this to happen for the last few years, and he ruined half of the fun.”
+
+Yun Me impassively looked at all of them, her expression unreadable. “Very well. I shall impress upon them the futility of pursuing revenge for this humiliation, though their survival at least lessens the likelihood of their families pursuing you. Regardless, I do believe this serves as an adequate conclusion to your time here. My servants would escort you out, but I know you do not intend to wait for them. Goodbye.”
+
+At the curt dismissal, Allie laughed, and Matt felt a wave of teleportation pull them back to the Empire.

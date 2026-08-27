@@ -1,0 +1,449 @@
+---
+id: 5aa937c1-bb77-5397-be20-598c05ed9e33
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71: Of Potions, Paw-Speed, and Shadow Tactics"
+slug: 0072-chapter-71-of-potions-paw-speed-and-shadow-tactics
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 72
+ownLength: 2058
+unit: words
+publishedAt: 2025-11-25
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2792770/chapter-71-of-potions-paw-speed-and-shadow-tactics"
+royalRoadId: "2792770"
+---
+
+PoV Luna
+
+Luna figured it out!
+
+Well – almost.
+
+First, she stumbled. Then she got up.
+
+Then she ran. A lot!
+
+Now she padded back toward her pack, tongue hanging loose, tail wagging weakly, fur matted and full of adventure. Each pawstep wobbled. Her breath came in happy wheezes.
+
+“Second!” she barked dramatically. “Luna tired!”
+
+Syl looked up from her travel pack, one brow arching over a soft smile.
+
+“Oh, are you now?”
+
+“Yes! Ran far! Fastest! But Luna tired. Little tired. Maybe small nap tired.”
+
+The elf’s expression stilled, thoughtful. Instead of teasing, she reached forward and ruffled Luna’s head-fur.
+
+Her fingers brushed the spot behind her ear – dangerously perfect, unfairly precise!
+
+Luna melted.
+
+“Mmh. Yes. Right there. Luna reward for hard work!”
+
+Syl chuckled.
+
+“Poor fastest wolf. Here, maybe this will help.”
+
+She rummaged in her satchel and pulled out a small glass vial, its contents shimmering a deep yellow under the morning sun.
+
+It smelled odd. Sweet, earthy, and slightly burnt – burnt soup and dirt pretending to be fancy.
+
+Luna sniffed.
+
+“Weird smell.”
+
+“Stamina potion,” Syl said. “It’s not meant to be tasty. Just meant to work. Though some use it like energy tonic, even mixing it with coffee…”
+
+Syl shuddered at that thought, but Luna just tilted her head. She didn’t know what that ko-fee thingy was, or why her Second would react like that.
+
+But most importantly!
+
+“So… chew or drink?”
+
+“Drink.”
+
+Syl popped the cork and gave Luna to sip on.
+
+“Ooooooh…”
+
+Untingly tingly! Not spicy-tingly or mana-tingly, but buzzy, earthy, full-body sparkle-tingly! Her fur prickled. Her paws twitched. Her eyes went wide, shining with renewed vigour.
+
+She could feel it starting to course through her body fast, almost as fast as Luna!
+
+“Luna feels… awake!”
+
+Trianna laughed from her seat by the fire.
+
+“So, is our wolf friend done running for today?”
+
+Syl only smiled knowingly.
+
+“I doubt it.”
+
+The words hadn’t even left her mouth before Luna froze mid-tail-wag.
+
+Wait!
+
+Wait wait wait–
+
+New idea!
+
+Awoomazing idea!
+
+She turned sharply, eyes gleaming.
+
+“Second!”
+
+Syl blinked, wary now.
+
+“Yes?”
+
+“Can Luna has more potion?”
+
+“Oh?” Syl’s lips twitched. “No longer just ‘gib’? You’re learning manners.”
+
+Luna stood tall, tail waving proudly.
+
+“Luna always polite!”
+
+Syl’s hand patted her cheek gently.
+
+“But you know Luna, polite wolves say ‘please’, or maybe even ‘pretty plea–’.”
+
+“PWETTY PLEASE!!!”
+
+Syl snorted, covering her mouth to keep her composure.
+
+“Alright, alright. But use it carefully. Not too much at once, understood?”
+
+“Yes! Thank you, Second!”
+
+And then Luna was just gone.
+
+One blur of silver fur and excited yipping shot across the plains again, potion clutched triumphantly between her teeth.
+
+A few heartbeats passed before Sepio sighed.
+
+“You do realize those things are expensive, right? And you just gave her another one like it’s candy.”
+
+Trianna grinned.
+
+“You say that like it’s not adorable.”
+
+Syl tucked her pack away, shoulders shaking with quiet laughter.
+
+“I can always make more.”
+
+Ray watched the silver streak vanish into the horizon, his usual smirk softening.
+
+“You know… it is Syliana’s money to burn. And honestly…” His eyes glinted, following the rapidly moving wolf girl. “That might be the best investment I’ve seen yet.”
+
+Veric nodded once, approving in his quiet way.
+
+“Hrm. Agreed.”
+
+Sepio groaned, rubbing his temples as they began packing their gear.
+
+“Children and chaos…”
+
+But even he couldn’t quite hide the small, reluctant smile tugging at his mouth.
+
+Somewhere ahead, the wind carried Luna’s triumphant howl across the plains.
+
+The pack moved again, and for once, the road didn’t feel long.
+
+***
+
+Second was the bestest Second. Ever!
+
+She gave Luna potion - which Luna tested. And managed to store in her Maw!
+
+Very nice!
+
+And she gave pats!
+
+And ideas!
+
+Yes, her Second was best.
+
+The wonderful yellow stuff tingled through Luna’s veins – warm, fizzy, alive. Every pawstep felt lighter. Every breath burned brighter.
+
+The world wanted her to run, and Luna was happy to oblige!
+
+Her paws barely touched the dirt before she was already three strides ahead. The plains blurred, grass whispering her name in every gust.
+
+Yes! Fastest wolf!
+
+But…
+
+She could be a fasterer wolf!
+
+Luna just had to chew out the how!
+
+“More Run!” she announced proudly to the grass, pacing in tight circles. Then stopped, ears flicking, thinking hard. But Run alone was not good enough, not fast enough.
+
+“So… maybe also Jump?”
+
+Run and Jump. That sounded smart!
+
+Luna nodded at her brilliant idea. And immediately went to put it into action!
+
+Run and Jump Tactics! Engaged!
+
+She bolted forward, leapt forward, landed, ran, leapt again. Each bound turned smoother, stronger – like rhythm made of wind. Her fur streamed behind her, and the world beat like a drum beneath her paws.
+
+The next leap stretched farther than expected. The one after that nearly doubled it.
+
+Each skill use demanded its price, but the potion delivered more than enough!
+
+“Ha! Fasterest Luna plan works! Genius!”
+
+She could feel as Momentum Claw thrummed in her bones, hot and eager.
+
+It didn’t need prey right now, but the motion made it sing! Energy coiled and snapped in her muscles, driving her to move again, again, again.
+
+Luna felt, that if she so wished… Momentum Claw would make short work of even the big ugly ogre thing!
+
+Her eyes gleamed, and she bounded forward, the thought forgotten.
+
+But the plains were still too big. Very big.
+
+And far too empty.
+
+Stretching too far!
+
+Run and Jump Tactics… weren’t enough alone.
+
+Her nose wrinkled in thought mid-sprint.
+
+Being even faster would be soo glorious!
+
+Luna just had to figure out how!
+
+Shadow Step?
+
+Maybe that would work?
+
+Luna blinked forward through her own movement, a streak of silver light. Then again. Then slowly skidded to a halt.
+
+It worked, made Luna cover more ground!
+
+But… it didn’t add anything to Run. Just… skipped Luna forward!
+
+And not very far either. Not much shadow on the plains.
+
+Cheaty-step. Fast, but lazy. No good for Run training!
+
+Still…
+
+Hm.
+
+Hm-awoo-hrm.
+
+But what if…
+
+Luna used her own shadow?
+
+Shadow might not be everywhere. But it was always under Luna!
+
+Oh yes!
+
+She frowned, panting. Sipped on potion. Thought long and hard again.
+
+No. Not good enough.
+
+Not for Shadow Step.
+
+But?
+
+Oh yes!
+
+Shadowmeld... It worked. It could work. It would work!
+
+Her shadow stretched long in the afternoon light, dark silk flowing under her paws. Always there. Always loyal.
+
+She grinned.
+
+“Perfect!”
+
+Luna dipped her focus into it, claws brushing the surface of its darkness like cool mud.
+
+Shadowmeld shimmered, thin and slick.
+
+And suddenly – Luna found her grip.
+
+No drag. No bounce. Only… slide. The shadow offered no resistance. The connection between her paws and the world melted smooth.
+
+Her Run surged. Her Jump lengthened. Her tail whipped behind her, balancing the rush.
+
+It wasn’t running anymore. It was gliding, streaking forward like a thrown arrow wrapped in fur and joy.
+
+“Ha! Luna genius wolf! Fasterest invention complete!”
+
+And then as her leap was about to end and her paws struck the shadow underneath her again… Luna had an idea.
+
+Shadow did not need to be faster. It just had to move as Luna wanted.
+
+And she wanted it to push, to slide her forward!
+
+Her paws struck shadow again, and the trick clicked in her mind with the precision of a perfect bite. The shadow no longer just followed… It moved as she willed it.
+
+She leaned forward, focusing hard. And then–
+
+“Go!”
+
+The world around Luna accelerated.
+
+The world tilted.
+
+The air screamed past her ears.
+
+Her heart hammered fast enough to outpace thunder.
+
+Level ups pinged.
+
+【Run Lv. 12 → Lv. 13】【Jump Lv. 8 → Lv. 9】【Shadowmeld Lv. 7 → Lv. 8】
+
+She didn’t stop to read them. Didn’t care!
+
+She was flying now – four paws, one grin, and a shadow that carried her faster than thought.
+
+The speed, it was amazing!
+
+One moment it felt like Luna was almost standing still.
+
+The next... she zoom-slided ahead.
+
+***
+
+PoV Adventurers:
+
+At first, the party watched her run out of idle curiosity.
+
+After all, how much could one wolf possibly sprint before getting bored?
+
+In Luna's case – it turned out the answer was 'until the legs give out'.
+
+Luna didn’t stop. She didn’t even slow. Every few seconds, a silver streak tore across the plains, kicking up a storm of dust before vanishing again.
+
+But as they watched, they realized she was going faster. And faster. And then she went so fast they could scarcely believe their eyes.
+
+The shadowy silver streak just zoomed into the beyond.
+
+“…What in the heavens and all the layers of hell just happened?!” Sepio shouted, his shield half-raised as if expecting divine smiting.
+
+Trianna blinked twice.
+
+“Was that… Run skill training or divine possession?”
+
+Ray’s jaw hung open.
+
+“I think that was the sound barrier.”
+
+Veric stood still, eyes narrowing in quiet calculation.
+
+“Speed like that doesn’t exist at Tier 0.”
+
+And only Syl grinned happily, a mischievous glint in her eyes. That soft, maddening smile that meant she had known something the whole time.
+
+“...She’s beginning to believe.”
+
+Sepio whipped toward her, incredulous.
+
+“She what now?! Syl, do not start with your elf riddles now! Are we REALLY sure she’s just a Tier 0 wolf pup?!”
+
+“Yes, I am sure of that.” Syl replied calmly, still watching the horizon where flashes of shadow and silver bent the very sunlight.
+
+“A Tier 0 Wildling. And she’s our companion. Though even now she continues to amaze, and is clearly still growing.”
+
+“Growing?” Sepio repeated, voice cracking. “She’s making me feel like a rookie again! We’re B rank adventurers, not– not–”
+
+“Not joggers?” Trianna finished sweetly.
+
+“Exactly!”
+
+Trianna giggled, resting her chin on her bow.
+
+“But she is adorable, though. Fast and adorable. And she took a Potion of Paw-er! No stopping her now!”
+
+Sepio groaned, and even Syl barely stopped herself from facepalming. Instead the elf hid her face and pretended to cough.
+
+Veric grunted, ignoring the terrible pun.
+
+“Adorable and dangerous.”
+
+Trianna’s grin widened.
+
+“Exactly my type.”
+
+“Please,” Syl sighed, a faint pink blooming across her cheeks. “Let’s not start that again.”
+
+"Alright, alright! And Veric is not wrong there, she is dangerous.”
+
+The others just nodded.
+
+“But you know, we're just baaarely B rank here? And we were only allowed on this mission because of our great lord and benefactor Syliana!"
+
+Syl flushed at that.
+
+"You know I'm no lord."
+
+"Yes, yes, miss amazing 'I was promised A rank if this mission was a success.' While the rest of us plebeians still have to prove our B rank worth~!"
+
+Although the words sounded accusatory, Trianna's tone was teasing, and her hugging Syl made it all but a joke.
+
+Ray, still half in awe, chuckled.
+
+“You all realize she’s technically Syl’s familiar, right? Which means our boss is also the boss of the fastest thing we’ve ever seen.”
+
+Trianna looped an arm around Syl’s shoulders dramatically.
+
+“Our beautiful, terrifying, wolf-raising boss!”
+
+Syl tried to look stern but ended up laughing, voice light and genuine.
+
+“You’re impossible.”
+
+Veric stretched, rolling his shoulders, a rare grin tugging at his face.
+
+“The wolf is right.”
+
+Sepio blinked.
+
+“What?”
+
+“She told us to run. And we did not run. Her training is bearing fruit, while we’re staying behind.”
+
+The swordmaster stretched his body while saying that.
+
+“You’re not actually suggesting–”
+
+"I'm going to run now. You're free to gawk. Or follow."
+
+Veric started running.
+
+Sepio froze.
+
+“Oh no. Oh no no no.”
+
+Trianna let out a whoop and sprinted after him. Ray sighed once, loudly, before jogging to follow.
+
+Syl’s laughter trailed them all.
+
+“Don’t fall behind, captain!”
+
+Sepio groaned skyward, then broke into a jog, armor clanking in protest.
+
+“I hate this party!”
+
+“You love us!” Trianna called back, laughing.
+
+And there, beneath the bright sweep of morning sky, the “serious adventurers” ran – boots pounding the dirt, laughter breaking through exhaustion, something wild waking in their steps.
+
+Ahead of them, one silver wolf streaked through the wind, potion clenched between her teeth, tail flying proud as a banner.
+
+The plains blurred. The horizon raced closer. The air itself seemed to sing.
+
+And Luna – Apex Predator, Fastest Wolf, Bestest Runner–
+
+–didn’t even notice she had taught her pack to run.

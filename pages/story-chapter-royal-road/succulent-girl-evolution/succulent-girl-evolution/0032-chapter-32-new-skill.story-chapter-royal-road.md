@@ -1,0 +1,111 @@
+---
+id: feaaa997-7df6-5b91-a5b3-f82a94ac46e2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: New Skill"
+slug: 0032-chapter-32-new-skill
+partOf: succulent-girl-evolution
+position: 32
+ownLength: 2196
+unit: words
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2658394/chapter-32-new-skill"
+royalRoadId: "2658394"
+---
+
+“Okay! New day, new skill, let’s see how well we work together!”
+
+Grafting Hugger had taken the rest of the evening, so Bubbles wasn’t able to experiment too much with her new Clutch ability; the most she had done during the night was try growing vines, but with Hugger being so young, the vines hadn’t been very useful: they just got floppy, and weren’t able to hold themselves up because the stems were too thin.
+
+As Fern continued consuming organic waste from the vine removal, Bubbles planted herself beside a tree and urged Hugger to grow, encouraging her to lean on the trunk if she needed to.
+
+Hesitantly, Hugger grew, slowly finding confidence as she climbed higher and higher, twining her way around the tree. From her place on the ground, Bubbles noticed that she suddenly had an awareness of what was happening on the other side of the tree trunk—right where Hugger was growing. She gasped, making Hugger pause her exploration.
+
+I can see everything!
+
+[Correct. That is the nature of having an extension of yourself.] Rock seemed pleased by this discovery as well, as he went on to elaborate: [This sensation is something you should strive to become familiar with: when you become a proper Guardian, you will have a similar connection to your domain. The amount of information you receive across a large area can be overwhelming to one who has not acclimated to parsing that much information.]
+
+Excited by the discovery, Bubbles continued following Hugger’s progress—but found that the vine was unable to proceed any further. Before she could become worried about Hugger, Rock intervened again.
+
+[You are still a Novice, so your range is limited. You will need to continually grow new vines, and build up the strength to increase your range.]
+
+Looking at the slim, dainty, almost lace-like vines, Bubbles agreed it made sense that Hugger couldn’t continue growing; the stems were so narrow that there was no way Fern’s energy production could funnel quickly enough to keep up with the growths at the end of the vine.
+
+Okay, Cuddles, do your thing! At Bubbles’s request, Cuddles brandished a sharp needle and severed the vine, leaving the tendril hanging on the tree. Hugger pulsed sadly.
+
+Sorry! It’s for your own good. Let’s keep growing, and then you’ll get better at making stronger vines that can go further! Bubbles said, comforting Hugger.
+
+As Hugger continued growing vines (and Cuddles continued severing the growth that stalled out), it became obvious that each new vine that sprouted was healthier and more durable than the last: the stems thickened, and even began sprouting small clusters of leaves along the tendril. Finally, Rock made the long-awaited announcement:
+
+[Clutch (Novice) proficiency has increased: Clutch (Fledgling)]
+
+“Hooray!” Bubbles cheered as her other two more senior plant companions congratulated their newest recruit. “Let’s try and grow beyond your first vine!”
+
+Delighted at her accomplishment, Hugger almost leaped at the tree, and her newest vine stuck the landing, and seemed to have a significantly firmer grip than before, allowing her to grow at an incredible pace.
+
+Hugger climbed up to a branch, where she decided to deviate and begin twirling around the wood outwards, before she stalled along the middle of the length of wood, exhausted.
+
+“That’s really good!” Bubbles said, excited. “All the way up to a branch!”
+
+[I am impressed with the dexterity and grip. If I may make a suggestion?]
+
+What is it?
+
+[Now that the vine has become a bit more sturdy, it may be possible to use it for more than just mindless climbing. Try to use it to grab something nearby and bring it over—perhaps aim for that twig there, and try to place it into the carnivorous plant.]
+
+Intrigued by the challenge Rock set forth, Hugger focused on the tiny twig high up in the air and sprang forth. All seemed to go well, as she shot up two feet, three feet, four feet—and then she felt herself fall to the side, the base of her stem unable to sustain her trajectory.
+
+Wrenching herself desperately to the side, Hugger managed to swing herself away from the rapidly approaching ground, instead landing on the nearest tree trunk and catching herself on it. Keeping her momentum, she continued spurting upwards, every leaf segment sprouting tiny adhesive discs that allowed her to cling to the trunk as she kept her focus on the twig.
+
+Finally, when she felt the flow of energy feeding her growth slow down, she made a last, desperate bid for the twig, leaping off from the trunk—
+
+Only to fall short of the twig Rock had designated as the goal, the last tendril reaching helplessly for the tiny piece of wood mere inches away.
+
+Everyone sighed in disappointment; they had all been very invested in Hugger’s challenge, following her consciousness as she made her run. But none were more disappointed than Hugger herself.
+
+“I’m glad to see that the wisteria is having fun with you all,” Miss Fish said, a smile in her voice. Bubbles and crew turned to her, not having noticed her approach. She looked at all the vines strewn around the trees, and at the vine still attached to Bubbles. “You really are incredible, Bubbles. You’ve allowed the small plant to grow so much in such a short period of time.”
+
+“Oh, it was nothing,” Bubbles said, embarrassed at the praise. Cuddles began sawing off the vine, freeing Hugger from her failed attempt. “Hugger wanted to grow anyway, so it’s not a big deal. It’s really fun watching her reach for her goals! How is the cleanup going?”
+
+“We are making good progress,”  Miss Fish acknowledged. “Enough progress that I wanted to ask you… what are your plans? Realistically speaking, if you and Sir Link had other objectives in mind and needed to depart, you are more than welcome to. Likewise, if you would like to stay a little longer in my forest, I wouldn’t mind as well—I’d love to host you.” Though she tried not to make it obvious, Miss Fish’s eyes lingered on Hugger, and Bubbles got the feeling she really wouldn’t have minded if Bubbles stayed on her land, if only so that Hugger could remain close.
+
+Bubbles paused awkwardly, not sure what to say. To be honest, she had been wondering herself what her next steps were—she knew she had to get stronger to protect her garden, and that was about it. She didn’t know how she could go about getting stronger, and she didn’t know how much time it would take… but she knew she couldn’t just linger in one spot.
+
+“You don’t have to answer me now, I’m not rushing you,” Miss Fish reassured her. “But it would be wise to begin thinking about it. You don’t want to waste time the way I did, do you?”
+
+~ ~ ~ ~ ~
+
+Bubbles stayed up late that night, debating with herself on what she should do.
+
+Or at least, debating with Rock, with occasional input from Fern and Cuddles. Hugger didn’t have a preference, being so young.
+
+Rock had baldly stated that he would like them to continue traveling and seeking opportunities to grow stronger, whether by grafting suitable plantlife, or by leeching mana from human artifacts. Bubbles didn’t have anything against that objective (which she readily admitted was in line with her own objective to become strong enough to protect her home), but she didn’t like the idea of going forth and specifically seeking “useful” plants to graft; she wanted to rescue plants who otherwise were on the cusp of withering, not just take on plants because they might benefit her. She wanted to help, not exploit.
+
+Fern and Cuddles backed Bubbles up on this, also rejecting Rock’s method of selecting plants to graft. Disappointed, Rock had acquiesced to their conditions, grumbling over their naivete (although he did grudgingly acknowledge their selectiveness meant he didn’t have to spend any mana, given that they were dependent on the four plants’ mana production, since they were not in a position to easily Leech artifacts). Ultimately, Bubbles was amused at how their two stances had seemed to switch from when they first met: Bubbles had been eager to graft everyone she could, while Rock had been the one warning her to be more scrupulous with who she chose to graft.
+
+However, the biggest problem was where they should go. It was clear they couldn’t just return straight home—even with Hugger’s addition to their team, they still wouldn’t be able to fend off a single squad of humans—and Bubbles also didn’t want to wander too far away, making it impossible for her to return to defend if the humans suddenly decided to attack.
+
+Rock wasn’t able to detect any other mana minerals nearby, so he couldn’t help narrow down their next destination, either. Unhappy with the lack of a plan, Bubbles slept uneasily.
+
+~ ~ ~ ~ ~
+
+The next morning, Bubbles continued letting Hugger practice climbing (with Cuddles supervising, severing the vine as necessary), and Fern continued consuming the excess vines the magpies’ reinforcements brought them. It had been about a week since the faceoff with Throttler, and more and more animals had started arriving: rodents were among the first to arrive, surprisingly, and rabbits had already dug small burrows into the already-cleared land around Miss Fish’s pond, incidentally removing the smaller root systems Link had missed during his first pass.
+
+The smaller predators showed up next: foxes, badgers, and skunks, were among what Bubbles noticed as they emerged warily from the brush. However, Miss Fish had been quick to greet them and assure them they were at the right place, and Bubbles was pleased to see them gaze up at Miss Fish with the appropriate amount of awe and respect. Miss Fish even carried them through the air in her large claws, ferrying them to other parts of the forest so that each of them could begin digging in their own areas without crowding with others.
+
+Much the same happened when the larger predators (a few bears, wolves, and even small herds of deer) showed up: Miss Fish would greet them, but very often didn’t fly them to other parts of the forest, instead letting them walk. Rock told Bubbles that these animals had more pride, and were thus more resistant to the idea of being left to the whims of other creatures.
+
+Bubbles was glad to watch Miss Fish begin coming into her own. Aside from the first few nerve-wracking arrivals, where Miss Fish stumbled over her words as she laid down expectations of what it meant to be making a home in her forest, the animals’ responsibilities in helping to clear out the old vines as everyone settled in the interim, and the kind of help they could expect from her for the group effort, Miss Fish was appearing to be a competent leader. It was very clear that as long as Miss Fish had a clear goal, she had no issue directing others. She had a sharp mind, able to remember which animals had begun settling where, and seemed to have an innate sense of what was happening elsewhere in the woods.
+
+How do you think she knows what’s happening so far away? Bubbles had asked Rock during one such demonstration, where Miss Fish had swiftly excused herself—inviting the giant brown bear she had been speaking with to enjoy a bath in her pond while she was gone—and flown into the sky, shooting straight towards where the supposed squabble was happening in a trail of clouds.
+
+[She is skilled with magic, so it is not unreasonable to assume she has already attuned to the forest’s mana.]
+
+Of course, her dragon form also inspired fear, and thus served as an implicit warning to troublemakers to be very cautious when dealing with her. Miss Magpie seemed to have no complaints about Miss Fish’s management either, reassuring Bubbles that everything was well on its way to improving in the wake of Throttler’s removal.
+
+Despite the good tidings for Miss Fish—and Bubbles was very happy for her! She deserved all the good, and she had struggled for so long—she felt more and more inadequate as time went on. Miss Fish was a model template for what she should expect a Guardian to look like: capable, intelligent and quick-witted, and powerful. Even the largest animal lowered its head in respect whenever she arrived.
+
+How could Bubbles do that? Granted, her garden was far smaller than Miss Fish’s forest, but Bubbles didn’t have the first inkling of how she could go about emulating Miss Fish.
+
+Before she could spiral into another bout of simultaneously scolding and feeling sorry for herself, Miss Fish arrived, gently placing a young, disoriented cow in front of Bubbles.
+
+“Hello Bubbles, I’m afraid I’ll have to ask you for another favor,” Miss Fish said apologetically. “I found this lost bovine wandering at the edge of my woods, and it didn’t feel right to just leave her be… do you mind watching over her for the rest of the day as she recovers? She hasn’t been able to get a single word out.”

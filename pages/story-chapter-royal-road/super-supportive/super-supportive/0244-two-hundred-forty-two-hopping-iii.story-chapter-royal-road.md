@@ -1,0 +1,423 @@
+---
+id: ac974786-0eaf-5d58-8c70-69a992cffe62
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FORTY-TWO: Hopping III"
+slug: 0244-two-hundred-forty-two-hopping-iii
+partOf: super-supportive
+position: 244
+ownLength: 4418
+unit: words
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2577689/two-hundred-forty-two-hopping-iii"
+royalRoadId: "2577689"
+---
+
+242
+
+******
+
+Voices whispering about me. Voices not bothering to whisper.
+
+<<That’s him. That’s the one from the news.>>
+
+“He knows a lot of wizards.”
+
+<<Do you think he flew here on that green thing? What’s it called?>>
+
+<<…at one of the Apex hero programs. Probably because his whole family was killed by a supervillain.>>
+
+“Alton?”
+
+<<A commendation? I didn’t hear that part.>>
+
+“That guy is Aiden. Go talk to him.”
+
+<<You go talk to him.>>
+
+<<I wonder where he keeps his tattoos.>>
+
+“Hi, Alden!”
+
+“Long time no see, Alden!”
+
+<<Remember me from intake?>>
+
+“I played pinball with him.”
+
+“Alden Thorn.”
+
+Voices telling me what they think about my status here.
+
+<< For you and your friends the first time would be free.>>
+
+“Free.”
+
+“Of course it would be free.”
+
+<<Don’t take that one. Take this! It’s usually for high ranks.>>
+
+“This is the sample I give to S-ranks.”
+
+<<Someone in your position might have heard something about Rabbit evacuation priority?>>
+
+“Would you be interested in posting a video...”
+
+<<...a review...>>
+
+“...just one photograph for our Trime?”
+
+Voices trying to make connections.
+
+“I’d love to meet you again and talk to you about an opportunity that...”
+
+“I saw online that you’re still traveling back and forth to Matadero?”
+
+<<Got a job there?>>
+
+<<Do the wizards there need any more food?>>
+
+“Do you think they might like my company’s services?”
+
+“A commended Rabbit! Let me shake your hand.”
+
+“I’ve always wanted to see if my skill could make the cube even shinier.”
+
+This is a lot, thought Alden as he moved through the conference space, and it’s so unreal after the last few days.
+
+When he finally saw a nearly empty place, he rushed for it without considering that his actions might look like a retreat to his opponent. Natalie was eight displays back, at a huge booth that belonged to the Rabbit cleaning service Li Jean had hired for their Elites. They were discussing the possibility of her baking something that would be delivered in the new year to the company’s biggest clients, for their annual gift. Hadiza and Emilija were back there with her.
+
+The oasis Alden had found was a space that had been reserved for an organization that was a no-show. A girl in pink ears with a pink fluffy tail pinned to the back of her jeans had stopped there, too. She was digging through some of the swag she’d picked up from the booths. Alden went a few steps past her, faced away from the crowded aisle so that he wouldn’t be quite as recognizable, and took up the same task.
+
+If he was visibly busy, maybe nobody would run up to him, and this could be his breather before he headed upstairs to The Verne.
+
+He was just saving his energy. Natalie was going to get stuck down here chatting with people forever, and then he would be laughing over his magic cinnamon rolls.
+
+Wanting a breather isn’t a sign that I’m unfit for the real battle.
+
+The paper bag crinkled as he rummaged through it. Most of the things he’d collected so far were advertising baubles and brochures. Very little of it was useful to him at the moment, but there were a couple of things that he could see the value of. He’d met a consultant here who specialized in wizard culture and the Contract. She took calls from Avowed having trouble during a summons and offered them a calm perspective and advice.
+
+Alden had others he could call on now, but at LeafSong, he would have loved to know someone who provided that service.
+
+There was also a Wright showing off supplies for interplanetary travelers. He had given Alden a soft, wedge-shaped object twice the size of his fist. It was a portable air conditioner that would chill the air around it for two days after it was activated.
+
+Only S-ranks were getting the free air conditioner. And Alden.
+
+The Wright must have thought I was likely to need portable air conditioners and be able to afford them. So it’s just advertising, too. But I do like it. He pulled it out of the paper bag. It was gray and squishy. At first glance, he’d thought it was some kind of pillow or stress ball. You will help me out in a terrible climate eventually.
+
+“Must be nice.”
+
+Alden stopped squeezing the air conditioner. When he looked around to see who’d said that, he didn’t expect the speaker to be addressing him, but they were. The girl with the pink tail had been joined by a tall guy in a black jacket with light-up zippers. He’d been at the Wright’s booth. Alden had found him somewhat annoying because he’d been talking too much and too loudly for anyone else around him to get in more than a word or two. In the past fifteen minutes, though, Alden had forgotten he existed, as one did with strangers one never intended to see again.
+
+“No offense.” The annoying one held up both hands, like he was warding off a protest Alden hadn’t even made. “I’m just saying it must be nice to get all these opportunities other people would kill for.”
+
+“You wanted the air conditioner enough to kill for it? I don’t think it’s necessary to go that far. The Wright sells them for money.”
+
+Alden thought it was a lighthearted enough response. The girl giggled at it.
+
+But the boy bristled. “I didn’t mean the stuff here. I meant everything else. You got a summons that everyone knows must have made you a millionaire, you had your own private apartment in intake—”
+
+We were in intake together? Alden didn’t remember this person at all.
+
+“—they’re letting you be in an Apex hero program, the wizards invited you to Matadero, they give you gifts, people treat you like an S-rank even though you’re a B like me. You’re probably set for life, and you don’t even have to do anything. I mean…good for you. But I’m just saying.” He glowered at Alden. “Must be nice.”
+
+The huge room around them was filled with the noises of excited teenagers and skill demonstrations. The air smelled floral, and like chocolate chip cookies and recess since Alden still had his scented card.
+
+“You remind me of someone who recently bothered me on a train.”
+
+Confusion made the guy’s scowl slip. The girl with the tail blinked.
+
+“What’s it even like?” Alden asked.
+
+“Huh?”
+
+“What’s it like to have so little going on in your life? Right now, I have goals for myself and a lot of stuff I’m worried about, and if all of that disappeared tomorrow, it would just mean I had the time to pick up some of the things I’ve dropped. Because I can’t find any way to do everything I want to do. Even spending a couple of hours hanging out here with friends is precious, and it costs me something.
+
+“But you’ve got enough time to keep track of the last several months of some other dude’s life? And you’ve got so few problems that some other dude’s life actually feels like it is a problem that affects you. So you’re going to wander over here to the corner where I’m minding my own business and try to start…whatever you were trying to start.”
+
+Alden dropped his air conditioner back into his bag and straightened. “If you can’t worry about chaos destroying entire worlds because it seems too distant, couldn’t you at least get a hobby?”
+
+The saucer-sized eyes, the way both of them had gone slack-jawed…
+
+Seems unfair of them to look at me like that.
+
+He was irritated, but there was no snide bite in his own tone to match the final “must be nice” the other guy had delivered.
+
+He ran through it in his head, looking for any part he didn’t really mean, and he came up empty-handed.
+
+“Yep. I stand by it. I will not unsay what I have said. You should work on yourself and leave others alone. And… ” He nodded at the girl. “Sorry if I made you feel stressed or something. I think it’s fun you brought a tail to match your ears. Have a nice night.”
+
+He strode away from them, only a brief hitch in his step when he saw that Emilija had come to find him. She was standing at the corner of the booth next door, looking at him with a tight smile. Her paper bag was held in front of her knees in what seemed to be an unnecessarily tight double-handed grip.
+
+“Hi, Emilija.”
+
+“Hi, Alden.”
+
+She followed him as he made his escape. She’d gotten her shoelaces color-changed to a bright blue in the past few minutes. She must have run into someone showing off that particular skill.
+
+“I think I’ll go upstairs now.” Alden said. “You want to come?”
+
+“Mmhmm.” She nodded.
+
+“Perfect. There’s no way Natalie can resist talking to that kitchen and cauldron skills club, so we’ll get a head start.”
+
+“You burdered that man.”
+
+“He did have a burdered look on his face. So I might have.”
+
+The two of them stepped into an empty elevator car. Emilija was being unusually quiet
+
+“I didn’t really say anything out of line…did I?” he asked.
+
+<<No. You sounded cool.>>
+
+She turned her gaze from the nautilus design on the door toward him. She’d put two tiny rhinestone stickers at the ends of her winged eyeliner, and Hadiza had most likely skilled them for her, given how much sparkle they had.
+
+<<Do you think about what you just said a lot? About what’s going on out there. Chaos destroying worlds?>>
+
+It took him a second to answer. “I’m supposed to say no, aren’t I?”
+
+She shook her head. <<I only wondered. If it’s still close for you even now that you’re back home. Important to you. Instead of distant. Like you said.>>
+
+“I think it’ll probably always be close for me.” He glanced away, but he was sure she was still watching him. “It’s not something I like. But it might be right to care more about what’s going on just a teleport away from here than the average person seems to. Someone has to be out there in it even if we’re not. So if we refuse to even acknowledge what’s happening…”
+
+He knew how to finish the sentence. It was just that this wasn’t the right place for it. And the doors were opening, filling the car with food smells, laughter, and music.
+
+<<If you want to go back to Apex early, you should,>> Emilija said quietly. <<I know Natalie asked you to help me get more attention or something like that. She means well, but that was a bit…>>
+
+Alden slapped a hand to his chest as he walked out of the elevator. “Right in the heart! You overhear me saying my time with you is precious, and then you immediately tell me to get lost.”
+
+<<I did hear you say that. And now I’m realizing that we aren’t treating you the same way. We all know you don’t enjoy this kind of showing off, but we still decided to make you come.>>
+
+“You’re overthinking it. And I’m going to need you to focus on what really matters now—taking as many invitations as we can before Natalie gets here.”
+
+******
+
+******
+
+Elias’s Saturday Morning Show
+
+Episode #473
+
+“Alden Thorn”
+
+Clip Starts At: 14m, 32s
+
+Date Recorded: August 25, 2037
+
+******
+
+“Let’s see…we’ve covered romance, my embarrassing attempt to get a position with the Scorpius constellation, how your mom should stir up a hurricane for the Prime Minister the next time he expresses disappointment in her management of summer heat, what to get Fang for her baby shower, and celery. Celery is weird.” Cly Zhao stood on her tiptoes, on one foot, at the very top of the highest balance post in a small park in Apex.
+
+“You’re going to fall when that thing rolls,” said Hannah Elber, clinging to the pole beside her with one hand.
+
+“I’m not. I’m going to hop on it on one toe when it does the roll. This is my last chance before they tear it down to build those new ‘challenge towers.’ Ruining our old playground for profit. What’s Anesidora becoming?”
+
+“I’ll catch you before you hit the ground.”
+
+“You will not need to catch me. I’m a superhero.”
+
+Hannah grinned at her. “We’ll see.”
+
+“You don’t think they’ve already disabled the roll feature, do you?” Cly looked at the ball beneath her toes. “I know it happens at random, but I feel like I’ve been waiting a long time.”
+
+“Don’t get complacent. That’s how the roll sneaks up on you.”
+
+“And the wind’s rough today,” Cly said. “You called your mom to make this harder for me, didn’t you?”
+
+“Of course. This wind is coming in just for you, all the way from Europe.”
+
+“You’ll never take me down….hey…how did the visit with your biggest admirer go? That was last week, wasn’t it? How’s your copycat doing?”
+
+Hannah swallowed. “Alden had fun. I worried we wouldn’t get along as smoothly now that he’s a teenager.”
+
+“Thirteen.” Cly shuddered. “Demons are probably caused by the combined psychic energy of human thirteen-year-olds. I’m surprised the chaos sirens didn’t go off every other day when I was that age.”
+
+“We did get along, though. He actually seems younger than he did last year. No. Not younger…that’s the wrong way of putting it.” Hannah let go of the pole and dropped down onto a patch of air she’d stabilized earlier. The spell was fading, but she stood on it anyway, slowly sinking until her face was a meter below her friend’s balancing foot. “I think it’s just that he’s happier. And that makes him seem more like a normal kid.”
+
+“Good!” said Cly. “You’ve been a positive influence.”
+
+“I worry I’m too much of an influence. It’s only the occasional call and a couple of visits, so you wouldn’t think that was possible, would you? It shouldn’t be. But after we screwed up his life by not stopping that unregistered…he somehow fell through every crack. I’m afraid a few phone calls from me is enough to make me the adult he talks to the most.”
+
+“He has an aunt.”
+
+“Sort of,” Hannah muttered. “He does have a best friend now. And loads of kids dream of being Adjuster superheroes, so it’s not that unusual that he wants to, but…”
+
+“You wanted to. You turned out all right.”
+
+“Thanks…but I didn’t understand the first few times we talked that he was…I think he was waiting for someone to tell him they believed in him, Cly. I’m afraid everybody else in his life just wants him not to be a problem for them. For years, this smart, sweet little boy was starving for someone to expect something good from him. That’s what I think. His parents must have told him he could be good…but then…they… ”
+
+“Hannah, Hannah, don’t!” Cly hopped off the balance toy and grabbed her friend in a hug. They both crashed to the ground below, clumsy but unharmed.
+
+“Sorry. Really sorry. I’m just going to cry all of a sudden, I guess.”
+
+“I see that! Stop. Or don’t stop. There’s a napkin in my bag.”
+
+“Just let me be a mess. I’m fine. But Alden…I think his parents must have been good people who told him he should try hard to be a good person, too. His mother went through the training to work in a House of Healing, so she had to be so dedicated. And his father was a man who spent his time writing sermons. And those are the people who shaped him, and then they died, and he was hurt, and the new grown-ups in his life only ever asked him to work on not being hurt anymore, on not needing them…like him functioning was their maximum expectation.”
+
+She took a breath. “Then he called me that day. I didn’t know what to do other than superhero smile through our first interactions, so of course he thinks I’m much cooler than I really am.”
+
+“I hope so.” Cly forced the napkin she’d found into Hannah’s hand. “It’d be sad if he picked a role model he didn’t think was cool.”
+
+“But what happens after the dream falls apart on him?”
+
+Both women were quiet for a minute. Cly brushed sand off of her leggings.
+
+“Honestly…I think you’ve handled this right. There’s so much broken with the kid’s situation that it can’t feel good to you. You’re not his family. He lives on the other side of the planet. There’s no way to fix it, and it’s not your place to do more than you already have.
+
+“If you’re right about him looking up to Super Hannah because she’s the only person telling him she wants greatness from him…then he’s just taking something every kid needs from you. Don’t cut him off. Who cares if it’s not realistic, and he’s got a little case of hero worship? Childhood dreams usually change with a person, don’t they?”
+
+Hannah sighed. “Yeah.”
+
+“You’ve got this problem…I might have mentioned it to you a few million times…with taking too much responsibility for every single thing you touch. Alden Thorn is not going to base his whole life on the few hours you two spend together. He’s going to hold onto what you give him, maybe for a long time if you’re really the only person giving him anything worthwhile, but you won’t be the only influence on him forever. Eventually, he’s going to meet people he admires who aren’t you. Things we can’t imagine right now are going to happen to him. All of them good because if ever a person was due, he is.”
+
+“That’s the truth,” said Hannah.
+
+“What I’m telling you is that who he becomes isn’t on you or about you. He’s just standing on your shoulders for a while so that you can show him a view better than the one he’s getting at home. He’ll climb down when he’s done looking around. And then, one way or another, he’ll grow up.”
+
+******
+
+end clip
+
+******
+
+******
+
+Getting an F-rank invited to all the best “hops” of the season wasn’t as easy as Alden had hoped.
+
+Hinting didn’t work because the people asking him to stop by their soirees pretended not to hear the hints. And outright asking if the person handing him an envelope would give his dear, amazing paint-unchipper friend one, too, resulted in some very rabbitish escapes by old Avowed who were used to saying, “Not a chance!” in ways that almost sounded flattering.
+
+“Okay,” said Emilija after the last one like that. <<No more. It’s too embarrassing for both of us. I don’t think most of them would even talk to me if I wasn’t standing right next to you.>>
+
+They were sipping apple cider and eating curried carrot tartlets by a window styled to look like a huge porthole. Nautilus Needle’s famously visible helix shielding didn’t obscure the view, but it did give off an ethereal gleam every few seconds.
+
+[Their parties must suck anyway if they’re just picking attendees based on rank,] he texted her.
+
+<<They don’t suck,>> she replied. <<The place this one is being held in has a zero gravity room.>>
+
+She reached over to tap the black envelope Alden had just received. <<I wanted to play in a zero gravity room even if I would be the least interesting person there because it’s a zero gravity room.>>
+
+“Fair enough.”
+
+<<But I don’t want to beg. That’s too much.>>
+
+“Fair enough.”
+
+Another invitation-bearer was approaching.
+
+<<Give up on me,>> said Emilija. <<I’ll go get more cider.>>
+
+She headed toward the cider table, where a man was demonstrating unusual ingredient prep skills.
+
+The woman who caught Alden next had hair the color of milk, arranged to show off a contract tattoo that spilled down one side of her neck. She asked if he spoke Mandarin, and when he said no, they exchanged pleasantries in Artonan before she told him about the party she would be hosting next weekend. She had gotten one of the wizards at Matadero to agree to come and instruct her guests in the playing of an obscure board game.
+
+“That sounds like it would be fun,” said Alden. “But to be honest, I’m not sure what my schedule is. You should give your invitation to someone who knows they can attend.”
+
+“Keep it anyway,” she told him, pushing the envelope into his hands. “Come if you can. It would delight Poa-loo. And if you can’t make it, it’s only one seat.”
+
+An idea flickered then. “If I can’t make it, can I give my invitation to a friend?” he asked. “A Rabbit friend. So it’s not wasted.”
+
+“Of course!”
+
+Half a minute after she left, he ran into a man handing out invitations to a private concert and had a very similar interaction.
+
+All right…this could work.
+
+“Emilija, these two are going to be for you,” he said when he rejoined her near the cider table. “They said I could give mine to you if I don’t have time to attend…and I have almost no free time.”
+
+<<Really?>> she asked. <<They said it was fine to give your own away?>>
+
+“They both did. And it wasn’t embarrassing at all. Easy-peasy.”
+
+She looked curiously at the envelopes, her lips turning up slowly.
+
+“This one is learning board games with a wizard named Poa-loo,” said Alden “Do you want to meet a wizard named Poa-loo?”
+
+“Yes,” she said. <<I do.>>
+
+Alden smiled at her. “Am I forgiven for stealing your turkey now?”
+
+<<Not quite. But I might stop writing crazy bird insults on your Trime.>>
+
+“Please don’t. They’re the only thing I actually enjoy seeing there. You should be my social media manager.”
+
+<<You post nothing. What would I manage?>>
+
+“All the people who comment on the fact that I post nothing. And my emails. I’ve got more than a thousand I still haven’t read.”
+
+She laughed.
+
+“If you think I’m kidding about the number, I’m not.”
+
+<<Why do you have so many?>>
+
+“I became an Avowed after being orphaned by an Avowed, and then I died. People were into it. And then I un-died. They were really into that.”
+
+<<I would sort your inbox for you if you wanted me to.>>
+
+“You would?”
+
+She shrugged. <<It sounds interesting.>>
+
+By the time Natalie arrived half an hour later, Alden had refined his method and found the best possible location for invitation collecting. It was a seat everyone wanted because it was right beside the most important Rabbit in a vast and elegant room full of important Rabbits. Not the High Councilor elected to represent their class—although she’d stopped by to say hello—but Neha, who’d left some wizard on Artona I unassisted tonight. She hadn’t missed this event once in the thirty-four years it had been running, and she was in the mood to watch tomorrow morning’s sunrise on Earth.
+
+She had a fresh undercut and a custom enchanted headband that gave her rabbit ears made of light. They responded to her mood with motion. They were gold to match her wraparound shirt, and they’d twitched forward with interest when she’d spotted Alden.
+
+She’d sent the girl beside her scooting away down the low leather built-in sofa that lined one of the walls of The Verne and patted the vacated seat. Alden had taken it, and he’d been there with Emilija ever since, growing his stack of envelopes.
+
+The music was swingy. People were having a good time. Whenever a glass broke or a drink spilled, magic swept clean a floor that was mottled with light to make it look like they were all enjoying one another’s company underwater.
+
+At Natalie’s entrance, Neha’s ears twitched forward again, and Natalie rushed over.
+
+“Neha! I’ve missed you!”
+
+“I’ve missed you, too,” said Neha. “And I’m afraid I have bad news for you.”
+
+She swept a hand toward Alden, who lifted his pile of invitations from the space between him and Emilija, pretending to strain under their weight.“So…heavy…can’t hold them any longer.”
+
+He gasped and dropped them onto his lap, slumping backward.
+
+Emilija picked up a gray one and fanned him with it.
+
+“I understand there was a private contest going on,” said Neha.
+
+“How did you get so many so fast?!” Natalie exclaimed.
+
+“Superior strategy,” said Alden. “And whenever I can’t attend one, my email organizer person shall go in my stead. Which means almost every single one of these is for…” He patted Emilija’s shoulder.
+
+<<I am the email organizer person.>>
+
+“It’s always satisfying to see young people leaving the Welcome with their first job lined up,” said Neha, ears wiggling with what Alden thought must be amusement.
+
+Natalie was beaming like she was excited, but making sounds like she was distressed.
+
+“Look at this one,” said Alden, holding up a red envelope. “This is where Emilija is having breakfast tomorrow.”
+
+Natalie’s eyes latched onto the invitation. “The Holly Jolly Bunny Bruncheon! Where is the person with those?”
+
+Neha pointed across the room, and Natalie took off. Not a single golden hair was out of place despite her hurry.
+
+<<I’ll go get her some cider and carry her bag so she can work faster,>> said Emilija. <<Thanks, Alden.>>
+
+He watched them go. Hadiza arrived a minute later and the trio mingled through the room like they’d been born for it.
+
+“You know everyone is saving invites for the S-ranks, don’t you?” said Neha. “She’ll get just as many as you.”
+
+“I know. But the competition was to see who could get the most for Emilija. And after meeting these people, I don’t think anyone is going to give her an extra invitation. So I win.”
+
+“I hope you enjoy your free Cook of the Moment food.”
+
+“I will.”
+
+She studied him for a while. “You’re looking good.”
+
+“It’s because Gus took me to Needle & Wheedle, and I gave them so much money.”
+
+“I did notice that. The clothes are subtly excellent. But I meant you, the person inside them, who has earned those invitations after one hell of a year.”
+
+“Oh, that guy,” said Alden. “I’m kind of punchy right now because I’m tired. But…I’m doing better.”
+
+“Finding friends at hero school?” she asked.
+
+“Yes,” Alden answered. “And in other places.”
+
+******

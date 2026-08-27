@@ -1,0 +1,119 @@
+---
+id: af284d6f-9d7d-5968-a535-b37a861cc8de
+page-type-slug: story-chapter-royal-road
+title: "Chapter 597: Dangerous Ideas"
+slug: 0165-chapter-597-dangerous-ideas
+partOf: rise-of-the-living-forge
+position: 165
+ownLength: 1749
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3448666/chapter-597-dangerous-ideas"
+royalRoadId: "3448666"
+---
+
+Arwin stepped back into the Infernal Armory to find it awash with noise. Wallace and Koyu were mid argument over something, their voices just barely audible over the clang of metal. It seemed they had decided to multitask and fight whilst creating something.
+
+I wonder if they’ve figured anything out about what we’re going to do about the Beast.
+
+That topic had been lingering on Arwin’s mind for much of the trip back to Milten from the Expert Tier dungeon. Well, that and the ramifications of Lillia’s new abilities. But he still hadn’t even seen exactly how much she was capable of. Despite the entire point of their little expedition, they’d only gotten a tiny glimpse at what Lillia had unlocked by Sunsetting her class.
+
+Shaking his head, Arwin stepped into the back room of the Armory. A wave of heat rolled across his face. The intensity of the magma within the Infernal Armory felt comparable to the heart of a volcano. He barely even noticed it. Arwin was pretty sure the magma inside his own body was just as hot.
+
+Koyu and Wallace were’t any more bothered than he was. A dwarf and a ghost weren’t exactly the most susceptible targets for heat. The two of them stood across from each other over an anvil. Wallace had his hammer in hand and was waving it around animatedly to emphasize his words.
+
+“I’m telling you, we need—” Wallace turned. He’d actually noticed Arwin’s arrival quite quickly. The dwarf pointed at Arwin with his hammer. “Good timing. We were just talking about you.”
+
+“Oh?” Arwin asked. “Did you figure something out?”
+
+“Something,” Koyu allowed. He shook his head. “And you? Was the dungeon a success?”
+
+“You could call it that,” Arwin allowed. “We certainly didn’t have any trouble. Nothing worth interrupting whatever conversation you were just having over. It looked important.”
+
+“It is,” Wallace said.
+
+“It may be,” Koyu corrected. “But don’t get overly excited. It’s only a theory. And we need to test it with something rather important. One of Mask’s daggers. We believe Lillia is still in possession of one.”
+
+Arwin blinked. “A dagger? Why? You’re planning to stab The Beast with one to drain his class away? Would that work?”
+
+“Not exactly,” Wallace said. He paused for a moment. “Well, that’s actually pretty damn close to it. But we’re not using the guild’s dagger. If we did that, it could release all his magic at once. And Koyu said that if that happens… it could go kaboom.”
+
+“How big?”
+
+“Big,” Koyu said grimly. “Which is why we must create our own.”
+
+Arwin didn’t respond to that immediately. He just stared at them.
+
+“I know,” Wallace said. “Not exactly the kind of work we want to be doing. It’s evil, yada yada. You’re preaching to the choir, boy. Did you forget how I was when we first met? I’m more than aware of just how wretched the Guild Daggers are. But that Revenant needs to go, and we’re not ‘bout to go into mass production of the things. Koyu thinks there’s a way to put the Beast to rest peacefully. Not in some massive explosion or agonizing, torturous end. A proper one.”
+
+“I’ll hear it out,” Arwin said slowly. “I trust both of you more than enough to know you aren’t stupid enough to try and start mirroring the Guild. I assume there’s a reason you’ve come to the conclusion that this is the best path forward. So maybe fill me in on what I’ve missed so I can contribute to the discussion?”
+
+“A Revenant is formed through Soulmancy. It can only be unmade in a similar manner or by something that targets the magic binding the souls directly,” Koyu said, crossing his arms behind his back. “The magic will not wish to let itself end, so your brand of Soulmancy will not work. I will not permit you to turn to the other one.”
+
+The other one being forcing another being to do my will? Yeah, I’ll be passing on that one as well.
+
+“Right,” Arwin said. “I don’t have any desires to go down that path. I’m honestly not sure if I could do it, even if I wanted to. Not that I do.”
+
+“Good,” Koyu said flatly. “You don’t. But that leaves only one option. Attacking the magic directly. The Guild Daggers do exactly this. But their current purpose is wrong. We don’t want to keep or steal the magic. We just need to release it. Slowly. The Beast is too old and powerful. Anything that instantly undid those bindings is far too liable to level the city.”
+
+Arwin started to nod. “I see what you’re getting at. So you want to remake a dagger that can act more like a surgical instrument to cut away the magic imprisoning the souls instead of stealing it.”
+
+“Already started testing out some stuff,” Wallace said, tapping the metal he’d been working on with a finger. Then he frowned. “But there’s only so much we can do without the dagger, and we’re not going for it unless you’re on board as well.”
+
+“You made your point well,” Arwin said. “I’m not a fan of using this kind of thing, but at the end of the day, I can’t think of a better use of the Guild’s evil shit than using it for a good cause. We just have to make sure nobody steals the weapon when we’re done with it. The Beast is included in that. If we’ve got to do it over time, it means he keeps it, right?”
+
+Wallace and Koyu exchanged a glance. It was clear they hadn’t quite considered that possibility.
+
+“Yeah,” Wallace said. “That’s a good point. I don’t know what the Beast will do once he’s free. I mean, I highly doubt he’d go defecting back to the Guild, but…”
+
+“We must consider the possibility.” A frown crossed over Koyu’s features. “That is frustrating.”
+
+“Nah. It’s fine,” Arwin said. He raised his hands with a grin. “I’ll just work a failsafe into it. It’ll break as soon as it gets pulled out. Like a bee stinger or something. The Beast wants to be free, so he’ll never let that happen early. Should be a very doable fix.”
+
+Koyu grinned. “Brilliant! Yes, that would work. The Revenant’s goal is most certainly to end himself. He would never give the chance up. Then all we must do is examine the Guild’s Dagger and determine how we can replicate it. I would prefer to speak directly with its maker, but that is likely not an option.”
+
+Necrohammer. Even if I wanted to track him down, I don’t know where we’d start. And that might be too risky. The Guild was watching him. After that stunt he pulled at the Proving Grounds, he’s almost certainly on the run if he hasn’t already been caught.
+
+Arwin’s lips thinned at that thought. The dwarf had done some terrible shit. But Arwin definitely didn’t want the Guild catching back up to him. The last thing they needed was them forcing him to make them even more daggers. It was best for everyone if Necrohammer stayed hidden.
+
+He shook his head. “Forget him. I doubt we’ll be able to track him down one way or another. Between the four of us—”
+
+“Four?” Wallace asked.
+
+“The Infernal Armory,” Arwin replied, not missing a beat. “Between the four of us, we should definitely be able to find a way to replicate the parts of the dagger that draw out magic. It’s got to be some of the materials, right? Or do you think it’s some kind of enchantment?”
+
+“A mixture?” Koyu suggested. “I don’t know. We will have to investigate in order to determine anything for certain. Wallace and I were just waiting for you to return so we could get started. That and the dagger. We’ll need it.”
+
+“Well, let’s go get it,” Arwin said. “Rodrick should know where it is.”
+
+***
+
+As it turned out, Rodrick was keeping the dagger in the basement.
+
+It made sense. There were few places that Arwin would want to steal from more than the one watched over by a demon tree. And, after quickly explaining what they were up to, the three smiths were able to easily retrieve the weapon and bring it back to the smithy.
+
+That was the easy part.
+
+The harder one was actually figuring out how to reverse the creation of the blade. All of its magic was concealed. The Mesh wasn’t telling them how it worked. Any enchantments the weapon may have had were hidden.
+
+After setting it on a small pedestal that the Armory formed to safely hold the dangerous weapon, the three of them all gathered around it and stared in silence for several long minutes. Arwin could fell the Infernal Armory’s attention present as well, but didn’t form a physical body yet.
+
+Perhaps that was for the best. Not one of them wanted to actually touch the blade any more than they had to. Just being in the presence of the dagger was a cold reminder. One cut was enough to completely steal their magic.
+
+It was quite some time before anyone spoke.
+
+“I don’t want to touch the damn thing,” Wallace muttered. “How are we meant to figure it out if we can’t even risk holding it?”
+
+“We need a way to figure out what kind of magic it has,” Koyu said finally. “That’s our only option. I don’t want to risk destroying it to inspect the components only to find out the secret was in the magic. If we can’t see the dagger’s status, then we have no way to determine how to replicate it.”
+
+“How?” Wallace asked. “The Guild aren’t stupid. A weapon like this isn’t one they can allow anyone to ever read the status of. It’s definitely heavily protected.”
+
+Arwin’s lips pursed. He blew out a short breath. Then he set his jaw. “I think I have an idea.”
+
+“Oh? What?” Wallace glanced to him. “You have a way to reveal its status with Forbidden Soulmancy or something?”
+
+“No,” Arwin replied. “But I do have a way to directly communicate with magical objects.”
+
+Koyu’s eyes narrowed. “You don’t mean—”
+
+“I do. I can establish a mental connection between myself and a magical item. That’s the only way to know exactly what kind of magic this thing has,” Arwin said. “I’ll enter a vision and try to speak directly with the dagger.”

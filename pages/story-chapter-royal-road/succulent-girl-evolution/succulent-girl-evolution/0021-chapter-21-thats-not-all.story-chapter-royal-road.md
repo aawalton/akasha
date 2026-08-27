@@ -1,0 +1,107 @@
+---
+id: ad1c8c4d-f887-5670-be6b-2be3a27c7548
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: That's not all!"
+slug: 0021-chapter-21-thats-not-all
+partOf: succulent-girl-evolution
+position: 21
+ownLength: 1898
+unit: words
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2592617/chapter-21-thats-not-all"
+royalRoadId: "2592617"
+---
+
+Miss Magpie roosted that night with Bubbles and Link.
+
+“That’s right, I never answered your first inquiry,” Miss Magpie said to Bubbles as she snuggled into her leaves. Thanks to Link’s leftovers, Fern had managed to put significant size on Bubbles over the past three days, with her tallest leaf now easily reaching Link’s shoulder. “I had some of the young magpies follow the carriage once you were captured. We were going to keep an eye on you to see what the humans did so we could come up with a plan to free you. I’m sorry you were captured… that was not part of the plan at all.”
+
+“That’s okay, none of us thought it would happen,” Bubbles reassured her, ignoring Rock’s indignant sniff. “I’m glad to know you were watching over me, though… I was really worried we’d be all alone.”
+
+Miss Magpie nibbled on a leaf affectionately. “Thank you for understanding. We miscalculated how the panther’s human would behave… we were so certain she would rush to her beast’s side, given how she doted on that creature.”
+
+“Your mistake was in assuming that under such extreme conditions, the human would behave as normal,” Link said from his position beside a felled log. “Your flock afflicted considerable damage to Luna and brought her to the brink of death, to my understanding. When pushed to such a position, the human partner’s natural tendencies are overrun by the animal’s base instincts due to the spell that binds us. With the panther being as vicious as she is, it would be logical that her human decided to proceed with the hunt, instead of tending to her partner’s wounds.”
+
+[What a fascinating phenomenon. I would like to examine the spell that allows that kind of hostile takeover.]
+
+That would mean getting close to the humans again.
+
+[It was just a fleeting thought.]
+
+“We did not know that,” Miss Magpie said as she digested his explanation. “Thank you for sharing.”
+
+Link’s shadow rippled as he shrugged. “It does not happen frequently, but we have heard tales of such occurrences in the guild taverns.”
+
+The three of them fell into silence again. Then Link got to his feet and shook himself. “I am not yet tired, so I will go scout a route for tomorrow.”
+
+“Okay, be careful,” Bubbles called as his dark form slunk away.
+
+“Where is your next destination?” Miss Magpie asked after a few minutes. “I was surprised to come upon you here, so close to the encroaching dead zone.”
+
+“You know about this place?” Bubbles asked, surprised.
+
+“Yes, of course. Our network is extensive, remember?” Miss Magpie laughed. She turned serious. “We had a few nests in this area a generation ago, but then we had to leave because the woods were getting overcrowded. The elders remember it fondly—said it was a lovely place to live… but when everyone is thriving, inevitably others begin to get stifled.” Miss Magpie shook her head sadly. “It’s no one’s fault, it’s just the natural order of things. Our syndicate wasn’t as established back then, so we weren’t able to eke out survival. My ancestors thought it better to leave for a place that was, though less lush, allowed us more room to set things up to better suit our needs.”
+
+Bubbles felt Miss Magpie move around as she peered at their surroundings. “And it’s good they did. We’ve been keeping tabs on these woods over the years… The elders wanted confirmation they made the right decision to leave, I suspect.” She shook her head again, clucking her beak with disappointment. “And it looks like they were. These wisteria vines took advantage of the ideal growth conditions and overpowered everything else. Very unfortunate.”
+
+Can we tell her? Do you think the magpies will help? They have roots to this place! Realizing she was falling into the same bad habit that caused her to get captured, Bubbles reined herself in. Do… do you want to try to help Miss Fish and Rock Two?
+
+[My counterpart will be unaffected by whatever the outcome here is, as he can still receive benefit from the wisteria,] Rock said slowly, his words dampening Bubbles’s spirits. [However, I worry for the fish Guardian’s spirit. If she sees fleeing as a failure, then her confidence and sense of purpose and worth may be irrevocably shattered. A broken Guardian is worse than no Guardian, as there is no guarantee they will ever recover, and may eventually reach the point where they create more problems than they should solve. In the long run, the mineral will see better returns on his investment of resources if his Guardian did not have to struggle with trauma, and instead was somehow able to overcome this challenge.]
+
+Bubbles waited. Seeing she didn’t understand, Rock sighed. [Yes, ask the magpie for help.]
+
+“We met the Guardian!” Bubbles said excitedly, startling Miss Magpie from her drowsiness. “I mean, she’s in training, but she definitely wants to make changes!”
+
+Miss Magpie untucked her head from under her wing, and Bubbles relayed everything she and Link had learned from the day’s conversation with Miss Fish. By the time Miss Magpie was completely caught up to speed, Link had returned and begun munching on the nutrition pills Miss Fish had gifted them.
+
+“Interesting… Perhaps the elders might wish to return to their childhood home one last time, but the problem seems like it’s too far gone to fix,” Miss Magpie said slowly. She clicked her beak at Link, getting his attention through his loud crunching. “Sir Link, in your estimation, how dire is the situation? Even with what we can supplement the recovery efforts with?”
+
+Link stopped eating to listen as Miss Magpie listed out various figures and items of what the magpies could contribute. His green eyes, glowing in the dark, blinked thoughtfully. “With your contribution, it seems it would be possible to cover the whole area with herbicide pills. However, that would still leave the more backbreaking work of removing the vines, and I am unclear as to how long the paralysis effects will last. So… I would say, if the magpies are able to contribute all of the support you mentioned, it would turn the situation from impossible to questionable. But it may be that with the additional support, the fish may be able to improve upon her poisons. It is hard to say.”
+
+Bubbles squealed at the dramatic improvement in Miss Fish’s chances. Before she could declare the plan as set, Miss Magpie gently cuffed her with her wing. “Calm, Miss Bubbles. This is no guarantee it will work. For one thing, I would have to receive permission from my congregation to move forward. Before presenting my case, I will have to speak with the Guardian first to assess her commitment. There is no use throwing our lot in with her if she continues to be stubborn or fearful.”
+
+“She recognizes where she went wrong and wants to change her approach to Guardianship,” Bubbles said confidently. She began making her way back towards the pond. “Let’s go see her now!”
+
+“But it is late—” Miss Magpie’s protests were cut off as Link followed after them. “You also would rush into this, Sir Link?”
+
+“We need to talk to Miss Fish as soon as possible,” Bubbles insisted, bumping into obstacles in the dark in her haste. Miss Magpie squawked in protest and repositioned herself on Bubbles’s rear so that she wasn’t taking the brunt of getting squished. “She looked ready to give up, and the thought of doing so was hurting her so much.”
+
+“I agree with Bubbles that time is of the essence. Miss Fish said she would be teleporting away after she finalized arrangements. We must catch her before she leaves or does something irreversible,” Link said, nudging Bubbles with his nose onto an easier-to-traverse, less enclosed path.
+
+“You want to help Miss Fish too, huh?” Bubbles asked him, pleased.
+
+“I came to some conclusions on my walk,” Link admitted quietly. “Against my better judgment, I wish to see the carp succeed in defending her home. It’s an interesting inclination,” he said thoughtfully, “the passionate desire to fight against futility. I was never in a position where I was compelled to lay down my life for a lost cause; everything was just a job. We would abort the mission if it meant avoiding mortal injury, and not lose sleep over it. But walking away tonight…”
+
+Link shook his head ruefully. “It left me unsettled.”
+
+“I’m so glad we’re all in agreement,” Bubbles said happily, unable to stop herself from doing a small skip as they reached the edge of Miss Fish’s pond. The body of water was still calm, almost serene, despite the waterfall unwaveringly pouring itself into Miss Fish’s domain. She wasn’t sure if she was imagining it, but the clusters of wisteria flowers hanging from the trees, glowing in hues of pinks and blues, seemed to be leering ominously at them. She gulped. “Okay, let me try to call Miss Fish again.”
+
+Urging Rock to do his thing, Bubbles kept a wary eye on the encroaching vines. They seemed docile; if Miss Fish hadn’t explained how they were such a menace to the rest of the wildlife, she would have thought they were just innocently sleepy flowers.
+
+However, she reminded herself: being this close to Miss Fish’s pond, the paralysis pills were likely frequently distributed, keeping the eager vines at bay.
+
+After a few moments where nothing happened, Miss Magpie cleared her throat. “Is the Guardian coming?” She also seemed to be unnerved to be so close to the looming flowers.
+
+“I’m sure she’ll be here soon,” Bubbles reassured her. She nudged Rock. Send out another pulse!
+
+Rock sighed but did her bidding, sending another wave of his mana into the water.
+
+“Perhaps she already left this place,” Miss Magpie suggested. Bubbles was horrified.
+
+“That’s so soon! How will we find her?”
+
+A growl rumbled from beside her, and she felt Link shift his weight, digging his claws into the soft earth beside her. In the soft light emitting from the flowers hanging overhead, Bubbles saw his ears pricked forward, his own glowing green eyes focused on the still water “Something is not right.”
+
+“Oh dear,” Miss Magpie said, hopping to the top of Bubbles’s dome so she could have a better view. “I hope we are not too late.”
+
+Worried, Bubbles peered into the water, trying to see—or sense—whatever it was that Link was feeling. Unfortunately, even Rock was perplexed.
+
+[This is not my territory, as I have not contributed any of my own mana to this environment; so my senses are just as limited as yours.]
+
+“Let’s come back tomorrow morning,” Miss Magpie suggested. “She may be sleeping. And if she’s already left this place…”
+
+Sadly, Bubbles climbed out of the water, shaking herself off and inadvertently sending Miss Magpie aflight with a reproving caw. After seeing how effectively Link was able to dry himself off that way, she wanted to try as well. Normally, she would just wait for the water to roll off of her so that she could slurp up the excess water, but—
+
+Link leaped upwards with a snarl, snatching Miss Magpie out of the air as she screeched.
+
+“What are you doing?!” Bubbles cried, the only thing she could get out before everything around them exploded.

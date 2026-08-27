@@ -1,0 +1,311 @@
+---
+id: dd73c5e6-4356-502d-a108-21f1886cffb6
+page-type-slug: story-chapter-royal-road
+title: "141 His Design"
+slug: 0100-141-his-design
+partOf: the-new-world
+position: 100
+ownLength: 3232
+unit: words
+ownProgress: 3232
+publishedAt: 2018-08-17
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/282481/141-his-design"
+royalRoadId: "282481"
+markedReadAt: "2026-06-29T21:24:18.009Z"
+---
+
+I got a notification. The assassin died, finally. I opened my status, poured my points into endurance, and I hit finalize all at once. Another deluge of power swelled through me. I leveled further, gaining a profound boon in my ability.
+
+We turned towards Brim. He pushed himself off the ground, picking up his arcane spear. He shook his head, chunks of mirror and stone falling off of him. Elessah floated towards him, casting healing magic over him. Once again, his mirrors returned.
+
+Elessah rejuvenated Frode's arm. He still hobbled on the ground, stark naked. Althea turned towards me,
+
+"What happened to him?"
+
+I grimaced, "Yawm."
+
+She frowned back at me, "Where is he? Torix said he was hurt bad. That's why we moved in."
+
+I raised an eyebrow, "We?"
+
+Behind Frode, his shadow loomed. From it, two arms lifted up from the shadow. A metal beak raised from the shade with circular, red eyes glaring at the Enigmatta. It opened its maw, drool leaking from it.
+
+The hulking figure lifted out of the dark, silent as night. Claws brandished its hands, pitch black fire blazing along their length. It stepped forward, wrapping its massive hands around the neck of Frode. Even with physical touch, the monster made no noise.
+
+The shadowy figure stepped forward, chunking the Frode at us. As Frode passed over Brim's head, he turned around. Elessah looked down as the living shadow leaped up. She used her antimagic, destroying the shadow covering the black figure.
+
+Hod came out, his lanky form landing on her. He wrapped his spindly arms around Elessah, doing his best to hold her back. Hod squawked,
+
+"Hod not understand why lady take shade form from Hod!"
+
+Frode tumbled across the ground towards us before we charged him. Brim glanced at the both of us, looking at who to save. He pounded his heels into the dirt, reaching Frode before us. I jumped in front of Althea, taking on Brim's stab of his spear.
+
+I clapped my hands over the energy bolt, a sizzling sound ushering from my hands. Althea weaved around me, slicing a biotic sword towards Brim's right side. Brim turned his spear sideways, blocking her strike. He freed my hands but cut the sharpened horn off of Althea's arm.
+
+Without the spear in my way, I swatted the back of my left fist at Brim's head. The compact blow shook his head, and I rotated my mass on my heels. With a tectonic strike, I sent a quaking right straight into his jaw. A telekinetic bolt ripped across his jaw, his skull whipping with violence.
+
+Althea growled as she sent a wild strike at Brim's side at the same time. Her hand pierced his silvery skin. Puncturing into his torso, Althea grabbed his ribs and jerked them back. With brutish strength, she tore out his bones.
+
+I burned a third of my health in a torrent, sending two gravitational spikes. These wells reached Frode, pulling his legs apart. His hips dislocated, skin tearing near the joint. He landed on the ground, writhing in agony.
+
+Brim ignored me, kneeing Althea's stomach. She vomited blood before Brim stepped sideways.
+
+He elbowed her face, Althea's skull caving in. Althea rolled along the ground, dead and limp. I shot out a jab at Brim, but he leaned back, dodging the strike. Brim twisted his arcane spear, slashing my wrist. I stepped forward as he stepped back.
+
+Without Elessah canceling my magic, I freed the full force of my abilities. Brim lashed his spear out at me, but I deflected with an empowered gravity stream. I shot out short strikes, countering his techniques. He lacked the same concision in his movements, letting me abuse his sloppy style.
+
+As the fight progressed, I gained the upper hand on Brim. The Breakers slaughtered most of the eldritch, but a few remained, powering Event Horizon. The conduits with the legion bolstered me, giving me a surge in strength.
+
+Brim overpowered me over the short term, but my uncompromising regen turned the tide. Wounds accumulated over the next minute, Brim's movements growing sluggish. Elessah banged at Hod's face, trying to knock him off. He held on tight, biting her with his armored beak.
+
+From behind Brim, Althea revived. As she did, she cloaked herself, becoming imperceptible. Her camouflage deepened, being hidden even against my gravitational sense.
+
+With an unspoken understanding, I pressed Brim back. I distracted him, amping up the intensity of our struggle. It left Brim and me vulnerable. At the culmination of our conflict, Elessah wormed her way out of Hod's grasp.
+
+She cast her antimagic at me, nullifying my mana. Off instinct, I molded my armor over my head. Three bullets snapped against my head in rapid succession. Only one pierced through the top of my head, the others bouncing off. They still collided with my head like cinderblocks.
+
+The metal casing over my head rang as my vision blurred. Brim stabbed the spear through my throat. He twisted as Althea appeared behind him once more.
+
+With two massive, reformed arms, Althea clapped Brim's head. Her swollen, bulbous arms squashed his skull like a melon. He fell down, the spear dislodging from my throat. Althea cartwheeled through the air, her motion graceful.
+
+She sliced off one of Brim's hands during her somersault. She grabbed the spear, using Brim's amputated hand to hold it. Frode tossed something at us. I stepped in front of Althea, blood gushing from my throat. I wrapped my arms around the grenade, shifting my armor over it.
+
+The metallic sphere blasted out with a firebomb following an arcane pulse. As I absorbed the assault, Althea walked up over my back. She grunted as she heaved the energy spear. It zipped through the air, bolts of electricity arcing off it.
+
+The spear impaled Frode, leaving a hole in his chest. Frode fell to his knees. With his fingertips, Frode probed the inside of his chest. He gasped. Blood drooled from his anglerfish face. He glanced backward at elessah.
+
+The mage fired shot after shot at Hod. Hod was different now, however. He lacked the same clumsiness. Over the last few months, he mastered his eldritch form. He shifted across shadows, teleporting across the battlefield. No bolt hit his ethereal, changing shape. He dodged her antimagic now.
+
+Like darkness come alive, Hod dashed between spots of shade. He lived there, hurling blobs of dusk at Elessah. She evaded, returning fire. With Hod keeping her busy, I charged Frode. My neck already healed.
+
+Frode opened his dimensional storage. Behind me, Althea did the same. Pulling out the rifle I made her, The Omen, she generated a bolt of bone. With fluidity and precision, Althea loaded the slug, sliding it in place. She fired her biotic rifle, sheering Frode's only arm off.
+
+I reached him. I threw a punch like throwing a baseball. As my punch landed, the impact destroyed Frode's noggin. The anglerfish's head turned inside out. From behind me, Althea sprinted forward. She jumped as I turned around to her.
+
+She landed right above me, and I grabbed her with my arms. Like throwing a javelin, I flung Althea At Elessah. I molded Event Horizon away from the two of them as I ran with Althea.
+
+She outraced me. Like a Valkyrie, Althea molded wings from herself. She zoomed over the ground towards Elessah. Elessah turned towards her. She raised a hand at Althea. Using an explosion of magic, I smacked her hand downwards.
+
+Her pillar of light missed its mark. Elessah still controlled her flight. She jetted around, eluding Althea. On the other hand, Hod reached her. With his shade form intact, he gripped her arms with shadow claws. Hod pulled her down, crushing her against the side of a skyscraper.
+
+Like a savage beast, he mauled her. Hod's massive form thrashed her. Elessah struggled, deflecting a few of the strikes. Before she regained composure, Althea fired off two bolts. Each one impaled an arm of Elessah. Pinned and unable to fend Hod off, she perished.
+
+After a minute, she revived. It mattered little. She tried surviving once more. With bolts from Althea, Hod's mobility, and my control magic, she didn't stand a chance. Elessah was a support, not a duelist. Her sniper friend was nowhere to be found either. My guess, it abandoned her.
+
+As Elessah died, the three of us stood over her corpse. I turned towards Althea and Hod. Both were shorter now, though Althea wasn't as slender anymore. My guess was my legacy gave her the constitution to make her look different.
+
+If anything, she was even more attractive.
+
+It could be me not seeing her for so long. Hod looked beefier too. His shade form made him mirror my own size and height, though not as broad. If I had to describe his new look in one word, it'd be menacing. Darkness claws and a rippling form does that.
+
+I raised my hands, shouting at the top of my lungs,
+
+"We fucking won. I can't believe it."
+
+Hod raised his hands, speaking a dark, booming voice,
+
+"Hod like to say Hod had faith in Harbinger, but Hod not want to lie."
+
+His shade form dissipated, revealing the spindly bird form of Hod,
+
+"Hod have no faith in Harbinger when Harbinger left. Hod glad Hod wrong."
+
+I reached out with an inkling of gravity, grabbing Althea. I pulled her to me, and she giggled as I wrapped my arm around her waist. She bit her lips, sexy and fiery. She locked her hands behind my neck, a bright grin gracing her lips.
+
+With a mischievous grin, I lifted her up. I pulled back the helmet from my face,
+
+"You're a sight for sore eyes."
+
+She pulled me in, kissing me. Soft and warm, I indulged myself for a second, enjoying the sensation. Having enhanced senses paid off in spades here, letting me enjoy the slightest touch.
+
+Hod covered his eyes with a winged hand,
+
+"Hod Interrupting Harbinger big moment. Hod apologize."
+
+He raised his other winged hand to his chin, "But Hod wonder if Hod really ruin moment. Hod also wonder if Hod part of big moment."
+
+Hod nodded as if coming to a grand realization,
+
+"Hod is, of course, part of big moment. Hard for moment to be big without Hod."
+
+I rolled my eyes while Althea laughed. I let Althea go, but she ran her hand down my arm as she dropped. We reached out our hands, our fingertips the last part to lose contact.  Cheesy, yeah, but it's hard not to be after being away from each other for so long.
+
+Althea's warmth turned cold after a few moments, "Where's Yawm?"
+
+I turned towards the skyscraper at the edge of the building. I pointed that way, "He's there."
+
+She raised an eyebrow, "Why?"
+
+I scratched the back of my head, "Uh...it's complicated?"
+
+Althea walked past me, "From what Torix told me, he's nearly dead. Come on, let's finish him."
+
+I jogged up, catching up to her,
+
+"See, that's the thing. I don't know, hmmm, how do I say this..."
+
+I waved my hands in front of me, "It's...damn this weird to say...I don't know if we should kill Yawm."
+
+Althea turned towards me, "There's no way...did he brainwash you or something?"
+
+I shook my head, putting my palms to Althea, "No, at least I don't think so. Let me know if what I'm about to say sounds crazy though."
+
+Althea let her hands flop against her sides, "You already sound crazy."
+
+I sighed, "Yeah, maybe I am."
+
+A thick, icy chill leaked into Althea's voice, "You remember what that he's done, right? We can't give up this chance. He's weak, alone, and injured. We slit his throat now, or he'll slit ours."
+
+We hobbled over rubble, the broken city surrounding us.
+
+"I've been talking to him for a while. He seems to regret what he did."
+
+Althea frowned, staring at the abandoned high rise,
+
+"He hasn't done a thing for anyone he killed or hurt. To me, that means he hasn't changed." Althea turned towards me, raising a hand,
+
+"Seriously, did he even stop experimenting on things?"
+
+I remembered the eldritch we hunted down from Springfield. I shook my head.
+
+"What about changing his plans or goals? Did he do any of that either?"
+
+I frowned.
+
+Althea shook her head, walking into the abandoned skyscraper,
+
+"That's what I thought. Let's be glad you're so hardheaded. Otherwise, he might have brainwashed you already."
+
+I grimaced. Maybe Althea was right. I couldn't tell anymore. Why I wanted to save him, well, perhaps it was his charisma or the contract we made. It didn't matter why. What mattered was quelching the urge in its entirety. Leaving Yawm alive was like giving away a bunch of nukes. It wasn't worth the risk.
+
+With that on my mind, we all reached the shady high rise. Only sunlight illuminated the inside, casting long shadows around us. Entire floors collapsed from the fight earlier, cracks smothering every surface. The post-apocalyptic environment suited us.
+
+By now, it might as well be home.
+
+I dashed through floors of the building towards Yawm. The holes I left behind let Hod and Althea follow me. After a few dozen stories, we reached the world eater.
+
+He landed in a parking lot, several cars plowed out of his path. A glowing green trail of blood led to him. My black armor covered him from head to toe, but he gasped underneath it. His chest wheezed for air. When I stepped up to him, he murmured,
+
+"Is it my maker, perchance?"
+
+I frowned, "Nope. Just me."
+
+"And the others? Who are they?"
+
+Hod answered, "Hod is Hod. Lady friend is lady friend."
+
+Yawm coughed, "I see you only associate yourself with companions of the highest intelligence."
+
+Hod spread out his wings, "Hod grateful that Yawm understand depth of Hod intelligence."
+
+Yawm let out a pained chuckle, "As deep as a puddle."
+
+Althea stepped up, placing the barrel of her rifle at Yawm's head.
+
+Yawm murmured,
+
+"Ah, so that's who you are...Have you come to kill me then?"
+
+Althea growled, "Yes."
+
+"And so the orphan I took under my wing comes to murder me...No good deed goes unpunished, I suppose. My own father told me that after my mother was slain for my own bounty."
+
+Althea shouted, pain in her voice, "You killed my own parents. Why are you even talking right now?"
+
+I reached down, pulling my armor back to me. It uncurled from Yawm, revealing what a mess he was. He turned towards Althea, his eyes searching,
+
+"Is that what they told you? No wonder they convinced you to hunt bounties for their own gain. To think they put my most prized possession in harm's way."
+
+Althea kicked Yawm's side. He coughed up blood, and she pressed her barrel back onto his forehead,
+
+"You just turned me into a freak. I hated myself. I tried killing myself so many times."
+
+I turned towards Althea, my stomach sinking.
+
+Yawm's eyes softened, "And there was nothing I could do to stop your fate. You came out half eldritch. I did nothing but expose you to the Tears of Etorhma. It gave you the strength to stand on your own."
+
+Yawm reached out a hand. "And so my lotus turned deadly, a viper given fangs. I slew the scientists that tried twisting you. You came out a beautiful young woman. A woman with eyes hard as stone."
+
+Althea's breath turned ragged, "Daniel is the one that gave me fangs. He never babied me, and yeah, it was a bit rough at first. He did kill me when we first met."
+
+Althea grimaced, "But he's why I can stay the way I am."
+
+Yawm turned towards me, "Ahhh...Your armor...A conduit."
+
+She nodded, "That's right. I don't even need it anymore."
+
+She raised a hand, molding it like liquid, "I choose to be a monster now."
+
+Yawm radiated a kind voice, "You turned your curse into a blessing."
+
+Althea took a step back, "Yeah...that's right."
+
+I turned towards Althea. She shivered, her aim no longer straight. Yawm's words left her uncertain.
+
+Yawm raised a hand towards her, "I want nothing more than for you to flourish. You were never a monster, not to me. I saw you as my most excellent creation. A natural combination of two halves becoming one."
+
+Althea whispered in disbelief, "Really?"
+
+I turned towards Althea, dread racing up my throat. Yawm was controlling her within seconds of speaking with her.
+
+"I am painted out like a demon, but I do not lie. I consider myself a poor father, but a proud one all the same."
+
+Yawm let his hand smack against the concrete, "Do any of you ever dwell on your future?"
+
+Hod nodded, "Hod want Eltari safe. Hod want new home for tribe."
+
+Yawm nodded, "I as well wanted a new home for my people. Our world was left decayed and destroyed after we were invaded. Schema gave us nothing after we were assimilated."
+
+Yawm gestured all around us with a slow, weak move of his arm,
+
+"What was done to your city was done to my entire world. Every world thereafter was glassed in the name of Schema. Once I've been here for much longer, this world will share the same fate."
+
+His words got to me a little with that one.
+
+"The skies will burn with a light that blinds any that see it. Even if you kill me, they will come. Schema will want to disintegrate the world tree. If you let me live, I can help you all."
+
+Yawm looked up, "I...I don't want to watch another horizon bathe in fire."
+
+Althea and Hod looked up at me. Hod murmured,
+
+"Hod like Earth. Earth new home of Eltari."
+
+I looked back down at Yawm, my eyes narrowing,
+
+"And why should we trust you?"
+
+Yawm shook his head, "You shouldn't. You can only have faith in my words."
+
+Althea grabbed her forehead, her eyes darting around,
+
+"I looked forward to killing you...This is all just...some kind of trick."
+
+Yawm's eyes narrowed, "Kill me then. Billions will burn for it."
+
+I didn't know if I could trust Yawm, but he laid the seed for serious doubt. I didn't know who or what to think at this point.
+
+As my doubt mounted, a whisper rang in my ear,
+
+"To think they all fall to his words."
+
+A figure phased onto our realm behind Yawm. Ajax stood there, raising a thin hand. As he lowered his arm, he cleaved the dimensional fabric in a line towards Yawm.
+
+The world eater was ready.
+
+His ancient voice rang out like iron,
+
+"Finally."
+
+Yawm snapped his fingers. Green spheres of energy appeared over each of us. We froze, all of us unable to move. The glow permeating Yawm's blood dimmed, making it a sickly yellow. Vibrant waves of cascading energy rained over Yawm, healing him in seconds.
+
+He rolled onto his chest, pushing himself from the floor. He brushed off his shoulders, some dirt and pebbles clattering against the floor.
+
+He stared at each sphere, his eyes wide.
+
+"You appear once more, Volan."
+
+He tapped the orb over Ajax. Yawm laughed slow at first. The laughing edged into madness. Malignance rushed into the laughter.
+
+He spoke,
+
+"And here I believe I lost you."

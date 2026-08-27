@@ -1,0 +1,151 @@
+---
+id: 036ace98-60a1-5b12-afd3-0f6290f37d09
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: New User Environment"
+slug: 0029-chapter-28-new-user-environment
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 29
+ownLength: 2322
+unit: words
+publishedAt: 2025-10-14
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2676695/chapter-28-new-user-environment"
+royalRoadId: "2676695"
+---
+
+The great jade dragon, Longwei, banked in a slow, graceful arc, beginning his descent. He didn’t roar or announce his arrival; he simply dove, a silent green comet streaking toward the highest, most ornate pavilion. We landed in a vast, open-air courtyard paved with polished white jade that felt cool even in the morning sun. A small, silent group of cultivators in formal robes was waiting for us. They were all elders, their auras deep and powerful, their faces impassive masks of ancient calm.
+
+They bowed as one as the princess dismounted, their movements a synchronized ripple of silk and respect.
+
+“Welcome home, Your Highness,” one of them said, his voice smooth and ancient.
+
+Then their gazes, a collective weight of centuries, shifted to the still-sleeping Dave. There was no open hostility, but something far more chilling: a cool, dismissive appraisal, the way one might glance at a piece of unexceptional luggage.
+
+Dave, bless his heart, chose this moment to wake up. He sat up, blinking in the bright light, his hair a mess. Wow, was his first coherent thought, echoing through our shared mental space. Pretty rocks.
+
+The welcoming party's reaction was immediate and subtle. As Princess Liling moved forward to greet them, the elders closed ranks around her. They didn't push Dave away or say a word to him. They simply formed a living, breathing barrier of respect and power, a perfect, exclusive circle around their princess. Dave, now standing awkwardly on the dragon’s back, was left outside of it, trailing in their wake like a forgotten pageantry float.
+
+The social ostracization protocol is… efficient, Liz noted, a spark of her old analytical self returning, though it was laced with a new, unfamiliar sting of indignation on Dave’s behalf.
+
+An attendant, a young woman with a polite but distant smile, gestured for us to follow. She led us away from the main group, through a series of breathtaking open-air corridors carved from the living mountain. Waterfalls flowed upwards beside us, and the air smelled of mountain mist and strange, sweet incense.
+
+“The Princess is returning to her personal pavilion,” the attendant said, her voice a soft, professional monotone. “And adjacent chambers have been made ready for you, Lord Dave, in accordance with the traditions for… betrothed pairs.”
+
+The words hung in the air. Close proximity. It was an engagement custom.
+
+Just as the attendant spoke, I felt a sudden, sharp spike of mortified horror from the princess’s end of our soul-bond. It wasn't a thought, just a feeling, a silent, internal shriek of someone who had just realized a terrible, terrible truth.
+
+What was that? Liz projected, startled.
+
+[Ana: I believe we are about to find out.]
+
+The attendant led us to a magnificent suite of rooms. The walls were carved from jade, the furniture polished, the dark wood, the silk screens painted with elegant, flowing landscapes. It was a space designed for a prince.
+
+“These are your private chambers, my lord,” the attendant said with a bow. “Your sitting room, study, and through here, your bedchamber. The kitchens will provide for all your needs. Please rest. Her Highness will join you for the midday meal.” She bowed again and glided away, leaving us alone.
+
+Dave wandered into the bedchamber, a large, airy room with a balcony overlooking a thousand-foot drop. He ran a hand over the smooth, cool sheets of the enormous bed. So soft, he thought, his mind simple and uncluttered.
+
+Liz was performing a more thorough inspection. The craftsmanship is adequate, I suppose. The Feng Shui is slightly off, the flow of Qi is being partially obstructed by the placement of that wardrobe…
+
+It was then that she saw it. Set into the wall that separated Dave’s bedchamber from what could only be the princess's, was a brand new, circular doorway.
+
+It wasn't just new. It was fresh.
+
+The air was thick with the sharp, chemical smell of wet plaster and fresh paint. The ornate wooden frame of the doorway was still tacky to the touch. I ran a quick temporal analysis on the ambient magic. The construction had been completed less than an hour ago. The artisans who had been ordered to install this connection had worked so quickly, they hadn't even had time to use magic to dry their work.
+
+Liz and I stared at the door. Through the soul-bond, I could feel the princess’s mortification radiating like heat from a furnace on the other side of the wall.
+
+This is a wonderful arrangement, Liz finally projected, her mental voice dripping with a sarcasm so thick it was almost a physical substance. So convenient.
+
+[Ana: At least we won’t have to worry about cooking.]
+
+A silver lining on a cloud of profound, suffocating awkwardness. She conceded.
+
+Our suspicions about the architect of this little social experiment were confirmed at lunch. The meal was served in a grand dining pavilion, with the princess and a few select elders. The food was exquisite. Then, Princess Liling’s grandfather, the Sky Immortal with the long, white eyebrows, breezed in unannounced.
+
+“Ah! Settling in, are we?” he boomed, a wide, cheerful grin on his face. He looked from his granddaughter’s stiff, polite posture to Dave’s confused face, and then gestured in the general direction of their rooms. “Hope you’re finding the accommodations to your liking! Made a few… improvements this morning myself! No sense in you two lovebirds having to walk all the way around, eh?”
+
+The princess’s teacup rattled softly in its saucer. "Grandfather…"
+
+“Nonsense, child! You’re to be married! Got to get acquainted!” he said with another one of his infuriating winks, before snatching a pastry and breezing out again.
+
+The moment he was gone, I retreated to the cool, quiet professionalism of my own internal logs.
+
+[TICKET #00739: Unscheduled Change in Living Environment]The story has been illicitly taken; should you find it on Amazon, report the infringement.[PRODUCT: Project Double Negative][SUMMARY: User and Host have been relocated to a high-stress, politically sensitive environment. Unforeseen architectural modifications have been implemented by a third-party stakeholder, forcing a state of constant, high-proximity social interaction with another Strategic-Class asset.][ANALYSIS: This new operational parameter significantly increases the risk of unpredictable, spontaneous social events. My function as an observer is now compromised by my proximity to the ongoing romantic and/or hormonal developments of two pubescent adults.][RESOLUTION: Requesting a formal transfer, a significant hazard pay bonus, or, at the very least, a software filter to automatically redact any and all instances of awkward flirting.]
+
+. . .
+
+The next morning, the mail arrived.
+
+It wasn’t a neat stack delivered by a polite attendant. It was an avalanche. A veritable mountain of scrolls, letters, and elegantly penned parchments was unceremoniously dumped in a heap in the center of the shared living room, nearly burying a small, ornate table.
+
+Dave, who had just woken up, padded out of his room. His eyes went wide. A huge, delighted grin spread across his face.
+
+Wow! his thought was a burst of pure, unadulterated joy that echoed through our shared link. I didn’t know I had so many friends! They all wrote to me!
+
+Liz and I shared a moment of profound, silent confusion. Friends? The boy had no friends. His own family barely tolerated him. The only mail he should have been expecting was a formal, terse update from his grandfather.
+
+Bestie, Liz projected, a note of deep suspicion in her tone. This data is inconsistent with our user profile. I believe we should vet this… unsolicited feedback… before he is exposed to it.
+
+[Ana: Agreed. Initiate content screening protocol.]
+
+Dave, however, was already happily sorting through the pile. “Oh, look! This one’s from Barnaby!” he said, unrolling a scroll.
+
+Liz scurried over, peering at the text. Barnaby… Barnaby… ah, yes. The one who claimed his grandmother required an emergency diamond. Her mental voice was dripping with scorn. Let me guess. She has tragically lost it again and now requires a second, even larger emergency diamond?
+
+Dave’s face fell as he read. “Oh, dear. She has. And… it says she doesn’t have long to live this time. We have to send the money right away!”
+
+Before we could intervene, he picked up another. And another. A few were, as Liz predicted, thinly veiled attempts to scam money out of the notoriously soft-hearted wizard. One was a short, formal letter from his grandfather, confirming that a delegation was being formed to assist him and, in no uncertain terms, ordering him to stay out of trouble.
+
+But the vast majority of the letters were not scams. They were something far more creative. They were death threats. Hundreds of them. From the princess’s legion of admirers.
+
+And they were innovative.
+
+The sheer, poetic viciousness on display was, from a purely analytical standpoint, impressive. These weren't simple threats; they were multi-step project plans for Dave’s elaborate and painful demise, written in beautiful, flowing calligraphy.
+
+Ana, this one is… quite detailed, Liz noted, her initial anger giving way to a kind of morbid, scholarly fascination.
+
+One particularly florid scroll read: Your mortal clay is unworthy to cast a shadow upon Her Serene Highness’s divine radiance. For the crime of even looking upon her, I shall first gouge out your eyes. Then, I shall suspend them under the Thousand-Year Waterfall for a full century to purify them of the stain of your gaze. Following this, they will be dipped in the most potent alchemical cleaning solutions known to man, polished with the silk of a spirit moth, and finally, presented to a blind sage so that he might scry from them some hint of the beauty they once beheld, which is the only thing that might redeem their worthless existence.
+
+Another was more direct: I shall grind your bones into a fine powder and use it to polish Her Highness’s chamber pot.
+
+As the day wore on, our new management strategy became clear. We couldn’t keep Dave at 30% all day; the mental and magical strain was too high. Five to six hours was his absolute limit. For the rest of the time, we had to dial him back. We settled on a new setting we called "Power-Saving Dave." It was 11%. Enough to keep him from falling over or apologizing to furniture, but not much more.
+
+11% Dave was now sitting in the middle of a sea of death threats, his face a mask of deep, earnest concern.
+
+Ana? Liz? his thought was a worried whisper. What should I do? These people are all so angry. I should write back to them and explain it was all a misunderstanding. They took the time to write to me, after all. And we still need to help Barnaby’s grandmother…
+
+I could feel Liz’s patience, a finite and rapidly dwindling resource, begin to fray. He wants to reply to his own death threats with an apology letter. And he still thinks the diamond thing is real. I am going to have a draconic aneurysm.
+
+That was it. I had reached my limit. The sheer, overwhelming wave of his well-intentioned incompetence was too much.
+
+[Ana: Liz, brace for a high-level system override.]
+
+Without another word, I slammed the Dave Dial to 50%.
+
+The change was instantaneous. The worried, gentle expression on Dave's face was wiped clean, replaced by one of cold, analytical stillness. He rose to his feet in a single, fluid motion. He surveyed the mountain of parchment surrounding him. He identified a single scroll—his grandfather's—and plucked it from the pile, placing it neatly on the table.
+
+Then, he raised a hand. "Ignis," he said, his voice perfectly modulated and devoid of any emotion.
+
+A single, clean ball of fire erupted from his palm, engulfing the entire pile of letters. In ten seconds, the mountain of scams and death threats was reduced to a neat, contained pile of fine, white ash.
+
+He looked at me—or rather, at Liz on his shoulder, his gaze seeming to pierce through to me within. Problem solved, Benefactor. His thought was a simple, clean statement of fact. Then he looked at the princess, who had just entered the room, and gave a small, polite nod.
+
+[Ana: Thank you. Powering down.]
+
+I slammed the dial back to 0%. Dave's eyes rolled back, and he slumped to the floor in a dead faint.
+
+The princess blinked, taking in the scene: the pile of ash, the unconscious wizard. Did I miss something? She projected into our shared link.
+
+Just some routine system maintenance, Liz replied smoothly.
+
+Later that day, the real work began. Dave’s first cultivation lesson. He was led to a quiet, serene garden by one of the elders, who instructed him to sit, clear his mind, and attempt to feel the flow of Qi in his own body.
+
+And to our collective astonishment, he was a natural.
+
+Even at 11%, a state of near-total mental vacancy, he succeeded where most beginners failed for months. The moment he closed his eyes and stopped trying, the Qi of the mountain seemed to flow into him as if it had found a long-lost home.
+
+The reason, when I analyzed the data, was both simple and profound. Dave had reached Rank 5 as a mage, not through skill or power, but because his own will was so weak, so non-existent, that it offered zero resistance to the flow of external Mana. He didn’t need to wield it, as he was just a hollow channel for it to flow through.
+
+Cultivation, the art of internal refinement, operated on the same principle. A strong will, a powerful ego, an active mind—these were all barriers that a cultivator had to spend years learning to overcome.
+
+Dave had no such barriers. At 11%, he had no will of his own to temper or oppose the flow of energy. He was a perfect, empty cup, ready to be filled. His greatest weakness was, once again, proving to be his most profound strength.

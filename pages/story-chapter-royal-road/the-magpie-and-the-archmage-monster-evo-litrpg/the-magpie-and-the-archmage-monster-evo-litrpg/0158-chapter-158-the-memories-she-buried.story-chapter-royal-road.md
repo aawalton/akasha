@@ -1,0 +1,163 @@
+---
+id: 23f1e876-8636-5d13-8cbe-d73c702f562f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 158 – The Memories She Buried"
+slug: 0158-chapter-158-the-memories-she-buried
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 158
+ownLength: 2200
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3785766/chapter-158-the-memories-she-buried"
+royalRoadId: "3785766"
+---
+
+Liora writhed and screamed, using the Resonance Mimicry with the loudest possible noise she could think of. Explosions, dark metal music, even gunfire. Anything and everything she could think of. Just to stop Lucien from invading her mind.
+
+[Your skill <Resonance Mimicry> has reached [Adept] level.]
+
+But even with the upgrade, the man didn't seem to notice her voice. Liora wasn't even surprised. After witnessing the power of her Resonance Mimicry once, he must have taken some countermeasures to protect himself. Likely with magic.
+
+Show me where Renir is!
+
+Lucien demanded but his voice resounded in her head. The compulsion to show him the truth was intense. After all, but a brief thought would be enough to betray Renir's location. So Liora did everything she could to think about something else.
+
+Go fuck yourself!
+
+She then proceeded to think of the most obnoxious thing she could think of. Loud rock concert. She remembered being dragged to one by force. Who was it that dragged her there?
+
+The memory of her past life made Liora wince. She didn't want to remember it. Not now, not ever. Yet she suddenly became acutely aware of the person, likely a friend, who had dragged her there. Acutely aware that she would never see or meet them again.
+
+"What is this?" Lucien suddenly pulled back, clutching at his head.
+
+"Enjoying a bit of headache? Well, come on in. Don't be shy! I'll give you the full concert," Liora spat angrily.
+
+"You… You…" Lucien muttered as he clutched at his head. Then he raised his head to look at Liora. Really looked at her. "What are you?"
+
+Liora flinched. She realized that in her desperation she might have revealed too much of her past. Too much of her actual intelligence.
+
+"Bird. Liora bird!" She called, pretending to be dumb.
+
+Lucien shook his head. "Oh, no! You're definitely not just a bird. What even was that place? I've never seen anything like it. So many people, the lights, the loud noise. What even was that?"
+
+Liora remained silent. It was best to just not say a word.
+
+But Lucien only smiled at the lackluster response. "Let's try that again, shall we?"
+
+He once again pressed his finger against Liora's forehead. She tried her best to move her head and bite his hand off, but unfortunately, she was still held tightly in place by the invisible and likely magic force.
+
+Again there came the horrible, painful sensation of her mind being forced open.
+
+Where is Renir?
+
+Just like before Liora once again thought of the rock concert. But this time, Lucien seemed to be ready for it, acting much calmer than before.
+
+Fascinating. So many people. The technology they are using is unknown to me. Where did you see this? Where is this?
+
+His question made Liora think of that particular concert. What had happened there exactly? When did it happen? The memory was distant, but it was also strong. Liora felt that something good happened on that day. But what? Her head hurt even more the more she thought about it.
+
+So instead she switched to thinking about giantmaw hyenas. Fighting them, beating them.
+
+Feeling shy? I don't mind watching your memories. Show me more of that strange place.
+
+His words compelled her to obey for some reason. She didn't want to, but inadvertently, she reached for more memories from Earth. It was strange, because previously they always seemed locked as if under key. Perhaps, it was because Liora didn't even want to remember.
+
+But now these memories seem to come easily. She remembered the park where she used to take walks. The ducks that could always been found swimming in the canal. How she would occasionally bring them some peas and corn to enjoy.
+
+Wait, wait… this perspective… You're not a bird here. Show me more!
+
+Lucien prodded deeper into her memories. It was excruciating! She felt him pull on her old memories. Her going to school, sitting in the class among her classmates. While their faces were mostly a blur and she couldn't recall their faces, they seemed comfortingly familiar.
+
+She remembered heading back home by bus which was always filled to the brim with people. Being small she was always smashed into the crowd.
+
+No, no, no! I don't want to remember this!
+
+Liora tried to block the flow of memories, redirect Lucien away from them.
+
+Show me more! This isn't even our world. I want to know more!
+
+But he pushed her, returning her to memory. How one time a kind young man had shielded her during a particularly busy time. She couldn't recall his face, but she remembered feeling grateful.
+
+Liora resisted ferociously. These memories. They were too painful. They were all the things she had lost since coming to this world. She had made her piece with it. She didn't remember it, so she was happy living as a magpie. Living as a bird, free of worries.
+
+But with these memories, she could feel herself splitting apart. Liora found herself missing people she had long forgotten about. Missing the peaceful life she led on Earth, where she didn't have to fear for her life on a daily basis. Where things were easy.
+
+Liora didn't know how long Lucien rummaged through her head, looking through her memories. It felt like an eternity for each memory stung like a blade. Each one made her head hurt more and more, until eventually she couldn't take it anymore. She passed out.
+
+When Liora came back to her senses, she found herself lying on the cold floor of the cell, alone again. She sighed with relief, but it was short-lived as she felt her head throb horribly.
+
+All the memories still felt raw and fresh in her mind. She wanted to push them out of her mind, just like she had before. When she was just reborn as a magpie. But they refused to leave her. The memories clung to her like glue, filling her with sorrow and pain of times long lost.
+
+Liora curled, and tried hard not to think about it, but being trapped inside the cell wasn't helping.
+
+After some times, Lucien showed up again, wearing a wide smile on his face. This time it actually seemed genuine.
+
+"Hello, there! I must apologize for what happened before. It wasn't my intention to overwhelm you to the point of passing out. I just got overly eager when I witnessed your memories," he said in a sweet voice, as if trying to soothe a child.
+
+Liora glared at him as well as she could.
+
+Lucien ignored her glares, instead he eagerly stepped closer to the bars, making Liora flinch and back away as much as she could in the tiny space. "You were a human before, and yet now you are a bird. A monster. I have never witnessed a creature such as you before. How did that happen?"
+
+Liora remained stubbornly silent, just staring the man down.
+
+"I suppose you wouldn't know. Or perhaps, you just don't want to remember. You seemed quite eager to throw away your past memories. But why? The knowledge of your old world… Earth was it called? I saw mere blurry glimpses, but I could see the potential. The power coming from it."
+
+She hissed. Was he going to try to rummage through her memories again? How could Liora stop him? She felt that he did more of his mind probing, she just wouldn't be able to take it.
+
+"Let's talk this through as adults. I now know you are far more intelligent and far more valuable than you appear. In fact, you might be just as valuable as Renir, in your own right. Don't wish to force you into anything. Instead, I wish to give you an offer."
+
+She remained silent still. As if she would ever accept anything this bastard offered.
+
+"Join the Order of Night King. Help us achieve our goal and we will reward you. You love treasure don't you? Jewels, money, glimmerstones, whatever you wish to have we will provide you with. Resources for evolution, easy ways of gaining experience and leveling up."
+
+"And in return I have to do your dirty work? Corrupt the world with the abomination. No way!" Liora spat angrily.
+
+"They are just the efficient way to reach our goal. I don't like it any more than you do. You wouldn't have to deal with any of that. In fact, you can fly as freely as you wish. All we want from you is information," he smiled sweetly.
+
+"I will never tell you where Renir is," Liora hissed.
+
+"Why do you cling to him so? Is it because he allowed you to evolve? Your loyalty is admirable but misplaced. Renir will abandon you the moment he gets his body back. As he had abandoned many others… Me included," Lucien's face grew dark.
+
+"He abandoned you?"
+
+"Oh, yes! I was only just starting to learn magic, and in my youth I naively believed that the Path of Lost Magic was the right one for me. So I worked tirelessly, working my way up the ranks, until one day, I became Renir's disciple." Lucien spat angrily on the ground.
+
+"Except, he ruined everything I had worked for. Used me to do his dirty work and then tossed aside like an old doll. Full of shame, I had to crawl back to my father, begging him to forgive my foolishness. I was lucky that he was merciful. It was then that I understood Renir's true nature."
+
+Liora paused at his words. Would Renir truly abandon her once he regained her body? Did he really only see her as a tool? A means to an end? She wanted to claim it wasn't true, but… she knew that Renir was a selfish man who cared about himself above all others.
+
+Perhaps, he only cared for Liora because she was his only way of breaking the seal. But now he also had Cee. He could rely on the spider to break his seal. In fact… He actually needed Cee more than Liora, because he needed to make some kind of a ritual to break the next layer.
+
+Liora couldn't do it. But Cee could. The two of them could easily continue on their journey without her.
+
+"I see you need time to think. That's alright. I'm going to move into more comfortable accommodations as a show of good will and to portray that I truly wish to work together with you," Lucien said, and snapped his fingers.
+
+The room around Liora began to shift. The bars blocking her disappeared. The room seemed to grow larger and higher and furniture began to appear. A luxurious bed with curtains, sofa with carved armrest and soft cushions. Rugs, paintings, tables with all sorts of food, a perch large enough for Liora to sit on and even two large windows with clear views of the surrounding area.
+
+She looked outside, seeing that they were located on some sort of hill in the center of an island. Blue sea water shimmered beyond, and it looked like something straight out of a vacation pamphlet. However, Liora could see light shimmer of magic in front of walls and windows.
+
+The place was still warded.
+
+"I can't leave…" Liora noted bitterly.
+
+"I'm sorry, but I can't let you leave just like that. But should you join us, you will be granted your freedom. Think about it," Lucien smiled.
+
+Liora considered attacking him. He was just within her reach. One good strike with Raptor Lunge was all she needed. Her claws could tear him apart like butter.
+
+But Liora abandoned the idea. This man wouldn't be beaten so easily. No doubt he had set up protective barriers around himself. He was far too skilled with magic. After all, one well aimed magic beam could spell Liora's end.
+
+"What if I say no?" Liora asked.
+
+Lucien's smile grew dark. "I really hope we don't come to that. I am willing to be quite accommodating of you. If you just say yes, this all will be very easy and both of us will benefit greatly. I really wouldn't want to break mind of a creature as fascinating as you."
+
+With those words, Lucien left Liora's enlarged cell.
+
+She gazed out of the window. Maybe she should just agree. Yes, these guys were utter assholes, but… Liora didn't want her mind to be probed again. Or broken. She had no doubt that Lucien would really do it if she didn't care.
+
+Does it even matter what I do? Renir is likely already on his way to get that magic book to break the next seal.
+
+However, as Liora gazed out into the ocean. She saw something in far distance. It was kilometers away for sure, and no human could ever notice something so far. But with her superior vision, Liora could see it.
+
+A spider-like creature surfacing above the waves. It was just a few seconds, but she saw it for sure. On the spider's back, shone a treasure so brilliant that the rest of the world seemed dull by comparison.
+
+Renir and Cee had come for Liora.

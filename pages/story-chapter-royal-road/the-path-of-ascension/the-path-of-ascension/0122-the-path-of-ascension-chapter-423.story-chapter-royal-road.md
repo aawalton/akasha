@@ -1,0 +1,345 @@
+---
+id: 205e26ab-2d40-53a9-ae19-6291cceee639
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 423"
+slug: 0122-the-path-of-ascension-chapter-423
+partOf: the-path-of-ascension
+position: 122
+ownLength: 4767
+unit: words
+ownProgress: 4767
+publishedAt: 2025-06-27
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2390420/the-path-of-ascension-chapter-423"
+royalRoadId: "2390420"
+markedReadAt: "2026-06-29T19:22:03.016Z"
+---
+
+Chapter 423
+
+Aster felt excited, nearing the end of their trip as they were being brought to one of the Clan’s inner worlds.
+
+With the war just a few years out, the world was bustling but that was part of why they were here. The world was one of the Clans’ military resupply hubs which acted as a gathering point, healing station, and weapon repair depot.
+
+They normally wouldn’t have been allowed into such a system. But Wun rightly pointed out that they had been promised Domain lessons from one of the Clans’ top Domain teachers, and all such teachers were busy enough it was decided it was easier to bring them to the teachers instead of the other way around.
+
+Or at least that was the official story they heard, but all six of them agreed that was bullshit and it was more likely a test and a chance to pry into their secrets as much as the opposite was true.
+
+To that end, Matt had carefully filled his mana pool to a level that his regeneration would look like any Tier 27’s mages and Aster had checked it several times just to make sure. It wasn’t like they hadn’t been near higher Tiers before, but she still felt nervous every time.
+
+Instead, she let herself be distracted by the architecture of the military moon.
+
+It was interesting to see such a hive of activity with how much of it was familiar and how different everything was at the same time. Instead of the sleek lines the Empire preferred, the Clans style was blockier and more rugged, which led to different design styles making the familiar unfamiliar.
+
+A Tier 30 dwarven woman met them as they entered real space on Wun’s ship. “Legends. I will lead you all to the—”
+
+Wun cut her off with a wave. “I’ll handle it and get them to where they need to be.”
+
+“Legend Go—” Looking pained, the dwarven woman tried to speak once again but Wun cut her off for a second time.
+
+“I’ve got it. Report to your superior and wash your hands of this. If they really cared, Mullar would have come down himself. Now shoo.”
+
+Sighing, the woman stood off to the side as Wun led them to the military moon, looking like she desperately wanted to stop them.
+
+“She won’t get in trouble, will she?” Liz asked the question just as Aster could feel Matt was thinking it.
+
+Wun waved. “Na, she’ll be fine. Like I said, Mullar would have gotten off his lazy ass if he wanted to stop me. Honestly, I wish he did. He no longer has a five Tier advantage on me and we both know it.”
+
+Matt looked over to Aster and sent a pulse of feeling and she agreed. It was likely a few things had been explained with that statement but she suspected that was far from everything.
+
+As they landed on the moon, Wun immediately led them to a bustling Tier 30 market and Aster leaned over to whisper to Allie as they walked. “Do you see those under armor sets. I really like the layering they did. Super cute.”
+
+“I did. Shame they are so damn small though.”
+
+Aster agreed with a tsk. She could always get them resized or just commission a new one but getting custom orders sucked a lot of the joy from shopping.
+
+Thankfully, there were non-combat items like spatial objects and small luxuries useful for extended deployments for sale that she wanted to peruse. And peruse she would, given that Wun had brought them through the area and teased everything.
+
+Surprisingly, she saw Matt do a double take, which was unusual given how little he shopped for fun. Quickly scanning the shops, she didn’t see what had caught his eye and instead poked him through their bond.
+
+“What did you see?”
+
+Grinning, he poked her right back. “Nothing.”
+
+“Bullshit. Tell me. I wanna know.”
+
+“I’ll let you know if it works out.”
+
+Aster flicked him with her tail, but he didn’t even notice.
+
+Once they had walked through several other areas of selling things, Aster finally figured out why it all felt so similar to the Empire’s staging points.
+
+The Clans had a similar rule to the Empire where combatants could replace their military gear with personal items so long as they were made by an approved seller. It was a bit of a risk because if the item broke in combat and you didn’t have a replacement copy, you could be left with the army issued gear which, while not bad, was standardized and therefore came with predictable weaknesses.
+
+But where the Empire typically encouraged the rank and file soldiers to use standard weapons, the Clans seemed to encourage everyone to use custom weapons. And her lessons from Luna, as well as the Army, only backed that up as she dragged those memories from where she had repressed them.
+
+They even had some intriguing looking food stalls that specialized in massive quantities of food meant to last a soldier years, and some of the packages looked very interesting.
+
+The fun ended when they entered one of the largest towers and a dwarven man growled at Wun. “You were given orders, Legend. You flagrantly—”
+
+Wun just clicked his tongue, and the man’s clothes started to shred. It wasn’t a spell or a Domain working but instead, a slightly stronger breeze caught a piece of paper and nearly hit the Tier 42 in the face. As he reached up, his elbow caught a loose thread and pulled, causing the entire weave to fall apart in a way it never should have.
+
+Clutching her very cute outfit close with her Domain, Aster glared at Wun who was too busy having his pissing match with who she suspected was Mullar.
+
+Instead of being embarrassed by the sudden nudity, the man growled like a congested dragon before launching himself at Wun.
+
+Wun’s expression wasn’t any better as he brought his namesake weapon around and down.
+
+Before the impact could level the moon, the two vanished and appeared deeper in space where they started to brawl.
+
+Wun being Tier 40 was only two Tiers below the man and it showed.
+
+Given the gaps of power at the highest Tiers, Wun didn’t instantly trounce the man but he clearly had the upper hand, which just seemed to make the dwarf angrier.
+
+A human woman, just over the legal height minimum, walked over and in a perfectly flat tone said, “I can lead the Legends to the prepared trainer while Legend Goldenrod and Manager Mullar settle an old grudge.”
+
+Allie leaned over and mock whispered, “What is their beef?”
+
+The woman sighed. “Manager Mullar wanted an item Legend Goldenrod was selling at an auction and put enormous pressure on him to sell directly to him beforehand. This is before the Legend had completed the Path but it has created a long-lasting feud between the two. Typically the two are kept apart because it always ends up in a brawl but in recent years, Legend Goldenrod has started to win and so he's been finding excuses to come around. It’s…”
+
+Her voice trailed off as she looked at them as if trying to find the word.
+
+Aster whistled while trying not to grin. “Wow, that guy sure has bad luck picking on someone who became an Ascender.”
+
+Her efforts were for naught as Allie snorted and the woman just continued to give her a flat look.
+
+“I would avoid using that word around Manager Mullar. He’s sensitive to it.”
+
+Aster had to hold her tongue so as to not say something and they were not-so-quickly led through the facility and a series of checkpoints.
+
+At the first checkpoint, the guards tried to follow protocol and make them take off their spatial items and equipment but even before the first sentence was finished, the guard in question trailed off, looking at the woman who eventually just waved the Empire group through after asking them to not do anything.
+
+Deep inside the moon, they found a Tier 40 dwarven woman giving a lecture on advanced Intent usage to a group of what Aster assumed were freshly advanced Tier 25s.
+
+The lecture was quickly ended as they arrived but Aster had heard enough and did the manipulation the instructor was describing.
+
+That earned her a few looks, but Aster pretended not to see them.
+
+If anything, she was being helpful.
+
+Once they were alone, the instructor sat down. “My name is Moire and I am one of the best Concept and Intent teachers. I’ve been instructed to try and teach you all the dwarven unique Concept manipulation. It is often disparaged as ‘whispers’, which honestly isn’t the worst description but its official name is Wake. Not as in waking up but rather in what a boat leaves in its passage. And that is where the name comes from.”
+
+The woman moved her arm, creating ripples that spread through the air. “We all leave an impact on the Realm like a boat moving through a silent harbor. The larger our impact, the stronger and more influential the person, the closer it is to us, the larger the Wake. It is one of the reasons familial ties are so important. Who is closer than one's family? Who has a bigger impact than one's kin on their development?”
+
+Aster nodded, having known most of that before.
+
+“Once one can see the Wake, it is then about bringing that piece into oneself and manifesting it. Fire imagery can help some. A spark from the flame that people leave. Once seen and brought into one's self, you can then stir that spark into an inferno that is their echo. A whisper, if you will, of their greatness. Now the best way to feel this is to feel with one's Domain. Search out for the Wake of others, or even yourselves.”
+
+Aster rolled her eyes at the fire imagery so many people defaulted to, as tracks through snow was far better, but didn’t let that stop her from falling into a trance-like state. She felt the world more through her Domain and how it interacted with the Realm than her other senses.
+
+Feeling that they were doing as she asked, Moire continued, “Now, let us talk about what makes a Wake. It often helps people find the Wakes when they understand how they are created. I—”
+
+Matt raised a finger. “How do I use the imprint?”
+
+Everyone looked to him and Aster probed their bond. His voice hadn’t wavered or anything but she could tell he sounded off. It was like he had just bitten into a dish and found it rotten or fully raw. Like he had something foul in his mouth but was trying to be polite and not spit it out in the middle of a dinner.
+
+Even more than that, Aster just wanted to know if he had actually already figured the trick out.
+
+Moire wasn’t even done explaining and that was patently unfair if he had already done it.
+
+The Tier 40 squinted at Matt before her eyes went wide for half a moment.
+
+Moire settled down quickly but Aster hadn’t missed it. “I don’t fully comprehend the question, Legend Titan. Once you have it as you do, it should be instinctive to empower the flame. Bringing it inside oneself as you have, is how you do it. Most people who learn this drain their Willpower to nothing before they figure out how to push it out. Try to embody the person whose Wake you have captured.”
+
+Matt turned and glared at Aster, who didn’t pass up the opportunity to preen slightly, striking a pose Cynthia had helped her with.
+
+After a few moments, Matt shook his head even as a small amount of cold, not even enough to change the temperature for a mortal to feel, appeared on his hand before the effect stopped.
+
+“Sorry, I don’t think this is for me.”
+
+Moire leaned forward. “Oh contraire, Legend Titan, I’ve met few who picked it up so quickly. While it's possible you only resonate with part of the method, it's unlikely. Can you describe what you see?”
+
+Matt shrugged. “It's like blobs of white that represent people. Brighter or dimmer. Yours is dim but everyone else’s and my own are like bonfires. Grabbing a portion of that fire is easy, but using it feels… wrong. It's like grabbing something slimy when it's not meant to be slimy.”
+
+Aster felt genuinely offended and poked Matt through their bond.
+
+As he looked to her, he offered a sheepish grin but didn’t change his word choice. “I can hardly get Aster’s Wake to manifest. I tried Liz’s first, but I couldn’t get it to work. The others are even harder and I can hardly grab them without wanting to push it away.”
+
+Moire looked baffled but Wun, who had sauntered in, laughed. “Sounds like you picked it up but it's not compatible with you.”
+
+Moire sputtered, “But Legend Goldenrod, he picked the method up so quickly. He’s a natural if ever I saw one.”
+
+Wun shook his head. “I’m not saying you're wrong. He’s damn good at Domain shit so it's not surprising, he’s got a fucking Meld after all; but you saw, he was able to manifest the Wake but look at how weak it was. And that's his bond. He apparently can’t even manifest the Wake of his own wife. Shit, he can even see his own Wake which takes most decades of practice to manage. Clearly it's just a fundamental incompatibility about manifesting other people’s Wake’s.”
+
+Matt nodded along, clearly happy for the escape. “Sorry for not being able to do better. Thank you for the lesson. Mind taking me to the shops, Wun? I saw something I wanted to check out.”
+
+Wun grinned even as he slung an arm around Matt’s shoulders. “Let me tell you about kicking that idiot's ass as we walk.”
+
+Matt ruffled Aster’s hair as he passed, which she returned with a glare. Not even for messing up her hair but rather that he could hardly manifest her Wake thingy.
+
+Moire tried to get Matt to come back, but the two were gone in seconds.
+
+“As I was saying. A Wake is what people leave behind. Physical proximity can help but is in no way a requirement. Anyone can feel the Wake of a Tier 50. After all, their every thought can shape the lives of those around them, but how many people can call themselves close enough to a Saint that they can bring forward a portion of their power? Familial relations are easier…” Moire trailed off before shaking herself like she was trying to get water off her coat. “Family is typically easier because the impact is closer. A small ship that passes right by you can usually be felt easier than a larger boat miles away.”
+
+Aster nodded along, trying to let herself fall back into her Domain sense.
+
+Moire continued to speak, her voice taking on a lilting tone that lulled Aster into seeing things her way. “See without looking. You aren't looking for the lighthouse. You are looking for the event of their passing. The evidence that they existed, the Wake they leave behind.”
+
+Aster quietly let herself merge in with the Realm. She was looking for familiar things after all. She was looking for evidence of her friend's passage in the Realm.
+
+She was sitting on a nearly frozen lake, trying to feel for ripples.
+
+That should have been easy.
+
+Her friends were some of the most impactful people she knew. They made waves, not just ripples. They make Wakes.
+
+Susanne was one of the best swordswomen in the Empire and had gone into Minkalla with them, risking life and limb for over a year. And beyond that, they had grown closer during and after the war.
+
+It should have been easy to see her Wake, but Aster just couldn’t find it.
+
+Zack was a good friend who had battled with her in the war and after. He was quiet but always there for anyone if they needed it. She wouldn’t call them best friends but they were friends.
+
+He might make small and precise waves but those waves were like his spells and should have created impacts on someone as close as her to see. But all she saw was an empty lake.
+
+Then there was Allie, her partner in crime. The devious teleporter was one of Aster’s best friends. They were just similar enough they got along incredibly well and beyond that, Allie had created one of the most impactful events of the war through her efforts.
+
+Aster felt she should be able to see her, even if she couldn’t see the others, but again, there was nothing.
+
+Then there was Liz, who had been with Aster nearly as long as Matt had.
+
+Aster could still remember their first encounter when the three of them had fought over a rift, and they had gone over a cliff after some idiot exploded a bomb. Liz had used her blood to protect both of them. Aster hadn’t merely sat there, freezing it to make it even stronger, a small hint to their future cooperation.
+
+Aster should have been able to find Liz in the quiet lake she was imaging but she couldn’t.
+
+Trying not to grow irritated, Aster focused on Matt.
+
+He was her bond. Her brother. The person who had pulled her out of an impossible rift and then ensured she wasn't taken from him. They had shared a nearly identical simulation in the Folded Reflections but, even without that, they were siblings. He was hers as she was his. He might irritate her some days but he was bound to her as she was to him. By chance but more by choice.
+
+Aster had learned a lot in her time at the bond Academy. Learned just how many bond pairs were indifferent or uncaring, as well as learning just how many bonds were as thick as thieves, but all of them paled to what she had with Matt.
+
+Matt was the best bond because he was Matt. Because he was her bond.
+
+Her bond.
+
+Finding his impact on her should have been easy.
+
+He had been able to find not only her Wake but manifest it in seconds. Sure, Matt was really damn good at Domain things but she should be able to sense him if no one else.
+
+Except she could sense nothing, no one.
+
+They went through a few other lessons, each saying similar things, just trying to find new ways to describe it all, hoping one resonated better.
+
+Liz was the second person to get it but Zack then Allie quickly followed behind, with Susanne figuring it out just a day later.
+
+Aster kept searching the Realm and herself while the others worked on advanced applications.
+
+What was wrong with her?
+
+It was a question that nagged at Aster.
+
+She had struggled with her place in the team for a while and thought she had moved past all of that after the war when people stopped asking if she really counted as an Ascender.
+
+She had proven her worth.
+
+She had carved her place into the Realm through ice and paw.
+
+So why couldn’t she figure this out?
+
+Not everyone was suited to Domain manipulation. That much was obvious and she knew it, but Aster felt she shouldn’t get tripped up on the first step.
+
+She should be able to do it.
+
+She was fucking Aster Alexander damn it.
+
+Aster started cycling her mental image until she eventually landed on a field of snow.
+
+It was the snow of the night after the storm.
+
+It was the quiet of thick snow that muffled sounds. It was a bitter cold that just sat there unmoved by even a small breeze.
+
+It was…
+
+Aster didn’t know what it was, but she was determined to figure it out.
+
+It wasn’t until three days into their training when Aster had her eureka moment.
+
+She was looking for the Wake. The evidence of one's passing and that wasn't found in the snow. It was found in the birds and deer. It was found in the trees and the hills, the rivers and lakes.
+
+It was there that Aster found them.
+
+Susanne was the evergreens that bent in the winds that scoured flesh from bone and froze lesser trees.
+
+Zack was the birds that managed to find the pinecones despite the blanket of snow.
+
+Allie was the wind itself. There but unseen.
+
+Liz was the pitfalls, the twisted branches that would drag someone down given a single moment of carelessness. The thin ice over the lake you didn’t see and only heard when it cracked and sent you plummeting into its fridged depths.
+
+Matt was the mountains and the rivers. The bedrock on which everything else conformed itself around.
+
+And there was Aster. She was the snow that blanketed it all.
+
+That was her mistake. She didn’t need to embody or find the others’ Wakes or anything like that. She was a support. She already fit herself into others’ shapes. That was what a good support did. It didn’t make her lesser as some people, even herself sometimes, said. Rather it enabled her to best support her team. Her friends.
+
+She didn’t need to find the Wakes because she already had them.
+
+Not knowing what Matt’s Wake would do, Aster chose Liz’s.
+
+Her blood surged and turned vaguely golden, which then slightly empowered her flesh and bones. It was almost like casting a physical buffing spell. One that was just potent enough that she saw as her skin took on a golden tinge from the ichor that was trying to replace her blood.
+
+It wasn’t at the level of one of her combat spells but it was a useful effect, similar to a basic, unmodified lower Tier outer skill.
+
+“Ha!” Aster popped to her feet, startling everyone who was working quietly off to the side.
+
+Grinning, she skipped over to them. “Okay, let me prove why I’m going to be the best at this.”
+
+***
+
+Matt felt a pulse of happiness from Aster and knew she must have figured out the trick. He had been contemplating going back down and trying to help her but had wanted to give her some time.
+
+The method really wasn’t anything so grandiose as Moire was making it out to be, even if it was probably a useful metaphor to get in the right mindset. Domains as one of their core principles were about connecting a cultivator to the Realm, and the method they were teaching was fundamentally just about getting a sample of said Domain with your own and then empowering the sample to get its effect. With them being Ascenders, their Domains were well entrenched in the Realm and being friends it wouldn’t be that hard to find each other's ‘Wakes’.
+
+She was smart, and he was sure she’d pick up on the trick easily enough as soon as she got out of her own head.
+
+He had just really needed to leave.
+
+The power seemed useful, as did all general Domain abilities, and he had been initially really excited when he immediately saw the lights that represented himself and his friends. It would be really cool to have a small piece of Susanne’s blade manipulation or manifestation, Zack’s mana control, or Allie’s spatial control but, the moment he touched them, any of the powers, his Domain revolted, nearly making him vomit.
+
+Even Liz and Aster, the two people he was closest to, had similar effects.
+
+His Domain did not like the idea of embodying someone, anyone, else. The only person he had been able to embody was himself, which was useless as it gave him a minor repulsion effect that actually cost him Willpower, instead of being free like the proper power was.
+
+It felt egotistical as hell, but he just wasn't suited to embodying others.
+
+It felt weird and wrong, which really irritated the logical side of himself.
+
+He was the Master of his own Destiny and should be able to embody whoever he wanted. Not that he thought it was his Truth in particular that rejected the idea so much. It was part of the problem, but in that instance, it was part of a unified whole of not only his Domain but his spirit itself that screamed out its disgust at making itself other.
+
+Matt almost felt like there was something there that was useful to him, but every time he tried to push the idea, he felt that slimy feeling once again and had to resist the urge to vomit.
+
+Not that he had let that stop him. Matt had forced Aster’s power to manifest, but his internal resistance had resulted in an incredibly weak showing. But that was good enough for him. He hadn’t given up, he had done it and moved on.
+
+It was bullshit and he knew it but it soothed his bruised ego.
+
+Instead, he came outside to find a stall with Wun. The same stall he was sitting at now.
+
+The proprietor was a short Tier 35 human man who had initially distrusted Matt’s approach until Wun wandered over with a packet of honeyed nuts.
+
+Matt hadn’t been interested in the weapons the man was selling; they were fine but not that unique or special.
+
+Instead his attention had been caught by the lighting the man's stall had used.
+
+It was unique in the market, which had obviously been the point, but instead of just having a rune carved somewhere or on something, the man had turned extra large artificial mana stones into light sources. That in itself wasn’t new to Matt but the man had encased his mana stone lights in a thick mesh of iron.
+
+A weave of iron encasing a spell-inscribed mana stone was practically the description of his blade now that he had turned it into a hollow lattice.
+
+The craftsman, Joey Currie, had originally wanted a Tier 40 mana stone to divulge his secrets, which Matt would have been happy to pay, but once he saw Matt’s blade and realized what Matt was doing, he was more than happy to talk shop.
+
+Joey wasn’t a Talented crafter in the traditional sense. Instead, he was a Talented inventor who simply wanted to capitalize on the uptick in weapon sales to make a quick buck. Most of his time and effort instead went to non-combat applications, and enchanting mana stones directly was his latest idea.
+
+According to his theories it should be possible to enchant a mana stone with an effect itself, making the rune perfectly efficient, but he hadn’t yet been able to create an internally stable design and instead used an external metal lattice to stabilize the spell.
+
+It was a novel idea to Matt and he really wished he could poach the man for his guild but kept that to himself. It was neither the time nor place, but the man was gifted even beyond his Talent.
+
+While Matt couldn’t help Joey in his efforts beyond sharing a few special methods he had developed to make a lattice stabilizer work better to channel mana and spell effects, Joey’s method of putting a spell in the center of the mana stone was just the revelation Matt needed to finally complete his sword’s upgrade.
+
+The additional rune stabilized the runes he normally carved on the surface of the mana stone so long as it applied to the spell effect.
+
+That might be a bit of a problem in a heated battle when Matt couldn’t easily absorb and change the mana stone, but he was sure he’d figure out an answer to that. Even without that, the addition of the central rune and few tricks Joey used, when combined with everything he was already doing, would see an almost thirty percent increase to his spells’ output when he used the right core of his sword.
+
+If nothing else, that made the trip to the base entirely worth it and almost got rid of the bad taste left in Matt’s spirit.
+
+Almost.
+
+On a more interesting note, they got a meet up request from a name they hadn’t really expected to hear from.
+
+Seasaìdh, the woman who they had fought before they finished the Path, was on the same moon and wanted to talk before they left to return to the Empire.

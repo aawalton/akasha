@@ -1,0 +1,259 @@
+---
+id: a6770a83-bf1d-5eca-9d80-e912ee746c20
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: Fa Xiaolan!!!"
+slug: 0028-chapter-28-fa-xiaolan
+partOf: phoenix-ascension-cultivation-litrpg
+position: 28
+ownLength: 1991
+unit: words
+publishedAt: 2025-09-27
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2633681/chapter-28-fa-xiaolan"
+royalRoadId: "2633681"
+---
+
+I scooped it up after sensing it. The thing must have thought it was safe and allowed itself to relax when I was about to leave. But how could such a cheap trick fool me, the great Fa Xiaolan?
+
+With a pull of will, it appeared in front of me, and promptly fell down on the pile of bags of holding. I grabbed it with my claws and pulled it up to eye level.
+
+From the outside, it looked like a green bean. Its surface was smooth in places and rough in others, with some light reflecting off the top.
+
+Upon sending my divine sense into it, the bean shuddered and seemed to beg for mercy.
+
+It didn’t seem to be able to talk, and only had the most basic of instincts, but for a seed to be like that, it intrigued me greatly.
+
+What even are you…
+
+Of course, it couldn’t exactly reply to my question, but I could confidently say I’d never seen such a thing before.
+
+Back into the bag of holding it goes then…
+
+Instead of carrying fifteen bags of holding around, I decided that using Hei Tu’s sole bag would be the best solution. I emptied out the rest of them and stuffed all of the items inside, then left the other bags to the side.
+
+I didn’t care much for them, since Hei Tu’s bag wasn’t even half full yet. Having multiple bags would just be a nuisance. Not like I can wear them anyway, the lesser the treasure volume, the lesser the rate of attraction for people to snatch away my treasure!
+
+Alright, now onto the cores!
+
+It was finally time for the biggest treasure of them all - The Vermillion Bird and Ice Crow Golden Cores. Unlike the tiger golden core I’d absorbed when that bug monster brought its corpse, these were the cores of mythical beasts.
+
+Once a beast reached a high enough cultivation stage, their Beast Core would turn into a Golden Beast Core. However, the Golden Core realm can last from as little as a decade to a few centuries.
+
+As far as I recall, Spirit Beasts had a difficult time breaking through to Nascent Soul, which is the realm I assumed Mother was in. I wasn’t sure if rebirth was possible only after reaching the Nascent Soul Stage, but I assume doing it at any point before could hurt the soul.
+
+With all that in mind, Golden Beast Cores were extremely valuable, and those of mythical beasts even more so.
+
+And I had not only one, but two at my disposal. Who could have predicted that? I bet that whoever was Hei Tu’s master spit out blood, hehehe.
+
+I wobbled my way over to them and pressed upon both of them with my wings.
+
+[Are you sure you want to absorb Vermillion Bird Golden Core and Ice Crow Golden Core?]
+
+Ye- Wait what? ‘Are you sure?’ Not ‘Would you like?’”
+
+That made me pause. ‘Are you sure?’ Why did the wording change? Could there be more to these Golden Cores than I originally believed?
+
+No.
+
+I pressed upon the bag of holding with my claw and sent them inside. This matter required a deeper investigation.
+
+But I felt quite bad… not being able to absorb them and get the benefit. However, what were short term benefits compared to long term? I will wait and investigate.
+
+Besides, I could always absorb them later, so no harm done in not rushing to consume them.
+
+With all of that done, it was time to return to the nest.
+
+[Fa Xiaolan!!!]
+
+Heavens, what, what is it?!
+
+[I would advise you to dive inside the lake.]
+
+Huh? What are you talking about?
+
+[Dive inside the lake.]
+
+Why?
+
+[You’ll find something of interest there.]
+
+Huh? Fine, I guess. But I won’t be able to fly after!
+
+[...]
+
+[You’re a Phoenix.]
+
+It made a good point. I was a Phoenix.
+
+Without further hesitation, I placed the bag of holding down nearby and began swimming. I didn’t even know I could swim, but I guess having such large wings helped quite a bit.
+
+The density of the Qi inside the lake had decreased by a large amount, as it wasn’t as viscous as before. It still felt rather strange, swimming in so much Qi, but it wasn’t unpleasant.
+
+I could barely see, however, and for a while all I could see was darkness.
+
+Where am I going, exactly?
+
+[To the bottom. I have a feeling you might like what’s hidden there.]
+
+Alright!
+
+I didn’t question why System was so ready to help. That was its job, after all. Though if it did the same thing with every Spirit Beast, wouldn’t they be stronger overall?
+
+It wasn’t my place to care.
+
+I swam deeper, not expecting the lake to be that deep. Soon, I saw a light, though. A faint, beautiful, alluring and shiny blue light. I picked up the pace and my feet touched the floor.
+
+For a bird, I could hold my breathing quite well. My vision was good as well.
+
+[Skill: Water Breathing(Novice) has been acquired]
+
+I should have expected that…
+
+After receiving that skill, it immediately became much easier to breathe. Go figure.
+
+I squinted and saw the shape of the glowing object— A large, shiny, oval-shaped crystal. I felt a little hesitant to touch it at first, but considering how I wasn’t a fish, I placed my claw upon it.
+
+A freezing chill climbed up my leg almost instantly, and I instinctively reacted by activating Phoenix Fire. The warmth helped me get a grip, and I grabbed the crystal with both claws, then swam upward.
+
+The way up was much more difficult than the way down, but I managed, and dragged the crystal out of the lake. It was about the size of, well, me, when I first hatched, but it definitely was much prettier.
+
+I began inspecting it, but could tell immediately that the coolness didn’t come from any sort of Yin Qi.
+
+As for what sort of crystal it was, I couldn’t tell, as I’d never seen such a thing before. Or I did and can’t remember. Either way, I didn’t know what it was. Which brought me to the question of why did System tell me to fetch it.
+
+Before I could, though, I felt a disturbance, and stared at the Qi Lake.
+
+The Qi Lake became… a normal Lake. Right before my very eyes, all of the Qi it held dissipated into the air, becoming one with the environment, and all that was left was normal water.
+
+It didn’t take a genius to figure out what had happened.
+
+Is this shiny rock that special? Besides its shininess I can’t feel anything special from it… Oh well, into the bag it goes.
+
+After storing it away safely, I started a tiny fire to dry off my feathers, and flew toward the nest. I landed at the base of the tree and hid it below a root, then went up.
+
+Mother waited for me with the fresh carcass of a Spirit Beast, and I couldn’t help but scream with happiness.
+
+“Aah, I was really hungry.” I chirped more than screamed, but screamed nonetheless.
+
+Mother’s face lit up upon seeing me arrive. “Little Flame, you’re back! I was just about to come looking for you.”
+
+“Hehe, Mother doesn’t need to worry.” I said then sat down next to the carcass, my rather fluffy butt serving as a comfortable pillow.
+
+The beast looked like some sort of bear, but much uglier and had more horns than I would have expected.
+
+As usual, it died with a clean blow to the nape, and there were no signs of burning either. It seemed that Mother only hunted in the most efficient of ways, not wasting any energy.
+
+When I saw mother start to rip the flesh off the animal and hand it over to me raw, I winced a little.
+
+“Mother, can we cook it? I think humans put the meat over the fire to make it taste better.”
+
+“Cook?” She turned to look at me, her phoenix… like eyes sending a shiver down my spine. “Little Flame, we do not cook the meat. How could we waste our noble fire in such a way? That’s the job of a much lesser flame, one I am unwilling to create.”
+
+She ripped a leg, blood gushing out of the severed arteries. “Besides, cooking it removes the properties that give us strength. The fire burns away the Qi stored within the flesh, not to mention the fat and everything else. Do you think mother grew to be so beautiful by cooking meat? No! It took your mother a lot of rebirths just to get her feathers right, a lot of skill points have been used. Do you think it’s easy?”
+
+I… had never seen mother so pissed off before. It seemed that the prospect of using our fire to cook meat angered her more than if we tried to cultivate. I couldn’t blame her, I felt exactly the same about my Nirvanic Flames.
+
+After all, I’d spent so much time and effort to get them, then train through multiple lifetimes-
+
+“Ach-” A sudden headache hit me like a star, and I had to grab my head to suffer the skull-splitting pain.
+
+Fuck, why does remembering hurt so much?!
+
+[Host is too weak.]
+
+Heavens be damned, I get it!
+
+“Little Flame!” Mother called out and dropped the meat, hurrying off to hug me and use her healing techniques. “Little Flame, what’s wrong? Tell mother!”
+
+“Mother… it’s- It’s nothing. I just had a sudden headache. I must be really hungry, and tired.”
+
+She nodded and gently placed her wing upon my feat, patting me and focusing her Qi in that area. I closed my eyes with contentment at the feeling, enjoying every minute of it.
+
+The headache faded away, and I let out a light yawn.
+
+“Aah~ Mother, let’s eat. I don’t mind raw meat at all.”
+
+“That’s great, Little Flame.” She smiled, at least, I think she did, and dragged me over with her to the bear corpse.
+
+“I also brought you some worms.”
+
+***
+
+After Mother went to sleep, I figured it was about time for me to check all the notifications.
+
+[About time indeed.]
+
+Give me a break… I rolled my eyes, though I didn’t actually mind System’s snarkiness. I willed, and my vision got flooded with the strange text in that same instant.
+
+[Congratulations! Evolution Sucessful!]
+
+[[Phoenix Chick] has evolved into [Elemental Phoenix].]
+
+[Beast Core has been successfully formed.]
+
+[Achievement: First Time? - Unlocked]
+
+[Water Affinity has been unlocked.]
+
+[Water Affinity remains dormant due to negative affinity.]
+
+[Current Water Affinity: -150%]
+
+[Skill: Phoenix Reflex(Novice) has been acquired.]
+
+[Skill: Ember Step(Novice) has been acquired.]
+
+[Skill: Elemental Wave(Novice) has been acquired.]
+
+[Skill: Precise Flame Control(Novice) has been acquired.]
+
+[You have slain Bai Di Wei, [Cultivator] Lvl 7]
+
+[You have slain Ling Shen, [Cultivator] Lvl 5]
+
+[You have slain Li Fang Zhen, [Cultivator] Lvl 9]
+
+[You have slain Hei Tu Yang, [Cultivator] Lvl 15]
+
+[You have slain Mao Wei, [Cultivator] Lvl 5]
+
+[You have slain Hen Ming, [Cultivator] Lvl 8]
+
+[You have slain Long Shen, [Cultivator] Lvl 12]
+
+[You have slain Ling Sha, [Cultivator Lvl] 7]
+
+[XP Acquired] x8
+
+[You have Leveled Up]
+
+[Elemental Phoenix Lvl 10 has become Elemental Phoenix Lvl 11.]
+
+[Skill Points Acquired]
+
+[You have Leveled Up]
+
+[Elemental Phoenix Lvl 11 has become Elemental Phoenix Lvl 12.]
+
+[Skill Points Acquired]
+
+[Achievement: Bloodthirsty - Unlocked]
+
+[Achievement: Cultivator’s Bane - Unlocked]
+
+[Achievement: Ruthless - Unlocked]
+
+[Skill: Heaven’s Protection has reached the (Beginner) rank!]
+
+[Skill: Tail Whip has reached the (Beginner) rank!]
+
+[Skill: Peck has reached the (Beginner) rank!]
+
+[Skill: Nirvanic Flames has reached the (Intermediate) rank!]
+
+[Skill: Phoenix Fire has reached the (Intermediate) rank!]
+
+[Skill: Evasion has reached the (Expert) rank!]
+
+[Skill: Dragonbone Tempering has reached the (Beginner) rank!]
+
+[Skill: Flame Dragons has reached the (Beginner) rank!]

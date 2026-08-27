@@ -1,0 +1,269 @@
+---
+id: aaace240-2e1c-5691-b554-67312fd034fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 349 : Planning the Renovations"
+slug: 0050-chapter-349-planning-the-renovations
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 50
+ownLength: 2541
+unit: words
+ownProgress: 2541
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3042225/chapter-349-planning-the-renovations"
+royalRoadId: "3042225"
+markedReadAt: "2026-06-29T19:43:27.973Z"
+---
+
+I quickly got to work using [Earth Magic] to summon enough ground to restore the land. Because I still had Llewel's alchemical gifts, I didn't have to worry too much about the quality, as we could enrich it later.
+
+"Great! With you here, things will go super smoothly," Vee said with delight.
+
+"Is this costly?" Leon asked.
+
+"Not really, with just basic soil, it doesn't cost much to apparate it," I explained.
+
+"You can make more than soil?"
+
+"Soil, rock, ores… I can make magma too," I answered.
+
+"Please, no magma," Vee pleaded.
+
+Leon asked for a demonstration, and I complied, summoning forth a slab of the various materials I had just mentioned, except for magma.
+
+Leon was shocked. "To think you can just make resources from nothing…"
+
+"Well, not nothing. The ore is particularly expensive in terms of Mana," I answered.
+
+"Apologies, I hope I didn't tax you too much," Leon quickly replied.
+
+Vee snorted. "Don't let this slime fool you. She's effectively got an infinite supply of Mana."
+
+"Preposterous! There's no such thing as infinite," Leon swiftly countered.
+
+"I said effectively," Vee sarcastically replied.
+
+"My capacity is…overwhelming. I also have rapid regeneration," I explained.
+
+My answer actually seemed to upset the crab, and thanks to [Soul Sight], I could understand why. His Mana was not in a good state. I asked Vee to share some of the basic Mana traits with him while also explaining fusing. It would take a while, but hopefully, he could improve himself.
+
+If we had more of those enhancing fruits, that would be ideal. Although I think Vee would have a heart attack if I gave them away. Leon also doesn't seem like he really wants to be a direct combatant, so it's not like he needs them.
+
+If we could bring him up a bit, then, combined with a fortress and whatever he manages to discover in his artificer profession, he should be able to protect our home from any wandering invaders.
+
+When the center of the island was restored, I turned to Vee and asked if this was where we should plant the tree. She quickly agreed, wanting the treehome to be the central pillar of the island.
+
+I pulled out the box I got from Llewel and began reading the labels for which order I was supposed to apply them. One by one, I uncorked the vial and ingested it to apply it evenly over the area.
+
+It's been a long time since I used [Slime Shot] to shoot anything that wasn't actually slime.
+
+Thanks to my flawless internal control, I could keep the liquid stored in a pocket of slime and then fire it out evenly. I could even make the holes in my slime tiny enough that it would shoot out as a mist if I really wanted it to.
+
+I did digest a small sample of each, but aside from a notification about an "alchemical solution" profile being updated, there wasn't anything actually visible for me to inspect.
+
+Is it saving it for me in case I ever take the alchemy slime mutation? What would happen if I took the alchemist profession instead?
+
+I already wanted to try out other professions, and if I could use my slimy abilities to gain an advantage, that would be fantastic—even if it gave Vee more ammunition to call me a "cheating slime."
+
+With each application, the results were almost instantly visible. The soil was transforming right before our eyes and becoming lush just like the elven homelands. Leon was babbling incoherently at the sight, which must have been too spectacular for him to comprehend.
+
+I can't wait to see how he reacts to the treehome!
+
+After the final appropriate solution was applied, there was a waiting period for things to settle. I put away the box after taking a small sample of the remaining unused solutions and then sighed happily.
+
+"I think we can plant the tree tomorrow," I said to Vee.
+
+"Great, and then you can use your brown slime and [Nature Magic], right?" she queried.
+
+"I might only do one application of brown slime… I need to work on upgrading my [Nature Magic] so I can get my next elemental fusion."
+
+"Sure. We can always do another makeshift shelter in the meantime. Leon can even spruce it up so it's not just a box."
+
+"We can always live underground if you'd prefer," I threatened.
+
+"Hey! Boxes are fine, no need to become moles!" Vee quickly replied.
+
+I shook my head. This spider was really too used to living the life of luxury.
+
+"I can certainly be of service," Leon offered. "You can either supply me with bricks, or if it's possible, one giant rock."
+
+"One giant rock coming right up," I replied.
+
+I joined forces with a few of my [Sub-Cores] and summoned forth the largest rock I'd made yet, then used [Geokinesis] to carefully lower it to the ground away from our enriched soil patch.
+
+"Spectacular! I shall promptly earn my keep!" Leon said excitedly and skittered off.
+
+"Huh… I'm surprised he's so enthusiastic," Vee said to me privately. "When I asked him to fill the hole, he had nothing but complaints."
+
+I shrugged. "Right person for the right job, I suppose."
+
+"Speaking of which… I have big plans for the island. We can have a farm and an orchard. I definitely want to make a spider nest… Maybe even a tailoring space? I wonder if Leon can make tools…?"
+
+I stared at Vee; it was starting to sound like she wanted to build an entire town, not just a home for us. While I was happy to help, I had my own plans that needed attention.
+
+"Okay, okay, calm down for a minute."
+
+"Too much?" Vee asked sheepishly.
+
+"It's a bit much…" I admitted. "I'm only one slime after all. I need to work on my skills and traits."
+
+"Can't your [Sub-Cores] help out?"
+
+I sighed and shook my head. "I haven't broken through that limitation, yet I'm afraid."
+
+"Oh…"
+
+Hearing Vee sound disappointed wasn't a great feeling. I quickly brainstormed a solution and came up with a decent one. No, it was actually an excellent solution and could possibly even help me reach the max level [Core Collective] sooner.
+
+I shot out a tendril of slime, sending a [Sub-Core] to it and had it form a secondary body. The body could move around and act on its own as long as it remained attached to this slimy umbilical cord.
+
+"This might work…" I said, gesturing at my creation.
+
+"Oh!? Can you give me workers?" Vee asked excitedly.
+
+I nodded. "I don't know how much I can give you, since I have to remain attached at all times. If the distance is too great, I'll need other [Sub-Cores] to act as relays to keep all the slime under control."
+
+"Even one worker would be great. Could you spread out over the whole island like a web?" Vee suggested.
+
+"Might as well try. At worst, I'll buy a few extra [Sub-Cores]..."
+
+"Hey, no need to break your trait point piggy bank," Vee quickly said.
+
+"Let's see how far I can stretch out first, then we will see."
+
+Since I was already at the center of the island, I sent out four tendrils of slime across the ground to spread out to the corners. When their range began to diminish, I "planted" a [Sub-Core] down in a reinforced protective box and even primed it.
+
+This way, my [Sub-Cores] would be protected from harm, and should the connection be broken, I wouldn't instantly lose the slime. If I kept refreshing the primed duration, then I'd have days to recollect the dense slime box and the core it housed.
+
+I can minimize any potential losses this way. At worst, I should only lose the slime for the connecting tentacle.
+
+When four tentacles spread out were not enough, I had each shoot out an additional small batch from the midway points. This way, I had enough coverage to ensure there were no potential blind spots on the island.
+
+Eight cores to reach the ends of the island, and then another four for the weak zones. That leaves me with two to spare… I can keep one as my helper and give the other to Vee. Plus, we'd be reinforced by any nearby cores, so it's not that bad.
+
+"Looks like I have just enough. If it doesn't work out, I'll buy an extra [Sub-Core] or two," I said.
+
+"Wow… You really don't hold back," Vee said, looking at what I'd just done.
+
+"It's the only way to ensure everything stays connected. Hopefully, soon I'll actually be able to split my [Sub-Cores]."
+
+"If that happens, and there's no distance limit, you could even have alternate identities living in different cities," Vee pointed out.
+
+"It's what I'm sort of hoping for, and if I combine it with [Roleplay] it should be almost foolproof."
+
+"The slime spy network," Vee giggled.
+
+"Not really interested in spying… But imagine the resources I could gather if there were more of me? Heck, I could train so many different things at once!"
+
+"And you said I have big goals," Vee teased. "So, about my worker…"
+
+I tilted my head, gesturing for Vee to continue.
+
+"So, can I make some requests?"
+
+"What did you have in mind?" I asked.
+
+"I want to design my own Sylvain," Vee revealed.
+
+"I thought you hated Sylvain?"
+
+Vee shook her tiny head. "Not Sylvain specifically, but my own helper. I want to choose their name and identity and stuff."
+
+I shrugged. "Sure, why not?"
+
+"Great! I want a dwarf!" Vee said excitedly.
+
+"Okay…" I replied, having the slimy body begin to shift into a dwarf.
+
+"Make it a girl!"
+
+…
+
+"Longer hair!"
+
+…
+
+"Maybe a little shorter?"
+
+"How about I just tell the [Sub-Core] to listen to you?" I finally said.
+
+"You can do that?" Vee asked in surprise.
+
+"Yes. Now you can have fun making your dwarf," I said and began giving Beta, who was the sacrifice this time, orders to obey Vee.
+
+I could feel Vee's excitement radiating like a sun; she was delighted with this plan of action.
+
+"Before I leave you with Beta, do you have any specific requirements for what you want this dwarf to do?" I asked.
+
+"I was thinking of a geomancer to help with moving the terrain. Maybe she can even become a blacksmith one day?" Vee suggested.
+
+"Sure, I'll have Beta align to earth for that, and we can have Fire and Magma affinity be part of the persona," I explained.
+
+"Wonderful! I even have a name prepared for her."
+
+"Oh?"
+
+"Sylbera!" Vee declared.
+
+"Sure, that works," I replied.
+
+I added the name to my persona list in [Roleplay] while further ordering Beta to customize it according to Vee's requests and granting permission to activate it.
+
+Alpha had done a decent job of becoming Sylvain, so I expected good results from Beta and Sylbera. Only this time, I wouldn't be forced to play the third wheel. At the same time, this would probably give me considerable proficiency in a few skills and traits.
+
+With my job done, I left Vee to create her dream worker while I took up an unoccupied spot for myself. I made a large stone bowl before collapsing into it and blobbing out. Even though I had solid tentacles connected to me, it was still incredibly relaxing.
+
+Actually… I might need at least one more [Sub-Cores] to stay at the center of the island. Otherwise, I need to be here all the time.
+
+I sighed and looked at my trait points. I was sitting on a glorious twenty, so it felt painful to be spending them.
+
+I have legend points, so if I suddenly need to uncap two traits, I should be fine. Okay, let's buy two more helpers!
+
+<Trait [Sub-Core Omicron LV 1] obtained. Trait Points remaining: 19.>
+
+<Trait [Sub-Core Pi LV 1] obtained. Trait Points remaining: 18.>
+
+Two new cores formed rapidly, but I also had other plans for these two additions. I had Omicron immediately join the network, so hopefully it would quickly reach the level of its siblings. Omicron would be my assistant, since I needed a fully powered core to remain at the center of the island.
+
+Pi, on the other hand, I had different plans for and did not have it join. Instead, I extended a tendril that contained this newly formed core. I had Pi transform into a pink slime core and then promptly crushed it. Even though I felt nothing physically, emotionally, I couldn't help but wince.
+
+This feels a bit cruel, but I can't think of a better way to train [Core Collective]...
+
+I safely stored the pink core's shards. If I planned to have alternative rewards for my future slime dungeon, I needed to have a stockpile of regeneration elixirs.
+
+Hopefully, I'll actually get some time to relax now. The mermen are defeated. Leon is saved. Vee is busy. I have plenty of traits and skills that need my attention.
+
+I let out a blissful sigh. Sure, there was still the "threat" of the mark on me, but I really didn't expect that to cause too much trouble.
+
+Name: Syl [Dungeoneer]Race: Chimeric Cluster Slime (Prismatic) LV 5Class: Elementalist LV 31Status: HealthyMana: Overflowing
+
+Emblems:[Experiment][Unique][Apex Hunter][Elven Legacy][Dungeoneer]*[Nature's Bane][Manhunter][Banisher][Branch Head]
+
+Legend Points remaining: 3
+
+Traits:Slime:[Primordial Slime LV 17][Slime Mastery LV 12]
+
+Core:[Core Collective LV 9][Core Storage LV 7][Sub-Core Alpha LV 7] [Sub-Core Beta LV 7] [Sub-Core Gamma LV 7] [Sub-Core Eta LV 7] [Sub-Core Delta LV 7] [Sub-Core Theta LV 7] [Sub-Core Epsilon LV 7] [Sub-Core Iota LV 7] [Sub-Core Zeta LV 7] [Sub-Core Kappa LV 7] [Sub-Core Lambda LV 7] [Sub-Core Mu LV 7] [Sub-Core Nu LV 7] [Sub-Core Xi LV 7] [Sub-Core Omicron LV 1] [Sub-Core Pi LV 1]Mimic:[Chimeric Mimicry LV 8][Chroma Shift LV MAX][Consuming Osmosis LV MAX]
+
+Mana:[Mana Circulation LV 9][Mana Reinforcement LV 8][Derived Element (Steam) LV 8][Derived Element (Dust) LV 7][Mana Infusion]
+
+Attributes/Other:[Soul Mastery LV 8][Enhanced Vitality LV 5][Magic Resistance (Greater) LV 1][Curse Resistance LV 4][Illusion Resistance LV 4][Sonic Resistance LV 2][Prodigy]
+
+Senses:[Soul Sight LV 9][Soul Sense LV 8][Soul Vision LV 7][Mineral Sense LV 3][Echolocation LV 4]
+
+Trait Points remaining: 18
+
+Skills:General:[Universal Language][Skill Deconstruct][Equipment Swap][Dissection LV 8][Mapping LV 6][Tracking LV 3][Identify LV 6][Perception LV 5][Aerial Finesse LV 4][Aquatic Finesse LV 5][Thunder Step LV 5][Elemental Step (Basic) LV 4][Triangulate LV 5]
+
+Tamer:[Companion Bond][Companion Training LV 9][Companion Growth LV 9]
+
+Combat:[Tranquil Flow LV 5][Attack Mastery (Greater) LV 3][Affliction Mastery LV 7][Exploit Weakness LV 6]
+
+Magic:[Basic Elemental Magic LV 7][Ice Magic LV 5][Lightning Magic LV 5][Magma Magic LV 2][Steam Magic LV 4][Nature Magic LV 1][Dust Magic LV 1][Corrosion Magic LV 6][Arcane Magic LV 5][Light Magic LV 3][Dimension Magic LV 5][Healing Magic LV 2][Mana Weaving LV 4][Magic Efficiency LV 8][Magical Overcharge LV 3][Counter Magic LV 5][Elemental Shift LV 8][Chaos Elements LV 2] [Elemental Adaptation][Ritual Casting][Mana Suppression][Elemental Harmony]
+
+Sneaky:[Vanish LV 7][Assassinate LV 7][Identity Fabrication LV 8][Roleplay LV 7][Rogue Expertise LV 4][Magical Subterfuge LV 5][Trap Mastery LV 6][Stabilized Fluctuations LV 3]
+
+Skill Points remaining: 14
+
+Profession:Enchanting:[Rune Reading LV 6][Rune Engraving LV 2][Rune Framework LV 7][Rune Tracing LV 5][Rune Design LV 3][Runecrafting LV 2][Rune Inspection LV 5][Rune Filigree LV 3][Rune Repair LV 2][Brand]
+
+Profession Points Remaining: 0

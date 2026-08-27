@@ -1,0 +1,273 @@
+---
+id: df78a991-fbf9-5dde-9dff-0caaa603caaa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 685 - Time Waits For No One"
+slug: 0686-chapter-685-time-waits-for-no-one
+partOf: mythrans-master-of-all-continued-completed
+position: 686
+ownLength: 3234
+unit: words
+publishedAt: 2018-08-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/286149/chapter-685-time-waits-for-no-one"
+royalRoadId: "286149"
+---
+
+The video ended with Ren saying goodbye to everyone at the shop, and Fire Dancer realized where she was; on a bed with Ren's arm almost around her and practically cuddled up together. She got up awkwardly and excused herself and went to her own bed. Neither Ren nor Teepo tried to stop her or talked, because they knew if they tried to speak to her, it would only make her blame them for making her too comfortable.
+
+After that first awkward night back in the Fire Realm, things seemed to get better. Ren didn't stay in his humongous form all the time, though. When he was outside Fire Dancer's bedroom, he returned to his normal height and tucked himself into Fire Dancer's hair and spent as much of the day with her as she would let him. When he returned to her bedroom, he resumed his humongous form and spent time with her that way.
+
+After sleeping for the hour each night, Ren would share his power with her by merging Auras and letting Fire Dancer feel the deep well of love he had for her. That unparalleled love always brought her to tears and baby Fire elementals poured out of her eyes by the hundreds. Normally, she couldn't maintain so many at once; but, thanks to Ren's help, she found it downright easy.
+
+In a week, the babies she had first made with his help on the first night became young Fire elementals and she let them out of her clothing. They dispersed among the normal Fire Elementals and Greater Fire Elementals, and Ren would use his shoulder-mounted wands to fill the throne room with Enchanted Fire for them to consume and gorge on.
+
+Occasionally, Fire Dancer would merge her Aura with the artificial one and try to find any dissenters, to no avail. Either there weren't any, or they were hiding very well. She suspected the latter, but couldn't do anything about it at the moment, so she concentrated on maintaining the Realm and replacing all of the Void-infected Fire Elementals that she and Ren had destroyed. By the time Ren's current 4 year visit was up, they had only replaced about a third of them.
+
+Ren had waited until after he had slept for an hour before deciding to leave. “Deity of Fire, I need to go.”
+
+“I know, Father.” Fire Dancer said from her bed. “I've been counting the days until now.”
+
+“If anything happens, check where I am and cast a portal for an instant.” Ren said and climbed out of his bed. “I'll make my own and come here as soon as possible.”
+
+“I don't expect anything to happen, and neither should you.” Fire Dancer said and climbed out of her own. “Take care of your Adventurer's business and don't worry about me.”
+
+“I always worry about you.” Ren said and walked over to her. “I know it may not seem like it, but you have always been in my thoughts.” He said and took her into a hug for a moment.
+
+“That's two seconds. You can let go now.” Fire Dancer said.
+
+Ren opened his arms and then cupped the sides of her face. “I'll stop hugging you like we agreed, but I'll never let you go.” He said and gave her a kiss on the cheek.
+
+“Hey!” Fire Dancer stepped back and rubbed her cheek. “Boundaries!”
+
+“Oh, right.” Ren said and darted forward and kissed her other cheek.
+
+“HEY!” Fire Dancer hollered.
+
+“I had to make them match.” Ren laughed as she rubbed her other cheek. “Sorry!”
+
+Fire Dancer winced at the blatant lie. “Ow, that really does hurt.”
+
+“I told you.” Ren said. “Teepo, ready to go?”
+
+“I'd like to stay; but, we don't know what will happen if you leave with the ring and I'm still here.” Teepo said and flew off of Fire Dancer's shoulder to land on Ren's.
+
+“Yeah, and neither of us want to take the chance.” Ren said and reduced Teepo back to his normal size, then did it to himself.
+
+“You could always leave the ring here.” Fire Dancer said.
+
+“It wouldn't matter.” Ren said and flew over to the spawn point building. “Only the owner can summon Teepo.”
+
+“Then give me the ring.” Fire Dancer said.
+
+“I can't.” Ren said.
+
+“Why not?”
+
+“I think it would alter the ring by changing owners and Teepo would be released from the spell.” Ren said. “I won't take a chance like that, either.”
+
+Fire Dancer sighed. “Why are things never easy?”
+
+“Usually when they are easy, it's not really worth doing.”
+
+“Like your arena fight?” Fire Dancer asked, and he laughed.
+
+“It wasn't easy! That took decades to prepare for.” Ren said. “I was just better at being normal than he was.”
+
+“Uh huh.”
+
+“I was!” Ren exclaimed.
+
+“Father, even without all of your abilities, you're not normal.”
+
+“According to the Talisman of Ordinariness I was.” Ren said smugly and grinned at her, and she chuckled. “I'll see you in about 7 years.” He said and felt her emotions change and used his wings to fly up into the air to hover in front of her face. “I give you my word that I'll come right back when the day starts in the Earth Realm.”
+
+Fire Dancer sighed and reluctantly nodded. Ren touched the tip of her nose and rubbed it, then flew down to the spawn point building. He cast the portal to the spot in the no man's land where he had made the underground chamber, Teepo dissolved into the ring, then Ren and Artemis stepped through the portal.
+
+Ren dismissed the portal and absorbed the Everlasting Fire inside the magical barrier, then cast another portal to the house in Aurora. Once there, he did the same thing he had done several times before and took individual trips into the Sanctuary. He gave a couple of minutes to each of the 4 succubi, 6 minutes to Artemis and Suniva, and 3 minutes to the Marilith Demon. When that was done, he kissed them all goodbye and stood beside the wall and logged out.
+
+********
+
+In the real world it was time for supper. Everyone gathered in the downstairs dining room after Ren insisted on eating down there, and they had an enjoyable meal. Elise and Barbi had already finished the television proposal and only needed to wait for the handful of programmers to finish making the demo. Lisa had been invaluable in the construction of the proposal that Elise and Barbi had given her an executive assistant credit on it.
+
+Lisa had adamantly denied being that big of a help, to no avail. Her name was on it now and it was going to stay there, which meant she was going to get some of the residuals if the idea was successfully sold to a network. After hearing about that, Stella and Ren told them about what he had done in the game, and when the story came to the Helm of Cluck, they all laughed.
+
+“Tell me you have the clip already saved!” Elise exclaimed, and Stella held out her cell phone.
+
+“It's also my new ringtone.” Stella said and hit the demo button. “BAKAAWWK!”
+
+“Oh, my god!” Elise said as she took the phone. She hit play on the video and it started right when he first made the helm. Barbi and Lisa leaned in close to watch, and Denise and Barbara watched over their shoulders.
+
+“That's hilarious!” Lisa laughed as the helm clucked after every sentence.
+
+“You can really ham it up when you want to.” Barbi said with a huge smile.
+
+“The ideas that come out of your head.” Barbara chuckled.
+
+“I want you to wear that the next time I go online.” Denise said. “I have to see that for myself!”
+
+Ren laughed. “I'm glad you all enjoy my embarrassment so much.”
+
+Stella reached over and put a hand on his back and gave it a little rub. “It was very nice of you to do that.”
+
+“Not really.” Ren shrugged. “I just did it to distract her. I thought we were just joking around and I didn't mean to embarrass Gretchen like that.”
+
+“You definitely caused a distraction.” Elise said. “The whole restaurant is laughing at it!”
+
+“Yeah, that was pretty funny.” Ren said and looked at Lisa. “Hey, I've got a couple of hours to spare. Want to hang out for a while? ”
+
+“You know I do.” Lisa said with a huge smile. “What do you want to do?”
+
+“I'm sure Elise still has some work to do.” Ren said, and Elise nodded as she handed the cell phone back to Stella.
+
+“There's still some time left to trade in foreign markets, so I need to check on our investments.” Elise said. “I'll be an hour, maybe an hour and a half.”
+
+“I've got some social media content to administer as well, so I'll be busy, too.” Barbi said and winked at Stella, who totally got the hint and sent her the video.
+
+Ren turned and looked at Denise. “If I could borrow you for a while as a kind of body pillow, Lisa and I can relax in the living room.”
+
+“So, I'm a body pillow now.” Denise said with a smile.
+
+“It can be one of your many uses.” Ren said, and she laughed.
+
+“All right, I've seen you use Elise like that. I think I can handle it.”
+
+“Thanks, Denise.” Ren said, and she took control of his wheelchair. “Lisa, can you go and grab your book?”
+
+“I'll be right back!” Lisa said happily and ran from the dining room.
+
+“She sure can move when she wants to.” Elise chuckled and gave Ren a kiss. “Have fun.” She said, then she and Barbi left the dining room to go to the office.
+
+“I might pop out at midnight...” Ren started to say.
+
+“I think you should stay in tonight.” Barbara said, and Ren turned to look at her with wide eyes. “I know, I know... that goes against everything that my heart so desperately wants.”
+
+Stella snorted a laugh and Barbara grinned at her.
+
+“I think you have an important appointment that you should show up early for.” Barbara said.
+
+Ren looked from her to Stella. “Did you...”
+
+“Yes.” Stella said. “When you leave the Fire Realm to go on Adventurer's business this time, rather than logging off, you can meet with me in front of the Library instead.”
+
+“Sweet!” Ren said. “I can't wait to see what you chose.”
+
+“You're going to be surprised.” Stella said.
+
+“I should say that nothing surprises me, but that's a total lie.” Ren chuckled. “I remember the first time you... mhm mmm mhm!”
+
+Denise covered his mouth with her hand. “Yeah, we don't need to hear about that.”
+
+“Hm mhm hum?” Ren mumbled.
+
+“We're not interested even a little bit, so keep your mouth shut until we figure out how to get you settled on the couch.” Denise said.
+
+“Hm mm.”
+
+Denise moved her hand and pushed the wheelchair to the big living room and Barbara and Stella followed them. Once there, it took them a minute to decide where to set things up so that Ren could rest against Denise safely, without putting extra strain on his chest or his wrapped knee. She sat in the corner of the couch on an angle, then Ren was tucked under her arm and against her side with his braced knee out and off the couch. His foot rested on a step stool with a throw pillow for a cushion, and he sighed in contentment as he relaxed.
+
+“Oh, yeah. This feels a lot better than just sitting on the couch.” Ren said. “Thanks, Denise.”
+
+“I'm glad you like the Denise Body Pillow.” Denise said.
+
+“Being next to you in normal clothes is a lot more comfortable than with the uniform, too.” Ren said.
+
+“Really?”
+
+“Yeah.” Ren turned his head to rub his cheek on the side of her breast, then he grinned up at her. “The cloth is a lot thinner.”
+
+Denise laughed and shook her head. “You're just lucky that I chose a cloth bra today, or you'd be resting your head against a hard-cupped underwire.”
+
+“I'd still do it.” Ren said and rubbed his cheek against her again.
+
+“Geez, look at this guy.” Stella chuckled. “It's like he's in a relaxing bath.”
+
+“Not yet.” Ren said. “Soon, though.”
+
+The elevator opened and Lisa ran across the hall and into the living room.
+
+“I can only offer my lap and not what we usually do, because of the bandages and stitches.” Ren said to her and rubbed the top of his thighs. “I hope it's enough.”
+
+“Just sitting next to you is enough.” Lisa said and sat down.
+
+“But...”
+
+“It's okay. Really.”
+
+“But, I... I want to pet your hair.” Ren said, and she blinked her eyes at him. “I want to look down at your peaceful face while you read and I want to stroke your hair.”
+
+“But...”
+
+“Please.” Ren said.
+
+Lisa looked at Stella, who nodded.
+
+“We made sure there's no chance he can be hurt like this.” Stella said. “Go ahead and lay down.”
+
+“O-okay.” Lisa said with a slightly red face, then she carefully laid down and rested her head on Ren's thighs.
+
+“No, that's not going to work.” Ren said. “Stella, hand me that cushion.”
+
+Stella handed it to him and he asked Lisa to lift her head a bit, and he slid the cushion under her neck and onto his thigh to make a perfect incline.
+
+“Lay back.” Ren said. “How's that feel?”
+
+Lisa put her head down and looked up at him with a smile. “It's really comfortable.”
+
+Ren smiled back at her and pointed to her book. She nodded, braced it on her belly and opened it to the last page she had been on, then started to read. Stella sat down and turned on the television, and Barbara left to get ready for her night shift.
+
+Ren pet Lisa's hair and watched her peaceful face while she read, just like he wanted to do. Unfortunately, the two hours passed by fairly quickly and their time together on the couch was over. Lisa didn't say anything except thank you, and Ren apologized for needing to leave. She laughed and gave him a kiss, then told him she would meet him for a couple of minutes in the game, since he was upset over their short time together in the real world.
+
+Ren thanked Denise for letting him use her as a support, and Stella took him up to his bedroom to let him go back into the game. After a quick sponge bath and a change of his bandages, Ren was ready to get back online and meet up with Lisa.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up standing next to the wall and greeted everyone, then checked to see where Lara, the Sage of Ages was. She was walking down the street of the Housing District, so he took Artemis' hand and ran from the bedroom. Teepo flew behind them and they met Lara at the front door.
+
+“I could have met you.” Ren said.
+
+“You are.” Lara said and smiled. “Hi, Teepo. Hi, Artemis.”
+
+“Hi.” They said together, then Teepo dissolved into the Beetle Crown Ring. Ren cast the Portal spell and he stepped through with Lara and Artemis into the Sanctuary. They were back 6 minutes later and Lara looked like she was very happy.
+
+“I don't know why I never tire of being with you, Beloved.” Lara said and kissed him.
+
+“I'm just that awesome.” Ren said, and she laughed.
+
+“You should get to the business before Anabelle thinks you forgot about her.” Lara said. “I'm sticking around for a while, so if you need anything, message me.”
+
+“Same here, until I go into the Fire Realm, anyway.” Ren said, and she nodded.
+
+“I'll walk with you to the shop.” Lara said.
+
+Ren summoned Teepo and they went to the shop at a quick pace. Ren, Artemis, and Teepo went inside the back door on the second floor and up the stairs, then entered the third floor apartment. Artemis laid down on Anabelle's old bed in the living room and Ren went into the bedroom.
+
+“My King.” Anabelle said. She wore a frilly one piece teddy that was solid black, and surprisingly, no panties.
+
+“I hope you weren't waiting long.” Ren said and stored his clothing as Teepo flew up to land on the ceiling.
+
+“I've been waiting for you my whole life.” Anabelle said, and Ren climbed onto the bed.
+
+Ren spent the last 2 hours of the game night with Anabelle, then he, Teepo, and Artemis went back to the house in the Housing District and into the big bedroom upstairs. He told the succubi he would be gone all day and would be back that night.
+
+“Suniva? Want to come this time?” Ren asked.
+
+“I do.” Suniva said. “Since you've helped the Deity of Fire so much in so short a time, if I help this time...”
+
+“Don't try and do it right away, okay? Small steps.” Ren said. “We don't want to overwhelm her.”
+
+Suniva nodded. “I know.”
+
+Ren cast a portal to the underground chamber in no man's land and Teepo dissolved into the ring. Ren, Artemis, and Suniva went through the portal, then he dismissed it and checked the spawn point building that was on Fire Dancer's nightstand with the All-Seeing Mirror. Ren saw that it was clear of obstructions, so he cast the Portal spell into the Fire Realm and they stepped through it.
+
+Ren felt Fire Dancer's relief that he had shown up right on time and had kept his word, then he showed her that Suniva had come with him this time. Fire Dancer's mood was raised that much more to have her along, especially when she realized that Suniva could make herself humongous as well, just like Ren could.
+
+They spent the whole time helping Fire Dancer in the Fire Realm, almost 7 full years, then they had to leave again. Fire Dancer's mood had stayed stable almost the entire time, and she wasn't as resentful when they had to go. Ren tried to give his word that he would be back, and she stopped him.
+
+“Doing it once was more than I had expected of you, Father.” Fire Dancer said. “Don't push your luck by promising it again.”
+
+Ren opened his mouth to promise anyway, then changed his mind and smiled. “I'll see you when I get back.” He said instead, and she nodded. He had her used to 3 second hugs now and let her go before she could tell him to, then shrunk down to normal size and opened a portal. Teepo dissolved into the ring and Ren, Artemis, and Suniva stepped through the portal to the underground chamber.
+
+Ren absorbed the Everlasting Fire, then cast another portal to the bedroom in the house in Aurora. He dropped off Suniva and Artemis and did the same series of Sanctuary visits with the succubi and the Marilith Demon. With that out of the way, Ren summoned Teepo and equipped his best suit, then told Artemis to stay within his Aura as they left the house.
+
+Ren had a very important date with Stella to get to.

@@ -1,0 +1,117 @@
+---
+id: c713dc41-5761-55ee-9da2-e49f933e5388
+page-type-slug: story-chapter-royal-road
+title: "252 (II) Metamorphosis [III]"
+slug: 0303-252-ii-metamorphosis-iii-2912321
+partOf: path-of-the-deathless-book-4-completed
+position: 303
+ownLength: 2491
+unit: words
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2912321/252-ii-metamorphosis-iii"
+royalRoadId: "2912321"
+---
+
+252 (II)
+
+Metamorphosis [III]
+
+"Eldest," Uva finally whispered. "Do you have a choice at all? Can you even decide to be different?"
+
+The Eldest didn't respond, and then more illusions of herself materialized. All of them were twisted in different ways. Some of them seemed far more spider-like than Umbral, sprouting additional limbs from their backs, arachnid legs piercing the ground. Psychomancy threads melded into her body, weaving her into threads, her non-Euclidean physique twisting and coiling until she seemed more willow-leaf than person.
+
+"What is choice? There is only future and present, then becoming. There is no choice. Delay, not delay. Time is coming. You transform. It has happened, it will happen. It is happening."
+
+She listened to their words. And then she did something she'd never tried before. Instead of actively fighting, instead of succumbing to her emotions, she tried reaching out to the effigies of herself, the mutations that might take her, the being she might become, and she directed a strand of Psychomancy into them. If she could truly delve into the mind of whatever this was, whatever the Eldest represented themselves as...
+
+Another presence stumbled into the room. "Stop!" Roland cried. His voice was weak and hoarse, and he looked close to death's door as well. He was stripped of his ruined armor, dressed instead in a ragged, blood-stained hospital gown. Every step he took threatened to see him topple, but still, he staggered closer to her. Rose immediately stepped away from Uva and strode toward him.
+
+"You fucking idiot," she hissed, putting a hand on his arm. "You're not supposed to be out here. You should stay in bed for weeks instead of—"
+
+Roland silenced her by placing his hand upon her cheek and pressing his thumb to her lips. “Rose… Please. I…” He swallowed. It seemed speaking taxed his worn and withered body.
+
+He took another shaking step toward Uva. "You've done enough," Roland rasped, his voice thick with emotion as he stared intently at her. "You've done enough. Return the Starhawk to me. I will continue bearing this burden."
+
+The Starhawk’s shadow flared as he regarded his champion. "No." The god's voice was resolute like thunder, but for the first time, Uva saw Roland defy his god.
+
+The Lord of Blackedge swallowed heavily. “Starhawk, I beg you, you must release her. You must return to me. You must. She cannot endure this much longer. We have asked too much of her!”
+
+“And I have asked too much of you,” the Starhawk shot back. Now, his voice was dense with sorrow and unwillingness. "If I return to you, you will be nothing more than cinders, Roland. You will not survive."
+
+"She will not survive!" Roland cried. His voice was wretched, and Uva could see the sheer torment behind his gaze. "She will not survive," Roland repeated. "We are making a child die for me. Who are we to make someone who has no need to sacrifice herself do so anyway, who is doing this out of the sheer nobility of her heart, who is willing to perish for Blackedge, for my responsibility? Please, my God, I beseech you. I beg you. Return to me. I can endure. I can find a way to bring us home once more."
+
+The Starhawk replied, and his declaration was the same: "No, Roland, you cannot. Even if you were healthy, hale, and willing, you could not. For we are trapped in the realm of the Outside, within the embrace of an elder god. And here we do not have any true power. My presence is like a beacon in the dark. They come toward us, and without her Psychomancy, I fear we would have been overrun long before. And without her tithes and the Dreamtaker, we would have been utterly consumed by adversaries beyond our comprehension."
+
+But Roland wouldn't accept that. He shook his head again, and the sheer pain on his face made him look ever so much like Adam. A breath escaped Uva. She saw his nobility was genuine. She realized from what waters did Adam's heroism flow downstream.
+
+Much of what she knew about Roland Arrow was passed down to her second-hand from Shiv and Adam. She was apprehensive and even slightly antagonistic toward the Town Lord for what he did to her lover during his childhood. But here he was, begging, desperate to sacrifice himself so that she would be burdened no longer, so that she might be able to turn her attention and focus on the fighting of the Eldest.
+
+But Uva realized it might be too late, and his sacrifice wouldn't matter at all now. Part of it was simply what the Starhawk said: he wasn't the proper Pathbearer for the situation. Even with his overwhelming power, they likely wouldn't have been able to fight off all the Stranger's fingerlings forever. But more than that, the Eldest might have been an inevitability, might have been her fate since the moment she touched that book. She still didn't want to change. She still wanted to hold on to herself. But she had to discover something now, for her sake and the town's. For the simple act of understanding just what kind of being was fusing with her.
+
+A calmness asserted itself upon her. A calmness that felt as natural as it was unnerving in the aftermath of her anguish and of the Eldest's intrusion. Her focus was stronger. Her resolve was truer. The time to panic and to be emotional was past.
+
+Now there was only the road ahead. The road she had to face. She didn’t want much of this, but from the sound of things, the Eldest didn’t seem to have a choice either. Perhaps she wasn’t alone on this damned path.
+
+She didn't know if her mutation was fated. What she did know was this: She would try to fight it. She would try to delve into the Eldest as they had into her. She would try to seize their mind. To reign over it. Or to do anything to ensure her own agency in the future. Most importantly, she would fight. She would struggle and strive, for Uva Mettabon, as true as any other, was a Pathbearer, more so than most could dream to be.
+
+Slowly, Uva sat up, and she saw Roland limping toward her. Halfway through, he fell to his knees, and Rose found herself too weak to properly catch him. Despite this, he didn't crash to all fours. Instead, he braced himself. He forced himself up. And there they stared at one another at a level. "I'm sorry," he forced out. He sounded profoundly broken and absolutely desperate. "This was not your price to pay. I'm sorry."
+
+"Price?" Uva repeated. She shook her head slowly. "It is not a price. It is a duty we chose. You know that better than I, Town Lord. And I chose to protect this place willingly, even if desperate. Even if the metamorphosis that follows sees nothing left of me, this is the duty I chose. So I will abide by the strife that must befall."
+
+She rose before he did, even with the Eldest creeping through her soul. She was growing stronger. She had the power of three separate divine entities flowing into her, while Roland had spent himself down to the wick. But true to his nature, Roland had to rise regardless. Had to try. His hands shook. His legs quivered. Rose tried to help him, but it was Uva who reached for his hand. She pulled him back to his feet and found herself looking down at the man so similar in shape and courage to one of her closest comrades. He really was quite short compared to her.
+
+"It seems like we all only get to choose so much of our own fate," Uva said.
+
+Roland looked away from her, unwilling to accept the ugliness of this truth, but there was a burgeoning clarity in the Umbral. Furthermore, she felt a path opening before her. A potential means of striding in the middle road of usurpation and self-preservation for what felt like an inevitable metamorphosis.
+
+"Starhawk," Uva called out.
+
+"Yes, Sister Mettabon," the god replied, his tone warm and accommodating.
+
+"I need you to withdraw your influence from my soul for a moment. I think I'm going to establish a dialogue with the Eldest."
+
+Everyone in the room went still. "Are you certain?" the Starhawk said. She could practically taste the god's apprehension.
+
+Roland, however, was even less controlled. "No, no, if you do this, it might consume you utterly! Nothing of your soul would remain! There may not even be a hereafter for you!”
+
+Uva scoffed. "Perhaps, or perhaps it will be the other way around. But regardless, I don't see a point in delaying this much longer. I need another edge against the Stranger's pawn. I need to understand how their minds work. I need to find a way out of this labyrinth, out of this wilderness. And I cannot do it as I am right now. Not even with the Starhawk's power."
+
+"But what will become of you if the Eldest overtakes you?" Valor asked.
+
+"It has already overtaken me." Uva sighed. "I think. Time does not work the same way for them as it does for the rest of us. I think that the metamorphosis is already concluded in their opinion, and they simply wish to reach that point for me as well. But I don't know what will spawn from this mutation, this union. Either something that carries my memories and a figment of myself, but isn't truly me, merely using me as a host, a parasite."
+
+And then Uva thought back to how the weavers reproduced. A breath escaped her. A snort of wry amusement followed.
+
+"Uva?" Valor asked, confused as to why her mood was shifting so drastically.
+
+"I think I have realized something," the Umbral muttered. "I think I understand. It might be this way because it is mapping itself off my own history as well—all the things I have done and the things I have allowed to be done by my own culture. Perhaps the Eldest wasn't real until it reached inside me, just as it wasn't real until it spread beyond the other eldritch beings as well…"
+
+A series of confused expressions greeted her. Rose looked utterly uncomfortable. "Okay, it's clear that her mind is fucking going. We need to find some other way to solve this problem, find some other way to—"
+
+"No." It was Valor who cut her off. "No. Let her do what needs to be done. I trust her. I think she knows. I think she sees something we do not."
+
+"Valor," Rose said, sounding desperate. "Look, I understand you're some ancient Pathbearer, but I've seen a lot of shit in my time too, and right now, she sounds like every mind-broken Psychomancy victim I've ever encountered on the battlefield."
+
+"And yet we are in a realm of madness," Valor surmised succinctly. "Perhaps that is to her benefit, rather than her disadvantage."
+
+Rose wanted to say something else, but Uva waved her off. "It is decided. I am still here. I am still myself for now. I must do this. I must resolve this now; otherwise, our fates are certain to be sealed at the hands of the Stranger. Better that I face this metamorphosis on my own terms, to separate what I can affect and what I can change from what I cannot."
+
+"Kid, if this thing eats you, we're fucked. All of us are fucked," Rose said, "and you're gonna be the most fucked of all."
+
+"If I don't do anything, then I'm simply delaying the inevitable. We need more than what I can do now. And I need to be more. The System wants me to be more. I think there is no choice between me and the Eldest."
+
+Rose fell silent. And her first words, cast telepathically into the illusory clones the Eldest had molded from her visage, were thus: "You are also bound to the System's will, aren't you? You've passed through your children. You've been stained by the System's mana. You cannot go any other way. You were once free, weren't you? And now you cannot even remember. Now you reach out to things like us, things that can make our own choices, just to capture a kindling of what you once were."
+
+She was guessing blindly, guided by intuition. Across the link, she felt something that was supposed to be utterly inhuman, was still almost beyond her comprehension. But she had a name for it, and that was sorrow and regret.
+
+"I must happen. I must be."
+
+"So I see," Uva replied. Then, as she steeled herself, she reached deeper into the minds of the clones and felt her being brushed against something unfathomably great and vast. She thought she had reached new power when she became a Heroic-Tier Pathbearer, when her strands could extend far beyond the horizon. When she could weave and thread herself into enemy minds. But now she felt as if a worm cast into a boundless ocean, and the ocean was trying to fill her utterly.
+
+She wasn't big enough, she wasn't great enough, and if it all came at once, she would be burst asunder. But it didn't need to all come at once. The metamorphosis was to follow, but perhaps she could make this thing last. Perhaps she could come up with a solution of her own.
+
+She thought to the Stranger's Fingerlings, the ones she had trapped and captured. She thought of how she might be able to use them. She thought of how she could direct her mind against them once she had a better understanding.
+
+And in the depths of her consciousness, another layer of her mind began to scheme and plot against the Stranger, against the Eldest, against even herself. There was a desperate plan forming, and it remained hidden there, buried deep as she made her proposal: "I wish to come to an accord, Eldest. I wish to discuss the terms of my metamorphosis. I would like to trade. Skills for you to mutate, in exchange for time. Time and understanding. You will happen. I… suppose we must happen. The metamorphosis must follow. And I will stop fighting it if you help me understand. If you help me comprehend the minds of your offspring and the nature of this place. I need to save these people. I must. Do you understand? It is how I am. Just as this is who you are.”
+
+The Eldest let out a mind-shuddering noise, and silence followed. For a beat, Uva wondered if she had done something to the eldritch god—until it spoke anew. “Who we are. We… It will be we. Yes. Save. No difference soon. One and the same. One and one. Two to one…”

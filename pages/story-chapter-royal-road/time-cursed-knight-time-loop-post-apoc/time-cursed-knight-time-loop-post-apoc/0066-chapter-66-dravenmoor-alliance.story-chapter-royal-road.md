@@ -1,0 +1,293 @@
+---
+id: e33ccdb9-ace1-5017-8846-3a8768670520
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66: Dravenmoor Alliance"
+slug: 0066-chapter-66-dravenmoor-alliance
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 66
+ownLength: 2465
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3548760/chapter-66-dravenmoor-alliance"
+royalRoadId: "3548760"
+---
+
+In the Capital. Days later.
+
+The mage-glow on Sera's desk was beginning to weaken as its mana crystal neared its end.
+
+She hadn't noticed. The correspondence that covered every available surface of the oak desktop — letters, contracts, ledger summaries, draft agreements with seals still drying — consumed every bit of attention she had.
+
+The office occupied a corner of the Dravenmoor townhouse's second floor. Modest by the standards of the capital's noble residences. Two windows, one facing the street, one facing the inner courtyard. A desk. Two chairs. A cabinet of dark wood that held the overflow from the desk when the overflow became structurally threatening.
+
+The cabinet was full.
+
+The desk was worse.
+
+Three stacks of contracts occupied the left side, each one flagged with colored tabs that indicated their position in Sera's processing hierarchy. Red for urgent. Blue for important but not immediate. Black for problems that would require a level of attention she did not currently possess.
+
+The red stack was the tallest.
+
+It had been the tallest every day for the past week. Since Hagen von Hexenzeit had stood on a stage and promised the world that the Sins could be banished in a decade. Since then every noble house in the kingdom had collectively decided that the future belonged to whoever stood closest to Kasimir.
+
+The effect on Sera's workload had been catastrophic.
+
+Before the announcement, Kasimir's faction had been stable. A network of major and minor houses whose alliances had been negotiated over years, whose financial commitments were documented in agreements that Sera had personally drafted, reviewed, and filed. New allies arrived infrequently and were vetted with the thoroughness that Sera demanded.
+
+After the announcement, the machinery exploded.
+
+Every minor lord, provincial baron, and trade-guild master who had spent the previous decade hedging their bets between factions suddenly discovered a deeply held conviction that Kasimir was the rightful future of the Empire. Letters poured in. Declarations of support. Offers of funding, material, political endorsement, military commitment, and a dozen other categories of contribution that ranged from genuinely useful to completely self-serving.
+
+The volume had increased nearly twentyfold.
+
+The problem wasn't the volume itself. Sera could process volume.
+
+The problem was the quality.
+
+The minor nobles who now scrambled to join Kasimir's banner brought with them contracts drafted by provincial solicitors whose understanding of Imperial commercial law was, at best, aspirational. Every agreement that crossed Sera's desk contained errors. Clause structures that contradicted themselves. Financial commitments denominated in units that didn't exist. Contingency provisions that, if enacted, would obligate the faction to deliver services that no one in the Empire could provide.
+
+One baron from the eastern provinces had submitted a support pledge that, through a cascading sequence of poorly constructed subordinate clauses, technically committed House Dravenmoor to supplying his district with seven thousand head of cattle annually in perpetuity.
+
+Sera had stared at that clause for thirty seconds. Then she had picked up her quill, drawn a single red line through the offending paragraph, written No in the margin, and moved to the next document.
+
+Multiply that interaction by two hundred.
+
+That was her week.
+
+The donations were the worst. Gold poured in, not in the sums that the great houses contributed, but in the modest quantities that provincial lords could spare. Each donation came with conditions. Favors. The currency of political alliance.
+
+We support the Prince's cause. In exchange...
+
+The expectations varied. Tax exemptions. Trade route priorities. Military protection for territories that the regular army had abandoned to feed the southern front. Appointments. Titles. Land grants in regions that hadn't been surveyed in decades and might, for all anyone knew, be occupied by something that would eat the surveyor.
+
+Many of those favors hinged on the promise of world peace.
+
+Sera didn't pause to evaluate whether that promise would be fulfilled. The question was irrelevant to her function. Whether banishment succeeded or failed, whether Hagen's Mana Computation Engine worked or collapsed into expensive wreckage, the political commitments being forged now would shape the Empire's power structure for a generation.
+
+Her job was to ensure those commitments didn't destroy the faction that held them.
+
+She reached for the next contract. Her quill found the first error on the second line.
+
+The knock came at the eleventh hour.
+
+Three raps. Spaced evenly. The pattern was specific. Not a servant's knock. Not Darius—Darius didn't knock. Not her father, who announced himself with a single, heavy impact.
+
+Sera set down her quill. Her hand moved to the desk's lower drawer. Inside, beneath a false bottom that she'd commissioned from a carpenter who was now enjoying a very comfortable retirement, lay a second set of documents.
+
+She didn't remove them. She simply confirmed they were there. A reflex, the way a soldier checks for a weapon when someone enters a room.
+
+"Enter," she said.
+
+The door opened.
+
+The man who stepped through was unremarkable by design. Average height. Average build. Brown hair cut short. A face that had been made to pass through any crowd without producing a memory. He wore the clothing of a mid-level merchant.
+
+His name, for the purposes of this interaction and every interaction conducted within these walls, was Lutz.
+
+Whether Lutz was his actual name was a question that Sera had never asked and never would. The arrangement did not require that. It required results.
+
+Lutz closed the door behind him. He didn't sit. The habit was one of the qualities that had kept him alive in a profession where most practitioners developed either too much comfort or too little caution.
+
+"Report," Sera said.
+
+Lutz reached into his coat. Produced a folded letter.
+
+He placed it on the desk.
+
+"The Kumsur Sultanate route," he said. "The eastern caravan. Intercepted three days ago. Twelve wagons. The escort was overwhelmed."
+
+The handwriting was cramped and hurried, the penmanship of someone writing by poor light under time pressure.
+
+Three days ago. The caravan carrying goods along the trade corridor that connected the Sultanate's western border to the Empire's interior provinces had been robbed.
+
+Twelve wagons. Eight guards. The guards were professional, hired through Lutz's network.
+
+The cargo was gone. Every crate. Every carefully packed unit of product that Sera's network had spent weeks moving from its point of origin to this route.
+
+"Who," Sera said.
+
+The word carried the temperature of deep winter.
+
+"A new group." Lutz's hands clasped behind his back. "We've been tracking them for approximately six weeks. They appeared on the route shortly after the Sultanate's seasonal trade agreements were renewed. Their operations are concentrated in the desert corridor between the border and the first Imperial checkpoint."
+
+"Appeared from where?"
+
+"Unknown. The intelligence is incomplete. What we have suggests they're not local."
+
+He paused.
+
+"They knew what was inside."
+
+Sera set the letter on the desk. Her hand pressed flat against the paper, palm down, fingers spread.
+
+"Which cargo," she said.
+
+"Nine wagons of standard product. The usual recreational supply for the Capital's salon circuit." Lutz's voice didn't change when he described the contents. The same flat, mercantile tone he'd use for grain shipments. "Three wagons of what was supposed to be empty decoy freight."
+
+"Supposed to be."
+
+"One of the decoy wagons had been loaded with false-bottom crates. Inside those crates, approximately forty units of Snow Dream."
+
+Sera's jaw tightened.
+
+She hadn't authorized Snow Dream shipments on her routes. She hadn't authorized Snow Dream shipments at all. The substance had appeared on the market four months ago, distributed through channels that didn't intersect with her network. At least, until someone decided to piggyback their supply onto her logistics infrastructure without her knowledge.
+
+"Who loaded the false bottoms?"
+
+"We're investigating. The loading depot in the Sultanate's border town handles product from multiple sources. It's possible one of the local handlers was bribed or coerced into adding the crates."
+
+"Find them."
+
+"Already in motion."
+
+Sera leaned back in her chair. The wood creaked beneath her.
+
+Many people wouldn't hesitate to steal from Sera von Dravenmoor. The Imperial Comptroller's name carried political weight, but political weight didn't stop a knife in the dark. A noble's authority extended exactly as far as the institutions that enforced it, and in the desert corridors between sovereign territories, institutions were scarce.
+
+But Sera von Dravenmoor wasn't the name on the cargo manifests. Wasn't the name the guards reported to. Wasn't the name the handlers in the border depots whispered when they discussed the source of the goods.
+
+The name they whispered was different.
+
+The Underground King.
+
+The title had been Sera's creation. Not the title itself, every criminal network needed a figurehead, a name that carried sufficient menace to deter casual interference. Still the specific construction. King, not queen. The masculine article was deliberate. A misdirection. When people heard The Underground King, they imagined a man. When they imagined a man, they looked for a man. And while they looked, Sera sat behind a desk in a noble townhouse, processing contracts and correcting subordinate clauses.
+
+The network served a single purpose.
+
+The Dravenmoor fortune was respectable. Not the bottomless reserves. Respectable meant sufficient for the family's current obligations and insufficient for the ambitions that Sera's father, and by extension Sera herself, harbored for the future.
+
+The gap between respectable and sufficient was filled by the network.
+
+Drugs. Stimulants. Recreational alchemical compounds that the capital's salon circuit consumed in quantities that would have scandalized the public if the public had been inclined to look too closely.
+
+The product was clean. The supply was managed. The distribution operated through intermediaries whose connection was buried beneath so many layers of cutout and misdirection that tracing it would require a forensic effort exceeding anything the Empire was equipped to.
+
+It was, in Sera's assessment, a controlled operation. Controlled substances reaching controlled customers through controlled channels.
+
+Snow Dream was none of those things.
+
+Snow Dream was a wildfire. It didn't target the salon circuit's jaded aristocrats. Snow Dream targeted the desperate. The non-magical.
+
+The substance destroyed its users. The dependency curve was steep enough that first-time users became repeat customers within days and non-functional addicts within weeks.
+
+Which meant Snow Dream wasn't just a rival product.
+
+It was poison aimed at her customer base.
+
+Every addict that Snow Dream created was a customer Sera's network lost.
+
+Dead customers didn't buy product.
+
+"The group that intercepted the caravan," Sera said. "They're connected to the Snow Dream supply chain?"
+
+"Almost certainly." Lutz produced a second document from his coat. A thinner paper, folded once. "Our contacts in the border depot identified markings on the false-bottom crates that match packaging observed at three separate Snow Dream distribution points within the capital."
+
+"Same supplier."
+
+"Same supplier. Or at minimum, the same network."
+
+Sera's fingers drummed against the desk.
+
+The new group was moving Snow Dream through her territory. Using her routes. Embedding their product in her freight. And when the caravan was intercepted, they'd recovered their supply and destroyed hers in the process.
+
+Parasitic and efficient.
+
+"Leak it," Sera said.
+
+Lutz's eyebrows rose by a fraction. The smallest reaction his face was capable of producing.
+
+"Specifics?"
+
+"The new group. Their routes. Their distribution points. Everything we have." She picked up the quill from the desk. Tapped the feathered end against the wood. "Leak it to the military. The regular army intelligence apparatus. And to the Iron Cross."
+
+The second name produced a visible pause in Lutz's controlled stillness.
+
+"The Iron Cross," he repeated.
+
+"The Iron Cross."
+
+"With respect." Lutz's hands remained clasped behind his back. "Feeding intelligence to the Iron Cross strengthens Prince Varen's position. If they act on the information and dismantle the Snow Dream network, the credit accrues to its Investigation Division."
+
+Sera's tapping stopped.
+
+"I know."
+
+"Then may I ask the reasoning?"
+
+She set the quill down. Pressed both palms flat against the desk.
+
+"The Snow Dream network is a weed," she said. "It grows in the same soil we cultivate. Every day it continues to operate, it poisons our market. Degrades our customers. Competes for routes we've spent years building."
+
+The muscles along her jaw went rigid.
+
+"I want it gone. I don't care who pulls it out. If the Iron Cross does the work, the Iron Cross takes the credit. That's a cost I can absorb. What I can't absorb is a rival network that's bold enough to embed product in my freight and intercept my caravans in open desert."
+
+She looked at Lutz.
+
+"Let them be useful. Let them bleed for it. And while they're bleeding, we consolidate what's ours."
+
+Lutz held her gaze for a beat. Then he nodded. A single, precise inclination of his chin.
+
+"I'll prepare the intelligence package."
+
+"Good."
+
+He didn't move toward the door.
+
+Sera's eyes narrowed.
+
+"There's more."
+
+"There is."
+
+He placed nothing on the desk this time. Instead, he spoke.
+
+"A rumor has been circulating among the minor nobility. It started in the Academy district and has since propagated through the salon circuits and into at least three trade-council social functions."
+
+Sera waited.
+
+"Multiple witnesses observed Kaspar von Hexenzeit walking through the Academy's main hall in close contact with Darius von Dravenmoor. Calling him a close friend."
+
+Sera's face didn't move.
+
+"Friend," she said.
+
+"Arm around the shoulder. Walking together through the public corridors for approximately eight minutes. In full view of students and faculty. The witnesses describe the interaction as familiar. Intimate, in the political sense. The body language of allies."
+
+"I see. Allies," Sera repeated.
+
+"The interpretation that's gained traction," Lutz continued, his voice maintaining its careful neutrality, "is that an alliance is forming between the Hexenzeit dissident branch and House Dravenmoor through Darius. The speculation is whether this represents a coordinated move to challenge the leadership of both houses."
+
+Lutz paused.
+
+"Some are asking whether there's a crack in House Dravenmoor."
+
+She knew Darius.
+
+Darius von Dravenmoor did not form political alliances. Darius did not conduct strategic maneuvers in Academy corridors. Darius could not have orchestrated an interaction of this nature if someone had written him a script and held his hand through every line.
+
+Which meant the orchestration had come from the other side.
+
+Kaspar von Hexenzeit had found her brother. Had put his arm around her brother's shoulder. Had walked through the Academy's most public corridor in a display of physical familiarity that, in the coded language of noble interaction, carried a single, unmistakable message.
+
+I am close to your house.
+
+And he'd done it where everyone could see.
+
+"It's nothing," Sera said. "Darius is incapable of forming the alliance they're describing. The rumors will die when no further contact materializes."
+
+Lutz said nothing.
+
+"That will be all."
+
+He bowed. Turned. Reached the door.
+
+"Lutz."
+
+He stopped.
+
+"Add Kaspar von Hexenzeit to the watch list. Full profile. Movement, contacts, correspondence, spending patterns."
+
+"Priority?"
+
+"High."

@@ -1,0 +1,433 @@
+---
+id: c167c974-4069-5db1-a9b3-c5cfb8bf33d3
+page-type-slug: story-chapter-royal-road
+title: "398 A Hollow Invasion"
+slug: 0358-398-a-hollow-invasion
+partOf: the-new-world
+position: 358
+ownLength: 4809
+unit: words
+ownProgress: 4809
+publishedAt: 2025-03-17
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2131081/398-a-hollow-invasion"
+royalRoadId: "2131081"
+markedReadAt: "2026-06-29T21:33:34.117Z"
+---
+
+They dwarfed the size of skyscrapers. It was like a large metropolis floated over our heads. As the shadows covered our guild, Hybrids fought on the outer hulls, many having drilled their way inside. Behind the vessels, the void of space howled out, feasting on Earth's air. Helios reached up with his gauntlet, closing the warps. My runes flared with violence, and Event Horizon smothered the entire fleet.
+
+I reached out with a charged hand, ready to disintegrate them with singularities. With a telepathic wave, I thought over.
+
+"What are you doing here?"
+
+A cacophony of voices screamed back via telepathy.
+
+"Help. Please."
+
+Chapter Begin
+
+Chaos disgorged out of the vessels. I sprang into action along with my guild members. I catapulted toward the largest vessel using a gravity well. As I reached the ship, I tore through its surface and pierced into the labyrinth of rooms. A moment later, I scanned the individuals via telepathy. I found Florence in seconds, his thoughts a jumbled mess.
+
+I bolted through steel walls like a bullet through paper. After destroying the last wall between us, I gazed at a strange scene. Within the room, a twisted Sentinel raised its spear over Florence. The albony smiled at me.
+
+"Ah, you big lug of cold steel. Thank Schema, you're here."
+
+I dashed forward like a juggernaut ready to pulp a soft fruit. The twisted Sentinel sliced towards me, opening a rupture in spacetime. I flew into deep space, where no stars shined, and no galaxies swirled. Behind me, the Sentinel closed the rupture. Before it sealed me in the vast emptiness, I smothered my wake into the rupture. As I had done with my own carry-on dimension, I pried the portal open before flying myself back out. In the command room, Florence hid under a command table. He locked eyes with me and beamed.
+
+"I know, I know, my bravery is commendable. You can thank me later."
+
+After getting all the way out of the portal, I gazed at the twisted Sentinel. Hybrid flesh squirmed in between gaps in his armor plates, and glowing sacks pulsed on his arms. The creature murmured.
+
+"The Harbinger. We meet at last."
+
+I grabbed the rip in spacetime before wringing it out like an old, soaked rag. As I did, the twisted Sentinel's spear shattered. It stared back at me in awe.
+
+"A fine strategy. You isolated-"
+
+I dashed forward, grabbing its skull. My arm moved faster than it perceived and held tighter than it could slip out of. It grabbed my hand, trying to escape.
+
+"Your abilities have improv-"
+
+I squeezed its helmet to a pulp. Like an egg dropping on the floor, its graphene helmet crushed, and the mush inside splattered between my fingers. My armor absorbed the mass within its shell before I tossed the corpse aside. Turning back to Florence, I scoffed.
+
+"You have got to be the luckiest albony I know."
+
+He shrugged.
+
+"It's my main stat. Having causality on your side is never a bad thing."
+
+There was the word again. Causality. Huh. I grabbed Florence before barreling out of the shuttle. Floating over the chaos, I assessed the situation. From the looks of it, my guild assaulted the vessels in mass.
+
+Gialgathens tore Hybrids apart with their tails, keeping their distance by flying. No longer the fattened cats they once were, the amphibious dragons used tactics and their flames to destroy the steel abominations. Flowing faster and with grace, their aerial superiority allowed them to assault the enemy uncontested.
+
+Around them, the eltari flocked in swarms. With energized talons, they tore at the vulnerable cords and orange pustules on the Hybrids. The Eltaris' mana kept them sanitized while amplifying their assaults, flocks of them swarming one Hybrid at a time and leaving it a desecrated mound.
+
+The Omega Strain division crawled over the outer hulls of the enemy vessels, tearing Hybrids apart. They operated in teams of three, each member like a death-dealing spider. Anytime they happened upon a Hybrid, the Omega Strain's claws dismantled the enemy's entire body before engorging their strains on the monster's pieces.
+
+Elthara led the charge. She evolved into a crystalline hurricane, her body shifting and molding her Omega Strain to assault with reckless abandon. The strains moved on her, flowing like liquid gemstones. Before contacting enemies, they hardened into glistening blades. The colors blurred into a confusing, dangerous whirlwind.
+
+And death followed her wake.
+
+Torix moved his hand, experimenting with his new staff in a lazy, laid-back manner. Each spell lobbed out was a cataclysmic event, entire legions of the enemies disintegrating in elemental plumes, acidic fireballs, burning ice, or poisoned steel. Torix enveloped the enemy in a deluge of deaths, ensuring they never lacked in variety either.
+
+Others wielded elemental magic. Helios paired his gauntlets together. With one hand, he gutted vessels using gravitation. From his other palm, shards of void ice erupted out, impaling any Hybrids that fumbled in the air. He raised the gravity gauntlet, slamming the enemies together before throwing his ice-gauntleted fist at them.
+
+They erupted in a satisfying plume of void ice.
+
+Chrona flew over our the guildmembers staying in the rear. She maintained a temporally manipulated zone, enhancing our guildmates' defenses. In this space, even raw guild members fought hand and hand with Hybrids. On the outskirts of this zone, guild members suffered wounds. They maintained composure even if limbs hung half-cleaved from their bodies.
+
+These grisly mutilations looked deadly, but our guild stayed true to its roots; they endured. Guild members pulled back, allowing other guildmates to take on the danger while they healed. My legacy allowed them to recuperate from mortifying wounds in minutes, so even if death's doorbell rang, they found no one home.
+
+Furthering death's distance, Kessiah worked on multiple patients at once. Anyone in real danger, she snatched from death's jaws in an instant. Krog stayed nearby and zoned for her. His precise sound waves shocked Hybrids, but prolonged blasts caused them to vibrate into tiny fragments, their flesh liquified.
+
+A vessel charged a blast to assault this clustered set of healers. Krog breathed in before blasting a roar into the side of the assaulting vessel. The air trembled before slamming into the hull of the destroyer. An entire panel disintegrated into a plume of steel sand, the cannon no more.
+
+Diesel, Amara, and Hod grouped up beneath Chrona. Diesel helped coordinate people coming for healing while Amara stayed still. This wasn't her fight. Other Hod erupted in a plume if anything encroached, his shadows spreading over any it touched like an infection. Once darkened, the darkness over the Hybrids erupted into umbral flames.
+
+They burned to nothing except a lingering shadow that dispersed like ash. It seemed like something from the void, and the powder left lingering shadows wherever it landed. Hod warped between these shadows like a businessman alt-tabbing at work while high on cocaine.
+
+Of course, the enemy retaliated in kind. The largest shuttle of the enemy fleet charged up a rail cannon, ready to fire at Mt. Verner's center. As it lobbed out the projectile, three of the keeper golems lined up in front of it. The sky dimmed as the railgun fired with untold power, the blast's light blinding.
+
+The first keeper slapped the projectile, redirecting it into the sky. The slug tore a hole in the atmosphere, and the clouds parted in an enormous circle above while a shockwave ushered outward. The second keeper contained the collision's blowback, preventing it from hurting anything nearby. The last keeper slammed into the vessel, tearing its weaponry from out of its side.
+
+To the keeper, steel was tin, and flesh was paper.
+
+The executive managed these golems' efforts and more, keeping the vanguards from killing uninfected passengers and assisting the architects with constructing temporary shelters. The executive even killed nearby Hybrids at the same time, offering combat support where possible.
+
+All in all, they left me with nothing to do. In fact, Plazia and Shalahora watched the devastation nearby. Plazia rested on a basalt throne while Shalahora's form leeched out as if waiting to teleport. While ready for action, they didn't need to do much. I landed beside them, setting Florence down.
+
+The albony brushed himself off.
+
+"And here I thought I was why everyone was so angry. Who'd of guessed our secret meeting would be leaked before having an enemy force assault us. That, and half the luminari's procession turned into Hybrids all of a sudden."
+
+Florence shivered.
+
+"An eerie thing. They didn't even know what killed them."
+
+It was like L-7's last battle. Many died from embedded Hybrids there as well. I raised my brow.
+
+"I thought you said your luck stat was high?"
+
+Florence shrugged.
+
+"I like to think it makes a difference where it matters."
+
+I watched a shuttle get taken by Helios.
+
+"I didn't expect us to clean this up so easily."
+
+Plazia nodded.
+
+"Your guild gains experience and sharpens its fangs. This assault will emphasize their need for training, and those that laze about will no longer let their claws grow dull."
+
+Shalahora murmured.
+
+"They fight well, but I am watching and waiting. If something is awry, I shall handle it."
+
+Plazia rumbled.
+
+"I, as well. None shall die here under my watchful eyes."
+
+Knowing these two could disassemble the invasion by themselves, I sat down and watched the show. After a few minutes, Florence passed out on the ground, his adrenaline utterly shot. The guy earned a nap. I made him a tent of marble and a bed of pine straw.
+
+With the two world destroyers surveying the battle, I found a moment of peace amidst war. I meditated for a while. After an hour of fighting, I checked in. My guild's sharpness dulled, but so did the enemies. People still fought against the vessel's occupants, having cleared deep into each of the ships. In the close-quarters, hallway-based combat, Althea and Hod took center stage.
+
+Althea tore open each of the doorways with a circular swipe of her hand. She used a tiny, unseen thorn from her fingertip. These holes were cut in such a way that they didn't make a sound while sliced. This left each room breachable without the enemy being aware. Furthering her reconnaissance, Althea moved room by room, phasing through walls like a ghost.
+
+She reported what fought within the rooms before Other Hod swarmed in, killing hostiles but not neutral targets. Their teamwork and experience shined, each of them moving like clockwork. They cleared each of the tightly packed rooms in seconds, and vessel by vessel, the enemy's number dwindled.
+
+It still required hours of concerted effort because of each spaceship's design. They were tightly intertwined lattices, like dense steel honeycombs. That composition absorbed railgun punctures in space, preventing the vessel from vomiting its guts out when pierced. Since each room could be locked down, this prevented the breathable air from belching out into the void.
+
+This made sieging each vessel incredibly arduous if a force lacked the right skill set. Despite those innovations and difficulties, the enemy force fell by sunfall. As the sun set on the affair, our guild was victorious. Even with the scale and length of the conflict, we lost no one despite the chaos. Plazia, Shalahora, and Kessiah's interventions caused an absolute lack of casualties, two of them surveying the battlefield with a watchful gaze while the last member made up for any crippling mistakes.
+
+It exposed how powerful they were, two of them a planetary influence and the last a walking ER. It gave me a sense of satisfaction knowing how powerful my allies were, but it also left me uneasy. If either Shalahora or Plazia turned on the guild, we'd be in hell and quickly.
+
+I let my paranoia fade as the situation wrapped up. I also joined in the cleanup. On each infected vessel, I disintegrated all remains of the Hybrids. Their flesh, metal, and wires all melted into mana from Event Horizon, and my armor feasted on the clouds of energy. As I killed the blight, the Hybrids gazed at me with different bodies.
+
+While still disgusting, Elysium improved their designs. Less a shamble of corded flesh, they bore sleeker forms without as much exposed tissue. Some of the orange pustules were covered in a clear glass, those spots longer pulsing like grotesque tumors. Even the faces held dark eyes like giant irises.
+
+They were haunting.
+
+Paired with each Hybrid were four-legged mole rats in jumpsuits. Even under folds of pink skin, their eyes stared at me with intelligence and dignity. They hissed in despair whenever I arrived, most surrendering but many choosing to die. Their dedication was...Humbling. On the other hand, the Elysium agents lacked that same resolve.
+
+Whenever a situation became dire, they sent their Hybrids on a rampage. The destruction let them find avenues of escape in many circumstances, but not against me. They found no haven in their portals or escape in their smokescreens. I pulled them apart via gravitation, blood raining in and spurting like rapids in a flooding river.
+
+It was something I hated about them. They had surgical precision and complete control over their Hybrids if they chose to be disciplined. However, whenever a situation stressed them out, they baled on their responsibilities. Despite years of progress in learning how to use the monsters, I still found civilians half consumed them.
+
+Some of the noncombatants still lived as their blood, body, and bones were converted into steel. They screamed in agony, and I'd never forget the howling. I would make sure Elysium never did, either.
+
+In many portions of each vessel, uninfested groups huddled together, weeping. This was where I learned what species of alien these people actually were. They were glowing, phosphorescent aliens who screamed for mercy while Hybrids dug cords through them. I freed them with Event Horizon by vaporizing the majority of the Hybridized mass that latched onto them.
+
+After I cleared the bulk of the infection, I handed them off to Althea and Kessiah. They worked in tandem. Althea helped Kessiah by operating on the aliens. Althea's slicing was more precise than any surgeon alive. Her hands danced over them, removing even thin wires and isolated, glowing tumors in seconds.
+
+Althea left nothing within before Kessiah restored them. Anything these aliens lacked, Kessiah granted, from missing limbs to organs to blood. I marveled at how Kessiah could be given a limbless, eyeless, and faceless hunk of meat before turning it into a living, breathing alien. It was the closest thing to a miracle I'd ever seen.
+
+Once healed, we could tell what they were supposed to look like. Most of the injured were a species known as the luminari. Their sleek, black frames outlined themselves in a white light. It was like a two-dimensional drawing in real life. Floating in their encapsulated darkness, collections of light skimmed the surface of their skins. This gave them dimension, and those luminescent dots changed color as their emotions shifted.
+
+Green, violet, and turquoise, their emotional range exposed itself like a rainbow. Even if they were able to show different colors, they all changed to green when awakening. It was their shade of fear. Once they learned they were safe, they dimmed to a cool blue.
+
+It was their color of sadness and exhaustion. We set up a medical bay of surgical tables and sanitized supplies. We left them under the moon and stars since it helped them regenerate. They didn't mind the open air or wind. In those cubicles, we let the luminari collect themselves for a few hours, each of them sleeping for a while.
+
+After several hours of parsing through the mess, we found their leader. Well, the closest thing to one. The Hybrids devoured their generals until they looked less like a command chain and more like a food chain. Still, this was a noble luminari, and it sat upright despite its wounds. The alien communicated with pulses of light and sound. After talking to a field nurse, the luminari's lights danced across its surface as it gazed at me.
+
+"Oh, mighty Harbinger, thank you for granting our kind asylum. Given the size and ferocity of your species, we expected a harsh world that would induce extreme evolutionary demands. Instead, we find this peaceful planet. It seems you're establishing a base here before conquering it. A wise choice from a wise leader."
+
+The number of misunderstandings mounted, but I didn't have time to correct the guy. Having cleared the hulls and cracked some skulls, I gestured to Florence. Our resident diplomat clasped his hands together while facing me.
+
+"Before we discuss the details, I want to thank you again for saving both of us."
+
+I raised a palm.
+
+"I appreciate the thanks, but I did send you on the mission. Honestly, preventing your death was the least I could do."
+
+Florence's brow raised.
+
+"Then what would be the most you could do?"
+
+I frowned.
+
+"Hm. I don't know. Why do you ask?"
+
+Florence turned his hand to the luminari leader.
+
+"Perhaps there's an opportunity to find out what can be done. Echo and his people need to find some way of fending off Elysium's invasion. I believe you're more than capable of doing that."
+
+I closed my eyes. Yet again, a crisis wanted to pull me back from helping Earth and humanity. By now, I had freed the skeptiles, saved the gialgathens, uplifted the Vagni, and pulled the Eltari out of a dungeon. I'd saved five other races before taking even the most basic steps to helping humanity.Enough was enough. My voice was stone.
+
+"Absolutely not. I'm not fighting someone else's war while people here are torn apart by monsters."
+
+Florence stiffened.
+
+"Well, you don't have to be so certain about it."
+
+"The thing is, if I give you an inch, you'll take a mile."
+
+Florence leaned back.
+
+"Oh, come on. I'm not doing anything but advocating for these people."
+
+I dragged my hand down my face.
+
+"See, that's the problem. You're supposed to be advocating for us, not them."
+
+Florence moved his hands in circles.
+
+"In a sense, I am. Think about it; these people carry so much potential."
+
+I let out a sharp sigh.
+
+"So do the skeptiles, gialgathens, Vagni, and Eltari. How many species will I need to take under my wing before I even solidify Earth? How many other people's problems will I have to solve before I solve my own?"
+
+Florence put a hand on his chest.
+
+"None. I'm not asking you to siege this species' planet. I'm asking you to give them a fighting chance."
+
+I pinched the bridge of my nose.
+
+"Florence...You were supposed to gain us political leverage."
+
+"This is political leverage."
+
+I shook my head.
+
+"And look how saving someone else worked with the albony. We gained a planet with constant rebellions and no official Schemic presence. We also got dragged into more conflict with Elysium. The only benefit I gained from working with Obolis was getting you and Helios working for me, but even that wasn't given. You two chose to join me on your own."
+
+I sighed.
+
+"In the end, we were dragged into a war that we barely scraped our way out of. Now, you're trying to drag us back in before we've even sent out a basic scouting mission on Earth."
+
+A wave of emotion crossed over Florence's face. He settled on a cold, icy anger. His voice was a low boil, but it didn't sound like it was directed my way.
+
+"I understand your sentiment, but fortunately for us, not every species is led by an egomaniacal tyrant. We're lucky that not all rulers value their personal collections over their families, people, and planets. Some rulers are actually grateful and will help wherever they can if given a chance to repay an old debt."
+
+Since we last met, Florence had time to think about what happened in the lottery. With that updated understanding, Florence's opinion of Obolis had changed., soI let the guy get his anger out. He and I both knew the subject was a touchy one, like an exposed nerve.
+
+I furrowed my brow.
+
+"How are you holding up?"
+
+Florence raised a shaking hand, holding his tongue. He swallowed a few choice words before letting out a sigh. His standing posture relaxed.
+
+"I'm sorry for my tone. This has been...A trying time. I'm holding it together because of Helios and his support, but-"
+
+Florence's voice cracked.
+
+"I remember everyone I've lost. The homes. The friends. My family. It's all gone. Seeing these people suffer the same fate is like reopening old wounds that had hardly closed."
+
+The depth of his loss loomed like an ocean. Unlike me, Florence invested in the people around him. He didn't get lost in his thoughts, operating in some internal world. Florence put himself out there, and he wore his heart on his sleeve. In response, the world ripped his sleeves and heart out. That's why I always found Florence's vulnerability brave.
+
+I wished I'd been born the same, and that was why it hurt me to see Florence wounded by that same openness. Florence breathed in, pulling himself together.
+
+"Daniel. I don't want what happened to the albony to happen to anyone else. I'm not saying we should fight Elysium for them. I'm saying we can at least give them a few weeks of safety so that they may regroup. Perhaps we may grant them a few golems for combat?"
+
+Florence turned a palm to the luminari leader.
+
+"I'm certain your people are more than fine with paying back a hefty loan given the circumstances?"
+
+Echo's shade shifted from blue to amber. It shook its head with vigor.
+
+"Oh yes. We would adhere to whatever requirements you demanded. We will give you anything we can."
+
+I frowned.
+
+"That's the thing. I can tell just by your species' combat abilities that you're not giving me any empowered relics or war machines. You guys lack firepower, and your economy is shot. You don't have anything you can give me that I actually want. This is going to be charity, and I'll be giving it out while the people on my own planet are eaten alive."
+
+As the luminari heard my words, its reality set in. The leader's head lowered in a slow, heavy gaze.
+
+"Oh...I see."
+
+Florence's eyes brightened.
+
+"Now, wait a minute, Daniel. While these people may not have anything you materially want, they can promise to enact whatever will you desire."
+
+I frowned.
+
+"That's the thing - I don't want slaves. That's actually the last thing I want."
+
+Florence snapped his fingers.
+
+"Precisely my point. I'm certain you saw the various, er-" Florence looked something up in his status. "Molerats in the shuttles, correct?"
+
+"I did. They worked with Elysium. Well, most of them."
+
+Florence grinned, his voice elated.
+
+"They're the race that the luminaries enslaved."
+
+"Huh...You seem really happy about that."
+
+Florence waved his hands.
+
+"Of course not. My point is that these people can promise to live their lives differently after we've helped them."
+
+My eyes narrowed.
+
+"How so?"
+
+Florence paced in a direction, his hand raised. As he spoke, the negotiator within him crawled out of its shell.
+
+"As you've said, the last thing you want is slaves. From what I've gathered, that's on a conceptual level, not just our empire, correct?"
+
+My face wrinkled.
+
+"That's true-"
+
+"Then this is an opportunity to free a people without any of the repercussions seen on Giess. We can have the luminaries contractually obligated to free the molerats after we've saved them. We could enact this across the cosmos wherever Elysium has invaded. All that without fighting directly. This will grow your empire while purging a societal ill that should've ended long ago."
+
+I furrowed my brow.
+
+"Ok, I have to ask this before we continue. Are they really called molerats?"
+
+Florence scoffed.
+
+"No, their Xylojakovichianoradonitises. The name is...It's a horror, so I found an earthian equilivant."
+
+My eyes widened.
+
+"Wow. That's...That's a mouthful."
+
+Florence waved his hand.
+
+"But to further the point, I want to remind you of something. Daniel, you're a man of principles. You're someone who wants to improve the world and the universe as a whole. I've seen that in you, and that desire is something you've shown time and time again."
+
+I raised a brow.
+
+"Really? How?"
+
+Florence turned a hand.
+
+"You've saved multiple sapient species from extinction. You've assisted those on Earth without any reason to. You've even extended a helping hand to the Empire on a whim, of which Obolis never returned the favor. Despite that, you've been good to me and Helios."
+
+Florence met my eye.
+
+"You are a good soul."
+
+I grimaced, remembering the bombing of espen cities and the people I killed.
+
+"I don't know about that. In all honesty, I think people who don't know me can give a better answer to that question than I can."
+
+Florence sighed.
+
+"Then give those people something they can't refute. Here and now, you have an opportunity to do something great. If these people overturn Elysium, then the molerats will remain enslaved. If Elysium wins, the luminari will be gutted and strung up to dry. In essence, enslaved as well."
+
+I pinched the bridge of my nose.
+
+"Dammit."
+
+Florence could tell he got me. He swung a hand.
+
+"You are the only person in this situation armed with the agency needed to change this paradigm."
+
+I nodded.
+
+"I could win the luminari's war and dictate the terms of victory to my liking. But that's the issue. I could make things better or worse, and I can't tell which way the chips will fall in the end. Like with Giess, I don't know the situation. I'll also need to divert resources we could use to help settle Earth."
+
+Florence's face wrinkled.
+
+"You've seen the luminaries' planet being invaded. In the same vein, you've seen what occurred to the gialgathens without your intervention. Since then, Elysium's morality has only worsened."
+
+Remembering Elysium carving on rulers' bones, I glared at the ground. I seethed.
+
+"They're just absurdly evil. It's hard to believe at this point."
+
+Florence stared at me.
+
+"The luminaries will suffer the same fate as the gialgathens, and you have the opportunity to help alter the course of this tragedy."
+
+My face softened.
+
+"I tried and failed at that already. I contributed to the gialgathen's fall when I intervened on Giess. I was an icon for Elysium's rise to power. Remember the gray giant? I made a bad situation worse, and I tried to fix it after I learned about my mistake. But, it was far too late."
+
+I took a breath, my eyes closed.
+
+"I can't do that again."
+
+Florence offered a hand.
+
+"It was your first foray to another planet. You lacked perspective, personnel, and resources. You were focused on yourself, as you should've been. Now, the situation has changed. You can stop Elysium from decimating these people. We have the means. Besides for that, you won't need to do everything. Send a few golems and make it a volunteer project."
+
+I raised a hand.
+
+"Ok, let's assume I'm saying yes to what you want, which I'm not, but assuming I am, what would be my course of action?"
+
+Florence grinned.
+
+"Simple. We arm them with tools and combatants. And maybe an extra planet."
+
+I frowned.
+
+"An extra planet? Where do I have one of those?"
+
+Florence gestured up at the vessels above.
+
+"You have a few here in the solar system. We could perhaps even grant them one of the lifeless worlds in the Blegara system."
+
+For a moment, I contemplated. Florence wasn't wrong about the situation. This was the second time an Elysium vessel landed on my planet, even if it was by accident or in chaos. They broached our treaty multiple times and in multiple ways. If anything, allowing this to go without retaliation might invite even more infringements.
+
+Aside from that, I wanted to help these people. While I couldn't give them as many resources as I had to the other races under my wing, I'd offer what protection I could. I spread my hands.
+
+"Alright, you win. We'll help."
+
+Florence swung his fist.
+
+"Yes! I knew you would be the grand, righteous person-"
+
+I raised a finger.
+
+"This isn't me accepting unconditional terms of support. I'll be helping in a way that doesn't involve us in direct conflict. In that sense, I'll be an arms dealer who supplies the side I want to win."
+
+Florence nodded.
+
+"In exchange for a dispersal of your own moral codes?"
+
+I scoffed.
+
+"You think that's all I'm going to ask for?"
+
+Florence frowned.
+
+"It isn't?"
+
+I steepled my hands.
+
+"Oh, I'm taking everything I can."

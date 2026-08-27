@@ -1,0 +1,197 @@
+---
+id: 85fe0970-90ea-52b4-b8a8-d24567e508a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80: Appraisal?"
+slug: 0080-chapter-80-appraisal
+partOf: phoenix-ascension-cultivation-litrpg
+position: 80
+ownLength: 2099
+unit: words
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2981973/chapter-80-appraisal"
+royalRoadId: "2981973"
+---
+
+I bought it without thinking, and the giant price made Xing Ya Chen’s jaw drop all the way to the floor. Even Yo Na looked shocked, and the little girl seemed at a loss for words. The price was fine, though, since I had money. It looked like there was another problem with the item, judging by Xing Ya Chen’s confusion.
+
+“What is it?”
+
+“Miss Fa Xiaolan… not that I should be telling you what to do with your money but…” He hesitated slightly, but when I shot him a  ‘Spit it out!’ glance.
+
+“The item you just purchased is… useless.”
+
+“What do you mean?”
+
+“It doesn’t do anything besides showing some numbers and letters nobody understands. No one who has used it could get that stone to work, and it becomes worthless after the first use. It’s just a gimmick item.”
+
+Then why did System want me to buy it…?
+
+I could only shrug. I already bought it, so there was no going back. It was probably being sent up as we spoke, so it didn’t matter anymore. If System wanted it so badly, it must have had a good reason.
+
+Besides, the most important thing was Shu Xu Ning and her items. That sword could use lightning Qi, which was a surprisingly good match for her, so that’s all that mattered.
+
+A sudden shiver ran down my spine as I thought about what other things she could get to get stronger when I felt a gaze through the walls. It didn’t last long, so when I turned, I was unable to detect who it was that tried to penetrate through the lounge’s formation.
+
+It seemed that I made a mistake in hastily spending so much money, though. A target had been created on my back, placed by someone with enough balls to break the courtesy of auctions.
+
+Just another thing I would have to deal with, it seemed.
+
+When I turned, the stone I bought had already been sent up, and I received it. In all honesty, it looked rather plain. It was just a white, shiny, oval-shaped stone the size of my palm. I could easily ignore it if I saw it on the side of the road.
+
+Is this what you wanted so badly?
+
+System didn't respond, at least not outright. It seemed that once again, it did too much, and talking anymore would draw the ire of whatever controlled it. I rolled my eyes internally and sent some of my will into the stone.
+
+It was only then that System gave me a prompt.
+
+[Would you like to integrate the [Appraisal Stone] into a new [Appraisal] function?]
+
+Now what in the heavens did that mean?
+
+Naturally, I said yes, and the stone disappeared from my hand.
+
+[Integration in progress…]
+
+[This may take a while.]
+
+[Please note that all System functions will still be usable while the integration is proceeding.]
+
+[The System will soft restart once the integration has been successful, and the user will be notified.]
+
+Such a simple thing required an actual cooldown? Just what…
+
+However, before I could think of anything else, the door to the lounge swung open, and a middle-aged man with a black beard invited himself in. He looked quite panicked, and after seeing me, Yo N, and the rest, he cupped his fists and bowed deeply.
+
+“Please forgive my intrusion, but there is news, and it is bad!”
+
+***
+
+A few hours earlier…
+
+Shu Wao Tu looked at the demonic master before him, his eyes wavering slightly. The fact that he could barely hold himself up made him feel even worse than before. How could he do anything when the simple act of standing up was too much for him?
+
+But what other choice did he have? If his little sister lost, the consequences that would follow would be too much for him to bear.
+
+He wanted to trust that female immortal, but she was just playing some type of game. He was sure of it. Why would anyone do so much out of the kindness of their heart? His little sister may not know the ways of the world, but he did, and that woman spelled trouble.
+
+Because nobody was that selfless.
+
+Taking on a motherly role for a pair of orphans? Teaching cultivation? Wanting to help a cripple? Even going as far as gifting a precious beast core? He could not believe that she could be so kind. She was either too bored or wanted to refine them into a pill through some twisted technique.
+
+Shu Wao Tu could only do one thing, and that was to end the dispute between him and the Chiao family. How he could go about that, he didn’t know.
+
+Begging for forgiveness? No, that was too much. But if it meant that Shu Xu Ning could be safe, he was willing to grovel, be,g and oink like a dirty pig.
+
+Yet, that wasn’t the path he wanted to take.
+
+What that woman deemed poison— the pill he swallowed— was the key to him ending this once and for all.
+
+So what if it came from a demonic cultivator? Hcouldn'tld care less about the source of his power if it meant that he could save his sister’s life.
+
+That’s what he wanted, that’s what he fought for, that’s why he stayed alive. He wanted to get revenge and to make sure his sister lived.
+
+It’s too bad, though. He thought, a bitter smile creasing his lips. That I may not be able to see her turn into a beautiful and strong woman.
+
+But if it meant that he could protect her smile, he would step into the gates of hell and make a deal with the devil himself.
+
+“Hello.” He stared at the devil, his eyes filled with determination.
+
+The demonic cultivator smiled back and nodded. “Are you ready?”
+
+Shu Wao Tu nodded, and the demonic cultivator placed a palm upon his forehead. “This is only temporary, but I can help you out later. This… will be interesting.” His slimy voice didn’t scare Shu Wao Tu, but the demonic Qi flowing from the man’s fingers into his head, brain, and body ought to have scared him.
+
+The pain he felt in that moment could only be described as atrocious. Information flooded his mind, and the once-shattered meridians began reconstructing themselves at an insanely fast pace.
+
+Shu Wao Tu knew, though, that it wouldn’t last. The information flooding his mind described what he was going through in detail, and the demonic technique’s most fatal flaw was that it would only repair them for half a day, then he would die.
+
+Of course, there was also a way to save him, and that was for someone else to intervene at any point before half a day was up. The method by which they could intervene was numerous.
+
+From expelling all the Qi from his body, to overflowing his meridians with their Qi and cleansing them, to forcing him to ingest the mythical pill that had been snatched away. Regardless of which method was used, though, his meridians would be in a complete state of destruction.
+
+Not even a Heavenly miracle could save them.
+
+He was fine with that.
+
+Shu Wao Tu’s meridians repaired themselves, and he chanted the method to use the pill he ingested at the same time. The method was naturally placed into his brain by the man as well.
+
+His cultivation base grew.
+
+First stage of Qi Condensation, second stage of Qi Condensation, third stage of Qi Condensation… fourth, fifth, sixth!
+
+It stopped at the seventh, after all the energy from the pill had been used. His face was red, his hair had turned white, and in the process, his nails also grew by an inch.
+
+The demonic man smiled, pleased at the result. “Not bad, the seventh layer… Master will be pleased with these results. I wonder what stage the fatty goes to.”
+
+When he mentioned the ‘fatty’, Sh Wao Tu knew exactly who the man meant. He grit his teeth, aware now that he had to face a version of Chiao Gu that had been strengthened by the same method as him.
+
+And he was fine with that. He was glad to be facing him because he was confident in killing him.
+
+And his father too, with the strength of his suicide explosion. No matter what he did, he had to make sure that his little sister was safe.
+
+“Let’s go then, I know you’ve been waiting for this.”
+
+Shu Wao Tu nodded and clenched his fists, overwhelming strength coursing through his body. He hadn’t felt so good in a while. Years, YEARS of being a cripple and having to bow his head, and now he would have his revenge.
+
+***
+
+“What the fuck did you just say?!” I yelled at the guy, who truthfully had no fault, but I was so angry in that moment that I could not do anything else, except for burning the whole place to the ground.
+
+“Miss Immortal, my big brother, how could he…” The little girl’s eyes swelled up with tears as images of what must be happening right now appeared in her head.
+
+That stupid guy…!
+
+I could not believe he broke my trust by going to the Chiao Clan and creating problems. All he had to do was stay put. How did he even manage to do that?
+
+“We’re going,” I said, picking the little girl up. Yo Na followed behind me, and the middle-aged man rubbed the sweat off his forehead as I stormed off.
+
+Rules be damned, if I could, I would just start flying. Damn the human form with no wings.
+
+I ran through the streets and quickly arrived at the Chiao Clan, then leapt the wall before any guard, if they even paid attention, could stop me. I didn’t have to guess where the fight was taking place, as the commotion was like a bright beacon during the night.
+
+I leapt over the buildings and arrived at what must have been the fighting arena of the Chiao Clan. Countless spectators shouted and cheered asQi'si attacks flew from one side to another.
+
+Inside the arena were Shu Tao Wu, his body brimming with Demonic Qi, and Chiao Gu, who was the same.
+
+These two…!
+
+Rage filled my body as the Demonic Qi in my body resonated with the one in the arena, vibrating with excitement at having met its kin. I quickly calmed it down with some lightning and rushed over to the Chiao Clan patriarch, who was sitting at the top of the arena on a large wooden chair.
+
+“Who the hell-?” He began, but stopped talking upon seeing Shu Xu Ning in my arms, and Yo Na landing next to me. “What the fuck are you doing?”
+
+I ignored his coarse language in front of a child and looked down at the arena, then gave him a confused look. “You can’t see it?”
+
+“See what? And who are you? Explain yourselves!”
+
+“Big brother…” Shu Xu Ning cried out while watching the two duke it out, neither of which taking it easy. They were at each other’s throats, fully and solely wanting to kill each other.
+
+“You’re a complete and useless waste of space.” I cursed at the patriarch while trying to think of a solution for this problem.
+
+On one hand, their demonification had not completely started, on the other, Shu Wao Tu was almost unrecognisable, and the fatty had put on even more weight. Both wielded demonic Qi, and their anger at each other made it even stronger.
+
+One way or the other, someone would die, and my quest would fail. While that was the last thing I wanted to do, I had a feeling that if Shu Wao Tu won, he would not be the same man anymore.
+
+And if the fatty won…
+
+I glanced at Shu Xu Ning, whose tears could not stop flowing.
+
+And in that moment, something strange happened.
+
+[Integration successful.]
+
+[Function: Appraisal fully integrated with Nemesis System]
+
+[Applying Automatically]
+
+Then, something appeared on top of Shu Xu Ning’s head.
+
+[Shu Xu Ning, Lvl 2 Cultivator]
+
+I immediately understood what this ‘Appraisal’ function was, even if not fully. I glanced down at the two in the arena, and sure enough.
+
+[Shu Wao Tu, Lvl 3 Demonic Cultivator]
+
+[Chiao Gu, Lvl 5 Demonic Cultivator]
+
+Besides those two, the spectator’s same details appeared as well. After a quick scan, something strange grabbed my attention, and I focused on a certain man in the crowd.
+
+[Shang Ling Zi, Lvl 18 Demonic Cultivator]

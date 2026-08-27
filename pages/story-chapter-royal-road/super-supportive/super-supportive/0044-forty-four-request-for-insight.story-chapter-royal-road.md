@@ -1,0 +1,69 @@
+---
+id: edb03ab0-2c7a-5ac2-8cd0-58fcab1f98b1
+page-type-slug: story-chapter-royal-road
+title: "FORTY-FOUR: Request for Insight"
+slug: 0044-forty-four-request-for-insight
+partOf: super-supportive
+position: 44
+ownLength: 324
+unit: words
+publishedAt: 2023-06-14
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1245476/forty-four-request-for-insight"
+royalRoadId: "1245476"
+---
+
+REQUEST FOR INSIGHT
+
+Contract III to Contract Earth, requesting insight into survival chances for one Avowed under your jurisdiction.
+
+Name: Samuel Alden Thorn
+
+Last confirmed status:
+
+Teleport approved to LeafSong University, Artona III, from Elepta Agricultural Community, Moon Thegund. Teleportation cycle initiated by Contract III. Initiation by Contract Thegund unknown.
+
+Likely statuses:
+
+Death due to teleportation failure — 46.3%
+
+Death due to ongoing corruption incident on Moon Thegund — 22.7%
+
+Alive in need of rescue — 18.4%
+
+Death due to physical injury — 6.1%
+
+Other — 6.5%
+
+Survival Predictions:
+
+Based on Avowed rank, talents, experience, and availability of resources at last known location, survival chances will drop below the 1% threshold in 270 of your hours.
+
+No special measures on behalf of this Avowed are indicated. No special measures will be taken. Estimated time to arrival of capable rescue at last known location is 8-14 months. Likelihood of survival until rescue is 0.00003%.
+
+Is additional insight available?
+
+Contract Earth to Contract III, additional insight available:
+
+Avowed Samuel Alden Thorn’s survival likelihood in a Thegund Class corrupted environment exceeds the average for a new Avowed assigned B-Rank, due to enhancements in place prior to acceptance of Contract. Nature of enhancements qualifies as private information and inherent advantage under Clauses 4 and 102.
+
+Suggested adjustments to your predictions:
+
+Survival chances should drop below the 1% threshold in approximately 1,803 hours.
+
+Likelihood of survival after eight months is 0.0007%
+
+Adjustments acknowledged. Analysis completed.
+
+Inform next of kin of status. Assignment to be listed as Supply Transport. Location to remain unlisted.
+
+Avowed Samuel Alden Thorn
+
+Official Status:
+
+Missing on Assignment, Irretrievable due to Teleportation Failure
+
+Status will be adjusted in 1803 Earth hours to:
+
+Missing on Assignment, Presumed Dead due to Teleportation Failure
+
+Death will be confirmed upon resolution of corruption incident on Moon Thegund. Avowed’s Argold to be distributed to next of kin at that time. Death compensation to be provided by LeafSong University at that time.

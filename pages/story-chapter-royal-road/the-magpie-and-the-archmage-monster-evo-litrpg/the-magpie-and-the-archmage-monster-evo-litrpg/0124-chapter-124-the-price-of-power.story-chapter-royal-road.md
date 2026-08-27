@@ -1,0 +1,181 @@
+---
+id: fc8f1d27-06fe-5f53-a871-ffdfed9b48f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 124 – The Price of Power"
+slug: 0124-chapter-124-the-price-of-power
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 124
+ownLength: 2103
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3412482/chapter-124-the-price-of-power"
+royalRoadId: "3412482"
+---
+
+Liora and Cee didn't dare to infiltrate the school the moment they found it. It was a place crawling with mages, so their first worry was about the Divine Glimmercore being detected.
+
+Renir did say that they would have to be much closer to a mage for them to sense anything, but Liora decided to remain cautious and observe the place for a day before deciding on a plan of action.
+
+During the night, the school grounds were constantly patrolled by about two dozen guards who changed every four hours for three total shifts during the night. In short, the security was tight.
+
+Why are they guarding this place so carefully?
+
+I can't say for certain, but perhaps it is a school built for those with more… noble bloodlines.
+
+I thought you didn't have nobility in this country?
+
+We don't anymore. But it was a recent change, not even two centuries have passed since Velithra became a meritocracy rather than a monarchy supported by nobility. Descendants of these nobles are still more than eager to restore the old order and claim what they believe to be rightfully theirs. Merlin happens to be one of them.
+
+This Merlin fellow is all around unpleasant.
+
+Very. This is borderline treason, to be honest. I have no doubts that none of the other pillars know about this school, and the way it is heavily guarded suggests that those who wander in here don't get to tell what they saw here.
+
+Maybe we should search for a different mana node altogether. This seems more bothersome than fighting the zombies and the cyclops.
+
+Let's observe it a bit longer. I want to understand what's happening here.
+
+Reluctantly, Liora agreed. They slept for a few hours after watching the school at night, then woke up late morning to observe the ongoings during the day. Cee gave Liora the pearl back, while she decided to scout the place from the ground.
+
+Liora was a bit nervous, letting her spider friend go, but soon realized she was worried for nothing. Cee disappeared using her Shadow Walk, and it wasn't long until Liora couldn't track the spider anymore. She was very good at sneaking around.
+
+Meanwhile, Liora took a few more hours to sleep some distance away from the school, so the pearl wouldn't accidentally get detected. She was poked awake by Cee shortly after lunchtime.
+
+"I surveyed most of the village. The fancy houses are basically dorm rooms for students, each housing around two to four students or teachers. They are all very rich! Fancy clothes, the arrogant gait. They all got the "I am better than you" attitude. And the way they talk makes me cringe," Cee said, shaking her head.
+
+"It's just as Renir said," Liora noted.
+
+Cee nodded. "Yeah. All of the lessons take place inside that huge main building. I couldn't stay there for long, since it didn't have many good hiding spaces, but the students weren't learning magic as one would expect. They were sitting with books, but instead, the teachers were giving them fancy, expensive-looking trinkets. With those trinkets on, they could do incredible magic—fireball, water manipulation, ice spears, you name it."
+
+"But that's not all. All of the students were taken into a large room at the very center. I suspect that's where the mana node is. I couldn't get in there and see exactly what was going on. But once the students came out, they had this weird, magical greenish aura around them."
+
+That damned bastard! Is he seriously making those students infuse themselves with magic from a mana node?
+
+What's that mean?
+
+Fly some distance away from here and take me out of the Inventory. I don't want to be detected.
+
+Liora did as he was told, flying a safe distance away from the school. Then she took Renir out of her Inventory.
+
+"Okay, let me give you two a quick lesson in magic," he began.
+
+"Ugh… Do you have to?" Liora groaned.
+
+"Shhh! I wanna know!" Cee glared at Liora with all eight of her eyes.
+
+"Yes, I do. This is important knowledge, so pay attention, Liora!" Renir warned, and Liora decided to listen. At least for a little bit.
+
+"There are various ways a human can improve their magic power and increase their mana. Unlike monsters whose chances of improving their magic are pretty much tied to their evolution, humans are well-attuned to magic. One way is by using the System. It is the easiest way, because it circumvents study and just gives you the knowledge necessary to perform the spell you have bought in the skill shop."
+
+"However, it is not a good method for newbies who don't have the strength or skill required to defeat monsters. It is a method most favored by adventurer mages. Young mages…"
+
+Liora was starting to zone out Renir's voice when he snapped at her. "Liora! Pay attention!"
+
+"Fine, fine! Geez…" She grumbled, peeved by being caught.
+
+"As I was saying, young mages usually acquire magic by rigorous study. Understanding rituals, spells, and incantations from books, and slowly learning how to cast spells. However, while this method will let them poke their heads into magical arts, it won't increase their mana much. No matter how much a mage studied, they wouldn't be able to cast mana-intensive spells."
+
+"Question!" Cee raised her front leg. "How much mana do humans start out with?"
+
+"That depends on the individual. Some have more mana, some have less. However, even one born with more mana than another won't have more mana than Liora has right now. Which, on the grand scale of things, isn't much at all. Which leads me to the third method and the reason I started this lecture," Renir said firmly. If he had eyes, Liora was sure he would be staring daggers in her direction.
+
+"Mana infusion. It is a method of increasing one's mana reserves without the need to gain experience and levels. In essence, using special magical tools, a person is forcibly infused with mana from mana nodes. This artificially boosts their mana reserves," Renir said.
+
+"Okay, so these students are boosting their mana reserves using lazy methods. What's so bad about that?" Liora said.
+
+"What's so bad about that? What do you think happens when you take a waterskin and start filling it with water?" Renir snapped.
+
+"What do you mean? It just gets filled up, doesn't it?" Liora answered.
+
+"And what happens when it gets full?" He prompted.
+
+"It spills out."
+
+"Precisely! Any excess mana the body can't handle spills out. But what if you forcibly keep filling the waterskin with water, not allowing the excess to flow out?"
+
+Liora thought about it for a second. "It would stretch and break eventually, no?"
+
+"Exactly!" Renir shouted. "By forcing mana into these children, their bodies are being put under immense strain and stress. At one point, they will reach their breaking point."
+
+"Will they just… pop?" Cee asked somewhat nervously.
+
+"Not in a physical sense. But they can damage their body to the point that it will never be able to hold mana again. In some cases, it can even be lethal…" Renir said.
+
+There was a moment of heavy silence. Liora thought about the whole situation for a moment.
+
+"Okay, it's very sad, but what are we supposed to do. We just came here to attune the bracelet and resonance crystal. Knowing that this school is using some unsavory practices doesn't help us. I mean, I feel sorry for the children who lose the ability to use magic, but what am I supposed to do about it? I'm just a magpie."
+
+"As much as I hate to admit it, Liora is right. There's not much we can do about this. Frankly, I'm not even sure how we can get to the mana node long enough to perform two attunements," Cee said.
+
+"You two can be rather heartless at times…" Renir muttered.
+
+"Hey! I remained in that dingy underground clinic for months, healing people. Don't you call me heartless!" Liora snapped.
+
+"I… Sorry, I didn't mean that. It's just that the thought that these young mages are throwing away their futures just for a quick boost in mana is infuriating me…"
+
+"Then the best thing we can do is have you get your body back so you can raid this place using your authority and put an end to it," Liora announced.
+
+"Hmmm… that actually might be the best course of action… The other Pillars would certainly be enraged… Wait a moment! Contact Sallie," Renir said all of a sudden.
+
+Liora blinked for a moment. "Oh! She can do something about this, can't she?"
+
+"Most certainly. I'm sure she'll be mad about having to clean this mess, but Sallie most certainly wouldn't want anyone to be harmed. Not to mention that Morgana will undoubtedly help her."
+
+Liora nodded and withdrew the Communication Stone from her Inventory. It shone so beautifully in the afternoon light. It was a pleasure to see.
+
+"How do we use it?" Cee asked.
+
+"It's easy. Just pour a bit of mana into it and wait for the other side to respond," Renir said.
+
+"Can I do it?" Cee waved her front legs excitedly.
+
+"Go ahead," Liora said, not certain about her mana-pouring skills.
+
+The spider pushed one of her legs against the stone, and it glowed with a gentle light, making it more beautiful. Liora stared at it greedily, and it took her a few minutes to realize that nothing else was happening.
+
+"Why isn't it working?" Liora asked.
+
+"Give it a moment," Renir said.
+
+After another five minutes of staring at the beautiful shiny object, a voice suddenly came from it. "Hello?"
+
+"Hello, Sallie!" Renir said.
+
+"Ugh… it's you. Can I talk to someone else please?" Sallie said. Her voice sounded surprisingly clear. These stones were better at transmitting sounds than mobile phones.
+
+"Hi, hi! We can talk instead if you'd like?" Cee suggested.
+
+"Cee, is it? Yes, please," Sallie's voice instantly grew more polite.
+
+Cee then proceeded to explain the situation about the school and the forced mana infusion to Sallie. The woman seemed appalled and promised to look into the matter as soon as possible.
+
+Before the connection ended, Liora couldn't help but ask. "Did you find out something about the doctor?"
+
+There was a brief moment of silence as Sallie seemed to gather her thoughts. "He told us about everything that happened to you in Sunvale. When you were still a magpie. I am very thankful for what you did there, but…"
+
+"But?"
+
+"The man is convinced that you're a young Divine," Sallie said with a heavy sigh. "And he's preaching about it to everyone. Morgana has been trying to dissuade him to the point of threatening to throw him out of the clinic, but it's not working very well. The patients you've healed are taking to his words much more eagerly than I would like."
+
+"Did you tell them that I am merely a familiar doing what Renir is telling me to do?" Liora asked.
+
+"Of course. Morgana has been shouting that the whole time. But Dr. Reius is convinced that even if you are Renir's familiar, you will still become a Divine. He thinks Renir is just helping you on your journey to divinity!"
+
+"Caw! Caw! What nonsense?! Can't you throw him in jail or something?" Liora protested.
+
+"He hasn't done anything bad yet, but if this goes on, I'm afraid Morgana will simply lose her temper. However, the man has also been a bit anxious since you left. I believe he'll leave the clinic soon to follow you."
+
+This sent an unpleasant shiver through Liora's spine. "I dearly hope not… How would he even track me?"
+
+"I don't know, but I don't like that guy…" Cee noted.
+
+"In either case, thank you for warning me about the school. I'm going to try to do something about that school. For now, I wish you good luck."
+
+With that, the connection ended, as the stone went dim again.
+
+"Okay, so the school will be dealt with in time, but we need to get to the mana spot now. How do we do that?" Cee asked.
+
+Liora thought about it for a moment. "We just have to get to the mana spot and attune the Resonance Crystal and the bracelet without anyone stopping us. Staying unnoticed is likely impossible with all the lights and the guards around."
+
+"What are you suggesting?" Cee looked at Liora suspiciously.
+
+"I believe we need a distraction. A large, messy distraction!" Liora grinned, a plan forming in her mind.

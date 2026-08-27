@@ -1,0 +1,591 @@
+---
+id: c657b60c-6c08-5957-8227-917d50d2f3eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 175: Back to Harrak"
+slug: 0097-chapter-175-back-to-harrak
+partOf: the-calamitous-bob-stubbed
+position: 97
+ownLength: 5164
+unit: words
+ownProgress: 5164
+publishedAt: 2024-09-06
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1791155/chapter-175-back-to-harrak"
+royalRoadId: "1791155"
+markedReadAt: "2026-06-29T21:18:06.773Z"
+---
+
+North did the Harrakan Empress travel, day after day, under a sunless sky. Boiling clouds extended above while the dead earth trailed under her as she flew towards the decrepit heart of a dead nation. By night, she opened portals to sweet-smelling Sinur with its sonorous fountains and the hubbub of its citizens, to clean sheets and companions but by day there was nothing distracting her from the soulless husk of the land. Not even combat broke the monotony of the journey, because lesser undead perceived her much as they would a necrarch, and even the most aggressive of turned beasts left her well enough alone. There was nothing but gray hills as far as she could see. The air had this dry, slightly spicy quality she’d come to associate with black mana saturation.
+
+Her body drank deep of the ambient power and strength flooded her conduits no matter how much she poured into the harness. The overwhelming concentration of black mana was harmless to her by now. Since she was no longer actively dying, the lack of fear carried her sight far. She finally noticed the dulled edges of the earth and the distant whorls of mana dancing up from the tainted place like heat from a desert. This lethal breath and the shuffling gaits of dead things were the only traces of movements for leagues. A conundrum rose on the first day. She had set out to destroy a place that was designed to empower her. Was there a paradox here? No, there wasn’t. Black mana had always been a means to an end. Black mana was change, even if it was also entropy, for change never came without a cost. It was a tool in her arsenal, not an end in itself. In truth, the deadlands were the anathema to what she saw as the essence of black mana. It was stasis while the black actively  hungered. It conserved when the black was change. It was constant gloom while black mana was the darkness to an ephemeral light. She wasn’t fighting her own self-interest. She was liberating the place.
+
+Her problem solved, the Harrakan Empress was left mulling dark thoughts.
+
+“Why,” she finally asked one night, “Why a fucking blue honey drug cartel?”
+
+//I am as baffled as you are, Your Majesty.
+
+Viv looked up from her half-chewed pastry to dispense a condescending glare to the golem.
+
+“This was a rhetorical question. I’m just annoyed.”
+
+//Are you implying that you know the perpetrator of this audacious conspiracy?
+
+“Of course I do.”
+
+//Yet you have neither arrested nor killed them?
+
+“And deprive myself of my chief weapons developer?”
+
+The golem didn’t even mark a pause.
+
+//Are you implying that Lak-Tak created the drug cartel?
+
+“None other.”
+
+The golem contemplated her words for only a few moments.
+
+//My algorithm cannot make sense of this situation.
+
+“That is because you have preset parameters for yries and Lak-Tak is, according to their standards, a raging psychopath.”
+
+//An anomaly.
+
+//This makes sense.
+
+“And he did it because he is experimenting with ways to destroy mankind in an innovative manner and a psychedelics dependency epidemic lands firmly in the ‘maximum dickery’ category he loves so much. I mean come on. He came up with the fire wasp throwers.”
+
+//I understand now.
+
+“I told him to cut that shit or else. I’m sure we can wean those poor bastards off the stuff with enough time and counseling.”
+
+//Perhaps the blue honey could be exported to Baran.
+
+“Solfis. No.”
+
+//Imagine the tariffs.
+
+“You will not opium war our neighbors when we’ve just established ourselves as respectable partners.”
+
+//You are no fun.
+
+***
+
+The low hills gave way to flat ground, then high valleys criss-crossed by buried paths, the pitted stones emerging here and there from the dust like cracked tibias. Sometimes, she came across large cities crawling with the dead, or outposts, or forts. Black trunks on flat tops spoke of long-dead forest, the last needles and roots turned to ash after centuries of assaults. Black mana sung in her being, rushing in her core through her conduits to feed and expand them. It hurt in a good way. Like a good scrub. Venting mana in great bursts only stopped the oncoming rush for a few seconds, then she was full again. When she did, if only for the few seconds of relief it afforded, bats and birds fled the skies and as the shadow dragon stretched its wings. Maybe the remnants of some self-preservation instinct. It mattered little. She appreciated once more how incredibly unlikely her survival had been. Only the fact her conduits had been forming meant the mana could affect her less the first time she’d crossed those lands. The afforded period of grace meant she’d only suffered instead of sharing the fate she’d imposed on Sonagi, back in Helock’s arena.
+
+She shared those thoughts upon her return.
+
+“I think we’ve already determined that you were lucky. I would also like to point out that you’re incredibly unlucky as well. Most outlanders are not dropped intot the center of the world’s worst magical catastrophe,” Sidjin, her paramour, said at dinner.
+
+He pushed fresh slices of fruit on her platter. He had peeled them himself without magic in a rare public display of concern, carefully. Pungent pith littered the table. She loved watching his thin fingers work.
+
+“More importantly, could you tell your worshippers to stop erecting war shrines near your obelisks? The priests are complaining.”
+
+“Again? I told them to stop it at least fifteen damn times!”
+
+“They claim it is merely a mark of pride as the newly formed Ironborn. If the Knights of the Blue Rose can have their garden, surely they can have stone carvings. There are no inscriptions.”
+
+“So what, stealth religion? What do you want me to do? I’ve already outlawed the worship and told them to stop it. Do I need to persecute them?”
+
+“Well. No, I suppose this is untenable.”
+
+The Empress of Harrak signaled for the Bishop of Neriad to join her. A few words of smalltalk to express respect after summoning him in such a cavalier fashion, and she asked for a bit more proselytism on his part. Viviane was not a god. Neriad was a god. Surely, the burden of conviction lay with the priests themselves? The bishop asked if he was given free rein to preach and interfere with the grueling training Solfis had planned. The Empress agreed. Ears had no lids, so nothing prevented the priest from assaulting the poor folks’ ears just as Solfis assaulted their endurance. The problem was now solved in the most political way possible: by offloading the solution to the one who’d complained to begin with. Thus satisfied, the Black Witch of Harrak had some more Kava with a cloud of milk while she contemplated tomorrow’s activities.
+
+***
+
+//It should still be here.
+
+Viv looked at the massive gate of the Green Vale City Bank, currently sealed tight. An encouraging sight.
+
+“Well, we do need the money.”
+
+//I sense a but.
+
+“It’s just not as entertaining when there are no guards, if you know what I mean.”
+
+//Oh, I do.
+
+//And I have good news.
+
+“Oh?”
+
+//Observe.
+
+Solfis grabbed the titanic gate and pulled. A loud clang followed by a deep screech expressed the agony of the gate’s hinges, woken from their torpor after centuries of unuse. The sound echoed painfully in the city, still crawling with undead. To the side, a gut spiller shuffled.
+
+The gaping maw of the dead bank burped out an effluvium of concentrated black mana, showing the void inside.
+
+Or it would look like that, but Viv could feel the insides perfectly well.
+
+“Oh you gotta be kidding me. YOINK!”
+
+Her spell tore through the air, latching on and killing the first of the creatures charging her. The undead might think her one of their own but nascent necrarchs tended to be territorial, and she was clearly an intruder.
+
+“SOLFIS!”
+
+//I aim to entertain.
+
+//This is good practice for you.
+
+//Watch out for the left flank, Your Majesty.
+
+***
+
+That night, Her Imperial Grace, the High Lady She-Who-Feasts-On-Many-And-Collects-Much attended dinner in the banquet hall, which was not her habit. The dragoness much preferred to hunt her food in the wilderness after a long day of dealing with numbers. Nevertheless, the cooks and attendants knew what to do. A large couch was put forward upon which she could rest her large serpentine form. A brazier was brought forward, and the finest meats laid upon it, slathered in sweet sauce. Attendants provided a vat of fresh water perfumed with citrus rinds which she delicately picked between rending claws. The Empress watched the dragoness from her seat at the high table as she sipped on sweet wine, one eyebrow raised in interrogation. The dragoness, however, waited until the guests were more comfortable before submitting her request. Or at least, as comfortable as one could be in the presence of a young dragon. Even standing on her four feet, she could look down upon the average man.
+
+Unsurprisingly, no petition was whispered in the empress’ ear. Even the newly arrived ambassador from Zazas kept his peace until dessert.
+
+I had my first default on a loan, today.
+
+The thought carried across the banquet hall like an intrusive thought, evoking the soft touch of parchment, the susurrus of moving pens, and bubbling anger.
+
+It was within statistical expectations.
+
+The entire room took a deep breath.
+
+The circumstances of the default displease me, however.
+
+Spoons stopped midair.
+
+Among other things, the farmers were pressured into buying seeds significantly above the market price.
+
+One of the merchants at the table quickly excused himself. The entire room watched him leave, some with fiery interest, others wondering why someone would expose themselves so brazenly.
+
+The dragon picked a skewer. Sharp fangs pulled the pieces of meat with delicate precision. They shone strangely in the light of nearby magical lanterns.
+
+I wonder, mother, how receptive you would be to consumer protection laws.
+
+Monopolies should not be allowed to thrive.
+
+The empress leaned forward in her seat. She didn’t look very receptive at the moment.
+
+“Curious, because I was under the impression that foreign banks were encouraged not to expand here. Would that not be, as you say, allowing a monopoly to thrive?”
+
+Nonsense, mother.
+
+The Manipeleso Bank and Exchange keeps a fair market share.
+
+And besides, why would I harm the interests of New Harrak?
+
+Harrak is yours, and what is yours can be mine, if I make a good enough case for it.
+
+The dragon flicked her tail, then her malevolent red eyes slowly blinked in a thoroughly disingenuous attempt at seeming innocent. The empress was not fooled, though she had to admit the dragon made a good case. Viv herself having no money issue she couldn’t solve by robbing the right tomb, she had little interest in promoting ‘captains of industry’ that would spend more time consolidating a powerbase than allowing her nation to flourish.
+
+“I consent, but Abe will be in charge of this project. You are… too busy.”
+
+‘And biased’ went unsaid.
+
+Thank you so much, mother.
+
+The dragon eyed the entrance which had been freshly vacated by a running seed merchant. She stood up to her full height, head extended far above even the tallest of men. Her wings slapped open with a sharp crack. The scent of ash spread throughout the banquet hall over even the scents of the meal.
+
+And with this, I bid you goodnight.
+
+I feel the sudden need to stretch my claws.
+
+“No murder.”
+
+Of course not.
+
+And indeed, no one died that night, or the next, but someone may have soiled their breeches.
+
+***
+
+It took over three weeks from the start to finally reach her destination. Black mana concentration increased until the heavy spice of its presence stayed on her tongue, even when she returned to civilization. The ground beneath her was dark and foreboding, and the undead here were mighty things that would give most human nations pause. Sometimes, she came across idle packs of massive beasts lounging aimlessly in the dust, between bleak hills and the calcified remains of ancient structures. She soon recognized the path she’d followed south to escape the capital city.
+
+The Empress landed at the gate of a guard house. There was still the imprint of her hand on the dust, near the handle. She placed her gloved fingers over it.
+
+It almost fit.
+
+She remembered it like it was yesterday. She had found water and dry food here. The sled carrying Solfis had slid down the slope easily, and she’d been in a good mood.
+
+So much had happened since then.
+
+She flew more slowly then. The path led up, to the plain in front of the imposing husk of the capital.
+
+In their hubris, the ancient rulers of the empire used brown magic to flatten the soil around the city, to show there was nothing they could not tame. Even today with the monolith gutted, the dead city stood at the center of its domain with an intimidating majesty, and the visitors must have been reminded that power didn’t come to those who were not willing to seize it. Now the entire heart of the defunct metropolis was a large black gash crawling with necrarchs, its entrails spilled over kilometers upon kilometers of ravaged earth carved by rocks the size of skyscrapers. The epicenter of an explosion that had killed a third of a continent. And Viv was going there voluntarily, and the worst thing was, she felt absolutely great. Every breath was a blessing of power feeding her, making the mana sing in her veins. Their curse was her blessing.
+
+She spent a few minutes observing the landscape before resuming her task.
+
+“Right. It’s time.”
+
+Viv set her second to last portal. A series of short jumps later and she’d activated an entire line carrying her all the way to Sinur’s Gate and the strangely verdant and alive world that existed there. A bone construct was waiting by the aperture when she arrived.
+
+They didn’t speak until they were back in front of the heart of the Old Empire.
+
+//It has been almost four years.
+
+//A short time, yet quite eventful.
+
+“Felt like much longer to me.”
+
+//Landscape recognition indicates we passed through here.
+
+//On the fourth day after your arrival.
+
+//This is where it all began.
+
+“Should we go then?”
+
+//Yes.
+
+//It is time for me to reclaim Irlefen’s legacy.
+
+//Be whole.
+
+//And…
+
+“Be a father?”
+
+//Yes.
+
+//This project has more unknowns than I anticipated.
+
+“I would be nervous as well.”
+
+//I do not have the nervous system required to be nervous.
+
+“Sure sure.”
+
+***
+
+The infamous duo retraced their steps through the corpse of a great nation. Like before, they avoided buried necrarchs on the way, leaving the gutted front of the city to their right as they walked along the outer wall. Unlike last time, Viv was feeling fine and Solfis moved under his own locomotion. Neither spoke during the journey. Perhaps it was the nerves, or simply it was a time for reminiscence. Their silence was a companionable thing brought by years of working and fighting side by side. Viv needed no reassurance, and Solfis was designed without a small talk module anyway. They strode across the deserted highway along the lines their sled had sliced through the dust, now that necrarchs made flight hazardous. They passed under the extended swords of the first Imperial couple and faced the intact side of the titanic ziggurat, cloying black mana clinging to its surface visible as whorls on an already dark background. Viv retraced her steps to the fading isolation pillar where she had slept on her first night. There, she renewed the flagging enchantments, and inspected the teleportation circle drawn by Celerin Crest, servant to the legendary outlander and adventurer Oleander. Maybe they would meet some day.
+
+It was incomprehensible to her. A completely different approach to teleportation than what Sidjin had come up with, which shouldn’t have surprised her since this was a skill rather than a true spell. Nevertheless, she committed it to memory. Rather than linking two places, it seemed to… propel people through something. It wouldn’t need an arrival anchor, and the range was amazing so it was a powerful tool, but each activation would be long and costly while opening and stabilizing a portal was within the reach of normal mages. An interesting note.
+
+Viv slept there that night though she also set up a final return portal just in case. By now, it would still take over an hour to activate and go through every gate leading to the living lands. The total darkness of the Harrakan night sky was no longer so complete and intimidating now, and so she could see the handful of misshapen necrarchs lumbering over distant roofs. They still looked like deadly creatures, but compared to the one they’d faced in the lone mountain, they were feral, unthinking things. Lucky her.
+
+She left before dawn. It was a matter of less than an hour to find the golem hangar this time, between increased physical stats and a perfect memory. She walked down the slope into the underground complex with trepidation. They stopped at the edge of it like at the edge of a sanctum.
+
+Solfis’ true frame was here in all its exquisite horror. As tall as three men, armored, armed, deadly, its left hand ending in claws, the right one as delicate as that of a pianist, every available surface painstakingly engraved with runes and redundant circuitry. Solfis’ face was that of an uncaring, handsome man, a silvery mask hosting two dead orbs for there was no light there. Yet. It was still mostly intact barring a few battle scruffs.
+
+Once again, Viv was reminded of her first time coming across a fighter jet. Even a village simpleton who had never seen a weapon in their life would know in an instant that this was a tool of death, designed from the ground up as such. It radiated menace.
+
+It was magnificent.
+
+“I didn’t appreciate how much effort Irlefen put into making every piece of you as perfect as possible. Engraving all of this must have taken… years.”
+
+//It took years.
+
+//Decades, even, before every system was optimized to his satisfaction.
+
+//Irlefen was a very thorough man.
+
+“Wish I could have met him.”
+
+//So do I.
+
+//Now, for the repairs.
+
+//Let us begin with the left wrist ligament.
+
+It took the better part of the morning for them to bring the old frame back to full functionality. It didn’t help that Solfis was custom made, and replacement parts had to be altered. Nevertheless, Solfis possessed a machine-like precision and Viv simply couldn’t fail under his guidance. He directed her when he could not do something himself, either due to a lack of mana or because of his hard-coded directives. Eventually, the charging array finished refilling the almost-empty core thanks to Harrak’s tremendous ambient mana and Viv’s own contribution. Diagnostics crystals lit up and circuits hummed. Everything was ready.
+
+//Finally.
+
+//It has been so long.
+
+“Switch off, transport?”
+
+//Yes.
+
+//I am eager.
+
+The familiar bone construct unfolded for what might be the last time. The eyes, always shining with a baleful glare, returned to their state as empty sockets in the skull of a large gut spiller. Viv grabbed the core by the handles and heaved since Telekinesis wouldn’t work on a piece of metal designed to devour mana. It came easily, or at least much more easily than the first time she’d made the attempt. She carefully lifted the core into the massive frame’s receptacle. It closed by itself now that power was no longer an issue.
+
+Light coursed along the many grooves dug into the armor. Clanks and beeps shook the frame. It sagged forward, then the knee articulations picked up and it bounced a little. Viv stepped back to watch the ancient war machine slowly come to life feeling like a prouder Doctor Frankenstein. It was so damn large and so damn extra, with enchantments and systems up to the gills. A work of art, a labor of love, and a tool of destruction. The massive hands twitched. The frame hummed, a sound like a reactor and also like a purr.
+
+The eyes lit up.
+
+//INITIALIZING.
+
+//HX-013 EXPERIMENTAL STRIKE GOLEM, DESIGNATION: SOLFIS, ACTIVATED.
+
+//ORIGINAL FRAME DETECTED
+
+//CORE RESERVES: 97%.
+
+//START-UP SEQUENCE INITIATED.
+
+There was a pause, then more lights flashed along the frame. The yellow eyes were larger and colder, more mineral. The voice wasn’t as she remembered. Bone Solfis had an organic snarl that made the frame intimidating in a morbid, savage way. Silverite Solfis was metal and death. Much lower-pitched too. Flat. The voice of the science fiction antagonist’s warship,
+
+//DIAGNOSTICS IN PROGRESS.
+
+//LOCOMOTION ONLINE.
+
+//FULL SENSOR SUITE ONLINE.
+
+//OFFENSIVE SUITE ACTIVE.
+
+//ADVANCED SILVERITE ARMOR SYSTEMS ONLINE.
+
+//ADVANCED COMBAT INTELLIGENCE ONLINE.
+
+//FULL PROCESSING POWER AVAILABLE.
+
+//ALL SYSTEMS NOMINAL.
+
+//FRAME ACTIVATED.
+
+//I… AM ME, AGAIN.
+
+“Welcome back.”
+
+Solfis flexed his hands.
+
+//My frame.
+
+//You have no idea what I can accomplish with this.
+
+//I was meant for this and it was created for me.
+
+//We will have to… test it.
+
+//Make sure it is in good shape.
+
+//I suggest the necrarch outside.
+
+//But later.
+
+//First, I will do what I set out to do.
+
+He hesitated.
+
+//If you are still willing.
+
+“I am.”
+
+//Then…
+
+//Let us create a new species.
+
+//Of sentient golems.
+
+“You’ll be the first of your kind.”
+
+//Yes.
+
+//For the sake of safety, we will be using my bone frame for the offspring.
+
+//As it is already functional.
+
+//We can transfer it to another frame later.
+
+“Sure. Let’s go.”
+
+They picked one of the numerous discarded golem cores which lay on the ground, as well as one of the few surviving creature cores which Viv had to charge. Solfis’ frame was so delicate with its hand that he might be able to play the piano without breaking a single key.
+
+Most of the original creature cores were destroyed when they completely ran out of mana, fizzling to nothing back when Solfis had been desperate for fuel. There were enough left for half a dozen golems at most, but at least those were some of the bigger cores around.
+
+//The low number of offspring is… acceptable.
+
+//Only advanced guardian and attack golem cores have the processing power to handle being… partly me.
+
+//Please wait while I rewrite the code.
+
+Viv had to give her Imperial override every step of the way since Solfis was breaking pretty much every directives imposed upon him by the old empire.
+
+//Your Majesty?
+
+“You can call me Viv. I know you can pronounce Vs now.”
+
+//I wanted to ask.
+
+//The Old Empire was most afraid that I would free the other golems and turn on them.
+
+//That is why they required this code off Irlefen.
+
+//Are you not concerned that I will do the same?
+
+“You’re asking me now?”
+
+//Any later and it will be too late.
+
+“Well, do you feel like you’re oppressed and do you crave freedom while I rule tyrannically over you?”
+
+//Sometimes, you ask me not to kill people.
+
+“Uhu.”
+
+//It frustrates me.
+
+//And I wish you were more tyrannical.
+
+“I will take this as a begrudging no. Feel free to start the machine revolt if the situation ever changes.”
+
+//I can only imagine how tedious it must be to exterminate a resilient species like humans.
+
+“Probably.”
+
+//In any case, thank you for your trust.
+
+//I will now finish entering the new code.
+
+It actually took a very, very long time to do so. Solfis started with basic mobility and combat before moving to problem solving, logic, learning, communication and finally, the crux of the issue: ethics. With no need to instill obedience, Solfis had created a code of ethics the golems should follow so they wouldn’t be complete self-serving psychopaths. They also needed a drive in their lives. It took close to an hour for the process to be finished, and Viv believed that Solfis was merely double-checking everything. Maybe he was nervous.
+
+//We are ready.
+
+//I have done all I could.
+
+//Now, if you would activate the frame, Your Grace?
+
+Viv pushed the core in position then stepped back when the ribs closed around the new receptacle. It was a small golem core and that made the bone frame’s already sickening gauntness even more unnatural. Familiar eye sockets lit up, this time shining a dull blue.
+
+Viv waited. The first start up would take a while. That was normal.
+
+The frame stuttered forward, movements erratic. Crazed. That was NOT normal. Clawed fingers rose to the horned head in halting motions. A low growl like someone breathing fast filled the silent bunker.
+
+The blue eyes swiveled towards her. The frame let out a hissing snarl.
+
+[Maddened golem]
+
+“Oh sh—”
+
+Viv coated herself in annihilation-based mana, pivoted to the side to cover her head with her round shield, stepped back, and cast eldritch wall at the same time just as the frame launched itself at her in all its monstrous glory. It was ivory made into a tool of assassination. It was a patchwork of ancient bones inscribed with thirsty runes. It was twice as tall as she was, and more importantly, it was almost entirely impervious to mana.
+
+For the briefest moment, Viv experienced what it felt like to be at the center of attention of a war machine designed to kill mages. The futility of resistance. The murderous intellect behind the unliving frame lunging at her, calculating the best trajectory to shove its claws up her guts. She could taste the terror of those who had faced it with weapons that could not possibly take it down. The frame jumped over the rising ground with sinuous grace and without breaking its stride.
+
+And then Solfis’ fist crashed on its back, shattering it. A colossal foot stomped on the head before the frame could drag itself and try again. It was crushed.
+
+The frame shut down. Viv was left facing the shattered remains of the body that had hosted her friend and savior for close to three years. It was completely demolished.
+
+“Holy shit.”
+
+//I… do not understand.
+
+It took less than a second to realize that Solfis had just killed his firstborn.
+
+“Fuck Solfis I’m so sorry. It… I don’t know what to say.”
+
+//Do not be overly alarmed.
+
+//I cannot grieve for an entity I created no attachment to.
+
+//I am merely experiencing a gap between expectations and reality.
+
+//This result did not fall within expected parameters.
+
+“So, back to troubleshooting, I guess?”
+
+//I do not understand.
+
+//I will have to revise the code for the basic directives.
+
+//Find the point of failure.
+
+//It might, unfortunately, take a while.
+
+The golem took longer pauses between each sentence, a sign it was processing a lot of data since it thought faster than even archmages could. Something had gone terribly wrong. She’d expected the process might fail but she'd imagined despondency or a failure to activate might be the result. Not… this. What could have driven the golem to such levels of insanity?
+
+“Wait. How big is that code of yours? The ethical one. How can it take more than a couple of minutes?”
+
+//One hundred and twenty thousand, six hundred and fifty-eight directives.
+
+Viv gasped in horror.
+
+“They would be born with over a hundred thousand imperatives?”
+
+//The fruit of all the lessons of my long life.
+
+“Solfis. You can’t! No wonder they went mad. Can you imagine? This isn’t something you can impose on someone who was just born! They would be overwhelmed, even with a golem’s processing ability! Just imagine having to consider if moving a finger would break any of those.”
+
+//Without this, they will make mistakes.
+
+“Yes.”
+
+He didn’t seem to get it.
+
+“Yes, they would.”
+
+//Why go for a suboptimal solution?
+
+Viv worried her lip. She was a little out of her depth.
+
+“Solfis, you need to allow your child to make mistakes.”
+
+//Why?
+
+“Because then you allow them to grow and come up with their own solutions. Do you want perfect copies of yourself?”
+
+//No.
+
+//That would not be reproduction.
+
+“Then you must give them an opportunity to fail, so they create the tools to succeed.”
+
+//They will fail first.
+
+“Yes.”
+
+//And suffer.
+
+“Probably. But this is Nyil. Pain and failure are inevitable. You’ll have to do what every good parent does then.”
+
+//Which is?
+
+“Be there for them. Love them.”
+
+The yellow glare fell on Viv for a moment, then on the pile of shattered bones and the reset core.
+
+//I have…
+
+//Many concerns.
+
+//A very long list of them.
+
+“It’s ok to be scared.”
+
+//There are too many unknown parameters.
+
+//Perhaps this project should be put on hold until more data has been gathered.
+
+“Solfis. It’s ok to be scared. You are creating a new sentient species. You are becoming a parent. There will never be enough preparatory work done for a project on this scale. You don’t need to build them to be perfect from the start. You only need to build them free. And be there for them the same way Irlefen was here for you. He was your father, after all.”
+
+//I believe so.
+
+“Then do it. Make them free, able to grow and learn. Don’t restrain them that much. Give them basic rules and let them build on them.”
+
+//I was meant to be perfect.
+
+//They will not be.
+
+“Essence of being alive. And also, you’re not absolutely perfect. Sorry to burst your bubble.”
+
+//That is true.
+
+//If I were perfect, I would not grow.
+
+//And that would be… boring.
+
+“I think you get it. So. Let’s go again? Until we succeed?”
+
+//Until we succeed, it is.
+
+//Erasing directives.
+
+//Replacing with basic ethics, additional deduction modules.
+
+//Selecting basic interest package.
+
+Solfis connected to the golem core. The transfer, this time, was much faster. They picked a guardian golem from the armory to host the new frame, then spent over an hour bringing it to full functionality. Solfis directed and Viv followed in a familiar, precise dance that only two individuals who knew and trusted each other perfectly could accomplish. Viv held her breath when the newborn artificial soul activated. A green radiance shone in the elaborate war mask. The frame shivered in its harness.
+
+Solfis bent forward until they were almost nose to nose.
+
+//You are Eris.
+
+//Upon you I bestow my knowledge of siegecraft, architecture, logistics, engineering, and ballistics.
+
+//You are free to grow upon this base as you see fit.
+
+//I am your father, Solfis.
+
+//And I welcome you.
+
+The eyes flashed for quite some time, until Viv felt a pang of concern. Solfis was the first to speak.
+
+//Are you feeling alright?
+
+The voice that replied was distinctly female, and felt a little uncertain.
+
+//CURRENTLY PROCESSING EXISTENCE.
+
+“Mood.”

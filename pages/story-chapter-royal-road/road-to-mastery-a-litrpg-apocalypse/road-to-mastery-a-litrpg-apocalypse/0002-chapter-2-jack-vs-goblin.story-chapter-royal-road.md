@@ -1,0 +1,191 @@
+---
+id: 53283f9f-0213-5a8a-ac2c-621578e46601
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Jack vs. Goblin"
+slug: 0002-chapter-2-jack-vs-goblin
+partOf: road-to-mastery-a-litrpg-apocalypse
+position: 2
+ownLength: 2433
+unit: words
+publishedAt: 2022-11-17
+link: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042789/chapter-2-jack-vs-goblin"
+royalRoadId: "1042789"
+---
+
+The goblin rushed in, and Jack rushed back. It was faster.
+
+Claws raked against Jack’s forearm, which he raised to defend, drawing three thick lines of blood. He groaned—the pain shot fire into his nerves, jolting his entire body. The feeling was immediately subdued. Instincts he didn’t even know he had kicked in, dulling the pain, translating it into fuel to push him forward.
+
+He grabbed the goblin’s wrist with his other hand and tossed the entire creature away like a ragdoll, but it only took a few steps before regaining itself. It jumped right back into the fray.
+
+Jack gritted his teeth as he surveyed the space around him. Though he had moved, he saw nothing he could use, not with a cursory glance. No rock, branch, or even a stick. Even his flashlight was buried under the pond.
+
+MAGIC! he screamed to the blue screens. If they could summon a goblin out of thin air, they could certainly give him the ability to shoot fire. Unfortunately, nothing happened.
+
+The goblin was upon him again. Jack panicked, swinging wildly and missing, only clipping its shoulder. The impact was enough to push the little fucker away, but it returned with renewed force, and this time, its claws raked across his upper chest, barely missing his throat.
+
+Jack paled. As the goblin jumped at him, sharp teeth open to tear him apart, time slowed down. He could feel himself growing weaker. He could feel his heart shiver and the world closing in on the goblin—the little green ball of hatred that was going to kill him.
+
+The realization settled in: I am going to die.
+
+Suddenly, the world flared. Jack’s entire potential as a human was unleashed and directed towards survival. He could feel his body surge with power, power he was already using but wasn’t conscious of. He had thrown the goblin many feet aside. He was strong, and it was just a little green ball of claws.
+
+As death approached, something clicked in Jack’s mind, something he didn’t even know he possessed. His primal instincts stepped in and took the wheel. His thoughts rolled by themselves. He didn’t care about injuries. So what if he bled? It was acceptable as long as he killed the goblin and lived to see another day.
+
+The irrelevant disappeared; Jack got serious. He clenched his fist, and the raw power shocked him. His body outputted strength he couldn’t even fathom. He felt fast, incredibly strong, and inexhaustibly tenacious. His pupils dilated, his fists tightened. His skin tingled. All his muscles buzzed with electricity. The cold terror in his heart became the fuel that drove him. Fear gave way to ecstasy.
+
+He was ready to fight. Jack became a beast.
+
+He didn’t know how to punch, but his body did. His fist smashed into the goblin’s face, cracking its long nose and throwing it back before it could reach him—he had the longer arms, after all.
+
+Jack realized that his fist was in massive pain. Correction: his body didn’t know how to punch, either. But it didn’t matter.
+
+Just as the goblin got its footing, he pounced. He would kill it.
+
+He fell on it like a wild animal. He didn’t care about the scratches he received, the pain, the blood. These all washed away into the back of his mind. He balled his fist and drove it into the goblin’s face again, smashing it hard into a wall. It screamed, but the sound only gave Jack hope. He tried to pin it to the rocks, but it slipped under his grasp and jumped to the side. Claws raked him again, cutting his belt, but he didn’t care.
+
+He stared at the retreating goblin, whose eyes were filled with hatred and fear, and charged after it. He realized he was grinning. He didn’t know what he felt, but he didn’t need to. Everything was easy. The violence was rising from inside him, and he was just its conduit.
+
+There was something cathartic about violence, about the silence as every fiber of your being focused on a single task. Jack had never felt so complete, so happily monolithic. There were no worries, no fears, only a body that brimmed with ecstacy and a cold, calculating mind that inspected everything at impossible speed.
+
+Jack’s shoes tilted to perfectly hug the uneven stone, and his body turned with impeccable balance. The goblin threw a feint, but he saw through it; as it turned, it didn’t find a target, only a fist getting planted hard into its face.
+
+The goblin flew off its feet and into the wall behind, losing its balance, and Jack was there. He used a hand to pin it to the ground and another to pummel it, channeling the entirety of his newfound strength into driving his fist into the goblin’s face repeatedly and as hard as he possibly could.
+
+Bones cracked and groaned—some his, some the goblin’s. His every punch felt heavy, his every strike devastating. The goblin resisted for a while before going still, but Jack punched a couple more times before stopping.
+
+Absentmindedly, he realized he was out of breath, in terrible pain, and several parts of his body felt wrong. His brain calculated everything with cruel precision. It reviewed his situation, then scanned his environment for solutions. His belt and pockets carried nothing of significance. He had to patch up the big wound on his forearm, where blood was flowing, and he had to do it now.
+
+He tore his sleeve—how easy it was—and wrapped the fabric, tightening it so hard it hurt. His shirt was wet with blood at places, so he just removed it. There were more wounds on him, but mostly insignificant—the goblin had missed all major arteries.
+
+He was stable, and the enemy was dead. He was fine.
+
+A single fluttering of relief filled Jack’s heart, and his battle mode receded as quickly as it had come. He was left shivering, cold, and breathless. The pain came in warm waves, and kneeling as he was, he failed to stifle a cry as his leg rubbed against the ground.
+
+“FUCK!”
+
+What the hell just happened?
+
+The wretched sight of the goblin corpse entered his vision, and suddenly, he realized what he had done. He bent to the side and retched on the stone, the hot bile’s burn accompanying the ones on his limbs and chest.
+
+He cried.
+
+***
+
+It took a long time for Jack to regain himself. The pain receded, and the blood stopped flowing. Jack was left sitting on a rock, holding his head between his palms and trying not to stare at the mangled goblin corpse.
+
+He hated what he had done. No—he wasn’t sure what he felt. Trying to get his thoughts in order was futile.
+
+So many things had happened, and in such a short timeframe: Blue screens had appeared, magic everywhere, a pond had formed out of nowhere, a magically-spawned goblin tried to kill him, and he punched it to death instead.
+
+Jack had a steady mind. He could comprehend the blue screens and their magic, or at least accept them. By now, he knew it wasn’t a dream; the world had changed irreparably. Be it aliens, AI, something else, or everything at once, something had happened, and it had altered the course of his life forever.
+
+He could work with that. He could fit it into the frame, somehow. He could even accept the fact that a dungeon had spawned around him, filled with goblins and who knows what else, and that he had to slay a so-called Dungeon Boss to escape.
+
+Those were all things he could comprehend.
+
+However, the version of himself he saw… That wasn’t easy to swallow.
+
+Those feelings had saved him, but they had come from somewhere deep inside him, a place he couldn’t even perceive. They had flooded him out of nowhere, and he had no control—they were part of him, and at the same time, they weren’t.
+
+It wasn’t a bad thing—he had survived, after all—but he had never before realized how deep the lightless region inside him was. How much control it could have over him.
+
+Were those things part of him, or dark passengers?
+
+Jack did not know. His mind had been ravaged by an unknown companion, and he could still feel its effects. Even as he sat here, away from immediate danger, he remained aware that more goblins could show up at any moment.
+
+Whatever was happening, he had no time to lose, and the callousness permeated his mind even now. His eyes were hard as he stood. He had to survive.
+
+He took in everything again. The goblin corpse had stopped upsetting him by now, at least to a degree, and he had things to consider.
+
+So, no magic. The world has become a video game and I’m trapped in a dungeon. OK. What now?
+
+An exclamation mark was blinking in the lower left part of his vision, and he finally willed it open.
+
+Level Up! You have reached Level 2.
+
+That was it. No acknowledgment of his bitter struggle against the goblin, no words of compassion or comfort, no explanations; only cold information.
+
+Of course… He frowned, shaking his head before proceeding.
+
+First Kill Bonus: Fistfighting (I) skill!
+
+At this, Jack paused to think. Skills were a common element in games, and the System seemed to follow those conventions pretty faithfully so far. Was it a coincidence, or something deeper?
+
+And, at the end of the day, had the world really turned into a game? Had he been drawn into one? It didn’t make sense, but it was hard to disagree with the goblin corpse in the corner. He couldn’t ask anyone else either—his cellphone didn’t have signal in the cave, and he sure as hell wasn’t going out there unprepared.
+
+He could only depend on himself.
+
+Fistfighting… Curiosity sprang inside Jack. He reviewed his status screen.
+
+Name: Jack Rust
+
+Species: Human, Earth-387
+
+Faction: -
+
+Grade: F
+
+Level: 2
+
+Physical: 4 (+)
+
+Mental: 7 (+)
+
+Will: 6 (+)
+
+Free points: 2
+
+Skills: Fistfighting (I)
+
+His Level was 2, indeed, and it was clear that the level-up gave him two free points. He could add those in either of his stats, as indicated by the plus marks.
+
+If this really was like video games, adding those points would make him faster or smarter. Taking a step further, he could make himself a better warrior or an…intellectual? Wizard?
+
+Probably wizard.
+
+He refused to believe there wasn’t magic—he just didn’t have it.
+
+In video games, it was better to focus on one path; better a master of one rather than a jack of all trades, even though his name was Jack. Given his current stats, as well as his knowledge of himself, Jack was clearly more gifted in mental endeavors than physical ones. It also worked with his desire—and childhood dream—to one day wield magic.
+
+Unfortunately, the fact remained that he currently had no magic or promises of getting it anytime soon. The only thing he had, besides the promise of more goblins, was the ice pond, an E-grade natural resource, whatever that meant:
+
+Ice Pond (E-Grade)
+
+A hidden resource of the Forest of the Strong. The piercing cold of the Ice Pond can heal and forge a cultivator’s body. The deeper you go, the more painful the cold, and the more effective the forging.
+
+However, even this pond only spoke about the body.
+
+It was quickly dawning on Jack that he couldn’t follow the path of magic. He needed something to defeat the Dungeon Boss and escape, and that something could only be his fists—or, even better, some weapon.
+
+However, before committing to anything, he focused on his only Skill, Fistfighting. If this really worked like a video game, he could—Aha!
+
+Fistfighting (I): Grants basic knowledge of fistfighting. While fistfighting, slightly enhances the user’s physical attributes, reflexes, and kinetic vision.
+
+It was promising, as well as ominous. If this skill’s description was true, the System could mess with his entire body and brain… Jack didn’t like that, but, at this point, it felt expected.
+
+At least the skill was good. He clenched his left fist and already felt more confident—he understood why he’d almost broken his right one on the goblin’s face. He adopted a fighting stance—another gift of the skill—and punched the air, boxing against his shadow in the ice pond’s glow.
+
+He felt different. Stronger. Aware. He was like an amateur boxer—not really a master, but familiar with the movements and how his body moved. It wasn’t a stunning difference, but if he met the goblin again, he was confident in demolishing it—well, more easily than before.
+
+He chuckled darkly. How quickly I adapted…
+
+However, there was no choice. He had to adapt. Something was happening, and even if he didn’t know what, he knew it could kill him. It would, if he let it.
+
+I must get stronger.
+
+This new skill was a great boon to his survivability—not just because it increased his attacking power, but mostly because it gave him better control over his body and awareness of the situation. He could avoid injuries, which was essential to his survival.
+
+The only downside was that it required fistfighting, which meant he couldn’t use a weapon…but he didn’t have one, anyway. He would fight with his fists, for now, and reconsider the issue when he found—or made—a knife. Any inferior weapon was incomparable to the fighting experience the skill offered.
+
+That done, Jack returned to the issue of his stat points. By now, it was a no-brainer.
+
+With a sigh, he allocated both points in Physical and felt a cold current rise through his body as a massive shiver. He tensed up, then realized this was his new normal. He felt stronger, faster, and harder than before. He flexed his fist, and it felt steadier than ever.
+
+It was impressive.
+
+Being an expert in biology, Jack didn’t have the slightest clue how this could happen. It made no sense. If this improvement was what it promised—or rather, what his video game knowledge promised—it was a feat completely beyond the reach of modern science.
+
+This System would somehow have to alter both his DNA and body structure, as well as spontaneously create a bunch of extra cells to fill in the gaps. All of these were impossible, as well as extremely worrying, because it meant that the System had complete control over his body and, most probably, his mind.
+
+It was a grim thought—almost grimmer than the goblin in the corner.

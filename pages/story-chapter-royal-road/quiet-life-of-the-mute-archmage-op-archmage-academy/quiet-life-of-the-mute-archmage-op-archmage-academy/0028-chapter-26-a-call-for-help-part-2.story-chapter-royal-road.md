@@ -1,0 +1,129 @@
+---
+id: a88d9b80-6344-5072-8032-cf229e34c7f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: A Call For Help (Part 2)"
+slug: 0028-chapter-26-a-call-for-help-part-2
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 28
+ownLength: 2842
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3581422/chapter-26-a-call-for-help-part-2"
+royalRoadId: "3581422"
+---
+
+A rasping breath tore from Fiona's lips as she sprinted through the burning forest. Her face had gone pale, blood streaking from the gash on her forehead and dripping past her brow. Her fingers clutched the hilt of her bloodied sword with desperate strength, and her orange eyes darted behind her, scouring the smoke and flames for whatever hunted her. In the distance, the roar of wyverns shuddered through the trees.
+
+The wyverns she had encountered ever since leaving Sigsug were acting strange, driven by an unnatural frenzy. They attacked anything that moved, anything that breathed. Fiona had never witnessed wyverns behave with such unhinged violence, as though every shred of instinct toward self-preservation had been stripped away. It felt like they were both suicidal and terrified in the same breath, throwing themselves at her with no regard for their own lives.
+
+A sharp jolt shot up her leg as her foot collided with a thick tree root that jutted from the scorched earth. Fiona stumbled, her stride faltering, a wince of pain twisting her features before she caught herself and forced her legs to keep moving. The impact sent a dull ache radiating through her ankle, but she bit down on the sensation and pushed forward into her frantic sprint.
+
+'Something is manipulating their senses,' she thought grimly, her mind churning through the possibilities even as her lungs burned. 'Something beyond the ordinary is driving them to this frenzy.' Her thoughts strayed back to Sigsug, unbidden, and a cold knot tightened in her chest when she remembered her mother had not yet returned before she left. Her eyes trembled as she imagined what might have happened. 'Mom, I hope you're okay... please be okay.'
+
+"Roar!"
+
+Before her thoughts could spiral any further, a piercing howl exploded from the underbrush just ahead. Fiona's gaze snapped toward the sound as a wyvern burst from the thicket, barreling straight toward her with its maw gaping wide. She threw herself into a roll, tucking her blade close to her body as she tumbled sideways and dashed in the opposite direction. The wyvern's skull hammered into a tree trunk with a sickening crack, uprooting it on the spot and sending splinters and flaming leaves showering through the air.
+
+As if the impact meant nothing at all, the creature wrenched its head free and pivoted toward the direction Fiona had fled. Its jaws parted, and a formula began to take shape within its throat, symbols etching themselves into the air with an angry, sulfurous glow.
+
+Fiona cursed under her breath when she saw it. Ever since leaving Sigsug, she had been locked in a relentless dance with multiple wyverns without a single moment of rest, and that relentless assault was precisely how she had accumulated her wounds. Now, after narrowly escaping a Grand Wyvern she could not kill, another was already preparing to strike. She gritted her teeth until her jaw ached, and her gaze hardened into something cold. 'Not this time.'
+
+She charged straight at the wyvern. Her grip tightened on the hilt of her blade as she watched the image of a giant sigil of fire swell within the creature's open mouth. The initial symbol shaped itself into a furious, churning sphere of flame. Next, three long lines arranged themselves around the core, each one tipped with an arrowhead that pointed relentlessly outward, forming the root of the spell. Finally, the structure manifested as a massive circle that encapsulated the entire arrangement, sealing it into a single, coherent threat. The completed formula blazed a vivid, seething reddish-orange, and a colossal ball of light condensed at its center, ready to erupt.
+
+Fiona did not hesitate. The moment she recognized the [Tier 3] formula, [Fire Burst], already in motion, she opened her mouth and spoke.
+
+"[Advanced Water Wall]."
+
+At her utterance, images began to take shape above her outstretched hand. The first to materialize was the image of a single, upright cresting wave, its peak frozen mid-curl, broad and resolute as a shield. Following that, five layered horizontal lines stacked both beneath and above the wave, each line itself woven from countless tiny, interlocking droplet shapes that rippled endlessly in place, forming the root. The lines shimmered with a suggestion of depth, as though each were a sheet of water held vertical by an unseen force.
+
+The structure wove itself into a large circle that bound the wave and the layered sheets into a seamless whole. Then, like a sudden shift in the atmosphere before a storm, the completed formula was dyed a deep, fortified cobalt blue, the color of the sea just before it breaks, dense and impenetrable.
+
+From the face of the emblem, a great wall of water surged upward in front of Fiona, roaring into existence like a curtain drawn by invisible hands. The liquid barrier churned and frothed, droplets cascading down its face only to be pulled back into the shifting mass.
+
+The [Fire Burst] shot from the wyvern's maw, a sea of conjured flames compressed into a massive, explosive surge of heat that screamed through the air, aimed directly at her. The moment the blazing torrent met Fiona's [Tier 5] formula, it dissolved into thick, hissing plumes of smoke upon contact. The [Advanced Water Wall] stood tall and unwavering, its surface rippling with contained pressure as it absorbed and dispersed the [Fire Burst], scattering the flames into nothing more than steam and embers.
+
+A deafening shriek of rage erupted from the wyvern's throat as it watched its attack extinguished so completely. With a massive flap of its leathery wings, it threw itself toward Fiona, its clawed legs shaking the terrain with each thunderous step.
+
+Fiona dissolved the formula with a thought as she shifted into an attack stance, her blade held steady before her, the muscles in her arms coiled and ready. She opened her mouth once more.
+
+"[Ice Spear]."
+
+Her words cut the air like a shard of frost. Images began to take shape beside her. The first to appear was the image of a single, massive spear forged entirely of jagged ice, its shaft long and fractured with spiraling cracks, its tip a flawless crystalline point so sharp it seemed to split the very light around it. Following that, six long, slender lines formed behind it, each one tipped with an arrow shape pointing resolutely outward, arrayed behind the spear like frozen contrails radiating from a single, imminent moment of release. Together, they created the root.
+
+The final symbol, the structure, bound the spear and its momentum into a perfect, lethal unity. Then, like a breath caught in the deepest winter, the completed formula was suddenly dyed a pale, searing glacial blue, the color of ice struck by lightning, the color of a frozen lake cracking from end to end.
+
+From the face of the completed emblem, the ice spear wrenched itself into reality with a sharp, crystalline shriek. It hovered for only a heartbeat before launching forward in a straight, unforgiving line, tearing through the air toward the charging wyvern like a judgment delivered by the cold itself.
+
+The spear struck true, plunging into the wyvern's chest before the creature could react or veer away.
+
+"Roar!" The wyvern howled in pain and fury as it staggered, its momentum faltering mid-charge, claws scraping deep furrows into the scorched ground.
+
+Fiona did not let the opportunity slip. She charged forward, her legs pumping as fast as they could carry her, closing the distance between herself and the wounded beast in a matter of heartbeats. With effortless grace, she leaped onto the wyvern's body, her boots finding purchase on its heaving flank, and swung her blade in a clean, sweeping arc aimed directly at the neck. The steel bit through scales as if they were parchment.
+
+The wyvern's head tumbled to the ground before its massive corpse collapsed after it, sending a tremor rippling through the earth.
+
+Fiona exhaled roughly, her chest heaving as she sank onto the wyvern's still-warm corpse. The wounds she had sustained earlier pulsed with renewed agony, fresh blood welling from the gashes. She reached across her body and gingerly touched the deep slash on her left shoulder, her fingers coming away slick and crimson. She winced and let out a sharp curse. "I should have learned healing formulas," she muttered, shaking her head. A weary, rueful smile tugged at the corner of her lips. "I am definitely going to learn after all this."
+
+Just as the words left her mouth, a distant roar echoed across the burning forest, and soon after, an enormous shadow swept over the night sky, blotting out the stars and the glow of the flames alike.
+
+Flap.
+
+The sound of vast wings carving through the air thundered overhead.
+
+Fiona's face hardened at once. Her light blue hair whipped wildly around her face in the downdraft, stray strands lashing at her cheeks. Her eyes shot upward, scanning the dark canopy of smoke and embers. Her jaw clenched when she saw what flew above her. Shimmering blue, broken scales armored the creature's body, each cracked plate catching the firelight in fractured glints. Sharp claws gleamed at the ends of powerful wing joints, though one of the wings was badly damaged, its membrane torn and flapping uselessly in places. Where the whip-like, venomous tail should have been, only a jagged stump remained, severed halfway. Broken horns jutted from its massive head, and one eye burned with an insane, unblinking glow while the other socket sat empty and dark.
+
+"You still found me?" Fiona said quietly. She remembered this creature all too well. This was the same Grand Wyvern that had dealt her the deepest wounds, the same beast that had driven her to flee so far in search of her team. She had not left it unscathed, however. A ghost of a smile graced her lips at the thought, but it faded as quickly as it had come. She knew she was no match for a Grand Wyvern alone, especially one that seemed to have shed every vestige of reason.
+
+A frown settled on her brow as a troubling thought surfaced. 'Come to think of it, if the wyverns around here have all lost their sense of reason, then why has this Grand Wyvern tracked me specifically?' The question hung unanswered in her mind. She rose from the corpse she had been resting on as she noticed the Grand Wyvern tensing, its posture shifting into that unmistakable prelude to an attack.
+
+She dug her hand into her pocket and withdrew her flying sword artifact. The toy-like blade rested on her palm, deceptively small and harmless. Her grip tightened around it as she murmured calmly, "[Activate]."
+
+The miniature sword trembled against her skin. She tossed it into the air, and the moment it left her hand, it halted abruptly, suspended in place as the [Size Manipulation] formula and the [Flight] formula began etching themselves onto the air around it. Threads of glowing script wound around the blade, spinning and interlocking in a luminous web. The toy sword expanded swiftly, transforming into a great blade that floated with the silent grace of the wind.
+
+"Roar!" The Grand Wyvern bellowed, launching itself at Fiona below.
+
+Fiona leaped onto the flat surface of the floating giant sword and shot upward, slicing through the burning air as she aimed directly at the charging Grand Wyvern.
+
+The Grand Wyvern's enormous maw opened wide, a cavern of teeth and darkness seeking to swallow her whole.
+
+Fiona casually pivoted on her flying sword at the last possible moment, swerving past the creature's gaping jaws with a dancer's precision. As she swept along its flank, she swung her blade, the edge biting deep into the side of the Grand Wyvern. Red liquid spilled from the wound in a rushing torrent, steaming as it met the cooler night air.
+
+The Grand Wyvern shrieked, its massive body twisting violently in an attempt to shake off the attack, but Fiona had already flown clear the instant the cut landed.
+
+The Grand Wyvern crashed down onto the forest floor, staggering, then straightened once more, its remaining eye lifting to find the human that had wounded it. But to its astonishment, Fiona had already closed the distance between them. Her blade was poised, her body low and streamlined as she charged straight at the damaged wing she had wounded before.
+
+She swung her blade in a clean, decisive arc, flying with calm and lethal grace as she severed the wing completely from the joint. The appendage fell away with a wet, tearing sound. She immediately pulled up, intending to zoom away, but just then, the Grand Wyvern's half-severed tail came swinging at her from an unexpected angle. The jagged stump sliced through the air, forcing her to dodge sharply, pivoting downward instead of her intended upward climb.
+
+Before she could regain her momentum, the Grand Wyvern shrieked with unbridled rage and swung its own head in a brutal sideways arc aimed directly at where she was correcting her flight path.
+
+Fiona's eyes widened as she registered the sheer speed of the incoming blow. There was no time to maneuver, no room to evade.
+
+Bam!
+
+The enormous skull slammed into her, hurling her body through the air like a discarded doll. She smashed into the trunk of a tree that knocked every wisp of breath from her lungs. Her vision blanked, white static swallowing the world as her limbs went numb and useless.
+
+When she clawed her way back to consciousness, she found herself slumped in a half-sitting position, her back pressed against the splintered bark of the tree. Her flying sword was nowhere in sight, vanished into the chaos. Her blade had stabbed into the tree beside her, the hilt quivering faintly inches from her shoulder. Blood dripped from the corner of her mouth as she coughed violently, the taste of copper thick on her tongue. She forced herself to lift her gaze, her vision swimming, and saw the Grand Wyvern using its head to uproot the trees around it, tossing them aside like kindling as it searched blindly for its prey.
+
+A ghost of a smile curved her bloodied lips when she noticed the Grand Wyvern shriek louder, its rage echoing across the burning sky. And then she saw what followed. Formulas began drawing themselves across the heavens above, one after another, multiplying with terrifying speed.
+
+The first image inscribed itself on each of the formulas, an image of a great, fractured hailstone, its surface webbed with deep cracks that pulsed with a pale, internal light. From this central core, the remaining symbols flowed outward, forming eight long lines. Each line was shaped like a shaft of jagged ice, and at the tip of every shaft, an arrow point aimed unmistakably downward. Between the shafts, smaller symbols clustered into spiraling motes of frost that whirled like a miniature blizzard, creating the completed root. A root that spelled volley, descent, piercing cold, and the merciless rain of a winter storm.
+
+The structure encapsulated the entire arrangement, binding the hailstone heart and its eightfold arsenal into a single, suspended doom. Then, like the sky itself opening in a gale, the completed formulas were suddenly dyed a stark, glacial white-blue streaked with veins of crackling silver.
+
+"[Glacial Spearfall]," Fiona muttered weakly, a broken laugh escaping her lips. She had known from the very beginning that she was no match for the Grand Wyvern. She was merely a Mid-Stage Master-Sword Mage. She had understood, with absolute clarity, that she could not defeat a creature capable of casting a [Tier 8] spell, a spell that would have obliterated her had she not fled its range in time. That was why she had been running, pushing herself to reach Sebastian and the rest of the team so she would not have to face it alone.
+
+But now... Fiona watched as the [Tier 7] formulas that blanketed the entire area around her blazed brighter, their cold light casting stark shadows across her wounded face. 'It seems I will not be able to survive.' The thought settled over her with a deep sadness, and her mind drifted unbidden to her family, to faces she might never see again.
+
+Up above, from the faces of the completed formulas, a torrent of ice spears wrenched themselves into existence, one after another, each spear a perfect copy of the shafts within the root. They hovered for a breathless moment, suspended against the smoke-choked sky, then plunged downward in unison, streaking toward the ground like frozen javelins loosed by a cold and merciless god.
+
+'This is it.' The thought was quiet, accepting. Fiona let her eyes drift closed.
+
+'This is my—'
+
+"Forgive me for being late?"
+
+A familiar voice resounded beside her.
+
+Fiona's eyes flew open, a sharp breath hitching in her throat as a brilliant golden light suddenly enveloped the entire area, curving upward like the dome of a demigod, swallowing her, the tree, and the descending storm of ice in its radiant embrace.
+
+'Sebastian... How did he get here?'

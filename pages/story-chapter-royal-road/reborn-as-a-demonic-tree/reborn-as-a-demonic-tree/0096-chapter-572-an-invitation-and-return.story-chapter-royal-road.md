@@ -1,0 +1,181 @@
+---
+id: 8c354c2a-6ce7-53d5-a07a-d20822508733
+page-type-slug: story-chapter-royal-road
+title: "Chapter 572: An Invitation and Return"
+slug: 0096-chapter-572-an-invitation-and-return
+partOf: reborn-as-a-demonic-tree
+position: 96
+ownLength: 2759
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3445511/chapter-572-an-invitation-and-return"
+royalRoadId: "3445511"
+---
+
+"This scepter holds a Monarch's infant soul," Kaida informed Ashlock as he inspected the golden scepter.
+
+"Come again?" Ashlock said, not believing what he was hearing. "Did you say that bug is an infant soul?"
+
+Kaida scowled at having his time wasted—understandable, considering Nymeria was awaiting his return to the ink lake. "Yes. The insect inside here is housing a Monarch's infant soul. You said Thal'korr used this to control a swarm of bugs?"
+
+"That's right," Ashlock confirmed.
+
+Kaida's eyes glowed golden, and he began tracing ink runes along the length of the scepter. His annoyance soon turned to curiosity. "This is a control artifact, as you suspected, and incredibly well made, but it needs someone with Psychic Qi to use it. I can substitute it with an array, but ideally, we need to find the amplifier to use it fully."
+
+"Amplifier?" Ashlock asked, not entirely sure what he was referencing.
+
+"This scepter is merely a piece of a set—arguably the most important piece, but a piece nonetheless," Kaida irritably explained. "Thal'korr's Qi signature is coming from the World Tree's canopy, but this scepter doesn't have an inbuilt array to capture it, nor does it have Qi reserves. Other parts of the set would have served those two functions."
+
+Ashlock wasn't following at all. "You're saying Thal'korr isn't here? But that doesn't make any sense. I just fought him."
+
+Kaida glanced up from his inspection. "Really? What did he look like?"
+
+"A beetle-shaped golden helmet and a skeleton made of bugs..." Ashlock trailed off. He hadn't stopped to question how a man could possibly be made of bugs. "Ah... the helmet is the amplifier, isn't it?"
+
+Kaida slowly nodded. "I'd assume so, and then the armor likely stored the necessary Qi. Though you said the bugs devoured your Qi? That's likely how this set is capable of fighting for an extended period, by relying on devouring its opponents' Qi."
+
+Everything slotted together perfectly now. What Ashlock had fought was basically a golem or clone made of bugs, remotely controlled by the real Thal'korr, safely from the canopy. The helmet served as the main control unit connected to Thal'korr, and the scepter was used to connect with the bugs and control them.
+
+The reason Thal'korr had seemingly vanished without a trace after the explosion was that the whole thing had likely self-destructed with the intention of leaving nothing. It would have worked, too, if not for Khaos's ability to retreat into the void in an instant.
+
+"I think the helmet got destroyed in the explosion, so all we have is the scepter," Ashlock regrettably informed Kaida. But the fact remained, he now had a Monarch's infant soul that they had wanted to destroy. That was a huge win.
+
+"That is regrettable, but I think I can still make it work," Kaida planted the scepter in the middle of Ashlock's Hellroot Abyss. Ink leaked off him and spread throughout the area, tracing runes along the floor and walls and weaving together a grand formation within moments.
+
+Ashlock felt the formation attempt to seep into his ethereal root network and allowed its presence. It was clear that Kaida was planning to use his root network and ambient desolation Qi as a vehicle to deliver the scepter's demands in the absence of the helmet.
+
+"Done," Kaida said after a few minutes. "You should now be able to control the insects via the scepter."
+
+Ashlock reached out to the scepter and found Kaida's incredibly well-made array guiding him on how to use it. He fed it Qi and requested that all insects within his domain be put to sleep. The infant Monarch's soul within the amber atop the scepter fought against the order, perhaps knowing it hadn't come from Thal'korr. But an array made by a Monarch Celestial Ink Dragon proved superior, and the scepter honored his command.
+
+[WARNING: Soul Forest has been triggered]
+
+"Override," Ashlock said, calming his skill that flared up in an attempt to block the Psychic Qi pulse radiating from the scepter and through his ethereal root network.
+
+The screams that had filled the night for the last few minutes died out as the millions of believers ceased being terrorized by feral insects attempting to ravage them. The casualties were likely to be in the hundreds of thousands, if not millions. But all that mattered was that he had put a stop to it.
+
+Ashlock then used the scepter to seize control of the insects overhead that were swarming Larry, freezing them in place. This level of control felt almost godly—he could see why a cultivator would want to pursue the Psychic affinity, even if they had no chance against him due to his Soul Forest skill.
+
+But the fact remained that Thal'korr had bested him and caused many deaths among his believers. The battle had exposed many holes in Ashlock's strengths and strategies. For starters, he now realized that a Monarch that remained airborne and focused on speed was a problem even above his Hellroot Abyss, as most of his skills were useless. Teleportation chhe could match and suppress within his domain, but raw speed? He had few answers. His cursed sap was outrun, as were his roots, and due to being in the Nascent Soul Realm, his desolation attacks didn't pack enough of a punch.
+
+"Except Stella, I suppose," Ashlock mused. Assuming she managed to reach the Monarch Realm and unlocked a useful Aether domain, she would be his answer to opponents like Thal'korr in the future. "But this fight was full of miscalculations. I need to get better at this moving forward."
+
+The biggest of which was his mistaken assumption that the Monarchs of the Celestial Empire would only be interested in eradicating his Hellroot Abyss. He only had Elysia and Cyphion guarding the Hellroot Abyss because he believed they served as adequate defense while not seeming too threatening to the Celestial Empire's leaders. If he had brought all of the Monarchs under his command and posted them there, it would have been met with immediate force from the Celestial Empire, which had far more Monarchs.
+
+Since he could portal in Monarchs at a moment's notice like Kaida, he had decided to leave the defense to Elysia. But now he wasn't so sure that was a good idea.
+
+Ashlock sighed. He had many other thoughts and feelings about this battle, but those had to wait until after it was over. The focus had been on retrieving the scepter and saving the people, but there was still a Monarch on his land wreaking havoc.
+
+"Kaida, I'm going to need your help suppressing the other Monarch."
+
+"As you wish," Kaida said as he floated upwards and out of the Hellroot Abyss, only to be met with an apocalyptic scene with two figures engaging in battle at the center of it all.
+
+At some point, Droskan Virelios had summoned what Ashlock assumed was his domain. It could be described as a living flood in the form of a deep lake that hadn't existed earlier.
+
+While Ashlock had been focusing on Thal'korr, that didn't mean he hadn't spared a few skills to assist Cyphion. Unfortunately, none of them seemed to work. The constantly replenishing lake drowned out his Abyssal Maw, the living water wrestling against his roots and dissolving his void tendrils. His Voidstorm Aegis fared similarly. The void lightning raining down from the Hellroot Abyss—each strike costing him dearly in Qi—was thwarted by sudden sprouts of water that shot upward at the last moment, shielding their master.
+
+That master, Droskan Virelios, was delivering a one-sided beatdown on Cyphion.
+
+Blasts of superheated steam detonated constantly around the battlefield, striking Cyphion the moment he emerged from a portal. Before he could recover, Droskan surged forward at inhuman speed, propelled by the water beneath his feet. His fists crashed into Cyphion while swirling torrents of water encased his body, intercepting any attempt to harm him.
+
+Ashlock was at a loss. Abyssal Maw and Voidstorm Aegis aside, his desolation Qi—infused with Primordial Ice Law—was also uselessly gnawing at Droskan's domain. For all his advantages, Ashlock remained at the peak of the Nascent Soul Realm. He simply could not bridge the gap in power and control that a Monarch's domain provided.
+
+Within the lake that was his domain, Droskan was effectively untouchable.
+
+"Done already, Cyphion?" Droskan said, spitefully as he rose high above the lake atop a column of swirling water while holding the spatial Monarch at arm's length by the neck. "How deplorable," he looked up at the sky at Larry, who was floating overhead and awaiting Ashlock's order to attack. "Your friends have come to save you."
+
+Ashlock found himself faced with yet another foe he wasn't sure how to deal with, mostly due to their gap in cultivation. However, one thing was for certain: Droskan wasn't worth fighting.
+
+"Let him kill you," Ashlock whispered into Cyphion's mind, seeing the panic in the Monarch's eyes. "Larry's domain will save you."
+
+The last thing he needed was Cyphion going supernova and obliterating his Hellroot Abyss and all of Floridawn with it. The Monarch heard his orders and, with a grunt, tried to wrestle free from Droskan's grasp.
+
+Droskan grinned, seeming to find his attempt at escape laughable. "You sure do like to squirm like the traitorous worm you are. Maybe I should stop holding back now," he said and proceeded to punch through Cyphion, ending his life in a bloody mist.
+
+Cyphion's corpse splashed into the water, turning it red. However, Larry's domain stepped in, preserving Cyphion's body as an ashen statue.
+
+Droskan seemed understandably confused at Cyphion turning into a statue, and Ashlock capitalized on that to save the spatial Monarch. He used the golden scepter he now controlled to order the insects to swarm toward Droskan to distract him while Larry was already moving in.
+
+"So Thal'korr was defeated. Not unsurprising, all things considered," Droskan said, hinting that he knew the Thal'korr he had stood beside had been nothing but a puppet. "But I didn't expect him to lose control of his swarm." Droskan raised his hand and commanded a blast of superheated steam to obliterate the incoming insects.
+
+While he was distracted, Larry rushed in as a mass of silver ash and retrieved Cyphion's ashen statue and made a successful retreat.
+
+Droskan glared at Larry for stealing under his nose, only to frown when he laid eyes on Kaida.
+
+"It would also seem another Monarch in service to the dark god has appeared. A powerful one too."
+
+Kaida tilted his head, looking down his nose at Droskan with unmistakable draconic disdain. "How fascinating," he drawled. "A human Monarch reduced to playing in a murky puddle of his own making, and looking so pleased with himself while doing it."
+
+Ashlock wanted to remind Kaida that Droskan had just pulverized Cyphion with ease, but he decided to let the dragon handle himself.
+
+Droskan scowled. "A poisoned tongue too, it would seem. Well, no matter. My objective here is complete, besides one last thing," he reached into his cloak and pulled out a sealed letter. "I was informed to give you this, courtesy of the Chairman and his ancestor."
+
+Ashlock reached out to the letter with telekinesis, and Droskan surrendered control of it.
+
+"Until the next time we cross paths," Droskan said, and the entire lake exploded upward into an immense column of water that pierced Larry's domain and cast a shadow over the Hellroot Abyss. Ashlock's soul pulsed with power as he used telekinesis to encase the immense mass of water and guide it back to the floor, without causing a tsunami that would wipe out even more of his believers. Droskan had clearly fled during the stunt, as his control over the water had been relinquished, leaving Ashlock to deal with it.
+
+The mass of water crashed to the ground, turning the Hellroot Abyss's surroundings into a moat.
+
+"It's over," Ashlock said with relief. Larry's domain crumbled, reviving Elysia and Cyphion—the latter looking utterly horrified at his reformed chest, while Elysia threw herself to the ground and prostrated.
+
+"I failed you and our believers!" she lamented, slamming her forehead repeatedly into the ground to repent. "I'm undeserving of life. Butcher me for my sins!"
+
+Kaida stepped over the repenting Elysia without care and made his way to the portal. "If that is all, I will return," he said over Elysia's crazed ranting, but his irritated tone suggested his words were merely pleasantries. He was going back no matter what.
+
+Ashlock let him go, as he had other things to deal with.
+
+"Elysia, this fight is not your fault. Stop making a fool of yourself and read this letter for me," he said, floating it before her. She perked up at the opportunity to be useful and quickly opened the letter for him while blood trickled down her forehead.
+
+"It's an invitation to a ball," she concluded, furrowing her brows. "They expect members of the Ashfallen Sect and specifically request Stella Crestfallen's attendance. Apparently, they wish to discuss the war."
+
+"Who sent the invitation?"
+
+"The Crowned One," Elysia said. "Who's that?" she asked Cyphion.
+
+"No idea," he muttered, running a hand along his stomach. "Am I really still alive?"
+
+"Your soul was preserved, and your body was restored," Ashlock informed him plainly. "Anyway, back to the Crowned One. Droskan mentioned something about the Chairman's ancestors? Perhaps this is one of them?"
+
+Elysia bobbed her head. "That sounds possible."
+
+"Maybe Tiberius would know more as the Celestial Warden," Ashlock mused.
+
+"Are we going to accept the invitation?" Elysia asked.
+
+That was a good question. The risk of attendance was immense, and Ashlock wasn't sure what the benefits would be. He planned to destroy the Celestial Empire in its entirety, so what use would meeting the enemy have?
+
+"I think you should go. For a ball like that, everyone would be in attendance in fear of missing out on meeting you, and with the ancesor of the Chairman there, they wouldn't fear for their lives," Cyphion explained. "You could use it as an opportunity to sow discord among the Monarchs or even kill them all. Assuming you can guarantee your people's own safety, of course."
+
+Those were good points. If Ashlock had Larry's domain surrounding the ball with his domain, they wouldn't be able to kill his sect members.
+
+"When is the ball?" Ashlock asked.
+
+"A week," Elysia replied.
+
+"That gives us time to decide," Ashlock mused and glanced at the World Tree looming over them. Just what was the Chairman planning by inviting him, and specifically Stella? Did he want his experimental child back? "Either way, Elysia, your duty now is to tend to the believers. Ensure they know the Celestial Empire is behind the attack and that we heroically fended them off. Really paint a vivid picture for them."
+
+Elysia rose with a smile. "That's something I can do."
+
+Ashlock's attention was then drawn to the scepter. What should he do about it? He could devour it on the off chance an infant soul counted toward the number of Monarchs he needed to devour.
+
+Or... he could use it as leverage.
+
+"Cyphion, could you contact the Mycothane Hive for me? Tell them I have something they might want back and that I'm open to trades."
+
+"I can send them a message," Cyphion nodded. He looked pale and still shaken after experiencing death and coming back.
+
+"Good. Oh, also tell the Mycothane Hive that if they aren't interested, perhaps the other canopy factions would be?"
+
+Cyphion chuckled. "You really are a dark god. There's no chance they would allow an artifact that gives the secrets of their insect control to their enemies."
+
+"I know," Ashlock said. Why else would a Monarch willingly blow up their own infant soul unless it was to protect a precious secret?
+
+With that sorted out, Ashlock checked on the damage. The area directly surrounding the Hellroot Abyss was destroyed by the battles, with corpses ravaged by insects face down in murky water.
+
+"I'll have the Hellroot Abyss's fiends clean those up," Ashlock mused. He couldn't have corpses sowing seeds of doubt among his believers. "What a long day. I need to review that battle and implement better defense. Perhaps I should get Douglas and the Mudcloaks here once they have completed the docking station for my growing fleet of airships—"
+
+His thoughts were interrupted by a system message he had been waiting for.
+
+[Notice: Stella has exited the Eternal Realm]
+
+He rushed to his Inner World to greet her.

@@ -1,0 +1,239 @@
+---
+id: 05924db5-580d-5331-9cc0-cdae5ac3d37b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77: Soft Underneath"
+slug: 0077-chapter-77-soft-underneath
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 77
+ownLength: 2432
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3618369/chapter-77-soft-underneath"
+royalRoadId: "3618369"
+---
+
+The sentence didn't end as cleanly as the printed type wanted me to believe.
+
+Below the final line, in the cramped margin where the page met its binding, someone had written by hand.
+
+They appear to share the basic physiology of the animals of our own world. Therefore they must share the weaknesses of the animals of our own world.
+
+I read it four times.
+
+It was the only sentence in the entire book that offered anything resembling hope.
+
+I scratched at my jaw. The stubble there had grown rough over five days of desert.
+
+What's the weakness of a praying mantis?
+
+What's the weakness of a scarab?
+
+I had no idea. I'd spent one life learning to put out fires and a second life learning to put men in the ground, and somewhere between the two I had skipped the lessons on insect anatomy that might, today, have been the only thing worth knowing.
+
+I turned the page anyway.
+
+The book did not end at the Titans. It only began there.
+
+What followed were chapters — one after another, each dense with the same crabbed copyist's hand, each dedicated to a single horror. And the horrors were not called Sins. The word didn't exist in Kumsuri, or if it did, the desert people had no use for it. They called them Devastations — and sometimes Portals, as if the wound in the world were the thing itself.
+
+The next chapter belonged to the Vireth.
+
+The Rooted.
+
+I read slower, because the words came easier and the meaning was worse. The Vireth resembled trees. That was the simplest way the book had to say it, and the copyist had underlined the comparison twice, as if to admit it failed. They were not trees. They wore the shape of trees the way the Titans wore the shape of animals.
+
+You could cut one down. You could burn the trunk, sever the limbs, scatter the canopy. And it would not matter. Because the thing — the self of it — did not live in the part you could see. It lived underground. In the roots. In the web that ran beneath the soil, and as long as one finger-length of root drew breath, the Vireth was not dead. It would simply grow back. Somewhere else. Wherever the roots decided.
+
+Their first portal had opened somewhere the book named in a transliteration I had to sound out twice.
+
+South America.
+
+The elves.
+
+Are they the same? Are the elves afraid of these things? Allied with them?
+
+It couldn't be that simple. It was never that simple. Not all the Devastations could be allies. The world would already be ash if every horror that crawled through a portal had crawled through holding hands.
+
+The book agreed with me.
+
+There were reports, it said. Explorers. Caravaneers who had ventured too deep into the wild interior and come back with their minds intact enough to talk. They had seen the Vireth at war. With the Ael'vari — the desert's word for the elves, or what Imperial testimony called the Architects of Betrayal.
+
+The elves were at war with the Rooted.
+
+The Vireth had another enemy still. The book named them last.
+
+The Keth'aa.
+
+The Void Weavers.
+
+I read the line that told me where their first portal had opened, and I stopped breathing for a moment.
+
+The moon.
+
+I lifted my eyes from the page.
+
+Above the rooftops, above the awning-poles and the towers of crumbling paper and the white wall painted in old blood.
+
+No way.
+
+I stared at it.
+
+No. That's not possible.
+
+There was no answer in it.
+
+I shook my head hard enough to make my skull throb.
+
+It was too much at once. A few hours ago my entire problem had been giant monsters and a single warehouse, and now I was sitting in an alley in a foreign city learning that the sky itself had teeth, that the war I thought I understood was one front of a dozen.
+
+I closed the book.
+
+The cover thudded shut with a small puff of dust, and the book settled heavy in my hands.
+
+Fifty silver.
+
+I'd called it a robbery in the moment, and maybe it had been, but I understood now that I would have paid five hundred. There was no leaving this thing behind.
+
+I slid it into my bag, against the small heat of my hip, and pushed myself up off the packed earth.
+
+The afternoon was burning down. I had a city to save and no idea how.
+
+I drifted back through the lanes toward the observation point, taking my time, keeping my shoulders loose and my pace aimless. A foreigner with somewhere to be is a foreigner worth remembering. A foreigner with nowhere to be is part of the scenery.
+
+I came up on Henrik and Lena from the side, the way a stranger might, close enough to share the same sliver of shade.
+
+I didn't look at them. I looked at the warehouse.
+
+"What's the weakness of a praying mantis?" I asked.
+
+A beat of silence.
+
+"A praying mantis?" Henrik's voice carried the certainty that he'd misheard something. "I don't know. Why would I know that?"
+
+"It's been a long time," Lena said slowly, turning the question over. "You don't see them usually, not the small ones." A pause. Her pencil tapped against the edge of her notebook. "They're ambush hunters. They sit still and wait and strike fast. But the body itself, strip away those forelimbs, those big scythes, and there's not much to them."
+
+"And a scarab?" I asked. "A beetle. A big one."
+
+"Why the hell are you—"
+
+"Just entertain me," I said. "For a little while."
+
+Henrik made a sound in his chest, half snort, half sigh.
+
+"I don't know," he said. "A beetle. Hard on top, soft underneath?" He shrugged, and the harness creaked across his shoulders. "But like she said, it depends entirely on what the mana did to it. Could be the belly's harder than the back. Could be it grew a second shell. You don't know till you're looking at the thing."
+
+"Right," I murmured.
+
+Either one was a nightmare to fight and would take overwhelming firepower to bring down. Even burning through all nine cores, there was no guarantee any of my attacks would leave so much as a scratch.
+
+We took the warehouse again.
+
+I had stopped counting which time this was. The door, the seals, the smoke, the bodies.
+
+This time it was marginally harder. The henchmen inside were sharper than before, alert in a way they hadn't been, and it took me a breath to understand why.
+
+The Titans hadn't attacked yet.
+
+The tremor had drawn their attention before, and they'd written it off as just another strange noise. This time, when they heard someone entering, there was no doubt something was off.
+
+Not that it changed their fate.
+
+The moment I threw Experiment #61, the entrance erupted with a thunderclap that caught everyone by surprise. The pale-blue gas followed a heartbeat later, swallowing our movement.
+
+By the time the first henchman registered what was happening, Henrik already had his greatsword in hand and was splitting him in two. Lena had slipped inside the warehouse and was driving her blade through another man's throat.
+
+I moved in slower. I knew who my target was and exactly what he was about to try.
+
+The fat guy made for the alarm rope once again, but my sword found his neck before his hand found the cord. The Ashkeri would be alerted, of course. Just not by that rope. They'd know by the thunder my bomb had already announced.
+
+Soon the last of them hit the floor.
+
+And the ground began to shake.
+
+Henrik was through the door before the second tremor landed, Lena half a step behind him, and I heard her voice come back tight and sharp from the lane.
+
+"That's impossible. Are the Ashkeri here already?"
+
+I didn't hurry.
+
+There was nothing to hurry toward. I knew what waited at the gate. I knew what was climbing the wall around us. I walked out of the slaughterhouse at a pace that must have looked, to the two of them, like a man strolling through a garden, and I tipped my head back to watch the northwestern wall.
+
+The mantis came over it exactly on time.
+
+It crested the white stone the way I remembered. The dark glassy sheets of its wings, the antennae lashing the dusk. The great defensive dome shattered around it like ice under a boot. Below, the Ashkeri-mage threw their sand pillars, while others swarmed its legs. None of it mattered.
+
+"Kaspar." Lena had my arm. "We run. Now. There's still time to make a gate, but only if we go now."
+
+"There's no time," I said.
+
+"There is, if you—"
+
+"There's a second one at the gate," I said flatly, and watched the words fail to land, watched them slide off her because they made no sense, because how could I possibly know that. "We have to fight. If this city falls, it doesn't fall alone. It takes the Empire with it."
+
+Henrik looked at me like I'd grown a second head. "You're not thinking straight. The desert breaks these things every week. The Sultan's got twenty thousand soldiers. He doesn't need three foreigners with sore feet." He grabbed my shoulder, started turning me toward the route. "Move. The city handles its own."
+
+I let them turn me. I went with them, toward the gate, because there was no arguing it.
+
+Sure enough. The beetle was there.
+
+Wedged between the great bronze doors exactly as before, its black-green carapace, its six legs braced against arch and road, the green glow already pooling and pulsing behind its mandibles. The plaza in front of it was a churn of white-clad Ashkeri and falling stone and screaming, the mages on the wall hammering its flanks with sand, every one of them throwing everything they had at the thing that blocked the only way out.
+
+I didn't wait for Lena to finish whatever she was saying.
+
+I didn't wait for Henrik to grab me again.
+
+It's time to learn how to fight you.
+
+I advanced.
+
+I went past the Ashkeri. A crazy foreigner sprinting into the teeth of their battle, and not one of them spared me a glance because every grain of their attention was on the mountain in the gateway. Mana Breath roared up through my chest and spilled down into my legs, the plaza blurred under my boots.
+
+I watched the flow as I came. The green light gathering in its gullet, the mana coiling and condensing. I read it, mapped it, knew where the breath would go before the beetle did.
+
+But I didn't let it fool me. I'd died to that lesson. The thing had weapons that weren't made of mana, weapons that didn't announce themselves, and I would not forget the acid for as long as the Curse let me keep the memory.
+
+I went in between its legs.
+
+My sword came up and across and bit into the nearest limb at the joint, where the chitin should have been thinnest. It was like striking the wall itself. Steel rang. The shock of it jarred up the blade and into my wrists and rattled my teeth.
+
+Metal on metal.
+
+The green light reached its apex. I felt it crest. I threw myself left and the breath came. A solid bar of green annihilation lancing out over my shoulder, close enough that the air itself screamed and the hair on the right side of my head curled and crisped from the heat of its passing. It carved through a knot of Ashkeri behind me and they simply stopped existing, flesh to bone to smoke in the space between two of my heartbeats.
+
+I rolled under a sweeping leg. Came up. Cut again at the underside of the joint. Same result, same ringing failure, the blade dancing off like I was hacking at a pillar.
+
+I disengaged. Fell back three strides, breathing hard, blade up.
+
+The abdomen flexed.
+
+I knew that flex.
+
+"ACID—" I screamed it across the plaza, at the Ashkeri, at the mages, at anyone with ears. "GET BACK—"
+
+Some heard. Some moved. A cluster of soldiers to my right broke and scattered and lived. The rest didn't, or didn't believe the foreigner shouting in broken Kumsuri, and the mist fountained out across the rear of the beetle's carapace and rained down on the plaza in a hissing curtain, and where it fell men came apart, skin and faces running like wax off a candle.
+
+I went back in.
+
+I cut, and cut, and cut. The legs. The joints. The seam where the carapace plates overlapped. Every blow rang off like the last, every blow left nothing but a scratch in armor that only thickened the longer the fight ran. And around me the city's whole effort was failing the same way mine was. The sand pillars hammering and the thing barely rocking, because half the Ashkeri who should have stood here had died at dawn or were lying broken in the field hospital, and what was left wasn't enough. There wasn't enough power in the whole plaza to crack this thing open.
+
+The beetle rose.
+
+It came up onto its legs, hauling its bulk off the road and the gate, its belly lifting clear of the stone, and I saw the bare seam of it overhead — hard on top, soft underneath. I didn't think.
+
+I ran under it.
+
+I planted my feet in the gore-slicked road, took the sword in both hands, and drove it straight up into the soft pale belly.
+
+The blade went in.
+
+Not far. Not enough. But it went in. Easier than the legs. For one bright instant I thought there, there it is, that's the place—
+
+The beetle dropped.
+
+It just let its legs fold. All that weight, all those tons of armored bulk, came straight down out of the sky with no warning.
+
+There was no time to scream.
+
+The world became pressure. My ribs went first. I heard them go, a wet cascade of snapping like green wood breaking, felt them fold inward and find my lungs, my heart. My hips shattered. The road came up to meet my spine and my spine had nowhere to go. Something hot and red and final blew out of me in every direction at once.
+
+A packet of pulp. Burst flat against the stone.

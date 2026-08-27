@@ -1,0 +1,161 @@
+---
+id: 73eb3d99-2326-5c95-bf71-f33a748f8a16
+page-type-slug: story-chapter-royal-road
+title: "Chapter 521: As expected...right?"
+slug: 0087-chapter-521-as-expected-right
+partOf: rise-of-the-living-forge
+position: 87
+ownLength: 1848
+unit: words
+ownProgress: 1848
+publishedAt: 2025-11-20
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2777737/chapter-521-as-expectedright"
+royalRoadId: "2777737"
+markedReadAt: "2026-06-29T20:01:13.016Z"
+---
+
+It was morning when Arwin’s thoughts drifted lazily back to his body.
+
+At least, he was pretty sure it was morning. Telling the time was impossible when he was in Lillia’s room. But, judging by rested his body felt and how all the aches and pains from the previous night had been washed away, he couldn’t imagine it could be anything but the dawn of a new day.
+
+His mind was hazy. It wasn’t uncomfortable. On the contrary, it was the relaxed haze that only arrived at the end of a truly satisfying rest, the lingering memories of the peace and comfort he had just emerged from.
+
+Lillia leaned against him in bed. The two of them were in an odd sprawl of limbs, somewhere in the purgatory between lying down and sitting up. They were so entangled that, even if the room hadn’t been pitch black, telling where one of their bodies started and the other began would have taken a rather significant feat of observation.
+
+A long yawn slipped from Lillia. Her hair brushed across Arwin as she raised her head slightly to look around.
+
+“You’re warm,” Lillia murmured. Drowsiness dripped from her every word. She paused for a moment. It took her mind a few moments to catch up with her body. Then she jerked upright — or at least, she tried to.
+
+A bit too much of her was pinned to the bed beneath Arwin. All she really managed to accomplish was startling what little vestiges of sleep remained out of him. Arwin snapped fully awake in an instant.
+
+That only managed to make their tangle worse. The blankets decided to get caught up in the whole matter, somehow binding around the two of them in a matter of seconds.
+
+“Stop that!” Lillia exclaimed, her cheek pressed up against Arwin’s chest and voice muffled. “You’re going to break the bed!”
+
+“I’m not moving! You’re moving!”
+
+They both stopped — more for the sake of the bed’s continued survival than anything else — and carefully extracted themselves. Lillia sat up beside Arwin a few moments later. She was silent for a second. Then she cleared her throat.
+
+“Wow. You’re really warm. Like an oven.”
+
+Arwin looked down at himself. There really wasn’t much reason for that. It wasn’t like he could actually see anything in the magically induced darkness enveloping them. But he didn’t need to.
+
+He could feel it.
+
+A heat emanated throughout him, running from his heart and coursing down his veins to reach every single part of his body. The temperature was far from uncomfortable. It felt like he’d just chugged a dozen mugs of hot chocolate in the dead of winter.
+
+“Too hot?” Arwin asked, a flicker of worry passing through him. His body was heat resistant. It had been for quite some time — and that had been before the events of the night. “I didn’t burn you, did I?”
+
+“Depends on the context of hot you’re asking in.” Lillia let out a small laugh and rested her hand on his thigh. “No. You didn’t burn me. I — damn, Arwin. You’re really hot.”
+
+“Thank you,” Arwin said, a relieved grin slipping across his lips.
+
+Lillia let out a snort. “Don’t turn that around on me. What did you do? You did something. This isn’t normal. You aren’t sick, are you?”
+
+“Not sick,” Arwin said. He found Lillia’s hand with his own and gave it a small squeeze. “This is intentional. I did mention that I was going to use all the power I’d stored up from our recent crafting efforts, remember? You’re just feeling the results.”
+
+“You made yourself into a portable oven?” Arwin could hear the amusement in her voice. “That was the best thing you could come up with? Well, I suppose it’ll be useful. Not what I would have gone with, but who am I to judge?”
+
+“The oven bit came with the package.”
+
+“What did you change, then?” Lillia’s tone grew serious. “You feel different, Arwin. Really different. It’s like there’s a miniature sun trapped inside of you. How much energy did you end up using?”
+
+“A lot,” Arwin replied. He rubbed two fingers together. He could feel the warmth emanating from within them. “It’s a relief that it isn’t worse than this. I was worried it might be.”
+
+“Seriously? You were expecting more than this?” Lillia asked. “What did you do? Is this a new ability?”
+
+“No. I changed my body,” Arwin replied with a shake of his head. “I was trying to figure out what the biggest advantage of Sunsetting a class was. Figured it wasn’t any specific ability or title, but a direct upgrade to your own body. Making yourself magical.”
+
+“Like Eleven’s hair,” Lillia murmured. “I didn’t think about that. I’ve just been focused on advancing my skills and strengthening my body the way it already is. I never considered literally changing it… but what did you do? Nothing serious, I hope?”
+
+“I’m not about to start dropping limbs, if that’s what you’re asking. I don’t think I did anything that should put me at risk.”
+
+Lillia let out a laugh, but there was more than a little relief in it. “Well… that’s good. So what did you do? Set organs on fire permanently?”
+
+“Not exactly.”
+
+Lillia laughed again. Then she stopped laughing. Arwin knew her more than well enough to imagine her eyes narrowing in the dark. She leaned in, pressing her forehead to his and squishing their noses together.
+
+“Not exactly? What did you do, Arwin?”
+
+Arwin coughed into his fist. Now that Lillia was pressing him about it, the idea that had seemed so clever to him the previous night was starting to sound a little bit monodic. Perhaps a more than a little bit.
+
+“Uh… I just worked with what I had. Nothing too crazy.”
+
+“Arwin,” Lillia whispered, a note of danger in her voice as she pressed herself against his side, “Don’t try my patience. I am not above resorting to underhanded methods to get what I want… assuming it isn’t going to set me aflame. Please tell me that I’m guessing incorrectly here. Did you fucking infuse your entire body with lava?”
+
+“No,” Arwin said.
+
+Lillia blew out a relieved breath. “Oh, good. That would have been—”
+
+“I replaced my blood with it.”
+
+Lillia froze.
+
+“What?”
+
+Arwin winced. “I replaced my blood. With soul-magma. The black lava that’s infused in my soul. I gave it more power and coaxed it into my body. I mean, I think it’s more of a magical connection more than a physical one. My blood isn’t literally lava. It’s just got the properties of lava. Soul lava, that is. Not normal lava. That would have been stupid. But I’m resistant to the soul stuff, and I reinforced my body with even more heat resistance so I wouldn’t spontaneously combust. It should—”
+
+“Arwin,” Lillia said.
+
+He cleared his throat. “Yes?”
+
+“You’re an idiot,” Lillia said. “You replaced your blood. With lava.”
+
+“Well, technically speaking…” Arwin trailed off, then cleared his throat. He could tell Lillia was glaring at him. “Yes. I may have done something that could be simplified down to that if you were really trying to frame it in a bad light.”
+
+Lillia groaned into his shoulder. “What if you weren’t resistant enough? Would I have woken up to you catching fire?”
+
+“I mean, I already survived the Soul Magma once,” Arwin said. “I was really confident it would be fine. I wouldn’t have risked it while you were in the bed if I wasn’t.”
+
+Lillia hesitated for a second. Then she let out a huff. “Being romantic is not going to get you out of this. And not burning me alive on accident only gets you half a point. That’s not a very good bargaining chip.”
+
+“Err… sorry?”
+
+“Better,” Lillia said. “But telling me exactly how this makes you stronger will get you more.”
+
+Arwin scratched the back of his neck. “Well, I literally have lava in me. That’s going to be a nasty surprise for anyone that manages to cut me. It’s also a power source I can draw on with most of my weapons… and I’m pretty sure I’ll be able to control the lava, at least to a degree. I think I can make more of it by using magical energy as well.”
+
+“That’s… pretty terrifying. I suppose I can see what you were going for. If someone else had done it, I would be more inclined to like it more. But I’m not much a fan of my consort risking blowing himself up.” She prodded him in the side, then cursed. “Ow! You’re built like a rock!”
+
+“Sorry,” Arwin said with a laugh. “I put a lot of magic into reinforcing my body. To… well, make sure I didn’t blow up.”
+
+Lillia rested her chin against his shoulder. “Well, I suppose you do make a very good bedwarmer now. I suppose it can be forgiven. Please don’t blow yourself up.”
+
+“Blowing myself up was never on the table.”
+
+“Good,” Lillia said. Then she let out a bark of laughter.
+
+“What?” Arwin asked.
+
+“I just realized that you’ve taken your class name a bit literally, haven’t you?” Lillia snickered. “You’re literally turning yourself into a living forge.”
+
+Arwin blinked. Then he tilted his head to the side. “I… huh. Yeah. I suppose I am.”
+
+Lillia poked him in the side again. “Just don’t go replacing all your other parts, please. I prefer you as a man. Not a building. No offense to the Infernal Armory.”
+
+“I’m sure it hasn’t taken any, but I’ll keep that in mind,” Arwin said. He slipped out of bed, stretching his arms over his head as he let out a long yawn before extending one toward Lillia.
+
+She took it, pulling herself free from the tangle of sheets and stepping down beside him. Her tail whacked him lightly in the side — and Arwin had absolutely no doubt in mind that it had been intentional.
+
+Then she froze.
+
+“Arwin?” Lillia asked. “Why do I have so much magical energy? Just what did we create last night?”
+
+“Oh,” Arwin said. A grin crossed his features. “You got energy from making Uriel! That’s a relief. I was hoping you would. Now you can turn your blood to lava as well. Not that I would recommend it.”
+
+“Uriel?” Lillia asked slowly.
+
+“That’s the Soul Guardian’s name,” Arwin said. “I imagine she’s probably waiting to speak with you. She’s not like the other Soul Guardians I worked on. She woke up instantly.”
+
+“It — she — is just permanently awake? Wandering around my tavern?”
+
+“Yeah. You’re technically her mom. I think. Kind of. It’s a complicated situation. Let’s not think too hard about that.”
+
+“…right,” Lillia said slowly. “Anything else I missed?”
+
+“Oh, yeah. One more thing.” Arwin scratched his chin. “Uriel wants you to build a bigger bathtub in the Devil’s Den.”
+
+Arwin could feel Lillia staring at him for a long second.
+
+Then she blew out a sigh. “Of course she does.”

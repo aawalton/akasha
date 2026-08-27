@@ -1,0 +1,503 @@
+---
+id: 97e1b97c-758c-55b1-bfd3-30bfca31d7d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 136: Blood on the Sand"
+slug: 0056-chapter-136-blood-on-the-sand
+partOf: the-calamitous-bob-stubbed
+position: 56
+ownLength: 7170
+unit: words
+ownProgress: 7170
+publishedAt: 2023-09-22
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1350897/chapter-136-blood-on-the-sand"
+royalRoadId: "1350897"
+markedReadAt: "2026-06-29T21:16:41.508Z"
+---
+
+“My father wants to see me,” Sidjin said.
+
+Below, performers were dancing to the sound of a drum arrangement in mesmerizing patterns. The rhythm was fast and intense. It made Viv’s teeth shake with every percussion. They hurt a little, reminding her that her body would fail before spring set in unless she acted. Tick tick tick.
+
+“Now?” Viv asked. “There is less than an hour left before the next round.”
+
+“Yes. He requested it. It was… carefully worded. I have not seen him since the wall and I was wondering if… maybe it’s the last time I could see him. Retiring first princes often go into exile far away since ‘accidents’ are prone to happen. I am one of the eldest. I think he had high hopes for me. Before…”
+
+“Yeah.”
+
+Sidjin sighed and gripped the railing.
+
+“Don’t have regrets or we’ll be forced to visit the merls again,” Viv warned.
+
+Sidjin guffawed.
+
+“They have spiders,” Viv added with a shiver.
+
+She didn’t have to pretend her aversion. Fucking arachnids.
+
+“But what are you afraid of? That he would do or say something?”
+
+“Yes. I fear his censure. At the same time, I do not wish to ignore him. Leave the wound unhealed.”
+
+Viv clicked her tongue, not sure if he was looking for advice or commiseration. His insistent look answered her unspoken question.
+
+“I, look, I’ll never see my family again,” Viv said.
+
+She didn’t see any way she could meet them. It would take decades for her to be powerful enough to cross the border between worlds if it were even possible. By that time, the earth might have just been blown up.
+
+“Ah,” Sidjin said.
+
+“And as conflicted as I was about some of the stuff that happened, if there is something I regret it’s… not saying goodbye. Conflict with family members is inevitable. You just can’t accept everything under the assumption that it might be the last time you talk to them. I stood for myself and I’m glad, and I’m proud you stood for yourself as well. I would still go. If you’re abused or insulted or you feel you’ve been lured to be hurt, then leave. I still think you’ll regret it if you don’t get closure one way or another. You’ll wonder what if.”
+
+“You would have me leave?”
+
+“Look, don’t set yourself on fire to keep people warm, yeah? You’re there to make peace, not be a target dummy.”
+
+“I see what you mean. If this turns into an inquisition, I shall leave immediately. We are on a schedule anyway.”
+
+“Yes, speaking of that, they won’t try anything, right?”
+
+“Not in full view of the entire Helockian aristocracy, no. Glastian politics might be cutthroat but it is not mad.”
+
+“I hope you are right.”
+
+“If there is any issue I shall teleport back here. You have my word.”
+
+Sidjin left and Viv walked out to borrow a spyglass. She spotted him getting into the lodge. He left half an hour later without fanfare during a secondary performance involving a flutist and a really large snake. He didn’t seem shaken or anything.
+
+“Did it go well?” she asked as soon as he arrived.
+
+“Yes. He asked a few questions. Wanted to know how I was doing.”
+
+“Huh.”
+
+“Implied that it wouldn’t be good for me to win, suggested I talked to Aldus or Shaya, whoever wins the next contest. He said Glastia would not forgive me but it was up to me… to forgive her.”
+
+“Did he forgive you?”
+
+“He said there was nothing to forgive in a man who lived according to his principles. He accepted my choice. He… he apologized. Said that he should have reined in my cousin. The one who killed my merl friend.”
+
+“What happened to him anyway?”
+
+“I… killed him the night I escaped. With a knife. He never saw it coming.”
+
+“Wow. I hope you didn’t mention that.”
+
+“Of course not. Ah, the contest is resuming.”
+
+Viv only paid half attention to the following duels. Shaya had clearly grabbed wild talents from wherever she could to give herself the image of a unifier. After all, many people from different backgrounds manned the walls. It was nicely done but she was not a product of the Helockian establishment. Aldus simply had more resources which he proved by beating her three to one. Viv was especially impressed by his head mage, a peerless duelist who specialized in wide, gray mana area-denial spells. Nevertheless, Aldus moved on after a relatively tame event. Only one person had been wounded and it was nothing serious. A certain tension rose from the crowd because, as flashy as the combats were, they lacked violence. A stake. Only the bone witch had received the love of the mob.
+
+They would most likely get it in the next fight. The red mage had it in for Viv and he was Medjin’s first.
+
+“Looks like it’s my turn,” Viv said.
+
+“One last thing,” Sonagi said from his seat.
+
+“Yes?”
+
+“When powerful mages fight, sometimes tragedies can occur.”
+
+“I know.”
+
+“Make sure it’s him,” Rakan said with a serious air that looked strange on his youthful face.
+
+Viv reached the gate without issue. It opened with a clang, the massive reinforced panes pivoting on their hinges with a cavernous growl to let her through. A burst of cold air sent sand against her shoes and brought with it a fresher scent. She walked calmly while the mage who’d faced her in Sidjin’s study did the same from the other side. He wore the same standard issue reinforced robes as she did under a puffy yellow shirt. He smirked when he saw her. Clearly, he didn’t have a high opinion of Viv. She would have to remedy that.
+
+Deos was having fun.
+
+“Imagine, if you will, a sea of roaring flesh crashing against a mountain. Imagine a constant noise, an unending tide that seeks to end man and civilization! Imagine the blood, imagine the guts, smell it on the wind. Smell fire roasting them! This hell, ladies and gentlemen, is the crucible upon which great men are made or broken! And here is one who has survived and thrived on the field of battle as a rampart of man against beast. On the lodge side, the magma mage, the wall of Glastia, the man who turns plains into labyrinths of molten stone, I give you, Kos!”
+
+Viv waited while Kos bowed to the crowd.
+
+“And on the pit side, a fury who torched every place she has touched with the flame of change! She has slain two princes and forced a king to suicide, she has carved a kingdom out of Enoria with her spells, she has made pacts with subhumans for power! The herald of shadows and the scaled menace. The revolutionary! The Black Witch! I give you… Viv the Outlander!”
+
+Viv thought there was some creative interpretation in Deos’ speech, and the crowd’s welcome was changed as a result. Those were cheers but not exactly the supportive ones. Her soul felt a shift in the frenzied emotions swirling through the arena, so intense they were and so packed the rows of humankind sat above her, beyond the shields. Down here, the mass of the spectators was transfigured into an obscene mass organism with a thousand voice and a single, simple mind with only one purpose: get their dose of entertainment through vicarious violence. She closed her eyes. Now was not the time to get distracted. Black mana flooded her conduits in preparation for the struggle to come.
+
+“Let the duel… begin!”
+
+Viv coated herself in black mana and struck at the same time, just as Kos did. She felt the heat of his spell as it struck against her quickly formed chestplate. It almost seared her eyes, even with its energy dissipating. Kos buckled and screamed as her attack punched through his arm clean through, deactivating the robe in a single blow. Above, Deos crooned. There was blood but, unfortunately, it wouldn’t be enough. Kos finished coating and his mana armor was massive and thick. Viv realized he was fixed to the ground.
+
+“Blast.”
+
+Her small artillery spell smashed into his defenses, digging deep holes in a quickly forming wall of incandescent stones. Her last attack speared through where he should have been, but he… swam through solid stone. She didn’t know it was a possibility.
+
+Meanwhile, more and more incandescent rocks erupted from thin air with every second. A plume of stones and superheated air burst toward Viv. Her danger sense screamed. The first red-hot gravels touched a shield and Viv realized the drain on her mana was enormous. Kos’ lava was a persistent thing, an old power that refused to be dispelled or pushed aside so easily. It was the perfect intent for such an attack, so Viv used a burst of speed to jump to the side.
+
+“Aegis.”
+
+She caught the rest on her shield before it could reach her and counter at the same time.
+
+“Astra.”
+
+Her new mainstay spell caught the next eruption at the origin, the black mana charge detonating to scatter the attack before it could launch towards her. Kos was persistent but she was much, much faster. Viv vented black mana at her feet and the lava there winked out under the pressure of entropy. A sphere of cold expanded around her. Nevertheless, the temperature in the arena was still increasing. The sand around Kos was turning to glass. Time was not exactly on her side. He was obviously a powerful defensive caster who needed a bit of time to get going. She would not make it easy for him.
+
+“Eldritch wall.”
+
+Tentacular flowers bloomed on the growing volcano, draining the heat and shape of Kos’ domain, if only briefly. A cry of frustration emerged from the mass of magma. The spots of darkness clearly disrupted whatever Kos was planning before the caldera of the growing mountain vomited more heat. The contest was still a losing proposal but Viv had a plan. She just had to push Kos a little more.
+
+More eldritch flowers bloomed and withered. More astra spells disrupted Kos’ attack while the volcano grew lopsided since Viv still vented mana on her side of the arena. The massive pile soon teetered and fell to the side, further disrupting the swimming form of Kos.
+
+Viv felt him draw from his focus to replenish his reserves. Her disruption was working well.
+
+“Enough of this!” the man roared.
+
+The volcano erupted, truly erupted. Viv caught most of the early pebbles on a shield as a tidal wave of magma collapsed in her direction.
+
+“Shadow step.”
+
+Viv teleported on the other side of the volcano. She saw Kos freeze in the middle of a triumphant shout.
+
+It was such a pleasant view.
+
+Abyssal tendrils snaked from Viv’s form when she unleashed everything in her arsenal in a tide of deadly offense. Eldritch walls weakened the barrier, then astra hexes crashed through it, soon followed by the unceasing cone of a flamethrower-like werfer. Her black fire hissed and ate at the unprotected slope with gusto until Kos was forced to retreat deeper and deeper into his collapsing hill. Viv noticed that the volcano immediately cooled down. Apparently, it took some effort to keep it going. The more his flames winked out and the less space he had to escape to. Kos was losing control. Viv’s piercing attacks followed him where he went. She could feel him. See his mana move. He escaped to the last remaining patch of activity and the stone around him morphed into the shape of a gigantic walker. A colossus of heated stone twice her size. A large shield blocked her attacks, but Viv knew from the constant drain on his focus that he was running on fumes. He was on the verge of collapse.
+
+She felt a sense of wonder when the walker charged her, a giant of magma like a golem from the legends. Black mana sang in her veins. Warm, acid air filled her lungs. The roar of the crowd sounded in the distance but it didn’t matter. There was just her, the colossus, and the magic screaming in her being, begging to be unleashed. She felt so very alive.
+
+Viv charged Kos.
+
+The movement was so unexpected that the construct almost stumbled. Blasts and a constant stream of destructive mana forced its arm to turn into a shield as Kos was forced into the defensive. Viv slid under the blind side and did what she, of course, really loved to do.
+
+“Excalibur.”
+
+What had started as a short sword was now taller than she was when she swung, the void blade slicing easily through anything the golem could put up. She knew she’d hit flesh when the construct crumbled. A horrible scream sounded from behind, and her danger sense screamed at her once more.
+
+“Aegis.”
+
+The shield could not have appeared a second too early. Kos’ golem exploded, sending superheated shrapnel through the entire arena. One of the hexagonal panes shattered and a stone hit Viv’s mana armor but it mostly held. She still felt the shock in her shoulder. It pushed her, forcing a step back. A sharp pain spread through her ribs.
+
+She poked at them. They weren’t broken. Meanwhile, Kos fell on his side. Viv was horrified to see that whatever protected him from the heat had failed at the last minute. Parts of his skill and his chin looked badly burnt, the flesh practically cooked. It had to burn horribly. She took an involuntary step forward. She just wanted to help. She didn’t want him to die. It wasn’t a fight to the death.
+
+He mistook her intent, face twisted in a rictus of terror.
+
+“I yield! I yield!”
+
+Viv stopped where she was. She toned out Deos’ congratulations and the adulation of the crowd to walk back. The only thing she could feel right now was relief. And discomfort. She coughed. It didn’t feel very good.
+
+Danger sense: intermediate 6
+
+That felt better. Danger sense really came in clutch in the hardest contests. Viv still realized she was pushing it. As soon as the contest was over, she would go and see Elunath. Her body was failing slowly but surely. Better play it safe.
+
+Viv passed by Sidjin on the stairs up to her lodge. They did not speak. There was no need. She returned to her seat to see what else Medjin had in store for them.
+
+The first sign of shenanigans appeared as soon as the far gates opened. No one missed Sidjin’s shoulder droop and his back bend through shock when a figure wrapped in turbans and shawls stepped from the shadows of the gate. Viv felt cheated. How could they even plan for this? Or was it a coincidence? She looked at the distant face of Deos with a borrowed spyglass. The man drank wine from a copper cup with the sense of satisfaction of a fat cat.
+
+The newcomer was tall, especially for a woman. Her hips rolled with every careful step. She oozed danger and femininity with every step despite the complete absence of naked skin. Only a pair of amber eyes could be seen, glinting from beneath a red shawl like that of a tiger stalking its prey. She wasn’t sure but Viv felt she could feel a terrible air of disapproval radiating from that fixed glare.
+
+“Sidjin,” the woman finally greeted, her voice perfectly clear in the immense arena.
+
+“Mentor.”
+
+“You have lost the right to call me that.”
+
+To Viv’s surprise, the tall woman stumbled and she now recognized that her slow and deliberate movements were not a statement of control or majesty. The woman’s body was wrecked. By what, she didn’t know, yet that moment of weakness was enough for a shawl to shift, revealing scar tissue to Viv’s spyglass.
+
+“I will not fight you,” Sidjin stated.
+
+“Foolish child. Have you forgotten all I taught you? A prince cannot choose peace.”
+
+Deos’ voice covered the arena with gleeful excitement now that the scene was set and the actors had taken their position.
+
+“Ladies and gentlemen, we have had heroes and villains in this arena, have we not? Today, I bring you both at the same time! He defended the walls with fervor, turning the beastling tide to gore with his mighty arcane powers, until he did not. The man responsible for slaying uncounted monsters, the man who saved the wall only to betray it! The man who fought without stopping until he deserted! The Red Mist himself! I give you… Sidjin of Gastia! The Fallen Prince!”
+
+Cheers and jeers rocked the very walls with quite a few insults mixed in it. The crowd was involved. That was dangerous.
+
+“And facing him, a ghost from his past returned to the fray from her retreat, a distant denizen of the shores of Vizim, she who taught him all he knew! The giantess takes up the focus again for one last performance, but is it to scold, the forgive, or to correct… forever? Ladies and gentlemen, I give you the wandering mercenary, Mensur!”
+
+“You should not be here, Mentor,” Sidjin said.
+
+It annoyed Viv how clear his voice was. She used the spyglass to watch the rafters. Spectators leaned forward, skewers in their fists and cups in their hands temporarily forgotten. How they lived for this. She had ignored them but now they disgusted her because she was at the receiving end of their morbid fascination. Or at least, Sidjin was. It made no difference to her.
+
+The fight began and Viv knew Medjin had not selected her to win. He had selected her to hurt Sidjin. He probably planned on swapping her out later. It was not so much a duel as watching a nurse corralling a tired child.
+
+Mensur moved well when she did move. Her steps carried her to the side between quick casts of arcane mana, thrown discs as serrated as Sidjin’s but so much more simple. Brittle. Fire tongues and defensive ridges of sand alternated with each attack in a constant barrage that must have been quite a sight at some point. Her constant steps also meant that whatever attacking party went after her would not corner her so easily. It reminded Viv of her own style. She could forfeit a defensive circle in favor of mobility as well. Nevertheless, the routine was a broken one. It was like watching a high level athlete practice again after ten years of inactivity, rigid limbs trying to recreate complex gesture they remembered but could no longer accomplish. There were still fugacious moments of brilliance, breathtaking shows of precision and expertise that spoke of a deadly elegance achieved through years of strenuous training. Those were canceled by constant flaws, missteps, and failures. And even then, those flashes of greatness were easily dispelled by Sidjin’s implacable precision.
+
+She doubted Mensur could have won in her prime and that prime was long, long gone. She was the draft to Sidjin’s masterpiece, the inspiration behind his success. She was not his match.
+
+Viv witnessed an unusually gentle Sidjin cornering her slowly, carefully. A tiny transparent barrier tripped her, making her fall to her knee where he could have broken bone instead. She still hissed in agony. Viv could hear it. Everyone could hear her pain. On the other side of the arena, Deos sipped more wine.
+
+She realized what was wrong soon enough. Sidjin always waited for her to finish before countering. He was concerned she would lose control of her spell. Viv had seen it before, even felt the feedback. Sometimes, casters lost control of their constructs. It usually happened during large-scale rituals and remained rather rare. Despite the distance and the chaos of spent mana, the signs were there. Mensur had had a spell blow up in her face. It had torched her conduits and who knew what else. It was a miracle she could still move and cast.
+
+Viv could reattach four limbs and genitals but she doubted anyone could repair that sort of damage.
+
+It did not take long for Sidjin to trap Mensur with transparent shackles. Those were still mana constructs, however and the woman unmade them with a burst of power.
+
+“I see… I see you have taken some of my lessons to heart,” she gasped.
+
+“I have taken them all to heart. I lived according to my values.”
+
+More shackles clanged shut on her tall, ravaged frame.
+
+“What values are there that would make you turn on your homeland? Why would you open her gates and leave her defenseless? How could you do this?” Mensur demanded, her back straight despite her inevitable defeat.
+
+For the first time in perhaps forever, Viv watched her loved one lose it. His face twisted with both anger and hurt. It made her mad at Mensur for being such a rabid twat. Could she not see she was being used? Her friend Gevaudan had a name for this sort of people: loyal stupid. Even Sidjin was having enough.
+
+“Because Glastia betrayed its word! Because it failed to live to its standards, to its honor! Because nobody cared! That is why I acted! To save a people. Why can’t you see that?”
+
+“But not your people, and over three hundred mothers wept for their children because of the choice you made that day. I will not forfeit. Do what you have to do. Complete your apprenticeship.”
+
+“I swore I would not raise my hand against you.”
+
+“And I would like to know what your word is worth. Do it. Take me down.”
+
+“I refuse. You have lost, Mensur. Give up.”
+
+“Foolish child. I told you of duty and sacrifice, did I not? Of course you have forgotten.”
+
+The fallen prince seethed in silence for a while, then his gaze turned upward.
+
+“Deos, this fight is over. Declare me the winner,” Sidjin demanded.
+
+The grotesque man finished his cup with slow detachment, drawing each gulp for seconds. His face split into a voracious grin,
+
+“The rules are clear, prince. Until a combatant is either incapacitated or gives up, the fight goes on.”
+
+“She is incapacitated!”
+
+“Then why can she still cast spells hmmm?” Deos asked with mock curiosity.
+
+Below, Mensur had broken a shackle. One among dozens.
+
+“I demand… a draw,” Sidjin finally said.
+
+The crowd sniggered and jeered at the two blockheads. Viv seethed in her seat. He was being used. His sense of honor was being used against him and he was letting it happen.
+
+“Idiot idiot idiot.”
+
+They cheated. They had to have cheated. They must have known Sidjin would come second, somehow. Viv glared at the distant form of Deos, whose job it was to make things ‘interesting’. He had set it up with Medjin. He was sure of it. Gods dammit.
+
+“The arena master can declare a draw if two combatants are locked in a contest without end, or at least without end in sight. I will not hurt her and she cannot break out. I will stay there for days if I have to.”
+
+That idiot. Viv groaned and shoved her head between her hands, bemoaning her Sidjin’s rigid sense of honor.
+
+“You could just slap her really hard,” she bemoaned.
+
+“He won’t do it,” Sonagi said. “He’s inflexible like that. It’s clear in his style.”
+
+“Fuck!”
+
+“I will consent to it,” Deos announced. “You may leave then, fallen prince.”
+
+“Looks like we’re next then,” Sonagi said, and he stepped out of the lodge.
+
+Viv breathed in and out. It was fine. They were at one victory, one draw. If Sonagi won, they would move on. Probably forfeit in Aldus’ favor. It would be fine.
+
+She looked on, numb, as the contestants were led out. Then she frowned when someone knocked on their door. It was a footman from the arena. Something in his posture raised alarms in her paranoid mind.
+
+“We are waiting for your next contestant. Where is he?”
+
+Viv felt as if she’d been suddenly immersed in a frozen lake.
+
+This was it. This was the sword of Damocles she’d felt over her neck since the beginning of the competition. This was the fuckery that would lead to a cockup cascade. The scheming had begun. The foe had struck.
+
+“What do you mean? It’s Sonagi,” she said, refusing to accept the inevitable complication.
+
+“There are no contestants waiting for your team.”
+
+Viv was on her feet before the man finished her sentence, then down the steps. She stopped at the gate. Sidjin sat by the entrance, having a private moment of miserable introspection.
+
+“Where’s Sonagi?” she demanded.
+
+Sidjin blinked and frowned. The question woke him up from his funk.
+
+“What do you mean? He is not with you?”
+
+“It’s a fucking trap.”
+
+“You have to produce a contestant. In the absence of contestant, your team will be considered to have forfeited. Your fourth may step in for the absentee,” the footman said with an air of innocence that Viv didn’t trust one bit.
+
+“You! You’re in on this!” she screamed.
+
+“Please calm down, madam.”
+
+“It’s fine, Viv,” Rakan said with confidence.
+
+“But—”
+
+“I’ll surrender if I have to,” he stated.
+
+Viv watched the youngest member of their team with surprise.
+
+“If it gets too tough or there is a close call, I’ll surrender. I won’t die here stupidly for this contest. You have my word. Find Sonagi. He’ll win the last match for sure.”
+
+“Ok but you promised.”
+
+“I’ll get back to us. We saw the rest of Medjin’s team. They are professional frontline mages provided by the nobility. They won’t kill me for sports. I’ll forfeit as soon as I’m getting cornered.”
+
+“Alright. I’ll hold you to it.”
+
+“Don’t be a hero,” Sidjin said.
+
+“I won’t. I don’t have to win. I just have to show up.”
+
+“Alright. You go in and we find Sonagi.”
+
+“You have a couple of minutes. See you soon,” Rakan said as he moved to the gate.
+
+The footman smiled and left at a brisk pace. Viv and Sidjin exchanged a glance. The prince spoke first.
+
+“I’ll follow this man, you check the path from the lodge to here?”
+
+“There is only one thing that could force Sonagi to go away.”
+
+“His mother,” Sidjin realized.
+
+“Yes. I’ll go there. Meet at the lodge afterward.”
+
+They split, Viv running with adrenaline-fueled legs. The corridors blurred as she moved faster than an Olympian medalist. It still didn’t feel fast enough. The guard at the entrance of the private quarters opened the door to let her in. Sidjin’s mother’s cell was empty. Her belongings were gone. There were no signs of a struggle.
+
+“Sonagi’s mother. Where is she?” she demanded.
+
+“Left a couple of minutes ago.”
+
+“With whom?”
+
+“With Sonagi, ma’am,” the worried sentry said.
+
+Viv blinked.
+
+If her heart had been plunged in a lake before, now it resided at the bottom of the Styx. She climbed back to the lodge three steps at a time. The sun was setting, bathing the arena in a bloody tinge while a frigid wind froze the sweat off her brow. Medjin had brought his contestant forward. On the sand of the arena, Deos was finishing his introduction.
+
+“— no longer shackled by the sin of his past, my lark is free! The punishment for the death of a scion was lifted by the offended family this very morning. No longer will he have to fight for a foreign flag. No longer will he raise his hands in the service of a stranger! Tonight, ladies of gentlemen, Sonagi returns to the fold. He is free!”
+
+The crowd went wild at the comeback of their prodigal son. Sonagi looked good from up here, regal in the fashion of Helock under a crimson sash. His smile lacked the brittle quality it had kept during his recovery. There were no crow feet around his eyes or blemishes on his skin from years of substance abuse. He was radiant and scruffy, a rogue champion returned for a second chance. And the crowd gobbled it up, hook, line, and sinker. Banners spread across the lower rafters proclaiming their support for the ‘elemental juggler’. Throats screamed their adoration until they grew hoarse. Viv leaned on the railing, fingers gripping the cold wood like claws. Her breath hitched in her chest. She fought off tears, because she knew what was going to happen.
+
+“No, you can’t do this to him,” she said
+
+There was no one to listen.
+
+Sonagi picked that moment to look up and shrug, a mocking smirk on his face. The spectators saw it. They laughed at Viv’s expense, now that all their attention was suddenly on her.
+
+“Let the fight… begin!” Deos said.
+
+Viv considered jumping down but even if the shield didn’t stop her, the rest of the arena would. She couldn’t win against such numbers. The weight of her surroundings crushed her mind and that great circle of stone and sand now felt like a maw closing around her and she was already caught, already done for. Gravity and fate would finish what was already started. In that moment, there was nothing she could do but watch, knowing the end, knowing Rakan didn’t stand a chance. The young man had trusted Sonagi. He had shared all his tricks with his teacher. There was nothing he could do that he hadn’t demonstrated and explored in excruciating detail, no move he hadn’t practiced until his core dried up and his fingers shook from constant effort. Sonagi knew Rakan inside out.
+
+“Come on, it’s not funny!” Rakan pleaded.
+
+“Show me what you learned, boy. It’s your chance to shine!”
+
+The fight started with both casters on equal footing. Viv knew it was an illusion, of course. Sonagi knew his opponent so well that he could afford to dictate the pace of the fight for a better show.
+
+A part of Viv dissociated. Despite her reinforced mind now sharper and more focused than what the limits of the flesh could allow, there was a limit to what she could take. Mostly, Viv felt powerless.
+
+If there was one thing she hated, it was to feel powerless. She should not have focused on training so much. She should not have let Sidjin handle the preparation just because it was his city at stake. Now, all the training she’d done to make sure Rakan would strive had been thrown away by one maneuver, one fatal blow that had come from a scheme she hadn’t see coming. If only she’d asked Solfis… but it was too late. Unprepared. Sloppy. No, not sloppy.
+
+On the other side of the arena, Deos sat with his hands on his ample gut. A king in his domain.
+
+They’d been fucked with. Sidjin could not have predicted this level of bullshit. The worst thing was, there would be no repercussions because recruiting contestants was legal and it would have been plausible for Medjin to guess their order. She was without recourse. And so was Rakan. The young man was pale, messy. His spellwork felt frayed to her expert perception despite the quick exchange of attacks just like she had seen hundreds of times before during training.
+
+“Sonagi, what are you doing? Come on, snap out of it! Please!”
+
+“Do I look impaired, boy?”
+
+“What in the name of the Light Gods—”
+
+“Oops! Watch your left!”
+
+Sonagi, of course, attacked his right and scored a small gash on Rakan’s reinforced robe. Its energy waned. Viv knew he could have attacked harder but that was not Sonagi’s style. The man didn’t want a victory. He wanted a spectacle to enshrine his return in the mind of his fans.
+
+Viv could not move from her vantage point, even if she had wanted to. Terror filled her veins. It was no longer a question of defeat. It was about how far Sonagi would go for a good performance.
+
+“Rakan, give up!” she finally yelled.
+
+He’d promised. Her voice sounded clear in her ears but suddenly, the sound of the cheering crowd grew louder, drowning her pleading under a tide of raucous calls.
+
+“Rakan!”
+
+The very arena pushed her concerns away. It would not tolerate interference under the all-seeing gaze of its master Deos.
+
+“That fucking…”
+
+It was useless. Rakan was too into it now, too emotional. His promise was forgotten. He did not do emotional very well. Sonagi danced around him like a ballerina around a toddler. He stopped attacks at the last second, dodged seemingly perfect strikes. He used tiny blue shields to block powerful fire blasts, the attack seemingly slowing as it approached the azure buckler. Each of Rakan’s attempts were unmade before they could truly manifest. Once, Sonagi drew sigils at the same time as his student just to show he had countered him before the first part of the spell was even built. It was a humiliation.
+
+“Just fucking stop,” Rakan said.
+
+“Come on boy, I trained you better than that.”
+
+“Maybe.”
+
+Rakan feinted.
+
+Rakan never feinted since it was not in his mindset. Feinting required changing a spell mid-way. He had not trained for it. Sonagi had said it wasn’t worth it at this stage. But Rakan did it anyway. A stone throw turned into a wall of earth. The young man jumped behind it, briefly disappearing from view and leaving his circle. For the first time, Sonagi focused. A projectile curved from behind the cover. It was gray, mostly, and charged with intent. Dangerous Sonagi stopped it as he always did with just the right amount of brown mana. This allowed the payload to carry on.
+
+Viv watched a pearl of black mana erupt from the brown shield. It was very little, barely larger than a pearl. Maybe that’s why Sonagi didn’t see it.
+
+In a way, Rakan knew his opponent just as well. Sonagi never used a safety margin. He was that confident.
+
+The gobbet of black mana clipped Sonagi in the jaw. Dark splotches spread over his smooth cheek but it was not charged with the meaning of annihilation, the way Viv used it. The riposte was immediate and definitive. A focused beam of red slammed into the wall, torching it, piercing it. Viv saw Rakan throw himself to the ground just as she knew he wouldn’t do it in time. The focused lance slammed into his torso like a pin through cork.
+
+Viv was out of the lodge before he finished collapsing.
+
+“Nice try,” Sonagi said, “but I care about my image quite a bit, you see,” Sonagi taunted at her back.
+
+Weird how she could see every stone in the walls with such precision, despite how little it mattered. She grabbed the vial around her neck. It was the potion she had found on the lich and that could hold death at bay for a moment, allowing a victim to live until healing could be applied. The plan had been to use it on herself. That plan had changed. She hoped it had changed. Any human from earth would be dead by now, but perhaps… He probably had decent endurance, what with crossing the desert. She could only wish.
+
+Viv was not supposed to cast in the arena outside of a fight but she still shadow stepped to the antechamber. Fuck the rules.
+
+The footman opened the gate to let her through. Her feet pounded the sand. There were already arena hirelings with a stretcher. Rakan had his hands over a hole under the left lung. Entry wound cauterized but not deep. Little blood. No exit wound. Massive trauma.
+
+“So… sorry. Sorry!” Rakan said.
+
+Viv used the opportunity of an open mouth to shove the potion through his blood-tinged teeth, dripping droplets down his gullet. Hopefully, that would suffice. She inspected his wound. It was so… and she didn’t have her kit. He should be dead.
+
+She didn’t know what to do. So she took his hand. He gripped it.
+
+“Sorry… forgot the promise.”
+
+“And Medjin moves on to the next stage with two victories, one draw, and a loss!” a distant voice said with glee.
+
+Maybe she could pray to Neriad? For a miracle?
+
+“I got it,” Sidjin said by her side. “Priest on the way. You two, GET MOVING.”
+
+Sidjin’s aura of intimidation flared and it was something to behold. Viv didn’t expect it. The orderlies lifted Rakan with haste while Sidjin cast simple, life-based spells to stabilize Rakan. The wound took a pinkish hue.
+
+Viv was left behind. There wasn’t a speck of life mana in her core.
+
+She also felt the gaze of the crowd as they finally got their blood. But not death. Rakan would make it. He had to.
+
+The gate closed behind her. She had walked in a daze, unaware of her surroundings. The stretcher was out of sight, not that she could do shit except be in the way. Her own magic flared in answer to her powerful emotions, looking for an outlet that she could not allow herself to find. Steps approached. Sonagi was coming, with Medjin and Deos not far behind. Another violation of the rule of the arena, and again, not one that was serious enough to matter in the grand scheme of things.
+
+Viv’s pain struck her dumb rather than making her angry. The dull ache in her chest that came with black mana devouring her from the inside only compounded the icy grasp of grief and disbelief gouging her heart now. That was why her first and only word was a question to Sonagi.
+
+“Really?”
+
+Not why, or how, or insults. No anger, not yet. She just hadn’t reached that stage. And yet, Sonagi mistook it for a personal question. Or perhaps he had been waiting for that moment. She couldn’t be sure. His words reached her as if through water. They sounded distorted.
+
+“You think I owe you? You think you saved me by making me work every day to train you like some indentured servant? You think you were doing me a favor by inciting me to that shithole of a city, far from everything, to serve your interests and labor for you until I die? Because you have not solved my situation at all. You just want to take me away to replace their collar for yours. I know how you work. You pick talented lost puppies like the boy and act a little nicely. They eat from your benevolent hands, oh dear ruler, so happy to have someone finally tell them how great they are. Cheap and convenient labor is what you get. But I’m not some Hallurian bumpkin, Viv the Kingslayer. I’m Sonagi, the champion. And I’m back. If you were a little smarter you would have seen it coming. After all, didn’t I tell you?”
+
+He leaned forward until his breath made Viv’s hair flutter ever so slightly. His eyes were wide, manic. His traits were so furiously intense.
+
+“I don’t want to get back to this hell. I can’t. I’ll do almost anything for a proper way out.”
+
+Viv’s enhanced mind conjured images of a smiling Sonagi during training. He had felt more brittle and hollow then, but he had already been planning his betrayal. What hurt Viv the most was that Sonagi had been talking about Rakan, the boy. How the young exile had given the redeemed duelist a purpose. And that whole time he meant to turn against them.
+
+Grins appeared around Viv’s shocked form. Medjin smiled with the smug satisfaction of someone who had so thoroughly outplayed his opponent. Deos lapped at the enfolding scene with the vulgar pleasure of a thrill seeker watching a train wreck. They feasted on her pain. They enjoyed it, she realized. They enjoyed seeing her down. What had she ever done to warrant such hostility?
+
+“And I found that way out. I contacted the Virg family. You know, those whose scion fell by my hand. They were only too happy to cut a deal with Medjin and bring low a certain foreign upstart they’d seen strut through their cities as if the pavement belonged to her. They know you moved the underworld, somehow. In a way, this is about you. You only have yourself to blame.”
+
+He still didn’t get it and Viv realized she needed him to see, to understand. This was not a matter of culture anymore. This was about the heart of what made humanity. The core values that drove them all to strive for the best and to train the younger generations so they could do it as well. It was about found families. Friendship. Loyalty.
+
+“Rakan, Sonagi. It’s about him, not me. You didn’t have to do that to him. You didn’t have to break him. Because you did break him. He was just a boy.”
+
+“Then he may consider this my last lesson. We are done.”
+
+Power exploded from Viv’s form. Black wings burst from her back, cutting the light of braseros and forcing a gasp in the guards. Deos stumbled back, as did Medjin. His guards cast hasty shield with terror. Even Sonagi, so cocky a moment earlier, even he took a step back. But Viv felt calm and in control. She was angry, yes, but it was a thing of the void. It hungered and gripped her with claws of burning ice. Darkness crept along the edges of the room until even the light of the sun felt like a distant thing, and the caress of heat a forgotten dream from before long ago, when entropy had not won yet.
+
+Viv was furious. No, she was filled with acid hatred that gnawed at her. She let the emotion course through her mind but she did not give it control. That was fine. Everything was fine. She was going to… to make things right.
+
+“Oh no, I do not think we are done.”
+
+The plates of solid black mana rolled over her form until scales formed and the low hiss of disintegration became the only sound in the black pit this antechamber had become.
+
+“There are guards everywhere, Viviane. You will not make it—”
+
+“Rakan is not a game piece.”
+
+Even Sonagi quieted. Footsteps rushed as more guards entered the room, but no one spoke. They just froze where they were. Viv would have cut them down where they stood if they’d tried to touch her.
+
+“It was not a game for him. You should not have come after mine. Not like this. So, you want to be a legend? You will be. I will make you into a legend. Everyone will remember the way you died.”
+
+Viv pulled back the aura, the magic, everything. She felt the salty prick of tears in her eyes from either grief or rage, she could not tell.
+
+“See you very soon.”
+
+Viv walked out and made her way to Aldus’ room. She would wait by Rakan’s side later. First, she had a bargain to strike.

@@ -1,0 +1,427 @@
+---
+id: e146607e-d34c-5ae1-b2bf-5adff69d07fb
+page-type-slug: story-chapter-royal-road
+title: "110 Yawm of Flesh"
+slug: 0068-110-yawm-of-flesh
+partOf: the-new-world
+position: 68
+ownLength: 6648
+unit: words
+ownProgress: 6648
+publishedAt: 2018-04-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/207180/110-yawm-of-flesh"
+royalRoadId: "207180"
+markedReadAt: "2026-06-29T21:23:10.517Z"
+---
+
+It was a weird feeling when the words left my lips. I didn’t expect them, but they fit what was going through my head. Maybe it was the hormones talking too. At that point, it was hard to tell. A more surprising emotion was anxiety. All of the sudden, when I thought of my meeting with Yawm, it made me nervous. As I laid there with Althea, I reasoned through the sudden spike in dread. No matter how much I thought about it, it boiled down to one thing.
+
+I had something to lose now. Up till this point, I didn’t have anymore family, friends, or anything really. Over time I built friendships, but friendships won’t stop someone from being reckless. All of a sudden I wanted to keep something. I wanted to protect something. My life wasn’t just some ploy for survival.
+
+I owned a joy that I wasn’t about to let go. Althea loved me, and she was one of the few people who ever had. That meant I wasn’t about to let someone fuck up her future or my future with her. The more I dwelled on that, the more I wanted to get up and move. Whenever Althea drifted off to sleep, that’s exactly what I did.
+
+I lifted myself off the bed. As I left Althea, my armor folded back onto me. As it did, the armor dug spines that connected back into my bones. The armor hadn’t disconnected from my bones or nerves, just my skin. The moment I left Althea, the armor refused to unlatch once more.
+
+I could get my armor off my skin if I focus, but it didn’t want too. It would snap back the moment I stopped focusing on it. It was like how the armor let me eat and use the bathroom. When I needed to eat, my armor molded out of the way of my mouth. When I needed to shit, it molded out of the way.
+
+It understood that I had needs. In this case, the armor bent out of the way and even protected Althea and I while we did it. I worried about that for ages during my free time. It turned out that my armor would block off everything to make sure the sex would happen. And to think, here I thought it would cock block me forever.
+
+Refreshed and motivated, I left a note on Althea’s desk before leaving her room. It explained where I was going and what I was doing. It also let her know that I thoroughly enjoyed it, and that she better not cheat on me with someone else. I figured it was a clever way of saying we were dating.
+
+I passed out of the room, reaching deeper into the mountain. Torix sent a map of the mountain base to me. Within the outline, it showed my own personal room. Wanting the quiet and calm, I reached my room before sitting down.
+
+I focused my thoughts with a few deep breaths. A moment later, I pulled out my grimoire and set to work. Before I started, I opened my status screen and glanced at my armor’s stats. At the bottom were the upgrades from the dimensional cipher. I looked at them.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code fromthe dimensional cipher. The bonuses are as follows.
+
++72 Strength
+
++72 Dexterity
+
++20 Endurance]
+
+They were solid bonuses now, with the strength and dexterity bonuses being higher. The difference was that I had had them for over a week to get the bonuses they gave. On the other hand, the endurance had only been on for less than one day. That meant I would be getting double the attributes.
+
+It left a bitter taste in my mouth. Given time, I could stop Yawm with zero risk. That wasn’t an option anymore though. If the overseer discovered Yawm couldn’t escape, earth would be glassed. If Yawm had months of time to do whatever, he could have already destroyed earth.
+
+Hell, Ajax didn’t seem like the most patient guy either. Letting Yawm continue without any kind of resistance was asking for death. It’s kind of like how the old saying goes, keep your friends close and your enemies closer.
+
+First things first, we needed a bit more man power. I sent Torix a message.
+
+(Dimension C-138, 9:46 P.M. 1/12/01) - Can you send me a list of the current steel legion members under our command? I’ll need to send them all a message about joining my new guild.
+
+Torix replied in seconds.
+
+(Torix Worm, of Darkhill, 9:46 P.M. 1/12/01) - You can create a guild? If so, I’d like to discuss the details of it. Regardless, I’ll forward the list. To shorten the process, simply go towards your messages and use thereply to all function. It will send a message to all of the list of names.
+
+Make sure you send me a message as well. Knowing you and your build, your legacy gives endurance. It’s a stat I could use more of.
+
+I grinned at the message, the idea of empowering our force more than just attractive.
+
+(Dimension C-138, 9:47 P.M. 1/12/01) - Thanks for the tip. I’ll send the message right away.
+
+I received a message outlining all the steel legion names used by Schema. Now I needed to make the actual guild. After a quick groan, I opened my legacy menu. Whenever I did, a message popped up.
+
+You may unlock a guild. Do you wish to create a new guild? Y/N?
+
+I pressed the yes button.
+
+What is the name of your new guild? ___________?
+
+After a minute or two of thought, I named the guild The Harbinger’s Legion. It wasn’t a complicated name, but it got across what I wanted. With that finished, I selected the finalize button.
+
+Your guild, The Harbinger’s Legion, was successfully created. You may send invites to your guilds, set up quests and bounties, and claim ownership of a city. It is recommended that you only give out your legacy bonusafter the completion of an entry level quest. Otherwise the potency of your guild, along with its reputation, will spiral downwards.
+
+In the case of most guilds, quality trumps quantity. Good luck with your new guild aspiring sentient.
+
+Considering how impotent the steel legion had been at handling Yawm and the plague, I agreed with the message’s tip. With my guild finished, I sent a simple message to all surviving members of the legion.
+
+(Dimension C-138, 9:47 P.M. 1/12/01) - This is the Harbinger of Cataclysm. We have slayed the four followers and now we must unite against Yawm. Before we go into battle, I offer each of you a reward. This invitation to my guild will reward you with survivability and strength. Each of you has earned it.
+
+Enjoy the downtime as we prepare for the final confrontation. After we’ve recovered, we will make our final push. We will go and slay the destroyer of our homes and the killer of our families. We will go and tear Yawmapart. Rest well, warriors.
+
+I sent the message, not dwelling on it too much. I figured giving it a larger than life tone would help the soldiers. If I was going to be a symbol, I needed to act the part. That included making my messages sound epic, at least in my mind.
+
+With that finished, there was one last task at hand. I needed more mastery of the cipher. Everything else was out of the way, so I dug down into my work. That started by glancing at the rune for endurance.
+
+It was a masterful character, the lines etched with certainty. It lacked any doubt in what it was, and I enjoyed seeing that in my own work. With that in mind, I worked on other runes using the same method.
+
+First, I would think about whatever the concept was. Willpower, strength, it didn’t matter as long as it represented what I thought about the concept. After that, I sketched a few outlines of the character. I would compare these sketches with images of other eldritch runes, Baldag-Ruhl’s runes in particular.
+
+He created the biggest incantation I’d ever seen by far, and it worked without a hitch. Yawm’s runes completely fucked the other followers up by comparison. With that in mind, I scoured the ritual that Baldag-Ruhl used, finding the runes fascinating. It used to look like gibberish, but with time, I realized the magnum opus that it really was.
+
+From start to finish, the runes chained together a vast understanding of the universe. It was like staring at the Sistine Chapel. Finding a flaw was a hopeless endeavor. All I could do was marvel. Marvel and study.
+
+So study I did. I jotted notes on the rock ground of my room, drawing lines and figures of how the runes connected. Each symbol related with the next, like a flowing river of knowledge. If I wanted the kind of power Baldag-Ruhl had in his runes, chaining my runes together was a must.
+
+Making that happen was a different story altogether. Considering the runes responded well to my endurance, I used that rune as the base. I attempted carving an extra character to enhance endurance. This rune was about time. The way I saw it, staying power was a key part of having good endurance.
+
+It was discipline, keeping to the difficult parts of life even if they dragged on. Pushing past those sticking points was essential for success. It was one of the most necessary aspects of enduring. If anything, that whole idea could be taken to an extreme. If someone was unstoppable and immortal, then they were something like gravity.
+
+They would become a force of nature, something that others moved around. The idea of a perpetual existence reminded me of the Old Ones. I only knew two by name, Etorhma and Baldowah, but both of them left ripples around them. People spoke about them like black holes. They were things best left avoided and un-angered.
+
+They were both perennial forces. In my mind, it was the perfect representation of endurance. Even after the earth was consumed by the sun, they would remain, unaffected and uncaring. There was something both majestic and frightening about that.
+
+As I carved out the rune, these ideas took shape. With each line, they formed a firmer foundation of the letter. With each indentation, I filled out the concept, making it tangible. By the time I finished the rune, beads of sweat poured down my forehead as I grinned.
+
+Working with the language was a challenge, but it was rewarding at the same time. I glanced at the time. It was nearly morning already. One day already passed since my meeting with Torix. Two remained. It was odd how time flew whenever I focused on a project like this.
+
+It was like getting lost in a good book. With the rune finished, I channeled my mana into the endurance rune and the rune for time. I stood up and walked over towards Althea’s room. Since I couldn’t need quiet to focus on this, I might as well be there when she wakes up.
+
+By the time I reached Althea’s room, I charged one set of the runes. I placed it over the endurance rune on the inside of my forearm. It consumed the lesser rune beneath it. I walked into Althea’s room, finding herstill laying in the white sheets of her bed.
+
+Her chest slowly rose and lowered, her breathing steady. A tiny bit of drool leaked out of her mouth. It rose and fell with each of her breaths. I couldn’t help but snicker a little at it before walking over. I sat beside her bed, listening to her as I channeled my mana. After I finished the second rune, I placed it onto my other forearm.
+
+With both of the dimensional characters finished, I channeled my mana into them. Just like the other runes, they gobbled up my mana like starving hyenas. With the runes completed, two arms wrapped around my neck. They pulled me against the side of the bed.
+
+A pair of lips whispered into my ear, “That was amazing.”
+
+A second later, Althea rested her chin on top of my face. My helmet peeled off, letting her rest on my tousled hair. Althea rubbed her chin in it, “I never thought your hair would be soft either.”
+
+I looked up at her, a grin plastered onto my lips, “What did youexpect, metal cords?”
+
+She lifted herself up, tugging on my hair with a gentle pull, “Not exactly...Let’s see...I thought your hair would feel like monster teeth or barbed wire.”
+
+I rolled my eyes, “Really now?”
+
+She grabbed the sides of my face, kissing me. Her soft, luscious lips were intoxicating. With her face upside down to mine, she smirked, “Yes. I did think it would be like that.”
+
+I stood up, turning around towards her, “Well I thought sex with you would be hellish.”
+
+Althea frowned before I leaned close to her. I pressed her chinup to me,
+
+“I’m glad to see I was wrong though.”
+
+She went for another kiss, but I pulled back, making her work for it. I dodged two or three other attempts before she jumped out of the bed. She wrapped her arms around my neck and her legs around me chest. With her voluptuous body pressed against mine, she kissed me again.
+
+She pulled her lips away, “Want me to prove you wrong again.”
+
+I shook my head, “I’d love too, but I’ve got about two more days before meeting the legend himself. I have a few more preparations left.”
+
+Althea frowned, “Ah, really?”
+
+I raised my eyebrows, “Yes, really.” I lifted her up before setting her onto the ground. As I did, her body bounced in the right places. I glanced away,
+
+“Put on some clothes too. You’re distracting me.”
+
+Althea raised an eyebrow, “What, really?”
+
+I flushed, “Yeah, of course you are.”
+
+She giggled, flushing back at me. After she got her clothes on, an awkward silence passed. I broke it,
+
+“Hey.”
+
+Althea grabbed her hands in front of her,
+
+“What is it?”
+
+I wrapped an arm around her, looking away while I spoke,
+
+“I don’t do this kind of stuff with just anyone...and I uh, I just wanted you to know that this means we’re dating...right?”
+
+Althea beamed, “What? Really? Wait, I didn’t meant that. I meant of course we are. Duh.”
+
+I grinned back, “Good.”
+
+I let her go before walking out of the room, “I’ll be in my room studying the runes. I didn’t want you waking up alone and get some misconceptions about anything.”
+
+She looked up at me, “We’ll have lunch?”
+
+With a glowing grin, I raised a fist, “Always. I’ll see you then.”
+
+“I’ll see you too. I...I love you.”
+
+A spark of lightning shot up my spine. After that passed, I replied, “I, uh, I love you too.”
+
+Althea giggled as I stumbled out of the room. I walked away from my room, a bit of euphoria overcoming me. I glanced around, making sure I was alone. After I knew I was, I shouted,
+
+“Hell yeah.”
+
+Althea was a sexy and fun woman. Getting someone like that as a girlfriend was epic, at least in my eyes. I was too far away from Althea to tell, but she might just be celebrating too. Even outside of the sexy part, it was nice having someone I could share my problems with.
+
+Considering Althea wasn’t a normal person either, it meant we had a lot in common. Knowing there was someone I could spend my time with felt good. If I hadn’t succeeded in my fights or studying, Torix wouldn’t have been my friend or teacher for long. Our friendship was conditional. Althea and I were different though.
+
+We didn’t get together for strength or for some alliance between parties. We got together because we liked each other. There was something deeply comforting about that, at least to me.
+
+So by the time I reached my room, I was on cloud nine. Having sex for the first time in over a year was a plus too. Since I wasn’t focusing on my runes or studying, I noticed more of the mountain base this time around too.
+
+The hallways were all jagged, like they were cut out in sections. It looked like Althea had sliced through the stone before Torix had minions carry the stone out. This meant any corners were razor sharp, enough to cut an unarmored person. I passed a few of the steel legion. The cuts on their shoulders verified my thoughts.
+
+The fluorescent lights covered everything in a pale light. Since all the caverns were lit with bulbs on tripods, people and objects cast long shadows. The air was warm and smelled old. The walls of stone were almost all granite, the rock looking like splashes of salt and pepper.
+
+As I reached my room, I forgot about my surroundings. I sat down on the floor, pushing those thoughts out of my head. I needed focus. With that in mind, I intended on adding other additions to the runes. For however long, I sat and studied and carved.
+
+As time dragged on, the work weighed on me. There’s the kind of work you can do all day. This wasn’t that kind of task. My mind was numb after just a few hours. I took a break, having a pleasant lunch with Althea, but then I got back on the grind. It wasn’t like all progress came in bursts.
+
+Sometimes it was the slow, relentless labor that got the most done. This was one of those times. With that in mind, I kept at it until dinner. Another break with Althea left me refreshed, but I went right back to my room and drilled. The minutes faded into hours. I fell into the runes, studying every part of them.
+
+The runes were like a brick wall, but my mind was like a hammer. Eventually, cracks formed in the barrier. I mean, it wasn’t too bad. I would compare it with trying to break a brick with a flacid penis. Yenno, not too bad.
+
+Just like that, the second day passed before I even realized it. As the third day dawned, the pressure of the situation hit its peak. I dug deep into the runic glyphs like they were my passion in life. In a sense, I put my back against the wall and thought of the situation as life and death.
+
+In a way, it was. They day passed along with the night without any success. On the morning I would meet Yawm, I finally succeeded. I created a rune that summed up another facet of endurance. This was an odd one, but it was the idea of faith.
+
+Whenever anyone tries to do anything, there will be people that doubt them. Doubt will infect their mind and paralyze them. In order to continue the endeavor, a certain level of faith was necessary. There had to be a belief in one’s self or one's actions. Otherwise that doubt will come in and crush the motivation to continue.
+
+Adding this aspect of endurance was more abstract than longevity and unconditional persistence. Combining it with the other runes proved difficult, and it took many tries. I finally did it though. The dimensional rune was made of three different characters, every piece of it ornately crafted. It flowed together without any imperfection.
+
+As I fed mana into my grimoire, an hour passed before a single copy of the rune generated. As I finished the second one, a guard of Torix knocked on my door. I let the glowing runes fall onto my forearms. They wrapped around my forearms, covering them in a complex spiral.
+
+The incantation was well over double the length of the previous markings. As I stood up, I observed them over my arm. It surprised me that Schema let me do this. Schema was tight lipped about the cipher, and he ruined entire worlds over the secrecy of it. Prancing around with on me should be a capital offense.
+
+After thinking of Yawm again, I remembered why Schema was takinga risk on me. There wasn’t much of a chance that we’d escape earth. Before leaving, I checked out the upgrades my armor gave me. They were growing.
+
+[Modifications - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. The bonuses are as follows.
+
++72 Strength
+
++72 Dexterity
+
++60 Endurance
+
++4% to effect of legacies]
+
+The extra bonuses paired well with the creation of my new guild. It made me think about the others. Even though it wasn’t a massive boost of stats, my legacy would help some. Understanding that, I opened my statusscreen. I sent Torix, Althea, Kessiah, and Hod invitations to my guild.
+
+They didn’t have to accept, but giving them the option was a good idea. With everything finished, I took a deep breath. I did all that I could think to do. I opened the door, a dried out corpse looking at me. Black fire was in place of normal eyes, giving his face a sunken in, eerie look. It was a classic Torix kind of look for a minion.
+
+I pointed a finger at him, “So uh, Skelly I guess...What’s up?”
+
+Skelly pointed towards Torix’s room, so I followed. We paced past a few hallways in the mountain before entering Torix’s base. As normal, maps, utensils, and runes covered the wall. It was like every surface was the page of a dense notebook. It was a sort of chaos that only Torix understood.
+
+After walking into the room, the entire troop was here. Althea, Kessiah, Ajax, Hod, and Torix were standing in a group. They glanced at me as I walked in through an old, wooden doorway.
+
+The scent of old paper and earth wafted as I paced up. I grinned at Althea and she grinned back. Ajax pointed at my runes, interrupting us, “You’ve advanced the runes already?”
+
+I nodded, holding up a forearm so they could see it, “Yeah, it’s a work in progress.”
+
+Torix spread out his arms, “Everything always is. Now, are you ready to go see Yawm?”
+
+I sighed, clasping my hands into fists, “Of course.”
+
+Torix grinned, “Perfect. Now, during your stay with the evil overlord, Althea and Kessiah will be focusing on rebuilding. We’ve eliminated as many of Yawm’s forces as possible. His remaining force is about 3% of its previous power. Unfortunately, Yawm can eliminate our entire army by himself. Therefore-”
+
+Torix snapped his finger. A map made of white energy appeared at the center of the room. It was a three-dimensional structure of the mountain. Torix pointed at it,
+
+“We will build this mountain into a new city.”
+
+Torix pointed at me, “In fact, it will be considered your city.”
+
+I pointed at my chest, “My city? Why?”
+
+Torix pointed over his head. His titles appeared.
+
+Torix Worm, of Darkhill(lvl 1702, The Harbinger’s Legion)
+
+Torix raised both his hands, “Even I am a member of your guild. Unlike the rest of us, you can claim an area as your own, even by galactic law. That is not an opportunity we will waste.”
+
+Torix spun around the 3-d map of the mountain, “We will build a fortress city. After that, we will create a new empire of sorts.”
+
+I raised an eyebrow, “What the fuck...really?”
+
+Torix grinned, “Yes, really. Your legacy and ability to create quality items gives us the ability to organize a country. The bonuses you’ve given are compelling. Not only have you given enchanted armors, but you’ve given raw stats as well.”
+
+Torix looked around, gesturing at the entire mountain with a hand, “This is, without a doubt, the single most powerful fighting force on Earth. Every place on earth is relegated to dungeons of a much lower level. They don’t have access to the same high-level enemies that these members of the legion have.”
+
+Torix raised his hands right in front of his face, “Therefore we can ensure humanity’s future after we’ve slain Yawm.”
+
+I frowned, “What do you mean humanity’s future?”
+
+Kessiah leaned her weight onto one hip, “Newer races have a really tough time in Schema’s system. It’s actually one of the remnants calling cards for why Schema’s evil.”
+
+Torix nodded,
+
+“Indeed it is. As you’re well aware of, Schema doesn’t offer a pleasant and smooth transitions for newer planets. Planets that develop slowly are overrun by guilds coming in, like the steel legion. In extreme cases, the guilds will fight one another and destroy a planet’s resources in the process.”
+
+Kessiah grimaced, “Think about it like a bunch of scavengers fighting over a carcass. It’s not a pretty sight.”
+
+I frowned, “Did the remnants ever do that?”
+
+Kessiah gave me a look like I was ridiculous, “What? Hell no.”
+
+“Why not? Considering how strong remnants are, why didn’t you guys just take some place over?”
+
+Kessiah sighed, “Because we’ve tried. Anytime we get grounded somewhere, higher level sentients come in and start killing us. We’re all unknowns, meaning we all have bounties. That means we’re like a giant pack of high level eldritch that give extra rewards when you kill us.”
+
+Kessiah’s gaze turned dark, “There’s even information brokers that sell information about where different remnants are. If we ever make a home on a planet, we turn into a hunting safari. They find us then hunt us down like animals. That’s why we’re always on the move, wandering around with no home.”
+
+Hod replied, “Hod think that not fair. Lady Friend #2 deserves home.”
+
+Kessiah looked up at Hod. At first, she looked like she was going to hit him, but then Kessiah sighed, “Thanks Hod.”
+
+Torix nodded, “It’s a painful reality.” He pointed towards me, “However, since you can create a city and guild, you can grant a certain level of protection. If someone where to harm Althea, you may simply create a bounty for the killer’s head. That’s the case with anyone who’s been given your legacy.”
+
+Ajax narrowed his eyes, “Bounty hunters are relentless. They won’t stop at something as simple as that.”
+
+Torix pointed at Ajax, “Perhaps that might be true if the owner of the guild isn’t that powerful. The protection of an S tier guild can counteract S tier bounties, however. By itself, that’s an enormous utility. In our situation, we’re being granted the protection of a C tier legacy. While not enormous, it’s a world of difference when compared with no defense at all.”
+
+Althea chimed in, “What would an S tier guild look like?”
+
+Torix pointed a finger up, “A simple example would be the Overseers. They’re technically a guild with a ridiculous up-front requirement and an enormous legacy reward.”
+
+Ajax crossed his arms, “This planet could be glassed or turned into a fringe world soon. Why would you spend all that time building a city you don’t even know you’ll be able to live in?”
+
+Torix raised an eyebrow, “I just outlined the reasons. I could assume that Yawm will kill Daniel and that we all die, but that doesn’t do us very much good, now does it?”
+
+Ajax tapped a finger against his forearm, “It seems like a poor way to spend your final days of life.”
+
+I shrugged, “Eh, it’s a hell of a lot better than knowing you’re going to die. Besides, let’s not give up on me so soon. Wait till I’m dead first.”
+
+Ajax spoke with a sinister tone, “What exactly are you going to say to him? Please teach me these runes? You’re going to need some kind of plan for facing off against him. Yawm is very...enigmatic.”
+
+I tapped the side of my head, “Oh don’t worry about me. I’ve already calculated all kinds of scenarios and planned out responses. Besides, thinking too much about it isn’t going to help. It’s like thinking too much about a job interview. I’ll end up looking nervous. If anything, I just need to relax and look at ease.”
+
+Ajax laughed, “Hah, you have the confidence at least.” He uncrossed his arms, standing up, “I’ll give you that.”
+
+Torix turned towards me, “Then I suppose there’s no more reason to wait, is there?”
+
+I nodded, “Alright, just as a recap, here’s the plan. I go in and warn Yawm that I have Ajax as a hostage. He gives me information on the eldritch runes, and I tell him that I’ll free Ajax from his grasp. Once I’ve learned what I can, I lure him into a trap that allows us to push him into another dimension.”
+
+Torix frowned, “That is the core of it.”
+
+I nodded, “Alright. Let’s go.”
+
+Torix walked up to me, “We’ll travel together. I will be one of your advisors as you approach.”
+
+Althea walked up, “Wait, why are you going with him? I thought you said you were planning on taking the route with the least risk?”
+
+Torix turned towards her, “I thought about what you said. I believe my presence will enhance Daniel’s chances for success. Outside of that-” A sly grin crept onto Torix’s face,
+
+“I no longer want to use Daniel’s build as an excuse to avoid danger. I’m not looking for a plan with the least risk anymore. I’m looking for a plan with the greatest chance for success.”
+
+Althea ran up and wrapped her arms around Torix’s waist. Torix laid his hand on her head, “Thank you. If we don’t return, then don’t let Yawm find you. Do whatever you must to escape.”
+
+Torix hugged her back, “It would do my memory a disservice if your caught, so keep yourself safe.” Torix looked up at Hod, “You on the other hand, do fly into the sun. I’m sure you’d be more useful as grilled chicken then as you are.”
+
+Hod shook his head, “But then Hod be dry like Dry Man. No one like dry chicken.”
+
+Althea giggled as Torix released her and sighed, “I want you to know Hod, I hate you. If I die, I will haunt you until your untimely death.”
+
+Hod scratched the side his beak with a three taloned finger, “Hod confused. If Dry Man hate Hod, why Dry Man stay with Hod even after death? Hod think that a sign of undying love.”
+
+Hod raised his hand, “Ah, Hod understand! Dry Man feelings confused.” Hod grabbed his chin as he admired himself, “Hod understand. Hod have that effect on people.”
+
+Torix dragged his hands across his face, “Let’s just leave.”
+
+I neared Althea, “Wait a second.” I hugged Althea, lifting her off the ground. I whispered into her ear, “I’ll be back. I promise.”
+
+She flushed, her blue gray skin taking on a hint of purple on her cheeks. She whispered back, “You better.”
+
+I set her down with a smile before waving at the others, “See you guys later.”
+
+We finished our goodbyes before Torix and I walked off. We reached outside the mountain, and we raced towards Springfield. Torix floated beside me as I shot in and out of the ground. If I went full speed, I outpaced him to my surprise. I kept my pace slow, letting Torix and I arrive at the time.
+
+Once we arrived at Springfield, the city had changed. The gray mist returned where the world tree had been. The roots of the world tree already melted back into the ground. Lush forests sprouted up near these decayed roots. It was like painted streaks of a different world invaded our own.
+
+Above these forests, Abstractions floated through the skies. Their reach was broad, covering more than just the city. Off in the distant skyline, abstractions were being sent. They would be opening up rifts elsewhere. Even if we killed Yawm, cleaning up his mess would take a long time.
+
+Torix groaned, “There will be so many rifts to close when you’re finished with Yawm.”
+
+I shot out of the ground, discharging my runes, “We’ll have to wait and see. I’m focusing on killing Yawm first.”
+
+I shot through the air, Torix keeping pace.
+
+“Are you nervous?”
+
+I shook my head. I landed onto the ground, sliding through the earth before firing back up.
+
+“No. It’s kind of like how a soldier gets used to killing someone during war. It becomes normal.”
+
+We dashed across the suburbia. As we did, I erased all my doubts. There was no point in worrying. I did all I could do. This was it. It was now or never. I needed to be fearless. I needed to be unstoppable. There was no option to run or fail.
+
+So I steeled myself as we reached the gray cloud of mist at the center of Springfield. Torix covered himself in a protective shield of mana as we passed through the mist. Once onto the other side, we entered a different world.
+
+The yellow, sickly junglers covered the ground. They sky was a bloody crimson, bright and brooding. Beneath us, deformed monsters crawled around. No two abharitions were the same. Each of them were unique, a different nightmare given life. At the center of the rift, the lake from before remained.
+
+Torix and I landed beside it. We walked up to it. Within it, there was a crystalline compound. Clear and opaque panels composed the structure, as if it was a building made of ice. One of the abstractions flew down, landing beside us. On the back of the abstraction, a named one rested.
+
+It’s face was geometric, as if it was created from the abstractions. A permanent, eerie grin carved across its face. Its eyes were holes in its head, and its ears were massive like a bats. Covered in a gray skin, it’s thin, lithe figure looked creepy. It spread out its arms, its mouth opening. A dry, crackling voice spoke to us,
+
+“I can tell by the might of your presence. You must be his visitors. Follow me.”
+
+The abstraction beneath the named one crumpled up, like a ball of paper folding in on itself. It turned into a tiny ball beneath the named one. It picked up the ball before the named one walked to the water.
+
+As it entered the lake, the water spread away from it. Torix and I followed him into the depths of the lake. The water dropped behind us, forming a bubble of air as we moved. The water solidified into ice beneath the named one’s steps, giving us a stairway to walk down.
+
+We neared the crystalline structure beneath the lake. As we walked towards it, I recognized it all as ice. The named one walked through one of the walls, the ice melting. Steam poured up into our bubble and the room. The named one bowed towards us, placing a hand on his chest,
+
+“You may come into his domain.”
+
+Before we walked in, I identified the named one.
+
+Keeja, the Corrupted Abstraction(lvl 1,500) - Yawm has taken ambient mana, coalesced enough to form a soul, then tamed the deformed spirit. This results in a creature that lacks the will to make its own decisions. It’s strength in magic allows it to be a threat despite this lack of reasoning.
+
+It acts as the servant of Yawm, handling the miscellaneous tasks he needs done. You shouldn’t have any problems destroying it, if you choose to do so.
+
+I kept my chest and head high, walking into the building. As we walked, I observed the building. The hallways were made of ice, some of it opaque and some clear. The clear sections showed the surrounding lake. As we paced inside, the animals outside shifted to life.
+
+Creatures of the deep swam nearby, some of them odd and alien. Others were elegant and beautiful, awash in the phosphorescent light their body’s produced. Some of these glowing, undersea animals stayed near the clear sections of the walls. These sections acted like windows, shedding light into the room.
+
+Since most of them were orange and yellow, it gave an almost sunny interior. They would brighten as we neared them then dim as we walked away. It made us a traveling ball of light in the ice structure. These lights would catch on smooth embroidering on the walls, shaping the light.
+
+It was beautiful as anything I’d ever seen. It was hard not to be overwhelmed by it, but I kept my expression unimpressed. We reached the middle of a hallway. Within it, a door of pure white was present. It smelled like nothing, as if it was sterile. This entire time, there was no twisted experiments or lab victims.
+
+If anything, it felt like Yawm had turned the eldritch into his playthings.
+
+With its creepy grin, Keeja gave us another bow, “My maker is on the other side. May you enjoy the meeting.”
+
+I glanced at Torix. He looked back at me. He frowned, as did I. We stared at each other for a second, an obvious tension. I turned toward the door, holding in the sight I wanted to let loose.
+
+I pushed open the door, no sound ebbing from the hinges. As I did, the sight of books opened up to me. There were thousands of them lining shelves. Most of them were old, rare looking tomes. The ancient, yellowed look of the pages only made them that much more impressive.
+
+Furs covered the floor, coating it in all kinds of animal skins. Some would have been vicious in life. Nearer towards the end of the room, a square table surrounded an old chair. The legs and panels of the chair where a dull white, contrasting the darker colors of the furs.
+
+Pages were spread all across the desk. Littered on these pages were characters of the dimensional cipher. Hunched over this desk and writing with the runes was a giant. Covered in bark skin, its muscles rippled as it marked with a pen made of bone. The red ink covering the pen came from a bowl at his side.
+
+It was the upper half of a skull full of blood. All along its shoulders, the eldritch runes were carved. They were like scars, each of them proof of a history and sweeping knowledge. As if utterly absorbed in his task, his hulking figure shook for a moment.
+
+He lifted his head, a mane of green crawling across his back. As it turned to us, the green, vibrant glow of it reached towards us. There was a density to him, like he made of moving metal. It was as if he shouldn’t even be able to move, yet he did. And effortlessly so.
+
+Unlike Ajax, this porytians hands and fingers were thick. Each would be like the branch of a tree. As his eyes set on me, a wave of fear crawled along my back. They were the eyes of a surgeon. They didn’t peer at me like I was a person. I was simply a set of muscle, bone, and skin waiting to be used.
+
+I wanted to hold my breath. I wanted to scream. I wanted to cower and bow before this entity. It was so much more than I imagined. It was like looking at a god or an old one. An overseer was strong, but it didn’t have a will of its own. It wasn’t a self made monster.
+
+This thing was. It didn’t even need Schema. It chose to defy convention, no matter the cost. That resolve saturated its frame. It opened its hand towards us, muscle under its skin rippling. It’s voice was ancient and mighty and immovable.
+
+“I am Yawm. I’ve been looking forward to meeting you, Harbinger.”

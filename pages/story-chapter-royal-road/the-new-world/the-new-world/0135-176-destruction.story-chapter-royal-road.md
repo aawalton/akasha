@@ -1,0 +1,169 @@
+---
+id: ac872d16-4b54-5fe6-b886-1d88999ae954
+page-type-slug: story-chapter-royal-road
+title: "176 Destruction"
+slug: 0135-176-destruction
+partOf: the-new-world
+position: 135
+ownLength: 2133
+unit: words
+ownProgress: 2133
+publishedAt: 2019-01-11
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/323335/176-destruction"
+royalRoadId: "323335"
+markedReadAt: "2026-06-29T21:36:17.535Z"
+---
+
+We left our hotel, each of us geared up and ready for war. We traveled out of Yildraza, the city lights shooting up into the sky. Torix hovered, keeping himself and Tohtella afloat with magic. Althea and I ran, destroying portions of the scenery as we leaped and dashed.
+
+We stopped, regrouping just shy of the silver's territory. We stood in a circle, everyone looking at me. With cool wind at my back and soft ground under my feet, I stood up straight.
+
+I raised a hand, "Look everybody. There's some fucked up shit deep in silver territory. I mean it. Keep your head down and execute the plan. Don't think about failure. Don't think about your surroundings. Focus on the mission."
+
+I clasped my hand into a fist,
+
+"Merjects will dive from above. If they get ahold of you, they'll suck your brains out. Flesh Whales are vulnerable to fire but keep your distance. Their blood is hard to escape. Don't fall asleep on the ground. There's a thousand things that want to use your body as their egg sack."
+
+Althea winced. Tohtella gave a curt nod, jotting down notes. Torix grasped his hands behind him. I pointed towards the silvers,
+
+"Outside of that, avoid the Skyburner's jaws, tails, and fire breath. One hit from any of those three things, and you're dead. Focus on their eyes and their mouths. Those are both vulnerable since they aren't covered in armor or scales."
+
+I smacked my fists together, "Is everyone ready for some dragon jerky?"
+
+Althea and Torix gave me a nod. Tohtella's brow creased. I waved my hands, "Uh, gialgathen jerky then."
+
+Tohtella frowned, "What? They're lean predators. Their meat would be stringy and lean. It would be like chewing a bundle of wires."
+
+I rolled my eyes, "Are you ready to eliminate the targets?"
+
+She nodded, "Of course."
+
+"Alright then. Everyone check their status and finish any last updates."
+
+I opened my own status, checking out my levels. I leaned back from my status, finding myself with several thousand attribute points to allocate. I shouldn't have let it pile up like this, but there was so much going on as of late.
+
+Over the two days, I fought in the tournament, cleared out silvers, found the Skyburner's base, and gained a mythical skill. It was a lot to juggle around. Either way, I poured all my points into endurance, then selected finalize. Even if everything else was complicated, working my status was surprisingly straightforward.
+
+Sometimes, simplicity was king.
+
+Dimension-C138(Level 6,521)
+
+Strength – 7,036 | Constitution – 11,940 | Endurance – 49,306
+
+Dexterity – 3,061 | Willpower – 27,375 | Intelligence – 10,173
+
+Charisma – 1,777 | Luck – 3,437 | Perception – 4,009
+
+Health: 9.60 Million/9.60 Million | Health Regen: 25.48 Million/min or 424,593/sec
+
+Stamina: 6.01 Million/ 6.01 Million | Stamina Regen: 87,771/sec
+
+Living Dimension: 1.15 Trillion/4.30 Trillion
+
+Mass: 554,537 pounds(251,533 kilos~)
+
+Height: Actual -12'8(3.87 meters) | Current - 9'10
+
+Damage Res - 98.5% | Dimensional Res - 49.25%
+
+Phys Dam Bonus – 679,893% | Damage Bonus – 40%
+
+Event Horizon – 20,000 + (100% of your total health)/min
+
+I raised my eyebrows, finding my perception over 4,000. I lifted a hand, staring at the metal. As I took a closer glance, I found thousands of layers. I squinted, finding the layers made of even more wires. I looked up, expanding my field of view.
+
+I glanced around, spotting profound levels of detail. If I glanced close, I peered at tiny spots like a microscope almost. If I soaked it all in, a world of detail popped up. As it did, my head throbbed at the sheer complexity. Tiny insects in the grass, dust and pollen in the air, even the moisture in my breath, it all revealed itself to me.
+
+I shook my head, dulling my senses. I shifted my attention back to my status. My stats marched forward, their inevitable climb never failing to impress. I neared 50k with my endurance, and my health nearly eclipsed the ten million mark. If summed it up in a word, ridiculous.
+
+I closed the window, looking around. Althea still fiddled with her status, but everyone else was done. A minute later and she closed it. I pointed off in the distance once everyone was back in the game,
+
+"Follow several hundred feet behind me. Let me lead the charge. I'll be killing the silvers, clearing a pathway until we get within earshot of the Skyburners."
+
+Everyone nodded. I ran out, getting about a football field away from them. I activated Event Horizon, thousands of Saysha screaming as they died. They melted into black sludge that evaporated. I ran forward, killing anything that came up to me.
+
+I gibbed merjects, engorgs, and the organ caterpillars. Within an hour, flesh whales and other creatures popped back up. They crushed under my fists, some splattering from gravity wells alone.  As I decimated the abundance of silvers, a message popped up in my notifications.
+
+Althea Tolstoy(Giess: 1:14 3/05/26) - Tohtella's not doubting you as much. You look brutal out there.
+
+I grinned, squishing a merjects skull in my hand. As its purple blood splattered over me, I protected my face mask with an antigravity panel. Ten minutes later, we reached within a mile of the Skyburner's base. I shut down Event Horizon, waving my friends to me.
+
+They all stepped up. As they did, Tohtella adjusted her glasses, "Ahem. Would you mind disclosing how you sterilized your surroundings? It smells like a hospital full of corpses after you pass by."
+
+I shrugged, "It's an aura. Hard to teach. Anyways, I'm about to fly up. You guys save as many of the slaves as you can."
+
+I turned to Tohtella, "Look, I'll be honest with you here. This gray armor isn't going to hold up." I pointed at Torix, "You're magic will get blown away when I land. She's going to discover who I am. Better now than during the chaos."
+
+Torix sighed, "Perhaps. It is difficult to maintain a sight disruptive barrier around a meteorite after all."
+
+I turned to Tohtella, "I'm trusting you here, alright? You tell other people, you'll be my enemy."
+
+Tohtella frowned, "I understand your skepticism of me. I am a woman of my word, however. This is no different than a confidential meeting. In the same manner as those events, I won't disclose what you tell me or who you are."
+
+I nodded, "Good." I pressed the gray square over my armor, unveiling who I was. I rolled my shoulders, releasing my Mass Manipulation skill. My armor and bones cracked as I gained height, towering over everyone. I charged my runes, saturating them with mana.
+
+Tohtella gasped, her jaw slack, "You're...him...Wow..."
+
+I raised a hand, "Yeah, we killed Yawm. We don't have a lot of time for that to soak in though."
+
+She looked back at the ground, "It all makes sense now. The hidden identity, the combat ability, even your presence. You're not normal. You're the living dimension."
+
+I shrugged, "Eh, I'm Daniel. My real name isn't so famous though. Either way, we have some frog-dragons to kill."
+
+Tohtella still stared at me with starry eyes. She reached out a hand, dragging it down my chest, "I can't believe you're right here...It's harder than steel like I thought...It's smooth though...like glass."
+
+Althea popped her hand, glaring at Tohtella, "Come on business lady. Stop trying to feel up Daniel. We've got work to do."
+
+Tohtella's eyes widened. She stared down, marking onto her clipboard. As I gazed closer, she was jotting down a bunch of jibberish. All the while, she blushed until she looked like a tomato. I glanced at Torix, and he met my eye.
+
+He and I shared a conversation with that glance, each of us holding down some snickering. A minute later and Tohtella was back to her professional self. She coughed into her hand, "Ahem, excuse my surprise. We may proceed  as planned."
+
+I nodded, "Then let's go. I'll make impact at 2:00 A.M. as planned guys."
+
+I turned around, jumping up into the air. My dark armor blended in with the night sky, keeping me hidden from even the sharpest eyes. As I dived up, I relished my new freedom. I wasn't squeezing myself with Mass Manipulation. I wasn't covered in armor either. It felt good to be back to normal.
+
+With that liberation, I shot into the night sky. The crisp cold of the upper atmosphere funneled around me. The air thinned, letting me speed up even further. Otherwise the friction off the air caused my armor to glow bright, making me hard to miss. The entire time, I charged my mana, saturating my blood.
+
+As I reached an orbital altitude, my body radiated with energy.  Vibrant streaks of crimson lightning shot out from me. I quaked with potential energy, my entire frame wanting unleash destruction.
+
+I stared down, finding vast plots of land stretched out before me. The lights of Yildraza shined bright. The line of silver territory stretched far into the distance, winding like a river. I glanced around me, the void of space encroaching from all angles besides below.
+
+At the corners of my vision, the curve of Giess exposed itself. I glanced closer, finding gorgeous mountains and wide valleys. The purple sludge oceans lined up beside the vast seas. A path along the planet showed the line of the sunrise. It inched along, illuminating the planet.
+
+All of that to say this - it was a view to last a lifetime.
+
+All the perception paid off, letting me soak it all in. I promised to come back here at some point. The cold wasn't even bad. Before I lost any more time, however, I readied myself. I lined up with the Skyburner camp using my minimap. A message popped up.
+
+Torix Worm, of Darkhill(Giess: 1:58 3/05/26) - Go
+
+I reversed my gravity well. I shot toward the ground, accelerating like a bullet. My stomach rose up into my chest, my eyes sinking back into my head. The ground beneath me expanded, tiny plots turning into massive fields.
+
+The friction from the air heated my skin. The water vapor near me sizzled, evaporating. The air pressure shifted over and over, my ears popping again and again. A layer of superheated air passed over me, a storm echoing in my eardrums.
+
+The camp popped out of the forest of metal spires beneath me. My armor glowed red hot, a warmth passing over me. It shifted to white, both bright and blinding. I turned into a shooting star, my body holding together despite the situation.
+
+My vision blurred. My bones rattled. My skin pulled on me. The warmth turned into a burning sensation. My mana rippled out, sparks of lightning radiating at full force. All went silent as I outpaced the speed of sound.
+
+The heat around me dug into my health regeneration. I withstood the scorching air, my body staying stable. With the ground fast approaching, I ground my teeth and clenched my fists. It was time.
+
+The Skyburners stared up at me as I came down. I aimed towards a cluster of three of them. One of them flapped his wings, flying away from me. The other two stared like headless chickens. I reached within feet of them, a violet flare of light.
+
+I made impact.
+
+70% of my health dropped instantly. The collision let out an earth-shattering wave of light and sound. The metal, ground, and Skyburners around me melted into a pool of magma. Beneath me, the ground dipped as I quaked the earth.
+
+A seismic wave shot out in all directions, upturning entire metal spires. The wall around the base smashed outwards, decimated by the kinetic shockwave. Nothing remained of the camp as I gained my bearings, leaving a wasteland behind me.
+
+I pulled up the surrounding magma with gravity. With a cyclone of light and fire enveloping me, I stood. With my hands grasped firm, I turned towards the three Skyburners left. Covered in burns and stabbed with shrapnel, they fumbled in utter disarray amidst the chaos.
+
+Above them, their general's decapitated corpse leaked blood, impaled on bent spires. I glared at the gialgathens, my armor white. Metal and stone liquefied under my feet as I stepped up out of the new crater. Scorching air plumed upwards around me as my flesh and bones reconstituted.
+
+Violent arcs of crimson lightning shot off me, mana deluging out like a flood. Event Horizon left nothing in my wake as the Skyburners stared in awe. I stood before them as the sound I outpaced erupted around us, ripping out a sonic boom.
+
+Frozen in fear, the closest one choked out,
+
+"It's...the Harbinger."
+
+I raised a hand,
+
+"And I usher forth cataclysm."

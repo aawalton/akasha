@@ -1,0 +1,339 @@
+---
+id: 5bba3280-588e-57c2-a2a1-e00378676eed
+page-type-slug: story-chapter-royal-road
+title: "190: Delta: The last Ear Bender"
+slug: 0212-190-delta-the-last-ear-bender
+partOf: there-is-no-epic-loot-here-only-puns
+position: 212
+ownLength: 4026
+unit: words
+publishedAt: 2023-12-12
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1441375/190-delta-the-last-ear-bender"
+royalRoadId: "1441375"
+---
+
+“Now, class,” Mr Jones began, his lecture in Fera’s bar was an odd choice, but Delta politely took a seat between Deo and some child that looked like she could be the star of her own young teen romance novel with silver hair.
+
+The kids of Durence were a little odd.
+
+Still, Delta was just happy she wasn’t going to explode in a violent death anymore so she was a little giddy to just enjoy a lesson.
+
+Mr Jones asked “What effect does Dungeon Mana have on Demons?” and Deo shot his hand up.
+
+“It gives them wings so they can fight for justice with the power of DEO” he said eagerly.
+
+“That’s characters in a book you’ve read, Deo,” Mr Jones corrected. Delta suddenly had an idea to bring all the children down to the library. With her dungeon control, she could even ‘thin’ the mana to prevent any incidents.
+
+“Well, in churches, Demon’s will sweat badly. In some lawyer offices, they also sweat, but differently,” Amenstar, the quiet child with a strange light and dark mana aura said. “So, maybe they have a cold sweat here?” he shrugged.
+
+Ruli raised her hand seriously.
+
+“Nyeh... I bet they just get fat,” Poppy said and Ruli’s hand began to wave, desperate to be called on.
+
+“No! Dungeon Mana must be a delicacy! I bet demons, even Mr Jones, are getting outrageously drunk on the mana. Drinking like they have demons to drown!” Grim said as his tongue sparked orange while he spoke, causing steam to rise into the air.
+
+“I have actual booze right here,” Fera grunted as she slammed a tray of sandwiches and soda drinks down for the kids. Then she handed Mr Jones a smoking goblet that vaguely screamed in terror. Ruli was so far out of her chair, waving her hand in the air that she was straining with her neck muscles pulsing with her efforts.
+
+“Miss Darknessbane?” Mr Jones asked with a smile.
+
+“No effect! Demons and Dungeons work on different wavelengths, their energies pass through each other!” she gasped as she sagged down into the seat at the table beside her before she shot a smug grin at the teens around her.
+
+“I see the newest crop of Mr Jones’ torture sessions aren’t up to snuff!” she bragged as next to her, a goblin shot her a dirty look.
+
+Cois the fire mage snorted at her “As a grown woman, that’s just sad,” Cdowning a beer. Ruli just ignored him as she sat there with a smile.
+
+“Do you know why?” Mr Jones asked innocently and Ruli stiffened, quickly busying herself by downing three beers in one go.
+
+“I have no clue either,” Delta muttered, feeling like she should know this as one half of the subject in question.
+
+“Not to fear, it is a bit of rather obscure metaphysics-” Mr Jones said as the pub door slammed open with a dramatic flair and a breeze fluttered through the bar, making the candles flicker.
+
+“Obscure metaphysics is my thing,” Yattina said with a smile as she looked around the bar. Delta blinked, having been too focused on Mr Jones to even notice her approach. She smiled at the woman having  forgotten only Ruli and Mr Jones should be able to see her.  Yattina paused and looked at where Delta sat with a wink of her new golden eye. As if it was trying to focus on something but, was distracted as she joined Mr Jones at the bar.
+
+Delta blinked, that had been weird of Yattina...
+
+“Ah, I heard some of Fairplay possessed a modicum of smarts. I welcome you to the discussion and give you a chance to answer the question you heard while lurking behind the door,  eavesdropping before your entrance,” Mr Jones smiled and Yattina spluttered before waving him off.
+
+“I was not ‘lurking’! I was merely preparing for a lull in the conversation,” she corrected. Yattina cleared her throat.
+
+“Demons are beings devoid of what we humans would call a soul or essence of humanity. They likely existed long before we even appeared on this world. Dungeons take the natural world energy, aka Mana and the essence of human souls, combining them into something uniquely their own. Demons can interact with us humans and vice-versa, sort of like water in a trench. Empty and something with content,” Yattina explained as she noticed she was losing the more classroom-challenged students.
+
+Ruli was beginning to drool as her eyes rolled up in her head and her brain shut off.
+
+“Demons are rocks, humans are water, and Dungeons are gas. People can, over time, interact with Dungeons and be disturbed by demons. Dungeons and demons just can’t interact with each other,” she summed up.
+
+“Mr Jones is drinking right now,” Grim said, pointing out an ‘issue’ with Yattia’s words. Delta could feel the demon drinking, taking in her mana and... doing something with it.
+
+“That’s physical interaction. We’re talking about mana. Dungeons cannot contract pure demons and Demons cannot take the ‘souls’ of Dungeons,” Yattina said as if this subject was fascinating and Delta leaned in on her hand, enjoying her passion.
+
+Except there was one little issue.
+
+It was a duck-shaped issue.
+
+Delta had contracted a demon.
+
+She let her mind wander over to Waddles who stared right back. The contract between them had barely done anything to the duck, unlike what it was doing to Renny or Jack.
+
+In fact, Waddles held up the bond between them, showing how easily he could break it, but chose not to. The form he was in was technically duck shaped, but it was a mana construct
+
+It was one of Quiss’ accidents, so maybe that allowed for a loophole? In fact, Mr Jones and Runilic were also mana constructs. Delta just hadn’t noticed because they were so tightly woven together it was like a real body...
+
+The more Delta actually paid attention to them, the more they began to feel off. She took a slight peek as her Dungeon self. In an instant, Mr Jones was gone, replaced by a three-headed mass of tendrils connected to exposed brains, each brain connected to a dozen eyes and a mess of pulsing veins carved with glowing symbols. The eyes moved in every direction as if constantly reading something Delta couldn’t see.
+
+The creature was bound with cords and chains with a single lock that had no keyhole but a missing word.
+
+Runliic’s form had also changed into a being of ash and scars, his mighty hands blackened by a fire so hot it would have melted anyone else. Every bang of his hammer caused his bones to flash like a reaction of lightning. As he breathed, smog and bonedust wheezed out like an old tomb. His fire was barely a flicker but it was an inferno all the same. He was also bound by chains, but these chains were much darker... as if made of shadows and silence.
+
+Almost a little afraid, Delta turned to look at Ruli, truly looking at the woman for the first time and saw that she was mostly the same except for her horns and the darker skin mixed with glowing lines of fire. Her hair was more smoke than thread.
+
+But it was still life-loving Ruli.
+
+All the same, Delta had contracted Waddles...
+
+What made Delta different?
+
+“You keep forgetting how annoyingly human you are. Dungeon 2.0, now with anxiety pre-installed,” Nu said as he appeared with a flicker, as if he was sensing her concerns.
+
+“I only screamed and panicked once or twice,” she argued as Yattina went on describing how some species of life had odd reactions to demons.
+
+“Spiders. Mushroom Spitters. People. Mushrooms-” Nu listed.
+
+“Reasonable responses,” Delta said confidently.
+
+“Pygmy Mushrooms, Renny, Maestro constantly, Bob-” he kept going.
+
+“You make it seem unreasonable!” Delta said, pointing at the screen with a glare.
+
+“Wilhelm. Muffet. Your secret garden results. Hero in action. Jack’s shrine. Jack’s death. The Guardgoyles-” he said, having no shame.
+
+“I didn’t scream at my Critter mounds when I attacked Mharia,” Delta said, smirking as if this made her the victor.
+
+“Death. Star. Dragon.” Nu said with a jab with each word.
+
+Delta stared back defiantly.
+
+“I left the oven on,” she said through clenched teeth.
+
+“-and that’s why Dungeons seem to talk to themselves,” Mr Jones said as he gestured to where Delta was sitting.
+
+Wait, what?
+
+“I wanna see Nu!” Deo said excitedly. The rest of the class spoke up as Yattina was squinting hard at where Nu floated.
+
+“I would rather teach the Pygmies the art of love and pacifism than ever let one of these urchins bathe in my glory,” Nu said in horror.
+
+Delta didn’t want Nu to have all the glory… But why was her body, her avatar, still too flimsy to be seen by normal people! Why?
+
+Why couldn’t she just manifest?! She focused, straining as her face turned red and she grunted., fists clenched as she stood with her legs apart, her voice beginning to climb in a primal yell. She was focusing  her energy and pumping everything she had into her efforts like she had three episodes to burn through in screen time.
+
+Delta felt her mana gather like a storm, filling her with a dramatic passion and the urge to defy all natural order! It felt a lot like eating cake in bed, delicious but risky. There was the feeling of her ears popping and she felt a little... weighty.
+
+Delta’s vision began to spin for a moment but she was sure she had managed it! She had produced a physical avatar!
+
+“Sir, an ear just appeared on the table and it’s bright orange!!” someone screamed!  Delta suddenly noticed that her entire being was her left ear... detached from everything else.
+
+“I’d give you an earful, but I would risk actually smothering you,” Nu said.  She was thinking  it was weird to have eyesight as an ear...
+
+Delta tried to speak but all she did was manage to vibrate her malleus and incus bones in annoyance.
+
+“Class, we just witnessed a first time avatar attempt. Please write a report on this event that's between 500 and 50,000 words,” Mr Jones said excitedly. Delta tried to let go of being physical but all she managed to do was flop once and make someone panic in a high-pitched scream.
+
+“Its ear-ry!” Grim wailed and Delta grinned and would have shot him a thumbs up... if she had thumbs.
+
+“Listen,” Ruli began, then shot Delta a wince, “sorry, just slipped out,” she promised. Before she gently picked Delta up and Fera appeared with a  broom, ready to fight anyone that looked to have ill intentions toward  Delta or a piercing gun.
+
+“I have heard, and seen, Dungeons take smaller steps. Some do birds or fish before they go four-legged then better. Straight to human might be... well, this,” Ruli explained and Delta wished she could hug the woman.
+
+Start small! Delta should have guessed that...
+
+Well, she couldn’t quite figure out how to let go of the avatar state, but she could still muddle with it... she focused and tried to think small.
+
+What was small, cute, and her? Delta had to be something more than a worm?
+
+Would they still love Delta if she was a worm?! She just had to go with what felt natural and simple. The simplest thing she had ever eaten was water, rocks, some wood, and Gutrots.
+
+Gutrots were actually very simple. They were made up entirely of hatred and despair.
+
+Even now... the taste-
+
+Her ear form began to bubble and glow with an orange light.
+
+---
+
+Ruli stared down at the glowing mushroom that was bathing  the room in orange light as it formed slowly, opening two milky white ‘eyes’ and a tear near its cap.
+
+“Delta?” she asked slowly and the mushroom began to wail with a deep sound of misery that slowly turned into a maddening scream of rage.
+
+Before the mushroom could let out a stream of curses, Fera put a jar over Delta’s ‘avatar’...  Muting  the flailing mushroom that seemed to be making some very suggestive actions of vengeance and ‘tearing apart the very idea of god until he weeps and fades into the darkest recesses of terrified non-believers, like a deity they never believed in arriving at their doorstep, bloodied and scared’.
+
+Ruli blinked and eyed her ‘Delta Surprise’ drink she had been given. It made her feel all educated from the nicest facility as if she had bordered with the uppercrusts in their establishments of finery!
+
+“Indubitably!” she cheered.
+
+“Nope, this is worse the second time around,” Estal said from the corner of the bar, three bottles of wine kept her company.
+
+“Remarkable, she has the purest markings of any Gutrot I’ve ever seen. She must love them to have studied them so well,” Yattina muttered in awe as she stared at Delta.
+
+“That is not infatuation, my lady of the cold facts,” Ruli said with a grin, her tone amusing and noble now.
+
+“That is a mild case of ‘absolute loathing’,” she explained.
+
+“I think she looks pretty,” Deo said, smiling as he leaned up close to the jar. Delta paused in her cursing to coo at Deo before looking defeated.
+
+Then the Gutrot form popped like a soap bubble and she was gone.
+
+“I can’t protest that thine form is more pleasing to my sight when you are more yourself, lady Delta. I enjoy your thick mana existence, I cannot deny,” Ruli nodded to Delta as she reformed in her dungeon state, invisible to most.
+
+“...What?” Delta asked.
+
+“It’s that refreshing drink. It makes me sound like I married my cousin for the money,” Ruli winked.
+
+“You should marry for love because love is infinite while money is finite unless you’re a bad person,” Deo said wisely.
+
+“I’d sell you for a copper coin,” Grim said with a snort and Deo smiled at him.
+
+“I can give you money!” he said brightly.
+
+Ruli... felt at peace.
+
+It was odd but it was the truth. This scene, with these people... Ruli liked it. She was just missing her enemy, Quiss, so they could drink and complain about people.
+
+Oh, and also her fishing rod.
+
+So, why did she feel like something was coming? Out of sight but rapidly approaching.
+
+---
+
+“This town’s layout is nonsense! The twists lead to dead ends but the dead ends open out into intersections when we turn around. There’s a bakery next to a building that looks haunted but the bakery smells so good. The bank accepts blood as money and we’ve passed the same hat shop four times but it's never in the same place,” Serma heaved, her eyes darting about the street they were on as if expecting a wild animal to appear.
+
+Mas gave her a worried look as he adjusted his free tophat he got from said hat shop. Mas just happened to be the first customer of the ‘decade’. Serma also couldn’t remember what the owner of the store looked like or when they actually went inside the store.
+
+But they all had hats...
+
+Her sunhat was tailored perfectly and rather comfy which Serma tried to take solace in.
+
+“Should we ask directions from there?” Mas asked as he held Mule, the slime fast asleep like a toddler. Serma followed his eyes to a store that was entirely void of color and paintings of little characters with round figures and a bouncy appearance smiled out at them with goofy-looking large gloves.
+
+They looked cute but there was something about their stare, the way they looked seconds from moving when Serma’s eyes moved away from their frames that made the hair stick up on the back of her neck.
+
+One of the frames was almost leaking... as if the concept of art and immortal existence was oozing into their reality. It was horrifying! It was coming!
+
+It was-
+
+“Let’s try over there,” Lorsa suggested quickly and pushed Serma towards a stall where a cheerful woman that smelled like wet soil after a fresh rain chatted to an old man with a gap tooth smile and a selection of cheeses on a tray.
+
+“Hello,” the woman said and Mas waved. Nearby, Imp had stopped to talk to the monstrous inky monster coming out the frame like old friends.
+
+‘Don’t look. Don’t look’ Serma ordered herself. She had come to win at the local Dungeon and to return to rip her father’s bony grip from the throne and shove him into one of Grandmother’s golden torture devices they kept in the attic.
+
+Serma didn’t have time for this strangeness.
+
+“Haldi, this is Serma,” Lorsa said and she was using that same tone when speaking to Mayor Darknessbane. Haldi didn’t seem to be listening as he beamed at them. The old man had a gentle soul and Serma instantly liked him.
+
+She didn’t even mind the overwhelming smell of cheese. It felt more like a charming quality than anything bad. There was never any cheese at home.
+
+Her father had something against dairy products.
+
+“Have some Cheese of the Right Arm. It’s limited in source due to the disease but it is delicious,” he offered snacks to her and Mas. Serma’s soul melted when she ate the offered snack and she tried not to float off with a feeling of bliss as Mas just beamed.
+
+Cheese... Serma would wear a suit of this cheese when she locked her father in the Golden Maiden.
+
+“You smell of nobility,” the woman said, her smile a little less bright but no less kind.
+
+“Yes, apologies!” Serma said, flushing as she forgot her manners, “I am Princess Serma of Capital City,” she did a polite bow.
+
+“R-Royalty?” the woman said, her smile trembling and she turned stiffly like her legs were made of wood.
+
+“I must be going. I left an excuse to leave on the stove,” she said numbly and walked off quickly. Haldi waved her off and sighed.
+
+“Don’t take it personally. She and royals have history,” Haldi explained with a tilt of his head, making his snow-white hair move in a breeze.
+
+“Was it my father or my grandmother?” Serma sighed, feeling a headache coming on.
+
+“Surprisingly, it had little to do with them and a much older kingdom called ‘Turtog’,” he said quietly and Serma had never heard of it. She needed to brush up on her geopolitical knowledge or she’d miss things like this.
+
+“It was an older kingdom that caused a powerful distortion by committing a deep wound on the world. A lot happened, but due to a lot of drain on the land, it became a grayzone,” Haldi continued to explain and the elder was definitely knowledgeable for a cheese monger!
+
+“Where is it?” Serma asked, interested as Mas was given more snacks to enjoy by Haldi.
+
+“Oh... around. It collapsed but the wound never quite sealed over,” Haldi said vaguely.
+
+“A kingdom doesn’t just collapse. They’d be ruins and signs of their history,” Serma pointed out as Lorsa snorted at the idea of something lasting. She was such a cynic.
+
+“Well, sure if the collapse was done by decay and time, but there is a different way to collapse,” Haldi said then peered at her. Serma looked back, unwilling to blink.
+
+“You remind me of someone. They had the same sort of reasoning about things and your nose is awfully familiar,” Haldi mused and Serma was going to start wearing a veil. This nose business was giving her a complex.
+
+“You knew her father,” Lorsa said slowly. Haldi continued to stare and Serma raised an eyebrow.
+
+“I know a lot of noble fathers,” Haldi said oddly.
+
+“They suck,” Serma said bluntly and Haldi staggered suddenly as if struck by a memory.
+
+“I was informed I had an escort quest here,” someone spoke up and Serma turned, blinking as she saw a sort of familiar face.
+
+“Aren’t you Peharl’s apprentice?” she asked and the boy with a stoic look gave her a look as if only noticing her.
+
+“I retired,” he said slowly.
+
+“You must be Alpha,” Lorsa said quickly and the boy shot her a look, hand on his sword suddenly.
+
+“You’re-” he said and Lorsa was at his side, giving his shoulder a squeeze.
+
+“Royal Knight Captain, Lorsa. I’m glad you remember,” she said with a wink.
+
+“Delta is better,” Alpha said and Lorsa made a strange choking noise as Alpha turned to Serma but Mas stood between them.
+
+“Please be nice,” Mas said and Alpha frowned.
+
+“My moral alignment is irrelevant for this escort quest, if it was, it would be listed before I accepted it,” he said and looked at Serma.
+
+“I’m here to take you to Delta. Do you have any objections and are you able to match my walking speed without pathing issues?” he asked seriously.
+
+“This is not how one escort’s a lady,” Serma said with a little bit of royal tightness to her voice.
+
+“Your class is ‘princess’ and ‘rebel’. You are not a lady,” Alpha pointed out and Serma’s nostrils flared.
+
+“I’m about to class change to ‘murderer’ in a second,” Serma said as she tried to square up to Alpha but Mas held her back.
+
+“Think of the blood on your nice dress!” Mas said and Serma hesitated.
+
+“The dress has no enchantments or lore. It’s ‘mid’ at best,” Alpha continued to speak.
+
+“Do you have a problem with me?” Serma asked and Alpha suddenly made a strange smile.
+
+“I heard a royal ruler must be advised by their ‘head mage’. I am simply trying to be helpful by pointing out that the dress you're wearing has no protections built into it nor does it allow you to activate any seduction skills to gain political power over your enemies,” he said flatly.
+
+“I’m about to seduce your rib cage into a meat grinder,” Serma’s eyes flashed. Alpha frowned and Serma mentally felt like she had won a point in this strange game.
+
+“I do not find you attractive as a ruler or as a girl. I’m simply advising you of your shortcomings as to prevent you dying or committing an act so shameful the royal city collapses. Also, my rib cage would break most meat grinders as I have the ‘Thick Bones’ passive ability. It gives me thick bones,” he added, as if Serma needed the clarification.
+
+“Like a thick skull?” Serma asked, voice sickly sweet.
+
+“Yes, I can headbutt most things without an issue. Sometimes if I use it on trees, creatures fall out of it,” he said, ignoring her tone. That just... made Serma feel worse.
+
+“Princess, he’s just bad at talking!” Mas said quickly and Serma was going to introduce him to some rudimentary social classes in the nearest blood arena.
+
+“Perhaps Serma would feel better, Alpha, if you shared a weakness you possessed?” Haldi suggested over the noise of their argument, but the old man was grinning. Alpha frowned and seemed to think... and think... and think so more.
+
+“Humility, perhaps?” Serma whispered.
+
+“I could not wear a bad dress like Princess Serma can with confidence. I think a weakness of mine then is confidence,” he said and Serma went for his throat.
+
+“Youth is the best cheese of all,” Haldi said brightly and Lorsa could only nod over the sounds of Serma’s fingers creaking as they tried to squeeze Alpha’s throat but doing little more than causing indents in his skin.
+
+“Your choking skills need to be grinded, I’ll add it to the list.”
+
+Serma was going to leave this town with the ability to crush metal with her bare hands, even if it killed her.
+
+“Mas can help her!” Lorsa said quickly.
+
+“I don’t want to be choked...”
+
+“Give it time,” Lorsa said and Serma’s urge to strangle them all grew.
+
+A blond man with a Peacekeeper badge turned the corner, took one look at them and pivoted on his heel and walked back the way he came.
+
+“Harder, use your thumb more,” Alpha instructed.
+
+Serma was seeing red and a little gold.

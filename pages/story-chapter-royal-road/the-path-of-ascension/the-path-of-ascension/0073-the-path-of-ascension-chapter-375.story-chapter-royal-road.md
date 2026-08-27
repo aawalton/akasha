@@ -1,0 +1,253 @@
+---
+id: 45bd13c3-c3da-5c9f-a509-7440eb278993
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 375"
+slug: 0073-the-path-of-ascension-chapter-375
+partOf: the-path-of-ascension
+position: 73
+ownLength: 5092
+unit: words
+ownProgress: 5092
+publishedAt: 2024-12-23
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1971509/the-path-of-ascension-chapter-375"
+royalRoadId: "1971509"
+markedReadAt: "2026-06-29T19:20:10.191Z"
+---
+
+Chapter 375
+
+Returning back to Palustris, Matt immediately went to Liz and discussed Frederic’s request. In the end, they decided that it was a good idea for no other reason than to give themselves more political relevance.
+
+Honestly, a major portion of that was interest in the Orders themselves. There really wasn’t anything like them in the Empire, and Matt was tremendously curious about what sorts of Knights they might make. He’d looked up some of the most notable historical Knights and had been quite impressed by what he found. The Orders had created many, many Pinnacle elites over their histories, and any amount of additional power was welcome.
+
+Of course, he’d also found a lot of abuse and corruption in their past, but the political leeway the Orders were being given in this revival had more to do with allowing them to perform ‘untested magical experimentation’ on the children of the Order themselves, rather than allowance to let their Knights-apparent have free reign when it came to killing other children with their magical powers.
+
+Their testing would also be very much restricted to that of their own children, with fairly strict controls for who was even allowed to become a Knight the typical way. Not many Orders had kidnapped or coerced random commoner families to become generational test subjects with what could only be assumed was horrific mortality rates, but that was unsurprisingly explicitly cut off. It was the first time Matt could safely say he was glad that only the children of nobles were allowed to do a given thing.
+
+It had also been something of a long-held undercurrent of discontentment with the Sophrons that they’d effectively killed the Orders, thereby weakening the nobles who had been supported by them. Hopefully reviving them would come with a substantial amount of goodwill from the oldest and most powerful noble families across the Empire. It was amusing that giving them the opportunity to open their coffers and create super-soldiers for the Empire made them happy, but hey, he wasn’t complaining.
+
+He was also glad to see that there were explicit outs for the children involved. They weren't quite as robust as he would have liked, but no one would be going through with the awakening without a way out and a clear understanding of what they were signing up for.
+
+A part of him knew that children raised to the life would be hard pressed to accept the outcome, but no method that relied on trying to breed pinnacle elites could get around the fact that the children were ultimately bred for that singular purpose.
+
+This new version of the Orders was at least giving them a way to cut ties, which was better than the historical way the Orders dealt with prospective members who didn’t want to be their super soldiers.
+
+Breeding farms were not a topic he wanted to read up on ever again, but that was all explicitly outlawed and came with incredibly harsh punishments for anyone even trying to restart such practices.
+
+It was with that in mind that he and Liz started really looking at their duchy and the resources that lay within.
+
+They had nearly eighty percent of their allocated planets delivered, which would put them at only half of the typical duchy size, but they had some real gems in their allocation. First and foremost was Palustris itself.
+
+The resources on the planet were abundant and worth a lot, but they weren’t inexhaustible or free from normal operation costs.
+
+In fact, most of the resources on Palustris needed a lot of investments to even show long term profit, which is where their first real issue came into play.
+
+It was a first for Matt since he had joined the Path, but he was poor.
+
+Really, really poor.
+
+On an individual level, they were stupendously wealthy, exceptionally so for their Tier, but none of that could be used for the duchy. At least not effectively or without great risk.
+
+First of all, which Cato didn’t hesitate to point out, all of the duchy’s accounts were public record, as were the dispensations they got from the Empire. If they spent more than what was accounted for, people would immediately know. And while they could use the excuse they were using their personal accounts for some things, that was only good for a minor project or two, which meant very little on the scale they needed before people started to get suspicious.
+
+Secondly, even if they could get around that and disguise Matt’s mana as clean income, unless he wanted to fund the duchy forever, they needed to use monetary solvency as a metric of success. Which wasn’t easy when you had outside sources of income like that. Not that every project needed to directly pay for itself— social services such as free healing for civilians didn’t directly pay for itself, though a healthy population had a multitude of positive effects that more than paid for the initial costs in the long-run— but money was a good way to find pain points.
+
+Thankfully, the Empire didn’t expect new planets and their nobles to become self-sufficient immediately. The level of dispensation depended on what kind of planet the noble got, but they had time and interest free loans at their disposal to help get their fief in order.
+
+A typical low-Tier, fully settled world taken from another Great Power was often given a century or so of tax breaks because ultimately, they didn’t need much in the way of additional work. The planets were typically already fully subjugated, even if they weren’t fully settled, but they didn’t need large-scale work that would require Imperial assistance.
+
+Middle-Tier words, Tier 10 to Tier 25, were given the same leniency but they typically had some greater dispensations. Most other Great Powers didn’t actively encourage large mortal populations, and planets in this range typically struggled to adapt to the expected influxes that would come with their relocation to the Empire.
+
+High-Tier worlds, Tier 26 to Tier 35, were so rarely traded that there wasn’t really a standard set in place. Sometimes they required a complete overhaul to fall in line with Empire regulation, but that could mean a full demolition and rebuilding of the planet’s infrastructure, which was why they got even more leeway.
+
+Tier 36 and higher worlds trading hands was so rare, it hadn’t happened in over three hundred thousand years, so there wasn’t really a set standard. Excluding the Monster Collective’s creation, but that hardly counted due to it being more a split of an existing power than anything else.
+
+As Ascenders that had gotten an entire duchy of war spoils from all of the other Great Powers except the Guilds, they were given slightly more than the average exception, but not anything special either.
+
+As a duchy getting new lands, they had a century before they needed to pay Imperial taxes, which was their greatest leniency. If they couldn't become solvent before then, they would not only be shamed and have their public images ruined, they could possibly be held criminally responsible.
+
+Thankfully, the typical Empire tax structure was more than enough to get them where they needed to be, but they were still responsible for the outcome.
+
+They were, in fact, responsible for all of their nobles, though to a lesser degree. If there was a problem with a lower-rank noble and they willfully ignored the issue, they could be held just as responsible, but that was unlikely. Even the Junipers, the nobles who had been responsible for the rift breaks on Lilly, direct lieges hadn’t been charged for negligence.
+
+The second thing they were entitled to were loans backed by their royal liege. In their case, that was Manny himself, but it was a boilerplate loan that couldn’t be adjusted without undue scrutiny, so it couldn't even act as a way to launder Matt’s mana.
+
+With those two advantages, they wanted to get their duchy into a profitable place, not just a neutral one.
+
+A lot of that was handled and delegated to their subjects.
+
+If all of them could at least get their planets into the black, a lot of their issues would be solved, but that was wholly impossible. Inevitably, planets would have economic fluxes. And on low-Tier worlds, that often meant decades or centuries in a slight net negative. That was ok, as long as all of their worlds fluctuated at different times, allowing other worlds to make up the difference.
+
+The second thing they needed to do was set up exports.
+
+Almost every duchy specialized in at least one thing, if not more. It wasn’t like the Empire would suddenly run out of demand for weapons or armor, but that ran into one of the largest issues all nobles faced.
+
+Tier.
+
+Tier was king.
+
+A single Tier 40 planet, even with its higher expenses, greater population, and higher taxes to the Imperial government, could out produce a dozen Tier 20 planets. Part of that was the larger costs involved, but higher-Tier products and goods also came with correspondingly higher taxes than lower-Tier stuff. Even at Tier 45, most taxes weren’t unduly high, but even a tenth of a percent of the sale price of a Tier 45 weapon could cover what an entire Tier 5 planet produced in a year, if not a full decade.
+
+That meant most worlds, let alone most duchies, tried to increase their world's Tier, but they focused most of their efforts on the highest Tier of goods they could sustainably produce.
+
+The problem was that it took time.
+
+High-Tier crafting, the type their duchy didn’t have access to, sometimes took decades to complete a project. More than that, it took crafters millennia to reach not only the requisite Tier, but level of skill to make themselves competitive in the high-Tier market.
+
+They had some crafters thanks to the influx of planets, but most of the highest-Tier crafters had stayed in their home Great Powers, and those few who had remained were exclusive to the entity that had raised them, like the sects. Even if they could now sell their products outside their sect, few would deign to, and Matt and Liz couldn’t and wouldn’t force them.
+
+They could poach some higher-Tier crafters from existing corporations, guilds, or noble houses, but that was usually exorbitantly expensive in direct costs of buying out their contracts, or in offering them incentives like tax breaks that were more attractive than their current places.
+
+Thankfully, they had a few candidates who relished the fire environment of Palustris enough to move permanently. So far, they had thirty Tier 35 crafters, twenty seven smiths, and fifteen fire alchemy specialists who had requested permanent residency. There were a plethora of Tier 30 and lower crafters who wanted access to Palustris, but their planet's Tier capped the Tier of the interested crafters fairly hard.
+
+In an ironic twist of fate, they actually had Tier 40 or higher crafters wanting to buy a residency in Palustris, but they all were doing so without the intention to set up shop, which was what Matt and Liz wanted from them as it meant they got nothing out of them but any additional taxes they felt like imposing on higher Tiers.
+
+Those numbers seemed firm unless they could tempt other crafters with unique opportunities.
+
+The most audacious idea was a sky forge which used the entire planet’s mana system to help in the forging of special items, but even beyond the insane costs of creating the forge itself, the operating costs would bankrupt the entire duchy the first time it was used.
+
+That proposal was tossed out with a laugh that got Liz interested enough to read it, where they were able to share in the mirth.
+
+It wasn’t the only idea they were presented with.
+
+A more realistic option to attract more Tier 35 and possibly even Tier 40 crafters was to create a De-Kelt Cycle. By carefully, very carefully, pulling a stream of magma from the molten core of the planet to a deeply buried crafting area, they could multiply the potency of the planet by tapping into the cultivation core of the planet itself. It was risky, as any fuck up in the creation of the De-Kelt Cycle could destabilize the planetary core, and it also slowed down the planet’s growth if not carefully controlled, but it could create a fire paradise.
+
+Not just for smiths, but for alchemists and herbalists who could use the environment to make unique potions and grow rare herbs that needed extreme environments.
+
+He and Liz were incredibly hesitant to give the nod for such a project, but they didn’t reject it outright.
+
+A similar but less impressive suggestion was to allow hyper-strong essence and mana formations that would work on the surface of Palustris.
+
+That was disruptive to the local area, but with the Tier of crafter they were trying to attract, they could just shove them in the most dangerous locations on Palustris. But it also wasn’t anything more unique than they could make by creating an aspected area on any world, which meant it didn’t attract many Tier 35s or higher.
+
+There were similar, smaller-scale efforts, but they weren't noteworthy and could be done on a small enough scale that they just okayed everything that wouldn’t mess up the planet's aspect.
+
+Ultimately, they decided to wait a few years and see what happened. If they were still lagging behind in twenty or thirty years, they would reevaluate, but they hoped they had an answer to their higher-Tier crafter problem.
+
+Titan’s Torch.
+
+Matt’s guild wasn’t officially part of the duchy, but its headquarters’ moon was going to be orbiting Palustris in a short fifteen years when it arrived, which was when the operations of the guild would explode. The same went for Liz’s bloodline research organization once it was moved over as well, but that was smaller and more close-knit than Matt’s guild.
+
+With an entire moon to expand into, Matt’s larger and larger mana pool as he Tiered up, and finally, the increased presence the guild had as it produced viable products, the more draw it had. They hoped to leverage that appeal into drawing in higher Tier crafters to Palustris. After all, if a few crafters decided to stay on Palustris once their contracts with the guild ended, who were they to stop them or shoo them away?
+
+It was an idea which looked more and more plausible the more time passed.
+
+After the aura rifts and the travel mana engines, the guild didn’t slow down. Beyond a few other minor inventions, the guild had been quiet until it released a potion which made Shards of Reality dozens of times more effective, as it allowed the effect to be paired and merged with an aura potion. Only formed when someone ascended, Shards of Reality allowed someone who hadn’t been there in the moment to harness some of that mystical power to form their next Domain Stage.
+
+Normally, they wouldn’t last for more than a decade before their power faded without special precautions. But most of the time, the shards were scooped up at exorbitant prices to be used for wealthy scions and they were used well before then.
+
+The new potion didn’t necessarily change that, the shards were incredibly expensive and would always remain so. That was why people had tried to double dip and use one with the assistance of an Aura potion to create something greater than the sum of their parts. Sadly, the effects hadn’t stacked and anyone who tried had ended up wasting their money.
+
+Until now.
+
+If someone drank Titans Torch’s new potion alongside a normal aura potion while under the influence of a Shard of Reality, any prepared Concept would instantly form, and be statistically stronger than normal. If they didn’t have a prepared Concept, it would instead give them a fully-formed Concept of their own, not unlike the ways in which Minkalla acted. That Concept was actually static for a given type of aura potion, something that his researchers were quite keen to experiment on, but they were still in the early days of that testing. The problem required far more budget than they had available currently to do what they wanted with it.
+
+It was yet to be seen if the effect worked during an actual Ascension, but the researchers didn’t think it would be that helpful, as anyone who couldn’t form a Concept under the power of an Ascension had little hope of making anything more than the weakest, most ill-fitting Concept with an elemental aura potion.
+
+Still, the discovery, which was freely shared, had caused another wave of interest to pass through the Empire. Liz liked to tease him that it wasn’t the entire Empire, just the parts looking at him, but Matt countered saying that everyone was looking at him and seeing what they were doing, which meant it essentially amounted to the same thing.
+
+Titan’s Torch had decisively proven that it wasn’t a one trick pony or a guild that would only be working on aperology, despite their repertoire. They were a guild that was funding wacky projects and coming out with winners. Even if not every project was a superstar, the conditions they offered and the remunerations were immense, for the single downside that the products would be shared with the Empire at large. Though, that fact was starting to draw the attention of older, better-known researchers.
+
+Which was why with every passing day, they had more Tier 35 or higher researchers, or crafters with an eye to pushing the limits, knocking at their doors.
+
+They did need to be careful to not cross the line in trying to attract talent, or they could be subject to Imperial audits and censure, but that was just a matter of not actively trying to recruit people to Palustris under the pretense that moving there would get them or their project funded by Titan’s Torch.
+
+Matt didn’t want to set that precedent, but he knew that some people would inevitably try exactly that to bypass the lines, which he was happy to take advantage of. Sadly, even if that scheme worked out, and they got a slow but steady trickle of high-level crafters, that only took care of Palustris and not the rest of their duchy.
+
+Having reviewed Countess Walsh’s proposal to make the duchy a net exporter of aura potions, he and Liz decided to go ahead with most of the plan. They axed the more risky methods that were proposed in the brief but kept the core design.
+
+In return, they gave Countess Walsh an official commendation, which she would be presented with during their first open court session, as well as a rare Tier 20 Natural Treasure she wanted out of the Emperor's vaults.
+
+The problem was, once again, Tier. Aura potions sold for a large amount of money, relatively speaking, but it was still ultimately a Tier 4 product. Technically a Tier 4 through Tier 7 product, as there were many people who had used the old Bottled Concepts and could use the higher Tier potions. But eventually, once everyone converted to the new potions, there wouldn’t be any demand for the higher Tier variants.
+
+Their main advantage was that there would always be a significant demand. Even if every Tier 4 rift in the duchy was converted into an aura rift and delved on cooldown with perfect efficiency, they couldn’t satisfy the Capital’s demands, let alone the numerous other high-Tier worlds and their populations. That, even with Titan’s Torch’s efforts making aura rifts simpler, came with significant costs, even ignoring the learning curve and inevitable failures.
+
+Still, Matt was proud they were paving the pathway to immortality for far more citizens of the Empire in a way that the old Bottled Concept’s couldn’t manage.
+
+To combat those issues, he and Liz decided that if they were going to go all in, they were going to truly go all in.
+
+Tapping into their list of immortals requesting for permanent residency on Palustris, they notified all of the enchanters that if they wanted to bypass the waiting list, they could sign up for their aura rift making class. Once enrolled, they would be provided, at no costs, a set of formation plates to make aura rifts and guided through the process by either Matt himself, or more likely, someone he had trained. From there, they would just need to make a yet undecided amount of aura rifts per decade to fulfill their end of the agreement.
+
+Matt had half worried that people wouldn’t accept the offer, as aperology just wasn’t that popular of a profession, but they ended up having to be selective with all the applicants. Anyone with even a modicum of enchanting ability was a bit too wide a net to cast, as most immortals had dabbled in all professions, even if they weren't masters.
+
+Not that one needed to be a master to learn how to make aura rifts. Even an average Tier 15 formation master could repair the formation plates, and if they somehow managed to break the plates, they could just get a new set from their new school.
+
+Their hope was that once they got the knack of it down, most of the enchanters could create aura rifts fairly reliably. Their early adopters showed that while none of them were breaking, or even meeting, the guild’s established success ratios, they were meeting the reported averages from the planets that had embraced aura rifts, which was good enough for Matt and Liz.
+
+They even contacted and bought overviews of how aura operations were run, and more importantly, the issues they had run into during their development from already established aura worlds.
+
+The funding of the aura potions didn’t end with the rifts being made. Liz oversaw the second half of the project, which was ensuring they had enough alchemists to turn the raw aura into a sellable potion locally, instead of outsourcing that to another duchy.
+
+That meant creating entire training programs that could take any Tier 4 or higher and turn them into an alchemist capable enough of making a fairly difficult potion. To complicate matters further, neither of them liked the idea of just training alchemists to be one trick ponies who only knew how to make aura potions. So, they ensured that the training course was robust enough that once the twenty year contract was over, the alchemist could be capable of making it on their own in the profession, more broadly speaking.
+
+It seemed so small, but that added scope quadrupled the initial set-up costs and doubled the operating costs of the alchemy schools they created. Their hope was that the increased proficiency of the alchemists would pay dividends in the long run, as more alchemists in their duchy would fuel the potions, powders, and pills economy in the higher Tiers. Typically, social services like that paid dividends when extrapolated out, but there was always the risk they were over-extended, which loomed over them and their budget.
+
+They considered trying to expand the project to a full crafting school that could teach smithing, enchanting, talismans, formations, tailoring, bowyery, and any other crafting venture, but while a number of the faculties could be used by the other professions, there would still be new equipment needed for each crafting branch. In turn, that would balloon the theoretical expense, along with the raw mana costs that Matt couldn’t just wave away.
+
+And the trainers. Qualified trainers who could teach just up to Tier 4 were expensive, and that price only increased the less popular the profession.
+
+Maybe someday they could afford it, but that day wouldn’t be anytime this millennia.
+
+The main advantage of the project was the increased economic draw on Tier 7 and 8 worlds, which could have the most Tier 4 rifts. Those planets all saw impressive immigration as ambitious people moved to those worlds to either delve the aura rifts or craft the aura potions. That, in turn, brought more smiths and enchanters into the area, as they had a much larger delving population than normal, which required more secondary supplies.
+
+A good start, but not quite enough to immediately make the duchy truly profitable in the way they wanted it to be. Tier 4 economics just weren’t enough.
+
+Tier 4, 5, and 6 planets did convert some of their rifts into aura rifts, allowing them to tap into the economic prosperity. But with their smaller capacity for Tier 4, their increases were correspondingly smaller.
+
+Worst of all, that left the Tier 3 and under worlds as problems.
+
+While the Empire gave funds to advance those planets’ Tiers, other Great Powers rarely bothered, willing to let nature take its very slow course. Tiering up low-Tier planets was a slow and expensive process, even when artificially sped up without outside mana expenditures, let alone when allowed to cycle on its own. At least, it was if it was done safely, and if anyone was dumb enough to do anything but safely feed rifts knowing his history, they would have to have the IQ of a corpse.
+
+Or, they would once Matt got done with them.
+
+But that didn’t change the fact that the worlds offered little beyond larger-than-average populations, thanks to the nearly nonexistent dangers.
+
+Though not all of the low-Tier worlds were that populous. It was mostly a feature of the Republic's veil worlds.
+
+An advantage that Matt was coming to appreciate as he and Liz were trying to figure out how they could help the local barons increase immigration.
+
+The Empire typically encouraged people to settle low-Tier worlds through a series of tax breaks or outright tax credits, but the methods were only so effective. The issue was the worlds, thanks to their low Tier, had limited economic possibility, which meant the populations were typically so low that they were permanently net negatives when it came to funds.
+
+Taking a page out of other duke's books, they offered anyone who moved to those low-Tier worlds greater access to resources for their children. Easier access and funds for trips to things like off-world rifts and colleges.
+
+When that only had a minimal effect, they did something a little more drastic. They offered guilds more lands than normal on the planets, so long as they made efforts to improve their new outpost worlds.
+
+People being people, that would, when combined with the other efforts, create an increase of the local populations. Fertility rates didn’t start to truly get impacted by Tier until Tier 10, which meant a bunch of Tier 5s and lower would end up having kids as they inevitably paired off and settled down.
+
+Even knowing that, the guilds still happily took the offers. Eventually, those worlds would reach Tier 5, which would make those expanded land grants increasingly valuable.
+
+They were given an idea that they decided to implement for those worlds, but it was risky. Large scale cultivation of alchemical ingredients. With low rift density thanks to the planet's Tier, they had correspondingly fewer dangers, which meant people weren’t so constrained to the coastline safe zones.
+
+Low-Tier alchemical ingredients weren’t valuable but they weren’t worthless either. They would make great training supplies for their aura potion training facilities. Even if it didn’t work, it was only slightly more expensive than ordering the ingredients from a higher-Tier world, which grew the ingredients in rifts, and it was boosting their duchy's economy.
+
+He and Liz tried their best, but things still went wrong.
+
+They always did.
+
+One of their planets had a bad bacteria with just one breach of containment, causing two other neighboring planets to lose significant portions of their evergreen tree populations, impacting a whole swath of things.
+
+Eventually, Liz just went and wiped out all the infected trees with a tidal wave of ichor, repeating the process as needed until the bacteria was entirely eradicated.
+
+Not that they could just leave at that point; they needed to then help the barons get the planets repaired, which meant large low-Tier expenditures.
+
+The high-Tier planets were just as bad. Two of their counts decided to start a feud due to one of them looking at the other the wrong way, or some other ridiculous perceived slight, sparking a fight in which they managed to kill each other.
+
+Worst of all, the backers of each count demanded answers that they couldn’t give. Matt and Liz were confused, and without anyone to ask about what had actually happened, they couldn’t answer the backers, which made them look bad.
+
+Even good things somehow managed to turn bad. One of their shipping lanes got raided and they lost not only a large shipment of aura potions, but the bandits managed to abscond with a rare shipment of Tier 20 materials which, as the local dukes, they needed to repay, as it was their duty to keep the shipping lanes free from such problems.
+
+Worst of all, when they managed to catch the bandits, they had already sold the product and spent the meager money they had gotten in exchange.
+
+It was pure annoyance.
+
+Still, they solved each issue as it came up until they had a magical thing. Free time.
+
+It didn’t last for long, as just a decade after getting Palustris, their final planet had arrived and been settled in, which meant it was time for them to hold their first court. It was supposed to be a ‘grand occasion’ according to tradition, and needed a level of pomp and ceremony they usually avoided.
+
+Just getting their outfits right had taken over a day of effort by dedicated staff, and Matt considered taking Mara and Leon’s idea of forcing a fashion trend that they could just never move on from.
+
+While the nobles with any sense had at least slightly tipped their hands ahead of time, Matt was sure many were going to ambush them out-of-the-blue with some inane request to create the Realm’s largest functional swimming pool or some other request in public, trying to get them to agree on the spot. Unless it was actually a good idea, it had no chance to work, but that never stopped people from trying.
+
+Standing before their gathered nobles in formal ducal attire, Matt inspected each and every one of them.
+
+Matt and Liz said in unison, “Let us commence the first official court of the Moore Duchy.”

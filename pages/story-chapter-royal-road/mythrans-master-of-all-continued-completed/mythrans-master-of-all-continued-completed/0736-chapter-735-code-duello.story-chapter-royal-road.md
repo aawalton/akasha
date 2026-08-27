@@ -1,0 +1,281 @@
+---
+id: 936b9d80-8543-528c-97cb-37a19dcc3a45
+page-type-slug: story-chapter-royal-road
+title: "Chapter 735 - Code Duello"
+slug: 0736-chapter-735-code-duello
+partOf: mythrans-master-of-all-continued-completed
+position: 736
+ownLength: 3950
+unit: words
+publishedAt: 2018-10-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299445/chapter-735-code-duello"
+royalRoadId: "299445"
+---
+
+Once Lara left the Library, Ren knew that he had a few minutes before she returned. Artemis chose to stay there and wait, so he opened a portal to House Neram and went through. He set up the displays in the bedrooms and in the living room, then wrote out the instructions on how to use them. He jumped back to the Library to wait with Artemis, then Lara came out of her apartment and he didn't have to wait at all.
+
+“Hey, perfect timing.” Ren said and dismissed the portal and took her into his arms.
+
+“I successfully delivered your backdoor keys to the other kingdoms.” Lara said.
+
+“Thank you, Baby.” Ren said and gave her a kiss. “I'm glad you're not mad that I didn't wait very long before wanting to see you again.”
+
+Lara laughed. “I probably shouldn't have expected you to listen in the first place.”
+
+“Would you mind it if I imposed on you for a couple of minutes?” Ren asked.
+
+“Ren, if Artemis comes along, I'll even consider keeping you for up to five minutes.” Lara said with a straight face, then she burst out laughing because that was a ridiculously long time for them to spend inside her apartment. The three of them entered and Teepo and Ren's pet tarantula hopped off and waited by the door. Ren, Artemis, and Lara were back out barely three minutes later, and Lara practically shoved him out through the door.
+
+“Yes, yes. I'll go back and apologize.” Ren said with a huge smile.
+
+Lara grabbed him around the shoulders and kissed him. “You don't want to piss them off, Ren.”
+
+“I know.” Ren said. “I still can't believe you won't tell me what's up with them.”
+
+Lara chuckled. “You just have to stick around them for a while and you'll find out.”
+
+Ren sighed dramatically, and she pat the top of his head.
+
+“Go and be a good boy for them, then I can fill in the details for you.” Lara said.
+
+“All right.” Ren said and fake pouted to make her laugh. “See you in the morning.”
+
+Lara gave him another kiss and closed her apartment door.
+
+“I can only imagine what they are going to say, considering what you said just before you left them at the castle.” Teepo said.
+
+Ren chuckled. “I hadn't planned on seeing them again until they travelled in their caravan for a few days.”
+
+“You were going to meet them before they left the Human Kingdom?” Artemis asked as she picked up on his thoughts, and Ren nodded.
+
+“I wanted to see their reaction after they had stewed for a while on my threat.” Ren said, then laughed. “Now I've got to go back to the castle and try to keep my Respect while still apologizing to them for making a threat about their insult to me.”
+
+“Okay, that's messed up.” Teepo said. “I guess you can't just go through with the threat and beat them all senseless in combat.”
+
+“Lara said that is exactly the wrong thing to do.” Ren said. “She also said that my Etiquette skill only lets me handle social protocol and not anything else.”
+
+“Oh.” Teepo said. “Yeah, that's a bit of a drawback.”
+
+Artemis snorted a laugh. “It can't stop you from overreacting is what you mean.”
+
+“Yeah.” Ren smiled. “So, should we do a grand entrance or slink back in undetected?”
+
+“Not we.” Artemis said, and Ren looked at her. “A ranged combat specialist won't help you much in social situations like this.”
+
+Ren took two steps up into the air and cupped the sides of her face. “You're coming with me because you need to stay by my side.” He said. “Just being there helps me.”
+
+“But...”
+
+“How many of the women there wanted to come over and experience the same thing I did with Tatya?” Ren asked, and Artemis' eyes widened. “That's right. A lot.” He said and gave her a kiss. “Because you were there, they kept their actions reserved and stopped themselves from running across the room and jumping on me to get a similar feeling.”
+
+“Ren, I...”
+
+“You can feel what I feel, and who better than a statuesque beauty like you to help me fend off the horny masses?”
+
+Artemis couldn't help but laugh at that. “All right. I'll stay at your back.”
+
+“Thank you.” Ren said and gave her another kiss and let her face go. “So, do we make a spectacle or just appear among them?”
+
+“Ooo, I'd say Sneak and Ward to get right into their group and appear.” Teepo said. “You can show their other people, the ones who are hiding, how to do it properly and maybe get some Respect from them.”
+
+“Or annoy them again.” Ren said with a smile. “I can throw in Displacement as well.”
+
+“Oh, Ren! Use the Doppelganger ability, too!” Artemis said.
+
+Ren snorted a laugh. “I want to impress them, not overwhelm them.”
+
+“If you do that, you can be both sneaky and showy.” Teepo said. “If they can't respect that, then there's not much apologizing is going to do... except maybe make them resent you.”
+
+“That is what I'm worried about.” Ren said. “I've seen them make a few mistakes and none of them apologized or even implied that they were going to.”
+
+“That would make things more difficult.” Artemis said. “If one of their rules is that they don't apologize...”
+
+“My normal behaviour is not going to work.” Ren said. “I make mistakes and apologize for it all the time.”
+
+The three of them fell silent as they thought about it.
+
+“Say, what if after you do the Doppelganger with Displacement trick, you somehow tell them you're sorry.” Teepo suggested. “Then we can gauge how they treat apologies.”
+
+“Teepo, that's a great idea.” Ren said and cast a portal to the Modified Sanctuary. “Let's go and talk about it more privately.”
+
+They stepped through the portal and discussed how best to deal with the situation. When they had a good plan in mind, Ren quickly made 12 fully articulated training dummies at his own height, since that was how many representatives were present in the reception area, then activated his Doppelganger ability and chose the training dummies. He could have used Full Illusion instead; but, he wanted an actual physical component for his ability to change into a copy of him, so the training dummies worked the best for that.
+
+Ren smiled as 12 copies of himself stood in front of him. “Doppel Rens, we have a task to do.” He said, and the Doppelgangers smiled. He explained what he wanted them to do while he equipped two of the Bracelets of Magical Boost to maintain them and keep his ability active. If he had only made one Doppelganger, he wouldn't have had any problems. With 12 of them active, they were a constant and steady drain on his Mana Pool. Once it was explained what he wanted, Ren stored them and checked the All-Seeing Mirror, then opened a portal half a mile up in the air above the castle.
+
+“I know it's a bit of overkill to appear this far away.” Ren said and deactivated all of his Auras. “I forgot to use my Aura Sense to detect the real range of their Auras.”
+
+Artemis chuckled and deactivated her own Auras. “You're lucky we can fly.”
+
+Ren took her hand for only a moment, then they stepped through the portal. “Go full Stealth and we'll meet up in the reception area.”
+
+Artemis nodded and they both disappeared as they started to drop through the air for the half of a mile to reach the castle below. Ren wasn't worried about losing her, since they could still feel each other through their connection. Teepo chittered in delight as they fell faster and faster towards the ground, then just before he was about to hit the paving stones of the street, Ren deployed his wings and swooped forward instead and came to a stop right in front of the castle doors as he landed. He saw the guards react to the sudden wind gust and easily opened the door and slipped inside before they noticed.
+
+Once inside, Ren deactivated his wings and walked up into the air over the heads of the people there. He went up the stairwell and down the hallway to see that the people inside the reception area were just finishing up eating breakfast. King Alamast, his wife and daughter, and all 12 of the Pervarian representatives sat at on the far side of a humongously long table. He felt Artemis come into the room right behind him and she floated over next to him near the ceiling.
+
+They waited there for several minutes for a lull in the after-dinner conversations before starting the plan. In order to make his trick work, Ren had to activate his Personal Aura. He knew if he did that, all of the representatives would know he was there, and he smiled as he did so. All 12 of the people from the Pervaria Kingdom caught their breath as they recognized his Aura, even though he didn't have any other Aura active.
+
+King Alamast reacted as well and spoke under his breath. “No, he... he's back.”
+
+Ren chose the first Doppelganger and dropped it in the spot across the table right in front of Kenkoth.
+
+“Hey, there!” Doppel Ren said excitedly and gave them a little wave. “Guess who's back?”
+
+Shock spread through the room and all of the Pervaria people felt his happy emotions.
+
+“Do you remember what was said earlier?” Doppel Ren asked, and was met with slight nods. “Kenkoth, I challenge you to a duel of training sword skill!”
+
+Kenkoth had been fully prepared to refuse any kind of duel, submission or otherwise, and the words he had just heard surprised him. “I... well, I...”
+
+“You can refuse and give me 10,000 Respect by default.” Doppel Ren said, and the other representatives gasped. They didn't realize that he knew the conditions for refusal.
+
+“Very well.” Kenkoth said. “We fight until one of the wooden swords break.”
+
+“That's fair enough. Agreed.” Doppel Ren said. “We can start in a few minutes. I just need to do one more thing.” He said and pointed to the spot next to him that was in front of Tatya, and Ren dropped the second Doppel Ren in front of her.
+
+“Hi, there!” Doppel Ren 2 said. “I challenge you to a duel of training sword skill!”
+
+Tatya's mouth dropped open as she felt another set of happy emotions from the Ren in front of her, then she looked at the first Ren. “What... what is this?”
+
+“You can refuse and give me 10,000 Respect by default.” Doppel Ren 2 said and her head whipped back to look at him.
+
+“You...” Tatya took a deep breath and let it out. “We will fight until one of the wooden swords break.”
+
+“Thank you!” Doppel Ren 2 said happily, and he pointed to the next spot. Ren dropped the next Doppel Ren there and the Pervarians felt three copies of the same happy emotions.
+
+“Hi, there!” Dopple Ren 3 said. “I challenge you to a duel of training sword skill!”
+
+The healer couldn't believe what was happening; but, he was quick-witted and rather than listen to the same refusal offer, he accepted with the same sword breaking condition. When that Doppel Ren pointed to the next spot, another Doppel Ren appeared and everyone in the room, including King Alamast, Lady Eleanor, and Princess Diana, were too amazed to believe what was happening.
+
+When all 12 of the Doppel Rens had been deployed and all of the representatives had accepted the duels, Meccis was the first one to leap across the table and take a fighting stance. Doppel Ren 10 chuckled and took out 2 wooden swords and waited. The other Doppel Rens moved to take up positions to perform their duels and the rest of the representatives moved to stand opposite them like Meccis already was.
+
+“Since the magic user will be busy, the Magical Barrier of Protection will be provided.” All of the Doppel Rens said as one, then a rectangle barrier of transparent and slightly blue energy appeared around all of the fighters to give them each a cordoned off area to fight in.
+
+How did he do that? Kenkoth asked as he wondered at the odd-shaped magical barrier. They are supposed to be round when completely covering things!
+
+All the Doppel Rens tossed a wooden sword to their opponents, who caught them easily. “Do you want a countdown, or should we just start?” They all asked at the same time.
+
+The Pervarians exchanged glances, but Meccis didn't want to wait. He jumped forward and swung the training sword right at Doppel Ren 10's head. Dopple Ren 10 had expected this and ducked as he jammed his sword into Meccis' gut. Meccis grunted and hopped backwards, then tried to do a roundhouse kick. Doppel Ren 10 swung the wooden sword he had and hit the back of Meccis' knee, grabbed his foot, then pushed lightly. Meccis lost his balance and fell to the floor, rolled over, then stood up with the sword posed in a defense posture.
+
+Doppel Ren 10 jumped to the side instead of jumping forward like Meccis had expected. He landed on the wall, took two steps forward, and swatted Meccis' sword out of position and poked his neck with the tip.
+
+“That's one for me.” Doppel Ren 10 said happily.
+
+Ren and Artemis had a difficult time holding in their laughter at the shock and surprise they felt from everyone in the room as they stared at his Doppleganger who stood on the wall of the magical barrier as if it was the floor.
+
+“I guess that means we can all start.” The other Doppel Rens said, then they all lunged forward and started to fight with their opponents.
+
+The spectators in the room were completely stunned at the spectacle that had appeared before them and watched with fascination and awe. A lot of them couldn't decide which of the 12 fights to watch, so they chose one at random and watched that, then settled in their seats to enjoy the show.
+
+That was what it was. A show. Ren had learned from the play fight that Meccis and the other fighter had performed and realized that it wasn't necessarily the fight itself but what people perceived as the fight that was important. As long as they believed it was a good fight, it didn't matter if it actually was a real fight or not.
+
+“That's one for me.” Doppel Ren 8 said as he poked his opponent in the kidney with the tip of his wooden sword. The fighter grunted and rolled away, then threw the wooden sword. Doppel Ren 8 chuckled as he easily caught the sword, rather than be hit by it, and the fighter grinned as he rolled forward and tried to kick the legs out from under his opponent. Doppel Ren 8 didn't try to dodge and let the attack happen, then fell forward onto the fighter and stabbed both swords into the man's shoulders.
+
+“That's three for me.” Doppel Ren 8 said and rolled off, then held a sword out, hilt first, to the surprised fighter. “Get ready.”
+
+The fighter took the offered sword and took a quick breath and resumed his fighting stance. Doppel Ren 8 smiled and turned around, ran up the wall of the magical barrier onto the ceiling and started to swing wildly at the fighter.
+
+“AHH!” The fighter hollered and tried to fend off the flurry of blows.
+
+“That looks like fun!” Dopple Ren 2 said happily, and Tatya stared at him as he casually walked up the wall and onto the ceiling while he blocked and parried her attacks, which surprised her.
+
+All of the happy emotions the fighters were feeling from the Doppel Rens were starting to wear on their nerves. They couldn't use those emotions to predict attacks or to even guess where the next attack was going to come from. They could usually tell when an opponent saw an opening in their defenses and the brief emotional burst let the Pervarians react in kind. With the Doppel Rens being overly happy all the time, the normal advantage the Pervarians had in fights was completely negated.
+
+“How much longer are you going to let this go on?” Teepo asked in the voice only Ren could hear.
+
+Until Doppel Ren 1 gets a hit on Kenkoth. Ren thought to Teepo and Artemis as he watched Kenkoth fight. Which should be... right about... now.
+
+They all looked at the first fight and saw Kenkoth make a mid-air twist and lunge, and his sword went right through Doppel Ren 1's chest as he landed.
+
+“HA! I got...” Kenkoth's happy face faded as Doppel Ren 1's Displaced image faded and a wooden sword laid against the back of his neck.
+
+“That's one for me.” Dopple Ren 1 said.
+
+Kenkoth turned his head to stare at him without otherwise moving. “That was a...”
+
+“...legitimate fighting technique.” Doppel Ren 1 said, then lifted the wooden sword and broke it. All the other Doppel Rens carefully stepped back from their fights and broke their own swords. They dropped to the floor from their various positions on the walls and ceilings and then the magical barrier around the fighters faded. Everyone was surprised when the duels ended so abruptly, especially the fighters.
+
+“Hey, I didn't get the chance to...” Meccis tried to complain.
+
+“Shut up, Meccis.” One of the other fighters said. “You can't complain that he hasn't shown us that he knows how to fight.”
+
+“It's just swordplay.” Meccis said under his breath.
+
+“I don't think you'll ever be happy unless you win, will you?” Doppel Ren 10 said and laughed. Meccis didn't say anything in response and the fighter next to him had to laugh at that.
+
+“Since none of my countrymen managed to land a single hit on you during these duels, including myself, I must admit you can fight... if pressed.” Kenkoth said and made a motion with his hand, then all of his fighters and himself, bowed deeply to their opponents for winning the duels.
+
+Ren received 240,000 respect and his mouth dropped open at the obscene total. That's 20,000 Respect for each duel, or double the default for refusing!
+
+Teepo chittered in delight at Ren's shock. “You're more surprised than the audience is!”
+
+Ren looked around and felt that Teepo was right.
+
+“Is... is it over?” Princess Diana asked and looked at the Ren closest to her. “What happened?”
+
+“The fight was only until one of the wooden swords was broken.” Doppel Ren 1 said. “I broke mine, so the duel is over.”
+
+“That seems very anticlimactic.” Diana said.
+
+“Ren, that's your cue!” Teepo said.
+
+Right! Ren thought and stored each Doppel Ren in reverse order, starting with number 12. People gasped when the first disappeared, then again as each one disappeared from their sight. Ren left the first one for a few moments, however. He had felt the Pervarians want to approach him and waited until they did.
+
+“Were the other ones real?” Diana asked.
+
+Doppel Ren nodded. “We are quite real, Princess Diana.” He said and punched the table she sat behind and left a huge dent in it... then he disappeared when Ren stored him.
+
+“Wh-what?” Diana looked around, confused. “What just happened?”
+
+Ren activated all of his Auras, except for the bad ones like Ultimate Terror, Hatred, and Submission, then stopped blocking his presence. All the Pervarians and King Alamast looked up at him and Artemis. Ren unfurled his large leathery bat-like wings, then he and Artemis floated down to the floor and landed in front of Princess Diana. No one spoke at the display, not even the Pervarians.
+
+“King Alamast.” Ren said as he let his wings fade and bowed slightly to him. “Lady Eleanor.” He said and bowed to her, then looked at Diana. “Princess Diana.”
+
+“R-Ren...” Diana started to speak, then caught her breath at the omission of his title. “King Ren. I...”
+
+“So that was all fake?” Meccis interrupted.
+
+Ren chuckled and took out all 12 Doppel Rens at once and arrayed them around the Pervarians. The Doppel Rens immediately took out wooden swords, knocked away the ones the Pervarians still held loosely in their hands, then the Pervarians stopped moving when the tips of the wooden swords were pressed into their necks.
+
+“Like the first Doppel Ren said to the Princess, they are quite real.” Ren said, then the Doppel Rens all stored their swords and Ren stored all of the Doppelgangers at once.
+
+“That... that...” Diana shook her head. “Ren, what the hell is going on!”
+
+“I'm sorry for the confusion, Diana.” Ren said, and felt strong feelings of distaste from all the Pervarians.
+
+“Well, now we know.” Teepo said.
+
+That was a great idea, Teepo. Ren thought.
+
+“Thanks.” Teepo said.
+
+“Just tell me what's going on.” Diana said in a more reasonable tone.
+
+“When I left, I made a blanket statement that I had assumed was based on fact.” Ren said. “I inadvertently used Meccis as the template for how to behave around people that I didn't know from a culture I am unfamiliar with.” He explained. “That is not how I want to act. Threatening people I just met to a duel, based on my own perceived insult, is not how you properly greet new people or endear yourself to them.”
+
+“Ren, that's only a reason.” Diana said. “What just happened?”
+
+“I wanted to give them a demonstration of my fighting prowess.”
+
+“But... it wasn't you.”
+
+“They are Doppelgangers, Diana.” Ren said, and he felt the Pervarians react to that information.
+
+“What does that mean?” Diana asked.
+
+“He imbued them with his fighting knowledge.” Kenkoth said and Ren felt his understanding as well as his surprise. “They would react and move as if he was doing it himself.”
+
+“Is that even possible?” Diana asked. “I've never heard of it before.”
+
+“It takes years of training to master the technique, and even then, the Mana needed to maintain the link is extraordinary for one copy to exist.” Kenkoth said. “None of my current retinue can do it.”
+
+Ren held up his hands and showed his wrists with the Mana Boost bracelets. “I still needed these, even with my Mana maxed.” He said. “It even drained my Mana Pool, and that's triple my max.”
+
+No one said anything for nearly a full minute, and Ren could feel that they were all kind of shell-shocked from all the surprises he had unleashed on them.
+
+“Say, who wants to see baby pictures of my newborn son?” Ren asked to distract them, and he felt several women in the audience react and giggle. He smiled and walked over to the middle of the room and put a box on the floor, then felt Diana's recognition.
+
+“That's the Automatic Image maker.”
+
+“You're close.” Ren said and activated it, then 4 large displays appeared above it in a square. “Actually, it's a multiple display box that receives images from the Automatic Image Maker.” He said and loaded the first image.
+
+“Aww!” A woman in the audience said as Renardos' face appeared and Ren felt their emotions and their need to cuddle him. Ren grinned and showed the next image, and the representatives from the Pervaria Kingdom resumed their seats. Ren showed the next picture, then the next, and everyone watched the displays with interest, even the Pervarians.

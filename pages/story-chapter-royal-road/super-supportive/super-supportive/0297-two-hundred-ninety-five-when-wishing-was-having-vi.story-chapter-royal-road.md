@@ -1,0 +1,253 @@
+---
+id: f21ce40e-6410-50b9-84bf-ec0a7904992c
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED NINETY-FIVE: When Wishing Was Having VI"
+slug: 0297-two-hundred-ninety-five-when-wishing-was-having-vi
+partOf: super-supportive
+position: 297
+ownLength: 3979
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3614554/two-hundred-ninety-five-when-wishing-was-having"
+royalRoadId: "3614554"
+---
+
+295
+
+******
+
+“Let Me Take Your Luggage…‘luggage’, not belongings or baggage, but something heavy enough that it needs to be lugged around…. That’s one thing to think about. Travel…could be a relevant part of it for you to consider or not. Wizards are so proud of their ability to travel in ways the rest of the universe can’t that there’s an association between travel and magic itself that comes up in all kinds of situations where it barely belongs. And so even though the System’s use of a travel-related word was probably intentional, it might only be so in the most obvious way. They traveled to find Earth. You are one of their servants. ‘Let me help you lug your heavy things, Traveler,’ could practically be the same as ‘Let me help you with your heavy things, Wizard.’ And if anything is interesting about that it’s just the implication that your skill should be good for holding magical objects as well as ordinary ones. After considering the luggage angle, focus on ‘take’ since it’s not ‘help you with your luggage’ after all. It’s not even ‘carry.’ ‘Take’ could have been used to imply something stronger, don’t you think? An unretractable offer. Or can your entrusters take back what they give you? Reach through your shield and remove it from your hands? That should be in your faculty observation records from last term…no. It’s not. Torsten thinks being laconic is a virtue; if only he could exchange that opinion with one of the many stupid people who think the opposite. So is that something that can happen?”
+
+Alden hadn’t even been off the floor for long enough to take a couple of sips from his water bottle before a “see instructor” notice showed up on his interface. He and Ignacio had both gone to talk to Ash, who had suddenly started stringing sentences together like he was trying to hit a quota he’d been ignoring for the past two weeks.
+
+The three of them stood near the start of pincushion alley. A Wright was leading her team through, protecting them with a set of fast-moving metallic rectangles that she controlled with a glove she’d built.
+
+Ignacio kept glancing through the barrier to watch their run, which was more attention than they were getting from Ash. Alden hoped the instructor was at least going to watch the replay of it later since he was so focused on Alden and Ignacio right now.
+
+Ignacio had already talked about how using his weapon recall skill on Alden had happened from his point of view. And Alden had described an experience he thought an insightful and fortunate Avowed might have had if they’d been in his position earlier. He’d been a little more specific than Ignacio could be, even if he couldn’t be honest about how he’d done it. But the instructor wasn’t through with them after their brief explanations or put off by the fact that Rabbit levitation couldn’t possibly be the next big trend in Avowed powers.
+
+“Well?” Ash asked, brow arched as he regarded Alden. His nearly shoulder-length hair was held back by a thin black band that had some lint stuck to it.
+
+“They can’t bypass my preservation and take things back from me like that,” said Alden. “But I don’t think it would be the best scenario for entrustment if my entruster regretted the arrangement and I was playing keep-away with their stuff.”
+
+<<Is thinking so much about a skill name really helpful, Instructor?>> Ignacio asked. <<The words will have slightly different meanings in every language. And the System…>>
+
+“The System doesn’t provide as much information as it should, but it also doesn’t lie,” said Ash. “In a case like this where nobody else is known to have the skill and it’s disappeared from the list, he’s not going to be able to learn from other Avowed with the same powers, so he might as well take apart every single detail of what he does have to work with. Anyway, it’s just a starting place for him, a way of generating ideas. Come up with all the nuances you can for each word, figure out how to test them, do it, repeat. Where are Luna’s notes on you? I know she must have some.”
+
+The question was directed to his interface more than to Alden.
+
+Getting his interest was a goal, so go us. But why did it have to go immediately to my skill name and the System’s ability to lie?
+
+Standing here knowing much more about those topics than Ash did was uncomfortable.
+
+“Did you see me catch the knife?” he asked. “I’ve been practicing that kind of thing, but this time was incredible. Like my hands and my skill knew how to do what Ignacio wanted before I could think it through. It’s happened before. Practicing with Instructor Waker showed me it could, but that was just tennis balls. It’s hard to make it happen. And Ignacio… ”
+
+Alden wanted Ash to bestow some advice on his teammate instead of thinking so hard about the definition of luggage. “I couldn’t have done it without Ignacio. I wouldn’t have even asked to preserve his Meister weapon. I was afraid that might mess it up…the interaction between my skill and his link to his knife. But right before we started, he was thinking about how entrusters should be willing to trust me with things, and he went for it.”
+
+Alden looked at the Meister. Judging by his broad smile, he hadn’t lost his post-win energy. Their teammates were all standing together a short walk away, and when their voices got loud, he could hear that they were still celebratory. Ignacio had eked that win out for them a second after Alden assumed it would be a loss, throwing himself over the finish with the kind of injuries that would have been the end for their run if he’d been even the slightest bit slower.
+
+“You did great from start to finish,” said Alden. “And then you did that. Weren’t you even a little worried for your knife?”
+
+<<I was more worried about stabbing you with it as you fell. Think of how that would have looked to everyone.>>
+
+Ash shooed away his interface windows like they were annoying flies. “All right. I’ll talk to Luna whenever we run into each other. Ignacio, the important thing to take from this is that your teammate here may have much more potential to be a catalyst for your own growth than the average practice partner. You should try to create more novel magical interactions with him. A skill that responds to the skill of another Avowed in this way isn’t something you’re going to encounter often.”
+
+“We practiced a lot this week. To be ready for this class,” Ignacio said seriously. “All of us.”
+
+Good, thought Alden. Get in as many plugs for our team as you can.
+
+“Kon and Jeffy worked really hard, too,” he added himself. So you should let them run before the end of class.
+
+“There’s nothing special about hard work,” Ash said.
+
+Alden and Ignacio exchanged looks with each other. The instructor was actually paying attention to them now, for better or worse, so he noticed…and sighed.
+
+“If you want to be one of the most magically adept Avowed on this planet, which is something most of you claim to want as students of this program, then the correct amount of time to spend thinking about your powers and practicing with them is as much as possible. If I tell you to work hard, it’s like a reminder to brush your teeth. It’s the kind of advice teachers seem to be expected to give, so I give it. But I really think that those of you who need that reminder in this environment have fallen too far outside of expectations for me to forcibly inject you with motivation. Practicing your talents for hours outside of class should be obvious. When I notice something that’s not obvious happening for any of you, I’ll make you aware of it so that you can apply your hard work to that instead of all the normal things you’re doing.”
+
+He swept an upturned palm toward Alden. “I can’t promise anything, but this one has shown that he has the potential to be helpful to you in an unusual way, Ignacio. It’s very hard to do something truly new with a skill as basic and well-known as your type of weapon recall. But you just did. Maybe there is inspiration for you there. Once you leave school and arrive among the S’s who all know how to brush their teeth, you’ll find that hard work has a ceiling. Working on the right things becomes one of the few options you have to advance beyond other Avowed at your level. When the basics are mastered, the known is learned, and the practice is done, we’re left with leveraging opportunities and inviting good luck. Going after luck is disappointing most of the time. Just to warn you. But you won’t find anyone standing on the tip of the peak without it. And I’m sure Alden wants to help his teammates.”
+
+“I do,” said Alden, “but you’re such a— ”
+
+“Your skill recovers fully in about three hours?” Ash interrupted. “There was a note about that.”
+
+“Yes.”
+
+“That’s fast. If I put your team on first run and last, they could try things out on you twice.”
+
+******
+
+“Were you going to call him something bad?” Ignacio asked in a low voice as they headed back to join their team.
+
+“I might have been. I thought better of it since it sounds like he’s thinking of giving us two runs next Friday. I don’t want to ruin our chance at that. But he really makes me miss Instructor Klein. ”
+
+Alden switched to text. [I stand by calling him a six-year-old. There’s something so childish about his boredom with everything we’re doing here that doesn’t fall onto his own personal list of what matters. Can you imagine Klein saying our hard work doesn’t really deserve consideration? And if Ash is working hard on something, it’s not on treating us all fairly. I don’t even disagree with everything he said, but winning his attention doesn’t feel like as much of a prize as I was hoping for. Why is he so much more enraging than someone like Instructor Plim even though they’re both into experimenting on their students?]
+
+He was just venting. He knew the difference. She wanted to get students excited about being creative with their powers, like it was a shared endeavor. She cared about them.
+
+“He didn’t say anything about our floating island,” Ignacio said. “I was proud of it.”
+
+“It was the best. We all should be. I think he must have cared about it, but maybe more for his personal development than for ours. And then it got overshadowed by our next trick. I guess it was good of him to talk about the thing that might help us instead of the obstacle he clearly designed to satisfy his own curiosity?”
+
+“I’m sorry he only said things about you to say things about me.”
+
+Alden snorted as they reached the others. “That was fine. And not your fault. And he did start by trying to give me advice about generating new ideas for my skill.”
+
+“You got ideas?” Haoyu asked, catching the tail of their conversation. “What did Ash say about how well we did?”
+
+“Not enough, honestly,” said Alden. “He wanted to make sure we all know that my main worth is as a catalyst for the advancement of your talents. Do lots of magic with me to see if we can make up more novel combos like the one Ignacio and I just pulled off. Because luck is hard to come by and maybe you can squeeze some out of me. He says you’re going to need it when you’re old, because standing out from the crowd of other powerful Avowed gets hard.”
+
+They all looked confused by that summary.
+
+“Is that really what he said?” Kon asked Ignacio.
+
+Ignacio thought briefly. “More or less.”
+
+“Huh…maybe we should’ve expected something like that since he only called the two of you over. With other instructors, there would be comments for everyone. He should send us some after class. It would help us entertain him more if he did, so it’s in his best interest.” Kon leaned sideways to look around Alden toward the instructor. “I’ll suggest it to him.”
+
+Writher was twitching in Lexi’s hand. “Being a catalyst for us and new magical interactions is sort of like what you said you wanted to practice at the beginning of this class.”
+
+“It is,” said Alden. “It’s a great idea.”
+
+“Then why do you sound so annoyed about it?”
+
+“Because…I was trying to respect my skill by using it better. I don’t think he respects it. He’s just excited I might be a stepping stone for cooler Avowed to launch themselves off of.”
+
+“You’re cool to me,” said Haoyu.
+
+“Back at you.”
+
+“Did he say how an Agility Brute should use you as a stepping stone?”
+
+Alden turned toward Mehdi.
+
+“I mean that with respect,” said Mehdi. “Lots of respect.”
+
+******
+
+Many of their Coursing classmates had questions about how a Meister had made a Rabbit float. Most of them seemed to understand that Alden’s skill was the uncommon thing in the equation, but even knowing that, they directed far more of their curiosity toward Ignacio.
+
+What did it feel like? What would they do with it in future classes? Etcetera…
+
+Alden didn’t want to be hounded by questions, and he did think it was happening to some extent because Ignacio had looked more like the important party, swinging around and throwing knives. Plus, everyone understood Meisters better than they understood what he did. But being overlooked was extra noticeable when he had the answers they wanted, and they never even asked him for them.
+
+Although that didn’t apply to Vandy, who interrogated him thoroughly enough that anyone who ever felt like they’d missed the chance could just look over her notes.
+
+Do I wish I could tell them how I really did it? He asked himself after class had finally ended, while he was heading back to the dorm with Ignacio, Kon, and Mehdi.
+
+Lexi had gone to get coffee. Haoyu and Jeffy wanted breakfast at Cafeteria North.
+
+I don’t actually want any of the attention Ignacio just got, he decided. I think what’s throwing me off is having the urge to geek out about how I used my free authority to do something that ended up supporting Bearer…with such dramatic results!…but not being able to share that with the people who saw it. And Ignacio who felt it.
+
+There was also some pressure he couldn’t explain to any of them. He’d taken on a much more active role than they knew, and he didn’t want to keep doing it that way. But Ignacio might be disappointed if Rabbit Recall, as Kon had dubbed it, didn’t work. So Alden needed him to learn how to do his half of it on his own.
+
+He’ll get it with practice. He seems close. I’ll just teach him to perceive what he’s doing correctly. Without letting on. Secret teaching…can’t be worse than Ash.
+
+“Ignacio, since Rabbit Recall only works on me, do you think we should practice it soon, or is it less important than other things we could be trying out? We could save it for when we think we’ll want to use it on a specific run.”
+
+“Are you crazy!?” Mehdi said loudly before Ignacio could speak. He gaped at Alden. “You only had one success. What if you forget how to do it? You have to keep repeating new moves while they’re fresh.”
+
+<<I don’t want to lose the feeling of getting it right,>> Ignacio said. <<You shouldn’t either. Can’t we practice later today?>>
+
+“I agree with them,” said Kon. “I was going to suggest you practice as soon as your skill was back to full strength. I was also going to say you should skip class for it until I remembered your upcoming class is with a wizard. Someone from the university will be breathing down your neck if you’re even a few minutes late for one of those.”
+
+He was carrying the last few of the chocolate almond snacks Lexi had pulled out of the fridge this morning, and he pointed one up at the sky. “The System will be disappointed in you if you learn how to do something so fantastic with your skill and then just…don’t try again for a few weeks.”
+
+“Who cares if Ignacio can only do it with you?” Mehdi was still staring at Alden like Alden had suggested something unfathomable. “What about all the other Meisters you can probably do it with? Did you forget they existed?”
+
+“No…I just wasn’t thinking hard about them.”
+
+“There are a lot of Meisters,” Mehdi said. “Most of them get some way to recall their tools.”
+
+“I know.”
+
+“You need to master this before the window of opportunity passes.”
+
+“Okay. I will.”
+
+“Where is your urgency?!” Mehdi looked to the other two for help. “It’s because he’s a globie or something. You guys need to tell him he’s not allowed to learn how to float and then not do it again for weeks.”
+
+“I said I will,” said Alden.
+
+“But you said it like you were talking about nothing major!”
+
+I’m just not worried I’ll forget how to do it. Should I say so, or would that sound worse to them? Catching the knife was the more difficult to repeat thing from his own perspective.
+
+They’d reached the Garden Hall garden. A woman who was repairing one of the climate-controlled planting beds looked over at them.
+
+“I wasn’t going to say this,” said Ignacio as they entered the building and passed the notice board. “Because I wasn’t sure why it was like it was. But I understood the speed better.”
+
+Alden stopped at the bottom of the stairs, keeping to the side so that he wasn’t in the way of the flow of morning traffic. “The speed?”
+
+Ignacio stepped to the side with him as a trio of guys thundered down the steps, talking about the upcoming weekend.
+
+“The speed of the recall.” He sounded excited as he switched to Spanish. <<It was much easier to control than usual. Learning that has been hard, but with you it wasn’t too difficult. I was afraid of throwing you into the ceiling, since you’re a person instead of a knife. So I went slow. Then you said faster, and I went faster. Then you wanted to move even faster, so I called you as fast as I thought I could catch you. And it all worked just like I imagined.>>
+
+“Fine, you two. Have multiple breakthroughs in a day all by yourselves. Don’t worry about the rest of us, watching from the sidelines as you literally rise above us,” said Kon.
+
+<<Practicing how I recall you might make me better at recalling my knives,>> Ignacio said to Alden. <<Maybe you’re a training shortcut for me. That’s what I’m hoping.>>
+
+“See!” said Mehdi. “‘We can wait a while to practice the technique that might revolutionize training for the most common type of Meister ability,’ said no Avowed ever.”
+
+“I’m really glad it helped you that way, Ignacio,” said Alden. “I’ll make sure we fry my skill at least twice more today.”
+
+“Thank you!” Ignacio said. “I’ll be ready when you are.”
+
+“Revolutionizing Meisters as first years— ”
+
+“Mehdi!” Alden exclaimed. “Quit saying that. How can it be revolutionizing? There’s only one of me. I hope Ignacio’s right, and it’s a shortcut that will give him the knack for improving his normal weapon recalls, too. But even if it is, do you imagine me going door to door to give every Meister on Anesidora access to the same shortcut?”
+
+“Don’t take this the wrong way,” said Mehdi. “But if it works, you should think about doing that. You might get richer and save more lives indirectly through all of those Meisters you upgrade than you will as a Rabbit superhero.”
+
+Alden was drawing a blank on appropriate responses.
+
+“It might actually be your patriotic duty. You’d start with high ranks and work your way down. I have a few relatives who are Meisters.”
+
+“Thank you for the input,” Alden said, starting up the stairs. “I’ll be ignoring it.”
+
+At least Kon was amused. Alden could hear it in his voice as he asked Mehdi what Alden should charge for his services.
+
+******
+
+******
+
+Alden had more than enough time to change clothes and grab the few supplies he needed for his storytelling class. But it didn’t feel like enough as he tried to practice bits of the story in between popping in and out of his room to stare at Lute, who was innocently practicing his own story in the living area, unaware that he was doing vicious damage to Alden’s confidence with his “Little Red Riding Hood”-inspired tale.
+
+An origami klerm sat on Alden’s desk. He was examining it when Lute let out a howl that was so hopeless people were going to be crying for the wolf and plotting revenge against the girl and the grandmother. They were the villains in his story, not-so-subtly named Jess Riding Hood and Growlia Smellra.
+
+“All the best people wear these chains, Young Wolf,” Lute said in flawless Artonan that somehow managed to capture Aulia’s light, charming way of speaking. “You’ll thank me soon.”
+
+“I love you,” said Jess Riding Hood. “I love you.”
+
+That was her only line for the entire second half of the story, but it was frequently repeated, the sound of it growing stranger every time as Lute warbled and crackled through it until he sounded like a damaged antique radio.
+
+It was similar to something Warin-doyis had done in one of the stories he’d told them last week, but Alden hadn’t realized anyone would just go for it like Lute was.
+
+I didn’t know we were breaking out the advanced techniques so quickly.
+
+“I’m not going to suck,” Alden said to the klerm. “I have you. I have the story memorized.”
+
+The wolf howled again. Closer to Alden’s room.
+
+Either Lute is coming down the hall, or he’s learned to throw his voice.
+
+Alden stuck his head out the door. “You’re done practicing?” he said when he saw Lute heading into his own room.
+
+“It’s about time to go, and I can’t wear my pajamas to class.” Lute yawned. “I’m going to wear all black.”
+
+“All black?”
+
+“The room will be dark. My puppets light up. I want the audience to see them, not me, so the black will help me fade into the background while the story comes to life.”
+
+“The puppets light up now…I’m so happy for you.”
+
+Lute blinked at him. “You sound nervous. It’s just a class.”
+
+“I’m not. Weren’t you the nervous one before last week? I learned to be callable by Meisters this morning. That’s not something anyone else on Earth accomplished today. I’m going to tell a story. A funny one. That I spent all week working on and memorizing. I memorized it. Don’t even have to read it off my interface. The funny version might not be the best story I could’ve told; maybe it’s not the one that felt really meaningful, but it’s good enough.”
+
+“You sound nervous for sure. Do you want a self-confidence wordchain to help with that?”
+
+“No way. I might boldly ruin my life if you hit me with one of those things. We’ll be fine.”
+
+“We?”
+
+Alden held up his paper klerm.

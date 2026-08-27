@@ -1,0 +1,349 @@
+---
+id: effa4992-fad1-50ea-8ba7-0bc85b0f01b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 125: Evil deeds"
+slug: 0045-chapter-125-evil-deeds
+partOf: the-calamitous-bob-stubbed
+position: 45
+ownLength: 4563
+unit: words
+ownProgress: 4563
+publishedAt: 2023-07-07
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1269977/chapter-125-evil-deeds"
+royalRoadId: "1269977"
+markedReadAt: "2026-06-29T21:16:17.625Z"
+---
+
+Viv’s father used to say that criminals were not stupid. It was just that the police rarely ever got the smart ones. Viv intended to be smart.
+
+Breaking the law around Helock was pretty much a death sentence if caught. There would be no slap on the wrist for a fake bandit attack done for a decent cause. The Paramese courts of law and their enforcers didn’t do extenuating circumstances. The only thing awaiting her would be a noose and possible torture before. Both Lim and Solfis expected the attention to shift quickly to Jin Skaima and his clan, but there would be a few hours when the guards would want to catch the daring highwaymen hunting so close to the city walls. They would get no mercy. Only higher ranking officers would realize this was a targeted hit, much later.
+
+And so Viv prepared.
+
+Lim procured disguises, which Viv wore before just to make sure everything was fine. They left the city to practice the maneuver on some empty road near the shore. Even then, Lim’s crime family posted sentries so no hunters or foragers could spot them and report strange occurrences. They left nothing to chance.
+
+And if Viv thought the lack of cameras and overall low technological level would make her task easier, she was dead wrong. In the countryside, there was no such a thing as a stealthy escape. If she crossed a village, people would know and recognize a stranger in their midst. Foresters could find tracks. Locals knew all the hiding spots. There were always marauding bands of children to notice a campfire trail. No, every last aspect of the plan had to be carefully managed up to and including the escape vehicle (a horse-drawn carriage) and the hidey hole. At least Lim’s associates had skills to hide their tracks.
+
+Then there was Jin Skaima himself.
+
+Viv researched the man and she had to give it to Elunath, he might be an asshole but Skaima was much, much worse. It was nice for her to better the deal while ridding Helock of such a psycho. Jin Skaima used red and gray mana to form overheated blades of energy he used to slice at great speed.
+
+Viv had mostly seen red mana specialists create fire, but obviously red mana could be conjured as such, the same way she called for black mana. That’s what Jin Skaima liked to do. He also liked to make those blades explode no matter who was around. Each of his hits came with an increasing amount of civilian casualties. He had even slain a child, though since the victim was poor, no one had made a fuss yet. Truly, Jin was a piece of shit that she would have no regret sending to the gallows. If that was how executions worked here.
+
+Elunath had picked well.
+
+The last problem was Sonagi, Nagi to his ‘friends’. The man was halfway competent when he was just in the sweet spot between sober and buzzed. Sober wouldn’t do, and drunk was worse. The dodgy healer who had brought him into a semblance of functionality had warned that the disgraced mage needed to be dosed with booze on the regular. Going cold turkey might just kill him outright.
+
+It wasn’t that he was unwilling either. Viv could see traces of fear and hope in the scruffy, washed up mage. He had even bathed for the occasion. it was just that a week wasn’t enough to make up for months of self-abuse.
+
+“How do you know Elunath, anyway?” Viv asked one afternoon that they were resting from another exercise.
+
+“He didn’t tell you?” the man replied, guarded.
+
+Then a moment later, he sighed.
+
+“Not that it’s important, or that I’m important. Fuck, it doesn’t matter. You are looking at the winner of the Academy’s dueling club from 1306 to 1309, when I graduated. At your service.”
+
+Nagi gave a mocking bow, sickly limbs extended with shaking grace. He had used the Helockian way of measuring time, proving him to be a native. Every kingdom measured theirs according to their own significant events so that was a mess.
+
+Meanwhile, Viv was calculating. Most people stayed at the Academy for three years at most unless they intended to become researchers. Nagi didn’t strike her as a researcher. It meant that he had won every year he was there. Not just that, but he had gone toe to toe with third years as a freshman and Viv had seen third years top contenders during the demonstration matches. They were no pushovers. She had no reason to believe they’d been any worse during his time.
+
+“Were you a free candidate?”
+
+“Nope, I attended a prestigious school, sponsored by the Dorenean clan of practitioners. I was to join them as well.”
+
+That meant he was the normal age, sixteen or so. Not like Viv, who was on par with the oldest students and brought to her dueling class years of knowledge and experience in killing people.
+
+“Ok, I’ll bite. You were an extremely promising candidate. What happened?” she asked.
+
+“What else? I got cocky. Helock likes magical might but it lacks tradition even more. And I didn’t know that. My mother was a washerwoman. My dad… well she couldn’t tell me.”
+
+“Secret?”
+
+“No, by oath. He paid her for sex.”
+
+“Okay.”
+
+“But I’m fucking up again, ruining the story. I killed another kid. He was a monster and he had it coming but he was connected and I wasn’t. So the duel was deemed illegal and, well. Yeah. Elunath saved my life so I could take care of my mom.”
+
+“She’s still alive?”
+
+“Yeah, she’s still alive,” he replied, a bit shocked. “Oh yeah, stupid. I talked about her in the past. No, she’s kicking. She just retired from washing. It’s a young woman’s job here. If you know what I mean. We don’t meet much. One of the demands from the bereaved family was that I pay the weregild. So I do. Every time I win in the arena, they take everything I don’t immediately donate to mom or drink down at the arena bar. Can’t even afford a fucking shirt.”
+
+‘How much do you owe?”
+
+“With the interests, should be… two hundred and seventy gold talents right now?”
+
+Viv whistled.
+
+This wasn’t a personal debt. Hell, it wasn’t even corporate bonds. That kind of money was government budget. Nagi would never get out.
+
+At least not legally.
+
+“Have you ever considered —”
+
+“Doing illegal stuff? Hell yeah. Oh, maybe I didn’t mention it. They have my mother. She’s doing well for now, but they have an eye on her. If I escape or I stop paying or they find out I haven’t kept my nose clean…”
+
+He mimicked slicing a throat.
+
+“Course they’re giving me a break now since Elunath probably asked them nicely, but once we’re done here, maybe I’ll get a few nice meals and some new small clothes and it’s back to getting punched in the jaw by thugs for three silvers a pop.”
+
+“Wait,” Viv asked, “you’re not dueling mages?”
+
+“Course I am, but people pay more to see me get tossed around and I need to get my mom her third of the winnings”
+
+He shrugged.
+
+“It’s always the same. I beat mages, get beaten in matches where I can’t use my full power, then I drink. They like it. Like to see me win against cocky newcomers and then get beaten by an old, fat laborer here because he got caught sniffing his mistress’ dirty skirts.”
+
+“Well, thanks for telling me your life story, I guess. So Elunath is keeping you under his elbow for redemption.”
+
+“No, there will be no redemption. The enemy family is powerful. They do not forgive or forget.”
+
+He shook his head, grabbed for the flask by his side and took a gulp under Viv’s dubious eye.
+
+“Hey, it’s time. I needed a little pick me up.”
+
+Eye-watering liquorous emanations burnt Viv’s eyes. It was ‘a drink for men’ as they say.
+
+“Are you two done chatting? Time’s up,” Lim said.
+
+The two stood up for more practice, but Viv was considering her options. Maybe Nagi’s value wouldn’t be limited to the current operation, after all.
+
+***
+
+Viv found an afternoon to relax with the time-honored tradition of shopping. This time, she would get herself a new armored robe.
+
+With the loss of the skin suit and the robe Varska made, Viv was relying on hand-me-downs and borrowed gear. The following semester would require her to participate in field expeditions in the boonies, not to mention the raid in the deadlands. She needed an upgrade.
+
+Only two tailors in all of Helock could build her the battle robe she wanted. It took her two separate letters of recommendation to get in, one from the medical faculty and one from Sidjin. She provided the spider silk which was the main component and it still cost her upward sixty gold talents, helmet included. It was a fucking fortune. Worth it, though, she hoped. The measurements and instructions took most of an afternoon to go through, during which she worked with a prim old couple, one the tailor and the other the smith. They were polite and professional. It would take a moment to get finished, but that was fine.
+
+Finally, the time came to commit robbery, and she couldn’t wear her real gear.
+
+***
+
+Viv spent the night before at their hideout with Nagi, just to make sure he wouldn’t miss anything. It was clear the occasion was stressing him out and the rationed booze got drunk as soon as it was delivered. As for her, she dyed her hair and prepared a minor glamour she had enchanted herself on a piece of cloth, which would color her eyes dark. She would be using a small crossbow, a northerner cheap weapon. It was a piece of shit compared to the real Yries weapons of war, but it was perfect for unskilled people and lethal at close range. Lim checked and between this and some peasant clothes, she looked the part.
+
+The group departed on their escape cart near noon disguised as transient workers from the coast. They looked ratty enough from a distance not to arouse too much suspicion. After hiding the cart in a prepared recess in the forest, they moved up to wait by the main road. The small group made sure to stay hidden and at a distance.
+
+“Some guard paths have a way to tell an ambush is waiting,” one of Lim’s goons had explained. “We can’t get too close and you can’t look for too long or they might find us out. Then the crafty ones talk to the guards and they get a cut if we’re found and hanged.”
+
+Now the time had come to wait. And wait. For the action. It was amazing how much warfare had in common with banditry.
+
+The main thoroughfare followed the river Shal east towards Helock, and that was where they would be attacking. The bend they had selected was masked from the shore by a thick forest. There was quite a lot of traffic at that time, mostly distant villages sending in late harvests of fruits and tubers. Travelers came by as well, including a few apprentice mages with or without escorts. Nobles moved with a large entourage which forced the group to hide deeper. That was a point of failure of the plan. Viv had already decided that they would retreat if Jin Skaima’s carriage happened to travel near such a convoy. There was nothing they could safely or reasonably do.
+
+Fortunately, it didn’t happen.
+
+“Is that it?” Lim asked.
+
+Viv was looking at a lone carriage bearing the crest of the family carrying Skaima home, which happened to be a fish. A guard and driver sat at the top of the box-like vehicle. It was also decently decorated while a few crates were carefully attached to its roof.
+
+“That’s it,” Viv whispered.
+
+She signaled Nagi who started casting. The packed earth and stone road in front of the carriage turned to mud.
+
+The rest of the attack group was sprinting out of cover before the soil was done turning into sticky clay.
+
+“Hey, something’s wrong!” the driver said.
+
+The guard stood, grabbing a crossbow similar to what Viv was using, but he made the mistake of looking ahead while Viv and her companions were rushing from the side. The hardiest ruffians clocked the driver and swarmed the guard before he could even swing the weapon. Viv kicked it aside.
+
+Two of the men busied themselves binding the guard while Viv kept an eye on the driver. The other two strong lads plus Nim and Nagi dragged the Skaima out of their carriage with practiced violence. There was a terrified teenage girl and a young boy, Viv noted.
+
+The driver saw the girl cry and reached for his inner vest pocket, so Viv backhanded him using power to enhance her strength. He fell to the side with a split lip.
+
+“Don’t,” she barked in accented northerner.
+
+Even this had been practiced. Viv was starting to pick up the language, especially the street variety. She still couldn’t speak it though.
+
+“Right, you know what’s happening,” Lim said. “Hand over your valuables and we won’t hurt you. Hey, pretty boy! You listening?”
+
+The blackmailer snapped her fingers under the nose of a young man with sharp traits dressed in a rich doublet who fit the description of Jin Skaima. The children’s parents by his side were in control of their fears but Jin was positively fuming. Viv followed the exchange from the side while pointing her weapon at the now trussed helpers. It was impressive to see a master at work.
+
+“What, the pretty rich boy wants to say something? What do you want to say, pussy? Extend your hand.”
+
+He did not react, so she slapped him. Viv knew Lim must have already injected him with her poison to be so brazen.
+
+“I said, extend your hand. That’s right, you useless little dog. Well done. See, you can follow directions.”
+
+She grabbed a precious ring from his resisting finger and pulled quite painfully, then she looked him in the eye.
+
+“Nice one pussy. Now drop your pants, I wanna see those pockets.”
+
+Viv could hear him grit his teeth. One of the thugs slapped the back of his head while the other was very politely collecting the purse of the family but letting them keep their heirlooms.
+
+Another look down confirmed that the guard under Viv’s supervision wasn’t moving. So far so good.
+
+Then Viv looked up and saw a fisherman running from the opposite direction, back towards Helock, his discarded basket spilling his catch on the ground.
+
+They were on a clock.
+
+One of the thugs signaled Lim, who redoubled her effort. Viv felt the woman’s mana stir and so did Nagi, if his flinch was any indication. Lim was using a skill. Jin was the target. His entire face was now the color of a tulip while tears of rage welled in his eyes. He was almost ripe.
+
+“Damn, you’re broke, small guy. Why is it you useless wastes of skin always burn all your money.”
+
+Lim went farther, cupping Jin’s balls with her hands. That almost made Viv blush from the sheer audacity. That crazy psycho was molesting an assassin mage in broad daylight!
+
+It was also, apparently, too much for poor Jin. He screamed in rage.
+
+The thug behind him pushed him forward then ducked out to cover, and not a second too soon. A large blade of incandescent mane whistled through the air where he had been, leaving behind a trail of superheated air.
+
+“Shit, poison delay,” Lim said
+
+One of the stones embedded in Jin’s doublet shone brightly. Enchanted, no doubt. More blades emerged over the irate mage’s head.
+
+“I’m going to enjoy this,” he said, face twisted in a rictus of rage.
+
+And then, the most peculiar thing happened. One of his swords was undone, then another. Jin’s face fell.
+
+Everyone else started to run. The passengers picked up the kid and raced away, which was fine. The plan needed them to be alive so they could testify. Viv stayed long enough to free the guard and driver so they wouldn't be caught in the fight. It wouldn’t have felt right otherwise.
+
+The delay let her watch a true mage duel when it wasn’t fought across a plain from fortified positions. It was… different.
+
+Viv’s control over her mana didn’t stop at her skin. Rather, she could manipulate it with extreme precision to a length of about her wrists all around her. This helped stop magical attacks. By contrast, Elunath dominated the entire room he stood in. Jin and Nagi were close enough to each other that the spells barely had time to form before a counter came from the other side. It was much less flashy than the other battles she’d seen unless one had great mana perception. And Viv did.
+
+What she saw was two masters at work, striking and deflecting with blinding speed. Nagi used blue mana made slightly solid, somehow, to break the complex blade constructs while Jin kept attacking with increasingly violent flurries of shard, which bounced harmlessly on a sticky brown shield that seemed uniquely suited to stop that sort of impact. The pair was evenly matched, but only for a few seconds.
+
+Jin was a specialist, a one trick wonder who relied on surprise and blinding speed to achieve his results. Nagi, however, was a prodigy. He quickly picked up on Jin’s technique, then simply used increasingly efficient ways to disable his efforts.
+
+After ten seconds, Nagi was dissolving the blades before they could fully form. Jin’s face was a mask of despair. This lasted until his eyes rolled and he finally collapsed.
+
+“Looks like the poison finally got the job done,” Nagi observed.
+
+Viv didn’t say that Nagi could have just slammed him against the carriage and saved them a couple of seconds. The duel had been a masterful display of skill by the washed up alcoholic. Not just that, but he would need mana mastery at a high level to be that sensitive. Even Viv had failed to perceive many of the hints Nagi had seemingly picked on. And he had used concepts from two different colors. That was not just rare. It was extraordinary.
+
+The man had talent.
+
+“What are you fuckers waiting for!” Lim screamed from the underbrush.
+
+Viv realized she and Nagi were standing in the middle of the empty clearing, alone save for the prone assassin mage. In the distance, the rumble of horse hooves thundered.
+
+“Shit.”
+
+The pair took off as fast as they could. They were dead last and Viv heard the alarm horns of mounted guards far back. Ok so the law here didn’t fuck around when they cared. Good to know.
+
+“Quick, quick!” Lim urged them on.
+
+The two casters had relatively low finesse and that would slow them down. Sonagi also wasn’t at his best. Still, the cart wasn’t far, and they were rolling away before long.
+
+“Should we toss the coin?” Viv asked, wondering if they should remove evidence.
+
+“Don’t give them more tracks to follow,” Nim replied venomously. “And if we’re caught, that won’t make any difference, I assure you.”
+
+True, Paramese law enforcement didn’t need evidence admissible in courts of law.
+
+The cart wheeled away, sticking to small roads and sometimes even beast trails for a while. There were no immediate sounds of pursuit so they took their time and had one of the ruffians scout ahead.
+
+“Two mounted guards, keeping an eye on the crossroad,” he reported towards the end of the afternoon.
+
+“Think they’re here for us?” Lim asked.
+
+“In full armor? They are.”
+
+“You, the witch. Come with me,” Lim told Viv in Enorian.
+
+Shortly after, the two walked out on the street with shitty baskets and their faces covered with scarves. Two mounted guards soon popped out from behind a tall trunk. They wore chest plates, arm guards that went up to their shoulders while composite short bows rested in sheathes on their saddles. Small bucklers held loosely protected their flanks. They didn’t look like they were joking. Both of them were northerners.
+
+“What are you two girls doing out here all alone?” one of them asked. “You’re from around?”
+
+“From Drosek,” Lim said without stopping.
+
+“Didn’t know anyone from Drosek housed a pale girl. Shouldn’t she be in Helock?”
+
+“She’s my sister in law,” Lim said with a ghastly smile.
+
+Viv and her kept walking. One of the guards spat to the side.
+
+“Freaks.”
+
+Seeing that the two women would not stop, the guards rode forward to block their ways with their mounts. That placed them in optimal range, so Viv didn’t hesitate. Without a word, she used a kinetic spell to pull both shields forward and down, destabilizing the riders. Despite the enormous strength, the two men still managed to grab their saddles and stay upright with superhuman speed.
+
+“Hey, what the —”
+
+Both needles sent by Lim collided with their upper lips. The poison traveled to their brains in a second, then they were both out. Incredibly, they didn’t fall from their horses.
+
+“Good. You pull that one,” Lim ordered Viv in Enorian.
+
+“Hope you didn’t kill them,” Viv replied.
+
+“No. You steal, they let go. Sometimes. You kill, they hunt. You kill one of them? They burn your village down.”
+
+“Oh same as back home then. Kind of.”
+
+The highwaymen left the horses grazing on a small clearing with their riders still on their backs. Viv wondered if they would report the incident at all. If she were them, she wouldn’t. They reached the hideout without further issue.
+
+Viv allowed the distribution of the stolen gold to everyone but herself, which made her somewhat popular. Not that the criminals under Solfis’ control would hesitate a second to shiv her if they thought they could gain something from it and survive the consequences. Still, they partied in secret until early dawn then made their way back to the city in small clumps. The walk back was conveniently boring, and she parted ways with Nagi near the entrance to the middle city.
+
+“So it’s goodbye then. Err, glad it went well. Give Elunath a few good words about me, won’t you?” the man said. He had drunk his share throughout the night and Viv got the feeling he would keep going soon. It was, well, it was a terrible waste.
+
+“Look, I have a question. You said you’re paid in silver at the arena?”
+
+“Yeah. Fights with me are boring. Everyone knows what I’m capable of.”
+
+“I would pay good silver for you to teach me and a friend of mine the fine arts of the duel.”
+
+Nagi winced.
+
+“Not sure it’s a good idea. I’m a pariah, yes? If you associate with me. You’ll make an enemy out of my enemies.”
+
+“I think it’s safe to say I don’t have a future in Helockian high society so we’ll be fine. More importantly, I can feel your distribution. It’s pretty equal across red, blue, gray, and brown. And you have at least two concepts in different colors.”
+
+“Hsssh!” Nagi urged, suddenly serious.
+
+It only lasted for a moment.
+
+“Ah, whatever. Not like people can’t guess. Yeah, so what?”
+
+“I have a very talented friend with a similar profile, and we’re both looking to improve our dueling skills. Your help would be invaluable. As I say, I can pay you well and you wouldn’t need to be punched in the dick.”
+
+“Any contract I take must be shared with my ‘benefactors’.”
+
+“That’s no problem. They can send a goon to pick the coin out of your sad hands after we’re done.”
+
+That got her a chuckle.
+
+“Yeah, you know what? Why not? Let’s give it a try. Can’t be worse than getting pummeled by an indebted baker.”
+
+Now Viv was curious. She’d have to visit the arena at some point.
+
+And now they had a trainer. She wondered if it was Elunath’s plan? Maybe he was grooming young prospects to reach greater heights. Who knew with this man? In any case, that was good news.
+
+***
+
+Viv followed the fall of house Skaima from afar, mostly through hearsay and her roommate Ereska’s teaside gossip. The town was positively aflutter with the scandalousness of it all.
+
+“We have no doubt the ‘bandits’ were highly trained operatives from one faction or the other. It was all well done. No casualties, which made Skaima’s excesses even more damning!”
+
+If only she knew.
+
+Well, to be fair, Lim was a highly trained operative.
+
+“It’s the brand for the ruling couple. And they will get off lightly. But I digress. To be found using a hidden branch, why, it hasn’t happened since the Thernsent seventeen years ago! Hmmm. And it really shows how stupid that practice is. Who can hide a mage for two decades? Or for that matter, what sort of mage can maintain a cover for that long all while seeing what they’re forfeiting? You’d need to raise one with the perfect personality. Foolishness. No one can truly predict how a child will turn out.”
+
+“That’s not what one of my teachers used to say.”
+
+“Then she spent her career in ignorance,” Ereska sniffed. “And never followed up on her charges. Shameful. In any case, the Skaima are done for. Their rights as patricians have been rescinded by the council. The family will be split into categories for punishment and even their faraway cousins will spend the next fifteen years paying fines.”
+
+“Even the unconnected ones?”
+
+“There is no such a thing as an unconnected one. If you carry a noble name, merchants will look upon you favorably and your opinion will carry more weight, even if you never attend any family gathering. Helock will revert all of this. Such is our way.”
+
+“Fair enough.”
+
+“What do you think, as an outlander? Do you find our laws too harsh?”
+
+Viv shrugged. She’d never really consider Paramese society as fair or unfair because she didn’t see any earth society as fair by nature. To be perfectly honest, she’d care much more if she were submitted to them a little more.
+
+“Several civilizations of earth carried out nine familial exterminations. That means all your relatives going up and down, your cousins, your uncles and aunts, their spouses, your spouse, and your spouse’s parents.”
+
+Ereska gawped, her tea cup frozen midair.
+
+“Ah… Ah. And I thought our ways were merciless.”
+
+“Humans are human everywhere.”
+
+“So it would seem.”
+
+This turned into a discussion into other outlanders who had visited, like the mysterious arcane biologists who had created the Hadals or the adventurer who had explored the Deadlands before her. The next day, classes resumed after a brief speech from the dean. Viv noted that the teachings would focus on warfare and self-defense, which coincided with a general mobilization of all kingdoms to face a renewed threat from the savage lands of Halluria. Apparently, Param was going to war, and the Academy would prepare its students for the inevitable showdown.
+
+During the first magical class, General Jaratalassi informed her she’d be directly involved.

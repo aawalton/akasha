@@ -1,0 +1,263 @@
+---
+id: 8a640c43-deeb-518e-acac-6a8c9b26b7ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4"
+slug: 0004-chapter-4
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 4
+ownLength: 1818
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2525521/chapter-4"
+royalRoadId: "2525521"
+---
+
+Miliander smiled happily at the notifications in front of him.
+
+You have been selected to sponsor a tutorial of the 201st era.
+
+Please accumulate the required number of monsters: 100,000 Non-Ranked Monsters, 20,000 F-Ranked Monsters, 1 E-Ranked Monster.
+
+Please be prepared to fulfill your duty as a sponsor by designating appropriate rewards to participants.
+
+Please design the tutorial type you wish to sponsor.
+
+Please designate proper tutorial administrators.
+
+Do you wish to allow co-sponsorship?
+
+Please designate cooperatives for the tutorial.
+
+Confirmed.
+
+Tutorial will be made as: King of the Hill.
+
+Tutorial will go through a seasoning period of two weeks.
+
+Tutorial will last 90 days while integrated planets are mana-formed.
+
+The system would like to thank you for your participation and cooperation.
+
+He confirmed his selection of both the associated sponsors for this tutorial he would allow, namely just one person. The strongest in the 193rd era.
+
+Ariel Shayell, Queen of the Ocean Deep.
+
+Miliander wondered what twists she would add to the tutorial and was precisely the reason he wanted her to participate. The better the outcome, the better the reward for them as the sponsors.
+
+New bright stars that will bring new life to the multiverse and of course pure the unadulterated boredom most Gods face at some point or another.
+
+He was excited to see what would come of this iteration as he swiped his hand, pulling monsters from random planets under his jurisdiction, placing the appropriate rewards for low F-Ranks. Of course sprinkling in a few E-Grade pieces and items for those that could become forerunners and make it to that point.
+
+Another smile crept across his lips as he sat back in his chair, excitedly anticipating for the entertainment to come.
+
+Tachyon startled awake, huffing out a breath of air as she righted herself.
+
+The sound of chirping birds and fresh air was a new and strange experience. She looked around at the unfamiliar surroundings, feeling the grass under her hooves.
+
+“Where the fuck am I?” she said, then her eyes went wide.
+
+“Did I just speak?”
+
+Tachyon couldn’t believe what she was hearing, a feminine voice escaped her muzzle as she spoke to herself in confusion.
+
+But soon she noticed she wasn’t alone. She couldn’t tell where the hell she was but it seemed to be a common thought as she looked around at the confused-looking monsters.
+
+Surrounding her were near countless monsters of difference races and sizes. There were goblins, monkeys, deer, horses, tigers, and even bipedal fish that she had never seen before.
+
+Tachyon had seen quite a diverse amount of monsters in the years she spent captive in the arena, but even here there were some she couldn’t even describe due to having nothing to compare them to.
+
+Many of them woke up and made for the hills. A few others looked around curiously and confused, much like she had.
+
+She had a passing thought.
+
+Are they intelligent monsters too?
+
+Once again she didn’t have time to dwell on her wandering mind as fights began breaking out left and right.
+
+They were of course monsters. And many of them were territorial beasts before the systems. Not only that but many were natural predators and prey of one another.
+
+Tachyon could feel her hair stand on end as she felt numerous eyes on her.
+
+She needed to get somewhere else, somewhere she could take a breather and think.
+
+Without delay she activated every skill she could, including the ones she hadn’t before like her Light Magic.
+
+The magic activated but without any practice with the skill or concentration small lights winked in and out of existence without being of much use except for slightly blinding the surrounding monsters temporarily. That and bringing even more attention to herself.
+
+However her other skills activated as well allowing her to plow through the monsters and escape without much difficulty. There didn’t seem to be many strong ones in the immediate area.
+
+Tachyon just did her best to escape, not bothering to trample on any of the monsters if she could help it in fear of being slowed down and piled on.
+
+With all manner of monster there, she had no idea what skills would be used on her if she stayed.
+
+Bursting out of the pack she began taking stock as she distanced herself.
+
+Looking around she saw tall structures of brown with green feather-like things on them, small birds perched on the miniature brown sticks.
+
+In the distance she saw a massive pile of dirt, the top of it flattened seemingly and mysteriously calling out to her.
+
+She shook the feeling off as she began to slow down, coming to a small pool of water in the middle of the grass and large brown sticks.
+
+Dipping her head she took in several long gulps to quench her thirst, shaking her head and feeling refreshed.
+
+Looking around there were no monsters to speak of yet.
+
+Now where am I? This isn’t earth. And I am nowhere near the arena…
+
+She took in a snort of air as her nose raised to the sky.
+
+I can’t smell any humans either. I don’t even know how I got here…
+
+Tachyon was stuck in a conundrum of thoughts without answers and no idea where to start to find them.
+
+For a few minutes she bedded down next to the pool of water, listening peacefully to the sound of birds in the area as she continued to question things.
+
+She noticed brief times of rustling sounds slightly out of view but it seemed no other monsters approached her just yet. That and she did not feel any sort of malicious intent on her.
+
+Tachyon decided to go through her stats and skill while she relaxed for a bit more, hoping it would help her figure out what to do next.
+
+Tachyon
+
+Race: Lightfoot Mare
+
+Rank: F-Rank
+
+Level: 11
+
+VIT - 14
+
+STR - 16
+
+AGI - 57
+
+MAG - 14
+
+STAM - 23
+
+RES - 15
+
+Free Point - 0
+
+Titles
+
+Sapient Monster, Survivor, Captive, Defiant, Sturdy, Slayer of the Strong, Improbability, Manslaughter.
+
+Skills
+
+Light Charge - Uncommon, Blood Doping - Uncommon, Light Magic - Uncommon, Leg Strength - Common, After Image - Common
+
+There were quite a few new titles on top of her previous ones along with the new skills that she had gotten when evolving. Not to mention her entirely new race.
+
+She began going through them one by one.
+
+Lightfoot Mare
+
+A variant of horse monsters found in the deep north where the mountains are closest to the sun. They are a rare subspecies suspected of being the initial stages of Pegasi. Usually solitary creatures, only found in pairs raising their young.
+
++4 to AGI, +2 to STAM, and +3 Free Points per level.
+
+F-Rank
+
+Current classification of monster strength. F-Rank monsters are found a plenty throughout the multiverse and depict a monster that is still in the early stages of their evolutions.
+
+Sapient Monster
+
+A monster that has a soul and formal consciousness. Able to reason while fueled by personal ambition.
+
++2 Free Points per level.
+
+Survivor
+
+Be brought down below 10% health and survive.
+
++2 to VIT and STAM
+
+Captive
+
+Be held against your will for over three years.
+
++1 to RES
+
+Defiant
+
+Remain steadfast in your captivity.
+
++1 to RES
+
+Sturdy
+
+Be held against your will for over five years and still resist.
+
++2 to RES
+
+Slayer of the Strong
+
+Kill a monster above your level.
+
++1 to all Stats
+
+Improbability
+
+Kill a monster above you in grade.
+
++10 to all Stats
+
+Manslaughter
+
+Kill a sapient humanoid.
+
++1% damage to humans.
+
+She then went over her skills, checking the changes to her old ones as well as the descriptions of her newly acquired ones she hadn’t yet.
+
+Light Charge - Uncommon
+
+This skill increases your speed in your facing direction for a brief period of time, endowing your charge in light affinity.
+
+Costs a small amount of mana and stamina.
+
+Cooldown: 10 Seconds.
+
+Speed increase scales off Agility. Damage increases scales off MAG.
+
+Light Magic - Uncommon
+
+This skill gives access to Mana, Mana Manipulation, and allows the innate ability to cast and manipulate Light Magic. This skill also allows one to sense mana.
+
+Spells produced through this skill will cost and scale off mana used.
+
+Tachyon had never sat down and inspected her skills or status menu since she had first been captured. There had been no point.
+
+While at the arena she couldn’t learn new skills due to not having the ability to freely progress. She was told how to fight and when to fight.
+
+Tachyon wasn’t the most versed in how the system worked, but innately as a monster, and a intelligent monster at that she was made aware of how a lot of the base things within them worked.
+
+She knew that she gained a skill from a selection every 5 levels. She knew that she could gain skills and titles through special means or great feats. She also knew that she would increase in strength with every evolution, which was one reason she had endured the arena for so long.
+
+Each monster evolution was like breaking through a barrier that was holding you back. It opened up new possibilities in both physical feats but supernatural ones as well. Just like how she was able to speak or now use magic.
+
+Tachyon didn’t have a goal outside of getting out of that hellish place. And now that she did, she wasn’t sure where to go. She supposed it would be nice to be strong enough to never have to fear going back again. So there was that.
+
+But every monster craved strength instinctually.
+
+She wanted something else. Something, for her and her alone.
+
+Tachyon remembered back to the feelings she had during the last match in the arena. She wanted to be free, unrestricted, and most importantly, she wanted to be able to run as much as she could unhindered.
+
+Living in the cells of the arena for years, chained and shackled to the cage that refused her the basic instinct to run wherever her heart desired had left a massive gaping hole in her.
+
+That’s what she wanted the most at this moment. To run.
+
+And to let nothing stand in her way ever again.
+
+She looked down at the ground. What was she doing? She couldn’t wait around here. There were places to run to! Explore! Frolic and let loose!
+
+But then a voice spoke in her head, the same voice she heard whenever she would level up. It sounded just as cold but this time around, Tachyon felt, excited.
+
+Tutorial of the 201st era has begun.
+
+Seasoning period of two weeks has now begun.
+
+All monsters are to find their appropriate designated areas to protect their Controlling Stone for the remainder of the tutorial.
+
+Monsters that survive will be released upon tutorial completion.

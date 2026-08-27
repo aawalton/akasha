@@ -1,0 +1,265 @@
+---
+id: 39cced83-3287-5ce9-9ff9-8ccebda48034
+page-type-slug: story-chapter-royal-road
+title: "19 - Blackmail"
+slug: 0019-19-blackmail
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 19
+ownLength: 2242
+unit: words
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2694462/19-blackmail"
+royalRoadId: "2694462"
+---
+
+After Stella failed to receive a new skill due to her low intellect, she sulked a bit.
+
+Name: Stella Algos
+
+Stage: Queen Dragon Fledging (30% to next evolution)
+
+Class: None
+
+Renown: 1
+
+Wealth: Peasant (+1 to all stats)
+
+(C: 100 S: 4 0 G: 0)
+
+Stats: (0 points available)
+
+Power: 28 (27)
+
+Vigor: 24 (23)
+
+Grace: 21 (20)
+
+Intellect: 10 (10)
+
+Skills:
+
+Wrath Of The Ravenous (Grade SS) - Level 2
+
+Elemental Breath (Grade S) - Level 15
+
+Silver Tongue (Grade B) - Level 6
+
+Strength In Numbers (Passive)
+
+It can't be that low… What's the average anyway?
+
+[Answer: 15.]
+
+That's not such a difference.
+
+[Intelligence is usually the highest natural stat of each individual, given that it's usually static. While observational techniques can be increased, natural ability cannot.]
+
+Stella nodded, though she still couldn't believe this world had rated her intellectual ability so low. But there were more important matters before her. The missing people were bothering her and she suspected they were being caused by ‘The Summoner', an individual who she'd never met but who seemed to have it out for her. Why? She had no idea.
+
+So, Stella had enacted a stake-out. She sat faithfully in a watch tower, a place where she very, definitely shouldn't've been. But from the watch tower she could see movement below, even in the darkness thanks to some dim blue lanterns that hung over some flower pots.
+
+The watch tower was old and obviously unused, but Stella kept her head down, using her hearing instead of her eyes to ensure there was no sleep walker escaping their home. If she was caught in a place like this, it was likely she'd be the one suspected of causing disappearances.
+
+She yawned. Leaning her back against the rough wood box that was the watchtower's peak. As she sat, bored and tired, she experienced a feeling of ‘phantom tail’. Often when she was bored but in her natural form, she would wiggle her tail this way and that way, kind of like her own personal fidget toy.
+
+If there were any random perks she could think of in relation to being a dragon girl, a wiggly tail was one of them.
+
+Midway through her tenth yawn, she heard footsteps slap against the cobbles below. Slowly, she looked over the walls of the watchtower. Walking carefully, someone in dark robes and a cloak was passing the bottom of the tower.
+
+Hm, what are they doing out in the middle of the night?
+
+[What are you doing out in the middle of the night? Creep.]
+
+Have you gained more sentience just to bully me?!
+
+[Maybe.]
+
+Stella shoved the system's stupid voice out of her mind and refocused. The person was getting farther away. They didn't appear to be in any kind of trace, they were moving swiftly, with purpose. Stella knew she needed to investigate and descended the watchtower hastily.
+
+After climbing down the latter and wandering through the many connecting alleys, she caught up with the scent and sound of the traveler. She didn't need to get close, she could hear them just as easily a few blocks away.
+
+She moved around corners, watching them and then following when the coast was clear. Eventually, the person arrived at a person's window. Stella was skeptical but then was outraged when they began to try to open the window.
+
+What are they doing?!
+
+Before Stella could call out, the window shot open all on its own. Under the moonlight, she could see the face of the person inside and they looked highly familiar.
+
+The Merchant Guild Leader?!
+
+The second they kissed the person in the cloak, she lost interest. Something was going on, but she didn't want any part in it.
+
+She moved on, deciding to abandon her stake-out. It has been hours anyway, soon the sun would rise.
+
+***
+
+The next day Stella was eating some food with Michael outside. It was a nice warm day and both of them didn't really have much to do. But today, Michael seemed a little down.
+
+“What’s up with you? You barely touched your pea soup.”
+
+“Well, to be honest, I'm low on money. I might have to… Nevermind. You shouldn't concern yourself with my worries.”
+
+Stella suddenly felt bad for letting him pay for the meal.
+
+“Here, have some of mine.”
+
+Michael was resistant, but eventually took 100 copper as payment. Stella was certain she could make it back with monster parts. She would just sell the red gill item she kept getting from the vampire fish.
+
+“This is too much, but since you insisted, I'll use it wisely. I'll pull my business back together, I'm sure of it. I'm just not great at reselling. I was tempted to try some other potions, but I have a suspicion that if I did the guild wouldn't approve of that either.”
+
+After eating, Stella decided to take matters into her own hands. Michael was struggling and that was something she couldn't ignore. So, she went to the merchants guild. After some looking, she entered its doors, prepared for just about anything.
+
+But within, it looked nothing like the Adventure’s Guild, which in contrast, was barren and dark. Instead, many merchants were inside and amongst them was the leader, Octavius Shamun.
+
+When he spotted her approach, he smiled.
+
+“Well, young Stella, what brings you here?”
+
+She crossed her arms when she arrived near his table.
+
+“I'm here to tell you the guild meeting needs to be moved up. My friend is struggling all because you want to impose some weird rule on our product, even though it's already been certified by a royal healer.”
+
+Octavius exchanged looks with his nearby buddies. Some had gold or silver teeth, others were simply well-dressed. It was clear they were growing fat on something and Stella had already scented the stench of foul-play.
+
+“Well, I'm afraid I can't do that. We have to follow the rules, wouldn't you agree? I'm sure he can find something reputable to start selling.”
+
+“And then what? You'll say he hasn't gotten certified to sell it once he's starting to make money?”
+
+The whole table chuckled.
+
+“Get out of here, you're just some teenage girl, you can't understand how merchants function,” yapped a side-character.
+
+“Actually, I can understand you're all bullies who profit off of others by being bullies. That's all I need to understand to know any actions I take against you, are just.”
+
+“Calm down. How about I charge a fee for moving up the meeting? And extra for certifying the item? Would that be reasonable?”
+
+They laughed. They actually laughed.
+
+Stella knew now that they were truly just here to waste people's time and get full coin purses. She smirked whilst glaring at Octavius Shamun, something clicking into place within her mind.
+
+“I saw something last night that might earn me a discount…”
+
+He looked at her in confusion but the more she glared, the more uncertain he became. Sweat beaded his forehead a little before he hastily wiped it off.
+
+“Perhaps I can move the meeting to tomorrow… If that's all you needed, I suggest you be on your way.”
+
+The others at the table stared at him like he'd just spoken gibberish.
+
+“B-But boss—” he silenced them with a look.
+
+“That's fair, what time?”
+
+“When the sun reaches its apex in the sky.”
+
+Good, that will give me time for another stakeout and then to sleep it off in the morning, Stella thought.
+
+“Deal. Cya then, Shamun.”
+
+She left and bought some sweets on her way home, something she hadn't done in awhile. It cost her only a few copper as food in this world was rather cheap.
+
+***
+
+Her stake-out was a bust. When the sun reached its apex in the sky, Michael, Stella, and Timmy arrived at the Merchant Guild with their big jar of potent medicine.
+
+It was packed, full of merchants with Shamun in the center of it all, looking like he was planning something.
+
+“Finally, I was worrying you'd be late,” Shamun said calmly.
+
+He's up to something, why does he seem so confident?
+
+“Thanks for waiting,” she replied warily.
+
+Timmy took a seat as the guild doors slammed shut, commencing the meeting. Octavius took to the center of the room, dressed in purples and golds. Other merchants of various standings sat around murmuring and exchanging looks.
+
+“We are here today to address a healing product. It needs to be certified by the guild and then taxed accordingly. If you wish to sell in this town, you must contribute to its safety via your earnings and following due process.”
+
+“I agree to those terms,” Michael replied.
+
+Stella felt like biting the guy.
+
+“Now, let's all take a vote, who wants to agree to test out this product to ensure its safety?”
+
+What? A vote? Why wouldn't they just use the royal healer’s document as evidence?!
+
+“But, we have a document to prove its safety,” Michael stammered, mirroring her thoughts.
+
+“We don't acknowledge that as no one here witnessed it, did they? We need to all trust that our community is safe. So, once again, who will step up?”
+
+After a long silence, no one raised a hand.
+
+“I will,” Stella said, stepping forward.
+
+It was the easiest way to settle things.
+
+“But, you are a biased party. How do we know you won't lie or play some trick?”
+
+Stella was seething, staring at Shamun with a red glint in her eyes.
+
+“I think you might change your mind if I—”
+
+“If what? What is it? Because, we all know your motives and so anything you say might be a lie to sell your product. Since no one is willing to try your product, we will not allow you to sell it. Meeting—”
+
+“Is there any other way to settle this?” Stella interrupted.
+
+It was clear he wasn't going to fold to blackmail, not when he had realized he could simply title her a liar and a cheat, further ruining Michael's reputation. Now that Michael was at her side, it actually weakened her position.
+
+“Well… There is an old way. But it's ridiculous, best forget it.”
+
+“What is it?” She insisted.
+
+Octavius smirked.
+
+“A duel.”
+
+Silence lapsed and Stella took in his meaning. A fight. That was how these people sometimes settled things? It was barbaric. Even unfair.
+
+I can't reveal what I am, but maybe I can still win the duel and play it off somehow. For all they know, my blue hair symbolizes that I'm a different race. What if that just so happens to raise my strength? Would they buy that?
+
+Her mind didn't work over that line of thinking for long. It was all too much for her brain. Regardless of the consequences, she needed to protect her friend. Beyond that, she had her own motivation for challenging Shamun.
+
+My blackmail didn't work as well as I'd anticipated. So much for attempting to be calculating. But… What if this duel is another opportunity?
+
+“Are you sure you want to fight me? In my country, duels are common, so don't expect me to hold back,” Stella warned.
+
+Many in the guild laughed, some looked bewildered. But Octavius was smirking, like the scumbag he was. He didn't care how weak she appeared, he wanted her to give up, to relent and let him tax her friend's business to the ground.
+
+“Are you sure you want to fight me? I am the leader of the guild, I get bonuses for being a leader and I have years of experience. What could a little girl ever hope to accomplish?”
+
+Stella glanced over at Michael who was silently trying to wave her off and signal an end to the whole thing. Timmy was snoring, fast asleep.
+
+I have a feeling that even if Timmy speaks up about his experience, these people would believe him. They claim they need to confirm it even after it was certified by a royal healer. All that can solve this in my mind, is to beat this guy!
+
+“I'm certain.”
+
+Octavius looked surprised but quickly composed himself.
+
+“But, I want you to agree to a few things first.
+
+He smiled, gesturing to a door on the left.
+
+“Sure, let's discuss them in my offi—”
+
+“No, right here, right now. We will make sure everyone hears our agreement.”
+
+She had him in a corner. If he backed down, he would look shady. And if he insisted despite protest, he would look even worse.
+
+“Sure, Wh-What are they?”
+
+Stella cleared her throat loudly and then animatedly held up a finger.
+
+“First, I want you to agree to certifying our medicine and not taxing Michael's business or sales. Second, I want you to give me information and help me when I call upon you. Third, any evidence of foul play will immediately nullify the duel.”
+
+Many people burst into laughter. Octavius rubbed tears from the corners of his eyes, collecting himself after a few seconds.
+
+“I will never agree to certify his item and never tax him, that's something all merchants under the guild must do.”
+
+“What? Afraid you'll lose?” Stella challenged.
+
+Octavius crackled his knuckles, looking like she'd struck a nerve.
+
+“Fine, I agree to your terms. Our duel will be held tonight, away from town so as to not disturb any townsfolk.”
+
+“Can I bring a witness?”
+
+“Fine. We both will,” he spat.
+
+“See you when the sun sets, Shamun.”

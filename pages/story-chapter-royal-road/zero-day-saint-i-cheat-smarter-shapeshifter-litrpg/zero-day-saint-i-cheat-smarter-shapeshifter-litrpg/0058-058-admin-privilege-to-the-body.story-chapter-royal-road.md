@@ -1,0 +1,137 @@
+---
+id: f80514f9-2944-5139-a9ae-3935712f4709
+page-type-slug: story-chapter-royal-road
+title: "058 - Admin Privilege to the Body"
+slug: 0058-058-admin-privilege-to-the-body
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 58
+ownLength: 1519
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3687615/058-admin-privilege-to-the-body"
+royalRoadId: "3687615"
+---
+
+I looked over to where the others were splitting up right now. Most of Anthony's party were walking back to the club, while it looked like Jamie was briefing the others.
+
+Realizing that I had forgotten to secure that buff this morning, I ran a hand through my hair and turned back to Helene. "Any idea if Stephen brought any breakfast along? If we are doing this now, I should probably bring my best-buffed self."
+
+Helene manifested a sandwich into her hand. It was wrapped in thin paper, and the bacon smelled like it was fresh out of the pan. "Like this?"
+
+"Fuck yeah." I gratefully took the sandwich from her and began devouring it. The morning's stress had kept me distracted, but by now I was properly starving.
+
+"If you were to bring your best-buffed self, as you said, wouldn't we be doing this with Jamie?"
+
+Her voice was casual, but those eyes were paying close attention.
+
+"It's complicated. Yes and no. We are a good team, and with each other, we are pretty unstoppable. But quantity of foes is an issue. The larger the party, the more Created we have to defeat to get you to level 20. And I'm not entirely sure there are enough available as is."
+
+"But the stronger our composition, the harder foes we can tackle."
+
+"Are there any notably powerful foes around?"
+
+"More of those dungeon-like places have been spotted since you defeated Mammon. Some have even arisen where they hadn't been before."
+
+"Right, yeah. I missed a bunch. But no. When the two of us are done, those should be the perfect places to take the rest of the party."
+
+That woman had an unnerving tendency to hold eye contact. I wondered if it was a dog training thing.
+
+"And that is the entire reasoning?"
+
+"No," I admitted. "Something inside is also screaming at me to get away from him. Without him, I'd probably be dead by now, collapsed in those tunnels or finally slain by a demon. Only hours after I woke up, he saved me again. And ten minutes ago, he stopped me from going down a stupid path."
+
+I sighed and looked over at the others. "He's great, but I need to know that I don't need him. I don't want the Blessing to typecast me as some hypercompetent damsel in constant distress."
+
+Helene tilted her head and considered my answer for a moment. I got the feeling even the dogs were waiting for something.
+
+"Do you often trust your instincts like that, Eve?"
+
+"I—what kind of question is that?"
+
+"You had an instinct that drove you to this, and you found plenty of reasons to justify this, our team-up, in this way, but you never fully examined what drove you until I asked you. So my question is: is that unusual or something you often do?"
+
+I turned away and paced some steps. That still wasn't a question to ask someone you just met. I turned back.
+
+"Yes, I do. I'm a pretty good problem-solver, both when I'm actively tackling a problem and when I'm not even aware there is one. Yeah, I think I can often trust my instincts. Which got complicated when I stopped existing in a single body. Other bodies have their own instincts, and those cannot always be trusted."
+
+"Okay." Helene nodded. "That's good to know."
+
+"Are you always this intense on first dates—encounters? I meant encounters. Team-ups. Those firsts?" I facepalmed. Those higher levels of Agility definitely came with unmatched opportunities to put my foot in my mouth.
+
+She entirely ignored my flustered mumbling.
+
+"If we intend to fight in life or death situations? It felt appropriate. When you make a call, I now know that I can't ask you why without possibly distracting you. You might not know yourself."
+
+"Damn. Did you learn that level of analysis from biochemistry or from dog training?"
+
+Helene smiled. "Neither."
+
+"Okay. Just one thing regarding all that. I'm not a fighter, you know? My instincts were honed on computers. And I think I have a decent tactical intuition, but it hasn't gone through a ton of trial and error yet. And if I can't run and use my mobility, I get nervous."
+
+"That makes two of us. Though I lack the ability to bounce back from near-death in an instant, so I'd say I'd prefer staying out of the fray even more. If I can't run and they get up close, it's a bigger problem for me than for you."
+
+I nodded. "Yeah. You'll have four bodyguards. We'll keep you in the clear. Also… just how much do you know about me?"
+
+Helene chuckled. "More than you expect and less than you fear. I've had some time to talk to the others, and moments have come up. I know why you have that eye, I know about the golem, I heard about a unicorn, though nothing specific there. I've been told about that moment when zombie after zombie dropped from their minimaps only for a completely blood-soaked Golden Retriever to burst into the room and to start growling."
+
+"Ah, yeah, I…did those things. I have a million questions to ask you myself, but two things first."
+
+"Yes?"
+
+"Can your boys run for a while? And do you mind accompanying me on a side trip? Hopefully no murder, but things might get dicey."
+
+"Yes, one of the traits I was granted gave them highly enhanced endurance and less need for sustenance. And, of course, I'd be truly interested to start this on something that isn't bloodshed. May I ask why?"
+
+"No, you may not. And if you joke about this, our partnership might be a short one. To say that I was self-conscious would be an understatement."
+
+When she tilted her head, I shifted to the horse shape and activated Spectral Tackle.
+
+["No jokes!"]
+
+"No jokes. Did I mention I was an equestrian?"
+
+I didn't know whether that made it better or worse. I certainly didn't know anything about how horses were meant to behave. I nervously pawed at the ground before I lowered myself to allow her to get up, but she didn't even need the help. One smooth motion and she was on my back.
+
+"This may be a weird question," Helene began, "but is this a specific horse?"
+
+That fucking Blessing. The horse was in my fucking-with-Eve slot, but there had never been a significant horse in my life!
+
+["Yes, but I don't know who it is. Do you recognize it?"]
+
+"It reminds me of the one in The Neverending Story. The memory of it sinking in those swamps stuck."
+
+Okay. There was one significant horse. I had bawled at that scene. I had bawled again when I rewatched it a couple of years ago. Just how deep did the Blessing dig for those shapes?
+
+["That'll be the one. Some of my shapes come from my memory."]
+
+She whistled a signal, and her dogs fell into position behind and around me. Not without a curious sniff here or there.
+
+"One last thing before we head out. I think you should know this."
+
+Sitting on my back was slightly late for one more-things.
+
+["Yes?"]
+
+"Before I joined your crew, I was mostly on my own. But Claire found me. And while I already didn't like her back then, I obviously helped her out with knowledge. From one Blessed to another."
+
+I had an idea what that meant. But I had to hear it.
+
+["Yes?"]
+
+"I taught her how to make explosives."
+
+What a wonderful start to our beautiful and promising partnership.
+
+I didn't blame her. None of us had anticipated that she'd start going after people. I had helped her, too. And so did Ash.
+
+Instead, I used the travel time to learn more about her class and particularly that serum she used on her dogs. It was fascinating. She didn't actually know what it did within the Blessing's system. It made them stronger, faster, and healed them. Also left them weakened afterward. But once applied, she couldn't inspect the buff or the follow-up debuff directly.
+
+Alchemy and, particularly, her 'Mad' flavor didn't give her concoctions a tooltip. It gave her a large list of alchemical properties, and she had to deduce effects. Another class with immense potential, but one that also required a lot of finesse to unleash that potential. Not to mention that the knowledge from her old life only marginally helped. Alchemy was as close to chemistry as astrology was to astronomy.
+
+And the important part about the serum: the current iteration only worked on dogs. Not mammals, not canines, not Australian Shepherds. Dogs.
+
+Not convenient, not ideal, but interesting. Because of the debuff, we decided to keep the option of using the serum on me, in Angel's shape, for an emergency.
+
+We discussed my plan, and despite the risk, she wanted to tag along all the way. Best case, it'd just be interesting for her. If things went wrong, odds were still good that she'd just get a lot of experience from this.
+
+Only in the worst case we'd die.

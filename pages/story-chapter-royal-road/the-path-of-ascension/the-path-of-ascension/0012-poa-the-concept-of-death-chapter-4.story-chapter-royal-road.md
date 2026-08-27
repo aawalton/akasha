@@ -1,0 +1,443 @@
+---
+id: 4aded591-edb2-5fa1-8421-f4c16dd6b272
+page-type-slug: story-chapter-royal-road
+title: "PoA The Concept of Death Chapter 4"
+slug: 0012-poa-the-concept-of-death-chapter-4
+partOf: the-path-of-ascension
+position: 12
+ownLength: 6823
+unit: words
+ownProgress: 6823
+publishedAt: 2021-10-25
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/772765/poa-the-concept-of-death-chapter-4"
+royalRoadId: "772765"
+markedReadAt: "2026-06-29T19:17:48.874Z"
+---
+
+1/2
+
+PoA The Concept of Death 4
+
+Melinda cursed under her breath as Matt’s question came through. He had joined the Kingdom and not the Queendom.
+
+Her husband noticed her distress and wrapped one of his large arms around her. It was just what she needed.
+
+“Yeah, it’s unfortunate. But nothing we can’t work around. This is a neutral city.”
+
+“But-”
+
+He cut her off with another gentle squeeze and moved forward to the front of the group, where their guide was leading them forward.
+
+“Hey, quick question.”
+
+When the woman turned around, he flashed his charming smile, and when the woman gestured for him to continue, he asked, “We have a friend who’s fighting for the other side. Is that going to be a problem?”
+
+The woman looked startled, but answered loudly enough for all of the groups following to hear. “No, the Empire made their stance on that very clear. This is a neutral city, and here no one is subject to our rules. We would prefer that you not fraternize with the enemy, but we can’t stop you, or punish you for it.”
+
+Someone in the crowd called out, “What if we’re spies? Isn’t that dangerous?”
+
+The guide still seemed unconcerned. “We both have spies and various countermeasures for that. In the end, neither side really trusts you Pathers. We’re both treating you like mercs. You’ll get your orders with minimum time to give out the information, and for the most part, you won’t know the full picture.”
+
+Melinda wanted to be hurt, but she didn’t blame them for their caution. The gossip on the ship had revealed that the vassals were getting reimbursed for the war to encourage them to actually put a sizable effort into it. If the rewards were enough to get Tier 35’s to move, they had to be substantial.
+
+They were escorted to a suite, and were told that they would have the rooms available while they were in the city. But, an auction was being held next evening, so there wouldn’t be much action in the coming days. Both sides were far more interested in the auction than continuing the hostilities, so they had free time to explore the city.
+
+With that in mind, they sent a message to Matt, saying that they could meet up whenever.
+
+He replied that they needed another hour or so for Liz to get ready. That reminded Melinda to talk to her team about the woman.
+
+“Guys, we don’t know her. So be on your best behavior.”
+
+Vinnie chimed in from beside her, “We know that she’s related to Aunt Helen.”
+
+Sam corrected him, “She’s a phoenix like her, there isn’t any blood relation.”
+
+“Good point. What else do we know?”
+
+Tara added, “They’re dating, sort of.”
+
+Melinda thought that over before she added, “I was pretty confused about what their situation is. They weren’t dating, then they were dating but with no sex. Now, I’m not really sure.”
+
+The rest of her team could only shrug with her. None of them were entirely sure of the status of Matt’s relationship with his teammate, except that her presence was always felt in their messages back and forth.
+
+Their friend obviously cared for the woman, which was more than enough for them.
+
+“Look everyone, be on your best behavior. That’s all I ask. We need a good first impression no matter the details of their relationship. She’s officially a part of his team, so they’ll be together for the long haul.”
+
+They lounged in their common room while they still had free time. Mathew was kneading a knot out of her foot while he chatted with Vinnie and Sam about a few of their battle strategies for the war.
+
+While she didn’t actively participate, she listened carefully to their thought processes. They were Tier 6, which meant that they would be among the stronger Pathers fighting in the war, but weaker than the people from the vassal states. Those combatants could be up to Tier 7.
+
+As the team’s shot-caller, she had been putting in a lot of time with an expensive AI trainer that she had gotten. But while she was learning, she also became aware of her flaws.
+
+She wasn’t that bad with her simulated team, but as soon as the program threw her with an unfamiliar team, she failed repeatedly. When she didn’t have a healer, her made-up teams were always killed before the fifth encounter.
+
+It was sobering. She thought she was a good strategist, but in reality, she was proving Baxter right with each new simulation. It might have been more irksome than the actual losses. As much as she hated the idea, she intended to ask him for advice if their first battle went poorly. This war was a game, but if she treated it as if it was real, and got her family to as well, they could grow a lot.
+
+After a quick search with her AI, Melinda found that the war was expected to last at least a year, which was perfect. If she had her way, it would go on even longer, so they could milk out more experience. Their team's oldest member, Tara, was twenty-one and a half, which meant that they had plenty of time to progress. Thankfully, their team was all within four months of each other age-wise, so they had a little over five years before they had to reach Tier 7 to stay on The Path.
+
+It would be hard if they waited that long to Tier up, but Melinda had a plan for that. Their guide had given them all one war contribution point for joining the Queendom. It let them access the War Contribution Market, and it ensured that they could come back into the fight if they got killed.
+
+The single point was what let her plan out her family’s next steps. They would take a mission and earn at least a dozen points each. With those, they would each buy essence stones. They were limited to buying one every three days, but the stones only cost 5 points apiece. Her team could advance and increase their powers in the short term, then leverage that to gain further rewards. All the while, they would be increasing their combat prowess by honing the skills and abilities that they already had.
+
+Before she gave in to the craving and checked the more tangible rewards, the timer she had set went off, and everyone started moving to meet with Matt.
+
+She was nervous. It had been so long since they had seen each other, and she felt like she owed him so much. Without the shard of reality, she didn’t know how long it would have taken her friends to start growing their own Concepts. A dark and pessimistic side of her whispered that with how long it had taken her husband to get his phrase, he might not have ever gotten it.
+
+In the end, he had, and his phrase suited him. “I am solid.” It fit him, though he pretended to dislike it. He was and had always been her rock. He was more than their team’s front liner, but their very foundation.
+
+When things got tough, his carefree and jovial attitude slipped away, to show the firm and steady core of their team. She made sure to try and take care of his emotional needs, but he rarely needed anything more than a hug or warm presence. It had taken her time with her own therapist to understand that he didn’t need to verbalize things as she did, and he processed things on his own internally.
+
+He was her anchor and their team’s rock. His Concept only reinforced that. She had more than enough fun teasing him about it when they happened to be horizontal.
+
+They came outside and were waiting outside their building, when a white blur shot into her arms, causing her to stumble back. She was given long, cold licks accompanied with an AI message saying, “Friend! Pet.”
+
+The fact that Aster could now talk, or at least communicate, completely slipped her mind when she finally saw Matt for the first time in almost three years.
+
+He was tall. Nearly as tall as her husband, but with a slightly slimmer build and a more golden tint to his hair. His eyes also looked more green than she remembered, but none of that really grabbed her attention. No, it was what her Concept showed her that blew her away.
+
+Her old friend looked more like a Tier 15 than the Tier 6. Her spirit told her much more than everyone else’s eyes could see, as he moved in to hug them all.
+
+Even perfectly healthy people had slight darkness around them, in the form of a mist of shadow, as aging took its toll. But no, Matt was near perfect. The only blemish was a reflection of a shadow that lingered over him out of the corner of her eye. It was a weird amalgamation of a Tier 15 and someone clearly under. Even a Tier 14 didn’t look like this. She had seen and treated more than one.
+
+She was unable to figure out exactly how exactly Matt had gotten that way, before her attention was drawn to the woman standing next to him.
+
+The woman, Liz, was pretty in a sharp way. It reminded her of Aunt Helen. It wasn’t just the red hair that was a mix of ginger and a deeper flame red,, or the same yellow eyes. It was something about her face. It almost had a... sharpness to it.
+
+The hard angles of her face reminded her of a hawk.
+
+The hard edges were softened by the clear nervousness that lingered on the woman’s face, along with the wringing of her fingers. She looked similar to Matt in that she had less darkness around her but it wasn't as noticeable as Matt’s.
+
+As she tried to pay attention to the introductions Matt was making, she internally smiled at Sam mentioning potions. It clearly put the other woman at ease, though Melinda didn’t smell anything over the freshly bathed fox still in her arms, demanding rubs with a string of messages.
+
+Aster was adorable, and she whispered sweet things into her ear, which, when responded to, caused her to lose track of the conversation again.
+
+When they were seated in a flying car, Matt called to the driver to take them to the restaurant. Melinda couldn’t hold it in anymore and said, “Matt, you look really good. Too good, really.”
+
+At his raised eyebrow, she realized he didn’t know about her Concept and explained, “I can see flaws in a person’s spirit with my Concept. It’s like monsters made of dark mist. The only people who don’t have it are those who are Tier 15 or higher. You look like you’re halfway broken through. It’s weird. I can’t really explain it.”
+
+It was hard to put into words, but he seemed to understand and laughed it off. “We met up with a seeker who pointed us to a Tree of Perfection, after we helped him out a little. It brings a single aspect of your body to Tier 15, or nearly so. I ate the body root. I guess you’re seeing that.”
+
+She queried her AI, and found that the plant and its effects were as he said, which put her at ease. Both Liz and Aster looked fine, but she still wanted to ensure that they were ok, as she did with her own family. To that effect, she moved to heal them, saying, “That makes sense. Let me heal all of you, though.”
+
+Liz protested, “Oh, there’s no reason to waste your mana like that.”
+
+Melinda shrugged, not wanting to explain her Talent in the cab. There could be people listening. With a thought, she cast [Ranged Heal] twice at the humans, and then onto Aster, who was sprawled over her, Sam, and Tara’s laps.
+
+The fox was liberal in her thanks and warm thoughts of love. Her messages were a constant stream of: ‘ahh’ and ‘scratch higher’. Melinda’s ‘you’re welcome’s back were returned with a heart. She dug her fingers deeper into the snow-white fur in response which was returned with a rumbling purr.
+
+Distractedly, she said, “I’m happy to help. It’ll make sure you don’t have anything wrong lingering with you. I don’t see anything, but a heal a day will keep sickness away.”
+
+The rest of the ride was filled with idle chatter, and she had to smile at how her team made sure to include Liz in their conversation. Meanwhile, she worked on the indolent fox, who was in a bliss all her own.
+
+Their conversation died out as they reached the restaurant, and Melinda immediately protested the place after looking it up. It was an expensive restaurant meant for Tier 10’s.
+
+“Matt, we can’t afford this place.”
+
+He shrugged her concern away like it was no big deal, causing her to feel even worse until he elaborated. “I’m paying. And it’s only one dinner. We made more in the last few months here than you can imagine.”
+
+When Sam looked to reinforce Melinda’s protest, Liz said, “We sold more than one growth item while we were at Tier 5. Let us treat you to a nice dinner. Shame my Aunt isn’t here. Now that would be a good dinner.”
+
+Tara seemingly teleported next to Liz and nearly shouted, “I’m gonna marry her!”
+
+While Matt and Liz looked at her in confusion, Melinda grabbed the archer’s arm and started to drag her along, debating if she should strangle the woman now or later. She had told them not to be weird. And what was weirder than hitting on someone’s million-year-old Aunt?
+
+“Ignore her. She’s delusional.” It took all her effort not to growl the words out.
+
+Tara protested as she was dragged to the door. “I’m not! Really, I’m not. She’s amazing and I’ll marry her one day!”
+
+Thankfully, in the reflection of the approaching door, Melinda could see Liz looked more amused than offended. “You’re going to have your work cut out for you. Aunt Helen’s list of suitors probably spans the known… well, everywhere. She’s broken a lot of hearts over the ages with unreciprocated feelings, and I’m pretty sure she’s accidentally started a war at least once.”
+
+Hearing Liz’s comment, Tara looked even more determined, so Melinda tried to crush her arm with her own, to little effect. Liz continued, “But go ahead and try. Maybe you’ll be the one. How did you guys meet her though?”
+
+That caused their procession to stop again halfway through the door, as Tara tried to turn and chat about her crush, but Kyle thankfully saw and grabbed Melinda, dragging them all forward.
+
+When they were seated, Melinda thanked them. “As I was trying to say, thank you for the shard. It got everyone else on the right track to discovering their Concepts. I don’t know how to repay you.”
+
+Mentally, she knew that they were friends, but the gift was too big and too important to her family. She wanted to do something for them, but didn’t know what. It wasn’t a debt that had to be paid off, and it was really one that couldn’t be paid. Her family reaching Tier 15 and immortality was her most important goal. She hadn’t learned how to heal old age yet, and didn’t want to count on something so chancy.
+
+When Matt and Liz looked like they wanted to protest, she held up a hand and stopped them. “This is massive for us. It’s not a small trinket, but my family’s ticket to immortality. Not everyone can take that first step, and they eventually die. I just fell into mine without knowing what I was doing, and how much it would separate myself from them. Just... Thanks.”
+
+Vinnie smiled and lightened the mood as he bragged, “I was the first to get my phrase. These dummies took a lot longer.”
+
+“It was a day before the rest of us, which was over a year behind Melinda, you rube.” Sam’s comment cut Vinnie down, and in retaliation, he fell over on her and tried to smother her.
+
+Their waiter came over, her team followed her lead in ordering smaller and therefore cheaper entrees. But when Matt saw that, he just ordered what seemed like the largest and most expensive platters in addition to their meals.
+
+When all of them tried to protest, he repeated his earlier statement about making a lot of money recently. Melinda still struggled with that. He was spending at least a Tier 10 mana stone on all of this food, at the very least. She remembered when Matt had complained about spending his hard-earned credits on a new pair of boots when he grew out of them. This seemed in stark contrast.
+
+Liz did something with her earring, which caused a bubble of air to harden around their table. As Melinda listened to the odd echo of their breathing, Matt reached into his bag and withdrew the two items, a bracelet, and a quiver. The second one was obviously a gift for Tara, but the first was a mystery.
+
+As the guilt of taking more from her friend bubbled up, he said, “I’m glad I didn’t send these to you the slow way. Otherwise, they might have missed you.”
+
+Tara looked at the quiver and asked, “I can always use a new quiver, but this feels weird. What does it do? Also, thank you.”
+
+Matt was prouder than a mother hen as he said, “I’m proud to give you both growth items that are perfectly suited to each of you.”
+
+Vinnie nearly dropped his bracelet as Matt said that, but caught it at the last second. “Man, this is too much. I can’t afford this.”
+
+“It’s no big deal. I wasn’t joking when I said we pulled more than one growth item.” The casual statement only caused Melinda’s guilt to increase.
+
+Thankfully, Vinnie and Tara seemed to agree with her assessment, and pushed the items back across the table in unison.
+
+Tara, with obvious strain in her voice, said, “It’s too much, really. You should sell them and propel your team to greater power. Buy some more skills or something.”
+
+Matt rolled his eyes like they were being purposefully oblivious, “Guys, at least hear what they do first.”
+
+Tara looked longingly at the quiver, but Melinda was proud of her teammate as she said, “No, don’t do that! It will hurt even more knowing.”
+
+Matt seemed exasperated as he said, “Ok. Think about it for a minute. You guys know what my Tier 1 Talent does. Have you ever checked my Tier 3 Talent?”
+
+Everyone on her side murmured yes, but Melinda was confused as she reread it. Finding nothing new, she checked Matt, Liz, and Aster's faces. Matt looked like it should be obvious, while Liz looked amused, but not in a mean way. Aster just watched everything with her paws on the table as she sat in between the two.
+
+A quick glance at her own team showed that they seemed to be just as confused. Taking the chance to look dumb for them all, Mathew whistled, saying, “Same as last time. It’s impressive as all hell, but I don’t get it.”
+
+“How are rifts made and powered?”
+
+Melinda paused and remembered the mnemonic from her childhood, ‘Life makes mana. Mana makes essence. Essence creates rifts. Rifts convert all three.’
+
+It took a moment as she put the pieces together. Suddenly, it clicked, and she was in shock and awe, while Matt looked like a child getting presents on his birthday.
+
+“So you can just...” Sam waved a hand around, pointing at the pair of growth items.
+
+“Yup!”
+
+“And it’s just that easy?” Kyle’s disbelief was obvious as he asked the question. It mirrored her own.
+
+“Yup!”
+
+“That’s amazing...” Melinda trailed off when she was interrupted by Tara and Vinnie lunged for their items in unison, scrambling to take them.
+
+She couldn’t blame them. Apparently, for Matt, they were worth nothing. Ascenders knew how many he had pulled out of his rifts before Tiering up. It must have been enough that they didn’t feel the need to stay at Tier 5, which implied a shocking amount.
+
+“Okay, what do they do? I need to know!” Melinda was curious as well, especially considering Matt’s claims of how perfect the items were for her teammates. Mathew patted her leg under the table, and she intertwined their fingers, taking comfort in his presence.
+
+Matt laughed, clearly enjoying the sight of them cuddling their new items.
+
+He pointed at Vinnie’s hand and said, “That bracelet increases the range of all earth skills cast while wearing it.”
+
+Vinnie nearly dropped the metal and rope band as he tried to get his hand in it. It cinched down, and her spiritual sense noticed that the bond was now active. It really was perfect for him. The greatest weakness of any low Tier earth manipulator was their lack of range. He couldn’t affect anything that was more than five feet away from himself. She didn’t know how much the item would extend that range, but she was confident that any amount would help.
+
+Tara was hugging her quiver and giving Matt puppy dog eyes, silently begging their friend not to make her wait any longer.
+
+“That...” he paused as he pointed to Tara and as she nodded rapidly, almost quivering in anticipation. He drew out his silence. As her friend looked ready to explode, he finally continued, “...Is a quiver that acts like a spatial item, and it can create arrows over time. It also enchants them if the arrows remain in the quiver while it gets fed mana. I thought it was perfect for your style.”
+
+Tara’s bouncing turned into a lunge as she tried to reach Matt over the table, knocking over two empty cups in the process.
+
+“Oh, thank you! Thank you! It is perfect! I love it.”
+
+The same process repeated itself as Tara bound the item and started stuffing arrows into the quiver and pulling them out. Oddly enough, she didn’t seem to have to reach inside the quiver, and they appeared far enough away. Melinda was pretty sure that her friend could summon them already notched on her bowstring.
+
+Melinda thought the excitement was over, when Matt brought out a bucket. It was underwhelming after his shockingly expensive presents, until he added, “We also got a ton of skills if you want something. It’s mostly the ordinary ones, but a few might help. Take and trade anything if you want. We already kept what we wanted.”
+
+Mathew smiled and clapped Matt on his shoulder. “You sure know how to give wedding presents!”
+
+“Wait, you guys got married?”
+
+Melinda just nodded as she looked at the pile of skill shards.
+
+Finally, she broke herself out of it and said, “Matt, this is too much. It’s... It’s...” Her voice trailed off as he shrugged.
+
+“Guys, take what you want. We already sold a bunch to the auction house. We don’t really need them. Also, these are the more basic ones that we kept around to perform more rift experiments on when we get more time and privacy.”
+
+Seeing their confusion, he clarified, “Rift making isn’t just throwing mana into an area. Well, it is, but we learned that you can put stuff inside and use aspected mana to influence the rift and its rewards.”
+
+He pointed at Tara’s quiver. “We made that by using wind mana and putting a bow and arrow set into the area where we created the rift.”
+
+Melinda was thankful for the barrier that kept Matt’s voice contained, because the man seemed too excited to share. She was happy for him, but she was scared of what someone would do if they figured out that he could create rifts that made specific growth items.
+
+Liz seemed to be thinking the same thing as she said, “You’re getting a bit loud, Matt.”
+
+He looked sheepish, and said in a much quieter voice, “But yeah, we learned a lot as we were able to experiment. Got a lot of items and money from it. Even skills.”
+
+Liz added with a rye smile, “And investigated for cheating.”
+
+Melinda’s heart nearly stopped, and she felt a bone shift in her husband’s hand as she tightened her grip. But after seeing their grins, she relaxed slightly.
+
+Kyle asked what she was thinking, “Wait, what?”
+
+Matt waved it off. “Oh, it was scary as hell at the time, but we got access to the Empire Market out of the ordeal. It’s like the contribution point market for the war, but with a seemingly more universal currency. You can buy some amazing things. The investigator was reasonable and heard us out before making any decisions.”
+
+They were interrupted when the air bubble popped as their waiter came in with two massive trays of food. Melinda thought that would be all of it, but server after server came and dropped more food off, until there was no clear space left.
+
+Melinda was mortified at the amount of food, but seeing how proud Matt looked, she held her tongue and enjoyed the meal as they each shared their own adventures. They had a lacking amount of stories compared to Matt and Liz, but she comforted herself with the knowledge that her friend-
+
+She corrected herself, friends. After seeing how Liz and Matt looked at each other, she knew they were in love. She saw herself and Mathew in the shared looks and glancing touches. It was just like when they were forced to wait per their Sponsor, Harper’s instructions.
+
+Liz was a friend. Just one she didn’t know very well yet.
+
+Melinda took comfort that her friends were ok.
+
+As their meal wound down, with most of the plates only half-cleared, Aster lapped at a bowl of strawberry ice cream despite her now extended belly. Matt had ordered it for her after she questioned the lack of cold food at the table.
+
+Hearing stories about how Aster fell in love with the cold treat made Melinda laugh until her sides hurt.
+
+They moved to a park and talked into the night as they continued to swap stories. Melinda smiled as Sam and Liz talked about various aspects of alchemy that went over her head, but they seemed engrossed.
+
+She sat with her husband and listened to him, Kyle, and Matt, talk about their favorite exercises. Why they all complained about their calves was more than she cared to understand, but she enjoyed the sounds of chatter as she held a napping Aster and looked to the stars.
+
+As she sat there, the skill in her pocket spoke of future power. Matt only had Tier 8 skills. There wasn’t anything really rare, but he had a [Bolt] shard. She finally took it after he threw it at her when he saw her put it back in the bucket.
+
+She knew she needed a damaging spell as a healer. It wasn’t as if she never fought, but they always prioritized giving the actual damage dealers in their party skills, so it was a first for her. A small part of her liked the idea of throwing lighting around, which is why she took [Bolt] over the more common [Fireball].
+
+Vinnie took [Earth Spear], which would increase his range yet again. One of his most glaring weaknesses would essentially become a strength, especially among earth mages..
+
+At Matt’s insistence, everyone else took two skills a piece, to trade for something better suited to them at tomorrow’s auction.
+
+As the moon crept over the buildings, Melinda stretched with a satisfied sigh. They had a long day, and the amazing food was taking its toll on her. Everyone else seemed to take that as their cue, and they started getting ready to go.
+
+Matt stretched and said, “We should spar tomorrow morning. Like old times. It would be great to see how you have all grown.”
+
+Melinda smiled and said, “We'll spank you around like we did at Tier 3.”
+
+He waggled his eyebrows and said, “Ah, but I was only Tier 2 then.” In an exaggerated voice, he said, “We are now the same Tier! Now I have the power to defeat you!”
+
+***
+
+The next morning, they were at a training field after a light breakfast together. They decided to simply call the nearest floating platform and let chance decide the terrain type they got.
+
+To her chagrin, they got a rocky area with pillars of stone standing like faux trees. It was perfect for Vinnie, which made her feel a little bad and when she suggested a more neutral ground. Matt just laughed, saying, “Neither of you were able to absorb the new skill into your inner spirit yet. It will be fine.”
+
+Not knowing where his confidence came from, she shrugged and stepped onto the platform. There was an immortal man standing in the air above the field who asked, “What type of match do you want?”
+
+He paused as he looked to his side, and as she followed his gaze, she found Baxter standing next to him.
+
+After a brief exchange, Baxter said, “I’ll be refereeing this match.”
+
+Matt looked nonplussed when he asked, “And you are?”
+
+Liz asked at the same time, “What authority do you have to do that?”
+
+Melinda cringed at the pair. It wasn’t like Baxter would hurt them, but it felt risky to speak to someone with the power to send the official ref away.
+
+Baxter, as usual, didn’t seem to mind, and calmly answered, “I’m Baxter. Over Tier 40 and a personal healer to the Emperor. I can keep any secrets you might reveal in a fight just that. A secret.”
+
+Matt looked satisfied at that but Liz, Melinda noticed, seemed even more skeptical until a smile crossed her face.
+
+She said, “Oh, okay. That’s fine.” Her grin turned positively wicked, and Baxter’s eye twitched, causing Melinda to wonder just what message the woman had sent. If she had to guess, she had threatened the man with her Aunt, which was the only other time she had seen him so agitated.
+
+Melinda readied up with her team as their platform rose up and turned opaque.
+
+Seeing only Matt on the field, and Baxter landing in a neutral area opposite from where Liz and Aster stood, she questioned, “Wait, you want to fight us alone?”
+
+With a sly grin, Matt responded, “At least once, for old times sake.”
+
+He then paused and looked at Baxter with a raised eyebrow. It was a long moment later when he seemed to reluctantly nod after glancing at Liz.
+
+Baxter called out, “Fight starts when I reach zero. Full killing blows are allowed, as I’ll intercept them. This match is not considered a part of the ongoing war, and death here won’t mean death outside.”
+
+“Three.”
+
+She was given the three-second countdown to look at the only skill she had seen Matt use before. Melinda expected to see the same fairly standard armor that was a perfect replica of normal armor, just with all the joints filled in with a lower layer. They always gave the appearance of eye and breathing holes, along with joints where the armor skill had one.
+
+Where her older and taller friend was a moment ago, there now stood a white-blue armored form in ghostly plate.
+
+No, this Matt was different. It was like someone had taken all of those little details and smoothed them over. His helmet was still shaped like a helmet, but it was now smooth and seemingly in one solid piece. Where the translucent armor had once appeared rough around the edges, and seemed shoddily made, it was now smooth and steely. It was now the armor of a truly fearsome warrior.
+
+“Two.”
+
+She considered her friend with what felt like awe mixed with pride. The child that she had met on the PlayPen was gone, replaced by this intimidating example of the best the Empire had to offer. A small part of her was anxious to see what Matt had become.
+
+“One.”
+
+“Zero.”
+
+When Baxter said zero, Matt seemed to explode forward. She was totally unprepared for his speed.
+
+He was even faster than Kyle, who was getting twice the effect of essence cultivated into strength. Matt moved like a peak Tier 7.
+
+A sinking dread came over her as she called out to Tara to end this as soon as possible. This Matt truly was different.
+
+Her call came too late as Matt closed the distance between them. A rain of ice centered on Tara poured down and pelted them painfully. It also knocked her arrow off course.
+
+She looked to Vinnie to get him to immobilize Matt as he arrived at Mathew, and instead of him diving into the earth, she saw Baxter holding a crossbow bolt in front of his face. In the time it took to blink, they were both gone.
+
+The panic started as Melinda tried to think, but she had no time before Matt was in front of her husband. She expected him to stop their friend in his tracks, but Matt ducked slightly, then lifted Mathew off his feet. He ran forward with her husband over his shoulder, as if he was a shield.
+
+Tara’s arrow was snatched out of the air by Baxter, who took Mathew with him. Their archer had moved out of the still raining ice and launched an arrow, only for it to hit her teammate.
+
+Did Matt plan to block Tara’s arrow with Mathew? How could someone plan that in the middle of a fight?
+
+Melinda didn’t have time to process her shock. With an explosive leap, Matt was immediately on her. She only had a moment to stare into the white-blue of neutral mana that made up his armored helmet. Idly, she thought she saw swirls and lines hidden in the mana.
+
+She saw the shock and pain in her reflection, and the first swipe of a sword that appeared from nowhere took both her legs and sent her tumbling. She watched the sword arc around, covered in her blood and moving to finish her off, only to be pulled from the field of battle. She looked down and found Baxter already reattaching her legs.
+
+She took over and sighed as her overhealth dealt with the wound perfectly.
+
+With her heart still racing, she stood and watched on in shock.
+
+Matt was rushing Kyle and Sam.
+
+Melinda looked to Baxter, who smiled at her.
+
+“What the fuck?”
+
+He ignored her and watched as Sam threw a poison vial down on the ground. A noxious green gas quickly spread and covered the surroundings as it broke.
+
+Kyle would be fine, as Sam had practiced long and hard to not hurt her teammates, but Matt seemed to ignore it, and instead started to duel Kyle.
+
+How does poison gas not affect him?
+
+She’d seen that gas take down Tier 6 monsters with ease, which made the contrasting result all the more jarring.
+
+Where Kyle’s sword was almost as tall as he was, had a thick blade, and was as wide as his thigh, Matt’s sword was slimmer. She figured that Kyle would win the fight through sheer weight alone, but his first blow was deflected, and Matt stepped around him. He was quickly intercepted by Sam and her dagger.
+
+Melinda looked to Tara, who was trying to escape another ice field that was ruining her shots.
+
+Matt punched out at Kyle as he slid under a blow, and Baxter said, “That’s what a true Pather looks like. I don’t know your friend, but he’s good enough that he has a management team at Tier 6, when most don’t even get considered until Tier 10. He’s strong and fast. Look at how he steps. It’s still a little sloppy, but with each step, he’s anchoring himself with a bit of his Concept, letting him turn just that little bit faster, and brace for a little more power in his blows. I can see him refining it each step he takes. Magnificent.”
+
+Melinda tried to watch, but could only focus on her team being decimated. Kyle took a blow that severed his leg and caused him to stumble. She expected Baxter to step in, but he didn’t. Just waiting.
+
+“If I were to give you fifty fifty odds against Matt in a one vs six, which I wouldn't, by the way. It's far too generous. But if I did, I’d give you sixty forty for Liz, only because all of you can actually hurt her. But she would shred you like fresh beef. And I'd give you ninety ten for Aster. Congratulations,” he said sardonically.“You have good odds at beating a barely sapient fox. And she’s still a child.”
+
+As Kyle fell, Sam drove her dagger into Matt’s lower back, with its tip glowing the sickly green of [Venom Strike].
+
+To her mounting horror, it skittered down Matt’s side as he turned and grabbed her arm. He tossed Sam onto Kyle and thrust through both of them. Or he would have, if Baxter hadn’t moved them to her side.
+
+Melinda dropped to their side and re-attached Kyle’s leg, while Sam shouted, “Fuck!”
+
+Looking up as Kyle stood on his now healed leg, she saw Matt chasing a retreating Tara through the stone columns.
+
+She checked on her husband, who had a faraway look on his face, and a hole in his armor near the middle of his gut. She checked him over, only to find that Baxter had already healed him perfectly.
+
+With a still blank stare on his face, he asked, “What happened?”
+
+“We got our asses handed to us.”
+
+“No. I mean, how did we slip so far? We were good. But Matt. He got better. He kept pushing himself. I... I don’t know where we went wrong.”
+
+Her attention was drawn by the cry from her teammate. She expected to see Tara down, but saw Matt standing there with an arm raised and an arrow through his forearm.
+
+With a lighthearted laugh, Matt called out, “Well done, Tara! I’ve taken blows from Tier 7’s at Tier 5 that didn’t punch through my armor like this.”
+
+His laugh and words caused Melinda to blanch even more. What Tier 5 fought Tier 7’s? That was madness.
+
+He reached up and broke the arrowhead off and pulled the shaft through his arm, dropping the bloodied piece of wood to the ground.
+
+With a battlecry that screamed that he was having fun, Matt launched himself forward into a newly appeared storm of ice and with even his sword now glowing.
+
+Tara tried to escape the onslaught of thumb-sized shards of ice, but they fell like a solid wall more than individual pieces of ice.
+
+As Tara tried to hide behind stone pillars, Matt shot forward and sent a crescent of mana at her cover, destroying it and sending rock spraying everywhere.
+
+Melinda knew the end was decided when Tara slipped on some of the accumulated ice, loosing her arrow early.
+
+To her credit, she didn’t surrender, and lashed out ineffectually with her ankle dagger, only to get her hand stepped on.
+
+Baxter called it. “Good job and well fought. Thank you, Matt.”
+
+Matt helped Tara up as the ice stopped. Her face read as a mixture of grumpy and sad, a reflection of Melinda’s own feelings as well.
+
+They had been demolished by someone younger and weaker than them. Matt was only an early Tier 6, after all.
+
+Liz came over and kicked Matt hard. “What the fuck? You seriously injured them!” The redhead turned to Baxter and kicked him in the shin as well. “And you! What the fuck as well!? You shouldn’t have let them get limbs cut off. They’ll be out of commission for weeks with that healing downtime. How amateurish are you? You should know better! Idiot.”
+
+Melinda warmed up to the girl even more as she stood up to an immortal for them. To head off any more outbursts, she told Liz her Talent. “Don’t worry, my Talent is one that gives all healing spells I cast overhealth. We’ll be fine.”
+
+Liz looked shocked at that, but she was cut off by Matt before she could respond. He said, “Speaking of that, let me use my Concept to top everyone up.”
+
+With that, Melinda felt her mana pool being rapidly filled from the three spells she had cast after the fight.
+
+Once again, a feeling of inadequacy overcame her. Matt had a Concept that could give others mana? That was absurd.
+
+How are we ever going to keep up?

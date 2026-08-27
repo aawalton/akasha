@@ -1,0 +1,215 @@
+---
+id: f2aa3d41-9897-5405-b454-941ee184c32c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 312 : Saltport"
+slug: 0013-chapter-312-saltport
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 13
+ownLength: 2479
+unit: words
+ownProgress: 2479
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2753772/chapter-312-saltport"
+royalRoadId: "2753772"
+markedReadAt: "2026-06-29T19:42:12.239Z"
+---
+
+"Thank you, I'm glad to have finally arrived at civilization!" I replied jovially.
+
+My idea for Sylvain was to have him be a more refined version of Kurt. He would have a wanderlust for exploration and adventure without any of the cockiness. Not necessarily wanting to make a big name for himself, but definitely wanting to earn the riches that came from it.
+
+"You don't look like you've been suffering too much in the wilderness?" the guard asked curiously, scratching his chin with his free hand while keeping a tight grasp on his spear.
+
+"The wonders of water magic. You can keep yourself clean even while out and about," I replied with a chuckle.
+
+"You should teach my wife that trick; she only uses it to water her plants," the guard replied with a grin of his own.
+
+He must have finally used [Identify] or something similar on me as he stared long and hard at me, before his eyes widened in surprise. Not too big to cause alarm that I'd gone too far, but enough that he was reassessing how he needed to behave around me.
+
+<Sylvain [Dungeoneer]; Human LV 32; Hydromancer [II] LV 53. Elemental Affinity: Water, Air.>
+
+I'd tailored my currently displayed identity from what I had seen from a distance. I observed that the average class level of the humans I encountered ranged from twenty to forty, depending on whether they had an advanced or intermediate class.
+
+Since none of them looked like the hardcore adventuring type, I added a few extra levels for safety to explain why I could afford to travel solo. I also aligned myself and eight of my [Sub-Cores] to water, while the rest to air. Even if I could manipulate my profile at will, I didn't want to take any chances.
+
+"Oh! I'm sorry, sir, are you with the guild?" the guard asked, looking a little nervous.
+
+"My father is sir, I'm just Sylvain," I replied with a grin. "And no, I'm not with the guild, although I'm thinking of finally registering…"
+
+"Mike," the guard replied, pointing to himself with a thumb and returning to his friendly demeanor. "Are you a freelancer or bounty hunter?"
+
+"Neither?" I replied curiously. "More of an explorer, trying to find treasures, hidden dungeons, occasionally taking down a crazy monster, stuff like that."
+
+"Then I'm honestly surprised you aren't already with the guild. There is a branch here, and I'm sure they will be delighted to register you."
+
+"My friend warned me that they take the lion's share of the rewards, so I always figured it was a scam."
+
+The guard abruptly broke out into a laugh. "I'm sorry, Sylvain, but your friend is an idiot."
+
+"Hey, only I get to call him that," I ribbed back with a smirk.
+
+After calming down, the guard continued, "I can promise you that the guild does not steal your earnings. If anything, I sometimes feel they are too generous. My brother-in-law works as one of the receptionists, and I swear on my honor, everything I've seen has been totally above board."
+
+"Well, I'll take your word for it, then, Mike. Plus, I heard it's a much safer way to store coins with one of those fancy necklaces."
+
+Mike grinned and reached down his collar, pulling out a copper necklace of his own. "It's why I'm registered as an 'honorary member', we city guards don't get that privilege sadly, and buying one from the merchants guild is something only a silver spoon noble could afford."
+
+I laughed and nodded. "You've really set my mind at ease. I really thought I was walking into a scam. I probably should have done this ages ago."
+
+"That you should!" Mike shouted back. "You could have been a silver or maybe even a gold by now if you weren't letting many accomplishments go to waste! I can only assume you've done a lot based on your levels."
+
+I nodded and even briefly mentioned the pack of brinelings I took care of. Mike turned and spat at their mention, a vile animosity burning in his eyes.
+
+He thanked me for taking care of the "scum" and then even pointed me in the right direction to the guild. He even suggested I ask to speak to Ethan, his brother-in-law, and tell him Mike sent me and to mention that I'd taken out a group of brinelings.
+
+I thanked him for his time before waving farewell and strolling inside.
+
+"Who are you and what have you done with Syl?" Vee piped up for her silence. She was in her smallest size and currently seated on the brim of my hat, rather than on my shoulder.
+
+The reason for this change in position was a strange feeling of intuition that I wanted to test out. The strange hat made anyone think it "belonged there," and I wondered if that also applied if Vee used it as her chair. Given that the guard didn't even react to her presence, it might have worked, or perhaps he genuinely didn't notice her.
+
+"Who's Syl? I'm Sylvain," I replied telepathically, although still using the new persona's voice.
+
+"Oh gods, you can use it telepathically too!?" Vee cried out in surprise.
+
+"Why wouldn't I? This is me after all."
+
+"Please stop. I hate it. Go back to your normal voice when speaking telepathically, please," she pleaded.
+
+"Fine," I replied, going back to my usual voice.
+
+"Thank you. I don't like hearing a man talk in my head so casually, no offense."
+
+"I mean, I'm neither. I'm just a slime."
+
+"Well, after being with you for so long and even when slimed out, you have never changed your voice before, I have to say I've grown attached to it."
+
+"You didn't have this issue with Llewel or Paeris," I pointed out.
+
+"Yeah, but they were elves. It was different."
+
+"Right, right… Anyway, I'll keep using my 'normal' voice when talking to you. It shouldn't be too hard thanks to [Roleplay]."
+
+"That explains how you suddenly became so social to a complete stranger. I swear I thought you were burning through a lifetime of extroverted energy in that one conversation."
+
+"Definitely. While it might not be the flashiest of new things I've acquired, you can't deny the benefits. I just need to remember to turn it off occasionally."
+
+"If you become lost in one of your fake personas, I'll have to drag you back out."
+
+"I'd appreciate it. Although the thought of that even happening has increased my paranoia levels."
+
+Vee giggled.
+
+I was still walking and minding my own business, trying my best to follow the directions given to me. Nobody seemed to pay me more than a glance, which was great in my books.
+
+"You aren't using [Stealth] or anything, are you?" I asked curiously.
+
+"Nope. Either the hat is helping us, or people are too busy to even notice a tiny spider."
+
+While the former would be great, as it would solve a lot of potential future issues with Vee being unable to freely shapeshift like me, I frankly hoped it was actually the latter reason. I didn't really feel comfortable with the strange hat that had forcibly bound itself to me and was subtly manipulating everyone's perceptions around us.
+
+Heck, even my own, and I'm supposed to be the owner!
+
+I just had to trust that if it was a real threat, then Trixie would have told me to get rid of it, but she had only sounded jealous at the time.
+
+Putting aside the strange predicament, Saltport was quite a lovely city. In terms of size, excluding the large portion dedicated to the docks, it was roughly between the size of Stantondale and Kaerlin.
+
+Vee in particular seemed to really be enjoying the sights and sounds, from the hawkers to the bustling atmosphere. She'd only ever seen Dhoggurum, which was effectively an underground complex more than a city, and her other experience was limited to the elves.
+
+While the elven cities were beautiful, there was an almost haunting eeriness to them, with the vast majority of the occupants being either animals or plants. Even the "commoner" elves kept to themselves, so there was this constant feeling of being in a highly private and gated community.
+
+"It feels oddly good to be surrounded by humans again…" Vee commented. "Which is weird considering I'm not one. I almost expected to feel animosity or bloodlust against them."
+
+"You would if we had the whole evolution madness thing. Same with the dwarves and elves," I replied.
+
+"I wonder why they do it."
+
+"Something about feeding off of our achievements and accomplishments? Apparently, I was quite a big shot until I screwed up and got turned into a slime."
+
+"That's quite creepy. Like a worse version of parents living vicariously through their child," Vee replied with a slight shudder. "But what does that have to do with monsters being unnaturally hostile?"
+
+"Well, the easiest way to get levels and achievements is through killing, right? So, having a mindless enemy would push the majority of the population to try to gain levels. More levels, more food for the gods."
+
+Vee sighed. "I regret asking… Now I feel like a pig being fattened up for slaughter.
+
+I somewhat agreed, as although the final harvest was creepy, everything leading up to that point seemed almost beneficial for us. The system gave us levels, skills, traits, evolutions, and who knows what else. Without all that, would I, a small little slime, even still be alive?
+
+I'd probably be dead at the bottom of a bucket.
+
+I shook the nihilistic thoughts away, as I had reached our destination. Like the other guilds, it had a colorful tiled roof and a large sign out front, easily identifying its presence.
+
+Outwardly, I entered confidently. In reality, I was on full alert, not for myself, but for Vee, who would probably be able to use [Veil Step] to instantly get away if there were any threat.
+
+The layout of the guild branch hit me with a wave of nostalgia, reminding me of the first time I entered Stantondale. Except this time, nobody paid attention to me at all. I was just another human who had wandered in like countless before me.
+
+I patiently waited until I could be attended to, and as suggested, I asked if I could see Ethan. We didn't have to wait too long after that, and eventually, I was standing in front of an open desk.
+
+"I'm guessing Mike sent you?" Ethan asked.
+
+I nodded. "We had a chat outside. He said you'd set me straight and that I should mention I took out a pack of brinelings."
+
+"Filthy creatures," Ethan replied, nearly spitting. "I swear to the gods they are worse than goblins, orcs, and kobolds combined."
+
+"They didn't seem that much of a threat," I replied honestly. "But I did catch them on land."
+
+"Then you're one of the lucky ones. Their go-to tactic is to sink any vessel they lay their eyes upon and then drown any survivors. Not many monsters fight fair, but the brinelings fight outright dirty."
+
+"I can only imagine the damage they must cause to a port," I replied, shaking my head.
+
+"Well, if you killed them, I must thank you for your contributions. Although if you'd like a reward for the active bounty, then I require you to show your tag or another form of proof."
+
+Oh… proof… it was supposed to be ears or something, right?
+
+I had claimed none of those. Not wanting to appear a liar, I pulled out the plank of discarded wood and placed it on the desk.
+
+"This is really the only proof I have," I answered. "I didn't cut their ears or anything like that."
+
+Ethan looked at it curiously before his expression darkened. "This definitely looks like a brineling map. As crude as it is, it would be hard to forge one of these, unless you're somehow fluent in their writing."
+
+"Sorry, I skipped that course in magic school," I joked.
+
+Ethan gave a half smile. "So no tag?"
+
+"I'm not registered with the guild. Although I'm considering signing up today."
+
+"That's unfortunate, but I'm glad you've come around." he paused and examined me. "You seem to have a lot of experience, and have even conquered a dungeon solo?"
+
+"Yeah, but I was overleveled. It was a beginner dungeon, but my friend told me I needed this Emblem so I could find more dungeons."
+
+"I'm honestly surprised you haven't joined the guild before this. Were you part of the mages or merchants?"
+
+"Nope."
+
+"Do you mind me asking why?" he asked curiously.
+
+"My friend said you steal our earnings."
+
+Ethan let out a loud, almost pained, groan and buried his face in the palms of his hands. He shook his head a few times before pulling his hands back through his hair.
+
+"Why do people keep spreading that rumor? How many amazing recruits have we lost because of it?"
+
+"So you don't steal our earnings?" I asked.
+
+"No, of course not!" Ethan denied it vehemently.
+
+"What about loot earned before registering?"
+
+"No again!" he cried out, once again burying his face in his hands. "Gods, I swear I want to cut out the tongue of anyone who keeps spreading these lies."
+
+"Okay… so, just to be one hundred percent clear, any loot I've discovered before registering won't be taken away?"
+
+"No…" he replied again, now almost sounding defeated. "Why would you even think that?"
+
+"Well, the brinelings stole valuables. But I killed the brinelings. I wanted the loot to be mine, but what if it was originally some noble's gold?"
+
+"No… Just like there are Salvage Rights for underwater wreckages, there's also the Spoils Accord, or as it's sometimes called, 'The Adventurer's Claim'. Any loot you've recovered on an expedition is lawfully yours, and if someone wants to claim it back, they will need to pay you fairly."
+
+"But I'm not an adventurer," I pointed out.
+
+"That's why it's officially called the Spoils Accord. The other one is just the colloquial name. I swear to you no one will steal your loot."
+
+I smiled. "Well, good. Cause I want to sign up and then trade it in for coins. I got no use for metal bars and all the other stuff I found."
+
+"Yes, we can arrange that. I can even provide an itemized list of the total value for your final approval before depositing the amount into your account. As you may or may not know, nobody can steal the money from your guild tag."
+
+My smile turned into a grin as I pulled out a "storage bag" and proceeded to dump a bunch of metal bars on his desk. The look on Ethan's face was priceless, and Vee burst out laughing, almost causing me to break character in response.

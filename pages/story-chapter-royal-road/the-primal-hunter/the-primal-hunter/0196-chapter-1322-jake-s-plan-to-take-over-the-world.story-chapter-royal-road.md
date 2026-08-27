@@ -1,0 +1,117 @@
+---
+id: df5932aa-b566-503a-a892-550f699f6909
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1322 - Jake's Plan To Take Over the World"
+slug: 0196-chapter-1322-jake-s-plan-to-take-over-the-world
+partOf: the-primal-hunter
+position: 196
+ownLength: 2854
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3460759/chapter-1322-jakes-plan-to-take-over-the-world"
+royalRoadId: "3460759"
+---
+
+Okay... okay, taking a step back, Jake was eventually going to place Venus under his control, as, quite frankly, he wasn’t sure there was any valid alternative. With its placement in the Milky Way Galaxy and proximity to Earth, he wouldn’t feel safe just leaving it entirely alone. What’s more, he seriously doubted Miranda would allow such a potential danger right in their backyard.
+
+However, that didn’t mean Jake planned on conquering the entire Minor World and turning its inhabitants into his subordinates by force. Especially not now, when it really wasn’t a pressing matter. With the world still sealed, Jake had plenty of time to discuss with Miranda and other smart people who were way more competent at this kind of thing than he was.
+
+Yet the Great Sea Serpent seemed utterly convinced that Jake was about to unveil his brilliant plan for effortlessly dominating the entire world. That was definitely one downside of being Villy’s Chosen. Because the Primordial was a brilliant schemer and overall considered pretty smart, people also thought Jake was a clever cookie.
+
+He was most decidedly not.
+
+Still, Jake didn’t want to instantly disappoint the peak A-grade that seemed to now have an incredibly high opinion of him. He really tried to formulate a good response, which was when the snake spoke again, making things even more difficult.
+
+“I also now realize my own ignorance and foolishness. In truth, we have danced in your palm from the very beginning, yes? Feigning weakness to make all natives of this world let down their guard, revealing all their secrets, as they never believed your existence a threat. Even now, they do not know who and what you truly are, making it a certainty they will continue to underestimate you, and realization will only strike when all their options are null, and submission is their only future.”
+
+Yeah, things were only getting worse, and Jake had a strong desire to punch Villy in the face, as that bastard had definitely said or implied something making the Great Sea Serpent believe Jake had planned on taking over Venus.
+
+It was definitely going to be exhausting having to act like he was actually some mastermind, and after some consideration, Jake decided to try to clear up the situation at least a little, though he feared convincing the A-grade wouldn’t be very easy.
+
+“You overestimate me; I am indeed only someone barely in B-grade,” Jake said with a sigh. “Am I also the Chosen of the Malefic Viper? Yes, but it’s for reasons I don’t expect you to understand, nor will I try to explain them to you.”
+
+While the Great Sea Serpent was most certainly an ally now, Jake still had to be a little careful. The peak A-grade clearly worshipped Villy and thus also showed deep respect and reverence for Jake, but he was still nervous about saying anything that could be construed as blasphemous. That made him not want to explain that he and Villy were actually friends, and that friends sometimes got along despite their differences. Such as the massive difference between being incredibly smart and knowledgeable, and Jake being more of the impulsive and instinctive sort, who believed more in his own intuition and gut feeling than empirical data or anything else logical.
+
+“As for conquering this Minor World, it’s not a matter I see any need to rush, nor will I primarily handle it myself. My priority is growing my own personal power and gaining levels, so I have to have someone else take charge of this matter for me,” Jake said, deciding to reveal some information that he believed would make him still look somewhat competent, just someone with different goals.
+
+“To clarify, the area surrounding the entrance and exit to this Minor World is already considered my personal domain. A domain that, in sheer size, I believe already surpasses this entire world, and will only continue to expand in the future. Thus, also claiming this Minor World is a foregone conclusion, as it would happen sooner or later, no matter what.”
+
+Technically, Jake wasn’t entirely certain he could claim that he controlled the entire Milky Way Galaxy, as, quite frankly, galaxies were pretty damn huge. Sure, he had won the system event and had taken control of all planets inhabited by the enlightened in the Milky Way Galaxy, but that was just a small fraction of the total number of inhabited areas.
+
+There were far more dangerous existences lurking in the galaxy, especially towards its center. The centers of galaxies emitted energy that helped make the entire galaxy a thing, but that also meant the mana there was incredibly dense and powerful, giving birth to equally powerful monsters.
+
+Though, based on what Jake knew, an existence like the Great Sea Serpent would likely still be unrivaled unless an S-grade had managed to appear. The chance of that was low, but it could technically happen based on what was going on in the center. Only time would tell once he started exploring that area.
+
+However, despite it being questionable if Jake could truly claim to “own” the galaxy, it was clear that in the eyes of the multiverse, it was indeed already his domain. Even if he didn’t have the power right now to truly claim it, no one would dare compete with him when the time came, making it only a question of time before it would truly be his.
+
+“I see... so this journey into this world is merely just to explore it and judge of it’s worthy of becoming part of your territory?” the Great Sea Serpent asked, somewhat understanding what Jake was getting at, but not fully being on board quite yet.
+
+“When I first went to explore the entrance to this place, I had no idea it would house a Minor World within, nor what kind of world it would be. I learned most of these things only after entering,” Jake answered truthfully. “My Patron, the Malefic Viper, certainly knows far more than we, but he prefers to let us mortals explore and make decisions on our own. It’s related to Records and whatnot, from my understanding.”
+
+“It would be wildly presumptuous for us to expect the Malefic One to truly get involved in trivial matters like the dominion of this world, and I do understand that his decision to step in this one time was only due to the importance of your presence here,” the serpent said, at least seeming to be on board with Villy not being directly part of all this.
+
+That should at least help explain away all the mistakes that Jake would definitely make. If the peak A-grade believed all of this was part of the Malefic Viper testing and tempering Jake – which it kind of actually was – it would help a lot going forward. Jake was still only a “young” B-grade, after all, so wasn’t it only expected for him to mess up and learn from his mistakes once in a while?
+
+“Exactly,” Jake nodded, feeling like they were making solid progress in the conversation. “In regard to taking over the world, there are matters outside that my assistants and I will have to deal with first before we can turn our attention to this Minor World. So for now, we should focus on strengthening ourselves and preparing. I don’t doubt you have much to digest either.”
+
+That assumption was a very safe one, as there was no way the Great Sea Serpent didn’t have a lot to process after meeting Villy and getting a Divine Blessing. The Blessing had come with a title and a skill, but for a peak A-grade, that wasn’t necessarily the most important part.
+
+Instead, it was the Records he’d been granted and now had greater access to.
+
+Upon reaching B-grade, Jake’s sensitivity to concepts had improved drastically, and that improvement only became more noticeable in A-grade. It was also very common to gain skills reminiscent of Jake’s sacred meditation, allowing one to explore concepts and improve oneself. These were far more limited than Jake’s skill, only touching on limited concepts and affinities, often ones that closely aligned with one’s Path.
+
+Under the assumption that the Great Sea Serpent had a skill allowing him to explore concepts, it was only to be expected that the overwhelming Records of the Malefic Viper had now started to affect what he could explore and the improvements he could gain.
+
+To be clear, the peak A-grade could likely always find these concepts related to the Malefic Viper, due to how closely tied they were to the Paths of all snakes, but giving a Blessing made it so much more effortless.
+
+In conclusion, the Great Sea Serpent had a lot of benefits to still be gained from receiving the Blessing, and many skills to potentially upgrade and improve as a result. Something he would likely want to do anyway before evolving to S-grade, as it would no doubt result in a better evolution.
+
+“I feel that with my newfound power, I will already have an advantage facing the other beings at the apex of this world, but you are right. That is merely my arrogance speaking. In reality, should I face them within their domains, I cannot with certainty say victory is assured, and even if I do win, I would not be able to prevent their escape,” the Great Sea Serpent said in an apologetic voice, though he quickly bounced back.
+
+“However, if I can comprehend even a fraction of what the Malefic One has bestowed upon me, that will change. I realize from a mere glance that, should my comprehension improve significantly, I will not only be able to grow more powerful but also realize the flaws of my opponents. We all focus on cultivating toxins, so what if I comprehend their Paths and strive to counteract them? A sentiment that I would have found ludicrous a day ago, but now... not so much,” the peak A-grade finished, almost sounding giddy at the prospect.
+
+“That does sound like a good plan on your end,” Jake nodded, wholeheartedly in agreement.
+
+The term “fight poison with poison” existed for a reason, though perhaps the term in this case was more literal than originally intended. Poisons were not just one thing, but a term describing a myriad of different concepts of energies, many of which were opposing, neutral, complementary, or outright volatile whenever they came into contact with one another.
+
+If the Great Sea Serpent could gain a better understanding of the toxins that the others in the top three of Venus were using, he could begin to make counters. Methods to neutralize their poisons, and even make toxins that could start to deal actual damage to his opponents. While these two other peak A-grades would still have some resistance, as the venom would still fall under the wider concept of being considered “poison,” it would still be an advantage that could potentially lead to the peak A-grade truly becoming the strongest in the world.
+
+“However, I will add one thing,” Jake said after thinking for a bit more. “Killing these other peak A-grades only needs to be done if it’s absolutely necessary, or if they’re the kind of creatures that cannot be communicated with. Ideally, they will become assets, not enemies. The same goes for the Arachnecs, Venusians, Nomads, and any other faction of this Minor World.”
+
+Truthfully, one big reason Jake said this was his fear that the Great Sea Serpent would go on a revenge mission once Jake was gone from Venus. While he certainly had a bone to pick with certain Venusians and Arachnecs, he wasn’t going to condemn an entire race due to the actions of the few. Especially not when he understood that their actions primarily stemmed from ignorance and fear of what was going to happen to their world.
+
+Jake also didn’t want to turn these fears into reality. Venus was part of his domain, yes, but that didn’t mean Jake needed to aggressively conquer it and subjugate all the natives if he could avoid it. Doing something like this also simply didn’t sit well with who Jake was as a person. The Venusians, Arachnecs, and all other factions of this Minor World had their own cultures and histories, and Jake didn’t want to erase all that just because they were unlucky enough to be born in his backyard. Ideally, he truly wanted them to remain self-governed, though still under his overall governance. He wanted their joining of the multiverse to be a good thing for both Venus and the Milky Way Galaxy.
+
+That being said, there were a few for which he would shed no tears should they meet unfortunate ends. Starting his “conquest” by killing people in positions of leadership probably wouldn’t be a good idea, though. Or maybe it would be. Jake had no idea and would really like Miranda to be the one deciding those kinds of things.
+
+“Turn them from enemies to assets...” the Great Sea Serpent muttered, making Jake fear for a moment the gigantic snake wouldn’t agree with his plan. “Once more, I misjudged you. Your goals are far beyond what I could even imagine. To not merely wish to eliminate those who stand against you, but to make them realize their own foolishness and join you willingly, is truly ambitious. It even appears impossible, but there are many things I ignorantly believed impossible, so who am I to question you? Moreover, upon reflection, I do understand. Would the natives of this world truly dare stand against you if they experienced the true power of the Malefic One? No, no, they would see the error of their ways and submit in reverence.”
+
+Okay, yeah, that wasn’t exactly what Jake was going for, but hey, better than the giant snake viewing all the other natives as snacks to be devoured in the name of the Malefic One. Jake really hoped things would work out, but to make that happen, he should refrain from acting on his own too much.
+
+While the situation had turned out well in the end, Jake knew that this entire trip to Venus would have ended in absolute disaster if not for Villy.
+
+“It sounds like you understand my objective somewhat,” Jake nodded, briefly looking around the cavern. “I would like a personal space, as I have some matters to attend to, and I may need to commune with the Malefic One.”
+
+The Great Sea Serpent’s gaze intensified, the A-grade full of fervor. “Certainly! I’ll prepare the deepest chamber for you, and while it’s certainly way below your standards, the energy there will hopefully prove somewhat beneficial.”
+
+That’s when Jake realized something else. Despite the snake having learned a lot about the multiverse, the existence of enlightened species seemed not to have been included. Had Villy excluded it on purpose? Who the hell knew, but it seemed like the serpent was still under the impression that Jake was a monster.
+
+Fortunately, the more toxic atmosphere did benefit him a little, courtesy of Palate of the Malefic Viper. Far from as much as a monster would benefit, but Jake would still gladly take the offer.
+
+“Then let us do that,” Jake nodded. “I assume you’ll bring me there?”
+
+“If the Chosen allows it,” the Great Sea Serpent confirmed.
+
+Jake gave his agreement, and not long after, he was swallowed by the snake once more and brought even deeper into the sea. The Great Sea Serpent appeared to have several undersea caverns with highly concentrated toxic energy within that was also easy to absorb due to natural formations created by the sea.
+
+Venus truly was a paradise for poison-users, and Jake could see many members from the Order make pilgrimages there in the future.
+
+After being taken to his destination, which was a vast cavern inside a suspended rock down inside the sea, Jake excused the Great Sea Serpent. The massive A-grade seemed reluctant to leave, but ultimately did as told, though he didn’t exactly leave.
+
+Instead, the Great Sea Serpent returned to his full size and stayed in the ocean around Jake’s suspended rock, protecting him as the serpent also started digesting all the gains he’d received from the Malefic Viper.
+
+Jake was also happy to confirm that the peak A-grade didn’t even try to spy on him, but fully respected his privacy, as Jake was finally alone for the first time in what felt like forever.
+
+With a sigh, he sat down and only now truly felt the mental exhaustion from all that Venus had brought so far. His soul was also still injured, and having channeled Villy to hand out a Divine Blessing had also taken a bit out of him, making it very pleasant to finally just sit down and relax.
+
+He just sat there for about an hour, doing nothing. Jake didn’t even really think about anything, but just let his thoughts stray. After he felt better mentally, Jake let out a sigh and reached out to his Patron, figuring a conversation was long overdue.

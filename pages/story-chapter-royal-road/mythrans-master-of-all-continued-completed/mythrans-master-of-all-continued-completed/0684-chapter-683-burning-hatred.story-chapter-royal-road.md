@@ -1,0 +1,259 @@
+---
+id: fea63472-3bc5-599c-b6c6-32ec466004ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 683 - Burning Hatred"
+slug: 0684-chapter-683-burning-hatred
+partOf: mythrans-master-of-all-continued-completed
+position: 684
+ownLength: 2814
+unit: words
+publishedAt: 2018-08-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/285660/chapter-683-burning-hatred"
+royalRoadId: "285660"
+---
+
+“L-let me GO!” Fire Dancer yelled and punched his side.
+
+Ren grunted as his side caved in and his rib cage shattered, then his Regeneration healed him almost instantly. “N-no.”
+
+Fire Dancer punched his other side with the same result. “Let me go, Father!”
+
+Ren didn't try to defend himself in any way and just hugged her. “Shh. It's okay.”
+
+“Let.” *punch* “Me.” *punch* “GO.” *punch*
+
+“You can hurt me as much as you want; but, I won't let you hurt someone I care about because of your jealousy.” Ren managed to say without letting the pain color his voice as his broken bones mended. He had to keep casting Major Healing on himself as well to keep his Health bar full.
+
+“I'm not jealous of that thing!” Fire Dancer exclaimed and punched him again, and Ren winced from the lie and the pain.
+
+“I can feel... your emotions, Deity of Fire.” Ren said. “Even after all this time, you're still letting your irrational anger dictate what you do in stressful situations.”
+
+“It's not irrational anger!” Fire Dancer spat at him. “I'm completely rational and my anger at her and you is completely justified!”
+
+“You believe that.” Ren said, a little surprised.
+
+“It's you that's irrational! You told me that you would spend all of your time here with me, and then you go and gallivant around the Earth Realm without a care in the world!”
+
+Ren sighed. “There is a good reason why I didn't come back right away.”
+
+“Oh, really?” Fire Dancer asked.
+
+“Yes, I was gathering footage for you.” Ren said, and she laughed.
+
+“You can do that in an instant.” Fire Dancer said and swung both fists at his sides this time.
+
+“GAH!” Ren grunted as her fists dug into his sides and crushed his rib cage, then Fire Dancer slowly kept pushing them in further so he couldn't Regenerate.
+
+“STOP IT!” Artemis yelled as she flew out of the spawn point and fired. Two massive Mana bolts struck Fire Dancer in the lower back.
+
+“ARGH!” Fire Dancer grunted and arched her back, which pulled her fists out of Ren's sides.
+
+Ren took in a huge breath as his ribs reformed, now that they could, and he cast Major Healing on himself again. “A-Artemis...”
+
+“No, Ren.” Artemis said and shot Fire Dancer in the back of her knees to make her lose her balance. “You might not care if she hurts you; but, I won't stand by and let her torture you before she kills you.” She shot her 4 more times, once each in the back of her thighs and her calves. Ren held onto Fire Dancer as she collapsed, and she had molten tears in her eyes.
+
+“I hate you!” Fire Dancer exclaimed.
+
+“No, Honey. You don't... and that's the problem.” Ren said and used his Fire Manipulation ability to keep her tears from falling. “Artemis, back off.”
+
+“Ren, she's dangerous!”
+
+“Yes, I know.” Ren said and picked Fire Dancer up in his arms, then laid her down on the bed. “Please, go back into the spawn point. I don't want her to burn through the rest of your protections.”
+
+“It doesn't matter if I'm in the spawn point if that happens.” Artemis said.
+
+Ren sighed and used his Fire Manipulation skill and the Solid Fire spell to create straps to hold Fire Dancer down. “Please.”
+
+Artemis sighed as well and flew back over to the spawn point building and went inside.
+
+“You better let me go.” Fire Dancer said through gritted teeth. “I'm healing already. Once I've regained my Mana, I'll burn through these restraints, then I'll burn through your toy.”
+
+Ren climbed onto the bed and straddled her waist, and then his hands started to glow.
+
+“Wh-what are you doing?” Fire Dancer asked with wide eyes.
+
+“I'm saving you.” Ren said and moved his hands towards her neck.
+
+“N-no! Don't... don't...” Fire Dancer tried to squirm and get away, but Ren had placed the straps well. He knew exactly how to secure someone so they couldn't move, because it had been done to him many times before. Ren's glowing hands touched her neck and the Fire elementals that made up her clothing flowed away from them. He moved his hands down to the spot above her heart and she cried. His Fire Manipulation ability stopped the tears from falling, however.
+
+“NO! No. Please, Father.” Fire Dancer pleaded. “Whatever you're doing, please stop.”
+
+“This is an Anti-corruption spell.” Ren said, sadly. “I honestly didn't think it would work.” He looked at her 'clothing', and it barely covered her modesty. “I felt something when I first saw you after all this time, and I thought it was just thousands of years of resentment.”
+
+“It was!” Fire Dancer said.
+
+“It's not.” Ren said. “Oh, the resentment is there, no question. That's why I didn't even try to mitigate it or try to absorb some of it. You needed to work through it on your own, and the only way I could help was by being there for you.”
+
+“You weren't helping me! You were helping yourself!”
+
+“Of course I was.” Ren admitted, and he felt her surprise. “Just being around you, even as angry as you were, made me so happy.” He said. “My beautiful daughter. You know I would forgive you almost anything.”
+
+“Almost anything?”
+
+“Yes. You know I would never allow you to hurt someone I care about, and that was how I discovered what was wrong with you.”
+
+“There's nothing wrong with me!” Fire Dancer spat.
+
+“Denial of the facts doesn't make them untrue.” Ren said and lifted his right hand as his left slid over slightly to frame her heart. He activated his Hands of the Gods ability Burning Hands and covered his hand in pure Fire. Fire Dancer gasped at its appearance and shivered in both the good way and the bad way.
+
+“D-don't...” Fire Dancer whispered.
+
+Ren formed the pure Flame into a blade that surrounded his fingers. “I'm sorry about this, Honey.”
+
+“NO!” Fire Dancer yelled, then Ren plunged the Fire Hand Dagger into her chest and through her heart. Fire Dancer screamed in pain and anguish as her father tried to kill her.
+
+“You... can't escape...” Ren mumbled and closed his eyes, dismissed his ability, then used his fingers to dig around inside her heart. “You... were sneaky.” He said. “Hiding in plain sight.”
+
+“F-father! Please.” Fire Dancer writhed in pain. “You're... killing... me!”
+
+“I'd never... do that.” Ren said, then he flung his eyes open. “I got you!”
+
+“NOOOO!” Fire Dancer yelled as Ren made a fist and pulled his hand out of her chest. Just like a volcano erupting, Everlasting Fire burst out of her chest with the extraction of his hand. Ren still had his left hand over the wound, so he used his Fire Manipulation ability to catch all of that Fire and shoved it back inside of her. He used his hand to hold the torn wound together, then he poured 200,000 Mana points into her.
+
+Fire Dancer's whole body glowed for several moments, and then all the damage she had suffered faded away like it had never happened. She laid there on the bed, completely stunned at what had happened, and stared up at her father.
+
+“Don't worry, you'll be fine.” Ren said and she couldn't respond. He smiled at her and waited for several minutes for her to recover, then he removed his hand from above her heart and moved off of her to kneel beside her on the bed.
+
+“Wh-what did you do to me?” Fire Dancer asked.
+
+“I... well, I...” Ren wasn't sure how to answer. “It's a little hard to explain.” He held out his still-clenched fist and opened it to show her what he had grabbed from inside her heart. It was a Greater Fire elemental, and it was trying hard to break free of Ren's Fire Manipulation ability that held it immobile. It was burning nearly white hot as it struggled, and the sounds it was making were quite loud.
+
+“What... no... I...” Fire Dancer mumbled for a moment, then she frowned. “I consumed you!”
+
+The Greater Fire elemental made several snapping branch sounds and a roaring fire sound.
+
+“That's not possible! I felt the power boost from your death!” Fire Dancer responded.
+
+A crackling fire sound and another couple of branch breaking sounds came from the Greater Fire elemental, and she sighed.
+
+“So, enough of you lived to stay inside of me.” Fire Dancer sighed. “All this time, you've been gathering your strength.”
+
+The Greater Fire elemental's color shifted from almost white to orange in acknowledgement, and Ren felt Fire Dancer's emotions change to rage.
+
+“I'll kill you!” Fire Dancer exclaimed. “Father, let me go! I need to kill him! Let me go right now!”
+
+“No. I'm not going to let you get caught in the same trap.” Ren said, and activated his Hands of the Gods ability Freezing Hands, and changed the Greater Fire elemental into Ice. Fire Dancer gasped at this move, and her eyes darted from Ren's face to his hand.
+
+“F-father!”
+
+“It's okay. It was just a facade.” Ren said and slapped his hands together. The Ice-converted Greater Fire elemental shattered into ice dust, and then Ren cast a Magical Barrier of Protection around his hands and folded them open. Once again, Fire Dancer gasped at the sight.
+
+It was a Void creature.
+
+It spit and hissed and became a sludge puddle, then it tried to flit away in a long stream of black goo.
+
+“Wh-what... how...”
+
+“I have no idea.” Ren said as the Void creature bounced off the magical barrier and hissed again. “My guess is that it must have infected one of the Fire elementals before you ate it.”
+
+The creature tried going in every direction and didn't realize that the barrier had 360 degrees of coverage and it couldn't escape.
+
+“It's pretty powerful, too.” Ren said.
+
+When the Void creature discovered that it couldn't escape, it turned its attention to Ren and splattered onto his hand. It tried desperately to cause damage of some kind so it could get inside.
+
+“Now, we can't have that.” Ren said and changed his Hands of the Gods ability from Freezing Hands to Forbidden Hands, which was his Anti-void / Arcane version of the ability, and the Void creature screeched bloody murder and tried to get away from the black energy that covered Ren's hands. The creature splattered against the magical barrier and tried desperately to find a way out.
+
+“What are you doing?” Fire Dancer asked.
+
+“I'm tempted to wring this creature's body until it expires; but, I stooped to that level once and I swore that I'd never do it again.” Ren said and poured Anti-void energy out of his hands and immediately filled the magical barrier, then felt the creature dissolve and expire after a few moments.
+
+Notice!
+
+You have extinguished an ancient Void creature known as 'Legacy'. Because of it's long-lived nature, surviving for thousands of years, it had gained a special ability Longevity.
+
+No XP gains are possible.
+
+“Huh.” Ren said. It had a name.
+
+System Notice!
+
+As a Chosen of Vasalor, because you gained nothing from killing an ancient creature, you can choose to copy its special ability Longevity.
+
+Do you want to do so? Yes / No
+
+Yes. Ren thought.
+
+Notice!
+
+You have gained a special ability: Longevity. Both your Endurance and Vitality stats have been maxed at 99,999 and your lifespan has been increased from the elfling standard (150 years) to the High Elf standard (500 years).
+
+Whoa. Ren thought in surprise and deactivated his Hands of the Gods ability.
+
+“What is it? What happened?” Fire Dancer asked when she felt his surprise, and there was concern clearly in her voice.
+
+“The Void creature had a name.” Ren said. “It's the first time I've found one like that.”
+
+“What do you mean?”
+
+“I have the Void Bane title.” Ren said. “It lets me sense Void presences and influences within my Aura.” He explained. “Normally, I can just activate my Aura and hurt them, but that thing...” He shook his head. “I think it was protected because it was bonded to that Fire elemental, just like that Minor Demon had been bonded to Glastor during the arena fight.”
+
+“You couldn't hurt the Minor Demon until you removed it.” Fire Dancer said, and Ren nodded. “How did you know I had it inside of me?”
+
+“I didn't, not really.” Ren said, and he felt her anger rise. “I knew something was there, but not what it was.” He held his hands up in surrender. “Not until I cut into your skin and felt it directly.”
+
+“But...”
+
+“It started to panic and tried to flee when I pierced your heart, which gave it away immediately.” Ren said. “Once I knew where it was, getting it out wasn't that difficult.”
+
+“You cut open my heart and you didn't even know it was there?!?” Fire Dancer exclaimed as her anger flared. “You bastard! I'll wring your goddamn neck! Let me go right now!”
+
+Ren chuckled. “Easy, now. I knew whatever it was would be in your heart.” He said and touched her face. “That's the strongest part of you, so it had to be there. It wasn't going hide in your foot or in your ear, would it?”
+
+Fire Dancer didn't respond, but he felt her grudgingly accept it.
+
+“Hiding in your heart would make it easier to control you, especially since I believe all of your Fire comes from there.”
+
+“Yes, it does.” Fire Dancer admitted.
+
+“Now stay still.” Ren said and placed his hands on the spot above her heart.
+
+“What are you doing?”
+
+“Removing the rest of them.” Ren said and concentrated on his Anti-void Aura. Since he was now 1173 feet tall, 8 times his normal size, his Aura had expanded by a factor of 8 as well. It went from 1,000 feet from him to 256,000 feet from him, making it a circle 512,000 feet wide. He concentrated on the artificial Aura he spent years constructing and merged his Aura with it, and his Aura expanded to cover the whole realm.
+
+“F-father.” Fire Dancer whispered as she felt the strength of Ren's Aura.
+
+“This might hurt a little bit.” Ren said and activated his Hands of the Gods ability Forbidden Hands, and poured it into her.
+
+“AHHH!” Fire Dancer yelled in pain as the dark energy covered her, then the pain stopped. “Wh-what...”
+
+“Your clothes were tainted by the Void.” Ren said, and she felt her clothing dissolve.
+
+“Father! It's made of fire elementals!”
+
+“Yes, it was.” Ren said. “Not anymore.”
+
+Fire Dancer wanted to look, but she was still secured to the bed. “Father, let me up!”
+
+“In a minute.” Ren said and closed his eyes. “Now the hard part.”
+
+“What?”
+
+“I need... need to... just....” Ren panted and started to slump over.
+
+Fire Dancer felt his Mana and energy drain as he struggled to spread his Anti-void energy out into the artificial Aura. “Father, free my hand...”
+
+Ren lifted one of his hands from her heart and removed the strap on her wrist. “Help... me.”
+
+Fire Dancer lifted her free hand and tore his shirt open, then put her hand over his heart. “Open your heart to me.”
+
+“It's... always been open... for you.” Ren said and took a deep breath. “You're blocking... not me.”
+
+Fire Dancer blinked her eyes for a few moments, then she realized he was right. “Father...”
+
+“Quickly.” Ren said.
+
+Fire Dancer nodded and then her Aura merged with his. She caught her breath as she felt everything he felt, and her whole body glowed the color of blue flame. That flame spread to Ren and covered him as well, and he stopped slumping over and stood strong.
+
+“Father, I...”
+
+“Let's stop this bad influence before it gets away.” Ren said. “Don't just lend me your strength. Share it with me.”
+
+“I... I don't know how.” Fire Dancer admitted.
+
+“I do.” Ren said and dissolved the straps holding her down and pulled her up from the bed. He kept his hand over her heart and put his free hand behind her back to hold her close. “I love you, Honey.”
+
+Fire Dancer felt his sincerity, and as his love poured into her, her eyes gushed tears. When the tears hit the floor, they became baby Fire elementals and climbed up onto Fire Dancer and slowly became her clothing again.
+
+With their combined power, the Anti-void energy quickly spread throughout the realm. All of the Fire elementals that were infected by the Void taint when they were created by Fire Dancer, both Greater and normal, were covered by the energy. They were consumed by the dark energy and disappeared, and it left the realm that much emptier when they were done.

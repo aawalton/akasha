@@ -1,0 +1,105 @@
+---
+id: 68e84062-448e-5c69-a96d-b8da15e51c2a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 559: Concerns"
+slug: 0126-chapter-559-concerns
+partOf: rise-of-the-living-forge
+position: 126
+ownLength: 1740
+unit: words
+ownProgress: 1740
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3059747/chapter-559-concerns"
+royalRoadId: "3059747"
+markedReadAt: "2026-06-29T20:02:28.420Z"
+---
+
+The man sitting behind Neil who had spoken out against the Menagerie hadn’t said a word since the auction had started. It wasn’t hard for Neil to guess why. The Menagerie had put up a total of six magical items for sale already. All of them had been Epic Rarity — and each one of them had been made by Ifrit.
+
+Neil couldn’t help but feel more than a little awe for the guild. And he wasn’t the only one. He was willing to bet that almost none of the people attending the auction today had come here expecting anything like this.
+
+The Menagerie were a new guild. They’d proven that they were interesting from their performance in the Proving Grounds as well as the other feats they’d pulled off in recent times, but they were still a relatively new guild.
+
+Just about everyone here had come to the auction to establish connections. The Menagerie were a new, young guild. The selling point of such a thing was the potential. All of them respected the risk they were taking trying to hold an auction, but at the same time, they’d all known this should have been a show.
+
+The Menagerie should have put up a few decent items that they’d gotten their hands on. But the real sales were meant to happen after hours. Most of the people here had come for the trade deals that could be accomplished after the auction was done.
+
+Sure, a few had come because of Ifrit himself or for a variety of other reasons, but Neil was nearly certain that nobody had expected anything truly significant at the auction. But it was clear that the Menagerie hadn’t seen things the same way.
+
+They were out for blood. The fact they’d managed to gather this many Epic items that they could afford to give away without hampering the growth of their guild was impressive on its own. But Ifrit himself had made them.
+
+It must have taken the smith months of preparation and work to get this much ready, and only the gods knew how many other pieces they’d prepared. The Menagerie were surely betting just about everything they had in an effort to show they were more than just some new guild with a few little interesting pieces of equipment.
+
+And Neil respected that.
+
+A move like this had so many ways of going wrong. If the auction went poorly, or if they failed to keep the hype up into the next two stages… well, they’d be in trouble. Talking big game only worked so long as you could keep it up.
+
+But Neil was finding himself hoping that they could. This was more fun than he possibly could have expected. Ifrit had put his money where his mouth was. The Menagerie was almost certainly betting on people eventually giving them items to put up for auction in the later stages, of course.
+
+He wasn’t even bothered. If they got that far, then they’d more than proven that working with them was worthwhile. Anyone willing to take such a ballsy risk deserved to have it pay out if it worked.
+
+The real question was if they’d be able to keep this up for much longer. Ifrit couldn’t have spent every waking moment he had locked up in a room preparing items for this auction. There would have to be an end to the flow of their Epic Rarity items eventually. Everyone knew that. The question was when that end would happen.
+
+With every new item that Madiv put up for sale, Neil felt the tension in the room rise. People were bidding faster and faster as they fought to get their hands on the offerings. Sure, several of their earlier pieces had sold for well below what they should have.
+
+But the Menagerie didn’t seem to care. And, at least to some extent, their strategy had worked. People all over the room were bidding. Even many of the higher-ranked guilds in the lower seats of the Mausoleum were putting down bids on items that they probably couldn’t have cared less about, if only to show their respect for the Menagerie.
+
+And once the big fish started to bite… the small ones would too.
+
+The price of the items was steadily going up. And while the newer ones were getting a bit more interesting, the increase in price wasn’t quite correlated. The Menagerie weren’t just showing off their weapons or running some show auction. They were selling the abilities of their guild.
+
+Still… something was off. There had yet to be a single bid from any of the VIP rooms. The people in those were unlikely to have come here for no reason. They were either large guilds or adventurers who had paid the Menagerie enough to get a private room for the auction.
+
+It didn’t make much sense for powerhouses like that to have avoided bidding entirely. The amounts that the items were going for were still incredibly affordable. For anyone from a major guild trying to make an impression on the Menagerie, buying a few of these items would have been painfully easy.
+
+But the Menagerie couldn’t have had that much more in stock. Even if they’d saved their best items for the last two segments of the auction, it was unlikely they’d have anything that would truly interest these major guilds.
+
+Except that was exactly how the VIP rooms were acting. The only reason they’d refrain from participating entirely up until this point was because they were actually saving their money to be able to compete at a later point during the auction.
+
+Do they know something we don’t? Is there some kind of insider information that got out about an item the Menagerie is going to have up for auction? Something powerful enough to make even guilds like that need to be cautious?
+
+And if that’s the case… shit.
+
+I wonder if I should toss them something to sell. At this rate, some of the people in the VIP rooms might have enough fun watching the chaos that they could toss the Menagerie something actually pretty good. If the auction keeps growing… I can’t believe it, but I might not have brought enough gold for this.
+
+I can’t head back to Bronze Dragon empty-handed. This is exactly what the Menagerie was banking on, wasn’t it?
+
+Damn. Well played to them. I don’t think I’ve got a choice. Almost everyone else down here is in the same spot. Nobody knows when the 2nd round of the auctions will start, so every single item here could be the last one. This is the 6th item already. They’ll probably have 10 items in this round at the absolute most. Anything else would have required far too much time to prepare. And if the Menagerie runs out and the next best item is something really good… shit. I won’t be able to buy a single thing.
+
+Neil wasn’t the only one who had started to feel the pressure. He saw coils of green smoke twisting before several of the other members in the audience. They were doubtlessly offering the Menagerie items of their own to sell.
+
+It was a bit of a risk. They were eating what very well might be a lower earnout for their sales… but the temptation was just getting a little too strong to resist. The Menagerie had put such a bold foot forward that it was forcing just about everyone’s hands.
+
+Neil shook his head in disbelief as Madiv sold off the 6th item and immediately started up the auction for the 7th.
+
+Just how far ahead did they plan this?
+
+***
+
+Arwin polished off one of Lillia’s pastries. He washed it down with a sip of ale, trying to force down the butterflies in his stomach. Even though he wasn’t doing anything at all, he couldn’t help but feel worried for Madiv.
+
+The vampire was under an immense amount of pressure. This strategy wasn’t exactly an easy one. Even the smallest crack in the crowd’s confidence would bring everything crashing down on their heads.
+
+“Do you think anyone’s realized that I made everything in like… a few days?” Arwin asked nervously. “I mean, those items kind of suck. We’ve saved so much of the better stuff for later on in the auction. Maybe we should have spread things out a bit more.”
+
+“I don’t know,” Lillia admitted. “But I think the pieces are selling pretty well. I don’t think there’s anything to worry about right now. We’re getting great prices and we aren’t even to the important part of the auction yet. All this gold will be great for fixing the street up even further. We could probably even open an isolated bathhouse so Uriel stops complaining.”
+
+“That would be nice,” Arwin agreed.
+
+He and Lillia peered over the edge of the VIP room to look down at the crowd below. It was certainly high energy. Bids rang through the air and quite a few people seemed to be offering items up so the Menagerie could sell them.
+
+Everything was going just about as close to the plan as it could have been.
+
+“The real trouble will probably start popping up after the first round of the auction is done,” Lillia said as she lowered herself back into her chair. “Nobody has tried anything yet inside the Mausoleum. There are probably too many powerful people they don’t want to piss off. But the moment people start heading outside… there are vultures.”
+
+“Hardly a surprise,” Arwin said. “We knew there would be. Rodrick and the others are ready for it. Anyone that tries to pull something stupid between the rounds is going to have another thing coming for them. And hey, it’ll get us even more shit to toss up in the auction. They might have something good on them.”
+
+Lillia let out a snort. “That’s true. Then I’ll look forward to it. By the way, how many more items did you, Wallace, and Koyu make for the first round? I can’t remember. I was focused on making enough food to last the entire time.”
+
+Arwin scratched the back of his neck and glanced back down at the auction platform.
+
+“I don’t know. Like… 20. You think that was too little?”
+
+“No idea,” Lillia replied. “I suppose we’ll see.”
+
+Arwin let out a noncommittal grunt. “Yeah. I suppose we will.”

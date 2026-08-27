@@ -1,0 +1,221 @@
+---
+id: 5b16fc0c-28e9-5a5a-933a-efac69a25984
+page-type-slug: story-chapter-royal-road
+title: "Chapter 346 : Insight"
+slug: 0047-chapter-346-insight
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 47
+ownLength: 2218
+unit: words
+ownProgress: 2218
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3017409/chapter-346-insight"
+royalRoadId: "3017409"
+markedReadAt: "2026-06-29T19:43:22.352Z"
+---
+
+Leon sighed as he continued trying to fix the crater that was left behind. He was a builder, a constructor, a creator! And yet, now he was humbled to the menial task of a landscaper.
+
+While he wanted to complain, the arachnid assassin that called itself Vee was a harsh mistress, and he'd receive punishment for disobedience. The worst part was that she called it "justice for trying to destroy such a beautiful island".
+
+Of course, attempts to flee had crossed his mind multiple times, but any attempts had been quickly thwarted—it was as if the entire island was spying on him! He'd long since postulated that the spider had turned the whole area into a hidden domain of web.
+
+At least it isn't all doom and gloom. The food she's provided is quite adequate.
+
+According to Vee, they mainly were killing time until this "Syl Slime" person appeared. According to the spider, this slime could not only temporarily recreate resources he could only dream of, but even permanently duplicate ores and minerals.
+
+Magical tutelage was also mentioned, but Leon had scoffed at the idea. Who needed magical mumbo jumbo when you could rely on your keen wit?
+
+Hopefully, the spider keeps her word of letting me off the hook once this slime sees me. While it appears that she can't kill me, she still can keep me eternally trapped.
+
+Leon had to admit he was curious to meet this supposed benefactor. The incessant whining of the buffoon in the void was certainly reason enough. The other reason was that after he "agreed" to work with Vee, he had received a strange notification.
+
+<Quest received: Meet Syl. Reward: Insight.>
+
+Leon had never heard of quests before; since when was this a function of the system that he was provided? At one point, he had gotten something called achievement twice, in fact, but it had never occurred again.
+
+He was tempted to try to pry the information out of the spider, but quickly snuffed that thought in favor of hiding some of his cards. The reward after all was insight, and perhaps this was the key to his great escape?
+
+I can only hope…
+
+He continued toiling away while biding his time. Patience was on his side, and it was what allowed him to eventually escape from the clutches of the mermen.
+
+While he was plotting, something suddenly changed. Two figures suddenly teleported nearby. He knew one was the spider; the creature constantly flaunted its ability to break the laws of physics, as if it were a joke. However, the other was someone else, a blueish humanoid woman with pointed ears and long hair.
+
+It's the bloody slime elf!
+
+He quickly retreated into his shell. He had made it clear he wouldn't reveal himself while she was directly present; after all, he wasn't going to expose his neck to such a deadly assassin.
+
+"Leon!" Vee exclaimed excitedly. "I got someone I want you to meet. Say hello to my friend and travelling companion, Syl!"
+
+Before he could react, he felt another presence linking up to his mind. Compared to the spider, for some reason, it made him feel very… small. But before he could muster a response, something else was triggered with a ping.
+
+<Quest completed!>
+
+<Emblem [Will to Survive] acquired.>
+
+An emblem?
+
+Leon was confused; he'd only obtained one as a reward for killing hundreds upon hundreds of sea monsters. Ignoring the [Experiment] one he had from the start, of course.
+
+<[Will to Survive] You did everything to survive—running, hiding, fortifying anything that wasn't nailed down, and possibly gnawing through a few obstacles along the way. Truly admirable. Even against hordes of monsters, the army of an entire species, and an indescribable horror beyond your understanding, you still lived. At this point, you're basically a cockroach. When the world ends, it'll be you and the roaches comparing bunker layouts. Once per week, you can survive a lethal blow and recover a quarter of your lifeforce. While this Emblem cannot be equipped for further bonuses, it allows you to utilize the ability [Threat Assessment]. Keep on surviving!>
+
+This!
+
+Leon was shocked, not just by how strangely personal the description of this text was, but also by its ability! If he could dodge death once a week, then he needn't be so scared of these two bullies.
+
+The one thing he couldn't understand was why the reward was labeled "insight," since it hadn't revealed any new information to him. Was it a misprint? Or perhaps he was supposed to use this [Threat Assessment] to get his insight.
+
+It sounded logical, so he quickly used it, targeting the spider. He wasn't sure what to expect from this new ability, so when a notification popped up, he was a little surprised.
+
+<Imminent Doom – Running is no longer cowardice; it is strategy. Hopefully that's still an option for you.>
+
+Leon couldn't help but glare at the mocking tone he felt from the text. He already knew he wasn't a match in an upfront fight against the spider and desperately wished to run away.
+
+He was already questioning the value of this "insight", but still wanted to use it on the slime elf before him. The spider was a somewhat known variable, but this gelatinous humanoid creature was a mystery. At the very least, he could compare the result against the spiders.
+
+<Utter Annihilation – The final, absolute, "nope". If you can still read this, congratulations—you're already doing better than expected.>
+
+Leon choked. Not only was the text ominous to the extreme, mocking his situation, but even activating the ability filled him with a sense of indescribable dread. He quite literally felt like his life was on the line, and the attempt at gallows humor in the message had done nothing to calm him.
+
+He knew he could no longer delay his response; the situation had been bordering on awkward now for far too long! He also realized that the "insight" was how perilous his problem was. His only hope was to make a good impression, yes, the spider did mention that this slime was a friend.
+
+Leon mentally steeled himself. He needed to sound confident, make a good impression, and not let them know he was shaking inside his shell. He took a deep breath, and—
+
+"H-hello…" Leon finally stammered out.
+
+***
+
+It didn't take too much longer for me to finally reach the surface, where I exited the water after changing to a roughly humanoidish form and sprouting a pair of wings.
+
+"It feels good to be out of the water finally!" I cried out, giving my arms, legs, and wings a good stretch.
+
+I could sense Vee was extremely close by, so I quickly headed in that direction and finally discovered how she'd managed to stay in this region for so long.
+
+"An island!"
+
+It was relatively big from what I could see. Although looking at it, I almost felt like something was slightly off, as if something had gone missing unnaturally. When I noticed a massive crater near the center of the island, I could only imagine what used to be there.
+
+The strange thing was, I noticed signs that the explosion must have been recent—I was an explosives expert after all! Yet despite that, the surroundings seemed relatively untouched. For such a massive crater, it should have easily wiped out everything on the island.
+
+A controlled explosion? An implosion? Or something else?
+
+I couldn't help but wonder if a particular spider was behind this situation, and so I directly sought her out. I knew she could teleport to me, but since she couldn't fly, it would be more convenient if I went to her, so I sought her out.
+
+[Soul Sense] picked up signs of her [Rift Thread] forming a loose "perimeter" over the island. Although even calling it loose was being generous, as it looked like there was barely more than a single piece of thread.
+
+"How is it floating though…?"
+
+Before I could surmise a reason, Vee abruptly appeared standing atop the floating thread. One of my [Sub-Cores] instantly reconnected our telepathic link upon her arrival.
+
+"Syl! You're back!" Vee said excitedly.
+
+"Hey Vee," I replied with a smile and gestured at the island below. "Looks like you've been busy."
+
+"Amazing spot, right?" She gloated. "I think we can officially declare this our base of operations!"
+
+I nodded. "It's definitely remote enough, and hopefully in a month or two it will be free of any potential threats."
+
+"What potential threats are you talking about?"
+
+"Well, the mermen were down below us. You could say this island fell under their territory," I explained.
+
+"I'm sensing a but…"
+
+"But I destroyed their city and took out their king and queen."
+
+"Oh… Is that it?" Vee asked, almost sounding disappointed. "Looks like you're now Syl the Kingslayer."
+
+"Sadly, it didn't come with an Emblem. But it did trigger a sort of event…" I explained, feeling Vee's judging eyes on me. "Now I'm marked, and their remnants will seek me out for revenge."
+
+Vee silently paused for a moment before finally responding. "Unless they have more kings and queens, is that really a threat?"
+
+"No, more of an annoyance if anything," I admitted.
+
+"So what happened to your girlfriend?" Vee asked.
+
+"Girlfriend?"
+
+"Vanessa."
+
+I frowned. "Well, she was a mermen for one thing."
+
+"Oof… Fish tail not do it for you?" Vee snickered.
+
+I rolled my eyes. "I'm not sure where she is. I assume she will eventually come here for revenge."
+
+"Wow. You're really bringing back a lot of baggage," Vee said sarcastically.
+
+"I did manage to recover quite the haul of stuff," I answered with a nod.
+
+"No! Not that type of… Ugh! Forget it," Vee grumbled.
+
+I gave Vee a brief version of everything that happened. While she was impressed by what I'd gone through and achieved, she sadly didn't share my revelry over my explosive solution.
+
+I also handed her one of those deep-sea charms, explaining that it would protect her from any ill effects from down below. Vee was naturally delighted by having more trinkets to add to her collection.
+
+"I'm shocked you aren't running off to swap to Riftmancer," Vee pointed out.
+
+"I want to get the hang of this [Chaos Elements] thing for a bit. If I can make a frosty fire spell, I think that would be great."
+
+"Frostflame," Vee suddenly said.
+
+"Oh, that's a good name!"
+
+Vee grumbled incoherently before shaking her head.
+
+"Right! That reminds me, what's up with your [Rift Thread]?" I asked.
+
+"What? Is something wrong with it?"
+
+I pointed at it. "It's floating. You couldn't do that before."
+
+"Oh! I got a new spell called [Lock]," Vee answered, a hint of pride in her tone. "It lets me lock the coordinates of something. If I use it on my [Rift Thread], it seems to last nearly indefinitely from what I can tell."
+
+"Wow. I thought you hated making new spells?"
+
+"It was kind of a spur-of-the-moment thing," Vee admitted. "Little did I know I'd unlock a real registered spell early, and be rewarded for it."
+
+I sighed. "Damn, I was hoping I could surprise you with that. I did something similar with [Steam Magic]."
+
+"Well, if we are talking about surprises, I think I've got you beat," Vee mischievously giggled.
+
+"I think my finding and destroying Azulean beats your island," I said defensively.
+
+"Nope! It's not the island," Vee smugly revealed.
+
+My curiosity piqued, but Vee continued before I could inquire further.
+
+"Quickly, turn into your elf form and follow me to the big crater," Vee instructed.
+
+"My elf form?" I replied hesitantly. "I don't know if that's a good idea…"
+
+Vee sighed. "If you don't want to turn into Princess Sylthaeryn, then just turn into a slimy blue elf."
+
+"Don't you mean Queen Sylthaeryn?" I corrected, causing Vee to burst with laughter.
+
+I groaned, realizing I'd really put my foot in my mouth with that one. I was so used to her teasing that I'd accidentally started accepting it.
+
+When Vee calmed down from her fit of laughter, I did as she requested since I didn't really see any reason not to. I basically took on a vague representation of my usual elf disguise while keeping everything a solid blue.
+
+"Great, now follow me," Vee said, apparently happy with the result and vanishing towards the crater.
+
+I teleported after, arriving effectively at the same time. I instantly sensed another creature was present.
+
+"Syl, meet Leon!" Vee chirped.
+
+I was shocked. "You found him!?"
+
+"Yup! Now link us up so you can hear him," Vee requested.
+
+I spotted who she was referring to. Although from my current perspective, it was just a white shell, and there wasn't a creature in sight. I threw out an [Identify] and was startled by the result.
+
+<Leon [Ocean Scourge]; Bulwark Builder Crab LV 17; Bastionwright LV 31; Novice Artificer LV 6.>
+
+Two classes!?
+
+I was immensely jealous but held my tongue. At the same time, I reached out with [Telepathy] and connected with the creature. Despite connecting all three of us, there was only silence. An awkward amount of silence.
+
+I was just about to respond when suddenly, a nervous voice croaked out. "H-hello…"
+
+Wow, did he get that from Unc?

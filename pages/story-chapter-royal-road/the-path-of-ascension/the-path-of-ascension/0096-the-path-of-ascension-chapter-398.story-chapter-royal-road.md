@@ -1,0 +1,327 @@
+---
+id: 474b83b3-61da-5df5-8067-7a8513820259
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 398"
+slug: 0096-the-path-of-ascension-chapter-398
+partOf: the-path-of-ascension
+position: 96
+ownLength: 6200
+unit: words
+ownProgress: 6200
+publishedAt: 2025-03-24
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2148372/the-path-of-ascension-chapter-398"
+royalRoadId: "2148372"
+markedReadAt: "2026-06-29T19:21:03.618Z"
+---
+
+Chapter 398
+
+The commotion was so loud Matt automatically dampened the sound around the children. Even with the masks they were wearing, the sound wave was nearing a dangerous level.
+
+Activating a function of the ballroom, Matt started rearranging the rooms into a more traditional layout that would best accommodate this many people. It would take a few minutes for the rooms to make the changes safely, but that just gave him time to deal with the initial rushing waves of people.
+
+With a wave of his hand, Matt floated the children to his side while the scientists and his guild leadership, led by Kees, moved away to make room for those who would settle for not talking directly with him.
+
+Matt personally considered those people the smart ones, as they would get more time and better information from the people on the ground, but that was the downside of being a public figure.
+
+The smartest of them all beelined for the kids who were both the primary target audience and the only ones with personal experience in making the skills in question. He noted them down as people he might be able to work with later if they had any other developments in the field.
+
+Beyond individuals, he paid attention to who arrived relative to their cultivation bases. With mortals present, young mortals at that, most everyone was moving at Tier 1 speeds, but Matt still wanted to note who was willing to break protocol and rush down. In their midsts would be the ones truly interested in this new product.
+
+He’d just have to sift through the sycophants, people who ignored the kids' safety, and the ass-kissers who were just trying to get closer to him. He’d have to do that no matter what, so it was well worth the effort.
+
+The first person to arrive was a fellow duke, followed by a guild leader who both wanted to adapt the skills for their own people and wanted to talk about the implementation pitfalls he had run into. Matt was happy to speak with them, even if all of the information they wanted was what had already been made available in the information packets on the ballroom’s LocalNet.
+
+The next person was far more interesting: Piers Dencourt was only Tier 42, but he was the CEO of LifeLike— a VR game company. Their current largest hit was a semi-realistic battle royale that allowed people to fight each other safely, with abilities that spanned from the most basic of skills to effects rarely seen in even the most esoteric Domains and Talents. But they had countless games spread across the genres.
+
+“Ascender Titan. This is brilliant. A feather in your cap for sure. A discovery for the reign, if I’m not being too presumptuous. Though I’m not sure discovery is the right word. Creation maybe?”
+
+Matt played things humbly. “Both work, but this isn’t on me. We were given the information by someone who wishes to remain nameless and uninvolved. My guild then took that, refined it, and made it more palatable for the masses.”
+
+That revelation seemed to surprise people, but that didn’t stop Piers from pitching his idea. “With your blessing, Ascender, and in the spirit of you sharing this information freely, I wish to create sims where the unawakened could try out these skills and get a feel for which of them they might resonate with the most. For no cost, of course. Even just two years isn’t a small amount of time investment for a mortal, even if it's not burdensome, let alone four. It would be regrettable if someone decided they wanted to change their mind after a year or more.”
+
+Despite saying it would be free, Matt knew Piers and his company would gain massive amounts of wealth as people, once introduced to their products, stayed inside their ecosystem. But he was fine with that.
+
+A free product which could help people decide if they wanted to create one of his skills was a fantastic idea.
+
+Once he gave his unneeded blessing, Piers made his way to a teleporter and exited the ballroom, no doubt rushing to get his product out before anyone else beat him to it.
+
+The next in line moved forward— Dominus Maniake— who wanted to congratulate Matt, followed by the rest of the more important ducal families.
+
+They were interested, albeit in ways that surprised Matt, even though they probably shouldn’t have.
+
+They liked what they saw in the demonstration. Really liked it. Liked it so much they wanted to hire his guild or the research teams which worked on the skill creation project to create custom iterations on the skills or wholly new skills that better fit their families’ needs.
+
+Dominus wanted a variation of the flame weapon specifically made to work with claws and teeth, preferably in a variety of elements to fit better with his family's draconic forms, while the others all had similar requests.
+
+Matt tried to explain to them exactly how hard it would be to develop such skills while retaining the simplicity which made it possible for lower Tiers to create in their spirits, but all of them seemed undaunted and persisted. Giving up, Matt pointed them to where the guild’s process documents were available and gave them his blessing to try and hire out the researchers who had worked on the project.
+
+If they wanted to pay his people exorbitant amounts to leave the guild, he’d wish both parties the best with no hard feelings. He wasn’t going to stand in their way, but suspected that it would be harder than the nobles thought to tempt his people away.
+
+All of the research teams had their guild rewards waiting for them when they returned. Considering that said prize was funding for a project of their choice that they could sell if they so chose to do so, they could make far more by putting something on the open market rather than working with a single noble family. Unless the nobles in question were willing to pay exorbitantly.
+
+Either way, he genuinely hoped they were happy with their decisions.
+
+Though that did set a worrying trend, as people came seeking a partnership for making bespoke skills for their organizations.
+
+Thankfully, things started to blur together as he made small talk and helped the children show off their skills. He kept their mana pools full the entire time, but eventually their mortal limits started to show and they were returned to their parents to rest. Once they slept, they could— and did— choose to return to the event that would last at least a week.
+
+While they got to rest, Matt didn’t.
+
+Eyria de Solis was damn near the very last person he wanted to see among the sea of people Matt just hadn’t wanted to invite at all, but politics demanded he must. She was the owner of one of the larger training aid manufacturers and designers, as well as being the head of the training aid oversight board. Not that she wasn’t powerful in her own right, being Tier 45, but her real power came from her business acumen. She had spent the first five thousand years of Agatha’s reign rapidly expanding her market share to almost twenty percent of all the Empire's digital-based training models.
+
+Matt wanted to say she was just greedy like most businesspeople, but she was far more devious.
+
+Instead of expanding more and risking getting broken apart for becoming too strong, she had stopped her growth and led an effort to standardize the Empire’s mortal teaching systems. It had been no secret that Agatha was hammering down any threats to her or her descendants' rule. Stopping her expansion was her first smart move, but her stroke of brilliance was when Eyria closed ranks with the other trainer manufacturers to set the standards for such devices. Then she offered them to the Empire at-cost for mortal schooling, while also promising to keep them up-to-date and competitive.
+
+Matt would love to say that in Agatha’s place he would still have chosen to break up the oligopoly pretending to be a board of standardization, but he couldn’t. Even ignoring the two separate rebellions Agatha was putting down at the time, the trainer manufacturers were useful and offered to solve the schooling crisis the exploding populations were causing.
+
+Most of the trainer manufacturers got their start designing for noble families’ training retinues, and when Agatha took over, they branched into the expanding corporate world where they helped train low level new hires on their roles. But it wasn’t until later, when the guild system was implemented to act as a check to the nobles and business turned full on corporations, that the trainers’ business exploded.
+
+Guilds needed to train vast numbers of people to delve quickly, and so turned to digital training aids. It wasn’t perfect, there were growing pains and many losses, but it worked and the practice took off from there.
+
+When the populations really started to grow, they offered their efforts to teaching aids for the Empire, which gave them a shield from prosecution as they sold the product at-cost for schools.
+
+The problem was everything that came after.
+
+Having formed a pseudo-governmental oversight board, they effectively prevented an actual governmental oversight board from being created.
+
+They then used their positions to freeze out their non-conforming competitors and continued to leverage that position for the last fifty thousand years.
+
+And worst of all, Matt had already had a run in with one of their subsidiaries back when Titan’s Torch was first created. It had only been about a small rune conflict, but he had no doubt he had already earned himself an enemy with Eyria.
+
+Amusingly enough, Titan’s Torch had briefly, half a second at most, considered partnering with De Solis Instruments to manufacture their digital trainers for the skill creation methods. It wasn’t the products— despite their control over the market, the regulatory board genuinely did ensure good products were put out, and Matt himself had used several of their products growing up. Not just in his schooling, but his orphanage’s supplemental delving training had been aided by De Solis Instruments’ lessons, using their training dummies and mock magical weapons.
+
+No, it was their strict licensing and regulations they demanded of anyone who wanted to sign with them that made Titan’s Torch decide to simply build out their trainer themselves.
+
+Which made Eyria coming up to him just while things were winding down concerning.
+
+“Ascender Indomitable Titan. How lovely to meet you in person.”
+
+“Eyria. Thank you for coming. I’m sure you are a busy woman.” He didn’t know what else to say and didn’t want to engage in small talk for longer than needed, and so let her fill in the silence.
+
+“No more than you are, Ascender Indomitable Titan. Already Tier 27, less than a century after the war ended. Truly, you and your team are exemplars to the title of Ascender.”
+
+She ended her sentence by turning slightly to the displayed skills and their respective trainers for those attending the event to try.
+
+“I must commend you on the discovery. Who would have thought such a thing was possible? It's something I would have dreamed of as a child. In fact I’m pretty sure I had several day dreams of such a discovery. Throwing a [Fireball] was my and everyone else's dream at the time.”
+
+Matt wanted to call out her blatant attempt to humanize herself to him through their shared lower-class backgrounds, but he was surprised she was taking this approach and so decided to play along.
+
+“I’m sure that even with my background and its hardships, my life was a dozen times better than your own growing up under the old dynasty.”
+
+Instead of the reaction Matt expected, Eyria smiled. It wasn’t a devious or dastardly smile, it was genuine and came with depths that he couldn’t quite place.
+
+“I'd agree. Things were far, far worse when I grew up. I was born to a common family, but I was attractive enough to be plucked from the fields and into our baron's son's bed. I was property after all, and had no choice in the matter. Now here I stand while he’s nothing more than a distant memory, unable to create a Concept even with all of his advantages. To get myself back on topic, skills were heavily restricted. Anyone who had one was destined for a better life, even if it was just being one of the local nobles’ delving teams. They were awakened and free people. Little remembered fact, that. The nobles kept so many people from delving that rifts were at genuine risk of overflows. Some worlds had entire continents allowed to just overflow because it was too much effort to delve the rifts down. Other nobles gave lucky commoners the ability to rise above their station and delve. We all looked up to them as unreachable examples of freedom. The ability to cultivate at all was restricted, let alone skills.”
+
+Matt wanted to remain disinterested, but he hadn’t met too many people who were that old and willing to talk about their experiences under the old dynasty. Even Luna didn’t speak much of it during their history lessons, given how little it mattered in today's Empire.
+
+“And how did you begin to cultivate? I imagine it's not for a great reason, but color me interested.”
+
+Eyria’s smile turned sharp. “The second time Adro broke my pelvis, his father decided it was cheaper to get some essence in me than to keep paying for a healer to put me back together again.”
+
+Matt winced. He couldn't help it. He had expected it to be bad, but he hadn’t quite expected that level of callous calculation.
+
+Laughing, Eyria waved him off. “Don’t feel ashamed, Ascender Indomitable Titan. Many from my time who escaped their circumstances don’t like to talk about it. I won’t say I enjoy remembering, but it is what it is. It happened, and not talking about it won’t change that. It also doesn't change the fact that I escaped. I won.”
+
+That was a not-so-veiled threat Matt didn’t take lightly. Eyria and all of the higher Tiers hadn’t gotten to where they were today by being pushovers. They were as ruthless to themselves as they were to their enemies.
+
+He might not be as old as them, but he was Endless. He was Dauntless.
+
+“So because of your past you… what? Deserve to keep a monopoly over the trainer business? Are here to threaten me for the rights to distribute the skill creation method? Want to win me over by sharing your tragic history?”
+
+Eyria shook her head. “Nothing so droll. I simply wanted to make sure you understand why. But you're also not wrong. I do want to take over the distribution of this marvel. And marvel it is. I say this with no deceit or false motives. This is amazing and has the potential to change the Empire or even the Realm itself. That said, like all things, it's in the execution. Not just marketing, but in the ability to pass on information. Don't think I’m disparaging your guild's efforts. The trainers you put together are mechanically impressive, but they are lacking in the execution. It reminds me of what I was putting out tens of thousands of years ago. A partnership between us can ensure only the very best gets out there.”
+
+Having gotten to the meat of the conversation, Matt waited until Eyria looked back at him physically.
+
+“No.”
+
+That seemed to catch her off guard and Matt smiled, having succeeded. “The trainer works and that is the extent of my guild’s involvement. If there are new skills created with new effects, we will release them. Meaning a skill structure, a guide on how to make it, and a basic trainer meant to assist in the teaching. That is all. To that end, the trainer is entirely sufficient for our purposes. We used best practices and iterated on the design a dozen times. It might not be perfect, but it's good enough. Still, if you wish to make a superior product, feel free to do so. All of the information will be available for repackaging and reselling, so long as it's appropriately transformed or improved. I set the floor with my free product. Anyone can access it and it works but I do hope you or someone else swoops in and improves it. I just won’t sell it to anyone and let them take the market hostage.”
+
+Eyria opened her mouth before closing it. After a long moment, she barked a laugh. “I think you are making a mistake, but that's on a personal level. On a business one, I know you are. Still, I'll accept your challenge and make a better, easier to learn product. I’ll still make a fortune with it even if I can’t charge what it deserves.”
+
+That last comment irked Matt, especially after hearing what Aster was dealing with on their trip, and he didn’t censor himself. “And that's what I don’t understand. What it deserves. You had no hand in developing the product, you had no hand in it at all, but you seem so entitled to a pound of flesh from people who you should be sympathizing with. You gave me that spiel about your past, but did you forget it all in the intervening years? Just because you have a stranglehold on the trainer market doesn't mean you deserve a cut of any information that benefits from a trainer.”
+
+“I was trying to benefit both of us, Ascender Indomitable Titan. I—”
+
+“At the expense of everyone else. Eyria, I must excuse myself. Goodbye.”
+
+Matt turned on a heel and didn’t care that she was glaring daggers at his back; he was tired of the entitlement of the established players and tiptoeing around their interests.
+
+Everyone seemed to have established interests, and doing anything inadvertently stepped on their toes. While they had been delving, Titan's Torch’s intelligence officers had been digging through the attacks and everything he had learned from the Dobrescus, and had started to highlight the people Titan’s Torch had pissed off who were possible suspects.
+
+This new development just meant a new possible enemy, but that seemed inevitable.
+
+In fact, a part of him was hoping she was bad enough to join the coalition arrayed against him, as it would give his team an easier point of infiltration.
+
+Matt wasn't about to let himself just become a mana battery for anyone, but he was also determined to make the Empire, and therefore the Realm, a better place.
+
+It was his responsibility. He was the forerunner, the vanguard. In a fight, his place was at the very front, taking the hits and clearing the way for his team. He and his guild simply did that outside of a fight, taking the hits and forging a path for those behind him.
+
+That was where he belonged, the place he wanted to be. Not because others expected it of him, certainly not because he owed them anything, because he didn’t. He did it because it was his goal, his purpose, because he would use his mana the way he felt was right. It was because…
+
+Matt felt his spirit start to fluctuate, and immediately went into danger mode. If he was right about what was going on, and did anything incorrectly, he would cripple or kill himself. He could stop now and be safe, or carry on for the potential of greater rewards.
+
+It was barely even a choice. With incredible deliberateness, he took careful steps, not allowing his mind to deviate as his consciousness pursued a singular idea.
+
+He…
+
+Why did he do what he did? Why bother? Why why why why.
+
+Matt almost lost his train of thought but chased it down, refusing even the slightest misstep.
+
+He chose how he gave out his mana. He did it because he wanted to. He did it because…
+
+Because it was his life, his choice, his destiny. Not anyone else.
+
+I am the Master of my Own Destiny.
+
+Matt’s spirit pulsed deeply, a faint star opening deep within his Domain, and he felt the Realm settle in around him in a new way. It felt a bit like an Inspiration, yet nothing like one whatsoever. It felt like he had caught a glimpse of something deep, something profound, and the words were attempting to express the majesty of a supernova with mere charades. His Aspect had begun budding, and if he wasn’t mistaken, he’d just found a potential Truth.
+
+That same feeling told him it was his Truth and he just needed to build it out fully to realize it.
+
+It felt good. It felt right.
+
+The sudden restructuring of his spirit nearly sent Matt sprawling, but he took control of his limbs with [Flight] and didn’t so much as stumble, grateful that his veil was so good no one could notice the change. It would be inadvisable to give away his Domain development, or to make anyone think that the pressure was getting to him.
+
+He couldn’t turn his attention away from his Domain, though, and simply allowed his body to run on a fraction of his conscious mind as he continued his rounds, greeting people. He avoided anything too intensive, because he was far too obsessed with the fragment of an Aspect he’d suddenly found himself confronted with.
+
+Until recently, Aspects were the highest stage of Domain in the Realm, and as such a lot of the literature on the subject tended to treat them as a lot more… absolute than Aiden and Sword Saint Hastor had demonstrated in the last few centuries.
+
+But the basic facts remained the same. A Concept involved a Phrase and an Image, an Intent a Phrase, Image, and Anchor, and an Aspect required a Phrase, Image, Anchor, and Truth. Each stage added a new piece, a new means of actualizing your Self. Why the Concept required two parts was an ongoing subject of debate and research, with some people hypothesizing the Phrase was technically redundant and unnecessary, but the general idea was that the Phrase connected the Spirit to the mind, the Image connected the Spirit to the body, the Anchor connected the spirit to reality, and the Truth connected the spirit to the Realm.
+
+While an Image could be internal or external, and an Anchor could be claimed or created, a Truth could be enforced or enlightened.
+
+Scholars debated the right dichotomies constantly, with others debated whether the variations even truly existed, but the divisions were still useful. And in general, an enforced Truth was one which required action, while an enlightened Truth was one that simply existed.
+
+A Truth of “The Sun Always Rises” was enlightened, and reflected the cultivator’s nature and overall outlook of the Realm, with incredible backlash if ever confronted with an instance of that Truth being incorrect. Meanwhile, a Truth of “I Am Strong” was going to be enforced, and drove the cultivator towards actions that would make that Truth into reality, with backlash if ignored.
+
+Mitigations for disproven enlightened Truths and neglected enforced Truths both existed, but even in the best-case scenario, they were unpleasant and damaged the Domain. It also wasn’t the case that all enlightened Truths were about the world, and enforced Truths were about the self, but it was frequently that way. “They Bow Before My Might” was an enforced Truth a tyrant might have, and “I Am At Peace” was an enlightened Truth that a philosopher may have.
+
+Regardless, Truths were generally accepted to help the cultivator connect to the Realm in a less physical sense than an Anchor did. Yes, it created a bit of a weak point, but so too did it create a point of incredible strength while the Truth remained unbroken. Enforced Truths were self-fulfilling, and enlightened Truths provided power simply by existing. Even still, it was important to be smart about what to take as a Truth, because while a bad choice of Image or Anchor would just harm your Domain’s power, a bad choice of Truth could straight-up kill you.
+
+A famous parable taught to them when they learned about Aspects was of a cultivator who had ‘I Will Not Kill’ as their enforced Truth. The cultivator in question had never delved and lived a life of peace taking care to only eat plants, so it seemed like an easy and fitting Truth.
+
+When he created his Aspect and made his Truth, all was fine until one day someone else pointed out that his eating of plants, even if just fruits that were designed to be eaten, was still killing as it prevented the seeds from taking root. His Truth then forced him to stop eating altogether.
+
+As the story went, once the idea was planted it opened up his mind, then went to the fact he was breathing, which pulled microscopic amounts of life into his body and then destroyed it, was in fact killing.
+
+Things finally came to a head when, driven by his Truth, the cultivator in question chose to dissipate his spirit and end his own life because it seemed that everything he did ended the life of something else and it was his only way out.
+
+Except he couldn’t, as his Truth was not to kill and therefore prevented him from killing himself or even allowing himself to be killed. That left the man trapped in a nightmare where his own Truth prevented him from living life because anything he did might be interpreted by his mind as killing something.
+
+The story was probably apocryphal, for many reasons not least of which being one could always break their Aspect, but the story still illustrated the dangers inherent to one’s Truth. Even in less spiritual ways, while Concepts and Intents still impacted your identity, an Aspect’s Truth foundationally changed your perspective. It became the lens through which you viewed everything else, the cornerstone of who you were.
+
+It was dangerous, but Matt carefully examined the limited perspective he had on what hesitantly seemed to be an almost perfect nascent Truth.
+
+I am the Master of my Own Destiny.
+
+Resonating with the Truth felt good. Fantastic even, and that worried Matt.
+
+Mere minutes ago, he knew he wouldn’t have felt that way, but now he felt that his Truth was self-evident and perfect exactly how it was.
+
+Of course, he was the master of his own destiny. It was something he had always strived for. It was why he had pushed himself to complete the Path of Ascension and become one of the strongest people in the realm.
+
+What better Truth could there be than something that had been true since the day he took the train to the PlayPen?
+
+But it was that certainty that worried him.
+
+Was his Truth already affecting him? Was it driving him to do things that he couldn’t even feel?
+
+It shouldn't be that effective until he fully formed his Truth, let alone his Aspect, but it was still there resonating its rightness and he worried at the feeling like a loose tooth.
+
+Even with that danger, Matt knew he was unlikely to change his mind on this Truth.
+
+An enforced Truth about his keeping control over his destiny might not be a bad thing, as it hit one of the best use cases for a Truth. It could ensure he didn’t do something he didn’t want to do. In this case, his Truth would ensure that he never surrendered to the box, whether it be metaphorical or literal.
+
+It fundamentally felt right. It was both who he was and who he wanted to be.
+
+He wished that Aster were available because he wanted to talk to her just as much as he did Liz. Maybe more so with their spiritual connection allowing for more than words to be communicated. Though, at the moment he would have settled for anyone he was familiar with. But sadly no one, not even the Emperor, was at the Capital at the moment, which he found out when he requested a meeting and was directed to Carissa.
+
+Resigned to his fate, Matt forced himself back into the present.
+
+It was good he had Liz there to talk to for a few stolen minutes during the event, or he would have been left truly adrift, but he wanted more.
+
+Originally, the plan had been to stay in the Capital for a month of PR, and only then return to Palustris. Now, he wanted to rush back and discuss things with Aster, Luna, or even Ciceron or Rah, but he also didn’t want his Aspect’s Truth to start messing with his life.
+
+He was the Master of his Destiny. Him, not his Aspect.
+
+Using his Truth to distance himself from his Truth’s effect should have been a contradiction, but instead, it hummed with resonance as he embodied his Truth.
+
+With that messing with his mind, he decided to keep to his original plan and he was glad he did.
+
+First, being in the Capital put him at the center of the Empire's reaction to the news.
+
+Unlike the Aura potions, which were still Tier-gated, the skills were declared unTiered news, meaning even the unawakened mortals could learn about them.
+
+There had been some debate about making it Tier 1 restricted, but it wasn’t harmful for children to learn about, as the unawakened simply didn’t have an active spirit to interact with.
+
+The news exploded. In less than two months, practically the entire Empire knew about it, and reports that made their way back to him stated that almost a full thirty percent of the news articles and time slots were dedicated to the skills’ information in that first week. Even in the first month, it remained at almost five percent and held steady there as more and more revelations about the skills came forward.
+
+That was what Matt enjoyed watching.
+
+Yes, the skills were impressive, but with quintillions of people eyeing the skills and trillions working on them, miracles started to happen.
+
+In the first month, products started to drop trying to capture market share.
+
+Eyria kept to her threat and released a product; he felt she had to have used some degree of time manipulation, probably via Tier 47 rift, to get it out in such a short time.
+
+It was admittedly clean. Almost too clean, but that was just his lingering irritation at her rearing its head.
+
+Compared to Titan’s Torch’s trainers, De Solis Instruments was showing almost a three percent increase in effectiveness in the trainees’ retaining the information, leading to fewer mistakes and less spiritual damage.
+
+Matt, when asked to comment given their public spat at the ball, gave credit where it was due.
+
+He did point out that the cost of the new trainer was almost a quarter cheaper than their typical new products, which could be attributed to them needing to remain competitive with his free product and the eventual copycats that would spring up.
+
+However, he didn’t expect one of De Solis Instruments’ ‘competitors’ to come out with a line of cheap equipment that could simulate the effects of the skills, which they started selling to anyone who was setting up programs to teach the skill creation method or schools who were preparing their students for such eventualities.
+
+That was interesting in and of itself and he watched as they were reviewed and tested.
+
+The items themselves weren't too dissimilar to the practice wands he had used at his orphanage, but the unawakened or recently awakened seemed to find them helpful when choosing the skill they wanted to make.
+
+Only time would tell if the physical testers or the digital variants the various gaming companies had put out would win but either way, the kids seemed to enjoy the taste of potential power.
+
+The Royals all spoke out in favor of the development and encouraged everyone to embrace the new power, but didn’t mandate any specific implementation, which matched the Imperial government’s reaction. The only official order from the Imperial government was that no one was allowed to outlaw the skills but beyond that, there was no mandate or even guidance on the situation.
+
+Not that Matt expected there to be, but it led to variations which were interesting to watch start unfolding.
+
+A few dukes jumped in with both feet and authorized, or even mandated, their subjects create post-awakening pseudo-guilds to teach the information at-cost to whoever wanted to learn. Others, sadly more than those who went all in, didn’t care and either pushed projects in their own direct holdings or did nothing at all, which allowed guilds and corporations to fill in the gap.
+
+Each seemed to take their own variation on the training. Some treated it as a simple academic lesson with sit down lectures and examples followed by careful attempts. Others took a Sect-like approach and incorporated more self-exploration and discovery along with guided physical exercise. It led to more accidents, but all things considered, the very small carvings people were making in a single session were no more dangerous than a broken arm or a strong cold.
+
+Spiritual damage wasn’t fun, but the small amounts the guides suggested working on at a time were deliberately far from lethal.
+
+Not that nobody died.
+
+Matt was ready for it, but despite all of their warnings and safeguards, it did happen. Too-arrogant people of all ages decided to disregard the best practices given by everyone and tried to create too much of the skill structure all at once. Then, when they failed, the damage was unrecoverable and killed them.
+
+It was unfortunate, but ultimately beyond his control.
+
+Some people, mainly grieving families, tried to shift some amount of blame onto him or anyone else involved; but there were always risks with cultivation and anyone who disregarded every warning only had themselves to blame.
+
+The other Great Powers, however, reacted with skepticism.
+
+At first, none of them seemed to believe that the information was correct or that what was publicly shared was truthful, but after the first month and their skepticism wore off, they slowly started to move.
+
+The Corporations were the first, as they simply let businesses take what Matt had made and run with it however they wanted. Their official stance was to take no stance either way, but they were the only ones to do so.
+
+The other Great Powers were far slower to officially react, as they seemed to be deciding what to do as a single entity, even if Matt thought any attempt to stop the information was doomed to fail. Which was exactly why he had made it entirely free and shared all of the documentation in the first place.
+
+Most eyes were on the Sects, wanting to see how they would react given their history with extensive skill modification. If anyone was going to go all in on this new information, it would be them.
+
+And oh how right they were.
+
+From his inside woman, Sien, he learned the Sects leadership were in a buzz about the new invention, and from everything she saw and was willing to share, it was looking like they were going to embrace the idea in a way that even the Empire hadn’t. According to her, there were even high-Tier Sect leaders pushing the idea of outright making absorbing skills before Tier 5 fully illegal going forward. That was a fairly unpopular proposal, but it highlighted the Sect leadership's mindset about the method that some were even considering such a drastic step.
+
+Sien was personally baffled he hadn’t used the information as a betting card at least once in the intervening years, considering it a wasted opportunity. She, along with everyone else, however wanted to come and meet Rah, and they had all pledged to head to the Empire sometime in the next dozen years or when things settled down given the disturbances the skill creation method had kicked up.
+
+They at least promised to keep Rah’s personal involvement out of the decision with their Great Powers, which was all that really mattered to Matt.
+
+Still, all of that got pushed to the back of Matt’s mind at the end of the second month, just as things were just starting to develop in interesting directions.
+
+Through everything, Matt and his guild had been waiting for a retaliatory strike from their hidden enemies, and sure enough, it came. Just not how or where they expected.
+
+Matt and Liz were lounging in their suite and watching a news report about a new school popping up focusing on his skill creation method when the broadcast was interrupted by breaking news. Instead of anything positive, the station showed a video of what looked like Liz, who appeared to be torturing a prisoner. More than that, the recording showed Liz practicing the worst aspects of blood magic on them, mainly curses and plagues.
+
+Shooting to her feet, Liz growled, “Oh, someone’s gonna pay.”

@@ -1,0 +1,155 @@
+---
+id: 800232b9-d97e-5af8-85f2-c435202b0017
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: A Call For Help"
+slug: 0027-chapter-25-a-call-for-help
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 27
+ownLength: 2732
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3563415/chapter-25-a-call-for-help"
+royalRoadId: "3563415"
+---
+
+Molly’s legs were already moving before her thoughts could catch up, her feet pounding against the floor in a frantic burst of speed. She dropped to her knees the instant she reached Jasmine, the impact jarring through her bones, though she barely registered the pain. Her gaze swept over Jasmine’s prone form, the woman looked as though she had been mauled by some savage creature. Faint, silvery scars traced along her forearms and collarbone, while the fabric of her clothes hung in shredded ribbons, fresh blood still seeping in slow, glistening rivulets from the open wounds.
+
+A violent shudder wracked Molly’s frame. Her mind spiraled, a churning storm of disbelief and dread, but she seized upon the first coherent instinct that surfaced. With a sharp, sweeping motion of her hand, the rough white symbols shuddered in the air around her, responding to her voiceless command. They swirled about her slender fingers, trembling and quivering before they began to coalesce, arranging themselves into deliberate shapes, forming the shape of the formula [Advanced Heal].
+
+The structure wove itself into a cradle, embracing the intricate lattice of roots at its core. Then, as though conjured from a mirage, the completed emblem flooded with a deep, vivid green that pulsed with gentle luminescence.
+
+The formula hovered just above Jasmine’s still figure, suspended in the air.
+
+Molly watched intently as the emerald glow began to deepen, its radiance swelling until faint motes of light drifted free from the symbol. They descended like weightless seeds, alighting softly upon Jasmine’s battered frame and dissolving on contact, seeping into the torn flesh with a whisper of warmth.
+
+A stir of movement caught Molly’s ear. Ren was waking. Her gaze flicked toward him as he lifted his head from the table, his eyes still glazed with the remnants of slumber. He stretched and gave a short yawn, but the gesture caught halfway, a frown creased his brow, then faltered, then widened into something far more terrible. “Mom…!” he breathed, scrubbing at his eyes as though he could banish what he saw, but the image refused to dissolve. “Mom!” The scream tore from his throat. He lurched from the dining chair, staggering forward before he crashed to his knees beside Jasmine’s motionless body.
+
+“Mom!” he cried out again, his voice splintering as his gaze darted across her wounds, his mind visibly grappling with a reality that refused to make sense. His eyes snapped toward Molly, who wore an expression that almost mirrored his own, though she fought to keep her composure from splintering entirely.
+
+When she saw the tears begin to streak down Ren’s cheeks, Molly reached out on pure instinct and pressed her left hand against his shoulder, her fingers squeezing just firmly enough to anchor him. She drew his focus to her face, and a small, reassuring curl lifted the corner of her lips.
+
+~ It’ll be alright.
+
+Ren stared at her, his eyes still quivering with the chaos of everything crashing down around him, yet his frantic mind began to quiet as he absorbed the steady calm she offered. There was something in her expression, strange and inexplicable, that planted a fragile seed of hope inside him, a whispered promise that things would, against all odds, truly be alright.
+
+A deep, shuddering sigh escaped him. He nodded, wiping the tears from his cheeks with the back of his hand as he turned to silently watch the vivid green motes continue their tender work, mending his mother’s wounds thread by thread.
+
+After several more minutes, the formula dissolved into a last shimmer of light and vanished. Quiet settled over the room once again.
+
+Molly and Ren kept their vigil as Jasmine’s breathing steadied into a calmer rhythm, though her eyes remained closed. Molly exhaled in quiet relief when she confirmed that no visible wounds lingered on Jasmine’s body anymore.
+
+“What’s this?” Ren’s voice pulled her from her thoughts. Her gaze followed his as he retrieved a bloodstained envelope from where it had been partially tucked against his mother’s side, something clearly important held within its folds.
+
+He squinted at the words he could manage to make out through the smears of crimson, then read them aloud. “To Molly Valtoria.”
+
+Molly’s eyes flew wide. Her gaze darted to Ren, who was already looking at her. “It’s for you,” he said, extending his hand to offer it.
+
+Molly’s eyes trembled as it fixed upon his outstretched fingers. Jasmine had been hurt because of her, because of something that had been meant for her.
+
+Why.
+
+Her hand quivered as she tried to lift it, her muscles rebelling against the act of accepting the envelope. Her thoughts could not find a single reason to justify reaching for it.
+
+“It’s alright, Molly. It isn’t your fault.” Ren’s voice cut through the spiral, gentle but certain. Molly lifted her head and met his gaze. He smiled at her then, soft and knowing, and parted his lips to continue. “Those are the words Mom would have said,” he told her, his hand still extended, patient and unwavering.
+
+Molly regarded him for a long, still moment, her face betraying no trace of emotion as she searched his expression. Slowly, her gaze dropped to the bloodied envelope in his grasp. A ghost of a smile flickered across her features, she knew, without a single doubt, that Jasmine would have spoken exactly those words.
+
+She accepted the envelope from Ren and carefully worked it open, turning it upside down so that its contents slipped free. Two objects tumbled onto the floor. The first thing her eyes caught was a circular item shaped like a medal, its body gleaming in lustrous gold—pure, refined gold. A symbol that carried the weight of prestige was etched into its face. Molly picked up the medal-like object, feeling its heft settle into her palm, its worth tangible in the cool weight. She studied the icon on the front for a long breath before flipping it over to the reverse side, where a name had been engraved in bold, decisive strokes. ‘Molly Valto.’
+
+A slight crease formed between her brows for a fleeting moment; then her eyes widened as memory struck her. Jen had carried a medal almost exactly like this one. She knew precisely what it was.
+
+“Prestige Medal,” she heard Ren say beside her. Molly glanced at him, a surprised smile tugging at the corner of her lips as she nodded.
+
+~ The medal only used by people who wish for their potential to be kept a secret.
+
+Ren nodded after reading the words. “Yes, it is,” he confirmed. “Only people of insanely high status have access to it.” His gaze returned to the medal once more. “And it seems like this one was created specially for you.”
+
+Molly offered a brief nod.
+
+Support the creativity of authors by visiting Royal Road for this novel and more.~ Yes.
+
+She projected the word, her focus falling back to the golden disc resting in her hand. Her fingertips brushed across its surface for a lingering moment, and a small, secretive smile played at the edges of her lips.
+
+~ It’s because I have a lot of secrets.
+
+Ren gazed at her for a long, thoughtful stretch. Then, a slight curve lifted his lips in return. “Just be careful,” he said, prompting a quiet nod from Molly.
+
+After that, she shifted her attention to the letter that had fallen onto the floor. She picked it up, unfolded it, and began to read the words penned inside.
+
+✦ TO MOLLY VALTORIA ✦──────────────────────
+
+Greetings Miss Valtoria,
+
+Before all else, I must offer you my deepest, most heartfelt condolences for the loss you have endured. Words, I know, are frail vessels for sorrow; mere ink cannot carry the full weight of genuine sympathy, yet I hope these lines find you wrapped in a moment of stillness. The road before you is steep, and it grieves me that you must walk it; for every ounce of pain it has brought, I am truly, humbly sorry.
+
+This letter is meant to serve as a brief introduction to what I have placed inside the envelope. But before I speak of that, allow me to touch upon something more personal.
+
+You do not know me, indeed, you would have no reason to, yet I have had the honour of receiving many letters from the Ancient One, Jen Valtoria. Through her vivid and tender accounts, I have come to form a clear image of who you are, and I confess I have grown deeply fond of the person she describes. It is my earnest wish that we might meet face to face on the day you arrive to prepare for the academy. Until then, I send you this small token of my regard.
+
+The prestige medal I enclose was custom‑crafted, designed uniquely and solely for you. I believe it will prove to be a steadfast helper in the days ahead. Its creation was made possible only through the tireless efforts of the Ancient One, a debt of gratitude we both share.
+
+May fortune light your path, and may you find strength in the days to come.
+
+With enduring sympathy and the highest of hopes,I remain,
+
+Christopher SaturnEmperor of the Sky Kingdom──────────────────────
+
+Molly absorbed the words, her expression hovering somewhere between awe and quiet disbelief. Her hands trembled faintly as she held the paper, the weight of its message sinking deeper with every line. The family Jen had spoken of was no ordinary household—it was a royal family. A small, breathy laugh escaped Molly as she reread the closing lines. When she had finished, she folded the letter with careful fingers and glanced toward Ren.
+
+~ I’m about to lift her up.
+
+Ren nodded after reading the projection. “Alright,” he said, straightening and stepping backward to give Molly the space she needed.
+
+Molly’s gaze drifted down to Jasmine’s unconscious figure, and a brief, sorrowful expression ghosted across her face before she steadied herself. She exhaled slowly as she rose to her feet, and with a single, precise flick of her wrist, she called the symbols back into motion.
+
+They gathered swiftly, arranging themselves into the likeness of a feather—the quill straight and true, the barbs spreading outward in gentle, uneven strokes that mimicked the delicate architecture of a real plume. Following that, the remaining symbols clustered together to form five curved lines, each one shaped like a falling leaf suspended sideways in the air. Between these sinuous arcs, more of the rough white symbols condensed into tiny pinpricks of light, not scattered randomly but spiraling outward in measured, radial patterns that spoke of deeper design. They formed the completed roots, the ones that spelled buoyancy, drift, equilibrium, slow fall, and wind’s patience.
+
+The last of the symbols swirled into position, weaving themselves into a circular structure that encapsulated the entire arrangement. The completed spell ignited with a soft, downy white glow—the colour of thistle drift drifting on a summer breeze, the colour of goose down catching the light.
+
+Molly guided the formula with nothing more than a focused thought, her gaze locked steadily onto Jasmine’s body. The spell began to shrink, condensing its intricate architecture until it slipped forward and embedded itself gently at the nape of Jasmine’s neck.
+
+In that instant, Jasmine’s body began to rise from the floor, levitating with a slow, ethereal grace. It drifted through the air like a leaf caught in an unseen current, moving in the direction of Molly’s room.
+
+Molly and Ren followed closely behind. They halted at the threshold as they watched Jasmine’s body descend with tender precision onto Molly’s bed, the bedding sinking slightly beneath her weight. The formula behind her neck shimmered once, then dissolved into nothing.
+
+Ren stepped closer to the bedside and lowered himself beside his mother, his eyes tracing the calmer lines of her face for a long, quiet while. Then he turned to Molly, and a small smile found its way to his lips. “Thank you,” he said.
+
+Molly’s expression warmed with unspoken emotion.
+
+~ You’re welcome.
+
+Ren read the words and his smile broadened into a genuine grin. He opened his mouth, as if to add something more, but paused as a sudden wave of drowsiness washed over him. “Wow. I don’t know why I’m suddenly feeling tired,” he murmured, stretching his arms overhead as a deep yawn overtook him. He glanced sleepily at Molly, who still wore that tender warmth upon her face while the black orb continued to project her silent thoughts.
+
+~ I think you’re tired… why don’t you rest?
+
+Ren nodded, his eyelids already drooping. “Yes. It seems so,” he breathed, his head sinking lower until it came to rest upon the bed beside his mother. “I think I’ll rest for a moment. Why don’t you rest too, Molly?” His words drifted out on a slow exhale as a profound slumber claimed him.
+
+Molly held her gentle expression for a long, still moment, but then, gradually, it began to shift, sadness bleeding into the soft lines of her face. Her gaze lifted upward to the formula that had materialized above the sleeping mother and son. It was a flawless slumber spell—at its center pulsed a ‘Z’ shape that kept overlapping with other ‘Z’ shapes in an endless loop, producing a subtle distortion in the air. The great circle encapsulating the arrangement completed the structure, binding the entire spell into seamless unity.
+
+Molly watched the formula dissolve into the empty air until no trace of it remained. The sadness etched deeper into her features, and the black orb cast her thoughts into the silence, though there was no one left awake to see them.
+
+~ I’m sorry… but I wouldn’t be able to sleep now.
+
+Her gaze drifted back to the two people who had become something close to family. A wistful ache flickered across her expression.
+
+~ I have some things to take care of.
+
+Without allowing herself another moment of hesitation, Molly turned and crossed the room to the corner where a modest shelf stood beside her mirror. She reached out and pulled open the drawer, retrieving from within it a black robe with a generous hood. She shed the thick purple robe she wore and pulled the dark fabric over her shoulders, then lifted the hood to drape it over her pale hair, casting her features into shadow. She turned, giving one final, lingering look at the sleeping figures. She bowed her head briefly, a silent farewell, and then walked out of the room, her steps carrying her through the cottage and out into the night.
+
+Molly pulled the door closed behind her with a calm, deliberate click. Her gaze rose to the scene awaiting her beyond the threshold—the blighted, wide meadow that stretched across the mountainside. She stared out at the purplish-brown grass, watching it sway with the breeze in gentle, unbothered waves, as if nothing in the world was amiss.
+
+And that, more than anything else, troubled Molly. Everything was wrong.
+
+She lifted her eyes to the sky. The moon hung overhead, a silver coin against the deep indigo darkness, and its light spilled over the mountain like a soft, cooling balm. But Molly understood, with a certainty that coiled cold in her stomach, that this serene glow was only a mask, a thin veil draped over the rising tension spreading across the world, as though something dangerous and immense was waiting just beyond the horizon.
+
+And she intended to find out what.
+
+As if summoned by the very thought, a shadow swept across the face of the moon and descended in a wide, silent arc. It glided over the mountain and landed on the plagued meadow with a whisper of displaced air and bent grass. The shape resolved into a creature Molly had come to know earlier this very day—a Phragon.
+
+‘Nom Nom.’ Molly’s inner voice reached out, worry threading through the silent call. ‘What’s wrong?’
+
+The Phragon padded toward her, its sleek, charcoal‑black form moving with the cat‑like grace she recognized. But this time, its large, glossy black eyes, usually bright with gentle curiosity, held something entirely different. They were filled with a grave seriousness and a fear that seemed to shimmer along the aurora‑like ribbons of green and violet rippling over its ear nubs and spine fins.
+
+Nom Nom's voice entered her mind, unsteady.
+
+‘Molly… Please, we need your help.’

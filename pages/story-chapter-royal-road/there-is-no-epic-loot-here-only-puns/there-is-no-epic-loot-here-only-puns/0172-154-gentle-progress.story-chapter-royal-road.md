@@ -1,0 +1,269 @@
+---
+id: 7aa8de28-a475-5bc5-b633-e50c4932a6b9
+page-type-slug: story-chapter-royal-road
+title: "154: Gentle Progress"
+slug: 0172-154-gentle-progress
+partOf: there-is-no-epic-loot-here-only-puns
+position: 172
+ownLength: 3473
+unit: words
+publishedAt: 2022-04-18
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/889114/154-gentle-progress"
+royalRoadId: "889114"
+---
+
+The third floor had an almost completely different atmosphere than the second. Estal had heard that Dungeon’s could be like that, but the change between the first floor and the second was nothing compared to the current jump from second to the third.
+
+The first floor almost felt like it had been trying to ease the group in from the outside world. Caves, dirt, webs, the usual affair, the second was more forward in informing them how they were in a different world within the Dungeon where life thrived and it felt like they had traveled thousands of miles, not gone down some steps.
+
+The change between the second and third was as if they had entered a conquered castle, the air of war still fresh in the air despite the clean tapestries and rugs. The castle could have been claustrophobic and oppressive, but the illusion of sunlight streaming through stained glass windows and the use of brighter colors had almost tricked them into thinking they were walking through the very sleepy antechamber of some queen.
+
+Estal would have liked to enjoy it more, but with her body developing a wide array of electrical burns after her misuse of her family magic and Wyin’s ‘tender’ touch, her body was already displaying a wide array of bruises in a mosaic fashion, and there was also another pain.
+
+“I used to have horrible skeletons here, ready to debone any intruders like a fish,” Mharia the fairy complained as she tutted about the entrance.
+
+“And where are my paintings of screaming people being splayed open on operating tables! I paid a lot for them!” she threw her hands up as she looked around the room.
+
+“You act as if you owned this place,” Karn said brightly and the fairy turned very slowly to him, face devoid of emotion as she spoke very softly.
+
+“Not but a month ago, I’d have had your own skeleton rip its way out of your skin and flesh to dance for my amusement. There was no acting involved,” Mharia warned, but Karn just grinned at her, waiting for a punchline to some joke.
+
+Estal wasn’t so sure Mharia was joking.
+
+“What’s that?” Hazhur asked as Silver walked up to a massive rendering of the world in its flatness, showing the ever expanding edges and across its surface, there were a few orange glows, most of them around where Durence was on a real map.
+
+If Estal was right, the other two were in the capital next to a massive golden glow. However, as she looked closer, she noticed there was a very long thin ‘vein’ of sorts stretching across the land to near the middle of the map where there were a few places of note. The orange vein looked like someone had cut it off with a knife.
+
+There was a second, duller vein to the north.
+
+“I suppose a little spoiler won’t be too against the rules. You could say that the third floor has two ‘core’ elements to it from what I’ve seen. Learning and culture. I would have personally enjoyed Delta turning this floor into a massive level of buzzsaws, spikes, and rotating death traps that would require pinpoint precision platforming. We could have called it the ‘Track of Torture’ or the ‘Orange Palace’, but that’s just me...” Mharia rambled for a moment as they all stared at the malicious little creature with wariness.
+
+“The... um... map?” Hazhur prodded her slowly.
+
+“Oh, right. The map is a real-time simulation of the world and it shows the biggest Dungeons in the world, along with anyone that’s got Delta’s mana in them. It’s symbolic,” Mharia waved one hand.
+
+“Look how far you’ve come, but how much you’ve yet to see!” she mimicked another voice, sounding more chirpy.
+
+Estal looked down at the map again and Hazhur went very still as his eyes landed on a particular part of the map.
+
+“The Twin Dungeon. That axe of yours came from there,” Mharia said, voice amused as the light danced between blue and green in a single spot.
+
+“Does it do anything else?” Karn asked eagerly and Mharia eyed them before she snapped her finger, causing a massive grinding noise to emanate and from the four pillars around the room, orange barriers snapped into place, cutting the group off from accessing the map as the thing seemed to sink into the floor.
+
+“Not for losers,” she said smugly and Estal glared at the evil pixie.
+
+“Which way are we going?” Hazhur said, sounding tired.
+
+“Straight ahead. To the west is a place of deep forboding knowledge where a jackal resides in a shrine of filth,” Mharia warned dangerously before pointing the other way.
+
+“That way has some of Esty’s relatives,” she giggled and flew forward. Estal looked down the long hallway, noticing how the hallway slowly grew grass and seemed to become...wet.
+
+“I know that’s an insult,” Estal accused as the group moved around the map and towards the doors ahead.
+
+“Yeah... to the two that live down there,” Mharia called back cheerfully.
+
+Through the smaller door, the group came to an abrupt stop as they entered a truly massive hall with many tables and a roaring fireplace. Bright stone and banners decorate the hall, making it seem like a wake-up call after the softer rooms previously. On one side of the room was a massive painting of sorts of a dark evil knight being commanded by a wicked looking bone demon with blond curly hair and a wicked smile as on the other side, a royal goblin rode a pig against the fell knight with the now familiar orange figure of Delta sending her light to the pig-knight.
+
+On the other side of the hall was a massive range of food arranged like a buffet as a banner welcomed them to the ‘Free Heal Hall’.
+
+“Who’s the ugly demon brat?” Karn asked, pointing to the figure behind the dark knight.
+
+“Could be a goblin demon or a gremlin using dark magic,” Hazhur speculated.
+
+“Whatever it is, it clearly lost against the Dungeon so it’s a loser,” Estal scoffed as Silver wandered off to a table and began to run his hand over it in awe.
+
+Estal noticed there was a distinct lack of... commentary from Mharia for some odd reason. Turning, she saw the pixie was trying to drown herself in a strange fountain that spewed chocolate into a basin .
+
+“So, here you all are,” came a voice. Estal spun to a corner where a table had been set up to obscure some figure that was sitting down, enjoying a massive mug of some liquid and a cooked meal that she was now polishing off with dessert.
+
+Estal’s customary confidence withered at the sight of this nearly seven foot woman standing up with her dark skin and hair that made her stand out against the white stone. Her clothes proclaimed she was some sort of hunter, but the yellow glowing eyes said a different thing entirely.
+
+There was a massive sword on her back that looked to be bundled up for some reason and when she began walking towards the group, her entire frame radiated pure physical power.
+
+“Woah... are you one of the monster types on this floor?” Karn asked excitedly. Ruli stopped in front of him, making him crane his neck to meet her eyes.
+
+“Karn-” Hazhur tried to warn, but there was a flash of movement and Karn flew back across the hall and landed in a roll.
+
+“I’m a monster, but not a Dungeon one,” Ruli said calmly, lowering her fist as Karn stared up at the ceiling, dazed and still smiling like a weirdo.
+
+“My name is Ruli and I’m here as a proxy to the Elders of Durence. The town you were supposed to stop by first before accessing Delta’s Dungeon as required by a bunch of boring laws I can’t name off the top of my head. I do know that if the elders really aren’t happy with you, you could all be looking at some serious public service sentencing,” the giant woman grinned viciously.
+
+Estal took a step back, face going pale.
+
+Public Service punishment was one of the worst kinds you could get. Stacking prisoners in jail cells had gone out of fashion a while ago, now prisoners wore special collars that kept them in a certain range of a public store or beverage house. They would serve the rudest, vilest customers that could be found since they knew all the workers were prisoners...
+
+The collars meant every curse and angry statement came out as polite company jargon or platitudes...
+
+Estal would rather be sentenced to mining or inducted into Fair Play’s garbage to work off her prison time...
+
+“And if I know the elders... and trust me, I do more than I like,” Ruli muttered before she cleared her throat, “then you’ll all be set to help Haldi sell his wares or weeding with Dabberghast. Warning, Dabberghast is in a foul mood and the weeds will most likely throttle you,” Ruli said unapologetically as she moved forward more.
+
+If one more tree or plant hit Estal, she was going to go on a murder spree against anything brown or green.
+
+“Wait!” Hazhur said, holding his hands up.
+
+“Yes, rule breaker number 2?” Ruli asked with a smile that didn’t quite reach her eyes.
+
+“How did you get here before us? We had to fight a murderous tree for keys and... everything,” he trailed off, going quiet as he must have noticed how crazy that sounded to even the people who just experienced it.
+
+“There’s a shortcut from the first floor to the third that you can use if you beat Wyin or aren't a challenger. I’ve been inside Delta and explored her more deeply than you’ll ever match,” Ruli said with a smirk.
+
+She looked left as if seeing something they couldn’t... like how Mharia and Wyin sometimes acted.
+
+“It’s technically the truth. The best kind of truth,” Ruli said to what could likely be the Dungeon... some sort of invisible avatar.
+
+That was insane. Dungeons didn’t get avatars until they were far more advanced!
+
+“We got invited to a feast,” Silver said finally, breaking his silence. Ruli eyed him and she seemed to soften just a tad.
+
+“And you can enjoy food before we go. I don’t feel like hogtying you all together and carrying you out,” she said before looking around.
+
+“Hell of a place, right?” she asked suddenly as if she just hadn’t been threatening them with Public Service punishment and punched Karn who still looked a bit dazed, if not a bit in love.
+
+“It’s weird, it makes no sense, and the Dungeon is insane,” Estal announced, arms crossed in defiance as Ruli turned to her, yellow eyes now dangerously close to glowing.
+
+“Oh?” she said simply and that word carried a lot of unsaid things in it.
+
+Estal waited three whole seconds before looking away.
+
+“As someone who is weird, told she makes no sense, and has been called insane by people who should have cared for her... I suppose that means that Delta is simply more exceptional than any other Dungeon. Her second floor boss is a massive... piece of personality,” Estal managed to bite her tongue at the last second.
+
+“...That’s some self-control with that last part,” Ruli said, more relaxed now.
+
+“She’s just scared that she has to walk past Wyin again and the tree will know if we insult her...” Karn muttered and Estal stomped on his foot with her now muddy heels.
+
+“Don’t worry. We’ll be taking the express elevator,” Ruli promised and turned her head to look at a side door. Following her gaze, Estal let out a shriek as a massive goblin stood nearby her in an apron and with a scowl on her face.
+
+It was impossible... but it was a female goblin.
+
+Goblin’s didn’t have- Goblins simply...
+
+Estal’s brain felt too tired for this as the goblin looked them over and seemed to find them all as impressive as some cave slime she stepped in on the journey down to the third floor.
+
+“Make them walk back. I don’t want them in my kitchen,” she grunted to Ruli who snorted.
+
+“Be nice, Miss Fera. They got their asses kicked by Wyin,” she said and the goblin sneered.
+
+“So did a bunch of children and they won,” she said before clapping her hands.
+
+“Assemble,” she grunted and behind three forms appeared as if emerging from her shadow. From the left, a wicked goblin in a robe with burned edges holding a staff walked out, cackling. From Fera’s right, a topless goblin with a scarily impressive physique (not nearly as nice as Rale in Estal’s opinion) walked out with his hands in wraps. He grinned brightly at them. Then leaping over Fera’s head with a dark bow drawn was a dark goblin with red eyes and a series of custom arrows on his back.
+
+“Oh hey, the stooges. I thought they didn’t do well on lower floors,” Ruli said conversationally as Estal backed up, bumping into Hazhur.
+
+“Around me, they don’t die,” Fera said simply.
+
+“Still hard to breathe down here! It’s like inhaling sawdust off a pig’s rump,” the fire mage one grunted.
+
+“It’s good training,” the fighter mused.
+
+“...”
+
+The last one didn’t speak at all.
+
+“They’ll help you lead them out,” Fera said simply and walked back to the door and into the kitchen. Once she was gone, the three smaller goblins let out big sighs.
+
+“Humans! I am your superior in every way, Cois. You may refer to me as master, lord, king, senator, duke, emperor, chief-” the fire goblin listed off, running out of fingers before he borrowed the fighter’s to help keep track.
+
+“I’m Numb. I like hitting things and napping,” he beamed.
+
+Estal was having a nervous breakdown. Sociable goblins, what next?
+
+“...Billy,” the archer said in a low dark tone with almost pleasure at their unease.
+
+“Well, let’s dig in! Here’s to your massive loss to Wyin! May you legally return to try again!” Ruli held up a goblet of wine and Karn heartily toasted with her.
+
+“I need cake,” Estal decided as Silver was having a blast touching the goblins and Hazhur was simply standing there with a blank look on his face.
+
+Thus ended their delve into the Dungeon known as Delta.
+
+Or if you asked Estal?
+
+‘The really weird one down south with the mushrooms and scary monsters’.
+
+---
+
+“So...um...so it would be for the beast- best! That the town of Durence maybe... should agree to let Fairplay in to...run the Dungeon in your place because... uh...” Gentle stuttered in front of the three elders.
+
+Mila was having a blast. She forgot how awkward children were when they weren’t related to herself, Pic, or of anyone in Durence. They were like newborn deers finding their legs.
+
+In her home, she, Haldi, and Pic all listened to the world’s worst scheme pitch as they drank. Next to them, Deo was giving the boy thumbs up in an effort to boost Gentle’s confidence, Alpha stared blankly at him as if Gentle was insisting they set Delta on fire, and Grim was burying his face into his arms into whichhe kept muttering ‘cringe’.
+
+“Fairplay promises complete insurance- I mean, assurance that all parties involved will receive... uh...” Gentle trailed off in panic as he struggled to remember what likely was a boring dry number on some contract.
+
+“Ballpark it,” Mila hollered, cheeks pink from the whiskey.
+
+“A lot!”
+
+“More specific ballpark, lad!” Pic spoke up, banging his mug with a grin. Mila reached over and shut her curtains to stop that other buffoon from feeding Gentle flashcards through the glass in order to tell Gentle what to say.
+
+Mila wanted her panicked children to be genuine, not drip fed partial information.
+
+Ruli always had this sense of confidence about her that made it nigh impossible for Mila to ever get the girl worked up over anything other than cooking meat or big swords.
+
+“Deep breathes. Tell us what you think is good about Fairplay,” Haldi said brightly. Gentle swallowed, looking longingly at the closed curtains as if hoping someone might save him.
+
+“I... honestly can’t say much about the company. I haven’t worked there very long... or at all,” Gentle admitted, looking down at the ground as he held his wrist in front of him in an awkward posture.
+
+He took another deep breath.
+
+“But I know my father. He’s not mine by blood, but he raised me and he rescued many people from Dungeons that choked areas with mana but made their resources horrible in return. I know Dungeons aren’t our farms or mines... and they are alive, but the damage they can do is really bad. I’ve seen villages wiped out from extreme mana poisoning or the local monsters going feral,” he said, looking at them with serious eyes.
+
+“Even if you don’t accept Fairplay as the major holder, we help regulate the adventurers, import a lot of materials you can use as offerings and also simply keep the monsters down. I don’t want to even say it, but Dungeons that turn into Abominations... I’ve personally had experiences with that and it changed my life. I don’t want that to happen to this Dungeon,” he pleaded and it was far more moving than his company lingo from before.
+
+“Which Dungeon did you see that happen to?” Mila asked, all humor gone. Gentle looked down, avoiding their eyes.
+
+“Moon Meadows, where the grass glowed silver under the moon,” he whispered and Mila winced.
+
+The Silver Dungeon Abomination was infamous.
+
+“What is an Abomination?” Alpha asked and Gentle looked at him with a slight hard look in his eyes.
+
+“Dungeons that...” he paused then sighed.
+
+“Some people hurt Dungeons, tamper with the Core or drive it mad. It begins to hurt itself to break rules, spawn monsters outside, affect people inside, and more. Sometimes it's because the Dungeon fixates on a challenger or someone tries to befriend a Dungeon. A few times when Fairplay tried to manage a Dungeon, it did turn hostile and then into Abominations when they refused to work with the company. I won’t lie... I know it’s happened, but I don’t know why things were allowed to reach that point,” Gentle admitted, looking for a single moment, doubtful of his beloved company.
+
+Mila smelled a weakness and she pounced.
+
+“That does sound worrying. How can we be sure to let Fairplay in if we can’t be assured they won’t ruin the Dungeon. We quite like the Dungeon,” Mila said with a false threat.
+
+Grim was staring at her with some form of disgust at her acting.
+
+The brat could kiss her-
+
+“I... want to promise that, but I can’t. Maybe I could look into older records as the potential liaison to this town? Find out what the company did wrong or ask my Fath- my boss,” Gentle quickly corrected himself.
+
+There was a pause before Alpha spoke up with more emotion than Mila ever heard from him.
+
+“Delta is not an abomination,” Alpha spoke up and Gentle blinked at his hostility.
+
+“I know that, but it’s more in case-”
+
+“She is not... an abomination. Miss D is kind and believes in me,” Alpha stressed, eyes flashing.
+
+“R-Right,” Gentle swallowed hard. Mila quickly stood up and held her hand out.
+
+“As a potential partner and our liaison to Fairplay? I, Mila Darknessbane, would like those records please or a proper explanation,” she beamed. This should keep those corporate pay to win asshats busy for a while.
+
+Gentle took the hand with a nervous energy.
+
+“Argus Gentle... um... I think I’m going to mess this up,” he whimpered and Mila gripped his hand harder as if sealing a pact between them.
+
+“Perfect,” she grinned wolfishly.
+
+“I’m going to call him ‘Gus’,” Deo proclaimed loud enough her windows rattled.
+
+“Gentle is fine,” the boy tried to argue.
+
+“So, Gus... what’s it like to know you’re doomed?” Grim asked casually and his orange tongue seemed to fascinate Gentle for a second.
+
+“It feels pretty bad,” Gentle admitted.
+
+“It’s fine,” Mila clapped him on the shoulder as she led him to her front door.
+
+“By the time you’re in your late twenties, doom feels pretty normal and then it’s all downhill from there until you hit fifty and you either turn cranky, have a big family of people like Grim, or make cheese in your basement,” she said sagely.
+
+Gentle whimpered as he looked at all of them all, as if seeing his future and not liking it one bit.
+
+Ah... this was why Mila got up in the morning.
+
+For that exact expression of terrible dread on children’s faces.

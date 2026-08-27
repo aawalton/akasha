@@ -1,0 +1,267 @@
+---
+id: b7f62854-37f2-542e-a368-7b6093369b49
+page-type-slug: story-chapter-royal-road
+title: "304 (II) To Break a Curse [I]"
+slug: 0400-304-ii-to-break-a-curse-i-3113469
+partOf: path-of-the-deathless-book-4-completed
+position: 400
+ownLength: 5978
+unit: words
+publishedAt: 2026-03-03
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3113469/304-ii-to-break-a-curse-i"
+royalRoadId: "3113469"
+---
+
+304 (II)
+
+To Break a Curse [I]
+
+Shiv's left eye twitched. His fingers straightened and then slackened. His body spasmed with pain that originated from the depths of his soul. He stared, his heart screaming as he looked on at that gem, that glistening pearl that was a counterfeit of his Manifold orc Meatball. It lay split in twain upon the grilling station, the once-heated metal sheet now cool and dormant. It lay there mocking him, taunting both him as a person and as a cook.
+
+The meatball lay as a statement of supremacy and superiority on the part of the Gourmet, and it took all Shiv had to stop himself from slamming his fists down, shattering the grill, and absolutely obliterating this pristine, wonderful, masterfully made meatball that utterly eclipsed his own in every conceivable way.
+
+“Fuck.”
+
+The word left Shiv as a ragged groan. It left him like he was ripping a jagged, rusted blade out from his throat. His hands didn't know what to do. He gripped the sides of his head briefly, bending down and shaking, before he slowly laid his fingers back down on the table. And then he poked the meatball, that insulting, perfect meatball that he couldn't quite figure out.
+
+It was seared so finely that its core had condensed into a sort of creamy, yet solid state. The taste of the marrow lingered just right. Just perfectly right. No matter how many times Shiv tried, he just couldn't capture that feeling. The Gourmet had known exactly what to do with the layer of gristle, how to make it crack open perfectly. Then, finally, there was the crust outside; it was more than crunchy, it was perfect.
+
+All of this stood atop the foundations of Shiv's creation. He was the one who came up with the Manifold Meatball. But his creation proved to be the inferior by leaps and bounds.
+
+How could this have happened? How could the System do this to him? How could he fail himself?
+
+Shiv wanted to vomit again. He refused. He couldn't throw up this time. He couldn't justify it to himself, and he couldn't justify it to the others. He was already threatening to unravel. This was too much. How could he be beaten by such a disgusting wretch?
+
+"I need to figure it out," Shiv choked out, on the verge of full delirium. "How could he be better than me?"
+
+“Shiv? Shiv?” Uva's voice came through a telepathic channel, wiring her straight to his mind. Her tone was soft and calming. Her intentions were warm and worried. Shiv, it's okay. You will best him in the future.
+
+But though Uva meant well, Shiv had sunk too deep in the dark recesses of his own mind to be saved.
+
+"He made it better," he whispered. "He made it better…"
+
+A deathly silence followed. The Gourmet had left after completing his dish, not even bothering to wait and see Shiv's reaction. He'd simply sheathed his spatulas and sauntered out with a scalding sneer on his hideous face.
+
+The other Pathbearers that remained in the kitchen stood with anxious stares or naked winces painting their faces. Gone had her eyes locked to the ground. Five was trying to hide his schadenfreude. Or perhaps he wasn't, considering how all his teeth were showing, light reflecting off the metal. Uva wanted to say something else, but Adam reached out, took her by the shoulder, and simply shook his head.
+
+"Let him process this," Adam said. "He suffered an immense psychological blow. My Cognitive Therapy sense says that we should just leave him alone for now and let him recover. He will return to us when his psychology regenerates enough. I hope."
+
+Outside the kitchen, silence ruled the halls of the Sky-Swallowing Carp. The front of the establishment was abandoned, barren of all clients except for a few orcs. Whisper, Tequila, and Mortar remained, taking a break from harassing the First Blood outside the Abyssal gateway. They'd come back to spend some time with their Insul, but he had hidden away from them.
+
+"I have to figure it out," Shiv muttered hoarsely. He made a fist, but forced it open as he picked up one half of the counterfeit meatball. Placing it in his mouth, he chewed once more. The crunch that followed nearly made him weep. It broke apart so perfectly, like an eggshell that was laced with impossible flavor.
+
+And then the first of the many bonuses hit Shiv: Biological Regeneration of incredible potency. Boosts to Awareness, Physicality, and more followed. He felt like he was ascending to a higher plane of existence from a single bite. The lean meat that was cooked within the meatball made his muscles tighter, harder, more effective. And then the gristle that hardened his very bones and doubled the durability of his Toughness even at baseline. Finally, as he got to the marrow, his magical fields grew to exponential heights. His mana went from the density of wood to tungsten in an instant, and that was just from a single bite.
+
+The Challenger finds your pain delicious.
+
+“EAT SHIIIIIIT!” Shiv seethed through clenched teeth.
+
+“Hubris is most unbecoming, Bruiser. But also entertaining.”
+
+Shiv nearly collapsed, but unwilling to succumb to despair, he chose madness instead. He grasped his head, physically holding the dark thoughts in, and fracturing his skull with a pulse of Shapeless Tides. A loud crack sounded in the room, and one of Shiv's eyes popped out of his skull. Uva flinched back, her eyes widening. Her worry had now evolved into outright terror, and Adam didn't look far off from intervening himself either.
+
+"Holy shit, he is not taking this well," Jessica commented unhelpfully off by the side.
+
+"Shiv, Shiv." The Deathless vaguely felt Valor pulling at his arm. "Shiv, this is enough. You did fine, but there are always people better than us early on. There are always Pathbearers beyond Pathbearers. It is in the challenge and pursuit of excellence that we can outdo them. It is in… overcoming ourselves and the shadows of our failure that we manage to overcome our adversaries."
+
+But rather than his usual wisdom and insight, Valor was somewhat rambling. He sounded worried as well, unnerved by how unstable Shiv was.
+
+"They're all fucking me, Valor," Shiv seethed. "They're all fucking me. The System has me by the face. The Challenger by the ass. The Gourmet is the worst of them all; he doesn't have a dick, so he's using that gross stomach of his to pound my heart. My heart is being fucked by an orc’s stomach flap."
+
+"That's probably the first time in the history of Integration that anyone has said those words in that order,” Jessica muttered.
+
+"I cannot help but agree," Valor said, equally disturbed.
+
+Shiv sucked in a painful breath. "Please, please, I just… I just need a moment alone…"
+
+He stumbled away from them, and begrudgingly, they let him be. He left the other half of the meatball in place. He stepped out of the kitchen, and he began wandering, completely lost to his own thoughts, down the halls of his restaurant. Halls that now felt cold. The restaurant was mostly abandoned. The orc Biomancers that were permanently stationed inside Courtney likely saw him in his rough state, but they said nothing. Even if he was technically vulnerable, they didn't dare insult their Insul while he was in the middle of undergoing psychosis.
+
+The minutes, hours, or perhaps centuries that followed were a feverish blur. Shiv saw many things: some of them real, some of them not. But between the moments of clarity, he thought back to the Gourmet's wretched sneer, that foul stench that accompanied him, that horrid promise, the naked lust of his, that yearning to be hurt or hurt in return.
+
+Somehow, at some point, Shiv found himself standing atop the bridge of his Court Leviathan. The night air in the Tutorial was frigid one instant and scalding hot the next. A storm was right above them. Shiv gazed upward to see how thunder crashed, how crimson bolts of lightning split the sky, followed by whipping downpours of blood as much as water. Monsoons raged as corpses and filth rained down, and in the distance, cries sounded, turning to belligerent bellows as new orcs were birthed from the ruined husks of fallen Pathbearers.
+
+He cared about none of that. He had eyes for none of that. Amidst this sea of darkness, devastation, and bloodshed, he stared at one thing, one hateful adversary, one insult carved into the firmament. The colossal cauldron, dubbed simply as the Cauldron, ruled by the Gourmet, loomed above and in front of the Sky-Swallowing Carp. Its sides were lit up by spotlights now, fireworks detonating along its sides constantly, and over it, a carving of fire danced across the sky. It was an artistic rendition of Shiv being beaten by an even larger projection of the Gourmet, who whipped the Deathless with his spatula and walked him like a dog.
+
+And on the rim of the cauldron, the Gourmet stood. He was looking at Shiv, his body glowing bright. The Deathless couldn't see his face, and he refused to get any closer, but he could practically taste the triumphant air radiating from the Gourmet's body.
+
+It sickened him. It was too much. Shiv leaned over the edge and violently emptied his stomach, the contents promptly being flung back in his face by a sudden gust of wind. He barely even noticed.
+
+It took him a few minutes to steady himself, and a few more to regain his composure. But when he did, as he wiped away the remnant filth staining his lips, his mouth was peeled back in a vicious snarl. He was going to break this orc no matter how many times it took, no matter how much effort it took to level his Cooking skill and avenge this defeat.
+
+"I'm gonna fucking DESTROY YOU!" Shiv screamed into the storm, half mad, half determined.
+
+And though he couldn't see, he knew Gourmet merely sneered down at him in return.
+
+But then he heard a thud from behind, and Shiv's mind snapped to full focus. Though aggrieved, he knew this was only a thing of pride, and that he might actually be under attack now.
+
+Shiv turned; he tried to call the Last Morsel to his hand, but for the third time that day, he made the mistake. No such weapon appeared in his grasp. He was still wandering with his physical body, his Severed Shadow still in the kitchen with the others.
+
+And here, before Shiv, stood the Culturist.
+
+Flashes of crimson lightning revealed a serene expression on the orc’s chiseled face, even as the howling winds caused his feathered cloak to flutter and whip about. “A good enemy is the best teacher,” the orc intoned, his deep baritone rising over the roars of thunder. “For only the enemy might show you where you are weak, where he is strong.”
+
+As water and blood poured down his face and body in equal measure, Shiv stared the orc down and scoffed bitterly. "Where'd you get that from? Your own Philosophy skill? Come to scratch your itch again, that it?"
+
+"I fulfilled that urge earlier," the Culturist replied without offense. "And though I genuinely wanted to try your food, I didn't want to appear while the Gate Lord was here. I think he could do without my presence in his life. At least for a little while."
+
+"Well, aren't you kind and considerate?" Shiv muttered, a sarcastic smile cracking open on his face.
+
+The Culturist grinned back, though the expression lacked any true offense or viciousness that Shiv might have expected. "I suppose I am, at times. And to answer your question earlier, no, it was from a book."
+
+"What question?" Shiv asked, confused as to what the Culturist was alluding to.
+
+"What I said to you earlier wasn't from my Philosophy Skill; it was sourced from an old human historical document." Static mana condensed around the Culturist's fingers as he raised a hand, and with a clench of pressure, a book appeared. A book so small and fine that it could have gotten lost in the Culturist’s palm. It looked like one of those pre-war books Shiv used to find in the ruins. The cover was worn, and the papers looked fragile. However, a magical glow radiated from the book, and Shiv suspected that the Culturist was keeping it together using some manner of Reinforcement spell.
+
+"What book is it?" Shiv asked, his curiosity slightly piqued despite the remaining sourness of his emotion.
+
+"Records of an ancient war of some kind," the Culturist said. "This, I think, records the final period of human history before the System arrived on Earth. Did you know that your ancestors traversed the void? That they greeted the stars to fight great and terrible adversaries? Toward the sudden end of its journey, your species, humanity, found itself fist against fang against a foreign race of bugs. Though lacking in detail, it was fascinating to witness the technological and sociocultural developments between the texts."
+
+The orc wove magical images into being, visualizations of how he imagined the things he read about. "At first, there were troopers wearing metallic shells of armor. I think they were pre-System automata, and they faced the bugs in direct combat. But later, as your technology grew more sophisticated and the situation ever more dire, you apparently began looking for genius strategists among the youngest of your kind and using them as grand strategists against the bugs."
+
+"Wait, you're telling me all this happened in the void?" Shiv asked, his voice tinged with disbelief.
+
+"That is what the histories claim, though I think a great many centuries are missing between the first records and the third. A great many changes happen between as well. It makes the storyline rather hard to follow. Trying to decipher the old tongue of Anglense was also rather difficult, even using a variety of language-based skills in tandem."
+
+Shiv blinked. "Is this some kind of hobby for you? Wait, is this why they call you the Culturist? Because you go around rooting through other people's histories and cultures?"
+
+"I prefer the term 'appreciating,'" the Culturist replied with a faint hint of annoyance. "But yes, that is why. And it's always interesting. It is histories like these that fill me with envy. That made me choose humanity as one of my desired foes. I fear your kind might be among the few that have been reduced by the embrace of the System, rather than uplifted. I've walked your old ruins. You achieved such wonderful things. You crossed the dead of space without any mana. You stretched your reach beyond what many species could ever dream of without any skills. All that simply because you yearned to do so. You did it as a collective people, that though at times fought among themselves, were capable and strong enough to have a common vision, a greater dream beyond strife, and executed on that vision to become exemplars, true pursuers of utopia."
+
+In that moment, as he spoke with such deep passion in his voice, Shiv grasped how genuine and deep the Culturist's envy was.
+
+Seeing how Shiv stared at him, the orc sighed and met Shiv's eyes. "But enough of my lamentations. Are you well, Deathless? I hope that you are not too disheartened. The Gourmet is many things: depraved, vile, foul-smelling. But he is far more cunning than he seems at first regard, and his cooking is a thing to behold. I tried besting him with a great many arts, and I failed each time. Until far, far later."
+
+Shiv turned away from the Culturist and shot a final glare at the Gourmet in the distance. "I'll be fine. And I'll find a way." He breathed in. "First, though, I need to deal with a Curse. Then I need to really commit. I'm gonna take this kitchen all over the world. Anywhere I can go. Anywhere I can learn. My cooking needs a lot of improvement, but I have the time now, and this is what I'm gonna do. I don't care what the System wants from me. I don't care about whatever bullshit wars are happening. This is what I'm focusing on. Damn everything else."
+
+The Culturist chuckled in response. "So you are undergoing your own personal Gnostic rebellion. I must say, you are a Pathbearer after my heart. I commend you and bid you better fortune than I have enjoyed."
+
+"Thanks, I guess," Shiv replied. Then he fell silent, uncertain how to continue the conversation. The Culturist, though an enemy, was an enemy with a certain bipolarity to him. When he was cruel, he was drowning in it, drunk and reveling. But when he sobered, he was almost human—extremely personable and managed to make you forget the monster that was waiting inside.
+
+"Hey, Culturist, you know I'll be coming after you with my Severed Shadow, right? Because if I get an opening, I won’t just be taking your hand next time." Shiv looked the orc up and down, trying to sense any hint of anxiety, of weakness, even ire.
+
+The Culturist gave him nothing. "I know." He replied as calmly as one might when discussing the weather. He held up his hand—missing fingers and palm regrown, but still sporting a deep scar. "It would be wrong of you to hold back. You will do all you can to free your friend from me and to seek the elevation of your new Unique Skill. But understand that I, in turn, will do all I can to decipher its secrets, and then break you, before I then rebuild you, and we repeat this again ad nauseam. Until one stands and one falls."
+
+"Well, that's just a thing, isn't it, Culturist?" Shiv said with a faint grimace on his face. "We both end up standing in the end. Eventually. Unless one of us breaks or finishes the other one off for good, we both come back for another turn, another round. Until I get strong enough to set you free from this cage that is your life. Either by killing you or your God for good."
+
+"And I will applaud you if you prove capable of doing either," the Culturist said with genuine emotion. "Thus far, you are only a babe taking your first steps. But I am still glad to witness them. And I am also glad that you have a purpose beyond this." The Culturist looked at his fingers. "This cage, as you have called it, this cage of blood and strife."
+
+Suddenly, the Culturist looked over his shoulder, and a breath left him—an exhalation of resignation. "I think I should take my leave now. You have company, one that I would not seek to deprive you of. Again, I bid you good fortunes in your struggle."
+
+"Wait," Shiv said, before the Culturist could teleport away or something. "Look, if you really need to hurt someone badly, I'll be here. I'm not going anywhere. I'm not running."
+
+"Ah," the Culturist muttered. "You seek to take the brunt of my hunger on behalf of your friend, do you not?" Shiv just nodded. He didn't intend to deny it.
+
+The Culturist sighed. "I will focus the bulk of my attention on you, but understand that Adam will need to be hardened of his own accord. And he will need to be conditioned to become sharper, stronger, and impossibly skilled if he wishes to survive. He has caught your flame, and there is no way out of this.” The Legendary orc shook his head mournfully. "He, as most who are not you or me, has room for not even one mistake. It's not fair, is it? But that's the System's way. We have all the chances in the world. If he fails but once, that is all for him. And despite our best efforts, despite all we wish to do, I fear he might know a final end one day, and you, again, will pay a debt in tears."
+
+And before Shiv could reject the orc's claim, he vanished, not even teleporting, simply blinking out of existence in a flicker and nothing thereafter.
+
+The Deathless clenched his fists tight, and as he stared on at the absence where the Culturist once was, he made a pledge. I'm not only going to make the Gourmet swallow his own pride, I'm also going to give you what you want. You'll taste a proper course I've made someday, Culturist. I'll give you a death worth having. I'll set you free. One way or another.
+
+An azure blue glow spilled over Shiv's shoulder. The depth of his eyes widened, but he didn't need to ask who it was. He turned, facing his friend. Adam had his wings spread out wide, but his expression spoke of tension and worry. He held his Spellstring in one hand and another massive, dense alloy bow in the other. Shiv didn't even remember where Adam got that bow from. The Gate Lord was looking around, hunting for foes unseen, but Shiv realized he was really only searching for a single Pathbearer.
+
+"He's gone?" Adam asked.
+
+Shiv nodded. "Just left. He knew you were coming. Wants to give you space, he said. He got enough cruelty hurting me earlier, so he's going to give you a moment of reprieve."
+
+"How comforting," Adam replied dryly, but his sarcasm could not hide the true depths of his apprehension. "Being honest, I listened to the end of your conversation. Shiv… do you think he's right? Do you think that—"
+
+"No," Shiv cut Adam off, unwilling to even consider the possibility. "No. He's wrong. We've been defying the odds for so long, we've been burning for so long, and we're only going to get better. And I'm going to be here with you, and all that is going to be bullshit. Ten thousand years down the line, one hundred thousand. We're gonna keep defying the System until it breaks, until we find a way out for good."
+
+Adam didn't seem entirely convinced. Worse yet, his eyes were no longer upon Shiv. Instead, they flickered between the colors of a brightening sunset and that standard cerulean blue. He was looking off at a distant patch of clouds, and Shiv realized why.
+
+"Is he there?" Shiv asked, looking up into the raging storm.
+
+"I think so," Adam replied. "But I'm not sure. I'm never sure with him. I think he is looking at us, though. Waiting for us to act, to respond. I think a part of him wants us to have come seeking him, to face him in open battle. No matter what he does, the itch will always be there.” Adam sighed. “And it's not just him. Perhaps no matter what we do, the System will always loom over our shoulders in wait to feed our lives to war and pointless bloodshed."
+
+"Yeah, well, it can keep looming as much as it wants," Shiv spat. He glared up at the sky. But not at the Gourmet or the Culturist. Not even at the Challenger. But at everything that encompassed them and their world. "But it can also go fuck itself. Because I'm not playing along. And eventually, I’m gonna get strong enough that it chokes on me for good. Yeah, I might burn, and I might have a billion enemies and as many pointless wars directed toward me. But I'm not going to fight any of them. All the System will be offering me down the line are customers for my restaurant. I'll beat them down, but you know what? I'm not going to kill them. Once I get strong enough, I'm just going to feed them. And all that strife is going to go nowhere forever. Then we'll see how absolute or all-powerful the System is."
+
+"You know who you sound like right now?" Adam asked, turning his face away from the sky.
+
+Shiv winced. He knew what was coming. "Udraal?”
+
+"I don't mean that mockingly,” Adam said. “I know he's a vile bastard. I know that he's done so much wrong to both our families, to us. But his hatred for this world we live in, this cage, as the Culturist put it, is symmetrical to ours. It's understandable. And I am afraid that perhaps, with the passage of time, we will become more like him and the Culturist, or more likely..." Adam looked away, swallowing. The trouble showing partly on his face was more personal, more intimate than Shiv realized before.
+
+"You're afraid you might become your father?" Shiv guessed, guided by his Enkindled Heart.
+
+Adam nodded once more, but his head remained bowed in surrender rather than acknowledgement. "My father and Jessica… The Ascendants and the Starhawk… Valor and his son. They were once family, friends, and companions. With time, with all the changes they've undergone, they turned against each other. They became enemies without fail—every single time."
+
+"Yeah, maybe, for them," Shiv grunted. "But we're different. We're over-favored. And things are just going to keep building for us until something breaks. And coercion's going to follow, and then it's going to escalate from there. And then we're probably going to do another and another, until we travel down the rungs of power, and we clench the System until it's dry."
+
+"But is there an end?" Adam asked. "Is there a limit? Perhaps we are simply at the very bottom of a very, very, very deep well. A well that might just be feeding off the struggle of our climb to grow ever higher above us. Maybe we run an impossible race. Maybe we'll realize after a hundred years of climbing that the System simply grew ten times faster, and the well ten times deeper. Forever outpacing us. What if there's simply no chance?”
+
+Shiv considered Adam's justifiable fears for a moment. Then he scoffed. "Nah."
+
+"What do you mean, 'nah'?" Adam said, incredulous. "We don't know how the System truly functions. It's very much possible."
+
+Shiv shook his head. "If that was true, then why did it put a worldwide hit out for me? Why is it trying to get everyone across the world, every single Pathbearer, to take a swing at me? Is that the way an all-powerful being that will always grow more and faster than everyone else might do things? No. It's crude, it's stupid, it's brutal. It's something I would do, and I don't have a strategic or tactical bone in me. This is desperation. If you're that experienced, you have that much strife, that much power inside of you, then I think you might be able to come up with a better method. My worry is that it wants this, that it desires this. That the System is inside us and using us because it's not all-powerful. But because it's limited. It's a leech of some kind. And it's feeding off of us. It doesn't have more power than what it can take from us. And if that's the case, if I'm right, then we'll beat it by being unreasonable, always. By doing whatever we want, instead of whatever it wants. We ignore its Quests and rewards, and we try to put our will before it. We create our own order. We build up Piety. It's our sanctuary and our fortress. We dare the world to come here to take from us, and then spite and defy it every single time."
+
+Though Shiv's words burned with passion, Adam remained deflated. There was a lost look to him, a fear that was only growing stronger. "I wish I were like you sometimes,” he muttered.
+
+“You don't need to be like me,” Shiv retorted. “I don't want you to be like me. I need you to be more like you, because if we don't have you, then we don't have a future." Shiv took a step forward and gripped his friend by the arms. "I'm here for you. You're here for me. We're all back together again, and we need to make a fight of this. We can worry, but I don't think that's going to do anything. The future might be worse than we can imagine, but I'm not going to give it any bit of my fear, any bit of my emotions. We think about tomorrow, but we fight and live right now. And we learn from yesterday. That’s what we do."
+
+Rhetoric 23 > 25
+
+Sage of the Enkindled Heart 149 > 150
+
+A beat of silence followed in their conversation as the storm continued to rage around them. Then, the beat soured with awkwardness.
+
+"Where did you even get that?" Adam snickered, taken aback by the shift of words. "You read a book or something while I wasn't looking?"
+
+"Hey, fuck you! I can get philosophical and shit if I want," Shiv said, the moment of tension between them broken. He picked Adam up by the shoulders and began shaking him. "And I was freaking trying to be genuine with you. You're a ruiner! A ruiner!"
+
+Despite his bleak mood a few seconds ago, Adam started laughing. Try as he might, he couldn't dislodge Shiv's hands and simply bounced back and forth like a battered puppet. "Alright, alright, I'm sorry, I'm sorry. Stop, Shiv, Shiv, stop. I'm serious, stop, stop! I'm gonna get sick if you keep shaking me like—"
+
+"Is this a bad time?"
+
+Both Shiv and Adam went still, their heads turned in tandem, and they saw Uva standing at the exit to the Court Leviathan’s top side, arms crossed. She studied them with a look of mock outrage and envy. "Ah, I see. I'll come back later, then. Both of you have your hands occupied with the other. I realize now that I'm unnecessary and that you have cultivated your shared emotions beyond me, Shiv. I’ll return later."
+
+"What? No! Now’s good. Adam was just leaving!" Shiv's mind shifted violently from one track to another. With a casual flick of his wrist and a flex of his Tides, the Gate Lord went sailing off into the storm, tumbling head over ass with a surprised yelp that quickly trailed off.
+
+"Shiv, you bas…" Being flung by a Legendary Physicality was a hell of a thing. Adam went from a speck to not even that in less than a second, and a sonic boom followed as he curved toward the distant horizon.
+
+A small bit of Shiv felt bad that he'd chucked his friend away so callously, but he knew he wouldn't take it that personally. For long, anyway. The bulk of Shiv was distracted by something else. He had made a promise to her earlier.
+
+"You know he's going to be a bit sour over that," Uva noted with a smirk.
+
+"He'll get over it," Shiv replied as smoothly as he could. "So, how are you doing this evening, Sister Uva?"
+
+"Better than you are, I suspect. But as always, you go between being a mental wreck and mostly stable in record time." She briefly glanced at the colossal Cauldron floating a few kilometers before them, the party inside still going strong, and at the Gourmet standing atop it. "That one, however... That one's mind disgusts me. Psychologically, he's like a rotting egg. I've genuinely never seen anything like it before, even among orcs. I hate to put it this way, but I think you picked a rather disturbing grayskin to feud with."
+
+A loathsome snarl escaped Shiv as he waved the Gourmet off—who obviously didn't move an inch. "I'll figure him out. I'll figure all of this out. But I can do that later when I… Enough about me. Let's talk about you. How are you doing?"
+
+A pensive, tired tint came over Uva, but the faint smirk on her lips bloomed into a full smile. "Well, inside, I've been better. Outside, I feel worn. I have a lifetime worth of nightmares stored in the back of my mind. Enough madness that I should have shattered over a trillion times, and parts of me have been transforming so much that I don't even feel myself anymore, like I am a stranger occupying my own flesh. And I can still hear them sometimes. Not the Dreamtaker. For some reason, she's still quiet. But the Eldest, the Stranger. They lurk in the back of my mind, always. They seethe with hate, they seethe with misery. They will come for me again. They will come for all of us. And then there's the matter of my homeland and my kinfolk, who might now consider me a monster compromised by outside influence."
+
+She scoffed lightly. "Beyond that, there is the matter of my mother, her apparent vampire lover, her killer, her killer’s grandmother, your past, and…" She trailed off. She closed her eyes and took a centering breath. "And that's enough of that. I'm done feeling miserable for now. I'd rather feel something else. We should face this down in time, bit by bit."
+
+"Together," Shiv said.
+
+"Together," she agreed. "And later. Before more strain should come recovery. So, Cherished Shiv, how about you let me know of some place secluded where we can discuss… less severe matters. And deal with unsettled hunger?"
+
+Shiv's pulse quickened, but just then he noticed something. Everything around him had gone quiet. Unnaturally quiet.
+
+The storm had cut off in an instant. The booming music and fireworks originating from the Cauldron had ceased. There were over a million orcs in the area, and none of them were speaking.
+
+Shiv sucked in a breath. "You know, I think we should explore the Umbral wilderness instead. I’m sure we can find a nice spot there."
+
+As soon as he said that, a deafening roar of discontented groans sounded from all across the land. It grew to a deafening level as the orcs complained about not getting to level their Human Mating Activities skill and other things like that.
+
+"You know, the worst part about this is how some of them are actually serious," Shiv said, glaring at nothing in particular. "Some of them probably do have that skill, and some of them do want to watch because they’re fascinated."
+
+"I think I've had enough of that," Uva replied with a slight pout. "Valor, Adam's mother... I don't think we need a third guest to our performance."
+
+"IT'LL BE MORE THAN THREE!" the Gourmet screeched from atop the Cauldron. “WE’RE ALL HERE! GIVE US SUCKY-FUCKY, INSUL! YOUR PERFORMANCE THERE CAN'T BE WORSE THAN IN THE KITCHEN!”
+
+"Let's get the hells out of here," Shiv said flatly. “Before I lose my shit again.”
+
+Uva extended a hand, and he took it before quickly flinging his body up and away with his Shapeless Tides, sailing quickly for the gateway. Along the way, Shiv saw Adam approaching the gateway as well before he veered off violently.
+
+Both Shiv and Uva burst out laughing at the sight.
+
+"Oh, we really traumatized him, didn't we?" Shiv said.
+
+She just sighed. "We are performing a complete sweep of our surroundings. I’m not going to even allow a bug to be nearby. And, Shiv, how many times can you replicate yourself? Out of curiosity."
+
+"What, in total, or before I lose function? Because before I lose control is only three but—"
+
+"Let's discover in total. Together." Uva’s voice dropped low. "And don't worry about losing control. Don't worry at all. I will take hold of that which you can’t control. Your hands and bodies will be as if… my own."
+
+“O-okay.” A new dash of fear split through Shiv’s lust as he both dreaded and yearned to discover just what she intended to do with his resurrected bodies.

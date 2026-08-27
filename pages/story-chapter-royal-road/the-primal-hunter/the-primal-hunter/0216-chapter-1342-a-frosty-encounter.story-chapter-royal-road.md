@@ -1,0 +1,137 @@
+---
+id: 7143957e-f6a2-59bf-91a6-419f1dfb3002
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1342 - A Frosty Encounter"
+slug: 0216-chapter-1342-a-frosty-encounter
+partOf: the-primal-hunter
+position: 216
+ownLength: 3095
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3607908/chapter-1342-a-frosty-encounter"
+royalRoadId: "3607908"
+---
+
+Despite facing a True Dragon, the fighters from the Altmar Empire didn’t back down but fought back with quite the fervor. What’s more, they were actually holding their own pretty well, showing that this Territory wasn’t a minor one. It had a lot of decently powerful B-grades, and while none of these B-grades were top-tier talents, they were definitely in the elite tier.
+
+These fifty elites used their formation to create an energy construct that protected them all as they closed in on the True Dragon, with some of the people inside the construct releasing magic toward Tramon, who unleashed an avalanche of ice and snow down on them, seemingly intent on burying any opposition.
+
+Lots of wide-scale magic attacks, Jake noted as he studied the dragon’s magic. All his attacks so far had been large in scope, which tended to be a sign of lacking control. It had been said before, but why create a planet-sized explosion when one could instead condense that explosion, intensify it, and make it only the size of a house to deal way more damage to one’s target?
+
+Jake guessed Tramon was still not fully used to his overwhelming magical might after evolving to a dragon quite yet, so this fight was probably good for him. Gave him the chance to learn what he was truly capable of.
+
+As Jake had expected, the avalanche was broken through by the B-grade elves as the construct morphed, creating a lance-like weapon that pierced toward the dragon. Tramon retreated wisely as the lance stretched upwards, trying to impale his belly with impressive momentum.
+
+With another wingbeat, an invisible wave of force struck the construct, forming a faint layer of ice all over it while still failing to make contact with any of the elves within. It was definitely an impressive formation, and it reminded Jake a little of the barrier that had covered the Altmar Census Golem he’d fought way back.
+
+Speaking of Altmar technology, the weapons around the Beacon had been quiet for a while, but it appeared they had simply been charging up to unleash a proper defense in unison with the formation construct.
+
+While Tramon was still conjuring another attack, a flash of light appeared within the Beacon barrier, and before the True Dragon could muster any defense, a bullet struck him in the side before proceeding to explode, bathing the sky in an odd blue destructive mana that crackled with electricity despite definitely not being purely a lightning-affinity attack.
+
+Tramon was pushed back by the explosion, a few of his scales broken where the bullet had struck, leaving a flesh wound that pulsed with the same odd lightning energy. Definitely not happy about the unexpected attack, the dragon let out a roar before mobilizing even more mana than before.
+
+The elves within the construct also attacked on their own, about a dozen of those within shooting magical rifles toward the dragon, each unleashing scorching rays, really proving Jake’s point that guns were just wands with extra design steps, making bows objectively better in every single way imaginable if one wasn’t a boring mage.
+
+As if to prove Jake’s point that guns were inferior weapons, the scorching rays never reached their target as an almost solid wave of cold air swept down toward the elven mana construct, freezing the beams mid-air before proceeding to do the same with the magical formation, sealing the many B-grades within.
+
+Jake nodded slowly. This kind of attack was definitely dense in terms of concepts. This attack was no longer merely about being super cold or having a lot of energy infused into it, but about having a high level of conceptual power. It relied on the very concept of freezing and the effects of cold, allowing it to cool down even that which usually shouldn’t be affected, to the level where even hot, scorching mana beams were turned to ice.
+
+Tramon looked intent to follow up, but the flying vehicles showed up once more, unleashing their entire payload toward the dragon while barreling straight for him, or more accurately, the clear barrier of ice he’d conjured to stop their hail of lasers and bullets.
+
+Jake fully expected to see them do a fly-by or something like that, but instead, all of them got a sudden burst of speed when they got close, the first destroying the barrier before they all proceeded to slam straight into a surprised Tramon, who had definitely also expected them to divert their flight path.
+
+On impact, they all exploded in a fashion that definitely made it clear this was part of their design. The same crackling blue energy appeared once more as Tramon was blasted backward and down, flying several dozen kilometers before crashing into the ground, leaving a larger crater as he tore up the fully flat plains of unrealistically identical soil.
+
+His one wing had taken some serious damage as the dragon quickly rose once more, definitely not happy with these developments. Jake also watched on with interest, impressed by the explosive payload within those flying vehicles. Of course, doing something like that had come with sacrifices, and not just in the form of the flying vehicles.
+
+Tramon probably didn’t even realize that each of them had a B-grade elf within who had helped supply some of the power for the self-explosions. Losing them was a significant loss that he doubted the Altmar were happy about.
+
+The kamikaze attack had been a success, though, allowing the fifty elves within the mana construct to thaw free and start preparing an attack of their own, though Jake did note that the construct definitely seemed mostly defensive in design. It was more like a shared barrier; they all supplied energy into together, rather than a true unity skill. The fact that pretty much all of their attacks came from individuals within further reinforced his belief that this was correct.
+
+This meant that they really lacked the offensive means to do much to Tramon outside of what they’d prepared within the Beacon barrier. At least Jake believed so, but it seemed that the elves believed they could do some harm to the True Dragon as they attempted to press their advantage.
+
+One by one, Jake saw the elves within the formation construct unleash what he assumed to be their trump cards. Large beams of light, orbs of flames, a large projected axe, and a plethora of other odd attacks were sent out one after another, trying to take some level of advantage while Tramon was downed.
+
+When faced with this barrage of attacks, the True Dragon wisely chose not to bother taking them all. Instead, he shot into the air, having recovered far faster than the elves could have expected. Right then, another flash of light appeared behind the Beacon barrier, sending another bullet toward Tramon. This time, he was ready as Tramon raised a claw, successfully blocking the bullet as he was only pushed back slightly from the impact.
+
+Yeah, this really seems to be it, Jake mused, reckoning that the Altmar Empire didn’t have that much gas left in the tank. The fifty within the formation construct could keep fighting for a while longer, but they were burning through energy just to maintain their current combat capabilities, and nothing the elves had shown could prove any legitimate threat to the Boreal Frostpeak Dragon.
+
+Granted, the Altmar Empire had impressed Jake with what they’d shown. Those bullets were pretty damn good, the kamikaze attack had dealt actual noticeable damage, and while the formation construct didn’t have much offensive prowess, the individuals within did have some decent trump cards.
+
+Perhaps they would have even stood a chance should they have encountered a weaker True Dragon. One that had evolved from a wyvern, though? Yeah, fat chance.
+
+Still, the fight wouldn’t end immediately, as the elves refused to give up and kept trying, Tramon taking the opportunity to really get familiar with his new form. His otherwise sloppy – for a True Dragon, anyway – mobilization and manipulation of mana improved with every cast, and the power behind every attack grew stronger.
+
+Thinking about it, perhaps this sloppiness was why the Altmar Empire thought they stood a chance in the first place. It was entirely possible they had surmised that this was a weak True Dragon that couldn’t at all live up to his potential, but by now, they should realize they’d kicked an iron board.
+
+Unfortunately for them, that realization had come way too late. Even if they tried to surrender now, there was no way Tramon would accept, forcing them to continue struggling in vain.
+
+Several minutes passed as the formation construct began to waver. The attempts to damage the True Dragon by those within had drained their mental energy and resources, and while the defenses within the Beacon barrier kept trying to land blows, they had also evidently weakened by now.
+
+The inevitable conclusion to this conflict was reached as Tramon showed off one last thing. Something that also happened to be what Jake had looked forward to seeing the most, making him look on with more interest as he knew what was about to come.
+
+Tramon had pushed back the formation construct, positioning it between himself and the Territory Beacon. The lining up of the two was almost too perfect, and the dragon didn’t miss the opportunity as he inhaled deeply.
+
+While Tramon had shown himself to still have a lot to learn after becoming a True Dragon, there was one thing he didn’t need to practice much, if at all. One thing that simply came innately with the territory and was nearly solely dependent on the power of the True Dragon’s variant race.
+
+Mana gathered within the maw of Tramon as Jake felt the temperature drop all around him, faint marks of frost appearing on the stable arcane barrier surrounding him. What’s more, Jake felt a sense of stillness fill the area as if a domain had descended upon the world.
+
+All movement seemed to slow down, with even space and time showing faint signs of freezing. Jake figured using something like One Step would be quite cumbersome; shit, any kind of movement would be harder.
+
+And this was still the prelude to the true attack. A passive form of setup, as there appeared to be a bit of a charging time, so best to make sure the opponent couldn’t dodge even if they wanted to.
+
+The poor Altmar Empire elves also seemed to realize what was happening as the fifty within their barrier did all they could to reinforce it. If they hadn’t known before that they were dealing with a high-tier True Dragon, they sure as hell did now.
+
+Tramon stopped inhaling, and as he did, it felt as if time stopped for a moment before he unleashed his new signature skill that left nearly all other races in the multiverse envious.
+
+The Dragon’s Breath erupted from his maw as a snowstorm was unleashed upon the fifty elves hidden within their formation construct. It swept over them in an instant and continued, also enveloping the entire Beacon barrier a second later. The breath kept going for nearly five seconds, and by the time Tramon closed his maw, everything in front of him was white and covered in ice.
+
+Even the sky had cracks that slowly disappeared as the air, space, and all other mana just passively filled the atmosphere, which had also been frozen during the Dragon’s Breath. As for Tramon’s actual targets?
+
+As the frozen atmosphere melted, figures started dropping towards the white ground. Fifty of them, to be exact. All of them were frozen in frantic facial expressions, as their final moments had been perfectly captured; every single one of them turned into popsicles the second their formation broke down.
+
+All fifty of them had died as one, utterly unable to resist the Dragon’s Breath individually. Their bodies landed on the ground, frozen and unbroken, and Jake had a strong feeling that their corpses would take a very long time to defrost. Not days, perhaps not even weeks, would be enough.
+
+Well, they wouldn’t if this were the real world, that is. In this simulated world, all it did was make it take a few seconds longer for them to turn into blue wisps of energy that scattered into nothingness.
+
+Looking towards the Beacon barrier, it was now entirely covered in a layer of ice, making it look like a massive snow globe. Tramon was still, admiring the effects of his attack just as Jake did, but soon enough, he moved as he took flight towards the Beacon.
+
+With little effort, Tramon smashed his claw down into the barrier, making it shatter, showing that, in fact, the barrier had already been destroyed by the breath, and the frozen bubble was merely a remnant.
+
+Beneath, the small settlement surrounding the Territory Beacon had also been filled with snow and frost. The barrier had held up somewhat, though, as the Altmar Empire elves within had all survived, and now, with a True Dragon looming over them and an exposed Territory Beacon right there for the taking... they decided now was a good time to try diplomacy.
+
+A few elves appeared in front of Tramon, looking confident for some reason. The one in the front spoke to the True Dragon for a few seconds, but sadly, Jake couldn’t hear what was being said. Not that the conversation seemed to go very well for the Altmar Empire, as Tramon proceeded to infuse his claw with magic and bring it down upon them, squashing most of the surviving elves in a single attack.
+
+Some of the remaining stragglers tried to run, but the True Dragon easily picked them all off as they were impaled on large icicles one by one. When the last one fell, Tramon rather casually destroyed the Territory Beacon and the surrounding defensive structure, smacking it with his claw like a sore loser toppling a Jenga tower.
+
+When the Beacon fell, it turned into blue wisps of energy alongside all the surrounding structures, soon leaving the entire area blank. If not for the remnants of battle and the fact that a significant portion of the Territory had become a winter landscape, it would have been difficult to guess a Beacon had ever even been there.
+
+Looking at this widespread destruction, Jake asked himself a rather pertinent question:
+
+If he had been on the receiving end of that Dragon’s Breath, how would he have fared? Should he try to block or defend against it... probably not very well. It was night and day compared to Yrelstromoz’s, and while Jake could probably block it for half a second using his cloak and all his barriers, they would quickly be destroyed, and he doubted his Scales would buy him more than another half a second before he had to bear the brunt of the frost. Would he die? Probably not, but only because the main function of the breath was to freeze, not to kill. He would definitely be left in a state where continuing to fight wouldn’t go very well.
+
+As for dodging the breath, Jake was more than confident. Sure, when charging, movement got limited, but it wasn’t as if space was fully restricted. One Step would be harder, but not impossible to pull off, and even without it, Jake was pretty fast and also had means like Eternal Shadow to avoid getting hit.
+
+Tramon flew victoriously up towards Jake, his wounds more or less already healed by now. At least they were all covered with ice that seemed to have some kind of mending effect.
+
+“Chosen,” the dragon said, stopping right in front of Jake, who had already gotten rid of his arcane barrier. “I hope my judgment in dealing with the Altmar Empire was an acceptable decision. They do not appear to know I was related to the Milky Way Galaxy, and if they did, I would more than gladly take the blame. Truthfully, the only thing they can blame is their own weakness.”
+
+“Oh, it’s all good,” Jake waved off the True Dragon. “We’re not in this system event to make friends, and they just got unlucky being placed this close to our Territory. Even if they find out where you’re from, it doesn’t matter. We would have gotten into conflict with them eventually, anyway. The only faction we’re allied with is the Pantheon of Life, though I would want a more careful approach with factions that we have allies in positions of leadership within.”
+
+Jake didn’t know anyone from the Altmar Empire besides Meira’s friend, who Jake wasn’t even sure took part in this event, and even if she did, she wouldn’t be in any kind of position of leadership. As for Meira herself, while she had a good relationship with the Altmar Empire, she was part of this event on the Order’s side. It really couldn’t be any other way, seeing as she was Duskleaf’s Chosen.
+
+“I shall keep that in mind,” Tramon nodded. “Though I do hope that these factions would not blame an initially heavy-clawed approach. We are at war, after all.”
+
+“Eh, it should be fine. I doubt a faction like Valhal would even get mad if you killed a few of their members before fully realizing where they’re from,” Jake shrugged. “And if you are in doubt, reach out to Miranda and the others back at the Beacon.”
+
+The dragon nodded, having already read Jake’s intent for them to split once more. He didn’t ask about Jake’s assessment of his performance either. Perhaps because he was a little embarrassed at his initial display of magic, or perhaps because he was confident that it had been awesome.
+
+“Anyway, I think I’ll be heading in that direction,” Jake said, pointing toward the horizon where another Territory to conquer would no doubt be. “Then you can continue circling the other way.”
+
+As before, they were moving in a spiral-like pattern around their own square Territory, expanding and making sure they conquered everything in the way.
+
+Once more, the dragon nodded, and with that, Jake set off and was on his own again.
+
+It would take some time to reach the next Territory, and Jake really hoped that the next time they encountered a major faction, it would be him doing it... and as if on cue, after only flying for a few hours after splitting with Tramon, Miranda reached out.
+
+“William’s team encountered heavy resistance and needs your help.”

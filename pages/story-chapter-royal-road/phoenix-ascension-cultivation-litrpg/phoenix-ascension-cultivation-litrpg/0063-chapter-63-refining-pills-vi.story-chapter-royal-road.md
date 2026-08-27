@@ -1,0 +1,159 @@
+---
+id: d7adfae0-62b4-545d-a4cf-599d00efb3e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63: Refining Pills VI"
+slug: 0063-chapter-63-refining-pills-vi
+partOf: phoenix-ascension-cultivation-litrpg
+position: 63
+ownLength: 1898
+unit: words
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2857388/chapter-63-refining-pills-vi"
+royalRoadId: "2857388"
+---
+
+What the fuuuu-
+
+I peeked back at Yo Na, her confused expression turning slightly curious upon noticing what must have been surprise on my face.
+
+“What is it?”
+
+“Are those your water crystals?”
+
+She turned her head, staring at me.
+
+“These blue ones, blue rocks, they’re water crystals, right?”
+
+“I think so… I haven’t really bothered with them.”
+
+“Do you not have any notifications when you touch them?”
+
+After a moment of thought, she walked closer to one and touched it, then shook her head. “Not really. It’s just a crystal.”
+
+That’s curious. Is it because I have the Water Affinity unlocked that I can absorb them?
+
+“Would you mind if I… absorbed one?”
+
+Her ears flicked back before turning upward again. “Just one should be fine.”
+
+Well, she had an interesting switch in attitude, didn’t she… One moment she’s threatening me, the next she acts like a cat…
+
+Anyway, since she gave me permission, I thought Yes to the prompt, and the water crystal just… disappeared.
+
+[Water Affinity has increased by 2%]
+
+Alright!
+
+“What did you do?!” Yo Na jumped back, her fur standing on end.
+
+“I absorbed it,” I said with a shrug and reveled at the discovery. It turned out there were other, better ways to gain elemental affinity. Who would have thought those rocks were one of them?
+
+“That’s… something.”
+
+Suddenly, Yo Na didn’t seem as threatening as before. Sure, she was, but after she stopped putting a claw to my neck, she seemed quite friendly, actually. I didn’t know if that was because of her personality or if she was putting on a very good act, but I didn’t mind.
+
+“Have you never tried it before?”
+
+“I don’t think I can… Are they valuable to you?” She purred, a mischievous smile forming on her lips. “Do you want them?”
+
+I do want them, damn it!
+
+She didn’t wait for me to answer, as it was already pretty obvious. “How about this then. In exchange for making me that pill, this entire cavern’s worth of crystals is yours. Does that sound good for you?”
+
+Does it… of course it does. Damn it… I wanted to absorb them now, but I have to wait if I accept her deal.
+
+“Do you… pay in advance?”
+
+She chuckled, a creepy chuckle, not a ‘you’re funny’ chuckle, though there was probably some of that too.
+
+“Scram!”
+
+She pushed her large paw on the ground, creating fissures in the rock. I jumped away and flew toward the exit, hearing her voice behind me. “Don’t come back until you can read this thing!”
+
+Ah, damned cat!
+
+I got out of her cave and flew back toward my own dwelling. It took me a bit longer, but since I could fly above the trees, it wasn’t that much.
+
+When I finally got there, I took some time to calm down and think. Yo Na’s deal wasn’t the worst, but not good for me either. I had to get all the ingredients and refine the pill, but all she had to do was give me some crystals she didn’t even need.
+
+I got the short end of the stick in the deal, but I was sure all the crystals in the cave would be enough to boost me way past one hundred percent Water Affinity. Once that happened, I was sure to unlock an entire new set of skills!
+
+Combining water and fire wasn’t the best of ideas, but having a diverse array of attacks would help. Not to mention, I truly did want to get out of the negative affinity range. It didn’t sit right with me that I’d gone through nine levels and I hadn’t used any sort of water!
+
+Though I did fly through the levels when I killed those humans… maybe I should do that again…
+
+No, no… focus on the task at hand!
+
+I prepared the ingredients in front of me and lit up a fire underneath some normal wood pieces. The wood wasn’t necessarily a requirement, though a good wood would make the process easier. However any would do for these low-tier pills.
+
+With the flame burning in front of me, I sat down and closed my eyes, clearing my mind. For a few seconds, all sorts of thoughts passed through my mind, but then it was quiet.
+
+A calm mind was required for successful pill refining; any stray thought could lead to failure. That was also the case for many things in life. Without a clear head, things would not go smoothly, and you’ll find yourself in a pit of failure.
+
+After those initial insights, the only thing remaining in my mind was the pill recipe for the Meridian Awakening Pill. A relatively simple pill that anyone could refine with a sufficient cultivation base.
+
+I’d taken the basic recipe and tweaked it a little, so it would have some bonus effects, though in most cases they weren’t that substantial.
+
+And it was time to do something I hadn’t done in a long time… Refine pills!
+
+Using my Phoenix Fire, I controlled the cauldron to float over the open flame and placed a tiny wisp inside. The correct heat and temperature were required for each ingredient to melt and harmonise properly with the fire Qi gathering inside the cauldron.
+
+The reason I picked that one specifically was that it had some Qi-entrapping properties that I needed, as I couldn’t use my own Qi to do that part. It was good that they had it; I would have had to refine a low-quality trash pill I would not even feed to a chicken… It would have worked, just… it would not have been a pleasant experience.
+
+Sorry, little girl… but count your lucky stars, for I found something good!
+
+After heating the cauldron, the important step was placing the ingredients in the right sequence. From the ones that needed the most temperature, to the ones that needed the least, then after they fused together, keeping the temperature stable for a long period of time.
+
+For more difficult pills, even the slightest change in temperature could cause the refinement to fail. However, for pills like these, there was some leeway, not a lot, but good enough for apprentices to learn from.
+
+Luckily, I wasn’t an apprentice, but a full-fledged master. Or, I was, when I could use Qi and had proper human limbs.
+
+Now… well, I didn’t have such an easy time.
+
+But I could do it; it may take a few tries, but I had enough ingredients to have at least two attempts.
+
+And if I couldn’t do it in two attempts, I might as well just never touch a cauldron again.
+
+I waved my wings awkwardly, willing the Phoenix Flames to add each ingredient in the right order. They melted one by one, their essence remaining afloat while the impure dregs shot out right after they had been sucked dry. The flame I left inside did a great job at helping me. Usually, you wouldn’t want anything but the ingredients inside the cauldron, but it was something tiny I could control at will, so for the moment, it was more of a helper than a burden.
+
+Using the flame wisp inside the cauldron, I squeezed the refinement materials. Green colored essecnce, red colored essence, purple colored essence, all mixed together under the pressure of the flames, the wisp, and Qi, taking the shape of a large ball. Three more ingredients had to be added quickly, but I had to let the other ingredients have ample time to mix properly.
+
+Adding the ingredients at the right time was also key for refinement, but that was a lesser-known fact amongst apprentices. Even Apotechaires may not know. The only ones who truly understood the core and essence of alchemy were Grand Grandmasters, and by the time they reached that level, they would have no desire to take in apprentices.
+
+I wasn’t at that level, of course, not even in my past life. At most, I was a Master, and the reason I knew so much about alchemy was because of an inheritance I sto- acquired through various means.
+
+It wasn’t easy, but it helped me greatly in the long run. Without it, I would not have gotten as strong as I did.
+
+But how strong was I, really?
+
+The cauldron shook. I’d almost let myself get distracted, but thankfully it was for the briefest of moments. The pill was still fine.
+
+I added the third-to-last ingredient after lowering the temperature, allowed it to melt and fuse, then repeated the process for the last two.
+
+A giant black ball was now fusing, mixing, and compressing under the Qi pressure, and soon it would enter the final phase. The flame wisp rotated around it, helping mix the ingredients evenly. It was quite a handy little tool, and I couldn’t help but wonder why other alchemists didn’t use it.
+
+It took a few minutes for the final phase to start. I increased the temperature gradually, with exact values and extreme care. Everything had to go smoothly for the pill, and I would not allow any mistakes. They had to be perfect; it was my pride as an alchemist.
+
+When the temperature was just right, I controlled the flames to keep it at that level. After stabilising, all I had to do was wait… wait… and… wait…
+
+Despite looking so easy, waiting was actually the most difficult part. You needed to remain focused, concentrated, and sharp, so the temperature didn’trisee or fall. The mental strain was so high that any newbie could suffer from a backlash if they weren’t careful.
+
+It also used up a lot of Qi, or energy, in my case. Thankfully, I had plenty of reserves stored as fluff, so it wasn’t that big of an issue.
+
+And so time passed, and I remained focused. My eyes were fixated on the flame, though I had to move them from one corner to another so I didn’t actually fall into the trap of daydreaming. I found that I did that much more often than previously.
+
+I couldn’t help but wonder why, but I supposed that it would go away with a higher cultivation base.
+
+From where I stood, I could see the time of day change, and from evening it turned to night, from night to midnight, and from midnight to morning.
+
+I had refined the pill for the entire night, and they were almost ready.
+
+However, if I said I wasn’t exhausted, it would have been a lie. Not only was I exhausted, but I was also hungry. All I could hope for was that the pills would be successfully refined, and I could spend the day hunting, then eating, then sleeping.
+
+I really needed to rest.
+
+I sensed inside the cauldron using the wisp of flame I’d left behind, and I could tell that the pill was ready to finish the refinement process. All I needed to do now was send a large wave of Qi inside, or in my case, use the fire to push the ingredients together in one final push.
+
+And that’s exactly what I did. Using the last bit of my mental power and energy, I increased the pressure inside the cauldron. The ingredients mixed, the flame began to dwindle, and the cauldron’s lid flew into the roof!
+
+Then the pills floated out and… exploded!

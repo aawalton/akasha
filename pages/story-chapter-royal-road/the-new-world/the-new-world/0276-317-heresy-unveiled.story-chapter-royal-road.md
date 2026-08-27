@@ -1,0 +1,245 @@
+---
+id: c681811c-8e25-52b0-95e3-f4cccc304ba8
+page-type-slug: story-chapter-royal-road
+title: "317 Heresy Unveiled"
+slug: 0276-317-heresy-unveiled
+partOf: the-new-world
+position: 276
+ownLength: 3296
+unit: words
+ownProgress: 3296
+publishedAt: 2021-09-21
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/754507/317-heresy-unveiled"
+royalRoadId: "754507"
+markedReadAt: "2026-06-29T21:30:40.539Z"
+---
+
+Mana sparked into my palm, and I reached into the dimensional space of the ring. Helios crossed his arms, "It could be dangerous for you to extend into that domain."
+
+I suppressed a grin while murmuring, "I'm a multiverse. This space can't do anything to me."
+
+Torix's fire dimmed, "That...That does seem rather intuitive."
+
+Helios sneered, "Excuse me for advising caution then."
+
+Too busy to engage, I searched through the dimensional ring. This always reminded me of looking through an old memory. Anytime I tried recollecting something from my childhood, I pieced together the various parts of the haze until a picture came up that represented the whole.
+
+The spatial rings worked the same, each pocket being a stockpile of memories I had to pull up.
+
+Once it came across clearly, pulling the material across the veil was easy as pulling a book off a shelf. For this particular ring, I already raided the furnaces. Other bits within it also stuck out to me. One fragment within contained a piece of orichalcum covered in cipheric runes. Pulling it out, the tiny splinter fit into my palm. I tossed it onto the ground before Torix and Helios leaned over it.
+
+Torix tilted his head, "This is a rather intricately crafted set of runes, isn't it?"
+
+Helios frowned under his black mask, "That being's skill is undeniable. This piece is more finely crafted than my own gauntlet or most of the Emperor's work."
+
+The orichalcum resonated with primordial mana, the dark blue seeping out. It poured into the gravel soil below, and the ground melted to magma. From it, the lava insects of Svia crawled out. A fragment of Plazia's mind surfaced, and it hissed,
+
+"I see my deeds haven't gone unnoticed." The hivemind's energy suffused the area until a militia of his writhing magma insects smothered this side of Mt. Verner. They carved out another site that split us from Schema's system, my HUD disappearing. The army remolded back to the fragment of orichalcum before hissing,
+
+"Svia's been cleared of my remnants, and the ahcorous understood nothing of our deal. The razor queens have yet to move, so you may be required to force them into action for your deal with Obolis. The razor queens doubt you. To kill me in moments...It is a difficult feat for them to believe. They are angry."
+
+I spread out my hands, "I'll be honest, I called for something else."
+
+This piece of Plazia tilted its magma incarnation, "That isn't what interests you?"
+
+I shook my head, "I'll get all that squared away. I actually wanted to have a more extended conversation with you. Would Svia work for that?'
+
+Plazia's form rippled, "I am fine speaking there. It calls little attention to itself, preventing us from being seen. In Schema's domain, here, there is light. On Svia, there lies shadow. What do you wish to speak of once we meet?"
+
+I spread out my hands, "It'll be about magic mostly. I'll be asking for a few tips as well."
+
+Plazia hissed out, "You're curious of my eldritch ways? Strange, but fitting. We will be walking the same path quite soon. For each of us, to understand one another's steps, learning is essential."
+
+I raised a brow, "Er, we will, though I might need you to help me develop one or two things first. It shouldn't take long since you're an expert."
+
+Plazia-Ruhl grumbled, "You're quite greedy, aren't you? Twenty furnaces and still unsated. You wish for more from me?"
+
+I waved a hand, "It's a discussion about a few sticking points for me. I need a fresh perspective, not more resources."
+
+Plazia's magma form paused before solidifying, "Then I await your qualms."
+
+As it turned to stone, I raised a foot and stated, "Everyone. Jump."
+
+Torix, Helios, and Chrona jumped or flew into the air before I stomped down. A telepathic wave shot across the surface where Plazia carved sigils. A foot-thick layer of stone disintegrated in an instant, the sound ushering out like an avalanche. As the billowing dust plumed up, I raised a palm. I enforced gravity, turning the sudden sandstorm into a pile of powder.
+
+Helios wiped powder off his shoulders, "So we must jump when you tell us to?"
+
+I shrugged, "It's just a simple request. Can you take me to Svia real quick?"
+
+Instead of answering, he opened his status. He looked around it at me, "Wrath's colony?"
+
+I gave him a nod, and the portal flared into existence. I gave Torix and Chrona a wave, "We'll see you guys later."
+
+Before stepping over the veil, Helios reached up a hand to eliminate the void ice he left here. Chrona stretched out her wings and telepathically shouted, "Wait. Stop."
+
+Helios reached his hand back, "What is it?"
+
+Chrona peered at the cold fog oozing from the bottom of the void ice pillars and structures. Average snow pooled nearby, the entire area chilled by the mysterious material. Chrona stepped up to it, laying the tip of her tail on it. She hummed, "Leave this here. It...It reminds me of home."
+
+Helios pulled a hand back, the albony wincing. He fought Lehesion at Rivaria, and Helios almost died there. He faced the absolute carnage that collapsed the gialgathen's old capitol. Those memories flashed through Helios before he coughed into a hand. The albony royal turned away and tilted a hand at Chrona,
+
+"It would seem you'd prefer this place be a cold wasteland then."
+
+Chrona stayed serene, "If that is how you wish to word it, then yes."
+
+A strange silence passed over us before Helios stared down at his claws. He murmured, "I may craft more void ice for you if you need it...For completing that image you're seeking. Perhaps you may even learn how to create it if you're talented. That is."
+
+Chrona's eyes lit up, and the silvery gialgathen stepped over, "What? You'd do so?"
+
+Helios turned his hand, staring at it from a different angle, "If I find the time."
+
+Torix and I held down a laugh, Helios too prideful to just offer her help like a normal person. Chrona saw right through him, and she leaned her head over. She 'hugged' him with the crease of her neck, the gialgathen roused her words, "Thank you, one of snow. I appreciate the gesture, and I shall give you one in turn whenever I am able."
+
+Helios raised a brow, "Then I require you to let me go." Chrona released him, and Helios brushed off more of the powdered rock. The ice mage hissed, "It's mere void ice. Nothing special."
+
+Chrona's tail whipped behind her, the gialgathen pleased. Helios stepped through his warp, stepping into a hollow patch of ground beneath Wrath's colony. I followed, heartened by their moment. After the warp closed, the droning silence replaced the whistling wind. A steady, stale warmth permeated the area.
+
+Once more, green drone slimes toiled in the distance, maintaining the colony and its enamel structures. We walked over towards the thrumming before being found by bruisers once more. As before, Wrath arrived later. She took more time, making us wait for a few minutes. Coursing through a tunnel, her hulking mass congealed into a more solid form before spines and claws writhed over it.
+
+She snapped through a telepathic connection, "Ah, the Harbinger...I see you've returned."
+
+I spread out my hands, "Plazia's gone, just as I said he'd be."
+
+Her form trembled, "He is. Indeed, our ancestral enemy is no more. You not only killed him, his most disparate remnants dissipated within days of your arrival. He left no lingering traces of his existence here, almost as if he disappeared in an instant. It would make me question if he was ever genuine."
+
+I narrowed my eyes, "You sound skeptical...Almost like you think I didn't get rid of him."
+
+Wrath pulsed, "My suspicions are evident as their reasoning is obvious. Did you and the Emperor craft a plan to fool us? It seems likely given the speed of Plazia's dissipation. A pack of wolves is not killed so easily."
+
+I tilted my head, "Alright, you're telling me that I made a pact with the Emperor and your ancestral enemy, a planet-wide terror, just to trick you into fighting the Hybrids?"
+
+Wrath's form shivered in anger, "And what if I am?"
+
+I spread out my hands, "Doing all of that is far more challenging than simply getting rid of the Hybrids. It doesn't make sense."
+
+Wicked teeth formed over Wrath's skin, "But how else would you kill him? His form was disparate, spread across the entirety of Svia. He has never shown his true self, and he is a planner of the ages."
+
+I stepped up to her, "He's strong, but I was stronger. I can swim through magma, so finding him wasn't difficult. When he was in my grasp, I eliminated him. It's really that simple."
+
+Wrath seethed, "It is simply too quick. No method exists for culling our ancient enemy as you have. We would've uncovered the secret long ago, otherwise. As you're lying, we won't need to honor the agreement any longer. We won't honor that which was never ever accomplished, little lamb."
+
+I raised a brow, "But Plazia's gone. What more did you want?"
+
+Wrath trembled, "We...We wanted a war. A fight. A battle."
+
+I frowned, "You're getting that with the Hybrids. As for Plazia, you wanted him gone."
+
+Wrath hissed, "Perhaps that is so, but I don't believe you have ridden us of him. Until you prove it, we will remain on Svia."
+
+Mana oozed out of my frame, over twenty furnaces hidden under my armor. The aura caused quintessence crystallization nearby, and the surrounding rock shifted and trembled. I lifted a hand,
+
+"He's gone from every inch of the entire planet. A few days ago, his magma insects killed anyone that dug to a certain depth. Now that's gone and from everywhere. What more tangible proof can I give you?"
+
+Wrath quivered, "You could not have killed him so quickly. It simply cannot be believed. We will not move."
+
+I frowned, "Can't or won't?"
+
+She snapped at me, brandishing her claws, "It doesn't matter. Leave, or I'll make you."
+
+Fed up with the entire conversation, I created a colossal gravity well. It swelled with a broad but weak tug. It suspended Wrath's hive. I snarled, "I can lift your colony out of Svia and launch it into space if you'd like. Maybe you'd believe me then?"
+
+Wrath hissed, "Now you threaten us?"
+
+I narrowed my eyes, "I retaliate against those that attack me. You're backing out of a deal after I've done as you've asked. Plazia's gone. What am I supposed to do, let you treat me like I'm some fool who can be double-crossed? If you'd prefer, I'll be the new ancestral enemy of your people."
+
+Immense reservoirs of mana coursed through my body, my dimensional fabric glowing white. Helios stepped away, creating a panel of void ice between us. Wrath paced backward as I wrenched her colony out of the ground. We hovered in a weightless flux, rising above Svia. Wrath's form shrunk, and her blades receded. She withdrew her animosity as she said,
+
+"Please...Stop. We shall do as you've asked."
+
+I let her colony drop, and it plopped down onto Svia with a cataclysmic boom. Tunnels cracked. Enamel snapped. The colony's state flipped from perfect to worn in an instant. Wrath stared around herself before seething,
+
+"Should Plazia return, we will not do as you command so easily. Know that we ahcorous are warriors, and we will not be beaten into submission."
+
+I stated, "Good. Be glad I made you hold to your promise because otherwise, you wouldn't be warriors anymore. You'd be con artists instead." I turned, walking off, "Our business is done here."
+
+Wrath peered off, flowing away. She rumbled, "Goodbye...Harbinger."
+
+As we paced away towards the depths of her colony, Helios murmured,
+
+"I'm surprised your relationship devolved like that. She seemed cheery with you before...As cheery as she an alien entity could be."
+
+I frowned, "She didn't want to believe I'd done something she couldn't. It's that simple."
+
+Helios peered off, "Many would do the same. Should you blame her?"
+
+I sighed, "She tried taking advantage of me. I think she genuinely thought I didn't have the strength to stop him. She wanted proof." I peered around at the ruined colony, "Well, she got it."
+
+Helios shrugged, "Some might say your method of delivery lost you an ally today."
+
+I scoffed, "Yeah, an ally that won't even hold up her side of a bargain unless I threaten her." I stared forward, reaching out a hand, "I don't need allies like that. There's plenty of people out there, and I won't have to strongarm each of them to act decently."
+
+I melted us a tunnel through the ground. As we stepped into the solidified ground, Helios smirked under his helmet, "That's a refreshing opinion. You should trust that intuition more as it served you well just now...And so you know, I agree with the course of action. I'm merely offering a soundboard."
+
+I took a breath, "I figured as much...But thanks."
+
+Pacing deep beneath Svia's surface, we reached one of the many patches of de-Schemafied terrain. Walking into it, I tossed a strip of orichalcum out. As the primordial mana suffused into the stone, another incarnation of Plazia oozed out. Its magma minions completed the edge of the sigils we walked through to get in this place. Once contained, the bug pile formed into a mouth that hissed,
+
+"Then what is it you wish to speak of?"
+
+I turned to Helios, "Do you mind leaving us for a moment?"
+
+The ice mage paced away, stepping into another warp. I peered back at the piece of Plazia, "Ok, so I want to know how to bind my super golems together more. I'm thinking of creating something like a hivemind."
+
+Plazia's form trembled, "This...This requires my totality to discuss. One moment."
+
+Several minutes passed before a tear in time appeared. Plazia stepped out within the body of a hollowed Sentinel. The hivemind closed the warp behind itself before spreading its hands, "You wish to evolve into a hivemind?"
+
+I waved my hands, "Woah now, that's not what I was asking at all."
+
+Plazia peered down where his incarnation was, "Then commanding my full self to this place was the use of foresight for that fragment. Tell me what you want, and fully."
+
+I raised a hand, "I've been thinking of where to go with powers lately. You know, for long-term progress. I've tried using primordial mana, and it hasn't worked at all. It's like I'm hitting a brick wall no matter who I ask. I figure that molding it into my best skills will slow those core abilities down."
+
+Plazia sat backward, a throne of basalt forming beneath him, "Perhaps, but perhaps not. Knowledge is not so finite, Daniel. It shifts and changes depending on perspective and the angle of approach. This is why judging one's knowledge through a singular lens is foolish and shortsighted."
+
+Plazia peered towards the hard floor, "In your situation, your talents expanded greatly with that armor of yours. You've become an anomaly, and primordial mana should come easily for your augmented mind. As for binding the golems together, that is a crossroad I recommend against."
+
+I sat onto a gravity well, "Why, exactly?"
+
+"It destroys their greatest strength - their individuality. Unlike my pawns, your golems carry their own minds. This unlocks devastating potential since otherwise, they perpetually drain you for maintaining them. Your skin and flesh and bone is cause for that, as you carry endless mana within your body."
+
+Plazia steepled his fingers, "For you, amassing power should be derived internally, as it's possible. The unity of one gives cause for decisive action, and you're not from a species like the ahcorous or the ruhls. It is unnatural to disperse your mind like us. Primordial mana should be the perfect method for you, given your dimensional status."
+
+I grimaced, "I really don't think it is. I don't know if you understand how much of a roadblock I've had with it."
+
+Plazia leaned forward, "I am a master of that mana type, so allow me to decide. First, tell me what you know of Primordial mana...We'll discuss it. Holistically."
+
+I started from my first experiences with the advanced mana type, moving up the rung of that memory ladder. I talked about the various perspectives I angled for it, the sheer number of tries at its manifestation, and the months of failure. Plazia soaked in the knowledge with an occasional nod. After I finished describing all of my pitfalls, Plazia leaned back on his throne. Plazia leaned against one of his hands,
+
+"You already know primordial mana and how to use it."
+
+I threw up my hands, "I sure as hell don't have a skill for it. I also can't get the mana to pop up no matter what I try either."
+
+Plazia let out a laugh. The droning cackle continued for a while. In time, a bit of frustration leaked out of me, and I snapped, "What's so funny?"
+
+Plazia raised a palm, the graphene plating gleaming. The hivemind took a deep breath before spreading his hands, "Let us try this. Dwell on your methods for primordial mana. Sink deep into its depths, and call forth the raging energy, a writhing abyss of control and creation."
+
+I frowned, "Are you making fun of me?"
+
+Plazia shook his head, "Verify if I am yourself."
+
+Keeping guarded, I took a moment, thinking off all my knowledge about primordial mana. I instigated memories of wanting to build and create. Simple memories resurfaced, ones about building sandcastles or wooden forts as a child. At the same time, I calmed my mind down to a state of serenity, as I did for origin mana.
+
+Into the vast, cool ocean of my mind, I dove. I dwelled deep into the waters where the rays of light no longer reached. I remembered the dead planet I traveled to. I recalled the creatures feasting on sulphuric pits on the ocean's floor, the dim stars, and the thin wind. A tremble raced up my spine as my own immortality weighed on me.
+
+I'd await the stars dying, all other life gone. Drifting through the void in loneliness, I channeled this primal dread. From deep in my chest, I willed out a solution, a method of creating something worth living in. A spark flared in my mind, connections forming. They stormed out without stopping, and a flood emerged.
+
+I gawked as a condensed blot of primordial mana formed in my palm.
+
+My eyes widened, and I raised it up high. I shouted, "Ah hell yeah. I can't believe it. How did that happen so damn fast? This...This is incredible. You're the best teacher I've ever seen, Plazia." I turned to my side, "Sorry, Torix." I peered back at the mana,
+
+"Hah. Wow. That was easy. Really easy, actually."
+
+Plazia scoffed, "I taught you nothing."
+
+I furrowed my brow, and the primordial blot wisped out of existence. Panic surged in my chest before I returned to my previous state of mind. As I did, the mana reformed with ease.
+
+Too easily. It was as if I achieved some mastery of it already. I blinked, "Wait a minute...What's going on here?"
+
+Plazia spread out his hands, "What is different about this place than everywhere else you've ever resided?"
+
+My mind jumped to a dozen different possibilities before I leaned over. My eyes opened wide, and my jaw slackened. Plazia nodded, "That's correct, little one."
+
+My surprise turned into anger as I seethed,
+
+"Schema isn't here."

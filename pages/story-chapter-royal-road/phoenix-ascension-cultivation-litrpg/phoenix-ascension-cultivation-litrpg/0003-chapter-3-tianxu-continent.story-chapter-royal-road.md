@@ -1,0 +1,281 @@
+---
+id: 21ad1072-ec3c-5a85-901b-ac082687a431
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Tianxu Continent"
+slug: 0003-chapter-3-tianxu-continent
+partOf: phoenix-ascension-cultivation-litrpg
+position: 3
+ownLength: 3015
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525640/chapter-3-tianxu-continent"
+royalRoadId: "2525640"
+---
+
+Evolution what?
+
+I grumbled, glancing at Mother every so often as I re-read the text. She didn’t seem to notice it, not even looking at me while continuing to crush the shells for me to eat. It was clear that she wasn’t too thrilled at having to break the eggs she had been working to hatch for so long and only feed them to a single chick.
+
+However, I didn’t care much about that at the moment— as cold as that sounded— because what the text said intrigued me more.
+
+Evolutions, does that mean I can evolve? That would be incredible! I refuse to remain stuck in such a small and clumsy body.
+
+Mother had no problem with that, though, as her claws moved faster than an average human’s. However, that's not what I wanted. The lack of fingers made my technique lose a large amount of efficiency, and that’s not something I can live with.
+
+Yes.
+
+I responded, and the text immediately changed before me, becoming another rectangular box with a weird light.
+
+[Evolutions represent a species’ way to rise up the food chain. All sentient and sapient beings undergo evolution.]
+
+[Some evolutions can drastically change the hosts’ appearance, while some do not at all.]
+
+[What evolutions you receive are random, though certain factors may influence what you can pick from.]
+
+[Evolutions have different ranks that affect how powerful they are.]
+
+[Evolutions also decide what sort of specialty the host will have. While some evolutions are better than others, with enough hard work, they all lead to the pinnacle of life.]
+
+[Your first evolution is available at level 10.]
+
+The wall of text looked a little intimidating; however, the contents were easy to understand. Although the vagueness and lack of details left me more confused than anything.
+
+How am I supposed to reach level ten when I’m stuck in a nest? I need to find a way to get out!
+
+That thought was simpler said than done, though, as the nest was so high that the oxygen leaving my lungs from the speed may kill me before the inevitable meeting with the ground.
+
+Or I’d fall on one of those jagged rocks and die like skewered meat… Neither of those endings was what I wanted. However, for the moment, there was little I could do.
+
+After shrugging off the boxes again, much to the delight of my stomach— which wouldn’t stop growling— I went back to the pile of eggshells and sat down. It was more than twice my size, made out of tiny bite-sized pieces.
+
+Seeing as my wings were no good, I decided to throw away my pride for a moment and eat like any other bird, as humiliating and annoying as that was.
+
+I didn’t peck it, though. After picking up a piece in my beak, I held it with my wings and crunched it down into a fine powder before swallowing it.
+
+It was bitter, dry, yet somewhat wet at the same time. I was sure that the remnants of the juices my siblings had left remained stuck on the shells.
+
+That was disgusting, but far better than starving to death. I’m sure my mother had a good reason for making me do this, most likely nutrition and lots of energy.
+
+Although I was under the impression that mother birds fed their young mouth-to-mouth. Phoenixes must be different then.
+
+I was wrong.
+
+Mother’s head loomed over me after she’d finished breaking up the eggs into even, easy-to-peck-at pieces. She gave me a look with her eye, then opened her beak.
+
+A disgusting mix of digested liquid food and other bits of animal pieces fell down almost drowning me in the foul stench, were it not for my side-stepping.
+
+I almost threw up— not that I knew whether birds could even throw up or not— at the sight.
+
+Amongst the disgusting food and liquid, something moved— a brown, rather large and thick worm. My stomach growled again, this time with even more fervor.
+
+Some drool fell down from my beak and I couldn’t believe I was actually craving it. Under Mother’s gaze and my instinctual desire to feed. I pecked down, but unexpected, that thing dodged unexpectedly!
+
+What the-?
+
+I pecked again, trying my best to snatch the slippery worm. However, again and again it dodged!
+
+“MOTHERFUC—”
+
+The worm seemed to have had some sort of instinct, perfectly dodging my strikes as if it had learned my attack pattern.
+
+Grrrr...
+
+I decided to use my talons instead; however, the thing seemed to be adept at rolling away from them as well, never mind the fact that I still hadn’t gotten used to my bird body.
+
+“If you want to play hard, then we’ll play hard!” I squawked, flapping my wings, and finally jumped on top of it.
+
+Now that it was pinned to the nest, with nowhere else to go, I pecked.
+
+“With the wave of my wing, I, Fa Xiaolan, reduced this puny worm to ashes!”
+
+[You have slain [Earth Worm] Lvl 1]
+
+[XP Acquired]
+
+[Skill: Peck(Novice) has been acquired.]
+
+Oh? Well, isn’t that interesting. First the Evasion skill, now the Peck skill. Are skills being given out for free? I want more, please!
+
+In my contentment I’d forgotten about my mother, and I must have looked very happy after eating that worm— which tasted like chicken. I don’t know if that should be worrying.
+
+She bent down and ‘delivered’ more worms, accompanied by the sauce. My stomach growled, much to my dismay.
+
+Peck!
+
+Missed!
+
+“MOTHEFUCKERS—”
+
+***
+
+After finishing the entire pile, I felt both satiated and disgusted. The strange aftertaste left a funny feeling on my tongue.
+
+I decided to forget this experience and focus on other things, such as figuring out what the text was. Something told me that wouldn’t be as easy as it sounded, and the refusal to answer my questions made it even more obvious.
+
+What are you?
+
+[Information Locked]
+
+Who is your creator?
+
+[Information Locked]
+
+Who am I?
+
+[Information Locked]
+
+What do you know about me?
+
+[Information Locked]
+
+What is this place?
+
+[You are located on the Tianxu Continent]
+
+Finally!
+
+The damned thing finally answered one of my questions, but the answer was as vague as it could get.
+
+Tianxu… the name doesn’t ring a damn bell.
+
+None of my memories— locked, lost, or otherwise— told me anything about the continent. That meant it was either so insignificant I didn't bother remembering it or it was outside my range of knowledge.
+
+If I had all my memories I would be able to tell within moments. No, if I had them I would be able to do much better. I know I had an ancient, powerful cultivation technique; the fact that I still remembered my Nirvanic Flames was proof of that. However, the fact that I cannot remember anything else frustrates me to a high degree.
+
+I didn’t want to mope around though. After asking another set of fruitless questions to the text, I gave up and discarded it.
+
+It only took a thought to do so, but summoning it wasn’t as easy as I thought. Turning toward Mother, I noticed that she hadn’t moved much from her previous place. Ever since feeding me the shells, she’d remained motionless, almost lifeless, and even the hue of her feathers had dimmed.
+
+Looking at her, I could almost feel her pain. Mother’s expression looked familiar, yet foreign at the same time, and the torment she felt flared up inside me as if it were my own.
+
+Poor thing…
+
+That thought came out of nowhere, and the more I watched her, the more a wretched feeling clenched around my heart. I dragged my chubby legs over to her, looking up. Our eyes met, and she let out a sweet coo, lowering herself and nuzzling me with her head.
+
+I did the same, returning the favor. A small amount of warmth flared up within my chest, the feeling making me jolt for a moment. I hadn’t felt such a thing in a long while…
+
+She returned to where she once stood, snuggling against herself, and I decided to leave her alone. Grief was a hard feeling to go through, and losing two children wasn’t something that one could just shrug off.
+
+The white-haired burying the black-haired…
+
+I’m sure she’s worried about the humans coming back, too. This place isn’t safe anymore, unless they think there’s nothing else they can gain.
+
+Fighting a Phoenix in an attempt to capture it wouldn’t be easy in the slightest. However, it seemed that she picked this spot specifically to nest us. That leaves me wondering how they’d found it in the first place.
+
+She more than likely had the same suspicions as well, even though she couldn’t voice them.
+
+Seeing as there wasn’t anything else I could do around the nest, I decided to sit down. Closing my eyes and taking a deep breath, I recalled the feeling of circulating Qi through my body. The little I had seemed to have come from within, and the extra from the level up.
+
+As a Spirit Beast, I should have a relatively good affinity with Qi, unless things have changed. That vulture seemed to be incredibly weak, either that or I am incredibly strong.
+
+The former is much more likely than the latter. The reason I believed that was the class.
+
+Class.
+
+My thought made another box appear before me. It never ceased to amaze me. The strange text and I had a certain connection that made it so it knows what I am thinking about, but also knows what is and what isn’t a command.
+
+[Phoenix Chick]
+
+[A newborn baby of the Phoenix, a mythical species with control over Divine Fire. It is said that they live forever, each death signifying a new beginning.]
+
+[You are small and weak, but at least you’re cute.]
+
+[-10 Strength; -10 Dexterity; -10 Perception; +40 Charisma; -10 Intelligence]
+
+This damnable class makes it so I am much cuter than I am strong. It seemed natural, of course, as the strength of a baby would still be negligible. However, how many babies have the power to wield Nirvanic Flames?! The thought alone filled me with uncontrollable rage. After all, I, the great Fa Xiaolan, have to suffer through—
+
+Argh
+
+Another skull-splitting headache washed over me, and it disappeared almost as soon as it had appeared.
+
+[Error: Host’s body is inadequate for complete soul integration.]
+
+There’s that message again! What does it even mean? What is this soul integration you keep talking about?!
+
+[Information Locked]
+
+AAAAARGHGHHHHH! This stupid text is courting death!
+
+I flapped my wings, the anger seeping through them making them literally catch fire. A large wave of flames blew through the entire nest, scorching the ground and setting the parts made out of hay and branches on fire.
+
+Not good!
+
+The entire nest caught fire in less than a breath of time, black smoke rose up to the skies, and the wood crackled with sharp snaps.
+
+I looked around, half embarrassed, but mostly filled with wonder. Those weren’t the Nirvanic Flames… they were weaker, somewhat, but still strong.
+
+Mother let out an alarmed coo and flapped her wings, the strength of the following winds almost sending me flying. The flames extinguished in less time than it takes one to blink.
+
+She looked at me, and I could only bow my head in apology, though I hadn’t expected her to pat me with her talons.
+
+That wasn’t… unpleasant.
+
+Seeing as she didn’t take issue with my sudden outburst, I turned back to my cultivation thoughts, trying to figure out a way out of this predicament.
+
+Taking deep breaths, I tried to mimic something I vaguely remembered, but it was useless. The ambient Qi didn’t even bend to my will, and the Qi inside me wasn’t circulating either.
+
+Without a proper technique, this will be incredibly difficult.
+
+I tried to remember some cultivation techniques. I remembered over a thousand, I had to have access to at least one. A technique that worked well with any type of body, any type of talent, and any type of Qi…
+
+The lowest Mortal-Grade technique in the Greater Realms— The Ghost Qi Technique.
+
+It was called that because anyone who used this technique to cultivate their Qi would become as pale as a ghost. Their body would become frigid, akin to someone afflicted with a Yin physique, yet with none of the advantages.
+
+If one cultivated it to the Foundation Establishment realm, their eyes would sink into their sockets until they fell out or dried completely. Yet somehow they would be able to retain their sight.
+
+At the Golden Core realm their bodies would turn less and less opaque until eventually they became an actual ghost-like being at the Nascent Soul realm.
+
+It was said that anyone who reaches the peak of the mortal realms using this technique would break past all of their limitations and achieve godhood far easier than anyone of equal level. However, that was only a myth, as I only remember a story about someone reaching such a level, millennia before I was even born.
+
+However, whether or not I advanced with this technique didn’t matter. In the early stage of Qi Condensation, the body would get used to the feeling of Qi, slowly absorbing it in the dantian.
+
+In the middle stage, the cultivator can start exercising Qi inside their bodies, becoming a little bit stronger than the average human, and in the late stage, using Qi outside the body becomes a possibility.
+
+That, and many other advantages, are universal benefits regardless of which technique one uses. Of course, additional benefits can be gained depending on the technique.
+
+I didn’t have such options though.
+
+With only the Ghost Qi Technique in my memory, I decided that cultivating it was better than nothing. At worst, I would have to stop before reaching Foundation Establishment and abolish my progress after acquiring a better one.
+
+Re-gaining an already acquired cultivation level was easier than building from scratch, so I didn’t worry about that.
+
+Slowly, I began recalling the proper breathing techniques and mantra required to make the technique function.
+
+Cold breath. Still soul. No form. No self.Exhale the soul. Inhale the self.The flesh forgets. The chill remains.I do not reflect. I do not speak.What sees is not mine. What moves is not me.I step behind the void. I listen to nothing.My shadow fades. My name dies.I am the cold. I am the silence.I am not. Yet I remain.
+
+The mantra for the Qi Condensation level sent chills down my spine, each verse filling me with a chill colder than the last. I could swear the air around me began to freeze, and the oxygen in my lungs turned icy as I used the associated breathing technique.
+
+When I heard of people cultivating this technique, I had heard of them dying just from trying it. I couldn’t fathom why, as I never tried it, but now I understood.
+
+Without proper warmth, anyone who practices this technique would die before finishing all the verses. Luckily, I had the flames of a Phoenix and my own Nirvanic Flames, not to mention the constitution of a Phoenix at my disposal. That meant that whatever chill or cold attempted to kill me would be taken care of quickly.
+
+Whoever invented this technique must have been a truly evil person. I hope King Yama forbids you from entering the Yellow River.
+
+***
+
+I stood in silence and cultivated, each frigid breath bringing the tiniest bit of Qi inside my body. One thing I hadn’t realised before was that Spirit Beasts didn’t have meridians; therefore, they had no way for Qi to circulate within the body.
+
+That didn’t mean all hope— was lost, though, as creating meridians— at least the weakest sort— was easier than one would imagine. Cultivators below the Ascendant realm didn’t know about it, of course, and even those above would have a hard time coming across it.
+
+There were different ways of creating meridians, some better than others, as well as other means of artificial talent. Those had always been below me, of course.
+
+Yet for some reason, despite all my lost memories, this technique stuck with me. Almost as if the strange text played a crude joke on me, leaving me with the lowest and most evil technique imaginable, and the most horrid way of creating meridians.
+
+Usually, one is born with both meridians and some form of talent-giving gift. Those changed depending on which Greater Realm one was born into, but the most common types were Spirit Roots, Constitution, Soul Strength, Elemental Affinity with Qi, and Bloodlines. They would either have one or multiple.
+
+I was still unsure of whether or not what I lived through right now was real, but I decided to go with the assumption that it was.
+
+In terms of Bloodlines, I possessed one of the most powerful ones in all the Greater Realms— The Phoenix. When thinking that, some sort of ingrained disgust churned in my stomach, perhaps a forgotten memory, but it wasn’t a feeling I liked.
+
+My elemental affinity would obviously be fire, and the constitution of a Phoenix was equal to that of a Dragon. Spiritual Roots were missed altogether, and Soul Strength didn’t depend on one’s body, and it was something extremely difficult to judge without the proper tools.
+
+Ah, I got off track…
+
+I took a deep breath and used the poor technique of creating the meridians while using the Ghost Qi Technique. First, carve out space within my flesh using the frigid Qi, then freeze into a tubular shape and reinforce it with Qi. Finally, the last step— turning them ethereal.
+
+After that was done, the flesh I carved out healed at a rapid pace, and just like that, my meridians had been formed.
+
+That looked easy, but it would take the average Ascendant hours to do that, even with a higher cultivation base than my current body.
+
+Now, with everything ready to go, I was finally able to start cultivating.

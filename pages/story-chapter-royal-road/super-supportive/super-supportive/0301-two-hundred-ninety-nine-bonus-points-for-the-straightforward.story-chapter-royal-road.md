@@ -1,0 +1,341 @@
+---
+id: a54db21b-eb45-5efb-b2a8-c5c44e857b72
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED NINETY-NINE: Bonus Points for the Straightforward"
+slug: 0301-two-hundred-ninety-nine-bonus-points-for-the-straightforward
+partOf: super-supportive
+position: 301
+ownLength: 4367
+unit: words
+publishedAt: 2026-07-25
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3722335/two-hundred-ninety-nine-bonus-points-for-the-straightforward"
+royalRoadId: "3722335"
+---
+
+299
+
+******
+
+Ploomp wasn’t a speedboat, especially not when she was cruising high in the water with passengers on her back. Alden could have kept pace with her if he were running alongside on the bank, but that wouldn’t have been nearly the excellent experience that this was. Esh-erdi showed off his ability to make an orange fall apart into perfect segments, and they shared it while Alden learned a mix of facts about terackerins and this Rapport.
+
+Esh-erdi knew something about every field, dock, and building they passed.
+
+There was a house that had been empty for most of a year because the wizards who lived there had gone to manage Avowed for an und’h knight who was guarding the planet that provided the Fetuna with most of their food. And not far down the river from that house, a cluster of buildings shaped like squat cylinders were having their exteriors finished so that their sculpted mud walls turned as glossy and wet-looking as the surface of the river itself.
+
+Esh-erdi said they were apartments with no particular owners, kept ready for anyone who might want a place here. Mostly, they were occupied by young adults who wanted to get away from their universities for a while but who had no family in the Rapports. And Esh-erdi said there were older knights and votaries, too, who made use of such housing because they preferred not to settle for too long in any one Rapport.
+
+“Wanderers by nature,” he said, “who don’t get enough of it from their work or who find the wandering the work demands easier if they never stop and grow roots.”
+
+“I can imaging how that would be, I think,” said Alden. “I’ve been very homesick—torn away from deep roots—a couple of times. It can be overwhelming. Mastering more of a wanderer’s lifestyle could be a strength. Being at ease with uncertainty, being someone who can give your best wherever you find yourself and then move on to do it again in the next place. Like…drifting without letting what you’ve left behind distract from where you’re going. Doing that well is admirable.”
+
+“Admirable. That’s a nice observation. Will you aim to become such a wanderer one day?”
+
+“No. I don’t like it.”
+
+Esh-erdi had been shredding the orange peel and tossing it in front of Ploomp every once in a while to see if he could convince her to try it out. He paused with a piece pinched between thumb and forefinger, ready to flick toward the terackerin’s head. “A short and <<adamant>> answer.”
+
+I suppose it is.
+
+“There have been positives to my life changing drastically eight or nine times in less than a year,” said Alden. “I’ve learned a lot. But one of the things I’ve learned is that I really want more solid ground. People, a place, and a purpose that won’t fall apart too easily. I know everything changes, so it’s not like I expect it all to stay exactly the same. But I want—I’m going to build—a home to go back to. I’d rather have a place to miss than be good at drifting.”
+
+“Anesidora?” asked Esh-erdi.
+
+Alden hesitated. “Anesidora…there’s a lot to like about Anesidora. It’s complicated. I’m not sure about the future. Stuff might come up.”
+
+Stuff. I sound like I don’t know what I mean.
+
+All of the specifics that came to mind were unshareable.
+
+He wondered what Esh-erdi would think if he knew Alden had opened a window on his interface just a few minutes ago to start taking notes on Rapport III. It was like the cheat sheet he kept to remember details about all the members of the art’h family he’d met, only now it wasn’t just about not mixing up too many new faces and names.
+
+Stuart deciding that the storytelling class was Alden training a new socialization skill so that they would be welcomed as entertaining company among other knights might be far-fetched. But the idea that the two of them might need to apply effort beyond the norm to get along with people kept popping up in his thoughts.
+
+If, after they had both succeeded at all the things new knights were supposed to do, Stuart was still seen as fragile and Alden as ignorant how would it affect them?
+
+Screw the haters, of course, but it would be much better not to have many among knights. I’m already expecting to be viewed as problematic by wizards and who knows how many other groups of people. After my oaths, which I will totally absolutely be allowed to take and succeed at, I’d like to be liked by the group I’ve joined.
+
+He tried to get along with people anyway, but if putting in more effort could give him and Stuart an advantage, he would.
+
+So here he was using his mental typing skills to record everything he could about Rapport III. His imagination was running a little wild. He’d just pictured himself being introduced to someone called Hn’tyon Vyn-sitha one day and turning to these notes to make a better first impression.
+
+“How nice to finally meet you. I rode a terackerin down the river in front of your house with Esh-erdi a while ago, and he told me about you. The net in front of your dock was completely full of skimflies. Esh-erdi said those were good fried.”
+
+And then, whatever concerns Vyn-sitha has about working with the human knight will evaporate! Because a person who once rode Ploomp past her dock is obviously competent.
+
+Well…he didn’t have to use the notes if the right moment never appeared. Making an attempt to prepare still made him feel better.
+
+Wizardry. Bearer of All Burdens. Language and social ability. That’s all got to be given attention. Plus mental health. Having a panic attack in chaos would not be okay, so I can’t let myself neglect that just because I’m in a brighter mood these days.
+
+Another shred of peel floated by, caught in the current created by Ploomp as she swam. She clearly saw Esh-erdi’s snack offerings as litter.
+
+They were passing a building with rows of jars and barrels out front. Esh-erdi pointed it out as a place of interest. A mildly intoxicating drink was made there from the local bundlefruit. He assured Alden it tasted nothing like the Champagne that had divided wizardkind during their Thanksgiving feast. The beverage was served just across the water in a sheltered pavilion that looked like a smaller version of the summonarium they’d arrived in, although it was full of tables and seating.
+
+“It’s popular.” Alden guessed that based on the number of tables and the dozen people already drinking and eating there.
+
+“It’s the place to go in the evening if you live on this river and don’t want to travel to Wathe to find company.”
+
+Famous drink. Chill place where everyone hangs out together. That’s the kind of thing knights from different Rapports could chat about when they’re bored.
+
+“That’s Moshk nodding at us. In the corner there, stuffing his mouth with bread. We’ll pick up his daughter and deliver her to him.” Esh-erdi raised his voice. “Because he’s too lazy to get back in his boat!”
+
+“I’m giving a knight a chance to serve the Triplanets,” Moshk called back. “Get on with it!”
+
+He had light brown hair, dark skin, and a grin so wide it was easy to make out from a distance as Alden turned around to study him.
+
+Does that comment mean he’s not a knight himself? He’s so casual with Esh-erdi, but that doesn’t necessarily rule out ordinary class if they know each other well. What do I put in my notes?
+
+There was a heap of fabric on the floor beside Moshk’s chair that was likely to be a coat or a robe, but Alden couldn’t see whatever markings it might have. The turtleneck he wore gave no indications.
+
+“A friend?” he asked Esh-erdi.
+
+“An acquaintance I’m fond of. And a good neighbor. Moshk is only a little younger than me. He considered knighthood once but became votary instead.”
+
+“For a specific knight or for the Rapports in general?”
+
+“He’s quite the <<generalist>> wizard for this area. Whatever project needs another wand pointed at it. As soon as I saw him sitting there I sent him a message to find out what he’s been doing lately. He always has the small news. He spent the day helping some of our newest newlings and their mentors set up for camping practice.”
+
+Moshk — a jack-of-all trades votary who has the local gossip. Alden made the note before letting himself be distracted by the other thing Esh-erdi had just said.
+
+“Knights practice camping?”
+
+“You understand that since Welcome End has recently passed, many have just experienced their first binding?” Esh-erdi replied.
+
+“I know.”
+
+“This is a particularly good time to keep those newlings together, focused on their futures, and busy with tasks that don’t require them to use magic. This camping practice will be about learning procedures and familiarizing themselves with equipment they’ll carry with them on missions.”
+
+Alden remembered Stuart showing him the tent he liked that had two different ways of making water for them to drink.
+
+Even if he knows how to use that, what other equipment is there? What procedures?
+
+“If someone misses the camping training because they didn’t time their first binding to match Welcome End in either hemisphere…how do they catch up?” he asked. “Or do they have to wait for the next opportunity?”
+
+“I hope you’re not worrying that the Primary’s son might be allowed to die from improper use of a tent. Because that would be a ridiculous thing for anyone to worry about.”
+
+“That wasn’t my worry exactly.”
+
+“Stu-art’h may have other trouble along this path if he walks it. Such as not having anywhere to stand inside his tent because it’s so full of other art’hs trying to watch over him.”
+
+“He doesn’t need that,” Alden said. “At all.”
+
+Esh-erdi rubbed the terackerin’s back while he considered something.
+
+“A knight can go where his oaths lead him in defiance of others. And he could order his votary parents to step aside. But that doesn’t mean it’s best or easy to do those things. Being his friend and observing how forces push him, it might be tempting for you to push on him from the other side.”
+
+“I don’t,” said Alden. “I just listen to him. And believe him.”
+
+“A friend who listens and trusts,” said Esh-erdi. “That’s good.”
+
+“Actually, can I send him a picture of us and Ploomp?” Alden asked. “I think he’d be surprised to see what we’re doing.”
+
+“A friend who torments with images of leisure while he endures lessons. Even better!”
+
+******
+
+When they reached their destination, they stepped off Ploomp and onto a dock. Then it was a short walk up a staircase to reach a long, two-story house with narrow windows that looked down on the river. Esh-erdi led the way around the side, and Alden followed him until they reached the front.
+
+At that point, he had to pause and stare at the lawn ornaments. “When you said they were studying rocks, you meant rocks.”
+
+There were over a hundred magnificent specimens here if he only counted the ones that were bigger than himself. He was standing in front of a ten-foot-tall ruby red boulder. Maybe it was a ruby. He had no clue how big rubies got if you used magic or dug them out of other planets. And scattered around its base, as if to give it company, were piles of other pink and red stones.
+
+I have a sling in my bag, he thought, temporarily driven mad by the sight of so many projectiles. I could sling awesome rocks at the river all day, and not even put a dent in this collection.
+
+But what if there are some husenots hiding in the piles?
+
+As if that were the reason not to do it. He shook off his surprise and caught up with Esh-erdi beside a towering geode.
+
+A few steps farther on, they spotted a group of children and the elderly wizard who Alden thought must be both the teacher and the owner of the rocks. The class was clustered on one side of a massive shard of purple-streaked gray stone that pointed up toward the sky like a knife.
+
+The kids were younger than Kibby and older than Weset. Still a silly enough age for it to be unsurprising when one of Esh-erdi’s nieces spit out a bright pink pebble she’d had in her mouth, screamed “Uncle Esh!” and almost fell over the pile of rocks in front of her sister as she ran to be the first to greet him.
+
+It’s a more casual kind of lesson for sure, Alden thought, taking in the scene.
+
+There were no learning cushions. The old woman had been telling them about how heat and pressure had transformed the rock in her hand, but she only chuckled as six of her eight students abandoned her in favor of the visitors.
+
+The nieces were twins who looked similar enough that Alden thought he would have known they went together even if they weren’t both hugging Esh-erdi and trying to tell him ten different things at once. Like their uncle, they had dark hair and unusually close-set eyes. One was wearing a peach-colored auriad on her head, and the other was doing the same with a sky blue one. Alden wasn’t sure, but it made him think they might have finished binding them recently and been eager to show them off. A third child was holding an arm out strangely, like they wanted Esh-erdi to see the green one they had on their wrist.
+
+I need to make a huge deal out of Kibby’s when I see her in person. Dalat-orni and Alis-art’h don’t know to brag on her because they think she had one all along.
+
+“You’re tall.”
+
+Such was the power of Hn’tyon Esh-erdi that it was only now that one of the children decided to look away from him to see who else had arrived. Wide gray eyes studied Alden from beneath lavender brows. The brows matched hair that hung almost to the ground.
+
+It must not have been cut since this kid was born.
+
+The mane wasn’t braided either. It was a shiny, untangled sheet.
+
+“You’re tall, and your eyes are green.” This was said in a tone of fascination. “Why do you cast illusions on your eyes? They’re pretty. May I have one?”
+
+For a second, Alden was stumped. Probably because of all the talk about Lute earlier, he misunderstood and thought the little Artonan was asking to hold an eye.
+
+“That young man isn’t a wizard, Zakithee,” said the teacher. The two remaining students were trailing after her as she came over to welcome them.
+
+Oh! Zakithee was asking me to cast a spell that turns eyes green.
+
+“I’m an average height for a human man,” Alden said in a friendly voice. “But I might grow a little taller.”
+
+He’d recently checked his height with the System, and he’d officially made it to 5’10”.
+
+“Some humans naturally have green eyes like me. We also— ”
+
+“You’re an Avowed!” Zakithee shrilled, taking such a large step backward that he collided with another kid.
+
+At the word ‘Avowed,’ every child’s head turned to inspect Alden.
+
+“A human!”
+
+“An Avowed!”
+
+“Uncle Esh, who is the human?”
+
+“Did he come from Earth?”
+
+“Uncle Esh, are more of them coming?”
+
+“Hello, Avowed Human Avowed!”
+
+They’d all gotten loud and higher-pitched, but that was because they were excited. Only Zakithee’s exclamation had been alarmed. Both of the adult Artonans had looked startled at the sound of it.
+
+“Zakithee,” said the instructor, “Hn’tyon Esh-erdi has brought Avowed Alden as a guest to surprise you all. He’s traveled here from Earth. Now would be the right time to greet—”
+
+“I’ll be a Knight of the Mother Planet one day!” Zakithee said, turning his back so that the epic sheet of hair was toward Alden.
+
+I’m getting ignored suddenly?
+
+“You’re too young to declare!” half of the children present said so quickly that it must have been the thing to say to classmates who got ahead of themselves by a decade.
+
+“A knight doesn’t like Avowed! Your eyes are green, but they aren’t interesting. Even if you were an ordinary human I wouldn’t notice your tallness. We won’t share wevvi! Not even that! I’ll walk away in this direction now. That’s what I should do.”
+
+The last sentence sounded relieved, as if a bolt of inspiration had given Zakithee an answer to the problem of an Avowed existing only a few steps away.
+
+Just take more steps. Simple.
+
+Esh-erdi thwarted the escape attempt by picking up the escapee and holding them up at arm’s length for an eye-level conversation. “Zakithee-und’h! Where are you going?”
+
+Zakithee-und’h didn’t squirm. “Away in that direction.”
+
+“You did say that. Why are you going away in that direction? Are you scared of Alden? Are you angry at him?”
+
+“No.”
+
+“Then what behavior is this?”
+
+“I’m very proper, aren’t I?”
+
+“Not right now. No. Alden, pardon us for a moment more. Zakithee-und’h, who am I?”
+
+Zakithee-und’h glanced at the twins. “You’re Brim and Droon’s uncle.”
+
+“That’s correct,” the instructor said when Esh-erdi failed to respond right away.
+
+“That’s correct,” Esh-erdi repeated, staring at the child he’d caught. “I’m their uncle. And I’m also a Knight of the Mother Planet, aren’t I?”
+
+“Yes. And you’re Hn’tyon Lind-otta’s, so you must have more to you.”
+
+“More than what?” Esh-erdi asked. “No, don’t answer that. I can guess who you borrowed those words from. Avowed Alden Thorn of Earth is someone I like. He’s been commended by the Quaternary, who’s a knight. He was trying to greet you, who are no knight at all. So whatever idea you have that makes you say knights don’t like him as you try to run away is improper.”
+
+“But I heard…”
+
+“Perhaps you heard something with half your thoughts asleep or an ear turned to a door crack,” Esh-erdi said, setting the child down. “I know all the knights in your house, and they would say hello to Alden. Not, ‘Your eyes aren’t interesting.’ And he recently saved your cousin’s life! He could ask your family for her weight in manyadeeth, but he hasn’t.”
+
+“Which of my cousins?”
+
+“Zeridee-und’h. You might not remember her. The point is that Alden’s a person who wouldn’t say hurtful things to you. And look at what’s in his hands. He’s brought fruit. That’s not someone you should refuse to share your wevvi with, is it?”
+
+Zakithee-und’h looked so unsure that Alden felt a pang of sympathy.
+
+“I don’t want to be hurtful…”
+
+“Of course you don’t,” Esh-erdi said comfortingly. “None of us thought you did. That’s why I stopped you from running to jump in the river. So that you could be proper after all.”
+
+“Hello!” said Alden, deciding a glance from the adults was his cue to try again. “It’s good to meet you all. I did bring Earth fruits with me if anyone wants one. What are your names? Which rock here is the best?”
+
+It turned out all right.
+
+The class soon became lighthearted again, as Esh-erdi must have intended. Seven out of eight kids thought Alden and his oranges were the coolest things ever to happen on the Triplanets.
+
+He had a skill—amazing! He was willing to use it on children who asked politely—even better! He confessed to having a bellybutton—so unique at his age. Respect to his mother!
+
+They showed him the best rocks and pronounced the difficult names of those rocks carefully. Maybe, the children decided as the adults were showing signs of ending their fun, what needed to happen, what almost certainly would be for everyone’s benefit, would be if Alden became a student in rock class, too. So that he could bring them fruit and stories every day.
+
+“What do you think of that?” Brim asked, adjusting her blue auriad on her head. “Zakithee won’t be upset tomorrow. If you were offended by him today, you won’t be tomorrow.”
+
+“I wasn’t offended,” Alden said, cheerful and loud so that his voice would carry to the und’h boy who stood downriver with a net, collecting the pieces of pumice they were all dropping in. “Zakithee-und’h showed me how this pumice floats. He’s been properly welcoming, and I’m pleased we met.”
+
+Zakithee-und’h relaxed visibly at the praise. Unfortunately, he’d be tense again in about a minute. Alden had seen the cycle repeat several times.
+
+Right after their bad start, the boy had briefly disappeared with the instructor before returning to accept his orange and apologize. Alden kept trying to make him comfortable, but now it was like this.
+
+He’s really confused. He heard some grown-ups say something about Avowed, and he learned it. Then when he tried to do what he thought was right, a knight and his teacher let him know he was wrong. Now all of his friends are having a blast with the alien, but he’s not sure how to.
+
+The poor kid was so uncomfortable that Alden was uncomfortable with him.
+
+Despite all my anxieties, I didn’t think someone would come right out and shout, ‘A knight doesn’t like Avowed!’ in my face. Bonus points for being straightforward, Zakithee-und’h. But when I was thinking about haters, I wasn’t picturing one like you.
+
+“I can’t come to this class with you all,” Alden told Brim. “I have my own classes to attend on Earth.”
+
+He saw Zakithee-und’h relax more as those words reached him. He even smiled, no poker face whatsoever to hide how delighted he was that Alden wouldn’t be coming back.
+
+Alden dropped his largest chunk of pumice into the river, making sure it wouldn’t be too far out for the boy to collect with the net when it floated by him.
+
+Okay, little jerk. Cut out my heart and grind it into your pumice collection, then. That’s fine.
+
+There was no way for a child this young and clueless to offend him. But honestly…
+
+“It’s time for us to go!” Esh-erdi announced. “The sun is setting, and I’m sure hot meals and beds are waiting for you all at home. A few of you get to ride Ploomp with us. If only I could remember which children are my sister’s!” He tapped a boy on the head. “Are you my niece?”
+
+With much giggling and dubious claims of blood relation to the erdis, the children were sorted into those who’d be riding the Ploomp bus and those who’d be traveling home in other ways.
+
+“We all rode the terackerin once,” Zakithee-und’h said as his farewell to Alden. “We rode her to the summonarium upstream, and I teleported home from there.”
+
+Alden wasn’t sure why a farewell was happening under the circumstances, but the kid had steeled himself and stomped over here to do it, so Alden would try to make it go well for him. “I’m sure that was a great chance to appreciate the river.”
+
+“It was. I like terackerins.”
+
+“I like them, too.”
+
+The boy stood as tall as he could and looked up at Alden with shining eyes.
+
+Hey, what’s this? Alden wondered as he took in that expression. Are we actually going to connect over being terackerin fans? Thanks, Zakithee. That would be a nice end to it.
+
+“I’m going to find out what my cousin weighs to make sure this is over!” Zakithee-und’h announced. “Thank you for saving her and serving the Triplanets in other ways. I’m honored to make your acquaintance, and I’d give you wevvi if we met again, but we won’t have to do that. Live a long life. On Earth!”
+
+He ran up the bank toward the house, the wind catching his hair and tossing it, his arms pumping to help him get away from the Ryeh-b’t he looked forward to never seeing again.
+
+Esh-erdi had sent his nieces, Moshk’s daughter, and the boy with the green auriad to board Ploomp at the end of the dock. He’d had one eye on them, but the other was watching Alden take his final blows from the little und’h.
+
+“You handled that well,” he said quietly when Alden reached him. “I apologize for making you handle that well.”
+
+“He’s just… ” Alden shrugged. “He’s too young for me to hold any of that against him. Practically a baby. He thought I was a tall, green-eyed wizard, and then he found out I’m an Avowed and that wasn’t…he got bonk-noggined by it.”
+
+Esh-erdi exhaled. “I told you the small und’hs wouldn’t be a problem, but it turned out differently. He’s been eavesdropping on his elders without understanding nuance.”
+
+“What’s the nuance?”
+
+Is there a tiny snap in that question? There shouldn’t be. I’m not mad at anyone here.
+
+“The ones he lives with try to avoid summoning prejudices and emotional turmoil by avoiding relationships with other species,” said Esh-erdi. “They believe neutrality and detachment make them more effective.”
+
+Detachment. Neutrality. No relationships with other species.
+
+He looked back toward the house. Zakithee-und’h was out of sight.
+
+“Are there are a lot of und’hs who feel that way?” he asked.
+
+“Many of them. Some have their own ideals.”
+
+“Better or worse ones?”
+
+“Both. According to me.”
+
+“I understand.” Alden started walking toward Ploomp. “Can I buy some of the bundlefruit drink? When we take Moshk’s daughter back?”
+
+Esh-erdi’s eyebrows rose. “If you want it.”
+
+“I’m not trying to get intoxicated,” Alden explained. “I’m making some notes about life in Rapport III. Since there’s a famous drink, I should taste it. The Contract says it’s mild for humans, and if I take a sip, I’ll be able to tell people from here that I know exactly what they’re talking about if they ever mention the riverside pavilion. ”
+
+“You don’t have to explain your reasons.”
+
+“My reasons are my notes. You know I ended up talking about sermuntha juice with Grand Senator Servin-ith? Little things matter. I’ll taste the food, too.”
+
+******

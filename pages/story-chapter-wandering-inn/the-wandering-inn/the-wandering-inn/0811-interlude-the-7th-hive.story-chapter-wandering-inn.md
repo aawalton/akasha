@@ -1,0 +1,280 @@
+---
+id: 7b1c23f5-06e1-5a32-8733-141449b566ca
+page-type-slug: story-chapter-wandering-inn
+title: "Interlude - The 7th Hive"
+slug: 0811-interlude-the-7th-hive
+partOf: the-wandering-inn
+position: 811
+ownLength: 7040
+unit: words
+publishedAt: 2026-03-14
+link: "https://wanderinginn.com/2026/03/14/interlude-the-7th-hive/"
+---
+
+They were the 7th Hive of the Antinium of Izril. What that meant was, well, you got used to the dying.
+It wasn’t like any other Hive was better, of course. Antinium died every day. So did Gnolls, Drakes, Humans…but they died differently. People mourned them, buried them, and wept for the dead. The fallen of other species had families, and you had a sense it bothered people a bit.
+For the 7th Hive…it felt like every day at least someone died.
+Now, that wasn’t strictly true, but the fact that Xrn, the Small Queen, was open about the numbers put it in perspective.
+The High Passes had been bad. Not bad in terms of the overall scope of the smallest and newest Hive led by Xrn, a roving mercenary force. Proportionally, it wasn’t horrendous at all.
+Just…dozens of deaths. A hundred in one bad engagement with a swarm of crystal-things with fake shells. They resembled beautiful crystals from afar, but they were actually just calcified spit. And the crystal roaches scuttling with their shells came with biting teeth that tore through armor and flesh and they swarmed over you. But mostly—
+ 
+Company 15, Squad 9 — Engagement with a Passmaw on sentry duty. Three dead, seven wounded.
+Company 24, Squad 2 — Avalanche. One Worker dead.
+Company 66, Squad 4 — Lava Slimes. Two dead, eight wounded. Five to be rotated to Free Hive for limb regeneration.
+ 
+Numbers like that. Each one was too much. But again, proportionally to the size of the 7th Hive and their ability to replenish their numbers, this was fine.
+It was great, if you contextualized it as an entire Antinium Hive trying to clear the High Passes, a literal Death Zone. This job for Magnolia Reinhart probably killed less Antinium than the Free Hive lost daily when the dungeon was active. At least, before Belgrade’s traps.
+It was just…Crusader 53 didn’t like seeing the numbers. He didn’t want to know, and that was a terrible thing, wasn’t it? But he was no leader.
+Just a soldier. Technically, his class was different than that. He’d been a [Crusader], then a [Maceman]. After the Meeting of Tribes and fighting in the High Passes, one of the higher-ups had promoted him to leading Squad 5. And the higher-up to the higher ups had decided that meant something.
+He was now a [Sergeant of the Unrelenting Hammer], which sounded very good. Level 32. Highest-levelled in his squad. 3rd highest in the army—well, until recently. And that included Xrn.
+Crusader 53 had lived a charmed life. Just ask anyone. He’d see the new guys (or girls; they kept showing up from the Free Hive these days) troop into camp, and someone would point him out. Sometimes they’d come over to introduce themselves. Sometimes they had a voice, even the Soldiers.
+But they acted like he was an important person, even if they were Armored Antinium, Silent Antinium, or whatever. Because he had been there when Liscor’s 2nd Army had been founded.
+He’d been Crusader 51’s friend. Crusader 53 had not only fought through the Liscor-Hectval war, but he’d also battled the Eater Goats and Gargoyles at Orefell. Lots of [Crusaders] could boast of that, though, and they did these days.
+But Squad 5, Company 3, was one of the two groups with the dubious ‘honor’ of having fought at the Meeting of Tribes, thanks to Not-Erin summoning them to fight the Drakes. The only other group who could boast of that was the Beriad, and only a few of those poor, honorable bastards had come back.
+So in a way, Crusader 53 got it. But he was lucky, not braver or more special. True, he was good with a mace. Calruz himself had said he was talented, but a lot of brilliant [Crusaders] had died due to bad luck or just being at the front of an assault. It was all luck and chance. Someday, he was sure, he’d bite the dust and go to see if Heaven was real.
+…He supposed he wasn’t filled with the same zeal and passion he used to have. That was why his [Crusader] class had been consolidated into his new class. He only joined the morning prayers sometimes, and he didn’t have a great foe to fight. Hectval had been beaten, though Liscor’s Army was still engaged with them.
+He was just a [Soldier] now. An Antinium of the 7th Hive, following one of the Centenium as she led them across Izril in pursuit of gold and levels and a path only the Small Queen knew.
+ 
+——
+ 
+“When you think about it, we have the most shit-ass luck, don’t we?”
+Crusader 57 brought it up one breakfast as they were sitting around the fire. The rest of Squad 5 was used to his complaints, so they barely looked up. Crusader 53 stopped trying to hammer a fork into a very, very hard piece of Gargoyle meat and glanced up.
+They were eating whatever they had—Gargoyles since they’d beaten them in battle two days ago. It wasn’t good. But it beat the nutritional paste they carried as a backup. Antinium would do anything not to eat the paste. They’d dig up worms, make bark soup, kill Eater Goats—anything not to eat the paste.
+Crusader 57 went on after no one engaged him.
+“I’m just saying, think about it. We could have picked the lucky straw and been serving in Liscor’s 2nd Army under Strategos Olesm. I’m not saying it would be easier, fighting the Heckies, but it beats this. Or we could have been called back to the Free Hive. Dungeon monsters instead of the High Passes. Instead, we’re here, so every Wyvern and Passmaw can take a dump on us before we have to go hand-to-hand with Earth Elementals for some stuck-up [Lady].”
+His diatribe was interrupted by Crusader 53 hucking a piece of Gargoyle ‘skin’ at him. It bounced off Crusader 57’s head, and he turned.
+“Watch it, mother-kisser.”
+“[I’m eating. Stop talking about excrement.]”
+Crusader 53 couldn’t talk with his voice, but he did know how to hand-sign in Mrsha-speak. Most of the army picked it up within days, even the newbies. Crusader 57 searched around for something to throw, then shrugged.
+“All I’m saying is why us? Why Squad 5? Well, there’s my answer. We’re too badass.”
+He shook his head sadly. Crusader 53 debated throwing something else, but it was sort of true. Squad 5 had been one of the groups Olesm had fought to hold onto, but the Small Queen had insisted her new Hive have some veterans, and, well…
+One did not argue with Xrn. They could see her this morning, as ever. Unlike Klbkch, she didn’t disappear, and she wasn’t as strict as he was. Not in the same way.
+She was just scary as hell.
+Her new body was cracked and emitting magical light. It looked vaguely like the old one, but it was brown, and less beautiful and just—inferior. It was in every way. Xrn often floated around, levitating a magical staff with her, and her eyes had that bright multicolored glow…too-bright, a symptom of a body unable to contain her power. Headsnatcher had nearly killed her; that woman, Kaligma had finished the job. Now, she was ten levels lower, and still—she was proof of what she was.
+True Antinium.
+Crusader 53 had heard the rumors, heard the stories, and part of him had wondered if Klbkch, Wrymvr the Deathless (whom he’d never met and hoped never to), and Xrn were really all that special. After all, the Free Antinium had made Pawn the Priest, Garry the Chef, Belgrade the Trapmaster, Anand the Strategist, and Bird the Bird.
+Legends all. Iconic. Crusader 53 wasn’t spit compared to the original Chess Club members. Surely they were close to Xrn or Klbkch, right?
+…No. Xrn’s current predicament was proof the stories about her were true. The Antinium body they all shared wasn’t even capable of containing her after she’d lost ten levels.
+For that reason, they followed her. And because she was a Queen and you had to follow a Queen, of course. Privately, Crusader 53 had been relieved not to be reassigned to the Free Hive. Obviously he wouldn’t have minded less action or city life, but he’d wondered if he could just go back to marching around the dark hive, just…obeying.
+Up here, he fought monsters, had to dig latrines, marched, and listened to Crusader 57’s grousing. But you know what made up for that?
+Pay.
+Clinky, shiny coins. Copper, silver, and rarely, gold. You saved each gold coin you had—the newbies sometimes didn’t get how much they were worth and would trade them for a piece of meat or lose them gambling.
+You’d see them process how much they’d lost and sit facing a wall or snap a bit—it had caused a few problems. These days, if Crusader 53 saw someone like the Shellys trying to roll some newbies out of their pay, he’d go over and tell them to knock it off or tap a few heads with his mace.
+Believe it or not, it amused Xrn greatly to learn that her [Soldiers] were gambling, fighting, or concerned with money at all. Crusader 53 knew that because as a [Sergeant], he was part of her command structure.
+She had organized the 7th Hive into a very simple formula based off of Olesm’s army. 7th Hive was divided into companies. 77 companies. And each company—aside from Company 77—had ten Squads.
+So you added up to 7,777 Antinium. Why? Well, because it was ‘7th Hive’. Xrn had chosen the number, and it had stuck. It was weird, but she was weird.
+As a [Sergeant], and as Squad 5’s leader, Crusader 53 was part of the staff meetings. Each [Company] had a [Captain] if they were lucky—a mere [Leader] or the highest-level [Crusader] if not. Levels and organization were all over the place. Xrn didn’t care.
+“What works will endure. You are Antinium. You do not require the same organization as a regular army.”
+“What if we do at a certain point to maintain optimal efficiency, Small Queen?”
+That had come from Company 5’s leader, [Captain] Gormless. It used to be that Tersk would be in charge.
+Tersk was dead. Another casualty of the Winter Solstice.
+They’d lost Tersk and Pivr, the traitor at the Solstice. Artur, their [Banner Commander], had gone back to 2nd Army. Embraim had become a [Knight] and fallen; his company was part of 2nd Army. The Beriad had split. Half for Calruz, half for 7th Army. Belgrade was with Olesm, and Archer B12, their [Avenger], had stayed with Liscor’s Army to kill more Heckies.
+So, really, aside from the Beriad, 7th Army had a lot of the new guys. Some [Templars], some old faces—Captain Gormless was one of them.
+He was a former [Crusader] as well, but he’d decided to get a name when he went back to Liscor. Unfortunately, he hadn’t had a dictionary when he decided ‘Gormless’ had a ring to it, and it had stuck. He’d tried to change his name three times, but everyone called him Gormless.
+Gormless and Crusader 53 were the only two who really gave Xrn any backtalk. No one else dared. Especially if she was annoyed at the moment, like now. She’d turned her head to Gormless as the others drew back, Silent Antinium rasping their claws together nervously, Flying Antinium fanning their wings, Armored Antinium shrinking back into their armor, and had spoken calmly.
+“If such a moment comes to pass, I will learn and implement such organization, Captain. We return to clearing the High Passes. I will oversee Company 43 today.”
+And that was that. They got back to work killing monsters. Squad 5 didn’t lose any members, even when it got hairy. They were pretty high-level. Pretty experienced. But the new guys…
+Crusader 53 read the daily casualty lists. And he started to…not get sick of them, but sort of avoid the new recruits who came in. He didn’t want to get to know them, because they were the likeliest to end up dead.
+ 
+——
+ 
+“Watch it, newbies! Move it or lose it!”
+Crusader 57’s mandibles never stopped clacking, even in battle. Squad 5 was running, charging a giant centipede emerging from the ground. They nearly knocked a new squad of rookies from the Grand Hive over. The poor Workers and Soldiers had spears and refurbished armor from other [Soldiers] issued to them, but despite the so-called ‘Antinium unity’ everyone said they had, they looked like rookies to Crusader 53.
+Oh, they could fight, but they had no instincts. For instance, when the giant centipede tensed and opened its mandibles, the entirety of Squad 5 dodged left. It wasn’t group-think or a Queen leading them. Just battle experience.
+The venom hit the ground, and Crusader 53 surged past the new squads to begin cracking the centipede’s shell with his mace. The Dragonbone Mace let out thunderous discharges of lightning. Red lightning; it never hurt Squad 5, but it could get distracting.
+The plus side was that the mace could blow off even giant legs of the centipede with ease. Once they’d cracked its shell, Crusader 57 inserted his zweihander into the shell and spoke.
+“[Rupture Point]…and boom!”
+The explosion of flesh and green blood coated Crusader 53 as he dodged back. The centipede writhed as the other squads finally caught up and began to stab. Crusader 53 grabbed a Worker stabbing at the centipede’s shell and pointed.
+“[Underbelly. Hit it.]”
+The newbie didn’t even know Mrsha-speak yet, and Toni had to translate for Crusader 53. They shook their heads as they watched the new guys fighting.
+ 
+Company 3, Squad 6 — Centipede attack. One dead.
+ 
+Caught when the centipede had emerged and had torn them apart on the spot. Even when things went well…someone died.
+ 
+——
+ 
+Captain Gormless was doing the paperwork that evening. It wasn’t much; they just wrote it down for Xrn in a book. She’d relay the news to the Queens. Gormless offered Crusader 53 the quill adapted for their Soldier hands.
+“You want to try, 53? You could make [Captain] easy. Or maybe even [Commander]. You could take over an entire battalion.”
+Crusader 53 shook his head.
+“[Don’t want to. I’m no leader.]”
+He was barely a [Sergeant]. He just knew how to fight, and Squad 5 was a unit he could trust. Gormless scratched his head with the quill and got ink on his carapace, which he’d daubed white and green in places. He cursed.
+“Damn. Well, that makes fifty dead so far. Some poor idiots walked straight into an Eater Goat ambush.”
+“[Which company?]”
+“58.”
+The news didn’t hurt Crusader 53 like it should. He’d buried too many friends. He didn’t know the 58th. So he just sat there as Gormless wrote in the book, then closed it.
+“[Where will the new guys come from? The Free Hive?]”
+“Nope. I think it’s…Silent this time. So new girls, unless it’s just regular Soldiers or Workers.”
+The scythe-armed Silent Antinium specialists were a deadly lot. Maybe they’d live longer…though they tended to have ego issues. Company 1 was all Silent Antinium, and they thought they were hot stuff. Right up until they tried to cut something like an Earth Elemental and found their scythe-arms weren’t perfect for all situations, that was.
+In fact, one of them was approaching for her own report with a Worker who could write for her. Captain Gormless straightened and put his helmet on his head. He tried to lean against Crusader 53, crossing all four arms.
+“Oh, Prognugator Maev. Evening.”
+“Gormless.”
+“That’s what they call me, ha-ha! Crusader 53 and I were just saying it’d be nice to have more of your Hive over. How was the fighting?”
+“Four dead.”
+The Silent Antinium Prognugator didn’t go for speaking much. She scuttled forwards as the Worker wrote. Gormless hesitated.
+“O-oh. Was it a bad run-in?”
+“Crelers.”
+Crusader 53 winced. Gormless’ mandibles worked.
+“I’m sorry to hear that. But you’re looking sharp as ever! Would you care to get a drink later?”
+“No. Bye.”
+Gormless sagged as Maev scuttled off, camouflaging her chitin so she appeared almost invisible unless you knew where to look. She joined a section of oddly-shimmering ground where Silent Antinium were relaxing.
+“She was having a rough day. But you saw she remembered my name, right, 53? You don’t think she’s seeing any other company commanders, do you?”
+Crusader 53 patted Gormless on the shoulder and made his escape before the [Captain] could start speculating more ways to impress Prognugator Maev. Crusader 53 didn’t go in for the relationships thing some Antinium were trying. As far as he was concerned, he’d read the Book of Carnal Intercourse, a How-To and Explainative Manual, an Updated Revision passed around by the soldiers, and it hadn’t done much for him.
+That wasn’t the point, anyways.
+ 
+——
+ 
+The point was that the 7th Hive did not want for resources, be it personnel or equipment. As the Small Queen, Xrn, had formed her Hive without requesting permission from anyone. Even the Grand Queen listened to her, if grudgingly at times. When she gave orders, someone did it or she got intense.
+Thus, her system was simple. The 7th Hive would always be 7,777 Antinium strong. If one died, they were replaced. Every Hive contributed to her Hive. Mostly, it meant regular Soldiers and Workers with specialists from the Flying and Silent Hives being exceptions. They even had a birther sac hidden in an undisclosed location that could generate Antinium, but Xrn said she had plans for that. So new members of the 7th Hive were from all the others.
+Oh, and the Twisted Queen occasionally sent…well, after the first time one of them had exploded in battle, Xrn had told her to stick to regular Antinium. Apparently Wyrmvr had taken over and they were getting bog-standard Antinium now, which was good.
+You learned a lot about the other Hives from the newbies. Crusader 53 wagered he knew more about the state of Antinium in Izril than almost anyone else in the world. Possibly more than the Queens themselves, because you got a ground-eye view from the other Antinium.
+Mostly, what unified all but Free Antinium was that being a regular in the Hives sucked. Workers worked constantly, securing food, reinforcing tunnels, and Soldiers waited around to fight and die. Every time a newbie came to camp, they’d stare at the real food on offer and gobble it down or keep gazing at the sky. Crusader 53 envied them that.
+The sky…could get old. He didn’t enjoy the bursts of rain anymore. Instead, he just thought he was sick of getting wet and having to clean his gear.
+ 
+——
+ 
+“Do you think the magic’s gone? It used to be I’d have given up all the dirt I had just to have a single flower.”
+Crusader 57 was sitting up, staring at a little flower he’d picked out of the dry High Passes. Crusader 53 signed back.
+“[No. Go to sleep.]”
+“I think the magic’s gone. Now we’re old and jaded. Especially you, Crusader 53.”
+“[Go kiss a mother.]”
+ 
+——
+ 
+The main thing that made Squad 5 one of the important groups was their ability to adapt. To understand that this was not a state of affairs that would continue forever.
+For instance, when the 7th Hive finally completed their contract with Magnolia Reinhart, a lot of the companies panicked. They’d fought in the High Passes their entire careers. What came next?
+Crusader 53 knew the feeling well. So he poked Crusader 57 until the Worker reluctantly stomped over to other companies and gave them a pep talk.
+“Listen, you pack up your gear, make sure you don’t leave anything behind, and get ready to march. It’s going to be boring-as-dirt marching for a while. Then we’ll probably do some fighting. If we’re lucky, we’ll get something to actually spend our coins on! Just keep your helmets on and watch out for ambushes, got it?”
+That was that. The companies stopped panicking and formed up. By the time Xrn floated towards them, she was pleased to see they had formed a huge column and were ready to go.
+They didn’t march by numerical value, of course. Company 3 actually brought up the rear while Company 77 was smack dab in the middle of the column. That was just basic soldiering on Captain Gormless’ part.
+You see, not all of 7th Hive was combat-focused. They were all combat-ready, since they were Antinium, but Xrn didn’t send Company 77 into the fight. They were all supporting elements; mostly Workers.
+A camp needed people to set up tents, to cook or process food, repair armor, deliver messages, and so on. Even Antinium needed that, and given their reliance on gear, a good amount of 7th Hive were these supporting roles. Especially cooks. The Antinium wanted to not rely on their stocks of food paste. They’d do anything not to use those stocks.
+Thus, because they were less likely to die and because you got to know your [Cook] well, Crusader 53 knew a lot of names in the support groups.
+For instance—Chysl was their dedicated [Acolyte of Healing]. She had replaced Zimrah, who Olesm had fought to keep. A shame, because Zimrah was really good at healing—and cursing enemies to hell.
+Chysl was mostly just mean. She was an Antinium Soldier, and her method of healing was to slap a gauze patch on anything that bled green.
+“[Enhanced Bandage]. Stop getting cut up, would you, 53?”
+She snapped as he winced; a Razorbeak attack as they were marching out of the High Passes had ripped his right vambrace off and let the damn bird savage his arm. He signed back, one-handed.
+“[Can’t you heal anything faster?]”
+“I’m out of [Prayers of Healing]. I’ll say a few words for your wounds tonight. Heaven bless your stupid injuries, etcetera, etcetera. Next!”
+He had the distinct feeling her heart might not be in the entire faith-thing either. But then again, he’d caught her praying at night. She’d thrown things at him when she saw him watching.
+Everyone had quirks. The longer you were an Antinium, the weirder you got, it felt. It was how you distinguished yourself from every other Antinium. Be it a feather in the cap or your own paint…
+You wanted to be remembered. You didn’t want to be that Antinium even your own kind couldn’t tell apart. So the feather in the cap became two feathers because other Antinium were doing that. Then it became five.
+Then you got Captain Peacock, who had so many feathers in his cap some said he was the second coming of Bird. Or you just developed a personality like Crusader 57—though truth be told, he was pretty hard to copy even if you tried.
+Or you became a Kevin, one of the many ‘Kevins’, who had a jokester personality and got up to tricks. They were a plague if they got it in their heads to participate in some scam with a Shelly…but Crusader 53 didn’t want to say bad things about them.
+He knew the original ‘Kevins’ had all died except for one. They were continuing a tradition. Keeping Kevin’s name alive, even if the newbies had never met him or didn’t even know about the inn.
+“You don’t know about the inn? Hoo boy, grab onto your shells, because let me tell you—it ain’t that great. I saw the big woman herself. She’s smaller than they say, and her cooking’s okay, but I know the Goblin did all the work. It’s not that great.”
+Crusader 57 was mouthing off to some newbies getting told about the important stuff, and all of Company 14 pelted him with dirt clods until he retreated. It was culture, Crusader 53 realized.
+You had to know some things in the 7th Hive. If you didn’t, someone in your company would tell you. How to behave, why you needed to take care of your armor—what rust was, and why it sucked—what coins were.
+Basic stuff no Antinium knew. Then, if you were alive for a few days, they’d tell you the bigger stuff. About what exactly Heaven was, not just that you got to go there. About the inn. About the original Chess Club members. What Xrn had used to look like. Then it was stories, like Squad 5’s adventures or the story of how it had all started with an [Innkeeper], an Antinium, a chessboard, and a dungeon.
+The good and the bad.
+ 
+——
+ 
+Crusader 59-11 died.
+It was a chance battle during one of their patrols to make sure the High Passes were cleared. Just bad luck; a Gargoyle Bossel threw a spear, and they had been maneuvering over treacherous ground, unable to take cover. When Crusader 53 had finished fighting, he’d turned.
+He had a healing potion he’d been told was only for him, but if he used some of it—
+The Worker was dead. Crusader 59-11 was one of the newest members of Squad 5. He was a 59-er. An ill-omened number. They’d lost more Crusader 59s than anyone else.
+“Aw, damn it. You idiot. You idiot—I told you to dodge!”
+Crusader 57 was kneeling there over the curled-up Worker. He didn’t weep; none of them could. Instead, he punched Crusader 59’s armor, then hammered a fist down until they pulled him back.
+The first loss of Squad 5 the entire campaign. Crusader 53 felt it was his fault. If he’d noticed the Gargoyles standing there or told them to take cover…
+Captain Gormless told him it wasn’t his fault, of course. But everyone knew that was Gargoyle droppings. It was the kind of thing you said. If someone was dying, you lied and told them they’d make it, that a [Healer] was on the way.
+If someone died on your watch, you lied to the leader and said that it wasn’t their fault, that anyone could have made that mistake.
+The lie was that you’d go back on break to Liscor and get to spend all that gold they saved up. That you’d…retire. Crusader 53 had been here from the start. He didn’t think any of them were going to make it, what, ten years? Twenty?
+He was sitting there when Crusader 57 stomped over.
+“Un-fucking-believable. This is Creler eggs. Crusader 53!”
+If this wasn’t good, he was going to thump 57 once. Crusader 53 gazed up and saw the outraged Antinium pointing.
+“We’ve already got a replacement for Crusader 59-11. Guess who—guess who—?”
+Already? They must have had ‘excess’ Antinium waiting to be assigned. It wasn’t right. They hadn’t even buried Crusader 59-11, and they would. No turning him into paste. If they could have left him his armor…
+He was in Heaven. He should be. Crusader 53 turned.
+“[What’s the problem? They’re replacing 59. Leave them be.]”
+“I know that. It’s—but it’s a fucking Flying Antinium.”
+Crusader 57’s finger trembled as he pointed, and Crusader 53 rose as he saw a Flying Antinium, a huge Solder-type with gigantic wings, like a locust, standing there unmoving as the rest of Squad 5 watched it.
+He hesitated…but Captain Gormless was not in charge of this. There was no help for it.
+Crusader 53 lodged a complaint with the Small Queen.
+ 
+——
+ 
+She let him into her tent immediately. He stood there, very nervous, as she put the book she’d been reading aside.
+“Speak, Crusader 53. What displeases you?”
+Xrn listened, unmoving save for the pulsing colors coming out of her body, as he explained the problem as best he could.
+“Ah. You are referring to the Flying Queen’s treachery at the Winter Solstice.”
+He was glad she agreed what it was. He’d been there when the Flying Antinium betrayed their own, and it was still hard to believe she had done that. It was one of the reasons why the Flying Antinium companies were the fewest in number in the 7th Hive and why no one wanted one in their squad.
+Xrn heard him out and nodded a few times.
+“Your assessment of the Flying Queen is correct. She considered the gain to her Hive worth the betrayal of all those at the Winter Solstice. Her action was self-serving, though she has framed it as furthering our goals on Izril.”
+Which were what? Killing all the Drakes and Gnolls? Crusader 53 had no idea what the Queens wanted, but Xrn continued.
+“I have not accepted her pleas, but the Grand Queen has censured her Hive in various ways and let the matter lie. She believes we cannot lose another Queen. The Silent Queen has forgiven the Flying Queen in exchange for inspection of the new Antinium…and the apparent revival of Devrkr. I am in doubts it is him, as is Wrymvr, but it is his body—the Armored Queen and Free Queen do not forgive. But the clashes between Antinium have ceased. We cannot waste lives.”
+There had been fighting? Crusader 53 didn’t know that or think it was good…but he was confused.
+“[What about the Twisted Queen?]”
+Xrn’s mandibles lowered into a scowl.
+“Her mind is unknown to me. She is even more reclusive than before. Nor will Wyrmvr tell me what she is up to; he speaks for her, which is still disagreeable at times, but better than she often is. The fact remains: I require the support of all the Hives, and the Flying Queen’s forces are an asset I will not turn away.”
+It was true, the leaping, bounding Flying Antinium were great scouts, even if they couldn’t last as long in a fight. But Crusader 53 just didn’t think…it was Squad 5. How were they supposed to incorporate a huge Flying Soldier into their formations?
+Xrn tilted her head.
+“Crusader 53. I have said it before. If a minority of Antinium level and survive, it is what I require. This answer disturbs you, but it is the only course I possess. Few Flying Antinium level given the distrust of other squads. Those under the command of a ‘veteran’ Antinium survive longer.”
+This made sense, but even so—53 tried to protest.
+“[Some Flying Antinium insist the Flying Queen can do nothing wrong. Those ones get into fights. If this Antinium does the same, Crusader 57 will attack them.]”
+Most Free Antinium didn’t have much love for their Queen, frankly. The Free Queen was thought of as ‘good for giving Soldiers voices’ and a few more things, but a distant imperial force that sent them to their deaths for the good of the Hive.
+Silent Antinium loved the Silent Queen, but they were made well. Flying Antinium had a fanaticism towards their Queen too, and Armored Antinium respected theirs—but once they were in 7th Hive long enough, most Antinium would acknowledge that they still had crummy lives. The Grand Queen’s Antinium especially. Once they stopped being terrified of anyone saying her name, most had no desire to ever return.
+But if an Antinium stuck to their crossbows and insisted their Queen was perfect, that led to fights between Hives. And Crusader 57 was famous for picking fights without needing pretext.
+Once again, Crusader 53 realized Xrn was listening to his meandering explanations without interrupting or getting mad. He’d heard Klbkch was far worse, but she just nodded.
+“Your opinions match that of other Antinium I have questioned, Crusader 53. Yet I have two counterpoints. The first is that you must demonstrate Flying Antinium can work with other Antinium or else there will be discord. This is not the first time I have seen strife between Antinium. Queens do fight each other, very occasionally, when disagreements are beyond reconciliation, but normally the Unitasis Network resolves disputes. Still, that is the role of Centenium to adjudicate. However, once, in Rhir, variant Antinium made by Shaper Queens came into mass conflict.”
+Wh—really? Crusader 53 was astounded, and he saw Xrn smile. She answered naturally.
+“Of course. It was after the death of the First Queen, when the Hives were in disarray. So vast and sprawling was the True Antinium’s Hives that a Shaper Queen on the far edge of our borders might create one kind of Antinium and the War Queens and other Queens form different attitudes to those in other sections. Disunity, for all we could think together.”
+Oh. Like how the 7th Hive was different from Painted Antinium and [Crusaders] and so on. Xrn nodded.
+“It was far easier then, for we could share minds, but I have adjudicated disputes between Queens before. You will take a Flying Antinium as a member of your squad. As for your other complaint…their loyalty to the Flying Hive is not an issue in this case.”
+She smiled for reasons he did not understand. Xrn gestured upwards towards the mountains and higher still.
+“Do you recall when the ground shook and I informed 7th Hive to be ready for battle?”
+How could he not? No one had known what was happening. They’d thought it was a super-monster, and Xrn herself had held her ground, saying there was something going on up in the skies. The rumbling had lasted for an hour, and then…
+Well, between that and the pink comet they’d seen days before, and the flashes of light from above, they’d known something was going on before the moon cracked. But they hadn’t been part of it, whatever ‘it’ was.
+Xrn’s voice was quiet, contemplative.
+“We were not prepared for that battle. Nor was I close enough to be resurrected, should I have fallen. The magnitude was beyond what we could involve ourselves with. What I could affect—unless I had my old body and were among the Centenium of old.”
+The longing in her tones made him feel for her. The Small Queen gazed down with frustration at her form, then turned to him. Her eyes glowed a subdued, rosy pink, and he felt like her true self was trapped in this mundane, brown shell.
+“…There was an event. Flying Antinium joined some great stream of flying creatures, disobeying the Flying Queen’s will, to fight on behalf of a great, winged being known as a ‘Harpy’. The Flying Queen was furious. However, the survivors developed—unique traits. The Flying Queen has disavowed or disassembled many, leading to the other Queens to take them into their Hives. This Flying Soldier is one such.”
+An Antinium who disobeyed their Queen? That was beyond what Crusader 53 expected. He realized he was out of objections. Xrn stood.
+“Your conversation is not unwelcome, nor your objections, Crusaders 53. I wish to understand the Antinium who have joined my Hive. Do you have any more questions?”
+He hesitated, but since he had already risked so much coming here—he knew all of Company 3 was staring at the tent. Thousands of Antinium, who whirled away when Xrn glanced at them through the opening.
+“[Just two questions?]”
+“Ask.”
+Her smile was wide, but the magic in her was ceasing to pulse colors. Was she tired? Or bored? He saw her reaching for something, drinking it.
+A healing potion. Then, Crusader 53 wondered how long their new Queen might last. But it just made his question more pressing, so he asked.
+“[What is the purpose of the 7th Hive, Queen? Secondly—is there a possibility of Antinium earning leave?]”
+“Leave?”
+She didn’t know the term, so he clarified.
+“[Time off. Vacations. Retirement?]”
+The Small Queen’s head tilted, and then she understood. She turned, and Crusader 53 saw her float back to the map.
+“The 7th Hive is moving south. Lady Magnolia Reinhart has concluded our contract and believes her people can keep the High Passes secure.”
+Wait. They were done with the High Passes? Just like that? Some of the tension in Crusader 53 left him—which was replaced by confusion and more tension.
+“[We’re still getting paid, though, right? And how are we done?]”
+The monsters here were never-ending, and their Hive, combat-ready as it was with Xrn and Magnolia’s servants, had only fought for months. Xrn replied, amused.
+“There is a finite amount of life even in this ‘death zone’, Crusader 53. Our efforts have created a gap in the ecological niche, here. Not the upper areas; the increasing battles against Passmaws and the like indicated our efforts were succeeding as we eliminated food sources. However, between the Eater Goat and Gargoyle rampage, our own efforts, and the battle between that Harpy and Goblin King, we have depopulated this region sufficiently.”
+Sufficiently enough for Magnolia Reinhart to think her servants could handle the monsters. Xrn nodded as Crusader 53 took this in.
+“Thus, we continue. You will be paid. Why would you not be? Though it shall not be ‘combat pay’. For now, we march south. Into Drake-held lands. I have declared our independence and offered cities the chance to bid for our services. We head to the New Lands in any case.”
+We’re passing by Drake cities? Drake cities, who do not like Antinium? That sounded—very bad. Crusader 53 hoped that Companies 44 and Companies 13—the [Mage]-Antinium that Xrn personally trained—knew barrier spells. He shifted as Xrn continued, taking another sip of the potion. She inspected the glowing lines on her arms and hands.
+“I have run out of time to wait. We three have been waiting too long. In denial of the situation. This opportunity Klbkchhezeim and the inn brought about is my chance. The goal of the 7th Hive is to level. At any cost. Level, until…I would ideally see the average level of every [Soldier] be above 40.”
+…Good luck with that. Crusader 53 had a good idea of how possible that was, and he saw the battles she intended to throw them into. He felt that bad feeling in his stomach grow worse, but then Xrn turned.
+“As for leave or time off, if it may be arranged, I will do so. But Drake lands will not allow such matters. Perhaps a reprieve from combat. And if we pass by a place that does not loathe Antinium, yes. As for retirement? An end to your duties is what you all would like, is that so?”
+Yes. Just to dream of. Crusader 53 waited, knowing there was no such role for Antinium in all of Izril. Only Heaven. But that was such a bleak thought…the Small Queen surprised him again.
+She nodded.
+“It is not easy. But I will offer all of 7th Army this promise, Crusader 53. Fight. Level. Survive. Until this Hive, this force is ready, I will take you all across Izril. When you are of sufficient strength and experience, if the other Hives deliver what they should remember to do, if Klbkchhezeim is prepared and Wrymvr remembers what matters—or even if not—I will lead you to one last place. We shall all go home. Then you may rest.”
+Her voice was so longing and her eyes flashed with such brilliance then that Crusader 53 had to shade his eyes. He believed, then, that she was telling the truth. Not all of it, but he understood what drove the Small Queen. He bowed and retreated to tell Squad 5 the news.
+It only occurred to him afterwards, as the new member of the squad lay dozing under a blanket, that the ‘home’ the Small Queen thought of and the home he knew were not the same.
+ 
+——
+ 
+All this to say that when 7th Hive left the High Passes, they were, if not a cohesive army, then the beginnings of something different. Something new.
+Not [Crusaders] on a mission to avenge or build Heaven. Nor [Soldiers] fighting with different species for Liscor. Nor just Antinium—a hodgepodge of the faithful, common [Soldiers], Antinium of their own Hives.
+Mercenaries.
+“They’re actually flying.”
+Crusader 57 gazed at some of the ‘rebel’ Flying Antinium assigned to them. Who could actually, legitimately fly. They weren’t the best at it, but even Xrn was flying with them, scouting the way as they emerged from the High Passes and saw a green plateau below. A forest so vivid that Crusader 53 hoped there were good things to eat there.
+Crusader 57 just kept staring at the Flying Antinium blessed by the Harpy Queen. Then he turned and kicked the huge shell of their new member.
+“They can fly, and we just happen to be stuck with the one idiot who can’t fly. Ain’t that right, Wingsy?”
+Wingsy didn’t answer, but Crusader 53 slapped the back of 57’s head in a rebuke. They had decided not to call her Crusader 59-12; she was instead ‘Wingsy’.
+…Wingsy didn’t say much. They’d tried talking to her—most Flying Antinium were apparently female—in Mrsha-speak, but she just fanned her wings and ate food. Crusader 53 was worried she wouldn’t last long, without armor and being so big a target, but 53 was trying to set a good example.
+So, that was how the 7th Hive finished their job for Magnolia Reinhart. The High Passes were not safe, but a foundation was being laid, and the majority of monsters had been cleared from the ground.
+Certainly, the men and women with pointy teeth had used the route often enough, and the Knights of Solstice also had traversed south with more caravans and less fighting than anyone should expect.
+They’d done something. What, exactly, Crusader 53 wasn’t sure about, but he’d gotten paid, and they were going south. He followed the Small Queen as she pointed, and after a moment, Crusader 57 sat on Wingsy’s back. When the Flying Antinium didn’t kick him off, he laughed.
+“Hey, maybe the newbie isn’t so bad!”
+“[Get off of her.]”
+Crusader 53 kicked 57 off, and the swearing Worker leapt up, and Squad 5 was laughing, even the new member. Southwards they went as one of the first Antinium to head downstream pointed at some berry bushes and deer.
+Food! There was a [Soldier]’s dream. Good enough for now.
+The 7th Hive marched into the south of Izril, and no one at all panicked.
+Certainly not every single Drake city who saw the army of Antinium coming their way.

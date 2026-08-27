@@ -1,0 +1,129 @@
+---
+id: 49287c6d-9318-5ea3-8273-a198f945a343
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1312 - Hope Amidst Doubt"
+slug: 0186-chapter-1312-hope-amidst-doubt
+partOf: the-primal-hunter
+position: 186
+ownLength: 2772
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3395174/chapter-1312-hope-amidst-doubt"
+royalRoadId: "3395174"
+---
+
+When it came to personal power, Jake naturally didn’t stand a chance against all these A-grades, so he had done all he could to make them realize that, despite them being far more powerful than him, it didn’t matter for shit. They were still specks of dust before superior beings who could casually wipe them out at a moment’s notice. That, in the grand scheme of things, the difference between themselves and Jake had no bearing at all when supreme gods were the ones making all the decisions anyway.
+
+Of course, Jake needed to show he had some power. Just not the kind of power that could directly threaten them with death. Instead, he had organizational power through his faction and the Malefic Viper.
+
+As for also mixing his Bloodline in... well, Jake reckoned it never hurt when trying to appear intimidating. He knew he couldn’t actually scare these A-grades into thinking he was more powerful than them, and neither did he intend to, but he did want to display something they couldn’t understand. Make them question their worldview even more than they already were, and thus become more susceptible to Jake’s words.
+
+However, the outcome didn’t end up being quite what he had expected. Jake had planned on being a little intimidating with this display, far more than he had when he used Pride and Invocation. Then, Jake hadn’t done so with the intent to scare the Archweaver or Miresnakes, but merely for them to witness the aura of the Malefic Viper.
+
+This time, he didn’t even use Invocation and Pride, but just blasted the regular aura of a Chosen, but there was something Jake had neglected to consider:
+
+These natives of Venus had never been exposed to these kinds of auras before. Most in the universe grew up around or at least met several blessed individuals throughout their lives. They were slowly exposed to minor levels of divinity, especially since most blessed people deliberately wanted everyone to know they were blessed, thus blasting their aura more than necessary. Jake had gotten used to keeping his identity hidden as he also used Shroud to even remove it from his Identify result, making this the first time he’d actually flared his Chosen aura after arriving in the Minor World.
+
+The result was immediate.
+
+All the A-grades recoiled physically at Jake’s aura, with several of them grasping their weapons in a purely defensive manner. A fearful one. They stared at Jake as he stood there, exuding his aura of a Chosen mixed with his Bloodline for several seconds.
+
+Jake’s words about properly discussing the future of the Minor World were barely registered, as everyone seemed entirely unsure of how to proceed. They definitely had a lot to process, so it was understandable.
+
+Hearing Jake speak about divinity and whatnot was one thing, but feeling the aura of a Chosen was something entirely different. While Jake’s aura didn’t have any combat-applications, besides maybe making a foe be momentarily shocked – though that likely still wouldn’t happen in the heat of combat – it certainly got the job done in situations like this.
+
+For a few seconds, Jake considered reining in his aura, but quickly decided not to. He just stood there and waited for the Venusians and Arachnecs to get their bearings, internally making bets on who would be the first to speak up.
+
+It ended up being someone Jake hadn’t expected. Right as Jake had this thought, space slightly quivered beside him, and the Archweaver arrived, daring to show up in this kind of scene despite only being a B-grade.
+
+Likely because the Arachnec had experienced Jake’s Invocation-infused Pride, he was less affected and shocked, allowing him to speak up first.
+
+“You continually surprise me with your means. I had not expected you to be capable of leaving the Nest on your own,” the Arachnec said, not even addressing the elephant in the room.
+
+“I didn’t see the need to before,” Jake said with a smile. “And if it’s any consolation, I have a way to directly leave this world. However, let me warn you all right now that this method will only allow me to leave and no one else.”
+
+He was naturally speaking of setting up a teleportation circle and heading back to the Order with Villy’s help. Something he saw no need to do, as things were going currently, though it was still good to have the option available.
+
+“I would claim to be surprised, but that would not be a truthful statement,” the Archweaver said in a casual tone, which helped Jake realize what the Arachnec was doing.
+
+His appearance had significantly helped calm things down, as the two of them had casually spoken. This wasn’t what Jake had wanted; however, it wasn’t necessarily a bad development. What’s more, he was in for another surprise when he realized that all the Venusians were looking at this B-grade newcomer with a gaze of caution. Jake had definitely underestimated the status of the Archweaver, and looking back, the Nestmother had never really treated him like a subordinate, had she?
+
+“I am known to be full of surprises,” Jake said as he addressed the crowd once more. “What you are all experiencing right now is only the aura of someone blessed by a god. Compared to the real thing, there is simply no comparison. Granted, I do carry the highest level of Blessing available; the difference is still stark.”
+
+“There seem to be two components to this aura,” the horned frog said, having clearly identified the presence of both his Bloodline and the Blessing.
+
+“True, one is my Blessing, and the other is my own innate power,” Jake said, getting a lot of disbelieving looks for that one. “It’s based on a power that may be beyond your current understanding. Unless you know what Bloodlines are?”
+
+Jake used his sphere to closely observe the reactions of everyone present, and, yeah, it was pretty clear no one had any clue what a Bloodline was supposed to be. Again, not surprising, as it was statistically improbable anyone with a Bloodline appeared in this world, and even if they had, chances were it had been a useless Bloodline anyway. That, or the one with it had died early. Too many possibilities, all of which made the chance of them knowing what Bloodlines were close to nil.
+
+“That’s a no, which is totally fine. You’ll all learn in due time,” Jake said with a smile. “Which really is what we should be talking about. The future of the Venusians, Arachnecs, and all other natives of this world. A huge upheaval is inevitable at this point, but I’m sure a solution can be found that not only helps preserve the races and factions of this world but allow them to reach higher than any of you can imagine.”
+
+After scaring them all into fearing the dangerous world beyond the Boundary, it was time to make everyone see the potential upsides of the world beyond the Boundary. Make them know that life wasn’t all about the stick, but that there was also a carrot to this situation.
+
+“Which will require us to join one of these massive factions, I take it,” the Oracle said, not sounding particularly keen on the idea.
+
+The Archweaver and Nestmother, on the other hand, looked like they were having a quite lively discussion, likely leaning positively towards the Risen faction. Truthfully, Jake did think they fit very well there, and if not for the Seat of the Exalted Prima system event, he would have asked Casper to come. He was probably still going to do that, just later.
+
+“Maybe,” Jake said, trying to hide a smile. “It all depends on the person who’s in charge of the entrance to this world."
+
+“As someone belonging to the same faction as this Malefic Viper while carrying one of these powerful Blessings, would we be right to assume you could put us in contact with this person?” the horned frog asked, definitely also not a fan of having to subordinate themselves to some massive faction they had only heard about minutes earlier.
+
+“You could say that,” Jake said, having decided that while he was going to reveal a lot, he should still keep the fact that this Minor World was technically under his control hidden. For now, at least. “What I will say is that my words will have a lot of sway on what will happen going forward. Though in the end, the will of the Malefic Viper is what reigns supreme.”
+
+Jake’s words seemed to soothe the situation a little, though not by that much. They were still nervous, but Jake kept talking.
+
+“Let’s take a step back, alright? This entire situation came about because the Arachnecs and Venusians have a deep-seated hatred for one another, born of territorial disputes. With access to the multiverse, that’s no longer a factor. At least not a factor that will affect any of you. You will be free to leave and have a near-infinite world ahead of you to conquer. If you want to, both factions could go to places where in your lifetimes, you will never even encounter a single member of the other faction,” Jake said, really aiming to sell the idea that rather than fight in this Minor World, they should focus more on what they could do in the outside world.
+
+That losing combatants now was just a good way to weaken themselves once they made it beyond the Boundary. He wanted to sell them on a better future. A future where instead of fighting over Jake in a bitter divorce, they both found new families and settled down happily, not even having to think about each other anymore. Okay, it didn’t entirely work, but Jake was just rolling with it.
+
+Anyhow, Jake paused, letting his words settle among the gathered A-grades. The silence was heavy, but Jake purposefully let it linger for several moments before speaking again. “The world beyond the Boundary isn’t just vast; it’s one of endless possibilities. You’re not being forced to abandon your heritage or the values you’ve fought to uphold; instead, you’re being offered new horizons. There will be challenges, yes, but also opportunities to build alliances, expand and claim far more territory, and for all of you to grow personally. To evolve.”
+
+The Oracle’s eyes narrowed thoughtfully, while the horned frog exchanged a glance with his hated enemy, the Nestmother, each contemplating the magnitude of Jake’s words. The silence lasted for several seconds as they all seemed to finally consider that this could be the pivot upon which their future turned. Jake knew the path ahead would not be simple, but some hope for a better future seemed to have finally taken root amidst the doubt.
+
+“Abandoning our home for grander expanses is a big ask,” the Archweaver spoke up skeptically.
+
+“No one says you will need to abandon it,” Jake shook his head. “In fact, I wouldn’t expect you to. This Minor World does have certain advantages and is different from the outside world, so keeping a presence here is highly advised. However, these advantages mean that others will certainly also want to travel here, and a balance needs to be struck.”
+
+“Let us assume we are in agreement; would it not be best to delay talk of details until certain things have been confirmed?” the Archweaver asked as he looked towards the horizon. “Such as your ability to actually bring us beyond the Boundary.”
+
+The Archweaver brought up a good point; however, this was where Jake had quite a bit of doubt. He had no idea how he was meant to help bring people beyond the Boundary or what rules applied. What he did know was that he seriously hoped there were some rules, as if he could just bring whoever he wanted; that wasn’t a very comfortable notion.
+
+Without even mentioning the A-grades, bringing the Archweaver could spell disaster for Earth and probably the entire solar system. Jake wasn’t confident in defeating the Archweaver even if all the other notable figures on Earth were present, and he definitely wasn’t now that nearly everyone was off trying to become Administrators for the Seat of the Exalted Prima.
+
+The best-case scenario was that Jake couldn’t bring someone as powerful as the Archweaver, with the worst-case being unrestricted access. Well, that, or worst-case, would be Jake proving himself unable to bring anyone beyond the Boundary, pissing off everyone, and probably getting himself killed for having proven himself useless.
+
+Alas, Jake could only believe the system message all natives had gotten in this world and nod.
+
+“Very well, though I will mention one thing. I’ve dealt with several system messages before, and even if it’s not mentioned, there are often hidden rules or restrictions. I can already say now that I can pretty much guarantee A-grades will not be able to enter the multiverse yet,” Jake said, speaking with more hope than actual conviction.
+
+This definitely earned him some frowns from the A-grades who’d probably hoped to be among the first to go, but fortunately, they didn’t look that surprised either. Jake didn’t know the exact contents of whatever system message they received, but hopefully, it had included something to warn them about this reality.
+
+“When you say not yet, what kind of timeline are you thinking?” the Oracle asked, still frowning a little.
+
+“It’s hard to say,” Jake said as he shook his head, and after a bit of further consideration, he concluded he would have to reveal a bit more information about the world outside.
+
+“The entrance to this place is within a new frontier of the multiverse that is under certain restrictions that apply to all non-natives of this frontier. I believe you will at most count as half-natives, so you will probably also be under some restrictions. These will lessen with time, but I can’t give any definite timeline. It could be a hundred or over a thousand years before A-grades can go beyond the Boundary,” Jake said, feeling a bit nervous at definitely risking disappointing all these A-grades, but he felt that he needed them to temper their expectations.
+
+However, this was where Jake had once more made a minor miscalculation. For the better this time around.
+
+“Only a thousand?” the Oracle said with pleasant surprise, and he even saw the horned frog breathe out a sigh of relief. “Even if it’s several thousand years, it’s not too bad.”
+
+Likely because Jake was so used to dealing with system events and a lot of things happening within a short time-span, he’d entirely forgotten to consider that he was dealing with powerful A-grades who’d lived in this world for who knows how long already.
+
+To them, even ten thousand years probably didn’t seem that long. B-grades alone could live in the hundreds of thousands of years, and A-grades were fully capable of being over a million, so really, what was a few thousand years?
+
+“Maybe a bit longer, maybe not,” Jake said, also feeling relieved. “I guess the only way to find out is to actually test it. To not waste time, have both factions bring members of their race in different level brackets, if possible, maybe even a few below B-grade.”
+
+“It may take a while to get them here,” the Oracle said, though she didn’t protest his words.
+
+“That’s fine, I’m sure we’re all fine with waiting,” Jake said with a smile. Seeing as they were right above an Arachnec Nest, Jake assumed they could put forth plenty of members rather quickly.
+
+“Very well,” the Archweaver nodded. “Then we wait.”
+
+The Venusians didn’t hesitate, as the Oracle went along with a few other A-grades, going to the closest Venusian Village, which Jake assumed to be the one he had visited. With the Oracle’s space magic, it wouldn’t take long to get there, but they probably still had at least a few hours of waiting.
+
+This gave everything a bit of time to simmer and calm down, and Jake also relaxed, feeling that he was doing a pretty damn good job, and things were going better than he’d expected, as some kind of temporary agreement had been made. He didn’t even have to use Invocation-infused Pride to intimidate them, which had been his plan if they had gotten too hung up on him, probably being limited on who he could bring beyond the Boundary.
+
+Now all he had to do was actually figure out who he could bring beyond the Boundary, and surely, he wouldn’t be in for more unexpected surprises.
+
+Right?

@@ -1,0 +1,163 @@
+---
+id: fb6ec930-0af7-5500-8d96-3d1fe734277a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 134: Refining"
+slug: 0134-chapter-134-refining
+partOf: phoenix-ascension-cultivation-litrpg
+position: 134
+ownLength: 2006
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3479560/chapter-134-refining"
+royalRoadId: "3479560"
+---
+
+I hid in the shadows using my stealth skills and waited for these people to arrive. My blade was vibrating with what I could only describe as excitement. Unsure of what I’d picked up, I decided to go with the flow and reap some bastards.
+
+Their footsteps grew closer and before long they were right in front of me, looking around like headless chickens.
+
+I didn’t hesitate and attacked the one right in front of me, a young man with a horse face. Before he could react, the blade was upon his neck, and it cut right through him like a hot knife through butter.
+
+Blood spurted out of the cut made through his neck, and I finally got the chance to properly inspect the people that came to attack me.
+
+There were a total of seven, well, weight with the corpse bleeding out on the ground. I put away the notification announcing his death, they were all a lower level than me. It wasn’t even worth killing them, but the blood coating the Blade of the Elements disappeared within.
+
+It seemed like it was a real blood thristy sword from the looks of things. I wasn’t expecting that from a sword named as such, though. Ah well.
+
+I gave the now frozen assailants a cold glare, and decided that they were barely worth feeding this new weapon. I did a quick swipe, imbuing it with Qi, and killed another three. The other four managed to resists the strike.
+
+Looking at them once again, I noticed that their levels were somewhat higher. Probing with my Divine Sense, I noted that they were at the later stages of Qi Condensation.
+
+Snapping my fingers, I summoned Nirvanic Flames to burn away the corpses and used Qi to grab the bags of holding from them. I tied them to my waist and glared at the rest of them. I wasn’t satisfied. I couldn’t kill them in one strike despite the disparity in our strength. It just went to show that my control over Qi outside of my body was not as good as I would have liked it to be.
+
+Even if I was a genius, this new body was not used to Qi, and Perfect Diguise was more of a really real illusion than an actual body.
+
+“Why did you follow me here?” I asked, since the atmosphere was a little awkward. It was obvious though, they wanted to rob me. I couldn’t stand for that. Was killing them too much though?
+
+Probably not, if these scum were robbing me then they must have robbed before as well.
+
+Ignoring their shaken expressions, I summoned two fire dragons and put them as guard, thinking about what I could do.
+
+They stared at the dragons and then at me, but I didn’t really care for them. Inspecting them with my Divine Sense, there wasn’t anything worthy about them.
+
+In the end, I sighed and made my dragons pounced on them, ending their lives. It was a really disappointing fight, but at least I got some precious information on the new weapon. It was bloodthirsty, Qi thirtsty and elemental.
+
+It vibrated upon seeing the corpses turn to char, but I couldn’t afford to let it get satisfied. Weapons like these had to be kept under a tight leash.
+
+After burning down all evidence of my deeds, I hid away the bags of holding and walked in the opposite direction. I wasn’t expecting much from street scum, or simply scum, but maybe they would have a surprise for me.
+
+I wasn’t going to check them right away, though. I went back to the manor, both happy and frustrated. It was too bad I couldn’t get to enjoy the sword for too long, but maybe the secret realm would give me an actual challenge.
+
+It was hard to say.
+
+When I entered the mansion, the twin butlers greeted me, as creepy as ever. I made my way toward Meng Mao’s office and knocked, then entered without waiting for a reply.
+
+He let out a heavy sigh.
+
+“What-”
+
+I dropped all eight bags of holding in front of him before he could ask his question.
+
+“Oh.”
+
+“They attacked me in an alley. Well, wanted to, I heard them and got rid of them before they could do anything to me.”
+
+“Any idea why?”
+
+“I went to the Myriad Market, the clerk wasn’t subtle.”
+
+“I- See… How did you deal with them?”
+
+“Burned to ashes.”
+
+“Good enough, nobody will care about them. You have to stop causing trouble though.” He rubbed his temples. “It hasn’t been long since you entered the city, you know?”
+
+“Trouble finds me.” I shrugged and collected my bags. “I just wanted to confirm there won’t be any issues.”
+
+“You were right to do so.” He studied me, but I didn’t give him any reason to suspect me of anything, not there was anything to be suspected of.
+
+When I entered my room, I sat down on the floor, crosslegged. Going through the bags of holding, I was disappointed to find that they were all the smallest size possible, and were almost empty.
+
+There was some food and other questionable stuff, as well as Spirit Stones and scattered techniques.
+
+None of them were of any interest to me, but I did give all the documents a quick scan with my Divine Sense. You never knew if there was anything interesting stashed inside.
+
+Sadly, there was barely anything worth talking about. These people were poor and weak, hence why they relied on robbing people.
+
+I took everything, snatched the spirit stones into my own bag of holding and threw away the weapons.
+
+The scrolls filled with techniques or who knew what sort of information was in there were of little interest to me, but I kept them just in case. After recovering those, the only things left were random papers, identity tokens, pills, and miscellaneous items I wasn’t going to comment on.
+
+With my spoils accounted for, I stashed the rest of the items in a bag and left it on the ground. I had something else to take care of.
+
+With a smirk, I turned back into my original, most superior form and stashed away the clothes. With a thought, I called out the Blade of the Elements and studied it more closely. There wasn’t much changed from its original design, but there was now a life-like luster on it.
+
+It let out a set of vibrations I could not really translate, but knew that they were a good thing. Somehow, this sword had a spirit, though it seemed incomplete.
+
+Without thinking about it much, I threw it into my dantian and began refining it. It wouldn’t truly be mine until I claimed it, and it submitted to me.
+
+The process was simple, or was supposed to be simple, anyway. When the blade appeared in my dantia, it was at the edge of the lake, right opposite the Little Emperor. His ears twitched, but had no reaction otherwise.
+
+Mother’s egg was still floating in the middle, looking the same as usual. I stared at it for a moment longer, longing for her to return.
+
+Alas, that wouldn’t happen, not yet.
+
+Focusing on the blade, I surrounded it with pure Qi. It didn’t resit initially, but after the dormant sword spirit realised that it was being trapped, it began opposing. I could not have cared less about what it wanted though, I was going to refine it.
+
+It would not be a one day thing though, and once I’d restrained it, my dantian would slowly but surely make the weapon mine.
+
+The sword vibrated with increased intensity, letting out unwilling roars. I sent more Qi to surround it, eventually blocking the sound. It was going to submit to me.
+
+I projected an image of myself inside the dantian and approached the sword, staring at it. Its vibrations stopped for a moment before they picked back up.
+
+It was bleeding.
+
+Refining a weapon with a spirit would be much more difficult than a normal one. Something told me this little guy wasn’t going to go out without a fight.
+
+Well, I wasn’t killing it, but being forced into subservience wasn’t the best of fates either. Part of me wondered how it was going to go moving forward, but there was only one way to find out.
+
+I infused the Qi with Will, sending my intent into it, sending a brief message to the sword each time my Qi passed through it. It wasn’t a communcation done with words, but rather consciousness.
+
+After a time, I also got bits and fragments of communication back, but it was very fragmented, and the message unclear.
+
+I was interested now, was this blade really that old?
+
+Slowing down the refinement process, which basically meant taking over the will of the weapon or object. It would not kill the sword spirit, but it would limit it.
+
+I continued the exchange, just sending non-threatening thoughts, but the blade didn’t seem to be able to reciprocate much of what I was saying. I wasn’t even sure it understood my meaning.
+
+Sighing, I stopped the process. It would be a shame to allow something like that to be limited. Even though I wanted to do that originally, there was some value in keeping it as it was.
+
+I did however seal it, and decided to feed it trickles of mana until I needed it again.
+
+Something told me I wouldn’t require its services for a good period of time though.
+
+***
+
+The day finally arrived, and I was put in a very nice looking cage for the ceremony. It had no restrictions, but it was made to look like it did. Strange thing.
+
+I scanned the entire area with a light touch of my Divine Sense, and was in awe. I’d thought Meng Mao’s mansion was big, but this man’s estate was simply incredible. It spanned over three li in length and half that in width.
+
+The behemoth of an estate was located in the middle of the city, and more than a thousand peopled showed up for his grand daughter’s celebration.
+
+There were people in the Qi Condensation realm, Foundation Establishment and even Core Formation. I was willing to bet there were some old geezers in the Golden Core stage as well. Sadly, I didn’t see any.
+
+Besides that, there were many, many people from different sects and clans, all enjoying the celebration in harmony. It was rare to see so many competitors in one single place. No doubt the event was being used as a business expedition as well.
+
+Meng Mao placed me on the gift table alongside dozens if noit hundreds of inanimate objects. Besides those, there were also other Spirit Beasts, like me, though I doubted they were sent here on a mission. They were most probably just captured.
+
+There was a tiny tiger, a turtle, some sort of snake, and even insects. All of them, without fail, were almost lifeless. There wasn’t a singly spark in their eyes.
+
+I could sense the defeat in their soul. Worst of all, most of them were cubs, with very little adult Spirit Beasts.
+
+Those people were capturing them for sport! How despicable. It was too bad I couldn’t see who it was that brought them, as I would have liked to have a discussion with them.
+
+Sadly, there wasn’t much I could do at the moment, but seeing them like that filled my soul with dread and pity.
+
+I wanted to let them out, the life of a Spirit Beast was not one of captivity, it was unbecoming!
+
+I couldn’t act, not yet, though.
+
+It took a moderate amount of time before there was a hint of the celebrations starting, and just as the sun was in the middle of the sky, a voice loud enough to spread through the entire surface and silencing all voices echoed through the air.
+
+“Welecome everyone, to the celebration of my grand daughter!”

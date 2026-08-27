@@ -1,0 +1,191 @@
+---
+id: 759a8297-ae80-5744-b0e2-e383225db470
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Breaking Through"
+slug: 0004-chapter-4-breaking-through
+partOf: phoenix-ascension-cultivation-litrpg
+position: 4
+ownLength: 2091
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525653/chapter-4-breaking-through"
+royalRoadId: "2525653"
+---
+
+Cold breath. Still soul. No form. No self.Exhale the soul. Inhale the self.The flesh forgets. The chill remains.
+
+I chanted the first three verses of the mantra over again, absorbing Qi through my artificial meridians. It wasn’t as easy as it used to be, but I felt myself getting stronger with each passing second.
+
+Mother had taken off while I wasn't focusing wholeheartedly. Perhaps to go hunting and bring me some good food... or more worms. Ugh, I hated that I looked forward to worms.
+
+Considering the height of the nest and her remnant aura, I doubted any non friendly Spirit Beast would dare come up here. In this entire forest, this place had to be the safest, ignoring the dead humans.
+
+I found it a little strange that she didn't stay with me after losing her children, but starving wasn't an option for either of us.
+
+With that thought, I began feeling a little grateful and allowed myself to get immersed in cultivating.
+
+I do not reflect. I do not speak.What sees is not mine. What moves is not me.I step behind the void. I listen to nothing.
+
+The Qi in the area rushed to me, entered my body through my meridians, and gathered into my dantian. A small puddle of frigid Qi began to form, held back by the natural fire Qi of the Phoenix.
+
+A tiny amount of strength flowed through me, and my rigid meridians slowly began allowing more and more Qi into them. Just like a frozen river beginning its flow in spring once again.
+
+I exhaled, the air leaving my beak turning to ice, then melting into tiny droplets of water that fell before me. With each breath, more and more Qi entered my dantian, and with each breath, my body grew colder.
+
+My shadow fades. My name dies.I am the cold. I am the silence.I am not. Yet I remain.
+
+Finally, with the last breath in the technique, the tiny puddle inside my dantian grew to the size of a small house. A literal droplet compared to the ocean of Qi I once had, but the start of something more.
+
+I opened my eyes and took a deep breath, filling my lungs with fresh air, then exhaled an icy breath.
+
+The first stage of Qi Condensation is mine… With this, I have taken my first step toward immortality.
+
+[Unknown Technique has been detected.]
+
+[Unknown Technique has been revealed as the Ghost Qi Technique.]
+
+[Assimiliating…]
+
+[Congratulations! You have discovered a lost technique!]
+
+[Achievement: I found it on the ground! Unlocked]
+
+[Congratulations! You have reached the first stage of Qi Condensation!]
+
+[Error… Er… Er… Spirit Beast…]
+
+[System Update… Waiting…]
+
+[Congratulations, Fa Xiaolan! You have become the first Spirit Beast to discover cultivation within the first week of life.]
+
+[Achievement: I am a Spirit Beast! Unlocked.]
+
+[Qi Condensation rewards:]
+
+[+100 Qi; +3 Strength; +2 Dexterity; +2 Perception; +1 Charisma; +1 Intelligence]
+
+The huge string of text filled my vision. I took a step back, startled, and read everything carefully. It looked like whatever this thing was called itself System, and awarded me… achievements?
+
+“What are achievements?”
+
+[Achievements are special rewards given to users who have accomplished something. It can either be big or small, and the rewards are appropriately rewarded by the system based on its judgment.]
+
+Judgement? What sort of artifact is this to have so much autonomy?  I asked myself, judging that whatever this place was, trap or not, they had to have an extremely advanced way of refining artifacts, as there was no other way to explain whatever this system was.
+
+“Achievements.” I chirped out loud, and another row of text appeared before me.
+
+[Achievements]
+
+[First Blood (Rewards Unclaimed)]
+
+[I found it on the ground! (Rewards Unclaimed)]
+
+[I am a Spirit Beast! (Rewards Unclaimed)]
+
+“Uhh… claim?”
+
+[Achievement: First Blood has been claimed.]
+
+[No possible rewards]
+
+[Achievement: I found it on the ground! has been claimed.]
+
+[+2 Perception; +2 Intelligence]
+
+[Achievement: I am a Spirit Beast! has been claimed.]
+
+[+2 Strength; +100 Qi]
+
+The tiny puddle of Qi inside my dantian grew to the size of a well in a matter of seconds. On top of that, my body, which felt as weak as a feather before, grew stronger, if only by a bit. The world around me looked a tiny bit clearer, the colors brighter, and my senses felt sharper as well.
+
+I tried clenching my non-existent fists, but all that did was make my wings contract a little.
+
+I sighed, revelling in my achievement for a moment. However, a thought appeared in my mind soon after.
+
+How did Spirit Beasts even cultivate?
+
+They didn’t know any breathing techniques, at least not in the early stages of their life. The only way to cultivate Qi is to absorb it from the environment, store it in your body, form a core, and then... The rest of the realms for a Spirit Beast stumped me, as I couldn’t even remember their names.
+
+Perhaps beasts have other ways of doing it… Maybe by eating? If there’s Qi in the air, there’s Qi in plants and water. The ingested Qi gets stored in the body, which is then absorbed by the Spirit Beast, and thus becomes stronger.
+
+The solution I came up with made sense, as it was the most straightforward. I didn’t consider bloodlines or other factors, but the vague explanation I gave myself only made me come to a simple conclusion.
+
+I need to eat.
+
+Humans rarely cultivated their bodies, and Spirit Beasts rarely cultivated their Qi. Both because one was simpler than the other, and much less difficult. Spirit Beasts didn’t have the comprehension to learn techniques, and humans and other spiritual beings didn’t have the right constitution. However… I could do both!
+
+Normally, Spirit Beasts didn’t have meridians or dantians, so that meant they only had one way of getting stronger— eating. Most Spirit Beasts are far from intelligent enough or have the knowledge to do what I did— forcefully create the ability to cultivate Spiritual Qi by carving meridians into their flesh.
+
+I did though, so that meant I had access to both types of cultivation— something man and beast alike always craved.
+
+Back to eating, though...
+
+My current hunting method was burning them to a crisp. I doubted that I had anywhere near enough strength to take on anyone in a straightforward fight. The only reason I won against the vulture was that it wasn’t in its natural habitat, and it had no idea I could even do that.
+
+I won’t be so lucky next time.
+
+I thought as a bitter taste filled my mouth, shaking my head. Regardless of what happened, I had to raise my strength.
+
+How though?
+
+The answer wasn’t obvious. I couldn’t leave, I couldn’t fight, and I definitely couldn’t ask Mother to help me. There was only one logical path I could take, and that was to train my body— even if it wouldn’t help me much in terms of Qi.
+
+I began doing laps around the nest, much to Mother’s confusion. Her head followed me as I ran, my stubby feet almost crossing each other. I stumbled a few times and fell a lot more than I dared to admit.
+
+Getting used to this body would be difficult, and doing any arm-related activity would be nigh impossible. I didn’t want to risk injuring my wings, or worse.
+
+Though my worries turned out to be useless, as even if I could do pushups, the laps alone made me heave. I didn’t feel any fatigue when I got chased by the vulture, nor after killing it, despite almost using up all of my Qi.
+
+What’s the difference? Spiritual Qi… Qi inside the flesh…
+
+That was another theory I had to put to the test at some point, though there wasn’t any opportunity for me to do it at the moment.
+
+However, I wasn’t about to waste precious time not doing anything. I walked toward the center of the nest under Mother’s curious gaze and decided to experiment with the only innate skill I had— Phoenix Fire.
+
+Now that I had more Qi thanks to my cultivation base, I wanted to test the difference in terms of damage and control. I wanted to do that with the Nirvanic Flames, of course, but using them in front of Mother and hoping she doesn’t notice would be a dream.
+
+However, my having a better type of fire didn’t make the innate flames of a Phoenix useless. By using both of them at the same time, there would be a qualitative change.
+
+From what I observed, though, the Nirvanic Flames were much stronger, but used up a lot of Qi;  the Phoenix Fire used almost no Qi, but instead relied on my stamina to be cast.
+
+So that meant that the stronger my body was, the more flames I could conjure. That would be an awesome card in a fight, sice if I run out of Qi, I could still rely on that fire.
+
+Heheh, they’ll never see it coming!
+
+Without hesitating, I didn’t weave a hand sign, but instead held my palm… wing outward, and a spark appeared.
+
+The first time I used it was out of instinct, and it did little more than scare off the vulture, but now I could feel the Qi get channeled, and also my stamina draining. The kindling sprak grew into a tiny fire, then into a medium-sized flame that towered over me.
+
+It looked a little different compared to my Nirvanic Flames; they were more orange and yellow, dancing like an elegant butterfly, looking meek but capable of huge destruction. The Phoenix Fire, on the other hand, was meek. It didn’t give off the same oppressive aura as the Nirvanic Flames, and up close, they looked like a regular, orange and red fire.
+
+I tried controlling its shape, but I managed to do nothing more than turn it into a pillar of fire.
+
+However, I didn’t expect the pillar to thicken.
+
+Suddenly feeling myself out of breath, I tried turning the Phoenix Fire off, but for one reason or another, it didn’t listen to me. The bigger it grew, the more my consciousness faded. This tiny body wasn’t meant to support such a huge fire.
+
+Finally, I lost control of it, and the impact blew me backward. Mother barely caught me in her arms as the fire spread out, and the hay and sticks she used to make the nest lit ablaze, crackling as they turned to ash.
+
+It only took a moment for more than half the nest to turn black, and another for that half to disappear.
+
+That’s some potent fire…
+
+Mother heaved a sigh— at least I thought she did— and blew the fire away with a wave of her wing.
+
+She glanced at me with a ‘Seriously?’ look, though she didn’t seem mad at all. On the contrary, she looked quite amused.
+
+“It wasn’t my fault!” I chirped defensively, though Mother didn’t have time to reprimand me as a strange, violent whirring sound echoed in the air.
+
+Are the humans here again?!
+
+My racing heart gave away my worries, but the sound of flapping wings or scratching glass made me less scared and more intrigued. I didn’t doubt Mother was strong, but I was curious to see how strong she was. If the thing making that sound wanted a fight, I could truly see just how strong Mother was.
+
+A screech that shook the heavens echoed from below, the wind beginning to grow stronger and destroy the orderly state of the nest. Soon, two horns appeared from behind the clouds.
+
+They were long, thin, and sturdy, glowing with a sort of green light at what I could only assume to be the joints. Alongside them, a large head that dwarfed my own body peeked from over the nest. The creature’s eyes glowed with a violet hue as its figure revealed itself to be a large bug.
+
+Its mandibles clicked against one another, sparks flying out of their collision. Its elongated body wriggled back and forth in mid-air as if it were a worm. Its pitch black exoskeleton glowed with a pale green light, and at the end of it, a tail with a large stinger glowed with an ominous light. It pulsated with a disgusting rhythm, stretching and shrinking as if water distorted its shape.
+
+The image sent a shiver down my spine, and my heart skipped a beat as it let out another, stronger and much louder screech.
+
+Reeeeaaaaaaaaahhhhuuuuuu!

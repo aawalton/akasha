@@ -1,0 +1,253 @@
+---
+id: 5901f83f-8bd8-5b7b-94f2-7caac37b80c2
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 506"
+slug: 0206-the-path-of-ascension-chapter-506
+partOf: the-path-of-ascension
+position: 206
+ownLength: 5982
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3659208/the-path-of-ascension-chapter-506"
+royalRoadId: "3659208"
+---
+
+Chapter 506
+
+Golden glowing eyes met his and then turned to Allie, as if questioning why they were there, however the first thing Matt noticed was how tired Manny looked. The Tier 50 looked like he’d hadn’t slept for the past century, combined with the additional weariness that came from knowing there wasn’t an ending in sight. If Manny had been a normal cultivator that might not have been that crazy, even immortals could overwork themselves, but he was the Emperor.
+
+Matt felt a shiver run down his back seeing Manny this haggard, knowing what was coming. What could possibly worry him so much? There was one singular nauseating answer that didn’t bode well and a weight formed in his stomach as the silence stretched on.
+
+Manny clearly noticed Matt’s reaction, as his expression morphed into a small smirk. His eyes softened into a tarnished gold instead of the vibrant glow they’d held when they entered.
+
+“Don’t go all doom and gloom there, Matt. The upcoming bout of war between Great Powers is stressful. As are the myriad of internal issues, such as the looming economic collapse that will undoubtedly follow, but it’s only hitting me this hard because of the upcoming birth. I was serious when I said I was taking that time off.”
+
+That information derailed most of Matt’s worries, as he couldn’t help but lean forward and ask. “Have you guys actually settled on a date now? Or is it still in the air.”
+
+Manny’s expression slipped into a small smirk that vanished almost as fast as it appeared. “Yes to both. Carissa and I have decided that once this bout of war ends we’ll go ahead shortly after if not immediately. But we haven’t settled on an exact date if that is what you wanted to know. I’m simply trying to get ahead of what that entails. I fully intend to take twenty five years off so I can properly be there for our child's formative years. That requires getting ahead of my already heavy work load and I wasn’t expecting visitors, so forgive my state.”
+
+Manny gestured down to the table and the holograms only he could see that were no doubt scattered around the desk in dense clusters.
+
+Matt used his Insight to tap into the desk and try to break the security to see what the Emperor was working on, even as he nodded along. His attempt earned him a glare but he didn’t stop trying to worm his way into the protected data.
+
+His efforts ended almost immediately as he was forcefully ejected. Manny had been doing his own upgrades, but instead of giving up, he let his subconscious plug away at the task while he responded. “You said something similar last time we talked, but you might want to go in a rift if you are this busy.”
+
+Manny’s jaw worked but no words came out for long enough that Allie got impatient and waggled a finger in a circle. “You two can gossip about kids later. Cool Aunt is a very easy position to fulfill and I'm well prepared with snacks and sharp objects. I’m more interested in why we got the Imperial recall treatment.”
+
+In a bad impression of Manny’s voice, she repeated, “Drop everything and see me immediately?” In her own voice she finished, “Isn’t that a teeny bit dramatic?”
+
+Contrary to the tone of her words, Allie was nearly bouncing out of her seat in excitement.
+
+Manny’s inhale and exhale were slow and deliberate as he calculated and measured his response. His eyes didn’t flash golden but both of them knew him well enough to see the gears turning.
+
+Finally Manny dropped his head into his hands as he grumbled into them. “Is there anything I can say to stop either of you from investigating this? I can… do something you wanted, I’m sure. It would just be a lot easier if you two let this sleeping dog lie. I have plans in place to handle this before I ascend. Neither of you need to get involved with this.”
+
+Allie was already shaking her head as he got halfway though. “We aren't even sure what we stumbled into yet, so no, probably not. Not unless whatever this is is super dull and boring. But if it's cool, I want in. I can’t even fight in the upcoming war! What else am I supposed to do in the meantime? I’m bored. Give me something to sink my teeth into. Come on, this seems perfect for me and I don’t even know what it is yet!”
+
+To punctuate her words, the teleporter shrugged at the end, trying to remind their Tier 50 of exactly what happened when Ascenders got restless and bored.
+
+The look Manny shot her wasn’t quite withering, but it was just as clear he wasn’t happy with her not so subtle threat. Normally, Matt would have sided with him, but in this case Allie was right. Not about her being bored, she could entertain herself just fine, he agreed with the heart of the matter.
+
+While she may have framed it in a personal way, she wasn’t wrong that they needed to know what they’d stumbled into before they decided to let it continue. It wasn’t in Matt to walk away from someone trying to infiltrate the Empire, no matter there were plans to take care of them later.
+
+Allie’s exact reasons might have differed, but he knew she’d be just as tenacious as him. Maybe if the thread had fizzled out as they pulled upon it they could have let it go, but now that they’d pulled it to this point, there was no way either of them were backing down.
+
+Manny’s eyes flicked between them while the silence stretched with each passing moment.
+
+It finally got to the point that Matt felt the need to speak up and he broke the silence. “If you say it's not important, I’ll believe you and I’ll walk away. But umm, what is it?”
+
+Manny sagged before reaching into his desk and pulling out a slip of paper.
+
+Using a finger, Manny quickly sketched out what looked like a formation but Matt recognized it as a formation key, spiking his interest further.
+
+“Some things can’t be easily shared and when they are, they can’t be taken back. Go see Ciceron. I know you already wanted to see him about Aurelius and his sword, so you might as well bother him for both of those instead of me. I’m not leaving my office to help you obliterate perfectly good plans.”
+
+Taking the slip of paper, Matt stood as Allie bounced out of her seat and next to the door.
+
+As they were about to walk out of the room, Manny called out, “Oh, two things before you go. First, Matt, Tur'stal wanted to have a conversation, so find and then carve out some time to speak to her in the coming weeks after she returns. Second, if the two of you pull this thread, I’ll let you, but know that every action has its consequences, just as every debt has its debtor. If you start this, I’ll expect you to see it through.”
+
+The ominous warning caused the two of them to look at each other. That once glance was all they needed to know; neither were willing to change course. At least not at this point.
+
+When they stepped into the hall, Matt asked, “Are you sure you want to come with? I can deal with things going forward if you want to return to the club.”
+
+Allie snorted and rolled her eyes, even as a hand reached out and started tweaking the pictures and other decorations they passed. Her words were steady and without any humor present in her expression. “I can stab you if you aren’t sure about this. I can give you a wound and an excuse to leave all in one. Besides, you heard the Boss. Or at least we both heard what he didn’t say.”
+
+Matt didn’t respond immediately, letting her comment linger between them. She wasn’t wrong. Manny had known exactly what they’d gotten themselves into and wasn't at all surprised. His only reaction was to try and deviate them from their current course of action, but even then he hadn’t tried that hard. As rare as it was, he could have told them no. If he’d been stern enough there was even a chance that they’d have listened.
+
+While the reasons behind such a course of action were theoretically endless, he felt they boiled down to two general reasons. Either Manny wanted them to continue and had only put up a token resistance to encourage them, or he knew that no matter what he said they were going to continue.
+
+Both options only increased his interest rather than diminishing it.
+
+Thankfully, finding Ciceron wasn’t exactly hard. The minute they entered the library, he appeared from around a corner. The oddity was that he was carrying a broom and grinning as he saw Allie.
+
+“Any chance you are here to fire me again? If you are, I think I can increase the archaeology budget by another fifteen percent. I’ve got better alternative offers lined up as bargaining chips now, so my position is that much better than the scramble you left me in last time.”
+
+Matt bit the inside of a cheek as he tried not to smirk but Allie was too busy pouting to see it and get mad. “No. And don’t tempt me! I got yelled at really badly for that. Most of your new stupid budget is coming from my budget. And that's not fair!”
+
+Matt was unable to hold himself back at that point and offered a distraction by holding up the slip of paper. “Manny sent us to talk about something he didn’t want to bother with. Any idea what it might be?”
+
+Ciceron only needed to glance at the slip before he sighed and pulled his broom to his chest, where he cradled it like a protective lover. “Are you sure you want to delve into this? I don’t think either of you want the consequences of this, no matter how much you think you do.” Before either of them could respond, the newly reinstated head librarian continued, but it was clear he was speaking more to himself than them, “Well, maybe you might enjoy this, Allie, but it's firmly outside your wheelhouse, Matt. Though… hmmm. There will be a lot of bodies to churn through, so maybe. Hmmm.”
+
+Allie stepped forward and flicked the broom handle, bringing Ciceron’s attention back from wherever it had gone. “You in there?”
+
+Ciceron sighed again but started leading them deeper into the labyrinthine halls that were the imperial library and archives.
+
+“If you are so impatient we can go but you need to wait until we are in the secure room before we can talk. What else can we talk about? Umm, the weather was nice last time I was outside. Or I think it was. I think it's been a few hundred years at this point? Oh, I know! How was the weather?”
+
+Instead of getting dragged into a side conversation at random when Ciceron eventually landed on something interesting, he decided to steer the conversation to his other oddity.
+
+Aurelius’ sword.
+
+Manny hadn’t seemed surprised in the slightest but the man did view the future on a regular basis, so it wasn’t crazy he’d been expecting and known about the attack on Matt.
+
+As a high Tier, it only took Ciceron a moment to go through all of the information Matt had sent over. It was only publicly available data that he’d been able to gather on his trip but Ciceron’s reply was just as swift.
+
+“Huh, I wouldn’t have expected him to be wielding this particular blade. That swirl of color as the wielder dies isn’t exactly common. So yes, Matthew, this isn’t the first time we’ve seen this particular blade. Or so long as it's actually the same blade as the one I think it is. Given the lightshow and talk of trophies, I’d be surprised if it wasn’t, but it's always possible it's a new but similar weapon to the one I’m thinking of. It's in a larger category of bound weapons, though it's one of the more exceptional ones that has been recorded popping up every once in a while.”
+
+Matt snorted but Ciceron didn’t give him the chance to speak, his eyes flicking back and forth as he went through the information. “I wouldn’t necessarily take that fight as a proper showcase of what the blade can do. At least, not if it's the one I think it is, which I admit could be wrong. If you are interested in seeing its upper limits, watch this clip of Vac’kem Nightfist and his death at Tier 44. That’s the highest Tier incident involving the blade that I know of, and one of the most impressive.”
+
+Matt and Allie accepted the accompanying data pack and watched it together. He could have simply thrown it into his Insight and instantly understood the information, but he tried not to do such things unless there was a time crunch.
+
+Unlike high Tier perceptions, his [Actual Insight] would allow him to skate through life without actually experiencing it if he allowed it. It was a semi-common problem for those who integrated their AI and then overrelied on it. Those people made the AI piloted meat suits high Tiers could turn into look well adjusted and he had no desire to walk down that path.
+
+The recording started from well outside the existing battlefield, but that didn’t stop the viewer from being affected by the fighting as waves of energy ripped out from the three fighters.
+
+Something about the fighting seemed off to Matt, but it wasn’t until the three figures separated that he identified it. The recording was from well before the Shattering. While the armor was a bit nondescript, his Insight put the general time frame as early in the Everlasting Kingdom of Prosperity’s reign.
+
+Vac’kem, despite being a full Tier lower than the two Tier 45’s he was fighting, silently laughed as the other two unsuccessfully tried to create distance.
+
+Vac’kem’s hands were as his name implied, dark as night, but that only made the relatively short, heavy-bladed, pure white sword stand out more due to the contrast.
+
+A part of Matt’s mind found the weapon choice strange, even as his subconscious identified the root cause. It was closer to something a foot soldier fighting in a formation would wield. Stranger was that he didn’t see the accompanying shield that would have normally been paired with such a short weapon.
+
+His confusion didn’t last long as the fight resumed. Vac’kem didn’t need a shield because he was a fully offensive fighter. He threw himself forward at the two higher Tiers as if he had no fear despite the Tier gap, dodging or taking blows similar to his own style.
+
+Matt had to temper his expectations during the back and forth as the two Tier 45’s did their best to preserve their lives. While their gear was ‘old’, it was top of the line and was the only reason the battle made it past the first few exchanges.
+
+Whatever the items and spells may have lacked, the fighters made up for in skill. None of the combatants were weak. However, Vac’kem was hands down the best on the field by a wide margin. Each move he made was clean, quick, and always pushed the battle towards a better position.
+
+What impressed Matt was how strong Vac’kem was.
+
+That close to the peak of the Realm, a full Tier gap should have seen him crushed. Yet he controlled the fight so well that without Ciceron’s spoiler, he would have assumed the man had won.
+
+Matt watched the first Tier 45 fall as he tried to protect his compatriate from a thrust with his own body, attempting to use some high Tier defensive spell that might have come from a talisman or the like. That was where things took a turn for the worse.
+
+The defences utterly failed, to everyone but Vac’kem’s shock. Seeing that most of the watchers started to flee without waiting around to see how things played out.
+
+Matt couldn’t avoid the obvious comparisons between himself and Vac’kem as he watched the fight continue to play itself out. Fighting up Tiers when the gaps were so large wasn’t just hard, it was damn near impossible, to the point it was common wisdom that Ascenders were the only ones who had a chance to survive such an encounter.
+
+Sadly, Vac’kem’s mistake showcased itself almost immediately after the first death.
+
+A human silhouette that seemed vaguely feminine formed out of wisps of air faster than the observer could perceive. What was more telling was that the viewer wasn’t able to perceive them with any other sense other than their sight.
+
+The Tier 48’s apparition said something but he didn’t get the opportunity to see what. The viewpoint was already turning trying to flee and it was only their passive senses that picked anything up at all.
+
+They needn't have bothered.
+
+The apparition's first attack obliterated the real space universe they’d been in, but the recorder had been far enough away that they were able to survive the blowback by activating all of their defensive abilities. They and everyone else high enough Tier to survive were ejected directly into chaotic space, while everyone below Tier 30 or so died as the star system fractured in the face of the Tier 48’s wrath.
+
+Even before the Shattering and the agreements to limit high Tiers, such people had been rare. Contrary to his expectations, the Tier 48 didn’t seem content to stop there, which felt like overkill but proved wise.
+
+Vac’kem’s upper half and sword had somehow managed to survive the direct strike.
+
+That was their second mistake.
+
+The high Tier apparition didn’t take that well and chaotic space turned as ethereal as they were. Like a hurricane, they struck out in a flurry of blows, not caring about the collateral damage that annihilated the nearest low Tier worlds that were too close to withstand such impacts. While normally the reality shift between real and chaotic space buffered worlds from incidental outside damage, a fully mustered Domain harmonized everything into a homogeneous whole that was no harder to break than the first world.
+
+The apparition only stopped attacking when a familiar implosion of lights started to dig their way into the fabric of reality itself. The Tier 48 tried to stop the process, darting forward with an angry outstretched hand, but like Matt, their efforts failed to prevent the blade's escape.
+
+Ciceron continued right as the recording ended. “Before you came, we hadn’t known Aurelius had the sword. W—”
+
+Allie skipped forward as she interrupted with a question of her own, “What’s the sword's name?”
+
+“Its designation in the archive is BW-B24546. Between its shapeshifting capabilities and how it vanishes after its wielder’s death, it's not exactly an easy to track item and from what we can tell every owner names it themselves with it either not having or not sharing its true name. In fact, what it told Matt about being one of the oldest blades in the Realm probably isn't wrong given what little we do know.”
+
+Matt was questioning when he had told Ciceron that when, without missing a beat the Tier 45 launched into a lecture. “Bound weapons, a technically formal name with very little bearing on reality, aren’t that rare. There are a lot of rifts making a lot of items, some of them can be more powerful than others. Others still can be so powerful they can’t be traded back and forth, even if they aren't a typical growth item. That’s all a ‘bound’ item really is, colloquially speaking. Most such items aren’t that big of a deal. Destruction and containment aren’t any harder for most of them than any other item. Some of them however are… more resilient. BW-B24546, Aurelius’ sword, or the one I believe it is, is an exception even in that category. Neither its own destruction or its hosts seem to have any effect on it. It always shows up some time later, perfectly intact and with a new form. Often only recognizable on its wielder's untimely death. At the same time, hehehe,” Ciceron chortled at his own joke, nearly smacking himself with the broom he seemed to forget he was holding. “It appears so infrequently we aren’t confident about much either. Hmm where was I?”
+
+As Ciceron paused to fiddle with the slip of paper and a perfectly normal door, Matt added what he’d discovered. “There were hints of aperology in its disappearance. Maybe it's able to replace rift rewards or somehow interact with rift rewards? A sort of return to the beginning so to speak.”
+
+Ciceron finally continued as the door opened to reveal a normal corridor like any other. “Also, I believe Helen is wrong about it being the weapon that inspired the dwarves’ Artefacts. While finding and identifying one of its less than notable wielders is almost impossible— see us not identifying Aurelius as a wielder— what you sent me does tentatively match BW-B24546. At least visually. That could be a false positive, mind you. My point being, the Founder's time is one of the few periods in which we are at all confident in its location, and it wasn’t there. It was in what would consolidate into the Federation. Anyway, with Aurelius’ ownership semiconfirmed, I’ll dedicate some time to go through his personal files and history. Maybe he happened to write down everything he knew about the sword? I doubt it but maybe I’ll get lucky. You implied you kept the body?”
+
+The moment Matt withdrew the corpse, Ciceron grabbed and stashed it in a premade coffin that looked to be made out of some type of emerald. Neither he or Allie asked the obvious questions, not wanting to distract him any further.
+
+“That will help but probably not as much as I‘d like. Interesting tidbit about the rifts though. I’ll have to investigate previous suspected wielders and see if they have anything that corroborates that finding. Sadly, one thing we know for sure is that like most bound weapons, it has a high degree of divination resistance. I’m of the opinion that it’s a side effect of something else because of how often we see that effect on what are considered bound weapons, but no one has been able to prove anything definitive either way. The few bound weapons that have been willing to talk didn’t even know they were hard to divine. Ah, here we go.”
+
+Matt looked at the ordinary hallway they were inside when Ciceron reached out and tapped the air. The space around them shimmered and twisted, revealing an actual room squeezed into an alcove that never should have fit it.
+
+Ciceron didn’t hesitate and stepped inside as if he was afraid the opening would vanish if he wasn’t fast enough. Following along, Matt and Allie found themselves inside what looked like an interrogation room with flat empty walls.
+
+Ciceron wiped his hands before he sat down and started tapping at the air.
+
+Matt and Allie waited for several long seconds for him to finish but eventually he explained. “Okay, inside this room is information that can’t leave it. Even in here, the particular person's name has been scrubbed, but we still need to be careful. Have either of you ever wondered about the previous dynasty? Not in general, not what the Empire teaches in schools or allows shown in movies, but in the particulars?”
+
+Matt had never considered the question but after doing exactly that, he realized he hadn’t. The previous dynasty was simply that, the previous dynasty. Already old and truly a relic of a bygone era after two full cycles of Tier 50’s, he’d never even considered looking into them.
+
+Now he was questioning that.
+
+“That's not an accident, I take it?” Allie’s question earned a nod from Matt.
+
+Ciceron shook his head, looking tired. “It's very much not. In fact, it's a constant battle to keep it that way. Even in this room, it's not safe to speak or even think of her name, so I won’t share it with you. Not even the Royals know her name, even if they got a similar briefing to this. What you need to know is that the sister of the Emperor Agatha dethroned has a Talent that allows her to know when people speak or think her name should there be any association between it and her. It was always an incredibly powerful Talent, but almost sixty thousand years of vengeful honing has made her all the stronger. More devious too. Agatha forcefully purged everything she could but the sister was never captured. Georgios did locate her, I know that for a fact, but by that point she was already sequestered in…” After looking to the side for a moment he continued, “The Republic at that time.”
+
+Seeing both of them perk up at the information, Ciceron shook his head. “She’s long since gone from that location. Our latest confirmed report of her location was in Clans territory but we suspect she’s now either in the Sects or possibly the Collective based on previous patterns. Realistically, she probably has bases in all of the Great Powers and simply cycles between new ones, but it's hard to confirm anything given the cat and mouse being played. The other Great Powers have enough TIer 46’s that even the Emperor can’t pick her out.”
+
+Hearing the news, Matt’s fist clenched, but it caused Ciceron to smirk instead of getting angry. “Don’t take it too personally, Matt. It’s not like we aren’t doing the same things. Georgios was more than willing to take in and support political dissidents during his reign, and he didn’t start that trend by a long shot. He was simply better at it than most. With his Talent and political acumen, he created more than a few problems for the other Great Powers, some of which they are still dealing with. In fact, we helped restore a dwarven clan to prominence less than five hundred years ago. All the Great Powers are playing the same games. They simply have a bigger, more useful, piece to play. Not necessarily a good one, given how long it's been since their family lost the throne, but she has enough of a legitimate claim that the others are happy to keep her funded. Her hatred ensures that she's a willing tool in the game and one always happy to cause trouble.”
+
+“And it's just being allowed? Why hasn’t the Boss just gone and killed her?”
+
+Allie looked excited at the prospect of a Tier 46 getting squashed, but Ciceron shut her down. “She’s intentionally inside other Great Powers’ borders and never personally strays. Why would she when a single whisper or thought of her name can let her observe the person and everything around them without risk? That’s why she has disposable minions and pawns. Besides, if any of the Tier 50’s made a move inside another’s territory, it won’t be as simple as a normal war. At the very least it would cause a fight between the Tier 50’s, at slightly worse it would escalate into a very fierce war, and worst case scenario, it's a true war. Also, I think the Emperor had a plan but I don’t remember it involving you two. Are you sure you're supposed to be here?”
+
+While Ciceron was speaking, Matt tapped into the various archives on the old dynasty he felt lining the room. All of the raw data, mainly historical information, got shoved into his [AI] to let it do its thing while he focused on more current information.
+
+Going through it, Matt felt overwhelmed by the enormous weight of what he’d learned.
+
+The previous dynasty forces were doing far more than he’d suspected from Vanessa’s words. They were suspected to have anywhere between five and a dozen active hidden bases that were solely focused on raising infiltrators staffed by the loyal remnants of the previous dynasty and their newer followers, but only two locations were confirmed. Worst of all, the notes indicated the opposition was aware of their discovery, meaning anything they learned from such locations was incredibly suspect.
+
+Matt wanted to start digging in, find strings to pull until he’d unravel everything the mess, but his instincts told him that wasn't the best or smartest answer.
+
+A part of him almost wished he’d listened to Manny’s warning, given the task in front of him, but now that he knew of such a plot, he refused to walk away. Manny might be hemmed in by the rules, both the spoken and unspoken ones, but he and Allie weren’t. At least, not in the same way.
+
+That didn’t mean what they were going to do was easy, but he didn’t need his Insight to know someone like that wasn’t a quickly resolved issue. When he and the others were able to kill a prepared Tier 46, they could solve the situation root and stem, but until then all they could do was start uprooting the previous dynasty's agents and assisting in the active counterespionage.
+
+Unexpectedly, midway through them going over one of the cover organizations the dynasty was suspected to be working through, Allie turned to Matt with a pleading expression. “Let me take the lead on this. Please. Zack and I need something to do while you guys are fighting in the upcoming war and this is perfect. All we have planned to do during the war is putz around in deep chaotic space, and that's boring without Aster. We can get you guys for any big strikes but let me take the lead. Please please please. I promise I will stop making jokes about your weight if you agree. At least for a few weeks. Come on, please.”
+
+Matt wanted to refuse on principle, but he already had too much on his plate between the upcoming war, the Cabal, and Titan’s Torch. He didn’t want to make room for uprooting the previous dynasty, despite the pressing need to. He’d started this by investigating Vanessa, it was his responsibility to see it through.
+
+He’d been thinking about the future a lot in previous years. The idea of these people trying to destroy the Empire from the inside, to revert it to its previous much darker incarnation, wasn’t something he could tolerate.
+
+If he couldn’t find the time, he’d make it.
+
+However, if he wanted to do it properly, he needed to get his sword Tiered up. Part of this trip to the Capital was to visit Vincenzo and replace his growth sword’s base material with the ingot of neutronium, along with the plethora of other metals he’d prepared. His scheduled spot had been delayed several times now, but with this new information he’d decided to lock in that timeline and sent the man a message to that effect.
+
+He wouldn’t be tolerating any more delays.
+
+“I’ll let you take the lead until the war is over, then we’ll split it properly. This is way too big to be tackled overnight. W—”
+
+Allie had heard all she needed to and interrupted him without bringing her gaze away from the pad she was scrolling through. “Okay, good. I need four AIs dedicated to me to track down this Princess. Chances are, I’ll need more, but let's start there. The processing power I’m going to need to find deliberately hidden discrepancies across the Great Powers is going to be insane. You are pretty much the only person who can manage it, and I won’t have access to you or your processing power when the war starts, so no excuses.”
+
+Her attempt to butter him up did mollify him slightly. Despite the work this would entail, he’d at least be kept in the loop via doing the work. A part of him still wanted to groan at the additional work load but he didn’t.
+
+Instead, he agreed without further comment. One, it was Allie asking and she was one of his closest friends. Second, he’d bummed enough teleports from her that he owed her regardless of how she called it in. Third, and the most important metric for him, was that if any of his friends realized that when they asked him to process large amounts of information, he, at least a small portion of his subconscious mind, needed to do all the work himself, they’d stop asking.
+
+Integrating [Actual Insight] into his subconscious had its downsides and he knew if the others learned of that, they wouldn’t be willing to take advantage of him. Which he wanted them to continue to do. Not only did he enjoy helping those close to him, even if it was for silly things like cataloging the amount of times a particular actor made a signature move off-camera, or the more serious ones like helping Aster simulate mana structures for her ever elusive space ice or host her Spirit Space forum.
+
+It was a labor of love he wouldn’t trade for the world.
+
+And he was interested which made the work less of a chore.
+
+The previous dynasty was insidious. Or maybe well funded was a better descriptor. They always seemed to have the funds to prop up a failing business in one duchy while helping erode the foundation of another. They seemed to have a knack for being able to scoop up the last remaining individual from whatever organization had lost some squabble and then help them achieve their goals of revenge.
+
+Most of it was small scale and at the edges of society where it was hard to monitor until after the fact.
+
+Matt now understood where the time reversal artifact Melinda had used was normally deployed. Tracking the leads to scrub any hidden deposits of the Princess name scattered by the agents would be more than a full time job considering the sheer scale and scope of the Empire.
+
+There had to be entire divisions of counter espionage personnel dedicated to the task. He admitted to himself they were damn good at their jobs. He’d never thought twice about the conspicuously absent information. It had been erased so thoroughly it wasn’t even an after thought. The only mollifying thought to that potential nightmare was that the sheer effort needed to manage such an erasure in a realm of immortals made it impractical on a large scale.
+
+And eventually the Empire would be able to cease its efforts. The Princess' Talent did her no good if she was dead.
+
+Still, the more he read, the more he felt history would have taken a very different course if Agatha had faced the daughter rather than the son. And a lot of records of the time he now had access to tended to agree. The one true skill the son apparently had was the ability to suck up to their father and that hadn’t taken him very far.
+
+Ciceron stuck around for another half an hour to answer any questions they had before his duties pulled him out of the private room, leaving the two of them to work.
+
+Matt stayed there for a week getting familiar with the information with Allie before it was time for his meeting with Vincenzo. He’d expected Allie to follow, knowing how interested she’d been for the swap, but she was having too much fun searching through the aggregated data on the previous dynasty leaving him to go alone.
+
+Damn. Now he needed to do it alone.

@@ -1,0 +1,233 @@
+---
+id: a9eaa46d-21f1-5f3b-be03-9f20f455c2fa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40: Into The Swamp"
+slug: 0040-chapter-40-into-the-swamp
+partOf: the-gift-of-loot
+position: 40
+ownLength: 3095
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3520552/chapter-40-into-the-swamp"
+royalRoadId: "3520552"
+---
+
+Using Zach's extensive knowledge of the bus route, they were able to go downtown to a strip mall of pawn shops. Just like in Placerville, many of those pawn shops had started side businesses selling mana crystals and lower-level dungeon drops.
+
+Thomas didn't see any magical armor, but one particularly shady shop did have Kevlar vests. He didn't know if they were the real deal, but it was better than broken ribs. Plus, they looked a little badass.
+
+He and Zach both got one, and he did his awkward best guess on Jo's size.
+
+It was harder and harder to find healing crystals for sale. It seemed the word was getting out, and anybody with anything remotely chronic was heading to the dungeons and then buying a Healing crystal fix. Thomas didn't blame them, but it made it inconvenient for divers.
+
+However, healing potions were on the cheaper side and more plentiful.
+
+"How effective are these?" Thomas asked, worried that the prices were too good to be true. Some of the "healing potions" were going for $50 a pop.
+
+The shopkeeper squinted. "From what I understand, they won't save you if you're on the verge of death, but they will knock out a cold just fine. Of course, you have to have visited a dungeon in the past for it to be effective."
+
+"What about for injuries?" He asked bluntly. "I'm a dungeon diver."
+
+It felt good to say that, actually. He didn't think that he had before.
+
+The man regarded him with a little more seriousness. "In that case, you probably want the stronger ones. You're looking at the D grades at that price. Now the C grades over here," he pointed to a cabinet with smaller vials, but the potion looked more intensely rosy red. "They'll be $100 and will fix most soft-flesh injuries. B grade will heal broken bones, but for critical injuries you'll still want a good healing stone or a healer on your team."
+
+"Got any level two Healing crystals?" Thomas asked, hopefully. It had been 'no' across the board so far, but he had to keep looking.
+
+"Or Adaptation?" Zach added from across the shop where he was looking at guitars.
+
+The shopkeeper shook his head. "No to both. If you find a stash of something like that, feel free to bring it here. I'll give you the best prices in town."
+
+Considering the greasy, dingy state of the shop and the fact that all the owners had claimed to have the best prices in town, Thomas sort of doubted it. But he still remained polite to the guy and bought a stash of potions.
+
+Prepping for this dungeon dive was getting expensive. Luckily, he had just the Gift to make up for it.
+
+As they had decided to sneak into the dungeon at night and Jo said she'd pick them up in the evening, they had some time to kill.
+
+There was a park nearby, and Zach wandered off to meditate. Meanwhile, Thomas picked up his phone and started an intense series of text messages to his friends and his oldest brother, Pete, warning them about what would happen if none of them delved a dungeon before System integration in five months.
+
+What he got back was fairly disheartening. A few people left him on read, and he got disbelief and pushback from nearly everybody else.
+
+Get off TikTok, it's rotting your brain.
+
+I'm nearly forty years old. I got kids. I'm not messing around with dungeons.
+
+LMAO You sound like you're trying to sell me on some multi-level marketing scheme.
+
+That last text was from his eldest brother, Pete, and Thomas was actually surprised to hear from him. Pete was working up in Alaska and was often out of cell phone service, or at least he claimed to be.
+
+Thomas took a chance and placed a phone call. To his continuing surprise, Pete picked up.
+
+"Hey Tommy, how's tricks?"
+
+"Don't call Derek 'tricks'," Thomas said, and heard his brother laugh.
+
+"I heard he packed up his kids and decided to mooch off you," Pete said. "How's that going?"
+
+Thomas sighed. "Derek's being...Derek. He thinks he knows how to run my life even though he can't run his own. Nothing's changed."
+
+"And now I notice you're giving your own advice," Pete said, and there was a slight edge to his voice.
+
+He grew serious. "Like I said in the text, this System thing isn't voluntary. I'm not saying you need to go full-time as a dungeon diver or anything. I'm saying, within the next five months or sooner, get your ass into a little level one dungeon and kill a monster. Do it before the countdown runs out in case something happens."
+
+Pete was silent for a moment. "What do you mean, if something happens?"
+
+"Things are getting dangerous in the cities," Thomas thought for a second, then admitted, "I was almost robbed on the highway getting back into town the other day, and part of Sacramento was on fire. How is it in Alaska?"
+
+"Ain't no one in this neck of the woods except oil drillers, and they all hate me," Pete said with relish. He was also employed by various oil companies but on the environmental regulation side. He went around basically telling people to stop work because they might ruin the habitat of the rare arctic lizard or whatever. It did not make him popular with the roughnecks.
+
+Something occurred to Thomas that hadn't before, and he felt his blood run cold.
+
+Alaska was easy to ignore, and in fact, there were plenty of maps that, for some reason, put it dangling next to Hawaii. But the truth was Alaska was stupid huge. Like, the land mass was a fifth of the size of the rest of the United States. It was attached to Canada, which had vast tracts of sparsely populated land to the north.
+
+Point was, that was a lot of land to have a dungeon set every 10 square miles.
+
+"Pete," he said, with a calmness he didn't feel, "I think you need to get out of Alaska."
+
+"No way am I coming back to Tahoe."
+
+"I'm not saying that," Thomas added quickly. "I know how our family is." After all, his own brother had moved into his apartment. They could be overbearing even with the best intentions. "But there's already been some overflow events, meaning older dungeons have vomited up monsters. There has to be a lot of dungeons out there in the bush."
+
+"I don't know, Tommy," Pete said. "This is all crazy stuff. Half the guys here think the message in the sky is AI or Starlink trolling people or something."
+
+"That's not even how AI works–"
+
+"Look, you're breaking up." Pete sounded tired. "I should go."
+
+The line was crystal clear on both ends, and Thomas knew that Pete was just annoyed with the conversation. He had hard boundaries with his family, which Thomas tried to respect and even admired him for, but this was important. "Pete," he said, speaking quickly. He had to get this out now, or never. "You know I'm not like Derek. I've never told you how to live your life, and I'm not doing that now. I am warning you that things in the lower 48 are going downhill, which means help might not arrive in your area if you need it. I also know for a fact that if you don't enter the dungeon and unlock your Gift, it'll eventually make you, and you won't like the consequences. And yes, I'm hearing myself and I know I sound like a conspiracy theorist, but please just... just trust me. I've never asked you to take my word like this before. Pete? Hello?"
+
+There was silence on the other end, and Thomas looked at his phone, wondering if Pete had already hung up. He wouldn't put it past him, but the little timer was still clicking over.
+
+Finally, Pete said, "Okay, I'll think about it. Take care of yourself. Send my love to Mom and Dad."
+
+And then he hung up.
+
+Thomas let out a breath. That had gone honestly better than he would have thought. Pete was squirrely at the best of times. He refused to be pinned down, and he did not like to be told what to do, but he had stayed on the line to listen... which probably meant he had seen a thing or two up there in the Alaskan woods that had spooked him.
+
+Well, that was one brother taken care of. As for his more reluctant friends... well, he'd work on them. He did have five months.
+
+****
+
+To his mild surprise and intense relief, Jo actually arrived when she said she would. She was driving a big Ford F-250 that looked like it had seen better...decades. It was a beast of a truck, and by the scratches on the sides and the mud halfway up the frame, it went off-roading quite a lot.
+
+Jo caught Thomas looking and smiled. "It's my ex-husband's truck," and the amount of unsaid could probably fill novels.
+
+"Thanks for picking us up," Thomas said. "This is Zach. I've done a few dungeons with him, and he knows what he's doing with fire."
+
+Zach waved, and Jo nodded to him, though she threw a smile in Thomas's direction. "No gangsters in those dungeons, I hope, or this one neither?"
+
+"Not that I know of," he replied, "but there might be a few complications. I'll tell you on the way up."
+
+"Where are we going anyway?"
+
+At that, Thomas looked at Zach, who was also giving the truck an assessing look.
+
+"How off-road can this thing go?" Zach asked.
+
+"If there's a trail, it can take it," she said confidently. "If there isn't, my truck can break one."
+
+****
+
+Thomas discovered something new and very important about Jo that evening: she drove like a bat out of hell and had zero fear.
+
+Thomas, who had plenty of fear to go around, grabbed the handlebar above the window and just focused on the fact that he had healing, if and when they should crash.
+
+But they made great time up the mountain.
+
+Jo didn't balk as much as Thomas worried she would when he read her in on where exactly this dungeon was. Apparently, from the hints he'd dropped in text, she'd gotten a skeevy feeling and had prepared herself accordingly.
+
+"Oh, I've done a few dungeons on my own," she said casually while taking hairpin turns on a road meant for ATVs. "Either of you tried the Man-Eating Unicorn dungeon yet?"
+
+"No," Thomas said, trying not to look like he was hanging on the door for dear life. He hadn't been carsick since he'd been a child, and he was determined that wouldn't happen now.
+
+"I heard it's way harsh," Zach added. "Like...nightmare inducing."
+
+Jo nodded. "I used to love unicorns when I was little, but now...not so much. I'm glad that I absorbed that second skill shard to take them on. And the drops were not worth my while, so," she finished with a shrug.
+
+"Rumor is, the people who own this dungeon did something to it so it drops better than usual," Zach said, casually inserting their cover story. Then he glanced at Thomas and did an obnoxious thumbs-up while Jo's attention was on the road.
+
+"So this is really one of the original dungeons?" Jo asked, regaining control after the truck fishtailed. "The one the rich assholes have been siphoning off of to get richer?" At Thomas's nod, she smiled. "Well, you betcha I'll give it a look then."
+
+****
+
+Eventually, though, they did come to a stop and had to hoof it on foot the last two miles.
+
+It was dark, but as it was summer, it was a warm evening, and the moon was half full, which gave them plenty of light to see by. Because they were sneaking onto private property, no one turned on flashlights.
+
+Since Zach had been there before, he was the one leading their group. Give it to the man: he somehow seemed to know exactly where he was going even though the bushes and trees looked exactly the same to Thomas.
+
+As they hiked, he glanced once or twice at Jo to see how she was holding up, but she seemed comfortable in the backwoods. Even more so with the katana strapped to her hip.
+
+Finally, Zach turned and motioned for them to crouch down. Then all three carefully made their way up the last part of a short hill.
+
+Beyond was a scene that Thomas hadn't imagined. They were out in the middle of nowhere, way beyond any basic utilities like electricity or water or even roads. Yet, carved into the face of a cliffside was a three-story home.
+
+Or really, a mansion.
+
+Several lights blazed in the windows, and a thin trail of smoke lifted from a chimney. A stream wound its way around the foot of the cliff. It looked like a cozy, miniaturized version of Rivendell.
+
+Zach pointed to a dark space at the bottom right of the cliff. "That's the dungeon entrance. No lights, so I don't think they're waiting for anyone to get out." He glanced at Thomas. "You wanna do your thing, Mana Man?"
+
+"Thing?" Jo asked.
+
+"Gift of Senses," Thomas said with an apologetic shrug. "It's not only for dungeons."
+
+Then he closed his eyes, because even with all his practice, he seemed to get more from his health sense if he wasn't trying to block out what his eyes were telling him at the same time.
+
+"I can't see inside that house," he reported after a moment, frowning. "It's completely blocked off. I didn't think that was possible. But there are two guards outside. One is there." He pointed to a grayish blob with a darker rectangle blob beside it. That, he assumed, was the gatehouse. "The second is out that way." He pointed off to the left, way past the cliff. "I don't know what he's up to."
+
+"Guard patrol," Zach said, "but probably just pretending to work while smoking. Or taking a nap."
+
+"Well, the path to the dungeon is clear for now. We can literally jump that stream, it's not wide." Thomas hesitated. "Jo, how does your Gift work against cameras?"
+
+They probably should have had this discussion before, but Thomas hadn't been sure of the layout of the place, and Zach acted like it had been approachable.
+
+She seemed a little startled by the question. "No idea. I haven't tested it outside a dungeon. You think it should work?"
+
+"It should," Zach replied. "Gifts usually do unless the description says it only works in dungeons, and that comes with the strong ones." He thought for a moment. "I was able to get into the gatehouse the other day, no problem. So either they're not motion-sensored or these guards are slackers and no one is paying attention."
+
+Thomas thought for a moment. "Let's head straight for the dungeon. Jo, are you good to take us one at a time?" At her nod, he continued, "And if I notice any movement by the guards or anybody else, we just run back for the hills and Zach sets a fire behind us."
+
+"And maybe a few other things along the way," Zach added with a slightly evil grin.
+
+"Okay." Jo's voice was a little high-pitched, but Thomas saw her reach down and grab one of the daggers she had on her belt. Instantly her expression eased. "Okay," she said again, calmer. She looked between the two. "Who's first?"
+
+"Thomas," Zach said. "He can keep an eye on the guards, and if you have to retreat, I'll provide the cover fire."
+
+****
+
+There was no outcry from the guards. Either this was a trap set by extremely patient people or, like Zach said, the two guards were underpaid slackers who weren't expecting any trouble.
+
+Thomas devoutly hoped it was the latter.
+
+Also, since he was making wishes, he hoped this particular dungeon's loot made it worth all this hassle.
+
+The entrance to the dungeon wasn't visible until they got close, and it looked like it wavered between green and brown. Very swamp-like, which was on brand with everything he had read in the dungeon guide.
+
+Thomas waited, feeling the dungeon's energy buzz against his back, until Jo arrived with her hand on Zach's shoulder to cover him under her Gift. They all exchanged one final look, then entered the dungeon.
+
+At level 3, the entrance safe room was large enough to fit them semi-comfortably. The first thing Thomas did was pull out his pocket watch and note the time.
+
+"We'll wait here for 10 minutes," he said. "Let's gear up and then go in."
+
+Jo looked around, eyes lingering on the simply tiled floor. The pattern was simple, but it made for nicer ambiance than a blank, closet-sized white room of levels 1 and 2. "Why 10 minutes?"
+
+"To make sure nobody follows us in," Thomas said grimly, then he started pulling out one of the Kevlar vests he had stashed in his extra storage backpack. "Here, try this on."
+
+"Oh right, don't forget these," Zach said, also handing out the rip-off AirPod-looking cases to each of them. "They're weak personal protective shields. They'll only zap bugs, but it's a swamp."
+
+"And swamps are gross," Thomas finished. "Which reminds me: I need both of you to let me know immediately if you get hit by one of the mosquitoes. According to the dungeon guide, they have a 1 in 10 possibility of transmitting dengue fever. The pictures I found on WebMD are a horror show, so let's avoid that. I have health potions that should clear it up."
+
+Jo looked a little overwhelmed by all the items and warnings. "Feels like I should have brought something for the picnic," she muttered, zipping up her Kevlar vest.
+
+"You're here to do the stabbing," Thomas reminded her. He pulled out his mace. It wasn't his favorite weapon, but at least it killed things with prejudice.
+
+She nodded, gripped her sword, and again that seemed to settle her. "Let me make the first strike."
+
+"Ladies first," Zach agreed easily.
+
+Thomas looked at his pocket watch. "30 seconds."
+
+They waited in silence until it passed. No one attempted to breach the dungeon to stop them. They were in the clear.
+
+"All right," Thomas said. "Remember: it's gonna be weird in there." With that, he opened the door.

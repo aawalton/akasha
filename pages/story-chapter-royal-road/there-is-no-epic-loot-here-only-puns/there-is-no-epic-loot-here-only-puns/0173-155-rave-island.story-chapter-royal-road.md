@@ -1,0 +1,305 @@
+---
+id: c611111b-0f1c-59ff-943e-c28e1170ae43
+page-type-slug: story-chapter-royal-road
+title: "155: Rave Island"
+slug: 0173-155-rave-island
+partOf: there-is-no-epic-loot-here-only-puns
+position: 173
+ownLength: 3542
+unit: words
+publishedAt: 2022-05-04
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/900659/155-rave-island"
+royalRoadId: "900659"
+---
+
+“I’m a little sad to see them go,” Delta admitted as Ruli left the Dungeon proper with the nervous adventurers trailing behind. Estal paused just before she was about to walk outside, opened her mouth, but then simply shook her head and vanished.
+
+“I’m not. Progress and our growth seems to stop for an unnecessary amount of time so you can watch people ‘grow’ and ‘become better people’. Honestly, I am looking forward to getting a move on,” Nu grumbled, his form just his default screen and floating detached hands.
+
+“You say that like we’ve got Mana and DP to burn,” Delta said with a smile as she floated down the first floor.
+
+“...You haven’t checked the system in some time have you? Between your nap and watching sad sacks getting the tar beat out of them by a tree?” Nu asked, text suddenly sounding bemused.
+
+“I know when I’m full because I get bloated and want to hurl,” Delta reminded her companion as she began to open screens.
+
+She paused as she looked at her numbers.
+
+Max Mana: 390/500DP: 1399
+
+“Nu... we must contact the bank and inform them of an incorrect transaction,” Delta said, voice faint. These numbers could not be real.
+
+“Delta. We are the bank. Did you forget you subjugated a lich-brat and ate her castle?” Nu reminded her and Delta did, infact, completely forget about doing that in her excitement with the new guests.
+
+“Man, I could buy the fifth and sixth floor at the same time right now,” Delta mused, knowing her fourth floor was already unlocked... she was just kicking her feet about what theme to choose.
+
+“Not that I dislike the idea, but you should really ensure your third floor is touched up and any issues we noticed from the last incursion are patched up. No point in getting two more floors and having no DP to actually do anything with them. Plus that sort of jump might make the locals jumpy,” Nu added casually.
+
+Delta didn’t think anything short of the moon falling on them could startle the people of Durence.
+
+“I have decided,” Delta clapped her hands, as if trying to get a classroom’s attention.
+
+She spun and pointed her finger directly north with a dramatic flourish.
+
+She... really wanted to ask the siblings how they had a north or south at all with no poles, but she just suppressed that with soothing thoughts of ‘don’t question the magic sky children... don’t think about it.’
+
+“I choose... Island theme for the Fourth Floor!” Delta declared and the Dungeon began to shake.
+
+“WATER LEVEL. MY TIME HAS COME!” Nu howled like a deranged monster under a full moon.
+
+“Well, at least you’re happy,” Delta said as the mana levels in the Dungeon began to rise like a tidal wave.
+
+The surge flowed down to the opening that formed behind King Jellagon, lowering down into the earth until it pooled and with a nearly violent shake of the earth, the mana raced back up in a geyser.
+
+“Oh, this might be noticeable,” was all Delta managed to get out before the mana exploded out the Dungeon entrance.
+
+---
+
+Ruli froze as a wave of mana rushed over the area, seeping into the trees, ground, and the group to an extent. She turned slowly to see an orange barrier appearing off the door to indicate that Delta was doing a massive upgrade.
+
+She closed her eyes and Ruli held her hands out as if to get as much of the orange tangy mana as she could grasp. It made every inch of her body tingle with power. Ruli had rarely been in a powerful mana area for too long and the demon realm was too alien to do this to Ruli.
+
+She felt like she was bathing in warmth, kindness, and sunshine.
+
+“It’s in my mouth!” Estal screamed as she was bowled over by the wave, while the odd one known as Silver was lifted off his feet and flung hard away, his nature at odds with the mana.
+
+“This mana intensity... it can’t be real. Delta only has three floors,” Hazhur cried out as he barely kept himself stable in the hurricane of force.
+
+Being this close to the Dungeon was like being in the eye of the storm.
+
+“Four... now,” Ruli said as she caught the sight of slight bluish waves in the orange sea. That was a little odd, but she didn’t have time to dwell on it as the waves hit Durence and she finally saw something she hadn’t noticed before.
+
+Fairplay tents and banners on the outskirts of town. Their insulting symbol proudly flying over Ruli’s home.
+
+Ruli’s yellow eyes slitted and the edges began to burn red.
+
+“Don’t fall behind,” she warned the group who all seemed to go very pale at the sight of her face. The sword on her back felt hot and she knew it was reacting to her rage. The sword known as Magma burned hot.
+
+She took off, leaving dust in her trail as she sped back towards town.
+
+---
+
+Jolin Javen Japes watched as his golem child stood in the street, eyes closed as he began to drink deep of the passing Dungeon mana. Vas looked in a trance as if he wasn’t even aware that he was doing so.
+
+He tilted his head and in a single glance had assessed that Vas was not only stable, but thriving under the energy. The bond between them felt through the empty hole in his chest where his heart used to be.
+
+He began to carefully feel Vas' soul, touching lightly about what was within.
+
+Dungeon, Druid, Witch, Demon...
+
+Japes began to smile.
+
+Silence, Godly...
+
+Vas’ form flashed gold.
+
+Water, earth, fire, and air.
+
+The wave from the Dungeon covered the entire town.
+
+All Japes was missing now was that final touch. That made him frown.
+
+“The most potent gathering of people in the entire world, and not a single one of ‘them’ to be found. Time is running out,” he sighed and turned away to think.
+
+He went to his workshop and slowly opened a cabinet with both hands, the two doors opening like butterfly wings to reveal a collage of maps, names, and sketches all connected by a series of strings.
+
+Dozens of the names on the map had been crossed out.
+
+As if needing to reread the names to assure himself he hadn’t missed anything, he went down the list of potential targets.
+
+The Bloated Corpse of Gannui. Purged with explosions.
+
+Liopin, the matriarch of soul spiders. The land where she had been reduced to ash.
+
+The Door to Madness. Sealed with a heroic sacrifice.
+
+That left only...
+
+Japes ran a finger over a part of the map, trailing his finger from the north downwards, where the string split into a dozen directions. All of them lead back to the disaster in the far north.
+
+“The One who Walked. Silver.”
+
+Japes had tracked the Dungeon core for sometime, but the hulking beast had simply vanished into the white snow to never be seen again.
+
+And with it, the last potent source of Abomination Mana to be had.
+
+It was irksome, but he had a feeling if he kept his eye out now that Durence had become ‘lively’... things would become very interesting.
+
+It was as if every important piece that had a purpose to play was heading for their little ‘quaint’ town.
+
+“Master? Are you here?” Vas called as he seemed to snap out of his state and saw Japes had vanished.
+
+Japes closed the cabinet. Perhaps... a touch of guilt filling him as he knew the reason he hid the map from Vas was because he was hiding the very nature of the golem from himself. Japes soothed the feeling with knowledge that when all was said and done.
+
+Vas would not only not be a golem anymore.
+
+He and Japes would be more than they ever could imagine.
+
+---
+
+Madam Ghu watched as her fingers went from brittle old sticks with wrinkled skin on them to young supple smooth skin. Panicking, she stepped back into the hotel and away from the mana now thick in the air.
+
+Even now, the hotel was drinking the mana deeply and the heavy burden it usually placed on Ghu was weakening by the second. A pop in her knees sounded out as old joints gained new life.
+
+This was the worst time this event could have happened.
+
+What if... what if the last remaining Fairplay Maiden heard a sniff of them?
+
+The Autumn Maiden... Ghu’s heart twisted and she slammed her front door closed with more force than she meant to.
+
+---
+
+“This is nice!” Delta announced as she climbed down the stairs behind Jellagon’s throne room. The stairs themselves transformed halfway down from stone into a pink coral-like substance.
+
+They finally exited out into a massive endless space that seemed to go on forever. Delta held her hand up as a sun shone in the sky. It was like her jungle’s skybox, but for some reason the sun here looked far more vivid and amazing.
+
+The stairs exited out onto a tiny golden sand island with nowhere to go as a deep azure ocean lapped at the shore. She looked up and the stairs sort of just...began to fade into existence instead of coming all the way down from the ceiling in a long spiral.
+
+“Let’s see the water,” Delta said excitedly and dipped her head in before freezing.
+
+There was no bottom to the ocean. No starfish or golden sand and fish. It was a slowly darkening current that eventually sank into a massive void of blackness as if one could fall to a very scary place.
+
+“I don’t even have Thalassophobia and that freaks me out!” Delta pulled her head back out with a whine.
+
+“Think how many bodies we could throw down there and still have space to spare,” Nu said excitedly. Delta slowly turned to him, face devoid of emotion.
+
+“I meant... buddies. Sea buddies. Mermaids and singing crabs... and all that junk,” Nu quickly corrected himself.
+
+“This is a paradise, can we just enjoy it for a minute without adding the kraken?” she asked dryly and Nu turned away, muttering about ‘Sharktopus’ or something like that.
+
+She opened the waiting menu to see what this floor was all about.
+
+Welcome to the fourth floor! The Paradise of Delta! But be warned, storms can come at any time and even the most serene of water can hide a scary undercurrent. How will the adventurer’s proceed? With coconut in hand under the sun or in the storm without a paddle?
+
+The fourth Floor technically functions as a maze-like structure. Each island has one to three different exits such as the ocean parting at different times to make shallow paths or the islands having secret caves or perhaps even a sea creature beaching itself to offer a ride with the correct bribe.
+
+Even moving between one island and the next causes a spatial distortion to happen, causing islands to appear miles apart when in reality they are quite close. As people can be clever, options to stop teleportation, flying, and even water users exist in the form of localized island storms, mini-bosses on each island, and more options such as the unkillable sky god seagull to scare fliers from trying to cheat.
+
+Most likely the sky god seagull will be called Steven.
+
+“Man, I think Sis has kind of adopted my sense of humor,” Delta muttered with a smile.
+
+Since the islands can be so far apart, very intense environmental changes can be formed from one island to the next such as a desert island close to an arctic one. Navigation tools such as compasses or magical devices will go haywire here. Specialized tools can be made to encourage adventurers to explore!
+
+But now, you must choose your first monsters for this floor!
+
+Your selection is:
+
+Fickle Mermaid: A standard water creature that can drag people into water. They are generally very petty and vain, but lack the potent urge to drown men that their evolved siren cousins do.
+
+Tribal Coco-nauts: An archipelago cousin of the Pygmy Mushrooms. These fuzzy brown warriors live inside a tough shell and chase strangers with near fanatical rage. They will find the nearest volcano and throw things into it.
+
+Noi Storm Crabs: These massive crabs can live under the sand and swim through the water. Their massive claws can snap limbs off or give a snazzy haircut. As the sun sets, they gather to do their daily ritual. They have a unique culture. Their name has a secret meaning, but it's nothing of importance.
+
+The unknown option: Could be overpowered. Could be weak. Take a chance?
+
+“Crab!” Delta screamed, jabbing the option.
+
+“I thought you were addicted to gambling?” Nu asked and Delta turned to him, shifting on the spot, up and down before she moved side to side as she waved her hands like weapons.
+
+“...do you need the bathroom? What are you doing?” Nu asked with alarm.
+
+“Crabs are life!” Delta said finally.
+
+“...I suppose they could snip the heads off people so I’m not upset with the option, personally,” Nu said conversationally as Delta turned back to the island, waiting for the formation of her first crab.
+
+Delta gasped as a tiny orange antenna-like tendril stuck up from the sand, wriggling curiously in the open air.
+
+“It must be a tiny ambush predator or something. Come here, little dude,” Delta encouraged as she bent down.
+
+“You might not want to-” Nu began and Delta blinked at him. His screen went blank then he brightened up.
+
+“Be so shy. Welcome our new monster warmly,” he insisted. Delta beamed at him, knowing he was finally coming around to her way of thinking. Delta turned back to the sand but froze as what seemed like a boulder was pulling itself free of the sand, raising one massive claw that looked curved to slide under someone’s neck smoothly.
+
+The bright orange crab was pale cream on the bottom with a bright orange top and its two eye stalks looked down at her as a massive maw filled with foaming bubbles opened before her like the valley of death.
+
+Its massive legs made it come off spiderish.
+
+“Please scream away from-” Nu began.
+
+“You are so cute!” Delta said with a delighted clap of her hands as she lifted its claw and floated around it. She landed on its shell and just pressed herself to it, spreading out in a puddle of grinning delight.
+
+The crab blew out some bubbles and began to scuttle towards the ocean, taking Delta with it.
+
+“This is how I want to go,” Delta whispered to herself. She began to slowly lower into the water as the crab explored its new home and limbs.
+
+---
+
+Nu watched Delta be kidnapped by the giant crab.
+
+He should have expected nothing less.
+
+“If I want deadly warriors... I just need to add crabs to the equation and I can have an army,” he mused aloud. He turned to the paradise around him and opened the menu as he waited for Delta to finally look down and see the void once more.
+
+Fourth Floor purchases and upgrades.Purchases:New Island: Purchase a new island for the floor. Cost 50 Mana. 1/12 spaces taken.
+
+Ocean floor: Purchase parts of the floor to be turned into a visible bottom. Spaces where the floor continues to drift off will be converted into massive trenches. 100 Mana.
+
+Unpredictable weather: Cause storms or heat waves to strike if a party lingers on an island too long. Depending on the local island’s biome, these can have deadly combinations. 70 Mana.
+
+Nighttime Wonder: Have an active day to night cycle for each island, allowing the sky to become a recreation of Delta’s home starsystem. Different events can be triggered at night. 100 Mana.
+
+Breathable water: make all water on the floor breathable, if uncomfortable for people. A O2 bar will be created for each person before they must return to the surface. Allows increased underwater challenges. 50 Mana.
+
+The Reflection World: Accessible only through special means. All islands become hellish and aggressive. This option automatically turns on if ‘You made Delta cry’ has been triggered. 200 Mana.
+
+All of these were very interesting. Nu could see a use in all of them, even if some were mostly for making Delta happy. Nu only wanted her happy, however, because when she was sad, it bummed Nu out and he couldn’t enjoy the bloodshed as much.
+
+He took a look at the monster menu next as Delta went scuttling past, laughing like a loon as the crab raced into the ocean on the other side of the island now.
+
+Noi Storm Crab: Allow a vice function on the claw to allow the crab to crush armored foes. 10 DP.Allow rare gems to grow on the backs of the crabs. Adds defense and valuable loot. 30 DPSolar powered: Allow the Noi Crabs to charge a beam in their open claw from the mana in the air and sun to fire a massive magic beam. 50 DP.The ritual: If five or more crabs gather on one island, they can dance in a ritual to awaken Krab. Krab is a roaming raid boss that can sink islands causing a drastic panic and danger to people who aren’t geared towards racing through the level. All victims will wash up back on the first floor and need to walk back down to the Fourth Floor. 200 DP.
+
+Evolutions:Crabtaur: Locked: Have five islands or more with unique environments.Crabomancer: A humanoid able to use magic. It's actually three crabs in a robe and a fake beard. Locked until a crab island is established.Stabbocrabbo: A crab who exchanged its claws for the sword. While you looted, it studied the blade. Locked until 10 people are defeated in melee combat by Noi Crabs.Bobians: Special cultish crabs that worship the sky worm, Bob. Able to heal and curse enemies. Locked until Bob Shrine is established.
+
+Nu looked up as the crab returned without Delta and he stared at it. It stared back with deep unfathomable knowledge only a crab could express.
+
+“She looked down, didn’t she?” he asked and it blew out bubbles as Delta finally ran out of the ocean screaming.
+
+The last option he mused about exploring, but decided to put it down so he could peel Delta off the crab before it dunked her in the void again.
+
+The menu was left blinking.
+
+‘Monster purchase’.
+
+---
+
+“Ruli.”
+
+Ruli ignored her mother.
+
+“Don’t be a brat,” Mila insisted. Ruli sighed and stopped choking the arrogant Fairplay representative. Nearby, the kid that her mother had vouched for rubbed his neck in horror.
+
+“He said they would ‘shackle’ Delta if she's this potent. Shackle her... like a beast!” Ruli turned, nostrils flaring and the man at her feet gasped in lungfuls of air.
+
+“Hot air. I still have the legal right over what happens to the Dungeon. Despite claims aimed at me, I don’t lock up children or the innocent  in my basement, Dungeon or not,” Mila said calmly and Ruli looked down at the glaring man.
+
+“Run... cause I’m going to drop my foot forward and if you just happen to be there? That’s not my fault,” she growled and raised her foot.
+
+“Peacekeeper! Assault!” the Fairplay punk cried and Ruli looked up the street to see Quiss standing there. Quiss looked down at the man, then at Ruli, then at the gathering of people.
+
+“You’re right, that looks like assault.” Quiss said and walked on.
+
+“W-What are you doing?” the man demanded.
+
+“Nothing... you didn’t ask me to do anything. You just said it was assault and I agreed,” Quiss said as he ducked into Mila’s home to talk to the bruised and battered adventurers that Ruli had gotten from the Dungeon.
+
+“You know, if you won’t sleep with him. I will,” Mila said with some amusement and Ruli shot her a withering look.
+
+“It’s not that I ‘won’t’. It’s ‘I have and he’s never forgiven me for the experience’,” Ruli said without shame and the man under her foot got up and ran off, leaving the boy behind.
+
+“Please... don’t step on me,” the nervous kid said, backing into a wall. Ruli snorted and turned away.
+
+“Ask again when you’re old enough to drink,” she told the kid before looking back at Mila. “Ma, I’m going to get my camping equipment and set up outside Delta. I’ll stop others getting in for now,” she said and Mila nodded.
+
+“I’ll send food through Quiss. The wildlife is only just returning so it's for the best we don’t hunt them until they’re mana adjusted,” her mother said as she looked out.
+
+Ruli could sense more trouble was on its way.
+
+She would need to cut down on her drinking so she was ready.
+
+The idea hurt, but Delta was worth handling people sober.
+
+Plus... Delta could reward her with an open bar if she saw how hard Ruli was working.
+
+Fishing, drinking, and food.
+
+Only an idiot could turn all that into an actual deathtrap.

@@ -1,0 +1,99 @@
+---
+id: 4c7d6edf-2e11-501f-ac77-9fa55a966938
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: Battle Against The Wyverns"
+slug: 0030-chapter-28-battle-against-the-wyverns
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 30
+ownLength: 2497
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3614034/chapter-28-battle-against-the-wyverns"
+royalRoadId: "3614034"
+---
+
+Molly’s figure blurred upward as she propelled herself with the [Flight] formula, ascending through the night sky in a smooth, silent arc. Below her, a Grand Wyvern’s massive jaws snapped shut on empty air, the sound of its teeth clashing together echoing like a stone slab cracking in two. She never looked down, already tilting her body sideways to slip past the rush of displaced wind.
+
+A furious roar tore through the darkness. Her gaze cut sharply to the side where another Grand Wyvern hurtled toward her, its cavernous maw yawning wide. Deep within its throat, the [Blazing Fire Burst] formula was etching itself into reality, burning images arranging themselves with lethal intent, the air around its tongue shimmering from the heat that had yet to be unleashed. Molly rolled her shoulder, dipped her body a handspan lower, and let the creature’s lunge skim past her hood. The rush of its passage tugged at the fabric of her robe, setting it snapping like a banner in a gale.
+
+She flicked her right hand through the air, a quick, precise motion, like a musician plucking an invisible string. The rough white symbols that crowded the night responded without hesitation, obedient to the silent utterance woven into her will. They surged in massive waves, no longer scattered but purposeful, streaming toward one another to take on shapes and meanings. The symbols arranged themselves into intricate patterns, weaving together strand by strand, forming dozens of [Chain of Edict] formulas.
+
+The structure of each formula encapsulated its entire arrangement, sealing Molly’s will into immutable commands. Then, with a low, grinding hum that seemed to vibrate through the bones of the world, the completed spells were suddenly dyed the colour of cold-forged iron laced with searing violet—the colour of a prison in a god’s domain.
+
+From the face of every completed emblem, eleven physical chains of pure, glowing violet-veined metal erupted outward. They lunged in relentless lines, twelve Grand Wyverns finding themselves the targets of those gleaming restraints. The chains tore through the space between them without regard for distance or any obstacle. The moment they reached the creatures, they coiled around each limb and joint with an almost surgical precision, wrapping around powerful legs, cinching against the leathery membrane of massive wings, binding the beasts mid-flight.
+
+Molly flew higher, her eyes sweeping across the twelve Grand Wyverns now tumbling from the sky, their snarls swallowed by the roar of wind. A small, triumphant smile touched the corners of her lips. Then her gaze shifted, tracking the remaining creatures. Some had already wheeled in her direction, their flight paths etched with blind rage.
+
+Four dozen to go.
+
+She halted her ascent, letting herself float calmly in the air. Her right hand lifted, fingers stretching upward as if reaching to brush the underbelly of the heavens themselves. She commanded the rough white symbols with another voiceless utterance, and the entirety of the sky seemed to tremble under an unseen pressure. All the mana in the air shuddered in unison, the white symbols filling the night rushing toward her like iron filings to a lodestone, answering her silent call.
+
+In an instant, a sudden surge of mana enveloped the entire area around her. Formulas began drawing themselves across the heavens above and around her, one after another, multiplying with terrifying speed, surpassing even three dozen. The sheer number of them turned the sky into a canvas of crawling, interlocking light.
+
+Molly controlled the [Tier 11] formulas in the air with painstaking care. Sweat traced cold lines from her temples, dripping down her tightened jaw. Maintaining this many high-tier formulas at once drew heavily on her mental energy, a weight that pressed against the inside of her skull like a steadily tightening band. But she had no choice if she wanted to finish this temporary task quickly. A wistful smile played on her lips as she remembered how Jen would always reprimand her for controlling too many high-tier formulas in one voiceless chant. Her voice echoed in Molly's memory, patient and stern all at once. Molly would be lying if she said she didn’t miss hearing that reprimanding tone.
+
+The piercing roars of the incoming Grand Wyverns cut her from her thoughts. Her gaze snapped back into focus. She guided the almost-completed [Chain of Edict] formulas in the air, each structure encapsulating its entire root, sealing her will into an immutable command. Then, with that same low, world-grinding hum, the completed spells were suddenly dyed the colour of cold-forged iron laced with searing violet.
+
+From the faces of each completed emblem, the chains shot outward, lunging toward all the remaining four dozen wyverns. They tore through the smoky air with unerring precision, coiling around limbs and joints, cinching tightly around every form until no room for escape remained.
+
+The wyverns that had been flying toward Molly roared in fury as they registered the unexpected chains binding them. Their powerful bodies thrashed against the restraints, scales scraping against the violet-veined metal, muscles bulging with desperate effort. But the chains held firm, impervious to their struggles. Molly watched as each of them fell to the burning forest's ground below.
+
+Their massive bodies tumbled from the sky, crashing onto the forest floor with thunderous thuds that reverberated through the earth like miniature earthquakes. The impacts sent embers and ash billowing outward in great waves, painting the air with flecks of orange and gray. None of them sustained any serious injury from the fall, but the impact still drove the breath from their lungs in great, heaving gusts.
+
+Without wasting any time, Molly stretched her hands wide apart. Her black robe fluttered wildly from the sudden wind that whipped around her, the fabric snapping against her arms like dark flags in a storm. The rough white symbols in the air began answering her call once more, surging massively into the heavens above as they began taking a giant shape. They moved with a drowsy, hypnotic grace as they bloated the sky itself, spreading across the stars like a slow-motion explosion.
+
+The first symbols gathered together to form the image of a single 'Z' shape, gently pulsing as if breathing in a deep sleep. Then, without pause, more symbols arrived, shaping themselves into identical 'Z' shapes that layered over the first. They overlapped endlessly, one bleeding into the next in a seamless, dreamlike loop that never quite repeated and never fully separated. The overlapping created a subtle distortion in the air, a faint shimmer like heat rising from sun-warmed stone, except cool and soothing to the mind. This was the root: sleep eternal, consciousness unwinding, the quiet repetition that pulls the waking world away.
+
+The final symbol was the structure. A great circle that encapsulated the entire arrangement, the central 'Z' and its infinite, overlapping echoes, binding the drowsy spiral into a flawless, seamless unity. Then, like the first moment of dreaming, the completed formula was suddenly dyed a deep, velvety lavender threaded with strands of silver mist, the colour of twilight folding into night, the colour of a lullaby given form.
+
+From the completed emblem, a wave of absolute calm radiated downward. Molly’s eyes stared toward the forest ground, watching the Grand Wyverns and lesser wyverns alike as they struggled against the chains’ grip. But soon, their thrashing began to weaken. The predatory glow in their eyes grew heavy, lids drooping. Their thoughts softened as sleep claimed them with a gentle, irresistible pull.
+
+Molly’s brows knitted together. A soft wave of pain pulsed through her temples, a consequence of the sheer number of formulas she was keeping active. She ignored it, her eyes scanning the sleeping wyverns and the suddenly quiet burning forest. Her gaze lingered on the flames that still gnawed at the treeline, then shifted beyond the inferno, toward the direction of Sigsug. She noticed how the fire was quickly spreading toward the village. A frown creased her features. Her gaze shifted once more, toward the other direction the forest led.
+
+The village of Yerakot.
+
+Molly squinted, unable to make out what lay in the distance. Recognizing that ordinary sight wouldn’t suffice, she silently commanded the rough white symbols. They began to take shape near her right eye. The first symbol to form resembled a cursor, sharp and precise, and the last to appear was the structure that bound everything together into a complete spell. The formula bled red in an instant.
+
+Molly felt her vision zoom forward the moment she cast [Farsight] on her right eye.
+
+Molly watched as the flames had already spread to that direction, hungry orange tongues consuming trees and bushes with insatiable appetite. Far in the distance, she noticed the shadows of wyverns flying around in waves. The frown on her face deepened as she observed how the wyverns there moved with a silent purpose. Though one could calmly see the madness in their eyes, they seemed controlled in a strange way, as if protecting something. Or perhaps driving something into a trap.
+
+A small curl lifted Molly's lips as a sense of triumph bloomed inside her chest. She began piecing together where her next stop would be, the pieces of the puzzle clicking into place in her mind.
+
+But first...
+
+Her gaze turned upward, watching the [Slumber] formula remain suspended above. It slowly pulsed its Z's in their eternal loop, maintaining the slumber for as long as she willed. Its presence was a comforting anchor in the chaotic night. Her gaze then shifted downward to the burning forest below.
+
+It was time to put the fire out.
+
+Molly sighed, dissolving the [Farsight] with a thought as she clasped her hands in front of her as if in silent prayer. She closed her eyes, and sweat continued trickling from her jaw from the mental strain of controlling so many formulas in her still-developing mind. She silently whispered to the rough white symbols in the air, just as Jen had taught her. She asked for their silent help, to lighten this burden in her mind so she could focus on the remaining tasks.
+
+The rough white symbols in the air suspended for a brief moment, as if hearing what she was saying. Slowly, they began floating toward her direction, wrapping her with a warm embrace that felt almost like an old friend's hug. The remaining ones danced around her form, their movements playful and gentle. When Molly opened her eyes, a surprised breath escaped her as she saw how many symbols had answered her call. She giggled when some of the mana brushed past her cheeks in a playful way.
+
+Molly gave a short bow in the air as she thanked them for answering her. The rough white symbols shuddered playfully in reply, their forms rippling with what could only be described as affection. Slowly, they began drifting throughout the whole area, gathering around all the formulas Molly had casted. They took control by themselves, each symbol settling into its designated position, and the strain from Molly's mind began lifting like a weight being removed from her shoulders.
+
+Molly felt a deep breath escape her as the weight of all the formulas she had casted left her. A warm expression surfaced across her features as she watched the white symbols helping her like how they would help a family member.
+
+A brilliant golden light, like the dome of a demigod, distracted her thoughts. She squeezed her eyes shut for a moment against the sheer brightness of it. Her gaze hardened soon after, snapping sharply toward the source. It hardened further still when she realized the light had bloomed in the direction of Yerakot village.
+
+Someone was in trouble.
+
+Molly immediately turned to the white symbols that lingered in the air beside her. She gave a sharp nod, and they responded with an understanding that needed no words.
+
+Without any further delay, Molly lifted her hand to the sky. Her gaze rose with it, peering past the [Slumber] formula and directly into the heavens, toward the clouds that hung still and indifferent, oblivious to the rising stakes in the land beneath.
+
+With a silent command that wove into the world like the roar of distant thunder, the rough white symbols shuddered with a deep, pressure-laden hum, as though the atmosphere itself had grown heavy. They surged not merely to Molly’s hand but swirled outward in a wide ring, answering the grand scale of the command.
+
+The first symbols assembled into the image of a vast, flat circle, an ancient dial face split cleanly down its centre by a single, unwavering vertical line. On the left side of the divide, the symbols painted a scene of utter stillness: a single feather suspended in windless air, delicate clouds at rest. On the right side, they etched a writhing tempest: a roiling thunderhead shot through with tangled lightning, rain sheeting sideways, the sea in rage. This was the root’s heart, the threshold between serenity and fury.
+
+From the centre of the dial, the remaining symbols shaped a long, needle-like arrow—the rotator, poised to swing across the divide. At the needle’s base clustered ten small, toothed gears, each one a symbol in itself, meshing together in a precise mechanical sequence that spoke of incremental control and maximum thresholds. Beyond the dial, the root expanded. Ten long, luminous lines radiated outward and upward from the circle’s edge, each line tipped with an arrow pointing into the sky. Along their lengths, smaller symbols gathered into tiny lightning bolts and cloud puffs, forming the components that would anchor the formula to the heavens and stretch its influence to the caster’s chosen horizon. This was the completed root: a weather engine ready to be connected.
+
+The final symbol was the structure that encapsulated the entire arrangement, binding the spell into an elegant, terrible whole. Then, with a sky-splitting flash, the completed formula was suddenly dyed a deep, thunderhead grey. Its left side tinged with the pale silver of still dawn, its right side flickering with the bruised violet of a supercell’s heart.
+
+Molly reached forward and grasped the dial’s needle with a focused thought. The completed emblem detached from her hand and rose, expanding as it climbed, until it pressed itself against the sky itself, invisible to mundane eyes but now irrevocably connected to the weather above. She turned the rotator toward the storm. The sky answered without hesitation. Thick clouds boiled into being, winds sharpened, and lightning laced the darkening vault. The storm’s maximum ferocity was set precisely where the needle pointed, no less, no more. Its reach extended exactly to where Molly willed—Sigsug, Yerakot, and Tsayad itself. The formula scaled so large that it made the [Slumber] spell feel like an ant cowering beneath the shadow of a mountain, its influence spreading across the horizon like a blanket of wrath.
+
+In that moment, Molly’s eyes hardened as she let the [Tier 10] formula, [Tempest Dial], loose.
+
+A deafening crackle of thunder boomed across the entire surroundings.
+
+A storm had descended.

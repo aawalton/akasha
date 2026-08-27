@@ -1,0 +1,247 @@
+---
+id: b4f04e61-c9a2-5a59-ab87-0329293bb278
+page-type-slug: story-chapter-royal-road
+title: "Chapter 81 – Magpie's Miserable Training Day"
+slug: 0081-chapter-81-magpies-miserable-training-day
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 81
+ownLength: 2254
+unit: words
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3017504/chapter-81-magpies-miserable-training-day"
+royalRoadId: "3017504"
+---
+
+"This is amazing!" Cee cheered while riding on Liora's back.
+
+She had reverted to her monstrous form, flying straight to Abylport. No more swamps, no more eating bugs, and no more drinking swamp water. Liora was just grateful it hadn't made her sick with how nasty it all tasted.
+
+But with her new evolution, it was a thing of the past. Flying had never felt easier. Instead of having to beat her wings to sustain her flight, her new wings were so wide that she could glide with ease. Not to mention that it was much easier to pick out the right air currents for a sustained long flight. At this pace, they would reach Abylport in no time at all.
+
+"Isn't it?" Liora said proudly.
+
+"A bit dangerous. I don't want to think about what would happen if I fell off," Cee said, fearfully peeking over Liora's shoulder.
+
+"I don't see how you could fall off…" Liora rolled her eyes. The little spider had basically made a cocoon, which was stuck to her back. Even if she were to start fighting mid-flight, it was unlikely that Cee would fall off.
+
+"Better safe than sorry," Cee shrugged from within her cocoon.
+
+"You'll be very sorry if I can't get your web off my back feathers later."
+
+"We'll get them off just fine. I can control my webs perfectly," Cee hummed.
+
+I'm curious about Cee's elemental webs. Would it be possible to see them up close?
+
+I'm not pulling you out of my Inventory while flying. It's much harder to keep my grip on you since you're so small.
+
+I'm not small. You're just big.
+
+How dare you call a woman big?
+
+You're a bird. Get over it. In either case, there's something I'd like to test which involves Cee's webs.
+
+Test what exactly?
+
+I'll tell you when we stop to rest.
+
+I don't like the sound of that.
+
+Trust me, I'll only serve to make you stronger.
+
+Liora shook her head. There was no way that Renir's method of getting stronger didn't involve Liora suffering in some way.
+
+"What's wrong?" Cee asked, noticing Liora shaking her head.
+
+"We'll find out once we stop to rest. Renir has some kind of plan for your webs," Liora explained.
+
+"Uuuu! I can't wait. It must have something to do with magic." Cee wiggled her front legs excitedly.
+
+"Don't be so happy yet. I have no doubt it'll be something horrible."
+
+You'll love it, I promise.
+
+After a few hours, Liora landed in a forest for a short break. She and Cee both were getting hungry, and Liora had managed to spot a mountain ash tree filled with berries. The berries were rather sour, but compared to the bugs she had been eating in the swamp, they were heavenly.
+
+"Can spiders even eat berries?" Liora asked Cee, who was eagerly stuffing her mouth with the red berries.
+
+"Don't care. I don't want to eat bugs anymore. I could ask the same thing about you. You don't look like a berry-eating bird anymore," Cee protested.
+
+"Don't care. I'm not eating bugs either," Liora said, taking another beakful of berries.
+
+She did have to eat a lot of them before feeling even remotely full, but thankfully, the tree was full of them. The little birds that had been feasting on the berries before all ran away as soon as they saw Liora, leaving more for her and Cee.
+
+Once they were full, Liora withdrew Renir from the Inventory and nestled him in a safe crock she dug into the tree bark with her beak.
+
+"So what was your grand idea?" Liora asked.
+
+"So, I looked through your profile while you were flying—"
+
+"Don't just look through my profile without my permission," Liora objected.
+
+"Really? Are you going to care about permissions now? I've seen it a hundred times."
+
+"At least give me a heads up when you look. You never showed me your profile after all."
+
+"I can't even view my profile as a rock, okay? I'll warn you next time, okay?" Renir grumbled.
+
+Liora conceded. There weren't many things he could do for fun, so if he warned her, then she didn't really mind him looking through her profile.
+
+"So anyway, I looked through it and saw that you have 3 free trait slots. And I figure out exactly what traits to get for you."
+
+"I'm not spending—"
+
+"--- any glimmerstones. Yes, I know. You'll be able to unlock these traits no problem," Renir assured.
+
+"How come you didn't let me unlock these before?" Liora asked.
+
+"Because before we didn't have Cee. This is the part where Cee's webs come in. Please, tell us, oh kind spider, what kind of elemental webs can you weave?" Renir asked.
+
+"I can make frost web, thunder web, water web, and a regular web," Cee listed off on her legs.
+
+"Water web won't help us, but frost web and lightning web are perfect. I assume Frost Web inflicts Frozen affliction while Thunder Web inflicts Paralyzed affliction."
+
+"That's correct."
+
+"I don't like where this is going…" Liora muttered, having figured out exactly what Renir was planning.
+
+"You're going to wrap Liora in your frost and lightning webs so she can unlock paralysis and frost resistance," Renir announced proudly.
+
+"Caw! No way!" Liora protested, flapping her wings angrily.
+
+"Careful! You nearly made me fall," Renir complained since her wings had created quite a powerful gust.
+
+"Then don't suggest such nonsense."
+
+"Wait, Liora… It could actually work," Cee said, pressing her leg thoughtfully against her mandible. "Skills and traits are unlocked in times of need. So if I use my webs then you—"
+
+"No, I don't doubt that it'll unlock the traits, but I don't want to be wrapped in your webs. How will I get them off?" Liora protested.
+
+"There's no need to get completely wrapped. I imagine just one leg will do," Renir said.
+
+Liora shook her head. "No… No… It sounds like it'll hurt."
+
+"No pain, no gain," Cee said conspiratorially.
+
+"Isn't this better than having a thunder toad croak at you, instantly crashing you to the ground?" Renir said.
+
+"Thunder toads can't reach me!" She protested.
+
+"Yes, but other monsters can. You've seen what a good weakness can do. A drop of point and a powerful wyrm just drops dead. Do you want to end up like the wyrm?" Renir continued.
+
+Liora didn't want to admit it. She didn't want to be frozen or paralyzed by Cee's webs.
+
+"Isn't it safer to train the trait now, rather than later? Not to mention that it'll help me train and level up my skills too," Cee said, looking pleadingly into Liora's eyes.
+
+"Liora, please. I just want you to stay safe," Renir pleaded, and she imagined that if he had eyes, he likely would be making the same pleading expression as Cee.
+
+"Fine! Fine! But if I say stop, we are stopping this crazy training!" Liora said firmly.
+
+"Of course," Cee and Renir agreed in unison.
+
+Without hesitation, Cee began to weave her lightning web, which she proceeded to wrap around Liora's leg. The moment it touched her skin, Liora screamed.
+
+"Caw! Caw! That hurts!" She complained. It didn't hurt in the way receiving a bruise or cut did. She just had this strong reflex that begged her to pull her leg back. The same one you felt when you touched something charged with static electricity. Except that the unpleasant electrical zap was constant.
+
+[You've unlocked a new trait — Paralysis Resistance.]
+
+[Paralysis Resistance – Protects you from Paralysis affliction based on your level, the attacker's level, and the level of this skill. The bigger the difference between your and the attacker's level, the higher the chance of resisting Paralysis.]
+
+"Okay, okay, I unlocked the skill! Get this web off me!" Liora said while violently trying to shake the web off her leg.
+
+"No, no. We need to train it up a bit. At least until Novice level, preferably until Adept," Renir said firmly. "Cee, we require fresh webs."
+
+"On it, honorable mage, sir," Cee replied, playfully, weaving more of her lightning webs.
+
+"No. You can't do this to me. NOOOO!"
+
+***
+
+"I absolutely hate you two…" Liora muttered, still feeling the unpleasant sting of electricity and cold linger on both her feet.
+
+"But you unlocked the resistance skills and got them both to Novice level. I feel that a bit more and they would have gone up to Adept level," Cee cheered from her cocoon that she had once again made on Liora's back.
+
+Yeah, this is huge. Once you get them to Adept level, we can try combining all your resistance into a single skill. If we're lucky, you'll be able to resist more than just poison, paralysis, and frozen affliction.
+
+"But it hurts!" Liora complained, then shot Cee an angry glance. "You've got to rank your web skills to Expert level without any pain."
+
+"That's not true. I have absolutely no mana left," Cee protested.
+
+"Not having mana doesn't hurt," Liora pointed out.
+
+You could lend her your Necklace of Sunpeak for quick recovery.
+
+No. By the time we reach Abylport, her mana will recover naturally.
+
+It doesn't hurt to be prepared for a possible ambush.
+
+In the sky? At night? I'm literally the scariest thing up here.
+
+You never know when you might run into a stray monster.
+
+Don't jinx us!
+
+"Did Renir say something?" Cee asked.
+
+"Nothing important. Let's keep flying."
+
+"Are you sure you can't withdraw him while flying? I'd love to discuss more things about magic with him."
+
+"No. He's annoying enough in my head. Besides, keeping Renir outside of Inventory is dangerous. His enemies might sense him since he has tracking spells applied to him," Liora explained.
+
+"Can't he remove them?" Cee cocked her head curiously.
+
+That's actually a good question. I couldn't before, but I can definitely do more magic now. Maybe I could try removing the tracking spells. But they might be entangled with one of the seals, so it could be that I can't remove the tracking spell before undoing the seal first—
+
+Liora tuned him out, allowing him to ramble internally. "It seems he can't yet."
+
+"I see. That's a shame. I wish I could hear him speak, too."
+
+"Trust me, you don't."
+
+Here's an idea. How about we have Cee unlock Inventory? Then Cee and I could talk.
+
+Liora didn't like that idea. She wanted to keep Renir to herself. He was her most precious treasure.
+
+I know that the magpie within you is screaming that you can't give up part of your hoard, but you've been complaining time and time again that I talk a lot. Which I disagree with, by the way. If we have Cee unlock Inventory, then you could rest from my so-called rambling.
+
+Liora did have to admit it sounded a bit tempting. She felt that ever since Cee joined them, Renir had been rambling even more.
+
+"Renir says we should try unlock your Inventory so you could talk to him, too."
+
+"Really?! I want an Inventory. Let's do it."
+
+Liora flew down, switching to her magpie form when they were close enough to a tree for Cee to jump down safely. She withdrew Renir from her Inventory.
+
+"So how do I unlock an Inventory?" Cee asked, excitedly wiggling her front legs. "How did Liora unlock Inventory?"
+
+"I don't think we can or should replicate that…" Liora said, remembering the whole ordeal with the gnoll.
+
+"Yes… That was horrible…" Renir agreed.
+
+Cee cocked her head curiously. "So how do I do it?"
+
+"Let's try the simplest method. Try to pull me into your storage like you would with a glimmerstone," Renir said.
+
+Cee scuttled up to him and placed her front leg on his shiny surface. Liora didn't like that, but she held her displeasure back. It wasn't that Cee was trying to take Renir away. She was just trying to unlock her Inventory. There was nothing for Liora to worry about.
+
+For a while, the spider just held her leg up to the gem, her eyes closed in concentration. A minute passed, then two, but nothing happened.
+
+"I don't think this is working…" Liora concluded.
+
+"No, it seems like it isn't. I suspect Cee's desire to hold onto me isn't nearly strong enough for her to unlock the Inventory. To be honest, monsters aren't supposed to have one anyway. Liora broke the System with her overwhelming greed," Renir said.
+
+"What?! You broke the System?" Cee exclaimed in shock.
+
+"Chak-chak-chak! I need a place for my hoard," Liora said firmly, puffing out her feathers proudly.
+
+"I swear you're more bird than human…" Cee noted.
+
+"Hey, being a bird is much better than being a human."
+
+"Sure, sure. Now let's try something else. Cee, hold your leg against me," Renir commanded.
+
+Liora let out a sigh as the two of them tinkered for a while, trying this thing and that thing to unlock Cee's Inventory. But to no avail. Liora, bored, watched the surroundings.
+
+In the far distance, she could see the slight shimmering of water reflecting moonlight. They were close to Abylport. Liora didn't think much of it at first, but then the thought really hit her. They were close to Abylport. Which meant humans, which meant that the mages of Night King might be nearby.
+
+Just as she thought that, she felt the unpleasant but familiar feeling waft from the direction of the sea. It was still faint, but Liora would recognize it anywhere. Corruption.

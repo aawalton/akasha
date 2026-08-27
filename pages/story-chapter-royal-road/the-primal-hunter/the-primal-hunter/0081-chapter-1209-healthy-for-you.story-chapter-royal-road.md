@@ -1,0 +1,153 @@
+---
+id: 292d5adf-b583-5440-85cb-76da95690ac1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1209 - \"Healthy For You.\""
+slug: 0081-chapter-1209-healthy-for-you
+partOf: the-primal-hunter
+position: 81
+ownLength: 2706
+unit: words
+ownProgress: 2706
+publishedAt: 2025-11-25
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2792194/chapter-1209-healthy-for-you"
+royalRoadId: "2792194"
+markedReadAt: "2026-06-29T19:31:50.081Z"
+---
+
+Jake glared at the man sitting opposite him, his gaze very much communicating his murderous intent. Meanwhile, the other party didn’t seem to care in the slightest, but happily took another swig of his beer.
+
+“Congratulations on the skill upgrade. I would have told you to try to get it done before evolving if you failed to make a bane poison in time, but it’s good to see that isn’t necessary,” the snake god said with a smile. “Granted, your bane poison is shit, but that’s only to be expected. One must slither before one can fly and all that.”
+
+“You’re fully aware I didn’t reach out because I wanted feedback on my poisons,” Jake said in an annoyed voice before taking a mouthful of beer for himself. After putting down the bottle, he took out his token and pointed at it.
+
+“This is the part where you tell me that final message you sent was just a prank, right?” Jake asked, his voice full of hope.
+
+“A prank?” the Viper exclaimed, recoiling in faux offense. “I would never joke about something like that! Education is a cornerstone of the Order, and I hold the utmost respect for any and all educators.”
+
+“I’m going to assume this is just you leaning further into the joke,” Jake insisted, refusing to believe his Patron was serious.
+
+“I just told you, I never joked in the first place,” the Viper said with a sly grin before turning a little more serious. “Why are you so opposed to the notion? I think it would be healthy for you.”
+
+“There’s no fucking way I’m doing it,” Jake insisted. “Besides, I would be complete shit at it. My track record should make it pretty damn clear I should be nowhere near any kind of teaching environment.”
+
+The message Jake had received my the Viper was an advertisement talking about an upcoming lesson in the academy... one taught by the Chosen of the Malefic Viper. It didn’t include any more information than that, but it had been enough to spook the hell out of Jake.
+
+“Perhaps your track record is part of the reason why this could be healthy for you,” the Viper smiled while remaining serious. “Look, I know things didn’t work out well the first time around you tried teaching someone, but in your defense, he wasn’t someone you should have taken as a student in the first place. I’m not saying no one could have made a good student out of him, but it would have taken someone with a lot more experience.”
+
+Jake looked at the snake god as he continued.
+
+“Not going to defend you and say you didn’t fuck up either, though. Because you did. You were inattentive and just let him do whatever he wanted to without any supervision or understanding of his progress while helping lead him down a self-destructive Path,” Villy said, letting out a sigh. “But what you did do well was respect his Path, no matter how broken it was.”
+
+“Which, in my opinion, is a great argument to indeed just write this entire thing off as one big prank and move on with our lives,” Jake continued to insist.
+
+The Viper just kept smiling as he shook his head. “Jake, what are the greatest benefits of being a human compared to other races?”
+
+“I know what you’re getting at, but-“
+
+“The entire human race evolves around your ability to pass down Records and teach. Your racial skills all lean further into this, and you even have a legendary profession skill dedicated to teaching,” the Viper said, not allowing Jake to protest. “Like it or not, passing down your knowledge is a part of your Path that you shouldn’t entirely neglect. I’m not saying you need to like teaching others, and in my professional opinion, you will have a hard time finding any students or disciples you truly mesh well with, but writing off teaching entirely simply isn’t an option. So, I’m giving you a perfect opportunity to have a positive experience.”
+
+Jake was quiet as the Viper kept talking, remaining very much not keen on the entire notion.
+
+“One lesson,” the Malefic Viper said. “Just one. Aimed at D-grades.”
+
+“Say I go along with this... what would I even teach?” Jake asked, his skepticism having barely lessened. “You were the one who pointed out in the first place that I’m not the sort of person to learn in the traditional way. I don’t think a lesson where I tell people to “trust their instincts” will prove very useful to anyone.”
+
+“True, but don’t sell yourself too short,” the snake god chuckled. “You’re not the most knowledgeable alchemist, and you do overly rely on your instincts and gut feelings courtesy of your Bloodline, but that doesn’t mean you aren’t still considered a brilliant alchemist in some areas. Think for a bit; aren’t there several areas of alchemy where you can’t rely on your instincts?”
+
+Once more, Jake got quiet, considering what the Viper had said. When he did traditional alchemy, like concocting poisons or brewing potions, Jake did overly rely on his instincts and skipped several steps other alchemists would usually take. He wasn’t that careful in measuring his ingredients and was far more prone to adapting on the fly. Most alchemists went in with a very carefully constructed plan they would follow religiously from start to end, and if they found themselves in a position where they had to improvise, it meant something had gone wrong, and the crafting attempts would most likely end in failure.
+
+Meanwhile, Jake just did what felt right, and any plan he had been one born purely from experience and not theory. To be clear, it wasn’t as if Jake was unique in this aspect; his way of crafting just required an insane level of energy control compared to more regular methodologies. Due to that, teaching his method would be quite a stupid thing to do, as chances were that not a single member of the audience would be able to make use of Jake’s experience.
+
+However, the Viper was right that there were some areas of alchemy where Jake couldn’t rely as much on his instincts but had to be more theoretical and traditional. Especially one area instantly came to mind.
+
+“Rituals and formations,” Jake muttered.
+
+“What a coincidence, that’s also what I had the lesson plan mention,” Villy grinned devilishly as he waved his hand and displayed one of the advertisements for a lesson, similar to many of those Jake had seen before.
+
+“I’ve yet to agree,” Jake pointed out.
+
+“And I’ve yet to give you the option of backing out,” Villy shrugged. “But I’m not gonna force you. You reserve the full right to refuse if you don’t want to... but I will have already posted the lesson and allow all the hopeful young D-grades to try to qualify to attend the class. Chances are, there will be a great struggle to get a spot, and anyone who does will look forward to it like the most significant event of their lives so far.”
+
+A headache began to worm its way into Jake’s mind as the Viper just kept going.
+
+“They will tell their family and friends all about how they struggled to attend the very first lesson taught by the Chosen of the Malefic Viper themselves. No doubt a celebration dinner will be held that evening, and all their peers will be full of envy. They will count down the days until finally it’s time. With trepidation, they will find somewhere to sit or stand, likely showing up way too early to make sure they don’t miss even a single second of your lesson... but I guess if you never show up, it will just be their loss.”
+
+“You’re a real asshole, you know that, right?” Jake said, glaring at the Viper.
+
+“And you’re a heretic, but you don’t see me pointing fingers and throwing insults,” the snake god shrugged while continuing to wear that damn proud grin on his face, knowing he had effectively cornered Jake.
+
+“Aren’t you afraid it will also make you look bad if I don’t show up?”
+
+“Why would it?” the Viper shrugged. “It’s your lesson, not mine. I don’t even think it would make you look that bad if you didn’t show up; you can just make up some excuse, and everyone will buy it wholesale. Of course, that doesn’t mean the hearts of the young hopefuls are any less broken, and they’ll forever mourn the loss, telling themselves that you would have been there if you in any way could, but that certainly far more important matters had forced you away.”
+
+“I’m going to get you back for this,” Jake muttered.
+
+“And I’m looking forward to it,” the Viper chuckled. “But genuinely, this will be good for you. Full transparency, I also think the Records would prove useful. Finally, it will look good. As my Chosen, you haven’t exactly been very involved with Order matters since your reveal ceremony, and the last time many saw anything about you was that one time where you stood side-by-side with Valhal and openly insulted me.”
+
+“Wait, now that I think about it, I still haven’t technically joined the Order of the Malefic Viper,” Jake very accurately pointed out. “I’m only a student of the Academy, but that doesn’t mean I’m a member of the Order.”
+
+“You’re a member of the Order,” Villy said in a deadpan tone. “And good fucking luck convincing anyone otherwise. Anyhow, I think it will look good for you to make some kind of public appearance, and this is one of the most low-key ways of doing it while also getting you a teaching experience. All around, it’s a win-win in my opinion, even if you can’t see that right now.”
+
+“Stop trying to sell something you’ve already sold,” Jake sighed, really not interested in hearing more arguments as to why Villy’s idea to have Jake teach a class was a good idea.
+
+“I just want you to put your heart into it,” the snake god smiled while leaning forward. “The entire lesson will only be a few hours at most. Try to put together something pretty simple, yet with your own flair. Truthfully, it doesn’t need to be good; just the mere fact that it’s you teaching will leave every single student full of awe and potent Records.”
+
+Jake held back another sigh as he decided to change the topic to something entirely different. “Any progress in figuring out who was behind the ambush in the void?”
+
+“Little to none,” the Viper shook his head, his mood souring instantly. “All we’ve been able to confirm is who wasn’t involved, which isn’t the most useful.”
+
+“Alright,” Jake nodded. “How about that embassy from the Pantheon of Life? How is that coming along?”
+
+“Rather than ask me about that, reach out to Artemis instead and have a chat with her,” the Viper shrugged. “She’s also been working pretty hard, and I heard from the Verdant Witches that she’s surpassed their expectations. Of course, I can’t rule out that they said that just because they sniffed out that the two of you are close and want to remain in your good graces to get in my better graces, but I would assume there is at least some truth to their words.”
+
+“I really should reach out, huh?” Jake mostly asked himself.
+
+“Probably,” Villy shrugged.
+
+Jake nodded as he took out his token and decided to quickly send her a message that he was taking a little break after his recent crafting success, and that if she was available, she was more than welcome. It did feel a little weird that his schedule dictated when they could meet, rather than the other way around, which was why he left the invitation very open.
+
+“Quite eager, eh? Oh well, not that I can blame you. But do also start planning your upcoming alchemy lesson. I plan to schedule it to happen in a month to give you some time to prepare, but also to allow interested students time to qualify.”
+
+“Again, I want to reiterate that the quality of the lesson itself will be shit and all attending students will be worse off for having witnessed it,” Jake kept reminding the god, with perhaps a small part of him hoping that Villy would see sense and agree to cancel it.
+
+“Time will tell now, won’t it?” Villy wasn’t fazed in the slightest. “But if you purposefully do a bad job, I may have to place limits on your spending for alchemy ingredients.”
+
+“You wouldn’t,” Jake said, horror in his eyes.
+
+“Don’t put me in a situation where I have to consider it, then,” the Viper said, finishing the bottle he’d been nursing. “Oh well, I’ll be off. Have fun.”
+
+Without even giving Jake a chance to respond, the snake god was gone from the living room, leaving only the empty bottle on the coffee table behind as evidence he had even been there.
+
+Jake looked at his own bottle and quickly downed the rest of its contents before falling back on the couch. Staring at the ceiling, he was already dreading having been convinced to teach a damn auditorium of D-grades about alchemy as he cursed out loud.
+
+“Fuck me.”
+
+With absolutely brilliant timing, a certain Godqueen had chosen this exact moment to appear as Jake found the wood elf looking down at him as she leaned over from behind the couch.
+
+“That’s not entirely out of the realm of possibilities,” she smiled down at the semi-surprised Jake.
+
+Jake looked up at her as he also started smiling. “And here I was thinking you were busy, yet you could instantly show up the moment you heard I was available.”
+
+“Don’t flatter yourself,” Artemis chuckled as she vaulted over the couch and took a seat beside him. “I usually keep my real body in my divine realm and my avatars handle all the politics, so I’m rarely truly busy.”
+
+“Say, what does your true body even do in the divine realm?” Jake asked curiously.
+
+“Mainly meditating. We gods need to absorb and digest a lot of energy to progress our Paths, and it also takes a little to maintain avatars. Besides that, I’m working on upgrading skills, training, and other minor matters. It’s not hard to find things to do; I just wouldn’t classify any of them as making me busy,” Artemis explained with a shrug.
+
+“Sounds... kind of boring?” Jake muttered.
+
+“I don’t think it would be healthy if all moments of one’s life were full of excitement,” Artemis shook her head. “I also wouldn’t say your alchemy sessions sound especially interesting to me. Speaking of which, I heard you had some success?”
+
+“Oh, yeah, finally got my first humanoidsbane poison,” Jake said, a bit of excitement in his voice, though it quickly disappeared. “And apparently I’m supposed to teach an alchemy lesson in a month’s time...”
+
+“Yeah, I did see something about that,” Artemis nodded. “It’s a good idea to make a public appearance after returning from the Patheon of Life while doing something that benefits the Order of the Malefic Viper directly. Though I must admit, I didn’t see you as the teaching type.”
+
+“It wasn’t exactly voluntary,” Jake sighed as he explained what had just gone down the Viper. He had hoped for her to understand his plight, but to his horror, Artemis just nodded along.
+
+“You are a human; it would be silly not to take advantage of your race skills,” she said, showing little sympathy. “As someone near the peak of C-grade, you’re also more than qualified to impart knowledge to D-grades.”
+
+“Why are all you gods ganging up on me?” Jake questioned, full of resignation.
+
+“Because you’re being illogically opposed to the idea,” Artemis said, shaking her head. “But fine, I’ll allow you to vent, as long as you let me vent afterwards. I thought the Wildflight could be difficult to deal with, but compared to the... no, you first.”
+
+“Gladly,” Jake agreed as the two of them proceeded to have a mutual venting session – a healthy endeavor for any couple.

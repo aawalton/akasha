@@ -1,0 +1,255 @@
+---
+id: 33861aad-3bd2-5207-865d-503f93fd006f
+page-type-slug: story-chapter-royal-road
+title: "312 To Break a Curse [IX]"
+slug: 0410-312-to-break-a-curse-ix-3149030
+partOf: path-of-the-deathless-book-4-completed
+position: 410
+ownLength: 6118
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3149030/312-to-break-a-curse-ix"
+royalRoadId: "3149030"
+---
+
+I pity the Fae. I pity them perhaps more than I pity any other type of creature in existence. Where all of us, Children of the Pattern, can find strength in repetition and rise from the ashes of our defeat, the Fae themselves are locked in an eternal struggle of tension and cyclical purgatory.
+
+Narrative skills do not level; they simply strengthen when one plays the right role. As a Knight, your narrative skill is never stronger than when you, though bearing a righteous cause, stand on the precipice of defeat in the face of a grotesque and unjust monster. In that moment, the Fair Lore itself will conspire to make your sword resplendent and sharp, capable of slitting open any throat, of striking any head from offending shoulders. But while you wander, the skill is dormant. You are an Initiate, and practically always. And the narrative tension of the System's child is not blessed upon you.
+
+Though our sufferings are many, though our deaths are final and true, the System offers us the pleasure of improvement at the very least. Of metamorphosis to become greater than we were. Even if it is an illusion, even if our final escape is blockaded by an indestructible ceiling. But better an illusion of escape than being enmeshed in the concrete of the System's walls and being trapped in the architecture itself. The Fae are not shackled to the chains of fate; they are the links between their bodies. Their very souls have been smelted and forged into those cursed links, and there is no way out. If you manifest just as one among the Fae, then you are your role, and to escape will damn you into perpetual exile or worse.
+
+Choice becomes anathema. A Queen must be a Queen eternal; a Pauper, a Pauper eternal; a King, only a King. Never something less or more. Never a Knight. Never a merchant. Never a dreamer or a poet. And the Sage will remain a pacifist, unable to carry a blade, not even to protect his own life from torture or even greater degradations.
+
+I despise death, but when looking at the Fae, I suppose there is a freedom to be seen in it after all. To return to life and to live eternally in a cyclical paradise sounds too good to be true. And it is. There is no paradise to be found in the Fairwoods.
+
+It is only purgatory. It is only a hell of a novel kind.
+
+—On the Fairwoods and the Fae, from Udraal Thann’s recovered notes
+
+312
+
+To Break a Curse [IX]
+
+Shiv had to admit, the Inquisitorial Assassins were pretty good. He really didn't see that beheading coming.
+
+He spent a few hours camping at the orphanage where he'd abducted Hastings and killed the other Inquisitors. The authorities had quarantined the area and set up a series of rudimentary wards. A distorted curtain of Dimensionality veiled the orphanage. Between the nodes of black static were flecks of violet; a Divination spell woven into the spatial magic. Shiv watched it trigger every time the long-coat-wearing Investigators crossed through. Gaps formed, allowing them onto the ground of the orphanage so they could conduct their trade. For almost anyone else who tried to approach, they would pass through one side of the veil and emerge on the other, completely displaced from the orphanage itself.
+
+The word "almost" applied because Shiv had the Non-Sequitur skill. Paired with his Severed Shadow of Blood and Bladed Soul, he developed a new strategy to get into hostile territory undetected. All it took was him briefly swapping his Severed Shadow with one of his physical bodies, activating his Non-Sequitur skill, and then swapping back once inside. The wards went from a solid obstacle to a porous opening in an instant. After that, Shiv simply perched himself at the very top of the orphanage's spire like an oversized bird of prey and waited. The fragments of the moon in the night sky provided little illumination at this hour, but Shiv was far beyond relying on baseline human senses to keep track of his surroundings.
+
+Saint Mirabelle's for the Unwanted Misbegotten was a moderate-sized orphanage in the Capital, located at the edge of a residential district and next to a small river that separated it from an industrial sector. The orphanage spanned approximately five hundred square meters, with the main building three stories high and reaching a few levels underground as well. Inside were about two thousand girls, many of them packed tightly into living quarters. Shiv thought the conditions cramped and almost rat-like. It seemed more of a rodent nest than living quarters for children, but most of the children seemed to consider it normal, while all appeared blissfully unaware of the trades that were happening—how certain members among them were being offered as sacrifices to whatever Daughter the Deadly required to maintain her Divinity.
+
+Using his Atlas of the Flesh Scryer, Shiv scouted out the insides of the building as well. Pinging a specific set of highlighted organs, namely the eyes, Shiv utilized his Skill’s other ability and jumped from perspective to perspective, surveying the insides of the building using the girls. The first floor was primarily dorms. Beds were stacked wall-to-wall and then layered atop each other in ascending bunks. Every room seemed to have a head girl in charge, operating as the hands of the matrons. The matrons themselves were far fewer in number, and each one seemed to be in charge of a specific ward for the building.
+
+At present, however, all of them were assembled in the Grand Cathedral located at the center of the building. This was the most spacious, most luxurious, and also most solemn section of the entire orphanage. At the end of the room, standing upon a small podium, was the Head Matron, an aged and wrinkled woman who looked to be nearing the end of her winter years—a rather rare sight in the Republic due to the lifespan enhancements granted by even Low-Tier Physicality and Toughness Skills. She reminded Shiv of a gnarled tree in stature and aesthetic, but though her skin was withered and worn from age, there was still strength there, ensured by her Adept Physicality.
+
+Presently, she was giving a solemn sermon to the arriving children. Candles were lit ‘round the floors, placed in front of the seats and eaves of the chapel. However, the most well-lit portion of the room was the Head Matron’s podium, at the center of which stood a statue of Daughter herself. The Ascendant was stacked with so many candles that it made her appear positively incandescent. And rather than looking like the deformed, horrific creature Shiv knew her to be, she seemed cherubic, her guise as innocent as any of the orphaned girls present.
+
+Shiv found himself increasingly disgusted by their ignorance. Ignorance or willing indifference, he corrected himself. The matrons might have known. The children, definitely not. In the end, though, they were all feeding the stomachs of demented gods that cared little for them. The entire Republic's a scam.
+
+He highlighted another set of eyes using his Atlas and jumped to the perspective of one of the Investigators. His glimpse into their surroundings was brief but enlightening. They were standing in the alleyway beside the orphanage, looking at all the blood splatter and viscera left in Shiv’s wake. Bits of flesh caked the space lining the breaks between the brick walls. That was probably the matron who splattered herself against Shiv for no reason.
+
+He would have tried to assimilate most of them, but the body on that mission hadn't possessed a Biomancy skill. He reminded himself to apply it the next time he was doing a clandestine mission. It wasn't fail-proof, especially since one of the Inquisitors was an automaton, but it was better than nothing.
+
+The alleyway lit up with Divination spells. Shiv saw faint shadows take shape, as if echoes of the dead conjured back to the present. Silhouettes of the Inquisitors materialized, but though the investigators focused their magics, they couldn't quite form a representation of Shiv himself. Instead, it just seemed like something invisible was ripping through the silhouettes before it snatched the children. Then the now-deceased Inquisitor Hastings held up his Divination machine or whatever it was and sent a beam up into the air.
+
+For that, Shiv dismembered him, threw him into the dimensional cape, and then fled from the scene.
+
+Irons is right. Destroying my body probably helps. But I wonder if my constant switching between the Severed Shadow and one of my physical forms is confusing them too. I did carry them out using the Severed Shadow. It's what my Cape of Innermost Depth is bound to.
+
+As he continued watching, he wondered when someone important might show up. Investigators were pretty low on the totem pole. According to Irons, they were effectively grunts doing legwork. The ones he needed to find were Heroic-Tier, at least, and ideally Magi. Something about Magi was how studious they were and how often that translated into political power as well. Such was why he was hunting someone with a particularly remarkable mana field. So far, however, he wasn't having any luck. It was interesting to observe the after-action, though, and also how actual Investigators worked. They weren't just casting Divination spells; these fellows were taking samples from the scene and interviewing matrons that knew the deceased.
+
+Deductive Reasoning 21 > 23
+
+That's why I want to keep developing my Biomancy. Eldritch Physiology might make me more resilient in combat, but I can't really do multiple things at the same time, considering how my Bifurcated Processing just sets me on fire. That, and it's not actually a shape-shifting skill. I can't pretend to be people. Just some monst—
+
+A lance of pain licked through his neck. Something hard, thin, and quick chipped against his vertebrae. Shiv's eyes widened. His blood surged. The attack came too quickly for thoughts to form, so he was guided by instinct alone. A blade was tearing through him. Heroic-Tier. His Inertial Overdrive made him just fast enough to realize that, but not fast enough to stop the slash before it went all the way through.
+
+A few days ago, this would have been just another death. But the Eldritch Physiology skill had changed things. And the nine hundred deaths he'd experienced in the Outside had carved the transformation into his very reflexes.
+
+Shiv reached inward, into his sinews, into every fiber of his being, and he shattered his organic architecture from within. A twin urge guided his physical metamorphosis: unification; recursion. A command to the totality of his biology to be mirrored from the smallest cell to the largest organ. For every particulate to be interchangeable.
+
+The blade finished sweeping through Shiv's neck. He saw the world tumbling by, but then his senses cut out. Darkness took him; death did not follow. His body toppled free from the orphanage's central spire. Shiv landed hard against the tiled roofs like a falling boulder. Then he was falling again. He could feel the wind rushing by him, feel vibrations in the air, and he felt something piercing his back, punching clean through him, but there was no spine to sever, no organs to rupture. He had already unraveled and blended into himself, every part like the other, every part as the other.
+
+Shiv stopped himself from retaliating. He waited. The ground burst apart against him. A mess of dust, splinters, and broken floorboards coated his body. The concrete below fissured like a spiderweb. He could feel a stampede of footsteps tapping nearby—someone tripped over him. People were trying to flee. He must have fallen into the central chapel. The orphans and patrons were scrambling over him. Shiv had deliberately exposed himself, but he still didn't expect the assassins to come for him so directly. They'd endangered the children, they'd endangered the matron, and they didn’t care at all. But the main thing that surprised and annoyed Shiv more was how easily they took his head. That made him wonder if he was facing a High Hero or a weak Legend instead.
+
+His attackers finally descended upon him. He felt a heated spear punch through his chest several times before it was driven a meter deeper, staking him to the broken ground. Shiv started counting in his head—and realized his Atlas was still giving faint flickers of red even with his senses missing. The detail was vastly diminished; it was like seeing slight gradients of color that dissolved into the darkness. He couldn’t quite highlight anyone, bring up a mana simulation of their biology, or hop into their perspective, but he could still track them. More importantly, he knew where the children were and waited for them to mostly flee out of the room before he made his move.
+
+Just as the last orphan fled from the room and Shiv prepared to retaliate, an unnatural weight settled upon him. It spread out along his arms, over the stump where his missing head used to be, and curled tighter. It was like being crushed by a giant. Whoever was trying to cage him likely had a Heroic-Tier Dynamancy skill. If he wanted to break free, it would take an exertion of his Shapeless Tides.
+
+Or a shredding of mana.
+
+His unnatural flesh blossomed outward. His skin parted to birth scythe-like ribs, their edges coated in blood-red Vitae, shredding through the spellstuff holding him down. What once gave structure within came to prominence without. His red-gold bones glowed bright as a translucent pillar of the same colors erupted out from him; the hole he fell through was made ever larger. His organs and flesh melted into his armored form. Some merged with the bone, making him take on an armored visage. Others became links made from teeth, extending down his arms and wrapping his ribs in a layer of enamel chainmail. His missing head reformed in a splash of orichalcum.
+
+The first thing he heard was an anguished scream of an unseen adversary suffering from extreme mana strain. The first thing he saw was the shredded fabric of Dynamancy. The pitch-black mana that compelled gravity was no more, tears lining the sides of his spell. The pattern collapsed in on itself, and a rippling wave of force detonated against Shiv's body but curved around his pillar, displaced by his incredible Toughness. Rows of heavy wooden benches were turned to shrapnel. Sections of the stone walls collapsed. Obliterated plaster filled the air with smog and dust. Darkness enveloped the room as all candles were blown out.
+
+All but the few placed upon Daughter.
+
+Within the heart of the collapsing chapel stood the Deathless and three Assassins.
+
+The latter were invisible. Shiv suspected they could phase through matter as well, seeing how the dust simply flowed through them rather than sticking to their bodies. But though they were unseen, intangible, and currently silent, he could still detect the faint glow that highlighted their organic architecture. It wasn't every day the Deathless felt impressed by his own Awareness.
+
+Atlas of the Flesh Scryer 124 > 125
+
+He struck all three enemies at once. Though they could phase through matter, every edge that lined his body hungered to bleed a soul. He sliced through what remained of the Dynamancy spell blanketing him, and then he cleaved into his first Assassin. A veiled invisibility was pierced. A howling shriek followed, as armor and flesh split open, offering a warm gush of entrails.
+
+Yet the man's cry was cut off in an instant. Just as Shiv bit into the dense ball of gristle that was the Assassin’s mana fields, they vanished from sight and sense with a sudden pop. A bubble had burst around them, taking them somewhere else entirely.
+
+Shiv tore into the second Assassin's arm, noting that their magical skills were far inferior compared to their comrade. He slashed wide, his right arm becoming an eruption of extending and branching blades. The mana fields surrounding the second Assassin were utterly eviscerated, and he tore deep into their soul, splitting skills where they lurked in that sea of delicious vitality.
+
+The third Assassin was impaled. Shiv's skin had become a flowing cape behind his back. Yet at a whim, he commanded it to sprout jagged spikes of teeth from the ends. He missed his first step and then nearly smacked himself mid-fight for not growing eyes on his skin-whip. A ladder of irises erupted along that tangled length of tissue, and suddenly Shiv could see where his adversary was hiding. He performed a full loop and came around, slamming against their lower spine from behind.
+
+Whip Proficiency 43 > 45
+
+Eldritch Physiology 51 > 54
+
+Yet as the second Assassin came asunder in a spray of minced pieces and vitality, the third was knocked aside. The last of the trio lost both their invisibility and intangibility upon being hit, and Shiv saw the gleam of crystalline armor. But not just any crystal. It was unmistakably arcanite, colored the same prismatic hues as that which had formed the alloy of Confriga’s sword. Valor had described the material as a sort of magical hyperconductor.
+
+The surviving Assassin shot through a hole in the wall made by an earlier explosion. They drifted weightless, light as a feather and quick like liquid lightning. Partway through their retreat, they suddenly turned upside down and whipped out two wands; a series of spells were unleashed, each one a magical jab meant to keep Shiv off balance. Pitch-black fists fused with minor singularities flew toward him. They drew in bits of debris and dust, turning into twisting discs that crushed matter and built with pressure every passing second. Shiv felt himself drawn closer and used his Shapeless Tides to keep himself in place. But it was a struggle. Each of the singularities pulled hard, and the entire room began collapsing as entire walls, the ceiling, and all floorboards were ripped free from the large chapel.
+
+But though the Assassin was a potent spellcaster, Shiv had developed a specialized skill, specifically meant to bring misery to those who thought range to be their ally. While his body remained pinned in place, his skin-whip snaked out, striking each of the singularities in rapid succession. His timing was impeccable, and a resounding clash followed. He felt the vectors of the spells merge, and he shoved them back the way they came.
+
+But these singularities were also maelstroms of kinetic energy. Countering the first one with Return to Sender cost Shiv almost half his overflow tides. The next took even more than that. And Shiv realized three more spells had been cast while he was dealing with the first two, which he certainly didn't have enough Shapeless Tides to repel them without an extreme exertion of Bifurcated Processing.
+
+An unfortunate consequence of Eldritch Physiology meant that when your mind burned from exhaustion, all of you burned, and your entire body suffered. Because each of you was all of you when your biology was recursive and nonsensical.
+
+Not a big loss. I can survive being crushed into a pulp if it comes to it.
+
+Shiv sent the first two singularities sailing back. They pulled an entire portion of the room away; the floor and meters of stone and concrete below were ripped up in peeling waves, and a clash of war and matter occurred as several of the incoming spells clashed against the ones returned to the caster. Shiv flung himself into the carnage a moment after his Shapeless Tides surged. All he had left were innate vectors, and already he found himself wrestling to keep stable. But the spells he sent back offered him some measure of relief. One collided with an incoming spell and detonated. A massive chasm of Dynamancy erupted, ripping the space before Shiv asunder. The other passed all the way through and struck the Assassin—before phasing through him without inflicting any harm.
+
+Shiv's head exploded again. He stopped being able to hear and smell, but with all the eyes lining his skin, he could still see. And in a rare and ridiculous instance experienced by only a few, he witnessed how his own head was destroyed. A colossal ballista bolt emerged from a dimensional rift, impacting him in the back of the head. Its velocity was such that the air around Shiv ignited like oil kissed by a roaring flame, and every bit of stone, glass, wood, and more turned into molten slurry. It carved a clean path through Shiv's unstrengthened Pillar of Orichalcum, but when it finally struck something, it inhaled all the damage rather than exploding, leaving the chapel itself barren, but relatively clean.
+
+As before, Daughter’s statue and all the candles lighting her remained utterly unaffected.
+
+Eldritch Physiology 54 > 55
+
+Shiv tried hunting this new nuisance with his Atlas, but realized it was pointless. It was a dimensional arrow. The shooter could be anywhere, and if they had some Awareness skill like Adam, they could very well be shooting him from another city entirely. The capital alone was a sea of stars, each glittering dot an organic being. He committed himself to chasing down the escaping Dynamancer-Assassin instead.
+
+There wasn't much he could do about the unseen archer—
+
+Feat Gained: Grudge-Tethered (Heroic) - Allows the Pathbearer to strike once at an enemy who has wounded them from any distance.
+
+And just like that, things were different. The instant Shiv processed the notification, a crimson tether extended out from where his head used to be, crossing the vastness of space, curving up into the sky and beyond. He didn't just see the tether, however. He was the tether. He was connected to his enemy, and he could feel them from far away. And to say there was a gulf between them was an understatement. He was being fired at by someone in Fortress-City Diego. They were physically closer to where Lost Angeles had once been than the Capital. The connection between them was hard but brittle, and he would get but one strike before it shattered.
+
+Good thing one strike is all I need. Shiv's skin-whip carved through the crimson tether, and the cut delivered by his Bladed Soul traveled along the Grudge-Tether into the offending Pathbearer. He felt them part from neck to groin just before the connection between them broke. Meanwhile, the rest of his body charged through the opening in the wall where the Dynamancer Assassin fled.
+
+His quarry was quick, but Shiv was getting faster. His Inertial Sheath growled with aggression and hunger. Two more fist-sized singularities punched down; both missed. Shiv curved under and shot up into an arc, smashing through other bits of destabilized architecture while hiding behind the layer of still-present walls as he flanked the fleeing Assassin. They cast blindly, unable to track him through the carnage. Shiv, however, could see them clearly. They were a thing of flesh, blood, and meat, and they glowed bright as dawn amongst the waterfall of debris.
+
+Shiv came at his target from two angles. His skin-whip lashed out from below—drew fire away from his actual body. As a series of gravity spells slammed down, knocking his whip aside, his actual form tore a gap into the damaged orphanage, and he came barreling out of the topmost floors just a meter away from the surprised Assassin.
+
+This was when a barrage of other arrows hit him. They all traveled along dimensional vectors. He felt the faintest clench of pressure before they emerged. Against all odds, he managed to parry one using his whip—imperfectly. His Return to Sender skill didn't activate, but the projectile was knocked off course. Another two nearly hit, but Shiv stopped time. His Temporal Shell flared into shape around him, and it lasted long enough for him to get out of the way. A tidal wave of counter-Chronomancy erupted out from the shadow in front of him. It should have shattered Shiv’s time magic, but he avoided that by swapping his physical body with his Severed Shadow and going Non-Sequitur.
+
+Then he finally had the Assassin. He tore through their arms with ease, shredding both limbs off at the elbows. He took the legs of his adversary right after, and then wrapped their body in a cocoon of Vitae.
+
+His Severed Shadow couldn’t use the Eldritch Physiology skill. That required the presence of biomass to trigger. This allowed him to use his Bifurcated Processing to its fullest extent. As such, he suppressed the cutting aura surrounding his captured target and also took hold of their musculature using his Biomancy. A head of his hydra swept through them. He pinched their arteries until the blood flow ceased and their body went slack. All that happened in a blink. By the time he emerged from his Non-Sequitur state in a blast of white and red, his target was unconscious and halfway into his dimensional cape. Shiv's bladed heart flared bright as he carved an opening inside himself, allowing his physical and spiritual bodies to switch places once more.
+
+Got one. Let's see if we can make that two. Where'd Bubble Assassin go?
+
+Shiv scoured his surroundings—felt heavy blows tear through his upper torso and the left side of his neck. His Pillar of Orichalcum was being gashed open like it was tin. Then a storm of additional attacks descended. They were all dimensional in nature. But more than arrows greeted him now. Spells cast across space and time detonated around him; spheres of flame that burned flesh from within crawled into his physical shell. Every movement he made caused more of him to be shorn away by amplified friction. He made the mistake of turning. The oxygen in the air around him detonated like a bomb. He lost sixty percent of his biomass in an instant. This wasn't a matter that could be resisted by Toughness. The Pyromancy spell that afflicted him was among the most advanced he'd ever faced. And it worked well against his recursive biology.
+
+It didn't matter that he could reconstruct himself if even the slightest movement caused him to fray. Resistance itself was turned into a heated blade, and Shiv into little more than salmon waiting to be peeled.
+
+More spells hit him, each one a masterpiece of complicated shapes interlocked into dizzying patterns. The only reason he didn't unravel and die in an instant was because of his cutting aura. His very presence split mana apart and caused portions of the spell work to collapse.
+
+But this didn't save him. It only delayed his inevitable fatality. And before he could even consider what to do, alarm screamed in Shiv's mind as a pitch-black bolt of lightning speared down from the heavens above, slamming into him with the force of a mountain flung from orbit, shattering his body and driving him hundreds of meters into the bedrock before he could even blink.
+
+The totality of the orphanage was flattened in an instant by the overwhelming weight of the attack, but the destruction was kept caged as a weave of midnight electricity formed a cone around the blast zone. Shiv tried to cut himself free. He knew Halsur’s hand when he saw it—was stunned by how fast the Ascendant had reacted.
+
+His astonishment doubled as the bolt of lightning didn't fizzle out after striking, but instead grew solidified like the trunk of a great oak and kept Shiv pinned deep below the ground, and then his astonishment tripled as a tar-black figure leapt out from the colossal lightning bolt as if it were a stream of water, carving bloody grooves into his body in a frenzy of cruel violence. Her voice was a piercing shriek. Her hand was filled with blurring steel.
+
+Daughter the Deadly hacked and hewed with wild abandon. Jagged pieces of teeth and severed lengths of bone flew free from Shiv. He was more statue being defaced than a body being butchered. By the time his mind caught up enough to retaliate, there was little more than thirty percent of him left. He was mostly bits of torso with parts of a right arm and a skin-whip.
+
+And using that skin-whip, he fought back.
+
+Daughter wailed like an incoherent banshee, her inhuman voice joined by the piercing shrieks of an enslaved child nested within her viscous filth. Shiv had no intentions of killing a child, but he also didn't want to depart without reminding Daughter why she feared him.
+
+The tip of his whip, coated in streaming Vitae, struck Halsur’s black bolt that continued to leave Shiv pinned in place for Daughter to savage. It skipped off after leaving the slightest of dents in the massive trunk.
+
+Shiv’s mind went blank with disbelief. The Supplicant had already been hard enough. Stabbing at an Ascendant's personal mana felt like he was trying to punch a hole through a fortress wall using a sewing needle.
+
+But he wasn't the only one caught off guard. A thunderous gasp caused the very skies above to shudder. Shiv felt a flicker of something as a wispy trail glided down from the heavens. A drop of fear flooded the Deathless. Its taste was cold but true, paltry yet potent.
+
+Halsur the Endbreaker hadn't been bled, no. Not nearly. But the blow had stung. And for an Ascendant that prided themselves on being unbreakable, even the faintest dent was a declaration against their invincibility. And that was as much a wound as anything else.
+
+Shiv's tides pointed downward. He tore himself in half to escape the bolt of lightning. Daughter followed him in a berserker rage and failed to see his whip twisting behind her.
+
+Or so Shiv assumed.
+
+The nightmarish Ascendant dispersed into a spray of clinging oil that spilled over Shiv. Then true darkness followed. A familiar veil of all-consuming shadows spilled over the world, and Shiv could see no more, sense no more. Not even the vision granted by his Aegis remained active beneath Harlock’s dominion. And to make matters worse, Shiv felt himself get stabbed from all sides as Daughter's assault became an unstoppable whirlwind.
+
+Even without ears, he could hear her howling, her voice metaphysical more than telepathic. She wanted him to die. She commanded the System to scream for him to die. Dozens of notifications loaded in his mind, and they all said one thing:
+
+DIE, MONSTER, DIE!
+
+Shiv's only response was to grow a mouth using his remaining biomass. A wicked grin expanded out from the center of his TORSO, and he laughed. He laughed just as he fell below his sustainable biomass threshold. He tried to turn what remained of him into an eruption of flicking blades, but his eldritch flesh combusted into ash.
+
+Whip Proficiency 45 > 48
+
+Return to Sender 144 > 156
+
+Pillar of Orichalcum 352 > 367
+
+Non-Sequitur 166 > 167
+
+Inertial Overdrive 267 > 270
+
+Eldritch Physiology 55 > 65
+
+Shape of Monstrosity 155 > 161
+
+Strider of the Unbending Path 183 > 187
+
+This Severed Shadow of Blood and Bladed Soul 182 > 191
+
+And so death greeted another of his bodies. But the whole of him endured and grew strong from the struggle of this demise.
+
+See you sooner than you might think, Daughter. You and your mom both.
+
+***
+
+Back atop the Court Leviathan, the Severed Shadow hovered with a new prisoner within its cape. Shiv's true form gradually lost detail, with the red and white fading until it was little more than a silhouette once more. And like that, he resided, turning his focus to another one of his bodies instead.
+
+This one was nearby and currently under Uva's sway. Within the Tutorial bunker, another one of Shiv's physical bodies drew in a sharp breath and found himself breathing in the crisp taste of autumn air.
+
+"So, was your kidnapping successful?" Uva's voice sounded. She already knew. She was deep inside the Shiv's mind and weaving herself even deeper. But he really didn't mind talking to her.
+
+"Bagged a pretty impressive Assassin. Don't know if they're that useful or not. Guess we'll find out soon. Daughter, Halsur ,and Harlock showed up pretty quickly—but the Inquisition and the Guard were ripping me apart even before that. Don't think I would have lasted that long even if my physical body had all my skills."
+
+"But there is a quality to quantity and expendability as well," she replied.
+
+Shiv grunted. There was no arguing about that.
+
+He felt her finish fastening herself tight to the center of his consciousness. She was like a harness for his mind; where his Bifurcated Processing was found wanting when it came to controlling all his many physical bodies, her stacked mental instances allowed her to serve as a pilot where he could not.
+
+An interesting thing about how Shiv's newly evolved nature reacted with Psychomancy was how he still only had one mind. This meant that Uva could tap into any one of his physical bodies, but when she tried to weave her physical form into his ego, she would emerge where his Severed Shadow was. This effectively allowed her access to his bodies without remaining in harm's way herself.
+
+Together, they were far more dangerous than alone.
+
+"Looks like our way into the Fairwoods is open," Shiv noted, observing the pulsating portal of the Slipgate in the cavernous metal chamber before him. "Time for us to take a trip, huh?"
+
+"That is the hope. However, before we go, I must inform you that someone has made an attempt on your life. I think you might want to know that."
+
+Shiv scoffed. "Yeah, lots of someones. I killed one of them, sent another one running, and have a third one inside my cape. Even managed to get a new Feat for dealing with all those annoying archer bastards who shoot at me from far away." He laughed darkly. "Adam's going to felling hate this one."
+
+Feelings of unhidden disgust and envy emanated from Uva. "Vile as your Cancer-Tier growth is, Dear Brute, I was not talking about your fight just now. Rather, an aged woman came to visit the body we placed in the dorm room. I only discovered her presence after going through the memories of the comatose body."
+
+She passed a specific thought into Shiv's mind, and he sighed in annoyance. "Well, I guess that explains why I tasted blood earlier. Godsdamn it, Magnolia. You just couldn't stay away, could you?"
+
+"You know her?"
+
+Shiv paused briefly. He had forgotten to explain all this to Uva in detail. "Not really, but, uh, Marcus Unblood got her daughter pregnant. So it's probably something to do with that."
+
+"Ah, yes, Marcus: the crippled but extremely unfaithful and reproductively potent cover you have.” A long hum emanated from Uva. “Of course."
+
+"Why do you have to describe him that way? It's giving me the creeps, Uva."
+
+"Because it's true and I find it somewhat hard to believe and strangely amusing at the same time. Should we go deal with her first? She wounded herself substantially. One of her axes seems to have broken apart and struck her neck when she tried to take your head."
+
+Shiv thought about that for a second. "Nah, she's not a threat. I doubt she's going to tell anyone about a failed assassination attempt on her part. No. We go on vacation. If she wants to try again, well, I guess she can be my guest. But I got a feeling she's going to stay away for a while longer this time. Anyway, go poke Adam. Make it as sudden as possible. Tell him we’re off to give a certain Bread-Knight back to his Court, and that he’s welcome to follow along telepathically if he has time."
+
+Once more, a pulse of disbelief came from his girlfriend. “You do know that it is an act of hubris to ignore a potential threat.”
+
+“A potential threat is Daughter and the Inquisitors. They managed to kill me. The Supplicant killed me. Magnolia is not a threat. Magnolia is a sad mother breaking herself against a giant that can’t be bothered to swat her. The System can go eat shit. She can take her swings, but if she comes back when I actually have time, the only thing I’m going to do is talk to her.”
+
+“And then what?”
+
+“Then we see if I can break strife itself and give her peace.” Sage of the Enkindled Heart shuddered in anticipation inside Shiv. “After all, what’s more powerful than being able to force mercy on anyone you want to give it to?”

@@ -1,0 +1,195 @@
+---
+id: d80d06fd-69f6-59ed-8a49-38c89ebaf979
+page-type-slug: story-chapter-royal-road
+title: "Chapter 478: Mouth"
+slug: 0045-chapter-478-mouth
+partOf: rise-of-the-living-forge
+position: 45
+ownLength: 2236
+unit: words
+ownProgress: 2236
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2576795/chapter-478-mouth"
+royalRoadId: "2576795"
+markedReadAt: "2026-06-29T19:59:53.153Z"
+---
+
+What is Rodrick going to do?
+
+Arwin couldn’t help but send a slightly concerned glance in the former paladin’s direction. He’d never seen Rodrick working like this — and he wasn’t so sure that he wanted to. There were certain moral lines that he’d been convinced to cross.
+
+Life wasn’t as ideal as he wanted to believe it was. Arwin knew that. But whatever was about to come…
+
+I don’t think I want to be here for this.
+
+Rodrick held his hand out. A tendril of shadow reached out from the darkness, its tip coiled around the hilt of Mask’s dagger. It deposited the blade into Rodrick’s hand before receding back to hide in the darkness enveloping the edges of the room.
+
+Mask’s lips curled in amusement. He didn’t seem too scared by the prospect of being carved to pieces. “Oh, no. My own dagger. Whatever will I do? Carve me up all you like. You’ll find it does little.”
+
+Rodrick blew out a long breath. Then he shook his head. “You seem to think we operate like you do. But I never said I would torture you. That doesn’t lead to very good results. I would know. I’ve tried it. From both sides. All it does is makes sure you say what I want to hear.”
+
+“So you’re not even going to hurt me,” Mask said with a laugh. “Then you may as well bring me some food. I think we’ll be here a while.”
+
+“That, I’m afraid, was always the plan,” Rodrick said. “But not us. You.”
+
+“You’re going to leave me here?” Mask arched an eyebrow. “You think the silence will break me?”
+
+“No,” Rodrick said. “To be honest, I don’t actually care what happens to you. There’s only one thing that you’re useful for. See, I noticed something back at the tournament. About those daggers that Necrohammer made. And I got the feeling that this one works the same way.”
+
+“And what’s that?” Mask asked. “Take my Class. I don’t care. I cannot be broken.”
+
+“Yes, yes. We’ve gone over that. Let’s skip forward a little, shall we?” Rodrick raised the dagger over Mask’s leg.
+
+Then he dropped it.
+
+The blade fell, carried by gravity alone, and punched into the top of Mask’s thigh. The weapon was sharp. Even though it hadn’t been dropped from a very high distance, it still managed to cut nearly an inch into the man’s flesh.
+
+Mask’s eyes went wide with pain. Despite his words, he jerked against his bindings. A scream tore from his lips — but Rodrick wasn’t watching the man. His eyes were fixed upon the blade of the dagger, where a thin, nearly invisible stream of black energy twisted up along the blade and into its hilt.
+
+“There we go,” Rodrick said. He wrapped his hand with a napkin, then carefully extracted the dagger.
+
+“What do you think you’re doing?” Mask asked, his voice weak.
+
+“We’ve already established that. Removing your class. Not that I imagine you care. It probably wasn’t your class in the first place.”
+
+Mask let out a pained laugh. “If you think you’re going to get me to talk, you’re sorely mistaken. Say what you want. Do what you want. It doesn’t matter.”
+
+“Fine with me,” Rodrick said. He raised the dagger and studied the blade for a moment before gingerly handing it back off to a waiting shadow. “I already have what I need from you.”
+
+The shadows at the back of the room shifted. Esmerelda and Anna both stepped out to join them around the table where Mask was bound. The Guildsman arched an eyebrow.
+
+“What kind of threat is that? I’ve given you nothing.”
+
+Anna reached into her bag and pulled out a stiff lattice mask. It was shaped to cover someone’s entire face. She then procured several jars. Rodrick took one of them, squinted at Mask for a moment, then returned it and swapped it out for another one.
+
+He popped the top off and scooped out a thick paste.
+
+Everyone watched in a mixture of unease and curiosity as Rodrick slathered the paste onto the mask. Arwin felt himself getting slightly queasy.
+
+I’m really not built for this. What kind of horrible thing is he going to do? Can I really bear the responsibility for making him do this? Rodrick doesn’t want to do this any more than I do. He wants to live peacefully.
+
+“Rodrick,” Arwin said. “Maybe—”
+
+“Hm?” Rodrick didn’t even look in his direction. “Give me a moment. I’m busy.”
+
+“Maybe you shouldn’t—”
+
+“Bah. It’s fine. I’m almost done.” Rodrick slathered more layers onto his project.
+
+Even Mask had stopped speaking. He watched on, the beginning flickers of unease building in his eyes as everyone watched Rodrick work. The man plucked paste from jars that Anna offered him, expertly mixing the paste together and forming it into shapes. He worked with such confidence that nobody dared speak. All they could do was observe.
+
+And, in a matter of minutes, Rodrick was done.
+
+“There,” Rodrick said, holding his work up and examining it for a moment longer before turning it toward Mask. “What do you think?”
+
+The hair on the back of Arwin’s neck stood on end.
+
+It was a perfect replication of Mask’s features. Everything from his plain eyebrows to average jawline. The mask was, ironically enough, Mask. Arwin couldn’t have told the difference between the two faces if his life had depended on it.
+
+“What is that?” Mask whispered.
+
+“It’s you, of course,” Rodrick said. He held the mask up to his face. “What do you think?”
+
+“You’re mad,” Mask said.
+
+“No,” Rodrick said. He frowned, offended. “I’m you. And very soon, you’re going to walk right out of here.”
+
+“What?” Mask asked, staring in complete confusion. “What are you on about?”
+
+“You’re going to make your way right over to some very wealthy people and take a massive shit on their doorstep while you scream about how the Adventurer’s Guild are traitors to the kingdom,” Rodrick continued, fitting the mask over his face. “You’ll list off some crimes. They’ll all be real, of course. Then you’ll swear vengeance against the Guild for what they’ve done to this Kingdom.”
+
+“You’re delusional,” Mask snarled. “Why would I do any of that?”
+
+Rodrick tilted his head to the side. “Good question. Unfortunately, I don’t think the Guild is going to care much. Especially not when you show up at their personal dwellings.”
+
+As Rodrick spoke, his voice changed. Its inflection shifted until it was nearly exactly the same as Mask’s. All too late, the man realized what Rodrick was talking about.
+
+“You’re going to impersonate me?” Mask asked. “There’s no way anyone will—”
+
+“Trust me,” Rodrick said in Mask’s voice. “They will. The human mind is strikingly easy to bend. It won’t take much at all to make you a thousand times worse than us. Almost all manners of detection magic are searching for other magic. Your supposed death and return will make things even more suspicious. They’ll assume you were corrupted when they find no magic at play, Mask. I don’t need anything but clay to become you. The Guild won’t find anything but the truth I craft for them. They’ll order you put down. They’ll wipe you from their records. And I do hope you don’t have any family. I don’t imagine they’ll have any easy time of things.”
+
+“What do you think this can possibly get you?” Mask demanded, but there was fear in his voice now. He knew Rodrick was right. The Guild wasn’t exactly forgiving to traitors.
+
+“That’s simple,” Rodrick replied. “When you’re their enemy… you’ll have nobody to turn to but us. Who else wouldn’t turn a convicted traitor to the Kingdom of Lian into the guild? Not even criminals go up against the Adventurer’s Guild.”
+
+“You’d do all of that, just to get some worthless answers?” Mask demanded. “You’re a monster.”
+
+“You’re right,” Rodrick said. He pulled the mask away from his face. “I am. And I’ve done a hell of a lot worse, Mask. Goodbye. Just sit tight for a week. Then we’ll let you out. I’m sure the Guild will give you time to plead your case once I’m done with your reputation.”
+
+He turned for the door.
+
+“Wait! Stop!” Mask yelled.
+
+A smile pulled across Rodrick’s lips. It sent chills down Arwin’s spine, and by the time the fallen paladin turned back to Mask, his face was flat once more.
+
+“What is it this time? I’ve been a forgiving host, Mask. I’ve answered your questions. This better be worth my time, or I’m going to forge a few love letters between yourself and a few top ranking Guildmen’s wives. Nobody too high up, of course. Just enough to make sure you get a sword through the groin before they kill you.”
+
+“Just… stop,” Mask said, his shoulders slumping. “What do you want? I’ll answer your questions.”
+
+Rodrick smiled again. He nodded to Esmerelda, who held a jug of water to his lips.
+
+“Drink,” he said. “Your throat is probably dry. And if I wanted you dead, you’d already be dead.”
+
+Mask stared at it for a moment. He did nothing to try and move his head away as Esmerelda tilted it back, pouring the liquid down his throat. She pulled it away once he'd finished.
+
+Arwin shifted as Rodrick sent a look in his direction.
+
+Oh, shit. My turn again. He totally had me. Rodrick is really something else. I almost felt like he was threatening me rather than Mask there.
+
+“What is the Guild using the daggers for?” Arwin asked. “Why are they stealing people’s magic?”
+
+“To harvest it,” Mask said through clenched teeth. “I don’t know how. Don’t ask me. I can’t give you the answer no matter what you do. They just take the magic from the daggers and re-distribute it.”
+
+“Redistribute it?” Lillia asked. “What do you mean?”
+
+“To classes,” Mask said. “And to other things.”
+
+Esmerelda, who had positioned herself behind Mask, inclined her head slightly.
+
+So that’s why he wasn’t scared about losing his class. It was never his to begin with. He might have gone through a few already, stealing magic from others with these daggers. One more wouldn’t make a big difference.
+
+“Such as?” Arwin pressed.
+
+Unease passed over Mask’s features.
+
+“They feed them to something. The daggers get thrown into a receptacle within the Guildwall. It’s underground. A giant pit. And something in it… eats them. That’s my best guess. Nobody has ever seen it to my knowledge, but I’ve sure as hell heard it. This abominable crunching. It comes up from the pit every time I’ve tossed in daggers. I don’t know why we feed it, but those are the orders from leadership.”
+
+The Guildwall… that’s the deepest part of the Adventurer’s Guild’s quarters. Only the highest echelons of the guild are allowed there. What the hell would they be…
+
+Arwin’s frown deepened.
+
+The world was hungry. He knew that. It was why the Mesh had given him his class. The Guild knew that too. They were trying to solve that issue by feeding the world with war.
+
+The back of Arwin’s neck prickled.
+
+Unless wars weren’t enough. Is it possible they’re intentionally feeding magic to… something? Does the world actually have a mouth? Does the Mesh?
+
+“What else do you know about it?” Lillia asked. “Who feeds it?”
+
+“All of the operatives. There are five of us including myself,” Mask said. His brow furrowed as confusion and surprise mixed in with his unease.  “Why am I telling you this? I didn’t mean to say that.”
+
+Esmerelda smiled. “Truth potion.”
+
+“What?” Mask exclaimed. “Truth potions? But you gave me water! It only tasted like water! I checked!”
+
+“If you want to get real technical, it’s not a truth potion,” Esmerelda said with a wave of her hand. “It’s a promise enforcement potion. Makes you really inclined to follow up with the agreements that you’ve made. And you just agreed to answer our questions in exchange for Rodrick not shitting on a doorstep in your name. Good deal, that.”
+
+“Such a thing is possible?” Mask muttered. “We don’t have—”
+
+“We ask the questions,” Lillia said sharply. “What else do you know about this… pit in the Guildwall?”
+
+“Not much,” Mask replied. “I’ve already said it all. My duties were largely in distribution. I only went to the Guildwall a few times. Blade is the one usually in charge of the draining of the weapons.”
+
+The members of the Menagerie exchanged a glance. Then they nodded.
+
+It looked like they had their next target.
+
+“Thank you for your cooperation,” Rodrick said. “We’ll have a few more questions for you… but I’ll leave those to Esmerelda.”
+
+Esmerelda’s smile grew wider.
+
+“Wait, what?” Mask asked. “You’re going to leave? Just like that?”
+
+“No just about it,” Rodrick said as the others all headed for the exit. “I’d say it had been a pleasure, Mask, but that would be a lie.”
+
+Arwin followed everyone else into the common room but threw a glance over his shoulder and through the door as it started to close behind them. Esmerelda was little more than a shadow in the darkness of the room. But, in the final moments before it slammed shut, he could have sworn that the smile on her lips stretched far wider than any human’s should have.

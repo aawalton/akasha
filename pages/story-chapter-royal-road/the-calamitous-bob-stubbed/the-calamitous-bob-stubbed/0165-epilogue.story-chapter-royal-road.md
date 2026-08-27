@@ -1,0 +1,89 @@
+---
+id: f64a9c71-ac5d-52e1-8105-675f4baf6596
+page-type-slug: story-chapter-royal-road
+title: "Epilogue"
+slug: 0165-epilogue
+partOf: the-calamitous-bob-stubbed
+position: 165
+ownLength: 973
+unit: words
+ownProgress: 973
+publishedAt: 2025-11-18
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2771774/epilogue"
+royalRoadId: "2771774"
+markedReadAt: "2026-06-29T21:20:21.194Z"
+---
+
+The Voyager emerged from the fog like a bird of prey before sputtering to a sad halt in a spray of foam and nasty swear words. Sails hung limp from the two main masts while, on the deck, the circuits tasked with keeping the gardens alive fell dark. Sailors and soldiers rushed to the railings to look around now that visibility had been restored.
+
+Viv walked forward, watching a freshly cast void blade fail only a few handspans away from her. It wasn’t so much that her willpower was defeated as the fact space around them seemed to obey different rules of physics. Or magic, maybe. It even felt strange. Her instincts told her the spell was working fine yet she could clearly see it wasn’t?
+
+“Well that’s going to be problematic,” she commented.
+
+She turned to gray-haired Sidjin but his gaze was firmly fixed to the front. Not far from them, tall cliffs covered in thin patches of green lichen rose from the sea like painted black walls, their surface pitted by age and the elements. Beyond that were distant hills, also green, and beyond that…
+
+“Land, land!” the watcher on shift uselessly said after recovering from his surprise. Beyond the valley was a crystalline structure not unlike a tower, if someone had taken a normal model in a software then deleted pieces at random. The tower stood, an impossible edifice somehow suspended over the land like an affront to physics architecture. Some of the pieces were not even attached to anything.
+
+As they watched, the structure shifted and some of the pieces disappeared in a sparkling blast of colors, others reappearing at random. A pulse made every caster shiver.
+
+“Looks like your readings were correct,” Viv admitted.
+
+Sidjin smiled, though it was bittersweet.
+
+“One last adventure?” he suggested.
+
+The rest went unsaid as Viv returned that smile. Last adventure before she ascended, leaving the nation to those who would not be so bound in their nature. One last adventure before Sidjin died of old age.
+
+One last chance to find out if there was, after all, a way to become an arcane elemental.
+
+“By my estimation,” a stern voice said from behind, “this unusual structure stands at the exact center of the emissions we detected.
+
+The mage woman behind them made notes on her thick book, then readjusted a thick pair of glasses. An exaggerated blink made her whole face twitch.
+
+“With a thirty paces margin of error, I would say.”
+
+“Thanks Eliz. Now we just need to find a place to dock.”
+
+They looked around while the skipper screamed yries insults at everyone glutting the railings. At first, Viv thought it was just because they were slacking but a comment about ‘port’ changed her mind. She moved to the left, where the cliff continued. There were indeed distant ships heading towards them, two to be precise. She reflexively tried a long view spell before it fizzled between her fingers. The skipper lent her his binoculars without prompt.
+
+Oars propelled the ships, low raiding crafts that reminded her of viking longships. Humanoid creatures with thick tentacles where the hair ought to be worked it, muscles stretching under a grayish skin. One of them stood at the prow, waving a handful of harpoons.
+
+“Is it me or are those things huge?” Viv asked.
+
+“The natives are getting agitated,” the yries captain spat.
+
+“What did he say?” Sidjin asked.
+
+Captain Rag-Nok was fluent in Imperial, in theory, since he understood it. Unfortunately, he also categorically refused to speak any human tongue.
+
+“He said we got company. Order away, skipper.”
+
+The yries screeched to demand all hands on deck. Below Viv, hatches opened to reveal gray maws made of brand new Harrakan steel.
+
+“We no longer have magic but we do have options,” Viv said.
+
+She moved to get her personal rifle from her cabin. It was supposed to be decorative… Ah well. Expect the unexpected.
+
+“I believe coating is still possible,” Sidjin said when she returned.
+
+He was now covered in fancy transparent armor. That would protect his old bones, at least.
+
+We do not need coating!
+
+The fury of our spirit will send those fools to the abyss!
+
+Viv rolled her eyes at the spawn’s antics. She still wasn’t sure if bringing the young dragon had been a good idea but to be fair, his mother had compensated her well.
+
+“Sure thing, Sparky.”
+
+My name is He-Who-Wears-Thunderbolts-in-the-Storm!
+
+Viv rolled her eyes while flashes of electricity coursed over the spawn’s cobalt scales. It would be very impressive if he wasn’t the size of a Husky and only slightly more dangerous. She moved on before he could start reciting poetry at her like some diminutive reptilian skald. Spark was big on talking which was why he’d been sent as far away from his siblings as draconically possible, she suspected.
+
+By the time Viv looked out again, the longships were close enough that she could observe their sailors with the naked eye, so she stood on the railing to greet them.
+
+Her aura went out to the waves, but as before, something blocked it or rather, the effect existed somewhere she couldn’t perceive. Much like the weird tower, in fact. As if several layers of reality were piled on. The head giant spotted her during her musings. He made a universal gesture by pretending to slice his throat with a finger. Or at least, Viv assumed it was a finger since it sort of dangled at the end of his upper limb. Just like she assumed he was a he due to the lack of obvious tits. She also returned a universal gesture that involved raising a finger. A moment later, an incendiary shell obliterated the longship in a fiery explosion.
+
+“We bring civilization,” she screamed. “Do not resist!”
+
+Her ancestors would be so proud.

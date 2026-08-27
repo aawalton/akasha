@@ -1,0 +1,271 @@
+---
+id: ff789206-b99a-5e97-a13b-ab60a69538b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59: The Puppies of Doom"
+slug: 0060-chapter-59-the-puppies-of-doom
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 60
+ownLength: 2224
+unit: words
+publishedAt: 2026-02-21
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3077086/chapter-59-the-puppies-of-doom"
+royalRoadId: "3077086"
+---
+
+Ren woke up with a jolt, his hand slapping the space on his chest where a warm, heavy weight usually rested.
+
+Nothing. Just cool silk and the panicked flutter of his own heart.
+
+"Lily!" he gasped, sitting bolt upright.
+
+His eyes frantically scanned the room. The crib in the corner was empty. The teething ring was gone. The pile of soft blankets was missing.
+
+"Where is she? Did she crawl out? Did she... teleport?"
+
+[Ana: Breathe, Dad of the Year. She's with Mira. Remember? The nanny? The one you hired specifically so you wouldn't have to function before sunrise?]
+
+Ren blinked, the fog of sleep slowly lifting. He slumped back against the pillows, running a hand over his face. "Right. Mira. Nanny. I forgot. For a second, I thought... I thought I lost her."
+
+[Ana: Welcome to parenthood, my guy. The phantom weight never really goes away. You'll be checking empty cribs for the rest of your life.]
+
+"When did my life become all about her?" Ren muttered, staring at the velvet canopy above. "I used to worry about profit margins and viscosity reports. Now my primary stress metrics are diaper availability and magical kidnappings."
+
+[Ana: It's called character development. It’s messy, expensive, and emotional. Enjoy it.]
+
+Before Ren could retort, a sharp, polite knock echoed from the door.
+
+"Master?" It was Sylas. His voice was calm, the professional tone of a butler, but there was a thread of urgency underneath that Ren caught instantly. "There is a visitor in the common room. The Dwarf foreman, Borin. He says it is... a matter of some urgency."
+
+Ren frowned, swinging his legs out of bed. "Borin? Is the construction site on fire? Did the spirits attack?"
+
+He grabbed a robe, wrapping it around himself. "Tell him I'll be right there. Put him in the private study. Offer him coffee... or ale. It's early, but he's a dwarf."
+
+"As you wish, sir."
+
+Ren splashed cold water on his face, trying to scrub away the lingering panic. He needed to be professional. He needed to be the Supply Lord. But first...
+
+"I need to see her," he admitted to the empty room. "Just a quick check. To make sure she's okay. To make sure the nanny hasn't fled the country."
+
+He walked down the hall to Mira's room. The inn was quiet, the early morning light painting the floorboards in stripes of gold. He stood in front of the heavy oak door, hand raised to knock.
+
+He froze.
+
+In his old world, knocking on a subordinate's door before 9 AM was a social crime. It was micromanagement. It was rude. He felt like an intruder in his own employee's life.
+
+"This is weird," he whispered. "I'm her employer. I can knock. It's fine."
+
+[Ana: Just knock, you weirdo. She's awake. Probably.]
+
+Ren knocked. Rap. Rap.
+
+Silence.
+
+Then, a sudden, chaotic rustling sound. A thud, like someone falling out of bed. And a groggy, disoriented voice. "Wha... who is it?"
+
+"It's me," Ren said. "Ren."
+
+From inside, he heard a sharp gasp, the sound of a vase wobbling, and frantic scrambling.
+
+The door flew open.
+
+Mira stood there. Her usually pristine maid uniform was disheveled, buttoned wrong at the collar, so one side was higher than the other. Her silver hair, usually braided perfectly, was a bird's nest of tangles. She had a distinct pillow crease on her cheek.
+
+She stared at him, her eyes wide with terror.
+
+"Master!" she squeaked.
+
+Ren blinked. "Mira? Are you okay? You look..."
+
+"I overslept!" she wailed, dropping to her knees so fast her knees hit the floor with a painful crack. "Forgive me! I am worthless! A sloth! To keep the Master waiting... please, punish me! Dock my pay! Whip me! I deserve it!"
+
+Ren recoiled, his hands raised in surrender. "Whoa! No! Nobody is whipping anyone! What is happening?"
+
+Sylas appeared at the end of the hall; he saw Mira on the floor and went pale.
+
+"I failed," Sylas whispered, horror dawning on his face. "I, the Butler, failed to wake the staff. The entire household schedule is compromised. I am a disgrace to my profession."
+
+He dropped to his knees next to Mira. "Punish us both, Master! We have shamed the house!"
+
+Ren stared at the two elves prostrating themselves in the hallway of a luxury inn. Other guests were poking their heads out of their doors, looking confused and judgmental.
+
+"System," Ren hissed mentally. "Help me. What do I do? They're broken."
+
+[Ana: This is on you, big spender. You gave them feather beds and silk sheets after they spent years sleeping on rocks in a union dorm. They crashed. Hard. Their bodies literally didn't know how to wake up from actual comfort. You need to de-escalate. Show them you're not a tyrant. Be the chill boss. Channel your inner startup CEO.]
+
+Ren took a deep breath. "Stand up. Both of you. Now."
+
+They didn't move. Mira was trembling. "I cannot. I have sinned against the house."
+
+"Stand up!" Ren ordered, putting a bit of command into his voice.
+
+They scrambled to their feet, heads bowed, waiting for the blow.
+
+"Listen to me," Ren said, his voice gentle but firm. "We don't do that here. Sleep is important. You were tired. The bed was comfortable. It happens."
+
+Mira looked up, tears brimming in her eyes. "But... in the Viscount's house... if we were late... the cane..."
+
+"This isn't the Viscount's house," Ren said, feeling a surge of anger at her previous employers. "This is my house. And in my house, we prioritize rest. You can sleep in until noon if the work gets done. Okay?"
+
+Mira stared at him as he had just spoken in tongues. "Noon?"
+
+"Sure. Just... maybe set an alarm next time? I can buy you a magic rooster. Or a foghorn."
+
+[Ana: Don't you dare buy the foghorn.]
+
+"Anyway," Ren said, clearing his throat. "I'm not mad. I just... I wanted to see Lily."
+
+Mira’s panic shifted to confusion. "The... the Lady?"
+
+"Yeah. Is she in there?"
+
+"Yes! Of course!" Mira scrambled back into the room, tripping over her own feet. "I haven't dressed her yet! I haven't washed her face! I am a failure of a nanny!"
+
+"It's fine!" Ren called after her, stepping into the room.
+
+It was a cozy chaos. The premium suite was lived-in. And there, in the center of the massive bed, nestled in a nest of pillows that Mira had clearly slept in with her, was Lily.
+
+She was awake. She was holding her own foot, examining her toes with deep concentration. She looked at Ren and let out a squeal of delight that melted his heart instantly.
+
+"Dada!" she babbled. (Or maybe it was "Gaga," but Ren heard "Dada.")
+
+Ren walked over and picked her up. She was warm, soft, and smelled of milk. The anxiety in his chest vanished.
+
+"Hey there, trouble," he whispered, kissing her forehead.
+
+Mira hovered nervously by the dresser, wringing her hands. "I will prepare her bath immediately, Master. I will—"
+
+"Later," Ren said. "Right now, I have business. Borin is downstairs. You two... get cleaned up. Eat breakfast. Take your time."
+
+He handed Lily back to Mira. "Guard her."
+
+Mira took the baby, clutching her like a lifeline. "With my life, Master."
+
+Ren nodded and walked out, leaving two very confused elves wondering why they weren't being beaten.
+
+. . .
+
+In the private study, Borin the Dwarf was pacing. He looked agitated, tugging on his braided beard. His boots were muddy, tracking dirt onto the expensive rug.
+
+"Master Ren," he grunted as Ren entered. "We have a situation."
+
+Ren sat down behind the desk. "Spirits? Did they tie your shoelaces together again?"
+
+"Worse," Borin said. "Or better. Depends on your perspective. We started clearing the site for the main house. Found a cave entrance hidden behind some thick vines. Looks like a den."
+
+"A monster den?"
+
+"Maybe. But inside... we found something." Borin lowered his voice, leaning over the desk. "Pups. Three of 'em. And the mother... she's dead. Big beast. Scars everywhere. Looks like she fought off something nasty before she went down."
+
+Ren frowned. "Wolves?"
+
+"Elemental Wolves," Borin corrected, his eyes gleaming. "I know beasts, boss. I worked the mines in the north. These aren't normal wolves. Their fur... it sparks. It shifts. High-tier magical beasts. Worth a fortune. People pay hundreds of gold for a pup. Loyal. Protective. Magic users."
+
+Ren’s interest piqued. "Protective?"
+
+"Aye. Best guards money can buy. And since it's on your land... by law, they're yours. Sylas probably knows more about the breeding, but even I can tell these are quality."
+
+Ren stood up. "Take me there."
+
+. . .
+
+The cave was located deep in the forest behind the inn, nestled in a rocky outcrop covered in moss. The air inside was cool and smelled of damp earth and something metallic, maybe blood.
+
+Ren activated [Universal Appraisal] as he entered the gloom. The HUD flickered to life, overlaying data on the shadows.
+
+The mother lay in the center of the cavern. She was massive, easily the size of a horse. Her fur was a matted mess of silver and grey, stained with dark blood.
+
+Ren scanned her.
+
+[Corpse: Fenrir (Lesser Strain)][Status: Deceased][Note: A mythical beast of legend. Extremely Rare. Powerful.]
+
+Ren’s breath caught. Not an Elemental Wolf. A Fenrir. A legend.
+
+He looked past the corpse. Huddled against the cold stone wall were three balls of fur. They were shaking, terrified.
+
+Ren approached slowly. "Hey there. It's okay."
+
+He scanned them.
+
+[Subject 1: Fenrir Pup (Male)][Element: Lightning / Storm][Potential: S-Rank]
+
+[Subject 2: Fenrir Pup (Male)][Element: Water / Ice][Potential: S-Rank]
+
+[Subject 3: Fenrir Pup (Female)][Element: Shadow / Stealth][Potential: S-Rank]
+
+Ren swallowed hard. They were baby calamities. If the kingdom found out he had Fenrir pups... they would hunt him down to the ends of the world.
+
+"They're starving," Ren noted, keeping his voice steady.
+
+He reached into his inventory and pulled out a slab of raw bison meat. He cut it into small strips.
+
+He held out a piece.
+
+The black one—the shadow pup—was the bravest. She sniffed the air, her tiny nose twitching. Then, she crept forward, snatched the meat, and darted back to her brothers.
+
+Ren smiled. "Good girl."
+
+He fed them until they stopped shaking. Then, he used his class skill: [Beast Tamer (Logistics Type)].
+
+"I offer you a contract," Ren whispered. "Food. Shelter. A pack."
+
+A soft, golden light enveloped the pups. They didn't resist. They felt the intent behind the magic—not dominance, but partnership.
+
+[TAMING SUCCESSFUL.][PLEASE NAME YOUR COMPANIONS.]
+
+Ren looked at them. The lightning one had fur that stood on end, crackling with static. The water was sleek, a deep, oceanic blue. The shadow one seemed to absorb the light around her.
+
+"Naming," Ren mused. "My specialty."
+
+[Ana: Please don't name them after condiments. No 'Mustard' or 'Relish'. I beg you.]
+
+"Fine," Ren thought. "Classic names. Two boys, one girl."
+
+He pointed to the lightning pup. "Stormy."He pointed to the water pup. "Frosty."He pointed to the shadow pup. "Smokey."
+
+[Ana: Groundbreaking. Truly inspiring.]
+
+"Hey, they fit," Ren defended. "And they're cute."
+
+The pups yipped, seemingly accepting their new identities. They bounded over to him, licking his hands with rough tongues. They were barely the size of his head, their tails wagging so hard their whole bodies shook.
+
+"Adorable," Ren said, scratching Smokey behind the ears. "Absolutely lethal, but adorable."
+
+Borin stepped forward, eyeing the massive corpse of the mother. He pulled out a knife.
+
+"What about the big one, boss?" Borin asked. "That pelt alone is worth a mansion. And the bones... You could make wands, tools, and armor. Even if it's just an Elemental Wolf, it's a gold mine."
+
+Ren looked at the mother. She had died defending her pups. She had fought to the bitter end.
+
+To skin her, to turn her into tools... it felt wrong. It felt disrespectful.
+
+And then there was the risk.
+
+"If I sell parts of a beast like this," Ren said slowly, "people will ask questions. They'll want to know where I found it. They'll come looking for the pups. And trust me, Borin..."
+
+Borin paused. He looked at Ren’s serious face.
+
+"No," Ren said. "We don't sell her."
+
+"Then what?"
+
+"We bury her," Ren said. "In the backyard. Deep. Under the new garden. She can watch over them."
+
+Borin stared at him. "You're burying a fortune? You crazy?"
+
+"It's my property," Ren said firmly. "And it's the right thing to do. Dig the hole, Borin. Add it to the bill."
+
+Borin shook his head, muttering about crazy merchants with too much gold, but he signaled his men.
+
+Ren walked out of the cave, three mythical puppies stumbling after his heels.
+
+[Ana: You know, Ren, at this rate, you're going to need to open an orphanage. First the elf, now the wolves. You're collecting strays.]
+
+"I'm building a family," Ren corrected. "A very... high-maintenance family."
+
+He picked up Smokey, who immediately tried to chew on his sleeve.
+
+"Welcome to the team," Ren told the pup. "Try not to eat the baby."
+
+[Ana: Or the mayonnaise. That stuff is expensive.]
+
+Ren laughed. He walked back toward the inn, surrounded by his new pack, ready to face the next challenge: potty training three Calamity class magical beasts in a hotel room.

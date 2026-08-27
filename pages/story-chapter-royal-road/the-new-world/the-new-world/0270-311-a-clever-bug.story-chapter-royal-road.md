@@ -1,0 +1,207 @@
+---
+id: 7bb9606d-789e-5e5b-8c81-9cdb1559f74e
+page-type-slug: story-chapter-royal-road
+title: "311 A Clever Bug"
+slug: 0270-311-a-clever-bug
+partOf: the-new-world
+position: 270
+ownLength: 2891
+unit: words
+ownProgress: 2891
+publishedAt: 2021-09-12
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/749419/311-a-clever-bug"
+royalRoadId: "749419"
+markedReadAt: "2026-06-29T21:30:27.497Z"
+---
+
+Helios nodded, opening a warp back to Svia. The calculating albony tilted his head, "Should we burrow down?"
+
+I rolled my shoulders, "Let's."
+
+Taking a stroll back onto Svia, we walked into Reason's colony right where we left off. Once again, the colony's drones communicated our presence, the blue bodyguards returning. Reason arrived with them. The elegant and deadly razor queen spread two tendrils of slime out as if they were arms,
+
+"What have you decided on?"
+
+I raised a hand, "We're going to burrow down and see about the insects. Afterward, we'll trace the bugs back to Plazia."
+
+Reason shivered, "That will never work. He will evade you."
+
+I raised a hand, "It didn't work for you, but it might for us. Let us try it out."
+
+"If you must, then do so. Be ready for war when you arrive at Svia's depths."
+
+"I am." Turning towards the others, my armor grinned with its eerie glare, "Are we all?"
+
+Florence winced under his mask, "Oh...most definitely."
+
+I pointed down, "Is this a good place to dig down?"
+
+Reason pointed a diamond-like claw at a tunnel leading down, "My children lie below. Some places are underdeveloped. You may carve into Svia there."
+
+She slithered, her form elongating into a serpentine shape. Once faster, Reason pumped her body at the edges of this slithering motion. This created a jumping gait, one that involved sideways leaping. It was like a ninja in some anime, honestly. We didn't follow suit, each of us running to keep pace.
+
+We passed a menagerie of tunnels and creatures. These sights displayed the slimes' tenacity. In one tunnel, lines of eggs formed into dark pods. These blots squirmed in their sacks before a pod burst outward from within. A caviar mash oozed out before bursting into a swarm of tiny, see-through bubbles. These translucent orbs infested an eldritch corpse before the slimes within began germinating.
+
+Eh, it was disgusting yet fascinating. Another burrow stacked itself from top to bottom with pillars of yellow slimes. The green drones rolled up to these masses, regurgitating bits of ores, each different in color. These metals fused into the yellow pillars, which then bubbled within. Those gases flowed up towards lichens on the roof, the fungi growing fleshy plumes towards these vents.
+
+Fragments from that process floated down these yellow stacks, shifting their coloration to a mellow bisque. These processed steels then funneled into dark piles like coal, which the drones carried off. The lichens above then dripped sweet nectar into various pools, each one reeking like rubbing alcohol and sugar.
+
+The blue bruisers drank from those pits, and they explained why the Ahcorus wouldn't mind facing the Hybrids. Killing Elysium's foot soldiers would give the slimes an enormous supply of food to generate more troops. Those resources supplanted their dying with newly rendered forces.
+
+At the same time, the bruisers themselves made for formidable enemies in their own right. Searching my memories, one of my minds sent over a status for my viewing pleasure while we reached the colony's depths.
+
+Ahcorus Bruiser(lvl 4,902 | Guild: Reason's Brood | Home: Svia | Species: Ahcorus | Variant: Spiker) - The Ahcorus bruisers are a guardsmen variant of the slimes. They are composed of alcoholic substructures, creating an utterly different biology than most conventional, carbon-based life forms. This results in high levels of flammability and a fermentation-oriented life cycle.
+
+They evolved this capacity through a symbiotic relationship with various bacteria within their gelatinous centers. Surrounding this cytoplasmic stratum, a thickened membrane protects the soft organelles within. These cell-like creatures move via hydraulic locomotion of this exterior membrane, which generates pressure they use to move.
+
+This softened inner form gives the Ahcorus immense freedom in whatever shape they choose to take. Given the bruiser's penchants for battle, they often take on multi-limbed forms. This particular variant of the bruisers specializes in generating keratinous spikes coated in a specialized enamel. Once formed within, these spikes puncture the outer membrane, locking in on threats.
+
+By shifting their form, they generate torrential forces to fire these spikes at enemies. This gives the spikers a long-ranged utility compared to their more mauling-oriented brethren. Be careful of their prowess, or else you'll end up skewered by them.
+
+That would be the case for most, but not you. They fear you.
+
+The status update contained so much info that it reminded me of a Wikipedia page, discharging enough detail to make me grimace. Any status update acted like that, and taking a glance at all those updates made my head spin, figuratively of course. Not having the time to read hundreds of pages, I only gazed at the written abstract instead of the complete documentation for that reason.
+
+Despite my misgivings, the statuses were interesting, and they let me finish the trip to the colony's recesses. There, the enamel coating on the walls turned thick enough that movement proved difficult for my team. The slimes put a haphazard structure of pillars throughout any tunnel, like a spider's nest of threads. They didn't need a wide-open space, so they flowed through the small gaps they left behind.
+
+Being over fifteen feet tall and quite solid, I couldn't do that.
+
+So, having a great idea, I ran right through these enamel pillars, the dust smelling like a dentist's office when my teeth got drilled. Gross as they were, the posts offered reinforcement the colony needed. I generated stone in place of these shattered struts so the settlement wouldn't collapse. Not pleased with my casual destruction of her tunnel system, Reason stopped flowing through her tunnel network,
+
+"This is deep enough. The damage you're doing far exceeds what's necessary for burrowing below. Here, you may choose to face Plazia as you wish."
+
+I gave her a thumbs-up, "Thank you. You're good to go."
+
+Several of the cerulean bruisers flowed up behind us, weaving between my freshly crafted struts. Reason shivered, "You wish to face Plazia's masses alone?"
+
+Remembering the sheer fallout from my other battles, I grimaced, "Absolutely. If it gets ugly, you're all going to die."
+
+Reason generated crystalline plates over her slimy body, making herself into the image of a flowing emerald coated in diamonds. She spread spiked limbs, "I am strong. I will help you."
+
+I took a step forward and reached out. I tapped her crystal armor. As I did, I generated a telekinetic pulse that shattered the front plate. The rigid structure fell down like glass as she pulled away. Lifting my other hand, I constructed a steel pillar from the tunnel's flooring.
+
+She leaped back, but I suspended her in a gravity well. The pillar stopped growing just shy of her exposed center. From that jagged shard, I expanded a dozen serrated spines of steel. Reason spoke through her telepathic pathway, "What is this? Are you an assassin from Gluttony? Perhaps Greed?"
+
+I frowned, "Naw." I flicked my wrist, the metal barb crumbling back down like aluminum foil. "I'm an example of what could happen to you, and in only a few seconds." I released her while lifting my fist up, "And I'm not trying here."
+
+Reason jiggled in anger, "Are you mocking me?"
+
+I shook my head, sending over my confidence telepathically, "No, I'm reminding you why you hired me for the job."
+
+Reason's spread-out body condensed into a more spherical blob. The razor queen calmed down, "Must you have used these methods to explain that?"
+
+I shook my head, "I didn't want to waste time arguing. I have an eldritch to kill, and I'm on a schedule."
+
+Reason paused, a tense silence passing over us. She shivered, "Is that so?"
+
+I nodded, "Yup."
+
+She jumped back and forth, "Then, then this is a joyous day. You are what we wished for, a bringer of death. This is worthy of celebration. Face our ancient enemy on your terms, and we will discuss the first of your battles once you return."
+
+I waved a hand, "We'll let you know how it turns out."
+
+Reason oozed away, funneling through her reinforced tunnels. Once they left, Helios muttered, "Thank you for avoiding that overlong explanation for why she needed to leave. I didn't want to sit through it."
+
+Amara tensed, "I as well."
+
+Florence frowned, "I think you could've spoken your way out of that concisely, if you so chose. Actions do speak louder than words, but it's good to remember that not every situation calls for yelling."
+
+I crossed my arms, "Hm, yeah, point taken." I pointed at Helios, "Do you mind creating a panel of void ice between us and the ground?"
+
+Skepticism traced Helios's face, "Why, exactly?"
+
+"I'm melting us down. I can survive that, but you guys might not."
+
+Helios leaned back, "How is this going to even work?"
+
+I leaned my head against two of my fingers, "Alright, never mind. Don't worry about it."
+
+Lifting a hand, I generated steel from mana, making a bubble of metal around us. On the top, a quintessence crystal lit our surroundings in white light. At the same time, another mind melted the stone below us and pulled us down with gravity. Yet another psyche cooled our inner sanctum while reinforcing it with an antigravity well, so it didn't crumble under the weight of Svia.
+
+Florence marveled as we fell down this makeshift elevator shaft, "Now this is something special." Florence put his hand on the smoothed bubble around us, "This is what magic is all about, isn't it?"
+
+Florence grinned at me, "Hah, you remind me of Obolis at times."
+
+I raised my eyebrows, "Let's hope so. We'll need something absurd for Plazia."
+
+Around us, the plating rumbled as we descended. Ringing taps rained down in an instant once we passed a certain depth. It reminded me of being under a tin roof while it rained bullets outside. Dents began forming over the steel covering us, and Amara slumped her shoulders,
+
+"Are...are we going to be alright?"
+
+I nodded, "For sure. We're going to be fine."
+
+Event Horizon spread outwards in all directions, the shifting aura evading my allies but smothering the area around us. The denting sounds evaporated before I pulled an arm back. Pushing it forward, I pulled my fingers together before stabbing through the steel. Feeling around outside, magma pooled around my fingers, verifying my suspicions. I winced,
+
+"Ok, so Reason might not be quite as ridiculous as I thought. We're in magma country right now, yet bugs are swarming outside. How? I have no idea."
+
+My team members gawked at me, each of them stunned. Even Helios blinked his blind eyes a few times, his relaxed demeanor cracking a bit,
+
+"We...we're surrounded by magma?"
+
+I scoffed, "What? Of course. We're like...at least a few miles deep by now."
+
+Cold sweat dripped from Florence and Amara's brows before our friendly eldritch mumbled, "Miles...Of magma?"
+
+I waved the fingers of my free hand, "Oh, most certainly. Now that I have you trapped here, all of you, prepare for your doom."
+
+Florence and Amara took my joke like I stabbed them through the chest. Each of them pushed their backs against the steel covering around them. Florence gulped, "It was all for this moment then...To think I trusted you."
+
+I burst into laughter, "Hah, what? You're going to be fine. Damn guys, it's a joke."
+
+Helios peered at his nails, still casual, "You may find yourself more humorous while in a more casual atmosphere. Death is looming around them at all angles while you laugh about it. That is creating a cognitive dissonance that's ruining their immediate judgments."
+
+Helios lifted his hand, the albony bored, "I'd recommend making them feel safer if you're willing."
+
+Leaning back, he was right. I shook my head before sighing, "Huh. Sorry guys, I just forgot this was, I don't know, unusual, I guess? I've been swimming through magma for a long time now. Years maybe?"
+
+Florence raised a hand as if he had a lot to say,
+
+"I...yes."
+
+Yup, they needed a break. I spun my finger in a tiny circle before stabbing my other hand into the steel sphere around us. As I pulled it aside before Florence and Amara cringed away from the rupture. Helios remained unperturbed. Beyond the steel, igneous rock surrounded us. Florence stared at it,
+
+"You chilled the magma?"
+
+I stared at a hand, "I did. It's something I've meant to do more of. I can control temperatures, but I've never really abused the cooling part of that. I've always stuck to heating objects more."
+
+Stretching out a hand, I materialized steel outwards while jerking stone away. This let me walk forward into a smooth tunnel supported by saturated gravity wells. I took a few steps before turning to the others, "You guys coming?"
+
+Even Helios took a sharp breath at that. The ice mage leaned back in disgust, "How are you even doing this?"
+
+I gave him a thumbs-up, "Cascading magics. Come on, let's go."
+
+We took a few steps out before the rain of insects returned. Event Horizon destroyed them once more before I turned to the others, "Guys, I'm going to go outside for a second. Can you keep this structure safe, Helios?"
+
+He nodded, "Void ice is extremely dense and hard. It may support us for a time, but we'll warp away if you're gone for more than a few minutes. I'm not dying out here because you're forgetful."
+
+I lowered myself into a molten pit of the steel, "I wouldn't expect you to. Keep them safe."
+
+I prevented the lava from erupting into the steel tunnel with gravity, and I cooled my helmet while I kept reading. Like that, I fell into the endless sea below, and I marveled at its size. I hardened the melted steel above before swimming through this vast, heated ocean. The immense pressure weighed on me like a blanket. The thick, liquid rock flowed over me like a summer breeze. Even the heat only seeped through like I dipped into a warm bath.
+
+The ambient white noise of rushing magma also rung out in all directions. It was like I surrounded myself in a waterfall, the pour so loud it silenced everything else. I enjoyed the peace of the place. I might even spend more time under the mantle on Earth after this, but now wasn't the time for thinking up leisure activities. Pulling myself back into the moment, I retracted Event Horizon. From this lava, living blots crashed into me from all angles.
+
+I formed pictures with my gravitational sense, making out the shape of these insects. They composed entirely of the surrounding lava, with no actual shells or blood making them up. From another perspective, I reached out with my sense for mana, finding they weren't truly alive, though they held a physical form.
+
+It was the same technique that Obolis used for his living magic, but simply far more developed. Plazia had embedded mana under Svia's crust, bringing these magma insects to life here, and these magical constructs prevented others from diving this deep. Considering the amount of mana required for this planetary enchantment, I smiled.
+
+Plazia was strong. Very strong.
+
+They darted in from all angles, their tiny minds fueled by their creator's commands. I tried grasping one, but it squeezed between my fingers before returning to its previous form. Several even fused together, rushing me like a world worm, battering at me like a raging bull. This enchantment would be challenging to handle for many people.
+
+But not me. I silenced the massive worm with Event Horizon, its life ending in an instant. For the other insects, I telepathically linked with many of them, discovering more about the magic. These weren't purely magical constructs; Plazia implanted the minds of his insects into the magma. That's how they retained permanence so well.
+
+This also meant Plazia still controlled them, and I found an enormous consciousness interacting with them from a distance. That subtle tethering reminded me of Lehesion's vast link. That wasn't because of this tether's strength but due to its toughness. Even if I jerked on these seemingly subtle connection points, they didn't snap.
+
+Considering how minuscule these bug's minds were and how large mine was, that was absolutely incredible. Testing a theory, I let loose on those anchoring points. No matter how I pulled, they stayed taut. They were unbreakable. Getting Plazia-Ruhl's attention, I jerked on those connections like a child yanking on pigtails.
+
+Seconds passed as the magma insects bit at me from all angles. They shattered claws, snapped teeth, and broke wings on my skin, unable to even scratch me. I found it fascinating how large the magic enchantment was, and it sparked my curiosity. I wasn't the only one curious, however.
+
+The enormous psyche from afar closed the gap, sending over a small fragment of itself here. This piece of Plazia's mind acted as an initial scout. Considering it ruled this underground domain, it must have found my presence baffling.
+
+Once it landed, I seized the mind's fragment around my own conscious, smothering it. It reached out with an insidious curiosity,
+
+"You who crawls beneath the mantle...Who are you, and how have you not perished amidst my inner sanctum?"
+
+I grinned, "Me? I'm Daniel Hillside." I spread my arms,
+
+"And I'm alive because I'm hard to kill."

@@ -1,0 +1,513 @@
+---
+id: 4a20e749-cfb4-5df9-9721-1ac3045bece6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 229: Total War"
+slug: 0154-chapter-229-total-war
+partOf: the-calamitous-bob-stubbed
+position: 154
+ownLength: 6299
+unit: words
+ownProgress: 6299
+publishedAt: 2025-11-08
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2743118/chapter-229-total-war"
+royalRoadId: "2743118"
+markedReadAt: "2026-06-29T21:19:55.977Z"
+---
+
+Crest watched the column advance with a sense of purpose. In the cold Paramese winter, the soldiers of the Kingdom of Maranor moved forth: Baranese, Shadowlanders, Helockians, men and women, veterans and green horns, all of them braving the cold with determination. Pristine snow covered the sleepy trees and the field beyond. It was also very quiet, the silence only broken by the crunch of boots and the breaths of hundreds of throats. That contrasting view was almost enough to forget all the horseshit.
+
+The army was moving south. Per Oleander’s orders, the kingdom was to secure Baran first by felling its king’s enemies, thus reuniting the nation in peaceful order. Crest was fully aware that such an approach followed the creed behind Oleander’s path, and that meant they would receive the blessing of the goddess every step of the way. It was a righteous decision. The old man’s wife had decided she knew better than him who should be heir, thus she had overstepped her role and forgotten her position. It was not a matter of gender or age here, but of seniority. Erezak was king of Baran, and Rosea was his queen, but he was the monarch. Order and the chain of command had been broken. They would be restored.
+
+People sometimes forgot that a good enough leader was much better than a perfect leader plus a civil war.
+
+Crest’s thoughts were disturbed when a Helockian scout returned on horseback, quickly climbing the hill he was waiting on alongside the Hopecrusher and a few dozen officers. They were the vanguard of an army almost a hundred thousand strong spilling over the literal horizon. That army needed eyes.
+
+“Report,” the Hopecrusher calmly demanded.
+
+His aura calmed the man, who had been fearful of the imposing elite. The Hopecrusher’s nickname wasn’t aimed at his own people. To them, he was a champion. The scout would understand that in time. They all would.
+
+“Sir, I return from Siden. The enemy has deserted the place.”
+
+The city could barely be seen in the distance. The lack of enemy patrols and encampments had already told Crest the Baranese rebels hadn’t waited to be wiped out, which wasn’t surprising.
+
+“There is more. I talked to the mayor who is willing to give us the key to the city. She mentioned that, as of yesterday, the portal network ceased to function.”
+
+Crest tilted his head at that.
+
+“Can you do whatever mages do to make it open again?” The Hopecrusher asked him in a way that was just short of rude.
+
+“I need to see it first,” Crest replied.
+
+“Then we ride.”
+
+The Hopecrusher left a junior officer in charge of the vanguard, only taking a small cavalry detachment with him, not that it would matter. The ride down the slope towards Siden was as uneventful as could be, the only signs of life puffy smoke rising from cottages buried under their icy blankets.The gates were open. A group of nervous notables waited beyond, standing on the icy pavement alongside a handful of city guards equipped with halberds and truncheons. They posed no threat.
+
+The Hopecrusher stopped in front of the mayor but he didn’t dismount from the massive black charger under him. It amused Crest that the man couldn’t fight on horseback so it was all just a show. From the terrified faces of the notables, it was working.
+
+“Welcome to Siden, my lords and ladies,” the mayor greeted.
+
+She was an old, dignified, dark-skinned woman wearing a warm green dress and a sash of office. The people with her appeared to be administrative paths. There were no warriors and no mages.
+
+“You welcome us, yet, a few weeks ago, you were welcoming the traitor Rosea and her cohorts with the same open arms,” The Hopecrusher said in a deceptively soft voice.
+
+To the mayor’s credit, she didn’t flinch. Crest could see sweat pearl on her skin but her eyes remained on the massive warlord.
+
+“We are a peaceful city, milord. War is not something we can pursue.”
+
+Translation: My citizens would all be burning corpses in a pile, you stupid cunt.
+
+“Yet war has come to you all the same,” the Hopecrusher replied in what simple-minded people would believe to be a good comeback.
+
+Gods but was this man full of himself.
+
+“I am sure my companions have many questions for you,” Crest interrupted. “But it is imperative I see the teleportation circle right now.”
+
+The mayor turned her attention to him. Her smile was a practiced one, fed by the hope this would stir the conversation towards a non-lethal ending.
+
+“Of course milord. My son, Tal, will guide you. Tal?”
+
+“Mother?” the younger man bleated.
+
+He could probably feel the tension. If Crest had ever raised a child, he, too, would have preferred to get him as far away from the Hopecrusher as possible.
+
+“This is acceptable,” the Hopecrusher said. “You and I will continue this conversation in the town hall, Captain Lis’sho will talk to your quartermaster, or whatever it is you call the one who knows what’s in your warehouses. Crest, a moment?”
+
+Crest set a privacy spell because he knew what was going to happen. The Hopecrusher’s expression didn’t change since people were watching, but his words were no less harsh for it.
+
+“Do not dare defy me in public again.”
+
+“Do not waste my time with grandstanding and I won’t have to do it.”
+
+“You are playing a dangerous game, Crest. Some have questioned your loyalty to the cause…”
+
+The threat was left hanging. Crest couldn’t have that. He almost wanted the Hopecrsuher to try his aura on him just so he could set things straight.
+
+“Just so we’re clear; first my contribution to the war effort is irreplaceable. Yours is not. Second, you are not my commander. My priority is transport and you’re getting in the way of it. You need to understand this well because I am only saying this once: only Nero can order me. Not you, not Jar’ko, not Erezak, not anyone. If you keep wasting my time I might just send you to cool off in Helock’s bay, and I can do it right now. We have a task to complete. You can crush hope on your own private time.”
+
+The Hopecrusher didn’t speak.
+
+“Just give me an excuse,” Crest said. “Do it.”
+
+He spread his arms. Crest’s confidence that he could send the Hopecrusher fifty leagues away before the man could even draw was rooted in confidence.
+
+“We will speak of this again.”
+
+“We will not,” Crest replied, and he unmade the enchantment.
+
+The short ride to the teleportation circle was awkward. Tal kept casting glances at Crest. They were filled with worry. The vulnerability in those annoyed Crest because Tal was very cute and a little submissive and that ignited all sorts of glyphs in the mage’s mind.
+
+It had been a long week.
+
+“Over there, milord.”
+
+“You may call me Crest, young Tal.”
+
+“Young? You don’t look much older than me!”
+
+“Oh but I am old, and I have traveled much. Ah, here we are. Oh.”
+
+The circle looked inert. It did so because there was a hidden, semi-active spell hidden under the complex layers of silverite-infused steel making the main teleport array. His eyes traveled over the workings with increasing fascination. It was witch magic. It was so much a witch approach to it that amusement and anger warred within his heart. There were no strict distance measurements, no energy fluctuation array to activate the spell at just the right amount of mana regardless of what people were pushing in. Instead, this portal linked to the previous one via a sort of identification tag that was so descriptive it had to work off visualization. And that visualization had been set at cast. And it didn’t even account for seasonal changes. And it still worked. It felt like the witch had kindly explained what to do to the planet, the planet had dutifully listened, understood and consented. It was insane. The fact she didn’t have a space-related path to back her up spoke of her skill and insight. He almost wanted to praise her, but this wouldn’t go over well with the other idiots.
+
+Wait, what was that?
+
+Crest observed an addition to the directional array even he didn’t use. It was curved? Why would it curve? And then it hit him. The arrow was following the curvature of the land so the spell wouldn’t have to go through the planet itself.
+
+“Oh, that is… brilliant!”
+
+The energy saved wouldn’t be that significant per cast, but for a static ritual spot used all year long, it would still make a nice difference in the end. Even he hadn’t thought of that. It was a pleasant bit of optimization.
+
+Crest felt extremely aggravated that he hadn’t thought of that first. Perhaps his path and being the only one who understood space among his peers had made him too complacent. Improvement didn’t stop at mastery.
+
+“Milord?”
+
+“One moment.”
+
+His attention turned to the second, hidden array deep within the earth. It must have been buried there during construction, invisible until it was activated. Crest’s mana perception allowed him to pick up two main components. The first was a kill switch. The second…
+
+“Ah, I see. This portal was remotely sabotaged.”
+
+“What, but… the empress…”
+
+Tal’s mouth closed with a snap.
+
+“I mean, your enemy. The enemy, yeah…”
+
+“Save the theatrics for the guys in armor. Yes, she told you she wouldn’t interfere with your portal?”
+
+“We were assured it couldn’t be tampered with easily, and that it was completely under our control!”
+
+“Not easily doesn’t mean it can’t be done, first, and second, the array is under your control. The contingency circle underneath it, however…”
+
+Crest shook his head.
+
+“Dammit.”
+
+So young…
+
+“So you can’t repair it?”
+
+“The intent is gone. That array is just a piece of metal now, and forcing a reactivation will trigger the second part of the contingency array.”
+
+“Would that be bad?”
+
+“Does the term ‘catastrophic cascading failure’ translate to non mages?”
+
+“Yes, very vividly,” Tal replied.
+
+He blushed a bit when he realized he’d gone into banter territory. Despite this being a shitty day, Crest was happy to see he still had it. Unfortunately, the shitty day returned knocking with a commotion several streets away. In summer, Crest would never have heard it but with everyone indoors and the snow swallowing most sounds, yells carried.
+
+“That’s towards the warehouse district,” Tal said. “Siden stores many goods for Helockian and Baranese merchants. Ahem. Sir.”
+
+“We’re done here. Let’s see what this is about before it makes us skip lunch.”
+
+“This way!”
+
+Crest took off at a dead run. He was reminded he should run more after two minutes of sprinting behind the sprite Tal. Damn teleportation was making him soft. As they arrived, all thoughts of exercise vacated his mind. A shadowland officer was currently screaming the ear off a frightened sashed merchant while the translator merely stood there not sure what to do. Indeed, how did one translate “your mother shoved a death eel up her nethers” to one who had never heard of a death eel before?
+
+“What is going on over here?” Crest asked in the ash tongue.
+
+The officer calmed down. His glare landed on Crest. The mage wasn’t moved by the hostility as he’d faced worse just a few minutes before, and he wasn’t surprised either. Shadowlanders were loyal to the Hopecrusher as a rule, and he currently wasn’t the man’s favorite person right now.
+
+“He said they sold their entire food surplus two weeks ago. Their granaries are mostly empty. There is just enough to feed the city until spring!”
+
+That made Crest frown. Memories of months of hunger in the Shadowlands returned. He forced his fists to relax.
+
+“You sold all your food? Do you intend to eat the gold?” he spat at the merchant.
+
+“We didn’t ‘sell all our food’. We entered a commodity repurchase agreement for excess goods: a banal transaction, I’ll have you know. Such agreements, options, futures and the likes have become commonplace over the past few years,” the merchant said with barely hidden disdain.
+
+Crest was forced to blink. He didn’t care about his image at this stage.
+
+“A repurchase fucking what?”
+
+“It’s a financial product that states that the seller, here us, is contractually obligated to buy back the goods at a fixed date, so in three months. We will buy it back at a lower price and the transportation risks are carried by the buyer. It’s a fairly good offer. We sometimes use it to move grain around to places that urgently need it”
+
+Crest refused to believe his ears. It couldn’t be possible. He had to be hallucinating.
+
+“You gave away most of your extra food at a fraction of the price to someone who said they’d bring everything back in three months? And you believed them?”
+
+“We have been working with that bank for over ten years and they’ve never led us astray,” the merchant replied, defensively. “While I appreciate your advice, I have been a merchant for my whole life. I am very sure this was a safe investment.”
+
+“Who made the offer? Who took the food away? Lead me to them. NOW!” Celerin Crest screamed.
+
+No food for the army? Unthinkable.
+
+The merchant was only too happy to redirect their anger and he was a fool to believe Crest would forget. Squads of Kingdom soldiers joined him on the way, attracted by the loud display. The path led to Siden’s central square, all of its prestigious businesses locked. Most of them, Crest realized, were banks. Not surprising for a merchant hub.
+
+“There, milord!”
+
+The edifice was recent and different from the rest of them. Stones and columns gave it an archaic and slightly sinister air. They didn’t need to make the stones so massive. The brutal style reminded him of —
+
+“Motherfucker.”
+
+“Milord?”
+
+A sign hung frozen from a steel bar. It displayed a golden scale but there was something sinuous and slightly disturbing about the design. The words were written in golden paint without the usual fluff and curlicues favored by the affluent.
+
+“Golden Scale Bank and Exchange? I recognize that name. You… you sold all the food to the Harrakan Empire?”
+
+The merchant opened and closed his mouth. Crest punched him before he could even think about it.
+
+“What is happening?” the Hopecrusher asked as he exited the town hall.
+
+“Those fools sold all their food reserves to the Harrakans for iron bits! With a promise it would be returned in spring. Those idiots! You lot. Search the place!”
+
+A quick ram spell made short work of the fortified entrance. Inside, the bank had the quiet of the tomb. As Crest followed his men inside, he noticed signs that he was far too late: burnt documents, empty safes, gutted drawers. A layer of dust covered everything. They had even taken the damn pens.
+
+He left the place filled with impotent rage.
+
+“The army needs more food,” Crest told the Hoperusher.
+
+For some reason, Celerin’s own fury had made the tall man calmer. When he spoke next, he was almost respectful,
+
+“Not to worry. As you said, they only sold the non-essential reserves.”
+
+The Hopeccrusher turned to the mayor tailing him.
+
+“It looks like your people are going hungry this winter.”
+
+Yes, the brute was right. The army would get their food. No matter what. Rage deflated, replaced by a strange, cold pit in his stomach.
+
+Why did he feel like he had fallen into a trap?
+
+***
+
+Between the winter, the persistent food supply problems that forced collecting parties being sent, and the sabotage of the portal network, Oleander’s travel south progressed at a snail’s pace. It didn’t help that the connecting roads had fallen into disrepair after ten years of minimal use. Northern Baran had to learn how to survive without teleportation again. Crest and his vanguard also discovered that it wasn’t just food that had been denied to them: many smiths had traveled to fulfil exotic orders while essential nail and iron reserves had been shuffled around and then mostly lost. The amount of money invested in frustrating Oleander’s advance was colossal, and that wasn’t all: the targeting of important supplies was so thorough and systematic, it must have been planned long in advance. Supplies were quickly dwindling. A month after landing, Oleander’s army had barely made it into the second duchy without a single battle. His army covered a large area, but it lacked direction.
+
+Three days later, the entire warehouse district in Helock went up in flames in a single night, destroying tens of thousands of gold talents in supplies. This, in turn, led to more foraging parties sent to search for grain before starvation could set in.
+
+The Kingdom of Maranor’s advance had crawled to a halt.
+
+***
+
+Nero watched the two prisoners with vague interest. It was pleasant to have something go his way, finally. Param had been very much a slog so far and he was eager to get things going. He noticed that they were not wearing collars. It was an oversight. Turning to an officer whose name he couldn’t remember, he pointed towards the pair.
+
+“Why are they not being restrained? The woman, especially.”
+
+The guard withered under his stare. The prison was a gilded cage sparsely decorated but comfortable enough by prisoners’ standards. Perhaps they believed the captives would receive preferential treatment. If so, they were wrong.
+
+“My apologies, my king. It will be done immediately.”
+
+The Enorian man standing next to the bed was clearly a warrior. His face was bruised and there was a scabbing wound on his sword hand, which didn’t prevent him from giving off an air of sullen defiance as he guarded the woman. She was older though high stats had kept her appearance youthful, with curly brown hair kept short. An open shirt showed bandages covering much of her chest. Droplets of fresh blood stained the base of her ribs. She was currently unconscious, skin pale and clammy. Jar’ko had stabbed her first.
+
+“Gil of Enoria,” Nero flatly greeted. “And this is… your mother?”
+
+“Stepmother and current paramour of my father, the king. Your attack without a declaration of war will not go unpunished.”
+
+There was little fear in Gil’s voice, only anger and a little bit of shame. Perhaps he believed he could have protected the woman if he had been a better warrior.
+
+Nero shook his head.
+
+“Oh that is where you are wrong. You see, I know your father obeyed the true Queen of the Gods as long as the temple had you in their custody.”
+
+“That was more than ten years ago. My father has other heirs now,” Gil replied.
+
+Courage. If only those who opposed him had less of that, less pride, and more understanding of what would make the world better. It was so tiring.
+
+“Commendable, but you see, your father could have made more heirs to begin with. Instead, he bowed to the temple, not out of faith but out of fear. This tells me he’s weak.”
+
+Gil took a step forward before quickly regaining his composure.
+
+“Many people have underestimated my father.”
+
+“I base my opinion on evidence. A true ruler must not balk at individual tragedies if they are to protect the nation. One who sacrifices the herd to save the kit has lost the right to lead. Your father’s love for you is a well known and easily exploited weakness. Now I have you and the woman he loves, and so he will fall in rank just like the others.”
+
+“We will see.”
+
+“There is nothing to see. Enoria already agreed to join us on our march.”
+
+Nero allowed himself a rare half-smile, though it turned bitter immediately after. Humans were so fundamentally flawed. Even the most talented ones never grew past their nature.
+
+“You are alive and will stay alive. That is all I need. Farewell.”
+
+As he left, he reiterated the need to have them contained by spells or collars. The woman was a witch of considerable power. She was too hurt to act now, but that would eventually change. Jar’ko’s knife wounds would help by keeping them in pain for weeks. Hopefully, the war would be over by then but he wasn’t taking any chances. As he left the jail in Helock’s castle, he spread his red wings.
+
+It felt amazing, freeing, to fly above the city. Griffin riders escorted him at a distance before returning to their duty, but no one approached him here. The peace was a welcome respite from leading vaguely loyal people through a war without battles, for the enemy had denied any engagement so far. After a while, he landed in the main camp near Siden. Crest was off to set up his own portals. The Hopecrusher was present, drilling new recruits into proper soldiers. The massive man approached him with reverence.
+
+“My lord?”
+
+“It occurs to me that I have an opportunity to solve the Baranese problem ahead of schedule— or at least simplify it. I will be gone for two to three days. Keep an eye out for trouble and our elites next to the food warehouses.”
+
+“My lord, some of them have been displeased with their posting…”
+
+Nero’s glare silenced him on the spot.
+
+“If they are tired of serving, do send them my way and I shall accept their…resignation in person.”
+
+He was going to kill them. No one left during a war.
+
+“Yes, my lord. I shall remind them.”
+
+“Good.”
+
+***
+
+Nero made full use of Crest’s basic portal network to travel south, then he flew. The truth, as he traveled, was that he didn’t need an army to win. He was The Immortal. He needed the army to control and mop up the opposition. Nothing prevented him from doing exactly what he intended to do: cut off the snake’s head.
+
+Queen Rosea of Baran was going to die.
+
+He flew for hours in a state of constant frustration, losing his way twice and having to fly down to villages just to demand direction. Orienting himself from the air was still an unfamiliar experience and the snow didn’t help. He eventually found the main Baranese army camp where he expected, slightly west of their capital. By then, the sun was setting over the winter landscape.
+
+The camp was so pathetically puny by comparison with his own. If only those fools could see the world like he could, they would join his cause; would cease their pointless struggle. He was doing this for them, after all.
+
+Nero frowned.
+
+The camp was also empty. He descended at a good speed, finding the tents and mana-built bunkers empty. It looked like everyone had left in a rush. Smithing equipment was still there.
+
+What was going on? Fortunately, there were tracks going in every direction. He followed a large group, flying at good speed. It took only around ten minutes of pursuit before a disorganized mass of footmen came into view, their breaths puffing in the pre-night air. They wore gambeson, kettle hats, and pole weapons. Backpacks hung from their tired shoulders. As he landed among them, their steps faltered. It was easy to blanket the area with his aura.
+
+“Told ya we shoulda split,” one of them bemoaned.
+
+“I’m sorry, brother,” another replied before the two fell silent.
+
+It was a pathetic sight. He grabbed one of the cowering wretches by the throat. His skin was red and damaged from the frozen temperatures. He smelled strongly of old sweat too, not an uncommon happenstance in winter.
+
+“Where is the queen?” he demanded in rusty Baranese.
+
+“I… I… I…”
+
+“Speak!”
+
+“I don’t know! I don’t even know if she was in the camp! We were told to split whenever you approached!”
+
+It took some effort for Nero not to blink.
+
+“You knew I was coming?”
+
+“Yes! The sergeant told us! I don’t know anymore, I swear!”
+
+Curses. Of course.
+
+“Tell me where the queen is.”
+
+“I don’t know,” the man sobbed.
+
+“Then you are of no use to me.”
+
+He snapped his neck, then grabbed another one.
+
+“Where is the queen?”
+
+“For… For Bara —aaah!”
+
+Someone drew a sword. Some of the footmen charged him. Others fled. It didn’t matter in the end. They were nothing to him. Nothing. He left their cooling corpses behind as a warning to the others, a poor use of his time but he would still make the best of it.
+
+“I need a knight,” he realized.
+
+The snow really saved him by showing fresh tracks. He found the imprint of horse hooves not far away and followed them. They soon merged with a small road. A brief look showed him that the freshest tracks — those at the top — led north, so he followed them. It took another five minutes to find a trotting knight leading a page on a gray palfrey.
+
+The knight was an old man, his beard more gray than black, and the inspection showed him to be on the fourth step. The page was unimportant. The old man must have felt something, because he turned to stare straight at Nero.
+
+There was nothing there except brief acceptance. The knight didn’t even try to run. He dismounted, then signaled for his page to make way. Nero landed at some distance. He noted in passing that the page was a young woman with muscular arms. That was different from his own experience of Baran decades before. Some things had changed.
+
+The knight took a swig of something, a very disrespectful gesture to Nero.
+
+“So, talk or fight right away?” he dared ask.
+
+“There isn’t going to be a fight,” Nero growled back.
+
+The knight tossed the flask away.
+
+“Figured.”
+
+“Where is the queen?”
+
+“Ah,” the knight replied with a bitter smile, “that’s the thing. None of us can betray our sovereign if none of us know anything to begin with. A brilliant idea, I must admit. Just like scattering was. The black witch’s idea. I can see its worth now.”
+
+“Are you telling me none of you know where Queen Rosea is?”
+
+“I myself cannot say. What I can tell you is that she’s not here. There are portals, hiding places, and the scouts knew you were coming.”
+
+Oleander grit his teeth. He had already failed, and he only had himself to blame as he knew damn well not everything could be solved solely with violence.
+
+“And before you ask, no I don't know how the scouts figured it out.”
+
+Clever.
+
+“I suppose I will find one and ask them.”
+
+“Whatever you say. I still have to wonder what is happening to your men since you’re away. Nobody to protect them now,” the knight said nonchalantly.
+
+“They do not need protection.”
+
+“Ay, I thought I didn’t need protection either.”
+
+Nero breathed deep, forcing his anger back. This was just a step, another task in a tedious yet necessary process to save mankind from its own flaws. Nothing more. He had to grow more detached.
+
+“Baran is always more resilient than people believe. We survived Harrak at its peak, lad, and we will survive you too.”
+
+“I assume from the banter that you have nothing of interest left to say,” Oleander concluded.
+
+The old knight had cleared his blade by the time Nero struck him, but there were two steps between them and that was a gap no one could fill. He fell with Nero’s hand in his chest. There was no need to draw Leveler from its sheath for the likes of him.
+
+“Spare… the guh,” the knight hiccuped.
+
+Nero considered his request, realized he had no messages to convey and so he killed her as well. A brief flash of mana melted enough snow to wash the gore off his gauntlet, then he was up and flying into the night. Something the old knight had said about protecting his army bothered him.
+
+***
+
+Erezak couldn’t sleep. His back hurt. His knees hurt. Every time he lied down, a hissing sound from his lungs forced wet coughs, keeping him awake through sheer discomfort. Not even wine could force him to close his eyes since it has been banned by his physician. The repeated flares of gout had finally forced him to relent, as he couldn’t spend an hour per day being attended by disapproving priests.
+
+Old age was a shipwreck. It was… inevitable. He just needed to hold on for another ten years. Ten years and his second oldest would be ready. His tutors all approved of his progress in a great many disciplines. Erezak could tell the 40 years old man was chafing at the bit from all the training, but Erezak was an old snakehound and he knew his successor needed to be truly ready to face the hard times ahead.
+
+He considered asking for something hot. Maybe klod. With an effort, he sat himself up in the bed, cursing as his spine cracked like an old house. The room was too cold. It was only a duke’s guest quarters. Oleander had claimed the duke’s own rooms for himself and there was no helping it, even if he was away.
+
+Erezak reached for the bell and found it missing.
+
+He was absolutely sure it had been there. Annoyance gave way to surprise. Surprise gave way to concern.
+
+The shadows stirred.
+
+Concern gave way to terror. The dark unfolded until a smiling mask shone under the pale rays of the moons peeking through a skylight. A locked, heavily enchanted skylight.
+
+“Hellow.”
+
+That voice had haunted his dreams.
+
+“You…”
+
+“Yes,” Irao said. “Me.”
+
+Erezak refused to believe he was already dead. He had lasted three hundred years. Three. Hundred. Years. He wouldn’t die to some cursed experiment.
+
+“You are a fool to show yourself,” Erezak spat. “I can’t wait to watch Oleander pull you apart, freak. You will regret it.”
+
+“He is not here,” Irao said. “Only we are here. Together. After so long.”
+
+The mask was suddenly much closer. Erezak licked his lips. That anger was unseemly. He was a king, for Maranor’s sake.
+
+“Yes, well. You have done a great job in the past. Your help proved instrumental in my success, I must admit. It was unfortunate that you decided to leave. Listen, I know skill when I see it. I will intercede in your favor so Oleander looks upon you favorably. He might be zealous but he is, above all, a realist. All lords need assassins when a single blade can accomplish what armies cannot.”
+
+A knife appeared in the figure’s hand. Erezak forced himself to swallow.
+
+“On that last point, I agree.”
+
+The figure lifted the blade, catching silver light.
+
+“We did make a good alliance. You did give me money. I couldn’t spend that money because I couldn’t show my face. I didn’t want a throne in the gutters. I wanted a home. You promised me that you would give me one. You promised for a long time. There were always reasons why it couldn’t be done.”
+
+He sighed.
+
+“So many reasons.”
+
+Somehow, the mask was now serious. Erezak looked into cat-like eyes. There was an intensity there he had never seen before. He didn’t even believe hadals could feel anything.
+
+“It was a mistake to let me have a dream when you couldn’t deliver. After I left, I looked for that dream for a long time. We did make homes, but… we need humans. We need to be anchored. Otherwise, some of us become despondent.”
+
+Erezak’s mind searched the room for salvation. Anything to save him. He knew screaming wouldn’t help.
+
+“I met her. She gave me that home. She gave it to me as soon as she had a town under her control. After centuries of waiting, I realized.”
+
+The mask was very close now.
+
+“It really was that simple.”
+
+“You’re making a mistake.”
+
+“I am very confident that I am not. I just wanted you to know. It feels important for me to let you know. I also wanted to savor the moment.”
+
+Erezak reached for the table and found only air. He had no options. Suddenly, the mask pulled back.
+
+“It is not every day that I get to kill a king.”
+
+***
+
+Sidjin felt guilty. He was still going to do it, but he knew his actions would lead to the death of people he held dear. The world didn’t care about his qualms. It would keep on turning. People were always going to die for important things. The only thing he could do was to be there with them, bleed alongside them, and hopefully, win. He adjusted his elaborate black and silver robe one last time, checked his staff, and walked through the portal.
+
+The exit location was at the edge of the large pit in which Sikoua, Peace at Last, had expanded: a vertical city of bridges and hanging vegetation inside the Deadshield Woods. During the day, polished stones directed the sunlight deep into its bowels while at night, logs from the ever-replenishing forest warmed its walls. It was a beautiful sight at any time. Even now the ice couldn’t defeat the merl’s powerful drive to stay warm. It was a monument to endurance and the impact a single, difficult decision could have.
+
+“It was worth it, after all,” he whispered to himself.
+
+Then he returned his attention to Sikoua’s entrance, marked by a stone arch decorated with the names of the elders who’d died since the city’s founding. There was an elevator to the side but it was barred and inactive. Lines of torches led inward. Warriors stared at him from behind bone masks, their bodies warmed by beast skins. Spears and Harrakan-made throwing axes hung from their belts. They were eerily quiet.
+
+A long walk down, then.
+
+Sidjin didn’t speak on his way. Merls of all ages but mostly the young ones touched his heavy cloak as he passed them by: warriors, hunters, merchants, orchard keepers, crafters. He wanted to stop and greet them. He recognized some of the older ones by name. He didn’t. The moment was as important to them as it was to him. He could also tell they knew why he had called for an official meeting.
+
+It had been a good decision to come alone. It felt like old times, back on the wall, when there had been only merls by his side. It made him miss his old friend Siul.
+
+About halfway down, one of the warriors started to hum. He was joined quickly by most of the others. The song wasn’t exactly a happy one but the way it resonated spoke to him of unity. The merl punctuated the end of each choir by slamming their weapons on something solid. The loud thud came as a shock. It was a beating heart that couldn’t be extinguished. The first spiders appeared as well. Many of those were old and scarred, warriors, not the silk weavers he had grown used to seeing. It was at the bottom of the pit that he found those his inspection called ‘siege tarantulas’: enormous beasts carrying two dozen archers on their armored backs. The matriarch was here as well though only her head poked through a cavernous entrance.
+
+Sidjin was moved to see that the path ended at the foot of his statue. At his instance, they’d left it basic just the way it had been carved when they first arrived. The merl’s ruling council waited for him in solemn silence.
+
+He stopped before them, allowing the current leader, the ancient shaman Tweek, to address him as tradition dictated. Well, ancient for a merl. He was almost fifty.
+
+“Friend Sidjin, our savior. You who suffered in our name. You who brought us, and held the gates until we were all away. You asked for us. You have a request. Let us hear it.”
+
+He was talking to him in Harrakan as a gesture of respect. Sidjin’s own merl was heavily accented, so he used a sound enchantment to help him. He had practiced for this.
+
+It felt important to give them the respect he didn’t owe them, but he felt they deserved anyway.
+
+“My friends. A great war is upon Harrak. The enemies are numberless. They will come to our home to destroy us. We cannot win alone. I come to you in my hour of need with a request.”
+
+He took a deep breath.
+
+“We have shared food, and water, and iron. Now I ask that you share your blood as well, and for that, I am sorry, but we need your valor. Please help us.”
+
+The leader of the council didn’t reply immediately. It took him some time to force the words out.
+
+“I was there on the wall when you fought with us. I watched your back disappear through the closing portal when you guarded our escape. I remember the great war. When you call for the merls, you will never receive silence.”
+
+He slowly lifted his office staff above his head. When it reached all the way up, he screamed. The rest of the merl screamed with him.
+
+The sound hit Sidjin like a wall. He remembered hearing it in Glastia. Back then, it had been defiant, sometimes even desperate. Now it spoke of a reborn people. The spiders joined the chorus by drumming on the ground with their front legs, but it was only when the barn-sized matriarch emerged from her cavern covered in enchanted harness and armored plates that Sidjin knew the merl hadn’t just been waiting for him, they’d been ready. And he was going to need a bigger portal.

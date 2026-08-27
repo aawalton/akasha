@@ -1,0 +1,153 @@
+---
+id: 62a4d91f-2f41-5f90-ac0b-6d1d88a217c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Snacks Before Winter"
+slug: 0007-chapter-6-snacks-before-winter
+partOf: reborn-as-a-demonic-tree
+position: 7
+ownLength: 1567
+unit: words
+ownProgress: 1567
+publishedAt: 2023-01-07
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081482/chapter-6-snacks-before-winter"
+royalRoadId: "1081482"
+markedReadAt: "2026-06-29T19:01:43.589Z"
+---
+
+Ashlock stirred from his short sleep as the sun crested the horizon.
+
+Since his view range was limited, even with his {Eye of the Tree God} skill Ashlock saw the world as if he were in a snow globe.
+
+He had a perfect sphere of vision in all directions for a few miles, meaning he couldn't see the sun. But its pleasant warmth pierced the clouds and illuminated the central courtyard.
+
+Shredded clothes dyed in dried blood littered the courtyard alongside bits of metal from half-destroyed weapons.
+
+Ashlock gazed upon the source of all this mess, a sleeping blonde-haired girl a few feet away.
+
+Her back rose and fell in a steady rhythm, and her breath swayed the purple grass dripping in her drool that tickled her nose. Stella was alive... Ashlock was no doctor, but from a glance, it would be impossible to survive the night with such injuries for a human back on Earth.
+
+"It's moments like these that truly remind me I'm in a new world. Magic is just the manifestation of the world. I've seen a sword covered in flames back on Earth. But a person smashing a boulder with their bare hands or teleporting halfway across the courtyard in a single step? Now that was truly magical. And seeing Stella survive such a fight with her body barely intact was something I could never see back on Earth."
+
+Feeling bored, Ashlock summoned the daily sign-in.
+
+Idletree Daily Sign-In System
+
+Day: 1819
+
+Daily Credit: 1
+
+Sacrifice Credit: 120
+
+[Sign in?]
+
+"Yes." Ashlock decided this would be his last sign-in before a long sleep. Winter was coming, and retaining consciousness during the dark winter felt worse than his withdrawals from energy drinks.
+
+[Sign in successful, 121 credits consumed…]
+
+[Unlocked a C-grade skill: Hibernate]
+
+"Hibernate?" Ashlock concentrated on the skill, and its meaning materialized in his mind—the feeling was similar to deja vu.
+
+"Another type of meditation?"
+
+The skill had two functions. First, he would set a timer and enter deep sleep when activated. Nothing except exceptional circumstances would awaken him until the timer was complete.
+
+The second feature was that the longer he was asleep, the faster his cultivation became. The buff was small, but over a long period, it would add up.
+
+Ashlock practically cried tears of joy. "Finally!" He had a way of sleeping through all the girl's ramblings and not being awoken every time she entered the courtyard. This skill obviously had some disadvantages, but it was overall an excellent addition to his arsenal.
+
+A few hours passed as the sun climbed the sky, and sometime around midday, Stella's eyes opened, and she let out a long groan.
+
+Purple fire sprung to life, and Stella rolled over and looked at the sky with squinted eyes. "I lived..." She muttered as she held up a hand to shield her eyes from the sun. A single tear ran down her cheek as she lay there for a while.
+
+It was hard to remember she was just a young girl, seemingly without any family living alone on a mountain peak when she went around slaughtering so many people.
+
+Half an hour passed, and the rumbling of Stella's stomach forced her to get up. Only now did she look at Ashlock, and a smile bloomed on her face seeing the tree was still there. She looked closer at the scarlet leaves drifting in the autumn breeze and noticed the variety of fruits dangling from the branches.
+
+"Can I eat some?" Stella asked as she tried to stand on her tiptoes to reach the low-hanging fruit. Although Ashlock was relatively short for a tree, Stella was both short and young, so she struggled to reach up.
+
+Ashlock was sure she had a trick up her sleeve, but she looked haggard, and her purple flames flickered. Looking back at his {Qi Fruit Production} menu, there was an option to discharge a grown fruit. Clicking it, a tiny bit of Qi was used to break the stem, causing a bundle of red berries to fall into Stella's waiting hand.
+
+"Thank you, tree!" Stella gave a thumbs up, and without debating if they were poisonous, she swallowed them in a single gulp... which she instantly regretted. "Bleh... Tree these taste like grass and sap."
+
+The girl surprisingly ate them all, but she had a disgusted face—which transitioned into one of surprise as Qi rushed through her body. It was weak, but with the entire bundle of berries combined, it was enough to refill her depleted Qi reserves a little.
+
+"Taste better than Qi restoration weeds, at least..." Stella stood under the tree with her hands cupped. "Can I have some more?" A few moments passed, and nothing fell—Stella pouted, "They taste good! Better than any other cultivation supplements!"
+
+Only then did a single purple with black spots fruit plop into her hand. This time, she eyed the fruit more cautiously and took a hesitant bite. "Ugh, so bitter." Stella almost choked on the piece of fruit... "I mean, I like bitter things!" Steeling her resolve, she swallowed the entire thing and gagged.
+
+Ashlock sighed as he watched the dumb girl attempt to please a tree. He intended to withhold the fruit to prove he could understand her, not to make her torture herself by eating his tasteless fruit in a vain attempt to curry favor with him.
+
+The rest of the afternoon was spent by Stella pleading for berries and fruit and Ashlock providing them. Ashlock was glad to get rid of them as it freed up space to grow some nice fruit.
+
+However, a bit of his pride was hurt watching the girl almost die while trying to eat his fruit. "Feels like when mom used to refuse to eat my cooking..." The experience left a sour taste in his mouth, so he brought up the menu and invested everything into a single fruit in a momentary lapse in judgment.
+
+Ashlock felt Qi get sucked from his body down his thickest branch, and a watermelon-sized fruit with a golden color began its development.
+
+[Time till completion: 6 months]
+
+A bit of a waste, but oh well. Ashlock returned his attention to Stella, who looked a lot better. The abundant Qi helped restore her weary body to its peak condition.
+
+"Tree, I know you can understand me now!" Stella proclaimed with a bit of berry juice smeared on her face. "Don't sleep just yet. Help me dispose of the evidence."
+
+Before Ashlock could ask what she meant—not that he could ask anyway—the girl had wandered off. "Dispose of the evidence?" Ashlock's eyes drifted to the shredded remains of a grey servant robe. "Ah..."
+
+An hour later, there was a pile of servants in the courtyard.
+
+Stella had found a few servants still alive hiding throughout the pavilion, but she slaughtered them all.
+
+Ashlock didn't know the customs or rules here, but it seemed even the servants expected their own demise. "I guess even if they weren't accomplices to the intruders working for house Ravenborne, they still didn't come to their master's aid and instead cowered away under tables."
+
+"Right," Stella said while she brushed her hands off on her tattered robe. "I know most trees sleep through the winter, and you also seemed to sleep a lot." Stella tapped her nose. "When you are asleep, the flow of your Qi is very stable compared to when you are awake. I can tell..."
+
+The girl seemed very proud of herself, and Ashlock was relieved he didn't have to scream into the void in frustration.
+
+Alas, it seemed the girl hadn't figured out that he would prefer to sleep all year round uninterrupted. But it was the small victories that mattered here.
+
+Stella took a step back so Ashlock could get to work.
+
+{Devour} activated, and vines crawled over the human pyramid. A stream of alerts shot past his mind informing him of acquired sacrifice credits. In total, there were over a... hundred such notifications.
+
+Hours passed, and [+736 SC] was the final total as the vines retreated into the ground. Unfortunately, Ashlock didn't have time to enjoy the increased credits as the surge of Qi inside his body was unfathomable. Ashlock mashed the create button as fast as he could on the watermelon-sized golden fruits.
+
+At some point, Stella had walked off to get changed into less ravaged clothes while Ashlock battled for his life to not explode from the rampaging Qi. Eventually, it was done after fighting all night... the sun of a new day appeared. Not only was he dripped out with enough golden fruit to feed an entire family, but he had also advanced two realms.
+
+[Demonic Spirit Sapling (Age: 4)]
+
+[Qi Realm: 6th Stage]
+
+[Skills…]
+
+{Eye of the Tree God[A]}
+
+{Language of the World[B]}
+
+{Qi Fruit Production[C]}
+
+{Devour[C]}
+
+{Hibernate[C]}
+
+{Basic Meditation[F]}
+
+{Basic Poison Resistance [F]}
+
+Ashlock also checked the daily sign-in.
+
+Idletree Daily Sign-In System
+
+Day: 1819
+
+Daily Credit: 1
+
+Sacrifice Credit: 856
+
+[Sign in?]
+
+"No." Ashlock wanted to get another A-grade draw. However, he would need a thousand points combined, so he decided to save them.
+
+Looking around the courtyard, Stella was nowhere to be found, but Ashlock was beyond caring.
+
+He was mentally exhausted, and sleep was calling his name.
+
+Activating his new skill {Hibernate}, he input six months and felt a timer appear in his head, counting the 180 days until his awakening.

@@ -1,0 +1,239 @@
+---
+id: 8fbc0e7a-16da-5335-8520-679ab4a28681
+page-type-slug: story-chapter-royal-road
+title: "Chapter 603: Freedom"
+slug: 0127-chapter-603-freedom
+partOf: reborn-as-a-demonic-tree
+position: 127
+ownLength: 2891
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3805615/chapter-603-freedom"
+royalRoadId: "3805615"
+---
+
+For days, Ashlock had overseen Ao Lingxuan, chained in Tartarus, with a heavy heart. The massive dragon served as a mirror for what was happening to Stella, and if not for Sol endlessly healing him, the Monarch ice dragon would have died many times over.
+
+Demonic mist hanging in the room condensed into the winged demoness form of Diana.
+
+"The battle over Desolark City has concluded in a resounding victory," Diana informed him.
+
+"Mhm, that's good," Ashlock absentmindedly replied with little enthusiasm. He knew Diana deserved a better answer, but he didn't have the energy to give it. The events of recent days, combined with no sleep or rest, had left him a hollow shell of his former self.
+
+Diana glanced at Ao Lingxuan. The sound of the dragon's primordial ice scales shattering from invisible attacks transmitted through the soul link made her wince.
+
+"Just what are they doing to her?" Diana muttered, shaking her head in sadness.
+
+Ashlock didn't have an answer, which only made him feel worse. In a single decade, he had amassed all this power and ruled over a sect that could contend with the Celestial Empire, yet it wasn't enough.
+
+It was never enough.
+
+In this ruthless world, it was pointless to look down and feel content with how far you've climbed. The only way to survive was to look up, lest you get crushed by a powerhouse from above.
+
+Stella's hubris had gotten her captured, leaving him to search for a powerful foe he didn't understand to try to rescue her. But that didn't faze Ashlock. He would rise and ignite the very heavens if that would smoke the bastard out.
+
+Because he knew Stella would do the same for him.
+
+The shadow realm suddenly trembled.
+
+"Nox?" Ashlock snapped to attention. "What is happening?"
+
+"Huge soul pressure inbound," Nox urgently replied.
+
+"Stella?" Ashlock asked hopefully. He was so desperate to see her again that he wouldn't mind if her soul were stuck in the body of an ice dragon. So long as she was safe, they could figure it out.
+
+"No," Nox said, shooting down his hopes. "This soul pressure is far bigger—"
+
+Both flanks of Ao Lingxuan's scales abruptly detonated at once, sending shards of ice blasting outward. Sol was too close to react in time, so his body was impaled by shards of ice the size of a person and was sent stumbling back. Diana's form swirled as ice flew through her, and Nox's avatar retreated into the shadows to her tree that was away in another part of Tartarus.
+
+Streaks of golden light beamed out of Ao Lingxuan's eyes and mouth, strength swelling in his body, and the mighty dragon rose, breaking the restraints with ease.
+
+Ashlock portaled Nyxalia and Maple into the room without delay. Nyxalia had healed after devouring a disturbing number of Nascent Soul Realm corpses, and Maple was in his squirrel form, floating at her side.
+
+Maple took one look at Ao Lingxuan and confirmed Ashlock's deepest fear.
+
+"The soul link with Stella has been broken," Maple said.
+
+Ashlock felt something in him break.
+
+"But I haven't been sent back to the void," Maple quickly added before Ashlock spiraled into a pit of despair. "Meaning I haven't failed our contract. Stella is still alive, somewhere out there."
+
+Ashlock snapped back to reality.
+
+"Really?" Ashlock double-checked whether that was true.
+
+Maple glanced back at him with a disapproving look. "You're the one who bound me to this plane of reality with that contract. Shouldn't you know it better than me?"
+
+Ashlock didn't answer, since it had been the system that managed all of that. But Maple did have a point. If the mutual contract they had made hadn't been voided, the heavens had to consider Stella still alive somewhere.
+
+That led to the question of who was inhabiting Ao Lingxuan right now?
+
+Free from his restraints, Ao Lingxuan rampaged through the space as if unused to a four-legged body. "HOW DARE HE STEAL WHAT IS MINE," Ao Lingxuan roared, his Qi-empowered voice alone having the strength to disperse Diana's clone.
+
+Thanatos appeared from the shadows, and Ashlock asked the dragon through him.
+
+"What was stolen from you?"
+
+"MY VESSEL," the dragon roared, "STELLA CRESTFALLEN, MY GLORIOUS CREATION WAS TAKEN FROM ME BY THAT ENVIOUS BASTARD!"
+
+"That confirms it then," Ashlock said as he had Thanatos horizontally draw his demonic sword from a rift. "You are the Crowned One I've heard so much about."
+
+The dragon paused at the name and bothered to look at Thanatos and the other people in the room for the first time. "So this is where the soul link led to," the Crowned One sneered. "A group of weaklings praying for her return, without the strength to save her themselves—"
+
+Maple's tiny form shot forward like a bullet and punched the titanic dragon's chin. Overlapping scales the size of shields buckled inward with a sharp, splintering crack, and the entire beast was hurled onto its back, almost breaking Tartarus in the process.
+
+"Who dares hit me!" The Crowned One, inhabiting the dragon, demanded, coming to his senses a little. He arched his head and saw Maple floating over him. "A squirrel?" he snorted in amusement. "Kneel before me."
+
+An unusual pressure Ashlock had never sensed before pressed down on Maple with the full authority of a high-ranking Monarch, but the Worldwalker didn't so much as flinch even as Tartarus collapsed around them.
+
+"What?" the Crowned One seemed in disbelief, his eyes narrowing. "Just what are you?"
+
+"What am I?" Maple's soft white fur began to shed, drifting upward in slow motion as if reality had forgotten which way was down. His tiny body inverted, then unfolded in an impossible fashion. "I don't think that's a question you want the answer to."
+
+The Crowned One went deathly still.
+
+Where the squirrel had been, a mountain of dark, slick mass ballooned outward, covered with chitinous limbs and rivers of writhing tendrils that did not move so much as exist in multiple positions at once. Dozens of golden honey eyes opened across its surface like ulcers, each one fixed on the Crowned One with the patient hunger of something that had been around since the World Tree grew its first shoot. The air around Maple's incomprehensible form seemed to be swallowed, as if he were emerging from an abyssal void.
+
+Reality screamed in protest of Maple's transformation.
+
+"Your..." the Crowned One said, the word stuck in his throat. "I've s-seen your k-kind before," he stuttered. "S-stay back. You shouldn't even b-be here! It's not possible!"
+
+The Crowned One twisted his broken body and tried to get to his feet, only for an otherworldly limb to lurch out of an angle that hadn't existed a moment ago and strike the Crowned One's throat, pinning the shattered ice dragon to the floor. The scales beneath the limb didn't crack from the impact—they simply ceased, dissolving into nothing where Maple's void flesh met them.
+
+"I decide if you leave or not," Maple's voice came from everywhere at once, an echo with no origin. His usual juvenile-sounding tone was replaced with the hollowness of an ancient monster. He loomed closer. "Now, I have a few questions."
+
+"Stay back!" the Crowned One roared, the regal cadence cracking into something raw. "KNEEL!" He poured everything he had into the command. It crashed into Maple and slid off his impossible form like rain running off a smooth rock.
+
+The Crowned One squirmed under Maple's approach and did something Ashlock never expected. He broke down.
+
+"Let me go!" the Crowned One cried out. "Please, I beg of you."
+
+Maple laughed, and it was the worst sound Ashlock had ever heard.
+
+"Forgiveness is reserved for those who haven't harmed Stella," Maple whispered, his tone laced with malice as his void tendrils dug into the body in search of the Crowned One's soul.
+
+As much as Ashlock wanted to watch the Crowned One suffer, he found himself instinctually looking away, as if his mind wished to reject what he was witnessing. Yet, even while turning a blind eye to the atrocities, he was haunted by the Crowned One's howls of pain, which echoed throughout Tartarus. Trying his best to block out the sound, he heard a voice calling out to him.
+
+"Ashlock..."
+
+He latched onto the voice and discovered it was coming through his roots.
+
+"The World Tree?!" He rushed out of Tartarus and replied to the voice echoing through the World Tree's continent-spanning roots. "Hello? I'm here," he called out, a little too desperately. "Are you free from the formations?"
+
+"That I am," the World Tree calmly replied, "and so is our daughter."
+
+Ashlock froze, unsure if he had heard her right.
+
+"She's approaching an opening in my trunk and will be out shortly."
+
+Ashlock was already on the move. His presence thundered through his root network, arriving at the Celestial Empire in record time. Making full use of his Gaze of the Tree God skill's omnidirectional aerial view, he poured in Qi to pierce any illusions or barriers and expanded his view to its limit.
+
+"Where is she? Here? No. Where? Maybe up here—" his frantic search came to an abrupt end.
+
+There she was.
+
+Stella stood at a large opening in the World Tree's trunk, around halfway up. Barefoot, bloody, and broken, but alive. She was gazing out at the horizon with a mellow expression, while the breeze whipped her blood-stained hair across her face as she leaned against the side with an extended arm.
+
+If Ashlock saw Stella in such a condition any other time, he would have been sent into a frenzy. But right now, he felt nothing but immense relief. Tension throughout his root network relaxed, his Soul Forest skill fizzled into the background, and for the first time in days, his mind was silent and calm.
+
+Stella noticed his arrival and glanced in his direction. "Ash," she rasped, a small and weak smile breaking out across her face. "I'm free."
+
+"Stella..." Ashlock muttered, too stunned to say anything else. He had spent every waking moment over the last few days longing for this moment with every fiber of his being, and now it was here.
+
+Stella stepped out into the open air, her Monarch Realm cultivation allowing her to defy gravity and float with ease thousands of meters in the air. She drifted toward him while keeping her eyes on the horizon, toward her home.
+
+"Did we win?" she asked softly, as if she feared the answer.
+
+"Win?" Ashlock repeated slowly. "What are you talking about?"
+
+"The war?" Stella asked, tilting her head in confusion as if she were the crazy one. "The Celestial Empire? Our life goal until now was to conquer it and free my mother. Is it over now? Did we win? Was the Empire defeated?"
+
+"Oh." Ashlock paused. "Right. The war."
+
+He looked around them as if waking up from a daze.
+
+Floridawn had been conquered for as far as the eye could see. Empyrea, the once mighty capital of the Empire, lay in ruins in the wake of the ballroom battle. The few remaining Monarchs had fled to the canopy while the World Tree was finally free of her restraints. Even their fleets sent to destroy him had been obliterated. Meanwhile, the person who started this all, was trapped in a dragon and being eaten alive by a Worldwalker in their shadow prison.
+
+Ashlock and his sect had planned for and built up to this invasion for a long time, yet it had started and ended all because of her. An Empire that had dominated the ninth layer of creation for as long as written history had fallen in a week.
+
+All because he wanted to bring his daughter home.
+
+He looked at Stella.
+
+She stared back at him.
+
+"Yes, we won." Ashlock said after a while. "But you're safe, that's all that matters to me."
+
+Stella smiled at that. "I'm glad you're safe too," she said, her eyes then widening. "Wait, I forgot to tell you! The Crowned One took the soul link and has likely inhabited Ao Lingxuan—"
+
+"Maple is taking care of it," Ashlock reassured her.
+
+"Are you sure he will be fine?" Stella asked, clearly worried. "The Crowned One is really strong and can use conceptual dao instead of Qi. He might be able to command Maple to do his bidding."
+
+Ashlock chuckled, confusing Stella further.
+
+"Trust me, he's got it handled. You really think Maple would take orders from anyone, even the Crowned One?"
+
+Stella pondered for a second and then slowly shook her head. "Maple wouldn't take orders. He barely even takes them from you."
+
+"Exactly," Ashlock agreed.
+
+A silence stretched between them, and Stella's mellow expression returned. She seemed to have something heavy weighing on her mind.
+
+"Are you alright?" Ashlock asked apprehensively. "We won. The war is over now that you are safe and the World Tree is free."
+
+"I know," she mumbled, wiping a tear rolling down her cheek. "But Janus died for me."
+
+"He did?" Ashlock asked, surprised.
+
+Stella nodded. "He's the reason I could break free. That lying bastard sacrificed himself for me even when I told him not to. I knew you would come and save me eventually. The idiot. He didn't need to die."
+
+Her voice was laced with so much hatred, while her expression was one of sorrow, that Ashlock was at a loss for what to say. Did she hate him? Love him? How did Janus even reach her in the first place when nobody else could?
+
+"There's also the Mirrored One who licked my blood and stole my face. He's out there somewhere now, alongside the other sins," Stella sighed, looking down at her hands that curled weakly into fists. "I want to rest, but I know there's a lot to do."
+
+For a girl who caused a historical war, she sure did look rather pitiful in this moment. Ashlock embraced her with his soul presence as that was all he could do.
+
+"You go and rest, let me handle the rest," he told her.
+
+"Don't you need to rest too?" Stella asked. "All I've done is be tortured and belittled without pain for a few days. I can still fight—"
+
+"Stella. It's over." He said more firmly this time. "Now that I know you're safe, I can easily finish this war with a clear mind." He tore open a desolation rift leading to her home in his Inner World.
+
+Stella finally relented. "Fine," she said, her shoulders sagging. "I'll go and rest up."
+
+She floated through the portal, and he gently closed it behind her.
+
+"Quite the tormented kid, but she has a good heart," the World Tree said out of nowhere. "You raised her well."
+
+Ashlock glanced at the World Tree, the opening having already closed.
+
+"Thank you," he said, deciding to take the compliment. "I appreciate you watching over Stella and letting me know she was free."
+
+"You know, she never stopped believing that you would come and save her," the World Tree added. "Even as Janus sacrificed himself to give her a way out, she wanted it to be you."
+
+Ashlock fell silent. He didn't know whether he was supposed to be flattered by Stella's faith in him or devastated that, despite his efforts, he wasn't the one to save her.
+
+"Maybe one day she will have that same heaven-defying faith in me," the World Tree said, and Ashlock felt her weighted presence move elsewhere. Distant roots the size of mountains rumbled with movement, and he felt ripples of power radiate outward as the World Tree tore apart the last of her restraints.
+
+The visions he had seen of the past showed him that the World Tree lacked offensive power, but Ashlock was starting to wonder how true that really was. If they fought, who would win?
+
+"I guess I'll find out soon enough," he muttered, knowing he would have to confront the World Tree in due time regarding the Era of Ascension, but that could wait until after his own ascension.
+
+He swiftly returned to Tartarus and found Maple had finished his interrogation and returned to his usual form. Nyxalia had successfully torn what was left of the Crowned One's soul from Ao Lingxuan and held it between her fingers.
+
+"Stella is safe, the war is almost over," he informed the room to a round of cheers and applause. A tension held by all, even Maple, had been lifted. Diana and a self-healing Sol left the room in search of her while the others awaited his commands.
+
+"Nyxalia and Maple, bring the soul and corpse to be devoured."
+
+Two Monarch Realms would complete his quest.
+
+Though he was dreading enduring back-to-back dreams to learn all the laws he had been ignoring. If he could come out of them sane, that would be a win in his book.
+
+But he was curious about what powers he would get from devouring the Crowned One. Conceptual dao wasn't something he had really encountered yet.
+
+"The power to command with words," Ashlock mused as he shifted views again. "That's going to be interesting."
+
+Nyxalia brought the glowing ball of light to Red Vine Peak, and Ashlock cradled it with a thorned vine.
+
+The Crowned One was his to devour.

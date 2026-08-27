@@ -1,0 +1,42 @@
+---
+id: d06d1392-a336-5d96-a16c-b2fabaf78384
+page-type-slug: story-read-royal-road
+title: "The Stubborn Skill-Grinder In A Time Loop (Book 4 Stubbed)"
+slug: the-stubborn-skill-grinder-in-a-time-loop-book
+world: the-stubborn-skill-grinder-in-a-time-loop-book
+unit: words
+author: "X-RHODEN-X"
+rank: b-rank
+following: true
+royalRoadTags:
+  - "LitRPG"
+  - "Time Loop"
+  - "Progression"
+  - "Male Lead"
+  - "Strong Lead"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "High Fantasy"
+  - "Magic"
+link: "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book"
+royalRoadId: "83294"
+---
+
+Orodan was an orphaned street rat who clawed his way to the county militia with hard work. However calamitous events unfold and draw him into events bigger than himself and Orodan's battle-loving disposition leads to a warrior's death for him. Only for him to wake up again on the day of.
+
+In a world of skills, titles and blessings; a smart time looper would perhaps scheme, plan, amass equipment and allies. But not Orodan. If there's one thing he's good at it's stubbornly trying the same thing over and over again via brute force till it's done.
+
+If a wall is in front, going around is not an option. Instead batter it with your head thousands of times till either the wall breaks or you do. And gain skill levels along the way.
+
+Hey friends! Book 1 will soon be releasing on Amazon! (Audiobook and eBook): Here
+
+In light of that, chapters 3-30 have stubbed as of Tuesday, April 29th, 2025. Any support would mean a lot to me.
+
+Hey everyone! Book 2 (eBook and Audio) will soon be releasing on Amazon on August 13th! Get it HERE
+
+In light of this, chapters 30-44 have stubbed as of Thursday, August 7th, 2025. Any support would mean the world to me.
+
+Hey everyone! Book 3 (eBook and Audio) will soon be releasing on Amazon on February 18th, 2026! Get it HERE
+
+Chapters 45-65 have stubbed as of Wednesday, February 4th, 2026. Buying the book on Amazon or Kindle is a huge support to me!

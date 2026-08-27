@@ -1,0 +1,481 @@
+---
+id: 9d586968-898a-5938-8e80-3c7872fc0dd7
+page-type-slug: story-chapter-royal-road
+title: "283 The Push and Pull of War"
+slug: 0242-283-the-push-and-pull-of-war
+partOf: the-new-world
+position: 242
+ownLength: 6911
+unit: words
+ownProgress: 6911
+publishedAt: 2020-12-06
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/596241/283-the-push-and-pull-of-war"
+royalRoadId: "596241"
+markedReadAt: "2026-06-29T21:29:23.556Z"
+---
+
+Obolis managed messages in his status, "I'd enjoy seeing the Adairs get torn apart, but I can't imagine how you'd do that considering your resources. I envision a few super golems and you. What else is at your disposal?"
+
+I radiated excitement, "Eh, it's a surprise."
+
+Obolis grinned, handling many reports and thinking about decisions as he spoke, "I enjoy surprises. I'll wait until then. Good luck."
+
+I left the Emperor's quarters, walking back the way I came. Once at the warp, I looked around and wondered if I could explore more. Stealing wasn't out of the question either, considering how valuable all this stuff was. After letting those thoughts go on for a bit, I silenced them. I didn't have the time to look at this place, and Obolis would know I stole from him.
+
+And, you know, it was the wrong thing to do, I suppose.
+
+Either way, I left for Mt. Verner and met up with Chrona and Ophelia. As I paced up towards Chrona's cliffside, I found her sleeping and Ophelia working over her expandable desk. Floating over, I landed beside them before waking Chrona up,
+
+"Hey. Can you guys hear me out for a bit?"
+
+Chrona rubbed the sleep from her eyes with her tail, the gialgathen's sleek, silver skin glistening under the moonlight,
+
+"It's good to see you guildleader. You decided to show up tonight."
+
+I raised an eyebrow, "I always do, though sometimes I come late since I'm busy."
+
+Ophelia kept looking at her work, "Yeah, I'm busy too. I just bring my busy here instead of doing it everywhere else." She turned to me, leaning on one hand, "So, what do you have to tell us?"
+
+I spread out my arms, "We're getting a planet."
+
+A deep quiet passed over us, only the insects' chirping and wind rustling to fill the void. A few seconds screeched by before I frowned, "Come on, guys. This is good news...right?"
+
+Ophelia gawked at me, "How in Schema's name did you get a damn planet? You don't even own two cities yet. I just...I don't understand."
+
+Chrona tilted her head, "Is it Earth, perhaps?"
+
+I raised a hand, "It's Blegara, the sea planet we're fighting on, and it's where you gialgathens will be fighting as well."
+
+Chrona looked up, "An aquatic world, huh? That sounds interesting. We gialgathens used to live in the oceans, and we still prefer them to drier climates. Perhaps we may expand there without worry for Lehesion. That would be incredible for us. I do worry we would be harvested should we expose our location, however."
+
+I gripped my raised hand into a fist, "I won't lie to you guys; we will be fighting Hybrids the entire time. It's going to be tough, to say the least. I do have plans in the works to make that process much easier than it would otherwise be, but still."
+
+Chrona sighed, "And that is our new way of life. We will press on until the wrongs of our forefathers have been righted, whether by suffering or by triumph."
+
+Ophelia waved a hand, "So, uh, how did you get a planet? Did you threaten Obolis or something?"
+
+I shook my hands, "No, not at all. He's going to lose Blegara soon, which you've seen some of. I'm going to retake it from the Hybrids for him and guarantee trade deals with the albony. In exchange, I get the planet."
+
+Ophelia's tsked, "Geez, and it's that bad, huh? I thought maybe it was only that bad in the capital. I didn't think it was that bad everywhere else."
+
+I shrugged, "Apparently, that's the only place he's putting up a fight, at least on Blegara. Either way, he got something out of a bad situation."
+
+Ophelia's brow crinkled, "I...guess? Well, whatever. It isn't like I own any territory on Blegara. Good luck taking that backwater hellhole back. You're going to need it."
+
+I smiled with confidence, "Thanks. I'm letting you both off of tutoring me for a while. I don't think there's much else to learn here, and I'll try making progress on my own time. Besides, you two have better things to do anyway."
+
+Ophelia stared at her claws, "Like what?"
+
+I narrowed my eyes, "Like help the golem redesigners. You can just do that for our contracted time schedule. Don't think you're out of helping me just yet. Remember that ring I gave you."
+
+I pointed at the jewelry on her hand, and she frowned under her mask, "Well...I guess I prefer that to just sitting here and killing time."
+
+She put up her desk, the metal folding into a fitted square,
+
+"Cya."
+
+She walked off before floating herself over to the nightly engineers. I turned to Chrona,
+
+"How are the rest of you guys doing?"
+
+"We've adapted to this place now. At least I think so. This is a beautiful land, in a strange, desolate sort of way. It lacks the growing expanse of creatures that Giess boasted, but it doesn't have the silvers. It's like a blank slate in that way, neither good nor bad."
+
+"When do you think you and the other gialgathens could be ready to get sent off to war?"
+
+Chrona took a deep breath, "Hmm, that's a difficult question to answer. Most of those here aren't normal. They need many treatments and time to heal, but I don't think we can afford to give them that kind of respite. Considering what you're trying to do, we could ready ourselves within a week if necessary. We need the space, and any new territory would do us well."
+
+Chrona stared off at the horizon, "That is where we belong, riding the wind and coasting across the skies. Being trapped on this mountain, it will drive us insane if we aren't given the liberty to move. I can tell you that much."
+
+"Then that's what I'll ask you guys to do - retake some land. We'll be doing that on Blegara soon, and we're starting just outside of Saphigia, where the eldritch are strongest and densest."
+
+Chrona lifted her head and offered a small smile, "I'll be ready to cull them and the Hybrids alike."
+
+I shook my head, "We'll actually be scaring the eldritch into submission, and that'll win the Vagni over to our side."
+
+Chrona's eyes widened, "I wouldn't have expected that, but that makes it a lot more interesting. How do you intend to evoke fear in the eldritch?"
+
+I crossed my arms, "You know, I haven't really thought about it. I'll brainstorm about it some and get a few ideas, but I'm confident I'm able to get them shaken up at the very least."
+
+"I don't doubt it."
+
+I turned around and waved with a hand, "Rest well. You'll need it."
+
+"You too."
+
+She laid her head down as I leaped up into the air. The cold, crisp wind brushed against my face and hair, and the stars surrounded me on all sides as I flew high over Mt. Verner. I soaked in the sight before landing near the engineers. Ophelia made it here a minute ago, and she caught up on the adjustments made to the super golems.
+
+I paced up, raising a hand to Diesel and Ophelia,
+
+"Yo."
+
+Diesel smiled, and Ophelia propped her weight onto a hip. The engineer spread his arms, "It's good to see you, man. How're you doing?"
+
+"Good. I'm in a bit of a rush, so let's get down to business."
+
+Diesel straightened up, "Ah, yes, sir. What do you need?"
+
+"Give me the updated plans and schematics for your golem. I'm going to start mass producing them."
+
+"We, uh, haven't finished all of the adjustments we need to for a new model."
+
+"That's fine. Just parse out the immediate improvements you've made thus far. I'll implement them into the new design."
+
+"I, er, alright."
+
+Diesel jogged off to a group of other engineers, and they discussed what to keep in the new designs. Ophelia frowned at me, "Thanks for helping me get back up to speed. I totally didn't need that guy's help."
+
+I gave her a thumbs-up, "No problem. Always happy to help."
+
+She rolled her eyes, and we waited for about fifteen minutes. I did a few mental exercises for primordial mana in the meantime. As Diesel walked back up, he showed me several sheets of paper covered in drawings of golems,
+
+"These include a few of the new design parameters. They're mainly adjustments for your cipher translations, some plate layering in the forearms and shoulders, and better runic configurations for self augmentation. It should make the next golem a bit better."
+
+I grabbed the papers from him with thanks, making sure I didn't scrunch them up. After reading them over, I jogged off into a clearing in the trees nearby. Sitting down, I gave one more look over. Their rune suggestions were in idea format, so I fleshed them out, coming up with the actual lettering and specifics. Once that was handled, I began my golem crafting.
+
+Pulling out a mass of liquified dimensional fabric, I created four 'centers.' Around these centers, I wrapped around layer after layer of my dimensional material, heating and bending it into shape using gravity and telekinesis. This process took up a bit of time, but the end result was the finished forearms and unfinished shoulder pads of the golem. These plated blocks took on blunt trauma and piercing forces much better than the old designs.
+
+Before finishing the shoulder pads, I opened my grimoire. It took several hours, but I implemented the changes in ciphering and runes the engineers wanted to change. Charging those runes up, I created the three cores needed in the meantime. I used the same techniques as before, spinning molten fabric with dense gravitation at its center point.
+
+After hardening the spheres, I grafted the cipher inscriptions onto their surfaces. Once made, I implanted the cores into the middle of the unfinished shoulder pads, and I interlayed plates until the masses were finished. A bit of inscribing later and telepathic strands connected the shoulders to the main body. With everything connected, the consciousnesses were ready for action.
+
+Voilà, the three minds of the super golem were made.
+
+The rest of the process was simple enough. As usual, I generated the same chunks, paying less mind to the plating technique as I went. It was important for the arms and shoulders as they took the brunt of most forces. The other parts of the golem could stand to be less indestructible in favor of production efficiency. I needed many of these golems made and quickly after all.
+
+I ended up finishing the second super golem several hours later despite my speeding up the process. The inscribing took time to charge, as did finalizing the details of the golem. It was an arduous process. Generating the eyes, ears, connection points, legs, arms, and the runic markings were all time-consuming. It resulted in a polished finish for the golem, and for that reason, I stood proud of my creation.
+
+It hunched over, laying against a stone nearby. It sunk into the ground, a miniature version of me, nearly. Walking up, I planted my hand on it and charged the golem. It hummed with energy and vitality as the dimensional fabric composing it revved into action. The eyes brightened. The runes glowed. It was alive.
+
+As it stood up, I connected to its mind via telepathy, "It's good to see you, new guy."
+
+"What is this? Are...Are you my creator?"
+
+"Yup."
+
+The golem bowed, a sense of awe overcoming the new entity, "And I will follow whatever commands you may give, be them burdensome or backbreaking."
+
+I grinned, "Oh, you'll be breaking plenty of backs, though they won't be your own."
+
+Giving the golem a sense of purpose, I told it to find Torix in his lair. If the lich wasn't there, the golem was to wait until the lich arrived. Without waiting anymore, I furthered my work, preparing another golem. This time, I layered my activities more, and that saved me time.
+
+Using my Congruent Mind Strain skill, I set up three concurrent actions. On the one hand, I steadily charged my grimoire with one train of thought. My second focal point of attention revolved around meditating with my elemental furnace revving. The third logic strain implemented the raw building of the golem, and it made everything run smoothly like clockwork. These adjustments and not needing to rewrite the ciphering meant I finished in four hours. Labor intensive yes, but it was a far cry from the first golem.
+
+By then, the sun had risen a while back, and it was time to meet with the others. I got the third golem to meet with the second, and they waited for Torix to show up in his lair. As they did that, I met up with Helios and Florence for our morning warp. Pacing up to the two, they stood in silence with Kessiah scarfing down a biscuit covered in gravy with a latte. Helios narrowed his eyes at me as I stepped up to them,
+
+"You're late for our arranged meetings. We agreed upon 9:00, and now it's nearly 10:00."
+
+Florence grinned, "It's extra downtime before we go in and save some Vagni. I, for one, appreciate it."
+
+Helios glared at his brother, "And I, for one, don't wish to waste time. I suppose that perspective can't be shared between us, however. You would need time that could be wasted."
+
+Florence took the insult in stride,
+
+"It's more like I know how to appreciate some peace and quiet so I can think a little." He nudged his brother, "Or none, in your case."
+
+Helios sighed before I neared them. I lifted a hand, "I'm going to own Blegara soon."
+
+Helios leaned back, taken aback by my sudden announcement. Florence looked back and forth like he was searching for a joke. When he didn't find any, Florence spread out his arms,
+
+"Seriously?"
+
+I nodded, "Yup."
+
+The sociable albony walked up and put a hand on my shoulder,
+
+"Congratulations. I'm happy to hear that." He leaned back, "I of all people understand that no one has worked harder to keep that place safe. You can carry those thoughts with confidence. I use to run the place, after all."
+
+Helios raised his eyebrows in exasperation under his mask, "You've yet to establish so much as a footprint on your own world, yet you're aiming to own someone else's? That seems rather unwise."
+
+Kessiah talked with a mouth full of food, "I don't know. It seems cool to me. What about it's bad?"
+
+Florence pointed at her, "Stopping Elysium, but we planned on doing that regardless. As for everything else involved with owning Blegara, I can help point out some of the best resources there...And, I'll keep any governing suggestions to myself. I wasn't exactly the most effective ruler, so my advice is, well, unwarranted."
+
+I shook my head, "Actually, you'll be helping me decide a lot of the rules there. We all will. The more pressing matter is taking the planet from Elysium. We need so much firepower that even a Spatial Fortress would shake in its boots. Or, its giant tentacles and, uh, mouths, I guess. You get what I mean."
+
+I rubbed my hands together, "We do that, and we'll be reaping all kinds of rewards."
+
+Helios crossed his arms, "It's unfortunate, but Schema will not appreciate your rampant military arming."
+
+Florence scoffed, "What? Why wouldn't he? We need every bit of firepower against Elysium that we can get."
+
+Helios turned to his brother, "Schema despises militaries that rival his own. Throughout the cosmos, that A.I. has done away with empires for that reason - they were too powerful. Militarily, that is."
+
+I turned to Helios, "Is that why Obolis focuses more on building up resources than armed troops?"
+
+"Partially. He also relishes in exploration, which is far more inclined to resource accrual than building a large, standing army. Don't mistake that for weakness, however. We're doing well in other territories outside of Blegara, so don't underestimate the Empire's might."
+
+I raised my hands, "I'm not. I just appreciate how that military isn't on Blegara. Speaking of which, we're going to back off of Blegara for a while."
+
+Kessiah finished her food, "Why would we do that? We just got a base established there."
+
+I pointed around us, "See, Schema's system is all around us because this world is owned by him. If we back off of Blegara for a while-"
+
+Florence snapped his clawed fingers, "They'll establish their system there...So, uhm, why is that a good thing?"
+
+I let my hands flop against my sides, "Your plan wouldn't work otherwise. How else is Amara going to broadcast my takeover of the eldritch?"
+
+Florence's head leaned back, "Ah, of course. That's a noteworthy detail I forgot to flesh out. Unfortunately, letting the Adair family establish themselves will make retaking Blegara much harder, however."
+
+I shrugged, "Eh, we're barely holding any territory as is. It's no big loss. I'm more concerned about making our retaliation as fierce as possible. Helios will be the one warping in a large number of troops. Him and Spear both. For that, we need potent troops to send."
+
+A message popped up in my status screen from Torix. He wanted to talk in his bird emporium. I turned to everyone, "I have to cut this short. I've got to meet with Torix. You guys relax, though I might need you all to do something later, so don't stray too far."
+
+Florence gave me a thumbs up, "You got it, Harbinger."
+
+I jogged off before floating myself through Mt. Verner. I loved the mornings here because the suite section was home to a few cafes. Passing them filled the space with the comforting, warm aroma of coffee. It tasted pretty good still, though the caffeine had no effect on me anymore. It's one of the things I missed, though I never drank too much coffee before the culling.
+
+Passing the shops, I moved towards Torix's tunnel, passing the dusty elevator leading there. After getting to the same room beyond the glowing fungus, I walked into the bird exhibit room. I frowned at what I saw.
+
+"Torix...what the hell are you doing here?"
+
+The lich stood over a group of misfits, several animals, and even some Eltari. The lich piled several gemstones over in the corner of the room, and he hovered a few towards his left. These oddballs stood in front of the crystals, ready for contact. At the back of the bird exhibition room, a medical team was ready and waiting to help them in case of an adverse reaction.
+
+Torix found me looking, so turned to face me,
+
+"Ah, you're here. I was waiting to see you in person. I believe that we can use the crystals against the Hybrids, as we predicted."
+
+I stepped up, inspecting the line of people here. They carried deep scars over their bodies, and many lacked a limb or two. Most stared forward with a careless attitude as if they didn't care if they lived or died. Torix gestured to them,
+
+"I put out an ad campaign to our guild to see if there were any members who were willing to expose themselves to the Omega Strain."
+
+"Omega Strain, eh? You're using the Greek alphabet again."
+
+The lich's eyes flared red for a moment,
+
+"There are few things I don't know, and you exposed one of those weaknesses the other day. I thank you for that, and I now know the Greek alphabet along with much of its previous culture. Many of your ideals were formed from that culture, in fact."
+
+He waved off the implications behind his words, "Cultural investigations aside, I guaranteed these individuals would receive credits and new positions in the guild if they allowed a measure of experimentation. These rewards would be given to their families should they die, and these are the individuals who showed up."
+
+Seven people stared up at me, and their eyes widened while their jaws went slack. I put my hands on my hips while facing them,
+
+"Torix, what makes you think the, er, Omega Strain, right?"
+
+"Precisely."
+
+"What makes you think it's safe for use?"
+
+Torix lifted an arm where three birds flew up to him. Each carried one of the living crystals on them, and by now, the crystals shifted color. A robin held an emerald gemstone, and it made ribs around the bird. The second, a mockingbird, carried a black crystal that waved like a tail behind it. The third, an armored raven, covered itself in a deep, violet stone that looked like purple jade.
+
+Torix gestured to them, and they flew over to me. Landing on my shoulders, they stayed quiet and well behaved. I raised a hand at them,
+
+"So, there's more to these crystals than we first imagined, eh?"
+
+Torix's eyes flared a bright blue as he put his hands on his hips, "Indeed. As I coined it, the Omega Strain is an amorphous viral structure that adapts to its host's thoughts and needs. It can take many shapes and sizes, and it manifests quickly after exposure. Over time, it can change coloration and function depending on the mental strength of its host."
+
+Torix gestured a palm at the raven, "These birds each carry different kinds of Omega Strains, yet the raven's crystal is by far the strongest. This is in no small part due to its higher intellect. Observe."
+
+The birds flew up, the raven facing the robin and mockingbird. Two against one, the robin and mockingbird flew at the raven. The violet crystal over the raven shifted, and it sped under its two assailants. The mockingbird's tendril shot at the raven's skull, but the dark bird's gemstone latched onto the enemy's attack before it was killed. The raven spiraled, and this created a spiral in the mockingbird's stone tentacle.
+
+Carried by that twist, the mockingbird was slung towards the ground, but I caught it with a gravity well before it was killed.
+
+Poor bird.
+
+The other robin flew up and over the raven in the meantime. It latched its ribs into the raven's armor before pushing the violet armored bird towards the ground. The violet-colored raven smashed into the concrete, leaving a few cracks beneath it before it stood back up. Spreading its crystalline wings, the raven spread its frame out wide. With a stone crushing jump, it launched itself into the crystal ribs of the robin.
+
+The robin crushed into the roof, its body somehow unharmed despite the sheer impact from the raven. The robin was still unconscious, however, so I caught it as it fell from the roof. The Omega Strains remnants spilled onto the floor like broken glass, the bird's fight coming to an end. Torix pointed at them,
+
+"Impressive, aren't they?"
+
+I narrowed my eyes, "They are, but how does this prove this stuff is safe for sentients?"
+
+"For one, the birds are still safe and sane. Of course, I'm managing their fights using mind magic, but this proximity with their minds tells me nothing is wrong. The only issue is that the crystals can have a degenerative effect on someone's psyche over time. Past eight hours of exposure, and it appears the host begins suffering mental breakdowns."
+
+I scoffed, "Oh, the crystal only drives its user's insane, and that's only the short term side effects you don't say? Talk about useful."
+
+Torix remained calm and confident as he replied,
+
+"Indeed. We've measures in place for preventing the mental degradation of hosts. I'll get to that later. The most fascinating aspect of this crystal is its sheer variance and its metal-eating capabilities. It does require a few constraints for its use, but they are more than acceptable."
+
+I raised an eyebrow, "Such as?"
+
+Torix reached out with his hand, and the birds flew over towards him, though the robin struggled a bit. Torix tapped the crystals on their backs, and each Omega Strain shivered before compacting back into their previous forms. They left wounds on the bird's backs, which would take weeks to heal. The birds weren't a part of Schema's system, however. For Humans and Eltari, the crystals were easy to bring in and out day to day.
+
+That meant we could easily use these crystals for our soldiers as long as they carried some of my armor. My eyes lit up,
+
+"That's right. We just have to limit how long each person is exposed to the crystals."
+
+Torix beamed, "You understand my intention utterly. These people will be the first ones exposed to the Omega Strain, and they've signed waivers to guarantee they understand what's required of them. I explained thoroughly, as well."
+
+"Why haven't you gotten started yet?"
+
+Torix gave me a slight bow, "I wanted to ask for my guildleader's permission and in person."
+
+I was touched.
+
+"Torix, you didn't have to."
+
+"After not informing you of the streaming services I started without your permission, I dwelled on what you said on the matter. I wanted you to know that I thought deeply about what you said, and I intend on ensuring you're a part of the decisions regarding our guild's actions from here on out. No more surprises of that kind."
+
+I turned towards the people here,
+
+"As long as you guys are ok with this, then we're good to go. It's your lives on the line, and you all get to decide if the risk is worth it."
+
+A few people looked at me with a bit of nervousness, but most of them remained unyielding.
+
+Torix cackled, "Then let's begin." The lich waved at the participants, "You may make contact whenever you'd like. Be prepared for sharp, piercing pain when you do so, as the Omega Strain enters through the spines of creatures."
+
+They stared forward, eyeing the floating, magenta masses floating in front of them. Fear and apprehension came over them until an Eltari woman decided it was time. Her arms were ripped off at some point, and now she carried massive scars were they once were. She touched the crystal with her beaked mouth, and the Omega Strain flooded over it.
+
+Crawling over her skin, the strand left hundreds of tiny, minuscule wounds over its victim. Once it reached her spine, the crystal rammed over thirty connection points into the Eltari's nervous system. The Eltari scrambled back and forth, languishing in agony. She knocked over some medical equipment before I restrained her with a gravity well. I spoke like a wall of steel,
+
+"It will pass. Stand strong and hold the line."
+
+I passed The Rise of Eden over the Eltari as it looked at me, giving my words more of a palpable effect. Her foggy, tear ridden eyes showed no expression, but her taloned feet scrunched into tight bundles. She quit squawking in fear, and she proved herself there and then. With Schema's system augmenting her, the Eltari regenerated from her wounds over the next few minutes. Once she got past the initial pain, she stood up.
+
+She conquered it.
+
+The Omega Strain read the wants of the Eltari, and it replaced her missing arms and wings. Once it shaped itself into those missing limbs, the crystal followed the Eltari's commands. She moved her new, crystal limbs, staring at them with fear and awe alike. After a few seconds, she spread them wide, the feathers more akin to spines than plumage.
+
+That didn't matter to the Eltari as she walked over towards the edge of the bird's exhibit. Everyone stared as she leaped from the side, and a few seconds passed. Thoughts of her clunking against the concrete ground loomed over everyone present. It would be a bitter wake up call for the Eltari.
+
+That didn't come to pass. She flew, gliding with flows of mana. She laughed while passing through the air, and several songbirds jumped from their ledges to join her. What was once robbed was returned, and the Eltari beamed with deep joy as she returned to the air. Minutes of flight later, she landed onto the ledge with tears in her eyes.
+
+She walked up to Torix and spoke with a light tone to her voice,
+
+"Thank you, clever one. Thank you. I never imagined I would be one with the sky again."
+
+Torix raised a hand, "Now now, don't get too close. We wouldn't want that crystal reverting to normal just yet, now would we?"
+
+The Eltari backed up, "I...yes. Thank you."
+
+I pointed at her, "What's your name?"
+
+"E-Elthara."
+
+"Good to meet you. You're going to need one of these soon."
+
+I lifted up my hand, and a void popped up at the end of my arm. From it, molten metal spawned into a small mass. I shaped it into a band, and flash froze it. Pulling out my grimoire, I charged the runes for Ophelia's ring as I said,
+
+"This ring will let you do a few things, but the most important part is the ability to get that crystal off of you. In your case-"
+
+I spawned another piece of dimensional fabric and shaped it into the form of a thin chain. I wrapped that around the center of the ring before planting my grimoire's runes onto the band. Once cooled, I tossed it over towards her, and she snatched it out of the air with her foot. Bending over, she contorted her leg and put the necklace on.
+
+I pointed at it, "Tap the crystal against that ring or necklace, and it will turn back to normal. You can put it in your dimensional storage after that."
+
+Elthrara nodded, "Yes, guildleader. This ring, it is...heavy."
+
+Torix interlocked his hands behind himself, "That is your guild's expectations weighing down on your shoulders. Make sure you carry that burden with pride, and always aim to exceed them."
+
+"Yes, clever one."
+
+Putting my hands on my hips, I peered at the others lined up,
+
+"That's a pretty successful initial test. I know I'm convinced. Who's next?"
+
+We processed the others, several people unable to control the crystal when first exposed. It required a certain level of mental strength to restrain the gemstone, and some people lacked that. To counteract this, I premade the rings and handed them off to people. The enchantments gave willpower and endurance in spades.
+
+Those attributes helped people assimilate more often with the crystals. After the Omega Strain dislodged itself from the individual, it sped up the regeneration as well. However, no matter what we did, the Omega Strain left a bit of vertigo after pulling itself out, so people needed breaks after using the powerful gems. It wasn't so bad, though.
+
+With my ring's help, the eight-hour maximum use time turned as high as ten in the more willful individuals. On average, it was around six to eight hours. That was plenty long enough for most soldiers to get some serious work done in the meantime. These crystals would help members with facing Hybrids on a level playing field for the common soldier. It was about time I handed off a bit of updated equipment to the legion as well.
+
+Super golems would be nice and all, but my guildsmen would fight alongside us. I didn't want them fighting against the Hybrids with broomsticks and frying pans, so it was about time for an update. Besides, their strength was my strength, and I needed as much as I could get.
+
+With that in mind, I met with Torix after everyone left. He healed the three birds used in his exhibition, regenerating them via rudimentary light magic. As he did, I stared down at the birds,
+
+"So, they responded well. It looks like these gemstones are going to be very valuable in the future."
+
+"Indeed. We'll need to create a trade deal with Obolis in order to procure them, but they should be more than worth it. Perhaps an exchange of super golems would be in order?"
+
+"You know, I actually don't think we'll have to. We should be able to manage, even without trading."
+
+Torix narrowed his fire eyes, staring up at me from the three birds floating in front of him,
+
+"Ah, yes, I'm certain that Obolis would just hand over these valuable resources without a care in the world. That sounds just like him."
+
+"He might have."
+
+The lich's curiosity peaked, "How so?"
+
+"Well, we'll be getting the planet soon. Obolis offered it to us. We're in the middle of acquiring Blegara."
+
+Torix dropped the birds, but I already caught them as he did. I expected that kind of reaction. Torix stood up,
+
+"And here I believed he'd be using them himself? He doesn't know they exist?"
+
+"Nope."
+
+"Really now? That's...that's unexpected. I'd imagined the Finder of Secrets would be better at...well, finding secrets."
+
+I waved my arms, "Don't get the wrong idea. I got lucky here. That's it."
+
+Torix raised his hand, "Perhaps a bit, though your ability to travel into extreme environments is a large reason as to why you're able to explore as you do. That being said, if we can go forward with this deal, our guild's ability to fight the Hybrids will multiply. We will gain an unruly amount of resources, and they will make a world of difference for us."
+
+"That's what I was thinking."
+
+"This does raise a few questions, such as what kind of deal was arranged?"
+
+"I gave the albony priority when trading with resources acquired on Blegara. We also have to lease super golems to them."
+
+Torix scoffed, "That's it? For a planet? Maybe owning a planet isn't very valuable?"
+
+I raised a hand, "Planet owning is very lucrative, but you have to think, this isn't a normal planet. Blegara is on the brink of destruction and is being assaulted by hostile forces. The Empire can't economically hold the location, but we can. I'm aware of all this, so Obolis couldn't dupe me. Combine that with the fact he's still able to get what he wants out of Blegara, albeit for a price, and it's a win-win situation."
+
+I smiled, "It's just a little more win-win for me. That's all."
+
+Torix swung a fist in front of himself, "Now that is how it is done, my disciple. After our subduing of the eldritch, I say we assault the planet immediately."
+
+"You and I are thinking the same thing then. We need to prepare for that, and I'm going to need you to do more research into the Omega Strain in the meantime. That needs to take priority over everything else for now. I know your handling a lot with the guild's logistics-"
+
+Torix stood tall, putting a hand up to his side. From it, his obelisk materialized, "Of course, though you overestimate the burden I bear since acquiring this obelisk. Though it took some tinkering, it's automated the most tedious of tasks. I am more than able to handle this new task, and I'll do what's necessary for the legion."
+
+I smiled, "Alright then. I'm sending everyone a message that we won't be attacking Blegara for about a week. After that, we'll make the announcement that we own the planet after the contract with Obolis has been signed. I'll be making super golems in the meantime. They'll be the primary source of our initial charge, along with the Vagni and maybe even the eldritch."
+
+I raised two fists, "We'll collect the Omega Strain along Blegara's depths after we've established ourselves on Saphigia. Our soldiers' number will bolster immensely, and I'll make sure that my rings include something for underwater breathing. That'll get rid of our troops' main weakness."
+
+Torix waved a finger in front of himself, "And we can even give the gialgathens a battlefront they are adept at. They evolved in the ocean from what I've read and heard. They should be veritable swimmers, and by Schema,  we could use the territory. We sorely lack space on Mt. Verner now."
+
+Torix peered off towards the mountain beyond the concrete walls, "It's a shame, but our guild has outgrown this place. The gialgathens and Eltari are fighting amongst themselves for the best roosting locations. Just as well, the humans here are beginning to settle and wish to go above ground."
+
+Torix spoke wistfully, "Perhaps Blegara will let us expand elsewhere without the threat of wiping out your home planet? Wouldn't that be simply superb?"
+
+I took a deep breath,
+
+"I couldn't agree more. That's one of the reasons I've been working above ground with my golem project. If I spend too much time in that mountain, I get cabin fever. I can't even imagine what the people down there must feel like."
+
+Torix tilted his head, "They're alive, which is more than they'd be if Yawm had had his way."
+
+I nodded, "I'll find solace in that. I'm writing the guild wide message as we speak to let our guildsmen know we're not fighting on Blegara for a bit. Once we get a hold on Saphigia, we'll harvest the Omega Strains nearby, get super golems to hold our new territories, and expand outward as needed. It will be a slow fought process, but we'll be able to take it back."
+
+Torix's eyes flared bright with warmth,
+
+"Daniel...there's something I've been meaning to say."
+
+I lifted a brow, "What's up?"
+
+He put a hand on my shoulder, "I've seen you grow from a selfish child into a selfless man. I want you to know I'm proud of you, and you're becoming a fine leader."
+
+I choked up a bit, not expecting this kind of sincerity, "Well...thank you. I don't think I've done the best job, but I've been trying. That's all I can really do."
+
+Torix let his hand drop, "Know that I've said nothing more than what needed to be said. Now, let's get to work. There's much to be done."
+
+I grinned, "Let's crack some skulls."
+
+Torix walked off, interacting with his advanced obelisk given by Obolis. With it, he managed the guild in less than a third the time he used too via preplanned operations. Handling those day to day tasks let him spend this kind of time on the Omega Strain, and I was glad I decided on the obelisk first instead of the furnace.
+
+One last detail needed handling before I got deep into my building work. Torix sent me an update from Althea that contained a lot of information about Elysium and their camps. It included notes from Althea, and I went over that information while creating an underwater breathing enchantment.
+
+She mentioned many of the innovations they used in a positive light, and I had to agree. Elysium rebelled for a reason after all, and the primary cause was how outdated and ruthless Schema's current system was. Of course, Elysium built its backbone on the gialgathen's deaths and the eldritch/silvers' suffering. Those were pretty damn unforgivable sins, in my opinion, but I respected the Adair's more after seeing how much they improved people's lives.
+
+At least they were trying. I had to admit, that was more than most.
+
+My newfound respect didn't shake my resolve to crush them, but it did give me another goal. I wrote up a reform plan for our own guild's way of doing things, modeling some of it after Elysium's practices. Evil or not, they had some excellent ideas. I took those practices and made them work for our own guild, and it gave me some confidence moving forward. Making a difference for people tended to do that.
+
+Bolstered by that assurance, I walked towards Helios and Florence. There was one last part of our plan that needed ironing out. We sent the initial team down towards the Elysium camp without Amara. Amara made the suggestion herself, noting how poorly her stealth skills were in general. Althea's report made the Elysium camp look easier to invade than we initially thought, however.
+
+Understanding all those details, I needed Florence and Helios to help get her over there safely. Pacing over towards the upper suite of Mt. Verner, I sent them messages to meet me outside their residences. As I reached their places again, I found the two of them arguing like normal. Rubbing my temples, I let out a sigh.
+
+Helios turned towards me as I walked up. He scorned,
+
+"So it's our guildleader once again. I love waiting at random places for extended periods."
+
+I eyed the albony, "Or, Really? If you'd like, I could just send you to fight Hybrids by yourself on Blegara. It would only be until you die. Maybe you'd prefer doing that?"
+
+Helios stiffened up for a moment, fear racing up his spine. I spread out my hands,
+
+"Ok then, it sounds like you won't be complaining about waiting a few minutes for me anymore. Good. Now I need you both to take Amara over towards the Elysium camp tonight. According to Althea, their plans went well, and they'll be getting access to an Elysian world soon. I need you both to keep Amara safe while we get the perfect opportunity to go through their warp."
+
+Florence gestured to me, "So, planet owner, what's next for you?"
+
+I raised a hand, squeezing it into a fist,
+
+"I'll be making an army."

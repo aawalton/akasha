@@ -1,0 +1,223 @@
+---
+id: 9b295aae-ab16-5c2a-90c5-decc85f080a8
+page-type-slug: story-chapter-royal-road
+title: "TEN: Side Effects"
+slug: 0010-ten-side-effects
+partOf: super-supportive
+position: 10
+ownLength: 2669
+unit: words
+publishedAt: 2023-02-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1115315/ten-side-effects"
+royalRoadId: "1115315"
+---
+
+The shock took a while to hit.
+
+Probably because Alden was already processing a lot at the moment. Hannah’s funeral was coming up. Gorgon’s eyeballs had the power to make you recall in perfect clarity your time in the womb. He’d given the alien his own blood to drink, and he thought, upon reflection, that it might have been part of some kind of magic ritual and not just snack time.
+
+All typical stuff.
+
+Anyway, when an extra-dimensional being told him out of the blue that he had a seventy percent chance of becoming a superhero, Alden Thorn said, “Oh. That’s interesting. Thanks for letting me know.”
+
+As if his strange not-friend had just given him the weather forecast.
+
+Then, he left the consulate and fought his way back home with Victor yowling and screeching inside his cat crate.
+
+Sundays weren’t as busy as Saturdays, but he still had a mid-day class to prep for. Jeremy and Boe were having a platypus-themed meme battle in their group chat that morning, so his phone kept pinging him.
+
+And he needed to call and pay the electric bill.
+
+Good thing I’ve got Aunt Connie’s current credit card numbers memorized.
+
+All in all, he was just too busy to have a freakout over one more thing. At least at first.
+
+When he finally got the cat settled and removed all the packaging tape from his bitten hand, he headed into the kitchen for breakfast. As he was reaching into the fridge for orange juice, his phone rang.
+
+He answered it.
+
+“Hey, you wanna grab a late breakfast at the diner?” Jeremy asked before Alden could even say hello. “Boe says he’s eating a box of Lucky Charms and watching anime, but if you say you’re going, he’ll feel left out and change his mind.”
+
+Alden considered it. Hot breakfast sounded good, but…
+
+“I’m pretty low on funds, and my aunt bailed for the week. I should probably cut back until she comes home.”
+
+He’d already spent pretty much all of the cash he’d saved over the summer on food for himself, Gorgon, and the cat. Until he turned eighteen or was emancipated, Alden’s inheritance was only accessible for education expenses. And with the weekend classes, he hadn’t been taking odd jobs from the neighbors to earn pocket money.
+
+“I’ll buy, man,” Jeremy said easily. “You can pay me back later. Or not. It’s all good.”
+
+Alden considered it. Jeremy’s parents were both lawyers. They literally left cash lying around the house for their son to use if he wanted.
+
+“Yeah. I’ll take you up on that. Thanks.” He checked the microwave clock. “See you at ten?”
+
+He had just enough time to trash the tiger shorts and shove a load of his own clothes into the washer before he headed out the door again.
+
+He met his friends in front of a diner in Jeremy’s neighborhood. Boe was watching the tail end of a cartoon on his phone while Jeremy peered over his shoulder.
+
+“Awesome! You’re here!” Jeremy said brightly when he spotted Alden. “Let’s go. I’m gonna order steak and eggs and enough bacon to kill me.”
+
+“Your goals are admirable,” said Boe.
+
+“Throw in some hash-browns, and you’ve just described my dream breakfast,” Alden agreed.
+
+The bell over the door tinkled when they entered. It was very much a local joint. Lots of old folks were there for the senior discount, and there were a pair of televisions in opposite corners playing a news station on low volume.
+
+The place smelled like grease, but in a good way.
+
+The three of them slid into a vinyl booth and took their menus. Alden’s was sticky with the syrupy fingerprints of whoever had held it last.
+
+The diner was one of those places that would let you order the whole menu no matter what time of day it was, so Boe inevitably spent ten minutes trying to decide what he wanted to eat. While his friends debated the merits of cheeseburgers vs Western omelets, Alden ordered a hot chocolate.
+
+It came as a mug of steaming water and a pouch of dried mix, and he stirred it up while he stared at the closed captions scrolling across  the bottom of the TV opposite him.
+
+“Someone in Naperville just became a C-rank Shaper,” he said, watching the dimpled brunette girl onscreen.
+
+She wasn’t nervous at all. She was beaming as she chatted with the interviewer. Her large hoop earrings swung back and forth as she gestured animatedly.
+
+“That’s a mediocre rank.” Boe glanced at the television. “Not superhero level, but with Shaper classes, they sometimes still get lucky enough with skills to do something interesting. What’s her starting element?”
+
+“Object. Sounds like she wants to go deep into it, too, instead of trying to branch out with new skills.”
+
+The elements Worldshapers used were defined by the System in a way that didn’t match well with human logic. The usual ones were ground, sky, life, water, and object. Though sometimes someone got a super specific curveball or just Shaping in general with no specialty.
+
+Object Shapers could move and morph objects, and generally the more crafted the thing was, the easier they could play with it. Couldn’t do a thing with a rock freshly pulled from the earth, but if it had been cut into a gemstone they could at least start to impact it with their power. They could do amazing things with higher tech stuff, though. One of Alden’s favorite Object Shapers was a hero whose schtick was turning cars into “robots” that were really just glorified person-shaped battering rams he operated telekinetically. It was pretty obvious the guy wished he’d been given the Machine Wright class instead.
+
+“That’s flexible at least,” Boe said, still looking at the girl on screen. “Maybe when she’s finished training, the city will hire her for some kind of hometown hero PR, and she can replace Sharon.”
+
+Jeremy groaned. “No. Not this again.”
+
+Boe pointed at him with a half-unwrapped drinking straw. “You can’t just force people to do the first-name-only thing! If you’re Elvis, you’re Elvis. If you’re Michelangelo, you’re Michelangelo. You make an impact. People notice. Then, you become a mononym. You don’t just wake up one day and tell people you’re soooo important that you don’t need a surname anymore. Anyone who tries to make it happen on their own, especially when their name is as basic as Sharon, deserves to be punished for criminal narcissism!”
+
+“I don’t disagree,” said Alden, scooting over in the booth so that his friend didn’t stab him with the waving straw. “But I think you’re probably a little too passionate about this one, Boe.”
+
+He brought his mug to his lips. He was anticipating a warm sip of overly sweetened generic brand chocolate, but instead his hand clenched in an involuntary death grip around the mug’s handle. The hot ceramic burned against his lips, and his eyes widened in alarm.
+
+Alden felt like he’d just run face first into a giant flashing STOP sign.
+
+I can’t drink this, he thought adamantly, setting the mug down so hard that he slopped some of the cocoa on the table. The cow didn’t give it to me.
+
+“What the hell?” Alden breathed.
+
+Was that thought even mine? It felt like it was, but how could that be true?
+
+The cow didn’t give it to me? He’d never had a concern like that in his life!
+
+“Right?!” Boe said. “It would be slightly forgivable if her name was unique. But there are thousands of Sharons out there! She can’t just do them dirty that way!”
+
+Alden laughed hysterically.
+
+Boe didn’t notice, but Jeremy gave him a confused look.
+
+Alden waved him off and stared into the depths of his hot chocolate. He flipped the crumpled packet over and read the back. It had powdered milk in it. No surprise there.
+
+He tried to drink it again. It smelled good. He wasn’t grossed out by it or anything. In fact, he wanted it. He was thirsty. He craved sugar.
+
+But there was some kind of mental wall between him and the act of drinking the chocolate. It wasn’t even like he had a sudden moral problem with it. He wasn’t upset that Boe was sitting beside him with an iced coffee that was at least a third cream.
+
+But in his own mind the wall stood there, solid and free of any kind of emotion. Like an incontrovertible fact of his existence.
+
+Alden could not drink this. The cow hadn’t offered it to him.
+
+What is this? he thought, beginning to panic. This is insane.
+
+“Jeremy, give me your soda!” he said desperately.
+
+“What? No. Get your own.”
+
+Alden snatched it and took a gulp so fast he almost choked on the bubbles.
+
+“Okayyyy then,” said Jeremy, staring at him like he’d….well, like he’d suddenly stolen his friend’s drink for no reason. “I guess I can get another one?”
+
+Alden felt relief, but only a smidge of it. He could still drink. He wasn’t going to thirst to death. But what the hell was this?
+
+“Alden, are you having some kind of a breakdown?”
+
+Alden shook his head. What was he supposed to say? That he had apparently caught a dietary restriction from Gorgon?
+
+Why would that be a thing on any planet? In any universe? And Alden hadn’t drunk the alien’s blood! It was the other way around. How could he have picked up contagious…whatever this was…from that?!
+
+And what about cheese? he thought frantically. I love cheese. And Italian beef. And pizza. Side effects, my ass! This is the worst.
+
+He stared at the sticky diner menu on the table in front of him with rising dread. He’d been planning to order hash browns and a cheddar scramble, but unless some noble chicken had laid eggs while…what? hoping that Alden, specifically, would eat them?…he was out of luck.
+
+Maybe it’s temporary? He tried to trick himself into thinking it might be, and it worked surprisingly well. Yeah. I can put up with it for a few days until it fades. No sweat. No reason to act like a lunatic in front of my friends.
+
+“I’ll have the oatmeal,” he said to the waitress when she came back around. “No butter. Lots of brown sugar. And a side order of berries.”
+
+Even the hash browns here were fried in delicious, delicious bacon fat. So oatmeal was the best he could do.
+
+His friends were staring at him.
+
+He cleared his throat. “I’m on a cleanse,” he said in a righteous voice.
+
+“Okay,”  said Jeremy, looking nonplussed.
+
+“What organ are you trying to cleanse with lots of sugar?” Boe scoffed.
+
+“Hey, I have my reasons!”
+
+Fortunately, their food came quickly, and his friends were distracted by their own plates. Alden gave himself a mental pep talk while he spooned oatmeal into his mouth. It’s fine. I’m a growing boy. I need fiber. And maybe there’s a good side effect to counterbalance the bad side effect.
+
+It had to work that way, right? You couldn’t just destroy someone’s future as a major consumer of sausage deep dish without giving them something equal in return.
+
+Not like I can ask Gorgon. He can’t tell me anything…I’d better not grow a spiky horn choker.
+
+He dug his spoon into his overly-sugared breakfast goop again and paused as he remembered.
+
+Oh, yeah. He couldn’t tell me about side effects from the blood thing, but he did say I had a seventy percent chance of being chosen by the System. How would he even know that? Could he taste it or something?
+
+Then, he frowned as a new realization hit him.
+
+Never mind how he knows. Seventy percent is…it’s really high.
+
+He looked up to the TV, where the C-ranked Shaper was waving goodbye to the camera as her interview ended
+
+Seventy percent meant it wasn’t just a possibility he might get powers of his own one day. It meant it was likely.
+
+What am I supposed to do with that information?
+
+He felt a growing…not excitement, exactly. It was more like nervous energy.
+
+Oatmeal and diet quandaries suddenly forgotten, his thoughts turned to facts about superpower acquisition. Almost everyone was chosen between the ages of fifteen and seventeen. Outliers happened, but not often. Alden was a month and a half away from his sixteenth birthday.
+
+Sixteen is the most common.
+
+Something like seventy percent of superhumans received their access to the System after their sixteenth birthday and before their seventeenth. S-ranks and A-ranks were disproportionately chosen at fifteen. D’s and F’s were disproportionately chosen at seventeen.
+
+I’ll most likely be chosen sometime in the next fourteen months if Gorgon’s right.
+
+The sweet spot for being an S-rank is already past. The best I should reasonably hope for is A. And that’s still a long shot. D and F mean you spend your life on the island or in an Avowed zone, just chilling with a really restrictive passport keeping you from traveling as much as you want. B and C are…super class dependent. C-Brute is meh. C-Meister might still be okay if it’s in the right specialty area.
+
+He wanted to make contingency plans for every possibility, but that would take him a while.
+
+If Alden could make a shopping list for exactly the powers he wanted, he knew what he’d choose. But that was the thing about having a dream that only had a distant possibility of coming true—you could just let your imagination run wild.
+
+He’d want to be an S-rank. Who wouldn’t? And he would prefer to be an Adjuster of some kind. It was a spell-heavy class that you could customize easily. His second choice would be the Meister class, though that one was more iffy. Meisters were powerful, but they had a lot less flexibility than Adjusters. There was almost no wiggle room for them when it came to skill selection. So becoming something like a Sword Meister would be awful for Alden’s goals, while becoming a Trap Meister would be fantastic.
+
+None of the other classes would really work. An S-rank Brute was a titan, but they didn’t get access to many spells, and their skills were usually pretty tightly focused. So they lacked versatility.
+
+Alden would need that in spades for what he wanted to do.
+
+He wanted to be a sidekick. Not an old-school, dies-as-soon-as-you-look-at-them sidekick. The contemporary version that was uncommon and unpopular but incredibly special when someone managed to make it work.
+
+True battlefield support. Like Hannah.
+
+Battlefield supports were superheroes who were strong enough to look after themselves in a fight but who focused on skills and spells that would do all the things that most heroes sucked at. They might have crowd control, structural damage mitigation, barriers, buffs, or dozens of other useful skills that made the thing other heroes did better. A great battlefield support was a hero who made it possible for the people they worked with to lay waste to a villain without demolishing a city.
+
+It was really interesting stuff. And it was important.
+
+If Hannah had been the support she dreamed of being, the one she was working to be, Alden’s parents probably wouldn’t have died.
+
+She just…hadn’t made it there yet.
+
+And now she never will.
+
+Right. Back to reality. He’d agreed to go to the funeral. He’d probably be hearing from Cly Zhao any day about the portal.
+
+Alden sighed and looked down at his barely-touched oatmeal. “Boe, can I borrow one of your ties next week?”
+
+“Yeah, of course.” Boe spoke around a mouthful of omelet. “You’re going, then? I wondered why you were acting weird today. That’s good.”
+
+“I have ties!” Jeremy said quickly. “You can borrow any of them.”
+
+Alden shook his head. Jeremy’s taste in clothes leaned toward the creative. “I only need one. And I don’t think a tie with chocolate chip cookies on it really says, ‘funeral.’ But thanks anyway.”

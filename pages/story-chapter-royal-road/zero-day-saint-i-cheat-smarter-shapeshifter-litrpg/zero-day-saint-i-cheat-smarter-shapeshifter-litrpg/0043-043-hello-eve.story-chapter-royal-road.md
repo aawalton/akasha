@@ -1,0 +1,239 @@
+---
+id: 84b59505-6cfc-5ad9-9dad-2baf5c6293df
+page-type-slug: story-chapter-royal-road
+title: "043 - Hello, Eve"
+slug: 0043-043-hello-eve
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 43
+ownLength: 2493
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3550631/043-hello-eve"
+royalRoadId: "3550631"
+---
+
+For my upcoming plan, Claire needed a voice. Which, in turn, meant I needed hardware. Pristine hardware that had not been exposed to the internet.
+
+On my trip I had found a whole bunch of stores that might serve my purposes, but most were in some state of disarray. The scramble, the earthquake, the ice storm. None of which would be good for hardware. Which was mostly an excuse. I also needed to test some hypotheses regarding the Blessing, the Created and the demons.
+
+So I walked up to the mall, fumbling with my suit's cufflinks, my tail swishing nervously. Everyone knew about the power of walking into a place you don't belong with a clipboard. People forgot about the power of a suit.
+
+The automatic doors slid to the side and revealed a similar group of guards as the last time. Three spear-wielders and one caster.
+
+Step one was a full success. Their dots on the minimap were white. The kobolds did not automatically assume that a mammon-touched kobold was hostile.
+
+Beyond them, I could see how they had transformed the mall. The central passage was narrowed down with artificial walls, built out of pallets, laminate flooring and other materials they could scrounge together.
+
+The caster called out to me. "You there! Who are you? What do you want?"
+
+"I am here on orders of my master. Mammon is giving your tribe an opportunity to prove its value."
+
+The caster looked at one of the males and nodded over to me. He went over to the side of the entrance, out of my view, but I heard the clank of a heavy lever being pulled.
+
+"Enter," the female commanded.
+
+I didn't put it past the kobolds to make a sport out of killing a dragon-bootlicker. So I took care to not trip any of the three tripwires that ran along the short entrance.
+
+The one kobold stayed to the side, while the other two spear-wielders stepped closer, their weapons pointed at me.
+
+"I demand access to two of your stores. Their contents are meaningless to you anyway," I said.
+
+"And why would we care about the desires of your master?" She left no uncertainty about her feelings regarding that word.
+
+In reply, I grabbed one of the spears pointed at me and ripped it out of its wielder's hands. He even did me the favor of trying to hold on and subsequently falling down in front of me.
+
+I snapped the spear in half, put one clawed foot on the poor guy's neck, and put the spear tip against his throat.
+
+For a split second their dots turned red, before the caster stopped the other two from attacking.
+
+"First and foremost, you care about my desire to please my master. If you aren't willing to cooperate, I will get rid of you and talk to your higher-ups." I put some pressure on my foot, getting a howl of pain from the kobold. "Beyond that, your tribe's cooperation will make my master more willing to accept your continued existence, in defiance of the kobolds' proper place—serving a dragon."
+
+I looked away from the caster and down at my victim. Mostly so she wouldn't see the fear in my eyes.
+
+"Which stores?" she asked.
+
+"Best Buy. And one of the repair kiosks."
+
+She crossed her arms. My demonstration of strength had worked. Kobolds were crafty bastards. But they weren't brave.
+
+"Go then. Do not go elsewhere, and do not cause trouble."
+
+I gave her a nod. "Thank you."
+
+Then I pulled the one underneath me up by his neck. "You will guide me. Wouldn't want me to have any accidents in your oh-so-well-crafted halls, would we?"
+
+He didn't reply. He only gave the caster a panicked look. She narrowed her eyes at me, but nodded.
+
+I barely heard him squeak, "Yes, mistress," over the rush of fear in my ears. I should have done this after that debuff ran out.
+
+But that didn't matter now. I had done it. Social engineering worked on kobolds as well as any office worker.
+
+I followed the kobold through hidden side passages, too narrow and small for humans. And, most importantly, there were zero screens active and out in the open. I didn't want to kill my guide, but if the Wyrm made a move, I might have to, to protect my cover.
+
+"Eve," Lucy said, "this was the most attractive you have ever been. And believe me, I have extensive documentation of your life. It truly was. And I'll tell Jamie and Ash every single detail about it."
+
+I didn't dare reply or react in any way.
+
+In the end, my fear about the Wyrm never came up. They had converted the Best Buy into a death-trap labyrinth. Without a guide, this shopping trip would have taken me hours, and very possibly killed me.
+
+Instead I walked out of a side entrance after about half an hour, pushing a cart full of hardware and the necessary equipment to tinker with it. My guide had helpfully guided me to a loading bay and opened the gate.
+
+"Will you return with more requests from your master?" he asked. Was he… hopeful?
+
+"I might. His methods are beyond my mind to comprehend."
+
+He pulled out a small object and tossed it over. I nearly fumbled it as I caught it. It was a simple whistle, carved out of bone.
+
+"Use this at the loading bays instead of using the entrance for our victims. Our scouts use them."
+
+I blinked, but pushed against the desire to thank him and kept up my role. I nodded sharply. "Your cooperation has been noted. I will remember this."
+
+With this, I turned and pushed my cart away. Behind me, the gate fell shut.
+
+["Why those two?"] I asked in Guide chat.
+
+"Well, Ash, obviously, because this retelling will spike his heart rate even more than your demon shape did."
+
+["It didn't."]
+
+"Sure, you were the one with the heat vision and chose not to notice."
+
+["And Jamie?"]
+
+"Because I want him to notice that it bothers him when Ash has the hots for you."
+
+["Lucy. Are you playing matchmaker?"]
+
+"According to many of this world's churches, homosexuality is a sin. It is my infernal prerogative to foster and encourage it."
+
+["You've lied more gracefully before."]
+
+Speaking of the least devil-like person, Jamie ran up to me the moment I was out of sight of the mall.
+
+"How did it go?" he asked.
+
+I gestured at the shopping cart and started loading its contents into my inventory. "Swimmingly. Nearly zero violence."
+
+Jamie helped me empty the cart. "They just bought your story? That you were working for Mammon?"
+
+"Yup. No magical truth-knowing. I wore the costume, they bought the lie. The Blessing doesn't make them magically aware of what is and isn't true."
+
+"How come this mission was a sudden priority? She told me about the favor you already did for her today. Why the need for a voice?"
+
+"I can't really talk about most of the plan, but the basic gist of it is that I need someone who can negotiate in a high-risk situation."
+
+"She gets a voice because she has disposable bodies?"
+
+"That's a horrible way to phrase it, Jamie. But, yes."
+
+#
+
+When we returned, I left the others behind before I had to witness Lucy's retelling of my adventure and instead went to set up my workspace in the former truck bay. There were already some tools there and a workbench, so it felt natural.
+
+While I worked, I also got a Wyrm 101 from Gabriel. It was powerful and could infect just about any device, but it needed an attack vector. So I took care to physically remove any wireless capabilities from the devices I worked with.
+
+While I had plenty of opportunities to understand my new physical capabilities, this was the first time I could really grasp what those mental attributes did. At a glance I could understand the hardware I was working with, and years of half-forgotten knowledge easily flooded back to me.
+
+The Blessing acknowledged my experience and revealed a skill.
+
+[Tinkering (Hardware) - 7]
+
+And then, when I worked with a booted-up laptop, the effect was even more stark. I had been good at my job, but those raised attributes made accessing my skills so much easier. And once I worked with them, the Blessing also added those.
+
+[Tinkering (Software) - 10]
+
+I had been worried I'd have trouble developing this, without any access to the internet. But within two hours I had a working prototype. It was basically a keyboard with a laptop battery strapped onto it, a microcomputer and a speaker.
+
+Eventually I'd replace the keyboard with something more ergonomic, but that would take a lot more time and materials.
+
+The others were out, training and scouting for opportunities to gather experience. So I carried the entire setup, along with a spare laptop, over to Claire's. I knew that she wouldn't have built this for herself, but the moment it existed she'd want to tinker with it. So the laptop was already set up so she could easily change the underlying software of the whole thing.
+
+I walked into the living room and typed 'Hello' on the keyboard. A robotic voice repeated the word from the speaker.
+
+Curiously, the chat transcribed it as something I said.
+
+One of Claire's mannequins approached it and took the contraption from me. She sat down on the couch and began typing.
+
+"Hello, Eve," said the robotic voice. This was transcribed as Claire speaking.
+
+#
+
+"There you go. Sadly I didn't have any better voice samples. If you look around you might find a PC that isn't infected and has better voices on it. Or record one from another Blessed."
+
+She typed again.
+
+"I will see about that. It is not a priority."
+
+Of course it wasn't. She wouldn't admit to wanting something for herself. I put the laptop down on the table.
+
+"Got a dev environment set up on this. I'm sure you'll find usability issues with this, but I'm sure you can fix them yourself."
+
+More typing. "I will."
+
+I stood there, lingering. I wanted to talk to her about breaching the sound barrier. About my infiltration of the mall. The things I'd learned. But none of those were easy topics after I had already killed her twice within three days.
+
+I turned and left.
+
+"Bye, Eve," said the robotic voice.
+
+I sat in front of the fire station, testing the red fox shape. Sitting at full ATP was a waste, when I had shapes to rotate through. What I had assumed would take up all of today had been done before noon. There were 11 minutes remaining on that fear debuff.
+
+I swapped back to human shape.
+
+"Gabriel? That Instinct skill. Will it provide the instincts to operate shapes that don't exist like that? If I use Might of the Meek for the Hawk shape, will it try to fly like a small hawk or a giant one?"
+
+"The Blessing will adjust the shape's instincts to its current size."
+
+I pulled the goggles out of my inventory and put them on. They had a considerable 5-minute bonding timer. Then I took out the glaive and started swinging it. If I were to ever pull this out in combat, I needed to at least have a minimal understanding of its properties. This would be easier in any of my humanoid shapes, but using my weakest shape, my human one, probably made for better training.
+
+While I swung the weapon, I checked something.
+
+"How come I can apply Might of the Meek to a freaking honey badger? Aren't they supposedly incredibly tough?"
+
+"This took you longer to notice than most," Gabriel said. "Yes, a honey badger is very tough, but that will most likely be reflected in a whole host of traits. Natural armor, flexible skin, poison resistance. If you had picked Evolutionary Shortcut at level 4, those would be the traits you could have copied."
+
+"Do you think I should have?"
+
+"No, I think you made excellent use of Tooth and Claw so far. Also if you had, you would have noticed the cat's Nine Lives trait and I think that would have done you more harm than good."
+
+I went back over the memories of that first night. How I had ended up with only a tiny amount of health in the cat shape twice in under an hour.
+
+"That's one hell of a secret to keep, Gabriel."
+
+"You, Eve, are the last person who needs to be told she can take more risks."
+
+"Touché." I continued my practice a bit, but the perk discussion stuck with me. "Do perks ever get offered again?"
+
+"Usually not, no. As you will have noticed they are very specific to your situation. I have seen items appear like an Elixir of Regret, or even its greater cousin. The former grants you one previously not-selected perk, the latter gives you a choice of three unselected perks."
+
+"Does that mean I'm potentially messing up my level 16 perk today? By adding options around infiltration, tinkering, or armed combat?"
+
+"You picked this class because of its endless potential for flexibility. Even if you got offered perks along those lines, that doesn't mean they wouldn't offer a significant advantage. Also, you are swinging this far too wide. While you want those fluid motions, you need to keep the weapon closer to your body."
+
+"Of course you know how to instruct on melee combat."
+
+"If you step inside, I can show you properly."
+
+I did. We had the entire fire station to ourselves anyway. I had only intended this to kill some time until that debuff ran out, but a bit more time to at least learn about the essentials would serve me well.
+
+Instead of her flimsy tunic, this time, Gabriel manifested in full angelic plate armor.
+
+"Badass," I said.
+
+Gabriel smiled, that rare fierce smile of hers. "I don't spend all my days in the heads of Blessed."
+
+"What is your regular job?"
+
+"Sadly, that's beyond your clearance."
+
+"That sentence made you sound like a spook. Do you work for Heaven's CIA?"
+
+"If I did, I couldn't tell you."
+
+Twenty minutes later, I really appreciated my Instinct skill. While all my natural weapons came with their own distinct skill, Instinct at least gave me a baseline to work from. I had none of that for martial arts and armed combat was a lot less intuitive than I had anticipated.
+
+By the end of our session, my polearms skill had risen to an astonishing level of one. And my arms burned with exhaustion.
+
+My debuff had quietly run out, and among my ever-growing list of passive traits, I now had Self-Damage Reduction (10%).
+
+At least I wouldn't need a shower. I'd go and visit my pack and then swimming was in order.

@@ -1,0 +1,201 @@
+---
+id: 7e51b5b6-faab-51f0-aa23-323ef02b8b3c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55"
+slug: 0062-chapter-55
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 62
+ownLength: 2931
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3807912/chapter-55"
+royalRoadId: "3807912"
+---
+
+“I’m going to do it. While you’re sitting there and dying, I think I should go ahead and use my talent points.”
+
+“Stop. No. What?” Was all Nix managed in between whimpers and gasping for air on the freshly summoned bench. She’d returned to her attempts to unlocking her Running skill. By now, she seemed convinced that persistence was the key ingredient, and she kept running herself into the ground.
+
+Apart from what this constant stopping and starting did to our travel speed, of the day, our progress had been light-hearted and in good spirits. We’d all earned ourselves some decent improvements and were finding that we were, after all, functioning quite well as a team.
+
+Steve was our boy scout, regular scout and Scout class all rolled up in one. He helped with anything from how to tie the best knots, to scouting out the terrain and finding water. He insisted that he was less useful in battle, and tried his darndest to make up for it in all other ways.
+
+Nix… talked. But there was more to it than just a constant need to jabber away. She seemed genuinely interested in getting to know Steve and I. And what’s more, in ensuring we all got along. Not only did I find myself talking about stuff that I’d never shared with anybody except for once, with a school-provided therapist. But I actually felt decent about it.
+
+Haddock, meanwhile, was just there. Except, that was wrong. I was kinda coming around to understand his and Nix’s rapport. He wasn’t just there. He was always lending his support, with a glance, with his presence, with his constructions.
+
+Gods, so many constructions. After he’d finally unlocked the higher rarity, it seemed like he wanted to ignore everything else and raise his Construction skill to its first evolution through sheer grit and mana abuse.
+
+Local spring filled with water? Summoned cups for all. Steve wanted a panorama view to spot possible hostiles? Large stepladders sprang into being, replete with a fancy seat up top. Nix complaining that she’d die from stamina over-use? Large chairs arrived for all to take a break. Whenever he wasn’t building anything to be helpful, he was summoning building materials for his storage. Whenever we arrived to take on the Kadren, we were going to be ready and, apparently, prepared to build an entire goddamn city if need be!
+
+I tried to keep my promise, and spent a good deal of time trying to explain the fundamentals of footing and dodging to Haddock. This wasn’t the easiest trick in the book, when it turned out that he had absolutely no sense of timing or natural preservation.
+
+I wasn’t getting any mana skills either. Neither Mana Efficiency nor Mana Shield. Even though I tried to exhaust my mana all the time using Spot, it just wasn’t clicking for me. My interim conclusion was that Cuilcis likely knew what he was talking about, and that, without our Starved Growth trait, we’d have learned a lot fewer skills than we had. I didn’t have it in me to tell Nix that Running likely wasn’t going to happen.
+
+From her spot in the impressively sculpted clay recliner, Nix was persistently waving a hand to catch my attention.
+
+I blinked and finally emerged from my introspection. “What’s that?”
+
+“Please don’t use your talent points yet!”
+
+“Erm. I’m trying to come up with something a bit more forceful than no and failing. Hell no! Nix, I’ve tried to get this damn talent since Level… 12 or something, and I’ve had to scramble so many times, picking something else just to survive. I just know, unless I seal my talents in right now, something will jump up and make me change my mind.”
+
+“Just… no! Hear me out. You’re Level 24, right? What happens at Level 25?”
+
+Scowling, because I was starting to see what she was aiming at, I admitted. “I… don’t know. I guess I’ll be getting a sixth tier of talents to pick from.”
+
+“Right. Potentially amazing talents, that might be better than the Tier… what? Talent you’re seconds from picking right now.”
+
+“Tier three. But it’s not about the Tier. It’s about the usefulness. I’ve needed a taunt so damn many times. Some way to influence the battlefield!”
+
+Nix smiled at me, not unkindly. “Uh huh. Now, this is obviously always your decision, and I can’t do squat. But I have two points to make. First. I agree with you that a taunt of some sort would be amazing. Especially for us softies who rely on you to get hit instead of us. Yet, even if you wait and are forced to spend the talent points on something that’ll save our lives… wouldn’t it sort of make sense that the alternative would’ve sucked worse?”
+
+I glared at her. Of course, she was right. I just knew things were going to go wrong, and I’d end up not getting my talent.
+
+“Also,” She continued, mercilessly pummeling the point home. “We have no clue what happens at Level 25. None of the leaders back in the Ever Steady talked about it – if any of them hit it, that is. But you know what happens to your skills at Level 25. What if the same happens to your class? What if you gain something that changes everything? Wouldn’t you have liked to have five, no six, talent points ready to go?”
+
+I turned my head and looked at our local lumberjack-turned-constructor. “Haddock. Look at me. This is what you signed up for. A woman who will insist she’s right and rub it in your face.”
+
+He smiled. Poor Stockholm-Syndrome ravaged bastard. He actually smiled.
+
+I saved the points. It seemed like the thing to do.
+
+***
+
+Later in the day, we arrived at our second and last target before arriving back to the Kadren. They were supposed to be large, but slow bull-like beasts with tough exteriors and the ability to slightly manipulate their surroundings to their advantage.
+
+The beasts weren’t there. Or rather, their corpses were. Beaten and battered, the large shapes were only recognizable because we’d been explained what they looked like.
+
+Their killers, unfortunately, were still around. And what was worse – they saw us first.
+
+Ceaseless Scout.
+
+Level 25
+
+Health: 163/180
+
+The scout looked like how I would picture a humanoid praying mantis, if it stood upright and was constructed from naked muscle. The damn thing stood stock still two thirds up a nearby hillside, half a kilometre away from the scene of slaughter, dirty flesh blending in with the mud of the hill. Neither of us noticed it, as we focused on the dead beasts we were supposed to be fighting – that is, until it stretched one multi-jointed limb at us and screeched.
+
+The sound was piercing, shrill and utterly inhuman.
+
+“Oh, crap.” Steve breathed. “That’s not an animal. And that wasn’t just a cry. It was a message!”
+
+It took only a few moments before I could see how he knew. Because the damn things were barrelling toward us, clearly with murder as their only goal.
+
+Ceaseless Collector
+
+Level 1
+
+Health: 50/50
+
+Ceaseless Collector
+
+Level 1
+
+Health: 50/50
+
+Ceaseless Fighter
+
+Level 25
+
+Health: 235/380
+
+Ceaseless Fighter
+
+Level 25
+
+Health: 281/380
+
+Ceaseless Scout
+
+Level 25
+
+82/180
+
+I only had the time to identify the first five beasts, thought there were at least twenty of them. There were three different types. This Scout looked exactly like one farther back, except this one looked like it been in a terrible accident involving multiple blunt instruments. The Collectors, meanwhile, were squat and slow, and basically looked like if you had a brown bear skinned, and mated it with a dump truck. They were also falling well behind… or possibly just staying back? The Fighters were… my worst nightmare. There were really no experiences in my upbringing to truly encapsulate the disgusting, bestial terror they inspired. It was like if you took a werewolf, and fed it enough amphetamine to make it lose any emotion but unrestrained rage. Oh, and then you peeled it of its skin, making it look like raw flesh and muscle, like the others of its disgusting kin.
+
+“We need a tower!” I shouted.
+
+”No time.” Haddock groaned.
+
+”Rocks from the sky!” Something! Anything to cut off the beasts barrelling toward us. I could stop one. Maybe two. But they were too many.
+
+”No. Time.”
+
+“I’ll buy you time. Doubly flashy power activate!” Nix’s Flash Flood activated, and a massive wave of water emerged from the sky, splashing across the ground in the direction of the incoming beasts. The impact was brutal, even without any funnels, with the double impact effect from the Magical Damage skill showing its ugly head.
+
+For a second, the incoming beasts were hidden from view by the water masses. Yet, as the massive wave passed, two beasts clawed their way back up, half-obscured in mud, and started racing our way again.
+
+Haddock shouted something “-you handle them?”
+
+“Yes!” I screamed back.
+
+A wall slammed down on my left, close enough I jumped from the shock. Ten meters long, thick enough to stop anything short of a bloody dragon, and… angled strangely away from me, backward and outward.
+
+The beasts raged on. There was… one Ceaseless Scout, it looked like, and two Fighters at the forefront. The Collectors had all either died or remained behind.
+
+The second wave of beasts followed right on the heels of the first. I didn’t even bother to check how many would arrive there. I just hefted my shield, extracted my buckler, and prepared myself.
+
+I nearly wet myself when the second wall slammed down on my right. It mirrored the first one, angling back and outward, but the other way. Now, my view was cut off on both sides, except for the narrow two-meter-wide opening ahead.
+
+No time. The first Fighter flung itself at me, sprinting on all fours with the abandon of a labrador who’d just spotted its favourite playmate, only with long, serrated claws instead of joy-filled barks and slobber.
+
+I stood my ground, activated the effect that doubled my Resilience for a minute and slammed the spikes on the bottom side of the shield into the soil. Then I braced myself and said a prayer.
+
+The impact nearly sent me stumbling. Nearly. Instead of getting bowled over, the mass of the Fighter threatened to flatten me underneath the shield for a split second – right up until where both Deflect and Wave of Reflection kicked in and sent the monster sprawling away from me, followed by a dark wave of well-deserved pain.
+
+For a full minute, that was all I did. I stood my ground, flung any attackers away with Deflect, sometimes added on a Wave of Reflection to make them think about their life choices and… not much more. Once, I got my bell rung from a mistimed swipe that barely reached above my shield, but I used my Self-Heal ability to remove the resulting debuff so fast I didn’t even see what it said.
+
+I considered activating the Dodge effect to improve my dodging abilities for the next minute. Then I realized… it wasn’t actually necessary. Not only was I standing my ground and barely losing any health. There wasn’t really the room for any fancy dodging and… well, they couldn’t really match up to me.
+
+Yes, the ugly monsters were massive. They were clearly also super strong, and if I decided to tank a direct hit with my forehead, I’d regret it. But the way I was positioned, they had no way around me. And they weren’t strong enough to push me back, when they didn’t come charging in with added momentum.
+
+I extracted my buckler to aid with additional attacks.
+
+A voice from behind interrupted my half-formed thoughts. “Good work. I’m here to help. I’ll shout which side I’m attacking on. Beware the buffs disappearing.”
+
+I jumped and just barely fended off the searching paw of a Scout with my buckler and an added serving of Deflect that sent it tumbling to the left with a vengeance.
+
+Instantly, Steve shouted “Left.”
+
+I didn’t know what to do. A Fighter was stumbling my way again, slowed down by what had to be a broken paw. Behind it, another Scout and Fighter were pushing to join the ranks. I stood at the centre of the opening, unsure what Steve was planning.
+
+Turned out, I didn’t have to wonder for long. Before the Fighter even reached me, Steve appeared out of nowhere, his invisibility fading into nothing on my left, as his long spear pierced the unprotected throat of the fallen Scout and pushed deep. With a wild grin, he twisted the spear, extracted it, and sprinted back behind me.
+
+I fended off the Fighter, sent a Wave of Reflection against the other Scout that tried to leap past me, but met with my buckler instead, and welcomed the next Fighter with another well-timed Deflect, which tore its limb out of the socket with a disgusting cracking sound.
+
+“Right.” Steve was back.
+
+My eyes shot behind me before returning to gaze ahead. He was invisible again. I shuffled a bit to the left, watching him take out the de-limbed Fighter with gusto, this time with a javelin, and shuffle back again with an unhealthy grin on his face.
+
+A few minutes continued like this. I took out a few enemies of my own with Wave of Reflection, carefully monitoring my stamina use. Steve assassinated at handful on his own, picking his moments where there were no nearby beasts who’d be able to punish him.
+
+I was entirely caught up in the fight, my full attention fixed on my surroundings. Enough so, that I didn’t even notice any sounds and effects from beyond my personal defensive position. Right up until we’d already won.
+
+It happened from one second to the next. One moment, two Fighters were trying to fit into the narrow opening at the same time, managing only to get in each other’s way. One earned itself a Wave of Reflection. The other, already badly hurt, was met with a spear thrust to the skull.
+
+I stood for a moment, braced against my shield, ready to take on anything or anybody ready to challenge us next, when I realized… there were no more beasts coming.
+
+I blinked and looked behind me. At the back now stood a third wall, creating a triangular inner court, with only ‘my’ gate as an access point. There was but a single other construction inside the walled-off area. It was the weirdest thing. It took a few attempts to even fathom what I was looking at.
+
+It was a staircase. A spiral staircase growing right out of the grasslands, like some sort of weird-ass beanstalk. It was built around a thick central pillar, with rough planks of some material leading up to a platform overhead, placed on the pillar, sporting a single hole for access.
+
+After a few seconds of consideration, and more than a few glances at my surroundings to ensure nothing was sneaking up on us, I realized the brilliance of it all. The pillar was all piecemeal, added together little by little and conjoined by the means of magic. They’d be able to climb the steps as Haddock created them, getting themselves out of the reach of any pursuit. And he could, at a simple thought, cancel any one of the steps leading up, sending climbers tumbling down, or cutting off access entirely.
+
+Except, those were all contingency plans they hadn’t even turned out to be necessary. They’d simply fled up and to safety. And from up there, with a clear view of the surrounding walls and the Ceaseless monsters attacking, they had managed to gain the kind of panorama and safety that was needed to pick their options and make them pay for attacking us.
+
+I ambled around near the opening, making sure that I didn’t go too far away, taking in exactly what they’d wrought. What I saw made me reflect on my situation and choice of companions.
+
+Apparently, there’d been quite a few of the Ceaseless around. The number I’d clashed with was drowned by the number that lay dead or dying in the grasslands around us.
+
+I took in the image of a Ceaseless Scout lying broken in the grasses. Whatever blood it had contained had long since watered the surroundings, and now just the bent and twisted remnants of the body were left. It had been crushed down into the soil, at least thirty centimetres, its skull smashed and flattened to oblivion, two of its limbs bent in unnatural angles. The thick slab of a concrete-like construction still remained in place above it.
+
+This, apparently, was what happened when Haddock had the time to enact his ‘rocks from the sky’ approach.
+
+Other signs weren’t as over the top as this one Scout. Yet, proof of the pair’s impact was everywhere. Torn-up muddy streaks remained next to still-smouldering patches of grass, from where Nix had unleashed her elemental payloads.
+
+Everywhere, corpses. A few still twitched and moved pitifully, trying to escape being trapped or trying to attack on broken limbs. Yet, most were permanently still.
+
+A few hundred meters away, the original Scout, the one who spotted us, remained. It pointed to us and called out, shrill screech tearing through the silence again. Then it slowly turned and started running. Away from us, in long, loping movements.
+
+“Well. That’s not ominous at all.”

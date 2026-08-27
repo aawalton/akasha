@@ -6,10 +6,7 @@ slug: master-plan
 domain-parent-slug: domain/global
 sequence-slugs:
   - page-type/check
-  - page-type/mp-patch
-  - domain/master-plan-worktree
-  - domain/master-plan-deploy
-  - domain/master-plan-service
+  - page-type/patch
   - domain/mp-graph
   - page-type/mp-command
 ---

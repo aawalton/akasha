@@ -1,0 +1,103 @@
+---
+id: 24821a80-2763-5980-91f6-67ef939c078c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: Conclusion"
+slug: 0036-chapter-34-conclusion
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 36
+ownLength: 2631
+unit: words
+publishedAt: 2026-07-26
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3730022/chapter-34-conclusion"
+royalRoadId: "3730022"
+---
+
+~ Before Molly's Final Attack
+
+Fiona, Sebastian, Zen, and the Phragons had put a great distance between themselves and the battle that had erupted the moment they departed the threshold of Tsayad forest. They reached a place of relative safety atop a mountain near the village of Yerakot, its peak jutting into the night like a stone sentinel.
+
+Upon dismounting from the Phragon, Fiona offered Nom Nom a bow of gratitude, her palm pressed briefly over her heart. Nom Nom returned the gesture, dipping her head low and fluttering her broad wings in acknowledgment. A warm smile crossed Fiona's lips at the sight, a fleeting softness in the midst of so much chaos. Soon after, she turned, lifting her gaze toward the night sky. The smile faded. The heavens above had been dyed a terrible grey, as though all life had been leached from their expanse. She stared upward with a mixture of awe and dread, watching the distant battle unfold between the hooded figure and the colossal lich. Though the distance blurred the finer details, she could perceive enough, the flashes of searing light, the silent concussions that rippled through the clouds. Based on what she had gathered, it seemed the hooded stranger had taken the battle above the clouds, as though to shield the earth below from the full weight of their clash.
+
+"I once had a thought."
+
+Fiona heard Sebastian's voice from beside her. His tone was strangely calm, carrying the quiet acceptance of someone who had made peace with a long-held question. She glanced at him and found his gaze still fixed on the heavens, his expression caught between reverence and something she could only describe as wonder. Sensing her attention, he continued.
+
+"If it was truly possible to witness a battle between beings of a caliber greater than a normal Archmage."
+
+Just as the words left his mouth, the hair on his arms rose. Every instinct he possessed screamed a single, primal warning, death! He watched the clouds split apart, the night sky immediately dyed a more terrible grey, stripped of all vitality as though creation itself had drawn a dividing line and swept away everything that had been standing on the wrong side of it.
+
+A small, fleeting smile lifted the corner of his lips. "I finally got my answer today." He glanced at Fiona, who was rubbing her arm while speaking quietly to Zen. The green-haired woman stood at her other side, her stoic features tight with unease. Fiona had noticed the sudden prickling sensation on her skin, and judging by the way Zen's jaw had tightened, it was not hers alone. Upon catching Sebastian's gaze, Fiona looked at him. She saw that fleeting smile still lingering on his face as he opened his mouth and spoke.
+
+"We wouldn't even survive less than a second the moment the battle begins," he said. "Their magic is beyond anything someone of our level can comprehend."
+
+He shifted his gaze back toward the sky the moment a faint thrumming sound began to resonate through the entire area, a vibration so deep it seemed to hum in the hollows of his bones. He watched the heavens for a suspended moment as a vast formula began to etch itself into existence behind two other colossal formulas already blazing above. This particular spell was larger, grander, and its color was like the heart of a volcano vomiting its molten fury into the firmament, the color of the world's last scream before annihilation.
+
+Sebastian drew a slow breath and concluded quietly, "Their powers are things that shouldn't exist in the mortal world."
+
+The moment the words left his lips, the three vast formulas far above in the grey night sky pulsed, once, twice, three times in perfect unison. Their colors bled into one another at the edges, glowing so intensely bright that the light of the moon was utterly swallowed. Blue-white melted into gold, gold into red, and together they created a multicolored corona of annihilation. The trembling gaps between the rings of the formula collapsed.
+
+And just like that, the world trembled.
+
+Multicolored lightning struck above the clouds, hammering the colossal figure of the lich with bolts that seemed to carry the weight of a world's judgment. The brightness of those strikes forced Sebastian and the others to shield their eyes, their arms lifting to cover their faces. Nom Nom and the other Phragons had to bow their heads low, pressing their snouts toward the earth so they would not be forced to witness the fury of the world made manifest in its full, searing glory.
+
+The world trembled further as more bolts were loosed. The mountain they stood upon shuddered violently beneath their feet, its stone groaning in protest, unable to endure what was happening in the sky above.
+
+******
+
+Molly flicked her wrist again. She let the [Tier 13] formula, [Fury Of The World], loose for the third time, and the blue-white, gold, and red lightning bolts tore across the distance between herself and Moés, striking the lich with deafening booms that split the very air.
+
+The lich's body charred black as the lightning bolts meant to obliterate him completely, kept striking without mercy. He raised his scythe, his reflexes honed across millennia, and managed to block some of the incoming attacks. The death-blade killed several of the lightning strikes out of existence, but the effort was a dam made of sand against a tidal wave.
+
+Molly's brow rose as she observed this. A small smile soon lifted the corner of her lips. She immediately understood what needed to be done. Without wasting a single heartbeat, she brought both of her hands together, not clasping them but holding them close—close enough that it appeared she was shaping the air itself between her palms. And in truth, she was doing far more than that. Following the simple, deliberate gesture, all the remaining white symbols drifting across the breadth of the sky began to answer her silent call. They rushed toward her, streaming through the darkness like tributaries returning to their source, as though they were one with her very being.
+
+In that moment, the rough white symbols ignited. They blazed to life like stars dragged down from their ancient orbits, and they began forming four new formulas that materialized around the lich on all sides, surrounding him with a cage of impending judgment.
+
+The first symbols gathered, weaving together on each of the four, assembling into the formula [Thunder Bolt] with that same sharp, keening shriek that cut through the night. The first structures encapsulated the spells. Then, with the sound of the sky splitting open, the completed formulas were suddenly dyed a blinding, blue-white—the color of a lightning bolt caught at the exact moment it kills, the color of heaven's fury unsoftened.
+
+The second symbols began taking shape, each surging outward, spreading wider, growing larger. They arranged themselves with a resonant, bell-like hum, weaving together into the formulas of [Cleansing Light]. The second structures encapsulated the golden spells. Then, with a chime that echoed across the firmament, they were suddenly dyed a blazing, molten gold—the color of dawn breaking over a world that had never known night, the color of light that judges all things caught within its radiance.
+
+And then the final symbols, the greatest of them all, began taking shape on each of the four formulas. The symbols did not gather—they stormed, sweeping outward in colossal rings behind the first two in each formation, dwarfing them both. They wove together into the formulas of [Fury]. The third structures, circles vast enough to encompass the sky itself, sealed the crimson spells. Then, with a roar that threatened to shatter the very fabric of reality, they were suddenly dyed a blazing, apocalyptic red—the color of volcanoes vomiting their molten hearts into the heavens, the color of the world's last scream before the end.
+
+The [Fury] formulas rose behind each of the [Cleansing Light] spells, larger still, their edges overlapping as the gold overlapped the [Thunder Bolts]. The four completed [Fury Of The World] formulas now joined the one she had been using to keep the lich occupied, making them five in total. They pulsed—once, twice, three times in perfect unison, their colors bleeding into a blinding radiance that made the night seem like day, then growing far brighter still, until it seemed like the coming of an apocalypse.
+
+Molly watched as the lich finally took notice of the other four [Fury Of The World] formulas encircling him. She saw his skeletal grip tighten on the haft of his death scythe, the bones of his fingers creaking with tension. He knew what was about to happen. A triumphant smile played on Molly's lips when she saw this. Perhaps she might truly be able to defeat the lich without resorting to her affinity after all. Without wasting another moment, she let the five [Fury Of The World] formulas loose.
+
+The sound that erupted was so deafening that it could not even form itself into noise. The only thing it could do was drive deep into the very marrow of the world, triggering an earthquake that rolled across the land beneath. Multicolored lightning burst from the five formulas, striking the colossal figure of the lich with violent impacts that fractured reality itself, splintering the air like shattered glass. Moés could not block all five at once. Even the one he tried to intercept bypassed his scythe entirely, obliterating the blade into nothingness while simultaneously ravaging his ancient form. He attempted to leave the striking zone of the formulas, to flee the epicenter of the world's fury, but his body no longer answered his commands. It felt as though his very existence as a lich was being rejected by the world itself, and he was being punished with the concentrated rage of all living things.
+
+"No…" he rasped, the word scraping out of his skull. "I am Moés Má-vet, the Defier of Death." Death energy began to swirl around his colossal body, coiling like desperate serpents. "I will not be easily defeated. I cannot lose like this."
+
+In that moment, a formula pulsed on Moés' skull, its symbols already etched and blazing. The formula pulsed once. Then it broke. From the completed emblem, a shockwave of invisible death-energy erupted outward in an expanding sphere. It moved in perfect and terrible silence, a wave of pure cessation sweeping in all directions. It immediately clashed with the five [Fury Of The World] formulas in an immense, grinding deadlock that sent fissures spiderwebbing across the sky. Moés poured more of his will into the attack, pushing the five formulas back, even if only for a moment. And a moment was all he needed.
+
+His empty violet sockets immediately turned in Molly's direction. The white symbols in the air were already gathering, assembling into another formula at his silent command. But the glow in his eye sockets could not help but tremble. It dulled, deepening with a cold realization as he noticed that Molly was no longer where she had been. He glanced around, his perception sweeping the battlefield. He searched for the five [Fury Of The World] formulas.
+
+They were gone.
+
+The light in his eyes hardened as understanding crept through his mind like frost spreading across stone. He had been tricked.
+
+Before he could move, chains immediately wrapped around him, coiling around his entire body, every limb, every joint, every vertebra, until he was bound in an unbreakable lattice of veined decree. He groaned with raw fury as he strained against the restraints, but his strength availed him nothing. He was bound by [Chain of Edict], the crystallized concept of restraint itself.
+
+"What do you take me for!" Moés roared, his voice shaking the sky. His existence flared, rising like a black sun, and a formula began forming on his skull, pulsing, preparing to complete and shatter the chains that held him. But before he could trigger the spell, he froze.
+
+A robed figure had appeared directly in front of him, her hand raised and placed close to his skull. The glow in his eye sockets trembled violently as he saw the unknowable symbols drawing themselves into reality before her palm, like the final page of a story being written, the stroke of a pen inscribing the last sentence of a tale that would now never continue.
+
+The first symbols assembled into the image of a great, absolute period, a full stop, a circle of perfect, unbroken black, small yet heavier than any mountain, the weight of an ending condensed into a single point of punctuation. From its circumference, the remaining symbols surged outward, arranging themselves into thirteen long, slender strokes. Each was shaped like a closing pen-stroke, the exact flourish an author makes when a tale is done. At the tip of every stroke, an arrowhead pointed starkly outward, not with fury but with the quiet, irrevocable authority of a verdict read aloud for the last time. Between these stroked lines, smaller symbols gathered into miniature closed books, their covers sealed, their pages pressed flat. Into tiny quills that had snapped cleanly in half. Into small, lidless eyes that were already shut, never to open again. This was the completed root—a root that spelled conclusion, the unwriting of a name, the closing that admits no sequel.
+
+The final symbol was the structure, a circle of absolute stillness that encapsulated the entire arrangement, binding the great period, the thirteen terminal strokes, and all the gathered emblems of conclusion into a single, immaculate final word.
+
+Moés watched the completed symbol in silence, already knowing with the deepest certainty, that this formula was irrevocable. A dry chuckle escaped his lipless mouth. "So this is it," he said, his gaze shifting to Molly, whose face remained shrouded within the shadow of her hood. "So this is who you really are?" He returned his gaze to the formula, studying it with the reverence of one who had spent eternity seeking forbidden knowledge. "I had thought it was nothing but a myth. But now that I see it…" He studied the formula deeply, as if he might never witness something like it again—and indeed, he knew he would not. "I fully understand why it is indeed terrifying."
+
+A sigh of acceptance escaped his skull when he noticed the completed formula being dyed the black of ink drying on the very last page of existence, its outermost edge tipped with a thin, fading red, the color of a story told, now over. The red that remains when all else is written and nothing follows.
+
+Seeing this, Moés spoke one final time. "Before Death, all things kneel. But before the End… even Death draws its final breath." He glanced at Molly now, entirely ignoring the formula that was about to conclude his existence, and he spoke in a tone of genuine amusement. "You are my ending."
+
+In that moment, the completed formula simply passed through all of Moés' defenses and magic immunities as though they were mere footnotes in a book already closed. It delivered his conclusion with no more force than a page turning.
+
+Swoooosh…
+
+A deafening silence swept the whole sky, as though nothing had ever happened.
+
+Moés, upon whom Molly had cast the [Conclusion] formula on, was nowhere to be seen. It was as if every thread of his existence had been drawn to a close. His past became a completed memory, his present a final moment, his future a blank page that would never be written upon. He was simply no more, and the world continued as though he had always been a completed chapter, closed and remembered no more.
+
+The battle had ended.
+
+And with it came the defeat of Moés Má-vet, the Defier of Death.

@@ -1,0 +1,169 @@
+---
+id: bdf11cf6-c58b-5c3c-b3ec-28b48b54a755
+page-type-slug: story-chapter-royal-road
+title: "Chapter 322 : Magmatic"
+slug: 0023-chapter-322-magmatic
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 23
+ownLength: 2120
+unit: words
+ownProgress: 2120
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2828798/chapter-322-magmatic"
+royalRoadId: "2828798"
+markedReadAt: "2026-06-29T19:42:34.101Z"
+---
+
+<Proficiency gained. [Magma Magic LV 1] improved to [Magma Magic LV 2].>
+
+<[Magma Magic LV 2] spell [Erupt] learned.>
+
+As expected, it didn't take me too long to reach level two in [Magma Magic], and I was rewarded with a new spell for my troubles. Despite its impressive-sounding name, the spell didn't quite live up to the same expectations.
+
+What [Erupt] did was cause a targeted segment of magma or lava to immediately burst like a bubble, scattering the dangerous molten rock haphazardly. That casting criteria was particular for an effect I was pretty underwhelmed by.
+
+However, upon closer examination, I soon found out that you could target rocks with it as well, which caused the rock to build a molten core inside before exploding in a similar fashion. You traded convenience for a significant casting delay, although I imagined there were ways around it.
+
+Just throwing a rock with [Earth Magic] and then casting [Erupt] on it would be quite a weapon. Although I have to admit it feels like a poor man's [Nitro Slime]. I should make my next identity a magma mage so I can "cast" [Nitro Slime], hehehe…
+
+After fiendishly giggling over future ideas, I moved on to my next task and used [Skill Deconstruct] on my newly improved skill. I confirmed the prompt, and once again, I felt the knowledge fade away, only to be replaced by something else.
+
+<Skill [Magma Magic LV 2] has been lost.>
+
+<[Magma Magic LV 1] spell [Molten] has been forgotten.>
+
+<[Magma Magic LV 2] spell [Erupt] has been forgotten.>
+
+Yet, the information was still less than I expected. Even adding the "level two" information to my previous "level one," the combined result was rather lackluster. Unlike the other skills I'd deconstructed, this one felt like putting together a puzzle, and I'd only gained three pieces, which weren't enough to connect or even guess what the assembled picture was.
+
+I suppose I'll have to continue doing this in my free time. Hopefully, in the next one or two attempts, I'll get an idea of what I'm trying to create.
+
+Despite sacrificing a magic skill, I could still cast the two spells thanks to my [Sub-Cores]. I'd also gotten [Derived Element (Magma)] to level nine thanks to my repeated usage, so it was on the verge of becoming a full affinity.
+
+It's too bad I don't have a trait deconstruction skill. If I did, then I could maybe create fake affinities for myself.
+
+I already had many affinities, most of which I didn't even really use, if I was honest with myself. Still, I couldn't help but feel an itch calling me to "have them all."
+
+But those thoughts and my [Magma Magic] puzzle would have to wait as it was time to leave and meet up with Vee back at the inn. I sailed back to the dock, and to my surprise, I had a few people waiting for me.
+
+"Sylvain, we've got a better job for you tomorrow, I hope you'll take it!" the dockmaster pleaded.
+
+"Uh… sure? I've been enjoying the patrols, though," I replied.
+
+The dockmaster had a pained expression to my response as he sighed and shook his head. "Admiral Nathaniel has been begging for you. Please reconsider."
+
+I shrugged. "Sure. I'll head out to Peggy tomorrow, then."
+
+"Thank you!" the dockmaster replied enthusiastically.
+
+I gave him my report for the day, and they confirmed the kills that were registered during my patrol.
+
+Once again, thank you, Gramps, for the [Sub-Cores]!
+
+There was a surprising amount of them, and judging by the amount of brinelings, there must have been a newly spawned den somewhere nearby. I was going to offer to search for it, but I'd already agreed to meet the admiral.
+
+When I returned to the room, Vee was already there and waiting. She shared her adventures for the day, which, to her dismay, didn't amount to much. It was a vast ocean, and she was blindly exploring it while occasionally taking breaks to eat or hunt.
+
+Vee tried to give me some monster corpses from her journey, but for whatever reason, [Consuming Osmosis] did not work. I'd long suspected the kills needed to be fresh, but the ones Vee brought out looked like they'd literally just perished, and still, my trait didn't activate.
+
+"Maybe it only works if I participated in the killing?" I suggested.
+
+"That's a stupid restriction," Vee replied.
+
+"It could be to stop me getting a profile for something I didn't earn," I pointed out. "Otherwise, I could hire some adventurers to bring me a dragon to eat."
+
+"After all the cheat abilities you've already used, it feels like such a strange restriction…"
+
+I could only shrug in response. It was disappointing, but I was sure Gramps had his reasons. While I wouldn't turn down a free meal, I personally preferred to eat what I hunted myself.
+
+After we caught up, I presented Vee with the completed [Blink] spell, much to her amazement. Thanks to [Ritual Casting] and [Companion Training], it was easy enough to guide Vee through the process, and it was immediately registered as an official spell, much to her delight. I was even rewarded for my troubles with a surprising increase in proficiency.
+
+<Proficiency gained. [Companion Training LV 8] improved to [Companion Training LV 9] .>
+
+"I don't suppose you can show me the [Warp] skill?" I asked Vee.
+
+"Sure, but if you don't [Blink] at level five, I don't think you can learn it," she replied before displaying the skill.
+
+I didn't even have the skill, but I had deconstructed it and officially recreated it. In theory, I could produce the effects of level ten blink if I threw enough loops and Mana into the spell. When Vee showed it to me, I immediately tried to buy it, and as I suspected, it actually worked!
+
+<Skill [Warp LV 1] obtained. Skill Points remaining: 9.>
+
+"Thanks! I hope to work this out as a spell, too," I replied.
+
+"Wait, really?" Vee replied curiously. "Why the sudden interest in creating fake skills?"
+
+I could only chuckle as any attempts to explain what I was actually doing were met with a strange form of censorship. I even attempted to write it down, and while it appeared to work for me, Vee let out a cry in horror.
+
+"Is something wrong with my eyes!? This page is all blurred! Oh gods, do I need to get reading glasses?"
+
+I quickly wrote something normal and relieved the suddenly panicked spider, who instantly calmed down. I wasn't sure if she was acting or being genuine, but I decided to let it slide.
+
+"Sorry, looks like I can't explain the reason. But I'll share the fruits of my labor with you," I offered.
+
+Vee nodded. "Having [Warp] again would be useful. It's not as fast as [Blink], but it can go much further, and the ability to bring passengers cannot be overlooked."
+
+And I think [Warp] would be the ideal combination with [Mapping] and [Triangulate] to make a proper long-distance traveling spell. Well, unless we get a way to create portals like Vee's webs as a spell.
+
+I could predict that [Rift Door] would be the way to accomplish that, but I was happy to wait until I got more spells or the Riftmancer class provided a skill for me to achieve that. Then I could take it apart and hopefully incorporate it directly into a spell.
+
+I used [Warp] a few times to personally experience it in action; it was just a slower version of [Blink], but upon activation, you could draw in willing targets within a small radius around you. Having experienced it firsthand, I wasted no time in throwing it into [Skill Deconstruct].
+
+<Skill [Warp LV 1] has been lost.>
+
+Information once again flooded my mind, startling me, as I had expected something small, like with [Magma Magic]. Thankfully, my mind was still pretty fresh, and I didn't experience any cognitive decline from the unexpected mental assault.
+
+Vee was concerned by my sudden anguish, but all I could do was reassure her that everything was okay. Not being able to share the details was unfortunate, as I knew from Vee's perspective that it must have been quite concerning.
+
+This was a level one skill. Why did it give so much information? I guess the magic skills really do behave differently…
+
+I looked over what [Warp] had provided me and was delighted as the information had been appended to my existing contributions from [Blink]. The best part about this revelation was that, since it did not provide overlapping knowledge, I had gained a considerable amount of detail pertaining to the unique aspects of [Warp].
+
+I think I can actually recreate this quite easily. I'm also delighted by the fact that the knowledge from related skills is pooled together. I wonder if my [Magma Magic] is giving so little info because I didn't break down [Fire Magic] and [Earth Magic] first?
+
+Unfortunately, I no longer even had those two magic skills, and I wouldn't dare break down [Basic Elemental Magic]. I was terrified I'd need to go through the whole process of reacquiring all four basic elements, leveling them up, and then fusing them again. Or worse, I'd simply lose it permanently.
+
+If I ever consider using [Skill Deconstruct] on [Basic Elemental Magic], I'll wait until it's level ten. That way, at least I know I'm probably getting the full wealth of information.
+
+I conducted a few initial tests trying to create [Warp], but stopped shortly after, as it was getting late and Vee was complaining about the light show. Before I fell asleep, I informed her that I was being sent to Peggy again, and it sounded like it might be my new base of operations.
+
+"I'll teleport above the floating outpost, use [Companion Bond] to see if I feel you nearby, and then [Veil Step] into your room," Vee sleepily replied.
+
+"Sounds good, hopefully I'll get some real missions now. Those random brinelings I've been killing do not give good experience."
+
+Vee chuckled in agreement before finally passing out, and I followed soon after.
+
+***
+
+The next day, I set out once more with Captain Smithers, who joked a lot during our trip about my performance. Evidently, I had accidentally made quite a name for Sylvain through my repeated patrols and refusal to do any other missions.
+
+"I can't believe you did patrol duty three days in a row," he said, cackling with laughter. "The look on the guild's faces when the admiral kept demanding them to stop screwing around was priceless."
+
+"It wasn't my intention, I just found it fun sailing around in my own little boat," I replied before snickering. "If it caused them a few headaches, well, that's just a cherry on top for me."
+
+When we arrived at Peggy, Admiral Nathaniel was waiting for us. At first, he looked particularly grumpy, but I noticed his face visibly softened when he laid eyes upon me.
+
+"Sylvain! Finally, we are going to be putting you to good use!" Nathaniel cried out with joy.
+
+"Oh? Something exciting, I hope," I replied with a smirk.
+
+"How's some deep ocean gathering sound?" Nathaniel asked. "You'd be in charge of guarding a squad, while throwing out some support spells on the side if you're up for it."
+
+"Sounds exciting," I admitted. "I was hoping for a salvage or hunting mission, but I guess this will do."
+
+The admiral sighed. "Two days ago, I might have been able to assign you to a salvage spot. Although maybe you were lucky because it was a bust, the damn brinelings had looted anything not nailed down."
+
+"Ha! I guess it was my lucky day."
+
+"Well, it's in the past. But if this gathering operation goes smoothly, I think I can get you assigned to some much bigger jobs."
+
+"Admiral, you just said the magic words," I said with a toothy grin. "Mind me asking what they will be gathering?"
+
+"A bit of everything. Some coral and plants for the alchemists, fish and crustaceans for food," Nathaniel answered, also showing his own teeth. "However, the real prize is a pretty big deepstone deposit, and everyone on the squad gets a portion to keep or sell as a signing bonus."
+
+"More like hazard pay, I'm betting," I replied.
+
+The admiral actually smirked and nodded. "Aye, but a signing bonus sounds a lot more diplomatic, and trust me, your wallet will greatly appreciate you taking this job."
+
+"That's music to my ears!" I enthusiastically replied.
+
+Sylvain wanted the money, but I wanted the deepstone, as I was confident it was something else to add to my [Metal Slime] collection.

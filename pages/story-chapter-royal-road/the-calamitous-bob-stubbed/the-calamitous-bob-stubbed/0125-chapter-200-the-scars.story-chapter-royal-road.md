@@ -1,0 +1,249 @@
+---
+id: 7eb0fdbd-4e45-511f-8358-4f06ead3157b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 200: The Scars"
+slug: 0125-chapter-200-the-scars
+partOf: the-calamitous-bob-stubbed
+position: 125
+ownLength: 3528
+unit: words
+ownProgress: 3528
+publishedAt: 2025-04-05
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2176190/chapter-200-the-scars"
+royalRoadId: "2176190"
+markedReadAt: "2026-06-29T21:19:07.104Z"
+---
+
+Viv knew there was no way the Red Tribe would dust itself off and return to normal within a couple of days, but the extent of the total collapse that followed victory surprised even her. It wasn’t that they hated her decision either. It was just that it was over. Finally. After so long.
+
+As soon as the army got back and the news of peace and the destruction of the fortress spread, the entire tribe descended into an immense and spontaneous party of biblical proportions. Everything that had been saved for a special occasion got broken open and drunk without reserve. Those that were not boozing themselves silly were either crying or fucking. It wasn’t fun either. Viv was called as witness for no less than four ritual suicides: kark who had kept living for the tribe but had decided long ago to cash out, usually because they’d lost everyone else. No amount of arguments could convince them to even delay their choice. They wanted out, and it was going to happen. It wasn’t just them either losing their reason to live. All the tension, all the determination that had carried the tribe through its darkest time came crumbling down like a sand castle. In only a few days, the main encampment turned into a mess of squalor and drunk people. Even Marruk’s own soldiers were wildly going at it. As for the girl herself, she was spending all her time comforting her father and relatives. It was a mess. Faced with such a daunting situation, Viv could do nothing but pray.
+
+***
+
+“They’re just all so sad!” Viv said. “I’m not sure what to do. I can’t just fix generational trauma with magic, can I? I’m not a therapist either. I mean, if I know someone well I can help, but an entire tribe?”
+
+She reached for the illusory cup of coffee in front of her for a comforting sip. Neriad’s glasshouse had the cozy warmth of a summer morning with lianas clinging to the panes, bearing pleasant yellow flowers. The righteous god’s furniture was arched and delicate in a way that reminded her of Art Nouveau, a school that drew its shapes from nature.
+
+On the third chair, Efestar nodded. He conjured a beer, which he’d come to love after Viv had shared her memories.
+
+“People do not deal with grief the same way. Salvation may not be freely distributed for few can agree on what salvation even is, though the two of us can probably offer some succor.”
+
+The gods were huge compared to Viv, mostly because they were all currently in the in-between and using their powers to build some sort of evanescent space. She still managed a decent size through the sheer might of her massive ego.
+
+“Efestar is right. You may not face this challenge in the same way you have faced the others before. It will require time. Raise statues to us so that we may look upon the kark.”
+
+“They worship their ancestors though.”
+
+“And we will not stop them, but their ancestors are, well, dead. They are memories. We are living souls. Our impact is greater.”
+
+“Alright.”
+
+***
+
+The empty spot right outside of the encampment was promising, not least because it wasn’t sacred ancestral land and Viv was currently introducing foreign, human gods to a people that had been oppressed by humans. She requested Frosthawk’s help to dig up the stones required for the statues. It took some time because the mage was an air specialist and he didn’t like brown mana very much. Arthur could have conjured it in a couple of seconds, of course. Unfortunately, she categorically refused to participate in statue making for the sake of worship unless she was the one being worshiped.
+
+Viv patiently carved and modified the rocks using black mana to cut and change the shapes. It proved to be long and laborious despite having an extremely clear memory of various statues. The reason was simple: she had no talent for art.
+
+Even using high stats and the polymath skill made this long and difficult. Viv liked it though. Carving proved to be very relaxing.
+
+When she was done, she’d amassed a small number of kark who chilled in the grass wondering what she was up to. No one had tried to stop her.
+
+Once done, she slapped her hands together. It was time to pray.
+
+“I can’t believe I’m bringing people to church. My French ancestors would be ashamed. Anyway. Oh, Neriad, Efestar, brothers of hope and redemption, I pray to you. Please come and bring solace to those who have faced the worst and come through scarred. Help them on the path to recovery. Glory to you etc etc.”
+
+“YOU COULD AT LEAST TAKE THIS SERIOUSLY.”
+
+“You’re right, my bad. It’s important. You’re good people and they need good people now more than ever. And time to deal. Please assist.”
+
+Sending an ungodly (haha) amount of mana into the statues, Viv consecrated them to the best of her abilities. Whispers rose at the edge of her hearing, words in kark yet she could perceive their meaning. Yes, it was over. Yes, it would get better. No, it would never be completely fine. The grief would return and overwhelm them with memories of the lost, of what could have been, but then it would leave them again like the tide. There would be other things to look forward to. New purposes to fill. Children would grow up not remembering the pain, and their laughter would fill the air in joyous chimes. It wasn’t over yet. In fact, it was a new beginning.
+
+Those who had stayed behind to look at the statues cried, then they left to speak to their own. A revolving group of kark came and went over several days, smelling sour and looking dazed, but leaving with a fragile determination to try. The Red Tribe shook itself from its stupor over the following week for a relative return to normal. After a brief discussion, the clans decided they would head back to their own roaming grounds, but first, they had to plan for the future.
+
+***
+
+“We have a business proposition,” Marruk said from the top of the flat stone.
+
+Around them, the tribe elders had gathered for the important meeting. Herd masters, teachers, lead artisans and merchants outnumbered the warriors because the Red Tribe was at peace, and so the peace people had come to talk.
+
+Arthur landed at the edge of the stone before Marruk could elaborate.
+
+Did I hear the magic words?
+
+“We also want to do business with you as well,” Marruk continued. “Our problem is how?”
+
+She was right. The Red Tribe had no access to the sea to the north, or the Shal river far to the south with its teleporting network. West of here was the rest of the steppes, a relatively hostile place, while Luten stood to the east.
+
+“You may want to negotiate. Maybe the Shore Tribe? New Harrak has ships now.”
+
+“Yes.”
+
+At this point, the warriors returned to quiet discussions while the merchants came forward. They were incredibly eager to get back to peddling more than weapons and war gear. Much had been lost, but through careful practice, the kark of the Red Tribe had most of their know-how, and that was what they were selling right now. Apprentices brought some impressive potteries and cloths weaved from cotton with bone needles. This world hadn’t invented the loom yet and Viv could see why: because of stats, it was barely needed. The kark didn’t have the goods yet, but they were able to make them provided there were orders.
+
+The Shore Tribe was contacted and they agreed to a meeting, which Marruk assured meant there would be an agreement to set up a port on their land. Viv thought the lack of certainty on tax and tariff would put their own negotiations on standby, but that was underestimating the merchants. Percentages and flat rates were discussed while taking into account the Shore’s share. What really impressed Viv was that they did all of this with no paper. At most, they used an abacus for the most complicated math, but for the rest, they relied on their memories. Only the final agreement itself was drawn on a papyrus after both sides agreed to the terms.
+
+“It went faster than I expected,” Viv said.
+
+“Kark merchants make a sport of negotiations, and it is glorious to get a really good deal,” Marruk informed her. “I told them not to try it this time and they thought I was insulting them. They said they would never fleece you, because you are a friend of the tribe. It is a great honor!”
+
+She flushed.
+
+“It would be a great honor if you were not the leader of a great nation. A greater nation…”
+
+“Hey, don’t worry about it. Remember that we were fugitives hiding in abandoned mines not so long ago. I sure as hell remember. Anyway, all the terms offered made sense and they were really fair. It was a welcome change from attending tariff negotiations with the Baranese.”
+
+Marruk shivered with sympathy.
+
+“The goods will travel. The central tribes have been starved of human goods for ten years. Entire clans have been ruined because they couldn’t sell to the northern cities. My people will embrace this opportunity. Do not worry.”
+
+“Sure.”
+
+Viv gave the signed paper to Frosthawk for safekeeping. The old bastard couldn’t believe Viv had bagged a favorable trade agreement without the help of Lady Azar.
+
+“You realize I was running this place before she showed up, right? Just because my greatest achievements have all ended with something or someone dead doesn’t mean that I’m bad at peaceful talks. I made us buddies with Enoria after declaring independence from them for Neriad’s sake,” Viv complained
+
+“You do have a more delicate touch than what I’d expected, I will admit. Just remember that you executed Arana’s family and razed Frostbay to the ground,” Frosthawk.
+
+“Well, some situations require an extended hand, some others, a fist. Or lots of fire.”
+
+“I approve on principle. I will return to Harrak with the Beacon soon. Will you move on as well?”
+
+“First, I believe the kark have something ready for me.”
+
+***
+
+The Red Tribe had gathered on the plain before the large stone platform. In the rare silence, the gentle gurgle of Little Fall filled the air with cold mist, not unwelcome in the late summer heat. The air still smelled a little sour from too many unwashed bodies, but there had been a marked improvement. It was the partial cleanliness of a recovering hangover.
+
+Everyone was quite solemn. They hadn’t told Viv what they’d planned but she could guess it was a way to thank her, or at least that’s what she got from the eager, awkward glances of the younger warriors. It made it the first ceremony in years where Viv only had to listen to direction. Smile and shake hands! Finally, Matar came alongside the old shaman, and Tylek the Shadow Hunter.
+
+Matar was the most solemn of them all. If anything, he looked almost… ashamed. Viv smiled warmly which only made the effect worse. Now she was sure they wanted to reward her because they’d brought her shield.
+
+It had a new band around the edge, made, appropriately, of an amalgam of many metal sources. The band would secure the haphazard layers of sigils and symbols on the shield. By now it wasn’t a weapon, but a symbol. Viv had never felt the urge to enchant it beyond very basic protection and at this stage, she wasn’t sure it could be enchanted anymore. It was really more like a flag.
+
+“This is to thank you,” Matar said slowly in Imperial.
+
+The old kark took great care to enunciate every word, most likely reciting from memory, yet his gaze peered into Viv’s and his voice boomed to let everyone know he meant what he was saying, even if they themselves wouldn’t understand it.
+
+“You could have been an ally. You decided to be more. You could have asked for payment. When we talked after the fight, you could have taken more from us. Instead, you gave us metal, and training, and hope. Hope, we needed the most. You fought by our side. For as long as the Red Tribe remembers its ancestors, we will not forget. Call us, and we will fight by your side until the end. This is our oath to you, friend.”
+
+He nodded, and Viv returned it.
+
+“I will call upon you when the time comes. It always does.”
+
+The gray-haired chief turned to Marruk who translated in a low voice. He nodded again, then took her hand. He then grabbed the shield. Marruk translated his explanation this time.
+
+“We’ve added death worm leather fitting at the back. The metal band, we made with the help of your people. It is made from the finest metal we could find in the governor’s mansion.”
+
+Matar guffawed and the kark laughed with him.
+
+“We found gold as well, but it doesn’t look like you enjoy wearing it in battle!”
+
+That was true. Glinting in battle was usually a shit idea, though that was more of an earth thought. Nyil leaders loved to glimmer.
+
+“Our second gift is truly of us.”
+
+Viv could see it. Tylek unfolded a black cloak with a fur lining and bone clasp in her color, with the flag of Harrak carefully woven into its back. It was absolutely exquisite. She was sure it had been done quickly, but the team of artists working on it was probably the tribe’s most talented. If Viv had to pick a term, it would be ‘tribal chic’.
+
+“It looks great, thank you.”
+
+She put it on.
+
+It had a self-cooling mechanism.
+
+“Alright, I wish I could have had that back on Earth!”
+
+***
+
+Later that night, Viv met Marruk in the Landship. The metal beast felt strangely empty with all of its supplies and soldiers unloaded for good. Viv had room now. She and Marruk sat in the kitchen, which was currently empty. Magical lights provided illumination. It smelled a little bit rank, unfortunately.
+
+“So. What’s next for you?” Viv asked.
+
+“I’m going to stay.”
+
+Viv nodded. She’d expected it. Marruk had spent a lot of time and energy to save her people, and now, she was well on her way to success. She just wasn’t there yet.
+
+“I am still the warchief until someone takes my place. The Pure League will be in turmoil. Some of their members will fall into their rage like into a mud pit. They will try to make us pay for it. I need to remain vigilant. I also need to tell my people about the human nations I have come across and how I understand them. They need to know more about this continent if we are to find a place in it.”
+
+“Well, the gates of Harrak will always be open.”
+
+“And I will return often. Our ties, they must not be broken.”
+
+Marruk placed her fist against Viv’s chest. For someone who disliked physical contact, it was a very strong gesture. Viv smiled.
+
+“They won’t be.”
+
+“What will you do next?” Marruk asked.
+
+“Link up with Rakan and visit the Blue elemental archmage so we can try and repair his core. The poor lad’s been working around it for too long. If I can save him, I should, then it’s back to Harrak. There is a ton of work to do if we want to bring the remnants up to speed. And regain control of the capital.”
+
+“You can call upon my mercenary group. I will leave them with Odon because I will be too busy.”
+
+“That will help. And, I wanted to ask. How are you with your dad?”
+
+Marruk scratched her ears, a bit nervous.
+
+“He accepts me as warchief. He still wants me to marry, though, but he said that the husband must accept that I am warchief.”
+
+“Will it be difficult?”
+
+Marruk shrugged.
+
+“Maybe? Time will tell. I do not need a man, but having a good one would be really nice.”
+
+Viv ought to leave before Arthur set up a matchmaking agency or something.
+
+“I will be sad to see you go,” Marruk whispered.
+
+“Actually, there was one last thing we should do together before I leave.”
+
+***
+
+The Sky Mirror Lake encampment heard the drums first. No tribe was expected for now, so the people left the safety of the bazar to sate their curiosity. Those who approached them on pakar, shining with the glint of metal in the light of dawn bore the last flags they’d expected.
+
+“Is that… the Red Tribe?”
+
+It was, in fact, the Red Tribe garbed in metal, with more metal in hand, and their chief carried with him an artifact upon which their flag had been affixed. The chief came carrying many Lutenese blades — more metal for all of the kark.
+
+For those who could afford it.
+
+“Welcome,” the Great Bazaar’s Mediator said. “You have brought much, and you are here away from your lands. Are the rumors true? Have you triumphed over the enemy?”
+
+It was a woman who answered. Only after she spoke did the merchants remember that this was the witch’s companion — the head of the mercenaries.
+
+“The Pure League has surrendered. They have retreated away from their steppes, and their border fortress is destroyed. Now, a tree of black magic stands in its place.”
+
+Whispers, well, kark whispers shook the crowds with a mix of relief and disbelief, for although few would lift a finger for another tribe, none wanted Luten to win.
+
+“We hope you will return to good health now that the crisis has passed. Trade can now flow again!” the Mediator said, bobbing that huge hat of his. The onlookers could see how brittle that smile was, for the joy of the people wasn’t reflected on the Red Tribe’s demeanor.
+
+“Yes, trade will flow again,” the woman continued. “We will be taking offers for that captured metal.”
+
+“At a good price, I hope, haha.”
+
+It didn’t look to the Mediator like there were going to be good prices.
+
+“An auction. Our… trade advisor suggested it. And for the prices, the Red Tribe remembers their friends.”
+
+There was only one friend concerned and the merchants could see she sat on a pakar, gently massaging her thighs with a new fancy cloak around her neck. She was barely paying attention.
+
+“Yes, we remember. The auction will begin soon. In the meanwhile, I see there are farmers of other tribes currently on our land? Since the harvest is already complete, they may now all leave. All of the renting agreements are hereby revoked. We are taking back our land. Now.”
+
+***
+
+Viv left the steppes behind with only her backpack, and her daughter for sole company. It had been a very long time since she hadn’t been surrounded by people. The quiet gave her an opportunity for contemplation. It was good to take a break from everything once in a while.
+
+Since Arthur was easily bored, Viv left her to wander while she slowly levitated herself to the shore so as to avoid the brunt of the Pure League’s territory.  Just because they were nominally at peace didn’t mean that those guys wouldn’t try something. She wasn’t stupid enough to risk it, no matter how strong she had grown.
+
+It was almost impressive how very few forces could still stand up to her as an individual. Undoubtedly, she was now a dominant force on the continent — though still far from invincible. That made her wonder what other old monsters and hidden horrors waited in the recesses of this world. The hero Oleander had been trudging the Shadow Lands for decades now, for example. How strong could he be? She couldn’t let her guard down.
+
+Her only advantage was luck. It couldn’t be entirely relied upon.
+
+Viv was lost in thought, letting her mind wander while she climbed to the cloud cover. The wind had died down, so now she could enjoy the quiet while condensation clung to her cloak and clothes. Nobody bothered her here.
+
+In the years since she’d arrived, she had helped resolve four of the five lingering conflicts afflicting the continent. The Enorian civil war was concluded for good, the Hallurians were beaten for a long while, the beastling tide had been slain, and the Pure League was on the verge of disintegrating. The only crisis that was left was, amusingly, the one she had first encountered.
+
+The deadlands.
+
+There were still a lot of mysteries and a ton of resources left buried beneath a sea of undead. That would be her next goal, once Rakan was healed. After all, luck was prone to sending her into danger and if there was one thing that could stop a huge threat, it was that which was buried under the Great Ziggurat.
+
+After all, it had taken the lives of a nation to create it.

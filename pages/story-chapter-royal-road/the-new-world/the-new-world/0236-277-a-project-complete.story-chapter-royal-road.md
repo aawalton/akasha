@@ -1,0 +1,273 @@
+---
+id: 8aac27ca-9c9d-5888-b579-54a558104b0a
+page-type-slug: story-chapter-royal-road
+title: "277 A Project Complete"
+slug: 0236-277-a-project-complete
+partOf: the-new-world
+position: 236
+ownLength: 4814
+unit: words
+ownProgress: 4814
+publishedAt: 2020-11-12
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/583376/277-a-project-complete"
+royalRoadId: "583376"
+markedReadAt: "2026-06-29T21:29:10.405Z"
+---
+
+-Daniel-
+
+I rolled my shoulders, surprised that the golem project came together this fast. A few days of hard work really paid off, and the night crew blistered past the design process much faster for it. Talking with Diesel, the guy explained that working with the guildleader really spurred them into action. Combine that with the nonexistent building limitations, and the most challenging part of the design was already handled.
+
+Apparently, resource management and the scale of an operation took up a sizable part of the design process. Most mass-produced golems required not only a practical design for their intended purpose, but they also needed a reasonable means of being created. After all, carving the delicate, precise runes into something like metal was a severe challenge all on its own.
+
+Most of the time, they used a kind of welding that let out few sparks. This still left a lot to be desired from a precision standpoint, meaning industrial errors were the norm. Creating machines that processed the body and parts of a golem also took up a lot of time and managing where and when they got the resources for it also required some brainstorming.
+
+I handled all of those operations, so they moved through the entirety of its creation in about a week. To the team, I was like a 3-D printer that worked with something more rigid than metal. That and my runic carving meant they could use far more lettering than expected, streamlining the inscription aspects.
+
+Ophelia was actually a pivotal part of that process. She sped up the mind creation of the golem by orders of magnitude, her experience invaluable. She and Torix were really at odds during these past few days since her perspectives showed differing priorities. Torix wanted the golem to be an unlearning, mindless drone of sorts, similar to his necromantic creations.
+
+Ophelia insisted on the opposite. She wanted the golem to speak telepathically, and she wanted it to have a measure of free will. They argued for hours about that point, and Ophelia eventually out willed Torix more than out reasoned him. The lich spoke about the risks involved with having a golem of such strength operating without strict limits.
+
+In many ways, he was right. These golems would be powerful.
+
+At the same time, Ophelia carried many points in her favor as well. For starters, she kept a policy of constant correction as she called it. The main advantage of a mindful golem was that it could be taught what to do and when. This meant continually updating its mind wasn't necessary. It could do that on its own.
+
+The other benefit involved the nature of its purpose. These golems were supposed to go into the abyssal depths of dungeons and rifts alike. Every dungeon was different, so having each golem adjust to its surroundings was invaluable. Torix ceded to those points since I wanted this golem project to expand to a massive scale.
+
+That wasn't to say Torix's arguments were weak, however. The golem had mind magic and standard wizard spells on its side. Even a veteran classer would struggle to manage it in a real fight. Combine that with its sheer physicality, and these super golems could take on entire battalions of levelers on their own. That guaranteed they'd clear a dungeon no problem. It did mean they could kill our own on a massive scale as well.
+
+Ophelia worked with minds in the past to prevent this kind of problem, and she won over Torix with a few examples of tampering eldritch messing with the encoded rulesets of old golems. She described some of these eldritch like lawyers, many of them finding loopholes in the golems' preprogrammed reasoning.
+
+That argument faltered to Torix's reasoning, his risk aversion winning out at that point. Ophelia pulled an ace out of her sleeve as a counter, however. She argued that free will gave the golems the ability and desire to learn. By ensuring each golem received tutelage under the right person, they could be given a reliable moral compass. It didn't have to be elaborate either, just a few ideas about what was right and wrong. Combine that with simple desires to help our cause, and they'd be super soldiers with some empathy.
+
+That's why I sat there, staring at the designs, several vital pieces converted into the cipher. Ophelia won out, got the specs ready, and now, it was up to me to finish pulling these different parts together. I began by mapping out how I needed to make the beast's entirety, and it all started with a central core, one encoded with its mind. It required stringent, precise carvings, and they would coat its entire surface from top to bottom.
+
+I started on that work, taking out some liquified dimensional fabric. I pooled a considerable amount over the past few days, making sure I had enough for just this purpose. Pulling it out, I stretched the glowing, white mass over my head like star taffy. The engineers and designers watched in the distance, wanting to understand how I made it. Ophelia, Torix, and Diesel watched as well.
+
+Wielding gravity and telekinesis, I shifted the blob into a roughly spherical shape. After getting the outline done, I compressed it down, anchoring it with a gravity well—this gravitational force formed at the center of the metal orb. At the same time, I created an antigravity panel under the process to prevent Earth's gravity from messing up this process.
+
+In the distance, Torix already channeled a spell to block wind as well. Without much interference from natural forces, I strengthened the gravity well at the center of the sphere. This smoothed its surface, mirroring how a planet formed. With a better sphere than I could hope to eyeball, I flash froze it with a burst of cooling quintessence.
+
+Keeping the perfect orb afloat, I reached out a hand. No direct carving was needed since the runes were already completed in my grimoire. Using the elemental furnace as a fuel source, I funneled mana into the grimoire before the lettering shined after a few minutes.
+
+The glowing lettering floated off the page before wrapping around the sphere. Without any sparks flying out, I riddled the mass with cipheric inscriptions. As I did, I peered back and forth from the blueprint and the sphere to ensure I was doing this right. The last thing I wanted was to have messed this up early on. Everything was made right, so I moved on.
+
+I began work on the rest of the body. With a gravitational wave, I hovered a mass of melted fabric over the sphere. I created a layering of cooled energy between the finished core and the molten body to prevent marred inscriptions. The shape came together over a few seconds, the subtle adjustments made in real-time.
+
+The main body held the core that controlled movement. It was composed of a few interlocked plates covered in an organic, flowing piece of metal. Unlike most metals, the amount of this stuff wasn't an issue, and the floating joints model meant we didn't need to worry as much about pieces clanking together as the golem moved.
+
+With all that in mind, I created shoulder pads aimed at protecting the head. These pauldrons were simple, jagged masses of metal. For each of them, I made two more cores that controlled mind magic and everyday magic. The idea was to feint that the head stored these orbs when they actually rested in the densest clusterings of metal in the golem.
+
+These cores took more time, and I made sure the cipher inscriptions were accurate. I had a few conversations with Ophelia where I bombarded her with questions. This gave me an idea of her ideas and what she was trying to do. To get this right, I replicated her perspective as honestly as I could while carving the cipher.
+
+When the runes floated onto the cores, I hoped it would be enough.
+
+Finalizing the main body, I added several additional strands of runic carving on the golem's surface. These normal runes took seconds to apply. The last addition was implanting a series of telepathic wires that combined the three cores into a single consciousness.
+
+Once set up, I moved onto the limbs. I kept them simple, the hands blunt and broad. They wielded three fingers apiece, enough to grab something but no more than that. This made even the fingers like clubbing weapons, making the hands hard to break in combat. The hands themselves were made large as well, more hulking clubs than typical palms.
+
+These masses flowed into the shoulder pauldrons, making for a menacing outline. The waist of the golem stayed until it reached the legs of the construct. Once there, I molded thick, paneled pieces for the thighs and legs. One of the most essential parts after that was the ankle structure.
+
+We kept to a more interlocking design here. This would let the golem pivot off its feet better, increasing its overall agility. The feet were made wide as well, with three large toes sticking out in all directions. This adjustment allowed it to maneuver across different kinds of terrain despite its heft.
+
+The last part was the head of the being. I kept it dense. Its shoulders ran up high enough that this thing showed no real neck, eliminating a common weak point of most creatures. A bit of crystalized mana made for the eyes, the crystals made porous enough that light leaked into them. This made it possible for the being to see.
+
+Hearing was more difficult to add. I created hollows in the sides of its head, each letting sound into them. After adding carvings into these gaps, I gave the golem the ability to hear and sense its surroundings at a basic, primal level. Taste and smell would too difficult and arduous to set up. It also didn't help the golem with fighting, so it just wasn't necessary.
+
+As for touch, that would be a finicky sense to work with. The golem's skin and the entire body was denser than steel. Adapting receptors on its body to respond to stimulus would be insanely tricky because of that. Hell, my own understanding of touch was warped from being encased in this armor all the time. Stone was soft, and water was like air. The golem would feel the same, and in the end, adding touch was more trouble than it was worth.
+
+Without needing any other additions, I pulled everything together, willing the creature to life. I siphoned mana into the creation to fuel the inscriptions all over its body, yet it remained unmoving. The cipher markings took far longer to fuel, thirty minutes of channeling passing by.
+
+It soaked in mana like a starving creature, and as time passed, the crew behind me grew nervous. We spent a lot of time on this, and seeing it fail would be a massive blow for the team. Just as a few eyes began to drift downward, the golem's eyes glowed white.
+
+It was alive.
+
+The golem stood up, the group of scientists and engineers behind me celebrating as it did. I grinned at the golem, and the quintessent crystals in its eye sockets glistened for a moment. It stood tall, wide, and firm, its glowing eyes made ominous by the dark metal of its outline. The runic carvings followed suit, quintessent mana funneling into the cores and etchings to fuel the creature.
+
+It drew from the material of its making, the golem coming to life. It stared at its hands, wondering where it was and what it could be. I walked up, a few feet taller than the behemoth. I put a hand on its shoulder,
+
+"It's good to meet you. I'm Daniel."
+
+The golem covered its ears, its newfound senses assaulting it. I connected to the golem telepathically, and the size of its mind surprised me. The three wills fused into one, and they grappled with the world around it. I sent over a sense of calm, and the golem lowered its hands from its ears. It looked up at me, seeing for the first time.
+
+It murmured in a voice like metal, "Creator?"
+
+I smiled, "Yup."
+
+Its mind fully connected to its body, and its clarity and understanding evolved. It kneeled towards me, the floating joints hovering into position. Its fluidity surprised me, and it spoke with reverence,
+
+"I am here to serve, creator."
+
+I turned to Ophelia, "It's not what I expected. Didn't you mention a free will?"
+
+Ophelia put her hands on her hips, watching the golem come to life,
+
+"I wanted it to have thoughts and feelings, not the ability to commit mass murder. It can work on its own, and it's a lot harder to trick as is than the alternatives. That's the main reason we gave it so much mind to work with."
+
+I turned back to the golem, gesturing for it to rise,
+
+"Come on, you don't have to lean down like that."
+
+It rose up, the ground crushing under its foot despite the gravity enchantments we made to stop just that. It turned, looking at the forest around it,
+
+"There are no monsters here. This place is cleansed. Where would I find monsters to kill?"
+
+The directives seemed stable just off that question alone. I raised a fist, "We'll get to that. We need to test a few of your abilities first."
+
+The golem turned towards the engineers behind me, "Where will I test myself? Those here may be injured in the process. They, too, took part in my creation. I'd wish to avoid taking part in their undoing."
+
+I pointed towards a part of Mt. Verner distanced from our hollowed base, "How about there?"
+
+The golem and I made our way there, the both of us deciding to run and jump. The new entity took great joy in just moving, the simple act something unique to the metal giant. Its world wasn't as rich as mine since it lacked as many senses, so it got quite a kick out of the simpler stuff. In a way, I was kind of envious.
+
+We reached the safe zone we scoped out earlier for just this purpose. In view of the engineers yet safely distanced, I pointed at myself with my thumb,
+
+"Would you mind testing yourself against me? Yenno, some sparring."
+
+The golem raised its hands and lowered its head, "I...I could never battle against my creator."
+
+I lifted my fists, "Give it a shot. I won't tear you down too much."
+
+It moved its feet, still getting used to its body, "I...if you say it is so, then let it be." It stared at me, "I...I shall fight you."
+
+My armor wrapped around my face, and a jagged, glowing grin formed, "Come on then."
+
+It cleared its thoughts before bending down. Without warning, it charged at me. As it crashed against me, I dragged back several feet, the force of its tackle impressive. A loud boom echoed into the mountainscape as I grabbed its shoulders and slung it sideways while kicking at its feet.
+
+It flopped sideways, crashing into the ground with another booming crash. Each of our movements unleashed waves of sounds like titans clashing, and it gave me chills each time I heard the impacts.
+
+I walked towards it, "All you have to do is stay away from the engineers."
+
+It stood up as dust and dirt flew into the air. From that one exchange,  bushes uprooted nearby, and trees were leveled. Giving it a few seconds to collect itself, I reached the golem and lifted a fist, aiming to smash its eyes.
+
+The golem rolled sideways before standing up. I dashed at the creature to keep up the pressure. It sidestepped me, aiming to stiff-arm my neck. I grabbed the outstretched limb, flowing on my feet. I turned the force of my charge in an instant before chunking the golem overhead once more. It crashed through two trees, the wood splintering like peanut brittle in a child's hands.
+
+Despite the rough travel, the golem landed on its feet unharmed. I jolted towards the being, but before I grabbed it, the golem stomped the ground, shattering the earth around it. My footing collapsed as roots ripped and tore under us. I stumbled forward, and the golem stepped toward me. It launched a heavy-handed strike, using its hand like a mace.
+
+It was a good attempt, but not enough. I let myself sink into the ground, no longer supporting my weight with gravity wells. His strike zipped over my head, sparks flying where his forearm made contact with my helmet's top. I grounded myself with gravitational anchors before whipping out a quick strike forward, palming the golem's stomach. The force came from below, jetting the golem back into the air as a cataclysmic boom echoed off the impact.
+
+The wind off the strike ripped branches off trees nearby and peeled grass from dirt—a crater formed under me as the shattered earth was sent flying by the blow's shockwave. From the brown plume of dust, the golem launched up and over the trees. It flipped itself around, the dent in its stomach regenerating quickly.
+
+Its runes shined as it launched spears of ice where I struck it. I clapped my hands together, a wave of sound shattering the icicles into tiny shards. They bounced off my skin as I bounded towards the golem, gravity propelling me. It used its own gravity wells for the first time, pulling itself away from me. I shot passed it while the golem sunk towards the ground. From above, I anchored myself in place. Reaching out a hand, I liquified dirt and stone, turning its landing spot into a pit of magma. The golem lowered its hands, cooling energy hardening some of the lava into a landing pad of stone.
+
+Supporting itself on the dark island, it lifted both arms one at a time, bending the magma towards me with waves of gravitation. I leaped from my gravitational anchor while maintaining it. This let me swivel myself around the unseen point of attraction. I orbited the unseen mass, and his magma waves went over then under my head.
+
+Falling towards him, I generated steel spikes in the magma beneath the golem. I lifted my arms, and the spikes jutted out of the boiling lava surrounding the golem. The entity deflected several of the iron spikes before several spines landed between the entity's joints. Its joints struggled against the iron spikes as they pried the golem apart. Stuck in place, I shot myself towards it like a cannonball. Before I landed against the beast, it melted the metal spikes, covering itself in a molten shell of metal.
+
+I crashed into the glowing bubble, landing against the now hardened magma. The golem wasn't here. It smothered me with the melted iron and solidified it, eliminating my sense of hearing, sight, and smell. At that moment, it dual-layered its attack with a generic mental assault.
+
+By now, I was used to dealing with Torix's attempts at cracking my mind. It left me able to defend from the mental bombardment before I shattered the metal shell lying over me. The fractured metal lobbed out like shrapnel, stabbing through trees and tearing rocks apart. From above, the golem crashed down, having flown up and lobbed itself down at me.
+
+I leaned back, the heel of its foot scraping the front of my helm. The impact of its crash sent me flying a few feet, another crater forming under the behemoth. It gave me yet another charge, this time, compressed air left in front of its fists.
+
+I grinned at the creature while I tilted my head. Its fist scraped the side of my helmet before I smashed my own hand into its neck. Its body went forward while ragdolling beyond its face. All the momentum ended where I drove my palm into its neck. I lifted it up before slamming it into the ground.
+
+Held in position, I lifted my other hand. It came down like a hammer, but I stopped the punch just shy of its face. As I released it, I also reached out a hand. The nameless entity grabbed my wrist and pulled itself up, I gave it a pat on the shoulder,
+
+"Damn, you fight well."
+
+The golem shook its head, "Yet there is still much I must learn, creator."
+
+I spread out my hands at our team looking at us in the distance,
+
+"Guys, I'd call that a success."
+
+Ophelia gawked at us, the spoiled royal rendered speechless after seeing this thing in action. Diesel gave her a knowing smirk, the engineer more than satisfied with his creation. He elbowed her,
+
+"Heh, pretty good for backwater savages, right?"
+
+Torix peered at the golem, taking notes in its status. Of the three, he was the only one with a critical eye. The lich pointed at the golem, "Why did you surrender?"
+
+It responded, "I stood no chance, and I wished to avoid losing my eyes."
+
+"Remember that no eldritch will give you that chance, understood?"
+
+"Yes, master."
+
+Torix perked up at being referred to as master, the lich easy to read,
+
+"Hm, as long as you understand, then it's fine."
+
+I stepped towards the group, waving the golem towards us, "Come on, let's go."
+
+It followed, and once we reached the group, I tapped my chin with a closed fist, "Hm, the golem needs a name."
+
+Torix raised a finger, "What about one. It is the first golem we've crafted as a team."
+
+I shook my head, "That's, I don't know, too sterile. What about Alpha? It's the first letter of the Greek alphabet. It seems fitting."
+
+The golem spoke up, "I enjoy that title."
+
+Diesel shook his hands, "Alright, you're our first successful super golem, Alpha." Diesel turned to the engineers watching behind him, "Guys, we did it."
+
+A roar of celebration echoed through the crowd as the engineers cheered at the results of our efforts. I raised my hands, grinning despite myself,
+
+"Hey now, let's not get too excited. We need to talk with the dungeon clearing corps to make sure these golems handle what they need. Once we've got their okay, we'll give this thing a field test to make sure they handle what's required."
+
+Diesel smiled, "Of course, of course. We'll get that squared away, but for now, let's take the rest of the day off. This has been a mad dash the entire time, and we just crossed the finish line."
+
+He pointed at Mt. Verner, "Let's go get something to eat."
+
+We paced over towards one of the few nightly serving establishments, a military-style cafeteria but with a better food selection than most. Once everyone settled down onto a table, drinks were served along with a variety of dishes I ordered for everybody. I paid the bill, letting everyone just focus on having a good time. After a few hours of talking and having a good time, morning arrived along with a wave of exhaustion.
+
+The spur of achievement could only fuel celebration for so long, so they each stumbled back to the residential districts, finding soft beds waiting for them. I took Diesel to Melissa, and she thanked me for getting him home safe.
+
+After finishing the feast, I met up with the dungeon clearing corps. Lester, Isa, and Bryan met up with me once again in a meeting room, Torix joining us for his input. The lich and I sat across from the three dungeon clearing specialists, and I started the conversation by turning a hand to them,
+
+"We finished our first super golem this morning. We need your inputs on what works, what doesn't, and any iterative improvements they need. Criticism is welcome, but make the complaints meaningful. These changes aren't easy to make."
+
+The three dungeoneers sweated in front of us. Torix and I made for an intimidating duo, and the lich's fire eyes honed in on them like daggers. Torix crossed his fingers in front of them, his gaze low. He kept a close inspection of them, eyeing them for mistakes. It might have had a little to do with sending Alexander off with them, but I doubt the lich would ever admit it.
+
+From that pool of crushing pressure, Lester was the first to respond, and he coughed into a hand first,
+
+"Ahem, so super golems, huh? Are they even stronger than the other ones?"
+
+Torix noted, "Very."
+
+"It, uh, sounds like they'll work well. I'll be honest, I don't think they need any testing. They'll crush just about any eldritch they come across. The other golems kind of did that already."
+
+I nodded, "It's been a while since I've actually tried clearing dungeons. I've been so busy with other stuff that it's kind of taken a backseat. What kind of performance did the other golems have?"
+
+Isa looked up, searching for the right words,
+
+"Hmm, how to say this...they were brutal, I suppose? The golems are terrible at a rescue, scouting, or any kind of informational gathering. What they do well is simple: smash. When they do, they leave very little behind. It's, uh, kind of difficult just to figure out what they've killed honestly."
+
+She shrugged, "So yeah, they're thorough. I don't know what the super golems would be like, but your previous golems did a great job of handling the obvious issues of eldritch being alive."
+
+I smiled, pleased they exceeded my expectations,
+
+"Awesome. I didn't expect that."
+
+"Yeah, they're relentless to a scary degree even. Some of our scouts have come back with reports of the golems being covered in eldritch blood when they saw them. It makes for a terrifying scene, and the eldritch learn to fear them for it. They even gave us reports of eldritch becoming subservient to the golems in vain attempts at survival."
+
+Torix's eyes flared, "The eldritch surrendered? I find that hard to believe. Most of them are mindless, and the few that aren't are only obsessed with hunger. I see no reason they wouldn't show the same attitude towards these machinations."
+
+Bryan spoke up, "I thought the same until I did some observational research on one of the stronger golems. I found out that the eldritch, even the ones who can eat black iron, can't eat these golems. It's just as our guildleader predicted. That wildly shifted their behaviors towards them. Instead of being tempted by hunger, they were terrified of being eaten themselves."
+
+The wily mage leaned forward, his runes precision having improved recently, "They know they can't win nor beat these things we're putting in their dungeons, so they lose their will to fight. I actually think the eldritch are more logical than we first imagined. I think they're just trying to survive, but in the only way they know how."
+
+Torix tilted his head, "An interesting hypothesis. Does this concept apply even to more primal eldritch?"
+
+"I think it does. They seem to feel fear for those walking titans, and it goes deep."
+
+Torix turned to me, "It would seem you're more an object of fear than we first envisioned. This bodes well for our plans on Blegara."
+
+I leaned back while crossing my arms, "That is strange. I didn't expect them to actually fear just the regular old golems. I mean, I could see why these super golems command that kind of respect, but man, my first models? Maybe the eldritch aren't as scrappy as I first thought."
+
+Isa scoffed, "Tell our scouts that. Those hiding eldritch still tried to get a piece of them when they first arrived until the resident golem intervened. That's why it was covered in blood when they arrived for inspection."
+
+Lester leaned forward, "The point is, your previous golems are more than enough for what we need. Asking us if your super golems will do the job is almost...insulting, I'd say."
+
+Lester raised his palms to his defense, "Not that we took offense or that you meant it that way. It's just how it could come across."
+
+I nodded, "Understood. I can mass-produce those golems while some of the people here focus more on super golems for other purposes. They might let us make camps in different places and keep them more secure as well."
+
+Isa coughed into her hand, "So...How many golems do you plan to make? one hundred...maybe two hundred?"
+
+I scoffed, "I intend on making one for every dungeon. It'll give people time to develop themselves without needing to fight for their lives every day."
+
+Isa blinked, "So ugh, what are we going to do then?"
+
+I turned to Torix before grinning. I leaned towards them,
+
+"Actually, I have just the job for you three."

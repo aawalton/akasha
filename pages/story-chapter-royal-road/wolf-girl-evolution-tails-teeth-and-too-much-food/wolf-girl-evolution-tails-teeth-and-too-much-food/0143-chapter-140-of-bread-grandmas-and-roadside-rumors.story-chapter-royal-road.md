@@ -1,0 +1,703 @@
+---
+id: bb926142-0a31-508b-a8c6-ff746b69c30d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 140: Of Bread Grandmas and Roadside Rumors"
+slug: 0143-chapter-140-of-bread-grandmas-and-roadside-rumors
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 143
+ownLength: 3487
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3672517/chapter-140-of-bread-grandmas-and-roadside-rumors"
+royalRoadId: "3672517"
+---
+
+PoV Luna
+
+A small settlement revealed itself between the trees beside a river bend. Timber buildings clustered behind rough wooden walls, and narrow farmland stretched along nearby slopes wherever the forest allowed enough sunlight through.
+
+It smelled like people, woodsmoke, river mud, animals, bread, and work.
+
+Good smells!
+
+Stress-free place!
+
+Though the guards near the entrance did not seem to agree.
+
+Especially after Luna emerged from the treeline in her Shadowmerged form with Syliana on her back and shadows rippling softly through silver-black fur.
+
+Movement around the gate halted instantly.
+
+One guard nearly dropped his spear.
+
+Another stepped backward into a water barrel.
+
+Several villagers froze near the gate while a child made a sound halfway between excitement and terror.
+
+Hmph. Rude!
+
+But Luna understood!
+
+It was reasonable, even. After all, Luna was very impawssive!
+
+Her Second opened her mouth to try and calm the situation, but Luna had her own social tactics for when humans acted weird!
+
+Shadows collapsed around her in a smooth swirl. One second, she was a giant Majestic Apex Predator. The next, she stood as a small human Luna in human clothes with messy silver-black hair and proud ears standing at attention.
+
+Standing in a perfect Mister Bull approved pose!
+
+“Tadah!”
+
+Silence followed.
+
+A long silence.
+
+A surprisingly long silence!
+
+Then one of the guards blinked several times.
+
+“…What?”
+
+Luna puffed proudly beside the gate.
+
+Genius tactical social maneuver, achieved!
+
+The guards still looked nervous, but less spear-stabby nervous.
+
+Which meant everything was perfectly fine in her eyes!
+
+A few villagers kept staring as Luna and Syliana entered. Some stared at Luna’s ears. Some stared at her tail. One old man stared at the shadows curling under her feet and then very carefully decided to look at a fence instead.
+
+Luna wanted to Shadow Step right before him, for another surprise ‘Tadah!’, but Syl’s hand on her shoulder and a shake of her head told her enough.
+
+Woo-hkay then!
+
+Luna will be nice!
+
+She then looked around the village while Syliana spoke with the guards.
+
+People were still staring, but not all in the same way now. Some looked scared, others curious. A child peeked from behind a woman’s skirt with huge eyes and both hands clamped over her mouth, as if holding in a very important question.
+
+Luna’s tail gave one careful wag.
+
+No screaming happened.
+
+Progress!
+
+Then she saw two men by the river struggling with a stack of cut logs.
+
+The logs were big!
+
+The men were not.
+
+One end slipped, hit the ground, and nearly rolled into the mud.
+
+Oh!
+
+That looks like a job for Luna!
+
+She turned immediately.
+
+“Second, Luna goes!”
+
+Syliana glanced over, followed Luna’s gaze, and understood fast enough to only sigh a little.
+
+“Be careful.”
+
+“Yesh!”
+
+So Luna zoomed!
+
+Carefully!
+
+One moment she stood besides her Second, and the next she was by the riverbank! Several heads turned, searching for her with confused expressions, which quickly turned incredulous as Luna grabbed the slipping logs, and lifted them up with some strain, before they could roll any farther.
+
+The two men froze.
+
+Hehe! She was getting used to new people freezing up around her.
+
+But that was fine!
+
+Luna also did typical Luna things, like eating jerky and wagging her tail!
+
+Humans freezing up must just be a very normal human thing, yip yep!
+
+She held the logs in place and looked between them.
+
+“Where put?”
+
+Neither answered.
+
+Luna blinked.
+
+“…Logs?”
+
+One of them slowly pointed toward a shed near the river path.
+
+Excellent!
+
+Luna carried the logs there, set them down carefully, and looked back with bright ears.
+
+“More?”
+
+That made one of them laugh, though he looked a little startled by himself for doing it.
+
+After that, the village became livelier!
+
+Not everyone stopped being nervous, but nervous people became curious people when Luna kept finding interesting things to do.
+
+A woman carrying a basket of laundry almost dropped half of it when a chicken ran beneath her feet, so Luna caught the basket before the clothes escaped.
+
+“Saved laundry!”
+
+The woman stared at her, then laughed and handed Luna a small dried apple slice.
+
+Oh!
+
+Helping gave snacks!
+
+Important village rule discovered.
+
+After that, Luna paid even closer attention.
+
+A child lost a wooden ball under a cart, so Luna flattened herself dramatically against the ground, reached beneath the cart with one hand, and rescued it.
+
+The child gasped.
+
+“Wolf hero!”
+
+Hehe! Wolf hero Luna sounded great!
+
+He paid Luna with one extremely shiny pebble.
+
+Present for Ray Ray got!
+
+Hehe!
+
+…Though wolf hero Luna also suddenly felt very silly – she could have used her shadows to get the ball!
+
+Tut woo tut, nobody would know!
+
+Then an old man struggled to carry a bucket from the well, so Luna carried it for him. Then she carried two more because the buckets were there and clearly wanted carrying.
+
+The old man gave her jerky.
+
+Best old man!
+
+Seeing her helping around a woman near the inn pointed toward a pile of split firewood and asked if Luna could move it closer before evening.
+
+Luna could.
+
+Obviously!
+
+But she was careful, because village people still startled easily when she zoomed too close. So she carried the firewood at responsible speed, stacked it neatly beside the inn wall, and received a few sweet rolls for the bother.
+
+Sweet rolls were a discovery! Different sweet than meat sweet! Soon as the taste hit her tongue Luna could barely contain herself and nommed down half of the rolls!
+
+Happiness, but weird!
+
+Without chewy meat, just sweet! Lots of sweet! And a little buttery chew?
+
+Her tail wags couldn’t stop, and Luna tippy tapped in place!
+
+But! Nom. Weird! Nom nom. Not strong meat, nothing but more sweet filling inside!
+
+Yet still good!
+
+She looked suspiciously at the remaining rolls.
+
+How do they make Luna happy if not meat-shaped?!
+
+Then she hid the rest in her Maw.
+
+For research purposes!
+
+Yip yep.
+
+Luna wholeheartedly accepted village economics!
+
+They tasted good!
+
+At one point, Syliana found her physically holding up part of a collapsed storage lean-to while three villagers repaired the supports beneath her.
+
+“Second!” Luna called proudly. “Luna became infrastructure again!”
+
+“I noticed.”
+
+“Very useful infrastructure.”
+
+“Extremely useful indeed.”
+
+One of the villagers working under the lean-to pressed a small wrapped meatloaf into Luna’s hand once the beam was fixed.
+
+Luna looked at it, a bright glint twinkling in her eyes.
+
+Then at Syliana.
+
+“Infrastructure gets meat cake!”
+
+“So it appears.”
+
+“Great system!”
+
+Syliana’s mouth twitched.
+
+Humph! It was a good system!
+
+Unfortunately, not everyone in the village understood Luna’s helpfulness as quickly as humans did.
+
+The chickens were first.
+
+Luna stepped around the corner carrying fence posts over one shoulder, and one hen looked up from pecking at the dirt.
+
+Luna paused.
+
+The hen paused.
+
+Luna gave her a careful, friendly ear twitch.
+
+The hen screamed.
+
+Then all the chickens screamed.
+
+Feathers exploded across the yard as the flock scattered in every direction at once, despite several directions being walls, buckets, or each other. Luna stood very still with fence posts over one shoulder while chickens fled around her feet like the ground itself had betrayed them.
+
+“…Second?”
+
+Syliana covered her mouth with one hand.
+
+“I think you startled them.”
+
+“But Luna did not even awoom!”
+
+“I know.”
+
+A goat nearby watched the chaos, made brief eye contact with Luna, and fainted sideways into the straw.
+
+Luna stared.
+
+The goat did not move.
+
+“Second. Goat broke!”
+
+“It fainted.”
+
+“From looking?”
+
+“Apparently.”
+
+Luna’s ears lowered with deep concern.
+
+“Very fragile village monsters.”
+
+“They are not monsters.”
+
+“Very fragile village creatures.”
+
+“Better.”
+
+The mule handled things differently.
+
+It waited until Luna carried the fence posts past its stall, then snapped its ears flat and kicked at her.
+
+Luna kicked back on instinct.
+
+The mule lost.
+
+The mule froze with one hoof still raised, looked at Luna, looked at the fence post on her shoulder, and slowly put its hoof down.
+
+Luna nodded.
+
+“Good choice.”
+
+The mule turned its head away with great dignity and pretended it had meant to do that.
+
+Heh!
+
+The village children adapted much better.
+
+Too well.
+
+They began at a careful distance, peeking from behind doorways, wagons, fences, and adults. Then Luna lifted a stack of planks with one arm, and the distance shrank. Then she transformed one hand into claws to cut a snapped rope free, and the distance vanished completely.
+
+【Lunar Form Lv.21 → Lv.22】
+
+Partial transformation made numbers grow too!
+
+Very nice!
+
+By sunset, Luna traveled through the village with an escort of excited children following behind her while asking endless questions.
+
+“Can you really bite monsters in half?”
+
+“How fast can you run?”
+
+Apparently ‘at the speed of zoom!’ wasn’t enough of an answer and they just kept going!
+
+“Do shadows taste weird?”
+
+“Can wolves eat thirty potatoes?”
+
+“Yes.”
+
+“Very.”
+
+“A little.”
+
+“Probably!”
+
+The children accepted every answer without hesitation.
+
+Smart children.
+
+But then they would ask more questions!
+
+Woo–!
+
+One especially small child pointed at Luna’s tail.
+
+“Can I touch?”
+
+Luna considered this.
+
+Tail was important.
+
+But small child had asked politely.
+
+“Gentle.”
+
+The child touched Luna’s tail with one finger, then gasped like she had discovered treasure.
+
+“Fluffy!”
+
+Several other children immediately began negotiating for tail-touching rights.
+
+Luna allowed three more because she was generous and because they said “please.” Then she raised her tail out of reach when one boy approached with berry-sticky fingers.
+
+“No sticky tail.”
+
+The boy hid his hands behind his back.
+
+“Not sticky.”
+
+Luna stared at him.
+
+He retreated.
+
+Wisely.
+
+Soon after an elderly village woman spotted Luna helping repair part of a fence line and declared her far too skinny for proper northern weather, and that helpful kids deserve treats.
+
+Luna did not understand this.
+
+Luna was pawerful!
+
+Luna was fluffy!
+
+Luna was Genius Apex Predator Extraordinaire!
+
+Luna had eaten proper strong monster meat recently!
+
+But the bread grandma was extremely determined.
+
+By the time Syliana found her, Luna carried an alarming quantity of pastries in both hands while the old woman continued adding more despite visible storage failure.
+
+“Need more meat on those bones,” the woman muttered, pressing another honey pastry into Luna’s already overwhelmed grip.
+
+Luna would never turn down the mysteriously precious sweet treats!
+
+“Second,” Luna whispered urgently, “bread grandma too powerful!”
+
+Syliana’s mouth twitched.
+
+Then Luna bit into one pastry.
+
+Warm honey and berry sweetness melted across her tongue.
+
+【Gluttonous Soul 16% → 17%】
+
+Her ears shot upright.
+
+“…Woah!”
+
+The pastry vanished immediately. Sweet rolls were good, but this was much better!
+
+The old woman cackled triumphantly and handed her two more.
+
+Disaster!
+
+Delicious disaster!
+
+Within the hour, Luna became completely obsessed with northern baked goods.
+
+Sweet rolls.
+
+Seed bread.
+
+Berry pastries.
+
+Dense honey cakes carried by traders passing through the region.
+
+This was how Luna learned that villages near trade roads were dangerous in a new way.
+
+They had snacks from other places!
+
+Not just local snacks.
+
+Mysterious strategic traveling snacks!
+
+Luna found a merchant selling hard little spice biscuits from a wagon and stared at them until Syliana sighed and bought a small pouch.
+
+The biscuits were crunchy, sharp, sweet, and confusing.
+
+Luna ate six before deciding they were good.
+
+A pilgrim woman gave her a strip of dried fruit wrapped in paper stamped with a sun symbol. That tasted like sour berry and dust, but in a good way, somehow! One hunter traded smoked fish for help moving a crate. Two children claimed they knew where the best seed bread was and led Luna to another stall with the seriousness of scouts guiding royalty.
+
+Very smart children!
+
+Luna secretly gave them a small pastry each!
+
+Syliana later found Luna attempting to barter heavy labor for additional pastries while surrounded by cheering children.
+
+“Luna can lift whole cart for cinnamon bread!”
+
+“Three loaves!” one child countered immediately.
+
+“Deal!”
+
+Syliana should probably have stopped this.
+
+Eventually.
+
+But the cart did need lifting.
+
+And cinnamon bread was very persuasive.
+
+***
+
+PoV Syliana
+
+Syliana let Luna become a local economic disruption for longer than was strictly reasonable.
+
+There were certainly worse ways for the village to remember them, and Luna seemed to be having a lot of fun.
+
+Fear faded faster when replaced by usefulness, and Luna was very good at being useful once she decided people needed help.
+
+Not to mention charming.
+
+The little girl truly was a precious joy to be around, for everybody involved.
+
+By sunset, the same villagers who had nearly bolted at the sight of her full transformation were pointing her toward heavy work, laughing nervously when she solved it too easily, and then laughing less nervously when Luna looked delighted rather than dangerous.
+
+The children helped the most.
+
+They treated Luna like a festival, a monster story, and a new friend all at once. Luna responded with absolute seriousness, as though every question about claws, shadows, potatoes, and proper tree-climbing standards deserved formal consideration.
+
+It was absurd.
+
+It was also working.
+
+Syliana watched Luna hold up one end of a wagon while two men replaced a cracked wheel, then watched three children offer her a pastry as payment.
+
+Luna accepted the pastry with grave dignity.
+
+The village relaxed another degree.
+
+Good.
+
+That gave Syliana room to listen.
+
+The settlement was small, but not isolated in the way Altracia had been isolated. It sat near the point where older logging roads met wider trade routes, and the traffic passing through carried half the surrounding world with it.
+
+Merchants rested near the inn with wagons painted in crests from afar. Hunters brought pelts from the forest roads. Pilgrims in white-and-gold traveling robes stopped beside the village shrine to refill waterskins and tie fresh ribbons to the posts. A few guards wearing pale blue cloaks embroidered with silver wings watched over cargo crates marked with Sky Kingdom trade seals.
+
+Luna noticed the cloaks during one of her pastry rounds.
+
+“Sky people?” she asked, pointing with one honey-sticky hand.
+
+“Trade guards attached to one of the Sky Kingdom families,” Syliana said.
+
+Luna squinted at them.
+
+“They live in the sky?”
+
+“Some do.”
+
+Luna looked up, saw clouds and little else.
+
+“…Humans make everything complicated.”
+
+Syliana did not argue.
+
+The village square proved that repeatedly.
+
+Two merchants argued near a wagon over crossing fees and cargo weights while a tired clerk tried to explain that road maintenance, bridge repairs, and regional tariffs were three different charges.
+
+Luna half-listened for almost a full minute before frowning.
+
+“Why make road crossing complicated?”
+
+The clerk blinked at her.
+
+“Because roads require maintenance.”
+
+She tilted her head.
+
+“...But road already there.”
+
+Several nearby villagers pretended not to laugh.
+
+Syliana sighed softly.
+
+“That is not entirely how it works.”
+
+“But should be!”
+
+The clerk looked as if he badly wanted to agree and knew better than to do so.
+
+Amusingly, Luna decided he was a tragic road victim and tried to give him half a biscuit.
+
+He accepted after only a little hesitation.
+
+That was where Syliana let Luna’s attention drift away again.
+
+It was not difficult.
+
+The children had discovered that Luna could jump into a tree without using the trunk, and Luna had discovered that village trees required official inspection. A few moments later, she was already being pulled toward the central green by a small crowd of excited voices, another half-eaten biscuit in hand and tail swishing behind her.
+
+Useful.
+
+Though not because Syliana wanted Luna gone.
+
+Never that.
+
+Syl has slowly accepted that she would be happy to spend her entire life with that precious little wolf girl, and nothing would change that.
+
+But no, it was simply because Luna being visible, cheerful, and harmlessly impossible made people talk more freely. Fear softened into amusement. Amusement softened into curiosity. And curiosity, in a village like this, usually brought gossip close behind it.
+
+Syliana stayed near the square.
+
+The languages changed around her as people moved through it. Merchants from different routes spoke with different accents, switched words mid-sentence, or gave directions using place names that did not belong to Altracia’s frontier. Children near the well repeated foreign phrases from caravan guards. Pilgrims debated shrine paths and holy roads. Traders complained about tariffs, weather, patrol delays, and sky cargo as if all of those things belonged in the same breath.
+
+It told Syliana what the map alone could not.
+
+This village was small, but it was far from isolated. News moved through it on wagon wheels, worn boots, shrine ribbons, hunting trails, and trade seals. The wider world passed through here in pieces, and those pieces were exactly what she needed.
+
+Even if it wasn’t where Syliana had first intended to go.
+
+When the first worrisome reports reached them in Altracia, her instinct had been to lead Luna somewhere quieter. Farther from the roads. Farther from rumors of missing travelers, strange movements, and trouble stirring in places it should have no reason to happen.
+
+But Ferric had disagreed.
+
+Not at first, but the more they talked, the more sure her old friend became.
+
+He had simply pointed toward the northern routes, named three minor reports that should not have mattered together, and said that if something was moving, it would be better to be against it here than anywhere else.
+
+Then claimed gut feeling, again.
+
+So silly, yet so rarely wrong.
+
+Syliana had talked it over with the others before the separation.
+
+Ray had been skeptical, naturally. Trianna had wanted more proof. Veric had said little, but listened. Sepio had grumbled about chasing an old man’s hunch across half the region.
+
+Luna had been asleep through all of it, recovering with her head in Syliana’s lap while the rest of them argued routes, rumors, and risk until the fire burned low.
+
+In the end, they had agreed to trust it.
+
+To trust him, because she trusted him.
+
+Funny how that goes.
+
+And even more amusingly–
+
+From what Syliana knew, it was not even a skill. Ferric simply had an uncanny ability to know where trouble would gather before anyone else could prove trouble existed at all.
+
+Then again, there might yet be a method to his madness.
+
+As the old saying went, it was safest under the storm’s edge, where the wind showed its direction before the lightning struck.
+
+So here she was, trying to find a thread and follow the rumors home.
+
+She listened.
+
+At first, the complaints were ordinary.
+
+A bridge south of the village needed repairs before the next heavy rain. A logging road had become too muddy for loaded wagons. Pilgrims argued over whether the old shrine route was still safer than the river crossing. Two merchants near the inn were certain the latest tariff adjustment was either theft, incompetence, or both.
+
+None of that mattered by itself.
+
+The repetitions did.
+
+Travelers delayed.
+
+Small groups taking longer routes.
+
+Hunters avoiding certain paths after dark.
+
+Merchants paying extra guards without admitting why.
+
+Nothing large enough to cause open alarm, but enough that habits had begun changing. People left earlier. Wagons waited for company. Hunters chose different tracks. Those who had to travel alone spoke too loudly about not being worried.
+
+Then came the stranger reports.
+
+Armed groups avoiding main roads entirely.
+
+Supply thefts from remote waystations.
+
+Movements in the forest where no hunting parties admitted going.
+
+And beneath it all sat the same unease Syliana had carried north with them since the tower.
+
+The forces responsible for spreading that detestable Corruption moved through the region nearby.
+
+Quietly.
+
+Carefully.
+
+That worried her far more than open monsters.
+
+Then the lighter talk thinned.
+
+It happened gradually, as useful rumors often did. A joke about extra guards became a complaint about the southwestern road. A complaint about the southwestern road turned into someone lowering their voice. A lowered voice became a glance toward the trees beyond the lanterns.
+
+Syliana did not chase any single story.
+
+She listened for where they bent toward each other.
+
+By evening, one direction kept returning.
+
+Southwest.
+
+Perhaps it was poor proof, perhaps just bad luck or an errant higher tier monster finding their way into more civilized lands.
+
+But rumours were often enough.
+
+And this region was where Ferric had pointed too.
+
+Syliana let the conversations move on. Weather. Timber prices. Bridge repairs. Safer things people could name without feeling watched.
+
+A little later, outside near the central green, Luna balanced triumphantly atop a large tree branch while half the village children shouted competing opinions upward at her.
+
+“No, that branch doesn’t count!”
+
+“It totally counts!”
+
+“Judge wolf says yes!”
+
+Luna pointed dramatically downward from the tree.
+
+“Official best climbing tree require good branches, excellent launch points, and snack potential.”
+
+One child gasped.
+
+“Snack potential is important?”
+
+“Very important,” Luna confirmed gravely.
+
+Syliana watched from the inn doorway as lantern light flickered warmly across the village and Luna laughed with the children.
+
+They had found their first direction.
+
+Tomorrow, they would follow it.

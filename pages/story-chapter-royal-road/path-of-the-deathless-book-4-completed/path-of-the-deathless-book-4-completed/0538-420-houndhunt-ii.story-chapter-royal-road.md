@@ -1,0 +1,237 @@
+---
+id: 24b6a450-b075-587e-9d78-46d6316750dd
+page-type-slug: story-chapter-royal-road
+title: "420 Houndhunt [II]"
+slug: 0538-420-houndhunt-ii
+partOf: path-of-the-deathless-book-4-completed
+position: 538
+ownLength: 5891
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3752060/420-houndhunt-ii"
+royalRoadId: "3752060"
+---
+
+Do not receive him. Do not believe his forking lies.
+
+His tongue burns. His words are acid and flame. His presence is defilement.
+
+If the Deathless stands before you, strike him down, or yourself. Deny him your mind, your flesh, and even the pleasure of taking your life.
+
+This I command, my Prophetesses! This I decree!
+
+Sunder your own souls if you must.
+
+His voice must never reach me.
+
+His flame must never defile me.
+
+—The Pale of the Shattered Moon
+
+420
+
+Houndhunt [II]
+
+Valor's intrusion upon the gathering was like smearing fecal matter into a wound. The tension within the dining chamber grew unframed, and the Avatars were barely restrained as their Ascendants manifested in full. Their power fell like an anvil and poured forth in waves toward the intruder. Where mostly expendable Avatars thought themselves harbingers of the divine and unbeatable by faith and holy decree, the Ascendants knew better than to waste these vessels against He Who Stills Eternity for nothing in return.
+
+Yet, one among the Ascendants diverged from the others. One stood inverse to their own Avatar, rising as Havel Stormhalt remained seated. The Endbreaker was a god of no words at all, but his silence was not stoic nor subtle. Even without language, he conveyed what he felt in an instant. What possessed him was rage. Rage in the shape of a fracture. Rage in the form of black lightning spreading across the space of reality like it was a cracked pane of glass. Dark tendrils of electricity reached toward Valor, but neither the Undying nor Shiv rose to intercept. Instead, the Deathless spoke directly to the Endbreaker, delivering a veiled halt that was coded as a plea to the man containing the god.
+
+"Havel, this isn't a threat. I want you to listen, and I want you to listen good: Get the Endbreaker to stop, because I can't save you from Valor even if I wanted to. You got until Valor disappears to save your own life."
+
+The City Lord shuddered as Shiv's voice thundered deep within his mind; his head lifted like a blade being drawn from a scabbard, and the gleam in the whites of his eyes shone bright in disbelief. There was no translucence carrying Shiv's thought in the form of mana. There was no act of Psychomancy or hidden skill that allowed the Deathless to spit words without moving his lips across the subtle winds in the room.
+
+And it was thus that Havel understood how deeply Shiv had marked him. The scars he'd left upon his psyche were more than mere damaged tissue lingering upon mind and heart; Inland Embassy granted Shiv access to Havel at any moment, and at the same time, it allowed him to break Havel at any moment. Should he will it, he could shatter the City Lord and deprive the Endbreaker of his prized vessel at a whim.
+
+But it wasn't Stormhalt who stopped the Endbreaker. Before Havel could lift his head and beseech the calamitous form of the Endbreaker—manifesting in billowing clouds of midnight and forking lightning—a loud, shrill note filled with soothing tones, layered as an unseen orchestra, crashed into the Endbreaker.
+
+The Songbringer herself intervened to calm her lover, bringing pacification before internecine or deicide could unfold.
+
+The crashing veins of lightning went still, frozen in mid-air. The Endbreaker turned his head as Stormhalt mirrored the gesture. But as Veronica stared straight ahead without betraying any hint of fear, the Songbringer sprang forth with arms held out, offering herself in a gesture of embrace toward everyone, including Valor Thann. The purity and overwhelming warmth that sailed out from her voice drowned everyone in more than song. It was truth. It was utopia. It was everything someone could—
+
+"It is a divine lie. It is scripture infesting your soul." The Harbinger hardened around Shiv, and suddenly the music became bewitching, but nothing more. It was no more religion wriggling into Shiv's mind than it was gibberish propelling him towards an unwanted belief. The broken pieces of his pre-Legendary skill gleamed bright, but if the Songbringer was offended by his resilience, she didn’t state it this time.
+
+Instead, as her initial aria died down, her voice transformed into a rising chuckle, and she shook her head as her raven-black crop of short hair ruffled and danced upon her brow, animated in a way that was inhumanly entrancing.
+
+"The audacity to come into our house, to speak to us in such a manner." Kathereine’s words collapsed into a rising whistle as her hatred broke like a fever and gave way to admiration. "If only I could have sung to you in ages past, Valor Thann."
+
+"You did," Valor replied casually, "but it is beyond your memory now. I knew you before what you did to yourself. I knew you before you betrayed my confidence. I knew all of you. I am not here to bring retribution for the desecration you inflicted upon my faith. I am not here to fight and argue with you over matters of theology." The Undying paused, and Shiv felt the heat of withheld wrath radiating from his master. "I should, but I refuse, because in this moment, as you have disciplined yourself in fear of me, I too shall discipline myself with respect to our greater task: whatever bloodshed is to follow between us can wait until after the Tarrasque is bested, not before."
+
+"So you claim, and so you demonstrate," Veronica replied dryly, but there was an aggravation to her Shiv hadn't read before. It was in her body language, in the way her left index finger tapped upon the table, breaking from her previous state of decorum. Something inside the Deathless's stomach curdled. He knew there would be a penalty for this, a punishment for not revealing the presence of Valor. But that would be for later; for now, she wished to make use of the Undying's knowledge. "So, what have you learned that my Diviners could not? What do you know that will allow us to strike into the heartland of one of our most vexing adversaries?"
+
+"An assortment of things, yet never truly enough." Valor clasped both his hands behind his back, and his eyes gleamed bright with necromantic energy. Then something more. He projected a thread of mana out from his sockets, and it painted a visualized memory upon the ceiling above. Heads turned upward, yet a few kept their gazes locked upon Valor. Their paranoia was high, suspecting he might use this moment of sorcery to divert their attention to strike. When no blow came, they grudgingly turned their gazes high as well.
+
+A vast vista came into view, a place that stretched from horizon to horizon to reveal colossal structures made from pale, bright ice. They rose high into the sky, slipping past the boundary of clouds as their spires became a staircase toward the upper stratosphere. At a glance, it was clear that these massive peaks born of frost were not natural formations. The sheer Cryomancy radiating from every surface was colossal, immense, and downright absurd. Furthermore, there was a veil of cold that formed a protective barrier. It tumbled forth, not like mist, but hardened fingers of intrusive white, and Shiv saw something else there: a glow of faint vitality, as if the creeping frost had a life or awareness of its own.
+
+Cloud-striding monsters and swarms of harpies kept their distance from these massive structures. Along their sides were battlements and mortars, hollows and caverns that were positioned and reinforced by magical turrets. And then there were the ones who manned these battlements. Each wall was separated into two layers: a rampart that placed the Frost Giants above, and then below them a series of chains that bound rows of crudely armored slaves as an expendable frontline.
+
+Most of them were automata; their machine bodies more capable of suffering the frost. But there were beings born of flesh as well: goblins, the second most populous upon the wall, followed by humans, then elves. Those who were of pure biology were riven by marks of unnatural frostbite, disgusting runes upon their bodies that saw their flesh separated from bone, yet left the rest of their form untouched. It was like an expression of the cold: a focused imprint that wounded them but never drove them to the point of death.
+
+Shiv sensed a significance to those runes: there was a reason why they were marked in such a way—and his curiosity climbed higher as he saw each of the runes capable of connecting body to body, as if they were an extended series of patterns separated across different vessels.
+
+As the scene played on and the point of view—that of Valor, no doubt—drifted, Shiv realized this massive wall of risen frost surrounded all of the Northlands, and everything behind that colossal barricade was shrouded by a spiraling vortex of unnatural pallor.
+
+"The Fangs of the Pale," Veronica commented pithily. "Presented from a bird's-eye perspective. Quite a feat. The low stratosphere belongs to the Storm Lords anyhow, but someone of your caliber…"
+
+Her words trailed off as the perspective closed. Instead of remaining beyond the walls, Valor descended to walk past the rows of enchained slaves, looking upon their faces, clasped in hardened helmets, and down at the blood spilling down their torso. Shiv realized the insides of their headgear were riven with pointed spikes of ice.
+
+Valor ventured further, walking through those moving fingers of pure frost as winds might glide across water. He descended into confusing, maze-like hallways connected to colossal staircases and teleportation anchors that led across the grand architecture of the interconnected walls. As time continued on and Valor teleported through a few places left unwarded and unprotected from Dimensionality, everyone took in just how deep the North's protections went.
+
+In a matter of minutes, Valor crossed through the first section of walls to arrive in front of a magical perimeter. Dense walls of pure, concentrated mana greeted him, but they were not colored or coded like something of lore. Instead, they were unattuned. Shiv could see the truth of it by the chaotic expression of the mana, and he guessed they were like expressions of perception. Perception tied to the crawling Pale that radiated from the ice used to make the grand wall, from every Frost Giant and the frost-bitten scars of every slave.
+
+And the vitality blazed bright through and through. Shiv was certain the veil was alive, and it was searching, coiling through the hallways like a flowing serpent, as if it could sense something was wrong but couldn't find the root of the disturbance.
+
+Valor passed through those protections with ease—but not without cost. The Pale congealed behind him, freezing the entire hallway solid, and he was forced to pick up his pace lest he grow encased in the aftermath of his enemy's suspicion.
+
+Veronica was leaning forward now, as was Anthony. It was clear that they had never obtained such a penetrative look at the Jotun's defensive measures.
+
+"Prophetesses!" a voice, low and hissing, carried by the crackling cold, radiated through the halls and greeted Valor's ears. "Open your eyes. Let me see through you. Let the Shattered Moon gaze where you cannot. Is it him? Has he slipped through? Has he arrived? Has his flame come to stain us? There is a heat here. There is a fire. There is an alien favor not of our own. The System's hand falls vulgarly upon our shoulder. A Favored has come, and Favored not of our embrace. Show me. Make me see. Is it he? Is it the Deathless?"
+
+Goosebumps spread across Shiv’s flesh at the mention of his name.
+
+The scene played on, however, and Valor continued venturing forth, down and up staircases wide enough for a dragon to use, through grand halls filled with Jotun warriors. He walked past hundreds of Prophetesses, their eyes stitched shut, a wound spilling pale mana carved into each of their foreheads, connecting them all. Bound to their hips with chains rigged to anchors of frost and metal combined were swarms of slaves, their bodies misshapen by the cold. Where flesh was lost, ice set in and grew. More than a few were already dead, mere puppets to be worn by the essence of the living Pale.
+
+"To start with the most immediate variable: the Jotunn and the being they serve above all others know the Deathless is coming," Valor began. Faces turned to regard Shiv, but he kept his expression as if stoned. Valor continued on as if this wasn't a terrible revelation unto itself and that worse was to come. "But I do not think this is a matter of intelligence. They do not know that he is here in the heart of the Republic, having struck an accord with its highest halls of power. No, I suspect it is because the System has betrayed his presence to them. The System has given them a Quest—a warning that Shiv will bring their destruction. The Pale thus commands its servants, demanding they stand ready for his inevitable approach."
+
+The projected illusion played on for a while longer, and between his Dimensionality and Stealth, Valor finally emerged through the other side of the wall, kilometers away from where he'd entered, where he found himself standing upon a colossal platform inscribed with swirling patterns of spatial mana. The size of the platform was comparable to a small town, and thousands of Jotun and slaves were constantly transported every other second.
+
+But here in the heartland of the North, perception grew difficult, even for Valor. Everything past the point of ten meters became a screen of pure white. So dense was the presence of the Pale that everything else had been blotted out. But to Shiv's gaze, there was something else, a growing pulse of vitality that led further, that provoked him to gaze deeper into that all-consuming whiteness.
+
+Though the Avatars couldn't see, their Ascendants sensed it just the same as Shiv, and soon those possessed with the capability to view vitality saw a colossal structure looming over the world in the far, far distance, shaped like a broken crescent. It was a shard of a moon, outlined in vivacious red, and embedded into the earth. It was from this fragment of a celestial body that the vitality flowed. It was from this broken piece that the Pale sprang forth, like water from a spring.
+
+"Something that might be to your advantage in the war to come, but not for this intrusive operation, is that the North is assuming a defensive posture. Originally, they intended to invade, to strike hammer and anvil with their nominal allies from the South." Valor let out a slight chuckle as if finding the idea laughable. "But the moment they subdued and caged the Tarrasque, all hints of that paltry alliance collapsed. There is no truce to be had with someone whose cards include a world-ender. To unleash the Tarrasque on the Republic will see it end up in the Southlands once more, once it has crushed this nation of yours flat. The Southern Gods made their demands, and the Pale of the North ignored them. The Shattered Moon abides by its own will, as does the South, and so that relationship fractured under irreconcilable differences."
+
+All hints of aggravation vanished from Veronica. Now she leaned back, her posture slack but also excited. No longer was she infuriated about Valor's presence. He was proving to be a wealth of information, more than any Inquisitor could provide. "These defensive measures, have they adopted them for the Deathless alone?"
+
+"For what he represents: the System's flame. The Pale understands the risk he poses, and it is not the destruction he is capable of. It is not his immortal nature, his ability to create many bodies and strike from many angles, his nature to expend himself only to gain new power without penalty from trauma nor death. No. What the Pale fears is the flame of strife he carries, for if he penetrates deep enough into its realm, that flame might spread to it as well. And the Pale has no desire to suffer strife, not of its own pace."
+
+"Yeah, so, sorry to interrupt," Shiv said, holding up a hand, "but I might be missing some context here. What the hells is this Pale exactly?" He dimly remembered the Pale somehow being part of one of the Quests he'd gained upon entering the Fairwoods, but he never ended up finding out what it was.
+
+"It is the alien will that governs and shapes the Jotun,” Veronica began. “It is that which determines how the Frost Giants act, that defines their culture, that rules over them in flesh, mind, and spirit." She scoffed derisively. "It poses as a Divinity, but it is far more insidious than that. Our research has concluded that the Pale is instead some manner of Cryomantic plague, granted sapience and intelligence when Hvelhuuld’s moon shattered and this piece of it fell to the planet. When they lost the Legendary-Tier Incursion against Earth and our planet absorbed and merged with Hvelhuuld, the part of it that contained the source of the Pale’s presence ended up where you see it, which is why it is still contained within the Jotuns’ initial invasion point in the North. And the Pale has remained sequestered there since then, dreaming of regaining that measure of power it once held, of possessing an entire world once more, boundless slaves, boundless servants, all in service to its singular will."
+
+"But it's not a god?" Shiv asked for clarification, noting the lack of incandescence.
+
+"Not even remotely," Enoch spat. The Builder sounded more hateful than Shiv remembered him from the Rubix Well. "There is no touch of the divine, and how could there be? That sickness which calls itself the Pale lacks all interest in artistry and expression. There is nothing worthy in that festering cold that pretends to be holy. Did you know that the Jotun lack any form of formal scripture or literary language of their own, Deathless? Did you know that those runes they carve are meant to only be interpreted by the Prophetesses? Did you know that besides the Pale’s stolen eyes, any who are found capable of literacy are put to death? Did you know that they each bestow Paths upon their lessers, forging a perfect chain of slaves all the way down from the Pale?” A trembling snarl escaped the Ascendant. “Wretched, disgusting, unholy."
+
+But beyond Enoch’s judgment, Shiv had insights of his own. "Look, I could agree with your sentiment, assuming you're not bullshitting me. But if they have no equivalent to you guys and they're this messy, this enslaved, why hasn't the Republic just swept them off the map yet? Why haven't you crushed them completely yet?"
+
+"There is more to war than divine power," Anthony began, but his lie, even so vague, proved so egregious that the Gardener of Doubt awoke inside Shiv. "The Pale is technically considered an ordinary Pathbearer by the System, but it is a Pathbearer that shapes and constructs, that provides materials and almost negates the burden of all logistical needs. We can smash through one of its outer walls, but it has enough expendable lives and High-Tier Pathbearers of its own that any victory will be hard-fought and brutal. Any push will cost the Republic far more than it could ever gain, and it is not the only enemy we have to beware of besides."
+
+The Gardener of Doubt waned during that second half, but it still lingered. The Republic could defeat the Jotun, but for some reason, they hadn't. They refused, or perhaps they deliberately wanted such an enemy: one that was perpetually inferior but a reliable foe. One that could always threaten their own Pathbearers and serve as a balance of threat against those inside. Shiv glimpsed it. Out of raw intuition and political talent alone, he understood.
+
+His eyes shifted; he looked upon Veronica, and the faintest of smirks played across her features: one of near pride, but one devoid of enthusiasm or amusement. Cold as well, cold as the frost that constructed those mountainous protections guarding the Jotun, cold as the Pale. It was all political calculus. The only reason, or at least a major one, why so many people remained enslaved, why the Frost Giants held the North, was to give the Republic a manageable foe to work upon as a whetstone for their Pathbearers and culture.
+
+"And just because the Pale isn't divine in its own right doesn't mean it doesn't have gods it can wield," Jessica said, speaking up for the first time in a while. The hatred in her voice was dull and dry. It didn't even burn with the heat of inflammation anymore. It was a simple fact of her life: She was the Giantsbane because she killed giants. She slaughtered them, hated them, butchered them, massacred them, and it was simply who she was. But with that came an understanding she had to possess in order to facilitate the genocide that had granted her her namesake. "The Crone, the Warrior, the Child. Three separate gods that were, to our knowledge, the original gods of the Frost Giants. But as the Pale ate through the fuckers, it ate into their gods too. Which makes it a rare case of a Pathbearer stealing faith from within."
+
+"So imagine how weak and primitive those gods must have been," the Songbringer mocked.
+
+Yeah, I guess they have to be, considering they couldn't match up to a collection of thirteen senile pretenders, Shiv wanted to say.
+
+As everyone settled into silence, the scenes above continued. Valor descended from that platform, venturing deeper into the Northlands using his skills, passing across a frigid tundra that seemed to extend beyond the edge of the world. Shiv noted that there was a limit to Unseen, Unheard, Unknown; or perhaps an extreme penalty that came with interfacing or trying to hijack someone else's spell. As Valor slowly closed in on that distant shard of crescent vitality piercing into the void, he witnessed it in its full glory. Shiv saw a curved wall grander than mountains, more polished than marble, and made of crystal clearer than mana-forged glass.
+
+All around that shard of a foreign world's moon, rising like a continental plate erupting vertically from the earth, knelt Jotun in their hundreds of thousands, prostrating themselves in supplication and prayer to the Pale. Towering Prophetesses upon massive pedestals stood dotted throughout the land, using blades to carve their willing lessers, to lash the Pale into them, scars and bestowals of divine favor both. Shiv wondered just how high a Social Skill this Pale had, and that sparked his intuition once more.
+
+“If the Pale possesses a consciousness and a psychology of its own, then it's more than the strife we carry that presents a danger. It is the fact that we might be able to strike at its fundamental essence, at its sense of self. If we can break its grip, then what holds the Jotuns together? If we can shatter the Pale in mind and heart, ruining its physical manifestation, then true death awaits. We are more than a metaphysical danger, as Veronica said. We are an existential one.” The Harbinger's words settled inside Shiv, and a new, silent objective took hold.
+
+This was supposed to be an infiltration run, but wouldn't it be better for the Republic and the people of the North themselves if the Pale was knocked off the board? It would be an act of liberation and emancipation, and even if it wasn't a success, it would be a good means of discovering the true shape of his enemy.
+
+After all, if the System was so desperate to betray Shiv to the Pale, that meant it was going to be a problem down the line. Pathbearers did not linger passively; it would be a fight on its terms or his.
+
+And I choose me, Shiv declared, speaking to himself and the voices within him.
+
+***
+
+Minutes stretched into hours as Valor elaborated on the critical defenses and internal layout of the North. The Pale seemed to provide a measure of sustenance and vitality to all its pawns. Such was why the North lacked agriculture entirely, why no one seemed to rest properly, choosing to collapse in the snow for short periods and rise soon after. It was also why the only art, the only expression as claimed by Enoch, was shaped in the form of massive runestones and group prayers led to praise the three divine faces of the Pale. It was complete civilizational dominance, control so deep that it usurped religion itself, wearing the hollowed sleeve of faith and its three usurped gods without them ever truly rebelling, or so it was claimed.
+
+And that impressed Shiv more than it disturbed him. Maybe he would mostly break the Pale, and in exchange for leaving it alive, he would learn its ways. He was still raw, and Veronica was not going to teach him everything. She was trying to sculpt him in her image, but the way to surpass a master wasn't to be their shadow. It was to step beyond it. It would be a most useful means of flaying the Republic open to solve their problem in turn in an act of consecutive irony.
+
+The Republic refused to finish the North off, and so the Deathless would use the sacked North as a means to finish the Republic, or at least transform it from within.
+
+“Do not be misguided by daydreams. That is utopian, and though it might be made manifest through chance or skill, do not lose focus on your main mission.” The Harbinger centered Shiv, and he reeled his drifting thoughts and emotions back in. Everything had to come second to the Tarrasque. Absolutely everything.
+
+By the time Valor finished with his memories, the Ascendants and the true governing power of the Yellowstone Republic looked on, entranced and pleased. Veronica's gaze was distant. She was thinking about more than the Tarrasque now, considering perhaps how she could subvert or strike at the Pale from within. Anthony had gone missing halfway through Valor's dissertation, vanishing into his god's darkness, doubtless to convey commands to the Inquisition or a specialized division of the Republic's Prismatic Guard.
+
+Though he lacked tactical, strategic, and general experience in relation to warfare or grander conflict, the scenes weren't wasted on Shiv, either.
+
+He could see why invading the North was such a hellish prospect. The Pale, through its many minions, could summon forth sprouting structures shaped as bunkers of ice. Igloos, they called them. According to Valor, it was a bastardized term stolen from a people that once lived on Earth far beyond even the North—a cultural act of theft that somehow nourished the Pale.
+
+That bit of lore came second to what those structures represented: easy manufacturing. The capacity to create rows and rows of complicated structures, much like Uva could, using her Dreaming Storm, except on a far grander scale.
+
+Trying to push into that with Adept-Tiers would be absolute hell. Every step would be denied as walls rose behind you. If you couldn't hold territory, your forward-operating vanguards could be encircled because the environment itself festered with an alien will that fought in perfect concert through its Prophetesses and rune-carved minions to surround and encircle, wearing down even greater forces over time. There was no easy way to overcome the Pale. You had to burn it away through concentrated attrition. Suddenly, Shiv was only half-certain the Republic intentionally kept the North as a whetstone.
+
+The Ascendants themselves had the power, but a single Legend?
+
+Shiv regarded Jessica through the corner of his eye and felt a sense of newfound awe for the woman. He knew she was a good blade. He knew she was a dangerous Legend, a proper warrior beyond almost anyone else he faced. But to survive amidst the Pale, to fight there for years by herself, and to gain the name Giantsbane: Just how many of them did she kill under those conditions? Just how did she survive for that long? She couldn't die, not like him. She couldn't come back.
+
+So how?
+
+But judging from the darkness in Jessica's eyes and that scarred look of enduring hate on her face as Valor's presentation went on, it wasn't something she would answer. Not willingly. If he wanted to hear the truth, it would need to be forced out from her, or earned through repeated acts of companionship and sympathy.
+
+When Valor finally finished and the illusion faded, Veronica studied the ancient Pathbearer with a burgeoning respect of her own. "I must offer my deepest apologies, Legend Thann. I thought you were here to intrude, but instead you've provided us service worth centuries of intelligence."
+
+"Not you," Valor rebuffed. "I am only here to give aid to my disciple and protect what is mine. Our alliance remains nominal, like the one that died between the North and South. Do not imagine yourself capable of bribing me. There is nothing you have, Veronica, that I both want and cannot take for my own. No, this is a moment of convenience between us. A common goal. I'm simply assisting you so that this houndhunt can prove fruitful and final. But I have need of you as well—or at least of the intelligence and resources your empire provides. Though I am capable of trespassing into the territory of the Shattered Moon, I must admit that I am not without limitation. I cannot reach and steal information from hostile minds without straining my skill to the extreme. I can serve as your stalker and hunter, but you must be my intellect, my processor. For without either of us, I do not think we will be able to find which dimensional prison holds the Tarrasque within the requisite time."
+
+"And there are several?" Veronica asked in confirmation.
+
+"Logically," Valor confirmed. "A dimensional cage meant to entrap something as powerful as a Tarrasque demands an immense quantity of mana, enough to sustain an entire city, possibly even a great city. But such a cage demands more than mana. It demands the maintenance of countless layered dimensions to stop the Tarrasque from teleporting out, to resist and endure its magical nullification. And so, to prevent an outside, or in the extremely unlikely case, an inner enemy from breaching the right prison and bringing destruction to the Northlands under the Shattered Court, separate prisons become a condition of necessity."
+
+"And since the Pale is the only one that truly needs to know, it can deliver bursts of misinformation to select Prophetesses to counter us," Stormhalt muttered. His interjection into the conversation both surprised and disappointed Shiv. Such was a reminder of how versed Stormhalt was in matters of war, how his intellect was more than capable, but how he betrayed that because of his emotional weakness.
+
+Echoes of the Vicar linger in all people, Shiv judged. It’s just godsdamned sad by now.
+
+"Correct." Valor’s affirmation was immediate and indifferent. "And so I would like to trade my understanding for a measure of yours. If you can help me come to a solution as to which dimensional prison we are to infiltrate, then this partnership between us can be bridged to become one of mutual benefit."
+
+"You doubt our worth," Maiden said, her tone cool and impassive, like a researcher contemplating a disproven theory.
+
+"I’m asking you to make me believe," Valor replied diplomatically.
+
+But instead of the Ascendants, it was Shiv that found himself inspired. "Wait, I think we have another way to get this knowledge: Gate Piety has a bunch of different factions mingling inside it. One of them’s New Albion. It's there thanks to Five."
+
+"Ah, the birds of the Faceless Queen," Kathereine spat with derision. "You cannot be this much a fool, oh blood of my… despised foe," the Songbringer said, an almost imperceptible lag in the middle of her words, likely Veronica preventing her grandmother from letting Shiv's relation to them slip openly. "They will play their own game. They will deceive and use you to their end and see you given nothing."
+
+"That’s why we don’t just rely on them. Also, I’m not planning to be the one that makes the request." Shiv leaned against the back of his chair—which promptly snapped in half from his weight. He caught himself before he tumbled to the floor and continued playing it cool. "We got a Penitent, you see. And just maybe, if it asks these little birds for a favor, and you cross-reference with your own information, we can get somewhere a lot faster."
+
+A shared glow of approval radiated from both Veronica and Valor’s cores.
+
+"Ah. I was too quick to judge." The Songbringer hummed in contemplation. "Yes. A degree of separation is most beneficial here as well. But in the meantime, since Legend Thann has the means, we should continue gathering insights through infiltration; in the time we do have until the scheduled transference of the Tarrasque, we might yet gain the knowledge we need."
+
+"I concur," Valor said. "But I do not think I will do this alone." His glowing, green eyes settled upon Shiv. "I think it is time that we continue with your training in the quiet ways."
+
+"Legend Valor, I must protest this," Harlock said, uneasy—and unexpectedly reverent toward his superior in the unseen art. "The Deathless is potent in many ways, but—"
+
+"Shiv," Valor cut the god off. "Show them."
+
+The Deathless went backstage. He'd prepared to immediately return, but before he did, he caught sight of the girl who didn't exist and the Red Rider’s Hand playing chess with pieces of hovering rubble in the corner of his eye.
+
+"Fuck you!" the girl snapped under her breath. "This is bullshit!"
+
+The glowing right hand of war gave her a sarcastic thumbs-up, and she slapped it aside with a hiss of annoyance.
+
+"Not trying to kill her anymore?" Shiv asked the hand.
+
+It wiggled sideways, as if to say: Eh, we’ll see.
+
+The girl turned and fixed Shiv with a deadpan stare. "Turns out, you can’t die if you don’t exist. Another win for me."
+
+"Well, at least you can play chess, right?"
+
+"Felling no," she complained. "I haven’t won once."
+
+Shiv nodded. "I see. Well, win, or I’ll make fun of you."
+
+The Rider’s Hand gave him a thumbs-up, but the girl froze.
+
+"Wait, you are speaking to—"
+
+"Yes," Shiv answered, before hopping back across the vitality threshold.
+
+"Shiv, you motherfuc—"
+
+As he crossed back into existence, everyone in the room jolted back in alarm, and Harlock let out an uncharacteristic gasp as the darkness retreated. The awkwardness grew worse as Anthony strode out from a corner just at that moment, almost tripping as the shape of his god reeled back. "What happened? What did I miss?"
+
+"Do you understand?" Valor asked.
+
+"How…" Harlock breathed.
+
+Shiv couldn’t help but join Valor. "What do you mean? Just hide better. You’re the God of Stealth or something. You can figure it out."
+
+Comedy 34 > 36

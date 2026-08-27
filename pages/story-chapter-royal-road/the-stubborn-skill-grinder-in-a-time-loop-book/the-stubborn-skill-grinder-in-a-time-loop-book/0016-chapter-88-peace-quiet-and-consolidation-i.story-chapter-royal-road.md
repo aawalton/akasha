@@ -1,0 +1,479 @@
+---
+id: 1934f41f-b64f-57dd-8e2f-d499fb0a61c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88 - Peace, Quiet & Consolidation I"
+slug: 0016-chapter-88-peace-quiet-and-consolidation-i
+partOf: the-stubborn-skill-grinder-in-a-time-loop-book
+position: 16
+ownLength: 8236
+unit: words
+ownProgress: 8236
+publishedAt: 2025-05-14
+link: "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2277622/chapter-88-peace-quiet-consolidation-i"
+royalRoadId: "2277622"
+markedReadAt: "2026-06-29T20:04:35.113Z"
+---
+
+The new loop had just started, yet Orodan’s rage and grief ran hot from the last one. Unlike most, his mental scars and wounds carried over just fine, and they were still raw from the loss of Fenton.
+
+Yet, despite that, the sudden and almost intrusive sensation of others affecting his skills cut through any feelings of grief and sorrow.
+
+Interlopers.
+
+Not physically present, they likely didn’t even know where he was yet, nor he they. But their attempts to commandeer his Domain of Perfect Cleaning were immediately apparent.
+
+It wasn’t as though someone was directly trying to wrest control of the domain from him. Rather, the very insights and comprehensions that he had were being tested, held under close scrutiny.
+
+He closed his eyes and simply felt.
+
+It was as though he was in a grand and metaphysical debate hall which he couldn’t see, but only feel. And within, multiple beings who considered cleaning, purity and harmony their bread and butter were now suddenly offended at his unannounced intrusion.
+
+The very fabric of reality trembled as a battle unseen to the naked eye occurred, and the concept of cleaning was warred over.
+
+If this was how every loop was to start from now on…
+
+…then Orodan could only smile. For him, it was free training.
+
+And it was time to teach these brash interlopers some manners.
+
+Time to show them that no other talent in the universe came close to his own with cleaning.
+
+The first to challenge him was a brilliant, utterly blinding white slime. Whether that was the creature’s true form or a metaphysical representation in this strange sensation dependent concept-scape they were within, who knew? Orodan wasn’t watching with his eyes, only feeling, and the sensation he got from this being was that it was an amorphous thing. Everywhere its form flowed, the very particles were cleansed. It was at the Embodiment-level of purity, and its insights and talents were threatened by the intrusion of Orodan.
+
+Almost immediately, he casually slapped its pitiful comprehensions aside. It mistakenly believed that purity involved the purging of all which was undesirable, yet this was done by the standards of its own dogmatic perspective. Orodan’s counter-argument, that cleaning was as much about the natural order sometimes as it was about purity, swiftly put it on the backfoot.
+
+The other Embodiers in this metaphysical landscape were now on-edge with just how quickly and casually he had dismantled the slime. Talking didn’t seem to be possible here, but the feelings of alarm and wariness were almost palpable.
+
+As was Orodan’s defiant and brash challenge for the next one to come up.
+
+A bipedal goat-woman, some sort of humanoid animal being, was the next to step forth. Entire worlds came alive around her, ecosystems which were natural, biomes with life and diversity within.
+
+She was far stronger than a majority of the others, and her concept of harmony seemed quite resolute as she understood the importance of the natural order, and that purity didn’t simply mean purging everything till all that remained was a sorry sight of sterility and lifelessness.
+
+Orodan and her metaphysically clashed comprehensions and insights for a few seconds…
+
+…until she too was forced to become wary as his insights overpowered her own.
+
+Harmony in nature was nice, but if one wanted true order then the simple existence of life wasn’t the only thing required. Each individual thing had goals, aspirations. The lowly cockroach sought to find food, shelter and propagate its species. The trees desired water, sunlight and nutrients from the soil in order to grow taller and stronger. And even the minuscule forms of life unseen to the average naked eye naturally tended towards a certain state.
+
+Harmony then, wasn’t merely about preserving the natural order, but about improving it. Harmony could not be achieved unless everything thrived. Something easier said than done, she challenged. For how could bacteria responsible for decay thrive while other things lived?
+
+[Domain of Perfect Cleaning 155 → Domain of Perfect Cleaning 160]
+
+Yet a simple flex of Orodan’s Domain of Perfect Cleaning in tandem with Reality Alteration created the bizarre scene of plants, bacteria, insects and more; all thriving within an empowered and seemingly impossible ecosystem. Indeed, such an odd sight shouldn’t have been possible in the real world. Yet Orodan’s will pressing down onto his Celestial skill had brute forced the matter, and his talent had ensured it held stably. It was such an impossible thing, to find the one configuration of life among billions of combinations, where everything was utterly thriving yet nothing was stifled by the growth of any other.
+
+It was an awe-inspiring feat of skill and spoke well of his insights. The goat-woman frightfully stepped backwards as well.
+
+These ‘debates’ weren’t battles of raw power, but insights, comprehensions and talent. In fact, the recent Embodier he’d bested in ‘debate’ didn’t seem like she was a fighter of any sort. And there were many Embodiment-level beings who might have crushed him in battle that were anxiously hanging back as this battleground didn’t suit them at all, yet they were fearful of losing power to him.
+
+Naturally, there was only one more being left who dared to challenge him.
+
+The Arch-Devil’s representation in the metaphysical realm of insights was that of a blazing wall of fire, with a fiery orb of black and white at the center. The wall of flame to the orb’s left was blazing white, while the wall to the right of the orb was composed of ominously dark tongues of fire. He only recognized that this was the Administrator based off of the familiar feeling of its power which Orodan had faced in the past.
+
+It lent further proof to Orodan’s assumption that nobody in this metaphysical mindscape was visible in their regular physical form. The slime’s concept was related to spreading its purity through purging, hence it looked as it had. The goat-woman spread life and natural ecosystems as she was related to purity through harmony, and the Custodian represented balance with its purity. He wondered how his representation looked, but there was no way of asking questions or speaking here.
+
+Only actions and ‘debates’ with their skills.
+
+And instead of waiting for it to come his way, Orodan decided to slam his Domain right into the Administrator’s aura of purity and balance.
+
+The Custodian was more than a little alarmed, was the feeling Orodan got. It was one of the strongest beings in all System space. It was possibly the second mightiest of the Administrators, just behind the Warrior, yet its cold logic and plans made it a far worse enemy in many aspects.
+
+It must have been exceedingly surprised, at having anything at all challenge it for the first time in countless years.
+
+But the outcome was a foregone conclusion. Orodan had had this duel once before, and the victor had been apparent even then, let alone now when he was even stronger.
+
+The Custodian represented balance. For so long had it tried to act as the balancing agent for the System, the Boundless One, the inhabitants of their corner of reality.
+
+But what was balance?
+
+Balance spoke of a need to give and take, of problems which required concessions. One for the other, or the other for the one.
+
+Yet Orodan asked a simple question, not in words but with his Domain.
+
+Why require balance at all? What if the scarcity which necessitated balance itself ceased to exist?
+
+Even Orodan didn’t have the complete answer to this question yet, but what he did have… was a better shot of answering the question than the Custodian. Their insights and experiences clashed once, then twice. And on the third clash where Orodan recalled all the slavish cleaning he had to do just to earn his keep in the orphanage, the Administrator quailed as it realized even it was no match.
+
+His senses took in every Embodier around him.
+
+They were all at his mercy. He had proven himself the better of them all!
+
+If he so wanted, right now, he could greedily absorb their insights and add to his own, thereby empowering him. And to that thought, and for this situation overall, Orodan had only one word…
+
+“Pathetic.”
+
+The words were spoken in the real world as he opened his eyes and returned to the familiar hovel at 13 Briar Court in Ogdenborough.
+
+Not only did Orodan refuse to steal anyone else’s insights, but it felt incredibly weak and short-sighted. Rather, he made a careful note of all the concepts he’d encountered and made a singular vow.
+
+On his own, he would come up with insights and comprehensions for each one. He would carve his own path to the pinnacle of cleaning, and would borrow the power of none other to do it.
+
+“Your mind went somewhere else,” Zaessythra remarked. So she hadn’t been privy to any of that then?
+
+“A brief moment to remind those who would stand against me of the threat I pose,” Orodan replied. “And earning the ire of plenty of them I’m sure.”
+
+Orodan had technically won the ‘debate’ in that strange Embodiment space for those related to the concept of cleaning. Right now, it was obvious to all of them that he was the single greatest Embodiment of Cleaning that the universe had ever seen. He’d challenged and beaten two of the most talented, and they’d not stood a chance. Therefore, even if he hadn’t taken any of their powers, the sheer threat he posed meant that many of those Embodiers were likely preparing to make their respective moves on him.
+
+Whether that was killing him or attempting to forge an alliance, remained to be seen.
+
+But for now, he had things to do. Chief among them was the consolidation of his power and studying the text on true soul genesis which the previous looper had given him. Orodan had acquired power, a lot of it. And in a short amount of time. For now, he needed a few short loops of two weeks apiece where he simply worked on some skills and figured out his next steps to bringing Zaessythra back.
+
+The impending fight at the end of the two weeks promised plenty of fun and excitement too.
+
+And of course, this new Elemental Living Enchantment skill of his needed to be explored further. And perhaps he could even learn the actual Body Enchanting skill from Bluefire now and try to work it all together in tandem.
+
+But mainly… it was time to see just what differences Domain of Perfect Cleaning had at the Embodiment-level. Especially since Orodan now felt familiar with it in a way he never had before.
+
+The distant echoes of the departing harpies overhead still carried lightly upon the wind.
+
+Those things were awfully annoying, weren’t they?
+
+And Orodan did recall vowing once upon a time to eradicate them all.
+
+He stepped out of his hovel and made for the perimeter of Ogdenborough, ignoring the singular perimeter patrol of the militia he passed along the way as he strode into the wilds south of town.
+
+Orodan was probably more familiar with how harpies sounded than anyone else on Alastaia. He started every loop hearing the damned menaces after all and he’d been looping for many years now.
+
+Even if his power was beyond anything else on his home world, he wasn’t above having a certain level of disdain for these foul pests. Especially since the fell cry of these feathery fiends was something he negatively associated with the loss of people he’d grown close to over the course of a long loop.
+
+Harpies themselves were more pest than actual monster. Flying monsters in general needed to remain light for the sake of aerodynamics while flying, at the early levels before they learned magical skills at least. And taking away the advantage of opposable thumbs and acquiring an avian’s fragile bone structure made them poor combatants in a direct fight.
+
+Whichever dark experiment had fused human and bird, Orodan didn’t know. But much like spider dragons, harpies were the remnant of a bygone era where experimentation and attempts to create new and stronger species were more commonplace. Not that the attempt had succeeded with these irritating birds.
+
+Harpies could hit hard, but were fragile. And the bipedal civilized races were too bony, dangerous and not possessed of enough meat to be worthwhile prey. Thus, for these birds, direct combat was something they were averse to, instead favouring ambush hunting.
+
+Naturally, they avoided the more well-developed towns which had an air watch capable of shooting down aerial targets. And they also avoided Mount Castarian given how well-defended it was with the ancient machine beneath it.
+
+Of course, Ogdenborough had no such things and the pests loved flying over it while wailing at the top of their lungs for some reason. And while this meant quite a few sleepless nights for him, it also allowed him to closely track their flight path through the air via closely scrutinizing the minuscule particles shed from their feathers and the trail of disturbed air currents. Something which would have ordinarily been impossible or only doable with high skill levels for a regular tracker was easily handled with Vision of Purity.
+
+And as Orodan walked out of town, he felt the Domain of Perfect Cleaning wanting to be let loose. To clean.
+
+It was only once he left the bounds of Ogdenborough well behind in the dead of night that he allowed it to run free.
+
+Like a muscle that was begging for use, overflowing with energy, his Celestial skill began to passively cleanse everything around him with no expenditure of energy on his part. Around him, the surrounding hundred metres of forest began rapidly changing, almost glowing.
+
+The grass underfoot began thriving and practically glowing as its impurities were cleansed and it was guided down the correct path of optimal growth. The worms and insects in the ground began growing in size and evolving as the filth within their bodies was removed and even their very minds were improved. The air became cleaner, the world energy in the earth denser, the ambient mana in the air purer and everything all around better.
+
+Orodan immediately retracted the passive aura back into himself before he could do any further damage.
+
+“Well… creating a national resource over the span of a single second is somewhat impressive I admit,” Zaessythra praised.
+
+Orodan though, could only shake his head in annoyance. He had felt clearly that the very concept of Cleaning seemed to radiate off of him, as though he was it. To him however, it was a useless ability, and one best left in check lest he cause unintended consequences. A passive aura of cleaning which extended a hundred metres, while impressive to Adepts and Elites perhaps, was a drop of water in the ocean for Orodan who could cleanse the entire divine dimension with concerted effort.
+
+And he wasn’t entirely comfortable with the idea of cleaning someone’s mind without meaning to.
+
+The aura was both a part of him and also not a part of him. It was the very manifestation of the concept of cleaning clinging to him and then expanding outwards. As though the concept itself wanted to be around him.
+
+Even still, keeping it active and letting it passively clean, while useful, wasn’t good training. Orodan much preferred to manually clean. The basics were the best method of attaining true mastery after all.
+
+Still, it wasn’t an entire loss. And Domain of Perfect Cleaning, despite this strange reality-warping passive aura he now had, was still his skill and could never do anything he didn’t want it to do. Altering the passive effects to not manipulate minds was simple enough.
+
+The hundred metre patch surrounding him was more than a bit of an eyecatcher however. Glowing grass, resplendent trees with sparkling leaves and marble-like precious wood. On the ground were insects and small animals of such abundant life and quality that their bodies could be used to create Grandmaster-level potions and food. And finally, the air was so utterly clean yet contained in a strange boundary that it would remain indefinitely like this and could be extracted for use in creating artifacts and gear especially useful to wind mages.
+
+What a headache. The Republic and the noble houses within it would almost certainly joust and butt heads over the ownership of this previously shoddy patch of land. It was a mere hundred metres of territory, yet it was now of a value greater than that of an energy well.
+
+In fact, just like with energy wells, monsters would doubtlessly want to begin settling here too.
+
+Thankfully he wasn’t too close to Ogdenborough, and hopefully one of the noble houses eventually secured the area. As it stood, this place had now become a strategic resource of national significance.
+
+In any case, Orodan continued on, suppressing the aura until he neared the harpies’ lair.
+
+It was a gnarled tree in the midst of a clearing surrounded by wooden thicket. The creatures weren’t entirely stupid, it would be extremely difficult to find this place. Plus, the presence of wolves, bears and other strong creatures would dissuade any idle exploration by foragers and ill-prepared hunters.
+
+No wonder these stupid harpies had gone unexterminated for so long.
+
+But that changed today.
+
+It came as no surprise that the dumb birds had felt the creation of the hundred metre patch of land.
+
+The wind stirred as the hybrid monsters took to the air in the direction he approached from. Not to make for him, but to find the area of dense energy he’d left behind. Fluttering wings, an eerily human-like face and yet none of the characteristic intelligence of humanity. Whichever dark sorceror had tried mixing human and bird had failed miserably with these stupid things.
+
+And today, Orodan would settle a grudge he’d long since held in his heart.
+
+Vision of Purity told him that there were at least a hundred Apprentice and Adept-level harpies among the thick branches and leaf-laden boughs of the gnarled tree, and with a singular cast of his Celestial skill, directed entirely towards the purpose…
+
+…Orodan wiped them all from existence.
+
+He couldn’t have done this before. Eliminating something or someone from existence entirely had been too difficult a task in the past. But now, at the Embodiment-level, Orodan understood that beings, just like filth, were things that could be cleansed just like anything else.
+
+The harpies were gone, but that didn’t feel right. In fact…
+
+…a brief look at the tapestry of fate and a quick glimpse down the river of time greatly shocked him.
+
+They weren’t just dead or even gone. It was as though they’d never existed in the first place.
+
+Orodan could only stare at his hands, still glowing with the power of Domain of Perfect Cleaning.
+
+Dangerous.
+
+That was the only word which came to mind.
+
+And remaining in this now quiet forest wouldn’t do his mind any favours.
+
+And now, with the peace and quiet of the vanished harpies. Perhaps it was time to consolidate his power and clear his head.
+
+Good thing he knew exactly where to find a certain first mentor of his.
+
+#
+
+Velestok was as Orodan remembered. A relatively cozy-looking town, not quite as large as Trumbetton which was at the center of the county, but either the second or third largest bastion of civilization in Volarbury county otherwise. More importantly, it was under the protection of House Simarji, whose Grandmaster kept the town safe from any would-be threats.
+
+Of course, Adeltaj Simarji, the Grandmaster of the house and the strongest resident of Velestok, didn’t look as though he was in any shape to be defending anything.
+
+The aftermath of a thorough training session in which Orodan had proven his strength and given Adeltaj sufficient instruction in the ways of the halberd and combat. The old man’s hands still trembled as he lifted the cup of tea for a sip.
+
+Orodan quirked an eyebrow at the sight.
+
+“I could just heal you…” he muttered.
+
+“No, that will not be necessary. The pain helps keep me grounded and is a good reminder to remain humble,” Adeltaj refused. “It certainly verifies that I am awake and not dreaming the absurd things I’ve just heard.”
+
+“Long ago those words might have slightly irked me, but now I can’t even dispute them. The words rang absurd, even to my own ears as I recounted the story,” Orodan agreed. “A zero-sum game at the Embodiment-level, what a strange battleground I’ve walked into. Perhaps I should be filled with more sorrow at how things ended in the last loop, but with everything now laid before me…”
+
+“You feel you do not even have time to grieve?” Adeltaj asked and Orodan nodded. “I suppose I know that feeling myself.”
+
+“Never have I been the sort to bemoan my fate, to aimlessly dwell on what I’ve lost,” Orodan continued. “One battle after the next, that is simply my destiny, one I have chosen for myself. Yet this naturally leaves little time to process the loss of someone I considered close. Fenton… I might not have known him for long, but he was a dependable lad with a kind heart… a good man.”
+
+“A man?” Adeltaj asked.
+
+“Aye, a man. Even before my arrival he tirelessly worked, day in and day out, to provide for his ailing mother. What else can you call someone like that?” Orodan asked. His face took on a somber set. “Even still, as his teacher I failed him. He should not have had to die in order for me to prevail. I was not strong enough.”
+
+“You are too hard on yourself. Sad it may be, but as a warrior yourself you know better than any other that one’s path is their own. From what you tell me of this brave young man, he was a hero who chose to put himself in harm’s way to help you, sacrificing his own life in the process,” Adeltaj consoled. “Which, as you say was what I did as well. If this mad time loop story of yours is true. Which, you seem to believe at least, from what my lie detection skill tells me.”
+
+“Indeed, who better to talk to about idiots throwing their lives away than a man who has a natural penchant for the same thing?” Orodan asked with a smirk. “There will be no need of such heroics this loop. I’ll be leaving Alastaia behind before any danger can befall it.”
+
+“Your sense of responsibility is a credit to you. I am much the same,” Adeltaj said with a smile.
+
+“A little too much responsibility in your case. Then again, I suppose you felt obligated to stand in the way of something that would have slain your student, even if you knew then that I was a time looper,” Orodan replied. “Now, while this conversation has given me some clarity, I did not come here just to mope after sparring with you, old man.”
+
+An orb was produced. Something Orodan had carefully studied on the way back from dispatching the foul harpies of Ogdenborough.
+
+“An intricate device… the maker of this must be quite talented for I have never seen such complex enchantments before,” the old Simarji praised.
+
+“This was his dying invention. Something to transfer memories to someone across the time loops. And while his own memories fill the first slot… there are eleven more here that seem to do the same thing,” Orodan explained. And while he fully intended to learn the mechanics behind this device in time, that he might be free from any dependence upon it, for now this was a powerful tool.
+
+“Old man… I’ve told you my story, how my student died and what he handed me before he did.”
+
+“Then this… is what he handed you?” Adeltaj asked and Orodan nodded. “And you want for me to transfer my memories across the loops?”
+
+“They’ll only transfer once I have the orb make contact with you,” Orodan explained. “Otherwise, each loop you’ll go around thinking nothing’s changed and remain none the wiser. But once this makes contact…”
+
+“I will remember then, won’t I? I understand why you’ve come to ask permission before doing this. Many would not want to remember, to know that they’re caught in a time loop not even centred around themselves,” Adeltaj correctly surmised. “But why me? You’ve recounted your tale, and I have seen a glimpse of your power. As much as it wounds my warrior’s pride to admit… you weren’t taking me seriously in the slightest. What could I offer to one such as you?”
+
+“If the Adeltaj Simarji of my early loops had thought that way, then Orodan Wainwright would not be here. One of the most important abilities in my arsenal, I only acquired during training with you,” he explained. “You were and are my first mentor. Do not think lowly of yourself and the wisdom you possess.”
+
+“I am only seven-hundred years old. Compared to you…”
+
+“You would still be old, as the time I spent descending unto the depths of madness wasn’t the same as lived years of experience. And mainly… it would be nice to skip past this lengthy conversation each time, though I’ll be continuing the spar,” Orodan said with a smirk.
+
+“My old bones won’t be thanking you for that, but I suppose regular sparring can only be a good thing,” Adeltaj said. “But you still have not gotten to the part where I somehow help you. I don’t doubt the Adeltaj Simarji of your early loops was a mentor to you, a young man with drive and honor would be a wonderful student to have. But now? It would be more fitting that you teach me.”
+
+“If that is what you want, certainly. But the best teachers are often students themselves, and learning will never end for me,” Orodan countered. “And what I often lack at the start of each loop… are connections.”
+
+“Connections? You?” the old man asked, bewildered. “What need have you of connections when you can supposedly shatter Alastaia itself?”
+
+“If I was a selfish man who cared not about the fate of his home world, that might be the right answer. Unfortunately, I am not, and not only am I invested in honing my personal strength for the battles to come, but also that of my world and its peoples,” Orodan answered. “To that end, connections will count for much. How do you expect me to get into Bluefire Academy otherwise?”
+
+The old man’s mouth hung open for a brief moment.
+
+“Did you really say all this just so you could have my house sponsor you for entry into Bluefire? What will anyone at that academy teach you? Who will believe you’re a student?” Adeltaj Simarji asked, rubbing his forehead out of stress. The old man then had a look of understanding on his face. And Orodan didn’t like that look at all. “Unless… you weren’t sponsored as a student.”
+
+“While I don’t mind teaching, doing it so soon off of what occurred recently would be… undesirable.”
+
+“An instructor? You would fail most background checks and the necessary gamut of security scans of your mind and soul that the Republic and its authorities would insist upon before you were allowed anywhere near the nation’s next generation of talent,” Adeltaj explained. “And don’t think about asking to serve my house either, that will draw far too much attention to the Simarjis and still won’t get you into Bluefire easily. Not without some questions asked.”
+
+“Then… how? I’ve been a student before, I can lay low,” Orodan said. In response, the old man simply gestured towards the utterly devastated woods in the distance. “I can also just reverse time to restore that.”
+
+“And have the Time Wind dragon flight and all the Grandmaster chronomancers of the Republic and Novarria come by wondering who is capable of that? I have a much simpler solution,” Adeltaj suggested, and Orodan got the feeling he wasn’t going to like what he heard. “The Republic of Aden is always in search of powerful individuals to add to our ranks. In particular, if you’re powerful enough and can contribute… then background checks become somewhat irrelevant in the face of what you can bring to the table. Orodan Wainwright… how would you like to become a noble?”
+
+Zaessythra’s mad laughter cackled in his head as he could only be struck speechless. And after regaining his faculties, he replied most sensibly.
+
+“Absolutely not.”
+
+#
+
+In hindsight, Orodan hadn’t counted on Adeltaj being so persuasive about the matter. What ‘absolutely not’ really meant, was that he almost certainly would not… unless a whole suite of conditions, boundaries and agreements were met.
+
+And once Adeltaj had finished reassuring him that none of what he feared would come to pass and then drew out a plan of approach, it wasn’t the worst thing to agree to. Especially when he really needed an outlet that didn’t involve mindless slaughter in order to center his mind.
+
+For starters, he refused to engage in any stupid noble ceremonies. Adeltaj would handle most of the talking, and as long as Orodan rendered an exceptional service and proved his power and usefulness to the Republic, him becoming a noble was all but a mere formality.
+
+It went to show the difference in how manipulative Agathor was. While Orodan didn’t care for nobility and detested the idea of becoming noble, not once in his early loops had Agathor or Arvayne Firesword brought up the idea of granting him nobility. No, that would have granted him far too much independence and not suited their plans at all back then.
+
+Still, here he was, a city before him.
+
+The more things changed, the more they stayed the same.
+
+No matter how strong Orodan had become, Alastaia would remain his home world, the Republic of Aden his nation and Karilsgard the capital of it. He had seen the city in various states of alarm, had participated in besieging it, and had even seen it and Alastaia itself destroyed once. Yet approaching the gates of the Republic’s capital city always evoked a feeling of nostalgia within him.
+
+He had learned a lot, but all his travels across the cosmos had only reinforced the fact that knowledge could be found in the humblest of places. And while Karilsgard and the academy it housed weren’t the jewels of knowledge that Novar’s Peak and Eldiron contained, let alone the other more advanced worlds of the cosmos, they were… familiar.
+
+And sometimes familiarity, basic knowledge and practice were what one needed.
+
+Of course, as always, the odd nature of his Status drew attention. He had three titles active, one related to Wainwrighting and the other two for Weaving and Alchemy. But given the sword, shield and uniform of the county militia he wore, there was no way anyone was buying it. Akin to a masked traveler garbed entirely in form-covering black attempting to enter a fort, so too was he quite conspicuous when entering a city with that combination of titles and get-up.
+
+A familiar swordsman of the Capital guard approached him, a corporal, if Orodan recalled correctly.
+
+“Militia man, might you hold that we may speak a moment?” the corporal asked, and then his eyes landed upon Adeltaj Simarji to Orodan’s side, and the man’s demeanor changed entirely. “L-lord Simarji? Our apologies sir, is he with you? We did not know, please carry right on.”
+
+Orodan and Adeltaj walked past the gate with nary a word of complaint from anyone else. It illustrated the power of having connections. If he’d come by himself, and he had before, then the corporal would have stopped him, inquired about his business in the capital and Silestor Lumenarin in the Cathedral would likely have been informed. But now with Adeltaj by his side, such things needn’t be a roadblock to acquiring proper knowledge.
+
+“Where are we headed?” Orodan asked. “The High Spire where the council sits?”
+
+“Close but not quite,” the old man said as they walked. “Naturally, when I sent word to them that I had a prospective candidate for addition to the Republic’s forces, they wanted to see your capabilities for themselves at Bluefire, which just so happens to be where you’re headed anyhow, no?”
+
+“Don’t tell me they want to test my combat capabilities. I have little patience for holding back and playing games at this time,” Orodan warned. A mournful wrath yet simmered in the back of his mind. If pushed the wrong way, Orodan was sure to smash in the face of anyone who provoked it. Particularly if they were affiliated with the tyrant three. “I came here to display my enchanting abilities and see for myself how this new skill of mine can be applied.”
+
+“And you will, there is to be no combat involved and I’ve made sure those coming to assess your worth are in no way affiliated with the Cathedral. Today’s meeting at least, should be of a more productive sort,” Adeltaj promised.
+
+Orodan would believe it when he saw it. Far as he was concerned, becoming involved with the Republic’s council and national politics in general was a recipe for creating a mess.
+
+The two of them traversed the streets until the towering singular tower of Bluefire Academy, with its symbolic sapphire flame, was visible. From there, a simple trip into the tower and a brief pass through the teleporters brought them into a specific chamber. None of the guards dared to stop Adeltaj Simarji, and as his accompanying guest that extended to Orodan as well.
+
+Orodan’s spatiomancy was at a level where he knew what was on the other side of the teleporter before he even stepped through. Two women and one man. Two of them were familiar to him, the other was not.
+
+“Ilevida, it is good to see you well,” Adeltaj greeted. “You too Yallista. And I see we have the prodigious Gormir Eltros with us as well?”
+
+Ilevida Balmento, headmistress of the school of psionics at Bluefire, and Yallista Arthurius, headmistress of the chronomancy school. The other man was Gormir Eltros then? Orodan had never made his acquaintance before but had certainly heard much about him.
+
+“Yallista has been getting rather antsy Adeltaj. Such a large swathe of the Aenechean Forest utterly destroyed? The Council wanted to see who you had brought along themselves until your communication mentioned that it was an improvement granted to you by this man,” Ilevida said and then eyed Orodan up and down. “You are… an enchanter? Not built like one are you?”
+
+“Physical training doesn’t preclude one from enchanting does it? The sturdier the body, the more mana it can safely channel and the better the caster performs in general,” Orodan replied.
+
+“The Republic’s military might would only increase if more young mages took that advice seriously,” Yallista Arthurius agreed. “But we haven’t come to discuss the training regimen of pur nation’s mages now have we Mister Wainwright? I profess, I have never seen the Wainwrighting Apprentice title before, although Weaving and Alchemy are odd titles to display for one who claims to be an enchanter.”
+
+“While some mysterious remark about how it’s good to keep one’s cards hidden might seem the obvious response, in truth I’d simply forgotten to change my Status,” Orodan said, adding the Enchanting Master title to his Status casually so that any who used Observe could see. “Will that suffice?”
+
+“Somehow, I do not think you’re merely at the Master-level,” Ilevida said, her eyes narrowing and then shaking her head. “No matter. Keeping watch for threats to national security is no task of mine.”
+
+“Indeed, we’ve come to witness this new method of enchanting you claim to possess. Allegedly your usage of this skill allowed elder Adeltaj Simarji to level a massive swathe of forest far beyond his typical capabilities,” Gormir Eltros spoke. “Apologies if I did not introduce myself. Gormir Eltros, a Master-level enchanter much like yourself. Here to evaluate your talents, though… with us both being the same level that’s more than a little awkward.”
+
+On Alastaia, civilization was young and the Republic of Aden being a breakaway nation from Novarria was younger still. Consequently, Not every nation had an associated Grandmaster for every skill. In the Republic of Aden, the best enchanter around was Gormir Eltros and two other Master-level enchanters typically agreed to not be near the man’s calibre. He was a famed body enchanter but not yet a Grandmaster, though close, from the whispers Orodan had heard.
+
+Orodan could at least appreciate that the man wasn’t acting arrogant or feeling threatened by this test, which if successful, would elevate Orodan’s social status to being on par with, or possibly greater than his own.
+
+“Well then we’re both in for a treat because it will be my first time seeing how this works too.”
+
+Gormir frowned at his words.
+
+“Pardon? Are you saying you’ve never tried this Elemental Living Enchantment yourself? Are you… sure this is safe then?”
+
+“Perfectly,” Orodan assured. “Not only will I not use any more power than would be necessary to destroy this tower, but I’m also more than fast enough to react and prevent any mishaps from getting out of hand.”
+
+That didn’t exactly leave the Master-level enchanter feeling any safer. After all, being a non-combatant and a mere Master at that meant that Gormir Eltros’s capacity to take damage was far lesser than an equivalent combat specialist Master. Ilevida and Yallista were slightly on-guard too, as Orodan’s words had essentially revealed that he was a combat specialist himself, even if they’d suspected it already.
+
+“All of you are far too tense,” Adeltaj intervened. “I can vouch for Mister Wainwright’s character. He has nothing but the Republic and our world’s best interests at heart.”
+
+Alastaia’s best interests, certainly. The Republic and some of its crooked inhabitants? Not so much. He wasn’t in any hurry to correct the old man however.
+
+“Let us dispense with business. While this will work with any tool, I can display the effectiveness of this far easier with an existing enchanted weapon. Do you have any here? Preferably one that deals fire damage,” Orodan requested.
+
+Yallista tossed him a simple steel dagger.
+
+“I use it for cooking, sometimes,” she informed.
+
+It was basic enough and the metal was of decent quality too. But the enchantment on it was shoddy, something Orodan immediately noticed thanks to all the time he’d spent around Fenton.
+
+The memory of that put him in a dour mood once more, but he brushed it aside and simply swept the enchantments clean off the knife with a single brush of his fingers and the casual application of his Celestial skill.
+
+“What… what was that?” Gormir Eltros asked. “I could have swore she handed you an enchanted knife… right? Elder, what did you give him?”
+
+Even Yallista was frowning.
+
+“That knife was enchanted just now. How did you remove it without anyone noticing?” she asked.
+
+“Cleaning,” Orodan honestly answered. “But that’s not what I’m here for. This is.”
+
+[Elemental Living Enchantment 12 → Elemental Living Enchantment 13]
+
+The gentle power of a Candleflame filled his hands. Not emanating from it, not held aloft as though it was being cast, but filling his actual hand itself. Unlike his prior uses of the skill during battle, this time it was exceedingly gentle as the flames calmly melded with his cells, his hand and the flames practically coexisting in the same space.
+
+And from there, controlling the fire was easy enough as it flowed down to the knife.
+
+It was odd… Orodan felt that the moment the fires left his hand and transferred to the knife, his control over them should have become more difficult. And yet, all the difficult elemental control training he’d performed with Talricto where he puppeteered his own mana into forming spells, now showed its worth.
+
+His control over the Candleflame was entirely steady, the flames not acting unruly at all. And slowly the fires began to enter the knife, forming a simple but very well-done two-dimensional inscription for extra fire damage. It wasn’t mana that was forming the enchantment. It was…
+
+“Fire…! Actual flame! How can it be?!” Gormir Eltros declared, falling to his knees.
+
+“Gormir, get a hold of yourself and explain what we’re seeing,” Yallista said. “From our perspective it looks as though flames are crawling into my knife and forming an enchantment. Different from the typical blue lines of mana inscription I’m used to.”
+
+“That’s just it elder, those lines, that inscription… it isn’t mana at all. It’s pure flame…” Gormir explained, his tone now subdued and respectful as though he was watching incredible art. “How can an enchantment be woven purely from an element? How does the element not fade?”
+
+“Eventually, like all other mana-based enchantments, it will certainly lose power,” Orodan explained as he finished the work and passed the knife to Gormir. “Though how long it lasts currently depends on my skill, which isn’t even at the Apprentice-level. But otherwise, it fades not… because it is living.”
+
+Indeed, the flames coursing through the knife were not simply static, but animated. The flames maintained their inscription of fire of course, but they pulsed with energy and a mind of their own. In fact, Orodan suspected that if the user of the skill were someone with a weak will or an ill-disciplined temperament, the flames could very well do what they wanted and lose the inscription shape they were maintaining.
+
+“Fascinating, absolutely fascinating,” Gormir Eltros declared, closely examining the knife as though it was his life’s greatest treasure. “I can see it already, this knife can hit at least… two? No, maybe even three tiers higher than it should be capable of.”
+
+“The metal wouldn’t survive such an impact. And even if it somehow did, the enchantment would almost immediately lose power,” Orodan warned. Hells, his own body had barely survived the full power of the skill when he’d finally bested the Prophet. “Though, as a last ditch self-destructive tactic, I suppose I can see the uses of it.”
+
+“Mister Wainwright, please, we’ll make you head of the Council, grant you dominion over Karilsgard itself-”
+
+“Need I remind you, Gormir, that you do not have the authority to grant any of those wild promises?” Yallista chided with an amused tone.
+
+“Hold on Yallista… if Gormir speaks truth… then would an Initiate-level enchantment not be capable of hitting with Elite-level power?” Ilevida asked. “Can you do the same for an Adept-level weapon and make it hit many tiers harder? What about Elite weaponry? Master? Grandmaster?”
+
+In response to her rapid questions, Orodan simply gave a confirming smile.
+
+“Perhaps. But holding a weapon more powerful than yourself can be dangerous, and the stronger the weapon and the elements I imbue, the shorter the time the enchantment and the weapon itself will last for,” he explained. “This dagger, it’s Initiate-level but can perhaps deal an Adept-level attack at the cost of breaking apart. If I were to try imbuing it with Elite-level power, the dagger would fall apart in seconds. At higher tiers of weaponcraft, the power required increases exponentially too.”
+
+Orodan didn’t bother telling them that generating such copious amounts of power was no problem for him though.
+
+Adeltaj simply laughed in response.
+
+“See? Do you think I would waste your time with my communication if it was not impressive?” the old man gloated.
+
+Ilevida and Yallista looked at one another and then came to an understanding.
+
+“The Republic’s council and the burghers of power will want to speak with you,” Yallista said, direct in her tone. “I understand you might not want to meet with them. But with such a powerful ability… it’s almost unavoidable.”
+
+“Then simply tell them to avoid sending anyone affiliated with Agathor, Eximus or Ilyatana my way and we shall have no problems,” Orodan warned.
+
+“And what is it you want exactly?” Ilevida Balmento asked. “Fame? Riches? Power and territory? Gormir might not have the power to grant that, but Yallista and I do to an extent.”
+
+“What I want is quite simple. The Bluefire Academy, I want access to its halls and libraries for study. Specifically anything involving elemental magic,” he stated, and then looked at the man who was still gaping like a fish while looking at the knife. “And Gormir Eltros, I’d like to learn the art of Body Enchanting from him.”
+
+And unlike last time when he’d first attended Bluefire, this time he more than met the minimum qualifications to properly learn the skill.
+
+What would occur if he could blend Elemental Living Enchantment with Body Enchanting and his regular Enchanting?
+
+Thus far he’d used only fire and light, but what if he learned more elements to a requisite level and combined them with this skill?
+
+He wasn’t sure what would occur. But he was looking forward to testing it all out at the end of the two week period where every Embodier in competition with him would come for blood.
+
+“You just… want to learn Enchanting? Why Mister Wainwright?” Yallista asked. “What do you hope to gain from all this?”
+
+It was rather simple was it not?
+
+“Peace and quiet.”
+
+Along with the consolidation of all the power and new skills he had acquired in the last loop. Though how much peace he would get going through the charade of being recognized as a noble, Orodan didn’t know.
+
+Throughout these short two-week loops, he would consolidate his power, test the effects of the orb Fenton gave him, and increase the power of Alastaia and himself overall so that his home world could better resist the forces which came for him, and consequently it.
+
+And at the end of it all… the book he’d received from Almyra which spoke of some interesting things. Such as how true soul genesis was something only a Boundless One was capable of.
+
+An impossible target to meet for anyone else.
+
+But for Orodan Wainwright who had many times now been likened to those beings. Perhaps it wasn’t such an impossible thing.
+
+He briefly opened his Status, looking upon just how far he’d come.
+
+Name: Orodan WainwrightAge: 17Title 1: Wainwrighting ApprenticeTitle 2: Weaving AdeptTitle 3: Alchemy EliteTitle 4: Enchanting Master Available Titles:
+
+Administrator SlayerBearer Of A Celestial SkillWorld ConquerorWorld Gate DelverAvatar SlayerWielder Of A Mythical SkillOne Who Has Experienced DeathEmbodiment SlayerGod SlayerTranscendent SlayerCelestial EmbodierEmbodiment of Perfect CleaningEmbodiment of CleaningSoul TranscendentInfinity TranscendentCombat TranscendentSpace GrandmasterUnarmed Combat GrandmasterPhysical MasterShield MasterSword MasterTime MasterEnchanting MasterWrestling EliteWoodworking EliteDimensionalism EliteTeaching EliteAlchemy EliteBlacksmithing EliteHalberd AdeptPathfinding AdeptFire Magic AdeptLaboring AdeptWeaving AdeptEngineering AdeptGathering ApprenticeCooking ApprenticeConstruction ApprenticeFate ApprenticeWainwrighting ApprenticeStealth Apprentice
+
+Skills:
+
+Domain Of Perfect Cleaning 160 (Embodiment - Celestial)Incipience of Infinity 146 (Transcendent - Celestial)Warrior’s Reciprocity 93 (Master - Mythical)Smite of Abrupt Deliverance 90 (Master - Mythical)Eldritch Resistance 68 (Adept - Mythical)Reality Alteration 60 (Adept - Mythical)Divine Resistance 58 (Adept - Mythical)Dimensional Resistance 27 (Initiate - Mythical)Elemental Living Enchantment 13 (Initiate - Mythical)Absolute Body Composition 10 (Initiate - Mythical)
+
+Harmony of Vitality 100 (Grandmaster - Legendary)Endless Blitz 97 (Master - Legendary)Unassailable Fortress 94 (Master - Legendary)Vision of Purity 90 (Master - Legendary)Bulwark Physical Resistance 88 (Elite - Legendary)Time Reversal 87 (Elite - Legendary)Fate Disconnect 85 (Elite - Legendary)Draconic Fireball 79 (Elite - Legendary)Body Tempering 74 (Elite - Legendary)Wood Communion 68 (Adept - Legendary)Mana Resistance 68 (Adept - Legendary)Commandment of War 54 (Adept - Legendary)Dimensional Step 38 (Initiate - Legendary)Time Mastery 93 (Master - Exquisite)Iron Body 90 (Master - Exquisite)Dimensionalism 89 (Elite - Exquisite)Psionic Resistance 88 (Elite - Exquisite)Fire Resistance 71 (Elite - Exquisite)Draconic Mana Channelling 68 (Adept - Exquisite)Vitality Destruction 61 (Adept - Exquisite)Lightning Resistance 51 (Adept - Exquisite)Ice Resistance 47 (Apprentice - Exquisite)Wind Resistance 41 (Apprentice - Exquisite)Water Resistance 39 (Apprentice - Exquisite)Spatial Shift 27 (Initiate - Exquisite)Light Resistance 26 (Initiate - Exquisite)Curse Resistance 9 (Initiate - Exquisite)
+
+Space Mastery 100 (Grandmaster - Rare)Teleportation 97 (Master - Rare)Acid Resistance 85 (Elite - Rare)Fate Mastery 38 (Apprentice - Rare)Gourmand 26 (Initiate - Rare)Spatial Fold 92 (Master - Uncommon)Shield Intent 80 (Elite - Uncommon)Shield Throw 75 (Elite - Uncommon)Mana Manipulation 66 (Adept - Uncommon)Fate Reading 64 (Adept - Uncommon)Halberd Throw 53 (Adept - Uncommon)Flash Freeze 40 (Apprentice - Uncommon)Light Beam 37 (Apprentice - Uncommon)Wainwrighting 30 (Apprentice - Uncommon)Earthen Construct 29 (Initiate - Uncommon)Gunsmithing 28 (Initiate - Uncommon)Waterstream 26 (Initiate - Uncommon)Lightning Bolt 24 (Initiate - Uncommon)
+
+Combat Mastery 120 (Transcendent)Unarmed Combat Mastery 100 (Grandmaster)Shield Mastery 98 (Master)Physical Fitness 96 (Master)Sword Mastery 96 (Master)Enchanting 91 (Master)Wrestling 88 (Elite)Woodworking 84 (Elite)Teaching 80 (Elite)Tool Mastery 79 (Elite)Blacksmithing 78 (Elite)Alchemy 73 (Elite)Flare 64 (Adept)Fire Magic Mastery 66 (Adept)Weaving 61 (Adept)Pathfinding 58 (Adept)Laboring 57 (Adept)Halberd Mastery 56 (Adept)Jewelcrafting 54 (Adept)Surprise Attack 51 (Adept)Engineering 51 (Adept)Artificing 49 (Apprentice)Cooking 48 (Apprentice)Candleflame 45 (Apprentice)Construction 41 (Apprentice)Sprinting 39 (Apprentice)Gathering 36 (Apprentice)Maintenance 35 (Apprentice)Galewind 33 (Apprentice)Logistics 31 (Apprentice)Stealth 30 (Apprentice)Mining 28 (Initiate)Swimming 27 (Initiate)Smelting 25 (Initiate)Repair 23 (Initiate)Butchering 19 (Initiate)Light Magic Mastery 18 (Initiate)Magical Rituals 18 (Initiate)Recycling 17 (Initiate)Observe 17 (Initiate)Club Mastery 15 (Initiate)Deception 15 (Initiate)Lumberjacking 14 (Initiate)Skinning 13 (Initiate)Parkour 12 (Initiate)Thievery 6 (Initiate)Identify 6 (Initiate)Lightning Magic Mastery 3 (Initiate)
+
+He had come far, certainly far closer to matching his foes than when he’d started all this. But he still had more work to do.
+
+Work which would simply require plenty more stubborn skill grinding in the time loop.

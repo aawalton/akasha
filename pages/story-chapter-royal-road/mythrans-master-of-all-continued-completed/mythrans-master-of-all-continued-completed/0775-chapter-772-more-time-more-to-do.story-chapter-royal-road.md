@@ -1,0 +1,291 @@
+---
+id: 023f46ab-56c2-521f-b6fe-c9fff3122e60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 772 - More Time, More To Do"
+slug: 0775-chapter-772-more-time-more-to-do
+partOf: mythrans-master-of-all-continued-completed
+position: 775
+ownLength: 4159
+unit: words
+publishedAt: 2018-11-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309294/chapter-772-more-time-more-to-do"
+royalRoadId: "309294"
+---
+
+For several hours, Ren made Xuunah a memory so wonderful that she had successfully pushed all of the other memories aside and their bond grew that much stronger. Even though she had seen, and in some cases experienced in dreams, making love to him; the reality was so much better, especially since it was such a taboo thing for her people to wallow in the joy of touching mortals, let alone having sex with them.
+
+Ren let her be for several hours while she thought about and reminisced over everything he had done to her, then he felt her need to do it again grow. He had felt a similar need in Nathalia after she had become pregnant. From those experiences, he knew that Xuunah had to be satisfied as much as possible, or she would have a hard time dealing with her feelings and swirling emotions.
+
+They stayed together for a week, and Ren wasn't surprised when he felt a similar feeling of guilt from her that he had felt from Ereka about monopolizing his time. He didn't try to argue against it like he did with Ereka, and just accepted Xuunah's feelings and gave her a passionate kiss goodbye. He equipped his clothing and walked over to the bedroom door as he deactivated the Vasalor Statue and stored it.
+
+“Ren.” Xuunah said from under the covers, and he turned around to look at her. “Thank you.”
+
+“You don't have to thank me for loving you, Xuunah.” Ren said with deep sincerity and opened the door. “I was selfish and greedy, and I remade the whole world so we could be together.” He said and felt her surprise, then he felt her deep gratitude.
+
+“Dearest.” Xuunah whispered.
+
+“My Angel.” Ren whispered back, then left.
+
+“That was pretty intense.” Teepo said in the voice that only Ren could hear.
+
+Yeah. Ren smiled and opened the door under the stairs to go down into the Marilith Demon's lair.
+
+“I can go a bit longer before seeing you again.” The Marilith Demon said when he entered the main cave.
+
+“I know you can.” Ren said and took out the Vasalor Statue and activated it, then he used the polymorph helm to change into a male version of a Marilith Demon. She froze as his presence matched hers, then she whipped around and lunged at him. Marilith Ren slithered to the side and she barely missed him.
+
+“The same attack? Really?” Marilith Ren hissed a laugh, then ducked as a large rock was thrown at him. “Ha! Like I'd fall for... oofff!” He grunted as he was tackled roughly and they fell to the warm cave floor. He heard several snorts of amusements from the pigs, because he had been caught so easily.
+
+“You are such easy prey, Tainted King of the Beasts.” The Marilith Demon hissed in superiority as she slithered on top of him and held him down.
+
+“That's because I love being caught by you.” Marilith Ren said to her surprise, then his tongue darted out and licked her cheek. “Why would I put up a fight when you hold me like this, every time I get caught?” He chuckled. “If I didn't do this, you wouldn't let me touch you as much as I want to.”
+
+The Marilith Demon closed her eyes as Marilith Ren's middle set of hands roamed over her naked body, then they found her breasts. He massaged them for only a moment, then slid his fingertips all along the edge of where her skin met her scales.
+
+“No matter how many times I touch these, it still amazes me every time.” Marilith Ren said.
+
+“Ren...”
+
+“You'll need to shift over slightly if you want it.” Marilith Ren said and grinned at her. She thought about just staying there like that, holding him and restraining him, then her body betrayed her and she slithered over a bit. He didn't tease her or make her wait like he usually did, to try and illicit more emotions out of her, and just shoved himself inside of her. She gasped and started to intertwine her tail with his as Marilith Ren filled her completely, and her restraining arms became hugging ones as she cuddled in close to kiss him.
+
+Marilith Ren only stayed with her for a couple of days, until he felt her desire to be alone start to override her desire for sex and her need for companionship. He gave her one last kiss and slithered towards the stairs, then changed back to his normal form.
+
+“Don't hurry back.” The Marilith Demon said and turned her back to him as she put her lower body into a coil.
+
+“I haven't seen you for about 7 years.” Ren chuckled and felt her hesitate, because she couldn't really argue that he had hurried back, even though for her it had only been that morning. “I'll see you later.”
+
+The Marilith Demon waved over her shoulder at him without looking, so Ren ran over to her through the air and kissed her cheek, deactivated and stored the statue, then ran up the stairs. He came out of the door and closed it, checked the All-Seeing Mirror and equipped his fancy blue suit and polymorphed into Dwarf Ren, then cast a portal to go and see Narhilda.
+
+Dwarf Ren appeared in the hallway and walked down towards the royal apartments, and the two guards there didn't react this time. One of them knocked on the door as Ren approached, and the door opened just as Ren stopped in front of the door.
+
+“Oh, it's you.” The other healer he had met that morning said when she saw him.
+
+“Good evening, ma'am.” Dwarf Ren said. “May I enter?”
+
+The healer didn't respond, so he took a step towards her, then stepped to the side and into the apartment. She shut the door and waved to the bedroom without saying a word. Dwarf Ren didn't move, so she sighed and walked over that way. He followed her and she knocked on the bedroom door, waited for a moment, then entered.
+
+“Queen Mother, you...”
+
+“SHHH!” Narhilda hushed loudly at her, which had the opposite effect of its intended purpose of being quiet. Both babies woke up and started to fuss, and she sighed. “Oh, dammit.”
+
+“If I may?” Dwarf Ren stepped around the healer and into the room, to Narhilda's surprise, and she watched him walk over to her and the double crib beside the bed. “Oh!” He exclaimed and jumped up a little when the babies saw him. “Hi, there!”
+
+The babies giggled at his mock surprise, and he leaned over the crib.
+
+“You cute little darlings should be asleep.” Dwarf Ren whispered and touched their heads, then rubbed his thumb on their foreheads in slow circles as he poured calmness into them. “Mommy needs her beauty sleep so she can give you all the delicious milk you can drink.”
+
+They made grabbing motions with their hands and Dwarf Ren chuckled.
+
+“Don't worry, she'll be all ready for you when you wake up.” Dwarf Ren said. “Now, close your eyes.”
+
+They did so and he filled them with contentment, then he started to sing a lullaby in a soft voice.
+
+“Hush, little babies, don't say a word. I'm gonna buy you a mocking bird.” Dwarf Ren sang. “If that mocking bird won't sing, we'll cook it in a pie and I'll give you a ring.”
+
+Narhilda and the healer exchanged glances at the altered words.
+
+“If that diamond ring turns to brass, someone cast a spell on it and I'm gonna kick their ass.”
+
+Both babies chuckled, and Narhilda covered her mouth to stop from laughing.
+
+“Unless their stupid ass gets broke, they're gonna have to buy you a billy goat.” Dwarf Ren sang. “If that billy goat won't prance, then I'll pick you up and start to dance.” He kept rubbing their foreheads. “When that dance comes to an end, I'll be sad because I have to pretend.”
+
+Narhilda's eyes widened at the next line.
+
+“I want to be here with you all the time, but if I do that it's considered a crime.” Dwarf Ren dropped his voice and octave and filled them with love. “If I ever get taken down, don't worry because you're still the cutest babies in town.”
+
+Both babies took deep breaths and finally let sleep claim them. Dwarf Ren felt them drift off to sleep and carefully lifted his hands from their heads and stepped away from the double crib. He turned and noticed that Narhilda was alone in the bed and raised a single eyebrow at her. She smiled warmly and motioned for him to come closer, so he walked around the bed to the other side and leaned over the bed to put his ear in front of her mouth.
+
+“I can't sleep with three babies in the bed.” Narhilda whispered and he felt her amusement, so he moved back slightly to put his mouth by her ear and his beard tickled her cheek.
+
+“I'm sorry if I caused that to happen.” Dwarf Ren whispered to her, then put his ear back in front of her mouth to hear her response. Narhilda responded; but, not how he thought she would. She reached up with her hand and dug her fingers into his beard and held on, then she gave his cheek a kiss. The healer didn't see this, since she was still beside the bedroom door and Ren's body blocked Narhilda from view.
+
+“Thank you.” Narhilda whispered.
+
+Dwarf Ren felt that she meant a lot more than just for putting the babies to sleep. He wasn't sure how much she was thanking him for, though. Narhilda tugged his beard slightly, gave him another kiss on the cheek, then let him go. Dwarf Ren moved back and put his mouth by her ear. “Goodnight.” He whispered and put his ear back in front of her mouth.
+
+“Good... goodnight.” Narhilda breathed.
+
+Dwarf Ren turned his head slightly to give her a kiss on the cheek, then stopped when he felt her shiver slightly. His beard had rubbed across her chin and she really liked that, so instead of kissing her cheek, he moved in only slightly more and just barely pressed his lips to hers for a second. A thrill went down her spine at the brief touch, and Dwarf Ren had enough control this time that he didn't let his desire spike like he had that morning. The only ones who would know that she had reacted that way to his chaste kiss would be the two of them.
+
+Dwarf Ren gave Narhilda a moment to get the shock off of her face, then he stood up and stepped back from the bed. He gave her a regal bow and felt her surprise at the gesture, then he turned around and walked out of the bedroom. The healer closed the bedroom door as softly as she could and followed Dwarf Ren to the apartment door.
+
+“What were you talking about?” The healer asked.
+
+“I was wondering where Barnar was.” Dwarf Ren. “I didn't expect...” He smiled. “I hope Barnar isn't annoying you too much.”
+
+The healer chuckled. “He's not too bad most of the time.”
+
+“And the rest of the time?” Dwarf Ren asked with a smile.
+
+“I could swear the Queen Mother had three children.”
+
+Dwarf Ren grinned. “That's what Nar... the Queen Mother told me, too.”
+
+The healer nodded slightly because he hadn't lied like she thought he would and opened the apartment door. “Goodnight.”
+
+“Goodnight, ma'am.” Dwarf Ren said, took her hand and bent over it, and he felt her resignation. He stood up straight and kept a hold of her hand and raised his eyebrows at her. Her face flushed slightly red and her emotions swirled, so he smiled and stepped close to her. He felt that she both wanted and didn't want it, so he compromised and only gave her a feather-light kiss on the cheek instead of a normal kiss.
+
+The healer relaxed, because he hadn't taken advantage of her like he could have, and still gave her some Honor. Dwarf Ren stepped out of the apartment and the door shut silently behind him. He gave the guards a brief nod and some Honor for not seeing him as an annoyance this time, then he quickly walked down the hallway and checked the All-Seeing Mirror to look into Nathalia's hospital room. She wasn't there, so he asked for her bedroom at House Neram next, and she was there with Renardos in her arms. He cast a portal to go there and stepped through.
+
+“I just popped in to say goodnight.” Dwarf Ren said and dismissed the portal.
+
+Nathalia yawned loudly, and he chuckled.
+
+“I'm apparently just in time.”
+
+Nathalia smiled at him.
+
+“Where's the healer?” Dwarf Ren asked and stepped to the bed and kissed the top of Renardos' head.
+
+“She's just grabbing a bite to eat.” Nathalia said and yawned again. “I'm really tired.”
+
+Dwarf Ren looked her over and didn't see the items he had given her.
+
+“They make me feel too good and I can't tell if I'm recovering properly.” Nathalia said.
+
+“They boost your healing and give you Regeneration.” Dwarf Ren said and caressed her cheek. “I gave them to you so they would help you recover properly.”
+
+“But...”
+
+“You can't sleep wearing them, can you?”
+
+“No, and I can't use my ability because if Renardos needs me...”
+
+Dwarf Ren sighed and leaned in to give her a kiss. “This is the worst part I think.”
+
+“What's that?”
+
+“Being able to do so much and not being able to help you when you need it.”
+
+Nathalia chuckled. “It's only a problem that should be easily dealt with, if I can manage to rest for a little while.”
+
+“Then I'll stop bothering you and let you get to it.” Dwarf Ren said and gave her a kiss on the lips. “Goodnight, My Love.”
+
+“Good...” Nathalia stopped talking and yawned. “...night.”
+
+Dwarf Ren smiled and touched her cheek once more, then caressed Renardos' head through his fluffy hair, and checked the All-Seeing Mirror for the caravan. It looked like it had just parked for the night and he looked into the carriage with Artemis. He cast a portal to go there, stored his fancy blue suit and equipped the sash and shorts combo the Pervarians wore, and stepped through.
+
+“Hi, Ren.” Artemis said as he appeared beside her.
+
+“AH!” Yuwen gasped and stared at him. “What is that thing on your face?!?”
+
+“Hm?” Dwarf Ren reached up and touched the beard. “Oh, right.” He said and changed back to his normal form and the beard faded. “Is that better?”
+
+“Yes.” Dilseffa said. “You looked weird with that big fluffy thing hanging off your chin.”
+
+“I think she means that she's gotten used to seeing your baby-smooth chin.” Teepo said and chittered in laughter.
+
+“No, it's because a mane should be around your head to frame your face and not hang off your chin underneath it.” Tiyaphi said.
+
+Ren chuckled. “Okay, I can see why that would look weird.”
+
+There was a knock on the carriage door and Yuwen opened it.
+
+“M-my King.” The attendant said and knelt on one knee. “It's good to have you back.”
+
+“It's good to be back.” Ren said. “Have the camping places been picked out yet?”
+
+“Y-yes, My King.” The attendant said and stood up, and pointed to a spot at the end of the large empty field they were in.
+
+“Thank you.” Ren said and dropped the cube there and activated the 5 story tower, then he looked at the women in the carriage. “If you will accompany me, we can get to bed early.”
+
+The three Pervarian women were excited by this and stood up right away, and Artemis took Ren's hand. They walked across the large field to the tower and felt everyone's eyes on them. He opened the door and they went inside, then he took out and activated the Vasalor Statue.
+
+“How long can we have?” Yuwen asked.
+
+“Three days.” Ren said and looked at each of them. “Just long enough to have one grooming each.”
+
+“I think you're spoiling us on purpose.” Dilseffa said, then her eyes widened because she had said it out loud.
+
+“No, really?” Ren asked and grinned at her, and she couldn't help herself and laughed. “Of course I'm spoiling you.” He said and motioned to the stairs, and they all walked up to the top floor of the tower. “Like I told you before, I won't be known as someone who doesn't fulfill his obligations.”
+
+“Is that what we are to you? An obligation?” Tiyaphi asked and equipped a see-through teddy and underwear when they entered the bedroom and smiled as she felt his desire spike.
+
+Ren chuckled and equipped just a pair of underwear. “No, the obligation is for me to make you the best at what you do, now that you're mine.”
+
+“By the way, that's a self-imposed obligation.” Artemis said and equipped a large t-shirt and a tiny pair of underwear. “You all know that he doesn't have to do anything for you.”
+
+“We do, and so does everyone else.” Yuwen said and put on the tiniest bra and underwear Ren had put in her wardrobe. “I could feel Tatya's eyes as she stared at us during the rest stops.”
+
+Dilseffa nodded slightly and equipped the same nightgown that she always wore. “I thought she was going to ask us why we were wearing our adornments; but, she never did.”
+
+“She probably didn't want to know.” Ren said and climbed onto the bed. “Diseffa, you're on my right arm tonight.”
+
+“Why on your right?” Dilseffa asked and climbed onto the bed and laid down beside him.
+
+“It's my dominant arm.” Ren said and put his arm around her, then pulled her in close and lightly stroked her side. She closed her eyes and sighed happily as he pushed out comforting feelings.
+
+“I'll take the other arm, since I had the legs last time.” Yuwen said and laid down on his other side to cuddle in.
+
+“Are we rotating on a schedule or something?” Tiyaphi asked and laughed as she laid down between his legs. “What about Artemis?”
+
+“We're only sleeping for an hour.” Artemis said and laid down close by without touching anyone. “I'll get my turn when you read your sacred books.”
+
+“But, that takes hours.” Dilseffa said, then caught her breath when she realized that Ren and Artemis were alone together for hours at a time. She shivered at the thought and the pleasure they must have shared during all that time, and Ren hugged Dilseffa with the arm he had around her and kissed her cheek.
+
+They drifted off to sleep at slightly different times and slept for just over an hour, then Tiyaphi took her turn and groomed Ren as much as she could before she changed. He groomed the only spots on her that he could, her breasts and special place, then they spent the day reading, training, eating, and then went back to bed. Yuwen groomed Ren the next time, and the day repeated with almost the same events, except that this time the training was cut short and they had a fun time as they played Tag.
+
+The next day it was Dilseffa's turn to groom Ren. While the three Mistresses read their stat books, Ren went to the second floor and converted it into a mini-spa for them with a large Jacuzzi in the corner of the room and lounge chairs all around the outer walls. He went back upstairs just as they finished reading, and he brought them and Artemis down to the mini-spa.
+
+“Wh-what is this place?” They asked at the same time, then laughed at each other.
+
+“Adventurers call it a spa.” Ren said. “You can soak in the Jacuzzi with powerful Water and Wind jets to massage you, or you can recline on the lounge chairs and just relax.”
+
+“A jack-what?” Tiyaphi asked and walked over to the large Jacuzzi. “It's filled with swirling water!”
+
+“Yeah.” Ren said and equipped a pair of Speedos, and the three Pervarian women froze at the sight.
+
+“Ren, you... you would wear...”
+
+“I know they're a little tight.” Ren turned around and wiggled his butt at them. “Despite that, they are surprisingly comfortable.” He said, then was suddenly surrounded by three kneeling women and felt their hands touch him tenderly.
+
+“Can you believe this?” Tiyaphi asked as her hand rubbed Ren's left butt cheek. “He actually goes out in public this exposed!”
+
+“I knew he was a great fighter; but, for him to boast this much!” Yuwen said as she caressed his right butt cheek.
+
+“The fabric is so strong and so thin.” Dilseffa said and she used both hands to stroke the cloth of the Speedo. Since she was in front, that also stroked Ren. “It barely covers...” She stopped talking when he became excited and popped out of the top of the Speedo.
+
+Ren stared down at her and she looked up at his face, and she saw that his face was red and felt his embarrassment. Dilseffa smiled at him and let him feel how flattered she was that he reacted like that for her with so brief a touch, then she pulled the Speedo down the rest of the way to expose him completely.
+
+Ren didn't say anything as she started to please him with her mouth, and he didn't have to. Dilseffa could feel his embarrassment change to gratitude and then to pleasure, as could Tiyaphi, Yuwen, and Artemis. Tiyaphi and Yuwen kept massaging his backside while Dilseffa worked him over, and Artemis floated up into the air so she wouldn't crowd the women on their knees around him.
+
+Artemis floated in close and started to kiss Ren on the lips and hugged him. He kissed her back and his hands reached down to pet Tiyaphi and Yuwen on the tops of their heads. With all of their attention on him, it didn't take long for Ren to finish. When he did, he stopped kissing Artemis and looked down at Dilseffa, to see that she hadn't changed into her anthropomorphic form like she always did when trying to please him.
+
+“Dilseffa.” Ren said, and she felt his wonder.
+
+“Ren.” Dilseffa said as she stood up, and he felt her resolve.
+
+“You held it off.” Ren said and reached up to rub her cheeks with his fingertips. “I'm so proud of you.”
+
+“I... I know.” Dilseffa said and closed her eyes as his emotions flowed over her.
+
+“We'll work harder at it, too.” Yuwen promised. “Won't we, Tiyaphi?”
+
+“As much as we can.” Tiyaphi said with a crooked smile, and Ren felt what they meant.
+
+“Um... wait. We're supposed to relax.” Ren said and tried to step back. They held him tightly and he couldn't move without potentially hurting them.
+
+“We have you now.” Yuwen said and chuckled, and her hand squeezed his butt cheek.
+
+“I could order you to let me go.” Ren said, futilely.
+
+“You could also stand here like a man and let us practice.” Tiyaphi said.
+
+Ren felt that their resolve was almost as strong as Dilseffa's. “All right.” He said. “At the first sign of changing...”
+
+“We know the rules.” Yuwen said and moved from kneeling at his side to kneel in front. Dilseffa touched Ren's face briefly, then walked over to the Jacuzzi and climbed in. Artemis floated over there as well and they both sank into the water and relaxed.
+
+Unfortunately, neither Yuwen's nor Tiyaphi's resolve was good enough to stop them from shifting after they had barely started to please him. Their own excitement over doing that to him was a bit too much for them to hold back.
+
+“We'll get it right one of these days!” Yuwen exclaimed as she and Tiyaphi stood up. “We can go and relax now.”
+
+I'm feeling a little used. Ren thought in amusement as the two women walked over to the Jacuzzi.
+
+“Yeah, because they didn't even try to finish you off and just stopped.” Teepo said in the voice only Ren could hear and chittered in laughter.
+
+Ren walked over to the Jacuzzi and Artemis floated up and out of the water to give him a hug, then while the others were distracted by the swirling and churning water massage in the tub, she took care of Ren's needs.
+
+They all managed to relax that afternoon in the spa and enjoyed the rest of the day together, then Ren had to go on Adventurer's business. He deactivated and stored the Vasalor Statue and laid down in the middle of the bed. The three Pervarians and Artemis cuddled around him.
+
+“See you in the morning.” Ren said and relaxed. “Logout.”

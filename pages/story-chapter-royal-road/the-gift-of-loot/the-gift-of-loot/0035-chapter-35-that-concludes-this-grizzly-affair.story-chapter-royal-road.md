@@ -1,0 +1,229 @@
+---
+id: cd601551-5bec-5f6c-9cf8-cfa1c0d757f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: That Concludes This Grizzly Affair"
+slug: 0035-chapter-35-that-concludes-this-grizzly-affair
+partOf: the-gift-of-loot
+position: 35
+ownLength: 3790
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3465930/chapter-35-that-concludes-this-grizzly-affair"
+royalRoadId: "3465930"
+---
+
+Applebaum went on to explain to the cops, "This is Thomas Coldstrike. He's the owner of the blue sedan." He looked at Jo. "You must be the missing guard, Joanne Fitzsimmons?"
+
+"I am," she agreed, slumping in relief.
+
+Applebaum looked at the third member of their group. "And this is...?"
+
+Twitch looked at Thomas, and there was a little hope in his gaze, but no real expectation.
+
+Thomas felt mixed emotions. The man had helped out in the dungeon in his own self-serving way, but he'd also been involved in an armed robbery. Thomas was too exhausted to muddle out his emotions. He decided he wasn't going to speak up for or against him. He was just going to stick to the facts of what happened and let the rest play out.
+
+Thomas swallowed and made his decision. "He goes by Twitch. He was involved in the initial robbery, but he helped Jo and me out when we took shelter in the dungeon. I don't think we would have gotten out if he hadn't warned us about... about one of the other robbers."
+
+"I see," Applebaum said heavily. "I would like to hear that story. Let's get you situated." He gestured sharply to the two cops, and Thomas's hands were released, as were Jo's.
+
+Unfortunately, Twitch was not so lucky. Several other policemen surrounded him, and one began to pat him down. Thomas's gaze met Twitch's one more time before Twitch shrugged and looked away.
+
+"Do either of you need medical attention?" Applebaum asked, drawing Thomas's focus back.
+
+After determining that they didn't, Thomas and Jo were led to a hastily set up canvas tent. Though it was dark, the meadow looked so much like the Bear dungeon that for a moment Thomas couldn't help but activate his health sight. But he saw only people, both down here and up the road.
+
+He glanced back over his shoulder and saw that Twitch was being led to a marked sheriff's car.
+
+He and Jo were directed to sit down on some hastily arranged folding chairs, offered coffee, and asked again if they needed medical assistance.
+
+"No, but I will take the coffee," Thomas said. "What time is it?"
+
+"Just after two in the morning," Applebaum answered gravely, motioning for a National Guardsman to go fetch the drinks. He sat across from them. "I admit, when I saw the condition of your registered car and the blood in it, I didn't expect to see you alive or in such good shape."
+
+Thomas winced, wondering how he was going to clean blood out of his seat.
+
+"Yeah, that's me all over. Luckily, I had a Healing crystal within reach." He patted his backpack. "Or I wouldn't have made it so far."
+
+"Taking shelter in the dungeon was a smart move." Applebaum looked over at Jo. "Ms. Fitzsimmons, I understand you are not really signed up with the guard. You should have never been asked to guard a dungeon entrance alone. And for that, you have my apologies. We will be reviewing our procedures with our temporary workers."
+
+Jo nodded, swallowed, and looked down, her hands clasped in front of her.
+
+"I take it the actual National Guard was helping out in Sacramento?" Thomas asked.
+
+"Yes, it was an all-hands-on-deck situation." Applebaum sighed and leaned back. He looked every bit as tired as Thomas. "It would have been the same, if not worse, had that situation in Carson City gone south. I'm grateful for you, Thomas, for heading that off. So are my superiors. I believe they'll finally get off my and Martinez's backs about the cost."
+
+He nodded. "What happened in Sacramento?"
+
+"An unregistered dungeon overflowed. It was a level one, but the creatures were exotic. Electric-based, which I'm told meant people with earth mana skills and type were the most needed." Applebaum's nose twitched as he muttered, "It feels like I've been thrown into a goddamn Pokémon game."
+
+Thomas dredged up a smile from somewhere. "And here I am without my Blissey."
+
+The coffee arrived, and Applebaum gave them a few moments to sip. Just the act of drinking helped make Thomas more alert, even before the caffeine hit his bloodstream.
+
+"I know this may be difficult," Applebaum said, "but I would like to know what exactly happened in there. This gang identified in the armed robbery is known to the local Stockton PD, and it seems we have several suspects still unaccounted for."
+
+"Four of them chased us in," Thomas said. "But it's a level two dungeon, and..." He paused to exchange a glance with Jo. "The monsters killed them. It was crazy in there, and they were only level ones. Twitch teamed up with us and helped us against the boss and one of the other gang members."
+
+"His street name was Grimm," Jo added, speaking up.
+
+"His legal name is Milton, so I don't blame him for changing it," Applebaum said. "I caught a glimpse of his criminal record. No one will miss him." But he watched Thomas carefully, probably knowing that there was a lot left out of the story.
+
+Thomas didn't elaborate. He knew that if this was a proper interrogation, he and Jo would be separated to tell their stories, and then their words would be compared against one another. But Applebaum seemed to be in charge of this by virtue of Jo being hired temporarily under the National Guard and Thomas's association with him. He was content to ask them a few more questions, mostly about the descriptions of the robbers that had followed them into the dungeon. It seemed he was mostly interested in doing a headcount more than anything else.
+
+"That's all of them, then," Applebaum said. "We have a dash cam from the other car that proved illuminating. I think you're telling the truth that this Twitch fellow didn't do the actual shooting."
+
+"The people in the other car... are they dead?" Thomas asked.
+
+"Yes. One fatality. I'm sorry, were you driving up together?"
+
+"No, I was just in the wrong place at the wrong time." He scrubbed his face. "It's been a hell of a day." He thought, briefly, about bringing up his concerns about the guard at the Vegetable Greenhouse dungeon letting in a group in his instance, but that... that was something he'd have to bring to Zach. He didn't want the National Guard involved in his life if he could help it.
+
+Jo broke in. "Can I ask, sir, what's gonna happen to Twitch? He's not a friend," she looked over at Thomas. "But he did help in the end."
+
+Applebaum shrugged a shoulder. "If the District Attorney presses charges, they will contact you for statements. There may be mitigating details, but he was still involved in highway robbery that resulted in murder."
+
+Pretty much what Thomas had figured, then. But he'd caught a tone in Applebaum's voice. "If there are charges?"
+
+The man hesitated for a long moment as he tapped the tip of his finger against the table. He seemed to be in thought. "This is not official, but as you can imagine, the courts have been thrown into some chaos. I wouldn't be surprised if the President started ordering military tribunals for capital crimes under martial law, just to keep order."
+
+That's not legal, Thomas wanted to say. Then, a foggy piece of constitutional trivia rose up in his mind. It was legal, but only under the declaration of martial law. It's been less than a month since the System Announcement.
+
+Things were already falling apart. He shook his head. This was too much, too late at night, after too bad of a day. "Look, are we free to go?"
+
+"You're victims, not suspects," Applebaum said. He glanced over to where a soldier stood waiting just outside the tent door, obviously looking to speak to him. "Though the sheriff's office may have some additional questions for you both. If you can give me your phone numbers."
+
+Thomas snorted. Nice of the guy to pretend he didn't already have a way to contact Thomas if he absolutely needed to.
+
+Jo gave hers willingly, and with half-drunk cups of coffee in hand, they were allowed out. The moment they cleared the chairs, the waiting soldier pushed in with a short stack of papers in hand for Applebaum's attention. Thomas didn't envy the man.
+
+It was still busy outside, as the meadow had become the staging point for a major crime scene investigation. There were people in uniform everywhere, and now that they had been let go, they more or less blended into the crowd. Jo's fatigues helped a great deal.
+
+"I can give you a ride if you need it," Thomas said. "Where do you live?"
+
+She shook her head. "No, it's fine. I parked my truck on a forest service access road. It's the only way down to this meadow."
+
+Jo suddenly looked around, then grabbed Thomas's arm and started pulling him to the side. Curious, Thomas went along with her and was surprised when she dipped into another tent.
+
+This seemed to be a storage space with an air of more permanence to it. A single rechargeable lamp was lit to low, but after a few seconds, his eyes adjusted, and he saw that there were boxes everywhere and standalone wire shelving on three sides, loaded with heavy-duty first-aid kits, crates of bottled water, basic hygiene supplies, and a few MREs. All things that someone would need while guarding a dungeon out in the middle of nowhere.
+
+One of the shelving units seemed to be full of devices powered by charging lithium batteries. Jo grabbed one off the rack.
+
+"Good, it's got some charge in it," she said in satisfaction. "The batteries on these things suck."
+
+Thomas's eyes widened, and he grinned as he recognized it. It was a scanning device the National Guard used for loot people wanted to check on after leaving the dungeons.
+
+He could really come to like Jo.
+
+Still, he had to make sure. "Can this be traced back to us?"
+
+She checked something on the touchscreen, then smiled and shook her head. "Nope. It's still logged into whoever registered it last. It won't give a full description, but it will assign a value and official government price point."
+
+Thomas didn't need the scanner to tell him about The Eye That Sees Riches skill shard. He knew what it was and didn't want even the remotest chance that anybody would guess that he had it. So instead, he grabbed the little bear totem he'd gotten from the boss.
+
+The little scanner gave a de-whoop sound that seemed incredibly loud in the tent, but nobody poked their heads in. A second later, it displayed:
+
+Level 2, C Grade Support AOE Item — Estimated Value: $5,000.
+
+As Jo had said, there wasn't anything about what it actually did, but it was a good pointer. Also, "Holy shit, five thousand for a C-grade item?"
+
+"These are all prices for the government site," Jo said. "Private sale may be different. Also, I think whatever AOE is makes it more valuable."
+
+He squinted in thought. "Area of effect, I think?" Then he regarded the scanner again and the battery pack. "I need to get one of those things for myself."
+
+Jo didn't answer. She was busy scanning the skill shard in her palm, The Monarch's Thousand Cutting Petals. The scanner beeped, and she stared at the result.
+
+"What is it?" Thomas asked after a moment.
+
+She sucked in an uneven breath. "It's a combat skill shard, and they've listed it at A rank." Her voice came out a little unsteady. "Base price is $750,000... but it may extend higher. It would require a Sergeant Major to approve the purchase." She glanced at him and closed her fist around the shard, bringing it unconsciously closer to her. Her expression was scared, anxious, and a little apologetic. "This is too much. You can't give this to me... Thomas, do you get it? It's enough to buy a house. Maybe even a lake house."
+
+"I wouldn't go that far," he muttered, knowing how much houses by the lake went for nowadays.
+
+She shook her head, staring at him with conflicting emotions clear on her face. She wanted the shard, but the value of it was overwhelming. "It's too much," she repeated, weakly.
+
+"Jo, I got a shard too, and we're splitting it 50-50, right?" Then his brain caught up with what she was saying. "Wait, you want to sell it?"
+
+Her expression went blank. "It's like finding a lottery ticket with the winning numbers. I can do a lot with this. Quit my temp job. Tell my ex-husband to fuck off in court, or just buy a house for me and my daughter and never have a mortgage again."
+
+"Jo, no, wait. Think about this," he started, then realized his voice had gotten a little loud. He lowered it and stepped closer. "I'm not going to tell you how to live your life, but do you think that money is going to be worth anything a year from now? You're talking about buying a house with it. Do you think you'll be able to keep that house if someone stronger wants it? Given what you've seen today? Applebaum was talking about martial law coming around the corner."
+
+She looked at him. Whereas her expression before had been clear as day, now he couldn't tell what she was thinking.
+
+"You don't want the skill for yourself?" she asked him. "It's a combat skill."
+
+"No, I have a skill shard," he said. "I'm not running a scanner on it, but I'm pretty sure I know what it does. I want that power for myself. It's going to improve my life. And yeah, so would a fancy house on the lake, but the only way a skill can be taken away from you is if you die in a dungeon." Or at least, that was what all signs pointed to. He was going to have to talk with Zach next time the guy came around.
+
+"I need the money," Jo said in a soft plea. "I moved my daughter here to do hairdressing for rich folk, but the booth rates are crazy in Tahoe, and tourism dried up the second the System was announced. So that's why I'm doing the temp job, but..." She trailed off for a moment, swallowed, and visibly steeled herself. When she looked back at him, her eyes were harder with determination. "Do you think I have what it takes to dungeon dive?"
+
+"Yes," he said at once. "I'd dive with you any time. That's going to be the future, Jo. I think you should get to level two as fast as possible. In fact—" He swung his backpack around and started searching through it. "Your first shard worked with water mana, didn't it?"
+
+She nodded hesitantly. "Yeah, but I've used it so much that it's almost all gone. What... what are you doing?"
+
+Thomas had a ton of water mana crystals. He plucked two more level 1s for her. Then he glanced back at her and, on impulse, used his healing sight. He didn't see anything, but he had a hunch that went deep.
+
+"Don't want to use too much of one kind of mana," he muttered to himself. "I have a friend who did that with fire, and it gave him some problems." He glanced at her again. Water was her base, which was pretty simple. "Fire or earth?" he asked.
+
+"Excuse me?"
+
+"What feels more natural to you? You've taken some water mana crystals, and even though you've used a lot, you've probably absorbed a good amount in your core. You'll need something to balance that out."
+
+She looked at him as if he were crazy, but then, after a moment, she seemed to consider. "Earth."
+
+"Excellent choice." He thought for a second about giving her one of his level 2s, but he wanted something to ground her water mana, not overwhelm it. Besides, he had plenty of level 1 earths. He added two B grades, then, acting on instinct, plucked up the last level 1 Adaptation mana he had left. It was a C grade, but it should do.
+
+"Here. All this together, including what you already took, should get you all the way to level two, or very close." He scanned her up and down a final time. "Yeah, that's a good mix for you." He didn't know exactly how he knew, but he did.
+
+"No, wait. This is too much," she said. She tried to hand the crystals back, but he just turned away and zipped up his backpack.
+
+"It's not. We're splitting the loot 50-50, remember? Besides, I want to see you thrive."
+
+Even as he said it, he felt something thrum in his core followed by a sense of soothing healing that washed through him. A pain he'd been only half aware of eased. He'd examine that later. "We made a good team in there. If you want to dungeon dive, call me any time. I'll give you my number. Besides, I'm keeping the bear totem, a skill shard, and the weapon. It isn't even an even split. Keep the sword," he said. "I kind of just flail around with it anyway."
+
+She looked like she didn't quite believe him and seemed overwhelmed by everything he'd just pushed on her. But she was also smart enough to know that she was being given the keys to an opportunity.
+
+"Dungeon diving, huh?" She laughed once to herself. "I never thought... No one back home would believe me if I told them."
+
+"It's a brand new world," Thomas said. Then he pointed to the clear crystal, which was slowly shifting between brown and blue in her hand. "That's an Adaptation mana crystal. I think it will help you react to whatever comes your way."
+
+"It has to be better than temp work, right?" she muttered, seemingly to herself.
+
+Jo nodded again to herself, then pulled out her cell phone. "Let me send you my details."
+
+****
+
+Finally, Thomas trudged up the embankment to his car. The embankment to the road was a lot steeper than he remembered. But then again, on the way down, he'd been in shock, fleeing for his life, and possibly bleeding out internally. He had coughed up a bullet.
+
+His life had gotten so weird.
+
+His poor, bullet-ridden car looked like it had been in the process of being loaded onto a flatbed tow truck, but very likely on Applebaum's call they'd reversed that process. Now it was on the side of the road, parked between two National Guard vehicles.
+
+There wasn't as much blood on the seats as he'd feared, though his windshield did have several visible bullet holes. He could still see around them well enough to drive.
+
+Thomas sat down in his car, put his backpack to the side, and thought.
+
+It had felt good to give those things to Jo. It hadn't been because he was trying to impress her, but because he knew deep in his heart that it would help her. Water, Earth, and Adaptation was a good mix for her and would allow her to protect herself and move forward in life.
+
+It felt as though a burn he'd only been partially aware of on his own soul had been cooled and healed... a self-inflicted burn he'd caused himself by using healing to kill Grimm.
+
+Thomas hadn't had a choice at the time. He knew that, just as he knew he would have done it again if put in the same position. It had been self-defense. Actually, more than self-defense, because he'd also saved Jo and Twitch. But he still couldn't shake the feeling that in doing it, he'd caused some level of damage to himself. It had been like a bad sunburn.
+
+That same damage hadn't happened when he put the bear boss out of its misery. For one thing, it was a monster, and for another, it had been dying slowly and painfully. Allowing it some last peace was proper healing.
+
+Zach's offhand comments about mana affecting personality and choices had made Thomas wonder once or twice if his hesitation to kill was mana-enforced or whether he simply had never been much of a 'Raaaah I Must Kill To Feel Alive' type, even before the System. But now he had an inkling of what it actually meant to go down the path of Healing mana. He could use healing to kill, but it would be perverting something that was inherently good.
+
+Now was not the time to ruminate. He was still in control of his mind and his options, and he could slay monsters just fine the old-fashioned way with weapons. He was certain he hadn't burned himself by killing the first robber with the mace.
+
+He had options. So instead, he focused on other things.
+
+Opening his hand, he looked down at the skill shard. Grimm's skill shard. A part of the man's Gift lay in the palm of his hand. And once Thomas reached level three, he intended to incorporate it into his body.
+
+That may not be a good idea, but he wanted the power. It resonated with him, just as Healing and Adaptation mana had. And it also bothered him that a part of Grimm's twisted soul was reflected in his own.
+
+Nope. He was not going to overthink this or pre-guilt himself about it. He and Grimm might share the same inner love of finding valuable things, but they were not the same people.
+
+Besides, Thomas couldn't use that skill shard until he reached level 3. So that was going to be his next goal. He was already a good way there. This whole experience had forced him to burn his core back down to a level two base, where he'd started to rebuild it by absorbing level 2 Healing crystals and then Wellspring mana. Thanks to all the loot drops, he also had an A-grade Healing crystal that would go a long way.
+
+Now I just need to find some level 2 Adaptation mana. He looked inward, studying his core. Yeah, that was what he wanted. Healing, Wellspring, and Adaptation. That would be the proper mix to bring himself up to level three.
+
+He started his car, and to his relief, the engine turned over with no problem. It seemed the hail of bullets hadn't hit anything vital... other than his chest. Healing could definitely come in clutch, even if it came with caveats.
+
+Level 3 was his next goal, right after he set a thing or two right in his life.

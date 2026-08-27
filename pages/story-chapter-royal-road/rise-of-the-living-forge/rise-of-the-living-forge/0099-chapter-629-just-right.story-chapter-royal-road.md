@@ -1,0 +1,107 @@
+---
+id: ff159cbb-73ad-5ba3-adae-d9bee78a0416
+page-type-slug: story-chapter-royal-road
+title: "Chapter 629: Just right"
+slug: 0099-chapter-629-just-right
+partOf: rise-of-the-living-forge
+position: 99
+ownLength: 1877
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3795095/chapter-629-just-right"
+royalRoadId: "3795095"
+---
+
+Three more days slipped past faster than Arwin would have liked. He, along with the rest of the Menagerie, were so busy that they seemed to practically evaporate into thin air. There wasn’t anywhere near enough time to do everything that he wanted to.
+
+Vanessa’s armor was slightly more difficult than Arwin had initially expected. It ended up taking him, Koyu, and Wallace two days to complete it. He supposed it made sense when looking back at it retroactively. Armor for somebody whose idea of protection was a few scuffed leather scraps wasn’t exactly going to be easy.
+
+They couldn’t just go and ask Vanessa to change the way she fought. And even if they’d wanted to, armor had to suit the individual. That meant anything they created would have to align with Vanessa’s view of how she wanted herself to be.
+
+Thus, their task had been somewhat complicated. None of them were willing to compromise on the armor’s actual effectiveness. That meant they’d needed to figure out how to make a bunch of lightweight scraps somehow completely protect Vanessa while leaving her… satisfactorily exposed.
+
+It wasn’t the kind of project that Arwin had ever really considered taking on in the past. But in his defense, he doubted any smith could have foreseen this. The whole point of armor was to cover as much as it could. By the traditional definition of how armor worked, if it wasn’t covering something, then it wasn’t protected.
+
+But that was what they set out to solve.
+
+And after many hours of trialing and testing, they solved it.
+
+Reactive armor.
+
+A piece of equipment that was vaguely aware of its owner and the threats around them, that could move pieces of itself just in the right way to deflect a blow before returning to its normal position. It would basically function like a magical octopus that Vanessa strapped to her chest. An octopus that deflected attacks.
+
+Arwin wasn’t sure what kind of octopus did that, but the analogy was good enough for him. He and Koyu were pretty certain that the enchantment wouldn’t actually be too difficult to make. Wallace had been more concerned with finding materials flexible and strong enough to actually pull it off. And at the end of the day, the only way this project would work would be if it was intelligent, like Caldera. Intelligent and in possession of a strong dislike of any foreign objects approaching it at dangerous speeds.
+
+They decided to solve that with another two part construction, though this one considerably less complicated than the previous multi-piece projects they’d taken on in recent time. It wouldn’t need any sympathetic magic. Vanessa’s armor would simply have to be a Soul Guardian.
+
+That would ensure it was conscious and aware enough of its surroundings to be completely trusted with fighting alongside Vanessa. In truth, this armor would be as much a weapon as it was defense. If everything went the way they were hoping it would, then it would be somewhat similar to the Gehenna armor when the Infernal Armory was inhabiting it — just a little weaker.
+
+It wasn’t easy to replace the Armory, after all.
+
+Arwin didn’t say that last part out loud. The Armory’s ego was big enough. He didn’t need to go feeding it any further.
+
+The next step was to make the core. And since that didn’t require Vanessa, they got started on it right away.
+
+Creating the Core for a Soul Guardian was, nearly by definition, never easy. Cores required an immense amount of powerful materials and magical energy. But fortunately for the Menagerie, they had both of those in droves.
+
+So they got right to work.
+
+The Core took the better part of the second day. The vast majority of the time they spent on it came in preparations, ensuring that they had enough energy stored from Lillia’s magical food and readying all their components. Only after they’d reviewed their process and ensured they had more than enough of every single thing they needed did the three of them get started in true.
+
+They probably could have done all the preparations considerably faster had they been willing to be less methodical. But when it came to materials like these storing as much magical power as a Soul Guardian required… well, there was no room for mistakes.
+
+Ironically enough, it took just about 2 hours of work for them to complete the core. Part of Arwin felt like they could have done it even faster, even without cutting corners. This core was far from the strongest he’d made. It paled in comparison to what was in Uriel.
+
+But that was fine. He didn’t need the armor housing a magical Dungeon Heart-powered building. All he needed was it for to protect Vanessa — though the magical energy he’d gotten as a reward for its creation wasn’t anything to laugh at. Soul Guardian Cores were a massive undertaking. Even one as relatively simple as this had still earned quite the payment from the Mesh.
+
+A part of Arwin wondered if the Mesh was giving them more energy than normal to help them along. The idea was a nice one. To believe that the Mesh was on their side. But he dismissed it as quickly as it had come. The Mesh was impartial. That was simply how it worked.
+
+If it could influence things more directly, then it would have already done so. They weren’t in a position where they could simply hope it would back them up. Relying on the Mesh to save anyone would do nothing but make them complacent.
+
+This was their fight.
+
+Arwin, Koyu, Wallace, and the Armory didn’t stop with the creation of the core. There were still good hours in the day. They immediately set about choosing out the most suitable materials. But that had ended up being fairly easy. By using a design slightly similar to what Arwin had employed for Lillia’s armor, they could create flexible segments while keeping all the strength of a more stiff material. They ended up settling for a dull golden metal that Wallace identified as Stargold.
+
+It wasn’t from a star, nor was it gold in anything but appearance. Wallace had not particularly enjoyed explaining that the name had only been granted to the metal because the dwarf who had discovered it many years ago had simply named it the coolest thing he could come up with at the time.
+
+The metal was considerably more impressive than the somewhat embarrassing backstory behind its name implied. It was strong, flexible, and incredibly effective at channeling magical energy. It was perfect for a project like this — and they had more than enough of it to create the many components that Vanessa’s armor would require.
+
+And that had brought them to the final stage of the armor. Namely, actually telling the person they were making it for that her assistance was needed. They’d decided to wait until the third day for that. Evening had already fallen and creating the Core had taken a very considerable amount of power. There was no point pushing their luck and ruining the armor when it was so close to complete.
+
+And so, on the dawn of the third day, A slightly confused-looking Vanessa showed up at the door of the Infernal Armory a few minutes after Arwin asked it to call for her. It had taken a few minutes to explain what was going on to the Thug. It had taken a few more to then convince her that this wasn’t some elaborate prank and they were, in fact, making her armor.
+
+She’d looked slightly uneasy about the idea of the whole thing until she saw the plans that they’d drawn up. Then her eyes had lit up like two suns in excitement.
+
+Vanessa didn’t need any more convincing after that.
+
+They’d gotten right to work. Arwin barely even remembered the process. It was starting to feel like such second nature that his body seemed to move before his mind had even registered what it was doing. The whole thing passed in a distant blur.
+
+And, as it turned out, Vanessa was quite apt at attuning herself to the song of creation. Perhaps that was just because she was such an easygoing individual. But, whatever the reason was, she was a natural. By the time the sun had reached the highest point in the sky for the day… one more set of armor was finished.
+
+A wave of magical energy rolled over Arwin as he looked upon the results of their latest work. It was certainly unique.
+
+The Reaping Flow
+
+[Soulforged]: Forged at the hands of a Forbidden Soulmancer, the a dwarven smith, a lich, an awakened building, and a thug, The Reaping Flow was born to be free.
+
+[Dancing Wall]: The Reaping Flow will move to intercept any magical or physical attacks directed at its bearer. It will attempt to steal and wield any weapons that come into contact with its form.
+
+[Grasping Form]: The Reaping Flow can shift its form to momentarily adapt to the magical signature of another being, allowing it to temporarily wield magical items bound to them at the cost of magical energy depending on the strength of the stolen item.
+
+[Hydraform]: When one of The Reaping Flow’s strands is damaged, it will draw energy from its core to regenerate multiple new strands for every damaged one. These new strands will remain until the battle ends, after which the extras will be consumed for energy to be stored within the core.
+
+[Mulitplying Core]: The Reaping Flow draws magical energy from those who perish in its vicinity, storing them within its core. The bearer of this armor may use this magical energy to manually control and multiply its strands, using them in whatever manner they will.
+
+[Soul Armor]: The Reaping Flow’s status is unreadable to all but the ones who made it and its owner. It is resistant to all forms of magical and physical damage.
+
+By the time everyone had finished reading the item’s description, Vanessa had already donned it. She’d barely waited until the armor had cooled before she’d tossed her old scraps to the side and pulled the new equipment over her head. And Arwin had to admit that it suited her perfectly.
+
+Long ribbons of glossy metal dangled in shifting strands along her body. They moved like tassels as she shifted her weight from foot to foot, nearly mesmerizing in their flowing pattern.
+
+Arwin wouldn’t have said that armor wasn’t revealing, but it definitely wasn’t modest. It covered just about as much as her previous tattered scraps had. This armor was just a few thousand times more effective at actually protecting her.
+
+“Now this is what I’m talking about,” Vanessa said, spinning in a circle to watch the strands twirl around her with a ringing jingle. She let out a delighted laugh. “This is exactly the kind of dress a I want to wear when I’m ripping someone’s throat out! How’d you figure out exactly what I wanted?”
+
+Arwin exchanged a glance with the others.
+
+“I’m glad you like it,” Arwin said with a wry chuckle. “And let’s just say it wasn’t the hardest deduction to make.”

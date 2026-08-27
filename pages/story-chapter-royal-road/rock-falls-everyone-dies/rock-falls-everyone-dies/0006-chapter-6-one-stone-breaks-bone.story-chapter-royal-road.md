@@ -1,0 +1,327 @@
+---
+id: 0f7d054f-43e6-5c1f-a941-a44faf81262c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6 – One Stone Breaks Bone"
+slug: 0006-chapter-6-one-stone-breaks-bone
+partOf: rock-falls-everyone-dies
+position: 6
+ownLength: 2037
+unit: words
+ownProgress: 2037
+publishedAt: 2023-01-22
+link: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094460/chapter-6-one-stone-breaks-bone"
+royalRoadId: "1094460"
+markedReadAt: "2026-06-29T22:50:26.204Z"
+---
+
+The rock which was starting to slowly become a boulder landed into the dungeon with a splat, a dead goblin below it. And it had gotten a new level, and a new skill.
+
+Very handy things for leveling, these green thingies, the rock thought. Wasn’t there that saying… killing how-many goblins with one stone?
+
+It was probably a good count by now.
+
+But the dungeon had an invader now. And the dungeon reacted.
+
+The rock perceived footsteps approaching, feet like stone hitting the brick floor. Or to be more precise, feet of bone.
+
+A mass of skeletons, coming up a long-downward sloping corridor as one big horde. The rock saw them and… didn’t feel much fear. It was a rock after all.
+
+But it did feel hot. It had braked once during the fall down here, and converted a nice bit of thermal energy for itself in the process.
+
+Remaining stored Temperature: 150K
+
+Enough energy to conquer a dungeon? Perhaps. But the rock had noticed another curious thing. The corridor that army of skeletons were shambling up on…
+
+It was a downward sloping corridor.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]!
+
+Δ5K = Δ5 m/s
+
+New velocity for [Unnamed]: 5 m/s
+
+Remaining stored Temperature: 145K
+
+The rock prodded itself forward gently, onto to slope, and began doing its job. Being a [Rolling Stone]. The floor was smooth, decently steep, and very easy to roll in. Much more pleasant than the rough mountainside. And in front of the rock…
+
+The skeletons had stopped, hesitating in the face of the approaching projectile. The rock though saw only experience to be harvested, and rolled forth to the grindstone. The skeletons turned around, shuffling back towards whence they came, but they couldn't accelerate like a rolling stone.
+
+It got near the skeletons, then used just a hint of its new skill, attaching an ethereal thread of sorts to the ceiling. And it swung up.
+
+Pivot Point activated!
+
+Direction: Up
+
+Rotation: 112°
+
+The rock flew up, carefully using [Steer], and smashed into the first skeleton’s ribs, which were ground down to bits. It barely slowed down, only changing velocity by 5m/s as it bowled through.
+
+Collide activated!
+
+[Unnamed] Dealt 5 * 128.8 / 4  = 161 dmg to [Generic Skeleton Todd]
+
+New Velocity for [Unnamed]: 14m/s
+
+It continued forward, hitting the next skeleton in the hips as its speed barely slowed against the rather light boned warriors.
+
+Collide activated!
+
+[Unnamed] Dealt 4 * 128.8 / 4  = 129 dmg to [Generic Skeleton Tadd]
+
+New Velocity for [Unnamed]: 7 m/s
+
+Then it started to slow, getting too close to the ground, and skeletons were on all sides. Time for a shift. It used a hint of energy, aiming the new velocity towards the right.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]!
+
+Δ10K = Δ10 m/s
+
+New velocity for [Unnamed]: 15 m/s
+
+Remaining stored Temperature: 125K
+
+It veered to the right, a [Steer] and the new burst of energy driving it, and two more skeletons were grouped together and smashed against a wall.
+
+Collide activated!
+
+[Unnamed] Dealt 6 * 128.8 / 4  = 193 dmg to [Generic Skeleton Couple Tudd & Tidd]
+
+New Velocity for [Unnamed]: 8.3 m/s
+
+Then the rock finally paused for a moment, surveying the results. Four destroyed skeletons in a matter of moments, with the rest fleeing down the slope as fast as they could. The rock braked in place, gathered a hint of heat, and did not hurry to the chase.
+
+Because it had noticed something.
+
+The slope was rather wide at the top, allowing the skeletons to gather side-by-side. But ahead… there was a doorway and a narrow corridor. Just narrow enough for skeletons to move in single-file.
+
+If it knew of such things, the rock would have received enlightenment on the joys of bowling.
+
+So it waited, slowly rolling forward, gradually letting its pace increase. It waited as the skeletons clanked forward in a mad dash. And then—when the last skeleton had entered the narrow bit—the stone started rolling.
+
+And accelerating.
+
+And braking, and heating up.
+
+And accelerating more.
+
+Current Velocity: 25 m/s
+
+It rolled forward, with the inevitability of stone, ready to grind all foes to dust. And got to the hallway. The skeletons were right ahead, shambling in a mad panic, moving faster as they heard the approaching rumble.
+
+The rock lined up a shot, then attached a pivot point up to the ceiling, for just the briefest moment.
+
+It flew up into the air just a bit, to about the skeleton’s hip height. Like a golfer lining the perfect shot, the driver finally hit home.
+
+Energy Shift activated!
+
+Converting [Thermal Energy] to [Kinetic Energy]!
+
+Δ25K = Δ25 m/s
+
+New velocity for [Unnamed]: 50 m/s
+
+Remaining stored Temperature: 90 K
+
+It blasted forward, with just a slight upward angle, using the maximum amount of heat it could at its current level. A giant cannonball that needed no gunpowder, just movement of its own.
+
+And it crashed into the first skeleton. And the next. And the next. And them all.
+
+Collide activated!
+
+[Unnamed] Dealt 8.9 * 128.8 / 4  = 286 dmg to [Generic Skeleton Mob] * 3
+
+New Velocity for [Unnamed]: 39.2 m/s
+
+It blasted forward, crumpled bones falling behind it into piles as the magic holding them together broke in the face of stone. Its speed barely slowed, as each impact was like braking through another thin wall of barrier magic.
+
+Collide activated!
+
+[Unnamed] Dealt 10.1 * 128.8 / 4  = 286 dmg to [Generic Skeleton Mob] * 4
+
+New Velocity for [Unnamed]: 26.7 m/s
+
+It was starting to fall nearer to the ground, so the stone made just the slightest pivot up, getting up into the next skeletons ribs.
+
+Pivot Point activated!
+
+Direction: Up
+
+Rotation: 15°
+
+Bone was smashed, and the last skeleton fell onto the ground in a motionless heap. No more skeletons ahead—just stairs. The rock fell down, bumped on a stair, bumped on the next, then realized it did not really like stairs.
+
+Because... for the first time ever...
+
+It took damage.
+
+Collision Damage received!
+
+HP 8/8 -> 5/8
+
+The rock decided that it really did not like stairs. Rocks weren't supposed to take damage! They were supposed to just blast right through!
+
+Slopes had been invented for a reason!
+
+So it steered, braked and pivoted up, keeping itself airborne, just a hint away from bumping against all the stairs.
+
+It neared the ceiling, but suddenly a panel in the roof opened, and wooden spikes were pushed out, right at the flying stone.
+
+They broke against it, but still managed to smack it down—hard. The stone smacked into the stairs once more.
+
+Collision Damage received!
+
+HP 5/8 -> 3/8
+
+This was not right at all! A dungeon could deal damage to a rock? Now that was just unfair. The stone started to get annoyed. It got to the bottom of the stairs, keeping up a good pace.
+
+And then a pit trap opened under.
+
+It threw a [Pivot Point] to the ceiling, then gracefully hopped over the 4-meter long pit. It landed on the other side, then kept going forward, rapidly getting deeper and deeper into the dungeon.
+
+Suddenly, vents opened up all over the corridor, and a hissing sound started as gas began flooding the tunnel. The stone just got confused at the poison gas trap, and did not slow for it.
+
+Maybe the dungeon had stopped being able to damage it? As long as there were no more stairs... What was that green mist thing anyway? It had never seen the like of it.
+
+It remembered seeing clouds and mist before, but they really didn’t belong underground, did they? Something was wrong.
+
+Then there was a spark, and the hallway blasted up in flame.
+
+The rock braked, and sat down in place, marveling at the burning-gas traps. Was this a place where it could collect energy for free?
+
+The flames faded after a moment, engulfing the stone for but an instant, but still blackening its surface. The hissing started again, and soon there was more fire. And the rock let itself heat up.
+
+But it wasn’t that effective, the flames were so brief, it was barely staying positive in the energy department for the time it had to wait around.
+
+It decided to move on. Another energy shift, and back forward, at a nice and calm 15m/s.
+
+It got further in, having to pivot around a corner, then abrubly stopped as it came stone-to-stone with a wall blocking it. Vents opened above. A familiar hissing sound.
+
+Then two flamethrowers opened fire on the rock.
+
+The stone decided to sit back for a moment—satisfied. Finally it was getting proper treatment. These fires didn’t stop, so it got to patiently sit around and wait for its energy level to increase.
+
+Remaining stored Temperature: 200K
+
+ALERT: MAXIMUM ALLOWED TEMPERATURE REACHED! APPLYING PUNITIVE MEASURES!
+
+Punitive Damage received!
+
+HP 3/8 -> 2/8
+
+What was this? Was the <System> angry at the rock for how it was behaving? Punitive measures.
+
+The rock gave the air around it a mean glare, or you could at least imagine it doing so, then it began to move on. But... there was a wall in front… Perhaps it should just go through? It converted 10K into energy for itself, and launched at the wall.
+
+It blasted through the magical illusion, reaching the other side. A hulking monstrosity of flesh stood up in a vast room, looming over the stone. A goblin dressed in dark robes sat atop its head, barking commands, but it paused when it saw the invader.
+
+The rock paused too.
+
+The goblin [Necromancer] narrowed his eyes. Had somebody just thrown a rock inside his lair, through all that? Who would carry a rock so deep into a dungeon? Where was the invader it had been warned about?
+
+It instructed the flesh golem to walk in closer, to examine things. The lumbering giant took two steps forward.
+
+Then the goblin realized the stone was hot. A bit under 200 degrees warmer than it should have been.
+
+It realized something was wrong.
+
+Too late, it was close already. The rock pounced, using up as much energy as it was allowed.
+
+Collide activated!
+
+[Unnamed] Dealt 9.5 * 128.8 / 4  = 305 dmg to [Flesh Monstrosity of Dra'ith]
+
+New Velocity for [Unnamed]: 14.5 m/s
+
+It blasted right through the flesh golem, which was far too soft to provide any issue for the red-hot stone, destroying it in an instant. Then it attached a pivot point to one of the room's support pillars, one just a bit to the right and started rotating.
+
+All the way.
+
+Pivot Point activated!
+
+Direction: Right
+
+Rotation: 360°
+
+It circled the full loop back as the golem fell down, slowly crumpling, with a panicking goblin on its back. The golem fell down just a perfect amount, bringing the goblin to the perfect spot.
+
+The rock slammed right into the goblin, sending itself and it flying into the outer wall.
+
+Collide activated!
+
+[Unnamed] Dealt 6.2 * 128.8 / 4  = 200 dmg to [Great Necromancer Grogg]
+
+New Velocity for [Unnamed]: 5.5 m/s
+
+The goblin was squished in between a rock and a hard place, and the golem dissolved completely.
+
+Level up!
+
+259 / 150 xp
+
+Discarding overflow xp
+
+You have reached level 6!
+
+Stats up!
+
+Mass (m): 128.8kg -> 434.6kg
+
+Diameter (d): 0.46m -> 0.68m
+
+HP: 8 -> 13
+
+And the rock fell down, still holding quite a bit of heat inside it—ready to continue challenging the dungeon. The levelup made it grow a lot more than before, which satisfied it immensely.
+
+These things were just so handy! It had only rolled forward a small bit, and already it had been provided with energy charging and experience, free of charge.
+
+It rather liked these dungeon things.
+
+A door opened on the other side, and the [Rolling Stone] kept moving forward without hesitating more.
+
+Quest:
+
+Current Altitude: 5 257m
+
+Full Status:
+
+[Unnamed]
+
+Title(s): Line-Ender, Patient Ambusher, Bane of Demons
+
+🗿
+
+HP: 7/13
+
+Mana: 0/0
+
+Level: 6
+
+Experience: 0/250
+
+Class: Rolling Stone
+
+Sub-class: None
+
+Race: Gneiss Stone
+
+Gold: 0
+
+STATS
+
+Diameter (d): 0.68m
+
+Mass (m): 434.6kg
+
+ABILITIES
+
+Collide
+
+Steer
+
+Energy Shift
+
+Pivot Point

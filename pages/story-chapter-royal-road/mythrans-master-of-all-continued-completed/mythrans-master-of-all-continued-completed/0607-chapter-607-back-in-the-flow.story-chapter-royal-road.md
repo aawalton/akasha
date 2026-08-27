@@ -1,0 +1,237 @@
+---
+id: 7ff7b9ce-131c-5c73-89c0-2d7073ee2a3d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 607 - Back in the Flow"
+slug: 0607-chapter-607-back-in-the-flow
+partOf: mythrans-master-of-all-continued-completed
+position: 607
+ownLength: 2932
+unit: words
+publishedAt: 2018-06-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/223931/chapter-607-back-in-the-flow"
+royalRoadId: "223931"
+---
+
+“Frikara!” Ren exclaimed and hugged her tightly. “I missed you so much!”
+
+Frikara laughed. “It hasn't been that long.”
+
+“It feels like forever.” Ren said in a deep voice, and Frikara almost gasped at his emotions.
+
+“Oh, Ren.” Frikara said and kissed him. He kissed her back passionately and then they made love. He satisfied her and then moved on to the next maid and did the same to her, then the remaining three. Ren was frantic in his ministrations, so he was done barely an hour later.
+
+“By the gods.” Andrela whispered with wonder, since he had saved her for last. “What's gotten into you?”
+
+“Happiness.” Ren said and kissed her, then kissed the other maids. “I'll be right back. I just have to check a few things.”
+
+They nodded to him and he left the apartment. He was in the Main House at his county instead of the house in Aurora, and he wondered what else was different. While he was with Frikara and the others, he had an odd feeling that something wasn't right and he couldn't figure out what it was. He could feel Xuunah downstairs in her apartment as well, so he left the Main House and looked around. Everything seemed to be the same with all the businesses there.
+
+Ren ran up the street to the Pleasure Palace and touched the admittance square and asked to be let in, and there was no response. He used his Heat Sense to detect that no one was inside, and he sighed.
+
+It must be a private server, so no one else would be here. Ren thought to himself, then his eyes widened. “The Sanctuary!”
+
+Ren ran back down the street and saw that the Sanctuary he had built for the Sage Of Ages wasn't there. He sighed in disappointment, then he realized what it was that he felt was different. He ran across the road and into the warehouse and met Tee-one and Ruck... and no one else.
+
+“No.” Ren said and put a hand against the wall to support himself. “It... it can't be.”
+
+“Ren? What is it?” Tee-one asked, then his eyes widened as he received all of the information from Ren because of his inquiry. “Oh, no.” He said and put a hand over where his heart would be. “Artemis and Symmetra...”
+
+“...and their constructs, as well as Babylon.” Ren finished for him. “They don't exist yet, because we haven't made them.”
+
+“We're copies?” Teepo asked from his shoulder. “We're not the real ones?”
+
+“You're not copies.” Ren said and went to the forge and opened the door, and saw a much smaller version of the fire elemental, Zetaya. “You're backups. The old versions of yourselves saved a while ago.”
+
+“So, we're still us... but younger and less experienced?” Teepo asked and Ren nodded.
+
+Zetaya ran over to Ren and hopped into his arms, and he hugged the elemental close as he sat down. Ren cuddled the fire elemental and checked his status and skills. With that knowledge, he pinpointed when the actual backup had occurred. It was just before the Ghoulpocalypse World Event. That meant a lot of the things he had done and gone through hadn't happened yet.
+
+“Vasalor? Can you tell me what else hasn't changed?” Ren asked, and nothing happened. No popup or warnings appeared, either. “Vasalor? Hello?”
+
+When no response came, Ren opened the player menu and tried to search for the options that Vasalor had given him. When he found the references to individual security settings, he was not listed as 'Black'. Vasalor had given it to him after their meeting, which meant that meeting didn't take place.
+
+“There's no starter cities, no meetings with the High Elves, no...” Ren shook his head. “I've done so much with all of you since then... since now.” He said and pat Zetaya, and put the fire elemental back into the forge and closed the door.
+
+“Ren? What are you doing?” Teepo asked.
+
+“I'm leaving.” Ren said and walked out of the warehouse.
+
+“Ren...”
+
+“I know, buddy.” Ren said. “It's not fair, and it's not right.” He ran across the road and went inside the Main House. “I might be back if I can't fix what's wrong with the others, but...”
+
+“There's too much loss here for you right now.” Xuunah said when he opened the door to the building. Ren looked at her and saw her tears while that niggling feeling that something was wrong kept poking at him. She had gone through a lot since this point in time, including becoming his personal security guard, admitting her feelings for him, and breaking away from her people. That was a bit too much for Ren to accept as a loss without trying to fight for it.
+
+“I'm sorry.” Ren said and approached her. “If I can do what I need, I won't be-”
+
+“Shh.” Xuunah said and cut him off with a kiss. Ren kissed her back desperately, and he felt that barrier inside of her open up. He had felt it before, and tried to stop kissing her so she wouldn't go too far against her beliefs. Xuunah felt this and she decided that he was a strong man that deserved to have a strong woman stand by him no matter what. She broke the kiss and tore open her top to reveal her beautiful breasts, and Ren stared at them.
+
+“Take me as you deserve, Beloved.” Xuunah said, and Ren looked at her face.
+
+“Xuunah... I...”
+
+“Even if you never come back, you and I will always have this time together.”
+
+“Just... but you... give me a minute.” Ren said and cast the Portal spell. Teepo dissolved into the ring as Ren took Xuunah's hand and stepped through the portal. They appeared in the portal room in the Light Realm, and were greeted with a loud siren and a booming voice.
+
+“BREACH! Breach from a mortal!” A voice rang out through the room, and several floating balls of Light entered the room as the Mana of prepared battle spells crackled around them. Ren activated all of his Auras except for the few bad ones, and all the Light beings within 750 feet of him felt it. Xuunah gasped, because she was right beside him and hadn't felt it so powerful before.
+
+“Before you freak out, I am a chosen of Vasalor.” Ren said, and no one reacted. “So, you know what it means.”
+
+“Vasalor's gone.” Zagatro said as he floated into the room. “We don't know how a controlling essence can just vanish like that, but he did.”
+
+“He didn't vanish.” Ren said. “You did.”
+
+“Wh-what?!?” Zagatro exclaimed, then several of the Light beings flickered and dropped to the floor, unconscious.
+
+“You now exist outside of his influence.” Ren said. “I came here to tell you that when Xuunah decided to let me copulate with her.”
+
+“Xuunah!” Zagatro yelled. “You've been forbidden to...”
+
+“Shut up!” Ren commanded, and Zagatro stopped talking. “I can become a Light being and share myself with her completely.”
+
+More of the Light beings gasped at a human share-bonding with a light being, and fainted as well.
+
+“You... Xuunah... you can't...”
+
+“I didn't know he could, either.” Xuunah said and turned to Ren. “Will you do me that honor?”
+
+“I already have.” Ren said and kissed her. She was surprised by his emotions, as was everyone in the room, and then he stepped back and activated his Polymorph helm. Everyone that was still conscious watched in fascination as Ren easily transformed into a Light being, and his light was just a bit brighter than everyone else.
+
+“Great Vasalor.” Zagatro said as he felt the strength of Ren's Light, and then the room was suddenly filled with other Light beings that wanted to get closer to the bright pure glow. Xuunah's heart nearly burst out of her chest as she polymorphed back into her natural state and floated next to him.
+
+“Ren...”
+
+“I offer myself to you, fully and completely.” Ren said.
+
+Xuunah didn't say anything as she floated into him and they partially merged and share-bonded right there in front of everyone. It was usually a private ceremony that was conducted behind closed doors, but Ren didn't care. They stayed that way for several minutes, and Ren felt the strain of holding the form.
+
+“I... have to...”
+
+“Yes, we need to change back.” Xuunah said, and they both polymorphed back into their physical bodies. Ren cast Energize on both of them so they wouldn't collapse from the change, and he saw that she now had the same glowing mark over her heart that his Xuunah gained after their share-bonding. He was about to mention this when Xuunah kissed him. He was a bit surprised at first, but when he didn't feel any disgust from the other Light beings, he decided that now was the time to take Xuunah up on her previous offer of copulation.
+
+Ren took out a bed from inventory and laid Xuunah down on it, then activated his Hands of the Gods ability and chose Restoring Hands to pour pure Light out of them. He made sweet and passionate love to Xuunah, right there in front of everyone. They were all shocked at first, including Xuunah; but, they all wallowed in the Light that Ren was giving off and they couldn't begrudge two share-bonded polymorph beings sharing their bodies how they saw fit.
+
+Plus, they were all curious as to how it worked between physical beings, and they weren't disappointed by the show Ren put on for them. He made sure to truly satisfy Xuunah as much as she could take, and then he gave her a little more. He had to cast Energize on her several times to keep going, and after he was done, she stared at him like he was her entire world and nothing else mattered.
+
+“Beloved.” Xuunah said and snuggled in close. “I am yours forever.”
+
+Ren smiled and gave her a kiss, deactivated his Hands of the Gods ability, and looked around to see that they were completely alone in the room.
+
+“When did they leave?” Ren asked, and Xuunah shrugged.
+
+“After the first hour they started to drift away.” A voice said, and Ren looked at the booth where the portal controller sat, and saw a Light being floating there. “Once everyone realized it was just variations to apply different kinds of pleasure to a physical body, they left you to it.”
+
+Ren smiled. “Not you, though.”
+
+“I stayed to stop the incoming portals from slicing you in half.” The Light being said. “You are right in the middle of the aperture area.”
+
+“Thank you for looking out for us.” Ren said and equipped his clothing as he sat up. “What can I do to thank you?”
+
+“You can leave.” The portal controller said and Ren felt his amusement.
+
+Ren laughed. “Consider it done.” He said and helped Xunnah stand. She formed clothing around herself and Ren noticed it was both form-fitting and flattering to her figure, unlike what she wore previously. He held her close as he stored the bed and cast a Portal back to the Main House, then stepped through it with her. They appeared back in the hallway and Ren dismissed the portal as he summoned Teepo.
+
+“Ren, you...” Xuunah sighed and bent over slightly to give him a kiss. “Please come back, even just to visit.”
+
+“Xuunah, I... this...” Ren sighed as well. “I've advanced so far beyond what I am here now, and I don't know what else was left out.”
+
+Xuunah looked into his eyes and sifted through what their share-bonding had given her, and she nodded. “Without the influence of other players, this... version... of us will be different from what you know.”
+
+Ren nodded. “I need to try and fix the problems with the other... the original... then... if I can't...”
+
+“Don't worry. I will be your emissary here, Beloved.” Xuunah said. “All will know of your accomplishments, and none shall be ignorant of who you are.”
+
+“Xuunah, you don't have to do that.”
+
+“Have to?” Xuunah chuckled. “I want to.”
+
+“But...”
+
+“Shh.” Xuunah kissed him again. “You need to go before I bind you here with a grounding spell.”
+
+Ren smiled. “Goodbye, Beloved.”
+
+“Goodbye, Beloved.” Xuunah said.
+
+“Bye, Ren.” Teepo said and hopped over onto Xuunah.
+
+“Bye, Teepo.” Ren said. “Don't be sad.”
+
+“I won't be.” Teepo chittered in delight. “I'm joining Xuunah on her mission!”
+
+Ren nodded and stepped over to the wall and put his back to it. He put his hands on his hips and gave them a big grin. “Logout.”
+
+*
+
+Xuunah watched as his avatar faded into it's phantom form, and her strong connection to him faded to only a trickle. She dismissed her clothing and touched the slightly glowing symbol that had etched itself above her heart.
+
+“I love you, Ren.” Xuunah whispered, and then she felt a sharp pain. She was surprised when a copy of Ren's platinum armor slowly formed around her, which didn't exist here because he hadn't made it yet. It was white and gold like her old Holy Armor and it was so much more versatile. “What... what is...”
+
+A sword formed in her hand, one much more powerful than the one she normally had, and then large feathery wings slowly unfurled behind her. She flapped them and they lifted her up slightly.
+
+“Oh, Ren!” Xuunah exclaimed, then burst out through the door of the Main House and flew up into the air. Teepo chittered in delight as Xuunah showed him how fast she could fly.
+
+*
+
+Tee-one had just as much access to Ren's memories as Xuunah did, and he started to work. He was determined to make this place have everything Ren thought was supposed to be there, and the first thing he needed to do was make his friend with multiple arms to help.
+
+********
+
+Ren slid off the VR headset and looked at the expectant faces around him. “Well, it worked for the most part.” He said, and Elise sighed.
+
+“Ren, I'm sorry.” Elise said. “I didn't have a chance to check anything before getting it all set up.”
+
+“How?” Ren asked. “How can I have an almost full version of the game for my own personal use?”
+
+“I've had a server farm built in the crawlspace under the house.” Elise said.
+
+“Wait, did you say a server farm?” Stella asked, and she nodded. “How did you... no, never mind. You can keep that secret.”
+
+Elise chuckled. “I had the security guys vet and approve the installers, and it was done in only a few hours.” She said. “I wanted it to be a surprise, and I had hoped the backup for the entire game would have been the most recent one before the Water Works update.”
+
+“It's the one before the Ghoulpocalypse update.” Ren said. “I've seen and done so much since then that... well...”
+
+“It didn't seem as real.” Lisa said, and Ren nodded.
+
+“I could still feel them, and knew they were who they were and not just copies... but...”
+
+“Too much time has passed since then.” Elise said, because she understood the problem. “I'll shut it down...”
+
+“No, don't.” Ren said, and she looked at him with wide eyes. “If it's a backup before the Ghoulpocalype, there's a few things I can still do there before it happens.”
+
+“That world event is not going to happen there, Ren.” Elise said, and Ren returned her wide-eyed look.
+
+“What?”
+
+“There's no programmers to add in the details, or the update files, or the content files.” Elise said. “I also don't have access to them.”
+
+“Oh.” Ren said and laid on the bed and thought about it. “You mean... the world in there... as it is now with everything there, won't have any more updates because it's a closed system?”
+
+“It's not on the internet if that's what you mean.” Elise said. “I didn't want to take the chance that someone might find it and hack into it to try and get to you.”
+
+“Wow.” Ren said. “Elise... you amaze me.”
+
+Elise smiled. “So amazed that you can forgive me for giving you a much older version of the game?”
+
+“You didn't have much choice, did you?” Ren asked, and she shook her head. “Is what you did illegal?”
+
+“Technically, I paid for the backup.”
+
+“I hear a 'but' there.”
+
+“I didn't go through official channels, and I'm running it off-site from the main game.” Elise said. “It could be considered industrial espionage...”
+
+“Only if you were using it to develop your own version of the game.” Barbi said. “As far as I can see, all you're doing is running a private server.”
+
+“It's so private that it's just me in there.” Ren said. “It seems like such a great idea at first, and then you see things that are supposed to have other people involved and there's... nothing.”
+
+“Oh, Ren.” Lisa said and climbed onto the bed with him. “I'm sorry you had to go through that.”
+
+Ren smiled. “You don't know how disappointed I was that our Sanctuary wasn't there.”
+
+“It's not?” Lisa asked, then she thought about the timeline. “Oh, damn... you're right. There's so much we did during the ghoul event.”
+
+Ren nodded. “It was... well, I was a different person then.” He said, and everyone exchanged looks. “You know that old saying, 'if I only knew then what I know now'...”
+
+“You could... change the world.” Lisa said in awe, and he nodded again.

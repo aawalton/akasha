@@ -1,0 +1,171 @@
+---
+id: f593e6b6-016c-5eba-baaf-37815b0a0011
+page-type-slug: story-chapter-royal-road
+title: "260 A Bloody Compromise"
+slug: 0219-260-a-bloody-compromise
+partOf: the-new-world
+position: 219
+ownLength: 2385
+unit: words
+ownProgress: 2385
+publishedAt: 2020-05-31
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/503819/260-a-bloody-compromise"
+royalRoadId: "503819"
+markedReadAt: "2026-06-29T21:28:31.206Z"
+---
+
+Torix nodded, satisfied with my response. We watched as the others flew, walked, and woke up here. The feast lasted long into the night, so a few hardcore partiers were still laid out in the open. Hod, in particular, sat with his back on the stone steps, his belly swollen, and snoring loud as a foghorn. I gave him a telekinetic nudge, and the shadow birdman woke up. He  looked around,
+
+"What Hod miss?"
+
+I scoffed, "Nothing, yet."
+
+Krog and Chrona landed, and I sighed. I turned to them,
+
+"But you will miss quite a bit if you don't wake up. We've got a lot to talk about."
+
+Chapter Begin
+
+The giant, smooth-skinned gialgathens landed on the temple's terrace, their wings sending the sun baked air into gusts of wind. Krog remained the largest of the bunch, his orange and red hide sheening like fire. Chrona's slender form contrasted his own as her skin sheened a bright silver.
+
+Althea phased into reality nearby, and Spear walked from the center of Elderfire, sand still resting on his cracked pauldrons. Amara remained in Mt. Verner, but Kessiah returned with the members Schema sent us. Each of them narrowed their eyes and winced at any loud noises. The night of fun was kind to them, but the resulting hangover wasn't.
+
+I stood the tallest of the bunch, the dark gray of my armor sheening with a dull matte finish. Torix remained a few steps below me, his blue fire eyes striking amidst the sandy dunes and green forest tops. After exchanging pleasantries with the group, I turned to those here,
+
+"How is everyone holding up?"
+
+To my surprise, Althea was the first to answer,
+
+"We're doing okay on the espionage front. They've begun to recognize a few of our patterns, so we're facing more resistance. Uhm, other than that, we're still getting info and getting rid of important targets. Locally, I mean. We still don't know where the rebel's home base is or anything."
+
+I nodded, "Excellent. Anyone else? You can be honest here."
+
+A few of the gialgathens glanced at one another, but they didn't speak whatever it was they wanted to say. Krog sighed, "The others refuse to talk on the matter. I shall do so for them. These new battles we fight in...they are wearing us thin."
+
+Krog gestured towards the others with his wings, "The cities are but scorched earth, little remaining of them. We are basking in seas of blood and the cries of our dead. There is little to save left in the cities. They have all fallen to the infection of metal."
+
+He grimaced, his teeth chipped, and his lips split in places,
+
+"Culling those that have fallen to the Adiars is no easy task as well, but we lived on the saved lives of those we found and carried back. Now we're wafting like a red wind, crossing over Giess in a storm of death and decay."
+
+He peered down, "I do not know how much longer we can continue to kill."
+
+I crossed my arms while cupping my chin, "Thank you for your honesty. Does anyone else have anything else to add?"
+
+The others glanced at one another, but they stayed silent. Krog's thoughts encompassed their own and then some, his eloquence exceeding what they could muster. After letting his words sink in for a second, I raised a hand while uncrossing my arms,
+
+"We still have three cities to destroy before our mission here is complete."
+
+A sense of dread rushed over the soldiers. I continued,
+
+"This isn't to say we can't change our plans. We have options, and I wanted to get your thoughts before coming to a decision. For starters, The Empire offered us a different set of terms for a different offer. They've been attacked by the Adairs, and several of their major cities are being destroyed."
+
+I peered at those here, inspecting their reactions, "We would be able to save many more people, but it wouldn't be gialgathens. I understand if this is too difficult an option to concede. After all, I promised each of you that we would fight tooth and nail for the gialgathens."
+
+Krog boomed, "You've done so and more."
+
+The sign of respect rippled through the crowd, Krog's reputation legendary among them. A subtle smile ran up my lips, "Thanks. I know what I'm capable of, however. That means I could do so much more. For each of you, we can continue to save the gialgathens that are left."
+
+Telepathic murmuring rippled through the crowds, all of it open for others to hear. The general sentiment seemed mixed, a medley of arguments intermingling among the masses. Kessiah spoke up,
+
+"I know that I don't heal every gialgathen we save, but I do heal most. From what I saw, we didn't save almost any gialgathens last time. Like, literally less than one-tenth what we did last battle."
+
+Torix took a step forward, "If I may speak on the matter, perhaps I may illuminate the subject. As a point of beginning, let us review a few of the relevant statistics. Doing so shall paint a compelling picture of the battles, along with a few startling trends among them."
+
+He cast a few spells using his grimoire, and a 2-dimensional chart popped up above us. It showed the number of gialgathens saved. Torix pointed at the graph,
+
+"Here we may find that over 1,200 gialgathens were saved in Polydra. The next city of Astelle resulted in over 800 saved. Fausel gained us fewer members at only 489. Tholosa was a humbling success, resulting in only 42 saved Gialgathens."
+
+The lich shrugged, "If this trend continues, we shall save three to four gialgathens in the next city, and perhaps a single gialgathen in the next. This isn't to say that we aren't prepared for victory, but it is to call into question the meaning behind our current campaign."
+
+The necromancer spread his arms wide, his umbral cloak and dark bones sheening under the morning sun,
+
+"We gain little, but we will strike against the opponent with meaningful, terrible strikes. If we choose to save the Empire's citizens, then the difference shall be in the method behind our means. We shall save instead of cull. If each of you are exhausted with this systematic termination, then this is a fine alternative."
+
+The gialgathens peered at one another, even Krog sighing with a sense of dismay. With their decision made, Krog began speaking. Chrona's voice overwhelmed his,
+
+"I lack the fatigue that all of you suffer from. Weeks and months of battle can wear down even the most bloodthirsty's morale, and during my battles with Emagrotha, I too suffered from this same unease. However, I've thought about this campaign and kept track of it during this time."
+
+She raised a tail towards the graph, "This chart indicates the survival rates of the remaining cities, correct?"
+
+Torix crossed his arms, "Correct."
+
+"Then the survival rate of those outside of the cities of Giess may be different, isn't that right?"
+
+Torix slowly nodded, "Hmmm, that is correct."
+
+Chrona turned towards the others here, "That is the crux of the issue. From the battles I've seen, the Adair's focused their efforts on the densest population centers of gialgathens. The reason for that is the same reason we struggled against Lehesion."
+
+Chrona tapped the side of her head with her tail, "Limited resources. They are taking the most efficient course of action available to them, and we can use their lack of coverage against them. We ride through the smaller cities, gathering those that aren't infected."
+
+Torix's fire eyes narrowed to slits, "That is a possibility I've considered before, but I discounted the possibility. There are no doubt many more gialgathens to save that escaped the cities. The difference is in informational leakage."
+
+The dark lich spread his arms, "We can contain those that we saved in the cities since they are specific numbers and relatively contained operations. Saving those in rural towns requires sending out far smaller groups at a time, many of them lacking any mental defenses."
+
+He raised a finger, "This means that if they are intercepted and captured, the location of Elderfire can be ascertained. While this threat remains in the cities, we can mitigate this risk by keeping our troops psionically connected."
+
+He shook his head, "There simply isn't the same level of security with our forces thinned."
+
+Chrona tilted her head, "This may be true, but can you not act as the vanguard of this campaign? We need only one mobile group to scour the countryside for survivors. I could act as your companion along with the warpers present here. This would result in a steady stream of incoming soldiers, and we wouldn't need to fight the wars waging in the cities."
+
+The gialgathens present perked up, many of them enjoying the prospect of saving their brethren. Torix tapped the side of his temple,
+
+"Though I would love the prospect of helping others, I am necessary for the campaigns in either Giess's cities or on The Empire's worlds. I cannot manage the campaigns, organize the logistics such as food and housing, and continue a high effort campaign of roaming the countryside."
+
+I shook my head, "Actually, I don't think so."
+
+Torix turned towards me, taken aback, "Really? Have I contributed so little to our cause?"
+
+I raised my palms to the guy, "No, it's not that. It's just what we're doing isn't actually saving. We're doing from here on out is killing what's left in the cities, right?"
+
+"Well...perhaps."
+
+"I'm the only one needed for that."
+
+The crowd went silent. A new dread radiated through the crowd, one not for the enemy but for me. I understood the sentiment. I killed more than everyone else combined and then some. If anyone could wreak havoc unimpeded, it was me. I was our guild's ace, the trump card, so to speak. Even without support, I could do what was necessary.
+
+The thing was, I wasn't just effective at taking the enemies out. I was safe as well. I could burrow deep into the ground if Lehesion ever came back. If other more evolved Hybrids came and ganged up on me, I had the mental defenses necessary for the task. I wasn't some mind magic master, but I could hold my own, given my enormous willpower.
+
+This set me up for blitzing the enemy; I could run in, hit hard, and get out before they could retaliate. If anything, my tactics could change entirely. I no longer needed to keep my allies safe. I could focus solely on mass destruction on a wholly different scale. I mean, why not just orbitally bombard the cities until nothing remained?
+
+This embued me with an overwhelming sense of confidence. That certainty did not go unnoticed by my soldiers and those present. Considering my track record, it wasn't as if I hadn't proved I could back up what I said either.
+
+With that in mind, Krog smiled at me, "And so he is the Harbinger of Cataclysm." He turned to the other gialgathens,
+
+"What else is to be expected? He is the coming of calamity. He is living metal, a kind stronger than the metal infection the enemy uses. He may devour them if he so chooses, or perhaps he'll rend them apart in a splatter of orange blood?"
+
+Krog turned towards the other gialgathens,
+
+"It will be what they deserve regardless."
+
+The gialgathens crooned into the air, their haunting songs reverberating like death and decay. I turned to them, knowing they wanted me to be the monster that killed instead of them. I stared at my hands, but the hesitation lingering. Was this who I was meant to be?
+
+It felt like it. Everything that happened since Schema arrived seemed to bring me to this moment like some unseen hand was pulling me into a coming darkness. I could fight it as much as I like, but in the end, it felt almost like some inevitable fate. Taking on these cities alone could only be done by me.
+
+If I chose not to cause the calamity, then many more would die from the Hybrids the Adair's created. If I stayed my hand, then the enemy would use the converted for converting even more members. Despite my dread, it was the most logical, effective means at our disposal.
+
+Regardless of my decision, blood would be on my hands. I merely decided whose blood I would wash them with.
+
+I closed my fists, turning towards Torix,
+
+"What do you think?"
+
+Torix rubbed his temple, "I...It seems as though she's put a measure of thought into this. It seems sound. I would recommend sending at least a few of our troops to the Empire to act as guides for their army. They could inform them of the enemy's tactics while advising them in real-time."
+
+The lich lost his words,
+
+"Aside from that...There's nothing to say. We shall give them The Empire any relevant information we have. When Giess is glassed, we shall begin sending many of our troops to help a week before this planet is glassed. During that time, you could unleash a real catastrophe across their forces.
+
+I turned to the others, "Does anyone else have any objections?"
+
+No one spoke, though Althea seemed stricken with a sense of unease. Aside from her, everyone else peered at me with expectation. In the end, my doubt died at that moment.
+
+I was a monster of my own making, a beast with a bottomless belly. I would ravage the lands and leave nothing left in my wake. The scars that lingered would tell a tale of an endless, immortal being, one drenched in blood and mana. Their spirits would carry the cries of the dead, and their lands would carry the corpses of those that remained forgotten.
+
+I raised a hand, clasping it into a fist. From it, auras of red and white intermingled like blood and milk,
+
+"When I'm finished, I'll be the scary story they tell their children." As I finished speaking, the gialgathens roared in unison, a resounding boom that echoed through the desert dunes.
+
+They would be the saviors of many.
+
+And I...I would be the butcher of all.

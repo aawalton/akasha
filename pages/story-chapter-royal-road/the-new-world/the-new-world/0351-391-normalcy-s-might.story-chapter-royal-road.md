@@ -1,0 +1,449 @@
+---
+id: 5ca60575-445d-55e8-9ebe-ff9b2acbff0b
+page-type-slug: story-chapter-royal-road
+title: "391 Normalcy's Might"
+slug: 0351-391-normalcy-s-might
+partOf: the-new-world
+position: 351
+ownLength: 2517
+unit: words
+ownProgress: 2517
+publishedAt: 2025-03-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2115714/391-normalcys-might"
+royalRoadId: "2115714"
+markedReadAt: "2026-06-29T21:33:19.142Z"
+---
+
+Finding his cause of concern, Plazia rested on a basalt throne in the middle of the room, having moved a few bookshelves to do so. Torix rested on a leather couch like Diesel, and the lich's metal skeleton gleamed darkly in the lamplight. As he approached, he turned to me.
+
+"Ah, Daniel. You mentioned issues with a number of projects."
+
+His fire eyes flared.
+
+"Perhaps we may be of assistance."
+
+Chapter Begin
+
+I walked over, flopping down into a gravity. I drifted in a cozy posture.
+
+"So here's the problem: the golems are wrecking balls. If the whole expansion program is going to work, I'll need to give my guildmates golems for protection. However, it's like handing over a walking nuke to hundreds of people. I can trust most of the guild with them, but having even one of these things freak out would be beyond horrific."
+
+Plazia cackled.
+
+"They carry the potential of their maker? That must include your intelligence as well."
+
+Several of my minds joined the conversation.
+
+"Ooh, that must count for your bugs as well. How many tests are they passing these days?"
+
+Plazia leaned forward.
+
+"Several. I have quite a few underlings that expand my knowledge along a variety of subjects, the least of which involves pacifism."
+
+I snapped my fingers.
+
+"Dangit. I've lost this round of banter. Curse you oh so smart, hivemind. Anywho, when I went to a town, one golem obliterated half of it to eliminate a few rats."
+
+Plazia tapped the edge of his throne.
+
+"It would seem they mirror their maker's restraint as well."
+
+Diesel coughed into a hand.
+
+"Ahem, not that I question your judgment, but uh...What am I here for?"
+
+I raised my hands.
+
+"You worked with me when I first made the golems and their iterations. I figured you could help brainstorm some ideas."
+
+Diesel nodded.
+
+"Ok...But you guys look like you have it locked down. Especially with these two ancient world eaters."
+
+With his hands raised, Diesel turned to Plazia.
+
+"No offense."
+
+Plazia stared through the mortal.
+
+"The truth does not offend me, engineer."
+
+I rolled my eyes.
+
+"No one's eating worlds here."
+
+Plazia's voice echoed in the frame of his Sentinel.
+
+"No one is as of yet."
+
+I narrowed my eyes. The hivemind steepled his hands.
+
+"You humans do have a sense of humor, or was I wrong to assume as much? Everything is taken so literally. It's stifling."
+
+Diesel lowered his arms.
+
+"Ah, thank god that's a joke. If that's the case, I'd like to add that you are scary as hell, uhm, sir."
+
+Plazia leaned on his throne, his posture lax.
+
+"Scary, hm? Fear is merely an awareness of a threat. The forces you put yourself near are all capable of killing you, yet they choose not to. All societies exist within this framework. I am no different in that my incentives take away my fangs and claws. They are aimed elsewhere since my obligations override my desire to kill those around me."
+
+Plazia tilted his head.
+
+"What evokes that fear is simply the transparency of my threat. The pretense of safety has been peeled away, but you should know you were never truly safe. Despite that, you lived without fear mere days ago. Life is odd in that regard, isn't it?"
+
+Diesel stammered.
+
+"Uhm. Sure."
+
+Plazia laughed.
+
+"As your scholars would say, you have nothing to fear but fear itself."
+
+Torix gave Diesel a knowing look. The necromancer said,
+
+"Rest assured, this hivemind is more intimidating in appearance and posture than in his personality. He's gained an admirable and nearly perfect control over his insidious nature. While it is true that he grapples with a relentless hunger and desperate desire for growth, he has conquered it."
+
+Torix scoffed.
+
+"How has he done so? It's...Somehow. To be frank, I still haven't understood how he's done so."
+
+Diesel frowned.
+
+"Is...Is that supposed to make me feel better?"
+
+Torix turned a palm to him.
+
+"Of course. Someone of good nature simply acts as an animal would; they follow the path of least resistance. Their goodness is a situational trait, one that can shatter given a difference in motive. In fact, I have often seen people mistake their harmlessness for true virtue. When given power, their actual nature seeps out like a poison."
+
+Torix pointed at Plazia.
+
+"He is a different animal, figuratively and literally. Despite compelling reasons to kill, he has chosen not to. That demonstrates self-control, and even when given other reasons, he still decides against it."
+
+Plazia let out a slow laugh. He raised his gaze, peering down at Torix. The hivemind said,
+
+"That you know of."
+
+Torix steepled his hands.
+
+"And I know more than you may imagine."
+
+A competitive flame flared between the two. I pointed at them both.
+
+"Which is why you're all here. I need someone to help me fix these golems."
+
+With quiet desperation, Diesel leaned forward.
+
+"Yes. Please. What's the issue?"
+
+I frowned.
+
+"They are annihilating everything I get them close to. I'm talking utterly pulverized."
+
+Diesel's heart rate spiked.
+
+"Ahem. Is that issue a problem with the golems around here?"
+
+The poor guy probably lost a few years of his life just from this conversation alone. I shook my head.
+
+"I used blue cores to help stabilize them. It gives them more finesse. For the golems heading all over Earth, I'm trying not to use the same strategy."
+
+I explained how they worked and my material limitations. Plazia tapped his fingers on his throne.
+
+"These radiant blue cores are a limited resource?"
+
+I nodded. Plazia rolled his head, gazing at the ceiling.
+
+"Only so much meat on the bone? You may harvest more, but a hunt of such magnitude requires time to enact. Hm."
+
+Torix tapped his index fingers together.
+
+"Time we haven't had considering our plethora of distractions. Hmmm."
+
+Diesel crossed his arms.
+
+"Have you tried making them smaller?"
+
+Plazia shook his head.
+
+"An ounce of him is like a mountain. The golems need control, not weakness."
+
+Diesel tilted his head.
+
+"I don't know about that."
+
+The hivemind and necromancer turned to him. Diesel gulped before he leaned forward.
+
+"Hear me out. I know a carpenter isn't supposed to blame his tools, but bringing a jackhammer to nail down a board does more harm than good."
+
+Plazia leaned towards him.
+
+"You believe this planet's safety is the nailing of a board?"
+
+Diesel frowned.
+
+"No. It's the building of a house. We need people and supplies, not walking nukes, as the guildleader put it."
+
+Torix pointed his hands to me.
+
+"What if we used our own members as pilots of sorts?"
+
+Diesel's eyes widened.
+
+"Like giant mechs?"
+
+I grimaced.
+
+"That would require connecting them psionically, and the mental output of the golems is more than enough to drown the minds of anyone using them."
+
+Diesel bristled.
+
+"Like, drowning in water? How does that work?"
+
+My eyes grew distant.
+
+"It's more like...Flooding. Your mind washes away in a sea of thought."
+
+Torix sighed.
+
+"That's a false equivalency. It's much more akin to being lost in a relative infinity."
+
+Diesel pointed at me.
+
+"His explanation makes more sense."
+
+Torix scoffed.
+
+"Of course it does. He's described only a portion of the concept."
+
+Diesel met the necromancer's eye.
+
+"It's the part we need right now."
+
+Torix glared down, and Diesel paled. Torix nodded.
+
+"That's very true. Apt observation."
+
+Plazia rumbled through the ground.
+
+"What of using our enemy's tactics? We could use psionic implantation as Elysium does. Perhaps human consciousnesses could supplant the golem's minds."
+
+My gaze sharpened.
+
+"Anything from Elysium's off the table."
+
+Diesel crossed his arms.
+
+"It sounds like they need more settings."
+
+I raised my brow.
+
+"Settings? Like a game?"
+
+Diesel shook his head.
+
+"No, more like a blowtorch. You can twist a knob on most to blow hotter or cooler flames depending on what you need, how much protection you're wearing, or where you're using one. You wouldn't want it to be on full blast when making a creme brule, for instance."
+
+He winced.
+
+"I'd know. I couldn't even recover the bowls. Like, they were burnt so bad."
+
+I leaned back, mulling over the idea. I let my arms flop to my sides.
+
+"Why didn't I think of that?"
+
+Diesel shrugged.
+
+"When was the last time you used a tool?"
+
+Torix pressed two fingertips together.
+
+"Since a pre-Schema era, I'd imagine. Now, I believe that's an excellent idea and should be implemented. However, I'd like to advocate for my academy."
+
+I leaned forward. Torix waved his hand around us at the students.
+
+"I've been investing my time and effort into this place for several years. Quite a few different classes have graduated with different fields of knowledge. I could access their readiness for this project before sending them off in teams."
+
+I nodded my head.
+
+"You do know them better than I do."
+
+Plazia tilted his head at me.
+
+"You are what you do and have done. You wage war, so you know little of peace and prosperity."
+
+Diesel's eyes sharpened.
+
+"Yeah, that's because he's too busy shouldering the war while we work on the peace. It's a give and take, really."
+
+Plazia laughed. He oozed his words from the walls.
+
+"Who is giving and who is taking?"
+
+Diesel furrowed his brow before looking at me.
+
+"Keep doing what you do, and we'll stick to what we know. I can develop the list of settings with a few of my engineering buddies. Torix can get the right people on board for the job. We might even have Ophelia help-"
+
+Diesel peered away, wincing.
+
+"Oh, man...That's right. She passed away in the lottery."
+
+A piece of me hollowed out hearing him. My hate for Elysium grew greater.
+
+Diesel sighed.
+
+"We'll manage. I'll need Amara's help for the cipher, but we'll get it done. I got a pass from Schema to work with the language, which is great. I was worried I'd be stuck at level 1,550 forever."
+
+My eyes widened.
+
+"Wait a minute...You were exiled from the system?"
+
+Diesel blinked.
+
+"Well...Yeah."
+
+I tilted my head.
+
+"Why didn't you say anything? I might have worked around it or something."
+
+Diesel raised both hands.
+
+"People's lives were on the line. We didn't have time to brainstorm complex ways of managing communication like that. The team and I decided to bite the bullet to save time and a few lives. Cipher legality or not be damned."
+
+His eyes hardened.
+
+"Getting exiled was worth every life we saved...But I wish I could've gotten the golems operating a bit earlier."
+
+Sights of spilling blood, sounds of breaking bone, and screams of death passed over his eyes. Diesel nodded, his voice cracking.
+
+"Yup...Just a bit earlier."
+
+Torix placed a hand on his shoulder.
+
+"Such is life. It is frail, and we do what we can to preserve it."
+
+Diesel scooted up in his chair while wiping his hands on his pants. Plazia turned a hand to them.
+
+"Your plans are built on a trust in humanity. Perhaps too much."
+
+Torix gestured to me.
+
+"You've seen what humanity can do."
+
+Plazia droned.
+
+"I'd hardly call him human. As for the others, those that are weak...They are the ones you should fear. They may devour one another with glee given the chance."
+
+His words stung like breaking open an old wound. Diesel furrowed his brow.
+
+"You've had a problem with us from the start. What's the problem with us humans anyways?"
+
+Plazia hummed his words.
+
+"Your kind are disjointed, unorganized, and desperate. If you put starving lambs together, even they will devour one another should their hunger grow great enough. And I know of hunger. It drives all mad in time."
+
+Diesel spread his hands.
+
+"We're not lambs. We're people."
+
+Plazia leaned forward.
+
+"And people break."
+
+Diesel stood up with a fire in him.
+
+"I'll be happy to show you what humans can do when we put our minds to something."
+
+Plazia laughed. He leaned back into his throne.
+
+"I'll believe you when I see it."
+
+Diesel turned to me.
+
+"Do you mind sending me the golem specs over messages? We need the references."
+
+I pulled out my grimoire.
+
+"I'd be happy too."
+
+As I did, Diesel pointed at Plazia.
+
+"Remember this."
+
+Plazia's voice rumbled.
+
+"I never forget."
+
+Diesel walked out of the library before Torix stood up. A hovering ball of dominion mana supported him as he said,
+
+"I'll collect the needed people. We'll call off a few of the projects I have planned, especially around a few odd dungeons, but we'll adjust as necessary."
+
+My curiosity peaked. I stood up with the sorcerer.
+
+"Odd dungeons. How so?"
+
+Torix waved his hands.
+
+"Oh, that? It's nothing worth your time."
+
+I shrugged.
+
+"Maybe. Can I hear about it at least?"
+
+Torix turned to me.
+
+"Oh, certainly. A few of our dungeoneering brigades have returned from Chicago talking of an 'uncloseable dungeon.' I'm almost certain they merely lack the required competence to close the rift, but I'm sending scouts to assess the situation. This would lead to their demotion if their claims are proven false, after all."
+
+A chill ran up my spine. Something was off.
+
+"Did they say why they struggled with the dungeon?"
+
+Torix rolled his eyes.
+
+"Apparently, the dungeon does not end."
+
+I scratched the back of my neck.
+
+"Interesting. Do you mind if I handle it?"
+
+Torix leaned back.
+
+"A dungeon? I'd hate to waste your time with something so drab and trivial."
+
+I let my arm drop.
+
+"I remember visiting Chicago a while back. I'd like to see if they made any progress since I last went. Besides, I have to wait for Diesel to finish the limiter on the golems anyway."
+
+"Then consider the task sent." Torix turned to Plazia. "Ah yes, hivemind, do know that insults to these people's competence are also insults to my teaching."
+
+Torix's eyes flared.
+
+"And I am the Harbinger's Erudition. Perhaps you need it proven."
+
+Plazia stood from his throne, basalt sinking into the floor and leaving no remnant of it ever having been there. Plazia menaced.
+
+"Then show it or feel the weight of your inadequacy."
+
+Torix turned, floating through a warp leading to his research center. As the portal closed, Torix clapped his hands together.
+
+"Listen up, younglings. We have much work to do, and I have a task none of you shall fail. None of you."
+
+As the jaws of the warp snapped shut, I linked my mind with Plazia.
+
+"What was that all about? Are you trying to piss them off?"
+
+Plazia laughed aloud but thought in a whisper.
+
+"At times, a man only needs a monster, and he will find his fury. And I have no alms with being a monster if that is what is needed."
+
+I tapped my side.
+
+"Ah. You're giving them something to fight for. Be careful with manipulating people like that. You lose people's trust."
+
+Plazia's words echoed in my psyche as if many voices resonated.
+
+"Noted. What of your plans?"
+
+I cracked my knuckles, the sound like cables snapping underwater.
+
+"I'm going to see what makes a rift uncloseable."

@@ -1,0 +1,205 @@
+---
+id: 84129e71-ce93-50b7-b43d-211e94d462a3
+page-type-slug: story-chapter-royal-road
+title: "194 Another Realm"
+slug: 0153-194-another-realm
+partOf: the-new-world
+position: 153
+ownLength: 2596
+unit: words
+ownProgress: 2596
+publishedAt: 2019-03-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/346347/194-another-realm"
+royalRoadId: "346347"
+markedReadAt: "2026-06-29T21:26:03.737Z"
+---
+
+I watched the edited footage, a seed of genuine hatred forming in my chest. The video editors connected the footage in such a way that I hated the gialgathens, and that I supported Thisbey. The news report had never been live. It was a staged act, spreading propaganda for Thisbey's media campaign.
+
+It was a good thing I filmed it. Even then, it felt ridiculous that this kind of bullshit was even allowed.
+
+"Why are they allowed to do this? Surely this is illegal."
+
+Kessiah shrugged, "On some planets it is. Giess doesn't really have a government to look after this kind of thing. It's too spread out and chaotic for that. It's a, 'If there's no one to report the crime, then no crime was committed!' sort of thing. Sucks for sure."
+
+Torix stepped up into the forest clearing, pacing out of the stairs behind us. With his arms crossed, "Well that interview was a disaster. IT seemed rather unlike you. Perhaps an explanation is in order?"
+
+"They framed me," I stated with a shrug.
+
+"Ah yes, of course they would. Hmmm, this is a rather testy predicament we've found ourselves in."
+
+I pulled out my obelisk, "Not really." I showed the footage of myself, "For once, I thought ahead and recorded everything before it happened."
+
+"Well well Daniel. I'm impressed. I believe this should be all the proof we need that your words and intentions were altered."
+
+"Where am I supposed to post this video? Is there a site for it or something?"
+
+Kessiah bit her lip, "So, I've got bad news about this. You know, great idea and all to record the footage. Posting it won't matter much though. No one will see it anyways."
+
+Torix cupped his chin, "Perhaps you could explain why that is?"
+
+"See, here's the thing. Very few people own an obelisk on Giess anyway. Even if you could get your video up on a dozen different sites, no one on Giess would see it. You'd be putting your word against the media corporations too. That would be hard to pull off, and we don't even have two months too pull that off."
+
+Althea chimed in, "Why don't people have obelisks though? They aren't expensive or hard to get."
+
+Torix gestured a hand to Althea, "Obelisk operate on your personal reserves of mana. Considering the lack of leveling or use of personal mana by most espens, obelisks are out of reach despite being subsidized by Schema."
+
+"But couldn't he get it posted onto some news channels maybe?" Althea chimed.
+
+I scoffed, "Yeah, Thisbey would shut that shit down in seconds. His hands in the pocket of everyone on this damn planet."
+
+"Ok, so it's not all bad though," Kessiah said while spreading her hands. "Those revolutionaries are going to spread like wildfire after seeing this. That means they clear the dungeons, which helps a lot with clearing out Giess."
+
+I grimaced, "We're sending them on a witch hunt. It doesn't sit right with me to start a race war to help save Giess. Sure, the revolutionaries might kill off the silvers and eldritch and take back Giess. Whoopdy-fucking-do. They'll do to cull an innocent species. I'm no saint, but that's fucked."
+
+I shook my head in disgust, "At that point, what would we be saving?"
+
+The group replied with somber silence. Althea rubbed her forehead with a hand, "It's so hard to win this fight. We're fighting on Thisbey's home turf, in a battle that he's so good at. Thisbey is probably organizing the revolutionaries right now and making obelisks outlawed in their groups. He's probably feeding them a bunch of lies, and then the people start to believe them...Just like with Yawm in the lab,"
+
+Althea's eyes hollowed, "It's like everyone just feeds on each other. The worst part is, the bigger the lie, the easier it becomes to believe. Uh, at least from what I saw."
+
+I shook my head, "Not quite that grim, though I can get your reaction considering the situations you've been in. Still, I can't help but wonder what Tohtella is even doing?"
+
+"I imagine it's quite difficult for her. Thisbey was born and raised on this planet. She's an outsider, so she doesn't fully understand the culture and influences here," Torix said.
+
+Kessiah rolled her eyes, "Uh huh, sure. From what I can tell, she's just incompetent."
+
+"I'd hate to agree, but yeah. That's what this shit looks like. She's getting throttled during this entire media campaign. It's weird though. The Overseer seemed to think she was pretty intelligent. So far, she's failed miserably at, well, everything."
+
+"Uhm, she did seem stressed last time we saw her." Althea crossed her arms. "I can't even imagine having that much on my plate. I'd crumble."
+
+I grabbed the side of my head, "Hmmm, this shit's complicated."
+
+"It's not too bad though." Kessiah said. "You can just post the video during the fight while the cameras are rolling. Thisbey might have the stream shut down before you can show the entire interview, but maybe not."
+
+I snapped my fingers, "How didn't I think about that? That'll put Thisbey in a very, very shitty position. Hell, he might have dug his own grave with this one in fact."
+
+Torix opened his status, "Well, the Harbinger, Lich, and Arbiter can't think of something that simple...Perhaps you should be running the media campaign instead of Tohtella."
+
+Kessiah stood up straighter, "About damn time I point out something you guys missed."
+
+"Now, on to the next matter at hand," Torix spread his arms. "Perhaps we can ascertain the location of Emagrotha and Lehesion's battle site?"
+
+"The only hint I've got is from Chrona." I waved my hand, trying to remember. "She mentioned that Lehesion drained his surroundings to gain enough mana to defeat Emagrotha. Millions of lifeforms dead, standard apocalypse stuff."
+
+Torix tsked, "What an amazing revelation. Truly noteworthy."
+
+I narrowed my eyes while tapping the side of my head. A few moments later,  an actual revelation popped into my head, "Wait a minute. If Lehesion drained that much mana, then he must have created a ridiculous amount of mana pollution."
+
+Torix's fire eyes grew larger, "Wait...that kind of cataclysmic event would leave an ocean of sludge behind."
+
+I pointed at the lich, "And we know where an ocean of that gunky bullshit is."
+
+Kessiah pursed her lips, "We do?"
+
+Torix moved his hands across his status screen, "In fact, it's quite close to where we warped on Giess. Remember how Daniel carried us over that purple ocean that had been walled off? That is by far the largest concentration of mana pollution we've seen on Giess."
+
+Althea raised her hands, "So, hm...that means they fought somewhere there."
+
+"Precisely. In fact, they most likely fought at the bottom of the ocean there. The mana pollution came thereafter." Torix said.
+
+I gripped my hands into fists, "Yes. We got a lead now."
+
+"I'll analyze our flight path and gather historical records of the wall's construction surrounding the indigo ocean. Using a bit of geometry, I should be able to get a rough estimate of the sea's center." Torix said.
+
+Althea raised her hand, "I'll get the location of Thisbey."
+
+Kessiah glanced at Althea, "What for?"
+
+"To kill him," Althea said with a frown.
+
+"Oh..." Kessiah mouthed. "That's going to raise your bounty. You sure that's worth it?"
+
+Althea scoffed, "Uh, yeah. I'm sure."
+
+Kessiah crossed her arms, "Well then...I...I don't know what I'll do."
+
+Torix gestured a hand to her, "What? That's preposterous. You can simply practice that healing magic you asked me about."
+
+Kessiah stared down, "Could you shut the hell up, please?"
+
+"Now why would I do that? You came to me practically begging for healing magic manuals. What did you say exactly? Hm, something like, 'I want to help save my friends!' Torix finished his words with a high pitched, mock voice.
+
+"When you wondered what to do, I believed it necessary to remind you of the conversation." A strange glee injected into Torix's voice as he continued, "I interjected my own thoughts in the most polite manner possible. That's all."
+
+Kessiah flushed, embarrassed about trying to learn the magic. Althea hugged her, lifting Kessiah up in the air, "Ahhhh, you really do care."
+
+"Let me down you shape-shifting, mini-brute," Kessiah gasped while shoving her holder. Althea held on with utter ease, overpowering Kessiah like she was a child. With one last squeeze, Althea set her down. The remnant sent Althea and Torix a dirty glare,
+
+"Oh, you'll both pay for that one."
+
+Torix waved a hand, "Whatever are you talking about? We did nothing wrong."
+
+Althea just grinned at her. I found the scene heart warming and painful at the same time. Kessiah's history with her Blood Arts made for a touchy subject. Torix's sadism was leaking out a bit, but he meant well at the same time. It wasn't like Kessiah could hide her lessons forever. Better to break the ice now than wait until it was some massive undertaking to tell the truth.
+
+Althea played along and tried distracting Kessiah. In their own way, they were trying to take care of her. It reminded me of guys at my gym who'd roast some guy after he lost a boxing match. Even if it was rough at first, it stopped the loss from lingering. By teasing their friends, they toughened them up and stopped them from having soft spots.
+
+I always looked at it like training. It was a bit too tactful for me though, so I stayed quiet. Better to let the pros handle it. Besides, if I said anything, I'm sure I'd make an ass of myself.
+
+Kessiah looked like she was embarrassed a bit about caring for us too. If anything, I admired her for that line of thinking. If I was honest with myself, I hadn't seriously considered healing magic at any point. It paled in comparison to my regeneration, but ultimately, I was too selfish for it. It wasn't in my nature.
+
+Still, it was time to get a move on. I clapped my hands, interrupting their chitchat.
+
+"Alright, let's get going guys. We've got a lot of work to do."
+
+The group straightened up, and I walked downstairs. As I did, Torix and Althea opened up their statuses, getting to work on their own projects. Kessiah followed me downstairs before stepping into her room. I sat down on a chair I crafted out of stone, setting out on my own task.
+
+After an hour of research, I found nothing about Chrona Carsiary. For a famous general, there was little known about her. Her powers, tactics, and techniques all hid from everyone's point of view. They basically boiled down to, 'she moves really fast.' That's a given considering the level of competition this high up in the tournament. The only other tidbits were that she made other people slow. Great. Real helpful.
+
+Without much to go on, I opened my grimoire and focused on etching in the blueprint I created while searching for Mt. Ash. Its complexity threatened to overwhelm me. The dozen pages of the outline evolved into a novel's worth of work when I began carving out the actual project. Despite the nigh-infinite workload, the task cheered me up. It felt good to spend my time on something meaningful.
+
+With a focused intensity, I mulled through the challenging project, passing the time until the fight fast. I kept at the project even while walking to the stadium, my thoughts absorbed. Kiki Most hyped up the match, but I enraptured myself in the task at hand. I also carved after jumping into the arena, pissing off many gialgathens who booed me to no end. Surprise, surprise, they hated me now.
+
+When I revealed the video, their jeering would make my redemption even better.
+
+Kiki Mosk announced above me, "Are you ready, Gray Giant?"
+
+"Yup."
+
+I had already charged enough mana for a singularity at this point. Even dimly aware of Kiki's voice, I wasn't about to let myself start with a disadvantage. Chrona thought the same, having a blue ball of mana floating above her. It sent out dimensional ripples, its power vast. With my blood saturated in mana, I mirrored her preparations, both of us ready to wage war.
+
+I closed my grimoire shut and put it in my pocket dimension. I glanced up at Chrona who snapped at me with a telepathic wave,
+
+"Are you finally done with your reading now?"
+
+"Carving, actually."
+
+"Oh, carving into pages. That's new."
+
+"Eh, it's easier that way when the pages are like rock."
+
+I raised my hands, both my fists harder than iron. Around us, the lava bubbled with the small steel arena hot as a frying pan. Chrona's white, smooth skin glowed with mana. Her eyes pierced at me, her confidence resolute despite my own victories being dominant. I was okay with that. Good on her.
+
+Before the battle began, I glanced up while pulling out my obelisk. I intended on recording the fight to show that the obelisk recorded events reliably. As I prepared the device, Ddzens of camera men floated around Chrona and I. Above them, the same massive zeppelin floated over us as before. Thisbey was mysteriously absent. Wow. Who'd of guessed?
+
+With my obelisk set, Kiki Mosk sighed, "Well it's good to see the Gray Giant put that damn book away! Both fighters may begin."
+
+I peered down, reorienting with the fight. I reached out a hand, aiming a singularity at the center of Chrona's chest. Before I cast my spell, Chrona's blue ball of mana ushered forth a massive dimensional ripple. Around me, large swaths of magma hardened as she drained the mana to fuel her spell. I didn't even feel the ripple, but it still left me stunned nevertheless.
+
+I stood still because of the ripple's effects around me. My singularity should have killed Chrona already. It didn't though. In fact, it took a full ten seconds before it started forming at all. I even shook my hand like it was a broken remote for a TV. Confused as hell, I stared at Chrona who already crawled away from the spell. I smashed my hands together, wondering if she had some antimagic at her disposal.
+
+It was her turn to be surprised. She gawked at me in amazement, her utter confidence draining from her face. Chrona croaked,
+
+"How...how are you moving like that?"
+
+I raised my hands, "What are you talking about? I'm not even running yet."
+
+"But...That's impossible."
+
+I still didn't get what the hell she was talking about. She wasn't the only one surprised. The entire crowd of gialgathens and newscaster's stared at me in silence, all of them frozen in place. It left an eerie, unnatural silence in the arena. I looked around,
+
+"What's wrong with everyone?"
+
+"What plagues them is what doesn't plague you. I...I dilated our dimension. You're not even affected."
+
+I clapped my hands together, no sound ushering out. I reached out a hand, creating a gravity well above the magma behind me. It sauntered up in a slow crawl as if the lava wasn't molten. I nodded my head, gaining an understanding of the situation.
+
+"You're slowing down time, aren't you?"
+
+Chrona shivered, fear racing up her spine,
+
+"Yes, but somehow, you're immune to the flow of time. It's as if you're in a different realm..."
+
+"I'm not walking in a different realm."
+
+I banged my fists together as I grinned, "I am the different realm."

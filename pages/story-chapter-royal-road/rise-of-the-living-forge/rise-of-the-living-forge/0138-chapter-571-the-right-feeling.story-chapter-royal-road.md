@@ -1,0 +1,195 @@
+---
+id: c2dbfe76-b459-5450-b3e5-f7f0842b5139
+page-type-slug: story-chapter-royal-road
+title: "Chapter 571: The Right Feeling"
+slug: 0138-chapter-571-the-right-feeling
+partOf: rise-of-the-living-forge
+position: 138
+ownLength: 2218
+unit: words
+publishedAt: 2026-03-10
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3136776/chapter-571-the-right-feeling"
+royalRoadId: "3136776"
+---
+
+“I think three of us should be more than enough to deal with you,” Koyu said, frost twisting around the ancient Lich’s body and furling out behind him like a cape. “You have an overinflated sense of your abilities.”
+
+Kien wasn’t so sure. And judging by the amusement on the Beast’s face even in spite of the nasty wound weeping blood on his neck, he got the feeling that the ragged man wasn’t too concerned.
+
+“Three?” the Beast asked. “No. Most certainly not. But you have more than three. Don’t forget the golem you have waiting underground. I know she’s there. Just as I knew you were both here. Just as I know that you have more members coming. I am counting them all.”
+
+Kien’s jaw clenched. The Beast’s senses were incredible.
+
+“Wow. This one is really humble. You think he was a saint in a past life?” Olive asked. She drummed her fingers against Caldera’s hilt. Kien could see the desire to attack burning within her, but she held her spot. “If you’re so confident in your chances, why are you just standing around there?”
+
+“Because there are now enough of you to ensure that I cannot hold back,” the Beast replied with a black-toothed smile. “My bindings will not let me. And I would like to ensure the greatest chance for you all to provide me with a proper fight.”
+
+“God, he’s full of it,” Olive growled. “Can we kill him now?”
+
+“No,” Koyu said. He vanished in a puff of cold blue mist, only to reform in the alley beside Kien and Olive an instant later. His eyes narrowed as his gaze bore into the Beast. “This one is not human. Stay your hand.”
+
+The Beast nodded. “Just not for too long. Tell your forces to hurry up. I’m going to miss my deadline, and then I’m going to have a real bad time of things. You’ve got about five more minutes of my attention. After that, I’ve got to stop playing and get to work.”
+
+“He is dangerous,” Kien said. “We need to get—”
+
+Koyu raised his hand. His eyes didn’t even budge from the Beast’s face. Then, even though Kien hadn’t even thought such a thing to be possible, the lich’s features grew colder.
+
+“Revenant. You’re a revenant,” Koyu breathed. “What is a relic from the old war doing here?”
+
+The amusement on the Beast’s features evaporated. For the first time since Kien had met the odd man, an emotion other than boredom or excitement passed through his eyes. It had come and gone within no more than an instant. But as fast as it was, there was absolutely mistaking what emotion it was.
+
+Sadness.
+
+Ancient, aching sadness like a wound that had wept for so long that the soul had simply accepted it to be permanent.
+
+“You shouldn’t have said that,” the Beast said. “I don’t like being reminded of the past.”
+
+“You are the past,” Koyu replied. “There’s no place for your kind in this world. Not anymore. Why choose to persist in this form? I cannot imagine a worse fate.”
+
+“Not all of us have had the privilege of choice,” the Beast replied. His gaze bore into Koyu with an intensity that Kien had never quite managed to earn himself. “What are you? Nobody should recognize me. Not here, of all places.”
+
+“The old world tends to hide itself in the places that nobody should ever go looking,” Koyu replied. “Olive, Kien. Leave. Now.”
+
+“What?” Kien asked, his eyes widening. “But—”
+
+“Now,” Koyu said. “You cannot win this fight. The creature before us is a Revenant. It cannot be killed. Not by you. I will deal with this myself. You will only be in my way.”
+
+Olive and Kien exchanged a glance. This wasn’t according to plans. But Koyu’s voice really didn’t leave any room for argument. Both of them took several steps back. Then they turned on their heels, sprinting for the Mausoleum as fast as they could.
+
+***
+
+The Beast’s stare bore into Koyu, and the weight of the world seemed to rest behind it. It was a stare that the lich had seen before — but not one he’d thought he would ever see again.
+
+“Who are you to interfere?” the Beast asked. “If you know what I am—”
+
+“Your search for release will not meet an end at their hands, revenant,” Koyu replied. “They are not capable of killing an abomination born of Soulmancy. They have not seen what it takes.”
+
+“You know too much,” the Beast said quietly. “But you are not my target. Who are you, really? How is it you recognize my nature?”
+
+“Because you are not the only remnant of the past,” Koyu replied. Frost twisted down his fingertips, but neither he nor the Beast made any moves to attack. “Unbind yourself. Pass on. I will not offer twice.”
+
+“If I were capable of such a thing, I would have done it already. I have searched for release for hundreds of years, but still I am denied it,” the Beast snarled. “But what revenant have you ever known to hold their own leash?”
+
+A pang of sadness cut through Koyu’s chest.
+
+“You still serve?”
+
+“Do you think any of my kind would choose to exist if there were an alternative?” the Beast’s words were cut with bitter hatred. “Kill me. If you possess the power, kill me.”
+
+“I do not,” Koyu said. “Your suffering should not exist. It never should have existed.”
+
+“You are of no use to me. Get out of my way. What little enjoyment I may have gleaned from today is gone. There is no purpose to a battle I cannot lose.” the Beast’s shoulders slumped. All the fight had completely evaporated out of him. He just looked like a sad, old husk wearing another man’s clothes.
+
+“I cannot do that,” Koyu said. “But I am sorry. Your creation was a grave sin.”
+
+“Why do you apologize for something you do not control?” the Beast asked. His eyes narrowed slightly. “Just move. I will leave your friends be. For that matter — I will even wait. Finish your auction. I will kill my target when they step off of your street. The Guild no longer has a way to check on my progress until I report back to them.”
+
+Koyu studied the Beast silently for several long seconds. This was technically all the Menagerie needed. It wasn’t their concern what happened to anyone once the auction was over and people were off their street. Sure, a death would reflect a little poorly on them, but they couldn’t be held at fault.
+
+But if I step aside here and do not interfere… another soul will join the hell that is a revenant’s existence. Doomed to wander this world, endlessly crushed together with all the other poor beings trapped within that rotting husk.
+
+Koyu’s jaw clenched. There had been a time when he would have stood aside. Where the problems that happened out of the domain of his street were not his concern. But there had also been a time when he had been nothing more than a lich.
+
+And those times had been in the past.
+
+“I cannot step aside,” Koyu said. “I am, in some way, responsible for your suffering. So I cannot allow you to greaten it. I will not allow you to draw another soul into yourself.”
+
+“What? Responsible? ” the Beast’s gaze lifted to meet Koyu’s eyes once more. Then his eyes widened. “Lich. You’re a lich.”
+
+“I was a lich,” Koyu replied. “No more. I am something different, now.”
+
+The Beast stepped toward Koyu. His eyes had changed completely. There was something new burning within their dark depths — hope.
+
+“Kill me,” the Beast said. “Unmake me. Please.”
+
+“I cannot,” Koyu said. “I—”
+
+The Beast’s features shifted in an instant. Fury carved across his face as he vanished, reappearing an inch away from Koyu.
+
+“Why?” he roared. “Kill me, you coward! End what you started! If you claim to feel any remorse at all for your sins, then kill me! Free me!”
+
+“I cannot. I am too weak.”
+
+The Beast stared at him.
+
+“How could a lich that has lived this long be too weak? You must be an arch—”
+
+“I didn’t,” Koyu said simply. “My soul has resided on this street since the great war, wasting away. Only recently did new purpose find me. And I am no longer a lich. I cannot use Soulmancy. I cannot end you, no matter how badly I wish to.”
+
+Anger and sadness twisted the Beast’s features. “Then leave. You are useless. Imagine that. A lich. Here, of all places. And yet he is the only lich who turned his back on the powers I needed. Damn you to the ends of creation for what you and your kind wrought.”
+
+And then the Beast vanished.
+
+Koyu didn’t try to turn and follow him.
+
+“I can’t end you,” Koyu said. “But I know who can.”
+
+A footstep fell behind him.
+
+The Beast had returned.
+
+“What?” the other man whispered. “Another lich? Two of you?”
+
+“No,” Koyu replied. “A smith. One capable of creating a weapon that can end even one such as yourself.”
+
+“Where?” the Beast hissed at his back. “Tell me.”
+
+“No,” Koyu replied simply. Then he turned, finding himself face-to-face with the Beast once more. “I refuse. Not unless you leave this place. Leave — and kill nobody. You cannot draw a single other soul into yourself.”
+
+“You know not what you ask,” the Beast growled. He drove a finger into Koyu’s chest, only for it to pass right through him. Neither of them acknowledged it. “Do you think my leash is so easily slipped?”
+
+“No,” Koyu replied. “But I will ask that you do it anyway. There is not yet a weapon capable of ending you. But you know what weapons like that do. You know what they require. Would you really damn another soul to join you?”
+
+The Beast’s jaw clenched. “How long? The Guild will know.”
+
+“At least a week. Possibly more,” Koyu replied. “We both know how difficult it is to create weapons like that. Truly ending a product of Soulmancy is not a simple task.”
+
+“Weeks?” the Beast asked. “Not years?”
+
+“He is a fast learner.”
+
+The Beast hesitated. His fingers loosened, then tightened at his sides as thoughts passed through the revenant’s head. “You are certain? He can end me?”
+
+“Yes,” Koyu said. “I guarantee it.”
+
+“The Guild will want to know why their target survived. I have never failed before. I will be punished.”
+
+“Then come up with a reason,” Koyu said. “And you will persist. That is what revenants do best. Persist.”
+
+“And you?” the Beast asked. “You do not do yourself any favors with this. The Guild will investigate. Do you really think they will tolerate the presence of a lich? You will become just like me.”
+
+“We have our own quarrel with the Guild,” Koyu replied, his eyes narrowing. “Our swords are already fated to cross. We will deal with them as they come.”
+
+The Beast’s gaze bore into Koyu for a long second.
+
+“Do you know what the cost of hope is?” the Beast asked.
+
+“No,” Koyu replied. “But I once did.”
+
+“It is suffering,” the Beast said. “It is the ability to lose it. To have hope is to have something to lose. And I cannot lose any more.”
+
+“The smith has my confidence. He is capable.”
+
+“He had best be,” the Beast said. He took a step backward, his voice breaking. “No more than one month. I will return, Lich. I have distracted myself for hundreds of years. But you have reminded me. And if you cannot kill me then, then I will slaughter every single member of your guild for forcing me to remember.”
+
+And then the Beast was gone, and the street was silent once more.
+
+The air at Koyu’s side twisted as Rodrick materialized beside him.
+
+The two of them exchanged a quiet glance.
+
+“What’s a revenant?” Rodrick asked.
+
+“Dead men. Far, far too many of them,” Koyu replied with a sad shake of his head.
+
+“I suppose you’ll tell us more when this whole business is wrapped up,” Rodrick said grimly. He glanced over his shoulder. “I can’t help but feel like he’s going to pop up again. That guy was a monster.”
+
+“He will not,” Koyu said. “Someone like that will not risk his chance at death. That is all he seeks — and no matter how much he tries to delude himself into thinking that someone powerful enough can grant it to him in battle, he knows deep down that nobody is capable of it. Not without Soulmancy. He cannot risk his chance at true death.”
+
+“I see,” Rodrick said slowly. “Out of curiosity, if he’d gone all out…”
+
+“We would most certainly all be dead,” Koyu replied. “None of us currently possess a way to kill such a creature. Even me.”
+
+“Shit,” Rodrick breathed. “And he’s just… going to come back? Well, I’m sure Arwin will figure something out. But I’m not sure what to feel about this.”
+
+“Pity.” Koyu sent a sad look to Rodrick. “For a creature like that, you should feel nothing but pity.”

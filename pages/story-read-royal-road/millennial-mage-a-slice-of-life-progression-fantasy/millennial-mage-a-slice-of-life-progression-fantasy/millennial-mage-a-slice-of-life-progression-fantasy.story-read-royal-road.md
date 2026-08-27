@@ -1,0 +1,47 @@
+---
+id: f9223067-2cee-5e48-96f7-5a731616a714
+page-type-slug: story-read-royal-road
+title: "Millennial Mage (A Slice of Life, Progression Fantasy)"
+slug: millennial-mage-a-slice-of-life-progression-fantasy
+world: millennial-mage-a-slice-of-life-progression-fantasy
+unit: words
+author: "JLMullins"
+rank: a-rank
+following: true
+royalRoadTags:
+  - "GameLit"
+  - "Progression"
+  - "Female Lead"
+  - "Slice of Life"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+  - "High Fantasy"
+  - "Magic"
+  - "Supernatural"
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy"
+royalRoadId: "47826"
+---
+
+Millennial Mage Books 1-12 have moved to Kindle Unlimited as well as being available in epub, paperback, and audiobook format!
+jlmullins.com/millennial-mage
+
+The Wilds relentlessly reclaim all things. Humanity shelters within their ever-dying cities. Mages create the only path forward.
+
+Tala had to fight tooth and nail in the Magic Academy to forge a path to power that was her own. She knows it’s her duty to use that power to serve humanity, defending them against the creatures of the untamable wilds. However, she skipped a few steps in her education, like apprenticing to someone who actually knows what they’re doing.
+
+Now, Tala has to balance learning as fast as she can with paying off the veritable mountain of debt the Magic Academy dropped on her shoulders for the opportunity; not to mention staying alive.
+
+Even though she should only be a Mageling, the world considers her a Mage. Bless the stars she directed most of her magic toward survival.
+
+This fiction contains violence and tense situations. It will reference adult topics but will not contain sex scenes nor overt delves into 'sex/sexuality in other worlds.'
+
+I do hope you enjoy this tale, but let me know what you think either way! Critique, both positive and negative, is welcome.
+
+Release schedule is weekly: M-W-F
+
+Thank you for your time and for giving this story a try.
+
+AUTHOR'S NOTE: If this is found on a site other than Royal Road, or the linked Patreon/Kofi, it was not posted by the author. Please find this tale, here:
+
+https://www.royalroad.com/fiction/47826/millennial-mage

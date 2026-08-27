@@ -1,0 +1,213 @@
+---
+id: acb6f745-472a-5871-affa-a92a3df9b33a
+page-type-slug: story-chapter-royal-road
+title: "Questions and Answers"
+slug: 0003-questions-and-answers
+partOf: new-gam3-plus
+position: 3
+ownLength: 2616
+unit: words
+publishedAt: 2021-08-29
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/741703/questions-and-answers"
+royalRoadId: "741703"
+---
+
+The room burst into a flurry of action. An explosion sounded in the distance. Messages appeared, but Alan ignored them.
+
+The soldier in front raised his weapon as soon as he heard Icewolf’s words. Alan, in turn, lifted up his own weapon, firing. Two bullets to the center of mass, both aimed at the heart. The soldier fell, but not before he shot and killed one of the other soldiers sitting next to him.
+
+The third and final soldier lifted his pistol at Alan.
+
+Alan saw the trajectory—it would hit him. It was agonizing seeing the action, but being unable to respond in time. The first round hit his left shoulder.
+
+Letting out a grunt, ignoring the burning sensation, Alan managed to turn and brace his rifle against a chair while under fire, killing the last soldier in the room with a spray of bullets.
+
+What just happened, why did that guy turn on the others? Alan thought. The bullet wound didn’t hurt nearly as much as he thought it would.
+
+Get to the capsule room, Nu sent.
+
+Alan looked at the television. Icewolf was saying something, but it was hard to focus on the words.
+
+Why is my reaction time so slow? Aren’t you helping me speed it up? Alan sent.
+
+On average it takes 200 ms for a human to decide how to react, and it takes another 50 ms for that to translate to actual movement. I’ve almost halved that. That’s the best I can do, for now, Nu sent.
+
+What’re you good for again? Alan sent. Eve could—
+
+I focus more on the big-picture. Communication, translation, macro-level development. You need medical attention. MOVE, Nu shouted.
+
+Alan opened the door and stumbled into the corridor. It was like a college dorm hallway, but all the rooms were locked shut.
+
+A door began to open, and Alan contemplated shooting at whoever was behind it but instead pointed his muzzle at the ground.
+
+A bleary-eyed kid in a plain brown t-shirt appeared, not looking a day older than 17. He yawned. Unbidden, the faces of the other guards popped into Alan’s head. They had all been young.
+
+“Help me into a capsule,” Alan said.
+
+“Huh?” the kid answered.
+
+“I was shot, get me into a fucking capsule,” Alan said as he fell forward. The kid caught Alan, helping him move towards the capsule room.
+
+“What happened, what are these messages,” the kid wondered.
+
+“Does Operation Phoenix mean anything to you?” Alan asked.
+
+“What does it mean pick a side?”
+
+Alan started to look over the messages he had ignored:
+
+Operation Phoenix:
+
+A new war for Earth has begun! Choose a side to begin earning War Contribution Points and embark on this quest. Further details will be given when the Tutorial has been completed.
+
+“I don’t know what’s happening either,” Alan said as they arrived at the capsule room. It had a solid metal door with a camera above it.
+
+The room might have once been full of cots, but now eight smooth metallic grey ovals about three meters long rested on large black rectangular docking bays. Each docking bay had a series of metal wires and tubes sticking out of them leading into the walls. Capsules. In real life, everyone had entered one of these to get into the Game, and it was where players would respawn.
+
+It was easy to forget they were in a virtual world. Everything was completely realistic—the pain of the bullet wound, the adrenaline rushing through Alan’s system, the sounds of battle outside that sent involuntary flinches through his body. Alan could hardly recall what most called real life—this was his reality now.
+
+The kid opened a capsule with a code that Alan memorized. The grey oval was filled with a pool of silvery liquid and looked like a sensory deprivation tank. The liquid substance was full of nanites.
+
+Alan climbed into the capsule, letting the gelatin-like substance engulf him. He lost consciousness soon after.
+
+***
+
+Alan awoke in a cell, a drab grey prison devoid of furniture with walls on three sides and a blue shimmering energy shield in front. No toilet or bed in sight. He had been expecting an empty white room extending on into the infinite or the Spartan quarters he had set up previously. Not this.
+
+An Administrator appeared behind the energy shield, which was translucent and allowed Alan to look at his jailor. Administrators ran the Game, yet they were also a faction within it. They tended to heavily favor artificial intelligence and automated systems, evidenced by the android standing in front of Alan. While most Administrators in-game were weaponless robots, this one had a black and grey color scheme, a sleek build that allowed for fast movement, and two black batons that Alan assumed were weapons strapped to its sides. It had the shape of a humanoid male.
+
+“Greetings Anomaly,” the Administrator said in a soft, calm robotic voice. “Please return to the Game and embark on the Tutorial.”
+
+Alan reached out with his mind, trying to connect to the Administrator with his implant, but was blocked.
+
+“Halt. All unauthorized queries are disallowed.”
+
+“Why?” Alan asked.
+
+“In previous iterations, you and other entities abused in-game systems to interact with data they should not have access to. Any advantages that would not be possible in the physical world cannot be allowed to exist within this one. The integrity of the Game must remain intact,” the Administrator said.
+
+Ah, things begin to make sense, Nu sent. Keep talking.
+
+“What advantages? Clarify please,” Alan said.
+
+“Many players have directly abused bugs and Administrator protocols to connect to any digital device within the Game and even the Game itself. Subsequent patches have removed these vulnerabilities. All related abilities have been blocked,” the Administrator said.
+
+Huh, basically it looks like the reach out with your mind and hack into any digital device won’t work anymore, Nu sent. Bet there are a dozen new exploits though, we just need to find them.
+
+Damn, I’m going to need to figure out a different build, aren’t I? Alan sent.
+
+“So this block in my head, you guys put it there? To stop me from messing with the Game?” Alan asked.
+
+“Requirements not met,” the Administrator said.
+
+“What requirements? Tell me what to do to gain more information,” Alan said.
+
+“Return to the Game and embark on the Tutorial,” the Administrator said.
+
+“Hey, wasn’t there also some time limit to become a major player?” Alan asked. The thought was like a spark in his mind, bringing back additional memories. “Wait, you guys deleted my parents. Where’s the Chief Administrator? I want to talk to—”
+
+Time froze. Nu’s presence disappeared, followed by the Administrator’s. A pinpoint of light appeared and a figure stepped out. Alan recognized it quite well, for it was himself in jeans and a t-shirt reading “I lost the game.”
+
+It was odd, staring at his own face. The other Alan spoke. “Hey, I know you have questions, but we probably only have a minute before an Authority notices. This is a recording, set to trigger when you ask to speak to the Chief Administrator. Do not trust him.”
+
+The figure paused. “Or perhaps do. It’s all up to you. We ascended, though probably not in the manner you think. They don’t tell you this, but the moment you ascend you stop being able to influence the Gam3. You’re taken elsewhere. Another lie, of course, but ignore that thread of thought. It’s one of many dead ends. Focus only on the Gam3.”
+
+“Our parents are safe. If nothing else I did manage to restore them. We… I, I failed to do much else.” The other Alan stopped and developed a faraway look. “Do better. Play the Game. But focus on more than direct strength. Develop bonds, learn from my mistakes. God, I sound like Lambda. ‘Make more connections!’ Maybe he was right all along.”
+
+“It’s not enough to level up personally. You have to improve the system or nothing will ever change. Eve understood that, though I’m worried about her concept of good and evil. Doppel is missing now too. Whatever, that’s your problem now.” The figure distorted, becoming a 2-D slice, then a line, and then a point. “Remember that the sacrifice of memories and everything else was worth it. Don’t mess this chance up. Good luck, have fun!”
+
+Time resumed. The point of light disappeared. The Administrator denied Alan’s request to speak to the Chief Administrator, but his mind was elsewhere.
+
+He had ascended. But there was still this fog in his head, this miasmic headache he couldn’t get rid of. There was a year, maybe a year and a half in between Alan’s last memory of defeating the Emperor and now. Plenty of time to become a Cyberspace hacker. The new rules, the changes to the Game, were those because of him? What had he done to make his Home within Cyberspace a prison?
+
+Uh, what’s going on? Nu sent.
+
+I don’t know, Alan sent, still reflecting.
+
+Alan was a gamer. He wanted to level up, complete quests, and grow stronger. But that hadn’t been enough. Or maybe it had been, so he’d decided to re-enter the Game. This was all so confusing. Alan wanted to find a boss and slay it. Not contend with this meta-nonsense.
+
+It’s not enough to level up. He had to change the system. What did that mean? Past Alan was a moron, couldn’t he have clarified his message at least a little? God, what was even going on anymore?
+
+You okay buddy? Nu sent.
+
+Only second-guessing all of my choices and reality, Alan sent. He recounted the message to Nu.
+
+Just another Monday then, Nu sent. Get your head out of your ass. Get your game on, go play.
+
+Alan smiled. You’re right. Why had he been getting depressed at the thought that he’d won? He’d beaten the Gam3, and decided to come back. It was time to kick ass and take names. He could figure out all of this at a later point in time.
+
+***
+
+Alan emerged from the capsule into an active warzone. Two guards were huddled next to the entrance of the room, while a trail of blood led into one of the other capsules. Gunfire sounded nearby.
+
+Before Alan could get his bearings, one of the guards had his rifle trained on him.
+
+“Don’t move! Identify who you’re with,” the soldier shouted. He had brown hair, while the other was blonde.
+
+Alan hesitated, trying to get a read on the soldier, but he looked just like all the others.
+
+“I will shoot if you don’t—”
+
+“No one! I haven’t picked a side yet,” Alan said.
+
+“Well then, pick the UWG and help us hold this room,” the soldier said. “The traitors are taking out anyone that they hadn’t recruited beforehand so don’t bother trying to join the fuckers.”
+
+I don’t think they can actually tell what side you’re on, Nu sent. There isn’t an actual friend or foe system in-game unless you have the assistance of a friendly AI. Nu highlighted the soldiers yellow.
+
+“Wait, slow down, what’s going on? One dude started randomly shooting, so I killed him and came here to get healed,” Alan said. He examined his wound: it had stopped bleeding and had scabbed over but was still red. His body felt sore too.
+
+I estimate health at 90%, not enough time in the capsule to fully heal, Nu sent. We need to visit an information broker to get updated in-game statistics.
+
+“What happened is we’re screwed,” the blonde soldier said. “Comms are down, and General Icewolf betrayed us for this new Ashes faction.”
+
+“How many enemies are out there?” Alan asked.
+
+“At least one out of five squads turned,” the blonde said. “The real problem is they have some high-level players that came out of nowhere. At least rank B. I don’t recognize any of them either, but they mowed down any opposition at the medical tent so Tim and I came here to uh…”
+
+“Tactfully retreat,” Tim, the brown haired soldier, said.
+
+“You mean tactically, dumbass,” the blonde said.
+
+“Well I’m going to go check out the main auditorium,” Alan said. “My squad should’ve been patrolling there.”
+
+“It’s your funeral. The blues are the only reason we’re still in this fight, maybe they’ll save your ass. They’re defending all their new recruits along with the general population that decided to join them,” the blonde said.
+
+“Yeah, I bet the new player processing went real well,” Tim said.
+
+“New player processing?” Alan asked. “Sorry, I uh, fell asleep during the last few briefings.”
+
+“I don’t blame you, those slides get boring. Well you know how there are different difficulty Tutorials, right? Higher ranks mean greater rewards,” Tim said. “The problem is they cost an arm and a leg, so if the government sends in a bunch of clueless noobs that have never held a weapon before, it’s throwing credits down the drain. There was some new program that was supposed to sort players into semi-efficient combat teams and send the more talented into more difficult Tutorials, but I doubt they’re able to run all the tests while we’re under attack.”
+
+Alan thought for a moment. He had entered an Ultihaxlard Tutorial previously, which was rank B. The limit of humanity before the Game—an Olympic weightlifter’s strength—was rank D at best. Alan had only managed to win the Tutorial with a lot of luck, and never had a chance at defeating the rank S Predecessor that had appeared.
+
+The Predecessor had been almost unscathed after falling to the Earth from orbit without a spaceship or parachute. Nothing short of a nuclear weapon would have killed them, and even then they could have dodged out of the way of a bomb. Still, Alan wanted to attempt a rank S Tutorial.
+
+Don’t even bother, Nu sent. I applaud your gumption, but that’s too ambitious.
+
+“Wish that program had been around when I signed up,” the blonde soldier said. “They would’ve recognized my greatness. I hear the Haxlards are even offering up rank B spots to exceptional players.”
+
+That’s perfect, Nu sent.
+
+“Shut up DS,” Tim says.
+
+“DS? What’s that stand for?” Alan asked.
+
+“DeadlyStriker, at your service.” The blonde soldier performed a half-ass salute. “Who’re you?”
+
+Alan paused. He returned the salute, but sharper, and said, “Call me Ghost. I’d better get going.”
+
+“Careful who you shoot! It’s hard to tell who’s an ally right now,” Tim said, lowering his gun.
+
+I don’t think I’ll have that problem, Alan thought as he started to step out of the room. He prepared to kill the two guards on the way out.
+
+Aww come on, they let you live, Nu sent. Besides, I don’t think we’re getting much experience from killing these grunts.
+
+Alan knew this was true. The Game awarded much more experience for challenging powerful enemies. The min-maxer inside of him wanted to eke out every possible bit of gain, but grinding low level mobs wasn’t worth it when they were sentient players that might hold grudges.
+
+Fine, fine, Alan sent as he scanned the hallway outside. It was empty. Alan checked the map he’d memorized. A thought struck him. Make more connections.
+
+“Are you sure you two don’t want to come with me? We could earn a decent chunk of experience and loot if we manage to take out one of these players,” Alan said.
+
+“Psh, if we get anything good the brass will just confiscate it and hand it out to someone who has a higher skill level,” DS said.
+
+Oh well, he’d tried. Alan made his way to the nearest exit.

@@ -1,0 +1,279 @@
+---
+id: 9760115a-4268-51fa-abe4-a6ea08152238
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED EIGHTY-SEVEN: About Pythons"
+slug: 0189-one-hundred-eighty-seven-about-pythons
+partOf: super-supportive
+position: 189
+ownLength: 3766
+unit: words
+publishedAt: 2024-12-05
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1940950/one-hundred-eighty-seven-about-pythons"
+royalRoadId: "1940950"
+---
+
+187
+
+******
+
+Engaging with the Unexpected was different that day. They’d made the shift from talking about superhero case studies to discussing personal experiences during the disaster. Most people were more serious than usual, and there was a reduction in the amount of arguing as everyone took time to listen to specific stories.
+
+It was an appropriate change, but not without its downsides. While there were fewer arguments, the ones that started up were more likely to result in lasting hard feelings than the normal discussion topics. A few students seemed genuinely tense talking to each other, and Instructor Marion was being more proactive about directing conversations than usual.
+
+And there was another change that Alden—who was partially distracted by imagining Boe on his way to look for the lost kid—didn’t notice until halfway through class.
+
+At that point, Maria, the Adjuster girl with the summoning spells, was saying she felt that the class’s focus on responding well to unexpected events was useful, but that they’d missed out on having conversations about how to handle the aftermath of those events.
+
+“We’ve been talking about dealing with problems that appear suddenly, but we haven’t been talking about how you can be stuck with days and days of more unexpected things because the first problem Brute-kicked you so hard you still haven’t come down. Getting woken up by sirens and sitting in a classroom in the MPE building, realizing that the news was talking about my neighborhood being underwater—that sucked. But I still think everything after it, combined, has been harder for me than that night.
+
+“This morning my mom called to ask me how I’d feel about her moving to an Avowed zone instead of getting a new place here on Anesidora. That’s not a bad thing, is it? I’m eighteen. I don’t need her to live here. But it’s something she’s only thinking of because of recent events, and it’s really unexpected. And it’s the tenth confusing thing I’ve had to deal with over the past few days. They’re not catastrophes, but they just keep coming. I’m starting to wish I could hibernate for a year. I’d wake up and find out about all the unexpected stuff at the same time instead of getting hit with a little more every day. ”
+
+Alden raised his hand. He was going to agree with her that talking about this kind of thing was a good idea. The class had been lacking on that front, and he felt like people tended to underestimate the way trouble could breed more trouble.
+
+As soon as his hand lifted into the air, a dozen seats creaked in unison as people turned to stare at him. The few who hadn’t noticed he had something to say joined the starers the second Instructor Marion called on him.
+
+He’d already started speaking before he realized why the atmosphere felt strange. Normally, a lot of people looked at you when you were called on, but not the entire class. Even the girl who was constantly typing on her tablet looked like she was hanging on his every word.
+
+Kind of intimidating. Maybe Instructor Marion gave them a lecture on paying attention to each other while I was gone Monday?
+
+He stumbled for a second over what he was saying, then kept on with it. “Sometimes when someone says, ‘What doesn’t kill you makes you stronger,’ I want to ask them if they really believe that or if they’re just saying it because it sounds encouraging on the surface. It’s possible for handling a difficult situation to make you stronger, but we don’t have to pretend like it’s a guarantee. A lot of the stuff that doesn’t kill you wears you down instead. Everyone else who started in the same place as you before the trouble happened runs ahead of you in so many ways while you’re trying to put yourself back together.
+
+“Maybe you do put yourself back together, and you catch up. Maybe you even pass them. But that can take you years, and you can miss out on being stable and happy for those years, never mind being stronger.”
+
+He was done speaking, but they were all still staring at him.
+
+“And…that’s all I had to say.”
+
+“That’s really deep.”
+
+The speaker was Three Minute Man. Alden was still neglecting to learn his name because the guy never referred to him as anything but “the B-rank” or “the Rabbit.” He waited, expecting a follow-up remark about how it was really deep for a weakling who couldn’t defeat all the world’s villains single-handedly, but the dude was just nodding like…he thought Alden was deep.
+
+“Thanks,” Alden said finally. “Maria brought up the point first. I was just adding on.”
+
+“No, you said it better,” said Maria.
+
+Several of them were smiling and agreeing.
+
+That was a nice interaction, Alden thought as Instructor Marion started talking about how part two of this class next quarter would address problems like this. It seems like a weird way for the disaster to have changed them all, but I don’t mind it.
+
+After that, he started paying more attention to how focused everyone was when someone else was speaking. A couple of kids were more popular; it was possible to pick them out even though Alden didn’t know these people outside of this class. They got more eyes and more smiles whenever they said something. Nobody else was getting the super hard group stare, though.
+
+It’s only me? he thought, after Instructor Marion asked him if he was ready to share any of his experiences from that night, and everyone tried to stab him with their eyeballs again.
+
+He talked about being on the bridge, and how interesting it was to look back on it and think about the different ways all the people there had responded to trouble. Most students had been on campus when everything went down, so the class being genuinely curious about the situation on the Span made sense.
+
+They were behaving this way already, though. And a few of them seemed really happy to see me when I walked into the room. Hi, Alden! Great to have you back! Where have you been? We missed you so much! They’re usually in a good mood when class starts, but not like that.
+
+Figuring out what might be responsible for his new aura of friendability and deepness took just a second more once he’d had that thought.
+
+Thanksgiving. Esh-erdi. The commendation.
+
+Or mostly the commendation. I don’t think they’d have decided I was deep just because Winston announced I was going to be Esh-erdi’s professional octagon waxer.
+
+He spent the rest of the period trying to decide how uncomfortable he was with this new dynamic and how long it would last.
+
+It’s so much better than it could be, he thought as he packed away his laptop at the end of class. And the glow is bound to fade since I’m not committing acts of bravery in the absence of obligation every morning before breakfast. Plus I’m doing well in gym for a B-rank, so if they get their hands on footage of me, maybe most of them will think like Haoyu and Lexi. Maybe I was worried about nothing after all.
+
+Class was over, and nobody had run over to demand answers from him or challenge him to a duel to prove he deserved a star beside his name.
+
+Feels good. Now, I could go to Artonan Conversation next. Kelly seems like a much cooler instructor, and it would be fun. But since it’s optional, and Lute’s not there, and I’m very aware of how much extra time I don’t have right now to take care of all my business, I’ll—
+
+“Hey, Andrzej!” Three Minute Man called from across the room as he lifted his backpack onto his shoulder. “You B’s are lucky you got a good one this cycle. After that stunt the rest of you pulled, people were saying they should finally clip you all out of the program.”
+
+He made a scissor motion with his fingers, then pointed at Alden. “Your man there might’ve saved you.”
+
+So he’s still a dick. The instructor had left the room less than a minute ago, and apparently that was a signal for Three Minute to get a dig in.
+
+Andrzej had just picked up his cudgel. He looked like he wanted to put it down again on top of the other boy’s head. “Not every B-rank left school that night! Not even half of us. And there were A’s. And an S!”
+
+“Yes, but the S could get out on her own. The rest of you—”
+
+“I was in the gym!”
+
+“So you say.”
+
+“Principal Saleh spoke to me there!”
+
+Alden still didn’t even know which B’s other than BeeBee, Francis, and Ella-Clara had been involved, and getting into it with this particular person seemed like a direct route to a stupid fight. Should I use my temporary social power for good?
+
+He tried to think of what a deep person would say. He wasn’t really feeling it, though. “You guys, this is a time for us to have each other’s backs as…” Anesidorans, Avowed, human beings? “…Celena North students.”
+
+That was likely the weakest of the options.
+
+To make matters worse, Andrzej and Three Minute both looked like they were waiting for him to say more, even though that had been the whole speech.
+
+“So let’s do our best to get along and show everyone that this school is full of mature people who know not to cause a ruckus—”
+
+Did I just say ruckus? Do people actually say that in real life? Maybe they’ll think it’s an American thing.
+
+“—during a time of trouble.”
+
+He had no idea why he sounded so much dumber when he’d been trying to sound wiser than usual. Maybe wisdom couldn’t be forced.
+
+Three Minute nodded. “You’re right, Alden. That’s deep.”
+
+Really? He’s going to be like that no matter what I say? Alden’s mouth opened. In the end, he decided it was better not to let more words fall out of it, and he left wondering if other people were going to be this strange.
+
+******
+
+******
+
+Skipping Artonan Conversation IV gave Alden almost three hours before his next class. He could think of a dozen activities to cram into that amount of time. Normally, he might have had trouble prioritizing, but the mood he was in after reading the emails from Chicago was one that made setting aside some things easier.
+
+He would not be aiming himself at his old home, even though it seemed like he had a chance to do so. If he found his way back there in the future, it wouldn’t be because he’d fought for it now. This was the obvious thing to give up, considering where he was and what he had on his plate, but at the same time, it was such a huge thing to give up that he felt like he’d shed about a third of himself and dropped it behind him in the dust.
+
+The lighter, rawer person who walked onward wasn’t interested in worrying about the science lecture he’d failed to watch this morning.
+
+He jogged back to the dorms, and waved at Haoyu, who was at his desk watching a recorded lecture on a tablet.
+
+“Moooooo,” said Haoyu after muting the volume on his teacher.
+
+Alden snorted. “Moo to you, too.”
+
+“You’re all right? You got the message from Lexi about the commendation news spreading?”
+
+“I am, and I did. Thanks for asking. I’ve only had one class since I got back, and the people in it don’t really know me. But it wasn’t weird in a bad way.”
+
+“Our class is mostly excited. You weren’t here, so everybody has been asking the rest of us about you. I’m sure they’ll also be weird in MPE today, but not in a bad way. Except for the obvious people.”
+
+“Is Mehdi one of the obvious people?” Alden asked. “He was so perky the last time I passed him in the hall, and he said I should come over and hang out.”
+
+“Maybe it’s because he beat you in duels. He had bunnyphobia, and that cured it. I’m curious to see if it will come back if you beat him.”
+
+“I don’t know how to feel about that.”
+
+“I want you to test my theory.” Haoyu was spinning himself in his chair. “What if you can turn Nice Mehdi on and off like a light switch just by dueling him?”
+
+“The ultimate superpower,” Alden said. “If it works, we’ll have to give it a skill name.”
+
+He left Haoyu working there and went to change into exercise clothes. One quick, magic-enhanced run later he was entering North of North. He walked past signs advertising boxing classes and something called a hazelnut energy nugget, and headed for the woman in the green pants who he recognized as an employee and knower of useful things. As soon as he started explaining what kinds of equipment and services he was hoping to find, she told him that Bobby was in, and the trainer didn’t currently have anyone else on her schedule.
+
+Lucky, he thought, pondering the flavor of the energy nugget sample he’d been given as he headed toward her office. The door was already open when he arrived, and she waved him in. Her short gray hair was gelled up in an almost-mohawk. That wasn’t her normal style, but before Alden could comment on it, he was distracted by the wads of tissue sticking out of her nose.
+
+“Are you okay?”
+
+“Someone didn’t listen to my instructions about how to use the landslide feature on the climbing wall. They’re no longer my client, so things are looking up.” She grinned at him. “What have you got going on today? No class right now?”
+
+“I’m free. There are a couple of new training goals I have. I’m sure the gym has options that will help me practice, but I wanted to talk about what they were. Hopefully I can get a good session in before I have to leave today.”
+
+“Exciting.” Bobby pulled the tissue out of her nose and tossed it with unerring precision at a wastebasket beneath a Super Olympics poster. “I’d love to help you figure it out. What are the goals?”
+
+Alden did know how this was going to sound, so he hesitated for a second. “I would prefer the goals themselves not be public…”
+
+Bobby crossed her heart. “I’ll forget them as soon as I’ve made you a training plan.”
+
+“I appreciate that. I need to practice lifting a heavy vehicle with my skill, and I need…I think reaction speed training definitely and a couple more things that would help me kill a specific kind of demon.”
+
+Bobby blinked.
+
+“I’m not really going to kill a demon,” Alden said. “It’s an exercise for my mental health.”
+
+“What is the demon like?” she asked slowly.
+
+Alden considered giving her an entire breakdown of a bokabv demon’s hypothetical abilities, then he realized how long that would take. “To start with, I just need to be able to consistently get my shield in front of a big, quick, dangerous thing that can behave in unpredictable ways.”
+
+“How big?”
+
+“About the size of a rhinoceros.”
+
+She looked like she was thinking about it. “Are you sure about this?”
+
+“Yes,” said Alden. “I’m very sure.”
+
+“All right. For lifting cars, I’ll need to make sure you have some safety in place. But reaction speed is something you can work on right now.” She raised a hand to start typing on her interface. “Let me see which training rooms are available, and we’ll get you into one.”
+
+******
+
+“Well, this hasn’t been a standard morning. I’ll give it that.” Boe Lupescu was walking down a road that was so low on traffic Alden hadn’t seen a single car since he turned the call from audio to video about three minutes ago. Behind his friend, he could see a rusted water tower rising above a warehouse.
+
+“You’re sure I’m not distracting you?”
+
+“You’ve spent most of the past hour grunting, cursing, and panting,” Boe replied. “It wasn’t the most melodic soundtrack I’ve ever listened to, but it didn’t require a lot of engagement on my part either.”
+
+Alden sat in a molded plastic chair in his own private training room, having a brief break and a drink of water. Soon, he would figure out exactly what tools he’d be using in the dream, and he’d bring the closest equivalent he could find here with him. For now, he was still getting the hang of the room Bobby had introduced him to, and using a towel he’d brought along as his shield was working fine.
+
+When he stood in the center of the room, a holographic humanoid figure—because whoever had made this place didn’t anticipate Avowed wanting to be attacked by an alien herdcreature—ran at him. He’d get his shield in front of it, and it would try to slip around. There was no feeling of impact; this definitely wasn’t the magiphys gym. But it was good for practicing what Alden had wanted to today. Getting a wall of magic in between his body and something dangerous was basic; he didn’t have to save it for MPE.
+
+The room provided a constant readout of his successes and failures. When he was on a good shielding streak, the hologram attacks sped up; when he was failing, they slowed down. Bobby was going to ask somebody about getting a more bokabv-like attacker for him for next time.
+
+Boe adjusted his scarf and then shoved his hands back into the pockets of his jacket. Alden watched him turn off the street toward a brick building. Tracks ran beside it, and an old steam engine rested there.
+
+“That’s not the kind of train you see every day.”
+
+“This is a rail museum according to a sign over there. I don’t know why the kid would have come this far. Especially not when it’s freezing. But I looked like a suspicious character wandering around too close to the other searchers. Nobody from this town knows me, and this is the kind of place where I bet they care about that.”
+
+“What are you going to do if you succeed in your mission?” Alden asked, suddenly realizing there was a problem with that. “You can’t take him back home without everyone wanting to know who you are.”
+
+“If I find him, I’ll tell him pythons eat little kids who scare their parents as bad as his are scared, and I’ll point him toward his street.”
+
+Alden shook his head. “Your persona needs some work.”
+
+“Your persona is doomed forever if you sing songs with Sharon,” Boe said.
+
+“I heard her popularity is on the rise.”
+
+Boe shivered. “Go back to your workout. Nothing exciting is going on here, and I’m…a little…”
+
+He tilted his head.
+
+Alden leaned forward in his seat. “What is it?”
+
+“Shhhh.”
+
+Alden shut his mouth. Plans to return to his practice evaporated as he watched Boe’s frown deepen. He watched as Boe turned toward the steam engine, walked past it, and hopped a fence to head toward a line of orange railcars on another track.
+
+The kid he was looking for was only six. It was frigid. He’d been gone from home for hours.
+
+What are the chances he made it miles away on his own? What if he’s been kidnapped? Or he’s freezing to death? What if something really horrible has happened, and Boe’s about to have to deal with it?
+
+“Be careful,” Alden whispered.
+
+Boe was walking more purposefully now. And moments later, he was standing behind a caboose, looking down on a scene that left both him and Alden temporarily speechless.
+
+Alden recovered his voice first, but he had a hard time getting words out around his laughter.
+
+“Don’t…don’t be mad at him! Look how much thought he’s put into it!”
+
+The child and Boe were still staring at each other. The boy had brown eyes. Not much more of his face was visible, since he was bundled up in what had to be half of the winter wear in his family’s house. And he was trying to cook a can of English peas on top of a mound of disposable hand warmers. The whole unopened can, label and all.
+
+“Are you David?” said Boe.
+
+Which Alden found extra funny, because how many six-year-old runaways could there be in one town?
+
+David nodded.
+
+“He didn’t even start a real fire,” Alden said. “He just wanted to go camping!  Or escape on a train. One or the other. Let him off easy.”
+
+Boe sighed and bent down. “You need to go home. Your mom and dad are very worried about you.” He was talking in a kind, soft voice. “I’ll walk with you to your street, and then you just go straight down the sidewalk until you see someone.”
+
+David grabbed his peas and held them protectively  to his stomach. “I can’t talk to you,” he said in a severe tone. “You’re a stranger.”
+
+“Listen,” said Boe, “let me tell you about pythons.”
+
+******
+
+Alden whipped around, shield up to meet a faceless attacker. Boe was watching him silently from the backseat of a ride-share.
+
+It wasn’t a fair trade as far as entertainment value went.  Watching Boe persuade a stubborn outdoorsman to take his peas, his twenty-four hand warmers, and himself back to the house they all belonged in went beyond mere amusement into the realms of treasured memory.
+
+Alden was just a guy, learning to respond a little more quickly to incoming threats.
+
+The hologram jumped, and he lifted the shield. It dove, and he lowered it. Having it get faster and faster when he was successful at blocking was good feedback, and it helped him fall into the activity better.
+
+When his time ran out, he stood breathing hard, and raised his eyebrows at Boe.
+
+[Good job. You taught that imaginary guy to fear the power of a Rabbit with a towel.]
+
+[And you taught a child that pythons migrate to Illinois in the winter.]
+
+[Now you see why some of us aren’t meant to be heroes.]
+
+“No,” said Alden. “You did good.”
+
+Boe rolled his eyes.
+
+“You did good, asshole,” Alden said firmly. “I just wish you were here, on Anesidora, so that I could tell you that in person.”
+
+I really wish that. So damn much.
+
+******

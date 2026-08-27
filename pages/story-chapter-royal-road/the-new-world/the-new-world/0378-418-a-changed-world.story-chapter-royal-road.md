@@ -1,0 +1,427 @@
+---
+id: acf9facf-d9d2-59d9-89d1-b0e823fa5bae
+page-type-slug: story-chapter-royal-road
+title: "418 A Changed World"
+slug: 0378-418-a-changed-world
+partOf: the-new-world
+position: 378
+ownLength: 3930
+unit: words
+ownProgress: 3930
+publishedAt: 2025-04-30
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2244728/418-a-changed-world"
+royalRoadId: "2244728"
+markedReadAt: "2026-06-29T21:34:17.813Z"
+---
+
+I scoffed.
+
+"Someone's psionically controlling you. It has to be the warlord of New York, right?"
+
+They all gazed at one another, confused. Once more, they regained composure, and the leader fired a rifle. I snatched the bullet out of the air, my time dilation giving me the chance to do so. The wind billowing off my arm bent trees in the forest below, branches snapping, and animals were sent flying. As I held up the steel, I smiled.
+
+"Ah, armor piercing. Smart. Still, not enough. Not nearly."
+
+I dropped the bullet as my minds settled on the soldier.
+
+"Can you hear me? If you can, then I'll give you a message."
+
+The man kept his gaze on me, his eyes like iron while his body squirmed about. I smiled at him and simmered.
+
+"The Harbinger has come."
+
+Chapter Begin
+
+The tallest soldier dashed forward and swung a sword at Althea. Not opting to block, she swiped her hand at the blade. She cut through the weapon, wrist, and upper arm of the individual. They screamed in agony before Althea kicked them away. She backflipped as another member stabbed where her back had been.
+
+She finished her flip, one foot cutting at the enemy's sword arm and her other foot kicking them away. Her dazzling display of control and finesse differed ever so slightly from my own. Six of them stabbed me with their blades, and I gawked in amazement. Somehow, someway, each of them managed to cut a few inches deep into my skin. I put my hands on my hips.
+
+"You know, I never imagined you guys would be able to get through me. Like, not even a little bit. Steel usually shatters at this point."
+
+If I was surprised, they were aghast. Each of the assailant's jaws gaped, and they peered at each other as if they were falling into a pit of lava. In a sense, they were. My armor reached out with tendrils, breaking their wrists and ankles. A cacophony of screams erupted, and their voices resonated into a vicious wailing.
+
+The sound wave hit Althea, and she spit out a gush of blood. I silenced them with gravitation, their jaws clamping shut. Shattered teeth fell before their minds assaulted ours. They found my psyche as a swarm, something ever-sustaining and always waiting. On the other hand, Althea's mind was never touched.
+
+Her choker's psionic elements defended her like a loyal mastiff, its jaws sharp and its gaze menacing. To my surprise, the group used psionics mirroring Torix's level, which was far above anything I anticipated. However, they lacked Torix's finesse and attention to detail. After tearing through them, I found the cause.
+
+In each of their minds, some kind of aetherial creature resided. It attached to their psyches, augmenting them to an absurd extent. They all connected with each other and into a telepathic line, similar to what Elysium did with Lehesion. Before I inspected further, one of them swung a sword at my eye.
+
+I reached out a fist and flicked. They blocked with their shield, and it absorbed the blow. Using some strange resonance, the shield swallowed all of the force I put into my flick with ease. I raised my brow before actually striking the shield with my fist. I put in enough force to destroy a mountain, but the dark plate swallowed the kinetic impact again.
+
+The warrior smiled at me before a series of cracks covered his shield's surface. It shattered in my direction, shards crumbling against me, and the enemy's sword reached my face. My helmet flowed over my head and bit into his wrist. I made my helmet spit out the blood since, you know, I wasn't a cannibal.
+
+Well, the times in Springfield could count if you're picky, but those were zombies. They weren't human anymore, and when I met these people's eyes, I found fear, despair, and curiosity alike. They were human. No doubt about that. One of them let out a scream.
+
+"You...What in the hell are you? What's happening?"
+
+I leaned back.
+
+"You don't know me, yet you leap from nothing and swing your swords at my throat."
+
+Althea kicked another person's legs. Their bones broke before she snapped the arms of the last assailant. She frowned as blood erupted from the wounds, bones sticking out of the skin.
+
+"I really, really didn't want to have to use this much force, but you guys went for the kill asap. I'm not about to just beat you up when you tried to cleave my head off."
+
+I raised a hand, seizing the scene in gravity wells.
+
+"Well, I mean, I could've just done this."
+
+Althea shrugged.
+
+"It happened fast. We had to react."
+
+I mulled over my options for a few seconds. I could've stopped this from devolving into a brawl. Still, knowing their intent to kill gave me important information. This warlord wanted our blood, and that contextualized how we'd meet. Those thoughts swirled in my mind as I set us down on a hill. A few health potions later, we restored these people to a reasonable state of health, though I locked their arms in gravity wells.
+
+Taking a moment, I inspected one of them.
+
+Joey Samuels | Lvl 5,000 | Guild: The Force of Iron - John Samuels is a 34-year-old man who lost his family during the culling of Earth. He survived the initial tutorial with ease, but he killed two other members during the wolf encounter. Once outside of those confines, John's mean streak continued.
+
+He survived by petty extortion of local townsfolk on the outskirts of Mt. Kisco, New York. After several years of monetizing the populace and basic mercenary work, he found a flier for Marcella Meyer. He joined the outskirts of her organization, enjoying a newfound sense of purpose.
+
+After donating a portion of his earnings to the townsfolk he once terrorized, John remains determined to redeem himself for his past and regain a purpose in his life.
+
+To you, he is not a threat.
+
+Equipment: Eonothic Sabor of Desolation | Level Cap: This equipment was forged using rare eldritch found across several dungeons within New York. While normally a usable blade, an Old One has gifted this blade, dramatically augmenting its abilities.
+
+Guild Position: Fodder
+
+Status Screen: Level: 5,000 (Cap 5,000) | Current Influence: Eonoth's Splinters | Class: None
+
+Strength – 8,012 | Constitution – 6,019 | Endurance – 301 | Dexterity – 2,136 | Willpower – 100 | Intelligence – 100 | Charisma – 17 | Luck – 8 | Perception – 890 |
+
+Health: 10,021/16,390 | Health Regen: 201/min | Stamina: 2,103/16,390
+
+Damage Resistance - 95% | Phys Dam Bonus – 43,021% | Damage Bonus – 65%
+
+While reading, I learned something new. I could view other people's status screens directly. At the same time, this person joined The Force of Iron, Schema's basic guild. Despite that, he worked for Meyer. Most likely, the warlord was an upper-ranked commander in the Force of Iron who pulled the strings from the back.
+
+Althea put a hand on her hip.
+
+"These are Marcella's goons, apparently."
+
+I sat down cross-legged.
+
+"Goons, huh? And Who's Marcella?"
+
+Althea nodded her head.
+
+"We think she's the avatar based on our intel."
+
+That threw my theory of a commanding officer in the garbage. Joey, the grunt, furrowed his brow at us.
+
+"I'm not a goon. I'm a warrior. A-and what the hell is an avatar?"
+
+I waved a hand.
+
+"Answer me first. Why did you attack us?"
+
+John narrowed his eyes.
+
+"Wouldn't you like to know?"
+
+I inspected his mind, finding only him there. The aetherial entity abandoned him like a coward. Taking a second, I checked everyone else. Many of their desires, memories, and knowledge evaporated into thin air. If I guessed right, those parasites bailed after understanding how dire the situation was. When they left, they took all incriminating knowledge with them.
+
+Ugh. Another shady organization. I furrowed my brow, gazing at a normal man with cold sweat dripping from his brow. I didn't want to tear this person's mind to pieces. I sighed.
+
+"Listen, Joey, think of the situation this way. We could continue down this road where you say nothing. You will all die from torture, and we'll run into Marcella thinking she attacked us without any reason and with blows aimed at killing us. I know this will come as a surprise, but that's not exactly a great first impression."
+
+I side-eyed him, and at the same time, I disintegrated a patch of forest with Event Horizon. I made sure he saw it, and nothing remained of the life I expunged. It was as if someone scorched the air and salted the soil as the organics floated away as a cloud of haunting ash.
+
+I murmured my words.
+
+"We can both cause a lot more damage than we're letting on. Do you want us to assume the worst, or would you rather we walk in understanding why you guys have done this? I think it's better if you extinguish some fires before your superiors end up burning in them."
+
+Joey wrestled with his thoughts before turning to his comrades. A pile of moaning, bleeding, and broken people sprawled out against a tree. He sighed.
+
+"Y-You ran into our detection system. One of you started breaking it, so they sent us to stop whatever it was. We're...We're border control."
+
+I raised my brow.
+
+"Oh, really? So that's what all this is?"
+
+I picked up a dark blade, its surface smooth and shiny. Althea ran a finger down the side of the blade. Her finger bled as she held it up.
+
+"Ok, guys, we run a guild too. Swinging your swords at our throats isn't what we usually consider border control. Thats, well, murder."
+
+Joey blinked, distress pouring over his face. I grabbed one of the invisible strands hovering above me.
+
+"Do you know what this stuff is?"
+
+John gulped.
+
+"Dude, I can't even see what you're talking about."
+
+I narrowed my eyes.
+
+"Huh. You sure?"
+
+Another bead of cold sweat dripped down John's back.
+
+"Look, man, I have no clue. I just work here."
+
+I checked the surface of his mind, finding no signs of lying. I shrugged.
+
+"Fair enough. Can you give us any info on New York City or Marcella?"
+
+John frowned.
+
+"I've never seen her or the city. Not since the culling. I-it's hard to get in these days. They have a guard standing outside that's impossible to kill. It's called the Seer. It can see right through a person. A-and it kills people all the time for no reason."
+
+Althea turned a hand to him.
+
+"If I'm getting this right, you received a distress call, jumped in, and then realized you were in over your heads?"
+
+John peered away.
+
+"None of us expected a dame you like you to hit like a truck."
+
+Althea frowned.
+
+"Dame? What does that mean?"
+
+I scratched my cheek.
+
+"It's a term for a woman. It's not an insult. Well, most of the time."
+
+She pointed at John.
+
+"Count yourself lucky that the big guy's clearing things up for you."
+
+John flushed, unable to keep looking at Althea. I rolled my eyes before standing up.
+
+"We're heading out. If you can find the time, message your superiors that we're not trying to invade you guys or anything. I'd rather we work together, especially considering how well-run this organization seems to be. For real, that warping was impressive."
+
+John scoffed.
+
+"You should know that Marcella won't play nice with other guilds. She eats them up."
+
+I drooped my lips down and held one hand up. I waved it with menace.
+
+"I'll make her an offer she can't refuse."
+
+Althea laughed.
+
+"Why'd you say that in a funny voice?"
+
+My eyes widened.
+
+"I mean, it has to be said that way. It was from this awesome movie called The Godfather."
+
+John gawked.
+
+"Wait a second...You're human?"
+
+I turned my arm to him.
+
+"Of course. What did you think I was?"
+
+John blinked.
+
+"I...I didn't know. Some weird Sentinel eldritch thing, maybe?"
+
+I waved my hand.
+
+"Close enough. Anyways, we're heading out. Take this."
+
+I squeezed a hand, creating a small piece of crystallized quintessence before carving basic cipheric runes onto its surface. I tossed it to John.
+
+"This will channel enough gravitation to move you all for a few miles. It will only release in a steady fashion, so trying to weaponize it will just get you blown up. Find a settlement and get some help. Also, don't look at the runes too closely, or you'll be kicked out of Schema's system."
+
+John grabbed it out of the air, but he missed. I hovered it over to him, and he oggled the glowing shard with wonder. He gulped.
+
+"Is...Is this an artifact? Did you make this out of thin air? A-and how did you know we couldn't warp back?"
+
+I answered in order.
+
+"Eh, kind of. Yes. None of you used portals while fighting us, so I assumed you were sent here by someone else. Anyways, we're headed out. Good luck."
+
+I pulled the swords into my hand and shattered them.
+
+"You shouldn't swing your swords so quickly. It pays to play nice sometimes. You can avoid a few broken ankles that way."
+
+John stared at me in confusion.
+
+"Swung our swords? You're the ones that started attacking us."
+
+I rummaged through the outer surface of his mind. He believed what he said. I pinched the bridge of my nose.
+
+"Just...Stay safe out there. Also, you might want to leave Marcella's guild. I don't think she's being honest with any of you."
+
+John's eyes glazed over.
+
+"Marcella never lies."
+
+Althea scratched her cheek.
+
+"This is so weird. They're acting insane."
+
+I peered at her.
+
+"Tell me about it. I haven't been gaslit like this since I talked to my dad."
+
+As the guards struggled to understand what we said, we flew off, leaving a few supplies for the poor team sent to intercept us. Part of that donation came from our guilt at wounding them. It was easy to forget how fragile most people were, and we both overreacted.
+
+Still, those swords omened a sinister origin alongside the psionic control of Mercella. As we scattered into the air, the translucent strands grew in size and density, becoming an absolute chore to deal with. Althea ran through them, unable to see or feel their effects. They clumped on me like ants on a bird with broken wings.
+
+Taking a moment, I pushed the invisible strands with my dimensional wake. They bent out of the way, unable to pass through my dimension. I raised my brow.
+
+"These aren't normal parts of some web."
+
+Althea sighed.
+
+"The strand thing again?"
+
+I snapped.
+
+"Yes, the strand thing. They're real, and I think they're a spatial web. Someone's casting the magic on a massive scale here."
+
+Althea reached out a hand.
+
+"Am I touching them?"
+
+"Yes."
+
+"Huh. They might be why the team attacked us so quickly."
+
+"I think it's how they found us but not why they showed that kind of murderous hostility. It seemed...Planned. If anything, it was as if they thought something was coming. If you ask me, they're more volatile than they're letting on. Hell, they're crazier than even Schema's statuses are telling us, too."
+
+Althea frowned.
+
+"You don't trust Schema's statuses anymore?"
+
+"It's hard to trust anything these days. Besides, Schema's not exactly reliable right now. Things are looking kind of dicey."
+
+"I guess, but he usually does the best he can...Uh, most of the time."
+
+I sighed.
+
+"You know what? You're right. I'll cut him as much slack as he cuts me."
+
+Althea hopped into the air.
+
+"Pshhh, so plenty?"
+
+She flew off. I flew after her.
+
+"Eh, we'll have to agree to disagree on that."
+
+We flew through clouds and marveled at the skyline. The urbanization of everything intensified, even the periphery of the Big Apple being enormous. After passing a dozen smaller towns and cities, New York City crept into view. It manifested as an enormous wall of dense, spatial fog. The gray cloud spiraled, streaks of lightning bursting on its outskirts, and tornadoes spun out in the distance.
+
+I floated under Althea.
+
+"Suitably apocalyptic, huh?"
+
+She hopped off my chest.
+
+"That's why we called you in, among other reasons. You'll see."
+
+Eldritch hopped out of the Atlantic Ocean, devouring the lightning strikes. The waters plumed upward in large waves, plopping up and down as if some force pulled from above and below. Raiders and scavengers roamed the city tops nearby, hunting for weakened parties to exploit. They fought pieces of Marcella's guild, and with the organization's weaponry, she decimated any resistance rising against her.
+
+Despite these harsh surroundings, a line of people walked in and out of the city's only remaining entrance - the George Washington Bridge. It turned out that it could fit a lot more people if no one drove a lumbering car, and everyone who entered and left passed the gaze of an enormous, mobile statue.
+
+The Seer.
+
+It was composed out of the Statue of Liberty, but it looked nothing like it aside from the color of oxidized copper. It bulked into a behemoth, much stockier and genderless. No dress and mantle covered it, and the plating layered like scales, the shoulder pauldrons jutting out with curved spikes. It peered around with dark slits for eyes, its head reminding me of a medieval knight's visor.
+
+It reminded me of a brutal, armored Sentinel, but far larger and more ominous. Despite the physical heft, the apex feature wasn't physical. Across its entire body, sigils glowed with seafoam-colored mana. Even from more than a mile off, it oozed out enough energy to feel it.
+
+Oddly enough, it wasn't a mana type I'd ever felt or seen.
+
+Althea frowned.
+
+"There it is. The Seer. That's why we sent you, big guy."
+
+I waved my hand through the proliferating miasma.
+
+"It has an enormous amount of mana, huh?"
+
+She nodded, shivering a bit.
+
+"I can feel it. Ugh, I hate it when mana leeches in."
+
+I remembered times when my mana infected her. I scratched the back of my head.
+
+"Yeah. Sorry about the times I let my own mana get out of control."
+
+Her eyes went distant.
+
+"I appreciate the apology, but you don't need to feel guilty. You did your best, and, uh, that's all we can ask for, right?"
+
+She gave me a forced smile, the expression almost authentic but ever so slightly strained. In it held a deep pain. I vowed to never let my mana touch her again. She turned to the statue.
+
+"Anyways, do you think you can take that thing?"
+
+I turned to it.
+
+"No idea. Give me a second."
+
+I inspected it.
+
+The Statue of Liberty - A historical relic of a bygone era, this statue once symbolized freedom and liberty in an old empire known as the United States of America. Initially conceived to fight nations for their oil, this country elected celebrities and enjoyed apple pie and baseball. By the time of this apocalypse, the nation itself had long ago shed the roots of its origin, and it had become an AI state built around McDonald's.
+
+I furrowed my brow.
+
+"It's telling me that thing is still the Statue of Liberty. It's also giving a pretty absurd breakdown of America. I'm not a genius, but this seems a bit...Off?"
+
+She gestured at it.
+
+"Right? My status kept telling me the same thing. You mentioned the ambushers' statuses being fake, but they're at least kind of accurate. This one isn't even close."
+
+She lowered her hand.
+
+"That's another reason we called you in. We didn't want to fight something like that without knowing how dangerous it actually was."
+
+I flew under a cloud.
+
+"Good call. This lets us know that something is messing with Schema's status updates. The same thing happened with that Joey guy and the others."
+
+"You think they're hiding something?"
+
+"Not them, but whatever psionic entities were in their minds. They ran the moment the situation looked dire."
+
+"Oh, so that's why they acted so weird."
+
+Interrupting our talk, someone fired a projectile at us, their group operating a makeshift cannon. I slapped the projectile away, a cloud of dust and fragments erupting from my palm. Althea grew a lance from her arm and slung it through the cannon, and her spear erupted with a miniature grenade of gravitation.
+
+The cannon exploded in every direction, the operators jumping away for safety. Althea rolled her eyes.
+
+"A friendly bunch."
+
+I squished a metal fragment in my hand like putty.
+
+"Tell me about it."
+
+We ignored the other encampments before landing at the beginning of the entrance line of the bridge. As we did, murmurs ran through the crowd like wildfire, everyone whispering.
+
+"The Harbinger."
+
+"He's finally come."
+
+"The monster is going to destroy Marcella's guild. I told you it wouldn't stand for anyone else seizing power. It wants it all."
+
+Practicing our ability to ignore poorly hidden murmuring, we waited in the line like all the others, not wanting to ruffle any more feathers than we were. It looked like it would take hours before we arrived, but the statue inspected everyone at a breakneck speed. People walked by it, and its face remained impassive.
+
+Despite that, its gaze was a palpable thing. As we encroached, the density of its mana strengthened until it tinted the air. The aquamarine mana soaked into my armor, the sensation different and almost alien compared to normal mana types. Once we closed in, the Seer raised its arm.
+
+A spear of its mana expanded over its hand. It hurled the spear at us. No, near us. The spear impaled a group of three people. After striking their chests, a light flashed. Nothing about them changed, and they looked around. A few seconds of eerie silence passed before all the members shrieked. They put their hands over their chests before collapsing.
+
+As if nothing happened, everyone passed by, keeping their distance. We stepped up and found them dead. Althea leaned over, putting a hand over their throats. She tapped their chest and smelled over them. She sighed.
+
+"I can't tell how they died, but they're gone. It's...Eerie."
+
+I peered at the colossal protector, and it gazed back at me. For a moment, its eyes drenched the air near it with mana, and people backed away. After a few seconds, it tilted its head. It pointed at me, so I looked around.
+
+From the bodies, three Hybrids erupted out of the people's chests. As they did, Althea jumped over them while spinning. Thin wires extended off her body, slicing the Hybrids apart. They fell down as piles of chunks, and Althea tossed acid bombs at the corpses. I sealed the holes in the bridge with concrete before a tense quiet crossed over us.
+
+Althea scratched the back of her head.
+
+"How did it know? I couldn't even tell."
+
+I frowned.
+
+"Me neither. It's like it could see right through them."
+
+We walked to the checkpoint, the Seer's stare piercing. As we walked past the behemoth, its body moved. Like a grinding stone, its joints milled against its body. It wasn't metal but a dense rock. It stepped up to me, the body of the beast three times my size. It peered down, and it sounded like an old, ancient mountain finally given a voice.
+
+"The Harbinger. We've waited for you."

@@ -1,0 +1,159 @@
+---
+id: cebfc322-4b70-5771-83a0-a6a1d6a32f84
+page-type-slug: story-chapter-royal-road
+title: "Chapter 474: Scarred Hand"
+slug: 0041-chapter-474-scarred-hand
+partOf: rise-of-the-living-forge
+position: 41
+ownLength: 2181
+unit: words
+ownProgress: 2181
+publishedAt: 2025-08-14
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2517956/chapter-474-scarred-hand"
+royalRoadId: "2517956"
+markedReadAt: "2026-06-29T19:59:45.994Z"
+---
+
+Captain Adan of the Scarred Hand blew out an annoyed sigh. Cold stone pressed against his back and rubble poked through his pants. He didn’t even bother to suppress the irritation pulling his lips down into a frown. This was possibly the biggest pain in the ass of a mission his team had been given — and that was being quite literal.
+
+He shifted his position to brush the broken stones away from beneath him for the dozenth time. The Menagerie’s street was a mess, and the side streets and alleys around it were no better. He failed to see how any guild of any relevance could possibly debase themselves to live in a place like this.
+
+And yet… they nearly won the Proving Grounds. Taking second only to the Setting Sun is a damn impressive feat. Being in the Adept bracket doesn’t change that in the slightest. Any real adventurer knows just how little ranks can matter when taken out of context.
+
+Adan’s lips pressed thin and he drummed his fingers against his knee. This really wasn’t the kind of job his team liked taking. Their focus was dealing with troublesome guilds that were causing too much trouble in a city, not staking out around a bunch of crafters.
+
+But the Blacktongues paid so handsomely that it had been impossible to say anything but yes. For a job this simple, he’d have been a fool to turn it down. It was practically free money. They didn’t even have to do any fighting.
+
+They just had to take a peek through the Menagerie’s belongings and locate a certain object they’d stolen from an Expert Tier dungeon. That was it. They didn’t even have to steal it. This was a purely information gathering focused mission.
+
+Even against an odd guild like the Menagerie, something like this should have been nothing. But Adan had taken precautions anyways. Nobody made it that far in the Proving Grounds without having at least some skill to their name, and crafters couldn’t be underestimated when they were on their home ground.
+
+He’d heard the rumors of the golem that guarded the Infernal Armory. Of the quality of the armor that Ifrit made and how Lillia the Innkeeper was capable of controlling shadows and people alike.
+
+But Lillia wans’t here. She — along with all the strongest members of the Menagerie — were off at the Blacktongue’s party. That was bold of them. Showing up right after functionally stealing the first clear of a dungeon was something else.
+
+But that wasn’t Adan’s concern. All he cared about was getting the information he’d been paid to collect… and getting his team out of here before the actual relevant members of the Menagerie got back.
+
+And that meant they had to finish scouting the Devil’s Den within the hour. With any luck, their target would be within the tavern. Adan didn’t much love the idea of going head to head with a golem.
+
+If the rumors had been right, that golem was at the level of a Dwarven warrior in fully enchanted gear. That was beyond the level of opponent that Adan had any desire to get drawn into a fight with.
+
+Not because he didn’t feel he couldn’t win the fight.
+
+Because he hadn’t been paid to.
+
+Blood was expensive, after all, and the Scarred Hand did not like accruing costs they hadn’t been compensated for. Optimization was king. It was the way fortunes were made. A fight meant attention. It meant injuries or damage to armor. Not only did that mean potential costs with a healer or a smith, but it would impact their reputation. That meant angry clients and fewer jobs.
+
+And Adan couldn’t have that. It was of utmost importance that missions — especially ones as cheap and simple as this one — went without hitch.
+
+Perhaps that was why he was so irritated.
+
+Niles is late. He went into the Devil’s Den ten minutes ago. That’s more than enough time for a seasoned Thief to scout the entire place and come out with a full map of it. What’s holding him up?
+
+Adan’s lips thinned even further. He didn’t believe for a second that Niles could have been caught. The man was an early Expert Tier Thief equipped with a Ring of Invisibility and abilities that hid everything from the sound of his footsteps to his smell.
+
+“It’s coming up on the deadline,” Betsy, the Scarred Hand’s mage, whispered into Adan’s ear. “If Niles isn’t back in 5 minutes, then we have to assume he got caught. He may have triggered a trap.”
+
+“What kind of trap catches him?” Adan asked. “The best members of the Menagerie aren’t anywhere near the street. All they’ve got is a skeleton crew.”
+
+“Dunno,” Betsy replied. Stones crunched beneath her boots as she crouched beside Adan. “But I don’t ever remember Niles being anything but early, and now he’s just about to be late. I think it’s fine. It’s not like he’s alone. Pete is with him.”
+
+Adan’s jaw clenched. Betsy wasn’t wrong. Their strongest fighter wasn’t in this alley. He’d gone to a more optimal position to back Niles up. If there was even the slightest sound of a fight, Pete would have moved already.
+
+Adan refused to believe that he wouldn’t have heard the sounds of a fight if Pete had gotten into one. The Blade Dancer was one of the best warriors he’d ever met, and he’d been equipped with the best items their team had. He should have been more than able to handle the Menagerie could throw at him with their best members missing.
+
+But if Niles was actually in trouble, sitting around in this alley was just making things worse. They had to move fast. But if the man was just delayed, then moving now would just completely blow their cover.
+
+“Shit,” Adan said. “This is infuriating. Do you think Niles got distracted by some fancy magic and is just screwing around?”
+
+“He seemed pretty focused today, but you know how he is,” Betsy replied. “It’s possible. I don’t know. Up to you, boss.”
+
+Adan suppressed a sigh. He trusted his team… but he’d been on edge ever since they’d gotten to the Menagerie’s street. Something was just off about this place. It wasn’t just the rumors about their abilities. There was something else going on here.
+
+They might have contracts with some powerful guild that haven’t been exposed. I know they’ve got connections to some merchant guilds. Is it possible they brought another player in through those?
+
+“Shit,” Adan said. He pushed himself up to his feet. “We need to check on him. I don’t think he could have gotten caught, but he might be distracted. Niles is functionally a ghost—”
+
+“So what better to find him than another one?”
+
+Both Adan and Betsy spun.
+
+Standing in the alley behind them was an old man with long white hair. He had eyes of piercing blue ice that poked out from beneath his bushy eyebrows, so sharp that it almost felt like they were cutting into Adan’s very soul.
+
+When did he get there?
+
+“Who are you?” Adan asked, lowering his stance instantly. “How did you—”
+
+The man vanished.
+
+A warning scream borne of years of experience rang out in Adan’s mind. His senses kicked into overdrive in an instant. He grabbed Betsy, pressing her to the wall as she let out a surprised yelp. Adan placed himself before her, summoning his magic forth and reinforcing his body with [Unrelenting Wall] as he braced for an attack.
+
+It never came.
+
+The old man appeared where he had been a moment before, his eyes still boring into Adan’s like blades.
+
+“You have not yet earned death,” the man said. “Come.”
+
+Adan stared at him, his heart slamming in his chest. “What?”
+
+The old man walked past them, not even bothering to glance in their direction. He came to a stop at the end of the alley. “I told you to come. Your team members are waiting for you. But they will not be waiting long. We do not take kindly to people intruding upon our land. Two choices. Retrieve your litter or you will find them feeding the soil.
+
+The hair on the back of Adan’s neck stood on end. They’d found both Pete and Niles. The old man had specified members, plural.
+
+Anger flashed across Betsy’s face. “Why, you—”
+
+Adan clapped a hand over her mouth.
+
+“We’re coming,” Adan said flatly. The purpose of this mission had changed. He didn’t give a rats ass about the pay if it meant coming out without half his men. The Blacktongues information had been wrong. If Pete had been captured… the Menagerie hadn’t sent their best members to the party at all. They’d been expecting an attack. He clenched his teeth. “They’re alive?”
+
+“For the time being,” the old man said.
+
+And that was all he had to say. Adan released Betsy’s mouth. She swallowed back her anger. And, with no other option, the two of them followed after the old man. He led them up to the front entrance of the Devil’s Den.
+
+The door swung open entirely of its own volition to reveal a dimly lit dining room beyond. A lone orange lantern flickered from a beam in the center of the room, just barely managing to illuminate an empty table beneath it.
+
+Adan’s unease built, but he could do nothing but follow after the old man. His eyes darted around in the darkness in preparation for an ambush. But just as before, no attack came. They continued unimpeded through the common room and into a room in the back, where they descended into a cellar below.
+
+Light greeted Adan’s eyes again.
+
+He almost wished that it hadn’t.
+
+Niles and Pete were bound before him, held aloft by the roots of a pitch black tree covered with crimson red leaves that shimmered like rubies. The tree nearly filled the cellar entirely, only a few feet away from reaching the ceiling above it.
+
+The roots bound around both of the men’s mouths, preventing them from speaking. All of their weapons and armor were in a pile on the ground in front of them. They were flanked by two members of the Menagerie.
+
+Adan recognized them immediately. His hands clenched in anger. The Blacktongue’s information really had been wrong. The Menagerie had left behind Olive and Kien, two of the strongest fighters in the Proving Grounds.
+
+He didn’t miss the fact that the rest of the Menagerie were nowhere to be seen. Given the fact nobody looked particularly angry, it wasn’t because Pete had killed anyone.
+
+They only sent two people to deal with us because we weren’t worth any more attention.
+
+“Ah. You found them,” Olive said.
+
+“Of course I did,” the old man said. “This is my street.”
+
+“Our street,” Olive corrected.
+
+“Semantics,” the old man said. “I’m done here. Deal with the situation as you will.”
+
+With that, he vanished as if he’d never even been there.
+
+Olive shook her head and blew out a sigh. “Who are you, and why are you here? And please keep in mind, I’ve already asked both of your allies the same question. If your story differs from theirs in the slightest, we’re all going to have a very bad time.”
+
+“But it is better to have a mess now than later,” Kien provided, leaning against his broom and arching an eyebrow. “After all, it’s better to clean up once.”
+
+“We’re the Scarred Hand,” Adan said immediately. Any loyalty he might have had went right out the window when the Blacktongues had lied to him about the Menagerie’s forces. “We were hired by the Blacktongue family to investigate your guild in search for an artifact you took from their dungeon.”
+
+Was Olive the one that defeated Pete? Is she really that skilled? He’s a Tier up on her… but I didn’t even hear a fight. There’s no way he was outclassed that badly, is there?
+
+Olive nodded slowly. “That matches up. It’s bullshit, but I suppose you’re just repeating what they told you.”
+
+“We’ll leave immediately,” Adan said. “The Blacktongues gave us false information, but our task was only to scout for an item you have. Nothing else. We aren’t here to fight you.”
+
+Olive glanced at Pete. Then she shrugged. “That may be the case… but you can’t expect us to just let you leave after you broke into our building, do you?”
+
+“You implied there was a way out of this without a fight. What is it?” Adan asked. “Any information you want about the job is yours. I have no need to cover for employers that feed us lies.”
+
+The corners of Olive’s mouth pulled up. Her wooden arm twitched, almost as if in displeasure, but she crossed her arms behind her back to pull it out of sight.
+
+“Then let’s talk the terms of your surrender. Tell me everything you know about the Blacktongues and why they want this item we supposedly have.”

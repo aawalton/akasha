@@ -1,0 +1,329 @@
+---
+id: 7b879a45-a4a8-56ac-9cfd-3f64f195034d
+page-type-slug: story-chapter-royal-road
+title: "220 Laying Out Options"
+slug: 0179-220-laying-out-options
+partOf: the-new-world
+position: 179
+ownLength: 5120
+unit: words
+ownProgress: 5120
+publishedAt: 2019-08-09
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/390550/220-laying-out-options"
+royalRoadId: "390550"
+markedReadAt: "2026-06-29T21:27:01.382Z"
+---
+
+Caprika rolled her eyes under her red mask, "Such as?"
+
+I coughed into a hand, "Ahem, I'll let you know later when I've let the ideas gestate for a bit..."
+
+Caprika laughed for a moment before turning back to her city, "Good luck with your goals. I'd offer more help, but I doubt I'd be of much use in that regard. Battle was never my forte, though I've already sent for the techsmith. He'll be here in the hospital within the hour."
+
+She raised a hand, "Ah yes, I took every precaution necessary to ensure his security since you've been hacked before. I've already run a background check along with compiling a history of his service. He is absolutely trustworthy, having a family he cares for within this city. This is a big opportunity for him."
+
+I walked out of the room, "Thank you for that. You're way more thoughtful than I'd be, that's for sure. Anyways, see you later. Maybe we can have lunch in your new palace at some point."
+
+Caprika steepled her fingers, peering down at her model city, "We just may. Good luck getting rid of that monstrosity."
+
+I left the room before rounding up the others physically rather than by message. I didn't want to message them and expose our location to anyone peeking at my status. It didn't take long before I, the gialgathens, and the other aliens were standing in a circle in the healing room for large animals. It was the only room big enough for everyone. They all still wore my armor, though the old black plates carried a few dents and slices from battle. I was glad it held up.
+
+As I stared around, a surreal sensation washed over me. It was kind of strange that I was the most human person here. That was factoring in my dimension status, which was kind of wild. Either way, I rolled with it as I spread out my hands,
+
+"How's everyone holding up?"
+
+Krog glared down at me, a bit of fury in his eyes, "We've lost half our gialgathen members. The humanoids were safe, as always."
+
+I turned to him, raising an eyebrow, "If there's a problem, just bring it up. Don't dance around it."
+
+Krog shook his head, "We gained nothing, and we lost good people. What isn't there to be infuriated about?"
+
+I waved my arms, "I understand what you're saying, but you're looking at this all wrong. We might not have killed Lehesion, but we learned some essential information about him. That wasn't the kind of enemy you defeat easily and in one encounter either. I mean, you of all people know that. He defeated Emagrotha."
+
+Krog's expression soured further. I raised a hand and counted on my fingers,
+
+"Let's look forward, alright. What did we learn? Well, first off, he's immortal. Lehesion cannot be killed. This changes how we'll approach the situation entirely. We can repress him and incapacitate him with Helios and me as long as we have the element of surprise. I can use that orbital bombardment to buy us time to capture him."
+
+I raised my eyebrows, "That's if we can get Helios's help again of course. I'll admit, that's a big if. For now, let's assume we will."
+
+I raised another finger on my hand, "We have ways to circumvent his aura. Anyways, the second set of tactics we learned were ways to avoid Lehesion's aura. Helios's warps bypass it. We can plan around that in our next encounter."
+
+Althea crossed her arms, "So can Lehesion though. If he moved around, then he wouldn't have taken that kind of damage. I doubt he'll let us wail on him after you decimated him like that."
+
+Chrona murmured, a bit sadness in her voice, "And my aura will remain useless against him, along with most of our abilities."
+
+Krog was breathing hard in the back. Something about what she said was riling him up. Considering he just lost his home, grandfather, and many friends, I could understand why he was angry.
+
+Before he lashed out, I pointed at Chrona, "Maybe, but I might have another solution. While within Lehesion's aura, I could counter its effects by manifesting my mana. I should be able to create a gap that lets you all attack him while I keep him busy. It shouldn't be impossible considering the boost I got to my mana recently."
+
+Krog frowned, showing teeth, "There are many ifs and few absolutes in this plan of yours. There is one thing for certain, Lehesion crushed you in one swipe before when wielding his full power. What makes you think you can hold him off on your own?"
+
+It was a reasonable concern. I raised a hand, "I recently became much harder to kill. As long as my body holds, I'll be able to hold the line against Lehesion. He isn't actually that skilled since he relies on his aura and infinite mana for most of his offensive prowess. On top of that, his mind has degraded quite a bit. I'm pretty sure his actual tactical depth will be lacking. That gives us wiggle room to work with."
+
+I banged my cheek, a metallic ring echoing out, "Getting tougher is why I went missing for the last three days actually. I'll be working on it until we fight again as well. Considering Lehesion needed that aura condensing attack to really hurt me, he'll leave himself wide open to really do some damage. You all will be ready to fire away when he does."
+
+Chrona tilted her head at me, a genuine confusion spreading over her face, "How can you fight him on equal footing now?"
+
+I nodded, "Er, my armor has these evolutions. They are a big reason for why I'm so strong right now, though I did build to accentuate my armor's strengths. I just had a massive breakthrough involving the evolutions. It made me several times harder to kill, and my mana increased by a similar level as well."
+
+I raised my hands, "Of course, I can't muscle past Lehesion just yet, but I should be able to hold the line indefinitely as long as you guys are on point with countering his aura attacks."
+
+Krog scraped a claw against the ground, "I understand your confidence, and I know what kind of warrior you are, but you must understand something. We put lives on the line last time we fought. We're fortunate to have lost so few, even if our homes were destroyed."
+
+He pointed his tail at Chrona, "You were throttled in one strike by that behemoth. I can't in good conscience put our troops on the line over your estimations, as good as they are."
+
+I shook my head, "Trust me when I say the situation has changed since then. We have a chance, and don't forget this planet will be glassed in the near future if we don't act soon. Otherwise, I doubt we'd even attempt fighting Lehesion again."
+
+Krog's tail whipped back in forth, "Perhaps a demonstration is in order then? We need something concrete to work off, something that can be seen perhaps. It would ease the concerns of the group I'm certain."
+
+Krog narrowed his eyes, "That shouldn't be a problem unless you're lying about your sudden change."
+
+Chrona turned to him, "What would you have him prove? Your own blows do nothing to him."
+
+Krog nodded, "Perhaps, but your strikes are different from my own. You crippled him in your last bout even if he recovered quickly. Daniel, if you could withstand her strikes, it would give me confidence to follow you and your assertions. Would you mind setting concerns to rest?"
+
+I bit my tongue, a bit annoyed at Krog's sudden rebellious streak. They were much more emotionally invested in the fight than I was, however. It made sense they weren't handling it quite as well.
+
+Taking that into consideration, I quelled my irritation. I was a leader now, and it was my responsibility to be level headed even if my followers weren't. Even then, a simple demonstration wasn't asking for an arm and leg. Well, most likely at least. I turned a palm to Krog,
+
+"Alright, sure. It's good you're skeptical. I wouldn't want you guys running in unless our plan was bulletproof anyways."
+
+I turned to Chrona, "I can show you guys anywhere you want. The others can watch as well."
+
+She nodded before we walked out to the center of the spacious room. It gave us plenty of space to move and attack with. I rolled my shoulders, facing Chrona's bright blue form,
+
+"Use your time dilation and give me a good whack with your tail at full force." I turned to Kessiah, "Be prepared to heal her."
+
+Chrona's eyes were sad as she waved her tail behind her. She sighed as her dark blue, primordial mana pooled behind her. She murmured,
+
+"Be ready. I would like to think you haven't forgotten my potency when I can use my abilities."
+
+I shook my head, "Of course I didn't forget. I know full well how strong you are, and that's why this demonstration will be so effective."
+
+As I finished my words, the blue ocean of energy welled above Chrona. The dimension around us shifted, her temporal dilation set. The others slowed down while Chrona and I readied ourselves for the attack. Chrona frowned,
+
+"You understand I can attack better when you aren't moving, don't you?"
+
+I nodded, "Uh, huh."
+
+"Just making sure. I'm nervous I'll really hurt you."
+
+"The math says I should be fine tanking your attacks now. If there's one thing that's worked for me so far, it's the system's math." I took a deep breath, "I should be fine if its right, and it hasn't been wrong so far."
+
+I set myself into a fighting stance, "Anyways, whenever you're ready."
+
+She gave me a curt nod, "In Emagrotha's name, we fight."
+
+Her tail whirled behind her, slicing the air behind her with a loud howl. With the momentum set, she reared the tailback and snapped it towards me. She hastened her movement, making her armored tail whip as fast as a falling anvil.
+
+As it grew in my vision, friction from the air made the room heat up. It would hit me like a runaway train. That much was certain. I braced my arms overhead, meeting her slam from over me. I flashed a potent panel of gravity above me at the moment of impact, preventing the resulting aftershock from destroying the hospital. I didn't want to ruin all the favor I curried with the empire over some test.
+
+Without having to worry about the repercussions, I stared up as her tail made contact. The protection my black armor gave faltered, the metal shearing. Unable to handle the stresses placed upon it, her entire tail bent forward to an odd angle. As the forces rebounded up the bones of her tail, they snapped several vertebrae in.
+
+The skin ripped along with a few muscles keeping the tail together. I winced as Chrona stared at the pale bones and pink flesh in her tail in shock. Blood seeped into the wound, turning it into a disgusting mess seconds later. It was an odd moment. My forearm acted as a dull blade, like slicing an orange with a rolling pin. If you add enough force, however, you could cut just about anything in a smashing sort of way.
+
+In this case, it was like cutting your finger off by slamming it with a car door.
+
+Turns out, that's pretty painful.
+
+Chrona winced as she gasped in a suppressed agony. I pulled her tail back together with a gravity well. After it plopped back down, Kessiah shuffled over with her blood arts at the ready. Within seconds, she shifted a pool of blood over the arteries, nerves, and tissues. Keeping a professional demeanor, she stared at the wound without so much as flinching.
+
+A few minutes later and Chrona was good as new. The gialgathen glared at her wound, moving her tail back and forth as if she didn't believe it was already fixed or that it broke in the first place. I let my arms down, gialgathen blood dripping down my forearms as I looked at the others. My armor soaked in the blood as I said,
+
+"That should be plenty enough to tell I'm not joking around about what I said earlier."
+
+Krog's eyes were wide as I'd ever seen them, looking more like dish plates the angry orbs they were before,
+
+"To think you've changed so much in so little time. Lat time you crumbled, and this time you withstood with ease."
+
+I shook my hand, "To be honest, this evolution has been a long time coming. It took years on investment. Just as well, I didn't crumble last time per se. The bones in my forearms broke. If it wasn't for the armor I gave Chrona, that wouldn't have happened."
+
+I gestured to myself, "Since then, my skin and bones condensed. That means my old armor didn't hold up. Without that, Chrona is trying to cut a steel wall with her tail." I pointed at the splattering of blood on the floor,
+
+"Needless to say, it didn't work out."
+
+Chrona looked as if she'd seen a ghost, gasping for air as she turned to me, "Please remind the others not to doubt you next time." She glared to Krog, "If they do, they should be the ones to test your tall tales instead of me."
+
+Krog grimaced a bit, a look of shame spreading over him. I turned to everyone, "The only reason any of you doubted me was because I failed you guys. If any of you are angry and frustrated, I want you guys to understand that I'm angry as hell too. Lashing out is what I want to do, but that accomplishes nothing. Instead, I have a better idea."
+
+I narrowed my eyes, "We get even. Lehesion took away your home, but he can never take away who you are. Now we can turn on each other and let our comrades die in vain, or we can stand together and tear Lehesion apart. The choice is obvious."
+
+My words sunk in over the next few seconds before Krog frowned, "I am still angry over our loss and the comrades I left behind, but-"
+
+His voice softened, "But I can see you're attempting redemption. You mean to avenge our fallen comrades. I will follow you still, in earnest."
+
+I raised a hand, "Good. I'll need your help for what comes after I distract Lehesion then."
+
+Chrona collected herself and spoke up,
+
+"What else is there that can be done?"
+
+I tapped my temple with a finger from my raised hand,
+
+"We'll be infiltrating his mind. From his insane ramblings, we learned he's being controlled to an extent. If he's being controlled, we can tamper with that telepathic link or maybe even control him in their place. Now while I may not be the best at mind magic, I know someone who is."
+
+Althea grinned while snapping her fingers, "Torix."
+
+I pointed at her, "Bingo. He and I can wrestle for control while you guys pummel Lehesion to powder. If we can smash the mind magic that's controlling Lehesion, then we can stop him from becoming a threat altogether. Hell, he might actually be an asset at that point."
+
+Althea bounced on her feet, "That's perfect. Good thinking."
+
+I grinned at her, "Thank you. Those mind mages we fought when we found Thisbey made me think of it. Since my willpower is astronomical, I just need some fine tuning before I can wrestle control from them. I put up a good fight with zero experience, after all."
+
+I scratched the side of my head, "I think so at least. Torix will let me know. All in all, that's the plan. We incapacitate, get to work weakening their control of his mind, then we figure out where these guys are and kill them too. What do you guys think?"
+
+Chrona laid her head against her paws, her voice relaxing, "It seems well thought out. I'll follow it."
+
+Krog rumbled, "I dislike letting that betrayer live, but if it must be done, it must be done."
+
+Kessiah let out a breath as she composed herself after healing. She looked rather pale as she turned to me, "I'll be honest, this isn't my area of expertise. Just go with your gut."
+
+I clapped my hands once, "Alright, we got a plan. After a techsmith handles this bullshit system hacking, I'll be sending Torix a few messages to see what's going on. I'll probably meet up with him wherever the hell he is and sees if we can't get him back over here."
+
+After a few explanations about the system hacking, an albony walked into our room. It wore an orange mask over his face. The tribal, wooden cover was simple, engravings embedding the strangely shaded wood. With a few holes in it for viewing, the albony stepped up. He gave me a bow, brandishing a fitted coat. It showed the albony's thin, lanky frame.
+
+"It is good to meet you, Daniel. I am Jim Mcsmitty. I am the techsmith sent by Caprika Novas."
+
+I almost burst out laughing at the name, the simplicity of it caught me off guard. After suppressing my snickering, I raised my head, "Uh, good to meet you too, Mcsmitty."
+
+"But of course. Now, if you wouldn't mind, I'll be perusing through several diagnostic procedures with you. Could you take out your obelisk for me?"
+
+I opened my palm, my obelisk floating out of the gray-black metal. I tossed it to him, Mcsmitty catching it with refined grace. He threw it up before suspending the object with several blue strands.
+
+From these strands, a defuse light ebbed, scanning the glass orb. Within seconds, Mcsmitty tossed the ball back to me. As I caught it, Mcsmitty locked his hands behind him and bowed to me,
+
+"This is the source of the contamination. It's a simple message conscription software installation. It creates an immediate copy of all your sent messages before sending them out to whoever planted the bug. According to my data, Tohtella Adair planted it several months ago while you were in Yildraza."
+
+I facepalmed, "Of course. It was when I let her use my obelisk."
+
+Mcsmitty nodded his white fur ruffling, "That is precisely so. This is a very commonly utilized virus, and there's no shame in having been hoodwinked by it. That being said, I do recommend viewing this as a learning experience of sorts."
+
+He raised a finger, "Simply put, never allow anyone access to your obelisk outside of trusted confidants. Even then, I wouldn't recommend taking that risk."
+
+I glared at my obelisk, "Then what should I do with this?"
+
+"You'll need to dispense of it, preferably using some sort of hydraulic press. I know of several excellent locations-"
+
+I crushed the obelisk in my hand to a fine powder, the glass screeching as I did. Mcsmitty winced at the sound,
+
+"Ahem, I wasn't aware you serve as a hydraulic press already. Do excuse my lack of tact."
+
+I pointed at the guy, "You know what, I like you Mcsmitty. How about you work for me?"
+
+Mcsmitty rose out of his semi-bow, glancing around, "What, me?"
+
+I nodded, "Yeh."
+
+"Why I'm flattered, but I'm several levels below you in status. Perhaps a higher rank techsmith will better suit someone of your needs-"
+
+I waved my hands, "Is that why your mask is orange instead of red or black?"
+
+Mcsmitty nodded, "That is precisely so."
+
+I raised my eyebrows, "How do the classes even work?"
+
+"There are five tiers for our masks. I am in the middle range, giving me access to an orange wood from the defalga tree. The uppermost ranking is only for those that rule large territories, and they wield black masks. Below that are royalty or nobles who may rise at some point in time. They wear red masks."
+
+Mcsmitty let out a sigh, "Orange masks are commonly held by skilled technical workers, ambitious warriors, or merchants. Below that is the yellow masked, and they are what most refer to as commoners. I began in that status before proving my worth."
+
+Mcsmitty shook his head, "The lowest status are those wearing a white mask. They are considered useless to society and carry not even the most basic of privileges. It's quite simple to move out of that status. Few of the lowlings opt to do so, however."
+
+I nodded, "Huh, so where am I?"
+
+"You're considered a lower tier red mask, sir."
+
+I raised an eyebrow, "Can I be honest with you here?"
+
+"But of course."
+
+"I couldn't give two fucks about my ranking. You figured this problem out fast, and you did it professionally. I also don't have time to learn the ins and outs of this tech stuff, so hiring you makes sense for me. How much do you make?"
+
+He coughed into his hand, "If I may be honest as well, I make a humble 100,000 per year-"
+
+I snapped my fingers, "Alright, doubled. Welcome to the Harbinger's Legion."
+
+Mcsmitty raised his palms to me, "While your generosity is more than amicable, I live with my family here on Belka-623. I couldn't leave them."
+
+I cupped my chin, "Could you move to my home planet then?"
+
+"We could, though this begs the question - why do you desire my assistance to such a degree?"
+
+I shrugged, "You seem trustworthy, and you're good at what you do. This is also very convenient for me, so I have no problem paying a bit for this kind of security. You'll probably be looking over several thousand people besides for me, and you might need to host a few classes on the technical side of things."
+
+Mcsmitty leaned back, his uncertainty showing, "This is quite the addition to my current responsibilities..."
+
+I pointed at him, "You drive a hard bargain. Tripled income and free housing. Deal?"
+
+I stuck out my right hand, and Mcsmitty looked at it. He stuck out his left hand, grabbing the back of my hand. He glanced down at it then back up to me, "Is this the custom for an agreement in your culture?"
+
+I shook my head, "Not even close, but I get what you mean." I patted him on the back, "Welcome to the team."
+
+We handled a few more details involving his acceptance into my guild. Mcsmitty was stunned when he had the option for a legacy from intelligence, endurance, willpower, strength, and constitution. The thin albony scratched the side of his head,
+
+"This is quite the conundrum. Which legacy would you recommend?"
+
+I smiled, "Endurance because not dying is pretty important. Still, you know what you need better than I do."
+
+"Perhaps this will be better then. Willpower will allow for further study, and increase my intelligence by quite a bit as well. Thank you."
+
+I drew up a quest acceptance for three hundred thousand credits per year of dedicated service from Mcsmitty. After lining up the responsibilities, I sent him the contract along with Earth's coordinates. He accepted before locking his hands behind him and bowing once more,
+
+"You've tied my hands, sir. I'll need a week before I'll be ready to change locations to your base of operations. Thank you for your time and consideration."
+
+I gave him a nod before he stepped away. I glanced at my hands, thinking about what just happened. Owning a guild wasn't so bad if I could gather people like that so quickly. I wondered if we needed a recruiter in general to shore up the weaknesses in our guild. Considering how much money I had, that didn't seem like a bad idea.
+
+With that in mind, I sent a message to Torix about everything that happened along with my thoughts about a recruiter. The long message detailed everything that happened since his untimely consumption by Version 2.0. I waited a few more minutes before scratching the side of my head. It might take a while for him to resuscitate after his soul was sent to its phylactery.
+
+I wasn't about to waste any more time waiting for a reply, though. It was time to work on my ability to take Lehesion on. That started with the cipher. As I looked over my armor augments, one of them included making the cipher more efficient. It was already a massive source for raw stats, but now it would be even more useful.
+
+Using it correctly was key to my progress from here on out. While I could siphon my mana into my fancy, massive rune across my back for more ambient mana, it wasn't that efficient. Instead, I aimed to create a rune to enhance my constitution. With the way all my trees and perks worked, that would be my most viable and efficient way to improve my fighting ability. My mana regen and miscellaneous stats were plenty high at this point anyway.
+
+Those thoughts guided me as I walked through the hospital for a quiet place to work at. I found a hallway between two rooms that ended with two plants, a comfy looking chair, and a window showing the city. It looked like space was leftover from the two surrounding rooms during the hospital's design. Someone spruced it up, so it didn't look out of place.
+
+It suited my needs perfectly, sunlight streaming in from the glass window. After sitting down and enjoying the quiet, I smoothed the luck and perception runes over my forearms and palms. I pulled my grimoire out of storage, opening towards the few black pages left at the back of the booklet. All that remained was the charred corpse of my old grimoire, but this booklet served its purpose.
+
+I would need to make another grimoire soon though.
+
+I sharpened one of my fingertips until it was like a pen before tapping it on the black page. Brainstorming about constitution, I outlined my thoughts about it. For starters, the literal definition revolved around the way something was put together. My composition was one of the biggest reasons I was a good fighter, even if it wasn't something I thought about all the time.
+
+When I did think about my constitution though, it didn't mean being a dense, heavy, and hard substance to me. Constitution was the stat that refused to be moved. It was making your last stand against incredible odds. It was staying defiant in the face of the impossible and improbable.
+
+In other words, having a great constitution was having a great backbone.
+
+I guess you could say that was more a mental attribute than a physical one, like willpower and intelligence, but I had to disagree. When I first faced monsters that made my skin crawl, my body was the first thing to shut down. My vision narrowed, my heart raced, and my muscles seized up. It was as much a physical reaction as a mental one.
+
+Pretending there wasn't some kind of physical element to it seemed short-sighted to me. After all, if I faced someone who I dwarfed, I oozed confidence. There was no sense of impending doom anymore, and that let me focus on performing instead of trying to calm down.
+
+So in a way, having a great constitution allowed me to have certainty when facing a foe of immense size and power. It was the first line of defense against fear, and that was all important to avoid. Fear was the mind killer, a real destroyer of rationality. If I lost those tools in the middle of a fight, then death was waiting right around the corner. Keeping myself composed was pivotal then.
+
+Confident in that interpretation, I set to work on my runic work. I used tiny pinpoints of telekinesis along with some heat to burn into the pages. They mimiced metal more than pages anyway, so this worked well for me.
+
+Several minutes evolved into several hours, the sun setting down and night passing. A janitor caught me, wondering what the hell I was doing in the hospital still, but I convinced him to leave me alone with some mental pressure. As the morning came, I finished my runic work and channeled some mana into it.
+
+Ten minutes passed, and both runes were finished. After placing them on my palms and arms, I smacked my hands together. It was a job well done. I opened my status to make sure I didn't have any messages about the guild. Besides a few dozen miscellaneous messages from my followers, there was nothing of note.
+
+Shit. Torix was still doing whatever he needed to for recovering. Not everyone had my kind of regeneration, so I had to be patient. I took a deep breath before moving down my list of priorities. The reason the cipher came first was that it would work in the background while I did anything else. It was layering the things I accomplished at once, kind of like cooking food in the microwave while putting dishes in the dishwasher.
+
+Well, Mana channeling into the dimensional cipher was pretty damn different, but it was the same concept I supposed.
+
+Anyways, I opened my status menu before checking out my tabs. I found a new one for the mythical compendium, which was next up on my list of things to do. Without further wait, I clicked it, opening a new menu.
+
+The mythical compendium is about to be open. User will be unable to move or think for three days once the virtual simulator is opened. Are you in a safe and comfortable position?"
+
+I sat up straighter, my posture kind of shitty. I clicked yes, and another message popped up,
+
+Data Processing...Data Processing...Data Processing
+
+I tapped my fingers, waiting on the damn thing to finish. I went ahead and sent everyone a message that I'd be unavailable for the next three days. Better to let them know instead of letting them panic.
+
+Data Processed. Simulation Created. Consciousness Being Transferred.
+
+Some force grabbed my mind, making my hairs stiffen up on end. I fought back without meaning to, a deep, primal reflex activating. Some type of calming aura washed over me a few seconds later. I tried keeping my eyes opened, but they closed seconds after.
+
+All went blank before I opened my eyes, finding myself in a different world. As I glanced around, I cupped my chin,
+
+"So this is the mythical compendium, huh."
+
+I raised my eyebrows.
+
+"It's...weird."

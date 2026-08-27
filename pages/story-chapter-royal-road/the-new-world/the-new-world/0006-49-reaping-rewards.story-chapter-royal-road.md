@@ -1,0 +1,223 @@
+---
+id: 7521d2c5-7c3f-54a5-8d25-f1a02a8fcfe7
+page-type-slug: story-chapter-royal-road
+title: "49 Reaping Rewards"
+slug: 0006-49-reaping-rewards
+partOf: the-new-world
+position: 6
+ownLength: 3508
+unit: words
+ownProgress: 3508
+publishedAt: 2017-09-20
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/163196/49-reaping-rewards"
+royalRoadId: "163196"
+markedReadAt: "2026-06-29T21:20:53.575Z"
+---
+
+Kessiah stood up and shouted with her arms raised,
+
+"That was fucking awesome. Man, you guys had to pull out all the stops to win that one."
+
+She walked over and picked up Althea who was passed out on the ground. Kessiah glanced towards me. She shrugged her shoulders,
+
+"I guess that's all for today. You can do whatever for the rest of the day. I'll be carrying Althea back to the camp."
+
+I leaned up, my health regenerating at a rapid pace. In front of me was a dungeon core. It was a black ball with a red, glowing outline. I picked it up,
+
+"Yo, Kessiah. What's wrong with this dungeon core?"
+
+She turned to me and raised an eyebrow. She pointed a finger at me, "That's an advanced dungeon core. Has anyone ever explained the dungeon cores to you?"
+
+I shook my head, so Kessiah walked over. She reached me, and sat down with her legs crossed. She reached out an open hand, so I set the dungeon core in it. She tilted it, observing it,
+
+"There's five known tiers for dungeon cores. This is tier 2, or an advanced dungeon core. It levels up any skill you have by ten points, and gives you ten attribute points."
+
+My jaw dropped. I stammered, "You serious? Ten skill and attribute points? What the fuck."
+
+Kessiah shrugged, "It's not as good as you think it is. Take whatever level you are. Now divide that by four. That's how many attribute and skill points you can gain from dungeon cores."
+
+"So, if I'm level 400, I can only get 100 skill points and attribute points from dungeon cores?"
+
+She nodded, "Yeah. Exactly. Torix and I already maxed out our dungeon core limits a long time ago. I'm sure I could find a few extra just lying around if you want them."
+
+I nodded my head, "Of fucking course I do. Why the fuck are you holding out on us?"
+
+"Well, I had to earn those cores. I figured you should at least see how much trouble it is to get one first before getting as many as you needed."
+
+I shook my head, "That's just...so dumb."
+
+Kessiah pursed her lips, "Why?"
+
+"Because we've almost died to followers twice. Why in the fuck would you leave us in a weakened state for so damn long? What if I died to Dakhma's strike that one time because you didn't give me the dungeon cores? What if you died because of it?"
+
+I grabbed the dungeon core from her hand. My armor absorbed it. I frowned at Kessiah,
+
+"Do you have them with you or are they somewhere else?"
+
+She sighed, "Fine, fine. I get it. My bad. Calm down. It isn't like I have to give you anything either."
+
+I raised my hand up before letting them slap my thighs, "Alright. I guess you're right. I'll ask Torix for them. See if he wants to help out. You know, stop us from dying or some shit."
+
+I stood up, but Kessiah reached out a hand,
+
+"Wait a second. I'm sorry. I'll be honest with you. Most people when they first make their builds don't think in the long term. Torix and I wanted to have an in-depth discussion about the ins and outs of your builds before giving you the cores."
+
+Kessiah stood up, Althea cupped in one of her arms. She continued,
+
+"We figured some real-world experience in fighting would give you guys an idea of what stats are important. Once you guys understood that, we'd give you the cores and advise you on what to put points into. Neither of us thought that all of us would almost die both times we went out purging."
+
+I sighed, "Alright, fine. It's ok. I'm just on edge is all. I think Althea and I have a good understanding of what and how to build around our stats. Do you mind giving me the cores now or no?"
+
+Kessiah reached out with Althea. I took her from Kessiah's arms. Kessiah rustled through a knapsack on her left side. She pulled out a ring. She grinned,
+
+"This little knapsack is covered in a nanofiber mesh to make it tough. This-" She raised up the ring. "-is a temporal field generator. It holds all kinds of goodies, most of them you aren't ready for."
+
+She put on the ring. A second later, I could hear the sound of her skin being split. It sounded like shearing iron, oddly enough. Crazy how hard her skin was.
+
+Anyways, a little portal opened in front of Kessiah. With a glowing band of white surrounding a starry sky, it was beautiful to look at. Kessiah reached her right hand inside before pulling out four red dungeon cores. She piled them onto her unused arm, like the cores were a baby in her left arm. She raised an eyebrow at me,
+
+"Eight should be enough for now? I don't have anymore on me right now."
+
+Shocked at her generosity, I glanced away, "Uh, yeah. Sure."
+
+She nodded before reaching out with a core in hand, "I'll feed them to your armor. I'll give you a few extra points for when you gain levels later down the line. Let me know if you need any more later, ok?"
+
+I nodded my head. Suddenly, Kessiah was like a mom. It was really weird. She reached out a hand and pressed the core onto my armor. The core sunk in. Eight later, and I was fully stacked out. Kessiah took Althea from me,
+
+"I'm heading out. Don't stay here too long."
+
+I nodded before Kessiah ran out of the room at a blistering pace. Once she was gone, I walked over and absorbed the corpse of the Gabriel. I walked around the room, taking in the bits of his armored skin as well then the chains too.
+
+After finishing the feast, I opened my status screen. There was a special prize waiting for me.
+
+Experience from the Gorged SoulSwallower will be added to Gabriel, the Ascended Angel's exp total. +60,000,000 total experience gained.
+
+I gained so many levels from the fight that it astonished me. Since defeating that dumbass bone knight guy, I gained 140 levels. I glanced at the history of my experience gain for a second, and 126 of those levels were from the Gabriel and the SoulSwallower.
+
+A sudden realization snapped in my head. This dungeon was in the quarantine zone. Althea and I both received doubled experience from the big boss man himself. That's why I gained so many levels. That and my obliterator perk bonus that doubled experience from unique bosses.
+
+After that eureka moment passed by, I furiously allocated my points into constitution. After many, many clicks later, the perk menu finally opened up. I'd gained the perk for dexterity.
+
+[Prodigy (Dexterity of 100 or higher. You have (1) level 100 perk left for selection. Choose wisely.) - What takes others years, you do in seconds. Doubles the extra balance, flexibility, and reaction time from the dexterity leveling perk. Adds another 5 points of health per point in dexterity (10 health in total.) Adds another 1/10th of dexterity to perception (3/10th's in total). Doubles reaction time, balance, and flexibility bonuses from points in dexterity. Increases mythical skill cap by 1(4 Total).]
+
+I selected the perk. After checking out my status screen, I still had four points left. I didn't really know what to invest in from here though, so I finalized my choices. I left the four points unallocated for now.
+
+Immediately my armor tightened around me again, but I balled myself into a knot of muscle, making the armor snap. Even if I hadn't, the armor wouldn't have held for even a second. The size I grew was simply too much. The sudden surge of strength didn't hurt the situation either. That wasn't the only difference though.
+
+My angle of sight changed. Not by much, but enough to notice. My heels dug into the floor, not by inches but enough that I perceived the difference. Everything was lower to the ground. After all the points I put into constitution, I thought I would have gained more height. It turned out differently in practice.
+
+My guess was that constitution added a certain amount of weight per level and per point in the stat. As I gained that weight, I gained enough height so that I didn't end up becoming to brawny. If you think about it, someone who's five-foot-tall isn't half the weight of someone who's ten feet tall. The difference in weight between the two ends up being a lot more than just double.
+
+In other words, I didn't have to double in height to double in weight. Constitution also made me denser, meaning the height difference would slow down over time. That meant constitution's height increase would be slow. Still, it would build over time, unlike the sudden difference in physical control. That's a weird way of saying it, but it's hard to describe.
+
+When I took a step forward, I naturally adjusted the weight of my foot depending on surface I walked on. I took a few effortless steps, my feet light as air to me despite being heavy as stone. I leaned against a table, pressing my weight against it. I rebalanced myself, pushing myself up into a handstand on the table.
+
+The table cracked, slumping down. I kept balanced despite the sudden shift. A second later, the table caved inwards, but I kept myself in my handstand without any difficulty. Even with the sudden changes in size and weight recently, this body was my home now. Nothing about it was foreign. For some reason, doing this wasn't surprising. In my mind, it was to be expected.
+
+I let my feet fall forward before turning into a sprint. I front flipped before landing in a perfect split. I glanced down, awe struck at the ridiculousness of it all. I laughed aloud at myself. I was a gymnast now.
+
+A fly flew past me, and I waited till it was behind me. I pulled my legs together, making me stand upright again. Stepping backwards, and off the sound of the fly alone, I jerked my hand back and grabbed the fly out of the air. As I did so, I tried not to crush it.
+
+When I pulled the fly in front of me, I hadn't even torn a wing off the thing. The fly buzzed in between my index finger and thumb, alive and well. I'll admit it. That surprised me. I let the fly go before cracking my neck. The difference from before was starker than I thought it would be.
+
+With that in mind, I checked the beautiful numbers.
+
+My constitution was three times higher. That's what a ton of levels and dungeon cores will do for you. Those points piled over nicely into strength, keeping me powerful despite my one-sided investments. That in turn fed into my dexterity, letting me get the level 100 perk. All in all, I was a much more balanced fighter in an instant. All that was because we fought a boss so many levels above us.
+
+As always, Schema rewarded ambition. The volume of levels and mana amazed me. If that fight took place without Kessiah there, it would have been damn near deadly. Having her there made all the difference. Not having to worry about death lets you focus when fighting. Considering how close the fight ended up being, I figured Althea and I would've died without Kessiah's presence.
+
+That being said, I doubt I'd struggle so much anymore. I could bully the SoulSwallower with my sheer heft, and the dexterity would let me defend myself versus Gabriel's armored form. Of course, it still would've been a desperate struggle, but I honestly believed in myself. I could take him now.
+
+I clasped my fists, noticing how my armor already adjusted to my new form. The only reason it snapped each time I gained a bunch of constitution was because of how snug it always was. Without really thinking, I took a step like I was giant. I let my feet slap against the tile floor, and the ground shook a bit. Not much, but just enough to notice.
+
+I laughed at how ridiculous I must look. The giddiness of gaining levels passed as I walked out of the lunchroom. I opened my status screen, finding my 2-D map of Springfield. Several other dungeons were available, some not even a mile away. After how fruitful this dungeon had been, the prospect of clearing them was tempting.
+
+With that in mind, I sent Torix a message,
+
+The Harbinger of Cataclysm (7:21 PM 4/13/00) - Yo Torix. Would you mind guiding me to a few more dungeons? I want to clear them for a few more bits of experience and ambient mana while they still give double exp.
+
+Three minutes passed. I wouldn't have known without the timing system in place.
+
+Torix Worm, of Darkhill (7:24 PM 4/13/00) - Open your obelisk. We'll speak over voice intercom.
+
+I followed his advice before my armor produced my obelisk from my palm. I had no idea how in the hell it stored stuff, but it was convenient at times. With that in mind, my home screen opened from the disk.
+
+The calm creek and soothing sound of pouring water surrounded me. Birds chirped in the background, along with the hum of cicadas in the background. It was peaceful until Torix said,
+
+"Are you there?"
+
+I nodded, "Yeah."
+
+"Good. Think of a visual call with me."
+
+I did so, and a patch of the creek blurred into a dried-out lich. Torix leaned over a table made of mana, glancing at the tracking chalkboard every few seconds. He turned towards me, raising an eyebrow,
+
+"You've gained quite a few levels...I can honestly say your progress is no less than astonishing."
+
+My chest puffed out, "Thanks. Althea and I have been putting the time in. The thing is, I don't think fighting Yawm's minions is the best way to gain levels."
+
+Torix frowned, "They are a plentiful source of experience, mana for your armor, and are easily killed with relatively little effort. They are the perfect experience sponge."
+
+I shook my head, "No they're not."
+
+"Explain."
+
+I raised a hand and counted on my fingers, "First off, they take forever for us to level with. We might not even gain a level a day clearing out his jungle. Hell, while Yawm is stuck in his world tree or whatever, he might be gaining more levels than that. That means we're losing more ground than we're gaining."
+
+"Very true."
+
+I counted another finger, "Second off, the level disparity between us and the spawns is drastic. We need more challenging enemies if Althea and I are going to develop our skills. I can't take those zombie fuckers seriously anymore after the thousandth time I've killed one."
+
+"Understandably."
+
+I counted a third finger, "And finally, clearing out the dungeons draws less attention to us. The followers don't seem to care about the dungeons at all. If my assumptions are right, they're letting the eldritch proliferate so that they have material for experimentation. That might be one of the primary reasons that Yawm does this whole world tree thing."
+
+I raised a hand, "I think he's trying to kill off most of the present species so that he will create another fringe world. He'll use the eldritch as raw materials for his experiments while gaining more strength. That means clearing out the dungeons slows him down too."
+
+Torix cupped his chin on a bony fist, "Wow...Those are...wild, crazy...and, what I believe, are eerily correct assumptions. Did you think of that yourself?"
+
+I shrugged, "Uh, yeah. For the most part. The ideas popped into my head when I started talking about it."
+
+"Good ideas for popping up out of nowhere then." He turned towards the chalkboard, taking a few seconds for thought. He turned back to me,
+
+"Your plan sounds excellent in all honesty. I never even considered it. Good work, Daniel."
+
+I pulled back the armor on my face and scratched my nose, "No problem, no problem. Glad I can help."
+
+Torix nodded, "I'll speak of this with the others as well. I believe they'll agree with your judgment in this case. I'll make a route towards a nearby dungeon. There's no reason for you to stop while the other's sleep. Of all people, I understand how boring it is to wait on others to wake up."
+
+I propped my weight onto one leg, "Yeah, being a lich means you don't have to sleep really...Before I go, I was wondering how the time system worked over messages. It's accurate, but I don't understand it."
+
+"When Schema assimilates a planet, he discards arbitrary metrics for timing. He resets the world's clock, and replaces it with the time since he took over. Earth hasn't even cycled the sun since Schema has taken over. Is that all?"
+
+I nodded. Torix grinned, "Excellent work, disciple. I'm updating the data feed to your obelisk as we speak. Until next time."
+
+"Cya."
+
+Torix closed out the intercom before I closed mine. As I waited on my minimap to update, I practiced using my ascendant mana. Learning a bit defter control wouldn't hurt anything after all.
+
+In the middle of trying to juggle three rocks with telekinesis, my minimap shifted. A new red line appeared, so I rolled my shoulders and set off. I sprinted through the school before meeting another SoulKeeper. With the same scythe and ominous eyes in his palms, I wasn't worried.
+
+He stood at the opposite end of a hallway. I charged him. When he swiped his scythe, I channeled my mana and tweaked his swing with some telekinesis. The slight change in the angle was enough to make him miss.
+
+Two times later, and SoulKeeper seemed frustrated. Good. I reached him. He swung his scythe. I grabbed the handle before the blade touched me. Like meeting a wall of stone, the blade stopped before I pushed on its chest.
+
+I gripped my fingers, digging them through its skin. My ascendant mana surged, filling me with strength. I pulled the SoulKeeper with me before slamming the monster into the wall. The cinderblocks crumbled as the SoulKeeper was blasted through the wall. As it tumbled on the ground, I charged it once more.
+
+The monster met the other side of the room with a vicious tumble. I dashed forward, knocking school desks aside before tackling into the monster. The wall detonated as I crushed through it with ease. As we passed through the rock, I slammed into the monster with all my weight.
+
+The thing popped underneath me like a stockbroker's ego during a market crash. My armor absorbed the blood and bile on me as I picked up the scythe of the thing. Sucking out the energy in the weapon, I noticed I broke through the wall into another classroom. To my right, a SoulKeeper glanced at me in confusion. Behind me, the other SoulKeeper already reared back its scythe.
+
+I ducked down under the sweeping slice of the blade. As I stood upwards, I turned around with a sweeping left uppercut towards the SoulKeeper behind me. My fist hit the stomach of the monster, catapulting it upwards. Before it flew out of reach, I grabbed its legs with my right hand.
+
+Turning back around, I dragged the SoulKeeper in my right hand like a ragdoll. The rightmost SoulKeeper dashed towards me, swinging its scythe like the other. Before it touched me, I hurled my ragdoll SoulKeeper into the incoming blade.
+
+It tore the monster in half, blood spraying in every direction. My hand kept moving forward. The blade of the scythe pierced through my hand until my palm hit the hilt of the weapon. I gripped it, and the only SoulKeeper left tried dragging the blade from my hand. It couldn't even make me budge.
+
+I pulled the blade towards me with my pierced hand, the SoulKeeper dragging with the scythe. I palmed the monster's face with my left hand, gripping my fingers around the skull of it. I shoved the monster's head downwards while pushing upwards with my right knee.
+
+Like an exploding watermelon, the skull ruptured in between my knee and palm. Even after squashing the skull, my hand clanged against the metal joint of my leg. It was overkill. I grinned at the fact with my armor.
+
+The ascendant mana flowed like a raging river. The ecstasy of battle flooded my veins. My armor absorbed the corpses in a few seconds with long spikes. I picked up the scythes before continuing down the red route on my minimap. I would make sure that red route lived up to its coloring, with the blood my armor happened to miss.
+
+It was time to move forward. On to the next dungeon. On to the next body.

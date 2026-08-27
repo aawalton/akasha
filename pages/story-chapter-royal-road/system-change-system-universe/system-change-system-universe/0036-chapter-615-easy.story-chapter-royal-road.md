@@ -1,0 +1,205 @@
+---
+id: 4fc2f0c4-093e-5c87-9b30-5266735ffbbc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 615: …Easy"
+slug: 0036-chapter-615-easy
+partOf: system-change-system-universe
+position: 36
+ownLength: 3021
+unit: words
+ownProgress: 3021
+publishedAt: 2025-12-25
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2880334/chapter-615-easy"
+royalRoadId: "2880334"
+markedReadAt: "2026-06-29T19:57:53.648Z"
+---
+
+Chapter 615: …Easy
+
+“Speaking of him… are you stronger than he is? You said you are in the top three in your family? Is your family strong?” Derek asked.
+
+“Is my family strong?” Dave chuckled. “You can say that. And to answer your questions… I am quite strong. Even though he is stagnant at a tier below me, it is possible that the Void Emperor could best me if he surprised me with his void powers. But in a head-to-head battle with all things equal? The best he could do is run away.”
+
+“Oh… I thought he was a bigger deal than that…” Derek said.
+
+“There will never be a head-to-head battle. The man doesn’t do any fighting himself unless it is to put a young void user in their place. Since he controls all those void resources, he could hire some water user of the same rank as me. That would be a struggle, depending on the person. However, he would never do that unless pushed way too far because of the strength of my family—even if I am the black sheep.”
+
+“I see… So he’s basically just a merchant who buys his strength,” Derek said.
+
+“That is a good way to put it,” Dave replied. “A slimy, no-good merchant… who even my own family buys from.”
+
+“Well… here’s to me becoming the new merchant, one day,” Derek said, raising the mug of coffee and finishing it. “Wait, does he live in Origin City? Won’t it be easy to find me there?”
+
+“He actually doesn’t,” Dave said. “His residency expired a long time ago, and he refuses to let anyone progress enough to where they are a threat to him. His little faction is rich beyond all measure, but those under him have not earned enough reputation with the Origin System. Sure, there are plenty who may be tier one or two, but he would never lower himself to be a member of a grunt’s ‘family.’”
+
+“He does sound like he’s very prideful,” Derek said.
+
+“Yes, he is,” Dave replied. “And he doesn’t have to worry about not being able to do business there if he needs to. Any family trading with him will be more than happy to provide a guest pass. I’m sure he has a collection of them to choose from. Still, he doesn’t venture to the city often because he owns nothing there.”
+
+“That is good to know,” Derek said. Getting to Origin City would let him catch his breath if he needed to, at least.
+
+“Now that we have spoken about Origin City and the Void Emperor as a main objective and main danger to look out for, I should let you know what you will be getting yourselves into once you ascend.”
+
+“Yeah? How hard do you think it will be for me to get to Origin City?”
+
+“There is no way for me to know,” Dave said. “When you ascend, the Origin System will place you somewhere. Where? I have no clue. It could be on a remote battlefield planet not controlled by any organization at all, or it could toss you onto one of the planets controlled by my family. It is even possible that it could put you on one of the Void Emperor’s planets. I doubt that will happen, but there is always a chance.
+
+“From the research and records I have read over the years, I do know that the Origin System won’t teleport you straight to danger. It will send you to a relatively safe place. That is not to say that it will always be a safe place, but there should at least be a short amount of time for you and your friends to adjust.”
+
+“Okay… so, when I ascend, I need to act fast,” Derek said. “I wasn’t sure if it would be safe to let everyone out of my Time Prison when I got there, so that is good to know. Will the system at least put us somewhere where we have a chance of surviving? I can’t imagine we would fare well on a battlefield planet with level 1,000 dragons attacking us.”
+
+“You will have enough time to let your friends out for a few minutes to adjust. But don’t let them stay out too long,” Dave explained. “And no, you don’t have to worry about anything like that. The level range of wherever you are taken to should be within a survivable range. But it may not be easy, so be cautious.”
+
+“Will do.”
+
+“Now… I will answer some questions you have,” Dave said. “First, I know you have been wondering about rarities above Mythical, correct?”
+
+“Yeah,” Derek replied with a nod.
+
+“There are two.” Dave raised two fingers. “First is Ascendant and second is Transcendent.”
+
+“Ascendant and Transcendent?”
+
+“Precisely.” Dave nodded. “The earliest anyone can upgrade their class to Ascendant is level 500. That gives many people—though not those living a carefree life in Origin City—enough time to increase their affinity enough to make the upgrade. For that, you need somewhere above 65% void affinity. It is different for each person, though. Personally, I was at 76% in my earth affinity when I reached level 500, and it was smooth sailing.
+
+“My elder brother was at 66%, and he had to spend centuries working on himself to force the upgrade. To upgrade straight to Transcendent as soon as you reach level 1,000, your affinity will have to be somewhere around 90% or higher. That is no easy feat, and for someone who wants to reach their full potential, I would always suggest that they don’t hit level 1,000 until they have reached as high an affinity as they think possible.”
+
+“So… you are… Transcendent?” Derek asked.
+
+“I am,” Dave replied. “I reached level 1,000 at 93% affinity with earth. My brother reached it with 91% since he halted his essence progression and focused on his affinity after the debacle with his Ascendant upgrade. He had some lucky encounters and a lot of help from my aunt and father since we needed another Transcendent in the family.
+
+“I surprised them with my upgrade to Ascendant, and I held off on letting anyone know I reached Transcendent for a very long time. They still don’t know how long ago I actually achieved it. My brother will go crazy when he learns one day.”
+
+“What about the Void Emperor? You said he was a stage below you, so he is… Ascendant?”
+
+“Correct,” Dave replied with a nod. “Rumors are that his affinity reached 94%, but when he reached level 1,000, the Origin System did not allow him to upgrade his class. After that, he has been stuck at the same percentage for hundreds, if not thousands, of millennia. That man was already an Ascendant before I was even born.”
+
+“I bet knowing something like that really pisses him off,” Derek said with a laugh.
+
+“Actually, I think he’s past it. Most Transcendents are much younger than he is,” Dave said. “But yes, in his case, he gave up on increasing his affinity long ago.”
+
+“So… I will want an affinity of at least 95% before I try to upgrade?” Derek asked.
+
+“I would, to be safe,” Dave said. “But his class and your class will definitely be different. It is possible that you could only need to reach 90%. All I can say is that if your affinity with the void reaches 75% or higher before you reach level 500, you should rush to gather enough essence to reach level 500 quickly. I have never heard of anyone getting that high of an affinity and not upgrading at that level. Once you are an Ascendant, I do believe you will be able to travel around freely, and there won’t be anything Dorian can do about it—as long as you keep your friends inside of Origin City.”
+
+“I understand,” Derek said. “Is there anything else?”
+
+“Yes,” Dave replied, and his eyes shifted to Silvi. “You must dissolve your bond before you become Ascendant. If you do not, the affinity gain between you two will slow to a crawl because of Silvi’s secondary affinity—which actually should be her primary affinity. It will fight you… it will hurt both of you. And if you reach Ascendant together, the bond will become permanent. Silvi would have to do everything she could to distance her cooking affinity from her void affinity, which I don’t believe would be best for her.
+
+“If the Origin System offers a good way to dissolve the bond, take it. Neither of you will lose anything other than the ability for one to gather essence for two. But losing that isn’t bad because you will each require less essence individually,” Dave explained. “She will keep all her stats, and you will keep yours. Since she made it to Mythical with you, she will also be allowed to keep her skills. And finally, she will be able to earn her own Titles.”
+
+“What about her affinity? Can she have two?” Derek asked.
+
+“It’s tricky, but basically, her dual affinity changed to a combined affinity. Most likely, it will be something like a void cooking affinity. Now, her percentage will go down since some of the primary void affinity will be lost as cooking becomes her primary. They will have to reach a certain balance to combine, but that shouldn’t be a problem. Her class is already cooking-based and Mythical, so her combined affinity won’t go lower than 50%. For her, she should take the same advice that I have given you on everything.”
+
+“No Void Call,” Silvi looked up and said. “Easy… I don’t have. No releasing aura… easy… that’s rude. Stay away from the old void merchant until I can kill… easy… may kill later. Don’t know him, but don’t like.”
+
+“That’s it for your void skills,” Dave said. “I don’t think you have to worry about anything other than your aura. And once your affinities combine, it will be different from regular void, so the old void merchant won’t be looking for it. He searches for pure void affinity, and yours will be void cooking, with cooking most likely being the main part.”
+
+“Void Cooking affinity to 65% or more… easy,” Silvi said. “I can count that high. Reach Ascendant, kill the old void merchant, loot ingredients, reach Transcendent, get planets full of ingredients, be rich with food…”
+
+“You might want to reach Transcendent before trying to kill Dorian,” Dave said. “At Ascendant, I think you will be able to evade him… not kill him…”
+
+“Hmph…” Silvi sniffed. “Fine. Just have to do more cooking.”
+
+“That’s the spirit!” Dave laughed heartily. He then looked at Derek. “You know, I made a mistake earlier. You won’t be doing it all yourself. You do have Silvi, and she is not a less talented individual.”
+
+“No, she is not,” Derek replied. “By the way, you said that Marrick wouldn’t really be a help, but I think you may be wrong. He seems really well after the Origin System helped him evolve.”
+
+“Wait…” Dave looked at Derek in confusion. “He evolved?”
+
+“Yeah?”
+
+Dave frowned, then closed his eyes for a few moments. “Huh…” he muttered as he opened his eyes. “It seems that I missed that. That’s great. That means he has the perfect body, like the two of you. Gathering affinity will be easier for him than I thought. He will need to push himself a bit to upgrade to a Mythical class before level 500 so the Origin System can assist him in upgrading to Ascendant… actually… Marrick has an earth-sand affinity…”
+
+The man then closed his eyes, and then smiled. “Yes… I can still help. He evolved, but the Origin System didn’t disconnect him. You can tell that elf that he owes me, and that he’s lucky that my family specializes in earth and the like elements.”
+
+“O…kay…” Derek said. He didn’t know what Dave was doing or had done, so he just went with it. Doesn’t sound like it can be anything bad at least…
+
+“So… I cannot see the rewards that the Origin System gave everyone. I can only see the ones from my Davenresh System and the Universal System V3. Now, seeing that your elven friend was rewarded a rare evolution by the Origin System, I have to ask… did you get anything good other than that new skill of yours? That is… if you don’t mind telling me.”
+
+“I think I made out okay,” Derek said. “I was going to ask you about some things, anyway.”
+
+“Oh? Go ahead.”
+
+“First, I won two Titles…”
+
+“Defender and… Invasion MVP?” Dave asked.
+
+“Yes.”
+
+“I thought as much,” Dave said. “What else?”
+
+Derek reached his arm out and summoned Harbinger.
+
+“Oh… a Mythically upgraded weapon.” Dave nodded. “Mid-quality, too… not bad. Keep it with you, and it could continue to grow. If not, I’m sure you can find a similar one of a higher rarity. But some people grow attached to their weapons and keep them beside them always. So, there are ways to continue to upgrade.”
+
+“That’s good to know,” Derek said. “I don’t like the idea of losing Harbinger.”
+
+“Well… you won’t have to. You might also be able to upgrade the broken one you brought with you. I know it has some sentimental value…”
+
+“I may look into that,” Derek said.
+
+“So, is that it? Two Titles, a skill, and a weapon upgrade? Not bad… not bad at all,” Dave said.
+
+“No… a couple more things,” Derek said.
+
+“Really?”
+
+“Yeah… I got five more of the Origin System Skill Upgrade Points, 250 Free Stat Points, and an unknown amount of Origin System Store Credits.”
+
+“Oh… that’s a lot,” Dave said. “Save the Upgrade Points for after you upgrade your Greater Meditation. The next skill in that line is an Ascendant skill, while Greater Meditation is only legendary. The final levels in it won’t come easy, but if you have the Upgrade Points…” Dave shook his head. “That is what I would use them for.”
+
+“I didn’t know there was another upgrade,” Derek said.
+
+“There is,” Dave said. “But that’s all I’ll tell you on that matter.” He shrugged. “As for the Stat Points… those are always good to have. Vitality is great for void users, as are wisdom and intelligence… and well… all other stats actually, depending on how you use the void. And as for the credits… I couldn’t tell you what to expect.”
+
+“No matter what, it will be better than nothing.”
+
+“That is true.” Dave nodded. “Finally… I assume you still intend to go snatch the siren from my brother?”
+
+“Do what now? From where?” Derek’s eyes widened.
+
+“Well, when you ascend, you stay within a family of systems… my family if you ascend from here. The one the siren went to happens to be the one under my brother’s control. He is excited about her, by the way.”
+
+“Why? And she’s doing okay?”
+
+“She is doing fine, from what I know. Some struggles, but overall… she is doing well,” Dave said. “And my brother is excited for the same reason that I would be for Brandi or Marrick if you weren’t taking them with you. He believes she will be able to grow and ascend again—this time to the Origin System.”
+
+“And he would be rewarded for that somehow?”
+
+“Yes,” Dave replied with a nod.
+
+“Yeah… I plan on going to get her as soon as I am able,” Derek said.
+
+“It’s not going to be easy… at least… I don’t think. The essence is thick in the Origin System, and that tier of the universe is not small. Your traveling skill may not work as well there as here, but I’m not sure. It will certainly work. I am just unsure of how strong it will have to be. Since it is a higher-tier skill, you haven’t been able to upgrade it yet. You will learn more about it from the Origin System once you ascend, though, I’m sure.
+
+“I have just never seen anyone be able to move backwards from the Origin System to a lower-tier system.”
+
+“Aren’t you doing that right now?”
+
+“No,” Dave said, shaking his head. “As I said before, this is nothing more than an avatar. The same is true of the others, like Sereph.”
+
+“Well… I won’t have any problems like… I don’t know… blowing up the planet if I’m too strong?” Derek asked, remembering the close call with the dungeon on Earth.
+
+“You shouldn’t,” Dave said. “Maybe you would if you were a Transcendent when you go, but I’m sure you’ll be able to go get her well before then. And I very much look forward to seeing the look on my brother’s face when he learns that she disappeared.”
+
+“You’ll have to let me know what happens with him… maybe take a picture or something so I can see, too,” Derek replied with a chuckle.
+
+“I may just do that,” Dave said. Then he looked up, paused for a moment, and sighed. “It looks like it’s time to wrap this up.”
+
+Dave stood, and the chair behind him disappeared. Derek also stood and let the chair he was sitting on vanish. “Derek Hunt…” Dave held his hand out, and Derek grasped it. “It is nice to meet you. My name is Davenresh Gravenholt, Fourth Transcendent of House Gravenholt. I sincerely hope that we are able to meet again someday.”
+
+“I’ll look forward to it,” Derek said as they shook hands.
+
+“Me too!” Silvi’s voice chimed. “No ingredients?” she asked.
+
+“Not this time, Silvi,” Dave said. “Bringing that card all the way here was not easy, and it only left room for the few treats I’ve given you today.”
+
+“Oh… well… thanks for the food!”
+
+“You are welcome.”
+
+Dave snapped his fingers, and Derek was blinded by a bright light. Even with his eyes open, he couldn’t see anything. In his head, he heard, ‘Do be careful, my friend. I very much wish to personally meet you one day.’
+
+Unable to see anything, Derek replied, “I’ll do my best.”

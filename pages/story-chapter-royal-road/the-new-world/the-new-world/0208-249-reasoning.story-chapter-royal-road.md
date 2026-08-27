@@ -1,0 +1,357 @@
+---
+id: ab871300-8ff5-59fe-b0de-243383472116
+page-type-slug: story-chapter-royal-road
+title: "249 Reasoning"
+slug: 0208-249-reasoning
+partOf: the-new-world
+position: 208
+ownLength: 3923
+unit: words
+ownProgress: 3923
+publishedAt: 2020-03-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/466591/249-reasoning"
+royalRoadId: "466591"
+markedReadAt: "2026-06-29T21:28:06.819Z"
+---
+
+Hod wiggled in place, "Was Emperor man like fluffy man?"
+
+I nodded, "Yeah, I could tell they were related. The Emperor was much more, well, polite than Helios was." I turned to Althea, "In fact, he went out of his way to chastise Helios for how he acted towards us."
+
+Althea grinned at me, and I smiled back. I walked over, through the crowd who parted for me. As I did, she blushed for a moment. I hugged her to me, and she murmured,
+
+"You're embarrassing me."
+
+I smiled, "I love you too."
+
+With that gushy moment finished, I turned back towards the group, "Any other thoughts?"
+
+Amara spoke up first, "If we are to join him, would we not be his servants? It bodes ill for wolves such as we."
+
+I turned a hand to her, "Think of this as a partnership. Outside of the rebellions on his planets, we'll be helping Obolis raid ancient tombs and whatnot. We'll be splitting the goods, and just from the few minutes we saw the guy, he's got and has found some good stuff."
+
+Amara lifted her palms, the eyes on them narrowing, "Such as?"
+
+I thought out my response for a bit, thinking about what Amara would think is valuable. I spread out my hands, wondering why I didn't think of this sooner,
+
+"When we walked up, he was studying a viral eldritch called Plaga Ustus. I'm sure he's found dozens of interesting eldritch like that, and he could help you with his research."
+
+A grin grew on her face, her jagged teeth unnerving, "Interesting. We would be among wolves, listening to the echoes of lambs."
+
+"Uh...yeah," I turned to the others, "Anyone want to chime in? I'll listen to whatever you have to say."
+
+Several of those present took a moment to think things through, none of them wanting to give me some half baked idea. Torix spoke up first,
+
+"If I may, I believe I have an opinion worth voicing on the matter."
+
+"Of course man, go ahead."
+
+"As you all know, I carry the ambition of proliferating education throughout Schema's system. Teaching is something of a passion for me, and I need resources to do such a thing. The first order of business would be establishing myself as an academic force on a galactic scale."
+
+Torix lifted a metal hand with his fingertips pressed together,
+
+"In order to do so, I will require three things. First, an academy with its own grounds. The third floor serves this purpose well. The second requires a consistent stream of students, which we have few of. The last of which is the most cardinal of these issues: safety."
+
+Torix turned to me,
+
+"I know it is hard to hear, but Lehesion and the Adair Family pose a grave threat to this place and the people therein. Allying ourselves with the Empire would allow us to operate without the need for such secrecy, as they would prove an effective deterrent. Gaining a steady stream of students from their planets would grant us a consistent supply of talent as well."
+
+I considered his points, each of them well thought out. Before I could reply, Althea walked up,
+
+"I think we should wait until after we've gotten rid of the Adairs first."
+
+Torix tilted his head, the mage not expecting Althea's defiance,
+
+"Is there perhaps further reasoning as to why?"
+
+Althea turned to the group, and she swallowed before speaking, "Well, I think there are a few reasons. I mean, we can't guarantee that allying with the Empire will make Lehesion refuse to attack us, right?"
+
+Torix cupped his chin, "True."
+
+"Uhm, if anything, it sounds like this Emperor guy really knows his stuff. If we assume that's the case, he might actually want us to relax our security. Imagine if we had our base destroyed. The Empire would look like a pretty nice hiding spot at that point. He could get a lot more out of us then."
+
+Torix's fiery eyes flared white for a flash, "Ahhh, he may anticipate us joining him thereafter. While in most situations, I'd displace your thoughts as a mere conspiracy. However, given Obolis's nature, that may not be the case. He's a rather dubious individual, after all."
+
+Althea spread out her arms, gaining confidence, "And besides, you want to prove your the best teacher in the galaxy, right?"
+
+Torix coughed into his hand, "Ahem, perhaps."
+
+Althea smiled, "Then we can teach the orphans and gialgathens from the war. They'll be like sponges, and you won't have to, er, get rid of any bad habits."
+
+Huh. Althea has a soft spot for children. Noted.
+
+Torix saw through her like a window,
+
+"The students from the Empire will be far more receptive and won't require relearning the basics. I may instill advanced magic in them that orphans would likely struggle to comprehend."
+
+Althea pointed at the lich, "Exactly. If you don't have to really teach them, then how are you proving you're the best teacher? Besides, you think the Empire's students will stick around after you give them the best education the galaxy has to offer? If anything, they'll go right back to the Empire."
+
+Torix shrugged, "I know when I'm defeated. Consider me convinced, young lady."
+
+Althea stood up a bit taller.
+
+I agreed with her points for the most part, so I turned to the others. As my gaze landed on Krog, I waited for him to speak up. He didn't. I raised an eyebrow,
+
+"You know you can let us know your kin need help, right? We'll listen."
+
+Krog took a deep breath. An internal war waged in his head, different thoughts fighting for control. As one side won, the grizzled general's eyes gazed far into the distance,
+
+"You're guild...it has done more for my kind than I could have ever have asked of it. I treated each of you without honor when we met. It is a mistake I regret. Even though I wish for us to continue waging war until the Adair Family has been erased, I will continue to serve you regardless of your choice."
+
+My eyes widened from shock as I heard the guy talk. I raised my eyebrows, "You're sure?"
+
+Krog nodded with a bit of struggle, "We've saved enough of my kind that my species may continue here on Earth. More are left being Hybridized, yet I cannot force you to continue to fight for us alone. In the end, you must fight for what you believe is right."
+
+Damn. My respect for this guy went up as he spoke.
+
+I scratched the side of my head, "Well, shit. How am I supposed to say yes to the Emperor after that?"
+
+Krog grinned, a wily look crossing over his face,
+
+"You're not supposed to."
+
+I scoffed, "Ok, so that's how it is. I'll keep that in mind." I turned to everyone else, "Anyone else have something to add? I'm all ears."
+
+Hod lifted a wing, "Harbinger not made of all ears though? Hod confused."
+
+I raised my hands, "It's an expression. It means I'm listening."
+
+Hod shook his head while crossing his arms, "Hod think phrase make no sense. Hod know listening start with brain, not ear. Hod ear only hear. Should be Harbinger all brains, not all ears. Hod believe new phrase make more sense."
+
+I stared at Hod in awe as he spoke with absolute confidence. In its own way, it was kind of incredible how he just...believed in himself like that. There was something to learn here.
+
+And something not to learn too, but hey, I was trying to give credit where I could.
+
+I frowned, "Yeah. Noted."
+
+Kessiah walked forward from beside Krog. She turned a hand to everyone, "So uh, let's talk about something, I don't know, less stupid?"
+
+She got a few nods, even from Hod. A bit flabbergasted, I listened as Kessiah spoke,
+
+"I know I haven't been the most reliable person in the past, but I just wanted to say something."
+
+She patted Krog's side, "This guy right here has been a damn fine companion. A lot of these big, ugly bastards have shown me what it means to go to war and fight for something. I'm still fighting to prove myself, but they gave me another reason to go to war. For my brothers and sisters out there. If we run now, who will help them?"
+
+Shit, at this point, I felt bad for even bringing up the Emperor's deal. I put my hands on my hips, looking towards everyone, "Noone if I guessed right." I turned towards the group, "Anyone else want to voice an opinion?"
+
+Hod walked up, scrawny as ever. He raised a winged arm, "Hod wish to speak to group."
+
+With everyone's attention, Hod raised his taloned hands,
+
+"Hod know what losing home like. Hod lose home after all. When Hod arrive on Earth, Hod gain new home. Hod want same for big salamanders. Hod not just want new home for big salamanders though."
+
+Hod squeezed his hands, his scrawny arms shaking from the effort,
+
+"Hod remember Yawm. Yawm scary, big plant man. Yawm threaten Hod new home. Hod know all us want help, but no help come. We fight alone. Gialgathens, they fight against Adair. Without us, gialgathens fight alone."
+
+Hod pointed off at where the world tree once stood over the horizon,
+
+"Hod believe the Adair like Yawm for gialgathens. Hod know it hard, but Hod want help against Adair. Hod want us be help us never had."
+
+I raised my fists, "Alright then, it's settled. We'll wait on the Emperor's deal until after we've taken the Adair Family out."
+
+The atmosphere lightened as I peered back and forth,
+
+"But, uh, that doesn't mean we said no, does it?"
+
+Amara and Torix shook their heads. Althea and Hod looked more in the middle about the issue. Kessiah and Krog seemed peeved that I even considered accepting the deal in the first place. I raised an eyebrow at Kessiah and Krog,
+
+"Why don't you both want to accept the deal? You can be honest, no hurt feelings here."
+
+Kessiah grimaced, "The albony treats everyone like 'commoners.' They're complete dicks."
+
+Fair enough.
+
+I turned to Krog, "What's your reason?"
+
+"Those that speak honeyed words are the least trustworthy. My gut tells me that Obolis intends on more than he let on, like a beautiful grail full of poisoned water."
+
+I took a deep breath, considering what he said. As I did, I mouthed, "Huh."
+
+I gave a slow nod before turning towards everyone, "Alright then, we won't make any clear decisions right now. We have until a day after Giess has been glassed anyways."
+
+As I mentioned the glassing, Krog winced. I noted his reaction, making sure to remember a different way of wording the event for later. The group began chatting with a few mentions,
+
+"Seems reasonable."
+
+"We trust your judgments."
+
+"Sounds good to me."
+
+I turned towards Torix, "When's the next battle?"
+
+The lich steepled his fingers, "Two days time. Our forces need rest and time to heal their wounds."
+
+"Alright then. We'll meet back in Elderfire at 9:00 in the morning, Giess time. Until then, prepare yourselves for war, everybody."
+
+The crowd gave me a cheer, my friends and allies having a warm reception. Well, except Amara, but she gave me a tiny fist wave. For now, it was enough.
+
+I walked up to Torix, "Hey man, there's something I wanted to talk with you about."
+
+Torix's blue eyes flared for a moment, "Ah, in private, I assume?"
+
+I nodded. We turned towards the group, "I need to talk to Torix about something. If anyone needs me, I'll be in my room after that."
+
+Amara narrowed her eyes, "Is there something you hide from us, leader of wolves?"
+
+I shook my head, "Naw. I wanted to practice mind magic with Torix. I feel like it's going to be invaluable in the future."
+
+Amara winced at the prospect, "Then sharpen your teeth with the fangs of others. I shall go back to my den, where the darkness welcomes me."
+
+"Alright...Sounds, uh, good."
+
+Man, I always felt so awkward anytime I talked to Amara, but hey, I got the job done. That was what was important, right? Anyways, Torix and I walked off before reaching his private study. Laired to the walls and back, Torix really set up shop in his private study.
+
+Having teched himself up a bit, many of the charts here used touchscreens. It still carried a bit of Torix flare, several sheets of paper lifted up with different kinds of tacks. It always amazed me how Torix kept a different sort of utensil for any given situation. Of those many utensils, each specific one was different from the last. It created a kind of pleasing patchwork, the type where only he understood the chaos he created.
+
+In that chaos, I welcomed the overwhelming complexity. I was already used to it anyways. If anything, it gave the room a homey sort of feel. As we situated ourselves in desks, Torix opened up his own dimensional storage. I raised my eyebrow at the gesture as he pulled out some kind of glass bottle with an amber liquid in it. Torix gestured it to me,
+
+"This is something similar to alcohol. It's far more Schema-proofed, however. In many cases, it would be considered a potent poison. For you, it might even create a slight buzz. Would you like some?"
+
+Feeling good, I grabbed the bottle and looked at it, "Yeah, it looks pretty good, I suppose."
+
+Torix pulled out two glasses. I pursed my lips at him, "You're going to drink some?"
+
+"It's designed to be metal soluble, so I intended to try."
+
+We took the bottle, pouring out our own glasses. After tapping it, Torix announced, "For the legion."
+
+"Yeah, for the legion."
+
+Damn, I'm awkward. Anyways, I took the shot and noticed a slight burn in my throat. It was caustic, like acid. My body absorbed it, leaving a lingering feeling of wooziness. While not on par with alcohol in the past, it did do something.
+
+Torix turned the bottle in his hand, "Well...that's rather disappointing."
+
+"Yeah, I expected more kick."
+
+Torix chugged half the bottle, the liquid catching on his skeletal frame and robe. As it assimilated, I chugged the rest of the container. It left a bit more impact, though not much. Within seconds, it dissipated into memory. I shrugged, "Eh, at least we tried, right?"
+
+"Indeed. Now, what was this matter you wished to discuss...Ah, yes, mind magic. Given my superior statistics compared with last time, I should be a far more able opponent this time around-"
+
+I raised a palm, "Wait a minute. I do want to discuss that afterward, but something more important needs to be handled first."
+
+Torix tilted his head, "Such as?"
+
+I pulled out my obelisk, going through some of the streams and videos Torix made of me. After a few minutes, I found what I was looking for. I pointed at the moment I used my dimensional storage as a shield.
+
+"See that?"
+
+"I, in fact, do. What of it?"
+
+"I have that portion of the tail still in my storage."
+
+Torix stood up with a jerk, his chair falling back, "You retained the tail?"
+
+"Well, yeah."
+
+Torix pressed his hands against his temples, "Is this perhaps a joke of some sort? Why haven't you mentioned this earlier?"
+
+"We needed to get your body sorted out. After that, the Emperor called me. It's been a damn busy last few days, so cut me some slack."
+
+Torix contemplated aloud once more,
+
+"Hmmm, perhaps I judged rashly. Regardless of the timing, this is a tremendous boon. Given the nature of the tail's composition, we should be able to study Lehesion's composition with it. We may discover his weaknesses, or better still, a method of ripping him from their psionic control."
+
+I pointed at Torix, "Yeah, that would be pretty damn nice. I was wondering if it was safe to pull it out of storage yet, though."
+
+Torix pulled his chair back up with a flick of his wrist, all while sitting down. A telekinetic impulse knocked the chair right in place, and he crossed his legs once sitting. Torix stared down, deep in thought,
+
+"That is a pressing conundrum."
+
+"That's what I've been thinking too. If Lehesion knows where his tail is, he'll find Elderfire or Mt. Verner. I think we should test it somewhere remote. That should make it easier to figure out."
+
+"Perhaps. It would also give us a means of escape should he follow us. We merely need Spear there with us."
+
+"Exactly. After we've inspected it and made sure it's safe, I say we can inspect it before putting it back in storage. We can learn a lot of stuff from this given a chance, but I don't want to push our luck."
+
+Torix's eyes shifted to a purplish color, "You're frightened by this mere fragment of Lehesion? You've fought his entirety. Surely this should pose no threat towards someone such as yourself."
+
+I scowled, "It's less fear and more so respect. I know what Lehesion can do, and I don't want him unleashing that havoc anywhere near me. We may discover his weakness from inspecting the tail. At the same time, we could also end up with the Adair Family knowing where we are or worse."
+
+My eyes turned grim, "I don't want our home destroyed just because we wanted to poke and prod a chunk of meat."
+
+The atmosphere in the room turned heavy. Torix crossed his arms,
+
+"The issue exists due to safety, correct? In this instance, we're balancing the pros and cons of inspecting the tail further. On the one hand, we could discover the weaknesses of our greatest foe. On the other, we may undo ourselves in the process."
+
+Torix shrugged, "I say we risk this endeavor as the benefits are too great to ignore."
+
+I raised a hand, "I mean, yeah, I agree. The thing is, I'm saying we should keep the research short and contained. Otherwise, we'll end up exposing ourselves to whatever it is that's controlling Lehesion. If it can control him, then it may be able to control us."
+
+Torix lifted his hands, his curiosity spurring him like hunger does a starving child,
+
+"But there is so much to uncover here. We could expand our base of knowledge ten times over with only a few discoveries. Imagine the informational currencies we'd have to exchange with the Emperor. The elemental furnace, the obelisks, all that and more would be within our reach."
+
+I bit my lip, tempted by his offer. I stared at a wall of the lair, a map of Giess laid out. As if starring at the battlefield, I remembered the gurgling Hybrids. I murmured,
+
+"Did we ever figure out what the orange soup is?"
+
+Torix pulled his hands back, recoiling from the sound of my voice,
+
+"Ah...we did."
+
+"What is it?"
+
+"Ahem...Well, we discovered that it is a non-newtonian fluid composed of various nutrients, liquids, and, most importantly, nanomachines."
+
+I met Torix's eyes, "Was there anything else odd about it?"
+
+"It carried viral qualities, explaining why our soldiers struggled with fighting off 'infections,' so to speak. It also held some sort of psionic fluid as a base for the Adair's Family's control. It's similar to a one-way network that enables commands to be sent towards the messengers."
+
+Torix raised his palms,
+
+"However, the nanomachines weren't able to carry tracking systems due to their size, so our location is still a secret. The blue core surrounding Elderfire also utilizes several security measures in order to stop any transmissions as well. Schema's foolproof in that regard, the blue cores being a relatively higher tier item."
+
+I raised an eyebrow, "How does a blue even do that?"
+
+Torix crossed his arms, metal clanging on metal, "It's an interesting concept that Schema has never truly exposed and rightfully so. Explaining your stealth often undermines it entirely. Now, while on the one hand, many theorize Schema is utilizing a different kind of mana source, I think it's something else altogether. I'm of the opinion that Schema uses spatial magic to isolate spaces within blue cores."
+
+I glanced around, thinking of how the invisible forcefield protected us,
+
+"Mysterious...Schema has a lot of conspiracies around him, doesn't he?"
+
+"He does. As for the nanomachine soup, we've tried out several methods of destroying the machines without relying on your cleansing. It would allow healers to work without your required clearing of the Gialgathens."
+
+I tapped my chin, thinking of movies I'd seen forever ago. About a minute later, an idea sparked in my mind,
+
+"What about an emp of some kind? It wouldn't hurt the gialgathens, but it would kill the machines inside, wouldn't it?"
+
+"Hmmm...It would be a rather deft way of handling the issue. A localized emp isn't precisely difficult to create, and nanomachines are tiny, easily neutralized things. This wouldn't work on fully hybridized creatures, but perhaps it may on the nanomachine fluid. It isn't designed with an intention for battle after all."
+
+Torix shrugged, "Eh, why not try it? We'll see if it works. This would be a practical method of solving the issue at the least, that much is certain."
+
+"Let's hope. Would that work on Lehesion's tail, maybe?"
+
+"I doubt it, given the antimagic properties of his aura. We may find some manner of freeing Lehesion given further research with our sample, however."
+
+I stared off, remembering Lehesion's sadness when he last fought me,
+
+"That would be the best-case scenario. How do you think they're controlling Lehesion anyways?"
+
+Torix took a deep breath, "If my inferences are correct, it revolves around their method for mind magic."
+
+I raised my eyebrows, "I know they can link up. Does it have to do with that?"
+
+"Absolutely. Remember that psionic base I mentioned earlier? The Adair Family seems to have discovered how to relay communications rapidly using it. This allows them to control Lehesion and the Hybrids over vast distances, a utility most other mind mages lack. After all, there is a limit to transmission speeds. They seem to ignore it entirely."
+
+"So it's like a fiber optic cable or something?"
+
+"Indeed it is, though I ascertain its origin as the result of using techniques from Schema. The remnants were a species that formed him. It is safe to assume that not all of that technology was forgotten. They are likely using fragmented pieces of those technologies to enable their rebellion."
+
+I frowned, "Damn. What if they made another Schema?"
+
+Torix scoffed, "I'll answer your question with another. What if the Adair Family mind controlled an Old One?"
+
+I shook my head with a bit of exasperation, "We'd be fucked."
+
+"Most certainly so, and I would assume the same if either of those premonitions came true. In a manner of speaking, that is far above my pay grade."
+
+I laughed a bit before looking around. The charts and calculations splayed out reminded me of the battles we fought. I stood up, rolling my shoulders, "Alright then, enough talk about what-ifs. Let's organize the research on Lehesion."
+
+Torix stood up right after, "It shall be done."
+
+I cracked my neck, "Alright then, once that's finished, how about we do some mind magic training? You game?"
+
+Torix's eyes tinted red as he cackled,
+
+"Oh, it would bring me the utmost joy, disciple."

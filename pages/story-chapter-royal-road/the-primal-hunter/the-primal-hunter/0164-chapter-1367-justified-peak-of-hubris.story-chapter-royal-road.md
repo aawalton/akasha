@@ -1,0 +1,153 @@
+---
+id: 3279ce1e-81a4-5283-8add-4835c880c1f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1367 - Justified Peak of Hubris"
+slug: 0164-chapter-1367-justified-peak-of-hubris
+partOf: the-primal-hunter
+position: 164
+ownLength: 2736
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3763946/chapter-1367-justified-peak-of-hubris"
+royalRoadId: "3763946"
+---
+
+“See, everything is more fun with friends! And it’s not my fault they didn’t want to be friends, but turned out to be such mean individuals. Truly a lack of proper guidance for the young,” Sandy said with disappointment, turning to their new travel companions.
+
+“At least we have some experienced folk on our side willing to teach them proper etiquette.”
+
+The Sword Saint, who stood beside Caleb, smiled and shook his head. “I do not feel that we can fully blame them for their anger. You did kidnap one of their own.”
+
+“That’s just slander; I didn’t kidnap anyone! I just scooped up a treasure. That a person was holding that treasure and came along as a bonus really isn’t anything I can be blamed for,” Sandy defended themselves with perfect logic.
+
+“Now what can one possibly say to such a flawless argument?” Caleb chuckled, shaking his head as he definitely found Jake’s creation quite an interesting creature. Perhaps creation was a bit of a wrong term, as Sandy had very much been their own person both before and after Jake had helped them become what they were today. He wasn’t sure what other term would be better, though. Family? That also felt odd, as while Caleb fully respected Jake viewing them as family, he had a bit of a harder time doing the same.
+
+He also figured it would be difficult to convince his parents and wife that a giant space worm was their cousin or, in Adam’s case, step-sibling? Yeah, that wasn’t even something he wanted to think about. Besides, they had more important things to do.
+
+“Anyway, what is that thing she was carrying?” Caleb asked the massive worm, which was holding all the loot that hadn’t just instantly been turned into Prima Credits already.
+
+“No worries, I’ll keep it safe and sound!” Sandy reassured him, refusing to take it out for him to see.
+
+“I also find myself curious; it struck me as important,” the Sword Saint concurred with Caleb.
+
+“Oh, I would certainly like your input on what to do with it,” Sandy said shamelessly as the massive worm spat out the treasure. Caleb had to hold himself back from making a face at the differential treatment.
+
+Sandy treated Caleb like the worm seemed to treat everyone, but for some reason, they were incredibly polite whenever interacting with the Sword Saint, gladly following whatever he said. If he asked for something, Sandy readily obliged, and if he suggested anything, the worm always seemed to think it was the darnedest best idea since the invention of beer.
+
+Granted, Caleb could somewhat understand this difference in attitude. The Sword Saint did have more status, being the Chosen of the Primordial of Time and all, with Caleb still only having a Divine Blessing. He said “only,” but in truth, it was just that all the people around him were absolute freaks, running around with True Blessings.
+
+In addition to this, the Sword Saint was also far more powerful than Caleb, and it wasn’t even close. While the Judge wouldn’t have ever said they were close in power, the gap had definitely widened, and not because Caleb had fallen off. In fact, he was very satisfied with his B-grade evolution and how strong he was now. No, the difference was that while Caleb had leaped forward, the Sword Saint had soared.
+
+“Curious,” the Sword Saint said as the item they’d nicely “borrowed” from a Holy Church group floated down in front of him. Caleb also walked closer and observed it, not immediately finding anything remarkable, though there was certainly something to it.
+
+It was a golden statue, about the size of his forearm. It depicted a vaguely humanoid shape with eight arms, each holding an item in an outstretched hand. Four held flowers with a varying number of leaves, two wielded weapons, one a spear and the other a sword, and the final two had a cube and an orb, respectively.
+
+The humanoid itself had no face or hair of any kind and instead looked almost like a golden crash dummy. Caleb inspected it more closely, feeling some kind of magic within that he couldn’t quite identify, but it appeared potent and oddly familiar to the energy signature given off by all the flowers and even the environment itself.
+
+“Thoughts?” he asked the Sword Saint, hoping the old man had some insight.
+
+“It’s linked to getting through the distortion wall and into the next area,” the Sword Saint said with a high level of certainty. “Perhaps a clue, or maybe the key itself. Either way, it’s a mystery we must solve, and to do so, we need more information.”
+
+“So more statues,” Caleb nodded with certainty, being of the same mind. “Hopefully, we can obtain the next one in a smoother fashion.”
+
+“What do you mean by that? They were all cut through like butter, and butter is super smooth, so how can you say it didn’t go smoothly?” Sandy once more argued with flawless logic.
+
+“Alright, a less bloody fashion, then,” Caleb shook his head.
+
+“Why?” the Sword Saint asked, taking Caleb a little by surprise. “I don’t see a reason to avoid conflict. Quite the opposite. Killing others within this place allows one to reap many of these Prima Credits at once, giving us plenty of incentive to slay those we come across.”
+
+Caleb was quiet for a while before sighing. “Good point, I guess I’ve gotten too used to trying for the neutral route in most scenarios. The route where I make the lowest number of enemies for both myself and the faction I represent.”
+
+“I understand such sentiment, but now is not the time for it. This is a virtual world where death isn’t even permanent. May others be angry that you slay them within? Yes, certainly, but none will dare cause trouble for the Court of Shadows over being sore losers in a non-lethal system event,” the Sword Saint said with a light smile. “As for avoiding making enemies for our own sakes, I do question the need for such a notion.”
+
+“Same, I feel like everyone treats me antagonistically all the same,” Sandy chimed in with a disappointed voice. “Do you two think it’s because I’m a worm? It’s probably because I’m a worm. Some factions, like the Holy Church and Altmar Empire, are known for being super discriminatory.”
+
+Caleb didn’t even bother calling out that maybe factions treated Sandy as an enemy, because whenever Sandy showed up, the very first thing they did was steal whatever treasures were there before bolting out of there. As for what the Sword Saint had said...
+
+“Perhaps I’ve been too cautious,” he said with a sigh. “And true, we shouldn’t fear making enemies.”
+
+Not with you here, Caleb left unsaid. The swordsman looked the same as before he evolved to B-grade, had the same kind of demeanor and vibe, but something was definitely different. He was a lot stronger than before, for one. That was true, yes, but there was something more. It was as if he was more in tune with his Path, and likely also his Transcendent Skill.
+
+Caleb shouldn’t feel too bad about himself, as he was contributing to their little trio. While the Sword Saint was by far the strongest, Sandy was their means of moving around and finding treasures, often in places where many others were already present and competing. In many of those cases, the encounter started with Sandy outright taking the treasure before Caleb and the Sword Saint engaged while they were still in a state of confusion.
+
+It was a very nasty combo that they’d used a few times now, last time on the group from the Holy Church. Also, while Caleb was weaker than the Sword Saint, he did bring something unique to the group:
+
+The Realm of Shadows.
+
+He could easily drag others into the Realm of Shadows, which naturally included his allies. The Realm of Shadows was a perfect place for assassinations, and this virtual world had perfectly replicated it, save for its innate connection to Umbra. It had simulated the effects of the connection, though, which was fortunate for many who had skills where Umbra’s connection was a prerequisite to use them.
+
+Once Caleb dragged someone or groups into the Realm of Shadows, they were pretty much screwed, especially when combined with Sandy’s space magic hindering them further. Isolated and with their movements restricted, they’d find themselves confronted with the Chosen of Aeon, the Primordial of Time, with Caleb naturally also helping out, weaving in and out of the darkness to pick off enemies or land attacks one after another.
+
+“Speaking of not being cautious... we've got incoming. Turns out that summoning the statue probably allowed others to detect it, and we’ve now been standing here staring at it and talking for a few minutes, definitely attracting the attention of others,” Sandy said. “See, that’s why I always keep everything valuable on the inside and don’t take them out. It’s for safety!”
+
+The Sword Saint chuckled as he turned his head, making it evident he’d also detected these incoming people already, but just hadn’t said anything. A dozen seconds later, Caleb also detected them, finding it evident that this group wasn’t approaching with the intent to hide.
+
+“Oh?” the Sword Saint suddenly said as the group got closer after Sandy had already eaten the treasure again and gone underground, digging into the soil. The old swordsman raised an eyebrow and smiled. “How fortunate... I feel the hum of their blades even from here.”
+
+Caleb frowned, but the reason why the Sword Saint said this became clear not long after. Through the foliage of massive leaves and flowers flew a group of eight people, all of them wearing similar robes and all with scabbards hanging at their waists or on their backs. Five of them were clearly a party of sorts, wearing identical robes, while the three at the front wore different robes... robes with a design that Caleb recognized as his eyes widened.
+
+Shit.
+
+The three people in the front were a human woman, a wood elf man, and a male beastkin, all radiating powerful auras as they floated side-by-side, entirely ignoring the existence of Caleb and Sandy as their eyes were locked on the Sword Saint. Using Identify, he was only told what he already knew.
+
+[Human – lvl 363 – Divine Blessing of the Swordsoul Daolord]
+
+[Wood Elf – lvl 358 – Divine Blessing of the Swordsoul Daolord]
+
+[Beastkin – lvl 361 – Divine Blessing of the Swordsoul Daolord]
+
+People from the Sword Palace... and these were absolute elites, looking to all be core disciples of the Swordsoul Daolord herself. The Sword Palace was a borderline purely combat-focused internal faction of the Dao Sect, and all those capable of becoming actual disciples were geniuses in their own right. Core disciples rarely showed themselves away from the Dao Sect, but Caleb knew they were considered top-tier targets whenever a contract was put out on one. The type that multiple Judges would be sent to take care of.
+
+“Chosen of the Primordial of Time,” the human woman standing at the forefront of the Dao Sect members spoke as she scanned the old man. “Are you-“
+
+“Hey, you should at least introduce yourselves before-“
+
+Sandy’s words were cut off as the sharp shriek of a sword being drawn echoed through the sky, and Caleb could only retreat back preemptively as a crescent wave of sword energy struck Sandy, sending the worm flying back. That wasn’t the most frightening thing, though, as the Judge clearly saw something he hadn’t witnessed before, despite the many people they’d encountered.
+
+Blood.
+
+A cut had been left on Sandy’s body, penetrating the worm’s insane defenses. It wasn’t deep, but the fact that any kind of wound had been left in the first place was enough for Caleb to go on high alert.
+
+“This matter does not concern you,” the beastkin said as he sheathed his sword again, having barely moved. He also turned to look down at Caleb. “That goes for both of you.”
+
+Caleb remained silent as he narrowed his eyes, the core disciples of the Sword Palace ignoring him again as they returned their focus to the Sword Saint, who hadn’t moved or shown any big reactions since their arrival.
+
+“Let me repeat myself. Are you the one referring to yourself as a Sword Saint?” the woman asked again, clearly communicating that she was the leader and likely the strongest of this group. Another scary prospect, seeing as the beastkin had been the one who could injure Sandy.
+
+“No,” the old swordsman shook his head.
+
+The woman frowned, looking genuinely puzzled for a moment as she turned to look at the wood elf. The guy also looked perplexed, took something out of his spatial storage, checked it, and gave the woman an angry look, which she also quickly adopted.
+
+“According to the Nevermore Leaderboards, you referred to yourself as such,” the woman said, narrowing her eyes.
+
+“Ah, I believe I see the confusion. You misspoke,” the old man answered, his next words sounding pedantic, but he was entirely serious. “You asked if I referred to myself as a Sword Saint. I do not. Sword Saint is a term used to refer to a single individual. So if you meant to ask me if I call myself the Sword Saint, then yes, that would be me.”
+
+Under usual circumstances, Caleb would find this kind of talk borderline comical, but the tone the Sword Saint spoke with made it clear he was not joking at all. He did not see the distinction between those two as a minor detail one could simply skip over or ignore.
+
+The tension in the air rose, and it didn’t escape Caleb’s notice that everyone had their hands on their swords, ready to act at any moment. Caleb also already had one foot in the shadows, ready to dodge should any attack come his way.
+
+“The Sword Saint, then,” the woman said, clearly not happy with the old man. “A self-proclaimed title full of arrogance.”
+
+“Yes. It is,” the Sword Saint nodded without any argument. “It truly is the peak of hubris... but it’s also a promise. One that I aim to fulfill.”
+
+“A promise, you say,” the woman said, frowning a little. “A title taken upon yourself as proof of your ambition?”
+
+“It could be viewed that way,” the Sword Saint nodded.
+
+“I see,” the woman said, her demeanor a lot softer than before, also calming Caleb down a little. Only for a moment, though, as the woman spoke again. “Then let me see how close you are to realizing that ambition.”
+
+The Sword Saint looked up at her before shaking his head. “Now, wouldn’t that be unfair?”
+
+“Are you insinuating that you are not my match, or that I’m unworthy of facing your blade on my own?” she asked, her mood definitely taking a downward turn.
+
+“Neither,” the Sword Saint chuckled. “I just believe such an arrangement would be unfair to your two companions. I can hear their swords also want to sing, and who are we to deny them?”
+
+Caleb read the flow of the conversation well enough to know what was about to happen, and he also received a message from a very miffed Sandy, prompting him to send a mental confirmation.
+
+Right before the woman had time to reply once more, Sandy erupted from the ground behind the three core disciples, making them all turn in an instant, but Sandy was far too fast this time around and swallowed the five people they’d been with before disappearing, teleporting away. Caleb also exploded into action, retreating towards where Sandy appeared, and quickly spat out the five people they’d swallowed before they could do any damage to the worm’s internal space.
+
+He didn’t even give the core disciples time to react as shadows closed in all around them as he brought himself, Sandy, and the five disciples of the Sword Palace into the Shadow Realm.
+
+Back in the world outside, the core disciples looked on, shocked at what had happened, making the Sword Saint speak again after shaking his head.
+
+“Please do not allow your minds to wander,” he said, slowly drawing his sword. “Lest you miss why I believe I bear the right to my arrogance.”

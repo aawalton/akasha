@@ -1,0 +1,459 @@
+---
+id: fb9ec9f4-6284-55b4-9efa-797ccd568179
+page-type-slug: story-chapter-royal-road
+title: "Chapter 127: The Gates of Hell"
+slug: 0047-chapter-127-the-gates-of-hell
+partOf: the-calamitous-bob-stubbed
+position: 47
+ownLength: 5030
+unit: words
+ownProgress: 5030
+publishedAt: 2023-07-21
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1284739/chapter-127-the-gates-of-hell"
+royalRoadId: "1284739"
+markedReadAt: "2026-06-29T21:16:21.646Z"
+---
+
+It was morning. Swirling dust covered the formation, setting pennants aflutter and leaving them a spotty gray. The sound of battle never died down. There were always revenants in the deadlands, Viv remembered. It was the grave of an entire civilization, and then the kingdoms had bled their lost dead to it over the centuries. Over the mountains and through the forest they had walked, tireless and without thought. Now, the Harrakan army faced a wall of rotten bodies. So they fought.
+
+The path leading up was taken step by step. Viv had ordered units to be rotated so only four squads of heavies fought at any time. The crossbowmen had limited ammunition and were tasked with gathering the bodies in great piles where they would be burnt. At least, the corpses were dry, though the smoke of three fires already added to the gloom and loaded the air with its acrid stench.
+
+Viv stood near the head of the formation, watching soldiers drag fallen revenants with grim determination. She’d already killed some burrowing worm and two bears with thorns coming out of their ravaged backs. The constant vigilance was taking its toll, however, and this was just the beginning. Slowly, they progressed along the cliffside road. Puffs of fire from above showed when Arthur made sure the sky was theirs.
+
+Viv looked up. The walls of Sinur’s Gate still felt far away. Far behind, Sidjin launched a spell that made the ground shake. Something crashed behind Viv. She turned and saw a revenant flattened on the ground. The crossbow woman it had missed gave Viv a frightened smile.
+
+“Back up, back up from the wall,” Viv ordered.
+
+And not a moment too soon. A rain of bodies splattered on the dusty road, missing soldiers by a hair. The superhuman reflexes of people here prevented casualties from occurring, thankfully, and the crossbowmen used their short sword to quickly dispatch those revenants that were still moving. Viv heard a rumble above. A column of gut spillers were moving down the narrow path, pushing revenants on their way. A body almost clipped the front of the formation where soldiers were too busy fighting to pay much attention. She moved up. Had to stop those before they could start spitting acid.
+
+***
+
+It was noon. The formation slowed down for half an hour to leave people time to eat. The food was cold but the support crew had boiled klod in covered cauldrons, delivering warm, tasty drinks to everyone. It was always cold in the deadlands, even when summer warmed the hills outside. Now, the weather was frigid and bleak. It was also quite dry.
+
+Viv took a sip from her cup and watched the trail below. Where the expedition had gone, piles of burning bodies remained but a blanket of revenants was already slowly climbing the slope, lured by the enticing essence of so many living persons. She always found it strange that revenants thrived with black mana yet felt the need to attack those that possessed little. Perhaps they had a drive to spread. Looking at those swarming masses below, it was a possibility.
+
+Shortly after, Ban called for the attack to resume.
+
+***
+
+It was late afternoon when they started the final approach. The road widened near the entrance and there was a small, secondary fort just before the main gate they had to clear before proceeding. Maybe a toll station. The number of fliers had grown so thick that even a furious Arthur could not contain them all, and Viv wondered where they had all come from. She suspected they may have roosted in the cliffs to either side of the city. In any case, the witchpact troops now had targets aplenty to test their marksmanship.
+
+In order to take down revenants, the crossbow wielders had designed cheap, plentiful bolts with wooden heads that looked weirdly close to shaped charges. What the witchpact lacked in range and speed, they made up for in penetration and the ability to enchant their bolts with a variety of effects. Flat-headed bolts splattered lightly armored targets like revenant heads and slow undead birds with ease. Sometimes, they even went through multiple targets. Several squads moved from within the formation to disable small flying foes before they could descend on the expedition’s most vulnerable members. Some temple guards waited by the cornudons and medical wagon to make sure they were not disabled.
+
+Viv was now constantly taking out the weird, multi-legged horrors crawling over the nearby walls. She could see the masonry emerging over the sheer stone to her left where the city started. Distant windows peered at the coming humans like so many blind eyes, their insides gouged since the disaster. Thicker waves of revenants crashed against the tiring rock of the heavies. Viv decided she had no choice.
+
+“Alright, let’s get ready for tonight.”
+
+She set up a mana-absorbing obelisk halfway between the small fort and the gate along with a charging station for Solfis. There were men fighting within a few paces of her while she worked, activating the last of the enchantments. As soon as the ambient mana lowered, she moved to the front.
+
+“We need to clear this space and reach the gate, it will be a good chokepoint.”
+
+//Agreed.
+
+“Blight!”
+
+A mass of black clouds expanded in front of the heavies, to their relief. The fighting squads walked back to a safer distance while another fresher one replaced it under the barking orders of a foul-mouthed sergeant. The new squad immediately moved forward, picking off stragglers.
+
+Viv cast a mass yoink to fill her reserves then used another few blights in succession. The revenants’ numbers now played against them as they were mercilessly swallowed, leaving behind only pitted stone. Viv grit her teeth. Blight was no longer as taxing as it used to be, but this was only the first day and she was already tired. Thankfully, there were no more gut spillers or other elites. She could almost see the gate. Finally, it came into view.
+
+Two tall statues lined a monumental entrance into Sinur’s Gates. The open ground fell abruptly a few steps beyond. Soldiers used this opportunity to toss revenants over the edge before Viv growled that it just meant they’d be fighting them again in a day. A new pyre rose.
+
+Beyond the entrance, there was an enclosed space surrounded by high walls that looked suspiciously like a kill zone for invaders. Viv had also wondered how revenants could leave the city when she’d clearly seen a grate from below. The answer was simple. The large gut spillers had melted it almost entirely. It was gone.
+
+“Do… undead normally do that?” she asked Lorn, the leader of the Temple Guard.
+
+“Do what?” the bearded man replied.
+
+He was cleaning gore off his greatsword and wasn’t really in a receptive mood.
+
+//She means, do they create an opening for revenants to use.
+
+//The answer is no.
+
+That got Lorn’s attention immediately.
+
+“Do you think they’re being controlled?”
+
+//Yes.
+
+//Those gut spillers moved to us in formation.
+
+//Since they, the bears, and the large insects were easily disabled, assault by large monsters has almost entirely stopped.
+
+//This is only one more clue.
+
+//I believe the undead are being controlled by an entity of some intellect.
+
+“Damn. What does it change?”
+
+//We must expect strategy.
+
+//Your Grace?
+
+“I’d send revenants to us throughout the night, then ambush us inside of the city. Attack from all sides.”
+
+//This is very likely.
+
+//The probability of a night attack is… above 70%.
+
+//Since a charging station is now available, please deploy me.
+
+“Shouldn’t we keep a hidden ace?” Lorn asked.
+
+//I am the hidden ace.
+
+//Because revenants will never draw out my full potential.
+
+“We camp here tonight, clear the city tomorrow,” Viv said. “And you cover me while I rest.”
+
+“Sounds good to me.”
+
+//It shall be done.
+
+***
+
+It was night. Marruk had volunteered to stand at the gate and stop anything coming from within. Viv had seen her block a siege tarantula’s charge and was fairly certain the stout Kark would outlast the walls. A few of her compatriots agreed to stand by her side. Meanwhile, a group of earth casters repaired the fort to protect their rear. It was much easier to defend than the road. The cooks had made warm food from within tents. Viv tried to queue with the rest of the soldiers but they insisted she goes first and then immediately to rest. Someone had made her cot in the command tent. She gulped down the congee, then went to sleep with Arthur’s head on her belly. She missed Sidjin but he was just as busy. There would be time to be together later.
+
+***
+
+A soldier barged in Viv’s tent after midnight. Viv knew what it meant as soon as she woke up and she jumped to her feet, followed by a grumpy Arthur. Something screeched an ear-splitting sound. She rushed out, fumbling with her shield. The world outside was pitch black with new piles of corpses and some lanterns providing a dusky illumination. Some of the corpses were puppet masters, tentacled undead that commanded revenants. Others were the ghastly, ghoulish shapes of crawlers with their long claws and thin bodies. There was combat near the gate. She searched the night for the screeching beast. Above. It came from above. Its next scream was cut half-way.
+
+The skeletal form of Solfis emerged from the darkness, claws grasping a giant bat head.
+
+//You should not be in the open without more escort, Your Grace.
+
+“Squeeee!”
+
+//As a general rule.
+
+//Return to sleep, please.
+
+“Not easy when there’s weird things violating my ears.”
+
+//The creature was more cautious than I expected.
+
+"Control?"
+
+//If so, it is done by an experienced necromancer.
+
+//Have you felt any presence while using yoink on your targets?
+
+“No, not yet.”
+
+//Inconclusive.
+
+//In any case, return to sleep.
+
+“What about those,” she said, pointing at the defunct controllers.
+
+//They scaled the cliffs.
+
+//But we were ready.
+
+//Your Grace.
+
+//Return. To. Sleep.
+
+//Please.
+
+“Fine!”
+
+***
+
+The second day found Viv bleary-eyed and tired, but she would not admit it to anyone and pretended to be the kind, morning kind of cheerful person she’d otherwise consider strangling. It didn’t appear to fool anyone. Perhaps because she was known as someone who’d never woken up before the militia training was over. Marruk looked much worse for wear, with pockets under her eyes and acid marks over her fortified shield. She also smelled a bit rancid. The Kark walked closer. Actually, she stank to high heavens.
+
+“You look like shit,” Viv admitted.
+
+“I feel like it too, yes. I want to bathe so badly.”
+
+“So… how was it?”
+
+“Revenants attacked often. Then, when those that scaled the cliff attacked us, a large gut spiller tried to melt me down. I had to protect my brethren while they ran. I managed to delay it long enough for the best marksmen we have to use some strange bolts on it. The gut spiller was set on fire and its girth blocked the path, so at least there was that. A bear smashed through it two hours ago though. Lorn is holding the gate right now.”
+
+Viv looked out into the dark desert beyond. More specks were making their way to the city.
+
+“Something’s calling them here,” she grumbled.
+
+“I think so. Too coordinated,” Marruk said as well. “So… what now?”
+
+“We keep going. Whatever it is, it’s probably inside the city. And I don’t see us having a good time getting back down.”
+
+//It would be a safe choice.
+
+//However, I believe it would make future operations riskier.
+
+“What if it’s a necrarch?”
+
+//It cannot be one.
+
+//A necrarch lacks fine control.
+
+//We are facing a necromancer of some form.
+
+//A spellcaster.
+
+“So you’d be able to take it down?”
+
+//Yes.
+
+//However, it may have traps, redundancies, and mighty servants.
+
+//It would be preferable to learn more before sending me.
+
+“We can do that. The city needs to be cleared anyway. Let’s get to it.”
+
+***
+
+First squad, led by Ban, made their way through the gate and the following barbican. They used a different formation with their shields above their head in case of sudden attack. None came. First there was an open space surrounded by walls and empty ramparts, then another gate, also open. Viv followed closely until she found herself in the city proper.
+
+The interior of Sinur’s gate was a maze of stairs and high towers separated by surprisingly wide streets. A square nearby showed a dust-clogged fountain. Decrepit reliefs and frescos spoke of a time long past when this was a center of trade and culture. Viv’s fascination lasted for only a second before reality reasserted itself. Only a couple of revenants were moving around, effortlessly taken down by a few yoinks. That was not normal. There should have been many more threats around.
+
+//The road to our right leads up and to the palace.
+
+//And the vault.
+
+//Whatever is facing us should be in that direction.
+
+“How likely is that?”
+
+//Close to 97%.
+
+//Control-based undead and necromancers retain a sense of the grandiose.
+
+//They will be either in a throne room, a desecrated place of worship within a palace, or in crypts.
+
+//All can be found with Sinur’s Gate’s main palace.
+
+//We have but to follow the road.
+
+“Your Grace!”
+
+Viv turned. It was one of the witchpact officers, an older woman with long gray hair and a lifetime of poaching in Enoria.
+
+“Yes?”
+
+“Captain Lorn requests a short war council.”
+
+“Hmmm.”
+
+//It might be best to formulate a new strategy.
+
+“Fine. Let’s go. The squad will return to the Barbican.”
+
+A group of elites was waiting by the gate. Viv exchanged a tired nod with Sidjin. Lorn was the first to acknowledge the elephant in the room. There were also various officers present, representing everyone but the Hadals.
+
+“So. Sinur’s Gate is inhabited. Do we continue?” Lorn asked.
+
+“We do unless we believe we will be overwhelmed,” Viv said.
+
+She was not willing to withdraw at the first sign of difficulty. So far, all their preparation had paid off and it would feel wrong to withdraw without at least a good attempt. They were already inside the fortress for fuck sake. That was usually the hardest part.
+
+Solfis didn’t interrupt her, so Viv continued.
+
+“Solfis estimates that our foe will be in the palace. I say we go there, take a squad of elites and engage it. Kill it, and the city is ours. Even if it isn’t, its death will make withdrawing considerably easier.”
+
+//It would also help the troops to stay in a less mana-saturated environment for a little while.
+
+//We should install another obelisk inside.
+
+“We’ll get right to it.”
+
+“There will be a trap,” Lorn said.
+
+“And ambushes, yes. We need to move in a way that prevents them from capitalizing on a moment of weakness.”
+
+“Should we split the army?” the witchpact woman asked. “Leave the support teams outside and only take combatants in?”
+
+“No. Splitting means we must fight on more fronts, which means we’ll tire faster and last less time. We’ll stay together and move slowly,” Viv replied.
+
+“We could clear the buildings,” Lorn said, “move slow and steady.”
+
+//I would advise against it.
+
+//Save that for mop up operations.
+
+“But then they can use that against us. Come from everywhere at once.”
+
+“I agree with Solfis. We can’t spare the time. Then… I have an idea,” Viv said.
+
+***
+
+The army moved on. Hadal scouts moved around the army to spot threats from afar. The hybrid earth mages used to build fortifications went to every building entrance, sealing them with a basic wall. The saturated mana made their work more tiring, but there were three of them and they were used to raising entire buildings, so the surface of a door was not too much an effort.
+
+Viv activated another obelisk on the second square they came upon. Sinur’s Gate was large enough to house ten thousand souls, living ones at that. There were a lot of nooks and crannies, yet they only found revenants. Something was afoot, and Viv thought she might know what. The necromancer would attack from everywhere at once. Sidjin was ready, and Viv too. The only question was, how much would they throw at the Harrakans.
+
+The expedition moved at a quiet pace, like a well-oiled machine. Soldiers blocked streets then moved on when the rest of the army had gone on. It was slow going given the size of their forces, yet no one complained. In fact, no one talked at all. Warriors with guard experience used their vigilance skill to make sure nothing was amiss. The earth caster walked everywhere, checking for tunnels but finding none. Viv was at the head once again.
+
+Sinur’s Gate was pretty in a ruin sort of way. Despite the grime, the bodies, despite the creeping grip of age, there remained a trace of its early inhabitants’ love for their city. It was far enough from the epicenter than most of its people should have survived the initial blast. She hoped they had survived. They’d be dead by now but maybe their children could return, one day, and see those delicate fountains flow again to provide a pleasant background to the terraces and hanging gardens.
+
+Viv realized she’d been daydreaming and blamed two days of near constant stress. The first thing that was wrong was Arthur’s distant shape diving for something out of sight. Then, bird tweets sounded throughout the silent city from every direction.
+
+There were no birds here, no living ones in any case. Those were the Hadal scouts.
+
+“Halt! Brace!” Viv called.
+
+Other commanders called the same order at the same time. The sounds of alarm got quickly drowned by the stomping of numerous feet, a rumble like no other.
+
+Fire blasted through a nearby alley, then Arthur flew into view, smashing half of a giant bat into a nearby wall. She veered sharply and spat more magic napalm at a target out of sight. The plaza in front of Viv filled with a horde. Hundreds of revenants racing on all fours, charging forward guided by skeletal puppet masters. It was her time to shine.
+
+“True mass yoink!”
+
+“FOUND YOU,” a voice said from above.
+
+Danger sense: Intermediate 5
+
+Viv activated aegis, blocking a howling ball of black mana. It was so potent that it lingered, eating at her defenses as it spread. Her foe had used annihilation yet its interpretation was less instant, more pernicious. She dropped the shield and looked up to find her adversary hanging from a balcony far above with two of its four hands.
+
+Tall as two men, it looked like an emaciated skeleton with two pairs of arms under a wide crown, layers of black fabric clinging to its emaciated body.
+
+[Lich: extremely dangerous: a powerful mage who resorted to black magic to extend its lifespan. Very dangerous. Expert caster. Dangerous close quarter combatant. Intelligent. Black mana master.]
+
+“Oh.”
+
+The lich unleashed a torrent of spells, and there was no room in Viv’s mind except for survival.
+
+“Aegis. Astra, astra, astra.”
+
+Viv used her new addition to her arsenal as interception spells. They left abyssal flowers expanding through the dusty air, then those bled to the ground and the last droplets that reached it left hissing gaps in the ancient stone. The only thing Viv could think was that if this touched her men…
+
+She had to hold it back. She couldn’t kill it. It was stronger than her. Faster. More astras flew through the air. There was little time for anything else. Suddenly, the lich gave up its offense to retreat under an impenetrable black orb. Viv swore when Solfis plunged through it. The sphere disappeared, but so did the lich. Solfis was left holding a severed arm and part of a shoulder.
+
+A strident screech sounded from behind a building. Viv watched one of the earth caster stare up in horror, then he raised a wall. The next black mana spell went through it and his torso. Viv was already sprinting. She made an estimate from the direction of the attack and shot an artillery spell through a nearby wall. The lich growled.
+
+Viv turned the angle to see a beleaguered squad fighting off a gut spiller. The witch pact had done their best to pepper it with their most dangerous bolts but there were already gaps in the formation where spells and attackers had killed her men. The lich spotted her, then surrounded itself in another layer of defenses. Viv wasn’t having it.
+
+“True mass yoink. Werfer.”
+
+Her conduits overflowing with energy, she sustained the flamethrower spell. Black mana roared between her hands. She could feel it dig stubbornly into the creature’s defense, her destruction to his. She poured everything she had into the flow, making it tighter, more focused.
+
+“MAYFLY. YOU DARE.”
+
+Viv summoned another aegis to wait for the inevitable onslaught but it didn’t come.
+
+“Fire!”
+
+Viv looked behind to see who was the absolute moron trying to attack a lich, and found the poacher woman leading two dozens terrified crossbowmen and women firing their best quarrels into the creature’s dessicated torso. They were all blocked, but the shiny tips worried the lich enough that it had stopped its attack.
+
+They were all dead. Unless Viv could stop it.
+
+“Blast!”
+
+Her artillery spell crashed against a shield. She had seen that spell eat through an entire building but the lich was unfazed. Balls of void-black cones appeared around the creature. Viv panicked a little.
+
+“Eldritch walls!”
+
+She aimed at a nearby bridge and fired. The entire section grew tentacles, then the displaced material fragilized the already damaged frame and gravity did what it did best. The lich screamed when an entire wall section crashed on the ground, almost clipping it and forcing it to cancel its spell. Then Solfis appeared and took part of its torso, missing the spine by a hair.
+
+//A teleportation device.
+
+//Does not require conscious activation, or I would have killed it.
+
+Viv ignored the fact Solfis was much faster than her, so he was waiting for an opening for a sure kill even if it meant losing a squad. She had to hurry.
+
+“Thank you, ma’am,” the poacher told her as she passed by.
+
+“Yeah I can’t believe it worked,” Viv said.
+
+“...what?”
+
+But Viv was already off and running towards the largest commotion. The battle raged all around her. A healer was already attending to the wounded earth caster though Viv didn’t give him much hope. Other wounded soldiers walked or were carried to the central area for triage. Now, the formation was being used to its maximum potential, with squads of witchpact crossbowmen taking down priority targets with their deadliest bolts while the heavies mowed down the revenants. Hadals flitted from building to building, taking down light fliers before they could descend on the wounded. The Kark had formed an impenetrable wall in one of the major axis while the temple guards held the rear. A roar and a flash of light above announced that the sky was contested, though burning feathers soon rained on the beleaguered defenders. It was chaos but, for now, every line was holding. Viv looked around searching for her target. It would take the lich only a few seconds to wipe out a section and the defenders would be overwhelmed. She wondered what it was waiting for.
+
+“For Neriad!”
+
+A flash of golden light met a black lance farther back. Viv sprinted faster. Solfis jumped down from another building and managed to steal a leg from the quickly ascending lich. It was already missing two of its four arms.
+
+The creature teleported again.
+
+Viv reacted before she could even think, turning on herself. The view of the carriage to her left was now blocked by a towering black figure. Maybe her skills alone had saved her, or perhaps it was just experience.
+
+“Excalibur.”
+
+“VOID SHARD.”
+
+Viv’s blade of concentrated destruction met the lich’s ray of acid mana, the two near-identical meanings clashing with a silent hiss. All Viv could see was a fused beam and, above it, the grinning skull of her foe. The world narrowed down to this view and the contest of will taking place in the crucible of the colliding spells. The lich’s annihilation meaning was the image of this city: decaying, attritive, and inexorable. It pushed towards her and for a moment, the lich thought it was winning. But then it felt the threat, for Viv’s annihilation was a force of surgical precision and it was always going for the heart. Beneath the surface, her own spell had thinned to a blade aimed at the heart of the lich, just like her expedition aimed for the heart of the city.
+
+Power +1
+
+You have reached a milestone! The power of all of your spells is higher. The range of all of your spells is significantly higher. You may cast farther away from your body. Items that contain mages have a reduced effect on you.
+
+The lich disengaged and flew up despite Viv’s attempt to take it down. It blocked her attack, dodged Solfis’ assault, though not without losing yet another leg, then burst through a gout of flame. There, at the apex of its flight, it screamed.
+
+It was an expression of leadership, but fortunately, or unfortunately, it was not aimed at the living.
+
+The meaning was clear. It said: ‘Come!’.
+
+The lich teleported away, leaving Viv and her allies chest-deep in undead with the promise that more would come soon, and a lot of them too. The witch swore.
+
+“We need to get rid of the lich before the tide washes over us.”
+
+//We can get to the palace.
+
+//It should be easily defensible.
+
+//Kill the lich, and the undead will disperse.
+
+“Need a way to open the path,” Viv said, watching the tide of revenants still holding between them and their destination in the upper city.
+
+“Ahem,” a voice said from the side.
+
+Viv turned and found herself face to breastplate with a knight in heavy armor. It was the head of Harrak’s dozen of riders, but he had proved himself against Lancer. And lost his lover as well.
+
+“Sir Rollo,” Viv greeted.
+
+“Have you forgotten about us? Give the order, and we will carve through that rabble like a cleaver.”
+
+“Then do so.”
+
+“Good. Ride behind me and I will get you to the palace.”
+
+Viv was suddenly on a saddle behind an armored back, surrounded by barded warhorses. It felt strange to be so high and so heavy, but the mounts moved in good order. They waited a little for the wounded to be loaded into the carts, then it was time to go.
+
+“Perhaps we need a war cry,” Rollo suggested.
+
+Viv had a look behind at her troop and their… monochromatic gear.
+
+There was only one reasonable option.
+
+Viv deployed her leader’s aura, making sure to add intimidation into the lot. It wouldn’t be of any use against the revenants, but sometimes, it was good if your men were more scared of you than they were of the enemy.
+
+“FOR THE BLACK TIDE! CHAAAAAARGE!”
+
+The knights went off like race cars. Wind whistled in her hair because, of course, it was Nyil, and war horses had skills too. The rumble of hooves on stones covered the din of battle but not the roar of… quite a bit of people.
+
+The small detachment of heavy knights plowed through the revenants without stopping, crushing them underneath. Jumping puppets slammed against their shields and were cast aside, their master trampled. Gut spillers were gored, crawlers were pinned. The knights’ spears made no distinction.
+
+It occurred to Viv that she might have to change her approach to tactics and, possibly, get more knights. They seemed nice. But that was for later. Right now, she had more urgent business to attend to before facing the lich again. She turned her attention inward to the notifications she had been ignoring so far.
+
+Lost Heiress: (10)
+
+Path evolutions available. You may pick from the following list.
+
+“Yes!”
+
+There were a ton of choices available but most of them felt grayed out, as if the interface knew she would not even consider them. Those ranged from warrior to civil servant up to and including courtesan. Viv also ignored the rather appealing but bog standard options of court archmage, noble mage, and black archwitch to get straight to the good stuff. This time, there were not one but four special classes to choose from. No empress though, but she didn’t have an empire yet.
+
+Tabula Rasa
+
+The wind of fate spares no one.
+
+You have overturned governments and changed the destiny of kingdoms. War, covert operations, politics, arcane power, there are no tools you will not use to achieve your goal, and that goal is to liberate people from tyranny. You have slain royalty before. Now, do it again.
+
+Ascender
+
+It’s lonely at the top because people die getting there.
+
+You have survived many dangers from mana poisoning to assassination attempts. Monsters have failed to eat you, humans have failed to murder you. You have made it past their attempts and killed most of them for it. No one can stop your ascension, and no one will.
+
+Abyssal Conduit
+
+Embrace your nature.
+
+You were born for magic. You love magic, breathe it, theorize it, experiment with it, and magic loves you. Become the hand of the black. What you cannot change, destroy, what you cannot destroy, evade.
+
+Abyssal Lady
+
+Wield the power. All of it.
+
+The ability to melt someone’s face off does not count as governance but it can certainly help! You are a symbol and a power multiplier on the battlefield. Lead on.
+
+Viv’s mind accelerated, fueled by some foreign magic, possibly Nous helping her pick without his intervention getting her killed. The meaning was obvious, however. There would be no delaying; it was time to choose her fourth step.

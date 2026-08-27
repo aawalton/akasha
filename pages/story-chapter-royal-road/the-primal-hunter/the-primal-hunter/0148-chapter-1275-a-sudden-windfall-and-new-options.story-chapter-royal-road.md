@@ -1,0 +1,129 @@
+---
+id: 487720ab-42e3-53bb-b61f-dd467dc8c7d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1275 - A Sudden Windfall & New Options"
+slug: 0148-chapter-1275-a-sudden-windfall-and-new-options
+partOf: the-primal-hunter
+position: 148
+ownLength: 3288
+unit: words
+ownProgress: 3288
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3148110/chapter-1275-a-sudden-windfall-new-options"
+royalRoadId: "3148110"
+markedReadAt: "2026-06-29T19:34:59.041Z"
+---
+
+Jake just stared for several moments, long after the dings had stopped. He needed a moment to collect himself as he stared at the familiar, yet slightly unfamiliar-looking notifications. Unfamiliar, because Jake still wasn’t used to seeing that name in the notification, and familiar, because he damn-well knew what a level-up sounded like.
+
+And for some reason, Jake had just gotten a lot of level-ups.
+
+’DING!’ Profession: [Primeval Alchemist of Malefic Origins] has reached level 351 - Stat points allocated, +125 Free Points
+
+…
+
+’DING!’ Profession: [Primeval Alchemist of Malefic Origins] has reached level 359 - Stat points allocated, +125 Free Points
+
+’DING!’ Race: [Human (B)] has reached level 350 - Stat points allocated, +135 Free Points
+
+…
+
+’DING!’ Race: [Human (B)] has reached level 354 - Stat points allocated, +135 Free Points
+
+He went back to staring, none of this making any fucking sense to him. For a moment, he even wondered if the levels were real, but the sense of power and stats gained were definitely there.
+
+Something had clearly earned him a lot of experience at once, and Jake went through his notifications to see what it could be. He skipped some stuff he would get to later, but even after going all the way up to his Spirit of Man notification… nothing.
+
+Jake remained confused, but fortunately, he had already started reaching out to a certain someone who could have answered. That someone had waited for Jake to get his bearings before finally latching onto the telepathic connection Jake initiated as the snake god spoke.
+
+“And here I thought you’d just evolved to B-grade, but look at you, already several levels in!” Villy said in a regular joking voice, though Jake did detect a certain undertone.
+
+“Do you have any idea what’s going on?” Jake asked directly, not bothering to beat around the bush, and also speaking with telepathy to make sure no one could be listening in.
+
+“See, that’s funny. I was planning on asking you the exact same thing. Here I am, watching my little Chosen go from C to B-grade, curious what’ll happen. I had expectations, predictions, and even a few bets with myself just for the fun of it, yet nothing had prepared me for what you did. So, how about you start… what do you think you did that could have caused your sudden growth spurt?” the Primordial asked, throwing the ball in Jake’s court.
+
+Jake didn’t have to think long. The only thing that had happened during his evolution that could have affected even Villy during Jake’s evolution. “Spirit of Man.”
+
+“Are you telling me you got a special leadership-related Spirit of Man variant?” the god asked skeptically. “Actually, you know what? Don’t answer. We’ll have a nice sit-down once you’re done with all your evolutions and stop by my Order. While I would love to know the details, I can wait, but allow me to sate your curiosity for now.”
+
+The newly evolved B-grade kind of wanted to just brag about his new overpowered skill that definitely surpassed all of Villy’s expectations, but remained quiet for now and just nodded instead.
+
+“Upon your evolution, I felt a little something. Personally, at first. An echo of sorts, going through our rather powerful karmic connection caused by you being my Chosen and all. An echo of Records related to growth. The effect was so faint it was barely detectable… but I could detect it. And that’s significant in its own right. What’s more, following this effect, it wasn’t just having an impact on me, but everyone in the entire Order, with humans curiously being more affected than everyone else.”
+
+Jake had to consciously stop his mouth from gaping as the Malefic Viper continued.
+
+“Once more, the effect is so slight that it’s unnoticeable to all but a scarce few. At least none of the affected will be noticeable. Compared to the growth-amplifying effect I personally have on every being part of the Order, what you just did is minuscule in comparison, but, again, you did something. Something that affected the Records of every living being within my Order. A positive effect, even. For a mere B-grade, no, for my little B-grade Chosen to perform a feat that positively benefits my entire Order… now isn’t that something worthy of a reward? Of the system’s recognition?”
+
+“Assuming that’s the explanation, wouldn’t there have been some notification from the system indicating that?” Jake asked quickly, thinking that the Viper’s words were sound and made sense, and he had considered it for a moment, but seeing no system notification filled him with doubt.
+
+“Do you get a system notification every time you read a book about poisons? Every time you eat a new ingredient? Attend a lesson on alchemy? Display your power and inspire awe as my Chosen? No, yet all of these things earn you Records and experience. It’s just that all of these are not necessarily singular events that lead to it at all. It’s not a grand happening like when you roasted me to the multiverse or killed the Usurper of Yip of Yore. Those are huge events that are the culmination of a large sequence. What you did today isn’t that. Instead, it’s countless small happenings, individually none worthy of a notification, but collectively… well, the level should speak for itself. I am a bit surprised you didn’t get more, actually, but I also feel that your new profession isn’t as closely tied to my Path as before, so it may have something to do with that. Either way, we’ll have a long, nice talk over a case of cold beer once you’re done with everything on your end and return to the Order. Until then, enjoy the rest of your evolution. I do miss those days of rapidly evolving very few years… then again, I do prefer being a god. Yeah, godhood is definitely better. You should try it sometime.”
+
+Before Jake had a chance even to say goodbye, the Viper cut the connection. Jake had a lot of questions, but it was clear the Viper wasn’t interested in answering any of them now. All of that would have to wait. He also suspected that Villy wanted him to think about things a bit more on his own; the snake god was always a fan of Jake figuring things out himself rather than being spoonfed everything.
+
+Regarding what the Viper said, Jake had to admit it all made a lot of sense. It was just that a part of him hadn’t believed that his Primal Spirit of Man effect would actually do that, despite what the description said.
+
+“Increases experience gain of all those deemed your kin, comrades in arms, allies, partners, or subordinates.”
+
+The wording was pretty straightforward, yes, not including any specific limits, with the only uncertainty being how significant this experience gain was. Members of the Order of the Malefic Viper definitely met at least one of those qualifiers. Even so, Jake had assumed that he, as a B-grade, wouldn’t be able to influence what had to be trillions of others, across universes and grades. Turned out, he was wrong. His Spirit of Man was even more overpowered than Jake gave it credit for.
+
+From what Villy said, the actual experience increase was so low that it was definitely not even measured in whole percentages. Perhaps it was a 0.00001% increase… but if one considered that it affected everyone, even the gods, it could no longer be called insignificant from an organizational standpoint. Chances also were that it affected those weaker far more, while gods wouldn’t even be able to detect the difference. If that were the case, it would raise questions about whether Jake’s growth would also benefit everyone else… he was nearly scared to find out.
+
+Shaking his head, Jake chose just to be happy he was one overpowered hunter with the best Bloodline in the multiverse. Complaining about a good thing would be silly, even if he found it unsettling.
+
+Also, this was essentially instant gratification, rewarding Jake for having picked this profession over Harbinger of Primeval Origins. If he’d gone with that one, Jake’s profession would have had far less to do with Villy and Jake being a Chosen, thus rewarding him little or no experience for this, outside of the initial level to Heretic-Chosen Alchemist of the Malefic Viper.
+
+And no, Jake didn’t even want to think about how many levels he could have gotten if he’d gone with Heretic-Chosen Prophet of the Malefic Viper. Definitely far more than this, though probably also less than one would expect. The system did have some checks and balances, even for events like this, with diminishing returns kicking in hard. Without these checks and balances, Jake would have already gained far more experience.
+
+Okay, getting 9 levels was still fucking insane, but he would have gotten way more than that. Just as killing the same enemies over and over again made one get less and less experience, Jake buffing up every member of the Order also earned him less and less for each one, until any experience gain pretty much entirely disappeared.
+
+Actually, as Jake considered the levels he’d gained, a thought struck him… should he even have been able to evolve his profession in the first place? Didn’t he usually also need a bit of experience to get from 349 to 350? Jake hadn’t even thought about whether that was the case, due to everything with Primal Spirit of Man and whatnot. Assuming he did, this also explained how he’d gotten to that level, and maybe Jake should have seen this situation coming before.
+
+With a deep breath, Jake decided to move on, just happy with the sudden windfall of levels. He was looking forward to making fun of others for already falling behind, as he wasn’t even sure Sandy and Sylphie had managed to get a level in B-grade yet, much less four whole race levels.
+
+Taking a step back, Jake refocused on the fact that he’d just evolved his profession, and while he’d been sidetracked by suddenly getting a lot of levels out of nowhere, he still had several things he needed to address.
+
+Such as his new and upgraded profession skills. In C-grade, Jake had upgraded Malefic Viper’s Poison, his Path of the Heretic-Chosen, and gained the Grimoire skill. Here in B-grade, Jake quickly realized that things weren’t that much different. At least not initially.
+
+[Malefic Viper’s Poison (Ancient)] – The Malefic Viper stalks its prey and needs only to strike once as venom devours its prey. Increases the potency of all crafted poisons. Grants the ability to craft a poison with a rarity above that of your Concoct Poison skill if certain conditions are met. The poison may at most be upgraded to the rarity of the Malefic Viper’s Poison skill (Epic --> Ancient). Allows poison not to lose efficiency for a long period of time after being applied to a weapon.
+
+-->
+
+[Malefic Viper’s Poison (Legendary)] – The Malefic Viper stalks its prey and needs only to strike once as venom devours its prey. Increases the potency of all crafted poisons. Grants the ability to craft a poison with a rarity above that of your Concoct Poison skill if certain conditions are met. The poison may at most be upgraded to the rarity of the Malefic Viper’s Poison skill (Epic --> Legendary). Allows poison not to lose efficiency for a long period of time after being applied to a weapon.
+
+Jake had commented on it before, but Malefic Viper’s Poison was one of his best skills simply due to the passive effects it had. The ability to trigger and instantly upgrade a poison several grades was also an important feature, though one that activated very rarely. He could trigger it more reliably if he went and got some of the liquid from the Malefic Viper’s Vision statue created by Felix, the mad Primordial Church sculptor, but that would require actually looking at that horrible thing. Plus, Jake wanted to avoid forcibly triggering this skill, as when he did it mixed in a bit too many of the Malefic Viper’s Records, often overpowering Jake’s own. Unless he used Primeval Origin Energy, that is.
+
+There really wasn’t much more to say about this skill upgrade. It was great, Jake was happy for it, and he wasn’t going to think about Malefic Viper’s Poison again until he triggered its effect or evolved to A-grade.
+
+Moving on, Jake saw that Path of the Heretic-Chosen also once more saw itself upgraded, but this time, the change wasn’t as minor.
+
+[Path of the Heretic-Chosen (Unique)] – A unique path between the Primordial known as the Malefic Viper and his Chosen, Jake Thayne. Allows you to experience the Legacy of the Malefic Viper on a far more direct level by relying on your direct connection as a Chosen and the mentality of a heretic. Focusing on any core skill, event, or individual related to the Malefic Viper’s Legacy will allow you to peer into the True Records of the past as you journey through time, space, and reality to experience history firsthand. Limitations on Record Fragment selection may apply. Be warned that gains are not guaranteed, and while the journey cannot harm you directly, the journey may cause harm or have lasting effects – a risk you must take as a Heretic. May you walk with confidence as you continue to tread a Path never walked before. Gains 1 use every 20 levels. Any skill can be chosen only once. Current uses remaining: 0
+
+[Primeval Path of Malefic Origins (Unique)] – A unique path between the Primordial known as the Malefic Viper and his Chosen, Jake Thayne. Allows you to experience Records related to the Path of the Malefic Viper, relying on your current insights and direct connection as a Chosen of the Malefic Viper. Focusing on any Malefic Viper Legacy skill, event, or people related to the Malefic Viper’s Origin will allow you to peer into the True Records of the past as you journey through time, space, and reality to experience history firsthand. Limitations on Record Fragment selection may apply. Be warned that gains are not guaranteed, and while the journey cannot harm you directly, the journey may cause harm or have lasting effects – a risk you willingly take as you seek to uncover mysteries of the past. May you walk with confidence as you unwind the threads of the unknown, seeking power through discovery and enlightenment. Gains 1 use every 20 levels. Any skill, event, or person can be chosen only once. Current uses remaining: 0
+
+Here, the difference between before and after was far more noteworthy. The flavor text had changed a lot, removing references to Jake being a heretic and instead switching to more Origin-related stuff. Of course, Jake didn’t care much about that, as what truly mattered was its effects.
+
+Before, it allowed him to experience the Records related to the Legacy of the Malefic Viper, while now it allowed him to experience Records related to the Path of the Malefic Viper. The difference between the two didn’t seem significant, but Jake had a strong feeling he would come to realize it was.
+
+Besides that, his new Primeval Path of Malefic Origins allowed him to choose far more subjects for the skill, and he also noted how it had changed from Jake being able to focus on “an individual” to “people,” making him consider if he could choose more than one person at once. Perhaps a scenario where two people interacted.
+
+What he could see also seemed to have expanded, as what he would experience was related to the Malefic Viper’s Origin. At least to Jake, that seemed a lot broader.
+
+Overall, Primeval Path, as he was just going to call it from now on, was much of the same, just better than before. Jake was definitely looking forward to experiencing what he could do with it after its upgrade. Sadly, he had no charges and would have to wait, well, a little less time than he initially thought he would, as he was already halfway to the next charge. Yay, free unexpected levels.
+
+With these two skills covered, Jake finally got to the new skill he’d gained alongside his Primeval Alchemist of Malefic Origins. Jake didn’t know what to expect, especially not after seeing that it was yet another unique rarity skill.
+
+[Lesser Primeval Energy Manipulation (Unique)] – The Path of a Primeval Alchemist is one never walked before, not because no one has ever wanted to, but because no one ever had the qualifications. You uniquely do, having access to Primeval Origin Energy. Allows the Primeval Alchemist to create and control an inferior version of Primeval Origin Energy known as Lesser Primeval Energy. This energy is far less potent than Primeval Origin Energy, but also significantly easier to control and manipulate, at a fraction of the cost. Using this energy in alchemical creations has unknown effects, allowing you to explore and uncover aspects of your innate abilities. Creating items using Lesser Primeval Energy has an extremely high chance of making them Soulbound. Adds a noticeable increase to the potency of Lesser Primeval Energy based on all stats. Adds a noticeable increase to the effectiveness of Willpower, Perception, and Wisdom when using Leser Primeval Energy Manipulation.
+
+So, if Jake was reading this directly, it was the system giving him a safer, more efficient way to use his Primeval Origin Energy by providing him with a lesser version of it. Using Primeval Origin Energy was extremely risky, as shown by him fucking up Palate, but the cost was also pretty damn high, with it taking a long time to restore used Primeval Origin Energy. Experimenting with it seemed incredibly unwise and overly risky, but now the system had come in and given him so many options by providing a type of energy to experiment with while wearing safety wheels.
+
+Rather than using a bazooka, he now had a handgun to teach him how to shoot. It was no doubt still a dangerous tool that Jake had to be careful about using, but he could definitely start trying new things he’d always written off before.
+
+He had always been curious to see what would happen if he mixed Primeval Origin Energy into a poison, and now he had the chance to find out by using the Lesser Primeval Energy instead. Jake was filled with thoughts of how to use it, though he instantly knew that, unlike real Primeval Origin Energy, he shouldn’t expect amazing results when trying to affect the evolutions of other creatures.
+
+Raising his hand, Jake tried to condense a bit of this Lesser Primeval Energy. He faintly felt himself do so, as the air above his hand shimmered, but he quickly frowned. Jake knew he had just produced some, but it had dispersed into nothingness instantly. After a few seconds, Jake seemed to realize the problem.
+
+Like with Primeval Origin Energy, he needed a medium to infuse this energy into. Jake was tempted to start taking items out here and now to get experimenting, but, for the umpteenth time that day, he held himself back and exercised patience.
+
+Jake smiled a little, knowing he was going to be one busy alchemist in B-grade with his newfound alchemical Path, and he couldn’t wait to find out what this new type of energy was capable of. However, there was one thing he wanted to find out more than anything else right now.
+
+It was time to find out what kind of hunter Jake was going to be in B-grade as he prepared himself for his class evolution.

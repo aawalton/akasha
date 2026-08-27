@@ -1,0 +1,227 @@
+---
+id: f81c4308-78ea-5724-b709-a7e09c3213fe
+page-type-slug: story-chapter-royal-road
+title: "Breaking and Entering, Pt. 2"
+slug: 0011-breaking-and-entering-pt-2
+partOf: new-gam3-plus
+position: 11
+ownLength: 2935
+unit: words
+publishedAt: 2023-11-07
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1399822/breaking-and-entering-pt-2"
+royalRoadId: "1399822"
+---
+
+The hallway was empty. Two doors lay ajar, one that opened into a supply closet and another into a small office. The exit leading back into the main store was down a flight of stairs. Alan turned to Ivy and held a finger up to his lips, making the universal gesture for silence. He crept forwards.
+
+Half-empty shelves of ammunition and locked display cases lined the aisles of the store. The power was off, but streetlights illuminated the front entrance on the opposite side—where Alan had fired into minutes ago. Broken glass and empty brass casings covered the floor, while the dead body of the shopkeeper sat behind a sales counter.
+
+There’s a security camera pointed at every entrance, but they are not connected to the UWG’s network. Curious, Nu sent.
+
+Looking up, Alan took note of the cameras. They were shut off like the lights. There was also the broken carcass of a small ceiling turret. The security seemed a bit much for a suburban area, but crime rates were probably higher in-game. A sign indicated a pharmacy in an adjacent room, one of the old movie theaters. The injured thief was likely there.
+
+The two outside are unloading the trucks, making room. Speed up whatever you plan on doing, Nu sent.
+
+Alan proceeded forwards slightly faster—a walk instead of a crawl. An inspection of the items around them didn’t highlight any immediate upgrades. The store contained all the normal handguns, shotguns, and rifles you could find before the Game. Another wall was covered with camouflage outfits and body armor. Ivy took a few items. Alan could hear the soft thumps of heavy goods being moved outside.
+
+There was another short hallway before a large door that led into the next room.
+
+A grunt came from the other side of the door. Before Alan could react, Ivy called out, “Crimson sky! Don’t shoot!”
+
+There was a pause, a shuffle, and then a response. “Cerulean sea! Who’s there?”
+
+“Ivy, General Icewolf’s daughter and we need to talk.”
+
+Alan glanced backward. Ivy shifted her entire body language—from wary and uncertain to confident. She’d picked up a light black body vest, an M16 assault rifle, and tied her brunette hair in a low ponytail.
+
+Ivy met Alan’s eye and shrugged. “Sorry, he told me not to tell you. But use every advantage you have, right? Follow my lead.”
+
+She opened the theater door. A bright light shined in their eyes.
+
+“Drop your weapons!”
+
+Ivy placed her rifle on the floor and held her hands up. After a moment of indecision, Alan copied her.
+
+His eyes began to adjust and he could make out the outline of a man with a bandage around his leg. A rifle with a flashlight attachment pointed straight at them. The renovated screening room held a pharmacy booth in the back, along with aisles of medicine.
+
+“Who are you?” the soldier asked.
+
+“Hired help,” Alan said.
+
+The man squinted and then activated a radio. “Maze, Laser, get in here! We have company I need help ID’ing.”
+
+Not going to comment about Ivy being Icewolf’s daughter? Alan asked.
+
+I found out going through Isaiah’s phone. There’s another layer. This has the feel of a prepared lie so I didn’t think it relevant—according to social media Icewolf divorced their mother when they were young and she remarried. No real connection other than biological, Nu sent.
+
+That’s more than enough most of the time,Alan sent. Was Nu hiding more information from him? Why did—a splitting headache shattered the thought, a lightning bolt of pain shooting through his skull.
+
+“Are you okay?” Ivy asked.
+
+“No. Yes. Maybe,” Alan said, clutching his head.
+
+“There are painkillers—” Ivy began to step towards a shelf.
+
+“Don’t move. Maze calls the shots, but my finger’s feeling itchy,” the soldier said.
+
+A moment of silence passed.
+
+Ivy stared down at her hand. “I still can’t believe this is all virtual. With this technology why not create a paradise or a land of peace? Why build a universe of death and destruction?”
+
+“Because the Administrators only care for progress, or at least their version of it,” Alan said.
+
+And for some, this is a version of heaven, Nu sent.
+
+“But we could do so much more. Be so much more,” Ivy said.
+
+“Child,” a male voice spat. A hand clamped down on Alan’s right shoulder, heavy and cold. The bandit in power armor had snuck up on them without a sound. His machine gun was in his other hand, pointed at Ivy.
+
+“Crimson sky. I’m—“
+
+“I know who you are. And you do not understand the terror of this reality. This game is a nightmare. Think for a moment. You can never again know what is real.” The armored figure moved, grabbing Alan’s right hand. Alan tried to dodge, but he was too weak and too slow.
+
+There was a twist, a snap, and a pop. His wrist was broken.
+
+“You are in the labyrinth now—a maze without end. Every time you wake are you truly ever present or is it simply another dream? With a simulation this detailed, you can never know anything with conviction ever again. Is this man’s pain real or is it an illusion?” A mask of metal hid the man’s face, but it was clear he was staring into Ivy’s eyes.
+
+With a soft gasp, Alan pushed past the hurt. It was nothing new. The Ignore Pain skill helped as well, though there was an interaction there, between his ability and his mind that he felt and filed away. For now, he had to come up with a plan to deal with this madman that had just broken his fucking wrist.
+
+You aren’t thinking clearly, Nu sent. He’s too high level. You need to figure out what he wants. Find a way to de-escalate. Also, this guy is a dumbass. Pain is all in the mind, so of course it’s real.
+
+“I get you never want kids, Maze, but this is a bit much,” a woman said, entering through the theatre doors. From the context and the energy rifle in her hands, she was Laser. She wore a helmet with a dark gray combat uniform.
+
+“Actions have consequences, and they just slaughtered good men and women trying to provide for their community,” Maze said.
+
+“They were stealing,” Ivy said. “These supplies and weapons don’t belong to you.”
+
+Laser raised an eyebrow staring at Ivy’s new body vest, and then the M16 rifle on the floor. “The owner was a tyrant. He built up this small empire in the corner of DC through bribery, deceit, and blackmail. A store dealing in illegal and stolen goods getting robbed is fair turnabout.”
+
+“We still haven’t found anything worth the trouble,” the wounded soldier said.
+
+“UWG reinforcements are on their way—we’re on a timeline here. Perform a perimeter sweep while I decide what to do with these two,” Maze said. He turned his head to examine Alan. “I thought you were the Doomsday Hacker, but you are not a rank S threat. Why do you wear his face?”
+
+Alan hesitated, and then said, “Not sure. What do you want to know?”
+
+“Knowing anything in this day and age is a fool’s errand,” Maze said. “Will salvation come from within or without? Or is it collapse that lies ahead instead? I follow orders. I have two conflicting ones: kill enemies on sight and aid allies when possible. Which are you?”
+
+“Allies,” Ivy said with confidence. “This Operation Phoenix—the Ashes of Humanity—it’s all about rising again, right? We’re all human. In the end, we’re all on the same side.”
+
+Maze laughed harshly. “If you think that I should kill you. Teach you a lesson better learned while the stakes are low. Words do not matter in war. Actions do, and you killed my peons.”
+
+“Look at the news though,” Ivy said, pulling out her phone and scrolling down a feed. “Social media and live streams show the Ashes is an alliance of forces with completely conflicting ideals. Religious fundamentalists fighting with atheist state governments, anarchists, citizen militias, and military dictatorships.
+
+“For a long war, supplies would need to be prepared, but satellite imagery didn’t show any buildup for most conflict locations. This is expected to be a week long blitz at most. Your ‘helpers’ all around the world are being set up to lose. A sacrificial force, a distraction, as the so called traitors from the United World Government raid and ransack civilian and commercial targets like this one. At the end of the day, your orders will be to rejoin the UWG to defend Earth. Eventually, we’ll be on the same side. That makes us allies.”
+
+“Such conviction—and so very, very wrong,” Maze said. “You’re looking down at the ground when you should be looking up at the sky.”
+
+Alan called out, “Wait! We may be enemies, but we can still be of use. Is there an internal network or desktop available?”
+
+“Nope. Power’s out and the hard drives are fried,” Maze said.
+
+“This was a movie theatre,” Ivy stated.
+
+“Your observational skills amaze me,” Maze said.
+
+“Have you checked the projector rooms?” Ivy asked.
+
+A silent pause filled the room.
+
+“No,” Maze said. His head turned, and then slowly scanned the room, looking up at where the projector would have been. All that was there was a wall. He tapped his foot. “I won’t kill the two of you, but you won’t gain anything here either. Leave now.”
+
+“You mean you don’t want to deal with the potential blowback and paperwork if you do off ‘em,” the wounded soldier said.
+
+“That too. So leave us be. I’m requesting support, and you two need to be gone before they arrive,” Maze said, pulling out a tablet slotted into his armor. It looked identical to the battle map Alan had been given.
+
+“Let us leave with our weapons at least,” Ivy said.
+
+“Not my problem,” Maze replied.
+
+“For our weapons, a bottle of painkillers, and a sling for my arm I will send you a message with knowledge about the nature of the Game once we have escaped,” Alan said.
+
+Maze slowly nodded and then rattled off a phone number, likely connected to his battle map. Nu and Alan both memorized it.
+
+“Remember this: if either of you send even a threatening glare in our direction you will die,” Maze said. “Happy hunting.”
+
+With Ivy’s help, Alan managed to get a cheap drugstore sling around his right arm, carrying his rifle with his left hand. There was still pain, but it had dulled to a background throb.
+
+They exited through the front entrance and headed out south in the direction of the Administrative Center. Gunfire and the occasional explosion could still be heard in the distance, but for the most part, the DC city blocks were dark and quiet.
+
+Ivy frowned. “Isaiah isn’t answering any of my texts. We never agreed on someplace to fall back to.”
+
+“Let’s hope he didn’t lose the battle map because if he isn’t at the Administrative Center when we get there I’ll kill him myself,” Alan said.
+
+Ivy glared at Alan. “I know he can be a brat and fuckup sometimes, but he’s still my brother. Do you have a number for Bob?”
+
+“No. He never gave one,” Alan said.
+
+When was the last time you heard from Isaiah? Alan asked.
+
+When you entered the store at 2:03 AM. 161 hours for the Tutorial mission remain,Nu sent. What information are you planning to share with Maze?
+
+I don’t know. This wall or hole in my head is driving me mad. Send whatever message you want, I just said that to get us out of there armed, Alan sent.
+
+Wait. You want to go back and assault them? Even with their reinforcements coming any minute? Nu asked.
+
+Maybe, Alan replied. He couldn’t think. His head was killing him and despite all his knowledge what was he sure of about the nature of the Game? Tell Maze the Game is only the first step.
+
+The message was cryptic and wasn’t all that helpful, but the man had broken his wrist. The statement also felt true.
+
+Done, Nu responded.
+
+An engine roared, headlights illuminating the street. Ivy and Alan hid behind a tree, only for a UWG vehicle to blaze past.
+
+A few seconds later Alan began walking down the sidewalk, but Ivy stayed put.
+
+“I’m going to look for my brother,” Ivy said.
+
+“What? There’s a battle far beyond our level taking place a few blocks away while Maze will kill us if he sees us again. I can’t shoot accurately one-handed. Bob will wait for Charlie to respawn, and that should happen at the nearest Administrative Center,” Alan said. “If they died they’ll end up there too.”
+
+Ivy shook her head. “You’re a very goal-oriented person, aren’t you? But there are more variables in the universe than you could ever possibly predict.”
+
+“Look, I get the raid on the pharmacy didn’t go well. We got nothing out of it, but at least we’re still alive,” Alan said.
+
+“You aren’t listening. You think X leads to Y leads to Z. Gain levels, acquire gear, complete missions and that’s it. I don’t think the universe is so linear,” Ivy said.
+
+“Oh, please enlighten me on the nature of the universe then,” Alan said. He rested his rifle on the front lawn of an unlit house, his arm tired.
+
+“Well, I imagine it to be a massive web—an intersection of people, ideas, and realities. We stumble along and intertwine with those we can, yet unravel and become untethered all the time,” Ivy said. She gestured at the world around them. “But the Game? It’s dark. I see nothing but the glorification of violence and a reward for the best killers. Isaiah, off on his own will run headfirst into danger and I let you seed ridiculous ideas of immortality in his head. Look at yourself. You couldn’t even respond to a soldier in Rank C power armor.”
+
+“If you hadn’t tried talking, maybe we could have taken them with the element of surprise!” Alan shouted. He sat down on the grass. He was tired. His head hurt. Nothing had gone to plan.
+
+Less anger and more communication, Nu sent.
+
+“I had a series of escalating wins the first time I went through the Game. It’s only now beginning to dawn on me just how lucky I was,” Alan said. “Maybe I expected that to continue.
+
+“But you need to strive, to bleed, to play the Game. That’s where we are right now. That is the reality we live in. If you can’t face that fact, then this world isn’t for you.”
+
+Ivy stepped forwards, standing over Alan on the ground. “Fine. We’re in virtual reality. Death isn’t the end. Destruction grants experience, but we’re rewarded for building too. Training can give us levels just slower. Maybe the answer isn’t to hustle more but to take the time to build something that lasts.”
+
+“Taking will always be easier than making,” Alan replied. “If we had a century to prepare, to live, to explore, I’d agree with you. But we simply don’t have enough time. The Administrators will start Extinction Events. The Haxlards will subjugate Earth. Humans will snatch and grab whatever they can get their hands on. The only way to make a difference is power. And our best bet is to take it from those higher up.”
+
+Ivy sighed, throwing her rifle down on the ground. She sat down next to Alan, arms around her knees. “You are poisoning the well from the start. How can you have true friends and allies, when all everyone wants is more? Where is progress? Who is creating good in this place?”
+
+“Leave. Go build a community back in reality if you care about good and evil. Spend a few decades at the Institute playing catch up if you want to do research. In the Game, there are only levels, and I aim to gain as many as I can,” Alan said.
+
+“I don’t even know what we’re arguing about anymore. I can’t follow your logic,” Ivy said.
+
+“I acknowledge that we need to be smarter,” Alan said. He pulled up some grass. “No more charging in blindly. The Game rewards you the harder the fight is—but we need to take battles we can win. We need more information to figure out what is going on.”
+
+“Do you have any close friends, Alan?” Ivy asked.
+
+Alan closed his eyes. He couldn’t think of anyone human. He had Nu, or maybe his other self. Did they count?
+
+Ivy continued, “You have to give too. You can’t take and take and take and expect people to give more. Allies win a war. And the path you head down will lead to isolation.”
+
+Ordinarily, Alan would have dismissed Ivy’s statements. She was an idealistic teenager. Except, Alan 1.0’s advice was to make more connections and change the system. Fuck.
+
+“Okay, let’s look for your brother,” Alan said.
+
+“Oh,” Ivy said like she hadn’t expected him to change his mind. “You’re hurt, you should continue to the Administrative Center. I was going to go alone.”
+
+“Too dangerous,” Alan said. “I’ll be a body if nothing else, and can throw a grenade or spray and provide cover fire.”
+
+“But your wrist—“
+
+“The pain will help me train an ability. Let’s go,” Alan said, standing up.
+
+The pair headed back the way they came, to Isaiah and Bob’s last known location. It was, Alan mused, time to try and make some friends.

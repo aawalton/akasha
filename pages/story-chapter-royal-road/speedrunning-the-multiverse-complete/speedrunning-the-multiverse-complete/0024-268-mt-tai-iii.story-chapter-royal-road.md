@@ -1,0 +1,161 @@
+---
+id: dce7cd71-eadf-5c24-9941-58c5342c7264
+page-type-slug: story-chapter-royal-road
+title: "268. Mt. Tai (III) "
+slug: 0024-268-mt-tai-iii
+partOf: speedrunning-the-multiverse-complete
+position: 24
+ownLength: 2218
+unit: words
+ownProgress: 2218
+publishedAt: 2023-07-22
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1285273/268-mt-tai-iii"
+royalRoadId: "1285273"
+markedReadAt: "2026-06-29T22:42:28.938Z"
+---
+
+The invader did not manage to bat all of the cannonballs out of the sky.
+
+He knocked down the first with a wing. Whacked the second away. Then the third caught him in the face and sent him flat on his ass. A fourth hit struck him, throwing him head-over-heels in the air. Then the mountains’ massive gravity yanked him into the ground, throwing up a cloud of dust. A fifth, sixth, seventh cannonball slammed where he’d fallen. A sizable crater was forming on the narrow mountain pass.
+
+“We got him!” came a shrill cry. Scraggletooth’s soldiers cheered. There was much back-slapping and wing-bumping.
+
+The cheering cut off abruptly when an dusty, soot-stained, but otherwise unharmed figure stalked out of the dust cloud. They seemed to have accomplished nothing whatsoever—other than piss him off, that was.
+
+Shocked silence on the ramparts.
+
+“…Well?” said Scraggletooth. “Hit him again!”
+
+The figure chose that moment to start charging up the narrow mountain path. Flinches and yelps rippled down the fortress.
+
+“He’s coming!” came a shrill cry. The same idiot as last time, by the sound of it.
+
+“For Heavens’ sake,” sighed Scraggletooth. “He’s still thousands of li away, isn’t he? There’s still a minefield of traps, and the Thousand Stride gorge, and the Walls of Tai between us. Just shoot him, you morons!”
+
+It took a few breaths for his troops to settle down, and by then the figure had cleared a shocking stretch of land. But at last they got the cannons firing. The mountain path was so narrow there wasn’t much room to dodge; the figure was forced to cover up and eat it.
+
+But it them he did. The cannons blustered, all flash and roar and smoke. But by the end of it the figure bounced back up, wiped the soot off his wings, and kept on charging.
+
+“Seriously?” muttered Scraggletooth. “Is something wrong with the cannons?”
+
+He marched over and shouldered bug-eye aside. “Give me that!”
+
+He grabbed hold of the cannon, loaded it with several max-grade Spirit Stones worth of power. In theory this was supposed to be enough to not down several Empyreans.
+
+“Fire!” he yelled. A third wave of cannonballs roared down—including Scraggletooth’s own. This time the invader was knocked several strides back, but that was all. He bounced back up yet again like there were springs in his damned feet.
+
+Gasps rankled Scraggletooth’s ranks. “What is he made of?!” cried that blasted shrill voice again, somehow carrying over the whole of his army.
+
+“Flesh and blood and the bone, like the rest of you,” said Scraggletooth calmly. It was important in times like these to make a show of his own composure, so that panic did not spread—
+
+“What do we do?!” cried Shrill Voice. “He can’t be hurt by qi or fire! Oh, heavens! Save us, Dragon Ancestor!”
+
+Godsdamned it.
+
+This time Scraggletooth caught who’d said it—this wiry little dragon with nubby wings. Scraggletooth checks the fool’s power level. A God, and a low-level one at that. Good. He marched over, grabbed the fool by the throat, and chucked him over the ramparts.
+
+There was a long shrill scream. Where seconds before it’d felt like a nail scratching his skull from the inside, he found it strangely pleasing to the ear now. He was almost sorry when Shrill Voice passed beyond the bounds of the arrays and Mt. Tai’s gravity seized the fool mercilessly. The voice cut off with a crunch.
+
+A pleasant silence stretched over the ramparts. Ahh…. Scraggletooth took a moment to soak it in.
+
+“What separates us from mere animals?” he said, “Why, it is our ability reason! It is a flimsy mind indeed that lets itself be overrun by something so banal as fear. There is no need for anyone to lose their heads. Let us all proceed calmly, and in an orderly fashion, lest we all end up like that unfortunate fellow.” He gestured vaguely at the smudge of blood on the stones.
+
+Lots of nods now. Frightened, quiet nods. “None of you have felt a true siege,” he said. “But I have. This is nothing. So this trespasser of ours has survived a few rounds of cannon fire. And? That was merely an appetizer. Ah—look! He’s about to reach Mt. Tai’s true first layer of defense. Its traps.” He licked his lips. “Something tells me he isn’t about to walk through this so easily…”
+
+B y now the invader had rushed straight into the Ninety-Nine Heavenly Thunderfire formation. It activated in a flash. The ground unveiled a pentagram of shining lines, sealing off that little section of space, trapping the invader like a bug under glass. Dark clouds rolled in overhead, choking off the sky. Pent-up qi groaned and growled within.
+
+Then unleashed all at once. The invader was lost under a boiling, writhing mass of flame and light. Scraggletooth watched expectantly. He’d seen an entire squadron of top-tier Empyreans roasted to husks under that blast.
+
+When the blast subsided invader was flat on his face. Sizzling, smoking, and still. Scraggletooth grinned. “And that, children, is why you do not leap to conclusions. In a battle it is important not to underestimate the enemy’, but it does equal harm to give him too much credit. ‘He can’t be hurt by qi or fire,’ my waxed arse—”
+
+Invader groaned. Scraggletooth’s grin wobbled. Invader stood, blinking heavily, shook like a dog, and all the soot fell off him. There were no marks on him. His scales positively shone now, like that storm had given him a deep-cleaning.
+
+He walked through the pentagram with ease.
+
+“Um,” croaked bug-eyes. “So—”
+
+“Don’t,” said Scraggletooth through gritted teeth. “Don’t say it. Shut up.”
+
+“Yes, sir!”
+
+“So he passed through the Ninety-Nine Heavenly Thunderfire formation,” Scraggletooth gritted out. “But that was merely an appetizer, in truth—in truth the true test are the Stones of Thond! Mined out from the far depths of the dragon-realm, these Stones were made immeasurably dense by the great heavings of the earth over millennia. Each stone weighs so much they generate their own palpable gravitational field—and they’re attached to hydraulic pistons powered by hoards’ worth of Max Grade spirit stones. They can reduce a block of diamond to a fistful of dust. Not even a Godking could survive its pressures. Let’s see him walk through this!”
+
+The walls of the mountain suddenly, viciously closed in on the invader. For they were not walls in truth, but hidden Stones of Thond. There was a crunch, and silence.
+
+Scraggletooth held his breath, his heard pounding wetly in his ears. A breath passed. Two. Then he broke out in nervous laughter. “What did I tell you!”
+
+“Erm,” said bug-eyes. He was peering through a telescope. “Is it… moving?”
+
+“What? Give me that!” Scraggletooth snatched the telescope and peered through it himself. There did seem to be a slight wiggle in the stones. Was it his imagination, or were they slowly coming apart? A heartbeat passed, and the gap was too big to be denied. A groaning rose up from below, the workings of the pistons. Then smoke rising from the mountain walls, as their efforts were slowly but surely overwhelmed.
+
+“He’s alive,” breathed Scraggletooth. With one last screaming effort Invader shoved the stones apart. Sparks, loud screeching, and plumes of smoke as the pistons to either side of him broke under the strain.
+
+Invader had just out-pressed two hydraulic presses.
+
+Scraggletooth had only seen this kind of power a handful of times before. Only in the elite Godkings of the Multiverse—and only in the most athletic of the regal Bloodlines.
+
+For the first time that day he felt a niggling of real doubt.
+
+His troops, meanwhile, were well beyond mere doubt. A collective madness had gripped them; they ran around headless, screaming all manner of nonsense. Watching them you’d think the Fortress was on fire.
+
+“CALM DOWN!” he screamed, then did a double-take. Was that his voice? Why was it so loud—and did it break a little at the end there? He nearly sounded panicked himself. He cleared his throat, then tried again. “He isn’t even close to the Fortress, you idiots! Keep firing!”
+
+Invader tore through a quicksand trap, leapt over a chasm, and quickly arrived at Scraggletooth’s next great hope: the great Arrow Forrest. Arrows of honed starsteel burst out from the walls, blanketing the Invader in sharpness. Scraggletooth was assured at great length by its inventor, the Master Artificer Rithius, that these arrows could shred any substance in the Multiverse.
+
+Apparently Rithius had been lying out of his arse. The Invader looked worse for wear this time—finally—but it was less ‘shredded’ than ‘mildly scratched.’ If armor made from his scales were sold at auction, its condition could be fairly assessed as ‘mildly used.’
+
+Just then another wave of cannonfire struck him. Scraggletooth almost told his men not to bother anymore. This time it barely slowed him; on he plowed, wrecking Mt. Tai’s finest traps as he went. He was punched, and blasted, and pierced over, and over, and over, and he just kept coming. Halfway up the mountain he seemed to slow some.
+
+Scraggletooth got a breath of relief in before a glut of battle cries echoed from the base of the mountain. Soldiers! They charged after the Invader, the path before them conveniently cleared.
+
+“The—the true test is yet to come!” he screamed, but he couldn’t make himself heard over the rest of his men, who were screaming equally as loud. “LISTEN TO ME! The force fields! The walls! Even Jez had trouble breaking them—everything ‘till now has been but an appetizer! Do you hear me?! An appetizer!”
+
+His men couldn’t hear him. Even he could barely hear himself. He screamed a curse.
+
+***
+
+In the dungeons far below, Moontail peeked out of her barred window. She was the only one. The rest of her friends kept to the corners of their shared cell. She figured they were too scared to hope. But not her.
+
+“Redfang—Redfang!” she called, excited. “Come look!”
+
+Redfang cracked an eye. “Pipe down, youngling,” she said. “Take a nap. This will all be over soon.”
+
+“I don’t understand how you can be so — so calm,” said Moontail. “They’re rushing the Fortress! They’re coming to save us!”
+
+“They’re coming to plunder,” said Redfang bitterly. “And they won’t get half that far. Mt. Tai’s impenetrable.”
+
+“But one of them’s already halfway up the mountain!”
+
+“He won’t get past the walls.”
+
+Moontail pouted. “Why must you be so cynical? Would it kill you to think something good might finally happen for us?”
+
+Her eyes were wet; she blinked it away. She was almost grown now—not the little girl she’d been when Scraggletooth had abducted her. It’d been so long since then, almost a decade. For all that time she only saw mama’s and papa’s faces in the secret etchings she made on the dungeon cell that doubled as her bedroom. She wondered if thought of her as often as she thought of them. Every night she prayed she could taste one of mama’s blood broths or hear one of papa’s nostalgic stories of his kingdom raids—just once would do. She’d missed them terribly when she’d first been taken; time had only made it worse.
+
+Redfang never prayed. The older dragon was quiet. The only sound were the explosions outside. “I’m trying to be realistic,” she said softly. “You don’t know Scraggletooth like I do. He always, always, has a back-up plan. Usually several. I just…I don’t want you to be hurt.”
+
+Moontail didn’t want to hear it. “He’s almost to the chasm,” she said, eyes glued to the sleek black-scaled dragon charging up the mountain. He was so close now, and his qi so vibrant, she could feel his aura. She gasped.
+
+“He’s regal blood! What if—what if he’s a prince? What if he’s strong, and noble, and brave—like in the stories? A hero, come to vanquish Scraggletooth and save the land?!”
+
+Redfang opened her mouth, but she didn’t have the heart to break it to Moontail. The girl wasn’t listening anyways. She had her her nose pressed into the bars, eyes gleaming. “Go, prince, go! You can do it! I believe in you!!”
+
+***
+
+Scraggletooth had seen enough. He turned his back.
+
+“Where are you going?!” yelped bug-eyes.
+
+“To end this nonsense for good,” snarled Scraggletooth. “It’s time to fetch the Worldbreaker.”
+
+Bug-eyes was so shocked he nearly fell off the edge of the wall.
+
+“Wait—did he say Worldbreaker?” said one of his Lieutenants.
+
+“Worldbreaker?!”
+
+The word rippled down his army, leaving stunned silence in its wake. They knew of it, of course—it was the most legendary weapon in the dragon realm. Yet the last time it’d been used most of them hadn’t been born—it was the weapon that had nearly killed Salas Godhunter in one blow, and had driven the scourge from the realm at last. Most present, including Scraggletooth, had only heard of its capabilities in myth. It was said it could level Mt. Tai in one blast, and Scraggletooth was fairly certain that was no exaggeration.
+
+“But isn’t it supposed to be impossible to wield?” said Bug-eyes.
+
+“Not anymore. Not after a generous gift from our dear sponsor.” Scraggletooth unfurled his wings and took off, making for the Fortress’s highest point.

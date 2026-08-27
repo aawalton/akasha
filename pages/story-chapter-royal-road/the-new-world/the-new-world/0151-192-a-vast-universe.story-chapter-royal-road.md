@@ -1,0 +1,371 @@
+---
+id: 9105e50e-27fa-5423-9140-f7043a669418
+page-type-slug: story-chapter-royal-road
+title: "192 A Vast Universe"
+slug: 0151-192-a-vast-universe
+partOf: the-new-world
+position: 151
+ownLength: 4819
+unit: words
+ownProgress: 4819
+publishedAt: 2019-03-22
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/345712/192-a-vast-universe"
+royalRoadId: "345712"
+markedReadAt: "2026-06-29T21:25:59.679Z"
+---
+
+I spent the morning prepping with Torix for the interview. He and I brainstormed some common questions, and I practiced hiding my identity. He even cast a few wards over me, helping hide my identity further. With everything handled, we trecked off into the forest, taking the long way to the stadium.
+
+As we walked, I turned towards Torix, "I haven't seen Kessiah around lately. Has she been in Rivaria?"
+
+Torix peered at his status as we walked across the rolling hills, "I don't believe so. In fact, I found Kessiah in her room of all things. She studied out of a medical textbook I gave her, the same as the one I gave you."
+
+"No shit? Wow. How did that happen?"
+
+"I racked my brain for some method of pushing her into pursuing healing magic, as we discussed before. If I told her anything, she'd likely work towards the opposite. Instead, I hammered in the importance of healing magic to Althea. After doing so, Althea chatted with Kessiah about how helpless our team was when medical emergencies arose. The rest, well, is history."
+
+I picked up the pace, jogging along. Torix kept up.
+
+"After your warning about healing magic, I figured it wasn't going to happen for me. It doesn't mesh well with my current setup either. Good thing she's trying it out."
+
+"I'm rather rudimentary at healing as well. Nonetheless, a basic understanding can allow for first aid in dire situations. Besides, you need some method for healing your healer should they be harmed. Otherwise, they take on an undue risk when venturing out with their party members."
+
+We reached the top of a hill as I leaped into the air, pulling myself up with gravity. Torix floated along on mana cloud. With wind whistling in my ears, we landed onto the edge of the stadium. On one of the platforms for gialgathens, a film crew set up the lighting and cameras for the interview. A crowd of different people stood around the spot, making sure everything was ready for the shoot.
+
+A dozen aliens congregated near the spot, waiting around for something. They were a different kind of bunch, many of them varying wildly from espens in shape and form. Before we approached, Torix leaned over towards me,
+
+"There are likely other factions across the galaxy that have taken up an interest in you now that you've become relatively famous."
+
+"Why?"
+
+Torix pointed at the crowd, "You've displayed a wide variety of skills. They've no doubt taken an interest in your abilities and would like to use them for their own gain."
+
+"Doesn't everybody?"
+
+"In their own way, I suppose. Keep in mind that you may use them as well, however. Creating a mutually beneficial relationship is essential over the long term."
+
+I rolled my shoulders, "Alright. Any pro-tips on who those people are?"
+
+Torix raised a hand, but before he could speak, one of the film crew spotted us. In a pressurized suit, a short and tubby enigmatta glanced at us with glowing eyes and a facemask. He pointed,
+
+"It's about time you guys showed up. Come on up. Don't be shy," His voice radiated from an intercom on his suit. He found us before we could come up with a game plan. Fuck. We walked up slowly, letting me analyze him,
+
+Grotokia Lom(lvl 1,353 | Guild: None | Association: Galactic Filming Race: Enigmatta) - A member of the Galactic Filming corporation, Grotokia Lom is a pacifist by heart. He enjoys drinking beer with friends and spending time with family. Outside of his hobbies, he's built up a career as a hardball reporter with a knack for digging deeper than most.
+
+That hardball approach has left him with many enemies throughout many worlds, however. His entertaining approach is a subject of controversy in certain cultures, though nothing he does is illegal. He poses no threat to your life, though your reputation is at risk.
+
+I held back a grimace, pacing up to Grotokia and the crowd of strangers. Besides for the enigmatta, all the other races were foreign to me. At half my height, Grotokia walked up and grabbed my arm. He pointed towards the crowd,
+
+"Your opponent isn't here yet. Her name is Chrona Carsiary. She's a diehard Emagrotha supporter and general. Can't quite accept that the war is over. She'll try to whip up a bunch of politics, so be ready for that."
+
+Still skeptical, I followed him, "Uh, thanks."
+
+Grotokia put me in front of two aliens and turned to walk off, leaving me behind, "Talk with some of the show's sponsors while we wait. They'd love to hear about you from the man himself."
+
+I narrowed my eyes at the guy, irked that he roped me into this. Beside me, a blue, glowing sphere of energy was arguing with something reminiscent of a pitbull fused with a crocodile. Torix placed a hand onto my shoulder,
+
+"I'll be roaming nearby, perhaps speaking with a few of these individuals to develop a network of contacts. Do your best, and enjoy your first taste of the wider galaxy. You've earned it."
+
+The crocodile pit raised his voice, swinging his hands at the floating ball. I frowned, "Uh, I'll do my best."
+
+Torix walked off as the argument increased in volume till I could hear it.
+
+"Your kind needs no meat nor blood for sustenance. That doesn't make your race innately superior. To judge us on our biology is no different than speciesism. It is to condemn us for what we are instead of who we are."
+
+That impassioned speech came out of the mouth of the muscled, armor-plated ball of teeth. The creature spoke with a noble voice too, defying my expectations. The sphere of light responded in a soothing voice,
+
+"Your species may find enlightenment by joining us. Our co-habitation programs enable a long term solution to your carnivorous habits. You choose to kill despite alternatives being present."
+
+With clawed hand, the beast raised a palm to the sphere, "Your co-habitation is mind control, and the Kysars will have no part in it. We need no masters." The beast turned to me,
+
+"Ah, are you the warrior we've heard so much about? I didn't notice you. This golemite is pushing his religion onto me, and I let him drag me into an argument."
+
+The blue sphere of energy rotated in the air, its voice radiating into my mind, "Take no heed in his words, Gray Giant. We were not arguing at all. I was merely informing him of the error in his ways. I am simply spreading the Final Light as well as I can so that all may see."
+
+The Kysar rolled his eyes, waving the sphere away with a clawed hand, "He's insufferable, isn't he?"
+
+I shrugged, "I can't tell just yet. If he plans on shoving religion down my throat, then yeah, he'll be pretty damn annoying."
+
+The sphere bounced in the air, "What! This is most undesirable. I meant no harm or ill will when informing either of you about the truth of the universe."
+
+The Kysar crossed his arms, "Good intentions mean little. Actions are the meat and bones of life."
+
+I pointed at the reptile guy, "I can agree with that."
+
+The Kysari reached out a hand, "Then its good that we finally met. I'm BloodClaw Mor, an emissary for the Kysars. We're here to offer you a deal."
+
+The alien waited on me to grab his hand, so I reached out and clasped it. He gripped my hand like we were about to arm wrestle in the air. BloodClaw shook his arm and gave me a curt nod at the same time. I liked the guy already.
+
+I wouldn't take chances though.
+
+BloodClaw Mor(lvl 9,823 | Class: Breaker | Race: Kysar) - BloodClaw works with the Speakers of his planet to reach out for useful individuals. The Kysar lack an affinity for magic and mana in general, their reliance on physical combat overwhelming most opponents regardless.
+
+Against many eldritch, some form of magic or augmented physical strikes are necessary, however. This makes the Kysars reliant on outside races for a variety of tasks, such as clearing certain kinds of dungeons. They often exchange their services for guarding and mercenary work as they make for brutally effective soldiers against most sentients, particularly in enclosed areas.
+
+This has created an exciting specialization of the species. They're formidable in battle, so be wary of making this one your enemy. Your best course of action in combat is prolonging the exchange. Your regeneration will enhance your odds of winning with every passing second.
+
+Abuse those strengths.
+
+After reading up about BloodClaw, I turned towards the blue orb. A white aura emanated from the being, its body amorphous and composed of energy alone. Within it, tiny purple dots rotated along an axis at its center. Those specks sped up as its voice radiated into my head, reminding me of the gialgathens,
+
+"This is an unwelcome turn of events. My first impression is surely off from what I intended, and therefore, excuse my previous transgressions. I am Animato, a member of the golemite. We are a collection of amorphous energy beings, and we spread the Final Light's message of truth."
+
+I pointed at him, "How pushy are you?"
+
+"Why, not pushy at all! My goal is to simply prevent the utter destruction and casting away into oblivion of all other species when the Final Light arrives. This virtuous aim guides me, and that is why I have come here today."
+
+I didn't really know what to say to the guy/girl/thing. Animato was outside of my realm of expertise to say the very least. The blue ball had me curious though.
+
+"So you want me to convert or something along those lines, right?"
+
+"I would hope to convince you of even more. This interview will give you a tremendous reach to this planet. You can save the souls of perhaps billions of sentients by doing only a few simple tasks."
+
+BloodClaw rolled his eyes, the horn crests over his eyes sheening on the midmorning light,
+
+"Perhaps you can enlighten the Gray Giant to the simple tasks you want?"
+
+"Of course, and thank you for offering a transition into my pitch. All you need to do Gray Giant is convert to the Final Light's way of thinking, brand a complex symbol into your forehead, never speak again, and allow co-habitation of a golemite being within you!"
+
+BloodClaw nudged my elbow, "See, a great deal isn't it?"
+
+I raised a palm to Animato, "How about no."
+
+"But sir, you-"
+
+"I don't think I need to hear anything else. The offer was as tempting as chewing a steel cactus."
+
+"Perhaps a 'cactus' would be pleasant to chew in steel form?"
+
+The kysar beside me laughed, his deep voice dishing out a guttural grunt,
+
+"He's a lost cause. You and me though, we can make this worth our while."
+
+"I'm listening."
+
+"This is what we need from you. A cluster of rifts opened near one of my buddies cities. We aren't the best at clearing the eldritch coming out of it, so I was hoping we could contact you. We'll be giving about 500,000 credits per red dungeon core and twenty million for every blue core. You get to keep them of course."
+
+I shrugged, "I've got more than enough money."
+
+BloodClaw waved his hands, "I get, I get it. You're more about technology then? We have more gizmos and gadgets than most espens could dream up. You help us, we give you the schematics to make any gear you could want."
+
+"Ok, that I can get behind. Give me your contact info. I'll send you a message after the tournament."
+
+BloodClaw leaned back and opened his jaws. He reached into his throat, pulling out a capsule of some sort. Inside it, a series of dry paper cards shook in it. He popped open the cap and pulled out a business card, pointing it to me,
+
+"You know where to find me then."
+
+I took the card despite it being pretty gross. I put it into my dimensional storage as the Kysar walked off. I turned to walk towards the film crew as Animato shot in front of me,
+
+"But sir, doesn't the salvation of billions of souls sound like a fair deal to help us? Unless you lack morals complete-"
+
+I raised my palm to the thing, "No, I'm good on my own."
+
+The orb sighed, "Then yet another opportunity is wasted. I must reflect on my way of communication. It's failed me almost without fail."
+
+"You're asking for too much for too little."
+
+"The soul's salvation is all I may offer."
+
+"Then you're offering jack shit."
+
+"I...I don't know what to say to that besides for impolite suggestions. Since my mind is reaching a blank in this scenario, I shall refrain from speaking any more."
+
+I gave him a thumbs up, "Yeah, you do that. I have an interview to do."
+
+The orb shivered in the air, the blue color changing to a reddish hue. I walked past it, ignoring the thing's frustration. It lacked any personal awareness, and that killed off any relationship I wanted with him. Maybe other, er, golemites were different, but that guy just gave off the wrong impression.
+
+As I walked forward, I ran into other aliens. This time, a discordant group of metal blocks spoke with a slender, feminine blob. They were just as odd as the last duo, so I tried stepping past them, but they wouldn't let me. The group of metal blocks condensed into a humanoid, blocky form. It grasped my shoulder with more force than necessary,
+
+"Stop. You must stop your callous destruction of this planet."
+
+Its metallic voice rang in my ears as I leaned back from the golem, analyzing it.
+
+Kregowa (lvl 13,000 | Class: Seeker | Race: Golemite) - A member of the golemites, this sentient collection of minerals works as a rare sub-class known as a Seeker. Though lacking the combat potential of a Fringe Walker or Breaker, the Seeker compensates with tremendous potential for exploration. It enables no resource lifestyle along with immortality and even allows for escapes and a relatively high-level cap for extra attribute points. This also comes with their signature wormhole abilities.
+
+This wormhole specialization enables Seekers to travel between worlds with unmatched ease. This in conjunction with their resilience makes them natural explorers. Kregowa is a notable Seeker, having used his class to the absolute limits of its effectiveness. He's discovered thousands of worlds for the Golemites, allowing the atronach species to harvest minerals and natural clusters of mana along the way. As their species is a treasure hunting congregation, this grants him respect among his peers.
+
+While not a direct threat, Kregowa will be very difficult to pin down and kill, even for you.
+
+I shoved his hand off my shoulder,
+
+"You're assuming a lot about me. Not exactly fair."
+
+The golemite took a step towards me, "Mana creation overloaded. Stealing from Giess's natural reserves inevitable. I come to cease rapid corruption of natural resources."
+
+"It's my own mana. I'm not stealing from Giess."
+
+Kregowa raised his other hand, mana welling into it, "Compliance is denied. Backup measures activated."
+
+Without time to think about the situation, I snapped my hand around its neck, lifting it into the air. At the same time, I grabbed the hand pooling the mana. Before the situation escalated further, the feminine blob walked up and to us. The shiny surface of its body hardened, congealing into a dense skin. A blade ruptured out of its arm, sending a ripple through its gelatinous body. The creature raised its bladed arm and spoke as a matriarch,
+
+"Warp him, and I'll kill you."
+
+I turned to the slime chick, "I'm not about to warp him."
+
+She pointed her blade at the golemite, "I'm talking to Kregowa."
+
+It bewildered me that someone was actually defending me for once. Adding to the pleasant surprise, the mana in the golemite's hand scattered. The creature's humanoid alignment shifted back into a collection of steel squares. It assembled back into its humanoid form but several feet from us both. Before anything else happened, I analyzed the slime chick.
+
+Wrath, Queen of Svia(lvl 12,432 | Class: Fringe Walker | Race: Ahcorus(Otherwise known as slimes)) - Wrath is the queen of the Svia sector of the slime's home planet, Slus. She earned her name by conquering several of the nests that surrounded her before Schema assimilated her planet. Since then, she's proven very effective at cleansing worlds of eldritch infestation.
+
+Her entire species excels at tearing down many enemies, as slimes rapidly reproduce when food is available. This enables them to clear out weaker hordes with an ease that is uncanny. Unfortunately, lower level slimes aren't added into the system to their lower level thinking. They can't creatively gain skills or use them outside of very basic combat patterns.
+
+They slaughter lower level eldritch, however, and their queens are more than worthy of assimilation into Schema's system. These ancient, powerful beings can be thousands of years old, often times remembering times before their planet was assimilated. This age combined with a remarkable intelligence turns the slime queens into potent threats to the eldritch.
+
+Though they lack the communication skills to excel at trade or diplomacy, their raw might more than makes up for these drawbacks. Wrath is one of these queens, and she has proven effective at clearing worlds, having torn through two planets over the last two decades.
+
+She also maintains a thriving colony of slimes on her home planet, giving her economic resources unavailable to most. She would prove a worthy foe in battle, and it is recommended you try to gain allyship with her.
+
+Her status dwarfed most, so it took me a few seconds to read it all the way through. As I did read, she and the golemite argued.
+
+"His interference with natural order is to be terminated."
+
+An apex predator by nature, Wrath walked up to the golemite, "Harm him, and you will become my next meal."
+
+"I am not harming him. I am warping him off planet to ensure continued planetary stability. Mana pollution critical. Immediate action is necessary," the golemite said.
+
+I finished reading, reaching out a hand to the golem and aiming to prove my mana was my own. Under most circumstances, all my excess mana flowed into my runes at all times. I kept the flow clean and contained, otherwise it would leak out and waste energy. I allowed some of it to do so while taking a few steps back. I didn't want another mana poisoning incident.
+
+As I released the crimson aura, the golemite's shifting body shivered. After a few seconds of showing my mana's creation, the golemite stated,
+
+"No mana pollution detected. False assumption made. Apologies rendered."
+
+The steel squares formed into the rough approximation of a humanoid before bowing to me. To say it was odd would be an understatement.
+
+"You're alright man, but don't make those kinds of assumptions again without proof, alright?"
+
+"Affirmative. Gift requested for apology," the golemite said while reaching out an arm. As he did, a dimensional storage portal opened, the starry circle recognizable anywhere. The golemite pulled out a glowing grain of sand. Before getting near it, I analyzed the tiny stone.
+
+Crystalized Mana Signature - Peaceful(lvl Req: 1,000) - This crystalized mana creates a distinct signature recognizable to golemites. This particular mana wavelength transmits feelings of peace to other golemites and will prevent future misunderstandings before they arise.
+
+I left him waiting, not taking the crystal from him. The golemite shook the mana,
+
+"Signature shows through your personalized dimensional pocket. Inconvenience is a minimum."
+
+I pointed at him with the crystal in hand, "I don't trust you."
+
+Wrath paced up to me, "You shouldn't. You shouldn't trust anyone, as you're hunted."
+
+"So slime queens keep up with the news?"
+
+"We do, when necessary. I came here to use your talents. An intelligent eldritch has hidden deep in the bowels of our planet. Its hordes rise to the surface, and they cull my children. Would you be willing to help us?"
+
+"For the right price."
+
+"The Speakers on our planet are willing to grant you numerous contracts upon the completion of the task. We can offer a city upon the completion of the task as well, along with a favorable alliance between our species," she said while pulling out a business card from her dimensional storage.
+
+I took the paper, surprised by a slime queen using such a standard business tactic. I inspected the lettering, "Alright. I'll check this out once I get some time. It might take a while."
+
+"That is no problem for us. We've fought this eldritch for decades. If this hiatus doesn't stretch into many years, than we shall wait for you. However, someone may complete the task before you come should you wait too long," her words hissed like a snake as she said them.
+
+I crossed my arms, "It won't take a year most likely. No promises though."
+
+She gave me a bow, "I anticipated far more grueling negotiations than this. You've been kind to me. I will return the favor in time."
+
+I shrugged, "Eh, we'll see once I can access whatever's going on. I'll play hardball then."
+
+"Then good luck with your battle, Gray Giant."
+
+After finishing the chat, the golemite kept buzzing in my ear about mana pollution. Since I already understood the problem and was working to solve it, I mentioned that I was fixing it. I kept the details sparse, but he got the picture and left me alone after a while.
+
+The only reason I didn't immediately tell him to fuck off was his unique class. I'd never seen someone with one, so understanding how he obtained it left me curious. Turns out, the Seeker was a class specific to the golemites that synergized with their racial traits. After a bit of research before the interview, I learned most unique classes were like that.
+
+It left me with a little hope for my own breakthrough. Humans hadn't discovered a unique class, and someone had to do it. Hell, I might be that someone.
+
+While I daydreamed about it, my opponent arrived. A small, slender gialgathen with white skin landed beside us. She looked down at the camera crew and rolled her eyes. A few seconds later, she walked up to me, two trails of black spots running down her neck. With white irises, her skin shined with radiant health. She communicated with telepathy,
+
+"So you're the Gray Giant?"
+
+I nodded. She tilted her head to me,
+
+"Hmmm. You're far more impressive than I imagined you'd be."
+
+"I don't know if that's a compliment."
+
+"What is it with earthwalker's need to sort everything? Must my statements by categorized to assist your ease of understanding?" she hissed out.
+
+At least she didn't call me dirtwalker.
+
+"Eh, I asked for you, not for me. I didn't want to misunderstand, but you can be an asshole about it. Doesn't matter to me."
+
+She blinked, "Hmm, I might've gotten off on the wrong wing with you. Listen, I'm not good at talking with others. I'm a fighter at heart. That's why I'm here, not for this...publicity. I will keep my answers short and to the point. I ask you to refrain from painting me and my species as evil. Please, and thank you."
+
+"What? Of course not. Don't be a jackass and we'll be fine. I can't promise anything from the interviewer though."
+
+She let out a gruff sigh, "Ah, Grotokia. He interviewed me last year. It was awful, as it will no doubt be this year as well."
+
+"What made it so bad the first time?"
+
+"Grotokia is a starter of fires. He's been in Thisbey's pocket for years now. This year will be no different."
+
+I raised a palm to her, "Say no more. I'm no fan of Thisbey either. He's just a pawn to his ego."
+
+"Precisely my point! I've hated that spineless coward for years now. Someone should rip out his spine and feed it to the birds."
+
+I pointed up at her, "I prefer feeding the spines of my foes to wolves. More gnawing that way."
+
+"Hah. Clever...Well then, I should be off. It's good to see a like-minded fighter who's an earthwalker as well. Rare these days. Your kind used to admire us. Now there's a tremendous disdain I find offputting."
+
+I shrugged, "I'll be honest, I find it offputting too. I'm not big in the whole fame game. I prefer to lay low for the most part."
+
+"You could've fooled me."
+
+"People pay attention when you make a splash regardless. I haven't done anything to become more famous after all outside of my fights."
+
+Chrona glanced off in the distance, "Rare these days to find anyone who proves their worth with actions."
+
+"How was it different back then?" I said while crossing my arms.
+
+"In my glory days, Emagrotha and Lehesion dictated the world's outcome. They did so through dominance and achievement. Now, this world is moved by the machinations of shadow drawn cravens."
+
+"Were you there when Emagrotha and Lehesion duked it out?"
+
+She gave me a nod. I quelled an eruption of excitement.
+
+"Where was it?"
+
+Chrona glanced up, "I couldn't say. It was long ago, and my memory fades with time. However, I do remember this - Emagrotha should have won. You think I say so out of bitterness. You would think wrong. Emagrotha was the superior battler. She honed her strengths endlessly, toiling away in the pursuit of perfection. Lehesion was the opposite."
+
+She swiped a clawed hand in disgust, "He believed himself born a god. He was right in many ways. Lehesion could tap into the mana of Giess better than anyone before him or anyone since. He neglected his training, however, and he never mastered the forms or techniques of combat as Emagrotha did."
+
+She leaned down towards me, her eyes slits, "Lehesion stole from Giess's mana to win that bout. It was not his own strength. It was the strength of millions of life forms, all of them culled in an instant. Emagrotha deflected the blast masterfully, but the aftershocks left her mind shaken. She could not stand nor fly as she once had. She was a shell of her former self."
+
+I turned a palm to her, "So she was shellshocked?"
+
+"I don't understand what you mean, but it left her a bumbling fool. Lehesion made an example of her and infested Emagrotha with Yana worms before throwing her out into silver territory. She likely died many years ago, turned into food for those filthy vermin. It stings to this day. She should have won the battle, and if she had, she'd have shown mercy on Lehesion."
+
+She growled, "He did not do the same."
+
+I grabbed the side of my facemask, "Damn...That's, well, awful."
+
+"It is simply the reality before us," Chrona murmured, "We cannot change it. We must accept it for what it was."
+
+"Thanks for sharing though. It's different hearing about the event first hand."
+
+"I welcome the chance to change someone's mind about Emagrotha and her cataclysmic battle with Lehesion. Tell others this story, and spread her name with glory on your lips."
+
+I smiled, "Eh, I might do that. We'll see."
+
+Grotokia walked up to us, looking back and forth, "Hey, if it isn't my two favorite fighters? You guys ready for an easy interview and to build some hype for your bouts?"
+
+Chrona's eyes narrowed, "No."
+
+I shrugged, "Same."
+
+Grotokia raised his hands, bubbles rising up from his pressurized suit, "Aye, I don't want to be here either if I'm honest with you guys, but we gotta do what we gotta do. Come one. It'll be over before you know it."
+
+Chrona and I paced behind the set, lights set up in front of us. I sat down in a chair too small for me. Grotokia sat behind a desk set up on the stone slab while Chrona just stood beside us. After getting mics setup beside us, Grotokia sifted his papers before staring at the front camera. He looked to us both,
+
+"You guys ready?"
+
+I sighed, "Yup."
+
+Chrona blasted out with a telepathic wave, "Let's be done with this."
+
+An espen voice actor spoke out into a microphone offset. His voice matched hers to an eerie extent. I pointed at him, "Wait, how is he doing that?"
+
+Grotokia waved his arm, "Combat classes aren't the only people that hone their skills. He's got his impressions down, I promise you that."
+
+Chrona nodded, "He's acceptable for representing my voice."
+
+Grotokia took a deep breath, "Well, let's get started then. Shall we?"

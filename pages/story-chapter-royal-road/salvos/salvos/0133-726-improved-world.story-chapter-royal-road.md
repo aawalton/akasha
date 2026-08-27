@@ -1,0 +1,189 @@
+---
+id: 8005c464-51e8-5692-8c0a-0a4c2e8144fd
+page-type-slug: story-chapter-royal-road
+title: "726. Improved World"
+slug: 0133-726-improved-world
+partOf: salvos
+position: 133
+ownLength: 1531
+unit: words
+publishedAt: 2025-04-10
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2191434/726-improved-world"
+royalRoadId: "2191434"
+---
+
+726. Improved World
+
+“So, what do you think?”
+
+I asked as I stared expectantly at the Fairy floating before me. Hartia rubbed a hand on his chin, sweeping his gaze over my renewed [The World Of My Mind]. He was the only person in here other than me. I had wanted to show off my improved Grand Skill to someone, but Haec was busy, and I wasn’t really that close with anyone except for maybe Ameula.
+
+And I highly doubted Aemula would truly understand how much of an upgrade this was. Only someone who had some knowledge in space magic like Hartia could comprehend it and be impressed. So that was why I brought him over.
+
+For a moment, Hartia said nothing. But I thought I could see him furrowing his brows.
+
+And I thought he would be impressed. However, he just scoffed at me.
+
+“This is nothing special at all.”
+
+Hartia waved a hand dismissively as he turned away. I blinked, before raising a fist in indignation.
+
+“What is that supposed to mean?”
+
+“I’m saying the craftwork on your realityspace is shoddy at best, and I’ve seen much better pocket dimensions from Fairies lower-leveled than you.”
+
+The former Ruler of the Border huffed as he crossed his arms. I pointed to the ground beneath his feet.
+
+“But can they do this?”
+
+As I spoke, a pillar of earth shot up straight for the Fairy. He blinked and zipped to the side, narrowly dodging the attack. Glaring at me, he simply crossed his arms.
+
+“Am I supposed to be impressed by that? My very own pocket space is far superior. I am able to conjure up apparitions of the dead from my very own memories, in addition to altering the landscape like this petty little trick of yours.”
+
+I rolled my eyes back at Hartia.
+
+“I’m obviously not trying to compare myself to you— I just thought you of all people would think this was cool since you knew space magic!”
+
+“Well, I think it is a vast improvement to what you were capable of creating before.”
+
+Hartia said as he drew back from me.
+
+“However, I don’t really know how this could even have much of a combat application. Like, how is this supposed to help us win this rebellion?”
+
+“Well, there is actually one thing I can do, since I can pretty much alter this pocket space in any way I want.”
+
+I grinned back at the Fairy, and he raised a brow back at me.
+
+“But I don’t think you’d want to see it.”
+
+I shrugged as I stepped back from him. He frowned and placed a hand on his chin.
+
+“Now you’ve drawn my interest. What is it?”
+
+“I don’t know. I really feel like you wouldn’t want to see it.”
+
+I whistled nonchalantly, averting my gaze from him. The Fairy scowled as he crossed his arms.
+
+“Don’t play this game with me— I know you want to show whatever this is to me! Otherwise, you wouldn’t even have brought it up!”
+
+“That is true. I do kinda want to show it off to you. But…”
+
+I trailed off as I tilted my head back.
+
+“I genuinely do think you wouldn’t want to see this.”
+
+“And why’s that?”
+
+Hartia squinted at me. I scratched the back of my head. I knew my answer would not be something he’d want to hear— it would make him want to see it even more. But I didn’t want to lie either.
+
+And a part of me really wanted to show off what I could do.
+
+So I replied casually.
+
+“Because you’d be terrified of it.”
+
+And as I expected, Hartia guffawed at that. The Fairy placed a hand on his chest as he raised his head.
+
+“Me? Who do you think I am? I would never be afraid of anything you can conjure up!”
+
+“Are you really sure about that?”
+
+I gave Hartia a flare stare. He nodded back at me.
+
+“Yes— now show me whatever this thing is, before I grow bored and leave.”
+
+“If you say so.”
+
+I couldn’t help but smirk at that. So I raised my arms and focused on the world around me— at the pocket space. Hartia huffed as he waited impatiently, glancing around for something to happen. But unlike when I created the dense forest out of nothing, it took a moment for anything to happen.
+
+“What’s taking so long—”
+
+Hartia started. And that was when the ground at the edge of [The World Of My Mind] began to evaporate. The leaves on the trees flaked away. At first, they began to distort, then they turned into motes of iridescent light. And they floated up into the sky as a rift opened up overhead.
+
+The Fairy’s eyes bulged out of his sockets as he flitted back. But even the ground beneath him collapsed. Slowly, this plague of rainbow colors and distortions overcame my world.
+
+I just spread my arms wide as I faced Hartia.
+
+“I can turn [The World Of My Mind] into a world of corruption!”
+
+I beamed back at the Fairy. He just stared at me for a long moment as tendrils of corruption shot out of the ground. Trees, rocks, and dirt floated up into the air in stasis as they were overcome with the distortion. More and more rifts opened up all around us.
+
+And finally, Hartia screamed, before creating a portal and exiting my pocket space.
+
+I just chuckled as I watched him go.
+
+“I mean, I told you so.”
+
+When I exited my pocket space, I couldn’t find Hartia. I asked around about him, and nobody would tell me where he went— because he told them not to let me get close to him for now. So I just shrugged and sought out Haec.
+
+I thought that the discussion surrounding Manos and Sicar would be resolved by now. However, when I arrived, they were still arguing.
+
+I recognized Tor and a few others standing there across from Haec, Manos, and Sicar. But I also didn’t recognize a lot of the others higher-leveled Demons there. They must have come from the other freed legions later on.
+
+Although, Haec seemed to know their names.
+
+“But how can we trust him? He’s the leader of the Deathsquad Hunters!”
+
+A Level 120 [Fiend] exclaimed, pointing accusingly at Manos. The Executioner just shrugged in response.
+
+“I mean, if I was really here to betray you guys, you’d all be dead by now. You’re all really weak.”
+
+“Shut up, Manos.”
+
+Haec snarled back at the former leader of the Deathsquad Hunters. Manos chuckled.
+
+“I’m just saying.”
+
+The Level 120 [Fiend] glared at Manos. And an [Incubus] spoke up, refusing to even look in Manos’s direction.
+
+“My siblings died to the Deathsquad Hunters. Because of Manos, they are dead. Are we really supposed to just welcome him with open arms?”
+
+“And because of you, a lot of others are dead too. I just did what I had to do to survive. Like the rest of you here. So you’d be hypocritical to reject my help.”
+
+Manos replied snappishly, much to the outrage of everyone gathered there. Even Tor seemed to be unhappy with that remark. Haec gritted his teeth at that.
+
+“Manos, I appreciate the comments, but can I please do the talking?”
+
+“Please, you’ve been trying to do that and failing quite miserably. I can represent myself.”
+
+Manos scoffed as he crossed his arms. Haec opened his mouth, seemingly upset with what the Executioner had to say. And I stepped in, speaking up.
+
+“Alright, everyone! Calm down— there’s no need to fight amongst ourselves.”
+
+I raised my hands placatingly, drawing attention to myself. Everyone turned towards me as I walked up to Manos and wrapped an arm around his shoulder.
+
+“First of all, I can attest to the fact Manos is on our side for sure. Like I assured all of you that Hartia is on our side.”
+
+I heard a few grumblings as I swept my gaze over the crowd of gathered Demons. Clearly, not everyone was happy about what I had to say. I sighed as I drew away from Manos and crossed my arms.
+
+“Secondly, instead of going on about whether or not we can trust Manos— how about we just… ask him to prove it?”
+
+I asked simply, and that made everyone pause.
+
+“Wait, what does that mean, Salvos?”
+
+Haec asked, frowning at me. Tor nodded, equally confused. I shrugged.
+
+“I dunno. Do you have any suggestions, Manos?”
+
+I replied simply as I glanced over the Executioner. He tapped a finger on his chin as everyone stared at him expectantly. And he shrugged.
+
+“I can prove myself in battle against Chordus and the rest of the legions right now, how about that?”
+
+That made me blink.
+
+“Right… now?”
+
+“Yeah, or whenever you guys are ready.”
+
+Manos just grinned as he hefted his axe behind his back.
+
+“Seriously, I don’t really care. I just want to get this over with.”
+
+“Huh.”
+
+I raised my head back. And I nodded.
+
+“That’s probably a good idea?”
+
+Or was it? I didn’t actually know. But it sounded like a good idea to me.

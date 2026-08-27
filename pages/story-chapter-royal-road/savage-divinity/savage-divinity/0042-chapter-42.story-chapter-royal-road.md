@@ -1,0 +1,101 @@
+---
+id: 843ee931-9018-558c-af1c-f07a4872ffd7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42"
+slug: 0042-chapter-42
+partOf: savage-divinity
+position: 42
+ownLength: 3257
+unit: words
+publishedAt: 2016-04-11
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/64067/chapter-42"
+royalRoadId: "64067"
+---
+
+As soon as they were seated, the boy's head thunked down to the table, closing his eyes with a groan. Akanai frowned and looked to Taduk, then Alsantset, and finally Charok. Each of them meekly avoided her gaze, pretending not to notice her displeasure. They all spoiled the boy, allowing his rude manners and lackadaisical attitude regarding anything besides training. They even seemed to find it endearing, fools all of them.
+
+Slamming her hand on the table, she growled, “Sit up.”
+
+The boy groaned again, but didn't move. “Leave me alone. I'm tired, hungry, and everything still hurts.”
+
+Hmph. To allow himself to be injured so badly, by a worthless grass snake no less. Were it her, she would be too ashamed to even speak, yet here the boy nestled his head on a dining table like it were his own bed. Disgraceful. She scowled once more at Alsantset, who withered and finally began trying to coax the boy up, allowing him to rest on her shoulder instead. The little pervert seemed to prefer that, happy smile upon his lips as Alsantset smoothed out his hair. Akanai glanced at Mila out of the corner of her eye, but she was quietly pouring tea for everyone. A good girl, with proper manners, little Mila was. Hopefully, the boy would learn some manners once under her thumb.
+
+She ordered dishes for all of their tables, an extravagant amount, but after more than two weeks of hard travel, they had all earned it. Her Sentinels and Huushal's family nodded gratefully, while Adujan sat listlessly, lost in her own mind. Four more days and they would arrive at the Society Headquarters. The outposts closer to the society were like small villages, catering to the many travelers among the wide spanning road system, maintained by the Society. They were lucky to fit the entire party into this restaurant, with all the travelers converging on the Society. A grand event, these contests were, every one raising the names of future heroes. She smiled to herself, hoping Rain and Sumila would be some of the names raised this time. So romantic, to be lauded together as such, a wonderful bond for the two to share. Glancing at her husband, she almost blushed remembering their meteoric rise together, at this very same contest.
+
+The frenzied pace of a messenger riding past shook her from her memories. Standing to look out the window, she saw a single rider, holding his standard of office, rushing south. A fresh messenger, once again heading for the Society. There had been several of them over the past few days. No large troop movements from the Society, but this many messages meant the Enemy had once again appeared, and seemingly in great numbers, judging by the number of messages. Sitting back down with a sigh, she leaned slightly against her husband. That damnable pup, why couldn't he just be a Sentinel and stay in the village with his wife? The blood was too strong within him, drove him to the thrill of the fight, the hunt, the kill, unable to sit at home to grow fat. She had to admit, the Banner was a good method of hardening the best of the village, thrusting them straight into the fires of danger, hammered by the strikes of the Enemy.
+
+The food arrived quickly, everyone eating enthusiastically. The boy ate too quickly and made too much noise, clacking his chopsticks in the air. The little ones happily copied him, and he in turn spoiled them, bringing food to their mouths, making odd buzzing noises as he delivered it. Akanai frowned once more at Alsantset. How the girl kept her household was a private matter, but they were out of the village now, and representatives of the People. The girl caught her gaze and quickly put an end to the frivolities, earning Akanai a small scowl from the boy. Brazen, to scowl at her while she fed him and even provided him with wine. At least he was a cheap drunk, in his cups after half a jar. Almost a worthless lush already, as well as a lecher, an old man in a young body. What did Mila and Mei Lin even see in the boy? He wasn't too handsome, nor heroic, a plain, scrawny youngster with no sense of adventure or shame. A cynical thing, always whining and moaning about the most innocuous things. Glancing at Huushal, she wondered if she should push Mila in another direction, with someone just as appropriate.
+
+Boots marched up the stairs, stealing away her attention. A voice booms out, “Ha, no tables? You dare lie to me? There are plenty of tables up here.” A dark-haired bearded man, in luxurious robes unsuitable for travel, and his entourage, well armed and armored, perhaps 20 guards. From Yantai, judging by the style of their gear, regulars at the contests, almost locals.
+
+“Master Jin Sui, as I said, they are all currently occupied. I will be happy to serve you and your men once they become available.” The waiter was not too concerned with appeasing the man, and gave no title. A worthless noble then, more wealth than power.
+
+Jin Sui made eye contact with her, sneering as he walked over, his guards following closely behind. “I require these tables. Leave the restaurant now, your bill will be paid and I shall not have you beaten like the barbarian dogs that you are.”
+
+The boy choked on his food, coughs covering a laugh. Akanai sighed. Idiot boy. Not even willing to give face. A simple refusal would have been fine, why mock the man as well? Even a powerful dragon cannot repress a local snake. For someone who whined about danger all the time, he seemed oblivious to how much he truly attracted it. “These tables are in use. We will leave when we are ready to.”
+
+Jin Sui was slightly red in the face, having noticed the boy's muffled laughs. “Do you know who I am? Who I work for?” The boy started laughing even more, and Jin Sui turned to glare at him, fully angered now. “You insolent whelp! You DARE to laugh at me? You are courting death!” The boy was near hysterics now, his laughter infecting the little ones, and even Taduk was smiling.
+
+Akanai shook her head. Little wonder, with that one as his teacher, Taduk was a true master of mockery. “The boy nearly died a short while back, and is recovering from the healing. Pay him no mind.” Her patience wearing thin for both the stranger and the boy, Akanai stood and gestured politely, her token clearly visible on her belt. “We've travelled many days and are in the middle of a meal. Leave us.”
+
+Turning angrily, not noticing her mercy, the man began scolding, “I have already given you face by offering to pay for your meal, and you barbarians still sit here, spitting on my generosity? How daring. Men! Drag them out and beat them.” Her sword was resting on his neck before he finished speaking. “Men! Stop. Retreat five steps.” She pressed the blade just a fraction harder. “No, ten steps!” At least he kept calm under pressure. Rain was gasping for air, slapping the table, face buried in his arm. “Murder is expressly forbidden in the Empire. I have broken no laws.” He quivered slightly beneath her blade.
+
+Akanai slowly removed her token from her belt, displaying it for him to see. “You threatened to assault a Major General of the Imperial Defense Forces in front of a restaurant full of witnesses.” The man blanched at the token, knees starting to shake. Idiot, living as a toad at the bottom of the well, believing himself to be so great. She should take an ear, to drive home the lesson. No, no, that would mean too much paperwork, possibly even an inquiry. This toad was not worth the effort. “Scram.” She put her sword away and sat back down.
+
+Rain was in tears now and began howling in laughter, ruining the serious atmosphere. The Toad and his men rushed down the stairs, and out the restaurant, his loud gasps following them. “I'm sorry,” he said between gasps, “But that was hilarious. A caricature of a man, a complete joke. His eyes popped out when he saw the token, like a frog. I think he was going to piss himself.” Her husband and Taduk were no good as well, indirectly encouraging the boy's attitude by laughing with him.
+
+Akanai sighed into her teacup. A man can be killed but not humiliated. The boy needed to learn to keep his mouth shut or at least speak quieter. The entire restaurant had heard his comment, as did the Toad. If he lacked connections then there would be no problem, but it would be strange for someone to act so arrogant without any backing. With those words, he would likely return as his honor demanded it. Troublesome, but nothing she couldn't handle. He would likely have returned anyways, judging by his puffed up demeanour, so perhaps she could arrange another duel for the boy. He had done well the last time, but the time for coddling was over. It was time for him to face the fires of danger and be forged within. She glanced at Huushal and Adujan, thinking it over. Huushal was arrogant as well, but the spar between Ghurda and the boy deflated much of his ego. Adujan was different, a consummate professional in attitude at 18 years old. Stone faced and ill-humored, at least she would not have to worry about that one starting a feud. Good materials, each of them, she looked forward to seeing just how well they withstood the coming rain of hammer blows.
+
+It took less than 20 minutes for them to return, marching up the restaurant stairs once again. The Toad had brought his backer, a soldier, followed by members of his unit. Dangerous, to brawl with soldiers, it would require a Justicar to adjudicate. With a glance at the armed presence, the other diners happily vacated the restaurant, scurrying away as quickly as they could, leaving the entire place empty but for the two groups. Akanai remained in her seat, as did the rest of her group. No more laughing from the boy, although he was drunk enough that his smile still remained.
+
+“You have guts, to dare to assault and mock my little brother.” The newcomer flashed his token, a brigadier in the army. While technically of lower rank, the Imperial Defense Forces were considered one rank lower than their counterparts in the Imperial Army, so their status was more or less equal. “I am Cho Jin Kai. Do you dare state your name, barbarian?”
+
+Her full title would send them running. “I am Akanai, of the People.” Hopefully her name hadn't spread too far. It had faded with time, but the events in Shen Huo has caused her notoriety to soar once again.
+
+No recognition showed on the Brigadiers face. “Good, good. Seeing as we are both defenders of the Empire, it would be beneath us to brawl in the streets. We are all here for the competition, so why not have the youngsters sort this matter out?” Perfect, she didn't even have to suggest it. “The commander of the loser shall kneel before the winner and kowtow thrice, and the losing fighter will be whipped.”
+
+Akanai nodded once more and smiled. “Rain. Step forward and fight.”
+
+“No. I'm tired, and I'm eating, and I'm drunk, and I'm happy. Send someone else.” He was almost childish in tone, eating a drumstick and stuffing his face with rice and wine.
+
+“Boy.” She turned to make eye contact with him. He would even dare to not give her face? “Go. Fight.”
+
+“Why me? Send Huuuuuuushal.” He snickered. “Or Sumila. Or uhh,” a pause as he thought, “Adujan! That's the name. They're all here as well. I just woke up from a week-long coma. Let me rest and eat.”
+
+Akanai gritted her teeth, almost cracking them. “They are not the cause of all this. They are here to fight you. If you hadn't mocked them, perhaps they would not have returned. Get up. And Fight.”
+
+“Right, because it's my fault they're a bunch of power crazed bullies.” A deep sigh escaped from the boy and he stood, grumbling beneath his breath about face and stupidity, his chair scraping against the wooden floor. He turned to walk down the stairs. He was stopped by the soldiers and glared fiercely at them as he tried to pass, shoving a few of them belligerently. Akanai smiled. It would do him good to get hit by a soldier. A shame they were too disciplined for that.
+
+“Where do you think you're going, barbarian? Too afraid to fight?” A young man stepped forward to meet him. Hair done elegantly, robes garish as the first one. Perhaps his son or nephew, judging by the facial features.
+
+“I have to go to the bathroom. I'll be back quickly, keep your stupid hairpiece on.”
+
+“Hmph. A coward, trying to flee. To even waste my time with you is a disgrace. Just die.” The young man aimed a fierce kick at the boy's head, which connected with a fierce headbutt. With a loud crack of the young man's ankle breaking, a wail escaping from his lips. Akanai smiled inwardly at the sight. She had thought the boy mad when she found him breaking wooden boards and stone bricks with his head, but she had to admit, it was effective training.
+
+The boy grabbed his opponent by the throat and lifted him up. “I need to pee. Either I can go to the jakes and piss into a pot, or you keep me here, and I can piss off of the staircase, onto your bloody, broken, corpse. Which do you prefer?” His anger was showing, a scene to delight. A little crude of tongue, but that was a common enough trait. Putting his opponent down, the boy turned and walked down the stairs, this time without resistance.
+
+“Father, my ankle.” The young man was being supported by a soldier, carried over to the Brigadier. “It's broken.” A plaintive mewl escaped from his mouth. Weak. A broken ankle, and reduced to this?
+
+The Brigadier shared her sentiments, slapping the young man across the face. “You disgrace me with your crying. Shut your mouth, Jin Tok.” He gestured to another youngster. “Li Song, do not dare lose.” A young woman stepped forward, cat ears peaked, fierce determination on her face, and Akanai grimaced. A pretty thing, the girl was, she hoped the boy would regain enough focus to fight properly. Always ogling women, like a dog in heat.
+
+The boy returned shortly, stepping into the midst of the two groups, still swaying a little. He looked at Jin Tok, head cocked. “Well? You were so eager to fight, let's do this.” Jin Tok quivered before his stare, unwilling to speak. Spineless.
+
+Li Song stepped in front of him, a neutral expression on her face. “I will be your opponent.”
+
+The boy's leer caused more than one member of their party to palm their faces. Mei Lin threw a bun at his head, bouncing off the side of his face. The little miss was seeming more and more disillusioned by the boy as the days went by. He caught the bun and started eating, looking the girl up and down, like a butcher eyeing a cut of meat. “Well, well, well. Hello, pretty lady. How are you?”
+
+Without a word, she attacked, a fierce combination. Stalking the Dragon, Swiping the Rushes, Reversing the Flow, into Fanged Clutch. True to her nature, all moves from the Tiger Forms, very well executed. The boy took the brunt of the attacks head on, too distracted and caught off guard, his bun falling to the floor. Li Song relentlessly pushed her upper hand, striking viciously, again and again, until the boy's face and arms were a mess, bleeding and swelling. It looked to be an easy victory for her, but all the same a good lesson for the boy. A little beating and light whipping should do wonders for his manners. The brigadier would die before she knelt for him, though. A shame, for the empire to lose a soldier, but all the same in the end.
+
+The boy persevered, however, enduring the best he could. Sharpening the Claws was caught in his grasp, both of his hands wrapped around her wrists. Breaking his grip with a mid-air twist, she performed Pounces Upon the Lamb, both boots connecting squarely with his stomach, diving gracefully into a roll, landing two meters away, back turned. Akanai snorted. Beautifully performed. Incredibly idiotic. Too focused on looking pretty and graceful. She had beat that out of the boy early. A fist connected with the back of the girl's head before she could turn, sending her crashing to the floor. The boy grabbed her hair, lifting her up, his face bloodied and almost unrecognizable, eye's wild and angry. She grabbed at the hand behind her, frantic, panicking. A blow to the liver and she straightened in pain, a second causing her to cry out in anguish. He stood there, holding his opponent by the hair, twisting in his grasp, breathing heavily as his rage subsided.
+
+“Uhh... Sorry, I'm not sure what I'm supposed to do now. Is this fight over, or are you expecting me to cripple her or something?” The boy's unfocused gazed landed on Akanai, the result of taking too many blows to the head. He would require more healing. Why would he think she wanted him to cripple a child, and a slave at that? That was almost an insult.
+
+“That is enough.” Akanai spoke, a soft command, sipping her tea. The boy lowered Li Song to the floor, the girl writhing in pain. The boy remained standing over her, glaring around for his next opponent. “Return to your seat, boy.” He obediently walked back, footsteps unsteady. He took too many strikes while he was busy admiring his opponent. Hopefully, he would learn from this. The girl was more skilled, but simply put, the boy was an aberration, with his constant training to be beaten, as if he expected to lose. At least he kept calm enough to not injure the girl too badly.
+
+Akanai took another sip of her tea, before she smiled at the Brigadier, asking sweetly, “Any other challengers? I have others in need of sparring. Travel is awfully dull.” Huushal could use a spar, perhaps he could regain his lost confidence.
+
+The Brigadier's face was already scarlet with rage, and darkened even further at her provocation. After long moments, he was finally able to regain his calm, breathing out heavily. Without a word, he turned and marched down the stairs, his soldiers following along with him. Good, the Brigadier understood his limits.
+
+“Hey! Shit for brains!” Akanai sighed. The boy would never learn at this rate, bloodied and slurring, yet still provoking. Such a temper he had. “You're forgetting something. Where are my kowtows, Bitch? And bring me a leather belt, I owe someone a whipping.” The idiot. He pushed too far. He would need to be strong to be so arrogant.
+
+The soldiers marched back up the stairs, and Akanai stood, her Sentinels following suit. Well, this was fine too. She wasn't lying when she said travel was boring.

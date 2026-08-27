@@ -1,0 +1,287 @@
+---
+id: 6c7aefaf-acc8-57a5-8cc6-aa3501111d4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 688 - Pillow Talk"
+slug: 0689-chapter-688-pillow-talk
+partOf: mythrans-master-of-all-continued-completed
+position: 689
+ownLength: 2833
+unit: words
+publishedAt: 2018-09-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/286998/chapter-688-pillow-talk"
+royalRoadId: "286998"
+---
+
+Stella worked on her skills and trained all day. She had to stop and actually eat at midday, then kept going. She still couldn't catch the pig; but, it was a very close thing. She knew that if she kept at it, she would complete what she believed would have been a simple task. At the end of the day she let the succubi lead her into the house and went into the kitchen that was now a bedroom.
+
+“Lay down and rest, fledgling.” Seldanna commanded her and Stella climbed onto the bed. “Our King will be here momentarily.”
+
+“I think I'm too tired to enjoy that.” Stella said, and the 4 succubi laughed.
+
+“Wait until you see him before you decide that.” Seldanna said and pulled the door shut.
+
+Ten minutes later, the door opened and Ren stood there with a big smile on his face. Stella couldn't say anything as she felt a pang in her heart.
+
+“I hear you did really well today.” Ren said and shut the door. It glowed for half a second as he put some Mana into it to repair it, and it stayed shut.
+
+“R-Ren, wh-what...” Stella tried to put what she was feeling into words.
+
+“Hm?” Ren looked at her and concentrated on her emotions. “Oh, right. Seldanna said you might feel a preliminary bond forming between us, especially after last night.”
+
+“A... a bond?”
+
+“It's not a contract, but...” Ren thought about how to explain it as he walked over to the bed and sat down. “When a succubus has sex, they form an intense emotional attachment with their partner. It lets them get the most out of the relationship and gives them a deep feeding.”
+
+“B-but... I'm...”
+
+“Don't worry. Your abilities are pretty limited at the moment.” Ren said. “I can feel you as well, right here.” He tapped the spot over his heart. “The more we have sex, the stronger that bond will become. You won't reach the lethal stage for a really long time, even if I took you into the Sanctuary.”
+
+“So... Seldanna was right about that? I can kill someone... even you... with sex?”
+
+“Dying from pleasure isn't a bad way to go.” Ren chuckled, and he felt her surprise. “Yes, I'm joking.”
+
+“But...”
+
+“The best part about it is once there is a connection between us, no matter how small, I can feed you as much as you want.”
+
+“Wait, what?”
+
+“It'll be a slow trickle at first; but, it should at least energize you.” Ren said. “Want me to show you?”
+
+“I...” Stella sighed. “I'm really tired.”
+
+“That's okay. We can still sleep after this.” Ren took her hand and she didn't feel anything. He felt her reaction and chuckled.
+
+“Succubus abilities are best employed in intimate situations.” Ren said and leaned in, then kissed her. Stella caught her breath as she felt his love somehow become something solid and it touched her chest. She was going to ask him what was going on, then it felt like a small funnel opened inside of her. She stopped breathing as his solid love pushed through that funnel and into her heart.
+
+Stella broke the kiss and stared at him. “What the hell was that?!?”
+
+“Just the start.” Ren said and smiled. “Can you still feel it?”
+
+“I...” Stella looked down at her chest and didn't see anything there; but, she could feel that he was still touching her with that solid love. “Yes.” She said, slightly astonished. “Ren, how can this be?” She asked and used her hand as she touched the spot above her heart where she could feel it emotionally. She couldn't feel it physically, however.
+
+“It's your brain's interpretation of what it should feel like.” Ren said. “At the moment, I'm making it into a solid mass. I can make it feel like water, too.” He said and Stella gasped as his love washed over her and surrounded her.
+
+“R-Ren! H-how... we're not kissing!”
+
+Ren chuckled again. “I said we need an intimate situation, and this is one.” He said and lifted their clasped hands. “Kissing just intensifies the feelings and the sharing.”
+
+Stella took a breath and let it out. “Then... what else can you make it feel like?”
+
+“There's the scientist I love so much.” Ren said and smiled. “How about fire?” He asked and kissed her. Stella felt his love change from flowing water into roaring flames. They started at her feet and crawled up her body until it reached her heart, and she felt it burn her.
+
+“AH!” Stella yelled and broke the kiss.
+
+“Shh. It's only a representation.” Ren said. “How about Wind?”
+
+Stella shivered as a blast of warm love-filled air surrounded her and she closed her eyes. “How can you do all this?”
+
+“I've had years of practice with the succubi.” Ren said. “Some want the Ice version of cold love. Some want the Dark, or Gravity version, with love that weighs heavily on them. Others just like the basic feeling.” He smiled and changed it to just a basic emotion with no type of element form. Stella relaxed as she felt that, and she laid down on the bed as his love slowly flowed into her. Ren laid down beside her and they looked into each other's eyes. After a few minutes, Stella spoke.
+
+“I do feel a lot better. Even energized.” Stella said. “I don't want to do anything with it, though.”
+
+“Good, because I just want to lay here and spend some time with you before we have to log out.”
+
+Stella smiled and pet his hair. “That sounds nice.” She said, and laying down, they were the same height. It made her think of what Ellaria had done that morning and she closed her eyes as her emotions wavered.
+
+“I can do that for you, too.” Ren said confidently, and Stella opened her eyes to stare at him.
+
+“Do what?”
+
+“Ellaria told me about what happened.”
+
+“Ren, I...” Stella tried to turn away from him and he caught her shoulder and wouldn't let her avoid it.
+
+“Stella, it's okay.” Ren said and he felt her doubt. “Honestly, I understand.”
+
+“No, it's not that.” Stella said. “That... fantasy... is just that. A fantasy.” Stella said. “What she became wasn't real.”
+
+“That's because she wasn't actually me.” Ren said. “Unlike her, I've had a lot of experience being other people recently. It's difficult to maintain their personalities and their mannerisms enough to convince someone you're really them.” He chuckled. “I'm pretty sure it's pretty easy for me to become a taller me.”
+
+“No, Ren.” Stella said. “It's unreasonable for me to even think about wanting you to change something about yourself.”
+
+“Do you think I don't want to change my height?” Ren laughed. “Keep dreaming!”
+
+Stella chuckled. “There's nothing wrong with being short.”
+
+“I know. I usually take a step or two up into the air to make both hugging and kissing easier, though.”
+
+“I've seen that.” Stella said.
+
+“Making a Full Illusion to fill in the empty space is nothing.” Ren said and used a hand to run his fingers through her long black hair.
+
+“You shouldn't have to...”
+
+“I want to.” Ren said. “I'll save it for special occasions, though.”
+
+Stella laughed. “Like my birthday?”
+
+Ren gasped. “Oh, my god! It's your birthday!” He said and sat up, then stood up.
+
+“No, it's not.” Stella said and sat up.
+
+“This was your first day in this world, so it's your birthday.” Ren said and took two and a half steps into the air. “So, a birthday present is in order.” He said and cast Permanent Full Illusion on himself. His appearance didn't change much, except that he was now 5 foot 11 and not 4 foot 7 and looked about 10 years older.
+
+“R-Ren.” Stella blinked her eyes at him, and he took her hand again and helped her stand. He was only 2 inches taller than her and it made all the difference in her heart and emotions.
+
+“You see, this is a fantasy world.” Ren said and put his arms around her. “Stella, I don't mind being your fantasy man. I don't mind it one little bit.”
+
+Stella put her arms around him and she felt whatever that funnel was inside of her open a little more. “Ren!”
+
+“I can feel it, too.” Ren said and raised a single eyebrow at her. It was the first time she had seen it at this angle and her heart melted. She trembled as she pressed her lips to his and Ren felt her regret that she was so unreasonable in wanting this so much. He in turn gave her even more of his love and she gripped him tightly in her arms as they made out.
+
+Stella broke the kiss a few minutes later and her face was slightly red. “Ren, I... I changed my mind.”
+
+“I know you did.” Ren said and picked her up, walked around to the side of the bed and laid her down on it. He stored his clothing and Stella looked at his slightly larger body. She had wondered what he would look like if he hadn't been experimented on and continued to grow, and now she saw what that could have been like as she stared at his rippling muscles.
+
+Stella looked down at his ready state and stored her own clothing. “You left it.”
+
+“It's always the one thing I never change.” Ren said.
+
+“I think... would you be angry if I said it's more in proportion now?”
+
+“Of course not.” Ren said and climbed onto the bed. “You can feel how happy I am, right?”
+
+Stella closed her eyes and tried to feel that through his love. “No, your love for me is too strong.”
+
+Ren chuckled. “Okay, hold on.” He closed his eyes and moved his love aside, and she gasped.
+
+“How did you do that?!?”
+
+“Once again, years of practice.” Ren said and then she felt how happy he was.
+
+“REN!” Stella gasped and put a hand on her heart. “S-stop!”
+
+Ren moved his happiness aside so his love went back to be prominent in his emotions and Stella relaxed. “I guess we figured out your best feeding emotion.” He said. “If you try to take emotions you're not accustomed to, they... taste bad.”
+
+“Is that what just happened?” Stella asked.
+
+“Yes.” Ren said. “I guess you're stuck with feeling how much I love you for a while.”
+
+Stella chuckled. “Poor me.”
+
+“I do feel bad that you're only getting...” He closed his eyes and concentrated on her emotional opening. “...about 5% of what I'm giving out.”
+
+“Wh-wh-what?!?” Stella exclaimed, because she felt so much from him. “This... this is only...”
+
+“We need to level you up some more before you can get a much better feel for it.”
+
+“Good god.” Stella said. “Seldanna was right.”
+
+“About what?”
+
+“That you can't be beat for the amount of emotions you can feed them.”
+
+Ren chuckled. “I've had a lot of experience feeding Elerlyth, and I learned a lot of different tricks to enhance the feedings.”
+
+Stella sighed and touched his chest where he had been damaged in real life. “I sent her a text about what happened to you.”
+
+“I would have told you not to do that if I'd known.” Ren said, and he felt her surprise. “She didn't respond, did she?”
+
+“No.”
+
+“All you did was confirm that her decision was the right one.” Ren said sadly, and Stella gasped as that sadness pushed his love aside and she started crying. “Oh! I'm sorry!” He said and she felt him crush the sadness and his love filled her again.
+
+“R-Ren... how...”
+
+“I'm full of emotions, not just positive ones.” Ren said and wiped at her tears. “The negative ones can be just as powerful.”
+
+“I'm sorry, Ren.” Stella said.
+
+“Hey, it's okay. At least it wasn't an epic break-up with a huge fight or insults flying.”
+
+“That would have made it easier, though.” Stella said. “Just letting your relationship fade away seems wrong, somehow.”
+
+“Yeah, but a relationship needs two active participants. If one is reluctant for any reason, the relationship starts to crumble.”
+
+Stella took a breath and let it out. “I think that's enough bad relationship talk for tonight.”
+
+Ren smiled at her. “Does that mean you're still in the mood?”
+
+“Um... not really.” Stella said. “I think...”
+
+Ren's slightly larger hand gripped one of her breasts and she caught her breath. “If you don't mind, I'd like to try and change your mind.” He said and grinned at her.
+
+Stella didn't mind at all.
+
+They made love several times and Stella leveled up several times as well. After about 4 hours, Stella remembered that they were missing breakfast in the real world.
+
+“Oh, damn!” Stella said and jumped off of the bed without warning.
+
+“What is it?” Ren asked as he felt her slightly panicked emotional state.
+
+“Breakfast!”
+
+“Oops.” Ren said.
+
+After they equipped their clothing and went upstairs, Ren told the others he had to go, then he and Stella stood beside the wall and logged out.
+
+********
+
+“Ugh.” Ren grunted and slipped off the VR headset. “Please tell me there's a drugged supplement drink with my name on it.”
+
+“Of course.” Denise said as she took the headset and held a drink out for him to take a sip through a straw.
+
+“Ah, thank you.” Ren said. “I'm sorry I forgot about breakfast.” He said and took another sip. “Staying in last night messed up my timing a little.”
+
+“Uh huh.” Denise said. “Getting to spend about 15 hours with Stella had nothing to do with it at all, did it?”
+
+Ren chuckled and put a hand on his bandage from the sharp pain he felt. “She was quite a good distraction, I have to admit.”
+
+“I'm glad you think so highly of me.” Stella said and sat up.
+
+“Are you kidding?” Ren turned his head to look at her. “When have you ever seen me be distracted by something?”
+
+“Gravy fries.” Stella and Denise said at the same time, then they laughed.
+
+“Geez, I meant in the game.” Ren chuckled and held a hand out to Denise. “Bathroom, please.”
+
+“I'll do that.” Stella said and slid off the bed on her side and came around to Ren. “Denise, is breakfast cold?”
+
+“Very.” Denise said and pointed to the rollaway table. “It's just cereal and toast, though.”
+
+“Good choice.” Stella said and helped Ren sit up. “I'll take the little comedian to the bathroom and you can microwave the toast.”
+
+“Add a slice of cheese!” Ren said as Stella acted as a crutch and they walked to the bathroom together.
+
+“One poor man's grilled cheese coming right up.” Denise said and Ren held in his laughter as he grinned at her. Stella helped Ren take care of business and brought him back to his bed.
+
+“Being hurt normally doesn't bother me; but, being this immobile is starting to suck.” Ren said.
+
+“It's only going to get more annoying over the next 6 weeks.” Denise said and pulled the rollaway table over to the bed. “One piping hot toast and cheese sandwich, slightly butter-soaked, and a bowl of cereal.” She poured the glass of milk onto the dry cereal and waved at it theatrically. “Enjoy.”
+
+“Thanks!” Ren said and started eating.
+
+“I was kind of being sarcastic.” Denise said.
+
+“You...” *chew* “...saved it for me, even though I'm an hour late.” Ren said and took another bite of the toast and cheese sandwich. *swallow* “It's melted just enough.” He said and took another bite. “This is great!”
+
+Denise looked at Stella. “I'm not sure why I keep thinking that he's joking and pulling my leg or something.”
+
+“Today's just going to be one of those days, I think.” Stella smiled.
+
+Ren stopped eating and looked at them. “Why? What's up?”
+
+“We've got a bit of a surprise planned for you later.” Denise said.
+
+Ren looked from her to Stella and back again, and raised both of his eyebrows.
+
+“Not that, you little horn-dog.” Denise said and scowled at him, and Stella laughed.
+
+Ren shrugged and ate some of the cereal. “Will it take long?”
+
+“Probably a few hours, depending on a few things.” Stella said.
+
+Ren finished the bowl of cereal and took a big sip of the supplement drink. “Hand me the VR headset, please.”
+
+“What? Why?”
+
+“If I'm not going to make my arranged time with the Deity of Fire, I need to let her know beforehand.”
+
+“Ren...”
+
+“If I don't show up on time and she doesn't know I've been delayed, I'll lose all the hard work I've done with her up to this point.” Ren said and held his hand out. “I can't afford another setback like that.”
+
+Denise handed it to him and he sat back against the headboard and put it on.
+
+“I'll be right back.” Ren said. “Flow Login Start.”

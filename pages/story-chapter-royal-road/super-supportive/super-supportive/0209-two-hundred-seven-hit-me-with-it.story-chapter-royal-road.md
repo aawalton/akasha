@@ -1,0 +1,321 @@
+---
+id: a49e7c34-4d73-52c4-8db6-04cab4801de8
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SEVEN: Hit Me With It"
+slug: 0209-two-hundred-seven-hit-me-with-it
+partOf: super-supportive
+position: 209
+ownLength: 4878
+unit: words
+publishedAt: 2025-03-13
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2123312/two-hundred-seven-hit-me-with-it"
+royalRoadId: "2123312"
+---
+
+207
+
+******
+
+Alden’s fingers sank into cool, dark mud that hadn’t been here the last time he’d fallen in this spot on the forest floor. He was breathing hard, face hot, and he felt another bead of sweat sliding down the bridge of his nose to drip onto the ground between his splayed hands.
+
+One end of the thin gray cord he’d been using as his tripwire was still wrapped around the leather cuff on his wrist. He could feel his auriad there, hidden underneath, loosening as his adrenaline from the last attack faded.
+
+The “hazard mimic” that Stuart had taken from the school for them to use as their pretend demon had gone down. But so did I.
+
+The wedge-shaped shield he’d been holding as his second line of defense had blown a short distance away. It was made of an ultralight foam that caught the slightest of air currents when Alden wasn’t preserving it. Stuart was planning to let his ryeh-b’t play with it after they were through.
+
+“Ow,” said Alden. “Wasn’t that one unfair?”
+
+An invisible blow had struck him hard enough to send him flying. After the hazard mimic had fallen and from behind.
+
+“That one is why you should listen to me and fight from inside the car.” Stuart’s footsteps approached, and Alden looked up to see a hand being offered. It was covered in the rings Stuart had selected from a supply the school kept in a room full of magical teaching tools. They were dueling rings that had been made to introduce random flaws into the effects Stuart created when he activated them. So sometimes the ring that was supposed to make the soil shift under Alden’s feet created a large mud patch, and the one that hit him with nasty invisible blows could miss.
+
+Or weave around to get him from behind, apparently.
+
+He shook his head. “Your hands are clean, and I’m gross.”
+
+“Mud is so frightening,” Stuart said. “How will I ever recover if I get some on me?”
+
+Beating Alden up slowly over the course of the past few hours had obviously been what the Primary’s son needed to unwind. Alden took the hand in his muddy one and let Stuart pull him up.
+
+To get to this place, they’d teleported from the school back to the siblinghold with all their supplies and then hiked. The trees were spread out a bit here, and there was enough space for the scenarios they were acting out. A half-grown tree had been assigned the role of the car a few times, and a pile of decaying leaves raked together by magic was often Kibby.
+
+Alden was uncomfortable with how easily leaves blew apart dramatically if he made a single mistake, but he was telling himself it was good for him to think about consequences.
+
+Stuart usually stood over by a much larger tree while he was directing the hazard mimic with one hand and adding creative touches to its attacks with the dueling rings on the other. That tree also served as their discussion and regrouping spot. They headed over to it now. Alden drank from a pitcher of water that had tasted much better before Other Alden had shown up wearing her delivery harness and carrying a liver cleanser Stuart had ordered. Because he kept worrying over the consequences of a human liver being only okay instead of extra healthy for a day.
+
+The ryeh-b’t was off amusing herself in the forest now because she didn’t like the hazard mimic. It was a kind of expandable, rubbery-surfaced polyhedron that was currently the size and weight of a bokabv. It was set to respond to Stuart’s direction, or to take initiative and charge or flee on its own depending on what Alden did to it.
+
+Alden looked at where the mimic rested. The device had sent up a shower of dirt and careened off to the side after its impact with his tripwire. Which had been costly. He’d extended the line pretty far because Stuart was adamant that close engagement could not happen until the demon was weakened or unless Alden was working from within the car.
+
+This was the first time they’d run through the tripwire scenario. And this result was no good.
+
+“It was dead.” He was glaring at the mimic while he drank his bitter liver cleansing water. “It made the happy deadly injury chime.”
+
+“I’ll show you what happened,” Stuart said. “Let me change out your break plates.”
+
+Alden turned his back toward him and felt him tugging off some of the protective tiles that adhered to the black shirt and pants he was wearing. The clothes were flexible enough to move in, but too snug and much too hot. Not that he’d want to exchange them for something more comfy. This gear had been taken from the school, too. Some of the small tiles reduced impacts; others dulled magical effects. Together, they were ensuring that Alden only ended up with bruises instead of broken bones.
+
+The ones on top of his shoulders and around his neck were supposed to help protect his face. Stuart had said that if they didn’t, he’d just be teleported to a hospital.
+
+“You know, for someone who’s so worried about me eating a little poisonous yovkew, you’re very willing to hit me hard with those rings.”
+
+“I’m respecting your goals. Experiencing a poisoning isn’t one of them, is it?”
+
+Alden liked that they were both in the kind of mood where joking around was happening. The morning hadn’t been what either of them expected, but the afternoon had been great for him, if they took the bruises out of the equation. And it didn’t feel like Stuart was bored either.
+
+“Done,” said Stuart.
+
+Alden turned to see him holding out a double handful of the protective tiles. Most of them were only cracked, but a few were in pieces. Stuart always showed off the damaged ones before adding them to the growing number in their trash basket.
+
+“Do I need to pay the school for all of these?” Alden asked as he heard them all clatter into the basket. “I would.”
+
+“There are several training facilities I have access to and would like to visit,” said Stuart. “Especially to practice the spell that I used to move the keda bean. I don’t visit them because people either annoy me or cut their own practice short when I’m there. So I think if I want to destroy some break plates and borrow some rings after all this time, then only a <<someone in need of shaming>> would bother me about it. And I would challenge their thinking.”
+
+“You’d tell them they were gokoratches.”
+
+“I would ask them to explain their objection to me in detailed language and very slowly. So that I could hear them say why someone who has passed through the cottage of oaths can’t choose to use a few small tools.”
+
+“That…would probably be a more appropriate reaction than calling them animal names.”
+
+Stuart’s smile was self-satisfied.
+
+“Is the cottage of oaths where you swear the oaths that are necessary for you to become a knight?”
+
+“It’s the place where we prepare for them. In my household. Not everyone has a cottage for it. Before we can complete the oaths, we have to shape our understanding of what it means to be a Knight of the Mother Planet. We experience and contemplate a series of selected memories to do that.”
+
+“Oh.” Before Alden could get a handle on that and ask follow-up questions, Stuart was beckoning him to look at one of the tablets that had been recording them.
+
+“Here…this is when the demon hits your tripping string. And the contact does severely injure it. The hazard mimic stops coming toward you, and you’ve signaled me and gotten permission to preserve the wedge already. That’s good.”
+
+Alden watched the mimic smash into the tripwire and then tumble over itself, the four points that made up its legs pointing briefly skyward as it flipped. “I have the second shield and use it fast because even when the demon is dead, the elevated chaos is still making things happen around it sometimes.”
+
+Having someone around to explain this kind of thing really was invaluable.
+
+“Yes. And this is one of those times.” Stuart let the video proceed.
+
+Alden watched himself fly forward away from the “car” he was protecting. On the screen, he hit the ground.
+
+“I cast a blow at the front of your shield,” Stuart told him. “Something to represent the way the demon’s presence might make reality behave as it dies. Or to represent any <<cast-off>> part of it that might come toward you. The ring randomized the blow to hit you from behind instead.”
+
+“Could that really happen?”
+
+“A blow from the front, even after the bokabv has fallen a distance away, is somewhat likely. It’s a charging creature so there could be a…current to how the chaos is interacting with it that makes some kind of physical impact on you a possibility even if the main body of the demon doesn’t reach you. An impact from behind is unlikely in this scenario, though, I think.” He looked at Alden. “If I was trying to imagine the way this would go and controlling all of the spells according to my own envisioning, I wouldn’t have hit you this way. That’s why I’m using the rings. Chaos is unpredictable.”
+
+“I’ll add something similar to this version of the dream, then.”
+
+“You’re making your dream scenarios unrealistically difficult,” Stuart said mildly. “Not every one of them has to have an added danger on top of all the other dangers.”
+
+“I want to know I didn’t cheat when it’s all over. I want to realize I’m strong enough to do it. Really strong enough.”
+
+Stuart dropped the tablet, and it caught itself neatly on one edge. Alden had finally gotten used to seeing him do that, so he didn’t try to make a grab for it this time. Instead, he followed Stuart’s gaze, looking around the area they’d been working in.
+
+The signs of Alden’s brainstorming and Stuart’s casting were everywhere—several objects that had been used as shields, a small boulder that had been hurled at the hazard mimic, a large spot of loose soil from where Stuart had dug a pit trap with his auriad. Alden had wanted to try out a scenario where he baited the bokabv toward one.
+
+“You can have sufficient ability and do everything perfectly and still fail because of circumstances,” Stuart said.
+
+“I know.”
+
+“Then…I think you should feel confidence in most of your plans already. The dreams where you use equipment taken from the lab in addition to your skill seem accurate to me. I think those plans would be effective and safe enough. If you don’t let Kivb-ee use quite as much explosive gel as she wants to in that one. Why does a child her age know how to make explosive gel?”
+
+“She’s just trying to make sure her dream self contributes enough.”
+
+Stuart didn’t ask for more details. “The scenario in which you’re lacking supplies, and the demon chooses to pursue the car, and you—for some reason—refuse to use the car itself as a weapon against it or a shield for your body…”
+
+That was the one they’d just tried.
+
+“I want the car to keep going,” said Alden. “If a demon stronger than the bugs runs into it, who knows what will break? We’d have to survive on foot for a lot longer, which would be hard.”
+
+Stuart went quiet, eyes locked on the place where Alden had fallen. Alden didn’t say anything. He’d learned that a thoughtful expression on Stuart’s face was probably going to be followed by words he’d want to consider.
+
+“At least cover your whole body with whatever you’re preserving after the demon hits your first defense. It’s <<silly>> to imagine your supplies will be so limited you can’t do that much.”
+
+“You didn’t say that when you were shaping the foam into a wedge for me.”
+
+“That’s because I thought you’d be using it with your back against the car or inside it.” Stuart tapped the two rings he used to modify the behavior of the mimic together a few times. “Your skill…it held well.”
+
+“The mimic doesn’t have a cloud of real chaos around it.”
+
+“No. But this time I had it release an amount of magical pressure equivalent to what I think you could expect from an encounter with such a demon. Because it fell over the tripping string, the encounter was brief, but you still held. And you could protect another object afterward. You are strong enough. You can trust that the dreams of success Healer Yenu gives you aren’t cheating.”
+
+Alden had thought that hit was a lot harder than the others. Satisfying.
+
+“Do you want to see me try my invisible claws now?” he asked.
+
+“If you’re wearing those threads on your fingertips again—”
+
+Alden held up his left hand and waved his fingers.
+
+Earlier, he’d been showing Stuart an example of the Meister weapon he’d seen yesterday with Natalie—the slicing filaments that extended from the fingertips. He hadn’t been serious about impaling a whole demonic bokabv with preserved spikes of thread that were only a few inches long.
+
+“The demon will not notice when those tiny things stab into it, but you will notice when its giant body continues forward to shatter your fingers and then your wrist and then your arm and then the rest of you.”
+
+“I realize that.”
+
+“Then why do you keep showing it to me!?”
+
+“Because your face was so funny the first time I said I wanted to try it.” Alden lowered his hand again. “Not joking anymore—I appreciate your advice and your knowledge so much. Do you really think most of these would be fine to share with Healer Yenu?”
+
+“Yes. It’s obvious you’ve spent much time over the past days working on this.”
+
+“I’ve been obsessed,” he admitted.
+
+“You should imagine what pleasant things will happen when Healer Yenu has replaced the nightmare with these,” Stuart said. “That’s what I used to do when I was about to go to another meeting with her. I would think about how afterwards, I would be able to do something new or stop doing something old that I didn’t like.”
+
+That’s simple advice, thought Alden. But it’s strangely easy to overlook when you fall into the process of fixing yourself.
+
+“I bought the best, most highly recommended sleep things when I moved into my new room at Celena North,” he said after thinking for a minute. “The perfect sheets and a blanket that manages the bed temperature and a machine that makes peaceful sounds. It will be good to lie down and enjoy it all without thinking, ‘I hope it works tonight’ half the time.”
+
+Stuart smiled, but it turned quickly worried. “Do you need peaceful sounds in the cottage to sleep well when you visit?”
+
+“No. It’s—”
+
+“And human bed coverings!”
+
+“The cottage is very comfortable. I like sleeping there. Don’t change it for me.”
+
+Stuart looked like a person who was planning to research white noise machines no matter what.
+
+“Eat the other half of that apple you started earlier, or it will turn brown,” Alden said to distract him. “And then will you hit me again with that spell that knocked me down? I’ll shield as much of myself as possible this time. I want to see if it makes me lose preservation.”
+
+“It will turn brown? And that’s bad?” Stuart hurried toward the root where his snack had been left. “You should have told me not to save this kind sooner!”
+
+He chomped into the apple like he was afraid it was going to rot away any second.
+
+******
+
+Stuart had been amazing at pulling his blows and controlling the mimic all afternoon so that Alden got plenty of tries at each scenario without taking more than an instructive number of hard hits on body or shield. But not long after they started reenacting the last demon attack in slightly different ways, The Bearer of All Burdens was finally exhausted. Alden was disappointed when it happened, not only because this had been a valuable practice but also because they’d developed such a good task-focused camaraderie.
+
+“That was all I had to give,” he said regretfully as he climbed back upright. The poncho he’d been preserving flapped around him, barely held together at the neck after being on the receiving end of a strike from the hazard mimic. Beneath the shredded plastic, the protective shirt was covered in cracked and broken tiles from reducing what was left of the impact.
+
+“It was well done,” said Stuart. “You’ve learned that you can do what you want in the dreams, and you’ve built plenty of memories that Yenu-pezth can use to help her in her work.”
+
+If Alden wasn’t imagining things, he sounded disappointed it was over, too.
+
+While Stuart collapsed the mimic back into its portable starting size, Alden went over to their base of operations and took off the shirt so that he could remove all the break plates more easily.
+
+Broken ones in the trash, good ones in the carrying case.
+
+He was delighted to find that it wasn’t actually a hundred degrees in this part of the forest, despite how he’d felt all afternoon. This safety suit had just been made for a species that liked way more insulation than him. For all I know, this is the winter version. Stuart had said it was the only size large enough for him at the school.
+
+“This has someone’s name written on the inside in some kind of white stuff,” he said. “Do we need to set up a meeting so I can apologize to Okera-en?”
+
+Noh-en’s relative?
+
+Stuart looked back at him. “It’s probably written there humorously because Okera-en was once the only person in a class who it fit. Those clothes aren’t individual property. Students just take them as needed to go with the plates.”
+
+Alden dropped a few more tiles into the trash. They clattered like plastic, and they didn’t weigh much more.
+
+“Worli Ro-den,” said Stuart, “…no. I’ve changed my mind. I apologize for speaking of him when our day has turned more forward-looking. Would you have a meal with me before you go back to Anesidora? We have meat petal.”
+
+Alden was startled to have Ro-den brought up and then rejected as a conversation topic in the same sentence. He turned to see Stuart kicking leaves back over the dirt he’d dug up earlier. Alden wasn’t sure if putting the forest back the way they’d found it was important or if Stuart was being fake busy.
+
+“I was going to be here awhile longer if you aren’t tired of my company. Meat petal would be delicious. I did plan to sleep on Earth, though, so that you don’t have to stay awake until the middle of your night to send me back for my classes tomorrow.”
+
+“I don’t mind staying awake,” Stuart said immediately.
+
+“Eventually, you will mind how inconvenient I am if I don’t try to minimize it. You already have to do bokabv chores because of me.” Alden peeled off the final tile and laid the shirt over the nearest root, then he reached for his messenger bag. It was stuffed with the clothes he’d changed out of earlier. “And if you want to say something about Ro-den, you should. I’m curious, and I promise not to ruin the rest of the day by telling you how much I hate him repeatedly.”
+
+Stuart kicked a few more leaves before nodding to himself and walking over. “Maybe you will meet some wizards who behave improperly <<to your detriment>>. I hope not, but I’ve been disappointed by many people since I started studying at LeafSong, so maybe I hope for a little too much.”
+
+Alden snorted. “Only a little?”
+
+He pulled his own cleaner, drier shirt over his head and belatedly realized that this conversation might have been kicked off by Stuart spotting his tattoo.
+
+“But I do think the commendation makes your chance of being summoned for inappropriate jobs as small as an itz grain,” Stuart continued. “And I think your whole life—may it be long—may not bring you into contact with a second wizard who is much like Ro-den.”
+
+He glanced at the spot where the tattoo had just been hidden, and then, for some reason, over at Alden’s bag. “Worli Ro-den is selfish, angry, and <<distressingly weird>>. I do not understand him well, and what I understand, I do not like at all.”
+
+Stuart’s lifted chin and tone of condemnation somehow made the blunt language even more delightful than it would have been anyway, considering the subject. Alden was pleased to learn that there was a word for distressing weirdness that sounded like someone was trying to say “eek” three times as fast as possible.
+
+“I’m glad you gave me your perspective on how summoners might… probably, will…see the commendation,” he said. “And I have been wondering lately if I underestimated Ro-den’s selfishness by a little.”
+
+Stuart’s lips twitched up. “Only a little?”
+
+Alden groaned.
+
+Having a partner for Ro-den put-downs was great, but it did remind him of his most recent realization about the professor. The one that made him feel like such an idiot, he didn’t want to ask if he was right about it. He decided to make himself, just to get it over with and then put it away once and for all.
+
+“You know how I went to Thegund to pick marleck berries,” he began.
+
+Stuart lifted a hand and made a strange bouncy gesture with two fingers extended.
+
+“What does that mean?” Alden asked, trying it himself. “I don’t know it.”
+
+“It’s <<a comical character who appears in children’s stories, known for lying and then running away>> fleeing over the hills.” Stuart did it again.“It means I know you’re lying. But not in an upset way.”
+
+“That’s a fun one. So I was picking marleck berries, and Joe’s—Ro-den’s—lab happened to be nearby. And some of his assistants were trapped there by politics and the situation…and I guess…I’m wondering if Ro-den could have done something to get them all away from there sooner. From Thegund.”
+
+Stuart didn’t reply for a few seconds. Those few seconds were so long that Alden answered himself before he’d have to endure one more.
+
+“He could have. Of course. Unimportant people don’t get to teach at the second best wizard university on the Triplanets, do they? And only very important people would ever be allowed to do it as punishment for crimes. He’s important, isn’t he? He could have done something for them. If he wanted to badly enough.”
+
+Something before me. Better than me. Faster than me. Something that wouldn’t have hurt me and killed them.
+
+Stuart swallowed. “Alden, you understand a little less, or differently, than I assumed you…I guess there was no kind reason for Aunt Alis to explain everything if she…would you like a shower and meat petal first? We can go back to the cottage and then talk about it.”
+
+“Are you going to tell me something horrible?”
+
+“I don’t know. I think I need to tell you something that will hurt your feelings. And bad news is better when you’re chewing. Veln Dad says that.”
+
+Alden doubted Stuart could reveal information about Ro-den and Thegund that would hurt in a new way. It was already so shitty that there wasn’t room left for one more piece of crap to matter, and he felt like he was getting better at moving along.
+
+But just in case…
+
+Just in case.
+
+“Tell me whatever you think the worst part of it will be for me,” he said. “Simple and fast.” Hit me with it. “Then we’ll go chew on meat petal and talk about it more if I really have to.”
+
+Stuart straightened and looked him in the eye. “The scientists Ro-den sent you to remove from Thegund could have easily called for a flyer and been taken to safety on the other side of the moon, to Chayklo, whenever they wanted. Before the corruption broke through. If Ro-den said otherwise, he lied.”
+
+“No. There’s this corporation,” said Alden, “called Yipalck. They wouldn’t let them unless… ”
+
+“Yipalck was the largest supporter for Ro-den’s research,” said Stuart. “He owed them a percentage of his <<official recognition>> for any discoveries he made. But as part of a battle he was having with members of the Grand Senate, Ro-den destroyed an invention of great scientific value and the records of how he created it. He wasn’t allowed to do that. There are expectations of people who research chaos, and new knowledge in that area is supposed to be made available to all members of the wizard class who are qualified to have it.
+
+“Ro-den thought that the reward he was going to receive was unfair, so he wanted to force the committee in charge of dealing with him into a new negotiation. They wouldn’t yield. He wouldn’t yield. Eventually, he…did some things to personally insult a couple of Grand Senators.”
+
+Stuart stared off into space briefly, and Alden wondered if he was about to elaborate on Ro-den’s personal insults.
+
+“Ro-den jumped for the highest branch and hit his head on every lower one as he fell back down,” Stuart said instead. “So he lost his lab. Yipalck was supposed to recover whatever information was possible without Ro-den’s help. He was ordered to give his assistants permission to tell the new owners what they’d been working on. Instead, he broke all of the secrecy contracts that protected the research they’d done over the past years completely, and told Yipalck to make new ones with everyone at the lab…if they could.”
+
+Stuart said that last part in a “Can you believe it?” voice.
+
+“Breaking the contracts was bad?” Alden asked.
+
+“The information his assistants had didn’t belong to them and Ro-den alone. And he was known for letting them be very involved in his studies. It wasn’t safe to just let them leave and tell whoever they liked how to build a new kind of artificial demon. That was what Ro-den claimed they’d done.”
+
+Hello. What?
+
+“I don’t know exactly what Ro-den’s reasons were. But it meant all of his assistants needed to be bargained with, and it took a long time, and the longer it took, the more opportunity he could find to change his situation. The most loyal ones were still there at the end.”
+
+It was almost the same story Alden had been told. Just with a few more details, a slightly different point of view.
+
+Yipalck won’t let us leave because we’re loyal to Ro-den and won’t agree to their contract like the others did. Yipalck won’t let us leave because we’re loyal to Ro-den and if we don’t agree to their contract…we can just go build some artificial demons in a garage somewhere?
+
+Alden shook his head. “They wanted to get away from that lab. They did.”
+
+They were scared. They were so glad I was there.
+
+“They wanted to get away, but they wanted to do it in a manner that gave their wizard the most control and <<leverage>> possible,” said Stuart. He took one step closer to Alden. “I think. I can’t truly know, and it’s not right to speak for them confidently. They were willing to take risks. Those risks would have gotten all of them killed, and they didn’t deserve that. But since you’re asking if Ro-den could have gotten them out somehow, I thought…it’s important for you to know that they only had to agree not to continue the research or share it in order to leave. As far as I know.”
+
+“I see,” said Alden.
+
+“And Ro-den could have just given up the information instead of trying to use it to bargain with the Grand Senate. He could even have kept it and done other things if he was willing…he would have a lot to offer in an exchange of favors, if he was less proud.”
+
+“Thank you for telling me.” Alden felt more detached from the information than he would have weeks ago. Maybe it really was just too much disappointment already for it to get any worse. “What reward did Ro-den want so much he started a battle with the senate over it? If it’s not a secret.”
+
+Stuart was watching him closely. “It’s not. He wanted them to give him a higher title. Because of the unusual worth of his discovery. He wanted <<Trimeritorious>>…a lot of people think he did deserve it before he destroyed everything. The committee in charge of reviewing his contribution might have been <<stingy>>.”
+
+For a title. And whatever power went with it.
+
+“I see,” Alden said again. He picked up his bag. “Let’s go eat meat petal.”
+
+“Really?”
+
+“Can we cook it on a hot rock? That was fun.”
+
+Stuart’s uncertain look began to fade. “I enjoyed that, too. Outside in front of the cottage?”
+
+“Perfect,” said Alden.
+
+A fucking title.******

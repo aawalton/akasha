@@ -1,0 +1,129 @@
+---
+id: 411e3d0b-409e-5304-a9b7-436904323439
+page-type-slug: story-chapter-royal-road
+title: "Chapter 370 : Exploding"
+slug: 0072-chapter-370-exploding
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 72
+ownLength: 2366
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3246566/chapter-370-exploding"
+royalRoadId: "3246566"
+---
+
+"I hate to admit it… But I think I'm lost."
+
+I sighed and looked around at my confusing surroundings. Every room I entered looked nearly identical in design, with each successive marble underwater ruin or temple blending into the previous. This all culminated in me feeling like I'd been going around in circles.
+
+The dungeons I'd previously explored had a sort of structure to them, a guided way to their final destination, but that clearly wasn't the case here. I wasn't sure if this was the natural state of this dungeon, or possibly even a countermeasure induced by my invasion.
+
+I paused. "Or…maybe…this is my fault?"
+
+I immediately threw that idea away; it couldn't be my fault, it was clearly the nefarious [Dungeon Master] trying to hinder my progress! Yes, perhaps I'd skipped a few rooms when I found the gap was small enough for me to use [Personal Rift] to tear an aperture through, but that shouldn't have led to such a catastrophe.
+
+"In hindsight, perhaps I should have kept my last batch of power leveling [Mapping] intact before coming down here…" I sighed. Unfortunately, what was done was done, and I couldn't go crying over spilt milk.
+
+On the positive side, though, I fought several monsters, and they were enough to gain two levels in Riftmancer! Not only that, but the other party must have been doing just as great as I'd gained two levels in my race, bringing me up to level eight, and my depleted trait points to seven.
+
+"My trait points situation is still dire, but my skill points are through the roof! I can uncap three skills if I want to! Heck, I might even consider gambling with some deductions."
+
+I was a very happy slime, never had I felt so rich—ignoring my trait points, of course. Still, this result also showed that [Split Personality] was almost ideal for my situation; who else could put it to such good use like this? Yes, they couldn't contribute class experience to me, but they were effectively another body, bringing my next evolution to me sooner than I'd expected.
+
+"Well, let's not get ahead of ourselves, it's only two levels so far… I have to get all the way to fifty. Still, every drop counts, and now I've gotten myself an extra bucket!"
+
+Additional levels in [Split Personality] would reduce any penalties, likely granting me even more racial experience if I had to hazard a guess. The probable reason I'd gained two was likely due to the fact that I was close to attaining the first after fighting off the remnants of the mermen and during my rapid advancement of mage levels.
+
+"Still, the monsters here are just sea monsters, but weirder… The profiles haven't been too exciting."
+
+Effectively, the dungeon was full of monsters I'd already seen outside of it, nothing but deep ocean monsters both inside and outside of the trench. The difference was that they were all one or two stages higher, depending on how weak their founding species was, and they were designed to give them a strange mutation.
+
+That red bioelectric jellyfish was one example, but I'd also fought against an icy octopus and a shark that had blood magic! Both were extremely poorly equipped to fight against me, especially the shark, as I had no blood for it to use. However, it actually started feasting on other monsters in the area to gain blood and use it to not only attack me, but also enhance itself.
+
+I was very interested in the shark, but try as I might, I couldn't gain access to its blood magic. I was a slime after all, and even with all my mimicry and borrowed traits, none of it was enough.
+
+"Perhaps the black slime will give me something? Doesn't it drain blood?" I thought about it and then shook my head. "No, it drains lifeforce. I guess I'd need a blood slime then, I'm sure some crazy alchemist has tried to make one."
+
+I continued my exploration, hoping to eventually find my way. I was using my sense of Vee as a sort of guide, and as long as I wasn't heading towards her, I was probably going in the right direction. Strangely, while I could vaguely sense my other cores through [Core Collective], I had no access to them while in the dungeon. Whatever interfered with [Dimension Magic] must have other preventative measures in place.
+
+Pacing along the floors and walls, I searched for a short enough boundary to make my move. It felt like it was getting harder and harder to find weak points, and I couldn't help but wonder if the [Dungeon Master] was doing some last-minute renovations to thicken the walls and floor.
+
+"Found one!" I cheered and immediately ripped open two interconnecting apertures and jumped through. Once again, I found myself in another marble room, except this one looked vaguely like a temple, with a large pedestal at its center. Atop the pedestal was a sparkling treasure chest, and I felt my greed bubble up.
+
+"Jackpot!" I cheered and ripped open another two apertures to appear directly at it.
+
+No, I wasn't being too lazy to walk, I was trying to level up the skill! As soon as it reached the next level, then a lot more of this dungeon would be opened up to my traversal, assuming it continued to grow just as much as its previous levels.
+
+I won't say it out loud, but it's definitely fun not to have to walk or slink across the ground, though!
+
+With that cheeky thought to myself, I examined the treasure chest. I still had [Rogue Expertise], although it had indeed fallen to the wayside after I completed my dungeon assessment. I felt a tiny bit guilty at Whitney's teachings falling to the wayside. Still, it was sadly inevitable that with each additional core I ate, I usually gained some form of resistance or immunity.
+
+"Plus, it's not like much can kill a slime, even if I'm cut apart," I said as I continued to try to examine the chest to see if it was trapped.
+
+My skill told me the chest was safe, and my extra senses couldn't pick up anything either. I even asked the [Sub-Cores] to check if the chest was safe, and it all came back positive. I moved some slime away from the chest that housed my cores, then flipped the lid. Nothing happened.
+
+"Not trapped and not even locked," I chuckled as I came back to the chest to examine its contents.
+
+There were a few magical items inside: a spear and some gauntlets. The rest of the chest was some coins and a few vials containing a mystery liquid. The items were probably useless to me, but at least I could study the enchantments.
+
+"That reminds me, I still need to study that ghost axe enchantment I copied down. Then I can finally eat a ghost and get my revenge!" I cackled as I pocketed the two enchanted items.
+
+Abruptly, there was a clicking noise, and I immediately glanced down at the pedestal.
+
+"Shi—"
+
+An explosion erupted throughout the room, destroying the entire marble temple. Worse yet, the vials of mystery fluid seemed to react to the explosion and joined in, adding violent purple and green flames to the mix. The fluids kept reacting to one another, resulting in a chain of explosions I thought would never end.
+
+I retracted myself and reinforced my slime with an outer casing of obsidianite, while grabbing [Tempered Reinforcement] to capitalize on the generated heat. Although I felt relatively safe, since I'd previously proclaimed myself explosionproof, it couldn't hurt to be extra cautious.
+
+When the repeated detonations finally quietened down, the dungeon room was almost entirely vaporized except for its outer coating. It was now that I noticed that the exit and entrance had been shut, most likely to contain the blast.
+
+"Well, that was exciting…" I said sarcastically and began lowering my defenses.
+
+The room was still mostly on fire, which was strange considering it was supposed to be underwater. However, whatever water was once in the room had been almost entirely removed. I wasn't sure whether it had somehow been converted into fuel for the explosions from those mystery vials or had evaporated in the heat, but it was almost bone dry now.
+
+"Good thing I'm fireproof, or I might have been in a slightly bad situation," I chuckled, hoping it was a bit of a taunt against the [Dungeon Master].
+
+I did double-check my cores, and there was no risk of them boiling alive or anything of the sort. All things considered, I was in tip-top shape, and [Nitro Slime] and [Blaze Slime] had kept me safe and sound.
+
+"I wonder what was in those vials. I would've loved to add them to my spell orbs…" I sighed, feeling a little dismayed that I hadn't noticed the trap.
+
+Yes, I'd spent all that time and effort checking the chest for traps. Yet I'd entirely overlooked the fact that the pedestal was the actual trap. I even assumed it was probably just a simple pressure-weight trap, and that removing the items had triggered it.
+
+At the very least, I had gained the two enchanted items, which were in fact real. Apparently, the [Dungeon Master] hadn't skimped out for fear I'd suspect something if there was nothing but garbage in the chest.
+
+"Well, let's move on."
+
+I moved over to one of the doorways. I was tempted to eat my way through the door as a bit of revenge, but when I noticed the gap was small enough, I instead tore open another rift and went through. I was definitely curious about the dungeon brick, but I could eat plenty of it when I had defeated the [Dungeon Master], and I still wanted to focus entirely on my [Personal Rift] for now.
+
+The next room I appeared in looked normal, but it was full of monsters. At first, I thought they were crabs, but [Identify] called them "pistol shrimp," and there seemed to be quite a variety of them, coming in all sorts of colors and sizes, likely due to different mutations. However, one common, very notable feature among all of them was their massive claw.
+
+"Only one? Why not both?" I wondered out loud.
+
+The monsters didn't respond verbally to my question, but their demonstration gave me an answer. All of them seemed to point my way and shut their claws so fast that even my vision could barely tell what had happened. With a cacophony of clicks, there were suddenly numerous invisible blasts striking against my body.
+
+"[Steam Magic]?" I wondered at first, judging by the almost impossibly hot water that had struck me, but judging by their relatively low Mana levels, it must have been a natural phenomenon.
+
+Whatever they had done, it had boosted [Tempered Reinforcement] to its maximum bonus, and I was suddenly glad I hadn't dismissed the trait yet. Their attack probably wouldn't have been lethal, but without it, I probably wouldn't have been left so unscratched.
+
+I chalked it up to good luck after falling victim to the trap, and with a wave, I ripped open three apertures: one by me and two behind the small platoon of shrimp. Withdrawing a large quantity of slime, I thrust tendrils through the rift, and emerging out of the two exit points behind them was my attack.
+
+The shrimp had continued shooting at me, almost relentlessly. There were a few strange mutated ones in the mix, but despite that, it looked like my defenses would hold. Meanwhile, my tentacles, emerging from the spatial tears, began their invasion and started abducting the shrimp from behind. As soon as one was caught, it was dragged helplessly through the dimensional crack and into my slimy stomach that awaited them inside.
+
+This was how I'd been going through most of the prior rooms, hoping to leverage [Personal Rift] as much as possible, and it had blown my expectations out of the water. Being caught by my pseudopods was practically a death sentence for the vast majority of my opponents, which was why so many of them would avoid coming into contact with me.
+
+I had initially thought of using teleports to get behind enemies, and in most cases, that would be enough unless they had quick reflexes or a way to detect me. That elf assassin was too fast for me to grab, and even [Blink] or other teleporting would probably not be enough for me to catch him.
+
+However, [Personal Rift] had basically changed the game entirely. Why teleport when I can attack from almost any angle? Not to mention that each aperture that I gained would give me another entire avenue of attack! I only needed one entrance, and as long as I filled the rift with slime and stayed connected to it, I could strike through any exit point!
+
+I had already mentally apologized to the skill, as my initial impression had been relatively poor. Yes, it was well worth the skill and trait points I had spent to grab it.
+
+Although I'm still not paying for my personas to have their own. My trait points are too low!
+
+The pistol shrimp eventually noticed my own attack, as their brethren's numbers rapidly dwindled. Some of them tried to retreat, using their claw claps to thrust themselves into reverse and away. But I'd already had quite a bit of practice, and the tentacles rapidly came back just as the tear closed. Then with a casual swish, new ones opened, and the tendrils burst out, hungry and waiting.
+
+"I wonder if I should save some for Vee and Leon? Or would that be like some strange type of cannibalism for them?"
+
+I wasn't sure, but I didn't want to be a victim of her verbal lashings, so I made sure to save some of their meaty bits inside [Core Storage]. Either way, I'd conquered another room and met a rather interesting monster along the way.
+
+"No time to wait, just a few more rooms like this and I should reach level four!"

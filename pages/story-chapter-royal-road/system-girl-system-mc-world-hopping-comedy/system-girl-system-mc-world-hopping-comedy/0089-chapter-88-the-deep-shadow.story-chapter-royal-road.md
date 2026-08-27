@@ -1,0 +1,179 @@
+---
+id: b4c158b3-d53a-58b6-b2de-59e7098e95e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88: The Deep Shadow"
+slug: 0089-chapter-88-the-deep-shadow
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 89
+ownLength: 2250
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3614102/chapter-88-the-deep-shadow"
+royalRoadId: "3614102"
+---
+
+I could not, for the life of me, understand who the parent was in this scenario.
+
+Ren was currently slumped over his massive oak desk in the study, sulking. His head was pillowed on his arms, his shoulders heaving with a slow, dramatic sigh every few minutes.
+
+Lily was sitting on the edge of the desk right next to his head. She was gently patting his hair with one sticky, chubby hand, attempting to console him. She cooed softly, offering up a string of soothing baby-babble.
+
+This scene reminded me of an old movie from Earth where a distraught child runs to their grandmother for comfort. Only here, the dynamic was completely inverted. The toddler was consoling the adult.
+
+It wasn't just Ren who was down. The entire house was caught in a miserable, heavy gloom. The staff had genuinely loved the two little human orphans. Raina and Liam were always eager to learn, always ready to lend a helping hand, whether it was carrying laundry for a struggling maid or peeling a mountain of potatoes in the kitchen. They worked very hard, and the stoic elven staff had come to admire their resilience.
+
+Now, the staff were taking shifts waiting outside the infirmary, hovering anxiously over the unconscious kids.
+
+[Ana: Ren. You are setting a terrible precedent here. At least don't go to the toddler with your problems. She's a baby, not a therapist.]
+
+"This is the only place where I can find peace at the moment, Ana," Ren grumbled into his sleeves. "Just let me have this."
+
+I really needed to get him out of this slump. It had been about seventeen hours since Smokey vanished into her own shadow. She hadn't even come back for dinner. This was a critical issue because Smokey had never missed a meal in her entire, short life.
+
+Even though I could see her real-time tracking data pulsing steadily on my mini-map, a cold dread was starting to creep into my processors. At this rate, the pup might take more damage from her own hunger bar than from any enemies she encountered.
+
+I was beginning to deeply regret my earlier words about nothing being able to hurt her.
+
+My digital stupor was violently broken when the little black dot indicating Smokey's location made a sudden, blindingly fast beeline directly toward our coordinates.
+
+I pinged Ren's mind with maximum urgency.
+
+[Ana: Ren! I think she got him. She's coming back fast.]
+
+Ren’s sulking ended instantly. He sat up, grabbing Lily and pressing a kiss to her forehead.
+
+"Thank you, my little peanut," Ren said, setting her gently into Mira's waiting arms near the door.
+
+Ren headed out of the study, moving with a cold, terrifying purpose toward the back shed. Seeing Ren head in that direction, Sylas fell into step behind him. The old butler looked absolutely furious. He was adjusting the fit of his white silk gloves with short, sharp, violent tugs.
+
+If there was something Sylas cared about more than propriety, it was the Master of the House and the staff he managed. They were like family to him. He had grown very fond of the hardworking human kids who never complained about the chores. Seeing them broken had shattered the butler's usual stoic facade.
+
+As soon as Smokey had left on her hunt yesterday, Ren had ordered the staff to clear a specific space in the cellar of the storage warehouse—the underground floor directly below where the massive holding tanks for the crustaceans were kept.
+
+No sound would leak out of that underground floor. Even if it did, any screams would be completely drowned out by the constant, rhythmic bubbling and splashing of the giant crabs in the tanks above. It was the perfect interrogation room.
+
+Kaelthos was already waiting for them when Ren and Sylas arrived in the damp, dimly lit cellar. The warrior stood up from a wooden crate.
+
+"I’ll go fetch the old man," Kaelthos said, his hand resting on the hilt of his sword. "Looks like it's time."
+
+...
+
+A few minutes ago, a man exited the Rustic Pearl.
+
+Often just called 'The Pearl' by the locals, it was an establishment run in the darker, seedier parts of Duckland. It catered to all kinds of customers, offering rooms, cheap liquor, and services suited to the twisted tastes of the nobility. The nobles called it the 'VIP area.'
+
+This was an establishment Raina would recognize very well. Her mother had worked here when she was alive. And the naive Raina had recently received the 'offer' to work here too, an offer she would have been forced to accept if she hadn't been saved by Ren from such a grim fate.
+
+The man exited into a narrow, filthy alleyway next to the VIP club. The exit was deliberately inconspicuous to make certain nobles could slip in and out without attracting the attention of the city guard or rival houses.
+
+But the man who exited was no noble. However, in Dolaria, if you had enough coin, you could enter the VIP area on the second floor regardless of your bloodline.
+
+A staff member held the heavy iron door open for him. Buck flipped a gold coin into the server's hand with a smug grin. The server happily caught it and closed the heavy door behind him, sealing the alley in darkness.
+
+This man usually ran a huge, unpayable tab with The Pearl. He was regularly denied any more services until he coughed up the money. But today, not only did he pay off his entire debt, he had enough gold left over to enter the VIP area and rent the absolute best company for the evening.
+
+His name was Buck.
+
+This was the very same man who had assaulted the kids in the rain. The drab brown hood and cloak were gone now. He wore a fine, albeit poorly fitted, velvet doublet. He had finally made it big. He had secured a huge bonus and the promise of steady work at Lord Greenwood's estate. He would mostly be disposing of bodies, burning them or burying them deep in the woods, but the pay was unimaginably good for a thug.
+
+Buck steadied himself by leaning heavily against the damp brick wall. He murmured to himself, his words slurring. "I can never go back to the first floor. The second floor... it has all the honeys. Makes the ladies on the first floor look like rotting old hags."
+
+His crude thoughts were interrupted by a sudden, unnatural movement at the edge of his vision. He let out a loud hiccup.
+
+"Did that nice lady give me too much booze?" Buck slurred, rubbing his eyes. "The shadows seem like they are moving."
+
+A moment later, he heard a deep, guttural growl directly behind him.
+
+He looked back. "Shit. What is that?"
+
+The shadow cast by the brick wall was pooling. It was detaching from the brickwork, coiling and twisting into a beast that made the hair on the back of his neck stand straight up.
+
+Buck had spent his entire life surviving on the vicious streets of the capital. He had developed a keen, almost supernatural sense of danger. Every instinct in his body, every alarm bell in his gut, was screaming at him to run.
+
+But he couldn't. Fear seemed to grip his boots, freezing him in place.
+
+Or was it his own shadow that was holding him? Black, wispy tendrils seemed to be wrapping around his ankles, preventing him from running away.
+
+His hands scrambled frantically to his belt where he kept his throwing knives. The blades were coated with enough concentrated poison to kill a war horse in seconds from a single nick. He hastily drew one and threw it at the looming figure of the beast.
+
+The knife seemed to pass right through the beast as if it were a mirage, clattering harmlessly against the cobblestones.
+
+Buck laughed, a hysterical, panicked sound. He was thinking he must be incredibly drunk, or this thing was just a ghost.
+
+The beast lunged at Buck.
+
+With a lightning-fast swipe of its claws, blood splattered out across the alley wall. Buck tried to scream for help, opening his mouth wide, but no sound left his throat. A cold, suffocating pressure seized his lungs.
+
+The wounds on his chest started oozing out dark, smoky tendrils that wrapped around him, violently zapping all of his remaining energy. He was definitely not drunk. The pain was far too real, searing through his nervous system.
+
+The beast then bit down hard on his shoulder. It didn't tear the flesh. Instead, it began dragging him downward. It was pulling him directly into his own shadow on the cobblestones.
+
+Buck couldn't even struggle. The shadow-taint had drained so much energy he was on the verge of going black. He slipped into the dark abyss without leaving a single trace behind in the alleyway.
+
+Moments later, the heavy iron door opened again. The light from the inside crept out. The same server Buck had tipped came out, looking confused.
+
+"Sir... um... anyone there?"
+
+He suddenly got bonked hard on the back of the head by an older man.
+
+"Kid! I swear if you snuck another sip from the customer's drink again, I ain't covering for you when the boss finds out!"
+
+The server looked back, rubbing his head. "Nah, old man. That's not enough to get drunk. It's just a nibble."
+
+The older man shook his head in disgust. "Close the door and get back to work before the manager catches you slacking."
+
+The server, while complying, noticed a fresh, wet streak of blood on the brick wall. He was just about to step closer to examine it when an enraged shout from inside the club made him rush back in, slamming the door shut.
+
+...
+
+Buck was scared shitless.
+
+He was completely blind. He couldn't see anything. He couldn't touch anything. He was floating in a terrifying, sensory-deprived void. The only thing keeping him sane, anchoring him to reality, was the piercing, burning pain of something biting down hard on his shoulder, dragging him across the endless abyss.
+
+There was something profoundly freaky about this experience. It was like sleep paralysis. You couldn't wake up, no matter how hard you tried. You couldn't move. The fear kept building and building in your chest until you felt like your heart was going to explode.
+
+Suddenly, he was expelled from the abyss, hitting cold stone with a bone-jarring thud. His vision blurred, swimming with the sudden return of ambient light.
+
+The first thing he noticed was a voice saying, "Good girl. You did good. You must be starving. I have a huge spread ready for you upstairs."
+
+When his eyes finally cleared and adjusted to the dim light of the cellar, he could see a man aggressively rubbing the belly of the beast that had dragged him through hell.
+
+Buck could finally make out the beast's appearance. It was a wolf.
+
+Wait, Buck thought to himself, his panic giving way to sheer confusion. This terrifying wolf is acting like a spoiled pet? What is this? When I was attacked, it felt like a demon. I will demand compensation from whoever owns this beast for attacking me in the street!
+
+He looked around the damp room. He saw three elves. One was wearing glasses and adjusting white gloves. One was holding a very sharp blade. And the final one was sitting next to a wooden table, calmly sipping a steaming hot liquid from a round cup. Maybe tea.
+
+The old man sitting at the table was very, very old.
+
+What is going on here? Buck wondered.
+
+Then Buck looked closer at the old man sipping tea. He recognized that face. He had seen it on bounty posters and in whispered warnings among the thieves' guilds.
+
+He lifted a trembling hand, pointing his finger at the legendary Archmage. "Maa... Maa... Master Caladorel?"
+
+The elven butler standing nearby grabbed Buck's extended finger. Without a single word or change in expression, Sylas twisted the finger violently backwards.
+
+SNAP.
+
+The bone broke, bending backwards to touch the back of Buck's hand.
+
+Buck opened his mouth to scream in absolute horror and blinding pain.
+
+"You were very courteous to my trainee staff," Sylas said, his voice a low, terrifying whisper as he held the broken finger. "Allow me to return the favor."
+
+Buck was catching his breath, tears streaming down his face. The severity of the situation finally crashed down on him. The Archmage. The deadly wolf. The ruthless butler. The Lord standing over the beast.
+
+He was a dead man.
+
+He realized what they wanted. They wanted to know who hired him. If he talked, Lord Greenwood would ensure his entire extended family suffered a fate worse than death.
+
+His tongue darted to the crevice of his back teeth. He found the hollow molar. Death was better than the implications hanging in this cellar.
+
+He was just about to bite down on the hidden poison capsule when the warrior elf, moved with blinding speed. Kaelthos shoved his own thick, leather-clad finger directly into Buck's mouth.
+
+Buck's jaw clamped down involuntarily. Instead of crushing the poison capsule, he bit down hard on the elf's finger.
+
+The capsule remained intact. His only way out of this nightmare, his guaranteed quick death, was foiled.
+
+Buck looked up at the cold, unfeeling eyes of the people surrounding him. He realized with absolute, horrifying clarity that he was royally screwed.

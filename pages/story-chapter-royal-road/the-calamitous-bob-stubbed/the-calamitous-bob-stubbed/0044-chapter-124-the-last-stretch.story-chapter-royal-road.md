@@ -1,0 +1,439 @@
+---
+id: 9b09c958-d2e6-595a-8c6c-09a0279dcdda
+page-type-slug: story-chapter-royal-road
+title: "Chapter 124: The last stretch."
+slug: 0044-chapter-124-the-last-stretch
+partOf: the-calamitous-bob-stubbed
+position: 44
+ownLength: 5923
+unit: words
+ownProgress: 5923
+publishedAt: 2023-06-30
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1262799/chapter-124-the-last-stretch"
+royalRoadId: "1262799"
+markedReadAt: "2026-06-29T21:16:15.459Z"
+---
+
+There was a trail up leading to a ridge facing the entrance to the lone mountain. Viv knew they would have to climb that then walk down to the merl’s hidden city. They immediately set out, Sidjin strangely giddy.
+
+The trek led briskly uphill. With their gear, it would have been an extremely challenging task, but here Viv had a power of 21 and she was fit. It merely counted as more than a nice afternoon stroll.
+
+The Deadshield Woods smothered them with its pervasive aura, yet Viv never felt it move and they were never sidetracked. The path was rocky and most barren, leading her to believe that the woods might only teleport them around if they couldn’t see where they were going. Kind of like… quantum thingies. She was in an uncertain state so long as she could not observe the treeline.
+
+Given how magic here worked, it might even be true.
+
+The morning turned into afternoon, then into early evening as they proceeded to basically climb a small mountain chain. They didn’t see any merl or signs of them, but Viv fully expected that they’d be spotted by sentinels far above and would soon receive a visit.
+
+The pair set upward into a small valley cut off from the wind. It was already chilly here, but Sidjin was a dear and soon they had a ward system complete with temperature control and, at Viv’s request, non-lethal measures. They fell asleep side by side, confident nothing out there could pierce their defenses without waking them up.
+
+The next morning, there were still no signs of the merls.
+
+Viv led the way as they approached the ridge. She recognized some of the rocks and gullies she had passed on the way down almost four months before. The stiffly inclined terrain made progress challenging. Thankfully, her lover came in clutch once more. He would shape stairs out of the mountainside on regular occasions with nothing more than a wave of his hand. That was probably for effect too. Viv let him flex and teased him when he did so. Even then, the pair was starting to worry.
+
+They reached the last hurdle when they stepped onto a plateau with a small pine forest and a very deep lake of glacial blue water. Viv felt some resistance and looked down, finding a transparent thread drifting in the cold wind. She shivered.
+
+“Hmm, I think I stepped into… a spider thread. And it might have been an alarm.”
+
+“It was definitely a spider thread, darling.”
+
+Sidjin pointed up. There were webs around some of the trees, the dense lattices still holding morning dew.
+
+“Oh,” Viv said. “Oh no.”
+
+A moment later, a massive eight-legged creature emerged from the edge of the meadow. It was similar to the warrior spiders Viv had faced back at the village, though lighter in color and a bit leaner. The monster clicked and hissed.
+
+On its back, a merl sat.
+
+“Hello hello!” it said in Enorian.
+
+Sidjin greeted him happily in a tweeting tongue. it felt strange in the mouth of a human, but it was obviously working. The merl seemed excited.
+
+“He says he’s normally posted below but they retreated when the necrarch roared. Sometimes, it goes out to hunt and the merls who stay are never found again. He’ll gladly lead us to… are you alright, darling?”
+
+“I hate spiders I hate spiders I hate spiders I hate spiders I hate spiders I hate spiders I hate spiders I hate spiders I hate spiders I hate spiders I hate spiders I hate spiders I hate spiders I hate spiders I hate spiders.”
+
+“It’s perfectly fine. Our friend Gillis here says the shamans have domesticated a brood mother. The merl are using the spiders as mounts and beasts of burden. It is perfectly safe!”
+
+“But why? Why?”
+
+“I didn’t realize you had something against spiders, darling.”
+
+“They tried to eat me. Many times. Does that count? Also, giant spiders? How are you fine with that?”
+
+“It will be fine. Gillis offered us to ride Spindlecalf. That’s… how he calls the spider.”
+
+“Fuck the hell no.”
+
+“He’ll gather his squad and then we’ll get on our way.”
+
+“Do they also ride spiders?”
+
+“... yes?”
+
+“Can I burn the entire valley down?”
+
+“You don’t have the red mana to do that.”
+
+“Dammit.”
+
+***
+
+The merl patrol walked back on their mounts. It annoyed Viv that eight legs made the monsters much more stable. They moved effortlessly while Viv… did not. Sidjin and herself had to accelerate to match even their slowest speed. This changed after they passed the ridge and the ground flattened a bit more. Giant spiders were apparently not that fast on flat ground, a bit like the merls themselves. Or at least, not their cruising speed.
+
+The squad stopped around mid morning to feed their mounts from gourd containers filled with some sort of slurry that smelled strongly of fruits and nuts. The humans swapped fresh veggies for their own meat jerky, much to the merls delight. Those were young ones, Viv realized. They were at the edge of the third step. It was possible that they had changed recently to match their new spider-handling capabilities.
+
+Soon enough, the first of the tree-built structures and hanging fields appeared, a sign of return to merl civilization. The laborers showed the same mix of excitement and fear they had the first time Viv had passed through. There were no signs of more spiders, which comforted Viv.
+
+“He says the spiders live in the deep woods, not far from the capital city of Peace-at-last. Sikoua in their language. He says that the spiders accept a symbiotic relationship, that is, he used a metaphor to indicate that. However, there are limits to what the brood mother is willing to do. Relocating is one of them. There are a few spiders in Sikoua. They are used to move goods quickly between floors. Oh, and make silk.”
+
+“If I find a spider in my hair, I’m burning the whole place down.”
+
+“I’ll make a repulsor ward, it stops anything below the weight of a small nut from entering. You’ll be fine.”
+
+Viv grumbled incoherently. Spiders. She hated spiders.
+
+Sidjin was recognized for the first time in the outskirts. A female Merl came and touched his hands, caressing the fingers with reverence. She also showed him her first grandchild. Viv found the moment moving. After that, a small procession followed Sidjin as he moved closer to the pit where Sikoua was hidden. More and more adults came to pay their respect, to express their gratitude. The name of Sidjin was on every lips, well, beak, and runners carried the message far and wide.
+
+Tweek waited for them by the city entrance.
+
+When the two saw each other, Sidjin raced forward to hold the reverent shaman in his embrace, while Tweek took only a few stumbling steps forward. Viv watched the old merl’s thin arms lock around her lover’s broad back with an indescribable feeling of pride. She could see from an angle that Sidjin was crying.
+
+It took a minute for them to separate. When he did, Viv caught the fallen prince’s expression on the smooth part of his face, the one without the scar. Like that, in the shiny light of noon, he appeared so young and so hopeful, a far cry from the hardened survivor she had grown to love. He must have looked like that in the early days of the beast tide, full of hope. Before his nation cracked them on the bottom of Glastia’s long wall. He really had the prince charming persona going for him.
+
+Viv felt a strange feeling of possessiveness fill her heart. She wished she could capture this happy Sidjin to preserve it in amber when he woke up in screams in the middle of the night. She also felt a little envious that someone else could trigger such a reaction, but it was an ugly feeling and she smothered it quickly. That envy was soon replaced by anger at those who had made a bleak world bleaker through the selfish blade of self-interest at any cost. It made her a little bit mad.
+
+She saved that tiny ember of wrath for later, choosing instead to wear her most brilliant smile. Today was a happy day. Revenge had no place in it. Instead, she mingled and talked with those few who could speak Enorian. It was a bit difficult to admit being ‘Sidjin’s mate’ instead of Viviane Saint-Lys, certified badass and teenage dragon wrangler extraordinaire. It would be fine for one day. Three hours at least. Two hours.
+
+There was, of course, a party. At first, Sidjin tried to translate for her but she insisted he just had fun. This was his moment. Tweek and himself spoke in a mix of merl and northerner. It was the first time she’d heard him speak his native language for so long. His voice felt deeper, but maybe that was his imagination.
+
+They talked, they drank, they moved to the statue where Sidjin both laughed and cried. They teared up talking about the departed and drank to every saved family, every recovering clan. They feasted on meat and fruit and a strange bread made from a tree’s inner pulp. Viv was content staying as an outsider, for now. Towards the middle of the night, Sidjin made a spell demonstration to the amazement of the locals. The celebration spread throughout the city like a wildfire. By the early hours of dawn, the primitive rendition of Sidjin had been replaced by a cartoonish version of himself by his own hand. He had even spelled the chin to be as square as a brick for ‘extra virility’. The two humans made love until dawn then they promptly fell asleep. The party calmed down the next day.
+
+***
+
+Sidjin spent the next day building a teleportation circle and talking to his dearest friends. Fortunately for the fallen prince, the merl had a hangover tea that did wonders for the plastered mage. As for Viv, she had made sure to stay hydrated throughout the night and had thus escaped his cruel fate. The merl were going to be granted the tools to reach civilization. Sidjin had the right to one teleporter for personal use according to his contract, This would be it. As promised, he would not profit from it financially.
+
+Viv was a little surprised since the merl had favored isolation so far, but the spiders changed the deal. The merl still had a dearth of elites after the mauling they’d taken on the walls but siege tarantulas had a tendency to even the scales on account of weighing upward to three tons. It was time for the merl to trade and obtain iron when they could. Sidjin would help them. And if anyone tried to bother them, they would have to contend with the woods, the spiders, the merl… and Sidjin.
+
+Before they left a day later, Tweek and the elders gifted the couple rolls of royal spider silk. It was one of if not the most expensive fabric on Param by surface. It took to enchantments almost as well as silverite did. Viv already had designs to get herself a new battle robe. Soon after, they left, with Sidjin promising to return often.
+
+***
+
+Viv returned to Helock on a beautiful autumn evening. It had been cold and rainy in Losserec. Her day also felt a little shorter, the sun setting a little earlier. Viv was one of the few privileged people on this planet to experience jet lag. Or teleportation lag. She was back to having first world problems.
+
+There would be no academy break for the next six months. Instead, the students were expected to travel on various missions to prove their abilities in their selected subjects. This allowed mage apprentices to serve their own nations, and for the freshly recruited wild talents to get a taste of what they could expect after graduation. Most of those would then join their patrons permanently while a few would switch allegiance, and those who preferred to work alone could take the time to find their paths. It was a well-practiced method.
+
+As for Viv, she would accept or refuse Elunath’s offer by the end of the semester. She judged it unwise to wait until she started to die to do so, and Solfis had described the process in detail. Her organs would start failing one by one, at first temporarily and then for extended periods of time.  Her existence would become miserable rather quickly. Even the support of the Academy and the elemental fruit she had consumed would only mitigate the symptoms. No, there was little reason to extend her agony since she would be unable to find valuable things to sell the archmage. She just had to work twice as hard while she was still hale and gaining power.
+
+This led her to Elunath’s receiving room, alone, where the chiseled mockery of a man waited for her with his perfect physique and his barely veiled condescension.
+
+“Hello. You are here, so I assume you have something for me?”
+
+“Yes. How much would you give for this interesting find?”
+
+Viv picked a sealed box and slammed it on the desk, unlocking it a moment later. A chilly aura of death and rage filled the pristine office like a stain on a porcelain cup. Elunath’s perfect face twisted even further, which Viv thought couldn’t possibly be done.
+
+“Where did you — Nevermind, I suppose I can guess what kind of ruins can produce such a terrible artifact. Please tell me you have not wielded it?”
+
+“I’m more of a knife girl myself.”
+
+“Of course you are. Just know anyone who touched that is probably being eaten alive and turned into an aberration right now. What a dreadful weapon. I will be conducting an aura analysis then destroying that thing, as you should have if you had any brain.”
+
+Viv didn’t reply, merely smiled instead.
+
+“I will buy it off you for seven years. And only because I want it off the streets. There is nothing good to be drawn from something so vile. It is an antithesis to everything this world stands for. A cancer.”
+
+It was comforting to see that despite the stratospheric opinion Elunath had of himself, he still possessed some common sense.
+
+“That leaves you with seventy-three years, three months.”
+
+“I have a collection of texts that will allow you to decipher primitive human and ancient Harrakan.”
+
+“I already have sufficient knowledge of old Harrakan,” Elunath said dismissively.
+
+“Even the idioms?” Viv asked with fake surprise. “The important events as well? Cultural references?”
+
+“Give it here,” the man replied in a tired voice.
+
+Viv waited for a few minutes while Elunath leafed through the first of the collections Solfis had prepared. He moved faster than any scholar could, thanks to stats fuckery, but Viv could still tell when he stopped longer than usual after finding an insightful translation. He also had a quick glance at the primitive runes dictionary.
+
+“Nine months for the Harrakan one, but only because it will allow me to use the ancient human translator to its utmost. I will admit… it is a tremendous find. I will give you twelve years for that, as there are some precious northern texts I can cross-reference… hmmm. Yes. In any case, congratulations. Sixty years and six months. Do you have anything else?”
+
+Viv showed the core. As soon as it cleared the bag, Elunath’s eyes widened with envy.
+
+“Ah, what a magnificent specimen. Necrarch, yes? An old one?”
+
+“Very old.”
+
+“Yes. What an extraordinary find. It is almost a waste… but no, this will guarantee the success of the operation. It is worth twenty years, as I said before. You have just saved me quite a bit of time and expenses. And proven yourself immensely resourceful. Well done.”
+
+Elunath extended his hands, but Viv declined the request.
+
+“I’ll hold onto it. For now.”
+
+She saw a hint of fury in the man’s eyes for the tiniest moment, an instant so fleeting she might as well have imagined it. It was as if the overwhelming presence he emanated had solidified and she was hitting a wall. Yet, his composure never broke.
+
+“Very well, it is your right. The end result will be the same in any case… unless you lose it.”
+
+“Very few people know I have it at all, and I trust all of them to keep it secret,” Viv replied politely.
+
+The two stared at each other, hidden behind their smiles.
+
+“If you think this is best. Anything else?” Elunath asked.
+
+Viv turned up a few precious resources, including necrarch claws and a few mana-saturated ingots of precious metal. They would have value for a smith and she supposed Elunath might find an interest in them. In the end, her time was reduced to thirty-seven years.
+
+It was much better than she anticipated.
+
+“That’s all for me,” she finished with as much calm as she could.
+
+“Very well. My turn then?”
+
+“Hm, yes?”
+
+“Yes? Or yes.”
+
+Viv resisted the urge to roll her eyes. She hoped there would not be any time left on their contract, or the servant contract would make her life… difficult.
+
+“Yes, you may begin,” Viv replied.
+
+Elunath swallowed his anger once more. It occurred to Viv that she should really try to control herself. There was no need to provoke every authority figure she came across. Just half would be fine.
+
+“I seem to recall that you would not be adverse to some covert activity, so long as it remains righteous. Am I correct?”
+
+“Yes, although I would prefer to learn more before agreeing to anything.”
+
+“Naturally,” Elunath smiled. “It so happens that the Skaima family has been gaining a lot of influence recently. Now, I do not begrudge lesser clans the drive to improve their lot. Helock depends on a healthy competition to ensure the wiliest and most capable politicians of each generation rise to the top. Unfortunately, the Skaima’s ruling couple has been resorting to… shortcuts. Several of their opponents have disappeared recently, assassinated by a fairly competent mage. After careful observations, I have determined that the Skaima have been relying on something called a hidden branch. Are you familiar with the term?”
+
+“You mean a secret group?”
+
+“No. The expression is Helockian. It refers to a hidden branch of the family tree, a talented mage trained in secret so that they may follow a path of both mage and infiltrator. Someone tries this every few generations. It seldom ends well. Can you guess why?”
+
+“I assume they are not treated very well.”
+
+“Precisely. In order to maintain the cover, they must be pariahs with little official talent. The discrepancy between their usefulness to the family and the recognition they get in return always leads to disaster. Either they take revenge on the leaders or they make mistakes. Grow too cocky. I have identified the man whose status and attitude do not match as Jin Skaima. You will intercept his carriage as it returns from a nearby village and attack it, posing as highwaymen. Your mission is to get him to demonstrate his magical abilities in front of the other occupants, nothing more.”
+
+“You mentioned highwaymen, plural?”
+
+“Indeed. You will render assistance… oh, let me be perfectly honest. Your role is to manage young Sonagi while he holds Jin Skaima back. You certainly have the ability to manage Skaima yourself. Unfortunately, your brand of sorcery is too specific and you will easily be recognized. Sonagi has an even distribution of several elements he uses rather well. You need to handle everything else for this operation.”
+
+“Can I bring outside talent in? I don’t have experience in brigantry.”
+
+“You may use all the resources you deem fit so long as the job gets done. Oh, and another thing. Should you or your allies be compromised…”
+
+Elunath let her finish the sentence.
+
+“You will deny all knowledge of our actions?”
+
+“No, I will kill you in your cell.”
+
+“Ah. Well.”
+
+“This will grant you another ten years. If you succeed.”
+
+“I accept but I have a question. What if Jin Skaima decides to kill the other passengers and blame it on us. Remove the witnesses?”
+
+Elunath huffed a little laugh.
+
+“It did not take you long to figure that out. The other passengers will be a noble family, a local one. If Jin dares kill them, I will… strongly advise the bereaved to investigate him. He will fall, no matter what. As long as you get him to use his power. Rob him of all his belongings. If necessary, humiliate him. People like him are very sensitive to humiliation by someone they consider their lesser.”
+
+“I understand.”
+
+“Good. This file contains the details on the operation, itinerary, schedule, patrols, all you need. Do not take too long with the robbery or you may have pursuers. Oh, and contact Sonagi quickly. He needs time to… get ready.”
+
+“What’s the issue with him?”
+
+“He will tell you himself if he feels like it, though as for the symptoms, you shall notice them rather quickly. Off you go then, I have another appointment.”
+
+Viv left without a word. Lani was waiting in the antechamber. One of Elunath’s servants, Lani was a blue mana mage with very pale skin. She always wore blue robes whenever Viv had met her.
+
+“You should avoid provoking him,” she whispered once they were far enough away.
+
+“You were eavesdropping?” Viv asked back. The door had been closed.
+
+“No but we have grown with him as adults and mages so we are more sensitive to his mood. Elunath tends to keep score. Your service will be easier if he has a better opinion of you. Although, no matter what, make sure it is short.”
+
+“Is there something you’d like to tell me?” Viv asked after a short moment of silence.
+
+“I would be some alderman’s wife latching an eighth child to my teat now if he had not found me, not a respected scholar of the arcane. He rescued us from a mediocre life. All of us. But you are different. You are prideful. Probably noble-born. Taking orders will not come naturally to you, and you are too old and stubborn to be molded. If it only takes a few years, you can endure it.”
+
+Viv watched Lani as she walked but the woman averted her gaze, her spine ramrod straight. They passed by another woman Viv had not met. This one was tall and tan with a powerful brown aura. A sari-like cloth covered her lithe body. She was taller than Viv. The woman sneered at Lani on the way. Viv waited until they were close to the entrance to ask her next question.
+
+“How long is your contract for?” she asked.
+
+“Another twenty-three years.”
+
+“By the gods! This is horrible…”
+
+Lani smiled a bitter rictus that never reached her eyes.
+
+“We do not all have the luxury to choose. Even as a servant here, I have more freedom and power than any woman from the village. My skin is not dry from the salty wind and my hands are free of calluses. My room does not stink of fish gut and unwashed bodies. I am one of the privileged few. This is the world you live in now, Viviane the Outlander. Never forget that.”
+
+The door closed on Viv.
+
+“This isn’t my Harrak,” Viv replied to the thick pane.
+
+“This isn’t the world I’ll build.”
+
+***
+
+Viv returned to the hospital in the afternoon and stayed there until late at night. As expected, there was a wave of new amputees to take care of. She worked relentlessly, only stopping to have the priest heal the scars on her hand, the result of the necrarch’s spell. The witch was not beyond some cosmetic surgery. They also smoothed the dragon scar on her arm, the one Arthur had given her with her first fire. Viv thought it looked super cool and it had an emotional value as well. The next day, she returned to the five fishes inn where Solfis was waiting alongside his second, Lim the fell-handed. She had her arm in a sling.
+
+“Your doing?” Viv asked as they sat around a table.
+
+//Lim has recently faced some challenges to her management.
+
+//Fortunately, she has managed to outlive enough of the competition to stay ahead.
+
+//I have provided a permanent solution to most issues upon my return.
+
+//You may consider the situation resolved and our position in Helock strengthened.
+
+“Ok good, because I need to commit highway banditry.”
+
+//Are we diversifying, Your Grace?
+
+“It’s for Elunath.”
+
+Lim the fell-handed went over the plan Elunath had proposed and delivered her verdict immediately.
+
+“It is completely retarded,” she uttered in broken Enorian. “Made by a man with a swine for a father.”
+
+“Can you elaborate?”
+
+“This place, good, but no tree. Plan says put tree on the road. No tree around. Have to fell tree then drag it. This place has traffic. You are seen long before the carriage can be stopped. It is bullshit stupid.”
+
+“What do you propose then?”
+
+“You will have mage, yes? Have mage use brown mana, make ground soft and sticky. They all know this spell. It stops the carriage. Then we come out.”
+
+“We?” Viv asked.
+
+Lim shook her head, frizzy hair drifting with the movement.
+
+“You are stupid. Highwaymen are always at least five or six. You need eyes on the victims and someone to grab the valuables. Any less, guards suspicious. Who is the target?”
+
+“Jin Skaima.”
+
+“No,” Lim insisted. “The target is the nobles and their gold. We are here for the gold. We have a minor talent mage with us. The target reveals he is a mage. We poison him, run. They go back. He is caught.”
+
+“Oh, misdirection. I like that. And you said we would poison him?”
+
+In lieu of an answer, the dark-skinned woman produced a needle from thin air. A single drop of transparent poison dripped down its length, landing on her ink-soaked nail.
+
+“I poison.”
+
+“Why didn’t you try it on me?” Viv asked, suddenly suspicious.
+
+When Viv had first met Lim, she had been after the kidnapped Arthur. Lim had guided her through the Helockian underground without resisting.
+
+“I see you cut assassin above you like meat on the market square. You blocked his knife with a steel shield. Always have dark armor around you. Always look at me. Never too close. I checked. No safe opening.”
+
+“Huh.”
+
+“It was well done. Very smart for a caster. I approve. Now, when we stop the nobles, I poison Jin. That way, he cannot fight when he wants to fight.”
+
+//Lim’s path allows her to activate the poison she injects as she desires.
+
+//Increasing or halting its effects.
+
+“What fucked up path needs to manage poison?”
+
+//Lim is a blackmailer.
+
+//Her entire path is dedicated to forcing people into doing things they do not wish to do.
+
+//By any means necessary.
+
+Lim smiled. It wasn’t Viv’s first time fighting with assholes on her side but Lim certainly took the cake.
+
+“We will have to train first,” Lim said with conviction. “You are not highwayman material.”
+
+“Well, thanks I guess.”
+
+“No. I do not mean the mind, or the guilt. I mean that you walk wrong. Talk wrong.”
+
+Lim tsked softly before reclining in her chair. She stared at Viv with a strange intensity that Viv found unsettling when compared to her otherwise plain appearance. Lim cultivated that plainness like a careful garden. She was dressed in a low level clerk robe, didn’t wear jewelry besides a simple ring, and held her black hair back with a simple band. No makeup smoothed the harsh lines of her face. Viv could have walked by her a hundred times without thinking much about it. Only now, in the recess of the tavern’s secret room, did she look like the predatory mind she was.
+
+“You walk like war mage. You look at men or things when you want. You do not move around groups that might hurt you. You do not look at a powerful man and think, must I bow? How deep? There is no fear in your head and no bend in your back. This is wrong. Highwaymen are scared. They must always run. If you wait for too long, mounted guards find you, you die. You sell to the wrong person, you die. Your share is too big, or too small, you die with a knife in your ribs. Except, you are a woman. So you are raped first. Then, you die. You want to be a highwayman? You need to be very afraid and a little crazy. I can show you. But you cannot be you.”
+
+“Alright. Fine, whatever. We can practice a bit while we wait for the carriage. Please arrange the details and find me men, I need to go fetch our mage.”
+
+//I shall send an urchin to help you.
+
+***
+
+Finding an address in Helock was not as easy as counting street numbers. First, most streets had no name. Second, if they had a name, it was called the three whores alley or the stiff pisser lane. As Viv found out, one of the places had those two names at the same time, depending on who you asked. It would have been easy enough to find a house in a richer part of town. Find the closest major estate then walk in the indicated direction, asking staff or reading names.
+
+Sonagi didn’t live in a nice part of town.
+
+“Are you sure it’s the right way?” Viv asked her guide.
+
+The street boy’s face turned into a rictus of abject terror. Viv immediately felt like shit.
+
+“It is ma’am, am not lost, swear on my mother, I do. Just two more turns. Two more turns! Please!”
+
+“It’s fine, calm down. I am… merely surprised.”
+
+“Oh. Yes, weird place for a mighty mage, beg your pardon. It’s old Gyrna’s slum. Cheap but clean and ordered. She got sons and those got cudgels. It’s the best for those who are down on their luck. You still need to pay on time. Or else, cudgels.”
+
+“Huh.”
+
+Surrounded by dilapidated houses, Gyrna’s ‘pension’ was a high-walled compound made by blocking off three of the four ways of some backstreet crossroad. The brick and cement partitions looked amateurish yet sturdy. Someone had made a token effort to paint one side, at least. A pair of thuggish guards only a few evolutionary stages below sapience watched them approach. They were clean in rough cotton clothes and wore the cudgels she’d been warned about. After tipping the urchin since she could find her way back by herself, she stopped by them and removed her hood, giving them time to understand who, or what, she was.
+
+While the pair exchanged their lone neuron back and forth by means of bovine glares, Viv inspected the place. Gyrna and her brood had turned the center of the crossroad into a garden with a couple of sickly trees and bushes, now denuded of their leaves. Someone had swept the ground recently. It wasn’t filled with detritus like the rest of the street.
+
+The two thugs were at the stage where they were looking at each other in alarm. Viv decided they were ready enough for communication.
+
+“I am here to see Sonagi. Kindly lead me to him,” she said.
+
+After two seconds of delay, the first grasped his cudgel in a death grip and tried a reply.
+
+“No killing on property grounds.”
+
+“If I were here to kill, I would not be waiting for you to guide me. Now, you, please lead me to Sonagi. I am with his employer.”
+
+“Uh? Ah, alright. Then. Yeah. You stay there, Nug. I’m going.”
+
+The guard walked resolutely towards the back of the property. It was silent in the late morning as, she suspected, most of the dwellers were actually working. Sonagi’s quarters were at the back on the ground floor, sharing this side of the block with a frowning, veiled woman who squinted at Viv as she passed. The first thing that struck the witch as she passed by was the smell.
+
+While the rest of the compound smelled as fresh as possible for something stuck in a filthy metropolis that engaged in fishing, the stench of rancid booze and the reek of those who digested it permeated the air. Viv undid the half-decent ward on the door without much issue, then she opened. Then she took a step back.
+
+A veritable cloud of alcoholic sweat almost made her gag. It was dark here, the light of the sun reflecting on a crystalline landscape of empty bottles. Some still hid dregs of potent liquor. A shape was sleeping in the cot, the only furniture besides a broken wardrobe held upright by some violation of the laws of gravity. Viv approached, then reconsidered.
+
+“Is there water here?” she asked the thug.
+
+The man smiled and nodded. They had a well in a corner with a wooden sign warning that releasing wastes within would be punished with instant expulsion. Viv started to draw water but the thug stepped in, voluntarily filling and carrying the load for her. She only picked it back up at their destination. After asking the thug to step back a bit, she upended the entire thing on the sleeping man’s form.
+
+“Arg! You asshole, I’ll fucking kill youuuuuuu!”
+
+“Wakey wakey motherfucker,” Viv greeted congenially.
+
+“You bitch. If it’s money you want, I don’t got any. Now… fuck off!”
+
+Viv felt a kinetic spell latch on her chest and push. It would have smashed her out of the door if she had not coated herself in mana beforehand.
+
+Viv was starting to suspect the thug had helped her to see at least one haughty fucker brought low. Fortunately for Viv, she had been brought low before and came prepared.
+
+The man’s control despite the circumstances spoke of great skill backed by effort. His eyes cleared a bit.
+
+“Ah. Fuck.”
+
+He sat down and waited for her to speak.
+
+With some light on his features, Viv finally got to see the man who would cover her back. In theory. He had a soft, almost dreamy face with large brown eyes that would have made him cute in another life, but the ravages of poor living were obvious. His eyes were bloodshot, his skin yellow and pallid, drawn taut over hollow cheeks and topped by a dirty bird nest of light brown hair. The stained shirt falling from his gaunt frame revealed a skeletal shoulder blotched by sores and a bruise. He stank to high heaven.
+
+“So… has the council finally decided to finish me off? I see no guards.”
+
+“I’m here about a job. A common acquaintance led me to you.”
+
+“A job? Oh. Oh! Shit, you’re one of his girls! Of course. My bad I… Let me just get. Urgh.”
+
+Viv watched him blearily sort through trousers and shirts she would not use to soak piss off street paving.
+
+“Would you mind waiting outside?” he asked “I got to take a dump and I drank my fill yesterday so… you know. Gonna smell worse.”
+
+Viv slammed the door shut behind her.
+
+There was perhaps four days left before the attack.
+
+There… might be a problem.

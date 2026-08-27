@@ -1,0 +1,167 @@
+---
+id: 68a266f8-4e0c-5742-884c-882683b9dfb1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 645: Is it Luck?"
+slug: 0067-chapter-645-is-it-luck
+partOf: system-change-system-universe
+position: 67
+ownLength: 2942
+unit: words
+publishedAt: 2026-04-30
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3338719/chapter-645-is-it-luck"
+royalRoadId: "3338719"
+---
+
+Chapter 645: Is it Luck?
+
+"How long can he go on like this?" Amelia asked Marrick as they stood back and watched the ghoulish figure of Jace unleash himself against Herring. In his current state, Jace dodged more projectiles and water-based weapon attacks than ever before, but he also didn't bother trying to dodge a lot of them when he could exchange blows with the man.
+
+"I don't know," Marrick answered. "Last time I saw him like this, he was fighting Derek, and he was able to stay like this until Derek basically knocked him unconscious. I don't know if there is a time limit or if his Battlelust drains or what. I just know that after the battle, his body is going to be in bad shape, and it's not going to be a simple process for him to recover."
+
+"I don't like this," Amelia finally said after a moment. "Having to rely so much on another person just to survive."
+
+"Nobody does," Marrick replied. "But it's what we have right now."
+
+"Even in that state, is he even making a dent?" Amelia asked.
+
+"Oh, he's making more than a dent," Marrick replied. "It may seem like Jace is getting the worse end of the exchanges, and he really is, but they aren't accumulating on him like they are on Herring. Even transformed like he is, you can see him beginning to pant and wince. Every time he has to rebuild a part of himself that Jace damages, it takes mana. Not to mention how draining technique transformations are to begin with. And as soon as that man slows down against Jace like this… the fight will be over. Just because he is transformed or transmuted into water doesn't mean that there is no way to damage him. People with these skills aren't unlike golems—they still have some kind of core that can cause real damage if hit."
+
+The fight was overwhelmingly frustrating for the water user. He went from dominating to being pushed back and panicking all because he thought Jace was a regular berserker-type class. And why wouldn't he? Battlelust users—as Alex had told them—are exceedingly rare. Not to mention, how would someone like Alex be able to befriend a Battlelust user?
+
+However, Herring could only curse his luck as his water-formed knee was sliced out from under him when one of his projectiles pierced Jace's heart—only to close and heal just as fast as a new leg formed for Herring. Not even the critical hits were enough to stop the man's advances. The brain was the only target that would be able to stop Jace, and it was also the place that Jace instinctively avoided getting damaged.
+
+"So, what do we do?" Amelia asked. "Should I go help Derek?"
+
+"No… we'd both get in the way. Maybe Jace could help him in this form, but for us… it's not a good idea," Marrick answered. "For now, we wait and recover. If Herring is killed by Jace… good. If they both wear each other out, then we need to be ready to finish him off. One way or another, that water user must die today."
+
+***
+
+Edgar looked over his shoulder toward the area where Derek and the escort were fighting. Then, he looked back at the sphere of darkness below him, and at Alex—who was kneeling right outside the sphere. Suddenly, Edgar received a telepathic transmission from Alex. 'Are you sure about this? What are the odds that it works, anyway?'
+
+'Does it even matter?' Edgar sent back. 'If it doesn't work, then it doesn't work. It's not like the two of us are going to lose anything other than some mana that will only take a little while to recover. But… if it works, then we can go help the others.'
+
+'You want to go help Derek?'
+
+'Derek?' Edgar inwardly snorted. 'No, we won't go help him. But we may be able to help Marrick and the others fight against the water-using escort.'
+
+'Herring,' Alex replied.
+
+'Yeah… that guy,' Edgar confirmed. 'Now… tell me when you're ready.'
+
+'I'm going to start in 5… 4… 3… 2… 1… now…'
+
+Like that, Alex focused on his mana threads and slowly pushed dozens, if not more, into the sphere of darkness. However, before the first thread breached the dome, a lightning storm appeared above them, and small bolts of lightning started raining down on the dome. The lightning bolts were enough to enter and even almost reach the ground, but they weren't enough to cause any real damage or make any opening big enough for them to locate Davis.
+
+Another good thing about the small bolts was that, since they weren't meant to be damaging or anything of the sort and were mostly just theatrics, each one took up very little mana from Edgar's reserves. Still, they were much more alarming than the microscopic threads that Alex was weaving into and through the darkness and created a fine distraction so that Davis wouldn't notice the threads.
+
+This went on for at least ten minutes—probably even longer. Finally, Alex released a sigh, then stood and staggered. After stretching, he slowly jumped onto a thread and walked up to stand next to the flying Edgar—who was still raining down small lightning bolts.
+
+"Is it done?" Edgar asked as he cast another bolt.
+
+"It is… I filled the entire bottom eighth of the dome with my sensory threads," Alex replied.
+
+"Great!" Edgar said happily. "Do you have a location locked?"
+
+"I do," Alex replied. "What are you going to do?"
+
+"Well… first, we are going to wait for a bit to see if he moves… has he moved at all since you located him?" Edgar asked.
+
+"Barely an inch," Alex replied.
+
+"Good… good," Edgar said. "Now… I need you to make a vertical string that is visible to my eyes and point it directly at the guy. It needs to be absolutely perfect, too. An inch or two off, and it will all have been for nothing. And you can't have the string penetrate the dome or he'll notice. Can you do that?"
+
+"I… I think I can," Alex replied. "I've never made just a standing vertical thread with no purpose before."
+
+"Oh, it has a purpose," Edgar said with a chuckle. "Now, go do it."
+
+"Yes…" Alex took a breath, then wandered off on his threads above the dome. Edgar made sure that none of his small bolts of lightning hit the young man as he moved. Soon, Alex stood a good deal off-center above the dome. It seemed like Davis was closer to the edge of the dome than the center.
+
+Smart…Edgar thought. That way a lucky attack at the center won't accidentally hit him. I wouldn't have expected him to be so far to the side. While thinking that, he saw Alex stop, then hold up one finger. Soon, a lightly glowing blue thread appeared in front of the young man. He made it about half as thick as a pinky finger—which was more than enough.
+
+Edgar flapped his wings, and in the next instant, he was hovering beside Alex. "Make it really long, too."
+
+Alex nodded, and soon, there was a vertical thread about fifteen feet long, pointing directly at the dome.
+
+"Great! Keep it there, but back away. I don't want you to get hurt," Edgar commanded. Alex nodded and backed away a bit as Edgar climbed higher into the air until he was hovering right above the top of the string. "Tell me if he moves. If he does, we'll have to reset."
+
+"Okay," Alex replied with a nod.
+
+Edgar closed his eyes and kept a bit of focus on raining down weak lightning bolts as he channeled his lightning through his body. Soon, his eyes were blue, and his silver-white hair was blowing around. The runes on his armor enhanced his channeling as he drew his sword and started pushing everything he had into it.
+
+It wasn't often that he was allowed so much time to power up for a single shot, so he was going to push himself as hard as he could. In fact, he'd never even tried to push as much mana into his sword as he was at the current moment. He was lucky that he'd been able to upgrade it, as he wasn't sure that his old sword would have been durable enough to withstand all the lightning energy.
+
+Soon, he was drained and couldn't even rain down the small bolts anymore. He pointed the tip of his sword down—making sure the point was aimed perfectly along the mana thread. Then, he fired.
+
+A massive beam of concentrated lightning exploded out from the tip of his sword and destroyed the string as it traveled down it. As soon as the beam hit the top of the dome of darkness, the darkness disintegrated. The beam cut through like a hot knife through butter. But it didn't stop there—it didn't even slow.
+
+"He's m…" Alex started, but it was too late for Davis to dodge because of the speed of lightning. "Oh…" Alex muttered as the beam struck true.
+
+Instantly, the dome shattered, and Edgar let out a deep breath and a chuckle. His wings vanished, and he went into a free fall as his mana could no longer support them. Alex caught Edgar with some of his threads, then cautiously floated them down to the charred body.
+
+"No… notification…" Edgar muttered as they landed. Both pairs of eyes locked onto the charred and heavily twitching body that had a terrible, concentrated burn mark right on the back of his neck where the spine met the brain. "Missed his brain by a couple of inches. He moved a bit." Edgar kicked the body over, and they saw an almost-dead Davis lying there, twitching. "I don't have the mana to finish him easily right now… and I'd rather not make a mess. Do it."
+
+"Me?" Alex muttered.
+
+"You have the rivalry," Edgar said. "He wanted to kill you. So… you do it. Gain some clout in your noble house. Earn some rewards… whatever. Just do it before he starts to recover."
+
+"I… I don't… Do I have to… to…"
+
+"Put him out of his misery!" Edgar commanded.
+
+"O…okay…" Alex gulped, then kneeled by the man. He put his hand on the side of his ear, then closed his eyes. Not long after, the notification appeared before Edgar's eyes.
+
+"Creepy…" Edgar said. "Did you just put threads inside his head and slice up his brain?"
+
+"No… I squeezed it…"
+
+"Even worse… good job," Edgar replied. "Now… we recover, then head back. Go ahead and store his body and gather up his stuff while I regain my mana."
+
+"Okay…" Alex muttered, then started examining the body.
+
+"One down… two to go," Edgar muttered as he looked back at where Derek was. "You better not lose…"
+
+***
+
+Derek… was losing. No… he was getting his ass kicked. His only real saving grace was that his Void Eclipse skill was progressing quickly, already climbing to five percent and allowing him to increase its ability even more. However, he stopped there and didn't plan on pushing more into it, even if it did progress to ten percent, unless it was his final option. He felt that would be pushing it when it came down to tracking him.
+
+If I wanted to do that, I might as well just toss out a few Void Calls and see what kind of destructive force comes down to check it out. I would probably end up summoning a level 500+ Void Beast that kills everyone… He wouldn't have been totally against the idea if the others had been inside his Time Prison. He could still shatter the outermost layer of the void—the place where he'd been trapped for all those decades—and go inside without it hurting those inside his Time Prison… probably.
+
+But he'd activated Absolute Nullify instead, and paired with Void Eclipse, it was doing enough to allow him to heal through the increased efforts of Nikolai to erode his entire body.
+
+"We're at a bit of a standstill," Nikolai finally said after waiting for a moment. "How about you surrender to me and allow me to take you to the Void Emperor for a reward, and I'll let all your friends leave this planet? Your life for theirs. I'll even make a vow that no harm will come to them by me, Davis, or Herring."
+
+"As tempting as that offer is… I'll pass," Derek replied. "I'm still basically at 100%… what about you? I could do this all day."
+
+"I have just been trying not to kill you…" Nikolai said. "It seems that the Void Emperor is going to have to make do with a corpse."
+
+Suddenly, Nikolai shot forward, and Derek quickly sidestepped. But the erosion user didn't chase. Instead, he stood beside the wall of nullification that Derek had summoned and placed his hand on it. "Interesting," he muttered, then pushed. The wall started to expand and contract over and over until soon, it popped almost like a bubble.
+
+A sharp pain shot through Derek's head, and blood poured out of his nose and ears. The last thing he expected was for his Absolute Nullify to be destroyed, causing him to suffer a backlash. But… it had just happened, and it was rough. The backlash sent a wave of dizziness over him that he'd never experienced before, and before he could even get his bearings, Nikolai was on top of him.
+
+Dammit! Derek cursed as the man grabbed him by his wrists. Derek looked to his left at the portal he'd opened for Silvi to escape into if needed and inwardly sighed in relief. There was a second reason he'd opened the portal. He was a bit further away from it than he'd like to be, but it could work. 'Get ready! And if it doesn't work… get out of here!' he sent to Silvi.
+
+'No!' Silvi sent back. Derek didn't reply. It was all her choice, after all. 'Doesn't work, I stay!'
+
+"Ah!" Derek shouted as his fingers down to his wrists began to erode and disappear.
+
+"Don't you wish you hadn't gotten distracted?" the erosion user chuckled. "Maybe I can take you alive after all," Nikolai said with a sadistic grin as the storage rings on Derek's fingers fell to the ground. "First, I'll take your arms. Then your legs. And I'll just keep doing that until we get where we need to go."
+
+"Screw you!" Derek shouted.
+
+"Today really is my lucky…" Nikolai started, then he suddenly swung his head to the side with wide eyes. "Davis!" he half-yelled, then winced.
+
+Seeing the chance, Derek ripped his stumps out of the man's hands, then shoved him with them as hard as he could. 'Now!' he inwardly sent to Silvi. Instantly, Silvi appeared and rammed her horn directly into the man's chest. But she didn't stop. She used her momentum to carry the distracted man and soon… they disappeared into the portal.
+
+Moments later, Silvi reappeared as Derek got to his feet. A hand reached out and grabbed Silvi by her hind leg, and Derek rushed over. He channeled the void into his foot, then stomped down on the hand. An eroded bone was all that was left of Silvi's leg by that time, but she was an evolved beast, so it instantly began healing.
+
+Nikolai's hand grasped the ground as he tried to pull himself out of the portal. His head cleared it, and Derek winced at the sight. Before, he had long, flowing hair… now… he had less hair than Marrick did before his evolution. His face was perfectly smooth in some places, but pure wrinkles in other places. The look in his eyes as he looked up at Derek was half-dead.
+
+"Getting distracted sucks, huh?" Derek asked as the man coughed up blood. He looked into the portal and was disgusted by the sight. The whole bottom half of the man's body was shriveled up or missing from the chaos and space. "I could bring you out and have you make an oath…" he said. "But…"
+
+"Kill me," Nikolai's words came out barely audible. "Can't… heal… this…" he muttered.
+
+"I was afraid of that," Derek said. The last thing he wanted to do was win like this… mostly because if he was going to take the guy out, he wanted to get the essence, but also, it was a very shitty way to die. But since the man was able to crawl out of the portal a bit, that no longer mattered. I guess a win is a win… no matter how lucky… Derek muttered and held his freshly, but not completely regrown hand out.
+
+Is it luck if I planned it, though? Derek wondered. There was a reason he stayed close to the Void Travel portal the entire fight after he opened it and made a big deal about Silvi escaping. It was a last resort—a trump card that would likely net him no essence and destroy most possible items in a storage ring. But it worked, and he and Silvi were still alive—that's all that really mattered.
+
+Harbinger appeared, and Derek began channeling the void. Once full, Derek activated Multi-Strike, then swung the blade down on the man's head. Moments later, he received a notification. After that, he dragged the man's body the rest of the way out, closed the portal, and ended Void Eclipse. I'll check out the notification later, he thought as he turned and took off towards the others.

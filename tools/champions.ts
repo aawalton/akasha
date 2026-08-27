@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Print who is answerable for what, composed from the files now",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { PERSONA_CHAMPION_KEY } from "./lib/domain.ts"
@@ -27,11 +27,11 @@ count is the whole of what it says. Initiatives are counted apart from findings 
 same number, one key naming the domain on both.
 
 Usage:
-  bun ~/repos/instructions/tools/champions.ts --persona <name>
-  bun ~/repos/instructions/tools/champions.ts --all
-  bun ~/repos/instructions/tools/champions.ts --domain <slug>
-  bun ~/repos/instructions/tools/champions.ts --tree [--json]
-  bun ~/repos/instructions/tools/champions.ts --path <relPath> [--json]
+  bun ~/repos/akasha/tools/champions.ts --persona <name>
+  bun ~/repos/akasha/tools/champions.ts --all
+  bun ~/repos/akasha/tools/champions.ts --domain <slug>
+  bun ~/repos/akasha/tools/champions.ts --tree [--json]
+  bun ~/repos/akasha/tools/champions.ts --path <relPath> [--json]
 
 Flags:
   --persona <name>  Every domain she champions, with what is filed against each,

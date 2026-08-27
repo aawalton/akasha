@@ -1,0 +1,191 @@
+---
+id: 315e5645-208b-5b6e-be77-7d7caba654ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59 – Terms and Conditions"
+slug: 0059-chapter-59-terms-and-conditions
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 59
+ownLength: 1990
+unit: words
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2834853/chapter-59-terms-and-conditions"
+royalRoadId: "2834853"
+---
+
+Without a second thought, Liora unleashed a fully powered Holy Light on the nasty bat monsters. It hit one of them square in the chest, making it disintegrate into glowing sparkles from the point of impact.
+
+[You've defeated <Cave Vespertio – Level 15>. Experience gained.]
+
+[Your skill <Holy Light> has reached [Adept] level.]
+
+[Holy Light – At [Adept] level produces a ray of light which inflicts 150% holy damage on the target. It also weakens curses.]
+
+The remaining vespertios scattered at the sight of bright light, hissing and snarling. It seemed that they didn't particularly like holy magic. Liora wasn't going to let them go. They had pushed her to expose her true form to the blonde asshole, who would undoubtedly spread the knowledge through the whole city. She could tell Cyene city goodbye. But she wasn't going to leave without getting a bit of revenge first.
+
+Liora hurried after the bats and blasted them with Holy Light as soon as she saw one. Apparently, the light itself was so disgusting to them that they abandoned any attempts at fighting and fled for their lives, descending back into the chasm where they came from.
+
+She wasn't about to risk following them down there, but she did manage to hit five vesperios with Holy Light before the rest fled.
+
+[You've defeated <Cave Vespertio – Level 16>. Experience gained.]
+
+[You've defeated <Cave Vespertio – Level 13>. Experience gained.]
+
+[You've defeated <Cave Vespertio – Level 17>. Experience gained.]
+
+[You've defeated <Cave Vespertio – Level 14>. Experience gained.]
+
+[You've defeated <Cave Vespertio – Level 15>. Experience gained.]
+
+[You've reached Level 16.]
+
+Liora didn't even have to bother searching for the glimmerstones. As the monsters disintegrated from the attack, the glimmerstones fell neatly to the ground, three for each. She snatched them without a second thought. It was a shame that there was no mana to drain, but it wasn't the right time for it anyway.
+
+Serena and Kalen were looking at her with pained expressions while Damien looked absolutely flabbergasted, his mouth opening and closing like a fish without any sound coming out. No, there was sound, it was just that Liora couldn't hear him—her hearing still hadn't recovered from the sonic attack.
+
+Serena said something to Damien, then to Kalen. Damien said something to them. Liora had no clue. They looked mostly confused, and it was impossible to tell what they were talking about. Probably her. It was likely a good time for her to disappear. But she couldn't just abandon Serena and others in this dungeon. Perhaps, she could stick around until they are done with the badger. Not like Damien can tell anyone anything from within the dungeon.
+
+Their muted stares continued for a while while Liora just sat on a branch and observed, hoping her hearing would return. Slowly it did, and she could hear muffled sounds which increasingly became clearer. Eventually, she could finally make out what Damien was saying.
+
+"For fuck's sake! I can't hear you!" He yelled, gesturing to his ears.
+
+"You can't hear me?" Serena asked, straining her expression. Clearly, everyone else had the same hearing issues as her.
+
+Kalen was sitting next to Kiva, stroking her back as she slowly sat up, still cradling her ears.
+
+"No, I can!" Damien said, looking relieved.
+
+"Good. Let's recover first before talking!"
+
+"Agreed!"
+
+It being clear that their health came first, everyone turned to their Inventory. Damien withdrew a potion from his Inventory and drank it all, sighing with relief as his wounds closed up.
+
+Serena withdrew the potion Liora had bought them and shared it among herself, Kiva, and Kalen. Kiva got the biggest share, while Kalen and Kiva shared the remains. The weasel girl's expression relaxed as the bleeding from her ears stopped.
+
+"Caw!" Liora protested. "What about me?"
+
+"That damned bird is still here!" Damien suddenly yelled and jumped up to his feet. "It's because of it that I'm in this mess in the first place. If you hadn't framed me for the theft, then I wouldn't have to prove anything to my father. Or become the laughingstock for the whole city!"
+
+"Your fault," Liora retorted.
+
+"WHAT?" Damien gasped and then grabbed his sword. "I'll show you, you disgusting bird!"
+
+However, as he raised his sword, Serena raised her staff against him. Kalen and Kiva raised their weapons.
+
+Damien looked shocked at first, but then he just scoffed. "I see how it is. You were trying to frame me from the very beginning. I should have known better than to trust some washed-up riff-raff with no proper upbringing."
+
+"You shut your mouth!" Kalen growled, taking a step closer to Damien. "Just because you were born with a silver spoon in your mouth, it doesn't mean that we didn't have a proper upbringing."
+
+"And we never meant to frame you. It was all Liora's doing. I suspect she decided to do so because of how you acted towards Kiva," Serena said, firmly holding her staff.
+
+"I just said the truth!" Damien objected.
+
+Kiva snarled, flattening her ears to her head. "You can take your truth and shove it up your—"
+
+"Truth?! Just because she is beastkin, she's suddenly worse than humans, you say!" Kalen took another step forward, his sword inching closer to Damien.
+
+The blond man narrowed his eyes, holding his shield firmly. "Have you forgotten what they had done to us?"
+
+"To us? Are you insane? What has Kiva ever done to you? What has any beastkin ever done to any of us? Because of some conflict on another continent, their whole race is treated as outsiders. And why? Because they are different from us? Because some are stronger, some are faster, and some can fly? You're a coward if you attack somebody who hasn't even done anything to you."
+
+"I'm no coward! I'm an honorable disciple of the Silver Sword. I'm trying to protect people from the likes of her. And that disgusting bird!" Damien snarled, pointing at Liora.
+
+"You disgusting," Liora mimicked, flying down from the tree and landing on Serena's shoulders. It was a bit awkward in this larger form since she had to put one leg on each of her shoulders. But she imagined that Serena looked even more menacing with Liora right behind her.
+
+"Protect? From what? We were all just minding our own business when you suddenly sauntered in, insulted Kiva, and threatened her. Does that sound like a hero to you?" Serena protested.
+
+"Is stealing passes and framing other people suddenly count as minding your own business?" Damien countered.
+
+"But you didn't know anything about the pass at the time. You attacked Kiva for no reason whatsoever," Kalen pointed out.
+
+"Clearly, my gut feeling already warned me that you were up to no good!"
+
+"Your gut feeling is stupid! I never stole anything," Kiva objected.
+
+"Enough!" Serena yelled, putting an end to the argument. "We're only attracting more monsters with all this commotion. What matters now is what we do with the dungeon."
+
+"Serena, you don't suggest we actually keep working with him," Kalen said.
+
+"You got me into this mess. You owe me!" Damien snarled.
+
+"We don't owe you anything," Serena objected. "You attacked Kiva without any justification. Liora framed you for it. The way I see it, we are even. I don't think we'll be able to work together as a group, so it's best we split up here."
+
+"No, wait!" Damien suddenly panicked. It appeared he really didn't want to remain in the forest alone.
+
+Liora couldn't blame him. He couldn't navigate the dark at all, and there was no way he could defeat these monsters all on his own. He would have no choice but to head out of the dungeon and hope to find another group of fools willing to help him out.
+
+"Let's make a deal!" The blond man said.
+
+"What deal?" Serena narrowed her eyes.
+
+"I won't tell anyone about this bird, and you'll keep accompanying me through the dungeon in return. Just like you promised!" Damien said.
+
+"How could we trust you not to snitch on Liora the moment you leave the dungeon?" Kalen demanded.
+
+"Yeah! You keep yapping with other adventurers about everything that has happened to you," Kiva added.
+
+"I do not YAP," the blond man objected, shaking his head. "I am disciple—"
+
+"Yes, we heard that many times, but we need more than just your word. I don't see why you would keep your promise," Serena said.
+
+Damien furrowed his eyebrow, then finally sheathed his sword and deposited his shield back in the Inventory. "I'm ready to sign a System contract."
+
+Wow, this guy is serious!
+
+What is a System contract?
+
+In short, it is a contract that is upheld by the System. If any of the parties break the contract, then the System instantly punishes them.
+
+Punishes how? Does it… kill them?
+
+No! Nothing so drastic. It depends on what the contract parties are ready to sacrifice. Usually, it involves a certain number of levels, items, skills, or glimmerstones.
+
+WHAT? Putting shinies on the line? NO WAY!
+
+"What are you ready to put on the line?" Serena asked.
+
+"Ten levels," Damien said seriously. Kalen and Kiva gasped. Even Liora was a bit surprised. Ten levels weren't exactly easy to train. This guy must be serious about not exposing her. Or at least so it seemed.
+
+Are there any loopholes in these contracts?
+
+Any contract can have a loophole. Perhaps this guy doesn't fear losing levels, thinking that he could easily regain them. Although ten levels seem a bit much.
+
+"That's not enough," Serena objected.
+
+"What do you mean? Ten levels are a lot!" Damien growled.
+
+"It's not that much if you had just advanced your class. The first ten levels are always easiest to gain."
+
+Damien clicked his tongue. "Fine. Ten levels and my shield."
+
+"Aren't you rich? Can't you just buy another shield?" Kalen pointed out.
+
+"This shield is crafted by the best blacksmith in all Velithra. It's not something that can be easily replaced," he objected. "Nor do I wish to part with it."
+
+Serena, Kalen, and Kiva shared a look, then they looked at Liora, still perched on Serena's shoulders.
+
+"I want to keep Liora hidden and safe," Serena whispered to others.
+
+"Yeah, if it wasn't for Liora, I'd never consider working that trashbag," Kiva hissed, just quietly enough for Damien not to hear.
+
+"We do owe this bird," Kalen conceded.
+
+"Chak-chak-chak," Liora responded. "I really appreciate this!"
+
+"You owe us!" Kiva huffed, then turned to Damien. "Very well, we shall accept the System contract."
+
+"But you have to accompany me through this dungeon! Until the very end and then back out," Damien clarified.
+
+"We will. We'll put up 10 glimmerstones each as a price," Serena said.
+
+"CAW!" Liora objected. "Anything but that!"
+
+"Very well, let's complete it then!" Damien nodded.
+
+Serena and Damien shook hands and did whatever it was they needed to do to complete the system contract. Liora, meanwhile, was fuming that Serena had put up glimmerstones as collateral. After all, she knew full well that Serena and others didn't keep their glimmerstones but spent them on skills. It was Liora's glimmerstones that were put on the metaphorical plate.
+
+"Don't be so angry, Liora," Kiva said, noticing Liora's peeved state. "As long as we lead Goldilocks through the forest, you won't have to give up any glimmerstones."
+
+Liora supposed that was true. But there was a bit of temptation to just leave him behind. After all, if something happened to him here, he wouldn't be able to tell anyone about her.
+
+But Liora shook her head and quickly shoved those thoughts out of her mind. She wasn't some murderer who killed people just because things didn't suit her. No. Worst-case scenario—she would leave Cyene behind. This contract actually improved her odds of staying hidden. If she could lead the group safely through the dungeon. They weren't even halfway through.

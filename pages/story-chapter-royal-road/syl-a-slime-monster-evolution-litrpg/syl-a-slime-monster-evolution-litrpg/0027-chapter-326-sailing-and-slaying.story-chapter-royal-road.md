@@ -1,0 +1,159 @@
+---
+id: 618c8663-2534-5bdb-981b-4612b7981924
+page-type-slug: story-chapter-royal-road
+title: "Chapter 326 : Sailing and Slaying"
+slug: 0027-chapter-326-sailing-and-slaying
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 27
+ownLength: 2188
+unit: words
+ownProgress: 2188
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2855168/chapter-326-sailing-and-slaying"
+royalRoadId: "2855168"
+markedReadAt: "2026-06-29T19:42:42.216Z"
+---
+
+Since this was a long trip, unless something happened, I was going to be extremely bored. I wanted to work on converting more skills into spells, but while out on the deck, I was limited to water and air.
+
+So, while I really wanted to work on recreating [Warp] since I had already succeeded with [Blink], I was forced to instead turn my attention to [Wind Step]. I had previously deconstructed it, but it had fallen victim to my usual "not being interesting enough".
+
+Well, on the bright side, if I figure it out, I might be able to create one for the other three basic elements.
+
+Looking at what I had received in the information, it really did seem to incorporate [Aerokinesis], [Gust], and, to my surprise, also [Zephyr Shroud]. I used my knowledge from [Blink] about creating a looping spell and started from there.
+
+A few of the crew threw glances at me, but since they weren't mages, they could only assume I was doing something to help with the trip. To my surprise, I was never allocated to guard duty, so it was the others who had to watch out for any potential hostile monsters.
+
+Well, whatever, I can just assign the task to a [Sub-Core] so it won't interfere with my work. On the other hand, I can't catch any flak for "not paying attention," so I guess it works out for me.
+
+I did, however, leave an order for two [Sub-Cores], one to watch the skies while another watched the depths below. If mermen attacked, I wanted to be ready, and I wasn't willing to put my full faith in these humans I'd only just met. Orders aside, we were out on the ocean, and if Sylvain disappeared, nobody would be the wiser.
+
+Whoops, there's my paranoia talking again…
+
+The first day of travel was almost entirely uneventful. There was obviously no conspiracy to throw me overboard or mutiny among the crew, and the highlight was when a large mutated seagull monster tried to attack us.
+
+But the crew took it out without even a fuss, using large ballistas to snipe it as soon as it got in range. I didn't even have to lift a finger, and when the crew started gloating, I couldn't help but wonder if they were trying to "teach me a lesson".
+
+I suppose I can't blame them for holding a grudge against spellcasters if they do get this golden treatment. Unfortunately for them, spellcasting is effectively my hobby.
+
+The one thing that did peeve me off about their actions was that I didn't gain any experience points. The mutated bird was actually quite a high level, and I was quite desperate to get my Elementalist to level thirty.
+
+So, I took my own little bit of nefarious action. If they were going to kill creatures in the sky before I could even get a participation award, then I'd kill anything that approached from under. Unlike the humans, I had sensory traits that put them to shame, along with magic on my side.
+
+And so, since [Wind Step] wasn't giving me nearly as much trouble as [Blink], I took more [Sub-Cores] off of assistant duty and assigned them to war. Their objective was simple: scan for monsters in the water and use [Water Magic] to kill them, then throw the corpses into [Pocket Space].
+
+My plan was devious and netted me a few kills without the crew knowing at all. The only suspicion they raised was some casual remarks of there being fewer monster attacks than usual out on the deep ocean, to which one member suggested maybe our increased pace was preventing them from catching us.
+
+Eventually, I retired for the evening, eating a rather pleasant meal alone in my cabin while emptying out my [Pocket Space]. Vee didn't show up, but I assumed she didn't want to spend the late evening searching for me, and I'd either see her the next day or on the island as we planned.
+
+Since I had a day of really doing nothing, I had actually managed to recreate what I believed was a working replication of [Wind Step]. Although I had waited until I was in my cabin before casting it, since I didn't want to raise any questions among the crew, as I was sure at least one of them probably had the skill version themselves.
+
+I cast the spell and, with a burst of speed, silently dashed about the room.
+
+<Spell [Wind Step] discovered.>
+
+Another one down! I silently cheered.
+
+Unfortunately, I didn't gain a level in [Mana Weaving] this time, but during the day, I had gained one in [Magic Efficiency], putting it at level eight. It was understandable due to all the consistent casting I was doing lately.
+
+Should I take it apart?
+
+I wasn't sure, as rather than getting a new spell, I'd likely just get a method to make all spells more efficient, which I'd need to then apply to everything; at least that was what I assumed.
+
+Probably not then… There's a chance I can improve it beyond the skill, but I should maybe leave it alone for now. I don't want to take apart too many things and end up with hundreds of incomplete projects, which could potentially leave me weaker.
+
+[Magic Efficiency] wasn't the only achievement during the day. My [Sub-Cores] had been hard at work, and the four newcomers—Lambda, Mu, Nu, and Xi—joined their brethren at level six. They had been progressing rather rapidly ever since I finally allowed them to join the core network after taking them off Vee training duty.
+
+I was now very excited for the day the group would all collectively get to level seven; that would be twelve levels in a single notification! Their collective diligent work also took [Attack Mastery (Greater)] to level three, which surprised me, considering how slowly it levels up, given all the attacking I do.
+
+The next morning, I awoke bright and early and took my usual spot, although I could sense some turmoil among the crew.
+
+"Rough night?" I asked one of the more talkative fellows.
+
+"No… and that's what's disturbing," he answered.
+
+"What do you mean?" I asked curiously.
+
+"We weren't attacked even once from the water," he explained. "We figured our increased speed had lowered the attacks, but at night, we intentionally travel slower even without a mage to speed up the trip. Yet… nothing."
+
+"Huh…" I replied, my outer facade calm. Inwardly, however, I felt a lump of concern festering.
+
+I couldn't open my [Pocket Space] to look inside right now, but I could check if Mana was being reserved to store anything. My suspicions were confirmed when I saw that a not-so-significant amount of Mana was now occupied.
+
+Shit… I didn't rescind the order, did I? They must have kept killing things while I was sleeping.
+
+"Well, maybe it was just good fortune!" I told the sailor before leaving and walking to my post, and started speeding up the ship once again.
+
+While pretending to be busy, I took a look to see if there were any notifications I missed, and soon saw quite a considerable amount of kills in there, and nestled among them was something that almost made me break character.
+
+<Proficiency gained. [Sub-Core Alpha LV 6] improved to [Sub-Core Alpha LV 7] .>
+
+…
+
+…
+
+<Proficiency gained. [Core Collective LV 8] improved to [Core Collective LV 9].>
+
+…
+
+<Proficiency gained. [Sub-Core Xi LV 6] improved to [Sub-Core Xi LV 7] .>
+
+I missed them all leveling up together!
+
+I felt heartbroken as I stared at the messages. I knew it didn't really matter, but it was something I had wanted to witness. I slowly read through them and then noticed something I had nearly missed entirely.
+
+[Core Collective] went up a level!
+
+I was positively delighted by this, and my momentary heartbreak was instantly mended.
+
+Only one more level to go, and then I can potentially uncap it. I'm really hoping that if I do, I'll be able to keep my [Sub-Cores] operating while disconnected from my slime. Even [Slime Mastery] and [Primordial Slime] haven't been enough to overcome this one drawback.
+
+I wasn't sure how realistic my wish was, but it was something I'd desperately longed for. I could do so many things with my slime, but no matter what, it always needed to be in contact with my primary core.
+
+Yes, I could operate and keep things active through tendrils of connecting slime like some bizarre type of puppeteer, and I had thought of using it a few times. However, what always ultimately stopped me from attempting this was a fear of those connecting tendrils being targeted, and if severed, I'd lose all the slime mass and cores inside it.
+
+Is having a small army of myself too much to ask for?
+
+I had to hold back from laughing when I thought of the likely outrage from Gramps at what I was inspired to try to create. The best part of my dream plan was that if any of my Syl clones were defeated, I could have them self-destruct in their death throes.
+
+Man, [Nitro Slime] really is the best. I wonder if I can ask to be an orange slime in my next life?
+
+The rest of the second day was more of the same, except this time I was trying to create a water movement spell from scratch. I knew it would involve [Hydrokinesis], but each movement also had its own unique properties despite a similar outcome.
+
+Air was fast and almost entirely silent, while lightning was even faster, louder, and devastating. From that, I could imagine fire being just loud and devastating, likely propelling oneself with an explosion, but when I tried to think of earth and water, I was coming up short.
+
+I guess water would let you move through it, while earth might let you move through the ground? I could also imagine it letting you walk on water… maybe the movement on land would be something like a slippery water slide? A protective coating with [Bubble] and [Hydrokinesis] while propelling myself with [Torrent]?
+
+While I had a clearer picture of fire, I was forced to work on water to keep up appearances. Thankfully, none of the crew really bothered me, as it seemed they were more paranoid about the lack of water monsters.
+
+When more aerial creatures spotted us and tried to attack, the crew actually looked relieved to see them! As for the ocean creatures that were attacking us, the most frequent were actually double and sometimes even triple mutated brinelings, so the experience was starting to be much more worthwhile!
+
+I was making considerable progress on my water spell when the latest triple mutation brineling caught my attention.
+
+<Class Experience threshold reached. Elementalist is now LV 25.>
+
+<10 Skill Points are now available.>
+
+<Your class has revealed the following skill: [Elemental Step (Basic)].>
+
+I stared at the message long and hard, a rage starting to simmer.
+
+Are you kidding me? I was going out of my way to create these, and now you decide to hand this to me? Were you just waiting to throw all my time and effort back in my face!?
+
+[Roleplay] had to work overtime to keep my outward appearance calm while my inner self continued to rant and rage. I'd been annoyed by the system timing before, but this seemed almost deliberately targeted.
+
+At least… that was what I thought at the time. When I finally managed to calm down and view it from another angle, I slowly realized that maybe I was only getting it now because I had progressed enough in the movements myself.
+
+Okay… let's have a look.
+
+<[Elemental Step (Basic)] Move a distance with a fiery burst, a rumbling quake, a speeding gale, or a surging stream. Skill level determines Mana efficiency and maximum chained usage. Chained activations can be swapped to a differing element, provided the previous movement's location would not inhibit this in any way. Retains the individual effects of: [Ignition Step], [Terra Step], [Wind Step], and [Wave Step].>
+
+Well, I already figured it would only be fire, earth, wind, and water based on the skill name… I suppose I'll need to upgrade it later on to include [Thunder Step] and the other intermediate elements.
+
+The skill sounded good, and even though I was mad at its late arrival, it was still helpful for me. If I bought it and took it apart, I'd probably get the blueprints to all four skills.
+
+Or… I buy it, try to finish off the last three spells myself, and then deconstruct it. That way, I should only get new information, maybe even the necessary parts on how to combine and swap elements?
+
+The more I thought about it, the more I liked that plan of action. I nodded and bought the skill, hoping that by just experiencing the three other movements, I'd have all the hints I needed to complete the spell versions.
+
+<Skill [Elemental Step (Basic) LV 1] obtained. Skill Points remaining: 9.>

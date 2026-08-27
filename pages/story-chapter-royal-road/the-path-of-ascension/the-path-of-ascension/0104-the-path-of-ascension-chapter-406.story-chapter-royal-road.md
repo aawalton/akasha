@@ -1,0 +1,269 @@
+---
+id: aa344efb-3b3f-5cac-a756-8250614350a8
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 406"
+slug: 0104-the-path-of-ascension-chapter-406
+partOf: the-path-of-ascension
+position: 104
+ownLength: 5848
+unit: words
+ownProgress: 5848
+publishedAt: 2025-04-28
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2238795/the-path-of-ascension-chapter-406"
+royalRoadId: "2238795"
+markedReadAt: "2026-06-29T19:21:22.270Z"
+---
+
+Chapter 406
+
+Matt didn’t dawdle in leaving for the Corporations, even though he felt like he should be helping Liz and Aster instead of leaving to deal with a personal endeavor. It just felt selfish, even though that wasn’t true at all and they wanted him to go.
+
+Liz had cajoled Allie into the two of them helping Melinda track down the remaining blood research facilities, but Matt could tell Allie was eager to do something ‘real’, having been removed from future wars.
+
+Aster, with Susanne’s help, started combing through her own and Matt and Liz’s duchies looking for abnormalities. Her recent issue with the interference of the winter bloodline resources just showed they needed to look deeper at any issues.
+
+Matt popped over to Aster's capital long enough to say goodbye, but the moment he got to his ship, he found Allie spinning in the pilot's seat.
+
+“I’m jealous Lila gave you this. Kinda bullshit. Where is my super cool unique ship?”
+
+“Could you even run a ship like this?”
+
+Allie scoffed. “That's besides the point. It's the thought that counts.”
+
+“Didn’t Lila give you a dagger made out of one of her claws? That means more than a ship.”
+
+“Meh, she just cut off a finger. Not a lot of effort went into that. And besides, I can’t even use the dagger yet, so it kinda doesn't count.”
+
+Matt shook his head as he hooked a finger over his shoulder. “Your logic is bad, get out of my seat. I don’t want to spend more time than I have to on this trip.”
+
+Allie gestured at herself like he was stupid, but Matt shook his head. “I think it's better that I actually do the flight. This is personal, and I don’t want to bother you. I do know you hate people treating you like a taxi.”
+
+Allie rolled her eyes and twisted out of the chair. “I'm offering. Also, I don’t guarantee a return trip soooo… I actually guarantee the opposite because I’m not quarantining again so soon after I just did it.”
+
+Not wanting to argue against a year of travel saved, Matt got ready and promised to make Allie a batch of treats when he got back.
+
+His musings were cut off when Allie jerked instead of teleporting them. “Huh.”
+
+“Don’t ‘huh’ me. What's wrong?” Matt had never seen Allie abort a teleport like that and instantly readied himself for combat.
+
+Flicking a finger at him, she said, “An automated message from the boss.”
+
+Instead of a message from Allie, the packet of information unlocked a hidden and encoded message in his inbox from Manny.
+
+Opening the short video, he saw Manny working at his desk. “If you’re receiving this, it’s because you’re about to enter Corporations space ahead of schedule, likely with Allison. I won’t stop you. However, I must caution you from visiting their capital system. If visiting it is unavoidable, I would ask that you speak to one of the Royals or my wife first, and that you use as little mana as possible while visiting. Regardless, I would ask that you do not visit their capital at all until we have the opportunity to speak on the matter in person.”
+
+Matt was thoroughly confused and shared the video with Allie, who flickered out of existence just to appear a moment later.
+
+“Carissa said it really is fine if you aren’t going to the capital.” Matt opened his mouth to ask the next obvious question, but she shook her head. “No, she didn’t tell me where the Boss is and I checked the capitals of the other Royals and none of them were there. My guess is he's in his secret Tier 47 rift instance.”
+
+Matt knew he was being distracted, but the thread was too juicy to ignore. “Secret rift?”
+
+“Yeah, fucker thinks he’s slick. Well, he kinda is, but every time he gets a new copy of my Talent, he makes sure I’ve got a return point inside his rift, then kicks me out before I can turn it into a full waypoint and jump in on him.”
+
+Matt nodded and couldn't disagree with Manny creating a private space for himself. Though he didn’t agree that Manny was hiding out in a rift. Carissa and Melinda had both said Manny implied there was something he needed to do, which was why he was unreachable. At the same time, Carissa implied he was contactable if something truly important came up. From what Matt understood about rift breakers, there were few, if any, who could break into a Tier 47 rift, because none of the Royals were rift breakers, leaving Allie herself as the only method inside a high-Tier rift.
+
+That meant it was more likely than not Manny was doing something else in real space.
+
+Unless they had some way to send messages into rift instances without a rift breaker, and then everything Matt knew went out the window.
+
+Still, it was mostly a moot point, since Max didn’t want to meet at the Corporations’ capital but instead at a hub trade world on the far side of the Great Power.
+
+It was in fact closer to the Clans’ border, which was why Allie had a waypoint nearby, though he didn’t know when she would have had time to sneak into Clans territory to lock the waypoint in.
+
+All things told, her help saved him just over a year of travel, which he was grateful for.
+
+The moment Allie vanished, Matt tore his way into chaotic space and flew into Corporations territory, ignoring the hails from the various craft that tried to flag him down.
+
+Entering Corporations space, and real space at that, was always a strange experience.
+
+Instead of being a planet-based civilization, their preference for space-based mega structures immediately made their worlds feel different, especially with Tumaini being a kingdom-level transit hub for the Clans and the slightly farther away Sects border.
+
+Tumaini being a Tier 37 world made the area a hub of traffic as, similar to other worlds higher Tiers wanted to live near, the high-Tier world and everyone of a lower Tier followed the money the higher Tiers inherently brought with them.
+
+Even in the Corporations, with their weird currency system, higher-Tier items still were generally more expensive, and so higher-Tier people had more money to spend, which was readily apparent in the massive space stations before him.
+
+The largest was the orbital ring that circled the main world and was ‘only’ a little larger than a mile wide; but that was deceptive. The ring was actually five layers deep, multiplying the livable area substantially.
+
+It was also something of a garden world in Matt’s opinion, with there being no rifts on the habitat.
+
+There were ways to make rifts in space. Anywhere with essence could form a rift, but without the gravity well of the planet and the planet's core making the circulation of essence automatic, it was often considered more effort than it was worth to create such rifts.
+
+That entire subject was on a list of things Titan’s Torch was meant to investigate, but it had been repeatedly pushed down in priority in the last century.
+
+Opposite the main world's moon was a more traditional space station surrounded by docking ships.
+
+It was also his destination, and Matt flew over as he inspected the last of the space-based infrastructure in the system. Namely, the Oneil cylinders which were growing the system’s crops in massive automated cylinders. Some housed people, but they seemed to be a rarity.
+
+Despite the impracticality of the system, when a rift could be converted to a farm rift with a little effort and without really costing any resources, Matt loved the space-based cylinders. They just spoke to the primal part of his brain that liked to see people advance. To rise above their roots and grow.
+
+Though even if none of that existed, Matt would have made the trip the slow way, just for the absolute beauty a few light years away from the Tumaini star system.
+
+A black hole that had at some point in this universe's history absorbed some essence and started the process of essence cultivation.
+
+According to the records from when Tumaini was settled, an era well before The Shattering, the black hole had been locked at stable but safe distance from the inhabited world by a cultivator with a related Domain before they ascended. The story might have been false, but the black hole was undeniably in a stable orbit around the center of this galaxy, which meant it never strayed too far from Tumaini.
+
+Matt could hardly take his eyes off the celestial object once he let himself look at it and stared until he reached the space station Max said she would be meeting him at.
+
+She was thankfully there, and Matt used her to get access to the station while bypassing the normal restrictions and checks a foreigner would have normally had to go through.
+
+Max’s suite overlooked a garden atrium with a hidden balcony Matt used to reach her.
+
+He didn’t even need to go inside, as she was drinking a glass of wine while watching the people below.
+
+“Words cannot describe how jealous I am of Allie’s teleportation ability. Once she’s strong enough to offer it as a favor, she’ll basically have a free stake for every wager. And it’ll be excellent.”
+
+Matt took a seat and gestured at the wine, to which Max nodded and he took a small sip. As a Tier 40 drink, even that small amount was enough to make him slightly lightheaded and he needed to boost the mana he was sending to [Regeneration] to counter the effects.
+
+“That tastes awful. It's like rotten sewage fermented with bodies.”
+
+Max nodded. “Pretty close actually. It was a wager from Wun, and I’ll be damned if I let him get one over on me by admitting the wine is shit. It’s also funny when I get other people to drink it by drinking it myself.”
+
+Her grin was contagious and Matt laughed along.
+
+“So what brings you to me after being so reluctant to accept help for so long? Come on, spill.”
+
+Matt hadn’t intended to hide it and admitted, “I discovered my Truth and I’m not entirely happy with it having an effect on my mind, let alone my mentality. Felt like now was a good time to understand such things.”
+
+Max leaned forward and whistled. “A Truth at Tier 27. That's damn impressive. Spill. I wanna see how close my bet is to the truth. Heh get it? I’m clever.”
+
+“That's like the third time I’ve heard that joke, and every instance has been just as unwitty”
+
+Max pointed at him and winked. “Third time so far. It's something of a tradition as those things go. But seriously, spill. I can memory-lock it if you want, but for our projects, I’ll need to know.”
+
+“A memory-lock is overkill,” Matt waved the suggestion off. “Currently, the description I’m going with is ‘I am the Master of My Own Destiny’. I— What?”
+
+Max was usually absolutely unflappable, but at his words, she may as well have become a different person. The relaxed smile vanished, and she instantly repositioned herself to be staring straight at him, her wineglass relocated to a distant windowsill. Her calculating blue eyes were fixed on him, staring through him and making him feel properly uncomfortable around the Chosen for the first time since he’d met her. “Repeat that. Three times, each time considering a different nuance to the underlying Truth. After that, say it in a Sect dialect, I don’t care which one.”
+
+Her voice was hard and unyielding, and Matt warily regarded the woman as he complied. “I am the Master of My Own Destiny. I am the Master of My Own Destiny. I am the Master of My Own Destiny. I am the Master of My Own Destiny. Or maybe Fate? Future? Destiny is the transliteration…. Are you okay?”
+
+Max sighed and relaxed to her usual posture, a colorful strand of energy extending from her fingers to retrieve her wine. She took a deep sip that turned into her upturning the glass and emptying it before she let out a shuddering sigh. “Whew. Okay. It’s okay. You’re okay. I’m okay. That triggered all the wrong alarms, sorry for startling you. That first impression was just way too similar to Charl. Man, Eclavorn is not gonna be happy when he hears that.”
+
+The last part was said muttered into her glass as she glared at the empty cup.
+
+Matt shook his head, trying to parse everything that had just happened. “Sorry. I’m still really lost. Charl is the Master of All, right? I know you uh…”
+
+He tried to not think of the phrase ‘had a messy break-up’ to no real success.
+
+“Yes, yes. They’ll never let me forget it. But no, despite what our friends may have you believe, Charl was not my boyfriend at any point. I did manage to break him up pretty messily, though.”
+
+“I’m still not sure….”
+
+“Okay, back up a couple steps. How much do you know about him? Most people don’t tend to talk that much about past Chosen, even when we’re just out of war Tiers. That goes double for foreign ones, and triple for dead ones. For all the propaganda, people don’t like to remember that we can die.”
+
+Matt shrugged. Luna had drilled into their head the identity and general abilities of every Ascender from the past hundred thousand years. For someone like the Master of All, he’d studied the man’s few recorded fights fairly extensively, but he wasn’t certain what Max was looking for. “Andes Charl, the Sect ‘Master of All,’ completed during Georgios’ reign. True hybrid, good in close range and a half decent mage, and one who almost never used the same strategies twice, beyond a preference for hitting hard right at the start of a fight. Won a couple minor wars almost single handedly, but was brought back in six pieces after a Corporations border skirmish, and has been dead-slash-presumed-dead since then.”
+
+He inclined his head towards Max for the last sentence, acknowledging the woman responsible for said kill. A bit of a grin ghosted across her face. “I do love that the six pieces thing stuck around. All generally correct. The one thing you got wrong is that Charl wasn’t merely half decent. He was really fucking good. You just have your perception warped because your freakiness is about throwing siege spells around like fireballs, and Zack’s freakiness is about throwing fireballs around that hit like siege spells. But obviously, there’s some similarities between him and you, and not just on the battlefield.”
+
+Holding up her hands, she spoke over Matt who tried to object. “Now, you’re not the same in every way, but it’s hard not to see him in you sometimes. Charl could be… volatile. When he was in a good mood, he was one of the most delightful people you could ever be around. But when he was in a bad mood, it was everyone’s problem. And he also took everything far too seriously. Someone not bowing before him to the proper degree was a personal insult, attempting to contest him was a grave attack. Now, granted, that’s not too weird for a Sectie, but it’s weird for one of us to not be weird. We rarely fit such stereotypes. Look at Sien, she couldn’t give two shits about that stuff. And even Yun Me is alright.”
+
+Matt just looked at her in bafflement. “I’m nothing like that. What?”
+
+Max leaned back, sipping on a newly-full glass of wine. “Mmm. You’re not nothing like that. If someone gets you mad, you get real mad. And until we got to know you a little better, it was hard to tell what might make you mad. Your friends dying is understandable, but surprising you’ve made it this far without being long-numb to it. You get real evasive about explaining how your abilities work. Simply saying the words ‘rift break’ is enough to sour your mood, and you get really touchy around anyone you aren’t confident you could break in a fight. And at the same time, you get mad at mortals if they cross you, while also cultivating gratitude and reverence from them. But still, it’s just a set of quirks. And now that we know you, we also know the resemblance is superficial at most. Or at least it was until you mentioned your Truth and it was so close to his. Especially in Empiric.”
+
+Matt just blinked at her, not fully comprehending how they could be similar. Sure, Max technically wasn’t wrong… for most of it, anyway, but it was definitely an exaggeration to say that they were problems.
+
+Max rubbed the bridge of her nose as she said, “You’re The Master of Your Own Destiny. Charl was The Master of Destiny. Or, if he was feeling a bit egotistical, ‘The Master of All,’ and no, the arrogant little brat didn’t have his Truth before his title.”
+
+It took Matt a few moments to process that type of Truth and the person it would take to create something like that and he shook his head. “My Truth is entirely different.”
+
+“I agree. That’s what I was confirming earlier. They’re almost the inverse to one another, but not quite, and I know at least a certain red and blue someone isn’t going to be happy. And for some reason, my word alone isn’t considered sufficient to disabuse them of the notion that you’ll be a problem. So, if you don’t mind, I’d like to run through a few scenarios with you to present as proof when your Truth inevitably leaks to the group.” She paused, “The memory-lock offer is still on, by the way. I could even make the key be learning about your Truth some other way, so I’ll be able to remember and vouch for you whenever that happens without needing to re-test you.”
+
+Matt let his gaze harden. “I’m fine with that because I’m not like that, and I’m confident that will be clear with a conversation and possibly a punch to a snout. I do want the rest of Charl’s story when we are done.”
+
+After she agreed, Max launched into a similar round of questions to what Luna had done, and each answer seemed to make her relax more and more until she was laughing and joking with him by the end.
+
+Waving him up, she led him through her suite and deeper into the space station. “Let's go look at a memorial. I always find visuals help with explaining things like this.” After a pause she added, “And I like to show off. The Empire stole our idea of letting Ascenders set up businesses. This was one of my side projects and I’m really proud of how well they have done in the hub systems.”
+
+Matt had a ton of questions but didn’t voice them, trusting her methods.
+
+He still didn’t like the implication that he was at all comparable to such a notorious piece of shit like the Master of All, whom even the other Ascenders didn’t want to interact with.
+
+Finally, when they were in a museum of sorts, Max led him to a place he hadn’t really expected.
+
+The Tower of Absent Chosen.
+
+Or in other words, memorials to fallen Ascenders. Matt was slightly surprised. It wasn’t that Max didn’t seem to care, she’d just always been very focused on the present and future, not the past. Though, considering the mortals trickling in and out, this might just be a typical museum in Corporations space.
+
+As they flew upwards through the tower, using a hole in the floor of each level left for vertical passage, Matt got the opportunity to take a look at the floors present. They started with the earliest dead Ascenders, and were getting more recent as they went upwards. If Matt had been told that anyone had something like this, he would have expected maybe a couple plaques acknowledging their loss, or something like that. But each of the floors had way more detail than he’d expected.
+
+Because Max had been thorough. The earliest Ascenders didn’t have very much recorded about them, and even less was known about the presumed-dead ones. Those who Ascended tended to go out on their own terms, after leaving some kind of record for future generations. The dead ones… didn’t get the chance, but even a few glances in their displays was enough for Matt to pick up at least one or two things he hadn’t known about each of the fallen. Even when he didn’t see something new, there was always something noteworthy.
+
+Slayer Daedalus had what looked like the man’s entire custom runic system documented in an extensive library. Honestly, that seemed a bit dangerous, considering how it effectively had a mind of its own, but he trusted that Max knew what she was doing.
+
+Legend Death Knight’s last stand was rendered in an impressively gory illusionary scene, the man’s entire body splayed out as each bone and tendon individually grappled with a different one of the elites sent to kill him. Even after his probable-death, the necromantically animated body parts had carved a bloody swath through the Empire forces marching on Clans space, turning a near-stalemate into a horrendous loss for the old dynasty.
+
+Some parts of the Empire still had a superstition about random deaths being from one of Death Knight’s fingerbones claiming yet another victim.
+
+Gladiators Tick and Tock’s floor was illuminated by a light source Matt didn’t recognize, but was labeled to his [Identify] as being stardust collected from the remains of the Tier 25 star that the Clans had burned with their subsequently-banned superweapon to vaporize the duo. Matt didn’t have much time to look at their exhibit though, as they arrived at their destination.
+
+While none of them had been sparse, the Master of All’s memorial was exceptionally detailed. Practically everything about the man was displayed somewhere in the hall, all around the centerpiece, an impressive recreation of the man’s dismembered body, limbs separated from the torso and his head little more than a bloody lump of flesh.
+
+“Now. Charl was very charming. When he wanted to be. Even when he wasn’t, he had something of an aura around him that made it just oh so easy to excuse his problems as being no big deal. More on that later. Anyway, I’d known him for a while, we’d fought a few times in a couple of wars. There were… a lot of us active, back then. And things were far more tense, because the War of Monsters was in very recent memory. Despite that, we got along decently well, and while he wasn’t really my type, I’d never really had a problem with him.”
+
+“Anyway, it was fairly well-known that he had a harem. A bunch of airheaded women he’d met on his travels and who were just so enamored by ‘the wonderful Andes Charl’ that they just had to tag along with him on all of his adventures. So, it wasn’t that weird when he was an absolutely incorrigible flirt. He just was like that, it was no big deal.” Max shook her head. “You have no idea how much I improved my mental defenses after this. But I digress. He was always trying to get us women Ascenders to go on a date with him. Not that any of us really cared to oblige. Lila never really played along, Sien already had a thing going on with someone else, and I was bored enough to agree to a single date.”
+
+“I was very clear that I had no interest in joining the gaggle of girls following him, slack-jawed in awe of his every move, but he insisted it didn’t have to be anything that serious. Just a bit of fun, it only needed to be a one-off between two people who could properly understand each other. Eventually, I agreed. He really was that charming, and hey, he was probably pretty good at the whole dating thing considering how much ‘his girls’ claimed he was amazing. In hindsight, another red flag by the way, not that I’ve been calling most of them out. I know that the opinion of random power-leeches like that is essentially negative value, and I knew it at the time as well… but Charl… Anyway. We started our date mostly by strolling through scenic places near our mutual borders undercover, enjoying a bit of anonymity, when I piece it together.”
+
+She paused, “Okay. So, for the sake of this making sense to you, I’m not going to try and explain the exact way that I figured everything out. Instead I’ll just break it down from the start. Charl was a Talent thief. His Tier 1 Talent allowed him to ‘claim’ the Talent of those who he ‘conquered.’ His Tier 3 let him keep and use multiple ‘claimed’ Talents, compounding their power. His Domain was also tied into it, letting him steal skills and even some Domain powers, but he mostly cared about the Talents. His harem was composed of women who he’d ‘conquered’ in bed, and stolen their Talents as a result. Once upon a time, they’d been powerful, ambitious, and clever Talented women, until Charl got his hands on them and tore their spirits in half for a Talent he’d as often as not toss out just a couple months later when he found something more exciting or powerful to replace it with.”
+
+Matt sucked in a breath at Max’s explanation of the Master of All’s true abilities. It made sense, but meta-Talents were so rare as to practically be a non-factor. Talent removal was essentially a myth, Talent stealing was the sort of bogeyman that only existed in movies and novels.
+
+His mind inevitably went to Manny and how Charl was a lesser version of the Tier 50.
+
+Matt paused as he realized the flaw in his own logic. It might be more accurate to say Manny was the lesser version of Charl if everything Max said was true, which he had no reason to suspect she wasn’t. Being able to not only steal Talents but stack their effects was something out of horror movies and folk tales.
+
+His musings were interrupted by Max continuing, “And that’s what he wanted to do to me. I, obviously, objected. Strenuously. You know how you always hear that I brought Charl back in six pieces?” She pointed at the recreation of the man’s corpse, with his limbs floating a few inches away from his torso, and his head nothing but a bloody mess. “Guess what the sixth piece was.”
+
+Her grin was predatory for a moment, before it morphed into something that was obviously insincere, and her voice changed to a much lighter lilting tone. “Speaking of which, I’d like to talk with Rah about getting a sample of his spirit in case I need to forcefully descend the Master of All if he ever manages to make a comeback. I’m pretty sure I can use his spirit as a calibration vector if the bastard somehow survived a progressive mind-wipe, spiritual shredding, three personality overrides, and a very shattered Domain on top of a cell-by-cell brain deconstruction and cranial pulverization.”
+
+Matt hadn’t known that but was still mildly offended. “And you thought I might be like that?”
+
+“Thought? Not really. But we didn’t think Charl would be that bad either. We definitely feared it might be the case. Even before everything came to light, he was warping the vibe of the group chat, and that’s far too precious a thing for us to risk. I know you appreciate having people who get it. We care just as much, if not more, as none of us had fellow same Great Power Chosen near our own age and Tier.”
+
+“I think I’m still adjusting to the fact he could steal Talents from people while they were still alive. Removal post-mortem is how that usually manifests, but stealing? Shit, how did they survive at all? Their spirits must have been irreparably harmed.”
+
+Max shrugged. “It’s the only one I’ve heard of as well and I searched through every record I could get my hands on afterward. It might have started as a ‘normal’ scavenging Talent, but he pushed it hard. For all his faults, the asshole was driven to be the best.”
+
+Matt looked at the dismembered replica of Charl and asked what he felt was the most important follow up. “And what happened to his harem? Did they die alongside him? I’m assuming his Talent was keeping them alive in some way.”
+
+Max smiled, and Matt thought it might be the first true smile he had ever seen from her with her fractals brightening and swirling.
+
+“See, it’s questions like those that distinguish you from Charl. To him, people were either something to be pursued or something to hold onto as a trinket. The only reason he didn’t just discard his ‘spent conquests’ was because their minds were so twisted into pure devotion and praise towards him. But to answer your question, a lot of them are still alive. By the time the news that he was dead had properly broken, myself, Sien, Lila, and Olivier had raided his sect and retrieved the bulk of them. The rest took longer to track down, because he didn’t keep them all in one place, but Ollie is fast.”
+
+“Did his sect know about his Talent?”
+
+Max snorted. “Naturally. He got a lot of good Talents with their assistance, either killing them if he didn’t take a shine to them, or adding them to his harem if he did. It’s a bit tricky to say how much exactly they approved of what he was doing, because one of his earlier Talents gave him that aura I mentioned, of anything he wanted to do being fine.” Before Matt could clarify Max answered the question he had really wanted to know. “Not that it got them any mercy from us. Sien obliterated the sect in question and picked a fight with Grand Elder Desolate Plains about just how far it's acceptable to go to empower an Ascender.”
+
+Knowing that Sien, Lila, and Oliver all had come to the rescue of the harem members lightened Matt’s mood slightly.
+
+“What happened after that? Were they able to be healed?”
+
+Max sighed and shook her head as she turned and led him out of the museum. “Not healed. The kind of damage they have is the sort you need a high-Tier spirit-specialist overhealer, the kind which just makes no sense at all, to even get a chance of beginning to mend. Anything that works by conventional medical techniques simply has no chance. But, we’re keeping them alive and trying to rehabilitate them. It’s not easy though, for all that they can sometimes pass as simply airheaded, they’re shells of people in a very literal sense. It’s been an ongoing project of mine to try and reconstruct whatever is left of the original person as much as possible.”
+
+Entering a blank room, Max started an illusion which showed them in a healing ward. “Honestly, mind-wiping them all and restarting them as blank slates would be far easier, but they… aren’t really in their right minds enough to properly agree to that sort of thing. Some still took it, but only once we’d verified it’s not just because they’d rather forget their ‘master,’ and at that point most of the hard work is already done. We’ve even had a couple essentially return to full normality, including new Talents, but we aren't really sure what differentiates them from the others.”
+
+The information about developing new Talents was interesting, but Matt didn’t bother thinking too hard about it when he realized the method to recreate it was not only cruel but gone forever.
+
+She took a deep breath and let it out, but stayed quiet as Matt walked through the illusion, parsing the information that was being fed into it. It had a substantial amount of research data and Matt let his [AI] churn through it.
+
+“If you send me the information I can have my guild and a healer friend go over it all. No promises on either front, but it can't hurt.”
+
+Melinda’s Talent was unable to interact with spirits at all, but he knew that limitation had only pushed her into researching that side of healing, so she might have some insight.
+
+Max shrugged. “If you want. I’ve had the best healers in the Corporations look at them, so I doubt there is much they can do, but I won’t say no to more help. They deserve to have normal lives, and we’re looking at another twenty millennia before they’re all better at the current rate.”
+
+A burst of information later, Matt let his [AI] churn through it as well.
+
+To his surprise, it almost immediately came up with a possible way to lessen the impact from the backsliding.
+
+“Have you guys tried using Last Mountain’s Dew? Even though it's typically found as a Tier 10 natural treasure, it has the effect of making one's spirit more stable. I can’t see how that would be a bad thing in their case. Further simulations suggest using it in conjunction with Night Adder’s Venom might be useful for quickly repairing then locking in their spirits.”
+
+Max just stared at Matt for a few seconds before shaking her head. “Right, I shouldn’t be surprised your [AI] is that good. That’s literally why we’re doing the integration. How many cycles did that take?”
+
+“Only a few million.”
+
+“Only. As for the question, yes we thought about using Last Mountain’s Dew. We discarded the idea because we aren’t trying to stabilize their spirits as they are but get them to regrow completely. We never considered pairing it with Night Adder’s Venom. I’ll pass that along, and we'll see if it's viable. I won’t forget to check in on the status of the integration, by the way. I was talking with Delphi that I’m working with someone else on it - don’t worry, I didn’t say it was you - and she had some ideas for some setup that I’m kinda now sad I wasn’t able to do. Do you want to focus on that this visit, or wait until later? I know you’ve still got some mods left before the fun really starts, but it’s always fun to talk strategy!”
+
+Matt shook his head. “One thing at a time. I want to make sure I’m prepared for my Truth's mental effects before anything else. Especially mind altering things like integrating a skill into my subconscious. That's honestly kind of scary.”
+
+Max clapped her hands together before rubbing them. “Okay! Then let's get to work. Sooner started sooner finished.”

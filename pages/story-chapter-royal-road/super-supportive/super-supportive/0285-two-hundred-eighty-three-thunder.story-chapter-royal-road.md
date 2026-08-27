@@ -1,0 +1,385 @@
+---
+id: 19d6194f-b015-5de5-be24-8a705ec9fe74
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED EIGHTY-THREE: Thunder"
+slug: 0285-two-hundred-eighty-three-thunder
+partOf: super-supportive
+position: 285
+ownLength: 4899
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3299314/two-hundred-eighty-three-thunder"
+royalRoadId: "3299314"
+---
+
+283
+
+******
+
+Alden wished the water were colder. If it were numbing, dark, and churning with debris, maybe he’d be able to call on that part of himself that had once preserved Zeridee-und’h without touching her. That had been a near-death moment for both of them. Painful. Terrifying.
+
+But this pool was warm and gentle. Underwater speakers played soft music. The best he could do now to remind himself of that much worse time and place was keep his eyes closed and hold his breath until it hurt.
+
+I am The Bearer of All Burdens. I am an Avowed, but I’m also a wizard. Sometimes I need to hold things without using my hands. That doesn’t mean I’m laying my burden down. I just want to bear it in a different way. I know it’s possible. I know the universe remembers what I sound like when I do that.
+
+So this time…
+
+He let the object he was protecting—a fluffy white towel—leave his grip slowly. Holding with two fingers, then with one just barely touching…then finally, as if by accident, letting the weak current of the pool pull it away from him.
+
+He lost it immediately.
+
+Dammit! The difference between it touching my finger and not is nothing. It’s irrelevant. It should be irrelevant.
+
+He snatched the drifting towel and launched off the bottom of the pool, seething as he broke the surface. Two kicks had him at the edge, and he lifted the soaked towel out. It landed on creamy, gold-flecked tiles with a splat. Water from his previous attempts had made a puddle there.
+
+[Alden: Again.]
+
+[Lute: Entrust towel.]
+
+Lute didn’t bother opening his eyes. They’d been doing versions of this exercise for over two and a half hours.
+
+It had been better at the beginning. They had started in the North of North Super Olympic pool, and Lute had agreed to being preserved a generous number of times before he’d told Alden that it was his new least favorite way to go swimming and asked for a break. Alden had shifted to repeatedly drowning the towel and going off the dives with it, trying to get the hang of preserving it as he fell and using it to break his fall into the water. But then they’d had to move out to allow others who’d booked pool time to practice.
+
+They’d come here to this much smaller, calmer spa pool instead. Every guest had a lounge chair in its own nook facing the water, but even though most of the chairs were taken, nobody seemed interested in swimming. Alden was the only person in the pool.
+
+Everyone else was partially hidden behind sheer curtains and plants. They were baking treatments into their skin under shell-shaped rolling lamps or drinking complicated arrangements of potions from thimble-sized cups.
+
+Lute was currently bathed in orange light with his feet wrapped in strips of seaweed to counteract the horrors of chlorine or ramen noodle toxicity or something like that.
+
+Alden hadn’t read the menu of services or touched his own lounge chair.
+
+He picked up the towel, concentrating on getting only cloth with as little water as possible. He did seem to be getting better at this at least. He managed to preserve a towel that was dampish instead of wet and went back under with it.
+
+While he was trying to convince himself that preserving a towel correctly was a life or death matter, a “call rejected” notice appeared and put him in an even fouler mood.
+
+He’d told the System to call Worli Ro-den once an hour until the man answered.
+
+Apparently, the professor wasn’t on Earth anymore. So Alden couldn’t go to Matadero and embarrass himself by trying to pry new secrecy contract tattoo terms out of him in person.
+
+And Ro-den obviously wasn’t taking calls from the guy he’d told to leave him alone.
+
+A sharp break. Nothing more than empty pleasantries if we ever meet again. It would have been more convenient for him if I’d died. I wonder if he wishes I had.
+
+Alden’s towel got wet.
+
+He emerged from the water and slapped it onto tile.
+
+[Alden: Again.]
+
+“You’ve been training almost all day,” said Lute, sitting up just enough to see him this time. “It’s New Year’s Eve, man. Are you trying to level up before midnight or what?”
+
+“That would be nice, yes,” Alden said. “Again.”
+
+Lute sighed. “Take the towel.”
+
+Alden did.
+
+Lute was wrong about him training almost all day. It had been literally all day. Alden had done his casting practice before Lute woke up this morning. Then wordchain practice. Now skill.
+
+He was trying not to wonder if he’d hurt Stuart’s feelings. And trying not to think about how much he would upset him in the future before this problem found some kind of resolution.
+
+He won’t give up on me very soon. Even if his feelings are hurt and it seems like I’m being careless or cruel. I’ve been too clear about how serious I am. I’ve trusted him with so much.
+
+But it’s going to suck so bad. All of these misunderstandings.
+
+Alden felt like he’d lose his mind if he didn’t try to fix it, and the strong urge to fix it was unfortunate in its own way because it made him start thinking   about how every interaction they had might be used to clue Stuart in. Then, every idea to that effect became a firm no thanks to the tattoo.
+
+Ro-den, if he ever answered at all, wouldn’t agree to alter anything about the secrecy contract. Alden was almost certain of it. The slim chance that he might be wrong, or that Ro-den might answer while he was drunk and therefore more susceptible to persuasion, kept him calling.
+
+And if he didn’t answer, Alden would just continue to waste money trying. He would count the rejections and the lost argold, burning them to fuel his own anger and determination as he plowed toward the loophole Ro-den didn’t know he should be worried about yet.
+
+Secrecy agreement can’t stop me from leveling, he thought with grim pleasure.
+
+Lesson One was about how to level the skill the old fashioned way by taking advantage of the System, and Ro-den acknowledged if I grew powerful enough with it people would eventually notice. It’s baked in. Totally allowed.
+
+Now he thinks I should take it easy for a few decades. He thinks that even if I don’t do that, it’ll be years before I become suspiciously powerful. But I will make this skill so fat, so fast that next week they call a special session in the Grand Senate to discuss what’s going on with me.
+
+Next week might be a bit too soon. And the Grand Senate might be a bit the wrong group of people. But Alden was soothing himself with the vision anyway.
+
+And maybe it’ll be like an apology gift to Stuart. When it all finally comes out, and he understands why I’ve been lying and acting like a jackass, I can at least tell him I was trying everything I could think of to close the power gap between us faster.
+
+Not much of an apology gift, but what else could he do at this point?
+
+Limit the hurt I cause. Maximize the leveling.
+
+[I’m going to beat you to hyperbole, Lute,] he texted when he rose from the pool with another soaked towel.
+
+“I’m never going to get there,” Lute said. “But that still sounds pretty bold coming from a B-rank Rabbit.”
+
+“I mean it. Again.”
+
+“I feel like I should refuse to entrust it for at least a minute so that you have to breathe. You’re getting crazy from lack of air.” He paused. “Crazier.”
+
+“Again,” Alden insisted.
+
+******
+
+******
+
+The first beams of the day’s light fell over the old house in Rapport I and over the person who stood on the farewell path, looking across a yard where hundreds might once have gathered to see a child of the house off. It was empty of people except him this morning, but all the tools of the ritual remained.
+
+Stu had made his promises to the land and nourished it through the night. There was freshly turned ground by the path, and deep in the house, his footprints erased some of the dust in rooms that rarely saw visitors. Now he drank a sweet drop taken from the sap well and felt all his preparations becoming complete. The long leaves that had been laid against his inner arms and around his neck settled and bound themselves, distinct from his own skin but just as comfortable. The root bands on his ankle tightened, and the long walking stick in his hand yielded beneath his fingers to form a grip.
+
+He was exhausted, which was surely not the way his ancestors had sent off traveling family members, but it was unavoidable since he was both the person leaving on the trip and the only one telling the land about it with blood and magic. He’d come close to fainting, but it was worth it now.
+
+“I, Sina Stu-art’h, take your gifts with me,” he said, sending his voice far. “I will return to you soon with riches and knowledge from foreign lands. I accept your strength so that I may strengthen you.”
+
+No living soul sent their voice back to him to wish him well on his way, but he heard something more than usual in the whisper of the wind and the creak of the branches over his head. The world was different now than the one the old house remembered, but nothing had been completely lost here in Rapport I.
+
+Not yet.
+
+He walked down the path, directing the timber and a few other supplies he was taking from the old house ahead of him with a wand of levitation. His walking stick dug into the ground with every step while his thoughts raced ahead of him.
+
+His enemy was a smarter and more powerful wizard than him. He was also shameless and experienced in deceit. And he had some unknown but significant degree of control over a person Stu cared about.
+
+There was much to do, and he couldn’t rest. The more time passed, the more likely it became that his family would discover he was up to something strange.
+
+“Call Master Leeter-zis,” he said.
+
+******
+
+******
+
+Alden was about to ring in 2041 on the roof of the Forthright Building with a plastic flute of sparkling punch, a group of students who’d chosen this little school-sponsored celebration over the vast array of options available off campus, and Lute.
+
+Who was being really judgmental for a person who was also attending this event of his own free will.
+
+“I bet everyone here thinks toasting bread makes it too exciting,” he grumbled at Alden from where they stood on the roof’s edge. “I bet the distant sound of a firework will scare them all back to the library.”
+
+“Mmmm,” said Alden. He was preserving his punch and two napkins. All separately, though to anyone watching that wouldn’t be obvious. Three objects was his record, and his skill would be exhausted any second now.
+
+“I should have brought an instrument, but I’m afraid music might be too thrilling for this group,” Lute said. He was facing Alden, but his eyes were fixed on his interface.
+
+Emilija, Natalie, and Hadiza were posting videos from a Rabbit party where all the guests were wearing silver and gold. It was being held at a mansion owned by some person famous for cosmetics, and everyone there was putting on color-changing lipstick in preparation for midnight. Lute had explained this to Alden more than once, like it was a dire situation instead of an expected one. The girls had been hopping to luxurious parties almost daily.
+
+“They’re starting a conga line now,” Lute said darkly. “Are you watching this?”
+
+Alden wasn’t watching other people dance. “I’m on the course registration site. I’m trying to change some of my classes for this quarter, but one of the ones I want to swap to is full. I need someone to drop.”
+
+Lute shook his head. “Who else is going to be working on their class schedule right now?”
+
+“Someone with resolutions for the new year that make them want to change classes,” said Alden. He looked around the roof. “Like me. Do you think anyone here might be having second thoughts about Advanced Independent Study of Other Worlds?”
+
+“That…sounds like a third year project course. For a third year who isn’t in the hero program.”
+
+“I also need someone to let me on their obstacle coursing team so I can get into MPE: Coursing I, but half of the teams that say they’re looking for members have already rejected my application.”
+
+“You want to be on a team? When did you decide to do that?”
+
+“Today….I wonder if I could get the school to call learning wordchains with you an independent study? Maybe if I promise to master a certain number by the end of the quarter and be tested on them?”
+
+Lute swiped his interface. “Today, you’ve been…not strange, exactly, but different. Did something happen on your trip?”
+
+He glanced at the rings on Alden’s hands before refocusing on his face. Alden had told him what the rings were and that they were a gift from Stuart. But he’d said they were a show of support for his interest in word chaining.
+
+Did something happen on my trip?
+
+“I made several larger than normal decisions, and now I’m making adjustments because of that. Nothing’s wrong. It was a good trip. Actually, it was an awesome trip.”
+
+“What kind of decisions did you make?”
+
+“Ten!” the people on the roof around them suddenly called out. “Nine!”
+
+“I’ll tell you some of it later,” Alden said. “Back at the room. Not here.”
+
+“Six!”
+
+“Fine. I wish you were Emilija.”
+
+“You so wouldn’t be brave enough to ask her for a kiss if you were standing beside her right now.”
+
+“There are wordchains for that!”
+
+“ONE!” Alden and Lute both called with everyone else. Fireworks in green and white popped over the city skyline, and the people on top of Forthright clinked their plastic glasses. A girl leaped on top of one of the tables and spun, shaping punch around her waist like a tutu. A boy grabbed her ankles a minute later and lifted her up easily, and then another guy grabbed his ankles and lifted the two other laughing teenagers just as easily.
+
+Before the fireworks had stopped, there were multiple towers of people being built. “See, they’re not that boring,” said Alden.
+
+“I guess this is acceptable,” said Lute.
+
+“Only acceptable?” He spotted a couple of familiar faces on the other side of the roof near the elevator. They must have come up at the last minute. “Lucille!”
+
+Alden waved at her. “Lucille! And you, Marsha…do you want to build a tower?”
+
+He thought they might say no, but they put their heads together for a few seconds then headed over. Lucille was smiling shyly at Alden and Lute. Marsha was pointing a spear at people who were not yet committed to other towers and demanding to know their powers.
+
+“I meant just the four of us,” Alden said. “Just a fun little—”
+
+“Ours will be the tallest,” Marsha declared, dragging over some guy she’d just commandeered. “What do you do?”
+
+“Chainer,” said Lute.
+
+“I thought you looked familiar. You can go on top.”
+
+“I could hold up everyone on this roof at once if I wanted to,” Lute said.
+
+Nobody seemed to believe him except for Alden. But he did get to be the top  of the tallest human tower on Forthright a few minutes later.
+
+Hopefully this makes up for all the times I dragged him to the bottom of the pool today, thought Alden, while he listened to Lute shouting, “Come at us, new year!” from his shoulders.
+
+******
+
+******
+
+Stuart called Alden on the morning of the first. He looked terrible—pale and tired, leaning on a big wooden staff somewhere in the forest of Rapport I as night approached.
+
+“What’s the stick for?” Alden asked from his seat at his desk. “Did something happen at school today or was it…?”
+
+Was it my fault?
+
+“I visited campus briefly but didn’t go to my classes. There was something else I had to do. I’m well, my friend. Don’t worry.” He smiled weakly. “I’m going to see Healer Yenu soon. For you it will be Friday. Midday. I think it would be a good time for you to meet with her, too. If that’s all right with you?”
+
+“It is.”
+
+“We should walk the road to the House of Healing again. I’ll have you teleported to the welcoming place at the start of it.”
+
+“The little house there?”
+
+“Yes. It’s a spot where people can prepare and cleanse in various ways before and after they walk the road.”
+
+“I look forward to seeing Yenu-pezth. And you of course,” said Alden. “Get some sleep. I’ve put too much on you in the past few days.”
+
+“It’s my honor to be trusted with it,” Stuart said, even more serious than usual. “I will try always to take actions worthy of your trust.”
+
+It was a while after their chat had ended that Alden realized Stuart hadn’t asked about his supposedly sick cat. Or his skill.
+
+And he never did explain the stick.
+
+But Alden had talked to him the whole time with a spell book out on his desk and his auriad free on his wrist. That was something that still felt new and wondrous.
+
+He blew through his skill four times that day and still asked Haoyu and Lexi, who’d both arrived late that afternoon, if they wanted to take some aggression out on a preserved object before bed.
+
+“I want to!” Haoyu stood in the living room, looking with interest at the finger Victor had just tried to bite. The cat was hiding under the chair Lute was sitting in now, glaring at Haoyu and Lexi like he wished them both ill. “One of my goals for the year is more levels than Febri and Finlay. I still can’t believe Finlay went to Elites. He got along so well with everyone. I thought we’d get to keep him. But I’m going to beat his leveling speed, so I might need to punch you lots.”
+
+“Yes. Good. Bring it.” Alden shoved a bag of broccoli into the microwave. He was going to miss Finlay, too.
+
+“And I want to ask you about the rings,” said Haoyu. “What’s with the rings?”
+
+“My elderly aunt Stuart gave them to me. They’re hand armor. Forearm, too. Sorry I can’t let you try them on. They’re supposed to be getting used to me and only me.”
+
+“Seriously? You got magic gear for Christmas!”
+
+“You don’t have to refer to him as your elderly aunt when it’s us,” Lexi said from behind him. “What do you need hand armor for?”
+
+Alden turned around. “I like having hands.”
+
+Lexi pursed his lips. “That’s harder to argue with than it should be.”
+
+“Word chains,” said Alden. “My glorious spell impression. Music!”
+
+He pointed at their shared guitar. Lute had hung it on the wall behind where the Bromelimas tree had previously stood.
+
+Haoyu walked over to admire the rings more closely. “They look cool. I’d have to stick my hand in fire if I was wearing them. I’d just have to.”
+
+“You clearly chose the correct class,” said Alden.
+
+“Word chains and music?” Lexi looked over Alden’s shoulder pointedly.
+
+“Yes. That’s right,” said Lute. “Alden can do…a wordchain.”
+
+“I can do more than one! I’ve got the speed one down now, too!”
+
+“And he strummed a guitar twice,” Lute added dryly. “The aliens were so impressed by this that they gifted his hands with protection.”
+
+Haoyu laughed. “His new codename could be Special Fingers.”
+
+“That’s so much worse than Cottontail, you jerk. I’ll never answer to it.”
+
+His hourly call to another wizard who seemed determined not to answer was initiated right as he was pulling his broccoli back out of the microwave. Predictably, it went ignored.
+
+The guys teased him a little more about having special hand protection. And about his swimming experiments, which Lute made sound more extreme than they really had been. Haoyu volunteered to be his test subject the next time he wanted to practice with a living person.
+
+I’m glad I got to see them all again.
+
+Only a few days ago, he’d been afraid about how much of this he was losing. But all of it was still here.
+
+He looked down at his fingers and at the melted silver around the base of each one. Even more is here than before. Because Stuart agreed to help me have more.
+
+The rings said his spell casting was very important to someone other than himself. The teasing said he was still a part of things on Earth. He felt horrible about the drama ahead when Stuart inevitably got tired of not getting answers about the skill, but he also felt sure about bulling forward toward the future he’d chosen.
+
+“The Coursing class?” Lexi was saying in response to Lute filling them in on Alden’s string of rejections from obstacle course teams. “Did you talk to Kon or something? He developed a spontaneous passion for building a team a couple of days ago. He’s been nagging me to change my schedule around and join, but it’s the kind of thing that’s only worth doing if you’re serious about it. And I don’t think he is, since he had the idea at the last possible—”
+
+Alden swallowed a mouthful of garlicky broccoli. “You should do it.”
+
+He’d had no clue Kon was trying to put something together. But if he was looking for a way to spend more time with Lexi, Alden was going to push for it.
+
+“It’s really the last minute,” said Lexi.
+
+“Kon’s not going to goof off about something like this. Remember how much effort he put into his obstacle course team? And our team when it was us against Vandy’s mom and Haoyu’s parents? He tries so hard to pull his own weight for any team-related thing. It’ll be serious enough if he does it. And I can see why he wants to put together his own group. Everyone’s so picky.”
+
+“How dare they not want the hero program’s one and only Rabbit,” said Lute.
+
+“Exactly.” Alden looked at Lexi. “Nobody’s going to want Kon’s skill on their team either.”
+
+“I, for one, wouldn’t mind being invited to join Team Flying Dog Crate,” said Haoyu. “Hint. Hint.”
+
+Lexi grimaced at them both. “Our powers don’t complement each other well for something like this.”
+
+“So? That adds to the challenge,” said Alden. “And our personalities mesh fine.”
+
+“I’ll sleep on it.”
+
+After dinner, Alden offered to clean all of their dishes with his skill.
+
+“I told my elderly aunt I wanted to volunteer for some work in the future,” he said, voice calm and steady as he took a knife from Lexi, stripped it clean with careful preservation, then passed it to Haoyu. “In a baby level chaos zone. So I’m aiming toward something more like that than superhero stuff.”
+
+Lute had already been told, in about this same way.
+
+There was a hitch in their washing system—Haoyu freezing with the knife, Lexi failing to deliver the next fork. Alden looked between them.
+
+“Were you just asking?” Lexi said finally. “Or are they really going to let you?”
+
+“The second,” said Alden, motioning for the fork. He didn’t think he needed to say how soon that future would be. Or talk about the kind of work he’d volunteered for. This amount of the truth felt right as a starting place. “I don’t think I want to tell the teachers or anyone else in our class yet. Might change my mind. For now, it’s just you guys.”
+
+He could practically feel them mental texting behind his back. But the fork landed in his hand. The dishes ended up clean. And all the roommates sat down in the living room to watch Victor rocket around doing mock battle with a temper sphere.
+
+On Wednesday, Thursday, and Friday they had classes. But it felt more like a  revving up period than normal school. Students were still allowed to make adjustments to schedules, and teachers were busy establishing course expectations. Alden and Lute spent most of Friday morning in an etiquette session that was required for people who’d be learning from an Artonan instructor. Next week, they’d both be starting the uni class that Kelly had recommended. A traditional kind of storytelling with the visiting performance artist Warin-doyis.
+
+The faculty member in charge of their etiquette session made it sound like they would be summoned for public torture if they ass-abused their cushions. Alden paid attention, but he was already thinking ahead to the rest of the day and the weekend.
+
+Stuart hadn’t called. It felt odd, but maybe that was just because Alden wanted to talk to him more than usual. They’d see each other soon, and the long walk to the House of Healing would give him plenty of opportunity to say all the things he’d planned out. He wanted to buy time, avoid lies if possible, and reassure Stuart that he was sane and on top of the skill question. He thought he could manage it.
+
+And then he’d spend a couple of days in the Rapport. Stuart would have classes, but they could hang out some.
+
+I’ll put it all back as right as it can be for now.
+
+He was determined not to let the Triangle of Absolute Secrecy throw a wrench in today. After changing clothes and leaving Lute back at the dorm, he headed to Matadero a bit early and waited in the teleportation area for the notification to come in. He had a bunch of grapes and a cantaloupe.
+
+He would greet Stuart warmly to make up for the way he’d left.
+
+If there are no wizards around, he’ll let me know with his authority greeting, and I’ll base mine on that. I can show Healer Yenu how well I’m doing. I’ll get to see the Sdyelis Branch. Maybe take some pictures of it for Kon. If I adjust to Stuart’s schedule and wake up early tomorrow, we could do some casting then.
+
+The teleportation notice came in, and he stepped eagerly into the nearest alcove. The Systems routed him through the beautiful sky chamber in Vethedya then on to the small gray alcove in the little building that stood beside the road to the House of Healing.
+
+He barely had time to think that this place looked much nicer, somehow, than it had on his previous trip through. Then, he noticed there were two people present. It seemed like they had been having snacks at a table just a couple of strides away. Alden was happy to see Stuart, rising from a chair with his mouth open, but that happiness was countered almost immediately by the second person in the room lunging toward Alden with a look on his heavily tattooed face that was halfway between fear and violence.
+
+“Ro-den, you may not talk to him without m—!” Stuart shouted
+
+Alden said, “What’s going—?”
+
+And then Worli Ro-den’s rush knocked him a step backward, and a force like a Brute’s fist gripped some part of the reality nearby. Stuart’s words were cut off. And the room outside the alcove was cut off, too, by a barrier Alden couldn’t see but certainly felt when he tried to escape and his face bounced off it.
+
+“What’s going on, Ro-den?!”
+
+Stuart was picking up that new staff of his from where it rested against the table. He looked like he was going to murder someone.
+
+“Smile and wave your most comforting wave at the Primary’s son, Alden dear,” said Ro-den. His words were smooth and utterly sure even though his face was that of a man being pursued by wolves. “You and I need to have a quick private chat about our personal business, and I don’t think Stu-art’h there intends to let us unless you reassure him. Trust me, you’ll want to hear what I have to say before he makes this situation more confusing than it needs to be.”
+
+This alcove was too small for both of them and Alden’s suitcase. When he looked Ro-den in the eye there was hardly any distance between them.
+
+“Trust you?”
+
+One of the professor’s eyes flicked toward Stuart, who was stomping toward them with the staff raised.
+
+“I don’t think you have much of a choice right now,” Ro-den said.
+
+Alden lifted an eyebrow at him. “I think I have a choice. A couple really. This is a teleportation alcove, and I’m here willingly for medical care. The local Contract will just send me home if I ask.”
+
+“That’s an idea!” said Ro-den. “Go home. I’ll answer your call and explain—”
+
+“Too late,” said Alden. “I’d rather hear an explanation from the man with the stick.”
+
+Stuart swung the end of the staff at the barrier over the alcove.
+
+It hit like thunder.
+
+******

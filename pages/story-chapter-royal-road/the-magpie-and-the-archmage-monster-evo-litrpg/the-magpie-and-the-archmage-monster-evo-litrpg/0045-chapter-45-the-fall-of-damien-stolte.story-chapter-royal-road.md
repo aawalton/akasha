@@ -1,0 +1,191 @@
+---
+id: 003906ec-6b9a-5b78-aa1f-bc7a9b5bb238
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45 – The Fall of Damien Stolte"
+slug: 0045-chapter-45-the-fall-of-damien-stolte
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 45
+ownLength: 2093
+unit: words
+publishedAt: 2025-11-08
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2742627/chapter-45-the-fall-of-damien-stolte"
+royalRoadId: "2742627"
+---
+
+Serena, Kalen and Kiva looked at the newcomer in shock, as he sauntered into the Guild lobby, his hand raised high in the air as if he was some hero who just saved orphans from a burning building. The group of people following behind him were applauding, sleazy smiles on their faces.
+
+"Settle down, everyone! I understand that I've been missed, but I am a humble man. I don't wish to grab all the attention simply because I've returned," he said with a boisterous voice.
+
+"Did he hit his head?" Kiva whispered to Kalen and Serena.
+
+"He must have. Sane people don't behave like this," Kalen nodded, the two of them actually agreeing on something.
+
+"I don't get paid enough to deal with him," Noira let out a soft groan and hurriedly plastered her most professional fake smile, although it definitely looked forced.
+
+The adventurers who were in the lobby began to disperse, muttering something about being busy or having a meeting or some other excuse. It appeared that nobody wanted to deal with this guy. Serena decided that it was best to ignore him and instead turned back to Noira.
+
+"So do we have to share a room or do we each get a separate one?" Serena asked.
+
+Noira looked relieved to have an excuse to do something else but stare at Damien, and her expression relaxed.
+
+"Copper rooms come in two styles—double rooms for party members and single rooms. We currently have both types of rooms, so it is completely your choice on how you wish to stay. I personally recommend double rooms as they are a bit bigger," Noira explained.
+
+"Excuse me!" Damien's loud voice came from behind.
+
+Serena suppressed a groan. She was hoping that he'd go and bother somebody else, but things were never easy, were they? Begrudgingly, she turned around to face the young man. "Yes?"
+
+"I didn't know the Guild had started accepting paupers among their ranks. Move aside! I have to complete a quest," he proclaimed loudly, dramatically flicking back a lock of his golden hair.
+
+"This is the registration desk, not the quest reward desk," Serena stated dryly and pointed towards the sign above her head.
+
+Damien didn't like that answer. He let out an audible annoyed click and looked around the lobby. "Seriously, where are the standards of this organization? Letting in some dirty riff-raff covered in dirt and—what is that even—blood?"
+
+"Obviously! We just returned from a dungeon, fighting a horde of kobolds! Of course, we'd get dirty," Kalen protested loudly, protectively stepping in front of Serena.
+
+"What's with your armor even? Is that a rusted bucket? Aren't you ashamed to wear that?" Damien said, then tapped his foot impatiently. "I will give you my last warning. Get out of the way!"
+
+"Why should we? We were here first! And it's as Serena said—this isn't even a quest reward desk," Kiva hissed, her ears flattened to her head in anger.
+
+"What in the devil's name is that?!" Damien screeched and jumped back. "An abomination!
+
+"What? Never seen a beastkin before?" Kiva flaunted, but Serena noticed the weasel girl's finger twitch nervously.
+
+"Beastkin has no place in our beautiful city. I can't believe I'm breathing the same air as some half-breed filth!" Damien exclaimed and reached for his sword.
+
+"No fighting on Guild premises!" Mark called and shot up on his feet.
+
+But Damien didn't acknowledge Mark at all, his eyes poised on Kiva, who took a nervous step back.
+
+"Filth like that has no right to live among people. You should go back to the forests where you belong!" Damien said.
+
+"What right do you have to tell where Kiva goes?" Kalen challenged, standing in Damien's line of sight.
+
+"She's a threat to our society! Or have you forgotten what their kind has done to us?"
+
+"That was centuries ago! Things are different now," Serena protested, also standing in front of Kiva.
+
+Serena did understand where Damien was coming from. Beastkin were much stronger physically than humans, which they proved in the Great Beast War when a whole country was wiped off the map due to the overwhelming power of the beastkin army. But it didn't even happen on the same continent as Velithra.
+
+"That's what they want us to believe, but they still keep to their pagan traditions. What is it that you beastkin love to do? Sacrifice your own children to some Divine?" Damien spat in disgust.
+
+"We would never do that!" Kiva protested.
+
+But obviously, the man had no intention to listen, and he pulled out his sword. "Get out of our city! And you, too, pathetic excuses of human beings, who would defend such filth. I will not repeat myself."
+
+Serena was at a loss. She didn't know how to diffuse the situation, and looking around the lobby, it didn't seem like anyone was ready to jump to their defense. It appeared some wanted to but didn't dare. Was this Damien somebody so important that nobody dared to speak against him?
+
+Suddenly, just as Damien was drawing closer to them, something flew through the wide-open door and landed on his shoulder. It was Liora in her larger bird form. She held the pass in her beak and then dropped it in front of Damien with a loud, proud screech which sounded like the scream of a hawk.
+
+"What the hell is this bird?!" Damien yelled, trying to swat Liora away. But she merely flew up where he couldn't reach, performing happy circles around him.
+
+"The bird went in there!" Some voices called from the street, and before long, a group of ironclad guards rushed into the Guild.
+
+"There's the bird, and… Wait a minute! That's Lord Brakaar pass, isn't it?" One of the guards pointed at the pass that had fallen to the ground, pushing his helmet higher to see it better.
+
+"Is this your bird?" Another guard demanded from Damien.
+
+"Like hell it is! Get this thing away from me!" He protested, still trying to swat at Liora.
+
+"Drop your weapon at once!" The first guard demanded, drawing his own sword and shield.
+
+The other guards followed suit, while adventurers slowly crept deeper into the Guild. Serena felt a gentle tug on her sleeve as Kiva slowly pulled her and Kalen back.
+
+"I'm telling you that I have nothing to do with this crazy bird!" Damien yelled at the guards and was about to sheathe his sword.
+
+But the closest guard must have mistaken it for him trying to attack lunged forward, smashing the sword, his shield and sending it flying out of Damien's hands. Liora let out one of her wind slices at the guard; however, it was much weaker than what she had used against kobolds—it didn't do any damage at all.
+
+"The bird is even protecting it! There's no doubt that he's the master. He must have sent it to steal the pass," one of the guards in the back yelled.
+
+"I'm telling you that I've never even seen this bird before in my life!" Damien yelled, waving his hands angrily.
+
+That was the wrong thing to do as the guards all rushed toward him, and before long, the pompous youngster was buried under a pile of armor, unable to move.
+
+"You're going straight to prison, buddy! We'll hear your excuses there," the guard said, dragging him away.
+
+"You can't do this to me! I'm a disciple of the Silver Blade!" Damien yelled.
+
+"Then you should know better than to steal from an Elite!" The guard retorted while the blonde man kept yelling profanities and curses at him.
+
+"Wait, Captain! What about the bird?" One of the guards said, looking into the Guild lobby. Liora was nowhere to be found.
+
+"Be ready to capture it. I'm sure it'll follow its master eventually, and even if it doesn't, it was nothing more than a tool. As long as we've got the perpetrator," the guard captain said, shaking Damien.
+
+"How many times do I have to tell them that it's not my bird! I don't even like birds!"
+
+Everyone peered outside the entrance, watching the group of guards leave. Only when they were completely out of sight did people dare to take a breath.
+
+"Now that was something…" Mark noted from behind the counter.
+
+"I'm just glad it's finally over," Noira said, rubbing at her temples.
+
+"So… Can we get those rooms now?" Serena asked in hopes of breaking the tension.
+
+"Yes. I'm sorry for all that," Noira said. "So what arrangements would you like?"
+
+Liora watched gleefully as the blonde asshole was being dragged away by the ironclad guards. Some of them were still looking around, searching for her, but she suspected that they'd abandon their search soon enough. After all, the unusual bird would never show itself again in the streets of Cyene. All Liora had to do was wait for the System to heal last of her wounds.
+
+[Status]
+
+Health: Scraped
+
+Mana: Surging
+
+That necklace really did help me recover my mana.
+
+Yeah. It would be very useful if you could wear it the whole time.
+
+I think if I were to grow bigger with my next evolution, it wouldn't be a problem anymore.
+
+So you're not against evolving anymore?
+
+If I can turn back into my glorious magpie self, then I don't mind. But I still don't want any tentacles.
+
+Another distant scream from the blonde brought them out of their inner discussion, and they laughed silently at the man. She didn't feel even a little bit bad for framing him. Liora had seen the whole exchange that happened between him and Liora's group.
+
+Not only did he look down on them simply because they were poor and had just returned from a dungeon, but he was ready to attack Kiva just to get her out of the city. The weasel girl certainly wasn't Liora's best friend, but she couldn't stand for such behaviour.
+
+Hey, Renir?
+
+What?
+
+Do people really hate monsters and beastkin so much?
+
+Yeah… A few centuries ago, there was a great war between people and beastkin, in which beastkin won. They wiped a whole human country off the face of the planet—exterminated a whole race…
+
+It sure doesn't feel like they won the war.
+
+That's because it happened on a different continent. But people in Velithra knew of the bloody war from the survivors who came here seeking asylum. It's actually how this country developed into a meritocracy focused on magic—to be ready for a possible war with beastkin.
+
+That's… quite dark.
+
+Yeah… The war never did happen, but tension among humans and beastkin is still high.
+
+Liora wondered what would happen if she evolved into a beastkin one day. Would they treat her like the blonde had treated Kiva?
+
+But her thoughts were interrupted as her stomach grumbled. She hadn't really had anything to eat that day. Her stomach begged her for food, any food, but she knew that she had to lie low and wait until she could use her Magpie Disguise again. Serena would surely have something for her to eat.
+
+Three agonizing hours later, Liora had finally healed enough to use her Magpie Disguise again. She instantly changed her form and flew towards the Guild. The night had already settled upon the city, so she hoped that Serena and others were still awake. She needed something to eat.
+
+As she approached, Liora was delighted to see that Serena, Kalen, and Kiva were all at the training grounds. Kalen and Kiva were trading some light punches while Serena watched over them from the side.
+
+"Chak-chak-chak!" Liora announced her arrival loudly.
+
+The three of them turned and waved at her, smiles blooming on their faces.
+
+"Liora!" Serena cheered, extending her hand for her to land on.
+
+"The bird of the hour returns!" Kiva cheered, coming up closer to Liora.
+
+"Since when are you so happy to see her?" Kalen questioned Kiva.
+
+"Since she did THAT! It was absolutely amazing!" Kiva said excitedly, then she grabbed her hand awkwardly, her ears lowered. "I owe you an apology, little bird. You really saved us back there."
+
+"Chak-chak-chak!" Liora puffed out her feathers. "Sure did! Recognize my awesomeness!"
+
+The three laughed and each reached out to gently pet Liora's feathers. She allowed them.
+
+"Okay, let's go get you some food, Liora. I bet you're hungry. I also got your new Guild Ring," Serena said.
+
+Guild Ring?
+
+Excellent! This should make things in the city much easier. Not to mention that you'll be able to gain experience by completing quests.

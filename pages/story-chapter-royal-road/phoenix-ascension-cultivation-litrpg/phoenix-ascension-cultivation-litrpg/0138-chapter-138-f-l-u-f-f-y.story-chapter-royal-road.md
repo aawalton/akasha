@@ -1,0 +1,195 @@
+---
+id: 3f1e110d-6d75-5e60-8d14-785fa48ff9c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 138: F L U F F Y"
+slug: 0138-chapter-138-f-l-u-f-f-y
+partOf: phoenix-ascension-cultivation-litrpg
+position: 138
+ownLength: 2023
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3524252/chapter-138-f-l-u-f-f-y"
+royalRoadId: "3524252"
+---
+
+I was glad that humans could also join the order, though it took Meng Mao far longer than it did Yo Na to make a connection with me. It was convenient though.
+
+Now that I had another goal, I needed to find a way to get Bulter Mo on my side, or at the very last to work with me. I didn’t think doing that would be easy, but it had to be done. For the Qilin horn!
+
+Then again, he was eager to talk with me, so mabe he wanted to work me already, but wasn’t sure how to go about it. Honestly, I wasn’t sure how to go about it.
+
+But we could only wait. I didn’t take any drastic measures and decided that letting Butler Mo prepare the cards was the best option for the moment. He did mention something about the time not being right yet, however I didn’t have the patience to wait for him for too long.
+
+I did go out of my cage and pulled out some of the meat I’d stored. I was famished and whatever these people were giving us was barely enough.
+
+At the smell of meat, the small tiger cub perked his ears and walked toward the edge of the cage. His tail wagged slowly, and his ears paced back and forth as he stared at the giant piece of food.
+
+The turtle was no different, as he’d also gotten out of his hell and looked at me with desire. The red bird… was… also watching. Like a predator seeing its prey, but it was trapped, much as the others were.
+
+I didn’t fail to sense a lot of the other Spirit Beasts also poking their heads out as much as possible.
+
+I let out a sigh before I could begin eating and started sharing the meat. I still had a few large pieces in my bag of holding and dantian, so it wasn’t the end of the world.
+
+Cutting it up in many smaller chunks, I handed one piece over to the tiger. I could put things through the cage without needing the key to unlock it, but taking things out was much more difficult.
+
+The small white tiger cub looked at me with large, bright shinning eyes, and he licked his lips. Once the meat was down, he only waited for a moment before sinking his fangs into it.
+
+I did the same for the turtle, who thanked me, and gave one to the bird as well. It was rather big compared to her size, so I was wondering if she could even finish it all in one meal. As it turned out, I didn’t need to worry. She was doing a great job at devouring and inhaling the meat.
+
+After feeding the three closest to me, I went around all the other cages and gave each Spirit Beast one piece of meat. When I’d finished that first large piece, I took another one out, and repeated the process until everyone had gotten a taste.
+
+Finally, it was my turn to eat. I sat down and picked a large piece, and ate it with everyone else. For that moment when everyone was eating proper food instead of the crap they had to keep us weak, the atmosphere in the giant zoo lightened for a bit.
+
+Some more time passed, though I’d began losing count. I sat in meditation for most of that time in front of the walls, trying to figure out how they worked. The gaps in my mind slowly mended as I’d gotten new yet old information, part of my soul responding to my need to know more about inscriptions.
+
+Yet, this world had brand new knowledge I’d yet to fully grasp. The techniques used to write them, for example, were different from all of those that I’d known. There was something different about the runes I’d already known as well.
+
+They were the same, but written in a different fashion, their meaning remaining the same but functionality differing greatly.
+
+As time passed though, I was slowly grasping the hidden meaning of those protection runes, and tried to find a gap I could exploit. I hadn’t dared write my own symbols yet, and  was incredibly rusty when it came to those.
+
+I gained many insights while studying the runes though, and I believed that I could break them with enough time. That was my secondary goal.
+
+My primary goal was though…
+
+The door open and Butler Mo’s footsteps finally blessed this realm once again. He’d taken his time in coming back, but I was awaiting good news.
+
+I flew up and waited for him with my fellow Spirit Beasts.
+
+When he saw me, stopped and did a double take, the expression on his face unlike anything I’d seen before.
+
+“Did you… get fatter?”
+
+Me? Fatter?! How dare you!? I chriped and raised my wing in an accusatory point. I am merely fluffy! F L U F F Y!
+
+Butler Mo paused, closed his eyes and took a deep breath. “Right. What about him?” He pointed at the white tiger, whose belly was on the verge of exploding.
+
+Also fluffy.
+
+He glanced at the bird, but didn’t say anything. He was better off not knowing, probably. The Black Turtle didn’t show any signs of gaining weight, though he did come out of his shell far less than usual.
+
+It seemed that the meat of a high level Spirit Beast was quite nourishing for those little ones.
+
+Do you have any news?
+
+‘I do, but first we need to talk. I cannot stay here for a long time, but telepathy makes communication far easier. I assume you’ve also had time to think about your situation.’
+
+I have, but I still need to hear your side to decide.
+
+‘Right. Though there aren’t that many choices if you ask me. Now tell me why are you here and what does Meng Mao want?’
+
+I thought you already knew what he wanted?
+
+‘I need confirmation so I know how to act. You don’t have much of a choice right now but to answer honestly.’
+
+I pretended to hesitate, as if asking myself if divulging that information would be the right thing or not. Staying silent for a few seconds, I waited for Butler Mo to put some pressure on me.
+
+‘If you don’t speak, I will make sure you don’t come out of this situation unharmed.’ He spoke with such vice and determination that I got a little intimidated. However, it was obvious he had no idea that I was acting. That was going to work out in my favor.
+
+It’s not that easy!
+
+‘Do you want me to make it easy for you?’ He’d imbued his thoughts with Qi, sending a slight amount of pain through my mind. He’d actually attacked me! What an ass!
+
+Augh! I squirmed and dropped down in pain, clutching my head. Fine, just… Fine, I said! Just stop!
+
+He snorted, and I felt a little bit of pride from our connection. As it turned out, Butler Mo wasn’t a man outside the expectations of humanity.
+
+Heaving for breath, I pretended to struggle to stand up, though given my current fluffiness level, it wasn’t that difficult. I’d truly eaten too much and all that Qi had to get processes somehow. Overeater was a great boon.
+
+I wasn’t sure if the others had it though, maybe the bird and the tiger just got fatter naturally.
+
+Either way, my act worked, more or less. Butler Mo would have to be a very good actor to fool me like that, but if he wasn’t then he was convinced that his attacks had a good effect on me, which was great.
+
+‘Speak, now.’
+
+Did you have to be so violent??
+
+He didn’t say anything, just staring at me.
+
+Right. My goal is coming here was to steal the Qilin Horn from the Young Miss’ treasury.
+
+Butler Mo raised an eyebrow upon hearing that.
+
+‘That’s it?’
+
+What? Do you want more? I would have probably taken some other things if they were valuable, bust mostly the Qilin Horn.
+
+He let out a laughter, a genuine, amused laughter.
+
+‘Oh, to be young. You are risking your freedom and even life for a mere Qilin Horn?’
+
+There is nothing mere about a Qilin Horn! It’s rare, and I want it!
+
+I’d actually gotten offended at that.
+
+‘Of course it’s rare, but so is a Phoenix Feather…’ His expression was rather dull, but he was amused.
+
+Let’s forget about that, alright?
+
+‘Sure. And what was Meng Mao’s goal?’
+
+Much simpler. He wanted to know what Guo Lu Poo knew about him that could get him in trouble.
+
+‘Oh? I didn’t know Meng Mao’s spies were so close to us. It seems like I’ll have to launch an internal check up. That was classified information.’
+
+Damn it…
+
+‘Damn it indeed.’ Butler Mo squinted, and looked at me with suspicion. ‘Surely that can’t be all.’
+
+I rolled my eyes.
+
+Of course not. He also wanted dirt on the big man, but now that’d be impossible to do.
+
+‘Ineed it would be. So, what’s your plan now?’
+
+That’s none of your business.
+
+He smiled.
+
+‘Then I guess you don’t want to get your freedom back. Although you will, since what I want you to do for me is going to require your collaboration.’
+
+What is it?
+
+‘I want you to get close to the Young Miss and show her that the way she’s been treating these Spirit Beasts is wrong.’
+
+…What?
+
+***
+
+Butler Mo left after giving me his grand plan, and I just wanted to say that it was utterly insane. Me? Getting close to that brat? Getting her to ‘love’ Spirit Beasts? Hah! As if that would ever happen.
+
+If she loved Spirit Beasts she would have stopped this madness long ago. No, such a thing was simply impossible. Some people were born with arrogance, and she’d been nurtured into arrogance and pampering from a young age.
+
+At this point her views on Spirit Beasts would not change for the better, not like this anyway. Though one could never know, in my experience, people didn’t change so easily. Ever.
+
+Shaking my head, I went back toward the wall and continued my inspection of the runes. We’d agreed that I would try to do what he wanted. To achieve that, Butler Mo would get the girl in here and I would need to act like a pet.
+
+It was going to be humiliating, but once she took me out, I would have my chance.
+
+Even if he hadn’t come out with a plan to get out, though, I’d already had a few things in mind. My solutions to get out ranged from hiding with one of the maids by using Perfect Disguise by copying their appearance and mannerisms, to blowing up the wall.
+
+I supposed themt aking me out was much the best solution, though not the only one.
+
+While I was busy comprehending the wall, the turtle’s voice echoed in my mind.
+
+‘You don’t actually intend to attempt reforming that girl, are you?’
+
+Not in the slightest.
+
+‘What can I do to help?’
+
+I don't think there’s very much you can do unless you find a way to get out of the cage.
+
+‘Oh? Maybe I can do more than that. I can talk to you right now, can’t I?’
+
+What are you saying? I raised an imaginary eyebrow.
+
+‘You plan on getting us out of here, right? Then what better way than to have everyone’s support. They already adore you because you gave them something good to eat after so long, it’s not out of the scope of the imagination that they would be willing to aid you.’
+
+Aid me with… what exactly?
+
+‘Creating chaos, of course. That meat you gave us was… very rich in strength. I feel that I’d gotten much stronger than before. If enough of us can break the cages and get back to our peak strength…’
+
+You… you’re a madman!
+
+The turtle chuckled in my head. No, I am a turtle.

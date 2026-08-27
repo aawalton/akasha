@@ -1,0 +1,759 @@
+---
+id: d98403b2-5963-50b3-bdc0-65a1aad8f308
+page-type-slug: story-chapter-royal-road
+title: "426 Unweaving a Puzzle"
+slug: 0386-426-unweaving-a-puzzle
+partOf: the-new-world
+position: 386
+ownLength: 5212
+unit: words
+ownProgress: 5212
+publishedAt: 2025-05-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2287699/426-unweaving-a-puzzle"
+royalRoadId: "2287699"
+markedReadAt: "2026-06-29T21:34:35.043Z"
+---
+
+Althea rolled her eyes.
+
+"What? How is Daniel a prisoner, and you're not? You're made of Daniel."
+
+Torix's eyes flared green.
+
+"Semantics. Now, let's go and finish uncovering the secrets of the Shattered Spires, shall we?"
+
+I smiled.
+
+"Let's."
+
+Chapter Begin
+
+We walked out of the cavern, finding the mist still pooling in the depths of Central Park. As was the case in the Grand Canyon, the dungeon's amassed energies might take weeks or months to fully disperse. As it did, reality would alter itself around the incoming land and matter. For a moment, I wondered if the new mass on the planet would affect the gravitation, but once more, that wasn't something I could stop.
+
+We flew out of the chasm, the insects tucked into crevices like roaches avoiding light. At the surface, we hovered back over to the Infinity Plaza. We paced past the devastated entrance before each of us walked into one of the lower dungeon doorways. Within the rift, a soft field of alien flowers coated an idyllic valley.
+
+Sunbeams stretched out of the fluffy clouds above, the star of this shattered dimension locked in place by some strange force. It hadn't changed even long before we walked in, and quite a few theories hovered around about the place. Some believed this was a dungeon waiting to trap people inside it. Others talked about how it devoured souls by luring people to stay here.
+
+I thought it had a simpler origin. Someone of incredible means loved a certain spot at a certain time of year, and they enacted sorcery to ensure this place would forever be what they wished. Regardless of the origins, we imprisoned the two ousted rulers of the Shattered Spires here. Under a beautiful blue sky, Rebecca and Marcella floated in gravity wells. Maintaining the magic, a golem of mine guarded them both, its form imposing. Completing our security measures, one of Torix's ghouls whispered in their ears. It maintained the sleep spell that Torix cast earlier. I gestured at the ghoul.
+
+"You've got your minions casting advanced magic?"
+
+Torix stood tall.
+
+"But of course. If I couldn't teach a ghoul such a simple spell, then what kind of professor would I be?"
+
+He walked up and snapped his fingers. The ghoul flew off, heading outside to manage other affairs while my golem peered down at its quarry with intent. I raised a hand.
+
+"We've got it from here. Can you stop anyone from entering?"
+
+It nodded before pulling itself away with gravitation. I took over its midair suspension of our prisoners. Torix tilted his head at my golem.
+
+"I'm not the only one with minions that implement rather adept sorcery."
+
+Once gone, we marveled at the scenery until the two avatars of Eonoth awoke. As the flowers around us bent from a wave of crisp air, Marcella's eyes widened. Her aura bloomed around her, bursting out in a rush at Torix. The mage interlocked his hands behind himself, generating a near-mindless summoned skeleton.
+
+The aura's psionic attack obliterated the minion, but unlike a physical attack, a mental one carried no momentum. The leftover psionics fizzled like a bloodthirsty sword striking the air. Torix attacked her vulnerable mind before Marcella reached out an arm at him. The dimensional space around Torix trembled, and a threatening bloom of energy mounted.
+
+Before she finished her sorcery, I snuffed it out with my dimensional wake. Marcella growled before setting her eyes on Torix. The necromancer nodded.
+
+"You've obviously never needed to refine your mental approach, madam. Given your natural abilities, I can understand why."
+
+Over the next few minutes, Torix dismantled her psionic defenses while I defended us from her magic. Torix left me stunned at his efficiency. He'd leveled his game up. I put my hands on my hips.
+
+"Where were you hiding those psionics?"
+
+Torix waved at me as if sweeping up dust.
+
+"Oh, that? It's hardly worth mentioning. We all have skills we aim to develop in time. In regards to you, these assaulting and pinning tactics mean nothing. You lob your minds at me with utter abandon, and I may cull them all I like. You'll simply regenerate your mind as if I'm fighting an endless pit."
+
+I turned a hand to him.
+
+"Regardless of it countering me or not, it's incredible."
+
+Torix gestured to Marcella.
+
+"I bring up the point as the matter of counters is essential. Marcella is innately different than you. Her mind begins to lack proper functioning as I cleaved pieces of it away. That's how it's supposed to go - a series of initial clashes where the first mistake results in a loss. Mind magic is similar to fencing in that regard. Your techniques forced me to abandon my previous tactics when against you.
+
+Torix glowered at the two avatars.
+
+"However, my methods are more than adequate when dealing with entities well within standard expectations."
+
+Marcella snarled, spitting at me. Before it hit us, I raised a finger, and her saliva evaporated. I raised my brow.
+
+"Charming."
+
+Althea raised her hands.
+
+"Hey, I'm not going to let either of these guys do anything to either of you."
+
+Torix and I telepathized to Althea in tandem.
+
+"What the hell?"
+
+"To accuse your teacher of such misconduct. Why I never-"
+
+Althea thought over.
+
+"It's to make them feel more at ease. They'll listen to us more."
+
+Torix and I gave each other a look.
+
+"Makes sense."
+
+"A proper plan with deft execution."
+
+Marcella and Rebecca glared at Althea. Althea's idea, while a good one, reached neither of them. I rubbed my temples before Torix turned his gaze to Rebecca.
+
+"Is she the other avatar of this supposed duo?"
+
+His eyes flared red.
+
+"And her psionics are the most impressive between them as well. Shall I?"
+
+I tapped his chest with a fist.
+
+"Let me. She has hundreds of these things in her head. They can be dangerous in a swarm."
+
+Torix shook his head.
+
+"Must every psionic duel be relegated to a simple swarming of foes? It's growing old even for someone as ancient as me."
+
+I frowned.
+
+"I think as we move up the galactic ladder, we'll see more and more of this kind of thing. Besides, you, of all people, understand how individuals aren't as strong as entire groups."
+
+Torix sent a message in his status before answering me.
+
+"I suppose I may need to incorporate more group psionics in my tactics then. Until then, I suppose we must leave the most dangerous individuals to you."
+
+I shook my head.
+
+"We leave those to Shalahora. We also need your precision here."
+
+Torix steepled his fingers.
+
+"Hm. I shall wait until I am needed then."
+
+Getting to it, I created a link to Rebecca's mind. I expected the same rush from its occupants as before. Instead, a few disparate minds flowed in a spiral as if on standby. I went deeper while bracing for a multipronged ambush from the psyches. None came once more. At the absolute depths of Rebecca's mind, I gazed at a void.
+
+I pulled my mind out.
+
+"There's nothing there. She's gone."
+
+Marcella's eyes widened.
+
+"W-what?"
+
+Torix leaned closer.
+
+"Give us a moment to ascertain the cause. We aren't sure of anything yet."
+
+After a few minutes, the lich strode back and forth.
+
+"It would seem as though something has vanquished her mind to oblivion. There are no traces left. Even her long-term memories have turned to ash."
+
+Marcella stood up.
+
+"No. You're both lying. She's still here. Look at her."
+
+Althea frowned.
+
+"Maybe we can get her back? Torix, you know a lot of weird magic. Is there a way to revive her?"
+
+Marcella gazed in defiance but with terror hiding under the surface. Torix shook his head.
+
+"No. This entire set of actions and movements isn't being done by Rebecca. There exists a newborn golemnite that's had a template mind imprinted on it. It's puppeteering her body."
+
+I massaged my temples.
+
+"Ok...The golemites. They're ethereal beings, strong in mind magic, and effective scouts for larger empires. I met one, er, when I was interviewing some people on Giess and at Obolis's glassing party. I remember some religious zealotry and an overly happy, obnoxious tone of voice. So, uh, what in the world is one of them doing here?"
+
+Torix clasped his hands together.
+
+"It's many of them, not only one. Likely, it's a front used to distract us while the others escaped in the chaos of battle. It would seem only a few of the other golemnites linger within as they were unable to escape once Daniel bore down on them."
+
+My eyes narrowed as I sifted through my memories. Torix weighed his hands back and forth.
+
+"It would seem that someone or something implanted many of them within Rebecca's mind along with imprints of the psyches that Marcella wanted to make."
+
+Althea took a step back.
+
+"That explains why everyone was so confused after the fight. Rebecca had put these things in their heads, and they were doing all of her guild's work."
+
+I crossed my arms.
+
+"And they composed large parts of their minds by the looks of it. That's why they were so strong when we fought but are so weak now."
+
+Torix stood upright.
+
+"It's also the source of their obedience. They carried little agency since such large portions of their souls were dedicated to these beings. Having it centralized into a singular source allows for it to be easily hidden as well."
+
+Torix gestured to Rebecca.
+
+"In many regards, these entities mirrored their leader's exchange with the Old Ones. They took their independence for power."
+
+I sighed.
+
+"That's the problem. Power means nothing if it isn't yours."
+
+Marcella hissed.
+
+"Easy to say when you have steel all over your body."
+
+I rolled my eyes at her.
+
+"Talking to you is exhausting."
+
+Marcella tilted her head, her left eye twitching.
+
+"You're all very chatty with your leader, aren't you? Do you all enjoy wasting his time?"
+
+Something was off with her. Torix loomed over Marcella. The lich's voice dripped with disdain.
+
+"It's part of being treated as equals. You'd do well to learn a thing or two from Daniel's approach, considering the vast difference in the results of your leadership."
+
+I waved a hand.
+
+"Oh, she won't need to learn anything more about leadership. That's a thing of the past."
+
+Marcella growled out.
+
+"See? You did exactly what I expected. I read you like a book."
+
+I furrowed my brow at her.
+
+"Then you shouldn't judge a book by its cover. If you consider the situation for even a moment, you'll realize I wasn't given any other choice. You're entire persona and approach has been antagonizing me from the start."
+
+I rolled my eyes.
+
+"And nuclear bombs? You're insane. You deserve less than nothing. I can't trust you with a butterknife, let alone a city with living people."
+
+Marcella took a breath, peering at Rebecca. Pain crossed her face before Marcella snapped at me.
+
+"They were mine. I can do what I want with what's mine. All you've done is take from me. Take. Take. Take. That's all you are. A thief. I was right all along."
+
+She was singular in her thoughts. It reminded me of Valgus. I let out a long breath.
+
+"It sounds like you'd rather prove yourself right with your failure than be proved wrong with your success."
+
+She took deep breaths before gazing at the ground.
+
+"You don't know me."
+
+Althea walked up.
+
+"But we wanted to. We still do. You're the one that's closing that off. Not us. We want to listen and talk, but all you're doing is trying to upset us with words. Even in your position, and despite the fact your approach isn't working well, you're still doing it. Can you please change your approach and try to help us listen and talk to you?"
+
+Marcella's words seethed.
+
+"So that you can do what? Lie to me?"
+
+Torix, Althea, and I met each other's gazes before letting out a laugh. Marcella roared out.
+
+"Stop mocking me."
+
+I gestured to Rebecca while staring at Marcella.
+
+"Your best friend is dead, and you've hardly flinched. I'm wondering if language wasn't the only thing Eonoth took from you."
+
+Marcella drained of color.
+
+"You found its portal?"
+
+I sighed.
+
+"Obviously. I have it with me."
+
+Marcella's brow was calcified in a perpetual scowl.
+
+"You're going to destroy the Shattered Spires. That sustains this place, and without it, Schema will-"
+
+I tilted my head at her.
+
+"Do nothing. I've found other spaces like this. They can maintain themselves through other means besides pain and suffering. You've been believing false information that's been spoonfed to you. Do you mind telling me who told you all of this?"
+
+She blinked.
+
+"You...You're still lying to me. All of you. About everything."
+
+I shrugged.
+
+"I also cleared out the eldritch queen. In general, the entire system you made collapsed overnight. It's gone down to the roots. Accept that and move on."
+
+Marcella gazed down.
+
+"You took everything from me, and for what? Because I wouldn't obey you?"
+
+Althea shook a hand at her.
+
+"You stole from people while lying to them about what they were walking into. You enforced your will and killed anyone that didn't follow your orders. You invaded people's minds and even spied on everyone while letting those robbers kill at your doorstep."
+
+Althea's voice deepened.
+
+"You think we don't know you've been lining your pockets with those raider's spoils? This has all been to get resources, and all you really did with those spoils was make a lot of nameless tombstones out of families. These people were looking for a better future, and you made their children into orphans that we'll need to take care of."
+
+Althea pointed at Marcella.
+
+"Don't talk to Daniel about leaving a mess behind when that's all you've ever done."
+
+Marcella smiled at Althea.
+
+"Someone has to be the hero, right? I guess I'm the villain then."
+
+Torix sighed.
+
+"Life is not defined by a simplistic dual paradigm centered around moral identities."
+
+Torix looked at me.
+
+"You mentioned she was competent, didn't you? I've seen nothing of the sort."
+
+I scratched my head.
+
+"Huh...Yeah, she's not as sharp as I had hoped. It honestly feels like her abilities are highly circumstantial."
+
+Marcella took a few breaths. She gazed at the ground.
+
+"I'm partially sedated by that lich after having my life ripped out. Excuse me for my lack of elegance."
+
+I raised my brow.
+
+"We'll see how much life you have left after this conversation. Can you tell us about the Old Ones? Your contract? About Rebbecca?"
+
+She snapped up, her eyes glowing blue.
+
+"No."
+
+Marcella's aura condensed over her. Marcella fought out of her gravity well before stomping to Althea.
+
+"We'll see whether or not-"
+
+My hand rested on Marcella's shoulder, my touch gentle. I smiled.
+
+"It's better you don't."
+
+Marcella gazed at her missing arm. Torix left runes that stopped it from regenerating, and it already scarred into a useless nub. I guided her with my hand back to the gravity well.
+
+"I still have that if you want it back. However, you're going to have to explain your contract with Eonoth in detail, explain the sword, your aura, and anything you know about the Old Ones."
+
+Marcella kept her eyes on me, but she sat down.
+
+"Or else what?"
+
+Torix's eyes flared red.
+
+"Enough of this foolishness. You will disseminate that information, one way or the other. I've already demonstrated my expertise in regards to mind magic. I'll peel your thoughts back until you drool like a lifeless vegetable. Either that, or you can tell us what you know and allow me to verify with a quick psionic scan."
+
+Torix let out a scathing laugh.
+
+"Or else what? The arrogance. You've spent a long time atop a small hill, and you refuse to see the mountains around you."
+
+Somehow, I doubted Marcella's condition more and more as we spoke. Marcella gave him a tight smile.
+
+"If you're mountains, then there's a planet coming soon. It's going to crash here, and we'll see how tall you all are."
+
+I nodded.
+
+"Let it come. We'll crack it like everything else."
+
+She shook her head at me in disgust.
+
+"Not everything is something you can beat through high stats, Harbinger."
+
+Tired of the pointless conversation, I made a psionic link with her. Torix's mind wrangled hers into a series of knots, Marcella incapable of even moving. I turned a hand to her.
+
+"Do you think the mental entanglement is why she's talking like this?"
+
+Torix crossed his arms.
+
+"I doubt that's the case as I've done this with success in interrogations before, but this isn't accomplishing anything. Let us try a different approach."
+
+Torix let her go, her aura returning in full force. Marcella's eyes opened wider, and she turned to Rebecca. Marcella bit her lip until blood came out. She turned to us.
+
+"I just wanted to make sure no one hurt us again. All of this...I never wanted any of this."
+
+I sat down and crossed my legs.
+
+"None of us do, but at times, we destroy as we try to create. You can begin to redeem yourself, but it will take time, effort, and diligence. You need to accept that this has happened and that we're not your enemies anymore."
+
+Marcella took a moment, peering up. A series of expressions smattered her face. Horror, reverence, shock, defiance, loss, and finally, acceptance. She gulped before taking a few breaths. Her eyes glowed blue. A second later, they faded. She murmured.
+
+"My patron has spoken to me. Eonoth has offered my servitude in exchange for a slightly shorter contract than the other Old One. Ergh, Mesm-"
+
+I pressed my fingertips together.
+
+"Woah, now, don't say that name. No need to. Also, I'm not accepting that deal."
+
+Marcella frowned.
+
+"Why not?"
+
+I smiled.
+
+"It was brought to my attention that a few of my guildmates aren't exactly overachieving, so the last thing I need right now is another problem child that I have to look after."
+
+Marcella leaned back.
+
+"I'm...I'm a problem child?"
+
+I shook my head.
+
+"More like a...Sinking ship. That's on fire."
+
+Torix moved his arms.
+
+"And sharks circle the icy waters. Eldritch swarm the skies at this accursed vessel. There are many dumpsters upon its deck, and they too rage in an evergrowing inferno."
+
+Althea laughed. Marcella shook her head.
+
+"Your guild is nothing like I expected. I heard you were an unstoppable juggernaut, not a group of simpletons."
+
+I smiled.
+
+"You should remember Occam's razor. You've seen as much. And besides, just because we have skill doesn't mean we have the personality of cardboard."
+
+Althea nudged me.
+
+"Some people disagree."
+
+My smile lingered.
+
+"Eh, and they're pricks."
+
+Torix peered off.
+
+"Like you?"
+
+I nodded.
+
+"Just like me. Now-" I spread my hands. "We'll argue merits later and the lack of them later. Marcella. This is my final offer before we're pushed to further measures."
+
+Marcella stared down. She turned to Rebecca, and Marcella closed her eyes. Marcella murmured her words like a last wish.
+
+"Just...Please. Don't hurt my family."
+
+I pulled out Valgus's shackles.
+
+"From the looks of it, someone else has done that already."
+
+I took one of the manacles and clamped it over her remaining arm. In an instant, her aura vaporized to nothing, and her hair turned from a deep blue into a blazing red. Marcella strengthened, but unlike Valgus from L-7, Marcella wasn't thousands of years old with time to accumulate energy and abilities.
+
+As her aura vanquished, Marcella's eyes widened.
+
+"My connection to Eonoth. It's...It's gone."
+
+I shrugged.
+
+"That's the idea. I'm beating fire with fire."
+
+She cracked the ground under her feet as my gravity well lost its effect on her. She looked around, panic spreading over her face.
+
+"It's gone. It's all gone."
+
+She ran off, but I put my hand around her waist and pulled her back. She swung her hand at me, but I caught her fist. Her power didn't surprise me, considering what the manacles did. I frowned.
+
+"Look, you're no Valgus Uuriyah."
+
+She peered at me in confusion before scrambling to escape.
+
+"No. Get away. Don't touch me."
+
+She floundered about. I sighed.
+
+"Look, stop moving, and I'll let you go."
+
+Marcella kept flailing about. Althea walked up.
+
+"Hey, come down, we're not-"
+
+One of Marcella's kicks shot at Althea's head. Althea caught Marcella's shin in both her hands. Althea held the foot for a second before Althea's upper arm bones exploded. I winced as Althea let out a growl. The choker on her neck glowed, and she regenerated over the next few seconds. Marcella screamed.
+
+"I'm not having someone put another one of your daddy's collars on me-"
+
+Althea swiped her hand and sliced off the leg that kicked her. Marcella collapsed in my arm, and she let out a howl. Marcella grabbed at her bleeding nub where her leg had been. Althea looked at her torn jumpsuit.
+
+"You make it so hard to be nice."
+
+Althea adjusted her choker.
+
+"And oh yeah, can you tell me you're jealous without saying it any louder? Sheesh."
+
+Althea kicked Marcella's jaw, the precision and force just enough to knock her unconscious. Torix grabbed the side of his head.
+
+"I've seen enough. Let me know whenever you've both exhausted your empathy and simply require the information."
+
+His eyes flared black, and his words were icy.
+
+"I'll arrange that it's gathered promptly."
+
+A cold chill ran up my spine. Torix peered down at Marcella.
+
+"You...They are a disappointment. What an unworthy enemy."
+
+I hadn't told either of them Marcella's story, and seeing her shaking, pitiful figure, a burst of guilt and mercy arose within me. I raised a hand to our lich.
+
+"We've got it from here. Go do what you do best."
+
+Torix hovered off on a cloud of dominion mana. After a while, Althea and I sat down beside Marcella. After a while of waiting, Marcella awakened. She turned to Rebecca, who hadn't moved or spoken a word after we checked her mind and found it vacated. Marcella glanced at her sister and whispered.
+
+"Is...Is Rebecca really gone?"
+
+I nodded. Marcella's eyes reddened before she squeezed her hands against the grass. She shoved her face in the dirt as tears fell from her eyes. She lost all composure, and her body trembled as waves of grief coursed over her. The tall, defiant, and willful leader crumpled into a person who lost everything.
+
+After a while, she stared forward in a daze. She looked up at us before speaking in the voice of a corpse.
+
+"You know...This feels like the first time I've been able to think clearly in a long time."
+
+Althea reached out a hand.
+
+"It's that aura. It doesn't let you think at all."
+
+Marcella grimaced.
+
+"Yeah. Maybe."
+
+I raised my brow.
+
+"I've seen it on several people at this point. It imbibes the person with abilities, and they're often intuitive, powerful, and difficult to counter. It doesn't actually save you any time, though."
+
+Marcella leaned back.
+
+"It doesn't give time. It's opportunity."
+
+I weighed my hands back and forth.
+
+"See, that's shortsighted. You're assuming there's a limit to how much you could grow. From what I've seen, just about anyone is a formidable, given time. That's why time is the primary currency we use now. However, many people are tempted by shortcuts. That aura is an example. Sure, it allowed you to massively increase the size of your empire and personal potency."
+
+I tapped the side of my head.
+
+"But in order to maintain the sanctity of your mind, you've had to fight something off constantly. That eternal war takes up just as much time as the research, study, and training required to get to an avatar's end state. For example, I know another avatar that makes you look like a kitten, but he still doesn't have the time or energy to train."
+
+Althea frowned.
+
+"You mean Shalahora? Doesn't he help you with your psionics all the time?"
+
+I nodded.
+
+"Yeah, but it doesn't take much effort for him. Recently, that's kind of changed, but up until now, I was like a baby windmilling my arms while he was a hardened warrior with his hand on my head. He's struggling with it more now."
+
+Marcella gawked.
+
+"You know someone that strong?"
+
+I turned my hand.
+
+"Yeah. He could've instantly killed everyone in the Shattered Spires if he wanted to. He's not big on the whole mass murder thing, though."
+
+I peered off.
+
+"That's more of my thing at this point."
+
+Marcella frowned.
+
+"Is that why Elysium is so determined to get their hands on you?"
+
+My gaze could cut stone.
+
+"What do you know about Elysium?"
+
+Marcella scoffed.
+
+"I watched your streams while you were on Giess. The Gray Giant. I couldn't believe you were human, but Schema's approval of you verified all that. I fought long and hard to make sure I was prepared when we met. It fell to nothing in the end."
+
+I shook my head.
+
+"You destroyed over fifty of my elemental furnaces."
+
+Marcella smirked.
+
+"That's all I amounted to. A material setback."
+
+Althea shook her head.
+
+"For now, but it doesn't have to stay that way."
+
+Marcella sighed.
+
+"It will. I'm not able to fight without the aura."
+
+I leaned towards her.
+
+"It's the opposite. You're finally free."
+
+Marcella shook a hand at me.
+
+"Why don't you get it? I'm not free. I'm your prisoner. At least I chose to be under Eonoth. Now, I don't even get to choose who lords over me."
+
+I put my hand on the ground.
+
+"You've been a prisoner in your own mind. I know for a fact that everything you've done to help shape the spires happened while you were lucid. The situation only began to spiral out of control once you made a deal with Eonoth. That's whenever you began enacting greater and greater control over everything."
+
+Marcella tilted her head.
+
+"Where's your proof of that?"
+
+I leaned my elbows against my crossed legs.
+
+"I've been a leader. I know what decisions made from limitations are like. I've been analyzing the surface memories of citizens, and I've managed to create a bit of a timeline for when certain key events occurred in the Shattered Spires. A month after Central Park began turning into a dimensional chasm, you're policies began changing."
+
+I turned a hand to her.
+
+"At that point, your paranoia began to spike. Policies changed. Your approach ceased its improvement as if someone else began making decisions. That's because someone had. Your aura."
+
+Marcella frowned.
+
+"How is that even possible?"
+
+Althea frowned.
+
+"It's called mana sickness. It's weird, but mana can actually make a consciousness in your head. When it gets too strong, it takes over."
+
+Marcella's eyes went distant.
+
+"Even if that's true, you're giving me a lot of credit for what I did before I made my deal with Eonoth."
+
+Marcella turned to Rebecca. Marcella closed her eyes.
+
+"Maybe more than I deserve."
+
+I raised a hand.
+
+"Then what was your end game? Rule the world?"
+
+Marcella shook her head.
+
+"At this point, what can I even say in my defense? It all sounds...Ridiculous."
+
+Althea crossed her arms.
+
+"That's because it was."
+
+Marcella pointed at me.
+
+"You might be right about me, but isn't that what he's trying to do, too?"
+
+Althea put a hand on my shoulder.
+
+"Daniel doesn't rule. He leads."
+
+A well of emotion rose in my chest.
+
+"Thanks."
+
+She smiled at me.
+
+"It's the truth."
+
+I didn't deserve Althea. Marcella sneered.
+
+"Look. I'm not jealous of you two. More like...Disgusted."
+
+Althea shrugged.
+
+"Envy can take different forms in different people."
+
+I laughed before I turned a hand to Marcella.
+
+"Tell me this. What was the plan when you obtained the aura?"
+
+Marcella looked up.
+
+"Hm. Rebecca and I were planning to expand into Boston and a few other big cities nearby. We wanted people to get the blades and shields we had since they made killing the eldritch so much easier. It wasn't going to be easy, but nothing worth having is."
+
+I nodded.
+
+"But then you had to have the spires more secured, right? The Seer's protection wasn't enough. You started making the surveillance tree and having people's minds inspected. After all, Elysium could come in and infect you with the Hybrids at any point. Hell, I might infiltrate your operation as well."
+
+I leaned back against my arms.
+
+"There's some validity there, but the aura began getting its claws into you without you noticing. From what I gathered, you've probably been struggling to make anything happen without swinging your powers around recently. You know, brute forcing everything. That's because your ability to socialize has been eroding all this time."
+
+Althea peered at me.
+
+"Ok, for real, this is kind of freaky how much you know about Marcella. How?"
+
+I shrugged.
+
+"It's that skill I made, Infinity. While I was making it, I did let situations pile up, but at least I spent my time getting a bigger broom to sweep it all up with."
+
+Althea pursed her lips.
+
+"Huh. Uhm, great job then."
+
+Marcella blinked.
+
+"You're like a walking advertisement for him."
+
+Althea gestured to me.
+
+"Have you seen him? He looks evil to just about anybody. Someone has to try and make him look as decent as I think he is."
+
+I leaned back.
+
+"Ouch."
+
+Althea sighed.
+
+"I'm sorry, but it's true."
+
+I put a hand on my chest.
+
+"That's why it hurts."
+
+Marcella peered at us.
+
+"So you're both chopping up my actions to this aura, then?"
+
+Althea and I peered at each other. We looked back to Marcella.
+
+"Eh, yeah."
+
+"Uhm, I think so."
+
+Marcella sighed.
+
+"It's like someone takes away what I've done no matter what I do."
+
+I shook my head.
+
+"You did that when you made a deal with the devil. We're giving you a chance to prove that you aren't the demon we've seen so far."
+
+Marcella winced.
+
+"I'm not getting back my position, am I?"
+
+Althea rolled her eyes.
+
+"Of course not. You're lucky you're alive."
+
+Marcella leaned forward.
+
+"You kill your rivals?"
+
+I smiled.
+
+"Rival? No. People that use nuclear bombs on civilian populations for leverage? An execution is on the menu."
+
+Marcella let her hands slap her sides.
+
+"Then what's the point in all this? Why are you still talking with me?"
+
+I pointed at Rebecca.
+
+"We want to know what happened to her and you. For instance, why do you have an aura and she doesn't?"
+
+Marcella scoffed.
+
+"Because she isn't an avatar."
+
+I raised my hands.
+
+"Then what the hell happened to her?"
+
+Marcella gulped before frowning. She went to say something before she stopped. Fear spread over her before a resolve replaced it. She said.
+
+"It was an agent from-"
+
+She blinked before she snarled at herself. A moment later, blood began dripping from her nose. It poured out of her eyes, ears, and mouth. She trembled as her skin began melting even through the protective barrier of the antimagic shackles.
+
+"It was an agent from Cygna, the Silent."

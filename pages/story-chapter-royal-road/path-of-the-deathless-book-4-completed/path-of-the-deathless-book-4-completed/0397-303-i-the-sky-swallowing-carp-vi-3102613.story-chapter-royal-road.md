@@ -1,0 +1,199 @@
+---
+id: 5a423cdb-de4a-5ddd-a4c7-bd17030c1a6a
+page-type-slug: story-chapter-royal-road
+title: "303 (I) The Sky-Swallowing Carp (VI)"
+slug: 0397-303-i-the-sky-swallowing-carp-vi-3102613
+partOf: path-of-the-deathless-book-4-completed
+position: 397
+ownLength: 4862
+unit: words
+publishedAt: 2026-02-28
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3102613/303-i-the-sky-swallowing-carp-vi"
+royalRoadId: "3102613"
+---
+
+I'm going to give you two semi-contradictory statements: It's very important that you help people when you can. It's very important that you only help people when you have them at sword-point.
+
+These two statements sound like they're at odds, but not really. You have to consider the way of our world. Everyone is out for their own interests. The System has made it that way. But just because people are a little bit selfish doesn't mean they should die for it.
+
+No, I'm not a big believer in karma or any of that stuff. I don't think there's a promised reward for good deeds or anything like that. When you help someone, you're doing it either because you can't let go morally or because you're trying to satisfy your pride in some way. There's nothing wrong with that, but you should be honest with yourself. If you're doing something for the reward, and the reward never comes, you're gonna turn more than a little bitter. I’ve seen it happen way too many times.
+
+But it can be worse than that. I've seen saviors turn into victims as the people they rescue prey on them. And sometimes it's just an ambush, someone pretending to be sick or vulnerable along a lone road flanked by tall trees. You have to be honest with yourself about these situations. You have to be careful and considerate when dealing with them. That's why you need to save someone at sword-point, just in case they are not actually who they say they are.
+
+But by this point, you might be asking me, 'Why should I save anyone? Why should I risk myself?'
+
+The answer is, because people you help will owe you favors, and demonstrating that you're someone worth trusting, that you're a decent person, has its own power. I told you I don't believe in karma. I also don't believe that being a wretched person pays. Every bitter Pathbearer that says that misses the part of the equation where the so-called evil person is already born to privilege, they're already nobility, or they're already a High Tier. They're not being paid because they're evil; they're getting paid because they're insulated from consequence.
+
+And let me tell you, there are consequences to being vile too. You make enemies. And your enemies usually end up being people like you—the ones who won't help. The ones who prey on others whenever they can. And Integration is filled with more than enough of those kinds of people. We don't need to make more. That's my biggest reason for trying to help whenever I can, because if we're living in a world that's filled with bastards, ruled by bastards, and making more bastards, then eventually we're on the way out. We're not going to last.
+
+We level and die alone, but we struggle together. We live together. And so long as the latter rings true, then we must try, at least, to do something right by each other. We must try to abide by some kind of decency. Otherwise, what's the point of being an individual? What's the point of holding on to our traditions, our cultures, our lineages from the ancients? Why not just be a monster? Why not?
+
+Look North or South, and you'll get your answer as to why not.
+
+—Memoirs of a Master-Tier War Mage
+
+303 (I)
+
+The Sky-Swallowing Carp (VI)
+
+Usually, standing around and waiting for Shiv to return from a solo excursion would be among the most nerve-wracking things Adam could imagine. Now, though, with one of his friend’s bodies here to warn them of any problems or threats should they arise, he was calmer than he'd expected. This unfortunately allowed his mind to drift toward the sky-high mountain of unresolved problems that remained in the back of his mind at all times. They would need to return to his Gate to see at least some of them addressed soon.
+
+But there was one thing Adam could deal with right this moment. The only issue was that he had absolutely no idea how to initiate the conversation required to address said thing.
+
+After saving what remained of Blackedge and returning from the Outside, Shiv had given the stone dagger that contained the soul of Andra Culdottier, the Jotun Prophetess they'd defeated in the hidden teleportation anchor on the campus grounds, back to Adam. The other two surviving members of her fugitive group were another thing they would need to deal with in due time, seeing how they still remained locked up in cages in the coliseum below Gate Infernius. But Andra herself was the more pressing issue.
+
+The Animated Skill Infusion of her Legendary Cryomancy had been invaluable in saving Uva from her Metamorphosis, but Shiv and Adam also agreed that the idea of keeping her trapped inside the dagger indefinitely to use as a Legendary Skill battery was not something they would entertain. On the other hand, they also couldn't simply free her, however that even worked. She didn't seem open to true cooperation the last time Shiv had talked to her, and her intentions toward the Republic were hazardous at best and genocidal at worst.
+
+This left only one real option, the one they'd been intending to choose from the start: relinquishing her to her mentor.
+
+Standing in the kitchen a few meters away from the others, Adam kept tapping his fingers on a satchel slung around his waist with a conflicted expression. Within it was Andra’s dagger, further contained by a heavily warded box he'd received upon request to Merrielmel a while ago. The box kept the Phylactery’s Necromantic aura from spilling out and causing any potential problems, such as accidentally coming into contact with Shiv's Vitae and turning the Republic Capitol into a smoking crater.
+
+Adam knew that simply giving the dagger to Valor was probably the right thing to do, but something that kept repeating in the back of his mind made him hesitate despite himself.
+
+"And if that is not enough, know that if you slay her, you may very well find yourself at the end of Valor Thann's blade when he finally pieces himself back together.” Such had been Cullywier’s words in the anchor when Shiv had been about to destroy Andra for good. He and Shiv had both worried somewhat about the truth behind the fairy's words, but after seeing how Valor remained himself—becoming simply more of himself—after regaining his torso and much of his memories, the idea of Valor actually harming them in revenge for what they'd done to his student seemed absurd to Adam.
+
+He'd actually been intending to finally speak to Valor about this when he ran in on Shiv, Jessica Hawgrave, and Valor committing horrible experiments he didn't want to think about for one second in the kitchen he hadn't left since then. That was why he had the dagger on him in the first place, but now here he was, drenched in indecision.
+
+Maybe now isn't a good time, he thought to himself. Maybe I should wait until we're—
+
+Adam snapped out of it by biting his tongue. No. We've put this off long enough. Besides, better to take the initiative now, before Valor noticed his student’s pensive expression and asked what was wrong, which would make the whole thing even more awkward than it already was.
+
+Resolute, he stepped toward Valor and cleared his throat. “Valor. There is a matter—I mean, there is something personal I think I should speak to you about.”
+
+The ancient Pathbearer studied Adam, and the Gate Lord couldn’t help but feel a surge of animalistic fear. A special kind of dull dread coursed through his veins—the same, dull, painful coldness that he imagined passed through a doe’s heart when it noticed a wolf staring right at it through the thicket.
+
+Adam had grown more powerful than he had any right to be at his age, faster than his wildest imagination. He'd bested foes that should have taken him centuries to even match, and burned with Unique Skills. But there was something about Valor that was like peering into a dark, fathomless forest that stretched from horizon to horizon.
+
+Valor Thann had been gentle with Adam—invested time and advice into the young Pathbearer. But that was a broken Valor, and though there wasn’t too much altered about the Legendary Undying’s personality, Adam was still keenly aware that if Valor wanted him dead, there would be little anyone could do to stop him.
+
+For to fight Valor Thann, one had to perceive Valor Thann. And keeping track of an unparalleled Legend of Stealth was quite the thing indeed.
+
+Seeing Adam fidget and stutter, Valor sighed. “I’m not going to hurt you, Adam.” Suddenly, Adam felt a presence warp around him, and the world went gray and dull—like there was a layer of obfuscation shrouding him. “The privacy you desired. Now. I will not harm you. It is the furthest thing from my heart. Whatever you have discovered, whatever you have done, know that you have nothing to fear from me.”
+
+The Gate Lord blinked with disbelief. “I—”
+
+“I know that expression all too well. Tell me. What is it?”
+
+Adam mustered his courage gained from encouragement and drew in a breath. “While you were in the Outside, we encountered one of your old apprentices. She was in the Rubix Well with us and escaped on her own, but she dragged us into a fight with her on campus, and we were forced to defeat her. Her name—”
+
+“Andra,” Valor said, cutting him off. “Hm. Of course.” Once more, Adam was speechless. “That wasn’t so hard to predict either. It has been some time since I trained a disciple. Though she left me on less… amicable terms on her part. A part of me is flattered that she still thinks of herself as my pupil, but I cannot regard her so highly. She did technically fail her ritual, after all. And it cost me my superior pupil to see her saved.” Valor’s expression turned somewhat bitter. “It is an ill thing, wishing to trade one life for another, but Andra was not her sister, and her sister’s love was the only reason why I took her in at all. And in the end, one sister was dead, the other proved a False Undying, and I was bereft of any true disciples.”
+
+Silence consumed Adam as he processed all Valor had said.
+
+Silence did not consume Valor. The Ancient held out his hand. “You have her Phylactery, I take it?”
+
+“I… Yes.” Adam reached into his satchel, unlatched the hinges of the warded box, and offered forth the stone blade that held Andra’s soul. Valor took it into his hand like someone taking on a hefty burden; the flames behind his eyes grew darker—more intense.
+
+Seeing Adam's still pensive expression, Valor grasped his shoulder gently. “It is a good thing you brought her back to me, Adam. It is a good thing you have told me. This matter has gone on too long, and it surprises me not that she ended up in the grasp of the Ascendants. Whatever happened between you is my fault, not yours. I should have seen her deficiencies… addressed instead of disowned. Life cannot be perfect, after all. And masters are responsible for even unworthy pupils.”
+
+A weight left Adam, but not entirely. He saw Valor now, and wondered if he would ever be in the same state—an embarrassment. The inferior pupil. A disgraced disciple. “What are you going to do with her?”
+
+“I will speak to her. In time. When I can muster the foulness inside me. And after I learn what she has used my teachings to do, I will see her education continued, or the skills I have given her severed.”
+
+Adam tried not to shudder.
+
+“I am not a master of blackhands and butchers with no principles,” Valor said. “And I do not think you will taint my name with such deeds. But we are more than ourselves—we are the representatives of those we protect and guide, and those who have shaped and protected us. Remember that. You especially will feel this, since you have taken the burdens of an entire Gate upon your shoulders.”
+
+“I… I will,” Adam said.
+
+Valor gave his shoulder an encouraging squeeze. “And do not let doubt shroud you. Your heart is unbalanced, but your mind knows what is true. You are a true Pathbearer, and a person of virtue. Your doubts are without evidence; until you prove yourself wrong and do something vile, do not question yourself in such ways, and do not imagine yourself to be punished by my hand.”
+
+And though the fear didn’t depart, it was heartening to hear such words from Valor all the same. “Thank you, Legend Valor.”
+
+“You are most welcome, Hero Adam. Now. I think it’s time to dispel this shroud, for your fellow apprentice has returned with—hm. Company. And… new clothes.”
+
+“What?” Adam asked, and as he cast his Awareness toward the gateway, he found himself startled. “Those—those aren’t clothes, Valor. Those are… Just what the hells is he wearing?”
+
+***
+
+“No, absolutely not.” Uva's voice was hot with disgust, her stare piercing with judgment, and her body language naked with utter revulsion. With how her fingers were curling, she was barely restraining herself from ripping the new clothes off Shiv—and not in a good way.
+
+"But what's wrong with them?" Shiv complained. He held his arms out to the sides, showing off the clothes he'd made. "Seems pretty good to me. In fact, I think this looks great as long as I'm going to be going around a restaurant trying to speak with customers. It's like I'm wearing a bodysuit made out of gemstones."
+
+He looked to the others in the kitchen to gain some support, but found himself faced with a series of cringing and mocking expressions. Adam seemed on the verge of calling Shiv an idiot. Valor looked away, as if regarding Shiv an impolite subject to bring up. Gone’s eyes were narrowed while Candles and Five had their heads tilted in opposite directions. Jessica shivered, her face red with restrained laughter.
+
+"You know what you look like right now, kid?" Jessica's breath quavered. She was barely able to keep her mirth contained. "You look like one of the pimp freaks who hang out in the Dragon’s Biscuit. A lot."
+
+Her words were like cold water dashed upon Shiv's enthusiasm. He looked down at his ensemble again and no longer felt so prideful. "Really? But this is Basilisk scale. I literally peeled this off from the Basilisk, and then I wove it around myself. It's personally made. Every bit of this is Basilisk." He regarded the outfit he wrapped around his physical body like a glove. He'd used a portion of the scales he harvested from the Basilisk to bundle himself up. It wasn't the most comfortable thing he'd ever worn, but it did fit him tight and snug. He could easily slip in and out of the attire using his Biomancy, and he thought it brought out his pale irises.
+
+Shiv studied his physical form using his Severed Shadow. He looked glittery. All those scales were like rows of gems stacked over his body. He was practically resplendent. He thought it made him look rich, not like one of those degenerate skin dealers.
+
+Actually, what does a pimp look like? Shiv thought back to his past, to everything he knew about pimps. He didn't know much, actually. Most of the information he had came secondhand from Georges and other people. Blackedge wasn't an especially degenerate and crime-ridden town, at least based on what he'd heard from some mercenaries in the Swan-Eating Toad.
+
+“People are going to practice the oldest, finest trade no matter what you do, but it's best that they actually choose to practice that trade because they want to, not because someone has a knife at their or their family's throat.” Shiv couldn’t remember who exactly he'd heard that from, but the words had stuck with him—and made his outfit less appealing by the second.
+
+As the Deathless continued looking himself up and down from a second perspective, a frown spread across his physical body's face. His Basilisk-scale bodysuit glittered like a collection of gems, including the jacket ending in the vague contours of a formal cocktail tailcoat, gloves, pants, and socks, everything fused together and only openable from the back. He'd thought it would impress Uva, if nothing else. Instead, she cringed. As did everyone else.
+
+And so, Shiv couldn't help but cringe too. “Shit. It’s that bad, huh?" But he still didn't want to give up on his suit. "Hey, Uva, what if I bring this to your sister? You think she could make something useful out of this?"
+
+Uva considered his words in detail. Her lips pressed together, and her eyes swiveled up into the corner of the room. She thought intently for a moment. "Well, it is worth quite a bit of money; not every Pathbearer can come by with a few tons of Basilisk scale. But you cannot be wearing this when you enter her shop. You absolutely cannot!"
+
+"Why?" Shiv asked.
+
+“Because if you do, she will violently vomit all over her front desk, leap over the puddle, and then attempt to stab you with her scissors for the atrocity you committed upon fashion, even if the cost is her life. I am only somewhat joking here. You will earn her eternal hatred if you enter her store wearing that.”
+
+Shiv's spine curled in defeat. “I, uh, actually thought you guys would be impressed. Or something.”
+
+His dismay made Uva’s aggrieved stare soften. She walked over and rubbed his back.
+
+“At least you tried. My mother… She claimed my father often repeated a statement while they were courting. Apparently, her tastes were rather bland when it came to attire, and he kept trying to get her to diversify. She wondered what the point was when she spent most of her time in Order Uniform or armor. She said he nearly choked to death on wine in his haste to reply, and during his passionate rant, he proclaimed fashion to be a thing of individual purpose and taste. That it is what makes us people rather than beasts, that it was something not even the First Blood could deprive us during the Age of Enchainment, and that no matter how bad someone’s tastes were, the fact they had tastes at all was a statement of their inherent value and humanity. Because expression makes us who we are beyond the narrow confines already inflicted upon us by nature and circumstance.”
+
+Shiv’s frown faded, and he couldn't help but match that statement to his cooking. Art was beyond war. Art was more than want. Artists everywhere were the triumph of life. “That’s… I wish I knew him.”
+
+“A sentiment I share,” Uva replied. Her hand slid down his back and clasped his hand. They shared a glance, and she pulled at him. “Now. I believe you have some feat of culinary mastery you must finish inflicting upon the orcs, do you not?”
+
+“Yeah, I suppose I do.” Shiv grinned. “Suppose I should do it dressed properly, though. Maybe I’ll just make this into a chef’s apron or something. Rip the rest away—”
+
+Adam loudly cleared his throat and began flicking his eyes toward a certain someone in the room. “Shiv. You’re forgetting that we have outside company here with us. Again. You’re scaring the poor girl.”
+
+“Huh? Oh, felling—sorry. I keep doing this. I saved you at a really strange time. Trying to finish these meatballs here. Actually, you should have some when I’m done. You can be one of my first customers. How’s that sound for an apology? Won’t even charge you anything, and you can tell me what you think about the meatball. Be straight. Be brutal. Don’t worry. I won’t get offended at all. I just wanna make this the best meal I can make.”
+
+On the other side of the room, seated on a stool made from Courtney's bones and nursing a cup of hot water, was one shell-shocked Adept Kune Kade. The young elf was supposedly a Squire under the Descenders Union, but there was something off about her that Shiv couldn’t quite figure out. He observed immense emotional turmoil within her emotional core with his Enkindled Heart, and her body language was akin to a small rabbit trapped in a cave with ravenous wolves. Part of it might be her barely surviving her near-death encounter with the Basilisks, but Shiv suspected there was something more to it.
+
+When Kune replied, it was always quick and to the point; she wasted no time with her words and answered with a quiver in her voice like she was trying to stave off her own execution. Her eyes jumped all around the room, flicking between Valor, Jessica, and all the others, but mostly found themselves locked on Shiv. Every time the Deathless moved too fast or got too loud, she flinched. But it wasn’t all fear—the chain that slithered out from her to fuel him with dread was only a faint presence—barely more visible than Shiv’s currently dormant Severed Shadow.
+
+Ultimately, it seemed like she was still somewhere else, trapped in a dream-like state after her ordeal.
+
+The fact that she woke to both Valor and Candles looming over her while Shiv was actively wrapping bits of Basilisk scale around him likely added to a bit of her trauma.
+
+“Kune?” Shiv asked. “Did you hear me?”
+
+“Yes.” The word came tumbling out of her mouth all too fast. “Yes, Legend Shiv.”
+
+“You don’t need to call me that. Just Shiv is fine.” He paused. “Or… Chef. Yeah. Call me Chef while I’m in the kitchen.”
+
+Adam snickered off by the side. “And thus he goes mad with power.”
+
+Kune seemed reluctant. Shiv wanted to press, but the Sage told him it wasn’t a good idea. Trying to force her to speak would further the awkward dynamic between them. If she wasn’t the one engaging, then that meant she was still in a closed-off state. He needed to snap her out and have her willingly begin a conversation to truly get a handle on her personality—and how she ended up in a Basilisk’s nest.
+
+And there was no better conversation starter than a meal that sent a shock through your senses. Shiv flicked his wrist—but the Last Morsel didn’t appear. “Godsdammit. Just can’t get used to this shit.” All his items remained bound to his Revenant, and until he solidified that form or unequipped those items, that’s where most of his kit remained.
+
+Valor theorized that the reason why his Severed Shadow was soul-bound to all his equipment was the same reason Shiv resurrected naked now: attuned mana blockage. Previously, even before he had an actual magical skill, he didn’t have a portion of himself that was quarantined off by his attuned mana. Things were different now—a portion of him was purely physical, with most of his skills there internal and incapable of reshaping the world around him—and that meant what he was wearing went unremembered by his soul when it came to his physical—resurrected—bodies.
+
+“Soul magic just sounds like bullshit to me,” Shiv muttered to himself again as he had his Severed Shadow hand him the Last Morsel instead. He wasn’t even going to cook with the frying pan. He just liked having it in hand so he had something to wave around at his orc echoes while they worked.
+
+Nonetheless, with those distractions handled, it was cooking time again, and Shiv was going to make these meatballs the best godsdamned meatballs in existence.
+
+Placed atop the cooking station before him were three sets of ingredients. In the middle were a dozen half-assembled second-third layer meatballs. Glistening spheres of cartilage and gristle held simmering marrow within. A faint glow of vitality betrayed the presence of long-dead orcs piloting these half-formed orbs. Narrow slits separated each fiber of hardened tissue, and if one just bit in harder, it would pop open, allowing those soft teeth to reach the creamy prize within, rather than ripping the entire thing asunder as a bestial Pathbearer could.
+
+To the right was a pile of minced meat. They were clumped together in faint mounds but still supple and soft enough that they could continue to be shaped. These were the lean meats, the soft muscles that anyone could sink their teeth into. Within them, Shiv was going to embed the third set of ingredients. To the left of the spheres of gristle and marrow were the mushrooms Shiv gathered from across the Umbral Wilderness.
+
+Shiv's Shapeless Tides paired with Inertial Overdrive allowed him to travel at obscene speeds without devastating the environment, and his Revenant form granted him the ability to stay subtle and pass through things when he didn't want to inflict any damage. But during his most recent excursion, he moved uninhibited and unleashed. He was like a blade cleaving through the world, and all that was pure matter stood as a soft stretch of mutilatable tissue—no bone, no armor to stop him.
+
+The only thing he cared to avoid was his orcs, who were actively setting up defenses outside. Entrenchments were being dug, with towers and fortifications rising free from the soil, like teeth sprouting free of toddlers' gums. Thankfully, the grayskins hadn't gotten to laying their wards down. The only magics they'd formed were a massive glowing orb that hovered above the archway. It stared out across the land, directing its baleful glare filled with Pyromancy and Dimensionality. Shiv suspected that might be one of the few constructs which would demand a bit of effort on his part to cut through. For whatever reason, the cutting aura that had radiated from him treated matter like it was nothing at all. But magic, and soulstuff especially... Well, the denser the mana was, the harder he had to force himself forward before he dealt proper harm.
+
+His new capabilities ultimately streamlined his mushroom harvesting experience. He gathered some Mendules growing along the riversides running at the bottom of the ravine. Once he did, he scanned their structure with his Atlas. What followed was a moment of wonder as everything with the corresponding organic structure lit up around Shiv. It was like he was standing beneath a pitch-black sky during the darkest hours of pre-dawn, when all of a sudden, every last constellation across existence came burning through the midnight canvas.
+
+His Awareness skill evolution might be overly specialized for hunting biological entities, but for Shiv's purposes, it was a wonderful ability to possess. From there, he plunged through the walls of the ravine like a stiletto traveling through the walls of someone’s stomach—and kept going. He ripped through not only stone, soil, and plant matter, but also the fabric of the world. Shiv didn't fully unleash his cutting aura, for he didn't want to destabilize the fabric of Integration and send mana storms bleeding out from the ruptures he left in his wake—but he could do that now, easier than ever before.
+
+He collected both mushrooms in an instant, not bothering to sort or examine them while in transit; his mana hydra dragged behind his body as he used it like a fishing net, sweeping up all the plant matter he could grasp with his Biomancy. It was then that he heard the fateful scream of Kune, and what followed there was a surprising rescue and the acquisition of a bit of Basilisk meat.
+
+A bit of Basilisk meat he considered fusing with his orc meatballs, but ultimately decided to place in cold storage. The baby Basilisks were placed in a special underground pen the orcs had made under the Gateway with the Basilisks he'd kidnapped before, and that brought him back to the present.
+
+Shiv stared down at his collection of well-diced mushrooms. Sifting the edible fungi from the poisonous ones was easy. Safe shrooms didn’t trigger Plaguefueled; fun shrooms did. From there came the challenge of narrowing candidates to counter the aftertaste of the marrow. Thankfully, his Atlas offered a convenient solution to that as well. Shiv chewed a few of the different mushrooms and sorted them based on how much hydration they contained. When he singled out a few, he focused on them to highlight their organic architecture and light up other mushrooms that share similar traits.
+
+Atlas of the Flesh Scryer 124 > 125
+
+From there, he infused his final few echoes into the sliced shroom bits and had them knead themselves into the minced mass of lean meat. The two ingredients were pressed together, and Shiv breathed in deep, considering the smell. He made sure to keep the mushrooms as scattered and thin as possible to avoid ruining the texture, and when all the fungi were meshed deep within the mess of lean tissues, there was no hint of any shrooms at all.
+
+“Alright,” Shiv muttered to himself. “Time to make our first attempt.”

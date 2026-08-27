@@ -1,0 +1,225 @@
+---
+id: c9a9028a-1f43-53ae-a031-35a2a3b9ed1a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 655 - Ghoul City"
+slug: 0656-chapter-655-ghoul-city
+partOf: mythrans-master-of-all-continued-completed
+position: 656
+ownLength: 2681
+unit: words
+publishedAt: 2018-08-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/239817/chapter-655-ghoul-city"
+royalRoadId: "239817"
+---
+
+“You don't have workers for the rides and things yet?” Dana asked.
+
+“Nope. I got caught up in some stuff in real life and lost 4 game days where I could have taken my time with everything.” Ren said. “Maybe having a couple of pretty women along will help me advertise some of the potential customers for the workers.”
+
+Neither Dana nor Gretchen said anything as they silently accepted the compliment. Their emotions turned to awe as they walked over to the biggest walled city they had ever seen. When the giant-sized door dropped down and became a loading ramp for them all to walk up, they just stared at the massive thing.
+
+“How does that even work?” Gretchen asked.
+
+“Magic.” Ren said, and then grinned at her scowl. “Hey, it's true.”
+
+“Yes, it is.” A woman's voice said. “And that's only the most basic of the magic that he imbued the city with.”
+
+Ren turned to see who spoke. “Oh! Hi, Valercia!” He said, happy to see her. “You didn't have to come over and meet me.”
+
+“I felt that you needed my help.” Valercia said and touched the spot over her heart where the Ghoul Kissed mark had formed on her. She wore a traditional style dress that only showed moderate cleavage, and the hem was down to her ankle.
+
+“I really do.” Ren said and gave her a big smile. “I didn't think I was telegraphing it so much, though.”
+
+Valercia chuckled. “I think it was more like shouting with your emotions.”
+
+“Really?” Ren pat his own chest. “I'm sorry about that. I hope I didn't disturb you or anyone else here.”
+
+“Only a few thousand of us.” Valercia teased, and Ren laughed.
+
+“I'll try to only use this power for good.” Ren pledged, and that made her laugh in return.
+
+“I can tell you need something, but I don't know what it is.” Valercia said.
+
+“I mostly need general workers, some healers, and a pile of cooks who don't mind seeing and serving thousands of customers a day and making tons of money.” Ren said, and Valercia just stared at him.
+
+“That really is what he needs.” Artemis confirmed.
+
+“Yeah, have you seen what we built outside?” Teepo asked. “It's great! I can't wait to try some of them!”
+
+“What did you build?” Valercia asked.
+
+“A water park and an amusement park.” Ren said. Dana and Gretchen looked at him and he felt their surprise.
+
+“Did... did you say water park?” Dana asked.
+
+“Yeah.” Ren said and pointed to the clearly visible top of the large succubi roost. “That's the top of the biggest slides that go down into the 300 foot by 300 foot pool.” He said. “There are all different kinds of slides and they're made from indestructible rock.”
+
+Dana turned her head to Gretchen and whispered. “He's really serious.”
+
+“He made a water park inside an adventure game.” Gretchen whispered back.
+
+“I thought the amusement park was something else, but a water park, too?”
+
+“Wait! That means bathing suits!” Gretchen made a low gasp sound. “Where are we going to find bathing suits?”
+
+“Oh, no.” Dana sighed. “We can't wear clothing on a water slide. What are we going to do?”
+
+Ren, Teepo, Teela, Artemis, and Valercia stood there and watched as Dana and Gretchen whispered back and forth. The funny thing was, Ren and Dana were still holding hands, so she was literally right beside him and everyone could clearly hear them.
+
+Teela the beetle eventually tapped her front leg on Dana's cheek. “Dana.”
+
+“Hm? Yes, what is it Teela?” Dana asked in a normal voice.
+
+“I just wanted to point out that there's no need to whisper. We can all hear you.” Teela said and pointed to the people around her. Dana turned her head to look at them, and Ren grinned at her and held up their clasped hands.
+
+“Oh! I... I forgot I was... your hand felt so nice that... I didn't realize I...”
+
+Ren chuckled. “It's okay. Teela didn't want you to feel embarrassed if you realized we could hear you on your own.”
+
+“I guess that means it's okay if I feel embarrassed.” Gretchen said a little crossly, and Ren stepped around Dana, kept a hold of her hand, and took Gretchen's hand with his free one.
+
+“I didn't say that.” Ren said and let her feel his Reassurance Aura. “I don't want you to feel embarrassed, either.”
+
+Gretchen sighed. “I'm sorry we were whispering right in front of you.” She said. “It's just something we've always done when...”
+
+“Teela didn't say you needed to stop doing that.” Ren said with a big smile. “She was just telling you that you don't have to whisper because we are all close enough to hear you.”
+
+“I guess she didn't actually say stop, did she?”
+
+“Don't worry about bathing suits, either.” Ren said. “I've got a shop set up near the water park and I'll have someone there to make custom bathing suits for everyone when the park opens.”
+
+“Wow, really?” Gretchen and Dana said at the same time, exchanged looks, and then giggled as they thought about the different kinds of suits they would want to try on.
+
+“I need to go and see these parks for myself.” Valercia said. “Please wait here.”
+
+“Okay.” Ren said and she walked around him and his small group. “Do you want me to...”
+
+“I'll only be a few moments.” Valercia said, then started to run.
+
+“Wow! Look at her!” Dana said as Valercia ran down the ramp and out of sight. “She's really fast.”
+
+After a few moments, Valercia ran back up the ramp and came to a stop in front of Ren.
+
+“I've already done an inventory of the citizens and their job qualifications.” Valercia said. “I can get you the names of the best candidates for your needs.”
+
+“That's great!” Ren said happily. “I was a little worried that some of the attractions wouldn't be opened because I wouldn't have the staff to run them.”
+
+Valercia hid her reaction as his happiness filled her and touched her deeply. “Come over to my office and we can get started.”
+
+“Thank you.” Ren said and started walking. Since he still held both Dana's and Gretchen's hands, they walked on either side of him. He was a head shorter than them and they looked at each other over his head. Dana glanced down at Ren and back at Gretchen, who just shrugged. Dana rolled her eyes and held in her sigh, because she couldn't really be jealous of her friend if Ren was the one who had taken her hand.
+
+They all went to Valercia's office and she quickly did up a list of everyone that Ren would need, with several replacements and shift changes, which made him very happy. He had to let go of Dana's and Gretchen's hands to take the lists, much to their regret. Both Dana and Gretchen had shivered slightly as they felt the loss of his touch and the direct Reassurance feeling.
+
+“I can't thank you enough for this.” Ren said and stored the list. “Do you think I need to make an appointment to visit them?”
+
+Valercia laughed as she came around her desk. “No, but most of them are asleep right now. I suggest waiting until morning before you drop in on them.”
+
+“Yeah, I guess I should wait until then.” Ren said and chuckled. “I can't expect everyone to be as excited as I am about all of this.”
+
+“I'm excited, too.” Valercia said. “You're just lucky that I wasn't sleeping myself.”
+
+“I am.” Ren said and then thought about what she said. “Hold on, why weren't you sleeping?”
+
+“I was thinking of you.” Valercia said and ran a hand through his hair. “You've had the artificial Aura active nearly all night.”
+
+“Oh! I'm sorry.” Ren said and ended his Connection to the country-size artificial Aura. “I needed it to keep track of Dana and Gretchen while they worked on my quest and forgot I still had it on.”
+
+Valercia bent over and chuckled, which gave Ren a view down her dress at her cleavage as it hung down and shook. “You forgot that you can feel the emotions of everyone in the entire country?”
+
+Ren laughed. “Well, when you put it like that...”
+
+Valercia leaned close and gave him a kiss on the cheek. “Visit me after you have gathered your work force, and we can set up the payroll, lodging if necessary, and proper training on those...”
+
+“Rides.”
+
+“...those rides.” Valercia said. “Will you have the time to do that tomorrow?”
+
+“Of course. I need this up and running before the big arena fight.”
+
+“What fight is that?” Valercia asked, and Ren handed her one of the flyers. She stood up straight to read it, and then the flyer changed to the amusement park information. When she read that, it changed back to the fight information.
+
+Ren felt her dismay and touched her hand. “What is it?”
+
+“None of your people are invited?” Valercia asked, sadly. “It's only for Adventurers?”
+
+“It's all I had the room for inside the arena.” Ren said and gave her hand a squeeze. “Don't worry, though. No one is going to miss seeing it.”
+
+“But... you just said...”
+
+Ren took two steps up into the air and put both hands on the sides of her face. “I am not excluding you or anyone else.” He said seriously, and she trembled at his sincerity. “You, and everyone who wants to watch, will see what happens. I give you my word.”
+
+Valercia put her hands on his. “Thank you, My King.”
+
+“You can call me Ren.”
+
+“Yes, My King.” Valercia said. “When in private.”
+
+Ren sighed mentally, and she shivered.
+
+“D-don't be o-offended.” Valercia said and leaned forward to kiss him. It held a lot more emotion than the peck on the cheek did, and Ren was surprised. “I... we are not alone, and I...” Her face went red. “I would prefer to...” She lowered her voice. “I want to whisper your name in your ear while we are in bed together, Ren.”
+
+Ren felt her intensity and her need, and he leaned back slightly to look into her eyes. “You really want...”
+
+“I've been fighting this longing since you changed me.” Valercia said. “I've...” She shook her head. “I shouldn't tell you this.”
+
+“It's okay. Go ahead.”
+
+Valercia moved her hands from his and put them around him. “I've met every citizen in this city, and everyone in the county, and none of them feel right.” She said. “This... this mark you gave me... it knows what it wants.”
+
+“It does?” Ren asked, surprised.
+
+Valercia nodded. “It can interact with the others you have healed, and it sees them all as...”
+
+“As what?”
+
+Valercia took a breath and let it out. “Inferior.” She said. “They are not worthy.”
+
+Ren's eyes widened at that.
+
+“No, you misunderstand.” Valercia said. “I don't mean them as a people, I mean their... their... I am so bad at describing it.”
+
+“Let me try.” A woman's voice said, and everyone turned to see a very well-dressed woman and an older man standing beside her. “Her Mark calls to them, but none of them answer.” She said and touched the spot over her chest. “My Mark called to her father, and his responded.”
+
+“Really?” Ren asked, and the older man nodded.
+
+“It was how I knew she was the one for me.” He said. “My daughter cannot find anyone among those touched by your healing.”
+
+“You're letting the Mark choose your mates?” Ren asked.
+
+“It's... surprisingly easy.” The woman said. “We can feel a conflict of personalities with a person long before meeting or even trying to become friends.” She explained. “When you meet someone that...” She looked at the taller older man next to her, and smiled at him. “...you mesh very well together.”
+
+Ren turned back to Valercia and saw her hopeful face. “I didn't feel anything like that when we met.”
+
+“What about tonight?” Valercia's father asked.
+
+“No.” Ren said.
+
+“Are you sure you didn't and just didn't know?” Valercia asked. “You didn't realize you still had the artificial Aura going, either.”
+
+Ren opened his mouth to say no again, then thought about it. “Actually, you're right. It might have happened, especially when I felt a little extra happy to see you.” He said. “Give me a minute to think it over and examine it.”
+
+“Or you could just stop trying to hold everything back.” Teepo said. “You've got all these emotional walls built up inside yourself. Even if you were only going to react to it, you wouldn't feel it with everything else going on.”
+
+Ren nodded. “I think you're right, buddy.” He said and let Valercia's face go and stepped back a couple of feet. He put his hands out to the sides and closed his eyes, then took several deep breaths. With each breath, Artemis, Teepo, and everyone else within his Aura that could feel his emotions let out a small gasp as Ren relaxed another layer of emotional armor inside of himself.
+
+Ren slowly brought his hands together in front of himself, and by the time they touched, his body was glowing slightly and the mark on the back of his right hand throbbed. He could feel the deep connection with Lylyth and her reaction to what he was doing. He sent her a consoling feeling and she nearly coughed it back up. He smiled and sent her amusement, and he felt her annoyance that he could tease her with emotions.
+
+Ren eased that connection aside and concentrated on the Ghoul Kissed mark itself, and he touched it with a mental finger. He felt a very small throb in his hand, then heard three voices gasp. Ren opened his eyes and saw the older man and his fiance had hands on their marks, and then he saw Valercia. She had dropped to her knees and the mark on her chest glowed with a bright light. When his eyes saw this, he caught his breath as a Mana tendril, just like the ones Lylyth used, shot out of his hand and touched Valercia.
+
+They both gasped as the bond they shared through the mark became stronger. The Mana tendril became thicker and they both glowed with the same intensity as the bond became even stronger.
+
+“S-s-stop.” Valercia's future mother-in-law managed to say. “This... this is not...”
+
+“It is necessary.” Ren said, now that he could feel what was going on. “She is the first of her kind, and I didn't realize what that meant when she told me; but, I know now.” He stepped towards Valercia and he saw the slightly panicked look on her face as the Mana tendril grew thicker. “Don't be afraid, Valercia.” He said reassuringly and with a smile as he put his hand directly on her mark.
+
+Something clicked between them and they were covered in a golden light. Valercia carefully stood up, and because Ren was still standing a couple of steps up in the air, they were now at the same height. The light changed as he directed it into her and her body started to absorb it.
+
+“As the Tainted King with the Autocracy ability, I hereby name you Queen of the Ghoul Kissed.” Ren said in his Command voice and granted her the title. “My Domain is also your Domain. The Ghoul Kissed are your subjects to command as they are mine. I also grant you the Word of Law ability, as is my right as King.”
+
+Valercia caught her breath as the golden light filled her up and then it disappeared completely. The room seemed much darker, even though it was still as lit up as it was before Ren's display of power.
+
+“Wh-what... what the hell is going on?!?” Dana asked, completely confused.
+
+“Well, 1 + 1 = 2. He's a king and she's a queen.” Gretchen said. “They're a couple now, I think.”
+
+“WHAAAAAAAT?!?” Dana yelled.

@@ -1,0 +1,153 @@
+---
+id: cc5ecc41-dd46-5127-8c96-ad92defed64e
+page-type-slug: story-chapter-royal-road
+title: "437. Fair and Square"
+slug: 0068-437-fair-and-square
+partOf: salvos
+position: 68
+ownLength: 1463
+unit: words
+publishedAt: 2022-10-21
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1020857/437-fair-and-square"
+royalRoadId: "1020857"
+---
+
+437. Fair and Square
+
+Willy froze. Both figuratively and literally. His normally-green flames paled into a deathly white. A cold wind swept over his wispy body, but the fire refused to dance. Not right now. Even the three baby Wyverns— Novis, Bellum, and Oriur— could sense the tension in the air.
+
+“Huh.”
+
+Salvos had no other response. Laux Lionfist loomed over her. An Elite Ranked adventurer. One of the triumvirate leaders of the Forsaken Company. He had demanded she returned the Treasures of Alexander she wore on her. And if Willy knew Salvos, which he did, he knew she would not just give it over, especially not the Crown of Alexander.
+
+“I, um…”
+
+The silver-haired girl hesitated. Then she pointed past the burly man.
+
+“Wait, what’s that?”
+
+Willy actually looked where she pointed only to see an empty street. He sighed and turned back around. Salvos ran. Of course she did. But as she took a single step forward Laux Lionfist reached out with his long arms and caught her with ease.
+
+“Let go of me!”
+
+Salvos yelled. But the burly man pinched the bridge of his nose.
+
+“I cannot do that, Salvos. Not until you hand over the Treasures of Alexander to me.”
+
+“I’m not giving it to you! It’s mine! I found these artifacts fair and square!”
+
+Willy wanted to intervene. Especially since Salvos’ shouting coupled with the towering Human was scaring the baby Wyverns. However, to him, this scene was comedy gold. Just the sight of Salvos struggling like a child in Laux Lionfist’s right hand made the [Will O’ Wisp] burst out laughing.
+
+She pouted as the large Human held her up to meet his gaze.
+
+“I deserve it! Didn’t you see what I did to beat up those Demons?”
+
+Salvos crossed her arms, and Laux Lionfist sighed.
+
+“I did hear about what you did in Alyras. How you slayed three of the Archdemons on your own— albeit using your Grand Skills and the Treasures of Alexander to your advantage against the already-weakened foes.”
+
+“What? What do you mean they were weakened? I beat them by myself with no one’s help when they were at full strength! In fact, I’d say they were stronger than ever!”
+
+She continued to protest, swinging her legs like a child throwing a tantrum. Willy continued to cackle as Laux Lionfist clearly looked like he was regretting his decision to even approach her in the first place. Salvos continued whining.
+
+“I’m not giving anything to you! Nuh-uh! Absolutely not! They’re safer with me than they are with you guys! How many times have you nearly lost them to Demons? Too many times, see?”
+
+The burly man shook his head, evidently exasperated but otherwise trying to keep his cool.
+
+“Look, Salvos, I’d be more than happy to let you keep the Treasures of Alexander on you. For both your sanity and mine. But, unfortunately, I cannot do that in good faith.”
+
+“Why not?”
+
+She whined. He fixed her with a look.
+
+“Because of what you did to the Breastplate of Alexander.”
+
+And Salvos froze. She gulped as Willy laughed even harder. The silver-haired girl was sweating, averting her gaze from the large Human.
+
+“Um… the whowhatwherenow?”
+
+“We heard about what happened to the Breastplate of Alexander when it was in your hands. That a Mythical Grade Armor— that one of the greatest protective artifacts created in history— broke after you used it for no more than a few months.”
+
+Salvos was completely stiff now. She knew Laux Lionfist was right. So did Willy. Anyone with a semblance of common sense knew it would be ridiculous to someone as reckless as her wander around with priceless artifacts like the Treasures of Alexander that couldn’t be replaced.
+
+Laux Lionfist continued.
+
+“I understand it seems unfair to you. But for the safety and security of the Human lands, I ask that you kindly hand over the Treasures of Alexander to me.”
+
+“I, um… t-that’s…”
+
+She hesitated, mumbling something Willy could barely even hear. What Laux Lionfist said made sense, even to Salvos’ own logic and line of reasoning. Unfortunately, it didn’t make sense to a group of three baby Wyverns overhearing the conversation.
+
+They didn’t hear what Laux Lionfist said, per se. They were, after all, monsters, incapable of understanding language. All they saw was a Human being aggressive towards their mother. So, they acted.
+
+The three of them lashed out at once. They leapt for Laux Lionfist’s face, attacking with their claws and their teeth. He jerked back, swatting them away out of surprise and instinct. They fell back to the ground as Salvos’ eyes grew wide.
+
+“You—”
+
+“I didn’t—”
+
+And the silver-haired girl glared up at him. She moved fast. The Boots of Alexander glimmered as she kicked up. She knocked his arm aside with her shin. The Greaves of Alexander flashed on contact, and Laux Lionfist grunted. He staggered back as she spun around mid-air, aiming for his head with a second kick.
+
+The Elite Ranked adventurer blinked. He saw the way she used the Treasures of Alexander one after another. The next hit would’ve been bad. Even Willy knew that. The [Will O’ Wisp] moved to stop the silver-haired girl, but he would be too slow.
+
+The kick landed. There was a flash. The brick ground smashed open as Willy flinched. For a moment, the Grand Spirit thought it was a clean hit. Then the dust cleared up, and Laux Lionfist lowered his arms.
+
+The burly man had somehow blocked the attack in time, covering his face with his arms. Salvos leapt back, protectively hovering over the three baby Wyverns as Laux Lionfist lowered his arms.
+
+“Don’t you dare hurt them.”
+
+She snarled at him. He nodded.
+
+“I apologize for that.”
+
+He cleared his throat as he adjusted his shirt.
+
+“I didn’t mean to harm them. Are they alright?”
+
+Salvos glanced down at the baby Wyverns. She ran a hand over their smooth bodies before sighing in relief.
+
+“They are, thankfully.”
+
+Novis, Bellum, and Oriur hugged her as they let out a soft cry. Laux Lionfist smiled and stepped back.
+
+“That’s good.”
+
+He started walking away, much to Willy’s surprise. The [Will O’ Wisp] didn’t think that he was going to leave so easily, but he passed Salvos by without pressing her any further.
+
+“I shall be taking my leave now. Honestly, I didn’t even want to have this talk. I am not as good at speaking as I am at fighting. I knew I would’ve messed this up somehow.”
+
+Salvos didn’t respond. Her attention was fixed only on the baby Wyverns. Willy spoke softly.
+
+“Sorry.”
+
+And Laux Lionfist returned with a small nod of acknowledgement. Right as the burly man reached the end of the street, he paused and craned his neck fractionally.
+
+“Do be aware that I won’t be the only one pressing you for the Treasures of Alexander. I am sure that Helena Warshade herself would be approaching you about this issue soon.”
+
+Salvos just harrumphed.
+
+“I’m not giving anything to her.”
+
+“I know you won’t. And perhaps you are right that  the Treasures of Alexander would truly be safer in your hands. Alas…”
+
+Laux Lionfist trailed off as he walked away. Willy flitted over Salvos as she reassured Novis, Bellum, and Oriur that everything would be fine. When they calmed down eventually, she got up and smiled at them.
+
+“Come on, let's find Daniel and Edithe.”
+
+Salvos said as she picked up the baby Wyverns and carried them towards the palace of Alyras. Willy followed, knowing that the day of trouble wasn’t going to come to an end anytime soon.
+
+Helena Warshade sat in the dark room, illuminated only by a single magical image. It was a scrying spell. One that was focused on a silver-haired girl strutting through the city. The Great Tempest Archmage of Mavos Academy ignored the fact that Salvos was carrying three oversized lizards. The leader of the Rising Veterans Company didn’t pay attention to the following Grand Spirit.
+
+Instead, she narrowed her eyes as she eyed Salvos’ every moment.
+
+“Are you friend?”
+
+She asked, leaning back.
+
+“Or are you foe?”
+
+It was a simple question. One that only Helena Warshade was asking. After all, no one would question whether a Diamond Ranked adventurer who had a reputation of killing Demons was an ally or an enemy. But the Great Tempest Archmage of Mavos Academy knew things that most people didn’t know.
+
+For one thing, she knew that Salvos had lied about the death of the Primeval Demon. And for another— a far more important thing— Helena Warshade knew that Salvos wasn’t even a… Human.
+
+So Helena Warshade speculated. She observed. And no matter what, she was going to get her answer from the silver-haired girl.

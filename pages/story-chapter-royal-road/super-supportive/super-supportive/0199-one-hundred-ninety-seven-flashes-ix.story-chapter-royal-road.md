@@ -1,0 +1,349 @@
+---
+id: d3ae9066-5198-58dc-93cf-e9423eb1e1e4
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED NINETY-SEVEN: Flashes IX"
+slug: 0199-one-hundred-ninety-seven-flashes-ix
+partOf: super-supportive
+position: 199
+ownLength: 4135
+unit: words
+publishedAt: 2025-01-06
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1993911/one-hundred-ninety-seven-flashes-ix"
+royalRoadId: "1993911"
+---
+
+197
+
+******
+
+While they waited for rescue in a pile of the injured and wind-vulnerable, Kon laughed and called out to their classmates at the top of his lungs. Lexi held onto him, resigned to the assault on his eardrums until Haoyu or Everly could come. Galecourse was sending her wind from the side to avoid helping the students who’d fallen in the attack on Instructor Klein from having a convenient ride back to the starting line on her gusts.
+
+Alden’s skill was exhausted. Lexi couldn’t extend or phase Writher anymore. Class was basically over, and so were their chances of reaching the finish this evening, if they were being honest about it.
+
+But it wasn’t the worst end to the school day. Among Kon’s bellows about Søren doing crazy things with the light, Astrid doing her part to catch their instructor by surprise, and Jupiter doing something with a tree stump to keep the adults occupied and unable to rescue their fallen comrade…there were also embarrassingly effusive praises about Writher.
+
+“He writhed through your defenses!” Kon yelled. “That’s who Lexi Roberts is.”
+
+Lexi’s face was hot, but he couldn’t tell Kon to shut up when Finlay was right there with him, chanting about whips and Morph Brutes who rose from the dead, too.
+
+I suppose it’s fine for now. A lot of people were shouting their own victory cries.
+
+“You got him, Astrid!”
+
+“I got him, Alden!”
+
+“You got him, Lexi!”
+
+The arm Lexi had locked around one of Kon’s shifted as Kon tried to roll over to see what was going on in some other part of the gym. He was grinning.
+
+He always has been such a smiler.
+
+Kon’s smile was one of Lexi’s first memories, from a time in his life so early that he didn’t have much else to connect it to.
+
+He recalled waving a teddybear in the baby’s face, thinking something about how he needed to be slow and not scare Kon by bumping his nose. It had been a serious effort, very careful teddybear magic that he wanted to get right because it would be proof that he was good at taking care of his little brother. Kon had smiled and reached for the bear, and even though only one of them would ever remember the moment, the contract between them had been written in Lexi’s heart.
+
+That specific memory resurfaced every now and then still, usually when Kon had been particularly affectionate or when he had really hurt Lexi’s feelings. So here it was, rising to the surface while Kon screamed about Lexi’s killing blow of Klein to almost forty other teenagers like he thought Lexi had done something much more extraordinary than just finishing off a task everyone had worked on together.
+
+Kon’s smile was sometimes a knife because it was impossible for Lexi not to know that they were always being compared to each other. He had heard so many people say, “You’re so different from your brother!” And it usually meant, “You’re so much less fun.”
+
+And Kon’s smile was often infuriating because he would use it to blow off peoples’ concerns or hide problems he was having. Lexi had tried, now that they were both older, to have a conversation about what had happened on that visit to Moscow when they were kids. A serious conversation, all the things he’d never said about that night.
+
+Kon had smiled and laughed it off, and Lexi was still mad about it. But…the smile also renewed the contract.
+
+“The party is at Lexi’s apartment tonight!” Kon shouted. “It’s really clean, and they have a polar—ow!”
+
+Lexi had punched him in the ribs. He clearly wasn’t injured enough yet.
+
+******
+
+******
+
+Alden’s suit was restored to full flexibility as soon as Everly dragged him across one of her ice patches back to the start, but only a few seconds later, he found himself immobilized by an unexpected group hug. He, Max, and Everly were being crushed together between Astrid and Jeffy.
+
+“Excuse me, Astrid…now isn’t the time to…Jeffy, let us…really, you two!” Max wasn’t having much luck getting a word in. The Brutes were too busy giving each other blow-by-blow praise for their crimes against Klein.
+
+He doesn’t seem that annoyed about it, though.
+
+Over Astrid’s shoulder, Alden could see Febri rescuing Søren from where he was pressed against the left-side barrier by the wind. The Shaper had attacked Winston. People who’d seen it were talking about it. Winston’s team was trying to collect him.
+
+I can’t wait to see that video.
+
+Elsewhere on the floor, groups that had reassembled were moving forward. Marsha, Jupiter, and Njeri’s team had taken Klein’s petrified body with them. Alden wondered if it was strategy to make sure they had as much time as possible without him bothering them, or if the instructor was a trophy.
+
+Does he talk, or does he maintain a stony silence while they haul him around?
+
+“We do need to go,” Max said, more loudly this time. “Or the chance we’ve bought here will be worthless.”
+
+Astrid finally heard him. “Yes! We need to run!”
+
+She let go, freeing Alden and Everly into the calmer huddle of their own team. Konstantin had brought along the smashed dog crate, and his eyes were closed as he ran his hands over it.
+
+He’d said he wanted to try his power out before the end of class, and they had fewer options than they’d had before they’d participated in the attack on the instructor.
+
+“Writher’s done for the night?” Alden asked Lexi.
+
+“It’ll still hurt people if I hit them with it, but they’re going to have to stand a lot closer and stiller than usual for me to do that,” Lexi said. “Sorry.”
+
+“And I’m sorry my skill’s out,” said Alden, looking down at Kon. “I know trying one last run to the other side with it was our original—”
+
+“Don’t worry about it.” Lexi holstered the whip handle and stretched his shoulders. “You paused Klein for a second, and that gave Writher a chance to make a strong first strike when he broke through.”
+
+“Nah. Maybe half a second,” Alden said.
+
+“It definitely wasn’t nothing.” One of Lexi’s shoulders popped loudly. He stopped stretching. “He looked surprised before I slashed him. I suppose it could have been Astrid moving in that made him look that way, but I think he didn’t know she was coming until she hit him a moment later. He must have been aiming to go through you so fast it took me down, too, but I managed to step back and get Writher to behave more.”
+
+“It’s so sweet how Mind Writher works better when Kon is in trouble,” Everly said. “It does, doesn’t it? I’m not just imagining—”
+
+“You’re imagining things,” Lexi said.
+
+Haoyu looked at the whip. “I don’t think she is. But we’ll review it all tonight in the recovery sauna.”
+
+Alden noticed Lexi didn’t argue about being taken along like he had last time. He must be as ready for a break as I am. Or he liked the fast recovery. Everyone could use it after this.
+
+“Do you want to come with us, too, Everly?” Alden asked. “I could get you a guest pass. I was there earlier, and it was busy. But it wasn’t quite as crowded as it has been lately.”
+
+“You went to the spa before class!” Haoyu exclaimed.
+
+“No, I mean I was at North of North, not the spa specifically. I was working on something in one of their combat simulation rooms.”
+
+Lexi, Haoyu, and Everly all looked at him.
+
+“What?”
+
+“You worked out at the gym before coming to gym?” Haoyu asked.
+
+“It only sounds crazy because you’re saying it in that tone,” Alden protested. “It’s really normal behavior, I’m sure.”
+
+Lexi tilted his head. “How often do you do that?”
+
+“What kind of combat simulation?” Haoyu added.
+
+“Do other people do this kind of thing, too?” Everly sounded worried. “How many hours a day are you—?”
+
+She was interrupted by Kon clearing his throat and deepening his voice to announce, “The time has come. I’m now prepared to save you all.”
+
+Lexi’s eyes went toward the ceiling. “Are we sure we want to use our Klein-free run like this?”
+
+“Your whip is tired. Alden’s skill is gone. My spell impression casts are gone except for the currently active one, and in hindsight, I shouldn’t have hit my parents quite so many times with Boxing Gloves. Since Everly doesn’t want to ice over the entire gym and carry us all on her back—”
+
+“Don’t put words in my mouth,” said Everly. “I’d be willing to try it.”
+
+“Oh! Never mind. If she’s game, then we don’t need Kon for any—”
+
+Kon held up his hand. “All passengers, this is your captain speaking. Flight number one on Air Kon will be leaving shortly. Please stuff your insults in the overhead bins and tie the body parts of your choice to the steel pancake that Alden and Klein made.”
+
+******
+
+******
+
+The spell on the other side of the red line, the one that had ended Finlay and Astrid’s sprint to the finish earlier, was probably Shock Box.
+
+Kon hadn’t seen them go down, but after having a chance to think, he’d arrived at this answer. Alden had been figuring out the rules of the game all class, which was clearly part of the challenge they’d been set, so the final hurdle wouldn’t be something impossible to discern. It should be a problem teams were capable of predicting with the information they had collected so far.
+
+Kon could think of a dozen spells an Adjuster focusing on electrical effects might have used to quickly and quietly take out a pair of runners. But Mrs. Sethi had been setting traps all class.
+
+So it must be a trap, not a spell she’s casting directly at people who hit that point. And she’s old, so it’s most likely Shock Box.
+
+That one had been around forever. A classic. Kon had given a presentation on various electricity spells at Paragon, about two weeks before he was selected. He’d compared Shock Box to impressions like Lighting Picket and Thunder Garden. He’d annoyed his teacher by not including more mid and low-rank spells. But he’d managed to make everyone in class laugh with every other slide, and he’d gotten full credit for delivering it bilingually.
+
+A success. Everly had been in the same class, and she’d used her own presentation as an excuse to feed them bingsu. But the thing Kon remembered most about that day was how he’d had trouble enjoying it.
+
+Becoming a high rank Adjuster with the same focus as Mrs. Sethi, a superhero who controlled lightning like some mythological god—that had been the plan for ages by then, Kon had loved it for ages, and then…he’d started to have periods when it just seemed so empty.
+
+He would have known what to do if he’d had an interest in another class. But he didn’t have something else to latch onto at all. Sometimes, the plan still sounded wonderful. At other times, it became a looming obligation he wanted to hit the brakes on.
+
+Only that wasn’t allowed. You couldn’t stop getting older. You couldn’t be a flake at fifteen as an Avowed, at least not about your class selection. You’d scare your parents. You’d summon worry and intervention from every direction. And you’d heap stress on your unselected brother who was already the most stressed-out person in the country.
+
+And, maybe, it wasn’t actually a problem. There was a possibility you were just terrified of commitment, and what good was it to let on if that was the case? You had to commit to something and make it work. Kon had heard a woman saying that to her teenage daughter in a shop, and he’d decided to take it as advice for himself.
+
+After all, if he walked into a classroom one day, or his home, and announced that he had cold feet about his whole life plan, what did he expect anyone else to do about it?
+
+So selection landed on him—an S just like he’d always hoped for—and he fanned the sputtering flames of the only thing he had that could be called a dream for his life until it was hot and bright again. And he hoped it lasted.
+
+Yes, buy me the nauseatingly expensive class trade I’ve always wanted. Yes, of course I’m so excited. Yes, let’s talk CNH applications. Let’s do it all.
+
+Adjuster became his. He’d accepted the Contract, and he’d been ready to turn himself into that lightning god…when the System asked him if he wanted something brand new instead.
+
+Kon would go to his grave telling people that taking this utterly unknown Adjuster path had been strategy, courage, and his sense of adventure. He was such a happy, lucky guy. What else could have prompted the choice?
+
+And it wasn’t a lie. He had felt a thrill at the offer. He had wanted something special that would make his family proud, and everyone knew that when the System offered something one-of-a-kind, especially to an S, it usually had some extra sparkle to it…not that that came without risks. But Kon had also been looking at that dream that kept flickering out, and in the moment of decision, he’d had less faith in it than he should have. Less faith than he had in an unknown.
+
+He’d run toward this new thing like it was a flashing Way Out sign.
+
+Put some of the pressure on the System and the Artonans; let it be half their fault if he hated his own powers.
+
+Basically, I reacted like every adult warned us not to. A sudden decision instead of a careful one. Years of subclass research and talks with other Adjusters and spell path planning got zapped away in a second.
+
+Of course Reader of Records and the Revert to Reading impression that went with it weren’t anything at all like shooting lightning bolts. The best plan Kon had was still being a superhero, but his actual abilities no longer matched up with how he’d imagined himself doing that job. Possibly they didn’t even allow him to do the job at all.
+
+Unless I figure something out. I’ve started. I can still make everyone proud, be an amazing Avowed, keep it all rolling in a good direction.
+
+He would make his spell work for his team and his future…because it was what he had. Forever.
+
+And, he thought while he tied himself to Lexi and Haoyu both for good measure, I still have entirely excessive knowledge about electrical spells like Shock Box. It’s not useless.
+
+“Even if she’s got the Shock Boxes layered one behind the other or something tricky like that, the spell has a maximum height from the surface it’s cast on. So we don’t actually have to go through at all. We can go over.”
+
+“How can you look so confident?” Lexi grumped.
+
+“Because I believe in myself. Because I have super superhuman powers! Because I’m definitely not the most useless S-rank.”
+
+“I told you to stop reading that weird story,” Everly hissed. “Nobody thinks you’re useless in real life.”
+
+“And because I have been practicing very hard,” Kon said. “Just hold onto me with one arm, Haoyu, and see if you can keep me a little steadier so I can still cast? I’ll win this for us. And then Alden will feel bad about inviting everyone except me to a spa night.”
+
+In just a short span of time, the Rabbit had somehow managed to apply so many straps to so many different parts of the squashed crate that even if Kon screwed up and accidentally repaired some of the cage instead of relocating it, there was a good chance he would stay tied to the thing by at least a few of the strands.
+
+“I invited you in my head,” Alden said, looking up. “I didn’t do it out loud because you were using your skill, and I didn’t want to distract you.”
+
+He’s so unusual for someone Lexi’s age. And so normal for someone who got commended by a general.
+
+The kind of enigmatic figure you hoped to meet in high school. Kon was proud of himself for nudging him toward Lexi. His brother needed more friends.
+
+“If I win this for us, you have to let me throw a party in your apartment!” Kon announced.
+
+“No,” Lexi said. Of course.
+
+“See,” said Kon, “you do think I’m capable. Otherwise you wouldn’t be so vehement.”
+
+By my powers, I hope I’m capable.
+
+This was going to be a spectacular embarrassment, immortalized from every angle by the gym drones, if he wasn’t.
+
+Kon Roberts—S-rank Adjuster and superhero. The dream was going to feel thrilling again one day. He got flashes of it sometimes, like he had when he’d moved that car on the Span.
+
+I picked this, he thought, as the reading he’d done of the crate filled his mind. Now I figure out how to make it work.
+
+******
+
+******
+
+“You lit that traitor up, Søren! You did it! Did you hurt yourself, too? You don’t seem hurt. You shouted something about light! So Apex! Hold on, let me dodge that kitchen sink. Waker’s throwing that last? His sense of humor is the best, isn’t it?”
+
+Søren clung to Febri, unable to get a word in as they plunged through the wind to rejoin their team. He was stunned. He was…happy?
+
+He was also perilously close to barfing because being carried by an Agi who was dodging sinks with the Instant Corners skill was an awful ride.
+
+All of a sudden, his face was pointed upside down and then back in the direction he’d just been picked up from. He could see Winston lying stiff on the floor. He was facedown, and the sandbag he’d taken was on top of him.
+
+Did I kill him or just burn him so badly he can’t move?
+
+And then the view was gone as Febri spun again.
+
+I’m going to be okay, aren’t I? Søren thought. I’m going to be a real Avowed, too.
+
+******
+
+******
+
+A radiator crashed to the floor beside Winston’s head. He couldn’t even move his neck to see Rebecca’s face.
+
+“What in the universe was that?!” she demanded, rolling him over with a bare foot while she still clung to the radiator with her hands. “Why’d you attack Søren? Why didn’t you go help with Klein? You said you would!”
+
+Winston’s sunglasses were gone. He thought they’d cracked from the heat, and then he hadn’t been able to keep them on his face when he fell.
+
+“Well? Answer me! Everyone’s going to think we’re all liars because of you!”
+
+She was gripping his arm with one hand now, holding the radiator with the other, her face close to his. On camera it was going to look bad, especially if the drones got a shot of her clenched jaw and narrowed eyes.
+
+“Answer me, or I’m leaving you here to make a point to everyone else.”
+
+“I was…I offered Søren the chance to come with us,” Winston said, licking his lips. “He—”
+
+“You shouldn’t have been offering him anything! You should have been across the gym. You said you’d go as our team rep to fight the instructor. Alden sent us the maps because you said yes! If you weren’t going to help with the plan, why didn’t you tell me so I could do it myself?!”
+
+“I wanted to win.” The words were still on his interface. “Winning with all of you would have shown—”
+
+“People are going to hate us!”
+
+She didn’t get it. “If we’d won, it would have been all right. It would have been perfect. Winners have lots of fans. Being in first would have made my followers—”
+
+Rebecca’s nostrils flared. “Do your followers live here? Are they going to school with me?”
+
+Winston had no choice but to lie there while she yelled.
+
+“I thought you might be really stupid when you started picking on a guy who hangs out at Matadero with a bunch of wizards. But I assumed it wasn’t my problem. Now you’ve made it my problem!”
+
+“Alden was being crazy that—”
+
+“We're Anesidoran! This is Apex. My dad says if you pass gas on the east side of the crescent, they smell it on the west! These people we’re in this gym with?” She tried to gesture without letting go of him. “These are the people I’ll know forever. I’ll try to beat any of them, but I’m not going to do it by screwing up a plan we agreed to as a class!”
+
+Winston swallowed. He felt something like panic.
+
+“Olive was saying you were nicer than she’d thought. Just a minute ago. She’s been wearing that gross sweatband you gave her to encourage you.”
+
+She didn’t think I was nice before?
+
+“You’d better tell everyone the rest of us had no idea what you were going to do.”
+
+“I just wanted to win. For all of us. I was helping you all.”
+
+“Ha! Who is it who needs help right now?”
+
+He couldn’t answer her.
+
+“It doesn’t look like anyone is winning today, anyway,” she said. “Nobody’s that close. Maybe on Friday.”
+
+She leaned back a little, moving to pick him up. Winston’s eyes had a clear view of the ceiling when five people, clinging to each other and some smashed metal thing, rocketed overhead like Galecourse’s wind had no effect on them.
+
+Four of them were screaming.
+
+One of them was chanting a chant that Winston had always thought was too alien and disturbing for someone who was serious about being a celebrity.
+
+He sounds like a creepy dolphin.
+
+******
+
+******
+
+Alden knew he and his teammates were all destined for a gruesome finale. He’d been jerked from his feet by the dog crate so violently that he had webbing and paracord digging in everywhere, and the crate had unexpectedly flipped over right at the start. So there was just no chance everyone was going to end up together and in one piece, and he was sure he was screaming, which was the only reasonable reaction for a person to have under these conditions.
+
+Suddenly, his stomach proved it hadn’t been left behind at the starting line after all. It plummeted as their rapid journey up and across the gym turned into a fall straight down from nearly ceiling height.
+
+They kind of slowed down, but not enough for him to wonder if it was evidence of Kon having some control, before he was landing in a pile of human limbs.
+
+A lot of his body parts hurt for a couple of seconds before the gym let up.
+
+“That…that wasn’t fun,” said Everly. Alden thought that was her leg on top of his neck. He was too disoriented to try to move out from under it. “I did not like that. Not at all.”
+
+Haoyu was laughing somewhere under Alden but it sounded more like nerves than joy.
+
+“I can barely move,” Lexi breathed.
+
+“Yeah!! Did we win?!” Kon shouted. He was tangled up with Lexi, Haoyu, and the metal, but he was already trying to wiggle out from under them.
+
+A large, smiling face appeared in Alden’s line of sight. Hi there, Big Snake.
+
+“Did we win?” Kon said again. “Did I do it?”
+
+“If you’re all alive, a Healer could probably fix you,” said Instructor Waker. “I think we could count that. So…are y’all alive?”
+
+Haoyu responded after several seconds. “I’m cool.”
+
+“Yes, we know,” Alden said automatically, “but are you dead?”
+
+Haoyu’s laugh was real this time.
+
+Ah, that just came out so naturally. Like joking around with Boe.
+
+“I’m cool and alive,” said Haoyu.
+
+“Me too!” Kon said
+
+“I can’t move my arms or my legs, but I seem to be alive.” Lexi sounded shocked.
+
+“…I think…I’m not even hurt much. Thank you for breaking my fall, Lexi,” said Everly.
+
+“And I’m alive,” said Alden. Feels great to say that.
+
+“Then it sounds to me like you’ve won.” Big Snake clapped his hands together. “Thanks for helpin’ me test out one of my wol…pet crates. Looks like I should buy a tougher model.”
+
+He winked at them. Their suits relaxed.
+
+Once he’d made it to his own feet, Alden helped the others get untangled, and then they all stood there, meeting each other’s eyes and letting it sink in.
+
+Lexi looked over at his brother. “You did a good job.”
+
+Søren’s shaping might have been the brightest thing to happen in the MPE gym that evening, but Konstantin’s smile was a close second.
+
+******

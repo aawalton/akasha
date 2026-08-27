@@ -1,0 +1,517 @@
+---
+id: c705e6b8-1dd5-5612-bd00-ca6426f4b340
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87: Gone."
+slug: 0006-chapter-87-gone
+partOf: the-calamitous-bob-stubbed
+position: 6
+ownLength: 4465
+unit: words
+ownProgress: 4465
+publishedAt: 2022-09-02
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/984930/chapter-87-gone"
+royalRoadId: "984930"
+markedReadAt: "2026-06-29T21:14:51.454Z"
+---
+
+Humans were capable of performing an amazing amount of mental gymnastics for the purpose of belonging, whether they were aware of it or not, Viv thought. She was no exception. When Solfis had made his speech on the plaza, the roars of so many throats had carried her away and she had not stopped to think, to criticize. It was normal. The sort of myth that sent people to war and possibly death could only be embellished. Some of the elements had to be glossed over, like the fact that the empire had not been ‘just’ as Solfis claimed. No empire with slave markets could be just. Freedom and punishment could never be traded on a marketplace. Instead, the Harrakan empire had been fairly dickish to everyone in equal measure. That didn't send bakers charging into enemy battlelines spears first, however. A beautiful lie could achieve more than a hundred truths.
+
+And that was precisely why it was so important to develop critical thinking, so that one could take a step back before they went too far.
+
+And also to destroy other people’s beautiful lies.
+
+“No, please, do explain why you wish to renegotiate the agreement.”
+
+The bishop smoldered in sullen silence. He had been merely dismissive of Viv before, whom he saw as a fortunate upstart. He was taking her more seriously now, if only as a pest. Since he declined to answer in haughty silence, Viv decided to use that opportunity. It was, her papa believed, never good to remain silent in a political struggle. It was akin to wrestling in a pigsty. You could stand upright in the armor of your dignity but that just meant that others were free to smear shit all over your face.
+
+“Farren managed to land a contract that not just protected the victims of tyranny, but also guaranteed an immediate iron ingot output while it would have taken years to install and develop those facilities. The iron bars are of extremely high quality and purified via brown mana.”
+
+The man was still silent. Viv would not let go
+
+“You know what I think?” she asked, as the temple guard, the bishop, and a witch hanger on made their way deeper into the mines of Min Goles.
+
+“I think you should go back to Kazar because this is NONE OF YOUR CONCERN!” The bishop screamed.
+
+“I think that you’re unhappy that a junior member achieved so much and without input. I think that you have come to break the church’s word.”
+
+“He had no right to negotiate this to begin with!”
+
+“I wonder what the head of the order would think about that?”
+
+“You have no idea about what your betters think, woman.”
+
+“I think we should ask him, then. Ask him if it’s a good idea to evict contract-abiding Yries from their new home just to free a chunk of future potential metal. I wonder what he would have to say about that.”
+
+“He would probably say that a cold mind must serve a warm heart, and that we should never have given up the mine to begin with!”
+
+“The Yries were here first, as I’m sure they’ll tell you.”
+
+“They! Are not! Humans!”
+
+The columns stopped as Bishop Erland spat his words in Viv’s face, who was doing her best not to smile.
+
+“Is that the official stance of the church?”
+
+“I am the official stance of the church right now. If you have any complaints, direct them to the head of the order in Mornyr. Now leave us alone. You will accomplish nothing here.”
+
+“I notice that you didn’t deny the eviction. That’s why you asked the temple guards to come, because you knew that your terms are unacceptable, unfair, and cruel.”
+
+“You are a naive, stupid little girl talking about things you do not understand.”
+
+“I understand eviction and oathbreakers.”
+
+“Stop,” a voice said.
+
+Viv stopped a smirk from blooming on her face while Lorn, the veteran knight, the bearded, grizzled veteran of a veteran company turned and stood before his hierarchical superior.
+
+Some of the Neriad veterans had seen Solfis, Irao, and Solar in action. With those old monsters around, it was pretty easy to forget that Lorn was at the peak of the fourth step, and that he was absolutely not to be fucked with. Viv had never forgotten.
+
+“You said negotiate and I didn’t like it. Now you say evict and I like it even less.”
+
+“I didn’t say it. She did.”
+
+“Enough with the wordy bullshit.”
+
+“You will watch your tongue, captain. I always said that the frontier fostered lack of discipline. Do not force me to take measures.”
+
+Viv watched the pair glare at each other, and the bishop progressively relaxed when Lorn failed to act. Viv thought the bishop was a complete dumbass, and only the most obtuse cretin could fail to see that the experienced fighter was two fingers away from giving his obnoxious superior a nice serving of knuckles. When Lorn finally spoke, it was through gritted teeth.
+
+“Company… about face!”
+
+Like a single man, the entire corps of temple guards pivoted a hundred and eighty degrees, showing the bishop quite a collection of metal-clad asses.
+
+“What are… What is the meaning of this?” Erland sputtered, disbelief clear on his traits.
+
+“I hereby claim the moral exemption. Neriad as my witness, your orders go against the values of the temple as I see them.”
+
+“You are to escort me! Nothing more!”
+
+“Your objective is immoral and, under the provision, I refuse to entertain it.”
+
+“This is nothing short of insubordination, Lorn! You have lost your mind. Who is next in command?”
+
+“That would be me sir,” Koro said from the front.
+
+“You are to take command of the column, effective immediately.”
+
+“Fine by me! I claim the whatever it is the captain said. I ain’t no backstabbing bitch. Company, forwardddddd march!”
+
+“You would leave me here?” The bishop asked with some disbelief as Viv turned as well.
+
+“You are free to follow us,” Lorn answered dispassionately. “I do not care either way.”
+
+The temple guard plus Viv departed, leaving the bishop behind with the four soldiers that had protected him since Enoria. The outlander truly expected Erland to follow. It was, by far, the most rational decision.
+
+“Fine, you rebels. Fine! I’ll do it myself then.”
+
+Viv smiled to herself. Lorn slowed down to walk by her side.
+
+“Your plan all along, I assume?” He asked.
+
+“One of the better outcomes. He caught me off-guard.”
+
+“Neriad might not like it, and you had his favor.”
+
+Viv looked the man in the eyes and unfolded her soul to make sure he could feel the sincerity in her words. The conviction.
+
+“The Yries have respected the letter and spirit of our alliance all this time and I will not abandon them for the sake of convenience. Same for the Hadals, you, or anyone on my side. I doubt that this displeases Neriad, and even if it did, I would protect them anyway. As for undermining the bishop’s authority, righteous combat doesn’t mean stupid combat. I will not hurt civilians, I will take care of prisoners, but for everyone else… it’s open season.”
+
+Lorn nodded slowly, though she didn’t know if it was acceptance or agreement. It was kind of fun to see the gears grind in his mind and his face turn into a mask of horror.
+
+“Your Grace… where is Solfis?”
+
+“I am willing to swear that I do not know.”
+
+***
+
+“Back! Back! Sir, you have to go!”
+
+Erland stumbled into a side corridor and smashed his staff against the ground. One of those strange mole monsters was ejected and one of his surviving guards stabbed it, but the blade got stuck into the creature’s thick hide despite the power of the blow. Another man slipped on sand that had not been here a moment before. Erland touched a wound, closing it. If only the Kazarans had stayed… Those tunnels were supposed to be secured! How had the monsters gotten there?
+
+“Sir, you have to go!”
+
+Erland was a healer. He could keep the men going but he could not stop them from getting dragged into a snarling mass of fangs and claws.
+
+“Go!”
+
+Erland was pushed. He turned and ran. There was nothing he could do to save those people.
+
+This should not have happened.
+
+He had a mission, a purpose. The iron mines were wasted under the fingers of an orphan upstart like Farren. The stupid boy had already squandered part of it to non-humans before exploitation had even started. Erland’s cause was just. Just! So why had it come to this?
+
+His strides carried him forward and away from the combat, though he could hear the clicks of pursuing claws. Erland might not be a fighter but he knew how to run for a long time.
+
+He tripped.
+
+The ground was hard and dusty. It was also normally flat. Something had slammed into his tibia and it hurt like hell. Shivering, he brandished his staff and called for light. A golden halo expanded all around, showing gray rock walls and little else.
+
+“I know you are here, servant of evil! Who do you serve? Efestar? Octas? Justice will come for you.”
+
+Nothing replied as the claws on stone raced towards him. He had to try and survive.
+
+And then, something grabbed his staff with titanic strength. It tore the weapon from his grasp with casual ease. The source of the golden light disappeared towards the ceiling, and from there, a familiar voice echoed.
+
+//THERE ARE NO SCHEMING AGENTS HERE.
+
+//NO COMPETING GODS.
+
+//THERE ARE ONLY THE BEASTS.
+
+//THE DARKNESS.
+
+//AND ME.
+
+The pack caught up to him.
+
+***
+
+The time had come to work on herself, so to speak. The interface granted by Nous had only one purpose: to help people understand and use the magic of the world to their advantage. It was more of a help than a requirement since her steady progress had come from hard work and practice, not from staring at numbers. It was still a useful tool she had neglected over the past month for obvious reasons. Now that Enoria’s blow had been deflected and she was on her way to a lonely trip, she would have to rely on her own abilities again. Her focus would be on self-improvement.
+
+Current status:
+
+Mana distribution:
+
+Current attunement: 27.6%
+
+Her attunement had grown very little despite practice. Viv assumed that it had something to do with not spending time in the deadlands anymore. Perhaps casting more colorless spells also had an influence. In any case, she would probably have more than a year although this was no reason to dally. She had no doubt that her last months of life would be extremely painful if she didn’t find a solution soon.
+
+Physical
+
+Mental
+
+Power
+
+17
+
+Focus
+
+38
+
+Finesse
+
+21
+
+Acuity
+
+38
+
+Endurance
+
+24
+
+Willpower
+
+38
+
+Her power and endurance had progressed a bit. Her strength was still extremely low compared to any other fighter in her retinue. Even with magic on her side, humans from earth could just cross the veil and beat her at arm wrestling, which was fine. She would have the time to lift weights later if she felt like it. There was only so much time in a day and she got most of her work out through those katas Solfis had taught her anyway. Her mental stats were another thing altogether.
+
+Kazar and its surroundings had managed to train, gather, feed, house, and equip a large army despite a minimal administrative staff for a simple reason: stats. If someone came to Viv and asked her to organize a twenty days expedition through the mountains, she could do it in half an hour. She could calculate how much food, animal feed, and how many blankets were required in seconds and she could recall by heart where everything was stored. Stats had turned Viv into a one-woman staff and that was even without counting those whose path helped with project management. They didn’t even have to calculate. They just knew.
+
+World magic applied differently to those who relied on their physics, and the results were tangible even outside of battle. Gogen could lift a full wardrobe to dust under it, something that never failed to make Viv’s brain explode. The heavies could train longer and harder than any earth forces and the wounds they accumulated recovered fast as well. All those sprains and fractures resolved themselves in ways that years of physical therapy could not achieve. It was all very bullshit, but in her favor.
+
+Where her mental stats shone the most, was when it related to magic. Glyphs and their use required a tremendous amount of brainpower. Several complex concepts had to be held in her mind at the same time, then linked together through sheer effort and directed to the physical world. It was a thoroughly impossible task for any normal human. Even a glimpse at what she held in her mind would have made the old Viv bleed her brain through her ears. Beyond that complexity hid a wonder that still left Viv speechless at times. The dance of ideas felt like touching the divine, especially after a round of meditative dance.
+
+More impactful was how every multiple of ten represented a new landmark in one’s development. It was probably why progress became slow after a point. The numerical increase might be low, but each stage made one closer to godlike powers. Reaching thirty had allowed Viv to split her attention between several glyphs at once, given her the mental stamina to keep several in their minds long enough to cast, and accelerated her thought process until she could materialize a shield faster than she could blink. She was curious to see what the next threshold would bring. But that would take some more time. Her interest now was on the ‘skills’ part of the interface.
+
+“Do skills work like spells, somehow?”
+
+//In a manner of speaking.
+
+Solfis was working on the trophy he had collected from the Enorian ‘Champion’. He would soon add it to his growing collection in the tower’s basement. People did not talk about Solfis’ room. Even Viv didn’t want to visit.
+
+//Scholars have drawn a parallel between skills like shield wall and green mana fortification.
+
+//Some claim that mages receive mana mastery instead of defensive and offensive skill, granting them more flexibility.
+
+//And that essentially, spells are ad hoc skills.
+
+//However, skills and spells have one major difference.
+
+“Glyphs?”
+
+//Correct.
+
+//Skills are closer to the way monsters and beasts use mana.
+
+//With the exception of those capable of true casting, like dragons.
+
+“Squee!”
+
+//While… She-Who-Feasts-On-Squirrels-And-Gets-Much-Gold shall soon cast using the language of the world.
+
+//Thus giving it intent.
+
+//Other monsters take a more intuitive path to using mana.
+
+//While faster and easier to grasp, it remains limited to clear constraints.
+
+//My algorithms estimate that the theory of Joras the Elder, a researcher and archmage of the last dynasty, might be the most accurate.
+
+//He surmised that intent molds magic, and that clearer intent can be achieved with clearer communication.
+
+//Therefore, everyone who employs even the tiniest amount of mana technically casts, and those that speak the language of the world do it with the most proficiency.
+
+“Ok fair enough. Makes sense to me. Then why do skills differ at expert level?”
+
+//They differ before, Your Grace.
+
+//Harrakan longsword technique can make its user fast and precise, or powerful and unrelenting.
+
+//It varies from user to user.
+
+//The interface simplifies a complex and ultimately variable reality to help sentients navigate this world.
+
+//Let me give you an example.
+
+//When you are angry, or desire annihilation with all your heart, related spells come easier and with more power.
+
+//It happens to everyone, in a way.
+
+//A shield protects someone who desires to be protected with more efficacy.
+
+//The interface cannot reflect the randomized aspects of life.
+
+//It does, however, reflect a generality.
+
+//For example, Eteia was and is more powerful and capable than you.
+
+“Yeah.”
+
+//Her interface would demonstrate this fact.
+
+//Regarding skills, two of them have reached Expert level, which is normal at your age but considerable given the circumstances.
+
+//Those who dedicate themselves to their craft can usually personalize their first expert skill.
+
+//It would normally be mana mastery.
+
+//In your case, your most practiced skills are dancing and scaring people.
+
+“Hey!”
+
+//It only proves your pragmatism, Your Grace.
+
+//You needed balance and social skills immediately.
+
+//And so you practiced those.
+
+//The journey will be a good opportunity to practice mana control.
+
+//Especially through uncolored spells.
+
+//It can only help you with admission.
+
+//But first, let us focus on the present.
+
+//Your skills.
+
+“Right.”
+
+General skills
+
+Polymath
+
+Beginner 3
+
+Athletics
+
+Intermediate 5
+
+Survival
+
+Intermediate 2
+
+Householding
+
+Apprentice 8
+
+Hand to hand combat
+
+Apprentice 6
+
+Pain tolerance
+
+Intermediate 9
+
+Small blades
+
+Beginner 7
+
+Of those, only athletics had increased by one. If you didn’t put in the effort, you didn’t progress. Simple as that. Viv wasn’t disappointed, though she was tempted to improve polymath in Helock if time allowed.
+
+Class skills
+
+Meditative trance
+
+Expert 2
+
+Mana mastery
+
+Beginner 8
+
+Arcane constructs
+
+Beginner 8
+
+Danger sense
+
+Intermediate 1
+
+Leadership
+
+Intermediate 2
+
+Intimidation
+
+Expert 1
+
+Acuity reflex
+
+Beginner 9
+
+Those were the ones that showed some progress, although not much. The issue was that she had attempted nothing new beyond the empowering circle she had used in the last battle. In order to progress on the path of the caster, one had to get out of their comfort zone, try new things, challenge themselves. Then they had to apply their new-found techniques in real life. Viv had simply shelved experimentation and her relatively slow progress reflected that.
+
+Now it was time to see about those improvements.
+
+Two of your skills have reached the expert level. You may pick the way in which you wish your skill to develop. The available options reflect your abilities and the marks on your soul. Only one option can be picked. Skill options do not have drawbacks.
+
+Viv started with meditation. It felt less problematic.
+
+Ritualistic trance: you will find it easier to complete long spells and to work with others. The path of those who prefer working with circles.
+
+Yeah that wasn’t really her. Perhaps a time would come when she would have to coordinate with other casters in some grand endeavors, but she didn’t see that happening in the foreseeable future. It felt like an increase that would benefit casters working on long-term constructs like walls and golems, not someone throwing fantasy artillery shells in people’s faces. Next.
+
+Battle meditation: the tranquility you have achieved better extends to crisis situations, grounding you more in times of pressure.
+
+That could be useful, though that felt redundant. She was already hard to faze.
+
+Deep thought: the veil between human perception and the beyond is notoriously hard to breach. This path will help you find your way with more ease.
+
+It was the state she had achieved when Neriad had healed her soul, and she felt that it would be important in the future. However, it was not important right now and that specific path was not necessary either. She could achieve her results without picking it, especially because she had been shown how to do it once. It was as the interface indicated. It would not close any door, just help her achieve a specific result more easily. She said as much.
+
+//Paths with significant drawbacks tend to be rare.
+
+//I have recorded rumors that further advances can lead to specialization.
+
+//However, this is not common knowledge.
+
+//I can only hypothesize.
+
+//In the meanwhile, I suggest taking battle meditation.
+
+“Wouldn’t Ritualistic trance help once in Helock?”
+
+//Yes, and it would make you popular to work with.
+
+//However, you have to reach Helock first.
+
+//I have a question, Your Grace.
+
+“Yes?”
+
+//Do you sincerely expect to live a peaceful life after arriving at the academy?
+
+The golem’s eyes were annoyingly judgemental. There was a hint of false pity as well.
+
+“Yeah yeah. Alright.”
+
+You have selected Battle Meditation.
+
+Just like usual, she didn’t feel particularly different. She supposed that she would have to be in a crisis. That was bound to happen. Now, for intimidation.
+
+Court mage intimidation: you have conducted schemes to suitable ends, achieved much and caused the death of many. Your intimidation will make your victims aware that through power or guile, you will get your ways, and that it would be wise not to be in yours.
+
+Nice and balanced. She liked it.
+
+Warrior queen intimidation: you have powerful magic and a (very small) nation at your back. Every threat you make bears the mark of a sovereign. Your victims will perceive that there is more than meets the eye and that offending you means offending a great many people.
+
+That was even better, but there was an issue. Anyone she threatened would be able to guess what she was. She said as much to Solfis.
+
+//Stop stalling, Your Grace.
+
+“Fine! Fine…”
+
+Draconic Intimidation: you have accomplished what only one other living person has done: thoroughly impressed a member of the most powerful race on Nyil. Victims of your intimidation will know that nothing is impossible for you. No throne, no walls will protect them if they try to stop you. It is by far the most powerful of all choices and will also work on weaker monsters.
+
+“It does sound tempting.”
+
+//Your Grace, we both know what you will pick.
+
+//Stop. Stalling.
+
+Viv chose.
+
+“Squeeeeeeeeeeeeeeeee!!!!’
+
+She had never seen Arthur so excited.
+
+***
+
+“You want me to rule in your stead?” The handsome man asked, lounging in his chair.
+
+By his side, his wife reclined with predatory grace. She glared at Viv under half-lidded eyes in a way that exuded superiority, possibly considering those who lived here as hicks. Viv wanted to shear off the arrogant twit’s fingers.
+
+“There is little need to rule, but I need oversight. A strong presence to embody power while I am gone. This is what a viceroy would do.”
+
+“Is that necessary?” Solar asked.
+
+Solar looked like a dear caught in headlights. Viv sighed and sloshed the flowery infusion in her cup. It was too hot to drink.
+
+“The institutions in place should function, in theory. I established a council with clearly defined roles and powers. Some of the positions change frequently via elections, providing enough mobility to guarantee that power struggles occur within the different factions. I believe, and Solfis agrees, that the system is healthy, but no institutions, no matter how healthy, can survive the rise of a demagogue if things go wrong.”
+
+“Hmmm. What’s a demagogue?”
+
+Viv sighed. Param didn’t have classes on politics as a general rule.
+
+“It’s someone who appeals to the desires and fears of people to get power instead of reason. Those people aim to get, then stay at the top rather than ruling wisely. They are the worst threat to the current government model we’re using, which is close to a constitutional monarchy.”
+
+“Whatever you say. You want me to keep everyone in line and look good, right?”
+
+“Gather people around you. Be the symbol of what Harrak could be.”
+
+“Alright. Normally I would refuse, but I owe you for my arm, so I will hold the fort while you are gone. And train your line breakers. You have my word has a warrior that I’ll do it until you return. I want to ask. Why me?”
+
+“Several reasons,” Viv replied. She had expected the question. “You didn’t seek a higher status while you’re here and those who do not seek power tend to avoid its corruption. You are also well-known, charismatic, handsome, and really deadly. Such a combination garners respect.”
+
+Solar shrugged. The simple gesture caught Viv’s eyes as his muscles rolled under a thin shirt. It wasn’t a bad sight.
+
+“Maybe I am.”
+
+“Solfis believes you are, so you are. In any case, your role is to prevent people from going too far. I’d wager that you’ll be good at that.”
+
+Solar moved forward. He placed his hands on his knees and Viv felt pressure from becoming the point of interest of the man in front of her. Even then, she could tell that he was holding back.
+
+“What if I replace you in the eyes of the people? What then?”
+
+Viv swallowed with some difficulty even though she knew what to answer.
+
+“It will happen, at least a little bit. I can’t just leave everyone and expect my status not to change at least a little. And I don’t mind. I just don’t want all we have achieved to collapse as soon as I’m away.”
+
+“Interesting. I have served quite a few people who would see their land burn around them rather than give it up.”
+
+“A foolish notion. If someone replaces me, I’ll just replace them when I return. Much easier than picking up the pieces.”
+
+Solar chuckled, and so did his wife.
+
+“Ah, you make a good argument. I am not cut out for this but for your sake and the sake of the people I protected, I will do as you ask. You can seek your cure without concern, Your Grace. I will hold the fort while you are away.”
+
+***
+
+Anelton had not changed much since the last time Viv had seen it, before Lancer’s attack. The sacked town still had the appearance of a corpse, only one that had gone under the hand of a mortician. The gates had been summarily repaired while chimney smoke from some of the better buildings hinted at either new colonists or desperate pillagers. In any case, Viv would avoid the place. It would be the height of retardation to show her mug at the border.
+
+The outlander hesitated for a fraction of a second. She had never been farther east than this place. It was new land from here on, a Terra Incognita that would be hostile to her, but she would not let that deter her. She had made sure everything would survive her departure. She had said her goodbyes. A new sheet of metal showing a crown had been added to the patchwork roundshield by an emotional blacksmith during a massive farewell party. The time had come to go on.
+
+Viv looked back. Her little expedition had four horses total, including two pack horses to help forward. They would have to buy more stuff on the road and that was fine. Probably.
+
+“Ready everyone?”
+
+//Always.
+
+“I hope we meet another Kark exile…”
+
+“Squee!”
+
+“Then, errr, to adventure!”
+
+Viv prayed to Maradoc, God of Travelers, for a safe journey. In the confines of his domain, the god laughed and laughed and laughed.

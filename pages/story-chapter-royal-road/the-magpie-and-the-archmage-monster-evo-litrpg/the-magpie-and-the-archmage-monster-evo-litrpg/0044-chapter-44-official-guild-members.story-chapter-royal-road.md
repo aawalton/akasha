@@ -1,0 +1,175 @@
+---
+id: 5cc087b0-377b-501d-b6a3-465f5f0f165a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44 – Official Guild Members"
+slug: 0044-chapter-44-official-guild-members
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 44
+ownLength: 2260
+unit: words
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2733758/chapter-44-official-guild-members"
+royalRoadId: "2733758"
+---
+
+Liora had to endure the embarrassment of being carried like a baby. The guards snickered at her when they exited the dungeon, and she likely would have pecked them if she could get out of the bundle. Luckily for the guards, Serena was holding her firmly, likely sensing her displeasure.
+
+"Did you complete the quest?" The guard asked after having laughed his share.
+
+"Yes, although…" Kalen shuffled uncomfortably.
+
+"What's wrong, lad?"
+
+"There are still a lot of kobolds left in those tunnels. Is it alright to leave them like that?" He asked.
+
+The guards shared a long look, shifting their helmets uncomfortably. "I'm afraid not much can be done about that. Kobolds are much like rats—their population grows incredibly fast. No matter how many we cut down, there are always more to take their place."
+
+The other guard nodded. "At this rate, we're going to have to request an extermination. Even with all the adventurers cutting them down, it doesn't seem to be enough. How many kobolds did you see in the entry cavern?"
+
+"Entry cavern?" Serena questioned.
+
+"You know—the first large cavern where all the kobolds swarm. It later separates into other caverns where you can find the dungeon loot," the guard explained.
+
+"We never got to such a cavern. The kobolds swarmed us in a tunnel," Kiva explained.
+
+The guards exchanged nervous glances. "That… isn't good. When you turn in the quest, do you mind telling the receptionist about it?"
+
+"Sure. We'll do that," Serena confirmed.
+
+"Good. Now head on back. You guys look like you could use some rest."
+
+They said goodbye to the guards and returned to the city, using the underground tunnel. It was much busier in the evening, with adventurers going to and fro. Some of them appeared in a decidedly foul mood, so the group made sure to give them plenty of walking space. Nobody wanted to deal with a fight on their hands.
+
+Once they returned to the city, it was clear why the adventurers had been as irritated as they were. There were ironclad guards rummaging through everyone's belongings, no doubt looking for Liora. She didn't wait for others to realize that—she Faded and squirmed out of the bundle Serena had wrapped her in.
+
+"Liora?" Serena exclaimed, surprised by her sudden disappearance.
+
+"Let her go. We'll be in a heap of trouble if she's found," Liora heard Kiva whisper before disappearing into one of the alleyways.
+
+She hid inside one of the bushes, although it was a rather tight fit in her evolved form. If somebody were to look inside the bush, they would likely notice her.
+
+What do I do now? The whole city is looking for a bird that stole the pass.
+
+I did warn you.
+
+Don't act as if this doesn't affect you.
+
+What do you want me to do? The best advice I can give is to stay out of sight.
+
+Liora wanted to groan. This was quite a deep pile of trouble she had dug herself into, and by extension, Serena and the others, too. She was also worried about the weasel girl. If people in the Guild began questioning them about Liora, then Kiva might just decide to throw Liora under the proverbial bus to save her hide. Who knows—maybe she'd even blame Serena and Kalen?  They hadn't been together for that long.
+
+I need to somehow calm this situation down. But how?
+
+The only way I see this calming down is if that inspector, Lord Brakaar, I think was his name, gets his pass as well as the thief who stole it.
+
+Maybe I could try putting it back at night.
+
+First of all, I'm 100% sure that the place has upped its security to the point that even if you were Faded the whole time, you couldn't get in. Second, if you somehow managed to put it back, that wouldn't stop the guy from searching for the thief.
+
+They would stop eventually. I mean, how would they figure out who the thief is?
+
+They know it's a black bird. How many of those are there in this city? The biggest question would be whether they'd frame Serena and the others as the guilty ones.
+
+As much as Liora hated to admit it, Renir had a good point. She had no choice but to stay hidden because the moment she emerged, she'd likely get hunted down.
+
+Ruefully, she settled into the bush, praying that the skill would do its job of hiding her from sight. But how long could she stay hidden? She was getting hungry.
+
+But as she sat in the bush, hiding and mulling over what to do, an idea struck her. Maybe she didn't need to hide at all.
+
+When Serena, Kalen, and Kiva returned to the Guild, the air in the reception was heavy. Unlike the first time when they visited, nobody was chatting, and everyone looked rather worn out. It's as if somebody had sucked all the joy out of the room.
+
+Nervously, the trio walked up to the Reward Claim receptionist. A rather young, lanky boy was sitting behind it, looking like he was about to tip over at any moment.
+
+"Excuse me…" Serena tapped on the counter to bring his attention to her.
+
+"Oh! Excuse me. Welcome to the Guild. I'm Mark. Have you come to complete a quest?" He said in a dejected, almost robotic voice, not quite looking at the trio in front of him.
+
+"Is everything alright?" Kalen dared to ask.
+
+"Things certainly could be better," Mark admitted with a nervous chuckle, then muttered. "All this trouble for a single pass that he could buy without so much as noticing a dent in his pocket."
+
+"What was that?" Kiva asked curiously, although Serena was certain that the weasel girl had heard him just fine.
+
+"I'm sure you've noticed all the armored guards around the city," Mark said in a hushed voice, but the whole room seemed to grow more depressed. As if they didn't want to remember it.
+
+"Yeah, we were searched by a few of them before," Serena explained, understanding what the big fuss was about.
+
+They were searching for Liora. She felt incredible relief that the magpie—if she could be called that—had flown away. Part of her questioned whether she should trust the bird. She could see that Kiva certainly didn't, and Kalen, too, was apprehensive.
+
+But Serena couldn't forget how Liora had gone out of her way to attack the nymph and save her brother. Kalen was the only family she had left in this world, and thinking that something might have happened to him just because he was a bit careless while getting them water made her stomach lurch.
+
+"Oh, then you're aware that they're searching for a thief to steal an entry permit from Lord Brakaar. Craziest is that they're claiming it was a bird. A bird!" Mark snorted, his professional demeanor slipping for a moment. But he quickly gathered himself and cleared his throat. "In either case, they've been pestering us the whole day. The Guildmaster got really angry, though. I thought a fight would break out for sure."
+
+"If those bastards come back here, I'll give them a fight," one of the adventurers, a bulky man who had scars all over his muscled arms, hollered and hit the table with his fist.
+
+The rest cheered along with him in agreement, the gloomy atmosphere replaced with bloodthirst.
+
+"Well, in either case, you shouldn't worry about it, since you've been searched once already. You've come to complete a quest, right?" Mark perked up, shooting a satisfied glance at the rowdy adventurers.
+
+"Yes, this one," Serena said, and passed the quest note to the man. But then she realized that they had no real way to prove that they had indeed slain the kobolds. "Wait… Were we supposed to collect their body parts as proof?"
+
+"Ewwww," Kiva shuddered.
+
+"Heaven's no! What would we do with all the rotting monster corpses if everyone brought them over here as proof?" Mark grimaced. "We have a special device that allows us to see your System logs. All you have to do is press your finger here."
+
+Mark pulled out a small mechanical device. It had a large indentation in the center, clearly meant for pressing your fingers against, while the top of it was adorned with writing "Cyene Adventurers Guild". The most peculiar thing was the gentle humming sound coming from within the device.
+
+Cautiously, Serena pressed her finger into the indentation, and at the same time, a flurry of System messages appeared above the device—visible to all. Mark let out a whistle.
+
+"Would you look at that—you've killed enough kobolds to fulfill the quest three times," he said with a satisfied nod.
+
+An approving hum washed through the room, and Serena realized that the veteran adventurers were watching them, some even going so far as to come closer to read the System messages. She heard them mutter something along the lines of "Good start" and "Promising newbies".
+
+"Does that mean we get three times the reward?" Kiva perked up.
+
+"Normally, no. We're trying to keep the monster population in check, but not go so far as to exterminate them," Mark began, and Kiva's ears slumped down. "However! It is different with kobolds. Their population is getting out of control, so any bit to keep it down helps."
+
+"Triple reward!" Kiva cheered.
+
+"So, can we also complete our registration?" Kalen added.
+
+"Yes! I'll set the quest as complete, and then you can head over to Noira to complete your registration," he nodded and stamped the quest note. "Wait a moment until I return with your reward."
+
+Mark went into the room right behind the counter and soon returned holding a small pouch in his hand. He gave it to Serena with a smile. "Here you go. I hope to see you three in the future."
+
+"Thank you," Serena took the pouch before Kiva reached for it, and checked its contents. She noticed that there was a bit more in there than there should have been. "Wait… this—"
+
+Mark put a finger to his lips and winked. "A little bonus for our new adventurers. Accept it and buy a nice meal for your team."
+
+Serena gave him a small smile and nodded. "Thank you."
+
+"No problem, Miss…"
+
+"Serena. And this is my brother Kalen and our friend Kiva."
+
+"Pleasure to meet you all. I hope—"
+
+"Enough, Mark. They look exhausted. Let them rest," Noira reprimanded, having watched the whole exchange from her place at the counter. "Not to mention that I still need to complete their registration."
+
+"Yes, of course. Go ahead," Mark said, sheepishly scratching his head.
+
+Serena, Kalen, and Kiva moved over to talk with Noira, who smiled at them. Although her smile remained professional, unlike Mark's, who had completely relaxed.
+
+"It's a pleasure to see you complete your first quest successfully. Your Guild Rings have already been prepared. If you wait for a moment, I will go and retrieve them," Noira said, but then faltered and asked, "What happened to your magical familiar?"
+
+Serena's expression didn't change, but she noticed Kalen shift uncomfortably next to her. She was expecting this question to come up at some point. The guards were searching for a bird specifically, and she certainly hadn't seen many birds around Cyene.
+
+"Oh, she's flying around for a bit. She didn't enjoy the dungeon too much," Serena said evasively.
+
+"I imagine it would be difficult for a bird," Noira said, and for a moment, it seemed like she wanted to say something else. But she lightly shook her head and put on her professional smile again. "I'll get a ring for your bird familiar, too. You can place it upon her yourself."
+
+"Thank you!" Serena said, watching Noira head into the same room where Mark had gone before.
+
+She could see sweat beading on Kalen's forehead. Her brother was notoriously bad at lying. However, if he kept this up, people might grow suspicious of them. Serena was certain that Noira was suspicious of them to some degree. The question was whether she'd report it to those guards searching for Liora.
+
+Perhaps, she'd wait until Liora was around because without her, they couldn't really prove anything. This somehow made it even worse. Serena had to somehow warn Liora not to approach them—not while they were in the city, at least.
+
+Moments later, Noira returned with four copper rings in her hands and put them on the counter in front of Serena and the others. "There you go. The material of the ring represents your rank, which is currently copper. Although it is the lowest rank, it does make you a full-fledged member of the Guild."
+
+"So we're allowed to use the rooms Guild provides?" Serena asked.
+
+"That's right. I can assign you rooms right now if you'd like. The type of room you'll be sleeping in depends on your rank, and you're expected to clean it yourself, including the bedsheets, towels, and anything else available in the room," Noira explained. "For copper rooms, the bathrooms are shared among the whole floor, and—"
+
+The door of the Guild suddenly burst open with a loud clatter, and a young man with long blonde hair, shiny, polished armor, and a very expensive-looking sword by his hip, strode inside. "Hello, Cyene's Adventurers Guild! Your rising star—Damien Stolte has returned!"
+
+The whole room, including Noira, groaned in unison. What nobody noticed was the black bird, skulking in the shadows and watching the whole scene unfold.

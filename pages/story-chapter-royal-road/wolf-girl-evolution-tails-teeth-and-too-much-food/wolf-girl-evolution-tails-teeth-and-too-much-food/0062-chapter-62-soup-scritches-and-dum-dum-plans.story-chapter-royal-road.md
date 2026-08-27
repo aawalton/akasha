@@ -1,0 +1,325 @@
+---
+id: b1600a0c-e4f1-565e-9f4c-5d253367665d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62: Soup, Scritches, and Dum Dum Plans"
+slug: 0062-chapter-62-soup-scritches-and-dum-dum-plans
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 62
+ownLength: 1660
+unit: words
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2715439/chapter-62-soup-scritches-and-dum-dum-plans"
+royalRoadId: "2715439"
+---
+
+PoV Luna:
+
+Evening came quiet, soft, and warm.
+
+The big worm was thankfully far. The soup was still hot. And the dum-dums were finally calm again.
+
+The campfire crackled gently in the center of their little clearing. Sparks drifted up, glowing gold against the night. Around it, the pack had fallen into their usual rhythm – each doing their strange human thing.
+
+Trianna cleaned her bowstring, humming. Sepio flexed his bruised arm, muttering low curses at gravity. Veric sharpened his sword with serious, dramatic focus that probably fooled no one. Ray counted his shinies again, muttering numbers under his breath like a spell.
+
+And Syl, of course, was already writing in her notebook.
+
+Always the thinker. Always the Second!
+
+Luna stretched near the fire, belly pleasantly full, tail curling across her side. She was thinking too – about soup.
+
+Specifically, another bowl of soup. Possibly two.
+
+But before her thoughts could entertain the idea of three bowls of soup, Trianna’s hand shot out of nowhere and caught her mid-thought!
+
+“Hey!” Luna barked, half growl, half scandalized yip.
+
+But before she could escape, jerky happened.
+
+A glorious, smoky, spicy strip was shoved straight into her mouth.
+
+Chew.
+
+Chew chew.
+
+Mmm.
+
+Okay, that worked!
+
+Luna was convinced to stay.
+
+Trianna’s fingers returned a moment later, this time to more important business – hugs and scritches!
+
+Firm at first, then slower, smaller circles behind her ears, between her shoulders, and down the base of her tail.
+
+Soft little scratches melted into perfect scritches.
+
+Luna’s ears drooped. Her tail thumped once, twice. Soup faded to background thought.
+
+Maybe she would stay right here.
+
+Just for a little while!
+
+Listening was fine. Listening was good. Especially with scritches and food.
+
+So Luna wisely decided to stay a while and listen.
+
+Around them, the dum-dums unwound in their own funny ways.
+
+Ray muttered darkly over his glitter pile.
+
+“That damn snake, stealing my fortune…”
+
+Syl looked up long enough to remind him that the Guild would pay handsomely for their achievements and discoveries. The ruins, and the thing they found there. The corruption. The giant snake monstrosity that could probably eat a mountain.
+
+Plenty of profit and prestige!
+
+Luna perked at one word mid-chew.
+
+“Big! Worm!”
+
+Everyone turned at once.
+
+Trianna stuffed another piece of jerky into Luna’s mouth before she could howl out anything else.
+
+“Less yelling, more chewing,” she said with a smirk.
+
+Luna grumbled around the meat. But it was good meat. Salty, peppered, smoky. Worth it.
+
+Fair trade!
+
+Sepio cleared his throat, leaning closer to the firelight.
+
+“About the Guild report. Finding a Wildling was unusual enough. Clearing a corrupted dungeon, killing a lich, finding the Velssarin ruins and discovering that thing? They would sooner believe we each grew three heads.”
+
+Luna froze. Her eyes went wide.
+
+Three heads?
+
+Three heads meant three mouths.
+
+Three mouths meant triple jerky!
+
+Amazing idea!
+
+“Don’t worry,” Syl soothed, clearly ignoring Luna’s drooling revelation. “We have evidence for nearly everything. The Guild will believe us once they see the samples. And they can corroborate the rest.”
+
+“Good,” Veric said immediately. “Then I nominate Syl for report-writing duty.”
+
+Trianna’s hand went up like a shot.
+
+“Seconded!”
+
+“Thirded,” Ray added without even looking up from his shinies.
+
+“Fourth,” Sepio said flatly.
+
+Syl froze mid-note, blinking wide-eyed.
+
+“What?! No! I am not – argh! Fine! Fine. I’ll do it, you ingrates!”
+
+Their laughter filled the clearing, warm and easy. Even Luna barked happily, crumbs of jerky sticking to her muzzle.
+
+Jerky and laughter!
+
+Best night combo.
+
+The laughter took its time fading.
+
+It hummed through the firelight and into the easy rhythm of crackling wood, clinking cups, and slow breathing.
+
+Luna stayed exactly where she was – half melted across Trianna’s lap, all warmth and bliss and twitching toes.
+
+Trianna’s hands were unfairly talented. Small circles behind her ears, a slow drag through the fur on her neck, light scratches along her shoulders until Luna’s whole body loosened.
+
+Her tail gave lazy thumps against the dirt.
+
+“Mmmm… right ear. More,” Luna murmured, eyes half-closed.
+
+“Trianna, I have been wondering,” Sepio said warily, voice muffled through his palm. “What in the heavens are you doing with our friendly wolf pup?”
+
+Trianna looked up, utterly unbothered.
+
+“What? You shouldn’t knock it till you try it. She’s so nice and fluffy! It’s better than therapy.”
+
+Luna’s tail hit the ground again, one proud thud of agreement.
+
+“Yes! Fluffy equals happy.”
+
+Ray choked on his drink. Veric tried not to smile and failed completely. Even Sepio’s usual stone face cracked into something caught between disbelief and amusement.
+
+And then Luna’s ears flicked toward Syl.
+
+Her Second had gone very quiet.
+
+Not calm quiet – different quiet. Dangerous quiet.
+
+Syl’s book had lowered halfway down her lap. Her eyes were slightly narrowed, her lips pressed together in that patient, too-polite way that made Luna’s fur prickle. The firelight painted her cheeks a soft pink, but her ears were redder still.
+
+Uh oh.
+
+Luna smelled jealousy!
+
+Syl’s tone came light and even, which was never a good sign.
+
+“Trianna,” she said sweetly, “would you mind relinquishing control over our esteemed guest and guide? There are… matters I wish to discuss with her.”
+
+Trianna froze mid-scritch.
+
+“Oh? Do I have to?”
+
+“Yes,” Syl said. Calm. Terrifyingly calm.
+
+Trianna sighed in exaggerated despair.
+
+“Fine.”
+
+Luna awoogled in protest as scritches suddenly became faster, stronger – final farewell scritches. Right between her shoulder blades, they made her leg kick uncontrollably!
+
+“Trianna strongest…” Luna groaned.
+
+“Damn right I am,” Trianna said proudly, giving one last pat before–
+
+Jerky!
+
+Another strip pressed into Luna’s mouth before she could complain. Chew. Instant forgiveness.
+
+When Trianna finally released her, Luna flopped sideways into the grass, dazed and fuzzy-brained. Her fur felt warm from all the petting. Her tail still thumped weakly against the ground, trying to chase the phantom scritches away.
+
+Trianna leaned back against a log, looking smug.
+
+Syl closed her notebook with quiet finality. Her eyes lingered on Luna for a beat too long before she looked away, ears still pink.
+
+Luna blinked up at her, heart oddly fluttery.
+
+Pretty, she thought. Very pretty!
+
+Wait. Weird thought! No! Focus on jerky. Jerky safer.
+
+She turned her attention back to her snack with heroic discipline, crunching loudly.
+
+Trianna hummed, amused. Syl exhaled through her nose and reopened her notes. The firelight danced between them all, easy again.
+
+Luna licked her fingers, tail flicking once more.
+
+Scritches were strong.
+
+But jerky was stronger!
+
+***
+
+Once the laughter had faded and the fire settled low, Syl reclaimed command of the night.
+
+Notebook open. Quill ready. Face serious.
+
+Interrogator Second mode: fully activated!
+
+Luna didn’t mind.
+
+It usually meant snacks!
+
+She straightened where she sat, tail curling neatly around her paws, eyes bright. The reward system had been made very clear:
+
+Correct answers meant jerky.
+
+Jerky meant happiness.
+
+Therefore, knowledge was food!
+
+Perfect system!
+
+And Luna had lots to say! And Syl wanted to know what lots is too!
+
+So now Luna had lots and many things to say!
+
+Much jerky, very good!
+
+And as their talk turned towards System meanie thingies, Syl’s voice slipped into its calm, teaching rhythm.
+
+“Now, Luna. Every Class, or Race in your case, determines how your personal growth manifests. Beyond one’s origins it represents… an interest, or fixation – something that drives you. Scholars debate the precise cause.”
+
+Luna blinked once. Then again. Then tilted her head.
+
+So many words. All squishy!
+
+But the smell of meat kept her focused. She chewed thoughtfully, nodding in sage understanding.
+
+Syl turned the page in her notebook, the soft rasp loud against the quiet night.
+
+“In your case, the Moon appears to be the focus. A body of a shadow wolf and a mind tied to the lunar cycle. Your instincts and magic blend. Mental and physical growth – both responsive to it.”
+
+Luna wagged.
+
+“Yes. Luna strong and smart! Sometimes too!”
+
+Trianna snorted from across the fire.
+
+“That ‘sometimes’ part’s accurate.”
+
+“Trianna,” Syl said without looking up, “please refrain from interfering with the study.”
+
+Luna grinned wide.
+
+“Yes, Trianna, no interfere. You ruin jerky plan.”
+
+Ray leaned back, chuckling.
+
+“What jerky plan?”
+
+“Plan for jerky,” Luna said simply.
+
+Sepio pinched the bridge of his nose.
+
+“Of course.”
+
+Syl exhaled through her nose but her lips twitched.
+
+“Right. Moving on. I do wonder what originally drew you to the Moon. It’s not like you could have known about the Moon Rabbits or the other entities said to inhabit it. So it couldn’t have been food…”
+
+Luna froze mid-chew. Ears lifted.
+
+That was why Syl was her Second! Telling her clever things Luna wanted to know!
+
+Without even needing to know to ask about them first!
+
+Amazing!
+
+“So, the crunchy has other crunchies on it too?! Luna approves!”
+
+“It’s ‘I approve’.” said Syl resignedly. Though she was already coming to terms that Luna would not change some of her quirks.
+
+But then she stopped.
+
+“...Wait. Did you just call the Moon crunchy?!’
+
+Luna nodded immediately.
+
+“Yip-yep! Crunchy round Moon. Perfect bite-size for Luna! Luna might even share if Second asks nicely!”
+
+Silence.
+
+Syl stared at her, quill paused mid-air.
+
+“I need… a moment to process that. Anything else you would like to say, Luna?”
+
+“Yes,” Luna said solemnly, tail wagging faster, head thinking back to crackers. “Moon looks very crunchy! Maybe salty too. Good dip for soup.”
+
+Trianna broke first, laughing so hard she fell sideways against Ray, who barely caught her.
+
+Veric covered his mouth. Sepio failed to hide a smirk.
+
+Even Syl’s composure cracked – the tiniest, reluctant chuckle escaping before she covered her mouth.
+
+Luna’s grin widened.
+
+Her pack approved!
+
+The laughter carried through the camp again, bright and easy, until Luna’s tail wagged her entire body.
+
+And when another strip of jerky appeared in her hand, she decided this was the smartest she had ever been.
+
+Jerky. Soup. Crunchy moons!
+
+Yes.
+
+The universe was built perfectly after all!

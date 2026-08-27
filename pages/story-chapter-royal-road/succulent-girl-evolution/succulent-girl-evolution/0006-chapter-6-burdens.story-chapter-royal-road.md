@@ -1,0 +1,123 @@
+---
+id: 5026edaf-7e34-5565-a990-b62bc3b6c8a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Burdens"
+slug: 0006-chapter-6-burdens
+partOf: succulent-girl-evolution
+position: 6
+ownLength: 2045
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525560/chapter-6-burdens"
+royalRoadId: "2525560"
+---
+
+[I do not understand your insistence on staying on land that is doomed. And acting as a war correspondent, no less,] Rock grumbled as Bubbles crept through the garden. She didn’t have to creep, since the humans were long since gone, according to the news from the remaining front garden plants, but Fern made it very clear that moving too quickly would spook away all the critters that would have entered her well. With Fern’s tantrum, and it being night time with no enemies around, Bubbles rationalized there was no need to rush.
+
+Before Rock could complain in more detail, he spoke somberly.
+
+[Digest (Fledgling) proficiency has increased: Digest (Adept)]
+
+Rock cleared his throat before grudgingly elaborating: [You can now digest exoskeletons.]
+
+Oh! Excellent job, Fern! Fern let out a celebratory burp as she began dissolving the carapaces that had piled up in her well.
+
+[As I was saying: you do realize you and your brethren are wholly unlikely to succeed in protecting your land? The humans are equipped with all manner of magical tools, and it is only a matter of time before they completely eliminate all of your kind. In fact, if you all put up more of a fight, then it is a guarantee that everything would be destroyed—it’s possible if you do not resist, they will only dig where necessary, and would be more than happy to leave the rest of the plants as they are, minimizing overall casualties.]
+
+What do you know about these humans? Bubbles asked suspiciously. How are you so certain they’ll act a certain way?
+
+[It does not take much to discern their motivations,] Rock sniffed haughtily. [Humans desire one thing and one thing only: power.]
+
+And how does digging up our home give them power?
+
+By this point, Bubbles had already reached the front of the garden, where there were obvious signs of the humans’ activities. The land had been thoroughly flattened, the chopped carcasses and limbs of fallen branches all stacked to the sides, denoting the wide path that had clearly been what the humans used to travel as they forged their way through the garden.
+
+Bubbles rushed across the flat path, feeling extremely exposed, to the closest pile of plant debris. She climbed atop the pile, used her roots to push aside withered leaves and twigs, and looked for any signs of life as Rock lectured her on how obvious and simple humans were.
+
+[Their rabid focus when they are so close to acquiring great power is a matter of course,] he concluded as she hopped to the next pile without having to climb down the current pile. She was immensely thankful for Fern’s unflagging efforts; it seemed she was even able to digest dried leaves, deftly catching leaf particles that Bubbles dislodged during her search for survivors. With every round of Digestion completed, Bubbles felt herself grow stronger, less delicate—so strong that her roots were now thick enough to propel her through the air in a controlled fashion, just like the squirrels she had watched hop between trees.
+
+[Do you understand why it is critical for you to leave now?]
+
+I do understand, Bubbles replied as she began rooting through the next pile of dried vegetation. But I don’t see how it’s supposed to dissuade me from defending my home. And by your logic, it would make sense for you to be invested in our fight. If there really is that much magical power below our land, shouldn’t you be cheering for us to defend it?
+
+Rock was silent for a long moment. Bubbles paused in her digging, wondering if he was explaining things that were too far above her understanding for her to grasp, before shrugging and getting back to work. After all, there were more pressing issues to worry about than trying to read Rock’s mind.
+
+Like trying to find any survivors. She had initially been optimistic, hoping that she could find some offshoots that had managed to avoid the main slaughter, the way Fern did. After some discussion with the elder plants, they had decided the best way Bubbles could help ensure their survival (in the likelihood their home defense failed) was to transport sprouts from plants that hadn’t yet propagated elsewhere somewhere safe—somewhere beyond the garden lines, among the wild vegetation.
+
+As much as they all appreciated, loved, and cherished Master, they had come to the conclusion that it was impossible for them to live forever in the safe haven he had constructed for them.
+
+But all her efforts were for naught. She had thoroughly inspected all the piles of vegetation the humans had left behind, and found no viable sprouts. She felt her leaves wilt, and even the shot of energy from Fern as she dissolved her most recent meal wasn’t enough to boost her spirits.
+
+[May I offer a proposal?] Rock asked.
+
+Of course. She began climbing down the pile of twisted limbs, depressed with her failure. Perhaps she should communicate with the remaining plants in the front of the garden, the ones who had witnessed their impending doom today… make sure they were on board with fighting the humans when they returned. And also take stock of which plants had yet to propagate in a safe location. She briefly brightened at the thought that she still had a task.
+
+[I understand and respect your resolve to preserve the dignity of your home, and as I have been unable to appeal to your sense of self-preservation, I have accepted that there is no method I can utilize to urge you to see common sense.] Rock paused expectantly, as if he was waiting for her to say something. As considerate and thoughtful as she was, she had no idea what to say to make him feel better, so she waited for him to continue.
+
+[As such, I have resolved to assist you in your endeavor,] Rock continued, disappointed. Before Bubbles could do more than perk up, he quickly added, [However, as a sapient being who is utterly subject to your mercy, I wish to appeal to your kind nature.]
+
+Bubbles melted at Rock’s display of vulnerability. Since she couldn’t save any of her plant comrades, perhaps she could do something for Rock. He had presented such a strong face this whole time they’d been together; he was the last creature she would have expected weakness from.
+
+Of course! What is it?
+
+[My life is in your hands. Figuratively and literally. In the event that the… resistance turns for the worse, please carry me away from here to safety.] Rock’s request made Bubbles freeze in her tracks.
+
+She viewed Rock’s demands that she leave the garden over the course of the day in a new light. Under the pressure of all the drastic—and dangerous—changes that had been happening to her home, she had completely prioritized her own distress over his.
+
+She really had treated him quite unfairly, even after everything he’d done for her: he saved her from certain death, when the human was about to cut her from the ground. He guided her through the process of saving Fern. And now he was promising to help her and her remaining family.
+
+He was right about the state of their impending battle, as well. From her brief tour of the garden, nearly all of the plants in the garden were grown to help, nurture, and nourish. Not to fight or defend. They really were a resistance force, but not one that was likely to repel the invaders. They were only fighting because they literally could not flee.
+
+I promise. She flattened her roots along the ground so that she pressed against the rock in her underside in a facsimile of a hug. Since you were the one who granted me the power to escape, I will return the favor and escape when—if—there really isn’t a chance to win.
+
+[That is all I can ask for.] Despite Rock’s gracious response, she felt his gloom… as if he expected her to renege on their agreement. That further stoked her resolve to adhere to her promise.
+
+I promise! I’m not dumb. I know we’re against terrible odds. But I have to try, for my Master’s memory. She clambered back to standing position, determined to spend the last hours of peace productively. Come on, Fern. Let’s go find some more bugs for you to eat.
+
+Sticking along the sides of the discarded wood piles for security, Bubbles snuck her way back to the plants that were still standing. It would be prudent for her to keep Fern fed while she still could, especially since it was unlikely that she could stay still for any length of time once the humans returned. She could tell she had gotten bigger; shrubbery that had towered over her previously now merely looked large, and she was able to travel much faster with her longer, thicker roots. Even Fern had gotten bigger, pulling in several insects at once before closing her well up for dedicated digestion.
+
+During a cursory check to see if the coast was clear for her to dash into the safety of the vegetation, she heard a quiet sob.
+
+Did you hear that, Rock? Fern? Fern’s pulsating slowed as she also tried to listen.
+
+[I sense life within the detritus,] Rock replied after a moment. He focused her attention on a spot a couple meters back. [The signal is coming from quite deep inside.]
+
+Excited, Bubbles scurried back to the location, pulling at the twigs poking out of the pile haphazardly.
+
+“Hello! Is someone in there? Please answer!”
+
+[I would caution against such hasty action. You may accidentally dislodge the supporting structures and create an avalanche, further entrapping the survivor, and potentially harming yourself.]
+
+Bubbles paused, dismayed. How should I do this?
+
+[I fear—]
+
+“Hello? Is someone out there?” a quivering voice responded.
+
+“Yes! Are you all right? How is your condition?” Bubbles climbed on top of the pile and began tossing the pieces she could move over the edge. Anything to bring herself closer to the plant trapped below.
+
+“I’m alive… I had more water and energy stored than my neighbors, so that’s why I’ve lasted so long.” The tremor in the voice made Bubbles think this plant regretted outlasting the others. She could empathize; seeing Fern get brutalized hurt her on a visceral level. “I listened to my friends and neighbors fade…”
+
+“Don’t worry, I’m here now! I’ll do my best to get you out.” Reinvigorated by hope, Bubbles continued disentangling the wood in the pile.
+
+“My friend… please don’t waste your energy on me…”
+
+“Don’t worry! My good friend Fern is keeping me supplied with more energy than I know what to do with!” Bubbles was aware her claim was a bit boastful, but the trapped plant needed all the hope it could get. Fern was in agreement, pulsating even harder as she digested her newest haul.
+
+[I believe the trouble is that this plant is far larger than you can handle. Even if you were to clear all the debris, there is no way for you to move it.]
+
+But I can’t just abandon them! Not now that I know they’re here.
+
+[Perhaps this plant has a cutting you can rescue? That was your objective, after all.]
+
+“Even if you were to free me from this cage, there is nothing you can do,” the trapped plant said plaintively. “I… Perhaps my neighbors could have survived longer, if it weren’t for me. I deserve to meet my fate…”
+
+“Don’t say that! What happened today isn’t your fault, and everyone deserves a chance to live!” Bubbles quickly stuffed bite-sized twigs and chunks of wood into Fern’s mouth, banking on Fern’s endless hunger to provide her the strength to get through the wood pile quickly. “Do you have a sproutling I can rescue, perhaps?”
+
+“You don’t understand,” the plant begged. The voice sounded much closer now. “We were all stacked into a pile, but I was the one who dealt the final blow. I’m the one who ended their lives prematurely.”
+
+[This is ominous. Are you sure you want to continue digging?]
+
+They sound regretful. They can’t be that bad! Bubbles successfully cleared a hole, allowing her to gaze upon the tearful being.
+
+“Oh.”

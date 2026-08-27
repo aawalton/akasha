@@ -1,0 +1,235 @@
+---
+id: 57529512-f7b3-516c-b1d6-521f3c5616e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85: Let me tell you something!"
+slug: 0085-chapter-85-let-me-tell-you-something
+partOf: phoenix-ascension-cultivation-litrpg
+position: 85
+ownLength: 2552
+unit: words
+publishedAt: 2026-02-07
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3022693/chapter-85-let-me-tell-you-something"
+royalRoadId: "3022693"
+---
+
+The man needed no introduction, but I pulled up his Nemesis tab anyway.
+
+[Name:Meng Mao]
+
+[Affiliation: Golden Arch City]
+
+[Age: 45]
+
+[Titles: ???]
+
+[Lvl: 45]
+
+[Cultivation: Core Formation(Peak)]
+
+[Enmity Level: None]
+
+[Relationship: Unknown]
+
+[Status: Alive]
+
+Besides the fact that there was no face attached to that tab, the things that changed were the enmity level and his actual level. I could see his level now, using Appraisal, and it surprised me a little. He was only level forty-five, which wasn’t a lot by my standards, but maybe it was? I had no idea how humans leveled in the slightest.
+
+As for the enmity level, it went from ‘Mild’ to ‘None’, which cleared some of my nerves. The last thing I wanted was to have to fight a Peak Core Formation expert in my current state.
+
+However, that answered a few of the questions I immediately had.
+
+How did he find me? How did he know who I was? How much does he know? For how long has he been watching?
+
+Although he did ask a half-question, I felt it was rude not to answer.
+
+“You can put it that way.”
+
+“Interesting.” He walked forward and looked down at me. Not that he could look up, since I was about one-third of his size. “I don’t suppose you know who I am?”
+
+“I know enough, Meng Mao, uncle of Golden Arch City City Lord, and secret leader of the entire city.”
+
+He raised an eyebrow upon hearing that, then let out a hearty laugh. “Indeed, you seem to know. Yet I know nothing about you.”
+
+“I think you know more than any man should.” I chuckled drily and looked at him with more than a little apprehension. “And I know a man like you would not be playing games, so what do you intend to do now?”
+
+I felt safer since System said there was no enmity between us, still, that didn’t mean he could not change his mind at a moment’s notice.
+
+“You don’t seem to want to atone for what you did.”
+
+“I killed and ate some animals, nothing wrong with that, is there?”
+
+He chuckled again, “Indeed, you’re right. However,” Meng Mao slammed his fist against the walls of my cave, creating a large hole and cracks that spread all around. I immediately cast Heaven’s Protection to defend against any sudden attack and took a step back using Side Step.
+
+“They were still my flesh and blood, and I’m afraid I can’t just let you go away scot-free.”
+
+I immediately understood that his rage was fake, since, if he truly loved those two bastards, then he would have already attacked. “So what do you want to say?”
+
+Seeing that I wasn’t all that scared of him, he scoffed and retracted his killing intent. “You’re smart, for a bird. I’ll give you that.”
+
+I really had to hold back from rolling my eyes. Meng Mao shook his fist and continued, “There’s something I need you to do, and after you do that one thing for me, then I’ll consider your debt paid.”
+
+“What? You want me to go kill someone, or revive someone, wouldn’t be the first time that’s happened.”
+
+“What? No. I only want you to retrieve something for me.”
+
+“Retrieve?”
+
+“Indeed. All you have to do is sneak inside a place, which I will help you with, steal what I need you to steal, then escape and give me the item.”
+
+I felt more than a little suspicion at his offer. It could not be that easy to pay back the debt of killing his sons. Then again, he didn’t care much for them. Meng Mao was an important figure in Golden Arch City, even if only those who were in the know actually knew that.
+
+Still, if he wanted me to grab something then it could not be a simple place to infiltrate.
+
+“Where is this place exactly?”
+
+“A small place, you may not have heard of it. A collection of a certain man’s daughter in Golden Arch City.”
+
+What? Isn’t that the place Xing Ya Chen talked about… Where is the horn of a Qilin? I wanted to avoid Golden Arch City because there was no way for me to get in there. But if such an opportunity presented itself…
+
+“I would need more details.”
+
+“We can discuss those later.” He said, smiling from ear to ear like a snake. “I’m sure there are other things you need to do right now.”
+
+So he was following me this whole time.
+
+“Allow me to see you out first. This is still my home after all.”
+
+“But of course.” I walked with him to the exit of the cave, after which he disappeared into the mist.
+
+What’s with these cultivators and disappearing into mist… Is flying not cool anymore?
+
+I rolled my eyes and did a thorough check with my Divine Sense. Now that I could use more than a strand of Qi, it’d gotten stronger and more efficient, and something I could rely on again.
+
+Now that I could use Qi again, I could access my Bag of Holding as well. I missed it dearly and immediately placed the two cores inside along with the cauldron and other things I had stored up in there.
+
+If I had more time, I would have gladly looked through and experimented with everything, but unfortunately I had to go ahead and somehow un-demonifiy that stupid guy so I could finally finish my quest.
+
+***
+
+Meng Mao hadn’t questioned why a Phoenix was disguised as a human playing caretaker for two children. He hadn’t questioned why she had such a vendetta against that Demonic Cultivator either. He didn’t care about the esteemed panther that hung around her.
+
+No, truly, he couldn't care less about any of these things.
+
+However, when he saw that a Phoenix that was young enough to still have baby feathers could cultivate, he had to ask some questions. They ranged from how in the world did she achieve that, to why would she do that in the first place. Then came the more pressing questions, such as how she knew how to read the techniques, and more than that, who’d taught her how to cultivate.
+
+The fact that Phoenixes didn’t have meridians didn’t even cross his mind, because everything else was simply too insane to even comprehend.
+
+He wasn’t a fool, he noticed that the Phoenix was using the technique he gave his sons, but that didn’t matter anymore. What shocked him most was that the Phoenix was using two distinct cultivation techniques at the same time, and for a second he had to ask himself if he had been drugged.
+
+To use two cultivation techniques at the same time was suicide, anyone knew that. Not even Soul Transformation cultivators could, or dared to do that. Yet that Phoenix could, and not only that, was proficient at it.
+
+Just how in the world?
+
+He thought he’d lived long enough to see everything, but the heavens showed him that he was wrong. Somehow, there was a lot more to see and learn, and he wanted to know the little bird’s secrets.
+
+Her intelligence and eloquence also surprised him. Sure, she was smart, that much he knew, but she was smart enough to gather intelligence on him, and brave enough not falter upon meeting him.
+
+Despite his outwardly threatening appearance, he wanted to befriend the Phoenix, not only because she was a Phoenix, but also because of all of the other things.
+
+His original plan was to make use of her, but it didn’t take a genius to understand that the Phoenix held more value than that. However, he also knew that he couldn’t force their relationship, so a small threat would work well enough to plant the seeds of interest in the Phoenix’s mind.
+
+Not to mention that she also seemed interested in his proposition, even if she didn’t say it outright. It was a little obvious by the way her eyes widened and how she didn’t immediately refuse.
+
+She’s still young, after all.
+
+***
+
+“Achuu~”
+
+Is that bastard talking about me again?
+
+“Miss Immortal, are you alright?” Shu Xu Ning asked, sitting next to her brother. I waved it off, and wondered what had happened in the few hours that I was gone.
+
+Shu Wao Tu looked scared, terrified even, and Yo Na looked a little… off. I couldn’t quite put it into words, but that didn’t matter right now.
+
+What mattered was fixing his current state, and getting that damned reading skill. Which I suppose would be more of a function, like Appraisal and Universal Language were.
+
+“So the fastest way to fix you is to push out the Demonic Qi with someone else’s Qi?” I asked, though I knew the answer to that already. I just wanted him to go into detail.
+
+“That’s right. The man said we can expel the Demonic Qi from my body using their own Qi, cleanse my meridians or use the pill from Chiao Gu to save my life. But he said that no matter what we did, my meridians would be forever broken.”
+
+“Big Brother…”
+
+“At least you’ll be alive, right?”
+
+He nodded at my question, but I also found his explanation incomplete. Why would that Shang Ling Zi guy go through all that trouble just to have him be a cripple? No, I was sure that there was something else he was hiding from him, and I would find it.
+
+“Sit still.” I ordered and got up, then placed my palm on his forehead. “Just so you know, this will hurt.”
+
+“What-tttttt…?!”
+
+Before he could finish his question I shoved my Qi inside his meridians and purified it using the lightning dragons. I’d already re-created the two other dragons, so I was way more efficient than otherwise.
+
+His meridians were completely fucked, though. They were twisted, knotted and broken. What the man did wasn’t fixing them, but mending them in a way that was somewhat functional, but also extremely wrong.
+
+Clearly, he had no good feelings toward Shu Wao Tu, unlike me, who only wanted to hurt him after he fucked up all my plans.
+
+Moving on down, his dantian was also a mess. The Qi Lake was not a lake at all, but more like a fog. Whatever Qi he had was muddled, dangerous and extremely unusable. There was no doubt a few compatibility issues between him using the pill, using the technique the man gave him and what Shu Xu Ning did in between.
+
+Still, I had no doubt that after Shu Wao Tu was done and the man came to collect him, Chiao Gu would not have been his only victim afterwards. I wasn’t sure what the Demonic Cultivator wanted, but he was already on my list, even though the Nemesis System didn’t immediately acknowledge him.
+
+The amount of Demonic Qi in his body paled in comparison to how much I had, so getting rid of it was easy enough. After I pushed out all the foreign Qi from his body and meridians, nothing happened.
+
+At least, momentarily. I waited a few minutes with everyone watching me, and sure enough, what I expected to appear actually appeared.
+
+Found you.
+
+Rooted deep in his corrupted dantian was a small, ugly and wrinkly worm. Just like in my past life, Demonic Cultivators planted a literal worm to control, guide and force their members to work for them.
+
+This one could do everything, but its hidden function was also to cripple Shu Wao Tu completely.
+
+My five dragons immediately jumped and devoured it, leaving nothing behind. After that was done, I retracted my Qi from his body, and he fell back, hitting his head on the wall.
+
+I could have caught him, but I didn’t.
+
+“Well, that’s done.”
+
+“Miss Immortal, is Big Brother safe now?”
+
+“Safe? I would say so, but his meridians are all sort of fu- messed up, so I’ll need to shatter them again. He doesn’t look to be in any shape to be able to endure that pain, though.”
+
+“What? But-”
+
+“Don’t worry. Using the Meridian Opening pill, he will be able to cultivate again. He would have been better off had he NOT colluded with the Demonic Path, since his meridians would have been pure, but even with that little handicap, he should still recover to ninety percent of his previous strength.
+
+“Until he finds another miraculous elixir, that is.”
+
+Hearing me say that, Shu Xu Ning’s little face began turning red and swelling up with tears. “Waaa… Miss Immortal that’s… that’s… waaa…”
+
+Oh boy here we go again. Where’s the little girl that made Chiao Gu shit himself?
+
+Nevertheless I picked her up and assured her that her big brother will be just fine, and that the two of us will be able to train and grow stronger together.
+
+I ignored Yo Na’s strange gaze, but I did remember to tell her what happened with her child later. She had the right to know, of course. But I couldn’t say that in front of the two siblings.
+
+As I calmed the little girl down, I could not help but think about what I would do once he was cured. I didn’t need the cleansing pill anymore, since he got rid of the pill by absorbing it himself, though maybe I could use it for the little girl. Her body had yet to be purified and reconstructed, so maybe the auction had something that could help in that regard.
+
+I would need to see about that tomorrow. By then I should have been able to clear the quest and read Yo Na’s recipe, and grab whatever rare materials I needed from there.
+
+After that, the only thing missing was the petals of that flower. After I finished curing her baby, we could go our separate ways…but not before she gave me all the crystals in her cave!
+
+I’d not forgotten about it, and I wanted to use my water-based skills god damn it!
+
+Speaking of that…
+
+Ellemental Affinity
+
+[Fire: 503%]
+
+[Water: -96%]
+
+[Lightning: 10%]
+
+I did not need that much more affinity to reach zero, but the little amount of Lightning was really disappointing. It seemed that I had to procure more lightning-oriented materials and cores to absorb so I could increase my strength in that regard.
+
+Not to mention that water and lightning made a great combination, as did fire and water. Lightning was also really cool, so I definitely wanted to get some skills in that regard.
+
+Too bad that after buying Perfect Disguise, I was lacking in Skill Points.
+
+But as long as there were things to kill, there would be levels, and levels meant Skill Points, so I wasn’t all out of options.
+
+“Miss Immortal?” Shu Xu Ning pulled me back to reality, and I put her down. I wasn’t sure when she’d stopped crying, but it was about time for her stupid brother to wake up. I wasn’t sure if I had anything that could heal him in my bag of holding, but even so that was merely a bit of courtesy.
+
+I was definitely going to enjoy destroying his meridians.
+
+“Wait, wait, wait, wait!” He yelled, but it was useless, as my fist was already upon his dantian.

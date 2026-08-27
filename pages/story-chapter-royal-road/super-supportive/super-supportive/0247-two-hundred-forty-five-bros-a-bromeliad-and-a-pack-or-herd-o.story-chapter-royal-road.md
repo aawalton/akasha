@@ -1,0 +1,213 @@
+---
+id: 84a7fd03-209f-5416-ad10-64143f0b16fa
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FORTY-FIVE: Bros, a Bromeliad, and a Pack or Herd of Bears"
+slug: 0247-two-hundred-forty-five-bros-a-bromeliad-and-a-pack-or-herd-o
+partOf: super-supportive
+position: 247
+ownLength: 2294
+unit: words
+publishedAt: 2025-09-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2616249/two-hundred-forty-five-bros-a-bromeliad-and-a"
+royalRoadId: "2616249"
+---
+
+245
+
+Lexi came back to the apartment on Sunday afternoon. Thanks to the magic of Bromelimas, and the fact that Kon was undeniably alive and well, he wasn’t in a bad mood.
+
+He was insufferable about having completed all of his homework while Haoyu and Alden were moaning about theirs, and later that evening, while they were decorating the tree, he did grill Alden on what had happened. But it seemed like he was more worried Kon might have embarrassed himself than been endangered. Considering the pictures and videos Kon had been sharing with friends since he got back, that made sense. Talking to a sweecha, dancing along with the sand images at the train station, and trying every beverage he could think of in his new cup—he looked like someone whose biggest problem was going to be his body’s inability to handle the amount of liquid he was pouring into it.
+
+“A summoning like that is great,” Lexi said after Alden had finally satisfied him with enough answers.
+
+They were sitting on the floor in the living room with a bunch of craft supplies provided by Lute. Last year’s Brutal Ring Christmas Special was playing on their rarely-used television. Haoyu had declared the watching of it an official Bromelimas tradition. He said he was sure Instructor Waker was going to be one of this year’s surprise guests in the holiday matches because he’d overheard him saying, “Ho-ho howdy! I’ll jingle your bells!” to himself.
+
+That was in keeping with the tone of the Christmas show.
+
+“I think that kind of summoning sounds perfect, too,” said Haoyu. “I’m a tiny bit jealous you asked Kon instead of me.”
+
+“I’m sorry. The next time a wizard’s wand breaks, I’ll tell them to call you. To fix it. With your Boxing Gloves.”
+
+“On second thought…don’t do that.”
+
+“You sure?”
+
+Haoyu laughed. When he wasn’t commenting on what was happening on tv, he was making an ornament out of a toilet paper tube. He said the origami instructions Alden was following were too confining for his creativity.
+
+Lexi had been trying for ages to use Writher to cut a single snowflake out of a piece of paper.
+
+“Dream trip for a lot of people,” Lute said. “No wonder Kon’s thrilled. Go fix something. It takes minutes, then they let you hang out and go shopping with a friend.”
+
+He was showing off his ridiculous Chainerness by being better at Alden’s chosen project than Alden himself. It was annoying to watch him glance once at a pattern on his interface and then produce three paper polar bears before the Brutal Ring announcer could finish introducing the next contenders.
+
+So Alden was making a T. rex. Every Bromelimas tree needed a T. rex.
+
+“I think I’m relieved now that Kon’s done one,” said Lexi. “That doesn’t make sense because this one doesn’t have anything to do with whatever other wizards might want from him in the future. And it probably doesn’t make sense for me to worry in the first place. He gave up on his original plan and picked what has to be a much safer Adjuster path as far as being summoned goes.”
+
+“You should worry more about what wizards will ask you to do,” Lute said. “You went for an evil whip.”
+
+“I know. My mom points that out every time I complain about Kon changing his whole plan at the absolute last second. Sometimes I think he flies around like a fart in a room full of Sky Shapers just to stress me out.”
+
+Writher left a scorched spot on his snowflake, and he hastily set the whip aside.
+
+“Anyway, this was a good one for him. Tell me the truth, though. Did he ask for an enchanted cup only he can use instead of normal, practical argold?” Lexi was looking at Alden.
+
+The T. rex almost lost a leg.
+
+Alden wasn’t sure if Kon was brushing aside this question when others asked. The more honest answer—that the trip wasn’t considered an official summoning—would have been fine to give, in Alden’s opinion. But wasn’t there a chance Kon was letting everyone assume it had counted as an official one…because he was trying to obscure the truth about being unsummonable?
+
+Alden needed to ask exactly what Kon had told people. And what Mehdi knew from hearing just Kon’s side of the conversation right before he’d been teleported.
+
+“I have no comment on your brother’s business,” Alden said. “You must ask the man himself.”
+
+Shortly after the Brutal Ring special ended, the Bromelimas tree was finished. They had an argument over which of them had done best while they placed extra origami polar bears all over the apartment.
+
+Haoyu was trying to win by pointing out that his bromeliad was what made it a Bromelimas tree in the first place.
+
+Alden thought the dinosaurs and ryeh-b’ts attacking toilet paper roll Nautilus Needle were the obvious choice.
+
+Lute was advocating for quantity of ornaments contributed.
+
+And Lexi was pretending he was too mature to care.
+
+While Alden lined up polar bears on the living room windowsill, he spotted someone in a black hoodie leaving the girls’ building. She wasn’t facing him, but he thought it was Maricel. He almost texted her, then stopped himself.
+
+A couple of abrupt responses to his last messages, a couple of times when they’d passed on campus and she’d seemed to be actively not noticing him…
+
+“Is Maricel still in the news a lot?” he asked. “I haven’t been keeping up with everything.”
+
+Haoyu was putting a bear in the freezer. “Not as much on Anesidora, but I heard she’s doing some call-ins for programs in other countries. And EarthBox has her on their wraparound screen now! The one that celebrates Ground Shapers making a difference? It’s awesome. She’s the only teenager on it, and she’s twenty meters tall. Vandy said they pulled her out of class for the photoshoot.”
+
+So she’s got a lot on her plate, lots of people vying for her attention, and a lot on her mind.
+
+Those were good enough reasons. He suspected they weren’t the main reason, though. There was tension in him knowing that her new model globie status was built on such an edited version of events that it was almost a lie.
+
+Only a little tension for him, but it must have been more for her.
+
+Whatever’s up, she clearly isn’t eager to talk to me. And she hasn’t mentioned my name in the press or anything like I was worried about. So…ball’s in her court.
+
+They’d have gym together again next month if she didn’t choose Elites.
+
+Gym.
+
+“No duels this week,” he said, placing the last bear in its herd.  Pack? Bear group. “Not one-on-ones anyway. Foxbolt told me.”
+
+“Good,” said Haoyu.
+
+“Good,” Lexi agreed. “There are a few people who really…I’m just glad to have a break from them. ”
+
+“I never have duels,” said Lute. “Instead, I have sense.”
+
+“It sounded like Foxbolt thought we’d do them in one more class before the end of term, though.” Alden walked over to look at the tree again.
+
+“All bros must help mist the bromeliad without getting the paper ornaments wet.” Haoyu was standing on the other side. “Tradition number eleven.”
+
+“I didn’t consider that,” Alden said.
+
+“As someone who has sense, I did,” Lute announced. “I just assumed four Avowed should be able to figure out how to water a plant successfully.”
+
+“This is seriously the best Christmas tree I’ve seen,” said Alden, reaching for the first paper star he’d placed on it and bringing it closer to the front. Since I was really young.
+
+******
+
+******
+
+On Monday, at the end of Engaging with the Unexpected, he told Instructor Marion he wasn’t going to share his Thegund experience for credit next quarter. He felt like he could do it now, but not without coming to resent certain class members more than they deserved.
+
+“I’ve sent an application to the volunteer department at the healing hospital,” he said to Boe when they talked that afternoon. “If they say yes, I’ll make that my project.”
+
+A couple of minutes later, when Alden tried to jump from that topic to the one they’d set aside on Saturday night, Boe performed a verbal dodge.
+
+I’ll pretend I didn’t notice it.
+
+What Boe was going to do in the future, and why he was even thinking of living in a city where other high ranks could run into him on the street, didn’t seem to have easy answers for him.
+
+And so far this year, he had been to Alden’s funeral, jumped in and out of catspace multiple times, punched through a brick wall, and ended up naked in a rainforest during an evacuation he didn’t know was happening.
+
+He deserves some time to deal.
+
+“You’d like the inward path,” Alden told him. “The healer can use it to make your thoughts clearer and give you enough distance to look at them. And there’s this weight on your mind that calms you down, and…it encourages you to find the things that are actually true for you and that actually matter to you. The weight’s heavy, so the bullshit in my head can’t lift it. Only the real stuff gets through. So I can find out what the real stuff is.”
+
+“That sounds…”
+
+Alden smiled and nodded.
+
+“…fucking terrifying.”
+
+“No! I mean, it was at first. But it’s been so good for me already!”
+
+“I can tell. I think.”
+
+“Wow, that was hesitant.”
+
+“Maybe I’d like it if I was alone with it,” Boe said. “Not with someone else there listening to my real stuff. I’m glad it works for you. It was…nice…of your friend to introduce you to the healer.”
+
+“I bet you could like Stuart, too, if you tried just a little bit. He’d probably enjoy talking to you if you ever wanted.”
+
+The conversation paused there.
+
+Alden had a moment with the taco bowl he was eating at his desk. He was trying to make it last for as long as he could stand. Natalie had sent seven nutritious meals and a tub of extra guacamole over by drone. Cinnamon rolls to follow.
+
+[So they’re wizards with skills. The generals or knights or whatever translation is best,] Boe sent. [They’re…sort of like you. In that way.]
+
+[In that way,] Alden agreed.
+
+[Stuart’s one of them?]
+
+[Going to be in the future. Probably.]
+
+He had time to take a few more slow bites.
+
+[You can’t be thinking of telling him.] Boe was using an emphatic font. [What if he tells others?]
+
+[He might. He has oaths to uphold. That’s why I haven’t told him.]
+
+Boe looked pale.
+
+[I’ve got a long time to think,] Alden said. Seven or eight months was less time than he’d wanted. [Don’t look so freaked out. I know I’m still settling in. I know how extreme the consequences of telling anyone could be for me. And right now I really value control of my own life more than ever before.]
+
+[You told me.]
+
+Alden winced. [Right after you came out of catspace. While I had a breakdown. Sorry about that again. You’re you, though. Of course I told you.]
+
+[I’m glad you told me,] Boe typed. [But I’m not sure you should have.]
+
+Alden stared at him.
+
+[I’m now a major weak point for you. I have no intention of betraying you, but I screamed at Jeremy and accidentally outed myself as an Avowed to him a few months ago. And I never, ever planned to do that. Think about that…and figure out how to do the secrecy contract when you can.]
+
+[I’ll figure it out. But it’s so that you can talk to me freely about yourself, too. Not because I don’t trust you.]
+
+******
+
+On Tuesday, Alden made Liam Long’s year by asking him for a favor. He hoped Liam believed him when he said this would not be a regular occurrence.
+
+He also practiced spells that afternoon, tried to pick up a puddle correctly with Haoyu’s help, and received a call from the volunteer coordinator at the hospital.
+
+He told Stuart about all of it on a video call that lasted for over an hour.
+
+“The project for Instructor Marion’s class is supposed to be something outside of our comfort zone. I honestly don’t think helping out there will be for me, but that’s why I wanted to give some of my time to it. I want to see what it’s like to work in a House of Healing. Maybe just because of my mother. It feels like it might be part of my choosing season.”
+
+“I’ll contemplate that,” Stuart said.
+
+“Is my volunteer work really worth your contemplation?”
+
+“Yes.”
+
+Alden thought about it. “That’s nice to know. Healer Yenu sent me a message. We decided to meet on Thursday. You don’t have to come with me if you’re busy.”
+
+“I’d like to go and use the inward path myself,” said Stuart. “I look forward to seeing you.”
+
+“Great! Me too.”
+
+******
+
+On Wednesday, the bokabv mother had her calf.
+
+To Alden’s shock, Rel-art’h called and asked if he wanted to see the new life before both animals were sent back to join their herd. Since Stuart had told him Alden needed a bokabv for mind healing, he was taking it seriously.
+
+The Rapport school teacher also took Alden’s class schedule more seriously than Alden did and insisted on knowing exactly when he’d be done with every last instructor before selecting a time for his teleport.
+
+So Alden attended all his classes, including gym, then rushed to his room. He packed his suitcase and headed back to Artona I a little earlier than he’d planned.
+
+******

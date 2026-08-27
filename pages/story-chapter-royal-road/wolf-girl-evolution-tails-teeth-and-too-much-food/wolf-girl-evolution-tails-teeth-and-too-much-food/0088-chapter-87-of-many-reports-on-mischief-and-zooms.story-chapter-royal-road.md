@@ -1,0 +1,509 @@
+---
+id: f311cfc4-aaf7-5c39-94b7-e025158f417e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87: Of Many Reports on Mischief and Zooms!"
+slug: 0088-chapter-87-of-many-reports-on-mischief-and-zooms
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 88
+ownLength: 2236
+unit: words
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2965158/chapter-87-of-many-reports-on-mischief-and-zooms"
+royalRoadId: "2965158"
+---
+
+PoV Luna
+
+The next few days passed in the now familiar blur of activity.
+
+First Luna would wake up.
+
+Very early!
+
+She stretched long and wide, toes curling, tail flicking happily – then immediately began distributing shadow mlems!
+
+Carefully. Strategically. With great stealth!
+
+And then run!
+
+Which was usually when the bullies attacked.
+
+With hands, and scritches!
+
+Betrayal!
+
+Luna tried to escape every time. She really did! She wriggled, and shadow-slid, and even rolled off beds and under blankets!
+
+It never worked so far.
+
+…but Luna was getting better!
+
+Trianna totally didn’t notice the mlem last night!
+
+Apex Predator win!
+
+Hehe.
+
+After surviving the morning assault, Luna would eat breakfast with her pack at the tavern. And there was always something new and hearty to try. Stews. Porridges. Fried things. Things with sauces that smelled suspiciously important.
+
+Bread, too.
+
+Bread was beginning to grow on Luna.
+
+It was meh alone.
+
+Dry. Sad. And confusing!
+
+But Sandwich man had shown her the Way!
+
+And Luna was enlightened!
+
+Bread was a thing made to be eaten with other things, clearly! Meat, soup, stew!
+
+Even leftover sauce from her roast tasted better scooped up onto it!
+
+So awoo-heckin’ weird.
+
+But it worked!
+
+And Luna would nom on anything that tasted good.
+
+After breakfast, Luna and pack would head out to the Guild place – a very fun place!
+
+But on the way there was magic.
+
+Food stalls!
+
+Luna never knew there could be so many ways to make bread.
+
+Or wheat dumplings!
+
+Or potato dumplings?
+
+Or noodles!
+
+Noodles were great, they made soup chew better! Long soup. Bitey soup.
+
+Kinda like bread.
+
+But different.
+
+Same but different?
+
+Weird!
+
+Luna liked them both, very tasty!
+
+Then– oh!
+
+Guild is here!
+
+Gotta play!
+
+Second would stare down paper notes and talk to humans in serious voices. Luna tried those notes once. They didn’t taste of anything. Just bleh old dried plant matter and bitter inky thingy.
+
+Very disappointing.
+
+Luna would rather play!
+
+And so she cheerfully and playfully beat up all the Guild playmates.
+
+Many times, too!
+
+She ran and dodged and tapped and bounced and zoomed, laughing the whole time. Her playmates shouted. And fell over. Then agreed to “one more round” and then regretted it!
+
+Very fun.
+
+She also spent a lot of time with the Proper Human Team.
+
+They had Proper Human Wisdom!
+
+And they shared it with Luna!
+
+Very smart!
+
+Almost like Luna!
+
+And they also made poses! Very important poses. The best poses. Strong poses. Dramatic poses.
+
+Second was a bit mad about the “walking on hands only” thingy, though.
+
+But even Apex Predators make mistakes.
+
+So Luna forgave Proper Humans!
+
+Also, they gave Luna steak and jerky.
+
+But Luna was unbribeable!
+
+Nuh uh!
+
+She forgave them for other reasons!
+
+Totally!
+
+Then came the work.
+
+Hunts. Talking to Sandwich Man. Gathering pesky herbs that attacked Luna’s nose. Chasing after pests. Finding lost things. Even digging up places!
+
+That one was very fun.
+
+But also very, very tiring.
+
+Luna got Veric and Sepio to help there. They were big and slow, but strong. And pack needed to contribute, yes!
+
+Luna even promised them a piece of roast each, like a proper pack leader.
+
+They refused.
+
+Rude!
+
+Hmph!
+
+And as Luna hunted, delivered, played, and accidentally flattened people who had agreed – sometimes too eagerly – to play-fight with her…
+
+She grew.
+
+And her skills ticked upward!
+
+【Bite Lv. 15 → Lv. 16】【Strike Lv. 11 → Lv. 12】【Jump Lv. 11 → Lv. 12】
+
+And Run leveled up too. Twice!
+
+【Run Lv. 15 → Lv. 16】【Run Lv. 16 → Lv. 17】
+
+Shadow Step and Shadowmeld weren’t shy either~
+
+【Shadowmeld Lv. 9 → Lv. 10】【Shadow Step Lv. 11 → Lv. 12】
+
+And with all the devouring Luna was doing, the Maw gained a level too!
+
+【Devourer’s Maw Lv. 3 → Lv. 4】
+
+Even her Gluttonous Soul increased.
+
+【Gluttonous Soul 11% → 12%】
+
+All the new foods, and all the hunts Luna “accidentally” munched on to try, made it a happy skill!
+
+It still complained about no strong meat though.
+
+Needy thing.
+
+Luna drooled a little.
+
+Well.
+
+Perhaps Luna wanted some too!
+
+Her nose twitched.
+
+She caught a whiff of prey just then.
+
+Oh.
+
+The hunt was back on!
+
+***
+
+Requests vanished.
+
+At first it was just the easy ones. Weed clearing. Pest deterrence. Herb bundles that normally took a quiet afternoon and a fair bit of complaining. Luna would take them alongside the party, darting out and back while the others followed at a sensible pace.
+
+Then, one morning, Syl stopped her in front of the board.
+
+“Pick one,” she said.
+
+Luna blinked. Looked at Syl. Looked at the board.
+
+“…Luna pick?”
+
+“Yes,” Syl confirmed. “One small request. You choose it. You do it. And you report back. We’ll be nearby.”
+
+Luna stared at the parchment like it might explode.
+
+So many words. So many smells of ink and fingers and worry.
+
+She leaned in, sniffed hard, sneezed once, then jabbed a finger at a paper pinned slightly crooked.
+
+“That one!” she declared.
+
+Ray glanced at it, then at Syl.
+
+“Lost chickens.”
+
+“Chickens?” Luna perked. “Food?”
+
+“They need to be brought back alive,” Trianna said quickly.
+
+“…Oh.”
+
+Luna considered that. Then nodded seriously.
+
+“Okay. Luna will not eat job!”
+
+With that solemn promise made, and after getting drilled by Second about where to go and what to do, she vanished.
+
+They didn’t follow immediately.
+
+The party lingered by the door, pretending not to watch the clock while very much watching the clock.
+
+Syl stood calm, but her fingers tapped once against her staff. Ray leaned against the wall, arms folded, amused rather than worried.
+
+It took less than thirty minutes, counting from the moment Luna picked up the paper.
+
+The door burst open.
+
+Luna skidded in, feathers in her hair, dirt on her knees, proudly holding a very indignant chicken under one arm, and a completion notice from the farmer in the other.
+
+“Done!” she announced.
+
+Julia stared.
+
+“…All of them?”
+
+Luna nodded, handed her the note, then carefully set the chicken down on the counter. It immediately hopped off and ran toward the back.
+
+“They tried to escape,” Luna explained seriously. “Luna chased. Very fun chase!”
+
+Ray snorted.
+
+Julia rubbed her temples, then stamped the parchment.
+
+“Payment,” she said automatically.
+
+Luna leaned forward.
+
+“Yes. Luna reports complete. No eat chickens.”
+
+“…Good to know,” Julia muttered.
+
+She accepted the coins with reverence, sniffed them, frowned faintly, then tucked them into her Maw for safekeeping.
+
+“Reporting done,” she added, very proud.
+
+Ray nodded once, approving.
+
+“Perfect report.”
+
+From then on, it escalated.
+
+Small herb-gathering jobs. More hunting jobs. A missing tool retrieved from a drainage ditch that Luna described as “very rude mud.”
+
+Each time, Luna chose. Each time, she went alone – technically – with Syl’s senses stretched thin and Veric quietly repositioning himself where he could intercept trouble.
+
+And each time, Luna came back glowing!
+
+Sometimes literally dusty. Sometimes green-stained. Once sneezing so hard she nearly fell over the counter.
+
+“Herbs smell mean,” she complained after one such job, rubbing her nose. “They fight nose.”
+
+Julia slid the reward over.
+
+“That’s, uh… normal.”
+
+“Normal bad,” Luna decided.
+
+And then she would vanish again, bounding off to pester adventurers, dart between tables, or challenge someone into a “very gentle” play-fight while Syl negotiated and Ray scanned for the next parchment.
+
+The guild adjusted.
+
+People started stepping aside instinctively. Betting pools formed and collapsed. Someone tried to race her once. No one tried again after.
+
+By the third day, nobody even blinked when her rank was quietly updated to C.
+
+And Luna?
+
+Luna was having the time of her life!
+
+She learned which doors were push and which were pull. Which tables were hers to jump on and which earned her a look from Julia. She learned that some humans smelled scared even when laughing, and some smelled proud when losing.
+
+The guild wasn’t a den – but it was becoming familiar.
+
+As was the rest of the human hive place!
+
+Loud, messy, and full of humans everywhere.
+
+And Luna loved it!
+
+***
+
+Guildmaster Ferric leaned back in one of the Guildhall chairs, fingers steepled over his stomach, expression caught somewhere between amusement and mild dread.
+
+Across from him sat Syliana, her piercing elven eyes tracking his every move. Likely with well-hidden disapproval, he suspected. The decades had not been kind to him, and he might have let himself go.
+
+Just a little bit!
+
+“I’ll be honest with you,” he said, glancing toward the window where laughter echoed from the yard. “Even if it were just the Granidrake materials, I’d have slapped a higher rank on her immediately.”
+
+Syliana raised an eyebrow.
+
+“But,” Ferric continued, wincing, “that would’ve caused… feelings.”
+
+Syl followed his gaze as a distant thump was punctuated by a yelp and applause.
+
+“…Though given the absolute trashing she’s handed to nearly every regular guild member by now,” Ferric added, “those feelings might have been less intense than I feared.”
+
+Syl sighed softly.
+
+“She’s certainly growing.”
+
+Ferric nodded, concern creeping into his smile.
+
+“Aye. And rather fast, too. I hope you know what you’re doing there.”
+
+A confident nod was all he got in return.
+
+Another habit of his old friend and past comrade. Though Ferric had to admit, Syliana’s self-assured confidence and level-headed acceptance of the world made her a reliable ally – and a fearsome foe to have.
+
+A moment of calm passed between them, and then Syl’s expression cooled.
+
+“There is… one more thing. I’ve heard some talk in the Guild. About a ‘supposed’ seaborn Wildling.”
+
+Ferric winced.
+
+Syl stared at him.
+
+Slowly. Accusingly.
+
+“…Ferric.”
+
+He coughed.
+
+“Well, uh– what’d ya know. I just talked about it with little Julia, and then suddenly the whole guild knew. Totally not my intention, honest!”
+
+Syliana was thoroughly unimpressed. And just about ready to tear into him for the mistake.
+
+He barely had the time to gulp, before a blessed interruption appeared from behind them–
+
+“WOOO!”
+
+An adventurer went airborne.
+
+Did one cartwheel.And then another.
+
+Luna landed lightly next to him, clapping.
+
+“Double better!” she declared proudly.
+
+Trianna, watching from the side, winced.
+
+“…Uh oh.”
+
+Luna sniffed… and froze.
+
+Her ears perked up.
+
+She turned her head slowly.
+
+Saw her Second’s expression.
+
+And Ferric's guilty face.
+
+And then–
+
+In but a single Shadow Step… she was there.
+
+Right next to the Guildmaster.
+
+Ferric barely had time to blink before a pair of bright eyes were staring up at him, close enough to count his wrinkles.
+
+“Second mad at you,” Luna said solemnly. “You did bad bad?”
+
+Ferric sputtered.
+
+“I– what– no, now listen here–”
+
+Luna climbed onto his chair.
+
+“Nuh uh! You make Second upset!” she accused, poking his chest with one finger. “That is very bad bad.”
+
+“I didn’t mean–”
+
+Struggling not to laugh, Syliana attempted to intervene. Though Ferric squirming under the barrage of the little wolf girl’s questions was such an… adorable sight.
+
+“It is quite alright, Luna. Guildmaster Ferric here is just really bad at keeping secrets.”
+
+But of course… That didn’t work. And Luna – right after respectfully hearing her Second’s words – renewed her attack with new ammunition.
+
+“You tell secrets?” Luna’s eyes sparkled fiercely. “Secrets not yours to say! You make bad words! You make Second look like– like–”
+
+She paused, struggling to find the words.
+
+“…Like sad elf.”
+
+Ferric raised his hands defensively as laughter exploded around them.
+
+“I was just–”
+
+“BAD BAD!” Luna declared, louder now.
+
+Trianna doubled over in giggles. Ray had to lean against the wall to remain standing. Sepio buried his face in his hands.
+
+Even Julia – the very cause of the issue – was now wheezing.
+
+And Ferric?
+
+Well, Ferric tried to explain himself while fending off Luna’s righteous pokes and some very serious scolding.
+
+“I swear it wasn’t malicious!”
+
+“Uh huh,” Luna said, narrowing her eyes, “but you did it anyway!”
+
+“That’s– uh– fair,” he admitted weakly.
+
+Syl finally stepped in again – perhaps a little later than strictly necessary. But who was she to stop a well-deserved punishment from happening?
+
+And it was just so entertaining to watch too!
+
+She reached out and gently lifted Luna off the man’s back, pulling her into her arms before the Guildmaster could suffer further moral injury.
+
+“That’s enough, Luna,” she said, still smiling. “Thank you, and I appreciate the defense, but I have it handled. It wasn’t all that bad bad.”
+
+Luna blinked.
+
+“…Not bad bad?”
+
+“Not really, no.” Syl confirmed.
+
+Luna considered this. Mulled it over veeery carefully.
+
+Her ears perked up again.
+
+“Not bad bad, but still bad?”
+
+“I– I guess so?” Syl wasn’t sure where Luna was going with this. But if the girl did anything, it was usually for…
+
+“And doing bad means apologies!”
+
+Her eyes sparkled expectantly now, and she looked at the very source of the bad bad.
+
+And Ferric took the lifeline. Awkwardly.
+
+“Uh. Oh, ahem. I’m sorry, that was my bad.”
+
+But Luna just continued staring at him.
+
+Syl looked at Ferric.
+
+Ferric looked at Luna.
+
+At the big, hopeful eyes.
+
+At the wagging tail.
+
+At the expression that looked exactly like a favorite grandchild asking for sweets.
+
+He sighed.
+
+“…I suppose I can sponsor a food run. But only from some food stalls!”
+
+Luna gasped.
+
+Her earlier indignation evaporated completely.
+
+“BEST GUILDMASTER!” she declared, throwing her arms up.
+
+Ferric laughed helplessly.
+
+Some battles, he knew, were unwinnable.

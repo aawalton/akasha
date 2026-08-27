@@ -1,0 +1,143 @@
+---
+id: 96caacea-fe2d-5e58-851c-dc72c682fbf4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1348 - Extinguished Flame"
+slug: 0222-chapter-1348-extinguished-flame
+partOf: the-primal-hunter
+position: 222
+ownLength: 2625
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3644657/chapter-1348-extinguished-flame"
+royalRoadId: "3644657"
+---
+
+The Protean Arrow scattered all remaining energy lingering in the air before impacting the first fire wall summoned by the Archfiend. Unsurprisingly, it was instantly broken through, the arrow not even affected, as the remnant energy from the Arcane Powershot had been more than enough to break through the demon’s first few lines of defense.
+
+It appeared that the Archfiend hadn’t fully planned on his barriers being enough, but instead hoped to buy enough time to teleport away yet again. Jake saw through this, and before the demon could do so, his eyes glowed with Primal Gaze’s activation.
+
+Frozen and unable to mobilize more energy, the Archfiend could do little more than watch as the arrow moved closer. It shattered every barrier in the way, but right before it struck its target, the demon’s final saving skill seemed to activate.
+
+Dozens of fire layers surrounded the demon in an instant, enveloping him like a closing lotus, each of these barriers far more powerful than the ones he’d summoned before. The Protean Arrow impacted this final defense, penetrating into it as the sky exploded in destructive arcane mana and flames a moment later.
+
+Jake was pushed back by the shockwave as the ground many kilometers beneath them cracked and shattered, a massive crater forming around them as the land was torn asunder.
+
+Before the explosion even had time to fully occur, Jake already had another two arrows in flight, having expected the Archfiend to have some kind of near-death defensive skill. He aimed for his Hunter’s Mark, still feeling it present within the storm of destructive energies.
+
+His opponent was far weaker than before, and the follow-up arrows only made matters worse for the B-grade. When the energy finally subsided, Jake saw the absolutely horrid state of his opponent as the demon floated there. Or what was left of him, anyway.
+
+The Archfiend’s body was nearly entirely destroyed, only his head and a few pieces of his torso remaining. He’d temporarily formed a body of flames that was somehow also burning with his inextinguishable flame, and it was clear that he was on his last legs... eh, on his last bit of swirly fire, as his legs were very much gone.
+
+Jake would assume that recovering from a state like this was impossible, but he also didn’t know the full physiology of demons, and while the Archfiend felt incredibly weak, he wasn’t “bleeding out” so to speak. In other words, if left alone for long enough, it was highly probable that he would be able to fully recover.
+
+If he hadn’t set himself, Jake, and the Behemoth on fire, that is.
+
+Speaking of being on fire, Jake would very much prefer not to be, hence he continued his assault, nocking another arrow against the struggling demon. The Archfiend valiantly still tried to fight, but Jake’s arrows were too fast and too strong for him to manage in his current state.
+
+As a final gambit, the Archfiend erupted with flames as he summoned several dozen flame orbs around him. All of them were instantly drawn towards him, colliding with what was left of his body as he teleported towards Jake.
+
+He took an arrow in the eye and another nearly severed his head right before he disappeared, but the demon clearly knew he was done for as he appeared right in front of Jake, his body burning intensely.
+
+For a brief moment, Jake saw the look on the Archfiend’s remaining eye before his danger sense warned him. A flash temporarily blinded Jake as the demon proceeded to blow himself up.
+
+Unfortunately, Jake’s reaction time was too fast, allowing him to teleport back and wrap himself in his wings before the blast reached him. A torrent of flames washed over his body, scorching away his wings, but the Archfiend simply didn’t have enough left in the tank to pose a real danger.
+
+As the flames of the explosion subsided, so did the ones trying to consume his body. With that, he also got a notification, marking that the demon was indeed truly dead.
+
+You have slain [Vermillion Archfiend – lvl 361 / Exalted Champion of the Infernal Globe Devil – lvl 361] – Bonus experience earned for killing an enemy above your level
+
+This was his first proper kill of this system event, as most of the ones he’d faced before hadn’t even been high enough level for him to get experience when slaying them. Honestly, given the experience penalty, the lack of real danger, and the fact that he wasn’t actually killing anyone, he didn’t expect to really see many, if any, levels gained during this event.
+
+That’s why he found the following two notifications very surprising.
+
+’DING!’ Class: [Arcane Hunter of the Boundless Horizon] has reached level 352 - Stat points allocated, +125 Free Points
+
+’DING!’ Race: [Human (B)] has reached level 357 - Stat points allocated, +135 Free Points
+
+It was just one level, but it showed that while there was an experience penalty, it wasn’t impossible to progress. He also noted that the Archfiend had actually been an Enlightened, having a class called Exalted Champion, similar to a class option Jake had in his evolution. That also helped explain the existence of what Jake suspected to be a sacred rarity skill.
+
+There was more to ponder, but Jake still had one more opponent to deal with. He wasn’t in a big rush, though, primarily because she evidently wasn’t either.
+
+“Not a very good ally, huh?” Jake asked, turning around and looking into the sky where the Behemoth was waiting. She had arrived right around the time Jake had hit the Archfiend with his Protean Arrow, and rather than step in and try to help her fighting partner, she’d just stayed back as Jake finished off the demon.
+
+“We weren’t allies, just two people working together temporarily,” she answered in a calm voice, brushing off some of the burnt hair as new ones instantly regrew. “Besides, I doubt I could have done much more than prolong his suffering. Plus, I found that flame of his far more uncomfortable than I’d predicted.”
+
+“Yeah, it was nasty,” Jake acknowledged, also very relieved to have it gone. He hadn’t been exposed to it long, but it had burned through more than a fifth of his total resources, consuming stamina, mana, and health points every second it was on him. Not to mention the soul-rending pain that had been constantly droning on in the back of his mind.
+
+“Well, I guess there’s just one more thing to do,” the Behemoth said, looking down on Jake. “Let’s see if you still have the endurance to keep up.”
+
+Without further warning, she sprang into motion, diving towards him again, faster than before, as the flames and Jake’s attack had done some serious damage, empowering her berserker skill further.
+
+Given her boost, one would expect her to have an advantage, but without the assistance of the Archfiend, she instead found herself faced with a Jake capable of giving her all the attention in the world.
+
+He dodged her starting swipes before counterattacking, no longer afraid to wound her. Jake did two quick stabs before circling around her, and after dodging below a swipe, he had his foot explode with arcane mana, propelling himself downwards as he fired a quick potshot with his bow. The arrow penetrated slightly into her body, still finding it difficult to pierce her defenses. It didn’t go deep enough to leave a serious wound, but it was more than good enough to deliver a healthy dose of poison.
+
+She quickly changed direction, charging for him again, and while she was indeed faster, Jake was more agile and had far faster reaction times. He dodged her attacks with minimal movements, using whatever small gap he got to either counterattack or create distance between them to land another arrow or two.
+
+What’s more, throughout the fight, Jake had spotted one quite crucial weakness. While the Behemoth was fast, she was bad at quickly changing directions while in flight. Should she fail to land a strike, it would take time for her to halt her momentum and pivot. Meanwhile, Jake was incredibly skilled at using his small arcane explosions to propel himself in different directions, not to mention One Step, which allowed him to quickly dodge and force the Behemoth to adapt.
+
+The fight continued, looking more like a predator hunting down her prey than an actual battle, except the prey was the only one landing meaningful attacks, while the predator had to make do with scraps as she only occasionally left a small scratch or grazed her opponent.
+
+Jake remained calm as his opponent grew faster and stronger by the second as damage accumulated, but he wasn’t worried. While being damaged seemed to increase her stats, it also meant she was getting more and more injured, and while her incredible self-regeneration was still keeping up, it had definitely started to slow significantly. The hemotoxin was ravaging through her system, making every Health Point less effective, and every wound took longer and more resources to heal.
+
+To handle her increased power, Jake simply avoided ever directly clashing with her, giving up on counterattacking in melee and only using his bow. He effectively kited her around the sky like a high-health boss, taking full advantage of the innate weakness of a Behemoth.
+
+He did believe she had more trump cards up her sleeve, though, but she appeared hesitant to use them. Jake was also still holding back, though, not wanting to reveal everything either unless he was fully determined to finish her off and destroy her Territory Beacon. Event Horizon was naturally his strongest card, with Moment a close second, as he hadn’t needed to use that yet.
+
+Well, these were his strongest cards, not counting the extremes, like pulling out Primeval Origin Energy.
+
+The fight continued progressing with Jake’s advantage growing, until finally, the Behemoth seemed to call it quits as she stopped attacking and retreated back, definitely looking like she was in a sour mood.
+
+“You’re as consistent as one of those automatons,” she muttered with a sigh. “Don’t you ever slip up? Make a minor mistake that leaves a slight opening? Overcorrect a movement by just a little too much, or fall for, you know, any feint in existence?”
+
+Her question struck at the crux of why she’d continued fighting, even if she’d been on the losing side all throughout. While it was perfectly true that she had been worn down throughout the fight, it was equally true that a single moment could have changed everything if she’d landed just one or two solid blows. That’s why it had been totally worth it for her to keep looking for that opportunity.
+
+Unfortunately for her, she never found it, as she’d encountered Jake. He was as close to perfect as one could be when it came to dodging, and he really wasn’t in the habit to slip up, especially not when dealing with simplistic attacks like those thrown by the Behemoth.
+
+Truthfully, he was a horrible opponent for her. She didn’t have the odd magic or tricks to throw Jake off his game. Her simplistic Path allowed her to stand at the apex of physical might, but it came at the cost of complexity and using less straightforward attacks. Against someone like Jake, who never allowed her to land a solid blow, she simply had no good way to fight back.
+
+“My Path has mostly consisted of fighting beings far more powerful than myself, often of a higher grade. Being hit would often result in death or, at the very least, severe injury. If I were the type to make those kinds of mistakes, I wouldn’t be alive right now,” Jake answered, still trying to decide how to move forward from here.
+
+The Behemoth seemed to notice his look as she spoke.
+
+“A Path worthy of a Primordial’s Chosen. I surrender, acknowledging that this will not end well for me if we keep going, and my best option right now would be retreat,” the Behemoth said. “And while I do not believe I can defeat you, I remain more than confident in escaping from here.”
+
+“Interesting,” Jake said with a big smile. “Because I’m equally confident that you wouldn’t be able to.”
+
+While he didn’t doubt she was a fast flyer and could escape quickly, he didn’t see her escaping the inevitability of Event Horizon. Jake was also still contemplating whether he was willing to let her escape, even if they had a deal, seeing as he was starting to be a bit miffed by her tactics. Making deals with the Archfiend mid-battle to have the demon use a self-sacrifice skill and then not bother helping him in his final moments also rubbed Jake the wrong way, even if he knew she wouldn’t have been able to save the Archfiend.
+
+That made Jake question whether she would be a good Vassal, especially since their relationship wouldn’t exactly be built on stable ground.
+
+At the same time, Jake also recognized that his Territory was severely understaffed. The larger it grew, the more people they needed, and while they could recruit NPCs to make up for their lack of people somewhat, compared to real people, these summoned creatures hadn’t proven that useful yet. Plus, the Behemoth was strong, so if she did become an asset, she would be a very useful one.
+
+“I’m tempted to put that to the test,” the Behemoth said, intrigued by the challenge. “Sadly, the risk is not worth sating my curiosity. Not unless I have no other choice. So tell me, is the agreement off, or are you willing to accept my Territory as a Vassal to yours?”
+
+Jake considered for a moment before ultimately deciding that while there were some risks to making this Behemoth and a part of the United Tribes into his Vassal, the benefits probably outweighed the risks.
+
+“Very well,” Jake nodded stoically, wanting to make it seem as if allowing her to become his Vassal truly was a mercy. “Of course, the details will have to be discussed more closely.”
+
+While Jake was confident enough to accept them as his Vassals, he believed it was wise to involve Miranda in exactly how that would work.
+
+“Great,” the Behemoth said, a hint of relief in her voice, showing that she perhaps wasn’t as confident in escaping from Jake as she pretended to be. And she really shouldn’t be, as even without knowing what kind of skills Jake had, she knew he was a hunter. Hunters weren’t known to let their prey escape.
+
+“I’ll have a confidant handle the details,” Jake said, mentally trying to reach out toward Miranda to trigger her special Jake-communication skill.
+
+At the same time, the Behemoth showed she truly was done fighting as she did something Jake hadn’t expected to see. Many monsters and beasts, like Sylphie, never made a humanoid form, as they didn’t see a need to. Seeing as the Behemoth could change her size anyway, he assumed her to not have one either, which was why he was taken aback when she suddenly transformed.
+
+Her fur disappeared and was replaced with human skin, and not long after, a roughly two meters twenty tall amazoness-looking woman appeared, wearing what looked like a sports bra and shorts, her frame full of muscles, making it look like she could also fight in this form.
+
+Right before Jake could say anything more, she spoke up first.
+
+“While I’m flattered, I’m not interested in mating with you,” she said in a curt voice, noticing him looking at her.
+
+“I wasn’t-“
+
+“Also, I’m already married-“
+
+“Don’t mis-“
+
+“Happily.”
+
+“That’s-“
+
+“To a woman.”

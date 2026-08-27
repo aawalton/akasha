@@ -1,0 +1,203 @@
+---
+id: 181d374a-4c47-58e8-8919-acae5f2617ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1192 - Minaga the Messenger"
+slug: 0064-chapter-1192-minaga-the-messenger
+partOf: the-primal-hunter
+position: 64
+ownLength: 2854
+unit: words
+ownProgress: 2854
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2720197/chapter-1192-minaga-the-messenger"
+royalRoadId: "2720197"
+markedReadAt: "2026-06-29T19:31:17.784Z"
+---
+
+Even after the Seeker and Jasper were gone, Minaga stuck around a bit longer to shoot the shit and chat casually. Nature’s Attendant didn’t stay long, though, but just reminded Minaga of something he’d promised to assist with before teleporting away.
+
+With just Jake, Artemis, and Minaga, things were back to not being that tense anymore. Well, alright, from Jake’s point of view, the situation had never really felt tense, but Artemis sure as hell didn’t agree with that assessment, as she wasn’t that comfortable being in the presence of several pinnacle gods.
+
+Minaga didn’t end up staying that long in the grand scheme of things, but before he left, they had one final exchange:
+
+“Do remember to stop by the super dungeon I’m making back on your little planet, alright? I won’t say more than that, but just remember not to leave the poor dungeon architect all alone,” Minaga said in a sad tone.
+
+“Alright,” Jake acknowledged as he also asked the god a favor in return. “I do plan on leaving the Pantheon of Life soon, so could you do me a solid and inform Sylphie and the Sword Saint? Also, maybe ask Duskleaf if he wants to stop by or have me come by before I leave, but honestly, if he says no, it’s all good.”
+
+“Sure thing, let’s call it me paying you back for messing with the Seeker’s dice of true randomness,” Minaga grinned.
+
+“Actually, I’ve been wondering, what’s his name? I know his divine title is the Seeker, but what is his actual name?” Jake asked the Unique Lifeform god.
+
+“Oh, yeah, I guess you don’t know,” Minaga nodded thoughtfully. “Makes sense. I have no idea either. Maybe ask the Malefic Viper; if anyone knows, it’s probably him.”
+
+“I see,” Jake muttered as he mentally reached out and instantly got an answer.
+
+“The Seeker has introduced himself to me using a total of two thousand thirty-five names through the eras, somehow never reusing the same name twice, making me question if he’s doing it on purpose or just has such a huge repertoire of names available he’s never managed to say the same twice on accident,” Villy said. “So when it comes to his real name, I also don’t know. The fact he’s so secretive makes me wonder if he’s hiding it on purpose, perhaps to avoid karmic detection or something like that. Of course, it’s also entirely possible he never had a real name. As far as I know, someone like Eversmile didn’t, being a shapeshifter and all.”
+
+Jake sent a quick mental acknowledgment as he shrugged. “The Viper doesn’t know either.”
+
+“Wow, just shamelessly tearing down my reputation as a snake who’s good at knowing things,” Villy complained in a clearly joking tone.
+
+“Really?” Minaga exclaimed with surprise. “I guess no one actually knows his real name. That’s kind of funny in a weird way.”
+
+“I don’t see the humor,” Jake muttered.
+
+“That’s why I said it was funny in a weird way,” Minaga shook his head. “If everyone else found it funny, why would I say it was funny in a weird way?”
+
+“Right, my mistake,” Jake muttered.
+
+“You’re forgiven,” Minaga smiled. “Alas, I guess I should go help Nature’s Attendant and Duskleaf again... those two are always up to something. To make matters worse, they asked me not to tell anyone what they were working on, so I can’t even tell you. Not unless you really want me to tell you, in which case maybe another version of me could accidentally let slip a little.”
+
+“I’m good, see you later,” Jake said casually, genuinely not caring that much about the project those two gods were in the midst of. He reckoned that if it took the efforts of two gods of their level, it was way too complicated for Jake to understand the nitty-gritty of anything, and just hearing the basic details wasn’t any fun. All it would do was burden him with non-actionable knowledge, and Jake already had enough of that floating around in his head.
+
+“Spoilsport,” Minaga muttered before shrugging and smiling. “Your loss. See you two later!”
+
+With those words, Minaga teleported away... only to appear in the garden in front of the Forest King. The two had an exchange that lasted just shy of five seconds before Minaga teleported away again, the King shaking his head before he returned to meditating.
+
+Now that everyone was gone, the huge palace really felt empty as Jake looked at Artemis. “Is it just me, or are most of the gods standing at the pinnacle some real characters?”
+
+“Being normal is rarely a merit when it comes to obtaining power,” Artemis shrugged. “Quite the opposite. To be a god in the first place is to become an abnormal existence, so I guess it isn’t that weird that many of the strongest gods are more abnormal than usual.”
+
+“I guess,” Jake sighed as he looked at the ceiling. Only now, after all the excitement died down, did he feel a sense of tiredness wash over him again as Jake was reminded that just before the Seeker popped in for a visit, he had been planning on resting after doing archery practice.
+
+“You should recover both physically and mentally,” Artemis said with a smile. “After that, I believe you had a Hunting Ground to visit. I’ll help you get there when you feel ready.”
+
+“Seeing as I just asked Minaga to go ask the others to return here, I reckon I won’t have that long of a hunting trip ahead,” Jake said, not regretting his decision even if it could cut his hunt short. “So it would be nice if you could inform me once they’re all back here and also want to return.”
+
+“Of course,” Artemis agreed.
+
+Jake smiled as he stood up and stretched. “I think I’ll go have a lie-down... care to join me?”
+
+“Tempting, but you need to recover,” Artemis said in an admonishing tone.
+
+“Just for cuddles,” Jake clarified.
+
+Artemis raised an eyebrow of skepticism.
+
+“I’ll let you be the big spoon.”
+
+“Alright, deal,” Artemis relented, Jake having successfully upgraded his nap as the two went to one of the adjacent bedrooms and had a little snooze.
+
+--
+
+The whirlwind of blades cut relentlessly as the elven warrior continued building momentum with every strike, an odd blue wind building up all around him, shadowing his movements and infusing his two long, thin, curved swords with additional power and speed.
+
+Yet, despite the extreme assault, the elf’s opponent flawlessly blocked over blow as the clanging of blades echoed throughout the grassland. The elf’s two swords were faster, but the human, wielding only a single blade, perfectly moved his sword and body to either block or evade every swing with minimal movements.
+
+Realizing he was not winning with his current strategy, the elf retreated to change things up as he switched to focus more on power over speed, making the magical wind surrounding him turn from a blue to a red aura.
+
+However, just as the switch began, with one of the blades red and the other blue, the human swordsman suddenly released a burst of energy and went on the offensive. The elf was taken by surprise when his opponent closed the distance in an instant and tried to block, but his energies had yet to stabilize, making him both too slow and weak.
+
+It was a very small opening, one most would call too insignificant to exploit, yet the human swordsman had perfectly identified it and struck without hesitation. His blade stabbed through the chest of the elf who tried to counter, but the human quickly spun, cutting from the chest and out through the bottom of the elf’s stomach region as he swiftly retreated back.
+
+Two large blasts of red wind energy followed the swordsman, but he summoned a screen of water that deflected the cutting winds long enough for him to create sufficient distance.
+
+“Do you wish to continue?” the human swordsman said in a respectful tone.
+
+Opposite him, the elf smiled as the wind energy around him turned green and full of life energy as his wound healed rapidly. “We’ve barely gotten started.”
+
+The human, better known as the Sword Saint, also smiled as he took an offensive stance. “Then allow me to be impolite.”
+
+“What would be considered impolite is you acting overly respectfully,” the elf shook his head, the wind around him changing color again as he also took an offensive stance.
+
+Deciding to be polite through showing impoliteness, the Sword Saint shot forward, water energy forming droplets around him, ready to spring into action at a moment’s notice.
+
+The elf responded as the wind energy around him warped once more, taking on a brown color as the elven swordsman swung his blade upwards, the land itself rising at his command as the grasslands were terraformed in an instant.
+
+With a swing, the Sword Saint cut apart the ascending mountain to reveal the elf charging at him through the debris. Their blades clashed as the Miyamoto was pushed back towards the ground, the elf following as they exchanged dozens of blows during their descent.
+
+After creating minimal distance, the elf raised one of his swords, a bright pure wind energy enveloping it, before he brought it down. A massive blast of wind descended from above like a hammer from the heavens, making the Sword Saint get pushed into the ground as a large crater formed all around him.
+
+His knees buckled from the sheer pressure, but he still managed to barely block when the elf attacked during it all with a blade enveloped in red wind. The impact sent the Sword Saint sliding back as it was his time to purposefully create some distance.
+
+This brief respite was all the Sword Saint needed to fully stabilize, and when the elf was once more upon him, he was ready. He deflected two blows before landing a counter, blood spewing from the arm of the elf as he pivoted and tried to at least do some damage in return.
+
+Dodging under the blade, the Sword Saint tried to land a light stab but found his blade deflected before a whirlwind of cuts swept over him, forcing the old man to use the droplets to form defensive barriers to avoid taking damage.
+
+Both deployed more magic as they charged toward one another, the pace accelerating as the two master swordsmen fought with nearly everything they had – bar some obvious limitations, as this wasn’t a fight to the death.
+
+The fight continued as the two of them tore up the innocent grasslands of a mostly deserted planet, their swords clashing thousands of times before a winner was eventually decided.
+
+From one side, the Sword Saint charged, his stance already taken as he prepared to draw. Coming straight at him was the elf running with both swords behind him, as incredible momentum built and rainbow-colored winds enveloped both his curved blades.
+
+Both were fully ready as they clashed, the Sword Saint drawing as the elf swung his two blades forwards.
+
+“Glimpse of Spring: Stormcut.”
+
+“Windsong Blade: Crosscut.”
+
+The loud sound of metal meeting was washed out by the massive wave of energy released from their clash, as on one side, a massive fissure was carved into the ground, while on the other, two smaller diverging fissures stretched into the horizon.
+
+As the dust cleared, the elf was revealed first, breathing heavily as a deep wound went from his right shoulder all the way down to his thigh, bleeding profusely due to how deep it was. The surrounding wind had also turned green, but even so, the cut was barely showing signs of healing due to the Transcendent energies lingering within.
+
+“You’re strong... unbelievably so. If we had been the same level, it would have been your unquestionable victory,” the elf said through labored breathing as he turned to look at the Sword Saint.
+
+Miyamoto was down on one knee, bracing himself on his sword as a massive, cross-shaped laceration went across his chest, blood dripping down on the ground in buckets from the lethal-looking attack.
+
+“Yet today I lost,” the Sword Saint coughed as he took out a healing potion and quickly drank it as he turned toward the elf, cupping his hands while holding his sword. “Thank you for the battle.”
+
+“It was my pleasure,” the elf said respectfully. “It’s not often I get to fight swordsmen superior to myself, especially not one who’s lower level than myself.”
+
+“You’re being too generous,” the Sword Saint chuckled. “Our Paths of swordsmanship clearly differ, and even I can acknowledge that a dual-wielding style is inherently more difficult to master compared to only using one weapon.”
+
+“Don’t sell yourself short. All Paths are endless, and even if one may be harder to reach initial mastery with, that doesn’t make it harder when climbing toward the top. I would be a fool if I dared blame my own Path for my shortcomings,” the elf shook his head as he walked over to the Sword Saint.
+
+In the middle of the ruined landscape, he summoned two comfortable chairs that were even enchanted to speed up recovery and offered Miyamoto to sit in one, which he gladly did.
+
+To so casually take out two legendary pieces of furniture was definitely impressive, not that the Sword Saint should be surprised, considering who he was dealing with.
+
+[Elf – lvl 332 – True Blessing of the Windsinger Gustblade]
+
+He was one of the few C-grade Chosen in the Pantheon of Life, blessed by one of the middling gods of the Pantheon. Of course, for any C-grade to become a Chosen, they had to be truly impressive, something the elf definitely was.
+
+For the Sword Saint to fight such an opponent was truly a fortuitous endeavor, a sentiment the other swordsman shared as they began to discuss the art of the blade to learn from one another while recovering, after which they could perhaps have another duel.
+
+However, after barely ten minutes of rejuvenation, they were disturbed.
+
+Appearing out of thin air, a familiar blue creature suddenly just stood there, exuding the aura of an S-grade.
+
+“Hi.”
+
+The Chosen was taken aback and looked ready to leap into action as he realized who had come. Without any hesitation, and ignoring his still-healing wound, he kneeled down.
+
+“I greet the All-God Legion.”
+
+Minaga looked at him for a moment. “Thanks, pal, but I’m not here for you.”
+
+Turning toward the Sword Saint, who was still sitting down in the chair, Minaga cleared his throat. “A common friend of ours asked me to inform you that the Chosen of the Malefic Viper plans to soon depart from the Pantheon of Life’s territory, and if you wish to return alongside him, you should go to his place within not too long. You’re not in a super rush, but don’t dally either.”
+
+“So Jake made you a messenger, eh?” the Sword Saint chuckled.
+
+“What? No, Jake didn’t ask me to do anything,” Minaga said, shaking his head. “I was asked by Minaga.”
+
+“Oh, really?” the old man smiled.
+
+“Yep,” Minaga nodded before looking back and forth as if to make sure no one else was listening in. Once the coast was clear – ignoring the confused kneeling Chosen – the Unique Lifeform leaned in.
+
+“But... hey... just between you and me, I’m pretty sure Jake was the one who asked Minaga to tell you, making Minaga just outsource the task to me afterward.”
+
+“How dastardly of him,” Miyamoto shook his head.
+
+“Really was,” Minaga agreed wholeheartedly. “Oh well, task accomplished, see you around.”
+
+“See you.”
+
+Without further ado, Minaga was gone as quickly as he’d come. A few seconds passed before the kneeling elf stood back up, looking confused at the Sword Saint.
+
+“You are aware that was the All-God Legion, right?” he asked.
+
+“I’m well aware of who he is,” Miyamoto chuckled as he leaned back in the chair.
+
+“My Patron warned me to be incredibly cautious around him,” the elf said in a serious tone. “He may seem jovial and joking on the surface, but he’s one of the most dangerous entities in the entire universe, and making him an enemy would be a great way to cut your Path short.”
+
+“Sure, theoretically, but in my eyes, Minaga is just Minaga,” the Sword Saint shook his head. “For better or worse.”
+
+“I heard that,” a booming voice echoed through the ruined grasslands as the presence of Minaga enveloped both C-grades, making the elf look up toward the sky with fright.
+
+“It was meant as an endearing statement!” the Sword Saint yelled at the clouds.
+
+“Fair enough, sorry for the interruption.”
+
+Minaga’s presence disappeared as fast as it had come, making the Sword Saint chuckle and shake his head again.
+
+“As I said... Minaga is Minaga,” Miyamoto said, having chosen long ago not to overthink the Unique Lifeform. Sure, logically, he knew the elf was entirely correct, but sometimes it was best just to follow Jake’s creed of not overcomplicating things.

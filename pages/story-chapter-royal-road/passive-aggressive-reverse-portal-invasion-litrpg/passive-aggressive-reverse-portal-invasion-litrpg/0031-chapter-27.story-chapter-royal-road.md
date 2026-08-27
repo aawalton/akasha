@@ -1,0 +1,207 @@
+---
+id: 2dd50314-2723-5e5f-b9f9-d2c6ad299192
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27"
+slug: 0031-chapter-27
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 31
+ownLength: 2354
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3546757/chapter-27"
+royalRoadId: "3546757"
+---
+
+I danced with death. Death, in this case, was ugly, sporting the general shape of a slinky bus and the personality of a parking officer. It was also extremely outmatched, and too stupid to realize it.
+
+With a glance behind me, I took heed of the two webbed lines behind me and adjusted my bearing accordingly. As the millipede blundered forward next, two limbs reaching for my skin, instead of stepping back, I moved forward. My body moved of its own accord, twisting to avoid one limb, even as my shield rose to meet the other.
+
+The millipede’s limbs were long and thin. They were also partially hollow, with some sort of channel allowing it to transmit the poison to its victims. Unfortunately for the butt-ugly monster, that also turned the limbs extremely fragile.
+
+The shield met the leg at an angle. With a moment’s thought, I activated Deflect and laughed as the limb bounced off at a ridiculous speed and downright unhealthy angle. A second later, it dangled precariously, broken near what made it out for a knee joint.
+
+It screeched and renewed its efforts to poison me. I smirked and stood tall, shield ready to take it on.
+
+The limb came in low and swift. I raised my foot, even as I lowered the bottom of the shield to the ground, putting my weight on it to make sure it wasn’t knocked back.
+
+The millipede’s leg struck the shield’s surface with a hard thud. For a monster with no actual facial features, it sure did a good job at showing confusion. Well, for the half a second before my Wave of Reflection hammered right into its vulnerable lower body.
+
+I pushed forward and turned, abusing the monster being momentary stun-locked to reposition myself. Then I used Identify and grinned as I saw the results.
+
+Vicious Millipede
+
+Level 13
+
+Health: 98/430
+
+Further information locked
+
+Finally. Using the skill on every damn Millipede I’d encountered over the past couple of days had allowed me to raise my Identify skill to thirteen. And, apparently, once the level of Identify matched the level of the target, it allowed you to see their health. The fact that there’d be even more to discern with a higher skill level just made me happier.
+
+It also allowed me to conclude beyond a doubt that this Millipede was ripe for harvesting. I considered my situation for a second, then nodded to myself. Time to seal the deal.
+
+As the beast stumbled forward unsteadily, hampered by a total of four broken or disjointed legs, another limb shot forward, glistening with poison.
+
+This time, instead of letting the leg hit my shield, I estimated the distance, took a half-step back and grimaced. This part was the worst.
+
+The limb struck the meaty part of my upper right arm. A hot, burning sensation immediately entered my veins. I didn’t need to see the notification to know that I’d been poisoned.
+
+The next attack was steadier, fast and sneaky. One limb carved in from the left, even as another surreptitiously snaked in from the right, trying to take me by surprise.
+
+I nearly laughed. A swift step to the right took me out of reach of the sneaky swipe and into range of the harder strike. My shield rocked with the impact, but didn’t budge.
+
+A second later, the Millipede was dead from my Wave of Reflection, and I sank back on my haunches as I waited for the next tick of poison to kick in. I grunted in pain as it hit and sniffed.
+
+Health: 582/710
+
+Really now? That had been the third tic, and it took me for less than ten health a piece? That was the weakest of the lot I’d clashed with so far. That, or my Poison Resistance was growing too effective. Judging from the number of times I’d been poisoned so far, this instance would cost me less than a hundred health total before it petered out. Less, of course, if I decided to activate Internal Scourge, but that wasn’t the point here.
+
+I was on my second day of Millipede hunting. I was running out of grilled meat again, but I had enough steaks stashed in my Personal Universe to last me at least a week, once I’d prepared them. Looked like tomorrow was going to be a barbecue day.
+
+Defeating the monsters, it turned out, had been the easy part. Locating them in the first place had been much, much harder. They definitely didn’t advertise their presence, outside of the subtle glinting of their webbing. Yet, even if the beasts turned out to be territorial, helpfully making sure I never stumbled into more than one millipede in each area, they also had some sort of colonial mentality going on.
+
+It was like… kids moving away from their parents, only to find a place farther down the street. Kinda sad, really.
+
+Every time I took down one of the ugly beasts, I was able to tour their respective areas and, in the distance spot hints of webbing from my next target. On the three occasions where I couldn’t see anything, I assumed it was because I’d managed to find the edge of their collective area. In those cases, I backtracked and, eventually, found another area to attack.
+
+At this point, however, I was running out of targets. I’d circled my current area before attacking and found nothing. My mental map, spotty though it may be, granted that I likely had toured the entirety of an area the size of several square kilometres. As far as I knew, I’d made it the entire way around. I also included a trip to the centre of the area, where gaming logic would likely see some sort of big-ass Millipede boss ready for my ass – only, there was nothing at all. So much for area bosses.
+
+My bug hunt had paid off, in spades. I’d located and killed a total of fourteen of the monsters. Along the way, I’d perfected my approach and defenses. This allowed my Life Steal to keep me close to full health, without reaching full, because I wanted Self-Heal to keep increasing. It also allowed me to take the occasional hit on purpose to raise my Resilience and Poison Resistance, without ever being in danger.
+
+The days of battle carried me all the way to Level 15. That gave me a grand total of three available attribute points and talent points to play with.
+
+Now, I ignored the poison coursing through my veins and located a place where I’d be able to be well hidden while I picked my options. A few minutes later, I sat with my back against a sun-warmed rock, downing a mouthful of luke-warm water as I watched what I’d already picked and what was available to me.
+
+Talents:
+
+Tier 1:
+
+Improved Defense 5/5
+
+Tier 3:
+
+Life Steal 2/5
+
+Tier 4:
+
+Deflect 2/5
+
+Wheel of Magic 1/5
+
+Tier 5:
+
+Internal Scourge 1/5
+
+Personal Universe 1/1
+
+Wave of Reflection 5/5
+
+All told, my current choices weren’t too shabby. As long as I had a shield and wasn’t blindsided, I’d take my odds against anything that wasn’t a dragon. The real issue here – outside of my shield and armor eventually falling apart, of course, was that this didn’t give me any real options against ranged attackers attacking from farther away than maybe ten to twenty meters. It also left me virtually defenseless against attackers who didn’t cause proper damaging attacks. A pro wrestler could take me down, and I wouldn’t be able to lift a finger against him, right up until he cracked my neck. So, those two were the areas I really needed to focus on.
+
+I decided to run through the tiers available to me again, just to make sure I didn’t miss anything.
+
+Tier 1
+
+Dodge
+
+Hardiness
+
+Improved Stamina
+
+Taunt
+
+Yeah. This was the glory of having a high-level quirk. I was able to avoid wasting my points on useless talents. Sure, having a high Dodge would be nice, but I was never going to be all about that speed anyway. Besides that one, Taunt was off-limits, deemed ‘offensive’ by my quirk, and I had more than enough stamina and health. Next.
+
+Tier 2
+
+Slow Missiles
+
+Improved Defense 5/5
+
+Improved Leap
+
+Improved Resistances
+
+Shield Bash
+
+Tier 2 was… a bit more intriguing. Shield Bash, of course, was a no-go, I’d already maxed out Improved Defense, and Improved Leap was about as useless as they came. Yes, Slow Missiles might be truly useful in the right situation, and Improved Resistances could become powerful later on. Yet, were they essential to my survival? So far, my money was on no.
+
+Tier 3
+
+Burgeoning Aggression
+
+Improved Run Speed (3)
+
+Life Steal 2/5
+
+Life Steal was just lovely. While Self-Heal would keep my health increasing faster and faster, Life Steal ensured that, as long as I wasn’t overpowered or badly hurt, I could fight for a good long while.
+
+Improved Run Speed did sound useful. I didn’t need it right this moment, but eventually I was going to get it.
+
+Finally, Burgeoning Aggression could be a gamechanger, if I understood it correctly. I investigated the wording again.
+
+Burgeoning Aggression
+
+Passive Talent. This AoE debuff affects all enemies in range, slowly ramping up any aggression already there until hostiles all focus on you and attack you in melee.
+
+Cost: 5 stamina per minute.
+
+Maximum duration: 20 minutes
+
+5 points to unlock.
+
+I groaned. Yes. Being able to, essentially, force any surrounding enemies to attack blindly, would be insanely useful. Archers, Mages and their ilk would eventually be forced to drop all their distance attacks and meet me face to face. I needed it, like, yesterday. I also needed two more points to pick it.
+
+Tier 4
+
+Burst of Power
+
+Deflect 2/5
+
+Dome of Pain
+
+Moment of Grace
+
+Wheel of Magic 1/5
+
+Burst of Power was slowly starting to feel underpowered. Why boost my attributes for a while, when I couldn’t even use those attributes for anything but avoidance and added health?
+
+Deflect had turned out to be extremely useful. Up close and personal, it gave me an impact I otherwise wouldn’t have. Maxing that one would cause some serious damage to any physical attackers and let me sow absolute chaos in close range. Yet, those were already the fights I handled the best.
+
+Dome of Pain, as other offensive skills, was out of question. Moment of Grace, cancelling any damage and restoring thirty percent health... I groaned, then mentally removed it to the ‘nope’ category. If I managed to lose seven hundred health, I’d already screwed up. Wheel of Magic still promised to be a great ranged addition for me, but I would need to invest more points into it.
+
+Tier 5
+
+Internal Scourge 1/5
+
+Personal Universe 1/1
+
+Shield of the Elements
+
+Wave of Reflection 5/5
+
+Internal Scourge was lovely. Yet, with my monstrous Fortitude, I wasn’t planning on dumping more points into it. Hell, I was poisoned right now and didn’t even have it activated.
+
+Shield of Elements was offensive, hence, off the plate. Frustrating, because from the description, it sounded awesome.
+
+I loved both my Personal Universe and my Wave of Reflection. No more comments there.
+
+It hurt. The decision hurt me deep in my bones. Even so, it was the right thing to do. Right this moment, I’d be able to nearly max out both Life Steal and Deflect. That would allow me to walk straight into the centre of a battlefield and be likely to walk back out, still breathing. Except, it would still leave me with no proper options against an Agility-based archer, a fast Mage or, say, a slime creature. No. I needed to earn myself two additional levels. With those under my belt, I’d be able to pick Burgeoning Aggression and then I could shore up on the others afterward.
+
+I grunted and went for the consolation price. At least, I’d be able to spend my attribute points with a clean conscience. The question there was simple: Did I want to go even further down the route of maxing out Fortitude? Or should I work on shoring up a few of my weaknesses?
+
+There was something to be said for going all-in. It was what had taken me this far, and with Improved Defense and my positive quirk, every point to Fortitude multiplied my health and stamina several times over.
+
+Again, however, this wasn’t about what I’d do in the situations where I landed in my optimal match-up, but rather, about the unfortunate situations where my rock met the opponent’s paper.
+
+My Agility was decent. I’d never match scouts or other speed-based Fighters. But I was fast enough to dodge well.
+
+My Strength? Acceptable. I honestly wanted to put in a few points, especially given the embarrassing debacle of being trapped underneath the Millipede.
+
+Dexterity and Mental Power? Who cared? I wasn’t going to crochet any throw pillows, and I didn’t have any talents that needed mana or magical firepower at this moment.
+
+Perception at 11 and Mental Control at 9, however. Those were the real contestants. Perception had showed its use multiple times already, especially with the situations where I failed to spot something that could’ve saved me from trouble. Mental Control, meanwhile, was practically blinking red with future implications, of hostile powers that affected the mind and mental strength of a person.
+
+I had no clue if there was something to it, though. That might just be Earth’s plethora of media inflating the likelihood of supervillains with mind-affecting powers. The U-Nerds definitely hadn’t bragged of any Mages who were able to affect the minds of enemies. I might end up wasting all my points on something that wasn’t even a likely threat.
+
+Gritting my teeth, I came to a conclusion and placed a single point in Strength and two in Perception. With that done, I moved on as I checked out my skill development, on the prowl for further enemies, for the two talent points that would allow me to adjust the battlefield to my advantage.

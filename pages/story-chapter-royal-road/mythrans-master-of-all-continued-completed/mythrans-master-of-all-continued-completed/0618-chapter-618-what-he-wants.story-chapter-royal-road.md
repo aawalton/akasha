@@ -1,0 +1,225 @@
+---
+id: 6f0f7cba-a96c-5b8c-8ac4-216a100342b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 618 - What He Wants"
+slug: 0618-chapter-618-what-he-wants
+partOf: mythrans-master-of-all-continued-completed
+position: 618
+ownLength: 2439
+unit: words
+publishedAt: 2018-06-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/227251/chapter-618-what-he-wants"
+royalRoadId: "227251"
+---
+
+Ren and Denise finished their shared shower, and she brought him out of the bathroom and over to the closet to get him dressed.
+
+“That's a couple of these that have been ruined now.” Ren said as Denise dressed him in the green pyjama set. “We need to go to the store and get a few more of them.”
+
+“If you would stop doing things that ruin them, you wouldn't have to worry about replacing them.” Denise said and laid him down on the bed.
+
+“Hey, it's not my fault you want to keep tearing my clothes off.” Ren said and smiled. “No, wait! Actually it is. Never mind.”
+
+Denise chuckled. “You're pretty confident, aren't you?”
+
+Ren held a hand out and she took it. “I joke about it; but, you need to know how much it means to me that you're here taking care of me.” He said. “After what happened with Gloria, I...” He took a breath and winced, then smiled. “You let me be with you, even in this state.”
+
+“I can say the same thing.” Denise gave his hand a squeeze. “I didn't think you had it in you to do something like that so soon.” She said. “I'm going to use the phone so I can ask Stella to start making lunch, even though it's supposed to be my job.”
+
+“Lunch!” Ren exclaimed and let her hand go. “We were out of the house and I completely forgot to get Elise to stop at Amazon Jim's!”
+
+Denise laughed. “You couldn't sit there and enjoy it, so I don't think she would have taken you there.” She said. “Not yet, anyway.”
+
+“Well, damn.” Ren said sadly.
+
+“I'll ask Stella and see if she can make fries and gravy for you.”
+
+“No, that's okay.” Ren said. “I can wait until after the next time you make a roast.”
+
+“Oh? You liked my beef gravy that much?” Denise asked.
+
+“It was great!” Ren licked his lips and sighed happily as he remembered the last time she made gravy fries for him. “It was just the right consistency and temperature, and it kept the fries hot enough that I could take my time with them and enjoy it even more.”
+
+Denise smiled. “How about I make it for supper?”
+
+“Really? You'd do that for me?” Ren asked
+
+“Ren.” Denise leaned over him and gave him a long and lingering kiss. “I will do anything you want.” She said in a slightly deeper voice, and Ren blinked his eyes as he looked up at her. Her short blonde hair had dried into natural waves, and the look on her face told him that she really would do anything he asked of her. He slowly reached up, so he wouldn't put too much strain on his chest muscles, and ran his fingers through her hair.
+
+“So pretty.” Ren whispered, and Denise blushed. He moved his hand down from her head to her neck, then gripped the zipper of her top.
+
+“Ren...”
+
+“I need to see them again.” Ren said and slowly pulled the zipper down.
+
+“But, you just...” Denise braced her arms on the bed as he opened her top to reveal the support bra he had bought her at the custom clothing shop called Jacques.
+
+“You're still sexy wearing normal underwear, Denise.” Ren said and used a thumb and forefinger to flick the front clasp. The bra popped open and her breasts hung down. “Good god, look at them.”
+
+Denise heard the wonder in his voice and looked down at herself. All she saw was her own boobs and didn't understand what was so great about them. Ren reached out and carefully caressed them, and she closed her eyes to revel in the sensations. He gave her a little massage for several moments, and heard her breath quicken slightly as the tips of her breasts pressed into his palms.
+
+Ren smiled and let her breasts go, then grabbed the ends of the open bra and pulled it back into place. With her leaning over, her breasts fell into the cups of the bra easily, and he hooked the clasp to secure them back in place.
+
+“Thank you.” Ren said and she opened her eyes to look at him.
+
+“Why did you stop?” Denise asked before she could stop herself, and her face flushed to a deeper red.
+
+“I'm not up to doing much more than that right now.” Ren said and glanced down at himself.
+
+Denise looked as well and saw that he wasn't excited. “That doesn't matter.” She said. “That's not why I...”
+
+“Not why you what?” Ren asked and raised a single eyebrow at her.
+
+Denise closed her eyes so she wouldn't gush over how cute he looked like that. “Iloveyou.” She said in a rush, like it was just one word.
+
+“What was that?” Ren asked and touched her face.
+
+“I love you.” Denise opened her eyes and looked at him. “I love you.”
+
+“I love you, too.” Ren said, and Denise saw the sincerity on his face. She leaned down and gave him a gentle kiss, then stood up straight.
+
+“I need to clean up the mess.”
+
+“Call Stella first.” Ren said. “I'm not really hungry, but I need to eat.”
+
+Denise nodded and picked up the phone. After several attempts to call different rooms, she reached Stella up on the third floor in Lisa's room. Stella agreed to make lunch for everyone if Denise agreed to make it the next day. Denise agreed and hung up the phone, then went to work cleaning up the mess she and the EMTs had left in the room.
+
+Denise wiped down and packed up the portable crash cart and returned it to it's place in the closet, then tackled all the little bits and pieces of wrappers and things from the sticky pads, needle, gauze, and wipes.
+
+People don't realize how much of a mess that can be until you have to clean it up. Denise thought, and didn't notice that Ren had watched her the entire time. The phone rang and she went to the night stand and picked it up.
+
+“Hi, Stella. Yes. I just finished cleaning the stuff off the floor.” Denise said and looked at the table. “No, there's nothing on it. Okay. See you in a few minutes.” She said and hung up. “Lunch is ready.”
+
+“So am I.” Ren said and grinned.
+
+Denise looked at his excitement and was about to shake her head, then walked over to the bed instead. “I think someone needs a quick bathroom break.”
+
+“Yes, please.” Ren said, and she helped him out of the bed.
+
+“What did it this time?” Denise asked as she took him to the bathroom.
+
+“Watching you work so diligently.”
+
+“Yeah, right.” Denise said and sat him down on the toilet. “You were staring at my ass the whole time, weren't you?”
+
+“Not the whole time.” Ren said and gave her a big grin and looked really guilty.
+
+“You are such a terrible liar.” Denise chuckled as she shut and locked the bathroom door.
+
+*
+
+“So, is this it?” Edward asked the temporary head programmer. “Will this fix all the problems?”
+
+“All of them? No.” Francis said. “Thanks to your instructions to exclude the call functions of all the NPCs that don't have some kind of direct connection to quests, and then to only include their information gathering queries from the surrounding NPCs and not all of the NPCs, we were able to effectively cut out nearly 80% of the load from the update.”
+
+“Good, good.” Edward said. “What about the specific ones I mentioned?”
+
+“I checked on that, and they should be fine... as long as no quest is gained or accessed in their vicinity.” Francis said. “If an active Sea Dweller quest is brought near them, they will have no choice but to access the update to see what they 'know' about it.”
+
+“Hmm. I guess that will have to do for now.” Edward said. “I assume you...”
+
+“...are working to get the update repaired to function properly?” Francis asked, and Edward nodded. “Max was right about how long it will take, even with the whole department working on it.” Francis said. “It's going to take at least a week or more before we can implement a full patch to change everything, which is about a month or so game time.”
+
+“That's fine, as long as it gets done.” Edward said, and looked at the game progression data he had asked for. “I see you've made some headway in getting the Dwarven Kingdom expansion open to new players.”
+
+Francis smiled. “I knew you would catch that.”
+
+“That's good work.” Edward commended him. “With just a few more tweaks to the code, we can expect it to take only another month, instead of the full time the NPCs had initiated.” He said. “You've even relaxed the governing policies in regards to their culture.”
+
+“It is good work; but, we didn't do it.” Francis admitted.
+
+“Excuse me?”
+
+“Look at the times the changes were implemented.” Francis said.
+
+Edward looked at the time scale on the side, with the corresponding changes. “They are all at night.”
+
+“That's right.” Francis said. “They are all internal code manipulations and not things we added.”
+
+“But...” Edward thought about what could have happened, and he couldn't see it. “Do you know how it was done?”
+
+“Yes.” Francis said. “Play file F451.”
+
+Edward queued up the file and hit play.
+
+**
+
+Onscreen Ren handed a stack of papers to each of his maids.
+
+“It's going to take a long time to file all of these.” One of the dwarf women said.
+
+“I know, and I'll watch you the whole time.” Onscreen Ren said and held up an 8 inch rectangular mirror, then handed her a wand and told her how to use it. He created a portal and the women disappeared.
+
+The video jumped and showed the 5 dwarf women as they each put a stack of papers on the clerk's desk in the Hall of Records, then it showed her filing them all.
+
+**
+
+“Goddamn, I knew he was a genius.” Edward said. “He's using their own legal system against them.”
+
+“We can do it ourselves from this point, but I don't want to mess up whatever he has planned.” Francis said. “Whatever he's been doing, he's playing the long game.”
+
+Edward looked up from the video. “What do you mean?”
+
+“He's not getting instant gratification from anything he does.” Francis said. “When he first started messing around with things, we were all upset.” He said. “Some adamantly so.”
+
+Edward didn't want those incidents mentioned, so he made a continue motion with his hand.
+
+“Unlike some of the others, a few of us saw it as a challenge. We had to keep working to try and come up with things that he couldn't change or stop after we started them.” Francis smiled. “For the first time ever, we were actively programming to try and thwart a player.”
+
+Edward frowned and Francis raised his hands in surrender.
+
+“That was long before your mandate, sir.”
+
+Edward nodded, and Francis continued.
+
+“It was fun. We needed to be creative, sneaky, in some cases downright underhanded, just to try and outsmart him.” Francis chuckled. “It almost worked a few times, but he... he thinks outside the box. Sometimes way outside the box.” He said, then went quiet for several moments.
+
+“What is it you think he's doing?” Edward prompted.
+
+“He's not just playing the game, sir.” Francis said. “I think he's building a place to live.”
+
+“He's what?”
+
+“All of the things he's done, it's like he's testing things, trying them to see if they work.” Francis said. “I'm not really sure why I think that, but the more I think about it, the more likely it is.” He said. “My educated guess is that he's making a home for himself. A place where he can go to relax and have fun, and not have to worry about anything.”
+
+Edward put his viewing pad down and sat back in his chair. “That does sound like something he would do.”
+
+Francis nodded. “Now that I've had access to his full profile, some... other... information also came to light.”
+
+“You know what he's like in real life, then.”
+
+Francis nodded. “He's using the game as an escape from his horrible life and is building a virtual one.”
+
+Edward smiled. You are pretty far off from the truth with that statement. He thought. He has Elise by his side, and no one in their right minds would want to 'escape' from her.
+
+“I've already pushed back the next content update so we can work exclusively on fixing the Water Works update.” Francis said. “We can have the alpha test ready by the end of the week.”
+
+“Now, now. Don't give me false hope and claim miracles.” Edward said sternly.
+
+“It's not sir. Now that we aren't compartmentalizing the information and trying to write code for different things and trying to stitch them together for a full patch, the whole department are all on the same page and are working together to complete the update.”
+
+“Very good.” Edward said. “Thank you for coming up here to discuss things.”
+
+“You're welcome, sir.” Francis said and stood up. “If you will excuse me, I need to get back to it.”
+
+Edward nodded. “Keep up the good work, and the temporary status you have as the head programmer might just change to permanency.”
+
+“Yes, sir!” Francis said and left the office with a huge smile on his face.
+
+*
+
+Denise helped Ren walk out of the bathroom after relieving him of his excited state and saw that Stella, Lisa, Elise and Barbi were already seated at the table and were waiting for them.
+
+“You weren't kidding when you said a few minutes.” Ren said as Denise guided him over to the table to sit down between Lisa and Elise.
+
+“Sweetheart, your face.” Elise said and gently touched the growing bruise on his forehead and between his eyes.
+
+“I applied a cooling creme, but that's all.” Denise said. “If he banged it on the table when he lost consciousness, putting more pressure on it with an ice pack is not going to help.”
+
+“You're probably going to look like you were in a terrible fist fight.” Barbi said.
+
+“Or like one of those old time criminals wearing a mask to cover your eyes.” Stella said.
+
+“Actually, I think he's going to look like a raccoon.” Lisa said.
+
+There was dead silence for several seconds, then everyone started laughing.

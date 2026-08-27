@@ -1,0 +1,127 @@
+---
+id: e9aad184-d8a0-5adf-9ec3-e1c7d4f50298
+page-type-slug: story-chapter-royal-road
+title: "Chapter 630: Dinner"
+slug: 0100-chapter-630-dinner
+partOf: rise-of-the-living-forge
+position: 100
+ownLength: 1686
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3800026/chapter-630-dinner"
+royalRoadId: "3800026"
+---
+
+Vanessa didn’t stick around the Infernal Armory for too long after they wrapped her armor up. She practically raced out of the building to go find someone or something to test it out on. Arwin just hoped that she waited until she made it to a dungeon before she started a fight.
+
+“That one turned out well,” Koyu said with a glance to the doorway that Vanessa had just sprinted out of. “She was pleased.”
+
+“The armor was good,” the Armory said. “She acted appropriately for a gift of that magnitude. Were I in her body, then I too would have been eager to test its capabilities. She will not find them wanting.”
+
+“You’re ever the humble one,” Wallace said with a snort. He turned to Arwin, brushing his soot-covered hands off on his pants. “But the question arises. What next? We’ve got time left in the day. How’s the magic treating you? Any left?”
+
+“Enough,” Arwin said with a nod. “At the bare minimum, I think we can start planning a few things out. I don’t know if we’ll get a major project started yet. I don’t want to push too hard on accident. But I’ve got some ideas. Maybe we’ll take a break first, though.”
+
+“That would be wise,” Koyu said. “I will wait in the Devil’s Den. Find me when you’re ready to continue.”
+
+His pale, translucent form turned and strode from the room. He’d never been one for lengthy goodbyes. Especially when they were only for a little while.
+
+Wallace started for the door as well.
+
+Arwin’s hand fell on the dwarf’s shoulder before he could make it far. Wallace paused, then turned to look up at Arwin.
+
+“What is it?”
+
+“Actually, I was thinking we might be able to get started on something without Koyu,” Arwin said. “No major processes, of course. But he’s been working pretty damn hard to help everyone but himself. And I did promise him a body…”
+
+Wallace’s bushy eyebrows lifted. “You ‘bout ready to get around to making it?”
+
+“I think so,” Arwin said with a nod and a faint smile. “I held off before due to the difficulty. This won’t be fast. Or easy. But if we don’t do it now, we might not get a chance to do it at all before we set out to fight the Guild.”
+
+“Koyu’s a big boy. An old one, at that,” Wallace said with a gruff laugh. He flicked Arwin in the chest. “I’d reckon he can wait for a few extra days if the need arises. He’s waited this long already.”
+
+“That’s my point,” Arwin said.
+
+Wallace’s brow furrowed. “I fear you’ve lost me, lad.”
+
+“We don’t know how things will go with the Guild,” Arwin said quietly. “I don’t know what we have waiting for us when we find the Deepmind, or what will come if we manage to interfere with the Guild. They won’t go down easily. There’s no guarantee any of us survive this, Wallace.”
+
+The dwarf’s eyes narrowed. “What are you getting at?”
+
+“Wallace, we have to face the truth,” Arwin said. “The Guild is strong. And Deepmind… not even the Mesh knows how powerful it is. Even in the best of scenarios, there’s a damn good chance that this is my last fight. There’s a good chance that it’s anyone’s last fight. And I’ll do everything I can to make sure that isn’t the case. But we have to admit that it’s a possibility.”
+
+Wallace’s jaw clenched. “I know how war works, Arwin. I’ve been around for longer than you. Might not have seen it up as close as you have, but I know.”
+
+“Then you’ll know why I need to make sure Koyu’s new body is ready before we leave,” Arwin said. “Most of the Menagerie is ready. There’s still more I can do — but I can’t push making his piece off any longer. I’ve got the experience to create it properly now. And this might be the last chance I have to make it. I won’t leave my promise unfulfilled. I told Koyu that I’d make him a body. And even if I don’t make it back from this, I’m going to make sure he gets it.”
+
+Wallace studied Arwin silently for a moment. Then the dwarf blew out a heavy sigh. “You sure know how to darken a room, Arwin. You planning on letting yourself die that easy?”
+
+“Of course not,” Arwin replied. “I have no plans of dying at all. But I’m not a fool. The possibility is there. I’m not naive enough to believe that a good cause grants us immortality.”
+
+“Very true.” Wallace grunted. He gave his beard a small tug. Then he nodded. “Fine. We’ve got some time to kill relaxing. Reckon we can put it to good use. I’m sure you’ve got a few ideas. I have some of my own rattling around after spending all this time with that grumpy old man. Let’s see what we can toss together.”
+
+***
+
+Night fell, and the following day rose. Arwin woke with Lillia. Neither of them had nearly as much time to speak in the morning as they would have liked — but there would be time after the guild fell. There was just too much to do right now. And so they, along with the rest of the Menagerie, went right back to work.
+
+Arwin returned to the Infernal Armory, where he was joined by Wallace and Koyu.
+
+“What is our task today?” Koyu asked as the three of them headed into the smithy. “Have you already decided who to work on equipment for next?”
+
+“Yeah,” Arwin replied. The Armory opened the door to the back room for them.
+
+All the mess from the previous day’s work was gone. The armory had long since cleaned it up. In its place were the designs that Arwin and Wallace had created the previous evening. They were scrawled along the walls, designs and ideas mixed into a flowing script that almost resembled a long piece of art.
+
+Arwin and Wallace had made a lot of them.
+
+A lot, but not all.
+
+Huh?
+
+Arwin exchanged a glance with Wallace, but the dwarf looked equally as confused. There were designs on the wall that neither of them had drawn. But of it was completely new. Rather, it was more that someone had taken their work and simply continued it on through the night.
+
+Judging by the sheer amount of extra work and writing that was present, it had been well through the night.
+
+The Armory kept at it while we were asleep?
+
+But that wasn’t all.
+
+Pieces of metal and magical components already laid out on platforms in wait for their arrival. The entire room had been prepared for them.
+
+“What is this?” Koyu asked, looking around the room. The confusion on his translucent features grew stronger as he read more of the writing. “These plans…”
+
+“You’re welcome,” the Armory said, its obsidian form emerging from the corner of the room to stand alongside them. “You left a bit of work unfinished, and I didn’t have anything better to do. Lillia snuck me some extra food and magical energy, so I figured it would be best to put the power to use.”
+
+Arwin’s lips twitched into a smile as he turned in a circle to take in all the work the Armory had done. It wasn’t an insignificant amount. There were at least 5 or 6 hours of effort shown in the walls.
+
+“This is a body,” Koyu said. He turned toward Arwin. “A Soul Guardian Body.”
+
+“Well, guess we get to skip the preliminary stuff,” Wallace said with a gruff laugh. “We were going to make you help us do the work in the morning. But it looks like we all owe Lillia and the Armory a little bit of extra thanks. This is amazing.”
+
+“You should still check to make sure it’s right,” the Armory said. “I am incredible, but I am only an extension of Arwin. It is possible for us to make mistakes.”
+
+“Wow,” Arwin said. “Are you actually admitting potential fault?”
+
+“Only due to your lack of knowledge,” the Armory replied without missing a beat. “A forge is only as useful as the man wielding the hammer within it.”
+
+“This is for me,” Koyu said. He looked over to the Armory, then to Wallace. “This is to be my body?”
+
+“Well, we can make some changes,” Wallace said. He gave his beard a small tug. “But that’s the plan, yes. Arwin suggested we get it started after you headed to the inn yesterday.”
+
+“Why?” Koyu asked. “I...”
+
+“Do we need a why?” Arwin asked. He tilted his head to the side. “You’re a member of the Menagerie. A strong one. You’re no less deserving of powerful equipment than anyone else in the guild. And we all know that you’ll put it to good use. The only reason I waited this long is because I wasn’t sure I could do it properly. But we’ve got the experience now. No reason to put it off longer.”
+
+Koyu stared at the components scattered all around them. For several long seconds, he didn’t say anything at all.
+
+“Well?” Wallace asked. “What do you think? We tried to keep it pretty simple. Not trying to reinvent the sun, here. Just want something comfortable. Comfortable and effective. But it’s your body. So if we’ve got to go back to the drawing board…”
+
+“No,” Koyu said. He looked around the room once more. Then the faintest smile cracked his cold visage. “This is perfect. It will be perfect.”
+
+“Then I don’t see any reason to wait any longer,” Arwin said. “Let’s check to make sure all of this is possible and that my faulty knowledge base isn’t going to bring the whole thing crashing down on our heads. Then let’s get Koyu all clad in a nice metal suit before the sun sets. I’d be willing to bet he might enjoy having dinner with the Menagerie in the flesh.”
+
+Koyu swallowed.
+
+Then he nodded.
+
+“I do believe I would.”

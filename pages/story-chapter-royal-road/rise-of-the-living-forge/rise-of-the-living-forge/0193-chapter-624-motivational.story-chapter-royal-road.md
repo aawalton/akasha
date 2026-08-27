@@ -1,0 +1,139 @@
+---
+id: 8ceb9db5-3dbd-5fb6-8b3f-46eff9a49416
+page-type-slug: story-chapter-royal-road
+title: "Chapter 624: Motivational"
+slug: 0193-chapter-624-motivational
+partOf: rise-of-the-living-forge
+position: 193
+ownLength: 1775
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3746437/chapter-624-motivational"
+royalRoadId: "3746437"
+---
+
+Eleven was waiting for Arwin when he stepped out of One’s office. She didn’t say a word until the door had closed behind him with a final thud. Only then did she push away from the wall, rubbing the sleep from her eyes.
+
+“Well?” Eleven asked. “How did it go?”
+
+“That’s a good question,” Arwin replied. “Take me back. We’re going to be choosing a second person to be simultaneously prepared for Sunsetting.”
+
+Eleven peered at him from beneath her bed of hair. Then she let out a small sigh. “Things are that bad?”
+
+“Bad isn’t the word I’d use,” Arwin replied. “I’d go with pressing.”
+
+“Now you sound like One.” Eleven let out a huff that almost could have been a laugh. Then she stepped away from the wall and raised her hand. A dull portal cut into the air beside her. She nodded to it. “Let’s get it on with, then.”
+
+***
+
+Arwin bother waking everyone up when he returned to the Devil’s Den. They were all going to need their sleep so they’d be prepared to get to work properly when the morning came. So, instead, he made an executive decision. Out of everyone left waiting to get sunset… well, they were already sunsetting one monster right now. There probably wouldn’t be a better time for Elias to go.
+
+He found the man pretty easily. Elias guessed what Arwin had come the moment he spotted Eleven at his side. He’d agreed before Arwin had even finished explaining the situation. And that had been that. Eleven took him back through the portal, and Arwin returned to Lillia’s room.
+
+She’d been waiting for him.
+
+“What happened?” Lillia asked the moment he stepped back inside. “Why was Eleven here?”
+
+“You can sense her again?” Arwin asked.
+
+“No. She hid herself,” Lillia said. “But I felt Elias disappear, and he was right next to you. You sent him to get Sunsetted. Madiv isn’t back yet. So something happened.”
+
+“Not to Madiv,” Arwin said. He made his way over to the bed and sat down heavily beside Lillia. “He’s fine. We’re just accelerating things with Setting Sun. Lillia, I spoke with One. He…”
+
+Then he paused for a moment. The lump in his throat had returned. Arwin’s jaw clenched. He drew in a slow breath and let it out, trying to focus himself again. There was no room for weakness right now. They had a job. One that didn’t have room for—
+
+Lillia’s hand wrapped around his own. She gave it a small squeeze.
+
+“Whatever it is, Arwin, it’s fine,” Lillia said. “Unless Setting Sun is about to attack us and Sunsetting was secretly a giant trap. Then it might not be fine.”
+
+A laugh slipped free of Arwin’s lips, and the lump in his throat went with it. He shook his head.
+
+“No. It’s not that. Setting Sun is definitely on our side. One is Blake’s father.”
+
+It was Lillia’s turn to pause. Even though Arwin couldn’t see her in the darkness, he knew her more than well enough to recognize the slight shift in her weight on the bed as surprise. Her hand gripped his even tighter.
+
+“Oh,” Lillia said simply. “Are you—”
+
+“Yeah. I’m okay. We had a talk. And I think it was a good one,” Arwin said. “Things lined up. In more ways than one. I’ll tell you all of it. Properly. But for right now… One will help us get to the Guildwall. Once we’re ready. We can’t afford to rush forward to get there, but if we strike before the Guild can destabilize—”
+
+“They won’t be able to react in time,” Lillia said. She swallowed. “Then it’s possible. If we tell Rodrick…”
+
+“Tomorrow,” Arwin said with a nod. “But not tonight. We still need to rest. There’s more armor I need to forge, and there are several people that still need to be Sunset before I feel comfortable bringing them to fight. Kien. Reya. Anna. Art and Vix. Maybe even Vanessa if we can squeeze her in.”
+
+“Right,” Lillia said. She gave Arwin’s hand another squeeze. “Do we know how to deal with the monster the Guild is working with? Did One know what it was?”
+
+“Just its name. Deepmind,” Arwin replied. “Beyond that, nothing. That’s what we’ll have to do.”
+
+“So we’ll have to basically go with Rodrick’s plan. We have to get in unnoticed and try to figure out what the monster’s weakness is without alerting it. Kill it if we can. If we can’t, retreat and find a way to kill it. Then go back and kill it for real — without the Guild noticing what we’re doing.”
+
+“Just about,” Arwin said with a sardonic laugh. “Not too hard, right?”
+
+“Does he know how long the Guild will be off balance?”
+
+“No.”
+
+They were both silent for a few seconds. Then Lillia snorted.
+
+“Well, I suppose it’s just taking down a single guild. I don’t know if you’re aware, but I once tried to kill the hero. Now that was a pain. Took me years. Did manage it, though. This is nothing in comparison.”
+
+“Yeah?” Arwin asked. He turned toward Lillia, letting his shoulder brush against hers. “The way I remember it, I think the Hero killed the Demon Queen. She just happened to get him in the process.”
+
+“Odd,” Lillia said. She leaned in, her breath tickling the nape of Arwin’s neck. “I could have sworn the Queen got the final blow first.”
+
+“Must just be your memory,” Arwin said. “I’m pretty sure that was how it went down.”
+
+“Then they might just have to have a rematch,” Lillia whispered. Her tail traced along the side of Arwin’s thigh. “To settle the score for good. It’s not a wise idea to leave old battles unwon, you know.”
+
+***
+
+Arwin slept well.
+
+And, when the next morning came as it always did, he woke with an ironclad determination burning within his gut. He probably shouldn’t have felt nearly as good as he did. It wasn’t like he’d gotten much sleep. He and Lillia had spoken extensively the last night. Well — among other things.
+
+But they’d figured out at least a semblance of a rough plan for the days to come. One that would hopefully let them get everyone as prepared as possible to take on the Deepmind mission in two weeks. It wouldn’t be perfect. Arwin would have preferred a month or ten.
+
+But life wasn’t perfect.
+
+And they would be ready. They had to be.
+
+He and Lillia were the first ones to the common room that day, but the rest of the Menagerie weren’t too far behind them. The two wasted no time in briefing everyone about what Arwin had learned in his meeting with Setting Sun’s guildleader — save for One’s involvement with Blake.
+
+The news was met with considerably more excitement than Arwin had been expecting.
+
+“About time,” Reya said, pounding a fist into the palm of her hand. “The Guild is going to be so spread across the kingdom that they won’t know what hit them. We’ll be in and out and they won’t even know it. It’ll be easy.”
+
+“I don’t know if I’d go so far as to say easy,” Rodrick said with a small smile. “But if Eleven’s power actually stretches such a great distance… this makes things far, far easier than I thought. I will adjust my plans. We have a very real chance of pulling this off.”
+
+“And an equally real one of alerting the Guild to our presence before we want to,” Art warned. He drummed his fingers his walking stick. “We’ll have to be fast. Ideally, kill the Deepmind the moment we show up. Maybe it’ll be chained down or something. There’s clearly some reason it’s stuck in that hole after all these years.”
+
+“Don’t be overly optimistic,” Kien said. “I doubt we would be that lucky.”
+
+“We probably won’t be,” Rodrick agreed. “But we can hope for the best while preparing for the worst. If Elias and Madiv are successful with their Sunsetting, they may return within a few days. I think it would be prudent to preemptively begin training to Sunset before Eleven comes. That will reduce the time it takes for preparations and make it more likely that we will be ready to strike while the Guild is still off balance.”
+
+“Can we do that?” Reya asked.
+
+“Of course we can,” Rodrick said.
+
+“How?” Arwin asked. “I thought we needed Two—”
+
+“Arwin.” Rodrick sent him a flat look. “I already know much of what Two is doing. Not to mention we spent quite some time together. More than enough for me to understand that training’s purpose. I can give preliminary courses to those who haven’t been Sunset. It likely won’t replace Two, but it’ll definitely get them ahead.”
+
+“Huh.” Arwin nodded. “Yeah. That’s actually a really good idea. Can you do that without messing with your own timelines?”
+
+“Easily,” Rodrick replied. “It will not take too long for me to explain what must be done. I will get started later today.”
+
+“Great,” Arwin said. He tapped a finger against the table for a moment as he gathered his thoughts. Then the faintest hints of a determined smile pulled across his features. “Okay. Wallace, Koyu. Let’s get to it. We’ve got two weeks to get as many of our people outfitted as possible. How many do you think we can do?”
+
+“All of ‘em,” Wallace said, pushing back from the table and dropping to the ground with a grunt. “That’s light work.”
+
+“Overly optimistic,” Koyu said. But the Lich rose as well, and there very well might have been a thin smile on his pale blue lips. “But we will do what must be done.”
+
+“That we will,” Arwin said. He rose to his feet, and the gazes of the rest of the Menagerie followed him. Not a single one of them looked scared. He smiled. “Get to it, everyone. We’ve got a Guild to bring down. Two weeks. A lot can happen in that time. Work hard, but don’t forget to sleep. Reya was right. The Guild won’t even know what hit them. We can do this.”
+
+“Look who’s talking,” Lillia grumbled. “You’re the one that never manages to sleep on proper hours.”
+
+Arwin coughed into his fist. “I was trying to be motivational.”
+
+“You did a good job,” Thane said, giving him a thumbs up. “I liked the speech. It was a bit short, though. Maybe a longer one when we head out?”
+
+Arwin laughed. “I’ll see what I can do. Two weeks, everyone. Don’t let them go to waste.”

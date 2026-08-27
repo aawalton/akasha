@@ -1,0 +1,127 @@
+---
+id: bc2f840d-9d5d-5e24-9e7f-d118e56a0127
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Her First Vanilla Experience"
+slug: 0015-chapter-15-her-first-vanilla-experience
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 15
+ownLength: 1725
+unit: words
+publishedAt: 2026-08-01
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3755026/chapter-15-her-first-vanilla-experience"
+royalRoadId: "3755026"
+---
+
+The crowd of townfolk that had gathered around to witness that clash of interest soon dispersed back into their daily tasks, though the numerous guards continued to watch the two young women’s every move, escorting them alongside the village chief.
+
+Most of the buildings around Marina were overgrown with moss and weeds, and their wooden planks aged to a rustic, dark maroon. They weren’t new constructions by any means, but they didn’t seem to be more than a decade old. After taking some closer looks, Marina did find the aesthetics of these buildings to be a lot more fitting to the natural scenery of the plain, compared to their architectural design. Ahead of her was a slightly larger building with a sign hung above the entrance. To her surprise, the words written upon the sign were written in a language she could read without issue; it was written in Universal.
+
+“Village Hall…” Marina murmured to herself.
+
+Opening the door, Chief Humford waved off the guards before making his way in. “Have a seat.” He gestured at the long table placed atop a fur carpet at the center of the room, dimly lit by a few candles. One of the guards closed the door behind the two of them.
+
+Marina chose her seat at the corner of the table, with Hecate next to her, taking off the hood of her cloak.
+
+The chief disappeared into one of the side rooms before returning with three wooden cups in his hands. “Here.” He set down the cups in front of the two young women. “It’s flower tea, nothing special.”
+
+“It smells amazing.” Marina reached for the cup, immediately enveloped by the tea’s fragrant aroma, which was sweet and earthy. Without further hesitation, she took a sip. “This is great! But how can tea have this type of natural sweetness?”
+
+Even the most fragrant-scented tea she had tasted in the past was not sweet to the taste, and it often left a slight bitterness that dried up her palate. But this tea, despite not being anything special, had a much different flavor profile than what Marina expected. There had to be something more to it.
+
+“Flower tea is naturally bland. I added some nectar.” Chief Humford sat in front of them. “You are not just here to talk about tea, are you?”
+
+Nectar, that was it. The secret flavoring agent. Though it was not something Marina expected to be edible. Back on Earth, flower nectar was only really something for birds and bees. But sitting in the village built by the Bee-ple, it was fitting, and it was delicious.
+
+“Of course not.” She circled back to the situation at hand. “I was just curious about the possibility of tea.” Marina smiled. “I wanted to know, what exactly is The Guardian?”
+
+“The Guardians are created by the forest as protectors against monstrosities that sneak in from the outside world.” Chief Humford answered. “The border around this forest has been growing thinner, especially with the growing force of the ants; losing even one Guardian is disastrous for the forest’s inhabitants.”
+
+“Can’t the forest just make more?” Marina asked.
+
+“Yes, but it takes at least a week before a replacement is made.” Chief Humford sighed, “Meaning this village will be defenseless for a week.”
+
+“It was our mistake killing The Guardian,” Marina apologized. “What can we do to help?”
+
+“My request is…” The chief looked to Hecate. “For this lady to stay with us until the next Guardian arrives.”
+
+It’s true. Hecate could easily replace the Guardian’s role by staying. The vampire’s power would provide even more protection than that of the Guardians at the cost that Marina, too, needed to stay.
+
+“Bold of you to assume that you have the authority to command me.” Hecate crossed her arms.
+
+“Well, if that is what you need, then I don’t mind staying.” Marina asserted. “Only if Hecate wants to stay, though.”
+
+“If that is your plan, my dear, then I shall proceed as such,” Hecate said, taking a step from her cup.
+
+“I mean… we did cause this mess in the first place–”
+
+“And you wanted us to fix it, so here I am.” Hecate reiterated before turning to Chief Humford. “Though I wanted to ask, why is it that Mellie seems to be the only one who speaks Kith, yet the rest of you spoke Universal?”
+
+Kith? Is that what the insectoid language is called? Marina decided not to interrupt; she was also curious about this after all. She too found it odd that the villagers were all speaking in Universal when they could’ve easily communicated privately in their own language. So far, the only time she had heard Kith spoken was Mellie’s prayer.
+
+“When I founded this village decades ago, the war hadn’t happened, and most of us who came from the Hive Capital, where we were raised. We were taught Universal from a young age, to better communicate with merchants who may wander into the forest, and barely anyone was taught Kith.” The chief explained, his voice becoming dry.
+
+“So what changed?” Marina inquired, her eyes brimmed with engagement as if watching the unfolding of a movie plot.
+
+“It was, of course, the war.” Chief Humford let out a sigh. “Ever since the ants appeared, our kingdom has been in distress, and one of the strategic implements by the queens was the return of the Kith language because the ants couldn’t understand it, apparently.”
+
+“Kith is the universal language to all Kithonian races as far as I know.” Hecate pointed out. “Are you claiming that the ants are not a Kithonian race?”
+
+“Forgive me, the ants have yet to reach this meadow; that is all the information I have.” The chief apologized before taking a sip of his tea. “It is getting late. How about I find a place for the two of you to stay at?”
+
+“Sure, thanks for the tea. It was great!” Marina stood up from her seat. Hecate soon followed.
+
+“What about Mellie’s house?” The chief suggested. “She seems to be pretty comfortable around you.”
+
+Staying with Mellie would be the preferred resolution. The bee girl already got to know them, so there’d be no awkward introductions. Plus Marina was already invited to pick out some herbs. Visiting Mellie was inevitable anyway.
+
+“That is true… but did you ask her about it?” Marina raised a brow.
+
+“If she denies you, feel free to come back, and I will find you somewhere else.” The chief replied. “Her home is located around the outskirts of the village.”
+
+“Thanks again.” Marina waved. “Hecate, let us go now.”
+
+“Of course, my dear.” She followed Marina’s steps. “Oh, I had almost forgotten something,” Hecate stopped abruptly in the doorway before turning around to Chief Humford.
+
+“What is it, Miss Hecate?” The chief’s eyes squinted in skepticism.
+
+“Your Authority, it shines brighter than the sun to other Bearers.” Hecate pointed to the chief’s chest with her finger. “I would recommend learning how to conceal such a presence before it turns from a gift to a curse.”
+
+*****
+
+After a dozen minutes of searching, Marina finally stumbled upon a wooden building around the outskirts of the village that was relatively smaller than the houses in the town’s center, but more importantly, the sign around the doorway was what caught Marina’s attention.
+
+“I think this is it.” Marina walked to the door before knocking gently. “Mellie? Are you home?”
+
+“Yeah, coming!” A voice rang from the other side. The door opened in a moment’s time. “Oh, Miss Marina and Miss Hecate, come in! The chief didn’t do anything rash, did he?”
+
+“Oh no, he invited us to tea.” Marina grinned as she stepped through the doorway, and what greeted her were the pungent smells of various herbaceous plants. “That is quite the botanical garden you have...”
+
+“Sorry, I never get any visitors, so it’s always messy.” Mellie pushed off some of the plants from the wooden table in what is assumed to be the living room. “Have a seat.”
+
+“Your house is beautiful.” Marina looked around at the different plants that decorated each corner. “What are those for?” Marina gestured at the various instruments on the counter.
+
+“Oh, I like to experiment with herbs and nectar combinations; those are what I use to extract liquid from plants.” Mellie filled two cups from a wooden jar. “You guys okay with nectar?”
+
+“Uhhh, I have never had nectar before?” Marina stuttered. “By itself, I meant.”
+
+“I hope you will like it then. It’s what most Bee-ple have as a beverage around here.” Mellie handed them the cups.
+
+Marina had tasted it in tea, which was delicious, but on its own... She took a whiff. The scent was more fruity than that of sugary honey, with a bold tone of flowery fragrance like that of jasmine. She sipped gently, trying to savor the flavor on her taste buds. The nectar was sweet but not too sweet; it tasted like some sort of fruit juice, but with a slightly thicker consistency. A bold aftertaste soon erupted upon Marina’s tongue; an aroma that Marina could never forget. It was like vanilla, or rather, it was vanilla.
+
+“I think this is an amazing drink!” Marina exclaimed. “Hecate, what do you think?”
+
+“It is good, definitely an interesting beverage for sure.” She nodded. “Though I still prefer tea.”
+
+Hecate’s reply was no surprise to her at all. It was good, but not good enough compared to the qualities of coffee. Marina took another sip; it was as refreshing as the first. “So, Mellie, we were here not only because of the herb, but also because of the chief.”
+
+“Huh?” Mellie’s eyes widened. “What did the chief say?”
+
+“Uhh, he wanted us to stay for a week.”
+
+“Oh, that is great! We can do a lot of fun things together, like collecting herbs, exploring–”
+
+“Y-yes, but also,” Marina interrupted. “He wanted us to ask you if you are willing to let us stay at your place for the time being.”
+
+“Oh. I am fine with that, except the fact that…” Mellie fell into a short silence. “Because I live by myself, I only need one bed, but I do have one other spare bed, which means that the two of you might have to share a bed, if that is okay?”
+
+“...”

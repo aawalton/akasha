@@ -1,0 +1,313 @@
+---
+id: 6bce5f4e-9ed5-528f-ba8c-60b831ad586f
+page-type-slug: story-chapter-royal-road
+title: "361 Out With Weakness"
+slug: 0320-361-out-with-weakness
+partOf: the-new-world
+position: 320
+ownLength: 4594
+unit: words
+ownProgress: 4594
+publishedAt: 2023-02-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1123199/361-out-with-weakness"
+royalRoadId: "1123199"
+markedReadAt: "2026-06-29T21:32:07.771Z"
+---
+
+I turned a palm to them, "These constructs will assist you all in your  development, whether that be constructing more infrastructure or helping rulers learn to wage war."
+
+I raised my brow to Shalahora and telepathically said, "Is it possible to leave a shade with each of the rulers so we can keep tabs on them?"
+
+Shalahora nodded, "Of course, Harbinger."
+
+I peered at the rulers, "Well then, it looks like we have a planet to escape from, don't we?"
+
+Chapter Begin
+
+I cracked my neck before pointing toward the city's center, "The first thing we need to do is get your vitals cleaned up. We're removing the psionic fluid and anything else it left behind. Toxins, impurities, all of that sludge will be cleaned out by getting near the pillar over there."
+
+The rulers eyeballed each other before a few mosied toward the city's central plaza. There, the monolith hummed with arcane energies, ten blue cores powering the structure and the buffs it instilled. After getting the crowd nearby, I sat cross-legged at the base of the column.
+
+Before I began, Shalahora blotted out of the ground like a writhing ink stain. The shadow murmured, "Would you mind me if I offered assistance, Harbinger?"
+
+His tone shifted after the contract formed, as if he switched bodies with someone else. I blinked, startled by the way he worded himself,
+
+"Er, sure."
+
+Shalahora condensed into a physical form before gesturing to the rulers but speaking to me, "Psionic fluid has pooled within them. Clearing it out will prevent them from rapidly metabolizing the substance, which would further damage their bodies. I can help them clear it out if you'd like."
+
+I didn't even think of that.
+
+"Absolutely. Please do."
+
+Shalahora shimmered over, his body fragmenting into clouds of darkness that let beams of light through. Once in their general proximity, he telepathically linked to them all. He explained himself over the next few minutes before heading over to each ruler one at a time. Using his hand as a mental anchor, he pressed a fingertip to each ruler's forehead.
+
+He pulled a portion of his mind into theirs through that contact point. With their minds compacted, Shalahora pulled out the remnants of the psionic fluid lingering in their bodies by drenching them in umbral energy. As I watched, I uncovered why they hadn't exploded from it as I had. The rulers absorbed the material over time while I metabolized it instantly like the primevals did. The spines still lingered within the rulers, and those pricking points created systemic pain that was difficult to alleviate. It even reduced cognition over time.
+
+Shalahora soaked up whatever amount was left of the liquid, his mind expansive enough to do so without any issues. I could've done the same, but I would've killed several of them if I had tried doing something like that. I'd apply too much pressure on their minds and not contain the psionic liquid's reaction. By comparison, Shalahora handled the deft task with an experienced hand, like a surgeon at an operating table.
+
+Still, he couldn't remove the physical shards already in their bodies. That was where my talents kicked in. Having distributed them, my enchanted rings and other gear expanded the ruler's regenerative abilities by leaps and bounds. The monolith at the city's center offered further augmentation, and the Rise of Eden was the cherry on top.
+
+With all the amps running at full throttle, everyone regenerated their physical conditions rapidly. The built-up contaminants flowed from their skin, eyes, and, disgustingly, their orifices. Blegh. Several aliens stood up and vomited up rancid, black sludge while others handled the process in, er...Other ways.
+
+Let's just say Shalahora stayed incorporeal while working with them.
+
+After a while, shards of bone oozed out of the rulers' skins, some having more bits than others. The rulers grimaced in agony as the process took place, many wanting to stop. However, having others pull through helped those who struggled like a hell week at a boot camp.
+
+Several hours passed before the rulers pulled themselves out of their mental fog. People talked, joked around, and cleaned the area up. It helped that everyone was gross, so no one stood out in the filthy situation. After getting to a tolerable level of cleanliness, everyone beamed out with a euphoric kind of joy.
+
+Having cleaned out their systems, many gazed at pounds of shards that had oozed out of their body. The worst offenders were the wizards and magicians; their bodies had been soaked with the potent poison. They all glared at the shining needles as my golems carried out the sharpened shards. We didn't want anyone bloodying their feet while walking, so I condensed it into a ball.
+
+Trying to motivate them further, I created a marble pillar with a spherical indentation before setting the sharp ball onto the pedestal. After using heat to clean it, I gestured at the spiny ball, "This is out of you all. If any of you doubted your abilities before, move forward, knowing this held you back like a ball and chain."
+
+Inspired, several rulers walked over to thank me. This set off a chain reaction where they all did so, a line queuing in front of me. I thanked them while memorizing their faces for later. In particular, the mages interested me since they had so little say up until now. Being a mana battery didn't leave them much room for being anything else.
+
+With introductions handled and cleanout done, we began their basic cleanup. I gathered my constructor golems and let them know what adjustments I wanted to be made to the buildings. We'd have running water and warm runes imprinted into them, along with blankets, pillows, and other necessities. We'd give them other supplies as well, letting them get sanitized.
+
+A shower stall would be added along with a grate to hold the runoff. The golems would pull the grate out and empty the water outside the city daily using the tunnel systems. The moment they threw it outside, it would explode with a plume of steam before igniting anything the rulers got off of themselves. It was simple, easy, and efficient.
+
+Getting to work, the golems and I renovated the homes over the next hour. The rulers got nameplates for themselves, everyone choosing to stay in this city instead of moving to another one. That instinct to stick together kept them alive until now, and they believed it would do the same when heading into an uncertain future.
+
+I hoped for that as well.
+
+After handling the basic living situation, I sent out an announcement using the psionic web of the city. Everyone tuned in, and the rulers got to the central plaza once washed. Talking to everyone, I went over a training schedule for them. They'd devote several hours to psionic work daily so that no one was vulnerable to Elysium's agents.
+
+Physical training followed since the rulers needed some kind of robustness, or they'd die from a light breeze. The last bit of training involved magic, and I doubted my ability to teach them much. While many would consider me a powerful sorcerer, my magical style was unique to me, so people wouldn't be able to learn it. The thought of interviewing everyone made me want to vomit, so I handed that task to my director golem.
+
+With everything in place, the day's schedule began. There was no time like the present, after all. The psionic training involved my ascendant golems testing their minds, and those monstrous constructs relished in the opportunity. To my surprise, most rulers held up well, but the exhausted ones ended up resting near the city's monolith.
+
+I paced up to them and raised a hand, "How's the training going?"
+
+A haggard, older alien leaned over and huffed, "It's exhausting. I told the golem to hit me harder than you told it to. It laid into me like a fat man laying in a soft bed, and let's just say this bed creaked."
+
+The group laughed, the older alien's elephantine, gray skin crinkling as he smiled at his own joke. It looked like comradery forming, so I smiled before checking out our surroundings. I put my hands on my hips,
+
+"That's good. Let's hope we can continue this for a while before Valgus attacks us. We need time to prepare everyone for whatever they'll throw at us next."
+
+A small, furry alien adjusted her glasses on her long nose, "Ah, if I may, what's causing such distress over the next confrontation? I can't imagine anything giving your golems problems, let alone yourself, considering you made them."
+
+I frowned, "Valgus is blessed by Baldowah, so he's invincible. I can't remember if I mentioned it, but I couldn't even scratch the guy. If that guy's bed creaked, then mine was broken."
+
+The rulers nodded to each other, an understanding forming between them. I tilted my head, "If you all knew that, then why ask what I'm worried about?"
+
+The lady looked like a mongoose as she waved her clawed hands, "Oh, I figured you had a solution for that, as you've already had multiple encounters with him."
+
+I frowned, "It was less having an encounter and more like surviving a beatdown."
+
+The older alien smiled, his tusks giving him a brutish edge, "That's how those bastards win in all their fights. They use blessings that are immutable."
+
+The mongoose alien cleared her throat before saying, "Ahem, blessings aren't the right word. They carry alternate rule systems to rig their fights in their favor."
+
+Remembering my fights with Baldowah and Yawm, an overarching rule system summed them up pretty well. In Valgus's case, I played a game where his damage was turned off. It was simple yet absurd. Thinking of that, I turned a palm to the small, furry ruler,
+
+"It was more like a set of physical laws that were different for Valgus than for me. He couldn't be broken, moved, or budged while I could."
+
+The older alien laughed, his teeth like molars, "That's right. That's exactly right. The Old Ones change them so that their avatars can't lose. Each Old One tends to have a different way of doing it, but the result is always the same."
+
+That reminded me of When I first met Yawm. He could control antimatter and atomic fusion, so his mana and destructive abilities defied convention. He had already lost his mind by the time I met him, but the absurd foundation still lingered like the ruins of a great city. Even after collapse, Yawm still sent chills up my spine from memory alone.
+
+Those rule systems could also explain Shalahora's psionic abilities or Valgus's invulnerability. In Valgus's case, he harbored an avatar while Shalahora was one. Those abilities could be the source of Shalahora's immaterial form.
+
+While I dwelled on that, another mind took over talking, so I cupped my chin and said, "Is there any way to beat those kinds of laws when they're protecting someone?"
+
+The group peered at each other. The older alien scoffed, "Of course not. Otherwise, you'd have heard about it. That's why they can't be beaten and are better left avoided."
+
+The mongoose chimed in, "Well, that's not necessarily the case. There are...Well, theories about how to handle it in mainstream scientific literature."
+
+The older alien raised his brow, "And when have those 'theories' actually worked?"
+
+She adjusted her glasses, "Not recently, unfortunately."
+
+The alien let his hands flop against his sides, "My point exactly."
+
+I raised my hands, "What are those methods?"
+
+The mongoose coughed into her hand, "Well, I've read of three different kinds. The first is the most difficult and involves creating a sub-dimensional space where the laws of nature are limited. If you can get someone inside, the laws protecting them can only manifest to the limits of the subspace."
+
+I remembered my pocket dimension, so I nodded, "Ah, it's like having a jumping competition with a low roof?"
+
+She leaned back, "Uhm...I guess you could say it like that."
+
+The older alien shrugged, "So, to beat a guy at jumping, you have to construct a building with low ceilings and get them in there. Sounds very practical."
+
+I pointed at him, "Depends on who's building it or leading the avatar. Anyways, What other ways are there to stop them?"
+
+The ruler adjusted her legs, "Mmm, the other method entails overwhelming the law systems protecting an individual. You can simply have another law system of your own that is stronger than theirs."
+
+I massaged my temples, imagining that process. The older alien nudged me with his elbow, "Hah, not too keen on selling your soul to some Old One, eh?"
+
+I murmured, "No, not really."
+
+My misgivings went well beyond that. Adding simple stats to myself through the cipher took quite a while, so changing the rules governing my body and mind would require untold amounts of energy and time. I also needed more knowledge on dimensions, cipheric runes, and the consequences of these rule systems.
+
+In other words, it was a long-term project, not a short-term solution.
+
+I shook my head, "Any other strategies?"
+
+The furry alien crinkled her expression, the fur bundling up like several squirrel tails, "Hm, the last strategy is less tested. It involved breaking the law systems down over time."
+
+I furrowed my brow, "Huh...Sounds difficult."
+
+She waved her hands, the sharp claws at the ends recently trimmed, "You could construct a set of law systems over yourself that destroy other law systems. That's never been done or even attempted, really. The other method entails using a theoretical mana type to get it done. Tell me, have you ever heard of an energy called entropy?"
+
+The older alien rolled his eyes, "You're filling this youngling's head with junk now."
+
+Remembering my Sovereign class mentioning the mana type, I raised a palm to her, "Actually, I've heard of it, but I know nothing about it."
+
+The mongoose crossed her legs, her robe overlapping, "It's a mana type that's theorized to be able to break down anything, and I truly mean anything. It can destroy matter, energy, and even thoughts. Those laws of nature within a space are susceptible to it as well...Theoretically, that is."
+
+I leaned forward, "How would I make it?"
+
+"It's a fusion of all three advanced mana types, supposedly. I have no idea what kind of mindstate would help summon the energy, though. It's...It's a relatively untrodden path."
+
+The older alien gazed at me like a stern teacher, "Absurd speculation aside, you're not as intimidating as you first seemed, my friend. I thought you'd know most of this already."
+
+I shrugged, "Eh, I haven't had much of an opportunity to sit down and learn about this kind of thing. I've been in permanent battlezones since the system started, and my quests have always dragged me into quagmires that never seem to end."
+
+The other rulers honed in, each leaning towards me or turning my way. One of them said aloud, "That's similar to the situation with the eldritch. It's a fight that never ends."
+
+I pointed at them, "Exactly."
+
+The fluffy alien tilted her head at me, "So you're much more oriented toward battle than, say, general knowledge, for instance?"
+
+I nodded, "That's very true. I was born and raised in a pre-system world, yet I've been in situations like this several times. My first large-scale quest was a quarantine zone, and battling Elysium was the next. Both involved sieging cities or holding them while facing massive armies."
+
+One ruler, an avian creature with several wings, spoke with a large, colorful beak, "That's what modern warfare has become since Schema centralized governance based on eldritch clearing. Once a city is held, the advantages mount, and cities become an overwhelming advantage."
+
+It was good that I asked Schema to recognize my own cities then.
+
+The older alien leaned one hand against his knee, "If I'm hearing right, you never received a Schema based education?"
+
+I raised my brow, "Not even slightly. I learned all this independently outside a few mentors along the way."
+
+The gruff alien pushed himself up, grunting from the effort. He reached out a hand, his nails thick as tiles, "My name's Targask Holoh. I'm an archmage who's worked across several empires for my species' freedom. Right now, I'm working for the Entil Empire, and my work usually revolves around whipping spoiled brats into shape."
+
+I grabbed his hand, the rugged surface feeling soft as butter to my metal hands, "My name's Daniel Hillside. I'm trying to get out of Schema's rat race."
+
+The rulers nodded with understanding before the archmage turned a hand to the furry alien, "She's shy, so she won't even introduce herself. She's Cheruhka Miya. She's a scribe I've come to have a healthy disdain for."
+
+Unperturbed, she raised a hand, "Hi."
+
+After a few more introductions, the older alien walked over to an open space. He waved me over, and I figured I might as well see what he wanted. While we faced each other, Targask interlocked his arms behind himself, "If you wouldn't mind, I'd like to see what you can do. Magically, that is."
+
+A slight smile grew on my lips, "Do all mages lock their arms behind themselves like that?"
+
+Targask waved his hand, "No, certainly not. I simply find the position comfortable."
+
+"Ah. Well, what do you want to see, exactly?"
+
+He peered off, "Hm, an overall assessment of your abilities. You mentioned never receiving a Schema-based education, so I was going to see if you had any gaps in your magic that I could offer insight into. Think of it as my way of paying you back for all you've done for us."
+
+For a moment, I considered the situation. Exposing my magic could backfire if Elysium got its hands on the full extent of my abilities, and these rulers would inevitably report it, willingly or not. However, having them informed about me also acted as free advertising. After all, life would continue after this lottery, and I could have these guys bidding for my time.
+
+Siding with the bolder approach, I shrugged, "Eh, alright. Anything I should start with?"
+
+He turned a hand to me, "Whatever you wish. I'm experienced enough to know what I'm looking at."
+
+I raised a hand, generating water over my palm, "If you say so. This is so you can see it."
+
+I pulled the orb using gravity wells, flowing it between us in a crisscrossing, diagonal current. While waving my finger, I made the fresh orb spiral into a ring before creating many dollops of water around it. Stretching each droplet, I created a series of interlocking circles before spinning them around like a liquid gyroscope.
+
+The archmage gave me a nod of approval, "Is that gravitation you're using instead of telekinesis?"
+
+"Of course. This isn't possible with telekinesis."
+
+"Hm...Fair enough."
+
+I let out a plume of heat, and the series of circles ushered into steam. I coalesced it back into ice, then steam once more. I pulled electricity through it, and the water hummed with energy, rippling in waves. Reaching out a hand, I flicked two fingers, condensing the rings into ice balls.
+
+They orbited a gravity well at the center of the display, forming a miniature solar system. I threw my hand sideways, tossing the water out of the city. The moment it passed the barrier, the water popped from ice into vapor like tiny detonations.
+
+Reaching up a different hand, I heated it until it glowed red, yellow, white, then blue, and I spread that over my body, containing the heat with a panel of invisible cold around me. I placed my palm over the ground, the rock melting to magma I etched runes into. I flash-froze it and myself, a wave of cold washing over me.
+
+Standing upright, I opened my pocket dimension, pulling the liquid bone out and back in. I closed it before heating one of my arms into a liquid. I molded it into a spine before making it into several other rudimentary weapons. Sending waves through my body, I let myself ripple before my body collapsed. I regenerated above the corpse, dimensional fabric rushing out of the ether.
+
+Rulers around watched the demonstration, their silence telling. The grizzled archmage widened his eye at my respawn trick, but he kept his reactions measured outside of that. Forgetting to demonstrate it earlier, I turned one of my arms into water, and it flooded out. I pulled that water out of the city before raising a hand and spawning soil.
+
+In the rich ground, I crafted plants and random animals. The archmage gawked at that display before I shuttled it out. The moment it passed the barrier, even the dirt ignited. Reaching up a hand, I spawned a singularity outside the city's border. The dark blot feasted on light, and in turn, force and destruction erupted.
+
+The shockwave trembled the barrier before I let my hands down,
+
+"That's about all I got."
+
+That wasn't true, but I figured that was enough to turn some heads. The older mage walked up to me, "A lot of that was impressive, while some of it was rudimentary. It's such a strange kind of casting you're using as well. Where is your grimoire? Are you hiding it?"
+
+"I don't use it for combat."
+
+He blinked, "Hm, that could certainly explain some of the less technical displays then. Where did you get the materials from for your water and whatnot?"
+
+I raised a hand and turned a fingertip into ice. Flicking it, the ice burst into a plume of sheening powder before my hand regenerated. I pulled the ice out of the city, watching the snowflakes explode outside the city's barrier like tiny firecrackers.
+
+I shrugged, "It's my body. I turn my flesh and blood into materials."
+
+The mage shook his head, "Blood magic. Interesting. And you're mana channeling as well...It's all so strange."
+
+I raised a brow, "How so?"
+
+"You don't construct mental apparatuses to create efficient mana conversions. You pull from an absurdly enormous well of mana, like using a flood to water a houseplant. In fact, your mana usage is in excess to such a degree that you use it like you've never dealt with limits to how much you can use."
+
+He was right. I hadn't.
+
+The archmage raised his hands, "Most mages end up focusing on efficiency and tightly wound casting to make the most of what they have. You're trying to wield more of your reserve and use it as quickly as it returns, yet you're struggling despite wielding enormous amounts of mana."
+
+I furrowed my brow, "I have always had very high mana regeneration, so my limits are different than other people's. That's why I cast differently."
+
+The archmage scoffed, "And it's resulted in a very inefficient casting style."
+
+I struggled not to roll my eyes at that. He noticed, so he raised a finger, "Not to say the sheer volume of magic is unimpressive. I don't know if I've ever seen anyone pull that much mana repeatedly without being driven mad or exploding. Doubly so for a blood mage, as they tend to be physically aimed fighters, not sorcerers."
+
+I cracked my knuckles, each pop sounding like a snapping cable submerged in mercury, "Do I look like I'm only a sorcerer?"
+
+The archmage rattled, "Of course not, but that's beside the point. Your large mana pool must be why you use such simple mana pathways during your casting."
+
+Cheruhka chimed, "That simplicity allows him to channel that much mana. More complex pathways would collapse."
+
+Targask narrowed his eyes at her, "But is it really necessary to channel mana through his body? That's a recipe for internal destruction, though he's somehow survived it."
+
+I raised my brow, "I'm made of a very conductive material, so there's very little friction involved when channeling energy."
+
+Targask narrowed his eyes, "Then how are you controlling it?"
+
+I raised a glowing hand, "I can feel it coursing through me, and using those sensations, I measure where, when, and how to use the magic. That's why I can construct something like that spinning orb or miniature solar system without using a grimoire."
+
+I shrugged, "It's also why my mentor has struggled to teach me specific spells. Instead, he handed me resources so I could learn on my own."
+
+The archmage winced, "I could imagine doing the same. Regardless, that methodology led to a lot of discrepancies."
+
+I pushed through the urge to casually dismiss the guy, "Name them."
+
+He raised a hand, "Easily done. I'd be willing to bet your magic is almost entirely used on yourself and not other people. You probably can't stabilize your mana enough to use on others without driving them insane."
+
+Ooh, he got me there. I peered up, "Hm, yeah. For sure."
+
+He rolled his hands, the older alien appearing excited, "I'd also be willing to bet that certain styles of magic are highly limited for that same reason. Any kind of bolstering styles, healing, even telepathy could be strained with certain people who aren't highly leveled."
+
+I tapped my side, thinking that over for a moment. I never even considered telepathy with an average person, but it could backfire. With that worry burning, I raised a hand, "You have my attention."
+
+Targask turned a palm to the monolith, "How about I show you a thing or two about constructing spells using a grimoire. You could learn a bit before going off and handling the rest yourself."
+
+I put my hands on my hips, "Let's do it-"
+
+My director golem telepathically synced up with me, "Creator, may I have a moment?"
+
+Raising a hand to the archmage, I glanced up, "What's up?"
+
+The lead golem sighed, "It's rather unfortunate, but there appears to be an emissary from Valgus's faction that would simply adore a meeting."
+
+Disgust spread over my face as I simmered, "If I have to go through one more damn meeting, I'm going to kill someone."
+
+Putting myself back in the moment, I raised a hand to Targask, "You can show me the ropes after I handle Valgus's 'emissary.' It won't take long."
+
+Targask frowned, "They're already here to kill us? That's a damn shame. I'll see if I can't organize that lesson before they get through."
+
+I gave him an acknowledging nod before dashing forward. I jumped up while pulling with gravity wells, launching myself across my city. Landing near my director golem, he waited outside with his arms crossed behind himself. The director gestured to a large, powerful warrior waiting outside.
+
+It reminded me of a bipedal beetle with its massive upper body hunched over. Its gaze carried an eerie air about it because its eyes never blinked or moved, and keratinous layers interlocked over its skin like plates of glossy armor. It even wore its old, molted shells, one arm holding a scarred head plate and the other a sharpened horn.
+
+Flying at the midpoint of the city's barrier, it raised the horn sword while bending its head down. I mirrored the gesture before waving it in. The insect landed below, its heft causing a quake throughout the city. As construction golems raced to fix the damage, I gave it a wave,
+
+"Yo. What do you want?"
+
+The beetle spoke in a series of clicks, but the translation system in my city let me understand it,
+
+"We want the rulers."

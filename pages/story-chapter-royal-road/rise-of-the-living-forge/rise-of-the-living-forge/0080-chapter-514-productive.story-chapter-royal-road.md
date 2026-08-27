@@ -1,0 +1,159 @@
+---
+id: 4257067b-7c93-57e6-a231-1b2f1ec4674b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 514: Productive"
+slug: 0080-chapter-514-productive
+partOf: rise-of-the-living-forge
+position: 80
+ownLength: 2071
+unit: words
+ownProgress: 2071
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2748824/chapter-514-productive"
+royalRoadId: "2748824"
+markedReadAt: "2026-06-29T20:00:59.594Z"
+---
+
+Arwin and Lillia finished Rodrick’s armor before the sun had set over the Infernal Armory.
+
+Like Arwin had expected, once the core was complete, everything else came far easier. It certainly helped that they weren’t trying to make anything overly fancy. The absolute last thing Rodrick needed was a set of armor that drew attention to itself.
+
+The remaining Nightiron that Arwin had gathered during his dungeon run went to good use in the creation of a sleek black set of armor. It was the thinnest that Arwin had ever created, less than a finger in width, and surprisingly flexible. No designs or fancy inscriptions ran along its surface.
+
+It was like the surface of a still lake on a clouded night sky. A smooth black that wasn’t quite reflective enough to make out one’s reflection in. Even with the powerful materials and brimming with magic, this wasn’t the kind of equipment that was meant to stop a massive blow.
+
+This was the kind of armor that would become nearly invisible when worn beneath clothes. It was the kind that wasn’t just meant to be difficult to notice. No, this armor wasn’t meant to be noticed at all.
+
+The set’s gauntlets would have looked exactly like plain leather gloves if it weren’t for the layered scale-like segments that had been added for finger flexibility. Its boots weren’t too different, shaped and small enough that they might have even been able to pass as socks if someone wasn’t looking closely.
+
+But, as strange as the set was, it was complete. And the Mesh agreed. Power flowed into Arwin in a freezing river as golden words spun through the air before his weary eyes.
+
+The Chameleon’s Shadow
+
+[Soulforged]: Forged at the hands of a Forbidden Soulmancer, the Hearthmother, and an awakened building, the Chameleon’s Shadow has been bound to the soul of the man who wants nothing more than to pass unnoticed. It will grow more powerful with every soul it claims.
+
+[Skin of the Chameleon]: The Chameleon’s Shadow automatically melds to the form of its master and becomes camouflaged while worn beneath any other clothing. At the cost of magical energy, this item can change its shape and appearance in accordance to its bearer’s will. The amount of energy needed depends on the extent of the changes desired.
+
+[Shifting Core]: The Chameleon’s Shadow can extend its effects throughout its owner’s entire body, changing their physical form for a short period of time. It can also turn itself — and its owner — temporarily invisible.
+
+[Adaptable Form]: The Chameleon’s Shadow adapts to any other armor its wearer dons, changing its shape so that larger pieces of equipment fit them perfectly. It will also lend its strength to aid in wielding excessively heavy weapons and assist the wielder in maneuvering during combat.
+
+[Nightwoven]: Any damage sustained by the Chameleon’s Shadow will heal itself at the cost of magical energy so long as least one piece of the armor remains. The duration it takes this item to heal depends on the extent of damage it receives.
+
+[Soul Armor]: The Chameleon’s Shadow’s status is unreadable to all but the ones who made it and its owner. If anyone attempts to wear it without permission from its owner, the armor will strangle them. The Chameleon’s Shadow is resistant to all forms of magic and can adapt to gain immunity to all magical or chemical effects after sufficient exposure.
+
+Arwin and Lillia stared quietly at the results of their work for several long seconds. Their lack of words was due to equal parts weariness and awe. The armor had turned out even better than Arwin had hoped.
+
+The plan had been to create a set of armor that would assist Rodrick on his many infiltration missions. Something that would fly under everyone’s noses and only make itself known if he needed it to.
+
+And that was what they had made.
+
+“How long has it been?” Arwin asked.
+
+“It is evening,” the Infernal Armory reported, the black tendrils running throughout the room slithering back into the walls as it returned to a position of rest. “We completed the armor within hours.”
+
+Arwin smiled.  It hadn’t been easy… but it hadn’t been impossible either. Making a piece of equipment with a core was already an immense task. Doing it in the gap of another job, and within just a few hours… well, that was something else entirely.
+
+The reward from the Mesh had made that clear. He had quite a bit of magical energy swirling in wait within him now. He could feel it at the center of his being like a rolling ball of frost waiting to be freed.
+
+All the efforts of the past few days had garnered him quite a sizable amount of power. Between his visit to the dungeon and all the items that he’d made recently, it was probably getting pretty close to the time where cashing all the power he’d gathered in would be wise.
+
+The Mesh wasn’t going to do it for him anymore. Now that he’d Sunsetted his class, that was going to be entirely up to him.
+
+I’m really curious to see how growing stronger works now that I’m in control. I’m not getting any benefit from just sitting on all the power forever… but I do still want to complete the final parts of the Devil’s Den’s armor today.
+
+I’m a bit tired, but eating Lillia’s cooking for dinner should fix that right up. The last thing we want is to go into the whole deal with the Auction House and the Blacktongues without one extra emergency victory card at our disposal.
+
+“You’re thinking about leveling up, aren’t you?” Lillia asked, sliding up beside Arwin with a wry smile.
+
+“How could you tell?” Arwin asked.
+
+“You’ve always been easy to read,” Lillia replied with a laugh. “In battle… and in other things as well. It takes a few hours, for what it’s worth. I’d do it at night while you’re resting. Something tells me you don’t want to sit down and miss dinner.”
+
+“True enough. At night, then. I don’t mind waiting a little longer. Did you get energy for helping?”
+
+“No,” Lillia said with a snort. “It would have been nice if I did, but making armor really doesn’t line up with my class at all. But that doesn’t change anything. It was incredible. The connection the Infernal Armory makes while we’re working… it’s intense.”
+
+“Could you hear the song?” Arwin asked.
+
+“Among other things,” Lillia said. Her eyes went distant for a moment before she shook her head and smiled. “It’s… nice. I’m going to get jealous of Wallace and Koyu if you keep only doing this with them. Include me more. Thane and his devil are right. There’s no point to all of this if we don’t get to spend time together.”
+
+Arwin nodded. “Yeah. You’re right about that. I knew you were busy and didn’t want to interrupt… but if you’ve got time, I’m not done for the day. The Devil’s Den’s armor is getting close to finished. I want to wrap it up after dinner today… and now that you’ve had a warm up with Rodrick’s gift, I think we could all use the extra strength and connection to the Armory.”
+
+“You want me to help? With that?” Lillia’s eyes widened.
+
+“Yeah,” Arwin said. “Unless it’s too much? I don’t want to—”
+
+“No, no, that isn’t what I meant.” Lillia shook her head hurriedly. “I just thought it was too… I don’t know. Difficult? Technical? I’m not a smith. Won’t that mess stuff up?”
+
+“Koyu isn’t a smith either,” Arwin pointed out.
+
+“Well, sure. But he’s a lich,” Lillia said.
+
+“And you’re a retired Demon Queen,” Arwin said with a wry laugh. “You’re not holding anyone back, Lillia. Ever. The only reason I haven’t had you here for everything I’ve made is because you have your own things you’re working on.”
+
+Lillia pushed a strand of hair back behind her ear. “Well… I’ve still got energy, and dinner will help a lot as well. If you want me to pitch in, I’d be happy to.”
+
+“I can’t expect you to help every time, but this feels like a perfect application of your talents,” Arwin said with a nod. “I can’t think of anyone else I’d rather have backing me up. And that’s only partially because we’re working on armor for a building tied to you.”
+
+Lillia gave him a light punch in the shoulder. “Stop that. Don’t let Koyu or Wallace hear it. They work hard too.”
+
+“But they aren’t quite my type,” Arwin replied.
+
+Lillia rolled her eyes. “I should hope not, or I would start to take offense to how much time you spend with old men. Some might think you were using unconventional methods of getting all the materials for these projects.”
+
+Arwin let out a choked cough. “Definitely not.”
+
+“Whatever helps you sleep at night.” Lillia laughed and shook her head. “But if we’re going to do even more work tonight, I’m going to go back to the kitchen and make sure dinner has some extra power in it. We’ll need the refresh — and I think Art and Vix should be joining us as well. I want to make sure they’ve got something proper to welcome them back after their trip.”
+
+Arwin nodded. “Don’t let me stop you. I’ll look forward to it. How long are you thinking?”
+
+“Most of it should already be prepared,” Lillia admitted. She started for the door, then paused with her hand on the knob. “But give me about thirty minutes to add some finishing touches and gather everyone.”
+
+“Then I’ll join you in thirty,” Arwin said. A small grin pulled at the corner of his lips. “After I finish things up here take a bath.”
+
+Lillia snorted. “Much appreciated. I think I’ll need one of those myself. I’ll make sure the bathhouse is cleared out. If you don’t take too long, you might even be able to join me.”
+
+Then she was gone, and Arwin was alone with the Infernal Armory once more. There were several long seconds of silence. A small smile that even Lillia’s departure couldn’t wipe away lingered on Arwin’s lips.
+
+A coil of red mist twisted through the air as a soft sigh rolled against the back of Arwin’s neck.
+
+“What?” Arwin asked. “Is something wrong?”
+
+The Infernal Armory let out a thoughtful hum. “No. But I have an unrelated question.”
+
+“Hm?”
+
+“Are we making the Den’s body waterproof?”
+
+Arwin opened his mouth. Then he closed it as he fought back a laugh.
+
+Is the Armory… jealous of the fact that I can take a bath with Lillia?
+
+“I—”
+
+“Never mind,” the Armory said. It let out a noise like a cough. “It was a passing thought. In case there is rain.”
+
+“Right,” Arwin said. “I’m pretty sure any magical object is going to be fairly resistant to water. I don’t think rain is going to cause any trouble.”
+
+“Ah. Good,” the Armory said. “That’s good.”
+
+“I think I’d be more worried about the armor breaking the tub,” Arwin said with a wry grin.
+
+“What? A tub? Who said anything about a tub?” the Armory asked sharply. “I didn’t! Did I? Would I break a tub?”
+
+Arwin pinched the bridge of his nose. “If you really feel like you need the ability to enter a bathtub, then we can figure something out. I’m sure we can make something if we really need to. Is it a priority?”
+
+“No. Of course not. Why would I need a bathtub?” the Armory asked with a scoff. It paused for a moment. “But if we make one, make it a large one. A very large one.”
+
+“Noted,” Arwin said. “Was there anything else?”
+
+“No. I think that should suffice,” the Armory said. “I will rest until it is time to resume work. Ensure you bring me some of Lillia’s food. I will not have the energy to continue working without it.”
+
+Then the mist was gone and Arwin was well and truly alone.
+
+He blew out a slow breath and looked down at Rodrick’s gift, a small smile pulling back across his lips.
+
+Today was turning out quite productive.
+
+After I finish the Devil’s Den’s armor and finally use all the magic I’ve been storing up… I’m looking forward to seeing what tomorrow brings.

@@ -1,0 +1,147 @@
+---
+id: 57b9570c-0689-584b-9bfa-0a85443e33c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 329 : Supposed Savior"
+slug: 0030-chapter-329-supposed-savior
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 30
+ownLength: 2355
+unit: words
+ownProgress: 2355
+publishedAt: 2025-12-24
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2875357/chapter-329-supposed-savior"
+royalRoadId: "2875357"
+markedReadAt: "2026-06-29T19:42:48.397Z"
+---
+
+The next morning, since I had found a more stable location, I offered for Vee to stay behind, but sadly, she turned me down.
+
+"I want to do some searching around here, maybe I'll get lucky," she replied. "Plus, I wouldn't want to be a third wheel with you and Vanessa."
+
+I wasn't sure why Vee was bringing her into the equation, as Vanessa was a non-combatant, meaning I didn't really see much point in hanging around her. Yes, combat and killing weren't everything—I hadn't gone evolution crazy yet—but I still found a fun adventure a more enjoyable experience than just socializing.
+
+Heck, if she were at least a spellcaster, I could maybe talk magic, or if she were a crafting profession, that would be another opportunity. But I just can't see myself ever wanting to create a clerk persona.
+
+So, unfortunately, I was once again left alone while Vee went teleporting about. It didn't take long for Vanessa to meet up with me, and she seemed to switch instantly to her dazzling personality.
+
+I wanted to get down to business, but sadly, that seemed to mean keeping Vanessa entertained, since she was the official liaison and controlled my assignments. We started the day with another short tour, during which she introduced me to a few of the other residents.
+
+Despite being out in the middle of nowhere with relatively poor conditions and dangerous neighbors, everyone seemed delightfully friendly. Everyone seemed to have a smile on their face, and there was almost, quite literally, music in the air, emphasized by the fact that I caught Vanessa humming to herself on multiple occasions.
+
+I found it slightly peculiar, but I supposed you needed to keep up your spirits out here. I was just glad that [Roleplay] hadn't yet tried to get me to hum along to her tune.
+
+I used the opportunity to ask about the island, diving straight into Vee's question about whether it might be cloaked. Vanessa gave a cheeky wink and held up a single finger to her lips in a whispering gesture.
+
+"Don't go spreading this around, but yes," Vanessa whispered. "We have an item that spreads an invisible fog around the island, so if you aren't close enough, you can't see it. It's helped keep the island relatively safe, and we try to deal with anything that comes into the borders as quickly as possible."
+
+That sounds really useful for our future island. I wonder if I can get a chance to look at it?
+
+Since the opportunity was ripe, I also asked about my potential quests. Were there any threats I could address to ensure the safety of the island and its inhabitants? I was expecting Vanessa to be upset that I wanted to get to work rather than spend time with her, but she actually seemed delighted.
+
+"I just knew you were going to be a blessing for us here! Yes, there are a few things I'd love your help with, I just need to make sure that they are officially assigned to you."
+
+I happily nodded, and we went to a building at the center of the settlement. It was effectively the town hall, but for my purposes, it would be my contact with the Adventurers' Guild.
+
+Inside the town hall, they had a device, a mirror that needed to be charged with a significant amount of Mana. Once operational, it could communicate with its sister, which was actually situated in Saltport.
+
+Naturally, I helped supply the Mana, and it gave me a chance to try to scrutinize the object as much as I could. Regrettably, I didn't have enough time with it to glean its inner workings, and I suspected it was a treasure from a dungeon based on how impossible the enchantments looked.
+
+Once the item was charged and active, Vanessa pulled out a crystal that synchronized with the mirror, allowing rudimentary access to the adventurers' guild system. I'd always wondered how the guild had a network between its branches, and this seemed to be a small insight into that mystery.
+
+Vanessa chatted with someone in the guild, and I officially received two quests, though their requirements were quite vague.
+
+<Quest received: Help protect Volcano Isle.>
+
+<Quest received: Aid in the development of Volcano Isle.>
+
+Soon after that, the mirror dulled, and the connection was cut. Evidently, it required a lot of energy to activate and interact over such a vast distance.
+
+Naturally, I asked Vanessa what these two quests actually wanted of me, and she happily responded. "The first is to help safeguard the waters and the island itself. Anytime you help slay a threat, you will be rewarded."
+
+I nodded.
+
+"As for the second, you could see it as a more long-term quest, not strictly limited to the island itself. It could involve salvaging shipwrecks, mining resources, or even locating treasures. Anything not monster-killing that would help us out."
+
+I nodded again. It all seemed simple enough.
+
+"Do you have anything in mind?" I asked.
+
+"I heard you're quite good at locating brineling nests," Vanessa replied.
+
+I was surprised she'd heard about that. It was something I had just offhandedly mentioned to the adventurer's guild when signing up. Thankfully, [Roleplay] kept Sylvain cool, calm, and collected.
+
+"Yeah, you could say I'm the natural enemy of those little blighters," I answered.
+
+"I knew you were our savior!" Vanessa marveled. "Nobody has been able to locate their nest, and those that might have couldn't take them down. Normally, they aren't such a threat, but they spawn naturally with one or two mutations out in these deep waters. The fact that they are so close to the island also means that they bypass the fog; they're practically living on our doorstep!"
+
+"Sure thing. I'm confident I could have the whole nest exterminated by the end of the day," I replied confidently, showing a toothy grin.
+
+Vanessa once again was dramatic in her enthusiasm, throwing herself onto my arm and fiercely hugging it. I tried to get some information about it, but they were totally clueless and couldn't even give me a cardinal direction to start my search.
+
+Well, asking is more for Sylvain's appearance. With all my traits, I should be able to locate their nest without any issue.
+
+"While you're out, would you like me to send your deepstone to the forge?" Vanessa offered. "I know we were going to do our tour there, and I hate going back on my word, but those brinelings have been a threat for far too long. Every day just means they grow more in strength."
+
+"No worries, maybe you can show me tomorrow when we collect it?"
+
+Vanessa nodded and renewed her promise to take me to the forge. I pulled out a small dimensional storage bag and gave it to her. Inside was about a quarter of my unrefined deepstone. I was curious to see if there was any quality difference between mine and theirs, given that mine had much lower wastage.
+
+I left the bag with Vanessa and began my search, walking to the dock where I cast [Wind Step] and began moving about. I started my search along the coast, which also gave me the perfect opportunity to try out the spell version of [Wave Step] properly and [Elemental Step (Basic)].
+
+I was especially curious to see the skill's shifting capabilities and initially thought I would need to get it to level two to see that. But, maybe because it was a more advanced skill, it came with up to two chains right out of the box.
+
+Delighted with that fact, I began trying to chain a [Wind Step] into [Wave Step] as I started to encircle the island's coast. The skill was fantastic, and it took no effort at all to chain between different steps. Not only that, but it also seemed to have a much further base range than the skills on their own.
+
+I might actually feel bad taking this apart. Maybe I should only do it once or twice and then keep it, since I still haven't found out if there's any limit on using the spell version of these skills.
+
+By chaining the two steps, I could be surging through the waves and then flying into the air at a moment's notice. I found no sign of any brinelings nearby, so I started heading further away from the settlement, which also meant I didn't need to restrict myself as much.
+
+When I deemed myself safely away, I finally used the [Ignition Step] and [Terra Step] sides of the skill. The former was a downgraded version of [Thunder Step], in my opinion, as it lacked the surging and the fiery explosions were roughly on par with a default fireball spell.
+
+I wonder if, when I create the spell version of it, I could modify it like any other spell. If the fiery explosions could afflict my enemies with [Combust], then it would be amazing.
+
+As for [Terra Step], I found the skill an intriguing experience. Merging with the ground was almost like swimming through it, which felt extremely bizarre and unnatural throughout the movement. The closest thing I could compare it to was when I was "swimming" in that magma lake to claim my wormy prizes.
+
+If I weren't confident in my slimy constitution, I'd be terrified of potentially burying myself alive. Also, it was notably slower than every other movement ability I'd ever used and by a large margin, meaning that outside of ambushes or maybe retreating, I couldn't see a combat use for earth's movement ability unless I was willing to tank blows I could have usually dodged.
+
+The more I used the four skills, the more I realized I might not be able to recreate [Terra Step] without first taking apart [Elemental Step (Basic)], as I had no feasible idea how to recreate the melding into rock and soil aspect with my current spell components.
+
+In my search for this elusive nest, I kept using the skill, hoping to find some type of inspiration. It even reached level two rather quickly, allowing me to chain four movements together and drastically speed up my search.
+
+By the time I located the brineling nest, which was hidden on the far south of the island, my only discovery was that [Terra Step] would not let me move through anything harder than rock, so any metal ores would stop me.
+
+Another soon-discovered limit was that, for stone, it needed to be unworked, as when I tried to move through the ground into the brineling cave, I was stopped in my tracks. If not for my two additional chains, I would have already experienced being buried alive!
+
+I cast [Blink] and instantly bypassed their walls, which I later discovered were just smoothed out. Yes, my amazing new skill was stopped in its tracks by some smooth stone—I couldn't believe it.
+
+I would've loved to have tossed a few explosives around, but since there was a chance the humans would investigate the nest after the fact, I needed to stick to water or air. Thus, I took my smooth stone frustrations out by capitalizing on one of my newest spells—[Vacuum Blade].
+
+The invisible ultra-thin blade tore through brinelings better than almost anything I'd seen before. It was honestly a little scary to see such a deadly blade of magic forming along the edges of my fingers, and if I were human, I'd be scared shitless of losing a finger or two with each casting.
+
+Of course, I tried using it as a ranged spell a few times, which ate a significant chunk of Mana the further I wanted it to travel. The cost was so extreme that, if I were reckless enough, I could possibly see the bottom of my reserves.
+
+I might have found a better way to train [Mana Circulation] and [Soul Mastery].
+
+I finished cleaning up the brinelings and felt like I was very close to my next level, much to my delight. Rather than immediately returning to the settlement, I found a nice, quiet spot to practice my non-Sylvain spells.
+
+If I return too soon, they might not believe I did the job correctly, or, worse, they might realize I'm hiding my abilities. I'm all for the weird savior worship that Vanessa seems to be giving me, but my actual capabilities are far beyond anything Sylvain has shown.
+
+So I spent my time working on [Ignition Step], which, thanks to having experienced it firsthand and its similarities with [Thunder Step], I managed to complete in time for dinner.
+
+<Spell [Ignition Step] discovered.>
+
+Damn, no other skills this time? Maybe the system thinks it was too easy for me this time?
+
+I sighed and began heading back, making sure I used [Elemental Step] the entire way back, as I wanted to get it to a few more levels before I inevitably took it apart.
+
+I didn't want to spend another point buying it after deconstructing it, and I was concerned that my lack of info on melding with the ground would set back the information I'd get.
+
+I arrived back at an ecstatic Vanessa who literally sang my praises. I didn't think such a small accomplishment needed this much attention, but I let it slide.
+
+I also gave them the cave's location so they could check it periodically for any returning brinelings or fresh spawns. If they spawned there once, they would likely appear there again, and the residents would probably need to regularly cull them to prevent a large hoard from forming.
+
+Despite finishing my objective, my quest wasn't marked as complete. This was due to it being an ongoing quest that I'd keep for the duration of my stay on Volcano Isle.
+
+I once again politely turned down her offer to stay at her home, though this time she was much more persistent before ultimately giving up. She seemed almost hurt by it, but unfortunately for her, I cared about Vee infinitely more than her.
+
+The poor little murder spider will have nightmares if left alone. I can't have that!

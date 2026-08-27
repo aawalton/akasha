@@ -1,0 +1,309 @@
+---
+id: cf238cab-23f6-5bb5-97ae-fb8db2049f28
+page-type-slug: story-chapter-royal-road
+title: "The Hallway, Pt. 2"
+slug: 0007-the-hallway-pt-2
+partOf: new-gam3-plus
+position: 7
+ownLength: 4023
+unit: words
+publishedAt: 2023-01-09
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1083328/the-hallway-pt-2"
+royalRoadId: "1083328"
+---
+
+The Hallway was almost too easy. Since Alan had decided to abandon speed and focus on accuracy he could take his time and lineup a shot on every enemy that charged him. Once the initial burst of excitement from combat had faded progressing forward became as simple as point and click.
+
+Alan’s ammunition was a perfect copy of the same round, and the rifle never jammed or misfired. He only had to wait for an enemy to exit one of the rooms that lined the hallway, aim, and fire. Then he would continue walking.
+
+There was no challenge. Every generated enemy moved the same way making it easy to identify their patterns. They all wielded melee weapons and the loud opening of a door announced every combatant’s entrance. There were no angles to consider or environmental factors. Only a straight shot down a level grey hallway.
+
+Alan was fine with killing these people because he knew they were all NPC’s—bots without real intelligence or feelings. And even if they were outside of a simulation Alan would slaughter players just as easily. They’d respawn, after all.
+
+Enemies were enemies—their appearance did not matter. The threat they represented had to be ended.
+
+If only every soldier thought like you, Nu sent.
+
+Alan wasn’t sure if the remark was sarcastic.
+
+Halfway through the run, a door behind Alan opened. Without thinking he turned around and shot the person in the face. Only, it was an unarmed old lady instead of a machete-wielding thug. Nu teased Alan for the mistake, but he simply began to take an extra second to identify his targets.
+
+Near the turn, at the end of the hall, Alan took a break. A bit winded, he reloaded his rifle and re-checked his sidearm.
+
+Good, we’re almost done, Nu sent. I suggest we take cover behind the bend. Calculate where you need to shoot, I’ll double-check your work, and then we’ll be good to go.
+
+Sure, Alan thought. He checked a room a middle-aged man with a baseball bat had come out of. There was nothing inside.
+
+Carefully and as quietly as possible Alan made his way back into the hall and peeked around the corner. He identified four gunmen before stepping back and forming a plan of attack. It was like a miniature simulation formed inside his mind—he could see where he needed to aim when to pull the trigger, and how each moment would flow into the next. Early computers were used to find firing solutions for ships—Alan was doing the same only for his body and rifle.
+
+Steadying his breath, Alan leaned out enough to expose the muzzle of his gun and get his eyes on the targets. It played out almost exactly as he imagined, and four shots later the Hallway was cleared.
+
+Walking through a final doorway with an exit sign above, messages appeared:
+
+Congratulations on clearing the Hallway!
+
+x3 Bonus for a 1-shot kill run!
+
+Accuracy score: 98.95%. Very impressive! Do not fire upon non-combatants.
+
+Time: 22:13.70. Please try harder.
+
+Due to your combined score, you have been placed on the leaderboard at #3,645.
+
+Experience will be rewarded at the end of the scenario, alongside a rough character sheet.
+
+You will be granted one more attempt at the Hallway. Try to improve your score.
+
+Position in queue: 60. Estimated wait time: 23 minutes.
+
+Alan met up with the rest of his party and was surprised to find out that only Bob had successfully completed the Hallway. They were reviewing footage on Ivy’s tablet, sped up many times over—she apparently had access to the run archives.
+
+Charlie had tripped halfway through his run, allowing a teenager with a Mohawk to stab his side. The wound proved to be too great of a distraction, and though he made it to the final bend Charlie was eliminated there.
+
+Ivy, meanwhile, seemed too hesitant. It was clear that she had never held a gun before, let alone fired one, and her nerves got the better of her as she forgot to reload until it was too late. She fumbled with the magazine only to get whacked in the head with a hammer.
+
+Isaiah… Alan had to stop himself from laughing aloud. Isaiah had entered the Hallway with no less than 25 fragmentation grenades—something Bob had told him not to do, but he’d done anyways. Isaiah had the grenades in holsters around his waist, attached to a backpack, stored inside said backpack, and even tied to a bandolier around his chest.
+
+To the party’s surprise, the beginning of Isaiah’s run went well. He’d chuck a grenade down the hallway, and then move up. The enemies that weren’t outright destroyed in the blasts emerged from their rooms disoriented or maimed—easy targets. But the only other weapon Isaiah had brought into the Hallway was a pistol, and halfway through he realized he hadn’t brought enough grenades or ammunition.
+
+So instead of picking up a melee weapon to conserve ammo, Isaiah had decided to sprint through the rest of the hall. Surprisingly nimble and adept at dodging blows, Isaiah made it to the end of the hall but had built up a large group chasing him. He decided to cook his last two grenades, pulling the pins and holding them before tossing the devices.
+
+One exploded mid-air, the concussive force pushing Isaiah into a wall, where, disoriented, he was killed.
+
+“I wanted a grenade launcher, but the armory didn’t have any,” Isaiah added. “Also I got a bonus for a multikill—seven enemies with one grenade!”
+
+“Next time follow the loadout Bob suggests,” Alan said. “If you can’t follow orders—basic instructions—I can’t trust you in the field and I’ll leave you behind. I don’t care about the quests or your uncle. If I think you’ll get me killed you’re gone. Clearing this trial with the best possible score is what matters—not having fun with grenades. Understand?”
+
+Isaiah nodded. Bob dragged him off to the armory.
+
+Alan turned to Charlie. “That was just bad luck. Keep calm and I’m sure you’ll be able to finish the Hallway this time.”
+
+Charlie grunted and headed off to the firing range.
+
+“And what golden piece of advice do you have to offer me?” Ivy asked. She had brought up Alan’s run, watching him gun down enemies with clocklike precision.
+
+“Why aren’t you fully using your advantages? You have an AI; get them to aim for you,” Alan said. “You have access to Omnitech Industries’ software—use it to do more than review footage. Can you increase our scores or decrease the number of enemies we’ll face? Can you give us foreknowledge of the Hallway layout or where people will be placed? Do you have forge files accessible, allowing your brother to get the grenade launcher he wants?”
+
+You talk to people like a caveman with a big stick, Nu sent. If you were any blunter I’d be worried you were the AI, not me.
+
+A few emotions washed over Ivy’s face before she ended with a glare at Alan. “Nothing is that simple. My AI has no aim assist program, I shouldn’t even be connected to archives, my actions are being logged, and I’m not going to exploit unfair advantages.”
+
+“Okay, but—”
+
+“No, those are excuses, I know they are.” Ivy closed her eyes and took a deep breath. “How does it not bother anyone else that we just died? The blow I took to the head felt real. Do our minds stop before we “respawn”? Are we effectively dead or—”
+
+“Shoot me,” Alan commanded.
+
+“What?” Ivy looked at Alan like he was insane.
+
+“This is a game. We’re getting rid of your hesitancy toward violence right now. All damage outside the Hallway is negated,” Alan said.
+
+Ivy brought up her rifle, pointing it at Alan. As she shot him he began to run calculations of his own, mapping out red arcs that showed where each bullet went when fired at him. He extrapolated to every weapon in the room, creating literal lines of fire to avoid. Still, he knew his models were inaccurate. He needed more data.
+
+Alan sidestepped one of Ivy’s shots, surprising her, but it was impossible to avoid the next bullet. Alan simply wasn’t fast enough; he could see where the line of fire intersected with his body, but couldn't move his dumb meat suit in time. Continuing to dodge, Alan avoided maybe a third of Ivy’s gunfire.
+
+“See, it’s just a game,” Alan said. “Now, we have less than 20 minutes to figure out a way to ensure you pass the Hallway because I want to take harder missions, and I doubt they’ll be offered if anyone fails the scenario.”
+
+“Fine, see what you can do,” Ivy said. She handed over her tablet.
+
+Once it was in his hands, Alan felt an available connection in his mind.
+
+Huh, Nu sent. Give me a sec.
+
+A moment later a message appeared:
+
+Alan accepted. He felt a connection form, a link from his fingertips to the tablet and then to Ivy.
+
+Nu started to narrate his actions. Hmm, this AI is rather bare-bones. Not much of a framework, though I can build that. The core processing power is present, but there’s no way to translate that to…
+
+Oh well, if it ain’t broke, don’t fix it. I’ll just copy what Eve initially did with you—give Ivy a shadow outline to follow, one that will guide her actions and tell her when to fire, reload, or do any of that crap. The AI will need to develop a better prediction model on its own, but for the Hallway, this should be good enough.
+
+Alan nodded—half paying attention as Nu set that up—focusing instead on the tablet in his hands. It had access to the globalnet, Earth’s in-game internet. All the major news outlets were saying that Operation Phoenix was a massive training exercise. The next 20 hours would prove Alan’s theory that Icewolf was staging a coup true or false. If the Ashes of Humanity held onto those capture points for a full day the territory would be theirs.
+
+Meanwhile, the United World Government was in chaos. The president—who led the UWG armed forces, similar to the United States—was missing, along with several other leaders and generals. No one knew who was in charge. The Guardian Angel Defense AI continued to issue orders, and people were following along by default.
+
+This was an opportunity. If Alan wanted to make a move it would have to be soon, while most people were still caught off guard and unaware of the extent of Icewolf’s betrayal. He needed to act before major officials started respawning. Except, Alan had no influence or strength—only a guess that things were about to go off the rails.
+
+He closed the news pages, and instead searched up the specifications of common in-game weapons. The information was surprisingly easy to find, even including damage ranges (his current rifle did 40-50 damage, not including bonus multipliers if he hit a headshot or other vulnerable area).
+
+Ivy and Alan moved over to the firing range. Ivy to calibrate and practice with her new AI, and Alan to verify the information he’d found and improve his models. While he now knew many weapons’ technical specifications, the players themselves varied wildly. Unlike enemies in the Hallway, people were unique. They moved randomly, jerking this way or that based on trigger pull or recoil, and did all sorts of things that influenced where the bullet would travel. Funnily enough, this would make dodging fire from a bad marksman harder for Alan, as even they weren’t sure where their bullets would end up.
+
+Hey, you’re good with the behavior of people, can you help me out? Alan sent.
+
+Naw, Nu replied. Bit busy here, and leading you by hand was more Eve’s thing. This upgrade to Ivy’s AI will improve her combat effectiveness, but she won’t really learn anything.
+
+Great. Thanks.  Alan resumed watching players in the range, building a rough model that was better than nothing. Instead of a laser to dodge, he imagined a cone of fire, one he wouldn’t want to be standing in without cover.
+
+It was hard for Alan to calculate everything in his head while performing other tasks, but eventually, it became something that happened on autopilot.
+
+Then, with a deep breath, Alan decided to take a dive into Omnitech’s servers. He made sure his back was against a wall and he was out of camera sight.
+
+As their name suggested, Omnitech Industries was a technology company. They had started out as the research laboratory arm of an automotive manufacturing company, but with a few powerful patents and connections to the United World Government had expanded to provide hardware and software to many worldwide. They specialized in tech related to the Game, and it was reported they were attempting to develop their own capsules.
+
+With full access, Alan discovered the rumor was true, though it looked like they weren’t making much progress. Administrators wouldn’t allow researchers to access a few key technologies, including the method to biologically print beings using nanobots and how to transfer or store the data of a person. Still, Alan made sure Nu downloaded all the R&D info he could find, as well as anything else of note. Unfortunately, it looked like the most crucial data including forge files wasn’t accessible remotely.
+
+Gonna run out of space soon boss, Nu sent. I’m stored in a puny enhanced interface that can barely contain my massive intellect. Let’s remember to update that as soon as possible.
+
+Yeah, yeah, Alan said as he downloaded a local map that highlighted points of interest in the Washington DC area.
+
+There were less than five minutes left until their final attempt began.
+
+“Can I have my tablet back?” Ivy asked as they headed to the entrance.
+
+“Focus on the Hallway and follow your AI,” Alan said. He searched for any information that would help them with this trial. The software was located in a folder named “Tutorial,” but it was coded in a language he didn’t know.
+
+Let me help with that. Nu downloaded the file and then sent a summary to Alan. Most of it they already knew: how enemies moved, the dimensions of the Hallway, and that the mobs spawned inside rooms randomly.
+
+That was it. The Hallway was pseudorandom to save time and space. Most computers used random number generators when they wanted an unpredictable result. However, they were often deterministic due to the constraints of machines. If Alan could figure out the seed value he’d know where every enemy would be since he knew the algorithm the Hallway used to imitate randomness.
+
+It took a minute to review footage on the tablet from the first few runs, but with Nu’s help, Alan was able to calculate the seed as well as the details of his next run. The file also included a few ways to improve his score.
+
+Alan looked over at the party. Bob had already entered the Hallway, while Charlie was up next. He didn’t have enough time to explain or the confidence that they’d be capable of memorizing the information he had. Nu sent Ivy’s AI the spawn locations for her run.
+
+Silently, Alan handed over the tablet and then began taking off the guard’s uniform, including the body armor. He tossed his rifle aside—along will all his ammunition. The only remaining item in his hands was a pistol. 97 enemies would be found inside the Hallway.
+
+We already have a completed run, Alan sent, his mind racing. Let’s go for broke. I want to maximize my score and appear on that leaderboard.
+
+Sure thing boss, Nu sent, following Alan’s thoughts and double-checking his math.
+
+Alan realized he didn’t have the correct weapon or ammunition for what he wanted. He jogged over to the armory, frantically waving his hands to get the employee’s attention. He exchanged his M9 for a Glock 20 with penetrative 10mm ammo and a single stun grenade.
+
+A message appeared:
+
+Making his way back Alan reviewed his planned path. Nu approved it. Alan then threw open the door and sprinted inside.
+
+Almost immediately an enemy emerged from a room on his right and three doorways down to his left. Alan ignored them, running by as fast as possible.
+
+A butcher’s cleaver chopped through the air, missing Alan by a hair’s breadth. He continued onwards, a growing line of melee combatants chasing behind like lemmings. Yet no matter the attack, Alan dodged everything. It was almost choreographed—a dance to avoid every blow and progress further down the Hallway.
+
+The future was not some Byzantine maze of complex paths. It was defined, almost tangible in his mind’s eye. The only problem was Alan’s body. He knew where he wanted to be and when, but his clumsy, untrained muscles failed to act with the precision he desired. A blow should have never come as close as it did—there was still too great a margin of error in his predictions.
+
+With over twenty enemies chasing him Alan came to a sudden stop. He took a second to aim and fired. His hand jerked with considerable recoil.
+
+The bullet went through a head, into another person’s neck, but without pausing to examine how much further it went Alan spun around and fired before running ahead. The first shot helped build distance between his pursuers, while the second shot was needed to clear an obstacle—two bodybuilders with baseball bats that came out of opposite doorways.
+
+Ducking beneath the swing of a bat, Alan glanced backward. At least four people had been hit by the first shot, lined up and chasing him with little regard. He was outpacing the growing mob, but only barely.
+
+Twice more Alan stopped and fired—once because it was needed, the other time because he had misplaced his foot, almost tripping. Alan was tired. He was three-quarters of the way through the Hallway but had been more active today than ever before. Still, he ignored the burning sensation in his legs, the protests of weak flesh.
+
+There was a high score to claim, but Alan wasn’t on pace. He needed to be faster, and stronger, yet his body continued to fail him. With a roar of frustration, Alan leaped out of the way of a reaching hand. One foot in front of the other—that was all that mattered now. So he wasn’t fast enough to compete with the best of the best. That would change: with training, gear, implants, and ability points Alan would improve himself.
+
+Coming up to the final bend, Alan turned and unloaded the rest of the Glock’s magazine before letting the weapon drop to the ground. Maybe a quarter of his pursuers were eliminated. His ears ringing, Alan pulled out the stun grenade he’d picked up and chucked it around the corner.
+
+It bounced off the cement wall. Alan closed his eyes and covered his ears, feeling the explosion a second later.
+
+Bypassing the disoriented armed forces, Alan dashed through the final stretch. He noticed a soldier next to the exit raise a semi-automatic rifle.
+
+Dodge! Nu sent.
+
+Alan dove under the cone of fire. A spray of bullets tore through the air, embedding themselves in the walls. The gunman swung his weapon to cover the exit. That wasn’t supposed to happen—everyone should still be affected by the stun grenade.
+
+The only case this scenario occurred was if someone else had taken control of the soldier. A remote access program had been included in the Hallway’s file, but since it wasn’t used in any of the runs Alan watched he hadn’t expected it to come into play. To save seconds on his time he had abandoned his weapon, and he was paying for that now, as he was unarmed while the remaining enemies were beginning to recover. Furthermore, the tremor of a larger crowd ran through the floor.
+
+Alan stepped towards an enemy behind him—a woman with a smaller handgun—and felt a disturbance. Bullets passed through the air where his arm reached. Alan pulled his hand back just in time. He had wanted to grab her weapon, but the gunman continued to fire at him, forcing him to move out of the way.
+
+Make physical contact—I may be able to cut the connection, Nu sent.
+
+Following the movements of the rifle barrel, Alan darted towards the exit, only to double back as the soldier covered the Hallway with a hail of steel. A sharp sting cut across his face, but Alan ignored it. The soldier reloaded, giving Alan the time he needed to charge ahead.
+
+Reaching out and grabbing the soldier’s forearm Alan felt a connection form at his fingertips. Like a puppet with its strings cut the gunman dropped to the floor.
+
+Alan picked up the rifle and eliminated the threat, only to be shot in the leg. He swung open the exit door and used it as cover. Despite the wound, Alan felt no pain, only adrenaline pumping through his frame. He could leave, but by now his time was screwed. The only thing left to do was improve his accuracy.
+
+Falling to the ground Alan took a sitting, open-leg firing position. He waited behind the exit door—which was programmed to be indestructible—until there was a delay in the fire. He leaned over and made headshot after headshot, the angles clear as day in his mind.
+
+Taking advantage of the secure position, Alan proceeded to eliminate the rest of the melee mob as well. Unthinking they charged him in a staggered fashion, often lining up allowing him to take two or even three enemies out with a single shot.
+
+Ignoring the pool of blood at his feet, Alan rolled his way through the exit when the final NPC was killed.
+
+Messages appeared:
+
+Congratulations on clearing the Hallway!
+
+x5 Bonus for slaying a higher rank enemy.
+
+x3 Bonus for a 1-shot kill run!
+
+x2 Bonus for defeating an enemy with their own weapon!
+
+x2 Bonus for killing 5 enemies with a single shot!
+
+Accuracy score: 100%. Very impressive! You defeated 97 enemies with 44 shots, a new record.
+
+Time: 9:13.55. Acceptable.
+
+Due to your combined score, you have been placed on the leaderboard at #6.
+
+Name: Alan
+
+Race: Human (Earth)
+
+Level: 53
+
+Rank: D
+
+Health: 200/200
+
+Stamina: 150/150
+
+Psionic Energy: 10/10
+
+Stats (Rank D):
+
+Strength: 31
+
+Agility: 40
+
+Willpower: 35
+
+Charisma: 16
+
+Perception: 49
+
+Endurance: 30
+
+Stats (Rank C):
+
+Intelligence: ?
+
+Stats (Unknown):
+
+Luck: ?
+
+Detected Abilities:
+
+Sharpshooter
+
+Sneak
+
+Camouflage
+
+Multitasking
+
+Enhanced Calculation
+
+Machine Communication
+
+AI Interaction
+
+Improved Control
+
+Ignore Pain
+
+Partitioned Mind
+
+Faction: United World Government
+
+Position: Player Forces Recruit
+
+Instead of emerging back in the waiting room, Alan found himself in what might have been a therapist’s office, his health restored. He was once more in a guard’s outfit with body armor and an M4 rifle. A cozy couch and a desk with nondescript photos sat in the room, but noticeably missing was another entrance. The door back into the Hallway vanished.
+
+Alan sat on the couch and reviewed the messages. His earlier kills before the Tutorial seemed to have granted a decent amount of experience while doing well in the scenario had given more. His level was now decent, though he’d need to visit an Administrator to spend his ability points.
+
+Most of his stats were now above average for a human male, though charisma was lacking, while his intelligence was notably boosted to Rank C. That explained why he was thinking so much faster and able to make all these calculations, but that increase along with the partitioned mind skill caught Alan’s attention.
+
+Stats within the Game were basically their role-playing game equivalent, though Nu reminded Alan that they were a rough translation. A higher intelligence could improve memory, the speed of thought, or the ability to make connections. It might also do something else entirely.
+
+The rest of Alan’s abilities were rather self-explanatory and ones he thought he must have possessed at one point or another, regained thanks to his demonstrated prowess within the Game.
+
+A minute passed before a new message appeared:

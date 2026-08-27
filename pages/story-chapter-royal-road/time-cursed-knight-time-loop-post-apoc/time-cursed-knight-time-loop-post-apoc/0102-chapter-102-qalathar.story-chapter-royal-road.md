@@ -1,0 +1,267 @@
+---
+id: 11a4549e-8416-594b-8396-645e1aea9708
+page-type-slug: story-chapter-royal-road
+title: "Chapter 102: Qalathar"
+slug: 0102-chapter-102-qalathar
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 102
+ownLength: 2707
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3774711/chapter-102-qalathar"
+royalRoadId: "3774711"
+---
+
+Qalathar.
+
+Konrad had made his peace with the heat.
+
+Three weeks on the caravan from the Empire's border had cured him of any remaining belief that he knew what it meant to suffer during the summer. Silberwald's summers were oppressive. The Sultanate's summers were theological.
+
+He had stopped sweating somewhere around the third day inside the walls. His body had simply run out of fluid to spare. He drank water constantly. He pissed almost never. The mathematics of it was worrying, and he tried not to think about it.
+
+The heat he had accepted.
+
+What he hated was the sand.
+
+It got into everything. His eyes, his ears, the creases of his notebook, the mechanism of the capture device, the gaps between his teeth. It abraded the skin of his cheeks in a patient assault that felt, after a week, less like weather and more like being flayed.
+
+He pressed his back against the mud-brick wall of the building he'd climbed and pulled the scarf tighter across his nose and mouth. The fabric was local, bought from a stall near the northern gate. Konrad hadn't mastered the wrapping. His version left gaps. The sand found them.
+
+None of that mattered.
+
+What mattered was what stood in front of him.
+
+The thing was the size of a building. Four stories, perhaps five. It was moving toward the western wall of Qalathar. Its body was feline — the proportions recognizable, the scale annihilating. Shoulders that could have bridged a canal. A skull broad enough to park a carriage on, split by a mouth lined with teeth the color of old bone. The mane, if you could call it that, was not hair. It was a ridge of something closer to quills or spines running from the crown of the skull down the spine and tapering along a tail thick enough to demolish a house with a sweep.
+
+The ground shook with each step.
+
+Konrad felt it through the building.
+
+This was the tenth day.
+
+He had arrived in Qalathar expecting to find a city under pressure. What he had found was a city re-learning to fight back.
+
+The first triple-attack had been an aberration. The second triple-attack had cracked that composure. The third had shattered it.
+
+Now the attacks came without the decency of pattern. Two in a morning. One at dusk. Three in a single afternoon. The intervals between them were shrinking, and the city that had once watched Titans strike the wall with the calm ritual of a people who had survived two centuries of it, that city was gone.
+
+What had replaced it was a city living on faith.
+
+The Angel of Qalathar.
+
+The people of Qalathar had taken that incident and built a religion around it. Not formally — no temple had been erected, no priesthood ordained. But the belief was there in everything Konrad observed.
+
+They had faith the angel would come again.
+
+Therefore the city would hold.
+
+Konrad had interviewed a sand mage on the western wall, a Third Circle conscript with a wife and three daughters, who had looked at him with calm, certain eyes and said, He promised he would return. The angel had promised nothing of the kind. Konrad knew this. The promise existed because the city needed it to exist.
+
+It kept them on the wall. The garrison was bleeding. The casualties were climbing. The intervals between attacks were shrinking. By every rational measure, the city should have been hemorrhaging defenders — soldiers deserting, families fleeing, the slow collapse that preceded every siege. Instead, the walls were full.
+
+The conscripts reported for duty. The mages took their positions. And in the streets below, the half-million souls of Qalathar went about the business of living with an obstinacy that looked, from the outside, like madness.
+
+For Konrad von Ries, this was the summit of his profession.
+
+He had never been more afraid in his life, and he had never been more certain that he was exactly where he needed to be.
+
+The Titan struck the wall.
+
+The wall's ward barrier caught the charge, the shield flaring into visibility as a sheet of pale light that rippled outward from the point of contact. The energy that bled through the barrier traveled as vibration through the stone and the earth and the air and Konrad's skeleton.
+
+He braced himself against the building's rooftop parapet and raised the capture device.
+
+The thing was heavier than it looked. A box of dark-stained wood and brass fittings, small enough to hold in two hands, with a lens of polished crystal set into the front face and a trigger mechanism on the top. Inside, mounted in a cushioned housing behind the lens, sat a crystal the size of his thumbnail. A specially cut mana-reactive stone that, when triggered, froze the light passing through the lens into a permanent image on a treated copper plate.
+
+Three plates per crystal. Three images. Then the stone was spent, and a replacement cost more than most journalists earned in a month.
+
+Konrad had brought twelve crystals. Thirty-six shots. Frieda had signed the expense without flinching, which told him more about how seriously she took this assignment than any words could have.
+
+He had used nine shots in seven days. Twenty-seven remaining.
+
+He pressed his eye to the viewfinder and found the Titan.
+
+The creature had drawn back from the wall.
+
+On the wall, the Ashkeri were moving.
+
+Konrad shifted the device.
+
+The bronze half-masks caught the light. Beneath them, the faces that were not quite faces. They had heavy mandibles, sharpened teeth visible even at this distance, eyes that sat wrong in their sockets. The Sultanate's specialty. Soldiers rebuilt from the inside out.
+
+They moved in formation. Tight, drilled, the curved swords drawn and held low. Behind them, the sand mages were already casting.
+
+In another life, Konrad thought, adjusting the focus, I would spend six months on the Ashkeri alone. How they're made. What they endure. Whether they choose it or whether the choice is made for them. A story like that would win a prize and ruin a dynasty.
+
+He added it to the list in his head. The list was long. It grew every day. Every corner of this city held a story that no Imperial journalist had ever told, and Konrad wanted all of them with the indiscriminate hunger of a man who had discovered a continent's worth of unexplored territory.
+
+But he couldn't have all of them.
+
+He had to focus.
+
+The Titan lunged again. The ward barrier flared. An Ashkeri officer on the wall shouted something in Kumsuri that Konrad couldn't catch, and a second wave of mages sent a coordinated attack.
+
+The Titan roared.
+
+Konrad pressed the trigger.
+
+The crystal pulsed. Light froze. The copper plate inside the device drank the image. The Titan mid-lunge, the ward barrier blazing, the sand attacks converging, the Ashkeri silhouetted against the flare with their curved swords raised.
+
+Ten shots used. Twenty-six remaining.
+
+He lowered the device and watched the rest with his bare eyes, because some things were better held in memory than in metal.
+
+The garrison drove back the Titan in twelve minutes.
+
+Not killed. Driven back. That was their limit.
+
+Twelve minutes. The garrison was getting better. Or the Titans were getting weaker.
+
+He watched the creature diminish against the desert until it was a dark shape against the white, and then nothing.
+
+Below him, the city exhaled.
+
+Hail to the Savior. Hail to the Sultan.
+
+Konrad climbed down from his position using the exterior staircase that the building's owner, a spice merchant with no love for journalists and a deep love for Imperial silver, had agreed to let him use for a fee that would have bought the staircase outright.
+
+The streets swallowed him.
+
+He wrapped the capture device in its oilcloth and stowed it in the leather satchel that hadn't left his shoulder since he'd crossed the gate. The scarf came down from his face. He ran his fingers through his hair and let himself become one more body in the crowd.
+
+His Kumsuri was poor. Konrad had picked up the basics on the caravan road south, and since arriving, he had added a working vocabulary of perhaps two hundred words, enough to buy a meal, ask directions, and badly mispronounce the names of streets.
+
+It was enough.
+
+The city had changed since the attacks began. Six months ago, an Imperial face in Qalathar would have drawn stares, suspicion, the careful attention of Ashkeri patrols. Now the streets held dozens of Imperial faces. Mercenaries with scarred hands and eyes that priced everything they looked at. Arms dealers hauling crates through the market quarter under escort. A handful of minor knights and mages from kingdoms Konrad couldn't name, drawn south by the promise of glory or gold or the particular kind of death that men with nothing to lose sometimes sought.
+
+The influx had loosened the city's wariness toward outsiders. Not eliminated it but diluted it.
+
+Konrad moved through the commercial quarter toward the district near the southern gate where the caravan offices clustered.
+
+The offices were not really offices. They were open-front stalls and shaded courtyards where the caravan masters held court, surrounded by their crews and their ledgers.
+
+The bar was in a courtyard three streets east of the main caravan staging ground. An awning of stretched canvas threw a rectangle of shadow across a dozen low tables. The drinks were served in clay cups. The clientele was caravan men.
+
+Konrad found his usual table. The one nearest the back wall, where he could see the entrance and the courtyard and the street beyond.
+
+He ordered water. He waited.
+
+The old man arrived twenty minutes later.
+
+Habib was his name, or the name he gave to Imperials, which might or might not have been the same thing. He was enormous. Not tall, but wide, a barrel of a man whose belly preceded him through doorways by a comfortable margin. His beard was gray and thick and reached his chest, and his hands, when they closed around his cup, made the clay vessel look like a child's toy.
+
+He ran caravans east. That was what mattered. Deep east, past the settlements, past the minor trade posts, into the territory where the maps went blank and the monsters got large. His crews knew the routes the way a sailor knew currents. They had the accumulated wisdom of men who had survived the crossing enough times to develop opinions about it.
+
+Konrad had been trying to hire them for ten days.
+
+"No," Habib said, before Konrad had opened his mouth.
+
+Konrad closed his mouth.
+
+"No caravan east," Habib continued, in the broken Imperial that served as their common ground. "Not while the big ones keep coming. My crews won't go. I won't go." He lifted his cup and drank. "You ask every day. I say no every day. Tomorrow you will ask. Tomorrow I will say no."
+
+Konrad leaned back.
+
+He had heard variations of this speech from every caravan master in the district. The reasoning was sound. Leaving Qalathar meant crossing open desert, and open desert meant exposure, and exposure meant that anything large and hungry between the wall and the horizon had an unobstructed line of approach.
+
+No one was going east.
+
+"What about the settlements?" Konrad asked. "The ones between here and the interior routes. Are they still standing?"
+
+Habib's expression shifted. The refusal softened into something closer to concern.
+
+"Some," he said. "The ones close — two days, three days — those still send riders. Word comes." He paused. "The ones farther, five days, seven days, we hear less. Riders come later. Sometimes not."
+
+"And beyond that?"
+
+Habib said nothing.
+
+Ten days.
+
+Ten days of this. Of asking, of being refused, of watching the caravan masters shake their heads.
+
+Konrad understood. He did not agree, but he understood. They were men who measured risk against reward with the precision of accountants, and who had concluded, correctly, that no amount of Imperial gold was worth dying.
+
+The problem was that Konrad was not a practical man.
+
+He was a journalist. And the story was not in Qalathar.
+
+Why was east.
+
+Whatever was driving the Titans toward Qalathar — whatever force or instinct or intelligence was pushing them out of the deep desert and the unknown territories beyond the caravan routes — the source was east.
+
+He needed to go east.
+
+On the eleventh morning, sitting in the same courtyard, at the same table, staring at the same clay cup, Konrad made a decision.
+
+He stood up.
+
+The courtyard was full. The midday crowd had thickened, caravan men and mercenaries and a handful of Ashkeri off-duty in their white tunics, curved swords propped against chairs. Thirty people, perhaps forty.
+
+Konrad climbed onto his table.
+
+The clay cup wobbled. He steadied it with his boot.
+
+Heads turned.
+
+"I need a guide," he said. His Kumsuri was clumsy. He switched to Imperial and spoke loudly enough to carry. "I need someone to take me east. Past the settlements. Into the deep routes. I will pay."
+
+The courtyard watched him. A few faces showed amusement. Most showed the polite blankness of people waiting for the foreigner to finish embarrassing himself so they could return to their drinks.
+
+"Ten gold crowns," Konrad said.
+
+The gold crown was an Imperial denomination. Valuable. In the Sultanate, where Imperial currency circulated freely along the caravan routes, ten gold crowns would buy a house in the outer ring. A modest house, but a house.
+
+Some heads turned. Not many. Ten gold was serious money, but it wasn't dying-in-the-desert money.
+
+"One hundred gold crowns."
+
+The courtyard shifted.
+
+The growth was absurd. The kind of number that didn't belong in a bar in the caravan district, that didn't belong in the mouth of a man standing on a table with sand in his hair and a journalist's satchel over his shoulder. A hundred gold crowns was years of a guide's earnings. It was a family's future. It was the kind of money that bought land and livestock and the right to look your neighbors in the eye with the knowledge that your children would never be hungry.
+
+Eyes widened. Cups stopped halfway to mouths. At the back of the courtyard, two men leaned together and whispered. A woman in a merchant's headwrap turned fully in her chair.
+
+They wanted to see the next number. That was the thing about auctions. The audience stopped being observers and became participants the moment the numbers exceeded imagination. They weren't bidding. They were watching to find out how far the madman would go.
+
+Konrad saw it in their faces.
+
+He opened his mouth.
+
+"One thous—"
+
+"Done."
+
+The voice came from a table near the entrance.
+
+A young man stood.
+
+Twenty, perhaps. Perhaps younger. Dark-haired, lean, with the burned-brown skin of someone who had spent his life under the desert sun. His clothes were simple. Nothing about him suggested wealth or rank or the kind of experience that qualified a man to guide an Imperial journalist into territory where Titans walked.
+
+But his eyes.
+
+Konrad had spent years studying faces. He had learned to read the distance between what a person showed and what a person was, and the distance was usually measured in the eyes. This boy's eyes were old. The eyes of someone who had been tested and had not broken.
+
+The courtyard erupted.
+
+Three men surged to their feet, chairs scraping stone. Voices climbed. A heavyset caravan hand in a stained vest jabbed a finger at the young man and shouted something in rapid Kumsuri that Konrad couldn't follow. Another man, older, grabbed the first by the shoulder and pulled him back.
+
+The young man ignored all of it.
+
+He crossed the courtyard, weaving between the tables and the shouting and the hands that reached for his arm, and he stopped in front of Konrad's table and looked up.
+
+Konrad looked down.
+
+For a moment the two of them held the look.
+
+Konrad climbed down.
+
+He extended his hand.
+
+"Konrad von Ries," he said. "When can we leave?"
+
+The young man took his hand.
+
+"As soon as we spot the next Titan," he said.

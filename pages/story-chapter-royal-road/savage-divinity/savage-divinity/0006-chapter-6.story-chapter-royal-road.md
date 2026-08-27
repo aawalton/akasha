@@ -1,0 +1,59 @@
+---
+id: 71d8d874-fa15-5919-96a8-7af0bfc15bcc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6"
+slug: 0006-chapter-6
+partOf: savage-divinity
+position: 6
+ownLength: 1643
+unit: words
+publishedAt: 2016-03-11
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/58136/chapter-6"
+royalRoadId: "58136"
+---
+
+I've been crying a lot lately. I don't really understand why. During six months of hard labor, constant beatings, shitty food, and filthy living arrangements, I really only cried like once a day, before I fell asleep. Maybe twice if I got a particularly bad beating. Now, I break down into tears maybe 10 times a day, a statistic made more impressive by the fact that I spend most of the day sleeping.
+
+I mean, I'm finally free. I should be happy. No more beatings. No more mining. I've been rescued by a group of murder ninja tribesmen. I even managed to somehow convince them that I'm one of them, for them to take me in. And yet I cry over the smallest things. Yesterday, I spilled some water and just lost it. The day before, I started bawling when Charok started singing a sad song. Right now? I'm crying because I cry too much. Most of the time, I don't even know why I'm crying. Fuck, I'm useless like this.
+
+I can't even hide my tears. I'm literally tied to Alsantset. Under normal circumstances, I would be ecstatic to engage in some light bondage play with a gorgeous cat girl. Unfortunately, things are anything but normal. I'm tied to her because, aside from being too small to sit properly in the saddle, apparently, I also keep blacking out. She's afraid I'll fall off while we travel. Added to the fact that I'm all weepy, all the time, makes being tied to her extremely humiliating. I'm not into that sorta play. It doesn't help that she notices the crying and is trying to comfort me. She's very nice about it, but all it does is make me cry harder. Live Free and Cry Hard: The Story of Rayne.
+
+We stop riding at dusk, and everyone starts setting up camp. Alsantset unties me and makes sure I'm comfortably bundled in some blankets. She treats me really well. Don't cry. She also hurt Gortan for me. That brings a smile to my face. Stupid pig bastard. Wish I had a video. Or selfie with his corpse. Glad they're all dead. Those piggies didn't stand a chance. I'm glad they were able to experience how it feels to be powerless before they died.
+
+My rescuers are a scary, tribal looking bunch. They're all dressed in fur-lined leather vests and pants, metal plated leather gloves, hard boots, and round open-faced helmets. They have shirts made of some very colorful cloth underneath. Some don't wear anything under the vests, showing off massive biceps, pecs, and shoulders. The women are all fully dressed unfortunately. Some of the murder ninjas paint their faces, while others have their clothes adorned with various feathers, horns, and scales. I find them thoroughly intimidating.
+
+At least I didn't see anyone collecting ears, scalps, hands or anything like that, so they seem pretty civilized. Minus the murdering, but they did that for me, so they're A-ok in my book. I didn't see them use any magic at the mines, so I guess they're all muscle. Then again, the guards magic didn't save them from a vicious beating before murder. Stupid piggies.
+
+Bows seem to be their weapon of choice, with short-spears and knives close behind. They're a very diverse bunch, in skin color and animal type. Most have animal ears and tails, but a handful are human, like Charok. Most of them have an Asian cast to their features, but not all. There are a handful of sorta-European, like Baatar, and even a few maybe-African types. It's all almost familiar, with enough of a difference that it unsettles me. They're a very cheerful group, smiles and singing, but I'm a little wary of asking too many questions about them. I mean, I'm supposed to BE one of them, so I can't really ask about every little thing.
+
+Taduk comes over to check on my health. He's their bunny eared healer. If I had to make a comparison, he looks to be the mixed love child of an Indian-Chinese couple. Or maybe from one of those countries around China, close to the middle east. He's dressed differently from the others, pants and a really long shirt, almost a dress. It feels silky, but heavy, and warm. He let me touch his ears once. I didn't even ask, he just leaned forward and pointed. Told me he could use them to hear a mosquito fart from 20 paces. He's a funny guy. Plus, he made all my bruises go away. With magic! He just puts his hands over the injury, it fades away, and I feel better. I asked if he could teach me, but he just smiled and told me to get better first. I feel like I'm being humored. He mixes an herbal tonic for me to drink. He's made one every day so far. They are pretty nasty tasting, but I haven't coughed since yesterday, so it's probably working as well. Science! Or herbalism?! Whatever.
+
+After Taduk leaves, I watch Alsantset comb her roosequin, Suret. Although I haven't seen much of this world yet, roosequins are hands down my favorite discovery so far. The murder-ninjas use them as mounts, creatures that look a bit like giant bipedal otters, just the cutest things ever. About 2.5 meters in length from nose to tail, their large, muscular back legs let them carry heavy loads for long distances. A harness on their midsection puts a rider in a half kneeling position over their lower back, allowing you to either sit back in order to fight or lean forward and press up against their incredibly soft, fluffy fur. You control them by using pressure from your knees and calves, or with the reins attached to a bar that the roosequin holds in their tiny hands. They can even be trained to pull wagons and carts.
+
+The best part is how affectionate they are with their owners. Suret chirps and squeaks in contentment as Alsantset combs her, nuzzling into the brush. Roosequins are mountain dwellers, and could eat almost anything organic, from birds and rabbits to roots and bark, so feeding them was simple. Although they were slower than horses, they can run for much longer distances, and in much rougher terrain. I want one. I wonder if they can be house trained?
+
+I feel useless sitting around admiring the roosequins, so I get up and to try find some way to help out. Everyone shoos me away and tells me to rest, except for Charok. I think he understands how frustrated I feel. He hands me a knife and some odd-looking vegetables, and asks me to peel and chop them. He's a really great guy. A tall, hairy, sorta Asian, with a big smile and kind eyes. Really light brown and almost glowing eyes, but kind. Loves telling stories, most of them about him and Alsantset. He starts telling a story about how he stopped in the middle of a fight to bring flowers to her. He's so ridiculously in love with her, it's heartwarming. And a little nauseating. I wipe my tears and settle down, letting my mind focus on peeling and chopping.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I sit close to the fire next to Baatar, while we eat our dinner. It's delicious as always, grilled meat, some roasted vegetables, and some soup with grains in it. I cried during my first meal with them. I'd forgotten the taste of anything but brown slop. Spices seem to be used commonly here. Unless Charok is using spices because I'm here? I'm such a burden. Fuck, I've started crying again.
+
+I look at Baatar to try to figure him out. He's the boss-man around here. O Captain, my Captain. A tall, densely muscled, 30 something wolf-man, with close-cropped silver hair, and blue eyes that scare the crap out of me. A veritable Adonis. He gives off a very no-nonsense vibe, walking around, straight-backed, tight-laced, and eyes that are always glaring. When he smiles is the scariest. Like you're a meal he found, and he is starving. I have no idea why he saved me.
+
+He isn't all bad though. Around meal times, when the food is almost ready, Baatar will appear out of nowhere, with the same taciturn look as always. His tail gives him away though. It wags furiously around mealtimes. No one says anything about it, but everyone who sees it smiles. I don't know if the silence is due to respect or fear, but it's probably both.
+
+“How are you feeling, boy?” Baatar always speaks slowly and quietly to me, like I'm retarded.
+
+“Much better than yesterday. I haven't been coughing.”
+
+“Good, good. Good.” Same dialogue every day, same wolfish smile. Baatar stands up to leave.
+
+“I haven't properly thanked you.” He turns to me with a quizzical look. “For saving me. Just thank you so much. I don't know how to ever repay you, and everyone else, for just how much you've done for me, but I will, even though I'm so useless. For feeding me delicious food, and giving me warm clothes, and helping me so much, with the slavers and...” God dammit, I'm going to cauterize my tear ducts.
+
+Baatar stands around for some time while I cry. After I calm down a bit, he speaks.
+
+“Look me in the eyes boy. Know what I say for truth.” I look up at him timidly. Is he gonna yell at me for crying so much?
+
+“There is no need for thanks or repayment. You are one who was lost to us, and now you are returned. All we have done is right what is wrong. In two days, you will be home. There, you can begin healing. Rest easy.” His smile isn't so scary this time.
+
+I give up though. I don't think I'll ever stop crying.

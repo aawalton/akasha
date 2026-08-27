@@ -1,0 +1,65 @@
+---
+id: 306eb0df-7487-5f4b-9267-2cd7a29fb667
+page-type-slug: story-chapter-royal-road
+title: "Side Story 01"
+slug: 0159-side-story-01
+partOf: savage-divinity
+position: 159
+ownLength: 1373
+unit: words
+publishedAt: 2016-12-23
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/108992/side-story-01"
+royalRoadId: "108992"
+---
+
+Stirring in her warm blankets, Lin-Lin snuggled deeper into her pillow as she tried to ignore the steady knocking at the front door. After spending months living with Mi-Mi while Daddy was out playing mercenary, Lin-Lin had forgotten how soft and comfortable her own bed was. Between Mi-Mi's sleep-thrashing and Nai-Nai waking them early each morning, Lin-Lin just wanted to spend all day lazing about in bed.
+
+The knocking continued at an irregular rate, waking Lin-Lin every time she almost drifted off to sleep. Finally unable to ignore it any longer, she mewled piteously as she slipped out of bed and made her way out, her face peeking from her blankets wrapped firmly around her. Flicking her hair and ears out of her face, she extended a single arm out into the chilly air and cracked open the front door, squinting in the bright afternoon light at her shadowy, persistent visitors. “Hi. Daddy is still sleeping, so unless this is an emergency, please go to the Sentinel office and find the healer on duty. If this is a social visit, please come back later. Sorry and thank you.”
+
+“That lazy, slack-jawed, long-eared...” A brown-haired sister with lovely, white-tufted tiger ears kept Lin from shutting the door, mumbling rude things about Daddy under her breath. It didn't matter if they were mostly true, Lin-Lin still didn't like hearing people talk about Daddy like that, he was the best. Leaning over as she slowly forced the door open, the sister smiled toothily, her brown eyes twinkling in the light. “You must be little Lin, your Papa told me so much about you. I'm Alsantset and this is little Rain. He is to be your fellow student in herbalism and today is supposed to be his first day of lessons. We brought lunch, may we come in?”
+
+Without waiting for an answer, Alsantset marched past and strode into Daddy's bedroom, leaving Lin-Lin holding the door in confusion. Peering around it, her eyes widened at the sight of a young boy hiding behind a stack of boxes, the delicious scents of fresh buns and roasted duck overpowering her concern at Daddy's cries of distress. Stomach rumbling, she opened the door even further and waved the boy in, hopping from one foot to the other. “Ah, come in and put the food on the table, I'll be out to help after I change.”
+
+Rushing back into her room, Lin-Lin threw aside her blankets and changed out of her night-clothes and threw on a tunic and scarf before quickly brushing and braiding her hair. Daddy's new student, the little foundling, was the talk of the festival yesterday, but he'd disappeared soon after the ceremony, ushered away by the lovely big sister Alsantset and her handsome husband Charok. No time to waste, food was best eaten hot and she wanted to learn more about him. Scampering back out, Lin-Lin leaped across the room to land lightly beside him as he set the table. With her brightest smile, she tapped him on the shoulder and introduced herself. “Hi, I'm -”
+
+Jumping away with a yelp, the boy brandished his chopsticks before him like a weapon, eyes wide as he pressed against the walls, breathing in short, panicked gasps. Stepping away from him, Lin-Lin squirmed in place, unsure of what she did wrong, biting her lip as she clutched at her scarf.
+
+After a few moments, the boy calmed and lowered his arms, tense and shivering all over. “Um, sorry if I scared you,” he said in a whisper, the chopsticks clattering on the table as he unclenched his fist. “You surprised me. I'm Falling Rain, it's er... nice to meet you?” Busying himself with setting the table, he seemed flustered and embarrassed by his reaction, unwilling to look her in the eye.
+
+“I'm Mei Lin.” Gingerly stepping beside him, she giggled to herself as he stepped away, hurriedly working as he fled. He was so silly, she'd never met anyone afraid of her before. Taking another step towards him, she was delighted when he remained in place, craning her neck to the side to better study him. A gaunt, drawn face greeted her as he turned his head away, his brow furrowed and lips pursed in a grimace, pretending not to notice as he worked. He smelled strongly of medicine, and with black hair, olive skin, and amber eyes, he had all the markings of a full-blooded Bekhai, a short, broad-shouldered, under-nourished young boy.
+
+Her curiosity piqued, she began peppering him with questions. “How old are you?”
+
+“Um... Twelve.” His mumbled reply was barely audible.
+
+“I'm eleven. How did you meet Daddy?”
+
+“Baatar found me.”
+
+Not very talkative. Pressing on, she tried a different tack. “Where are you from?”
+
+“Er... East of here, I guess?”
+
+Getting answers from him was like pulling teeth, how frustrating. “East like the Bridge? Further east than that? Or less?”
+
+“Dunno.”
+
+Puffing her cheeks, Lin-Lin frowned at the tight-lipped Rain, trying to make sense of things. Maybe he was just shy. Before she could continue pressing him for answers, Daddy entered the dining room and sent Rain to see Alsantset out, rubbing the sleep from his eyes as he prepared a pot of tea. “Now Lin-Lin, my sweet girl, you remember what I said? I want you to be good friends with little Rain, he's been through some troubling times and could use a friend his age.”
+
+“Yes Daddy.” Running up to hug him, Lin-Lin buried her face in his robes, taking in the relaxing scents of lavender and sage. He'd been gone for six months, the longest they'd ever been separated, and she'd missed him terribly. Now that he was back, all he talked about was his new student and she couldn't help but feel a little jealous. Rain's a good boy, get along with Rain, Rain this and Rain that, why not ask about his own daughter?
+
+Turning to the table, she saw Rain seated in her chair, his back to the wall as he gawked around at the room. Giving Daddy her most pitiful glance, her efforts earned her a disapproving frown as he shook his head, gesturing for her to sit elsewhere. Stomping to another chair, she slumped in her seat and sulked, staring at the far-off dumplings she couldn't reach. As Daddy sat down and motioned for them to eat, she watched as Rain's chopsticks reached into the bamboo steamer and plucked out a yummy dumpling, dipping it lightly into the chili oil and vinegar, almost drooling as it made its way across the table.
+
+Only to be placed gently in her bowl.
+
+Still averting his eyes, Rain smiled sheepishly and nodded towards the table, as if to ask if there was anything else she wanted. Lighting up, she grinned and pointed at the steamed buns as she chomped down on the fragrant, soup-filled, minced meat and green onion dumpling. “Mmm, so delicious! Did you make these?”
+
+Piling more food into her bowl, even the things she could easily reach, Rain shook his head. “No, Charok did, but I'm learning. He mentioned that Taduk doesn't know how to cook, so maybe in a few weeks, when I'm good enough, I'll cook lunch and dinner for you two every day.”
+
+Too happy to answer, Lin-Lin bit into a bun and closed her eyes as she chewed, hand to her cheek as she savoured the taste. If Rain learned to cook half as good as Charok, then life would be spectacular. She didn't like eating with the neighbours, they were all so stuffy and uptight around Daddy. A nice, intimate family meal with a comfortable atmosphere, this was just like eating at Mi-Mi's house.
+
+Studying him from the corner of her eye, she happily accepted his assistance, eating everything he placed in her bowl. She didn't even have to speak as he busied himself feeding her, a timid smile spreading on his face. He wasn't so bad, a silly, skittish older brother to spoil her. If he was going to be Daddy's student and her new friend, then he needed a nickname. Ignoring Daddy's disapproving look, she held out her bowl with a toothy smile.
+
+“Soup please Rainy.”
+
+This really was the best.

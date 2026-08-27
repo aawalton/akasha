@@ -1,0 +1,247 @@
+---
+id: 09634493-42d5-52c2-98e7-b2c49ba83278
+page-type-slug: story-chapter-royal-road
+title: "Chapter 733 - Duel Dilemma"
+slug: 0734-chapter-733-duel-dilemma
+partOf: mythrans-master-of-all-continued-completed
+position: 734
+ownLength: 3160
+unit: words
+publishedAt: 2018-10-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/298936/chapter-733-duel-dilemma"
+royalRoadId: "298936"
+---
+
+Notice!
+
+PvNPC Mode: Display Duel has ended.
+
+Rewards: Respect +12,000
+
+Bonus: Tatya Tibaido's Personal Adoration
+
+No one moved or spoke as the duel came to an end and Ren dismissed the popup. Tatya's arms and legs were still wrapped around him and Ren held her tenderly as they stared at each other from barely an inch away. Ren thought he could feel her vibrating slightly and he could hear a low rumbling from her. He wasn't sure what it was, and thought about it for the several minutes that it took for Tatya to recover her composure.
+
+The other people in the room were in various states of sexual desire, thanks to Tatya's very strong emotional release, especially Princess Diana. Everyone's faces were flushed slightly red and the women waved hands in front of their faces to try and calm down.
+
+When Tatya recovered her Stamina enough and her emotions shifted back to their reserved state, she unwrapped her legs from around his waist and he helped her stand up. She was a foot taller than him and her eyes never left his as she started to slide her arms from around his neck. Ren quickly tied her tunic back up to cover her before she could step away and kept looking at her while he did it. She glanced down at what he did without looking at it and then looked at his face in surprise.
+
+Ren leaned close to whisper. “Just because you have a bodysuit on, doesn't mean you want everyone to see you in it.” He smiled. “Especially now.”
+
+Tatya's face went slightly red and she nodded. Ren dismissed the Respect popup and she stepped back, and he equipped his fancy blue suit and Dire Wolf Hooded Cloak again and stored the armored bodysuit to clean it. It wasn't that big of a wet spot; but, he couldn't assume that she wouldn't be embarrassed by it, so he had taken the safer option and hid the evidence.
+
+The magical barrier faded away and a collective sigh was heard from the representatives. Ren and Tatya bowed to each other, dismissed the popups, then walked over to where Princess Diana and Kenkoth Zaerepis stood.
+
+“Once again you impress me, King Ren.” Kenkoth said as Tatya walked over to stand beside him and the other representatives moved off to mix and mingle with the rest of the crowd, where they had been before the duel, and used their abilities to help calm them.
+
+“I believe it is I that is impressed, Representative Zaerepis.” Ren said and glanced at Tatya. “Even though I thought I had the upper hand the whole time, she manipulated me quite well. I nearly lost just from my surprise at the change in her tactics.”
+
+Kenkoth laughed. “Yes, she's very versatile in her deduction skills and her execution of special techniques can be useful in nearly every situation.”
+
+Ren heard something like choking underneath the man's laughter; but, he didn't know why. His Etiquette skill stopped him from asking about it, however. Artemis stepped over to him and mirrored where Tatya stood beside and slightly behind Kenkoth.
+
+Diana had watched the whole thing, and she couldn't believe it had happened right in front of her. She hadn't felt everything, since her ability wasn't at a high enough level for that yet; but, she did feel a lot of what Ren experienced because his Aura was so strong.
+
+“I don't understand what just happened.” Diana admitted, and her emotions swirled all over the spectrum because she didn't know how she should feel. “Did they just... right in front of us?”
+
+Kenkoth turned to her with a small smile. “I told you it was a test of skills.” Kenkoth said. “When Tatya couldn't land a single hit with sparring, she changed her attack and almost managed to subdue her opponent.”
+
+“But... they...” Diana's face turned slightly redder. “I can't believe...”
+
+Kenkoth smiled. “That is also a form of fighting.” He said. “A contest of wills, if you like.”
+
+Diana blinked her eyes for several moments as she thought about that, and thought about how her own contest of wills might go against Ren. Her face turned to a brighter shade of red at those thoughts, even though he had just done what he did to another woman, right in front of her. She tried to regain her composure, and then she felt her father's Aura as he approached. Her composure snapped into place automatically and her face returned to its natural color.
+
+Ren felt and saw her reaction to King Alamast's movement through the castle towards the reception area and he took a step to the side to make sure that he was in clear view and not too close to Diana, and turned to look at the entrance to the room. Kenkoth and Tatya turned slightly as well.
+
+Diana noticed the representatives shift their stances, then turned herself. Can they feel him, too?
+
+King Alamast entered the room with Lady Eleanor on his arm and slowed his pace as he saw Ren stood about 6 feet away from his daughter, and everyone felt him relax as he smiled.
+
+“I wonder what he thought he was going to see.” Teepo chittered in laughter.
+
+After the emotions Tatya and I let loose? Ren thought in amusement, because he could feel that a lot of the women were still trying to recover from it. He probably expected to see us all sprawled out and naked on the floor.
+
+“Can you imagine if that happened?” Teepo chittered in delight and Artemis covered her mouth to stop her smile.
+
+Ren quickly glanced at Tatya and caught her glancing back at him, so he winked at her. She let a small smile out and diverted her gaze back to King Alamast.
+
+“Representative Zaerepis.” King Alamast said as he stopped five feet away. “Thank you for gracing us again with your august presence.”
+
+“I believe enjoying breakfast with Princess Diana on her special day was worth delaying our departure.” Kenkoth said, and Ren felt how flattered Diana was to hear that. “In fact, we've arranged a small demonstration in her honor.”
+
+Kenkoth's hand made a small motion and two of the representatives excused themselves from where they were and moved to the middle of the room. Everyone turned to watch them and a moment later they were covered in a magical barrier and started to fight.
+
+Unlike Ren's duel, these fighters made it a show to amaze the spectators. Punches and kicks were exchanged in equal measure and the crowd let out oo's and ah's at the right times. They blocked some moves and parried others, and made it look like a real fight. One fighter tried to do a leg sweep and the other jumped and lightly kicked him in the chest. The other fighter grunted and fell onto his back, then his opponent jumped on him and grabbed the tunic around his neck as he pressed his elbow into his opponent's throat.
+
+His opponent tapped the fighter's arm to give up, and as they stood, they were met with a round of applause. The magical barrier disappeared and the fighters bowed to each other, then to Kenkoth. Kenkoth clapped his hands once and the fighters moved back to where they had been before.
+
+“That was wonderful.” Lady Eleanor said and clapped her hands slowly several times. “Quite enjoyable.”
+
+“Thank you, Your Highness.” Kenkoth said, and then he turned his head slightly when he felt a spike of annoyance. One of the fighters had stopped walking and came back over to the middle of the room, then continued over to stand 11 feet away from Ren.
+
+“Meccis.” Tatya said in a warning tone.
+
+Meccis gave her a glance and saw her shake her head. “He didn't give us Respect.” He said and looked back at Ren.
+
+“Now is not the time to discuss...”
+
+“I didn't break any kind of protocol.” Ren said in his defense.
+
+“It's expected that...” Meccis started to say.
+
+“I believe Respect needs to be earned, not given away.” Ren said.
+
+“We worked hard to...”
+
+“It was a show, nothing more.” Ren countered before he could finish. “If you fought for real, or even used half of your abilities, I would have given you some Respect.” He said. “You barely ruffled your tunics with the love taps you were doing.”
+
+“Love taps?” Meccis asked, confused.
+
+“Punches or kicks you do so there is no chance of hurting someone or being hurt in turn.” Ren said. “Allow me to demonstrate.”
+
+Everyone watched wordlessly as Ren quickly stepped forward across the 11 feet between him and Meccis in an instant and swatted the fighter on the arm, thigh, chest, calf, and forearm... which were the exact places he and his fighting opponent had hit each other. It had happened so fast that everyone was surprised, even Meccis.
+
+“I suppose you could have done better.” Meccis said with a bit of a sneer.
+
+“Tatya and I did do better.” Ren said and he heard her gasp at the Respect she earned. “It wasn't as impact intensive, since I didn't want her hurting herself by actually letting her hit me.” He smiled. “At the end when she distracted me and took advantage of it, though...” The smile vanished like it hadn't happened and Ren squinted his eyes. “None of you gave us Respect for that fight.”
+
+“It was only a display duel.” Meccis said, dismissively.
+
+“Yours wasn't even a duel.” Ren said, and he felt Meccis change his emotions to anger. Rather than react to that, Ren stood still and saw Meccis smile as he formed a fist and quickly jabbed Ren with an uppercut. No one moved and several people winced at the sounds of bones breaking, and Meccis pulled his mangled hand away from Ren's chin and his head hadn't moved at all from what everyone thought was a surprise punch.
+
+“I'm glad you have tough skin.” Ren said without looking at the mangled hand. “Blood spray can be messy from multiple broken bones.”
+
+One of the other representatives came over to Meccis and examined his hand. “This... I can't heal this.”
+
+“You're our experienced healer.” Kenkoth said, slightly angry.
+
+“My Mana is limited after...” The man stopped talking and Kenkoth sighed.
+
+“I can help with that.” Ren said, and they all looked at him.
+
+“Are you a healer?” The representative healer asked.
+
+“Yes, but he won't let me touch him.” Ren said and motioned to Meccis. “He thinks I tricked him and broke his hand with a spell or something.”
+
+The other representatives felt this was true and Meccis didn't deny it.
+
+“Then how...”
+
+Ren took out one of his Bracelets of Magical Boost and gave it to the healer. “Equip that.”
+
+The healer did and everyone felt his shock at what the bracelet did.
+
+“Use this, too.” Ren said and handed him a Level 5 Major Healing wand with 50 charges.
+
+“Y-you... t-this... wh-what...” The healer stuttered.
+
+“Ignore the shock for now and heal your patient.” Ren commanded him.
+
+The healer nodded and his shock faded as he used one of his abilities to form the mangled hand back into its proper shape, which was something Ren hadn't seen before, then the healer used several charges on the wand to heal the hand back to its normal state. Meccis made a fist with the hand and looked at Ren with disdain.
+
+“Go ahead and challenge me.” Ren said. “We can all feel that you want to.”
+
+“I challenge you to a duel of submission.” Meccis said and smiled.
+
+“Well, this won't last long.” The healer said, because he knew that Meccis was the best at submission techniques and stepped back.
+
+“If you become unconscious, that counts as well, right?” Ren asked, and he nodded. “Then I accept.” He said and dismissed the duel popup. The magical barrier formed around Ren and Meccis, and Kenkoth waved a hand to start the fight. Neither Ren nor Meccis moved, and then Meccis' face turned blue after a few seconds and he collapsed to the floor, unconscious.
+
+“Th-the winner.” Kenkoth said and pointed to Ren.
+
+The magical barrier disappeared and everyone felt the air around them being sucked away and their clothing rustled in the wind. Ren smiled as he dismissed the duel ending popup, since he didn't gain anything from it, and he stopped using his Absorb Wind ability. The air stopped being sucked away and all of the representatives stared at Ren, except for the healer. He tended to Meccis and healed his collapsed lungs.
+
+“What just happened?” Lady Eleanor asked.
+
+“A tricky and underhanded elfling overpowered one of the fiercest submission fighters from the Pevaria Kingdom without lifting a finger, Your Highness.” Ren joked and grinned. “Who would have thought that would ever happen?”
+
+No one said anything, and then Ren felt a twinge in his chest and the mark there glowed slightly. He took out the All-Seeing Mirror and checked on Nathalia, and saw that she was sitting up in bed and had both healers and Erika at her bedside.
+
+“You will have to accept my apologies for leaving so soon.” Ren said and stored the All-Seeing Mirror as he walked over to Artemis and Princess Diana. “It seems my second child is coming and I want to be there for the birth.”
+
+“Your.. second... WHAT?!?” Diana yelled and he chuckled.
+
+“The Deity of Fire was my first born.” Ren said.
+
+All of the representatives from the Pervaria Kingdom froze solid and stared at him.
+
+“You're going to share a birthday with my child, Princess Diana.” Ren said and took her into his arms, and everyone felt his happiness at the news, and then he kissed her.
+
+No one knew how to react to the breach in social protocol, except for Diana. She wrapped her arms around him and kissed him back in earnest. They stayed that way for several moments, and then Ren broke the kiss.
+
+“Happy Birthday!” Ren said and let her out of the embrace. He felt a spike of desire from Tatya and walked over to her. She braced herself as he approached, and he reached a hand out to her, palm down. “Tatya, it was a pleasure to meet you, and I sincerely hope I can come and see you sometime.”
+
+“I would like that, King Ren.” Tatya said and took the hand. She bent over it and took in a long sniff, then let the hand go.
+
+“Please, call me Ren.” Ren said and took her hand in turn and did the same thing. She smiled at him, and Ren gave her a slight nod and let her hand go, then he held a hand out to Artemis. “We need to go.”
+
+“I can feel it.” Artemis said and took his hand. “It's going to be soon.”
+
+Ren nodded and cast the Portal spell to go to the apartment in the Main House.
+
+“Ren!” Teepo exclaimed in the voice only Ren could hear. “What about the monocerus?”
+
+“Oh, right!” Ren said and turned back to Tatya. “You wouldn't happen to know of a place called Staibel, do you?”
+
+“Of course I do.” Tatya said. “It's a province in our kingdom.”
+
+“That's great!” Ren said, happily. “Do you have any unicorns there?”
+
+“Uni-what?” Tatya asked, and he felt her confusion.
+
+“Oh, sorry. I meant monocerus.” Ren said and felt her recognition. “Do they exist?”
+
+“Yes, there are lots there.” Tatya said, and she caught her breath at Ren's ecstatic emotions as he received the popup to return to Malenka, in order to complete the quest she had given him before he had left the dwarf lands so long ago.
+
+“If I may impose on you for a moment.” Ren said and took out the All-Seeing Mirror. “Can you put your hand on this and remember the last time you saw monocerus in that province?”
+
+Tatya closed her eyes and remembered the last time she had seen them, and the All-Seeing Mirror changed to show a wide pasture and 6 unicorns. Ren took out a large piece of parchment and reproduced the image, which made several people around them catch their breath in surprise.
+
+Ren dismissed the quest popup and stored the mirror and parchment, then gave Tatya a quick kiss. “Thank you very much.”
+
+“You're welcome.” Tatya said, and Ren liked that she wasn't flustered by the kiss, and she liked that he liked it.
+
+“Come on! Let's go!” Teepo exclaimed.
+
+Ren turned to Princess Diana and walked backwards towards the portal. “Bye! I'll come back and show you pictures of the baby!”
+
+Diana waved to him, then Ren stopped walking and locked gazes with every single one of the representatives of the Pervaria Kingdom and ended with Kenkoth.
+
+“That's twice now.” Ren said. “None of your people gave me Respect for my duel with Meccis or with Tatya.”
+
+Ren felt their shock and he gave them a teeth-baring grin. “You're lucky I'm busy, or just like Meccis, I would challenge you all to a fight over the perceived insult.” He said, then he and Artemis stepped through the portal and it disappeared.
+
+“Why did he warn us?” Tatya asked.
+
+“So we can prepare ourselves to say no.” Kenkoth responded.
+
+“Wh-what?”
+
+“You saw what he did to Meccis in only a few seconds.” Kenkoth said.
+
+“That wasn't deserving of Respect.” Meccis said, fully recovered. “He didn't prove his fighting skill at all.”
+
+None of the representatives said anything in response, because Ren had shown that he didn't have to fight at all.
+
+The healer stepped over to Kenkoth and held out the wand and the bracelet Ren had given him. “What do I do with these?”
+
+“Until he returns, you should keep them.” Kenkoth said.
+
+“He won't take them back even if he does return.” Diana said and they turned to look at her. “He gave them to you, so you should use them.”
+
+The healer looked at her with wide eyes. “But...”
+
+“He knows you will use them to help people.” Diana said. “He would be insulted if you didn't keep them or tried to give them back.”
+
+“I... all right.” The healer equipped the bracelet again and stored the wand. “At least the wand should last a while before the charges run out.” He said and started to walk away.
+
+“They won't run out.” Diana said.
+
+The healer stopped and his head whipped around to stare at her. “Wh-what did you say?”
+
+“It's rechargeable. Just add some Mana to it and it will refill the spells.”
+
+A hush fell over the room as the healer took the wand back out and poured a little bit of Mana into it and the wand refilled the few charges he had used out of it.
+
+“Good god.” The healer said and held the wand as if it was the most expensive thing in the world.

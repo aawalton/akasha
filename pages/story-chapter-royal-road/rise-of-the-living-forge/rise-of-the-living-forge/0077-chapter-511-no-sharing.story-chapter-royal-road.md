@@ -1,0 +1,105 @@
+---
+id: 23c5d3bc-7e14-5dee-85d8-6ef520b4d8c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 511: No sharing"
+slug: 0077-chapter-511-no-sharing
+partOf: rise-of-the-living-forge
+position: 77
+ownLength: 1551
+unit: words
+ownProgress: 1551
+publishedAt: 2025-11-04
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2731888/chapter-511-no-sharing"
+royalRoadId: "2731888"
+markedReadAt: "2026-06-29T20:00:53.780Z"
+---
+
+Arwin returned to the Infernal Armory with a pile of black metal chunks clutched in his arms like a chunky, malformed baby. A very heavy one. One with a lot of sharp edges and layers of dirt caking it from where it had been embedded within the wall of a dungeon.
+
+Okay. Not really a baby at all.
+
+Arwin stepped through the main door, breathing out a small sigh of relief as it closed behind him with a thud. The droning roar of the crowd behind him evaporated like someone had just turned the sound off.
+
+He didn’t have anything against the crowds. There were just a few too many people and he’d already had his fill of interaction with non-Menagerie members for the day. Prying himself away from the group of adventurers he’d delivered Lillia’s food to had drained him more than he'd expected.
+
+It feels so odd to realize that there are so many people coming to Milten largely because of us. It isn’t even directly our fault anymore. The increased adventurer presence means more people getting killed in the dungeons, and that means more powerful dungeons — which means more adventurers.
+
+It’s a slippery slope… and we’re a lot farther down it than I thought. That group literally went to the dungeons in hopes of using Reya or Olive to help them clear the boss fight. I suppose that’s factored into Lillia’s pricing and it’s getting the girls experience and magical energy… but I don’t think that was the spirit of the delivery service.
+
+I’m sure Lillia has some plan there, but I should go let her know what’s going on after I drop this Nightiron off with the Armory.
+
+Arwin ambled toward the back room bearing the load of metal in his arms. His thoughts spun as he walked, already several steps ahead of his body. There was still enough time left in the day to finish Rodrick’s armor.
+
+If he didn’t get it done today, then there was a good chance it would have to wait until after their plot with the Blacktongues and the hidden vault was completed. Who knew how long that would take — or when Rodrick would return from his Sunsetting.
+
+Best to get it done today if I can.
+
+Arwin pushed the door open and stepped into the back room, his mind still distant. He barely paid any attention to the door closing behind him as he made his way over to the nearest wall and held the metal out.
+
+“Delivery,” Arwin said through a yawn. “Hold onto this for me while I go pay Lillia a quick visit, would you? I have to tell her something.”
+
+The wall rippled. A hole formed in the stone and a shelf extended from within it. Arwin dropped the metal down upon it with a heavy thunk, then started to turn back toward the door.
+
+“Tell me what?” Lillia’s voice came from behind Arwin.
+
+He nearly choked, spinning toward her and managing to catch himself before he tripped over his own feet.
+
+Lillia leaned against the far wall of the room, her arms crossed before her chest and a small grin playing across her lips.
+
+“Shit,” Arwin breathed, letting out a laugh. “What are you doing here, Lillia? You nearly scared the life out of me. I thought you’d be busy in the Den. How long were you standing there waiting for me to show back up?”
+
+“Not that long, but I did have to rush into position when you walked in,” Lillia admitted with a small grin. She pushed away from the wall and walked over to him. “And I was busy. But Thane decided to swing by and give me some advice at the behest of the devil he now has sitting in one of the swords you made him.”
+
+Arwin started to nod. Then he paused, blinking in confusion. “He what now? A devil? In my swords? I’m pretty sure I didn’t put any such thing in there.”
+
+“Seems that can be blamed on Esmerelda,” Lillia said. She shook her head. “I wouldn’t get too concerned about it quite yet. I asked Thane about it and he nearly handed me an entire book on the contract he made with the poor thing. If you want to go digging into that, be my guest.”
+
+“Did he seem safe?”
+
+Lillia sent a flat look at Arwin. “What do you think? Would I really just be sitting around doing nothing if I thought he was in danger? The sword seems… well, I don’t think it’s going to put him in any immediate danger. He told me what it wanted.”
+
+“And what was that?” Arwin asked, his brow furrowed.
+
+“Apparently, to give me relationship advice,” Lillia said dryly. “He pointed out that we haven’t had a chance to spend much time together recently and that meeting more often to take a break from only working on our individual projects would be a good change of pace that made us more efficient in the long run.”
+
+“I… huh. That seems like pretty good advice, actually,” Arwin admitted. “Why is…”
+
+“A devil giving it?” Lillia finished. She shrugged. “I have no idea. Thane seemed pretty bemused about it as well. But we’ve got weirder among our number. It seems Esmerelda finally managed to find Vanessa. She’s in the Devil’s Den… but that can wait. I think I’m partial to following the devil’s advice.”
+
+“Words that may have never been spoken before,” Arwin said with an amused huff. “Not that I disagree. This isn’t going to cause you any trouble, is it? I’d hate if I somehow messed up your—”
+
+“Arwin, my kitchen practically runs itself at this point,” Lillia said. “I’m only needed there for advancing its progress. New recipes, that sort of thing. I only get magical energy for food I make with my own hands. But, aside from that, my kitchen is fully capable of running itself with only the supervision of the Devil’s Den and my will.”
+
+“Damn,” Arwin said. “You’ve gotten a hell of a lot better at getting it all automatic. That’s impressive.”
+
+“I am an impressive woman,” Lillia said. She glanced down at the metal on the shelf beside Arwin. “So… care to tell me what you’ve been up to yourself? Is that the metal you needed for Rodrick’s armor?”
+
+“Yeah,” Arwin said. “I was originally planning on finishing it up today. Wanted to get it done before the trip and all the shit with the Blacktongues. But if you’re here… well, I’ll let Wallace and Koyu know to take some time off. I — wait. Speaking of them, where are they?”
+
+“I sent them to take a break,” Lillia replied, a grin flitting across her lips. “In the Devil’s Den. Wallace was more than happy to oblige so long as he got to try some of the newer spirits I’ve been working on — and you know how Koyu is. He was gone before I finished speaking.”
+
+“Fair enough,” Arwin said with a snort. “Well, in that case, consider my schedule freed. I am at your service. Rodrick has waited this long. He can wait a bit longer. Some things are worth the delay.”
+
+“There’s no need to make Rodrick wait at all, though,” Lillia said.
+
+Arwin blinked. “What? I thought—”
+
+Lillia gestured to the metal. “I like Rodrick as well, you know. Doing something together doesn’t mean we can’t be productive. Making him some armor for him as a present for his successful return is a sweet gesture. We’ve made items together before, so why not do it again? I want to help.”
+
+“You want to smith?” Arwin asked, blinking.
+
+“Well, it was that or I was going to suggest cooking something together… but I’m not letting you into the kitchen until you take a bath, and I don’t think that’s happening anytime soon. You’re going to need the bathroom entirely to yourself when you use it,” Lillia said, scrunching her nose.
+
+Arwin gave her a sheepish grin. “Ah. Right. Sorry. Is it that bad? I was just out fighting, and—”
+
+“Not the smell,” Lillia replied. “You just smell like soot and magma. That’s pretty normal. Not a major deal so long as it isn’t in my kitchen. You’re not allowed in the bathhouses right now because there are other people using them — and I’m not sharing you.”
+
+Arwin’s cheeks reddened and he hurriedly coughed into his fist. “I — uh, right. Noted.”
+
+Lillia’s lips twitched. “So… can I help make something or not?”
+
+“I’m not going to say no to that. I’m sure Rodrick would be thrilled to know you helped, and compared to the normal company I have when I’m working… well, you’re definitely preferrable. Just don’t tell them that,” Arwin replied, grabbing a chunk of Nightiron from the table behind him. “I was just getting this to get started on the armor.”
+
+“Yeah. I read the draft you made,” Lillia said, nodding to the sheet on the wall. “It looks good to me. Conceptually, at least. I don’t have the faintest idea to pull it off… but if you tell me what how I can help, then I won’t let you down.”
+
+Arwin grinned. “I know you won’t. Let’s make Rodrick some armor, shall we?”

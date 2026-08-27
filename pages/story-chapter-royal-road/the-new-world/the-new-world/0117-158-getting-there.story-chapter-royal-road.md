@@ -1,0 +1,273 @@
+---
+id: 38c07f3f-8c5b-53d5-8271-a75e0a81141a
+page-type-slug: story-chapter-royal-road
+title: "158 Getting There"
+slug: 0117-158-getting-there
+partOf: the-new-world
+position: 117
+ownLength: 3178
+unit: words
+ownProgress: 3178
+publishedAt: 2018-11-05
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/304177/158-getting-there"
+royalRoadId: "304177"
+markedReadAt: "2026-06-29T21:25:00.072Z"
+---
+
+Kessiah growled as she charged Caprika. With an unnerving calm, Caprika stood back and waited. Kessiah's footsteps crushed the stone beneath her feet, her movements explosive. As Kessiah reached Caprika, the remnant launched a right haymaker at Caprika's face.
+
+The princess channeled the air by raising an arm. An invisible torrent cut through one of the tendons in Kessiah's wrist. The hand went limp, unable to function. Caprika grabbed the weak arm, slinging Kessiah overhead. The shoulder dislocated while the impact shattered the marble floor.
+
+Kessiah lost her breath, gasping out a bit of blood. Caprika clasped a clawed hand right in front of Kessiah's face, pulling air out of her lungs. Kessiah gasped, reaching out her arms. Her chest sunk inwards, decompressed from the air magic.
+
+I frowned, taking a step forward, "Oof. That was worse than I thought."
+
+Torix put a hand on my chest, "Give her a chance. It's not dangerous just yet."
+
+Kessiah scrambled for a second longer before grabbing her weak arm. She shoved it back into her shoulder socket. She opened up her dimensional storage ring. A pillar of air flew out at of the portal, my ears popping from the pressure change of the room. It let Kessiah breath for a second.
+
+Caprika reached towards Kessiah's face again. Kessiah lunged up, biting into the claws of Caprika. The princess gripped her hand, digging her nails into the flesh of Kessiah's mouth. Kessiah gritted her teeth, grabbing Caprika's arm.
+
+The albony warrior spread out her other hand. Mana rippled through her mane of hair, lengthening the strands. Much like Amara, her hair moved. Unlike Amara, they solidified into white blades. Sharper than steel, an edge of hair stabbed at Kessiah.
+
+Before it sunk in, the remnant released Caprika's fingers. Caprika stumbled back since she was still pulling her arm away. The fur sword sliced six inches into the marble floor, cutting Kessiah's cheek. Kessiah grinned as she pulled herself up and dashed towards Caprika.
+
+Caprika fell onto her back and pushed her hands at Kessiah. A pillar of air pushed the albony back. While on the ground, she sliced the hair blade at Kessiah's kneecap. The blade cleaved into Kessiah's left kneecap, causing her to fall over. Caprika rolled up onto her feet.
+
+Caprika dashed towards Kessiah, whipping a portion of her fur behind her. Mid-swing, the hair hardened into a giant blade. It would rive Kessiah in two. I readied some magic to stop just that.
+
+Kessiah pushed up against the ground with her hands. She flung up and landed on a single foot. As Caprika reached her, Kessiah dunked down onto her one working leg. She breathed deep before spitting a mouthful of blood at Caprika.
+
+The coagulating liquid splashed against Caprika's mask, blinding her. I raised my eyebrows, "That's a pretty solid tactic."
+
+Torix rolled his eyes, "Ah yes, something a caveman would do in desperation. What an excellent tactic."
+
+It worked well. The blade of hair skimped Kessiah's left arm, leaving a nasty gash. Without her guard up, Caprika was wide open, however. With a wild haymaker, Kessiah jumped off her one foot. Her fist slammed into Caprika's mask.
+
+Caprika dragged back a few feet from the impact, but she stayed standing. Like a real warrior, Caprika shook her head, spitting out blood. She growled like a lioness. Caprika charged towards Kessiah.
+
+At this point, Kessiah raised one arm, unable to defend herself. Torix frowned, "Let's see what else she has up her sleeve."
+
+I rolled my eyes at this point. Caprika lunged out an arm, a tail of fur following its trajectory. The condensed hair pierced Kessiah's last working shoulder. The air in the room condensed above Caprika, siphoning into a single point. Caprika reared her arm back, ready to launch a spear of wind through Kessiah's head.
+
+I gripped my fist, lifting Caprika back with a gravity well. Her spear withered away, the air dispersing. Her hair blade pulled from Kessiah's shoulder. Torix sighed while floating over towards Kessiah, a health potion and spell in hand. The princess wasn't enjoying my restraints, however.
+
+She thundered, "Who stopped me?"
+
+It was the voice of royalty. I wasn't some servant though.
+
+"I did. Calm down."
+
+She heaved for breath, a mist of blood spurting out of her mask, "You will release me or-"
+
+I clenched my raised hand, the well of gravity empowering, "Calm down."
+
+Caprika balled up, her hair returning to its regular length. She struggled, but the pull outdid her strength. She was in a trash compactor, and I held the on or off switch.
+
+She figured that out fast, so she gasped, "I'm calm."
+
+I let the well's strength wane, and she composed herself. By the time the well disappeared, she had regained her noble bearing. She breathed deep a few times, looking up at me. She opened her dimensional storage, pulling out a purple health potion.
+
+She chugged it before putting the bottle back into storage,
+
+"Ahem...excuse my anger...I simply lost myself for a moment."
+
+I shrugged, "It happens."
+
+Caprika looked around, "I'll have someone clean up this mess after we leave."
+
+She glanced around, "It could use a remodeling anyways."
+
+Now that Caprika wasn't frothing in rage, I glanced over at Kessiah. Even though she managed to damage Caprika, their wounds were different in scale. Caprika could still stand. Kessiah was out of commission for a few days. In system time, that meant Kessiah was damn near death.
+
+Still, it was an admirable effort. With a few tricks and some creativity, Kessiah dished out some damage. It was more than I expected. She took on someone double her level and held her own. If Caprika took her on with full force early on, Kessiah would be strips of meat.
+
+But that's the thing, Caprika didn't.
+
+That meant overall, Kessiah took the win in my book. With that knowledge in tow, I walked up to her. She groaned in pain, her shoulder swelling and her knee bloody. She looked up at me. She grinned, blood on her teeth,
+
+"See? I still got it."
+
+I grinned, "Yup."
+
+Kessiah passed out. Torix glanced up at me, "Althea would've been shocked if she'd seen such a display of brutality. Kessiah hasn't fought like that since she faced off against Dahkma."
+
+Torix whipped out a needle and surgical stitching, "It seems as though social pressure brings out the best in her. Her urge to prove someone wrong is far stronger than her urge to improve on her own."
+
+I shrugged, "Hmmmm...maybe so."
+
+Torix chuckled, "She does prefer being the underdog. Perhaps this will renew her fighting spirit."
+
+I weighed my hands back and forth, "I wouldn't count on it, but maybe we can push her in that direction."
+
+Torix stitched her knee back together, "One can hope."
+
+Caprika walked up to us. She placed her hands on her hips, "Her level wouldn't indicate her strength, I suppose...What did you think of the bout?"
+
+She looked at me as she said it. I raised my eyebrow, "Me?"
+
+Caprika pointed at me, "Yes you. You're a warrior of renown. Your opinion should be measured highly."
+
+I glanced up, "Well, if I had anything to say about it...hmmm. I think you tried to show off with the whole strangling thing. You could've just slit Kessiah's throat at the start. Keeping your distance and focusing on evasion would've been an instant win without any damage."
+
+I shrugged, "You also lost your balance after Kessiah stopped biting your fingers. That shouldn't be the case. You could elongate your hair and use the strands for balance, right? See if you can try that next time."
+
+Caprika used a wave of air magic, blowing the blood from her mask. She opened her storage ring, pulled out a napkin, and wrapped it around the floating blood,
+
+"I shall try that then. Any other pointers?"
+
+It was odd having someone ask me for advice. I squinted my eyes for a second, thinking a bit. I tapped my helmet, "You should have some helmet or eye protection. Same goes for your ears. Bright flashes, liquids, and sonic attacks aren't uncommon, and they can be crippling."
+
+Caprika nodded, "I'll try and implement a few defensive measures. Thank you for input."
+
+It was strange how differently Caprika treated me versus Kessiah. It was because of our levels probably. Torix stood up from Kessiah. He clapped his hands, "Anyways, I finished the suture. I'm not carrying Kessiah to her room. She'll break my old, dusty back."
+
+I raised my hands, "I'm not either. Althea will kill me."
+
+Caprika raised a hand, "Who's Althea?"
+
+Althea materialized beside me. I never sensed her in any way. She was a ghost that didn't want you to know she was there at times. Althea leaned against me, and I played it cool. I was used to it. On the other hand, Caprika wasn't.
+
+"What in Baldowah's name...Where did you come from?"
+
+Althea grinned, "Here and there." She looked up at me, "Torix mentioned something about Kessiah needing help to her room." Althea turned to Kessiah, "I'm surprised she hasn't been drinking."
+
+I frowned. I didn't know Kessiah drank. I had this thing against alcohol because of my dad. It wasn't fair to judge someone for it, but I couldn't help but come across as abrasive when it was brought up. At least I was aware of it.
+
+Kessiah's drinking habits didn't surprise our resident lich, "As am I. She was just thrashed by the albony over there."
+
+Althea walked up to Caprika. Althea waved a hand at her, "Hey. I'm Althea. Good to meet you."
+
+Caprika brushed one of her locks of hair behind her and dusted a shoulder off, "Ahem. It's good to meet you as well. I'm Caprika, of the Empire."
+
+Althea gave her a thumbs up, "I gotta take her back to our camp. We can talk later if you want."
+
+Caprika propped her weight onto a hip, "I'll have to check my schedule, but I should be able to work you in."
+
+There was an eagerness in Caprika's voice that she hid. I mean, she spent two damn hours a day in a throne room. Caprika had the time to spare. Althea didn't notice as she tossed Kessiah over her back like a sack of potatoes.
+
+As she walked off, Torix walked up to me. He waved at Caprika, "We really must be going now. Thank you for the enthralling discussion about Giess politics and history."
+
+Caprika scratched the side of her head, "Then, ah, good luck with the rest of your day as well...Torix."
+
+Torix nodded and walked through a portal. Caprika and I stood there in an awkward silence. Caprika coughed into her hand, "Ahem, you asked where and when the tournament was, correct?"
+
+I nodded. She opened her status. She sent me the coordinates.
+
+"There they are. Good luck with your questing."
+
+I shrugged, "Eh, thanks."
+
+I turned around. I walked out of the room. As the throne doors closed behind me, I caught Caprika whispering to herself,
+
+"That magic...Terrifying."
+
+You'd think my chest would puff up with pride at that. It was an acknowledgment of my strength, something I worked on relentlessly for years. I joined a boxing gym when I was twelve. Since then I'd fought every day. I didn't do it to stomp on people. I did it so I wouldn't be stomped on.
+
+Now though, I could crush someone under my foot without even meaning too. My gravitational singularities weren't fit for a human to wield. It was like a nuclear weapon. I felt like this one guy. I couldn't remember his name. I remember what he said though - I am become death, destroyer of worlds.
+
+I shook off my grim mood. I already observed what power could do to someone. Yawm was a prime example. He tried to play god. He ended up becoming a monster instead. I learned from his path, and I wouldn't tread in his footsteps.
+
+With that in mind, I set out onto the town. I had work to do.
+
+*******************************************************************************************************
+
+Two weeks passed in a flash. I burst through two dozen more quests, each reward giving me even less than the last. My last quest involved pulling someone's truck out from a bog. It wasn't glamorous work, but it was something to do.
+
+I ended up spending a bunch of my free time with Althea. We went out on dates, explored nature, etcetera. It was a blast seeing a new world with someone close.  Either way, I brimmed with excitement for the tournament.
+
+I missed fighting. Not life and death fighting mind you, but I wanted something to get my blood boiling. I felt like I was helping grandmas cross the street at this point.
+
+Of course, I expected quite a few weaklings, but at least it wasn't going to be boring. Althea and I kept that in mind as we walked up to the tournament's arena. There was a wide cliffside with a series of waterfalls, each one owning an outcrop. They met together, forming a raging river.
+
+All species and manner of aliens idled on these outcrops. Kids ran around all over the place. Families tried pumping up competitors. Businesses sold snacks and drinks for everyone. The atmosphere was like a sports event. It pretty much was one. It was the most excitement this town had each year after all.
+
+The arena was at the center of the raging river. There was a series of stones surrounded by the water. Althea nudged my side, "You sure you'll be able to balance on those rocks?"
+
+I rolled my eyes, "Yeah, I'm pretty sure. I might break them underfoot though."
+
+Althea nodded, a veil covering her face, "You'll knock the other competitors of the rocks with the splash. You'll be fighting underwater then."
+
+I grinned, "Let's hope the other fighters can too."
+
+We hopped down from outcrop to outcrop. As we reached the bank of the rushing stream, a group of other fighters prepared themselves. Cameras were set up, streaming the tournament online. Someone controlled the lighting down here too, giving it a surprising production value.
+
+As I admired the state of the art cameras, something rustled in the trees nearby. I glanced over at the treeline, a beast showing itself. I narrowed my eyes, looking closer. As I did, it walked out into the light. It was a gialgathen. I was sure of it.
+
+The amphibious dragon walked with clouds of mist over it. With wings that spanned the width of a house, its long neck stretched up tall as trees. It wore battle armor, encrusted in gemstones. Water flowed underneath the plates, keeping the beast hydrated.
+
+It glanced at us with vertical pupils. Unlike before, there was sharpness in its eyes. It was intelligent. A moment later, something touched my mind. I looked around, wondering what the fuck it was. Seconds passed, and the presence knocked against my mind again. A thick, regal voice echoed in my head,
+
+"Are you one of the fighters here?"
+
+I glanced around, "Maybe. Who are you?"
+
+"Ah, I forgot my manners. I'm Alzroth. I'm the giant across this stream."
+
+I glanced up at the gialgathen. Surely enough, Alzroth stared right back at me. I thought out words,
+
+"So you have telepathy then?"
+
+"Hah! All Gialgathens do. We're born with it, as we are born with many things."
+
+"Why do you want to talk to me then?"
+
+He shook himself, a few birds flying from his black and white neck, "Just passing the time until the tournament begins."
+
+I nodded, "Ok, so what made you single me out?"
+
+He reached up with a leg, scratching his neck, "You're ambiance. You walk with better footing despite being the biggest one here. Rare to see a warrior from other races."
+
+I crossed my arms, "Well, it's how I started out. By the time I had other options, it wasn't worth changing paths."
+
+The giant scoffed, sounding like a whale breathing,
+
+"You're small for physical combat. You should've changed to something more fitting your stature."
+
+It was my turn to scoff now.
+
+"Really now?"
+
+The beast shook his head, "I meant no harm in mentioning it. It's obvious just looking at you. I still can't understand why other races take offense when I mention talents and traits."
+
+I shrugged, "You're assuming a lot here."
+
+He showed his teeth, each one like a needle the size of a chair leg, "These allow me to crush most dirtwalkers in a single bite. How would you overcome something like this?"
+
+I laughed, "Your teeth would break against my skin."
+
+"Such confidence. We'll see how you and your system measure up to the true might and stature of a gialgathen."
+
+"I'll see you at the tournament then."
+
+I snapped the mental link. The gialgathen shook his head, shocked by the impact of it. If fighting someone else's mind was that simple, then I'd ask Torix to teach it to me. With all my willpower, it might be useful.
+
+A wave of chatter interrupted my thoughts. I turned towards the arena, and two fighters stood on both sides of it. They both wore power armor. One of them had the Steel Legion crest on his chest. The other wore the emblem of the Soldiers of Fortune.
+
+An announcer floated on a hovering podium. Wearing a flamboyant, multi-colored suit, the commentator flashed a smile. He had a swollen head and a wicked widow's peak. In the most vanilla announcer voice possible, he spoke into an intercom,
+
+"Welcome one and all to the 75th annual honoring of Lehesion! In the name of the gialgathen that united all the people of Giess, we fight in his name. Though many have tried, only seven humanoids have won the tournament. A gialgathen almost always wins!"
+
+His podium floated over the top of the arena, and he stared into a camera, "This time I have the feeling things will be different. Now, onto our first battle of the evening."
+
+He pointed at the Steel Legion member, "Representing the Steel Legion here in Icosah, we have Earnest Meldiano. An expert in pistols, knives, and traps, he's a fierce competitor."
+
+Earnest raised his hands, and his buddies in the Steel Legion clique roared. The announcer pointed at the other fighter, "And on the other side, we have a returning veteran. He's come out of retirement folks. Let's hear it fore Iasis Klon!"
+
+Pulling off his helmet, Iasis raised an arm. All of Icosah shouted out; his fame was widespread. I scoffed, whispering to Althea, "That's the dumbass that tried blackmailing me."
+
+Althea raised her eyebrows, "Him? Looks a little scrawny."
+
+I shrugged, "He's level capped."
+
+She glanced off to the side, "Maybe I should try blackmailing you..."
+
+I glanced at her, "What, why?"
+
+She reached up and tapped my helmet, "Because your reaction is cute."
+
+I rolled my eyes as the announcer boomed, "Are both combatants ready?"
+
+They both nodded. The announcer boomed,
+
+"Then let's rumble!"

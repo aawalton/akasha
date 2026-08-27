@@ -1,0 +1,45 @@
+---
+id: 7c80010e-bb30-50ae-9b3f-e03415762d90
+page-type-slug: story-read-royal-road
+title: "Sovereign Sight [Progression Fantasy, Cultivation, Clever Strategist, High Perception MC]"
+slug: sovereign-sight-progression-fantasy-cultivation
+world: sovereign-sight-progression-fantasy-cultivation
+unit: words
+author: "Nicoli Gonnella"
+royalRoadTags:
+  - "Progression"
+  - "Strategy"
+  - "Cultivation"
+  - "Male Lead"
+  - "Action"
+  - "Adventure"
+  - "Fantasy"
+royalRoadSeriesStatus: ongoing
+link: "https://www.royalroad.com/fiction/171595/sovereign-sight-progression-fantasy-cultivation"
+royalRoadId: "171595"
+---
+
+FROM THE AUTHOR OF UNBOUND COMES A NEW PROGRESSION FANTASY EPIC!
+
+Without Talent, you are nothing.
+
+In Harker’s world, Talent decides everything: status, power, and potential. He has nothing but the smallest of Knacks for perception, enough to keep one step ahead of the townsfolk that hated him. Coupled with his Laws—rules he’d followed since birth—and being terribly clever, he's survived the worst of their attentions. But survival isn’t living.
+
+The storm changed everything.
+
+Cursed, Harker’s small Talent is enhanced far beyond its Scope. Power he shouldn't possess flows through him, power greedy hunters would kill to claim for their own. His only hope lies in the one place his mother always forbade: The Nine Spires Academy.
+
+Caught up in a race against time, Harker must reach the Academy and pass its entrance exam before the curse kills him. Only where the greatest Talents taught the geniuses of the next generation could he learn enough to turn the curse into a blessing.
+
+Harker finally has a chance at really living... so long as he can survive his first lesson. 
+
+Update schedule: MWF (3x a week)
+
+What To Expect: 
+Progression Fantasy - Not LitRPG, so no hard numbers or stats, but still with a distinct magic system that progresses in ways like cultivation.
+Weak To Strong - Starting from the bottom!
+High Perception/Strategist/Cunning MC - Has to outwit his opponents that are physically stronger than him, using their weaknesses and environment against them
+Epic Fantasy - Deep worldbuilding and sprawling storylines
+Magic Academy - The story follows Harker from the very bottom, but we WILL be getting to a magic academy eventually.
+
+Cover art by inkary!

@@ -1,0 +1,207 @@
+---
+id: e3a67410-4931-5f77-b66b-22bfe4f5daf2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 102 – Two Pillars"
+slug: 0102-chapter-102-two-pillars
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 102
+ownLength: 1989
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3198686/chapter-102-two-pillars"
+royalRoadId: "3198686"
+---
+
+Liora hesitated. Withdrawing Renir meant that Morgana and Terenezza would see him. But what would happen after that…
+
+LIORA!
+
+She could feel her grip on the magic slipping, so she reluctantly withdrew Renir from her Inventory, holding him firmly in her beak.
+
+"What the…" Morgana exclaimed in surprise.
+
+But there was no time to worry about her. Liora focused on purifying the man while Renir joined her. She could instantly feel her strain lessen as he added his mana to the cause and began guiding it to the blightstone forming in the man's head.
+
+"Keep up the overall purification, Liora! Leave the finicky work to me," Renir commanded.
+
+Liora did so, exhaling in relief as she could once again let her mana spread out.
+
+"That voice…" Morgana whispered.
+
+"If you make any sudden movements, there will be hell to pay," Cee warned, jumping to put herself between Liora and Morgana.
+
+"Please, Lady Morgana! Let them proceed!" Terenezza begged.
+
+"I'm not doing anything!" Morgana said, raising her hands in surrender, but there was a deep frown on her face.
+
+Liora and Renir, meanwhile, kept healing the man, purging the corruption out of him while doing their best not to overwhelm him to the point of no return. The blightstone formation stopped once Renir joined in, and after several minutes of struggles, all of the corruption was cleansed.
+
+When she released her hold on the magic, the man went limp almost instantly, held up only by Cee's webs. Terenezza ran up to him right away and began healing the many bruises and injuries that were revealed after the purification was complete.
+
+"You did it!" Cee cheered.
+
+"You really did!" Morgana added to the ovation.
+
+Terenezza, however, had tears streaming down her face as she slumped down next to the healed man's feet. "You saved him… You actually saved him."
+
+"I told you we would save your husband," Morgana said. She walked up to her and put her hand on the woman's shoulder reassuringly.
+
+"That was your husband?!" Cee called out.
+
+Liora was shocked too, but she used the moment to hurriedly withdraw Renir back into her Inventory. Maybe everyone would be so happy over the success that they wouldn't even notice.
+
+Any chance we could bolt right about now?
+
+The door is closed.
+
+Not warded though. Go for a Featherflash and let's get out of here.
+
+I can't leave Cee behind. Besides, we're the only ones who can help all these fully corrupted people. We can't just abandon them.
+
+Yeah… I know. But I'm pretty sure Morgana recognized me.
+
+"Let's keep him under careful watch for the time being. To make sure that the corruption doesn't return," Morgana said.
+
+"Can we move him to a more comfortable room?" Terenezza asked. "He must be so utterly exhausted."
+
+"Uh… Sure. Let's call for some help and get him moved. Cee, can you undo your webbing?" Morgana asked.
+
+"Not a problem. I just need someone to catch him first."
+
+Morgana and Terenezza quickly got people to help them move the cured man from the horrible room to a more comfortable one. The healers were astounded and in awe. They rained praise on Liora, saying that finally, there was a way to combat the horrible corruption.
+
+Liora didn't enjoy all the attention. It was like Sunvale all over again, and she really hoped that they wouldn't start worshipping her again. What if another crazed fanatic appeared like Dr. Reius? She didn't want that.
+
+But Morgana didn't allow the healers to surround Liora for long, instead saying that the bird had spent all her mana and needed to rest. This didn't exactly make her happy, because Liora knew that soon she would be asked a rather unpleasant question.
+
+I'm going to play dumb.
+
+I don't think that will work, little thief.
+
+It's worth a shot…
+
+Before long, Morgana, Liora and Cee were back in their room. The woman even made sure that nobody was nearby, then glared at Liora.
+
+"Okay, Liora. Do withdraw that gem from your Inventory that you had before. Curious that you would even have an Inventory, but fine. I honestly don't care about that," Morgana said.
+
+"What gem?" Liora played dumb.
+
+"There was no gem," Cee added. Maybe gaslighting from two fronts would work.
+
+"You must be tired. Let's go to sleep," Liora said, perching on the edge of the bed and preening her feathers to feign nonchalance.
+
+"Oh, great, so you were both in on it. Show me that gem," Morgana said, her voice low and threatening.
+
+"No! It is mine!" Liora opened her wings. She didn't care how strong Morgana was. There was no way she was giving up her most precious shiny gem without a fight.
+
+"Bully! Bully! Liora healed the man, and you tried to extort her!" Cee said, jumping around the room in an agitated fashion.
+
+"I am not trying to extort you! I'm trying to help you. If that was Renir's voice I heard, then you need to stay far away from that bastard," Morgana hissed.
+
+Damn, so she recognized my voice after all. I think it's fine to withdraw, just… keeping me close.
+
+Always!
+
+Liora withdrew Renir, settling him halfway inside her mouth to make sure that Morgana couldn't just snatch him away. Either way, she was ready to Featherflash out of her at a moment's notice.
+
+"Hello, Morgana," Renir said in a nonchalant tone.
+
+"Renir, you bastard! It was you!" Morgana shrieked. "We were looking for you everywhere for months, thinking somebody murdered you. Yet here you are as a gem? Is this one of your many magic experiments gone wrong? Did you move your soul into a rock in an attempt to chase immortality?"
+
+"Technically, your murder theory isn't that far off the truth. I was captured and imprisoned in this gem," Renir explained. "I fought valiantly for my freedom, but alas, there were too many of them—"
+
+"You said you got captured while drunk," Liora interrupted.
+
+"Liora!"
+
+"Ugh! Of course, they captured you while you were drunk. You absolute fool! Gods, I still don't get how you even managed to become a Pillar in the first place."
+
+"It's because I am that good," he said smugly.
+
+"You're a shiny rock," Liora said.
+
+"You have to rub it in, don't you?"
+
+"You're the one who got drunk, not me."
+
+Morgana groaned and sat down on one of the chairs. "Do you know all the troubles that have appeared with your disappearance. All the shit all of us other Pillars have to go through to fill the vacuum you left. Well, Merlin is rather happy that the magic isn't being "tainted" anymore, but others…"
+
+"I bet Merlin was in on it," Renir said.
+
+"It doesn't matter. You're a rock. What the hell am I supposed to say to the others? We can't have rock as one of the Pillars!"
+
+"I am working on it! Liora and I already managed to remove one of the seals. There are only eight more to go," Renir announced.
+
+"Only eight more, he says," Morgana groaned. "Also, is the overly intelligent bird and spider your fault?"
+
+"Of course. Do you really think regular monsters can be so smart?" Renir shrugged.
+
+"Hey!" Liora and Cee both protested.
+
+"Don't get mad, you two. You're plenty smart now, but let's be honest, if I didn't install the system on you, then you'd still be just a bird and just a spider," Renir said.
+
+Liora could feel that Renir was deliberately shielding both of them. He didn't want Morgana to know that they were reincarnated humans. It was probably for the best. It was already dangerous that Morgana figured out that Renir was a gem now.
+
+Cee seemed to have caught on to what Renir was doing and remained silent, instead of trying to refute him.
+
+"I'd be the best bird this world has ever seen," Liora declared. "With the most magnificent nest. Which I had to abandon, because of you!"
+
+"And I had to leave my cozy web home. These humans are getting into such trouble. Alas, I am a merciful spider and have decided to help this human in exchange for his knowledge," Cee added.
+
+"Geez… I swear you're the only one who could somehow make a bird and a spider work for you. Ah, whatever! It worked out quite fine for us, too. I assume that the Resonance Crystal Liora is trying to get is actually for you," Morgana asked.
+
+"Yes, I need it to break the second seal. So if you would be so kind to hand it over," Renir asked.
+
+To Liora's surprise, Morgana did withdraw the Resonance Crystal from her Inventory looking at it intently. "Will this help you become more human again?"
+
+"Yes. While it won't make me normal, it should at the very least unlock more of my abilities. Who knows? Maybe I'll be able to resume some of my Pillar duties if I break enough seals."
+
+"I really wouldn't mind giving this to you, but this is unattuned, and from what I understood, you need an attuned one, right?"
+
+"That's right."
+
+"Well, I can't leave this place until the corrupt people situation is resolved or until Sallie returns. After that, I don't mind helping you attune the Resonance Crystal, although I do admit I'm doing it more for the beasties sake and the people's sake. We need you back before Merlin manages to weasel in on one of his pupils as the new Pillar of Lost Magic," Morgana said while rubbing at her temples.
+
+"Who is Sallie?" Liora asked.
+
+"She's the Pillar of Vital Chalise. In charge of healing and everything related to it. I imagine this whole facility was her idea," Renir said.
+
+"Yeah. You know this kind of thing isn't my style. I would have shot all the corrupted people dead, but she insisted that we at least attempt to save them first," Morgana scoffed.
+
+"You always did have a soft spot for her," Renir teased.
+
+To Liora's surprise, Morgana flushed.
+
+"Shut up! I don't want to hear that from an idiot who got turned into a rock!" Morgana hissed.
+
+"Yes, but this idiot will most definitely get himself free and regain his rightful place as the Pillar of Lost Magic," Renir said.
+
+"I hope you're right. We have enough problems as it is, without you going missing," Morgana said. "Alright, I'm going to let you rest and be covered, beasties. Once you're good, I would like for you to resume your work on the healing front."
+
+"Alright," Liora agreed.
+
+"Wait, Morgana!" Renir suddenly called out.
+
+"What?" She asked in annoyance. "The less we talk, the better. The fact that I can't get these beasties to work for me because they are yours already annoys me."
+
+"I don't belong to Renir!" Liora protested. "I work for him because he promised me shinies."
+
+"And he promised me magic lessons," Cee added.
+
+"Yes, yes. But the point stands that you're still sticking with him," Morgana scoffed.
+
+"Oh, that doesn't matter right now. Morgana, don't tell anyone what happened to me. I'm pretty sure it was one of our own who did this to me, but I don't know who," Renir warned.
+
+Morgana gave him a long look, then nodded. "Very well. I won't tell anyone."
+
+Then she left.
+
+"What if Morgana is the one who sold you out?" Cee suggested.
+
+"Yes, I considered that possibility. Very unlikely. As much as she hates me, she doesn't have much to gain with me out of the picture. I can't obviously deny that possibility outright, but if she turns out to be one who sold me out, then I'm sure Liora can get us out of here quickly with her Featherflash and Fade," Renir said.
+
+"What about me? I don't think I could Shadow Walk safely out of here," Cee said.
+
+"Yeah, I don't want to leave Cee behind," Liora said.
+
+"Don't worry. I have an idea!"

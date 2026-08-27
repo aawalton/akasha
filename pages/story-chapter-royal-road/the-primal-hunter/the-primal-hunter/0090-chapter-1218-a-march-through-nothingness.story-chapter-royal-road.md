@@ -1,0 +1,181 @@
+---
+id: 0b469aa4-2022-5977-bd33-cd5dab93b965
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1218 - A March Through Nothingness"
+slug: 0090-chapter-1218-a-march-through-nothingness
+partOf: the-primal-hunter
+position: 90
+ownLength: 3206
+unit: words
+ownProgress: 3206
+publishedAt: 2025-12-11
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2838357/chapter-1218-a-march-through-nothingness"
+royalRoadId: "2838357"
+markedReadAt: "2026-06-29T19:32:07.047Z"
+---
+
+“That’s just weird, not necessarily suspicious,” Vilas shrugged. “Then again, it could be so weird that it’s purposefully done to throw us off her scent.”
+
+Eversmile looked less than amused at the Viper having some fun with the most recent reports of the thousand students who attended Jake’s lesson. One of the women who’d attended had let the attention get to her head due to the many suitors she suddenly gained afterwards, and she’d decided to make up weird competitions to make them compete amongst themselves to win her favor.
+
+Vilas guessed that all these guys – and even a few gals – would soon realize how insane she was and back off. It was definitely entirely unrelated to her being a secret spy for some unknown, powerful faction and was more just a fun little anecdote.
+
+“There are some who’ve made odd movements and even purposefully tried to harm their karmic connections,” Eversmile pointed out.
+
+“Yeah, but those are just the regular spies,” Vilas shrugged. “That’s just business as usual.”
+
+“Their presence muddies the water,” the other Primordial pointed out.
+
+“True, but if we suddenly start cracking down on low-level D-grade spies, we would be the ones acting suspiciously,” the Viper shook his head.
+
+It was entirely normal to have “spies” in other factions, and more often than not, the faction in question even knew they were being spied on without caring. The information these spies provided was always low-level and inconsequential to the true leaders of factions, though it could certainly impact the lives of other mortals.
+
+As for why factions didn’t crack down, well, because they didn’t want a crackdown on their own spies either. In fact, the consensus was to limit tracking these low-level spies, doing only the bare minimum to identify the most unskilled among them.
+
+Spies had to be nurtured somehow, and this approach had proven to be the most effective. Again, they didn’t truly hurt the factions they spied for, either, and provided little more than regular reports on daily life.
+
+“Telling the others who know to limit karmic obscuration would also appear suspicious if this unknown faction is observing the situation,” Eversmile mused to himself, clearly annoyed.
+
+“All we can do is keep a lookout,” the Viper sighed. “If they do communicate, they’re bound to create some kind of karmic link in that moment. Now, if you somehow can’t use that to find out more… well, in that case, we’re well and truly screwed.”
+
+“I do not see that as an option worth considering. If they were powerful enough to pull something like that off, they wouldn’t have to use these strategies in the first place but would face up openly,” the Primordial of karma commented.
+
+“As humble as always,” Vilas chuckled, though he didn’t disagree with Eversmile’s statement in the slightest.
+
+“Speaking of lacking humbleness… I haven’t heard about that Chosen of yours since his lesson,” Eversmile changed the topic.
+
+While Villy liked to observe Jake, that didn’t mean he shared his viewing experience and allowed others to take part. Alright, quite often he had Duskleaf join him in watching, but Eversmile wasn’t invited to the viewing party. Eversmile likely could still watch Jake forcibly if he really wanted to, but with the defenses Vilas had placed around his Chosen’s residence, the Viper would detect it. Even if he didn’t, Eversmile was fully aware of Jake’s ability to know when he was being observed directly.
+
+“He’s been busy doing his thing,” the Viper shrugged.
+
+“Preparing to hunt down a dragon, I hear,” the other Primordial commented, being far too curious about what Jake was doing as usual.
+
+“Exactly. As I said, he’s busy, and no, I don’t need your help to find a dragon for him to hunt. I already think I’ve found a very good one. You’re free to ask more about him, but unless you want a long speech on alchemy and the struggles of a C-grade successfully crafting bane poisons, I doubt you want to engage in the topic of my Chosen any longer,” the Viper shut down that line of conversation.
+
+“Overly-protective as always,” Eversmile shook his head. “But fine, I won’t pry. I’m just getting the distinct feeling you’re not being entirely truthful with me regarding him.”
+
+“Oh, I’m not, but that isn’t anything new either,” Vilas shrugged. It was a bit annoying that he couldn’t be too much of an ass to Eversmile, considering he still needed the Primordial’s assistance, but that didn’t mean he couldn’t tease his peer at least a little. Besides, he knew Eversmile found Jake interesting, which was both a curse and a boon, and no matter what, he wouldn’t want some unknown faction to ruin his object of intrigue.
+
+As for what Jake was actually doing… well, that was a bit complicated.
+
+--
+
+Another avatar of the Malefic Viper stood in the room with crossed arms as he watched the cross-legged human. Jake wasn’t breathing, wasn’t moving, and all the energy usually circulating within his body had slowed to a crawl. His body was effectively in stasis, with his Truesoul barely even connected to it.
+
+If anyone attacked Jake at this moment, the Viper had a hard time seeing him survive. Even his Bloodline seemed dormant, resulting in his presence totally disappearing. As someone also having a Bloodline, Vilas could naturally feel Jake’s, but it was barely detectable currently.
+
+He was effectively teetering on the border between life and erasing his own existence. No, he wasn’t on the edge of dying, simply losing everything that made Jake himself. He risked losing the parts of his soul that he could directly affect and manipulate, which meant he risked losing his memories, personality, and all sense of self, leaving only a blank slate of nothingness behind.
+
+Yet the Viper wasn’t overly concerned, because he knew Jake wasn’t alone. Not truly.
+
+As for the room where Jake sat in meditation, Vilas was not alone in the room either, as there was one other god who had insisted on visiting and looked far more worried than Vilas was, despite it being his Chosen finding himself in this peculiar state.
+
+“You’re far more experienced in matters like this… have you ever seen a C-grade do something similar?” Artemis asked with a frown.
+
+“Members of the Dao Sect sometimes do similar things. They call it spiritual journeys or something like that,” the Viper answered calmly. “That, or it happens in very controlled group meditation sessions with an elder of the sect.”
+
+“But not this scenario specifically?” Artemis asked, her frown deepening. “If he’s truly tried to go there…”
+
+“He’s trying to,” Vilas sighed before smiling and looking at the goddess. “You must admit the prospect is at least a little exciting.”
+
+“Can the mind of a C-grade even handle it?” Artemis didn’t even entertain the Viper’s casual demeanor.
+
+“Fuck no,” the Viper recoiled at the notion. “His mind would turn to mush and his soul implode or something like that. That’s why I think what he’s doing is slightly different from what we do.”
+
+“How did he even begin going down this track?” Artemis asked, looking at the Viper. “Was it through your guidance?”
+
+The Viper honesty found the slightly accusatory tone endearing. Artemis had been very meek and hesitant to speak bluntly around the Viper for the longest time, but she’d truly grown in just a few years. The combination of bathing in Jake’s unique Bloodline-infused presence and just getting plain more used to being around Primordial-level figures sure did wonders. As for her question:
+
+“No,” Vilas shook his head. “But that doesn’t mean he’s going in blind, only relying on himself and his instincts. He’s doing it with the guiding hand of another.”
+
+Artemis somehow frowned even more, clearly finding his statement odd. “Who?”
+
+“The most qualified C-grade in the history of the multiverse… and if anyone had ever gone there before, it would have been him,” the Viper said with confidence. Artemis had asked if he knew of anyone who’d ever gone where Jake was seeking, and while he didn’t know, he strongly suspected his Master had been able to do so.
+
+“May I know who this person is?” Artemis asked curiously, finding the Viper’s words very odd.
+
+“No, you aren’t allowed to,” the Viper shook his head. “So just trust that he’s the best there is, and I believe that even if Jake fails, his instincts won’t allow him to risk too much.”
+
+“And you don’t know any way we could help him?”
+
+“Best advice is to stay nearby, ready to observe the outcome and celebrate the result,” the Viper shrugged. “Even if he fails, I believe history will be made today.”
+
+Artemis slowly nodded as she joined the Viper in watching Jake sit in meditation, completely unmoving, now going on the twelfth day.
+
+--
+
+Jake felt… weird. He wasn’t entirely sure he was even feeling anything in the first place. Nothing made sense, yet he was aware he was doing something. Seeking something. He wasn’t capable of forming coherent thoughts, yet his instincts continued to guide him forward.
+
+He tried to gather his thoughts, failing over and over again. Perhaps thoughts weren’t even capable of being formed in this place at all, with nothing making any sense in the first place.
+
+Yet he kept trying, still faintly getting the impression he was moving forward. Perhaps it could be compared to a dream. Jake wasn’t in control; what he experienced seemed to fade from his memory mere moments later, and what did happen didn’t necessarily need to make any logical sense in the first place.
+
+All he could know for certain was that the dream continued, and slowly, Jake seemed to become more lucid. Wayward thoughts gathered, and some semblance of sense began to be made as feelings returned.
+
+Jake tried to open his eyes, but was unable to know if he’d succeeded. His sphere didn’t do anything either, as he wasn’t in any kind of physical space. He felt lost, his mind starting to wander again, until suddenly there was something.
+
+A familiar feeling.
+
+Somehow, with Jake unable to comprehend how, he instinctively sought this something. He kept wandering through the realm of nonexistence with only this faint guiding light before finally seeing something in his mind’s eye.
+
+In a world of darkness reminiscent of the void, he saw a single glowing page floating, blown by a non-existent wind.
+
+Jake followed it, and as he did, his mind was allowed to fully form. He began to truly feel his own peculiar body, sense his surroundings, and perceive the odd world he had found himself in. Jake also realized that he wasn’t in a physical body anymore, but in some odd metaphysical state.
+
+The only thing Jake could compare it to was the time during the Tutorial when he astral-projected his own soul to visit the Malefic Viper. In fact, this was very much like that.
+
+Back then, he’d somehow sent himself through all the barriers around the Tutorials and entered the first universe with his soul in a desperate, instinctual attempt to survive. Villy had warned him back then never to do something similar, and in truth, even if Jake had wanted to, he wasn’t sure how he’d done it in the first place. It had all been instinctive.
+
+This didn’t feel entirely the same, though, because Jake felt that he was still somehow within his soul. Rather than saying he was taking his soul and projecting it outwards, he was now taking his soul and forcing it all inwards. It was as if he’d entered the Truesoul or perhaps the Truesoul had just allowed him access to this place that seemed to exist within himself while still being entirely separate from Jake.
+
+Floating through this odd realm of nothingness, Jake struggled to keep his thoughts gathered as he focused on the one seemingly tangible thing in existence: the golden page.
+
+He followed it religiously, but even then, he sometimes lost sight as it flickered and disappeared. When that happened, all he could do was trust that it was somehow still there, letting his gut take over. Time and time again, his faith was proven as he eventually spotted another golden page to guide his journey.
+
+Time passed, though Jake had no way of telling just how long it truly was. In one moment, it was as if he’d just gotten there, while in the next, he thought it had been years. All he could do was try to ignore all these distracting thoughts and sever everything but the single-minded focus to reach his destination. He still didn’t know what he was seeking or why he was going there; all he knew was that he had to. No… he wanted to.
+
+Because, as Jake’s mind regained some clarity, he also regained the ability to return to reality if he so desired. In the back of his mind, a small tether remained that he could yank at any time to return to his body, exiting this odd realm. However, he also knew that should he do so, he wasn’t sure when he could enter this state again.
+
+This status quo of chasing golden pages in the vast nothingness continued until finally something changed. At some point, Jake faintly saw two glowing golden pages rather than one. He continued chasing, and some time after, there were suddenly three.
+
+More and more pages began appearing as Jake chased. They kept increasing, creating a road of light for Jake to follow. Just as Jake had these thoughts, the pages stopped flying and began lying flat, and without thinking, Jake landed on a page and stood on it.
+
+An actual road of golden pages began forming beneath his feet. Jake began walking forward instinctively, only moving forward without looking back. The road seemed to extend only a few meters ahead of him, yet no matter how much Jake walked, it just kept going and going.
+
+Walking was effortless to begin with, yet at some point, Jake began to find himself struggling. It was slow at first, but it quickly got worse as every footfall sent waves of pain through his odd soul-body.
+
+He felt heavy, his body sluggish, and every step was harder than the next. It was tempting to stop and give himself a moment to recover, but something told him that wasn’t an option. He had to keep going or not go at all.
+
+One step after another, Jake experienced a kind of pain that went far beyond the physical. He knew it was his soul struggling, and as it got worse, he felt a particular part of him hurt more than anywhere else. He quickly realized what it was.
+
+Palate of the Malefic Viper.
+
+Like an injury that had been stitched closed and bandaged, Jake’s current struggle was slowly reopening the wound. His soul was under immense stress, enough for even his danger sense to rear its head. It warned him that what he was doing was dangerous… yet he didn’t feel the need to stop.
+
+He felt the desire to stop, and his soul was screaming at him to halt, but he kept moving forward. His soul was unmistakably taking damage, and it was only getting worse. However, if Jake dedicated any mental energy to even consider the potential harm, he would lose the focus required to just keep his metaphysical legs going.
+
+Jake’s entire world was a road of golden pages that seemed like nothing more than an endless march towards his own doom.
+
+What kept Jake going were three things. The first one was the fact that his instincts weren’t screaming at him to stop yet. They were warning him, but not demanding that he halt.
+
+Secondly was the fact that the golden pages were clearly related to the First Sage and his guidance. Of course, if it were just these two alone, Jake would have at least hesitated, which would have ended his trek, but there was one last thing that kept him doing more than any other:
+
+Knowledge that something actually lay at the end of the road. A certainty that there was a destination he could reach as long as he kept struggling. This realization was born of what Jake had learned in the tome of the First Sage and what he was certain the road of pages was now leading him toward.
+
+The core of meditation was something far deeper than merely increasing regeneration of resources. This skill’s entire purpose was instead to deepen one’s connection with the system itself. The Truesoul within every being was directly linked and a part of the system itself, and all Meditate usually did was deepen this connection a little further to increase the system’s natural recovery speed.
+
+It was to tap into something further beneath. To use the Truesoul as a portal or catalyst to seek deeper truths of the system and, through that, gain power. Knowledge. Records.
+
+While all this was just Jake’s interpretation, he had forced himself to believe it was the absolute truth, for if he didn’t, he wouldn’t have the required strength to keep going. Even when the pain began to feel distant and numb as Jake began losing the thoughts he had gathered and the focus he’d regained, his absolute faith forced him to take one step after another.
+
+Jake was no longer able to see the golden road of pages, no longer able to even feel he was taking steps. Everything was fading rapidly, his own instincts letting him know that his existence was slowly being erased as his soul lost its cohesiveness. He himself, and he already knew that whatever fix the Viper had applied to Palate had been completely broken by now.
+
+Just as there was barely anything left… Jake felt something new. His foot had hit something, and as it did, clarity returned. In an instant, Jake became fully aware of himself again. The golden road reappeared, the pain subsided significantly, and while the damage was certainly still there, Jake knew he’d stabilized.
+
+With this newfound clarity and sight of the world, he also saw what he’d walked into. The golden road had expanded, and right in front of him was a bench made of the same glowing pages. Jake had hit its side with his foot, and as he looked to the side, he saw that the bench was facing a massive gate that seemed to block off the entire side of his vision.
+
+The gate was simultaneously small enough to look normal, yet also large enough to encompass all of existence. Unlike everything else, this gate was not made out of golden pages, but of something Jake couldn’t even fully comprehend. All Jake knew was that whatever he saw represented a gate. He stared at the gate for several moments before instinctively turning back to the bench, only to see that it was now no longer empty.
+
+The familiar old man, who Jake had only seen in visions born of Path of the Heretic-Chosen, sat there and looked up at Jake with his usual calm smile.
+
+“Take a seat,” the First Sage said, motioning for Jake to sit beside him. “You look positively exhausted.”

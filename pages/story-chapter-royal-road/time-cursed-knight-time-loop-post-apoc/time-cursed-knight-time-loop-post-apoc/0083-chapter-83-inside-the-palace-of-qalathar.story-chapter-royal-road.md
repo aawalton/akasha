@@ -1,0 +1,185 @@
+---
+id: 54927c4a-6295-53e6-a489-4de8c1bd8927
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83: Inside the Palace of Qalathar"
+slug: 0083-chapter-83-inside-the-palace-of-qalathar
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 83
+ownLength: 2471
+unit: words
+publishedAt: 2026-07-09
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3654302/chapter-83-inside-the-palace-of-qalathar"
+royalRoadId: "3654302"
+---
+
+"Who?"
+
+Soraya hung in the air above the courtyard, balanced on a cushion of sand she'd shaped with two flicks of her fingers, and the question came out higher than she meant it to.
+
+Halima glanced over her shoulder before she answered. That was the habit of a servant. Even here, in the youngest princess's private garden, where the only ears belonged to a girl who would never repeat anything that mattered, Halima checked the corners first.
+
+"The noble," Halima said. "The white-haired one. The whole lower city's talking of nothing else."
+
+Soraya let the sand carry her sideways, then down, then up again, a slow swinging arc from one end of the colonnade to the other. The grains hissed beneath her, obedient to the small pull she kept on them in the back of her mind. She'd been doing it since she could walk. It was as natural as breathing.
+
+"Tell me again," she said. "From the start. Don't skip anything."
+
+Halima smiled. She was three years older than Soraya and a thousand years poorer, a kitchen girl who'd been promoted to the princess's chambers because someone had noticed the youngest royal child had no one to talk to and decided that was a problem cheaply solved.
+
+They were nothing alike. Different blood. Different futures. Halima would marry a baker or a porter and grow old in the outer ring against the wall, and Soraya would marry whatever the politics of the throne required and grow old behind walls within walls.
+
+But Halima had one thing Soraya would never have, and Soraya knew it, and on her honest nights she admitted that she envied it.
+
+Halima could walk out the palace gate. Halima knew what the world smelled like.
+
+"From the start," Halima agreed, and settled onto the lip of the fountain, drawing her knees up under her robe. "It came at dawn. A serpent. Big as the eastern tower, they say, with a head plated like a war-shield and venom dripping off teeth as long as a man. It reared up over the wall and struck—"
+
+"And the wall stopped it," Soraya said, swinging.
+
+"And the wall stopped it. But before the mages could even raise their sand, a noble came up the stair." Halima's voice dropped into the cadence of a story told too many times to too many people. "White hair. A straight sword in his hand. He didn't wait for anyone. He stood in front of the serpent's mouth, and he did something with alchemy and the open jaws, and then—"
+
+"He jumped inside it."
+
+"He jumped inside it," Halima confirmed, as if the detail still surprised her on the hundredth telling. "Cut it from the inside until it ran. Came out covered in black blood and stood there on the wall-walk like he owned the city, and tore the officers to ribbons with his tongue. Called them blind. Wasteful. Named names from the high city until poor Captain Demir went the color of milk."
+
+Soraya laughed, delighted. She let the sand drop her gently to the tiles, because she wanted to hear the rest sitting down.
+
+In her head he was already a figure out of the old stories her grandmother used to tell before she died. A prince of some far country, riding the wind, sword in one hand and fire in the other, too proud and too beautiful to bow to anyone.
+
+She had dreamed of someone like him. The white hair and the wings of fire were new. The rest of him had been waiting in her head since she was small enough to sit in her grandmother's lap.
+
+"And then the evening," she prompted. "The plaza."
+
+Halima's face changed.
+
+This was the part the storytellers always slowed down for, and Halima slowed down too, and the slowing made Soraya's skin prickle.
+
+"That night a second one came," Halima said quietly. "And while half the wall went to fight it, a third broke the southern gate. A beetle. A beetle the size of the great gate, wedged in the doors, breathing green light that turned men to smoke where they stood. My uncle was in the plaza. He told me himself." She swallowed. "He said there was no power left in the whole city to break it. He said the soldiers were weeping on their feet. He said he thought he was going to die, and so did everyone standing near him."
+
+Soraya had stopped swinging. She'd stopped doing anything. The sand lay dead and flat around her crossed legs.
+
+"The white-haired came," she whispered.
+
+"The noble." Halima nodded. "Ran into the plaza alone. Past the green light, past the acid, under the monster's belly where no sane man would go." Her hands had risen without her noticing, sketching the shape of it in the air. "And he touched it with his sword, and the plaza caught fire. Blue fire, my uncle said. It went up his arms and over his body and into the Titan, and the thing screamed—he said he didn't know they could scream. It melted. All of it. Until there was nothing left."
+
+"Nothing?"
+
+"Nothing." Halima's voice had gone hushed and round with wonder. "Not even the skull. The Founder's own kill is still out there in the dunes, a skull the size of a fortress. But this one—" She spread her empty hands. "Gone. The men in the plaza say that at the end, fire rose off his shoulders like wings, and he went up into the sky on them. Like an angel."
+
+Neither of them said anything. A bird crossed the courtyard. Somewhere beyond the inner walls, the ordinary noise of the city went on, sellers and carts, a whole metropolis that had been one breath from death and didn't seem to know it.
+
+"An angel," Soraya repeated.
+
+Her hand had found the front of her robe without her noticing. Beneath her palm her heart was beating strangely.
+
+"That's what they're saying in the lower ring. That the Founder looked down and saw his city dying and sent one of his own to save it." Halima shrugged, but it was the embarrassed shrug of someone who half believed it. "Wings of fire. Hair white as the salt flats. Came down from heaven and went back up before anyone could thank him."
+
+Soraya spent the rest of that afternoon hunting the story down.
+
+She went from servant to servant through the inner halls of the palace, and she made each of them tell it, and she drank every version down like sweet water. She kept the ones that made him kind. The ones that made him beautiful. The ones where he looked at the dying soldiers as if they mattered.
+
+The laundress had heard the wings were the wings of a falcon. The boy who carried coal swore they were the wings of a phoenix. An old woman who scrubbed the bathhouse tiles insisted the angel had spoken, that he'd looked at the dying soldiers and said be at peace in a voice like a bell.
+
+The details never matched.
+
+But the heart of it never moved.
+
+He was a hero. He was an angel. He had been sent by the Founder.
+
+By the time the lamps were lit, Soraya had decided he was the most wonderful thing that had ever happened to the world, and she could not wait for supper.
+
+Her sisters would want to talk about nothing else. They would speak of him the way girls spoke of the princes in grandmother's stories.
+
+She was wrong about supper.
+
+She knew it the moment she stepped through the doors of the dining hall and found the long table full.
+
+Not just her sisters. All of them. Every heir of the blood, seated in their order down both sides of the black wood, and at the head of it her father.
+
+The Sultan did not look at her when she came in. He did not look at much of anything. His eyes were fixed on the middle distance above the table, and his jaw was set, and the famous hard face that two hundred years of Founder's blood had distilled into a single living man was harder tonight than Soraya had ever seen it.
+
+The city was standing. The angel had saved them. And her father looked like a man who had swallowed glass.
+
+Soraya took her place at the far end, the place that belonged to the child who would inherit nothing and was expected to want nothing, and she lowered her eyes to her plate, and she ate.
+
+She ate quickly, the way she always did when the air was bad. She had hoped for her sisters and the Angel of Qalathar. Instead she had walked into a war that used no swords.
+
+Her brothers hated each other. That was simply true. Each one wanted the throne, and each one knew the others wanted it, and every shared meal was a battle fought with silences and small cruelties and the careful arrangement of who spoke and who listened.
+
+Soraya kept her head down and prayed it would pass over her.
+
+Finally, someone broke the silence.
+
+She wished, almost at once, that he hadn't.
+
+"I confess I'm curious," the third prince said, swirling his wine with lazy confidence. "This noble. The one who decided to take a stroll through the lower city, mingling with the rabble, doing our soldiers' work for them." His mouth curved. "Tell me, Father—is there a son of yours I haven't met? Should the rest of us be sharpening our knives?"
+
+He said it as a joke. He even smiled when he said it.
+
+The Sultan turned his head.
+
+He didn't speak. He simply looked at the third prince. The smile died on the prince's face. He shut his mouth. He did not open it again. Soraya saw his throat move as he swallowed whatever he'd meant to add.
+
+The Sultan returned his gaze to the middle distance and said nothing at all.
+
+It was the first prince who spoke.
+
+"There is no noble," he said.
+
+Heads turned.
+
+"Much less an angel." His voice was dry. The voice of the eldest, the one who'd spent his whole life learning to sound like the answer to every question. "Whoever came to our city carried a straight blade. A sword forged in the Empire."
+
+Soraya's spoon stopped halfway to her mouth.
+
+"On the very same day," the first prince went on, "our Snow Dream distributor in the warehouse district was hit at sundown. Every man inside it dead. The stock taken or destroyed." He set down his cup. "That is not the work of heaven, brothers. That is the work of the Empire. Some mage of theirs, slipped over the border and through the wall and into our streets, did his business, and left us to clean the blood off the stones."
+
+"Through the wall?" one of the younger princes said. "Impossible. Nothing above three Circles crosses without the border garrisons flagging it. The protocols—"
+
+"Are exactly what I intend to ask about," the first prince said. "How they moved a man of six Circles past every checkpoint between here and the southern reaches is a question I will be putting to certain officers personally. And I will have an answer." His smile was thin and entirely without warmth. "But moved him they did. The signature in the plaza confirms it."
+
+"Six Circles?"
+
+The words were out of Soraya's mouth before she understood she was speaking.
+
+The whole table looked at her. The blood climbed into her face. She finished it in a smaller voice.
+
+"Wasn't it—I thought he had eight. The angel. They said—the Founder's own power, they said eight Circles, like the Founder himself—"
+
+The first prince looked at her the way one looks at a kitten that has walked onto a war map.
+
+"No," he said.
+
+He let the word sit, and Soraya wished the floor would take her.
+
+"Eight Circles," he continued, with the patient contempt of a tutor correcting a child who should have known better, "and he would have melted the entire plaza. The wall. Half the southern ring with it. There would be a crater where the gate used to be." A pause. "Unless he was holding back, which I doubt, because the signature he left behind was crude."
+
+"Crude," the third prince echoed, recovered enough to want back into the conversation.
+
+"Amateurish." The first prince's lip curled. "Uncontrolled. The casting of a man with no patience and no schooling who simply wanted the problem in front of him to stop existing and reached for the biggest, ugliest hammer he had." He shook his head slowly. "No master of eight Circles fights like that. That was a man burning everything he owned in a single stroke because he had nothing finer to use. An angel does not fight like a desperate soldier. That fought like a desperate soldier."
+
+Each word tore a piece from the figure she had carried all afternoon. Crude. Amateurish. Desperate soldier. She wanted to say that her angel did not fit inside those words. That the man who rose on wings of fire could not be reduced to an Imperial. Yet she swallowed it, because the youngest child at the far end of the table did not argue with the first prince.
+
+The talk moved on without her after that.
+
+The princes turned the matter over among themselves. It was an insult. An outrage. The Empire reaching its fingers into the Sultanate's own capital, into its own quiet commerce, killing its men and burning its goods and then vanishing back over the wall as if the desert and the soldiers and the founder's two-hundred-year peace were nothing.
+
+"It cannot stand," the third prince was saying. "If the Empire learns it can simply walk into Qalathar—"
+
+"What would you have us do?" another cut in, tired, older. "March on the Empire? They're bleeding to death on their southern front already. And whatever else that man was, brother—he killed a Titan. We were saved. You want to send a complaint to a man who saved us?"
+
+"We were used—"
+
+"We were saved."
+
+The voices climbed and tangled and climbed again, rivalry feeding on a new subject, and the Sultan at the head of the table said not one word, and ate not one bite, and stared at the place above the lamps where the light gave out.
+
+Soraya lowered her eyes back to her plate.
+
+She let the princes argue above her head. The Empire, the wall, the Circles and the politics.
+
+But none of it touched the question turning in the back of her mind, the one that had nothing to do with thrones.
+
+Who was he?
+
+Who was the Angel of Qalathar?

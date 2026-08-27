@@ -1,0 +1,399 @@
+---
+id: 1e818163-d588-5bcd-9614-e2d0a33d16a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 105: East"
+slug: 0105-chapter-105-east
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 105
+ownLength: 3436
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3796776/chapter-105-east"
+royalRoadId: "3796776"
+---
+
+Khalid did not return to the court.
+
+He led me through a side passage, a narrow corridor that bypassed the main gallery and climbed a flight of stairs cut into the palace's inner wall. Our footsteps echoed off stone that had been polished smooth by centuries of royal feet.
+
+His office sat at the top.
+
+It was not what I expected. Where Varen's working room had been buried under paper, Khalid's was sparse to the point of asceticism. A desk of dark wood, uncluttered. Two chairs. A narrow window that faced east, framing a rectangle of desert and darkening sky. The only decoration was a map mounted on the far wall, the Sultanate's territory rendered in ink, every settlement marked, every caravan route traced in fine red lines.
+
+Khalid closed the door and crossed to the window. He stood with his back to me, hands clasped behind him.
+
+"My father was generous tonight," he said. "More generous than I expected."
+
+"He was."
+
+"Don't mistake it for trust." Khalid turned. "If you succeed, he gains a weapon. If you fail, you absorb the blame and his other sons absorb the opportunity." His face gave nothing. "That is how he has survived decades on that throne."
+
+I said nothing.
+
+Khalid moved to the desk. He opened a drawer and produced a leather folio, thin and well worn, and laid it open between us. Inside were columns of figures rendered in Kumsuri script.
+
+"The treasury," he said. "My share of it. This is what I can draw without his approval."
+
+He turned the folio toward me.
+
+I couldn't read the Kumsuri, but the structure was universal. Columns of numbers. Rows of entries. A running total at the bottom that, even without comprehension of the script, I could recognize as modest.
+
+"A single Grade AA mana crystal," Khalid said, "will consume approximately a third of my operating reserve. The sourcing alone takes weeks. Our deepest caravan routes reach the interior crystal deposits, but those routes are under increasing pressure from the Titan migration. The last two shipments arrived with half their cargo."
+
+He tapped the folio.
+
+"I can give you one crystal. Perhaps two if I liquidate assets I would rather not liquidate. Beyond that, there is nothing. Not without going to my father, and going to my father means sharing the project with my brothers."
+
+"One is enough," I said.
+
+Khalid's gaze tightened. "One crystal. For a cannon you've never built."
+
+"One crystal gets us the demonstration. The demonstration gets us everything else."
+
+He studied me.
+
+"And the production?" he asked.
+
+"The design and inscription work happens in the Empire. My people have the workshop, the expertise, and the infrastructure. The demonstration fires here, under your father's eyes. Everything before that happens where the specialists are." I paused. "What I need from you is the crystal, delivered to the capital through diplomatic channels. A sealed shipment. Sultanate sovereign freight, the kind that doesn't pass through Imperial customs or cross anyone's intelligence desk."
+
+"You want me to smuggle military-grade mana crystals into the Empire of Silberwald."
+
+"I want you to send a gift to your ally. Through channels that your ally's domestic rivals cannot intercept." I shrugged. "The distinction is diplomatic."
+
+Something that might have been amusement moved behind Khalid's mouth. It didn't reach his eyes.
+
+"Your comm crystal," I said. "I need to contact my team in the capital."
+
+Khalid reached into the desk's lower drawer and set a crystal on the surface between us.
+
+"The palace relay will route your mana through the northern corridor," he said. "You will have a clear channel for approximately twenty minutes before the desert interference degrades the connection."
+
+He stood.
+
+"I will return to the court. My brothers are already working to undermine what happened in that hall, and I need to be present to prevent the narrative from shifting before the night is over."
+
+He crossed to the door. Stopped with his hand on the latch.
+
+"Don't waste our chance."
+
+The door closed behind him.
+
+I stood alone in the first prince's private office.
+
+Alone.
+
+I let the word sit for a moment.
+
+No, I thought. Never alone.
+
+Advanced Mana Perception could show me what my eyes couldn't see. Two mana signals on the far side of the corridor. Palace staff or guards. One directly below, in the room beneath the office floor, sitting motionless at what I assumed was a desk.
+
+But that meant nothing. A Fourth Circle wind mage with a resonance spell could listen through a stone wall without leaving a trace. The Ashkeri had at least a dozen operatives who could do it, and a prince who kept an intelligence network across the Sultanate's borders would be a fool not to monitor his own office when a foreign operative was using his equipment.
+
+Assume every word is heard.
+
+I sat in Khalid's chair and placed two fingers on the crystal's activation point.
+
+The stone warmed. The relay engaged. A faint hiss of distance filled the room as the signal climbed through the palace's internal array and leapt northward into the desert night.
+
+Three relay jumps. Each one added a half-second delay and a thin layer of static. The fourth jump cleared the border corridor, and the signal quality sharpened as it entered the Empire's network.
+
+"Who is this?"
+
+"It's Kaspar. Put Augustin on."
+
+"Kaspar." The former Comptroller's voice carried the particular weariness of a man who had not been sleeping well. "It's — what time is it?"
+
+"Late. I'll be brief."
+
+"You're always brief. It's what happens after the briefness that takes years off my life." A dry cough. "Go ahead."
+
+"The Sultan accepted. Twelve months to demonstrate. Khalid is sourcing a Grade AA crystal — it'll arrive through Sultanate diplomatic freight within the month. I need Rolf ready."
+
+Silence on the other end. The kind of silence that meant Augustin was running numbers in his head, the way he did, automatically, the way other men breathed.
+
+"A Grade AA," he said. "We've never worked with one. The energy differential between B and double-A is — substantial."
+
+"Rolf will adapt."
+
+"And the cannon itself? The barrel, the glyph inscription, the ironwood shaping... we haven't even begun fabrication—" Augustin stopped himself. Drew a breath. "You're asking me to begin production on a weapon that doesn't exist yet, using materials we don't have, powered by a crystal that hasn't arrived, on a timeline that assumes everything goes perfectly."
+
+"Yes."
+
+Another silence. Longer.
+
+"Augustin."
+
+"I'm here."
+
+"How's the workshop?"
+
+"The workshop is — amazing." His voice shifted. Underneath the exhaustion and the anxiety, something else surfaced. The hunger. "Rolf found his specialist. The man is terrified. Also excited, which Rolf assures me is the correct state for a researcher. Asena has been stockpiling ironwood."
+
+"Good."
+
+"The Magi-Cooling line is holding." Augustin's voice steadied further. "Two hundred and thirty-one outstanding commissions. Revenue is stable. I hired two more hands for the assembly bench." A pause. "Actually, more than stable. Revenue has never been this high. The quarterly figures surpassed every projection I wrote." The portfolio rustled on the other end. "And if the military cooling variant works in the desert the way we expect, if the Sultan's supply carriages prove the concept and the caravan companies start placing orders — Kaspar, you could become the richest man in the Empire. At least the richest not from the main noble houses. And we could stop being a luxury workshop for capital nobles. We could produce for merchant houses. For trade fleets. For garrison installations in every frontier town between here and the southern front." His voice dropped.
+
+"That's the idea."
+
+"The kind of thing that makes whoever controls it very, very difficult to ignore." A dry laugh. "Or to destroy."
+
+"When are you coming back?" he asked.
+
+"Not yet."
+
+The pause that followed carried a different weight.
+
+"I've finished what I came to deliver," I said. "But there's a second objective. The Titan activity. I need to understand what's driving it. The Iron Cross has had a hundred and forty operatives spread across the region and none of them have found a pattern." I kept my voice level, conscious of the walls and the ears behind them. "I'm going east. Into the desert."
+
+"East." Augustin repeated the word as though tasting it. "Into the territory where Titans come from."
+
+"Yes."
+
+"With how many people?"
+
+"Some."
+
+"That's not a number, Kaspar."
+
+"It's the number I have."
+
+He was quiet for a long time. I heard him set something down. A pen, maybe. The portfolio closing.
+
+"The crystal shipment," he said finally. "I'll have Rolf begin the theoretical work on the scaled architecture immediately. When the Grade AA arrives, I'll need to arrange a secure testing facility. Somewhere outside the city. The rail-pistol cracked a brick wall. A cannon will crack more than that."
+
+"Handle it."
+
+"I always do." His voice dropped. "Don't get killed out there. I've just gotten comfortable and I'd hate to have to start mourning on top of it."
+
+"Goodnight, Augustin."
+
+"Goodnight."
+
+The crystal dimmed. The relay disconnected.
+
+The palace corridors were cooler at night. The stone held the day's heat but released it slowly, and by the time I reached the covered gallery that led to the outer courtyard, the air had thinned into almost pleasant.
+
+Soraya was waiting at the gallery's end.
+
+She stood with her hands clasped behind her back, her weight shifting from one foot to the other, the silver headpiece back in place but slightly crooked. A palace attendant stood three paces behind her.
+
+"You were with my brother a long time," Soraya said.
+
+"We had things to discuss."
+
+"Military things." She fell into step beside me, matching my pace. "He never tells me about military things. He says I'm too young."
+
+"How old are you?"
+
+"Old enough to understand that the city is in danger and that no one in the palace will explain exactly how much." Her chin lifted. "Old enough that three houses have sent marriage offers to my father this year. I am not a child."
+
+"I didn't say you were."
+
+"Everyone else does." She looked at me sidelong. "Did you really fight a Titan with your bare hands?"
+
+"No."
+
+"With a sword?"
+
+"Yes."
+
+"And fire? Blue fire?"
+
+"Once."
+
+The questions came faster after that. About the Empire. About the Coliseum. About the southern front and the elves and the Iron Cross and the Academy. Each one tumbled out before the last had been fully answered.
+
+I answered what I could. Short answers, mostly. I wasn't inclined toward elaboration, and the palace grounds were not the place for the kind of honesty her questions deserved.
+
+Then, between questions about the Academy and the Knights, she asked it again. Not the way she'd asked in the quarters, blunt and fast. This time it came softer, dressed in a casualness that didn't fool either of us.
+
+"Were you ever married?" she asked. "Or betrothed? In the Empire, do Knights marry?"
+
+"Some do."
+
+"And you?"
+
+"I was betrothed once," I said. "When I was young. Our families arranged it."
+
+Soraya's step slowed. "What happened?"
+
+"I failed at something important. The arrangement ended."
+
+She was quiet for three paces.
+
+"Was she beautiful?"
+
+"She was clever," I said.
+
+"Do you miss her?"
+
+I thought about it. About the garden and the chess board and the girl.
+
+"I miss the version of myself who knew her," I said, thinking of the original Kaspar.
+
+Soraya didn't ask any more questions about it.
+
+Soon the outer courtyard appeared ahead. Beyond the arch, the city spread below.
+
+Soraya stopped at the arch.
+
+Her attendant stopped behind her.
+
+The princess looked at the city the way a bird looks through the bars of its cage.
+
+"You're leaving the palace," she said.
+
+"I have work in the city."
+
+"I know." She didn't move from the arch.
+
+"I'll be back," I said. "For the Kumsuri lessons."
+
+The smile that broke across her face was quick and bright and immediately suppressed.
+
+"Tomorrow?"
+
+"If Khalid permits it."
+
+"He will," she said. "I'll tell him it's essential for your cover."
+
+She turned and walked back into the palace, the attendant trailing behind her.
+
+I watched her go.
+
+Focus, I thought.
+
+I stepped through the arch and into the city.
+
+The commercial quarter near the southern gate was quieter at night than I remembered.
+
+The stalls were shuttered.
+
+The Iron Cross contingent had established itself in a rented compound three streets east of the staging grounds.
+
+Eckhardt's Knights had split as planned. Ten to the wall garrison, rotating into the Ashkeri's defensive schedule. The remaining four, plus the scouts, were here.
+
+I came through the compound gate and found them waiting.
+
+They'd gathered in the courtyard around a fire pit where a copper kettle sat on a grate.
+
+I counted. Four Knights, seated on low stools and supply crates. Behind them, arranged in a loose semicircle against the courtyard's eastern wall, the scouts.
+
+There were six of them. I hadn't met them before the convoy, and the five weeks on the road had given me time to study each one.
+
+Three were Regular Army veterans reassigned to the Iron Cross through the expeditionary pipeline that Varen had been quietly building for the past months. Hard men with desert experience gained on the Empire's southeastern border, where the scrublands thinned into sand and the bestial territories began. They carried the lean, sunburned look of soldiers who had spent more time outside the walls than behind them.
+
+Two were mercenaries. Contract fighters recruited from the minor kingdoms that clung to the mountain margins between Silberwald and the eastern blank. One was a woman with close-cropped gray hair and a longbow strapped across her back who hadn't spoken more than thirty words in five weeks of travel. The other was a thick-necked man with a scar that divided his left eyebrow into two halves and a pair of short swords worn in crossed sheaths at the small of his back.
+
+The sixth was different. Younger than the rest, leaner, with the watchful stillness of someone who had learned to survive by seeing things before they saw him. His name was Tarek. The Iron Cross recruitment files listed him as a Sultanate national, born in one of the deep-eastern settlements beyond the standard caravan routes. He'd been working the border corridor as a freelance intelligence asset when Varen's network flagged him. A man who knew the eastern territories the way a hunter knows a forest, not the paths through it but the things that lived inside it. What fed on what. Where the ground shifted. Which silences meant safety and which silences meant you were already being watched.
+
+He was not a navigator. He'd never led a caravan. The commercial routes through the deep desert, those were trade secrets that the caravan companies guarded, whose livelihoods depended on being the only ones who knew the way.
+
+He was the reason I'd come to the courtyard instead of sleeping.
+
+"We leave as soon as we have a guide," I said.
+
+The courtyard shifted. Heads came up. The kettle's steam curled between us.
+
+"Direction?" one of the Regular Army scouts asked. Sergeant Voller, the senior of the three. Square jaw, patient eyes, hands wrapped around his cup.
+
+"East."
+
+"How far east?"
+
+"Until we find what's driving the Titans toward Qalathar."
+
+Voller exchanged a glance with the man beside him.
+
+"Sir," he said carefully. "With respect. We don't know what's east. The maps go blank past the fifth settlement cluster. Beyond that it's open desert, bestial territory, and whatever else the caravans don't talk about."
+
+"That's why I need a caravan guide. Someone who's run the deep routes." I looked at Tarek.
+
+Tarek sat cross-legged on a woven mat near the fire. His dark eyes reflected the flames.
+
+Tarek unfolded from his mat. "I know three companies that run deep east. I can get us introductions at dawn."
+
+"Do it." I looked at Voller. "In the meantime, supplies for two weeks. Water is the priority. Food second. Weapons and alchemical compounds third. I want everyone carrying enough to sustain a fighting retreat at full march pace for three days if we have to pull back in a hurry."
+
+Voller nodded. "I'll draw up the requisition. If we strip the escort horses down to essential tack, we can load enough for fourteen days with a margin."
+
+"Good."
+
+The scouts dispersed.
+
+I sat down on the stool Voller had vacated and poured myself a cup from the kettle.
+
+The tea was bitter and lukewarm and tasted like sand.
+
+I drank it anyway.
+
+I tried to hire a caravan guide.
+
+That was the first problem.
+
+The staging grounds opened at dawn, and I spent the morning moving between the caravan offices with Tarek beside me, asking the same question at each one.
+
+The answers were variations of the same refusal. Too dangerous. Routes compromised. Crews won't go. Titans between here and the horizon, and every step east was a step away from the wall's protection.
+
+The fourth caravan master, a heavyset man whose office was a carpet spread beneath an awning with ledgers stacked on three sides, didn't bother with the polite version.
+
+"One thousand gold crowns," he said. He sat with his arms crossed and his chin tucked into the folds of his neck, and the number came out flat and final. "Per guide. Per day. One thousand."
+
+A thousand gold crowns.
+
+I stared at him.
+
+Who would be insane enough to pay a thousand gold crowns a day for a desert guide?
+
+"That's more than your company earns in a decade," Tarek said beside me, his voice neutral.
+
+The caravan master shrugged. The shrug of a man who understood the economics of desperation and had no interest in negotiating below the price that desperation set.
+
+We left.
+
+The fifth office was worse. The sixth didn't exist anymore. The family had packed their operation onto three camels and left Qalathar two weeks earlier, heading north toward the border settlements.
+
+By noon I'd spoken to every caravan company in the staging district. None would move east.
+
+There's an easier way.
+
+I returned to the compound. Wrote a message. Sent it through the palace relay to Khalid's office.
+
+The response came within the hour.
+
+The next morning, a detachment of the Sultan's household guard appeared at the staging grounds.
+
+Six soldiers in ceremonial robes, led by an officer whose bronze mask bore an additional mark of authority. He carried a scroll.
+
+The caravan masters watched from their offices.
+
+The officer read the scroll aloud. The Kumsuri was formal, the cadence of a royal decree delivered without haste or emphasis. Tarek translated beside me in a murmur.
+
+"By the Sultan's authority. In recognition of the present threat to the Sultanate and the crown's obligation to its defense. The caravan companies of the staging district are hereby directed to provide one qualified guide with experience in the eastern deep routes. In exchange, the contributing company will receive formal recognition of service to the throne. This recognition carries tax reduction for the next ten years and priority scheduling for the next season's northern trade routes."
+
+The staging grounds went quiet.
+
+Tax reduction and priority scheduling. For a caravan company, the second was worth more than gold. The northern routes were the most profitable in the Sultanate's network, and access to them was controlled by a licensing system that could take years to navigate.
+
+The silence held for a long time.
+
+Then one of the caravan masters rose from his carpet and came forward.
+
+He spoke to the officer in rapid Kumsuri. An exchange followed, too fast for me to catch. The officer consulted his scroll. The caravan master gestured toward the rear of his operation, where a group of young men in travel robes sat on supply crates watching the proceedings.
+
+One of them stood.
+
+He was young. Twenty-two, perhaps twenty-three. Dark-haired, compact, with the calloused hands of someone who'd spent his life loading pack animals and navigating by stars. His name, when the caravan master introduced him, was Farhan.
+
+Tarek spoke to him. A brief conversation in Kumsuri.
+
+"He's been east three times," Tarek told me. "The deepest run was nine days past the settlement line. Crystal survey, not trade. His company was hired by a Sultanate geological commission two years ago."
+
+"Can he navigate without landmarks?"
+
+Tarek relayed the question. Farhan's answer was short.
+
+"He says he navigates by mana density gradients," Tarek translated. "The deeper you go east, the stronger the ambient concentration."
+
+"Good enough. Let's go east."

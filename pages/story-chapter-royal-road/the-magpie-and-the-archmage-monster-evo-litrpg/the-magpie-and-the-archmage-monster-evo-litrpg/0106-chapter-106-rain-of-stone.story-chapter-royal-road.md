@@ -1,0 +1,181 @@
+---
+id: b3ce7fa0-7ecd-5242-887c-49a9e5929cff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 106 – Rain of Stone"
+slug: 0106-chapter-106-rain-of-stone
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 106
+ownLength: 2066
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3237617/chapter-106-rain-of-stone"
+royalRoadId: "3237617"
+---
+
+It felt like the world had gone into slow motion as Liora saw one of the football sized rocks shooting straight at her. If hit by it, then she would surely die instantly.
+
+If Cee hadn't been on her back, Liora would have used Featherflash to turn into the little mote and safely pass through the incoming rocks. But if she did that, the spider would plummet to the ground. Granted she wouldn't be turned into paste by one of the rocks first.
+
+HELP!
+
+Liora withdrew Renir into her beak, and tried to dodge the incoming rocks, using her Aerial Agility. But even so, the rock flew at amazing speed and with her body as big as it was and Cee on her back, she wasn't able to move as quickly.
+
+"SHIELD!" Renir called, materialized a small shield precisely in the front of the place where the rock was about to strike Liora.
+
+Rock bounced off the shield and went flying off somewhere. The shield shattered right after impact.
+
+"I can only do one more of those!" Renir warned.
+
+Liora made sure to put some good distance between herself by flying higher. She also equipped the necklace to improve her mana regeneration. Previously, she had hoped to use Mana Conversion while most giantesses were distracted. But this changed things.
+
+Looking down, Liora saw that the humans had escaped the barrage mostly unscatched. Morgana obviously had dodged the projectiles without issues, being even more agile than Liora. Nord had hidden behind one of the flimsy fences. He did get hit by the residual debris of the broken fence, but it was just minor scrapes. Donovan had withdrawn a shield and hidden safely behind it.
+
+The giantesses weren't so lucky. Few of them had been hit several times, resulting in horrible bruises and broken hands for one of them. The giantess Liora had struck with her Skypierce, had been hit in the head and killed.
+
+[You've assisted in defeating <Jungle Giantess – Level 49>. Experience gained.]
+
+"I can't believe the cyclops attacked without any regard for the giantesses. Is he that stupid?" Cee said.
+
+"No. Stupid monsters can't talk. This guy just doesn't care," Renir said.
+
+"You all disappoint me," the cyclops said, taking a lazy step forward.
+
+The giantess fell to the ground with loud thud, grovelling and whimpering something illegible.
+
+"What use are you if you can't even kill a few rats?" Cyclops said and jumped.
+
+He moved far more quickly than Liora thought was possible, landing right in front of the largest snivelling giantess. The monster pressed her head to the ground, bumbling something all the while, although it was clear that the giantesses couldn't actually speak.
+
+"What was that?" Cyclops asked, grabbing her roughly by the chin and forcing her to look up. The giantess was crying.
+
+"Now I just feel bad for them…" Liora muttered.
+
+"Don't. Cyclops or not, they wouldn't show you any mercy or kindness. You shouldn't either," Renir said firmly. "Take this chance to attack. Cee, jump off as soon as you're close enough to the ground."
+
+Liora Faded and plunged down at high speed. She could feel the spider gripping onto her feathers rather painfully, but as soon as Liora was low enough the spider jumped off. Liora however continued forward while her Fade still worked heading straight for the cyclops eye.
+
+The effect ended when she was right in the striking distance, so she Lunged for the eye with full intention of destroying it. She expected the lumbering giant to have slow reflexes but to her surprise, the cyclops raised his hand to protect his eyes.
+
+Liora struck his hand instead, but the attack wasn't strong enough to break his tough skin.
+
+"What an annoying bird! Get lost!" It said in annoyance, and suddenly Liora felt intense pressure. She hurriedly withdrew Renir and used Featherflash.
+
+She wasn't a moment too late as a sharp rock spike suddenly surged from the cyclops' arm at Liora. Thanks to Featherflash, Liora managed to turn into a mote just in time to safely pass through the deadly spike.
+
+I've never seen a cyclops be able to do magic. What is going on?
+
+Don't ask me! I'm just trying to survive here.
+
+"Keep your distance!" Morgana warned, loading something into her pistols. Next moment, she began shooting elemental bullets of every color at the slightly disoriented cyclops.
+
+Most didn't seem to do anything, merely striking the skin and fizzling out. But two of the bullets seemed to have a different reaction. The brownish-yellow bullets which Liora assumed to be earth aligned disappeared before they even came in contact with the monster's skin. The pale blue bullets created an audible cracking noise and burst with a small light upon impact.
+
+"We have an ice weakness, everyone!" Morgana announced.
+
+That doesn't help me…
+
+No, but Cee might take advantage of that.
+
+The cyclops blinked out his eye and then looked around, trying to identify Morgana. He soon found her and growled in annoyance.
+
+"What pesky rats," it muttered. Then the cyclops kicked the giantess in front of him. "Don't just sit there. Get them!"
+
+All the giantesses, whether they were injured or not, got to their feet and rushed at Morgana, screaming loudly and waving their clubs around like crazy. Meanwhile the cyclops looked up and nodded in satisfaction when he spotted Liora.
+
+Why me?
+
+Try to lure him away from the giantesses so Morgana could deal with them in peace.
+
+I don't want to be bait!
+
+Do you really want to try fighting that?
+
+Cyclops raised one of his hands high up in the air and tiny rocks began forming in the air. This time however, they were in the shape of tiny knives rather than balls and there were far more of them.
+
+FLY!
+
+Liora hurriedly beat her wings and flew up high. The tiny barrage of rocks got released and whizzed straight at her. While she was fast, she couldn't outfly projectiles at the speed of a bullet. So she swerved to the right, trying to get out of the way of the rocks.
+
+But the cyclops had made a wide arc of them, basically turning the sky into rain of deadly projectiles. Liora had no choice but to withdraw Renir again. He conjured a shield, which protected her from the attacks.
+
+At the same time, somewhere below there was the sound of explosion as Cee set off more of her webs. Liora wished she had the time to look down and check the situation there. But she didn't have the leisure to do that.
+
+Instead she Faded and flew forward as quickly as she could, worried that the cyclops might have conjured more projectiles. Only once the skill's effect ended, did Liora dare to glance over her shoulder. She was a far distance away from the cyclops camp.
+
+Did I overdo it? I think I flew too far.
+
+No, you didn't. Look below.
+
+Liora swerved head underneath herself for better view and saw that cyclops was running after her, moving trees out of its way with lazy waves of his hand. It took a moment to realize that it was forcibly pushing the soil beneath the tree out of the way. The scary thing was that it was incredibly fast. The cyclops was quickly gaining on her.
+
+I still don't get how that cyclops could have gained such strong magical abilities. I've never seen anything like it in other cyclopses I've encountered. They always relied on their strength. This must be caused by evolution.
+
+As much as I love your magical theories—not really—I'm a bit busy at the moment.
+
+Liora kept flying towards the edge of the island, in the opposite direction of the clinic. Maybe if she got to the sea, she would be able to put a safe distance between herself and the monster. Taunt it just enough to try reaching her until Morgana and others dealt with the giantesses.
+
+Sadly, she didn't make it all the way to the sea as the cyclops caught up to her and launched another barrage of deadly rocks straight up into the air. The amount the monster could conjure up just like that was astounding.
+
+This is cheating! How can conjure so many? What about mana?
+
+Seems that he either has huge reserves or an astounding regeneration rate. Perhaps even both.
+
+Knowing that doesn't help me!
+
+The rocks whizzed up, coming towards her like a barrage of bullets. Flying upwards was useless—she couldn't outspeed them. So instead of that, she flew down, accelerating. Right before the projectiles reached her she used Featherflash, turning into a mote of light and safely passing through.
+
+One. Two. Three. Four.
+
+She got past the barrage right on time.
+
+"Got you, bird!" Cyclops said victoriously, conjuring more projectiles around himself.
+
+Does this guy never run out of mana?!
+
+Liora, the rocks from above! They'll fall soon.
+
+She hadn't even realized that, but by the laws of gravity dictated that everything that went up would eventually come down. Liora was effectively caught in a trap with nowhere left to fly.
+
+Fly forward and chant this—Condense. Achor. Endure.
+
+"Condense. Achor. Endure," Liora chanted and flew forward as quickly as she could. She felt a sort of barrier appear around her body, as if somebody had draped an invisible sheet around her.
+
+Keep chanting! This shield will protect you as long as you keep chanting, but each time you get hit, your mana will get depleted.
+
+First of the sharp rocks from below hit Liora from below. She could feel each strike like a soft pellet struck her body. However, each time she could feel a huge chunk of her mana draining away.
+
+"Condense. Anchor. Endure. Condense. Anchor. Endure. Condense. Anchor. Endure," she kept chanting as the rock from the previous barrage fell down and also struck her.
+
+She did her best to avoid as many rocks as she could with her Aerial Agility, but there were just too many. It was like trying to dodge raindrops in a storm. With each strike, her mana decreased more and more. Each second seemed like an eternity, and she suddenly felt very, very slow.
+
+But then she felt at the back of her mind that the Featherflash was ready for use again. She activated it instantly turning into the intangible mote, save from the rocky barrage for four whole seconds.
+
+These four seconds felt like God's blessing as she was able to get safely out of the range of the projectiles. The moment she materialized, Liora activated Fade and dove down into the jungle. Once there, she took on her Magpie disguise and hid among the dense foliage.
+
+That cyclops is insane! I always felt so safe in the sky, but this guy just keeps firing his rocks at me from all directions. How is that fair?
+
+I think it's clear why the giantesses stay with him. They are afraid of his power.
+
+No shit, Sherlock! But what am I supposed to do? I can't fight him.
+
+Then stay hidden. You've just done the best thing you can in this situation. You've disappeared from sight. Cyclops will search for you, but all that's here are just regular birds. We just need to buy Morgana a bit more time. Also… What's Sherlock?
+
+Not now…
+
+Liora honestly felt terrified. Never in her life had she felt so helpless. She's out of mana, her Fade and Featherflash skills have a rather long cooldown and can't reliably protect her all the time.
+
+"Come out, bird! You can't hide from me!" The cyclops bellowed and stomped around the jungle.
+
+From her hiding spot, Liora could see that he was flinging trees out of the soil left and right, sending birds flying in every direction. Each time they did, the cyclops conjured his rock barrage and killed them all.
+
+That's… No! Those birds didn't do anything wrong!
+
+Move closer to the shore. He'll soon reach this place.
+
+Liora wanted to stop the cyclops. He was killing all those birds just to get to her. She had to stop him somehow… But how?
+
+Liora! Fly to the shore!
+
+For a moment, she considered listening to Renir's request. But then she saw how the cyclops killed yet another flock of birds with his rock barrage. Liora took flight.
+
+She wouldn't let this monster kill her bird brethren in cold blood.

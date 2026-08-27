@@ -1,0 +1,257 @@
+---
+id: 7dd83c49-4426-58cf-9509-81698fb1c2af
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 416"
+slug: 0115-the-path-of-ascension-chapter-416
+partOf: the-path-of-ascension
+position: 115
+ownLength: 5083
+unit: words
+ownProgress: 5083
+publishedAt: 2025-06-02
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2325374/the-path-of-ascension-chapter-416"
+royalRoadId: "2325374"
+markedReadAt: "2026-06-29T19:21:47.289Z"
+---
+
+Chapter 416
+
+Quickly finding Liz’s location, Matt compressed space and stepped to her side.
+
+It wasn’t particularly hard, as she wasn’t all that far from him. She was at their spaceport, standing with a Dobrescu ship captain and a trembling young woman who was apparently a runaway debtor.
+
+The captain was only Tier 20 but was accompanied by three Tier 30 guards, which struck Matt as strange. The discrepancy was explained by their status as a distant cousin to the main Dobrescu family, but he felt there was still something weird going on, and so he dug deeper. Nothing stood out in his quick perusal, but he kept looking through histories even as he arrived next to Liz, wanting to make sure he was ready for any plots coming their way.
+
+The five foreigners bowed to varying degrees as Matt arrived, but his attention went to the quivering mess that was the Tier 5 girl. A quick scan showed she was only nineteen, which was a bad sign and sent Matt’s mind racing. The Path only required someone to reach Tier 5 by the age of twenty one, so seeing someone at that Tier so much earlier could only mean one thing.
+
+Someone had rushed this child up the Tiers at a blistering pace, given that she was a good way through the Tier already.
+
+A quick scan of her spirit showed her Concept was undoubtedly an aura potion, which only reinforced that theory, which was an abuse of his potions that he hadn’t considered before this.
+
+Liz had thankfully sent him a message with what he had missed.
+
+The girl, one Eirene Galru, was a native of the Innes duchy, which was their neighbor seven or eight duchies removed, but none of that answered the how or why.
+
+The ‘how’ was fairly obvious and easily investigated. Eirene arrived by ‘stowing away’ on the Dobrescu ship by slipping herself into some cargo. That would have been illegal under normal circumstances, but even if she had bought a ticket, she normally wouldn’t have been allowed on board. To travel out of a fiefdom's borders one couldn’t have any outstanding debts or obligations that would keep her from leaving. Normally, the normal AI verification for travel would have caught any such outstanding debts, but that was where things became convoluted.
+
+First was that Eirene didn’t have an AI, and so relied on a pad and identity profile on the PlanetNet of the world she was living on.
+
+A Tier 5 not having an AI was strange, but not completely unheard of, if that was the only oddity. But if things were so simple, the Dobrescu captain would have undoubtedly dropped Eirene off at the nearest planet into the custody of local guard or police custody to be returned to her debtor.
+
+Except, the debt didn’t originate from Duke Keegan Innes himself, who had issued the return order, but instead from a Baron Dysoon who fell under the duke.
+
+In and of itself none of that was illegal, but it raised Matt’s hackles. It had apparently done the same for the Dobrescu captain who had, upon seeing the oddities, refused to return Eirene to his custody. As Matt and Liz’s duchy was her original destination, she simply skipped her intermediary stops and flew straight to them.
+
+If all of that wasn’t strange enough, Duke Innes himself was reportedly on his way at the fastest possible speeds to ostensibly retrieve Eirene.
+
+The obvious answer was also the most likely answer, and the one that Matt couldn’t tolerate.
+
+A Talent slave.
+
+The same conclusion that Liz had come to.
+
+“We will take things from here, captain. We will report to Silvia about your interruptions and the reasons behind them. Please feel free to resume your normal business. If any further complications arise because of this, don’t hesitate to message one of us.” Turning to Eirene, Liz continued, “Do you mind if we reconvene somewhere a little less busy to solve your… issue?”
+
+At a feeble nod, Matt cast a [Portal] to the ground. Not their floating castle, but instead one of the smaller estates the duchy had set aside for surprise important visitors.
+
+This one was a simple two story structure, more like a normal house for those who enjoyed that style of housing, but came with a several acre yard protected by formations just off downtown of one of the larger cities on Palustris.
+
+Even on a planet with plenty of undeveloped land, the estate was actually the product of spatial expansion, given the nature of land value in a popular city. But that also came with formations that ensured the area was safe for a lower Tier given Palustris’ harsh environments.
+
+Sitting down on the back terrace, Matt pulled out several different drinks along with a variety of food while messaging Cato about the mess that was probably about to fall into their lap sooner than later.
+
+Matt leaned back trying to give the still stressed girl space. “Ok Eirene. Can you tell us what happened? In your own words. Don’t worry about offending people or anything like that. Don’t even worry too much about being perfectly correct. Just tell us what happened as best you can. Can you do that?”
+
+It took her a few seconds but she nodded, not seemingly able or willing to meet either of their gazes. “When I awakened I got a Talent that let me increase the efficiency of people working under me. I was super excited because I thought I could sell my services to Baron Dysoon and make a good life. He seemed really nice at the time and offered me what felt like a lot as well as being carried through the Tiers. My parents urged me to take the deal, and so I did. At first things seemed normal enough and I was carried through to Tier 3. Once my growth Talent increased the efficiency even further, things got weird. First, we took a break, which seemed normal enough. But after a few months I was then brought to Duke Innes, who said he had bought out my contract and he started rushing me up the Tiers even faster. We delved one or even two rifts a day with different teams sometimes. At first I was really happy. Tiering up so fast seemed like a good thing.”
+
+Eirene’s fists shook as she grabbed her shirt. “Once I reached Tier 5, they had me start managing small teams. At first I was made a manager of a simple gardening team. I did some paperwork and inspected their work. That’s what seems to make my Talent work. I need to be involved. But after a few weeks of that, we started shifting jobs. From gardening, to cleaning, to maintenance, to supplying orders, finally to crafters. I—”
+
+Eirene started to shake so badly that Matt looked to Liz, who just shook her head.
+
+Silently, they waited for Eirene to get her emotions under control. “After a few months of that, I was told that I wasn’t able to leave the compound we were at. Not even on our days off, for various reasons. At first they seemed reasonable, and about my safety and the time that the guards had free. But after a while, it became clear. I was never going to be able to leave without an escort of at least a Tier 15 who could prevent me from running. I tried to run away at that point, but I was dragged back and Duke Innes laid out my debts. He said I was in debt for trillions of credits already and I needed to be kept under control until my debts were paid back.”
+
+Nearly choking on her words as her body started to have a panic attack, Eirene forced out. “But— But— But he said he wanted me a higher Tier, but the delving was what was putting me into debt. Each delve cost billions, and they kept me in the rift as much as possible. And any time out of the rift, I was being charged for my protection. I didn’t know what to do. I could never pay off those debts, and he said that because my parents had signed the original contract with me that if I defaulted, they would also fall under the debt. I was scared and worried, even though I knew that didn’t sound right, but the LocalNet was isolated and I wasn’t able to look anything up. After that I kept my head down, and while they never let up, things did get a little looser. Eventually, I got put in charge of a logistics department, which is how I got out.”
+
+Eirene hiccuped but forced out a smile. “I ordered a really rare material, Depleted Copper, that needed to be in a shielded crate on top of other containment procedures. It's safe, but only when properly contained, and one of those mandatory layers is a spiritually shielded crate. When it came to the wrong location, I simply got inside and let myself get delivered to the Dobrescu ship, who only noticed once my air canisters ran out and I had to open the box.”
+
+Eirene peered up through her short, cropped hair as if worried about Matt or Liz yelling at her.
+
+Matt simply nodded to indicate he had heard her, while not sure what to say. It wasn’t because he didn’t know what he wanted to say, but because he didn’t want to burden Eirene unnecessarily.
+
+Liz, however, was more eloquent. “Thank you for explaining Eirene. We will ensure that you don’t get taken back by anyone. We will also look into this and figure out exactly what was happening. First, though, do you need a hospital or medical treatment for anything?”
+
+Neither of them could sense any obvious signs of assault or unwanted physical modifications, but that didn't mean they hadn’t happened or if Eirene would feel more comfortable visiting one.
+
+“No, I'm ok.”
+
+Matt decided to follow up and asked, “What about a therapist? A neutral third party might be helpful?”
+
+When she declined, Liz handed Eirene a handful of physical credits, thousand credit coins in that instance, which would allow her to buy food from any of the nearby vendors or stores while explaining which ones she and Matt enjoyed.
+
+Eirene seemed almost scared to leave the estate and started asking about if there was anything she could cook or any stores that delivered.
+
+Reigning in his anger, Matt stepped up to the Titan’s Torch moon and into the guild offices floor where the lawyers congregated.
+
+Finding just the man he was looking for, Johannes Macbo, the Tier 35 lawyer who had headed their defence of the Falker Corporation’s travel engine patent debacle, Matt walked straight into his office.
+
+“I need you.”
+
+Johannes quickly dismissed the two lower Tier lawyers he had been guiding through the process of writing a rebuttal and gave Matt his full attention.
+
+“Sorry, we are short on time. We have about an hour, objective time, maybe less, until Duke Innes arrives and he pisses me off badly enough I’m going to just have him killed."
+
+Hearing that, Johannes’ eyes went wide, but he simply asked, “What do you need me to do?”
+
+“Check the files that I just sent you. These were sent to a Dobrescu ship which housed a Tier 5 stowaway from said duchy. They are claiming a debtors return clause but it stinks a whole lot like Talent slavery. Ideally, we can handle this with a clear legal stance. But if the law can’t fix this, I’m going to.”
+
+Johannes blurred as he sped up to Tier 35 speeds as he read over the documents, then blurred around the office before leaving and returning a moment later with two other Tier 35 lawyers. Matt recognized them and knew they dealt with employment contracts and interducal regulations, respectively.
+
+Matt just sat there silently as they went over the contract originally sent over. He wanted to just kill Duke Innes; it would be the easiest answer, but something was stilling Matt’s hand.
+
+He suspected that this might be a set up. It was unlikely that Eirene herself was a part of it, but it was entirely possible that she was being used as an unwitting pawn in a much larger game.
+
+Depleted Copper did need to be shipped with special considerations, but the typical boxes used to ship Tier 5 or below depleted materials were only shielded to Tier 15 spiritual sense, unless the material themselves were over Tier 15.
+
+Eirene's box just so happened to be a container that was meant to shield Tier 40 materials, which he was able to confirm thanks to it having been left behind as evidence.
+
+There was no way that such a valuable box had accidentally been allocated to a Tier 5 material just when Eirene so desperately needed it. Matt just refused to buy it.
+
+Instead, he fully believed that the Ever Flame society poised against them decided to throw a bomb into his lap.
+
+They wanted Matt to react with blood and kill a duke because of his overstepping of what was right and proper. Matt had made it very clear across several interviews that after what happened to Justinian, he would not tolerate such behavior.
+
+Compared to Justinian, who was truly locked in, Eirene was apparently being bound by unclear laws and what Matt was sure would be subtle threats, which he knew would make all the difference.
+
+Not to him. He saw such tactics, even if they were perfectly legal, just as bad as the actual chains, given they amounted to the same thing. But people who wanted to ruin his reputation would undoubtedly parade the differences and murky legality around as if they made what was going on ok.
+
+And that was the beauty of the move. Even if Matt saw the trap, he would still act.
+
+While he hated to fall into an enemies ploy, Matt wouldn’t, under any circumstances, allow Eirene to get sent back into what was no different than captivity because of her Talent.
+
+Just as he suspected, Johannes spoke, “Guild leader, the legality of the contract isn’t itself in question. The original contract was legal, if exploitative. Here you can see there is the information about the payment for being carried as well as the repayment. It says ducal standard, but we’ve checked and the ducal standard for the Innes duchy is a hundred times, so no one actually uses it. Deceptive, but legal. At least technically. Now after that everything gets a lot more fuzzy. Contracts of this regard aren’t normally transferable, but as Baron Dysoon is a subject of Duke Innes, there is precedence for usurping a contract for a retainer or vassal. Usually, it's done for guards and the like who want to move up but keep their political allegiances clear and tidy, but there isn’t any rule or regulation preventing this being used for someone like Eirene, who signed on in a more supportive role. Legally speaking, she is or was retainer to Baron Dysoon.”
+
+“What about the debts? She said they were charging her for seemingly everything in an effort to increase what she owed.”
+
+For the first time, the lawyers didn’t seem concerned. “Those additional debts that are charging her for the costs of housing and maintaining her are frivolous, and would undoubtedly be thrown out by any judge who looked at these contracts. Sadly, they are fairly common, but one must lodge a formal complaint to get them removed. The AI that reviews contracts would flag it as illegal, but with no AI and no way to contact a CityNet, she wouldn’t know that.”
+
+Matt didn’t like what he was hearing, but had expected as much.
+
+“The lies might be chargeable, but it would be a he said she said case, so it's unlikely it would go to trial as she didn’t have an AI. And I’m sure Duke Innes’ [AI] was always off any time he met or was around her. Most likely, it would just be resided and a small fine paid and the system would wipe its hands of it. Do any of you disagree?”
+
+As the lawyers shook their heads at his question, Matt tried to figure out what he was going to do.
+
+“What about the threat to her parents?” Matt asked as he suspected Eirene would be relieved to have an answer either way, but while he was no lawyer, he suspected that had only been a threatening tactic used to control her.
+
+“As for the threat that Eirene’s parents would be responsible for her debt, that is a complete fabrication. They wouldn’t be able to inherit any of her assets until her estate had settled its debts, but a debt won’t transfer to them directly like that if she ran away. That's an empty threat and nothing more.”
+
+Nodding, Matt thanked them for their time as well as telling them to coordinate with the ducal lawyers and press teams to start preparing if he did end up having Duke Innes killed.
+
+He didn’t want to just walk into someone's trap like that, but he suspected he would be doing exactly that when the man arrived, given the situation.
+
+Liz gave him a feral smile when he arrived back next to her. “Anything interesting?”
+
+“Lawyers say things are grey but it probably wasn’t outright slavery, legally speaking.”
+
+“So we just have him killed to warn everyone else?”
+
+As much as Matt wanted to say yes, he shook his head. “I appreciate you having my back, and as much as I’d like to kill him, I think it's bait. Normally, I wouldn’t care, but this feels like they want us to try exactly that. Why else is Duke Innes rushing over here instead of hiding given my very public stance on this type of situation?”
+
+Liz nodded along but asked the same question Matt was asking himself. “But do we care?”
+
+Their answer came twenty minutes later when Duke Innes’ ship arrived into real space carrying a clone of the duke.
+
+That at least explained why the man thought it was a good idea to intrude into their duchy chasing someone he had illegally kept captive.
+
+Smiling, the man exited his ship like he was stepping into an award ceremony where he was the main recipient. “It's good to meet you in person, Duchess Moore, Duke Moore. How lovely you have already picked up my wayward retainer. I’ll take her off your hands and will be on my way.”
+
+Matt just stared at the pompous Tier 35 facsimile, figuring out how best to destroy the clone.
+
+Liz however was more eloquent. “What are you playing at Duke Innes? You must see that your contract with the girl leans heavily towards the illegal, even if it is a grey area. That goes doubly for your interactions with the girl, though I’m sure there is no proof of any such meetings. Still, coming here so flagrantly is just stupid. Even if we can’t kill you for real, this animosity won’t just end here. Are you really ready to start a war like this?”
+
+Duke Innes' smile turned into something oily. “Whatever do you mean Duchess Mo—”
+
+Liz cut him off with a flicker of golden Ichor. “Ascender Legion, if you please, Duke Innes. We are not so familiar with you, so please use our proper title.”
+
+“Duchess feels more appropriate, given that we are talking about a interducal extradition. But if you insist.”
+
+“We do, because we are not acting as mere Dukes of the Empire right now. That would… limit our options far too much.”
+
+Duke Innes seemed ready for that, and waved the accusation away with a hand. “I can assure you that no such thing has occurred, and will happily present my contracts with Eirene to the Emperor for review if such is needed from our liege. But until that happens, I will be taking away my retainer in the meantime.”
+
+Matt didn't say a word and simply raised a finger and cast [Mana Beam] at his full power. It was clear they weren’t going to get anywhere with this, and he was done.
+
+A five foot wide bar of white blue mana lanced out, cutting through the distance between the two of them.
+
+Duke Innes tried to dodge, but Matt focused on him and made him the center of the Realm with his Intent.
+
+For an actual cultivator, let alone a Tier 35, the trick would have never worked. But this body being a [Clone] didn’t have a Domain to bring to bear to resist Matt’s working.
+
+A purple oblong spell sprang into existence and blocked Matt’s spell, sending ribbons of mana spiraling out and into empty space, but Matt didn’t let up.
+
+After three seconds, the clone started shouting spiritually, “Let us talk like civilized people. We can come to an agreement. This clone is about to run out of mana. Duke Moore! Ascender Titan! Please. Wa—”
+
+Before his final plea could be heard, the clone fell apart as it ran out of mana to keep his defensive spell up and the clones necessary reserves.
+
+“Well. Now that this is handled, how should we respond?” Matt wiped his hands.
+
+Liz bobbed her head at the question. “With how insistently he came in, we can do the same and just keep our stance that we feel that he was overstepping his rights as a duke, even with the contract in place. Or we can play hard ball and go pay him a visit.”
+
+Matt really wanted to do the second one, but agreed that the first was just smarter. “Let's throw the ball back into their court. I still think this is a trap, and it will be a lot harder to spin this if we simply treat this as us refusing him entry into our duchy and forcefully removing him. Given it was a clone, there is no real argument that we were trying to kill him.”
+
+“We’ll have to return his ship to him in that case. I was half tempted to destroy it out of spite.” Liz bobbed her head back and forth. “If things escalate, we can destroy a lot more than that.”
+
+Matt nodded while also sending a message through the Army channels, ordering a squad to get and bring Eirene’s family to his duchy as quickly as possible. However unlikely and outright dumb it may be, there was a non zero chance that Duke Innes, or more likely the society who Matt suspected was pulling the strings behind this, would attack the family just to escalate things while keeping themselves out of the picture. It was undoubtedly a misuse of army resources, but anyone who wanted to make that complaint about Matt would need to do so to Rusty or the Emperor, neither of whom would bat an eye at Matt’s ‘wasting of resources’.
+
+Through it all, Matt couldn’t shake the feeling that they were ultimately doing exactly what the society wanted. He just didn’t see any other way forward without handing Eirene over, and he wouldn't do that even if she was a deliberate plant by the society, which he doubted.
+
+It was just more likely she was a pawn in their games.
+
+“Agreed. I want to hit the Circle of Ever Flame. Any leads at all in the last few years I’ve been working?” Realizing he had been out of the loop for so long, he pulled Liz into a hug. “Which, thank you for that, by the way. It was nice to be able to just fully focus on the guild for a while. I know this couldn’t have been the first thing you’ve dealt with while I’ve been nose down.”
+
+Liz hooked an arm through his as a phoenix formed on her shoulder. “I’ve been busy, but you can pay me back in the coming years. Let's go see how Eirene is handling this and let her know we'll go to bat for her.”
+
+“We need to go to bat for a lot more people than just her. How many others are in similar situations? In bad contracts but not able to do anything.”
+
+Liz turned and stopped Matt halfway through the stratosphere, “Matt. Deep breath.”
+
+“I—”
+
+“Honey. Deep breath. Please.” Once Matt had done as his wife asked she continued, “Ok. While I get this hits close to home, given the incident with Justinian, you need to remember there isn’t an epidemic of this sort of thing. If Eirene had an AI or a pad that wasn’t undoubtedly locked down on a network that was also locked down, she could have gotten word out to the appropriate officials that she was being forced to operate under an unfair contract. Maybe that wouldn’t have worked, but there are checks in place to stop this. This was an outlier, not the norm.”
+
+Matt ran the numbers and agreed with Liz. “You're right. Thank you. Still, I don’t think she's alone, even if it isn’t as bad as I was making it out to be. I’d like to put the word out that we will look into any possible unfair contracts and take appropriate steps if the relevant authorities haven’t done so already.”
+
+Liz looked like she wanted to say something, but ultimately didn’t, just nodding. “Sure, we can do that. Or rather, your [AI] can sift through the bajillion messages I’m sure you are going to get.”
+
+Matt winced. “You know, that's fair. Still worth it if it helps even a single other person.”
+
+“It is.”
+
+Together they floated down to Eirene’s estate.
+
+They initially wanted to have a chat about what she saw in her future, but seeing her still distressed state, they decided to wait a few days before meeting up with her again.
+
+By that time, they had least had good news. “Your parents are safely in the Army's care and will be here in two months.”
+
+Eirene looked like she was doing her best to hold back tears as she thanked them.
+
+Matt decided to be the bearer of bad news instead of letting things linger. “While we pushed Duke Innes away, word has it that he is already maneuvering to enter a legal battle. Or at least, he is threatening to. Chances are nothing comes of it, given how shady a lot of his actions look, but we wanted you to be aware.”
+
+Eirene looked like she wanted to vomit. “I can’t fight him. I—”
+
+Matt waved her off before she could start to worry any more. “Liz and I will take care of any legal fees and battles that might come up, as well as paying off the legal debt to remove that from over your head. We don’t expect anything in return, and frankly your debt is mostly fraudulent in nature. So if it does come to court, there is very little to worry about. But what you should start thinking about is what you want to do. We are giving you and your parents residency on Palustris as well as a house to live in, but this is still a capital world and it can be expensive, especially if you don’t actually know how to delve.”
+
+Eirene just wilted further but nodded as if she was expecting to be hit. “Ok.”
+
+Liz rubbed her brow before leaning forward trying to catch the Tier 5s eye. “We aren’t going to let you starve, Eirene. We aren’t like that dickhead. We only mention it because for all that it's brought you a lot of problems, your Talent is very strong. That's why it brought you so many problems in the first place, after all. The thing is, it doesn't have to be a bad thing. You can, now that you are not under someone's thumb, sell your services. Frankly, I don’t think you need to worry about it so long as you demand that any contract isn’t itself bound by any NDA or secrecy clause. Any duke, high Tier guild, or corporation in the Empire would fight to Tier you up and get you working for them. Shit, any of the royals including the Emperor himself would be willing to make the same offer. If you play it right, you can even get people into a bidding war. Frankly, with a logistic Talent as strong as yours has been described as being, the sky is quite literally the starting point, let alone the limit. Still, by that same token, you don’t have to make any of those deals. You can just work a normal job and live a normal life if you’d rather not.”
+
+Eirene shook as she tried to hold Liz’s eyes, but failed before Liz finished her first sentence. “What would you do?”
+
+Matt pulled a dagger out of his spatial ring. “If you want our advice… learn how to fight. You don’t need a combat Talent to become a good fighter. It may help, but isn’t a requirement. If you are strong enough to not be considered helpless, you can stop a lot of this bullshit from ever happening.”
+
+Matt wasn’t sure if he was talking to her or himself, but he carried on regardless. “Take some time and sign up for a martial school. This place used to be a Sect world, and it's littered with such schools. Take a few years and just get your feet back under you. Then you can decide about large things like your Talent. As a Tier 5, you have a long life ahead of you, even if you don’t continue to delve.”
+
+When she hesitantly took the dagger, Matt just nodded, hoping he wasn’t lying to either of them. But it felt like he was.
+
+Liz gave him a look but turned back to Eirene. “While delving is good and all, you can sign up for some beginners contract law courses. They don’t replace lawyers, but it might make you feel better if you really understand some of the tricks contracts use. Also… AI, you should really get an AI. The surgery isn't that bad if you want to get it today or tomorrow and you can have it up and running by Monday.”
+
+Seeing Eirene much more animated at Liz’s suggestion, Matt pulled back slightly, letting her take the lead.

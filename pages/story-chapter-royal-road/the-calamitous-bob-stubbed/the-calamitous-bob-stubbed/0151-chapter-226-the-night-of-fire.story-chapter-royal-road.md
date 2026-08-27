@@ -1,0 +1,331 @@
+---
+id: f36b41ac-dee0-556d-8f10-bb3d825a988d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 226: The Night of Fire"
+slug: 0151-chapter-226-the-night-of-fire
+partOf: the-calamitous-bob-stubbed
+position: 151
+ownLength: 4282
+unit: words
+ownProgress: 4282
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2701468/chapter-226-the-night-of-fire"
+royalRoadId: "2701468"
+markedReadAt: "2026-06-29T21:19:49.208Z"
+---
+
+Viv used her dregs of willpower to assume the [Aspect of the Paragon], feeling her people with the confidence she felt. As planned, the Sword of Neriad beached itself with a thud and a dull shock. Viv sent people across the railing and onto the sandy beach beyond. It was low tide, from what she could tell.
+
+The sailors left wielding weapons and a determined air, jumping down the four meters or so with their awesome physical stats while the yries had simply brought a rope because they had a brain. Even Bes slid down the rope with quiet dignity. Sidjin was the only one who almost crashed and that was because he was dead tired. Viv was the last one to jump down (everyone already knew she didn’t have much brains), leading the small band up the gentle slope towards where her shield and crown were. The cliff above shone gently in her mana perception, but she had to admit there wasn’t that much to be seen.
+
+“We stop there,” she said.
+
+The sailors formed a battle line  — bless their courageous arses — though Viv knew that it would be pointless. The distant shape of the Nemeti flagship approached at good speed.
+
+“Milady? This position is very exposed,” Sin whispered. “Perhaps we could go up the ramp?”
+
+“That won’t be necessary. They’re going to come very close to us to try and finish me off. They will fail, of course.”
+
+It was clear that Sin didn’t share her confidence. He could feel hers, but the evidence of his eyes didn’t back her story. He didn’t know her well enough yet. To be fair, she had failed to save Ravinport and Sandsong.
+
+“Are you sure they will come close?”
+
+“Yes, they have to be decisive because I won the game.”
+
+“What?” the captain asked her.
+
+“I won the race. I reached the shore before they could kill me, therefore I escaped. Their only path to victory is to kill me now at my moment of triumph.”
+
+“I am not sure I enjoy fate magic very much,” the old man said. “It sounds too much like gambling and tales.”
+
+“You are more correct than you seem to believe and… Hey! Are you dropping honey now?” Viv yelled at the yries.
+
+“Battle is finished for us,” one of them said, pupils already dilated.
+
+“No more shells!” another added.
+
+“We wait. We watch.”
+
+“The Lunatic has come tonight!”
+
+“The Old One will observe.”
+
+“It will be glorious.”
+
+“For fuck sake I already told you not to get high in battle. Even if you don’t have your guns anymore. At least maintain discipline. This is unacceptable.”
+
+“Want some too?”
+
+“Extra glorious!”
+
+Viv rolled her eyes but she didn’t intervene, though she’d have a talk with Lak-Tak later. Couldn’t have the assistant deputy war criminals give a bad example.
+
+Meanwhile, Sin wasn’t done.
+
+“Milady, if we should fall tonight, I want to say that it has been my honor and pleasure to fight alongside you. Your duel against the dragon was the stuff of legends, a battle I was privileged to witness, and only wish I could convey in poetry for future generations to learn.”
+
+His voice rose, heartfelt and genuine.
+
+“I regret not being stronger so that I may be a worthy blade to your magic,” he finished with a genuine affection and respect that shut down any temptation she had to tease him. Bes turned to him, spine straight and arms folded behind his back like they were in the throne room and not some beach at night.
+
+“Janar Sin, I believe you may be premature in your farewell. I am sure the lady has a plan. This shall not be our last stand.”
+
+“We don’t do last stands,” Sidjin said sleepily.
+
+He yawned like he was trying to pop out his jaw.
+
+“He’s right,” Viv said. “We don’t do last stands. As for my plan. I am going to sit on my ass and do absolutely nothing.”
+
+“Milady…”
+
+Viv raised a hand to preclude any unfun whining. The Nemeti flagship had accelerated again and now the escorts were fanning out behind it. They were almost on the beach. For some reason, they hadn’t fired their spell artillery yet. Viv could only assume the archpriest was waiting until all three were in range and possibly the rest of the ships too. Or maybe it was a fate-related setup since she had already won — she couldn’t be sure. Her instincts remained quiet for now. Soon, the first of the Nemeti ships beached themselves as well, their squat shape allowing their warriors to jump down from up high. It was the absolute perfect time to gloat.
+
+“See, you saw me defeat a dragon so you know I’m a good duelist, and I am. And I can do plenty of other useful stuff, like portals, and regrowing limbs which I’ll do with our new friends. That is not how I got the title of empress.”
+
+She strapped her shield on, seeing the innumerable sigils layered on each other like Frankenstein’s banner. The lowest, yries-made layer was here alongside her first sigils: the yries themselves, the Temple of Neriad, Kazar. They couldn’t be seen but they were there. She could almost feel them.
+
+“I got that title because I have never been alone. I have gathered the very best with me, and they are with me because they want to be: Sidjin here, Bes, you, and many, many others… and they’re here tonight. Harrak is here.”
+
+Sin looked around which only made Viv smile. He had good instincts but his mana perception could use some work.
+
+“Milady, I thought we were in Zazas’ territory.”
+
+“Harrak is its people. Am I not right? HARRAKANS!”
+
+The night lit up beautifully, bathing the approaching Nemeti in a red light. Surging from a recess in the dunes dug with brown mana and hidden by a trick of perspective, the heavies stood, some carrying the portable shield arrays on their backs. The top of the cliff fell off like sand blown in the wind, false walls made by siege specialists to hide fortifications. Torches, thousands of torches and braziers formed constellations of crimson reflected on the barbed ends of bolts, the shining maws of cannons, the steel frames of liberators. Mages and archmages lit up more shields and in the middle, a massive mast rose. It towered over the entire formation, and from it enfolded a flag as large as a sail: black, with a white pyramid, and dragon wings. The two notes of the war horns rang ominously, joined by drums. Most of the time they were used for communications but now they were just sending a message. That message was a threat.
+
+“AH! AH! AH!”
+
+“Harrakans, I have three orders for you. Kill everyone. Burn Everything. Go home!”
+
+Over ten thousand throats repeated that order with a fervor boosted by her [Aspect of the Paragon]. What had been a peaceful, night beach was now a vision of death: steel, fire, and magic in the hands of trained killers and a wave of intimidation and rage so potent it was almost physical pushed against Viv’s back. She didn’t have to give an order to start. Her people knew exactly what to do. They were more than ready.
+
+Fate thickened around her like a storm. She resisted the urge to grab those massive strands with her fingers. Idiots relied on fate, idiots covered their ships with bullshit protections, but fate was fickle. Capricious. Truly controlling it was like trying to ride a hurricane. The best path forward would always be to surf the tide and allow it to lead her wherever she wanted to be. And she was where she wanted to be. And the Nemeti were where she wanted them to be: facing a forest of spears, boxed in, and downrange from point-blank cannons and crossbows. A perfect killing field. She couldn’t have done it any better.
+
+Almost everyone fired at once, deafening her and making her wince despite her defenses. The flames of hell bloomed over the enemy fleet while above them, the night sky was striated with sizzling bolts because of course everyone had used enchanted, flammable projectiles. The flagship’s shield activated and, for a moment, it looked like it was going to hold as so many of the projectiles disappeared without touching it, but then the rest broke through, sent forth by yries, and the floating mountain groaned. Splinters and embers filled the air. Fire spread over the deck with ever-growing hunger. Lak-Tak’s people still claimed they didn’t enjoy war but Viv was starting to think the maniacal little shit was widely infectious.
+
+The rest of the fleet and those who had already landed fared far more poorly. The first ranks died, pierced, burnt, exploded. It was hell unleashed, and it was fucking beautiful.
+
+“Finally, I am done running!” Viv roared. “I am back! I am complete. I have joined the war on Evil… ON THE SIDE OF EVIL!”
+
+Nobody listened but then, she was just having a blast anyway. Hundreds of surviving Nemeti surged over the corpses of their brethren to die on heavy spears. A wild scream pierced through the monstrous noise from the far end of the beach to her right.
+
+“You have sinned!” an insane voice claimed.
+
+The zealots entered the fray, flanking the Nemeti as if it was even needed. It was a slaughter. Yet, despite their losses, the Nemeti fought back with everything they had. More troops charged down with abandon, all aiming for her. Dozens of artillery spells went up in the air. The largest one was intercepted and extinguished by a powerful blue bubble. Others were broken down by black mana interceptors cast by Rakan’s students. Frosthawk was leading wings of gray mages to disrupt the projectiles at their apex, when they were the easiest to intercept. The deluge of magic joined the roaring projectiles. This wasn’t a battle of maneuverability and endurance as were quite common in Viv’s career. This was an ambush, and the Harrakans were sending everything they had.
+
+Sin, by Viv’s side, was just standing there with his mouth open. Only Bes remained impassive as a gargoyle while thick ranks of heavies flowed around them like the tide embracing a boulder. Before another volley of Nemeti strikes could trigger, the arc of Harrakan shells changed. Rather than the normal blast, the explosions caused expanding, rising clouds of gray smoke. The sails of the lesser ships were caught in a blaze while on their decks, the Nemeti sailors fell, bodies still whole but dead as doornails. Viv nodded to herself. She was observing the latest entry in the yries’ mad pursuit for the Geneva checklist completion speedrun.
+
+Thermobaric bombs. Vacuum explosions. Hulls and the Nemeti’s resilient exoskeleton would be of no use here as the air was violently ripped away from them. As expected, fate fuckery was no replacement for a pair of lungs.
+
+Helping Lak-Tak design those was definitely a good idea and it would in no way attract the gaze of her patron god Neriad, the God of Righteous War. Could there even be human rights violations when your enemy wasn’t human? Wait, no, that was Pure League philosophy. But still. Viv sat back again to watch new troops arrive from her left: heavy cavalry, and Zazas’ javelin throwers were joining the crowded melee. At the same time, lights appeared on the sea behind the stranded Nemeti fleet. Allied ships.
+
+***
+
+“Sir the Harrakan ships are pulling out. They claim they are in range. They are offering their flanks.”
+
+The Zazas captain shook his head. His elation at leading such a large and diverse group melted as the complete lack of discipline turned a key attack into a messy thrust. It was already dangerous enough to approach such a massive force with only thirty ships. It was all the Paramese alliance could muster without Helock, Baran, or the Pure League.
+
+“Horseshit. Do they not care that their own troops are engaged?”
+
+His eyes narrowed. White lights lit up over the four Harrakan frigates, as port opened on the flank. He paled when he saw the glowing maws of those freaky metal tubes.
+
+Explosions rang across the night. Smoke rose, and in the distance, the Nemeti fleet burnt brighter.
+
+“The light gods preserve us from the Outlander’s evil contraptions, and her mad servants.”
+
+It would still take another five minutes before his own ballistas were in range. He calculated the odds of going against those frigates and realized naval warfare was going to have to change.
+
+“Just bring us in. We will do what we can.”
+
+***
+
+Bes leaned forward, as prim as ever.
+
+“Milady, victory is already achieved. Is this not overkill? Perhaps we should conserve some resources for the imminent and inevitable invasion of Oleander’s forces?”
+
+Viv waved his concerns away.
+
+“First, trust me, we have a lot of resources. I would rather have them fire everything they brought than lose a single life. In Harrak, iron is cheaper than blood. Second, this isn’t overkill.”
+
+The skies roared. Two white shapes emerged from a portal in the air on their way to the battered but still defiant mothership, protected for now by its ‘no human allowed’ defenses. They were carrying heavy cubes.
+
+“That, my dear Bes, is overkill.”
+
+***
+
+The threads of fate were slipping away from his grasping mind. Two shapes were making their way towards him now, and nothing could hold them. He didn’t blanch like his lesser brethren when the creatures roared, even though he recognized that terrifying noise. Dragons. The chosen ones. They were opposing them… but these were young. They were deluded.
+
+The archpriest accepted his death. He had the moment the race was finished to the abomination’s hateful advantage. It didn’t matter. His mind was ice. The ship, and his own life, only had one purpose: to kill the aberration. The Empire of Dawn was the host of fate’s chosen. There could be no others. He would get her.
+
+Breathed fire torched the right side of the ship, burning the forward battery. He had two left. Something heavy impacted the bridge in front of him in the dragons’ wake. It looked like a square lump of steel. Already, sailors rushed it to push it overboard. Another shape crashed down, going through the weakened planks.
+
+The steel mass stirred. The archpriest directed his mind towards it.
+
+No human may touch us.
+
+The lump didn’t disappear. Instead, it enfolded in a smooth, lethal motion. The sailors around it just died as they were cut to pieces. A massive bipedal form rose over the archpriest, more than twice his size. It was barded with weapons that still dripped blood in the infernal radiance of the battlefield. The colossus shone of slick silverite. Baleful yellow eyes focused on him with crushing intensity.
+
+//I AM NOT HUMAN.
+
+Your fate is to burn.
+
+Fire licked the titanic shape, but the silverite flashed and most of the heat dispersed.
+
+//MY FATE WAS TO NEVER EXIST.
+
+//YET HERE I AM.
+
+//MY NAME IS ARES.
+
+//I KNOW FIRE.
+
+//LET ME SHOW YOU.
+
+The massive shape lifted something, and the world around the archpriest was suddenly flames. His shield protected him but fate strained, causality crashing against his denial.
+
+The flagship was burning. More shapes crashed on or through the deck. The archpriest retreated while his soldiers attacked the boarders. He moved back while smoke filled the air, while ropes snapped and the sails fell around him as ash and cinder. There was still no hesitation in his mind. There had never been room for hesitation. The archpriest would use every strand of possibility left to him to accomplish his mission until he drew his last breath. Nothing else mattered.
+
+He was making his way to the midship spell array. Behind, the silverite titans tore through everything, ripping everything apart. The first of seven masts fell, cut down like a tree. The machines didn’t speak. They warbled, the sounds distorted trills that couldn’t possibly be a living language.
+
+His personal guard engaged the four giants. The largest of the red-skinned Nemeti managed to crack one of the golem’s shields and the arm behind with a monstrous, fate-backed blow. The golem emitted a high-pitched sound. A moment later, a clawed hand smashed through the planks under the guard, skewering his feet. It was all the construct needed to crush its foe with a man-sized hammer. With unnatural coordination, they tore through the guards. When one stopped a blow, the other struck. They covered each other and moved with no wasted motion. The archpriest updated his calculation. He would only get one shot. His hand reached for the array so he could trigger it manually, and fire one final spell at the witch, still unmoving.
+
+The largest golem of all landed on the array in an explosion of wood, metal, and fire. Arcane energies coursed over its immense frame, eaten by hungry silverite circuits.
+
+The threads of fates snapped away from the archpriest’s mind, all cut to the very last one. When the sword descended upon his head, he was still stunned by the sudden absence.
+
+***
+
+//I DON’T SEE WHY I AM THE LAST BEING DROPPED HERE.
+
+//I ONLY SLEW ONE ENEMY ENTITY
+
+//IT IS VERY UNFAIR.
+
+Eris wiped her giant halberd on a fallen piece of tarp.
+
+//ACKNOWLEDGED, JUNIOR.
+
+//FOR THE LAST TIME, MY NAME IS IRLEN.
+
+Clio spoke next.
+
+//I HAVE GOOD NEWS FOR YOU, JUNIOR.
+
+//THE MOST EXCITING PART REMAINS.
+
+Very naively, the yellow eyes flickered.
+
+//ELABORATE.
+
+Clio couldn’t smile but the intent was there.
+
+//YOU GET TO SWIM BACK.
+
+A low hum emerged from the remaining golems. Irlen didn’t move. The deck under his feet finally succumbed to the heat and the flagship’s catastrophic damage. He crashed through several floors on his way down. The other golems warbled some more before jumping as well. Their work was done. A short stroll on the seabed would follow.
+
+Behind them, the flagship died.
+
+***
+
+Viv felt fate magic collapse. The strands in her hands wisped away, not because she had lost control but because nothing could prevent her victory anymore. Arthur and Gale flew over the fleet, going more slowly now that their golem payload had been fully dumped. She had to admit that dragon-airdropped golems was a cool innovation, although it was apparently super taxing on the poor dragons. Those things were heavy after all. Things were coming to a close now, and her mind turned to philosophical questions.
+
+If a golem with a flamethrower threw another golem with a flamethrower, did it count as self-propelled artillery or was it, like, more a nomenclature thing? A question for the ages. She was very pleased with herself at not having lifted a damn finger until her gaze found a suspiciously familiar shape among the burning wrecks of the Nemeti fleet.
+
+“Wait. Wait. Is that the Sword of Neriad?”
+
+Her flagship had shared the fate of most of their enemies. It was burnt to a fucking crisp. Even the steel and silverite alloy along its flanks were partially melted. She couldn’t be really mad because, well, she’d left it there.
+
+“Fuuuuck that thing cost me at least five hundred gods-damned gold talents.”
+
+“The ship, Your Grace?” Bes asked.
+
+The captain was saluting, tears in his eyes. The sailors were equally sad. Viv had forbidden them from joining the battle since they were unarmored and tired, and besides, they’d already done their job.
+
+“We can probably save the core enchantments,” Sidjin said, lying on the ground.
+
+Yeah, nah. The core for sure, but the deck circle that commanded all the ship’s advanced functions? That thing was toast.
+
+“My money… My man hours…”
+
+Days of GDP reduced to cinders.
+
+MOTHERRRRRRR.
+
+Arthur landed by her side, showering her with sand.
+
+Mother, I feel your distress.
+
+“Someone burnt my ship. I’m almost tempted to launch an inquiry.”
+
+A heavy claw pressed on her shoulder. Its pressure remained delicate enough not to pierce her skin.
+
+Mother, do not be sad.
+
+I can always lend you more money at very advantageous rates.
+
+“Thanks Arthur, you’re a dear.”
+
+You are more than welcome.
+
+Now, I can feel your overwhelming power, mother.
+
+You are a resplendent sight.
+
+Please, bring joy to my heart.
+
+Show me your new wings!
+
+“Errrr.”
+
+Mother?
+
+“Look, fate magic was more immediately important.”
+
+MOTHER!
+
+“It’s… hmm, it’s a work in progress.”
+
+***
+
+The mop up was short and brutal. The Nemeti never surrendered, but there was nothing they could do in this situation. Once the slaughter was finished, the heavies left the field to allow the witchpact to collect whatever bolts could be recovered. The Nemeti had very little of value to loot, sadly. Even their fate artillery constructs couldn’t be replicated but Viv wasn’t too sad. She had eliminated the threat of the Empire of Dawn for the foreseeable future. Not everything was rosy, however. She was in the command tent the next morning alongside Sahin. The thin strategist observed her through half-lidded eyes, sipping herbal tea from a delicate clay cup. Most of the senior officers were present including Ban the Younger, Poacher, the Zealot, Lana, Rollo who had returned with the ships, and even Solar. Lak-Tak was positively bouncing. The golems would be waiting outside even though Solfis’ seventh child had requested entry, not quite accepting that his father’s original body wouldn’t quite fit in.
+
+Inside the tent, Poacher was a little fragrant and Viv was tempted to dunk the old woman into the sea.
+
+“I’m afraid I must be the bearer of bad news, Your Majesty,” Sahin started. “In your absence, the king of Baran had the queen arrested.”
+
+“What?” Viv blurted.
+
+“It appears the measure was poorly received by the nation. He must have underestimated Duchess Azar’s determination to save her daughter as well as the loyalty she had inspired. The queen’s personal guard descended upon the jail, freeing her at a great cost of life. Famous knights perished covering her escape. The country is split. A civil war has erupted. To the surprise of most, however, King Erezak has taken his army north into Helock. This decision only makes sense if he expects major reinforcements.”
+
+Viv turned to Bes, rather sure of what was going on. Her brand new evil vizir stepped forward without further prompt. Now that was what she’d always needed. Half of the time, when she gestured, people had no idea what she wanted. The only command that was reliably followed was to open the throne room’s window so she could toss someone out.
+
+“The War of the Ascended has begun, with our liege as one of the two glorious contenders. Nero Oleander leads the other faction. He has already united Vizim and the Shadowlands under his flag. Even now, he must be crossing the ocean at the head of a mighty fleet. That King Erezak must have entered in an alliance with our foe to prepare for his arrival. Nero Oleander is the champion of Maranor. Those who bend to his rule are offered a measure of autonomy in exchange for absolute obedience when it comes to war, diplomacy, and the rule of absolute order. I can only assume Baran and Helock have rallied to his cause. He is our enemy, and the war will not stop until he has killed us all, or we, him.”
+
+“Aptly summarized,” Viv replied.
+
+“So wait,” Lana said. “We are suddenly in a total war with two continents?”
+
+“And a half,” Viv grumbled. “But it’s not as bad as it looks. He is constrained by really long supply lines, and he must have left a lot of troops to ‘pacify’ his recent conquests.”
+
+Not to mention only part of his troops were really good. Param was the largest continent by far in terms of livable land. Just the Paramese culture of heavy knights gave them an advantage in some fields. But Viv didn’t mention that. Everyone was looking at her. It was really happening. The war for mankind was about to start. The second prize was swift death for everyone she loved.
+
+The flow of fate pulled her in a hundred different directions. It was a time of preparation.
+
+“We can’t oppose the landing,” she said after a while. “We would be attacking members of the Paramese League unprovoked, at least in the eyes of undecided allies. No, this is the gathering phase of the conflict. We must convince as many allies as we can to join us, and deny Oleander those he’s already recruited. Helock and the Pure League are lost causes. Baran might be, as well.”
+
+“Not necessarily,” Rollo interrupted.
+
+“I agree with Rollo,” Lana added.
+
+She signaled for the knight to go first.
+
+“You must make contact with Lady Azar and the Queen. As for me, I believe I can talk to the knight orders. The civil war is much more disputed than you seem to believe. King Erezak’s inability to let go of power has caused a lot of resentment. We can make a difference if you allow me to speak in your name.”
+
+“Of course,” Viv easily agreed.
+
+“Helock might be lost to us,” Lana said, “but the Academy is not. Oleander might try to seize the student body to control mage clans across the continent. We cannot allow this to happen. We must intervene before the Academy falls.”
+
+Viv nodded.
+
+“Alright. I’ll grab a team and go to Helock first. In the meantime, Sahin, please call for a meeting of the Paramese Alliance as well. We need to find out where everyone stands. It’s time to take back the initiative.”

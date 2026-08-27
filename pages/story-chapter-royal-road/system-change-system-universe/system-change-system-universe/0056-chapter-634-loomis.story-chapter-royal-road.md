@@ -1,0 +1,165 @@
+---
+id: 71f7c916-f484-5162-8d97-6f71d1da0d8d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 634: Loomis"
+slug: 0056-chapter-634-loomis
+partOf: system-change-system-universe
+position: 56
+ownLength: 2093
+unit: words
+publishedAt: 2026-03-10
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3138362/chapter-634-loomis"
+royalRoadId: "3138362"
+---
+
+Chapter 634: Loomis
+
+By the time Jace chopped the head off the final enemy, his form was quite ghoulish. He was lanky, very fast, and Derek could see the fire burning in his eyes for more battle. The man was breathing heavily and looking around for anything to fight. Derek chuckled to himself and looked up at the young man. If he weren’t there, I’d give Jace a round two right now, he thought.
+
+But there was someone he didn’t yet trust there, and facing Jace without being able to use the void would lead to a never-ending battle—which Jace would love, but Derek didn’t have the time for that. Jace glanced up at Amelia and licked his lips. The Ascari woman saw the look and shook her head. “No,” she said. “We’re not battling here. Maybe some other time.”
+
+Jace sighed, then looked at everyone else. Marrick repeated what Amelia said almost word for word when his eyes landed on the old elf. It also must have stung for Edgar when Jace’s eyes moved past him without even stopping for a second. He did the same with Nivara and Klaus. “Hey!” he shouted at the unknown young man. “Are you strong? Let’s fight!”
+
+“N-no… please…” the man looked shocked and muttered. “I… I’m not nearly as strong as you. I’m not worth your attention.”
+
+Jace sighed, then finally looked at Derek. “Will you…”
+
+“No,” Derek said. He looked at the young man, then back to Jace and said, “Not right now, at least.”
+
+Taking the hint, Jace nodded, then sat down with his legs crossed and eyes closed. Before long, he was back to his pale, bald, and no longer steaming self. He stumbled as he got up but caught himself.
+
+“You didn’t use that skill, did you?” Derek asked with a frown. “Did you give yourself a backlash again?”
+
+“No,” Jace answered with a sigh. “It’s still draining. But I can recover like normal from it like this… I think. That was the first time I had ever accumulated that much Battlelust without using Surge of War, so there may be a bit more recovery than usual. I’m not sure.”
+
+“I see,” Derek replied. Finally, he looked up. “You can all come down now!” he shouted to those floating or flying above him. Amelia shot to the ground like a rocket but stalled just before her feet hit the ground, and she landed lightly. Edgar and the young man followed.
+
+From there, everyone other than Jace walked back to where Marrick had been keeping Nivara safe while assisting occasionally with his sand. A few seconds later, the spinning sphere made of blades hovered beside them, then Silvi stopped her knives’ skills and put them away.
+
+“I’m going to go dismantle the chicken lizards,” Silvi said, then flew off toward the mess of Kethian Striders by herself.
+
+“A… Horned Rabbit? Bonded companion?” the young man asked nobody in particular, and nobody even acknowledged his questions.
+
+Not long after, Jace stood and walked over to the rest of the group. “You’re a great guy!” Jace said as he slapped the man hard on the back—causing him to nearly fall over. “If you have any more of those things, feel free to bring them over. That was so much fun!”
+
+“Ah… uh… sorry… that was… all I had with me…” the man replied awkwardly as he straightened himself up.
+
+“I think it’s better for all of us that way,” Derek said with a shake of his head. “Now…” he turned his attention to the newcomer. “How about we start with you telling us your name?”
+
+“Uh… oh, right!” The young man stood straighter, then bowed slightly . “My name is Alex from House Loomis.” He looked up with a bright, proud smile, then faltered as his eyes scanned everyone. “The… Loomis Clan?” he said, but it also didn’t get a reaction.
+
+“Yeah… don’t care,” Jace finally said. “But… is the loony clan strong?”
+
+“Wh… but… loony?” Alex’s mouth hung open at Jace’s words. After a bit, he gathered himself, but Derek could tell he was still at a loss despite carrying on. “We… are one of the leading families in this part of the Origin System,” he said.
+
+“So you are strong?” Jace asked again.
+
+“My clan is,” Alex corrected. He then paused, looked around, and before his eyes fell on Derek again. “You are the leader here? Are you their escort?” he asked with a frown. “You don’t see organizations sending out groups like yours with just a single powerful person that is still at or around the same level as those they are escorting… at least not often.”
+
+“Escort?” Derek looked around at his group, then thought about those who were inside his Time Prison. “Actually… yeah… something like that.”
+
+“Which organization are you from?” Alex asked.
+
+“What makes you think we are from an organization?” Derek replied.
+
+“Well… you are obviously not from a clan… at least not a known one,” Alex said. “No clan that I can think of would have such a diverse party. Ascari, humans, elves, whatever that person who is broken up into tons of small pieces is… and no clan would allow any of their members to bond with a Horned Rabbit especially. So… you must be from an organization.”
+
+Derek was sort of at a loss for words. What Alex said made sense. The little slight at Silvi kind of irked him, but it wasn’t said with any malice. Still, he didn’t want to just let it pass without an explanation. “And why is bonding with a Horned Rabbit bad?”
+
+“Obviously… because they bring absolutely nothing to the table,” the man replied. “When there are dragons, talions, and other legendary or better beasts out there, why would someone bond with a common beast? Bonding with a higher rarity beast can bring a lot of benefits. It can even upgrade a system user’s class rarity while being outside the upgrade window. But… a bunny…”
+
+“That bunny could kill you in one hit,” Jace said from the side. “If you want to test her out when she gets back, I’m sure she’s game.”
+
+The man swallowed audibly, then looked over his shoulder at Derek’s companion, who was currently very gently slicing off the skin of one of the Kethian Striders. He turned back to Jace and Derek and shook his head. “No… that won’t be necessary. It is just… out of the ordinary to see a sentient and sapient Horned Rabbit. But… everything else about your group here is out of the ordinary… Oh! Are you actually two groups working together?”
+
+Everyone looked at each other, then Derek snorted. “No, nothing like that,” Derek said, then decided to probe a bit—hoping that it wouldn’t backfire. “Do you know Davenresh?”
+
+The young man frowned and furrowed his brow. “Davenresh?” He rubbed his chin. “I only know of one, and he is a Transcendent, so you surely can’t be speaking of Transcendent Davenresh Gravenholt.”
+
+Derek smiled, then said, “It’s Davenresh Gravenholt, Fourth Transcendent of House Gravenholt.” He smiled as he remembered when Dave finally introduced himself. At the stunned look the man gave him, he continued, “You know… pretty elf… dresses in a pretty lackluster earth-colored robe. He’s a good man—a friend.”
+
+“Y-you really do know a Transcendent?” Alex asked.
+
+“Maybe,” Derek replied. “What is your Loomis House’s stance on the Gravenholt House?” Honestly, Dave was the only one from that house that he knew, and from what he pieced together, he also might be the only person from that house that Derek would get along with. If their relationship was good, then it could make getting to Origin City and getting set up a much easier task than he initially thought. If it was bad… well… there were oaths that Alex could make.
+
+Speaking of oaths, Derek was already thinking about seeing if the man would make one since he didn’t like the idea of holding back in some instances. Derek was usually a pretty good judge of character after just an initial meeting, and Alex wasn’t setting off any red flags in his mind at the moment.
+
+“Our stance on House Gravenholt?” Alex thought for a second. “I mean… they have four Transcendents and a whole slew of Ascendants. It’s not a good idea to have a bad relationship with a house like that. They aren’t the strongest house out there, and they remain very neutral in most matters, so, as far as I know, there are no problems, but also no real relations between our houses… If you’re from House Gravenholt, it’s no wonder you didn’t care when I told you my house.”
+
+Derek smiled awkwardly but didn’t say anything. It was fine if he wanted to think that for now. Derek did kind of imply it, and he figured—based on the man’s reaction—it would be much easier to get information from the young man if he thought that. It would also be easier to get him to swear an oath if that was in the back of his mind.
+
+“Honestly, what we are doing here is sort of secret,” Derek said. “I am fine parting ways here if you wish, but without an oath to the Origin System, I’m afraid I can’t say any more.”
+
+“I understand,” Alex said with a frown. “Would you… allow me some time to think about it?” he asked.
+
+“Of course,” Derek said. “We have a bit of cleanup to do here, and I need to sort out some status things. Take your time.” He nodded, then walked towards Silvi—who was still dismantling beasts. “How’s it going?” he asked his companion.
+
+“Great!” Silvi’s voice sounded as she removed the teeth from one of the striders. “Got most contribution on many kills. Great for Cook What You Kill!”
+
+“That’s good!” Derek said happily. “Need any help?”
+
+“No!” she said quickly. “Only after I finish with my kills. Then you help.”
+
+“Okay,” Derek replied with a chuckle. “Just let me know.” Finally, he waved his hand, and a reclining chair appeared on the ground close to Silvi. Just as he sat down, another chair appeared, and Marrick sat next to him.
+
+“What are you thinking?” Marrick asked.
+
+“I’m thinking that if the kid agrees to the right oath, I won’t have to worry about holding back when it is just him. He was scared out of his mind and mentally exhausted when he found us. Something has happened to him, so I don’t think he’ll want to separate—especially after we saved him and didn’t push for anything,” Derek explained.
+
+“I had the same thoughts,” Marrick replied. “So far, this place doesn’t seem like something we can’t handle, but more information would be nice.”
+
+“Yeah,” Derek replied. “And it could have been bad without Jace’s Battle Instincts. I can’t help but wonder what exactly is in those other directions that causes his instincts to consider them such a threat that he feels like it would be sure death if we go that way.”
+
+“It seems that battle idiot is actually good for at least one thing,” Marrick replied. “Other than fighting, rushing, or getting everyone in trouble with his mouth or attitude.”
+
+“That’s true,” Derek said with a laugh. “So, did you gain any levels during the fight?”
+
+“I did,” Marrick replied. “I was just about to go distribute my stats,” he explained. “How about you?”
+
+“I haven’t really looked yet,” Derek replied. “But I have a lot of notifications.” Marrick nodded but didn’t reply. When Derek saw the man’s eyes shift, he knew that he was looking at his status sheet, so Derek pulled up his notifications.
+
+…
+
+Congratulations!
+
+You have taken part in the slaying of a level 330 Kethian Strider.
+
+Calculating total contribution…Calculating total contribution…Calculation complete…
+
+Total Contribution: 44%
+
+Essence to Next Level Gained: 0.5%
+
+Total Essence to Next Level: 5.7%
+
+…
+
+He moved to the next, and the one after that, and so on…
+
+…
+
+Congratulations!
+
+You have taken part in the slaying of a level 324 Kethian Strider.
+
+You have taken part in the slaying of a level 325 Kethian Strider.
+
+You have…You have…
+
+…
+
+There were so many of the small beasts that it took him a long while to go through them all. Finally, he made it to the notification he was looking for.
+
+…
+
+Congratulations!
+
+You have taken part in the slaying of a level 310 Kethian Strider.
+
+Calculating total contribution…Calculating total contribution…Calculation complete…
+
+Total Contribution: 72%
+
+Essence to Next Level Gained: 0.62%
+
+Level Up!

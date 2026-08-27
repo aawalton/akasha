@@ -1,0 +1,167 @@
+---
+id: 248edf56-8eef-53e9-bbdd-7824fa5cdfa8
+page-type-slug: story-chapter-royal-road
+title: "275. The Goddess of Light (II) "
+slug: 0031-275-the-goddess-of-light-ii
+partOf: speedrunning-the-multiverse-complete
+position: 31
+ownLength: 1922
+unit: words
+ownProgress: 1922
+publishedAt: 2023-08-02
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1296726/275-the-goddess-of-light-ii"
+royalRoadId: "1296726"
+markedReadAt: "2026-06-29T22:42:43.759Z"
+---
+
+When the sun rose over Mystic Phoenix Village, the folk were already awake. Today began exactly like yesterday, and the day before that. Wake at dawn. Burn incense to Yeshima, Praise Be Her Name. Pray. Then gather in the village square to hear out Priest Xu’s sermon. Today’s was on the importance of piousness, even when times were tough. Xu had a voice made for droning; they’d just woken but a few folk were lulled back to sleep. Xu, who also doubled as the village elder, had a special talent—the ability to carry out the most menial soul-sucking tasks without the slightest hint of displeasure.
+
+It was what’d gotten him promoted to his post in the first place.
+
+It was a relief to the villagers when the crane flew in, just as it did every day, with its clear high trill. It dropped off the daily missives from the Basilica. These came straight from the Archbishop Pan himself, who reported directly to the Pope. Priest Xu fished an eyeglass from out his billowing robes and read it so slow, so haltingly, you’d think it was his first time reading anything.
+
+“There is a new announcement from the Archbishop, comrades,” he said. “Daily tithes have been increased from a fifth of Spirit Crop to a quarter.”
+
+There were some groans, mostly from the elderly, who had a tough enough job as it was meeting the quota.
+
+“I don’t like it either,” said Xu hastily, flapping his arms like a flightless bird in a gesture that was meant to be calming. “But what are you going to do? It is the will of the Goddess. In times of war, we must prepare.” The church enforcers flanking him rattled their whips of justice, and the villagers simmered down as they always did.
+
+Xu was right. What were they going to do, after all? Protest? Rebel? Once every few decades someone tried it, and they tasted the enforcers’ whips, and nothing came of it. Once every few centuries the villagers heard tell of an uprising somewhere or another; sometimes they heard several villages had banded together. Sometimes it got so big the Basilica was forced to send the Inquisition to quell it, but no-one ever got past them.
+
+Besides, the last time a Mystic Phoenix villager spoke up, Priest Xu had featured him in nearly a year’s worth of sermons. ‘Don’t be like Yu, fellows,’ he’d said, waving a finger. No one wished to be made a cautionary tale.
+
+So they all lined up, tossed their Spirit Herbs into the holy bonfire, said their prayers, and watched their qi smoke into the sky. Headed for the Basilica, and the Pope, who did who-knew-what with it. It wasn’t their role to question. It was their role to farm.
+
+The Realm of True Light was like a great organism, and everyone had their part to play. Some were the head, and some were the toe—but the toe was just as vital to a healthy body as every other body part. So a good toe should shut up and do as it was told. So said the Scriptures of Yeshima.
+
+“Comrades,” said Xu, still reading from the missive, “There is yet another announcement, and this one comes from the Pope himself, so be certain to pay attention.” The quarter or so of the folk who were still listening to him sat up straighter. The other three-quarters saw them sit up straight and knew it was time to start listening.
+
+“Be on the lookout for anything anomalous. There have been strange happenings in the greater Multiverse. Stay true to your faith, and know that Yeshima shall protect you from whatever foul devilry comes your way. Praise Be to Her Lightness.”
+
+“Praise Be!” said the congregation-slash-village.
+
+“That is all. May your harvest be good.”
+
+The villagers went off, muttering amongst themselves. News of the outside was never good; they were a lawless lot, void of morals or faith, practically barbarians. Sure, it was at times tough and dull in Mystic Phoenix Village, but they felt ever more grateful. Before they left, a few stopped by the stone statue of Yeshima installed at the center of the square—a peerless beauty gazing sagely off into the distance.
+
+A hobbled, bushy-eyed elder sighed. “Oh, great Yeshima.... My wife is stricken with the Fits. Locusts have taken the bulk of my ginseng crop. And the wounds in my back have only worsened over the centuries… and now I hear tales of barbarians at our borders—the heretics of Jez, carving out our land for their own—forcing us to make an alliance? Foreigners, setting foot our plots? It is simply too much…”
+
+He shook his head, wiping his sniveling nose.
+
+“Never in my thousand years have I seen the Realm in such dire straits. Some say you have ascended for-ever, that you have forsaken us…but not I, great Yeshima, not I!” At this his head snapped up and the light of faith burned in his eyes. “I, Old Rao, still believe in your great promise—that one day, in our time of greatest need, you shall return!”
+
+***
+
+“Mystic Phoenix Village, eh?” Dorian whistled.
+
+A quaint place. It had good natural defenses, a ring of mountains cradling it. It looked to be like any other farming village in the Realm of True Light—folk within living in peace and harmony, enduring the same unending sameness day in and day out. As he padded down the path, he wondered how they endured it.
+
+So he asked Rin, the boy who was still tagging alongside him for some inexplicable reason.
+
+The boy was almost too happy to answer. He was looking at Dorian like Dorian was a unicorn stepped straight out of a storybook. A few times he poked Dorian, as though to make sure Dorian was real.
+
+“I have Ai and Wang to speak to when the field work gets too bad. And mother and father and sisters and I share dinner, and we all gather together to pray and talk over the day’s deeds. Though Ai and Wang were struck down with the Fits today, so it was just me out there. Then I guess it does get lonely.”
+
+“Interesting. Maybe that’s where I’m going wrong.”
+
+“So… why are you here?” said Rin.
+
+“Ehh. It’s a long story. Let’s just say I left something on this Realm a while back. I’m here to retrieve it.”
+
+“What?”
+
+“A while ago I founded this organization called the Church of True Light. It’s grown to be pretty strong! Now I have use of a strong fighting force, so I figure I’ll reclaim it. There’s also a body of mine lying about here somewhere. You know—knickknacks, lying about.”
+
+“Oh.” Rin was silent for a few paces; he had to run to keep up with Dorian’s strides, but he seemed determined to. “If you’re not a devil, are you maybe an angel? Were you sent by Yeshima?”
+
+“In a manner of speaking.”
+
+“Really?! Have you come to drive off the foul devils of the Infinity and bring peace to the land once more?”
+
+Dorian had to chuckle at that. “Definitely not.”
+
+“Then what are you?”
+
+Good question. “You know, I’m trying to figure that out myself.”
+
+“Oh.”
+
+They wound a few bends down the climbing mountain path, Dorian enjoying the view, Rin deep in thought.
+
+“I know who I want to be,” said Rin after a while. “I want to be an Enforcer when I grow up. Like my big brother. The best Enforcer in all the Inquisition! I want to be the Pope’s sword and shield, and drive off all those devils who threaten the realm!”
+
+“Good for you.”
+
+Soon the plum blossom trees gave way to wizened knobby trees sticking out from cracks between stones, swaying, bent like the backs of old men. It was not until they were within eyeshot of the village that Rin spoke again.
+
+“Um. How did you know I was a virgin?”
+
+“Hard to say. You give off that energy, I suppose.”
+
+“…Well, um, you were right. There is this girl in the village I like but every time I try to ask her out she just laughs at me.”
+
+The boy looked at him with these big watery eyes. “What should I do?”
+
+…What am I, your magical grandpa? Apparently correcting the kid’s hoe-thwacking form meant he’d signed up to be a life coach too.
+
+“You seem the sort who tries far too hard. Too… energetic.”
+
+“I am?”
+
+“Just relax. Let the conversations flow, and let things blossom from there! Love is like happiness. It seldom comes to those who chase it relentlessly. Don’t force things. Let them grow.”
+
+“Woah…” said Rin. “Thank you, mister Dorian.”
+
+“Anytime,” said Dorian. “Actually, scratch that. Most definitely not anytime. Stop asking me questions. Go away, kid.”
+
+“Oh. Did I annoy you?” The kid sounded wounded. “I’m sorry.”
+
+“No—I mean, well yes, a little, but that’s not why I’m sending you away.”
+
+The village was fenced in by thick logs, guards in white robes running atop them. They’d caught sight of him coming, and now they were starting to shout, and Dorian didn’t need to hear the words to get the general gist of it.
+
+“I have a feeling things are about to get a little messy. Run along now.”
+
+“Oh… okay…”
+
+“Actually, wait.” A whim had seized Dorian out of nowhere. “One last thing. Do you practice the Nine Sacred Illuminations?”
+
+“Yeah, like everyone else. Um. Why?”
+
+“That Technique is shit. Or, rather, it’s great at producing decent Gods en masse with a high success rate. Easy to control, and not many will pose any real threat. The main breathing Technique cycles qi though the Tongmen accupoint, right? It goes Tongmen-Piuxing—Feiren. The real breathing Technique, on the other hand, the one Yeshima herself used…” He poked the spots as he named them. “Goes Piuxing-Xiamen—Feiren. Got it?”
+
+“Yes!”
+
+“Now shoo. Go on now, screw off!”
+
+“Thank you, mister Dorian, thank you! I’ll never forget this!” The boy dashed off repeating the three acupoints under his breath.
+
+Dorian watched him go. Probably the boy would amount to nothing, but who knew? Give him time, and Dorian might hear of him again. There was some fun in planting a seed, he realized—you never really knew what might come of it. Maybe Gerard was onto something.
+
+By the time he ambled his way up to the village gates, Mystic Phoenix Village had thoroughly armored itself against him. The gates were shut and bared once with wood, then again with steel. Guards with crossbows lined the walls, bristling at him.
+
+“Excuse me!” said Dorian. “Hello! Would any of you fine fellows have a map with directions on how to get to the capital? I have business in the Basilica and I must admit, it’s been a while since I was last here—can’t quite recall where everything was—”
+
+“FIRE!”
+
+The arrows could’ve been made of rubber for all the damage they did. They bounced much like rubber too.
+
+“Look,” said Dorian. “I’ll be on my way soon enough. I just—”
+
+“FIRE!”
+
+“Godsdamnit.”
+
+Another jilted percussion of steel on scale, then a long silence.
+
+“He’s still alive!” cried someone on the walls.
+
+“I can see that, you moron!”
+
+“Should—should we shoot him again?”
+
+“…Does anyone have any better ideas?”
+
+Dorian sighed. He was starting to think he’d never get the hang of this diplomacy stuff—it just wasn’t his style. He’d leave the talking to Fate.
+
+Personally, he’d always found fear and awe were far better motivators….

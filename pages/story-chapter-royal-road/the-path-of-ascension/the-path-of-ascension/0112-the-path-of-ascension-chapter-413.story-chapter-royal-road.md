@@ -1,0 +1,297 @@
+---
+id: 2ecaf071-532e-568a-81cf-69cb8f68454d
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 413"
+slug: 0112-the-path-of-ascension-chapter-413
+partOf: the-path-of-ascension
+position: 112
+ownLength: 5686
+unit: words
+ownProgress: 5686
+publishedAt: 2025-05-23
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2300907/the-path-of-ascension-chapter-413"
+royalRoadId: "2300907"
+markedReadAt: "2026-06-29T19:21:40.591Z"
+---
+
+Chapter 413
+
+Matt dealt the cards, ensuring each landed with a snick. If he didn't, Lyre would complain again, and he needed his full attention to keep the rest of the table from cheating.
+
+Aunt Helen’s Concept repair party had turned from a large event into a planet-wide event with seemingly every cultivator over Tier 20 arriving to congratulate the old bird.
+
+Matt and the other Ascenders had uniformly stayed to congratulate Aunt Helen but they had quickly retreated off the main floor into one of the private rooms where they had been quickly joined by their closest friends. Then the Royals and even Manny and Carissa had escaped the masses fawning over them which turned the atmosphere competitive, which in turn had blossomed into a thirty person poker table.
+
+Knowing exactly how things would end, Matt had volunteered to be the dealer. He almost wished he could say he had been proven wrong but that was distinctly untrue. His ever beautiful wife was dominating the table but it wasn’t as clear as he had imagined despite her ever growing pile of chips.
+
+Flipping over the river, a four of clubs, half of the table tossed in their cards without revealing them, leaving Aiden, Aster, Liz, Mara, Lyre, Frederic, and Carissa fighting over the pot.
+
+As they went through the final round of bets and bluffs, everyone was forced to reveal their cards. Carissa raked the four hundred credits towards her with a giggle, which caused Matt to squint.
+
+Turning his gaze to the discard pile and then to the fifteen decks they were playing with, he glared at the table.
+
+“I think it's time we open new packs.”
+
+His announcement was met with a round of groans and curses but no one was foolish enough to complain directly to him.
+
+“Oh, come on. One more round! Pleaseeeeee!”
+
+Matt glared at his mother-in-law who definitely had a distinctive red card tucked into her feathered hair.
+
+Pulling out a box of yellow cards, he watched as most of the table started tossing cards they had stolen onto the table.
+
+The only ones who didn’t have cards to toss to him were Liz, Manny, and Yilek, one of Lila’s army friends. Those three were also unsurprisingly the three who were doing the best despite the rampant cheating.
+
+As he cut the packs of cards into one large deck Matt tutted at everyone. “It’s kinda sad you guys can’t even beat the noncheaters.”
+
+A slightly drunk Allie drove her dagger into the table, earning a glare from Susanne who had lost a finger to the errant blade. “It's not fair that you are giving them the best cards!”
+
+Matt just rolled his eyes as Aster, even drunker than Susanne who seemed downright sober compared to Allie, insisted on trying to freeze the digit back into place.
+
+He wasn’t buying any of their acts for a second and reached out, stopping Aster's invisible hand from snatching a card off one of the piles he had made. The cheating trio 'magically' sobered up enough to complain but he saw that for what it was even as he fended off a tentacle, a miniature man made of lightning, and finally a sand dragon who tried to roll a card away.
+
+Deplorable, all of them.
+
+New cards and sour faces, Liz and Frederic split the pot and cleaned Aiden out.
+
+“I want to buy back in!”
+
+Aiden pounded the table even as his wife, Medea, leaned away from him shielding her own pile of chips from his outburst. Matt thought he saw a flash of yellow in her tentacles, but he strongly suspected he was being baited and so said nothing.
+
+According to the unwritten rules of the game that had developed, if he misidentified an attempt to cheat, he had to stop paying attention for a round.
+
+Seeing Aiden still watching him, he reminded the older Ascender, “Pay up doofus.”
+
+Once the 100 credits hit his account, Matt handed Aiden a stack of chips even as the older Ascender started cackling.
+
+Checking that both piles were untouched, Matt passed out cards to everyone just for Aiden to immediately call out the moment the river was dealt. “All in!”
+
+In unison, three quarters of the table tossed in a matching hundred credits worth of chips into the pot as they called.
+
+“Fuck!”
+
+Seeing his outburst, everyone increased their bets even further. Aiden kept up a stony face until it was revealed that he had only had pocket twos and he once more had to buy in.
+
+Leon shook his head at the water Ascender. “That was never going to work.”
+
+“You did it two rounds ago.”
+
+“Exactly. That's how I knew it was never going to work.”
+
+The next two rounds went off without a hitch except when a waiter brought in a roasted rabbit bribe for phoenix Liz courtesy of Rusty who was then flashed two feathers.
+
+Liz turned and glared at her bird self as her bluff was called. “Have some integrity.”
+
+Chunk of rabbit in her beak, phoenix Liz just blinked at her human counterpart until phoenix chicken Mara ambled over and tried to take part of her bribe, which started a feathery wrestling match.
+
+Matt wasn’t able to watch the fight as he noticed that the card Zack handed back was subtly different from the others and called the other man out for modifying a seven into a king.
+
+He was just about to pin down Frederic and Leon for working together when Aunt Helen sauntered into the room, putting a pause on the game.
+
+“Matty darling, I need you for a minute.”
+
+The woman of the hour was thoroughly drunk and it was quite amusing as the usually regal phoenix was a bubbly drunk who simply wanted to gossip with anyone about anything. This was actually the third time she crashed their game to chat with someone but this time she was accompanied by a man Matt initially thought was a Sect cultivator given his robes but his [AI] identified the man as a Tier 46 member of the Guilds.
+
+Wiping his hands to show he hadn’t pocketed any cards, Matt stood up even as the others started to argue who should be the new dealer and why it would be Liz, Manny, or Yilek so others had a chance to win. As no one was able to agree, they collectively started to eavesdrop.
+
+“What can I help with, Aunt Helen?”
+
+Matt reached out and steadied her even as she leaned into Matt’s arm for a moment. “This is an old friend, Qin Jiang. Old as me, in fact. Same with Luis over there. Us old fogies are mostly friendly, but they are actual friends. Good people. They—” Aunt Helen hiccupped before giggling, “They wanted to meet you and make a deal which is funny because the moment I saw them I had the same idea. Do try to help them if you can, sweety. You’ll like them. They…”
+
+Seeing someone outside say something interesting, a laughing Aunt Helen wandered out of the room seeming to forget she was in the middle of an introduction.
+
+Smiling, Matt proffered a hand. “Well, if Aunt Helen says I should help, I'll do my best. What do you need?”
+
+Qin Jiang stared at Matt for a second but before he could say anything, Aiden called out. “Aww don’t help this guy Matt. He's a dickhead. I asked him to help me make a weapon that could boost my Domain but he blew me off calling me an unstable blowfish.”
+
+Qin Jiang’s eyes narrowed and a grimace flashed across his face as he turned his attention to Aiden. “That is because your Domain reveals a mentally unstable person. Or at the very least not a person fit for society. And I see you have only become worse with the inclusion of your Authority. It speaks poorly of you that you resonate with such a… foul ideology.”
+
+Everyone else at the table started to laugh and rag on Aiden but the water Ascender just threw up his hands. “See! Dickhead.”
+
+Matt couldn’t help but chuckle as he nodded at Aiden’s antics. “He might be a dickhead, but he's also not wrong. How many times have you asked to drown me in the last two hours alone?”
+
+“And what's your point? Besides, you get a benefit out of being drowned so it's not like you can complain. And I asked. See that makes me a good person.”
+
+Matt turned away as others at the table started digging into Aiden for his behavior.
+
+“Why don’t we move to another room?” When Qin Jiang and Luis both nodded, Matt commanded the venue to create an adjoining room where they and the almost three dozen people following the two entered. All the guild members were easily identifiable thanks to them all wearing similar circlets.
+
+With Manny on the same planet let alone a dozen feet away, Matt felt no discomfort being so close to so many foreign high Tiers and was instead interested in what he could do. A lot of people sought his help, which was part of the reason he had been so willing to escape into their private room, but the fact that Aunt Helen had seriously recommended this foreigner made Matt not only willing to hear him out, but willing to give it serious effort.
+
+Sitting down and calling for drinks appropriate for everyone's Tier, Matt said, “Aunt Helen recommends you, so what can I do to help?”
+
+That seemed to surprise most of the people, but Matt just waited and watched. The higher Tier and presumably older members of the group looked at him with various combinations of distrust, distaste, and contained but blatant hostility. That hostility was nothing compared to what was directed at Aiden earlier, but it seemed to stem from the same source. It was not a group he would be normally inclined to involve himself let alone interact with but Matt trusted Aunt Helen even if she was a little drunk.
+
+After a moment of inspecting Qin Jiang spoke, “First let me introduce me and mine. We are Those Crowned in Glory. We are a guild dedicated to eradicating evil in its many forms. We eradicate the unjust and try to promote equanimity inside the Guilds. We…”
+
+The Tier 46 seemed to consider his words for a minute but when he didn’t seem to find the words the only other Tier 46, Luis, spoke up, “Historically we often have a contentious relationship with other Heroes, excuse me, Ascenders. We have contested many when they overstepped the bounds of what is right and proper. Beyond what was tolerable even for them of their power as challenging one of such power isn't to be done lightly. Happily, we mostly managed to foil their worst excesses but they are hard and bitter fights with losses. So please understand why it makes us a little uncomfortable to come and ask for your help.”
+
+Matt considered their words and, after a brief check in with their records stored on the EmpireNet, nodded. It wasn’t common knowledge or particularly obvious, he wouldn't have noticed if he wasn’t specifically looking for it, but there were several records of the Crowned hindering and sabotaging a Hero’s endeavors. Looking deeper into those heroes, all of them had suspiciously open records of their abuses and misuse of power. Normally a Great Power tried to present their past Ascenders in the best light possible but he had a feeling that too was the Crowned’s work.
+
+“Given your stated goals and half a second of looking at your notable historical actions, I can see why. I’m not sure how that applies to me, but I get it. A lot of Ascenders are assholes or become them when the power goes to their head. Still, none of that answers my question. What do you want from me? Aunt Helen’s recommendation is enough of a reason for me to help, she knows me and my goals and so would have never recommended you if we couldn’t work together, but I still don’t know what you want. I’m inclined to say yes because your purported purpose seems positive. That said, it would be really shitty if you all only came to use Aunt Helen to meet me. That's not something a friend should do.”
+
+As Matt spoke, the tension in the room increased to a palpable level until Luis laughed. “We intended to swing by your home on our way out. Rest assured the main purpose was to visit and congratulate Helen. She had a similar idea to us and insisted on introducing us after we said hi. She’s a little drunk at the moment and insisted.”
+
+Qin Jiang softened at the same time but the others were slower to retract their claws. “It speaks well that you think so, but yes, it was Helen who insisted. We would have otherwise waited for a more appropriate moment.”
+
+Matt nodded, choosing to believe them given how easy it would be to verify with her later.
+
+Qin Jiang continued after leaning back slightly in his chair. It wasn’t a slouch or even what Matt would call getting comfortable so much as him signifying that everyone else should relax, which Matt noticed they did. “Our goal is simple in purpose even if possibly impossible in practice. Brother Mathias, if you may.”
+
+The youngest and lowest-Tier member of the guild bounded forward with a similar expression to the adoration Matt was used to in lower Tiers.
+
+Going into his PR mode, Matt stood and took the kid’s hand giving him a firm handshake and a smile. As he did so, he noticed most of the higher Tiers tense, getting ready to intervene as if there was a chance Matt would attack the kid which irritated him enough to send a glare at them faster then the lower Tiers could notice.
+
+Standing back with a beaming smile Mathias’ circlet’s ruby blossomed to life as a Domain-empowered flame swirled around him.
+
+Qin Jiang looked like he was going to speak but in his exuberance, Mathias spoke first, “I used one of your aura potions to create my Domain which was Justice enough and in the right way that I was able to bind with one of the circlets and become a full member of the guild.”
+
+Matt nodded to show he saw and heard the Tier 6, but he wasn’t part of the Guilds and had no idea who these people were beyond a few headlines.
+
+Qin Jiang thankfully explained. “My Power, excuse me, my Domain and Talent, allow me to create growth items that empower Domains. They also let all of us share a Domain pool. Each of the members passively add a portion of their Domain into the pool but can also call upon the others for a power boost. It is a collective effort which means the Domains need to be hyper specific. A general Justice Domain won’t work. At least not usually. If a person wants to bind with a circlet, they need something that will fit with everyone else's Domain. Our numbers are few and have never crossed over a hundred, even in millions of years. There are millions of outer guild members who passed our rigorous personality tests, and they go on to do good for the Guilds as a whole. Many of them even create variations of a Justice Concept but they still can’t bond to one of the circlets. After seeing how Brother Mathias was able to turn one of your aura potions into a suitable Domain, our guild tried to replicate the success but it failed. Our hope in coming is that you and your guild might be able to create an aura rift that might allow us to make aura potions that can increase the probability of an appropriate Concept by directly using our Domains as a sample.”
+
+Matt hadn’t known such a shared Domain pool was even possible and mulled over the possibility and its implications. He also gave in and started reading some of the information about the guild and its history in detail.
+
+The guild was truly as presented and unless there was something missing in the Empire’s private reports on the guild of the Crowned, as they were locally known, the guild seemed like a force for good.
+
+Good being so incredibly subjective, Matt looked into it further, and the guild’s interpretation mainly boiled down to a general effort to stop people from interfering with civilians, especially higher Tiers who would otherwise just treat those weaker than them as tools or unimportant casualties in their pursuits.
+
+It was a fairly laudable goal and their impact was actually very impressive relative to their small size. But it rather paled in comparison to the sheer scope of a Great Power, despite heading off numerous would be disasters.
+
+It was a good start but the main thing Matt wanted to know however was how many of the guild had turned ‘evil’ and how the guild handled that. Digging through the Empire’s files on outside forces he found his answer. He had been sure it had happened and was proven right, just not to the degree he was expecting.
+
+In the last several million years, there had been a whopping one guild member who had turned ‘bad’ and they had been cut off from the source of power they collectively shared and then hunted down by their former guild members with ruthless efficiency. In fact, most of the reports he found on the guild was of their members dying as they prevented various disasters. That would have been a bad sign to their reputation but uniformly the guild members seemed to act several Tiers above their actual cultivation, which understandably made even a single mistake lethal.
+
+Matt could see why Aunt Helen thought they would get along. He liked the group and what they stood for. They seemed like genuine sources of good in the Realm and that was all too rare.
+
+“Do you have an unbound circlet? I also need a demonstration of the power. Mathias, give me an attack if you please.”
+
+Matt held out a hand which the boy immediately launched an attack at. An attack he recognized as a slightly modified [Solar Flare]. It was also several Tiers stronger than it should have been, backed by a robust Concept that no mortal should have had time to build. It was a little hard to estimate, but Matt put the blow at peak Tier 9 or low Tier 10 which, for a Tier 6, would have been beyond impressive if not for the power not originating from himself.
+
+Not that Matt considered it a downside or a slight. Everyone had their advantages and the circlets were just one of many and an interesting one.
+
+Smiling at Mathias, Matt said, “Good showing. A nice modification to [Solar Flare] as well. The variable aiming will serve you well; doubly so if you intend to add in a tracking function or do it manually with [Fire Manipulation].”
+
+Even as the kid stammered out a thanks, Matt looked at the unbound circlet he was handed.
+
+Sitting back down, he took a sip of one of the drinks that had arrived letting his spiritual perception and other various senses sink into the circlet. As he did so, he felt the perception of the guildmaster intensify, and he was quite confident that if he made any untoward move, the circlet would disappear from his hands faster than he could react. Possibly not faster than anyone in the next room could react but Matt doubted they would interfere just so he could inspect the item so long as he himself wasn’t in danger.
+
+It truly did feel like a growth item in that it felt like a simple Tier 5 item. The materials were made out of simple common metals: steel, copper, and a little silver and gold for the enchantments. Even the gem was artificially grown if he wasn’t mistaken. But that was only the physical side of the item.
+
+Its spirit was robust, complicated, and clearly Talent-made as Matt saw several runes and formations that had no possibility of being stable let alone creating appreciable effects yet clearly did.
+
+Holding out a hand, he made a grabbing gesture. “Let me see a bound one.”
+
+The one he was handed was of similar make, although if he really focused, he could see tiny signs the craftsman was fractionally less skilled when crafting it.
+
+Its physical metal was all also Tier 37 and its spiritual make up was so complex and detailed, Matt didn’t bother doing more than a scan.
+
+After a few more minutes of inspection, Matt handed back both circlets and asked, “Can I get a sample of the Concept? The specific brand of Justice as you called it?”
+
+Qin Jiang conjured a wisp of power that wavered like a heatwave as it sat in the cage of his fingers.
+
+Matt carefully took and inspected the Concept willpower and let his own Domain brush up against it.
+
+The Justice Concept he had been handed was interesting. It wasn’t what he would call strong, deep, or robust, which made him confident this wasn’t actually Qin Jiang’s own Concept, but it had a sturdiness to it that Matt felt would both make creating an aura rift out of it technically possible and fiendishly difficult.
+
+Having confirmed that it was theoretically possible he could actually create a rift out of this sample, Matt started considering if he wanted to.
+
+Several teams in Titan’s Torch had been branching off into more esoteric aura types in recent years and, while he hadn’t encouraged that, he hadn’t stopped it either. The research, even without many major successes, had led to a veritable flood of requests to make custom aura rifts for various factions but Matt had pushed all of them back using the excuse that his guild wasn’t ready for that yet.
+
+That excuse would no longer hold water if he helped this guild with their aura problem, but Matt wasn’t against that outcome.
+
+One of the answers to Cameron's and the other low level members’ worry in Titan’s Torch was that the guild would run out of funding. He and Kees had discussed giving the guild members what they wanted and a visible source of income. Taking on orders for custom auras was one of the best ways they had come up with but they hadn’t wanted to loose the arrow on that too soon, as once it was released, there would be no way of pulling it back.
+
+However, Matt was considering it for several reasons.
+
+First was Aunt Helen’s recommendation. Matt trusted her and her word was good enough of a reason for him to reconsider his position on most topics.
+
+Second was that this guild, more than most, was a true force for good in the Realm. More than the noble families, Empire-based guilds, and Knightly Orders who had all come knocking for bespoke aura rifts. They would come back once he did this and he wouldn’t be able to so easily dismiss them as he would this outsider guild.
+
+Third, Matt just liked the idea of trying to tinker with this power. He had a million and one things on his plate but he really wanted to play with this Domain and see what he could do with it. It was the least of his reasons but an important one.
+
+Still, he had questions. Many questions.
+
+“What do you guys do when someone eventually turns bad? I saw you guys were able to turn off the power sharing last time but I’ve seen more than enough reports of people who slaughtered cities in the name of ‘goodness’ or ‘rightness’. Righteous fury and all that. For as much as I agree Aiden isn’t exactly normal, he is a good person. His Domain may be a little eerie but he himself is a good person who genuinely cares about those around him and doesn't act out in cruelty or maliciousness like someone with a ‘better’ Domain might. I don’t want to help expand any organization that might start slaughtering kids to free them from poverty or some shit like that.”
+
+Everyone in the group nodded as he finished almost in perfect unison.
+
+Luis waved a hand, and a more chaotic mixture of energy appeared. “A good question and one that speaks of your character. Too many people try to distance themselves from the ill they assist in creating just because they don’t wield the knife themselves. To answer your question, we have a few ways. First and foremost is that our collective pool of power inherently judges everything we do and will cut off anyone who deliberately acts against that. That stops the worst offenders who knowingly try to do evil, but as you mentioned, that mechanism does nothing for people who believe they are doing good. For those, we can cut them off with either twenty percent of all circlets, the closest five, or any of us over Tier 45. We don’t take in members lightly, there are stringent requirements to even join our outer guild, but people can and do change. Sometimes that change isn't for the better. But the main way we deal with them is frankly preventive. Any time any of us start to cross a line, several of us pull them back. It is one advantage of our small numbers, that we all know everyone, and can intervene and counsel before it's too late to right our course. We are still human and can become jaded and overwhelmed with our self-imposed tasks.”
+
+Matt took that in while trying to see how it could be abused. The main ways he could think of were incredibly unlikely and having more members didn’t increase those odds if the automatic shut off was as robust as Luis implied it was.
+
+“Ok, I’m willing to work with you guys. I can’t guarantee a time frame or anything and I’ll need samples of the circlets—”
+
+“No.”
+
+Matt was taken aback at being rebuffed that bluntly.
+
+“No unbound Circlet is leaving the guild hall outside of one of our most senior members’ personal supervision, let alone be given into the hands of a research guild in another Great Power. Nor is it or its inner working at all relevant to our request. If you need some way to verify that the created aura is suitable, I’m confident I can craft an item to verify that. And if it turns out you truly need more insight, we’ll see if we can arrange for one of our senior members in need of some calmer duties to be stationed at your guild to provide said insight at their own judgment.
+
+Matt wasn’t exactly happy about it, but he was asking them to just hand over the source of their unique power. He imagined the Knightly Orders would react the same way if asked for their methods of imbuing Natural Treasures to make the rifts they want.
+
+The petty side of him considered if he should do that at first, just to see their reactions.
+
+Nodding, he acquiesced. “That’s not ideal, but okay. We can work with it. Just so you’re aware, this will most likely slow things down. Items are a good source of rift anchors.”
+
+“We’ve been going for over a million years without aura, we can handle a few more.” Qin Jiang seemed entirely unfazed.
+
+“We will still need samples of compatible Domains and preferably the mana types of those who hold them. This one is non-negotiable, without those we’re basically dead in the water and can’t even start. You can see how the rifts are made as it's all shared.” Matt was expecting a fight.
+
+“This is entirely expected, and we came prepared,” Qin Jiang pulled out a case filled with a carefully sorted set of mana crystals and little vials holding samples of concepts. Containers able to hold samples of Domains stably were very rare and very expensive to the point that even Matt had been struggling to source them for his guild in any reasonable quantity. It was hardly a surprise Qin Jiang was able to create them and he made a note to try and get more.
+
+That settled, Matt moved on to the awkward part of the conversation. “As for the price. These experiments aren’t cheap, and they might never work. How invested are you?”
+
+For the first time in the conversation, Qin Jiang seemed genuinely unbothered. “I am willing to do whatever I need so long as there is a possibility of success. I am old and have accumulated much wealth. What do you desire? I can accommodate a lot but I can not make an item to boost your Domain so please don’t request that. I truly can not do so. Not to mention wielders of my items are banned from wars anyway.”
+
+Matt blinked. “I hadn’t intended to ask that, though borrowing power from Tiers higher than oneself does make sense as being blanket banned. As for monetary compensation, we can hash out a number but I’m thinking something starting around a Tier 40 mana stone in value to cover the initial costs of the experiments as well as guild expenses. Throw in a few hundred of those Domain vials as well if it's possible. They’d be very useful to our guild in general. As for other things, what do you have? I know Aunt Helen has stashes of goodies and while I might be interested in some of that, I have a different request in mind if you are open to it.” When he got a nod to continue, he bluntly stated what he wanted. “Powers. You are old enough to have seen that develop from nothing and claim to have one. I’d like tutoring for myself and my friends, Allie, Zack, Susanne, Aster, and Liz.”
+
+Qin Jiang frowned but slowly nodded after conferring with his guildmates. “I am amenable to that, but I can not promise anything in such endeavors. Powers are hard to explain to one who doesn't ‘get it’, but if any of you can get your foot in the door, I am willing to teach you what I know. I would never call myself an expert but I am quite skilled with them. As you said, I was there when they were popularized. However, do remember they existed in various forms for far longer than the Guilds’ existence. We simply quantified and standardized them. I am also willing to throw in a number of rare resources if the training doesn't succeed.”
+
+Matt nodded, sticking out his hand. “Deal.”
+
+Once they had agreed, Matt stood. “Feel free to keep using the room if you like. I intend to leave for Palustris via Allie in another week or so but I can get started while a few of you make the long trip. It was good meeting you, but I can see my poker deck being ravaged as we speak.”
+
+Sitting back at the table, Matt moved phoenix Liz to the spot next to him, grabbing the cards she had been struggling to deal and shuffling them back in with her beak and talons. Half of the combined deck was already gone.
+
+As he worked, Allie knocked over her pile of chips as she looked at Manny. “In addition, I want to know where you have been.”
+
+“I already told you where I was,” Manny retorted with a knowing smirk.
+
+“Saying you were busy isn’t a location.”
+
+“That tells me you need to work on your imagination. Busy can be a location.”
+
+“No, it can’t! I already checked all the locations called Busy, and you definitely haven’t been hanging out at any of them.”
+
+Manny simply smiled back at her. “Then I guess you'll never know.”
+
+Aster leaned over. “Ok, but what if you tell us if we guess it?”
+
+“No.”
+
+Aster just nodded. “Ok he was somewhere called ‘no’.” She sounded out the word like it was a foreign curiosity.
+
+Lila shook her head. “He was clearly just relaxing and doesn't want to admit it. Give the man a break.”
+
+Liz shook her head as she stared at Manny. “No, I don’t buy that. He was up to something. He's got a look on his face that screams smugness. He was pulling one over on someone I know it.”
+
+Carissa shook her head. “He's not going to tell you, just give up.”
+
+“Obviously, he's not going to tell us. We are going to guess. Duh.” Aster tisked sadly as if Carissa had said something truly foolish.
+
+Aiden shook his head knowingly. “I’m telling you guys he was spying on the war effort. Peering into everyone's secrets and grabbing Talents. It's the only thing that makes sense if he wasn’t in a rift.”
+
+Allie shook her head. “And I'm telling you that's not what he was doing. It's too obvious and the other Tier 50s would have felt him given how long he was gone. He was doing something inside the Empire. Had to be.”
+
+Aster shook Susanne’s head hard enough to make her braid swing. “If it was in the Empire, he would have responded to messages. So it has to be clandestine, which means outside the Empire.”
+
+Manny looked pleadingly at Matt and the cards he was still shuffling. “Can you please give them something else to speculate about. I’m about to go back to where I can’t specify just to escape.”
+
+“Ha! So it was a vacation.” Allie pounded the table.
+
+“Or just less bad than your badgering,” Zack sniped right back to whoops from most of the rest of the table.
+
+Allie’s head rolled off her shoulders as she clutched at her chest dramatically.
+
+Matt just shook his head as he started dealing once more while thinking about who else he wanted to open this first round of specialized aura rifts to.

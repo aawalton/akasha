@@ -1,0 +1,156 @@
+---
+id: be2a3dd3-d66a-5be9-b912-71701445a096
+page-type-slug: story-chapter-royal-road
+title: "Chapter 453: Zoom"
+partOf: rise-of-the-living-forge
+position: 21
+ownLength: 1801
+unit: words
+ownProgress: 1801
+publishedAt: 2025-07-10
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/2424480/chapter-453-zoom"
+royalRoadId: "2424480"
+markedReadAt: "2026-06-29T19:59:07.891Z"
+---
+
+Ida found her legs moving against her mind’s strangled protests. The absolute last thing she wanted to do was get anywhere closer to the purple-skinned woman or the inn that Gideon had just vanished into.
+
+Something had gone gravely wrong. Ida didn’t know when or where it had happened, but the information they’d gotten on the Menagerie was completely wrong. This guild was no group of crafters.
+
+They were a bunch of monsters hiding in plain sight.
+
+But her legs marched all the same. Perhaps they’d registered the fact that there was no way she’d ever be able to escape the shadows lurking behind the innkeeper. Perhaps they simply wanted to wrest some manner of control, no matter how slim, from the situation. It wasn’t like she could do much else at the moment.
+
+The only option she actually had to call on sat in her pocket like a millstone. Ida could try to contact Indrana. She could let her mother know what had happened to Gideon and just how badly they’d underestimated the Menagerie.
+
+There were a hell of a lot more dwarf warriors under Indrana’s thumb than just Gideon. Her mother could have had a small legion standing within Milten within minutes. Possibly seconds if Ida made the situation sufficiently clear.
+
+Her hand shifted toward her pocket.
+
+Then it stiffened at her side.
+
+She could ask for help.
+
+Favors didn’t come for free. Even if Indara’s help saved her today, it would bury her tomorrow. She’d be under her mother’s thumb for the rest of her life. Even if asking for help didn’t saddle her with Gideon, she’d get landed with someone equally as miserable.
+
+Ida’s hand fell away from her side.
+
+There were some prices that she just wasn’t willing to pay. She’d come here to prove herself. To investigate a rogue smith. Someone who threatened the balance of the kingdom. Not to turn herself into her mother’s paw.
+
+Death was far superior a fate to complete and utter disgrace. Ida marched on, passing by the confused onlookers as she walked right up to the purple-skinned woman.
+
+The door opened behind the other woman. From within the dark inn came the muted sounds of energetic conversation. Not a single person inside seemed to have noticed what had happened. Ida had absolutely no idea how someone could miss a heavily armored dwarf getting dragged screaming into the inn. Maybe the adventurers simply didn’t care.
+
+Without a word, the woman turned and walked into the Inn. Ida followed after her. The two of them walked in silence, moving through patches of swaying orange lanternlight breaking through the shadows on their way through the tavern until they arrived at a barred door.
+
+Ida flinched as something emerged from the darkness. A shadowy imp rose up to lift the bar out of the way, then faded as soon as it set the wood down against the ground. As soon as it was out of the way, the door swung open to reveal yet another dark room.
+
+There wasn’t so much as a single lantern within this one. It was pitch black. No, not just black. It was somehow even darker. The darkness was so thick that she could have scooped it with a spoon.
+
+The back of Ida’s neck prickled. This was nothing like what she’d prepared for. Not only did the Menagerie have… whatever it was this innkeeper and Ifrit actually were, but they dealt with demons.
+
+Is it just some fancy magic? Or are they allied with the Monster Horde? What is going on?
+
+Ida swallowed nervously. It didn’t do much. She’d repeated the action so many times at this point that there was no saliva left within her mouth. Her tongue was nothing more than a porous brick filling up space in her mouth.
+
+“Go,” the woman said.
+
+If Ida was going to die, then she wasn’t going to do it like a coward. And, at this point, it was far too late to back out. The shadows were all around her. She was well within the Menagerie’s domain.
+
+She stepped forward.
+
+Darkness swallowed her. Her eyes lost all purpose instantly. There was nothing to even squint at. No outlines. No vague figures or shadows. Just… nothing.
+
+The door clicked shut behind Ida.
+
+Then there was silence.
+
+She could hear her own heartbeat pounding in her ears and feel the blood rushing through her veins. Adrenaline and fear gripped her like the claws of some massive bird. Ida turned, instinctively seeking the light that had been behind her, but even that was shut off.
+
+Even the outline of the door was gone. All that remained around her was a black void.
+
+Wait. Was this what they wanted? Is the Menagerie planning to just lock me up here?
+
+A hiss cut through the silence behind Ida like a hot knife. She spun toward it, nearly tripping over herself, as a faint flame flickered to life within a lone lantern. The light barely managed to make it a few feet out from the dirty windows of its source.
+
+As far as Ida could tell, the lantern had nothing suspending it in the air. It was just floating there of its own volition. Its light was just barely enough to illuminate an old wooden table directly beneath it and two chairs on its sides, both nearly completely swallowed by darkness.
+
+The purple skinned woman emerged into the light on the side of the table across from Ida.
+
+Her heart leapt into her throat. She hadn’t even heard the other woman move, and she’d definitely been behind her just a few moments ago. It was like trying to keep track of a wraith.
+
+“Sit down,” the woman said as she lowered herself into her own chair.
+
+Ida had no choice but to do the same. They were both silent for several long seconds. If Ida hadn’t spent years upon years of her life dealing with dwarven nobility, she might have started squirming.
+
+“You’re the one that challenged Ifrit,” the woman said. “Do you know who I am?”
+
+“No,” Ida said honestly. “But I assume you’re a member of the Menagerie.”
+
+“I am. My name is Lillia, and I’m the owner of the Devil’s Den. I also do not take kindly to people trying to attack members of my guild.”
+
+Ida went to swallow, but it was starting to hurt at this point. She settled for a grimace. “I can understand that. I never called for Gideon. I had no plans of ever trying to attack anyone. I was investigating Ifrit on counts of potentially having been taught sacred magic.”
+
+“Gideon,” Lillia said. “That’s the name of the other dwarf?”
+
+“Yes,” Ida said. “He’s a warrior. With Indrana.”
+
+“Indrana?”
+
+Ida hesitated for a moment. She wasn’t so sure spilling secrets to the Menagerie was the smartest move either… but Lillia hadn’t asked for anything that wasn’t fairly common knowledge.
+
+“A member of the Dwarven Council,” Ida said wearily. Lillia had introduced herself. Generally, one didn’t do that for someone they planned to kill. If Ida gave them the information they were looking for, there was a chance she could still survive this without becoming a pawn.  “And, unfortunately, my mother.”
+
+Lillia examined her for a moment.
+
+“You’re the daughter of a dwarven councilwoman?”
+
+“I am a dwarven smith,” Ida said, a note of steel cutting into her tone before she could stop it. “One whose mother happens to be a councilwoman.”
+
+Lillia arched an eyebrow, but there was cold fury within her gaze. “I see. And what made you think that you had any jurisdiction here? That you had any right to control what the Menagerie does? Your warrior tried to turn his blade against a smith. He did raise his blade against one of us.”
+
+Ida winced. She could still hear the crumble of the ruined building collapsing around the girl that Gideon had struck.
+
+“Is she okay?”
+
+“The only reason you both still draw breath is that she is,” Lillia said simply.
+
+“I have no lost love for Gideon,” Ida said in disgust. She shook her head. “My mother sent him here.”
+
+“Why?” Lillia asked, tilting her head to the side. “How?”
+
+Ida hesitated for a second. This was stepping away from unimportant knowledge. If she answered Lillia, then she’d also have to reveal the presence of the stone sitting in her pocket. And if she did that… there would be no backup plan. No other way out.
+
+She’d be sealing her own fate to whatever it might be.
+
+A second dragged by.
+
+Then Ida’s lips pressed thin.
+
+At least the one sealing it will be me.
+
+“I told my mother the results of my investigation, but she wasn’t satisfied.”
+
+“How?” Lillia interrupted.
+
+“With a magical item that lets us communicate telepathically,” Ida said, pushing the words out before she could second guess herself. “She sent Gideon to handle things for me against my will, promising him my hand in marriage as a reward.”
+
+“That seems like a rather excessive reward for something as simple as killing a mere smith,” Lillia observed.
+
+“Gideon is connected to a powerful family,” Ida said with a bitter shrug. “One that will advance her position in the council. That’s more than enough for her. She’s just been waiting for an excuse to get away with it without outright making it clear I’m her puppet.”
+
+“That is unfortunate,” Lillia said, and her words surprisingly did genuinely seem somewhat sympathetic. “But you won’t have to worry about that anymore.”
+
+Here it comes. This is where they say I’m not leaving alive.
+
+“And why is that?” Ida asked, measuring her words. She wasn’t going to give the satisfaction of begging for her life to anyone. Not her mother, and not Lillia.
+
+“Gideon isn’t leaving this building alive,” Lillia said with a shrug. “He laid hands on my people. I’m sure people expect him to be released. That isn’t happening, and I welcome anyone who wants to try and argue his case to do so. His magical armor will be returned. We aren’t thieves. We’ll have to let your mother know so she sends someone to pick it up. We don’t hold onto trash for free.”
+
+Ida blinked in surprise. “What?”
+
+“You said you have a way to communicate with Indrana, didn’t you?” Lillia asked. “Go on, then.”
+
+“Go on and what?” Ida stared in disbelief. “I don’t understand.”
+
+“Call her, of course.” A dangerous smile spread across Lillia’s lips to reveal razor sharp fangs glistening behind them. And in that moment, it struck Ida that the innkeeper wasn’t just some strange, purple-skinned human. She wasn’t a human at all. Lillia leaned forward, promised death lurking behind her eyes. “The three of us are going to have a little chat.”

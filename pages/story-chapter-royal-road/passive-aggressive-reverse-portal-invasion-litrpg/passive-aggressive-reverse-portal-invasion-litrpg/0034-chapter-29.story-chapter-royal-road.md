@@ -1,0 +1,135 @@
+---
+id: a5efe57b-4ca5-5b40-89c7-6818fc56d6e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29"
+slug: 0034-chapter-29
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 34
+ownLength: 2656
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3551119/chapter-29"
+royalRoadId: "3551119"
+---
+
+Ethereal Marmots were aptly named. They were hard to find, and even when I did find them, they were elusive and hard to hit. Yet, with my Wheel of Magic nearly maxed out, they swiftly went from being a danger to being fast, yet manageable nuisances. It became a game, yet one where I had become the hunter, not the hunted.
+
+To me, every single frustrating encounter with the insanely murderous critters was one of sequences and balance. The first stage inevitably revolved around my attempting to block enough damaging air assaults to max out the retributive damage of my Wheel of Magic. The balancing part arrived when I went on the offensive, actively hunting my opponents down. That part was easy. Trying to ensure that the restoration offered by Self-Heal almost matched the inevitable return damage from the tiny murderbeasts wasn’t.
+
+The ‘almost’ in that sentence, by the by, wasn’t an error. At this point, I’d come to the conclusion that my immense health pool was a gift. I know. Not the hardest conclusion one could arrive at. Yet, I wasn’t just talking about the lovely ability to not die. Rather, the real gifts were the knock-on effects from not dying.
+
+Taking damage and either out-healing said damage through Life Steal or simply restoring the damage naturally through Self-Heal was just the start. The real gift came through self-improvement. Sure, a lot of skills improved automatically through your actions on the battlefield. Yet, a lot of them took blood and pain to improve.
+
+Any resistance skill, my Armor, Resilience, Shield and Self-Heal skills? Most builds wouldn’t let you just keep on improving those. You’d need a healer, dedication and constant downtime to recuperate health and mana before going back to it.
+
+It was the same for me, of course. I couldn’t just keep on going eternally. I was no machine. Yet, the balancing act – keeping the damage flowing in balanced with my natural and talent-based healing was slowly become easier.
+
+Hence, I worked the balance. I sometimes took a hit or two deliberately, to keep my Self-Heal active and working. Similarly, I used Spot every chance I had to keep my stamina down and Higher Endurance improving. It was a risk, but a calculated one. Keeping my reserves constantly at around sixty to eighty percent ensured that my skills would keep increasing.
+
+And increase they did. My defensive skills were improving in leaps and bounds, to the point where the annoying Marmots were becoming less and less of a challenge. They’d managed to ruin my plan for Burgeoning Aggression – but eventually, I was forced to admit that this approach wasn’t the worst either.
+
+My talents also took practice. Those, of course, didn’t automatically improve. Yet, they could be applied optimally, if you knew how they worked.
+
+My Wave of Reflection needed direction. I’d already known as much. Yet, I hadn’t yet realized the possibilities in controlling that black wave of intangibly damaging energy. The wave would course straight through enemies, causing damage along the way. Yet, that wasn’t all it was. The damage and effect depended entirely on how and where I aimed the wave. Once, I managed to hit a Marmot in its hindquarters, and the energy actually crippled the overtly cute beast. I felt my heart leap with pity at the sight, right until it used my distraction to nearly carve my ear off with an aerial missile.
+
+I also trained Wheel of Magic. At first, I’d assumed its attacks were entirely automatic. Then, I learned that I was able to influence tiny things. Not direction or damage type. Yet, I found that I was able to change the tightness of the attacks, influence if the missiles should arrive straight at the targets or scattered. I felt like there was more to it as well, but I couldn’t quite decipher it. Not yet.
+
+I felt, for the first time since fleeing the Ever Steady, in control. I knew there were tons of things out there that’d be able to take me out without issues – but right this moment, I was on top of things.
+
+While the Marmots were excellent practice partners, I learned that they were perpetually low-level. The highest-levelled Marmot was Level 12 and still went down with almost infuriating ease. Their health was negligible, too, typically below a hundred. In short, the experience stemming from my murder spree was limited.
+
+At the end of the third day after stumbling on the ugly buggers, I was looking into a few conclusions, all of them frustrating.
+
+The first conclusion? Extinction. Just as I had run out of Millipedes, the prevalence of tunnels in my surroundings was thinning out – and the Marmots along with them. The past four hours, I’d only found a single Marmot, and that one had already been wounded by something. Nearby feathers hinted at something airborne, but I never saw what. Regardless, I was running out of beasts to kill.
+
+Second conclusion tied to the first. Levels. I managed to make it to Level 17, barely. Yet, I was nowhere near the five points needed to unlock my Burgeoning Aggression and finally get some real battlefield control.
+
+The third, and most frustrating conclusion tightly tied in to the two first. As I slowly progressed in a westerly direction, skinning and grilling the local wildlife population, (And hating every bite. Why were there no mutated pigs in this damn world? Magical cows?) the landscape slowly altered. The tall ridge running alongside my progression in the northern direction slowly, but surely, veered off in a southern direction, cutting me off.
+
+The scenery expanded ahead of me. I’d located a small hillock on the otherwise flat landscape and climbed it to take in my possibilities. They were, unfortunately, both simple and frustrating.
+
+The ridge did indeed cut me off. Just a kilometre or two ahead, the highlands made it very clear that my future travels westward were drawing to a close. Southward, the shift in the terrain remained as constant and disgusting as they’d been since day one.
+
+Swamplands, or climbing. That was what it boiled down to. Did I want to shlep my ass through stinking, muddy water or risk breaking my legs, leaving myself crippled in hostile lands?
+
+That sounded like a difficult decision. It really wasn’t.
+
+My personal inventory was, right this moment, stuffed to the brim. A large part, of course, was the Millipede skin, every bit as tough and unbending as the moment I’d skinned it. To that, I had added a dozen Marmot furs. They were soft as blazes, with a subtle glow that indicated some sort of magical effect. Only, there were no convenient item descriptions to be had here. Maybe that stuff was Crafter-only? That, or there were no convenient shortcuts.
+
+Anyway, in between those items I was saving for the future lay charred Marmot meat, enough for a week at least and my waterskin, recently filled from a tiny, ice-cold waterhole.
+
+In theory, I’d be good to go in the swamp. Fresh water might become an issue some days in, but I was good for now. Sure, I’d have to be wary of things that were optimized for fighting underwater – being dragged or subdued underwater would effectively ruin my chance at defending. Yet, that wasn’t the real issue here.
+
+My shield was strapped onto my left arm. Its weight had become less of a burden, and more of a comfort, a reminder that, anything this world might throw at me, I’d be able to fend off.
+
+Only, during this last battle, the comfort had become a few centimetres shorter. Parts of the upper edge of the shield, already hugely destabilized by the Higher Skreeling’s bite, took an aerial missile and simply flaked off.
+
+My shield was falling apart. Little by little, its structural integrity was deteriorating, and there was nothing I could do about it.
+
+On top of that, my swordbreaker, never impressive, had been dulled by the constant skinning work, and I had to put increasing pressure on the spindly thing whenever I used it. One of these days, it would simply snap apart.
+
+This was to say nothing of my armor, which was scuffed, pierced, broken, burned and abused in more ways than I could count. The strap holding the armor in place around my midriff had died a few fights back, and I’d been forced to improvise a replacement from dried strips of Marmot skin.
+
+Some annoying prodigies would be able to keep going, using their knowledge to craft tools and replacements. I… was more likely to end up fighting buck naked.
+
+Hence, entering the swamplands was not a possibility. I’d watched a bunch of survival videos before entering Ademia, of course. I’d need to be able to survive in medieval fairytale land. But somehow, shield creation had not been on the agenda.
+
+I needed to find somewhere with civilization. Or, at the very least, find some hostile semi-sentient asshole with a shield who would attack me and kindly serve me a replacement. The simple solution to this conundrum, of course, would be backtracking and waltzing up the incline I already knew was guarded. Except… I didn’t like the idea. At all. Simple logic would ensure that the people put there to guard it would be high-Level. They’d also have the advantage of height against me, and, with my luck, would be sporting ranged weapons. Nope. As insane as it sounded, I would rather take advantage of my high stamina and arrive somewhere less likely to be guarded.
+
+That notion found me, twenty minutes later, staring at the bottom of the cliff face leading pretty much straight up in the air. I was very much having second thoughts.
+
+Perspective was a weird thing. Just like I’d been guilted into jumping from the 10-metre platform in the swimming pool once, everything looked a lot different when you were up close.
+
+From afar, I’d estimated the cliff face to rise maybe fifty metres into the air. It didn’t look entirely unmanageable either. Rather, it looked like the rock was varied and cracked enough to have a liberal array of handholds.
+
+From below, it looked more like I going to embark on some Mission Impossible crap. Thank God, there were no overhangs that I could see. But way too large a part of this route looked either vertical or close to it.
+
+I cracked a grin. This would’ve been absolutely, insanely impossible – if it weren’t because this world came with cheat codes.
+
+Climbing
+
+Passive skill
+
+When you are strong and skilled enough, no place will ever be inaccessible to you. Every level in Climbing will marginally improve your grip when climbing, and reduce the stamina consumed by the activity.
+
+The skill was at three right now. But, that was the thing. Right this moment? I was in no rush. I didn’t need to risk my life, traversing the entire cliff face in one go. I could simply grind away and improve my odds. I stripped off my armor and shield, rubbing my hands, and got to work.
+
+Hours later, I could only thank the gods my ex had a thing for bouldering. If it weren’t for those five sessions of falling onto mattresses and hard-won lessons about optimal foot placement and weight distribution, my practice session here would’ve been quite a bit more painful than it already was.
+
+The cliff face was… problematic. My ex would’ve had words for it – ‘A 5C technical climb for the first half, becoming 6B with a difficult one-hand crux a third of the way up and extensive edging near the top.’ Or some such nonsense. To me, ‘problematic’ pretty much covered it. Not only were there sections where the rock was slippery as hell, but a single point about a third of the way up had me using a near-vertical crack in the rock for hand- and footholds, which was awkward as hell.
+
+Good thing I hadn’t gone farther up than about ten meters so far. That was still a stretch for me, but I figured, with my Resilience, Blunt Resistance and Fortitude, I might be able to survive and heal any drops from that height.
+
+I fell down, once. A generous outcropping crumbled below my foot exactly when I was switching positions. Fortunately, it had only been about six meters up and my Balance skill helped me right myself somewhat. I still earned myself a twelve-hour ‘minor sprain’ debuff and a point to Resilience.
+
+It was all good, though. I stayed near the bottom, moving along the wall in order to spot the optimal place for the morrow’s climb. And when I found a place to camp, it was with a light sensation in the chest.
+
+I’d gained a full six increases to Climbing, bringing it to nine. I could actually sense the difference. My grip felt more secure, my balance more… distributed, if that made any sense. But the real difference between this and Earth could be summed up in one word: Stamina! People – and by this, I included myself – who hadn’t tried climbing always underestimated just how exhausting a task it was. If somebody decides to take a break halfway up a cliff face? Nine times out of ten, it isn’t because they’re enjoying the view, but rather because their fingers are threatening to fall off.
+
+Yet, this exact issue, due to my questionable quirk, had become an absolute non-issue. Not only did Climbing and Higher Endurance combine to reduce any stamina used, while my Stamina Regeneration was working full-time to keep it topped up. I also had more stamina than seven regular people combined and the option to refill it once a day.
+
+No, I was feeling pretty good about myself.
+
+A full night’s rest prepared me well. My debuff faded along with the morning dew, my stamina refilled, and my health actually ticked back up to full, for once. It was weird. Of all the things I’d expected to blindside me about a world with magic, this one was just strange. But the fact that, by now, I could get by with a lot less sleep? That felt alien.
+
+Healing a near-mortal wound in two days? No problem. Feeling awake after three hours of sleep and no damn coffee? Strange as hell! Strange, but exhilarating.
+
+Still, it was nowhere near as exhilarating as the notification that met me when I opened my eyes.
+
+Congratulations. You have unlocked the higher rarity of a skill:
+
+Your body has spent more than a full week healing your injuries.
+
+Self-Heal evolves to Higher Self-Heal.
+
+Higher Self-Heal
+
+Rare Passive skill
+
+Pain is something well-known and familiar to you. You can take the hits and keep on fighting, for days on end. Every level in Higher Self-Heal will improve the speed at which you regain your health, and moderately reduce the duration of temporary debuffs. The healing rate of Self-Heal cannot be affected by quirks or other talents.
+
+In addition, once a day, you may fully cure a single debuff up to ‘medium’ without any lingering effects.
+
+That was ridiculous. Ridiculously wonderful. The speed of my healing didn’t change. But that addition, being able to, say, earn a concussion and just shrug it off like it never happened? That made my day!
+
+I didn’t even grow annoyed when I forced down my morning Marmot. Rather, I whistled merrily as I took in the stretch of mountain above me. Sure, I was about to risk my life rather than try my luck talking to people directly – which did feel quite a bit antisocial, come to think of it – but I felt that I was up to the task. This cliff side, this challenge which, just a week ago, would’ve been the end of me many times over? I believed I’d be able to handle it and emerge the victor.

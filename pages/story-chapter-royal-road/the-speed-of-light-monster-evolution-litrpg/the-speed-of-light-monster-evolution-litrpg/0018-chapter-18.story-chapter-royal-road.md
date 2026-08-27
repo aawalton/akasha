@@ -1,0 +1,215 @@
+---
+id: 4dc96d43-c707-5de2-83de-33c9dcb91b46
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18"
+slug: 0018-chapter-18
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 18
+ownLength: 2327
+unit: words
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2570450/chapter-18"
+royalRoadId: "2570450"
+---
+
+Tachyon’s head spun, looking in every direction for an opening to the cave she could run down.
+
+She was startled by the sudden use of magic from the other monster. On top of that, the monsters here were different from the previous cave. The entire cave was alerted to her entering it.
+
+Looking out, the Mages seemed to be preparing more fireballs as the red tip of their sticks began condensing mana and burning brighter with red light. The Bruisers stayed close to the Mages as the rest of the cave rushed her.
+
+Tachyon sent out a barrage of light magic carrots into the crowded cave, aiming for the Mages while trying to thin the pack as much as possible.
+
+You have killed, Troglodyte Level 13. Experience earned.
+
+Unfortunately, she was only able to kill several lower-level troglodytes. The Bruisers using their bodies to block her magic attacks without suffering too much damage.
+
+The more common variants continued to charge as she did her best to keep her distance. Meanwhile, several rebuttals of fireballs were sent her way, each one exploding in a burst of fiery magnificence in a trail behind her.
+
+Their power was much more than her own light magic, at least in size of destruction. But it seemed that what they had in size, they lacked in speed, as the fireballs could not accurately hit her as she ran.
+
+Sadly, the cave was smaller than the previous one, not giving Tachyon much room to run. Thankfully, she had prepared beforehand with her new skill's ability to store her speed and momentum permanently.
+
+And with the Bruisers staying close to the Mages, away from the rest of the monsters, Tachyon had a golden opportunity.
+
+She began running the length of the cave in one large circle like a racetrack. Her hooves dug into the ground below, carving it up more and more with each step. Every stride sent larger and larger rocks behind her.
+
+The speed she was reaching would have been impossible for her before, but with the combination of her skills all coming into one. Tachyon was able to move with confident deftness as she rounded the cave, anything in her wake being turned into roadkill.
+
+You have killed, x3 Troglodytes Level 16. Experience earned.
+
+You have killed, x7 Troglodytes Level 12. Experience earned.
+
+Congratulations! Your race level has increased to 19. +4 to AGI, +2 to MAG and STAM, +15 Free Points.
+
+Tachyon’s grin went from ear to beautiful ear as she continued at her pace, no, going even faster. Fire magic exploding behind her. Her own light magic sent like a rapid fire gun into the crowd of troglodytes both in front of her and behind.
+
+She immediately put the 15 Free Points into her Agility stat, bringing it from 102 to 117, 132 after all of her equipment and title bonuses.
+
+That was when she moved even faster. Her pace quickened, and her destructive force grew with it.
+
+She cleared the cave’s circumference even faster the second time around, and faster still the third. By the time she made a complete fourth time around, there were no normal variant troglodytes to be seen.
+
+Only the Mages and the Bruisers. And just like she had figured out, they had been watching the massacre from the sidelines as well. The image deeply ingrained in them that there was no hope of winning against her.
+
+Tachyon skidded to a stop, facing them. Ten Mages guarded by five large Bruisers.
+
+The Mages raised their glowing sticks, bathing themselves in red light, but before they could fire off a volley of magic. Tachyon charged, using her stored momentum as a burst of speed as she collided with the first Bruiser, sending both her and it into the wall.
+
+You have killed, Troglodyte Bruiser Level 15. Experience earned.
+
+All of the monsters’ heads turned in confusion. Tachyon had moved so quickly that they could not keep up. What they witnessed was her disappearing, the Bruiser suddenly doing so as well, and then a crash behind them. Dust and debris kicked up to cover the scene.
+
+Until Tachyon walked out of the cloud, then seemed to vanish. Another crash in the other direction. One less Bruiser standing guard.
+
+And then another, and another. Until the last one was also missing, only the Mages remained. Steeped in confusion and fear, unable to get the volley of magic they had prepared the entire time.
+
+Tachyon finally came into view in front of them. Her light magic carrots hovered on either side of her, her shoes wings spread wide.
+
+The Mages, too in awe of the monster before them, froze, giving her enough time to raise her forelegs and crash them down on the ground below.
+
+The crater she formed from the stomp shook the cave, sending all ten Mages into the hole.
+
+Tachyon killed several instantly from the stomp, and those that survived were killed by the falling rubble tumbling into the hole. And for the ones that survived even that, she bombarded them with light magic.
+
+You have killed, x10 Troglodyte Fire Spitters Level 18. Experience earned.
+
+New Title earned: Bane of Cavemen
+
+Bane of Cavemen
+
+Kill 100 Troglodytes and their variants.
+
++5 to all Stats.
+
+And with that, Tachyon had conquered another cave.
+
+She quickly fell to her knees, however, a wave of exhaustion took over her. She had gotten carried away in the moment again. The freedom she felt and the power from her speed had made her forget where she was.
+
+And that prevented her from noticing how dangerously tired she was during her spurt. She had a new problem. She simply didn’t have enough stamina to keep up with her skill.
+
+Her current stats were not low, she felt, but the cost of keeping her skill active indefinitely was impossible at her current level and state. Tachyon had no regenerative skills right now after all.
+
+She would either have to find equipment with stats that compensated for the lack of it, or begin putting more free points into her Stamina stat. Which, she honestly didn’t want to do.
+
+From previous testing and the fight just now, she noticed something. While adding points that the skill scaled off of helped. Putting points into a single stat leagues higher than the rest, had an acute effect.
+
+She didn’t understand the specifics behind it, but she could certainly feel the difference from adding points into Strength, Magic, and Stamina. Versus dumping them into Agility.
+
+Adding points to Agility just felt more substantial. The problem was her other stats keeping up.
+
+Absent-mindedly, Tachyon went to repair her skillet out of habit. Only the tool hadn’t been damaged this time around. So she took the last of her treats she had out of her bag of holding, a well of frustration that she didn’t have more grading at the back of her mind.
+
+“I need to get out of here soon…” she grumbled under her breath.
+
+Once she felt replenished, Tachyon stood back up. Doing one lap around the cave to pick up the things that were dropped and left behind. More monster cores for the most part, however, she noticed a shiny reflective jewel poking out of the small hole she created to kill the Mages.
+
+Tachyon made her way down the side of the hole, touching her nose to it and then identifying the object.
+
+Troglodyte Fire Stick [F-Grade, Common]
+
+Summons a small fireball after consuming mana. The stick is ugly and gnarled and totally not fit for majestic beings to use.
+
+The sticks that let them cast those fireballs? She thought, putting her skillet back into her bag. Using her mana thread instead to wrench the stick free, overturning a few boulders.
+
+Once she did another shiny object reflected the light of the glowing moss, which, if she wasn’t imagining it, was becoming dimmer.
+
+The object was still partially covered, forcing Tachyon to try and move the rubble with her mana threads but sadly, they were still too heavy for her to turn over. At least with one thread.
+
+She tried again, putting more mana into the thread.
+
+Could Tachyon have just kicked the rubble, smashing it to bits to free the object? Yes, of course she could have. But that would have been too easy. And if she was being honest, it was about time she learned to control more than one mana thread.
+
+Tachyon was, in fact, still a horse without hands. To use and equip things that could be useful, she would either need hands, equipment specifically made for her, or she could learn to use them with the help of her mana threads.
+
+So, she began again, with an ultra-strong mana thread pulling at the rubble without much trouble controlling it. The slightly large stone moved but couldn’t be lifted.
+
+She tried again, extending another thread. The rubble budged more. Tachyon added another.
+
+By the time she was able to clear the rubble, she had made and used a total of four mana threads.
+
+“I’m getting pretty good at this, aren’t I?” she said to herself aloud.
+
+It seemed that for every 20 or so points in Magic, she would be able to make a suitable thread of mana that would be strong enough for her to use for various tasks.
+
+Using a thread, she held the object up, inspecting it.
+
+Crude Mage’s Extra Mana Tank [F-Grade, Uncommon]
+
+This ring stores a small amount of mana relative to the owner’s maximum mana capacity. It’s rather shoddy but not a bad start to a collection. Increases Magic capacity by a very small amount.
+
+Holds 10% of total mana capacity.
+
++5 to Magic.
+
+Tachyon’s lips curled upward as she grinned, as a pleased nicker escaped her mouth. This was just the thing she was hoping to get at the next Controlling Pillar. But she wouldn’t complain about getting a reward early.
+
+It would seem that the monsters here had useful items on them as well, or perhaps they were dropped on their deaths? Which she wasn’t entirely sure just yet, but she wouldn’t look a gift horse in the mouth.
+
+“Time for some rest and then onto the next cave…” she announced, placing the ring around her hoof as it magically expanded and shrank to fit. She then frowned as a loud rumble reverberated throughout the cave, “What was that?!”
+
+Then she quickly realized.
+
+“I’m hungry… I want more snacks…”
+
+The lumbered and thunderous steps sounded down through the passage as Sandor made his rounds. His brother Gregor had taken the Controlling stones as soon as they were transferred to this tutorial zone.
+
+Personally, he couldn’t give less a shit about the stones or this place. But he was a good brother, and good brothers followed their older brothers.
+
+So like a good brother, he went on patrol. Making sure all the smaller and weaker troglodytes were doing what they were supposed to.
+
+A lot of them didn’t even need to be smacked back into order. For some reason, they all just milled about mindlessly. Others were a bit weird and peculiar.
+
+Sandor heard the muttering of voices up ahead and the perfect example of the weird and dopey were right in front of him.
+
+“I told ya’, we shouldn’t have given her so much! Now we have nothing to eat, Ned!”
+
+“What do yous mean me?! You were the one who sent her on her pretty little way with a smile after giving her half our meal!”
+
+“Yes, but she was mighty persuasive, she was. Fine lass at that.”
+
+“Hard to argue there, she was a fine example of an upstanding girl wasn’t she?”
+
+“See we can agree on some things can’t we Ted?”
+
+“That we can Ned, but what's we going to eat? We’re out of food!”
+
+“Guess it’s back to sauteed cave moss for a while…”
+
+“Dawwww… I hate sauteed cave moss….”
+
+“Ned, Ted, you blithering cunts. What are you doin'!?” Sandor roared, looking at the two brothers standing over a fire.
+
+“Ahh! Sandor, bossman!” Ted yelped in surprise.
+
+“Boss!” Ned croaked, bowing his head slightly, “We weren’t doing nothing. Well, I mean we were doing what we were told to do! We were watching the entrance like Boss said.”
+
+“Who’s this girl you talkin’ about?” Sandor grumbled.
+
+Ted raised a finger as if a lightbulb went off, “Oh, the nice girl who came through earlier? She stopped and had a bit of a snack before she went on down to the main caves.”
+
+Ned elbowed his brother and in a loud whisper, “Shut up, you idiot!”
+
+“You did what?!” Sandor growled, bringing an overly large hand to his temples.
+
+“Sorry boss, she played us both like a fiddle, she did. Used her sweet words to coax us into letting her pass! Confused us with that bright magic she had and making me add those evil numbers up! I didn’t know my ass from my head!” Ted pleaded.
+
+“You never know your ass from your head Ted you confounded ugly moron!” Ned shouted, trying to shut him up.
+
+“That hurts Ned, that really hurts. You know I'm sensitive about my looks.”
+
+“Shut up the both of you! I should bury you beneath the ground! Ahhh! How long ago was it!?” Sandor bellowed.
+
+“Not but a few hours, maybe a day?” Ned explained, rubbing the back of his head.
+
+“You’re both lucky I don’t have time to kill you!” Sandor grumbled stepping past them.
+
+“Sorry boss, would you like some moss for the trip?” Ned asked, raising a bark plate of steaming green moss.
+
+Sandor growled loudly, backhanding the brothers and sending them to the side as he stormed off down the passage after the girl they mentioned.
+
+Ned and Ted helped each other up as they tried to salvage the sauteed moss.
+
+“Do you think he doesn’t like sauteed moss?” Ted asked.
+
+“No, Ted. I don’t think he does,” sighed Ned.

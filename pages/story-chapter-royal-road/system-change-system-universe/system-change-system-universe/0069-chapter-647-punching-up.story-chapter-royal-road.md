@@ -1,0 +1,165 @@
+---
+id: 1e3e072e-306c-5a54-8853-066e1282f9a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 647: Punching Up!"
+slug: 0069-chapter-647-punching-up
+partOf: system-change-system-universe
+position: 69
+ownLength: 2161
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3368579/chapter-647-punching-up"
+royalRoadId: "3368579"
+---
+
+Chapter 647: Punching Up!
+
+“Whew...” Edgar muttered as he looked down at Jace. “There is certainly a point in his Battlelust where you do not want to interfere in his fight.”
+
+“That’s for sure,” Derek replied with a chuckle.
+
+“What are we going to do with him?” Edgar asked. “Will we put him in your space with the others and let that time difference help him recover from the backlash faster?”
+
+“That...” Derek frowned. “I’m not sure it will work like that since the inside cuts everyone off from the system, and it’s a recovery from skill use. But I don’t know—it’s certainly worth finding out. I want it to work, but I doubt it will. We’ll still have to toss him in there if we plan on moving from this spot, anyway.”
+
+“Is he in a Dying State?” Amelia suddenly asked as she stepped forward. “Do Dying States even exist here?”
+
+“No, he’s good,” Derek replied. “Hit him unconscious for a second, then the backlash of the skill ending took over. That’s all. I was trying to be pretty precise so I didn’t accidentally kill him, and it looks like it worked. I’m sure the Dying State is here. It’s been part of the other two systems I’ve visited.” From there, Derek looked around hesitantly. Then, seeing that things looked calm, he opened his Time Prison.
+
+As soon as he did, Nivara came running to the door. “Can I come out now?” she instantly asked as soon as she got to the exit.
+
+“Sure,” Derek replied, and the woman walked out. “Take him inside first,” he continued.
+
+“What happened to Jace?” the former queen of the elves looked down at the beaten, unconscious man on the ground.
+
+“Just a skill backlash,” Derek replied. “Nothing serious. He’ll probably just be in and out of consciousness for a few system days, then weak for a few more. I doubt the Origin System would let us do something with the Time Prison to shorten the recovery. Seems like an exploit it wouldn’t allow—especially with how it’s changed the use of potions already.”
+
+Nivara nodded, then bent down and picked Jace up. She turned and took him inside the Time Prison. A couple of minutes later, she came back out. “Malorie and Stella are taking care of him now.”
+
+“That’s good,” Derek said, then looked around. He didn’t bother closing his Time Prison yet—he’d have to inform everyone of their next actions, after all. “Did everyone collect the storage devices and any other items from the... uh... whatever noble house those guys were from?”
+
+“Grimshaw...” Alex, who was working hard on no longer throwing up, answered quietly.
+
+“Yeah... that,” Derek said. “Did we collect everything?”
+
+After asking that, everyone brought everything they’d gotten and placed it on a table that Derek summoned from one of his own rings that he’d picked back up after they’d fallen off his eroded hands. Derek dropped a couple of rings on it.
+
+“This was one that I got off the Nikolai guy,” he said. “If there’s going to be a teleportation device, it should be in here. I rushed over here, so I haven’t had a chance to look yet.”
+
+“I want new system ingredients!” Silvi’s voice suddenly chimed as she hopped off Derek’s shoulder and onto the table.
+
+“Anyone have any objections?” Derek asked, and everyone shook their heads. “Then you get any ingredients we might come across in the rings.” Good thing Roman isn’t out here, Derek thought. The alchemist would definitely have some objections over Silvi getting all the ingredients. But she was a big reason they were able to beat Nikolai, so Derek thought she deserved whatever they found. “Who wants to do the honors?”
+
+“I will!” Edgar said and stepped forward. Nobody had a problem with it, and Derek had some notifications to deal with, so he nodded as Edgar picked up the first ring. After that, Derek brought up his first notification.
+
+...
+
+Congratulations!
+
+You have taken part in the slaying of a level 337 System User.
+
+Calculating total contribution...Calculating total contribution...Calculation complete...
+
+Total Contribution: 37%
+
+Essence to Next Level Gained: 267%
+
+Total Essence to Next Level: 26%
+
+Level UpLevel UpLevel Up
+
+...
+
+That is quite a bit more essence than I expected to get from that fight.Derek thought he was going to get far less contribution than he ended up getting because it was the environment that wasn’t even connected to the system that did most of the dirty work. So, when he saw 37%, he was very happy with it. When he saw that he’d gained 267% in his essence—which also seemed to factor in the increase in essence for each level—he was excited.
+
+Though... I was level 251, so that guy was 86 levels above me and had a high-rarity class. If I’d been able to beat him without any tricks, I wonder what all I would have gained. He hadn’t really made much progress in the days leading up to the fight because he’d mostly sat back and watched the others take care of any enemy encounters, but three levels all at once really made up for it.
+
+Let’s see what this next notification is...
+
+...
+
+Congratulations!
+
+New Title Unlocked: Punching Up!
+
+...
+
+A new Title! That made Derek excited. He wasn’t expecting to earn a new Title so early after arriving in the system. He knew what it was from, obviously, but he hadn’t expected it because he already had the Giant Slayer Title. I’m not going to complain, though, he thought as he pulled up the next notification.
+
+...
+
+Punching Up! I: Through any means necessary—aside from outside assistance from another System User—you have managed to defeat a System User 50 or more levels above yourself and of a similar or higher rarity. Whether by ambush, trickery, or fair fight, this is a great accomplishment. During combat with a System User 50 levels or more above you and of similar or higher rarity, you may select two stats to gain an increased 10% during the duration of the fight. These options can be switched one time during each fight.
+
+Invasion MVP Activated...Stat Gain Increased to 15%...
+
+Please select two stats as default to boost.
+
+...
+
+Derek read the last line, then instantly chose vitality and endurance. If he wanted to switch it later, he would be able to. Since he could also change which stats were boosted once per fight, he figured his two survival stats would be the best ones to place as default. And the Invasion MVP Title shows its worth again, he thought. It’s not a Title that I’ll be using often... at least... I hope it’s not. I would rather not get myself into such a bad situation often if I can help it.
+
+After closing the Title notification, Derek looked at his 105 new stat points for the three levels he gained. After thinking about the fight he just had and how his recovery was really what saved him long enough to make a decent plan, he tossed 50 into endurance and 55 into vitality. I think after that, though, I’ll focus on my intelligence more so that my void attacks do more damage.
+
+After that, Derek took a look at his new status.
+
+...
+
+Name: Derek HuntAge: UnknownLevel: 254Essence: 26% [+]Affinity: Void [+]Class: Mythical Void MonarchRace: Void Human
+
+Health: 56,625Mana: 53,275Stamina: 56,500
+
+Strength: 1,800Dexterity: 1,800Endurance: 2,260Vitality: 2,265Intelligence: 2,110Wisdom: 2,131
+
+Free Stat Points: 0Origin Upgrade Points: 8Skill Upgrade Token: 1Origin System Store Credits: 1,250,000
+
+Skills: [-][Absolute Nullify(B) Progression: 100%, Upgrade Possible][Bare Fist Specialty(D) Progression: 24%][Basic Repair(E) Progression: 42%][Chain Lightning(D) Progression: 100%, Upgrade Unavailable][Channel Void(C) Progression: 100%, Upgrade Possible][Cleaning(E) Progression: 86%][Cure Toxin(D) Progression: 90%][Dismantle(E) Progression: 100%, Upgrade Unavailable][Enhanced Movement Speed(E) Progression: 34%][Greater Meditation(B) Progression: 84%][Multi-Strike(D) Progression: 100%, Upgrade Unavailable][Polearm Specialty(E) Progression: 19%][Powerstride(D) Progression: 58%][Rejuvenation(D) Progression: 100%, Upgrade Unavailable][Resist All(A) [+]][Spatial Collapse(C) Progression: 57%][Spatial Redirection(C) Progression: 30%][Spatial Rend(B) Progression: 56%][Sweeping Slash(D) Progression: 100%, Upgrade Possible][Telepathy(D) Progression: 60%][Time Prison(C) Progression: 100%, Upgrade Possible][Veiled Sight(B) Progression: 4%][Void Call(B) Progression: 61%][Void Creation(A) Progression: 1%][Void Eclipse(A) Progression: 6%][Void Sense(C) Progression: 100%, Upgrade Possible][Void Shift(B) Progression: 89%][Void Steps(C) Progression: 100%, Upgrade Possible][Void Storage(B) Progression: 1%][Void Travel(S) Progression: 2%][Whirlwind Slash(D) Progression: 68%]
+
+Titles: [-]
+
+Absolute SaturationApex Appetite IDefenderDungeon Explorer IDungeon Traveler IEnforcer of Oaths IEnigma IEvolutionExplorer IGiant Slayer IVInvasion MVPMythicalPunching Up! IRepetitive Dungeoneer VThe Bigger They Are IThe ImpossibleTierbreakerUnityUnknown Slayer IWorld Boss I
+
+...
+
+Other than the three levels, there were some moderate gains in his skill progression. The skills that he’d used in the fight had all been given a bit of a boost. He was very happy to see that his Void Eclipse skill was, in fact, over five percent now.
+
+His Bare Fist Specialty and Polearm Specialty both had some minor gains. Spatial Collapse and Spatial Rend both increased enough that they would have gone up a level if the Origin System progression system functioned like the Davenresh System did. Still, Derek could definitely feel the skill increases during the fight. He was most happy about his Void Shift skill increasing by five whole percent.
+
+I guess that’s not bad for putting my life on the line for a little while, he thought as he closed his status sheet. He’d also made a point to check on his Affinity progress and was disappointed when he saw that it hadn’t changed at all. I guess Dave was right. Affinity is going to be the hard part for my progression in this new system.
+
+With all the notifications and status updates taken care of, Derek turned his attention back to everyone else. “How were your rewards and stuff for your fights?” he asked.
+
+“Mine were great!” Edgar replied happily as he shuffled between storage devices on the table. “I received 90% contribution for the darkness user and even a small, four percent contribution for the water guy. It was well worth that slap on the back from Jace.”
+
+“I had some decent gains from Herring, as well,” Marrick replied. “Just thirteen percent, but nothing to complain about since Jace did most of the heavy lifting once his Battlelust grew enough.”
+
+“I had fifteen percent,” Amelia said. “But the gains were quite significant for such a small contribution.”
+
+“Hmm... that means that Jace must have gotten what? Sixty-eight percent contribution for the kill. I bet he’ll be happy once he wakes up and reconnects to the system,” Derek said.
+
+“It was quite a couple of good fights, I must say,” a voice suddenly said as Klaus materialized close to everyone.
+
+“You saw?” Derek asked.
+
+“I followed you and watched your fight with the high-level user from a distance. He had quite the nasty abilities, didn’t he? I hope that you don’t mind,” Klaus commented.
+
+“Yeah... erosion,” Derek said.
+
+“That guy used erosion?” Alex asked from the side. “And you managed to beat him? Just... what are you?”
+
+“Lucky,” Derek said with a shrug, then looked over at Klaus. “You already knew most of what I can do, so no, I don’t really mind. Apparently, you stayed far enough away that I couldn’t detect you. It was pretty much what I expected of you.”
+
+“You certainly have some interesting skills, I must say,” Klaus replied. “And no, you were not lucky. You were strategic, and you timed it well. There was no luck involved. You played to what looked to be that man’s arrogance—as I could not hear what was spoken between you, I can only assume he was arrogant. You never left the range of the opening you created, and your companion timed everything perfectly. I would say you outsmarted and won that fight fair and square.”
+
+“Thanks... I guess,” Derek said. After that, he turned his attention back to Edgar. “Found anything good?”
+
+“Not a lot, actually,” Edgar said. “There are some ingredients so far and some backup tools. Mostly, it’s all recovery items and supplies.”
+
+“The clans and houses do not allow us to bring important items on training activities like this. Since it is training used to sharpen us, the escorts are the only real help we receive—and they are just there to make sure we survive. I wouldn’t expect much—even from the escorts. Any valuable but less practical items would likely be held at an Origin Bank to be transferred to a designated person after one’s death. Even on my own person, I only have what we used to camp, potions, food, clothing, and materials I’ve picked up while here.”
+
+“I see,” Derek said. “Well, anything is better than nothing.”
+
+“True,” Edgar said as he picked up the last ring. It was one that Nikolai had been wearing. “There have also been quite a few damaged items in a couple of these rings. They probably would have been the most valuable things.”
+
+“Yeah...” Derek muttered. “That’s my bad. There’s nothing I could do about it, though, really.”
+
+“It happens,” Edgar shrugged, then his brow raised. “It looks like I found what we are looking for.”

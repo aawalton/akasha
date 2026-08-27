@@ -1,0 +1,225 @@
+---
+id: 86c97a56-e6c1-5354-8fda-d1ac0ef11076
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: The Bite Beyond"
+slug: 0020-chapter-20-the-bite-beyond
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 20
+ownLength: 1461
+unit: words
+publishedAt: 2025-09-07
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2582231/chapter-20-the-bite-beyond"
+royalRoadId: "2582231"
+---
+
+PoV Luna:
+
+Luna stared at the glowing words still floating in front of her, tail swishing a proud rhythm through the mud.
+
+Even the mean old System had to admit it. She was strong now!
+
+She puffed out her chest, then immediately winced. Still sore. Still bruised. But glowing. Probably. Maybe not visibly. But in spirit.
+
+“Big frog? Bitten,” she declared.
+
+She turned, eyes narrowing at the second corpse behind her.
+
+“Bigger frog?” She raised a paw. Slammed it down on the bloated belly. “Also bitten.”
+
+Satisfied, she plopped her butt back into the muck and stared at her dinner. Still chewing. Still awful.
+
+She took another bite anyway.
+
+Victory meat, yes.
+
+Tasty? Not really.
+
+Slimy? Very.
+
+Strength, though? Strength lived in every horrible, squelchy, wet-moss-tasting chunk.
+
+Luna tore another strip from the thigh. The skin flopped before it snapped. Her jaws worked harder now, back teeth grinding soft bone and swamp jelly into something chewable.
+
+One eye squinted as she swallowed. Her tongue stuck out, then flicked back in. She gagged once and forced it down.
+
+“Strong food. Strong Luna.”
+
+The phrase came out around a mouthful, flat and confident.
+
+She licked a glob of yellow slime from her whiskers.
+
+Waste not, bite all!
+
+The smell wasn’t as bad now. Either the frog had cooled, or her nose had given up. She paused mid-chew, glancing down at the dark meat stretched between her paws. Bits of scale clung to the skin. The bone beneath felt light, like it was made from old bark.
+
+Her ear twitched.
+
+This one had been louder than the first. Bigger legs. Bigger throat. That awful scream had made her bite her own tongue. She still tasted copper when she swallowed too fast.
+
+Luna shifted her weight and settled onto her side, belly pressing against a cool patch of moss. Her tail thudded once against the dirt.
+
+Jerky never fought back.
+
+Jerky never made her skid into a puddle and hit her chin. Jerky never made her miss her Shadow Step.
+
+Luna frowned slightly. Then bit again.
+
+She chewed slower this time. Her paws flexed around the meat.
+
+The frogs were gone now. The swamp had gone quiet again. Only the drip of muck from a broken lily pad and the lazy bubble of gas in a far puddle broke the stillness. Not even bugs dared buzz.
+
+Her ear twitched again.
+
+Two frogs. One wolf. One very full belly.
+
+Luna shifted her head and glanced toward the other carcass. This one, that second frog, was the one that hit her mid-chew. The rude one.
+
+She grinned.
+
+“You’re dinner now,” she muttered into its flank, before turning her attention back to what mattered most – the System thingies!
+
+Luna sniffed the air slowly, trying to see if the System’s message had scent. Her heartbeat tapped faster. Her fur itched along the spine. Her paws flexed again without meaning to.
+
+Evolution.
+
+She stared at the frog leg. Then licked her teeth.
+
+She had done it. Chewed her way right until that big meanie had to reward her!
+
+One more bite. Just one more.
+
+She grabbed the leg again and bit harder than necessary, tail wagging like mad.
+
+“Level meat,” she whispered through a mouthful. “Evolution meat.”
+
+She chewed twice. Then spat out a rib.
+
+Her eyes burned bright in the shadowlight, fixed now on the space ahead.
+
+The frog wouldn’t stop her. The System wouldn’t stop her.
+
+The moon still waited.
+
+But Luna didn’t want any more surprises. Getting frogged over once was enough.
+
+No evolving in the middle of slime and bones.
+
+That would be stupid!
+
+The swamp had already gone back to pretending it was all nice and cozy. Mud gurgled like sleepy soup. The air buzzed quiet with wet heat. And even the insects chose to not be insufferable for once.
+
+Luna sniffed her meal, gave it a farewell chomp, and slurped down the last bit of leg.
+
+Done.
+
+She turned to head home–
+
+–and her paw scraped against something round.
+
+She froze mid-step.
+
+Blinked.
+
+Sniffed once.
+
+Then again.
+
+Pawing at the thing, her nose sniffed at the weird thing. Soon deciding the best choice was to just have a bite at it. Luna nudged the hard thing out into her cheek, then licked it for good measure.
+
+It was shiny. Smooth on one side. Lumpy on the other. Looked like a piece of bone melted in moonlight.
+
+Wasn’t meat, or bug, or food.
+
+But maybe.
+
+She sniffed again. Her nose wrinkled.
+
+Shiny. Crunchy. Like the first shard, but weird. This one wasn’t glowy.
+
+Her ears tilted back. She glanced around, checking for system messages. None, it chose to be useless now of all times. It really was mean!
+
+Her stomach growled with greed.
+
+“Probably magic,” she said, with full confidence and no evidence.
+
+She stuffed it under her tongue for later.
+
+Priorities. Evolution comes first!
+
+The bone-shard-thing pressed cool against her molar, and she licked it once, then bounded off.
+
+Her paws padded quickly through the trees, rhythm light and sure. Frog blood still streaked her chest. Bits of moss clung to her fur. She didn’t bother cleaning any of it off.
+
+The wind tugged soft at her ears as she passed beneath the trees.
+
+Night followed behind her, quiet and blinking.
+
+Victory tasted like old pond, but her legs were springy. Her heart beat sharp in her ribs. She felt strong.
+
+Faster than frog. Hungrier than ogre. Smarter than squirrel!
+
+Probably.
+
+Time to evolve. Time to really bite.
+
+Her secret den came into view as the canopy thinned. A little ridge, curled in fern. Hidden, soft, damp in the right way. Her paws found it on instinct now. She slid in low, tail brushing moss aside.
+
+The frog-meat glow still flickered in her mind. She let it rise again.
+
+***
+
+At her sleep-spot, she paced in slow circles, pawed the dirt, spun twice, then plopped down.
+
+The moss had cooled while she had been out conquering frogs. Her paws pressed in, squish-perfect. The fern wall curled softly behind her tail. One last noseful of damp bark confirmed it. It was comfy.
+
+Tail curled. Back paws tucked. Her nose flared.
+
+This was her spot. Her denlet. Her nest.
+
+Luna grinned.
+
+“Alright, System,” she barked. “Let’s do this.”
+
+The air pulsed.
+
+Her breath hitched as the shimmer came. It rolled over her fur like wind, then settled inside her chest with a weight she wanted to bite.
+
+Words blinked into view. Not the usual snarky chirps. These had gravity. Each letter burned coldly behind her eyes.
+
+And they told her to choose.
+
+Evolution Options: Tier 1 Lesser Shadow Wolf (Common) – You walk in shade and bite from behind. The shadows listen to your call. Fangrunner (Uncommon) – Speed and bite move as one. Your hunts leave only dust behind. Howlshade Lurker (Uncommon) – Your voice pulls shadows out. Your eyes see through the dark. Your fangs follow.
+
+Tier 0 Toothcaller Shadow Pup (Uncommon) – Your howls sharpen your pack. Even if you are alone. Swamprush Prowler Pup (Rare) – Muck, speed, and bite all become one. No enemy is too slippery now. Frogeater Pup (Rare) – You gain bite knowledge and poison tolerance from your slimy victories. Moon Wolf Pup (Epic) – You may change and transform with the phases of the moon. The shimmering moonlight at your beck and call. Hunger shaped by silverlight.
+
+Luna’s jaw lowered slightly.
+
+She didn’t understand all the words, but each one pulled at a different part of her. One scratched behind her ribs. One buzzed in her belly. One tingled between her toes like they wanted to run somewhere.
+
+One made her tongue taste spice.
+
+And one…
+
+One made her drool.
+
+Luna licked her lips without thinking.
+
+Her eyes locked onto it. Her tail froze mid-wag. Her ears perked sharp and stayed there.
+
+Her fur itched with focus. Her heart thudded slowly, then faster, then fast-fast-fast. She was hungry for it.
+
+The name wasn’t the longest, and perhaps didn’t sound the strongest. It didn’t glow the most either. But when she stared at it, her paws clenched.
+
+Her whole body leaned forward. She didn’t check the others again. There was no point.
+
+She pounced with one paw and pressed the one she wanted most.
+
+The world blinked out around her. All of a sudden. And bit by bit.
+
+It felt like no time had passed, and yet so very very long. Her sight was just gone. Like someone licked the light away.
+
+Darkness folded in around her. It wasn’t the cold kind. It was the shadow of a soft belly, the hush before a pounce, the stillness that came before new strength.
+
+Luna blinked into it, her breath slowed down.
+
+And she didn’t feel scared at all.

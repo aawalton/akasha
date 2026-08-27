@@ -1,0 +1,175 @@
+---
+id: fd2d5610-f2fa-51ef-96d8-4dcfc0eba351
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Upgrade"
+slug: 0021-chapter-21-upgrade
+partOf: the-gift-of-loot
+position: 21
+ownLength: 2351
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3384523/chapter-21-upgrade"
+royalRoadId: "3384523"
+---
+
+Standing alone in the dark, Thomas allowed himself one genuine moment of grief for Zach. It hadn't escaped his notice that one of Zach's last acts was to push Thomas to the door when the chandelier had fallen between them. He had been his friend, and Thomas wasn't a guy who collected many friends.
+
+Thomas sniffed, wiped his eyes, and then pinched the bridge of his nose hard, forcing himself to store those emotions away. He'd take them out later, but he was in big trouble and couldn't afford to grieve.
+
+Despite his resolve, his oh-so-helpful brain provided other memories: his nephews, who would wonder what had happened to their uncle. Of Derek, who needed him to fix his damn hand.
+
+No.
+
+Thomas needed to survive this. He wasn't going to stand in the dark and wait for death. He was going to go down fighting if he went down at all.
+
+He had no way to see where he was, but he might have options.
+
+He took inventory by touch. As he'd halfway expected, the head of his axe was gone. Maybe the chandelier had taken it. Now he just had a long stick.
+
+Sticks had uses for a blind man.
+
+And he had other weapons. One touch confirmed that his curved dagger with the sheath was still at his belt, as was the penknife. After a moment's thought, he took out the curved dagger. It had a slightly longer blade than the penknife. Plus, he wasn't sure how much use a ghost of a mimic would be in a fight.
+
+These are just level one monsters, he told himself. He'd been killing level one monsters for, gosh, four whole days now. Individually, they were manageable. The danger was in their numbers. They were attracted to noise and chaos.
+
+So no noise, or chaos.
+
+Carefully, he grabbed the axe handle and pushed it forward along the ground. He moved at a glacial pace. No need to get cocky, and no need to rush.
+
+Cautious of making noise, he tapped very, very gently, and when he hit something, he'd immediately back up two steps. If it was a mimic, that was enough to awaken it and start its attack, where his Foresight would kick in. Then he would see its shape and react.
+
+His dagger, his lovely dagger, which he absolutely loved—cut everything.
+
+Unfortunately, it seemed that every single piece of furniture he hit was actually a mimic.
+
+The first one was a couch, which was scary, seeing as it was eight feet long, but that meant it moved slowly. It also died quickly. Only three slashes, and it melted into a giant puddle of goo.
+
+The very worst part was kneeling in the goo, which was body-heat warm—ugh—and groping around in it for loot.
+
+Thomas was not going to leave anything useful behind.
+
+Jackpot! He found three mana crystals. Without light to see, he couldn't determine what type they were or their grade, but he'd just earned these crystals, damn it. Gathering loot, as silly as it was, made him feel like he was winning.
+
+His next kill was a step-stool that seemed to have been placed in the middle of the floor. It dropped one crystal, and once again he felt that shock of recognition as his fingers touched it.
+
+What were these things? In the Mantis Cave dungeon, he'd thought of them as 'Teen drama vampire mana' because they were so glittery as they shifted from one color to another, but then he'd actually absorbed one to reach level 2.
+
+With a frown, he checked his status again.
+
+Thomas Coldstrike
+
+Level: 2
+
+Attribute: Healer (Healing Mana - Adaptation subaspect)
+
+Class: Locked until level 5.
+
+Skills 1/2:
+
+Basic Predictive Sight Against Adversaries
+
+Adaptation subaspect. Had that been an adaptation mana crystal?
+
+Gee, he sure would like to ping the System to confirm his guess, but it turned out he needed actual light to read the tags.
+
+With a shrug, Thomas placed the crystal in his storage bag and continued on.
+
+He had a bad moment when he ran into a pool table, which turned out to be not a pool table, and had three pool cues, which, of course, also turned out to be mimics. Oh, and the pool balls, which shockingly were also mimics. The 8 ball had been a real hassle.
+
+But Thomas had seen the attacks coming and had backed up two or three steps to give the mimics room to lunge. The pool cues tended to get in each other's way and abandoned their attack mid-strike to clack at each other angrily, leaving the giant table.
+
+The pool table reared up fully vertical, dumping off the mimic pool balls, which started to scuttle across the floor like giant spiders.
+
+Thomas caught all of this in flashes as his Combat Foresight only gave him the ghostly outlines when the creatures began their attacks. At least the pool table was a big target, and he went after it, flailing his curved dagger like he was in a slasher movie. All the while, he high-stepped ridiculously so none of the pool balls crawled up his legs. Luckily, he was able to damage the pool table enough for it to collapse into buckets of goo.
+
+He stomped down on the pool balls as they lunged for him. The eight ball was smarter than the rest and dodged while attacking. It took out a chunk of his tennis shoe before the end.
+
+Meanwhile, the pool cues had razor-sharp teeth on the other side and were definitely more of a challenge. He ended up killing them by making big slash Xs in the air that struck true more through luck than anything else.
+
+But not before the last one managed to nail his arm, sawing into his flesh with... saw-like teeth. It was agony and exactly as horrific as it sounded.
+
+In that moment, something flickered through his awareness. It was like... connection. Only faint and wrong-feeling.
+
+Thomas didn't have time to dwell as he quickly switched the grip on his dagger to his off-hand and started stabbing at the thing, just trying to get it off him. He came close to stabbing his own arm but managed to hit the mimic pool cue instead. It melted into goo, and he heard a crystal clatter to the ground.
+
+That was the last of them. When it died, he was left with silence.
+
+Pressing his lips together to keep from groaning, Thomas held his arm. The wound was bad. He was almost glad he couldn't see how bad.
+
+"Do you have healing mana or not?" he hissed, and closing his eyes, forced himself to concentrate on his mana core. He'd been passively healing himself for a bit now, but with the amount of blood he could feel gushing out of him, he needed more than passivity. He felt dizzy, and he wasn't sure if it was adrenaline or blood loss.
+
+The power was just there, waiting for him. Mentally, he clenched down on the core, trying to wring it out. Physically, he unconsciously clenched his jaw just as hard.
+
+To his surprise, it worked. Power gushed out and flowed randomly through his body. Though he didn't know how he knew, he was certain this wasn't the level 1 stuff. This was the power he'd managed to collect since reaching level 2. It was more potent.
+
+Thomas directed that power to his arm, and it swept over the location, healing the wound in a flash of pure relief.
+
+He'd been a little overenthusiastic, though. Healing himself had only taken part of the power he'd yanked out of his own core. So, for the hell of it, Thomas ran through his entire body to heal aches, pains, and minor cuts he hadn't fully registered. After all that, there was still some power left.
+
+Do I just keep this in reserve? he wondered. Now that he was looking, he could see motes slowly rejoining the main core. It would take a long time for the free-floating mana to reabsorb, but he could do it.
+
+Hey, what had that weird flicker been about, anyway?
+
+Now that he wasn't in a life-or-death struggle, Thomas realized that it had felt a little bit like when he'd felt Zach's life energy from across the room. He had felt life energy in that mimic, but it was so alien that it was almost unrecognizable.
+
+Were they not completely alive?
+
+No, they had to be, because his Combat Foresight didn't register them as traps. They were definitely animals of some sort, even strange shape-shifting ones.
+
+So his healing mana could only work on people? Well, if that was the case, veterinarians were out of luck in his upcoming new world. But that didn't seem right to him, either.
+
+Figuring he was due for a break, Thomas slumped to the floor. He kept his eyes open for his Combat Foresight to warn him in case another mimic decided to get spicy, but he turned his focus inward.
+
+Some of those free-floating motes of mana were sort of pushing outward from his body. It was... searching for life. For Zach, probably. With all the fighting, the mimics, the darkness, and the smoke, he hadn't realized that he was still doing it.
+
+Could he shift it from searching for people to searching for dungeon life?
+
+Thomas tried hard. He screwed up his face with concentration, but after twenty minutes of straining himself and mentally stabbing in the dark, he ended up with nothing. It had to be possible. He'd felt a flicker of the mimic because it had been touching his blood. But something this complex was just beyond him right now.
+
+So, he'd up his power level.
+
+Thomas reached into his bag and felt around blindly until his fingers got a good zing from touching a crystal that resonated with him. One in particular practically shot warmth to his toes, and he belatedly remembered he still had two healing crystals from the Chipmunk Forest Fire Dungeon rewards.
+
+Gah, he was an idiot. Well, he'd probably been bleeding out at the time, so some panic was allowable. In any case, he quickly absorbed that one and watched with fascination as the mana floated through his body. Occasional motes joined up with his core to help refresh it.
+
+Anyway, his next grab was for the Adaptation mana crystal. Hopefully, it would do what he wanted and not turn him sparkly on the outside.
+
+Again, the mana felt cool and slippery but also right as he absorbed it. It floated around in glittering brilliance in his bloodstream. After absorbing the second one, it was a real party in there.
+
+Then Thomas sat back and concentrated on turning the healing/adaptation stew outward. Slowly, almost so slowly that he wasn't sure it wasn't a hallucination from a tired mind, he started to feel something about ten feet to his direct right.
+
+It was actually really big. Why hadn't he noticed it before? It felt cold, a little bit like what he imagined a hibernating lizard would feel like—curled up but ready to wake and strike.
+
+Yikes, he'd be avoiding that thing.
+
+But Thomas smiled as he finally got the trick of "looking" using his healing/adaptation mana. Plus, he still had loot to grab from his last fight.
+
+He carefully crawled around, running his hands through the cooling goo. So gross, and his clothing was absolutely ruined. He was going to have to bill the National Guard for this. These were his fifty-dollar Ross pants.
+
+The fight had yielded excellent rewards, though. He picked up ten crystals, three of which zinged him with Adaptation mana. He might need them later, but for now, he stored them in his bag.
+
+Then he came to where he thought he'd fought the pool table and found the real prize.
+
+For a second, he thought his seeking fingers had found another pool cue mimic, and he withdrew as if he'd been burned. Then, carefully, not seeing anything with his Combat Foresight, he put his hand over it again and felt along it. It was a kind of hard leather handle that curved.
+
+With a shock, he realized it was a sword sheath holding a really thin sword. Like, one of those martial arts swords.
+
+Thomas had no idea how to use a martial arts sword, but it had a blade at least four feet long. A katana, maybe? The sheath came with a long leather strap that he could tie around his waist several times. The damn sword kept knocking against his thigh, and the tip dragged across the ground unless he hiked it practically to his ribs. He'd probably done it wrong.
+
+Out of curiosity, he grabbed his cool new sword, stepped forward to where he "saw" the still-waiting mimic, and jabbed it forward.
+
+It struck deep into something, and he heard a whistling scream. His ghostly Foresight flashed in his eyes as the dying mimic flailed and tried to hit him. But Thomas had kept his arm extended, not wanting his actual body, with all the organs he liked so much, anywhere near that thing.
+
+It died, and the ghostly image disintegrated as it melted into a puddle of goo.
+
+He scooped up the three crystals from it. One was definitely bigger than the rest. Boo-yah!
+
+He put them in his backpack, then focused again, doggedly pushing his new dungeon-monster-seeking sense outward in every direction.
+
+The room filled in around him. It was a lot bigger than he thought. He'd initially thought this had been some sort of game room, but now he was thinking more like a ballroom. And there were shapes of sleeping mimics freaking everywhere. Just waiting for someone to bump into them or create enough noise, heat, or chaos to wake them up.
+
+Now he could "see" every single one.
+
+Thomas smiled and stepped to the next closest mimic, which was pretending to be an ottoman at knee height and therefore the perfect tripping hazard. He brought his katana down, and it died.
+
+Time to go hunting.

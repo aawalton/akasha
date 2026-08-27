@@ -1,0 +1,47 @@
+---
+id: 14f40212-9842-5e07-a0dc-79c08557fa51
+page-type-slug: story-chapter-royal-road
+title: "A Special Chapter 1"
+slug: 0024-a-special-chapter-1
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 24
+ownLength: 930
+unit: words
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2649434/a-special-chapter-1"
+royalRoadId: "2649434"
+---
+
+Coming Clean & The Path Forward
+
+This news was too big and too important to be buried in an author's note, so I'm giving it its own chapter. (u_u)
+
+Okay guys, I have to come clean about something. To help you understand, I want to tell you a story—a real one from my own life.
+
+Long ago, in the real world, your author was just a kid about to take his O-level examinations. The problem was, he was hopeless at writing essays and stories. After seeking advice from everyone he could, he started reading voraciously. That was the moment I fell in love with stories, a journey that eventually led me to webnovels and, finally, to writing my own. But that's a tangent for another day!
+
+Through sheer volume, he improved immensely. His vocabulary, grammar, and punctuation became excellent. Combined with his natural creativity, he became amazing. But no matter how hard he tried, certain things never worked out. He would think of one word in his head but write another on paper. When he reread it, his brain would trick him into seeing the correct word. For example, "like" would become "lick," but his brain would still read it as "like." Or "message" would become "massage." His own mind was playing tricks on him. The mistakes would only become clear if someone else pointed them out, if he read the text after a long time, or if he used a tool like read-aloud.
+
+This anomaly eventually led to a diagnosis of dyslexia. Everyone advised him to take the handicap for his O-level English exams, but he refused. He took the exam like a normal person and earned an A. Many told him he had missed an easy A*, but he didn't care.
+
+As I stated in Chapter 2 of SGE, a quote that applies perfectly to me: "The problem with surviving your own stupidity is that you rarely learn the correct lesson. In fact, you usually learn the exact opposite of the correct lesson."
+
+I took that same stubborn approach when I started writing my own novels, keeping this information to myself. I had a goal: I wanted to reach Rising Stars without any handicap. And I did it. Not only did I reach Rising Stars, but I held Rank 1 and Rank 5 simultaneously.
+
+You might wonder how I manage to write so well with so few mistakes. The answer is lots and lots of "read aloud." When I listen to the story, the mistakes become obvious. I go back, edit them, and listen again. My writing process involves jumping through several more hoops than the average person; it simply takes me longer to write each chapter.
+
+Honestly, I never had any intention of becoming a writer. For the longest time, I thought my disability would make it an impossible dream. But then, something amazing happened: you all showed up. And with your incredible support, your comments, and your passion for these stories, we overcame that hurdle together. You've shown me that it's possible. And because you've placed so much trust in me and my work, I feel I owe you the complete truth.
+
+So, I sincerely apologize for hiding this from you. I simply didn't want my work to be judged by my disability.
+
+All of that is to be transparent about the past. Now, I have some incredible news about the future! Some of you have noticed that the Patreon finally has the baseline chapters, which means I finally have a backlog! This was only possible because an acquaintance from college has agreed to come aboard as our editor! (b ᵔ▽ᵔ)b
+
+They are a pro editor with a Bachelor's in English and everything! They usually don't work with Web Novel, so they'll need a bit of time to adjust to the web novel style. They have generously agreed to accept a percentage of the Patreon revenue as their remuneration. This is incredibly generous; usually, editors charge by word count for small authors like me and only accept a percentage share for major deals. They originally refused any compensation, but I insisted. So please, give Shirin Zahedi (Shirin Zahedi's Profile | Royal Road) a warm thank you in the comments section!
+
+With their help, I have finally built a backlog and even got to go out to eat tonight, something I haven't done in months. I finally have free time! Which also means... I can soon launch the Discord server!
+
+A lot of you know that Amosz has been an invaluable help as an editor, and his reading of the drafts has been a huge part of SG's success. As our team grows, our new editor will be taking on the editing duties exclusively for SG and AS. To avoid the consistency issues that can come from having two editors on one story, this means Amosz will be transitioning into the new, vital role of Community Manager! He will help me catalog your ideas and will also act as a moderator for the Discord server when it opens. Our new editor will also hang out there sometimes and act as an admin/moderator as well.
+
+The Patreon will continue to feature my "minimal edit" drafts, so there may be slight differences between the two versions, but the core information will remain the same. And for those of you on Patreon, you can help me too! Since everything there is my draft, if you see any mistakes, please feel to point them out!
+
+Thank you so much for reading and for your incredible support. ( ; ω ; )

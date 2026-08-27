@@ -1,0 +1,233 @@
+---
+id: 130bee1b-e1f2-53bf-b8fa-6c284a163a99
+page-type-slug: story-chapter-royal-road
+title: "139 Turning the Tide"
+slug: 0098-139-turning-the-tide
+partOf: the-new-world
+position: 98
+ownLength: 3544
+unit: words
+ownProgress: 3544
+publishedAt: 2018-08-01
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/239812/139-turning-the-tide"
+royalRoadId: "239812"
+markedReadAt: "2026-06-29T21:24:13.846Z"
+---
+
+Korga snapped, “I told you we didn’t bring an army.”
+
+Yawm raised his eyebrows, “Really? Then whose army is it...We’ll discover soon.”
+
+The conduit links built up in the back of my head. Countless links to people I didn’t know came up. A message appeared in my status.
+
+Torix Worm, of Darkhill(Time: Undefined) - We’ve arrived. Don’t let Yawm stop us.
+
+I turned towards Yawm and shouted, “Can you bring the eldritch here?”
+
+Yawm nodded, “For what purpose? As Fodder perchance?”
+
+I shook my head, “I can use them-”
+
+A bullet punctured my neck again. With skipping a beat, I covered the wound with my armor, letting me speak again “For mana. I...It will help us.”
+
+Korga tapped the edge of his helmet. He mouthed words, but no sound came out. He pointed at me. Brim turned towards me, running over towards Frode. Before they rallied further, I charged my runes and exploded from the ground. Yawm dashed towards Elessah. She dodged with grace before Korga met Yawm’s charge.
+
+I couldn’t watch any more. Frode stood up, his limbs regenerated. I wooshed right past Brim, reaching the architect first. I grabbed the enigmata and launched us into a metal telephone pole. The rod bent, uprooting from the sidewalk.
+
+Our momentum dragged us further, bashing us against a concrete wall of a gigantic bank. Along the all of the high rise, a granite panel crumbled from our impact. As the pieces of stone fell, they exposed a bent steel girder.
+
+I grinned, Frode’s head smashed into the metal. I reared back a fist, getting my first punch off of the damn fight. A telekinetic bolt slapped into Frode’s helmet, cracking the glass. His helmet whipped around like a bobblehead toy during an earthquake.
+
+With a savage intent, I reared my fist back hit him over and over. The cracks spread across his face until the helmet broke. A face appeared as the foggy water rushed out of the helmet.
+
+The enigmatta looked like an anglerfish, long teeth sticking out of a jutting bottom jaw. Large, black pupils stared back at me. I lifted my fist for the finishing blow, but a chain wrapped around my arm. Frode raised his hand, placing a circular piece of metal on me.
+
+Lightning consumed me, its teeth jolting through my nerves. I fried, stiffening like a board. I fell off the bent girder. As I landed onto the sidewalk, Frode leapt away. Once again, my body failed me. I learned from this fight however. Even if my body didn’t respond, my armor still did.
+
+I created curved spines and pierced the taser thing that fucker put on me. I tore it apart with spines of my armor. Even with my body immobilized, I controlled my armor over my skin. Like a puppet, I lifted my limp body and moved towards Frode. I shambled like a zombie.
+
+Frode squelched out his choking voice, “It won’t stop. I can’t kill it.”
+
+A few seconds later, and the electricity ceased. I fell onto my feet. As I bent over, I dashed towards him again, my pursuit relentless. Behind Frode, Brim came towards me. Yawm and Korga faced one another.
+
+Yawm’s entire body was a moving wound. Three bullet holes stuck through his chest. Deep trenches of exposed flesh showed all across his bark skin. His glowing green blood drenched the ground below him.
+
+And yet, he still seemed invincible.
+
+He stood tall, his height dwarfing those around him. He heaved for breath, exhausted yet unafraid. Elessah floated behind Korga. The assassin paced behind Yawm, a deep fear over her face. They all looked puny compared to him. Even in this kind of state, Yawm was invincible. Here on a battlefield, he was whole.
+
+Here, he was home.
+
+Yawm chuckled at his wounds, the ground crackling beside him, “I’ve already stolen two of your revivals. How many more lives will Schema give you?”
+
+Fear clouded the eyes of the Breakers. They circled him, looking for some kind of opening. They found none.
+
+Yawm spread out his arms, “Your minds are your weakness. You lack resolve. Faced with a true death, you falter. You fail. You fall.”
+
+Yawm raised his hand, absolute confidence radiating from him, “I am the slayer of armies. I am the eater of worlds. I am the defier of false idols. You all worship a robot who believes himself a god.”
+
+Yawm clasped his hand into a fist,
+
+“I am no sheep. I worship no one, and no one is worth my worship.”
+
+Brim interrupted Yawm’s words. He sprinted in front of Frode, protecting him. The thirty second lull in combat nearly healed my entire health. My chest healed. My stamina filled. Thank god for Yawm’s charisma. His presences affected even the Breakers.
+
+This kind of back and forth, it was my strength. Taking breaks would be their downfall. However, Yawm lost blood with every passing second. If he fell, I was next. Korga took a step towards Yawm, his footing less bold than before. Yawm clasped his massive hands into fists,
+
+“Be ready, Korga. You won’t survive my next strike. Unlike before, Schema’s little perks won’t get you back up.”
+
+Yawm swatted his hand, deflecting a passing bullet. As he did, Korga and the assassin charged him. I detonated my runes, dashing towards Frode and Brim. Frode threw a vial towards me, Brim slapping a chain arm towards it. Before it made contact, I swatted the vail with a wave of gravity.
+
+Frode pointed at me, “Affirmative. I verified it Brim. It has gravity magic.”
+
+I got within ten feet of them, stomping the ground. With a wave of telekinesis, I sent the force of my stomp into the chin of Frode. His fishy head whipped up, blood shooting out of his mouth. Brim whipped his chain towards me. I grabbed it. From between the links of the chains, a vial of liquid emerged.
+
+The other vial was a distraction.
+
+A sniper’s bullet drilled through my back and came out my chest, detonating the vial. A discharge of green dust went over me. I covered my eyes, ears, and mouth with my armor just in time.
+
+Acid sizzled on my skin. Three more vials lodged into the bullet wound on my chest. Another bullet pierced through my back, blowing up the black mana jars. Eldritch seeped deep into my wound.
+
+It was eldritch energy. I uncovered my mouth, laughing a bit as I absorbed it. Brim grunted,
+
+“It isn’t the armor Frode. His flesh eats the eldritch...What in the hell did Yawm do to him?”
+
+I roared, “He did nothing. I did this to me, to live through hells like this.”
+
+I put up an act, but their combination attack hurt me. My health dwindled again already, reaching 30%. I stumbled a bit, and Brim rushed me. I shot out a stiff jab at him, but he deflected my strike and struck my stomach. I belched blood, his fist heavier than a ball of iron.
+
+He was weaker and smaller than before, however. Having his arms taken and his arcane blade stripped from him made him easier to beat. I ignored the damage he dealt, spinning on my heels. I struck his side with a left hook, whipping another strike right after into the lower part of his head.
+
+Considering it was all mirrors, it was the closest thing to a jaw he had.
+
+Brim’s face wobbled, but he overcame the pain and countered. He struck my head with a bludgeoning right. His fist dislodged three of my molars. I grit the rest of my teeth and hit him with a right uppercut into the gut.
+
+He covered his stomach with his arms, his mirror face sticking out. I shot out two slicing hooks into his head. He stumbled backwards, but I reached out a hand towards him. A tendril of armor wrapped around his neck, jerking him back towards me. I detonated my runes, leaping up with a flying knee.
+
+The mirrors across his face shattered, my knee caving them in. As Brim flew backwards, Frode tossed a vibrant, violet colored wire at my neck. It landed, wrapping around me. The wire sunk into my neck, tightening around me.
+
+Behind Frode, Yawm was carnage. More blood than bark, he withstood the technique of Korga, pushing him back. Korga blocked with his left arm, the bone snapping. The sniper redirected its aim, a bullet firing through the chest of Yawm. Yawm ignored it, throwing another heavy blow at Korga.
+
+Korga’s other arm broke. Yawm raised his fists slamming them down onto Korga. Korga blocked with both his arms, a blue energy shield materializing above him. A panel of green energy formed beneath Korga as Yawm’s fist landed. The shield acted as a block of metal, preventing Korga from dispersing the impact of the strikes.
+
+Instead, Korga absorbed the kinetic force of Yawm’s blow, but both of his shin’s snapped. Yawm raised his fists again. Another crushing blow hit Korga’s blue shield. Korga’s spine crunched, his body deforming sideways. Yawm roared, his final blow coming down. I rasped out as the wire tightened around my neck,
+
+“Look behind you.”
+
+A dagger stabbed into the back of Yawm’s neck, piercing out of his throat. It left a tar substance on him, the black invading his body. Yawm swiped his arm backwards, but the assassin ducked, cutting at Yawm’s heels. The red blade sliced through the tendons at his feet. Yawm fell down onto Korga, a bloody mess.
+
+Yawm wrapped his hands around Korga’s neck. A pillar of yellow light appeared over them both, but Yawm roared in defiance,
+
+“And so you fall.”
+
+Yawm crushed the remnant's neck before his stamina was drained. The assassin dashed in, slicing towards Yawm’s neck. Yawm swiped his arm, back handing her side. His hand was the size of her hip. The remnant assassin’s back broke. She flew backwards, slamming into a jeep several blocks away.
+
+Yawm continued his chokehold. Before the yellow light drained all of Yawm’s stamina, he snapped Korga’s neck like a twig. With vicious intensity, Yawm gripped further, squishing the boned and meat between his fingers. Korga’s head rolled away from his body, decapitated by blunt force.
+
+A notification appeared in front of me. I gained experience because that son of a bitch was an unknown, like all remnants. I opened my status, investing all my points into endurance. A message from Torix sat in my inbox. I didn’t have time to view it. I selected finalize.
+
+A surge of mana rushed through me. With it, I sent out a strong pulse of antigravity around my neck. The wire encircling my neck snapped with a metallic ring, falling down onto the ground. Elessah screamed out in despair,
+
+“No...anyone but Korga...anyone...Not Korga, no. No!”
+
+As she lamented Korga’s death, her antimagic faltered. She repeated the words over and over. Yawm turned himself around, his legs useless. He lifted an arm, the air around him crackling. A bullet went through Yawm’s shoulder, making the raised arm go limp. Yawm laughed, raising his other arm. Mana coalesced in his palm.
+
+By now, Brim stood back up from my knee to his face. He ran up to Elessah and slapped her across the face,
+
+“You have to stop him. Keep it together Elessah.”
+
+She wept, her ragged voice shivering under her helmet. Yawm’s laughing echoed, sending out a primordial fear. Frode tried stopping Yawm, throwing a circling blade towards him. Before it landed, Yawm turned his palm towards Frode. Yawm’s magic unleashed.
+
+A circular hole appeared around the skyscraper behind Frode. Frode and his grenade disappeared. They disintegrated faster than I could comprehend it. I didn’t even see it. One second Frode was right there. The next, he was gone. It was like an edit in a video. Yawm’s strength was still overwhelming, even in this state.
+
+Before the Breaker’s recovered, I dashed towards the assassin remnant. I reached past Yawm and the others, landing onto the jeep with the assassin lodged on it. The remnant looked up at me, her eyes loaded with fear. I lifted a fist, slamming it down against her. With a sleight of hand, she turned her dagger and sliced it through my wrist.
+
+She amputated my fist, but I kept pushing my fist down. With the arm nub, I gouged the dull edge of my armor into her neck. She stabbed her dagger into the side of my neck, slicing it. I lifted my other fist. As I hammered down, she aimed at my arm with her dagger again.
+
+I used a wave of gravity, expending a portion of my health. It made her dagger slice through a portion of my forearm. My fist crushed her face, teeth falling out of her mouth. She sliced her dagger again, but I detonated another burst of mana. A gravitational wave pressed her hand down.
+
+I lifted my fist crushing her face. Two more strikes, and her jaw crunched sideways. Her upper teeth gone, her nose and cheeks mangled. A wave of yellow light appeared over me. At the same time, a chain wrapped around my waist, pulling me backwards. My neck almost slipped off, but I kept it attached with extensions of my armor.
+
+I crushed into the pillar of a building. I slapped against a slab of sidewalk, flopping down. Brim jumped onto me, crushing my chest. Blood erupted from my neck as he did. I shot out a wave of gravity at him, but Elessah’s antimagic wrapped around him. It had no effect.
+
+Brim raised a fist, slamming it down on me. Molding my armor, I created a curved spike that his fist landed against. It guided his fist onto the ground beside me, ushering forth a quake across the ground.
+
+I dug my armor into his legs, draining as much mana as I could. Brim lifted his fist again, slamming another slicing strike against me. I shot out another curved spike, but he predicted it. He evaded the deflection, crushing a blow into my face.
+
+My teeth turned to powder. My nose crunched. Skin split across my face, tearing one of my eyelids and eyebrows. From beneath me, a rumbling diffused. Something was crawling up. Off in the distance, hundreds of mana streams fed me mana at once. It was as if the conduits connecting with me entered a certain range. Now they could give me mana.
+
+Hundreds of mana streams turned into thousands. I didn’t know if the mana was enough. Brim lifted his fist, smashing it into my face again. I hardly even felt his strike, my face numb now. A deep pressure radiated down into the back of my head. It was probably the only place that still had feeling.
+
+Brim lifted his hand again, crushing my face with fists of iron. Somehow I lived, but I weakened. My grasp of my armor faded. My limbs were numb. I was becoming cold and numb. Brim raised his hands again, roaring with fury. I hardly heard it.
+
+Everything was so foggy.
+
+“Why won’t you just die?”
+
+From below, mana rushed into me. Several dozen entities entered the radius of Event Horizon, boosting my health regeneration. Just enough to survive the pummeling fists of Brim. Brim wheezed, “How does it live? There’s nothing left of its head.”
+
+More and more creatures entered the vicinity of Event Horizon. More and more mana rushed up, giving me strength. The conduits turned into a raging stream of mana. Even as Brim crushed me, my body restored. Even under his onslaught, I regenerated. Covered in a silver blood, Brim choked out the words,
+
+“Is it immortal? Can it die?”
+
+Feeling returned. My hands tightened, control of my armor regained. My eyes opened. Light rushed in, and I was no longer blind. Sound rushed into my ears. Soft dirt layed beneath me. I gouged my armor deeper into Brim’s legs. He bent down, stomping into my chest as he leapt away.
+
+He snapped several of the tendrils digging into his legs. A few remained, dragging him back towards me. Brim jammed his arms into the road beneath him, pulling himself away,
+
+“It’s worse than a bottom feeder.”
+
+The same yellow light washed over me, sapping away my stamina. With more endurance, I outpaced the light’s sapping energy. I pushed my arms against the ground, my limbs shaking. I stood up, first hunched but then tall.
+
+I heaved for breath, a deep exhaustion pressing against me. I crushed it, reaching for all my strength. I dragged Brim back to me. He looked up, clapping his hands together. He caught something between them and shouted,
+
+“Finally Frode. I thought you’d never be back.”
+
+I glanced up, finding Frode existing nearby. He stood behind Elessah, stark naked besides for his dimensional storage ring. When Yawm attacked him, he destroyed his clothing I guess. After that, he revived thanks to the luck perk. Goddammit.
+
+Brim pulled his hands apart, an azure mana forming between his fingertips. He formed a spear of the energy, slicing the tendrils of my armor. Frode tossed a vial at Brim. I shot out a nulled gravitational wave. Elessah stopped me again.
+
+Using a chain, Brim caught the vial.  and then drank it. From within his legs, my armor disintegrated. Frode tossed a few more vials at Brim. Brim drank them while I waited for my own health to restore. Brim’s size enhanced as he healed. Brim moved his feet around, relishing in the restored movement,
+
+“Ah, they’re finally back.”
+
+I turned towards Yawm. He laid in a heap of his own coagulating blood. He didn’t move. His chest still glowed with tremendous vitality. Along his neck, some red tumor spread across his chest. It looked like an eldritch growing out of his body.
+
+Yawm stared at me, whispering under his breath.
+
+“You seem stronger...You’re still within Schema’s system then?”
+
+I kept my face expressionless. Controlling my mass in this kind of mess wasn’t about to happen. With the boost in levels from Korga, I was likely much taller. Disguising the difference wasn’t practical while fighting for my life. Yawm’s eyes narrowed, but he spoke with a pained voice,
+
+“You lied to me...You...you betrayed me?”
+
+I shook my head before turning back towards the remnants. Brim, Frode, and Elessah remained alive. Frode lacked his revival from the luck perk. Elessah and Brim probably had theirs. I stood no chance under normal circumstances.
+
+At the moment, Amara siphoned me energy from her new prison. From below, Yawm’s solar beetles crawled from the ground. From above, the abstractions soared in a circle around us. I sapped their strength with Event Horizon, using them for my gain. From an unknown source, several thousand allies sent me mana.
+
+The mana rushed in as the Breakers reorganized. During the lull in combat, I opened Torix’s message.
+
+Torix Worm, of Darkhill(Time: Undefined) - We’re entering the rift with your legion. I created several thousand conduits between you and your troops, all with the enchanted gear you gave them. We’ll be able to send you our mana and health to give you a buffer in battle.
+
+I grinned at the message. Torix put some serious thought into helping me. His tactical intelligence exceeded my own. Combine that with Amara, the eldritch around me, and my level ups from Korga, and my mana generation amazed me.
+
+It exceeded thirteen million in my heightened state.
+
+With the Breakers watching, I let the mana soak out of my runes. It saturated the surrounding air, putting a reddened tint onto it. It reminded me of what Yawm’s mana did to the air. Instead of popping like his, cracks of lightning and thunder raged from my aura. The energy fought outwards in violent snaps, like wolves snapping at prey.
+
+The energy thundered and roared like the sound of hatred. My armor grinned with me, a sickening lust for violence overtaking me. The sensation ebbed into the surrounding eldritch. My mana fed them, streaks of deep red striping across them. Their eyes widened. Their maws gaped. They cried crimson. They drooled blood.
+
+Unique skill gained! Fuses the skills Mana Press, Arcane Blood Mastery, Mana Theory, Fear, and Empathy creating the new skill Haze of Fervor! Half of ungained skill points awarded = 135 tree points.
+
+Haze of Fervor(lvl 1) - Allows you to churn allies and enemies alike into a vicious frenzy using your volatile mana. Efficiency of mana use and effect enhanced by level of the skill.
+
+A sniper round pierced through my chest. I laughed at the damage, my mana healing it in seconds. I lifted out my arms, my mana like a storm surge, engulfing everything around me. Brim turned a blank, smooth face of metal towards me. His mirrors returned from the potions he drank. He brandished his blade of arcane and origin mana,
+
+“By the will of Schema, we will kill you before you turn into another Yawm.”
+
+I raised a fist, speaking with words of strength and an overwhelming presence,
+
+“I am no Yawm. I am the Harbinger of Cataclysm.”
+
+The eldritch roared, echoing the might of my words. I pointed at the Breakers, my voice an omen,
+
+“To war.”

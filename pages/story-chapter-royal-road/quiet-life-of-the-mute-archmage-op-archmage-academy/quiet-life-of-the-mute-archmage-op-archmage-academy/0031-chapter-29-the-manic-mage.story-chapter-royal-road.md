@@ -1,0 +1,169 @@
+---
+id: 62cb7f43-99d2-5898-813a-35edfbfed6be
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: The Manic Mage"
+slug: 0031-chapter-29-the-manic-mage
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 31
+ownLength: 2538
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3629029/chapter-29-the-manic-mage"
+royalRoadId: "3629029"
+---
+
+Fiona squeezed her eyes shut against the sheer brightness of the golden light that had swallowed the entire area. The radiance pressed against her closed lids as though the sun itself had descended to wrap the burning forest in its embrace. For a long moment, she couldn't perceive anything. Then, slowly, she opened her eyes.
+
+The forest still burned in scattered patches, their orange tongues blazing furiously. Her gaze drifted almost without thought toward the massive silhouette sprawled across the scorched earth, the Grand Wyvern, or rather, its corpse. The creature lay motionless, steam still rising from the rents in its broken scales.
+
+A great spear of pure golden light, as though torn from the heart of the sun itself, had been driven clean through the wyvern's chest and out through the base of its neck. The weapon pinned the enormous corpse to the ground, its shaft still humming with a faint, lingering radiance. Fiona stared at the sight, the tension that had coiled in her chest for so long beginning to loosen. A shaky breath of relief escaped her lips.
+
+"Hold steady." The voice was feminine, calm, and it came from just beside her.
+
+Fiona turned her head. Kneeling at her side was a woman she recognized well enough, a figure who appeared to be in her mid-forties, her green hair bound tightly in a ponytail that trailed down her back. Her eyes were yellow, the color of sunlight caught in amber, and her face held the stoic composure of someone whose emotions were not easily read.
+
+Fiona tried to sit straighter against the splintered trunk, but the moment her muscles tensed, pain flooded through her body like a tide of fire. She winced, a sharp breath hissing through clenched teeth.
+
+"You're badly hurt, so you can't move easily," Zen said, her tone carrying no judgment, only fact.
+
+"I know that, Miss Zen." Fiona's reply came out as an almost-chuckle, but it died in her throat as fresh blood trickled from the corner of her mouth.
+
+A sigh slipped from Zen's lips as she observed Fiona's expression. "Both of you are just the same," she murmured, and her gaze flicked briefly toward Sebastian, who stood a short distance behind them, watching Fiona with a worried look he was clearly trying and failing to mask. "Would she be alright, Zenith?" he asked.
+
+"Yes, she will, Your Highness."
+
+Zen raised her right hand and pointed her palm toward Fiona's battered frame. "[Advanced Heal]," she intoned, her voice steady.
+
+At that word, Images began to draw itself in the air, taking the shape of the formula [Advanced Heal].
+
+The structure enclosed the entire arrangement in a perfect, luminous circle, binding everything into one seamless unity. Then, like an illusion, the completed formula was dyed a deep, vivid green that pulsed with a gentle, breathing luminescence, like a living heart beating in slow rhythm.
+
+Zen guided the formula to hover directly above Fiona's slouched form. The emerald glow deepened, its radiance swelling until faint motes of light began to drift free, descending like weightless seeds. They alighted softly upon Fiona's battered frame, dissolving on contact and seeping into her torn flesh and broken bones with a whisper of warmth that spread beneath her skin.
+
+A groan slipped from Fiona's lips. She felt the fractured pieces of her ribs shifting, the jagged edges aligning and knitting together. The shattered feeling that had made every breath a laborious ordeal moments ago began to ease, replaced by a lightness that expanded through her chest. The gash on her forehead sealed itself, the torn skin drawing closed without a trace. The deep slash across her left shoulder followed, the flesh knitting thread by thread as the vivid green motes continued their tender work, mending what had been broken.
+
+After several long minutes, the formula dissolved into a last shimmer of light and vanished. Silence settled over the forest once more, broken only by the steady burning of leaves.
+
+A deep breath Fiona hadn't realized she was holding escaped her. Slowly, she sat up, testing her body with careful movements. She raised her hands, opening and closing her palms, watching her fingers curl and straighten without tremor or pain. A smile crept across her face as she glanced at Zen. "Thanks."
+
+Zen gave a brief nod and rose to her feet. She walked to the tree beside Fiona, wrapped her fingers around the hilt of the blade still embedded in the wood, and pulled it free with a single smooth motion. "Here," she said, casually tossing the weapon toward Fiona, who caught it on pure reflex, her hand snapping up to snatch the hilt mid-air.
+
+A fleeting smile crossed Zen's face at the sight, there and gone in an instant.
+
+Fiona stood, bracing herself against the tree as she found her footing. Her gaze lifted toward the sky, where the golden dome that had protected her was slowly receding into nothingness, its edges fraying into motes of light that scattered. The heavens churned above, dark clouds roiling as strong winds swept through the forest, carrying the scent of ozone and wet earth. Faint streaks of lightning laced the darkening sky, illuminating the underbellies of the clouds in brief, silver flashes.
+
+"It seems it's about to rain," Fiona muttered to herself. Her gaze dropped and found Sebastian, who was smiling warmly at her.
+
+"I must confess," he said, "you look very splendid this evening."
+
+Fiona was on the verge of rolling her eyes. She had known him long enough to recognize the preamble to one of his jokes. But before she could respond, a deafening crack of thunder boomed across the entire surroundings, shaking the air and rattling the scorched branches around them. Drops of rain began falling, fast and heavy, and it was clear the storm was only beginning to gather its strength.
+
+Fiona's face hardened immediately. They were running out of time. "Has the manic mage been found?" she asked, turning toward Sebastian.
+
+He was still staring at the sky, his expression unreadable. After a moment, he lowered his gaze to meet hers, and his face became serious. "I'm afraid not," he said. "We lost all traces of his exact whereabouts the moment we began our search earlier in the day."
+
+Fiona frowned, her mind working through the implications. "How is that possible? He didn't go near Sigsug. It's basically impossible for him to leave Tsayad when everywhere is surrounded by the team."
+
+"That's where the problem lies." Zen's voice came from beside her.
+
+Fiona glanced at Zen, her frown deepening into confusion.
+
+Sebastian cleared his throat, drawing her attention back to him. "Our team had to retreat to Yerakot because of the wyvern's strange behavior. I tasked them with protecting and evacuating the people in the village to a safe distance until everything here is settled."
+
+Fiona's eyes widened. "What? Why did you do that? Sebastian, you know that isn't the right move at a time like this. The fastest way to protect them wasn't to evacuate, it was to catch that mage with all our forces. He's the cause of everything that's happening."
+
+Sebastian shook his head slowly. "That's where you're mistaken, Fiona."
+
+A frown creased her brow. "Care to explain?"
+
+"Do you know what rank the manic mage is?" Sebastian asked.
+
+Fiona thought for a moment, her mind searching, then shook her head. "No. I don't."
+
+A ghost of a smile crossed Sebastian's face. "He's a late-stage Master Mage."
+
+"Late-stage," Fiona repeated, her gaze locking with his. "He's almost an Archmage."
+
+Sebastian nodded. "Yes, he is." He paused before adding, "But that isn't what makes everything dangerous and strange."
+
+"I don't understand where you're heading," she replied.
+
+Sebastian raised a finger and pointed toward the Grand Wyvern's corpse, its massive form growing cold in the rain. "Do you think it's possible for a late-stage Master Mage to control more than fifty of these Grand Wyverns?"
+
+Fiona said nothing. Her gaze settled on the dead creature, and she thought deeply, running calculations through her mind. A Grand Wyvern, by ranking alone, ranged from the strength of a Mid-Stage Master to a Late-Stage Master Mage. For one man, even a late-stage, to dominate more than two would strain credulity. To command more than fifty was an impossibility. The thought snagged on something sharp in her mind, and she turned sharply toward Sebastian.
+
+He gave her a short, confirming nod.
+
+Sebastian glanced around the forest, watching as the rain grew heavier and the last of the flames surrendered to the downpour, their orange glow dying into gray smoke. His gaze returned to the Grand Wyvern's corpse, and a short laugh escaped his lips, not of humor, but of grim amusement. "That mage led us right into his trap," he said, looking at both Fiona and Zen in turn. "He had already begun the ritual the moment he arrived here, and he already possesses all the ingredients he needs to create the gateway."
+
+Fiona's eyes shook as the implications sank in. "Had he already killed other Phragons before he got here?" she asked.
+
+Sebastian nodded, and a grim expression settled over his face.
+
+"How? How is that possible?"
+
+Sebastian lowered his head. "I... I don't know," he said quietly, the confusion visible in the set of his jaw. His gaze lifted to meet hers again. "But what I do know is that the Phragons he killed weren't slain recently." His expression hardened. "It seems they had been killed and stored for a long time."
+
+"Phragon hunters," Fiona said, her own face hardening to match his. "He bought the dead Phragon's essence from Phragon hunters."
+
+"Yes," Sebastian confirmed. "And based on my communications with headquarters, it seems the Phragon hunters are also part of this summoning."
+
+"How is that even possible?" Fiona couldn't stop the question from leaving her lips. "If they're part of this summoning, doesn't that make..." Her voice trailed off, her eyes widening slowly as the pieces clicked together in her mind. She began muttering to herself, then stopped.
+
+"Unless they are all a group," she whispered.
+
+Sebastian confirmed her realization with evidence that had been gathering like storm clouds. "They are part of a cult—a cult that pursues the forbidden way of death." His gaze locked onto hers, unblinking. "And they would do anything to achieve what they want, no matter the cost."
+
+Fiona's grip tightened on the hilt of her blade as she processed the revelations. "This entire time, we've been assuming wrongly, and that is what led us straight into his trap," she said. She opened her mouth to say more but stopped when she noticed Sebastian beginning to pace.
+
+He moved in slow, deliberate strides, the way he always did when a significant lead was taking shape in his thoughts. The rain continued to fall, plastering his blond hair to his forehead and soaking through his clothes, but he paid it no mind. None of them did. There were far greater concerns than the weather.
+
+"Zen," Sebastian said, his voice cutting through the downpour.
+
+Zen, who had been standing still and watchful, turned her attention to him.
+
+"On our way here from Yerakot, did you notice anything strange during our journey?"
+
+A slight crease appeared on Zen's brow. "Not much. I only noticed that the wyverns we encountered, though still filled with madness like the rest we've seen, were not solely trying to kill us." She paused, the crease deepening. "It felt as though they were cornering us. They herded us, the way a predator steers prey toward a place where it holds complete control."
+
+Fiona frowned at that. The Grand Wyvern that had pursued her had been utterly intent on killing her, not cornering her. The discrepancy gnawed at the edge of her thoughts.
+
+Sebastian let out a low chuckle at Zen's explanation. His gaze swept across the ruined forest, taking in the shattered trees, the rain-soaked ash, the corpse pinned to the earth by golden light. "You've played your games well," he murmured.
+
+Fiona's frown deepened. He wasn't speaking to Zen. He wasn't speaking to her. "Who are you talking—"
+
+"Why don't you reveal yourself, Krovi?"
+
+Fiona's eyes flew wide. In an instant, her body shifted into a battle stance, muscles coiling and blade half-raised. "He's here," she whispered, her gaze raking across the surrounding darkness, searching the shadows between the smoldering trees as the rain fell in torrents.
+
+For what felt like an eternity, there was only silence and the drumming of water against scorched earth.
+
+Then a tired sigh echoed through the whole area, and, as if reality itself had been holding its breath, a figure materialized into existence.
+
+"You have good eyes," Krovi said.
+
+He sat with his back resting against a simple wooden chair, its legs planted in the mud as though it had always been there. His fingers tapped a slow rhythm on the armrest, and he was staring upward at the darkened sky even as the rain fell heavily upon him. His gaze never wavered from the churning clouds.
+
+"I was sure there wasn't going to be any rain today," he muttered, a note of genuine amusement coloring his voice. "I wonder who caused this."
+
+"Krovi," Sebastian called, his voice steady as steel. His hand tightened at his side, muscles tensed and ready for any sudden movement.
+
+For several seconds, Krovi did not respond. He continued to watch the sky, his tapping fingers the only sign of movement. Then, finally, he lowered his gaze and looked at the three figures standing before him in the rain.
+
+"Sebastian," he said. "How splendid it is to see you again. I wasn't expecting you to discover me so easily." His eyes shifted to Fiona, and his expression flickered with something almost like curiosity. "Neither was I expecting you to survive all by yourself for so long."
+
+Fiona's jaw tightened as she suppressed the surge of rage that rose in her chest.
+
+Krovi chuckled, a dry and weary sound. "A fierce one, hm?" He groaned softly as he rose from the chair, his movements unhurried, almost lazy.
+
+"Well then," Krovi said, rolling his shoulders as though loosening old stiffness. "Let's not waste any more time. I assume you're here to attack me and put an end to my task?"
+
+His question was met with silence. No one replied.
+
+Instead, Zen unsheathed her blade, the metal singing softly as it left its scabbard and caught the pale light of distant lightning. Fiona's fingers tightened on her own weapon, her knuckles paling around the hilt. Beside them, an image began to draw itself into reality near Sebastian, glowing symbols etching themselves into the rain-soaked air as he chanted under his breath with practiced speed.
+
+Seeing this, a wide smile cracked across Krovi's face, stretching his features into something wild and unreadable. "Very well then." His voice dropped to a murmur, and then he laughed—a short, breathless sound. "Uh... how does the saying go these days? Ah, right."
+
+The air around him began to grow suffocating, heavy with pressure and the promise of violence. Krovi stretched his arms wide, palms open to the storm as though welcoming it home.
+
+"Let's see if I still got that fire in me."

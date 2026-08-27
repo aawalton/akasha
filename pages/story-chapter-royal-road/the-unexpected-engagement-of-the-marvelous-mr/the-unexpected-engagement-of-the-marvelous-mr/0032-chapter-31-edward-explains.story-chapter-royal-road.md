@@ -1,0 +1,105 @@
+---
+id: 49128398-7499-5fcf-836d-42cd8a2d3b95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31 - Edward Explains "
+slug: 0032-chapter-31-edward-explains
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 32
+ownLength: 615
+unit: words
+publishedAt: 2022-06-23
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/933941/chapter-31-edward-explains"
+royalRoadId: "933941"
+---
+
+“Inspector? You wanted to talk to me?”
+
+“Comtess, would you care to tell me about the hundred and fifty dollar bet you made with Dominic Winfield?”
+
+There was the sound of a muted curse. “I didn’t think Ryder would tell you.”
+
+“Why didn’t you tell me?”
+
+“Because I’m rather ashamed of it, and I didn’t see that it had any bearing on the case.”
+
+“If you’re so ashamed of it, why did you make the bet?”
+
+“Part of it was the drink.”
+
+“And the other part?”
+
+“I honestly thought that Eleanor would like him! He’s gentle, thoughtful, and quiet. I thought they would get along well.”
+
+“That’s a rather crass form of matchmaking, don’t you think?”
+
+“I know, I know. Believe me, I’ve berated myself more than once over this. You didn’t see Dominic’s face the day after she’d thrown him over. If I could have used that money to buy enough glue to piece him back together, I would have.”
+
+The feeling in Edward’s voice was enough to bring Haley back to his senses. He took a few breaths to calm down.
+
+When he felt more himself, he said, “Did you interfere on behalf of Winfield when he went to the duke?”
+
+“I’m sorry?”
+
+“When Winfield went to the duke to ask permission to court Lady Serrs, originally he was refused. You’re his friend. Did you talk to your uncle to try to convince him that Winfield deserved a chance?”
+
+“No, I didn’t.”
+
+“And when Winfield lied to me about the duke coming to him—”
+
+“Haley, if I’m ashamed of that bet, it’s nothing compared to how much Dominic hated himself for it. You have no idea. Thinking of it bothered him. He wouldn’t even allude to it. He probably allowed himself the fib because it was technically true—Uncle Erravold did go to him after he originally refused—and it eliminated the risk of you asking why he went to the duke.”
+
+Haley was silent.
+
+“Inspector, you’re not going to tell Eleanor, are you?”
+
+“Are you so sure she doesn’t know?”
+
+“How would she know? Who in their right mind would tell her?”
+
+“What about the duke? Does he know?”
+
+“Oh no. Not a chance. If Uncle Erravold ever found out, he’d kill me.” There was a short pause, then the baron’s voice came over the line, hushed and serious: “Haley, I didn’t mean that.”
+
+“You’re convinced your uncle doesn’t know?”
+
+“Not even Massey would be dumb enough to tell him.”
+
+The inspector’s eyes glazed over as his thoughts swirled around each other.
+
+“Haley?…Haley, are you there?”
+
+Haley brought the receiver back to his mouth. “Your Lordship, will you please put Taylor back on the line?”
+
+“Taylor?”
+
+“Yes.”
+
+“One moment.”
+
+A few seconds passed, then the butler’s calm, low voice came over the phone.
+
+“How can I help you, Chief Inspector?”
+
+“Taylor, on Wednesday evening, did the house receive many calls?”
+
+“Yes, sir. We eventually had to ask the operators to stop forwarding them.”
+
+“Do you know if Dominic Winfield called?”
+
+“He did. He said he wanted to offer his condolences. He originally asked for the baron, but when he learned that His Lordship was out, he asked to speak to the duke.”
+
+“I don’t suppose you know what they talked about?”
+
+Haley wasn’t surprised when Taylor answered in a voice that was laced with disapproval: “I do not. You’d have to ask the duke if you want any more details.”
+
+“Thank you, Taylor. You’ve been very helpful.”
+
+“Is there anything else you need, Inspector?”
+
+“No. Thank you again.”
+
+“Goodbye, Chief Inspector.”
+
+“Goodbye.”
+
+Haley put the receiver back in its cradle, but he didn’t leave. Instead he continued to stare at the walls and think.

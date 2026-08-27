@@ -1,0 +1,223 @@
+---
+id: 592c2e1e-ea79-5411-b94c-01bc00f2e9d3
+page-type-slug: story-chapter-royal-road
+title: "033 - No Comment"
+slug: 0033-033-no-comment
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 33
+ownLength: 2070
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3481563/033-no-comment"
+royalRoadId: "3481563"
+---
+
+When I stepped into the common room and spotted Jamie there, I had to begrudgingly accept that Lucy had been right about me in more than one regard.
+
+He was sitting on the couch, chatting with Ash. His hair was wet from washing, and so he didn't wear his usual practical ponytail, but wore it open. Only now, as it framed his features, I saw that his golden hair had a bit of a curl to it. Along with the clean shirt and his relaxed smile, he looked downright pretty. Not just cute, or handsome.
+
+My mind was clearly fried from the hormonal imbalance of going through all those shapes and the minor issue of the whole looming apocalypse. We were far too good a team to waste on my utter inability to have regular human relationships, so I banished all those thoughts.
+
+I went outside and stepped next to Stephen, who just put a tray of veggies on the grill.
+
+"Vegetarian barbeque?" I asked.
+
+Stephen huffed with humor. "Just getting my feet wet with something that's low-stakes. I'm afraid if I burn the meat people are going to riot."
+
+"Didn't do much grilling before the end of the world?"
+
+"The last time I stood behind one? Probably when I was a teenager. And sadly, my class doesn't come with a universal cookbook."
+
+"Gotta raise that Grilling skill."
+
+"Already went up to 1 from putting that tray on there."
+
+There was a skill for grilling. Of course there was.
+
+"What gives me the honor of your visit?" Stephen went on. "You look like you got something on your mind."
+
+"Guilty as charged. I have two questions for you. First: Were there any hearts among the meat you looted today?"
+
+Stephen looked thoughtful for a moment. "Yes, I think we got some pork heart. Is that a new dietary requirement?"
+
+"Only somewhat. A potential for a dietary boost. Can you grill one for me? Make it somehow tender? I had some raw heart earlier and that was unpleasant to eat."
+
+"Okay, I have to ask. What do you get from eating hearts, and what heart did you eat?"
+
+"New shapes. Ate a Unicorn's heart."
+
+"Sure. Yeah, I can give it a shot. Damn, if we had known we could probably have brought more."
+
+"I'm afraid there is a city full of hearts out there that are rotting away in thawing freezers right now."
+
+"At least most of them wouldn't have made for useful shapes anyway. The other question?"
+
+"What perk did you pick at level 5? I've been trying to think of what the Blessing could offer a Chef and I've been coming up blank."
+
+Stephen grinned. "A daily care package."
+
+I blinked. "Okay, you have to elaborate."
+
+"Every day I get a random assortment of consumables that only last for that day. Today it was mostly potions that boosted some stat or another."
+
+"This Blessing has an awful lot of random going on."
+
+"Right? It's weird. But I thought that this would allow me to provide some more support while my food itself gives rather simple buffs. And yes, Liz mentioned your idea, and we tried it. She can imbue those potions but it is prohibitively expensive. Some of them straight up exceeded her maximum Psi Points."
+
+"Oh, wow. That still means there is a ton of potential there once she increases her pool."
+
+"Well, and it has to be part of her attack, right? We didn't experiment too much, but just lobbing her throws doesn't trigger the imbued effect."
+
+"That's the case right now. But from my two lists of Perks I am fairly certain that what you do is important for what you get. If she keeps experimenting with that ability a Perk might show up that makes it easier to use."
+
+Stephen pulled the veggies off the grill. They smelled amazing. He put the tray on a plate and handed it to me. "Will you bring that over? And tell people to take a seat at the table. Real food will follow soon."
+
+I took the plate. "Hey, that does smell like some proper real food."
+
+"You are too kind, Eve," Stephen said with a smile. With his hand over another plate, he started summoning steaks out of his inventory.
+
+I went back inside.
+
+"Food is happening! Everyone sit down."
+
+Shouting orders felt so much more awkward when there wasn't a life-threatening situation going on. Still, people stopped milling around and gathered at the table. Jamie, Ash, and Liz happened to gather at the end of the table that was opposite to where Roslyn, Annika, and Luke were already sitting down. Jason was nowhere to be seen, though.
+
+They even left a seat open between Jamie and Ash. I hoped I didn't misread the cue and sat down there and helped myself to some of the grilled vegetables before I put the rest at the center of the table.
+
+"Eve, Jamie said I had to ask you how you got that Unicorn shape," Ash immediately said. "That it wasn't possibly something he could just spoil."
+
+"Mostly by being far too reckless, getting really lucky in the process, and then eating its heart."
+
+"That's metal," Liz said.
+
+Ash stared wide-eyed. "You aren't joking, are you?"
+
+"Nope. Had to work my way through ribs and muscle and everything to tear it out. But it was worth it. I can learn spells now. Can you teach spells?"
+
+"Me?" Ash asked. "No. I don't think I can. I'll ask Tatiel about it."
+
+"I hope it doesn't boil down to eating demon brains or something like that," I mumbled before I turned to Jamie. "How are your level 10 perks?"
+
+Jamie smiled with a provocative glint in his eyes. "They look great and I'll sleep on them and I'll tell you what I picked tomorrow."
+
+"You are fucking with me. You haven't picked one and you won't tell me what the choices are?"
+
+"I'm dead serious. You admitted it. You are a filthy min-maxer. And you'll absolutely talk me into whatever makes the most sense to your math brain, entirely ignoring the big picture."
+
+I leaned back and crossed my arms. "I'd never ignore the big picture. I'm the biggest picture thinker there is."
+
+"In some ways you are, and yet I wouldn't trust you with a grocery list."
+
+"Wow, Jamie. Just… wow."
+
+"What about you, though? You were practically glowing when you stepped out of the shower."
+
+I couldn't keep up the pouting act. "Oh, those Task Rewards were amazing. My shapes scale with my mental attributes now. Only at 25% currently, but that can be improved with simply shifting into different shapes." I turned to Ash. "Do you know where a spider's heart is? Jamie is carrying a spider corpse, a big one, and I need to eat its heart."
+
+"Hold up. Stop. Pause," Jamie said, pulling on my shoulder so I'd face him. "When you said 'exposure therapy', you meant through a dead spider, right?"
+
+I grinned. "Oh, Jamie. You already did that and it was easy, right? To really help you, we have to go a bit further than a lifeless spider."
+
+Jamie visibly paled. I put my hand on his. "We'll take it at your pace. You don't have to be around when I eat its heart."
+
+Jamie nodded slowly. "Yes, my pace. Sounds good." He took a deep breath. "No, it hadn't at all occurred to me that you wanted to become one of those."
+
+"Yes, I actually do know where a spider's heart is. At least in theory," Ash said. "I can draw you a diagram?"
+
+"Or you can help me cut it out?" I asked sweetly.
+
+Ash also paled. "How big are we talking?"
+
+"Black bear?"
+
+"Oh Lord."
+
+Jamie cleared his throat. "So, uhm, Eve? Any other unusual Rewards you got?"
+
+I looked over at him as his pale face was getting redder quickly. "There is another amazing one?"
+
+Jamie nodded. "Ah, cool. So… what is it?"
+
+I narrowed my eyes at him, before I understood what he was talking about. He had not ignored that one reward.
+
+"I haven't looked at the one you are talking about."
+
+Both Liz and Ash leaned in closer, their curiosity palpable.
+
+"Really? Just ignored it?" Jamie asked.
+
+"Yup. Just ignored it. What did you get?" If he wanted to talk about this openly in front of all the others, I wasn't going to stop him.
+
+"A lance. Summonable like my sword. Has some interesting details about combined stats of mount and rider."
+
+"That… No, fuck that. I will not read it. This will not be my build."
+
+Jamie raised his hands defensively. "Never said that it should be or would be."
+
+"Okay, you two," Liz finally snapped. "What the hell are you talking about? What Tasks are those?"
+
+I kept staring at Jamie. "You tell them."
+
+"Ahem," Jamie cleared his throat again. "Task Completion: Mount another Blessed."
+
+Ash nearly choked on his coke. The rest of the table went quiet. It was Liz who broke the silence with her laughter. Which went on for a considerable amount of time.
+
+I reluctantly opened my Task Completions menu.
+
+[Get mounted by another Blessed
+
+Reward: Spectral Tackle (Spell)
+
+Duration: 1 hour
+
+Cost: 1 Mana
+
+Cooldown: None
+
+Effect: Manifest basic spectral riding tackle fitted to your current shape. Negates movement and balance penalties from bearing one willing rider and improves the rider's stability.]
+
+I clicked accept. I leaned back and crossed my arms again. "Nope. Not going to be my build."
+
+Others tried to go back to normal conversation though I could feel their attention.
+
+"So, you accepted it just now, did you?" Ash asked.
+
+"Yup. Got my first spell. Summons goddamn riding tackle."
+
+"This Blessing really doesn't pull any punches," Liz said. "This happened because of that Unicorn shape, yes?"
+
+"Of course it did!"
+
+"Could have been the buffalo. I didn't mean to imply anything untoward at all."
+
+"Of course you didn't." I glared at Liz.
+
+Instead of defending herself, she just gave me a wink. Which made everything worse.
+
+Out of all the people, Anthony was the one who saved me. He stood up.
+
+"Stephen, if you could join us for a moment. I want to say a couple of words. I promise I won't hold a mass or make you do a dinner prayer."
+
+He waited until Stephen had joined us before he began.
+
+"I'll keep this brief and without pushing my religious subtext at any of you. But I wanted to take this opportunity with all—most—of us together to express my gratitude. We, together, have made it through this horrible first night. We met as strangers, from walks of life that couldn't have been more different. And considering what we faced, fear would have been the expected reaction. For everyone to prioritize their own safety and their own survival. But none of you did, and because of that we are as many here as we are. For that unity, I express my gratitude. And I hope that we will continue working together, to survive together, despite our differences, in honor of those who aren't with us anymore."
+
+The table was silent, most people unsure how to respond. Soon the silence was interrupted by clapping. Slow clapping, from behind me.
+
+"A wonderful little speech, reverend. I am touched," Lucy said.
+
+Anthony, against my expectations, smiled. "Welcome. Lucy, was it? I wish to apologize for our first encounter. It was that fear I mentioned that drove me to hostility. I would be a hypocrite not to welcome you. So, please be our guest and take a seat."
+
+Lucy tilted their head, first to the left, then to the right. Then they grinned. "Well played, priest. I will gladly accept." They pulled a chair over from the side and placed themselves between me and Ash.
+
+"Hey folks. I never had barbeque! Liz, I must say, I am a huge fan. The way you are bullying Eve is a marvel. Who's getting me a beer?"
+
+"Hell, no. You are technically a minor," I said.
+
+That wicked smile made me regret my words immediately.
+
+"What does that say about you, Eve? After our kiss?" they said. It hadn't been loud, but those immediately around us had heard it.
+
+I rubbed my eyes. This would be a long evening. It had been a pretty good speech, though.
+
+"No comment," was all I said.

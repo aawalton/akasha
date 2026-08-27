@@ -1,0 +1,657 @@
+---
+id: 39dcf302-973f-5cff-9692-fd9de5b1cf3e
+page-type-slug: story-chapter-royal-road
+title: "275 Infinite"
+slug: 0234-275-infinite
+partOf: the-new-world
+position: 234
+ownLength: 10118
+unit: words
+ownProgress: 10118
+publishedAt: 2020-10-31
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/577389/275-infinite"
+royalRoadId: "577389"
+markedReadAt: "2026-06-29T21:29:05.994Z"
+---
+
+-Victoria Novas-
+
+Looking around, I made sure Alastair and I were prepared for the battle on Blegara. Obolis mentioned in the last war meeting that these last few days of fighting with Daniel and his guild were critical for our guild. He wanted us to get to know the people there and create lasting relationships.
+
+That made me nervous. I wasn't good at making friends. Not at all. I waddled back and forth, unable to sit still because of those thoughts. They just bounced around in my head like a little cub in a bounce house. I wished I could control myself better. It was weird. I always struggled with doing the right thing, even though I usually ended up succeeding in the end.
+
+But it was never easy.
+
+By comparison, Alastair looked forward, not a worry in the world. The big guy just punched things. That gave him a natural affinity for the Harbinger. I knew that Daniel liked Alastair more than me. I was sure of it, though I hadn't found proof yet. Today might be the day I discover the truth of the matter on that specific issue.
+
+This was our second day fighting on Blegara. Things worked out the first day, mainly because of Obolis and the Harbinger's guild. They were a team made entirely of hard hitters. There was the uptight but smart lich, the shadow walker Hod, the mysterious Althea, and the hemomancer that healed, Kessiah. It was hard to get to know any of them, especially Althea. She didn't say much, but she was a good listener. I heard from Caprika.
+
+Speaking of which, I had no idea how Caprika warmed up to her so fast. I tried starting, like, fifty conversations with her. The planeswalker just brushed me off with casual comments about the battle and how now's not the time to talk. She was right, but I just didn't know how else to strike up a conversation. Making friends while fighting was hard.
+
+My thoughts honed in as a portal appeared in front of us. The edge of the warp was smoother, even smoother than Obolis's, so only one person could make them. Helios stepped out, his mood nonchalant and confident as always. He was a cool cousin, and he both hated and loved me. That loving disdain came from the fact he believed I outshined him.
+
+That was crazy talk. Helios ruled two whole planets. I kept Olstatia safe on our homeworld. Comparatively, his station outdid mine by an insane amount even for his age. He was older than me, sure, but that didn't change the fact he accomplished twice as much as I had when he was my age. Speaking of age, according to Florence, the Harbinger was younger than all of us. I found that hard to believe, and the person telling me exacerbated that issue. Why? Well, it was Florence.
+
+It seemed like the Harbinger was whipping him into shape, though. Speaking of the Harbinger, the man himself walked out of the portal. He was tall, overly so. Most tall guys looked handsome, even if they weren't. This guy was so big he bordered on scary instead. His armor carried a craggy, organic sort of edge, making it look and feel alive. He also never did his hair, which would've been cute if it wasn't for his scars and eyes.
+
+Those eyes stared through people. He also spoke like iron, and even around Obolis, he showed no signs of feeling any pressure whatsoever. Because of that, I couldn't read him. Florence told me he's actually a nice person once you got to know him. Once again, that's Florence.
+
+Anywho, the Harbinger's other guildsmen walked through the divide, the lineup stellar. I locked eyes with Althea, the slender, silver-skinned woman being beautiful as always. I was kind of jealous, but hey, who wouldn't be?
+
+I gave her a smile and a wave, but she didn't see it since I was wearing a mask. I hated these things. They always made me awkward. That was a lie. I was just terrible at talking. Althea waved back and even walked over to me. I kept my excitement to myself as she spoke up,
+
+"It's good to see you guys. How are you all holding up?"
+
+I stood tall, trying to sound calm and confident,
+
+"We're managing. It's been quite a shock since the rebels managed to worm out a victory."
+
+Althea frowned, "Yeah, I know I've been thinking about it a lot lately. It's hard not to worry."
+
+She worried too, huh? I wondered if she thought about talking as much as I did. I kept myself together as I continued,,
+
+"As have I. We're lucky the Harbinger can hold Lehesion back. It will be up to us to stop everyone else, though."
+
+Althea winced, "That's a lot of pressure."
+
+Tell me about it.
+
+I raised a fist, "We'll make it."
+
+The others met up within our divisions, and the well-read lich gave a breakdown of the situation. He spoke with calculated precision, every word measured, and every gesture planted. At first, I thought the necromancer was fake, but I was wrong. This wasn't some facade he put on. It was too consistent. The sorcerer actually preferred talking like this. The few moments his true self came out, he was a brutal, ruthless individual.
+
+He hid that under a mask that was much more effective than our own.
+
+He reminded me of Helios, though Torix kept a more relaxed kind of attitude, somehow. Unlike Helios, Torix didn't resent the mask he was forced to wear. Maybe all the years of practice made the jovial wizard persona easier to keep up. It may have eventually became his persona over time.
+
+I was always worried about that. I tried to make my family proud all the time. I really just wanted mom and dad to look at me with a smile, and I wanted our uncle to say my name with some pride. That was more than just a little tricky. The Empire carried some ridiculous standards for the Novas family.
+
+Despite how well I did, I'd always been outshined by Helios up until recently, in fact. He fumbled when trying to intimidate the Harbinger by threatening Althea. It made me wince just thinking of how callous the guy was. I'd never do something like that. I didn't think I would at least.
+
+Even after flopping on his face like that, Helios managed to stay friendly with the Harbinger. To me, that made no sense. I couldn't understand guys half the time at most. At least Alastair made sense. The lovable lug just walked around, said what needed to be said, and fought well. I was proud to be his sister, but I was too scared to ask if he was proud to be my brother.
+
+I really, really hoped he was.
+
+Torix finished his breakdown, the insights in his speech both profound and well thought out. That sorcerer was a scary individual, his mind always thinking of possibilities. He mentioned that the rebels would just channel an endless stream of Hybrids at Schema's forces, wearing them down. It seemed like a real possibility, the kind that made a shiver run up my back.
+
+I often wondered if the Empire made the right choice allying with this guild. They were all good, each and every one of them. We were in the frontlines against the Adair's because of that, and I didn't think that was worth it. Some disagreed, the most vocal being Florence of all people. The party boy mentioned the rebellions on the Empire's worlds were inevitable.
+
+He acted like forging ties with the Harbinger's Legion was a proactive move, and that Caprika's genuine friendship with several members was invaluable. Florence even suggested we ally with the Harbinger's Legion earlier on before we were also attacked by the Hybrids. Obolis always seemed to take Florence's insights seriously too. If I had my way, I'd tell Obolis, 'Hey, this is Florence. Remember?'
+
+Speaking of Florence, Mr. Irresponsible was missing during the siege today. I expected as much. Working two out of every three days would be a challenge for the guy, especially with his previous track record. The goofy bird person was missing too, but I'm sure he had his reasons.
+
+Anyways, with the new intel and plans going forward, we set up a formation with Daniel leading the charge entirely. Alastair and I guarded Helios, Kessiah, and Althea. It was kind of insulting since Alastair and I were well-trained knights. We could fight on any front line. Sure, the Harbinger fought one on one with Lehesion, but we were still the best of the best.
+
+Helios, ever perceptive, caught wind of my dissent. He raised an eyebrow at me, "Ah, you seem rather annoyed. Perhaps it was your expectation to lead with him, perhaps?"
+
+I frowned, not wanting to give too much away,
+
+"Of course not. It does seem strange that he wouldn't let us guard his back while he ran in, but his decision stands at the end of the day."
+
+Helios grinned from ear to ear, "I assure you, he will not need any assistance today. We will be cleaning up the mess he leaves behind. Nothing more."
+
+I leaned back, remembering that we were clearing Blegara together the day before yesterday, "You're acting like he's a different person."
+
+Helios shook his head as if admitting defeat, "Victoria, I once believed I was master of all and a jack of none. Since meeting him, I have discovered that this galaxy is vast, and the universe is wide. Many may not outrank me, but many are my better."
+
+Helios took a deep breath and sighed, "He is a true anomaly."
+
+I rolled my eyes, "Look, you're being melodramatic today. Are you in one of your moods, maybe? I know you get self-destructive sometimes."
+
+Helios stared off in the distance, likely planting the gesture to add emphasis,
+
+"No. I've just been thinking about who I am and what I'm doing. That is all."
+
+"Oh yeah, that sounds like one of your moods."
+
+I doubted what I was saying as I said it. Helios spoke all that with such a foolproof lie that I almost believed him. Almost. I knew Helios, though. He was a cunning cutthroat, and he was likely just trying to unsettle me before we ended up fighting. He'd look better than me then, and that played to his favor in the long run.
+
+Even if I knew that Helios's acting was superb, I couldn't shake off what he said, so I stared forward, filing into formation. With the supporters at our back, we went ahead with the Harbinger leading. He tore through a wall, opening us to the ocean around Saphigia. With an extraordinary control of gravity, he somehow kept the water out of here without jerking us out at the same time.
+
+I tried wrapping my head around that several times on how he did that, but I still didn't have an answer. A second passed as he turned to us, and his voice rang in my ears like steel,
+
+"I'm heading out. Give me some breathing room today. I'm trying out the furnace."
+
+Helios raised his eyebrows, "What happened to storing the furnace in your dimensional shield?"
+
+A small but cocky grin popped up on his face, "I don't think these guys will touch me, and I can just keep it protected while I use my magic."
+
+Helios scoffed, "If that's what you wish."
+
+I leaned back, my eyes widening. I turned to Helios, who nonchalantly stared down at his claws after talking with the Harbinger. Helios didn't even look at my eyes, but he grinned all the same. He murmured,
+
+"Your expression, it's priceless."
+
+I whispered,
+
+"Is he trying to kill us? A furnace? Really?"
+
+"Indeed. He can already use it."
+
+"No, he can't. That's impossible."
+
+Helios shrugged, and I turned forward, ready for a nuclear shockwave to come roaring at us. It wasn't like I could do much in the wake of a catastrophe like that, but I'd at least try. A few seconds passed, and the Harbinger shook in place. He grew primal, animalistic even. I trembled, wanting to run as his ascendant mana crawled out of his skin like a disease.
+
+Alastair held his ground, pulling an orichalcum shield from his pocket storage. The guard thudded against the coral beneath us, and it kept the mana at bay. The Harbinger rolled his shoulders before cracking his neck. It sounded like metal girders crashing against each other, each pop of his neck a dull thud.
+
+Bending down, he shot himself forward, keeping the momentum of his jump insulated from us with a dozen gravity wells. He sliced through the water without slowing down, and his armor glowed white as energy rippled from his frame. A grin grew on his helmet, and another shiver ran up my spine. He channeled an untold amount of mana, his entire structure ablaze with vibrance and vitality.
+
+Reminding me of Lehesion, he made the entire ocean boil.
+
+The Hybrids isolated in this section of Spahigia squirmed, their mindless bodies wishing to run. A psionic force compelled them forward against their will, and they sprinted towards the glowing Harbinger above them. Each and every one of them disintegrated from an unseen, bloody aura. The Harbinger pulled out his dimensional shield, keeping water from entering it with yet more gravity wells. Instead of running and crushing the Hybrids, he unleashed simplistic, almost childish magic on them. He used the most basic of his gravity spells, two gravity panels layered over one another. These panels did not lack in lethality despite their simplicity, however.
+
+He smashed hordes of Hybrids between these gravitational forces. Without moving, he waved his hand at each Hybrid and blighted one. The smashed enemies' remains were melted into spears. The umbral monster used those spears made of corpses to kill their allies. These jagged metal lances froze and shattered the remaining forces, the Harbinger shifting from ascendent mana to quintessence without batting an eye.
+
+In fluid strokes, he fueled incantations that rivaled an armada's worth of destructive potential. A swarm of those molten spears, made from the corpses of Hybrids, cascaded across the sealine. The cloud grew so dense and so large, it cast a shadow over the entire cityscape. In its wake, the Hybrids and vagni trembled under the might of his magic.
+
+I trembled as well. How he enacted this kind of magic was beyond me, but here he wielded a sort of terror I'd never seen from anyone but Obolis. At least in person. The sight left me shaken, my ideas of who and what I was falling to turmoil. I turned to Helios, and he watched with his fists squeezed tight. The destruction decimated city block after city block, the Harbinger culling the Hybrids without ceasing.
+
+Helios stared with his eyes opened wide, though they did not see,
+
+"Do you understand now? We're fighting among gods, and we are the mortals under their feet."
+
+I turned towards the Harbinger, and he melted entire sections of Saphigia. No piece of Blegara's capitol would remain unscarred. It would be a wasteland when this behemoth was finished, his mark absolute and complete. Helios grimaced,
+
+"We believed we were royalty. We believed we were chosen to be leaders, born higher than mere backwater savages. Daniel showed me his home town just yesterday. It was a primitive wasteland."
+
+He met my eye, "Tell me this. If we are so special given our circumstances, then what is he?"
+
+I stared on at the wake of his destruction, and I didn't have an answer.
+
+-Daniel-
+
+I stretched my back as we landed in another coral building in Saphigia. We finished the day early on Blegara, a beachhead established at the center of its capital city. I used the furnace today, all the meditation from yesterday paying off in spades. Without having to watch out for Alastair and Victoria beside me as well, I let loose in a way I rarely got to.
+
+It was fun.
+
+I tried to see just how many lances made of melted Hybrids I could hold at once using gravity wells. It left me stunned when I was casting a moving shadow over Saphigia of spears. In the end, I smothered the Blegarian capital with my magic. The only issue was watching out for friendly fire on the vagni, but it wasn't exactly challenging to avoid attacking them for the most part.
+
+They tended to horde around temples, rifts, and specific tactical chokepoints. The temple guys were almost always civilians looking for a place to stay safe. They were praying to their old gods, the eldritch, for protection. From what I saw, the eldritch were terrified of me, and they avoided the city for that reason.
+
+As for the vagni standing at rifts, they were usually priests praying to their old gods to give them protection. The vagni at tactical chokepoints, they guarded those places with their lives, the rebels forces mixed in among them. The vagni there fought us with vigor and zeal, and I admired them for it.
+
+They made good warriors, their minds in the right place. They couldn't muster much of a defense against me, however. Killing them was poor sport, and I made sure they didn't suffer when they passed. It still left me numbed on the inside, however. I was getting better at switching my mind to that kind of mode recently.
+
+That scared me.
+
+My anxieties aside, we ended up sieging the entire center of the city. The Hybrids no longer crawled from every nook and cranny, and that gave us a tremendous amount of leeway in where we set up camp. That meant establishing a central location for handling the rest of the city's sectors was more than possible.
+
+We were so far ahead of schedule, the Empire lacked the troops and resources to expand their new base further. I was a big part of that, but my usual magic lacked the sterilization necessary for absolute security. Victoria and Torix handled most of the smaller stuff I left behind, so I got to run wild. In particular, Victoria's light magic worked wonders for clearing out the Hybrid nanomachines.
+
+I could've used Event Horizon for that purpose, but having someone else handle that cleansing for me gave me extra time. I used those moments to ravage everywhere else. In that way, I really got to stretch my legs and go full blast. That's why we had a camp established here with albony troops running about.
+
+In the middle of the temporary camp, my guild packed up and got ready to leave. The albony mages established an aquatic air bubble sustained by magic. They fueled it using mana crystals harvested elsewhere, and tents composed the majority of housing so far. It wasn't much, but it was a first step.
+
+That energy from victory got everyone riled up as we finished getting ready to go. Helios got a warp read right after, so Torix and Althea waved goodbye while I made sure everything was safe before heading out. Doing all that, I noticed Victoria looking around, her demeanor always calm and collected. I gave her a thumbs-up as I passed by,
+
+"Yo, good work with clearing the Hybrids. The nanomachine soup is a pain in the ass, and you're doing a good job with handling it."
+
+I turned to Alastair, the giant standing beside her,
+
+"You too. Keeping Kessiah safe is extremely important. Healers of her caliber are rare, and she's why we're able to save this many people. Keeping her safe is an integral piece of this siege, so excellent work."
+
+Alastair looked down, "Uhm, er, thank you."
+
+The guy didn't talk much, and I liked that about him. We had to spare someday just so I could see what he was made of. I turned towards the warp to Mt. Verner, ready to walk away. As I did, Victoria lifted a hand,
+
+"Uh, thanks for doing our jobs for us. We, er, appreciate it."
+
+She stared down after saying that as if she said something wrong. I knew that feeling. I gave her a sad smile,
+
+"No problem. Killing this many people isn't fun, but someone has to do it."
+
+I stepped through the portalled veil,
+
+"It's good you're thankful it isn't you that has to do this. Don't let that feeling go."
+
+The warp closed behind me as Helios followed. A brisk wind whirled on my back as the sun set in the distance. We were back along the outskirts of Mt. Verner. Stepping on soft earth, I soaked in the feeling of Earth. The smell of pine trees and open woods filled my nose. It was good to be back home.
+
+After getting back to our base, I reviewed my messages, making sure I wasn't missing any meetings. So far, I only missed one - a meeting with Amara, Hod, and Florence. I gave them a quick reply apologizing for my lateness, along with rescheduling the time. Florence replied in an instant, and before I knew it, a plan was already in motion.
+
+I met with the three unlikely compatriots, each of them offering strange perspectives. They grouped near Amara's lair for eldritch research on the second floor. She tamed these monsters in reinforced cells, each holding several monsters who 'got along' so to speak. That just meant the eldritch couldn't kill each other too quickly, and that they were evenly matched.
+
+That was about as good as you'd get for most eldritch.
+
+The most vocal of the three chatted while Amara and Other Hod listened, all of them standing beside a prison cell full of gunk. Some slimy eldritch made its home there, and they talked as some green slug crawled around beside them. None of that surprised me.
+
+What did was watching Florence chat away with both of them, the albony somehow making friends with those two,
+
+"That's incredible. I never knew that eldritch had systems like that in place. Those systems, they mirror little societies. It's a wonder Schema hasn't already established some kind of contact with you guys. Some of you are pretty civilized, especially given the circumstances."
+
+Amara lifted a palm to Florence, her chin held high,
+
+"Of course we are. Wolves run packs. Though we are insatiable in our hunger, there is never an endless amount of food. That is why we organize and spread the food amongst...amongst..."
+
+Amara froze in place, spotting me as I passed a corner. I raised a hand, "How's it going?"
+
+Amara and Other Hod stood stunned, neither even able to move or breathe. I waved my hand in front of their faces, "Are you both alright?"
+
+Florence scoffed, "What? These two alright? They've both been through hell and back. It will take more than just you walking up-"
+
+Other Hod stammered, "Please. Stop. Flowing. Mana."
+
+Oh yeah, the furnace. I dampened the mana flow, making sure I kept some restraint with its bonuses. I raised a hand,
+
+"That better?"
+
+They both took deep breaths, speaking in unison,
+
+"Yes."
+
+"Thank you."
+
+Florence frowned under his mask, "Well, I was wrong. Apparently, you walking up is enough to make the two fall apart. There's still so much I need to learn."
+
+I tapped my chest where the cipher hummed, "I got this yesterday. I'm letting it run, and apparently, it's pretty horrific to most eldritch. After seeing my own mana, I know why now. It's like a...squirming hydra."
+
+Florence grinned at me, "I'd expect nothing less from the Harbinger. Come, we've much to discuss." The chatty albony wrapped his hands around his new eldritch buddies,
+
+"Scared or not, we've got a plan to show him that we've thought up. Chin up. I'm not about to let you both stumble when you've put this much work in."
+
+Amara took a breath or two, "I...Yes. We...shall."
+
+I doubted it considering how shaken they both were, but Florence gave other Hod a firm pat on the back,
+
+"You as well. You saved your species from imminent peril. You and the Harbinger have that in common. Go on. Act like it."
+
+Other Hod stood taller after hearing that. I pointed towards the central elevators, "Come on, let's go somewhere secure to talk this out."
+
+We worked our way up to the third floor, finding an empty meeting room. Once there, we sat down. Amara and Other Hod stared at me as if I were a literal demon from hell spawned to devour their souls. Florence took the floor, saving them from themselves,
+
+"Seeing as how your stature has left them stunned, I shall offer up my skills and speak for them."
+
+Florence raised his two hands, "I'll begin by describing a few important details I learned about the vagni and then detailing some important footnotes about the eldritch. These tidbits give context for my follow up for our plan. After discussing the details, we're open to any suggestions you have for changing the plan going forward."
+
+He turned a palm to me and smiled, "Does that sound good?"
+
+I gave him a nod of approval. Florence snapped his fingers, "Perfect. The first detail revolves around Blegara and their worship of the eldritch. We knew they followed them as their old gods, making sure to offer sacrifices and the like to stronger eldritch. This was supposed to appease them."
+
+I frowned, "It probably didn't."
+
+Florence raised a finger, "And that is what's most surprising - it did."
+
+I leaned back, "What?"
+
+Florence leaned back at the same time, "I know, I too was stunned by that realization. According to Schema, the eldritch are unable to be reasoned with, but my assumptions about them were correct. We've all been believing in lies, and this rebellion, along with Amara and Other Hod's insights have made that clear."
+
+Heretical outbursts aside, Florence spoke about their pasts with depth. In fact, he might even understand more about Amara and Hod than I did. Florence did that in only two days, their histories unveiled to him. To me, that was damn near awe-inspiring.
+
+Florence continued, "There are many classifications of eldritch. They carry many shapes, sizes, and forms. They arrive in many different ways as well, and their manifestations are often worshipped by primitive cultures. This is particularly true for cultures where Schema isn't present before the eldritch arrive. Given Earth's lateness in arriving in Schema's universe, I'd imagine your ancient cultures spoke of gods and deities as well?"
+
+He was right about that. The Greeks worshipped titans and the Olympians alike. Many cultures invented tales that were extensive and far off from reality too. If what Florence said was true, then that wasn't a mere hunch anymore. It was a fact. I nodded,
+
+"Yeah. We had all kinds of figures like that."
+
+"That's my point exactly. It isn't as if the eldritch aren't here then arrive in a single day as Schema would have you believe. They come in a slow, meticulous process from dimensions clashing. It takes time for their forms to materialize from the ambient energy they normally manifest as. At least wherever they come from."
+
+I frowned at Other Hod and Amara, "Guys, why didn't you tell me any of this?"
+
+Other Hod raised a hand, "You never asked."
+
+I bit my tongue, swallowing my words. Yeah, I never had. I accepted Schema's status quo because it was easier to do so. I didn't want to deal with guilt or doubt when I was trying to survive. For the most part, I lacked the time and resources for those second thoughts. That wasn't the case anymore.
+
+I winced, "Yeah, you're right. I should've talked to you guys about it."
+
+Other Hod raised his hands, "I didn't mean that as a criticism. Why would you want to know about monsters that are trying to kill your kind? We're natural enemies."
+
+Florence shrugged, "There are several reasons, actually, and it wasn't the wisest idea to neglect the two of you as resources for so long. Aside from that, it's always a smart move to understand one's enemies."
+
+Florence met my eye, "Of course, I mean that constructively. You don't mind my saying that?"
+
+I shook my head, "Not at all. You're right."
+
+Florence raised a fist, "That's why I'm glad I can help you catch up. I'm actually useful for once. My point is, the eldritch have systems and wants. We can abuse those wants for our plan on Blegara. Amara, tell him what you told me about his mana crystals."
+
+Amara stayed silent. Florence nudged her, and she sighed,
+
+"The mana crystals, they look delicious to us."
+
+I pulled one out of storage, the crystallized quintessence shining white,
+
+"This looks good? Is it like, I don't know, candy?"
+
+Amara drooled. Yup, it was candy.
+
+I turned to them both, "Why not ask for some, then?"
+
+Other Hod raised a finger, "That is your flesh and blood, refined into a more palatable form. Asking for an important resource for mere pleasure seemed...absurd."
+
+Amara's eyes on her palms narrowed, "He speaks for himself. I never wished to become a pet."
+
+I tossed her a mana stone, "Don't think of it like that. You're both working hard here. Think of this as payment for doing my guild a service. I can give you both some of these as payment since neither of you is that interested in money."
+
+I tapped my chest with a closed fist, "I do right by my own. If you want something, just ask. At the very least, I'll consider it."
+
+Other Hod caught the mana I tossed, and Amara stared at the crystallized mana with the intensity someone starving. He offered her the entire crystal,
+
+"You've worked very, er, hard lately. Here."
+
+Amara snatched it out of Other Hod's hand, and he stared on as Amara opened her maw. She put the crystal in her mouth and began sapping out its energy kind of like a giant, mana loaded jawbreaker. Other Hod looked on, envious yet wanting her affection. It was obvious the guy liked her. I tossed another mana stone to Other Hod, and the poor guy rejoiced as he chowed down. Florence raised his eyebrows,
+
+"They do say that a good leader gives his flesh and blood for those he leads. I see you take that quite literally."
+
+I shrugged, "I'm just glad I can give them something they actually like. Anyways, what else did you figure out?"
+
+"Aside from their hunger for mana, it would seem that there exist ancient versions of the eldritch that the vagni worshipped. Considering these are the old gods they worship, they should be the ones we target when tackling Blegara."
+
+I crossed my arms, "Ahh, that makes sense. If we get their old gods on our side, we get the vagni too."
+
+"You've caught on to my meaning. We've learned of several collecting points the eldritch use for accepting sacrifices. The most powerful and well respected of those places sits just several dozen miles from Saphigia. We should be able to lure many of the eldritch into this area using your mana crystals, and by doing so, we will have them within our grasp."
+
+Florence gestured to the eldritch and me, "It would seem after that, you merely need to terrify the old gods as you have terrified these two."
+
+Other Hod and Amara ate the mana with looks of bliss spread over their faces, ignoring Florence entirely. I revved up my furnace a bit, and both of them froze in place. After letting it die down, they went back to normal.
+
+I gave Florence a smirk, "I think I already have the whole terrifying thing down pat."
+
+Florence scoffed, "It must come naturally. Have you tried looking in a mirror lately?"
+
+I snapped my fingers, "Dah, it's the damndest thing. Every time I try, the mirrors just shatter."
+
+Florence let out a hearty chuckle before giving my shoulder a light punch, "You're getting wittier. It's good you're learning to turn others insults into humor. You'll win over many if you do so."
+
+Considering how suave Florence was, I took that advice to heart. The albony spread out his arms, "How does the plan sound?"
+
+"Solid. The only issue is getting the vagni to actually see their old gods submit. There's no doubt in my mind that Schema exiled them already, and I don't think the rebels will let us broadcast that over their system."
+
+A sly grin crept up on Florence's face,
+
+"They wouldn't do so if offered the choice, certainly."
+
+He gestured to Amara, "But this eldritch understands Schema's system and how systems work. She can force the broadcast so that all are present and so that all vagni see the display of might. It will be glorious, along with throwing their civil war into utter disarray."
+
+My eyes widened, "That's right. This is... a perfect plan, actually."
+
+Florence gestured to the two distracted eldritch, "These two stand at the heart of it. I could not have asked for better members to pull the plan together with."
+
+I nodded, but that was a bold-faced lie. Most people wouldn't have been able to get Amara talking or Other Hod to focus for more than a few minutes. Florence learned about them, their pasts, the history of the vagni, and pulled it all together into an effective plan. He did all that in two days.
+
+I was dumbfounded.
+
+I let my hands flop on my sides, "Why does your family act like you're some failure? You're a genius."
+
+Florence looked up, not taking the compliment well. He raised his hands, "What? No, I just had some talent to work with. That's all. This wasn't from me like I just mentioned."
+
+I rolled my eyes, "Come on, you forgot I've worked with these two. Yeah, I could've asked them for more advice, but getting them to speak up can be a real pain in the ass. You might as well be their family now."
+
+Florence turned to the side, coughing into a hand, "I...well, thank you. I appreciate the compliment, regardless of its truthfulness."
+
+He straightened up, "We're not finished yet, however. We came forward without really knowing what it was that made the eldritch afraid of you. Even if these two feel something sinister, neither could pin down exactly what it was. It was just a feeling."
+
+I raised a hand, pointing behind me with a thumb, "Oh, I learned that yesterday. I trained with Helios to learn about elemental furnaces. He explained his mana sense to me, and that got me thinking about it. I meditated some, ended up learning the skill on accident, and I saw my mana."
+
+I frowned, "That's what's horrifying them. They might not have known the terms for what it was, but it's pretty obvious to anyone that can sense mana."
+
+Florence stared at me in awe, "Now I am the one who's surprised. How did you get Helios to explain his mana sense to you? In all my years of knowing him, Helios never uncovered that part of himself to me. I work off assumptions about him instead."
+
+I furrowed my brow, "What? Seriously? I just asked."
+
+Florence frowned, "Ah...I see. The distance between my brother and I is greater than I imagined."
+
+"Why don't you think he'd tell you?"
+
+A sad smile formed over Florence's face, "There are many reasons I suppose. For one, Helios calculates his every move. Telling me about his senses exposes himself, and that's not something he does lightly. Even more important than that, I believe the heart of the issue lies in how our family operates."
+
+Florence raised a hand, "We decide each other's worth based upon respect. Unfortunately, combat ability garners much of that respect. Industriousness and work ethic may allow for greater placement as well, but I wish to work in areas that lack practical use. Therefore, I lack in many regards, so I am looked down upon."
+
+Florence squeezed a hand into a fist, staring at it, "And Helios is not only gifted in combat. He is gifted at efficiency and warping as well. Those are rare skills, and he uses them to the fullest. In those areas, I cannot compare, and in many ways, he is a true mystery to me. I understand most people, but he remains ambiguous."
+
+I felt bad for the guy as he continued,
+
+"I crave his respect for those reasons and more, but Helios has scorned me since birth. It could've been from his upbringing. He is blind, and he was mocked and jeered for that trait many times. Children can be cruel at the best of times in that way. Still, Helios pushed past that disability, and he rose far above those that once taunted him."
+
+Florence nodded slowly, "In many ways, it is ironic. He lives in darkness, yet to many, he shines brightly. For that perseverance in the face of adversity, I respect him more than he will ever know. I wish to one day be able to tell him that."
+
+Florence met my eye, "But my history has left me estranged from my family. Perhaps that is why I'm enjoying my time here so much. This is more a family to me than my own."
+
+He blinked before Florence recognized what he was saying. He swung his head back and forth before saying in a more upbeat tone,
+
+"Excuse me for that. I have no idea why I'm telling you all this. Are you using some of Torix's mind magic on me, perhaps?"
+
+I shook my head, "I think you just needed someone to hear it."
+
+Florence turned to Hod and Amara, "Maybe so. These two are too busy eating mana to even hear us."
+
+They were finishing the mana, neither even aware of us. I raised a hand, trying to change the conversation,
+
+"Ah, now I know a way to make Hod quiet."
+
+Florence spread his arms, "Now that, that is genius."
+
+We spent a few minutes discussing the specifics of the plan, along with arranging a few details. Amara needed a few days to establish herself into the rebel's system, and doing so required her to be on an Elysium ruled world. Getting that done would be a real hurdle to overcome, but we had the people and tools to get it done.
+
+We'd need to save that for another time. I made sure to draft up a few initial thoughts about their plan along with its contents. After sending it to some relevant parties, I took my leave. As I did, Florence scuttled away from Hod and Amara. He caught up to me, grabbing my shoulder,
+
+"One last thing."
+
+I winced, "What's up?"
+
+He scoffed, "It won't be about my brother or family."
+
+I let out a sigh of relief as Florence leaned close, "You must've noticed, but Hod is stricken with Amara, both sides of him, in fact."
+
+I raised an eyebrow, "You don't say?"
+
+"If it may interfere with a mission, then simply deny me this favor. Could you try to keep their assignments intertwined? Amara has yet to relish in Hod's company, but perhaps some time together would change that. I think they'd be lovely together."
+
+I raised my brow, "So when did you become a matchmaker?"
+
+He pulled back, "When I heard how difficult it was for Hod to communicate. You could do this, right?"
+
+I raised a fist, "Yeah."
+
+He gave me a pat on the back, "Thanks. Good luck with Ophelia. She's a handful."
+
+With the situation situated, I made my way to Diesel's place. I passed the bottom floor's elevator, walking through the underground streets lit by lamplight. In his cranny of the cavern, Diesel was leaving home while waving bye to his lady,
+
+"I'll be back in the morning. See you."
+
+She reached out, "Stay safe, and I love you. It's dangerous out there."
+
+"Quit worrying so much...And yeah, love you too."
+
+Diesel reached me before tapping my elbow. It let out a metallic ring, "Besides, this big lug will keep me safe."
+
+Melissa gave me a sharp stare, "You sure? He looks pretty shady to me."
+
+I gave her a thumbs-up, "That's only because its nighttime outside."
+
+Melissa put her hands on her hips, "I can never tell what time it is when we're in here. Both of you, have a good day at work. I'll have breakfast ready when you come back."
+
+We walked off, and I turned to him, "She actually cooks? Woah."
+
+He nodded, "Yeah, she really likes it. Before the change, her family wanted her to be a lawyer. That profession is, uh, a lot harder to come by these days."
+
+Diesel blinked a few times, "It's crazy, but all those years of schooling turned out to be totally useless. I guess it wasn't all bad. She never enjoyed studying for the most part. She has time to raise a family now. You know, make a home."
+
+Diesel shook his head in disbelief, "You know she actually wakes up early so that she can make me breakfast every day? I don't know what I did to deserve her."
+
+I scoffed, "Pshhh, nothing. You got lucky."
+
+Diesel looked forward, "Yeah, you're damn right. I do worry she's sometimes settling. I know she's smart. Very smart. I don't want her to feel like she can't do what she wants because of me."
+
+I lifted us both up, Diesel used to gravitational flight at this point. I shook my head,
+
+"I've seen the way she looks at you, man. She's in a good place."
+
+"Thanks. I'll try to keep my worries outside my work."
+
+"You and me both."
+
+We got to the new work stations, everybody going ham on the golem project. Something about working with all these new technologies got everybody excited, and that fervor saturated the air around them. A pang of jealousy ran up my spine as Diesel joined them for work while I walked off to learn primordial mana.
+
+Duty was a strange thing sometimes.
+
+I floated myself up to Chrona's house, though it was more like a series of landing pads near a rocky cove. When I got there, Ophelia and Chrona were already talking. Chrona kept the conversation going on an opened telepathic wave, so I heard everything.
+
+"Your sculptures are beautiful. I still can't believe you can use them to play music. You're like an ice band or something." Ophelia said.
+
+Chrona flushed, her smooth, silver skin reddening, "What? Stop it. I'm just a hatchling when compared to true masters."
+
+"Do you all just sit around and make sculptures all day? I couldn't imagine someone being better than you already are without an awful amount of practice."
+
+"In all honesty, that isn't as far from the truth as you may first envision. We gialgathens are not an industrious, working species. We grew fat on the espen's bondage, and once that lifeline snapped, our days of leisure ended. Now we work for the Harbinger, and he demands efficiency and labor."
+
+Chrona stared up, "It is no bad thing, I think. I've found joy in my work now, and that isn't something I could say before."
+
+Ophelia leaned over on a table made of rock crabs, "I wish I could do that. I hate working. It's so boring, and none of it seems to do anything."
+
+Chrona tilted her head, "Perhaps you should simply find different work then?"
+
+"Girl, that's what I'm here for."
+
+I hovered over, kind of stunned they were chatting away like this. Ophelia turned to me, saying aloud, "Oh, look who's arrived." Ophelia kicked the table of stone crabs,
+
+"I learned how to use the rings. They look silly, ridiculous, and ugly...but yeah, they work. A deals a deal, so I'm here."
+
+I put my hands on my hips, "Perfect. Let me know if you need anything with them. I can adjust them if they don't work right."
+
+Ophelia leaned onto her hand, looking bored. She lifted her other hand, spraying crabs onto the flattened earth,
+
+"Nope, they work just the way you said."
+
+Chrona wrapped her tail around the crustaceans, picking them up and putting them in her jaws. She crunched down, telepathizing,
+
+"Your generated creatures often taste of sand and bark. These, however, are truly delicious. I've no idea why they are so...lifelike, but the taste is something to envy."
+
+I didn't know whether to be grateful or insulted. Either way, I pointed at them,
+
+"Glad you like them. Let's get this show started."
+
+Ophelia got us ready by introducing me to a few exercises for controlling mana. They involved simple movements of magic that required some technique to get them right. One was clapping two stones. The other was telekinetically juggling them—the last involved making two halos of water, one smaller than the other. I then made them rotate like a gyroscope, one reversing the spin of the other.
+
+That one actually impressed Ophelia. On the other hand, Chrona stayed relaxed the entire time, not worried about warming up at all. I figured I could use all the help I could get, so I finished all the warm-ups. After completing the drills, Ophelia lifted a hand, creating an orb of dark blue mana,
+
+"This is primordial energy. It's a mix of dominion and origin mana, and generally speaking, it's all about absolute control. Origin mana lets you make things and energies. You can't choose the personality of what you create, however. The same could be said for dominion mana. Sure, you can control whoever or whatever you want, but you don't get to decide what you're controlling. It has to already be there."
+
+A sly grin grew under her mask, "Primordial mana doesn't have that limitation. You can craft the mind you want to make then put it in the body of your choosing with this stuff. Some people have a natural affinity for it as I do. Other people want to come in and learn it, kind of like you."
+
+She frowned, "Yeah, that doesn't work out often."
+
+I lifted my hands, creating spheres of quintessence and ascendant mana above each,
+
+"Eh, it worked twice."
+
+Ophelia propped her weight onto one leg, "That doesn't mean it will work a third time. Either way, it's going to take a few years to really get this down pat, but I'm only going to stay here for three months. After that, you're on your own. Capeesh?"
+
+Eh, that seemed fair.
+
+Ophelia clapped her hands, "So we'll start with a few conceptualization exercises my teachers taught us in school. After that, you'll be meditating on your own for a while. You know, reflecting on what you learned and stuff."
+
+Ophelia gestured to Chrona, "Since you have two primordial masters here, we'll both be giving you tips and tricks. That should help even if you're as much of a knucklehead as I think you are."
+
+Chrona turned to Ophelia, and the gialgathen thought over,
+
+"He's far more able than you may first imagine. I was put off by his fighting and appearance at first as well. I learned the folly of my ways, and now I serve under him. You may as well, one day, so I'd advise watching your words."
+
+Ophelia pointed at Chrona, "Yeah, not gonna happen, but thanks for the advice either way. So, I'll start by letting you know what I thought of to make primordial mana the first time. For me, it was envisioning a simple concept - parenting."
+
+Parenting, huh? I wasn't following, but I didn't interrupt her lecture.
+
+"Yeah, I know what you're thinking, 'What? Parenting? That's ridiculous. I need magic to blow stuff up.' That's what I think you're thinking, at least. Either way, think about it like this."
+
+She lifted a hand, origin mana appearing over her palm, "Origin mana is like...a free-spirited, go with the flow mom. She doesn't think about the consequences and just lets go of all her worries and cares."
+
+She lifted her other hand, dominion mana spawning over it, "Dominion mana is like the stern father, and he really, really cares. He wants to make sure that his child is successful, and he controls his child's environment until that happens. Some might say he's tyrannical, and maybe he is, but he just wants what's best for his child. Well, if it makes him look good."
+
+Ophelia pushed the mana orbs together, "And that's where primordial energy comes in. Those two parents, they balance each other out. Primordial mana wants the very best for whatever it makes, but it doesn't want its creations going crazy either. When I make primordial mana, that's what I think of myself as, two insane parents that come together in perfect harmony."
+
+Ophelia shrugged, "Thats just me. What about you, Chrona?"
+
+Chrona looked up at the stars, "Primordial mana? Hmm. I think of it differently. We gialgathens have little time with our parents as we are powerful the moment we leave our egg. That analogy was lost on me."
+
+My dad was a real piece of work, and my mom passed away when I was young. The analogy was kind of lost on me too. Chrona thought out loud,
+
+"This mana, it is a way of crafting my own world. I can build whatever I desire with it, and that is its true essence. It is the mana of a creator, one that wishes to craft their own world in their palm. It cannot be any world, but one that you truly wish for."
+
+Chrona met my eye, "How you wish to enact your ideal world is important, however. You must think of making an environment you want, not changing yourself to suit what's around you."
+
+I frowned, "Man, these are tough examples to go off of. If something doesn't work out for me, I don't like blaming my circumstances. It makes me feel helpless, and I'd rather blame myself, even if it wasn't my fault. At least I can change something then."
+
+Chrona lifted her tail, pointing at me, "That's precisely my point. You must understand that your surroundings are under your control, even if only feebly. A primordial mage grips at those connections and uses them to their fullest potential. Eventually, those feeble beginnings may blossom into absolute control, over time."
+
+Ophelia looked up at Chrona, "Hey, that was really well said. You should do this for a living."
+
+Chrona shook her head, "I know of a professor, and his life is not one I wish to emulate. I'd rather focus on my music, sculpting, and sparring. Those pursuits sustain me."
+
+Ophelia nodded, "Girl, I totally agree."
+
+Chrona must've been talking about Torix. I guess his workload was pretty severe when compared to most. Thinking about their lessons, I sat down with my legs crossed. I rolled my shoulders, closed my eyes, and took a deep breath. As I went into a zen state of mind, Ophelia went back and sat down on her table of interlocked, stone crabs.
+
+She pulled out her obelisk, scrolling through something similar to Facebook. Chrona wrapped her tail around herself, setting her head on it. She got in a little cat nap as I began my practice. To begin, I envisioned something like the parents Ophelia mentioned. I thought of my mom, and I couldn't remember her face.
+
+A pang of guilt sliced through my chest, and I winced. I wished my skills and enhanced memories worked for older events in my life. I ended up moving on to my dad. Anytime I brought him up in my mind, a fight or flight response kicked up. I tightened my hands, my knuckles prominent on my fists.
+
+A deep, built-in fear sprung up from just remembering the guy. He was a complete asshole, and his ego needed so much pampering that it might as well have been royalty. If he wasn't belittling someone else in a conversation, he considered the other person an enemy. I never wanted to be like that.
+
+Yeah, the whole parent thing wasn't going to work out.
+
+I moved on, trying out Chrona's method. The first step involved trying to think of something in my palm, a world perhaps. I expanded my awareness around me, mana siphoning from my furnace. Without my other senses bothering me, I viewed the world through mana.
+
+Wielding that mana, I tried to bend the world's mana instead of my own. It rejected me utterly, the foreign entity resisting my control. Rolling my shoulders, I tried again. Bending nature by using my own energy took little effort, but actually enacting orders to it without using force, that was something much, much harder.
+
+After a dozen attempts, I took this as a personal attack. At this point, the universe might as well have been mocking me. I wasn't about to let it win. Over and over, I attempted to grasp this external mana. Over and over, I failed. It became a point of contention and doubt for me. Was wielding primordial mana even possible for me?
+
+I mean, Chrona wielded the space around her to warp time. Ophelia grafted external mana sources with minds to do her bidding. I only used my own energy, and everything else was cut off. I facepalmed. That's right. I was a dimension. Instead of grasping at this other universe's mana, I grabbed at my own.
+
+It shifted, bending with fluid grace. The colors of it turned into black, blue, orange, red, and white. The shifting expanse danced around me, pleased to be of use. The sheer difference in pliability was like steel and stone versus playdough and puddles. One resisted with an iron will, and the other shifted to the touch, resisting little if at all.
+
+It didn't seem like primordial mana, however. It was just me bending the mana I made to my will like normal. After a bit of brainstorming, an idea popped into my head. Using my furnace, I gave it a jolt of mana. It was enough to make another one of those mindless monstrosities. Once it formed, I wrestled with the arcane beast until it submitted to my will.
+
+After doing so, I expunged the thing from my body and mind. A jinn of sorts spawned, one of chaotic temperament and with a destructive nature. It remained formless, invisible to other's eyes. I reached out a hand, ensuring a telepathic link remained between us. That connection served as shackles so this thing couldn't run wild.
+
+With an experimental monster in front of me, I began molding it. It resisted at first, not wanting to take a form. It was kind of like a baby crying right after birth. It didn't want to experience the dramatic shift that came with coming to life. Despite that, the spirit yielded to my tampering eventually after I bribed it with some mana.
+
+That was a useful trick I learned from Hod and Amara. Who knew how helpful it would be in the future.
+
+At first, the jinn's mind and body had no form whatsoever. If anything, the only reason it even maintained a form was that I held it together. Otherwise, it was eager to spill out into the world around it. I needed this damn kamikaze to have a survival instinct so that I could work with it on any reasonable level.
+
+That goal guided me as I attempted to make a mind with origin mana. A random, primitive entity spawned. Calling it a conscious would be an insult to the word but a compliment to this primal being. It worked for now. Planting this baseline series of thoughts, I swelled the jinn into the mind. The tiny entity went insane, the little being unable to handle the onslaught of madness.
+
+As it died, I frowned. Man, working with this kind of magic was for the cold-hearted. I'd have to be the same. I settled myself down, steeling myself for what was to come. This experiment repeated several dozen times, and I kept at it since creating a raw consciousness was beyond me. Using the mana from the furnace would skip a lot of steps, and it worked with my temperament better anyways.
+
+The restless furnace spirits would act as filler for the tiny beings I made. Once grafted together, I could bend the Frankenstein minds into what I wanted. It was hard, arduous work, however, and I showed no talent in this. As my progress stalled, I kept at it despite the natural resistance I was facing. I didn't want to quit now.
+
+This was the most opposite kind of work I was used to as far as magic was concerned. Struggle, plateaus, and difficulty came with the new territory, so I took it all in with a smile. Once more, this was a fight I wanted to win. If I came out bloody and beaten on the other side, then that was a price I'd pay willingly.
+
+And pay I did. Creating tiny, helpless minds and killing them took its toll on me. I splintered their souls, taking my time to try and make the assimilation work. This kind of tampering suited Torix, but it made me want to vomit. At the same time, this kind of price was something I expected. Primordial mana was ugly, and that meant something equally unsettling would be required to make it.
+
+I resigned myself to this strange part of magic as I continued, on and on.
+
+By the time morning arrived, my frustrations mounted. It reminded me of what I tried doing before with Chrona, the process just not budging no matter how hard I worked. I took a deep breath, pretending all of my anger and negativity was pooling in my chest. As I breathed out, I let all that irritation go.
+
+Feeling lighter, I stood up before cracking my neck. The sound echoed a bit, waking Chrona up from her nap. Ophelia didn't hear at all since she left hours ago. She did what I needed her to do, so I wasn't precisely sour about her spending her time elsewhere. My remaining mentor didn't waste much time either, and she rubbed her eyes with her tail as she said,
+
+"Ah, Daniel, it's good to see you. Did your mental exercises pay off?"
+
+I shook my head, "Not yet, and I expected as much. Sometimes, things are hard and difficult. This happens to be one of those times."
+
+She grinned, "Persevere then, as you always have."
+
+I smiled back, reaching out a hand. I made some cool mist around Chrona, and she laughed,
+
+"Hah, thank you. Your planet's not as humid as Giess. This reminds me of home."
+
+"That's good. You've got a few more days off, so soak them in. We'll be fighting in a new world soon."
+
+"Then I will be ready when that time comes. Good luck."
+
+I left her sleeping, the silver gialgathen adjusting to Earth quickly. As I passed by the golem work stations, work died down, the engineers tired from a long night's work. I picked Diesel up and dropped him off, the guy less talkative than average from sheer exhaustion. He yawned in front of his house, waving goodbye,
+
+"That was a long day. We've got a lot left to do."
+
+Leaving him, I remembered the other half of Ophelia's job. This next night, I intended to let her know when I had enough tips to work on. Once that point was established, she'd have to go to the workstations to help out.
+
+I sent that message to Ophelia before I forgot. With the details handled, I sat outside of my suite, a sort of stone porch available to me. I channeled mana with my furnace, and the energy coursed through me. I fell into the same kind of meditation, my mind centered on progress. Ignoring everything around me, this continued for an hour.
+
+Interrupting my trance, Torix arrived before anyone else awakened. He stomped up to me, his hands raised,
+
+"Daniel, you must answer the messages I send, else there's no reason for a messaging system whatsoever."
+
+I shook my head, standing up, "Sorry. I was working with my furnace. What do you need?"
+
+He raised his hands, his entire being radiating alarm, "There's something of importance I must tell you. Don't panic when I do."
+
+I opened my eyes, my concern mounting, "Just tell me Torix."
+
+"I...I believe that Elysium has found Earth."

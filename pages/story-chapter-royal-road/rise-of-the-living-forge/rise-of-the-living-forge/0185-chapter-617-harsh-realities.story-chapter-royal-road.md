@@ -1,0 +1,149 @@
+---
+id: 308e52a8-2415-5d45-8d95-d4b6d4509e54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 617: Harsh Realities"
+slug: 0185-chapter-617-harsh-realities
+partOf: rise-of-the-living-forge
+position: 185
+ownLength: 1933
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3612438/chapter-617-harsh-realities"
+royalRoadId: "3612438"
+---
+
+Life returned to normal.
+
+Well, to about as normal as life ever got for the Menagerie. The street was as lively as it always had been when the following morning dawned. Everyone got back to doing whatever they’d been doing before the Beast had come. Lillia worked the kitchen. Arwin returned to the Infernal Armory along with Wallace and Koyu. Ida got back to work within her own smithy, confidence more than a little bolstered by the success of her first project.
+
+Reya and Olive went off to spar with Kien. Art and Vix were nowhere to be seen, as were Rodrick and Anna. Elias and Maeve headed to clear out a dungeon for practice and to get more supplies. Monica stood guard over the Devil’s Den, while Thane and Vanessa joined Esmerelda back in her shop.
+
+As for the Beast — he and Uriel went off somewhere. Arwin wasn’t sure where. He wasn’t sure he wanted to know where. As long as they stayed out of too much trouble, it didn’t matter. It was probably best that the Beast didn’t linger too close to them too often.
+
+There were still a few things that Arwin didn’t want to share with the immortal man. Strangely enough, the truth about his and Lillia’s identity almost felt like the smallest of the secrets they kept.
+
+Time went on. One day ended and slipped into the next.
+
+Instead of barging ahead into his next project, Arwin spent the time planning. There were still a lot of suits of armor he wanted to make for the rest of the Menagerie. But the best way to accomplish that would be to carefully lay out their plans and then methodically execute them.
+
+And as the days went on, their street only grew more lively. Ridley finished his upgrades on the surrounding buildings. What had once been a ruined mess that only a fool would have thought not to be haunted was now actually becoming one of the biggest cultural hubs in Milten.
+
+Thane reported to Arwin that their street was actually pulling in more traffic than the main market area — and by a wide margin. Adventurers were coming from surrounding towns specifically just to visit them. Initially, it was to try to get a chance to buy some of the scrap gear and test items that Arwin didn’t deem worthy for the Menagerie and put out for sale. It was for that or to taste Lillia’s increasingly famous cooking, which was now very clearly providing significant magical boons in combat.
+
+But that wasn’t it anymore.
+
+Anna still ran her healing station whenever time permitted her to. That drew droves of people entirely on its own.
+
+Ida had also started selling some of her own work. Not much, but the street had enough attention that it immediately drew eyes. Esmerelda managed to pawn off one of her devil weapons on some poor bastard as well — which magnified the foot traffic by a fairly significant amount when people realized that there were, in fact, more than just 2 stores on the Menagerie’s street.
+
+Street vendors started to show up around the edges of their land. None of them were bold enough to set up on the Menagerie’s property itself. Koyu’s cold gaze warded off anyone that tried to get a little bit too plucky. But the alleys at its limits quickly became hotspots for baked goods and other artisans trying to get eyes on their work.
+
+Arwin didn’t mind it in the slightest. The environment was nice — and it wasn’t like Lillia was at any risk of losing customers. Her food was better than anything that anyone else in Milten could make. The Devil’s Den only had so many seats. If anything, the increased number of options was helping de-clog the street slightly. People were more dispersed simply due to the increase of options.
+
+None of the newcomers were quite interesting enough for Arwin to look to recruit. But, admittedly, he was a little more focused on crafting. His current goal had narrowed down to creating a sets of armor for Kien and Vix. Out of all the members in the Menagerie, they were the ones most likely to be close to a fight and didn’t have anything special yet.
+
+He wanted to make something for Reya as well, but she had the bracer he’d made a while ago. That item was a Soul Weapon, so she wasn’t in the most pressing need of extra defenses yet. And since Vix was an assassin, the one amongst the three that was the most likely to get hit was Kien.
+
+Even though the stoic man would probably never ask for anything, Arwin still set his mind on finishing his armor first. And there was one more item he’d promised to make that was at the forefront of his mind as well.
+
+Koyu’s Soul Guardian.
+
+At this point, he’d refined the technique more than enough. He was getting pretty confident that he had the skill to make something that the former lich could inhabit. But Koyu didn’t seem to be nearly as much of a rush to escape as he once had been, which meant Arwin could take his time to really ensure the body he made would be suitable.
+
+The days slipped by, turning to a week.
+
+A part of Arwin kept expecting the Guild to show up. But, strangely enough, they didn’t. Rodrick was keeping tabs on Milten. He reported in on it every night over dinner to keep everyone at ease. And that was definitely good news. Not having to deal with the Guild yet was nice. Having some time to just work was a huge boon.
+
+But the question just couldn’t leave Arwin’s mind.
+
+The Guild definitely had to be wondering right about now. They’d held a massive auction — one in which they’d wanted someone eliminated badly enough to send the Beast. And then the Beast had vanished. That couldn’t have been something they’d simply overlook.
+
+But they hadn’t sent so much as a scout to try and figure out the situation. And even though Arwin trusted Rodrick completely, he couldn’t help but feel like there was a small chance they were missing something. It simply didn’t make sense.
+
+Why would the Guild let someone they view as a powerful tool like the Beast simply… leave? And why wouldn’t they be investigating us more at this point? Do they really feel no threat at all coming from us? Or have they found a way to keep an eye on what we’re doing without any of our knowledge?
+
+***
+
+Alrich drummed his fingers against the armrest of his plush, padded chair. It didn’t feel nearly as comfortable as it had back when he’d first joined the Adventurer’s Guild.
+
+Not even close.
+
+The faint flicker of lantern light danced across his room to illuminate the large board before him. Towns and valleys and rivers dotted it, each model crafted meticulously. A perfect scale re-creation of the entire Kingdom. One of the several dozen that the Guild had.
+
+Apparently, it had taken a master craftsman years of work to make. Getting a perfect map of every part of the kingdom — including the territory controlled by the Monster Horde — had been a painful experience.
+
+This scale map was one of the originals. There were a few more replicas that had been made in recent times, but none held up to the first set. Alrich supposed that made sense. The craftsman that had made the original maps was dead.
+
+The Guild had been forced to remove him. After all, he’d ben given information about the Monster Horde’s land. The moment he started asking about how they’d gotten such detailed knowledge would have caused a whole host of problems. Removing him after he’d finished his work was the safest move.
+
+It was the move that benefitted the world.
+
+Nobody could know the truth.
+
+The Guild kept things running for the sake of everyone. That was their purpose.
+
+They were heroes.
+
+Even if nobody could ever truly know what it was they did.
+
+That is… if we can keep things going.
+
+Alrich shifted in his chair. The plush padding just wasn’t enough to keep his back from hurting anymore. He’d been staring at the scale model for hours, now. And it wasn’t giving him any answers. The reports he’d been getting from his subordinates weren’t adding up.
+
+Numbers were wrong.
+
+Some of their spies weren’t reporting back.
+
+Several of the Masks had gone missing.
+
+Necrohammer had absconded, taking with him all the research on the daggers that they had paid him to create. Their agents had yet to find him. The Beast had broken free of his chains and run off to do only the Mesh knew what.
+
+Margins for the Deepmind weren’t being met. Their stockpile of magic was running lower than it had in hundreds of years of records. Unrest was rising all throughout the kingdom. A dozen different guilds that they never would have allowed to exist just a few years ago were now thriving.
+
+And the Guildmaster had done nothing.
+
+Alrich could swear he felt the walls closing in around him. His finger was twitching again. It had never done that. He gritted his teeth, forcing his hand to clench into a fist.
+
+We can’t control all of this at once. Not as things are right now. This whole Cycle has gone awry. I don’t know why the pawns have already started to figure things out so early. It’s only been months since they were moved from reserves into active duty.
+
+What is going on? It can’t be the Mesh. If it knew—
+
+Alrich didn’t let himself go down that path. He couldn’t allow it. There was no room for hypotheticals. Everything the Guild had worked to build was on the line. All the lives that they fought to protect depended on their continued existence.
+
+The Guildmaster must have been planning something big.
+
+That was the only explanation as to why he hadn’t acted yet. And the Guild was going to need something big if they wanted to keep the kingdom from tearing apart at the seams.
+
+It’s up to me to buy time for him.
+
+Alrich’s gaze swept over the table. Hundreds of different issues, each one growing rapidly. He couldn’t have culled them all if he’d wanted to. There weren’t enough Masks to send out. There was no way to deny that the reigns were slipping from their hands.
+
+The horse was going to have to be kicked.
+
+Alrich stared in silence for several seconds.
+
+There weren’t many options left to him. Not without the help of the Guildmaster. But he was 2nd in command. Duty rested upon his shoulders.
+
+Just as it had for the past three hundred years.
+
+His jaw ground shut.
+
+Sacrifices would have to be made.
+
+The kingdom had become too peaceful. It was letting people poke their noses where they didn’t belong.
+
+That would have to change.
+
+I never thought that I would be the one who ushered in the next age.
+
+Alrich rose from his chair. He stood for a moment, staring down at the board.
+
+They were going to need to update it. When he was done, most of the towns on the map wouldn’t be there anymore.
+
+On the day that I stand before the gods for judgement, they will understand.
+
+I did this for the good of all.
+
+Then Alrich turned and strode from the room.
+
+He was going to have to bargain with the Deepmind.

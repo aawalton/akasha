@@ -1,0 +1,331 @@
+---
+id: 2e140b3b-cf94-5f79-ba5b-155793f03a75
+page-type-slug: story-chapter-royal-road
+title: "522. The Primordial"
+slug: 0079-522-the-primordial
+partOf: salvos
+position: 79
+ownLength: 3333
+unit: words
+publishedAt: 2023-03-21
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1144805/522-the-primordial"
+royalRoadId: "1144805"
+---
+
+522. The Primordial
+
+The world changed.
+
+The Devil’s domain shimmered, then shifted. It rapidly spun and changed shapes, turning from a dodecahedron to a diamond to an incomprehensible form in space— a tesseract.
+
+I watched as the black hole winked out of existence. The light from its accretion disc vanished, and the floating mundane objects hovering in stasis melted away. I stumbled back as if the ground at my feet was moving without me, then I raised my head at my dad.
+
+Sal just looked on as the fractal walls of this pocket spaced flashed with iridescent colors.
+
+“What’s going on? What are you talking about? What are you showing me?”
+
+I tried to steel myself, but a powerful force kept me back. I was pinned against the wall, gritting my teeth as my wounds flared. But the Devil was hardly affected by this— he stood at the opposite side of the shifting room, his hands clasped behind his back as he stared into a void of nothingness.
+
+“You are nothing, Salvos.”
+
+“What?”
+
+I blinked, still not understanding what my dad was saying. He spoke callously, not even turning his head to face me. The pocket space continued to move, and I caught a glimpse of the world beyond this room as its walls flickered. In that vastness of everything, I saw nothing.
+
+There was nothing there.
+
+Nonexistence. Emptiness. No black hole, no frozen trees, and no falling stars. There was no light; there was no darkness. I couldn’t perceive anything beyond the Devil’s world— not even with my spatial senses. My mind couldn’t comprehend it. It was like I had lost my ability to even see when I stared into that void.
+
+And finally, a set of words flashed in my head.
+
+Now Leaving [Nexeus].
+
+Suddenly, my body grew extremely cold. I lost sense of my fingers, and my legs went numb. It was like I was thrust into the deepest depths of the ocean— only to be yanked and thrown into the sky where the stars hung high. The world wheeled around me as I tried to regain my bearings, and I barely managed to cast my gaze towards my dad.
+
+“Where are we going?”
+
+I asked as a trickle of fear ran down my back. Sal didn’t answer the question. He merely continued speaking, shaking his head.
+
+“You claim to be special. You waltz around, praising yourself just because you’ve become a Lesser God. But in the vastness of the multiverse, you have accomplished nothing.”
+
+“The… multiverse?”
+
+I stared at my dad. I grimaced, trying to pull free from the pressure exerted against me. I managed to stake a step forward, grunting.
+
+“How are we— oof!”
+
+I was sent flying as the pocket space came to a halt. I crashed right before my dad, and he glanced down at me with a dismissive gaze. He turned around as I rubbed my head in pain. He spread his arms wide and gave me an eerie smile.
+
+“Look at it, Salvos. Do you see it?”
+
+I stumbled to my feet, before pausing. My brows snapped together as I looked up past my dad. He gestured to the world around us, and I pursed my lips.
+
+“I… still don’t see anything.”
+
+I tried narrowing my eyes— focusing on the glass-like panels of this pocket space. But once again, I saw nothing beyond. It really was empty. An endless abyss that made me shiver just from staring into it.
+
+Sal peered at me, before chuckling. He shook his head as he sighed.
+
+“Of course not. And that is proof you are still nothing.”
+
+I glanced back towards the Devil as he raised a hand. I opened my mouth to protest, and he snapped his fingers. The fractal world flashed. The iridescent shimmer returned briefly, only for broken shards to flit down towards him. They circled around my dad as he pointed at me, and I reeled.
+
+“You can’t see it because you are weak.”
+
+The first of the shards flashed. A fogged image shimmered into existence on the glass-like surface. It shot past me, and I saw—
+
+A witch knelt before the ruins of a city. She could not have been more than twelve years old, but death and destruction surrounded her everywhere she turned. Corpses upon corpses strewn about the rubble and ash as a looming shadow approached her. Tears streamed down her eyes, and she cried out in pain.
+
+I blinked. For whatever reason, that young girl looked familiar. But I knew that she was not even from my world. It was completely different from my world. Even though it was an image, I sensed… almost no magic there. Like magic had died, and only the lingering flames of the arcane remained.
+
+“Who…?”
+
+I started, but the image shifted, then vanished. The shard shot back towards Sal as he strode towards me. My dad shook his head.
+
+“You have no ambition.”
+
+A second shard flew my way as I stumbled back. Another image flashed, and I squinted at what it showed as it shot past me.
+
+A cultivator stared up at a golden nimbus cloud. Her jade green hair was tied into a long braid, and she leapt up into the emerald sky. Lightning thunder around her as she laughed, tugging at the world’s essence to do her bidding.
+
+Again, the shard returned to the Devil as he came to a halt before me. His gaze bore into me, and I nervously backed away.
+
+“Why are you showing—”
+
+I started, but he just flicked a finger. More shards shot my way as I flinched from each of them. My eyes darted from screen to screen as various images flashed before me. All the while, Sal just spoke acidically.
+
+“There is an infinite number of universes out there, my dear daughter.”
+
+I spun around in a daze, trying to keep track of everything the Devil was showing me.
+
+A teenage redhead marched through the streets of an empty city.
+
+“There are worlds you could only ever imagine.”
+
+His words echoed in my head, and I recoiled. I staggered back as my senses were overwhelmed.
+
+A slime poked herself in the middle of a dark cavern.
+
+“There are places beyond the Nexeus you wish you could visit.”
+
+I caught myself from falling, but the dizziness refused to fade. I clenched my jaw just to remain standing before Sal as the images didn’t stop coming.
+
+A turtle lay at the bottom of the sea, hiding from the creatures lurking beneath.
+
+“But you are no worldwalker. You are no planeshopper. You are no realityskipper. And you certainly are no one special.”
+
+A hero stood alone atop a broken moon. Space warped around her, and time refused to work. Her eyes flickered, darting towards the screen—
+
+And the images vanished. The final image shard past me, now showing nothing as I dropped to a knee. It was like my dad’s words themselves were hurting me. However, I knew it was my perception being overloaded by these worlds I could hardly even comprehend.
+
+The shards shattered, and I tried to get back to my feet. The Devil smirked as he looked at the way I was swaying back and forth. He caught me from falling, holding me up. I looked up at him as he chuckled.
+
+“Come now, my dear daughter, are you still going to tell me you are someone special?”
+
+I tried to work my jaw, but he took a step back, gesturing wide towards the glass-like walls of his pocket dimension. Everything shifted, and an image flashed over the walls. Like we were now hovering in another world.
+
+“Why do you matter when there are True Gods out there capable of creating entire universes out of nothing?”
+
+Sal’s voice boomed as his pocket space shook. But the trembling came from beyond his words. I stared past him with round eyes at what unfurled before us.
+
+A man sat in a white world. An empty world. A blank canvas expanded all around him, but he didn’t move. His golden locks held still, and his eyes remained closed. He raised his head—
+
+And the Devil’s pocket space cracked as the image vanished. I yelped, nearly falling back. What… how— My hands quivered, and I let out a breath I didn’t know I had been holding. I was shaking just from the sheer presence of that lone man. My dad laughed maniacally, still holding onto me.
+
+“There are beings who have amassed armies that could trample over the forces of the Demon King, the Spirit Lord, and Humankind combined!”
+
+He gesticulated wildly as a new image flashed into existence around us.
+
+A metal world jutted out of the ground. There was no sky above— no darkness and no clouds. A dome of nonexistence fell upon this vast sphere, and countless figures poured forth. Only a single figure stood unmoving. A being made of metal craned his neck towards the cracked pocket space. His army suddenly paused, before mechanically turning towards us all at once. They charged our way—
+
+And Sal snapped his fingers. I blinked as the world beyond faded away once more. I slowly processed what just happened, before looking back at my dad.
+
+“Were they going to kill us…?”
+
+The Devil smiled at me with a crazed gaze as he nodded.
+
+“Indeed, my daughter. We would have died if we hadn’t left when we did.”
+
+“But you’re the Devil—”
+
+I tried to protest. But Sal silenced me as he clamped my jaw shut.
+
+“And I am nothing as well.”
+
+Once again, there was a flash of light, revealing another world I had never seen before.
+
+Figures waited in the darkness. Alien beings that wore no uniform form, surrounding a large table. Some had tendrils for limbs, while others had tails. Only a single one of them was standing— a lizard-like man with green scales. None of them reacted to the appearance of the pocket space. After all, their gaze had already been fixed on us.
+
+It was like they had somehow anticipated our sudden appearance. I gaped at them, and the scene changed.
+
+“There are those out there who have conquered many worlds.”
+
+Sal spoke as he let go of my jaw, swiping at the screen. The world spun as if we were flying through space, before we abruptly came to a halt. I stumbled forward, kneeling against the glass-like floor. I looked down through the transparent ground and once again saw a different world.
+
+An ashen-skinned figure admired the roots of a giant tree. It spread throughout the vast cave chamber, and an army waited behind him. He closed his eyes, cursing as he tightly clutched onto a single leaf.
+
+I waited for someone— anyone— to react to us. But nothing happened. I frowned, getting back to my feet as my dad sneered.
+
+“And there are those out there who have only conquered their own world.”
+
+The Devil simply waved a hand dismissively as the world changed. I looked around, watching new worlds unveil themselves to me. Places that didn’t seem real— where the logic of Nexeus didn’t apply. But they were real. They existed. Somehow.
+
+“The multiverse is a vast place, Salvos.”
+
+Sal cackled as he led me through universe after universe. I stared silently. I said nothing. I could only look on at these impossible worlds, at a loss for words. I just listened as my dad sighed reverently.
+
+“It holds nightmares, and it kills dreams.”
+
+Depraved creatures toiled in the darkness. Dead things. That which existed where there was no existence.
+
+My eyes flickered, and Sal continued.
+
+“The Nexeus you know is small compared to what waits out there.”
+
+An expansive grassland spread out in all directions. An overcast sky. But nothing else.
+
+I watched as my dad shook his head, before changing the scene. He turned to face me, and I stared with wide eyes at what waited below.
+
+A blue planet spun to face me. It held billions of lives in it— humans that wore strange clothing. Cities touched the skies, and large metal carts moved without horses. There was no magic here. No monsters, and no miracles.
+
+“There are worlds out there that defy everything you’ve ever known. And you have only seen a fraction of it all.”
+
+The Devil finally let go of my hand as the image disappeared. I waited for the next world to show itself, but it never came. I looked towards my dad as he folded his arms
+
+“I am Sal the Devil. I am your father. A Primordial Demon— one of the few left in the Netherworld. But even I matter not.”
+
+He closed his eyes, standing before the canvas of nothingness. His pocket space shimmered as the crack recovered. And color began to return around us. A familiar crimson glow appeared.
+
+I narrowed my eyes. Sal just whispered.
+
+“I am neither the oldest being in Nexeus, nor am I the strongest.”
+
+I looked down at a nostalgic white landscape. It was the Netherworld. But it must have been a part I had never been to before. I saw a massive gulf scarring the earth, and a figure rose from its slumber.
+
+It had dozens of heads, each wearing the face of a different serpent. It stood on four clawed legs, and breathed out a streak of gray flames. It roared, devastating the landscape as [Hellabominations] fled its destruction. It was… it was…
+
+“The Beast.”
+
+Sal shook his head, and slowly uncrossed his arms. I looked back towards my dad as he raised a finger to point at me. And he posed a question I couldn’t answer.
+
+“There are those out there who are destined for greatness. But you? How are you like them? Why do you matter?”
+
+Behind him, the Beast continued ravaging the Netherworld. It didn’t take notice of us. Of course not— we were still hiding behind my dad’s pocket space. He stared at me, waiting for my response.
+
+But I just stood there quietly, completely silent. I tried to think of an answer, and nothing came to mind. I was still shaking— I couldn’t believe what I had seen. Those sights were beyond anything I had ever expected to see. Yet, they were real. Just as real as me. And that was terrifying. I took a deep breath to steel myself— and paused.
+
+I looked down, seeing a trembling movement. My eyes narrowed as I stared at the Devil, pointing at me with quivering hands. I snapped my gaze up to see him panting. His entire body was shaking. He could hardly even catch his breath. He was… he was…
+
+He was scared? No— that wasn’t right. I had never seen my dad like this before. I had seen him nervous and worried, but this wasn’t it. This was something else.
+
+The Devil was completely terrified.
+
+Even he looked on at the multiverse and quaked in fear. So what was wrong with being afraid? There was nothing bad about being scared— it just meant I knew how to choose my battles wisely. And, maybe, if a battle was too hard for me to overcome, I would flee and return later when I was stronger.
+
+Sal waited for my answer, pressing me with the question.
+
+“Do you still believe you are special now?”
+
+I closed my eyes and thought about it. I had my answer now. It came to me as simply as any other thought. I exhaled deeply, before raising my head. I met the Devil’s gaze and answered.
+
+“Yep.”
+
+That made Sal pause. He blinked at me a few times, and I just looked past him towards the Beast in the distance.
+
+“You say I’m not special because I don’t matter in the multiverse, right? I don’t even matter in my own world, so why would I mean anything in the worlds beyond?”
+
+“...correct.”
+
+The Devil nodded, eyeing me suspiciously. He spoke slowly.
+
+“You are nothing, Salvos. That is why you do not matter. That is why you are not special.”
+
+I shook my head with a scoff.
+
+“But I am something— I believe I am something. And if I want to be something, I just have to prove it, don’t I?”
+
+“Prove it… how?”
+
+Sal stared at me, both a confused and amused look worn on his face. He had stopped trembling— the fear from before was gone. Now, he was merely curious about what I had to say. I just waved a hand off and smiled.
+
+“Well, I guess I can start with becoming the strongest in the Nexeus. That means something, right?”
+
+And that made the Devil’s jaw drop.
+
+“What?”
+
+He briskly walked up towards me, gesturing towards the Beast in the distance.
+
+“Do you really think you can defeat the—”
+
+But I cut my dad off, rolling my eyes.
+
+“I’m not gonna become the strongest immediately, of course.”
+
+He paused, watching me as I shook my head. I stared at the Beast, then at the hordes of fleeing Demons.
+
+“I’ll work my way up there slowly. It’ll take time. But I can get there eventually.”
+
+The Devil furrowed his brows at me. He tilted his head as I crossed my arms.
+
+“It will not be easy, Salvos.”
+
+“I am aware.”
+
+“It will be incredibly dangerous.”
+
+“Yep. That’s about what I thought.”
+
+I replied as soon as my dad spoke. He cocked his head back, rubbing his goatee as I grinned back at him.
+
+“And if you die?”
+
+I shrugged in response.
+
+“Then I die.”
+
+There was a moment where neither my dad nor I said anything. And I paused. I thought about his question for a second longer, before looking down at the palm of my clawed hand.
+
+“But I will die as Salvos. Your daughter. A Demon. A companion to Haec, Daniel, Edithe, Saffron, Willy, and Orgaf. And I am the mother of Novis, Bellum, and Oriur.”
+
+Sal’s eyes grew wide as I spoke, listing out the names of those dearest to me. I placed my hand on my chest and finished.
+
+“I will die as me. And that’s all that matters to me.”
+
+My gaze bore into the Devil. He looked at me, utterly speechless. I lowered my head, looking down at myself as I whispered.
+
+“But I won’t die. So that doesn’t really matter.”
+
+“I…”
+
+Sal trailed off. He just stared at me, befuddled and bewildered. He frowned, placing a hand on his chin. He raised a finger, before throwing his head back and chortling.
+
+“That audacity— that arrogance. You will become the strongest in all of the Nexeus?”
+
+Sal laughed and laughed and laughed as I snorted.
+
+“I am being serious.”
+
+“I know.”
+
+He wiped the tears from his eyes before waving a hand in the air. His pocket space moved, soaring far past the Beast. We continued flying through the Netherworld as the Devil chuckled.
+
+“Very well, my dear daughter. I hear you. I will not belittle your dreams.”
+
+He continued spinning pocket space around, rapidly crossing over vast swathes of the white landscape. I raised a brow as we came to a halt right before a dark sea. He took a step back and smiled at me.
+
+“As your caring father, I will help you fulfill your dream. Come, and let us see you become the strongest in all of the Nexeus!”
+
+He clapped his hands together, and I raised a hand.
+
+“Wait, I need to [Rest]—”
+
+I started, but the glass-like floor beneath my feet vanished. I fell from the Devil’s pocket space, tumbling down away from him.
+
+“Good luck, my dear daughter.”
+
+I could hear my dad’s words echoing in my head, even as his pocket space began to fade away. Like it had never been there. But as I looked up at the crimson sky, and fell into a familiar black ocean, I heard something else echoing in the distance.
+
+Now Entering [Nexeus: Netherworld].
+
+And with those words, I was finally back in the Netherworld.

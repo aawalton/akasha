@@ -1,0 +1,179 @@
+---
+id: b192f3e4-bae6-53db-8e6b-fc2e5a438a38
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED THIRTY-THREE: Here-to-There XIII"
+slug: 0235-two-hundred-thirty-three-here-to-there-xiii
+partOf: super-supportive
+position: 235
+ownLength: 2063
+unit: words
+publishedAt: 2025-07-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2467141/two-hundred-thirty-three-here-to-there-xiii"
+royalRoadId: "2467141"
+---
+
+233
+
+******
+
+Olget regretted it.
+
+The shenav was a warm tongue laving his brain. It was twenty fingers moving softly against his belly and along his spine. His brother had made a show by overspending on gifts for people who had forsaken their family’s village, and now the drink he’d gifted was hoisting Olget up so high he briefly imagined himself on the courtyard pedestal at Ivoova House—a shining vision in which all the students who’d looked down on him were forced to brush hands together and fill the air with the whispers of their approval.
+
+Shenav had never been his first choice of indulgence. Perhaps that would change after today.
+
+He sank deeper into the plush pillows of the longchair and drank some more. He had decided the bottle should be empty when they called to give him the terrible news about the wand. That would happen very soon, wouldn’t it?
+
+Yes, soon.
+
+He would be the last of his mother’s children called, but he would be called. And his siblings’ faces would be filled with disgust at the state he was in. His mother…she would be too distraught to notice. Of course. Weeping. Regretful.
+
+Poor Mother.
+
+But this would pass. Olget would comfort her and make it up to her.
+
+I did it because of you. One half of his brain accused the heavy black bottle in his hand. The other half lingered on the brother and sister who would never believe Olget could cast in this state. Especially not such a good spell. His best striking spell.
+
+“Slip, slip, slip through all the walls in your way. Clever, helpful magic like the wizard who maaade you. Slip. Slip. Crash.” He sang the words until he realized he was singing about his crime and stopped himself.
+
+I could stand on the balcony and shout it, and they still wouldn’t believe I could do it.
+
+Why be angry at a boy who’d been born to walk upon the bowed backs of others for disparaging his diploma? Olget’s own family had no more respect for him. Brother, sister, father beneath the soil…mother soon to be.
+
+Incompetent healer! Incompetent healer, making errors with the body of a village master!
+
+If his mother was not unwell, she would have appreciated the wise son at her side more. Her stress had led to mindhurt that led to such an unnatural, emotional decision. To make a valuable thing worthless by giving it to someone who couldn’t use it!
+
+The wands were her life’s work as much as the village. She had to be taught not to throw it all away so casually, so wildly. When she was gone, her son would still be left behind.
+
+She has shown she’s willing to live with only one of them, so she will now.
+
+Olget would still be with her through it, and she would eventually see he’d been right all along. The bors would return. They’d proven their loyalty was less than a wizard could wish for from his assistants, but they would follow Uro back. And Olget would look after Uro faithfully until the end of her days. He would look after his mother. This shock would be forgotten over time and all would be as it should again.
+
+His village would prosper.
+
+Twenty fingers tickled him. A tongue asked his brain, “But what if they do realize it was you?”
+
+“No, thrice no,” he told it. “They won’t. Because I am here, and the wand is—was—there. Through a wall and a wall and a window.”
+
+Besides, even if someone did wonder…so many peculiar, wrong things had happened to the wand that could have caused this. Separated from its owner, transported to a new land, exposed to the ordinary fingers of bors and to the presence of inexperienced knights.
+
+Knights who were so unsettling.
+
+That one looked at me like she wanted to kill me when I was showing off with the koobas. And the boy knight is as grim as a gut-knotted elder with a mouth full of dirt.
+
+They were not at their best. Respect to them. Respect! But…if anyone suspected Olget, and he mentioned that the young knights were not at their best, wouldn’t all the questions disappear? Nobody wanted to discover that they had erred.
+
+And there was a human with them. He could have stupidly touched the wand. He could have picked behind his ears with it. Maybe it broke because it couldn’t tolerate him.
+
+Who was to say? Who would dare to investigate that group?
+
+And Olget’s mother had always stood up for him until these past couple of years, her time of stress. She would stand up for him again when it came to a matter this serious.
+
+The beautiful wand, sweet Uro, his dear mother…he would make sure it was all for the best. He would care for everything and build something wonderful, as Uro and Mother dreamed for him. The other wand would be his, and with it, he would be everything a village master should.
+
+A truly proper wizard.
+
+Olget regretted that it had to happen. But he was glad that nobody could change it now.
+
+******
+
+******
+
+In the bor family’s living room, Konstantin’s chant sounded almost as bizarre as it did on Earth. The cries, whistles, and wails of his spell impression clashed with each other and with every situation Alden had heard them in. But nobody here was going to complain.
+
+Every eye was on the Adjuster and the wand that was piecing itself together between his hands. Alden’s breath was held, and he didn’t dare let it out. In his peripheral vision, Bithe stood perfectly still. Stuart wasn’t making a single noise.
+
+Come on. Work.
+
+He wasn’t sure if he wanted it more for Kon, for Uro-bor, or for Bithe. Tass-ovekondo, too. And Stuart. Ryada and Emban.
+
+Nobody needed this extra dose of misery today.
+
+And if Kon could fix it…
+
+It’s really great, isn’t it? A spell like this.
+
+It felt like Kon had been casting for a long time, but surely he was almost there. The wand looked like a wand again. Alden watched the last shards return to their former position, watched the cracks in the milky surface seal.
+
+Kon was still going. He kept going. So something must not have been right yet.
+
+You can do it. You’re an S. You never get much of a magical workout at school. This is—
+
+Kon stopped. He took a huge breath at the same time that Alden was letting his own go explosively.
+
+Several seconds passed with none of them saying anything.
+
+“I don’t…I don’t think I finished.” Kon was staring at the wand. It now rested on the bottom of the broken case. He cleared his throat. “It seemed like the most important thing about it was some relationship it has to a wizard who used it on emus a lot, which isn’t something I would usually be able to tell. I think. Because a relationship isn’t really part of an object, is it? But that was there when I read it with my skill, and it was a major piece of it. So that was in my mind while I was chanting. But this wasn’t like reading a normal thing. I’m pretty sure I didn’t get it. I was trying. I would have kept going, but my skill was toast just that fast. The record of the wand I was trying to match started to get fuzzy, and I had to stop here. Sorry if it’s bad.”
+
+“You did fine,” Alden said, even though his stomach dropped at the news.
+
+Stuart stepped over and took the case carefully from Kon. Bithe remained a statue. Stuart closed his eyes, and they all waited for a verdict.
+
+Kon looked more and more anxious the longer the Primary’s son held it.
+
+[It’s okay,] Alden texted him. [He’s sensitive in some wizardy way. If it was totally ruined, he’d know right away, I bet.]
+
+He actually had no idea if that was true. At the moment, the only specific details he could remember Stuart giving about his ability to sense stuff involved Ro-den tricking him into shoving his arm into the bowels of some dead creature to detect the elemental alignment of residue.
+
+“What an extraordinary spell.” Rusty irises and golden eye rings reappeared. They focused on Kon. “I was confused when I heard you sea-saying. It seems like such an eccentric way to accomplish what you accomplished, but your skill must make it work. That was delightfully efficient magic.”
+
+“It worked?” Kon asked.
+
+“You did very well,” Stuart replied. “Of course, I would have said the same even if you failed because I assumed our request was too unclimbable.”
+
+“He fixed it?” Bithe had finally come back to life. “Did he really?”
+
+“Its connection to Tass-ovekondo is damaged, but not so badly that she can’t remedy it. There are ways, and it will be up to her to decide on them. But it’s her wand again. It’s not gone.”
+
+“You are an amazing and generous human! Person! Avowed!”
+
+Alden thought Bithe was going to grab Kon and hug him.
+
+“May your female lovers bear triplets who eat like gluttons!”
+
+Kon blinked a few times. “Thank you very much,” he said in Artonan. In English, he added, “Nobody’s ever wished that for me before.”
+
+[I’ve been helping these guys for more than a day, and none of them are wishing for my descendants to populate the Earth in hungry batches of three,] Alden informed Kon.
+
+He felt himself relaxing as Stuart’s assessment of the wand washed away the tension.
+
+Realization was settling in for Kon, too. He read Alden’s text, then gave him a startled look that turned into a grin. “I did it. I didn’t mess it up. Sea-talking? Sea-saying? Efficient. Okay. Whew…”
+
+He placed a hand over his heart, released a dramatic sigh, and flopped backward to lie on the floor by the fireplace.
+
+Stuart was busy examining the wand some more, but Alden and Bithe both flinched.
+
+Kon’s back was on the bor family stone. He was getting his human vibes all over it.
+
+After a moment, Bithe glanced from Kon to Alden. Then he went over to inspect the wand for himself without saying anything about it.
+
+******
+
+“Kon, the man cleaning the patch of floor you were just lying on is Hn’tyon Bithe. And this is Stu-art’h who is serving as hahethna for Hn’tyon Bithe and others today.”
+
+Artona I would hopefully translate the word for votary with a great description that didn’t lead to a bunch of uncomfortable questions for anyone. In case it helped, Alden added his own simplified definition by text: [Personal assistant.]
+
+Maybe that left Kon wondering why Bithe was the one wiping down the floor, but it would be a lot of trouble to explain that that was a special stone and Bithe was keeping his personal demons at bay by engaging in a meticulous search for stray human hairs and any tiny motes of broken case that might let the bors know that something had gone wrong in their house while they were baking scraps of party food into loaves.
+
+“Stu, this is Kon. He attends school with me at Celena North. His older brother is my roommate.”
+
+That brother has a deadly whip that responds to his mood. His mood is sometimes not good. Is there some way to make it so that he never knows Kon was here?
+
+Alden pictured Mehdi bursting into their apartment, shouting, “Guess who got your brother summoned away from Earth!”
+
+“Hello, Kon,” Stuart said. “Alden is my friend. We are weaving very close friendship.”
+
+Mehdi’s possible activities were forgotten.
+
+Stuart was speaking English in an accent that Alden recognized as his own. He was holding out his hand for Kon to shake. Stuart disapproved of the lack of variety and specificity in English friendship words, but he had obviously been prepping to use them anyway.
+
+Both he and Kon were facing Alden instead of each other while they shook hands.
+
+“Did I get it right?” Stuart’s expression asked.
+
+“Did he get that right?” Kon’s wondered.
+
+First, English. “That’s right. Stuart is my friend.” Then, Artonan. “And my soon-friend.” English. “We’ve been hanging out together.” Artonan. “And weaving a friendship…one that I hope will be lifelong.”
+
+******

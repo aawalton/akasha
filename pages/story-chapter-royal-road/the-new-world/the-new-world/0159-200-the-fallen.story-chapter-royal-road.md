@@ -1,0 +1,305 @@
+---
+id: 56c34216-2762-5f22-9984-46cf17096c9d
+page-type-slug: story-chapter-royal-road
+title: "200 The Fallen"
+slug: 0159-200-the-fallen
+partOf: the-new-world
+position: 159
+ownLength: 4577
+unit: words
+ownProgress: 4577
+publishedAt: 2019-04-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/350972/200-the-fallen"
+royalRoadId: "350972"
+markedReadAt: "2026-06-29T21:26:18.233Z"
+---
+
+I turned towards the others, "Guys, we have a problem."
+
+Torix glanced at the tubes, "That much is obvious."
+
+"No, we've got one of them out on the loose."
+
+The others skulked up to us, even Chrona and Krog able to fit in the high ceilings here. I pointed at the shattered container, "This is one of those life signatures. If what you guessed is correct Torix, it's probably even stronger than the last Hybrid."
+
+Torix stayed silent, his expression clouded with thought. After a few moments, he grabbed the side of his skull,
+
+"We're in some sort of conspiracy here. There are galactic forces at work, and we're unequipped to handle this line of work. We'll need to visit the Overseer and request assistance. Considering the sheer scope of this project's success, he'll be forced to give some support."
+
+"Why would they do that?" Althea said. "They wouldn't do that for Yawm's research, and it was almost exactly this."
+
+"The difference between them is twofold." Torix raised his finger, "This research has produced tenable results. Yawm's own studies resulted in deformed abominations, nothing unusual as far as mad scientists are concerned. This...this is a working Hybrid of some sort. That alone warrants attention."
+
+Torix raised another finger, pointing at it, "The second reason is that Yawm was underfunded and understaffed. Maintaining a compound the size of a small city under a dense ocean is nearly impossible, yet here it is in its full glory. Based on the number of vats here, there's an enormous amount of time put into this project as well, decades likely."
+
+"Funding that kind of bullshit would require treasuries worth of funding," I murmured.
+
+"Precisely. We'll likely find more, but in order to uncover the depths of this sedition against Schema, we must press on," Torix said.
+
+Krog glared at the line of subjects, "What of these monstrosities? They must be culled. From what you've spoken off, they might lead to an apocalypse of our world and many others." He whipped his tail behind himself, "I'd be happy to do it."
+
+Althea raised her hands and shouted, "Wait. Don't." The Skyburner tilted his head to her. Althea continued,
+
+"Smashing them won't kill them. We need to disintegrate them from the inside and kill every piece of them. Otherwise, a tiny clump of them might survive." She turned to me,
+
+"Daniel has this weird aura."
+
+Krog and Chrona shivered, their eyes widening. Chrona hissed, "We both felt it. It's like melting into soup."
+
+Althea nodded, "Yeah, I know the feeling. The thing is, that aura only kills organic things. It doesn't hurt nonliving stuff." She turned to me, "Right?"
+
+I pointed at her, "Ahhh, that's right. I can just mold my aura over these tubes and kill them in stasis. It won't remove the liquid nitrogen, letting them escape."
+
+Torix leaned back, "That's an exemplary solution, Althea."
+
+She grinned, "Thank you."
+
+"We need evidence though," I waved a hand around. "Otherwise no one will trust us."
+
+A fly zoomed into the room, its little buzz notable among this asylum's silence.
+
+"Worry not," Torix said while reaching a finger up for the fly to land on. "I've been using these controlled flies as mapping tools. They've accessed this facility in detail, giving us all we need as far as footage is concerned."
+
+I pointed at a fly, "Why make us walk through this entire building then?"
+
+"These creatures are limited in their intelligence. They can hold only a few images in their minds before overloading utterly. Due to those constraints, they work best at mental snapshots. Considering the importance of detail regarding this mission, I believed a more comprehensive viewpoint was necessary."
+
+I nodded before turning to a vat of liquid, "Then it's time I killed these things?"
+
+"Yes. Do try one of the hybrids at a time, however. If they happen to awaken, fighting more than one of them at once will prove itself to be a deathtrap," Torix contemplated aloud.
+
+Heeding his advice, I created a cloud of my Event Horizon, the aura bending to my will. After pacing back to the entrance of the lab room, I shifted the draining haze over the first vat of liquid nitrogen. The half silver died in an instant, overwhelmed by Event Horizon's damage. I continued this on the lab's experiments, holding my aura over the bodies until the corpses disintegrated into black blots.
+
+It was a potent method for executing the creatures. Torix himself admitted these things weren't even fully alive to begin with, the limitations of life sensing apparent. They showed next to no signs of maintaining a grip to this realm, yet Event Horizon affected them all the same. To me, it verified that these things would come to life if they escaped.
+
+Either way, I killed them all over the next hour and a half. A few of the last experiments took over ten minutes to kill apiece, but none of them shifted in their tubes. We noted their apparent weakness to cold before moving on to the research logs stored here. After tearing through the terminals and putting them in storage, we moved on.
+
+With most rooms found, we investigated the rest of the facility near the plume of toxic sludge at its center. Something was making it, though we didn't know what exactly. With no other clues to go off of, we split up and scrutinized the many passages near the center of the rooms. Torix left two of his spy-flies on them, letting us find them. Two hours into the process, Althea sent Torix and me a message.
+
+Althea Tolstoy, the Shapeless Arbiter(lvl 7,031 | Class: Breaker | Giess: 4:41 P.M. 4/1/26) - Found it. The passageway was hidden behind a wall. It's beside the cafeteria on the northern side of the facility. Meet me there, and I'll take you guys to it.
+
+After reading it, I followed the messages recommendation using a copy of Torix's map. As I arrived, the others were ready to go. Althea took us through a few winding corridors before we reached one of the terminal rooms again. With wires jutting out of the ground from dozens of missing terminals, we arrived. Althea led us to a back wall, a plate of steel sliced through already.
+
+Behind is, a series of gears exposed a vault door. Althea pointed at it, "I couldn't figure out how it worked, but cutting through worked."
+
+Torix pinched the bridge of his nose, "Gah, I was so distracted with the terminal work that I never anticipated they'd hide it here."
+
+"Eh, it makes sense," I said with a shrug. "Whatever it is at the bottom of this facility, they must be taking notes on it. Having the terminals nearby makes it convenient." I glanced at the vault door, "Well...as convenient as a giant safe door can be."
+
+Althea put her hands on her hips and stood up straight, "It'll be pretty convenient for us. I was just waiting for you guys to get here in case something crazy popped out."
+
+Althea polymorphed her hand into a claw of bone. With a swift slice, she cleaved through feet of steel like a dolphin diving through water. I reached out a hand, grabbing the giant plate with a gravity well. After setting it down, we proceeded down a staircase. As we did, Torix muttered,
+
+"They disguised this stairwell as a slanted support for the room above it. Clever."
+
+After pacing down the steps, we reached a series of glass rooms. They looked like quarantine facilities, yet they were empty outside of beds, nightstands, and a bathroom. It looked like someone opened the door and pulled everyone out of their cells. That assumption was a bit too optimistic for what I expected of their fates; they'd been food and little else in the end.
+
+We searched the rooms in great detail though, and we found several journals that logged their stay here in their glass prisons. Torix read them as we went on.
+
+After pacing past the quarantine facility, we reached a series of vaults. Althea cleaved through the doorways, letting us inspect the insides. As we opened the rooms, Chrona described what was in them.
+
+"These are sacred relics of gialgathen ancestry. It is as if the researchers scoured all of Giess for any details of our origin."
+
+Althea picked up a skull with primitive paint marks spread across it, "What for, exactly?"
+
+"That is what I struggle to understand. This place is like a museum, but it lacks any respect for the keepsakes it carries. It's as if they attempted to find something and failed," Chrona thought out aloud.
+
+I tossed an unusual looking rock onto a pile of junk, "Well, I don't think there's much of value here. All this is way too old to be useful. If anything, it all looks like it's about to fall apart."
+
+Krog grumbled, "Perhaps that is fitting. We too will fall apart if that, er, the hybrid is not found."
+
+"Quite." Torix said. "I believe I've found something of note on that topic, however."
+
+I raised an eyebrow, "Like what?"
+
+"The journal of a researcher," Torix held up one of the journals in his hand. "It contains the account of a scientist stored here after being exposed to a sample of the hybrid. His stay was not brief either, and his account is thorough. All the other accounts are by prisoners with no knowledge of the facility itself."
+
+I raised a fist, "Alright, we'll finally get some explanations about this place."
+
+Torix sighed, "They're not pleasant, mind you. If anything, these pages dive into the depths of sentient psychology and how it can go astray when isolated."
+
+"Can you read it out loud? It would be tough for us to all read it at once," Althea chimed.
+
+"Of course." Torix raised a hand and lifted up some imaginary glasses,
+
+"This is the account of Fredrick Monostaria, a researcher of facility A-04. My specialty is in the biomechanical containment of the hybrids. It was and still would be my great honor in studying here, though I'll lose my mind if contained in this glass cage much longer. Writing may provide me with a sense of respite, however."
+
+Torix nodded, "I enjoy his style."
+
+I rolled my eyes, "Yeah, real prim and proper. Come on, we're on a schedule."
+
+"Of course." Torix turned a page,
+
+"I suppose I'll explain what trapped me here. I was exposed to a variation of our hybridization project. A sample of the liquid hydrogen that stored it was shattered as I carried it into the quarantined study room. Unwilling to take a risk, they trapped me here until further notice. All of my living arrangements have been provided via portals, giving me a comfortable way of life, albeit boring."
+
+Torix adjusted the book in his hand,
+
+"Even after a week of isolation and no chemical reaction to the hybrid, they've kept me here, ensnared by their fears. I can relate as I would no doubt do the same should the situation be reversed. This gives me no solace. It is lonely and cold here. Perhaps I can have a guard stationed here, one I may discuss matters of pertinence with Time will tell."
+
+Torix turned the page, the handwriting more jagged,
+
+"It has been some time since I last wrote in my journal. The powers that be deemed my writing a danger unto myself and those around me. I believe they've become paranoid as of late. Time will tell how deeply set their sense of mania had sunken into their minds."
+
+Torix glanced at us, "This is where the journal takes a decisive turn in its contents."
+
+He continued reading.
+
+"Another scientist was exposed to the hybrid and stored beside me. He did not seem even somewhat afflicted by a blight of any sort. In fact, he seemed saner than the researcher that brought me meals every day. After a bit of discussion, I discovered the cause - the team leader had begun silencing voices of discontent."
+
+Torix flipped the page,
+
+"After many discussions with my fellow prisoner, I weened many facts of life had changed since my imprisonment. Several scientists had begun losing their sanity, locked deep under the depths here. The lead scientist isn't isolating these incidents by sending them back to the surface. This is to maintain the secrecy of this project. Considering our goals, that is understandable."
+
+Torix waved a hand,
+
+"What is not reasonable is his sentencing of researchers here. He deems those that disagree with his leadership as infected with the newly branded mental disorder: Depth Sickness. That is why my fellow prisoner was sentenced here. He was exposed to nothing. He spoke an utterance against the authority here, and he paid the price for it. I'll write more as we discover further details."
+
+Torix flipped another page,
+
+"It's been many days since my last writing. They sentenced a guard to us, preventing my cellmate and me from speaking with one another. Other researchers were added as well, many of the quarantine researcher rooms filled with political prisoners. They began reducing the frequency and size of our meals as well. As if tubes of liquid food weren't appalling enough, they've limited us to three a day. It is enough to survive, but it's not enough to live."
+
+Torix shook his head as he continued,
+
+"Time blurs under the fluorescent lights of my prison. The entire quarantine zone is full of prisoners now. Several of the rooms are full of more than one captive, some with over four squeezed into the barriers of glass. We watch one another, our mouths silenced. Those that speak are beaten by the command of guards. The conditions of the other prisoners have deteriorated fully as well. They starve in their confines, unable to muster any resistance against their tormenters."
+
+I bit my lip as Torix continued,
+
+"I've never seen such horror in all my life as I did today. They let loose a sample of the hybrid here. It was used as a killing device, emptying out several of the rooms for more convicts. I watched as a tiny, droplet sized creature injected itself into the bodies of my friends here...And they were eaten from the inside. Their eyes drained into the back of their skulls. It sucked up their organs and devoured their bones. This thing we've created, it is no theoretical concept. It is unduly real, something out of nightmares."
+
+The handwriting grew more jagged, becoming rough and choppy.
+
+"And we were instrumental in crafting our killer. There is poetic justice in our demise here, a fitting end for us. We've created the coming of an apocalypse, something untenable or justifiable. I've denounced our research in my mind and soul after seeing the fruits of our labor. It is my greatest regret."
+
+Torix turned to the final pages,
+
+"To believe that once, I was excited to come here. This is a room of torment, a museum of horrors. The defectors are fed to hybrids, fueling the experiments they helped devise. Something changed in the leadership at some point. He lost all sense, his mind lost to madness. He plays games with us. He walks in the middle passages, whispering to himself. I've seen what he's uncovered and what he toils with."
+
+Torix got into the reading, adding gravitas to his words as he spoke them,
+
+"It is the advanced, runic language found in a dungeon rift. The lead researcher has lost himself in the depths of the markings. They've stolen his soul, and he has stolen ours. It is now too late for me. I am a forgotten relic of the quarantine's creation. I evaded death to this day, but I am here alone now. No guards. No prisoners. No food or water. Alone. Alone. Alone. I will not starve here."
+
+Torix turned to the final paragraph,
+
+"He has done it. They finished the hybrid's creation, a sentient mass controlled by the lead researcher himself. As a display of power, he showed it throughout the facility. As one may expect, it is now rampaging above. The pride of one man ended us all. I can hear the creaking above. Its blows ripple through feet of carbonized steel. It will come for me. I only ask that it kill me swiftly, though I no doubt deserve no such fate."
+
+I winced as Torix finished,
+
+"I would tell you, reader, to inform my family that I loved them and will always love them. However, I will not drench their name in infamy for my own petty sense of redemption. I helped create the thing above. I will die to it as I decide.
+
+I will die bravely, not as a coward.
+
+Goodbye."
+
+The group was silent as Torix finished. As the quiet passed, Torix and Althea looked back up to me. Torix pointed at me, "That runic language you write in carries quite the set of risks. Not accusing you of anything as I've deigned to turn myself into a lich. I'm rather curious, however. Why do you work with it?"
+
+It was a fair concern considering what he just read. I raised my palms to them, "It's powerful, and I already avoided exile from it, so now there's no real point in not using it. I'm not descending into madness because of the inscriptions I'm carving either. That lead researcher was weak in mind. That much was obvious by how he had his critics killed instead of trying to listen to them."
+
+Chrona tilted her head to me, "Is this runic language why your mastery of gravity is so profound? It's rather rude not to share that knowledge considering I shared my own techniques with you."
+
+I shook my head, "No, well yes, partly I guess. I can promise you that this isn't something you want to deal with though. These inscriptions are very dangerous just to know about, never mind actually write with them."
+
+Althea pursed her lips, "Is that what you're writing in your grimoire all the time? Sounds dangerous."
+
+I shrugged, "Yeah, it can be, but I'm not convinced it's inevitably dangerous. I've been writing with these for years now, and I haven't noticed any side effects so far. I understand them pretty well now though, and there's probably a few reasons people go 'mad' when using them."
+
+She crossed her arms, "Well that makes me feel better. So, uh, what is it that drives people mad?"
+
+"If I was to take a guess, it would be because of the mana requirements. Once I finish the iscriptions and try to implement them, my mana is drained until the process is finished. If someone tried doing that without the proper amount of mana, they'd face extreme levels of mana deprivation."
+
+Torix raised a hand, "Ah, that explains quite a bit. Mana deprivation is like starving the mind. It leaves lasting repercussions, which is why most mages never approach the ends of their mana pools. It's far too risky."
+
+"Exactly," I pointed a hand at myself, "My mana regeneration means I've never had that problem. Not yet at least. There's a few other reasons someone could go insane though. It could be a case of too much pressure."
+
+Krog huffed, "Pressure killing someone? If anything, younglings could use a bit more adversity. They falter because they've never experienced true difficulty."
+
+Eh, sort of," I said while tilting a hand back and forth. "Knowing this code has put a target on the back of my head. Powerful people want to know how to use it, and there's a lot of risk just knowing it. I imagine someone who wasn't much of a combatant, this lead researcher for instance, would be panicky all the time."
+
+Torix waved a hand, "You mentioned exile as well?"
+
+I nodded, "Yeah, I was exiled the moment I gained the skill. A Speaker helped me back into the system right after, but it was terrifying at the time."
+
+"Perhaps that is part of why the researcher was so unstable," Torix mused. "He was exiled from Schema's system then dealt with no real out to his predicament. Combine that with the isolation of this environment and the nature of his work, and his mental instability was inevitable."
+
+I walked up to a few of his runes, placing a palm on a poorly written one, "Yeah, and these runes are anything but crisp. The lines aren't straight enough, the depths between different portions of the carvings are too uniform, and you can tell he's too weak to be carving into rock to begin with."
+
+I winced at a particularly nasty messup, "Like here, he's trying to write the rune for something like the word eternal. I can tell by the framework. It's not coming across right though, so it ends up bleeding into something more like consistency or stability. He's a begginner, so coming up with dual meanings is an easy way to destroy yourself."
+
+I went on, having more to say than I thought I did, "It's an easy way to fuck up the runes. He also is working with rock, something too hard for his hands. You need something soft enough to work with. Even then, the material has to be mana tolerant enough to handle massive flows of energy. A hard, dense metal works best from my experience, though you can disperse whatever your writing through a larger framework to make softer materials work."
+
+Torix looked up, "Hm, is that what that eldritch, what's his name again....ah yes, Baldag-Ruhl. Is that what he did perchance?"
+
+"Yup."
+
+"Then that explains how he managed to work such a complex ritual," Torix said.
+
+"Yeah, I'm not quite at his level yet though." I said. "It's difficult to manage to be honest, because he was gifted in more than just his technical refinement of his runic work. He was a master of conceptualization as well. He was ambitious as hell too, his work profound."
+
+Althea raised an eyebrow, "You almost sound like you admire him."
+
+I shook my head, "No, I do admire him. Sure, he was a twisted, monstrous hivemind hellbent on bending my soul into a new carrapace, but that doesn't mean he wasn't talented. Same with Yawm in some ways. Yawm had this presence I haven't seen anyone else match yet. He could pull you in, and that's even while knowing he was a genocidal maniac."
+
+Chrona glanced between us, "Who is this Yawm?"
+
+Torix raised his palms to her, "We'd rather keep the details sparse. It's something of secrecy for us. I'm sure you understand."
+
+Krog narrowed her eyes, "Secrets between allies breeds distrust and animosity."
+
+Althea tapped his armor plating, "And he made you armor to help protect you on this mission. Have you ever seen this kind of metal?"
+
+Krog glanced at his black plate mail, "Well...no."
+
+Althea shrugged, "That's because it's rare. If he's willing to give you something like this, then surely he's got his reasons for secrecy."
+
+She gave me a frown, "Though I'm not the biggest fan of secrets either."
+
+I waved my hands, "Hey, I have my reasons. I didn't want you guys to get curious and end up exiled like I was. Besides, these special runes are less unstable for me because I have unique circumstances. I'm much more careful than most too. I've worked with the basics for years now."
+
+I let my hands flop against my sides, "I even have a few bonuses from a few Old Ones, one of them no one knows about besides for me essentially. Cut me some slack."
+
+Althea sighed, "Ok. I believe you. Just...just make sure you tell me if something's dangerous. I want to be able to help you out if the worst happens."
+
+I grinned at her, "Of course. I've got it under control."
+
+"Then it's settled." Torix placed a hand on Althea's shoulder, "Daniel's words carry meaning. He doesn't use them lightly. Now, there's a creature nearby that needs culling, and we're the team to do it before it unleashes itself onto a vulnerable world."
+
+Althea let out a deep breath while shaking out her hands, "You're right. Let's focus."
+
+I raised a hand, "Let's finish this."
+
+The group's resolve came back to full throttle as we turned back towards the end of the treasure vault. As we paced up to another vault door, Althea took a deep breath while creating a hand claw. She slit the hinges of the gate, letting me pull it out with a gravitational well.
+
+We found a hallway made of brown rock, covered in elementary gibberish written in the dimensional cipher. It looked like my notes from when I began using the forbidden code. As we passed it, I read out a few shaky translations of the butchered work,
+
+"Harness. Stable. Create. Destroy. Augment. Hybrid. Collapse. Mind. Sacred...That lead researcher really did lose his mind. This makes no sense."
+
+A droning sound ebbed into the massive corridor, sounding like the lamenting of someone fallen from grace. Krog and Chrona's eyes dilated at the menacing hum, their nerves shot. Chrona growled, "I'm hearing things. I must be."
+
+Krog grumbled, "Me as well."
+
+"Perhaps sharing what it is that's bothering you would help us in our search?" Torix pondered aloud.
+
+Krog shook his head, "It's nothing."
+
+Torix waved a hand, "We won't know until you've said what it is-"
+
+Krog glared at the lich as he snapped, "I said it's nothing."
+
+Torix crossed his arms but said nothing. Krog shook his head, shaking off his sudden nervousness. Chrona looked between the two,
+
+"It's deeply personal for us. Please excuse him for his outburst."
+
+Torix sighed, "I didn't mean to pry. Keep your secrets. Schema knows I have plenty of my own I harbor."
+
+We reached a vertical slant, leading upwards. The droning rang in my ears like the hum of some fallen angel. It was drenched in some wicked despair as if life itself was pain. I know that sounds melodramatic, but it wore down my own sense of calm as we paced uphill. Chrona and Krog restrained a palpable sense of grief. Despite their lack of an explanation, a haunting suspicion in the back of my mind was rising up to explain why.
+
+As we reached the top of the corridor's slope, all was explained. There was a vast corridor reinforced by orichalcum bonds and magic. All kinds of monitors were plugged into the floor, powered by something beneath the facility. If what I guessed was correct, this thing fueled the entire facility. Screens all shapes and sizes detailed the vitals of one of this entity, it's full body hidden.
+
+Inside the room, a lone figure stood in the darkness. This pulsing creature stood as tall as I did, its body draining the pit of its liquid contents. It wasn't the source of groaning, however.
+
+Inside the pit, a mound of moving liquid gasped out in a deformed, straining voice like some specter desperate to die. It was the sound of anguish and misery, a lamentation more profound than I could know. Beside me, Krog and Chrona cried out in a voice similar to the pits, though lacking the deformed gurgling.
+
+Krog wheezed out, "That voice. There can only be one..."
+
+It all clicked in my head as Chrona cried out,
+
+"Emagrotha...What have they done to you?"

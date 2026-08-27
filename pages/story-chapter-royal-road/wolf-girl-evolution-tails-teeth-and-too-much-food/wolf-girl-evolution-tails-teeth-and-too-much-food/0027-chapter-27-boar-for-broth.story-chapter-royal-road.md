@@ -1,0 +1,301 @@
+---
+id: f5239cdc-bc21-52d9-8a0f-dacdee6f1c35
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: Boar for Broth"
+slug: 0027-chapter-27-boar-for-broth
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 27
+ownLength: 1280
+unit: words
+publishedAt: 2025-09-14
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2600395/chapter-27-boar-for-broth"
+royalRoadId: "2600395"
+---
+
+PoV Luna:
+
+Luna tore through the trees at full sprint, leaping over roots, sliding under low branches, every step a bounce of intent.
+
+Her thoughts whirled faster than her feet. Ten spice-ideas per breath!
+
+Food! Jerky! Human snacks! What if they added extra spice?! What if it had sauce! What if it burned nice?!
+
+She yipped once, entirely delighted by the possibility of edible pain, before redoubling her chasey efforts!
+
+Her legs burned. Her breath huffed out in thick puffs. Her two-leg form complained the whole way – but she didn’t care.
+
+She knew where she was going!
+
+“Piggy time,” she panted. “Sorry-not-sorry, piggy. Spice needs you!”
+
+The boar she had skipped earlier was still there, predictably dumb, delectably huntable, snorting in circles through the same patch of soggy ground.
+
+Still rooting. Still rude. Still unaware it had just been upgraded to spice currency.
+
+Perfect!
+
+No Shadow Step this time. Luna had no mana left for it. No other tricks either.
+
+Didn’t matter!
+
+Luna had claws.
+
+Luna had bite!
+
+And she could Run all fast-fast-fast!
+
+Muscles coiled before the boar had a chance to notice. She pounced!
+
+Her claws caught flank. Her weight hit bone. The boar squealed loud and stupid, flailing hard, but Luna held on for dear spice!
+
+She ducked a tusk, snapped at a shoulder, twisted when it tried to roll. She laughed through gritted teeth as her feet skidded in the mud and her arms locked tighter.
+
+【Run Lv.5 → Lv.6】
+
+Yes.
+
+The boar staggered left, dazed and confused. Luna didn’t give it a moment to breathe.
+
+And then slammed into it again!
+
+It reared, but that didn’t make her move.
+
+She went and bit.
+
+Fur tore. Blood rushed.
+
+The forest echoed once, twice, and then only gurgling and silence followed.
+
+The boar collapsed in a wet heap.
+
+Luna stood panting, arms streaked in red, two-leg form grinning wide and wild.
+
+【Level Up: 1 → 2】
+
+Oh, a level up! But Luna had bigger spice to fry now!
+
+【Strength +1, Intelligence+1, Vitality +1】
+
+【You are still–
+
+Luna didn’t care for the rest, the big System meanie could go take a bite!
+
+She flexed. Winced. Then smiled bigger!
+
+“No rest,” she told herself, still breathless. “Spice first! Sleep later.”
+
+The boar weighed too much for her form, but she wasn’t about to switch back. This was the deal body. The big plan body!
+
+So she grabbed one tusk in both hands, planted her heels in the dirt, and dragged.
+
+Slow at first. And a little wobbling. But victorious!
+
+It was time to deliver the meat.
+
+Time to claim the spice!
+
+Luna grumbled and stumbled, dragging the boar back through the underbrush with stubborn determination and just about zero grace.
+
+Her human-form sucked at this!
+
+No proper paws. No hauling grip. Balance of a newborn pup!
+
+She tripped twice, stubbed her toe once, and yipped out ouchs, and nearly swore to never walk upright again. The spice convinced her otherwise!
+
+And so she kept going, adapting fast!
+
+All because the wind had changed.
+
+The scent of the adventurer camp pulled at her nose. Closer now. Stronger.
+
+And mingled in that was something new.
+
+Warm. Sharp. Tangy. Creamy? Was that meat and plant in the same thing?
+
+So many flavors. All nice.
+
+SPICED NICE!!!
+
+And soon to be Luna-nice!
+
+Her mouth practically flooded her chin.
+
+One last pull, one last branch in the face, and she stepped out of the trees with her prize flopped behind her.
+
+The boar dragged a fat trail in the dirt.
+
+Luna’s tail wagged before she remembered humans didn’t wag.
+
+But why didn’t they?
+
+She almost stopped to consider that. Almost!
+
+But no such tricks for Luna, she had a deal to make!
+
+And there! The silly human adventurers looked stunned.
+
+Their weapons twitched. Voices fired off in soft alarm. Boots shifted toward safety spots.
+
+Ha! Too slow!
+
+Luna was already there!
+
+She huffed once and dropped the boar like a trophy at their feet.
+
+Then pointed at it.
+
+Then at herself.
+
+Then made the biggest puppy eyes the world had ever known!
+
+The one with the sharp face moved first. The human-not-human!
+
+But that wasn’t important! What was important was one thing only.
+
+She was the spice-delivery-person!
+
+That one.
+
+Seeing her offering the heavenly smelling thing to her, Luna dropped her hunt and zoomed straight up to the not-human person!
+
+The elf handed her a bowl. “Soup,” she said.
+
+Luna grabbed it before the word even finished forming, her tail wagging two wags at a time!
+
+Another adventurer passed over jerky wrapped in cloth.
+
+Luna clutched it to her side with one hand.
+
+Then, everything else in the world simply ceased to exist!
+
+The bowl steamed. It was warm in her palms. Smelled like roasted heaven. Meat and roots and cracked spice and boiled victory. Her body shivered at the sheer mix of smells and the experience they promised!
+
+She didn’t sip at it.
+
+She slurped.
+
+Loud, happy, and with uncontained greed!
+
+Her eyes flew open mid-swallow. The flavors exploded across her tongue.
+
+No slime. No rot. No weird frog repeat.
+
+And no tummy ache!
+
+She barked once. Loud and proud.
+
+Then attacked the rest of the soup with everything she had!
+
+The adventurers were talking again. More questions. Warnings maybe?
+
+She heard none of it. And cared even less!
+
+Because the soup was everything now.
+
+She made soup-happy-noises between gulps. Sniffs. Whimpers. Licks. She even wiggled in place a little.
+
+The jerky stayed tucked for later. Reward for smart-Luna.
+
+The bowl though?
+
+Licked.
+
+Clean.
+
+She even stuck her whole snout in once, just in case it had flavor hiding at the bottom.
+
+It did. And then it didn’t.
+
+But she checked three more times anyway!
+
+And halfway into plotting her second helping, Luna felt it.
+
+The tickle behind her teeth. The tug at her ribs.
+
+Her ears perked.
+
+Oh.Time out.Her moon transformation was ending.
+
+“NOPE,” she yelped.
+
+Then bolted upright, clutching the empty soup bowl like a shield, tail flaring wide behind her. She spun, pointed, declared “BYE!” – and ran.
+
+Fast. Low. And committed!
+
+Two-leg legs weren’t great, but they could sprint.
+
+She shot past the fire. Past the boar. Past a startled rogue who dropped a spoon.
+
+Mana pulsed, barely enough. She grabbed it, forced it forward, willed her body to blink.
+
+【Shadow Step Lv.8 → Lv.9】
+
+The world hiccupped. Shadows bent. Her body flicked through the edge of light–
+
+–and landed behind a pile of travel bags, knees bending, arms out, tail up for balance.
+
+Perfect.
+
+She grinned.
+
+Escape ready!
+
+She was just about to move, until a hand grabbed her by the shoulder mid-step, lifting her up.
+
+“And where do you think you’re going, young lady?” came a too-smooth voice.
+
+Luna froze.
+
+Then hissed.
+
+Then flailed.
+
+But the grip didn’t loosen!
+
+It was the not-human. The weird one.
+
+Too fast. Too smug. And just far too grabby!
+
+“Uuuu!” Luna whined, kicking. She couldn’t bite them without losing her soup points!
+
+Mana flickered out.
+
+The tug grew stronger.
+
+Fur exploded across her arms. Paws stretched into place. Ears shot upward. Her body warped, then dissolved into shadow-dust.
+
+Poof.
+
+Wolf again!
+
+She slipped straight out of the not-human's grip, slick with motion, hit the air–
+
+–and got caught.
+
+Again.
+
+By the scruff this time.
+
+Her legs dangled. Her paws twitched. Tail thumped once, then stopped.
+
+She was dangling.
+
+They stared.
+
+She stared.
+
+Then she licked her chops. Soup still tasted nice.
+
+She blinked. Tilted her head. Let her ears lift into maximum cute.
+
+“…Awooo?”
+
+The not-human blinked back. Their lips twitched.
+
+A smile?
+
+Luna’s tail gave one cautious half-wag.
+
+Maybe. Maybe it worked.
+
+...Maybe she would still get more soup.

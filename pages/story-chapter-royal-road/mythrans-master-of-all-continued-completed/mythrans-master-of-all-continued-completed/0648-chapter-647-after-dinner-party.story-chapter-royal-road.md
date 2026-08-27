@@ -1,0 +1,305 @@
+---
+id: ea5b0475-486a-54d4-be8b-90e0854c8c93
+page-type-slug: story-chapter-royal-road
+title: "Chapter 647 - After-Dinner Party"
+slug: 0648-chapter-647-after-dinner-party
+partOf: mythrans-master-of-all-continued-completed
+position: 648
+ownLength: 3048
+unit: words
+publishedAt: 2018-07-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/236964/chapter-647-after-dinner-party"
+royalRoadId: "236964"
+---
+
+It didn't take long for the police to show up, much to everyone's surprise. Two squad cars had parked in the driveway and the security guards had ushered the 4 policemen into the house and to the large dining room. They started asking questions about what was going on, and then the ambulance showed up. The two paramedics rushed into the house and over to the dining room, unceremoniously elbowed everyone out of the way, then set up their equipment beside Ren.
+
+“What happened?” The female paramedic asked as her eyes did a quick once-over Ren and saw the wound. Stella looked at Ren and he told the paramedics that certain words were exchanged, then Jim became upset and picked Ren up by his shirt.
+
+“He already had several micro-fractures from having CPR performed the other day, and this exacerbated his already weakened ribs.” Stella said. “I only found one external protrusion, but internally...”
+
+“Understood.” The female paramedic said and looked at her partner. “Add the extra support pads to the stretcher so we can keep the pressure off of his chest.”
+
+“On it.” The guy said and stood up to flip several different pads up from the sides and used velcro strips to hold them in place.
+
+“That's neat.” Ren said, then winced when the female paramedic prodded him near the wound.
+
+“Only minor leakage, so no large blood vessels close to the skin were damaged.” She said and put a stethoscope in her ears, huffed on the end and rubbed it with her palm, then touched it to Ren's chest. “Shallow breath, please.”
+
+Ren took in a small breath and let it out, then did it again. “Thank you.”
+
+“For what?” She asked.
+
+“For warming the stethoscope up first.”
+
+The female paramedic smiled and he did a few more breaths. “I can't hear any fluid build up or gurgling, so no major lung damage right now.” She said and used her fingers to probe the large bruise on his chest. “Does it hurt anywhere else?”
+
+“Only where you poke it.” Ren said and smiled at her, and she chuckled.
+
+“I have to check.”
+
+“The only difference in pain is where the blood is.” Ren said. “Everything else seems the same.”
+
+“You make it sound like you're in pain all the time.” She said and kept checking him over, then she frowned when he didn't deny her statement and she looked at his face. “You are?”
+
+“Pretty much all the time.” Ren said. “I'm used to it.”
+
+The female paramedic leaned back and looked at Stella, then looked at Ren. “You're serious.”
+
+Ren shrugged a little and gasped.
+
+“Dammit, don't move.” She said. “You could shove that shard right out, or back into the chest cavity.”
+
+“Sorry.”
+
+“Don't apologize. Just stay still.” The female paramedic said and looked at her partner. “Ready?”
+
+“There's no easy way to transfer him.” The guy said. “No matter how we move him, it's going to affect the wound.”
+
+“I know.” She said. “Best case scenario?”
+
+“Pull the chair out and lift it up to the same height as the stretcher, slide him over, then lay him down.”
+
+“Sounds good to me.” She said and looked at Ren. “Are you ready?”
+
+“No.” Ren said. “Step back.”
+
+“Excuse me?”
+
+“If I hurt myself, you won't be liable for it.” Ren put his hands on the table and pushed, which moved the chair he was sitting on, out far enough for him to stand.
+
+“Wait!”
+
+“Stella I need an extra leg.” Ren said and Stella was there to grab his hip as he used his hands to pull himself up into a standing position.
+
+“Stop!” The female paramedic said and saw his knee. “Your kneecap is dislocated!”
+
+“I know.” Ren said. “Stella? On two.” Stella nodded and Ren took a step towards the stretcher. “One, two. One, two.”
+
+Stella acted like his leg and Ren made it to the stretcher and sat on the edge of it.
+
+“Okay, now extra hands.” Ren said, and Stella motioned to the paramedics. They shook their heads and went to him, and Stella let them take Ren's weight as she carefully lifted both of his legs. They turned him as one on the stretcher and then laid him down. He sighed as the pads held him firmly and he looked up at the paramedics.
+
+“That was amazingly stupid.” The female paramedic said, and Stella quickly stuck her fingers into Ren's mouth to stop him from laughing.
+
+“Don't.” Stella said. “No joking, remember?”
+
+“Wowwy.” Ren said, and she pulled her fingers out.
+
+“You can't laugh, either.” Stella said and used her other hand to touch his forehead and rubbed the top of his head. The paramedics used more velcro strips to secure Ren to the stretcher where they could. When the guy tried to put one across Ren's chest, Ren caught his wrist.
+
+“No.”
+
+“I need to put at least one across your chest.” The guy said.
+
+“I said no.” Ren said. “Strap my arms down instead.”
+
+“But...”
+
+“Put it over my shoulders like a backpack if you want.” Ren said. “I am not riding in the back of a bouncing ambulance with a strap across my fractured chest.”
+
+The guy looked at his partner, and she shrugged.
+
+“As long as he's secure, we're covered.” The female paramedic said. The guy nodded and used the adjustable straps to put them around his shoulders and upper arms to hold him in place.
+
+“Lisa.” Ren said, and she was right there with him and held his hand. “Come with me.”
+
+“Of course.” Lisa said.
+
+“No, you aren't.” Jim said. The security guys had transferred Jim to police custody and had even changed handcuffs. “I want you out of this house right now.”
+
+“I'm a grown woman! You can't tell me what to do anymore!”
+
+“I am your father!” Jim nearly yelled. “You will do as I say or by god...”
+
+“You should be quiet, Mr. Everest.” The police officer beside him said. “If you finish that threat in our presence, we will have to treat you accordingly.”
+
+“Will it be different than how you're treating me now?” Jim asked. “You're all just standing here and not even asking what's going on.”
+
+“Why don't you tell us what's going on?” The officer asked.
+
+“The little prick intentionally provoked me!” Jim said. “He said he wanted me arrested for assault and had it all planned out!”
+
+Stella, Lisa, and Mary gasped, all for different reasons.
+
+“We have to get him to the hospital.” The female paramedic said. “Laying down isn't helping with his breathing, especially if fluid does seep into his lungs.”
+
+The cops and security stepped out of the way and the paramedics pushed and pulled the stretcher to the doorway.
+
+“W-wait.” Ren said, and they stopped by the police. “I don't... want to press... charges.”
+
+“That's very stupid of you, young man.” The cop closest to him said. “It's a good thing it's not up to you.”
+
+“But...”
+
+“Get him to the hospital.” The cop said and the paramedics took the stretcher out of the living room.
+
+Stella reached into her pocket and pulled out her cell phone and a handful of money. “Lisa, take these.” She said and handed them to the startled young woman. “I'll bring you your phone later.”
+
+“Okay.” Lisa said and gripped the phone and money tightly as she left the living room with the paramedics.
+
+“You can't just let him leave without getting his confession!” Jim said. “The crime scene is still fresh!”
+
+A couple of the cops shook their heads and one chuckled.
+
+“We've got another couch potato cop on our hands.” The officer said.
+
+“This is going to be fun.” His partner said, sarcastically.
+
+“Hey, you can't just...” Jim tried to keep talking and the cop holding him sighed.
+
+“Don't make this worse for yourself.” The cop said.
+
+“I hope he does make it worse for himself.” Stella said crossly. “He wasn't even supposed to be here!”
+
+“Oh, really?” The cop looked at his partner, who was writing everything down. “Why was that?”
+
+“Lisa invited her mother, and her mother only, over to meet Ren for the first time.” Stella said.
+
+“That's a lie!” Jim said.
+
+“Shut up.” The cop said and looked back at Stella. “Please, continue.”
+
+“When the doorbell rang, I opened the door and saw him.” Stella said. “Like Ren, I know what he's done to his wife and daughter. I should have slammed the door right in his face.”
+
+“What did he do to them?” One of the other cops asked.
+
+“I'm not breaking a confidence with this, since you should have extensive records for their domestic abuse.” Stella said. “I won't comment on the kind of person he would have to be to beat a woman and her child.”
+
+“Harold? What do you have on Mr. Everest?” The cop asked.
+
+“She's right. Numerous domestic abuse calls.” Harold said and clicked off his station microphone. “Drug paraphernalia, alcohol and substance abuse across the board, battery, trespassing, you name it.”
+
+“Wow, a real repeat offender.” The cop said and looked back at Stella. “Why didn't you slam the door in his face?”
+
+“We had this whole night planned for weeks and it kept getting put off.” Stella sighed. “Then... Ren had a heart attack only a couple of days ago, and... well...”
+
+“You thought it might be the only time they would meet.” One of the cops said, and Stella nodded.
+
+“He's been getting hurt a lot more often lately... mostly through no one's fault... and I wasn't sure if we could delay the dinner again.” Stella looked at Mary. “Not and risk never having it.”
+
+Mary covered her mouth and hid her gasp.
+
+“So, this was all fake?” Jim asked and looked around. “You went to a lot of trouble to put on a good show.” He said. “Are you just renting the place? Are you only giving him a nice home because the little idiot's dying?”
+
+“Geezus! Remember that you have the right to remain silent! Use it!” The cop said to Jim, then gave sad eyes to Stella. “I'm sorry, Ma'am.”
+
+“It's okay. I'm kind of at fault for his belligerence.” Stella said. “I already had wine on the table for the meal, which I wouldn't have served had I known he was coming.”
+
+“Oho!” Harold the cop said. “He just broke one of the conditions of his release.”
+
+“No alcohol?” The cop holding him asked, and Harold nodded. “Well, at least I can guarantee that he won't be out on bail in the morning.”
+
+“You can't do that!” Jim nearly yelled.
+
+“I didn't do anything, sir.” The cop said and smiled. “A violation of your conditions is an automatic 30 days in the county jail.”
+
+“You bastards!” Jim said and looked at Stella. “Charge her for giving it to me!”
+
+The cop laughed. “That only works if you're a minor and under the legal age to drink.”
+
+“They set me up, goddammit!” Jim said and started to struggle, which was a huge mistake. He was immediately tackled by all four of the police officers and two of the security guards. “GET OFFA ME!”
+
+One of the cops grunted as Jim kicked his feet out, and the fight was on. Stella and Mary watched in shock as the 6 men had a hard time trying to subdue Jim.
+
+“Stop struggling or you will be tased!” One of the officers said, and he clicked his station microphone. He whispered a short sentence, then nodded. “We have a go for Drive Stun.”
+
+“Taser! Taser! Taser!” His partner said and held his taser against Jim's side and pulled the trigger. Jim's whole body locked up and trembled from the direct electrical stimulation for several seconds, then the cop turned off the taser. Jim sighed as he laid still and didn't struggle anymore. The cops and security guards let him go and sat up. They looked like they were breathing heavy, and Stella was tempted to ask them if they wanted something to drink.
+
+“Get him out of here.” One of them said as they all stood up, then they bent down together to pick Jim up. “Who's parked in back?”
+
+Harold raised his hand.
+
+“You're the taxi.”
+
+“Thanks a lot.” Harold said and took Jim's arm. “Let's go.”
+
+“Ma'am? We're sorry about the floor.” The cop said and Stella looked down at the scuffs and scratches in the hardwood.
+
+“Oh, damn.” Stella said.
+
+“I'm sure the rental insurance will cover at least part of it.” The cop said.
+
+“You mean home owner's insurance.” Stella said. “It's not a rental. Ren owns it.”
+
+“Really?” The cop reached up and scratched his head. “Where did he... no, I shouldn't ask that.”
+
+“If you think it was from a settlement for what happened to him, you're wrong.” Stella said. “That money was stolen long before he bought this house with his own money.”
+
+The other cops and Mary stared at her with wide eyes.
+
+“I guess you don't watch a lot of television.” Stella said. “Well, if you want to know how he bought this house, change the channel on your television to Channel 8 tomorrow night at 7 pm.”
+
+“He has a television show?” The cop asked. “What's it about?”
+
+“Watch and find out.” Stella smiled. “Now, I assume there are lots of questions you need to ask.”
+
+“Uh, yes, ma'am.” The cop said. “First off...”
+
+“Questions won't be necessary.” Elise said with a very cold voice from the doorway. Everyone turned and looked at her, and you could see the seething anger in her eyes. She stalked into the room and no one even breathed until she stopped beside the officer in front of Stella, then she held up a portable thumb drive.
+
+The cop's hand shook as he reached for the tiny device. “What...”
+
+“Full video and audio from the cameras.” Elise said in the same cold voice and pointed to the tiny cameras tucked next to the ceiling in the corners of the room. “Our public relations agent had the wonderful idea to record this momentous occasion for Ren, Lisa, and Mary to keep and enjoy watching later.”
+
+The cop imagined ice coming out of her mouth as she spoke.
+
+“How fortunate we are that it caught the entire thing.” Elise almost spat. “Unfortunately, it is not a completely enjoyable show.”
+
+“I... I'm sure it's not.” The cop said and handed the thumb drive to his partner. “And you are?”
+
+“Ren's financial advisor, Elise Stanford.”
+
+“Did you witness the events that took place?” The cop asked.
+
+“No, I was busy with other things, then thought about checking the software to make sure it was recording properly.” Elise said. “I only saw the very end, then prepared the various video files for transfer.”
+
+The cop nodded. “Thank you for that.” He said and turned to Stella. “Can you describe...”
+
+“I said no questions.” Elise spat at him. “We are going to the hospital to be with Ren. If you have any questions after we return home with him, then you can ask them.”
+
+“But...” The cop tried to speak and Elise cut him off.
+
+“Barbara, Donald and Denise are already in the Hummer, Stella. Let's go.”
+
+“Excuse me.” Stella said to the cop and turned to Mary. “Security will see you out when the police are done with you.” She said. “The cops have evidence of what really happened, so there's no point in lying about it.” She reminded her and followed Elise out of the living room. The police and Mary watched them go and no one tried to stop them.
+
+*
+
+“Lisa, I...”
+
+“Shh. Don't talk, Ren.” Lisa said. “You heard what Stella said.
+
+“But...”
+
+“If you keep talking...” The female paramedic sighed. “...I'm going to ask what you said to that man to set him off like that.”
+
+“That's what... I want to say.” Ren said, and Lisa held his hand. “I was... being stupid.”
+
+“Ren, don't.” Lisa said and wiped at her eyes.
+
+“That's... great mascara.” Ren smiled. “It hasn't... run or... smudged yet.”
+
+“You know I can put you to sleep.” The female paramedic said without taking her eyes off the monitoring equipment. “Stop talking.”
+
+“Lisa, I... it's not my secret to tell, but... I know...”
+
+“I don't care what you know, Ren.” Lisa said. “I don't care if you goaded him, or kicked his shin, or even spit in his face.” She said. “All I know is, no matter what you did, he couldn't stop himself from hurting you. He knew how easily you could be hurt, Ren. You told him that... and he manhandled you anyway.”
+
+“Lisa...”
+
+“Even if all he did was bruise you by picking you up, that was still too much, because he did it intentionally.”
+
+Ren heard the confidence in her voice and only a trace of anger.
+
+“The guard said to put you down gently, because Dad had you up off the floor... all he did was let you go.” Lisa shook her head. “With the cops there now, I hope that he does something really stupid.” She said, and leaned over to give him a kiss on the lips. “No one is allowed to hurt you, Ren.”
+
+“I was... going to say... the same thing... to him... about you.” Ren panted.
+
+“I'm picking up the needle with the anaesthetic.” The female paramedic said and Ren's automatic physical response kicked in. The machines beeped loudly and he started to tremble in fear and gasp for breath, which was really bad for his current injuries. “What-” She started to say.
+
+“SHUT UP YOU BITCH!” Lisa yelled at the woman and cut her off. “He's afraid of needles!”
+
+“I... I'm sorry. I...”
+
+“...didn't know. Yeah, that's a great excuse!” Lisa said. “You just sit there and keep your mouth shut, okay? Do your job and stop trying to be funny! It's not helping!” She turned to Ren and put her mouth by his ear and talked to him. Ren's breathing slowed and he stopped shaking as he calmed down and the machines calmed down as well. She kissed his cheek and pet his hair, and kept whispering sweet nothings to him for the remainder of the ride to the hospital.

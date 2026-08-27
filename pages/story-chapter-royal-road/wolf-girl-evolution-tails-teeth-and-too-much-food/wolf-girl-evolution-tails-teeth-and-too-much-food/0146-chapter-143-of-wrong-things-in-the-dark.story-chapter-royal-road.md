@@ -1,0 +1,529 @@
+---
+id: a5475039-a720-571c-a698-72c217ad1366
+page-type-slug: story-chapter-royal-road
+title: "Chapter 143: Of Wrong Things in the Dark"
+slug: 0146-chapter-143-of-wrong-things-in-the-dark
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 146
+ownLength: 2395
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3712154/chapter-143-of-wrong-things-in-the-dark"
+royalRoadId: "3712154"
+---
+
+PoV Luna
+
+The bad smell moved!
+
+Luna woke all at once.
+
+One moment she was curled against Syliana on the bed, warm and heavy and still half inside dreams of chasing the crunchy moon across a field of giant meatloaves–
+
+–The next, her eyes were open and searching.
+
+Rain whispered against the window.
+
+The room was dark except for low moonlight and the fading glow of Syliana’s covered lamp. Papers lay stacked on the table, weighted beneath a cup. Syliana sat up, now awake too, one hand already moving toward her weapon because Luna had gone still in the wrong way.
+
+Luna breathed in, and let the smells settle in.
+
+Wet stone, lantern smoke, horse sweat, old wood.
+
+Human fear.
+
+Corruption.
+
+Her lips pulled back before she meant them to.
+
+The smell from the road had come closer.
+
+Much closer.
+
+Luna rose from the bed without a sound, shadows spilling from her paws onto the floorboards.
+
+A step later paws were replaced by a pair of tiny feet.
+
+Syliana stood with her.
+
+“…Luna?”
+
+“Outside.”
+
+Syliana did not ask if Luna was sure.
+
+Good Second.
+
+She moved immediately, papers vanishing into her satchel, magic gathering around her hand in quiet layers. Luna crossed to the window and looked through the rain-streaked glass.
+
+The street below seemed empty.
+
+Only seemed.
+
+Luna’s nose knew better.
+
+She breathed in again, slower this time, pulling the wet night apart.
+
+The wind shifted.
+
+Fur, hoof, rot and feather.
+
+Old blood.
+
+Wet hide.
+
+Sickly meat stretched wrong over things that did not belong together.
+
+Luna’s hand pressed against the windowsill.
+
+“There!”
+
+Something moved at the far end of the northern street.
+
+Pale, swollen, and wrong.
+
+One limb struck the mud like a hoof. Another bent like a wolf’s foreleg. Something dragged behind it, then lifted, then vanished again behind rain and broken stone as if the creature could not agree with its own body about how walking worked.
+
+Many things.
+
+One body.
+
+Luna’s fur rose along her spine.
+
+“Many-things bad!”
+
+Then a scream cut through the rain.
+
+And Luna was already moving.
+
+The window opened with a sharp wooden creak. Cold rain slapped across her face, carrying the smell stronger now, foul and tangled and close enough to bite. Syliana said her name behind her, but she didn’t hear a ‘no’.
+
+More like wait half a breath so Second could follow.
+
+But Luna did not wait!
+
+She dropped from the window.
+
+Shadows caught beneath her feet before she hit the street, spreading across the mud in a soft black splash. Her toes touched stone, knees bending low, tail snapping out for balance as rain slapped across her hair and ears. She lowered herself, nose already turned toward the scream.
+
+Found it.
+
+Luna moved, and the street vanished beneath her.
+
+Rain stretched into silver lines. Lanternlight smeared across the stones. Her feet touched the ground only in brief, wet taps before shadow caught the next step and slid her forward again, slightly faster every step. The northern street, the shuttered houses, and the crooked mouths of alleys disappeared behind her too quickly for any sleeping human to notice she had passed them by.
+
+She reached the cracked tower district before the scream even finished dying.
+
+The broken foundation waited ahead, a black gap under old stone.
+
+A man was being dragged toward it.
+
+He had one hand hooked around the edge of a rain barrel, fingers white with effort. His other arm hung wrong. Blood mixed with rain beneath him in long, thin streaks, and the thing pulling him had one twisted limb locked around his leg.
+
+The many-things bad was almost at the gap!
+
+Almost was not enough.
+
+Luna hit it with the full force of zoom!
+
+Momentum Claw answered.
+
+All the speed from the street, the drop, the Shadow Step, and the last impossible step before impact packed into her arm until her hand burned bright and sharp with gathered force. For a heartbeat, the world narrowed to one thing.
+
+Bad smell.
+
+Bad body.
+
+Bad thing taking living human into bad hole.
+
+No.
+
+Her strike landed with the power of a thunderbolt.
+
+The many-things bad folded around the blow. Flesh split. Bone shattered. Wet hide tore open from shoulder to flank, and the creature smashed sideways into the foundation stones hard enough to make the old tower groan above them.
+
+Mud, rainwater, and black-red blood exploded across the street.
+
+The human tumbled free and rolled against the broken stones, coughing weakly.
+
+Luna landed in a low slide, one hand steaming with shadow and impact-heat.
+
+For a tiny moment, everything was still.
+
+Then the System chimed.
+
+【Enemy Identified: Corruption-forged Chimera Stalker】
+
+Luna blinked once.
+
+“Chimera,” she repeated, ears flat.
+
+Many-things bad, but with clever System word, mhm!
+
+Luna gets it!
+
+The Corrupted thing tried to rise – it should not have been able to.
+
+Most weak prey hit by that much zoom stopped being a problem in one-hit-awoo! Even strong things were supposed to at least think very hard that lying down and being defeated might be the better option!
+
+But this one did not!
+
+It dragged one broken limb under itself and tried to crawl.
+
+Tried.
+
+Luna stared at it for half a heartbeat, offended.
+
+The Corruption-forged Chimera Stalker had a hole torn through most of its side. One jaw hung loose. Two legs no longer remembered they were legs. Its blood steamed black in the rain.
+
+And it was still moving.
+
+That was not sturdy.
+
+That was cheating!
+
+Luna crossed the distance before the ruined limb finished scraping through the mud and brought one bare foot down between its shoulders.
+
+The stones cracked under it.
+
+The Chimera hit the ground again.
+
+“Stay!”
+
+It twitched.
+
+Luna pressed harder.
+
+The twitching became much smaller.
+
+Better.
+
+The human coughed behind her.
+
+Wet. Weak. But alive.
+
+Luna looked back without lifting her foot. The man lay curled against the broken stones, shaking, bleeding, but no longer being dragged into the hole.
+
+Good.
+
+Human above ground.
+
+Monster under foot.
+
+That was how the situation was supposed to look.
+
+Syliana landed beside them a few moments later, staff in hand and rain already soaking through her hair. Her eyes moved from Luna, to the ruined Chimera, to the injured man, then to the black foundation gap.
+
+The Chimera scraped beneath Luna’s foot.
+
+Luna pressed down until the old stones cracked under it.
+
+The scraping stopped.
+
+Syliana dropped beside the injured man, one hand lighting over the wound in his shoulder. Luna kept her weight on the Chimera and leaned forward just enough to sniff.
+
+The man’s blood was sharp. His fear was sharper. Under both, breath still moved.
+
+“Alive,” Luna said.
+
+Syliana was already moving before Luna finished the word. Magic gathered around her hand as she dropped beside the man, and Luna kept one foot on the ruined Chimera while she turned her nose toward the gap.
+
+The creature twitched under her.
+
+Luna pressed down until the twitch stopped. If it wanted another turn, it should have brought another body.
+
+The hole smelled worse than the monster.
+
+Which was almost impawssive!
+
+In a terrible-smell way.
+
+Wet stone, old blood, corruption, animal pieces, and human fear all tangled together beneath the tower. Luna breathed in deeper, then wrinkled her nose.
+
+Ptui!
+
+Holes should not be allowed to keep secrets from noses.
+
+Something scraped below.
+
+Luna went still.
+
+Syliana looked up from the injured man.
+
+“Luna? What is it?”
+
+Luna breathed in slowly, sorting the smashed stink from the hidden stink. The many-wrong thing beneath her foot was loud in her nose, all split hide, crushed bone, wrong meat, and black blood steaming in the rain. It was almost dead, and if it tried to be less almost-dead, Luna could help.
+
+But the smell under the tower was not the same.
+
+It moved deeper.
+
+“More below,” Luna said.
+
+Syliana’s expression sharpened.
+
+“More creatures?”
+
+Luna lowered her head closer to the crack. The air underneath tasted stale and rotten, full of old things that should have been dug out, bitten, burned, then buried again.
+
+There was more bad below.
+
+And there were human scents too!
+
+Her ears flattened.
+
+“People down there too.”
+
+Syliana’s hand stayed over the man’s wound.
+
+“Alive?”
+
+Luna lowered her head toward the crack and breathed in until the stink pressed sharp behind her eyes.
+
+Too much.
+
+The rain smeared the trail. The broken Chimera drowned the stones in corruption and blood. The tower held old human traces like a dirty blanket, all layered over each other until even Luna’s nose had to dig.
+
+Somewhere under all of it, there was fear.
+
+People.
+
+Breath, maybe.
+
+Or only the memory of it.
+
+Her fingers tightened against the wet stone.
+
+“Can’t tell.”
+
+She stepped off the Chimera and moved toward the gap.
+
+The creature dragged one broken limb through the mud behind her.
+
+Luna turned back, caught its bent horn with both hands, and hauled its head away from the foundation crack before slamming it down again. Its loose jaw snapped once at nothing.
+
+A bite aimed at mud.
+
+Luna would be almost impressed if the thing wasn’t so wrong!
+
+She planted her foot on its neck until the body went still, then turned back to the hole.
+
+Syliana caught the back of Luna’s shirt before she could try to get into the crack.
+
+“No.”
+
+Luna twisted toward her, ears low.
+
+“But people below!”
+
+“I know.”
+
+“Then Luna goes!”
+
+“Not through that.”
+
+Luna looked at the crack.
+
+Then at herself.
+
+Then at the crack again.
+
+“Luna is small, can fit just fine!”
+
+“The injured man is not.”
+
+Luna’s mouth opened.
+
+Then closed.
+
+Her tail lashed once.
+
+That was a mean answer because it was not wrong.
+
+Syliana kept her hold on Luna’s shirt.
+
+“Anyone else below may not be small either. And if anything happens, I cannot pull you through stone.”
+
+Luna glared into the dark.
+
+She could fit. Probably. The crack was stupid, but Luna was very good at stupid spaces when something biteable was on the other side.
+
+And her shadows could move her through when things got weird too!
+
+Carrying humans back out through it was different.
+
+Humans had inconvenient sizes!
+
+Humph!
+
+The first guard horn cried out somewhere behind them.
+
+Luna’s ears flicked back.
+
+Boots were coming.
+
+Lots of boots.
+
+That made her bare her teeth more than the horn did. Humans always brought boots to places where smells mattered, as if boots had ever solved anything except making floors sad.
+
+Syliana released Luna’s shirt but kept one hand near her shoulder. “We will wait until morning.”
+
+Luna turned on her.
+
+“But–”
+
+“At first light, we go in.”
+
+Luna stopped pushing against Syliana’s hand.
+
+Go in was better than wait.
+
+Much better!
+
+Her ears tilted toward Syliana.
+
+“Through crack?”
+
+“No. Through the old service entrance beneath the east side of the tower.”
+
+Luna blinked.
+
+Huh.
+
+There was an entrance?
+
+Luna didn’t know!
+
+Cracks were for rats, bad things, and Luna when doors were being stupid. Entrances were for going through properly. Humans liked entrances. Syliana had spent the evening hunting papers, and paper-hunts were boring, but sometimes they found useful prey.
+
+“Second found door?”
+
+“I found where the door should be.”
+
+“Should be?”
+
+“The tower has been rebuilt before. It may be buried, blocked, or warded. But it is still a better start than crawling blind through that.”
+
+Luna looked at the crack again.
+
+The bad smell waited behind it, thick and ugly. The people smell stayed tangled below, too mixed to tell alive from dead.
+
+Her tail lashed once.
+
+“Then go now!”
+
+Syliana glanced up.
+
+The moon was already sinking behind the roofs, pale and thin behind the rainclouds. Night was losing its teeth, but it had not let go yet.
+
+“Soon,” Syliana said. “The moment there is enough light for the guards to hold the streets without putting lanterns over every scent.”
+
+Luna narrowed her eyes toward the sky.
+
+Light was being slow on purpose.
+
+Probably because nobody had bitten it properly in a while!
+
+Luna wondered how it would taste to bite the sun!
+
+The first guards arrived in a rush of wet cloaks, lanterns, spears, and panic. One spear lifted toward Luna before the guard saw Syliana beside the injured man and the ruined Chimera under Luna’s heel.
+
+Luna bared her teeth.
+
+The spear lowered.
+
+Hehe!
+
+Good choice!
+
+Syliana rose, rain running down her face, voice cutting cleanly through the noise.
+
+“Healer is needed here. Now. You two, block the street. Nobody enters the tower. Nobody approaches the foundation or the east service passage without my permission.”
+
+A guard stared at the broken many-things bad in the mud.
+
+“What is that?”
+
+“Corrupted chimera,” Syliana said.
+
+Luna’s ear twitched.
+
+“Corruption-forged Chimera Stalker.”
+
+Syliana glanced at her, one brow raised in surprise.
+
+“System said!”
+
+“Corruption-forged Chimera Stalker,” Syliana corrected. “Keep clear of it.”
+
+The guard went pale.
+
+Oh!
+
+Long System names were annoying, but at least they made humans step back.
+
+Another guard came too close to the blood-dark stones near the crack.
+
+Luna moved in front of him before his boot came down.
+
+“No.”
+
+The guard froze.
+
+Luna pointed at the crack.
+
+“Dangerous!”
+
+He looked at the mud, then at her.
+
+Luna’s eyes narrowed.
+
+He stepped back.
+
+Smart!
+
+The night thinned slowly. Rain whispered over stone. Lanterns shifted behind Luna, but the guards kept their distance after Syliana’s orders and Luna’s teeth explained the parts words had missed.
+
+Syliana returned once after speaking with the guard captain and crouched beside her.
+
+“The man will live if the healers are right.”
+
+Luna kept staring into the crack, her fingers pressed against the wet stone.
+
+The hole had failed once, but there were still people below.
+
+Maybe alive.
+
+Maybe not.
+
+Luna hated maybes!
+
+“Second knows door?”
+
+“Yes.”
+
+“Door goes below?”
+
+“It should lead into the old service level beneath the tower. From there, your trail decides where we go.”
+
+“Yesh! Luna decides path!”
+
+“Once we are inside.”
+
+Her tail did one proud swish and swoosh!
+
+Hehe!
+
+By dawn, the rain had thinned into a cold gray drizzle.
+
+Syliana returned with the tired guard captain, the nervous crumb-clerk, and the old foundation maps tucked under one arm, ready to go in.
+
+Below, the bad smell waited.
+
+Somewhere under all that rot and corruption, people waited too.
+
+Alive or dead?
+
+Luna still could not tell.
+
+And that was the first thing she would fix.

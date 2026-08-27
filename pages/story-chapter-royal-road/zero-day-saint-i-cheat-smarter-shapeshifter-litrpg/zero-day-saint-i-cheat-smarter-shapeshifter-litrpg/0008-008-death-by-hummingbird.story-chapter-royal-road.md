@@ -1,0 +1,176 @@
+---
+id: 21a36267-1461-5e7a-9627-2cf3a78d8b80
+page-type-slug: story-chapter-royal-road
+title: "008 - Death By Hummingbird"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 8
+ownLength: 2063
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340754/008-death-by-hummingbird"
+royalRoadId: "3340754"
+---
+
+"Okay, first things first. You said I made choices, Gabriel. Are you allowed to explain to me why?"
+
+I sat down at the end of the line of shelves and went through my menus.
+
+"Yes, I can, mostly." Her voice in my head sounded just a bit different than in the flesh.
+
+"Why this class, why not some kind of caster? Why the Inaptitude?"
+
+"Your stats are certainly good to start out with as a caster, but if you'll look at your attributes section you'll see that you have 4 points to spend on them already. That's the gap between an average smart person and your extraordinary Intellect stat."
+
+"Okay, stats are meaningless for class selection if you can achieve a couple of levels with your chosen one. But I still feel like actual magic would end up being a lot more powerful and flexible than some seemingly random and potentially useless animal shapes?"
+
+"More powerful, yes, sometimes. More flexible? Not exactly. One thing your Intellect and Intuition stats do is increase the rate at which you learn skills. This doesn't happen with spells. They level at a predetermined rate and need to be used a lot to level up. So even if you were to get your hands on a sizable arsenal, you'd be stuck with only a handful of spells at meaningful levels."
+
+"You are saying Constance will be the Holy Bolt bot for the rest of her life?"
+
+"Most likely, yes."
+
+Looking over the list of Tasks I had accomplished, and their rewards, I suddenly understood what I was missing. I'd be collecting shapes; developing a toolbox. But this one fucking sucked. I minimized the window for now, and took a look at my skills.
+
+"I'm starting to understand."
+
+"Sadly, your initial shape was pretty much useless without significant levels in the Instinct skills. It was a risk you were aware of and we had a plan for what to do if that happened."
+
+On the other side of the room, Jamie and Lucy were talking while they examined the contents of a now-thawing freezer.
+
+"Nuke my Charisma growth to allow me to pick Loki's Gift."
+
+"Exactly. Which, you came to understand, would solve two problems at once."
+
+"I can see one problem solved. What's the second?"
+
+"The fact that if left to your own devices, you'd stop playing to your strengths."
+
+I took a deep breath. The idea that I made those decisions and was made to forget bothered me immensely. I didn't trust myself to do the smart thing on the best of days. Now I was paranoid that a self I'd never been aware of did something dumb to screw me over.
+
+"Go on."
+
+"You are a kind and empathic person. But you lack the self-confidence and willingness to manipulate to lead, which makes up a big part of the Charisma stat. Still, you'd eventually end up trying to do so anyway, spending points there, investing perks, to help out others. You'd know what to do to manipulate them, too, but you'd hate yourself for doing so."
+
+I hated, with a burning passion, how much sense that made. The cold math behind that perk.
+
+Gabriel's voice became warmer. "You chose well, Eve. You will be a boon to the people around you, of that I am certain."
+
+"I'll believe it when I see it. Any recommendations for how to spend those attribute points? Should I look through completed Tasks first?"
+
+"Absolutely do Tasks first. You might find the odd surprise in there. Regarding attributes: Even though you don't apply any of the points you distribute into physical attributes when you shift, I'd recommend raising them all by at least two points before you invest in mental attributes."
+
+"Why?"
+
+"Because you'll get caught out of ATP eventually, and when you do, you need to be able to escape. In your current shape, you would have died if those hounds had been any closer when you got marked."
+
+The matter-of-fact tone with which she dropped that analysis made me shudder. I remembered her voice when that curse hit me. It was an excellent point and I'd absolutely heed it.
+
+"Now please check out those Tasks you completed. I've been looking forward to it for a while now."
+
+"Glad you can find joy in what we do."
+
+Jamie and Lucy also stepped closer.
+
+"Good luck," Jamie said.
+
+I had a dozen different Tasks I had already completed. They weren't chronologically sorted.
+
+The first one was for killing five enemies while shapeshifted, and its reward was called 'Collar of the Loyal Guardian'. I mentally clicked accept. Nothing happened.
+
+"Huh?"
+
+"Oh, you immediately got an item. It went into your inventory. Let me explain how those work," Gabriel said. Her voice carried actual excitement. I guess this was the highlight of her job. "You should also pay attention, Jamie. You'll use this a lot, and probably as soon as you head out there."
+
+Gabriel led us through the steps of accessing the inventory menu. Thanks to the glyph in our hand we could move real-world objects between some kind of pocket dimension and our hand. It had limitations on what we could carry, based on our Strength attribute, but they were generous. Even in cat shape I'd be able to store more things in my inventory than I could feasibly carry in my regular human shape.
+
+I summoned the Collar into my open hand. Lucy burst out laughing, and Jamie couldn't really hide his amusement either. Hoping against all reason, I had held onto the hope that it wouldn't look like this. But it was a dog collar. As I looked at it, text appeared over it, floating there like a tooltip.
+
+[Collar of the Loyal Guardian (not bonded)
+
+Grants Shape: Golden Retriever (Cost: 1 ATP)
+
++2 to all Physical Attributes while shapeshifted. Bonus doubled in Golden Retriever Shape.]
+
+"Is that… good?" I asked.
+
+"It is fantastic, Eve."
+
+"What does bonded mean?"
+
+"That you'll have to wear it for a bit before its effects activate. And don't worry, it'll adjust to fit any shape you shift into."
+
+I blinked at the collar. With this my cat shape would outclass my human shape in all attributes? How could a cat even have a Strength of 3?
+
+"Can you two please stop giggling, so I can put this on?"
+
+Jamie and Lucy looked down with dubious levels of guilt. I slowly put on the collar, an uncomfortable process without being able to look at the clasp. When I pulled it shut, a timer appeared where my buffs had been.
+
+[Bonding - 00:01:59]
+
+Two minutes wasn't too bad. I could still remove this when I wasn't expecting immediate danger.
+
+"With this item your Golden Retriever shape can already go toe-to-toe with one of those demon hounds. I didn't know exactly what the fifth kill would grant you, but this kind of reward isn't uncommon for such a milestone."
+
+"Turning my childhood memory into a weapon. Cool, cool, cool."
+
+Despite everything, I was kind of excited about this reward. Plus four to three attributes was six levels worth of stats. For a shape that hadn't exactly been harmless before.
+
+My next completed task was awarded for 'Participated in Cleansing a Profane Space'. Its reward was a 'Minor Blessed Cup of Recovery'.
+
+"This says I participated in cleansing a Profane Space. How?"
+
+"The pawn shop's corruption attacked you directly and you refused to give in to hopelessness. You both did, countering the aura of despair that had turned the space profane in the first place. Pushing back against Hell will need more than your wits and strength. Your will and hope are just as important."
+
+I accepted the reward and summoned the cup into my hand. It was a plain wooden cup. I examined it.
+
+[Minor Blessed Cup of Recovery
+
+Uses: 1/Day (Requires Sanctified Space to charge)
+
+Effect: Recover Primary Resource. Effect increased by Intellect stat. (At least 1)]
+
+"What, exactly, does once per day mean?"
+
+"Resets at midnight, like your ATP will. Use it now so you know how much it restores."
+
+"How do I use it?"
+
+"Just lift it to your lips. It'll fill by itself."
+
+I did. The liquid tasted surprisingly sweet, like very sweet wine, but without the alcohol.
+
+My ATP went up to 3 out of 4. I hadn't noticed that my cap had increased at some point.
+
+"What exactly do levels do? Besides the two attribute points?"
+
+"It depends on the class. You'll get another Attunement Point every two levels, and a Perk selection every four, usually it's every five. The level ten, so your eight, Perk is usually pretty meaningful. Followed by a subclass, which replaces the perk choice on level twenty. Some Abilities have their own limitations or effects enhanced by levels. You don't have any of those, Eve, but you, Jamie, get more uses and effect for your Smites."
+
+I glanced over the remaining completed Tasks. There were still a bunch to go through, but it didn't look like any of them rewarded items. A lot of skills though.
+
+'Survive a Demonic Curse' granted me +5 levels to my Heightened Senses skill. The moment I clicked 'Accept' I was hit with a wave of impressions, like that first time I shifted. Scents stood out more clearly, colors became more vibrant and the darkness less dense. More importantly, my minimap became populated with various dots, representing the people and their guides nearby. When I had examined my menus in cat shape, I'd seen that it also increased that skill. Nifty.
+
+That was the highest increase in skills I got for any of the tasks, the others mostly giving +1 or +2, but there was a significant number of them. Surviving a potentially lethal fall in a shape with reduced falling damage. Killing significantly larger enemies while shifted. I ended up with a total of 5 ranks in the 'Instinct' skill, which Gabriel explained was my most important skill by far. This one would eventually allow me to know how to fly in my crow shape, without wasting precious ATP to practice in an otherwise useless shape.
+
+Other Tasks granted experience instead of skills or gear. Surviving the direct effects of Hell's Apocalypse Spells. I got that one twice, each one granting 10% experience for my current level.
+
+And then there were two odd ones. First Kill (House cat) and First Kill (Dog) were distinct rewards. Both granting 20% of my current level. Their reward, combined with the 20% from the other two Tasks, kicked me all the way to level four.
+
+"Gabriel. Is there a unique task for killing something for every possible shape?"
+
+I could hear the grin in her voice when she replied. "Nearly. If you get another breed of dog, it won't grant you another completion, since they are all under the umbrella of 'Dog'. Wolf would count though."
+
+This was the reason for past Eve's choices. Assuming I didn't get duplicates, I could get 60% of a level, every day, by maxing out those Tasks. Right now that wasn't meaningful, it wouldn't do a whole lot to allow me to survive the next six hours. But long-term? If I knew anything about how experience worked, later levels would be a hell of a grind. And I had a significant shortcut.
+
+"I assume that's a good thing? You got that gleam in your eyes?" Jamie asked.
+
+"That, dear Jamie, is Eve calculating how powerful she can get, simply by murdering efficiently." Lucy had seen me and understood my entire thought process. And turned it into the worst possible framing.
+
+"They—They aren't exactly wrong. This is significant."
+
+"Just wait. In an hour she'll get her new set. And then she'll drag you out there and ask you to beat some poor creature within an inch of its life. Only so she can become a hummingbird and peck it to death."
+
+Again, Lucy was perfectly tracking my thoughts. Was I this transparent or did they actually read my mind?
+
+Jamie shrugged. "If it's demons we are hurting and you get a big boost out of it? I'm on board. I don't exactly get the impression that Hell is playing fair either."
+
+I chuckled. This was still the lockpick I'd encountered in that alley, Paladin class or not. But most importantly, I had a new blinking notification. 'Perk Selection'.

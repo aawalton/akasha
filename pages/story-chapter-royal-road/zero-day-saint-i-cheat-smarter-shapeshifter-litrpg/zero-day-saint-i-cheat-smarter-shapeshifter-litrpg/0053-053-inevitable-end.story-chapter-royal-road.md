@@ -1,0 +1,259 @@
+---
+id: 6e0ab76a-bf91-5437-bb05-f342bc4297dd
+page-type-slug: story-chapter-royal-road
+title: "053 - Inevitable End"
+slug: 0053-053-inevitable-end
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 53
+ownLength: 2304
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3638054/053-inevitable-end"
+royalRoadId: "3638054"
+---
+
+Step zero was activating Embodiment and then Exemplar Leader. If the exploit worked, I would convert Experience into Mastery Experience, and Jamie would still get the 50% bonus. If it didn't, I would get exactly nothing, and Jamie would get the bonus and my share of the kill.
+
+Step one was seeing how our stealthy friend liked playing a bit of shell game with us in the ruins of New York. I switched into the osprey shape but stayed close to Jamie while we abandoned the streets and wove through buildings. Every building we passed, we went straight through.
+
+Not so fast that it couldn't keep up, just enough that it had to relocate constantly. And it did, seemingly very interested in observing what we were doing. And with every move it made, my awareness of its patterns grew. It didn't seem to be capable of flight. It moved more in rapid jumps and glides.
+
+I waited until we entered a large office building, and it moved to the other side, anticipating our movement.
+
+That's when I doubled back the way we'd come from, where I stayed out of line of sight of our observer. I flew in a wide circle, spanning multiple blocks, before I dove for that shimmer from above and behind. It sat on the roof of a three-floor-high commercial building.
+
+["Incoming!"] I wrote in party chat. Jamie's signal to rush out.
+
+I don't know what gave me away, but before I reached it, the demon whirled around. The blade in its claws was not covered by whatever magic hid it. The blade was curved and oozed darkness.
+
+All I could do at that point was to hope it wasn't poisonous and that the octopus could survive getting stabbed a bit.
+
+I activated Focused Fury and switched to the Might of the Meek version of the Giant Octopus, which had a base Endurance of 2. Might doubled its size, and Fury added another 20% on top of that. I lost most of my momentum in the shift, but gravity quickly compensated.
+
+I really needed to get better at test running those shapes before diving headfirst into combat. Eight limbs were definitely at least four too many, especially if they were all nearly thirty feet long.
+
+As I slammed into the demon I tried to hold onto everything I could get a grip on.
+
+We both went over the edge. One of my tentacles found the arm holding the knife, but not before the demon rammed the knife into that tentacle. The wound burned like hell. This was no good.
+
+Two other tentacles managed to hold onto the edge of the roof, and all others somehow latched onto the demon.
+
+In retrospect I shouldn't have held onto the roof. I hung 7 feet above the ground, suspended between the roof on one end and an angry stabby demon on the other.
+
+At least my uncoordinated grips had nearly immobilized the demon. I had multiple limbs grabbing onto its legs and two around its torso.
+
+I let go of the roof and dropped the remaining distance to the ground.
+
+Before I could bring my two freshly freed limbs into the fray, the demon cut through the tentacle holding onto its weapon arm. A new debuff appeared on my UI.
+
+[Ruinbrand (Debuff)
+
+Effect: Deals increasing damage over time as infernal corruption spreads through the body.
+
+Duration: 10 minutes or until the death of the infected.]
+
+This hurt more than anything in this apocalypse did so far. Well, besides that unicorn horn through the shoulder.
+
+I clenched with pain, shattering the demon's legs under my grip, but also pulling the six-eyed asshole closer.
+
+We struggled. The demon was fast and agile, but I had the limb advantage and strength. I just had no idea what I was doing. There was no instinct to rely on to deal with this. And this close I lacked leverage.
+
+Jamie cut the contest short by driving his sword, along with a pillar of divine light, right into the demon's head.
+
+But not before it could hit me with that dagger again. The same pain that was spreading at the end of the severed limb now spread at the base of my web.
+
+I wanted to scream, but this body couldn't.
+
+I slammed the end of the severed limb in front of Jamie. Red lines of corruption were swiftly spreading along it.
+
+["Cut it off!"]
+
+Jamie looked at the wound, the dagger, and at me. I could see his eyes unfocus as he tried to chat. His expression one of doubt and hesitation.
+
+["DO IT!"] I wrote again.
+
+"Fuck, Eve. Okay."
+
+He stepped next to my severed arm and struck down, right where the flesh was still healthy.
+
+I had never thought that an amputation could bring such relief. But the debuff remained. I couldn't see it, but I could feel how the Ruinbrand spread where the demon had stabbed me again. My health was down to two-thirds and steadily ticking down, with ever-increasing speed.
+
+["Thanks. I need to survive for 10 minutes."] I wrote.
+
+"Here is how this interacts with shapeshifting," Gabriel began, before I could ask the question I was about to ask. "Your health will recover, but the debuff remains. And its coverage, so to speak, will also remain."
+
+["Orca?"]
+
+"Yes—no! The demon's heart. It'll be resistant to an infernal debuff. Not immune, but Jamie can heal you. Probably."
+
+["What do you mean 'probably'?"]
+
+"It's holy magic healing a demonic body. I think it'll work, but it won't be pleasant."
+
+I swapped to team chat again.
+
+["You need to cut out its heart. Fast. Please."]
+
+I pulled the multitool and a knife out of my inventory.
+
+"Never a boring day with you, you know that?" Jamie said, even as he already went to work.
+
+While Jamie worked, I pulled a healing potion out of my inventory and cautiously pulled the cork out with my beak. When Focused Fury ran out, I nearly dropped the bottle. In an instant there was a little less me and the same amount of ruin. It hurt like a bitch. When my health went down to half, I drank the bottle, awkwardly twisting my aching body to down it into my beak.
+
+It only recovered about a quarter of my health.
+
+At least my shapeshifting cooldown had also run out. Nearly a minute done out of ten.
+
+I wished Jamie had the same practice in heart extraction as I had. Maybe I should have done it myself. With seven limbs left, I still considerably outnumbered Jamie's two. Not if we counted fingers, though. I lacked opposable thumbs. I studied a tentacle with its countless suckers. Did those count if fingers did?
+
+I was pretty certain octopuses couldn't throw up. I would have if I could have. The pain was bad. Really damn bad.
+
+"Got it!" Jamie shouted. He whirled around and presented me with the heart, as disgusting as the other two demon hearts I had already consumed.
+
+["Does heart eating have the same cooldown as shifting?"] I asked in Guide chat.
+
+Gabriel's reply came calm as ever. "No, that is a transformation, not shapeshifting. That's why it hurts like it does."
+
+I swapped to the Dire Hyena, activated Power Through to deal with the suddenly even more intense pain, and devoured the heart in one bite.
+
+What I hadn't accounted for was how much the demon transformation hurt—on top of the pain from the debuff. I passed out the moment Power Through ran out, mid-transformation.
+
+What woke me was a different pain. Searing pain as Jamie's glowing hands brought his holy touch to a very unholy body. I screamed, but my health was back at full.
+
+Four minutes remained on the debuff.
+
+"How am I doing?" I asked.
+
+"This shape doesn't die as fast as the others did. This was the first time I had to heal you, but I really couldn't wait any longer."
+
+"Thank you."
+
+"It's nothing."
+
+"It's the second time you are saving my life today. I need to get back into the habit of being the one who's badass."
+
+"That tentacle monster shape was certainly impressive."
+
+"Don't call it that."
+
+"It was big, monstrous, and had tentacles. Technically accurate."
+
+I groaned, in equal measure because of this stupid paladin's stupid humor and because of the debilitating pain of the debuff.
+
+I looked at my clawed hand with my third pair of eyes. My life force was steadily dimming.
+
+"How often can you heal me?" I asked.
+
+"More than enough. It will just keep hurting."
+
+"That's fine. What doesn't kill you makes you stronger, right?"
+
+"Nietzsche was a pretty weird guy, don't you think?"
+
+"What does he have to do with that?"
+
+"It's his quote."
+
+"Oh. Also a bit of nonsense, isn't it? What makes us stronger is what we kill."
+
+Jamie held onto my hand when the pain made speaking impossible. Twice more he had to heal me with that searing holy bullshit of his.
+
+When the debuff ran out, the pain quickly subsided. The air smelled of ichor and rotting flesh. I slowly stood up again.
+
+"That sucked."
+
+"I very much looked like it did."
+
+I finally took stock of my current shape. Its base attributes were indeed a lot weaker than the warrior demon had been, 6 for Strength and Endurance, and 10 for Agility.
+
+It had a similar tail and digitigrade legs but lacked the thick chitin-like plates of armor. This one was covered in far thinner, more layered, scale-like plates.
+
+And, of course, the wings. I had instinctively folded them around my shoulders, and like this they lacked any visible rigidity, giving them that cloak-like appearance. Touching them revealed that they were very sturdy, though folded like this the scales were tightly layered, offering additional protection for the arms and the back.
+
+I extended a wing. The shape had a wingspan of 15 feet. But the wings were different from what I had used before. Far more rigid and they didn't flap as easily. Probably I wasn't too far off with my observation that they did more gliding than flying.
+
+And then there were the spells.
+
+[Jaunt (Spell)
+
+Range: Self
+
+Effect: Increase jump height, speed, and range.
+
+Cost: 1 Mana
+
+Duration: 1 minute
+
+-
+
+Cloaking (Spell)
+
+Range: Self
+
+Effect: Caster blends in with the background, hindering attempts to visually detect them. Effect enhanced while motionless. While motionless also provides cover against aural or olfactory detection.
+
+Cost: 15 Mana
+
+Duration: 60 minutes]
+
+"If they can constantly stay hidden, they must have massive mana pools and or regeneration."
+
+"Or the spell becomes more efficient with training. Like how Constance's Holy Armor now lasts a lot longer than initially."
+
+"Yeah. Which sucks even more. I can't afford to practice a spell that costs 15 mana."
+
+Jamie elbowed me. "You can't afford to practice the spell yet."
+
+"Meh. At my current rate of near-death experiences per day, the odds ain't looking too good."
+
+Jamie stepped fully in front of me, frowning. "Eve. That sounds a lot like quitter's talk. You're not thinking of throwing in the towel, are you?"
+
+"Of course not. At this point I'm literally too annoyed with everything to give up. Just—" I looked down at the slain demon, "—eventually our luck has to run out, right?"
+
+"You made sure we all got plus-one luck. No, it doesn't have to run out. As long as we learn from all those near deaths, we will avoid those same near deaths in the future. And that means fewer of those experiences and more experiences of us using our gray matter to our advantage."
+
+I looked up at him. Only now I realized this shape was smaller. I nodded.
+
+"You are right. This was probably the shape speaking for me. Starting to think those scout-type demons are just lame and cowards."
+
+Jamie nodded to the ground behind me. "Still carried a pretty dangerous weapon. You going to pick that up? I'm reasonably sure I'm just going to instantly turn into some kind of dark knight if I touch that."
+
+I turned and looked at that grim-looking dagger. It wasn't bleeding darkness now and just looked like a wicked-sharp athame.
+
+[Inevitable End (Rare Weapon - Inert)
+
+Death-Bringer: Chance to inflict the target with Ruinbrand.
+
+Infernal Weapon: Inert unless wielded by an infernal being.]
+
+I picked the weapon up, and immediately it started oozing black again.
+
+"Guess this is finally payback for the Wild Hunt bullshit."
+
+"You can use their weapons. That might come in handy."
+
+"Now I wish I had kept that warrior shape. I'm holding on to that kobold for no good reason at all."
+
+"It's a cute shape?"
+
+"That's not a reason."
+
+I removed the kobold shape from the collar slot and added the octopus instead. With Shape Echo and Embodiment, I could always get it back and master it, if need be. I also didn't feel like being a demon. I returned to my completely normal, entirely natural half-dragon self. No point in faking being a human for the others. I looted the demon, which rewarded a single mana potion. The now inert dagger went into my inventory.
+
+"Let's get to the club. I want to be done there and visit the hyenas before dusk."
+
+"Yes, milady."
+
+"You only call this shape 'milady,' Jamie."
+
+"Certainly, milady."
+
+"Oh, screw you. Anyway, did you get a lot of experience, you ungrateful creature?"
+
+"A whole lot, yes. That's a really neat ability you got there. Your humble paladin is most grateful for your generous donation, mistress."
+
+"Okay, this is worse than milady."
+
+"This is nothing, Eve. I did theater. I can ham it up so much more."
+
+I hadn't gotten any mastery experience, but I hadn't expected the exploit to work, either. But it had to be tested.

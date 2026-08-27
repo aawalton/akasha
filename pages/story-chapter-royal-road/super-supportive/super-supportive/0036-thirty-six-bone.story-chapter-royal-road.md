@@ -1,0 +1,461 @@
+---
+id: 76b54352-42a3-5b0a-af96-6c6fd340f9c3
+page-type-slug: story-chapter-royal-road
+title: "THIRTY-SIX: Bone"
+slug: 0036-thirty-six-bone
+partOf: super-supportive
+position: 36
+ownLength: 6118
+unit: words
+publishedAt: 2023-05-18
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1216662/thirty-six-bone"
+royalRoadId: "1216662"
+---
+
+The hospital teleported Alden back to the summonarium, where he was met by the head of the medical team and Joe. The woman in charge of the campus medics was oddly friendly and casual, considering the one and only other time she’d spoken to Alden she’d basically told him he was useless and just to do as he was told.
+
+She complimented him on his performance, gave him an actual paper certificate of merit for exceptional service, and ordered him to take twenty-six hours off for his mental health. Finally, Joe cleared his throat pointedly, and she left the room beaming.
+
+“Did she have a personality transplant while I was gone?” Alden asked, staring down at the certificate and trying to decipher the words.
+
+“Ha! I haven’t heard that phrase before,” said the professor. “And yes. She did. It came in the form of a generous bribe from Jel-nor’s parents, encouraging her to look away from some anomalies with the girl’s use of one of the school’s emergency responders.”
+
+He paused. “I mean you.”
+
+Alden resisted the impulse to roll his eyes. “I know you mean me. I was there.”
+
+“Good! We need to talk. But first put on clean clothes. If I walk around campus with you in that state, everyone will think I’m a bully.”
+
+Joe gestured toward a pile on the floor, and Alden was surprised to see his own t-shirt, jeans, and a pair of the one-size-fits-most sandals that were available in the locker room back at the dorms. His clothes had been in the launderer when he left this morning. Joe must have had someone fetch them.
+
+Alden felt much more like himself once he’d ducked into a storage room and changed. He was surprised when he emerged and found the professor standing by the massive exit doors, gesturing for him to follow. “Shouldn’t we just go ahead and send me to ‘pick berries’ since we’re already here?”
+
+“I’d love to. But your mental health break is already logged with the System. Since LeafSong is your primary summoner I can’t assign you quests when they’ve put you on mandatory leave.”
+
+“We can’t say I want to teleport to Moon Thegund for a vacation?”
+
+“Unless you’ve secretly changed species and gained an Artona I passport,  then no.”
+
+Alden immediately felt relieved. He was tired and sore. Moon Thegund was eerie. But this means I’ll have to do more doubles later. And the assistants will be freaked when I don’t show.
+
+They had a good routine in place, and someone was always waiting for their ride right on schedule. Whoever it was today would have to sleep in the fruit-packing facility, waiting for tomorrow.
+
+“I’ll try to get word to my assistants. It’s kind of you to worry about them, but it’s wasted emotion in this case. They’re mature scientists who are aware that circumstances sometimes change. They won’t panic because of a single day’s delay.”
+
+“The man with the kids might.”
+
+He already had once. On the third night, Alden was supposed to take both of the children. But their father had refused to let him at the last second, despite the driver who’d brought them to the farm arguing with him at length. Alden had ended up leaving with the bald guy who’d ridden shotgun in the vehicle instead.
+
+“He’ll come to believe in your reliability as you successfully collect more and more of his fellows. Or he won’t. There’s no need to tranquilize him just yet, but it remains an option.”
+
+Tranquilize?
+
+They exited the building, and Joe strolled in the direction of the human dorms.
+
+“Aren’t you calling a cart?”
+
+“I did, but it’s the end of the day and there’s a wait. We might as well walk while one catches up with us. Also, you get a free lesson today. Isn’t that nice of me?”
+
+Alden sped up to walk beside him. “I do? What about the triangle of secrecy?”
+
+“It’s a different kind of lesson. Normally, I would want the comfort of a new contract to cover all of today’s events, but I could squirm out of this amount of trouble if I needed to. And you’re a pain to haggle with.”
+
+He smiled at Alden.
+
+“Also, I just formed nine contracts back to back with those shiny students you gifted me! The amount of weeping. I’m sure I wasn’t that pathetic the first time I made a little mistake and had to swallow bad terms with another wizard to cover it up.”
+
+Alden envisioned the scene he’d left behind in the jungle —mishnen guts and Stuart’s blood everywhere, aspiring teen wizards puking in the bushes, Joe grinning like a maniac. The idea of all of them tattooing themselves together didn’t make the picture brighter. “You know I didn’t actually realize you would blackmail them all into contracting with you? I didn’t even realize wizards made contracts with other wizards.”
+
+He wanted to ask what the terms of the contracts were, but…maybe it was better not to know.
+
+“Of course we do! It’s nearly the oldest form of magic there is. And don’t worry. Most of them will be free of me by the end of the week, their debts paid for them by their loving families. When it’s all over, their place at this school will be secured with no official scratches on their record, and I will be considerably closer to overturning my own sentence.” He chortled to himself. “Which brings me to the first part of today’s lesson—several of those young people who gave you such difficulty today are important. One of them is very important. It’s not me you’ll have to deal with if you go blabbing about them; it’s their parents. Don’t do it.”
+
+Joe bent over suddenly to examine a plant growing in a sidewalk crack, and then shook his head in obvious disappointment at it before continuing on.
+
+Alden stepped carefully over the plant just in case it was more than a simple weed.
+
+“I didn’t plan to gossip about them.”
+
+“Good. Moving on…you did well today,” Joe said. “In fact, I could hardly imagine a more perfect way for you to have handled the situation. But unless I’ve misjudged your personality, I think it was an accident on your part. Why did you call me?”
+
+Alden briefly wondered how honest he should be, but he couldn’t see much reason to lie. “I thought everybody was in over their heads. And Stuart was going to lose his foot. Permanently, I mean. And I was worried they were going to end up feeding me to the crocosquid to cover up their crimes.”
+
+It seemed like enough reason to call for help.
+
+Joe’s brows lifted. “Ah, so it did occur to you that they might intentionally arrange for you to die?”
+
+He said it in a conversational tone that somehow made it more chilling.
+
+“I mean, not all of them,” Alden said hastily. “Some of them seemed ready to get help from the school and accept the consequences. But I thought Jel-nor might. And the one who kept shouting about his scholarship.”
+
+“You’re actually much more suspicious than I thought. That’s good. I was worried you were going to get yourself killed before you reached your full potential.”
+
+Joe walked blithely toward an oncoming cart full of examinees, forcing it to dodge them. Alden gave the passengers an apologetic smile as they passed.
+
+“I’ve observed that human Avowed tend to be more wary of me now that I’m conspicuously powerful and accomplished.” The professor gestured at his own tattooed face. “Earlier in my career, when I had just earned the right to summon Avowed, they regarded me with less fear.”
+
+“I guess it’s natural to be more afraid of someone who’s powerful,” Alden said.
+
+“Is it? I think that mindset is very species and culture dependent. At any rate, humans are, in my opinion, poor judges of the threat younger summoners represent. You are much more likely to come to harm when you’re summoned by a beginner than a more advanced wizard.” He paused. “Obviously I’m not including combat assignments in that equation. Those are universally dangerous.”
+
+Alden was surprised that he seemed to be getting a “how to stay safe from your summoner” lecture. He had pegged Joe as someone who would throw people in the deep end and tell them they’d better figure out how to swim for themselves.
+
+That metaphor hits a little too close to the day’s events, doesn’t it?
+
+“I guess it’s because amateur wizards are less experienced?” Alden suggested.
+
+“Less experienced. Less aware of their own limits and the limits of various species and classes of Avowed. Less able to see the line between a reasonable use of their helper’s talents and an unreasonable one.” Joe smiled. “Contract-facilitated summons are a luxury reserved for the elite among the elite. Avowed servants are a convenient but limited magical resource, and there’s a certain cachet to using them. So access is restricted to the upper echelon of wizards. One big mistake is generally enough to see someone barred for life. But it takes time to weed out the fools who are prone to making that kind of error.”
+
+“By big mistake you mean…”
+
+“I mean getting an Avowed killed on an off-Contract assignment. A death on an off the books mission is the ultimate oops for a summoner.”
+
+“Wait. Why are you telling me this?” Alden said. “Going to pick up your assistants from Moon Thegund every night is off-Contract, right? You’re only allowed to use me for things related to your university work because of your punishment.”
+
+“Just don’t die. And if you’re going to, do it at the farm with some berries in your pocket and not off in the grasslands. That will keep me in a comfortably gray area. Since the System is still allowing me to assign official quests at Elepta, nobody can argue that the location was too dangerous for an Avowed of your rank.”
+
+Alden tried to refrain from rolling his eyes. I’ll do my best to get killed in a manner that’s convenient for you, then.
+
+“The students’ so-called plan to have you catch the mishnen for them was full of far more unforgivable holes. So many that even you noticed them right away. I shall drink in honor of their desperation tonight.”
+
+“And I’ll have nightmares about it.”
+
+Joe grinned at him. “If it’s any consolation, wizards this immature could only call for your assistance at all because it was an emergency, and the university has made you available for those. When she earns admission here, Jel-nor will have several years of school before she gains provisional access to the Contract for her personal use. And then, if she achieves a certain level of competence and the necessary recommendations by graduation, she’ll be able to summon low-ranking Avowed without oversight.”
+
+“That’s a relief,” Alden said. “Maybe by then she won’t be angry I tattled on her and her friends.”
+
+“Which brings me around to the main point of the lesson, and an important question for you to consider—what would you have done today if I wasn’t available to clean up the mess? It was only possible because I’m a faculty member here. I won’t teleport around the universe to rescue you from other summoners under ordinary circumstances. I won’t even be able to.”
+
+“I didn’t think you would,” Alden muttered. “I guess I could call for arbitration?”
+
+Someone had suggested he might do that earlier. He wasn’t clear on what would happen if he did, but it must have been an option.
+
+“Mmmm….that’s only possible under specific, and usually unpleasant, conditions. And it’s leaving your fate up to chance. The results would depend a lot on your summoner’s respect for authority at the moment and the mood of the arbitrator. And time is also a factor. An arbitrator might not answer instantly, in which case you’d be at the mercy of an angry summoner until they did. I don’t recommend it as a first resort.”
+
+“What do you recommend then? I just shut up and chase dangerous monsters around a lake even though that’s not what I was summoned for and I can’t possibly catch them?”
+
+Joe blinked at him. “It’s a problem for you, I admit. I suggest feigning stupidity.”
+
+“What?”
+
+“Yes, like that! That was good.”
+
+Alden groaned.
+
+“Actually it would be best if you could feign stupidity and hysteria at the same time,” Joe said, wandering over to examine another weed sprouting up among the carnivorous flowers. “But that might be a tall order.”
+
+“Play dumb? That’s your advice for if some Artonan tries to force me into doing an impossible job?”
+
+“A wizard who is able to summon an Avowed is almost always talented, excessively educated, and proud of it. I include myself in that description. We also tend to have an inflated sense of our own superiority over other species. Jel-nor would never have believed your skill was incapable of petrifying the mishnen, not when she’d staked her reputation and her future on it working in the way she imagined. But she might have been persuaded to believe you yourself were too dimwitted to use it in the correct way.”
+
+“Would it have frozen the mishnen?”
+
+“I doubt it. Even if you managed to use your preservation on it, it was wearing the leash she crafted during her exam session. The burden would have been immense.”
+
+“Why didn’t she just shoot it with her spell? You know—” Alden gestured like he was playing with an imaginary cat’s cradle.
+
+“Oh, it could have repelled that kind of attack. They’re not intelligent, but they have a number of fascinating qualities. It’s why mishnen parts are so valuable and also why they’re endangered. You have to sit on a waiting list for years to get permission to summon one legally. They’re very susceptible to poison, though, which is why I chose that method. By the way, what would you like for supper?”
+
+“Are you planning to poison me?”
+
+“Ha! No. You gave me a dead mishnen and a means of ingratiating myself with all kinds of interesting people. In exchange, you get supper delivered. There’s even a place that supposedly delivers Earth food to campus, though I have my doubts about its authenticity. Do you humans eat cheese fondue all that often?”
+
+I wish I did. Alden’s stomach growled. He thought he shouldn’t be hungry, considering what he’d seen this afternoon, but he was famished.
+
+“I’ll take anything that’s not made of animals or by animals. I like those egg roll things…you were eating one when you arrived at the pond earlier. Those are good.”
+
+Joe fell silent for a minute, eye zipping behind his lens, then announced, “Food is on its way. Enough for your human friends as well, so that they won’t be jealous.”
+
+“I haven’t got any human friends here.”
+
+“You’re pitiful, aren’t you? In that case, I’ll double the order so that you can try to make some.”
+
+Alden sighed. He wondered if he would be a traitor to his species if he just asked Joe outright about Manon possibly using mind control on people.
+
+A moment later, their cart finally arrived for them, and Joe started making small talk about the pros and cons of melted cheese.
+
+“There are only pros,” Alden said. “Cheese has no cons. How do I get more refusals?”
+
+“That was a quick turn in the discussion.”
+
+“I was thinking that having a ton of refusals stacked would help me avoid crazy summoners. It was relevant to the earlier conversation. Not the fondue one.”
+
+It was also going to be necessary if he ever wanted to get work as a hero. If he was one of those Rabbits who got summoned frequently—and considering how busy he’d been over the past few days it seemed likely that he was—he would need enough refusals to reassure anyone he might work with that he wouldn’t be a liability.
+
+“Having ‘a ton of refusals stacked’ would indeed help you with that. But I’m afraid the best way to get them is the obvious one. Hope you are summoned often and save them up.”
+
+“There’s seriously not a way to get bonus ones?”
+
+Joe squinted in thought. “Few that would actually feel like bonuses to the recipient. Unless you like the idea of unusually traumatizing quest assignments.”
+
+“I don’t.”
+
+“Perhaps some people can award them. I personally never had the option. If you’re just hoping for a more predictable life, then long-term assignment is a good choice. If you can obtain one. You’ll know who you’re working for. And you’ll earn a lot of rest days. You can postpone a portion of them. It’s not the same as a refusal, but it allows you to carve out time for yourself.”
+
+“You mean the downtime you earn after a certain number of days of being summoned? That can be postponed?”
+
+“You didn’t know?”
+
+Alden shook his head. He’d been aware that such downtime existed, but he hadn’t realized it could be used at his convenience.
+
+“The System should let you bank time off once you have some, which you can then use to guarantee yourself a break when it’s most convenient for you.”
+
+So it’s like saving up for a vacation.
+
+It wasn’t as flexible as a refusal. You would have to use the banked time without ever knowing if you were choosing moments when you might not have been summoned anyway. But that would be great for his purposes if he got enough of it. If he was helping out with a critical situation on Earth, he could spend a few of his saved hours to guarantee he stayed there instead of getting zapped to another world.
+
+And then, ideally, his refusals could be reserved for getting out of terrible or dangerous quests.
+
+The cart dropped him off at the dorm, and Joe eyed the building critically.
+
+“It looks depressing,” he said. “Why did they make it depressing?”
+
+“It’s pretty okay. Windows would be good. And private rooms would be nicer. But there’s air conditioning on the human floor, so I’m not going to complain.”
+
+The first and second floors were for tmithans and lortch. When the interior elevator door opened on floor one, it felt like a dry sauna. And the lortch floor was pitch black and full of clicking noises.
+
+Alden had no desire to visit the neighbors in their preferred environments, and they probably felt the same.
+
+He said goodbye to Joe and took the elevator up. He was delighted to realize he was the only person present.
+
+He headed straight for the showers. His last bath had been a hasty dip in a rainforest pool full of poison, blood, and probably mishnen pee. He would soak himself in rubbing alcohol if he knew where to get some.
+
+He searched the stalls, hoping one of the boater members had left body wash lying around. Most of them kept their personal items in their lockers, but today he was rewarded with a bottle of expensive-looking shampoo.
+
+Alden said a silent apology to the owner and resisted the urge to use the whole thing.
+
+While the too-hot water blasted him, he scrubbed until he thought every last bit of the bizarro day must have gone down the drain. Then he dug his fingers into his hair, washing it for the second time, and felt something odd.
+
+Blinking away water as the rinse cycle started, Alden stared at the tiny, diamond-shaped shard between his thumb and forefinger. It was a bone fragment smaller than his pinkie fingernail. It was still stained with blood.
+
+His mind immediately went to the strange operating/magic ritual room at the House of Healing. Stuart was probably there still, having his foot…reassembled? Regrown?
+
+I hope this wasn’t a critical piece, he thought.
+
+He was past the point of being queasy. Or maybe it was just that a single bone shard in isolation wasn’t as freaky as a whole pile of bloody meat and bone chunks had been.
+
+I don’t have to return it, right? What do I do with this?
+
+He guessed the logical thing was just to wash it down the drain. But what if it got stuck there, and years from now, some Artonan plumber found it? And they traced it back to its owner using magic. And Stuart’s “very important” family got mad that the bone hadn’t been treated with proper respect or something.
+
+It sounded ridiculous, but not quite ridiculous enough for him to ignore the possibility.
+
+I’ll take it to Joe tomorrow. Maybe he can drop it in a vat of acid. Or his eels can eat it.
+
+Then, as if it was a perfectly sane follow-up idea to have, he idly thought, I can eat it.
+
+“Gah! What the shit, brain?!”
+
+Alden staggered back against the wall of the shower only to realize there wasn’t much point in trying to escape from himself. He held the piece of bone at arm’s length and examined his own mind in horror.
+
+It was exactly the same matter-of-fact feeling he always had about potential food now. Not really the intrusive voice of the gremlin, though he tended to equate the two, but something that felt more fully united with his person.
+
+A buffet of things he would have liked to consume were off-limits. But this gross random fragment of an alien guy named Stuart?
+
+Totally eatable.
+
+“Nooo,” Alden groaned, pressing his forehead to the pale green shower tiles.  “Ugh. Why?”
+
+And as soon as he thought it, he discovered he knew why. Just like he had that first day after donating some of his blood to Gorgon…which was maybe the worst idea ever if this was the result.
+
+I couldn’t drink hot chocolate because the cow didn’t offer me the milk. But I can eat Stuart’s bones like some kind of horrible ghoul because he entrusted himself to me.
+
+Dammit, Gorgon. What kind of creepy things do your people get up to for this to be a part of your makeup?
+
+Why couldn’t this power/curse/thing distinguish between chicken nuggets and people? And why didn’t it care that Stuart had definitely not been inviting Alden to dinner when he consented to the skill’s use? The gremlin had made a major nuisance of itself, trying to make sure the contract between Alden and Joe was all perfectly consensual and balanced.
+
+Is the this-is-food detector separate from it? Is it confused because my skill was directly involved? Is it just hungry for Artonan and looking for an excuse?
+
+Also, did this mean Alden could eat anyone who had entrusted themselves to him? It was a dark question, but it had to be asked, and…
+
+Yes. Indeed. A moment’s thought gave him the answer. Joe’s rescued assistants were on the menu.
+
+“Oh my god,” he whispered. “It’s like I’m designed to be a cannibal.”
+
+Boe would probably remind him that technically cannibals ate their own species. And technically anybody could be a cannibal. In fact, Alden was less likely to become a cannibal than most people since he would have to get people to entrust themselves to him first.
+
+That made him feel a little better.
+
+A little.
+
+How did I get myself in this mess?
+
+He was curious about what would happen if he ate the bone but not nearly curious enough to ever do it. Even if he set aside the ick factor and the evil factor, he could still get some kind of lethal alien virus. Or maybe Artonan bones were an allergen to humans.
+
+Wonder why they never covered that one in culture class.
+
+He was so distracted he accidentally let the shower get halfway through its unpleasant oil-spraying cycle before he noticed.
+
+He turned it off. He didn’t toss the piece of bone down the drain.
+
+He still wasn’t sure what he planned to do with it. Maybe he’d give it to Joe to dispose of. He could respectfully bury it? Or maybe he’d take it back home to Gorgon and see if Gorgon could eat it, too.
+
+If it belonged to Alden now, and Alden offered it to him, would that count?
+
+Here, buddy. Got you a souvenir.
+
+He snorted at himself. He definitely wasn’t going to do that one. Stuart seemed pretty okay—kind of hard to understand but definitely not a guy who deserved to wake up one morning with a strange voice in his head, a meat ban, and no idea how it had happened to him.
+
+#
+
+“Can I tip you?” Alden asked the delivery person a few minutes later. “Is that all right?”
+
+He was standing outside the dorm, hair still damp from the shower, signing a tablet to acknowledge his receipt of an obscene amount of takeout that had just arrived in a mini helicopter with an Artonan in a professional-looking gray uniform.
+
+<<Why would you tip me again?>> they asked in a confused voice, setting yet another container of food on the pathway. <<It is not necessary to begin with, and you already did it when you ordered the food.>>
+
+“Oh. Okay.” Apparently Joe was a tipper.
+
+Not long after that, he watched the helicopter leave. Its blades were completely silent in defiance of common sense.
+
+Joe really goes all out when he’s saying thanks, he thought, staring around at the stacks of takeout covering the sidewalk.
+
+The containers reminded him of high-tech tiffins. Judging by the different colors and designs on each, they’d come from multiple restaurants. Several of them were whistling and steaming like kettles. One had smoke curling out of the sides, and another was covered in an exciting layer of frost.
+
+If that’s anything remotely like ice cream, I’m going to swim in it.
+
+Alden wanted to eat inside, but considering the close quarters, it might not be the best idea. Some of the food was giving off strong smells. He moved the containers off the path into the short clover-like plants that the campus used as ground cover everywhere. Then, satisfied that he was out of the way of any foot traffic, he started opening everything.
+
+It was a beautiful experience.
+
+Every container had utensils included, so Alden took a two-pronged fork from one of them and started stabbing.
+
+The vegetables that looked like small, whole potatoes tasted like hot vanilla cake. The squares that looked like cake were savory and herby. There were not-meat balls that were kind of peanuty, and there was a pasta dish that would be a fine substitute for fettuccine alfredo as soon as he picked out all the hateful pieces of fishy-tasting lettuce.
+
+He had more than one kind of grain bowl covered in greens and sauce to choose from, and they were all decent.
+
+A bright yellow container was entirely full of the eggrolls he’d requested, and he shoved one in his mouth while he tried to decide if he was brave enough to take a bite from a bowl of soup so spicy that the steam wafting off it was making his eyes water.
+
+There were some surprisingly awesome salads, and the container with the smoke pouring off it turned out to be a functional mini grill. It came with a second container full of food on skewers and a bunch of loose leaves that were obviously some kind of seasoning, though Alden wasn’t sure if he was supposed to put them on the food directly or add them to the smoldering burner.
+
+Altogether, it was enough food for an army.
+
+I should share.
+
+The standard supper offerings would be available in the Avowed dining area soon. It was always fine, but this was much better. And it wasn’t the boater member’s fault they were hard to get along with. Or at least he didn’t think it was completely their fault.
+
+Manon was probably nudging them toward disliking and excluding him for her own purposes.
+
+Before he made his decision, he carefully pried open the lid on the frosty container. To his delight, it was frozen dessert. It was packed in, filling the container to the brim, and the flavors were in stripes like Neapolitan ice cream.
+
+The texture was halfway between sorbet and shaved ice, and one of the flavors was definitely wevvi. But it was close enough.
+
+“System, can I voice call Naya? The human Avowed who lives at the dorm with me?”
+
+Naya was the younger woman with the bright red streaks in her hair. He didn’t know anybody’s last name, but he doubted the System couldn’t figure out who he meant. And a local call should be cheap.
+
+It took a couple of minutes, but she answered. “What do you need?”
+
+She sounded annoyed.
+
+Alden gritted his teeth. He almost said, “Nothing. Wrong number.”
+
+He could always trash the leftovers or drop them off on the tmithan floor. But he didn’t want to be part of the problem.
+
+“Hey. Sorry to bother you. There’s a ton of extra food at the dorm. The professor in charge of the labs had it delivered. I’m having a picnic. You guys are mostly done with work, right? You should come.”
+
+“Oh,” Naya said, surprised. “Is it enough food for everyone?”
+
+“Yeah. We’re loaded. No meat. It’s all vegetarian. But it’s pretty awesome. Plus, there’s ice cream-ish stuff.”
+
+“How ice cream-ish are we talking?” she asked with a laugh.
+
+“Fifty percent. But it is frozen.”
+
+“Say no more,” she said seriously. “I’ll be there in twenty.”
+
+That went surprisingly well.
+
+After the call ended, Alden selected one of the containers that seemed to be designed to seal completely. He filled it with all his favorite things, then he hurried it up to the third floor and stuck it in Thwart Hog’s sleeping capsule. A few minutes after he made it back down, the other humans started arriving.
+
+Perhaps unsurprisingly, Manon was the first to appear. She was wearing her black Rabbit uniform, and her hair was up in a bun.
+
+“Wow!” she said, examining the ridiculous spread. “Do you mind if I…?”
+
+She gestured at the containers.
+
+“Go ahead.” Alden tried not to freak out and overanalyze his own emotions. She wasn’t a Sway. And he was a rank above her. Whatever she did, it wasn’t going to be that serious. The effect of a single dose of her skill was probably milder than the peace of mind wordchains he’d been using so often lately.
+
+I just have to stay alert and aware.
+
+“This is for all of us, right?” she asked, examining the spicy soup. “Members of the boater can have it?”
+
+“Yes?” Alden said. Hadn’t he just covered that? “You can have it.”
+
+“Great!”
+
+He expected her to grab a fork or a spoon and dig in. But instead she started arranging the containers.
+
+Oh, he realized. Those questions were so she could establish stronger ownership over the food. So that she could arrange it to suit the boater members better. Or just herself.
+
+It was unexpectedly mesmerizing to watch her work. How much of a difference could arranging things make?
+
+A lot, as it turned out. Even the more garishly-colored containers somehow looked more appealing in the locations Manon chose for them. She flipped lids off selected ones seemingly at random, but Alden soon realized those were the foods he’d thought were a little too hot.
+
+Did she know that they needed cooling? Or did she just know that they would suit humans better if the lids were off?
+
+She even picked the fishy lettuce out of the pasta and stuck it into the soup.
+
+She didn’t taste either dish. There was no way for her to know what anything tasted like. It had to be some entirely different method.
+
+“How does it work?” Alden asked. “Your skill?”
+
+Was there a small hitch in Manon’s motions? The briefest of pauses? Or was it his imagination?
+
+“What?” she said. “Sorry, I was so focused!”
+
+“I just mean what does it look like to you?” Alden clarified. “I didn’t want trade secrets or anything. Does the food glow if it’s in the wrong spot or something?”
+
+“Oh! What an interesting question! No, it doesn’t glow for me. I guess some part of your own skill must?”
+
+Alden had been thinking of the targeting halo. He nodded.
+
+“I see empty spaces,” she said. “Like the world is made up of layers and layers of unfinished jigsaw puzzles. I pick the right puzzle for the occasion, and I try to fill in all the empty spaces as best I can with the objects I have available.”
+
+Alden couldn’t picture that well at all.
+
+“Were there a bunch of lettuce-shaped holes in the soup?” he asked, perplexed.
+
+“Yes.”
+
+It really is like jigsaw puzzles I guess.
+
+Just before the others started to arrive, she took a knife and carved the cake-tasting potatoes into roses. She placed each one in a different container, in the perfect spot to somehow make it look like the feast of miscellaneous parts all went together flawlessly.
+
+Alden didn’t understand how it worked. But it did.
+
+And in a way, it answered a question he hadn’t wanted to ask. If Manon didn’t have a piece that naturally fit into her puzzle, she could always shape one herself.
+
+Soon, there was something that felt like a party underway on the clover lawn in front of the dorm. Everyone was excited. They wanted to hear about Alden’s day and the emergency, and they didn’t seem to care that he could only give them the foggiest of details about what had happened. A couple of them even started giving him advice about life on Anesidora, and the medical team guy who always wore nice suits—Chris—mentioned that he should reach out to the main hospital on the island and ask about volunteering.
+
+Then, at some point Alden couldn’t pinpoint no matter how hard he tried, it began to shift.
+
+Conversations became just a little more awkward than they should have been when he joined in. He caught the occasional annoyed sigh or glare direct his way. The angry guy made a snide comment about some people having all the luck.
+
+Alden carefully avoided looking at Manon, and when it became too uncomfortable, he just bowed out. It would look strange if he stayed when he’d always gone out of his way to maintain his distance before.
+
+As he climbed into his capsule, more than willing to take advantage of the private space even if he wasn’t sleepy yet, he wondered what kind of puzzle piece he was. Had she just slotted him into place where she wanted him? Or was he only a spare she had brushed off the table?
+
+Either way is fine for now, I guess. I just need to get back home and away from her while I decide what to do.
+
+He opened a small panel in the wall of the sleeping pod. There was a narrow shelf for personal items there. It was empty.
+
+Alden took the gifts he’d gotten from the treat bowl in the doctor’s office and lined them up. There was a lump of glittery black modeling putty, a whistle that produced a different random note every time you blew on it, and small stuffed toy in the shape of a bright blue Ryeh-b’t.
+
+It was little kid stuff, but it made the capsule look less sterile.
+
+The Ryeh-b’t’s tail and wings had wires in them so that they could be repositioned. Alden entertained himself by making the small reptile-ish animal look like it was poised to take flight.
+
+Then a thought occurred to him, and he took the bone shard he’d been wondering what to do with and stuck it into the modeling putty. He rolled it into a perfect ball and set it back on the shelf.
+
+“Just an ordinary collection of knickknacks for an ordinary guy,” he said to himself.
+
+He took a sleeping pill that night, and as he lay staring up at the ceiling of the capsule, gradually growing more and more groggy, he kept telling himself that it was only seven more days.
+
+One week. Just one. And he could sleep in his own bed, in his own house, with his aunt making too much noise in the middle of the night and his friends just a short stops away by bus or train.
+
+Maybe I’ll go back to school instead of trying to think of a way out of it, he thought. It sounds so easy right now. Just sit in class. Raise your hand every now and then.
+
+He yawned.
+
+It would be nice.

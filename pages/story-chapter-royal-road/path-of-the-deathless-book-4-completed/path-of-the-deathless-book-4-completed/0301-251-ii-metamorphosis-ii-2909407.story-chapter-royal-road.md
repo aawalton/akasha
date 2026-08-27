@@ -1,0 +1,97 @@
+---
+id: 8f531d2d-809d-5d89-b9fe-192b2cfa83fb
+page-type-slug: story-chapter-royal-road
+title: "251 (II) Metamorphosis [II]"
+slug: 0301-251-ii-metamorphosis-ii-2909407
+partOf: path-of-the-deathless-book-4-completed
+position: 301
+ownLength: 2432
+unit: words
+publishedAt: 2026-01-03
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2909407/251-ii-metamorphosis-ii"
+royalRoadId: "2909407"
+---
+
+251 (II)
+
+Metamorphosis [II]
+
+Though the bulk of Uva's consciousness ignored the Eldest, there was still a single mind in her that was briefly unattended to, that didn't have a task of her own. And so, against her own wisdom and desperate for any knowledge to gain an edge, to find a way free from the Outside, she spoke to the Eldest.
+
+"I am not giving myself to you. I will not let you rewrite the shape of my soul and pervert my flesh."
+
+The Eldest, however, didn't respond as a person did. Instead, there was confusion, almost agitation, at her words. "There is no revision. There is no me. There is only you. Now that I have dipped within you, you are to change. We are to be. And so it is inevitable. You will accept, or you will cease, and it will not matter because it wasn't."
+
+It was hard to understand how the Eldest’s thinking worked, but she suspected the way it viewed time was awkward as well. It spoke as if there were potential futures that it was living at the same time the present was ongoing, but the futures weren't materialized and with every word it uttered, it was confused as well, as if possibilities were made true and then false in the same sentence.
+
+That realization both unnerved her and gave her insight into how the Outsiders worked. If the Eldest perceived time and reality in such a way, then how did the Stranger? Perhaps her biggest issue wasn't the fact that she didn't comprehend their thinking. Her biggest issue was that she didn't think in the same flow of time as they did. She was linear; everything was just forward. But the Recollector had possessed extensions of itself lingering in the past. It experienced multiple versions of its own past at the same time.
+
+She didn't need to become entirely like them, but she needed to bridge the gap somehow. She found herself wary, and ultimately she didn't want to change, didn't want to transform at the whims of another. Her own agency was one of the few things that still remained precious, even in these trying times.
+
+After the 10,000th breach of Blackedge, time had stopped mattering to Uva. She wasn't sure if she'd only been defending the town for a few days, a month, or even a year. It was constant. It felt like hell, but with every battle she fought, her skills grew stronger, and the metamorphosis inside her churned and twisted some more, but she still held it back.
+
+She still used what remained of her will to impose restrictions upon the Eldest, used the Starhawk's divine might to burn and purify her soul. That seemed to drive the change back, to keep the mutations at bay, but it wouldn't be forever. For there were already skills the Eldest was infested in, and with every level she gained, it grew stronger as well.
+
+"You know, I came up here to see if you're all right, but…” Rose sighed, “I don't think any of us are doing that all right. Shit's still fucked outside. We managed to get some of the gardens back under control, but we ended up spilling some of those freaks' blood all over the soil. And now all the shit that comes out isn't growing right. It looks like deformed veins. They all have eyes as well."
+
+Uva let out a breath of frustration. "They need to be burned. The Stranger can see us through them. Actually, no, don't burn them. I'm going to reach into them. Let me see if I can confuse them. Let me—"
+
+"You got a heavy nosebleed, you know that, right?" Rose asked.
+
+Uva reached up with her hand. It had been some time since she'd used her body to do anything. She was rooted to the top of the tower. All of her focus was devoted to combat. She hadn't drunk in... she couldn't recall how long. She had soiled herself at one point, but never bothered changing. Didn't have the time to worry about her dignity or cleanliness. She smelled foul, worse than she ever did. And she felt less like a person with every passing second.
+
+For a while, Rose didn't speak, and Uva thought the lady had left. But then she let out a long sigh. "I wish I wasn't so godsdamn useless right now."
+
+"It is not your fault," Uva managed, even though her mind was stretched to the brink. Even with over a hundred instances of herself activated at once, with time flowing so slowly she was barely keeping up, she had to isolate threats. There were so many things trying to monitor her, so many adversaries hiding in the Stranger's domain. The trees here sprouted eyes, mouths, and tentacles. They would lash at her, and the only way to make them let go was to sever their branches using her strings, or to rip into the very cognition that they were connected to.
+
+And then there were the Fingerlings, the Stranger's offspring. They were birthed from the nightmarish bark, bursting free as single-Index finger-shaped monsters that were larger than Blackedge, like human-sized pinky fingers that merged with flesh and deleted them from existence wholesale. Uva suspected that they cast the bodies back in time and left them there somehow.
+
+With all these threats seeking to overwhelm her, she turned the strategy back around. Instead of simply seeding their mind with misinformation about where she was, she started generating additional sightings of Blackedge. And so the collective forces under the Stranger's sway had to scatter. Had to respond to every manifestation of the town, and soon, Uva learned how to overlay the town with other Eldritch entities. This caused no shortage of Stranger-on-Stranger violence. And to her satisfaction, it worked on some level. The offspring were more than willing to cannibalize each other, to tear each other asunder. That desire to mutilate, to separate, to be their own independent entity always churned inside them—traitorous, treacherous, but true.
+
+"Something doesn't have to be your fault for you to feel bad about it," Rose said with a slight snort. "I used to be a Pathbearer too, you know. Well, technically, I still am, but after getting shit back out into the world by your boyfriend, I don't really feel like I'm worth much of anything. Managed to regain some of my Divination, though. Leveling faster than I can remember. My other magics haven't gotten a chance to come back. I wanted to help Valor with the other marshals, but the damn skeleton was convincing. Told me that I was better served being here, making sure the people were safe and directing the survivors."
+
+Rose paused. "It feels like I don't really know most of them anymore. Sure, I knew them twenty years ago, but that's quite a while. Now, suddenly, I'm back, and we're doing all this, and it feels like the bad and good old days are here again. Except, I'm barely myself. And now I have to play the role of bystander to all this chaos. And some girl has to do all the fighting for us."
+
+Uva speared a string through the mind of a Recollector and flooded it with misinformation. It saw a Blackedge dipping down from the foliage above, and immediately moved in pursuit. Across the way, moving in the opposite direction was an Index fingerling. It too saw a mirage of Blackedge, and as both Eldritch off-things crashed together, the Index splattered the other utterly, before crashing into a dense trunk of Eldritch wood. Black blood spilled into the world, black blood that didn't flow but more pulsated and scattered into motes. From those motes formed new Fingerlings, Fingerlings that burrowed in and shredded the Index apart. Approximately five kilometers away, the actual town was beset only by a few stray nightmares, and they came apart in pieces as Uva used her psychomancy threads as razor wire, rather than a tool to sever minds.
+
+It was only then that the words of Rose hit Uva. The Psychomancer frowned. "I'm not a girl."
+
+"Oh, yes, you fucking are," Rose insisted. "You're what? Barely thirty?"
+
+"Twenty-two," Uva admitted quietly.
+
+The lady whistled. "I remember being 22. All I wanted to do was see the world and tell my dad to go fuck himself. I got to do both, so I moved on to grander goals. Decided I didn't want to be one of those pathetic noble girls who masqueraded as a Diviner or some other bullshit mage-role in between sessions of husband hunting to solidify the position of my house while also cheating on my would-be husband with one of a thousand paramours."
+
+Try as she might, Uva couldn't muster the enthusiasm for this conversation. "So you joined your Republic's military force. Very commendable."
+
+Rose snorted. "I'll be very honest with you. I don't give a shit about the military. I never did. But joining it pissed Dad off because he was afraid I'd get myself killed. And secondly, there was a certain someone who decided to go into the service, and I didn't want any other upstart vanguard or shadow girl getting to him before I did."
+
+Uva hummed in response but said nothing beyond that. Rose took that as a sign she should continue.
+
+"Anyway, I didn't like it at first. Wasn't exactly that tough, though I was a hell of a lot tougher than most other mages thanks to all the trouble I got into at the university. Turns out, blowing yourself up experimenting with Pyromancy did wonders for the leveling. Just, uh, cost your family a great deal when they had to send you to the Biomancers over and over again." She chuckled. "But I got used to it. I adapted, and eventually I kinda enjoyed it, you know? I never admitted it to anyone out loud, but I enjoyed the war. I enjoyed seeing my enemy before they could see me. I enjoyed bringing fire down upon them, killing them without them ever noticing, and that's just a thing, right? You really shouldn't like killing that much. It does things to you, but I did. I did because I felt like I was better, and that changed me a little bit. That made me more willing to take risks. It made me want to get involved in more dire fights."
+
+Uva responded without much warmth. She was still too busy focused on the actual battle at hand. There were too many things that she had to deal with, and then the Eldest was calling out to her again. It was trying to take her Cryomancy from her. She gritted her teeth and tried to pull back. The skill felt like a spreading cavity. The tooth was already rotted to the gum, and it was getting to the point where she needed to pull it out or sunder it altogether. Maybe she needed to call Valor? Maybe he could use his Necromancy in Shiv's absence? It would hurt more than she cared to suffer, but with Shiv's Vitaemancy, her skills could be healed. Or at least that's what she told herself.
+
+"And eventually my willingness to start fights became a need, and it got to the point where I put Roland in danger—where I managed to piss off someone we really couldn't walk away from. Or we really shouldn't have walked away from." Uva briefly turned a flicker of her consciousness to the conversation.
+
+"How did you?" Uva asked.
+
+"We really shouldn't have," Rose said with a slight huff. "It's just that guy I pissed off realized we were a bunch of stupid kids, and Roland was willing to go down fighting to keep me safe. So he decided to let us go—but at a price."
+
+"And what?" Uva's face flinched as she barely noticed one of the Indexes sliding closer to the town. A dozen of her strings twisted and were redirected to intercept. There was another Index not far away, she remembered. Maybe she could arrange for another collision there.
+
+"The price was that I shaped up," Rose said. "That I learned to be a proper Diviner and a proper mage under his tutelage. He saw potential in me, and frankly, after he stopped being so pissed off, he found me a little amusing, I guess. I hated him at first. Same way that I hated any man who was older than me and tried to tell me what to do. They all looked like my father after a while. And I didn't want to be apart from Roland and the others. But that was the deal, and he had his due rights. So I put up with it. I did change. And the thing about changing... It's not all bad. Sometimes you become a better version of yourself, a stronger version of yourself. Sometimes, Uva, you need metamorphosis to survive, to become more than who you were before, to do what you couldn't do before."
+
+Uva was growing tired of this conversation. She wanted to tell Rose to go away in the most polite way. But then something drew her attention. There was a clicking in the room, and she realized that someone had ascended the elevator to the top of the tower and stepped into the room. Standing behind the Rose she'd been speaking to was Rose. She was covered in dirt and grime, looked exhausted, and at her side was Valor, shrouded in a Necromantic aura.
+
+Uva's focus briefly scattered.
+
+"Change is not all bad," the first Rose said, her voice dropping lower and deeper.
+
+“H-how…” Uva gasped.
+
+"Change is coming no matter what," the Eldest reiterated, and its words rattled from within Uva’s Psychomancy. It had spread without her noticing, and the Starhawk was as ignorant as her.
+
+"Change. You can try to fight me, but I am beyond your Cryomancy. I am beyond your Reflexes. I am beyond your Physicality. I am in the skill you need the most. I am in your Psychomancy. You are to decide. You are to metamorphose. You are to transform. What kind of change do you want to experience?"
+
+And that was when Uva realized the Stranger wasn't her true predator. No, it was the Eldest. And everything she did to their offspring, they learned from and used against her. They wanted to consume her. They wanted to merge with her. And there was no way out of it now. Not if she wanted the town to survive.

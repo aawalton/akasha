@@ -1,0 +1,387 @@
+---
+id: 246f8cb4-f2a2-527b-af07-be501e4e39d8
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED NINETY-THREE: When Wishing Was Having IV"
+slug: 0295-two-hundred-ninety-three-when-wishing-was-having-iv
+partOf: super-supportive
+position: 295
+ownLength: 4834
+unit: words
+publishedAt: 2026-06-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3568502/two-hundred-ninety-three-when-wishing-was-having"
+royalRoadId: "3568502"
+---
+
+293
+
+******
+
+“…and I will travel a future road with a patience that hastens the journey of another. So we walk together for a short way and meet without meeting.”
+
+Alden stood in the empty locker room as the Artonan words echoed away, paying attention to how his body felt as the wordchain settled on him. This was a small enhancement to his speed, and it was easy to think of it as instantly gaining a few foundation points in the stat of the same name. But System-affixed points felt more natural and intuitive. The chain’s effect made him temporarily unsure of his movements. He jogged forward and backward, trying to settle into it.
+
+My Body Becomes My Assistant is so good for making this more manageable, he thought as he jumped over a bench.
+
+He’d used that one first. When he didn’t, adjusting took twice as long.
+
+I wonder if adding Peace of Mind to the mix would give me an edge for things like obstacle courses. Right now, he wasn’t curious enough to try it, and he didn’t want to pay for it anyway.
+
+Since nobody was in the locker room to see him, he spun on one foot, tried some rapid side steps, and even waved his arms around in front of himself to make sure he was in control of everything before he decided he was good to go.
+
+His interface was active, displaying the run order of all the teams that currently had permission to race. The two teams competing immediately before his own had just started their run, so it would most likely be a few more minutes of waiting. Their team would be running against Vandy’s. The girls hadn’t selected their five runners yet. When they did, the names would automatically appear since Kon had already finalized their five.
+
+He’d left himself and Jeffy to sit out.
+
+Alden wished all of them could run together. They all deserved the opportunity, and there was discomfort in being one of the runners when it seemed like an embarrassing performance in front of Ash might ruin Kon and Jeffy’s chances of ever getting to do anything in this class.
+
+They’ll get to go next time, he told himself. We just have to avoid the crime of being uninspiring.
+
+He hurried back into the gym, taking some pleasure in the fact that his hurry was a faster one than usual.
+
+He’d left his teammates with permission to go through his duffel bag while he went to take care of the wordchains. And they’d definitely gone through it. Kon was arranging a bunch of miscellaneous supplies in rows on the floor beside the bag, so tidily that it looked like he planned to impress someone with the display. The others had put on the junk clothing items Alden had brought if they weren’t already wearing something of their own.
+
+Now they look nice and portable.
+
+If someone broke both legs, he could just carry them around using whatever they had on.
+
+Mehdi was holding up a football jersey as Alden approached him from behind. “Do you think he used to go to this team’s games a lot? The internet says they’re in Kansas. I wonder what Kansas is like. I wonder if he played for his school. Do you think he was popular?”
+
+“You’ll have better luck asking me those things than Kon,” said Alden. It was funny to hear someone speculating about such random aspects of his life instead of the more major features.
+
+Mehdi turned to face him, still holding the jersey up in front of the middle school science fair T-shirt he’d brought to wear over his own suit.
+
+“I’ve never been to Kansas or seen that team,” Alden told him. “I wasn’t a football player at my old school. I wasn’t popular. I almost always spent my time with a couple of close friends.”
+
+“Then why do you have this? Didn’t you ever want to see Kansas?”
+
+Alden shrugged. “I landed on Anesidora without the usual packing opportunities. One of the first things I did when I made it to intake was order a mix of clothes. I just let the errand runner pick them, and he sent that with everything else. Most of what he got me was good, but I think that jersey can die gloriously in a superhuman fight without being missed.”
+
+Mehdi opened his mouth.
+
+“You’re going to say something about the important run we’re about to have, aren’t you?” Lexi said. “Instead of being too interested in the history of Alden’s unwanted clothing.”
+
+Mehdi looked offended. “I was going to ask him if his wordchains are working. I think it looks like they’re working, but that’s critical information for the team to have.”
+
+“They’re working,” Alden said. “Throw me the jersey if none of the rest of you are going to wear it.”
+
+Mehdi tossed it to him, and Alden put it on.
+
+“Shouldn’t you wear something with long sleeves? And maybe a hood to protect your skull… ” The faint note of hesitancy in Kon’s voice caught Alden’s attention more than the question itself did.
+
+“I was going to have a couple of layers,” he answered, looking down at Kon and his rows of supplies. “I might as well in case one rips, right? I’ll do this, and then over it, I’ll wear that black rain jacket that folds up into its own pouch.”
+
+He bent and grabbed the jacket from inside his bag. “It’s got a hood. We’ll take the backpack I used in Combat I and put whatever you guys want in it, too. Since Ash has assigned us to go against the girls, we don’t have to worry about them complaining about dumb things like how many clothes we’re allowed to put on or if a backpack is too powerful. They’re not petty like that.”
+
+“That’s right!” Kon said. “They aren’t. And since they aren’t, we were thinking…it might be fine for us to take all of this. Just in case you need any of it.”
+
+He was pointing at the stuff they’d laid out. It was so much that there was no way Alden could use it all during a single run. Fifteen hundred feet of paracord, three rolls of duct tape, five temper spheres, two slings he’d made, a knife, a box cutter, two bottles of water, three disposable ponchos, zip ties, an umbrella, plastic wrap, gloves, the box he kept small pre-made shield objects in just in case he wanted to try out something on the spur of the moment…
+
+Realistically, I’m going to end up using just two or three things. If he had the clothes and a shield with wide coverage in his hand to start, there was a good chance they wouldn’t have time or opportunity for the rest of it. But if they want to go the over-prepared route, I don’t mind.
+
+“Sure. We can take it all. Load it into the backpack. Or if anyone thinks it’s particularly likely I’ll need a certain thing when I’m backing you up, put it somewhere easier to grab.”
+
+“Really?” Kon looked relieved. “We thought you’d say it was excessive.”
+
+They did? Alden shook out the rain jacket and put it on. It was very oversized and hung almost down to his knees. “I told you all I’d be willing to use whatever worked for this class, right? Anything the other teams won’t object to. It’s not like Combat class.”
+
+“Thank you for your team spirit! I’ll try to think of good ideas while you’re all busy out there, and these supplies will expand our options.” Kon started tucking most of the assortment into Alden’s backpack and distributing bits of it to the others. During coursing competitions, team members who weren’t running could only observe, but in this class they were allowed to communicate with runners and make suggestions. Kon was planning to do some directing from the sidelines.
+
+Alden didn’t like that they’d thought he wouldn’t agree to all the supplies they’d chosen. Yeah, it’s a lot, but none of it’s heavy and only the temper spheres are really expensive. If they worried I’d complain about them wanting me to take rolls of tape, I must not have gotten my intentions for this class across well.
+
+He’d definitely said more than a couple of times that he would be willing to try preserving anything they wanted him to, and he’d described himself as the team’s support person.
+
+I knew I went a little subtle with it, though. It just never felt like the right moment to have a more in-depth talk about it, and I didn’t want to be misunderstood.
+
+Did I hope they’d naturally start acting like they have a role to play as my entrusters without me ever having to tell them I’d like for them to think that way?
+
+He had.
+
+Even Haoyu, who was his most frequent entruster in class, wasn’t accustomed to thinking of Alden’s skill as something he had any say in the use of. He was just doing Alden an easy favor by giving him the permission he needed to satisfy the funny rule his skill came with.
+
+I want them to use me more selfishly so that I can practice serving my entruster’s goals for real instead of treating the relationship like a technicality.
+
+But I didn’t want to say it like that.
+
+He grimaced.
+
+I said nothing, and now we’re about to run. They’re not going to behave differently unless I speak up.
+
+Working with entrustment, not trying to get around it, and appreciating that it’s part of the magic I can do.
+
+I want it, but then I neglect it like this? I don’t even have the tattoo holding me back.
+
+Stuart and I don’t have all the time in the world for me to figure this out.
+
+“Hey, so…about my skill,” he said, trying to catch six different pairs of eyes at once. “It’s obvious that it’s meant to be helpful to a second person. There wouldn’t be an entruster involved if what the entruster wants and needs isn’t an important part of how I work as an Avowed, right? This doesn’t come up in our other classes because we’re usually working individually, and there’s more than enough for me to improve as it is. But a class that’s all about teamwork is a great chance for me to learn more about how different entrustment situations affect me.”
+
+They’d all stopped talking among themselves to hear him out, but they didn’t look like they were getting much from what he’d just said.
+
+Yeah, because I should’ve set expectations two weeks ago.
+
+“I mean that when we’re out on the course, I’d like for my entruster to feel free to ask me for whatever they think would be good without worrying much about my plans. Or my ego. I’ll tell you if I think it’s a bad idea, and I’ll try to guess correctly about whether or not what you’re asking for is going to knock out my skill. But in this class, it’s actually fine with me if you impose on me way more than you ever would in our Combat course.”
+
+Most of them nodded. Lexi looked like he’d been given a puzzle he didn’t particularly want.
+
+I expected questions. But I guess they understand?
+
+“We’re starting out with Kon as my entruster, and we have a plan we have to do if we don’t want to disappoint Ash,” said Alden. “But after we’ve tried the plan, if Kon suddenly wants to make me fight Jupiter in the traffic tunnel with a duct tape sword…he can ask me to do that, and I’ll actually take the request seriously instead of immediately telling him no like I would normally. That kind of thing.”
+
+Kon snorted. “More duct tape then!”
+
+“So everyone understands I’m willing to practice the entrustment part of my skill more like that? That I want to, actually.” Alden put the gloves in his jacket pocket. “Sorry I didn’t bring it up sooner.”
+
+“You’re just saying you’ll be a team player and carry as much junk around the course for us as we want,” said Kon. “I don’t think any of us mind that.”
+
+“I don’t think that’s quite what he meant, Kon.” Lexi was studying Alden.
+
+“We all feel free to entrust you with things if it’s important,” Haoyu said. He was wearing a shirt and shorts with so many rips that they’d have been indecent without the unitard under them. “We know you don’t mind.”
+
+“I thought he was saying we should boss him around in this class, like wizards who’ve summoned him to be our Rabbit. Because that might help him do his skill better.”
+
+“Jeffy!” Haoyu exclaimed. “That’s not what he meant.”
+
+“It’s not what I meant…” Alden said. “But I was trying to say it would be good if my entrusters think of me and my skill as a tool they’re supposed to call on. Maybe it’s best to imagine I’m your own personal battlefield support when you’re the entruster? None of you would expect me, your classmate, to blow all my magic protecting you from one of Tuyet’s darts so that you could accomplish something you had in mind. But you might be right to expect that from me if this was really a serious situation, and I’d agreed to follow your lead. Then you might say, ‘Alden, block that,’ and I’d do it because we had that kind of understanding.”
+
+<<What?>> Ignacio was blinking.
+
+“My skill requires a partner. So I need lots of practice being a good partner. Please worry less about asking me to use my magic for you in this class. It’s cool if you want to be more demanding.”
+
+“I want to be his entruster,” Mehdi said much too quickly.
+
+“Am I making sense now?” Alden asked.
+
+“You’re making sense, but you should have explained what you were thinking days ago,” Lexi said, exasperated.
+
+“Sorry. I was trying to hint at it.”
+
+“When?”
+
+“Why were you hinting instead of just telling us?” asked Haoyu.
+
+“I was trying to say it without it sounding like what Jeffy just said. Or something. I don’t know. It doesn’t have to change much for this run.”
+
+He felt like he still hadn’t conveyed it. I’m going to get death by Tuyet and no proper entrustment, aren’t I?
+
+Vandy’s team list suddenly appeared on their interfaces. The names of both teams’ runners were revealed.
+
+“Finally. That took them forever,” said Kon. “Were they trying to hide who was going until the last second, or could they really not decide?”
+
+Alden read the names. Jupiter, Tuyet, Maricel, Everly, and Heloísa.
+
+“We can beat them,” Kon said firmly. “You men have trained for this day.”
+
+“But we never agreed to be called Konstantly Awesome,” Lexi muttered.
+
+“I’ll change the team name for you when you win.”
+
+“You all heard him say that,” Lexi said.
+
+“I heard it,” said Ignacio.
+
+“Me too,” said Alden.
+
+“And I’ll change it to the best ever team name if you earn us a second run.”
+
+“What’s the best ever?”
+
+“Win and find out, Haoyu. Win and find out.”
+
+“Nobody needs to worry about my entruster thing,” Alden said. “If it’s a pain. I didn’t mean to be confusing right before the race.”
+
+Kon stood and passed him his stuffed backpack. “It’s not that confusing. Focus on conquering the island like we planned, of course. But when the girls start attacking, it’ll all turn into a mess anyway. Good luck, all of you.”
+
+He texted them as they headed to the starting line.
+
+[Kon: And remember. Our instructor is probably a six-year-old. So don’t be boring.]
+
+The rules were scrolling in front of their eyes. They’d be starting on the side of the course they’d toured at the beginning of class, and Lexi would be out front, hopefully demolishing the pincushion alley with Writher. Alden would be guarding against anything he missed with a plastic tablecloth that could provide coverage for everyone if they stuck together.
+
+“It’s good you think of how to practice for how it can really be.”
+
+Alden looked to his left. Ignacio stood there flipping one of his Meister knives while they waited for the start signal. Vandy and Kon had immediately agreed to each other’s supply lists, so there was a massive rope of ivy waving over the top of the tunnel, like Jupiter was saying hello.
+
+“Someday something will happen,” Ignacio continued. “I try to think like that, too.”
+
+Alden recalled what Kon had said about Ignacio’s beliefs when they were flying on the nonagon together on Christmas. That Earth’s bill has never been paid and Avowed our age are going to see it come due. He’s such an ordinary guy, but that’s going on in his head.
+
+He knew he was being loose with his definition of ordinary there. Ignacio was a third generation Avowed who spoke at least three languages, had his pick of Apex schools, and was training himself to kill with swarms of knives. But he was a regular guy, too. He was bummed Febri, who he’d been making friends with, was gone. He was a little hesitant about his English despite making good progress with it. He had a sister a couple of years younger than him he’d mentioned once or twice.
+
+“I think about chaos more than most people must,” said Alden. “Because of what happened. But also…for someday.”
+
+Ignacio sent the knife as high as he could without hitting the barrier above them that formed the ceiling of the course’s first level. He smiled at Alden and caught it without looking at it. “You and I won’t be surprised.”
+
+Alden nodded.
+
+“An entruster should trust you a lot,” Ignacio said. “Maybe?”
+
+“I think that must be part of the ideal. I just haven’t found many chances to do it the right way in class.”
+
+Ignacio looked at him thoughtfully, but he didn’t say anything more.
+
+A minute later, they were running.
+
+******
+
+******
+
+I think I can’t get that frog out of my head because I’ve left him stuck at the beginning. Just trying and trying. To be heard, to carry a burden, and to find a friend who cares about his struggle upwards and the wonderful ball.
+
+Leaving him there feels bad.
+
+People who are trying hard like that shouldn’t be left alone in the dark
+
+Sometimes, that’s reality, but…
+
+******
+
+******
+
+Ash had called them the weakest team.
+
+They were all pissed off about it even though they’d tried to encourage the others to keep cool heads. They could laugh about the plan that had earned them this run and, at the same time, be angry about how much effort they’d put into doing this class right without being recognized.
+
+Alden imagined they had matching fires in them. He thought that must be helping them flow through the course in a way he hadn’t known they could.
+
+Watching other teams run it for an hour hadn’t hurt, but there was more to it than simply knowing what was coming. From the first step he took into the alley, Lexi was locked in on his task, and all but two of the spikes shooting out of the wall met a twisting, burning chain whip that lived up to its name. The two he missed hit Alden’s tablecloth and burst into harmless splashes of light.
+
+“Discard that tablecloth,” Kon’s voice said in everyone’s ear as they reached the end. “Good job getting through the alley. Alden, I entrust you with your jacket. Tell me if you need something else. Mehdi, out front. You’ll slow down the next blue car.”
+
+He sounded calm even though he was speaking quickly. Alden’s impression of the whole course was the same.
+
+Quick. Calm.
+
+It was partially Vandy’s fault, even though she wasn’t out here. Teams were allowed to have sound from the audience blocked by request, and she’d requested it. They’d heard a couple of shouts from the girls’ pincushion alley, but that was all.
+
+They entered the traffic tunnel with no sign of the other team.
+
+Air rushing around the magically formed “cars” was the loudest thing. The interior of the tunnel was the same green as the exterior. Light came from a glowing strip along the ceiling. Traffic moved at about sixty miles per hour, and the distance between the vehicles and the walls couldn’t possibly be legal in any reasonable society. A block shaped like a semi-trailer came through about once per minute, and Alden was sure none of the members of his team were skinny enough to survive its passage by flattening themselves between it and the wall.
+
+But there was also a poky blue sedan that held up the other cars, and if someone ran in front of it correctly, the nonexistent driver had time to slow things down even more without causing any collisions. Mehdi pulled off the initial slow-down, and the rest of them dashed through as his efforts made all the traffic in that lane turn more manageable.
+
+It wasn’t the only way, and slowing traffic meant the other team was more likely to risk fighting them here in the course’s only free attack area because it might not lead to a wreck. But they had already made it to the lift at the end of the tunnel by the time the girls arrived. Alden and Haoyu stepped onto it first and shot up toward the second level. They ran toward the jungle gym.
+
+We’re way out in front. They can catch up, but we’re so far ahead.
+
+Alden wasn’t even breathing hard yet. He pulled himself up onto a metal pole that had been dented by the passage of a rougher contestant and then squeezed between two pieces of bamboo.
+
+“Ignacio, do you think you could safely kill my girlfriend before you leave the tunnel?” Kon’s voice said.
+
+“Eighty percent yes.” Ignacio’s reply came so quickly that he must have already been thinking about the question.
+
+Alden wanted to tell them not to risk it, but he wasn’t looking at the traffic like they were. Killing Everly without wrecking cars or dying themselves at this point in the run would basically win the game. She couldn’t get through pincushion alley by herself. One of the Shapers would have to go back and take the hits for her with dirt or life matter bags.
+
+On the other hand, messing it up would be the end of the game for us.
+
+“Let’s not,” Kon decided after a beat. “Get up to the second floor now. Alden and Haoyu, you know what to do to set up our amazing island plan.”
+
+“We’ll do it,” said Haoyu.
+
+It’s a strange feeling to be having such an easy time here.
+
+The jungle gym would be worse if the other team was out in front, with the right to attack they could earn by putting someone over the finish line. This was a deceptively easy obstacle that forced people to slow down so that they could be picked off.
+
+“You’re doing all right?” Haoyu asked him.
+
+“I am. You?”
+
+“I’m good.”
+
+Alden could hear Lexi, Mehdi, and Ignacio on the frame behind him. Just hands and feet ringing on poles. He didn’t look back. He needed to be through this as fast as he could. There was no approach to the next obstacle without him.
+
+He saw an opening to chuck the backpack ahead of him into the clear area out ahead of the jungle gym and did so. He followed it moments later, his feet hitting the barrier that formed the floor at the same time as Haoyu’s and a few seconds before Mehdi’s.
+
+Haoyu wore both of Ignacio’s large knife rolls on his shoulders.
+
+“I’ll pass our Strength Rabbit to you now, Haoyu,” Kon said.
+
+Alden targeted Haoyu.
+
+“Tuyet’s running ahead of her team,” Kon went on in a conversational tone. “She’ll be with you soon. There’s no point in worrying about it since we can’t do anything to stop her.”
+
+“I want to be thrown by my shirt,” Haoyu said to Alden. “It felt the most stable the other day. So I entrust you with my shirt.”
+
+He crossed his arms over his chest.
+
+“This is so weird,” said Mehdi, looking around them. “We’re on the course, and there’s nothing to do.”
+
+Alden ignored him and grabbed the back of Haoyu’s shirt. “It’s higher, so I’m going to throw you really hard. Okay?”
+
+“Okay.”
+
+“Don’t lose the knives,” said Mehdi.
+
+Alden looked up at the island.
+
+I hope this whole plan works.
+
+“Maybe you should throw me,” Mehdi suggested. “I’d definitely grab on if you don’t miss.”
+
+“Shhh,” said Haoyu. “He’s not going to miss.”
+
+“On three,” said Alden.
+
+They were still flowing. Even the counting felt smooth.
+
+One, two, three.
+
+And then Haoyu was in the air.
+
+He didn’t yell with excitement like he had in the park. It was an effective throw, but not a perfect one. He did his part to turn it into a landing, both hands digging into the floating island near the bottom, his body swinging once before he pulled himself easily up.
+
+Alden let out a breath, and bursts of noise suddenly came from multiple directions.
+
+Mehdi shouted, “Yes!” in his ear. Ignacio was congratulating him as he landed on the floor, having finished his own traversal of the jungle gym. Jeffy, who’d been fairly quiet while he watched, was telling Haoyu he had sky moves through comms.
+
+Haoyu was the only one not saying anything. He was working as fast as he could to plunge Ignacio’s knife collection, one or two at a time, into the dense barrier magic that the gym had made the island from. They thought it was supposed to represent something like hard-packed ground, since people could jam things into it but not with great ease.
+
+Haoyu moved like a machine, driving some of the knives in deeper with Boxing Gloves.
+
+“Awesome throw, Alden!” Kon was enthusing. “Way to land, Haoyu! First try!!”
+
+I did it, thought Alden. No mistakes. We’re really doing this.
+
+“Now,” said Kon, “the annoying thing is that with Haoyu up there we could win in more effective ways. But we have to win with Alden throwing one person and using no rope because that was the show we promised. Tuyet’s going to reach you any second.”
+
+Alden looked behind him. Tuyet was slithering through the climbing frame like she’d been born to do it. Jupiter and Heloísa had just come up the lift from the traffic tunnel.
+
+“I don’t know why she ran ahead. They might have just wanted a better look at what we’re doing, and she’s the obvious scout. That’s unfortunate,” Kon said. “If only the island wasn’t a shared obstacle…”
+
+“Ready!” Haoyu yelled from up above. They all looked up to see him plunging the final knife into one of the island’s little hilltops.
+
+That knife wasn’t like the others. It was one of Ignacio’s Meister weapons.
+
+Haoyu looked down below to see them, then nodded and jumped to reach the monkey bars above the island. He started crossing.
+
+“He’s going for the finish in case we need him there,” said Alden.
+
+There was a three or four second pause during which Tuyet landed a few yards away from their group. Her gaze flicked from Haoyu to the island and then back down to their team. The dart in her hand looked ready to fly. She couldn’t use it on them here unless they did put Haoyu over the finish line and attack her. A brief retaliation period was allowed if she didn’t die.
+
+It’s bad that she’s here because she’ll take advantage of our efforts, Alden thought. But there’s no helping it. It only gets worse as more of her teammates arrive.
+
+“We have to go,” he said.
+
+“Let’s move.” Lexi spoke before he’d even finished.
+
+“What are you hesitating for?” asked Mehdi.
+
+<<I’m not hesitating,>> said Ignacio, one hand extended above him. <<Look.>>
+
+Tuyet gasped. It was a gratifyingly loud sound in all this quiet.
+
+“Vandy!” she said, as she saw their handiwork. “The island!”
+
+Alden hoped Vandy had a great view from where she sat on the bleachers, because what was happening up above wasn’t boring at all.
+
+An orange light gleamed, but it was hard to see as it plunged deeper into the island.
+
+Ignacio’s Leading Knife skill was active. And he’d called his weapon back to his hand.
+
+“The island is falling!” Tuyet said.
+
+No. This is better. It’s being dragged down by the lead knife and the flock that’s trying to follow it.
+
+He’d let Tuyet and Vandy figure it out on their own. The island was coming faster. If nothing went wrong in the next seconds, there was a chance for them to win this.
+
+He got ready to jump.
+
+******

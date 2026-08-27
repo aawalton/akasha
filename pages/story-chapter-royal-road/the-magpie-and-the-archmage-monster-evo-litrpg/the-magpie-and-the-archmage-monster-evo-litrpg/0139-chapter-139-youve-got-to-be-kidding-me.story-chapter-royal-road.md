@@ -1,0 +1,155 @@
+---
+id: 90450290-4d33-5fe3-81db-b07d97708aa1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 139 – You've Got to be Kidding Me"
+slug: 0139-chapter-139-youve-got-to-be-kidding-me
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 139
+ownLength: 2021
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3573117/chapter-139-youve-got-to-be-kidding-me"
+royalRoadId: "3573117"
+---
+
+Cee could feel her eight legs go tight when Liora neared the sleeping wyvern's nest. She really didn't want to do this. She really didn't want to do this. But she had to do this!
+
+Liora Faded, Cee along with her, and the spider prepared to jump. The timing was crucial. Too soon, and she would jump onto the sleeping wyvern. Too late, and she likely would miss the nest entirely. She had only a second to make her decision.
+
+Cee waited for Liora to open her wings to slow her descent; she couldn't see her since they were both invisible. It was frankly quite a disconcerting feeling to be flying atop an invisible bird while turning invisible yourself. It was a good thing that spiders relied heavily on the receptors on their legs rather than vision.
+
+Once Cee felt Liora pause, presumably to grab the sleeping wyvern hatchling, she jumped up with all her might, launching herself as high as she could. The time seemed to slow as she went up. Underneath her, she saw the hatchling be yanked away by the still invisible Liora.
+
+It yelped piteously, instantly rousing the wyvern mother. She opened her wings and flew after her hatchling, who was being dragged away by an invisible force. By the time Cee landed, Liora's Fade had run out, and she was flying away from the nest at full speed, holding the squirming wyvern hatchling by its neck so it wouldn't be able to turn around to bite her.
+
+The wyvern mother was fast on their tail, spewing fire straight at Liora. Cee watched with horror, worried that her friend would be turned into a roast bird. But thankfully, Liora used Aegis Cyclone, repelling all the flames and flying towards the sea unimpeded.
+
+Cee felt compelled to watch if Liora would remain safe, but she had her own task. The moment she had landed, she began weaving her webs, ready to make the attunement ritual. It took her a moment to notice how unpleasantly hot it was in this place. As if she had landed inside the oven.
+
+In fact, it felt like her whole body was about to burst into flame with how hot it was. No wonder the wyvern had chosen to nest here. It was likely a wonderful place for such a heat-loving creature.
+
+"Not a moment to lose," Cee wove her thread, eager to get out of the heat as quickly as possible. In the distance, she saw bright flashes of light from the wyvern's flame. Occasionally, it would be accompanied by the wyvern mother's roar.
+
+It'll be alright. Liora will go into the water, and she'll be fine. She'll be fine.
+
+Cee was incredibly scared for her friend. More than she dared to admit. It felt like Liora was her only true friend in this world. Liora had almost grown to be a part of Cee. A steady anchor that reminded Cee that she had once been a human. Even after Liora had chosen to evolve into this black phoenix thing, she still felt human with each word that she spoke.
+
+Cee's thoughts were suddenly interrupted as her webs burst into flames and disappeared before she even had a chance to finish the ritual.
+
+"What the—" Cee exclaimed in annoyance. The heat was really getting to her, as well as her webs.
+
+"I'll have to make the ritual out of magma webs…" she muttered.
+
+Cee had never tried combining her Sigil Webs skill with her Elemental Webs, but in theory, it shouldn't be that difficult. They were Web skills, so they should have wonderful synergy. Nonetheless, it was extra brain power that Cee could barely muster in this nasty heat. It felt like her carapace was on fire.
+
+For a moment, she feared that might be true and glanced back at her abdomen. It wasn't on fire, but who knew? Perhaps if Cee were too slow, she would just spontaneously combust. That had been a real thing on Earth, so it stood to reason that it could happen far more easily in this magic-filled world.
+
+Cee concentrated on creating her magma webs and combining them with her Sigil Webs. At least she had no fear of burning her legs, since they already felt like they were on fire. The magma webs almost felt cool to the touch.
+
+[You have successfully formed a skill <Magma Sigil Webs>.]
+
+The first few pieces of thread came out wrong—not enough mana within the web to be of proper use to the ritual. Cee had no choice but to discard them.
+
+However, it didn't take long for her to find her stride, and she began weaving the proper webs in earnest. Even with the oppressive heat, she was still able to work, relying almost entirely on her spidery instinct.
+
+Sadly, the ritual wasn't as instinctual. She strained hard to remember the pattern that should have been, by all means, mundane. But the heat. That horrible, horrible heat. Cee just wanted to get away from it.
+
+A loud yelp resounded somewhere from the beach, startling Cee from her task. That wasn't the wyvern hatchling Liora had grabbed. That was Smokey. He must have been woken up by all the ruckus going on around here and was now looking for Cee.
+
+Cee's heart clenched at the image of Smokey being completely alone on the beach. But she couldn't allow herself to get distracted. Liora was being blasted by fire just to give Cee a chance to do the ritual.
+
+Ignoring the flashes of fire, roaring of the adult wyvern, and mewling of the hatchling, Cee continued making the ritual. It was so frustrating because the magma webs were far more difficult to bend into the right shapes. They tended to want to do their own thing. Only with great effort was Cee able to finally complete the ritual circle.
+
+BOOM. BOOM. BOOM.
+
+Liora had resorted to her Resonance Mimicry. Hopefully, it was just one of her many distraction tactics and not a desperate way to defend herself because her mana has run out. This thought filled Cee with dread.
+
+"Get charged!" Cee announced, slamming the Resonance Crystal onto the ritual circle and pushing a bit of mana into the ritual to activate it.
+
+It came to life and burned with bright light, coloring the last section of the Resonance Crystal with bright color. The crystal, now fully complete, lit up like a small beacon shining with brilliant, rainbow light.
+
+Her magma webs hadn't burned up, but they had crumbled away, turning into a small pile of ash. Cee hurriedly brushed them away, ready to prepare ritual anew to complete the Bracelet of the Four Elements. However, the moment the ritual had crumpled away, the heat in the area intensified. Just like it had happened with the wind mana node.
+
+Perhaps these nodes went into some kind of protective mode after being used to keep the people and monsters from running them completely dry. This was bad news for Cee. She couldn't stand this heat.
+
+Literally. It was painful.
+
+"Check status," Cee asked the System.
+
+[Status]
+
+Health: Scrapped
+
+Mana: Steady
+
+Affliction: Burning (minor)
+
+"I am burning!" Cee screeched and jumped away from the nest.
+
+However, in her panic, Cee had forgotten about the Resonance Crystal, which was still shining in the wyvern's nest. By the time she had realized her mistake, Cee had already fallen into the rocky outcroppings below.
+
+She considered going back, but then saw that mama wyvern was returning with her little hatchling in tow. Cee couldn't return to the nest anymore.
+
+Liora couldn't believe this. She had been chased around by the mother wyvern, had her feathers nearly singed off, and what did she get in return? Resonance Crystal in the wyvern's nest.
+
+"You have got to be kidding me!" Liora snarled, watching how Smokey was rubbing against Cee.
+
+This little pest had woken up in the middle of the whole event and made it even worse, chasing after Liora on the ground and mewling piteously. After Liora had shaken off the mother wyvern by releasing the hatchling and diving into the sea, where she couldn't follow, the angry parent had decided to take her revenge on her abandoned hatchling for some reason.
+
+Liora had to save the little bastard by dragging him underwater. This saved his life, but Smokey certainly didn't enjoy being underwater, having bitten Liora rather viciously.
+
+As it turned out, these wyverns actually had venom in their fangs. It was a good thing Liora had Poison Resistance strong enough to protect herself, otherwise who knew what would have happened to her?
+
+Hearing that Cee had forgotten the Resonance Crystal in the nest was infuriating to say the least.
+
+"I panicked, okay! My status had changed to Burning!" Cee flailed her legs miserably. "Do you know how hard it is to think while it's hot?"
+
+"Yeah, I can imagine since the wyvern was TRYING to cook me alive!" Liora shouted.
+
+Calm down, Liora. These kinds of hiccups are expected, especially with such a hazardous environment. Cee just isn't suited for heat at all.
+
+But how do we get the crystal back? Mama wyvern will be on high alert now that her hatchling had been nabbed right underneath her nose once.
+
+But you don't really need her hatchling, do you? You need the crystal. I think this is a wonderful opportunity to use your theft skills.
+
+I don't have a Theft skill. I wish I did. It certainly would make this easier.
+
+[Would you like to purchase the skill <Theft> for 10 glimmerstones?]
+
+What?
+
+It seems like the System has interpreted your thoughts as you wanting to purchase the skill. It happens. It's rather sensitive, especially since more primitive monsters don't really perceive the system the same way and can't give such explicit commands.
+
+Are you calling me primitive?
+
+No. Well… maybe a little. But hey, you get a skill basically for free. Even after all this time, your magpie roots still hold strong for the Theft skill to be so cheap.
+
+It still costs glimmerstones.
+
+Liora… Seriously?
+
+Liora sighed. She had to admit that when compared to the heavy skill upgrade price, ten glimmerstones seemed like a very low price in comparison. But wasn't this something the System wanted her to believe just so it could get more glimmerstones out of here? It must be!
+
+But… Theft… That sounded like a very useful skill. Frankly, it was atrocious that it hadn't been offered to her before. It was true that technically, she hadn't really stolen stuff. Except for the Necklace of Sunpeak. And the food from Abylport. And some stuff from passing merchants.
+
+No, the System totally should have given this skill to her for free. But it hadn't. Clearly, it required a stronger intent for that to happen. Or perhaps the skill couldn't be unlocked on its own and had to be purchased? Who knew? Liora didn't care enough to ask Renir. He would just go on one of his lengthy rants.
+
+Liora decided that it was worth investing ten glimmerstones for this skill to later steal them back in the form of valuables and treasure. Most importantly, it could help her retrieve the Resonance Crystal.
+
+Purchase the skill Theft.
+
+[Are you sure you want to purchase the skill <Theft>? This will cost 10 glimmerstones.]
+
+Yes! Don't question me, System.
+
+[New skill obtained – Theft.]
+
+[Theft – A predatory instinct for claiming valuables, which gives you an intuitive sense for valuables, hidden items, and moments of vulnerability. Briefly dulls awareness of the target during the act. Success scales with speed and skill level.]
+
+Okay, now I feel I have a chance of getting that Resonance Crystal back. We'll be gone before the wyvern even realizes what has happened.
+
+However, as Liora plotted how to approach her heist, Smokey mewled piteously, rubbing against Cee. She hoped that the little hatchling wouldn't end up in their way again.
+
+"Wait a minute… Smokey can't fly, can he? How do we get off the island?" Liora asked Cee.
+
+Cee stared at Liora blankly. "I… I don't know."

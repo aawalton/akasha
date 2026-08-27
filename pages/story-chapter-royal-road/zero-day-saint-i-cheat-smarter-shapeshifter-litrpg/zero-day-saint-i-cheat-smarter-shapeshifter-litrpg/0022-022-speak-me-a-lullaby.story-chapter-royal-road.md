@@ -1,0 +1,152 @@
+---
+id: c061a95e-db6b-5ecf-aa23-fda30798e590
+page-type-slug: story-chapter-royal-road
+title: "022 - Speak Me A Lullaby"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 22
+ownLength: 1868
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3421262/022-speak-me-a-lullaby"
+royalRoadId: "3421262"
+---
+
+I could feel us jerking to a stop again. A total of 211 seconds remained on my well-sated buff. Not cutting it close at all.
+
+["We are here. I can toss you through the window, I can't climb in myself. I have another self in there."]
+
+["No tossing! Let me see, I'll get in there myself."]
+
+I scrambled up the sleeping bag to take a look. With the wind immediately biting at my eyes, I had to squint to see anything. Claire shifted so she shielded me from the worst of it. The building in front of us was half a duplex, probably from a decent neighborhood in Brooklyn. I'd seen this before on my scouting but hadn't actually stopped to parse it. The scramble had separated buildings that were structurally one, ripped them in half, and placed the halves in their own, new, spots. Which had allowed the earthquake to do a number on this one. Most of the roof had collapsed and parts of the wall that had previously separated this half from the other had crumbled. There were remains of their preparation in place. A cellar window was filled with couch pillows, the cellar door blocked with a mattress, its borders fitted with more fabric.
+
+And then the earthquake had ruined their preparation.
+
+["I will lift you up to the kitchen window. The floor there collapsed onto them."] Claire wrote.
+
+["See you in there. And… thanks, I guess."] I wrote, feeling lame. It was for a common goal, but still—she was literally carrying me through this storm, constantly losing parts of her body to the cold.
+
+She lifted me wordlessly up to the shattered window, where I hopped out of the bag and into the destroyed kitchen beyond. The floor had formed a ramp into the cellar below. I slid down to find a gruesome sight.
+
+The woman must have been in the kitchen when the collapse happened, landing directly atop a broken-off gas pipe, probably damaged in the same collapse. I was surprised she had survived at all, with a two-inch thick piece of metal completely impaling her abdomen. And she only had about a tenth of her health left. I really hoped she survived us pulling her off that thing. The teen was also already down by a third, while I couldn't see the father's health, since he wasn't Blessed yet.
+
+The other two were huddled around her, blankets piled up around them and her. The husband was quietly talking to his wife. The kid was the one to notice my approach, his head snapping up just as I reached the cellar floor.
+
+["I will become a human now. Warn them please, I don't want to get your mother hurt by unexpected movements."] I wrote.
+
+The kid nodded and tugged at his father's sleeve. "Mom? Dad? Help has arrived."
+
+The mom groaned, while the father looked up. He even wore ski goggles, completely obfuscating his expression.
+
+I lifted a paw before I shifted back and started emptying my inventory.
+
+"Hi, I'm Eve." I didn't wait for introductions and moved in to assess the situation. We'd have to lift her about three feet to get her off that thing. That would suck—a lot. At least the pipe remained straight and unbent.
+
+"You," I pointed at the son, "go ahead and prepare the shelter. One layer on the floor, the tent on top, don't bother properly setting it up, just enough so we can get in. Another layer on the floor on the inside, and then shove everything that can keep us warm in there. Do it in the corner over there, not here in the wind."
+
+Even with most of his face covered, I saw him balk at taking orders from a complete stranger. Couldn't really fault him, I'd have reacted the same. He looked at his father who nodded.
+
+I turned to the adults. "Are you awake? Can you understand me?" I asked the woman.
+
+There was a groan and a faint nod, costing her another sliver of health.
+
+"Okay, please stop moving. I have a potion in my inventory. I will hand it to you the moment you are off this thing, drink it fast, it'll fully heal you."
+
+["Okay."] She wrote in chat. Her name was Roslyn.
+
+I turned to her husband. "Are you good to lift her? We need to go fast, but steady and straight. I'll lift from her hips, you from her back."
+
+"Do… Do you know what you are doing?" he asked.
+
+"No, I do not. Do you have a better idea? I'm open to suggestions."
+
+"Let me do it instead of Dad," the kid said. His name was Jason. "I got an ability that can make me stronger for a bit."
+
+I gestured the father toward the pile I had dropped earlier and waved Jason over. "Alright, you heard me, right? Straight up, steady, fast?"
+
+Jason nodded as he placed his hands on his mother's back. "Ready."
+
+17 seconds remaining on my buff.
+
+I counted down from two. On cue we lifted. Neither of us was used to our strength and we did not manage to go steady. I could feel the vibrations against her spine as the coarse metal scraped by. The wet sucking sound was overshadowed by Roslyn's scream, which died into a grunt and then silence as we lifted her clear of the pipe. We swiftly lowered her again, her body entirely limp. I couldn't tell if she had any health remaining, but the presence of her health bar meant she wasn't fully gone. But she wasn't holding out for the potion either. While I pulled the potion, I rushed to her side and lifted her head.
+
+"Mom?" Jason said.
+
+"Roslyn?!" her husband shouted.
+
+I poured the potion in. For a second that felt like hours nothing happened. Then she coughed and her hand shot up, gripping the bottle and my hand in hers and she eagerly downed the rest of the potion. Her health fully returned, while a golden shine, similar to that Holy Armor spell, fell over her.
+
+"Wow," she said.
+
+"Hey, Roslyn, I'm Eve." I straightened up and held out a hand to help her up. Before I could, she was embraced by both her son and husband. I stepped back and continued where her husband had left off, setting up the tent I'd brought.
+
+"I can't guarantee this will be enough, but I will do my best living heating blanket impression and we'll have to see," I said, not sure if they were paying any attention or not.
+
+"Hey Eve, I didn't mean to interrupt you just now," Gabriel said, "but I just lost the connection to Jamie. He got his own Guide now. I'm back to fully being yours."
+
+I cursed under my breath. Going blind hadn't been part of the plan, though it had always been a risk.
+
+["Thanks, Gabriel. Welcome back. Knew I was your favorite."] I wrote in Guide chat.
+
+"Annika also got her Blessing. She picked a healer role. A great addition."
+
+The other three joined me with setting up, though the husband, Clark, had to introduce himself first. I barely paid attention. The well-sated buff had run out and exhaustion, mental and physical, was catching up with me. Also a single point of Endurance made a big difference in perception of temperature. Suddenly the room felt a lot colder.
+
+I watched as the three crawled in, Jason in the middle, his parents around him, covered in three layers of duvets, blankets and an emergency blanket. One of the foil ones, from a first aid kit. After them, a white plushy bunny crawled in. Claire had said she was in here, just hadn't announced her presence until now.
+
+I entered last, zipped the already crowded two-person-tent up, and shifted into Angel's shape, in which I crawled under the blankets, with Roslyn lifting them to help me. Those three had gone through the same night I had, and weren't even surprised at the shapeshifting anymore.
+
+There were, of course, questions I had. Their classes, their levels, what had happened. But oxygen quickly drained in the small tent, and despite every layer, the cold was still miserable.
+
+["Gabriel?"]
+
+"Yes, Eve?"
+
+["Will you speak me a lullaby?"]
+
+"Speak a lullaby?"
+
+["Explain something to me. Your voice is soothing and there is nothing I can do right now. When I'm awake I will backread what you explained, so it won't be wasted either."]
+
+There was a short pause before she replied.
+
+"Yes, I can do that for you. Anything specific?"
+
+["Any special rules around shapeshifting I should know, I haven't discovered yet? What happens when I'm in a too-tight place when I shift?"]
+
+"You'll hurt yourself, unless your new Endurance score, along with other factors, is strong enough to break the enclosure. A string around your neck won't decapitate you. A magical one might."
+
+She probably had the single nicest voice I'd ever heard in person.
+
+["Cool, keep going."]
+
+"You have to watch out for shifting while moving. It's a niche thing, but I probably should have brought it up. Don't try to shift into a cat when you are already falling. The magic of the transformation preserves your energy level, so if you go from heavy to light, you'll go a lot faster."
+
+Those words stirred me out of my daze. I read over them again. Then once more.
+
+["Do you mean kinetic energy is preserved? I lose mass, but that means I go faster? And if I become heavier I can slow down."]
+
+"Yes, that is what I meant. Thermodynamics apply, so energy doesn't just vanish."
+
+["But mass does? That's a whole crime against physics, too."]
+
+"Yes, but it is also magic. It'll break the rules when it wants, but preserve others as much as possible."
+
+That sounded nonsensical. But I filed it away. All the pieces to do the math on what exactly that meant were there, but my mind wasn't in a state to work out the details.
+
+["Does Focused Fury slow me down, too? That also adds mass. Like… seventy percent. Ish. Square-Cube Law, right?"]
+
+"That's something I'm not sure about. Abilities like that don't necessarily operate under the same rules as your innate shifting."
+
+The excitement of her reveal faded and my eyes felt heavy. Those people smelled a lot nicer than the others at the fire station. They somehow had gone through the night with significantly less blood shed.
+
+["Cool. Go on."]
+
+She did. As my mind drifted off, I wondered if Claire's minions needed to sleep. And what would happen to them when the original was asleep.
+
+Sleep kept slipping away the moment I reached it, chased off by fears that dissolved before memory could grasp them. Being scared had been all I'd done this night and now my mind couldn't stop.
+
+When I woke up to see the red outline of profane space crawling over the space around me, over the family around me, I initially thought I was still asleep, witnessing a particularly horrible nightmare.
+
+"Storm's over, next one's up. Better get out of there, before you give them a lethal dose," Lucy said.
+
+I was very awake.

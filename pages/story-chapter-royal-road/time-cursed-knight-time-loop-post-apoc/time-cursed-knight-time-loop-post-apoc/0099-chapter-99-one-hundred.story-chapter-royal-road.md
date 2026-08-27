@@ -1,0 +1,271 @@
+---
+id: a517d752-778e-5063-b484-b2352330ca25
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99: One Hundred"
+slug: 0099-chapter-99-one-hundred
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 99
+ownLength: 2728
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3752126/chapter-99-one-hundred"
+royalRoadId: "3752126"
+---
+
+I stared at the notification and the watch pulsed once, twice, a faint vibration against my palm as though something inside it were thinking.
+
+The text shifted.
+
+⌜ Pride offers one more mercy. ⌝
+
+⌜ So you understand exactly what you cannot prevent. ⌝
+
+⌜ Enemy: Titans. ⌝
+
+⌜ Estimated count: 100. ⌝
+
+I stopped breathing.
+
+One hundred.
+
+Three Titans had nearly destroyed Qalathar. Three had stretched the city's entire garrison to the breaking point. It had been an unprecedented catastrophe.
+
+One hundred would not stop at Qalathar. One hundred would pass through the Sultanate and the Empire without slowing. There was no wall built by human hands that could stand in the path of one hundred Titans and survive.
+
+My hands wanted to shake. I counted the breath instead — in through the nose, hold, out through the mouth — until they didn't.
+
+I closed the watch. The display vanished. The street came back. Cobblestones under my boots, the distant clatter of a late carriage, the faint salty smell of the harbor carried on the air.
+
+Thirty months.
+
+Two and a half years.
+
+I had spent nearly six months for Rolf to develop the technology. Three more to scale production to the point where noble households could buy units. Nine months of my life poured into getting funds.
+
+All of it was foundation. All of it was necessary.
+
+But foundation was not a weapon. It wouldn’t hold against a hundred walking catastrophes.
+
+Think.
+
+I put the watch in my coat and walked.
+
+I moved fast.
+
+Three blocks east. Through an alley between a printer's shop and a closed bakery. Out the far end, left, two blocks north. Another alley. I checked behind me, ahead, above. Used Mana Perception to sweep the street. The structural lattice of every building resolved. The faint cores of sleeping families behind their walls. The dim pulse of mana-glow strips in the streetlamps. A cat in a doorway, its tiny mana signature no bigger than a candle flame.
+
+No one was following me.
+
+I kept moving anyway.
+
+The waterfront came up, the harbor stretching away to my left, the moored ships' masts like a forest of stripped trees against the sky. The water lapped at the stone quay with a sound like something breathing.
+
+I found a stretch of wall low enough to reach the water. I crouched, cupped my hands, and washed my face. The alchemical dye came away in dark streaks, running off my fingers into the harbor. I worked it out of my hair strand by strand.
+
+Friedrich Kleist is going on a vacation.
+
+The Academy robes went into a gap between two stacked crates fifty meters down the quay. I pulled the plain shirt and trousers I'd worn beneath them straight, shrugged into the dark coat I'd folded and carried in the satchel. Seconds later there was nothing left of the third-year student.
+
+I walked the harbor road north toward the commercial quarter. I was three blocks from the mill when I heard the voice.
+
+"Extra! Extra edition! Qalathar under siege! Third attack! Three Titans in a single day!"
+
+I stopped.
+
+The boy saw me and thrust a paper forward. "One copper, sir. Hot off the press."
+
+I dug the coin from my trouser pocket and took the paper.
+
+The headline was three lines tall. QALATHAR FACES THIRD TRIPLE-TITAN ATTACK — SULTANATE CAPITAL UNDER MOUNTING PRESSURE — CASUALTIES CLIMBING. Below it, a map of the city with arrows indicating the attack vectors.
+
+Three triple-attack days in four months.
+
+The pattern is accelerating, I thought, staring at the map. And Pride just told me where it ends.
+
+The days that followed were the quietest I'd lived since waking in this world.
+
+I stopped working the bench.
+
+I climbed to the upper floor of the workshop each morning before dawn and didn't come down until dark.
+
+First were the books.
+
+I bought them in batches from the Academy bookshop, from the secondhand stalls in the market quarter, from a retired military librarian who sold from his apartment near the cathedral and didn't ask why a young man with white hair wanted everything he had on siege warfare.
+
+A History of the Southern Front, Volumes I–IV. Military doctrine from the first century of the war with the elves, through the territorial collapses, through the failed counteroffensives and the long, grinding retreat to the coast. I read them in two days and marked the margins with pencil.
+
+Weapons of the Old World and Their Successors. A thick, authoritative text from the Academy's Department of Military History. Full of diagrams showing the evolution of human armament from the pre-magic era through the discovery of mana and the subsequent collapse of the old technological base.
+
+Defensive Architecture: A Practical Assessment. Published by the Ministry of War, stamped RESTRICTED on the inner cover, available in the Academy library only to students with a military clearance I no longer held. I stole it. I would return it when Qalathar was safe.
+
+Alchemical Applications in Combat: A Field Manual, Third Edition. This one I'd read before, during the classroom phase at Formation School. I read it again with different eyes.
+
+I laid them open across the table, and beside them I laid my own notebooks. Logs from the original Kaspar's dormitory, the experiment records, the supply lists and compound formulas I'd been building since the Sultanate.
+
+And I read.
+
+And I thought.
+
+And the pieces began to click together.
+
+Gunpowder.
+
+The old world had built its military supremacy on controlled combustion. Muskets, rifles, artillery, explosives. Every battlefield innovation from the fifteenth century through the twenty-first had been, at its core, a refinement of the same principle. Ignite a propellant. Direct the force. Kill the target.
+
+Humanity had tried to carry that principle forward into the new world.
+
+It failed.
+
+The first problem was material. The Durak-Kel had claimed the deep veins within a generation of their arrival. Iron. Steel. The alloys that made gun barrels strong enough to contain the explosion and direct it. Without those metals in quantity, every firearm was a compromise. Copper barrels that warped after a dozen firings, bronze chambers that cracked under sustained use, cast pieces so heavy they required teams of men to move and so fragile they shattered at the temperatures gunpowder demanded.
+
+Yet the material problem was not the killing problem.
+
+The killing problem was the elves.
+
+Field reports from the Battle of the Cascades (Year 94 Post-Portal) indicate that elven forward scouts were able to detect and ignite gunpowder at distances exceeding three hundred meters. The mechanism is believed to be olfactory. Upon detection, elven fire-affinity casters were observed to ignite the powder without line of sight, without gesture, and without apparent effort. Fourteen ammunition wagons were destroyed in this manner during the third day of the engagement, resulting in the complete loss of the 4th Artillery Company and contributing to the rout of the human center.
+
+Subsequent engagements confirmed the pattern. By Year 110, standing orders prohibited the storage or transport of gunpowder within five leagues of the elven front.
+
+I sat back in my chair.
+
+They can smell it, I thought. They can smell the powder and light it from three hundred meters away. Every man carrying a gun is carrying a bomb with a fuse the enemy can reach from across the field.
+
+The implications ran deeper. Manufacturing gunpowder in quantity required saltpeter. Saltpeter required specific mineral deposits, the kind of deposits that sat in territory the Durak-Kel controlled or that had been lost to the territorial contractions of the past five centuries. The Empire's remaining saltpeter sources were thin, contested, and expensive. Building an army around gunpowder meant building an army around a supply chain that could be cut at three separate points.
+
+Dead end.
+
+I turned the page.
+
+Cannons.
+
+Some had survived. The text devoted an entire chapter to the copper-and-bronze artillery pieces that the Regular Army still maintained in limited numbers, massive things hauled on reinforced wagons, crewed by teams of eight, used almost exclusively against Titan threats where the target was too large to miss and the range too great for conventional magic.
+
+They worked. Barely. A direct hit from a heavy bronze cannon could crack a Titan's skin, could shatter bone, could punch through the chitinous armor of the insectoid variants. The records showed kills, but too rare.
+
+The costs were devastating. The cannons themselves failed as often as they succeeded. Bronze fatigued. Copper warped. A barrel that fired true on its first shot might split on its fifth. The propellant charges were enormous, pounds of precious gunpowder per firing, drawn from reserves that took months to manufacture. The reload time, measured in minutes rather than seconds, meant that a cannon crew that missed its first shot rarely survived to attempt a second.
+
+Against Titans, it might work. A Titan was a slow, enormous target. You could position the gun, aim, fire, and if the shot went wide, you ran and set up again and hoped the Titan hadn't noticed.
+
+How many cannons would you need for a hundred? How many tons of gunpowder? How many months of manufacturing? And what happens when the elves push from the south while the Titans come from the desert?
+
+For every weapon humanity had used, there was a counter. When it wasn't the elves, it was the Titans. When it wasn't the Titans, it was the material shortage. When it wasn't the material shortage, it was the logistics, or the training time, or the cost.
+
+I closed the book.
+
+The table was covered. Dozens of volumes, open, marked, annotated. A History of the Southern Front's maps showed the shrinking coastline in decade-by-decade overlays. The weapons manual catalogued every failed innovation. The alchemy field guide listed compounds I could build in my sleep and others I'd never heard of.
+
+At the far edge of the table, half-hidden beneath a stack of Southern Front analysis, sat the last book.
+
+The black-cover book from the Qalathar book district.
+
+I pulled it toward me and opened it.
+
+The text was Kumsuri.
+
+The letters sat on the page like a language I'd once known and now couldn't reach. I could look at the words and feel the ghost of meaning behind them but the specifics were gone.
+
+Lena could teach me, I thought. It might be too late when she returns. The Academy offers Kumsuri in the linguistics track. That's a semester I don't have.
+
+But Kumsuri or no Kumsuri, the chapter headings were names. Proper nouns. I turned through the chapters.
+
+The first I'd read, back in Qalathar when the skill was still mine. Ael'vari. The elves. The Architects of Betrayal, the book had called them. The first Sin. The first through the portal. The first to offer peace and the first to draw the sword.
+
+The second. Vrakh. The orcs. I couldn't read the chapter, but the name alone carried weight. The third chapter had no native name. Titans. The Kumsuri word was a transliteration of the Imperial term, because the Titans had never communicated.
+
+The fourth and fifth I knew. Vireth — the Rooted. Tree-shaped entities whose true selves lived in their root networks. Keth'aa — the Void Weavers. After that, the chapters I'd never reached.
+
+Vel'Shroud. I stared at the name. The letters meant nothing beyond their shape. Kreth-Aun.
+
+Durak-Kel. This one I knew from other sources. The geomantic entities who had claimed the deep veins. Skarath.
+
+Drakoni. The name pulled at something. Draconic. Draconian. The system had used the word when I'd absorbed the wyvern's blood. Were they one of the Eleven Sins? Were the wyverns their descendants?
+
+Ten chapters. Ten names.
+
+I turned the page after the Drakoni chapter.
+
+Nothing.
+
+The book ended.
+
+No eleventh chapter.
+
+Eleven Sins, I thought. Ten chapters. What's the eleventh?
+
+I closed the book and set it aside.
+
+The question would have to wait.
+
+I sent word to Asena, Augustin, and Rolf that evening.
+
+They came after the last production shift ended.
+
+Rolf arrived first, smelling of solder flux and chalk. Asena came next. She took one look at the table and sat down without being asked.
+
+Augustin was last. He entered with his portfolio under his arm and a cup of tea he'd made in the workshop's small kitchen.
+
+I closed the stair door behind him.
+
+"Sit," I said. "All of you."
+
+They sat. Three chairs arranged in a rough arc facing my end of the table.
+
+I stood.
+
+"We don't have time," I said.
+
+Augustin's tea paused halfway to his mouth.
+
+"The Magi-Cooling production is stable," I went on. "Augustin has the finances structured. Rolf has the engineering locked. Asena has the installations running at capacity. None of that changes." I put both hands flat on the table, the way I'd seen Katja do it in the briefing room when she wanted a sentence to land. "What changes is direction. Starting now, we need to enter the weapons and defense market. Immediately."
+
+The silence was brief. Augustin broke it.
+
+"No," he said.
+
+I looked at him.
+
+"I'm not saying no to be difficult." He set the tea down. "I'm saying no because what you're describing is a strategic pivot that would gut our momentum at the exact moment that momentum is building." He opened the portfolio and drew out the sheet I'd seen every morning for weeks, the daily numbers. "Two hundred and twelve outstanding commissions. Revenue projections through the quarter. A waiting list that now includes three provincial capitals. The credit line at Kessler & Braun is healthy. The brand is healthy. We are, for the first time since this began, in a position where the operation can sustain itself without your direct involvement." He laid the sheet on the table beside the books. "You're asking me to risk all of that for a market we haven't researched, with products we haven't designed, against competitors who have been established for decades."
+
+"This isn't an economic decision," I said.
+
+Augustin frowned.
+
+"It isn't about the market." I held his gaze. "It's about survival."
+
+Rolf shifted in his chair. "Survival?" His voice came out thin, confused. "Whose survival?"
+
+"Everyone's."
+
+Asena uncrossed her arms.
+
+"Explain," she said.
+
+I picked up the newspaper. The Qalathar headline faced outward as I laid it flat on the table, smoothing the creases.
+
+QALATHAR FACES THIRD TRIPLE-TITAN ATTACK.
+
+"Three separate occasions in four months." I tapped the headline. "This isn't random. The pattern is accelerating. These attacks are getting worse."
+
+Rolf leaned forward. He read the headline, then the subhead, then the first paragraph. His brow furrowed.
+
+"The Sultanate has the strongest wall defenses on the continent," Augustin said carefully. "Built by an Eighth Circle Mage."
+
+"The Sultanate's defenses are designed for one Titan at a time," I said. "Their garrison operates on the assumption that a single attack can be repelled by the ward barrier and the sand mages on the wall. Two is a stretch. Three is a near-catastrophe." I straightened. "I've been inside those walls. I've seen three Titans hit the city in a single day. If the count keeps climbing, there will come a day when it doesn't hold."
+
+"How do you know the count keeps climbing?" Augustin asked. "This could be a statistical anomaly. Three incidents in four months is alarming, but it's not proof of a trend."
+
+Tell them the truth.
+
+The thought rose and I pushed it down.
+
+I couldn't tell them about Pride. I couldn't tell them about the grimoire, the Sins, the Apocalypse countdown ticking in my pocket. So I lied.
+
+"Iron Cross intelligence," I said. "Classified. An active investigation tied to the Titan threat assessment — I can't share the details." I let the weight of the institution carry the words. "What I can tell you is that the analysis projects continued escalation. Qalathar is the initial target, but if it falls, the threat extends into the Empire."
+
+Augustin studied me.
+
+His fingers rested on the edge of the portfolio. A newspaper headline and an appeal to classified information. It was the kind of pitch a young officer made when he wanted resources for a project he couldn't justify on paper.
+
+But Augustin had not survived the Imperial Comptrollership by dismissing claims. He had survived by recognizing which ones were worth hedging against.
+
+"What exactly," he said slowly, "are you proposing we build?"

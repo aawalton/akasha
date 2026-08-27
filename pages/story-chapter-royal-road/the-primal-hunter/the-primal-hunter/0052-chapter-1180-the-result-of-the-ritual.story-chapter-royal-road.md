@@ -1,0 +1,171 @@
+---
+id: 6c580928-be54-5189-94b1-f9e5e9c94da9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1180 - The Result of the Ritual"
+slug: 0052-chapter-1180-the-result-of-the-ritual
+partOf: the-primal-hunter
+position: 52
+ownLength: 2877
+unit: words
+ownProgress: 2877
+publishedAt: 2025-10-15
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2678518/chapter-1180-the-result-of-the-ritual"
+royalRoadId: "2678518"
+markedReadAt: "2026-06-29T19:30:54.691Z"
+---
+
+Vilastromoz chuckled to himself and shook his head as he couldn’t help but find the situation funny. Several gods at the pinnacle of existence watched on with interest as Jake performed his ritual to assist the Shimmerfur Warpsnatcher. His dear Chosen had even given them permission to do this, which was quite a privilege. Even if it couldn’t count as a real favor, it was certainly an act that incurred some level of karmic debt, something Jake had no doubt not even considered for a moment. Though, to be fair, he had been rather busy, seeing as the Warpsnatcher had been actively in the process of dying.
+
+Anyhow, what he found funny was the ritual itself. Vilastromoz viewed himself as quite an expert in most things magic, which naturally included formations and ritual circles. Jake’s ritual was even one born from his theoretical foundation in a skill related to his Path as his Chosen, not that it should matter, seeing as it was just a mere C-grade formation.
+
+Yet, despite being a measly C-grade formation that looked like the drawings of a child to a god, Vilastromoz had been unable to truly detect anything. His observation had gone beyond mere sight, same as all the other observing gods, yet all he’d been able to discern was the faint sound of a heartbeat echoing throughout the cavern and energy moving through the ritual circle.
+
+“Not gonna lie, I was a bit worried Jake would end up revealing something related to his Bloodline he shouldn’t... but this is just comical,” the Viper spoke to himself, imagining all the other gods watching and having gained no greater insight into Jake’s abilities than they had an hour ago.
+
+Sure, they could extrapolate some things, but it was extremely limited. In fact, Vilastromoz guessed that they would view Jake’s unique capabilities as the Harbinger of Primeval Origins as even more mysterious than before. Shit, they, as they were mere observers, wouldn’t even get any Records worth mentioning, meaning the only people truly benefiting from the ritual were Jake himself, hopefully the Shimmerfur Warpsnatcher, Artemis, and naturally Vilastromoz himself.
+
+Granted, one thing had been revealed to all those looking, and that was how simple everything seemed to be. The Viper had heard through the grapevine that some factions believed that he himself had to construct the entire ritual circle with Jake only functioning as a font of power. Now, it was clear to the Pantheon of Life that wasn’t the case and that as long as Jake decided and had whatever mysterious resource required available, he would be able to pull off the ritual on his own.
+
+This information could have been bad to share publicly, but the Pantheon of Life being in the know wasn’t a bad thing. Yggdrasil and Nature’s Attendant certainly wouldn’t want to see it widely shared, and seeing as Jake and Artemis were an item, she would naturally come to learn more about his abilities down the line, so this was just accelerating the timeline a little.
+
+Having said all that, as the ritual wound to a close, there was still one important aspect left to consider, and that was the final outcome of everything. It was to discover what the Shimmerfur Warpsnatcher had become as a result of Jake’s assistance in its evolution.
+
+If it evolved into some living calamity... well, that could be very bad for sure. However, if it turned into a powerful beast that wasn’t a threat to everything and everyone merely by existing, this entire scenario would have been nothing more than a brilliant advertisement for why Jake would be someone the Pantheon of Life really wanted to keep as an ally.
+
+--
+
+Jake felt tense all over his body, and not just from the extreme energy drain he’d just gone through. For a second there, he thought Jasper had been unable to hold on, but he’d managed to barely last long enough to accept the system prompt.
+
+Now, all Jake could do was wait. Truthfully, the time it took for creatures to evolve never made much sense to him. Sometimes, it was practically instant, while other times, it took annoying long. Sure, for the person evolving, it took a while, but it was pretty clear by now that time was a relative term, especially when the system got involved.
+
+“Did you succeed?” Artemis asked after a few seconds had passed. She’d seen Jasper disappear, yes, but that didn’t necessarily mean Jake had done everything the way he wanted.
+
+The entire ritual circle being destroyed towards the end likely also added to the uncertainty.
+
+“That’s hard to say,” Jake said, shaking his head. “As I said, this is a first. None of us will truly know before Jasper returns.”
+
+“I see,” Artemis said as she joined him in his silence as they both waited. Their many observers also no doubt would have preferred for it to be an instant process, but alas, the system did as the system did.
+
+Every second just staring at where Jasper had disappeared from was torture, but they didn’t have any choice but to exercise patience. Luckily, they didn’t have to wait that long before a creature popped into existence.
+
+The evolution had resulted in quite a few changes, even if the overall appearance remained mostly the same. Jasper’s body still had a light blue color all over, but the spikes on his back were reduced significantly in length, now also looking a lot smoother than before. His paws were also the same, except now being entirely white underneath.
+
+Size-wise, Jake couldn’t tell any difference whatsoever, though his length had increased by a fair deal. A long, thin tail extended up his back, and at the end of it was something that looked like a small gemstone, though upon closer inspection, Jake realized it was just the hair that was shaped oddly.
+
+Overall, his cat-like features had gotten a boost while the porcupine ones had been downgraded. He still looked like Jasper, though, and if Jake ever wanted to start a merchandising business selling cute stuffed animals of all the creatures he’d helped create with his Bloodline abilities, Jasper would give Sylphie a run for her money. Sandy would definitely be in last place, and as for Vesperia... well, Jake feared anything made in her image appealed to a far different clientele.
+
+Jasper was currently sitting on his butt, naturally also fully healed. Soon enough, he opened his eyes, which was when Jake saw another difference. His pupils had turned into a deep blue color that gave off a faint shine, indicating some kind of ocular skill.
+
+Finally, having completed his physical assessment, Jake used Identify to see what Jasper had become, which didn’t go very well.
+
+[?]
+
+Something blocked Jake’s Identify. Something Jasper definitely didn’t have before. Seeing this, Jake turned to look at Artemis, who was frowning.
+
+“What’s wrong?” Jake asked, feeling a bit concerned due to her reaction.
+
+“I found my use of Identify impeded for a moment when I used it...” Artemis muttered. “On a B-grade?”
+
+Okay, so it turned out that Jasper had a very effective skill at hiding from Identify, but for now, there was something more important to determine.
+
+“Hey, Jasper?” Jake said in a slightly elevated tone to get the former Warpsnatcher’s attention. So far, the little guy had only been sitting there unmoving, almost as if he wasn’t even registering his own surroundings.
+
+However, right after Jake spoke, Jasper turned his head and looked at Jake. Without any warning, he disappeared, only to appear right in front of Jake, both paws raised toward the sky.
+
+“Success!”
+
+Despite the evolution, his voice remained exactly the same, making Jake smile as he squatted down to be closer to the house-cat-sized B-grade that had just teleported in a way that didn’t involve space magic, which Jake didn’t understand in the slightest.
+
+“That was a close one,” Jake said as he tried to push his luck a little, primarily on account of how soft Jasper looked. He scratched the little guy on his head, but the only response he got was the ears twitching a bit as the B-grade kept looking up at him.
+
+“No risk, no gift!” Jasper said wisely, clearly in a great mood due to his recent evolution.
+
+“True, true. Say, can you do so I can see what your new race is called? You’re blocking me right now.”
+
+“Okay,” the B-grade quickly agreed as he closed his eyes tightly and even clenched his small paws in effort, and a few seconds later, Jake got an Identify off, finally seeing what he had created.
+
+[Shimmershroud Planeswarper – lvl ???]
+
+So... yeah, new name, but still one very similar to before. In fact, the same was similar enough for Jake to doubt whether he had even succeeded. Jasper was going to evolve no matter what, and while Planeswarper did sound like of cool, one had to remember this was still a B-grade creature, and their names tended to sound pretty nice as long as they weren’t bottom-tier variants.
+
+As for judging Jasper’s aura, things got a little complicated. Jasper was fully suppressing his aura at that moment; in fact, all traces of his presence were entirely gone. Jake felt that if he looked away for a second, he would lose track of where the Planeswarper was, and without his Sphere, it wasn’t certain he would have even noticed Jasper had returned from his evolution.
+
+This meant Jake’s only way of judging how strong Jasper was relied on his Bloodline, but because Jasper wasn’t a fighter, it was hard to get a good read. He did get the vibe that the little guy wasn’t weak, but he also had that vibe before.
+
+“Do you have any insight as to Jasper’s new race?” Jake asked Artemis with curiosity. He also considered asking Villy, but that would have felt rude considering he already had a god standing right next to him.
+
+Artemis looked at Jasper for a while, studying him closely as the Planeswarper stared back at her.
+
+“I do consider myself somewhat well-versed in Shimmerfur variant evolutions as I looked into it recently... and I’ve never come across anything called a Shimmershroud Planeswarper before. I have seen creatures with Planeswarper in their name, though, and they tend to be relatively powerful variants. When it comes to the Shimmershroud portion, I’m drawing a blank,” the Godqueen answered honestly.
+
+Jasper, who had been staring up at her while she answered, suddenly clapped his paws and motioned toward Artemis. “Not scary!”
+
+It took Jake a moment to realize what Jasper was getting at before he smiled. “So, at least we confirmed that, but I guess we best make completely sure. Hey, Artemis, can you show off your presence a little?”
+
+Artemis didn’t even ask if he was sure, as she just sent it. Jasper looked a bit surprised as the aura of a Godqueen fell over the two of them, but outside of his initial reaction, he didn’t do anything besides stare up at her.
+
+“Yep, alright, it’s a hundred percent now,” Jake nodded with a smile. “More or less complete aura immunity, at least to a Godqueen. Similar to Sandy, Vesperia, and Sylphie.”
+
+“Who?” Jasper asked, tilting his head.
+
+“Others I helped,” Jake answered. “So I guess you are kind of related to them?”
+
+“Family?”
+
+“Something like that, sure,” Jake smiled, not wanting to shoot down the notion. At least he looked at those three as family, and he had no problem including Jasper in that.
+
+“Family!” Jasper clapped his paws again, once more making it clear that despite having evolved, he was very much still the same little guy.
+
+As he spoke with Jasper, Jake also subtly reached out to a certain Primordial and quickly got an answer.
+
+“Shimmershroud Planeswarpers also aren’t anywhere to be found in my mighty mind palace, so I’m pretty confident in stating that this is either a first, or the reemergence of another long-dead variant. When it comes to how powerful the newly evolved B-grade is, I think you’ll find yourself pleasantly surprised. I believe that... Jasper was it? Has a rather unique skill-set, making him quite a creature to deal with if you want to keep your stuff unrobbed,” the Malefic Viper gladly answered Jake’s inquiry.
+
+That answer further supported the prevailing theory that Jasper had become a pretty powerful variant. Of course, being a non-combat monster, it was harder to say how “strong” he was, as usually the best way to tell was just a fight.
+
+However, Jasper specialized in getting quickly in and out, and honestly, Jake hadn’t been confident in catching an escaping Warpsnatcher, much less a Planeswarper. Monsters specializing in survival and consumption of natural resources were pretty much always able to escape from others their level, and with someone like Sandy, they were so durable that Jake felt like fighting them would be a waste of time.
+
+Jasper didn’t look particularly durable, but that didn’t mean he would be easy to fight. Granted, Jake did have a good matchup considering one of Jasper’s main strengths seemed to be his extremely powerful stealth, something Jake could more or less ignore due to Bloodline shenanigans.
+
+Not to say Jake had any confidence, and just based on that weird teleport earlier, Jake was reasonably certain that Jasper was very good at running away if he so desired. Of course, to really know, Jake wanted to do some tests.
+
+“Hey, Jasper, you up for showing what you can do?” Jake asked the Planeswarper as he saw no need to hide his own curiosity or delay learning more about what his latest ritual as a Harbinger of Primeval Origins had brought into the multiverse.
+
+“Okay!” Jasper readily agreed as he looked toward the way leading upstairs. “Go up?”
+
+“Yeah, we should go somewhere with more space for sure,” Jake nodded before turning to Artemis. “Oh, and let’s get that barrier covering the palace back. I believe the audience has already gotten the show they came for, and there’s no reason to leak what Jasper can do unless he wants to be the one doing the leaking.”
+
+“That’s fair,” Artemis agreed, and a second later, Jake felt the barrier covering the palace meant to stop curious observers appear once more. Of course, piercing it for gods like Yggdrasil and Nature’s Attendant was simplicity itself, but they still respected it as Jake felt all the gods withdraw.
+
+Besides Villy, but Jake was used to him by now, and if Jasper and Jake ever spent any time together, the snake god would learn all about the little guy, anyway.
+
+Jasper, looking between Jake and Artemis, raised his paws up and stood there for a bit.
+
+Jake looked confused, but Artemis didn’t hesitate and quickly moved. She bent down and picked up Jasper with both hands, a big smile on her face as she held the little guy like a cat lying on his back in her arms.
+
+“So you evolve to B-grade and suddenly turn lazy?” Jake muttered.
+
+“He nearly died, so he can get a little break,” Artemis defended Jasper as she scratched his stomach, which was when Jake learned that a Shimmershroud Planeswarper could purr.
+
+Turns out that even Godqueens aren’t immune to cute animals, Jake thought as he just motioned for them to head upstairs.
+
+As the three of them made their way upstairs, Jake checked his notifications, which he’d ignored until now, and saw that he had indeed gotten quite a few, with the first one in itself being rather interesting.
+
+Congratulations! A new type of ritual has been completed, your assistance resulting in the evolution of a C-grade Shimmerfur Warpsnatcher into a B-grade Shimmershroud Planeswarper - A new feat has been accomplished. Bonus experience earned
+
+This notification acknowledged what Jake had done in a surprisingly straightforward way without mincing any words. That was definitely a surprising yet welcome development. Jake’s only fear was that the simple appearance of the notification meant that the reward hadn’t been substantial; however, it quickly became clear he’d still gained plenty of experience.
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 324 - Stat points allocated, +35 Free Points
+
+…
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 327 - Stat points allocated, +35 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 324 - Stat points allocated, +45 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 325 - Stat points allocated, +45 Free Points
+
+Four levels for a ritual made in such haste were more than worth it. Of course, it counted a lot extra that this had been Jake’s first time doing a ritual exactly like this, but he reckoned that if he repeated it, he would still get decent experience.
+
+And speaking of repeating it, Jake noticed something else surprising. When he looked inside himself, he expected to feel a sense of emptiness, seeing as he’d poured out quite a bit of Jake Juice during the ritual; however, to his surprise, the sensation he got wasn’t one of emptiness. Sure, he’d spent a decent amount, but...
+
+I feel like I could do another one or two without any issue... maybe more...

@@ -1,0 +1,131 @@
+---
+id: 74bc1ff4-76ee-5238-a2be-6c58c22dc664
+page-type-slug: story-chapter-royal-road
+title: "Chapter 552: Guild Business"
+slug: 0118-chapter-552-guild-business
+partOf: rise-of-the-living-forge
+position: 118
+ownLength: 1708
+unit: words
+ownProgress: 1708
+publishedAt: 2026-02-03
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3008769/chapter-552-guild-business"
+royalRoadId: "3008769"
+markedReadAt: "2026-06-29T20:02:12.658Z"
+---
+
+Arwin strode down the street behind Koyu, his weariness falling away like the rotting petals of a flower as anger sharpened his mind. They’d left the rest of the Menagerie that had been with them in the Infernal Armory behind to keep an eye on Vix.
+
+For a single, frozen dwarf, the two of them were more than enough.
+
+It was taking just about everything Arwin had to keep up with Koyu. That wasn’t just because he’d spent a lot of his energy crafting Vix’s heart. The lich was far taller than he’d once been. Every step the ghostly man took was practically two of Arwin’s.
+
+But the dwarf wasn’t alone when the two of them arrived at the street in question. Koyu’s long, loping gait slowed as confusion crossed his features. Both he and Arwin ground to a halt.
+
+There were five armored warriors piled up at the feet of the dwarf that Koyu had transformed into a popsicle. All of them wore the same equipment. They laid in a heap, clearly unconscious, before Ida.
+
+And across from Ida was Rodrick. He leaned against the wall, his arms crossed in front of his chest and a deep furrow set in his features. His gaze flicked over to Arwin and Koyu as they approached.
+
+“Arwin,” Rodrick said. Concern cut through his features and he pushed away from the wall hurriedly. “What are you doing here? Forget about this! Vix—”
+
+“Is fine,” Arwin said. “The work is done.”
+
+“Oh.” Relief washed across Rodrick’s face and he blew out a small sigh. “Oh. Good. That’s good. The operation was successful?”
+
+“As far as we can tell,” Arwin said with a nod. “Koyu showed up at just the right time to give it an extra push.”
+
+“It would have been fine without me,” Koyu put in. “I simply wanted to participate. Vix should not be in any danger so long as she takes the next few days slowly and gets sufficient magical nutrient.”
+
+“I’m very glad to hear that,” Rodrick said. “Anna was worried sick. All of us were, really. But she was really feeling the stress. She’s going to need some time off. Not that she’ll say it. She never does.”
+
+“I’ll make sure she gets it,” Arwin promised.
+
+“Thank you,” Rodrick said.
+
+Ida coughed. “I… I’m sorry. There are dwarves. From the council. Are you just ignoring this? We can’t—”
+
+“Oh, it’s fine,” Rodrick said with a wave of his hand. “That hardly matters. I’ve already dealt with the immediate problem.”
+
+“Where did these extra idiots come from?” Koyu asked, tilting his head to the side and crouching beside the pile of unconcious warriors. “They were not present when I returned.”
+
+“Coordinated attack,” Rodrick replied. “They sent people from pretty much every direction. Most of them got caught by my network. Olive and I dealt with them. You froze the last one before I could get around to him. I believe I’ve gotten all the information I need, but it’s good to cross-check.”
+
+“Wait. You did?” Arwin asked. “How?”
+
+Rodrick’s lips twitched. He glanced down at his right hand, then shook his head. “My class has opened up considerably. I am capable of a lot more than I used to be. Especially as of late. I’ve made a few modifications to myself. They’ve served me well. I’ll show you once Koyu unfreezes the last one.”
+
+“Be careful,” Ida warned. “I don’t know what you did to get information from them, but I wouldn’t trust it. Council warriors are no pushovers. They’re trained to protect the identity over their employer over all else. Anything they say is probably a lie.”
+
+“Oh, I’m sure it is,” Rodrick said. “Koyu, if you would?”
+
+The lich extended a hand. He let his pale blue fingers rest upon the dwarf icicle. A wave of chilly air blew through the street and sent goosebumps rolling across Arwin’s skin. The ice encasing the final dwarf melted away, dropping him to his knees in a wet heap.
+
+He drew in a weak gasp — but Rodrick didn’t even wait for him to recover. The former paladin reached down. He set his hand on the dwarf’s head. Then his eyes narrowed in concentration.
+
+Rodrick’s hand paled until it was nearly pure alabaster white. A light lit within it, filling his entire arm with a faint glow.
+
+Then his hand slipped straight into the dwarf’s head.
+
+Arwin’s eyes widened. For a moment, he thought that Rodrick had literally just executed the warrior on the spot. But that wasn’t it either. The dwarf’s skin hadn’t even been broken. Rodrick’s hand didn’t penetrate flesh so much as passed clean through it.
+
+It wouldn’t have been accurate to say that his arm had become permeable or ghostly. Rodrick’s fingers visibly moved beneath the dwarf’s skin. His hand was physically present. It had just somehow passed clean through the outer layers of flesh.
+
+The dwarf drew in a stiff, hissing gasp. His eyes snapped wide open, but there was no sign of his irises at all. They’d gone completely white. He stared off into the distance, mouth hanging slightly askew. Several long seconds passed. The dwarf didn’t budge. He didn’t even seem to be fully aware of what was happening. Rodrick just kept rooting around in his head like a child searching for the last cookie at the bottom of a jar.
+
+Ida muttered a prayer, taking a step back as she stared at Rodrick in horror.
+
+Arwin couldn’t even blame her. Even he felt a bit ill. He’d seen a number of unsettling things in his time. This was definitely one of the most unsettling scenes he’d ever been subjected to.
+
+But Rodrick didn’t seem to notice the attention he’d garnered. His attention was fully on the dwarf. He dug around for a few moments longer. Then he pulled his hand free. It slipped out of the warrior’s head with a faint pop.
+
+The moment Rodrick was no longer supporting him, the dwarf collapsed to the ground, falling unconscious on top of the pile of his comrades. The only way Arwin could even still tell he was still alive was by the faint twitches running through his entire body. It was as if he’d been electrified.
+
+“No different than the others,” Rodrick declared, turning to them. Then he paused. “What? Why are you all looking at me like that?”
+
+“What unholy abomination of an ability was that?” Ida asked in horror. “What did you do to them?”
+
+“Hm?” Rodrick tilted his head to the side. His hand returned to its normal color. “Nothing that bad. I was just taking a look through their thoughts. This is a good thing. It saves us all a lot of pain.”
+
+Ida’s gaze lowered to the pile of dwarves.
+
+“That’s saving pain?” she asked. Then she blinked, suddenly remembering her own position. “Not that it’s my place to say anything. You were attacked. This is just how things go.”
+
+“It’s saving pain,” Rodrick repeated. “The alternative would be trying to force information out of someone. And as we all know, that’s never particularly effective. You don’t get the whole story. Getting information from the source saves us all the trouble.”
+
+Holy shit. Rodrick can literally pull memories straight out of people’s minds now?
+
+“How long have you been able to do this?” Arwin asked.
+
+“It’s a relatively recent iomprovement,” Rodrick replied. He wiped his hand off on his shirt. “Now. We should get to the important part. The dwarves came under orders from someone called Dorne. Ida, do you know who that is?”
+
+“Dorne?” Ida frowned. “Yes. I do. He’s a member of the Council. He’s not very close with my mother. They’re often at odds. It’s not particularly surprising that he would want to stop her from gaining influence through the Menagerie. But are you implying that you literally just pulled someone’s memories right out of their—”
+
+“Moving on,” Rodrick said. “We should be able to deal with this pretty easily. I assume that Dorne won’t be able to act overtly after the Dwarven Council’s pet guild has officially backed us after our opening?”
+
+“They can’t,” Ida said. She glanced at Rodrick’s hand again, then edged a step away from him. “Please don’t finger my head.”
+
+“Don’t say it like that,” Rodrick said. “It sounds weird. I’ll make plans to deal with Dorne and make sure he doesn’t get the opportunity to bother us before the Mausoleum is properly open. I got enough information from these idiots to handle things without much trouble. This new ability is quite useful.”
+
+“Just how much information do you get when you use that?” Arwin asked.
+
+Rodrick caught his gaze. They were both silent for a moment. Then the former paladin quietly shook his head.
+
+“Let’s move on,” Rodrick said. “By the way, welcome back, Koyu.”
+
+“You don’t seem surprised,” Koyu said.
+
+“I got notice you’d returned shortly before you froze the dwarf,” Rodrick replied with a shrug. “I keep a close eye on the street, now. I’ve slipped up once. That isn’t happening again. We should probably figure out who the next person to go will be now that you’re back. It’s quite useful.”
+
+You can say that again.
+
+“So it is,” Koyu said. He glanced to Ida. “Off with you, girl. You’ve overstayed your welcome. Go eat something at the tavern and do your best to forget about this.”
+
+“That’s the easiest order any of you have ever given me,” Ida said. She sent one last look at the pile of dwarves. Then she turned on her heel and hurried off.
+
+“Well. That’s dealt with,” Rodrick said as he watched Ida leave. “But there’s more to be done. Let’s have a guild meeting tonight for the business stuff.”
+
+“Sounds good to me,” Arwin said. “Thanks for your work, Rodrick, Koyu.”
+
+“It’s just the job. Let’s go say hi to Vix, shall we? I’m eager to see how they’re doing,” Rodrick said. He started for the Infernal Armory, then paused and glanced back at Koyu.“Sorry. Could I ask you to take care of this for me? We can’t exactly let people that tried to kill our people live.”
+
+Koyu’s pale lips split into a grim smile. “With pleasure.”

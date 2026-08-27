@@ -1,0 +1,135 @@
+---
+id: 07780bc1-933e-5368-a25e-60606633b515
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1231 - Stalking One's Prey"
+slug: 0103-chapter-1231-stalking-one-s-prey
+partOf: the-primal-hunter
+position: 103
+ownLength: 3002
+unit: words
+ownProgress: 3002
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2935877/chapter-1231-stalking-ones-prey"
+royalRoadId: "2935877"
+markedReadAt: "2026-06-29T19:32:31.809Z"
+---
+
+Jake watched from the other side of the large city as the True Dragon stayed at the table for a few moments before deciding to leave. He wondered if she planned on looking for him, but she just went to her room in the resort. Despite her frown, she seemed entirely unaffected by their interaction.
+
+One could say that approaching her directly like this had been a risky strategy, but Jake was fairly confident in at least escaping if it came to that. Luckily, all he’d needed was a few uses of One Step and Unseen Hunter to slip away, definitely in part due to her not actively looking that hard for him.
+
+Still, he believed it was worth the risk for a variety of reasons. First of all, despite Villy’s wonderful slideshow, he wanted to confirm for himself what kind of person she was. He had purposefully been a little annoying, and her response of trying to kill him was all the evidence he needed that she was indeed a shitty person.
+
+Secondly, this brief encounter allowed Jake to get a better feel for how powerful she was. Despite hiding her power, Yrelstromoz couldn’t entirely hide from Jake, and after experiencing her presence, there was no doubt in his mind.
+
+She was by far the most powerful prey he’d ever planned to hunt down.
+
+Sure, she wasn’t a fighter with a lot of life-and-death experience. Sure, she was on the younger side for B-grades. Sure, she was considered to be of low talent. However, she was still a True Dragon, through and through. Her one attempt to kill him had truly confirmed that.
+
+Jake’s danger sense had screamed at him to dodge when it was unleashed, and while he wasn’t sure the blow would have been powerful enough to trigger Moment of the Primal Hunter, he didn’t believe it was far off. Being able to display such power while still in her humanoid form and with a lot of the skill’s Records focused on keeping it subtle, her sheer magical prowess was unquestionable. Truly, it was as one could expect of a dragon.
+
+The third and final reason Jake wanted to meet her in person was to begin his hunt and inform her that he was coming for her. He wanted her to be aware that he planned on slaying her and not just attacking from out of nowhere, yet at the same time, he didn’t want to attack her with an open declaration, as that would just make him foolishly lose his powerful opening attack.
+
+Besides, Jake was fairly confident that his opening attack wouldn’t prove as effective as he hoped, so he preferred not to put too many eggs in that basket. Chances were that Yrelstromoz had some kind of life-saving measure that could mostly counteract Jake’s initial strike at least somewhat. From what little research Jake did during his final preparation phase – he kept it light on purpose – the dragons most focused on magic tended to always have at least one life-saving skill to avoid assassination attempts.
+
+The Lumenflight consisted of dragons that were masters of magic among a race of masters. Variants from the Emberflight, Darkflight, and several others were more mixed and also possessed extreme physical might, while the Lumenflight was more in the pure magic department. Due to this, Jake definitely believed she would have something.
+
+During Jake’s final preparation phase, he’d also crafted everything he believed he would need for this hunt. He had stocked up on more Dragonsbane Poison than he believed he would ever need, and he had a healthy stock of potions of all variants, all newly crafted to make use of his higher stats from the Sacred Prodigy title.
+
+Now that he was sitting a few hundred kilometers away while keeping an eye on Yrelstromoz, he was preparing himself for the fight to come. However, now wasn’t the time, and he wanted to keep watching a little longer. He wanted to see if he could learn anything more useful, but also because of one of his skills. Namely, Relentless Hunt, which allowed him to slowly start building Hunting Momentum even now, as per the skill description:
+
+“Allows the Arcane Hunter of Horizon’s Edge to accumulate momentum during a hunt by slowly finding an opportunity to strike.”
+
+He also saw that his brief interaction with her had kick-started the skill’s activation, and while it was far slower to build than during actual fights, it was respectable and would add a noticeable increase to his opening attack.
+
+Another reason he waited was to test her innate resistance to negative magical effects. As he departed, Jake placed a Hunter’s Mark on Yrelstromoz, which both confirmed to him that he could indeed mark a True Dragon without them noticing, and it would also let him know how resistant she was to such effects based on how long it would take to expire.
+
+A final reason he was a bit reluctant to get the hunt started right away was the location. While Yrelstromoz and Villy didn’t seem to mind destroying entire population centers as collateral damage, Jake would like to avoid it if possible. He simply saw no reason why his hunt should also result in the deaths of so many people who had nothing to do with it. Especially in a place like this, made for people who were just trying to have a good time.
+
+He had a solution in mind that he theory-crafted as he waited for the Mark to expire. As he did so, Jake also reflected on the information about Yrelstromoz and their recent conversation. From those two things alone, he had a good understanding of what kind of person the True Dragon was.
+
+She was someone born with a golden spoon, but just as many expectations were placed upon her. When she realized she couldn’t live up to these expectations, instead of continuing to try or adapt, she began to build resentment towards everyone and everything around her. She started lashing out at the world and reveling in her own innate superiority as a True Dragon, never caring about anyone but herself.
+
+If she were just a dragon who decided that the Path of constantly trying to grow stronger wasn’t for her and just settled down to live a quiet life, Jake wouldn’t have cared. He would have seen her choice as moronic and judged her for having made it, but he wouldn’t have bothered her.
+
+However, she just had to go and be a multiversal terrorist who could experience moments of feeling powerful when bullying the weak. She was so self-centered that she couldn’t accept anyone doing better than her earlier, something their brief interaction had confirmed. Yrelstromoz hadn’t even tried to hide how much she was seething as Jake kept winning during the card game. The only reason she hadn’t openly lashed out or done anything earlier was that she’d already decided she was going to kill Jake within a couple of minutes of him sitting down.
+
+There was a small risk that her lashing out would have resulted in an attack, resulting in collateral damage, but Jake believed she wouldn’t do that. Not because he thought she cared about the people present, but because openly attacking would mean her time at the holiday resort would end, forcing her to move on to her next location. Also, she was meant to be lying low, and while hiding a few subtle assassinations wouldn’t be too hard, widespread destruction was quite noticeable, and it was also far easier to figure out what kind of magic was used.
+
+As Jake was having these thoughts, his eyes opened wide upon feeling his Hunter’s Mark expire. Right as it happened, Jake felt a slight sense of danger, making him sit completely motionless and focus even more on his Unseen Hunter to stay entirely hidden.
+
+This proved a wise choice, as a fraction of a second later, an invisible pulse of power passed over him and the barrier of stable arcane mana he used to better hide himself. He was tense for a few moments as several more pulses appeared, and then he saw Yrelstromoz frown and shake her head.
+
+Upon seeing this, Jake finally relaxed and let out a sigh of relief as he also couldn’t help but smile. She’d noticed his Hunter’s Mark expire. Jake couldn’t remember that happening before, which was why he couldn’t help but smile. Had he been a little scared that this wouldn’t prove a good hunt before he got to the planet, seeing as he was fighting a True Dragon not exactly atop the totem pole? Yes, but by now, he knew it wouldn’t be easy. Again, a True Dragon was still a True Dragon and an apex creature of the multiverse for a reason.
+
+Jake continued to observe her for a while longer, not wanting to attack too soon after revealing himself, while also hoping she would give him a chance to strike when she was not close to others.
+
+It sucked that he didn’t have any Void Sphere, but sadly, they weren’t that easily acquired. Learning to drag people into the Shadow Realm would also have been useful, but alas.
+
+About a day passed with him just watching her as Yrelstromoz stayed in her room throughout, never going anywhere or doing anything. Fortunately, she soon got bored enough to try to venture outside, going down to the pool area where she got a single drink at the bar before returning to her room.
+
+The next day, she did something similar but stayed outside for a little longer. On the third day, her caution seemed almost entirely gone as she seemingly went about business as usual. The only difference was that she didn’t kill anyone or do anything to stand out, but acted like a relatively normal person. If she acted like this all the time, Jake would never have come, but now that he had seen her true face, she was only prey.
+
+Was there perhaps a path to redemption somewhere? Could she be reformed and turn a new leaf? Perhaps… unluckily for her, it was Jake and not Jacob who was coming for her, and the hunter had no interest in offering an opportunity to repent. The only repentance she would find was in death. That, or she would kill him, and honestly, killing Jake was bound to give some hefty Records even for a newly evolved B-grade, so in theory, that could help her turn her life around. Sadly for her, Jake was intent on this only remaining a theory.
+
+Another day passed with Jake observing her, considering how he wanted to attack. Yrelstromoz stayed cautious, and he did spot her throw glances over her shoulder here and there, naturally never spotting a Jake who used his Pulse of Perception from over a hundred kilometers away.
+
+He released constant pulses, getting a snapshot every second or so to keep track of her. On that note, Jake felt pretty confident in soon being able to expand his sphere for constant observation with a far longer range, but he didn’t want to try to push it before B-grade. Besides, it got the job done.
+
+Back to his hunt, Jake considered ways to make her leave the city. One of the good things about this planet was how deserted it was. Yrelstromoz had definitely chosen it because the only people who ever went there were those wanting to enjoy a pleasant holiday.
+
+The planet only had one ocean, which might as well have been a great lake, as it wasn’t even that big in the first place. Along the coastline of this ocean were countless large establishments and entire holiday cities, interspersed with the greenery and beautiful vistas created by the lake and the energy it gave off.
+
+Any other place than this one coastline on the entire planet was either pure wilderness or vast swaths of nothingness. It was mostly just rock, metals, and sand, with little life there. Since nearly all the planet’s energy was focused in and around the ocean, there wasn’t even anything valuable to be found outside the city.
+
+In Jake’s ideal world, he would lead her to these outskirts and fight far away from any population center, but the problem remained of how he was going to make that happen. He needed something to bait her away, but he didn’t know what.
+
+As Jake was sitting in contemplation, a certain snake god, who was watching curiously, couldn’t help himself anymore: “Are you really that against just attacking when a good opportunity presents itself? Would it really be that horrible for a few E and D-grades to die? Because I can tell you that no one whose opinion matters in the multiverse would find it a problem.”
+
+“I feel like you’re purposefully just trying to bait me right now due to our recent conversation,” Jake muttered as he kept watch of Yrelstromoz to keep his accumulation of Hunting Momentum going.
+
+“Alright, fine, just saying, when you attacked the Usurper of Yip, you were a lot more willing to kill everyone on his planet,” the Viper said.
+
+“Different circumstances. I viewed them as effectively being afflicted with an incurable plague,” Jake shot back.
+
+“So are these people. The plague of uselessness and contentment.”
+
+“Lucky for them, that’s not incurable nor something I feel makes them worthy of death,” Jake said. “Now, did you just want to try to convince me to destroy a holiday resort, or did you have anything useful to add?”
+
+“Not in particular, though I guess I could be wondering out loud why you aren’t using one of the most obvious methods imaginable to bait her out of the city and into the wilderness,” the snake god said casually.
+
+“… alright, I’m listening,” Jake responded.
+
+“Just telling you would be boring, so I’ll just give you a tiny little hint: check your fucking spatial storage for once in your life.”
+
+Jake was about to say something in response to the Viper’s impatient words, but the Primordial had already cut the telepathic connection by the time he had the chance to. He ended up sitting there for a moment before checking out his inventory and… yeah, alright, Jake should really consider what he was carrying around sometimes. This wasn’t even an example of some old forgotten item in his inventory, but the things he had been using most recently.
+
+Yeah… alright, this should work.
+
+Yrelstromoz couldn’t help but still have an uneasy feeling despite a week passing since her odd encounter with the human who avoided her attack. His ominous words as he left still annoyed her, even if, realistically, they shouldn’t.
+
+It hadn’t helped when she faintly felt some magical tracker of some sort lose effect on her the same day they met, as the notion of her being unable to sense when it had been applied was unsettling to say the least.
+
+However, the more she thought about it, the more she questioned her need for fear. Logically, she didn’t actually believe there was any credible threat after thoroughly considering everything.
+
+The person who approached her gave off the unmistakable aura of a C-grade. She did now believe he had hidden his actual level, but hiding grade and level were two very different things, especially when one used energy, which he had while dodging.
+
+Only those far stronger than herself could disguise themselves as C-grades and evade her detecting it, but that wouldn’t make any sense. No A-grade or B-grade of a high level would come for her, as that went against the norms of the multiverse. No, if the United Tribes wanted to get revenge for her killing a dog, they would have to send a bunch of new B-grades or face criticism.
+
+That meant Yrelstromoz saw only two options. Either it had indeed been an A-grade or someone else far more powerful than herself, in which case he had likely just done all that to mess with her, perhaps as some kind of psychological attack. That… or it had indeed been a peak C-grade who was incredibly powerful for his level and managed to avoid her killing attack.
+
+Ultimately, both options meant the same thing: there was no credible threat. Again, no A-grade or too powerful person would dare kill her, and in case it was a C-grade, she found the sentiment of a C-grade even trying to kill her laughable.
+
+Hence, she returned to enjoying herself, remaining a bit more cautious in case she was under observation. At least she remained cautious until that day when she was relaxing at the pool and she sensed something.
+
+At first, she questioned her own perception, but when the feeling persisted, she quickly reacted by sitting up and expanding her senses. Far away, there was something familiar… something draconic in nature.
+
+Frowning, Yrelstromoz hesitated, finding this all too suspicious. Why would she suddenly feel what she believed was another dragon on this planet? It was naturally related to the human from only a week prior, but that only made matters more confusing.
+
+She didn’t believe a dragon had come to kill her. Dragons didn’t usually kill dragons, after all. However, that just made matters even more confusing. Clearly, whatever it was tried to bait her there.
+
+Could it be an attempt to ambush me? Yrelstromoz wondered for a second before quickly dispelling that thought. If they wished to attack her, she’d given them an entire week of her doing nothing. The thought that any would-be attempted killer would even consider potential collateral damage didn’t even cross her mind.
+
+After thinking on the matter a while longer, her curiosity won as Yrelstromoz decided to investigate why she felt the presence of another dragon. She went fully aware that someone might be plotting against her, but even if that was the case, did she really need to be that concerned?
+
+She was a True Dragon, after all.

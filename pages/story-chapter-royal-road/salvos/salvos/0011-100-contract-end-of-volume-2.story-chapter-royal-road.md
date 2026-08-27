@@ -1,0 +1,315 @@
+---
+id: d8c61b65-77b8-5bf7-ac94-7a9c358852af
+page-type-slug: story-chapter-royal-road
+title: "100. Contract (End of Volume 2)"
+slug: 0011-100-contract-end-of-volume-2
+partOf: salvos
+position: 11
+ownLength: 3627
+unit: words
+publishedAt: 2021-04-16
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/665886/100-contract-end-of-volume-2"
+royalRoadId: "665886"
+---
+
+100. Contract
+
+The carriage rushed through the winding road under shelter from the treetops. It was dawn. And Daniel was certain that he would not have made it to Viechester before Salvos.
+
+Unless she had gotten lost, of course. Which was a very likely scenario. But with Edithe and Rachel involved, he was certain she would at least try and take this seriously. She could be extremely competent outside of just fighting if she wanted to— that was what he observed.
+
+Regardless, Daniel didn’t enjoy the trip in the carriage. Sure, it was the fastest way for him to arrive in the city— walking would have taken him far too long— but spending the trip with someone he considered to be… his ex? No, that wasn’t right. Captor was a better term. Suffice to say, it made him a little bit uncomfortable.
+
+Faith’s eyes glossed over the blur of brown and green passing through the window. She had tried instigating conversation with him at the start of the ride, but when he made it clear he wasn’t going to talk to her, she resigned herself to watching the scenery breeze past. That made Daniel feel both better and worse.
+
+He felt better that he didn’t actually have to talk to the princess. But he felt worse because he couldn’t help but feel bad for her— if she wasn’t just acting like she had in the past. Still, no amount of pity would drive him to voluntarily converse with her. So, the two sat in silence until finally the carriage came to a stop.
+
+“We’ve arrived.”
+
+Her soft voice broke Daniel out of his thoughts. He watched the door swing open and the princess gesture at it to him. Eyeing her warily, Daniel wasn’t sure why she was staying seated. Didn’t courtly manners dictate that it was polite to let a lady go first?
+
+He realized a moment later the reason why.
+
+“I’m not staying in this city, Daniel.”
+
+“...I didn’t ask.”
+
+“You looked like you wanted to.”
+
+Faith let out a small laugh, leaning back into her seat as her posture relaxed. Daniel stood up and started out of the coach. She spoke out once more.
+
+“I’ll be returning to my country now. Are you certain there is nothing I can do to bring you back?”
+
+The [Hero] didn’t even pause before replying.
+
+“No. There’s nothing you can do.”
+
+Sighing, Faith cast her gaze back towards the window and ran a hand along its gilded edges.
+
+“I see. Then I wish you all the best with saving your friends.”
+
+That was all she said before the door closed. Daniel waited for a moment for the carriage to leave. He saw Faith disappear into the distance. Her retinue of guards were following her on horseback. Only three of the riders remained.
+
+Jaakko, Helen, and Zack.
+
+“We were only paid to escort her to you and Salvos. Our contract with her is finished. We shall stay in Viechester until we find another job.”
+
+The Cyclops spoke simply, offering the information willingly. Daniel gave him a nod.
+
+“Right, I’ll try and find Salvos. See if she’s done anything reckless in this war.”
+
+“I’m sure she has.”
+
+Snorting, Zack winced as Helen jabbed him in the side.
+
+“Tell us if you find her, alright?”
+
+“I will.”
+
+Daniel parted ways with the three Gold Ranks, walking through the mostly empty city of Viechester. Its streets which had once been so full of life— with dozens of performers drawing in the attention of small crowds, with vendors which sold delicious smelling food, and just with people busying about their day— had become a ghost town.
+
+The city was in lockdown— no, not a mandated lockdown by the city’s mayor. It was an unofficial announcement that citizens should remain indoors for their own safety. A company war was something entirely out of the local government’s hands. The city guards could deal with Gold Rank threats at most. The fact that this company war involved hundreds of Silvers and Golds, dozens of Platinums, and even Diamonds left it entirely out of their hands to intervene, even if they wanted to.
+
+The last time two large companies fought had been between the Forsaken Company and Remembered Order Company. Two of the Three Honorable Companies. Not only did their squabbling over resources greatly weaken their fighting strength just before the most recent Kobold invasion which resulted in what had once been the Grand Eastern Empire’s collapse into the dozens of small kingdoms it was today, but the attempted intervention by the Vaun Qieur Empire to stop the company war resulted in many of their top generals dead.
+
+It was not a fun time, essentially.
+
+Which made Daniel question why the Iron Champions Company pushed so hard for war against the Valiant Dreamers despite all the possible consequences for… everything. There had to be a reason beyond just revenge for all the petty back and forths between the two in the past. Whatever that reason was, however, eluded him entirely. And it seemed that the Iron Champions ploy failed.
+
+Daniel found himself walking through a street littered with corpses. It was nowhere near as bloody as the first battle he had ever found himself in— one which involved thousands of combatants on both sides— but he still found the sight to be gruesome.
+
+Dozens of— maybe even over a hundred— adventurers had been slain just outside of the Valiant Dreamers’ headquarters. The casualties came from both sides; the Iron Champions Company ostensibly taking up a larger share of the dead.
+
+Adventurers Daniel recognized belonging to the Valiant Dreamers were cleaning up the dead. After only a single night, victory had been achieved— the siege was broken.
+
+Hadrian was having a discussion with Baris and a few others right next to the broken gates of the headquarters. They were tabulating the deaths, trying to figure who survived and who did not from the long night.
+
+“...in total, 8 of our Platinums were killed, 37 Golds or almost a dozen teams, and over a hundred Silvers. That’s compared to 6 of their Platinums, 53 of their Golds, and also over a hundred of their Silvers. 84 assassins have been counted among their dead. About two-thirds of the total number we estimated they brought. Most of them were low leveled.”
+
+“So many deaths… and for what?”
+
+The leader of the Valiant Dreamers Company had a grim look on his face. He clenched his fist as his father took over the conversation, almost drawing himself to the side. Daniel saw this opportunity to approach him.
+
+“Hadrian.”
+
+“You—”
+
+The blond man turned and blinked at him.
+
+“Uh… Daniel, right?”
+
+“Yeah. Have you seen my friend— Salvos? Silver hair, wearing a blue jacket? Or maybe Edithe. She was looking for her, I think.”
+
+“Oh, them. They came back not long ago. Went inside. Not sure where they’re at now.”
+
+Daniel nodded and smiled gratefully at him.
+
+“Thanks. And… sorry that all this had to happen.”
+
+The [Hero] truly meant those words, even if he was no longer as disgusted by the sight as he would have been when he first came to this world. The fact that he was desensitized to it was even more infuriating to him than anything else.
+
+But Daniel could only worry now for his friends. He entered the headquarters of the Valiant Dreamers, passing by rows of injured bodies lining up the walls. Stopping only once to see Cless be tended to by a [Healing Mage], he continued up the stairs and into the room Rachel and Edithe were staying in.
+
+Nothing.
+
+No one was there. Daniel wanted to head back outside to search for them, but a sudden sense of extreme weariness drew him to the empty bed. His exhaustion of having to deal with Faith, then see the consequences of the company war drained him of all his energy. And the young man from Earth just slumped over on the mattress.
+
+He rested the back of his hand gently on his forehead, a heavy breath escaping his lips. Thoughts raced through his mind. Concerns which he had never once thought he would ever be worried about. That of war and death. Of heroism and bravery. Of cowardice and survival.
+
+The events of the past few days were heavy. Is Faith actually telling the truth? Will the Valiant Dreamers win the company war? Is everyone in the Elutra Kingdom really going to be used as a sacrifice?
+
+He didn’t want to get involved. He didn’t want to be involved. But he was. And it went beyond just that.
+
+What about that Archdemon in the Motharis? What is he going to do with his army? What kind of calamity will he bring if he does come down from the Dungeon?
+
+Daniel was not like Salvos; he considered such possibilities and felt compelled to at least do something about it. Furthermore, he had not enjoyed the multiple near-death experiences during his time in the Brilsum Ruins. It might have been normal for her considering her upbringing, but such events stressed him out.
+
+He shut his eyes as his head hung off the side of the bed. Words escaped his mouth, voicing his inner thoughts for once.
+
+“I just want to…”
+
+Trailing off, Daniel sighed. A voice instantly snapped his eyes open, and he saw a pair of golden eyes staring at him.
+
+“You just want to…?”
+
+Salvos glanced up at Daniel from the wooden floor. She was lying down with her arms sprawled wide, a look of confusion on her face.
+
+“You didn’t finish your sentence. What do you want to do?”
+
+“Salvos? When did you get in here? What are you… what are you doing?”
+
+Daniel raised an eyebrow as the Demon shot to her feet.
+
+“Nothing! I totally, most definitely wasn’t hiding myself while I tried to take a nap like Humans do! Absolutely not!”
+
+He did not believe her, but he didn’t comment on it. Because something caught his eye. She looked… different.
+
+Then he identified her and realized what had happened.
+
+“You evolved?”
+
+“I did! After I killed Stephen and all those assassins, I reached Level 71, and I got the option to evolve!”
+
+“So, you’re an Archdemon now?”
+
+Slowly shifting to a seated position, Daniel regarded the Demon. She shook her head, thumbing a finger at herself excitedly.
+
+“Nope! Not yet. But I did get a new, improved Species. Check this out— I’m now a Greater Demon of Pride!”
+
+“You are?”
+
+“Yep! I was shocked at first since I was expecting to get something more like Grand Demon or Super Demon! But instead, I just became a different kind of Greater Demon. But then I realized I really liked it a moment after!”
+
+“Wait, do you mean to tell me you didn’t even get a choice?”
+
+“No. Why would I?”
+
+Salvos gave him a puzzled look; he frowned, crossing his arms.
+
+“That’s not right. Are you saying the System— I mean, you just became a Greater Demon of Pride against your will?”
+
+Shrugging, she took a step forward and sat next to him.
+
+“I became a Demon against my will. I was born against my will. You’re a Human against your will. I don’t see why it matters.”
+
+Daniel scootched slightly away from her, but she leaned forward with round eyes.
+
+“So, back to what you were saying… what were you saying again?”
+
+“I was just muttering to myself. It doesn’t really matter.”
+
+He averted his gaze, uneasily scratching his chin. She exclaimed.
+
+“But it does! You made me curious by talking to yourself in English! And now you’re not going to tell me what you meant to say? That’s rude!”
+
+Daniel blinked, seeing the pout on the girl’s face. He sighed.
+
+“That’s not what being rude means at all.”
+
+“Huh.”
+
+“But I guess… I guess I could tell you.”
+
+Daniel wasn’t sure of what he was saying. But Salvos was not just one of the only people he could speak to about this, knowing that he was from Earth and all. However, she also wouldn’t fully grasp his situation. So, it lessened the awkwardness of it all.
+
+“I was just feeling… unhappy.”
+
+He admitted, glancing up at the ceiling.
+
+“Unhappy? About what?”
+
+Salvos gave him a curious look.
+
+“The stress. The pressure. The expectations. Knowing that people’s lives are on the line. That I, as a [Hero], can do something to save them. But I don’t. But I can’t. But I fail to.”
+
+His response did not exactly elucidate anything for her, but before she could open her mouth and interrupt him with questions again, he continued. Words flowed out of his mouth like water from a river.
+
+“I had wanted it once. This kind of a life. Being a hero and saving people. I dreamed of such a thing when I was at my lowest. When I felt like my life had no meaning.”
+
+Salvos cocked her head, her flowing silver hair swaying to the side. The dam that had clogged up the rushing waters had been broken— now it was free to run free.
+
+“It was just a silly wish. A desire to escape from reality. I was in college— not a good college— and my life was going terrible. My grades were bad. I was depressed. All I ever did was spend my time playing video games in my room. But I wasn’t always like that. I had been happy once. I had a girlfriend once, you know? Me.”
+
+He spilled everything he had been bottling up ever since he came to the Nexeus. The frustrations he felt. The regrets he had from Earth.
+
+“You did?”
+
+The question was innocent, but it still stung him a little bit.
+
+“I mean, it wasn’t anything serious. She said it herself that it wasn’t serious when we first started dating. And most high school romances do end in break up. But I loved her. She was the only person I truly loved.”
+
+“What was her name?”
+
+“Her name was Emily. And she died in an accident towards the end of our senior year just before starting college. That was when I began to lose everything. Lose control of my life. Only now… I realize I have so many things back on Earth that I loved. That this world? Being a [Hero]? It’s not for me.”
+
+Daniel turned to Salvos, not realizing when he had started crying. The tears fell freely down his face, blurring his vision of the girl.
+
+“I thought I had everything I had ever wanted when I came here. But now I realize I have nothing. That Faith never loved me. That my Class? Being a [Hero]? It does nothing if I’m not actually suited to be a hero. I just want to… I just want to…”
+
+He choked back on his regrets. His desires. Facing the floor, then his palms, he spoke his one wish.
+
+“I just want to go home.”
+
+And then there was silence; his thoughts finally realized. All that could be heard was his own muffled crying. He didn’t know how much time passed. Just that he sat there, head buried in his hands, overcome by sadness.
+
+Then the silence ended. Salvos spoke out, drawing his eyes towards her.
+
+“Then let’s make a contract.”
+
+The words were simple. Straight to the point. Just as she always was. Except, there was something about her voice— no, something about her form that was different.
+
+Instead of finding himself face to face with the beautiful woman from before. The enchanting young maiden with piercing golden eyes and flowing silver hair tied into a ponytail. He instead found himself facing a face like a dog’s skull. A creature with four clawed hands. Flesh like bone. Dozens of piranha-like teeth bared to him.
+
+Daniel would have flinched a few months ago. But he was used to this now. He only spared a glance over at the extra set of arms and the bulkier form.
+
+“...what did you say, Salvos?”
+
+“I said, let’s make a contract.”
+
+The raspy voice of the Demon came out with alacrity, showing not a hint of the terrifying creature she appeared to be. But Daniel knew that could change easily.
+
+The two gleaming dots looking down at him curved up, showing a smile that Daniel otherwise would not have picked up.
+
+“You’ve helped me out a lot, Daniel. In fact, you’ve already done exactly what you said you would do! I now know the way back to the Netherworld, and it’s thanks to your help. So, I’m going to get a Class, become a [Space Mage], find Haec, then—”
+
+Salvos rested a hand on the mattress as it pressed down under the weight. She stopped just inches away from Daniel’s face, finishing with a grin.
+
+“Then I’ll help you find your way back!”
+
+Daniel slowly took this in, not really comprehending her logic. He rarely did.
+
+“But, Salvos, we can’t form a contract.”
+
+“Why not? Demons do it all the time!”
+
+“You don’t have a summoning collar! Or whatever Spirits use to bind them to a master! Without them it won’t be a contract, it’s just… words?”
+
+Daniel lost himself in his speech. Salvos seemed to see the flaw in what he was saying too.
+
+“Everything I’ve seen about Humans revolves around words. You say this gold coin is worth the same as that dagger, and I buy it. I say I’ll give you this pendant if you save my daughter, and you save my daughter. Why do these words matter? Anyone can just lie.”
+
+“Because if you lie, others will stop trusting you. Your words will lose meaning. And if you lie enough times, there may be consequences for it.”
+
+Salvos nodded.
+
+“Exactly.”
+
+She waved a clawed finger as she spoke casually.
+
+“If I didn’t keep my word, you wouldn’t trust me. And if you stop trusting me, I lose a companion. Why would I want to do that?”
+
+Standing up, she loomed over Daniel and walked in front of him. Light seeping in through the cracks at the window shone behind her as she slowly changed back to a Human. Now, an angel stood before him. One that offered him a deal like the devil.
+
+“I, Salvos, Demon of the Netherworld, wish to make a contract with you, Daniel, [Hero] from Earth. That as long as either of us lives, I shall find a way to bring you back to your world. To your home. And for that, you only have a single price to pay.”
+
+Daniel hesitated, biting his lower lip to keep himself from giving an immediate answer.
+
+“And what is this price, Salvos?”
+
+“It’s simple: even when you go back to Earth, you will never forget me. Salvos. Your companion. And you will carry my name with you until you die.”
+
+She smiled and put a hand out.
+
+“What do you say?”
+
+The answer was obvious.
+
+End of Volume 2
+
+Author's Note:
+
+It is, honestly, demotivating to see my rankings tank constantly from people who are upset that Salvos spends too much time grinding, and from others who are upset that Salvos spends too little time grinding. A lot of my 'good reviews' are getting downvoted like mad, while the 'bad reviews' are getting voted up to the top. And if they were actually substantive and constructive bad reviews getting voted, I'd understand. But some of them are just... what? Especially the one complaining about Daniel's screen time... literally, Daniel had less POV time than Edithe, and the entirety of Volume 2 was always related to what Salvos, her goals, and her desires.
+
+Anyway, my mental health is down the gutter at this point, so if you're an asshole who can only leave negative comments, I don't care but you're getting blocked. I had to put up with this bullshit for Melas, and I will not put up with it any longer.
+
+Of course, I am aware that these assholes are the vast minority of my readers. So, to everyone else— to all the normal people out there— thank you once again for reading. Your support is the only reason why I haven't just pulled this story for KU where I'll at least get paid by people who will spew shit my way. Thank you <3
+
+Also, typical plug for patreon, but fun fact, I have the 10% discount for those subscribing for a year open until the end of April. Consider checking my patreon out. I offer 20 chapters ahead for only $5, despite the fact that it would honestly be a lot more financially better for me if I had my patreon rewards mainly centered around the $10 tier. I did the change because I understand a lot of people are struggling financially, especially with today's climate, so I would rather not charge more than absolutely necessary for what I can offer.
+
+Anyway, check out my patreon here, it offers 10 chapters ahead for my $3 tier, 20 for my $5 tier, side story content for my $10 tier, the chance to contribute to the story for my $15 tier, and the chance to have a character in the story for my $50 tier. There's a $69 meme tier which has the same rewards as the $50 tier, but it lets you keep a discord role color of your choice permanently, even if you subscribe once.
+
+Also, join my discord and be greeted by my greeter bots!
+
+Volume 3 will be more focused on the monster evolution aspect of the story. Not because of the constant complaints, but because I had it planned since the very beginning. Thanks for reading!
+
+Consider voting for me on TopWebFiction Salvos | Top Web Fiction

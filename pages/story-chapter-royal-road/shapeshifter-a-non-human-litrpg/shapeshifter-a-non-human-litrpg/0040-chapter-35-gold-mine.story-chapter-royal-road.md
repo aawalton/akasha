@@ -1,0 +1,181 @@
+---
+id: d36246d5-da07-5e98-a777-5f2294ae0d75
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: Gold Mine"
+slug: 0040-chapter-35-gold-mine
+partOf: shapeshifter-a-non-human-litrpg
+position: 40
+ownLength: 1909
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3779331/chapter-35-gold-mine"
+royalRoadId: "3779331"
+---
+
+Iris and her party had caught a lucky break. They had run into a party from the Guild Association, who had been willing to team up with her to escape the dungeon. They even had a competent-looking tank that could replace the dead Marcus.
+
+After a round of introductions, Iris found out they even knew where the boss monster was, apparently having fled from it while it was spawning. After describing it, Iris wasn't sure their current group would be enough and was hoping to run into a third group on the way.
+
+"Captain," Dorian said in a low voice after coming to walk beside her.
+
+"What is it?"
+
+"They also ran into Ghostwire."
+
+Iris came to an abrupt stop. "What?"
+
+Dorian just nodded.
+
+Iris spun around and marched over to Alex. "Hey," she called out, surprising the tank. "You saw Ghostwire? Why didn't you say anything?"
+
+"Whoa," Alex said, raising his hands in mock surrender. "Dorian was asking if we had encountered anyone else, and I just mentioned seeing a man wearing a suit and a mask. They were heading in the direction we are going."
+
+That matched with what Iris knew. She clicked her tongue. "If we encounter him again, I want you to help me capture him. Though we won't be sharing the bounty."
+
+Marcus's death was a massive blow, but it would be one less person to share Ghostwire's hefty bounty with. Iris was ready for Alex to push back on her demand, but instead, he just shrugged.
+
+"The bounty is all yours. We just want to escape from here."
+
+Iris smirked. "Good. We should keep moving."
+
+Alex nodded and continued leading the way. While it made sense to lead as he was the group's only tank, Iris had a separate reason. If another powerful Resin Reaver like the one that had killed Marcus was lurking overhead, she wanted Alex to be the one to get jumped. Marcus had managed to survive for a few seconds, and this time, she would be ready to act.
+
+Vera was also on edge, with one hand resting on the mana crystal embedded in the side of her sleek black armor. Faint violet mana crackled between her fingers, and the haze of a coming storm followed her. At the cost of draining her mana crystals, she was maintaining a storm to be ready at the drop of a hat.
+
+The group continued trudging across the black, porous rock, with Alex at the lead and Kenji at the back. Dorian and Hina fulfilled their roles as scouts, checking for any monsters. Iris disliked how encircled she felt, but these four were from the Guild Association, who were known for being rule-abiding.
+
+It also helped that her group was higher-level on average and was further enhanced by their Ether Suits. If it came down to trading blows, she was certain to come out on top despite being at a number disadvantage. Dorian alone could butcher Hina and Daisuke, while Vera could obliterate Kenji. Only Alex would be a little more difficult to deal with.
+
+She still didn't fully trust them, but she certainly felt safer walking through the dungeon now with an encirclement around her, taking up the more risky positions in the formations.
+
+After walking in tense silence for a while longer, a sudden crack rippled through the air, and Iris felt a tremor through her feet. Everyone came to an automatic stop.
+
+"What was that?" Vera demanded, her hand already raised with power crackling between her fingers.
+
+"It came from directly in front of us," Dorian called out from the vanguard, gesturing in the vague direction they had been heading in.
+
+Iris dropped to the ground and used her Verdant Anchor skill to fuse with the ground. Her perception rippled out through the porous rock, but didn't get far as it met an abyssal mass lurking beneath the surface.
+
+She glanced in the direction. "There's an abyssal mass before us."
+
+"How big is it?" Vera asked.
+
+"Immense," Iris replied, frowning. "I don't know if we can go around it. It spreads in every direction beyond my perception range."
+
+"What was that rumbling from though?" Hina asked.
+
+Iris freed herself from the ground and shook off the abyssal resin burning her skin. This area was totally corrupted and likely monster-infested.
+
+"What are you asking us for?" Vera snapped at Hina. "As the scout, shouldn't you go and find out?"
+
+Hina glared at Vera in disbelief. "Who the fuck do you think you are?" She twirled her daggers and strode over.
+
+Vera didn't hesitate and pointed her crackling finger at Hina.
+
+"Take one more step—"
+
+"Or what?" Hina said, tilting her head. "If you kill me, you will have to go scout yourself."
+
+Iris gently pulled Vera's arm down. "I know you're upset about Marcus dying, but we need them," she hissed under her breath. "At least for now."
+
+Vera gave her a side eye before relenting.
+
+"Fine," she pulled her hand away and walked off.
+
+Hina watched her go, her expression venomous. Iris ignored the angered Nightstalker, they had bigger problems to worry about. The abyssal mass greatly impacted her abilities, and she couldn't see a way around it that wouldn't add days to their travel time.
+
+As if sensing her concerns, Alex offered some useful information.
+
+"We passed through here already to escape the Guardian," he explained to the group. "We didn't encounter any monsters on the way. Perhaps the abyssal mass you detected is the reason?"
+
+Iris found that hard to believe. "You encountered zero monsters? Really?"
+
+Alex firmly nodded. "While I can't promise that none have wandered onto the path I'm leading you down, there shouldn't be a problem continuing forward." He pointed to the ceiling. "I remember passing under that exact cluster of amber crystals. If we take another route, I'll be the blind leading the blind, and we may end up walking in circles around the Guardian."
+
+Iris frowned. He had a point.
+
+Monsters or not, their primary objective was to locate and kill the Guardian as quickly as possible to leave this place. Without Marcus, their plan to collect abyssal cores had been forgotten about.
+
+Actually, if we encounter monsters, I could have them kill them for me, and then I'll take the cores. I doubt those from the Guild Association have any idea just how valuable they are.
+
+A smile tugged at the edge of her lips.
+
+"You have a point, Alex," she said, gesturing forward. "Please, continue leading the way."
+
+Vera shot her a glance, but she dismissed it with a subtle nod.
+
+Alex seemed hesitant, but eventually continued the march forward. Though he had his shield raised higher than before and was clearly more on guard. Iris took that as a good thing. Their tank was taking his job more seriously.
+
+"So much abyssal mana tainting the air," Daisuke murmured at her side. "Our magic will be greatly weakened."
+
+"And the monsters will be far stronger," Vera added.
+
+Iris ignored them. While the abyssal mass made her blind to the ground, her elven ears were twice as sensitive as humans. She was straining them to their max, trying to hear if any monsters were approaching.
+
+Abyssal Slimes are mostly silent, but the Cinderspawns and Ashrocks are quite loud. I should notice if one approaches us.
+
+They continued onward until they reached the cluster of amber crystals Alex had pointed out. He slowed and then came to a stop atop a ridge.
+
+"What's the holdup, Alex?" Iris asked, keeping her distance.
+
+"I don't remember this being here," Alex admitted, looking over something.
+
+"What is it?" Iris asked, staying where she was.
+
+"There are hundreds of Cinderspawn corpses here and a few larger ones that seem tainted by the abyss."
+
+Iris exchanged a knowing glance with Dorian and Vera. They had to get those abyssal cores.
+
+"I'll go and check it out," Dorian said, unsheathing his blades and trekking up the ridge to stand beside Alex. He surveyed whatever lay beyond the ridge and glanced back at Iris with a glint in his eye.
+
+Whatever he had seen, it must have been good.
+
+Iris gave him an approving nod, and Dorian vanished over the edge of the ridge. Curious, she followed up the ridge and paused at Alex's side. True to Alex's words, there was a wound in the ground tainted with the abyss, and all around its entrance were Cinderspawn corpses and far larger ones.
+
+Vera arrived at her side a moment later. Her appraisal artifact was already glowing as she scanned the gold mine before them.
+
+"Well?"
+
+"They are Cinderspawn corpses around level 50. The larger ones are called Abyssalspawns and are in the 60 to 70 level range," she reported.
+
+"Who could have killed so many?" Alex muttered.
+
+"Maybe the Stormbringers sent down one of their famed strike teams," Vera suggested, but everyone present knew that even for them, taking out a nest of abyssal empowered Cinderspawns was a step too far.
+
+Iris let out a slow breath. "It might have been whatever caused that tremor earlier. We should stay vigilant."
+
+Alex and Vera nodded in agreement.
+
+Despite the abyssal interference, Iris got down on one knee. Using Verdant Anchor, she threaded her fingers into the ground in hopes of understanding the abyssal wound before them.
+
+What she found was strange. Something was moving through the earth right below them. She tracked it, and her eyes widened as she realized the target.
+
+"Dorian!" Iris yelled. "There's something below you—"
+
+She was too late.
+
+Iris's attention snapped toward Dorian, just in time to see a bloodstained short sword erupt through the back of his skull. His blades slipped from his fingers and rang against the rock. A heartbeat later, his body followed, toppling backward with a thud.
+
+The killer stepped out of the floor. It was a man, tall and lean, wearing a perfectly tailored suit, crisp without a single crease. His white mask was streaked with Dorian's blood.
+
+Iris knew this man.
+
+"Ghostwire," she snarled.
+
+He didn't so much as glance at her. He set a foot on Dorian's shoulder, reached down and wrenched his blade free of the skull. He slowly straightened, and gave it an idle flick, sending a splash of blood across the rock.
+
+Vera didn't wait for answers. With her storm already primed and ready, she unleashed a volley of lightning at Ghostwire. He blurred sideways. The bolt passed clean through the afterimage he left behind and slammed into the rock, throwing up a spray of shattered stone.
+
+"Vera, watch out—!" Iris called out, but it was too late.
+
+Vera hurled up blood and staggered forward. A dagger's bloody point jutted from her throat. Behind her stood a grinning Hina. Iris hadn't felt the Nightstalkers presence.
+
+"Get away from her!" Iris hissed. "Lend Weig—"
+
+Iris froze mid spell cast as she felt a dagger press against her own throat. Slowly looking up, she saw Ghostwire's bloodstained mask looking down at her. Nobody moved to stop him.
+
+Hina came into view with a smirk. "You really think anyone would willingly team up with the Ether Technocrats?" She snorted. "What a bunch of idiots."
+
+"You were all working with him?" Iris hissed through clenched teeth, just as Vera's body hit the rock beside her with a heavy thud.
+
+"Eyes on me." Ghostwire pressed the blade deeper, drawing a thin line of blood. "I have some questions for you."

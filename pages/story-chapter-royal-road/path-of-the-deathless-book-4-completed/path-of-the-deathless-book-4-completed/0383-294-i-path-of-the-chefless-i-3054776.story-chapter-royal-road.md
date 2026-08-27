@@ -1,0 +1,159 @@
+---
+id: 5728c25e-03d9-5e00-9b7e-2ba8c5b4d6fc
+page-type-slug: story-chapter-royal-road
+title: "294 (I) Path of the Chefless [I]"
+slug: 0383-294-i-path-of-the-chefless-i-3054776
+partOf: path-of-the-deathless-book-4-completed
+position: 383
+ownLength: 4209
+unit: words
+publishedAt: 2026-02-14
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3054776/294-i-path-of-the-chefless-i"
+royalRoadId: "3054776"
+---
+
+I originally wanted to start this thing by stating this was for Georges, but he would hate that goofy, sentimental shit. Also, it’s not for him. He’s gone. This is for me. I want to do this. Partially because he put that desire in me to start with. So. Here’s my second attempt. Kind of got interrupted with the first. Lots of things have happened since then, so… Yeah
+
+There are lots of reasons why I want to write a cookbook: vanity, artistry, improving my writing skills, and recording things I learned about the world.
+
+Actually, that last part's really my primary motivation. I love giant monsters. I love fighting them. I love wrestling them into submission. I love examining their bodies, how their biology works, how bits of their meat taste. I love it all. And I think it's really worthwhile if more people could learn about the creatures that roam the world alongside us so that they can better protect themselves—and so they can know which ones taste the best.
+
+Life's a pretty incredible thing. You know how similar we are to a lot of these creatures? If you break a body down into all those little cells that compose a human or an elf or a goblin, you can use that and you can grow a monster or some other beast out of it. Even other organic races. In some cases, it's pretty easy. The separation really isn't that far.
+
+But on top of that, I'm also doing this so I can document my own improvement as a chef. I have been focusing too much on something that is secondary. Power is meant to let you live. And this right here? This is me choosing to live. This is me using all that strength, that vitality, all the gifts of my Path, to enjoy a life worth living. I want to make something beautiful. I want to cook things people can savor. I want to make the world better. I want to build. I'm done taking.
+
+So, this is me learning to give.
+
+-Exotic Beasts and How to Cook Them by Shiv the Deathless of Blackedge
+
+294 (I)
+
+Path of the Chefless [I]
+
+Vitae golems were a nifty thing to have when one was focused on excavating and rebuilding.
+
+The moment Shiv and his companions returned from their excursion to the pre-apocalyptic ruins to Gate Piety, they dispersed toward their separate tasks.
+
+Uva automatically slotted herself as a logistical and communications nexus. An expansive web of Psychomancy strands spread through the Gate, connecting critical personnel to each other and coordinating efforts to receive the new influx of refugees.
+
+As much as Shiv had wanted her to rest after her ordeal in the Stranger’s realm, she'd simply refused. She wanted to make herself useful and wouldn't settle for anything less. Adam was the same way. The Gate Lord proceeded to assist in the extraction and rehousing of the people of Blackedge. Once more, he took charge of the Gate, and everything slid into place, easy as could be.
+
+It was like they'd never left at all.
+
+Yearning to help in his own way, Shiv decided to help with some of the excavation process, digging up a new city grid where the Blackedge refugees would soon stay. He worked with a few Arachnae Order Geomancers, assisting them with his absurd Physicality.
+
+Once more, Shiv found his choice of Legendary skill to be a wise one. Leviathan of the Shapeless Tides didn't just grant him a replenishable supply of prodigious strength; it also provided him with unparalleled control. He could direct his tides into anything he touched, and they allowed him to easily carry massive metal containers filled with building materials without worrying about them tipping over. If he was merely mighty, it wouldn't have been possible to perform such a feat. He would have punched through the outside of the container and utterly shredded the contents within. Such was the limitation of physics and pressure—one overcome through tactile telekinesis.
+
+Yet it was when he was carrying his ten-ton cargo that Shiv realized he was still being inefficient. Jessica had told him to think in twos: multiple skills working in tandem, multiple things he could do at once. He'd been overly enamored with his own strength that he failed to consider how to apply his other skills synergistically. Chief among them was his Golemancy skill. It was a skill he'd left neglected for far too long. It offered so many different combinations, so much potential. But Shiv had been locked in one battle after another, and he never truly had time to sit down and create a small army of golems to do his bidding.
+
+Not until their raid on the outside.
+
+Even there, the use of his golems had been suboptimal. His overall plan was to simply throw them at an adversary—overwhelm the Stranger’s offspring with sheer power of numbers and Andra's Cryomancy skill. The golems had proven invaluable in stalling the tide of Fingerlings and also incapacitating the Hatchling that had been trying to take over Uva, but utterly useless when faced with the strongest of the Stranger’s Fingerlings. In retrospect, throwing all of his golems at a foe of that magnitude was a pointless waste. He could have sent one or two to see how they'd fare, and then decided if unleashing every last golem he had under his control was a viable strategy.
+
+Already, Jessica's advice to reflect after every battle was proving wise. But Shiv realized he needed to do more than that. Looking back was one thing, but he also needed to anticipate problems and think ahead.
+
+And it was with that realization that Shiv understood he was more than a mule. Instead of transporting things alone, he focused on creating golems and soon forged a small force of helpers that possessed his Leviathan of the Shapeless Tides. Typically in combat, Shiv would need to implant several High-Tier skills in his golems to make sure that they were survivable, that they were fast, that they were strong enough to do harm. And on top of that, they always needed his Vitality Drain to possess any staying power as well.
+
+But that wasn't necessary when they were being used as logistical support. In the time it took Shiv to make a standard combat golem, he made three logistical golems possessed of only his physicality skill. They wouldn't last nearly as long without his Vitality Drain, but that downside was balanced by the fact they didn't drain so much vitality either. The more skills he infused into a golem, the more vitality it took out of him, and the more it sapped at the golem's own being as well. At the same time, the golems had simple tasks awaiting them. He simply needed them to move containers from one point to another, and directed his orders across with a few telepathic commands.
+
+He also used this opportunity to train some of his other skills. Despite only being an Adept-Tier skill, Bifurcated Processing had changed a great many things for Shiv. Without it, he was far weaker; he only had so much cognitive capacity, after all. In the past, he couldn't focus on increasing his Pillar of Orichalcum to endure his Inertial Overdrive and endure the strain inflicted by his Shapeless Tides all at once. His body was an unsteady pyramid balanced by three competing skills. But despite how fantastic Bifurcated Processing was, his subconscious could only sustain so much complexity before something in his brain just burst. Shiv discovered that earlier, when he tried to create a golem using his Bifurcated Processing to help save Uva.
+
+As Shiv re-attempted the process to speed up the creation of his logistical golems, he learned the cost of duration and complexity. The longer it took to complete an action, the faster his subconscious would accumulate strain. But time under strain was the lesser evil Shiv had to face, for complexity increased the cost of his cognitive processes by a magnitude or more. To put it simply, the more meticulous a task was, the more steps it took to complete said task, the more Shiv would have to pay in terms of mental energy and eventually damage.
+
+Creating a golem was a focus-intensive task; however, reaching into a single skill within his soul and implanting that in a golem was relatively simple. As such, though using his Bifurcated Processing to create a logistical golem left him with a stress headache, it didn't get anywhere near a fatal aneurysm. From this, Shiv understood that it was better to break things down for his subconscious for maximum optimization. Perhaps his biggest mistake before wasn't telling his consciousness to make a combat golem, but rather not separating his subconsciousness into separate and simple tasks that eventually came together to complete the creation of said golem.
+
+Shiv tested this by splitting his Bifurcated Processing. Instead of telling the skill to create a logistical golem, he had one cognitive tendril assigned to extract his Leviathan of the Shapeless Tide skill, and another to shape the body of a golem. He found his attempt at greater efficiency rewarded immediately and immensely. The cognitive load placed on both tendrils was dramatically less than what he'd experienced moments before. The golem was assembled in half the time as well. Shiv replicated this achievement several more times and found an astonished smile growing on his face. Faster and simpler were the keys. The cost of creating more processes was nothing in comparison to forcing a single mental tendril to bear everything on its own.
+
+From that, Shiv gained a general insight that could be applied to all his skills: break things down to their finest components; learn how the smallest and most fundamental mechanisms interacted with each other. Complexity was nothing more than the alloy of simplicity, after all.
+
+Bifurcated Processing 78 > 82
+
+Golemancy 41 > 45
+
+In the end, Shiv found himself working in tandem with 33 different golems. Each one lasted approximately twenty minutes before its vitality was completely expended. Ultimately, it only took 12 minutes to fully transport the resources needed for the construction efforts. After that, the Geomancers began applying their trade, shaping the vagueness of a district's grid into existence.
+
+The earth separated as magical shapes burned themselves into the ground. Shiv looked on from above as the Geomancers shaped alloy and concrete together, sculpting buildings into shape. They rose from the ground and molded themselves into the likeness of a large bunker. Globules of liquefied matter flowed away and created other structures that were connected to the main one by hallways and bridges. Shiv absorbed doses of vitality from his Enchained Heart of Life-Giving, the item he'd been “given” by Toasty, to replace that which he'd spent while taking in the afterglow of his labor.
+
+Soon, the bunker would be filled with the remnants of Blackedge. They would have a place to live again, a chance to rebuild. But things would never be the same. Shiv knew that. The survivors would face trauma and devastation, and some of the things they lost would never be regained.
+
+Such was the cruelty of the System; such was what it meant to be a Pathbearer sometimes.
+
+The bitter taste of tragedy was a good accompaniment to the flavors of success. It deepened his understanding of one of his most potent skills, while also ruminating about how much had been taken from him and his people. Misery and triumph balanced each other out, the blended emotions that came thereafter granting perspective.
+
+A Glimpse of Perspective: And just like what you have seen within your Bifurcated Processing skill, the totality of things is not a singular emotion. It is not the loss of losing someone. It is not the glory of growing stronger, of becoming better. It is both these things. It is everything. It is a contrast, a conflict, and a confluence of so many things. Of so many different minor but ultimately synergistic details.
+
+And before Shiv's eyes, something manifested, a vision of a woven nest, with more and more fibres layered over each other. Yet the fibres were not of matter but liquid. They bled into each other as well, sometimes creating new intersections, oftentimes consuming one another, transforming and even dissolving.
+
+A Glimpse of Perspective 68 > 73
+
+So entranced was he by the vision that he didn't notice the looming shadow growing closer behind. Not until it was but a few meters away; by then, its overwhelming aura and the glow of dim incandescence made Shiv turn and raise a hand in greeting. "Oh, hey, Cripple. How would you say your talk with the Starhawk went?"
+
+The one-armed presence of Cripple manifested itself as a halo shining out from Radio. The smaller automaton hovered like an unbeating heart at the Ascendant's core. Surrounding it was nearly twenty meters of incandescent mana, painted in the vagueness of the machine pseudogod. Though Shiv wasn't quite as good at reading an automaton's emotions compared to a person's, he could still tell there was something wrong by Cripple's body language alone.
+
+"I think I've made a mistake coming here with you," Cripple said quietly. "I think I am a fool."
+
+Shiv just grunted, nodding along.
+
+A few seconds passed. Shiv could feel Cripple staring at him. "Have you nothing to say?"
+
+"Not really," he replied. "Sorry your talk with your old buddy didn't go so well. But I don't know what I can do to fix things between you. Honestly, I think you guys might be kinda screwed. But also, I don't really give a shit about the Great One anymore."
+
+"You… ‘don’t give a shit’?" Cripple sounded incredulous and confused, as if it couldn't parse Shiv's words.
+
+"Nope. Don't really care at all. As for you guys… I don't know, if you're committed to being Ascendants, I don't see this ending well for you. I mean, it didn’t end that well for the Great One, right?"
+
+Another few seconds passed. Slowly, Cripple's body began to shiver as if it couldn't decide if it wanted to rage or press Shiv on his response. "Are you deliberately trying to mock me?"
+
+"No, just telling you how I feel. Something broke the Great One. You want to know what that tells me? It tells me that you're seeking a power that's not going to free you. You're seeking a power that, at most, will turn you into something that will inevitably get cut down some day too, and instead of dying for good, you'll get to experience lying dead, dreaming while parasites steal your skills so that they can pretend to be gods as well. Eventually, they'll fight each other over your power because they disagree on the shape of the future. So it's going to be war, which makes the System happy. After that, someone will win, but that just means they get to fight someone else instead. No reward, no ending, no victory. Just war, war, war, war, death, death, death. Seems pointless, so I don't really care anymore. I’m done with that shit. The System can have someone else play along.”
+
+Another awkward beat followed, and Shiv sighed. "Look, Cripple, if you want me to be entirely honest, I do feel bad for you. I feel bad for what you are, for what you've become, for what you had to put up with. But frankly, you're trapped. You're stuck in your story. Now, I don't know what the Starhawk plans to do with all those Phylacteries he's been collecting, but I'm going to tell you what I think is going to happen. Firstly, I believe that he does mean well. But well-meaning doesn't matter. I think he's going to use that power and try to fix the Republic, but the Republic will break some more, because things are complicated and the System wants people to fight each other. The fact you managed to build a nation and hold that all together, despite how much I don't like the Ascendancy, is pretty felling impressive. But even that's mainly because of Veronica by this point—not any of you Ascendants. You guys are shadows, getting more shadow-like with every passing day, and when you're not shadows, you're like mana bombs on the verge of going off."
+
+Cripple drew closer, pointing a massive finger against Shiv's body. It was practically large enough to cover the Deathless's entire torso. "You do not get to say these things to me," Cripple spat. "You have no idea the sacrifices we've all made to see the creation of our Republic. You have no idea—"
+
+"I'm tired of this conversation," Shiv replied. And then he spun on his heel and walked away. Cripple flinched briefly, too stunned to respond, before a sputter of outrage followed.
+
+"Deathless! Deathless! Do not turn from me. I am speaking to you!"
+
+"No, you're speaking at me," Shiv muttered. "This conversation's going nowhere, just like your talk with the Starhawk. Look, I'm sorry you're the way you are. I'm sorry you're trapped, and I'll try to free you whenever I can. But if you guys are going to try to do something stupid with the Great One, then my answer is I don't care. And if you go down into that pit, I'm going to try to stop you. No one should do anything with the Great One. That's my opinion now. Because inevitably and eventually, with how fast I'm growing, the Great One isn't going to be anyone's salvation. The Great One is just going to be another battle royale. Something the System's going to throw at me. If you want some advice, maybe go speak with Adam. He probably still cares. Though he's going to be more aligned with his father and the Starhawk than you anyway…"
+
+There came a sound of grinding metal, of mechanical combustion, of alloyed rage. A massive, slab-like hand closed itself around Shiv from behind, and he let out a brief gasp of discomfort before he rolled his eyes. "Look, there are other things I want to do around the Gate, other places I want to clean up, more golems I want to make, so—"
+
+"Take this seriously!" Cripple roared. The air shook, and a small earthquake rattled the gate. “Do you have any idea what is at risk? How much ruin we face? The fates of how many this concerns?”
+
+"If you want my advice, you need to consider cutting yourself off from the Great One entirely. I can't decide for you. You're suffering from being unable to choose which side you want to be on. Well, I'm going to tell you right now, I don't think there's any good side when it comes to the Great One. I don't think there's any good side if you play along with the System. But you want to know your real problem, Cripple? You're desperate for someone to give you direction. You're desperate to take orders because that's simple.”
+
+Shiv twisted his head and met Cripple’s radiant, cyclopean eye. “But you're not a slave anymore, Cripple. Doesn't matter how you feel, stolen or not, your powers make you a god, and you can use that. You can still choose to decide your future and even save yourself. But you don't even really want to do that, do you? You're not afraid of dying, you're afraid of feeling bad, afraid of being ashamed. You're afraid of betraying all your companions, who are so deeply degenerated by the Great One’s dreams they're barely even parodies of who they were. And you're both worried that whatever the Starhawk is planning to do might see the Republic ruined and that he's still right despite it. Shitty choices all around."
+
+The Deathless shook his head and chuckled. He felt Cripple's grip loosen slightly, and so he pushed himself out, rising into the air so that he could greet the automaton god at eye level. "You're not a slave. You're not even a coward, I think. On some level, you do want to make things right. You're just hurt. You want someone else to justify what you want to do or to give you a direction. That shows me you want a way out.” Shiv sighed. “You want to hear something messed up? Despite how much I don't respect you, you're still my favorite among the Ascendants. I can't respect this, but at least I understand you.”
+
+Cripple was utterly silent, and Shiv kept pushing. “You want my honest advice? Stop thinking about yourself as a slave and start being a Pathbearer again. You were a Pathbearer, even when you were in chains. That's why you fought. That's why you survived. Now, you be that survivor again. You carve your own path. The other Ascendants, they want what they want. They believe what they believe. What do you want to do? What kind of Republic do you want to see? What kind of future do you want to have? If it puts us at odds, then so be it. But I'm gonna be honest, Cripple. If I have to fight you because you decided to just go along with someone else, that's pathetic.”
+
+Gesturing out at the Gate, Shiv turned away from the Ascendant. "I'll tell you what I'm about to do, though. I'm going to help build stuff here. I'm going to help provide some medical aid to whoever needs it. And then I'm going to cross over into the Tutorial and install a kitchen inside a Court Leviathan. After that, I'm going to consider making a restaurant. I'll probably start a brawl with my orcs at some point and pull vitality out of them. They'll kill me eventually, I'll come back to life, and we'll do this for several hours, until I'm satisfied and until their itch is partially scratched. When that's done, well, I'll think of next steps after that. Probably going to take a trip over into the Fairwoods to see if I can get my Curse removed. After that, maybe I'll head north and handle the Tarrasque situation. And before you ask, no, I don't give a shit about the war or the Frost Giants either. I'm going there to sell them my food, and if they try to do something, I'll deal with it. As for said Tarrasque, I'm going to beat it into submission, and I'm going to hide it away from the rest of the world, and no one is going to get that World Quest reward. And by the way, don't think I've forgotten about Amira. I'll free her for you when I get the chance. But until then, what are you planning, Cripple? You gonna be your own person for once, or you gonna be everyone else’s sideshow for the rest of time?"
+
+The Ascendant’s projection trembled. And then something else happened. A change occurred across its body, a transmutation of incandescent mana. For a second, Shiv thought an attack was coming, but then he realized that the outer portions of Cripple's arm were turning to glass. With that, Shiv's Sticks and Stones was flooded with a deluge of levels.
+
+Sticks and Stones 68 > 77
+
+Sage of the Enkindled Heart 138 > 145
+
+"I-I… need…" Cripple didn't even finish stammering before it retreated from reality. Its incandescence vanished in an instant, and Radio was cast down from the sky, bereft of any ability to fly on its own.
+
+"What? Ah! All my Ascendants, no!" The small automaton wailed and flailed as it fell, but Shiv caught it before it could turn into scrap against the ground. "Oh, thank you, bossman, thank you! Wait, where did Cripple go?"
+
+Shiv just shrugged. "I decided to have a conversation with it. I got a little too honest, and then Cripple left. Think you're on your own for a while. Not even sure if it's coming back."
+
+Radio's screen-shaped head flickered with static, and it seemed at a loss as to what to do.
+
+"So, what now? I can’t believe you depressed an Ascendant into leaving… Broken Moon, Deathless. You got your grandmother’s lips on you.”
+
+“I’m going to ignore that,” Shiv said. He snorted. “Anyway. Cripple’s gone for now, and there’s not really a point to hiding you anymore. Udraal and Veronica can fight or fuck each other to death for all I give a shit. What do you want to do? Actually, what are you good at doing? Because there's plenty of things that you can help out with all across the Gate."
+
+"Well, uh…" Radio coughed. "I'm not bad at accounting. I can help keep track of spending, resources, or—"
+
+"Sure, great. I'll bring you over to Adam. Drop you off with him, and then he can show you what you need to do. In the meantime, I'm gonna go say hi to some orcs. Pretty sure you don't want to come along with that."
+
+Radio squeaked in terror. "You keep those gray freaks away from me!”
+
+That made Shiv laugh. He remembered Radio saying how Mortar wanted to turn it into a groin piece. "Alright, got it. No orcs in your ideal future. More for me.”
+
+***

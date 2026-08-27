@@ -1,0 +1,299 @@
+---
+id: 1c1c6381-3d63-54ff-a395-0a58ed041e49
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FIFTY-ONE: The Second Blossom"
+slug: 0253-two-hundred-fifty-one-the-second-blossom
+partOf: super-supportive
+position: 253
+ownLength: 4196
+unit: words
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2692702/two-hundred-fifty-one-the-second-blossom"
+royalRoadId: "2692702"
+---
+
+251
+
+******
+
+“I didn’t register to participate in today’s ceremony,” Stu said to the welcomer who had met him as soon as he arrived in the preparation area for DawnStep University’s ritual rooms. “So if there might be a lack of space, I’ll leave.”
+
+The woman bowed again. “We always expect a large attendance during the oath ceremony before Welcome End. It’s being held in our main sunset chamber. There will be room for all, Declared Stu-art’h.”
+
+“Then I’ll join them.”
+
+The preparation area had a simple layout. Stu had arrived in the hub, where the welcomers greeted anyone coming through the teleportation alcoves. Across from the alcoves were elevators to the upper floors. And the halls branching from the hub held the facilities one might need to use to make oneself ready for rituals.
+
+Stu was almost surprised at himself for being here.
+
+Another oath ceremony would be taking place tonight in Rapport I, and people he knew, including a few members of his family, would be gathering for it. He could have gone with them. He had successfully completed his oaths, and they didn’t disrespect that at least. But watching his relatives celebrate and encourage his former schoolmates who would soon become hn’tyons sounded painful.
+
+Skipping it altogether had been his plan, and yet…he wanted to be a part of this meaningful ceremony at this significant time of year, and he didn’t have Alden’s company to turn his thoughts away from wanting it. So here he was, at DawnStep. The attention at this ceremony should be on people he’d never met. And maybe in this setting he could recognize their oaths and have his own recognized in turn without so much weighing on the occasion.
+
+“The one leading the ceremony requested that the drink taken together at its conclusion be the waters of many lands,” said the welcomer. “The first Rapport’s waters have already been added to the jug. I see you wear the mark of your declaration on your coat. Nothing more is required for you to participate, but if you’d like to use any of our cleansing rooms before you go up, you may. Is there any other way I might serve you?”
+
+“No. Thank you for thorough information.”
+
+She left him to make his own way to the sunset chamber.
+
+It was a grand location—one of the chambers that stuck out from the campus’s lower peak like plate growths from the trunk of a tree. A water curtain that usually enclosed the space had been parted to leave wide openings and let in the breeze. Hundreds had gathered here under the shallow golden dome of the ceiling, and there was still no risk of them overcrowding the pinkvein floor.
+
+Knights periodically renewed their oaths. The ones who were here tonight had mostly chosen this timing because it was a chance to offer their support to the declared who wanted to renew their own commitments before their first binding. And both the knights and declared were supporting those who were participating in this ceremony because its successful completion was the final step in becoming declared themselves.
+
+Stu could easily identify the new ones by their white warming robes, but most of them were so anxious he could have spotted them anyway. Having your understanding of the oaths judged by those you admired and whose community you wanted to join was a great honor. But the fear of being deemed wrong-hearted was correspondingly great. Stu had felt the same when he wore the white robe.
+
+Secure in having completed his oaths successfully, it now seemed obvious to him that there was no reason for the newcomers to be so afraid. One boy was looking at Hn’tyon Thet-aron like she was going to toss him out of the chamber and down the mountainside, but she was probably giving him good wishes and advice. The knight had taught for a few weekends at the Rapport school when Stu was younger, and she’d been a cheerful person. And the boy was allowed to be here because he’d already proven his dedication.
+
+The road taken by someone from outside the Rapports who wished to become a Knight of the Mother Planet was a winding one these days, designed to shed casual travelers at every curve. Since it would be almost unheard of for a child of the Rapports to swear at DawnStep their first time, everyone in white must be an outsider, but they had made it this far.
+
+Stu admired their will to be here. He wouldn’t think less of any of them who failed and had to try again after a period of study and reflection, and he was sure most here felt the same.
+
+But the rejection would still hurt.
+
+He hoped that wouldn’t happen for any of them today.
+
+It would be a short wait before they were all asked to take their positions. Stu was torn between going to say hello to a few people he recognized and keeping to the edge of the room. He chose the edge. It turned out to be a pointless choice. He’d failed to anticipate how interesting he would be to the other declared in the room, specifically because they didn’t recognize him.
+
+“Have I always turned both eyes the wrong ways when we passed?” asked the first boy who approached him, smiling. “I’m Declared Petch-banzo.”
+
+Weset would hate him.
+
+Her mother’s name was Petch. If she couldn’t tolerate the two Aldens, a person named Petch would appall her.
+
+“I have most of my lessons with the corrective instructors,” Petch-banzo said, “so that might be why we haven’t met.”
+
+“I don’t attend school here.” It was natural of Petch-banzo to assume that Stu did, since automatic admission to DawnStep was given to all declared. Only a few chose other educations. “I’m going to LeafSong for now. I’m Declared Sina Stu-art’h. To meet another who has declared is a happy occasion.”
+
+Petch-banzo seemed confused.
+
+Stu didn’t know how to help him with his confusion except by lying or saying truths that shouldn’t be said.
+
+Why are you here instead of at the Rapport? Petch-banzo must be wondering.
+
+“I’m looking forward to the ceremony,” Stu said. “The togetherness of our purpose was a powerful feeling the first time I participated, and without being so nervous, I’m sure I’ll appreciate it even more. ”
+
+He realized he was a little nervous now…that people like Petch-banzo might not want him here.
+
+But that wouldn’t make sense, he told himself. Many Rapport-born knights are here, so even if we young ones are usually more separate, there’s no reason to think I’m intruding.
+
+Petch-banzo smiled wider. “So you were nervous, too? I never imagined a member of your family would worry about something like that. You’re related to the Primary, the Quaternary, Hn’tyon Isayn… ”
+
+This kind of thing was unfamiliar coming from another declared. Stu knew that people who hadn’t grown up surrounded by knights viewed his family differently than people in Rapport I, but hearing someone who would soon be welcomed into the Rapports talk as though an art’h had no reason for the same emotions as everyone else was unsettling.
+
+Shouldn’t he have a more realistic view if he’s come this far?
+
+“I was nervous,” Stu confirmed. “Even though I had prepared. But then the communion of the ceremony became more than the nerves.”
+
+“Exactly so!” Petch-banzo exclaimed. “That’s why so many of us want to do another one to start Welcome End. It’s encouraging.”
+
+“Yes. As it should be.” Stu was glad they understood each other about this at least.
+
+“Why aren’t you at the Rapport ceremony? Don’t you all have one, too? Are you going to both?”
+
+“I wanted to do this one instead.”
+
+“That’s nice,” Petch-banzo said. “I understand why we have the divide between your kind and ours, but it becomes strange sometimes.”
+
+“We’re the same kind. We just haven’t finished meeting yet.”
+
+“I like that!”
+
+It was similar to something Sina had said when Stu asked if the declared and newling knights who came from outside the Rapports had hurt feelings about being kept at a distance. If the declared in this room went through with first binding, it would be a few years before most of them were working closely with knights Stu had grown up with.
+
+Petch-banzo left to tell a group of his friends who Stu was, and Stu was quickly cornered by a girl who had too many questions about why he was going to LeafSong.
+
+And then he met another girl who wanted to talk about skills. That was enjoyable until they were joined by Makee-en.
+
+Makee was a knight a few years older than Sina’s birthset. He was the art’hs’ neighbor, and he was most likely already on a call with some member of Stu’s family, informing them of his whereabouts like he’d found a lost child.
+
+His mere presence scared off the declared girl who wanted to talk about skill choices. If Stu understood the hasty apology she gave before hurrying away, she thought she might be judged for being too companionable with the Primary’s son.
+
+“Well, this is an unexpected meeting,” Makee said. He had a small nose and large, very dark eyes under low, nearly straight brows. Stu had a faded memory from when he’d first come to the siblinghold of some older sibling or cousin getting in trouble for saying Makee looked like an ibbler.
+
+Ibblers were subtle, solitary animals that didn’t interfere with anyone, so Stu had to disagree with the comparison.
+
+“Yes it is,” said Stu. “I would have thought you’d be at the ceremony in Rapport I. With your nephew.”
+
+A member of the en family would become a knight this year. Nel. He was young for it. Noh approved, but maybe Makee didn’t.
+
+“Nel said at least one en needed to be here to represent our family or he would feel like he was taking something from the declared who don’t come from Rapports. He asked me to do it.”
+
+Stu would now have to wonder if Nel-en really thought Makee-en was a gift to the people here—like Kofa wanting to donate his sebaba haunch—or if he was trying to remove an irritation from his own weekend by sending his uncle to bother others.
+
+“Your brother Rel says he’ll call you momentarily to check on you,” Makee said. “So be sure to answer him.”
+
+Stu felt his hands clench as his hopes for this one short, special ceremony that he had the right to attend like every other declared dropped.
+
+“I’m not someone who needs to be checked on by my elders every time I leave the—”
+
+“Stu! I haven’t seen you in too long, and there’s something I wanted to discuss with you. What a fine opportunity this seems!” Hands landed on Stu’s shoulders at the same time as the new voice landed in his ears, startling both him and Makee.
+
+“You are Esh-erdi!” Makee exclaimed. “We haven’t met because I wasn’t at the Rapport when you visited. Congratulations to both of you on your eternal bond. I hope the accident on Earth hasn’t added bitterness to your esvulgivnas.”
+
+Makee spoke quickly. Stu had only just managed to turn around and confirm that the knight behind him was Esh-erdi.
+
+“Yes, I am him,” Esh-erdi said. “I’m glad to meet you. Thank you for celebrating our bond. A little bitterness makes a meal more intriguing, don’t you think? And it was quick work if not exactly light. Fighting an ocean in an urban area was new even for my magnificent Lind, and she’s always mentioning things she’s seen and done that I haven’t. So now we have this strange experience together! She’s right over there if you’d like to speak to her. I’m sorry to steal your conversation partner. Come, Stu!”
+
+Stu was surprised to be taken so swiftly away, and Makee appeared to be equally surprised to see him go. As for Lind-otta, she was surrounded by people in the middle of the room. Stu didn’t know how Esh-erdi thought Makee would get a chance to speak to her before the ceremony started.
+
+He sent Rel a message saying he couldn’t accept a call right now because it would be rude to Esh-erdi while he followed the man over to the edge of the chamber. From there, they could look down on the tops of the trees that sheltered one of the scholar villages far below.
+
+“It’s good to see you here,” Esh-erdi said, taking some kind of seed Stu wasn’t familiar with from the pocket of his sap sauce yellow coat. His dark hair was in a six-strand braid that matched Lind-otta’s. “I’m sure some of these declared are excited to be joined by a member of your family their own age.”
+
+“There’s a storm over Anesidora,” Stu said, watching him peel the rough shell away and pop the seed into his mouth. “Alden couldn’t come over at the time we’d planned. Attending this ceremony seemed like an opportunity to appreciate a second blossom.”
+
+Esh-erdi leaned closer to him. “So we’re all the second blossom?”
+
+“I meant—”
+
+“You know the second blossom in that metaphor is supposed to be the one you like less than the first?”
+
+Stu knew his face must be changing color. “I’m sorry! That was very thoughtless and an accident. I should have used a different saying.”
+
+Esh-erdi held out his handful of seeds, pushing it closer and closer to Stu’s nose until he took one. “A peanut. They’re from Earth…like your preferred company.”
+
+“I really am sorry I said it that way.”
+
+“I really don’t mind.” All the peanuts in Esh-erdi’s hand fell apart, the shells cracking into large pieces while the edible part was left whole. “You can’t be surprised to hear that I’m an appreciator of unusual relationships. And Alden is good. Now that I have persuaded him not to be afraid of me, he is both good and fun. I enjoy talking to him.”
+
+“Was he afraid of you?” Stu asked. That was a concerning thought.
+
+“Yes. I should probably blame the traumatic experience he’d just had when we met, but I prefer to blame Ro-den. Eat your peanut. It’s roasted. I like them.”
+
+Stu shelled the peanut and ate the first of the two seeds within. A new taste. Pleasant.
+
+“I told him the story of ‘The Elder’s Croak’, and he was one of my favorite listeners ever. Would you like to hear his croak? I recorded it!”
+
+“What was it like?” Alden had mentioned the storytelling.
+
+Esh-erdi laughed.
+
+“Don’t be rude to him about his voice,” Stu said severely. “I’m sure he tried his best because he always does. And Bithe harshly criticized his mastery of our language a few days ago, which he didn’t deserve because he’s learning very quickly, and he speaks well. It upset him.”
+
+“If you were this threatening in defense of yourself, that Makee-en who was trying to tattle on you would be on his way to Goldbush to face the chaos instead.”
+
+“He’s too old for Goldbush,” Stu said.
+
+“Really?” Esh-erdi looked back across the room. “Hmmm…”
+
+Stu ate his second peanut.
+
+“So Alden is trapped by the weather. I suppose he didn’t want to fly in the rain?”
+
+“What if he got struck by lightning?”
+
+Esh-erdi’s thick brows lifted. “Then I would feel regretful about loaning him the Nine-edged Son. He seems to have a luck problem, though, so he should be more wary of lightning strikes than most of us. I’ll ask him if he’s still alive, so that you don’t worry.”
+
+“I’m not worried about him right now. I heard from him a short while ago.”
+
+“And in exchange,” Esh-erdi continued as if Stu had said nothing, “you’ll come with me to say hello to that girl hiding behind the water curtain. If my greeting doesn’t put her at ease, maybe your youth will.”
+
+Stu followed the eye he turned, and saw the girl he meant. She was in a white robe. Esh-erdi threw his peanut shells over the edge. “Like this,” he said, motioning for Stu to do the same. “I like to imagine some scholar finding a piece and enjoying the mystery of what it is and how it got here.”
+
+******
+
+The girl hiding behind the water curtain was named Yaril. She had gray eyes and long purple hair that was still crimped from the braids she must have taken down for the ceremony. Her older brother had become a knight four years previously.
+
+Esh-erdi introduced Stu to her, made her laugh once and smile twice, insisted the two of them should be addressing each other by first names, and then left.
+
+Yaril watched him go toward Lind-otta. “It was so wonderful of them to come. Like we have a promise of what’s possible here with us. My brother will be sorry he didn’t meet them.”
+
+“He couldn’t make it here?” Stu asked.
+
+“Goldbush,” she explained. “His squad wanted to stay longer than they were originally supposed to. I don’t mind. If I embarrass myself today, it will be better not to do it in front of him.”
+
+“You won’t embarrass yourself. I was thinking about how I wished I could tell you all—the ones hoping to succeed at your first oaths today—how glad we are to have you here. I’m not trying to speak for the knights, but even as a declared, it’s frustrating to be surrounded by people who don’t take our path as seriously as we do. There are a few at LeafSong who talk about pursuing knighthood, and I made the mistake of believing them at first. They don’t mean it. They just play with the words in their mouths to make themselves feel better while the opportunity passes by.”
+
+“You go to LeafSong?” she asked. “Is there a special area of study for you there that DawnStep doesn’t offer?”
+
+Stu tried to think of a good response that wasn’t a lie. “No.”
+
+Fortunately, she accepted the answer with a nod. “I know what you mean. My brother and I are from Purl.”
+
+“Near the second Rapport,” said Stu.
+
+“Everyone there seemed to want to walk the path of highest onus together when we were younger. And I’m still turning around and around, trying to figure out where all the others went and why I’m here in this hot robe without them.” She made a spinning motion with her hand. “As if I’m suddenly the abnormal one for having meant what I said all along.”
+
+She let her hand fall. “But you’re saying this isn’t a place for me to worry because it’s a place full of people who are simply glad I cared enough to make it this far?”
+
+“Yes, I am.”
+
+“That makes me scared I don’t care enough to be one of you.”
+
+“No!” Stu said. “No, that’s not how it should make you feel. I wanted to say something to make you feel confident. If I—”
+
+“I’m teasing you,” she said. “I had better not tease you more. It’s wonderful of you to be here with us instead of in your Rapport, and you made me less anxious about what’s to come.”
+
+She rubbed one of her fingers and then looked down at it in surprise. She probably wore a ring there usually, but her jewelry would have been removed with her hair ties. “I’ve left the oaths late because I wanted to be sure I introduced myself well on the first try. I plan to go to first binding right after Welcome End. That notion will vanish all of a sudden if I mess this up, and everyone I’ve come to know will go ahead without me.”
+
+“Not everyone,” Stu said, wanting to reassure her. “I’m supposed to do it in half a year.”
+
+“So long,” she said.
+
+It feels longer every day.
+
+“Are you waiting to match up better with someone you’re compatible with?”She looked toward Esh-erdi and Lind-otta again.
+
+What a lovely assumption. He regretted that sooner or later, once she became more casual with older knights, someone who knew gossip about him would share it.
+
+Won’t it stain her memory of our meeting? And the meaning of what I’ve said?
+
+“I’m not wonderful for being here. I just want to honor Welcome End in one of the ways everyone is supposed to be able to.”
+
+There. Now at least she would remember his honesty when the gossip climbed into her ears.
+
+Should I be even more honest?
+
+She spoke before he could.
+
+“May I send you a message after my first binding? I shouldn’t ask, should I? Since we’re not supposed to socialize too much.”
+
+“I want to receive your message,” he said immediately. “I will look forward to hearing that you’re doing well.”
+
+“An art’h waiting on my message is something I didn’t expect. I’ll look forward to sending it to you.”
+
+******
+
+They took their positions quickly when the time came, each standing on a spot of light provided by the room to ensure equal distancing. Declared were near the perimeter, older knights were closer to the center, and the ones in white were spread out evenly among the knights. In the very middle was the man who would lead the ceremony by asking the questions that prompted the memories that brought forth the intentions that united them.
+
+A simple oath to protect their people might mean many different things to many different minds. The shared memories and this ceremony shaped their understanding of what it should mean to be a Knight of the Mother Planet. Differing ideas could be accepted here, but not if they were too much at odds with those of the others.
+
+In the cottage of oaths at the siblinghold, the memories were presented in a set order that was meant to make the process of experiencing them easier for beginners, but during a ceremony, the order was whatever the leader chose. Directing the assembled knights toward an uplifting oath renewal, and allowing the newcomers to find their way without bending too much for their sakes, was an art.
+
+Stu found a spot across the crowd from Yaril, where she would be able to see him if she wanted. He hoped he wasn’t taking the place of someone who would do a better job at encouraging her.
+
+“You may sit or kneel,” said the knight who led them.
+
+He had a bandage wrapped around one dark arm. Stu imagined he might enjoy some rough kind of sparring, since he wouldn’t have agreed to plan and lead a ceremony only a short while after returning from the field.
+
+“Don’t lie down, though,” the leader continued. “I didn’t account for it in the layout. If any of you wanted to nap in the middle of a big group of us, you should have said so earlier.”
+
+Laughter rang around the chamber.
+
+Stu sat.
+
+Soon, everyone was on the floor except for the ones wearing white and the leader.
+
+“What’s this? A few standing?” He turned slowly to look at them all. “I see. These are the strangers among us. You there! Tell us who you are and what you bring to us. Why have you come to this place?”
+
+There were eleven people in white. He’d picked the one who seemed most at ease to answer first. “I am Ajna-sothan,” she said, unbelting her robe and letting it fall to the floor to reveal her body. “I bring nothing but myself. I want to be welcome among you, a stranger no longer.”
+
+“That is a joy to hear,” said the leader, “for none were born among us and all of us were strangers once. Sit with us now and, maybe, forever.”
+
+She folded her robe before she knelt on it, and he moved on to the next one. Yaril was fourth. She said her part steadily and met Stu’s gaze after she sat.
+
+He liked to think he’d helped.
+
+When all of them were sitting or kneeling, Stu closed his eyes and waited for the first question.
+
+“Eeya-ya-ya!” The leader spoke in a thin, distressed voice Stu recognized. “I am watching over the children, and the storehouse is burning. What will I do?”
+
+The memory of the time that had happened, to an old woman who’d lived long ago, came to Stu almost as fresh as when he’d last practiced it.
+
+The answer to the question, ‘What will I do?,’ could only be the woman’s answer. The storehouse had begun to burn while she watched over children who would need the food inside to survive the coming winter. She had already done what she would do.
+
+Their oaths were to be found in the witnessing of it. And in the way they came together here to understand what they all valued, what they would protect, and what they could afford to cast aside.
+
+Once a woman had wept at her own frailty while she tried to move a heavy bag of grain, never knowing that in this room, so many generations away, some of them would weep with her.
+
+******

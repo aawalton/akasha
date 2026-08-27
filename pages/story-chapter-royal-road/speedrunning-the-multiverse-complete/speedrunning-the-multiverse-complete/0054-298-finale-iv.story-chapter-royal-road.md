@@ -1,0 +1,235 @@
+---
+id: 80f910de-5d81-54e5-b785-efa7c9b86de1
+page-type-slug: story-chapter-royal-road
+title: "298. Finale (IV)"
+slug: 0054-298-finale-iv
+partOf: speedrunning-the-multiverse-complete
+position: 54
+ownLength: 1514
+unit: words
+ownProgress: 1514
+publishedAt: 2023-08-31
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1327749/298-finale-iv"
+royalRoadId: "1327749"
+markedReadAt: "2026-06-29T22:43:32.685Z"
+---
+
+The fourth floor was corridors leading corridors to corridors leading to corridors. Each corridors had doors upon doors upon doors. The floor, walls, ceiling were all made of this luminescent marble that looked the same everywhere. It was as though the whole thing were designed to make intruders like them hopelessly lost.
+
+Dorian was pretty sure they’d circled the same block twice, but who could say?
+
+Just when he was starting to get impatient—each breath was a breath longerhe felt a prickling in his core. A familiar resonance.
+
+He moved toward it, curious—and then he picked up on another. And another. And yet another still.
+
+“Heavens…you’re kidding me. Here?! Now?!”
+
+He broke into a full-on sprint.
+
+“What is it?” said Sun, panting, struggling to keep up. “Did—did you see a way up?” “No.” He scooped her up with his tail and kept dashing, a mad gleam in his eyes. “But! I did feel something that could make this task a lot easier…”
+
+He skidded to a halt in front of a thick starsteel door studded with locks down one side. Two surprised-looking guards gaped at him. Peak Empyreans. The fact that soldiers like these could be spared to guard just one room in a time like this told him his feeling was right.
+
+He blasted them away with ease, almost as an afterthought. Then he examined the locks with a frown.
+
+“Starsteel, eh?” Just like the rest of the tower. Starsteel walls had held up against a blast that’d melted those Godkings. Melting these locks was probably impossible. And they were cloaked in all sorts of nasty arrays that probably hid nasty surprises. Could he transfigure them? Transfiguring starsteel en masse was far too much an ask—but a few locks…
+
+He studied the qi flows of the arrays for a few breaths, then made an educated guess.
+
+“Hey, do you remember what Jez’s aura felt like?”
+
+Sun nodded.
+
+“I need you to cloak me with it. Just for a few seconds.”
+
+When he touched the lock cloaked, the arrays lay inert. [Midas Touch!]
+
+Making them air would cost far too much qi, but he could convert them into earthsteel—a close cousin of a metal, and much less durable. That done, a few hearty smashes of his [Fists of Rising Star, Falling Moon], coupled with a [Blessing of Hercules], was enough to crack them off.
+
+He shoved, and the door gave way to a small, empty storeroom with four thrones that looked comically out of place. And on those four thrones were four very familiar faces.
+
+“Quick detour!” said Dorian, strutting up to the first figure. Slim, willow-like, androgynous, with flowing silk robes to match. Long, silky hair, and a perfectly proportioned face. In his slumber the figure had a slight lilt to his lips, like he was dreaming of something funny. “Ah, Ezra. I’ve fond memories of playing you.”
+
+“Um,” said Sun. “What are you doing?”
+
+“I’m about to take back what was mine,” he said, his voice a little dreamy.
+
+“Do we have time for this?!”
+
+“Oh, this should only take a few breaths—and it might well save us many, many more. Pass me that pagoda, will you?”
+
+***
+
+Dorian sat cross-legged and began a process that was so familiar by now it was practically rote.
+
+[Level up!]
+
+[Star Realm: Dwarf]
+
+0% -> 28%
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Dwarf -> Sun]
+
+Ezra was the Godking of Speed. His qi blurred about in a thousand currents, all crisscrossing in one churning sphere. At his peak he was nearly untouchable—for he was the fastest creature in the Multiverse at everything; topspeed, acceleration, even reflexes and reaction time. A relaxed lap around a track for him could throw up a devastating hurricane.
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Sun -> Red Giant]
+
+Which raised a delicious question. What would happen if he stacked a Blessing of Hermes with Ezra’s speedy qi? What sort of unfathomable speeds could he reach? He could scour this floor in a blink of an eye, with time left to spare.
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Red Giant -> Supergiant]
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+44% -> 46%
+
+Inside, the process took hours.
+
+Outside, it took seconds.
+
+Patiently he waited for a skill, but none wage seemed forthcoming. He frowned. He swore he’d had at least three or four max-level skills… and didn’t he have daggers as Spirit Weapons too? But in translating powers from one core to another, it seemed something got lost.
+
+No matter. Just wrapping himself in Godking-level Speed Qi should make him practically untouchable. And that was merely the first body!
+
+He licked his lips. Next up—Tyrinth the Conqueror, the Berserker Godking.
+
+An ogre who barely fit atop his throne. The tallest, thickest, muscliest of Dorian’s bodies. A titan.
+
+It wasn’t this creature’s qi that Dorian wanted, but a specific Technique. Extracted the core, got in the Chamber of Infinite Time, and greedily sucked away. The hours passed. The levels did too, until—
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+71% -> 73%
+
+A great red blob of qi that looked like water on the edge of boiling. This was Rage qi, and it fueled the Technique that made Tyrinth among the most feared closed combat fightersthe Multiverse had ever seen, and perhaps his strongest body.
+
+[Skill Learned!]
+
+YES!
+
+[Rage of the Caliban]
+
+[Lv. 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> MAX]
+
+Normal bodies are not killing machines. They have other considerations; survival, reproduction, endurance, that kind of thing. When the Rage of the Caliban came into effect all that was forgotten. The body was transformed physiologically, psychologically, ratcheted up far beyond what it was normally capable of. An incredibly intense berserker state which lasted until the object of one’s rage no longer existed.
+
+Or until you burned out—leaving you an impotent husk. One use often took hours, if not days, to recover from.
+
+He exited the pagoda all smiles. Two left!
+
+First up, a white-bearded old man with a silver tiara. It sported a crystal that Dorian was careful not to look at. The Crown of Dreams was a potent weapon, after all. The signature weapon of Po, the Godking of Dreams. When Dorian extracted the core, he found a tiny marble which seemed to hold a night sky within it—a dark field speckled with bright, twinkling spots.
+
+In the Chamber, he got to work.
+
+….
+
+…
+
+[Level-up!]
+
+[Star Realm: Dwarf -> Sun]
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Sun -> Red Giant]
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Red Giant -> Supergiant]
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[31% -> 32%]
+
+[Skill Learned!]
+
+[Field of Dreams]
+
+[Lv. 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> MAX]
+
+Field of Dreams targeted the soul. All it needed was eye contact. When cast it rendered its victim unconscious, tormenting them with increasingly violent nightmares until their mind and brain short-circuited. They were left vegetative.
+
+It would be nice if he could neuter Jez with a glance, but sadly the potency of the spell depended on the will of the user relative to the will of the target. And if Jez could draw on the souls in his Infinity to aid him, he might shrug it right off. Still—it was another Godking’s worth of qi to draw on. Dorian could hardly say no to that.
+
+And last of all, Likesh Life-stealer. He’d come full circle. It felt a lifetime ago that he’d stabbed Demon King Yama with a sword the color of blood. He reckoned he’d lived more in this run than he had in his last hundred combined. Staring up at this dhampir body he felt an upwelling of nostalgic feeling—but now was not the time.
+
+Now was the time to claim, hopefully, his most important Technique. The one that would make a world of difference if he came across Chimeras which could tap into the Infinity.
+
+He excised the core and let the absorption begin.
+
+…
+
+…
+
+A dot of dark red, then a puddle, turgid and thick like bad blood, a lake of it, an ocean sloshing in an invisible marble. Eventually…
+
+[Level-up!]
+
+[Star Realm: Red Giant -> Supergiant]
+
+….
+
+….
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[38% -> 39%]
+
+[Skill Learned!]
+
+[Life-snatcher]
+
+[Lv. 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> MAX]
+
+He let out a breath. With luck his life just got a lot easier. Life-snatcher was the Technique with which he’d sucked Yama, a top-ranked Empyrean, dry. If the enemy’s core was like a dam, this Technique blasted a hole in it and sucked in whatever gushed out of it. The stronger the opponent, the more powerful it got. But it was best utilized with…
+
+[Spirit Weapon Gained!]
+
+[Soulreaver]
+
+Now he’d really come full circle.
+
+He grinned as he inspected it. An elegant thing, the kind of sword a fencer might use, with a blade the color of glass.
+
+Time to find some fresh coats of paint for it!

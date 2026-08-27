@@ -1,0 +1,261 @@
+---
+id: 72bb87cf-75da-5098-a278-d80c3719d4a5
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 492"
+slug: 0192-the-path-of-ascension-chapter-492
+partOf: the-path-of-ascension
+position: 192
+ownLength: 4890
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3433206/the-path-of-ascension-chapter-492"
+royalRoadId: "3433206"
+---
+
+Chapter 492
+
+Aster panted as she finally let out the breath she was holding as Matt passed by the closet she was hiding in. That earned her a glare from Allie, who was cramped inside with her, but she felt that was unfair given the teleporter's normal level of theatrics.
+
+Allie gave her no chance to argue. “I’m usually the one to avoid my problems until they become large enough that they become other people's problems too, but this is getting ridiculous. You need to talk to him.”
+
+Aster so very desperately wanted to speak the truth, but she knew that was a terrible idea. Some things could never be unsaid, and the fact that her bond with Matt screamed that he wasn’t himself any time she got close to him and that she needed to help him, was one of them.
+
+Using what little space they had in the closet, Allie kneed Aster as hard as she could, causing them both to wobble slightly when Aster didn’t reply. “Okay, be silent if you want to, fine! But now it's becoming my problem, so you have to deal with it.”
+
+Aster had no easy off the cuff reply. She knew Allie was right, but looking at a familiar face while every single part of her screamed that something was deeply terribly wrong with Matt was too much. Avoidance was a whole lot easier.
+
+Matt would be fine when the armor was finished and they’d never need to speak about this again.
+
+She just needed to make it a decade. Maybe two.
+
+Thinking about all of the million and one other things she needed to do today, Aster glared at Allie. “Alright, get us out of here.”
+
+“Are you going to stop hiding from Matt?”
+
+When Aster couldn’t respond, Allie smirked as she wiggled as if settling in for a long wait.
+
+Sighing, Aster tried her best once more. “What about our trip? I still want to talk to Balfa and Siska. They are the only two twins I’ve been able to identify that have spirit space Talents, and I want to pick their brains about them while we are so close. These are the perfect first people to talk to.”
+
+“You need to talk to Matt.”
+
+Gripping at her hair, trying to bottle up the roiling emotions she was already struggling to contain, Aster glared at Allie, letting a hint shine through. “Drop it.”
+
+Allie flinched backwards hard enough to crack the wall. Rubbing at her head, she pouted silently but Aster had no sympathy to give.
+
+Instead, Aster kicked at the spatial barrier Allie had created when she hid them in the closet. One precise blow was all it took to unravel their hiding space and eject them at the same time.
+
+Allie didn’t push any further, and Aster sagged in relief when her connection to Matt dimmed to nothingness as they teleported out of the star system. They hadn’t gone far, three jumps by planetary count, but that was enough to let her pretend everything was normal.
+
+The screaming was only a dull echo.
+
+Thankfully, their goal for the visit was interesting enough to distract her.
+
+Balfa and Siska were two of the people she’d identified when they returned to settled space who ‘publicly’ had spiritual space Talents. It was rare for twins to have shared Talents, though such things had been known to happen. Being in the Corporations, the pair had used them more publicly than most. That meant their early obfuscation had enough holes that she was able to piece together the truth of their Talents.
+
+Checking the time and seeing they were early, Aster sighed after seeing Allie’s quiet stare, knowing she couldn’t avoid the conversation any longer.
+
+“What do you want me to do? Tell Matt, who let me remind you, can’t even comprehend his own name, that he feels like a half dead alien? Is that what I’m supposed to do? Give him even more to worry about? Tell him to cancel the armor? To not grow stronger? Even if I could ask that of him, I wouldn’t because I’d never say no in his place, and if he did agree I’d hate myself. Therefore, there is nothing I can do!”
+
+Realizing she was panting, Aster took a moment to compose herself and to regain control of her body.
+
+Opening an eye, she saw that Allie hadn’t immediately responded, instead just looking as sad as Aster felt. “Keeping it bottled up isn’t doing you any good either. And I think Matt would understand.” Shaking her head, but not in their usually jovial manner, Allie shot her a withering look. “And don’t give me any push back. Matt wouldn’t want you to deal with that alone even if you don’t tell him. Stop bottling it up. Talk to me or Liz or anyone else. You are like a leaky pressure cooker right now and you need to do something.”
+
+Aster wanted to say that complaining was all that she could do, but didn’t. Like the argument itself, it was pointless. The past couldn’t be undone, and the only way through was by staying true.
+
+True to what, Aster didn’t know.
+
+Bumping into Allie, Aster didn’t verbally apologize but the atmosphere was clearer between them by the time they flew down to Balfa and Siska’s home. Being rich Tier 36’s in their own right, they lived on the Tier 21 world rather than in space around it. That put them firmly in the Corporation's upper crust, socially speaking, as few ever settled planetside with the enormous costs involved. The close distance to the capital system at least explained their residency, given the Tier disparity.
+
+Finding the well secluded villa half built into the mountain it hung off, Aster had to admit that having such a low planetary population had its benefits. The planet around them didn’t just feel natural, it was nature. There were only three other residences within a ten mile circle, letting things feel wild.
+
+A growing part of her was seriously tempted to transform, go for a sprint around the forest, and maybe find a rabbit or two to nibble on, but she gave the idea up after a moment of consideration. That would leave Allie bored and they were already here for Aster Talent research.
+
+She’d only raised her hand to knock on the front door when it opened of its own volition and a masculine voice called out, “Come on through. We are in the back.”
+
+Shrugging at Allie, the two of them walked through the tastefully decorated house, seeing pictures of both Balfa and Siska scattered throughout. Sometimes they were alone, but more often than not, they were together.
+
+Aster wanted to get sentimental about that, but ruthlessly crushed that thought before it could lead her to danger.
+
+Their unguided tour came to a quick end as they reached the secluded valley the house had hidden.
+
+Balfa and Siska were near identical twins drinking tea on their back porch, but their Talents interested her more than their appearances. Starting as Tier 1 pocket spaces according to their autobiographies, they’d been shipping moguls before their sudden retirement three thousand years ago, and Aster was fairly confident their Talents related to spirit spaces. There were too many inconsistencies and oddities that lined up to her Talent for it to be mere coincidences.
+
+Or so she hoped.
+
+After the introductions and niceties were gotten out of the way, Aster tried to bring the conversation around to spirit spaces, but every time one of the twins deflected or skirted around the topic. Seeing she was getting nowhere, she couldn’t help but flex her spirit space, chilling the air around her. Not wanting to be destructive as well as rude, she controlled it so it didn’t spread and damage their garden, but she wanted to make it very clear she wasn’t speaking out of her tail.
+
+“What do you guys know about spirit spaces? Are you willing to talk? I can pay if that's the hold up, but I can also go away if you don’t. Our earlier correspondence indicated you were willing to talk, but if that’s changed I can leave. This place is lovely, but I don’t have the time or patience to be led around by the nose for hours.”
+
+Siska shook his head sighing, “Chosen Wraith, we do—”
+
+However, before he could continue, Balfa waved him down. “Speaking too openly about one’s Talents is a hard to change habit, forgive us our reluctance. However, to answer your question, I don’t know. Spirit spaces, as you call them, aren’t a strictly recognized category of Talents. In fact, there are thousands of types of Talent given pocket spaces, each with their own oddities. Why look so hard into something that is personal, when your particular case might just be specific to your own Talent?”
+
+Aster used a trick Cynthia had taught her to channel her inner reactions into what she needed in the moment rather than her true feelings.
+
+Nodding along as if she agreed with everything, rather than acknowledging what they said, she smiled. “Because I don’t think things are so simple. I used to believe the same thing as you, but recent events have indicated that might not be true. I’m willing to share if you are, but not before.”
+
+The two brothers shared a look before Siska levered to his feet, where he moved to a free area farther from the house.
+
+“Much of our hesitation comes from our own lack of understanding. We’ve looked into our Talents, but like we said, very little is actually known about what distinguishes a spirit space versus a Talent given pocket space. As best we can figure, a spirit space is unique because they seem to advance and grow regardless of the Tier they are gotten. We got ours at Tier 1 and they were only a few feet across, but they slowly grew larger all on their own, even when we didn’t advance.”
+
+The tidbit about how their spirit spaces grew being so vastly different than her mana pool locked growth, nearly caused her to interrupt, but she held herself back and was glad she did. The moment Siska finished, Aster felt a blueish black spiritual space wash over him and into the yard around them. Through any of her training, Aster would have had no problems in resisting the overlapping of space, but she also felt something unique.
+
+Something new.
+
+Her spirit space resisted it too. Like an angry dog barking at a fence, it begged to be let off its leash so it could clash with the other spirit space. It wasn’t actually alive, there was no will behind the desire, instead she felt like it was closer to a puzzle snapping into place.
+
+Spirit spaces were meant to interlock and… clash.
+
+Aster didn’t have a better word for it. It wasn’t a life and death duel. It wasn’t even inherently hostile any more than two apex predators vying for territory.
+
+Instead of following that instinct, she inspected the world Siska overlaid, trying to savor the flavors he was projecting. The dimensional rules of the spirit space felt both restrictive and malleable at the same time, in a way she knew Matt would love to play around in. It wasn’t just gravity, but size, direction, dimension and about every other way to describe the immaterial she could think of.
+
+Allie, having more experience inside spirit spaces, noticed an oddity first. “You can’t have living things inside your spirit space, can you?”
+
+Balfa laughed at his brother's sour expression, seeming to take great pleasure in his begrudging agreement. “I only do living things. Siska only does inanimate goods. We each have our own strengths when it comes to our spirit spaces.”
+
+Walking a few steps to the side, Siska picked up what looked like a toy portable fortress, inspecting it before tossing it back into the darkness. Reaching back into his spirit space in a different spot, he withdrew a tiny space ship before tossing it back.
+
+Balfa grew tired of the show before Aster did and called out, “Just pick something!” As if considering his words, he quickly clarified, “Something small.”
+
+Those two final words halted the withdrawing hand and resulted in Siska continuing the search for a full minute, to Balfa’s quiet grumbling.
+
+Finally, he withdrew a small thumb sized cube and tossed it to the ground a few feet away from their table. As he withdrew his spiritual space and the world returned to normal, the box grew from a toy into a waist-high shipping container.
+
+A spatially expanded shipping container.
+
+That surprised her, and a quick look to Allie showed she felt the same way.
+
+Aster had believed her ability to store spatial items was because her spirit space was from a Tier 25 Talent, but now she reconsidered that. Was it a general ability of spirit spaces?
+
+Balfa’s following words returned her confusion, while he had a reminiscing look on his face. “Impressve right? He was able to store spatially expanded items even at Tier 1. Our first travels only broke even because we were able to smuggle an extra backpack worth of goods through the ship's scanners. I, on the other hand, couldn’t store spatial items until I could hold the entire additional space, like normal extra spatial items.”
+
+Siska walked back over shaking his head as he added, “Not like you can put too many items inside at all. Where I can only carry material goods, he can only carry things that are living, or were once so.”
+
+Following his brother's words, Balfa released his spirit space without getting up.
+
+His spirit space felt alive. It… sensing the area around them, Aster understood where that extra hint of wildness had truly come from. It may have been made possible because of how sparsely populated the world was, but the majority of that wildness came from interactions with Balfa’s spirit space.
+
+His spirit space was life in its rawest form. Not healing, rather feral life that would kill and be killed. Except, as she tasted it more, she changed her mind. It wasn’t that wild. Indiscriminate if generic ‘life’ infused everything inside the space.
+
+As the space spread, the non-wooden furniture vanished, excluded from the spirit space.
+
+Looking at her spatial rings that now weren’t visible, Aster felt how Balfa’s spirit space rejected the immaterialness of the rings. It may have been made by natural metals, but it was not, and had never been, alive. That inherent conflict effectively banished it from the spirit space.
+
+Aster was confident she could break through the restriction with her own training, but another part of her told her that she had a much easier answer. Throw her spirit space against his and meet his reality with her own.
+
+The feeling was new and combative, but she liked it.
+
+Smiling, she continued to observe, wanting to luxuriate in the feeling, but before she had her fill, Balfa retracted his spirit space.
+
+Grinning, Siska handed both her and Allie a pot of freshly made tea he’d plucked out of Balfa’s spirit space as he said, “Many former bonds and those others who grow up non-sapient often feel a connection to his spirit space. Have some tea. His spirit space keeps foods perfectly preserved when inside. It's not a true time stoppage like high Tier rings can have, but rather a property of the space itself. It keeps things fresh… somehow.”
+
+Aster nodded but couldn’t help but ask her own question, “Do your spirit spaces want to clash with each other?”
+
+Balfa and Siska both shook their heads in unison, but Siska was the one to speak. “No, but that's more likely because our spirit spaces were interacting with each other from day one. We do know what you are talking about though. We’ve encountered someone else with a spirit space and a clash seemed inevitable. Given that she was a Tier 25 mercenary while we were Tier 10’s, we preferred to go our separate ways rather than talk as we are now.”
+
+The put-upon look he shot Aster almost made her feel guilty, but they had agreed to meet in exchange for a small favor. She hadn’t pushed, and so the puppy dog eyes were ineffective on her. Besides, he wasn't that good at them.
+
+She could do ten times better on a bad day.
+
+After getting the mercenary in question's name, Zonta Lou, and filing it away for later, she asked, “Have you ever experienced anything unusual with strange realm rewards?”
+
+“We’ve never left settled space, Chosen. How could we encounter a strange realm?”
+
+Unable to argue with that, Aster explained the purpose of her visit. “Well, I have. And while we were out there, I encountered a strange realm related to space. When we all got a reward, the strange realm tried to give an additional reward to my spirit space. It didn’t work, because Talent, but do you know what that means? What that implies? Strange realms don’t interact with Talents, that means it has to be possible to have a spirit space without one.”
+
+The brothers shared a long look before Balfa asked her, “That would be very interesting, but what does it matter to us? The three of us would be excluded from that group by definition.”
+
+“An increase in the power or utility of your Talent? I’d reckon that’s a large enough reason why, but if you need another, I think you were right earlier. Spirit spaces can grow and change, though it's hard. Before the strange realm, I hadn’t thought about it deeper than that, but now? I think we’ve all been given seeds of something and we are all content with tiny saplings, when we could be growing them into great trees. I’m not asking or suggesting anyone share deep secrets, but I’m hoping to get as many people with confirmed spirit spaces together and talking. Maybe, just maybe, we can see if we can learn. I don’t know what we will find, if we find anything at all, but ideas rarely form in a vacuum. As for our main, or at least first goal, should we find easy success… I want to understand the framework of what a spirit space is. Ideally, both the Talented and the non Talented, but I’ll settle on understanding ourselves first.”
+
+Siska’s look to Balfa turned into a questioning head tilt that was returned with more confusion. After excusing themselves, the two returned inside and sealed themselves off while discussing her offer.
+
+Aster didn’t mind and took the opportunity to speak with Allie. “Think they bought my pitch?”
+
+Allie waggled her hand back and forth. “Hard maybe. Siska’s for it but Balfa is far more reticent.”
+
+Her words proved prophetic when the brothers came out a moment later.
+
+“We aren’t entirely sure we agree with your conclusion. Siska thinks there is merit to the logic, but I’m not sure I buy it. Yes, our spirit spaces can grow physically, but that isn’t that unique with Talent-given spaces.”
+
+Aster had an answer, though she wouldn’t have before arriving. “What about the clash?”
+
+Balfa opened his mouth to say something, but closed it with a sigh.
+
+Seeing a chance, she pressed slightly. “Let's pop into a rift and have a little interaction with our spirit spaces. You said you didn’t last time because of the Tier difference, but now you are the ones with the advantage. How can you pass this chance up? Aren’t you a little hopeful I’m not wrong?”
+
+“I’m not sure our small Tier gap is enough to beat a Chosen. We aren’t combatants.”
+
+Rocking in her seat a little, Aster urged him. “We aren’t fighting, so that's perfect. We are just trying to feel what our Talents want us to do. Let's at least listen to them.”
+
+That finally won him over and they flew to a nearby rift.
+
+It was guarded by a Tier 20 who looked frightened to have two Ascenders and two Tier 36’s visiting him out of nowhere, but he handled it well between furtive glances at her and Allie. When he heard they were simply there to do a little testing in the rift, he was downright accommodating.
+
+There was another team scheduled to take the next instance, but she solved that by paying the price of three full delves with the promise they weren't going to intentionally kill the monsters. Combined with the mana she was going to leave in the rift, the rift would be near-full when they left, making the delay a boon for the bumped team.
+
+Once inside, Aster wanted to be polite and offered, “Do you want to test my spirit space first? Get a taste for it?”
+
+Allie groaned as she withdrew a special cold weather onesie she’d gotten made after leaving with frostbite on an exposed bit of flesh one to many times. Her actions earned strange looks from the brothers, which earned them warnings to do the same.
+
+Contrary to Aster's expectations, they followed Allie’s advice unlike most people, grabbing a set of exquisite cold weather gear out of Siska’s spirit space.
+
+Once everyone was ready, Aster spread her own spirit space, letting the cold creep outwards.
+
+Allie immediately rushed over to the evergreen planted at the center of the space and gave it two quick pats before teleporting out of Aster’s influence.
+
+The twins weren’t so skilled, and shivered as they took in her vast landscape of winter.
+
+It looked pretty good if she said so herself.
+
+Out of the dozens of plants she’d bought in the various auctions, only a few had succeeded in growing in her spirit space. Those that did were mostly pseudo-Natural Treasures, with none of the normal herbs surviving. Though some of the Natural Treasures proper did end up surviving, like the icicle Natural Treasure that had taken over a snowdrift.
+
+Things were looking far more lively, with non magical plants starting to be edged out by the new addition, though she kept the lone Ice Rose hidden behind an illusion. One of her oldest Natural Treasures, Winter’s Embrace with its energy absorbing vines had taken to the spirit space physically.
+
+Using the spiritual connection and instinct, she’d been able to plant the Natural Treasure, letting it take root and grow. And it had certainly grown. While not large enough to cover the entire spirit space in vines, the rose’s hidden tendrils had crept under the snow for miles in every direction.
+
+With guests she kept them dormant and quiet, which proved to be a good thing. Balfa and Siska took their time investigating and sensing her spirit space, not seeming to mind the cold, before they signaled that they were ready to withdraw it.
+
+Once she did, they retreated in different directions, creating a triangle.
+
+Balfa spoke as he started moving, “I’ll wait this one out.”
+
+Siska seemed eager and unleashed his dark spirit space without needing to be prompted.
+
+Following suit, Aster imposed her space onto reality, changing the open fields rift into a winter forest. Across from her, the lively forest descended into darkness, but in the middle where their spirit spaces touched they seemed to clash like hot oil and water. Both of their spirit spaces tried to expand into the other, but it was like pushing into a similar magnetic field. The deeper she pushed, the harder it was to make further progress until she was repelled and flung back.
+
+The same seemed to hold for Siska. Anywhere he pushed resistance increased, but it was in those clashes that she realized his spirit space seemed deeper. It wasn’t solely based on Tier, though she was sure that was helping him, his spirit space simply felt more solid than hers. Where she struggled to make a foot of progress, he was able to push in two or so feet before he really started to strain and struggle.
+
+Aster also swore she felt a skill being cast using the spirit space itself, allowing the skill unheard of range. She hadn’t yet identified the skill, but it was contributing to his space's solidity. She thought it might be some variation of [Stabilize Space], but the flavor felt wrong.
+
+Feeling no issue in satiating her less invasive curiosity, she asked, “Do you know how you increased the depth of your spirit space?”
+
+Balfa was the one to answer, though he did so by adding his own spirit space into the mix instead of words. Facing the two of them, she would have struggled, but they didn’t press their advantages. Instead the three of them kept that equilibrium, carefully sensing each other’s spaces without making too many waves and interfering.
+
+However, when she didn’t understand, Siska spelled it out for her. “Chosen or not, we’ve had our spirit spaces for a lot longer than you, no matter what metric you measure by. We’ve grown with them on every step of our journey. When we awakened, I would have said my spirit space was about compression or maybe shrinkage, and while I don’t necessarily think that's wrong, I do think that was only a starting point. Your sapling analogy struck a chord with me because it's close to what we did. By pushing our spirit spaces to do new things, we added what you call depth. Though we typically call it flavor, because we don’t like the implication that some additions are better than others. Maybe some are, but that's how we start bickering. It's better to avoid some issues between siblings.”
+
+Aster shot Allie a look, but her friend refused to give her a hair of leeway, mouthing ‘bullshit’ where only Aster could see her hiding in Balfa’s shadow.
+
+Sharing some of her own insights, Aster told them about her attempts to grow plants inside and how few successes she had relative to the failures.
+
+Balfa even had an interesting observation. “If spirit spaces aren’t inherently Talent derived, then maybe they are typically spun up from a singular idea. Chosen Wraith, your spirit space is related to cold or maybe winter. When I feel your spirit space it's like it’s alive, but it's not. I’m not sure how to describe it. There is life, but it's all cold and draining. It's not a place for my life, but it's still life. I—”
+
+Cutting himself off, he shook his head, but Aster urged him to continue. “Please don’t hold back if you are worried about offending me or something. These are exactly the type of talks I want to have by getting similar people together.”
+
+Acquiescing, he gestured vaguely off to the side where her tree had been. “There is life that I can interact with, but it's more like an exception than the rule. Or that’s the feeling I get. My intuition tells me that if I worked really hard, I might be able to expand what I consider life so I’m not so at odds with your type of life, but I'd be going far out of my way, so to speak, if I wanted to encapsulate your definitions of life in my spirit space. I’m not sure if that’s true, or how I’d even start going about such an expansion, which was why I wasn’t going to mention it. If I had to guess, getting more plants to grow would be similar, but much harder than trying to get my spirit space to preserve food without it rotting. I found a single thread that was close to what I wanted, preservation, and used that single thread to slowly weave a tapestry. You have things growing, propagate them while continuously trying other plants new and old alike. As you expand, you might find ways to incorporate them.”
+
+Siska added his own insight, giving her more to think about. “I did the same with expansion and layering of space. However, as much as I hate to admit it, our Talents might be bad representatives of what a non-Talent spirit space might be. Speaking frankly, our entire Talent sets revolve around the spirit spaces. Talent crafters are often the worst teachers for good reason, and I can guarantee we aren’t the exceptions to that rule.”
+
+Aster actually agreed, but she verbally denied the claim, not wanting to let them wheedle out of the club she was trying to make. She knew that tactic all too well, having used it herself more than a few times, and wouldn’t let them pull that move over on her.
+
+They were joining her… club.
+
+She really disliked the word club, but she didn’t have a better idea in mind as she enchanted contact information.
+
+With no Ascender Chat to relay messages at instant speed, they would be relegated to slow messages, but she saw that as an advantage. The group, whatever she ended up calling it, would hopefully be more inline with research partners than casual friends. Longer, more detailed and thoughtful messages sounded perfect for what she had in mind, rather than the rapid fire exchanges that happened in the Ascender Chat.
+
+Maybe she should cut the middle man and make it a forum from the outset?
+
+She actually liked the idea.
+
+She liked it quite a bit.

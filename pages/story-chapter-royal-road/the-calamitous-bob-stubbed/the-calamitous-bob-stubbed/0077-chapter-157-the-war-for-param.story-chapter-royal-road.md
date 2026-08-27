@@ -1,0 +1,517 @@
+---
+id: 32974daa-ceee-5087-a6a2-5cad2be670c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 157: The War for Param."
+slug: 0077-chapter-157-the-war-for-param
+partOf: the-calamitous-bob-stubbed
+position: 77
+ownLength: 5945
+unit: words
+ownProgress: 5945
+publishedAt: 2024-03-22
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1564195/chapter-157-the-war-for-param"
+royalRoadId: "1564195"
+markedReadAt: "2026-06-29T21:17:29.170Z"
+---
+
+“Nuée.”
+
+Viv’s spell traveled over the heavies with a loud whomp, then the thick dark ball expanded in a malicious cloud of devouring miasma. The ravenous fog traveled across the plane with a terrible hiss, leaving behind nothing but half-voided corpses. To her left, a beautiful cloud of moisture covered the allied ranks with a calming mist. A quick glance revealed where the water came from. An entire company of Neleti had been turned into so many desiccated corpses, and yet, it didn’t matter. New squads sprinted over the distance, impaling themselves against the heavies with desperate fury. The men held their ground with grime determination, yet even their formidable armor could not protect them entirely. Blood was spilled.
+
+The savagery of the foe left Viv flabbergasted. Gone were the methodical attacks and breaks of before. Now, the strange lizard beings assaulted her army relentlessly and the focus of their hatred was clearly and concerningly, her. There wasn’t a single moment of respite for the One Hundred. Every enemy that fell was instantly replaced by a fresh one. At least, they could not cycle-charge into her ranks.
+
+“Dammit.”
+
+Viv interrupted her next spell when she saw the arcing forms of crimson divine spells heading straight for them. All of them. The siege engines spew flames across the skies.
+
+“Need some support there,” Viv said.
+
+The spell arrays were several hundreds of meters away and she wouldn’t have the opportunity to do anything but defend.
+
+“On it,” Sidjin said.
+
+“Calibrations complete,” a voice clicked.
+
+The first yries projectiles launched, much faster than spell. They crashed against a blood-colored shield without much success. Soon, she had problems on her own.
+
+“Aspect of the Guardian.”
+
+Her first interception spell split the enemy attacks without breaking them. They fragmented, yet they could not be made to change course. They would land where Viv was and that was it. It was their fate to collide, it seemed.
+
+//Your Majesty!
+
+“I got it! I got it!”
+
+Viv was forced to use Durandal spells at point blank range, the aspect shortening her range. She managed to detonate most of them but the rest hit the huge shield, sending drifting shockwaves across its surface. Viv replaced the damaged segments as fast as she could. The pressure increased dramatically while her reserves melted. She was forced to pick apart attacks designed to land no matter what. Her focus narrowed until the battle faded from her perception. There were only shimmering hexes wrapped in divine mana aimed at her, not the place she was, not the tank, her specifically. Viv peeled off the spells and broke it apart in a contest of will between her and the Nemeti’s unshakeable belief that she should not exist. With so much of their mana above her, she could almost taste their horror, their rage at her nature. The duel continued and she realized she was losing ground. More and more damage accumulated on the array. The Nemeti were going through her aspected defense by throwing everything they had.
+
+And then, the assault lessened a little. Her focus broadened until she saw servants coughing and holding their throats, the siege weapons discarded. Sidjin’s answer manifested as a portal blinking into existence next to another pair of arrays. The portal closed almost immediately, leaving behind a small sphere hovering above the ground, which the Nemeti fled from in an instant. It wasn’t enough. Unfurling like a flower, a transparent grinder pasted everything in a thirty meters radius including servants and several machines. So, that was what he’d been working on, Viv realized. She realized he had just created a mid-range attack that went through shields.
+
+She’d have to steal it somehow.
+
+The pressure decreased and her shield regained its luster. Unfortunately, that was not the end of Viv’s woes. More reinforcements were rushing in from over the horizon, confirming what the Hallurian speaker had said. Now that some of the Nemeti had made contact, they would converge like flies drawn to a wound. There was blood on the water and they were here for it. This was merely the beginning.
+
+“Brace!”
+
+In front of the One Hundred, a large gap had formed. The distant, hooded figure had regained control of his troops and now she had to contend with his intellect as well. Cavalry was massing ahead of the thin line of spears and Viv didn’t dare release her aspect lest the spells still falling towards her might still pierce her defenses.
+
+“The knees,” Poacher screamed, “Get their fucking knees! KNEES!”
+
+The marksmen commander rallied her troops. Feathered bolts lanced the scaly legs of the Nemeti mounds as they gathered, many falling before the attack could start. A part of Viv knew this was a lot of ammo, more than they could spare, but they had no choice. She had to rely on them now. It was their war as well.
+
+Needled and exposed, the Neteli mounted riders charged before they could truly form up. Three-meter tall, velociraptor-mounted warriors were still a terrible sight to behold. And she couldn’t help. There were still too many incoming spells.
+
+“Tighten the formation! BRACE FOR CAVALRY,” Ban roared.
+
+As one, the heavies raised their spears up and planted their shields down. The back ranks placed their hands on the shoulders of those before them while the markswomen fired nonstop. The velociraptor’s skull plating made killing blows difficult despite the crossbows’ penetrating power. Viv suspected a skill was involved.
+
+“Cross fire,” Poacher ordered. “Right to left, left to right. Get them!”
+
+Around Viv, the Sisters turned their weapons at an angle, attacking in diagonal where the eyes were exposed. Ululating warcries rose when their quarrels found tender flesh. The charge collapsed because the mounts kept dying, blocking those who came behind. The effect on the Nemeti was devastating yet, if anything, the witchpatchs’ prowess only seemed to anger them further and the survivors still made for her with maddened determination. Fiery explosions bloomed across the struggling ranks, adding to the chaos. Rakan’s touch. He was coming to support her, but he wouldn’t be on time.
+
+In clumps, the remnants of the cavalry assault fell on the heavies. Ban stood among his men. He lifted a battle standard displaying the black and white flag of his nation.
+
+“Harrak eternal!”
+
+Viv felt him come to life. Mana rushed through the lines and the One Hundred, normally silent, roared in defiance. Raptors claws fell on their shield and the monster pushed back the man, but not his companions. Feet dug in, hands holding shoulders, the line buckled and yet, despite the difference in weight and power, it didn’t break.
+
+And then it bounced back.
+
+Spears thrust up, skewering tender underbellies. The heavies hacked and punched through scales with steel fury and the riders died with their mounts, except for one. A large red specimen didn’t stay with his mount. Instead, he jumped up and above the heavies just as the charge came to a grinding halt.
+
+Viv watched him, the beady, slitted eyes, the crimson scales, the stony armor above it. The Nemeti was easily twice as tall as she was and it was a mass of lean muscles. Two bolts jutted from his forearms yet he showed no signs of pain. Twin dark scythes descended on Viv.
+
+She didn’t break the shield, only watching him impassively, because she knew she wasn’t alone.
+
+At the apex of his jump, the Nemeti slowed, then as if tied to an elastic string, he was pulled back. His muscular body crashed on the ground between Viv and the heavies.
+
+//NOT SO FAST.
+
+Solfis released the creature’s heel. The two deadly combatants faced each other. Even the maddened Nemeti knew Solfis was not the sort of opponent one could ignore.
+
+//I NEVER HAD A SKULL QUITE LIKE YOURS.
+
+Viv didn’t listen to what the Nemeti spat back. She guessed he was one of the ruling class ones. If so, they were throwing a lot of assets in order to kill her. Her eyes searched the battlefield for what was happening. Sidjin was holding the right. His group had linked with Duke Falstag’s rough soldiers and now they anchored in a defensive position. Sidjin protected them by the expedient means of mincing anything he perceived as a threat. The enemy seemed to pace themselves as a result. In fact, the entire Baranese group had rallied and they were now advancing, covered by their archers and mages. More spells reached the Nemeti shields which forced their priests to focus on defense as well. On her left, Lana’s group was contracting and turning to prevent them from being flanked, denying the engagement. She was also turning the ground to mud at their feet which made charges that much more difficult. Nevertheless, the Children of the Scales was the most battered group.
+
+It was really the center that was getting the most pressure.
+
+Viv swore and focused on her defenses again. All the siege weapons were aiming at her and only at her. Some of the more armored Nemeti companies were rotating behind their lines to move towards her, larger creatures with giant hammers. They wanted her extra dead. She’d never felt so flattered before.
+
+Despite the difficulties, pride filled her chest.
+
+It was working.
+
+Her setup was working. The tercios were functioning just the way she’d hoped. Right now, the Harrakans were out-performing everyone else and they were doing so with minimal casualties. So long as those shields were maintained, her people would make it. She just had to keep them up. It was all up to her.
+
+If she died…
+
+No, she wouldn’t. Not now. Too much depended on her. The Nemeti wouldn’t be so enraged if she wasn’t a threat. So she allowed herself one tiny smile, then she returned her full focus to keeping the shield up. For a moment, the stalemate was maintained which was costly for the Nemeti, but soon drums redoubled their sounds and the enemy disengaged.
+
+“They’re going to charge again, Your Majesty,” Ban said. “We have to keep up with them.”
+
+“But the markswomen…”
+
+“Can still cover us well if we move up by thirty paces.”
+
+“Alright.”
+
+The One Hundred were the first to close the distance, preventing the Nemeti from charging again. Viv noticed they didn’t use their charge skill and she knew why. The day was nowhere close to finished and the men would tire quickly.
+
+Infantry moved forward across the entire frontline. They ran down the slope to engage the retreating Nemeti while archer lines moved forward. The southerners were particularly effective in that. Viv heard great bellows coming from their ranks and the battle grew fiercer. The fight seemed to shake the Nemeti, somehow, and their fervor cooled. They were still determined.
+
+The battle devolved into a brawl which the Nemeti were losing, badly, thanks to the Harrakan mages. Viv still focused on defense until the surviving siege engines withdrew after one more Sidjin-bomb teleport.
+
+Soon after, something changed. The drums rolled again and their forces retreated slowly over the flatter ground. The Paramese couldn’t follow there. They would be overextended.
+
+A mountain of bodies were left between the two armies. Horn signals and a few runners ordered the Harrakans to pull back. On their way, the witchpact recovered as many bolts as they could, finished off the enemy wounded and rescued everyone they could find. Camp followers soon appeared with pots of food, with squads taking turns to eat and drink. Many of the heavies sat where they were, eyes searching the horizon.
+
+“What’s the ammo situation?” Viv asked Poacher.
+
+“Got girls ferrying more bolts from the camp. At this rate we’ll go through all we have in two days.”
+
+“Even if we recover lost bolts?”
+
+“A day if we don’t.”
+
+Dammit that was bad news. More bad news appeared on the horizon in the form of reinforcements. Groups of Nemeti arrived ready for battle, possibly having stopped in their camp to drop supplies. She noticed that a great many were also dragging dead away from the no man’s land between the armies. She knew what it meant. They were having a late lunch as well.
+
+That cut her appetite.
+
+“Your Majesty?”
+
+Viv turned to see a runner, a young girl who had recently joined the temple as a healer.
+
+“Yes?”
+
+“We have a problem with our healers and the refugees. Brenna said not to worry and that they were on it and in the meantime, our wounded are being healed by servants of Enttiku who recently arrived. We just wanted to let you know.”
+
+Viv remembered that Brenna was the leader of the temple healers. She was in charge of the Harrakan infirmary.
+
+“What sort of problem?”
+
+“I… I dunno, ma’am. She wouldn’t tell me.”
+
+“Hmm. You may leave, thank you.”
+
+Viv considered the message. Had she made a mistake? She supposed she would see soon enough. The Nemeti army was reaching critical mass again. Their numbers blotted the plain to the closest ridge and beyond in disciplined squares of ready fighters. She could feel the weight of twelve thousand pairs of eyes searching for her hated presence while the priests intoned instructions. She felt the intensity of their hatred. It wasn’t clear why they detested her so much. Perhaps she was dangerous, or perhaps her presence went against their outlook as Children of Fate. It wouldn’t surprise her if they saw her as a freak accident that needed to be erased.
+
+The drums beat again down in the valley. The Nemeti finished their preparations and soon, strange growls and hisses surged from their massed troops. They had split their cavalry in smaller groups now. There were also more squads of Nemeti wielding bolas, javelins, sometimes even stones. They were learning quickly but they still didn’t have an answer to the human casters. In fact, the siege machines were all hiding somewhere beyond the nearest ridge.
+
+There were so many of them and yet more kept coming. Viv wondered exactly how many of the Nemeti were present at the beginning of the invasion for so many to be left after crossing Halluria, not to mention crossing the isthmus. It must have been an army of armies. A horde.
+
+What was the Empire of Dawn and exactly how powerful was it? Viv hoped she wouldn’t have to find out any time soon. There were already enough of them advancing towards her position.
+
+Viv watched the Nemeti slowly make their ways up the slope. When they were close enough, they charged into a devastating torrent of magic. This time though, more troops tried to turn them.
+
+Viv lost herself in the flow of battle. While she ravaged any enemy in a cone in front of her, she was forced to pace herself in case the artillery engines returned. Worse, the rest of the casters were tiring. Sidjin, Rakan, and Lana had been fighting for hours and they were running on fumes. Only a trickle of spells still lashed at the Nemeti lines, mostly where the more dangerous elements converged. The air grew thick with the stench of smoke and the coppery notes of Nemeti blood.
+
+The two armies danced a strange back and forth over the course of the next hour. The humans followed the Nemeti while they retreated to prevent another free charge. Sometimes, they would stand and fight. Other times, they retreated, leaving the humans to recover their arrows. By that point, only Viv’s spells still spread devastation though the Shrill made pinpoint attacks, sending hives to sting bola squads to death. On the third return, the human lines started falling back by order of Jaratalassi. The Harrakans still held the left flank and by then, Viv wasn’t sure the Children of the Scales would have time to withdraw if the line collapsed somewhere else. And then, just as the Nemeti were sprinting up the slope, horns rang.
+
+Viv turned to watch a forest of spears exit from the pass, many-hued flags dancing in the wind. More horns came just as the Nemeti slowed down, unsure on how to proceed. The call of their drums grew more confused.
+
+The distant shape of the red-robed Nemeti moved to a group of advisors and Viv knew that for them, it would be too late. With Duke Eikart at its head, the human cavalry charged down. First slowly, then with increased speed as they tightened their ranks and lowered their spears, the charge caught the Nemeti at the exact sweet spot when they were slowing down. Harrakan troops cheered when they recognized the black plates engraved with blue roses on their flanks. Rollo was leading the left wing.
+
+The weirdest thing was that the Nemeti didn’t slow down. Instead of massing, they just kept running forward. It was as if they had never experienced a heavy cavalry charge. Perhaps, Viv realized, they hadn’t.
+
+The Paramese cavalry made contact with predictable results. There was a terrible clash, cries of terrors and the furious, blaring call of horns when hundreds of knights made contact. For the first five seconds, they barely even slowed down. Barded horses mounted by expert warriors trained from childhood backed by advanced skills and the best gear skilled artisans could produce showed their worth and for a moment, it seemed the entire Nemeti army would collapse here and there. Viv didn’t receive the order to charge, however, so she didn’t. More wounded were ferried to the back. Everyone was taking time to recover.
+
+Down in the valley, the robed figure finally regained control of his soldiers. He tried to cut the retreat of the cavalry by having squads close around them. Fortunately, Eikart and Jaratalassi easily saw through the ploy. They smoothly led their men back up. Once more, the Paramese alliance was left in control of the hill overlooking a mountain of cadavers.
+
+Just as Viv was preparing a new series of spells, the drums rolled again and the enemy… left.
+
+It was over for today.
+
+***
+
+Strangers worked in the Harrakan field hospital. Vi pushed back the sense of annoyance she felt at seeing unknown people on her territory, touching her more vulnerable people. It was misplaced. Those were servants of Enttiku doing their best to help as was their vow.
+
+“How are things looking?” she asked the head priestess resting against a wall.
+
+“Ah?” the woman replied, eyes glazed.
+
+She shook her head and Viv caught tufts of messy black hair tucked under her cowl. The woman was clearly exhausted. She also smelled a little ripe, possibly due to wearing heavy robes in a warm tent at the edge of the desert. Now that she was looking around, quite a few of the bandaged men and women lying in their cots were sweaty.
+
+“Oh yes, Lady Viv. Or was it Your Highness? Forgive me…”
+
+“Lady Viv will do fine.”
+
+“Yes. Greetings to you, milady. We have done what we could. Alas, sixteen of your people have ascended into the loving embrace of the goddess. The rest will make it.”
+
+Viv bit her lips. It was probably not bad for a day of intense fighting. One of her earth teachers used to tell her that most middle age armies lost people to exposure, disease, and during routs. On Nyil, superhuman bodies and powerful healing magic offset the results to a great extent. Divine healers could repair damaged intestines or mangled livers in a day, not to mention soldiers surviving blood loss that would have killed any normal human. It was staggering. It was still sixteen people she’d led to their death. The elation she’d felt at the success of the tercios melted. On an intellectual level, she knew it was a worthy cause and she was at the front herself. On an emotional level, there would be funeral pyres tonight.
+
+Viv buried her angst and resentment. She moved around the cots, greeting the wounded who were still awake and thanking the nurses of Enttiku for their work. Once she was done, she exited the tent to find Solfis and Zero Five looking around with vigilance.
+
+“Guys?”
+
+//Zero Five feels something.
+
+“The shadows whisper. Blood will be shed tonight.”
+
+“A surprise attack?”
+
+“No,” Zero Five replied, shaking his bald head. “Some like us. Assassins.”
+
+“Nemeti assassins?”
+
+“Perhaps.”
+
+“Fuck, I need to tell the other leaders.”
+
+Viv sent a runner to the command tent but she didn’t go herself. Her first action was to go and find Lana.
+
+“Yes?” the prim mage asked her at the entrance of her private quarters.
+
+Lana didn’t have a single hair out of place. She looked like she was five minutes away from attending a function.
+
+“I was wondering if you have any temperature control tools?”
+
+“Of course, I do, as you know very well.”
+
+“That was a rhetorical question leading to a request. Could you refresh the healers’ tent? It’s stuffy and I’d like everyone to be more comfortable. If that’s fine with you.”
+
+“The hospital? Oh! Oh yes, I can help. And I can improve the hygiene as well. I shall gather supplies and help them by setting enchantments. An excellent initiative, Your Majesty. Was there anything else?”
+
+“No, thank you. It will help.”
+
+“I shall be there right away.”
+
+There was one more place she needed to be. Asking around, she was directed to a remote camp by the forest surrounding the witch gate. Plumes of smoke rose above the improvised and unfortified camp. She walked there with an escort of One Hundred who didn’t take no for an answer, finding a pair of temple guards standing near the entrance. They tried to wave her away.
+
+“What is going on?” she demanded.
+
+“You can’t be here, milady. There is a plague!”
+
+Viv frowned. A plague? A disease? Ban leaned towards her to whisper.
+
+“Ma’am, if there is a magical plague and it escapes, the entire Paramese alliance will be at risk.”
+
+That was, Viv realized, probably the plan all along.
+
+Anger burned through her chest. Pure outrage locked her jaw as she struggled to maintain her composure. Those Nemeti had done that? The fuckers.
+
+“You get back. Zero Five too. Solfis stays with me.”
+
+“Your Grace?”
+
+“I’m immune to diseases because I’m half-elemental.”
+
+“What if you carry the disease with you?’
+
+Viv tilted her head. He was right. She couldn’t get close.
+
+But she could get above.
+
+Viv used a spell to float around the camp at a decent distance. Many of the guards were currently asleep or resting with difficulty while those who could still stand kept guard. Some of the prisoners were helping by carrying water and cleaning around. She noticed the healers hard at work trying to keep both refugees and sick temple guards alike though she would have preferred if they kept their strength to hep their own people. When the prisoners spotted her, they regained those bovine expressions of empty adoration she had seen this morning, to her dismay. The healers were more subdued. Most of them meditated, trying to recover from the ordeals of the day. One of the shapes on a nearby bed turned out to be someone she was familiar with.
+
+“Koro?”
+
+The brave amazon warrior slept fitfully in a half-open tent, the twilight sun showing her pale tone. She coughed.
+
+Brenna walked up to her at a slow pace. They stopped at a distance, Viv still hovering above the camp like the world’s most useless angel.
+
+“A plague then?” Viv asked in a calmer voice than what she thought she could manage.
+
+“Yes. It attacks the lungs and the digestive system as far as we can tell. The patients get dehydrated too quickly.”
+
+“And… I assume it cannot be stopped?”
+
+Brenna shrugged, exhaustion plain on her features.
+
+“It’s always the same thing. We do what we can to make them comfortable. We quarantine ourselves and those we can quarantine, like Duke Eikart’s interrogators.  We use healing spells to repair the damage, then…”
+
+She sighed.
+
+“The disease will spread among the healthy and the healers until we run out of mana and exhaustion sets in. Then people will start to die. It never changes. Such rotten luck.”
+
+“No, not luck.”
+
+Viv knew exactly what was going on. The Nemeti had sent the group ahead expecting someone to answer and that someone would have come in close contact with the enemy army, spreading the plague. The Nemeti were probably immune due to their different physiology. The absolute pieces of shit.
+
+“Ok,” Viv said to herself. “Ok, you want to play it dirty? I’ll fucking show you dirty. Just you wait.”
+
+Anger rekindled like a sweet poison.
+
+“Where are their leaders? Where is the Speaker?”
+
+“They were already interrogated, milady.”
+
+“Not for spreading the disease.”
+
+Brenna blinked, clearly misunderstanding.
+
+“They are vectors of contamination!” Viv exclaimed.
+
+“What?”
+
+“Urg. They are sent to infect people!”
+
+“But… no one would be foolish enough to try and weaponize a plague? It is a plague! A terribly dangerous curse!”
+
+“You guys don’t know about biological warfare yet. They’re doing it on purpose. They’re pushing sick people forward to engage armies first so when the Nemeti arrive, we’re all coughing and feverish. The absolute rotten pieces of shit. I’ll turn the desert into a mountain of skulls, starting with that eastern guard traitor.”
+
+“Wait!”
+
+Brenna breathed in and out a few times.
+
+“Before you summarily execute prisoners, let us ascertain the truth. If they are consciously helping the enemy, we will handle them ourselves. Your… theory certainly has merits, but plagues and other body calamities are the domain of, well, I won’t say his name here. Please, exercise restraint. Those people are too harried and desperate to be malicious and diseases are common among weakened refugees. Do not assume that they are evil when they could merely be… not too sharp.”
+
+“Come on, they crossed the entire isthmus and they couldn’t put two and two together?”
+
+“I appreciate you possess an outlander mindset, however I assure you, only the most foolish of humans would willingly act as an agent of the bloated one. If there are any here, we will track them down. I doubt it, however. We were quite thorough.”
+
+Viv smoldered but in the end, those assholes were not technically her prisoners. They were subject to the rules of Neriad. A part of her found comfort in the fact that, if the prisoners were indeed typhoid maries, Neriad’s punishment would be fast and really painful. She’d see the inquisitors do it.
+
+And she had better things to do.
+
+“Alright, I will be right back. There is something I can do that will help.”
+
+Viv flew away towards the nearby mountain. She landed near a suitable rock, then started to carve small pillars. Solfis raced to her soon after.
+
+//Your Majesty?
+
+“I don’t know how to help with magical plagues because I know too little about what causes them. Intent is a defining aspect of spellcasting.”
+
+//I know.
+
+//I taught you that.
+
+“I’m just setting the stage, Solfis. No need to activate the smartass module. Yes, I know! It’s always on. In any case, ‘kill hostile microscopic lifeforms’ is too vague. The glyph language is ill-suited to my needs and I don’t even know what the bacteria look like. It could also be a virus or a parasite. Or just a plain curse. Ugh. I really don’t know how to proceed.”
+
+//You did mention difficulties.
+
+“There is one thing that should help, though. Light.”
+
+//Light?
+
+//Could you confirm this statement?
+
+“Yes,” Viv replied, carving glyphs on the first stone rod. “Light. More specifically, ultraviolets and more specifically, UVC.”
+
+//I do not know this term.
+
+“It’s something I read about when I was studying epidemiology. There is a… a wavelength to light. It’s very small, but ultraviolet is pretty close to the visible spectrum and I have a light spell…”
+
+//With a slider to alter the wavelength.
+
+//Thus altering the color.
+
+“Yes! So I just need to make the slider longer. The spectrum humans can see ranges from around 740 nanometers to around 380 and the germicidal range is between two and three hundred, so using a linear scale…”
+
+Viv finished her light spell. She pushed the longer slider from the default light blue position to a deeper cobalt then to violet, then it was invisible to her.
+
+//I can still perceive the light, Your Majesty.
+
+“You can see outside the visible spectrum? Wait, of course you can.”
+
+//Irlefen believed it would be a useful ability.
+
+“Ok at least I know it’s working. We’ll just drop these around the camp. It should help reduce the transmission.”
+
+//Are there side effects?
+
+“Nothing compared to death by plague. They should be fine in the short run.”
+
+Viv worked on a couple of more of those, then decided to add a second slider with a soothing blue light on top of the other just for the placebo effect. She delivered the constructs soon after and received warm thanks from the healers. They were probably just glad to feel supported. Using the same technique, she ‘air-dropped’ more supplies. She used one last UV lamp to disinfect herself and hoped this would work. She was no real doctor, so that was the best she could do at the moment.
+
+Her next stop was the yries camp. The Shrill had gathered at the edge of their camp along with their parked vehicles. They rarely mixed with their human allies. Viv suspected it was half shyness and half rabid xenophobia. The Shrill really didn’t like humans very much if their choice of projectiles was any indication. They seemed to tolerate her though. Maybe because she’d killed a lot of humans.
+
+“Yes!” Lak-Tak said, urging her in one of their mana-woven caves. While Harrakan structures were built with all the elegance of brutalist architecture, the yries always spent time and effort making theirs look natural.
+
+Viv appreciated it. It dulled her concern and some of her anger.
+
+She would still make the Nemeti pay, of course.
+
+“We apologize. Today, not very useful,” he clicked. “Nemeti skin. Tough. Stingers won’t work well.”
+
+“But you have an idea?”
+
+“Yes! Two. Come see.”
+
+Lak-Tak guided her to a table where a Nemeti corpse waited, spread eagle and professionally dissected.
+
+“Wow.”
+
+“The Nemeti. They are lizards.”
+
+“I noticed.”
+
+“No. Cold blood. Need heat. Store heat. Spend heat. Move very fast.”
+
+“So that’s why they attack in bursts?”
+
+“Yes. Dangerous. By day!”
+
+The gears in Viv’s mind clicked into place before Lak-Tak could even finish his sentence.
+
+“The nights here are cold. Continental climate. A night attack?”
+
+“Yes! But not now. Too many of them. Overextend. But they have a weakness.”
+
+“Which is?”
+
+“Their mounts. Hard to control. We noticed.”
+
+“Uh, really?”
+
+“Yessss. Many resist. Powerful. Yet double-edged. We turn them against their masters. Use pheromones.”
+
+“How soon can you do that?”
+
+“Tonight.”
+
+“I’ll help.”
+
+“Yes. You do. You are decoy.”
+
+Viv frowned.
+
+“I’m not sure I like that plan. Can we not use stealth?”
+
+“You cannot. Fate cannot be hidden. Tonight, they come for you. And we go for them. Fair bargain, yes! You stay here as decoy.”
+
+“Ooookay. Fine. It’s a good start. I don’t suppose you have diseases that only work on Nemeti?”
+
+Lak-Tak shook his head.
+
+“Not yet. No know-how. Allies sick?”
+
+“The Temple Guard, yes. A plague. I don’t suppose you have something that can help?”
+
+“We do.”
+
+“I… Wait, you do?”
+
+“Yes! Follow.”
+
+Viv walked after the strutting owl-man. His long ears twitched with excitement as he led her into a buzzing room. There, in the center, stood a massive hive.
+
+The wax construction felt organic and terrifying at the same time, a little too sinister in the way it curved, reminding her of her worst walls. More strangely, it was a light brown with bright blue spot which gave off the strongest ‘I am poisonous’ vibes she’d ever seen outside of an Australian aquarium.
+
+“Honey bees!”
+
+Viv assumed the yries used the same word for ‘bees’ and ‘finger-long wasp’s scarlet misbegotten cousins with nasty hooked stingers’. That was the only reasonable explanation.
+
+“Errr.”
+
+“Oh yes.”
+
+The yries removed a piece of cloth from his pocket which he used to pat Viv’s armor. Her keen senses picked up a whiff of pungent, animalistic smell. Pheromones, probaby. The hovering cloud of definitely hostile insects drifted away as she sighed in relief. Lak-Tak approached the hive and pulled on a cleverly disguised drawer. Viv could hardly believe her eyes yet here it was. Honey on comb. She would be salivating were it not for the strange color.
+
+“Blue?”
+
+“Yes. Made from special mushrooms. And Harrakan roses.”
+
+“I don’t remember mushrooms having pollen?”
+
+“Crimson dancers produce sweet liquid. Lures insects. Eat small ones.”
+
+“Ok?”
+
+“Also mildly poisonous. Good poisons! In small doses, medicine. You take. Purges the body.”
+
+“And it will work on humans well?”
+
+“Yes. Magical! We take honey before battle. Soothes the mind. Helps us get closer to the Dreamer in the Depths.”
+
+A terrible chill crawled up Viv’s spine.
+
+“The what now?”
+
+“Our God. The Dreamer in the Deep.”
+
+Images of big tentacle monsters and cities of chthonian architecture sleeping in the abyss, in some long-forgotten recesses of the world the rays of the sun never touched, and… ok that was definitely a little too lovecraftian for comfort.
+
+“Hmm. And the god… does what?”
+
+“Listens to our woes and brings comfort and peaceful dreams.”
+
+“That doesn’t sound too bad.”
+
+“The Dreamer is kind and we wish to say goodbye before we are not. Take a pot! Bring it to your people. One spoon each.”
+
+Viv received the small jar with gratitude, then she was off again, ignoring a messenger telling her she was summoned to the command tent. The sick had priority here. Soon, she landed next to Brenna as she tended to Koro, Solfis tailing her just in case. The tall warrior was still on her cot, resting feverishly with her eyes closed. A tent covered most of her body but the head was left exposed in the quickly cooling air. She was sweating heavily.
+
+Viv liked Koro. Koro had married Kazar’s most handsome concubine and named her first kid after Viv. Koro had lost her arm and then Viv had found it again. Koro was one of the few left from the early days of Kazar, still herself after all that shit. Viv would save her if at all possible.
+
+With religious attention, Brenna dropped a dollop between the warrior’s blue lips. Koro licked them, then she opened her eyes.
+
+“Ooooh that is… Oh, that is REALLY good.”
+
+Brenna placed a hand over Koro’s forehead. A light gold radiance lit the evening air. When she removed it, she was smiling.
+
+“It’s working. The infection is being pushed back. Thank you so much, Viviane. This medicine is nothing short of a godsend. Please, tell the yries how much we appreciate it.”
+
+“Oh, I will.”
+
+“But why does the honey need to be hallucinogenic?”
+
+“It’s what?”
+
+“The effect is mild, I will grant you that. I still believe the medicine would be better off without it, especially because this specific patient has a history of charging through town naked to propose when subjected to significant excitement.”
+
+Ah.
+
+Lak-Tak’s mentions of ‘getting closer to god’ suddenly made an extraordinary and really upsetting amount of sense.
+
+“Your Majesty? Vivane?”
+
+But she would not answer. Viv’s mind was stuck trying to reconcile ‘I am a serious leader whose tactics carried my people through the day’ with ‘My entire artillery contingent goes to war high as kites on shrooms honey’, and no stats in the world could make that struggle any easier.

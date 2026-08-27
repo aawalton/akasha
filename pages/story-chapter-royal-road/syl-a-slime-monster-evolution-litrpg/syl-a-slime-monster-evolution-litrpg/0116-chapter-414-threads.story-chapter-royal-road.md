@@ -1,0 +1,103 @@
+---
+id: 20547dc6-dd49-50e1-9722-80be059cafd0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 414 : Threads"
+slug: 0116-chapter-414-threads
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 116
+ownLength: 2176
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3802944/chapter-414-threads"
+royalRoadId: "3802944"
+---
+
+The reactions to my newly acquired magic were mixed among the group, with Vee joking that I'd been tempted by the "dark side" and soon I'd be trying to conquer the world. My other personas, on the other hand, didn't seem to care and only asked that I not assign it to them, as they were already too busy with other work.
+
+Maybe I should make another [Split Personality]. They could work on [Light Magic] and [Death Magic] as a sort of merger of light and dark aspects. No wait, I'm confusing the magics again, that's Umbral or Shadow, not Death. I guess the counterpart to that would be Healing or Holy?
+
+I threw the idea aside because I didn't want to have to reduce our available cores again, and I still had the dumb personas I'd set up for my monster commanders that needed a bit more work. [Slime Puppetry] had also greatly increased their ability, as now I no longer needed a full slime domain to bring them out. I ended up running some tests, which caused quite a panic among Leon and the goblins when our island home was suddenly invaded by an army of ants.
+
+Thankfully, I had already ordered the commanders not to hurt anyone living on the island, so when the goblins banded together to fight the invaders, none of them were hurt in the process. In actual fact, it seemed like a pretty decent way to train them, since they thought they were fighting for their lives. Of course, they gained no experience in defeating a slime ant, but the same could not be said for their skill proficiency.
+
+This is once again proving that my slime dungeon is feasible. Also, with [Slime Puppetry], I no longer need to have the entire location made out of slime, since my minions can freely roam within the reach of a core.
+
+I tried several times to activate the CUBE, but my application remained stuck in a seemingly infinite 'pending' limbo. At this rate, I felt I needed to send Gramps a formal complaint, though I didn't exactly know how to contact him directly. It wasn't an exaggeration to say that my best bet of contacting him was to send a message to Mother through Vee when she evolved, asking for her help.
+
+I also considered breaking something to get attention, but after being threatened with erasure, that felt like a really bad idea. Besides, it wasn't like I had run out of things to do or that I was desperate to start my side gig as a [Dungeon Master]; my only concern was getting it done before the goblins potentially grew rebellious. Although judging by how smoothly things were running, that seemed highly unlikely at this point.
+
+The goblins had taken to the island like a duck to water, especially Yuzz. Her crafting levels were soaring, as she finally had access to some real materials to work with. Unironically, she might have been more excited about [Slime Puppetry] than even me, as this now lets her do trial runs on new materials before attempting it on the real thing.
+
+Yes, by creatively abusing [Chimeric Mimicry], we could make all sorts of fake materials, hides, and whatnot for her to play around with. The reason for this was that, while real metals were rather plentiful because Sylbera could routinely double any output using the dwarven method, the same could not be said for the rest. I still routinely used [Dissection], more out of habit than necessity, so we had a variety of bits and bobs, but, theoretically, they would eventually run out.
+
+Vee had come up with a solution: cloth, although that required us to seek aid from the elves again to get a few of their no doubt magical cotton plants. Naturally, I had questioned why Vee didn't just give Yuzz some spider silk, but sadly, I didn't get the chance to laugh at her for overlooking the obvious solution, as there was a real reason.
+
+"Yuzz doesn't have enough skill levels to work with my silk. I guess it's too high quality or something?" Vee replied.
+
+It sounded absurd, as Yuzz no doubt had higher crafting levels than Vee, who had only dabbled in weaving and tailoring, so it could only mean she was gaining some form of natural affinity bonus to work with it since it was literally her threads. This discussion actually revealed that Sylbera had a similar issue with materials like adamantine, mithril, and obsidianite, unless she first blended them with some [Metal Slime].
+
+"There's probably crafting tiers, kind of like magic," Vee suggested. "Just like you don't start off throwing around [Fireballs], you don't start working with the best of the best materials. You gotta start with cotton, or copper, or whatever before you get to use mythril or dragon scales or Vee's super-duper-awesome spider silk."
+
+I rolled my eyes at her explanation, especially that last part. I'd leave the crafting nonsense up to the crafters as I had no particular desire to pursue it myself. Enchanting was probably my sole exception since it had direct correlations to magic. I was happy to experience the rest vicariously through my personas.
+
+As for the trade, it was relatively simple. I just gave them a bunch of rare metals, and they gave me seeds to various plants they often grew. Their mastery over [Nature Magic] was profound, as they had various types of cotton for whatever you wanted to tailor, with my biggest surprise being one that was actually somewhat resistant to fire.
+
+Of course, Paeris asked me about the progress from my end, and I told him that I should have a spare network slot soon. I had even brought along Sylthaeryn for the visit while taking on an alternative elven appearance for myself, effectively pretending to be her aid. I hadn't actually told him of my success with [Split Personality] until now, so it was quite the shocking surprise for him.
+
+Sylthaeryn updated him on her own progress and gave a few demonstrations of her progress in [Nature Magic] and archery. His reaction to all of this was quite profound. I swear, we managed to crack a few layers through his rough exterior, as he seemed oddly proud of it all. In fact, he was so delighted that he offered to give the seeds for free, but we insisted he keep the metals, since they meant basically nothing to us at this point.
+
+As for the update on the elves' side, things were not looking good for the Dornhallows. Apparently, a majority of their higher-ups had fled after being isolated in their territory. If that wasn't an admission of guilt, what they had left behind was certainly cause for their heads to roll.
+
+"They killed their tree spirit!?" Sylthaeryn cried out in shock.
+
+Paeris nodded. "We don't know the details, but the tree was soulless and a mere husk of its former self. The only reason the general populace living there didn't notice any oddity was that it was still standing, in an almost state of undeath. The predominant theory is they used some type of necromantic ritual on it, perhaps using its soul as a weapon or tool, or just wanting to silence it permanently."
+
+It seemed needlessly cruel, especially for a spirit that had no doubt served their family for countless generations. However, Paeris revealed that if approved by the High Elf Council, the spirit could have been questioned by the great spirit of Caelthal itself. Whatever deeds occurred in the tree's presence could have been revealed, so they were forced to silence it permanently.
+
+"Do we need to worry about that?" I asked. "I'd rather not have Logan spilling all our secrets."
+
+"I wouldn't worry about that," Paeris said reassuringly. "First, I doubt you are doing deeds so vile that they would warrant any concern on your part. Second, it has only happened once in the entire history of our race. In truth, if the Dornhallows hadn't fled like this, it wouldn't have even been considered, as it's considered taboo since Caelthal herself doesn't wish to do it."
+
+It was a relief that I didn't have to worry about Logan suddenly turning on us. In fact, Paeris even admitted that unless Logan despised us for some reason, he would be able to warn us of such a request and even delay the questioning.
+
+The last thing we spoke of before departing was the Kingdom of Keld, since Keldenar wanted to establish diplomatic relations with the elves. I thought this would have been an instant deal, but Paeris actually hesitated on giving an answer.
+
+"If he weren't a human, it would be easier to stomach, especially after the Dornhallows fled. I know full well there is a difference between Outeatus, Renait, and this Keld, but it can be strenuous to convince the masses."
+
+"Renait?"
+
+"The Renait Federation," Paeris replied, but when I showed no visible sign of understanding, he continued. "That's where you are originally from. I'm genuinely surprised you didn't know its name."
+
+"Um… Would you believe me if I said it had never come up before? Although considering they changed the name of the capital city so much that it's just known colloquially as 'The Capital', can you really blame me?"
+
+Paeris actually gave a brief chuckle at my response, but he didn't press further. I naturally pointed out what I'd learned so far about Keld and even mentioned that the humans conspired to assassinate him, which seemed to at least break the ice. Of course, there were also the valuable golems, which even the elves had previously admitted to desiring, or maybe that was just Llewel.
+
+"I don't have the authority to approve this, but as the [Branch Head], you can at least start making contact," Paeris eventually said. "So you can send Sylthaeryn there for the time being as a representative. I suppose you could even make the argument that he's officially helping shelter her from the Dornhallows."
+
+"I wonder if that will actually draw any of them out," Sylthaeryn said.
+
+"Good point. You should mention that to the golemancer and see if he's willing. Then we could accidentally let the rumor spread and see the reactions. If he protects you publicly, that would certainly help the other elves see him positively."
+
+"Not that I need protecting," Sylthaeryn replied confidently.
+
+Paeris sighed. "Of course, but the point still stands. I honestly almost feel bad for any future assassin who might try to harm you; your presence alone has increased tremendously since your last visit. I can only imagine what kind of growth you've been through."
+
+"Just conquered a labyrinth, no big deal," I replied casually. "And ate another slime core along the way."
+
+I had no idea whether Paeris was impressed by that, as he showed no reaction. Our talks didn't last long after that, and we returned with our new spoils, which Sylthaeryn immediately started planting and tending.
+
+Before I let Sylvain off his leash again, I wanted to test my earlier theory and placed a core inside my [Personal Rift]. While [Slime Puppetry] might have failed, the uncapped [Core Collective] was successful and fully able to maintain and control any slime within the dimensional space, even when all apertures were closed.
+
+Being able to skip the step of connecting to the rift was more significant than I realized, and, better yet, I could even coordinate hidden attacks from within. While most enemies probably couldn't see dimensional tampering, opening apertures still required at least a gesture to activate the skill. The difference now was that I could have the core inside the rift tear space, giving the appearance that I had simply willed it to happen.
+
+I tested my theory with Vee, and it worked surprisingly well. Despite her having the skills and even an evolutionary affinity with rifts, she couldn't sense what my core was doing until it actually broke through. Of course, she had the reaction speed to dodge before I could actually do anything, but it was almost enough to ambush her. Against a more regular opponent, I couldn't see them stopping this.
+
+This sucks! [Core Collective] needs more levels!
+
+I genuinely considered a more drastic training regime. If my personas and I all routinely shattered a [Sub-Core], we were sure to speed up the process. I continued to be tempted by it, but, as if they had somehow sensed my intention, I received an "intervention" from the personas, politely asking me not to pursue this path.
+
+Even though this wasn't a democracy, I decided to listen to their request, as I didn't want them or my [Sub-Cores] to build resentment.
+
+Or maybe I'm being silly and all of this is in my head?
+
+Regardless, I temporarily dropped that line of thinking, as my personas assured me they would do their best to accelerate it with more humane methods. With Sylthaeryn about to migrate to Keld, that would probably also help to speed up the process.

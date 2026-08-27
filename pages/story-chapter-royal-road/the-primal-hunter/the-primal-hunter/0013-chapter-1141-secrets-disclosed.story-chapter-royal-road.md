@@ -1,0 +1,145 @@
+---
+id: 4534b5dd-48ec-5574-9ae0-0a5a2ff7f543
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1141 - Secrets Disclosed"
+slug: 0013-chapter-1141-secrets-disclosed
+partOf: the-primal-hunter
+position: 13
+ownLength: 2747
+unit: words
+ownProgress: 2747
+publishedAt: 2025-07-31
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2481372/chapter-1141-secrets-disclosed"
+royalRoadId: "2481372"
+markedReadAt: "2026-06-29T19:29:40.558Z"
+---
+
+It took a while for the Warpsnatcher to finally calm down enough that it was comfortable being alone. Artemis had definitely been right in that it could sense the power level of others, something that was really hammered home when the poor Warpsnatcher went outside and saw the giant Primordial tree in the distance. This resulted in the poor thing hiding in Jake’s arms for another few hours.
+
+The little fella was pretty quick at adapting, though, and while it remained scared of Artemis, it could at least exist in the same space after about half a day. It also helped that the castle or palace or whatever Jake wanted to call his residence had so many rooms, as that allowed the Warpsnatcher to go elsewhere if too uncomfortable.
+
+Also, it gave the C-grade somewhere to hide all its loot. The residence had a cellar area, and the Warpsnatcher quickly took a good section of it as its personal storage. Seeing as Jake wasn’t the sort to store fine vintages, he didn’t need the place he was pretty sure was originally meant to be a wine cellar.
+
+Once the Warpsnatcher had left and was busy setting up its own little home, Jake finally found himself alone with Artemis once more.
+
+“So, how did you find the Hunting Ground?” Artemis asked curiously. “You seem to have at least found it interesting based on you bringing something back from there.”
+
+“It was pretty good,” Jake smiled. “Killed my fair share of B-grades.”
+
+“I can see that based on your progress,” Artemis nodded. “Quite an astonishing speed considering your Path. However, I must warn you. Those B-grades are, to put it kindly, barely even qualified to be called that.”
+
+“Yeah, they were all very low tier,” Jake agreed.
+
+“Below low tier, I would say,” Artemis shook her head. “Bottom tier. These are creatures that, based on their own innate talents, likely wouldn’t have ever even made it to C-grade. The environment in the Hunting Ground was very curated to allow their growth and existence in the first place. Sure, sometimes there are standouts, but those are few and far between.”
+
+“Some of the variants weren’t that bad,” Jake said, considering things like the peak C-grade Simivita Chieftains. Sure, they were pretty weak, but not outright horrible.
+
+“I’m not talking solely about their stats but their ability to display their true power,” Artemis sighed. “As we talked about a lot, conceptual understanding and application are a cornerstone of the powerful. This comprehension is gained either through practice and enlightenment or innate understanding, either granted directly by the system or simply through nature.”
+
+Artemis held out a hand as wind began swirling above it despite no detectable amounts of mana being used. “Sylphie is a great example of a creature with high innate comprehension, though I do see she has also learned a lot by herself. However, even if she didn’t try, the Sylphian Hawk would have gained a high level of understanding merely from their race and inherited knowledge. The Warpsnatcher is very much the same. They know how to use their magic and have at least some level of understanding about how it works by nature. Meanwhile, the enlightened like you and I need to learn most things on our own, though we are given assistance through receiving more system skills.”
+
+“Meanwhile, I guess those B-grades had neither innate nor learned affinities?” Jake asked, having reached the natural conclusion of where Artemis was going.
+
+“Precisely. Of course, they have truly reached B-grade, so given proper practice and if they’re taught enough, even those B-grades may end up becoming halfway decent creatures at one point, though A-grade will be a long shot for any of them.”
+
+Jake nodded, at least finding it a bit comforting to know the Sovereign at least still had some chance to become stronger and not be stuck in low-tier B-grade forever. Sure, he hated the damn bird with a passion, but they had still been comrades in arms for a little while.
+
+“The Warpsnatcher doesn’t seem to fall into the category of weak variants, though,” Jake commented after a few seconds.
+
+“It’s not. Usually, a creature with a relatively high-level variant would be removed from a Hunting Ground of that level as it would upset the balance too much, but due to the Shimmerfur Warpsnatchers being non-combat focused, it was left alone. Also, it is the natural way of the Warpsnatchers to grow up in all sorts of different environments, so its presence was considered acceptable,” Artemis explained.
+
+“The poor little fella did find itself stuck, though,” Jake sighed.
+
+“Only until B-grade,” Artemis shook her head. “At that point, we would have had to move to remove the beast as its presence would truly upset the balance then. Even if the Warpsnatcher is not a combat-focused race, it would still be more than capable of slaying every other B-grade on that planet upon evolving. In the scenario where it didn’t do that, all treasures would be monopolized, and the balance once more broken. So in that sense, you removing the Warpsnatcher now is a good thing.”
+
+“Oh, yeah, totally did it for the sake of the future balance and whatnot,” Jake said cheekily as he had a thought. “Say... I’ve not really been able to figure this out yet, but do you know if the Warpsnatcher is male or female? Perhaps neither?”
+
+“It’s male,” Artemis answered. “You can tell from the ears. They’re more pointy on the males. At least while they’re still in C-grade. After evolving, their look changes based on the personal preference of the Warpsnatcher in question.”
+
+“What grade are Warpsnatchers normally?” Jake asked curiously. Peak races in the multiverse were natural B-grades and included things like dragons and other mythical beings.
+
+“Natural C-grades. They tend to spend the first few years while in D-grade accompanying their parents, but upon evolving to C-grade, they’re sent off into the multiverse to live on their own. Only upon reaching B-grade will Warpsnatchers usually try to look for a mate, starting the cycle all over again.”
+
+“They only reproduce with others of their race?” Jake asked curiously. He knew a lot of monsters had children with enlightened races or even other monsters. The powers of the Polymorph skill and the ability to take on humanoid forms all allowed for that.
+
+“For the most part, though, there are always exceptions,” Artemis said, looking at him curiously. “I must admit, you seem a lot more interested in Warpsnatchers than I would think.”
+
+“Yeah, I’m considering something... say, do you know if the Warpsnatchers have some kind of powerful ancestor they descended from? You know, like fire birds can often trace their Lineage back to phoenixes and such,” Jake asked, still doing a bit of research.
+
+“Not as far as I know,” Artemis shook her head, now looking even more curiously at him. She seemed indecisive for a moment before finally just coming out and asking something she had likely wondered for a while:
+
+“Say... is this related to your abilities as the Harbinger of Primeval Origins?”
+
+Her question meant Jake now had to consider matters. For a while, it had been common knowledge that Jake was capable of manipulating Primeval Origins, but the details around this ability were all kept very vague on purpose. The leading theory seemed to be that Jake had some kind of unique Soulbound item only he could use.
+
+Other theories included that it had something to do with Jake’s bloodline, but that there were some serious limitations to it, such as a cost Jake wasn’t willing to pay or some other requirement.
+
+The point was that only Villy and Jake knew the full truth. Well, alright, Duskleaf and Meira likely also knew for the most part, while his creations also had a good chance of knowing. However, he had never told any outsiders, and the Viper had made it clear it should be kept that way.
+
+It wasn’t necessarily a question of trust either, but limiting the potential of someone leaking the truth. The easiest way to limit exposure was to limit the number of people capable of exposing him.
+
+That was why Jake found himself unsure of what to answer. On the one hand, he didn’t want to keep a secret like that from Artemis, but on the other hand, he knew he would be keeping secrets no matter what. There were things about his Bloodline that Jake hadn’t even told Villy, and things would likely stay that way until Jake was strong enough that revealing everything couldn’t come back and bite him in the ass.
+
+Artemis seemed to notice Jake’s indecision and smiled comfortingly. “I understand if you want to keep that to yourself. We all have secrets that are best kept hidden unless we have no other choice.”
+
+Her answer only made Jake feel even worse as he sighed. Eh, fuck it.
+
+“It is related to that,” Jake finally answered. “I was considering helping the Warpsnatcher when he evolves to B-grade. Or at least try to.”
+
+Artemis, seeing that Jake had decided to open up, pried a bit further. “Are you sure that’s wise? Based on what I know, there are a lot of factions who would like to see your talents used to help them instead, and given the limited nature of the ability...”
+
+“Those limitations are heavily overblown,” Jake answered honestly. “There are limitations for sure, yes, but they aren’t that bad. I’ll also say that I’m not considering this only out of altruism and because that little fella is just so damn cute. I’m doing it partly for selfish reasons as I’ve yet to help a creature evolve to B-grade before, and I want that achievement under my belt before I evolve to B-grade myself.”
+
+Jake was being honest there. It was one of the things he had considered putting on his to-do list before evolving to B-grade. He already knew that the Records he gained from Sylphie, Sandy, and Vesperia were absolutely insane, and now, especially after having gained so many levels, he felt pretty damn filled up on Jake Juice.
+
+“If you don’t mind me asking... how does it work?” Artemis questioned. From the way she asked, she didn’t seem like she had high expectations of getting a straight answer.
+
+“Honestly? I couldn’t tell you,” Jake shook his head. “I don’t control evolutions or Primeval Origins. I just spur them on. Give them a little push into the light. Ultimately, the final result still depends on whatever creature is evolving.”
+
+“So, you have a way to add Records to a creature?” Artemis asked, pretty much hitting the nail on the head.
+
+“That’s probably the most accurate description, yeah,” Jake nodded. During this conversation, Jake also made very sure no one else was listening in. The barriers of the palace were already fully active, but Jake trusted his senses far more than them, and besides the passive observation of Villy, no one else was peeking.
+
+Speaking of Villy, Jake was taking this conversation relatively slowly to give Villy time to jump in if he felt the need to. So far, the Primordial hadn’t seen the need to comment or till Jake to shut the fuck up. Which was a good sign, right?
+
+Artemis once more looked deep in thought as Jake continued talking.
+
+“However, I can’t just summon Records out of thin air. I need something to get the process going. Records to light a spark under. I’ve never done it directly to a creature, and I don’t intend to do so either this time. If I want to help the Warpsnatcher, I need an item related to the Warpsnatcher’s Path for me to manipulate. Monster cores tend to fit best, usually,” Jake said.
+
+“So, in summary, you can use the core of a monster or some other catalyst of Records, manipulate this catalyst, and through that create an item a monster can consume?” Artemis asked.
+
+“In essence, yes,” Jake nodded. At least, that was all Jake had done for Sandy. He had infused a meteorite with Jake Juice, after which Sandy had eaten it, and eventually evolved into what they were today. Of course, that space rock had been a gift from the system, so it had quite intense Records to begin with, which was an important factor.
+
+With the Demon Prince after Nevermore, Jake had once more manipulated an item of immense Records to allow the Demon Prince to evolve and change into the Cerulean Demon King. However, that entire thing had shown Jake the dangers of what he could do.
+
+The Records couldn’t be too overpowering, or the one absorbing them would find themselves overwhelmed. With Sandy, they had gotten around it with the item originally being one granted by the system, the Records thus passive beyond imagination. With the Demon Prince, they had used the other method to handle overwhelming Records: an even more powerful being possessing overwhelming Records getting directly involved.
+
+“The entire process will involve rituals and stuff, but before I can do anything, I will need a catalyst to get things rolling,” Jake said. “Of course, I need to make sure I want to do this in the first place and also ask the Warpsnatcher what he wants.”
+
+“Would you allow me to assist in the process when the time comes?” Artemis asked, quickly clarifying what she meant. “There are few things that add meaningful Records to me as a god, but this Harbinger of Primeval Origins ability of yours is one I believe can add value to my Path. Just the mere fact I know the Harbinger of Primeval Origins name is proof of the potency of these Records.”
+
+“I’m not gonna say no, but I’m also not sure how you could help,” Jake said, scratching his chin. “Not outside of helping procure items and such. Having you be directly involved in the process will definitely mess things up, as adding the Records of a living god can’t possibly be smart.”
+
+“Any role I can play would be great,” Artemis smiled. “I suspect you already know this from the Viper, but the second you created the True Royal, an echo of Records was sent throughout the entire multiverse. Even I subtly felt it. The shift. This ability of yours can give birth to what perhaps once was or what could have been at the Origin of any Path. Of existence itself.”
+
+Artemis looked down and straight through the floor toward the Warpsnatcher that was currently busy sorting shiny rocks into three perfectly evenly sized piles. “With all our talk of concepts, I don’t believe I need to tell you that the conceptual power involved in this ability of yours transcends anything I’m capable of. It’s not merely the creation of life, but alterations of Origins. Of entire Paths.”
+
+Turning her attention back to Jake, she looked him directly in the eyes. “Thank you for trusting me with this knowledge. I strongly suspect I entered a very exclusive club of those who are in the know.”
+
+“You have,” Jake nodded with a small smile.
+
+“Imagining the other members of this club does feel a little frightening,” Artemis chuckled.
+
+“Hey, if it’s any comfort, then I've got plenty more secrets that only the Viper is privy to. And a bunch that he doesn't even know about,” Jake said in a joking tone, despite what he said being perfectly true.
+
+“How comforting indeed,” Artemis shook her head, briefly glancing down at the Warpsnatcher again. “Say, if you plan on effectively adopting this Shimmerfur Warpsnatcher, have you had any more thoughts on what to call him?”
+
+“Maybe he already has a name,” Jake said in a hopeful voice.
+
+“Only the enlightened or those who frequently interact with the enlightened tend to bother having names,” Artemis said.
+
+Jake cursed a bit internally. Vesperia had been so nice because she already had a name for herself. Jake didn’t have to do anything there at all. However, now, it seemed he was forced into another situation where his horrible naming sense could lead to him getting bullied by half of the people he knew if he ended up choosing another stupid name.
+
+I guess Snatchie is off the table already, Jake told himself as he tried to look at Artemis for help, as he nervously scratched the back of his head.
+
+“Say... you wouldn’t happen to have any good name suggestions for a Shimmerfur Warpsnatcher?”

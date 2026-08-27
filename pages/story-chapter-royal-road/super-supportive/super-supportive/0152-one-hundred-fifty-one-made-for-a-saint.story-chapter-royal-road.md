@@ -1,0 +1,419 @@
+---
+id: 45cb3922-5a30-574f-a73a-b987868d0047
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FIFTY-ONE: Made for a Saint"
+slug: 0152-one-hundred-fifty-one-made-for-a-saint
+partOf: super-supportive
+position: 152
+ownLength: 4934
+unit: words
+publishedAt: 2024-06-24
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1690642/one-hundred-fifty-one-made-for-a-saint"
+royalRoadId: "1690642"
+---
+
+151******
+
+“Look at that guy!” Alden’s exclamation was directed at Tiny Snake. Once again, they were alone in the hospital room together. Esh-erdi had been gone for over an hour, and Porti-loth had just left.
+
+Alden’s arms, legs, torso, and face were now coated in his healing birthdirt mask. He was supposed to leave the stuff on until it stopped feeling warm, and since being slathered in muddy potion didn’t allow for much activity, he sat perched on the edge of his chair while he watched footage of Joe.
+
+The current video had been filmed on Saturday afternoon. In it, the wizard stood on the roof of the very intake apartment tower that Alden had been living in until recently. Joe’s eyes were focused on a colored smoke marker that someone had cast out over the ocean, and both his hands were stretched wide in front of him, manipulating a tawny-colored auriad while he chanted at a machine gun pace.
+
+<<This is one of our favorite moments from the wizard some are calling The Bald General,>> the newsman said in Hindi. <<As we’ve noted on this show, he’s not wearing the uniform of an Artonan general, but the nickname is understandable. He’s offered us so many scenes of interplanetary brotherhood and hope. Our spirits are lifted—>>
+
+“Why is his auriad that big?” Alden demanded. “They come in sizes that big?!”
+
+<<—by images like this one.>>
+
+A ton of damaged objects—machinery, office chairs, lamps—suddenly appeared high in the air above the smoke marker and dropped toward the waves. The video slowed down and zoomed in to provide a better view of the trashfall.
+
+<<If you pay attention to that ceiling fan, you will see a symbol etched onto the blade very clearly. That mark is on every single thing in this heap. Truly amazing. We think he must have been gathering this supply of object-element materials for the past day, while lending a hand in other—>>
+
+“That’s just ridiculous! Some of the auriad isn’t even being used for the spell! It’s wrapped around his waist like he’s too good for the whole thing!”
+
+Alden had spent a few hours since his return to Earth looking up examples of auriads in use. Now that he cared about this one specific tool so much, a person casting with it no longer looked like just another wizard wielding one of their umpteen wizard toys. So he had been aware that other people had larger ones. He’d seen a few that looped around their owners’ necks or arms more times than his own would.
+
+But he’d been imagining that they maxed out at a reasonable length.
+
+“Where the hell does he keep it when it’s not in use?” he grumbled. “Does he wear it around his chest like a tube top?”
+
+Actually…that would be awesome.
+
+Protecting your auriad with your authority was as natural as breathing. So if Joe did circle it around his chest over and over and wear it as a tube top, then he had body armor as strong as he was.
+
+And that’s definitely strong.
+
+The falling objects hit the waves. Most of them impacted together with a dramatic splash, and the remaining ones rained down immediately after.
+
+Joe hadn’t stopped casting, though.
+
+<<He’s using these objects to exhaust the Submerger contaminant,>> the newscaster said. <<It sounds like a risky decision, but as you’re about to see, those marks he’s made on them allow him to pluck up every item again. We assume the power of his summoning spell overwhelms the contaminant’s hold on them.>>
+
+They cut to an image of the street in front of intake, which had been roped-off, and a minute later, as Joe’s chanting headed for a bass note, all of the objects he’d just plunged into the sea reappeared there in a big pile.
+
+His shoulders dropped, and he allowed the portion of his auriad that had been in use to join the rest of it around his waist. The Avowed who’d been guarding the area so that nobody would get killed by a falling hubcap sent up a few shouts of praise and thanks.
+
+Joe bowed his tattooed skull with a sort of humble nobility and then teleported away.
+
+“Why didn’t you and your oversized auriad just summon some lightning bolts, too?” Alden said. “For dramatic backdrop?”
+
+He was enjoying ragging on the gentle, helpful creature of power that was currently inhabiting the body of the six-foot-tall mad scientist who’d once offered…maybe jokingly…to pay him in bioweaponry. Truthfully, though, he was glad Joe was around.
+
+He had some questions about why Joe was around—who was teaching his classes? Was this his new parole?
+
+But he was still glad.
+
+All of the wizards who’d come were doing good work, but Joe was a tireless, magical machine.
+
+How freaking strong is his authority?
+
+He had nothing on Lind-otta and Esh-erdi as far as Alden had seen, and he wasn’t stopping any volcanoes. But he definitely seemed like he was rungs above most of the wizards who’d arrived to help. It wasn’t just that he was running all over the place without rest; it was the fact that everything he did was flashy, complicated-looking, and effective.
+
+On this channel, they had occasionally been commenting on wizards’ embroidery, pointing out symbols that were known to indicate various fields of magical expertise. Joe’s clothes said he was a giant nerd with high levels of achievement in at least seven different types of magic. Though exactly how high your mastery of “potion transmogrification” had to be before you started wearing it like a badge of honor was a mystery to Alden.
+
+I could ask Stuart.
+
+Their scheduled call was today. He was hoping for it to come in soon. He had a few hours to kill before he left for the school assembly, and though he was planning to say hello to Zeridee as soon as Porti-loth gave him the go-ahead, he didn’t know if that would even happen today.
+
+Conversation with a friend who isn’t a corn snake would be great right now. Somebody who wasn’t wrapped-up in the aftermath of everything that had happened here.
+
+Everyone Alden knew seemed to be busy with things he couldn’t involve himself in.
+
+Lute was stuck down in F after “hopping a police line to rescue my drunk idiot dad.” Alden was sure there was more to that story, but Lute seemed distracted by Cyril and the Velra family circus that had taken up residence in Aulia’s penthouse while certain coastal areas were temporarily off-limits.
+
+With The Span closed, getting between the two portions of Anesidora was a lot more trouble than it had been. The High Council was still negotiating with the Triplanets and the System to see if the local teleportation allotment might be expanded even more to allow for non-essential travel.
+
+Lexi and Kon had spent most of yesterday trying to get down to F to see their family face to face.
+
+Natalie had called Alden twice, but both times she’d been interrupted by other calls from people back home who were worried about her. She said her mom was trying to persuade her to not hang up ever again. “I’m afraid she’s gonna make me buy one of those ‘record my life’ drones so she can watch me on the computer all day long from now on.”
+
+Someone had threatened to use her, Hadiza, and Emilija as human shields during the disaster. They were supposed to be talking to the authorities about that again today.
+
+Natalie was perky. She said they were all fine. Emilija had joined a call briefly to say they were all fine, too, except for the fact that she’d had some kind of magical strength power-up and she was mad that most of the people she’d tried to tell about it so far were brushing it off as a hysterical misinterpretation of an adrenaline rush.
+
+<<I snapped a man’s arm, Alden! It made a breaking noise. Does that sound like an adrenaline rush to you? Does it sound like I don’t understand how my own body works to you? Oh…Lute’s texting me again. Let me answer him this time. I’ve been so busy. I thought my cousins would never get off the phone.>>
+
+She’d left, and Natalie had hung up on Alden shortly after.
+
+Is it strange that I’m more upset about what happened to them than they are?
+
+The girls seemed to have decided that it was a few crazy people on a crazy night. He felt like it was a depressing datapoint to add to all the others he’d collected recently. It made him angry and sad, and he wanted to brush it off like they were. But he could feel it being added to the dark little pile of things he was going to be forced to look at eventually.
+
+When he couldn’t find anything to distract himself. Or when those two Peace of Minds had to be paid back.
+
+Those are going to hit like a truck. Followed by a bigger truck.
+
+For now, he was allowing himself to pretend the debt didn’t exist.
+
+He checked the time. It was six in the morning--too early to call and bother people even if they weren’t all sorting out their own lives.
+
+I could try to sort out my own.
+
+The thought came with no convenient follow-up plan.
+
+He’d tried to touch base with everyone. He’d received his healing treatment and drug regimen for the morning. He’d learned what was up, more or less, with his current living situation. It was, of course, too generous of Esh-erdi.
+
+And he’d done all of his homework.
+
+What do I do now?
+
+It would have been a perfect chance to practice some spells if not for his hand. Porti-loth had said not to move around too much while he was potion-covered.
+
+If I were someone else I could fool around with my skill, but I’ve got the special one that can’t be used without another person.
+
+My skill…
+
+“I did a new thing.”
+
+A major new thing at that. He’d somehow managed to keep Zeridee preserved without holding her in his arms. He’d borne a physical burden without bearing physical weight.
+
+It was a breakthrough he’d been hoping for. If he’d done it after practicing for days, if it had happened in gym, he’d have been so excited and proud. Like he had been just a week ago, catching the tennis balls Big Snake had thrown and finding the mug of soup Haoyu had hidden.
+
+And he was glad to have proved Bearer was capable of it. But his pleasure was more of an intellectual checkmark than a true thrill.
+
+Emergency skill progression isn’t much fun. The crisis takes all your energy, and the progress you’ve made feels like just another out-of-control thing that happened to you in the middle of a hundred out-of-control things happening to you.
+
+He also didn’t know how it had happened. Or if he could repeat it.
+
+Alden turned off the volume on the news and closed his eyes.
+
+All right, how is The Bearer of All Burdens doing today. Anything worth noticing?
+
+He took a long look at himself.
+
+The concept of the skill as a powerful but ugly machine—one he’d been tortured into the shape of—lingered. He was afraid it might always linger. But it was giving up ground to the prettier, more flexible origami metaphor. Alden wondered if it would change again and again as he aged or if this one would last.
+
+Maybe people like Esh-erdi don’t even bother with metaphors. Maybe they just get what they are without having to partition themselves for sanity.
+
+Good for them if it was true, but he was sure he was nowhere near that.
+
+Nothing about the skill’s shape seems different than it did on Friday.
+
+He didn’t know if he’d expected that kind of change or not.
+
+But it might be stronger.
+
+It definitely is.
+
+He was surprised he could tell that much definitively. It had only been a long weekend since he’d taken a self glimpse, and in addition to that, he didn’t think he was much good at judging strength increases when he wasn’t in the process of using the skill.
+
+Right now, he could tell because the strength increase had been more skill-favored than normal. The proportion of bound-Alden to free-Alden was different than he’d expected, and he felt unsettled because of it.
+
+This is a good thing, he tried to tell himself. For the bound authority’s growth to outpace my free authority growth even by a little bit is good.
+
+Uncommon, too.
+
+He was sure, based on what both the Artona I kernel and Earth had told him, that it couldn’t be a frequent occurrence and it wouldn’t last. The free authority would catch back up and eventually surpass it, and Alden would have to affix.
+
+Let’s think of more soothing things. Like how I almost drowned on Saturday and how that led me to some kind of a skill breakthrough.
+
+Eyes still closed, he tried to remember what it was he’d done to keep Zeridee safe when his arms had lost their grip on her. When he couldn’t figure it out, he went backward again, dragging his own memories into the light. Trying to picture the moment without having to relive it, as if that was an easy thing to do.
+
+The water rising, the candle, hoping, pushing open the door to the roof…giving up on hoping, giving up on Earth.
+
+Asking to use the privilege.
+
+I did that. I said yes.
+
+Now, he was glad he’d been rejected. But he couldn’t forget that he’d done it.
+
+I said yes. And she said no.
+
+And then…I was going to die.
+
+A submerger particle had caught his shoe and dragged him along the roof. Over the edge. He knew there had been pain, but it was a less visceral part of the memory than the helplessness.
+
+Dragged, banging into things, accidentally letting go of Zeridee…not realizing I had. Not realizing I was only holding onto her with my skill.
+
+How had he done that?
+
+I have no idea.
+
+He did remember thinking that there had been a shift in the way the skill felt even before the end. He’d noticed it after that earlier wave had knocked him off his feet and thrown him into the place with the peculiar chairs. He remembered being grateful that his hold on Zeridee felt more solid than it had when they’d set out together.
+
+Like I was less worried about dropping her even though I was tireder, weaker, and hurt.
+
+Alden considered it for over an hour, only occasionally being distracted by a patch of his mud mask getting extra warm.
+
+He arrived at some unsettling realizations about his own state of mind during the disaster.
+
+Zeridee-und’h had pressed a lot of important emotional buttons from the moment he’d met her. They had saved each other’s lives in the greenhouse. He had liked her, respected her, and worried about her.
+
+That all felt right, based on who she reminded him of and how she’d treated him.
+
+Trying to help her had been right.
+
+But as he’d carried her, as everything had gotten worse over the hours…at some point, dropping her had become something that wasn’t even an option in the back of the back of his mind. No matter what it cost him.
+
+And he didn’t know if that part felt right.
+
+Here, in this place of safety, Alden didn’t think he would die for Zeridee. If someone handed her to him right now, he would try for her. And he would take risks. And he would care.
+
+But there was a sense of self-preservation to tone it all down.
+
+It wasn’t like I had no sense of self-preservation when it happened, though. I didn’t go insane. I wanted to live still. I just got so into bearing my burden that it felt like…
+
+How did it feel? Getting it right seemed like it might be important.
+
+Like we were less separate.
+
+He remembered trying to swim toward her. He’d had such a strong sense of where she was that he’d thought at first he was still holding her.
+
+A gravity like the sun.
+
+And even when Esh-erdi had pulled him from the water, he hadn’t been able to think of anything else but getting her back.
+
+I care about Zeridee. But I feel like drowning would normally have made me a lot more self-centered than that.
+
+“Self-centered,” he said suddenly.
+
+What if there’s no real trick to it at all. What if I was just being extremely self-centered?
+
+Artonan concept of the self.
+
+Last Monday, the skill had showed him exciting new things when he was catching the tennis balls. From that experience, he knew that The Bearer of All Burdens revealed more of what it…he…really was when he was feeling more aligned with it.
+
+He’d almost fallen into a trance playing catch with Big Snake. It had been intentional in that case. Satisfying.
+
+This might have just been the same kind of thing. On hard mode. Maybe as the hours passed and things kept getting worse I was aligning my whole self with the skill more and more without even realizing it.
+
+He opened his eyes.
+
+“What if my magic just started working better because I was half-dead and really dedicated?”
+
+Recalling exactly when he’d started to feel that his hold on Zeridee was completely secure was difficult.
+
+It was after I got rolled by the wave, wasn’t it?
+
+Before then, he’d been more conscious of the fact that he was struggling with her.
+
+I already know Bearer is into me being burdened. It derives power from sacrifice. When I got hurt trying to carry her…
+
+There was something there. A piece of the truth.
+
+Obviously the truth is that my skill was designed by alien sadists. The magic just magics better when I genuinely suffer and genuinely care about the burden I’m bearing.
+
+It’s a skill made for a saint.
+
+Pros: Zeridee was still alive.
+
+Cons: This was not an easily repeatable experiment. Being a saint took a huge toll on the body and mind. Alden didn’t like the idea that he might have tranced himself into ultra-Bearer mode without realizing it. He didn’t even know what he meant by ultra-Bearer mode. If he was his skill, then did that mean he was destined to become more like what the creators had imagined? Did he have control over that? How much did his personality affect what The Bearer of All Burdens was…and how much did being The Bearer of All Burdens affect who he was?
+
+He groaned and slouched in his chair, ignoring the fact that he was probably getting mud on the back of it.
+
+“You’re being a weirdo. Stop it.”
+
+Avowed had distinct personalities that differed from their affixed talents. Knights seemed to, too. He wasn’t going to turn into someone who’d die to protect an ice cream cone he had preserved in his pocket. Probably. Maybe.
+
+I wish…
+
+He thought of knights, Avowed, his old friends, his new ones, Kibby…the lost concept of home.
+
+He wished for a lot of things he couldn’t have.
+
+When the potion stopped developing spontaneous hot spots, he took a long shower to wash it all off. As it flowed down the drain, he found his bruises had disappeared. The smaller cuts and scrapes had become red marks that looked like they would heal and fade quickly. He was supposed to put his squishboot back on, but even without it, he could let his weight rest on his foot without wanting to curse now.
+
+The deep gash that had made his hand throb still had an ache to it when he opened and closed his fist, but the wound was sealed. Alden studied it carefully, and then to celebrate, he cast his freezing spell on the water that had pooled in the shower’s soap dish.
+
+Okay fine. Esh-erdi shouldn’t have bought me a dump truck full of Tennessee dirt. That was super strange behavior from someone who might be the most highly ranked person on the planet. But my fingers are working great, so I’m not exactly unhappy that Esh-erdi bought me a dump truck full of Tennessee dirt.
+
+He watched the ice he’d made shrink in the heat. It slid out of the dish, hit the floor beside his foot, and slipped toward the drain.
+
+“Hey, System,” he said. “Thank you for keeping the planet safe. Good job. Have you ever wished I’d melt? Like an ice cube or maybe a snowflake?”
+
+When no answer came, he assumed this was one of the many times when talking back wouldn’t benefit its purposes. He looped the auriad around his neck while he continued rinsing off.
+
+[Of course Earth doesn’t feel that way about you, Alden.]
+
+He froze with one hand behind his ear. He’d found some stubborn mud back there, caught in his hair.
+
+[Do take better care of yourself.]
+
+Water was running into his eyes. He was too busy staring at the interface to blink.
+
+[You’re going to look so handsome in the uniform.]
+
+“What? I mean…I…”
+
+[Remember to thank my Esh for getting it for you. And have a good day at school.]
+
+Oh. The CNH uniform.
+
+Alden laughed. A release of nerves more than amusement.
+
+When he got a handle on himself and tried to continue the conversation, there was no answer.
+
+From either of them.
+
+******
+
+******
+
+He took his time putting it on in front of the bathroom mirror.
+
+The black jacket with the double line of silver buttons was a little sober and militant, especially from a distance. He didn’t think it was just memories of seeing the students wearing it at Hannah’s funeral that gave him that impression. But up close, the emblem on the left side of the chest and the cut of the jacket made it look more like it belonged at a school.
+
+For cold weather, there was a longer, heavier coat in a similar style. Optional gloves. Pins for class year, honors, and clubs could be worn. And, according to the rumors, some kind of short decorative cape was coming in the future if the third years had their way.
+
+I hope that accessory will be optional, too.
+
+The clothes fit well, and the shoes Esh-erdi had acquired for him were the right size. Or at least the one that he was wearing on his uninjured foot was.
+
+Of course everything fits. I have a System profile that lists my exact measurements.
+
+When Alden had asked the knight how and why the uniform had made an appearance, the answers had all sounded so sensible.
+
+Alden had said he wanted to attend school. To do that, he needed clothes other than hospital wear. School dress was important on the Triplanets; Esh-erdi didn’t want him to walk around campus inappropriately attired. And he didn’t want to violate Alden’s home by sending a stranger to rummage through his dorm room, either. So he’d had a brand new uniform and shoes “fetched.”
+
+As Alden took one last look at himself, he mentally added “campus store employee” to his growing list of people who were probably confused and alarmed by wizards running errands on his behalf.
+
+I do want to go back to school.
+
+It was one of the few things he wished for that seemed small and possible.
+
+It was going really well. It was feeling like a life I was building.
+
+He wondered if other students were hoping that today’s assembly would be to announce a break or an early end of term. The email had said they’d be hearing about scheduling.
+
+It was almost nine. The assembly was at ten. As far as travel went, Esh-erdi had said, “Do what you wish! I will find you when it’s time.”
+
+He’s not going to personally walk me into the school is he?
+
+Grabbing a quick breakfast seemed like the best way to ignore that question for a while longer and to keep Porti-loth happy. He’d told Alden to “eat the natural foods of your world as your body desires” after he was healed.
+
+He wasn’t sure if that was advice or a rule.
+
+Can I really not eat imports? he wondered as he made his way out of the hospital and headed for the cafeteria. For how long?
+
+Yesterday, he’d garnered confused and alarmed looks from wizards who’d been under the impression that Matadero was currently an Artonans-only refuge. They were treating the cube as a green room, which was hilarious. But practical, too.
+
+Anesidora was now short on housing due to the destruction, flooding, and ongoing just-in-case evacuation orders that were in place in many locations. On top of that, the wizards were subjected to a lot of questions, scrutiny, and requests when they were out in public. Having a location that they could run away to, one humans weren’t allowed to visit, was probably helping them maintain their proper wizardy behavior and discretion.
+
+Today, however, Alden was being either politely smiled at or completely ignored by everyone he met.
+
+At first, he thought they’d just gotten used to him. But as he walked through the lobby of the residential section, which was now full of wizards napping or working on mysterious group projects, he got the impression that both the smiles and the ignoring were a bit too committed.
+
+Did they have a strategy meeting about how to handle my presence and decide these were the best methods?
+
+By the time he made it to the cafeteria, he was wondering why a strategy meeting like that would have been necessary in the first place. LeafSong wizards hadn’t had any trouble acting Artonan-normal around him no matter what he was doing.
+
+The questions left his head as he entered the kitchen and took in the sight of the only other human living the Hotel Matadero lifestyle.
+
+“Kabir?” he said loudly over the sound of the Indian pop music that was blasting through the kitchen.
+
+There were a couple of Artonans with their heads stuck in the refrigerator, discussing whether a trifle was three servings or four.
+
+It’s clearly like twelve servings, you guys.
+
+And there was another wizard tasting a pot of tomato sauce and adding something goopy from an ornate glass bottle that didn’t look like it had been made on Earth.
+
+I’m not going to eat that then.
+
+Kabir was standing behind the center counter, bouncing his head while he speed sliced whole butternut squashes in time to the music. His hair was all over the place. Someone had given him wizard pants. He was singing.
+
+“Alden!” he said happily. “You need food? Everyone needs food! Petchkooooo!”
+
+Alden had a vague idea that petchkoo was some kind of Artonan gravy.
+
+He smiled at the chef. “I guess you finally got some sleep if you feel this energetic?”
+
+“Sleep? No!” Kabir used his knives to fling squash toward a baking sheet. Most of it landed. One of the fridge Artonans caught a piece that had flown wild and bit into it curiously. “Monee or Mo-nee? Momomoneeee gave me something so I wouldn’t feel stressed out anymore! It’s amazing!”
+
+Alden looked from the squash to the half-frosted layer cake beside the squash to the literal bucket of beans soaking on the floor. “But…did you even try to sleep?”
+
+“No! Don’t worry. It’s okay! I’m not going to work for Ms. Velra anymore. Momonenee loves my croutons. I’ll work for her! Him! That person!”
+
+“Croutons are good…” Alden said slowly. “But potions that keep you from sleeping are less good—”
+
+“I’m okay! I’m a Brute!” Kabir said brightly.
+
+“Nobody’s that much of a Brute, man.”
+
+“Do you want some shufta? It’s over there.” He pointed behind him with a knife, moving so fast that Alden was worried Kabir was going to accidentally murder the woman playing with the tomato sauce.
+
+Do I need to find a responsible person to push his off button? Maybe Porti-loth? We could tuck him into a safe bed somewhere before I go to school.
+
+He was just about to text the healer and ask if anyone was aware that the in-house chef was being excessively helped by the hungry aliens, when a new hungry alien walked in.
+
+He looked slightly grimy and more than slightly ill-tempered as he headed for the fridge and started snatching out sandwiches to stuff into his pockets.
+
+“What kind of fruit is good here?” he grumbled in Artonan to the man who was sticking his finger in the trifle dish.
+
+“All the ones I’ve tried are delights. There are crates in the living—”
+
+“Joe!” Alden exclaimed.
+
+He was surprised by how excited he felt to have run into the professor here. A familiar face. They could talk about stuff. A few subtle questions about magic. Lots about Kibby. Alden could ask how all the assistants he’d rescued were doing now that they lived on—
+
+Back still turned to him, Joe slowly straightened. He had a plastic wrapped hoagie in one hand.
+
+“Hey, Joe!” Alden said in Artonan, as Joe rotated to look at him. “I was just watching you on television.”
+
+“My goodness.” Joe swallowed. “Alden. Dear. How are you? So wonderful to see you again, but I really need to save some more poor Avowed of your species. Excuse me. Have a nice week. Bye.”
+
+And then, while Alden was trying to understand the strange greeting, Worli Ro-den ran away.
+
+*****
+
+*****

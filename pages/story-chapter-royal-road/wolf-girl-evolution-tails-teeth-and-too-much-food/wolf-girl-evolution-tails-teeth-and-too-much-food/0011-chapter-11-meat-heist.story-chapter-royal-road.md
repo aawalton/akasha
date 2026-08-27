@@ -1,0 +1,205 @@
+---
+id: 22f4cac8-4d04-5459-a127-20e3fb65d0f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: Meat Heist"
+slug: 0011-chapter-11-meat-heist
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 11
+ownLength: 1618
+unit: words
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2553260/chapter-11-meat-heist"
+royalRoadId: "2553260"
+---
+
+PoV Luna
+
+Luna crept until her nose brushed past the ferns. Her belly scraped the dirt, her paws silent. She held her breath, ears stiff, tail low.
+
+There.
+
+Down in the clearing, four humans. Their fire crackled bright, smoke curling upward. One poked at the flames with a stick, another stirred something bubbling in a pot. Her ears flicked at the hiss and sizzle.
+
+The smell slammed into her muzzle.
+
+Rich, and heavy.
+
+Her stomach growled so hard her paws trembled. She clamped her teeth together, glaring at her own belly for betrayal.
+
+“That’s meat,” she whispered to herself, eyes wide. “Spiced meat.”
+
+The word rolled around her tongue, hotter than fire. Spiced. She could almost taste it already, salty and sharp, licking heat into every bite. Her jaws watered, her whiskers quivered.
+
+Then she saw it. A human flicked a chunk of sizzling meat into the air. Another snapped it up with his mouth and laughed, smacking his lips.
+
+Luna’s eye twitched.
+
+“Stupid fancy pawless jerks,” she muttered under her breath, tail thumping once against the dirt.
+
+Her nose pushed deeper through the fern, eyes tracking every strip hanging from the line, every glisten from the pot. The meat shimmered in firelight like treasure, like the glowy shards she had bitten before, but better.
+
+Smellier. Tastier. And soon to be hers.
+
+Luna crouched lower, shifting her weight back onto her haunches. The shadows hugged her fur, eager and cool. Slow breaths. In, and out. Tail swaying, body trembling.
+
+She would take it. All of it.
+
+Her eyes darted across the clearing. Two humans sat talking low, their voices humming nonsense she only half-understood. One tended the fire. The last sprawled against a log, chewing slowly. Neither looked her way. None smelled her yet.
+
+Her heart beat fast, claws digging into the earth. This was it. This was the moment.
+
+The meat popped in the pot again, fat sizzling. The smell wrapped around her skull, wrapped around her ribs, squeezing until she thought she might howl.
+
+No. Not howl. Bite.
+
+She licked her lips, tail stiff as a spear.
+
+Her stomach gurgled, loud. She winced, flattening her ears. One human glanced toward the brush. Luna froze, paws locked, every muscle stone still.
+
+The human squinted, stared for a while, then turned back to the fire.
+
+Her ears twitched up.
+
+Safe. Still safe.
+
+Her grin spread, teeth flashing faint in the dark.
+
+Luna slid lower, shadows tugging at her paws like they wanted to help. The words from last night whispered bright in her head.
+
+Shadow Step. Shadowmeld. Tricks. Tools to use.
+
+Tools to get meat.
+
+Her belly growled again, sharper this time.
+
+She narrowed her eyes, nose twitching, ready to vanish straight into the firelight. The humans had their food. But Luna had hunger.
+
+And hunger always won.
+
+Luna crept wide around the firelight, paws soft in the leaves. Her nose twitched with every step, the scents pulling her like a leash. Meat, fat, smoke, salt. And there, behind it all, a sharper lure – bags piled near a crooked tree, stitched tight with leather, heavy with food.
+
+She licked her muzzle. That was the stash.
+
+One human leaned back against the tree itself, chewing slow and loud. She narrowed her eyes at him, tail twitching in irritation.
+
+“C’mon, just go to sleep already,” she whispered under her breath. “Your spice stash is calling me.”
+
+The man’s jaw cracked open in a yawn before he stuffed another strip into his mouth. Chewing, always chewing, never sharing.
+
+Another sat nearby, turning a stick in the dirt, firelight flashing off his face. His voice carried easy across the camp.
+
+“I’m taking first watch. Don’t fall asleep again.”
+
+“Yeah, yeah,” the chewer grumbled, wiping his mouth with the back of his hand. “Wake me when something bites you.”
+
+Luna’s ears flicked back. A low growl hummed out of her throat. “Something will,” she promised the dirt.
+
+Her belly growled louder than her voice, forcing her muzzle to shut tight. She crouched deeper, tail stiff, nose twitching.
+
+Time stretched. Fire cracked. Humans murmured, yawned, laughed softly, then drifted into silence.
+
+One hour later, the crackle of the flames was joined by steady, heavy snores. The so-called watch had tipped forward, chin on chest, stick falling loose from his hands.
+
+Luna’s eyes gleamed.
+
+She stepped once from the shadows. They slid up her legs, wrapped around her back. She let the hunger push her forward, her shadow skills bloom under her paws.
+
+And she vanished.
+
+The world folded, light bent, and she slipped out again on the far side of the clearing. Her paw brushed dirt, silent. Her nose flared. Bags. Close now.
+
+Her grin split wide.
+
+【Shadowmeld Lv.1 → Lv.2】
+
+Luna froze, half thrilled, half panicked. A window now? Really? She glanced up, ears twitching. The humans snored on, undisturbed. Her tail wagged despite herself.
+
+The nearest bag bulged at the seams. Her claws hooked into the leather, tugged. It resisted. She bit it, hard, teeth sinking through. The taste of cloth and dried spice filled her tongue. Her belly clenched, drool spilling down her jaw.
+
+The bag shifted with a soft scrape. She froze, ears high. One human snorted in his sleep, rolled over, and kept breathing.
+
+Luna’s chest heaved once, then she yanked. The bag toppled, tumbling into the brush. She dragged it backward, paws kicking up dirt, tail straight as a rod.
+
+The shadows hugged her, pulled her deeper into the dark. She didn’t stop until the snores faded behind her.
+
+Only then did she drop the bag, panting, eyes wild. Her teeth tore the leather wide. A rush of smells burst out – dried meat, spiced strips, cured fat.
+
+Her tongue lolled, her tail beat the ground like thunder.
+
+“Mine.”
+
+She shoved her nose into the stash and bit deep. Salt and smoke seared her tongue. Spice burned her throat. She coughed once, eyes watering, then crunched harder, swallowing until her belly stretched.
+
+【Gluttonous Soul 2% → 3%】【Effect Intensified: Craving (Unknown)】【You are suffering Poison (Weak)】
+
+Her ears were flat with joy, despite the pain. She had done it. She had stolen food from humans.
+
+And it tasted incredible.
+
+Yet she wasn’t done, the bag still held more! So she chewed through it more, like stubborn prey. Her teeth gnawed, tugged, then bit through with a sharp snap. She yanked, paws scrabbling, until the leather tore open.
+
+Another bundle rolled free. Wrapped tight in cloth, still warm from the fire. The scent burst into the night air like thunder. Smoke, salt, spice, and fat – rich enough to drown her nose, thick enough to make her tongue curl with joy.
+
+Her pupils blew wide.
+
+Jerky.
+
+Perfect jerky.
+
+Luna lunged, jaws clamping down on the bundle before it even settled in the leaves. With no hesitation, nor thought. Her first hunger satisfied, and too close to the human camp, she spun on her paws and bolted.
+
+Branches whipped past, earth thudded underfoot. She bit into the cloth mid-run, ripping it apart in a frenzy. Strips tumbled out, slick with grease, layered with spice. She crammed one into her mouth, chewing furiously as her paws carried her deeper into the trees.
+
+Her tail wagged like mad.
+
+“Victory!” she barked through a mouthful, jerky sticking from her jaws. “Flavored victory!”
+
+Her belly sang. Her tongue burned. Her eyes watered. Salt seared her throat, spice stabbed her nose.
+
+It was pain. It was glory. It was food worth stealing!
+
+She gulped another strip, barely tasting before it vanished down her throat. The firelight behind her dimmed, replaced by shadows and leaves. Her grin stretched so wide it hurt her cheeks.
+
+And then the wind shifted.
+
+Her nose twitched, trying to sense what it was.
+
+Neither human, nor wolf, nor spice.
+
+This smell was older. Heavier. A stench that sank into her fur, thick as rot, sharp as iron. Her stomach clenched so fast she dropped the jerky straight from her mouth.
+
+Her paws froze in place. Every hair along her back bristled, ears sharp as spears.
+
+The trees ahead shuddered. Bark groaned. Something massive slid against the trunks.
+
+Scales rasped over wood, long and low. The ground trembled once, twice.
+
+Her tail tucked, her chest pressed flat to the dirt. She dared a single sniff.
+
+Her nose wrinkled instantly.
+
+【Enemy Identified: Granidrake, Lesser Earth Drake】
+
+“Ugh,” she whispered, muzzle scrunching. “Nope. Big. Not edible. Not yet.”
+
+Her belly disagreed, still growling, but even hunger knew better than that. Whatever stank that badly wasn’t food! It was death with legs.
+
+Her ears twitched as the shape slithered past between the trees. She didn’t see more than a ripple of shadow, the scrape of scale, the flex of something far too wide to be her prey yet. It dragged itself forward, patient, unhurried, like the forest already belonged to it.
+
+Luna held her breath until her chest burned. Her eyes watered. The jerky lay in the dirt between her paws, spice sharp against the night.
+
+Her belly whimpered. She glared at it. Quiet. Not now.
+
+The bulk shifted away, deeper into the woods. Branches snapped like twigs. The stench lingered, sour and thick, until even the shadows seemed foul.
+
+She stayed flat, heart hammering, paws damp in the dirt. Only when the sound of scales finally faded did she breathe again.
+
+Her chest heaved. Her ears twitched. Then, slowly, she shuffled backward, step by step. Away from the smell. Away from the trees that creaked under too much weight.
+
+Her paw brushed the jerky. She snatched it up again, silent, trembling, but triumphant all the same.
+
+First spice. First heist. First near-death snack.
+
+She swallowed hard, eyes gleaming. Someday, maybe, lizard steak.
+
+Just… not today.

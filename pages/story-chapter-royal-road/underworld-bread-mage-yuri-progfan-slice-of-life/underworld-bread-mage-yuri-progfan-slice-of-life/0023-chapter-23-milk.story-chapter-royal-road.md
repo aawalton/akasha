@@ -1,0 +1,109 @@
+---
+id: d293515d-daa1-5448-93db-6c59a8c46312
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Milk"
+slug: 0023-chapter-23-milk
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 23
+ownLength: 1317
+unit: words
+publishedAt: 2026-08-09
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3790750/chapter-23-milk"
+royalRoadId: "3790750"
+---
+
+Hecate’s crimson eyes glowed with power as she proudly issued her commands to the world around her. “Abyssal Technique: Lilac of Somnolence.”
+
+The earth began to shake, startling the herd of buffalo. They stomped their hooves and unanimously pointed their spear-like horns at the white-haired woman, ready to trample right through her with their towering bodies.
+
+Large networks of plant roots sprouted behind Marina, followed by the bud of a flower that rose along its black-colored stems into the air. She fell forward as an overwhelming force tried to knock her face-first into the ground, but Hecate had already reached for her hand.
+
+“Hecate, behind you!” Marina yelled. One of the buffalo charged forward, taking the lead of the herd.
+
+“Worry not, my dear, please enjoy this upcoming performance.” Extending her arm, a mystic seal hovered above her palm, reflecting the seal that formed around the still-enclosed flower bud. “Bloom.”
+
+A shockwave of energy erupted from the gigantic flower at Hecate’s soft yet powerful words. Its stem grew taller than even the oldest trees of the forest. The purple petals unveiled themselves layer by layer, gradually blooming into their fullest form. Streams of thick mist poured from the blossom, covering the green plain in a cesspool of intoxicating fumes.
+
+Marina took a whiff out of curiosity. Smells like lavender. Realizing the fault of her action, she immediately covered her nose. Shit, this is definitely poison.
+
+The bellowing beasts continued their slaughtering march, rushing closer and closer to Hecate; their footsteps grew louder and livelier by the moment, like the climax of a triumphant war song, sung by brave warriors upon their victorious return.
+
+Except the bravest ones rarely made their return.
+
+The purple mist crept alongside the breeze that acted as their guide, past where Hecate stood, into the buffalo herd.
+
+Like a sudden, unannounced switch of tempo by an invisible conductor, the herd’s harmonious pace shattered into chaos; some crashed into the ground, while others lost all sense of direction and began to run mindlessly. But one by one, they all eventually fell motionless at the heel of the white-haired woman, who overlooked the scene with a ravenous smile cracked on her face as if savoring the sight of her finest artwork.
+
+“Hecate,” Marina called with a muffled voice. “What is this gas, and what did you do to them?”
+
+“Oh, my dear, this mist causes no harm to us; it’s a beautiful plant that puts animals to sleep,” Hecate said.
+
+“Oh.” Marina cautiously took her hand off her face. “That is nice for what I’m going to do, I guess.”
+
+“I am quite curious about your plans, my dear.” Hecate gestured at the flower, returning it to its budded state. “Are we going to kidnap a helpless calf, perhaps?”
+
+“What? No!” Marina refuted. “That is incredibly inhumane, I mean, you’re taking a baby away from a mother. We are not doing that.”
+
+“I was thinking the same, my dear.” Hecate agreed. “Carrying a calf through the air would not be a pleasant experience.”
+
+“My plan was to just grab some milk and get out,” Marina said. “How long until they wake up?”
+
+“Mm… an approximation of six hours at least.” Hecate glanced at the lingering mist.
+
+“That is more than enough time.” Opening her System screen, Marina summoned a large wooden bucket from her [Inventory], likely a volume of around five gallons. “Now we just gotta find the right cattle; can you lend me a hand?”
+
+“I’m not sure I know of a Technique that can be helpful to our current situation.” Hecate pondered.
+
+“I meant the bucket…” Rolling her eyes, Marina pointed.
+
+“Ah. That I can, my dear.” Hecate picked it up in one hand with ease. “You know how to distinguish between these animals?”
+
+“Well, I kinda grew up doing this stuff. Hopefully, my knowledge is also applicable to the Underworld.” Marina carefully examined every buffalo as she walked to them. “Ooh, found one! These guys are much bigger than the cows I’m used to, that’s for sure.”
+
+“Should I set this down here?” Hecate followed her to a cow that was lying on its side.
+
+“Yes, please.” Marina pointed, inspecting the swollen udder of the abnormally large animal that was closer to a wild beast than farm cattle. And as she reached out her hand, hesitation struck; unpleasant scenes from her memory flooded into her mind. Goddamit. She clenched her teeth. I guess even after death, I won’t be able to part those words.
+
+The bucket began to fill. Marina was fully expecting the milk produced by these Undeworld beings to be an odd color, but to her surprise, they were the same boring, white color as they are on Earth.
+
+“Hecate, would you like to give it a try?” Marina looked behind her.
+
+“Thank you for the offer, my dear, but I think observing from where I am is satisfying enough.” Hecate shook her head.
+
+“Alright, I’m done here then, should be enough for now.” The bucket of milk disappeared into a flare of digital sparks, transported into Marina’s [Inventory]. “Is there a way for you to wake them up? I think it’s kinda unsafe to leave them out here like this.”
+
+“Of course, my dear.” Waving her hand, sharp winds blew from her direction, dispersing the mist from the grass field. “They shall awake in approximately ten minutes from now.”
+
+“Well then, we should probably start heading back,” Marina said. “I do wonder how Mellie is doing with her stuff.”
+
+*****
+
+With the wind dying down, the trip home proved to be much faster in the air than it would be on foot. Hecate flapped her wings downward as she prepared to land, catching the attention of many Bee-ple in the village, but soon they all found themselves busy with chores again.
+
+Landing in front of the hut, Marina opened the door and hopped inside. “We’re home! Mellie, how was the…” In front of her was the vibrant bee girl, who lay completely flat with her upper body on top of the table. “Mellie!” She rushed to her side, “Mellie! What happened? Talk to me, please!”
+
+“Miss Marina… please don’t shake me like this anymore…” Rubbing her eyes, Mellie sat up in her seat. “It makes me all dizzy and nauseous.”
+
+“Thank god, Mellie. I thought something happened to you.” Marina let out a sigh of relief.
+
+“Oh, nothing happened, Miss Marina. I just got tired and annoyed, so I decided to take a nap.” Mellie explained.
+
+“Sleeping with that posture is very bad for your back. You might get a really bad headache,” Marina pointed out.
+
+“Yeah, I know, it’s just a bad habit of mine.” Mellie could barely gather the energy to open her eyes.
+
+“So what are you annoyed about?” Taking a seat next to her, Marina asked. “Is it something that we need Hecate to handle?”
+
+“No, no, it’s nothing of that caliber. In fact, it’s just a me thing.” Getting up from her chair, Mellie grabbed a jar off the counter. “Miss Marina, you told me to figure out how to refine salt from its mineral form, and I’m just super annoyed at how easy it is.”
+
+“Is that…?” Activating [Salt And Sugar Sight], Marina stared at the jar. Characters and symbols formed within Marina’s vision as the Technique identified the white substance. It was labeled salt.
+
+“All I had to do was essentially boil it in water, strain it, and then boil it again,” Mellie said with irritation in her voice. “I’m not sure if this is the right grain. I still have plenty more that we can grind up.
+
+She opened the jar of salt, gently pinching the grains with her fingers. “Mellie…”
+
+“Yeah, Miss Marina? Is it not up to par?”
+
+“No, Mellie, it’s not that.” Marina paused. “This texture is perfect. I think I’m in love with you now, Mellie.”
+
+“...”

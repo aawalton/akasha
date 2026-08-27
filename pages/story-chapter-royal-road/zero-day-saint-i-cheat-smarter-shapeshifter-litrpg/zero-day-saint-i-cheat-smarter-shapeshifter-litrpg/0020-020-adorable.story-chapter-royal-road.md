@@ -1,0 +1,144 @@
+---
+id: 1601bf1e-784b-5767-95b5-70c5e94f870f
+page-type-slug: story-chapter-royal-road
+title: "020 - Adorable"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 20
+ownLength: 1736
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3397992/020-adorable"
+royalRoadId: "3397992"
+---
+
+On the minimap I could still see blue dots who weren't even inside the building. I pulled the cup out of my inventory and downed it in one gulp. That got me back to 5 out of 6 ATP.
+
+"Ash, are all the doors in the building closed?"
+
+He was already working on some of the goods Jamie had brought in, cutting open packaging of mattresses and foam toppers.
+
+"Yes, it's all closed off. We need to insulate the floor, there are pipes down there and ventilation, which will sap the heat away from this room. And ideally we created a curtained-off center, the more air barriers the better."
+
+I tossed some tables aside to make space before I took the material he was unwrapping and spread it on the floor. People were streaming in, most immediately began to help, though we lacked any coordination. I examined the ceiling. There were some hooks here and there, along with a mount for a projector. Frank still hadn't arrived.
+
+I pulled a roll of wire out of my inventory and handed it to Liz.
+
+"If you got any juice back for your telekinesis, run that through the hooks. Go for a square shape, or a triangle if need be. We need to hang those thick duvets from there. If you are still out, find help and climb."
+
+Ash was looking around wildly at all the newcomers. I grabbed him by the shoulder to face me.
+
+"Ash. If I say something dumb, correct me. Otherwise teach those two," I pointed out Constance and another woman, who I thought was Luke's mother, "how to insulate the door once everyone is in."
+
+By now the wind's howl was everywhere, the temperature in the room kept dropping by the second. I went around and gave everyone a task as they piled in, reminding them to hand out any winter gear they'd looted and to ensure everyone was dressed for the occasion. Frank was the last to arrive, gray-faced, one hand pressed to his chest. He looked like his heart was about to give out. I'd never thought about it. He had to be in his fifties or sixties and despite his Blessing he'd never had a chance to spend his attribute points until now.
+
+"Spend those attribute points and you'll feel a bit better. Wrap yourself up. We got this."
+
+He didn't even grunt. Just nodded and fell down on one of the chairs that had been pushed to the side. Constance slammed the door shut and she and Annika, I picked up her name when Ash talked to them, proceeded to seal it, according to Ash's instructions. I picked up two pairs of gloves and handed them to the women.
+
+"Better not lose any fingers," I said.
+
+"What about you?" Constance asked.
+
+"Once I don't need to talk anymore I'll be the most comfy of all of us."
+
+"Wrap yourself up, girl," Constance ordered. And since everyone was now busy, I complied. There were no boots my size and I could feel the cold of the concrete floor through my sneakers. I don't know if I'd have thought of insulating the floor if Ash hadn't brought it up. Liz did have some of her power back and was threading wire through the fixtures on the ceiling, others ready to haul up a curtain of fabric wherever she did.
+
+Our pillow fort ended up somewhat undersized and people were already stepping on each other's feet in their prep work. Nothing I could do about that now. Some of them had crawled into a tent, basically assembling it from the inside, enough that they'd be able to breathe in there. Others huddled under comforters and blankets, together in small groups. Jamie had ended up with Luke, who seemed to have formed some attachment to him, and Annika. I'd stayed outside, and watched as everyone vanished under layers of cover. My breath had started misting minutes ago, now I started to feel the bite of the cold on my lips. Only Lucy remained outside, sitting cross-legged on a chair, still in nothing but their suit.
+
+"Aren't you cold?"
+
+"Terribly. Hurts a bit even. But I've never been cold. Just enjoying the novelty for a bit longer."
+
+"Suit yourself. I'll get my fur now."
+
+"Oh, Eve?"
+
+"Yes, Lucy?"
+
+"Your build choice failed miserably. You predicted that you couldn't help it, tried to stop yourself, but failed. Which I think is good."
+
+I had nothing to say to that. I picked the Arctic Fox option, the one the Blessing had given me, because it had been Claire's god-damn avatar. The world instantly became a lot less cold—but a lot louder. Even over the howl of the storm, I could hear every little movement, the scraping of fabric on fabric, their breaths, even their heartbeats.
+
+Lucy got up, leaned closer to me and whispered. "Adorable."
+
+Then they vanished again. I hopped up in the pre-warmed chair and curled up. With my eyes closed, being in this body felt like it came with its own heated blanket. If only the associations were less unfortunate. I didn't dwell. I dove into my menus and hit Gabriel with a whole barrage of questions I'd noted down.
+
+First I went over all the Task Completions I had just accepted earlier, and those that were still outstanding. There were a couple smaller ones, mostly granting a +1 or +2 to some skills, but some notable ones, too.
+
+[Achieve a natural land speed over 60 mph
+
+Reward: Enhanced Charge (Perk)]
+
+The Perk itself read:
+
+[Enhanced Charge - Passive
+
+Deal bonus damage with momentum-based attacks based on current speed. Maximum increased damage (+100%) reached at 60 mph.]
+
+After the gargoyle I'd have preferred if this was based on the victim's speed, not mine. But maybe this could become meaningful. How fast could a Golden Retriever run? 20mph? With my +6 that could actually make for better charge attacks. And if my rotation ever showed a falcon I'd be the terror of the skies. Once I figured out that whole flying deal. With the rewards my Instinct skill had risen to 8. I shot Gabriel a message asking at what level I'd be able to make use of the crow.
+
+Jumping, and falling, over 9 feet had rewarded me with a passive 50% fall damage reduction. Flying practice just got half as painful as before.
+
+I didn't mean to eavesdrop, but no matter how quietly they whispered, they might as well have shouted. Those ears heard everything, and the local chat happily transcribed it all. Couldn't help but notice that some of those discussions were about me.
+
+"Why isn't she in here with us?" Annika had asked.
+
+"If you'd seen her in that mall, you'd be glad for it." That voice was Constance's. "First she's carrying a cute teddy around, next you know, she's tearing it to shreds."
+
+"It was a bit more complicated than that, Constance." Jamie, ever valiantly defending me.
+
+I opened the Guide chat. ["Hey, guides. Surely you have endless wisdom to grant me. Will you bless this lowly mortal with your voices? I could use the distraction."]
+
+The moment I sent the message, Jamie's heart rate spiked. I could hear it. Of course, he could read my part of the guide chat, too. I'd forgotten about that. And he'd immediately understood what was happening.
+
+"I'll happily oblige," Gabriel said, her voice a balm, as ever. "Let me explain how skills progress and how that interacts with your attributes."
+
+["Lovely, I appreciate it."]
+
+While Gabriel explained, I continued with my rewards. The 10 and 20 kill rewards were extremely synergistic and even better than expected. Not better than the collar, but… damn.
+
+The first was an item:
+
+[Shifter's Ring of the Slayer (not bonded)
+
+Effect: On kill recover 1 ATP. Can only recover ATP spent for or in the current shape.
+
+Cooldown: 60 seconds]
+
+The phrasing confused me at first, since I didn't have any way to spend ATP besides for shifting. And then I saw the second reward.
+
+[Focused Fury - Ability
+
+Cost: 1 ATP
+
+Duration: 60 seconds
+
+Increase size and all physical attributes by 20%]
+
+I had to interrupt Gabriel's skill explanation.
+
+["Is that before or after buffs? If I get multiple sources of percent attribute increases, are they multiplicative? What about damage? I got two sources of percent increased damage already."]
+
+"For attributes, all flat modifiers go before percentage-based modifiers, which are added up before applying. For damage, the increases within the same category are additive and otherwise multiplicative. Since you have an increase to damage with natural weapons and one to momentum-based attacks they are indeed multiplicative."
+
+["No woman has ever spoken more beautiful words to me."] Those numbers meant that if I ever got my hands on something like a falcon I could dive attack for 280% damage. If I got half of that speed bonus in Angel's shape I was looking at about double damage for charge attacks.
+
+"The sad part is that I believe you," Lucy said. "You are the only person I know who gets turned on by murder math. Takes a special kind of nerd."
+
+["You barely know more than ten people."]
+
+"Pah."
+
+They weren't necessarily wrong either. But all of that meant my chances of survival were going up. Hell, with that size boost alone I might have carried Luke on my own and maybe Jamie would have noticed Frank's exhaustion.
+
+["Can I somehow put on that ring while I'm in this shape? Through my inventory?"]
+
+"You probably lack the motor control," Gabriel said. "You'd have to pull it over your paw and wear it as an ankle ring. I could manifest and assist you, but I recommend you wait until after the storm. While this is a powerful magical item it is also a metal ring that conducts heat. If something goes wrong and you need to step outside you might lose the paw."
+
+["Damn. Yeah, good call. Thanks. Does that mean I only get to wear four rings at most?"]
+
+"Precisely."
+
+A new sound cut through the background noise. A hollow tapping sound. Like irregular steps, but not at all from feet or boots. The moment I heard it, a white dot appeared on my map, navigating toward our room. I only knew of one person who was piloting artificial bodies that could withstand the cold outside.
+
+Claire had returned.

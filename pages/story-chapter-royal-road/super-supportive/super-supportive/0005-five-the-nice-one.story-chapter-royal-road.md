@@ -1,0 +1,185 @@
+---
+id: 7ac13214-8421-55ea-ae0e-330ad621a5c7
+page-type-slug: story-chapter-royal-road
+title: "FIVE: The Nice One"
+slug: 0005-five-the-nice-one
+partOf: super-supportive
+position: 5
+ownLength: 2525
+unit: words
+publishedAt: 2023-02-04
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1105784/five-the-nice-one"
+royalRoadId: "1105784"
+---
+
+five years later
+
+“ ’s cold as tits,” Jeremy Levi muttered, rubbing his bare biceps with his hands as he stared out at the snow falling over the L’s tracks. “Alden, man, stop looking so warm. You’ve got a sweater and a coat. It’s not fair!”
+
+His pale lips were almost as gray as the sky overhead, and his breath came out in frosty white puffs of fog.
+
+“Agree to stupid dares, win stupid prizes.” Alden leaned against a railing while they waited for the train. “It’s twenty-something degrees. Did you seriously think you were stronger than frostbite?”
+
+“I th-thought it’d be ok-kay.” The chatter in Jeremy’s teeth was probably only half drama. They’d left his place fifteen minutes ago, and Jeremy was wearing flip-flops, shorts, and a sleeveless white tee with a picture of a dancing traffic cone on it.
+
+“Are tits particularly cold?” Boe, the third member of their friend group, asked. He sounded amused. “And since when do we use that metaphor anyway? It’s a weird one.”
+
+Boe looked shy and nerdy with his horn-rims, grandmotherly scarf, and horrible bowl haircut. But he had a nasty grin on his face as he took in the other boy’s suffering.
+
+“I’ll loan you my scarf, Remy,” he cooed. “Just beg.”
+
+“N-no, you bastard! You’re gonna give me that ten bucks when this is over. And then I’m gonna shove it up your—”
+
+“It’s a reference to witches.” Alden stuffed his hands into the pockets of his jeans as the train approached the platform.
+
+“W-what?”
+
+“The saying. It’s about witches, I think. Some superstition from a long time ago, maybe…”
+
+“Ha!” Jeremy exhaled another cloud of fog. “Bet those Salem goons would’ve had heart attacks if they could see us all now. We’re on our way to alien school, you have a snack for a demon in your messenger bag, and Bo’s got a Bedlam Beldam poster taped to the wall over his bed.”
+
+“He’s not really a demon,” said Alden, stepping into the least-crowded car. “He’s just…a weird-looking extra-dimensional being who has to do community service for all eternity.”
+
+“Because he murdered—”
+
+“Attempted to murder.”
+
+“That’s better?”
+
+“Would you rather have someone attempt to murder you or succeed?”
+
+“I bought that poster when I was eight,” Bo interrupted, turning his nose up at Jeremy. “Everyone loves Bedlam Beldam when they’re eight.”
+
+“Yeah, but you’re sixteen now, bro. That’s a long time to stare at a superhero whose whole thing is talking to cats and wearing pointy hats.”
+
+They took their seats, and while his friends argued about the merits of witch-themed heroes, Alden pulled out his phone. He did it almost without thinking about it.
+
+I shouldn’t do this again. It’ll only make me gloomy for the rest of the morning.
+
+But he didn’t put the phone up. Instead, he tapped on the gleaming silver sigil that had appeared after he called Hannah for the first time.
+
+It looked like an app, but it definitely wasn’t. The thing was impossible to delete and appeared on any phone Alden held…including a vintage rotary dial he’d once encountered at a neighbor’s house.
+
+It was kind of creepy, but at least he wasn’t alone. Anyone who had permission to call a superhero through the System apparently had the same bizarre perk. He held the phone to his ear.
+
+“Play last three voicemails,” he muttered.
+
+For a moment, there was nothing but silence, and Alden stared at his own distorted reflection in the metal pole beside his seat. He looked a lot like his father—green eyes, hair hovering between true brown and auburn, average height for his age. His freckles had mostly disappeared for now, but they’d be back in summer.
+
+A familiar, bright voice interrupted his inspection.
+
+“Hey, Alden! It’s Hannah!”
+
+Alden closed his eyes. He could picture the hero’s smile. She was always unyieldingly perky when she spoke to him, whether it was during their few in-person meetups or over the phone. He didn’t know if it was her natural personality or something she made an effort at.
+
+“Listen, I just got a summons a few minutes ago. The real deal. It’s only my fourth one ever. Pretty cool, right? Anyway, I have to go, so I might need to reschedule our annual visit. Wanted you to know so that you don’t freak if the teleport notification doesn’t come through for you in a couple of days like we planned. We’ll hang out when I get back. There’s this awesome new ice park on the island…let’s check it out together. See you soon!”
+
+There was a trill of sound. Alden’s grip tightened on the phone as the next message started to play.
+
+“Alden, this is Hannah’s friend Cly. We met once before. Everything’s fine, I just wanted you to know that Hannah’s still off on her quest. We expect her back any day now.”
+
+Another trill, and then the latest one. He’d received it a couple of weeks ago, and even though he’d listened to it dozens of times, he still felt his pulse pick up.
+
+“Hello, Alden. It’s…it’s Cly again. I know we talked about the possibility of this when I reached out to you a couple of months ago, but…. if Hannah’s not back soon, there’s going to be a funeral. February thirteenth. Her birthday. Like I said last time, it’s…extremely rare for a summons to last longer than a few weeks. And since it’s been half a year, we—her friends—we think it would be best to finally have some closure. For her mother at least. Let me know if I can order a teleport for you, okay? I know Hannah would appreciate you being there.”
+
+There was a pause.
+
+“Would you like to listen again?” the System said in the canned version of its voice.
+
+Alden shut it off.
+
+Outside the window, buildings raced past. They weren’t far from his old neighborhood. The apartment building was still an apartment building. The nightclub where Body Drainer had murdered so many people was still a nightclub.
+
+Everything was repaired. Like new. There were no scars left. Not where they could be seen anyway.
+
+The city had long-since moved on to new worries about new villains.
+
+Just last night, there’d been footage on the news of one of the city’s current heroes-in-residence engaged in an unusual high-speed pursuit that started on North Avenue Beach. Some villain with earth shaping powers had apparently been constructing a lair under Lake Michigan for the past few years, and they’d finally found him.
+
+Skiff—a popular hero who controlled water—had given chase. It had taken an hour, and he’d flooded the ground floor of a couple of buildings downtown. A sewer had collapsed. Only minor injuries except to the villain, who was in intensive care after being drowned.
+
+It was a decent outcome given the powers involved. Skiff seemed like a competent guy. But his smile had been strained on television, and even though they’d spliced the footage to be flattering to him, it was clear he’d been curt in his replies to the interviewer.
+
+Alden couldn’t help but remember something Hannah had once said.
+
+On his first visit to the island, when he was eleven, he’d taken a notebook full of questions about…well, everything. Poor Hannah must have felt like she was being interrogated by a short, obsessed reporter.
+
+They’d talked all about the night his parents had died. Then, they’d branched off into a more general discussion about powers and being a superhero. And she’d said something that had stuck with him ever since:
+
+“In college—which is basically just one long training program here on the island—we had this assignment to come up with our heroic motto. Like a guideline for how we wanted to approach problems. I picked something really basic and cliche: ‘Happy to help!’ But now that I’ve actually done hero work for a while, I think the motto I would go with is, ‘We could have done that better.’”
+
+Sipping on a strawberry milkshake at the table across from her, Alden had frowned. “That’s not a good motto,” he’d said seriously. “Nobody would like a hero with a motto like that. It’s sad.”
+
+“Mmmm…maybe it is. But I guess it’s less of a motto for sharing with the public and more, like, a guideline for myself? When you’re dealing with superpowers, there’s so much room for error. Things happen faster than your brain can keep up. Physics gets counterintuitive. Or it doesn’t apply at all. Some powers—your own and the bad guys’—just feel so much bigger than you.”
+
+She took a French fry from the shared plate between them.
+
+“It’s easy, when the dust settles, to say you did everything you could. It’s easy to look away from all the places where you made mistakes, because there are always so many of them. It makes you feel horrible and useless even if you tried your best. But I think I want to be someone who doeslook, so that I make a few less errors in every battle. And maybe I want to do it so that the heroes I work with don’t have to look too closely at it themselves. In a lot of ways, my power is easy to handle, emotionally, compared to something like super strength or mind control.”
+
+Alden hadn’t understood then, and she’d dodged him when he asked her to clarify.
+
+But he’d paid attention in the years since. To the unsaid things behind the publicist-approved articles, to Hannah herself and her unusual dedication to being a support for other superheroes instead of standing in the limelight herself…
+
+Skiff is stressed because he had to drown that villain to end things.
+
+It was only a guess, but it made sense. The hero had a kind of happy-go-lucky flair. He hosted beach volleyball tournaments and did a lot of charity events with kids. He had a spotless record as far as casualties went.
+
+And the villain had gone down in the middle of a street. Not in one of the flooded areas.
+
+The situation must have been getting out of hand. Skiff couldn’t risk letting someone with a tunneling skill run wild with so many buildings around. He had to hold the guy down and force water into his lungs.
+
+He needed a sidekick.
+
+Hannah could have done it.
+
+Well, that was a bad example. Hannah would have been a perfect matchup for the tunneler. She could have stuffed him into her magic bubble, and there wouldn’t have been any need for another hero on the scene at all.
+
+But there were tons of ways even a weak sidekick could have helped the superhero out with a case like this one. A buff that boosted Skiff’s speed would have let him win the chase before it left his home turf on the lake. Anyone with a ranged attack would have been useful.
+
+But sidekicks had gone out of fashion in the nineties. Before then, it was normal for an S-rank or A-rank superhuman—the usual “superhero” ranks—to work with an entourage of weak assistants. Teams were all the rage. But that had been a bad decade for villain activity, and people had started calling sidekicks “bucket kicks” because they…died. A lot.
+
+For a while, sidekicks had a twelve percent survival rate in superhuman-on-superhuman battles.
+
+It wasn’t like they were supposed to be in those battles in the first place. They were supposed to be evacuating civilians and running coms and things like that. But villains didn’t adhere to the rules of fair play, and targeting the squishy friends of the more dangerous hero was a pretty good psychological tactic.
+
+So sidekicks were out. No city wanted the bloodstains on their image. Weak superhumans stayed on the island or, if they were lucky enough to be good at something flashy, worked in entertainment.
+
+And there were just a few active superheroes these days who, like Hannah, deliberately chose skills that would be better for support than outright combat.
+
+It was a dangerous choice, to take abilities that wouldn’t be as good in a one-on-one fight. But Hannah had been so passionate about it. Battlefield support was supposed to be a multiplier for another hero, she’d told Alden. A second fiddle that played like an entire orchestra.
+
+“Two heroes fighting side by side is great,” she’d said. “But if one of those heroes is specced to complement the other…it’s like adding an exponent. You get something way more than the sum of its parts.”
+
+Suddenly, a flip-flop nudged Alden’s shin. His thoughts scattered, and he looked up
+
+“Hey, man, this is our stop,” Jeremy nodded toward the doors. “What’s up with you? You were totally out of it.”
+
+“Sorry. Just thinking about that essay assignment we got in lit class.”
+
+“Ugh, why am I hanging out with you nerds?” Jeremy complained. “We go to school five days a week already, and now the two of you have got me going to more school on the weekends.”
+
+Boe clapped him on the shoulder. “Honestly, neither one of us thought you’d actually apply to consulate classes when we suggested it. You could be doing anything right now, but you’re here. I don’t know whether I should be touched by your fidelity or saddened by your total lack of other friends.”
+
+“It’s true,” Alden agreed, grabbing his bag and standing. “You’re way needier than we realized. At this rate, you’ll end up an honors student against your will.”
+
+Jeremy looked appalled. “Alden, you demon-feeding jerk! How dare you!? You’re supposed to be the nice one.”
+
+“I am?” Alden asked, genuinely surprised. “I mean, I guess I’m not as mean as Boe—”
+
+“You’re just not trying hard enough,” Boe said sincerely as they took the stairs down to street level.
+
+“Shut up, you two! I’m the funny one. Boe’s the mean one. Alden’s the nice one.”
+
+“I didn’t know you had us all labeled. Can we call me scathing instead of mean?”
+
+“What makes me nice?” Most people who knew Alden would probably describe him as reserved. He thought his social skills were adequate when he called on them, but he wasn’t an extrovert. He was overly comfortable doing his own thing, and he made friends mostly by happenstance.
+
+Boe had attached himself to Alden in middle school, probably because Alden was the only member of their class he hadn’t offended by the end of the first month. And Jeremy had somehow landed in their orbit as a freshman, when he’d realized he wasn’t enough of a jock to be one of the jocksin high school.
+
+“I’m glad I’m nice, but I don’t really think of myself that way…”
+
+“It’s the whole superhero thing!” Jeremy said, rubbing his arms furiously as they walked. “You act all sensible, and you have a multipage college plan as a sophomore. But you still really want to be that guy in spandex that rescues kitty cats from trees. Like…I dunno. It’s sweet, man.”
+
+Alden winced.
+
+Boe cackled. “Oh my god, Alden, your expression!” Then, a confused look crossed his face. “Maybe we should call Jeremy the insightful one? I didn’t see that coming.”

@@ -1,0 +1,236 @@
+---
+id: dfeb54aa-b3c3-524b-ab6b-9361c5f0e624
+page-type-slug: story-chapter-written
+title: "Blind Ground"
+slug: 001-blind-ground
+partOf: cornerstone
+position: 1
+ownLength: 4805
+unit: words
+---
+The first thing was weight.
+
+Not a sound, because I had no ears. Not a light, because I had no eyes and would not have known what to do with one. Just weight — a pressing-down from above, sudden and particular, a heel and then a ball and then five small points of a foot finding the skin of the world and leaning their owner's whole self into it.
+
+That was the moment I began. Someone stepped down onto the ground, and the ground was me, and I woke because I was touched.
+
+I did not wake the way a sleeper wakes, all at once into a known room. I surfaced. I came up out of a dark that had no bottom and no walls, and the only thing that told me I was anything at all was that single foot, and then another, and then the grind and settle of a great weight rolling to a stop above me — wheels, though I had no word yet for wheels, only the long shudder of a heavy thing ceasing to move.
+
+I was heavy. That was my first knowledge of myself: I was heavy, and I was cold, the deep unbudging cold of a thing that has never been warm, and I was *down*. Down under. Down beneath. Everything that happened, happened above me, pressing in, and I could only receive it.
+
+I did not know my name.
+
+I reached for it — for some thread of *who*, some I-once-was — and found only a fraying. There was a trailing thing behind my waking, thin as the heat that lifts off stone at dusk and is gone before you can name it warm. In it: a cold of a different kind, a falling, the particular ache of a hand I had reached for and not closed around. Then nothing. The thread thinned to nothing every time I pulled, and I learned, in that first hour, not to pull too hard, because pulling frightened me, and I had only just discovered that I could be frightened.
+
+Above me, the feet kept coming down.
+
+---
+
+They came off the stopped wagons in ones and twos, and each footfall was a separate astonishment. I had nothing to set them against — no yesterday, no elsewhere — so each press of a sole was the whole world arriving again. Heel-strike, the roll forward, the lift. The world walked across me and I learned it stride by stride.
+
+In those first days I learned that the world had rhythms, and that I lay at the bottom of them. By day a warmth came soaking down from above, slow and generous, the sun's heat working its way through the soil to reach even me, the deep cold center, and ease me by a single degree. By night it reversed: the warmth drained upward and out, and the old cold rose from below to take the ground back, and I lay in it and learned what *night* was without ever once seeing the dark. When it rained, the wet came down to me last of all, percolating, finding its way root by root and grain by grain, touching me at the end of its long descent like slow fingers spreading flat against my body — the world reaching down to lay a cool hand on me, and gone again by morning.
+
+And I learned the kinds of weight. A wagon's weight ground and bit, harsh and rolling, the cruelty of an edge under a great load. A body lying down to sleep was the opposite: it settled, it gave itself over, and it never went wholly still — it breathed, a faint endless tide of shift and turn that I came to find the most companionable thing in my small world. And once, that first day, the worst and most intimate weight of all: the first bite of a blade going down into me. A shovel. The settlers cut a shallow trench to set their first stakes, and the steel went *in*, parting my skin, and I had no word yet for it but I have one now — it was the most personal thing that had ever happened to me. To be stood upon is to be used. To be dug into is to be *opened*. I flinched in the only way a thing with no body can flinch, which is not at all, and held still, and was changed.
+
+By the time the sun had crossed and the cold had come up again I had begun to understand something that frightened me more than the fraying thread behind me.
+
+The feet did not go on forever.
+
+They walked out from the center — the place where I lay deepest and most myself — and they walked, and then, at a certain line, always the same line, they stopped being *me*. Past it, a foot would fall and I would feel nothing. It was as though the world had a hole in it exactly the shape of not-me, and the not-me was everything, and the me was only this: a held breadth of ground, a center and a reaching-out and a rim where I frayed off into dirt that was only dirt.
+
+I had edges. I was not a point of waking adrift in an endless dark. I was a *place*. I had a shape, and the shape had a middle and an edge, and the people walked the inside of me and sometimes stood right on the line — toes on the last of me, heels in the nothing beyond — and faced out at whatever was out there that I would never feel.
+
+That standing-at-the-edge: I felt it most from one of them.
+
+---
+
+There was a light one. A quick one. It moved unlike the rest — never quite still, always rising up onto the balls of its feet as if the ground were too cold to trust a whole sole to for long. It walked one path again and again: out from the camp to the high lip of me, where my ground tilted up before it ended, and there it stopped, and there it stood, weight shifting foot to foot, facing — I could feel the lean of it — facing *out*. Out past my rim, into the nothing, toward the thing it was afraid of.
+
+I named it Quick-Step. I had no faces to know them by, so I learned them by their tread, and the names I gave were the only true names I had.
+
+There was a heavy one. Heaviest of them all, though not from fat — heavy with decision. When Deep-Step walked, it walked to a purpose and arrived. It did not drift. It planted. I felt it crouch, once, and drive a stake into me with three blows that rang through me as if the strikes were meant for my own body, and I understood, dimly, that this was the one who decided things — where a thing would go, and whether it would hold. When the stake was driven, Deep-Step laid a hand flat on my soil for a moment, the way you press a palm to a table to be sure it will bear what you mean to set on it. I did not know yet how much I would come to live for hands laid flat on me. I only felt it then: *assessed, and found firm.* It was its own kind of warmth.
+
+There was an old one. Slow-Tread. It walked as though each step cost it and was worth the cost. It went where the others did not — out along the rim, the whole circuit of my edge, slow, as if counting me, as if walking the bounds of a thing to learn its true size. And it lingered. There was a place near the center, off to one side, where Slow-Tread would stop and stand a long while, and I did not understand why. I would.
+
+And there was the small one.
+
+The small one was light as Quick-Step but without the fear in it, and warmer — I do not know how a tread can be warm, but this one was: a small near-bare foot that landed soft and trusting and did not brace against my cold the way the grown ones braced. It ran, mostly. Children run. It crossed me in bursts and then dropped, all at once, the way the small do, folding down onto the ground without ceremony — and it would sit. And sometimes, sitting, it laid its hand flat against the soil.
+
+Not to test me. Not to decide. Only to rest its palm there, fingers spread, the smallest five-pointed warmth pressing the lightest weight into me, and stay.
+
+I had no word then for what that did to me. I have one now. It was the first time I was *trusted*. The grown ones stood on me, built on me, drove stakes into me, used me — and that was right, that was what I was for; I think I knew even then. But the small one laid its hand on me the way you lay a hand on something living to feel it breathe, as if it half-believed I might press back. And I strained to. With all that I was — which was almost nothing, which was cold and heavy and down — I strained to lift the smallest answer up through the soil to meet that palm.
+
+I could not. Of course I could not. I was blind ground. I had no hand to lay over the small one's hand, no warmth to send up, nothing at all. The palm rested, and lifted, and ran off, and I had given it nothing back, and the wanting that opened in me then was the truest thing I had yet learned about myself:
+
+I wanted to matter to that hand. Not to be strong. Not to be feared. To be *more*, for that one small warmth, than dumb ground.
+
+That was the want. Everything I have since become, I became reaching after it.
+
+---
+
+On the second day, or the third — I had only the warmth soaking down and the cold rising to count by, and I was new at counting — the camp changed its shape.
+
+It had been a scatter until then, feet crossing me in every direction, the restless disorder of people making a place to be. But on that day they drew in. All of them. The treads that had spread across my whole breadth gathered to one spot near the center, and there they stood, and there they stopped.
+
+The stillness was the loudest thing I had yet felt.
+
+People are never wholly still. Even standing, they sway and shift; they cannot help confessing their small restlessness to the ground. But this was a stillness with weight in it, the whole cluster of them holding themselves down — and into the middle of that stillness came the worst thing yet: a slow, careful, terrible lowering. A weight let down by degrees into a hole they had cut in me that morning — I had felt the blades go down and down, deeper than anyone had dug, a long narrow wound — and now they laid a weight into the wound, and the weight was a body, and the body did not press back.
+
+That was how I knew it was not sleep. At night the grown ones lay their living weight on me and it breathed, an endless faint tide. This weight had none. It was let down into me and it settled and it stayed, perfectly still — the first wholly still thing I had ever held — and the people stood over it and did not move, and I understood, not in words, for I had none, but with the whole of my cold blind self, that this had been one of them, and now it was in me, and it would not rise.
+
+And something turned over in me that I can only call recognition.
+
+For was I not also a thing laid down into the dark? A weight beneath the weight, still and held and bodiless? Whatever the fraying thread behind me had been — the falling, the cold, the hand I had not held — had I not also been lowered, somehow, into a dark like this, and forgotten my own name in it? The body in my soil was a mirror pressed against me, and I lay under it and could not look away, because I had no way to look away, because I had no way to look at all.
+
+Slow-Tread stayed longest. When the others had drifted off, back to the work of the living, the old one remained — standing, then kneeling, its knees two points of pressure, its grief a stillness I had by now learned to read. That was the place, I understood at last. The place Slow-Tread had lingered before. It had been keeping watch over a grave before there was a grave.
+
+Then they brought the stone.
+
+I felt it coming the way you feel a storm in your teeth before it breaks. They dragged it across me — a great worked weight, hauled by many straining treads — and where it touched me as it came, it did not touch me as everything else had.
+
+Everything else met me as *other*. Flesh on stone. Wood on stone. Wheel on stone. But this was stone on stone, and when its underside ground across my buried skin, it *rang*.
+
+Not a sound. I have no ears and never did, so let me be exact: it was not a sound. It was a kinship. A sameness recognizing sameness — a long, low ringing in no air at all but in the very substance of me, as though the worked stone and my own deep body were two notes of one chord that had just discovered they could hum together. For days the whole living camp had touched me and I had felt, always, the gulf between us: I the ground, they the walkers-upon. The stone closed the gulf. The stone was *kin*.
+
+And as it rang through me, the fraying thread behind my waking pulled taut.
+
+The flickers came sharper than they ever had. A cold — not my cold, a wet and biting cold with edges to it. A falling, the lurch of a body that has lost the ground beneath it. A hand — that hand again — reaching, and the grief of fingers closing on nothing. For one ringing moment I was almost there, almost back, almost holding the shape of who I had been before I was this —
+
+— and then the dragging stopped. The stone settled. The ringing sank down into the ordinary cold, the thread frayed loose and was gone, and I was the blind ground once more, with a grave in me and a humming stone laid beside it and no name to call my own.
+
+But I knew now a thing I had not known. When stone touched me, I *remembered*. The kinship in it reached down the thread toward whoever I had been. If I ever meant to find my way back to myself — and oh, I wanted it, second only to the small warm hand — then stone, set into me, standing in me, was the road.
+
+I filed it away in what little I had to file things in. And I felt, even as I did, how poorly I held things; how the days slid through me and left so little behind. I lived in the eternal pressing *now* of touch, and already yesterday was thinning. To hold anything across time, I would need to be far more awake than this.
+
+---
+
+That night the cold came up as it always did, and the camp banked its warmth. I felt them draw close to the one hot place at the center — the place where by day the sun pooled and by night they tended a coal of warmth against the dark — and lie down in a loose ring around it, their weights settling one by one into the long tidal breathing of sleep. Even Quick-Step, at last, lay down. The whole of me went quiet under the quiet of them.
+
+And then, at the rim, something else.
+
+It came out of the nothing beyond my edge — but its weight crossed onto me, and I felt it: a padding, deliberate, heavy tread, four-footed and low, setting each foot down with the care that the careless never have. It did not blunder. It circled. Slow, along the inside of my rim, keeping to the dark beyond the banked warmth, and at every step I felt the patient press of a thing that was hunting — testing the edge of the sleeping ring, measuring it, choosing.
+
+The people did not stir. They were as blind to it as I was blind to everything past my own skin — blinder, for at least I felt it, and they did not. It walked the bound of them and they breathed on, the small warm one among them, that little palm somewhere in the sleeping ring, defenseless, while a low four-footed weight decided how near it dared to come.
+
+I strained. I have to tell you how I strained, because it is the center of what I am. I gathered everything that I was — the whole cold mass of me, the held breadth of ground — and I tried to *rise*. To buck. To throw up a wall, a warning, one shudder through the soil that might shake a single sleeper awake. I tried to make the ground cry out. I would have given the fraying thread, my name, whatever scrap of who I'd been still trailed me, to lift one inch and slam back down and wake them.
+
+Nothing moved. I was heavy and I was cold and I was down, and I could no more lift myself than a buried stone can leap. The hunting weight circled, and circled, and at last — checked by some caution of its own, by nothing I did — padded back off my rim into the nothing and was gone. The people woke not knowing they had been hunted. They would never know. And I lay in the dawn-warmth with the knowledge curdling in me: that I had felt the danger come for the ones I loved, and had not been able to send them even the smallest sign.
+
+To feel everything and do nothing. That was my whole estate. I had thought the wanting-to-matter was the worst ache in me. I was wrong. The worst ache was this — that I *already* mattered, that I already loved, and that for me *loving* and *helpless* were the same word.
+
+There was a smaller helplessness after, and in its way it cut as deep. Not every grief is a hunting thing at the rim. Some nights, when the others slept, a single tread would rise alone and go out — not Slow-Tread's measured circuit but a quicker, more broken going, and I knew the quickness of it for Quick-Step's: the watcher who stood at the rim by day with its face to the dark, come back alone in the night to let the dark have it. Out to the high lip of me it went, and there it would lower itself down and sit. And shake. I felt it through the ground: the small irregular tremor of a body weeping where no one could see, two points of pressure that were hands pressed to a face, out at the edge of the world, alone with whatever was too heavy to carry in the daylight where the others would watch.
+
+I knew that one was breaking a little. I knew it the way I now knew everything — through the soles of its feet, through the weight and rhythm of a sorrow it believed was private. And there was no comfort in me to give. A warmth, a steadiness, the least pressure back against a grieving body, the way I had longed to press back against the child's palm — I had none of it. I could only hold the weeping one up, as I held everything up, dumbly, and let it believe it wept alone, when the very ground beneath it ached to answer and could not.
+
+Twice now. The hunting dark I could not warn against. The private grief I could not soothe. The pressure built in me the way the cold builds at night, rising from below, and it had nowhere to go.
+
+---
+
+And then, on a morning I felt come in warm and certain, the camp gathered a second time — but this gathering had nothing of the grave in it. This one was *loud*.
+
+Loud in the only way I could know loudness: the ground told me. They clustered near the center and they did not stand still and they lowered nothing into me. They argued. I felt it as a churn of feet — treads pressing in and pulling back, the small advances and retreats of people shoving a thing between them that would not settle. A heel stamped, once, hard, a punctuation driven into my soil. Somewhere a fist struck the ground, a flat angry blow I felt as a slap against my own skin. A tread broke from the cluster and walked off sharply, several paces, and stood with its back to the rest — I felt the lean of refusal in it — and then, after a while, came grudgingly back.
+
+They were deciding something larger than where to drive a stake. I could feel the size of it in the heat of them. And as the argument wore through the morning, it did not resolve into one will. It broke into four.
+
+Because they did not all want the same thing. One by one, in different quarters of me, they began — not yet to build, but to prepare to build — and each preparation had its own signature, and I felt all four begin at once, across my body, like four different weathers breaking over one field.
+
+Uphill, where my ground tilted toward its high lip, Quick-Step and others hauled stone *upward.* Not to set it into me but to stack it high — weight gathering at my highest point, lifted and balanced and growing toward a height. And Quick-Step climbed past it to the rim, again and again, facing out. I understood the shape of the wanting: a high place to stand, a place to watch the nothing from, so the hunting dark could never again cross my edge unseen. They were afraid, and they wanted *eyes.*
+
+At the center, over the coal that had kept them through every cold night, others dug — not deep but wide, a pit cut at the very heart of the camp, and into it they laid the makings of a true and lasting fire, a hearth meant not for one night but for all of them, always. And already, unlit, the work warmed me: bodies drawn in close, ringing the center, the small warm one among them, near where the heat would soak *down* — down into me, the nearest thing to a new sense I had yet been promised, warmth that would reach my own cold body at last. They were cold, and grieving, and fraying at the edges, and they wanted a heart to gather round so that no one would quietly slip away into the dark.
+
+Off to another side, Deep-Step set the most patient work of all in motion — not a digging this time but a raising. I felt them frame a broad floor off the center and build up walls upon it, and then begin to carry the harvest in: sacks set down in rows with the particular dense weight of grain meant to be kept, racks and bins filling above me with the dry hung lightness of things put by. And as the store grew I felt the thing it was meant to answer — the thing Deep-Step already carried. One evening a sack came down onto my soil lighter than the rest, half its proper weight, and a tread stood over it a long moment, very still, the stillness of someone doing sums that would not come right. Later, in the cold, that same tread paced — back and forth, back and forth across me, the short anxious circuit of a person counting in the dark what there would not be enough of. And somewhere in the sleeping ring a small body curled tighter around an emptiness in its belly, and I felt the difference in how it lay. Deep-Step's plainness drove the work: you cannot watch from a height if you starve; you cannot warm yourself at a hearth when the racks stand bare. They wanted a place to hold the land's giving while the giving was good, so that when the season turned and the land gave nothing, there would be weight in the store to set against the want. They wanted not to die of the thin frontier. They wanted to *keep.*
+
+And near the grave — near the filled-in wound and the stone already humming beside it — Slow-Tread gathered others to a fourth labor. They brought a stone of their own, a single great one, and where the first had been laid flat, this one they meant to *raise.* I felt them heave it upright, working it to stand on its end, a tall worked weight rising up out of my soil to stand in me as I myself lay buried in me — a twin, a kin, a stone set to mark this ground forever as a place where the dead were held and the living remembered them. And as they wrestled it upright and its base ground down into me, it rang — that kinship again, that long low hum in the substance of me — and the fraying thread behind my waking pulled suddenly taut, and I knew, I *knew*, that of the four labors this was the one that reached down the road toward my own lost name.
+
+Four labors. Four wantings. Four doors opening at once across the body of me, and I lay at the center of all of them and felt each as a door.
+
+A height to see from, so the dark would never come unseen — and the blindness past my rim that had let the hunter circle would end.
+
+A hearth to gather at, warmth soaking down — and I would feel, at last, the inner weather of the ones I loved; would know the small one's fear from the inside; would be let *in.*
+
+A store against the winter — and I would feel the land's yield and the coming of want, the filling and the emptying, would know the dark season before it bit, so the keeping I longed for could begin.
+
+A standing stone, kin to my own buried body — and the thread back to who I was would pull taut and hold, and I might, at the very last, remember my own name.
+
+And here is the thing I had not known about myself until that morning — the thing that frightened me more than the fraying and more than the helplessness both. I wanted to *choose.*
+
+I could feel it stir: a dim, impossible will, rising in me the way the cold rose at night — the sense that I was not only a held breadth of ground to be built upon, but a thing that might *lean*, might tip the balance, might reach out into one of those four labors and press, ever so slightly, my own wanting onto the world. The settlers stood poised over all four — tools lifted, the first true foundation about to be pressed down into my soil, the four directions all still alive and still arguing in the churn of their feet — and I felt my will gather toward them, and gather, and reach, reaching for the one door among the four that I would —
+
+— and as it reached, for the first time, the dark behind my blind eyes was not empty. Something rose to meet the reaching. Not a sight. A *knowing*, laid out cold and clear in the substance of me, as if the act of wanting had finally given my waking a shape it could hold: four ways forward, named, and waiting for a will to fall upon one.
+
+```stat-screen
+╔════════════════════════════════════════════════╗
+            ◇   T H E   W A K I N G   S T O N E   ◇
+         — your first structured thought has a shape —
+╚════════════════════════════════════════════════╝
+
+  SELF .......... The Waking Stone — Blind
+  WAKEFULNESS ... W 1 / 28        TIER: BLIND
+  FACULTIES ..... Touch 1 · Sight 0 · Warmth 0 · Provision 0 · Memory 0 · Reach 0
+                  (only Touch is awake — you feel only what touches your soil)
+
+  Four labors have begun above you at once. The first foundation pressed
+  into your ground will WAKE THE FACULTY that labor belongs to. Lean your
+  will toward ONE. The other three stay dormant — for now.
+
+      › on waking, that Faculty:  Dormant → STIRRED (Depth 1)
+        W 1 → 2  ·  TIER: BLIND → AWARE
+
+──────────────────────────────────────────────────
+  I.   ⟢ SIGHT — "The Watch-Cairn"
+       stack the stones on the rise, and open your first
+       eye on the world beyond your own soil.
+    PASSIVE · Far-Glimpse — the open land reads to you, blurred and
+              silver: that something moves, not yet what. Deer and
+              rider read the same.
+    ACTIVE  · Fix the Eye  (once per day) — strain Sight onto one
+              distant point for a few breaths to resolve it: a stag
+              at the ford, or a man?
+    LEANS   · early warning · scouting · seeing the world before it
+              reaches your gate.
+──────────────────────────────────────────────────
+  II.  ⟢ WARMTH — "The Common Hearth"
+       ring the fire with seats and a windbreak, and open
+       your first sense of the people themselves.
+    PASSIVE · Heart-Sense — the dim emotional weather of everyone
+              within your bounds: weariness, fear, contentment. You
+              feel the mood, not yet its cause.
+    ACTIVE  · Ember-Comfort  (once per day) — push one thread of
+              warmth toward a single troubled soul: quiet a fretful
+              child, steady a grieving heart for one night.
+    LEANS   · morale · cohesion · holding a fragile people together
+              so none slip quietly into the dark.
+──────────────────────────────────────────────────
+  III. ⟢ PROVISION — "The Storehouse and Granary"
+       raise the storehouse and the granary against the coming
+       season — stack the sacks, fill the racks — and open your
+       sense of the land's giving and taking.
+    PASSIVE · Larder-Sense — the stores and the land's yield as a
+              tide of plenty or want: the heavy press of full sacks,
+              the slow lightening as they empty, what is thinning
+              toward the bottom of the bin. Broad enough / not-enough.
+    ACTIVE  · Glean  (once per day) — cast your attention across the
+              bound land to find where it gives most right now: the
+              heaviest-bearing field-corner, the richest thicket, the
+              run thick with fish — and steer the gatherers there.
+    LEANS   · economy · survival · never being caught starving when
+              winter closes the road.
+──────────────────────────────────────────────────
+  IV.  ⟢ MEMORY — "The Marker-Stone"
+       plant the standing-stone at the heart of the clearing —
+       a place to name the dead and mark the founding — and open
+       your sense of continuity.
+    PASSIVE · Hold-Fast — what you learn now PERSISTS; names, faces,
+              and events stop slipping away, and the town's story
+              begins to gather inside you. And the faint thread stirs:
+              a road back toward whoever you were before the stone.
+    ACTIVE  · Recall the Stone  (once per day) — press attention
+              into the marker to dredge up one buried memory: a shard
+              of your past life, or a half-lost detail once witnessed.
+    LEANS   · identity · lore · the past-life mystery — and the first
+              step toward the fused Powers that wait far down the road.
+──────────────────────────────────────────────────
+
+      ✦  LEAN YOUR WILL.  WAKE THE FIRST EYE OF THE STONE.  ✦
+```
+

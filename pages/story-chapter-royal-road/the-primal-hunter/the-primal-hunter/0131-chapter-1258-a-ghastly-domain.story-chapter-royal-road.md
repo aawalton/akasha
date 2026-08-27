@@ -1,0 +1,151 @@
+---
+id: a96c2ff6-fc94-5657-9797-b4d966775b98
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1258 - A Ghastly Domain"
+slug: 0131-chapter-1258-a-ghastly-domain
+partOf: the-primal-hunter
+position: 131
+ownLength: 3005
+unit: words
+ownProgress: 3005
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3068278/chapter-1258-a-ghastly-domain"
+royalRoadId: "3068278"
+markedReadAt: "2026-06-29T19:35:08.129Z"
+---
+
+Domain Skills were... weird. On the one hand, they were incredibly powerful and often even signature skills, while on the other hand, they were surprisingly common due to certain Legacies throughout the multiverse. However, just like the difference between two regular skills, Domain Skills could vary widely in nearly every way besides their most basic function, which defined them as Domain Skills.
+
+Casper wasn’t the only person Jake knew with a complete Domain Skill. In fact, he knew an entire city and faction full of them.
+
+The Shadow Realm that any proper high-grade assassin from the Court of Shadows could use was technically considered a Domain Skill. It did meet the basic requirements, though, as it allowed one to pull another person into another space that benefited the person using the skill.
+
+There were also skills that seemed like Domain Skills, but couldn’t really be called that. Something like Jake’s Pride of the Malefic Viper and the Sword Saint’s odd ability to make it rain did change the environment and warped their immediate areas to their advantage, but they didn’t actually bring their opponents anywhere. Instead, they only changed a part of the existing world.
+
+Perhaps the biggest difference between a complete Domain Skill and just one that created a territory around oneself was that others could enter and exit the area of a territory merely by walking into it. Meanwhile, with complete Domain Skills, one had to forcibly enter it, and there would be a clearly defined boundary.
+
+Not to say forcibly entering domains tended to be difficult. Getting in was often pretty easy and just took a bit of willpower. It was getting out of one that was hard. Of course, there were exceptions to everything, the Shadow Realm once more standing out here due to how it worked.
+
+The Shadow Realm existed independently of the members of the Court of Shadows, yet it was still considered a Domain Skill as it created a domain they could pull themselves and others into. It qualified, if barely. One advantage it did have, though, was that there was no boundary or anything for others to detect or enter.
+
+One could forcibly follow an assassin and their victim into the Shadow Realm if one was capable enough, but compared to other Domain Skills, it was a tall order. Overall, the only real purpose of the Shadow Realm was to trap someone in a space where they couldn’t escape, and it didn’t actually offer that many advantages for the user.
+
+Domain Skills, like the one Casper used, were different in so many ways. First of all, the domain didn’t actually exist. It was just a temporary manifestation that depended entirely on his own power and existence. This also meant that the Domain Skill was wholly unique, and while others could have similar ones, no domain would be exactly identical.
+
+This was even the case with Legacy Domain Skills from the various factions of the multiverse. Valhal were also famous for using Domain Skills that created battlefields to their advantage, and Jake had even seen Carmen use the lesser variant of what would no doubt one day become a Domain Skill. Even if these domains would all naturally appear near-identical, they were still bound to and defined by the person using them and wouldn’t actually refer to a permanent place.
+
+As Jake considered all this, one question arose in Jake’s mind... if Event Horizon truly was the beginning of what would one day become a complete Domain Skill, what kind was it? Did the space Jake see when he used the skill actually exist, or did he merely conjure it? He felt like it existed, but from all Jake had read, he knew that to the mind of a Domain Skill user, the world always seemed real, as in a way, to them, it was.
+
+Shaking his head, Jake refocused on the here and now as he took in Casper’s domain. The shockwave washed over him, dragging both Jake and the B-grade golem into the domain as they were within its effective range.
+
+With his sphere and other senses, Jake took in the new world he now found himself in. Beneath him, he sank slightly into the moist black soil, and when he looked above, turquoise clouds of blight energy filled the sky, with no celestial objects in sight.
+
+Around him were countless simplistic wooden grave markers, spaced out with one every few meters and stretching as far as Jake could see, which wasn’t actually that far. A dense fog reminiscent of the clouds above filled the air, though it had a slightly darker hue as all the grave markers were leaking energy.
+
+Curse energy... and at a level far above anything Jake had seen Casper be capable of displaying before.
+
+However, what caught his eye the most was the center of the graveyard. A massive wooden stake stood like a spire, reaching into the sky and the clouds of blight energy above. Taking a closer look at this stake, Jake felt a shiver run down his spine as the entire thing, from top to bottom, was filled with carvings of faces that all looked to be in varying degrees of distress.
+
+Things only got creepier when he saw black liquid start to drip out of the eyes of these faces, sliding down the wooden stake and soaking the ground, which also answered the question of how the ground had gotten moist in the first place.
+
+Finally, Jake spotted the one who had brought him into this domain. Casper was kneeling on the ground, slouched over with dozens of curse stakes stabbed into his back, all of them pulsing with power as they released dense curse energy into the atmosphere.
+
+Jake was about to say something when he noticed his scales reacting. Curse and blight energy passively started attacking his body, the domain turning against him. This was another thing about domains and why they weren’t necessarily always good... it was rare to find ones that could properly differentiate between friend and foe, but instead often just attacked anything foreign within.
+
+Fortunately for Jake, he had a counter. Rather than actively blocking the energy from harming him, he took out Eternal Hunger and let it have a snack. The mythical weapon instantly started sucking in the curse energy in his immediate area, creating a safe zone around Jake.
+
+Not that far away from him, the Aginian Crisis Protocol Golem stood, seemingly needing a moment to fully orient itself. Before it could, the environment itself turned against the golem.
+
+The cursed ghostly mist began to swirl around the boss, and from the ground, spectres emerged. Like vengeful wraiths, they instantly attacked the B-grade, their attacks surprisingly being corporeal in nature as they clawed away at the metal creature. Looking at these ghosts, they all had bodies similar to Lyra’s, but none of them had faces, making them look even creepier.
+
+Jake stopped merely watching at this point but took the chance to activate Unseen Hunter and hide away within the ghostly mist, preparing a proper attack while allowing Casper to show off what his domain could do.
+
+After creating some distance, Jake took out the Protean Arrow. Sadly, he couldn’t use Eternal Hunger together with it as he needed it to defend against the domain, but he would manage.
+
+Nocking it, Jake started channeling Arcane Powershot and turned his attention back to the confrontation between Casper and the B-grade golem.
+
+The dungeon boss quickly reacted to the attack as its body exploded with lightning energy, instantly destroying all the ghosts attacking it and dispersing the environmental forces trying to invade and destroy its body. In its overcharged state, its power was far beyond what it was before, and it quickly turned its attention toward Casper.
+
+Charging toward the Risen, Casper didn’t even react. He didn’t need to.
+
+Twice as many ghosts as before emerged from the ground, attacking in unison and actually stopping the golem’s charge by sacrificing their own bodies. Before they even had time to fully disperse, more ghosts appeared and kept up the assault as the environmental energies returned with a vengeance, their intensity and power stronger than before.
+
+Swinging its sword wildly, the golem destroyed several more ghosts as new ones just appeared, but it still managed to approach Casper with steady steps. Soon enough, it reached the Risen and jumped forward, swinging down its sword.
+
+Jake was concerned upon seeing this, but that concern was instantly dispelled. Casper didn’t even try to block as the sword impacted his skull and proceeded to destroy it entirely, along with most of his body. However, rather than sending flesh flying, all the golem managed to do was scatter more turquoise mist.
+
+Casper’s body began to regather itself again, quickly making it evident his body wasn’t corporeal at all. The lightning-wrapped blade should have done damage, yet the Risen seemed entirely unaffected.
+
+At least it did so at first, but Jake, making use of his stupid level of Perception, could see that the energy he used to heal himself was gathered from the atmosphere, weakening the domain slightly. Oh, and it was also a bit of a clue that whenever the golem hit Casper, some of the wooden grave-markers splintered, turning into dense curse energy to refuel the atmosphere.
+
+Ghosts kept attacking the golem, tearing at it and even getting through its passive lightning-infused barrier due to the constant attacks. The surface of the golem’s body started taking on a rust-like appearance, the damage especially evident around where Jake had used Touch of the Malefic Viper.
+
+Meanwhile, the golem continued to attack Casper, scattering his ethereal body over and over again as the Risen grimaced with every hit. He looked like he was in incredible pain, gritting his teeth, but he never once moved, no matter what happened.
+
+Jake felt unsure, but the Risen looked determined, making him continue charging his Arcane Powershot. It felt like an eternity, but Jake finally felt his body start to reach its limits. He infused the arrow with every shred of hunting momentum and everything else he had as he released the string.
+
+Aiming wasn’t a concern as Jake knew his arrow would reach its target, because despite Casper’s use of his domain, the golden ring of light around the B-grade remained, marking it as Jake’s Event Horizon.
+
+The golem didn’t even try to react, unable to sense anything going on around itself due to the now hundreds of Lyra-like ghosts clawing at it from all sides. Instead, the ones to react were the ghosts as they slightly gave way to the arrow as it shot in between several of them, striking the golem in the back.
+
+Jake and Casper had struggled to deal with the barrier of the golem for most of this fight, and after the golem had overcharged itself, it had only gotten stronger. The ghosts could get through at times, but it was far from consistent. It was a barrier made to handle singular, powerful attacks... but it had its limits, and Jake had just discovered that limit, no doubt in part due to the Penetrating Arrow effect.
+
+The arrow went straight through the barrier, releasing a lightning blast that destroyed all the surrounding ghosts as it continued into the metal body of the golem. With a body partly rusting and corroding in places, alongside the fact that Jake struck on the exact opposite side of where he’d left some handprints earlier, the integrity of the golem’s seemingly indestructible body failed it.
+
+Metal was sent flying as Jake blew off its left side and half of its chest, severing one of its arms and blasting the golem to the side. It rolled across the ground, breaking through several cursed grave-markers on the way as it pushed up a big mound of dirt when it finally stopped itself.
+
+Its body was partly broken, its interior fully visible through its left side, and, while it was still holding its sword, the B-grade looked wobbly, perhaps due to its newfound imbalance. What’s more, its barrier was flickering in and out as sparks of electricity were released intermittently.
+
+Jake quickly prepared to draw his bow again to finish off the B-grade, but before he could even do it, the damn thing moved. A surge of lightning energy erupted from its body, and it charged straight for Casper again, insistent on at least taking him down with it.
+
+Initially, Jake almost found it funny, but he soon realized this could actually be dangerous. When it moved, Jake spotted its now partly exposed core was covered in cracks and was leaking intense levels of lightning energy.
+
+“It’s gonna blow up!” Jake tried to send telepathically toward the kneeling Casper... but to his surprise, it didn’t work. Jake was perplexed about what was going on, which was when he realized why the “Casper” he had been looking at felt so wrong from the very beginning.
+
+He looked toward the massive stake in the middle of the domain and saw that it had started to crack all over. Curse and blight energy leaked out from all the cracks, and that’s when the kneeling Casper also finally moved.
+
+Casper sat up straight and looked at the charging golem. With one hand, he reached up and behind his back, pulling out one of the wooden stakes as he winced in pain. The golem arrived at him then, swinging a few more times and scattering his body, but even then, the Risen simply kept doing his own thing with calm movements.
+
+Holding the wooden stake, Casper grasped it with both hands and pointed the sharp end toward himself. Closing his eyes, he plunged it straight into his own chest, making the apparition of himself disappear.
+
+At the exact same time, the massive cursed stake exploded, releasing a torrent of curse energy. All the energy within the domain began gathering rapidly, fusing with the black smoke released by the destroyed wooden stake. Within moments, it took form.
+
+A massive ghostly version of the fusion of Casper and Lyra appeared, only to immediately fly down towards the B-grade dungeon boss. The golem stood still as its core started glowing with a blinding light, and the B-grade purposefully made its core reach critical failure as that annoying female voice spoke again.
+
+“Self-destruct sequence initialized.”
+
+Jake quickly reacted by erecting barriers and wrapping his wings around himself, and just as the golem reached and enveloped the B-grade’s body, it exploded. A shockwave washed over Jake, its energy a mixture of lightning and cursed blight. Jake was pushed back, and as he was, the world around him also became undone.
+
+Casper’s domain shattered alongside the golem’s self-destruction as the ghost and boss were both destroyed alongside one another. The world within the domain and the real world bled together as the ground returned to being tiled floors, and the massive walls of the Grand Labyrinth appeared in the distance.
+
+And then... all was silent. Jake stood back in the dungeon, and the next sound he heard was that of notifications from the system.
+
+You have slain [Aginian Crisis Protocol Golem – lvl 375] – Bonus experience earned for killing an enemy above your level
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 349 - Stat points allocated, +50 Free Points
+
+Despite confirming the kill, Jake didn’t relax. Through his sphere, he saw the scattered metal fragments of the golem’s body, but he also saw Casper, kneeling on the ground listlessly with both his hands lying powerlessly on the ground. What’s more, he had a wooden stake impaling his chest, making Jake quickly rush over.
+
+“Hey...” Jake said, full of concern.
+
+Casper moved his eyes to look at Jake, but all he could do was blink, telling Jake enough. In his current state, the Risen couldn’t even move.
+
+“Should I take out the stake?” Jake asked.
+
+Casper’s look told Jake no, making him nod. “Alright... I’ll just stand guard then.”
+
+In about an hour, he could pour a spirit potion down Casper’s throat, but he couldn’t really do more to help than that. However, just as Jake considered sitting down to recover a bit himself, he realized something.
+
+The dungeon isn’t completed yet.
+
+That’s when Jake remembered... the objective wasn’t to kill any boss but to uncover the true purpose of the Grand Labyrinth. Right then, he vaguely felt the presence of something else as the robotic female voice that had activated the Crisis Protocol Golem appeared once more, this time far more noticeably than before. Jake was ready to fight if Minaga had actually gone as far as to implement yet another phase.
+
+Jake felt the entire Labyrinth rumble, and in the sky, a head projection appeared, looking down at the two of them and speaking.
+
+“Lorem ipsum dolor sit amet, consecrator adipiscing elit...”
+
+All sense of danger immediately disappeared as Jake facepalmed and chuckled to himself. Still smiling, he watched as the face disappeared, only to be replaced with the face of the familiar Unique Lifeform that had created the dungeon.
+
+“Right... right, I should actually put something here to complete the dungeon in case those two actually get here and beat the boss, well, both bosses...” Minaga spoke as he suddenly seemed to have a realization. “Wait! That means I can do a full-on lore-dump and they can’t even escape! Oh, man, in case you two ever hear this, let me tell you, the story of this place is actually really great and partly based on a true story, so even if you don’t have a choice either way, you really wanna hear this! You see, this Labyrinth was made to... no, no, I’ll save that for last. Let’s first cover the early historic periods of the Aginian empire so you can truly appreciate how we got here!”
+
+Jake’s smile quickly faded as he had a feeling Casper would have plenty of time to recover before the dungeon officially ended.

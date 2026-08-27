@@ -1,0 +1,199 @@
+---
+id: 0fb38a41-6562-570d-abed-e5c650ea8838
+page-type-slug: story-chapter-royal-road
+title: "17 - Moon Juice"
+slug: 0017-17-moon-juice
+partOf: rise-of-the-dragon-queen-evolutionprogression
+position: 17
+ownLength: 2116
+unit: words
+publishedAt: 2025-10-11
+link: "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2669162/17-moon-juice"
+royalRoadId: "2669162"
+---
+
+Stella spent the next two days killing vampire fish whenever she could. Due to not having much work to do with Michael anymore, she focused more on training by herself. They still hung out every day, but it was more geared towards pure training sessions.
+
+But Michael still had to make a living. He couldn't tutor her all the time with how things were. So, after boosting her [Silver Tongue] skill a few times, practicing some haggling and reselling, he gave her the rest of the day off.
+
+Her skill was now level 6, and her [Elemental Breath] was level 15, thanks to the many vampire fish sacrifices. Her wings were healing nicely, but they remained a little stiff. It was a reminder that being reckless was never the answer.
+
+“Come get it, fishies!” Stella yelled as she wiggled her tail in the river.
+
+She was perched on a rock in the middle of the river, using her tail as fish bait. For some reason, her presence seemed to attract monsters, her blood especially. Centipedes liked it, fish liked it, really, just was the best bait a fisherman or huntsman would ever find.
+
+“OW!”
+
+Being bait had its downsides, as well as its perks.
+
+“These vampire fish are delicious!” Stella exclaimed about obliterating and cooking a whole pack of them.
+
+Over the fire, her makeshift spear tilted forward, cooking the fish. Every so often, she would reach over and pull off a body, unfazed by the heat still present on their thick, crab-shell-like scales.
+
+Crack! Crunch! Yum!
+
+I should take some to Michael!
+
+Fire, one of the male fledglings, suddenly zoomed past and stole the spear of fish.
+
+“Hey! Get back here with that!”
+
+The red dragon stopped a far distance from the fire, setting down the spear and parting his jaws, preparing to gorge himself in his stolen goods. But just before he could, a dark shadow projected from above, blanketed him. He turned his medium-length neck around like an owl turning its head, teeth bared, eyes glinting with challenge.
+
+Smoke, Fire’s brother, was bulkier and easily took control of the situation. He flattened Fire, took the spear and returned it to Stella, his green eyes sparkling with pride.
+
+Stella glanced over Smoke’s shoulder to confirm that Fire was okay, but the fledgling was already on his feet and preparing to fly. He snarled at Smoke, but didn't challenge him further.
+
+Stella took the spear despite the fact that the fish were now covered in dragon spit and soil. She threw a few to Smoke and then some to Sapphire who had been watching from a brush pile that she'd used as a bed for some time now.
+
+Stella didn't know the first thing about training or raising dragons. But it was obvious they were figuring out some kind of hierarchy. Despite it only having been a few days, the dragonets had become fledglings. Basically, whatever middle stage was between not flying and gliding was long gone.
+
+They could all fly, though Sapphire was still smaller, longer and therefore better at it and her brothers.
+
+They still congregated around Stella, like her pack. But often, they went off on their own to hunt. Other times, they would play or nap. Much like cats, their play could become volatile. But unlike cats, they were big enough to knock down saplings and rip apart logs.
+
+After feeding her remaining fish to the good dragons that didn't steal it. She went and caught some more. The river was significantly farther from her camp after her previous move and it took longer for her to get back, safe in her familiar and pretty little meadow.
+
+After cooking the next batch, she put the fish, oily and hot as they were, into her satchel (after dumping everything else out).
+
+She took her leather bag full of vampire fish into town in her usual outfit, a spring in her step. Fellheart was quieter than usual today, especially considering it was midday.
+
+With no reason to wake Michael up early, Stella usually came later in the day, after training, and stayed for a much shorter period of time. During midday, she was always surprised at how many people crowded Fellhearts’ streets. But today, something was a little off.
+
+She found Michael in his room, somehow still sleeping. After knocking like an FBI agent, he eventually got up and let her in.
+
+They sat at a small table near the window, Michael looking like a zombie woken from the grave, and Stella pulling literal full bodies of fish out of her bag.
+
+“Try these! They are delicious!” Stella said after putting a pile of five in front of him.
+
+Michael blinked down at the hill of fish, confusion warping his face. He then yawned and leaned back, stretching out a hand to grab his glasses off an end table near his bed.
+
+Stella briefly wondered why he slept in an inn after the Merchant Guild Leader had mentioned he had an apple farmer family. She thought it better not to pursue an answer.
+
+Fitting his glasses on the bridge of his nose, Michael inspected the fish as it steamed and released the heavy stench of sea-food into the air. Stella wondered if she'd cooked this batch enough, as Smoke had smothered the flames partway through, deciding to use the hot ashes as his personal dragon-bed.
+
+“Stella, these are poisonous. Don't tell me you've eaten one!”
+
+Stella blinked.
+
+“Well, of course I have, I said they were delicious.”
+
+Michael shot up and began looking around for something. Before Stella could insist he stop, he pulled out a black pill and shoved it into her mouth. She had been trying to say something before then, but now she was gurgling as the black pill ran down her throat and brought up her stomach contents.
+
+She threw up all over the table, then fell down, holding her stomach and lying on the ground.
+
+“It's to make you throw it up! I'm going to save you, Stella!”
+
+She groaned.
+
+If it was poisonous, why didn't you tell me, Computer Voice!?
+
+[You're mean to me.]
+
+And so you want to kill me!?
+
+[No, you are resistant to poison. Humans, however, are not.]
+
+So, you just let him do this to me?!
+
+[This is a fair punishment.]
+
+After vomiting multiple times and telling Michael she was perfectly fine and that she actually had poison resistance, he finally gave up trying to “rescue” her.
+
+After asking for help cleaning the room and getting some very angry comments and looks from the inn's housekeeping staff, the pair went outside to do their usual training session.
+
+“Okay, today I will teach you how to make medicine. We will start with something simple. We have plenty of herbs to work with, so you can choose just about anything.”
+
+They sat on a bench near some flower pots and a fountain, a basket of herbs between them, and some purchased jars tucked into the herbs. If Stella was going to be the one creating, then Michael's ‘bottled’ skill wouldn't activate.
+
+“I thought you needed to be an alchemist or a healer to do this kind of stuff?”
+
+“No, not at all. Healers use magic and an understanding of the human body. Alchemists just use ingredients like an everyday person without magic. We also use incantations, which are specifically designed by and for alchemists. You can make anything I can, just without the incantation.”
+
+Stella nodded along, then tried to think up a medicine that she would want to make that sounded simple and useful.
+
+“How about something to cure a cold?”
+
+“Great! That's simple, just add a bit of mint and thyme to one of the jars and then…”
+
+A combination of thyme, elderflower, and yarrow was combined into the jar. Then they added water and heated the water using a ‘fire stone' that Michael conveniently had, apparently from days when he didn't use incantations.
+
+After boiling down the herbs in water and adding honey, ginger, and a few other things, the mixture was done. After being strained through a fine cloth and then placed back into the jar, Michael claimed it could be mixed and used like leaves in tea, then consumed just like that.
+
+But while she was doing all this learning, she was also distracted by local gossip. Apparently, people had gone missing recently. The quietness in the town could've been explained by people's worry, but Stella tried not to jump to conclusions. Still, worrying about others didn't leave her easily.
+
+It weighed on her until, eventually, Michael decided to stop the process of their medicine making and ask her what was distracting her.
+
+“N-Nothing!” She exclaimed.
+
+He is trying to teach me, but honestly, I stopped paying attention after I overheard some women talking about missing townsfolk. I guess I'm being a bit rude.
+
+Michael sighed, looking like he wanted to press the issue, but then decided against it.
+
+“Why don't we make something easier and more fun? There is a red crescent moon tonight. Why don't we make some moon juice?”
+
+“Moon juice?”
+
+“It's very simple and then you just leave it in the windowsill to absorb the light of the moon.”
+
+“Oh, so similar to the ointment or… That weird medicine you made?”
+
+“Precisely.”
+
+“Okay! Let's make some moon juice!”
+
+Stella's excitement stemmed from her desire to make Michael feel accomplished, like he was actually cheering her up. But also, because the words ‘moon juice’ were hilarious.
+
+The recipe was extremely simple. Water in a jar and then put in the windowsill. That was it. Stella realized that waiting was the least fun part, and instead of staring at the jar, willing it to change into something, she decided to make a few more jars.
+
+Jar. Water. Windowsill.
+
+She repeated this process for a little while, until the windowsill was full. Michael had gone away to grab some food from down at the restaurant portion of the inn and returned to find all his jars full of water.
+
+Without much more than a sigh, he fed Stella a plate of steak.
+
+“Oh wow! You know me so well! Thank you!”
+
+“Yeah, I figured I should feed you after making you throw up that fish. Though my quick thinking would have saved the average person.”
+
+The memory made Stella wince, but she quickly smothered her disgust and trauma by stuffing her face. Steak was good, and in this world, it was cheap. Meat was everywhere, and magic seemed to make raising livestock simpler.
+
+It's so good! She thought cheerily.
+
+“Y’know, I think you have a bottomless pit for a stomach,” Michael chuckled.
+
+Stella nodded. Thanks to her skill [Wrath Of The Ravenous], she was hungry basically all the time. It didn't bug her, it actually was nice to be able to eat so much.
+
+The next morning, Stella returned to Michael's room and entered his room without permission. He hadn't answered, and now she found out why. He was gone.
+
+Stella thought briefly over why he might be up so early and where he'd gone. But she was thoroughly distracted by the moon juice.
+
+The jars had turned cloudy overnight and now looked almost like milk!
+
+Stella grabbed one jar and sniffed. It smelled normal, like water. She stuck her tongue into the jar.
+
+Mm, tastes kinda sweet. Like… Juice?
+
+She drank it all. Actually, she drank every jar. Not only did it taste good, it was full of mana. Or, that's what she guessed. Every sip gave her a rush, like drinking an energy drink.
+
+“Stella! Oh, what… Did you drink all of that?”
+
+Stella was found only twenty minutes later, sprawled on the floor. She felt surprisingly dizzy.
+
+She burped.
+
+“Stella… Moon juice is too potent to be guzzled like that.”
+
+Michael crouched down and pulled her up, laying her on his bed and then covering her up. She burped repeatedly.
+
+“Actually, it's just supposed to taste good and raise your intelligence a bit. It's something like a pointless enchantment. Because there is nothing to bind to but the water, it is mana-rich as it basically just takes on the qualities of the moon… But, in large doses… It does have this effect.”
+
+[Intelligence stat locked. Increase failed.]
+
+“Robert!” Stella cried incoherently.
+
+“Okay, I'm going to get some breakfast. You rest.”
+
+Stella was lucky that he stayed gone as long as he did. Because she lost her form and was all dragon-y while she slept off the moon juice. When she awoke, she quickly fixed herself, glad that her position had actually caused her wings not to tear through her dress.
+
+No more moon juice for Stella.

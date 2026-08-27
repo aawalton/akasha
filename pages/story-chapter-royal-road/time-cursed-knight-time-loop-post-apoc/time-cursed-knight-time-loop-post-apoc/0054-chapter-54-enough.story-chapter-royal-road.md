@@ -1,0 +1,499 @@
+---
+id: c4063543-1cac-5a70-9bd1-251ef1bafb18
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54: Enough"
+slug: 0054-chapter-54-enough
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 54
+ownLength: 3084
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3466135/chapter-54-enough"
+royalRoadId: "3466135"
+---
+
+Pain woke me before consciousness did.
+
+It arrived as a wave, rolling from my wrists down through my arms, across my chest, through my ribs and my stomach and the burned skin on my back, until every nerve in my body was screaming at once, a choir of agony performing in perfect unison.
+
+My eyes opened.
+
+Dawn.
+
+The thin gold line of sunrise cut beneath the overcast.
+
+The chains were still on my wrists.
+
+My arms hung wide, stretched to either side, iron links biting into flesh that had gone purple beneath the manacles.
+
+Salt water lapped at my ankles. The tide was low. The lowest point of its cycle, the same trough I'd watched during the previous day, the brief window when the cages hung completely above the waterline.
+
+My lungs burned.
+
+Not the mint-burn of Mana Breath. The kind of pain that comes from lungs that had filled with the ocean and expelled it and filled again.
+
+I'd drowned.
+
+At some point during the second night, my consciousness had thinned past the point where I could maintain the breathing rhythm. A wave had come. My mouth had been open. The salt water had poured in.
+
+Death had caught me.
+
+My head dropped forward. Chin against chest.
+
+My body was ruined.
+
+The hypothermia hadn't reset. The cramps hadn't reset. The burns on my back hadn't reset. The cut above my eye, the bruise in my stomach, the dozens of small wounds accumulated during the corridor fighting, all of it remained, layered atop the new damage of thirty-six hours of exposure.
+
+My eyes drifted to the cages.
+
+Eight people.
+
+I looked at them and felt the mathematics begin.
+
+No one is coming.
+
+The thought arrived without announcement.
+
+Two days. It was the most I could survive.
+
+The reinforcements from Grenzheim had gone to the trenches. They had gone where the battle was, because that was where the living needed them.
+
+Nobody was looking for bodies on a beach.
+
+You know what you have to do.
+
+The voice wasn't external. It was mine.
+
+You're no hero.
+
+The words burned.
+
+A knight is not a hero. A knight doesn't save everyone. A knight saves those he can, protects those within his grasp, and buries the ones he couldn't hold.
+
+I pulled against the chains. Not to break them. Just to feel them. The iron bit into my wrists and the pain was a clarifying thing that cut through the fog.
+
+I can hold longer. One more tide. One more cycle. Maybe on the third day—
+
+At best, the third day kills you again. And brings you back weaker.
+
+The weaker you get is one more person you can't save.
+
+I closed my eyes.
+
+Yulia's face materialized in the darkness behind my lids.
+
+You already chose.
+
+The voice was relentless.
+
+You already decided who would live and who would die. You drove a sword through a girl's heart. You watched the light leave her eyes. You laid her on the grass and stood up and walked away.
+
+Your hands aren't clean. They will never be clean. To save some, you might lose some.
+
+I tried to push the voice down. Tried to find the argument that would silence it, the righteous counterpoint that would prove there was still a way to save all eight.
+
+Nothing came.
+
+You put yourself here. You chose to be the one who acts. The one who decides. You could have stayed in the lodging house. Could have trained in the yard and waited for someone else to handle it. But you rode south. You stopped the ritual. You sent the letters. You fought in the corridors.
+
+You claimed the responsibility.
+
+Now carry it.
+
+Something inside me cracked.
+
+Not the dramatic fracture of a breaking bone. Something quieter. A hairline fissure running through whatever structure had been holding the weight of the past months, loops, deaths, choices.
+
+The fissure spread.
+
+I felt it in my chest. In the space behind my ribs where the heart sat, battered and bruised and stubbornly beating.
+
+I opened my eyes.
+
+The tide was at its lowest.
+
+The cages hung above the waterline. The prisoners inside were as dry as they would be for the next twelve hours.
+
+I breathed.
+
+The mint-burn bloomed in my lungs. The mana flowed.
+
+My voice came out as a rasp.
+
+“Listen- Listen to me. Everyone.”
+
+Heads turned.
+
+In the nearest cage, Ivan's chin lifted from Anya's hair. The boy's hollow eyes found mine. Beside him, Anya shifted. She couldn't turn her head far enough to see me, but her body stilled.
+
+The burn-scarred officer in the third cage looked at me. Her expression was unreadable.
+
+The medic opened her eyes.
+
+Pyotr didn't move. But Nadya's head turned. Her dark eyes, which had been fixed on the ocean, found my face.
+
+“I’m going to break the chains.”
+
+Nobody reacted. The statement was too sudden, arriving after a day of silence and suffering and the slow, grinding expectation of death.
+
+“When I break the chains,” I continued, “the magic will release the counterweight. The cages drop. All of them. Into the water.”
+
+Now they reacted.
+
+Ivan's arms tightened around Anya. The boy's jaw clenched behind his gag. In the soldier's cage, the man who'd tackled the elf surged forward against the bars, his bound hands straining behind his back.
+
+The burn-scarred officer didn't move. Didn't flinch. Her eyes stayed on mine.
+
+“I know,” I said. “I know what that means.”
+
+My voice cracked on the second word.
+
+“I’m not strong enough to hold any longer. Another tide and I will drown. My body won’t last. It’s already failing.”
+
+I swallowed. Salt and blood.
+
+“I’m going to break free and I’m going to jump. I’ll reach the cages. I’ll open as many as I can. Pull apart the bars, cut the bindings, get you into the water.”
+
+A pause.
+
+“I can’t save all of you.”
+
+The words fell from my mouth and shattered on the rocks below.
+
+“I don’t have the strength. I’ll open every cage I can reach. After that…”
+
+My throat closed.
+
+“After that, it’s up to you. Whether you can swim. Whether you can reach the shore.”
+
+I looked at them.
+
+Each cage. Each face.
+
+Ivan's terror. Anya's buried head. Pyotr's stillness. Nadya's dark, knowing eyes. The soldiers' rigid jaws. The medic's quiet breathing.
+
+“I’m sorry,” I said. “I’m not strong enough.”
+
+Silence.
+
+The waves whispered against the rocks.
+
+The burn-scarred officer spoke.
+
+“Soldier.”
+
+One word. Her voice was hoarse, stripped raw by the salt and the cold.
+
+“Do it.”
+
+The third soldier nodded. A single, sharp jerk of his chin.
+
+Ivan pressed his face into Anya's hair. His eyes squeezed shut. The boy's shoulders shook once, hard, and then went still.
+
+I breathed.
+
+The mana flowed.
+
+I didn't hold it back. Didn't meter it. Didn't manage the distribution or worry about balance. I opened every gate the nine cores possessed and let the flood come.
+
+The warmth became heat. The heat became fire. The mint-burn in my lungs intensified past anything I'd ever produced, a concentrated inferno of mana that poured through the respiratory tissue and radiated outward with a violence that made my veins stand out against my skin like dark ropes.
+
+My arms glowed.
+
+Faintly, beneath the surface, visible through the translucent skin of my inner wrists where the blood ran closest to the surface, a blue-white light appeared. The mana was so dense in the muscle tissue that it was producing light.
+
+I directed everything into my hands.
+
+Into the fingers that gripped the chains.
+
+Into the iron links that held me.
+
+I pulled. The chains screamed.
+
+Metal shrieked against metal. The links nearest to my manacles deformed.
+
+I pulled harder.
+
+The chains didn't break.
+
+They exploded.
+
+The iron links nearest to my wrists didn't snap or separate. They disintegrated. The metal flew apart in a spray of shrapnel. The shockwave traveled down the chain lines, through the carved channels in the rock, through the counterweight mechanism.
+
+The cages dropped.
+
+All four.
+
+The iron prisons plummeted from the cliff face.
+
+The impacts were enormous. Four separate detonations of water and iron that sent plumes of white foam erupting skyward. The spray hit me where I stood on the boulder, salt water drenching my face and chest.
+
+I was already moving.
+
+The ropes around my ankles. My hands, still trembling from the chain-break, found the knots and tore at them. The salt-crusted fibers cut into my fingers. Blood welled from the abrasions. The knots wouldn't give.
+
+I stopped trying to untie them.
+
+I grabbed the rope with both hands and pulled.
+
+The fibers separated with a wet tearing sound. The individual strands snapped one by one, each break requiring more force than the last, until the final strand parted and my ankles were free.
+
+I dove.
+
+The water hit me like a wall of glass. Cold flooded every wound, burn and open cut.
+
+I opened my eyes underwater.
+
+The salt stung. My vision was blurred, the ocean reducing the world to smears of color and shadow. But I could see the cages.
+
+The nearest cage was three meters below me.
+
+I kicked.
+
+My legs drove me downward. The water pressure increased against my eardrums. The light dimmed with each meter of depth.
+
+The cage materialized before me. Iron bars. Dark shapes inside.
+
+I didn't look at who was inside.
+
+The closest cage. That's the rule. Not who deserves it most. Not who I know best. Not who has the best chance. The closest.
+
+My hands found the cage door. The bars were thick. The lock mechanism was a simple latch, iron on iron, designed to be operated from outside.
+
+I grabbed the latch.
+
+Pulled.
+
+I poured mana into my grip and forced the warmth into my palms, my fingers, the tendons that wrapped around the cold iron.
+
+The latch tore free.
+
+The door swung open. The current caught it and pushed it wide.
+
+Inside. Two figures. Bound, gagged, thrashing in the water that had already filled the cage.
+
+My hands found the first body. Grabbed cloth, grabbed rope, grabbed whatever purchase the water offered. I pulled.
+
+The body came with me, out of the cage, into the open water. Rope around the wrists. I seized it, twisted, felt the fibers grind against each other. Tore.
+
+One hand free. Then the other. The gag around the face. Ripped away.
+
+The person gasped. A desperate, reflexive inhalation that pulled water as much as air. Coughing. Choking. But alive. Conscious. Arms moving.
+
+I pushed them toward the surface and turned back.
+
+The second figure in the cage. Still bound. Still submerged. I reached in and hauled them out by the collar. Found the ropes. Tore. Found the gag. Ripped.
+
+Another gasp. Another cough. Another set of arms suddenly free and thrashing toward the light above.
+
+The second cage.
+
+Deeper now. The first cage had settled in shallow water. The second had drifted further from the cliff face, caught by the current that ran parallel to the shore. It sat in water twice as deep.
+
+I dove.
+
+My lungs, which had been screaming since the first submersion, were now operating on something beyond oxygen. The mana in the tissue sustained the cellular processes that should have failed minutes ago. A crude, primitive bypass of the body's need for air.
+
+It wouldn't last.
+
+The second cage appeared below me. Its door faced the open ocean. The current had pushed it into a slight depression in the seabed, wedging one corner into the sand.
+
+I grabbed the latch. Pulled. Pulled harder. The iron groaned and gave.
+
+Inside. Three figures in torn Iron Cross gray. Two were moving weakly. The third wasn't moving at all.
+
+I pulled the nearest moving one first. Rope. Gag. Free. Surface.
+
+The second moving one was already swallowing water, eyes rolling. I hauled him out by the belt. Rope. Gag. Shove toward the light.
+
+Then the still one. The body was limp in my arms. Dead weight in the water. I pulled them through the cage door, fought the ropes, freed the hands and the mouth.
+
+No gasp. No cough.
+
+I pressed my palm against the chest. Pushed. The ribs sank beneath my hand.
+
+Nothing.
+
+Again.
+
+A shudder. A convulsion. Water erupted from the mouth. Then air, thin and desperate, and the body jerked in my grip.
+
+I shoved them upward. Toward the light. Toward the air.
+
+The third cage.
+
+I could see it below me. Further out. Deeper.
+
+My lungs were done.
+
+The mana-burn that had sustained them flickered. The cores were still producing, still pouring mana into the channels, but the tissue itself was failing.
+
+I needed to breathe.
+
+The surface was above me.
+
+The third cage was below me. Sinking into darkness.
+
+I looked down.
+
+The water deepened. The light thinned. The cage was a dark rectangle against a darker seabed, settling into a depression where the sand gave way to rock. Ten meters below. Maybe twelve.
+
+I kicked downward.
+
+Three meters.
+
+My vision narrowed. The edges went gray. The center held, but barely.
+
+Five meters.
+
+My chest spasmed. An involuntary contraction that tried to force an inhalation. I clamped my mouth shut. Salt water leaked between my lips.
+
+Seven meters.
+
+The cage was close now. I could see the bars. Could see the shapes inside. Dark outlines against the darker water.
+
+My hands found the latch.
+
+I pulled.
+
+Nothing.
+
+The mechanism was jammed. The cage had landed at an angle that had deformed the frame, pushing the door's alignment off true. The latch was caught against the distorted bars.
+
+I pulled again. Mana into the arms. Into the fingers. The warmth flooding the last reserves of strength that the nine cores could produce.
+
+The latch came loose, opening the door by a few centimeters.
+
+I only had time to pull out what was inside. I couldn't untie the ropes, only push them upward.
+
+My vision went black.
+
+Not gray. Black.
+
+The oxygen debt hit like a hammer. My lungs convulsed. My mouth opened involuntarily and the ocean poured in.
+
+My hands lost the bars.
+
+My body drifted upward. An involuntary buoyancy response. The last autonomic function of a brain that had decided survival trumped everything else.
+
+I broke the surface gasping.
+
+The air hit my lungs and I retched. Salt water poured from my mouth, my nose, in a cascade that burned every membrane it touched. My arms flailed. My legs kicked at nothing.
+
+I coughed until my throat tore.
+
+Breathed.
+
+Breathed.
+
+The fourth cage.
+
+I looked down through the surface.
+
+Darkness. The water beyond the shallows was opaque from this angle. The seabed, the cage, whatever remained below, was invisible.
+
+I dove.
+
+Down into the cold. Down into the dark.
+
+I searched.
+
+Kicked through the water in wide sweeps. Arms extended. Fingers spread, reaching for iron that wasn't there.
+
+The bottom was sand and rock and kelp that grabbed at my ankles and nothing else.
+
+I surfaced. Breathed. Dove again.
+
+Deeper this time. Further from the cliff face. The current might have pushed the cage. It might have tumbled along the seabed, carried by the same force that pulled at my body.
+
+Nothing.
+
+Sand. Rock. Darkness.
+
+I surfaced. Breathed. The coughing was worse each time. Pink foam flecked my lips.
+
+I dove a third time.
+
+My arms were barely functional. The muscles that had torn iron chains from rock were now trembling so badly that holding a straight course through the water required an act of will.
+
+I couldn't see. The depth was complete darkness. My hands swept through empty water.
+
+Where are you? Where...
+
+My lungs convulsed.
+
+The ocean pulled me in its grip and my body betrayed every conscious command. My limbs went limp. The current caught me and turned me, spinning me in a slow revolution that disoriented whatever remained of my spatial awareness.
+
+I kicked. Upward. Or what I hoped was upward.
+
+The light found me before the surface did. A gradual brightening that told me which direction was sky.
+
+I broke through.
+
+The air was a mercy I didn't deserve.
+
+I floated. My face pointed at the overcast sky. My arms spread at my sides. My legs hung below me in the water, useless, spent.
+
+The current carried me until my back scraped against sand.
+
+I tried to stand. My legs folded. I crawled instead.
+
+Ten meters from the waterline, my arms gave out.
+
+I collapsed face-first into the sand.
+
+The grains pressed against my cheek.
+
+I turned my head.
+
+Bodies on the beach.
+
+Four figures lay in the sand twenty meters to my right. They were breathing. Coughing. Alive. The woman with the burn scar sat upright, her arms braced behind her. Another soldier knelt beside her, bent double, hacking water onto the sand. Beside them, the soldier who had tackled the elf lay on his side, his chest heaving. The medic, her white robes sodden and gray, was on her hands and knees, retching salt water into the sand.
+
+Further down the shore, nothing.
+
+I lifted my head.
+
+Scanned the waterline. The rocks at the base of the cliff. The stretch of beach in both directions.
+
+I pushed myself up. Got one elbow under me. Then the other. My head swung left, right, searching the water's surface for a hand, a head, any break in the gray that might mean someone was still fighting.
+
+The surface was flat and featureless.
+
+I crawled toward the water.
+
+“Where…”
+
+The word dissolved into a cough that brought up something warm and copper-tasting.
+
+My body simply refused to go further. Every muscle, every tendon, every fiber of tissue that had carried me through the dives and the cages, declared that they were done.
+
+I knelt in the shallows and stared at the ocean.
+
+The fourth cage was somewhere beneath that gray surface. In the dark, in the deep, in the place where the current had carried it while I was saving the ones I could reach.
+
+Ivan. Anya.
+
+Or Pyotr. Nadya.
+
+I didn't know which cage had gone deepest. Didn't know what happened with those I pulled from the third cage.
+
+Three cages opened. Six people freed.
+
+Four lost.
+
+The tears came.
+
+Sand shifted behind me.
+
+Footsteps.
+
+A hand came to rest on the top of my head.
+
+The touch was light. Barely there. Fingers against my scalp, the gentle weight of a palm settling over the crown of my skull.
+
+“Soldier.”
+
+The burn-scarred officer's voice was raw.
+
+“You’ve done enough,” she said.

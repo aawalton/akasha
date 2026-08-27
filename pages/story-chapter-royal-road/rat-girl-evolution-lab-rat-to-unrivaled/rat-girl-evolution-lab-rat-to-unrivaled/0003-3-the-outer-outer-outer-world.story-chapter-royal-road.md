@@ -1,0 +1,291 @@
+---
+id: b97d2fa7-ad64-535a-96a7-90385c364b13
+page-type-slug: story-chapter-royal-road
+title: "3: The Outer, Outer, Outer-world?"
+slug: 0003-3-the-outer-outer-outer-world
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 3
+ownLength: 3082
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572797/3-the-outer-outer-outer-world"
+royalRoadId: "2572797"
+---
+
+The fire had a dream-like, ephemeral quality to it.
+
+It didn’t move like normal fire, dancing with flickers, but instead like rolling clouds of smoke that had been lit alight. It didn’t look like normal fire, a warm blaze of orange and yellow, but it stayed red, and not only red, but within a handful of shades’ variation from the original glow of the gems that had brought it to life.
+
+But there was nothing abnormal about the way it burned, or the searing heat it inflicted on the rat as it burst forth from her hand and her pockets, causing her to squeal with pain as she ripped free the gems, and then again as the fur on her hands caught.
+
+Squeaks of pain erupting from her mouth, she rolled about on the ground, beating out the flames with no regard for the damage she did to herself in terms of blunt force.
+
+The flames had barely been quelled when she found others leaping up, threatening to ignite her dangling new coat of white cloth, and her tighter and more precious coat of fur under it, and she was left with no choice but to follow her other fellow rats, fleeing under the tables and attempting to get below the flames.
+
+Not a moment too soon.
+
+The door to the outer, outer-world swung open, and in came running a human. His yells screamed out in a mixture of rage and fear, and she could hear others answer in the distance.
+
+It was a funny feeling.
+
+There was a sense of… Catharsis.
+
+That was the word.
+
+For once, coming up with the term was satisfying, rather than painful. It was a very human thing, to take joy in another’s suffering and pain. But if being more human, if becoming more like them was necessary to teach them a lesson, to repay their wrongs, she could come to terms with that.
+
+After all, having so much pride in your own species, looking down on all others as inferior and worthless, measured only by their value to you, well…
+
+That was also a very human thing, a very human way of thinking, wasn’t it?
+
+Her thoughts were interrupted by the growing pain of the fire, now hot enough to scorch her throat and dry her eyes even without touching them, making her flesh feel as though it was being burnt even from what had used to be a safe distance.
+
+She needed to move, now.
+
+But he was blocking the only door.
+
+Just as she finished that thought, another door swung open, a rush of cool night air swirling in and sparking all the fires higher. This person’s shouts were higher pitched, more like her own. A woman? It didn’t matter.
+
+Two blocked doors were the same as one. Useless.
+
+On the table above her, a cage shattered from the heat.
+
+A cage! That was it!
+
+She just needed to remember her roots, and to follow the path that the other rats were using.
+
+Stay low, stay out of sight, and scurry quickly. Under the tables, around the chairs, always keeping an obstacle between yourself and the humans. Don’t let them see you; being seen is death.
+
+Fast, but not too fast. You’re not small enough to avoid attention anymore, scurrying around in the shadows. And there aren’t many shadows left either, only flames. At least the flickering of the fire should help prevent your motion from drawing their eyes.
+
+And so, one table at a time, one short burst of speed after the other, the rat made her way across the lab, waiting for the perfect chance to move each time, stealing glances at the humans as they attempted to gather objects and quench limited fires.
+
+They were farther from the doors now, meaning that there was a chance. No. Not enough of one. Just because they weren’t physically blocking the doorway didn’t mean that they were far enough for her to slip through the gaps between them and the exits unnoticed.
+
+And being noticed was death.
+
+A third one ran in through the same door as the first, throwing a bucket of water onto fire.
+
+It swirled about, undisturbed, and he let out a shout. For the first time, she recognized the words.
+
+“It’s magic! This is spellcraft!”
+
+There was a sense of raw panic in those words, as though rather than being screamed, they had been ripped from his throat, raw and bloody.
+
+She almost felt sorry for him. Almost.
+
+Until her following the trails of the other rats led to a gap in the wall, only she could barely fit a fist into, much less her whole body.
+
+She froze.
+
+Fuck, fuck, fuck! This can’t be happening!
+
+The rat, the former rat, found herself cursing her body. It wasn’t right. She wasn’t supposed to be like this, to have a body like this. Not so large, so unwieldy, ungainly, so bloated. So human.
+
+She put every ounce of spite into that last word, as though trying to convince herself it was true. That human was bad, other, and not her. It was weaker than it would have been, even a few minutes prior.
+
+Blood welled up in her mouth, teeth sinking into her lip unconsciously.
+
+As she spat it out, it sizzled away on the flames, and above and around her more cages shattered, mirroring her worldview.
+
+No, that was it!
+
+Fire shatters glass.
+
+The inner worlds are glass, but so are the windows of this world, the outer world!
+
+She was already at one. All it would take was waiting for one to shatter, for the cold air to come surging in and—
+
+Oh.
+
+If the cool air of the outer-outer world was cooling them down, would they really break? And if so, would they in time, before it was too late for her?
+
+The rat could already feel her lungs burning from the heat and smoke. Her vision was already worse than it had been, even just a minute before, eyes clouded with ash and seared by the light and heat.
+
+Every part of her burned, and none of them even had the decency to burn in the same way. A hundred different pains, each just distinct enough to stand out so that none of them could be sorted together or ignored as one, even if they had been mild enough agonies for the idea of ignoring them to be anything short of incredulous.
+
+I don’t want to die. Not here. Not without having ever had a chance to see the real world, to know something beyond this lab.
+
+Lab. That was the human word for it.
+
+A sob welled up in her throat.
+
+Not even her own mind was safe from them, not even her own thoughts untainted by their foulness. Was the human perspective really all she had le—
+
+Perspective…
+
+Right, right, of course. It didn’t matter what the reality was. It mattered what seemed like reality, from these human’s perspectives.
+
+The fire wouldn’t break the windows yet? But if it was already shattering all the other glass in the outer world, why not?
+
+Why wouldn’t that seem only natural?
+
+Making sure she was still concealed, and using the last of her strength, the rat seized the nearest sharp piece of metal she could and heaved it up in the strongest arc she should still muster, shattering the widow and sending in a rush of cold, fresh, blessed air.
+
+It gave her another rush of energy, one just enough to allow her to peek around the other side of the table, and to see that her predators had already looked away from the window, their attention stolen by their struggling, desperate attempts to reclaim their precious items from the fire while getting it under control.
+
+Paying no attention to the sharp shards left in the frame, she grabbed onto it, and with all her might pulled herself up and out.
+
+She tumbled into a bush, and as the sweet purity of the outside filled her lungs, for a moment she just lay there.
+
+Taking in the victory, the satisfaction.
+
+The air was cleaner, fresher, in a way that she could have never imagined. It was air, pure, untainted air, not filtered by the contraptions of humanity, trapped in place. It was filled with little sounds, leaves rustling, bugs chirping.
+
+It was beautiful. Her eyes, ears, mouth, skin—she drank it in for that long, blessed moment.
+
+She was free. She was in the outside, the outer world, the outer, outer world, the final frontier—
+
+No.
+
+No.
+
+NO NO NO NO NO NO NO NO NO!
+
+Dozens of outer worlds dotted the outer, outer world. Dozens of labs, of buildings. And at the end of them all, rising up like a massive wave of dark water blotting out her dreams to send her drowning in a lake of despair, was a wall.
+
+This, too, was a cage.
+
+All the world is a cage…
+
+Suddenly, another thought struck her.
+
+Are humans just serving as lab rats to some other, even more horrifying being?
+
+She shook it away as quickly as it had first come.
+
+If so, they wouldn’t be free to come and go.
+
+Her eyes cast up to this newest wall, the one separating the outer, outer, outer world, from the outer, outer world. It bore the same marks of human construction, the same taint of their wicked hands and creations.
+
+She was still in their domain, and she still needed to get out. Pondering philosophically could wait for after that.
+
+The bushes that currently concealed her stretched along the side of the burning building, but there was a gap between them and the bushes of the next, one suspiciously open. Eyes clearing from the smoke, although still partially blinded by their wetting, she didn’t see any more blurry human figures.
+
+That was good enough.
+
+She sprinted from one bush to the next, and then dove into them, crawling behind their bases and under the leaves at the back, hiding between stems of bushes and stones of the buildings as she made her way around this one, circling until she was on the opposite side as she had started, and nothing was visible of the burning building apart from the glow of the eerie red flames.
+
+The next one went just as easily, rushing across a gap, and then sneaking around. On the third she had a moment of fright when she spotted humans rushing past, heading towards the now barely-noticeable crimson blaze, but they vanished quickly enough.
+
+On the fourth she circled the wrong way, finding herself at a dead end where the bushes parted to allow entry to the building in question, but backtracking and going the long way around was enough to solve that.
+
+It wasn’t until the fifth one that the rat came across her first unsurmountable issue.
+
+Trees.
+
+The next building was ringed not with bushes, but with trees, and there was nowhere to hide amongst their trunks and roots on the bare ground.
+
+Not even up in their leaves was an answer; each was neatly trimmed with a gap too far to jump between them, assuming she could even maneuver within their canopies.
+
+She gritted her teeth, struggling to find something, anything.
+
+To make it worse, there were humans around already as well, multiple of them. Maybe about as far away as she could throw a stone, but in three different directions, and always with her in at least one of their lines of sight, no matter how they turned.
+
+These ones weren’t wearing the white coats of the others, but instead dark tunics, and holding wooden rods as long as their arms that they swished back and forth through the air as they paced around.
+
+She reached into her remaining pockets, hoping for a clue. The scalpel? She could use it to attack them…. No, that would never work. The cube was even more useless, unless she was to throw it and hope it would somehow send all of them running after it as a distraction.
+
+The watch? She pulled it out, and opened up the bundle—
+
+Fire.
+
+On instinct, she slammed the cloth back down around it. That was right. She had placed a gemstone in it. Apparently, it only needed a rush of air to ignite. Thankfully, it had gone out again the moment it had been smothered once more by cloth.
+
+That could be a weapon, or better still…
+
+Sneaking to the far edge of the bushes, opposite her goal, she reached back in, and lobbed the stone again, quick as a striking snake.
+
+It rolled along the ground as it ignited. She didn’t dare to look, scurrying back to the other side of the bushes.
+
+Each muscle in her body froze on its own as a human voice rang out from right above her.
+
+“What exactly do you think you’re doing?”
+
+It was a deep, harsh voice, that sounded as though it had been born from fires just as ashy and smoke as the one she had just escaped from. Another, lighter, more casual, responded from farther away. Her heartbeat within her chest became so loud it surely answered him.
+
+“I’m taking a look around. Gotta stretch my legs, you know? We’ve been here for hours already.”
+
+The first one sighed, but answered calmly.
+
+“Be careful. We don’t want any of them sneaking past us. Not with this mystery fire serving as a distraction. I wouldn’t put it past them to have started it.”
+
+Her fear made it impossible to breathe. It was like a pressure, pressing down on her tangibly. His presence had a weight, entirely in her head, but no less crushing for it. It wasn’t just her fear. Or rather, her fear wasn’t just of him in a general sense.
+
+Coursing through him was enough mana to match her, every rat, and every device in the lab put together and multiplied by a dozen times. If filling the lab with flames had drained her and the gemstones dry, she had no doubt he could have leveled it in an instant, and probably all the ones that bordered it as well.
+
+He shifted. The second voice called out again.
+
+“Is that another fire?”
+
+And his presence turned, then started to move away, casual but impossibly fast regardless. She could sense them, now, the other two also moving past her towards the gemstone she had thrown.
+
+This was her chance!
+
+But her legs didn’t move. They wouldn’t move.
+
+She would have screamed at them, whispered at them, had she dared. She channeled every gram of willpower she had into forcing them to move. They betrayed her, just twitching pathetically.
+
+Move, dammit!
+
+They didn’t.
+
+Her time was running out. And she still wasn’t running.
+
+Move, move, move, move, MOVE!
+
+A spark. Deep within her, where that coursing mana had just now started to move again, this time differently.
+
+It flowed down into her legs, easing the cramping muscles, and forcing them to sprint with a speed she didn’t know possible, blurring out of the bush, past the trees, past the first building, the second, the third, and up against the wall.
+
+It loomed impossibly high; more than all but the tallest building at the center of the world. Even had she possessed a rope, there was no way she could have thrown it over the edge.
+
+It had no windows, no openings.
+
+In desperation she sprinted along it, eyes scanning the wall while her mind scanned her memories, feet pounding the ground while her heart pounded in her chest.
+
+There!
+
+A hole, too small for a human. Too small for her, almost. Her shoulders were barely more than half the width of even the smallest person she had ever seen, but they had not even enough space to fit within without hunching and contorting in like a rat’s, in a way no human could.
+
+This was her perfect escape.
+
+But she hesitated.
+
+What if I grow again? What if I get stuck?
+
+The image of before, wriggling helpless in that tube after the injection, filled her mind, amplified to a thousand times worse by the hard, unyielding stone of the wall.
+
+I don’t have a choice.
+
+She dove in, regretting it with everything she had as she did so, but fearing remaining outside even more.
+
+The rough stone scraped against her burned fur and skin, and the pungent stench of stale groundwater swamped her nose. A vision of diving into a pool of water, tunnel too narrow to turn, flashed through her head, and the rat ignored it.
+
+I’m a rat. Rats like tunnels. Tunnels are good for rats.
+
+The mantra repeated over and over in her head, as she tried to force herself to believe it fully.
+
+The tunnel grew tighter as she progressed. And then tighter. And tighter still.
+
+Eventually, she was no longer crawling, but dragging herself through the merciless stone grip, and then, slowly, painfully, that too came to a stop.
+
+She was stuck.
+
+It hurt.
+
+Even breathing hurt, feeling her chest pressed tight against the stone, her ribcage permanently compressed. The rat wanted to cry, but the idea of her wails echoing down the stone to the eager ears of who knew what that could have been listening while she was trapped and helpless was just barely enough to stop her. Just barely.
+
+All she could taste was dirt. Tainted, filthy, foul dirt. It filled her mouth with its taste, even without touching it. It was complex, smelling of wetness, of death. She would join it soon enough, if she stayed. Maybe even if she didn’t. But that didn’t mean she had any choice but to try.
+
+She wiggled, feeling the stolen things in her stolen pockets press into her. The sharp edges of the cube were thankfully down below the thickest part of her body, and the point and blade of the scalpel were blessedly not aimed at her.
+
+But the unwrapped watch now dug into her side, right below her ribs, with every breath. She twisted, trying to bring it up, and felt it flip, then the needles of it pierce into her flesh.
+
+It was almost laughable. Why not? After all, why shouldn’t this go wrong as well? Why shouldn’t she—
+
+A voice, something she saw but didn’t see, and heard but didn’t hear. Something she just knew, in a way she couldn’t explain.
+
+New User detected.
+
+System Activating…

@@ -1,0 +1,429 @@
+---
+id: c1834788-d951-5813-ab53-97ff3c6a034e
+page-type-slug: story-chapter-royal-road
+title: "411 Caught In a Cycle"
+slug: 0371-411-caught-in-a-cycle
+partOf: the-new-world
+position: 371
+ownLength: 3265
+unit: words
+ownProgress: 3265
+publishedAt: 2025-04-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2197600/411-caught-in-a-cycle"
+royalRoadId: "2197600"
+markedReadAt: "2026-06-29T21:34:03.009Z"
+---
+
+I smiled but it held no warmth.
+
+"Tell me about it."
+
+I peered at the cabin.
+
+"Hm. It looks like you managed to scramble together a half-decent life out here."
+
+Jacob narrowed his eyes at me.
+
+"Is that right? Did you come out here to fuck it all up?"
+
+I held my expression; years of grueling training were still somehow easier than this conversation.
+
+"I came here looking for answers."
+
+I met his eye.
+
+"And I will have them them."
+
+Chapter Begin
+
+A plethora of emotions crept across Jacob's face. A pinch of regret, a dash of fear, and even a bout of outrage. It all coursed over him in a moment as his gaze changed into a glare. He scowled.
+
+"What is there to say? Do you want me to apologize? To admit I was wrong? Hell, I might've been. Happy now?"
+
+I furrowed my brow.
+
+"Is that all you have to say after everything? Everything I lived through doesn't even amount to a sincere apology?"
+
+Jacob's lips tightened before he rolled his eyes.
+
+"If you don't remember, son, you did the same damn thing to me the last time we met. I'd call us about even."
+
+I scoffed.
+
+"That fight? The one where you slapped me on the back of the head because I wouldn't take out the garbage?"
+
+Jacob frowned.
+
+"Then you turned around and shoved me. I told you to back down, and then you had the nerve to meet my eye. Back in my day, my daddy wouldn't have let me get off without a whipping after I looked him in the ye."
+
+I raised a brow.
+
+"So a palm slap was the answer?"
+
+Jacob spit to his side.
+
+"Tends to be when dealing with little shits."
+
+I peered at the cabin.
+
+"I wonder if you've had the same approach with Jake. It doesn't look like it based on how he looks at you."
+
+Jacob's gaze softened.
+
+"He's a good kid. He's just trying to take care of his mom in a rough world."
+
+I spread my arms.
+
+"What do you think I was trying to do?"
+
+Jacob pointed at me.
+
+"You dragged her down every chance you got."
+
+I put my hand on my chest.
+
+"How in the world did I, at five years old, drag her down?"
+
+Jacob took a breath before putting his hands on his hips. He stated matter of factly.
+
+"Boy, you've been bad luck since you were born. It's that simple."
+
+His words were a hot brand, and my mind was seared by them. I closed my eyes.
+
+"Bad luck? Is that right?"
+
+Jacob shrugged.
+
+"I call it like I see it."
+
+I furrowed my brow.
+
+"Is that why you beat me, then?"
+
+Jacob waved me off.
+
+"Oh come on now. It wasn't even that bad. All I did was toughen you up."
+
+I held back my aura. I could crush him to nothing, but that wouldn't give me any answers. This was a fire, and I had to lean in if I wanted to get something out of it. I opened my eyes.
+
+"I've hated you for so long. I thought you died when the system arrived. I should've known you found a way to run away even after the system started. It's all you've ever done is run from your duty as a man and as a father. Hell, I can hardly stand seeing you out here playing house with this woman and child. Do either of them know what you've done?"
+
+Jacob shook his head and smiled.
+
+"Ahh, so that's what this is about."
+
+I frowned.
+
+"I can't read your mind, so how about you communicate?"
+
+I could read his mind, but I didn't. Jacob pointed a finger at me.
+
+"Have you ever wondered why it burns you so bad that I'm finally living a half-decent life?"
+
+I raised a hand.
+
+"It's because of what you've done. You can pretend it's nothing. You can try to blow it off, but I'll never forget what happened. I remember the scars I had before the system. Sometimes, when I heal, they come back. It depends on how bad a day I'm having. That's why this whole act of yours disgusts me."
+
+Jacob rubbed the scar on his lip.
+
+"Oh, I can relate to the scars, but here's the problem, boy. You think that coming down here and tearing down what I have will give you satisfaction. In that thick little skull of yours, you think breaking me down will somehow build you up, but you're wrong. What you've come here to do, it's not going to end well no matter how it plays out."
+
+Jacob let his hand drop to his side.
+
+"How do I know that? Because if there's one thing I learned since this whole system bullshit arrived, it's this - You will never be happy until you can find joy in the happiness of others."
+
+My hands shook.
+
+"Are you even talking to me, or are you talking to yourself?"
+
+Jacob spread his hands.
+
+"I know you ain't the sharpest tool in the shed, but how about you look inside yourself and see if you can't figure it out."
+
+I took a step forward.
+
+"I'm not going to find happiness in you abandoning me and then pretending like these obvious life lessons you learned are somehow related to my struggles. I found happiness, even in misery."
+
+Jacob snapped.
+
+"And where do you think that misery comes from, boy?"
+
+I peered back and forth.
+
+"Are you saying it came from me?"
+
+Jacob pointed at me again.
+
+"It always did. It always has, and god knows it always will."
+
+I peered in disgust.
+
+"When did you start blaming me for everything?"
+
+Jacob put his hands in his pockets.
+
+"Oh, about when you started causin' problems."
+
+I kept my voice cool.
+
+"Which was when exactly?"
+
+"When Angela had to drop out of college. It was a rough pregnancy, and you damn near stole her life even before you were born."
+
+I nodded.
+
+"Ah. I'm guessing I was a colicky baby, too?"
+
+Jacob scoffed.
+
+"You were the devil. You constantly broke anything we let you touch. You fought everyone and everything. We could hardly keep you from tearing Angela's hair out."
+
+I grew dispassionate.
+
+"Jacob. I was a child. That's what children do."
+
+Jacob rolled his eyes.
+
+"I already know you don't have kids. I can smell it, so don't pretend like you know a damn thing about parenting."
+
+I held myself back from tearing him apart as I mouthed.
+
+"So I was a finicky baby. Is that all?"
+
+Jacob spit to his side again.
+
+"Nope. Angela tried holding down jobs while you were a kid, but you always needed something. You couldn't handle yourself at all."
+
+I smiled.
+
+"Ah. I remember trying not to cause any problems. Sorry my three year old self couldn't do your taxes."
+
+Jacob smirked.
+
+"Tryin' and doin' are two different things. You should know that by now, boy."
+
+I rolled my fingers in my hand.
+
+"Oh, I do."
+
+Jacob smirked and raised a hand. He made a fist.
+
+"I'm not the same man you fought all those years ago. My back don't hurt no more, and I can handle myself just fine."
+
+An icy smile grew on my face.
+
+"I can see that."
+
+Jacob frowned.
+
+"My point is, the problem wasn't just you needin' a certain kind of food or struggling to sleep. I mean, think of Angela's kin. You were the only damn reason she ever visited that bastard family of hers."
+
+I turned a palm to him.
+
+"Oh, we can agree on the shitty family part, but what's this about me making her visit?"
+
+Disgust cropped up on Jacob's face.
+
+"She told me that you'd beg and plead for her to come over anytime you could."
+
+I put a hand on my forehead before leaning back and laughing. Jacob snapped.
+
+"What's so funny, boy?"
+
+I shook my head while pulling my hair back.
+
+"I just got back from visiting the Hillsides. According to them, Mom always said I was the only reason she chose to stay with you. Now, you're telling me I was the only reason she ever chose to leave. Well, which is it? Was I why she left or stayed?"
+
+"Both."
+
+"Come on, Jacob. You and I both know that doesn't make any sense."
+
+Jacob smiled as if caught with his hands in a cookie jar. It made my skin crawl.
+
+"Alright, I'll give you that one. Here's the thing. I wouldn't trust anything that comes out of that family's mouth. They'll lie just to hear what it sounds like when they say it. They happen to like the sound of their voice so much they might as well record it and play it back all the time. It'd be nicer than having to listen to them preach."
+
+I tapped my chin.
+
+"You know, I'm starting to think that neither you nor the Hillsides are lying."
+
+Jacob shook his head.
+
+"Now look who's not making sense. Someone told you one thing, and someone else told you another. Someone's got to be lyin'. It's basic shit, boy, but I guess you weren't ever that sharp. I shouldn't expect much."
+
+I ignored the insults.
+
+"You're creating a false binary to push your narrative."
+
+"What the fuck does that even mean? You think that makes any damn sense?"
+
+I pinched the bridge of my nose.
+
+"Three people are a part of the equation, not two. Mom could've lied to you both."
+
+Jacob's face flushed.
+
+"You talking ill about the dead now?"
+
+I spread my hands.
+
+"I just want the truth. From what I've gathered, it looks like Mom had a habit of blaming me for her problems, just like you and just like the other Hillsides."
+
+Jacob stepped closer. He was within an arm's reach away, only one slap from his skull becoming a thick, red paste. He stuck his hand out at me.
+
+"Don't you ever talk bad about your mother."
+
+I tilted my head at him.
+
+"I'm not talking bad about anyone. I'm figuring out the truth."
+
+Jacob's voice grew raspy.
+
+"The truth is this. She was an angel that left us too soon."
+
+I remembered Althea's words. A deep resentment within me rose to the surface as I spoke.
+
+"Jacob, nobody's perfect. I just want to know what happened, and from what I've gathered, I'm why Angela left her family. I'm why she stayed with you. I'm why she left school, and I'm why she couldn't hold down a job. At this point, I bet she blamed the problems in your marriage on me too."
+
+Jacob's face flushed red.
+
+"You're just sayin' shit now."
+
+I stared at him.
+
+"Am I wrong?"
+
+Jacob tried to say something, but his words wouldn't leave his mouth. He peered down. I nodded at him.
+
+"That's what I thought. She lied."
+
+He peered back up.
+
+"She did no such thing."
+
+I furrowed my brow.
+
+"So I really was the source of all her woes?"
+
+He shrugged, a malicious grin spreading over his face.
+
+"I just call it like I see it. You're trouble, boy."
+
+I smiled.
+
+"Isn't that convenient? For the family. For you. Even for her."
+
+Jacob's eyes widened.
+
+"Oh, now you better listen up. You're not going to talk that way about Angela."
+
+I spread my hands.
+
+"I'm tired of pretending she was some angel. It's exhausting."
+
+Jacob snarled.
+
+"She was. She was perfect. She was my everything before you stole her from me."
+
+I snapped back.
+
+"How in the world did I cause her cancer? Do you think I put a UV light on her when she went to sleep? Or maybe I gave her carcinogens whenever she had to feed me when I was five-fucking-years old?"
+
+Jacob threw his hands up.
+
+"It was the stress. You were always needing something. You were always causing problems."
+
+My hands trembled.
+
+"I didn't beg and plead to be born. I was put in this world because you two chose to have me. That's why it's not my fault that neither of you were ready to be parents. That's why it's not my fault that you weren't able to handle the pressure of literally anything. It's also why it's not my fault that Mom couldn't handle any accountability for any of her decisions."
+
+Jacob got right beside me. I could smell the dipping tobacco on his breath.
+
+"She didn't choose to have you. You're nothing more than a busted condom."
+
+I held back a primal desire to rip him apart.
+
+"Did she think that too?"
+
+"Of course she did."
+
+I felt numb.
+
+"Ah, but remember, she's an angel. Angels just make their kids feel guilty for being born."
+
+Jacob raised his hand and backhanded me across the face. I could feel the bones in his hand break as I didn't even budge. He gasped in agony, grabbing his hand and whimpering. I peered down, and my voice was ice.
+
+"It's amazing how none of you look at statuses or levels."
+
+Jacob turned up and snarled.
+
+"You hid your level you fucking idiot."
+
+I grabbed his arm.
+
+"And you thought that meant you could fuck with me?"
+
+When my hand made contact, for the first time, Jacob experienced the full gap in power between us. I was harder than steel. He couldn't bend my arm or even move the skin on my palm. The man who bowed up to me, who humiliated me, who made me feel like less than nothing, that pathetic waste of space...He deflated. His courage left his body. A bully facing his due, he felt the full weight of his actions.
+
+I crushed his arm into a red paste.
+
+Blood gushed. A sickening squelch echoed across the lake alongside a bristling howl. Bone splinters squeezed between my fingers. He let out a gnarled growl. Anguish. Pain. Despair. He screamed until he ran out of breath. I held him upright, his body hanging from his mutilated arm. He peered at me with wide eyes full of fear. It only grew as he saw my eyes. I peered back, ice in my viens as I said in a calm, collected voice.
+
+"Can a busted condom break you?"
+
+I let him go, and he fell back. He writhed on the ground before scrambling away from me. I stepped up to him. I stomped onto his shin above his ankle. His blood, flesh, and skin mushed into dirt and stones. The scent of iron flooded around us. He screamed again, his entire being becoming nothing but pain. I murmured.
+
+"Can a boy crush your spirit?"
+
+He scrambled one step further, barely able to move. I lunged down, meeting his eye. I whispered my words.
+
+"You told me you changed, but I changed too. I've killed millions. I've destroyed civilizations. I've felt the full might of mad gods, and I've survived. I've walked through the shadows between dimensions and drank deep on that corruption like sweet ichor. Despite everything I've ever fought, you, father, were the one that brought me to my knees."
+
+I glared at him. A silence passed over us in a thick haze, and I held him there for a lasting moment. I stood up.
+
+"And you will never bring me to my knees again."
+
+I raised my fist. To me, it would be a gentle movement of my arm. To my father, I held a dull guillotine over his head. As I held his life in my hands, I blinked.
+
+I stared down at a monster, but I also stared down at a man. I gazed at a beast, yet I also gazed down at a boy. At that moment, he loomed over me, his shadow stretching into a dark room from a lit hallway. Booze lingered in his breath. At the same time, he curled into a ball, becoming nothing more than a small, whimpering child.
+
+A child begging for forgiveness. A child begging for mercy. A child that had done nothing wrong and only asked for love, but he was given a cold, harsh world that hated him. A world so brutal that the child believed in a fantasy about his mother and pretended that he wasn't broken. I gazed down at my father, his body a mangled mess, and somehow, I gazed down at myself.
+
+He had felt what I felt, and this was not the first time he was beaten. The way he covered his head and cried, it was nostalgic. I blinked, tears falling from my eyes. This was all so familiar yet foreign. I stood over the man who once stood over me. He had become the child, and I had become the man.
+
+No. I had become a monster in human skin.
+
+I took a step back and let my hand drop. Jacob cried while shivering. He covered his head, begging for forgiveness. He apologized for all he'd done to me. The words I had wanted to hear rang so hollow. Feeling numb, I peered at the cabin. In a shoddy, dirty window, two sets of eyes stared at me. A mother and a son. They were fear incarnate.
+
+I turned my head from them. I stared down at my hands. Blood still covered them. I murmured.
+
+"Its a cycle, isn't it?"
+
+Jacob kept crying in a curled ball. I gazed at him before opening my dimensional storage. I pulled several health potions out from Althea. I set them beside the man. I walked over to the cabin, and I silenced my emotions. I created a monolith and covered it in runes. In minutes, an aura encompassed the cabin and gave them safety.
+
+They would fear the wilds no longer.
+
+I stood and walked out into the forest, and I left a piece of my past behind me. I kept walking, passing by branches. They snapped against my steel skin, and I carved a path until I found a pool of water in a dark meadow. The water was crystal clear and unmoving. It stood so still that it was like a liquid mirror on the ground.
+
+I peered up, cool wind washing over me. Light cracked through the canopy, trees surrounding the forest opening. Clouds covered a cerulean sky, and their brightness blinded me. I turned to the puddle below. A reflection stared back at me. Blood dappled the face of a strange man with gray skin.
+
+Armor covered him, half living and half dead. Esoteric and strange runes covered the smooth plates over his chest and arms, though they ended in threatening, glossy horns. His eyes glowed the color of his mana, from ascendance to primordial to quintessence. As he shifted the nature of his being, he too, changed.
+
+His posture shifted. His expression altered. In many ways, this man stared at me like some alien pretending to be human. He gazed as coldly as a winter's night. Beside him, a woman faded into reality, walking from one plane to another. Beautiful and kind, she wrapped her arms around him like an angel. The man murmured.
+
+"Did you see everything?"
+
+She whispered back.
+
+"I'm sorry. I did."
+
+Tears of silver began falling from the man's eyes. They landed in the pool. His reflection blurred. As the sharp clarity of his reflection faded, he no longer looked like a man. He became a demon, but his words were fragile.
+
+"Am I a monster?"
+
+She blinked, tears falling from her eyes too.
+
+"No. You're exactly who you choose to be."
+
+She hugged the man close.
+
+"And today, you chose."

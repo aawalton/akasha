@@ -1,0 +1,349 @@
+---
+id: 4f9f711f-ac72-503c-8036-cd31bdeab00e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 665 - Arena Fight: Part 2"
+slug: 0666-chapter-665-arena-fight-part-2
+partOf: mythrans-master-of-all-continued-completed
+position: 666
+ownLength: 4959
+unit: words
+publishedAt: 2018-08-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242661/chapter-665-arena-fight-part-2"
+royalRoadId: "242661"
+---
+
+Ren felt the vibrations shaking apart his creations, and saw the dirt partially fill the holes he had spaced between the walls. Damn, he's smart, too. He thought and stored the Staff of Earth and stopped using his Rocky Hands ability. It's time to do some neat stuff. He thought and jumped up into the air.
+
+*
+
+Glastor saw something come up and out of the cloud of Obscuring Mist 150 feet away and smiled. “I flushed you out already?” He said, then saw Ren had a wand. “That again?”
+
+Ren smiled and shot an Acid Arrow at him. His ability added 10 times that magically, so 11 Acid Arrows flew across the space between them. Glastor's Mana Shield appeared and blocked the 11 shots easily, then a portal opened off to his left.
+
+“What...” Glastor started to turn that way, and 11 Acid Arrows came out of it. “Dammit!” He said and dodged out of the way of most of them. Two had caught the edge of his arm and stuck to his armor, and he stopped himself from grabbing them and trying to pull them out. He pulled out another sword and swiped at them to knock them off instead.
+
+“HEY!” Ren yelled off to his right, and Glastor turned in that direction. He saw Ren standing 20 feet away in a fighting stance, so he lunged and swiped at him with the same sword. The sword cut through Ren like he was nothing, and Glastor was about to laugh at such an easy win, when the fake image of Ren didn't even scream as it faded away.
+
+“Ha ha!” Ren laughed off to his left. “Sucked you in good with that old trick!”
+
+Glastor had to admit that was true, then 11 more Acid Arrows came out of the portals. He was facing that direction now and let his Mana Shield take them, then 11 more came from the original direction. Glastor pulled out a disposable shield and ducked.
+
+“How long can you keep this up?” Glastor asked. “You should be running out of Mana soon.”
+
+“If I was a normal magic user and not using a wand, you might be right.” Ren said from 5 feet away as he let the Hail Of Arrows ability lapse, and Glastor turned to look at him. “I'm using a wand, though.” The figure said, but the mouth didn't move.
+
+“Ha! Another Fake Image. What a stupid trick to use.” Glastor said and swiped at it casually. Ren grabbed the sword and pulled it out of Glastor's hand, then stepped forward and punched a very surprised Glastor in the chest as hard as he could.
+
+*
+
+The entire crowd in the arena gasped as Ren's trick surprised them just as much as it had surprised Glastor, then they watched as Glastor was launched like the bolt from a crossbow, smashed and tumbled through the half-wrecked Earth walls Ren had made, and skidded to a stop near the edge of the arena wall. Most of the spectators were on their feet to see what was happening with their own eyes, but the dust and debris obscured their view.
+
+Then they saw a gust of wind cleared the dust and debris out of the way. Glastor was laying down on the ground and they all saw that his armor chest plate was caved in.
+
+*
+
+“Hey, now.” An image of Ren nearby said. “Stop playing possum.”
+
+Glastor chuckled and sat up, and gasps were heard from the crowd. “You can't blame me for trying.” He said and stood up. He pat the armor and it popped out to its normal shape. “That was a good shot. I didn't expect it to actually be you.”
+
+Image Ren chuckled and waved to the crowd. “No one did.”
+
+“Will you be doing this the whole time?” Glastor asked. “Tricks and misdirection?”
+
+“Isn't that what you're doing?” Image Ren asked.
+
+“What?”
+
+“Oh, come on. I know you've got a trump card that you've been saving.” Image Ren said. “I assume you're waiting to use it so it has the greatest impact.”
+
+“What about you and all those attachments on your armor?” Glastor laughed. “You've only used one so far.” He said in reference to the shield covering. “What else have you got on there?”
+
+Image Ren smiled. “I suppose there's no point in waiting, then.” He said and pointed, then faded away. Glastor turned to where Image Ren pointed, and he saw Ren standing there. The packs on his back, upper arms, and thighs opened up and then a mass of things came out of the five packs and landed on the ground, then the mass spread out.
+
+“What the hell is that?” Glastor asked.
+
+“Something I've had years to develop.” Ren said. “You see, I'm an Artificer. A Master Crafter. I've been... well, I've been having fun since I came to this world. I've been doing my own thing. I haven't really gone on adventures; but, I have been adventuring, if that makes any sense.”
+
+Glastor frowned at his words, and Ren chuckled.
+
+“I mean that I haven't gone out intentionally to do quests and adventures. I've done some and been involved in some, but that wasn't my priority. My job... my real job... is to make things.” Ren explained. “I've gotten away from that the last little while, because my skills have advanced so much. It's not really fun to make things anymore, because I can do it so fast.” He said. “I find a recipe and bam, I can make it, and as many times as I want, as long as I can get my hands on some of the ingredients or similar ingredients. I don't really have a learning curve anymore.”
+
+“What are you talking about?” Glastor asked.
+
+“I was starting to get sad that it was so easy for me, so I started to challenge myself. What can I do, how can I push things, how do I do what I want and still be well within the rules.” Ren said as the mass of things finished spreading out. “It took me a while to figure it out. As long as I only come close to being near the boundaries, and I don't break the intentions of the restrictions placed upon me, there's literally no limit to what I can make.”
+
+Glastor had no clue where Ren was going with this, and then Ren pulled out a 9mm handgun and shot him.
+
+“What the fuck?!?” Glastor exclaimed as the bullet hit him in the shoulder and dented the armor. “Th-that's not possible!”
+
+“Sure it is.” Ren said and shot his other shoulder. “I mean, we have all the basics, right? Weapons that can shoot projectiles. Bows and arrows evolved into crossbows, which became repeating crossbows, which became automatic crossbows.” He smiled and stored the pistol. “Mind you, I made that last one.” He said and pulled out a hand-held crossbow for a moment and then stored it, pulled out the medium-sized one he had used in defense of House Neram so long ago and stored that, then took out one of the 15 foot wide Automatic Ballistas and set it down. “It's neat, isn't it?” He asked and pat it. “Just aim and pull the trigger.”
+
+Glastor was surprised when Ren did that and the 6 foot bolt slammed into his chest and threw him backwards into the Magical Barrier of Protection. It didn't penetrate his armor, however. Both Glastor and the bolt bounced off and landed on the ground. Glastor got off his knees and stood up.
+
+“I kept going bigger and more powerful, and it worked.” Ren said and pulled the trigger again and held it.
+
+A stream of 6 foot long bolts shot out and slammed into Glastor over and over as the impacts held him against the barrier and the bolts bounced off of his chest. When all 100 of the shots were used, Ren stored the Automatic Ballista.
+
+“Then I started thinking. Why not go smaller?” Ren asked and took out the 9mm pistol again. “It took a long time to figure out how to get it to work. I had massive failures, mainly because I couldn't quite reproduce it like it worked normally, and that was when I realized something.” He chuckled. “It shouldn't work normally.”
+
+Ren took careful aim, and did the same thing that he did with the 15 foot Automatic Ballista. He pulled the trigger and held it, and a stream of bullets slammed into Glastor's chest. It sounded just like a fully-automatic machine gun, and no player in the arena spoke or moved from the shock. The bullets pinged off of Glastor's chest and dented and pitted it even more than the 6 foot bolts had. After the 100 shots from the pistol were expended, Ren stored it.
+
+“Of course, once I made that little breakthrough, pretty much everything was possible.” Ren said and smiled. “Activate.”
+
+The mass of tiny little things grew from their tiny little forms to their full form. It took several steps to do that, since they were so small. When they were full size, they were 4 feet tall mechanical spiders with two large metal barrels on their backs... and they filled half of the arena.
+
+“Wh-what the fuck?!?” Glastor stared at the sheer mass of metal in front of him. Ren felt him cast a Dispel spell, and nothing happened.
+
+“This is their normal size, by the way.” Ren said. “They only shrink for storage.”
+
+“But... but...”
+
+“Fire.” Ren said.
+
+The entire mass of mechanical spiders changed their heights so that they didn't interfere with the line of sight of the ones behind, and they opened fire. Thousands of fist-sized shells slammed into Glastor over and over and held him against the Magical Barrier of Protection.
+
+“STOP IT, REN!” Gretchen yelled and stoop up. “STOP THIS!!!”
+
+Ren felt her distress and turned to her. “Cease fire.” He said, and the spiders stopped firing. “Deactivate.” He said, and they all shrank down to their near microscopic size and swarmed back to him and went back into the packs on his back, upper arms, and thighs.
+
+Gretchen sighed in relief, and Ren waved to her.
+
+“I'm sorry that scared you.” Ren said and pointed. “It's okay, though. Look.”
+
+Gretchen and everyone looked over to Glastor, who had collapsed onto the ground after the pummelling he had just taken. He wasn't moving, and Ren cast an Iron Wall on the Magical Barrier above him, then let it fall. It clanged against the armor and bounced off, and Glastor started to laugh.
+
+“You've surprised me.” Glastor said and stood up, much to everyone's surprise. He enjoyed that feeling of shock and awe, and gave Ren a little bow. “When did you figure it out?”
+
+“When I punched you.” Ren said. “I had an inkling before then, but that was the confirmation I needed.”
+
+Glastor nodded. “I guess that was a dead giveaway.”
+
+“In more ways than one.” Ren said, and Glastor looked at him with squinted eyes. “You see, when you went to the Sage of Ages and asked her how to kill me, I figured that was it for me. I thought I was done for.”
+
+Lara gasped. “Ren!”
+
+“It's all right.” Ren said. “It's not like I haven't been killed before.”
+
+“That's not the point!” Lara yelled, and he laughed.
+
+“No, you're right.” Ren said and looked back at Glastor. “When she told you how to do it, about getting past my armor, my enchantments, and my defenses, you said 'is that all?', and that got me thinking. Why did it sound so easy for you?”
+
+Glastor chuckled. “So, I've been on your mind since then? You were that worried?”
+
+“Ha ha... you wish.” Ren said. “I've had too many other things going on to worry about you.”
+
+Glastor frowned at the truth in Ren's words.
+
+“Actually, I did a rescue mission not long ago and received something that I didn't know existed... and that made me think of this fight.” Ren said. “I figured with it I could beat the hell out of you.”
+
+“What was it? A new Vampiric Sword?” Glastor asked, and Ren chuckled.
+
+“You're still concerned about that?” Ren asked, and he shook his head.
+
+“I overheard your story about Lord Tathalyn.” Glastor said and smiled his expanded smile to show off his hundred sharp teeth. “You don't have that sword anymore.”
+
+Ren shook his head. “Anyway, with the new item, I thought I'd have you beat. That's why I asked you to use your trump card before; but, you didn't and just ignored me. I started to think that you didn't have one, then I realized that none of my attacks were working.”
+
+“...and they won't.” Glastor said and stomped forward as he equipped another shield and a different sword. “You've lost the only thing that can possibly hurt the Minor Demon while he is inside me.”
+
+“Yeah, his massive regeneration stops most attacks, unless you can overwhelm him and do enough damage to weaken and capture him... which I can't do if he's hiding inside of you.” Ren said.
+
+Glastor smiled again and jumped into the air to bring the sword down onto Ren's head, then suddenly he wasn't there, and Glastor landed on the spot.
+
+“Missed me.” Ren said from beside him.
+
+“I didn't see you move.” Glastor said angrily.
+
+“That's because I didn't.” Ren said and took out a Vampiric Sword. “Displacement ability.”
+
+Glastor didn't flinch this time at the sword's appearance. “I won't fall for your stupid Full Illusion spell like I did when we met at the Library.”
+
+“Okay.” Ren said and gripped the handle tightly, then jammed the very real Vampiric Sword into Glastor's abdomen. Glastor gasped as the sword cut right through his demonic armor and pierced his body.
+
+“H-how?” Glastor asked as he dropped his sword and shield, then Ren pulled the sword out.
+
+“It's a loaner.” Ren said plunged it into Glastor's chest as he poured Mana into the sword and turned it to the right.
+
+“ARRRGGHHHH!!!” Glastor hollered as Ren activated the sword's Extraction ability and pulled. Nearly everyone was shocked at the sudden turn of events, and then suddenly there was a 20 foot tall dark red Minor Demon in the middle of the arena. It was also pissed.
+
+“RAAAAWRRRR!” The Minor Demon roared and Terror filled the arena. Lots of people screamed at that, men and women both, and the Minor Demon fed on their despair.
+
+“Stop that.” Ren said as he swung the sword and lopped off its legs.
+
+“ARGH!” The Minor Demon yelled and fell to the ground. It rolled over and tried to pick up one of the severed legs.
+
+“I gave you a pass the last time we met and let you leave.” Ren said as the Minor Demon managed to stick the leg back onto the stump and its Regeneration kicked in. Ren cut the leg off at the knee and then at the thigh again. “I was worried about getting out of Shargon Caverns and rescuing the people with me, so I couldn't go after you because I didn't have the time to spare.”
+
+“I will crush your bones and drink your blood, you filthy meat bag!” The Minor Demon spat.
+
+“You can't crush anything without hands.” Ren said and cut off both of the Minor Demon's hands to stop it from grabbing its severed legs. With each strike, both the sword and Ren became stronger.
+
+“I can still cast-HURG!” The Minor Demon stopped talking as Ren jammed the Vampiric Sword into its gut and the Minor Demon spat out a geyser of blood from its mouth. Ren pulled the sword out and held it steady, then the demon's blood floated through the air and was sucked into the sword.
+
+“I can't have you trying to curse me.” Ren said and swung the sword to lop off its jaw to stop it from talking, then looked up at the crowd and held a hand up. “I know this seems cruel, but I also know that at least some of you have fought a Minor Demon before.”
+
+There was a general feeling of acknowledgement from the crowd and there was a murmur in response.
+
+“Without this...” Ren held up the sword. “...it's damn near impossible to beat him, even if you succeed in sealing him away.”
+
+“Where can I get one of those?” Someone yelled, and a few people laughed.
+
+“That's the thing. Normally you can't.” Ren said and plunged the sword into the Minor Demon's chest. “It makes things like this too easy.” He said and poured Mana into the sword, then turned it to the left and activated its Full Consumption ability.
+
+The Minor Demon gurgled and sputtered as it started to deflate and the Vampiric Sword sucked all of the blood out. The demon stopped moving after a few seconds, and after 30 seconds, was nothing but a dried husk. Ren pulled the sword out and cut off the Minor Demon's head. He then went to each piece he had cut off previously and used the sword to suck the blood out of them as well, then gathered the pieces together.
+
+Ren stored the Vampiric Sword and pulled out a sword that was very similar to the one Officer Holly and Xuunah used. “By the power of the Light, I invoke thee! I call upon the Supreme Power of Judgment!” He said and poured Mana into the blade. It glowed brightly, almost blindingly so, and he stabbed it into the pile of dried body pieces of the Minor Demon. The pieces were covered in the same bright light and started to dissolve. The pile reduced down to barely ash in moments, then disappeared completely.
+
+“Judgment Passed.” A loud disembodied voice said, and the light faded from the blade Ren held. “Condemnation.”
+
+Ren stored the sword and turned to Glastor, who was now without his armor and completely healed. “Are you ready to fight for real now?”
+
+“What did you do?” Glastor asked.
+
+“Cleansed you.” Ren said. “I removed the Minor Demon and his influence from you.”
+
+“You... you bastard!” Glastor exclaimed. “Do you know how hard I worked to make a pact with that demon? Do you know how long it took?”
+
+“Nope.” Ren said. “I don't care, either.”
+
+Glastor growled and stood up. “You are going to pay for this.” He said and equipped another set of armor as he picked up his dropped sword and shield. “You will pay dearly.”
+
+“You better not threaten the people I care about.” Ren said and gained the Angered condition. “If you do, I will have to deal with you appropriately.”
+
+Glastor smiled. “The first one I'll visit is the Sage of...”
+
+*BOOOOOOOOM*
+
+“ARRGGHHHH!” Glastor's sword hand had been completely blown off by something. He stared at the mangled and bloody stump in shock, and couldn't understand why his Mana Shield hadn't stopped whatever it was. He looked at Ren and saw what looked like a sawed-off shotgun.
+
+“No one is allowed to hurt the people I care about.” Ren said and fired again. Nothing came out of the barrel, but there was another loud boom and Glastor's other hand disintegrated. The shield on his arm hung down from the strap on his forearm and dangled there.
+
+“What... what...”
+
+“Surprise.” Ren said. “This is a little something that I came up with while playing around with...” He stopped talking and smiled. “You know what? I'm not explaining it.” He said and stored the shotgun, then crossed his arms to wait.
+
+“What are you doing?” Someone in the crowd yelled, and Ren turned to look at the guy that used to be in the top spot on the XP leader board. “Shoot him in the head!”
+
+“He won't learn his lesson if I do that.” Ren said. “He'll think he can come back whenever he wants and harass me, and I'm going to show him... and all of you... that you can't.” He smiled. “Not shouldn't. Can't.” He looked back at Glastor. “Hurry up and heal yourself. Stop wasting time.”
+
+“You think you've got it all figured out, don't you?” Glastor asked and his hands reformed almost instantly as if they hadn't just been destroyed.
+
+“All of it? No.” Ren said. “A good portion, yes.”
+
+“You're pretty arrogant and full of yourself.”
+
+Ren chuckled. “You're kidding, right?” He asked. “You've read my books, haven't you?”
+
+Glastor nodded.
+
+“You mistake arrogance for confidence.” Ren said and took out the pistol again.
+
+“You know I can heal instantly.” Glastor said.
+
+“I know.” Ren said and shot him in the chest.
+
+The bullet was pushed out and the hole healed over. Glastor smiled and motioned for Ren to shoot again.
+
+“You know, I've always wondered if there was a limit to how much damage someone could take before their Regeneration couldn't heal them.” Ren said.
+
+Glastor watched as Ren pointed the gun to the right. “You can't hit me like that.”
+
+“Yes, I can.” Ren said and a micro-portal opened in front of the barrel. Then hundreds of micro-portals opened around Glastor and Ren pulled the trigger. One bullet was split into hundreds of pieces that slammed into Glastor from every direction and shredded his armor. Since Ren had the Hail of Arrows ability active again, 10 times that much hit Glastor as well. Ren fired again and the bullet was split hundreds of times again and multiplied, which shredded Glastor's skin and the remains of the armor.
+
+“S-stop.” Glastor said and dropped to his knees.
+
+“Oh, come on.” Ren said. “That's all? There's no way you're giving up this easily.”
+
+“Please... have mercy...”
+
+“Ha! Hahaha!” Ren laughed. “You're hilarious.” He said and pulled the trigger and held it. 98 more bullets went through the dispersion portal and over 19,000 bullet fragments came out, then were multiplied by 10. The metal and magical fragments tore into Glastor and made his body dance from the impacts as his skin and muscles were pretty much mulched.
+
+No one in the crowd said anything as Glastor's body slumped to the ground.
+
+Ren felt everyone's emotions start to turn against him and he dismissed the portals. “Just so you know, my opponent is fine.” He said. “If you look on the screens, even as cut up as he apparently is, he hasn't gained the Bleeding or Bleeding Profusely conditions.”
+
+Everyone glanced at the screen and saw that Ren was telling the truth.
+
+“He's just trying to garner sympathy from you, which he can consume. I'm tempted to warn you to not be so gullible, but I don't want you to think I'm insulting you.” Ren said and smiled. “Look, he's already healing.”
+
+Glastor sat up as the wounds closed and looked at Ren. “That trick won't work if you're not around or can't see me.”
+
+“Let's test that, shall we?” Ren said and ran across the arena to the other side and faced away from Glastor, pointed the gun up into the air, then cast the same spell. Glastor was surrounded by the micro-portals and Ren pulled the trigger again. Glastor was once again completely shredded by the over 200,000 bullet fragments and fell to the ground again.
+
+“H-how... how can you...” Glastor started to say as he sat up, completely healed.
+
+“Magic, obviously.” Ren responded, then ran back over to him and stopped 50 feet away. “I can cast a Portal spell so strong that I can cross an entire continent with a single step. Do you really think I can't cast a portal to find a lowlife piece of garbage like you that would threaten my friends? Do you?”
+
+Glastor didn't respond, so Ren turned to the crowd.
+
+“This goes for everyone that's here or watching one of the displays I've spread across the country. If you want to come after me, that's fine. I'm okay with that. I'll fight you one-on-one or even all at once.” Ren said and activated his Terror Aura. “No one... and I mean no one... will ever come after my friends, the people I care about, or the citizens of my domain and lands. If any harm comes to them, from anyone, you will not escape my wrath.”
+
+Everyone reacted to his Aura and his words in some way. Some cried, some shivered, and some fought the feeling; but, most of them agreed that it would be a bad idea to cross him. He felt several dissenters, and turned to the section with Tristan and the people around him.
+
+“That goes double for you.” Ren said and deactivated the Terror Aura. “I'm not a vindictive person. I normally let things go, usually as a detriment to myself; but, not for this. If you or one of your henchmen, or hired hands, or someone you just antagonized into doing it, hurts one of my people... I will kill you. No playing around. No joking. You'll just be dead.”
+
+“Ha.” Tristan said and crossed his arms. “I'd just be back in 6 hours and...”
+
+“You'll be dead again.” Ren said. “As soon as you step out of a safe zone, you won't even have time to take a breath.”
+
+“Hey, wait a second.” Someone near Tristan said. “You can't do that! Camping at a spawn point is against the rules!”
+
+Ren snorted a laugh. “I won't be camping at a spawn point anywhere. You saw what I just did, didn't you? I don't have to camp. Plus, I'll only be targeting a single person, not everyone that comes from that safe zone.”
+
+“You can't stop someone from playing, man. That's not fair.” A voice rang out, and Ren turned to see Tommy was on his feet.
+
+“If someone interferes with my adventures and hurts or kills my people, which stops me from playing or changes how I play, that's okay by you; but, if I kill them for it, that's not?” Ren asked him.
+
+Tommy didn't say anything. His girlfriend Jaime touched his arm and he sat back down.
+
+“That's what I'm trying to get at. I know a lot of people. They interact with me and I interact with them. What right do you have to hurt or kill them?” Ren asked. “What right do any of you have to do that?”
+
+No one said anything, then Glastor stood up.
+
+“They're just NPCs.” Glastor said and stored his shield and sword.
+
+“To you, maybe.” Ren said. “To me, they are better people than you are.”
+
+“You really care about those fake things?” Glastor laughed. “If I'd known that, tormenting you before this fight would have been so much fun.”
+
+Ren sighed. “Are you even listening to what I'm saying?”
+
+“Oh, I heard you.” Glastor said. “You're a pussy that cares about things so unimportant that you can't think straight.” He said and smiled. “For the rest of your days, when something happens to one of your 'people', you're going to be wondering who did it and how, and it's going to torture you-URK!”
+
+A portal had opened above Glastor and 11 long metal bars had impaled him down through his chest and jammed into the ground.
+
+“You are such a fool.” Ren said and threw another bar through a different portal, and 11 more bars crisscrossed his body and jammed into the ground and held him in place. “Are you really that stupid?” He asked and threw a metal pole normally and 11 of them went right through Glastor and out the other side. “Do you really need me to convince you to leave me and mine alone?”
+
+Ren took out the Acid Arrow wand and cast it through the portals. Each projectile was increased by 10 times, so 22 arrows hit Glastor from different directions. His body started to dissolve from the acid, but he didn't scream.
+
+Some people in the crowd were throwing up at the sight, and Ren turned to the crowd again.
+
+“Please stop overreacting. If you can't tell by now, he's got massive Regeneration and Healing capabilities, even without the Minor Demon boosting him. Plus, he's not screaming.” Ren said. “I warned you at the start that this was going to be scary.”
+
+“You really should be paying more attention to me than to the crowd.” Glastor said, and Ren turned back to see the metal poles drop off and the holes from the acid closed over.
+
+“Don't worry, I am.” Ren said, and a large 20 foot wide rock dropped onto Glastor from 100 feet up in the air and crushed him. “Ooo, that had to hurt.”
+
+The rock shifted slightly and rolled aside, and Glastor shakily stood up, then took a deep breath.
+
+“I'm getting tired of these games.” Glastor said.
+
+“You poor thing.” Ren said and made another portal to suck in the rock, had it drop another 100 feet and made another portal right beside Glastor.
+
+“GAH!” Glastor grunted as the rock slammed into him and drove him backwards into the magical barrier. “UGH!”
+
+The rock fell away and Glastor's mangled body fell to the ground.
+
+“That's awful!” A woman screamed. “Just finish him off!”
+
+Ren waved and nodded to her. “All right.” He said and walked over to Glastor, then stopped 21 feet away. He took out a pair of 25 foot long pliers and clamped them onto Glastor's partially crushed arm and picked him up.
+
+“What... are you... doing?” Glastor asked as he healed.
+
+“Taking out the trash.” Ren said and opened a portal below him. “Have fun.”
+
+“Wh-what...” Glastor grabbed onto the pliers to stop from falling.
+
+Ren smiled and let the pliers go.
+
+“NOOO!” Glastor yelled and dropped into the portal.

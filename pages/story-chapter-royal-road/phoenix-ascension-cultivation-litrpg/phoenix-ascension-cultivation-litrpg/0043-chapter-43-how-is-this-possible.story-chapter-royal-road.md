@@ -1,0 +1,147 @@
+---
+id: a1e9cd55-68fd-54f0-bfc0-2d9dc8603059
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43: How is this possible?!"
+slug: 0043-chapter-43-how-is-this-possible
+partOf: phoenix-ascension-cultivation-litrpg
+position: 43
+ownLength: 1913
+unit: words
+publishedAt: 2025-11-01
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2723958/chapter-43-how-is-this-possible"
+royalRoadId: "2723958"
+---
+
+It was small and cute, but gave off a frightening aura I could feel from all the way down on the ground. I couldn’t imagine what sort of pressure Mother felt if she did at all.
+
+Somehow, I could tell that it was trouble. It reeked with a foul aura that made my feathers stand on their end. It wasn’t like anything I’d seen or felt before, to the point that the Demonic Qi invading my body seemed more like a friend.
+
+The old man flicked his wrist, sending the creature toward Mother. She dodged it, but I could tell from her expression that it wasn’t a good thing. The fake Phoenix descended from the sky and ate the thing in one fell swoop.
+
+Instantly, the parts of its body that Mother ate and threw away regrew, but its orange flames disappeared. Ugly, black and white flames took their place, which made it look less like a Phoenix and more like death. The aura it gave off was similar to the small creature’s, except that it was amplified by a few levels.
+
+Mother let out an anguished screech, a tear dripping down her cheek. The cultivators looked at it with greed, but none dared to move. They watched it as it fell on the soil, getting absorbed by the earth. Flowers, grass, and tiny trees sprouted out of the place where it fell, and the surrounding plants also looked brighter and more beautiful.
+
+The cultivators shook their heads, no doubt thinking that it was such a waste.
+
+I could only feel anger at their reaction, and if I were strong enough, I would have shoved their heads down their necks.
+
+Power…
+
+If only I were stronger, if only I could fly, if only I could use my Active Skills, if only I could use my Nirvanic Flames.
+
+But I couldn’t because of the damned Demonic Qi invading my body. If I spent more Qi, then no doubt it would poison my dantian, and I would lose everything anyway. Currently, it was a standstill, which worked out to my advantage until I found a way to get rid of it.
+
+Perhaps Mother could help me.
+
+But for the moment, she was too preoccupied with the cultivators. Maybe if she hadn’t gone away for a few days, then things would have been different. But I couldn’t regret it anymore.
+
+I took a look at the Ice Crow Golden Core in my possession, and I had my reservations about using it. While the Ice Crow wasn’t nearly as strong as a Phoenix, it was on equal level to the Vermillion Bird.
+
+However, the latter had the same element as me, so it was easier to subdue, but the former’s element had an advantage. Even if my will was stronger, it would still be hard to use and control it, and it may hinder Mother.
+
+And from what I could tell, the black flames around the fake Phoenix weren’t exactly radiating any sort of Yang energy.
+
+So all in all, using it would be a complete waste of my energy and may also be problematic. Therefore, I put it aside and started thinking about how I could help Mother.
+
+I could summon the two fire dragons again. My energy reserves were plentiful after eating all the humans I could— at least the ones Mother didn’t steal— and the bits of fake Phoenix.
+
+Hm?
+
+A sudden idea struck me, and I stopped hesitating. Two fire dragons made out of Phoenix Fire appeared in front of me, which I then merged into a two-headed dragon. The very next moment, I jumped, attempting to literally ride it.
+
+However, my attempt ended with me rolling on the ground.
+
+Tsk.
+
+I clicked my tongue, feeling quite dejected. Nothing could be done about it. Even with my Precise Flame Control, changing the density of the fire to such an extent was difficult. However, it was definitely possible.
+
+Then again, a Phoenix riding a dragon into battle, whether it was real or not, would be shameful.
+
+I waved my wing and sent the two-headed fire dragon up to assist Mother, and also commanded the Vermillion Bird Golden Core to be more aggressive. Well, I say commanded, but unlike the fire dragons who have a quasi-will of their own, the Golden Core needed my full attention.
+
+That made me quite a target, but there wasn’t anybody in the vicinity aside from corpses, so it should be alright.
+
+With the Golden Core under my control, I began exploring what it could do. That Hei Tu guy used it to melt the ice from the Ghost Qi Technique, and to also counter the effects of the Yin Qi.
+
+However, it could do much more than that.
+
+Aside from being used as a throwable projectile, it could summon the Vermillion Bird’s Golden Fire, which was a few degrees weaker than the Phoenix Fire, but much stronger than whatever these humans could conjure.
+
+I knew that all too well.
+
+With the barrier shattered, the pressure I could put on them decreased, but it was still enough to alleviate some of the pressure on Mother.
+
+Some weaker cultivators stopped attacking or helping with their Qi in favor of defending, while others… rushed toward me?!
+
+I immediately took my consciousness away from the Golden Core. Of course, they would try to kill me.
+
+Seeing that Mother was dealing with the fake Phoenix quite well, I called back my two-headed dragon. It rushed toward the cultivator attacking me.
+
+As it turned out, it was the old woman with the strings. She wore the clothes of the jade sect, and her crazed face told me a few things.
+
+One, she was either insane or really anguished. Two, she recognised me, somehow, as the hate within her eyes could hardly be faked. And three, she really wanted me dead.
+
+The closer she got, the easier it was for me to tell that she was a Middle Stage Core Formation cultivator. Weaker than a Golden Core cultivator, but thousands of times stronger than I.
+
+Just judging by the Qi she was emanating while plummeting toward me, it was more than my entire reserves. And I said plummeting, as Core Formation cultivators could not fly. Unless my memory was playing tricks on me— which it often did— then true flight was only possible at the Golden Core realm.
+
+Cultivators at the Core Formation realm could only somewhat float, and they had to use objects to fly. She must have used one of those when fighting against Mother, but when it came to charging toward me, she must have decided that crashing down like a meteor was faster.
+
+Which, to be fair, it was.
+
+And that was why I ran away as fast as I could. There was no way I would sit idly by and wait for her to come. I dashed toward the tree and climbed up as fast as I could, doing my best to avoid her crazy thread attack and whatever else she wanted to throw at me.
+
+I didn’t know what technique she was cultivating, but amongst the countless Daos in the world, nothing surprised me. But her thread was pretty resistant to fire. If Mother couldn’t burn it away easily, then I hardly stood a chance.
+
+Thankfully, Phoenix Reflex worked overtime. The fact that she was still falling helped a ton as well.
+
+Thanks to my high stats, I could easily rush up the tree, which was once a challenge. Once I got within a certain radius of the nest, I felt a protective aura surrounding me. It was warm and comfortable, much like Mother’s wings.
+
+Once I climbed into the nest, that feeling multiplied. I didn’t know why Mother wanted me to run when this felt like the perfect place to sit. I doubted there was a safer space to be in than the nest.
+
+And to think I had to fight to the bitter end on the ground.
+
+However, I soon found out why she didn’t want me sitting in the nest.
+
+I could feel a certain amount of… me seep out, feeding the power of the nest. I could immediately tell that the nest was using my Phoenix Essence to feed itself and become stronger in this time of crisis.
+
+However, it became increasingly obvious that I didn’t have enough Phoenix Essence to last until the end of the fight. Unless Mother somehow managed to win it faster.
+
+Currently, she was locked in a fight with the fake Phoenix, its black flames eating away at her orange, red, and yellow flames. Being this up close, I could now tell what that aura was.
+
+Death.
+
+The purest form of Yin essence, and the bane of any Phoenix. Death aura would corrode away everything, accelerating time or simply rotting whatever it touched until there was nothing left. Absolutely nothing.
+
+Coincidentally, it was also the biggest weakness of a Phoenix. If the Ice element was a bow that could pierce through our skin, then Death was the cannon that our blow our hearts out of our chests.
+
+These guys really came prepared. I gritted my teeth, trying to hold in the rage.
+
+Their uniforms all reminded me of the cultivators that kept trying to kill me. Perhaps they were important enough for the elders and grand elders to come and see what the cause was. Without knowing how thoroughly they investigated, I could only guess that my actions led them to believe that Mother was the culprit.
+
+Then that old woman must have realised who killed that Hei Tu guy, as she may have recognised the Golden Cores.
+
+Which reminded me that I had to get them back before they got stolen. I called the Vermillion Bird Golden Core with my will, then forced myself to make a faint connection with the Ice Crow Golden Core.
+
+After a lot of struggle, I managed to push the will away temporarily and made it fly toward me. The old woman saw that and activated her flying object, trying to catch either or both of them.
+
+[Skill: Mental Fortitude has reached the [Beginner] Rank!]
+
+Phew, that lessened the burden on my mind by quite a bit.
+
+I got nervous when she approached the Vermillion Bird Golden Core, but it was a Golden Core. With enough focus, I made it send an attack, then had it speed forward toward the nest. The old woman didn’t dare get hit by the attack and had to defend, which allowed it to get away.
+
+She set her eyes on the Ice Crow Golden Core as well, but it was too late. With both cores in my possession and a large bag of holding around my neck, I must have looked like a crazy chicken.
+
+But it couldn’t be helped.
+
+As I looked at the Golden Core of the Vermillion Bird, then at the two-headed dragon trying to fight off the cultivators, an idea appeared in my head.
+
+I willed the two-headed dragon to come toward me, then flicked my wing and set the core inside its body.
+
+After two breaths of time, the dragon’s red fire turned to a beautiful golden hue, and its strength increased by a few dozen times.
+
+Both heads roared toward the sky, spewing out fire in a magnificent display of power. The cultivators looked at the two-headed Flame Dragon with an incredulous expression, and the old woman’s jaw dropped.
+
+“How is this possible?!”

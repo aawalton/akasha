@@ -1,0 +1,233 @@
+---
+id: 5f932ee6-e774-57f8-8ae3-f91846495859
+page-type-slug: story-chapter-royal-road
+title: "TWENTY-ONE: Glossed"
+slug: 0021-twenty-one-glossed
+partOf: super-supportive
+position: 21
+ownLength: 2519
+unit: words
+publishedAt: 2023-02-27
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1124079/twenty-one-glossed"
+royalRoadId: "1124079"
+---
+
+For only the second time in her life, Aimi Velra was under the influence of the highest potency luck chain available to humanity.
+
+Glossed— that was what the family called it. She didn’t know who had come up with the term, but it fit. Aimi felt shiny, gleaming. Untouchable.
+
+She pressed her foot almost to the floor, and her sports car shot through the streets of Apex at a speed that was illegal—for vehicles at least—everywhere on the island.
+
+Aimi gritted her teeth. She was both loving, and loathing, the way other cars and pedestrians seemed to melt out of existence around her. No doubt she was ruining traffic patterns all over the city.
+
+It was a doozy of a chain, one that could only be completed by Aulia Velra herself, and it had fallen on the whole family two days ago.
+
+Like a heaven-sent battering ram.
+
+They were all high as kites from the overluck by now. They were elated. They were furious. Everyone was going a little nuts.
+
+Poor cousin Lute had only just turned fifteen, and he’d called Aimi crying because his crush had asked him out at school yesterday. And now he could never date her without it being reallly creepy.
+
+Was a cosmically potent wordchain giving you your dream girlfriend the same as you accidentally mind controlling her?
+
+Who the hell knows?!
+
+Aimi yelled in frustration as her car barreled south. There were signs everywhere on her interface telling her she was about to enter a small high-rank Wright neighborhood jokingly called Big Boom Town. Her car wasn’t armored, and she wasn’t either, so normally that would have been a firm no from her.
+
+But today she sailed through, and there wasn’t a single explosion or giant robot in sight.
+
+Just as she was about to leave and enter another neighborhood, a drone conked out in the sky above her and dropped a box of cupcakes it was delivering. Through her open sunroof. Neatly into her passenger seat. Without a single crumb falling onto the dark red leather.
+
+They were from her favorite bakery.
+
+“THAT’S IT!” she shouted. “System, call Keiko!!”
+
+The connection notice flashed in her vision.
+
+“Aimi, I was almost asleep. It’s really late in Tokyo,” her sister said tiredly.
+
+“You can sleep?!”
+
+“Theoretically. If you stop bothering me.”
+
+“Cupcakes just landed in my car, little sis. Through my sunroof. I’m driving 200 kilometers per freaking hour.”
+
+“Don’t push it,” Keiko said sharply. “The Gloss isn’t perfect.”
+
+“I went into a public bathroom at Rosa Grove Mall yesterday, and the floor was so clean I could’ve eaten off it. I saw my ex at a sandwich place, and he was on crutches. I found a pearl bracelet in a potted plant.”
+
+“Is that all?”
+
+“What do you mean ‘is that all?’”
+
+“I accidentally busted a gang of human traffickers on my way to get coffee this morning,” Keiko admitted. “And I got a summons. It only took me an hour, and they were in such a good mood they gave me access to a new wordchain for it. One I haven't really earned yet.”
+
+“What? That’s not fair!”
+
+“I thought you were just complaining that you were too lucky?”
+
+“I got cupcakes! You got an easy-mode summons with outsize rewards! I thought the whole point of them binding us all together for this one was to make things more balanced.”
+
+“It's to maximize opportunities. The fact that we're bound together for things like this supposedly means everything comes out fairer—”
+
+“Fairer over the long run. Yeah, yeah. I know. But oh my gods, I’d hate to be Hazel in a few weeks, when we’re taking stray meteorites to the face and coming down with rare diseases. She’s not worth it, and we all know it.”
+
+Keiko didn’t answer.
+
+“Fine,” said Aimi. “Tell me I’m being a bad Auntie. Tell me it’s not little Hazel’s fault that she’s a chaining genius, and Corin and Grandma are willing to shove us all off cliffs for her.”
+
+“You’re a terrible Aunt,” said Keiko. “And it’s not Hazel’s fault she was selected at a time when we didn’t have a Chainer of the proper rank lined up for her. But…”
+
+Aimi tightened her grip on the steering wheel. She was surprised. Usually Keiko was so nice. She had that hero thing down pat.
+
+“Hazel could have stopped it from going so far by affixing something else,” Keiko admitted grudgingly. “If she’d been an S like we all expected this might have been warranted…but she’s only a B-rank. And I don’t really want to bite a major luck bullet right now, either. I have my own goals. And if the good doesn’t blow them up, the bad that’s coming definitely will.”
+
+“Ah…yeah. Sorry to vent on you. I know this is happening to you, too. I should let you get back to sleep?”
+
+“That’s a great idea,” said Keiko. “Don’t drive too fast.”
+
+“I think I just passed a speedster.”
+
+“Aimi.”
+
+“Another call’s coming in. Bye!”
+
+She didn’t answer the other call right away, though.
+
+Aimi wasn’t in the mood to run an errand for any of her many uncles or aunts right now. And that went double for Uncle Corin. She’d blast deep into F, then answer him. At normal highway speeds, she’d be a solid half-hour away from that workaholic's office by then and less likely to be useful.
+
+She let the notification blink in her peripheral while she shot across The Span. The eight kilometer long bridge connected Apex—the smaller, crescent-shaped northern portion of Anesidora—to the larger circular island to the south that was mostly made up of F-city.
+
+As she left it behind, she flipped open the lid on the box of cupcakes and reached for a bright orange one.
+
+She took a bite and frowned, chewing thoughtfully.
+
+“Answer call,” she said finally. “Voice only.”
+
+“Aimi,” said Uncle Corin, he sounded breathless.
+
+“Hey,” she said, “I think the gloss is fading. I know it’s supposed to last another day, but I just bit into a cupcake and I’m pretty sure it’s made of squash. I mean it’s not bad, but it’s definitely not my go-to flavor.”
+
+“It’s not fading,” he said. “It’s doing exactly what we hoped it would. I need you to run an errand.”
+
+“Too bad,” she said. “Can’t. I’m way out of Apex. Down in F.”
+
+“There’s a person in F I need you to find.”
+
+Aimi winced. Of course there was.
+
+“It’s a boy. Fifteen to seventeen. I haven’t got a name yet. Brown hair. Green eyes. Average height. Average build.”
+
+“Wow. I know I’m good with my insight chains, but I’m not that good. You just described at least a couple hundred teenagers on the island. Can’t you send me a pic at least?”
+
+“No. I don’t have security footage of him yet. I got the description from a… Post Drop. I’m pretty sure its creator has done something highly illegal, but that’s beside the point. He’s wearing a tie and dress shoes. He left the Teleportation Complex around half an hour ago.” He paused. “Aimi, he’s the one. I think. Or a friend of theirs.”
+
+“Bullshit,” said Aimi, swerving easily around a pothole she definitely shouldn’t have been able to dodge at this speed. “The B-rank Chainer we need delivered themselves to us? Like freaking takeout?”
+
+Note to self: don’t ever make Grandma Aulia mad.
+
+“I think he might have. And not a moment too soon.”
+
+“Meteorites to the face,” she muttered.
+
+At this rate, she wouldn’t be surprised if the entire island sank like Atlantis sometime next week.
+
+Her uncle had to have heard her comment, but he ignored it. “Hazel’s at home. Take the boy straight there. I’m fetching the other necessities. Thank goodness we have who we need lined up. Also, try to determine if our new friend is unacceptably odd.”
+
+“What?”
+
+“Too disturbing to associate with over the long term,” Corin said. “This letter is well-composed for a teenager, but at the same time…I have some concerns after seeing it in person.”
+
+“Creepy kid in dress clothes. Got it. Still doubt I’ll find him quick. I’m pretty close to the place, but there are a few million people to search through in F City. And I’m sure my wordchains will work great when I’m glossy as a fresh manicure, but I’m not psychic or anyth--huh…”
+
+She’d been forced to slow down by a garbage truck. It was the first vehicle that had gotten in her way in the past two days. She’d been so distracted by the conversation that she wasn’t suspicious at first, but now… she squinted out her windshield as her car eased forward.
+
+She was passing by a public recreation area, one with a jungle gym, some swings, and a small fish pond.
+
+“Corin, just out of curiosity, is there any chance your ominous teenager actually looks incredibly wholesome?”
+
+“Again, I don’t have footage of him yet. I’m working on it.” Corin was definitely out of breath. “Why?”
+
+“Because there’s a kid here, just a few blocks from the teleportation place. He’s all by himself. With brown hair and dress clothes.”
+
+“That must be him! Yes. Finally. Get him to come with you!”
+
+“I don’t know...” she said slowly. “I don’t feel good about this. He looks kinda sad, and he’s feeding the ducks.”
+
+“Aimi!”
+
+She U-turned the car and passed by the park again. “It’s hard to tell from here, but I think he has freckles on his nose.”
+
+Her uncle swore. “You’re the only one in position. The gloss isn’t without limits! If you cast aside the opportunities afforded by it, we might not get another chance.”
+
+She grimaced. The only thing that would be worse than the bad luck that was coming would be if everyone in the family blamed her for it going to waste.
+
+“Yeah, yeah. Okay. I’ll kidnap him.”
+
+There was a relieved sigh from Corin. Then, a minute later, he spoke in a startled voice. “Wait…I said get him to come with you. Not go straight to kidnapping. We need him to give us his class! Don’t do anything rash. Aimi? Aimi, did you mute me?!”
+
+Alden turned the knob on the modified gumball machine beside the park bench and took another handful of duck food. A dozen birds were quacking around his feet, unafraid now that they’d realized he was a big spender.
+
+Hannah would have thought this was funny.
+
+They’d only come to this park together once, on Alden’s first trip to visit her. It had been really awkward, and the ice between them hadn’t thawed until Hannah had used one of her barriers as a platform so that the two of them could sit out in the middle of the pond, watching the ducks.
+
+I wonder if anyone has ever actually bought all of the food in the machine before? he wondered as he sprinkled the gray pellets around.
+
+Now that the letter was sent, he didn’t have anywhere else to be until the funeral. The money on his debit card should be just enough for him to befriend every duck in the park.
+
+And it was nice to have the park all to himself. The day was sunny, and it was warm for an Anesidoran summer—a pleasant reprieve from the cold winter he’d left behind in Chicago.
+
+You’d think more people would be hanging around a place like this on a Saturday morning. He grabbed another handful of food and settled on the bench, doling the pieces out slowly. It’s going to be weird to live here all the time.
+
+If he got into one of the better training courses, he’d be in Apex. If he was stuck in a lower-rank school here in F instead…he could feed the ducks all the time.
+
+Win-win.
+
+He snorted at himself.
+
+“Hey you,” he said pointing at a particularly fat bully of a duck, “leave the little guys alone or I’ll grab you and stick you back in the pond.”
+
+“Not if I grab you first,” a voice whispered in his ear.
+
+“WHAT THE FU—?”
+
+Before Alden could finish cursing in surprise, a hand was clamped over his mouth, and he was dragged sideways off the bench. Duck food scattered across the grass, and those quacking traitors didn’t even glance up as Alden was hauled away at high speed.
+
+It happened so fast.
+
+And it was so damn uncomfortable. Whoever had grabbed hold of Alden was freakishly strong, but they were also much shorter than him. And they hadn’t picked him up. He was just being hauled along in a weird bent-over position, trying to keep his feet beneath him while he was dragged forward by the head.
+
+The hand keeping him from screaming for help was one stumble away from ripping his nose off.
+
+“Hey!” said his kidnapper as she tightened her grip on him and dragged him toward the nearby street. “Ni hao. Suprabhat. What’s your language of choice, amigo?”
+
+Shit! Help! Some crazy supergirl is going to kill me! Where the fuck is everyone?
+
+He was in the middle of a giant city. Why was the park empty? Why was the street silent as if every other soul on the planet had better places to be?
+
+“Stop wriggling so much. I don’t want to knock a teenager out. Concussions are wicked bad, yeah? It’s not like in the movies.”
+
+System! thought Alden. Call! Activate! Turn ON! 911!
+
+Why hadn’t he listened when Gorgon told him to make up a hands-free activation method?
+
+He’d planned to do it. He just hadn’t expected to need to before he even affixed a class!
+
+“Sorry about this, freckles. We just want to have a quick word with you. Yeah, yeah Uncle Corin. I get it. I won’t really give him a concussion. Jeez, I’m not a monster, you know?”
+
+The name Corin sounded vaguely familiar, but not familiar enough to pierce through Alden’s blind terror.
+
+As the kidnapper turned her double-armed grip into a single-arm hold so that she could open the door of fiery red sports car, Alden used every ounce of his strength to lunge away from her.
+
+Only to be yanked back by his shirt in an instant.
+
+He was shoved into the car, his hip ramming into the stick-shift hard enough to bruise, and before he could even pull himself up into a proper sitting position, a petite woman with a dark ponytail was sliding into the driver’s seat beside him.
+
+“Hi there!” she said, grinning at him as she revved the engine. “I’m Aimi!”
+
+“Help!” Alden screamed, reaching for the door handle.
+
+“Nah, you don’t need help,” said Aimi, smashing her foot against the gas. The car shot forward so fast Alden was pressed to the red leather seat. “You don’t even need to buckle up! Not today. Today, I’m the best driver on the island.”
+
+Aimi held a pastry box out toward Alden as the car roared down the street. “Want a cupcake?” she asked. “Lots to choose from. Kinda strange. I think they might be vegan.”

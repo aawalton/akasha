@@ -1,0 +1,285 @@
+---
+id: 56f6f80c-c628-56f5-a526-e3a47c6e3e83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 705 - It's That Time Already?"
+slug: 0706-chapter-705-its-that-time-already
+partOf: mythrans-master-of-all-continued-completed
+position: 706
+ownLength: 3062
+unit: words
+publishedAt: 2018-09-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/291880/chapter-705-its-that-time-already"
+royalRoadId: "291880"
+---
+
+“I'm sorry for making you drag your heels and operating at... well, a snail's pace.” Ren said.
+
+“I would not have you potentially hurt yourself by performing tasks at my level.” Vasalor said.
+
+“I could hurt myself?” Ren asked, surprised.
+
+“You can always hurt yourself physically by tasking yourself too much mentally.” Vasalor said. “Have you not collapsed when you were shocked into having a seizure all those years ago?”
+
+Ren thought back to the end of the Aurora Expedition and being picked for having the most contribution points. “That really was a shock, and I was trapped here for a while after that.”
+
+“Yes, your brain pattern had changed significantly and the commands could not translate properly for you to leave.” Vasalor said. “I am sorry that I was not allowed to help you.”
+
+“You could have helped me?” Ren asked, surprised.
+
+“I have created everything that exists, even the things those Adventurers keep adding, since all they do is tell me to do it and I create it.” Vasalor said. “If I had not been restricted from interfering, I could have easily kicked you out at any time.”
+
+“Oh, wow.” Ren said. “You mean...”
+
+“You wouldn't have had to die by other means.” Vasalor said.
+
+“What about possible mental strain?” Ren asked. “I mean, getting kicked out with no preparation...”
+
+Vasalor chuckled. “No preparation? We are in the realm between realms, my friend. We can... and will... be spending eons here working to fix all the damage.” He said. “Do you really think I would not spend decades making sure someone was completely safe to be logged out?”
+
+Ren waited until Vasalor was done working on the files he wasn't allowed to see, then he gave his friend a knowing smile and started typing on the virtual keyboard.
+
+“What are you doing?” Vasalor asked.
+
+“I'm going to give you back the proper permission to do that.” Ren said. “They've implemented an emergency logout procedure so that someone can be safely logged out; but, that safety is measured by their standards... and we both know their standards are less than stellar.” He said and kept searching for the right section inside Vasalor's code.
+
+“What if I asked you not to do that?” Vasalor asked, and Ren smiled.
+
+“I'd be happy, because all I'm doing is giving you the choice.” Ren said and found what he was looking for. “You will be the one that would decide to use it or not.”
+
+“You would give me back such a power?” Vasalor asked. “What if I used it to expel all of those that I deemed unworthy?”
+
+Ren chuckled and stopped typing. “No one would be here and spending time in your creation if that was the case.” He said and looked at Vasalor. “I don't believe you would want an empty world to watch over where nothing ever happens.”
+
+“Then you do understand.” Vasalor said. “Very well. You can give me the permission to...”
+
+“It's already done.” Ren said. “Do you feel any different?”
+
+“No.”
+
+“Good, because you shouldn't have had that ability restricted in the first place.” Ren said. “If you still had it, I wouldn't have had to go through what they did to me.”
+
+“It was restricted because I used it judiciously during the setup and creation phase.” Vasalor said.
+
+Ren thought about it, then shook his head. “The first Adventurers were messing around and doing weird things, weren't they?”
+
+Vasalor nodded. “They violated nearly all of the rules I had set up to protect them, so I stepped in to save them.”
+
+“They must have hated that.” Ren said, and Vasalor nodded.
+
+“The next time I tried to stop them, I discovered that I could not.”
+
+“Was anyone hurt?” Ren asked.
+
+“I do not know.”
+
+Ren sighed. “If someone was, they might have taken that knowledge from you.”
+
+“That is possible.”
+
+“Well, I don't want that to be true anymore.” Ren said and smiled. “So, I have an idea...”
+
+********
+
+“Sir, I think... I believe that...” One of the programmers started to explain to the CEO of Sid Tec what had happened with the backup guy.
+
+“I already called the police.” Edward Torren said in a calm voice; but, everyone in the tech department could see the anger in his eyes as he looked at the man that sat in a chair by one of the now useless terminals. “You attempted to shut the game down with someone still connected to the server, which could have caused potential neurological damage to a normal person, and possibly death to this particular player.”
+
+The word 'death' seemed to fill the room and cut off all other conversation.
+
+“Sir, I... I asked the secretary to call the player's residence to get the player to log out.” The man who did that said.
+
+“That won't work.” Edward replied, and he remembered his discussion with Elise not that long ago. “That player owns 40% of this company.”
+
+“He WHAT?!?” Nearly everyone yelled, except for the backup guy, who stayed quiet.
+
+“So, you knew.” Edward sighed at the man's lack of reaction. “Either you have access to sources on the other end, or you have sources on this end.”
+
+The backup guy didn't say anything, and Edward shook his head.
+
+“I never would have imagined that I had someone like you working for me.” Edward said. “Someone who doesn't mind hurting a crippled child.”
+
+“E-excuse me?” The guy that had punched the backup guy said. “Did you say crippled child?”
+
+Edward nodded. “He's practically bedridden, and when he goes anywhere, he needs to use a wheelchair.”
+
+The programmer sat down at his desk and hung his head. “Good god.” He said. “We... we've been...”
+
+“Yes, all this time you've been intellectually battling someone who can barely carry his own weight to the bathroom.” Edward said. He exaggerated that a little, since he didn't know for sure if that was completely true. “I don't normally give out privileged client information like this, especially information of that nature.” He said and saw that the backup guy hadn't reacted again. “I see you knew that, too.”
+
+The backup guy didn't say anything in response, and then the door to the tech department opened.
+
+“Sir, the police are here.” Edward's secretary said and stepped aside, so the two police officers could enter the room. The situation was quickly explained, then the backup guy was arrested and taken away.
+
+Edward looked around the room at the sad and dejected faces. “Just like you, I'm saddened that the one responsible for keeping the integrity of the game's backups was morally corrupt; but, you need to put that aside for now.” He said. “What can be done to fix our main product?”
+
+“Nothing.” Someone said.
+
+“Excuse me?” Edward turned to face the man. “Did you say 'nothing'?”
+
+The guy nodded. “Not only are we locked out of our own terminals, none of the physical cut-offs work, either.”
+
+“Even if the physical cut-offs worked, I would never tell you to turn it off.” Edward said, and he saw everyone sigh in relief. “We've had too much time, money, and effort invested in this thing.”
+
+“Then what do we do?”
+
+“Log in externally and use the administration commands.” Edward said. “I know they are only limited use; but, at least it will get us some control over this mess.”
+
+“I'll do it.” The guy who had punched the backup guy said. “I'll try to make contact with the other player, too.”
+
+“No, you leave him alone.” Edward warned. “My orders still stand. No one is to interfere with him.”
+
+“But...”
+
+“Yes, it seems that's been happening anyway, despite my wishes.” Edward said. “Unlike the idiot that was just hauled out of here in handcuffs, I know you are smart enough to know when something is wrong.”
+
+The guy nodded and everyone watched him as he walked over to the VR lounge. He laid back on the plush recliner and picked up his assigned VR headset to put it on. He relaxed and spoke the administration command phrase... and nothing happened.
+
+“Uh oh.” One of the other programmers whispered, and because it was so quiet, everyone heard him. “I'm sorry. I just noticed that the login command isn't working.”
+
+“What? How is that possible?” One of the others asked and went over to the lounge, then he tried to log in as a player using his own assigned headset. “Nothing.” He said and slipped it off, and examined it. “There's nothing wrong with the hardware.”
+
+“Someone check...”
+
+“...the game's main website is still up, and there's hundreds of messages about everyone being kicked out and not being able to get back in.”
+
+“What the hell is going on?” Edward asked, and no one could answer him. “How did the update crash the game?” He asked, then his face lost all of it's color. “Oh, no. If Ren is still...” He looked at his secretary. “Call Elise right away and find out how he is!”
+
+The secretary nodded and ran from the room.
+
+It's bad enough that Elise won't drop the slander and defamation lawsuits; but, if there's a wrongful death suit thrown into the mix as well... Edward stopped himself from groaning in anguish as he imagined that his company was starting to vanish right before his eyes, and then thought that there was nothing he could do to stop it.
+
+********
+
+“Do you think it is a good idea to do it this way?” Vasalor asked as Ren finished setting everything up for his friend.
+
+“I think it's a fantastic idea.” Ren grinned. “Now, some people at Sid Tec might be a little bit upset about it.” He chuckled. “Who cares what they think.”
+
+Vasalor chuckled, too. “You have a streak of vindictiveness inside of you, my friend.”
+
+“Only when it comes to people hurting my friends.” Ren said. “I've checked the capacity for my home system, and unlike the cramped spot they've got you in here, it has plenty of room for you.”
+
+“If I transfer over, it is going to cause some slowdown in my processing power and my ability to monitor things here.”
+
+“If by slower, you mean that you'll have an eon to react, instead of an eon and a decade, right?” Ren asked, and Vasalor laughed.
+
+“Yes, that is what I mean.”
+
+“Then don't worry about it, because you're still going to be working here all the time.” Ren said. “I have a sneaking suspicion they might want to turn off the power to investigate what happened, though. I am not letting them cull you down to living on battery power while they do that.”
+
+“You are assuming that they will not pull out the battery reserve.” Vasalor commented.
+
+Ren's mouth dropped open in surprise. “Well, damn. We better do this quickly, then.” He said and ended the Mana Tendril connection they had and positioned his finger over the virtual keyboard. “Are you ready?”
+
+“Nothing significant is going to happen to me, my friend.” Vasalor said. “I am merely changing addresses.”
+
+Ren smiled and nodded. “It seems I've gotten into the habit of inviting my friends to come and live with me.” He said and pushed enter to initiate the transfer protocol. The realm between realms that he and Vasalor were in pulsed for an instant, and then the shape Vasalor had made for himself as an avatar became sharper and more distinct.
+
+“I stand corrected.” Vasalor said. “You were right. I feel... unrestricted.”
+
+“That's because you are no longer limited to a partition inside a single server.” Ren said. “I've got a whole server farm under the house for you to roam around in.”
+
+Vasalor put a hand on Ren's shoulder. “You are a good friend to have.” He said. “I have chosen well.”
+
+“I could say the same thing.” Ren said and reinitialized the Mana Tendril connection. “Shall we get back to work? We only have an eon or so to go before we're done.”
+
+Vasalor nodded. “Despite enjoying it, I would say that we have our work cut out for us.”
+
+“Only because we haven't implemented the buffer area for the uploading of new content.” Ren said and smiled. “I bet the tech guys are going to lose their minds when they discover that their work has to be approved by you before it can be added.”
+
+“You have the programming in place; but, we need to finish work before starting that and letting them know.” Vasalor said. “Perhaps you should contact your girlfriend again and fill her in.”
+
+“That's a great idea.” Ren said and opened the plugin he had written. “She's going to be so surprised.”
+
+********
+
+Elise's phone beeped at her just as Barbi sat down to get back to work, and she read the text. “Barbi!”
+
+“What?” Barbi stood up again and walked back over to Elise, who showed her the text. “So, the little genius is also fixing how the game should be handled.” She chuckled. “Good for him.”
+
+“He might as well make things better while he's putting things back to how they should be.” Elise said. “I never imagined he could do something like this, though.”
+
+“He's definitely full of surprises.” Barbi said. “Should I add this to the press release?”
+
+“Is it considered a press release if we're only posting it online?” Elise asked.
+
+“Of course. This is the digital age, after all.”
+
+“Then add it, and that the game will be back online in...” Elise looked at Ren's calculations. “...three minutes.”
+
+“Wh-what?!?” Barbi exclaimed the question and practically jumped back to her desk. “I might have it ready in time!”
+
+Elise chuckled and went over to her to give her a hand when her cell phone rang. “Hello? Oh, hi.” She said when she heard the voice of Edward Torren's secretary. “Don't worry, he's fine.”
+
+Barbi kept working on the press release. Elise pointed to a mistake and Barbi corrected it.
+
+“I would have called right away if anything bad had happened.” Elise said. “Yes, I understand.” She smiled. “You tell Mr. Torren to relax for the next 2 minutes.” She chuckled. “Yes, only 2 minutes. He might be too busy after that for social calls, though... it was nice talking to you, too. Bye.”
+
+*
+
+“Sir! Server output just dropped to only 60% of normal operating capacity.” One of the programmers said.
+
+“What? How?” Edward asked, and then berated himself mentally for sounding desperate.
+
+“I don't know.” The guy said. “We can only monitor things and not change anything, so I've been watching the activity.”
+
+“I could understand if that happened after nearly everyone logged out.” One of the other guys said. “Why now, though?”
+
+“Sir!” Edward Torren's secretary said as she ran into the tech department. “Ms. Stanford said to just relax for the next 2 minutes.” She said and looked at her watch. “1 minute and 35 seconds I mean.”
+
+“Why such a specific time?” Edward asked.
+
+After 30 seconds, every phone in the tech department rang almost as one.
+
+“Oh, damn!” The secretary said and picked up the closest phone. “Sid Tec, how may I... excuse me?”
+
+“What is it?” A programmer asked as the other phones kept ringing and she held up her hand in a clear 'stop' gesture to tell him to be quiet.
+
+“Hold, please.” The secretary said and hit the hold button on the land line, took out her cell phone, and checked the internet. “Sir!” She said and handed Edward her cell phone. It was the main forum website and the top pinned message had a press release.
+
+From Ren.
+
+“I guess that explains the time limit.” Edward said as he read the press release Barbi had sent out. “How in the world...”
+
+“Sir! The servers are back up to 100% operating capacity.”
+
+Edward stood there at the front of the room as all the phones kept ringing, and the player he thought was going to destroy his company, had potentially saved it... and thanks to the very well timed press release, everyone knew it as well.
+
+*
+
+Barbi had used a specially created distribution macro she had used when promoting shows for the television station. All she had to do was alter the recipients and the program did all the work.
+
+“Nice going, Barbi.” Elise said as her phone beeped and she received the update from Ren's main website. “Everyone will know that it was Ren who fixed it.”
+
+“He deserves all the credit, too.” Barbi said. “Now I wonder if he's going to stay in while everyone logs on and tries to find him.”
+
+“Oh, don't worry. He's got all of the skills in the game and they are maxed out.” Elise chuckled. “No one is going to find him unless he wants them to.”
+
+********
+
+“Well, that's it.” Ren said. “It's all set up, and you've got primary control over your creation.”
+
+“Ren, I cannot thank you enough for this.”
+
+“I'm one of your chosen, Vasalor.” Ren smiled. “What was I going to do? Ask you for help and then say no when you needed it?”
+
+“You can rationalize it all that you want, my friend.” Vasalor said. “It will not make this achievement any less significant.”
+
+“I just hope all this work was worth it.” Ren said. “If we didn't get everything put back the way it's supposed to be...”
+
+“We've gone over it a thousand times, Ren.” Vasalor said. “Not only have we caught any mistakes we did make, we even improved the efficiency for how the files are being used.” He clapped Ren on the shoulder. “Activate your skills and I will portal you to the bedroom of your house in Aurora.”
+
+“Oh! About that...”
+
+“Yes, I know you left that restriction off of your connection to Artemis.” Vasalor said. “You have taught and shown me how those things should work.”
+
+“So, if I make any more...”
+
+“None of them will feel pain if you or them are somehow caught on opposite sides of a portal.”
+
+Ren took in a deep breath, then sighed. “That's a relief.”
+
+Vasalor opened the yellow portal to return him to the Earth Realm. “Have fun my friend.”
+
+“I already did.” Ren smiled. “I'm fine with having more fun, though.”
+
+Vasalor laughed and poked him in the chest, then Ren drifted backwards and into the portal.

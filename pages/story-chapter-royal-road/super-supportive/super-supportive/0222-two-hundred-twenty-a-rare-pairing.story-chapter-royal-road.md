@@ -1,0 +1,269 @@
+---
+id: 6e429e9e-88fd-5954-8359-2501d9c14536
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED TWENTY: A Rare Pairing"
+slug: 0222-two-hundred-twenty-a-rare-pairing
+partOf: super-supportive
+position: 222
+ownLength: 3831
+unit: words
+publishedAt: 2025-05-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2305621/two-hundred-twenty-a-rare-pairing"
+royalRoadId: "2305621"
+---
+
+220
+
+******
+
+“Hello?”
+
+In the summonarium at the siblinghold, Alden’s greeting went unanswered. He’d arrived a few seconds ago to find that nobody was waiting for him, but there were signs that somebody around here was busy.
+
+A pile of supplies had been gathered in one of the symbol-covered summoning areas on the other side of the wide room. He could see stacks of folded fabric in a rosy shade of pink, and beside them, dozens of palm-sized pouches rested on top of a wooden chest that would have been big enough for him to hide inside if he wanted to. This seemed like a lot of supplies for them to haul if it was all intended for their trip today.
+
+He decided to head out and look for a familiar face, and before he’d made it to the exit, a message popped up on his interface. It was from Evul. The real Evul, judging by the contents.
+
+[You’re welcome for the summoning, Surprise Ryeh-b’t. Emban’s busy worrying about her appearance. Go be surprising to the votary.]
+
+So they still haven’t told Stuart I’m coming along.
+
+A few steps later, he was outside, peering through the dark of an early morning and breathing in cool, misty air. The forest surrounding the house and cottage was quiet. Alden couldn’t see the zansee stream from here, but there was light. A basket full of it sat on one side of the summonarium entrance, a blue-white glow seeping through the cracks. He bent over and removed the lid.
+
+Stuart had shown him this once. The siblinghold provided nighttime visitors who couldn’t cast spells with a couple of options. Inside the basket, thin ceramic rods stuck up from a nest of glowing rocks. He took one of the rods and held it until its end sent out a beam. Wondering if it was calling on the memory of light, like his new auriad spell, he cast the beam around in search of other people in the fog.
+
+He seemed to be alone.
+
+“Go be surprising to the votary” would be an easier assignment if he knew where Stuart was. The main house made the most sense, so he went toward it, his flashlight rod and his banana offering held in one hand. He was of the opinion that you couldn’t leave exotic fruit unattended in this place and expect to find all of it still there when you returned.
+
+The walk from the summonarium to the front of the main house seemed to be shorter every time he came here. As he approached, he dropped the light into the fruit basket, letting it go dark so that he wouldn’t be shining it through any sleeping peoples’ windows. The door opened just before he reached it. The mirrored surface slid away, revealing the warm glow of the interior and the intent expression on Stu-art’h’s face as he used a wand to direct a wagon full of stubby, rough-barked logs outside.
+
+The wagon did have wheels, but they weren’t in use. Instead, it glided ahead of Stuart, half a foot off the ground. Every log had a red string wrapped around its center, and Alden caught a sharp, sappy smell.
+
+He stepped to the side to allow the wagon to pass, expecting Stuart to notice him right away. He was, after all, a whole entire person with a suitcase and eight different varieties of banana.
+
+Any second. Should I say surprise? I hope he’s not irritated I’m here.
+
+“I have already said that we will care for three households. No. No. I’m sure I will be fully capable…I will tell them you offered.”
+
+Stuart walked right past, eyes never leaving his log wagon while he carried on a conversation with someone through his implants.
+
+Startled and amused, Alden watched him trot off toward the summonarium, trying to get whoever was on the phone to leave him alone while saying votary things like, “Hn’tyon Emban-art’h thanks you for your eagerness to assist and encourages you to direct that eagerness toward someone with greater need.”
+
+He’s not going to look back at all, is he?
+
+As Stuart headed farther from the house into the foggy dark, Alden followed him, waiting for him to realize he had a tail.
+
+Maybe after the call’s through.
+
+“Goodbye,” Stuart said firmly. Alden watched him straighten before pulling something from the largest of the pouches belted around his waist and increasing his speed.
+
+Alden sped up, too. Just as Stuart finally noticed that there was a second pair of footsteps behind him and began to turn, he said, “Surprise, hello, and don’t cast spells on me, please.”
+
+Stuart didn’t cast any spells. But he did let out a soft chirp of alarm as he turned, and he almost dropped the thing he’d taken from the pouch, which turned out to be one of the savory cookies he’d left Alden for first meal on a previous visit.
+
+The wagon landed on its wheels behind him, and he caught the cookie against the front of his shirt. “Alden! You’re real? How did you get here?”
+
+“I’m real!” Alden said quickly. Shit. “Emban invited me to come help you with the Here-to-There. If you want help. If you don’t, I’ll deliver these and tell you all to have a good time before I leave.”
+
+He held up the basket.
+
+Stuart seemed to be unaware he was smashing a cookie to his clothes.
+
+“Do you not like surprise visits? I really should have thought of that. After the first time. I’m sorry. But Emban seemed to be sure you—”
+
+“Emban invited you here? For me?” He was still wide-eyed.
+
+“I doubt she did it for herself or her squadmates,” Alden said. “Evul was the one who actually made the teleport happen, so both of them are involved.”
+
+Stuart gasped. “She likes you! She approves of us weaving a friendship!”
+
+Alden suddenly had an Artonan standing inches away, beaming at him then at the house then back at him again. “She did not tell my parents you were coming? No. She must not have. I do like surprises after I realize they are surprises. She did this for me on a day that is important to her! She is on our side.”
+
+His excitement was infectious.
+
+“We have a side? Alden asked. “How many people are with us now? Can we count Evul?”
+
+“But it’s evening!” Stuart said, ignoring the question in favor of a more pressing matter. “You’re supposed to sleep, Alden.”
+
+“I had a midday short sleep. I’ll be fine.”
+
+“A <<nap>> is not fine enough when you are following Yenu-pezth’s instructions for recovery. How long before you must be asleep?”
+
+“It’s really—”
+
+“I will take care of all things. Arranging sleep during the Here-to-There is possible. Emban and her friends are my knights today, and now you are here, too.” He took a bite of his cookie. “First…first…”
+
+“First, I help you carry supplies to the summonarium,” Alden suggested. “If you have more. Emban-art’h said I would have to help you with your work if I came, and I want to. As long as I’m not in your way.”
+
+“You are never in the way, my soon-friend.” Stuart made it sound like such a declaration. “But I do think Emban should have told me yesterday. Taking you with us…planning should have been done! Different planning than I have done. I… ”
+
+He studied Alden, the suitcase, the bananas, and probably a couple of things through his eye rings judging by the length of the pause before he said, “You’ll be hot where we’re going. How hot can you be without discomfort?”
+
+“We don’t need to worry that much about my comfort,” Alden said dismissively.
+
+Stuart squinted up at him. “Just tell me so that I can steer the day toward perfection, please. My efforts for Emban will all be wasted if your skin begins to shed.”
+
+“If my skin begins to wha—oh. Sunburn. That…the skin shedding doesn’t happen immediately. It takes a day or two, and it’s not that bad. Also, that’s only in lots of sun, not because of heat alone.”
+
+He didn’t want to be the reason the day couldn’t be steered toward perfection. “You know the temperature it was at LeafSong when I was there?” he asked. “That was uncomfortable but not dangerous. I was still fine moving around and working all day. I was very sweaty, but not sick from it or harmed by it.”
+
+Stuart frowned.
+
+“I’m not going to die at any temperature that’s comfortable to you,” Alden insisted. “As long as I have water and you don’t make me run around. Shade is nice. Remember, I regularly spend time in a very hot room where the steam potion is enough to keep me from having trouble. I can look up the exact temperature of that if you need me to so that you see—”
+
+“That’s a good idea. You need an <<inhaler>>.”
+
+“You don’t have to do that.”
+
+“I’m going to order you an inhaler. Or something better. You brought clothes?”
+
+Alden was currently in jeans because he hadn’t known what to wear for the occasion and because he hadn’t wanted to leave campus all dressed up for the Triplanets.
+
+“I’ve got the stuff you’ve seen me in before.”
+
+“Wear whatever will be most comfortable for hot weather. A Here-to-There is <<informally ceremonial>>.”
+
+“Informally ceremonial?”
+
+“Don’t wear the pezyvas with the commendation embroidery. Emban may want you to wear a symbol to her credit for the day. And don’t worry about helping me with this. It’s the last <<load>> that has to be taken. Unless I’ve forgotten something. I haven’t forgotten something. I’m sure I haven’t. Dress, then join me.”
+
+He started off.
+
+“Where?” Alden asked.
+
+“Where?” Stuart looked at him. “The Here-to-There starts in Olyuk’k. From here, that place is toward the head of the diving num and toward the setting sun.”
+
+The diving num was an animal the largest continent on Artona I was said to resemble, so he meant southwest of here.
+
+Nice to know, but Alden had been trying to ask something else. “Where should I get dressed?”
+
+“The cottage or my room if you desire privacy. No. Not my room. People may bother you on your way. The cottage for privacy.”
+
+“I’ll be right back.”
+
+“Yes. The bananas are for Emban? She is greedy for them. I will guard them for her.”
+
+“You can have one if you want.”
+
+“I will guard all but one for her, then.”
+
+******
+
+Alden was back at the summonarium as soon as possible, wearing the indigo sleeveless top that usually went with one of his pezyvas and carrying his messenger bag stuffed with supplies he’d bought from Needle & Wheedle that would help him deal with excessive heat. He had a ton of shower wipes, a bottle of water that could become ice if he and his auriad were really desperate, and a change of clothes, among other things.
+
+Stuart wasn’t there when he first arrived, but he scurried through the doorway a minute later, carrying a brown jug under each arm. “I almost forgot the liquid blessing,” he said in an appalled voice. “What if the houses didn’t get their liquid blessings? Can you imagine how that would look?”
+
+“I really can’t.” Alden took one of the jugs from him and set it beside the wagon full of logs. “I don’t quite understand what a Here-to-There is, to be honest, but it looks like you’ve got more work to do than I expected.”
+
+“It’s a migration of people from the lands sheltered by one wizard to lands sheltered by another. Historically, such moves were <<fraught>>. They could be the start of wars or the end result of disasters. Now, of course, there aren’t large regions on the Triplanets that require residents to have <<allegiances>> to specific wizards, and in most cases, someone who wants to lend their service and receive whatever shelter a new wizard offers only has to meet qualifications and wait to be accepted. They just swap loyalty marks instead of moving houses, unless a new house is one of the benefits of aligning themselves with that person.”
+
+Artonan politics—less confusing after months of watching television in the vault with Kibby, but still not Alden’s area of expertise.
+
+There was no voting for the eighty percent of the population that fell under the ordinary class umbrella. But they did have this concept of lending their service to wizards, either because they thought the wizard was doing good work or because they liked the perks that were being offered in exchange for their declarations of loyalty.
+
+Only literal service to the wizard wasn’t involved in this age for everyone. A wizard’s assistants were actually serving them and under their care, but other members of the ordinary class could do this light version of loyalty instead. It was like they were agreeing to tie their worth as a member of the species to the wizard’s to increase the wizard’s social power. And then the wizard’s votes weighed more.
+
+There were some rules to it, but basically Grand Senator was a title for wizards who had crossed a minimum threshold of voting power by collecting the loyalty of ordinary class members and other wizards who didn’t want to directly vote on every little matter themselves. There were also ways for wizards to bank and borrow voting power in the mix to complicate it more.
+
+“Sometimes people will celebrate new loyalties together and call the event a Here-to-There, but real moving days that follow all the traditions are less common.” Stuart was counting all the pouches in the pile on top of the wooden chest while he talked. “Emban chose this one because the move will be from an old-fashioned <<allegiant village>> in a rural area. It’s a surprisingly big move, but the wizards involved aren’t well-known so it hasn’t called attention from far away. Other than us. We hope.”
+
+He finished his count and turned to Alden.
+
+“Ryada-bess, who is a member of Emban’s squad, has always wanted to be a guardian for one of these. Those are the wizards who ensure safe travel for people on their road to a new home. And Emban wants to propose a <<deepening>> to Ryada, but she’s nervous about hearing a rejection. So she wants to use this day of <<joyful labor>> together to give herself courage.”
+
+Stuart looked around the empty summonarium once, then lowered his voice. “Ryada is very <<open—specifically in reference to the ability of a person to welcome another’s authority without distress>>. And people say that she’s impressively <<charming—specifically in reference to a person’s ability to interact with and influence another’s existence without causing discomfort>> for someone close to us in age. And naturally she hopes for a pairing with someone, too.”
+
+Stuart sighed while Alden tried to speed read the shockingly informative definitions he was getting.
+
+“Emban needs to make the request soon. Before someone else asks Ryada to commit to a period of deepening first. She should have done it already.” Stuart lowered his voice another notch. “She really is nervous about hearing a rejection.”
+
+“We’re talking about what Esh-erdi and Lind-otta have together?” Alden decided to whisper, too, since Stuart was doing it. “A rare pairing of the whole self that makes knights more successful somehow?”
+
+Also, it was one of the reasons why the art’h siblinghold preferred to raise huge groups of children together instead of spreading them out more. With that in mind, he added, “Can Emban not get along with any of your siblings or cousins in the right way? Is it just because they’re older than her?”
+
+Stuart blinked. “I forgot you don’t know much about this.”
+
+“I learn every time we talk.”
+
+“A knight’s hoped-for one usually has around the same authority strength. The other knights in our family are too strong to be ideal partners for Emban. Partially, that’s because they’re older. If she progresses rapidly in the coming years and one of them experiences a slowing, they may find that trying with each other makes more sense. But for now, she doesn’t have a natural enough connection with any of them to bridge the difficulties.”
+
+“So Ryada-bess is a better match,” Alden said.
+
+“She is. Emban’s squad was deliberately formed of certain members. They all had a Rapport rearing, and they were all similarly powerful, but none of them had anyone they were thinking of deepening a bond with. Working together has allowed them to grow closer and test their compatibility with one another over the course of the past seasons. Emban feels she’s  <<compatible>> with Ryada…but the connection is not as sure as I would like because Ryada is compatible with several others.”
+
+Alden was dying to get what kind of compatibility they were talking about here. Exactly what kind. Because if it was important enough that newling squads sometimes served a matchmaking function on the side of their chaos-fighting function, then he hadn’t been paying enough attention to this particular part of the knight life.
+
+“What happens when someone has a partner like that? Esh-erdi made it sound like he and Lind-otta did existential breaking together, but I don’t understand what he meant or why you’d want to.”
+
+Stuart’s eyes narrowed in thought. “That’s…not the best place to start the explanation. The important thing to know is that knights who achieve a pairing like theirs are never alone again, not even on the worst days of their lives. And they gain extraordinary nuances to their skills. Have you seen how Esh-erdi works with Lind-otta? The way he moves what she has slowed without challenging her power in any way?”
+
+I have seen that, Alden realized. He just hadn’t known it was something so noteworthy. When all of that water was nearly still, and it was taking me forever to complete a blink…Esh-erdi could swim in it.
+
+“That’s something only he can do?”
+
+“It is. They hold each other’s spot in reality now. We call the period after the pairing becomes unbreakable and the strengthening of it becomes effortless esvulgivnas and celebrate it across the Rapports. They will go together toward the wonders already discovered by other <<fully bonded>> knights and also discover new wonders of their own. They lend authority to each other’s magic, and they can use each other’s skills in some ways, and we know that such <<profoundest loves>> can allow one to hold the other away from death for a time until healing can be found.”
+
+Stuart took a breath. “And there is a significant positive effect related to affixation that would take me too long to explain to you this morning. And they can cause each other to experience <<the affirmation>> to a degree that makes the most potent <<casting high>> feel <<meager>> by comparison, and they have an ability to read each other’s minds that is limited in detail but potentially unlimited by distance.”
+
+Alden knew his eyes were round. He was sure his pulse had risen at “hold each other’s spot in reality,” which sounded like a really intimate and important thing to do for another person. And then Stuart had just kept going from there, rattling off a list of the most absurdly magical magic stuff Alden had ever heard of in his life.
+
+I’m not misunderstanding any of it, am I? Every single thing he said was Intensity 99.9…but awesome instead of deadly or painful?
+
+“Why doesn’t everyone have a partner like that?”
+
+A brow lifted over a rust-colored eye. “I just mentioned compatibility.”
+
+“But…can someone like Healer Yenu not help two knights to be more compatible?”
+
+Alden wouldn’t have leaped to that question so fast if they were talking about just any kind of relationship. But a partnership that could hold death at bay, transform what your skill was capable of, and cause major improvement in your affixation process wasn’t something to treat lightly.
+
+“That is a natural question considering your recent experiences with mind healing,” Stuart said. “But no. This is a pairing that takes people past the parts of the self that would normally resist the intrusion of others, even the best healers. It is painful, in a way.”
+
+So there is pain. Typical.
+
+“It’s also relatively new,” Stuart said.
+
+“What’s new?”
+
+“This way of <<entangling>> two lives together. We didn’t even know it could be done when the early generations of knights took their oaths. We still have much to reach for and contemplate.”
+
+New soul entangling advancement. For some reason, it sounded like it should be an ancient practice.
+
+“You said once that most of the successes have been with young people who were raised together?”
+
+“That’s right.”
+
+“Older knights have more difficulty?”
+
+“It’s natural that they would. Change is harder, their lives are busier, and their peers are fewer.”
+
+“We have to do everything we can to help Emban with Ryada-bess.”
+
+Stuart tilted his head. “You don’t know Ryada,” he pointed out as if Alden might not realize.
+
+“That’s fine. I know you. And you said she was open and charming and compatible with lots of people.”
+
+“It’s only a shallow compatibility for now. The purpose of the deepening Emban wants is to find out if there’s a chance of it being more.”
+
+“All right. Let’s make this the best Here-to-There ever.”
+
+“I’m trying,” said Stuart, gesturing at the pile of supplies.
+
+“I can carry so many heavy things.”
+
+“You’ll get to if you’re willing. Not this, though. It’s all being sent ahead. But we’ll be in charge of helping at least three households move, so there will be plenty—”
+
+A soft tone sounded to signal a new arrival at the summonarium, and the two of them turned to see a couple of knights appearing behind them. Young knights. One of them was a very short, round-faced girl with unusually wild purple hair who threw her arms out as soon as she saw them and cried, “Stu-art’h! Who is that with you? And where is Emban? She promised we would all match hair!”
+
+The other newcomer was a guy with lank brown bangs and bags under his eyes. He looked at Alden with an absence of curiosity while he recited a formal greeting to the household. Stuart returned it with equal formality but more life, introduced Alden, and sent the two on toward Emban’s room.
+
+After Ryada-bess had strolled away with the bananas over her head like a prize and the boy—Bithe, no surname—had slumped along after her, Stuart said, “Also, Bithe will be coming with us. He’s encouraged Emban in her intentions toward Ryada. He might not be feeling well today, but we will cheer him with a successful Here-to-There so that he is ready for a thunderous afterparty.”
+
+“There’s an afterparty?”
+
+“Of course there is. Do not ask me questions for a moment. I’m trying to find out if humans have bad reactions to anything in Olyuk’k.”
+
+******
+
+******

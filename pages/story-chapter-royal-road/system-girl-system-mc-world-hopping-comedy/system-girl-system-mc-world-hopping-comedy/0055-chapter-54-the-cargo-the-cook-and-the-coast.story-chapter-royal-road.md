@@ -1,0 +1,381 @@
+---
+id: d9c1be16-a844-5d6f-9e6a-d92d16473b5a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54: The Cargo, The Cook, and The Coast"
+slug: 0055-chapter-54-the-cargo-the-cook-and-the-coast
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 55
+ownLength: 2819
+unit: words
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2985377/chapter-54-the-cargo-the-cook-and-the-coast"
+royalRoadId: "2985377"
+---
+
+The thaw wasn't beautiful. It was gross.
+
+Winter had kept the town of Dolaria frozen in a pristine, white stasis, like a cake kept in the fridge. But now the fridge was broken, and the cake was melting into a brown, sludgy mess.
+
+Ren stepped out of the Tipsy Ursine and immediately sank up to his ankles in mud that was 40% dirt, 40% ice, and 20% horse manure.
+
+"Ugh," he groaned, lifting a boot with a wet, sucking sound.
+
+The air smelled like wet dog and thawing compost. Water dripped relentlessly from every eave, a constant, erratic tapping that drilled into his skull. Plip. Plip. Plop.
+
+"Charming," Ren muttered. He adjusted the baby carrier on his chest. It was cutting into his shoulders.
+
+Lily was awake and grumpy. She was chewing on the strap of the carrier, drooling a steady stream of saliva onto Ren’s expensive velvet tunic.
+
+[Ana: Your heart rate is elevated. Are you stressed about the mud or the fact that you’re homeless again?]
+
+"Both," Ren hissed under his breath. "And the smell. Why does spring smell like wet socks?"
+
+He trudged back inside. The room was empty. He had spent the last hour playing Tetris with his inventory, trying to figure out how to fit a crib, fifty pounds of spices, and his entire wardrobe into a magical pocket dimension.
+
+He looked at the empty room. It felt… small. Just a box with wood walls.
+
+"Did I leave the pacifier?" Ren asked aloud, patting his pockets.
+
+He got down on his hands and knees, peering under the bed. Dust bunnies. A single, dried peppercorn. No pacifier.
+
+"Great. She's going to scream for three hundred miles."
+
+He stood up, his knees cracking. He felt old. Level 4, and his back still hurts.
+
+He walked downstairs. The common room was loud. Even at mid-morning, people were drinking. It was too wet to work the fields, so the farmers were here, complaining about the damp.
+
+Helga was behind the bar, yelling at a dwarf who was trying to light a pipe.
+
+"Take it outside, Stone-Beard! You want to burn the place down, do it on your own property!"
+
+She turned, her face red and angry, and saw Ren. The anger vanished, replaced by a sudden, awkward stillness.
+
+"Oh," she said. "You're actually leaving."
+
+"Roads are… slushy," Ren said. "But open."
+
+Helga wiped her hands on her apron. It was stained with grease and ale. She looked at him, then at the baby, then at the heavy pack on his back.
+
+"You look like a turtle," she grunted. "Too much gear."
+
+"Essentials," Ren said.
+
+He walked to the bar. The wood was sticky. He reached into his tunic and pulled out the notebook. The leather was worn. He’d spent three nights writing in it by candlelight, trying to translate "sauté" into the common tongue.
+
+He slid it across the sticky bar.
+
+"The recipes," he said.
+
+Helga stared at the book. She didn't pick it up. A drunk patron next to her slammed his mug down. "More ale, woman!"
+
+"Shut your trap, Mikkel!" Helga roared without looking away from the book. "I'm having a moment!"
+
+She looked back at Ren. Her eyes were shiny.
+
+"I can't pay you for this," she said quietly. "Not what it's worth."
+
+"You paid me in not kicking me out," Ren said. "Fair trade."
+
+She picked up the book. Her thumb traced the spine. Then, she reached over the bar. It wasn't a graceful hug. She grabbed his shoulder, hard, digging her fingers into the muscle. She leaned in, smelling of yeast and sweat.
+
+"Don't let the city eat you," she whispered harshly. "They're sharks out there. You're... you're soft, Ren. You cook good food, but you're soft."
+
+"I have a pitchfork," Ren said, his voice muffled against her shoulder.
+
+She laughed, a bark of sound. She shoved him away. "Get out. Before I start crying and ruin my reputation."
+
+She turned back to the dwarf. "And put that pipe out, or I'll feed it to you!"
+
+Ren walked out. The mud sucked at his boots again.
+
+. . .
+
+The Merchant's Guild was worse than the mud.
+
+It was a wall of noise. The main hall was packed. Traders, caravan guards, and desperate farmers were trying to sell winter stock before it rotted. The air was thick with the smell of unwashed bodies and wet wool.
+
+Ren had to physically shove his way to the transport desk. A large man in a fur coat stepped on his foot. Ren winced. Lily let out a sharp wail.
+
+"Shh," Ren hissed, rocking her. "Don't cry. We're undercover."
+
+He reached the desk. The clerk was a gnome with ink stains up to his elbows. He was screaming at a merchant.
+
+"No! We don't insure against dragon fire! Read the contract! Clause 4, sub-section B: 'Acts of God or Giant Lizards'!"
+
+The merchant stormed off. The gnome looked at Ren. "What?"
+
+"I need a ride," Ren said. "To the capital."
+
+"Join the line," the gnome snapped, gesturing to a queue that went out the door. "We're booked until summer. Everyone wants to go to the capital."
+
+"I have cargo," Ren said. "And gold."
+
+"Everyone has gold," the gnome said, dipping his quill. "Unless you're moving royal bullion or..." He paused. He squinted at Ren. "Wait. You're the Spice Guy. The Mayo Man."
+
+Ren sighed. "Yes."
+
+"Master Dorn said to expect you," the gnome grumbled. "Said you're a VIP. Very Important Peddler." He snorted at his own joke. "Said you need secure transport."
+
+"High security," Ren confirmed.
+
+"Well, you're in luck. Or you're screwed. Depends on your perspective." The gnome pointed a stained finger toward a side door. "Iron Tusks. S-Rank party. They're moving a classified shipment. Dorn bribed them to let you ride shotgun. But be warned: they eat people like you for breakfast."
+
+"Great," Ren muttered.
+
+He went through the side door. It led to a loading dock.
+
+It was quieter here. Three heavy, reinforced wagons sat in the mud. They were covered in thick, waxed canvas. The horses were huge—Clydesdales on steroids, their breath steaming in the cold air.
+
+Four people stood by the lead wagon. They looked like they had walked out of a high-budget fantasy movie, but grimier.
+
+There was an orc. Not a cartoon orc, but a seven-foot wall of green muscle and scars, sharpening an axe with a whetstone. Scritch. Scritch. Scritch.
+
+There was a rogue sitting on the roof, wrapped in so many cloaks he looked like a pile of laundry.
+
+There was a mage, looking bored, leaning against a wheel and juggling balls of blue fire.
+
+And there was the leader. A woman in plate armor that was dented and scratched. She wasn't wearing a helmet. Her hair was cut short, steel-grey. She was reading a manifest.
+
+Ren walked up. His boots squelched.
+
+The orc stopped sharpening. The mage caught the fire. The rogue shifted.
+
+They all looked at him. They looked at the baby.
+
+The woman didn't look up. "We're not a nursery."
+
+"I have a letter," Ren said, holding out the parchment from Dorn.
+
+She snatched it. She read it. She looked at Ren. Her eyes were cold, assessing. She looked at his hands (soft). She looked at his weapon (a pitchfork strapped to his pack). She looked at Lily (drooling).
+
+"Dorn says you're essential," she said, her voice flat. "I say you're a liability. Babies cry. Crying attracts Wyverns."
+
+"She's quiet," Ren lied.
+
+"She better be," the woman said. "I'm Val. That's Grunt," she pointed to the orc. "Kael on the roof. Elara is the mage. You sit in the third wagon. You don't talk to us. You don't ask what's in the crates. If we get attacked, you hide. If you get in the way, I leave you."
+
+"Understood," Ren said.
+
+"Get in."
+
+Ren climbed into the back of the third wagon. It was cramped. Crates were stacked to the ceiling. It smelled of sawdust and vinegar.
+
+He sat on a crate. The wood was hard.
+
+"System," he whispered. "Do I have a cushion in inventory?"
+
+[Ana: No. You sold the pillows to the innkeeper, remember? Profit over comfort.]
+
+"I hate past-me," Ren groaned.
+
+The wagon lurched. The wheels groaned. They were moving.
+
+. . .
+
+The first three days were pure misery.
+
+The wagon didn't have suspension. Every rut, every rock, every hole in the road sent a shockwave up Ren’s spine. Bam. Bam. Bam. His teeth rattled.
+
+It was cold. The canvas tarp kept the rain out, but it trapped the damp. Ren sat huddled in his cloak, shivering. Lily was wrapped in three blankets, warm enough, but she was bored.
+
+"Wah," she complained.
+
+"Shh," Ren whispered, rocking her. "Don't attract the Wyverns."
+
+"WAAAH," she countered.
+
+"Please," Ren begged.
+
+Outside, the mercenaries ignored him. When they stopped for breaks, they didn't speak to him. They stood in a circle, eating hardtack and dried meat, talking in low voices about "perimeter checks" and "aggro ranges."
+
+Ren tried to approach them on the second night.
+
+"Hi," he said, stepping near the fire. "I'm Ren."
+
+Val looked at him over a piece of jerky she was tearing apart with her teeth. "Did I say you could leave the wagon?"
+
+"I… need to stretch," Ren said. "And maybe warm up the baby's milk?"
+
+"Do it fast," Grunt rumbled. "Fire is dying."
+
+They didn't offer him a seat. They didn't offer him food. Ren warmed the milk bottle near the coals, feeling the heat of the fire on his face and the chill of their hostility on his back. He fed Lily, burped her, and retreated to his wooden box.
+
+[Ana: They really don't like you. It's almost impressive.]
+
+"I'm a civilian," Ren thought back. "I'm dead weight. I get it."
+
+On the fourth day, it rained.
+
+Not a drizzle. A deluge. The sky opened up and tried to drown the world. The road turned into a river of brown sludge. The wagons slowed to a crawl. The horses slipped and struggled.
+
+They made camp early, forced to stop by the weather. They pulled the wagons into a tight circle under a grove of massive oaks. The rain hammered against the canvas like gravel.
+
+Ren sat in the dark wagon, listening to the water. He was cold. His butt was numb. He was hungry. He had been eating cold rations—dry biscuits and apples—because he didn't want to annoy the guards.
+
+But tonight, the smell drifting in from outside broke him.
+
+It was the smell of wet dog and misery. He heard Grunt swearing as he tried to light a fire in the rain. He heard Val coughing.
+
+"They're eating raw jerky again," Ren muttered. "In this weather. It's inhumane."
+
+[Ana: It's efficient. They're soldiers.]
+
+"They're people," Ren snapped. "And people need hot food when it rains. It's a rule."
+
+He stood up. He grabbed his cast-iron skillet. He grabbed his bag of holding (Inventory).
+
+He kicked open the tailgate and jumped down into the mud. Splat.
+
+The mercenaries were huddled under a tarp they’d strung up between two trees. The fire was a pitiful, smoking pile of wet wood. They looked miserable. Wet, shivering, and chewing on leather.
+
+They looked up as Ren approached. Val’s hand went to her sword.
+
+"What do you want, kid?" she snarled.
+
+"Move," Ren said.
+
+Val blinked. "Excuse me?"
+
+"Move over," Ren said, his voice hard. "You're starving. You're cold. And you're incompetent at campfires."
+
+He shoved past Grunt—a suicidally brave move—and knelt by the fire.
+
+"System," he thought. "[Fire Starter Kit]. Buy it."
+
+[TRANSACTION COMPLETE.]
+
+Ren pulled out a block of alchemical fire-starter. It was a resinous brick that burned even underwater. He shoved it into the wet wood. He struck a spark.
+
+WHOOSH.
+
+A bright, hot flame roared to life, hissing as it evaporated the rain. The warmth hit the mercenaries instantly.
+
+Ren didn't stop. He slammed the heavy iron skillet onto the grate. He threw in a chunk of lard.
+
+Sizzle.
+
+The sound cut through the rain.
+
+Ren pulled a slab of beef from his inventory. He didn't cut it gently. He chopped it into rough cubes, his knife flashing in the firelight. He threw the meat into the hot fat.
+
+The smell. Oh god, the smell.
+
+Browning meat. The Maillard reaction. The scent of animal protein caramelizing, turning from raw potential into savory reality. It wafted out, mixing with the woodsmoke, overpowering the smell of wet mud.
+
+Ren tossed in onions. Garlic. He didn't measure. He threw them in by the handful.
+
+"What are you doing?" Elara the mage asked, her voice trembling slightly.
+
+"Cooking," Ren growled.
+
+He let the meat sear hard, developing a crust. Then he deglazed the pan with a splash of dark ale he’d bought from Helga. The steam rose, smelling of yeast and roasted grain.
+
+He added potatoes. Carrots. And then, he reached into his bag.
+
+He pulled out a block of the Curry Roux.
+
+He crumbled it into the pan.
+
+The sauce thickened instantly. It turned dark, glossy, and rich. The smell changed. It wasn't just meat anymore. It was spice. Cumin. Coriander. Turmeric. Fenugreek. A warm, complex, aggressive aroma that clawed its way into their noses and triggered salivary glands they didn't know they had.
+
+It bubbled. Thick, volcanic bubbles of brown gold.
+
+Ren took four wooden bowls. He scooped the curry into them.
+
+He stood up and shoved a bowl into Val’s chest.
+
+"Eat," he commanded.
+
+Val looked at the bowl. She looked at Ren. She looked at her jerky.
+
+She took a spoon. She took a bite.
+
+She didn't smile. She didn't cheer. She froze. Her eyes went wide, staring at nothing. Her brain was trying to process the sensory overload. The heat. The salt. The spice. The texture of the meat that wasn't leather.
+
+She swallowed. She let out a breath that shuddered.
+
+"It's..." she whispered. "Warm."
+
+Grunt didn't wait. He shoveled the food into his mouth. He groaned, a low, animal sound of pleasure.
+
+"Good," Grunt said. "Good."
+
+Elara took a bite and started crying. Silent tears mixed with the rain on her face. "I can feel my toes again."
+
+Kael, the rogue, just ate, his eyes closed, savoring every molecule.
+
+Ren sat down on a log, holding his own bowl. He took a bite.
+
+"Needs more salt," he critiqued.
+
+Val looked at him. Really looked at him for the first time. The disdain was gone. In its place was a confused, terrified respect.
+
+"Who are you?" she asked.
+
+"I'm the cook," Ren said.
+
+. . .
+
+The dynamic shifted. They didn't become best friends overnight, but the hostility vanished. Ren was now a protected asset. When it rained, Grunt held a tarp over Ren while he cooked. When the wagon hit a bump, Kael shouted a warning.
+
+Two weeks later, the ambush happened.
+
+They were in a narrow pass near the coast. The road was shadowed by high cliffs.
+
+"Ambush!" Kael screamed from the roof.
+
+Arrows hissed from the rocks. One thudded into the side of Ren’s wagon, inches from his head.
+
+Ren yelped. He dropped to the floor of the wagon, covering Lily with his body. This wasn't a video game. This was loud, chaotic, and terrifying.
+
+"Defensive positions!" Val roared.
+
+Ren heard the clash of steel. The roar of Grunt. The explosion of a fireball.
+
+He lay there, heart hammering against his ribs, clutching the baby. Lily was crying, a thin, high wail.
+
+"It's okay," Ren whispered, his voice shaking. "It's okay."
+
+He peeked through a crack in the wood. He saw a bandit—a dirty man with a rusty sword—climb over the tailgate.
+
+The bandit saw them. He grinned, showing rotted teeth. He raised the sword.
+
+Ren didn't think. He grabbed the first thing his hand touched.
+
+The jar of Smoked Paprika.
+
+He threw it.
+
+The glass jar hit the bandit square in the forehead. It shattered. A cloud of red, spicy dust exploded into the man's eyes and nose.
+
+"ARGH!" the bandit screamed, clawing at his face. "MY EYES! IT BURNS LIKE FIRE!"
+
+He stumbled back, fell off the wagon, and was immediately decapitated by Grunt.
+
+Grunt looked into the wagon. He saw the red dust. He sniffed.
+
+"Paprika?" Grunt asked.
+
+"Spicy," Ren squeaked.
+
+Grunt grinned. "Good weapon."
+
+The battle ended. The bandits fled.
+
+Three days later, they smelled salt.
+
+They crested a ridge, and the world opened up.
+
+The ocean. Vast, grey, and churning, stretching out to the horizon. And on the coast, nestled in a massive bay, was the city.
+
+Duckland.
+
+It was colossal. White stone walls rose hundreds of feet into the air. Towers pierced the clouds. Ships the size of castles sat in the harbor. It was loud, smelly, and magnificent.
+
+"We made it," Ren whispered.
+
+He looked at the city. He smelled the fish on the wind.
+
+[Ana: I detect oysters. Level 5 oysters.]
+
+Ren smiled. "Let's go shopping."

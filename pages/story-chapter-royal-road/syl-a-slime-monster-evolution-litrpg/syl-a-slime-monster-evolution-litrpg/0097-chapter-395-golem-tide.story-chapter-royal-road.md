@@ -1,0 +1,183 @@
+---
+id: c69c149d-7e46-577b-9aca-0b9976fd707c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 395 : Golem Tide"
+slug: 0097-chapter-395-golem-tide
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 97
+ownLength: 2702
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3582885/chapter-395-golem-tide"
+royalRoadId: "3582885"
+---
+
+The situation left me feeling extremely nervous, even though I still had many more hidden cards at my disposal. This was supposed to be the cream of the crop of adventurers, someone the entire guild looked up to. I felt like I could use additional help, but I dared not put Vee's life at risk.
+
+If anything happens, I should be saved by [Core Collective] transferring me to one of my [Sub-Cores] on the island. Obviously, it's still unconfirmed; otherwise, I would just detonate my core and revive there with no trace of having used [Dimension Magic] to travel.
+
+I still had access to [Core Storage], so I left notes on metal tablets of slime, requesting that all but one [Sub-Core] return to the storage. If the golemancer was inevitably going to have an army of golems, then I was going to have my own army of slime personas.
+
+Now I just need to stay alive until they all deposit themselves into Pi.
+
+Returning to my standoff with Keldenar, I needed to catch him off guard. I was tempted to manifest spells outside of my aura, but threw that idea away as there was a good chance he had [Counter Magic], being such an extraordinary adventurer.
+
+Thankfully, unlike normal spellcasters, I had the power of rifts, meaning I wasn't limited to such conventional methods. I tore open three apertures in a broken perimeter around him, then opened another inside myself and allowed it to flood with slime and two [Sub-Cores] while also sending a few "workers" back into [Core Storage].
+
+The idea was to combine two of my strongest advantages: slime crafting inside my storage and attacking through my rifts. While the worker cores were beginning to manufacture various explosives, I started the attack using some of my leftover supplies. I had plenty of explosive needles crafted and even some remaining light bombs. There were also other random things I had thrown together, mixing various slime traits together, but had yet to be tested in combat.
+
+Projectiles were immediately fired out of the rifts, and Keldenar finally reacted. I noted he hadn't even flinched when I secretly opened the rifts, meaning his [Danger Sense] only worked when literally attacked, not from intent alone. I had expected him to swap places again, but instead, almost a dozen golems surrounded him like bodyguards and blocked the attacks.
+
+The golems weren't like the human-like ones, but that didn't mean they were low quality. Judging by their appearance alone, they looked strong and sturdy, able to tank quite a few blows from regular monsters. But I was anything but a regular monster.
+
+Keldenar's eyes went wide with shock a split second before explosions erupted on every golem. I had expected him to swap places, but amid the explosions, I saw he was still there, and a new golem had appeared next to him. This one did have a humanoid appearance, looking almost like a female knight, her arm holding a huge shield while her other arm and cloak covered him like a royal protector.
+
+That golem created a barrier?
+
+I caught traces of enchantment; the shield, cape, and golem all seemed to resonate, providing a powerful protective effect. Keldenar was unharmed, but the ring of golems was destroyed entirely. He waved his arm and the knight golem vanished.
+
+"Well, now, I didn't expect that. To think you're an evolved orange slime, did I accidentally piss off some [Dungeon Master]?" Keldenar asked.
+
+"Nope. I'm my own slime. Why don't you let me leave and forget you ever met me?"
+
+Normally, I wouldn't respond; I'd press the attack, but I wanted to see if he would let me go. Also, even if he didn't, this gave me time for my island [Sub-Cores] to deposit themselves or my crafters to make more explosives.
+
+"I mean, normally I'd love to, but I've got sooooo many questions that I don't think I could ever forget you."
+
+I frowned.
+
+"You've evolved four times? That's crazy… How are you not mad? No, wait, better question, how are you not an idiot? Dungeon slimes are the closest thing to intelligence I've ever seen, but they are just mindless [Dungeon Master] puppets. Are you sure you aren't someone I've pissed off?"
+
+"You're pissing me off right now," I snapped back.
+
+"Sorry?" he said with a shrug before suddenly becoming very animated. "Wait, what the heck is [Primordial Slime]? I've never heard of this before…"
+
+Fear gripped my core, and suddenly I realized that his investigation into me hadn't stopped. While I was buying time, he must have been too, as whatever ability he had was reading me like a book. Again, I felt violated; I had never had anyone so blatantly snoop through my profile before.
+
+I launched more attacks. Different golems appeared around him, but again, they were swiftly destroyed. This time, Keldenar did swap places, but it was all within my rift, and I continued the attack. His new location exploded, but he swapped again, and his new location was attacked as well. This time, he didn't swap, or perhaps couldn't, and he was forced to summon that knight again.
+
+"Damn, do I have tracking magic on me?" I heard Keldenar ask himself while under the protective bubble of his knight.
+
+Got you right where I want you.
+
+He was locked down by the attacks from the outside, which left me the perfect opportunity. Several bombs were teleported into the bubble with him and instantly triggered, not wanting to give him a chance to react.
+
+What the heck was that?
+
+Keldenar didn't swap places, but in the briefest of moments, he had summoned some kind of strange golem that enveloped him like a suit of armor. When the explosions went off, his body was sent hurdling through the air, and the armor that covered him was reduced to almost scrap. He was actually wounded until he pulled out and chugged a potion.
+
+"Did you seriously create self-destructing magical items!?" Keldenar shouted at me.
+
+He noticed my spell orbs? I guess he is a master enchanter…
+
+I reopened my three attack rifts at different locations and attacked again. Keldenar clicked his tongue in annoyance and, with a wave of his arm, summoned a legion of golems armed with shields and spears. They moved in lockstep and created a defensive perimeter around him.
+
+"So you're several slimes together if I'm understanding this [Primordial Slime] correctly… Prismatic Slime… How many abilities have you absorbed?"
+
+I'm not answering that!
+
+Even though I didn't answer, Keldenar seemed to be puzzling it together. "Orange and green at a bare minimum… I'm guessing silver from these weapons?"
+
+The protective legion around him was rather annoying. As soon as a row was destroyed, the ones behind them would step forward, and Keldenar would instantly replace the back row. It really looked like he had an endless army of minions.
+
+Well, I can just drop some bombs at your feet again.
+
+I tried to teleport another set of bombs, only to find the spell had fizzled. That was when I noticed a strange, small, blackish-colored construct on his shoulder.
+
+Dungeon brick? He actually built a golem out of a dungeon? No wonder he thought I was an angry [Dungeon Master]...
+
+Keldenar smirked. "What's wrong, no more bombs?"
+
+Well, he's locked down. I can make my escape.
+
+I started casting [Blink], which elicited a reaction from him. He wasn't able to stop me from casting the spell, and I vanished from my spot. I had a chain of jumps set up, but as soon as I arrived at my first spot, a pair of slim blackish golems jumped me. The rest of my [Blink] chain all fizzled, and I realized these golems could lock down the space around them.
+
+Annoying…
+
+Tendrils burst out of my body to destroy them, when more golems arrived to protect the previous two. I'd grab one, melt it, and it would quickly be replaced by two more. I pulled out more slime, enlarging into a more monstrous appearance and trying to overwhelm them with various appendages from the creatures I'd eaten.
+
+Yet the golems kept coming. I couldn't understand it; he was blowing a fortune in resources, but for what? He was basically just letting me kill them at this point. I lost count of how many golems I had destroyed at this point when I finally noticed something was wrong.
+
+I had grabbed several golems in slimy tendrils, empowered by maximum [Acid Slime], and yet I couldn't eat through them. At first, I thought they were a new model of golems, but I saw they were the same bog-standard ones I'd been fighting all this time.
+
+I swapped to [Blaze Slime] in an instant, and the golems I had captured all began to burn to cinders. This seemed very odd; they were destroyed easily, but somehow they could resist my [Acid Slime].
+
+"Shit, you're a red slime too?"
+
+I wanted to snarl. I felt like I was being toyed with, as even though I had kept attacking him throughout this, he was still observing me without a care in the world. That was when I noticed that the legion of golems around him was no longer being replaced; no, the ones at the front were now effortlessly tanking the explosions.
+
+What's going on…?
+
+I ceased the attacks, and that smirk appeared on his face again. I so badly wanted to wipe it off his face.
+
+"Took you long enough to notice. Unfortunately, I think I'm the worst kind of opponent for you to face," he said.
+
+I shot another bomb at the group of golems, and they didn't even move to block it as it exploded in their ranks. A massive conflagration erupted, and every golem caught in the blast was reduced to char.
+
+"Looks like fire still works," I taunted back.
+
+"For now," Keldenar responded ominously.
+
+At the time, I had underestimated his warning, but as the fighting continued, I noticed that the golems were no longer being burnt. I tried switching back to [Acid Slime], but that still didn't work. I was baffled and tried [Cryo Slime].
+
+Normally, using it against non-living creatures would be rather ineffective, but after being uncapped during the merger into [Primordial Slime], it had surpassed conventional means. It started at the point of contact, where the chill permeated throughout the golems before rapidly coating them in layers of frost. But it didn't stop there, and the golems' entire internal structure became frozen to the core. Then, with a bit of blunt force, I shattered it into glittering shards.
+
+"White slime, too? What the hell, do you literally have all of them?"
+
+I wish I had all of them, but… If this continues, won't they soon become immune to this, too?
+
+Judging by the excited expression on Keldenar's face, it felt like that was exactly the case. This was someone I didn't want to fight, and so I tore open an aperture and retreated through it, appearing out from another one.
+
+That finally got a look of panic from the smug bastard, and I almost felt compelled to gloat. I managed to restrain myself and tore open another further away and jumped through again.
+
+"Hey, stop! Don't run away!"
+
+I ignored him and continued, one aperture at a time, heading toward the border. Once I escaped the region, I could properly escape. Of course, Keldenar was chasing after me, in one of the most ridiculous ways possible. He had summoned a giant golem and was standing on its shoulders, and it was sprinting after me.
+
+This is too crazy… I thought all my evolutions had gotten ridiculous, but he can do all this with just a golemancer class?
+
+That was when I saw what awaited me at the border, and I halted my retreat.
+
+"That's just not fair…"
+
+There was literally a sea of golems forming a wall at the border. It looked unreal and beyond excessive. He could conquer a nation with this army, and yet it was all here just to stop me from leaving. I noticed scattered throughout the army were several of those blackish golems, and I realized that must be how he had locked down the region.
+
+How many dungeons did he destroy to make enough to surround his territory?
+
+"Oh, thank the gods, you finally stopped running," Keldenar said as he arrived. "I seriously don't know how you're teleporting. Is that some kind of cheat ability?"
+
+"Cheat!?" I snapped and gestured at the tidal wave of golems. "You're the bloody cheat!"
+
+Keldenar let out an awkward laugh and scratched his cheek sheepishly. "I suppose that's true…"
+
+I was feeling around with my [Personal Rift], and noticed that the barrier he had created was now behaving just like a dungeon's walls, if not better. It seemed the blackish dungeon golems had some kind of enchantment added to them to boost the effects, as their restraint was superior to literal walls.
+
+Some kind of joint formation? Whatever it is, it's costing maybe ten times the distance of my [Personal Rift] to penetrate. If only I had left a [Rift Beacon] outside here, but I didn't want to be walking around with only half my rift.
+
+If retreat was looking slim, I had to go back to my original plan—decapitation. Keldenar was looking very smug at the moment, as his golems had become immune to three of my slimes, and he was preventing me from teleporting bombs at his feet thanks to the golem on his shoulder.
+
+But… I still have rifts and more slime types you haven't experienced.
+
+I tore open a small rift at his position and detonated slime from inside the rift, intending to send it blasting out through the tiny crack in space. This was one of the most insidious attacks I had available, combining [Poison Slime] and [Vaporize Slime] together to blanket Keldenar in a toxic mist. I even included [Acid Slime], as while his golems were seemingly immune to it, I had a hunch that he wasn't.
+
+I suspected his [Danger Sense] must have triggered too late, unable to sense the explosion inside the rift, as he was directly caught in the hazardous cloud. Instantly, he began coughing madly, and a hint of concern flashed across his face.
+
+"Poison? Crap… I should have known you were hiding a purple slime," Keldenar cursed.
+
+He swapped positions with one of his golems, exiting the cloud, but in my books, he had already been infected. I had laced several poisons together to hamper him and included Bloodrot solely for its anti-healing properties.
+
+Several human-looking golems suddenly appeared at his side and swiftly began aiding him. One was feeding him potions, it pulled out from a storage pouch, two were stabbing him with needles and draining something from him, while the others appeared to be on guard duty as they watched me with fury in their gaze.
+
+"I almost have legendary poison resistance. How the heck did you infect me?" Keldenar asked through bloodied coughs. "Correction, I do have it now… To think you'd be what finally got me the last level I needed… I was drinking poisons for weeks…"
+
+"I told you to let me go," I tried again. "I got deadlier poisons than that if you refuse."
+
+Keldenar didn't react to my threat, but his golems did. As if they had wills of their own, four of them charged at me, brandishing enchanted weapons of the highest caliber. He tried to say something but was interrupted by another coughing fit.
+
+Shit… Maybe if I break a few of these ones, he will finally give up?
+
+That was when I noticed that my reinforcements had finally arrived. I instantly pulled them out of storage, and everyone except Pi, my final safety net, was here.
+
+Unending slime mass was pouring out, my form swelling to even more monstrous proportions before rapidly spreading out across the terrain. I was creating a massive slime domain as I spread across and even into the ground. Four distinct figures began to rise from the slimy turf: Sylvester, Sylthaeryn, Sylvain, and Sylbera.
+
+"You might have an army, but so do I…"

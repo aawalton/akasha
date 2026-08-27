@@ -1,0 +1,185 @@
+---
+id: e79235cf-4864-55e7-ab88-73e372c1d0fd
+page-type-slug: story-chapter-royal-road
+title: "Liam’s Attributes, talents and skills 1"
+slug: 0022-liam-s-attributes-talents-and-skills-1
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 22
+ownLength: 556
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3513437/liams-attributes-talents-and-skills-1"
+royalRoadId: "3513437"
+---
+
+This chapter sums up Liam’s current status, quirks and talents. If you prefer, it can be skipped in its entirety, without losing any part of the story.
+
+Current overview:
+
+Liam Berg
+
+Level: 9. Progress to next level 82%
+
+Class: Fighter
+
+Path: Path of Fortitude
+
+Quirks: Enforced Antiviolence, Tier 5. Passive Power, Tier 4.
+
+Status: Concussion (minor), Damaged Muscles (medium)
+
+Traits: Starved Growth (Temporary)
+
+Health: 234/560
+
+Stamina: 512/560
+
+Mana: 70/70
+
+Health regeneration: 5.6 health/hour
+
+Mana regeneration: 42 mana/hour
+
+Stamina regeneration: 67.2 stamina/hour
+
+Attributes:
+
+Strength: 13
+
+Agility: 15 (-8) = 7
+
+Dexterity: 8
+
+Fortitude: 23 (56)
+
+Perception: 11 (-3) =8
+
+Mental Power: 7
+
+Mental Control: 9 (-3) = 6
+
+Talents:
+
+Tier 2:
+
+Improved Defense 3/5
+
+Tier 3:
+
+Life Steal 2/5
+
+Tier 4:
+
+Deflect 2/5
+
+Wheel of Magic 1/5
+
+Tier 5:
+
+Personal Universe 1/1
+
+Wave of Reflection 5/5
+
+Skills:
+
+General:
+
+Concentration. Level 1
+
+Endurance. Level 2
+
+Identify. Level 3
+
+Stamina Regeneration. Level 2
+
+Defensive:
+
+Arcane Resistance. Level 1
+
+Armor. Level 2
+
+Blunt Damage Resistance. Level 1
+
+Parry. Level 1
+
+Shield. Level 2
+
+Detailed quirk and talent description:
+
+Tier 5 negative quirk:
+
+Enforced Anti-violence
+
+Some people are against violence. You take it one step further. You cannot attack, learn offensive skills or use weapons, may only select defensive and passive talents, and cannot share a group with somebody who attacks enemies. Access to your offensive talent tree is lost and future talent tree expansion is adjusted.
+
+Tier 4 positive quirk:
+
+Passive Power
+
+Any passive or defensive damage inflicted by the Fighter is doubled. Any gains from passive talents, where possible, are improved by 50%. Your fortitude is effectively doubled.
+
+Talents:
+
+Tier 2:
+
+Improved Defense
+
+Passive talent. Adds to the effectiveness of your fortitude, armor and shield. +5% per talent point.
+
+(Current total, improved by Passive Power quirk: 22.5%)
+
+3/5 points
+
+Tier 3:
+
+Life Steal
+
+Passive Talent. This talent converts any damage you inflict on enemies into lifeforce, which you can make your own.
+
+3% Life steal per point
+
+(Current total, improved by Passive Power quirk: 9% lifesteal)
+
+2/5 points
+
+Tier 4:
+
+Deflect
+
+Passive talent. When parrying or blocking an attack, deflect or parry with an added 50 % force per point.
+
+Cost: 5 stamina per activation.
+
+(Current total, improved by Passive Power quirk: 150% added force)
+
+2/5 points
+
+Wheel of Magic
+
+Passive Talent. The wheel can be activated whenever you are subjected to a minimum of magical damage (even if blocked, absorbed or shielded). The wheel will surround you, throwing magical damage back at enemies. Damage caused scales with damage suffered and the magic type is randomized. One spoke activated per point.
+
+Range: 30 meters
+
+Cost: 20 stamina per minute
+
+1/5 points
+
+Tier 5:
+
+Personal Universe
+
+Passive Talent. You unlock a personal space, in which you are able to safely store items by mental access alone. Only the storing and removal of items has any cost associated with it. The size of the Personal Universe will increase with every level after Level 25.
+
+(Current total, improved by Passive Power quirk: 1,5 cubic meters)
+
+1/1 points
+
+Wave of Reflection:
+
+Passive talent. Any damage inflicted on you may be redirected as a wave of physical damage in any direction you choose. Also applies if the damage is blocked, absorbed or shielded. 15% of damage reflected per point.
+
+Cost: 15 stamina/second
+
+(Current total, improved by Passive Power quirk: 112,5% damage reflected)
+
+5/5 points

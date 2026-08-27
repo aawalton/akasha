@@ -1,0 +1,185 @@
+---
+id: e7287bcf-8054-5079-9262-616153815c16
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92 – When Mercy is a Mistake"
+slug: 0092-chapter-92-when-mercy-is-a-mistake
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 92
+ownLength: 1979
+unit: words
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3114608/chapter-92-when-mercy-is-a-mistake"
+royalRoadId: "3114608"
+---
+
+This was the last thing they currently needed. One of the Night King's mages. This one doesn't look like one of the grunts Liora had fought earlier. He was brimming with confidence, half of his face covered in black tattoos, his hair shaved, and his eyes an unnatural turquoise hue.
+
+"To think that some vermin would have made their way to our island and try to ruin our plans. You've got some nerve," he said, looking at Morgana.
+
+"Who are you calling vermin, you bald fuck! I'm the Pillar of Azure Helm, and I have come to put a stop to all this nonsense," Morgana said, and without hesitation shot at the mages.
+
+He waved his hand in a lazy motion, and her bullets just disappeared. Just puff and gone. Liora couldn't believe her eyes.
+
+What the hell? That looks like cheating.
+
+It's dark magic. Very powerful, very dangerous. It can negate most elemental magic and inflict horrible physical wounds.
+
+Morgana spat. "Dark mage. I thought Renir eradicated your sorry sort."
+
+The mage's confident grin disappeared, and he narrowed his eyes. "Pillar of Lost Magic. I have to say that the man was incredibly powerful. I have to respect him for that. It's because of him that I lost my arm."
+
+The man moved his cloak aside, and instead of a regular arm, he revealed a dark, ghastly form of an arm as if shadows had coalesced to form it.
+
+You know this guy?!
+
+I… I don't remember him. I've fought and defeated many dark mages in my time, so don't expect me to remember every single one of them.
+
+His looks are quite memorable.
+
+He might not have had the evil arm and tattoos on his face at that time!
+
+"Shame that you didn't lose your head," Morgana said.
+
+The man grinned again, almost in a manic way. "But your Pillar of Lost Magic isn't going to save your ass anymore. We've dealt with him. You have no chance against us."
+
+The mage raised his hand, readying for an attack.
+
+Winds of Purification! NOW!
+
+Without question, Liora flapped her good wing, allowing her skill to erupt and fill the cave. Although she couldn't fly, she could still use Winds of Purification.
+
+Black flames exploded from the mage and headed straight for Morgana and her crew, ready to burn them to cinders. But the moment the flames came in contact with Liora's wind, they all petered out and disappeared.
+
+"The bird can use Holy Magic?!" The mage exclaimed. "Get that thing!"
+
+The shapeshifter, which was catching its breath on the cave floor, green ichor still flowing from its wound, glared at Liora. It had identified her as the target and was ready to fly straight at her in its wyvern form.
+
+"Catch!" Morgana yelled and flung a potion bottle across the cave.
+
+I can't catch that!
+
+"I got it!" Cee said and jumped.
+
+Liora had already forgotten what a great jumper the spider was. She leapt from her wall like a bullet, catching the potion bottle in her mandibles mid jump, and jumped back just as swiftly.
+
+The wyvern screeched and spread its wings, ready to attack. But Liora had already uncorked the potion and drank its contents. Her wings and chest healed in an instant, and she let out a loud chak-chak-chak.
+
+She Faded, disappearing, and used a Poison Shot on the shapeshifter's open wound. It howled, letting out its illusory flames all around itself, in an attempt to scare Liora. But she wasn't scared. She avoided the flames by using Aerial Agility and flew close.
+
+"Enjoy this," she whispered and let out the unsettling cackle of the gnoll.
+
+[You've successfully mimicked the skill <Maddening Cackle>.]
+
+The effect was instantaneous. The wyvern's form seized, and it changed into the rhino, plummeting to the ground with a loud crash. It then proceeded to ram the closest rock, only to change into the falcon and crash into it.
+
+It was super effective!
+
+Unfortunately, even with the shapeshifter out of the fight for a moment, the mage was still a problem. He couldn't fling his nasty black flames everywhere, thanks to Liora's Winds of Purification, but he could still use other magic.
+
+His weapon of choice was electricity. He threw electric orbs that detonated upon contact, creating large static fields. Any elemental bullets Morgana shot were destroyed, and the mage was teleporting all over the place, so the lancer and swordsman couldn't get close to him.
+
+Don't get close to that guy! Leave it to Morgana.
+
+But…
+
+She can handle him. Trust me. Focus on the shapeshifter. Have Cee lay more traps.
+
+"Cee!" Liora called.
+
+"I'm on it!" Cee waved her leg and disappeared into the shadows.
+
+Meanwhile, Liora prepared for another Skypierce to finish off the nasty shapeshifter. Unfortunately, the thing decided that thrashing about wasn't the smartest way to deal with confusion. So it turned into a giant worm and buried itself underground.
+
+Clever, little bastard. That's the one place I can't follow.
+
+Liora watched the ground carefully while simultaneously keeping an eye on the other fight.
+
+The archer managed to push the crazy mage on the defensive. Apparently, he couldn't just evaporate the arrows, being forced to erect magic barriers for protection. While using these, he wasn't able to teleport, which meant that others could press their attack.
+
+The lancer was first to get to him, striking the magical shield with his long weapon. A crack appeared in the barrier, and for a moment, Liora thought he might actually be able to push through. But the mage dispelled the barrier and instead hit the ground with his foot, sending a wall of electric energy all around him.
+
+The lancer was forced to retreat to avoid getting hit. But the archer used the opportunity to shoot her arrows. Morgana, who had been finicking with her pistols, also shot. This time it wasn't a magical bullet but rather a plain old steel bullet.
+
+The mage erected another barrier, but it didn't fully stop the bullet, merely redirecting its trajectory and making it crash into a nearby wall.
+
+"So much for your magic tricks. You can't even block my bullets!" Morgana announced with a wide grin on her face and began shooting one bullet after the next.
+
+But before any of them could reach the mage, the ground in front of him exploded, and the worm emerged from it, taking all the hits. The bullets bounced off its hide, unable to pierce through.
+
+The worm let out an unearthly screech and rushed forward, ready to swallow anyone in its path.
+
+"Back! Get back!" Morgana ordered, while still trying to shoot the worm in various places, searching for its weak spot.
+
+But it didn't have any, and her bullets were meaningless. Her crew rushed back while Liora Faded and rushed forward. She had discovered this thing's weakness. When she got close, she tried using the Maddening Cackle again.
+
+[You've successfully mimicked the skill <Maddening Cackle>.]
+
+But nothing happened. The worm rushed forward, not giving any reaction to Liora's attack.
+
+Worms are deaf. It can't hear you.
+
+What the hell am I supposed to do here? Its hide is too tough for any of my attacks.
+
+However, Liora pondered in the air, and the crew had strategically retreated. She noticed that Cee was jumping from one place to another, guiding them along the right path.
+
+"Wait, you ingrate! It's a trap," the mage called and cast one of his exploding orbs.
+
+But it was too late. The worm got caught in one of Cee's frozen webs. As it squirmed its large body, it got caught in another and another.
+
+Now, go for the mage!
+
+Liora shot off like one of Morgana's bullets. Her Fade was gone, but the mage was too focused on what was going on with the worm. That and the combination of Liora's Shadow Glide allowed her to get close and Lunge at him.
+
+"What the hell?!" The man screamed as the strength of Liora's impact crashed him to the floor.
+
+He raised his arm to use some kind of spell against her, but Liora Rended his arm clean off. Without all the magic protecting him, this human stood no chance against.
+
+Liora was preparing to Rend his other arm when he suddenly disappeared, using Teleport to get himself to safety.
+
+"Don't let him get away!" Morgana commanded as she and her crew were slowly chipping away at the trapped shapeshifter's health.
+
+Liora nodded and flew after the mage. He kept teleporting farther and farther ahead. It was obvious this particular spell had a short range—he couldn't teleport too far, although he was able to keep just barely ahead of Liora's flight.
+
+Air Slash!
+
+I'm out of mana! I need some time for the necklace to recover it.
+
+She kept flying after him as the man fled into the other tunnel. Dammit! She had to catch up to him before he got to his comrades.
+
+Liora, you have to kill him!
+
+What? I… I don't want to kill people.
+
+I know. But if this guy reaches his mates, you won't be able to overpower them. The corruption dungeon mustn't be made a reality. It must NOT.
+
+Liora knew he was right. She had been holding back against the mage. It would have been easy to Rend his heart out of his chest. Humans were weak and flimsy, and no obstacles for her powerful talons and beak. But she hadn't wanted to take that step. She hadn't wanted to become a murderer.
+
+But if the choice was between that or letting these bastards create a dungeon filled with corruption… the choice was obvious.
+
+Liora Faded. The mage kept teleporting forward. However, he wasn't able to see when Liora activated her Air Slash as soon as her mana had recovered enough. The attack whizzed through the air and cut through his neck like butter. The body collapsed on the floor while the lifeless head rolled away.
+
+[You've defeated <Xernon—Shadow Mage Level 35>. Experience gained.]
+
+[You've reached Level 21.]
+
+It felt wrong to be rewarded for this. To grow stronger from murder. She supposed she had been doing that this whole time, but this was the first time Liora had killed a person. She felt sick to her stomach and landed on the ground.
+
+I… I didn't want to kill people. It felt as if I didn't do that, I'd be able to hold onto my humanity a bit longer.
+
+I know, little thief… But if he were allowed to live, then the consequences would be too horrifying to even think about. Now, get up. This isn't over yet. I doubt this guy was alone. Fly ahead.
+
+What about the shapeshifter?
+
+I think Cee and Morgana have it covered. Fly carefully and try to stay hidden.
+
+Liora nodded and took flight. She could mourn this loss another time. Currently, she has to put an end to this situation.
+
+She followed the tunnel inward, letting Shadow Glide keep her flight silent. At the end of the tunnel, there was a bright light, so Liora Faded as soon as she got close. Inside the cave was transformed into a restroom with multiple couches, bookshelves, tables, and a weird corner that looked like the alchemy lab of a mad medieval scientist.
+
+Liora hurriedly flew underneath the couch, transforming into her magpie form to stay hidden. Thanks to Morgana's potion, Liora's health was high enough to do the transformation.
+
+"What's taking Xernon so long?" A feminine voice asked nonchalantly.
+
+"Ah, you know him. He loves toying with adventurers. I bet he's coming up with new brutal ways to torture them with the shapeshifter," a gruff manly voice replied.
+
+"Yes, but we're under a tight schedule here. Just a bit more and we'll have all the monsters we need to create a dungeon. Failure is not an option!"

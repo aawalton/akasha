@@ -1,0 +1,199 @@
+---
+id: c1708408-c54a-522a-9052-be7848a9fb57
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43: The Dungeon Giveth and The Dungeon Taketh Away"
+slug: 0043-chapter-43-the-dungeon-giveth-and-the-dungeon-taketh-away
+partOf: the-gift-of-loot
+position: 43
+ownLength: 3127
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3553195/chapter-43-the-dungeon-giveth-and-the-dungeon"
+royalRoadId: "3553195"
+---
+
+"I don't know what I did to the fish, exactly," Jo admitted. Though she still held the sword, her cool demeanor cracked enough for her to look disturbed. "When I stabbed, it felt like a part of me that wasn't my sword was stabbing it too. Is that my mana?"
+
+"Could be. Or an effect of the sword," Zach said. "We don't know what it does yet."
+
+Thomas picked up the Water mana crystal reward. It felt heavy and lush in his hand. Then he took a moment to glance over the fish. It was an ugly beastie, but... "I'm not a doctor," he said, and pointed. "But that looks like poison damage to me."
+
+The other two gathered around and both saw it. The point where Jo had stabbed the sword was blackened and rotten-looking, with green tracings extending out to some of the surrounding scales.
+
+"Cool," Zach said. "I know me and Thomas make it look easy, but it's pretty rare to be able to use a new mana type that you just got without an active skill. Maybe you should absorb more poison mana. You're hella compatible."
+
+"Actually..." Jo looked at the Water crystal Thomas held. "Mind if I grab that one? I've been using a lot of my Water mana to run my Still Waters skill."
+
+Part of Thomas ached at actually giving up this prime A-grade mana, and he forcefully had to remind himself that it wasn't actually his crystal, he had no personal use for Water mana, and she had been the one who killed the fish.
+
+He hoped no one saw his hesitation as he handed it over, but then he had to face another gut-wrenching decision. He hated being fair and logical, damn it! "You may as well keep the Blood Thirst sword too," he added with a sigh. "I still have my bear claw glove. Man," he added, "I miss my Ace Hardware maul."
+
+Zach laughed. "You can do better than that, dude. After we sell all this stuff we've gathered here, I'm pretty sure you can buy a real fancy maul."
+
+"You think?"
+
+"Uh, yeah," he said straight-faced. "Upgrade to Lowe's."
+
+Jo absorbed the Water crystal, and her arms up to her elbows turned a cool blue before fading back to normal flesh. That had been level 3 mana, so Thomas kept an eye on her in case she got mana overload too, but she didn't seem to have the same problem as Zach. Then again, he was his mana, had overloaded on fire, then had added a higher-level crystal on top.
+
+Still, why borrow trouble?
+
+"Add an Earth crystal," he advised her. "May as well go level 3, to balance out the Water. Then, yeah, another Poison if you feel like you can handle it." He glanced at Zach. "You good on mana?"
+
+"Yeah, though for not much longer." But then Zach's shoulders slumped. "I don't know how much help I'm going to be in this next part of the dungeon, bros. Those fish have a natural barrier against fire. I can distract them, but the quarterstaff might be my weapon going forward, and I don't think they care that much about being bonked."
+
+"Me too—Oh, damn it, my mace!" Thomas couldn't believe he'd forgotten. Stepping to the giant fish corpse, he tried to figure out where its stomach was, then used a bear claw to cut a slice.
+
+Liquid gushed out, and he hurriedly stepped away. It smelled very...fishy.
+
+His guess was right, and the mace wasn't hard to find, but the fish's stomach acid must have been something else. He didn't see any sign that the internal organs had reacted to the poison on the spikes at all. In fact, the mace looked extremely shiny, as if the finish had been stripped off, the spikes included.
+
+Thomas returned to the others in a bad mood. "I think the poison got worn off."
+
+"Are you sure?" Jo asked.
+
+"I'm not going to poke myself and find out," Thomas said, "but...yeah, I'm pretty sure. Do you think you could renew the poison on the spikes?" He held out the mace.
+
+She looked regretful. "I would, but I barely know what I'm doing. I could poison you."
+
+Thomas pulled the mace back. He could heal himself from injuries, but he had no idea about poison and wasn't about to become his own guinea pig in the middle of the dungeon to find out.
+
+"Tough luck," Zach said. "That thing was useful."
+
+"More than useful," Thomas grumbled. "I was using it as a ranged weapon. Yeah, I know you're not supposed to, but the poison made it work. Now I have to get up close to fight anything, and I don't think this is going to cut it." He extended the claws, which, while admittedly awesome looking, were pretty small compared to the whale-sized carp.
+
+No one said anything for a moment. They just kind of all looked at each other with the same pensive expressions on their faces. Thomas could sense the mood, and he decided to just come out and say it.
+
+"I think we should have a vote on whether we want to move forward or go back to the entrance."
+
+"Go back?" Jo asked, incredulous.
+
+"Maybe," Thomas said. "Fact is, Jo, you have a pretty cool trick with your poison, but if we keep going forward through the flats, you're going to be the main fighter." He held up a hand as Jo started to protest. "We can hit more dungeon monsters on the way back. I'm sure there are some mosquitoes we missed that must be buzzing around, and some tadpoles. Look at all this stuff we got. These are level 3 crystals and you got an upgrade to your mana. Even if we had stopped just at the mosquitoes, we'd be coming out winners."
+
+"Yeah, no," Jo said. "This might be the only chance I get at this dungeon. I can't leave my daughter with my mother every night. This has been the best diving I've seen since the Grizzly Bear dungeon I did with you, and I want to learn how to use this poison thing. Let's keep going."
+
+Zach let out a breath and nodded at Thomas. "Thanks for that, bro, sincerely. I've got to get out of the toxic mindset that you either complete the dungeon or you're a failure. If we went back now, we would have some good drops. But Jo's right too. This is a choice opportunity and it's a direct counter to my fire. I want to see if I can push myself, especially against that boss."
+
+"If these fish are hard-countering you," Thomas said, "then a snapping turtle boss definitely will."
+
+"It may not be poison-proof, though," Jo said. "This dungeon's given us what we need."
+
+Thomas thought for a moment, but really he wasn't that opposed to continuing, and he especially didn’t want to leave loot behind. He just really, really wanted to be alive to enjoy the loot. "Okay," he said. "If you two are good to go, then I am too."
+
+Jo smiled at him. "If it gets too hard, sure, I'm willing to go back, but I really want to see what I can do with this mana." She glanced at Zach. "The fish still have eyes, you know. Maybe aim for those. It's not like they can blink. And if that doesn't work, can you smoke them out through the gills?"
+
+He looked a little surprised, then nodded. "That'll be fun to try."
+
+And I'll just break out my pom-poms and shirt skirt to cheer you two on, Thomas thought, but he didn't say anything. This was a good opportunity for his teammates to sharpen their skills. It wasn't their fault he hadn't found his own combat thing yet.
+
+****
+
+As they traveled across the mud flats, more carp launched out of the water to charge at them. Fortunately the first one they encountered also happened to be the biggest so that made it a little easier to fight.
+
+Zach worked on his precision targeting using his fire whip. Jo focused on consciously injecting poison mana with her sword. Zach dropped the hint that poison mana was sort of both the essence and idea of poison, which might have been why the fish had been affected by her poison mana and not by Thomas's specifically poisoned mace.
+
+For the most part, Thomas hung back and looked pretty. Jo and Zach worked as a good team, and neither was even hurt, which made his participation moot.
+
+Unfortunately, their sheer competence meant he hadn’t struck down any of the monsters within the next five encounters, which meant the loot drops were down to baseline normal.
+
+Even in this dungeon, baseline normal could suck.
+
+"No crystals?" Jo asked, walking around the body of the recently slain fish again as if she couldn't believe it. "They were dropping like crazy earlier, and now we've only gotten two Earths out of the last five fish. What the heck!"
+
+"And that Water mana," Thomas reminded her. "That was A-Grade."
+
+"Yeah, but I was hoping for more Poison, or maybe a weapon for you, since I've taken yours again," she said.
+
+Thomas would have been bitter about that, but she was using both swords extremely effectively. Even though these were level 3 monsters, they didn't have much of a chance.
+
+Zach patted her on the shoulder. "The dungeon giveth and the dungeon taketh away."
+
+Thomas felt a little bad, but not quite bad enough to reveal his most important secret. He looked around for a distraction and found one.
+
+"Hey, you guys see that?" He pointed. The mud flats ended off to more swamp in the distance. Out further, barely visible in the hazy air, was a dark mound. "I think that's the boss platform."
+
+"Sweet," Zach said. "I vote we take another lap around the mud flats, grab some more fishies, and then go get the boss."
+
+"Sure hope these fish start dropping something good," Jo grumbled. "I'm almost ready to go back to the mosquitoes again. This is almost as bad as when I was solo diving."
+
+As they walked to the next part of the flats, Zach dropped back to murmur to Thomas. "Dude, try to get a hit on that boss if you can. Maybe you'll shake something loose from the loot table."
+
+"Yep," Thomas agreed.
+
+****
+
+The Gods of Loot looked upon them with slightly more favor over the next few fish kills. While none of the crystals were the higher-end Poison or Mud (or Adaptation, though Thomas was slowly losing hope for that in this dungeon), each fish did drop either a C or D grade Earth or Water crystal.
+
+Still, Jo had a slightly puzzled expression on her face as they headed for the final boss. It was clear things were not adding up in her mind.
+
+Thomas would have to make a decision about whether to tell her about his Gift soon. She wasn't dumb, and they couldn't get through another dungeon together without her noticing. For now, though, Thomas put that in the back of his mind. They had a boss to kill.
+
+And what a boss it was. That mound he thought was rising out of the water? Nope! That was a snapping turtle waiting for them. The flat lily pad it sat on was even larger.
+
+There was a little stepping-stone trail of lily pads leading up to the big one, and in the waters all around swam carp in lazy circles. The carp didn't leap out of the water to try to get them, but they stared up at the three of them with hungry fish eyes. Thomas had no doubt they'd be going in for a bite if anybody fell off the lily pad in the boss fight.
+
+"I wonder if we can just stick our swords into the lily pad and saw the boss free like a Looney Tunes cartoon," Thomas said.
+
+Jo scoffed a laugh. "What, like Bugs Bunny cutting Florida out from the rest of the United States?"
+
+"Yeah, exactly. It's a good plan."
+
+"Except it'd take the exit door along with it," Zach said, pointing.
+
+Unfortunately, the boss was squatting right in front of the exit door. Because of the way the lily pad curved, they couldn't simply rush past it.
+
+"How about this," Zach continued. "I'll go in first and blind its eyes. Then you two rush in behind, and we all take our hits on it. One of us has got to kill the thing."
+
+That was a simple yet effective plan that gave Thomas an opportunity to possibly make the kill. "Sure," he said. "Watch out for its claws, though. The guide says they're sharp."
+
+"I'm going to use my Gift to sneak in close," Jo said, "so if you don't see me, don't worry."
+
+"Invisible poison assassin," Zach nodded. "I like it. All right, on three: OneTwoThree," he said quickly, and with a grin, headed straight for the snapping turtle, which had been watching all of them balefully.
+
+As Zach approached, the snapping turtle opened its mouth and let out a giant warning hiss. Some weird red thing on its tongue, Thomas noted, looked exactly like a wriggling worm.
+
+Actually, the whole turtle itself was pretty ugly. Though it was large as a house, the shell was flat and the head had a wedge-shaped, mean look about it. Thomas wasn't sure if it was one of those turtles that could retract all the way into its shell—or was that tortoises? Well, whatever. This one wasn't interested in hiding. In fact, as Zach strode up confidently to it while juggling a red-orange ball of fire between his hands, the turtle extended its neck in a quick bite.
+
+And by quick, it moved so fast that it was a literal blur. Zach had been watching for it and kept a half step out of its range as if he had known exactly where the limit was.
+
+Then his fireball became a fire rope that he snapped out. The turtle jerked just in time, and the fire whip smacked it right between the nostrils instead of its eye.
+
+The turtle made a rattling sound that Thomas suspected was its version of a roar, and its claws dug into the lily pad enough to push it forward a few feet as it tried to snap at Zach again. Zach rolled out of the way and effortlessly came back up to his feet, snapping out the fire again. This time it struck true in the right eye. The turtle reared back with another roaring hiss.
+
+This was Thomas's moment. He stepped forward, hoping to get into its blind spot and maybe do some slashing of his own. He couldn't see Jo and half forgot she was there at all, which he thought meant she was using her Gift. Surely she was somewhere close by.
+
+Then the turtle swept out with a clawed forepaw. This was as quick as a blur too, but the surprise came as the forepaw extended out past where it could reach with its snout. Zach started to step back, but not enough. It caught him and sent him tumbling.
+
+"Oh shit! Jo, cover me!" Thomas yelled, and rushed towards Zach, but he may as well not have bothered. She was just there, as if she'd always been standing in the right place ready to step in the whole time. She used the reach of Thomas's katana to jab at the snapping turtle's snout to keep it occupied. Hopefully, she could find a way to poison the boss while she was at it.
+
+Zach had been thrown a good fifteen feet to the edge of the lily pad and seemed to be trying to get up, but he was in bad shape. There was blood everywhere; on his chest, on his face. And for a horrified second, Thomas thought the turtle had taken an eye for an eye.
+
+But no, that was just blood. One claw had scraped his forehead diagonally, hitting the top of his nose and just missing his eye on its way to his upper cheek. His chest was worse. The Kevlar vest was shredded, showing white ceramic plates underneath and blood under that. If he hadn't been wearing the vest, his rib cage would have been ripped wide open.
+
+The only positive thing was that he wasn't screaming. He just seemed shocked, like the pain hadn't quite hit yet. Small mercies.
+
+"Hold still," Thomas snapped, pushing him back down on his butt. The vest was mangled, but that made it easier to get off him. Thomas caught a flash of rib or cartilage or something and immediately wished that he hadn't. This was bad. This was so bad.
+
+"Shut up," he told the gibbering part of himself sternly.
+
+"Huh?" Zach asked, vaguely.
+
+Thomas put his hand over Zach's chest and reached for his Living Architecture skill.
+
+Rebuild this, he told Zach's body, picturing whole ribs, whole muscle, and whole skin. Rebuild it just the way it was.
+
+Zach coughed and shifted uncomfortably as his skin started to shift and muscle knit. Behind him, the turtle gave another rattling hiss, and Thomas squeezed down on his own core, demanding more Healing, more Wellspring to augment that healing, more anything because this had to go faster. Jo only had her swords, and that boss was as big as a house. He needed Zach whole, and they both needed Zach's firepower.
+
+And that was when Jo screamed.
+
+Thomas snapped his head around to see her body flying in the opposite direction from a strike from the turtle... Only she didn't stop at the edge of the lily pad. She tumbled over and into the water with all the hungry carp.
+
+"Jo!" Thomas yelled.
+
+"No!" Zach yelped, and both men jerked to their feet. The gouges in Zach's chest were only barely healed at best, and the wound to his face still looked grisly, but those carp had been waiting down under the water for just this chance, and Jo had to be fighting for her life. Worse, the boss was heaving itself to the water's edge like it fully intended to plunge its head in and finish the job.
+
+Thomas made a snap decision. "Get her," he ordered, pushing Zach toward the water. "I'll hold off the turtle."
+
+Zach stared at him for a second, wide-eyed. Then he pointed at Thomas. "I'll be right back. Don't die." Turning, he sprinted to the edge of the lily pad where Jo had gone over and dove off.
+
+"Yeah, I'll just do that," Thomas muttered, and faced the boss.

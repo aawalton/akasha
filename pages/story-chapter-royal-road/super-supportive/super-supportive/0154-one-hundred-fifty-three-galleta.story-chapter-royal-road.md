@@ -1,0 +1,317 @@
+---
+id: fec420da-162a-521e-9bba-163f214c0b9a
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED FIFTY-THREE: Galleta"
+slug: 0154-one-hundred-fifty-three-galleta
+partOf: super-supportive
+position: 154
+ownLength: 3820
+unit: words
+publishedAt: 2024-07-04
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1704051/one-hundred-fifty-three-galleta"
+royalRoadId: "1704051"
+---
+
+153
+
+******
+
+“It will fade now,” Esh-erdi said simply, withdrawing his authority.
+
+The matter had been dealt with in seconds. Esh-erdi had confirmed that Alden wanted the whole tattoo gone except for the concentric triangles that represented the still-active pact for secrecy. Then, the knight’s power had touched him.
+
+I wasn’t wrong about how strong he is, Alden thought.
+
+Profoundly strong.
+
+It wasn’t a large, comprehensible strength, like Lute’s, but a power so much more than Alden himself that it didn’t even invite comparison. He felt like an ant that had just been patted on the head by a mountain.
+
+Every time he’d been in the presence of a mighty presence the experience had been different.
+
+Gorgon had given him that stare that had kicked off the brain-unspooling, epiphanic ecstasy. The Primary had asked Alden those questions and peered into his being, thanks to Stuart feeling the need to compliment him on some quality of his authority. And on Thegund, Alis-art’h had held him together like a pair of hands wrapped around a broken statuette, keeping all the pieces in place.
+
+In this case, despite his sudden awareness of the immensity of Esh-erdi’s authority, the actual touch had been brief and light as a whisper.
+
+Alden had a fleeting fear of discovery; but he held still, and it was over as soon as it had begun. At almost the same moment Esh-erdi’s authority backed off, the tattoo on his chest tingled. It was the first time he’d felt a physical sensation from it since Joe had asked to modify the terms right before their final lesson.
+
+Guess that was our final, final lesson.
+
+It was fine. There was no reason for him to feel like garbage.
+
+“That was so fast,” he said.
+
+Esh-erdi had traded out his three-braid hairstyle for a single, over-the-shoulder ponytail. It was wrapped with metallic bands that reflected the red light in the hallway. “I was pleased to do it. If you think of any other troubles or wants…?”
+
+He sounded hopeful.
+
+Alden stood there, staring down at the ring Esh-erdi had given him. It was narrow and made of the same translucent green material as the nonagon. Four tiny logograms were etched onto it, evenly spaced around the outside. When Alden slid it over the index finger of his right hand, it expanded to fit.
+
+“You must think it was stupid of me,” he said. “To have formed a private contract with that person.”
+
+“I can’t judge your choice when I don’t know what the terms of the agreement were, what you thought to be true at the time, and what <<pressures>> he may have applied.” He paused, then added, “I do have more than enough knowledge of Ro-den’s errors to judge him, and I judge him to be selfish, <<reckless>>, and arrogant. Unforgivably so for a wizard of his age and <<alleged>> intelligence.”
+
+That bad, huh?
+
+“Thank you for removing the mark.”
+
+“The ink will <<degrade>> quickly. I’m so good at breaking things.” He brightened. “Let’s go to your school! I’ve checked, and none of it is destroyed.”
+
+“That’s a relief.”
+
+“Would you like to take the sssnake with you? It may want fresh air. We could go get it.”
+
+Alden smiled. “No. That’s okay. People don’t usually take snakes to school.”
+
+Esh-erdi led the way to the elevator. ““I’ll be busy for most of the day, but if our schedules align, perhaps you could give me a tour of your campus.”
+
+“Sure. Yes…that sounds…”
+
+Alarming. What was Alden going to do with a tourist knight? Where would he even take one? What would people think?
+
+“I hope our flight there will take your mind off whatever worries you,” Esh-erdi said. “It’s such a relaxing way to travel.”
+
+******
+
+Alden thought there was a chance that the flying platform he was on was really called The Nine-edged Son Whose Own Mother Forsakes Him. Esh-erdi, who’d taken the ring back temporarily, was demonstrating how to drive it.
+
+The sky was partly cloudy, but the sun was peeking through now. There was very little air traffic between the island and the cube, and Alden doubted there was any sea traffic that wasn’t involved in cleaning up the spill. So they had the route all to themselves. He sat in the center, right beside Esh-erdi, and wondered about the name as they zipped toward Anesidora fast enough that the wind was making his face numb.
+
+On one hand, “mother-forsaken” was shorter in Artonan. It could be conveyed with a single logogram. On the other, Alden thought it might be a curse word, and Esh-erdi was working it into the conversation much more often than seemed necessary.
+
+“And that’s how you command The Nine-edged Son Whose Own Mother Forsakes Him!” he announced, extending his arm to increase the speed yet again. “It’s all sensible. Just remember that to rise, you point the ring down, and to fall, you hold your thumb against the ‘soothe’ symbol. Like this!”
+
+Alden had learned within the first few seconds of their journey what to expect from the knight’s driving. They’d gone up to the roof of Matadero, where Alden, anticipating a gentle experience like he’d gotten when he and Zeridee were rescued, had tried standing on the platform. Only to find himself a centimeter from falling over the edge as they rocketed forward.
+
+The person wearing the driver’s ring could glue themselves in place by making sure the ring was correctly rotated on their finger. Passengers were on their own.
+
+Now, he was better prepared, but he still yelped when the magical craft dropped toward the surface of the ocean.He felt like he was leaving his stomach behind him.
+
+“Are you ready to try?” Esh-erdi asked as soon as they leveled out over the water again.
+
+Is he kidding?
+
+It was a zoomy magic toy. Of course Alden wanted to try it.
+
+“Make sure you speak its name,” Esh-erdi said before he passed the ring over. “To show it respect.”
+
+Alden felt his lips working. He tried to keep his grin respectful just in case this wasn’t a joke. “Is that its real name?”
+
+“Why would I give it a false one?” the knight asked.
+
+I just can’t tell, Alden thought, trying to interpret the Artonan’s facial expression.
+
+“All right,” he said, slipping the ring onto his own finger. “Let’s go, Nine-edged Son Whose Own Mother Forsakes Him.”
+
+The platform dipped and rose, glided and stopped, and he started to get the hang of it.
+
+When it came to taking your mind off the morning’s disappointments, learning to fly was hard to beat. Even two days ago, while Alden had been half-dead and exhausted in the wake of his rescue, he’d thought, This is a cool flying nonagon. I wish I had a flying nonagon.
+
+And he was sure anyone who wasn’t acrophobic or anti-magic would have thought exactly the same thing.
+
+It was big enough to carry a few people. You could see through it. You drove it by pointing your finger. It flew.
+
+Does it do loop-the-loops? he wondered as he extended his arm to increase the speed. I want it to do loop-the-loops.
+
+Dropping Esh-erdi into the ocean wouldn’t be a great way to repay him for the new experience, though.
+
+I mean, he’s strong. He could just hold onto the edge. Or to me.
+
+He had a sudden mental image of himself saying, “Hold onto me, Hn’tyon Esh-erdi. We really have to do a flip now. Because.”
+
+Letting go of that idea took him longer than it should have.
+
+The wind whipped around him, and the air smelled clean. The nonagon responded to every twitch of his finger.
+
+Flying the platform was just challenging enough to seem like a game, and for a few minutes, Alden lost himself in the process of changing speed, adjusting course, and directing them higher or lower according to his own whim. Other than pointing out that they had turned too far to the south once, Esh-erdi seemed content to be quiet and enjoy the ride.
+
+Alden completely forgot to wonder whether or not the waves below him were still carrying Sinker Sender particles, and he almost forgot to feel shitty because of the meeting with Joe. When he spotted Anesidora on the horizon, though, he suddenly remembered something else.
+
+“The contract tattoo!” he exclaimed.
+
+“Do you have another you want gone?”
+
+“No.” Alden pulled his hand back toward his torso to slow them down. They were only about six meters above the waves at the moment. “I mean the Matadero contract tattoo. The one I’m supposed to get so that I can’t talk about what I’ve seen at the cube. We forgot it.”
+
+Esh-erdi looked up from polishing one of his other numerous rings. “I didn’t forget.”
+
+“I definitely did.” What a strange coincidence to be getting another one less than an hour after asking someone to remove part of his first. “If we’re going to do it now—”
+
+Esh-erdi made a flapping gesture with one hand. The meaning of it wasn’t very clear. “We’ll do it later. When your thoughts are clearer and you aren’t on your way to school. We don’t have a reason to rush.”
+
+Alden slowed them down even more, until they were almost hovering rather than flying. “We don’t? I’m leaving Matadero, though. I’m about to be surrounded by people.”
+
+“Please don’t give those people any details about the cube,” said Esh-erdi.
+
+“I won’t,” said Alden. “Of course. On my phone calls, I was careful not to even say that I was staying there.”
+
+“You may tell people that much.”
+
+“But…”
+
+Esh-erdi didn’t do him the favor of filling the silence.
+
+“Shouldn’t you be more worried about me making a mistake?” Alden asked.
+
+“Are you going to make a mistake?” Esh-erdi’s tone was calm.
+
+No, thought Alden. But what if I were an irresponsible person who—?
+
+As if to prove how unconcerned he was, Esh-erdi lay back on the platform and rested his hands on his stomach.
+
+“You’re mature enough to practice <<proper discretion>>. And I don’t doubt your honesty. We’ll contract you to secrecy eventually because you aren’t <<invulnerable>> to the <<wickedness>> of others.” Esh-erdi smiled up at a cloud. “But I prefer that we take our time for that and discuss the matter together carefully. And I don’t want you to miss your school meeting! So, for now, I trust your word.”
+
+Alden stared down at the knight. Just like that then?
+
+“And I’ve ordered the Contract to teleport you to me immediately if someone attempts to violate your thoughts,” Esh-erdi announced.
+
+“Uh…okay. That’s an option?”
+
+“I had to insist a little,” Esh-erdi said. “If it happens, I’ll be <<contrite>> about the expense. It doesn’t seem likely though, does it?”
+
+It didn’t.
+
+Alden looked toward the hazy blur that was the island.
+
+“If anyone asks, I’ll tell them I’m already sworn to secrecy,” he decided, pressing his hand forward so that they picked up speed again. “I don’t think they’ll even ask. If I tell people I was getting healed on Matadero, they’ll just assume there’s nothing else I can say.”
+
+“Blaming healers excuses all sorts of behavior,” said Esh-erdi in the tone of a person who spoke from experience. “And Porti-loth is <<eccentric>>. Anybody who has met him will believe anything you do might be a result of his instructions.”
+
+True.
+
+“What about all the other stuff I know?”
+
+“Keep flying,” Esh-erdi instructed. “We’ll talk about it.”
+
+******
+
+For the next several minutes, Alden’s head was full of nonagon piloting and the surprisingly difficult job of convincing Esh-erdi that he should be given conversational ground rules beyond, “Use your good judgment and your knowledge of society’s <<foibles>>!” when it came to things like whether or not he should mention being a witness to multiple Avowed deaths.
+
+They’d finally covered the Bash-nor/Zeridee/dead people situation to Alden’s satisfaction, and they were about a mile and a half out from Apex when he suddenly got a call from SkySea Traffic Control labeled [UNLAWFUL NOT TO RESPOND].
+
+“Hello?” he said after answering it.
+
+He heard a slurping noise and what he thought were aggressive keyboard clicks, then a woman’s voice started talking in Spanish so quickly that Alden had trouble reading the translations fast enough to keep up.
+
+<<Listen, listen, listen! The sky might be hot real estate and we might be having a bad week and you might be playing with a brand new power you earned during the floods, but there are still rules. Rules. We aren’t letting air traffic devolve into a tangle like yesterday. A shaper flying a park bench hit an air skater this morning, and they both fell into the bay. You want to be involved in that kind of situation? You want to swim in the bay? Anything over forty kilometers per hour, anything flying more than ten meters off the ground, anything characterized by random motion, anything doing anything at a time like this—you flare your license and you get your flight path and you follow it. Do you even have a license? I have no record of your license. Yes? You hear me? Can you—?>>
+
+“I don’t have a flying license,” said Alden.
+
+<<What? You don’t? Where have you come from? Where are you going? Why are you out there?>>
+
+Alden looked at the city ahead of him, then down at the knight who was offering zero input. “I’m flying Hn’tyon Esh-erdi from Matadero to Apex?”
+
+The stream of words stopped. There was another slurp. The clicking on the probable keyboard slowed.
+
+<<The general with the big green cookie has a chauffeur now?>> the traffic person said at last.
+
+That…works. Doesn’t it?
+
+“I am the big green galleta’s driver,” he confirmed.
+
+<<Why does the chauffeur not have a license? That was rhetorical. Don’t answer it. Fine. Fine. I’m registering you now. Alden Thorn. You’re only registered for the cookie. Special circumstances cookie license. Don’t go flying other things around. Come take your tests when the world is less crazy. Don’t drop the general. Do call in to report your flight paths if at all possible. Where are you going now?>>
+
+“Celena North,” Alden said, holding back a wince. He hadn’t had time to think through important questions like, Where exactly do I park the extremely conspicuous flying device with the extremely conspicuous Artonan so that I become less conspicuous?
+
+<<All right. Follow flight path instructions if your wizard doesn’t mind. If your wizard does mind, find a moment to call me back. My job’s gotten so much more interesting lately. Have a nice day.>>
+
+She ended the call. A moment later, an overlay and miniature map appeared on Alden’s interface, and he spent a couple of minutes hovering and figuring out what he was allowed to do. Is it this strict on a normal day?
+
+“You were about to ask me another question,” Esh-erdi reminded him. “Before you called The Nine-edged Son Whose Own Mother Forsakes Him a human pastry.”
+
+“I’m sorry!”
+
+“Don’t apologize to me.” Esh-erdi patted the nonagon between them.
+
+He’s so messing with me. Alden thought while he apologized to their aircraft with as much sincerity as he could muster. How does this person have time to mess with me?
+
+Before the call had come in, Alden had been trying to pin down what he should say about Esh-erdi and Lind-otta rescuing him, if that came up today at school. Normally, his plan would’ve been to let his salvation go completely unmentioned or brush over it for the sake of his sanity.
+
+It had been on the spectacular side, after all, and he didn’t enjoy being a spectacle.
+
+But as Alden started to form questions, he kept running into a wrinkle he hadn’t expected.
+
+They saved my life. Isn’t coming up with ways to act like it was no big deal, just for my own comfort, kind of diminishing what they did?
+
+Esh-erdi and Lind-otta didn’t need praise from one random teenager they’d plucked from the water, but the more Alden thought about it, the more he felt like an ass for even worrying about how much people were going to irritate him if they found out there was a story about Artonan generals to be had.
+
+Esh-erdi would probably tell him to do whatever was best for himself if he asked about downplaying what had happened, but Alden didn’t think he should let himself be the kind of jerk who chose his own convenience over giving gratitude where it was deserved.
+
+I was about to drown. It hurt. I was terrified. They pulled me out of it.
+
+It was different than not telling people about the Quaternary’s help. If he even tried to explain how she’d assisted him, he’d be opening a giant can of worms. This was simpler. Everyone already knew the knights were around Anesidora and that they were using their magic to fix things.
+
+Esh-erdi’s flying cookie was even recognizable. To traffic control at least.
+
+The knights are strangely adept at not being filmed in the act of using their magic though.
+
+Alden let the nonagon move forward again toward Apex, keeping it slow. He only had a short while to get to the assembly, so he was going to have to floor it soon. But he was reframing his thoughts and his question, and what he wanted to ask now was important.
+
+Not just for the next few hours of his life. But in the longterm.
+
+“Hn’tyon Esh-erdi…”
+
+“You’re using the title.” He was still looking up at the sky. “Is the question such a serious one?”
+
+They were approaching the ruin of Punta de La Luna. The boardwalk, the cottages, the ambassadorial mansion—they only existed in Alden’s memory now.
+
+I could wait and ask Stuart when I go for a visit…but it would be better to ask Esh-erdi as well. Stuart might have a different perspective.
+
+They were still out here over the water, away from drones. And Alden doubted anyone within miles of them had the combination of guts, talent, and knowledge they’d need to spy on Esh-erdi.
+
+“I think asking you this might be rude, but I don’t know how to find out without taking the risk,” said Alden. “I apologize if it is.”
+
+“I hope the question horrifies me since you’re apologizing for it before it’s even spoken.”
+
+I don’t know. It might horrify you.
+
+For another moment, he debated asking as delicately as possible versus just asking. He settled on the second, based on how he imagined it would make him feel if someone else was going to bring it up.
+
+“It seems like the fact that a hn’tyon’s authority is bound into a skill is never mentioned,” said Alden, staring straight ahead. “Even on the Triplanets among the ordinary class. Maybe even among the wizard class? People don’t ever say it. I’m not sure what that means—if it’s a secret that’s being kept from some people or if it’s out of respect. I want to do what you prefer. When I tell people that you saved me, if someone asks me how Lind-otta stopped the water, should I just say she cast a spell, like everyone does on television? Is that what the two of you want?”
+
+He couldn’t meet Esh-erdi’s eyes then. He was afraid that he would see something dangerous there—not anger, but any of the other hard emotions that might appear. Grief, pain, shame…understanding.
+
+Only the long pause before Esh-erdi’s answer came told Alden that the question had surprised him.
+
+“You ask why no one ever mentions the <<elder’s croak>>.” He spoke easily, with no trace of any of the reactions Alden had feared. “It is something of a secret on this world, though nobody means for it to be a perfectly kept one at this point in our peoples’ relationship with yours. It’s <<taboo>> in our culture for those who aren’t a hn’tyon themselves, or closely associated with us, to speak of it. To such a <<degree>> that many still swear themselves to the maintenance of <<the respectful silence>>, following the old traditions.
+
+“Assuming things go as I imagine they will, you’ll find that around the time our nature becomes more widely understood here on Earth, the silence will be adopted as well.”
+
+“Then I’m sorry for bringing it up.”
+
+“There’s no need to be. You didn’t call me a pastry. And asking questions for the purpose of educating yourself wouldn’t be offensive to anyone worth worrying about. Some of us, including Lind-otta and I, consider Avowed to be a <<natural exemption>> from <<the respectful silence>>. Though not everyone feels that way, so I would walk carefully around others.”
+
+So it wasn’t actually secret. Even on other worlds. But nobody had ever explained it to Kibby, and Alden had never gotten to hear about it while he was consuming Artonan media because it wasn’t talked about at all.
+
+“Elder’s croak?” he asked. “I’m not sure the Contract is translating that correctly.”
+
+“A <<fable>> often told to children and sometimes used to explain the respectful silence. I don’t have time to tell it now. But I’ll make sure you hear it.” Esh-erdi sat up. “I am a <<renowned storyteller>>. Do not let anyone tell it to you before me. The first time is the best.”
+
+“All right,” said Alden.
+
+Esh-erdi chortled to himself. “It’s been a few years. I must practice my croak! As for the rest of your question, telling everyone that we cast spells is probably the best option. It’s also not untrue from a certain perspective.”
+
+“I’ll do that,” Alden said firmly.
+
+“<<Majestic>> spells. <<Quiver-causing>> ones!”
+
+“I can say that.”
+
+“You’re very serious.” Esh-erdi’s smile fell a little. “I guess you’ve arrived at your conclusions from your interactions with the Quaternary. Or perhaps even more recently from me and Lind-otta. If you have more questions, you may ask them anytime.”
+
+“Thank you. That’s nice of you.”
+
+“I don’t think it is. We’re probably less similar to Avowed than you would assume. And it would be good for you to understand, since you are becoming friends with Stu-art’h.”
+
+Alden directed the nonagon up higher, trying to unravel how Esh-erdi’s words made him feel.
+
+Below him, the world where human Avowed lived lay in a shocking mix of ruin and glamor. Beside him, a Knight of the Mother Planet offered to explain what he was. Against Alden’s chest, hidden by the high neck of the school uniform, his auriad was soft, and on the flesh there, a tattoo he’d accepted from a wizard was fading away.
+
+We’re probably less similar to Avowed than you would think.
+
+They were flying over the area he’d been rescued from.
+
+Does someone like me fit in anywhere? Will I ever? If I asked him—just threw caution to the winds and asked him outright—what would the answer be?
+
+Would he even have one for me?
+
+******

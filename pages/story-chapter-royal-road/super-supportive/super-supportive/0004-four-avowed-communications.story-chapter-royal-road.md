@@ -1,0 +1,273 @@
+---
+id: 73a08b38-f284-594a-af2e-96089a3dbef6
+page-type-slug: story-chapter-royal-road
+title: "FOUR: Avowed Communications"
+slug: 0004-four-avowed-communications
+partOf: super-supportive
+position: 4
+ownLength: 3023
+unit: words
+publishedAt: 2023-02-03
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1104952/four-avowed-communications"
+royalRoadId: "1104952"
+---
+
+Avowed Communications
+
+Alden stared at the note for a while. He hadn’t seen Hannah since that day at the hospital, but obviously, she’d reached out to his aunt at some point. Maybe right after the accident, since this message had been buried in the Flat Stuff Place for so long.
+
+He had gotten a video call from Arjun Thomas once, several months after it happened. It had taken place in his therapist’s office. The hero was polite, but the whole thing was extremely awkward. By that time, Alden had cobbled together enough of the details to understand that during the last few seconds of the fight, Body Drainer had run toward his unconscious body in a desperate attempt to drain Alden and re-up his own power.
+
+Mr. Thomas had grabbed the teenage villain and…done what someone with incredible super strength did.
+
+I should have thanked him for saving my life.
+
+It was a new thought.
+
+Alden had long been aware that Arjun and Hannah had technically saved his life. Twice. Once by stopping Drainer and then again when Hannah put him inside her magic bubble to keep him from bleeding out.
+
+But any gratitude he felt had always been overshadowed by the death of his parents.
+
+Now though…
+
+He took a deep breath and dialed the strangely long number. The words he’d been refining all day during school were on the tip of his tongue. As soon as Hannah answered, he would say them, get his final answer, and then hang up. That would be that.
+
+The phone rang once and then immediately connected.
+
+“This is Alden Thorn,” he said in a rush. “I—”
+
+“Hello, Earthling!” said a cheery, canned voice with an unfamiliar accent. “You’ve dialed in to your planet’s Avowed Communications Network. Your number isn’t registered. Please state your name, reason for calling, and level of urgency. Prank calls will be penalized.”
+
+Alden blinked. Am I talking to the Artonan System right now? The actual System?
+
+He had to be. It was calling him Earthling.
+
+He hadn’t realized that a reality-altering magical interface could even have a phone number.
+
+And his brain was so set on delivering his message to Hannah quickly and with a minimum of social discomfort that he had to think for a beat before he could answer the unexpected, but perfectly simple, questions.
+
+“Um…this is Alden. Samuel Alden Thorn. I’m calling to talk to Hannah Elber. She’s a superhe—one of the Avowed. It’s not urgent, so I guess my urgency level is low?”
+
+There was no pause after he finished talking. The System replied immediately.
+
+“Oh, yes,” it said, in a pleasant voice that no longer sounded pre-recorded at all. “I see you, Alden. Hannah has listed you as a priority contact. She’s not on a quest right now, so I’ll patch you through to her. Would you prefer video, audio only, or empathetic telepathy?”
+
+“Empathetic telepathy?” Alden asked, startled. Telepathy was a superpower, wasn’t it? Not something you just used for phone calls.
+
+“I don’t recommend it,” the voice said. “It’s damaging for underdeveloped minds, and Hannah can only afford to pay for four-point-six-eight minutes worth. Your call would have to be brief.”
+
+Why is it even an option, then?!
+
+Alden held the phone farther from his ear, as if that would mitigate any potential brain damage. “Um…audio only is fine.”
+
+“Forwarding you now.”
+
+###
+
+“You’re the most boring person in the world. I hope you know that.”
+
+Hannah looked up in surprise to see her best friend standing over her. Cly was carrying a pair of plum juice mocktails, and her brown eyes were narrowed in disappointment.
+
+“Are you seriously working during my Super Extraordinary Going Away Brunchtime Extravaganza?”
+
+“Ah…” said Hannah, setting aside her notebook and gazing around at the restaurant. “Isn’t the party kind of over?”
+
+Cly had finally gotten her first off-island job offer, a coveted posting in Toronto. She’d be starting in a couple of weeks, and she’d booked her favorite Sichuan place for the entire morning so that all of their friends could farewell her. It was the first time Hannah had ever had extra spicy mapo tofu for breakfast, but she had to admit it was pretty awesome.
+
+Now, though, the buffet was empty and just a few people were left sitting at tables piled high with dirty dishes. In one corner, a Shaper who Hannah only vaguely recognized seemed to be practicing his skills by making the dregs of green tea from his cup float around in lazy circles over his table.
+
+“The party is never over while I’m here!” Cly proclaimed, lifting the drinks over her head. Some plum juice spilled onto her sleek black bun, and she completely ignored it.
+
+A few people raised their glasses toward her and cheered good-naturedly.
+
+“I really am going to miss you,” Hannah said with a smile. “I hope Toronto is a blast.”
+
+“You could always be my sidekick,” Cly said hopefully. She leaned over the table, a familiar pleading expression on her face. “I know we could make it work. I’d split my salary with you 60/40. Canada would get two for the price of one. They’d love it.”
+
+“It would be fun, but you know I want—”
+
+“‘To maximize a partner’s effectiveness.’ I knoooww. But why don’t you try to maximize me. I wanna be maximized. It would be cool.”
+
+“You’re a long-range mind sniper who turns a target’s brain into custard. You’re already a hundred percent effective as long as you don’t miss. How am I supposed to maximize that?”
+
+Actually, Hannah had made a couple of plans for how to support Cly’s skills as a Sway…just in case a need ever arose. But it didn’t change the fact that, in most circumstances, the two of them working together would be just the same as any two powerful heroes working in parallel.
+
+The goal of a battlefield support—the goal Hannah was aiming for anyway—was to make a partner exponentially more effective than they would be without her.
+
+Right now she was writing a team-up proposal for a fellow Adjuster currently stationed in Jakarta. He was an older, more experienced hero who did some extremely creative things with localized temperature shifts. He’d had a dedicated support briefly a few years before, and his mission success rate had shot through the roof, but the sidekick had gotten a quest summons and never returned to Earth.
+
+Possibly he was just busy with whatever task he’d been set by the space wizards, but at this point, it was better to presume he was dead.
+
+“I’ll take this,” Cly said, placing a mocktail on the table and snatching the notebook. “You take the drink. We’ve still got an hour on our booking for this place. Let’s play poker!”
+
+Amused, Hannah agreed, and before long they were playing mid-day poker with the other leftovers from the party. The Shaper was a minor leaguer named David. Poor guy was getting fleeced because he hadn’t realized that their friend Nuray had a permanently engaged passive skill that heightened attraction.
+
+Nuray’s fiancé, Ilya, was grinning behind his handful of cards. He had insane dexterity stats, so he was probably cheating, too. But none of them would ever catch him at it.
+
+“I still can’t believe they’re letting an S-ranked Sway off the island,” Ilya said, shaking his head as Cly excitedly revealed a winning hand. “I thought for sure you were stuck here until you were old and gray.”
+
+“I’ve been pure of heart and even purer of deed since I was fifteen,” Cly said, smiling broadly. “My record’s so lily white my own mother’s criticisms bounce off of it. I am saint. An angel. An absolute lamb. A—”
+
+“An unholy terror that could kill us all without getting up from your seat?” Nuray said, stealing a maraschino cherry from Ilya’s glass.
+
+Cly shook her head. “Realistically, I could only kill one of you at this range. Then, the others would stab me to death with forks and chopsticks.”
+
+“We should do that,” said Ilya. “I haven’t had a mission bonus in ages.”
+
+Hannah smiled at the banter. It really was amazing that Cly had gotten the Toronto job. Most countries weren’t okay with the idea of mind controllers crossing their borders.
+
+The majority of Sways—the ones who didn’t become villains—spent their lives on the island or in one of a few other zones owned by the Allied Heroes of Earth. Cly’s parents were superhumans, too, so from the moment she’d gotten her class she’d understood the stakes.
+
+Perfection was the minimum requirement if she wanted to work internationally as a hero.
+
+She’d taken it a step farther by specializing at every turn until she was finally categorized as a mind sniper instead of a manipulator. She had no subtle tweaks in her repertoire, just powerful single-target mind destruction. Very scary, but not in the way that made people in power want to keep her on the opposite side of the planet.
+
+It was a big gamble on her part to narrow her focus so heavily. Hannah was glad it had finally paid off.
+
+“You know, maybe before you head to Toronto, you should…oh, wait. Got a call.”
+
+A visual notification blinked in her peripheral vision, and she reached up to swipe at it. She’d never bothered to train herself out of the habit of prodding around at thin air. Controlling your thoughts to give perfectly accurate mental commands to the System interface really wasn’t as easy as just using your fingers.
+
+The blinking call notice was gold—the color she’d assigned to highest priority—so she didn’t even bother to check the identity. Cly was sitting across the table from her, and she didn’t currently have a partner. So that meant it could only be her mother.
+
+“Hi, mum!” she said. “What’s up? It’s the middle of the night in London, isn’t it?”
+
+There was complete silence for a few beats.
+
+“Um…” said an uncertain voice. “This is Alden Thorn? Is this Han—Ms. Elber?”
+
+Hannah dropped her playing cards.
+
+“Hannah, you all right?” Cly said, frowning.
+
+She shook her head frantically.
+
+“This is Hannah.” Her voice came out in a squeak, so she cleared her throat. “It’s great to hear from you, Alden. What can I do for you?”
+
+Oh shit, Cly mouthed. She made dramatic shushing motions at the rest of the table, even though it was unnecessary. The System wasn't going to transfer their words through a call directed to Hannah.
+
+“Okay,” said Alden. There was the sound of sharply indrawn breath, and then, in a fast monotone, like he was trying to get through a particularly unpleasant reading assignment, he said, “I would like to ask you if it was really ninety seconds between Body Drainer’s first two uses of his energy explosion skill and the moment when Mr. Thomas tackled him.”
+
+Hannah opened her mouth to answer, but before she could, he continued.
+
+“Because that’s what I read online. That he used it for the first time—twice really fast—and then he used it again ninety seconds later when he and Mr. Thomas came through the side of the building. Is that true? Was it ninety whole seconds?”
+
+What is this? Hannah still hadn’t put that disastrous Chicago mission behind her. She probably never would. But she’d also thought she was done with most of the fallout from it. She’d never expected to hear from Alden again.
+
+“I…didn’t have a timer that night. But when we filed our reports, Arjun and I both agreed it was around ninety seconds? It could have been a little less.”
+
+Am I saying the right thing? He’s what…eleven now? It’s important to say the right thing! Hannah’s head was a mess. She’d wondered about the boy over and over, but it wasn’t appropriate for her to bother him or his aunt just to assuage her own lingering guilt.
+
+What did he want? What was this ninety seconds business? What if he asked for more details about the villain? What was she even allowed to tell civilians about that case? It had been a while since she’d checked to see which things she knew were considered sensitive, and which were public information.
+
+“Okay,” said Alden. “Thank you. Bye.”
+
+Wait, that’s it?
+
+“Um…bye-bye.”
+
+The kid had already hung up.
+
+Hannah slumped down in her chair and put a hand to the front of her t-shirt. Shit. Her heart was racing like she’d just done a post-stat increase sprint test.
+
+“You all right?” Cly asked, raising an eyebrow at her.
+
+“Yeah. That was unexpected. He just wanted to know—”
+
+The call notice flashed again. She could have used a few seconds to collect her thoughts, but her traitor hand clicked on it immediately.
+
+“I forgot some of what I wanted to say.” Alden’s speech was still rapid-fire, but it was slightly less monotone.
+
+“Hit me with it,” Hannah said without pause. Because her mouth was a traitor, too.
+
+“It wasn’t your fault my parents died. I’ve been doing a lot of research on you and Mr. Thomas and Body Drainer, and your power can’t prevent explosions unless you know when and where the explosion is coming from. And you didn’t even know Body Drainer could make an energy burst because he only did it for the first time during that fight.”
+
+“I—”
+
+“The official report says my parents died when Mr. Thomas came through the wall and part of our building collapsed. Their bedroom was buried under stuff from the floor above and the roof. But I think they were already dead by then. From the first set of explosions. Because they didn’t hear me yelling for them.”
+
+He paused for a quick inhale, then dove right back in.
+
+“I was screaming really loud when I woke up, but my mom and dad never came. They didn’t even yell back to me. And if it was ninety seconds, they would have. I tested it on my Aunt Connie, and she came running in eight seconds. So they must have already been gone when you messed up and let Mr. Thomas and Drainer crash through the side of our building.”
+
+Alden fell silent.
+
+Hannah’s hand was clenching the front of her shirt. She was trying to think of what she should say.
+
+Thank you? That didn’t seem right.
+
+Let me fact check this information and get back to you to confirm? That definitely wasn’t it.
+
+Kid, are you okay?
+
+Better. But still not great.
+
+Apparently she’d waited too long. Because the boy spoke again, in a slower, more pointed tone. Like he was trying to explain something to a younger child.
+
+“I’m telling you they died in the first explosion. The one you couldn’t have done anything about anyway. Because you didn’t know it was coming. So you don’t have to feel bad about it…okay?”
+
+“O-okay,” said Hannah. “Thank you so much for letting me know.”
+
+“I don’t have Mr. Thomas’s number, so can you tell him, too?”
+
+“Okay. I’ll call him right away,” she said mechanically.
+
+Hannah, you idiot. Be a hero. The eleven-year-old victim is being the mature, thoughtful one here. Do better. Think of something. You’re going to feel like an ass if you don’t say something comforting.
+
+“Bye, then,” the boy said.
+
+“Alden, wait!” Hannah’s mind was still completely blank. She scrambled for an idea, and blurted out the first one that popped into her head. “Do you want to come to Anesidora sometime? I could get you a day pass.”
+
+She winced at herself. Those were totally for special circumstances and bigwigs and immediate family. But she could do it. Probably.
+
+The boy seemed to be considering the offer. “During summer break?” he suggested. “Would it be expensive to fly there?”
+
+Oh right. Travel to Point Nemo wasn’t exactly simple.
+
+“I’ll get a teleport for you! The System can do that. You just…let me know when you can come.”
+
+“I’ll ask my aunt if she minds,” he said. “But she won’t.”
+
+“Great! See you this summer then!”
+
+She’d have a while to—
+
+“Break starts in three weeks.”
+
+Shit. Northern Hemisphere.
+
+“Cool!” she said, finally managing to summon up her Hero Hannah voice. “Let me know what your aunt says. We’ll make it happen!”
+
+“She’ll say yes. Bye.”
+
+He hung up again.
+
+Hannah rubbed a hand down her face. I think…that went okay?
+
+She’d always wanted to do something for the kid, and it just hadn’t been an option. A hero couldn’t go inserting herself into a victim’s life. But since he’d called himself…
+
+I need to check on the case’s facts again. Maybe call Arjun. He might answer after all this time.
+
+“So…Hannah?”
+
+She looked up and saw Ilya watching her over the top of his hand of cards.
+
+“Are you secretly dating a Rabbit?”
+
+“What? No. You know I’m single right now,” she said absently. She was racking her brain, trying to think of which friends she could call to get a travel pass on short notice.
+
+“I dated a Rabbit once,” David said dreamily. “She was so rich. But she would get yanked away by summons at the most awkward moments.”
+
+“That’s why she was rich,” Nuray pointed out. “She was one of the lucky ones. Rabbits who never get summoned have zero skills and zero money. And that’s most of them. It’s a rough gig.”
+
+“Hannah,” Cly said slowly, “I think what our friends are trying to point out in a stupidly round-about way is that you just offered to purchase a custom teleport for a civilian kid.”
+
+“We can do that can’t we?” Hannah said anxiously, still flipping through contacts on her System screen. “I know I’ve heard of people doing it.”
+
+“Yeah, but…have you ever priced one?”
+
+“No,” Hannah said. She’d never needed to. Teleport was covered by the island government for official travel, and superhumans didn’t really get the opportunity to do a lot of unofficial traveling. “Why? Is it bad?”
+
+Everyone else at the table exchanged glances.
+
+Cly sighed. “We’ll…start a fundraiser for you or something. It’s a good cause. In the meantime, you should eat mostly ramen and beans.”

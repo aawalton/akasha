@@ -1,0 +1,337 @@
+---
+id: c1eaee8d-2294-555d-a651-581499c420fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 761 - Game Time"
+slug: 0762-chapter-761-game-time
+partOf: mythrans-master-of-all-continued-completed
+position: 762
+ownLength: 3378
+unit: words
+publishedAt: 2018-11-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/306677/chapter-761-game-time"
+royalRoadId: "306677"
+---
+
+Barbi and Ren laughed for a minute, then Barbi sat up.
+
+“Ren, there must be something seriously wrong with your head if you can laugh at all the horrible things they did to you.” Barbi said.
+
+“There's nothing wrong, Barbi. I'm an optimist. I am always going to look on the bright side of things.”
+
+“Oh? What's the bright side of this?” Barbi asked and motioned to his still ready state. “It's still not going away.”
+
+“Considering I've still got about 30 minutes before I need to log back into the game...” Ren gave her a huge smile. “...you can keep having fun with it if you want to.”
+
+Barbi snorted a laugh. “Yeah, right.”
+
+“I'm serious.” Ren said. “I can't handle sex right now, not without risking hurting myself again; but, pretty much everything else is okay with me.”
+
+“You'll let me just... play with it some more? I can do what I want?” Barbi asked, a little surprised and intrigued.
+
+“As long as you're careful.” Ren said. “No s&m or b&s, though. It doesn't do anything at all for me.”
+
+Barbi's eyes widened. “You've experienced them before?”
+
+“To some extent.” Ren said.
+
+“Um... wow.” Barbi looked down at him, then back to his face. “You're a lot more... versed in that area than I thought you were.”
+
+Ren chuckled. “I could make a joke about having sex for a really long time in the game; but, it's because I've spent some time in the Pleasure Palace.”
+
+“Oh. Nothing like that in real life, then?” Barbi asked.
+
+“Besides the experiments, no.” Ren said, and she took in a sharp breath. “Easy, there. It's okay.”
+
+“Ren, I didn't mean to remind you of that.”
+
+“I can remember it and not have to live through it again, thankfully.”
+
+“Oh, Ren.” Barbi said, and you could hear the apology in her voice. “How can I make it up to you?”
+
+“Can I have another kiss?”
+
+“Of course.” Barbi said and bent over, then kissed the tip of his member. Once she tasted it again, she didn't stop at just one kiss, though. She went the distance and pleased him again until he finished, and she revelled in his reactions to her expertise. He tasted just as good as he did the first time, and she sat up with a very satisfied and smug looked on her face.
+
+“I... um... meant on the lips.” Ren said and pointed to his mouth. Barbi snorted a laugh, then kept laughing and Ren laughed, too. There was a knock on the door, and it startled Barbi, so she stopped laughing.
+
+“Are you decent?” Barbara asked through the door.
+
+“No, but you can come in anyway.” Ren said.
+
+“REN!” Barbi put her hands over his crotch to try and hide him.
+
+Barbara opened the door and saw Barbi's desperate attempt to hide Ren. “It's all right. I've seen it.”
+
+“That's not the point!” Barbi said. “We just... I just...”
+
+Ren cupped the side of Barbi's face. “Thank you for being embarrassed for me.”
+
+“Ren...”
+
+“I'll need a trip to the bathroom and a quick sponge bath anyway, so she's going to see it.”
+
+“But... she... you...”
+
+“She's good at divorcing herself from her work.” Ren said and looked at Barbara. “She couldn't have taken care of me all these years if she didn't.”
+
+“That first year, I cried nearly every day when I went home.” Barbara admitted.
+
+“I didn't know that.” Ren said.
+
+“There was no need for you to know how much my heart hurt seeing you like that.” Barbara said.
+
+“You hid it well.”
+
+“That's my job.” Barbara smiled. “Bathroom first, you said?”
+
+“Yep! Call the fire department!” Ren said as Barbara helped get him to the side of the bed. “The fire hose is about to be unleashed!”
+
+“Don't make me laugh while I'm helping.” Barbara chuckled and took his weight as she put him into the wheelchair, then she pushed him into the bathroom. No one had tried, or even thought, to pull his pyjama bottoms up. They were back out about ten minutes later and Barbara pushed his wheelchair over to the bed.
+
+“You are technically clean.” Barbara said as she helped Ren get back into bed. “No more hanky panky.”
+
+“Um... I'm planning on making the rounds when I go back in.” Ren said, a little sheepishly.
+
+“That's fine.” Barbara said and waved his comment away. “I meant right now.”
+
+“Oh. Good luck fighting Barbi off then.” Ren joked.
+
+“Hey!” Barbi mock scowled at him and put her hands on her hips, then he and Barbara laughed.
+
+“I'll manage to restrain her somehow.” Barbara said and handed him his VR headset.
+
+“Thanks.” Ren said and settled back on the bed. “Thanks for giving up your time with me so I could spend it with Barbi.”
+
+“I'm glad you appreciated it.” Barbara said. “Now go and have fun.”
+
+“Hey, you don't have to twist my arm.” Ren slipped on the headset. “See you in the morning.” He said and relaxed. “Flow Login Start.”
+
+*
+
+Ren's form went limp as he entered the game and Barbara turned to Barbi.
+
+“He didn't pressure you to help him, did he?” Barbara asked.
+
+“What? No.” Barbi said. “He just... he's so nice, and...”
+
+“Understanding.” Barbara said, and she nodded. “He has a knack for it and he can easily put himself in your situation.” She said. “It can be... a little hard to take sometimes.”
+
+“You're telling me.” Barbi chuckled. “It almost felt like he had gone through everything I went through, including the teasing and the horrible body image, and he reacted as if he had and then comforted me.”
+
+Barbara nodded. “He has a sympathetic soul.” She explained. “He can't help but superimpose his own life experience onto those he hears about and compares them.”
+
+“That's exactly what he did.” Barbi said and told Barbara that he even joked about her life being more complicated than his.
+
+Barbara laughed. “He's precious, isn't he?”
+
+“More than I thought he could be, even after seeing everything that's happened around here so far.” Barbi said. “Being alone with him and just talking about things...”
+
+“...you can get a sense of the depths of his mind.” Barbara said.
+
+“Yes, he... I don't know why I feel so much better about everything now.” Barbi said. “We talked about some... bad things, and... all I can think about is how happy I am that he knows and understands.”
+
+Barbara reached out and touched the other woman's arm. “It's because he doesn't judge you, no matter what you've done or been through.”
+
+“Is that why?” Barbi asked.
+
+“Have you seen the footage of him talking to Gloria's character in the game?” Barbara asked, and Barbi shook her head. “Once you watch it, you'll understand.” She said and pulled over the rollaway table. “If you've got a little while, I can show you.”
+
+“I'm not even the least bit tired.” Barbi said, to her own surprise, and smiled. “He's definitely a wonder, isn't he?”
+
+“Like you wouldn't believe.” Barbara said and took several minutes to bring up the footage. She hit play and Barbi listened to Elerlyth and Ren talking about doing some very bad things to people in the game, and not once did Ren become outraged, or rant at her, or even accuse her of being a bad person.
+
+“Good god.” Barbi whispered when the video ended. “Is he a saint or something?”
+
+Barbara chuckled. “It wouldn't surprise me if he was.” She said and moved the rollaway table aside. “He just... with his background, the horrible things people can do to others, doesn't really phase him much.”
+
+“Wow.” Barbi said. “He could make a great PTSD counsellor.”
+
+Barbara laughed. “He's definitely filled that role a few times around here. Mostly because of people having to deal with his experiences.”
+
+“He's going to have a lot of work to do over the next few days, then.” Barbi said with a smile. “Everyone should know all about him by now.”
+
+Barbara shook her head. “I told Elise to shunt the phone to voicemail and to deny direct messages.”
+
+“Won't that stop all the positive responses, too?”
+
+“We'll still get them; but, we can also screen them for content.” Barbara said. “It'll take a lot longer to go through them, though.”
+
+“Now that I know about it, I'll do that.” Barbi said. “I'm his public relations specialist, after all.”
+
+“Then you're the one that's going to be very busy over the next few days.” Barbra said. “Elise said the voicemail box is almost full.”
+
+“Oh, damn!” Barbi exclaimed and jogged to the bedroom door. “I better get down to the office!”
+
+“It can wait until morning.” Barbara said.
+
+“There's no way I can go to sleep right now.” Barbi said with a grin.
+
+“Then you should change first.” Barbara suggested.
+
+Barbi waved acknowledgement and left.
+
+“Well, kiddo. I hope you have as much fun as you can.” Barbara said and sat down on the chair beside the bed and looked at the television, then saw a blue screen. “I guess I didn't have to hope at all, did I?”
+
+Barbara pulled the laptop back over and looked at the footage that had happened while she and Barbi had been talking, and she saw that Ren was at the bottom of a pile and covered in women. After only a few moments, she laughed when the screen changed and the blue screen protocol activated.
+
+“Nope, I didn't.” Barbara smiled and moved the laptop out of the way and sat back to enjoy the rest of her night.
+
+********
+
+Ren woke up at the bottom of a pile of women and he couldn't tell who was who. Artemis was by his side and slightly out of the way, so it was only the concubines that were on top of him. He thought about opening his mouth and saying he was back, then decided he needed a bit of a rest.
+
+Hey, Teepo. Ren thought to his friend.
+
+“Hey, Ren.” Teepo said. “You've got a bit of time before everyone gets up for breakfast.”
+
+Enough time for the Sustenance Ring? Ren asked.
+
+“Barely.”
+
+Ren smiled and took out the Vasalor statue and activated it to double the time they had. I'm tempted to tell you to wake me up; but, I'm pretty sure they are going to wake me up instead.
+
+“I can almost guarantee it.” Teepo chittered in laughter.
+
+See you in an hour. Ren thought and closed his eyes, then quickly fell asleep.
+
+The time passed quickly, and just over an hour later, Ren felt someone lick his cheek.
+
+“Hm?” Ren opened his eyes and saw the blonde medical professional, Tiyaphi.
+
+“Good morning.” Tiyaphi said and gave him another lick.
+
+“Good morning.” Ren said, and he noticed that the small pile of women he used to be under, had disappeared and only Tiyaphi was on top of him now. She licked his chin and he chuckled. “I'm awake. You can stop licking me.”
+
+Tiyaphi smiled and turned her head slightly, then licked his neck and under his chin. “It's customary to groom your Inamorato first thing in the morning.”
+
+“But...”
+
+“Yuwen and Dilseffa are waiting on the couch for their turn, since neither of them are quite ready to do this much for you the very first time.” Tiyaphi said and licked the side of his neck.
+
+“How long does grooming take?” Ren asked, and he felt how happy she was that he didn't try to tell her no or say that he didn't want her to.
+
+“Only a few minutes.” Yuwen said. “It's only a token of affection instead of a full grooming.”
+
+“Would you do a full grooming if I was a member of one of the beast races?” Ren asked, and Tiyaphi stopped licking him and exchanged glances with the other two women. “It's okay if you would.”
+
+“I... yes, we... we enjoy getting this kind of attention.” Tiyaphi admitted.
+
+“We talked it over and figured you would like some of it, so we adapted it for you to be less time consuming.” Yuwen said. “It usually takes half an hour for a full grooming.”
+
+“I can spare half an hour.” Ren said, and he felt shock from them. “What?”
+
+“You... do you realize what that means?” Tiyaphi asked. “A full grooming...”
+
+“You're going to lick me all over, right?” Ren asked, and she nodded slightly. “Does that include between my legs?”
+
+Tiyaphi thought about lying, then remembered he would be able to tell. “It can, if the Inamorato is open to it.”
+
+“Stick out your tongue.” Ren said, and she stuck it out. “Will that shape change if you change?”
+
+“No.” Tiyaphi said, sadly.
+
+“Good.” Ren said, and felt her surprise. “Tatya and I were about to become intimate, and I had to stop her before she licked me down there with her rough tongue.”
+
+“Is that what happened between you?” Yuwen asked.
+
+“She mistook my fear of becoming numb for fear of her beast form.” Ren said, and all three women gasped and put a hand over their mouths. “Yeah, we had an argument and decided we could only be friends after that.”
+
+“Oh, no.” Dilseffa almost sobbed and her brown hair shook as she trembled slightly.
+
+“What is it?” Ren asked and looked at her.
+
+“You must think we're all horrible.” Yuwen said from beside her. Her whitish hair was dishevelled from a good sleep.
+
+“Why would I think that?” Ren asked.
+
+“The way she treated you is...” Dilseffa sighed. “Showing distrust for someone with no just cause, right after meeting them, is one of the worst social mistakes a delegate can make.” She said. “She must have lost a lot of Respect because of it.”
+
+“But...”
+
+“If her Respect has dropped too far, she might even lose her role as head of the delegation.” Yuwen said, concern in her voice and emotions. “I guess we will find out when we get to the capital later today.”
+
+Ren sighed. “I didn't mean to...”
+
+“Hush.” Tiyaphi said and covered his mouth. “It wasn't your fault.”
+
+“Muh.”
+
+“It could have been anyone we met along the way.” Yuwen said. “This is the end of our caravan's journey, remember?”
+
+Ren blinked his eyes for a moment, nodded slightly, and Tiyaphi moved her hand and he sighed. “I suppose I've killed the mood for a grooming.”
+
+“Not in the least.” Tiyaphi said with a grin. “Your concern for the leader of the delegation, even though the fault lies with her, just makes you all the more appealing.”
+
+“Are you sure?”
+
+“We can feel your distress over her situation, Ren.” Yuwen said. “It's... what was it we overheard that Adventurer say in the restaurant last week? Sauce for the goose? Is that the right saying?”
+
+Ren chuckled. “It's close enough.”
+
+“Then let us taste your goose, Inamorato.” Tiyaphi said and purred.
+
+Ren laughed. “All right. If you change, since your tongue doesn't, you can lick the sensitive part.”
+
+Tiyaphi made little grabbing motions on his red spider silk pyjama top, and he realized she was doing the 'happy cat' motion. He gave her a nod and she caught her breath at the Respect popup.
+
+“Wh-what...”
+
+“You didn't just tear off my clothes when I agreed and you waited for me to give permission.” Ren said and stored his pyjamas. “Please, continue.”
+
+Tiyaphi purred loudly and turned her head, stuck out her tongue, and did one long lick across his lips, from one side of his mouth to the other. She felt his surprise and purred even louder, then she moved down and started to lick his chest.
+
+Everyone felt Tiyaphi get excited about doing something that she never thought she would ever get to do. As a medical professional, she knew all about relationship rituals and the normal behaviour between a Mistress and her Inamorato; but, as someone who couldn't change into a third stage because her power went to healing instead, she had no hope of ever meeting anyone that would accept her in this way.
+
+As Tiyaphi moved down to his abdomen, she didn't try to restrain herself and started to shift. Ren didn't feel any difference in her tongue and relaxed. By the time she reached his underwear, her tail was fully grown and waved happily.
+
+“May I pet you?” Ren asked, and the tail stopped moving.
+
+“Excuse me?” Tiyaphi stopped licking and looked at his face.
+
+“I want to touch your silky fur, and maybe your tail.”
+
+“M-m-my tail.” Tiyaphi whispered and closed her eyes. “He wants to touch my tail.”
+
+“It's okay if I can't.” Ren said. “I just...”
+
+Tiyaphi didn't say anything as she moved up to look into his eyes, then she gave him a kiss on the lips and turned all the way around and straddled his chest and sat down. It put her tail right next to his face, and he saw where it was attached. He reached up and gently stroked the fur above the spot, and the tail puffed out a little and Tiyaphi shivered as a thrill went through her.
+
+Ren used his fingers to carefully trace the end of her spine and followed it into the bones of her tail. “That is so cool.” He said and stroked her tail. He felt tugging on his underwear, and he knew that Tiyaphi was doing the 'happy cat' move on the cloth, the same as she did on his chest before he stored his pyjamas. “Of course you can.” He said and stored his underwear.
+
+A loud gasp and a short shrill shriek were heard as he felt Yuwen and Dilseffa react to him, then a purr that matched Tiyaphi's started, as did a kind of low grinding noise. Ren leaned his head to the side to look at the two women who sat on the couch. Yuwen was rubbing her chest through her lacy bra and purred. Ren looked at Dilseffa and saw her mouth working and her jaw sliding back and forth, grinding her teeth.
+
+“Tiyaphi...”
+
+“They are both... very happy... right now.” Tiyaphi said through her purr. “As am I.”
+
+Ren smiled and used both of his hands to wiggle his fingers at the base of her spine.
+
+“AH!” Tiyaphi gasped and finished. Ren felt a slight dampness on his chest where she sat, then he felt her embarrassment start to grow.
+
+“Thank you for indulging my request.” Ren said, and pat her back, which startled her. “You can keep grooming now.”
+
+“I-I-Inamorato...”
+
+“Unless you want to stop with the job half-finished?” Ren asked.
+
+“NO!” Tiyaphi yelled and hopped a little. “No, I... I just...”
+
+“You can store your underwear to clean it, or I can do it for you.” Ren said.
+
+“Wh-what?”
+
+“Well, if you're going to groom me down there, it's only fair that I groom you back, right?”
+
+“I... I think... I think I love you!” Tiyaphi blurted, and Ren laughed.
+
+“So, do you agree?” Ren asked.
+
+“With all my heart.” Tiyaphi said and stored her underwear, then changed her position so she could lick him.
+
+“What a sight.” Ren commented at her perched right above his face, then pulled her down so he could reach it and kissed her.
+
+“RrrroooWWNNN!” Tiyaphi howled as Ren pleased her and scratched the base of her tail at the same time. She writhed and squirmed for several minutes and wasn't able to do anything else, then she finished and tried to dig her nails into his legs. She didn't have claws, so he wasn't hurt in the least.
+
+Ren eased the scratching on her tail to give her a break, and only licked her a little while she twitched and recovered. Tiyaphi caught her breath and panted, her brain and emotions reeling from what had just happened, then she got a manic look in her eye as she remembered that she was supposed to be grooming him.
+
+“Oh, Rrrrennn!” Tiyaphi moaned and purred as she started to lick his member very enthusiastically. Ren wasn't going to be out-classed in that area, so he started licking her again just as enthusiastically. This went on for about half an hour, until Tiyaphi collapsed in both exhaustion and pleasure.

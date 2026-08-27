@@ -1,0 +1,215 @@
+---
+id: 47f46525-0172-54bc-8fea-ca5053b902ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39"
+slug: 0046-chapter-39
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 46
+ownLength: 3727
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3643250/chapter-39"
+royalRoadId: "3643250"
+---
+
+Nobody has ever accused me of being smart. Tell the truth, I couldn’t find it in my heart to claim otherwise. Especially as the first rabid beasts started realizing that diner was ‘transportabling’ itself straight to them for free.
+
+I leapt. That screwed up the plans for the few beasts who were readying themselves to take some nice, lovely bites out of me, and brought me straight into the milling ranks of the rest of the horde.
+
+Animal communication is, apparently, a thing. Most species have some way of talking, whether audibly or through pheromones, manic twitching of the ears, or some other weird-ass ways. Some animals, like prairie dogs, have excellent communication and can describe complex details rapidly. Others, like wildebeest, are more known for the degree of their stupidity, and the way they’re able to forget what they’re doing mid-stampede.
+
+The Ghastlings, praise whomever was watching out for me, resided somewhere on the ‘wuzzat?’ side of the spectrum. They were slow to catch up. I raced through their numbers to the growing sound of their roars as they slowly realized that; A: A target had just arrived and B: It was getting away!
+
+Still, I was in trouble. The beasts were packed in tight, and I still had fifty meters to go, before I’d reach the precarious bridge leading up to the questionable safety of the walls.
+
+Haddock’s voice rang out across the increasing fury of the roars and snarls. “Brace yourself!”
+
+Brace myself? What did he…? Oh!
+
+I barely noticed the new creation appearing on their side of the wall – another wall, this one tilted at the centre, and slanted at a steep angle toward me – when something else made its appearance.
+
+A massive flood wave.
+
+It appeared mid-air, thundering with supernatural power straight down onto the slanted wall, which redirected the entire wave straight at me. Me, and the surrounding numbers of the Ghastling horde.
+
+I did as he shouted. I lowered my centre of gravity, hunkered down, even placed the tiny buckler ahead of me for all the good that would do. Then I braced for the tidal wave coming my way.
+
+I nearly didn’t make it. Sure, I’d readied myself for the Flash Flood. Good thing, too. The massive wave carried enough momentum it would’ve swept me off my feet if I hadn’t been prepared. I was not prepared for the successive impact of several beasties who hadn’t managed the same level of footing before the wave hit.
+
+The third Ghastling striking my left leg nearly carried me with it, its frantically snapping jaws clicking wildly inches from my leg. A hurried Deflect with my buckler slammed it back into the water, leaving me teetering awkwardly on one leg as the waves tried to carry me along.
+
+My goal was in sight, though, and, as the wave hit its peak and slowly lessened, I grabbed my chance.
+
+A few rapid steps had me hitting my stride. Then, I sped up even further. Moments later, I ran at full tilt, leaping onto the narrow bridge leading up to the walls.
+
+The incline was tricky. It was a least a thirty degrees slope, the material was slickened with water, and it was barely wide enough for both of my feet next to each other.
+
+I took it at a dead sprint, enjoying the fact that I had my Balance and Athletics skills on my side. The cacophony of snarls, yips and roars at my back made no secret of what would happen if I slowed down.
+
+The first Ghastling didn’t even see me coming. That granted me a wonderful learning opportunity. My quirk didn’t allow me to attack anybody. Pushing, however? Absolutely on the table. Meaning, I could’ve actually pushed Cuilcis over the edge back then. You live and learn.
+
+I tittered with satisfaction as the beast’s legs slid across the edge of the bridge. The look on its face as it tried to turn around to face me, pushing itself even farther away from safe footing, was downright hilarious.
+
+There were two other beasts ahead of me on the bridge. The first one did manage to spot me. Only, it couldn’t turn around on the narrow bridge. Instead, it decided to try to claw me with its hind legs. Heh. Who could blame the poor thing? It wasn’t like it had any chance of knowing about Deflect. Watching it nearly flip over in the air and fall down on the ground was pretty hilarious, though.
+
+The final beast, a Level 14 Ghastling, managed an impressively acrobatic stunt, leaping and performing a 180-degree turn in the air, leaving it ready for my charge. Unfortunately for it, the spear-wielder on the wall coldly took his spear and stabbed it right in the hindquarters. A second later, it was scrabbling for purchase before its claws scrabbled in the air in an impressive reimagining of Gollum’s volcano stunt.
+
+I didn’t even slow down. Realizing that the bridge actually stopped a metre before the actual wall, I sped up for the final incline, then leapt onto the wall.
+
+Haddock’s thick arm shot out, hanging onto me, and stopping me from stumbling down into the centre of their tiny castle. I hadn’t realized but, outside of the walkway running on top of the inside of the walls all around, as well as a waist-heigh protective battlements, there was nothing on the inside. Just a drop down to the ground some eight metres below.
+
+I hung there for a second, cold sweat pouring down my neck as I realized I’d almost tossed myself head-first to the ground. Watching the trio stare at me wide-eyed, a huge grin plastered itself across my face. I croaked. “Somebody order take-away?”
+
+Their shell-shocked looks didn’t last. The very pressing fact that the Ghastlings were getting over the effect of Nix’s wave helped us all focus on what was important. I took in the situation, and immediately took the space straight in front of the bridge, ridiculous buckler and swordbreaker in hand, prepared to fend off any Ghastling ready to leap at us.
+
+“Are you serious? Liam? What the hell are you doing here?” Nix looked me up and down like she couldn’t believe I was there.
+
+“What ticked you off? The handsome threads? The glorious bod?” I grinned, enjoying the look of a Ghastling falling off the slippery bridge unassisted.
+
+“We thought you were dead.” Haddock said softly.
+
+I snorted. “Well. Right back atcha. Good job on somehow making it out alive. Now, somebody, please tell me your plan and why you waved at me to come join you.”
+
+Turns out there was no brilliant escape plan. Their frantic waving had simply been sheer desperation and a desire for somebody to come save them. The fact that it’d been another human, let alone this particular human, hadn’t clicked for them until I got there.
+
+In fact, most of their acts so far today had been ones of sheer desperation.
+
+Their third group member was Steve Campbell. A naturally bald, ridiculous handsome Canadian with a glorious beard, he’d been the one to keep them alive, having earned himself an invisibility talent that allowed him to hide others as well.
+
+Except that was worth squat when the monsters had sufficiently impressive senses of smell and they were already trapped. His half-torn leather armor proved beyond a doubt who’d been taking the brunt of the Ghastling assault.
+
+Having been sniffed out, and consequently attacked by increasing numbers of Ghastlings, they’d decided to create their Fortress of Desperation, along with the narrow bridge that would allow them to slowly whittle down the numbers of beasts.
+
+“Except,” Nix sniffed, sounding personally affronted. “Those ugly things just keep on coming. And my hubby’s walls are going to fade away sooner rather than later. That, or the beasts will wise up to the fact that the walls can be torn apart by their attacks.”
+
+A Ghastling leapt at me. I met it halfway, buckler meeting snarling teeth right in mid-air. The upper teeth of the psychotic mutant badger actually managed to ease their way above the shield, and its mouth was almost big enough to fit all the way around the buckler.
+
+Deflect hit it first, throwing it back and into thin air.
+
+Wave of Reflection struck it perfectly mid-air. A second later, a lifeless body slammed into the soil below, nearly braining one of its kin.
+
+I rolled my shoulders, taking in their wide-eyed stares. “I guess we’ll have to come up with something fun.”
+
+A few minutes, and one heated discussion later, I was slowly realizing that ‘fun’ wasn’t really on the menu.
+
+Typical. They’d gone through all of this trouble to create the perfect setup for somebody like me. Limited access. Highly defensible position. No ranged attackers. Free shots at enemies, who were forced to come at us one after the other. Yet, the one damn time that I was in my element, we wouldn’t be able to keep it going continually, because the walls would fade away before anything else, and Haddock didn’t have enough mana for a new defensive structure. And I’d given away my last damn mana coins just a few hours ago! Goddammit!
+
+After the fifth Ghastling fell dead on the ground, I had to do a bit of internal math. I came around to the point that, okay, maybe this wasn’t going to be tenable for me in the long run either. Five stamina per Deflect. A minimum of fifteen stamina per activation of Wave of Reflection. Add to that however much energy I’d have to use on dodging, blocking, or parrying with my swordbreaker. On top of that, there was the fact that, apparently, the hazy energy around the claws of the Ghastling was frost magic, capable of both freezing you and biting into the material of my buckler. All things combined with the piddly excuse for a shield I was wielding, things were adding up to a rather uncomfortable realization.
+
+“We’re going to have to have to flee. According to the locals, these beasts are pretty much endless, and they’re dumb enough to keep coming, regardless of how many of them fall.”
+
+“That was the same conclusion we reached earlier.” The Canadian agreed. “But my invisibility is no good when we’re surrounded. Without that, we’re fresh out of luck.”
+
+Twin paws tore at me from either side of my buckler. I contorted myself, but couldn’t entirely avoid the thin lines that tore into my arm. The Ghastling fell back where it came from, head bouncing off the bridge with a satisfying thud. Still, the satisfaction didn’t make up for the cold sensation spreading through my forearm.
+
+I grimaced, as I reached the inevitable conclusion. “You guys are going to need a distraction.” Bracing myself for the next beast, I grinned. “Good thing it’s your lucky day. According to several different teachers, I am one of the worst distractions alive!”
+
+According to Haddock, we had about twenty minutes worth of juice left in the walls, before they’d dissipate into nothingness. He’d already been low on mana before the combined flood attack he created with Nix, and now was running just short of empty.
+
+I had them lay out all their skills for me, to see what we had to work with. Unfortunately, I wasn’t hearing anything useful at all. Sure, they’d managed to level well, but there just wasn’t anything truly useful there. Right up until Nix mentioned her latest talent.
+
+Tier 3
+
+Delayed Firebomb
+
+Active Talent. You summon a fiery primer at a specific point within your range, as well as a timeframe. Once that time has passed, a firebomb will emerge from the point, erupting into a ten-meter radius
+
+For the entire initial timeframe, you may push additional mana into the talent.
+
+Timeframe: 5-30 seconds.
+
+Area: 100 meters
+
+Cost: Minimum 30 mana.
+
+5/5 points
+
+I whistled, amazed by how she’d managed to find a talent that, through specific wording, just managed to sneak past the limitations about direct damage from her negative quirk. Following that, I realized what that was going to mean for me, and winced. “This is gonna suck!”
+
+Two attacks and one Ghastling tooth embedded in my buckler later, I summoned the mental surplus to explain my idea to them, near shouting against the backdrop of howls and roars. “The thing is, we can’t just all run for it – even if we back it up with magic from Nix to push them back or blow them apart. With how riled up they are, they’re going to keep on coming and chase us all the damn way back to Last Chance. And let’s be honest. We wouldn’t all survive that trip.”
+
+Haddock nodded seriously. Nix snorted. “I couldn’t even run that far. So, yeah. What do we do?”
+
+“We‘re creating a diversion. Or, I am, to be exact. One where I’m going to pull the damn beasts away from your castle and let you guys run. Then, once you’re far enough away, things are going to get hairy. This is the plan…”
+
+Two minutes of discussion later, and they were all staring at me in equal parts disbelief and dismay.
+
+Steve was the first one to find his words. “Listen, friend. I don’t know you. And I can absolutely respect what you’re doing. Yet, even if I hadn’t watched too many crappy action movies, I wouldn’t be okay with this. A heroic sacrifice is never the right choice.”
+
+I couldn’t help it. I chuckled. I also face-blocked a leaping Ghastling with my buckler with a very satisfying clunk. Multitasking!
+
+“Listen, Steve. You seem like a good guy. I’ll make it easy for you. First, we’ve never met. You don’t know what I can do. Second… just send us all group invites, will ya? You can check over my details and then you can tell me if you think this is suicidal.”
+
+He did as I asked. Then he blinked and, eventually, croaked out. “Okay. Okay. Let’s do this thing.”
+
+I looked down upon the milling masses of bestial fury below us. Gah. If we survived this, I’d owe Kimzi a drink. Even with the Flash Flood, even with my Waves of reflection, it looked like the numbers of the monsters had increased since I got here. “You full on mana, Nix?”
+
+“All good.” She beamed at me, giving two thumbs up. “That new mana regaining talent of mine works a charm.”
+
+I took a deep breath. “Wonderful. I’m going to be running in that direction.” I pointed in an easterly direction. “Can you give me an opening, Nix?”
+
+She eyed Haddock. “Have the mana for another slip n slide, love?”
+
+He grunted. “That’s the last one I’ve got, though.”
+
+A second later, another heavily slanted wall emerged right in front of us. Now, I noticed a bunch of details I’d completely missed first time around. How it wasn’t just a flat surface, tilted to direct the water in a specific direction – in this case, downward and outward. No, the large sheet of summoned stone-like material, tacked onto the battlements of the wall for stability, was both tilted and rounded, with a shape that seemed optimized to catch as much of the descending water as possible, and launch it out of the bottom at maximum speed, concentrated into a tighter space.
+
+The water from Nix’s Flash Flood emerged from high in the skies, pouring down with the force of a waterfall and spattering all of us with droplets. Yet, when the vast majority of the water struck Haddock’s construction and exploded down and out, it emerged with the force of a tsunami.
+
+“Go! Don’t fucking die!” Nix’s words were barely audible behind the roar of the water and the frenzied roars from the Ghastlings.
+
+I wasn’t paying attention anyway. I leapt from the battlements in the wake of the flood, sprinted down the slippery bridge at a pace that threatened to have me slip and break a leg.
+
+The ground was wet, too. I barely touched it. Why? Because I was running on top of downed Ghastlings. And suddenly, I couldn’t help myself. I howled with laughter.
+
+One shorter Ghastling was shaking itself, getting to its feet. It noticed me and, still groggy, lashed out with an unsteady paw. I ran past it, but managed to catch it with my buckler and send the beast stumbling right back to the ground with a well-timed Deflect. The crunching sound as its joint bent out of whack was a joy.
+
+“Come on, you feckless puppies. Is that all you’ve got? Dinner’s served, you toothless shits!” I howled the words as I sprinted, cackling all the while.
+
+The rush was overwhelming. Anything I’d ever known, all logic and planning, lost in the insane burst of joy and recklessness as I sprinted between the ranks of infuriated Ghastlings, daring them to come get me.
+
+They answered the call. I still wasn’t too sure on the whole topic of monsters vs. beasts, as in, how many regular behaviorisms did monsters actually share with ‘regular’ beasts from home. Yet, right that moment, I definitely confirmed that they had one animalistic trait. When they saw a snack running? They chased!
+
+I was so glad I’d eventually chosen Improved Run Speed. I actually managed to make it through their amassed numbers and almost to the edge of their circling group before they started going after me as a whole. But boy oh boy did they ever react then.
+
+I might have been able to outrun them. Might. Some of the Ghastlings were pretty damn fast on their feet, and I was pretty sure that monsters, same as us, placed their attributes differently upon leveling up. Meaning, some of them were bound to be Agility-focused. That wasn’t the point, though. The point was that, even while I was yelling and shouting, some of the beasts at the back of the horde were turning away from me and back to the big-ass walls that still held a bunch of walking, talking sandwiches for them.
+
+I waved both my hands above my head. Then, I set my feet and opened my arms wide, showing my teeth at the walls of fur waiting to close in on me. My Wheel of Magic activated, all four spokes burning bright with the damage I’d taken from their magical claws, and started spitting magic everywhere. “What are you waiting for? Come get some!” I shouted, drunk with adrenaline.
+
+They didn’t wait. They really didn’t. The next ten seconds were a chaotic wave of fur, claws and teeth. I stood my ground, yelling insanity at any comers. Then, just yelling, shouting, pain and rage taking over while everything else subsided.
+
+All the while, I dodged, deflected, growled and parried. And between my feet, on the ground, a vivid orange flame pulsed and grew bigger.
+
+One moment, I was spitting defiance at a charging Ghastling, trying to dislodge another beast that somehow got its claw stuck behind my single remaining piece of leg armor. The next, the world went up in fire.
+
+Pain. Pain and heat. That was all there was. An all-devouring, burning, rolling torch, trying to carve away my skin, my eyelids, my everything.
+
+And then there was nothing.
+
+I opened my eyes. I lay on the ground in a fetal position. My ridiculous buckler was warm to the touch, uncomfortably so. My swordbreaker was… somewhere. I’d dropped it. The world was utter silence. Around me was death. Death, desolation and a whole lot of charred flesh. I knew there was something I had to do, but my mind was drawing a blank.
+
+Then something connected, and I brought up my details.
+
+Health: 341/770
+
+Oh. There it was. I’d actually survived it. A few rare synapses kicked back in, and I remembered the plan. Apparently, getting yourself torched wasn’t inducive for thinking right.
+
+I grimaced. Then I popped my remaining three attribute points into Fortitude, watching my remaining Health increase to 423. Better. Especially since I wasn’t done.
+
+Slowly, I got to my feet. With a reckless jolt, I dislodged the Ghastling that was still stuck by its claws behind my leg armor. Its eyes were clouded over in death.
+
+Nothing moved around me. The world was silent. I tried to talk, then coughed. Then, with a croak, my voice grew in power, reaching my ears with a tinny quality that told me beyond a doubt that something was wrong with my ears. “Is that all you’ve got? I said, dinner’s served. Are you fucking vegetarians?”
+
+I wasn’t making much sense. I didn’t care. Plenty of notifications were blinking at the edge of my vision. No time. No bother. I waved my arms over my head at Nix, showing that I was good for another go.
+
+Before, the Ghastlings had been chomping at the bit to get at me, eager to grab a bite of the ridiculous dumpling running about and teasing them. Now, they absolutely lost it. Whether it was my defiance, my ridiculous taunts, or the sheer number of dead kin that lay around me, the remaining Ghastlings flung themselves at me with unholy abandon. All of them.
+
+I set my feet and growled in response to the snarls I could barely hear beyond the ever-present ringing in my ears. Then I readied myself for round two. Seconds later, the ground between my feet started pulsating a deep, threatening orange again.
+
+A few minutes later, I found myself running. Ghastlings chased me. Fewer of them than I’d expected, but still more than enough to finish me off.
+
+I was done in. My health was below a hundred. My legs were smouldering from the second firebomb. My balls were aching, blistered in ways that should be illegal. My stamina slowly edging below a third of my total. My clothes and armor were an absolute loss. Again. Bad habit, that. My mind was rattled and barely functional.
+
+Nothing in this situation was funny. Yet, I found myself howling with laughter as I ran. I sent crude gestures at the Ghastlings, whooped and hollered as I ran, and the monsters loped, stumbled and limped after me depending on their injuries, while my Wheel of Magic spat damage at them and kept them engaged.
+
+I’d done it. I’d fucking done it!

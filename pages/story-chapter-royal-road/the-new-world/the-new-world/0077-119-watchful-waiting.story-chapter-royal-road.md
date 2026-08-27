@@ -1,0 +1,197 @@
+---
+id: b72c61a9-9004-5e3b-9da9-c28abb6b4575
+page-type-slug: story-chapter-royal-road
+title: "119 Watchful Waiting"
+slug: 0077-119-watchful-waiting
+partOf: the-new-world
+position: 77
+ownLength: 2284
+unit: words
+ownProgress: 2284
+publishedAt: 2018-05-08
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/214091/119-watchful-waiting"
+royalRoadId: "214091"
+markedReadAt: "2026-06-29T21:23:30.166Z"
+---
+
+I crossed my arms, “Where would we fight?”
+
+Yawm lowered his arms, “In an arena I'll create. We won’t have to worry about destroying everything around us either. You won’t have to hold back.”
+
+I frowned, “See, that’s what has me on edge. Why would we want to fight like that while going all out?”
+
+Yawm narrowed an eye and widened the other, as if he was raising an eyebrow,
+
+“To challenge one another, and for the thrill of it.”
+
+I shook my head, “If I’m fighting, it’s for two reasons, to accomplish a goal or to learn. Otherwise it’s pointless.”
+
+Yawm’s chest deflated, “I suppose our time is better spent on other tasks.”
+
+I waved my hands, “Well I’m not saying we can’t, it’s just we have to spar with some goal in mind. I’ll give you an example. Is there any technique or style of fighting you’ve been meaning to practice lately?”
+
+Yawm shook his head, “I rely on the cipher for most of my strength.”
+
+I turned a hand to Yawm, “Then how about learning some primitive human combat? I’m sure you’ll enjoy it.”
+
+Yawm cupped his chin,
+
+“That does sound interesting. It’s always enjoyable to see other styles of fighting as well. Your world is in an interesting transition as well. Your society was just modern enough to apply science to your unarmed combat, yet undeveloped enough that you haven’t forgotten it altogether.”
+
+I raised my hands, “Exactly. After we go through a few rounds of that, we can focus on your techniques.”
+
+Yawm nodded as he lowered his hands, “I have wanted to share a few of the techniques I’ve learned over the years...I’ll do it.”
+
+He spread out his hands, the air around us turning a shade of green.
+
+“It will be more about growth rather than simply destroying one another. I can understand why you prefer this method of battle.”
+
+Yawm clamped his hand together, streams of emerald energy pouring into his palm,
+
+“I’ve much more used to chaotic styles of combat. I learned to fight against beasts that roamed my home world. After that, I mastered my own style from fighting in large scale battles of war. This seems much more small scale, if I’m understanding your reasoning correctly.”
+
+The glowing pool of light in his hands condensed, turning into a brighter and brighter shade of green. After a few more moments, it turned white. It cracked and popped, compacting until the air around it hummed with an anarchic might. Yawm kept adding to the ball, until a tiny shade of red grew around its edges,
+
+“No doubt you’ve never seen the creation of a dungeon core? Allow me to show you then.”
+
+The energy collapsed into itself, creating a spiral of blood. A ring of white circled around the blood, the energy ring buzzing like a hornet’s nest. An eye opened at the center of the blood, and several tendrils of blood reached out. They formed limbs of all shapes and sizes, an amorphous ball of flesh. It was disgusting.
+
+“First is the creation of an eldritch spawned from raw ambient mana.”
+
+The energy ring shrunk like a chain collapsing onto the eldritch. Once the ring touched the eldritch’s skin, the white energy leaked into it. The aberration collapsed into another sphere of radiating power. This time, it was crimson with tiny tendrils fighting for an escape from its prison.
+
+I shook my head, “The process isn’t very pretty, is it?”
+
+Yawm shook his head, “Often times what is most effective is also the ugliest to see.”
+
+Yawm lifted his hand, a fresh dungeon core created. Yawm siphoned mana into it, maintaining its vibrant light. I raised an eyebrow,
+
+“So it requires mana to maintain that...thing?”
+
+Yawm nodded, “It requires an exorbitant quantity, in fact. Most rifts sustain themselves off dimensional fabric disintegrating around them, at least in theory. I offer up the energy stored in atoms around us for the same purposes.”
+
+I narrowed my eyes, “How are you maintaining the core that sustains the rift at the center of Springfield?”
+
+Yawm lifted the core up, clasping his hand around it, “With several mana batteries.”
+
+Whenever Torix and I first met, he mentioned mana batteries. It was when you harvested the mana from something and used it for a spell. In my case, it meant using my flesh and blood. Torix warned me against anyone who uses one. That meant people like Yawm. He slammed the dungeon core onto the ground of his observatory, interrupting my thoughts.
+
+“I assure you, I would never use a sentient as a mana battery. I strictly use eldritch for the distasteful practice.”
+
+Streaks of white cracked along the floor. This white glow spread outwards like a drop of ink bleeding into a page. That white coloration covered everything visible, as if we were floating in the middle of nothing.
+
+A new ground materialized beneath us. Rocks formed, each color like lavender. Vegetation grew after, mushroom, moss, flowers, grass, and roots sprung from the ground. Pillars grew from the ground, each of them symmetrical and alike.
+
+A few seconds passed and trees formed from the pillars, their bark black as charcoal. They branched out with flat, uniform branches, creating a clear line where the canopy started. The green leaves of the trees sprouted out with crystalline and geometric formations. The light bounced off them, creating blotches of rainbow. Yawm glanced around,
+
+“Without Ajax, I cannot control where a core will take us. Some places are hellish fire pits not suited for life. This place, however, is like a forest of glass.”
+
+I nodded, “It’s beautiful.”
+
+A blue sky peaked out from between the leaves of trees. Yawm cupped his chin,
+
+“This world’s atmosphere is blue...A rarity in eldritch worlds. It’s almost always red from my experience.”
+
+I glanced around, finding creatures hiding between the trees. An elk stared at us. Well, it wasn’t really an elk per say. The fur of it was white and thick like a lion’s mane all over its body. The horns of the creature looked like lavender glass. The hooves were the same. It would also be beautiful, if it wasn’t for the large, toothy grin on its face and lack of eyes.
+
+It ruined the aesthetic. Drool leaked from the gaping maw, sharp teeth glistening white like its fur.
+
+Yawm raised a hand, “An interesting twist of biology.”
+
+The air around us turned green. Before Yawm could obliterate the beast, I charged forward. I weaved through the trees between us before reaching a few feet from the creature. It dashed towards me, angling its horns towards me. I stopped myself, my foot dragging through the ground.
+
+Roots tore beneath my heel as I raised a palm. The creature floated upwards, its attack rendered mute by a lack of levity. I turned and grinned at Yawm, “Why kill it so quickly?”
+
+Yawm’s shoulders deflated, “Can you just let me blow things up, just once?”
+
+I laughed a bit before jogging over towards him. After hopping over obsidian roots and lavender stones, I reached Yawm. The creepy ass elk squirmed around in the air, its cries growing shrill and loud. I pulled it between us. I leaned towards the creature before an eyelid formed over its face.
+
+The horns of the creature shimmered, a blast of iridescent light clashing against us. As it did, my magic faltered. The elk landed onto the ground before charging towards Yawm. Yawm raised a hand, clasping his hand as it reached him. The horns crumbled against his might before he gripped the monster.
+
+He pulled it towards him, staring at the monster’s grin,
+
+“Is this oddity suppose to incite fear in us?”
+
+He pulped the monster with a light squeeze, the creature’s skull crushing like a rotten tomatoe.
+
+“It’s a laughable attempt at best.”
+
+He lifted himself up before I raised a palm. The blood and guts of the creatures floated off him and our surroundings. I condensed it along with the corpse into a red ball. Yawm turned towards me,
+
+“You know gravitational magics?”
+
+I nodded my head before pulling the ball of red towards me. My helmet reformed, the malicious grin forming on it. The armor’s mouth opened up and swallowed the corpse in one bite. Yawm took a step back,
+
+“By the name of Baldowah, what are you doing?”
+
+I frowned, “Eating the eldritch.”
+
+Yawm’s hands lowered, “You...you can...eat...the eldritch?”
+
+I shrugged, “Yeah, it’s not that big a deal.”
+
+Yawm shook his head before staring at the ground where the elk died. He grabbed his head with a mammoth hand,
+
+“I...I’ve never seen something assimilate eldritch. Nothing, not even Old Ones.”
+
+I peeled my armor off my face as I spread out my arms, “Come on, it’s nothing to make a big fuss over.”
+
+Yawm shook his head while looking up from the ground. As he stood his full height, his head grazed the low lying leaves of the glass trees,
+
+“Oh it is. No matter how benign they may seem, All eldritch carry what I call malignance. They are beings that hold no rhyme or reason. They infect life around them and turn it into disorder. That is what makes eldritch beings worthy of fearing. It’s their potential to corrupt.”
+
+Yawm pointed at me, “This...armor of yours. It’s immune to that influence, otherwise you’d be a floundering ball of meat by now.”
+
+Yawm shook the hand for emphasis, “I’ve seen warriors that I fear fall to splashes of eldritch blood landing in their mouths and eyes. My entire goal revolves around creating a being that creates harmony between the order of our dimension and the chaos of theirs. You already have it.”
+
+I shook my head, “There’s no harmony here. My armor doesn’t use the eldritch energy as it is. It eats it. There’s nothing of that eldritch remaining.”
+
+Yawm cupped his chin, “Ah...that’s disappointing. It’s not nearly as fascinating if your armor is converting eldritch energy rather than using eldritch energy...On another note of interest, you’d be considered an alpha predator to higher level, sentient eldritch. They may listen to you.”
+
+Beside Yawm, the dungeon core still sapped energy from Yawm.
+
+I scratched my nose, “What makes you think that? All the eldritch I’ve tried talking with are backstabbing, egomaniacal pricks.”
+
+Yawm shrugged, “Even eldritch understand when they're no longer staring at a sheep. You’ve no doubt noticed that lower level eldritch will obey the rift keeper. That’s because they fear being eaten. You can use that same kind of fear to control them.”
+
+Yawm raised a hand. The air around us cracked, turned green, and shifted into his hand. He placed the glowing, green energy ball above the dungeon core. A pillar of white exploded from the core, piercing into the ground and the sky. Once it reached a certain height, it rippled outwards. It looked like a normal dungeon core’s pillar of energy.
+
+“I’ve tried using higher level eldritch as allies. Even if I can obliterate them in a moment, they still won’t listen to me. They may listen to you, given your unique situation. I’d think on it.”
+
+I looked at my armor. Technically it was meant to be the skin of an eldritch boss, even if it turned into dimensional fabric. Maybe having a few eldritch under my command would be nice. Besides, it wouldn’t hurt to try. Alright, that’s bullshit because it could hurt really, really badly, but it was worth a shot.
+
+I wouldn’t let Yawm know my thoughts about it, so I shrugged, “Eh, maybe one day.”
+
+Yawm walked away from the dungeon core, “No doubt you’ve attained several dungeon cores before. Whenever you take one, it transports you back to your world. This core is different. It lacks a fixed point on your old planet. I can return us home with it, but that’s if you don’t absorb the mana from it.”
+
+He rubbed his hands together, “So don’t touch it. Are you ready for the fighting then?”
+
+I walked away from the dungeon core,
+
+“What kind of fighting?”
+
+Yawm glanced up, “Ah yes, we never agreed on the kind of learning we would be focusing on.”
+
+We reached several hundred feet from dungeon core, a gentle wind blowing through the forest. I turned a palm towards Yawm, “I’ve been attempting to master some gravitational magic. If you’d like, I can fight with only that assisting my movements.”
+
+Yawm looked down and nodded, “I’m rather rusty on my hand to hand combat regardless.”
+
+He leaned towards me, his hands opening up beside him. He looked like he was going to dash and claw at me. I raised my hands in my normal stance.
+
+“That’s an interesting stance you’ve taken. Is it to guard your head from damage?”
+
+I shook my head, “It’s more about keeping my strikes grounded. That’s been my biggest problem since I’ve gotten...heavier I guess.”
+
+It was at this point that I noticed just how enormous Yawm was. He was over a head taller than me. His hands were large even for his oversized frame, making his fists bigger than my head. His shoulders were broad, and the muscles under his skin looked ready to tear my arms off.
+
+Yawm opened and closed his hands, an eagerness in his voice,
+
+“Are you ready then, Harbinger?”
+
+I closed my eyes and gulped. It was cliche, but it couldn’t be helped. I was about to get my ass kicked.
+
+“I’m as ready as I’ll ever be.”
+
+Yawm leaned towards the ground. The air sounded like it was breaking before green surrounded us. It coalesced onto Yawm as he growled,
+
+“Let’s start slow then, shall we?”

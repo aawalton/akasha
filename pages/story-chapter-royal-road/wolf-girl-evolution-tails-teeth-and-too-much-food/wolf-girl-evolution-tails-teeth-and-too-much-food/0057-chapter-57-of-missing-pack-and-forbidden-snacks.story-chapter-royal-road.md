@@ -1,0 +1,361 @@
+---
+id: bd2cc727-f5b5-5b85-ab59-fa4fd4dbdcb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57: Of Missing Pack and Forbidden Snacks"
+slug: 0057-chapter-57-of-missing-pack-and-forbidden-snacks
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 57
+ownLength: 1700
+unit: words
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2697059/chapter-57-of-missing-pack-and-forbidden-snacks"
+royalRoadId: "2697059"
+---
+
+PoV Luna
+
+Luna darted through the ruins, tail high, nose low, paws scattering dust in little clouds.
+
+The air was full of smells, mostly old and boring – old stone, moss, strange metal, and then her pack’s faint trail. But no sight of them. No voices. No soup smell either.
+
+She ran another loop, snuffling fast enough to stir tiny whirlwinds.
+
+“Where pack hiding?” she muttered between sniffs. “No play hide and seek without telling Luna!”
+
+The scent lines twisted everywhere, overlapping in messy ways. Boot scuffs. Burnt mana. Syl’s faint tea-sparkle smell. Ray’s sweat and guilt. Trianna’s perfume pretending to be plants. Sepio’s steel scent and Veric’s stubborn soap.
+
+They had been here. Not long ago.
+
+She followed the strongest trail through a broken archway and down a slope where the air grew warmer, heavier with familiar smells – sweat, leather, metal… and something far more important!
+
+Her head shot up. Nose twitched.
+
+Jerky!
+
+The scent struck her like lightning.
+
+Luna froze, ears quivering. Then she crept forward on silent paws, every instinct focused on that blessed smell.
+
+And there, half buried under a fallen stone, she spotted it: a wrapper. Crumpled. Faintly greasy.
+
+“Evidence!” she announced proudly, crouching low over the treasure.
+
+Her tail wagged. Obviously, this was a sign. A gift. A tribute from her beloved, very thoughtful dum-dum pack.
+
+“Good pack,” she said solemnly, bowing her head. “Knows who leads hunt.”
+
+And since no one else was here to claim it…
+
+Mlem.
+
+Mlem mlem.
+
+Mlemmmm.
+
+She licked the wrapper clean until it tasted only of dust and disappointment. Then licked twice more, to make sure.
+
+Satisfied, she flicked her ears and kept following the trail. The scents thickened – fresher, stronger. The air itself hummed faintly now, charged with Syl’s mana.
+
+Blue lines shimmered across the walls ahead, glowing runes crawling like rivers of light through the cracks.
+
+Ah. Magic.
+
+“Not for biting,” Luna whispered to herself, remembering the lecture. “Biting bad. Forbidden. Syl frowns.”
+
+Her tail twitched.
+
+She stared longer. The glow was very shiny.
+
+No. Responsible wolf. Responsible wolf!
+
+She shook her head hard, then pressed her nose to the floor again. The trail went straight through the shimmer, leading to a faintly glowing wall.
+
+She stopped.
+
+Ears tilted. Nose bumped the surface.
+
+Definitely a wall. Smooth, cold, magic-buzzing.
+
+The scent didn’t stop – it vanished into the stone.
+
+Luna blinked.
+
+“Huh?”
+
+She circled once, sniffed again, then pawed the base of the wall. But she found no tasty switches. No clues.
+
+And then–
+
+She heard a sound!
+
+Soft. Muffled. Faintly dum-dum shaped.
+
+Her ears shot straight up.
+
+Voices!
+
+She pressed herself close to the glowing wall, tail wagging wildly.
+
+“Pack?” she barked, sharp and hopeful.
+
+A faint echo answered – blurred words she couldn’t make out.
+
+Luna perked up.
+
+“Pack!”
+
+She leaned closer until her nose smushed against the glow. The magic tingled across her fur, humming through her whiskers.
+
+Definitely them.
+
+She puffed her chest, filled her lungs, and let the ruins know exactly where their missing scout was.
+
+AWOOOOO!
+
+Her howl rolled across the broken halls, bright and proud and echoing for what felt like forever.
+
+Then silence.
+
+And from deep within the stone–
+
+A muffled reply.
+
+Her ears perked higher.
+
+Tail wagged faster.
+
+“Ha! Luna found pack!” she said triumphantly, pressing her nose back to the wall.
+
+Now she only had to figure out how to un-find the wall.
+
+Then as she heard them speaking up louder, she asked a very important question.
+
+“What in the awoo are you doing down under there?” Luna asked, her voice bouncing around the glowing stone wall.
+
+The muffled chaos that followed was almost musical. Clanks. Groans. Dum-dum noises.
+
+“Is that Luna?” Sepio’s voice came through first, tinny and confused. “What is she saying, Syl?”
+
+“I– uh– Luna, could you repeat that?”
+
+“Why in the awoo you trapped under rock?”
+
+Silence.
+
+Then a collective sigh from behind the wall.
+
+“So, what did she say?” Sepio asked again.
+
+“It.. it doesn’t work like that,” Syl said carefully. “I can only translate it properly if I see her body when she talks. But I think she’s confused?”
+
+“Right…”
+
+Trianna’s voice followed, tired and dry.
+
+“Then let’s just hope she understands us.”
+
+“Luna!” Ray shouted. “Can you help us out?”
+
+Luna perked up instantly.
+
+“Help? Yes, of course! …How?”
+
+Behind the wall, muffled words tumbled over each other until Syl’s calm tone cut through again.
+
+“I think the glyphs I used to open the gate – they need constant mana flow to function. But once it falls below a certain threshold, and the flow gets disrupted, the circuit and the gate close back up again–”
+
+Luna’s head tilted. Then tilted further. Her brain fizzled.
+
+Too many long words. Too little sense!
+
+Syl sure liked to talk in riddles that sounded like soup recipes gone wrong.
+
+“Did you get it?” Syl asked hopefully.
+
+“Awoo?” Luna replied with complete sincerity. “(Nope?)”
+
+Trianna groaned.
+
+“Simpler, Syl.”
+
+“Yes, of course.” Syl cleared her throat, the sound oddly dignified for someone apparently buried in rock.
+
+“Luna, can you see the slightly glowing glyphs near the gate?”
+
+Luna squinted at the wall.
+
+Oh! The shiny things again!
+
+“Yip-yep!” she barked proudly.
+
+“Good. Now,” Syl continued slowly, “could you lightly bite at the second, fifth, and the one at the very bottom – and inject mana into them? Pretty please?”
+
+Luna froze.
+
+Wait.
+
+WAIT.
+
+The dum-dums had said no biting shiny things. Many, many times. With serious faces and everything.
+
+And now – NOW – they wanted her to bite them after all?
+
+She grinned wide enough to show every tooth.
+
+“Dum-dums silly rules,” she muttered to herself, tail wagging furiously. “Say no bite, then say bite. Make up mind!”
+
+Still, orders were orders. And orders came with rewards.
+
+Her tongue flicked out.
+
+“Luna found glowy! Gonna bite now!”
+
+“Careful!” Syl warned quickly. “Gentle bites! Just enough to–”
+
+Too late.
+
+Luna’s jaw closed on the first rune with a satisfying crunch. The taste hit her tongue – metal, spice, lightning, and victory.
+
+Blue light surged through the wall. Sparks jumped. The ground shivered under her paws.
+
+“OW– what was that?!” someone yelled from the other side.
+
+Luna shook off a puff of smoke and coughed once.
+
+“Success! I bite good!”
+
+“Luna, not all at once!” Syl cried. “Second, then fifth, then bottom! Gently!”
+
+“Ohhh. Order bites.”
+
+She peered again, tail wagging, ears perked. Counted carefully. Second. Fifth. Bottom.
+
+Nibble. Chomp. Mlem.
+
+It took several bites, two small tongue bzzts, and one very loud “OW-MAGIC!” before Luna got the hang of it.
+
+Mana-biting was strange business. It wasn’t like normal biting, which involved things that tasted nice – spice, meat, dum-dums.
+
+This was more like chewing lightning while trying to remember proper pack tactics! Every spark tingled through her teeth and made her fur puff up in odd places.
+
+Still, she persisted. Apex Predator persistence!
+
+The third bite made the wall shudder.
+
+The fifth bite sent light crawling through the glyphs.
+
+By the seventh, the hum grew so strong her tail wagged in perfect rhythm.
+
+The glyphs flared brighter, humming deep in her chest.
+
+A hiss of stone filled the air. The wall trembled – and began to slide apart.
+
+Dust poured from the edges. Light streamed through the widening gap.
+
+“Ha! Luna open dum-dum door!” she barked proudly, standing tall in the glow. “Luna best key!”
+
+“Ha! Luna wins again!” she barked proudly as the glowing seam widened, the gate folding back on itself in rippling layers of magic and dust.
+
+The others tumbled out in a flurry of noise and relief.
+
+Trianna was first – hair wild, face streaked with dirt, and laughter bubbling in her throat.
+
+“Luna!” she shouted, and before the wolf could dodge, Trianna lunged and wrapped her in a full-body hug. “You’re a lifesaver, furball!”
+
+Luna blinked, tail thumping uncertainly.
+
+“Uh… thanks accepted?”
+
+The head scritches that followed helped clarify the exchange. They were worth it. Very worth it!
+
+She turned her head to the others.
+
+“So, Luna did great? Luna amazing?”
+
+Syl’s tired laugh floated up.
+
+“You’re certainly something.”
+
+Trianna wheezed into her fur.
+
+“She’s a walking lockpick.”
+
+“Walking and wagging,” Ray added.
+
+Luna grinned, tongue lolling.
+
+“Luna smart. Luna helpful. Luna deserve–”
+
+“Jerky?” Syl guessed.
+
+Luna’s eyes lit up.
+
+“Yes! Jerky now!”
+
+A glorious, half-full pouch appeared in Trianna’s hand, and Luna’s eyes locked onto it immediately.
+
+“Here you go.” Trianna confirmed.
+
+The trade was swift and dignified.
+
+“Help fee accepted!” Luna declared proudly around a mouthful, the words muffled by spice and triumph.
+
+Syl was already inspecting the runes, her expression a mix of pride and disbelief. “You might have saved us hours of digging,” she said softly.
+
+Luna wagged.
+
+“Luna smart-bite!”
+
+“Yes,” Syl said dryly, “very… innovative.”
+
+Ray coughed into his hand.
+
+“And destructive.”
+
+Sepio sighed.
+
+“At least effective.”
+
+“Ha!” Luna barked, crumbs dotting her muzzle. “See? Teamwork!”
+
+Outside, the light was shifting, the edges of the ruins glowing gold beneath the falling sun. Dust drifted lazily in the air, and the gate’s magic still pulsed faintly where Luna’s teeth had marked it. The group busied themselves shoring up the entrance – stacking stones, balancing things, checking that it wouldn’t collapse or close again.
+
+Syl finally turned toward Luna, brushing her palms together.
+
+“What did you find while we were trapped?”
+
+Luna licked the last traces of spice from her muzzle.
+
+“Stuff. Holes. Bugs. Awooed at big hole. It awooed back. But lost!”
+
+Syl translated, confused but smiling nonetheless.
+
+Trianna laughed.
+
+“That’s… heh, oddly reassuring.”
+
+“Terrifying, more like,” muttered Ray, earning himself a swift elbow.
+
+They finished up their preparations soon after.
+
+And then they were ready to move again.
+
+Syl adjusted her staff and looked toward the newly opened passage.
+
+“We barely started exploring before the gate shut on us. There’s still much more below.”
+
+Then her gaze softened, resting on Luna.
+
+“You want to come with us this time?”
+
+Luna’s ears perked. She swallowed the final crumb of jerky and gave a single, enthusiastic nod.
+
+“Yip-yep.”
+
+Syl smiled, faint and fond.
+
+“Good. Try not to bite any more doors on the way down.”
+
+Luna grinned wide, tongue flicking over her teeth.
+
+“No promises!”

@@ -1,0 +1,245 @@
+---
+id: 5fcc3ca8-269a-539f-a444-643c4ed760cb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 111. Basic magic for dummies"
+slug: 0030-chapter-111-basic-magic-for-dummies
+partOf: the-calamitous-bob-stubbed
+position: 30
+ownLength: 4704
+unit: words
+ownProgress: 4704
+publishedAt: 2023-03-24
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1147296/chapter-111-basic-magic-for-dummies"
+royalRoadId: "1147296"
+markedReadAt: "2026-06-29T21:15:44.443Z"
+---
+
+“My name is Rakan. That means ‘like a dragon’ in Hallurian, not very fitting right? Oh, so you’re a free candidate as well, right? I think so but those uniforms are hard to read.”
+
+“Yes, I am a free candidate as well. You are Hallurian then? Did you come here recently?”
+
+“Why yes, of course. Well, no, not of course. There are others like me here and some of them are born here! Imagine that. Hallurians born out of Halluria… Oh, yes. I left recently thanks to my sister. She helped me escape. Do you know about casting in my homeland?”
+
+“I think professor Ashra mentioned the women were used as, well, brood mares.”
+
+“Yes. They have it easy!”
+
+Rakan positively melted under Viv’s indignant glare. He might be young but that was not reason to tolerate such bullshit.
+
+“Sorry, I didn’t mean it that way. I mean that male casters become part of the Faceless Order. Hmm. Dedicated to protecting Halluria from the greater dangers. The order lets warlords do their thing and only intervene in times of great crisis. We… sorry, they regulate war, take down dangerous monsters. That sort of thing. Ah, and the finished tattoos give the grandmaster complete control over its subordinates and also we, I mean they are all castrated. No distractions allowed.”
+
+“Oh wow, that sounds bad. And your sister saved you from that?”
+
+“Yes. My sister is a famous huntress. She managed to poison the faceless’ meal and then hunted down the rest of the escort. Seeing her open my cage was like being born again. I was so scared! Anyway, we are here now. Safe. Kind of.”
+
+“The city is not that safe, no.”
+
+Rakan opened the floodgates and he could talk someone’s ear off, not that Viv minded too much. He shared about what Viv recognized to be culture shock, then about the intricacy of the Academy’s wards. He apologized for boring her.
+
+“I am literally here to learn about magic so I have an interest in wards as well, don’t worry,” Viv assured.
+
+“Oh good. Sister complained many times that I was talking too much during our trip. She has no taste for magic. Finds it confusing and dangerous.”
+
+“It can be so. You seem to have a lot of respect for your sister.”
+
+“Mom was often away. She is a huntress as well. Very rare, but we grew up in a small underground village after the last war and… we needed the food.”
+
+Viv nodded just as the teacher entered the classroom, right on time. He was a young man with a neat appearance and traits that might be Baranese. He strode to his pulpit and waved his hand. A 3D display of a basic construct appeared in the air like a hologram. Viv felt life mana from the image over the controlled auras of her classmates.
+
+“Magic is power in its rawest form. It permeates everything and we all pursue it for different reasons. There are many paths to choose from for those of us with the ability to cast. All of them are worthy. Yes, you heard me. Whether you become a healer, a war mage, an enchanter or a builder, whether you serve a nation or an ideal or just your family, I shall consider your pursuit worthy and I shall support you to the best of my abilities… provided you give it your best. Magic does not tolerate mediocrity. I do not tolerate mediocrity. Every year, students underestimate the fundamentals because they see the potential of their electives or their favored hue. My name is Ejir Lessi and let me be perfectly clear. You will not graduate until you pass this class.”
+
+A few people grumbled but Viv judged it was more due to the teacher’s abrasive tone than any real disagreement.
+
+“I am not telling you I won’t let you graduate. I am telling you the Academy will not as per its strictly defined guidelines. When you go out and leave your mark on the world it will be as a hero or a villain or a crafter or whatever you please. It will NOT be as a failure. So pay attention.”
+
+The first class summarized the teacher’s expectations and Viv was surprised to see that she already satisfied most of them. Most, but not all. Her arcane construct skill guided her with the understanding of the few examples of enchantments the professor presented, but most of his explanations were cryptic to her. The other students nodded at his convoluted terms like helix and confluence yet were strangely excited when they learned they would be allowed to actually enchant materials. Viv had practice but no theory.
+
+Viv left the class with Rakan and a list of material to read. Ereska found the pair by ‘happenstance’ and when Viv introduced them, the young man retreated into his shell. Viv wondered how the experienced socialite would react and the answer was: smoothly.
+
+“A pleasure to meet you, Rakan. It is always so good to see talent find their way here,” she told the blushing lad with an amicable smile.
+
+She guided them to the material office which was in the process of refreshing and redistributing copies of the same books. A proud librarian brought a tatty pair and cast a strange spell. The earmarked paper smoothed out in a second while the cover regained some luster. It also activated a hidden construct that turned the diagram covering one of them into an anatomically accurate drawing of a scrotum covered in hair. The librarian swore and dispelled the thing, but not before Viv realized overworked students were the same across the universe, apparently.
+
+The training methods themselves were… disappointing. The Academy proposed two dozen complex shaping exercises. Rakan exclaimed the faceless only ever used seven. Viv had over a hundred and sixty memorized from Solfis’ training. Those differences reflected different approaches on spellcasting.
+
+Rakan had been trained by a group governed by an extremely rigid dogma, which was reflected in their doctrine. Their approach was simplistic. Make big rope. Make small rope. Tie them together. Conversely, they could cast the limited amount of approved spells to perfection. Helock’s approach was more generalist with all graduates expected to be capable at everything. Solfis’ training was Harrak’s elite regimen, a program from a young age designed to turn promising and noble pupils into the greatest archmages, the empire’s main power multiplier. She was simply supposed to excel at everything, going above and beyond to turn technique into art. Viv could twist strands away from her to form complex glyphs, allowing her to throw artillery spells on the fly. She could split them and reform them, dissipate them, make the strands thicker and thinner with the barest effort of will to overcharge her hexes or turn them into more subtle versions of themselves. She had never moved on from practicing because it was fun and relaxing. This part of the fundamentals would be easy, unlike enchantment.
+
+The enchanting part of the curriculum was far too advanced for her, and quite likely unadapted to her instinctive casting. It was slightly frustrating, though Viv didn’t mind too much. The Academy had people who knew where to find the things she would need. She merely had to ask.
+
+“You are quite fast. Usually, nobles wait a few days before trying to snatch talented wild cards. Well done,” Ereska whispered in her ear.
+
+Viv debated denying she was a little manipulative in her approach. Pah, it would be a waste of time.
+
+“Us free candidates have to stick together,” she replied.
+
+It was a good deflection, leading the two women to exchange a complicit smile.
+
+Unaware of his recent recruitment, Rakan was happy to have ‘made a friend’. Viv realized he was only truly comfortable when casting or studying magic. He seemed uncertain of everything else.
+
+Especially etiquette.
+
+Viv found out she was in the same class as him and an eclectic bunch of students this afternoon. She heavily suspected the staff had gathered every magically talented savage and left them in the care of a kind and extremely patient old lady. Unfortunately, they were right. Viv struggled with even the most basic of rules on how to address people from everywhere. Her go to method was to be affluent and powerful, thus forcing them to greet her instead. It seemed the Academy would not accept this as an appropriate reaction.
+
+A shame, really.
+
+So Viv spent an entire afternoon studying the hierarchy of nobility in various countries under the direction of a lady who behaved like she was teaching a subtle science rather than the long litany of land grab and dick waving. She decided that if there was one class she would do the bare minimum to pass in, it would be this one.
+
+“And now that the separatists have won in Enoria, who knows how the situation will evolve?”
+
+Viv knew how she wanted the situation to evolve. Peacefully for her side.
+
+She should consider building a guillotine.
+
+The first day ended and Rakan took his leave to return to his sister. Viv dined with Ereska, receiving some updates on her boyfriend. He had decided to confine himself to his house behind redundant walls of wards for his own safety, which was not tenable in the long run. Fortunately, Solfis had an update as well. He had found a master of disguise.
+
+It was one way to keep Sidjin secure.
+
+Another report confirmed that the sponsors behind Sterek the research thief were indeed the military, a bank, and the construction guild. Solfis would identify who was in charge shortly and make sure Viv knew well in advance if they were going to visit. Casing the place, as it were, proved difficult due to ‘manpower issues’ which Viv interpreted as a lot of burglars having abandoned the city or their mortal coils. Progress on the assassin guild was slow as hell.
+
+Between this and finding a way to convince Elunath to let go, there was simply too much on her plate so she decided to focus on school at least for the first week.
+
+The next morning saw her in her magical military doctrine class. The first month would be spent indoors, but the curriculum indicated there would be a significant involvement with the Helockian military. Viv wondered if it was wise to let the entire continent's heaviest hitters know how you fight but she suspected there were other reasons. The teacher this time was a local, tall and rather handsome in a strict sort of way. Even without the medals pinned to his crimson robe, Viv could have told he was army at one glance. She could have lodged a broom’s handle between his ass cheeks and the twigs would have formed a perfectly aligned little plume over his head. At the exact time of starting, he lifted a hand. The doors slammed into the face of a hurrying man laden with books. An unnatural silence spread over the muttering crowd.
+
+“Good day, students! My name is General Jar Jaratalassi. You may address me as General, General Jaratalassi, or sir. I head the arcane arm of our noble city’s military and have done so over three decades and a dozen campaigns. Here, we will study war. War against powerful monsters, against tides, against your fellow humans. War is the only way for kingdoms to survive, and mages are the ones who wage it. Only by bending the world to our will do we obtain the tool to stop the unstoppable and slay the untouchable, for magic is the realm of the divine and the gods… are not merciful. No matter why you chose to attend this class, war is a serious business that requires absolute commitment. If a builder messes up, you lose a house. If an alchemist messes up, you lose a city district. When a war mage messes up, you lose civilization. That is why there will be a probatory exam a month from now on that will cover the basics of modern doctrine. Those who do not pass will no longer be my students. If you came here just to see what this is all about, I implore you to stop wasting your time and mine. Do not return here.
+
+“Now, even the most idiotic Baranese crab fisher knows one does not just start a genius, that is why conflict has been extensively studied by smarter people than you. You will learn what they achieved and build on this. Your life will depend on it.”
+
+An assistant distributed copies of the curriculum. Behind a short introduction detailing the basic principles of war, the course would revolve around general principles then case studies. She noted in passing that half of them covered the man’s victories which made sense since he would be a direct witness and also because he looked a little arrogant.
+
+The general expanded on the basics for the entire afternoon. The man may look rigid but he had no qualms about ambushing, deceiving and otherwise grabbing every advantage one could get. Viv also flipped pages forward to skim through case studies. They covered a lot of scenarios, with several variations according to landscape and available forces. What finally got her respect was the end of the class. The last two lessons were ‘retreat’ and ‘last stand’.
+
+“Victory is about achieving objectives. Sometimes, the best choice you have is to get yourself and your men away and alive. Sometimes you don’t even have that choice. The measure of a man — or a woman — is made clear when facing the inevitable. I hope you never have to make that choice to place your fate in the hands of the gods, but if you do, face the end with your back straight.“Alright, now that you know the program, a word of warning. Every year I have people who attempt to be ‘creative’ in their problem-solving. Creativity is good for us spellcasters. Some of the most surprising victories came from intelligent adaptation of existing frameworks.”
+
+It might be Viv’s imagination but she thought he might have been glaring at her when saying that.
+
+“The answer that achieved the best results in the past few years has been to remind you that you can only break the rules if you know the rules. Understand what has worked in the past and you will learn much.”
+
+Viv had every intention to do so. It would be interesting to see how ‘modern’ armies fought and compare it to Solfis’ extensive databanks on killing things effectively, not to mention that she had to understand potential foes. If she did survive her stay, there were no doubts Harrak would get in trouble either from revenants or hostile humans. She had to be ready. At the same time, the temptation was strong to import her knowledge of earth here and implement it.
+
+The real issue was adaptation.
+
+Here, armies had medieval levels of technology but also superhuman abilities. Soldiers could move faster and with uncanny coordination. Archers had the range and precision of modern infantrymen, or even snipers. The mages were the most important factor. Even at their most basic level, they were an extremely precise and deadly form of artillery. They could also raise shields, something earth humans had been so far unable to do.
+
+It gave Viv ideas, especially since the Yries had created self-propelled platforms. Something to consider for later.
+
+The teacher for colorless mana was a severe Helockian woman who spent the first class checking people’s proficiency at drawing it, then making a list of the operator runes students would have to learn to make the more complex spells work. Colorless mana relied a lot more on glyphs than the colored ones, which could be altered by the caster’s mindset. It felt a little like programming sometimes, so working on the language was of vital importance.
+
+They work on their first spell: opening a door from afar. Curiously, it did not involve any sort of telekinesis. Viv’s best interpretation was that the spell said: set door status to open. She had to be especially careful not to slam it off its hinges. It still opened an ocean of possibilities.
+
+It was at times like these she missed her online friend Gevaudan. He never played a game he could not break and when he did break them, it was in the most absurd way possible. The canny man would have already thought of two dozen ways to make money or kill stuff. She would just have to try her best.
+
+***
+
+The next class was another elective, magic dueling. The first session took place outside on a square arena next to stone benches. Simple yet sturdy wards were inscribed all around, allowing for the quick raising of shields. There were a lot of prospective students here, including Rakan.
+
+The teacher arrived just on time, flanked by two aides. He was by far the flashiest of all the staff she had met so far. Jewels and bands decorated his crimson robe which was fashionably short over black leather pants. The air sent his elegant curls aflutter, and he was handsome in a distant sort of way. Gloves and an extravagant plumed hat completed the show.
+
+Viv squinted. All of his accessories let out the subtle haze of enchantments. It was a distraction. The man was more protected than a fort gate.
+
+“Explosions! Blasts! Elemental waves! Ah, magical dueling, the most noble of arts. It moves the soul like no others. What can be more entertaining than to watch men and women bend reality to their will to subsume a fellow practitioner. No other spectacle can quite get the blood running and it is also so heavily regulated it might as well be illegal. Welcome, ladies and gentlemen, to the dueling class. My name is professor Dirge. Here is the first lesson.”
+
+Viv put her shield up high above her head in time to catch a rain of frigid water the man had summoned from the feather on his hat. There had been no signs of casting, no mana movement, nothing. Those who were not immediately close and failed to raise their own defenses screamed as they were hailed with freezing liquid. Fortunately, it was harmless and there wasn’t much of it.
+
+“Deception is the name of the game. I see some of you have good reflexes, congratulations. For the others, what is a mage’s greatest resource?”
+
+“Hmm, mana?” someone hazarded.
+
+“No. Time. Give a mage enough time and they will drop a mountain on your head. Duel is what happens when you are not ready. That is why I am always ready,” he said, moving his gloved fingers to show the heavily enchanted fabric.
+
+“By studying dueling magic, you are not just practicing a sport. You are training for those moments where you might be caught off guard and have less than a second to kill an assassin twenty spans away before they lodge an arrow in your lover’s throat. You must learn to cast quickly, reactively, and proactively. You must take down your opponent before he takes you down. This is what dueling must teach you. We will be working on reflexes and intuition more than anything else. We will begin with a simple warm-up.”
+
+This turned out to be more physical than Viv expected. Dirge favored mobility and repositioning, mentioning the many ways mages had to move around and escape. He demonstrated several of them including surfing on controlled water and plain, wind-powered flight. It was quite amazing. The students then split in pairs to practice fast basic spells which had to be blocked by a shield. They wore a protective shield amulet for that.
+
+Rakan asked so Viv practiced with him. He was slow at first, but he learned how to alternate elemental bolts of various colors by the end of the session. He even managed to throw several at once. Little by little, people who were too exhausted and mana-deprived to continue sat on the stone benches to relax. Validating electives was not required to graduate so those who attended out of curiosity could afford to take it slow.
+
+Viv still felt she was wasting her time until Dirge reached her. The teacher had been moving from pair to pair, advising and demonstrating with commitment.
+
+“Black mana is rather fearsome in the hands of a capable caster. Unfortunately…”
+
+“It is rather lethal,” Viv finished.
+
+“Yes. Do you have colorless spells yet?”
+
+“Kinetic energy, mostly. I’ve been using those for the exercises.”
+
+“A good start. There are others like…”
+
+Dirge lifted a hand to his ears. Viv blinked, trying to listen. She then fell to her knees.
+
+“Uuuugh.”
+
+“Offensive sound magic. Subtle and disturbing, very short range however. I believe that between those two, we will have some fun.”
+
+***
+
+The last class was black mana mastery. For this one, Viv joined Professor Ashra in a casting spot. Those were halfway between a conference room and a firing range, with targets available for the most offensive arrays. Viv sat to the side while Ashra presented herself and the purpose of the class.
+
+Few people attended. Viv was not surprised to recognize a witch with dark, curly hair and a couple of people all casting suspicious glances around, all sort of afraid to be here.
+
+“Out of all the colors, black mana is the most underused. Few people have much distribution towards it. It is also associated with the undead and the dark gods, may Maranor preserve us from their taint. For this reason, several cities forbid its practice. I believe this is a mistake, and if you are here, you may feel that as well.”
+
+Ashra stood in her prim dress, her pixie cut as perfect as the day Viv first met her. Her sharp Hallurian traits gave her a severe look that passion made particularly intense.
+
+“Mana itself is neutral, for it is potential, and only actions may make them good or evil. It is our duty as mages… and witches to harness all of our abilities, to not let fear and prejudice bar the way to excellence. If you can unleash the powers of black mana on the foe of humanity, or even just understand it, you will realize that its unmatched destructive potential can make the difference between a disaster and a crushing defeat. One blow is all one need to fell a hill tortoise if that blow penetrates. Today, we shall demonstrate this power and help you familiarize yourself with the black aspect you have in you — if you are not already proficient. My assistant will now demonstrate the protective aspect of a black mana shield first, then we will examine its penetrative properties. Viviane, if you may?”
+
+Viv nodded and walked to the target range. She turned when she was ready. The students grouped to Ashra’s side, eager to see what she would do.
+
+The professor obliged. She summoned a contained ball of destructive red mana, its blaze blinding. Heat traveled in waves across the room and pushed the students away. It was a miniature sun.
+
+“Shield please,”Ashra stated with perfect calm.
+
+Viv raised a normal shield, not the hive one, and waited.
+
+Ashra extended her hand, muttered a few words and let go. A roaring orb of incandescence traveled the room and exploded on Viv’s shield with a resounding boom, the shockwave expanding across the range and setting a nearby target on fire. There was a precipitous dip on Viv’s mana but that was it. She didn’t feel the heat or the shock from inside her protection. It was all negated. Denied. Erased. She let go and found herself standing in a bubble of fresh air surrounded by scorched stone. Some of it still smoked gently.
+
+Viv resisted the urge to brush inexistant dust away from her shoulder. There was no need. The students’ eyes were wide as saucers.
+
+“Next, we will demonstrate the penetration of black mana. Please form two lines. We will ask you to raise shields as soon as you are first in line.”
+
+With a mix of eagerness and stress, the students made their best efforts. Viv was impressed by the variety proposed for individual shields. Stone shields, fire shields, colorless ones. A tall boy even raised an ice shield with a cracked appearance that regrew when it was damaged. On every occasion, Viv used a fraction of what they had expended to slip a strand of destructive mana through what she identified as the weak spots. Her targets yelped at the violation though she never endangered them.
+
+The point of the exercise was not to show the teachers could penetrate. The students were all late second step and could not hope to stop her. The point was to demonstrate she could do so with great efficiency and without shattering the shield itself. From their amazed expression, it was working. That is, until the second to last. It was the witch and she looked at Viv with a defiant expression… then she raised a black shield.
+
+It was decent.
+
+Viv speared right in the middle since there was no need for subtlety here, then a battle of intent took place inside the construct. Viv had experience subsuming undead and she was the attacker. She deactivated part of the shield before the witch even knew to contest her.
+
+“That’s cheating!” the young woman protested.
+
+“No,” Viv said.
+
+She yoinked the entire shield. The witch gasped.
+
+“This is cheating.”
+
+A small wave of ‘oohs’ and ‘aahs’ greeted the demonstration. Viv felt a little smug. She complimented the girl on her good control and let her leave the queue. She immediately realized something was wrong with the last one.
+
+He was a muscular young man with a disapproving expression and a symbol of Neriad pinned to his collar. He frowned in disapproval and raised a shield. This one was life and just a little divine energy. Viv recognized the valorous aura of the pantheon’s least annoying god.
+
+Everyone watched with attention. Life and black were almost antithetic, though not quite.
+
+Viv made her strand thicker and prayed a quick apology to the god of righteous combat. Her spell slipped into the other with just as much ease. The two constructs fought for dominance but Viv’s spell was much more concentrated. The young man pushed more energy into the construct to no avail. Eventually, he sulkily surrendered.“I’ve fought for the temple, you know?” Viv asked in the ensuing silence. “Several times in fact. I’ve even been healed by a bishop for services rendered. Neriad lets us choose how we defend his ideals. Black mana is one more tool in his arsenal.”
+
+“The Holy City… disapproves of black mana practitioners.”
+
+Viv assumed he was referring to Mornyr where most religions had their seat. She hadn’t heard about those rules.
+
+“You’re in Helock now, here to learn. It’s up to you.”
+
+She shrugged.
+
+The young man glared until Ashra cleared her throat. He regained his place in the group without a word and Viv assumed it meant he would consider his options.
+
+The rest of the session was dedicated to channeling. Most of the students here had made little efforts trying to harness this color, making the very act of drawing it delicate. Their black distribution was also quite low so it took a lot of effort to coax the reluctant strands out. Nevertheless, all of them had achieved some results before the class ended. Contrary to many other classes, black mana only had very little material to read as homework. The students were asked to practice half an hour per day instead. They left soon after with excited whispers. Viv stayed behind and watched them go.
+
+“That went much better than I expected,” Ashra said after a small break.
+
+“Well, they are quite young so we can achieve much by respecting the basic rules of credibility.”
+
+“And what would that be?”
+
+“We just had to look cool,” Viv said, using a local slang term.
+
+Ashra nodded to herself very slowly, her back ramrod straight.
+
+“You are correct. We shall endeavor to make black mana exceedingly cool.”

@@ -1,0 +1,369 @@
+---
+id: 51a3891a-73be-57c4-9396-3d7be56dc8e0
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED NINETY-EIGHT: United"
+slug: 0200-one-hundred-ninety-eight-united
+partOf: super-supportive
+position: 200
+ownLength: 4044
+unit: words
+publishedAt: 2025-01-16
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2012501/one-hundred-ninety-eight-united"
+royalRoadId: "2012501"
+---
+
+198
+
+******
+
+“Torsten, I want to thank you for warning me about the dangers of the Mind Writher. I didn’t let it kill me, as you advised.” Aparna, grinning, held the unitard she’d been wearing over an arm as she followed Torsten to the cleaning cabinets in one corner of the MPE faculty lounge.
+
+“What’s this?” Morrison Waker, in Little Snake form, swiped away the footage he’d been viewing. “Did Writher get a special mention when you were all havin’ fun without me earlier?”
+
+“He just mentioned that it was capable of moving very quickly and unpredictably,” Hale said from her seat at the small table across from Morrison. She looked toward her husband, who was flipping through a magazine that had coffee rings from at least two different cups on the cover. “He was concerned it might catch us by surprise. I wasn’t caught by surprise, were you?”
+
+“No! Thanks to the warning, I was on my guard against that dangerous Meister. Scary student, you have there.” He paused. “Lexi could even kill an instructor with that thing.”
+
+The Zhang-Demirs’ straight faces fell apart as soon as Morrison guffawed. Aparna was cackling while she hung up the cuffs that went with the suit.
+
+“I don’t suppose it would help my cause to point out that there were a few more students than Lexi involved?”
+
+“That’s right,” said Aparna. “So many students united for a common goal, willing to sacrifice themselves…what horrors do you commit during your regular classes to provoke such a response?”
+
+“There was so much cheering when he died, wasn’t there?”
+
+“The smiles on their young faces. Pure delight.”
+
+“The way the girl with the spear stabbed you a couple of extra times to make sure you were really gone!”
+
+“Can’t be too cautions when you’re facin’ true evil.”
+
+Torsten shut the cabinet door. “They did well for what was more of a timed pile-on than a coordinated assault.”
+
+“Maybe it was coordinated. Kids could’ve been plannin’ it all period.”
+
+Torsten’s eyes crinkled at the corners. “Good point. We should have all the participants submit write-ups on it, so we’ll know exactly what they were thinking.”
+
+“Not a bad idea…wait, I’m readin’ all the written work this week!”
+
+“I do seem to recall that,” Torsten said. “Now that you mention it.”
+
+“Assigning homework to punish your students and your fellow instructors,” said Aparna. “I am no longer surprised those girls were bold enough to carry you to one of my Shock Boxes and throw you in.”
+
+Torsten blinked. “I think they were hoping a body would spring the trap and let them cross.”
+
+“I’m sure that’s the excuse they’ll use in their homework.”
+
+******
+
+******
+
+The volunteers had left, the gym had been cleared for the next users, and replacements for damaged elemental weights had been added to the daily inventory request list, when the two instructors finally left the building together. Torsten stopped on the way out to hold the door for a group of four teenagers. The two of them who were still in school uniforms at this late hour wore third-year pins on their jackets.
+
+“Ready for your graduation tests?” he asked them.
+
+Two of them said no in laughing tones; one said yes. A short girl with a weathervane tattooed on her arm shook her head. “I still have one more quarter to go, Instructor.”
+
+“You just missed Galecourse,” Torsten said.
+
+“She was here?!”
+
+“She’ll be back on Friday. And she’s on our list of volunteers who are offering one-on-one lessons…you’ve heard about that? She’s only donating a few hours, but I thought you’d like to know. I’m aware you’re a fan.”
+
+The students headed inside, the girl groaning about her chances of earning a slot with Galecourse before someone else snapped it up, and Torsten let the door close behind them.
+
+“Melanie did take off in a hurry,” said Morrison. “Wanted to get some quality time in with Vandy, maybe? I don’t see how her mom and dad manage heroing for two cities each and parenting here on Anesidora.”
+
+“I think her grandparents are very involved. Morrison, have you got a good read on Alden Thorn’s skill?”
+
+“Can’t say I do! But I like the ones that take a little more figurin’ out.”
+
+Torsten slid his hands into the pockets of the coat he wore over his button-down shirt. “It was more resistance than I was expecting from him, especially at the end of class.”
+
+“Think there’s a clue there about what makes the skill tick? Or what makes the user tick along with it?”
+
+“Possibly. It was just worth noting.”
+
+They walked down a lamplit pathway, heading toward the nearby street that marked the edge of campus. A stiff breeze tousled Morrison’s shaggy hair.
+
+Torsten said, “I admit I have a preference for the more familiar or obvious abilities. Many students who receive my advice about which talents to affix seem to think I’m on a mission to make them boring. It’s challenging to explain to a teenager that boring strengths aren’t going to seem boring at all when you actually need to use them.
+
+“The lists of options the System provides contain undiscovered trinkets and traps in addition to hidden treasures. Every year we uncover more of the latter, we negotiate with the Triplanets for improvements, and we learn how to use what we already have better. Why be the first through the gate at sixteen? If the skill that’s tempting you is good, if the spell is world-changing, you’ll hear about it one day and you can make acquiring it your goal then.”
+
+“You definitely can’t apply that to the first choice, though,” Morrison said. “Look at Kon! Look at Søren! Look at Alden givin’ you a little surprise. Great class today, wasn’t it?”
+
+“I’m happy to see them finding themselves, recovering from the ordeal of the past days, and losing the tensions the obstacle course brought out. Some of the tensions…what exactly did Winston do to infuriate Søren?”
+
+“Guess you missed it while you were occupied. I’ll give you a run-down of what I saw. Rebecca gave a speech that was even more illuminatin’ if you want the full picture.”
+
+Torsten sighed.
+
+“So weary! Come with me. I know a place that’ll knock the worst parts of the day off us both.”
+
+“I should—”
+
+“Come on. We don’t spend enough time together outside of work, do we? I’ll tell you about some of my funnier moments that the PR people hid from the public. Ha! There. You look tempted.”
+
+“I guess I could spare some time.”
+
+“This way.” Morrison turned down the street. “I do see your point about the mystery talents, but I think some people thrive on the idea of trailblazin’.”
+
+“Too often trailblazers end up blazing their way into trouble or rushing down no path at all,” Torsten replied. “Anyway, let’s ask Alden if he knows yet how different kinds of attacks affect his time to skill fatigue. We might find something there. I have a lot of thinking to do about several of the students. Søren’s going to need more help. For now, let’s leave work at work.”
+
+“Sure you’re not just afraid I’m going to bring up the fact that the kids banded together to attack y—”
+
+“You promised me stories about your own errors.”
+
+“Fair enough. Second year on the job in Houston. I’m feelin’ unbeatable, and then this little old Object Shaper comes along and hoists me up by my blue jeans… ”
+
+They entered North of North together, and only a few short minutes later, Torsten’s eyes were boring holes into Morrison as they stood outside the recovery sauna.
+
+“I swear I didn’t know,” Morrison whispered, looking through the glass door.
+
+“One of them just happens to be the student who killed me earlier,” Torsten said dryly.
+
+“These kids have more expensive after-school habits than I did when I was their age. Come on before they see us if you don’t want to sit with—”
+
+“They’re waving,” Torsten said darkly.
+
+“Wave back and keep walkin’?”
+
+******
+
+******
+
+[Haoyu:  They leave! But we waved!]
+
+[Lexi:  They probably have other plans.]
+
+[Haoyu:  Stop using fingers. Moooo.]
+
+Between them, Alden laughed softly then went back to watching Søren fry Winston.
+
+******
+
+******
+
+“I can’t believe Kon and Everly didn’t come with us,” Haoyu said a while later.
+
+The three roommates had missed their dining window at the school cafeteria, which hadn’t gone back to the original schedule and convenient drone deliveries yet, so they’d opted for free smoothies and expensive salads here at North of North. Sharing a table beside the smoothie bar and listening to the blenders whir, they chewed on mixed greens artfully sprinkled with a medley of health food.
+
+Haoyu slurped on a chocolate peanut butter drink while he talked. “What could be better than a recovery sauna homework experience with the three of us?”
+
+“Kon even complained about not being invited.” The salad on the table in front of Alden was disappearing at a shocking rate. The combo of gym and recovery sauna always made him ravenous. He only had a few more walnuts and arugula leaves to go, and he was considering ordering another. “And then they said no thanks.”
+
+“They wanted a rain check. I say we don’t give them one,” Haoyu said.
+
+“How are you going to threaten me with Kon if he won’t do things with you?” Lexi looked smug.
+
+“Don’t worry. I’ll threaten to let him in our room. He’ll always go for that.”
+
+Lexi reached for his own smoothie, which was so full of kale powder that it was the color of grass, but he paused before sipping on it. “There’s supposed to be rain in half an hour. Do you need to fly to…the place you’ve been going sometimes, Alden? Tonight? That could be hard.”
+
+Surprised by the concern, and a little touched, Alden swallowed his last walnut and shook his head. “I’m at the dorms tonight. Did you check the weather for me?”
+
+“I thought I heard thunder while we were leaving the showers, so I looked.”
+
+“It would suck to fly across the ocean in a storm, so thanks for that.”
+
+“Are you done going there so much? Or not?”
+
+Alden sat back, his own raspberry smoothie cold in his hand. He didn’t really think Lexi—Mr. Keep Your Weirdness to Yourself—was being nosey.
+
+He probably just wants fewer surprises. Like the whole island suddenly delivering Thanksgiving food to our apartment. Or like me and Haoyu suddenly delivering a knight to our apartment.
+
+“It’s been a busy week,” said Alden. “You’re a good roommate.”
+
+Lexi froze.
+
+Haoyu started snickering.
+
+“Why are you saying that?” Lexi asked.
+
+“Saying what?”
+
+“What’s going to happen?”
+
+“Nothing! It was a compliment! Gratitude. I was being grateful to you.”
+
+Before he could explain himself more, Haoyu lost it and blew smoothie out of his nose.
+
+Lexi and Alden both stared at him while he tried to clean himself and the table with napkins. “Ugh! I’m sorry!”
+
+“Why did you keep drinking while you laughed?” asked Lexi.
+
+“It tasted good! Gross, it’s on my salad. Did I get any on yours? I’ll buy you another.”
+
+“It’s fine. Don’t wipe so hard! You’re a Brute. You’ll damage the table.”
+
+Alden grabbed some napkins, but they had it cleaned up before he could help.
+
+“To answer your question,” he said, as he took his seat again, “I’ll be going there sometimes. A few more trips at least.”
+
+Explaining out loud wasn’t his preference, but he did think the two of them had earned an explanation beyond what he’d given them so far.
+
+[Alden:  I have an open invitation to go to Matadero. While Esh-erdi’s in residence. He thinks there’s nothing strange about giving me access to the cube. I’m visiting a couple of people there when I can, and I’m teleporting from there to the Triplanets sometimes. To see my friend and a healer.]
+
+He shrugged. “I also still have to get a snake back from Esh-erdi’s room.”
+
+“I heard the way he talked about that,” said Haoyu. “He’s making friends with it. I think you’ll have to fight him for it.”
+
+“In that case, I will not be getting the snake back.”
+
+“Smart Rabbit. Choose life.”
+
+Alden was glad Haoyu had gotten to know Esh-erdi a little. “I’ll be sleeping at the dorms tonight and probably tomorrow night. Two perfectly ordinary school days in a row.”
+
+“When you say that, I feel like you’re jinxing yourself. And us,” Lexi muttered.
+
+“I’m not.”
+
+“This has been one of the least ordinary months of my life.”
+
+“That’s not Alden’s fault,” Haoyu pointed out. “Most of the stuff that’s gone wrong has been because of the flood. I obviously should have thrown more coins into the mall fountain for luck after our class dinner.”
+
+“Has your family been doing all right?” Alden asked Lexi. “I can take you to see them again whenever.”
+
+“They’re fine. The ferry is nice, but if I need your… ”
+
+“Nine-edged Son Whose Own Mother Forsakes Him,” Alden said.
+
+“Yes. That. Him? I’ll ask.”
+
+They spent the rest of their meal discussing class—what they would do on Friday, whether or not they wanted to try to schedule a planning meeting tomorrow with Kon and Everly, if they ought to swap teams.
+
+“I think our roles would be similar on any good team.” Haoyu was giving his empty cup a disappointed look. “If I was on a team with three or four weak members…you know what I mean. Not weak, but weak at this. In that situation, I’d have more work to do, but I didn’t feel like our performance was so good today that there was nothing to improve within our own team. So I think it would be better, for me, to run it with you guys again.”
+
+“There’s also the fact that we’ve all won one now, and nobody else has,” Alden said. “If we’re all together, it’s fine to try out some crazier stuff even on early runs, but other teams are going to be more focused on perfecting the strategies they had at the end of class today. They’ll be more risk-averse? I would think so anyway.”
+
+“You want to do something crazier than attacking Instructor Klein and then flying over the finish line strapped to some garbage?” Lexi asked.
+
+“Not for the purpose of being crazy. But I wouldn’t mind making some less obvious choices. Trying to catch Instructor Waker’s throws, helping Everly make an ice road—”
+
+“She seriously wanted to try that? I thought she was kidding,” said Haoyu.
+
+“We can also let Kon get kidnapped instead of you, and then he can bring himself back to us really fast. All he needs is a harness or something.”
+
+“He’ll definitely die.” Lexi sounded grim.
+
+“That’s what the gym is for,” Haoyu said. “And if you two are on the same team, Writher will work even better. Sometimes. Don’t glare. We all know what we saw.”
+
+“So all of us will do it together again unless Everly and Kon make other plans.” Alden was satisfied with that.
+
+“Do you two know who you want to have a personal training session with yet?” Haoyu asked.
+
+They had already looked at the list; Kon had been enthusing over the names on it by the time they made it into the MPE locker room. The selection of volunteers was impressive. Many famous alumni were back on Anesidora, either because they had personal matters to deal with after the floods or because they’d been called in to assist. And there were plenty of unfamiliar names, too.
+
+Their class wasn’t the very first to have access to the volunteers. That was obvious because some slots were already taken. But their team was among the first to choose from the looks of it, and Alden was glad for that.
+
+He was aiming for a narrow range of time slots. He wanted to get the extra practice in soon, not sometime during the December break when most of the sessions would be held. And he needed to dodge not only his own class schedule, but also Stuart’s free time schedule. If the Primary’s son was available to shoot spells at him and provide information, Alden didn’t want to be here on Earth trying to explain what a bokabv was to a teacher instead.
+
+And he’d obviously need to leave plenty of time for the next appointment with Yenu-pezth, enough to allow for whatever mood he’d be in after steeping on the inward path. His first appointment had ended up keeping him on Artona I for a whole extra day. Sometimes after mind healing, you had epiphanies about your corrupted moon survival capabilities. Such things had to be accounted for.
+
+“I’m thinking of choosing Rose Ofori. I don’t know much about her, but she has a weapon that phases like Writher. Getting advice on that specifically might be helpful.”
+
+“I thought about choosing Principal Saleh because she phases,” said Alden.
+
+Lexi looked surprised.
+
+“I like that she’s unpredictable. And I don’t know how her abilities would work against my shield,” Alden explained. Ghosten had a famously mercurial fighting style, which would feel like practicing against something chaotic, maybe? “But then I realized all of these trained high-ranks are going to be unpredictable enough for my level of amateur, so I’m probably going to request Instructor Waker. Tomorrow night at ten.
+
+All of the slots available between now and break were on weekends or at painful hours.
+
+“So fast!” said Haoyu. “It’s going to take me the rest of the week to decide. There are too many to pick from.”
+
+“If you wait, you’ll have the opposite problem,” Lexi warned. “They must be offering this as a prize in all the gym classes. I’m sure they want as many students as possible to take advantage of it.”
+
+He scooted his chair back and reached for the black backpack he’d left under the table. “Let’s go before it starts raining.”
+
+They left and were soon crossing the street with a uni girl who was humming a song that could have been either “Twinkle, Twinkle, Little Star” or “Stinky, Stinky, Gokoratch”.
+
+As the first drops of rain fell, they passed through the sliding doors into their dormitory and were greeted by warm air, the smell of garlic from whatever the last cooking endeavor in the community kitchen had been, and a rowdy group of guys who were playing a game that involved putting a T-shirt on as fast as possible, then taking it off again to pass it to the next person. Two teams were racing, and judging by the pile of shredded fabric under one of the chairs, part of the challenge was striking a balance between dressing yourself at super speed without going too far and ripping your team’s shirt like tissue paper.
+
+“That looks like fun.” Haoyu was moving his arms as if he were imagining himself doing it.
+
+Lexi’s mouth tightened, and he turned to head up the stairs.
+
+Alden just assumed he disapproved of wasting perfectly good shirts until Haoyu spoke up as they climbed toward the second floor. “Never mind. Garsy was down there. That automatically makes the game less fun.”
+
+“You don’t have to do that,” Lexi said.
+
+“Who’s Garsy?” Alden asked.
+
+“The really ugly one,” Haoyu said.
+
+Lexi let out a tiny laugh that made Alden think Haoyu was probably joking. He hadn’t noticed anyone downstairs who looked remarkably below average.
+
+“Just a former classmate,” said Lexi. “We spent a lot of time together in his last year at Paragon because we both wanted to be Meisters. Then, we didn’t spend time together anymore.”
+
+“Oh,” said Alden.
+
+“He got S. And turned into an esshole overnight,” said Haoyu. “As the weak-willed do.”
+
+“Esshole is a new one for me.”
+
+“It is? I should have said ‘Anesidora social dynamic’ first! If you get S, and suddenly you’re too important for your old friends, you’re an esshole.”
+
+Lexi looked at them. “Why are you two having this conversation out loud? You usually use mental texting for talking behind peoples’ backs, don’t you?”
+
+“Some people deserve to be talked about out loud,” Haoyu announced. “Do you guys mind if my parents come over after class on Friday? For dinner. I want to cook something for them, and Mom’s going to be gone for a while next month.”
+
+“Of course I don’t mind,” said Alden. “By the way, I wash dishes magically now. And they come out definitely, mostly clean enough to eat off of.”
+
+“That’s so unexpectedly Rabbit of you.” Haoyu sprang ahead of Lexi so that he could open the door.
+
+It had just shut behind them, and they were sliding off their shoes, when a splashing sound made Alden and Haoyu pause. Lexi exhaled sharply, and stalked toward the bathroom, dropping his backpack on the kitchen table along the way.
+
+Alden and Haoyu followed a few steps behind.
+
+“Kon!” Lexi yelled, throwing open the bathroom door. “I don’t care if your room came with an extra toilet instead of a tub!”
+
+Alden heard the curtain around the tub being yanked aside.
+
+“That doesn’t mean you can help yourself to owaghh! <<Fuck!>> Sorry!”
+
+The Meister leaped backward out of the bathroom, almost into the two of them.
+
+“Good evening, Lexi,” called a familiar voice. “Come in. Open the curtain and glare down at me while I eat ramen in the tub. That won’t be uncomfortable for either of us.”
+
+“Lute!” said Alden.
+
+“Van Nutmeg!” Haoyu exclaimed. “You’re back.”
+
+There was another splash and a slurping sound. “Don’t tell people I’m back. I’m cutting class until at least Monday. I just couldn’t eat another bite of wevvi. I saw one coming, and I thought I’d take my chances here in my homeland, which my family almost destroyed. Did destroy. A significant portion of it is destroyed. Did you guys know that the disposable ramen bowls float?”
+
+******
+
+Alden was in his pajamas on the sofa by the time Lute finished his bath and came into the living room in his robe. His hair was brown. It did nothing to disguise his appearance.
+
+“Nobody came by and asked for me over the past few days, did they?” Lute wandered over to study the bromeliad while Haoyu flicked water on it from a cup. “Nobody mentioned me ruining anything during the floods?”
+
+“Nobody in their right mind thinks you were involved with SAL or the Submerger or any of it,” Alden said, adjusting his tablet screen’s brightness.
+
+“I meant more like damage to a specific section of highway, a lamppost, some of the Span… And that railing Cyril had belted himself to. And a fence that was impeding access to a place it really shouldn’t have been impeding access to during a crisis, you know?”
+
+Haoyu stopped sprinkling his plant. “Did you break a bunch of stuff saving your father?”
+
+Lute looked thoughtful. “If a person just bumps into something or hops off of it, and damage occurs, did the person really break the object? Or did the object fail to do its job?”
+
+“It’s the first one,” said Haoyu.
+
+“Yeah, it is,” Alden agreed.
+
+“I should ask Lexi when he gets in here. What are you guys doing tonight?”
+
+“Homework, then sleep.”
+
+“Watching the first episode of Kwoo-pak, and then sleeping off the side effects of <<My Body Becomes My Assistant’s>> worse half.”
+
+Lexi came down the hall with Writher in one hand and a notebook in the other. He held them both up as if that was enough of an answer.
+
+“We’re all together,” said Haoyu. “The island is healing.”
+
+Lute watched him for a second. “Why don’t you just carry the plant to the shower and mist it?”
+
+Haoyu paused with his fingers in the water glass, then he flicked them in Lute’s face.
+
+Alden smiled at the sounds of the two of them playing around, and of Lexi sighing as he took his preferred armchair. Then, he put on his headphones and watched the Goodchild Klee-pak travel with his parents to a summonarium for the first time, on his way to meet his older, more experienced cousin Kwoo.
+
+******

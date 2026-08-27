@@ -1,0 +1,317 @@
+---
+id: 1bb668c4-cd01-569e-8026-172e783bce0d
+page-type-slug: story-chapter-royal-road
+title: "NINE: Gorgon"
+slug: 0009-nine-gorgon
+partOf: super-supportive
+position: 9
+ownLength: 3129
+unit: words
+publishedAt: 2023-02-15
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1114911/nine-gorgon"
+royalRoadId: "1114911"
+---
+
+It was nearly eleven when Alden arrived in front of the consulate building. The street was quiet, which only made the angry sounds coming from the cat carrier in his hand more disturbing. Victor didn’t do confinement, and he wanted everyone in the neighborhood to know it.
+
+In Alden’s other hand, he carried a pair of overstuffed grocery bags. His pillow was tucked under his arm.
+
+I’ve completely lost it, he thought as he stared up at the dark building. I’m behaving like a drunk person, and I don’t even have the excuse of being one.
+
+Alden had always been a planner. He saw now that this was not an optional state of being for him, since without a plan he just…did random insane things.
+
+The consulate was closed. Obviously. Because there was literally no reason for anyone to hang out there in the middle of the night. But there was something that looked like an intercom on the gate.
+
+I came all the way here, so I might as well.
+
+He maneuvered the cat carrier toward the intercom and managed to press the button with a knuckle while Victor hissed and yowled. There was no sound or blinking light to indicate whether or not the device was working.
+
+“Hello?” he said. “This is Alden.”
+
+There was a long pause before any response came.
+
+“I see you on the monitors.” It was Gorgon’s voice.
+
+“Great! Can I come in?”
+
+“The building is closed until nine AM tomorrow.”
+
+“Don’t be like that, Gorgon. I can’t sleep. And you said you don’t sleep much. We can hang out. Like a slumber party without slumber. It’ll probably be the most exciting thing that ever happened at this place.”
+
+“I am sure your family is worried about you, Alden. Please go home.”
+
+“And I am sure my only family member is on a spur-of-the-moment roadtrip to California with a cat-food thief. There’s not a single person in the world who will miss me tonight.”
+
+The intercom went silent again.
+
+When it came back on, there was a dramatic sigh. “That’s the most depressing thing I’ve heard in months. Fine. Come. But I just mopped the floors. Leave your shoes at the door.”
+
+A moment later, there was a beep, and the black metal gate rolled back on its tracks. Alden slipped inside, feeling childishly excited to be doing something a bit illicit in Artonan territory. As he passed by the flagpoles,  he saw one of the lobby lights flicker on.
+
+He headed in, and Gorgon met him. The alien was standing less than a foot from the door, his golden bindings trailing through the air behind him like the tendrils of a jellyfish until they disappeared behind the lobby desk.
+
+“Shoes,” he said, pointing at Alden’s feet like they were on the verge of committing a terrible crime.
+
+“Yes, sir!” Alden grinned at him and bent to untie his sneakers.
+
+“Just so we’re clear, this ‘slumber party’ will not be the most exciting thing that ever happened to the consulate. I’ve dealt with two attempted bombings and a handful of enraged superhumans over the years.”
+
+“Oh…well, I did bring snacks?”
+
+Gorgon’s head turned to the cat carrier. “No, thank you.”
+
+“Not the cat!” Alden squawked. “This is Victor! He’s my pet…more like a roommate, really. Anyway, he’s a party guest not a menu item.”
+
+“Are the noises he’s making signs of enthusiasm?”
+
+“Rage,” Alden said. “But it’s fine. He’ll be happy once I set him free.”
+
+A second passed, and Gorgon didn’t say, Don’t you dare set that beast loose! So Alden unlatched the door to the carrier, and the tomcat rocketed out. He skidded across the freshly mopped terrazzo and pelted under a modern leather armchair near one of the windows.
+
+The alien watched with apparent interest.
+
+“Soooo…what were you going to do for the rest of the night?” Alden asked, standing up in his socks to look around the dimly lit lobby. “Anything I can help with?”
+
+“I was planning to watch the monitors. And read a magazine someone left in the men’s restroom. And sanitize the buttons in the elevator.”
+
+“All excellent things.” Alden frowned. “But I didn’t know you could go inside the elevators. I’ve never seen you leave the lobby.”
+
+“I can use all of the building’s public areas. But my bindings do not allow living things to pass through them, so it becomes a tripping hazard if I leave the desk when the facility is crowded.”
+
+“Makes sense. Let’s go ride the elevator up and down and eat junk food.”
+
+“Why?” Gorgon asked.
+
+Alden shrugged. “Why not? I promise not to trip.”
+
+#
+
+They wandered the building together, peering into classrooms and occasionally cleaning random things. Gorgon didn’t seem to have much of a method when it came to janitorial work. He just occasionally stopped and sprayed something with sanitizer or glass cleaner and wiped it off.
+
+He did pay unusual attention to the windows, though.
+
+That’s as close as he can get to outside, Alden realized.
+
+“Chips and salsa?” he asked as they finally made it back down to the lobby. He dug into his grocery bag and passed a pack of blue corn chips and a jar with a jalapeño in sunglasses on it to Gorgon, who took both with a nod.
+
+The lobby had a pretty nice vibe at night. The LEDs were sparkling on the ceiling. A lone cricket was chirping from a pot that held a fiddle-leaf fig tree. And Victor was prowling around one of the seating areas.
+
+Gorgon beelined for the cat and chose the seat nearest it, watching the feline with what Alden guessed might be curiosity as he cracked the lid on the salsa jar.
+
+The cat didn’t seem to mind the alien at all. That was a surprise. If Alden had taken a minute to think about it before he set off on this spontaneous adventure, he would have left Victor at home. It only seemed natural that an animal would be leery of a spiky creature from another dimension.
+
+But Victor just sniffed Gorgon’s ankles and moved on. Alden crouched down toward the cat, and Victor raised his hackles.
+
+“He has not forgiven you for confining him,” Gorgon said.
+
+“Yeah, I know. He’s not used to the carrier.” Alden had only stuffed the half-feral cat into the thing once before, to take him to the vet.
+
+He reached into his bag for a can of tuna. “Peace offering?” he asked, levering up the metal tab and peeling the top back. “It’s your favorite.”
+
+Victor padded a step closer.
+
+“See? He’s a pretty forgiving du—OW! Shit! Victor, you brat!”
+
+The cat had lunged, quick as lightning, and delivered a combo attack of bites and scratches to Alden’s right hand so fast that he barely felt them before the furry villain streaked away to stand under Gorgon’s chair.
+
+“What the heck, man?” Alden said in a wounded voice, looking down at his hand. There was a burning claw mark welling with red droplets and at least four puncture wounds bleeding freely. “I bought you the good tuna.”
+
+He held the injured hand up, looking around the lobby as if he expected to find a first aid kit lying around.
+
+A weird noise caught his attention, and he whipped back around to watch the cat in case it was planning another attack. But the odd repetitive hissing sound was coming from Gorgon. His body was shaking, thin gray arms wrapped around the chip bag.
+
+For half a second, Alden thought the alien might be going into convulsions, and then he realized…
+
+“Are you laughing at me?”
+
+“Yes!” Gorgon said, between disturbing hisses of merriment. “It was obvious the cat would do that, but you did not know it!”
+
+“Gorgon, I’m dripping blood on your floor. It’s not funny.” But he heard the amusement in his own voice. He’d never seen Gorgon laugh. It looked bizarre, but it was also a relief to know that the alien did have a sense of humor.
+
+Gorgon continued to hiss with joy.
+
+“Fine. You guys are too violent for me. I’m going to go wash my hand off in the bathroom.”
+
+Drops of blood were running down his wrist now, staining the gray cuff of his sweatshirt. Victor doesn’t do half measures, I guess, Alden thought.
+
+He cupped his other hand beneath the bitten one to catch any overflow and hurried toward the bathroom. When he got there, he reached for the handle of the sink, then froze.
+
+A thought had crossed his mind, but…
+
+It’d be weird, wouldn’t it? Not funny weird either. Creepy weird.
+
+But maybe it would be less creepy now, when circumstance had given him the opportunity, than it would be at a later date when it would be more premeditated?
+
+Alden turned and elbowed the bathroom door open. Gorgon’s hisses were still echoing across the lobby.
+
+“Hey, Gorgon?” Alden called. “Um…don’t let this spoil the mood if it’s really off-base. And remember you promised not to be offended by stuff I offered you. Do you…want some of my blood? To eat?”
+
+Yeah…that sounded gross on multiple levels. Like I’m the dumb human in a bad teenage vampire movie.
+
+Gorgon had stopped laughing. Was he offended? Alden couldn’t see him around the corner.
+
+He didn’t say no.
+
+Gorgon only rarely said yes or thank you when he was offered food he found acceptable. Usually, he just took it and ate it. Alden assumed the verbal confirmations were reserved for things he found particularly appealing. But he always said no out loud to reject the non-vegan stuff.
+
+Except for the crickets. In that case, he’d said, “No, but leave them.”
+
+“You’re not answering,” Alden called nervously. “What does that mean?”
+
+Gorgon didn’t reply.
+
+No means no. And nothing means he’ll eat it. Right? That’s how it’s always been before. Or maybe he can’t answer because it counts as a question about diet instead of an actual presentation of food, since I’m not where he can see me?
+
+That made sense. One reason the what-can-Gorgon-eat experiment was taking so long was the fact that he had to be offered the actual food item before he could accept or reject it.
+
+Okay then. One bloody hand coming your way. This is for science. Completely normal science.
+
+Gorgon was still sitting where Alden had left him. His knees were drawn up almost protectively around the tortilla chips, and his clawed toes were clenched around the edge of the chair cushion. He looked like a gargoyle.
+
+Alden tried for a casual, everyday sort of stride as he approached. But he was nervous and embarrassed, and he knew he must look it.
+
+“Hey, you want some?” he asked when he reached the alien. He thrust his hand unceremoniously toward Gorgon.
+
+He waited for him to say, “No.” Or, more likely, “Get out.”
+
+Instead, Gorgon just stared down at Alden’s bloody hand.
+
+For a long, long time.
+
+Blood spattered against the plastic chip bag, and still, neither of them moved. Alden’s heart started to pound in his ears, beating a rhythm loud enough to compete with the tinnitus that had never gone away.
+
+And then Gorgon did something he’d never once done before.
+
+He tipped his head up, and he met Alden’s eyes.
+
+###
+
+Alden had misunderstood something.
+
+No. That wasn’t it.
+
+He’d misunderstood everything. His entire notion of reality had been insignificant, warped, and just plain wrong.
+
+The Artonans had not imprisoned a creature in the Chicago consulate. They had not chained a person to the lobby desk. And they had not bound something that should ever be called a demon.
+
+Gorgon was something else. Something bigger than that. Something wonderfully and terribly close to sacred.
+
+Looking into his eyes was like being stabbed through the gut by a distillation of every profound moment Alden had ever experienced in his life.
+
+He heard the sound of his mother’s heartbeat in the womb, felt the cool emptiness of the wood as he placed a daisy on top of his father’s casket,  recalled in glaring detail the first sunrise he’d ever paused to observe.
+
+And those were only the impressions that would stick with him when it was over.  In the moment, they came at him simultaneously with a thousand others, and he lost all sense of his present reality.
+
+When he came to, hours later, he was lying in textbook-perfect recovery position on the cold floor. His hand was bandaged with a paper napkin and a generous amount of clear packaging tape. And his cat was calmly eating a can of tuna three inches away from his nose.
+
+Alden groaned and sat up. Physically he felt fine. Mentally, he felt like his brain had been unspooled.
+
+He looked around the lobby cautiously. The sun wasn’t up yet, but the sky had begun to pale. Gorgon was at the desk, chin resting on his knuckles as he stared at the security monitors.
+
+Alden approached him cautiously, keeping his own eyes averted just in case.
+
+“Gorgon…” he said, too overwhelmed to be ashamed of what he was about to say, “…are you some kind of a god?”
+
+“No,” Gorgon said simply.
+
+Of course not. What kind of a god would get trapped in a lobby?
+
+“Right. I was just…checking. Because that thing with your eyes…that was…kind of…intense?”
+
+“Do you feel all right?” Gorgon asked, peering at the half-empty salsa jar beside his stapler.
+
+Alden hesitated. “I do. But what just happened? What was that?”
+
+“It saddens me that I am prevented from explaining it to you, Alden.” Gorgon lifted an arm to show off his magic manacle.
+
+“Well, did you taste some of my blood at least?” Alden tried for a jocular tone and fell short. “I feel like a missed something.”
+
+“I haven’t. It wouldn’t have been right under the circumstances.”
+
+Alden looked down at his bandaged hand nervously. “Should I offer it to you again?”
+
+“You don’t know what you’re doing, child.”
+
+Given the situation, Alden couldn’t even object to being called a kid. “Yeah, I get that I don’t. I really get that I don’t.”
+
+“But you’re still offering?”
+
+“Well, I trust that you’re not going to go all Dracula on me. We’re friends. Aren’t we?”
+
+Gorgon muttered something under his breath. Then, out loud, he said, “I’m not sure two people can be friends when one of them is incapable of presenting themselves as they truly are and the other is incapable of grasping it.”
+
+Alden raised an eyebrow. “I feel like there was an insult buried in there.”
+
+“Only a factual statement. We are not friends. But I am fond of you and wish you well. If I accept your offering, there will be side effects.”
+
+“Bad ones or good ones?”
+
+Gorgon made a sharp clicking sound in the back of his throat.
+
+Frustration maybe? It seemed like he couldn’t say much else.
+
+Alden thought about it. And what it boiled down to was that he trusted Gorgon. More than ever after…whatever that was.
+
+There had always been a wriggling worm of doubt in Alden’s mind about the alien. He was chained up for what the internet said was attempted murder after all. Even if Alden liked him and enjoyed his company, a tiny piece of his better judgment had advised caution.
+
+That piece was gone. It had been completely obliterated by the experience of meeting Gorgon’s gaze. And though that fact alone should have raised fresh alarm bells, it didn’t.
+
+Whatever Gorgon was, his presence felt fundamentally benevolent. Which was really, really unexpected. Because now that Alden thought about it, he couldn’t recall a single other person he’d ever encountered in his life who’d given off that particular vibe.
+
+“I trust you,” Alden said. “You can have some of my blood. If that’s something you want to do, I mean.”
+
+He flopped his taped-up hand onto the desk.
+
+“No need,” Gorgon said lightly. He gestured toward the jar of salsa. “I put a few drops in here before I wrapped your hand just in case you were quite sure about the offering.”
+
+“You made blood gazpacho,” Alden said. “That’s not at all unsettling. And yeah. I’m sure.”
+
+Gorgon looked up at him, and Alden took an involuntary step back, bracing for impact. But nothing happened this time. He found himself staring at his own reflection in the alien’s liquid black eyes.
+
+“I see. You are sure. How…dear of you.”
+
+Then, without any further explanation, he opened the jar of salsa and took a sip.
+
+Alden held his breath and clenched his fists. He expected angelic choirs or an explosion of light or a full Artonan military bombardment or something.
+
+But nothing happened at all.
+
+“What…?” No point in asking serious questions. He won’t be able to tell you. “What’s it taste like?”
+
+“Like salsa,” said Gorgon. “I didn’t slit your jugular and pour it in. It’s just a couple of drops.”
+
+Alden kept waiting. He wasn’t sure for what. Maybe part of him still expected Gorgon to explain what was going on even though the alien had just said he couldn’t.
+
+Finally, he snapped out of it.
+
+“So, what do we do now?”
+
+“You should go home and sleep for a couple of hours. Then, you should come back for your classes later today.”
+
+“That’s it?”
+
+Gorgon paused. He licked his lips lightly and tipped his head from side to side a few times. “Hmmm..you should come by again this evening. We can talk about your plans.”
+
+“What plans?”
+
+Gorgon looked down into the salsa. “You told me once you had specific dreams for your future in the event that you were chosen by the System. I would like to hear them.”
+
+“Oh. Okay.” Alden scratched the back of his head. “You know, if you enjoyed the slumber party and want to do it again you don’t have to make an excuse.”
+
+“I wish I could roll my eyes as humans do,” said Gorgon. “It’s a beautifully emotive gesture.”
+
+Alden snorted.
+
+Their conversation ended there, and he packed up his things to leave. Getting Victor back into the cat carrier was an aerobic experience for both of them. Alden almost lost a finger.
+
+He tossed the empty tuna can into the garbage and headed for the door. “See you again in a few hours, Gorgon. And I guess we’ll talk tonight?”
+
+“Yes.”
+
+“Cool.”
+
+Alden’s hand was on the door handle when Gorgon suddenly said, “Seventy percent.”
+
+Alden glanced back. “What’s that?”
+
+“I said your chances of being chosen by the System were less than one in a thousand. I have revised my estimate. Your friend was right; there is around a seventy percent chance that you will be selected by the contract.”

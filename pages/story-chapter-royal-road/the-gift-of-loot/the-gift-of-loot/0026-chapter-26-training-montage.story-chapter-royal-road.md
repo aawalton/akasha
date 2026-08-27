@@ -1,0 +1,289 @@
+---
+id: 3e8c6b47-d891-5f70-918f-41abc2cc7534
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Training Montage"
+slug: 0026-chapter-26-training-montage
+partOf: the-gift-of-loot
+position: 26
+ownLength: 3492
+unit: words
+publishedAt: 2026-05-16
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3404089/chapter-26-training-montage"
+royalRoadId: "3404089"
+---
+
+Note: GREAT suggestions for Derek's jobs. I was tempted by lawyer, real estate agent, and fast food manager. I had to go with sales, though, because if you've ever worked in sales, you've probably met a Derek or three. At least, I have.
+
+Thomas woke from a deep, restorative sleep. He had been completely sacked out and only had vague memories of waking up once to use the bathroom and scarf down spaghetti that someone had left out for him. Then he'd gone immediately back to bed.
+
+He looked at his phone. It was after ten in the morning.
+
+The apartment was quiet. It seemed that Derek had gone out, hopefully to network for another sales manager job, and the kids were off to school. Thomas had slept through it all.
+
+After taking a long-needed shower, he luxuriated in having his apartment all to himself again. Then, since he had never been much of a breakfast guy, he busied himself heating a Hot Pocket.
+
+He had a busy day ahead of him. Zach was gone, finding himself in nature or whatever, but Thomas could still dungeon dive. He planned to revisit the Demon Chicken dungeon again. It had been over 72 hours, so he could reenter, and it had dropped a nice variety of crystals last time, not to mention his penknife and dagger. He—
+
+The front door opened.
+
+For a terrible second, his mind snapped into battle mode, and he grabbed the nearest thing at hand, which happened to be a plate. He stood there, ready to throw it.
+
+His oldest nephew, Ashton, walked in.
+
+The kid looked comically surprised to see him. "Don't you ever work?" he demanded.
+
+Thomas set down the plate. "Don't you ever go to school?"
+
+Ashton slumped his way in and threw his backpack on the floor. "What's the point? I hate it here. And our history teacher is going over the start of World War I. Who cares about ancient history when we have history happening right now?"
+
+The microwave beeped, and Thomas slid the Hot Pocket onto his plate.
+
+Truth be told, he had hated history when he was Ashton's age too, though he was surprised that even a dumb kid couldn't see a little value in looking at the causes of World Wars when the world was about to... he didn't know. Be remade all over again? There would probably be at least one big war before this was all over.
+
+"I still want a dungeon dive," Ashton blurted.
+
+"Really? Even though you saw firsthand what your dad went through?" He raised his arm and wiggled his hand in emphasis.
+
+"But we're all going to have to dungeon dive, aren't we? To keep them from overflowing? That's what the news says," Ashton spoke quickly, as if he had been memorizing his little spiel. "And yeah, what happened to Dad was really scary, but he lived, and his hand is fixed. What if I go in there and the same thing happens, and I could have been training all this time, but no one would let me? I've been doing research, and there are level one dungeons with really, really low casualty rates. I can go on one of those. You could help me train. It'll be really easy!"
+
+Thomas was getting a headache. "Ashton, you're fourteen. You're not ready. Go back to school."
+
+Ashton had his mother's blonde hair and blue eyes, but the way he set his jaw in stubbornness was all Derek.
+
+"If you don't take me, then I'll go on my own. Or I'll join the guys at school who are already doing it and making money."
+
+God damn it.
+
+The thing was, Thomas didn't think this was an empty threat. All it would take was some determination and stupid teen bravado, which Ashton had in spades. Then add in opportunity, because not all dungeons were heavily guarded.
+
+Yes, he could do it. If he teamed up with a group of other idiots doing the same thing, the idiocy would compound.
+
+With a sick feeling, he thought back to the Mantis Dungeon. There was one guy guarding it. All it would take was some inattention, and Ashton and a group of friends could dart right in. Thomas didn't think anyone would go into the dungeon to stop him.
+
+This was not what he wanted to do today.
+
+He supposed he could have called Derek and ratted out his son, but Derek had not been making good choices over the last few days, letting the kid drive without a license. And he had taken him to his first dungeon anyway. He might actually approve.
+
+Thomas could absolutely envision a scenario where his brother pretended to take Ashton to task just to shut Thomas up, and then gave the wink and nod to his dumbass son.
+
+He chewed on his Hot Pocket as he thought and, as usual, found it cool on the outside and searing in the middle.
+
+Ashton must have learned the art of negotiation from somebody, because he stayed quiet.
+
+"Fine," Thomas said.
+
+This was not fine.
+
+"Yes!" Ashton pumped his fist. "I promise you won't regret this. I won't get in the way—"
+
+"You won't," Thomas said. "Because if I'm training you, we're going to do things my way. Got it?"
+
+Ashton shut his mouth and nodded eagerly.
+
+"All right..." He considered for a moment, then went to his room and shuffled around his things. The apartment had gotten a little cluttered, what with Derek and the boys moving in, but he found a pile of his stuff. He came back with a sheaf of papers in his hand, then pointed to the kitchen table. "Sit."
+
+Time to be a hard-ass.
+
+Ashton sat, looking thrilled. The kid probably expected more sword lessons. That wasn't happening.
+
+"Okay. First thing you should know is I've been through five dungeons," Technically four, but who's counting? "and I haven't been seriously injured in any of them." Also a lie, but his nose wasn't growing yet. "Whereas your father got his hand chomped off by his first monster."
+
+Ashton's face darkened. He obviously didn't like hearing any criticism of his father, but he wasn't stupid. He knew there had to be a point here.
+
+"So I'm going to teach you my method. You might think it's boring, but it's also how I stayed alive and got cool loot drops, like that katana that Zach was showing you yesterday."
+
+He perked up. "That came from a monster?"
+
+"Yeah, it came from a mimic, which is a creature way too high-leveled for you."
+
+"So how did you fight it?"
+
+Thomas was about to lie his ass off. "By knowing what I was facing ahead of time, of course." He dropped the sheaf of paper in front of the kid. "This is the guide for your first dungeon with me. Read it front to back." He paused. "You can read, right?"
+
+Ashton scoffed. "Duh!"
+
+"Really?" Thomas feigned surprise. "Because you only have an eighth-grade education."
+
+"I'm in ninth grade," he growled, "I'm a freshman in high school."
+
+"You didn't finish ninth grade," Thomas said, with mock pity. "When you're my age, you'll always be known as the guy with the middle school education."
+
+"Whatever," Ashton sneered, but then he started reading.
+
+****
+
+"Get a move on, valet," Thomas yelled back over his shoulder, mockingly.
+
+He really loved his backpack of holding. Though it still had his approximate ass-ton of crystals and the loot from the Creepy Mimic dungeon, he didn't feel the weight. And there was no way the Demon Chicken dungeon up ahead would fill it completely. He was making great time.
+
+A groan came from further back on the trail. Thomas grinned to himself, though he made sure that Ashton didn't see it.
+
+Part of the deal for taking him through the dungeon was that Ashton would be carrying all of his stuff. Thomas made a big deal of packing full water bottles, snacks, a first aid kit, a switchblade (non-magical), flares, flashlights, and an extra sweater for both of them in case it got chilly. (It wouldn't in the hot jungle dungeon, but that wasn't the point.) Then, when Ashton went to use the bathroom, Thomas had added a few rocks just to really increase the weight.
+
+This was not going to be a fun experience for his nephew. Hopefully, after this, he would decide that school was cool.
+
+The same two guards as before were stationed outside of the dungeon, though this time there was a line of a couple of people. Cheerily, Thomas got in line and waited for his beleaguered nephew to catch up.
+
+Ashton did, though he didn't complain. He just stood right behind Thomas, breathing hard. The wait was fairly short, and as before, the guards took down his information. If they recognized Thomas from a few days ago, neither said anything.
+
+"And you are?" the younger guard asked Ashton.
+
+"Ashton Coldstrike."
+
+"Date of birth?"
+
+Ashton rattled it off, and Thomas more than half hoped that they would do the easy math, see that he was under 15 years old, and tell him it was a no-go.
+
+But they didn't. They just verified that he was with Thomas, who was obviously over the age of 15, and stepped aside so they could walk in.
+
+"What's the minimum age allowed in a dungeon?" Thomas asked, while Ashton bounced on his toes.
+
+"Well, we're not going to let any little children in there," the older guard said. "But your son is close enough to his Gift date that we don't mind him doing a little training."
+
+"That's right," Ashton chirped, with a smile. "My dad's the best."
+
+Thomas didn't bother correcting him, since he didn't want this to become a whole thing. It seemed the guards really didn't care. Together they made their way in.
+
+The entrance room was bare and closet-sized, as usual, but Ashton had the sheer audacity to step forward to reach for the handle of the dungeon door.
+
+Thomas knocked his hand away. "What do you think you're doing?"
+
+"We're going into the dungeon." Immediately, Ashton grew indignant. "You said you were taking me training. You're not going back on that, are you?"
+
+Thomas held up a hand. "Hold on. This is your training. We got our instance and we're in the safe room. So we're not going to rush in. Now, the first thing we do is... what?"
+
+Ashton looked at him blankly. "Get our weapons ready?"
+
+"Nope! We check our packs to make sure that we have everything we need. So, what are you waiting for?"
+
+Ashton gave him a look that clearly said, are you kidding me? But then he shrugged off his extremely heavy backpack and went through it.
+
+The squawk when he found the river stones was pretty damn funny.
+
+"Always keep your eye on your pack," Thomas said. "That's rule two. Maybe you should be writing these down."
+
+Now that his pack was lighter, Thomas magnanimously reached out and grabbed it, shrugging it onto his shoulder. Then he handed Ashton his sword.
+
+Ashton took it but stared up at his uncle as if he wasn't sure if this was a trick or not. "Seriously?" His voice cracked.
+
+"Yeah. You're going to be in a life-or-death struggle," Thomas said seriously. "I don't actually want to see you get hurt. But Ashton, this is not a game."
+
+He nodded vigorously, his eyes alight, as if Thomas had given him an early Christmas present.
+
+Ugh. He was not getting through to this kid.
+
+"You read the guide, right?" he continued. Another eager nod. "Okay, tell me the location of the first monster."
+
+Ashton rattled it off immediately, without any hesitation whatsoever. "It attacks from the bushes, once you take your third step in."
+
+"All right, what about the second monster?"
+
+Again, Ashton rattled it off. "Next bush, five feet off. It has blue flowers on it."
+
+"The fourth monster," Thomas said, just to trip him up a little bit.
+
+Ashton gave him a smug look. "The third and fourth monsters attack at the same time. They jump out from a bush with white flowers."
+
+Well... crap.
+
+He had planned to have Ashton sit his butt down inside the cramped room and read the guide all over again, but the little shit had actually done the reading and paid attention.
+
+Thomas just nodded, as if this was to be expected. "Okay, unsheathe your sword. I'll hold the sheath while you do the killing. If things get hairy, I'll step in." He grabbed his curved dagger from its sheath, but his actual plan was to deliver a good kick to any chicken-on-a-rampage. The things had light bones that easily snapped.
+
+He'd really try to avoid that. If Thomas made the kill, the monster would drop a lot of loot. Ashton could not find out about his Gift.
+
+His nephew eagerly took out the sword, and Thomas caught his eye.
+
+"I just want to let you know that killing... killing's not easy."
+
+"Okay, I got it," Ashton said eagerly.
+
+Well, it was now or never. Derek was going to kill him if the kid got hurt. Even if Thomas healed him up afterward.
+
+Setting his inner disquiet aside, Thomas nodded to the door. "All right, go ahead."
+
+Finally, Ashton paused, his hand hovering over the doorknob as if he expected Thomas to knock it away again. He licked his lips nervously and then opened the door.
+
+Just like last time, the jungle humidity was like being dunked underwater. It was heavy and wet in a way he was not used to at all. But the dungeon wasn't going to let them take it in. The moment Ashton stepped in to give Thomas room to enter, there was a rustling from the bushes. The first demon chicken emerged, raising its cockatoo crest and claws with a shriek of pure rage.
+
+Ashton brought down the sword as hard as he could and cleaved the chicken right in half, bones and all.
+
+Ashton stared at the body for a few seconds, then looked up at Thomas. "You said killing it would be hard, but that was really, really easy."
+
+"I meant morally, killing is difficult—Never mind." He sighed. "Go ahead and search the body. See if it dropped any loot for you."
+
+It did, in fact, drop a nice white mana crystal. Thomas took the opportunity to look at it. From the lack of cloudiness and the overall weak feeling, he proclaimed it was a D-grade.
+
+"How much can I get for it?" Ashton asked eagerly.
+
+"You mean how much are we getting for it?" Thomas corrected.
+
+"Yeah, we'll split it," Ashton easily agreed, as if he had any say in the matter.
+
+From what little Thomas knew about ye olde medieval times, apprentices didn't actually get the fruits of their labors... but there were probably child labor laws or some shit nowadays.
+
+"After this, we'll go through the government site and get the standard going rates. But don't be too surprised if you don't make more than minimum wage off D-grade crystals. Maybe twenty dollars?" He couldn't remember the chart off the top of his head.
+
+That didn't deter Ashton at all. "Twenty? That's great!"
+
+Oh, to be young and stupid and think that 20 bucks was a lot of money.
+
+"That means I can buy a McDonalds meal for a crystal's worth," Ashton added, to really twist the knife.
+
+Thomas set his pain of inflation aside aside and quizzed Ashton once again on where the next monster would be. He continued to do so after every monster kill, even making Ashton double-check through the printed guide... mostly because Thomas couldn't remember himself. There were a lot of demon chickens.
+
+"This is low-key mid," Ashton complained as he pulled out the guide again.
+
+"Losing a hand is low-key mid," Thomas said pointedly, cringing at having to repeat Gen-A slang. Judging by Ashton's look of derision, he'd probably just done it wrong, too. "This is how I survived. It's not exciting, but remember, in a dungeon, there are no cameras, no cell phone service to call for help, and no one to hear you scream."
+
+Ashton rolled his eyes, but he didn't argue.
+
+To Thomas's mild annoyance and growing alarm, Ashton was actually really good in a dungeon. There were only a couple of hairy moments where he clipped the onrushing chicken with the sword instead of killing it in one hit, but he recovered on the next swing. He hadn't gotten so much as a scratch.
+
+He wouldn't actually unlock his Gift until he turned 15, but Thomas privately wouldn't be surprised if it was a sword Gift or some kind of monster-slaying Gift. Ugh, he'd be insufferable.
+
+Thomas did insist on killing the boss, however. She was a nasty chicken. He made Ashton stand about twenty feet away, and he felt a little gratified to see him take another step back when she charged, hissing out of her nest and looking for blood.
+
+Thomas wasn't surprised, and he kept his self-assigned label of "Cool Uncle" when he managed to cleave through the chicken in one hit. Damn, the sword was sharp.
+
+As a reward, he got a nice B-grade healing crystal. Then he took Ashton to the delights of searching the boss's room, where they smashed eggs and found a crystal in each one. That was likely due to Thomas's Gift, but he dropped the line that this was actually a bit of a surprise for him, as if it were unusual.
+
+The exit chest reward was a C-grade fire crystal, an air crystal, and a water crystal, in that order. Very patriotic.
+
+"Congratulations," Thomas said, turning to the kid. "You've just gone through your first successful dungeon."
+
+"Let's do another," Ashton said.
+
+The chicken dungeon had only taken 45 minutes. They had blasted through it compared to his first time. Thomas hemmed and hawed, but honestly, he was feeling pretty good about this. Once they got out and registered their modest loot—Ashton's non-Gift loot haul was excellent cover--, Thomas scrolled through his phone, looking at dungeons he had checked out about a week prior and then discarded for one reason or another.
+
+He settled on a vegetable dungeon in a "greenhouse" where the veggies attacked you. The rewards reportedly sucked, which fit neatly into his plan of discouraging his nephew, even though he had a feeling that was a lost cause.
+
+It wasn't too far away, actually, located behind a supermarket. There was no line and a single bored guard who barely asked for their information on the way in.
+
+Wow, talk about security theater.
+
+Once again, he had Ashton read through the guide the whole way there. And, once again, he double-checked his knowledge in the entrance room.
+
+"First monster is a cabbage monster," Ashton repeated verbatim from the guide. "It bites at ankles and it's about five feet in, just to the right of the path."
+
+Welp. No point in making him go through the packs again.
+
+"Get at it, killer," Thomas said, handing him the sword. "Don't make me regret this."
+
+Ashton smiled and entered the dungeon. The first monster was pretty pathetic. The "cabbage monster" was only a danger if you actually stepped right on it, since it couldn't move. This was the quintessential level one of all level one dungeons, though there were a few ambush predators sneaking around.
+
+Just to make sure, Thomas activated his healing sight and took a surprised step back when he felt all the monsters. There had to be over thirty of them, and at least five that were mobile and creeping around, though he swore the guide had only mentioned three.
+
+Focused on his healing sight, he sensed the exact moment the dungeon door opened and four people strode into their instance.
+
+Thomas snatched the sword from Ashton and whirled around, putting himself between the dungeon crashers and his nephew.
+
+He recognized these people. This was the dude-bro group. The same one that had been responsible for the ugly confrontation at the Reno auction. They weren't surprised to see him, and they had their weapons out too: two of the guys had short swords, one had a spiky mace, and the girl clutched a pair of daggers.
+
+Oh shit. Oh shit. Oh shit.
+
+Maybe it was the fact that his nephew was now in serious danger, but despite his inner panic, Thomas had no problem making his voice hard. "Whatever you're here for," he said, "walk away."
+
+"Sorry for interrupting," the tall guy said, smiling insincerely. "We'll make it quick. We're looking for a friend of ours. Preston." He paused. "You do know where he is, right?"
+
+They were in trouble. As he'd told Ashton: In a dungeon, there were no cameras, no way to call for help, and no one could hear you scream.

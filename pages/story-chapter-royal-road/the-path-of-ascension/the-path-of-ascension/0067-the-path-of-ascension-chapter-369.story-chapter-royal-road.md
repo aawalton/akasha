@@ -1,0 +1,249 @@
+---
+id: 09212602-4d21-504d-906e-3e0fd1f49e85
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 369"
+slug: 0067-the-path-of-ascension-chapter-369
+partOf: the-path-of-ascension
+position: 67
+ownLength: 5536
+unit: words
+ownProgress: 5536
+publishedAt: 2024-12-02
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1936309/the-path-of-ascension-chapter-369"
+royalRoadId: "1936309"
+markedReadAt: "2026-06-29T19:19:56.506Z"
+---
+
+Chapter 369
+
+Leon split into two and took Matt a short distance away from Liz.
+
+At first, Matt felt profoundly awkward about talking to Leon about the Soerilia incident. If he hadn’t come in spells blazing, Matt might have felt a little better about talking to his father-in-law as an understanding ear. But the serious King Leon was someone he wasn’t used to, and he didn’t want to explain a massive failure to him.
+
+Still, he did it.
+
+“I fucked up. It's as simple as that. I made assumptions, didn’t look deep enough, and then flew off the handle like a typical Ascender.”
+
+Leon grinned at that, but shook his head. “You know, while you did fuck up, that’s probably one of the most Ascender things you’ve done? I’m teasing, but it's true. But in the end… yeah, you fucked up, but that’s not the end of the world. Soerilia’s boat might have been rocked, but you didn’t just leave them to pick up the pieces. Yo—”
+
+Leon shook his head, stopping Matt from interrupting him. “You didn’t. I’m not trying to say you didn’t create a mess, but you stayed until the baron arrived and you did your best to keep things under control and moving along. That said, your issue isn’t that you acted like an Ascender, it's that you acted like a mortal. That's a problem a lot of young Ascenders have, which is part of the reason they all have bad reputations.”
+
+Matt’s disbelief must have been obvious, because Leon nodded. “Seriously, go look at some Ascenders' histories. Most of the incidents where they are known for flying off the handle are from before they were a thousand years old. Not all of them– Ascenders are known for punching first– but the main issue is with just how fast you all advance. You never have a chance to just sit still and watch a century or five pass by. Soerilia might have been slow, but did that really matter?”
+
+Matt considered his words, but rejected Leon's statement. “It did for the people who were being denied the Empire standard of living. The poor and the destitute. Th—” Seeing Leon's look, Matt stopped and asked testily, “What?”
+
+“Did things get better when the world was unveiled?”
+
+Matt was about to respond that things obviously had, or at least would as Empire standards were put in place, but started second guessing himself.
+
+“I’d say so. I can’t speak for how the people of Soerilia feel, but by most metrics, their lives will be better than before the unveiling, even if just from magical healing being made available.”
+
+When Matt paused, Leon gestured for him to continue, but Matt just shrugged, trying to hide his frustration. “I don’t know what you want me to say. We had to unveil the world. Whether it was slow or fast, we would have gotten to this point. Even if it wasn’t better, it is. I—” Matt stopped as he thought he understood Leon's point. “It just is, so what does it matter if it takes a few mortal lifetimes?”
+
+At Leon's nod, Matt shook his head. “That's bullshit. I refuse to just let issues slip by because I can just outwait some issues. That's… I don’t have a word, but it's bullshit. Maybe we shouldn't have tried to be nice. Maybe we should have flattened a mountain to show how strong we are. There are a dozen ways we could have played it and didn’t. But by waiting, we ensured that people had no chance to rise up and become immortal. We were deciding hundreds of millions didn’t deserve a chance that they would have with an on track integration or an immediate unveiling. Letting the world's leaders drag their feet was the worst of the three options.”
+
+Sighing, Matt felt his energy leave his body, but when Leon didn’t say anything, Matt said what was truly weighing on him. “Am I scary? Am I so scary that people won’t tell me that I’m both too involved and not involved enough, and hampering their efforts to do the very job I asked them to do? That hurts. I have done a lot of things, killed a lot of people in the war, but I never felt scary. I feel like I’m a pretty approachable guy. Understanding, considerate, and hopefully kind and helpful. Is that all in my head? Did you know that Kees, my vice guild leader, pulled me aside and told me that some of the guild members feel uncomfortable with my informality? I was doing that to make people feel comfortable! I was hoping that a more approachable attitude would make people feel more at ease. Why is all of this so hard? Combat comes so easy. It's a dance, and I’m in charge. Or I can at least direct it, and when there’s an issue, I can just punch it into submission. Am I meant to only be a killer? Is that my singular purpose?”
+
+Leon didn’t respond verbally, he just opened up his arms and Matt took the offered hug, sinking into it letting it take his anger and frustration away.
+
+They floated like that for a few minutes before Leon said, “I know it might not feel like it, but you can only do your best.” Before Matt could refute, Leon continued. “No one can be perfect. Even the best administrators can’t always be perfect. They might do better on paper, but people are not rational or cooperative when it comes to collective interests. At least not on a large enough scale. Even just one asshole who’s only worried about what’s best for him will ruin any chance at delegating rule to an administrative type. Showing that you can and will punch those selfish people if they get out of line is a valuable service. This Realm is one of power. Might makes right because it's the will of the strong that dictates things to everyone below them. That doesn't make it nice or morally right, but it is what it is.”
+
+Pushing him to arms length, Leon looked Matt in the eye. “You fucked up at Soerilia, but you cleaned up and learned something. You're a smart and good kid, so I imagine that you are already taking steps to prevent that from happening again. That's all anyone can ask of you, as that effort will stop another dozen incidents. But Matt, believe me when I say, there will be another incident that slips through. Even Manny, with a zillion and one Talents, still has issues he either didn’t see coming or couldn't avoid without larger issues. And while you might not like it, being able to take the long game into account is useful. It doesn't make us cruel or anything like that, it's just a reality that is. The lesser evil is still an evil; it’s just, you know, less evil. Give it another few centuries, and you’ll better understand. If you want my advice, take this fuck up on the chin, learn from it, and try to do better next time. Having empathy is a good thing Matt, but having too much will paralyze you.”
+
+Matt looked into the swirling entropy of chaotic space. “I don’t like it. I want to help people, but I made Soerilia’s situation worse. And despite throwing credits at the issue to help, they are going to spend the next century unfucking our half-assed unveiling.”
+
+The silence lingered until Matt’s mind focused on something that Leon had mentioned earlier that was bothering him.
+
+Was what he said about being young and wanting to enact change the reason the Great Powers changed their rulers every thirty thousand years? He had never really questioned why the Tier 50s didn’t linger in the realm forever, but it made little sense when he thought about it from the point of view of costs. It costs tons of resources to get a Tier 48 to Tier 50 without Tier 50 rifts.
+
+It wasn’t outright stated in any histories he had read, but going over the annals, there seemed to be an unspoken rule after the shattering. The Kingdoms rulers had lingered for however long they desired, or until they were forced to Ascend by a potent descendant, but usually their reigns lasted more than fifty thousand years.
+
+It was undeniably a good thing, as Matt couldn’t imagine living in a realm with the shattering Tier 50s. He wouldn't have just been boxed up, but he would have probably been turned into an outright slave akin to a living artifact.
+
+Immortals might be willing to wait out mortal problems and they might be willing to slow or outright cultural divergence from mortals, but they weren’t willing to allow themselves to suffer endlessly.
+
+No Great Power ruler that he knew of had tried to linger, but that might have been because the other seven Great Powers would force them out. Though, it also might be because their own people would revolt if they didn’t have someone who they felt represented the new immortal generations interests.
+
+Which was exactly how the mortals must have felt when they had taken over Soerilia, and Matt felt a blackness threaten to over take him. Instead of succumbing, he let the feelings pass over him and tried to process them while keeping enough objective distance that they didn’t overwhelm him.
+
+Leon didn’t say anything, just letting him think. Together, they stood there for a few minutes just watching chaotic space swirl past them.
+
+For all that he didn’t find absolution in Leon’s arms, Matt did feel better. His chat had gotten a weight off his heart, even if he had possibly replaced it with an even more bleak realization.
+
+Wanting to change the topic, Matt asked, “So what did you mean by picking a fight with Faith? Is that an actual fight or just talk?”
+
+Leon wiggled his hand. “Maybe? It might very well devolve into that, but I’m hoping it won't. I’m going to demand a new world to replace that one, she’ll refuse, and then we’ll see. Manny just wants me to send a message that we won’t take such incidents lying down. At that point, they will probably just pay us a nominal fee and everyone will just move on while we are allowed to grab a world or two out of chaotic space despite the restriction on colonizing new worlds.”
+
+Matt didn’t really like that, it felt like a pointless waste of time, but that was a description of a lot of politics. Most politics, really.
+
+“Thanks for letting me vent.”
+
+Leon grinned. “It's what I’m here for. Speaking of being here, Freddy mentioned that he wanted to speak with you in the next few decades. No rush, but if you are near his capital you should pop in.”
+
+“Any idea what it's about?”
+
+Leon dramatically rolled his eyes. “Not a clue. He mentioned it, but didn’t go into detail, and I didn’t ask. That's between you two.”
+
+He must have gotten a bit of information from his other self, because they flew back to meet up with the other Leon and Liz after he finished speaking.
+
+Liz entwined her hand into his and Matt took comfort in their connection, even as Leon told them that a new world would be delivered to fill in the gap. Then, after saying goodbye, Leon vanished in a swirling mass of storm mana.
+
+He hadn’t been there long, maybe fifteen minutes, but Matt felt better.
+
+As they boarded their ship and continued to the next nearest world they wanted to visit, Matt didn’t dive back into work, but instead just spent the time in transit being present with Liz.
+
+They talked about everything, even Soerilia; both of them had messed up and talking it through was exactly what they needed. They had just needed a little prod from Leon to get started was all.
+
+At the next planet, Matt wanted to turn around and leave the moment he realized what they were walking into, but he didn’t let that show.
+
+Arbor Felix was, or had been slated to become, a Veiled world. It had only been first settled a mere decade before the end of the war, and many of the inhabitants were not taking the transfer well. It had only been a few months since they’d arrived, yes, but Baroness Fatiha Bennani had been dealing with quite a fair amount of pushback from the nomadic residents as she brought Empire law and customs to their planet.
+
+Most of the planet was uninhabited, left open for later waves of settlers who, for whatever reason, wanted to leave the greater realm. However, there were two primary areas which did have human population centers, which had less than seventy million residents each.
+
+The first was on the planet’s largest continent, an old and massive, yet mostly flat grassland. There weren’t many mountains, forests, or even deserts. It was, if Matt was honest, rather boring, and he didn’t see why people would want to live in such a non-interesting area. The second was a temperate archipelago composed of thousands of islands teeming with low-Tier sealife, which was a beloved settlement location for all worlds due to rifts not forming thanks to all the islands.
+
+Matt skimmed the planetary charter to get a sense of what their goals had been with the founding of their planet. They’d elected to have their starting mechanical tech levels at preindustrial levels, and all mana tech was limited to multi-person rituals instead of outright banned. Veil partings were mostly centered around an intense drive to explore, with vast tracts of wilderness set aside as permanently untamable, with cultivators living at the center of the continent’s only rainforest and a perpetual whirlpool adjacent to the archipelago. Anyone who intentionally made it to either location would be eligible for sponsorship in accordance with…
+
+Matt skipped ahead as all of that nuance was irrelevant.
+
+Learning solo-cast magic or developing proper industrialization in the first five hundred years were also Veil partings, interestingly enough. Their interim planetary representative was just defined as whoever had met the most individual people-groups on friendly terms, but anyone who lived in a single location for more than one year in a row was disqualified… Oh, and anyone who lived in a group that had waged war against another group within the past twenty years was also disqualified. That would only last until a single individual could be said to represent more than ten percent of the global population, of course, at which point normal Republic rules would have taken over.
+
+Overall, it seemed to him like the people who had moved to Arbor Felix were a bunch of troublemakers who detested the idea of anyone having meaningful power over another. That would be a fine stance, but from what he could see, they’d taken no meaningful steps within their own groups to prevent warlords from forming. He translated that to mean they were mad that they didn’t have power, and in doing so, sought to stop anyone else from having power. It was childish, and sadly, it was now Baroness Bennani’s and thereby his problem to deal with.
+
+The real sticking points were the mandatory education, healthcare, and awakening laws. Their chosen level of technological development fell well below Imperial standards for sanitation, and without a centralized education system, they also fell afoul of that. Plus, the idea of Awakening seemed to outright offend a bunch of the elders who wholeheartedly wanted to be free of cultivation.
+
+Liz asked a question Matt hadn’t considered. “Why didn’t they just stay in the Republic if they hadn’t even passed the first generation?”
+
+“I’ve talked to the local elders about that. Some of them did. They originally had closer to two hundred million settlers, with close to fifty million or so pulling back. The remainder are seeming to hope that they can just do what they wanted to do anyway with the Empire. They are also the poorest of the settlers, the ones who had sold everything to come here. If they had gone back to the Republic, they would have been in an even worse place than they were before they got the chance to settle Arbor Felix.”
+
+Matt contemplated that while he scanned the world around him more thoroughly this time. Like most veil worlds, it was a low-Tier planet. Tier 2 in this case. That was an incredibly low Tier which would struggle to self-sustain a cultivator population, and even with the Empire’s investment into such low-Tier worlds, it would take thousands of years before it reached Tier 5 at the slow pace those resources were allocated.
+
+It was, in fact, barely Tier 2. It must have naturally Tiered up fairly recently in the planet's history, and Matt wondered just how such a world had developed essence.
+
+From everything they knew, worlds simply needed to reach a concentration of mana created from unawakened life until essence was formed. Most worlds had rich ecosystems with abundant, even if non-human, life. Arbor Felix seemed an oddity in that that didn’t seem to be the case.
+
+Or, it hadn’t been the case before the world was settled.
+
+Matt could see where the animals the settlers had seeded the world with were out competing the local fauna, but that was typical of any settling of a new world. Even the non settled continents didn’t have very much biomass, all together.
+
+For all the things Arbor Felix wasn't, it was one thing above all: peaceful.
+
+Even the forests seemed to lack any substantial predator populations, with nothing large enough to readily hunt humans.
+
+None of that helped the world, but it did give Matt a few ideas.
+
+As for the planet at hand… There was only so much they could do to accommodate their desired lifestyle, as while the Empire did have allowances for nomadic lifestyles, it would require tradeoffs that Matt wasn’t sure the settlers could accept.
+
+But his ideas could work, and it might get this planet working decades before it would otherwise get off its feet.
+
+That was, if they wanted to get that involved. He was feeling a little blade-shy after Soerilia.
+
+Turning to Liz, he asked at Tier 26 speeds, “Do we want to try and solve this?”
+
+Liz seemed to be thinking in the same vein and agreed immediately. “I have a few ideas. What are you thinking?”
+
+Matt gestured for her to take the lead.
+
+“Practically speaking,” she started, “Almost all of the people who are most vocal about not wanting to be part of the Empire are past mandatory Awakening age. We could just… ignore them. Let them live out their lives for the next couple of decades. If we want to be the largest assholes we can exercise our rights to lordship to arrest the people who aren’t that old and Awaken them. Until someone is Awakened, they’re legally our property, or Baroness Fatiha’s rather, so it’s not even bending our charter to do it. If we want to put an end to this we can go in swords drawn and force our will upon them.”
+
+Matt grimaced at that last part. The fact that every unawakened child was the legal property of their local noble, only protected by child protection laws, was one of his more unpleasant discoveries when he was being taught noble laws. The thought of ever having been the property of the Junipers still made him feel sick, even after all these years. Serfdom was still legally part of the law, but luckily, those laws were part of a larger section that only applied to the unawakened.
+
+Or, not so luckily. It wasn’t a secret that universal awakening was primarily a ploy by Empress Agatha to de facto end serfdom, and thereby weaken noble power. The official reason at the time was that she wanted to simply rejuvenate the armies with fresh immortals in the wake of the civil war but that excuse hardly held up to scrutiny then, and it surely didn't after all of her other reforms. But the actual law was still on the books and was unpleasant to think about let alone consider using.
+
+“That's a shit idea and you know it. What is your real idea?”
+
+Liz let out a small grin as he proved just how well he knew her. “I was thinking that we could set them up with a mobile tablet-based education system typical for nomadic cultures. Their chosen tech level will prove to be a problem, but if we provide them with some mid-Tier portable sanitation formations that draw in ambient mana power themselves, we could bring their health requirements up to the basic levels. Then boom, we’ve solved most of their issues while not running roughshod over their wants. It’s not like any of that would be expensive for us.”
+
+Matt pondered the idea for a minute, running through ways it could play out and looking for issues. “Really, the issue is the opportunity cost. Think about how much permanent infrastructure that much money could buy. It’s not a bad idea though. Question is, do we want to present our solutions to the Baroness, or do we let her sort it out herself?”
+
+Matt was loath to actually give it up and walk away without helping, but his talk with Leon was fresh in his mind. He should either get involved or leave it be, and right now… he didn’t trust himself with getting involved.
+
+Liz seemed to agree with him. “Let’s give her our idea and offer funding, but leave it up to Baroness Bennani. We can check in with her in a few decades to see how it went either way. Our job is to help our lesser nobles not hold their hands.”
+
+In agreement, they wished Baroness Bennani well, and they took their leave to go to the next planet on their tour.
+
+Thankfully, the next five were well handled by their local nobles with no major issues that Matt and Liz needed to intervene in, which let them actually treat their tour like a mini-vacation.
+
+That streak was broken when they arrived at Dehsu. There, they found the former Federation world was struggling to adapt to the Empire's less restrictive culture. Instead of enjoying their newfound freedoms, they were lashing out with near daily protests that halted vital industries and caused chaos.
+
+From what Viscount Ralfie Everet explained, he was trying to go through with a slow and steady approach, but thanks to the Federation’s indoctrination and culture, the planet was unified in their resistance and any attempts to crack down on the protests just spawned more protests. It was about as bad a case of a bad integration as was possible without issues like Matt had caused.
+
+The records about similar planets indicated that the best method to win over such a planet was exactly what Leon had recommended: wait it out. In a few generations without reinforcement from on high, the population would be less indoctrinated, and from there, they could start the typical integration methods.
+
+That was, unless they were willing to forcefully relocate the majority of the planet's population onto other worlds. That had been tried before, and while it worked, it caused short-term issues on every world the dissidents were sent to.
+
+Instead of jumping to that extreme, Viscount Everet wanted funds to pay for a larger guard contingent as well as an expansion to his administration.
+
+Matt didn’t like either of those requests. Viscount Everet didn’t seem dishonest but neither of those methods were said to have appreciable effects in such a situation. Sure they could fund the increases, but he suspected the increased presences of not only guards but administrative overseers would simply lead to more push back from the planet.
+
+That said, he didn’t have a better answer and neither did Liz. He just doubted that any show of force would convince people to play nice. As a Tier 10 world, they had a fairly robust population as well as having a healthy population of delvers.
+
+They might not have enough power to actually rebel, but with how unified they were, unless Matt and Liz wanted to authorize extreme measures, Viscount Everet was going to be forced to go slow with his integration.
+
+In the end, it was more a question of what kind of rulers he and Liz wanted to be. Did they want to be the type to just look at the historical figures and make decisions mainly based on that, or did they want to give their subjects unconditional support when they had problems?
+
+Not that they would fall on either extreme, but this was an important moment to set the precedent.
+
+After talking it over with Liz, they agreed to fund the increase in guards with the understanding that Viscount Everet wouldn’t be using them to try and force reforms on the population. They wanted to support their vassals, but they also didn’t want to help them into a bad decision either.
+
+Too much support in this case could all too easily lead to a bloodbath, and it wouldn’t be the immortal guards who would be bleeding at the end. If they were willing to allow that to happen, they might as well just cut out the middleman and kill everyone themselves. There were reports of that happening with particularly stubborn planets from all Great Powers.
+
+Matt wished he could just pay for everyone to be returned to the Federation, but unlike the Republic, they didn’t have a history of taking people back as refugees.
+
+That decision was made for them, and then they were expected to follow.
+
+In the end, after a large amount of discussion, Matt and Liz agreed to build out an island which, once it was habitable, could serve as a place to dump the worst of the instigators. Without previous buildings and such, any private methods of communication would have to go through the planetary AI, and could therefore be controlled.
+
+It wasn’t ideal or nice, but it would hopefully blunt the edge of the rebellions without resorting to executions, which would end up causing mass rebellion, which would only lead to more executions.
+
+Liz shivered the moment they entered their ship. “I feel gross for okaying that. I don’t know what else we could do, but I didn’t like that.”
+
+Matt wholeheartedly agreed and pulled her into a side hug as they returned to their ship.
+
+Thankfully, their next world was something they were both looking forward to.
+
+A planet from the Monster Collective.
+
+It was only a Tier 4 world, but it was one that was distinctly different.
+
+Most obviously were the bloodlines. As a Tier 26 who knew what to look for, he could spot several bloodline cores in people who didn’t have any spiritual shielding up, and it was both more and less than he’d expected simultaneously. At least there didn’t seem to be any obvious discrimination between those who did have bloodlines and those who didn’t…
+
+Matt frowned as he spotted someone with decidedly no bloodline, but still had goat legs. He needed to reassess how to spot bloodline-holders, apparently. Almost all of these people were under Tier 15, and several weren’t even awakened, so they should have no reliable way to reshape their bodies, which meant they’d been born semi-beastly. And that wasn’t even counting the number of full-fledged citizens who were just in beast form, something even rarer in the Empire.
+
+He was really curious what percentage of people who lived here actually had bloodlines, but he wouldn’t find out at least until the Empire AI was up and started taking census data. For now, he just enjoyed the novelty of seeing a wolf-man open the door for a family of three fully human-looking individuals.
+
+A city over, a human woman didn’t even look up from her book as she let a snake wearing a hat use her leg to reach the bench she was sitting on. They didn’t seem to know each other, as the snake didn’t use the small speaker hidden inside its hat to translate the beast language into something humans could understand to do anything more than politely thank her.
+
+Thanks to the varied body shapes and sizes, there were also a number of differences in familiar things. Doors all had motion sensors and all non-residential doors were of the sliding variety to ensure the smaller species weren't hurt by a door opened or closed too quickly. Public water fountains either had multiple layers for those of different heights and ran constantly, or had levers that anyone of any size could trigger.
+
+It wasn’t perfect. Matt watched as an anteater used its tongue to pickpocket a passing human. He watched an elephant using its size to cut in front of a dozen other people who were waiting in line. He watched a human dumping fish scraps in a river that would lead to a beaver's den with a malicious grin on his face. But that was all ok. It was people being people. There weren't the systematic issues he had feared would exist under a polite facade.
+
+He and Liz spent a full week exploring the world undercover as low-Tier tourists. Amusingly enough, they were scammed twice, but that was the only issue they ran into even when pretending to be low-Tier visitors, which wasn’t too bad all things considered. In return, they got to see the planet from ground level and experience a good bit of what it had to offer.
+
+When they left, Matt just felt it would be a shame that in a few generations, a few dozen at most, the world would look no different from most Empire worlds with a majority of the population being human. Bloodlines didn’t linger forever, and after three generations of marrying humans without reinforcing a bloodline, it would fade to nonexistence for their progeny. Even those animal traits which existed in the mortal population and were genetically inheritable would eventually fade, as the Empire's aesthetic sensibilities took hold and the recessive genes weren’t reinforced.
+
+The Monster Collective paid exorbitant amounts to ensure that bloodline reinforcing items were readily available to prevent the dilution of bloodlines, but that wasn’t possible in the Empire. They just didn’t have enough spare tax revenue to fund such an effort nor the political will to do so, nor did they have the Monster Collective’s methods. They weren’t exactly state secrets but their bloodline research was only one step removed.
+
+Liz was trying to create similar cheap-but-effective bloodline reinforcing items with her research team, but it was slow going at best.
+
+Still, they both thoroughly enjoyed their time there and intended to bring Aster to visit before things changed too much so she could appreciate the almost idyllic world.
+
+Their final world on their tour was from the Clans.
+
+All of the dwarves had remained behind in the Clans proper, but that didn’t remove their cultural impact.
+
+While the shortness present was greatly exaggerated in comparison to the movies, with the average height only being slightly shorter than in the Empire at around 5'5 for the men instead of the 4'5 typical seen in movies.
+
+Where Matt really felt the difference was the public buildings which had been made to dwarven standards. He nearly bumped his head on the ceiling of the planet’s capital castle until he gave up and used his Rubberfruit flexibility to compress himself a good foot in height.
+
+Interestingly enough, a good portion of the humans, mostly the wealthy, had chosen to remain in the Clans instead of coming with their world to the Empire.
+
+Matt knew humans weren’t treated badly, but he would have expected those humans with some power or wealth would be happy to move to the Empire where there weren't any barriers to their upward social mobility.
+
+However, while the stories about Clans shortness were exaggerated, their crafting culture certainly wasn’t. Even among mortals, crafts were seen as a way to leave a mark upon the world. And while the planet couldn’t really be said to specialize in anything, a planet full of relatively-dedicated craftsmen was quite the boon to their fiefdom, but only time would tell how long that tradition and culture of crafting and excellence would last. But, given the planet was Tier 15, a good number of immortals had grown up with that culture in mind, and immortals rarely strayed from their mortal roots. So, Matt gave it good odds on becoming a noteworthy crafting hub in their burgeoning duchy.
+
+There weren’t any major issues for them to solve but they did spend a few days with Count Felipe, who had been an expert in dwarven culture before earning his bid for a noble title.
+
+His cultural understanding had made him a shoe in for the position, and from everything they could see, he was leading the planet into textbook integration.
+
+As they left their last stop, their ship turned its bow to the Capital, where they would be meeting with other dukes of the Empire.

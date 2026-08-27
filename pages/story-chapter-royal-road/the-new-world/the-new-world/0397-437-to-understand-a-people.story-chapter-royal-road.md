@@ -1,0 +1,471 @@
+---
+id: 4287bac4-0b36-5ae4-8edb-bc765f6e9b85
+page-type-slug: story-chapter-royal-road
+title: "437 To Understand a People"
+slug: 0397-437-to-understand-a-people
+partOf: the-new-world
+position: 397
+ownLength: 4266
+unit: words
+ownProgress: 4266
+publishedAt: 2025-06-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2352421/437-to-understand-a-people"
+royalRoadId: "2352421"
+markedReadAt: "2026-06-29T21:34:59.489Z"
+---
+
+Plazia cackled through the water. It was like a nightclub's music from the outside, muted but still clear.
+
+"I assure you that you are still its sole retainer. I am a prime minister at most."
+
+His insects return to managing the planet's affairs. I creased my brow.
+
+"Right. It would seem you've managed to make a religion around yourself. You certainly have the ego for it."
+
+Plazia rolled his fingers across his throne.
+
+"The one I've centered it around isn't me."
+
+My armor smiled its teeth of jagged metal. Plazia steepled his hands.
+
+"They worship you, Harbinger."
+
+Chapter Begin
+
+I smacked my armor.
+
+“Bad armor. Bad.”
+
+Plazia tapped his fingers against his throne.
+
+“You’ve suppressed the alter ego rather well, haven’t you? I’m envious of that range.”
+
+My armor’s grin subsided, and I grabbed a lower trail of glowing kelp.
+
+“It takes practice, but it’s doable. That aside, how have things been progressing here?”
+
+Plazia gestured around.
+
+“Excellent, as you may imagine.”
+
+I scoffed.
+
+“The planet’s got a few weeks before being glassed. That’s not the best result, is it?”
+
+Plazia raised a finger to retort. He considered before pulling his hand back.
+
+“You…You shall need to judge my results for yourself. I shall be judging you as well.”
+
+I nodded.
+
+“Alright. Let’s start with this religion. What purpose does it serve?”
+
+Plazia stood up, his basalt throne sinking into the stone floor.
+
+“It is known as The Harbinger’s Will. I spent the first several weeks here wielding harsher methods of conquering and reprisal. It…Didn’t produce results. I’ve changed my approach after learning more about the Vagni.”
+
+I gazed at the insects used in his control room.
+
+“You haven’t incorporated them into your fold by the looks of it.”
+
+Plazia stepped up to one of his basalt-covered insects. It transferred the contents of its mind as Plazia turned a hand to me.
+
+“The Vagni aren’t effective diplomats, informants, or organizers. At their heart, they are warriors built upon hunger. I am their shepherd, and you are the beast they emulate.”
+
+I scratched the side of my head.
+
+“I remember the Vagni worshipping the eldritch. You changed that by convincing them that I'm the new top monster? Huh. I don't know whether I should say you're a genius or be offended.”
+
+Plazia cackled.
+
+“Your golems. I’ve had several taken here, and the Vagni have seen their might. By having them demonstrate their superiority, I’ve validated this mock religion. I combined that with the destruction of dissenting eldritch. A purge was required, but the rebelling faction has been decimated."
+
+My gaze turned sharp.
+
+"Did that include killing in mass?"
+
+Plazia walked, his steps measured and controlled.
+
+"You remember my cleansing of the Elysium camp on Earth. It required no sacrifices, but this planet was different. Vagni are deeply entrenched in their cultures and customs, but much of that is a byproduct of an infestation. Eldritch had assimilated into a portion of the population, turning them into a race of puppets."
+
+I winced.
+
+"I'd heard of eldritch viruses from Obolis. I never imagined one could spread in silence like this."
+
+Plazia raised a hand, primordial mana oozing from his palm.
+
+"And yet it has come to pass. I believe that the eldritch monstrosity that is gorging on this planet has spawned from this virus and a spatial tear. The coalescence of circumstance has resulted in tremendous destruction."
+
+My eyes widened.
+
+"You mentioned it was bad but under control."
+
+Plazia turned to me, his gaze sharp as a knife.
+
+"There was little you could have done. I isolated the infection two months ago. Since then, no further spread has occurred. You were either injured or trying to uplift the Earth. Regardless of your condition, my handling of the situation has increased the usefulness of the Vagni tenfold.”
+
+My aura seeped out, thicker than the water around us.
+
+"What does that mean?"
+
+Plazia gazed at the sharpened ends of his hand, the Sentinel shell honed to an edge at his fingertips.
+
+“They live as a people and not as cattle. Instead of maintaining that status quo, I have changed the paradigm.”
+
+Plazia saw the skepticism painted onto my face, and he stepped over to his side. After snapping his fingers, several altered octopi swam in. Like cuttlefish, their bodies shifted color while they moved. Only six arms covered their lower ends, the limbs smothered in needles like a cactus. They let out jets of ink where Plazia gestured, and several Vagni spawned from the darkness.
+
+Blue fire covered them despite being underwater, and they had hollow, white eyes. I leaned back.
+
+“That…That reminds me of Hod’s magic and his eyes.”
+
+Plazia snapped his fingers again.
+
+“It is a derivative of Hod's sorcery. Other Hod to be more specific. He shifts his eldritch half, channeling into the crevices of reality. Shadows, as you call them. I've spoken with him at length, and these are the results of said research."
+
+A basalt pillar formed in front of the Vagni. They sliced through the stone, leaving azure flames that consumed what remained of the rock. Plazia snapped his fingers one last time, and the enflamed Vagni bowed to both of us. They warped away using their fire, the water a strange medium for them. I shook my head in disbelief.
+
+“Being cool aside, that’s way, waymore than I expected from them. I mean, I expected not that much from the Vagni, but damn. How did you get them to learn all that?”
+
+Plazia assimilated information from an insect.
+
+“It required learning about them. That was the failure of the Empire. They wished to smother the Vagni in what they wanted them to be, which were mindless slaves. Florence wished for their freedom, but this is not a species that is headed down any other path than destruction. Freedom is their suicide."
+
+Plazia generated the azure fire from his palm.
+
+"What these people require is guidance, and it must be told in a language they understand.”
+
+Plazia ordered several of his insect guards to march outside.
+
+“I’ve learned the Vagni’s language, speaking it in several of their local dialects. They’re a fascinating species, and their history is a long one. Though written records are scarce, I’ve garnered much of their origins from various songs and lore they sing to their children. Within those tales, they worship the eldritch. That is obvious. The question is why? Have you asked that before?”
+
+I frowned. I hadn’t. Well, maybe, but I’d never hunted down the answer. Instead, I looked for ways I could solve their problems. Plazia’s internal body rumbled as the insects within crawled around.
+
+“You didn’t ask, and neither did the albony or Florence. The Vagni worship the eldritch as a result of submission but also from their own principles. The Vagni hold three of them. The first is growth. They wish for the unending rise and perpetual expansion of their own kind. They found the greatest source of growth within the eldritch, deifying that which is corrupt. I weaponized that belief against the monsters they’ve worshipped.”
+
+Plazia pulled out one of my rings.
+
+“I went across the planet’s major cities, giving these rings to Vagni that followed the primary principles of The Harbinger’s Will. They were given a palpable reminder of their own growth ability. I’ve also had them slaughter my minions as sources of experience, the battles abundant and with purpose. They gained experience fighting monsters, and they regained their confidence in their own augmentation.”
+
+From the ground, a magma insect arose. It plumed out with a burst of steam before an insect of basalt stood upright. Plazia wore my ring before reaching out a hand to the bug. Plazia crushed it into a magma pulp, and the hivemind laughed.
+
+“Easily done with the power of the ring. The Vagni have slaughtered these mindless drones, losing their resistance against culling the eldritch. I rewarded the greatest slaughterers with your rings and my own accumulated resources.”
+
+I spread my hands.
+
+“I have to hand it to you. This is already going better than I imagined it would.”
+
+Plazia scoffed.
+
+“It is the beginning of what I’ve done. The second principle the Vagni worshipped is the darkness. They believe in the fear it evokes, and their reactions to it are far stronger than on Earth. This is an evolutionary adaptation. A shadow may hold a snake on Earth. A dark abyss here will hold a monster of some kind, justifying a far greater terror. The Vagni believe that the darkness itself is the source of their fear, not the monsters within.”
+
+Plazia pointed at the cactus squids circling above.
+
+“This belief and respect towards darkness make the Vagni receptive to Shalahora and Hod’s shadow magic. I learned the basics of it from them, and I used the lessons in conjunction with the natural fauna to form squadrons of elite combatants. These squids are bonded to Vagni, and their ink creates shadows for the Vagni to manipulate. Those dark clouds augment the Vagni’s natural mobility while the robust species of squid is easy to mass produce and maintain.”
+
+The squids swam out, and Plazia watched them.
+
+“The Vagni are also partially eldritchified like Hod. This dramatically enhanced their intake of this magic style. The cerulean flames are the crux of that technique, and it is a variant of the shadow fire that Hod uses.”
+
+After the squids left, living water swam in. The liquid carried several psionic presences, and they splashed near Plazia. Vagni bodies molded out of the living water. Plazia pointed at them.
+
+“As expected, the Vagni hold an affinity for aquatic magic that few species could hope to emulate. These individuals offer support to the enflamed warriors. They wield ice, healing, and liquid forms.”
+
+The Vagni channeled dominion mana, turning the water around them into ice plates. The armor gave them menace, the anglerfish people far bulkier with the ice over them. Plazia admired the squadron.
+
+“While one group is drenched in the dark and flames, the other fights as a fluid. This makes them difficult for conventional attacks to pin down. Try to hit one.”
+
+I figured, why not, so I swung a hand but kept it light and slow. They liquified before my arm made contact. It assimilated back into its previous form, and it met my gaze. I smiled.
+
+“Hah. This is pretty cool. These mages aren’t as vulnerable as many casters tend to be, so they won’t need a distraction or defender to stay safe either...Can they do this while on land?”
+
+Plazia tilted his head at the aquatic warriors.
+
+“They may, though their ability to move is based upon molding and moving the surrounding water around them. The same could be done with a gas-based atmosphere, but their mobility would be stifled.”
+
+With a touch of gravity, I pulled them upward. They couldn’t resist the gravitational pull in either form, but it wasn’t some crippling weakness. Few enemies wielded gravity, so I gave them an approving nod.
+
+“Excellent work here. How widespread are these combatants?”
+
+Plazia’s head twitched, and his voice rumbled.
+
+“Global. I’ve maintained the organization throughout the largest settlements. Saphigia is home to their strongest people, but we shall rectify that in time.”
+
+I turned a palm to Plazia.
+
+“You mentioned three guiding principles of the Vagni: from darkness to growth. What’s the last one?”
+
+Plazia stepped up to the group of Vagni, and they funneled out of the pyramid.
+
+“Hunger. It’s the most primordial, and one they’ve relished in since time immemorial. It stems from a strange ordering of perspective, however. They believe that whatever is consumed becomes a part of the predator. They have fought over their evolutionary cycle to stand atop this food chain, and this was for the consistency of their ancestors.”
+
+Plazia’s inner insects stirred within.
+
+“They devour their dead to strengthen their own. This isn't done via cannibalism directly, but by burying their dead to fertilize their fields. They then share these plants grown from the seafloor at yearly dinners. It is their holidays and culture.”
+
+Plazia gestured to the kelp above.
+
+“Since the eldritch have devoured enormous masses of the Vagni, they consider them to be conduits of a spiritual journey. Being eaten is a form of permanence where they join their loved ones in an afterlife. In some regards, they’re correct. Eldritch are beings that absorb and use far more of the originally consumed biomass than the natural species of this universe.”
+
+I frowned.
+
+“Yeah, but the eaten Vagni are gone. There’s nothing left by the time the eldritch are done with them, in mind and spirit.”
+
+Plazia peered in the distance, and he nodded slowly.
+
+“Yes. That is all we may do with our hunger. We devour, indulge, and relish doing so. In the end, we merely destroy for pleasure. It is hedonism incarnate.”
+
+Plazia turned to me.
+
+“But the Vagni worship it nonetheless. I’ve wielded it to my advantage. I had them touch upon my mind, and I am many. I told them that you have given me this ability, and their worship may give them the same ability if they are sincere.”
+
+I snapped my fingers.
+
+“That’s why they’re meditating outside. They think that by developing the mental skills you’ve told them, they’ll join their loved ones in the afterlife.”
+
+Plazia shook his head.
+
+“They believe they will expand their perception, allowing them to hold and retain their loved ones’ minds.”
+
+I let out a sigh, but the expression didn’t work well underwater.
+
+“Man. That’s a nasty lie.”
+
+Plazia glared.
+
+“It isn’t one.”
+
+I furrowed my brow.
+
+“The people they’ve left behind aren’t coming back. Some meditation doesn’t change that.”
+
+Plazia’s inner body caused the water around him to shift and tremble.
+
+“The dead are gone, but the living remain. They want to hold onto the minds of those they’ve lost. Is there a superior conduit for that than memory? By expanding the domains of their minds, they can hold onto the spirit of those they’ve lost. That is the eternity they wish for by consuming their ancestors. It will be achieved through history.”
+
+I frowned.
+
+"It feels insincere."
+
+Plazia stepped up to me.
+
+“But it isn't. Those we’ve loved…Their deaths will leave us broken, but I believe there is no greater memorial than piecing ourselves back together using the shards they left behind. We find wholeness in what is given, and that is how they live on.”
+
+Plazia had never seemed more like a person twisted by circumstance, someone vulnerable and raw. Someone crumbling. Up until now, Plazia was an evil mastermind, sinister and cunning but lacking nuance. I was wrong about that. He had pulled himself together as well as he could given his circumstances.
+
+I gave him a nod.
+
+“I won’t forget that.”
+
+As if realizing what he’d said, Plazia stepped away. He gazed into some unseen abyss before stepping over to where his basalt throne had been. It reformed, and he sat down. Plazia nodded at himself before leaning against his hand.
+
+“Do what you will with what I’ve said.”
+
+I pointed a thumb behind me.
+
+“So…About the massive eldritch proliferating across the planet. What’s the plan to destroy it?”
+
+Plazia rolled his hand.
+
+“Before we discuss that apocalypse, I am in need of your services.”
+
+“For what?”
+
+“I’ve created this religion using your golems. I am in need of your rings, gear, and other assorted rewards. If you grant it to the warriors who’ve performed the best, we may reinforce the best aspects of this race. They may bloom into something greater than either of us anticipates.”
+
+I shrugged.
+
+“Easily done. I can make a hundred thousand rings pretty quickly.”
+
+Plazia tapped his throne with his fingers.
+
+“The aquatic and shadow tribes will garner influence and status from their power alone, but granting them blessings of your favor will further bolster this movement. I’m in need of around twenty thousand artifacts. The simplest rings will do. If that is too much to lend, then your legacy should be far more than adequate to validate your blessings.”
+
+I did some mental math.
+
+“I can do all that in about two weeks, including covering major cities.”
+
+Plazia leaned back.
+
+“Good. My efforts haven’t been wasted.”
+
+“Of course. Now, about the giant eldritch-”
+
+Plazia raised a hand, pointing up one finger.
+
+“Ah, but I am in need of compensation. You know my goals. Have you progressed towards any of them as I sieged a planet in your name?”
+
+I rubbed my temples.
+
+“Hm. Give me a second. Ok, I’ve learned a bit about the eldritch, and I have some proof for it.”
+
+I raised a fist, and I counted on raised fingers.
+
+“First, they’re coming in as shattered pieces of dimensions. We guessed that, but the tears on Earth verify our theory. I also know that exposure to this miasma-” I raised my armor, showing the shattered rupture in spacetime, “Is what’s deforming normal creatures and people.”
+
+The ground between us glowed into magma. Insects erupted as a horde, their forms glowing hot but not evaporating the water near them. Plazia flowed through his throne before raising it as a shield.
+
+“What is that accursed thing?”
+
+I pointed at it.
+
+“It’s a portal leading to the space between dimensions. It’s a true tear. Hm, I should call it that. True tears, not false ones.”
+
+Plazia hissed.
+
+“It is corruption.”
+
+I wrapped it in my armor.
+
+“Which is why I’m letting it spew that poison at me. I happen to be good at eating poison, right?”
+
+The insects and throne bled back into the ground, oozing in a rapid shift. Plazia glared at me.
+
+“If you expose me to that energy, our arrangement is done, and I will put every effort into repaying your kindness for having done so.”
+
+I nodded.
+
+“Understandable. I’d do the same if someone threw this at me while I was vulnerable to it. I think that exposure to this stuff is what makes the eldritch what they are, like we hypothesized. We found Hod’s dimension in a state of partial collapse, which is why the Eltari were partially eldritchified. The same is likely true for the Vagni.”
+
+I shrugged.
+
+“I’m thinking that Schema has to pick and choose which pieces of dimensions it can save or add to a place. Whenever Schema molds a dungeon into the surrounding landscape, he’s essentially stopping the corruption of this interdimensional energy from propagating further.”
+
+Plazia grabbed his chin.
+
+“Hm. Schema is using our dimension as a vessel, and these disparate dimensions are like life rafts. We take them onto our vessel before they deform further, and we must clear out the occupants. Assuming that’s the case, why would the dungeons continue spawning eldritch?”
+
+I put my hands on my hips.
+
+“My guess? The seal that Schema creates isn’t foolproof. It can help stop the further deformation of the eldritch, but it can’t stop them from forming completely. That’s probably why eldritch don’t end up becoming these world enders and have a kind of limit to their strength.”
+
+Plazia’s voice rumbled from around us.
+
+“Then the answer is simple. We limit the corruption of the incoming eldritch. That requires reaching those collapsing, dimensional shards before they’re infested with that disgusting filth you call interdimensional energy. That was the plan long ago. Mere verification isn't enough."
+
+I pulled out my other dimensional shard, the one leading to the plain world with fireflies at night.
+
+“I've been practicing hauling these dimensional shards around. It’s difficult, but I’m getting better at it.”
+
+I put the true tear up to my face and breathed it in like a gas mask. I breathed out clean water.
+
+“The good news is that I am immune to interdimensional energy from what I can tell, and I’ll use my natural resilience to shepherd the eldritch over here. I need to know where they are, along with a means of transport. With those two things, I’ll become an eldritch freight train, carrying dimensional shards loaded with uncorrupted eldritch.”
+
+I showed the rough edges of the plains world I carried with me. While not a true planet in size or scale, its mass far exceeded anything I could physically grab. Billions could fit in here easily, and I moved it with my dimensional aura.
+
+“Even if they are in a small shard, I can carry larger ones like this to fit more of them. This stable chunk should let me take masses of the eldritch back to our dimension before they’re corrupted.”
+
+Plazia walked up, reaching a hand into the domain I carried.
+
+“Hmm...This isn't bad. Not bad at all. So you really haven’t forgotten what we arranged. Excellent. For a moment, I thought you took me for a fool by sending me to this planet. I was wrong.”
+
+I raised my brow.
+
+“I’m a lot of things. Simple-minded. Thoughtless. Even impulsive. I don’t think anyone can call me ungrateful, though. You do right by me, and I’ll do right by you. As well as I can, at least.”
+
+Plazia stepped back and turned a hand to me.
+
+“It would seem to be so. Gratitude aside, we still lack any means of finding these spatial shards. We may need to contact that disgusting AI in order to ascertain their positions. Otherwise, we roam into a darkness so deep that there is no end to it.”
+
+I remembered trying to follow Kiiryah into the void between dimensions.
+
+“Yeah, it’s an ocean of ink, alright. Still, we’re well on our way to handling your kind’s mass exodus. I’ll see if I can call a meeting with Schema to exchange that information for my grunt work.”
+
+Plazia peered at the ground.
+
+“This…This is good news. I never imagined so much ground could be gained so quickly. We can shepherd the masses. We merely need to find them.”
+
+I spread my hands.
+
+“And you really turned this place around. I think you’re using some smart ideas. Having people earn their awards seems like it leaves a lot less mess behind than simply handing stuff out. I figured that out myself recently.”
+
+Plazia’s internal swarm shifted.
+
+“Schema’s system also lets us know who has murdered and who has not. It’s a simple, effective tool to dissuade the act, and now the Vagni know it’s a cardinal sin. I’m certain you’ve had to enact brutal rulings of your own given the limitations of your resources.”
+
+I remembered how we handled the raiders around the Shattered Spires.
+
+“We've made tough choices, but I don't see how this is relevant to the spreading monster on this planet.”
+
+Plazia tapped his side.
+
+“You know, there is a colossal, expanding eldritch. What else do you need?”
+
+I turned my palm to him.
+
+“Yeah, I’m wondering why you didn’t solve the issue already.”
+
+“Is it not the duty of a ruler to defend their territories?”
+
+“Yeah, but not all by themselves. You could’ve easily killed this thing well before it became a problem. Why didn’t you?”
+
+Plazia peered off.
+
+“Is my contribution to the Vagni’s culture and the stability of the planet not enough? Are my efforts deemed so shallow?”
+
+I spread my hands.
+
+“What? Hell no. I expected to find corpses dangling from the streets, not shadow leagues organized around what the Vagni have long believed. This is an incredible result.”
+
+Plazia snarled.
+
+“Then why must I fight this spreading eldritch?”
+
+I furrowed my brow.
+
+“You don’t. I’m not commanding you to run in and battle it. I’m asking why you didn’t.”
+
+Plazia squeezed a hand before pointing at me.
+
+“It feeds on one of those.”
+
+I frowned.
+
+“Er, me? Or do you mean the golem?”
+
+Plazia circled his head as if rolling his eyes.
+
+“No. The true tear. It feasts on the interdimensional energy.”
+
+Plazia’s head twitched.
+
+“I will do many things. Kill species, destroy nations, but that…I will have no part in its corruption.”
+
+Insects crawled out from the gaps in his armor and back into his Sentinel carapace.
+
+“I am scarred enough by it, and I…I can carry no more wounds. It is too much for me to bear.”
+
+Plazia squeezed his hands into fists, bracing himself for what I had to say. I gave him a curt nod.
+
+“Ah. Ok. Sure thing.”
+
+Plazia’s hands loosened. After a moment, my words sank in. He turned his head toward me.
+
+“That’s it? I asked you to walk across dimensions and save my kin. You walked into that abyss and have results. I can’t even fight a monster out of fear. Where is the rage? Where is your anger?”
+
+I rolled my eyes.
+
+“Are you kidding me? The last thing I want is for my people to do jobs they hate for reasons they disagree with. That’s the thing. I’m not here to rule or conquer. I mean that. I want to let people decide what they do and why they do it. It’s what I’ve always wanted, and my armor gave that to me.”
+
+I shrugged.
+
+“The least I can do is give that opportunity to everyone else."
+
+Plazia gawked at me.
+
+“Are you benevolent or an idiot?”
+
+I cracked my neck.
+
+“From what I can tell, there isn’t much of a difference between the two, but if I’m going to be an idiot, then I’ll at least take the good that comes with the bad.”
+
+Plazia gave me a slow nod.
+
+“Hm…Then do so. We need more idiocy in this world.”
+
+I smiled.
+
+“That’s what I’m here for.”
+
+My armor bristled with a palpable energy.
+
+“Now enough talk…Where is this monster?”t

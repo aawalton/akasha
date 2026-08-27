@@ -1,0 +1,267 @@
+---
+id: 0e7ed1cc-3ea2-5dfe-b0b6-dd0cb106c65a
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 481"
+slug: 0181-the-path-of-ascension-chapter-481
+partOf: the-path-of-ascension
+position: 181
+ownLength: 5134
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3174461/the-path-of-ascension-chapter-481"
+royalRoadId: "3174461"
+---
+
+Chapter 481
+
+It didn’t take long for the first wave of explorers to return to their home stations once they reached settled space. Even the oldest immortals wanted to return home after more than five hundred years of absence, but it still took time for them to travel. Instead of rushing, they decided to wait, and the moment they got confirmation Lila had returned to her guild, Allie gathered everyone and teleported them over.
+
+Matt expected a content and happy Lila, but what he found was broody Lila who loomed over everyone unloading cargo, glowering at every item as if it had personally offended her.
+
+Peeking around her, Matt saw a healthy hall packed with high Tier items, materials, and Natural Treasures. He couldn’t help but wonder what the issue was when Lila looked behind herself to inspect them.
+
+“Please tell me you have something to show for your time in chaotic space?”
+
+“You didn’t? Hey! No need for that.”
+
+Aster darted around him, to escape the gleaming teeth that snapped only a few inches away from her tail.
+
+Pulling her head back, Lila lumbered over to them and growled, “I did fine right up until the last moment. Gideon and that idiot Eclavorn burned favors to secure a Tier 39 True Sunflower. Do you know how angry I am?”
+
+Allie scratched the side of her nose. “Not really? What’s it do?”
+
+Lila looked ready to unleash her breath attack, but she answered nonetheless. “It's a sunflower that creates light. Not just any light either. Said light allows for damn near any Natural Treasure to grow like a normal herb. It was mine! I could have secured it easily. One swipe of my claw and everyone would have fled before me. Sien and I could have had an amazing battle where the winner took all, but no! Do you have any idea how mad I am? Tell me you got something to make up for this.”
+
+A giant eye blinked at the frantically nodding teleporter from only a few inches away, but Matt was already looking up the difference between the True Sunflower and other similar items.
+
+Seeing that the list of Natural Treasures the sunflower couldn’t grow was the shorter of the two lists, he started to understand her frustration. As a Tier 39 item, the True Sunflower would allow the Monster Collective to grow otherwise impossible to find Natural Treasures for the war Tiers.
+
+Unlike his introspection, Aster poked the dragon's snout. “What about Sien? Why didn’t she fight?”
+
+Lila closed her eyes and silently counted down from ten but eventually sighed, “She was rendered inert as well.”
+
+“How?”
+
+Liz’s question caused the dragon to slam her tail on the floor hard enough she shifted the orbit of the space station. “How many times do I need to say they burned favors?”
+
+“Until you elaborate.” Liz sniped right back.
+
+“I—” Snorting, Lila fixed the floor and the orbit. “I’m irritated and am choosing to not answer. It is what it is. I secured lesser oddities, so it was still a very lucrative trip overall, but it could have been more profitable, which is why I’m irritated. How about you and the Unsparing? How did my old ship do? Tell me she’s still got some of the ol’ perfectly normal good luck on her rather than Wun’s brand of… luck.”
+
+The dragon almost said the last word like a curse.
+
+Allie pulled the [Home] skill orb from its plinth in the storage vault, spinning it on a finger tip. “How about this?”
+
+Leaning down, Lila nearly knocked the skill orb off Allie's finger, even as her draconic grin grew extraordinarily wide, the way only a dragon could properly manage.
+
+“Now that is special. Its use will make fantastic collateral in any upcoming bets you might want to engage in during the upcoming auctions. We’ll be having an Ascender gathering at the start of the Minkalla auctions, so I do hope you've prepared properly beyond this little delight. However this is an amazing find.” Scanning the orb from several angles, she finally asked, “After that, are you interested in selling it? I’ll take it off your hand at a fair price. It would be unbecoming of me not to secure this for my people. Has anyone seen it appear in a rift yet? How far have you spread it?”
+
+Having already decided on a similar course of action, they agreed readily, improving the dragon's mood.
+
+Reaching out with a single enormous claw, Lila absorbed a copy of the skill from the orb as Zack updated her on it. “No rift drop appearances as of yet, but there are less than a hundred people with the skill and most estimates put the skill at the Tier 38 or Tier 44 brackets. However, nothing will be confirmed until it drops, so we are in a bit of a limbo at the moment regarding the skill. Given its utility…”
+
+Lila looked over to Rah, who shook his head without needing to be asked. “Many people have asked, but no. I don’t know where one would even get started on trying to make such a complicated skill, let alone being willing to try creating something so complex inside myself, and all attempts to make the skill in a blank skill shard have proven futile.”
+
+Instead of getting angry at the news, Lila’s tail started sliding across the floor in an unconscious swishing motion as her smile deepened.
+
+Matt definitely didn’t notice Aster mouthing the word ‘wag’ to Allie, but Lila was in too good of a mood to mind the teasing.
+
+“The minute one of these skills show up in a rift, the skill orb’s value drops off a cliff. By that same logic, we can charge sky high prices for each use until that point. Oh, this is perfect! I already know most of what the others personally acquired, which will let us strategize. What else did you squirrel away? I hear you killed some idiots. Good for you.”
+
+Liz gave a quick recap of their run-ins with Remi and his ultimate fate, but Lila seemed unbothered. “Vana has a number of descendants, so I wouldn’t be too worried until you go to the Republic. Then, you might want to be careful. The old wolf is… well respected, to put it lightly. Some people might try and get you to do something stupid when you go and delve your buyout rifts, but someone would have tried that anyway, so I wouldn’t worry too much.”
+
+Lila was far more interested in the crystal planet and the strange realm they’d found as she inspected the few growth items people had on hand.
+
+Lifting her head, the dragon snorted lightly, “Not a bad haul for your first trip, but you could have done better.”
+
+Allie started counting on her fingers before quietly asking the room, “But we brought back two full inventories. How is that only ‘not bad’?”
+
+Gleaming teeth clicked as razor sharp claws tapped out a staccato rhythm on the space station's floor as Lila ignored Allie. “You guys are lucky you got something nice for me, because I have good things for you.”
+
+Tail swishing over their heads, they followed her through the space station halls. Halls that were surprisingly big enough to let her massive frame move through the halls.
+
+In fact…
+
+Aster, having sensed Matt’s thoughts, threw a bolt of snow at the scaly underside of a wing and asked, “Did you only steal this place because its main corridors were large enough for dragons to walk through?”
+
+Said tail swiped down and made an indent on the floor where Aster had been standing before [Floating Snow] activated and repositioned her.
+
+Despite the yelp of protestation, Lila never bothered to look back as she denied. “Not a chance. And you won’t think that either if you want some of the things I brought back.”
+
+Seeing a pile of loot already being picked over by over a dozen appraisers, Lila pulled a small collection of items over.
+
+Matt’s eyes were drawn to a small doll-like figurine that was pulsing faintly, and as such, he wasn’t too surprised when Lila sent it over to him. “A backup item for getting your sword. I have other stuff if you already got one, but I kept this one aside for you. I’ll have you know, I had to fight Wun for it. A fierce battle of tooth, claw, and staff— you don’t look excited.”
+
+“Thanks Lila. I did, in fact, find a replacement on our own trip. Though…” Reaching up and tapping a scaly leg, Matt sent the dragon everything about his armor and JR.
+
+Lila’s humming caused the space station to rattle for a moment before she sent a single thought back.
+
+“You lucky bastard.”
+
+Then she started bragging outloud.
+
+“Let me tell you about our first big detour…"
+
+Instead of listening, Matt scooped up a beaded ring from another cart before sending it to an appraiser, who confirmed it was a Tier 38 Nine Life Ring. The ring didn’t grant additional lives, as its name might imply, but it did have a unique regrowth mechanism, one of the several kinds of treasures JR told him to look out for during the auctions, as he intended to try and transplant the effect into Matt's armor.
+
+The idea of ‘wasting’ an entire Natural Treasures for only a tiny part of its power wasn’t entirely foreign to Matt, who’d helped Liz with enough alchemy to understand that sometimes only a bit was needed for best effect. However taking a Tier 38 Natural Treasure that could protect a person's spirit from potentially devastating curses and discarding ninety nine percent of it felt extravagant even to him.
+
+When Lila saw what he picked up, she snorted lightly. “Fine, take it. But know I lost part of a wing for that, so don’t think it was cheap, even if it's a lower Tier than the first gift.”
+
+While he had her attention, Matt asked, “Any word on someone getting an arcane mana aspecting Natural Treasure?"
+
+To his shock, Lila nodded. “I heard a rumor that two were found, but there might be slightly more or less, given how rare they are. Additionally, you need to remember a lot of such hyper valuable items never make it back to settled space at all. Most get used internally rather than sold. One I’m sure exists, because they shared the news, was Tier 19, and the Republic explorers made their stance of selling it to their Path equivalent clear from day one. They vanished almost immediately, so either they are dead and it's gone, or it's already in the hands of the Republic. The other one I heard was over Tier 30, but under Tier 35. Sadly, it was grabbed by the Clans, so good luck getting your hands on that one.”
+
+Catching her hint, Matt used the now working Ascender Chat and messaged Wun. “Any interest in the ability to save a star system's location and then be able to track said location through chaotic space? Additionally, you’ll always know the fastest way to return to said spot, whether you need to travel through a real space crossing, chaotic space, or sky bridges- I mean planetary tethers. Sorry, new nomenclature from Rah.”
+
+Matt expected an immediate and enthusiastic response after his teasing message, but when Lila snorted and curled up around the skill orb, he realized what had happened and sent another message. “You verified with Mom? How sad.”
+
+That finally got the lucky Clan Ascender to respond. “There is no way I would believe something like that without three forms of proof, so know you’re on thin frosting. And don’t call Lila mom again or I’ll show it to her.”
+
+Ignoring the attempt at a distraction, Matt pressed, “So you're interested?”
+
+Matt let himself smile as he heard Wun’s grumbling even through the text. “No shit. What do you want placed in a bet for you to wager it?”
+
+“Can you get your hands on the Arcane aspecting Natural Treasure?”
+
+“Absolutely not. Those stupid Mountain Raider idiots have already made it clear they are selling it to the assembly rather than hold the item.”
+
+Cursing, Matt clenched his fist, seeing his opportunity just out of reach.
+
+Unwilling to give up, he asked, “Any chance your government might not use it immediately and are open to negotiating?”
+
+It took long enough for Wun to reply that Matt was fairly confident that he’d at least tried when his reply came back. “No official word, but unofficially I was told they already know of your interest and aren’t willing to empower a competitor. I was told that if you are willing to leave the war Tiers they are willing to talk, but I’m pretty sure even if you accept, they won’t actually agree. Sorry, Matt, but the best I can tell you is that they are probably going to argue for at least a century before any committee can assign ownership of such a valuable item. Do with that as you will.”
+
+Knowing he’s reached the limit on what Wun can do, Matt thanked the man before letting him go.
+
+Checking the rest of the Ascender Chat, Matt was mildly surprised to see everyone except Aiden was active.
+
+Seeing Lila’s post about the [Home] skill orb and the disbelieving comments under it banished any negativity on possibly losing out on an arcane aspecting Natural Treasure. They were incredibly rare at the best of times, and two appearing now was already well above the statistical average.
+
+Sliding up to Liz, he wrapped an arm around her waist and inspected what she was looking at. He was only mildly surprised to see she’d also declined Lila’s original item, but he was confused by its appearance as a dried out sponge. Stranger still, it wasn’t even a Natural Treasure, but a plant they’d found. After testing determined it might have some value, samples were brought back.
+
+“What is it?”
+
+“When you break one of the fingers off it becomes a fantastic but incredibly selective absorbent. One sample of what you want it to absorb, and the not-sponge sponge starts to only absorb that specific compound. I’m thinking I can use it with my cauldron to extract more waste products in the initial refinements.” Leaning in, she whispered while covering the item, “Despite its appearance it's not even a sponge, but rather a type of grass, as strange as that seems. Best of all, it's not that hard to grow. I figured I could shove it in my terrarium and prune this plant every once in a while as we wait for new saplings to grow up.”
+
+Left unsaid was the item being Tier 36 which meant she’d be able to use it until at least Tier 40 if they let it Tier up, making the sample worth quite a lot, given its status as one of only five of that Tier.
+
+Lila immediately started hemming and hawing the moment she noticed Liz's choice. “Hey now, I said you can have Natural Treasures or other loot, not naturally occurring and growing wonder plants. I intend to patent the seeds for these babies and turn this into my retirement fund.”
+
+As shocked as everyone else, Aster climbed from between two large boxes and asked far too loudly, “You’re retiring?”
+
+Lila pulled back slightly and snorted as she started sketching her ideas out mid air with her claws. “It's about time I settle in for my last grand adventure before I ascend. One final voyage into the deep chaotic space. However, to do and afford that properly, I need funding. Lots and lots of it, so you can’t sell any if you take that plant, Liz. Or I want my cut from any you do sell. I've already worked out reseller costs and I can give you the friend discount, but I want my cut.”
+
+Phoenix Liz squawked at the larger dragon, even as human Liz ignored her.
+
+Matt was going to offer his help as the idea of a deep chaotic space voyage sounded right up his alley, when an interested Rah poked his head out from a pile of loose ore he was sorting through. “I heard the words voyage and chaotic space. What's the goal of this voyage if you don't mind me asking?”
+
+Lila preened at the question, even as a star speckled ear popped into existence, indicating she had everyone's attention. “Thank you for asking Rah, and I don't mind sharing at all. Currently, I’m not entirely sure about our destination, but my ultimate goal is exploring the very border of the third layer of chaotic space.”
+
+Matt whistled at Lila’s audacity. Wanting to explore the fourth layer of chaotic space was the stuff of legends. There was always at least one team per immortal generation that got themselves killed trying to explore that deep, but apparently, she wanted to take a crack at it.
+
+She… probably expected Matt to power the shields, and he didn’t have any issue with that, so long as he got to go along.
+
+Seeing their interest, Lila’s smile grew devious. “Don’t worry. For genuinely completely unrelated reasons, it will probably take until you reach at least Tier 40 or so before any such expedition occurs.” Grinning, she teased, “Might be fun, don’t you think?”
+
+Allie’s agreement was immediately followed by a yelp of pain as a nearby shelf wobbled. “Ow, I deserve a hazard present.” Seeing Lila’s unamused expression, she continued without missing a beat, “But we’ve actually been planning our own little voyage in a few Tiers and wanted to pick your mind and crew on how best to explore when not during a breach.”
+
+“Would you like to borrow the Unsparing once more?”
+
+“Why would we have to borrow what we already bought?”
+
+Lila opened her mouth as if to reply to Aster’s comment before finally growling out, “The berthing fees will eat you alive. I’ll make sure of it.”
+
+Matt was thoroughly happy with his own Nine Life Ring as it solved one of his problem items. In fact everyone but Allie found it easy to select an item, she however waited until the moment before they were kicked out to finally pick one. Lila and her group needed to get ready for the auctions. Everyone else had long since prepared and were only waiting for the highest Tiers’ return, so no one expected it to take long for a date to be set.
+
+In fact, it only took a week before Empire’s auction date was set for a year and a half later. They might have set the date sooner, but even the fastest ships required travel. To make that slightly easier, every kingdom level capital would be hosting their own smaller scale auctions, catering to the Tier 25 and lower explorers. The highest Tier explorers would all be flocking to the Capital, centralizing the most valuable items and making it easy for interested buyers to find them.
+
+Thanks to Allie, they were able to show up only a day before the event and skip the travelling part.
+
+The first thing Matt noticed when they arrived on the Capital was the moon, which was in its ring phase. Because of that, it cast a dazzling kaleidoscope for everyone, both those in space and planet side, to appreciate during the celebrations.
+
+The second thing he noticed was how busy the capital was. He couldn’t quite say it was at the same level as their Ascension ceremonies, but it was one of the closest that he’d seen before or since.
+
+Ships were everywhere. Some still even had battle damage, no doubt left deliberately, but most were cleaned and polished in time for the auctions. At the same time, all of the exploration ships were centered around the four megalithic space stations subordered for the auction.
+
+Rather than teleporting to the venue with the others, Matt and Liz boarded one of the many shuttles going in and out of orbit all over the Capital system’s planets and moons. They wanted a little time to themselves before meeting up with the rest of their friends who intended to show up.
+
+To that end, they decided to play mortals for their first day. Not that it was hard to do. The price for a day trip to the auction was low enough that anyone local who was interested could spend at least one day exploring the month-long event.
+
+Matt was more interested in scanning the shuttle's interior than his surroundings. It was a new model, purpose built for orbital jaunts, but the way they’d done so was unconventional to say the least.
+
+The first and most obvious change was the dual engine setup they’d gone with. Far from unusual in new orbital shuttles, who needed both the raw power of traditional engines to get off the ground when fully loaded, but also wanted the cost savings a travel mana engine could provide for the majority of the flying. The initial response had been to use a slightly undersized normal engine and have a small travel mana engine which they could engage once they left the local planet’s gravity well. Such changes could be made to existing designs and made retrofits easy.
+
+The shuttle they rode up on hadn't been treated the same way. The entire ship was built around one of the largest travel mana engines they could fit in their flight profile, with a smaller normal engine squeezed in, rather than the other way around.
+
+Matt didn’t quite understand how that could work, until he looked closer at the engine design. It wasn’t nearly as normal as he first thought. A quick consultation with his [AI] showed it was actually based on specialised engines used for drag races, if downtuned to not need a dedicated mechanic fussing over it after every use. Fantastic acceleration, but the mana efficiency was truly abysmal. With that context, the idea became clear. Use the acceleration to get to the point where travel mana becomes more efficient as fast as possible. The time saved accelerating and the greater efficiency of the larger travel engine, which also seemed to be a new iteration, must make up for the greater mana cost of the drag engine.
+
+Monitoring the mana usage as they took off, it seemed to bear out and Matt couldn't help but be impressed. The little engine guzzled mana for a short time, and now that he looked at it, the inertial dampening runes were also somewhat overbuilt and draining more than normal, but it got them to top speed in record time. There was probably some minimum distance it needed to travel to come out ahead, and it really was basically locked at either idle or top speed, but within those limits it was better than any shuttle he had seen so far.
+
+Tapping into the EmpireNet and looking up the information about the new shuttles, Matt realized why he hadn’t heard of them: this was their public reveal. That was a very bold marketing strategy, but had the potential to massively pay off, so long as nothing went wrong.
+
+Once they arrived at the auction, they moved along with the crowd until they found a place that was somehow more crowded than the shuttle. The inspection areas.
+
+Personally, Matt would have preferred to have the Minkalla inter-Great Power auction first, but none of the Great Powers as a whole were too keen on allowing their citizens to empower foreigners. Something he’d just run into, not that it always worked. Some cultivators would deliberately keep some of their best and rarest items for the Minkalla auction. Even in the Empire where they didn’t mandate sales, the Imperial government still set the local auctions first, relying on the fact that most would rather sell everything at one place.
+
+“Oh come on, this line will take hours to get through.” Even as Liz spoke, phoenix Liz hopped onto Matt’s head to get a better view.
+
+Instead of trying to leave, Liz leaned into Matt using him as a convenient wall as they settled in for a wait. “I’ll bet three people drop something in the next ten minutes. Has to make contact with the floor and can’t be intentional.”
+
+Thinking about it for a moment Matt offered, “Over.”
+
+“Really?” Both Liz’s looked at him strangely.
+
+“Look at how many people are distracted. Sure they are immortals with theoretically perfect bodily control, but everyone is excited and nervous. Seventy percent of them are fidgeting or idly messing around with some object. No way four or more people don’t fumble something. Oh look, right there is one.”
+
+Seeing a Tier 20 man lose control of the playing card he was fidgeting with, Liz cursed under her breath. “Okay, I’ll go with sneezes. Seven in the next ten minutes, has to be in this room, not the whole station.”
+
+“Under. Definitely under.”
+
+Liz chuckled, even as she shook her head. “Wrong choice. That Tier 15 definitely still has his allergies and is standing right next to a cat. He can barely keep it together, but he’s not got enough spiritual control to stop the reaction.”
+
+Seeing the same thing, Matt cursed into phoenix Liz’s plumage as he started looking for the next thing they could bet on.
+
+Their banter continued until they reached the front of the line, where the assistant froze upon seeing their identification codes, which did not match their physical appearances. Plucking a feather that turned golden from the masked phoenix, Matt blocked anyone else from seeing it even as he smiled.
+
+The Tier 10 man’s brain dumped cortisol and adrenaline into his body at an alarming rate, but to his credit, he remained perfectly professional as he led them to a back room where any items they wanted to sell would be reviewed before being listed. It was only after he’d shut the door and walked down the hall that he let himself slump to the floor, laughing.
+
+Wanting to be nice and reward the surprisingly young Tier 10, Matt and Liz both signed the feather he’d plucked before dropping it into the kids lap. Without any treatment the lone feather was little more than a curiosity piece magically speaking but it more than enough to make his day.
+
+Rather than intrude further into the private moment, they got ready for the inspection. While it might technically be a waste of time for those who’d already had their items appraised, no one wanted to buy fake or altered goods, leading to a second round of checks.
+
+Dropping three specialty made boxes on the table, they’d barely settled down when two appraisers entered the room, already bowing.
+
+“Ascender Legion, Ascender Titan, it's a lovely day to see you. W—”
+
+Seeing the ass kissing from a mile away, Matt did his best to tune the two out as they went over each item, wishing the two immortals could have learned from the Tier 10. To their credit, they did their jobs without trying to artificially increase or decrease the value of their items.
+
+As dukes or Ascenders, they could have skipped the line or simply submitted their items for verification, but they were following Lila’s advice in getting their items checked manually. Sure, she was skipping the line directly while they waited in it, but it amounted to the same thing.
+
+Once all of their items were processed, the best were chosen to go to one of the many auctions that would happen over the next month after they nodded. Everything verified but not picked was and handed back to them so they could sell or barter with it as they decided.
+
+Instead of meeting up with their friends immediately, the two of them wandered through the areas targeting the mortal Tiers, slowly exploring the various shops selling lower Tier Natural Treasures.
+
+The prices were anything but reasonable, but that didn’t stop items from being bought constantly. Even non-Natural Treasures were being snatched up for exorbitant prices, but even some Natural Treasures were flying off the shelves despite the prices.
+
+Sadly, they didn’t have all that much to sell. All of their mortal Tier items had been sold in their own duchies when they first returned, so they happily browsed, looking for deals or the rare misidentified item. There were always rumors about someone finding a rare variant Natural Treasures and striking it rich, and it being the first day, they weren’t the only ones trying their luck mingling with the mortals.
+
+Immortals had to pay a premium if they wanted to buy any of the lower Tier goods, which kept them from grabbing everything, but some of the cultivators they saw spent mana like they had Matt’s Talent.
+
+“He’s gotta be someone important. There is no way he bought over a dozen Tier 5 items without feeling the pinch. Maybe it's Manny or one of the other Royals? Should we go poke them?”
+
+Matt leaned over to whisper back, but his words were cut off as he saw one of the new objects a stall brought out.
+
+Pulling Liz over drew her attention, but she had the same idea he did.
+
+Voice Shells were little more than curiosity pieces with [AI] and the EmpireNet making communication easy, but even paying a Tier 30 price was worth the fun they had whispering messages to each other as they explored the various stalls. One of the quirks of the shells was how they ‘ate’ the speaker's voice allowing for surprisingly private messages even in a public venue filled with noise.
+
+Sadly, they didn’t find any other real bargains or deals in the mortal areas, so they meandered to one of the area’s meant for lower Tier immortals. While there were less mortals, there weren't none. All four space stations were open to all Tiers, though the sad reality was that there was little for the lower Tiers to do beyond watch as the asking prices for even common Natural Treasures were above the items Tier pricing them out.
+
+According to historical trends, the prices would go down over the course of the first week, but as the venue came to a close, prices would deviate once more. Those who simply wanted to dump the rest of their stock would lower prices, while teams who wanted to go to Minkalla would raise them.
+
+Before they were able to explore too far, they saw two familiar forms leaning over a stall mainly selling Tier 20 objects.
+
+Sharing a grin with Liz, they snuck up on the two before leaning between them and whispering while sending the duo a private message.
+
+“Guess who?”

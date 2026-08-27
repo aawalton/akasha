@@ -1,0 +1,183 @@
+---
+id: 4e654d03-1137-5306-acae-47d44c921624
+page-type-slug: story-chapter-royal-road
+title: "292. Speedrunning the Multiverse (I) "
+slug: 0048-292-speedrunning-the-multiverse-i
+partOf: speedrunning-the-multiverse-complete
+position: 48
+ownLength: 2027
+unit: words
+ownProgress: 2027
+publishedAt: 2023-08-25
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1321216/292-speedrunning-the-multiverse-i"
+royalRoadId: "1321216"
+markedReadAt: "2026-06-29T22:43:19.688Z"
+---
+
+Orynthia
+
+Middle Realms
+
+In Orynthia, everything floated. Gravity was not so much a law here as a helpful suggestion, often ignored. Most buildings were situated on floating islands; cities were merely islands clustered together, making a sort of giant dirt clump mid-air, linked by chains and bridges. At a distance it looked like an unappetizing meatball.
+
+The capital looked like three meatballs stacked atop one another, and none the more appetizing for it.
+
+On this particular day, it was made even less appealing by the strange gray dots studding the meatballs’ surfaces. Come closer, and you’d realize they were battlements upon which huge cannons were mounted. Soldiers milled restlessly beneath them, scouring the air, gulping, scratching at themselves nervously. There was an omnipresent tension.
+
+The downside of floating? You had to cover a lot more angles—an enemy could strike from all three hundred and sixty-degrees. And the warriors of Orynthia had been trained all week to pivot to the enemy, wherever and whenever he might appear.
+
+On one of these battlements was a soldier named Yan, in the midst of one of the worst days of his life. The week had started with his childhood turtle Tori dying. It had gotten steadily worse from there. Once he reported to his regiment for duty later that day, tear stains still present on his face, he’d been roundly mocked by his regiment. Then his sergeant had informed them that a Multiversal Threat was coming for them in a tone that strongly suggested it was somehow their fault. He’d been awake ever since, staring blankly at empty pockets of air, ‘keeping watch’. Every five minutes he’d fall asleep and be woken up by the feeling of falling, or by his head clattering against the cobbles, or by Todd, his partner on watch, who gave him a hearty booting.
+
+They’d made a pact to boot each other if they fell asleep too long. It was far better than the alternative—being caught by the sergeant. The army had never been a lenient place, but ever since Jez started cracking down and demanding absolute obedience it had gotten downright tyrannical.
+
+Yan sighed. “Is this Damien even coming?” he muttered. “Maybe some other realm got to him.”
+
+“Dorian,” said Todd, wild-eyed. He had been keeping himself awake with a drug cocktail meant to get rocs in heat. “And keep your voice down!”
+
+His head swiveled about, uncannily birdlike.
+
+“What?” said Yan. “It’s not like he can hear us.”
+
+“You don’t know what he’s capable of!” snapped Todd, at least five times louder than Yan had been. “That fucker’s not human! Just shut up and keep watch!”
+
+Yan opened his mouth to argue, then thought better of it. Human or not, he couldn’t see how one fellow could get around this porcupine of nearly fifty thousand soldiers, all protecting just one Infinity Heart. He’d not only need to get past all these floating outer islands, but also penetrate the inner fortress. Which was mounted with four super-cannons that could take out Empryean-level dragons in a blast.
+
+And honestly, Yan wasn’t that invested in ‘protecting the realm with his life,’ or whatever. All these comings and goings of great powers so vast he couldn’t begin to wrap his mind around them… they might as well be folk tales to him. His life didn’t change that much, one ruler or another. This soldier stuff was just a job to him.
+
+His mind wandered back to Tori. Poor Tori. If he’d known that would be her last day he’d have went out and gotten all her favorite leaves for her, and sang her a song, and brought out all the pictures they’d made of their memories together, over the years. Them painting together, he with his hand, her with a brush in her mouth. Them taking that trip to the lake, and seeing her delight at swimming in freshwater for the first time… he smiled wistfully. If only—
+
+“He’s here!” screeched Todd, bug-eyed.
+
+At first Yan ignored him, because Todd had screeched that about a half-dozen times in the past forty eight hours, and five times it had been some random bird, one time a floater in his eye. But then Todd slapped him in the face.
+
+“What?” said Yan, getting a little cross himself. If this fool couldn’t control himself—
+
+There was a dragonoid standing some fifty strides away.
+
+“Phew!” it said. Then it looked up at them puzzled, hands on his hips. “Say, would you fine fellows know—”
+
+“ATTACK!” cried Todd, slapping an alarm button.
+
+Sirens screeched across the capital. Cannons swiveled to meet the still baffled-looking dragonoid.
+
+“Uh,” he said.
+
+And then a few thousand state-of-the-art cannons blasted their payload at hypersonic speeds. A few hundred cannonballs struck him at once. The poor fellow disappeared under a cloud layer—hadn’t even had time to scream.
+
+Yan hoped for a second he was alright, then remembered they were at war with the fellow, or something.
+
+“Is he dead?” he said nervously.
+
+There was a long silence.
+
+Then lines of blue light broke the cloud layer. Dozens of them, one after another, whistling by Yan’s head so fast he didn’t even have time to duck. He just flinched as they screamed overhead—but they weren’t aimed at him.
+
+A scattering of explosions, some near, some far. He glanced up and ducked for a second time. This time was necessary—the steaming chunks of what had once been the cannon on their base showered him.
+
+Yan got this cold, sinking feeling in his stomach. Sort of like when he walked into the room earlier that week and saw Tori upside-down.
+
+The dragonoid broached the cloud layer again, and this time he was smiling, but in that way insane people smile when they’re actually very very angry, and about to do something drastic about it.
+
+Yan screamed and ran. And not a moment too soon; the dragonoid began to glow…
+
+From a distance, the line of dragonbreath that cut through Orynthia’s defenses might look like a skewer running through three meatballs, roasting them thoroughly.
+
+A few breaths later, every soldier there felt their connection to the Infinity severed.
+
+***
+
+Áilinur
+
+Ancestral Home of the Elves
+
+Upper Realms
+
+Eolyn, Ranger of Áilinur, crept from branch to branch, scrutinizing each leaf as though it might hide their enemy. And there was a lot to scrutinize; Áilinur might be the most forested realm in all the Multiverse. Its capital was one giant tree, upon which more trees grew. At a distance it might resemble a layer cake—albeit the moldy, unappetizing kind.
+
+Everyone else—from the Ranger General to his colleagues—were scared shitless when they heard what was coming, when they heard what he’d done to Jez’s forces on other realms; a few had reported mysterious, spontaneous illnesses. But not Eolyn.
+
+The greater the beast, the greater the glory for slaying it!
+
+“I hear—I hear he can fit through the eye of a needle!” said his brother Eosyn, quivering much you could hear his skull rattling against his helm. Eolyn snorted. “What, does he have no bones? Fucking moron.”
+
+Eosyn looked aggrieved. “I just heard it. Why do you always have to be such an arse—”
+
+“Shut up!” hissed their platoon commander. “Listen! Look! He could be here any moment. And when he comes he’ll be on you swift and silent as your own shadow! He is a cunning, careful creature, this Dorian. When he kills you, you might not even see him—not until it’s too late!”
+
+Eolyn swore these rumors grew several sizes bigger every time he heard them. By the end of this week Dorian would shit thunder and spew lightning.He was just turning to tell his platoon commander so when he came face-to-face with this strange dragonoid creature.
+
+“Hi,” said the creature, waving casually. “Which way to the Infinity Heart?”
+
+“Who the Hell are you?” said Eolyn. Had the platoon commander taken a wrong turn through the trees?
+
+His next memory was waking up, head pounding, face throbbing as though someone had punched him very hard in the face.
+
+What just happened?
+
+There was no-one around to tell him, since they were all knocked out cold. He followed the trail of unconscious bodies up the trees, in a sort of drunken stupor, until he at last arrived at a shattered Infinity Heart.
+
+Oh.
+
+***
+
+Eryndor
+
+Upper Realms
+
+Eryndor was the most technologically advanced realm in the Multiverse. They had long since transcended metals; their megacities were built of a sort of nanofiber. Incredibly durable.
+
+Indeed—they’d even wrapped their Infinity Heart in fifty feet of the stuff. It should’ve been impossible to get to.
+
+But Dorian simply changed it to a mass of giant bubbles, which floated away, nicely reflecting the guards’ horrified expressions.
+
+The Infinity Heart shattered with a satisfying crunch.
+
+***
+
+Dorian found news of him had spread fast. After a few dozen runs, some realms simply surrendered themselves at his coming. Others, long disgruntled at Jez’s rule, welcomed him with bushels of flowers; he arrived smiling and blowing kisses to great crowds.
+
+From their brief scrying glass calls, he gathered Fate was ecstatic about the whole thing. They were getting hordes of new recruits to throw at their fraying front lines, Jez’s power supplies were diminishing one by one… all was going swimmingly!
+
+***
+
+Jez stood in his observation room, a room stacked with scrying glasses—a room where he got a window into each of his realms.
+
+And one by one, almost by the hour, a scrying glass on the wall went dark.
+
+On but five of these glasses his forces pushed Fate’s back. On the others, he lost world after world…
+
+He felt like a child again. Staring up at Dorian’s great storm, helpless as it sucked away all he held dear. He felt that child’s anguish, that raw hurt.
+
+How was it possible to feel so vast, and yet so small, at once?
+
+He quivered with despair, with anger. He might’ve been vast, but it was nothing in comparison to the vastness of his task. He meant to correct the very nature of the Multiverse. It felt like a dagger sliding between his ribs each time he saw Dorian liberate a realm; but each time he saw that realm’s residence cheer, and applaud him, even throw flowers at him, it felt like the knife twisting. He wanted to vomit.
+
+Why couldn’t they understand? Why didn’t they? Dorian the hero, he the villain? It was so—so horribly wrong! It was he who was the one trying to liberate them from the cruelties of the world; it was he who was up against massive, nearly insurmountable odds!
+
+But nobody cheered him.
+
+Nobody acknowledged him. Nobody thought that it was a good thing he was trying to do.
+
+At times he felt he was the one sane man in an insane world. Did that make him the insane one?
+
+Even the ones on his side—they’d joined for all the wrong reasons. They craved power, whatever they might say to his face. They were no different. And perhaps he had encouraged that; and perhaps he should not have. But it was far too late now.
+
+There was only one thing he could do now.
+
+He closed his eyes and reached with his mind to brush the minds of his servants. His Chimeras.
+
+Go to Pithia, to Caoshan, to Authen. Retrieve the Godking bodies there. Bring them to Hell.
+
+His size was his weakness. The Infinity was far too vast to defend. All he could do was place his strongest forces on his most critical realms; the rest…
+
+It pained him. But he had no choice in the matter. At least he would keep Dorian’s bodies from his hands.
+
+It was clear to him that Dorian was—had always been—a far greater threat than Salieris. It had been foolish to spare him in the desert. He could not be allowed to continue.
+
+But he had sent servant after servant, and one by one they failed him.
+
+He sighed. And then, slowly, he began to giggle. And then laugh.
+
+In this, as with all things, it seemed he was alone.
+
+He would have to do it himself.

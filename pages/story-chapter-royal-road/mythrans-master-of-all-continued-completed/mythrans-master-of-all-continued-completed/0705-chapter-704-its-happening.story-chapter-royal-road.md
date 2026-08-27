@@ -1,0 +1,243 @@
+---
+id: 0612868b-7aaf-5f79-8808-ee1ad5e6eb39
+page-type-slug: story-chapter-royal-road
+title: "Chapter 704 - It's Happening"
+slug: 0705-chapter-704-its-happening
+partOf: mythrans-master-of-all-continued-completed
+position: 705
+ownLength: 3357
+unit: words
+publishedAt: 2018-09-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/291384/chapter-704-its-happening"
+royalRoadId: "291384"
+---
+
+Gloria went home after her confrontation with the mayor of the city. She was pretty riled up over it and wanted to blow off some steam, so she prepped herself for spending some special sexy time in the game. She did it completely out of habit and automatically, and when she sat down on her recliner and realized what she had done, she closed her eyes and tried not to let her emotions get the better of her.
+
+I just prepped myself for a sex marathon with Ren. Gloria thought, and berated herself for it. Stupid, stupid, stupid! She sighed. How could I have been so stupid to throw everything away?
+
+That thought made her think of what just happened at the garage, and she sighed again.
+
+I wonder if I've screwed that up for myself, too? Gloria asked herself and picked up her VR headset. “Flow Login Start.”
+
+Nothing happened. No loading screen. No popup. Nothing.
+
+“I said, Flow Login Start.” Gloria repeated, then slipped off the VR headset, set it aside, and went to her computer. She typed up a few commands and frowned because nothing was there. “What the hell?” She asked and tried to ping the server host. Nothing came back and she sat back in her chair and thought about it. She opened a web browser next and checked the game's main message board and saw that the forums were flooded with messages about losing their stuff and then being kicked out of the game.
+
+“What the hell is going on?” Gloria asked and scrolled down through the hundreds of messages. A lot more people play during the day than I thought. She thought and quickly read the headers. After a few moments, one of the posts caught her eye.
+
+TheLivingDaylights:  XP Domination! He did it again! (click to read more...)
+
+Gloria clicked it and read about how the entire XP leader board has been taken over by the same person. How it was completely unprecedented for a single player to take up every single slot in mere moments. She didn't even have to wonder who he was talking about as she scrolled back up to the top of the page and saw that Ren's name was there on the link to the XP leader board.
+
+Gloria clicked on the link to go to the page and saw what was there. She held in her gasp of surprise as she scrolled down past the 3 permanent spots with Ren's name and the Xs that blocked seeing the actual totals, and she saw that every single slot had Ren's name on it and the same XP total on each one.
+
+“What did he do?” Gloria asked out loud. “I didn't think anyone could... he was already at max level and couldn't gain any more XP, so...” She stopped talking and thought about it, then her mouth dropped open when she realized what he had done. “He must have chosen the additional class option to reset everything to zero, then used his Emotion Siphon ability and maxed his XP again!”
+
+Gloria counted the number of XP slots he had filled on the list and opened up one of the help files she had about the game. She quickly checked the index for the right page to look at, then jumped to there and read about the number of classes available.
+
+“Holy shit! They match!” Gloria exclaimed. She wasn't sure if the game designers had done that on purpose or not; but, it was a little more than a coincidence that the number of available slots equalled the number of classes in the game.
+
+Gloria picked up her cell phone and held it in her hands, and wondered if she should even bother trying to contact him. No, I need to know what's going on. She thought and typed up a quick message to Stella and her thumb hesitated on the send button. Why am I so nervous about this? She asked herself, closed her eyes, then pushed the button and waited anxiously for a response.
+
+*
+
+Stella took her cell phone out of her pocket when she heard the beep and was surprised by who it was, and by the content of the message.
+
+No one else can get online? Stella thought, then shook off her surprise and typed up a brief summary of Sid Tec screwing up the update and resetting everyone's connections. After a few moments, Gloria texted her back and asked what Ren was doing with the game offline like it was, and Stella didn't know how to respond to it.
+
+Do I tell her what Ren is trying to do? Stella asked herself as she held her phone and thought about it. She sighed and sent a message that he was dealing with it as best as he could under the circumstances. After several moments of waiting, Gloria texted her back, and her eyes widened at what it said.
+
+It was an apology.
+
+I never thought I'd ever see that! Stella thought.
+
+*
+
+“Oh, my god.” Elise said as she watched the massive file transfer that was happening right in front of her eyes. It was much too fast for her to see the individual file names, though.
+
+“What is it?” Barbi asked and came over to her desk to look over her friend's shoulder.
+
+“I'm really glad I invested in the dedicated high speed connection to the internet.” Elise said. “If we were using the regular line, our data overage bill would be completely outrageous!”
+
+“I thought he only needed the reference files.” Barbi said and looked at the numbers. “What in the world is he doing with all that information?”
+
+“I sincerely hope he's succeeding in trying to repair the game.” Elise said. “Mr. Torren told me they saved the current backup only after the new update had been installed.”
+
+“What?” Barbi looked at her like she was crazy.
+
+“I know it's crazy.” Elise said. “They are supposed to have a week's worth of backups, saved every night, and on a separate system in case the current backup is damaged or corrupted.” She sighed. “They didn't get the off-site backup installed, either.”
+
+“Hold on.” Barbi said. “Are you saying that they don't have the backups at all?”
+
+“That's what he said.”
+
+“Oh, wow.” Barbi put a hand on Elise's shoulder. “I'm so sorry.”
+
+Elise took in a big breath and let it out. “Thanks.”
+
+“I know how hard it is to see a company that you worked so hard for, screw everything up after you leave.”
+
+Elise reached up and put her hand on Barbi's. “I guess we weren't as dispensable as we thought we were.”
+
+Barbi chuckled. “It's more like we were lucky to get out while the getting was good.” She said. “I've had some time to think about it, and I believe this might have happened anyway.”
+
+Elise blinked her eyes for a moment. “Really?”
+
+Barbi nodded. “In my case, imagine if I hadn't come to work for you.” She said. “I would be happily putting around the station, completely unaware of what was going on, and it would have come at me right out of the blue.”
+
+“That's right! I wouldn't have filled you in on everything and you wouldn't have known anything was wrong until they cancelled the show.” Elise said, then gasped. “They would have blamed you for it, too!”
+
+Barbi nodded. “Poor Melanie was used as a scapegoat.” She said. “I tried to talk to her; but, her husband wouldn't put her on the phone.”
+
+“What about going to see her?” Elise asked.
+
+Barbi shook her head. “If he won't put her on the phone so she can hear my voice as I explain that it wasn't her fault, there's no way he would let me into the house to see her.”
+
+“I'm really sorry to hear that.” Elise said, sincerely.
+
+“If I give it a few days, I'm sure I'll be able to sneak in a visit or a call somehow.” Barbi said and walked back over to her desk and got back to work. “Until then, all I can do is hope for the best.”
+
+********
+
+“The files are coming over, but it's taking forever.” Ren said as the files trickled in so slowly that he and Vasalor had plenty of time to pull them apart, compare them to the broken files, and repair and integrate the backup copy with it to make a new file and repair the damage, long before the next file showed up. “What can we do while we wait?”
+
+“I believe you wanted to do some more research into programming.” Vasalor said. “With our link this active, you don't even need me to search for you.”
+
+Ren chuckled. “All right, I'm sorry.” He said. “I didn't mean to insult you by asking for something so simple, okay?”
+
+The shape nodded. “You are always quick to mend your ways when it is pointed out to you.”
+
+Ren did a quick search on his own and found several advanced level programming books. “Wow, this stuff is weird!” He said and read through it all in only a few moments, now that his brain had adapted to accepting information that quickly. “It's like theoretical physics!”
+
+Vasalor nodded. “Yes, when the technology gets to the point that you can miniaturize to the microscopic scale, nearly everything is possible.”
+
+“Like quantum mechanics.” Ren said. “We're a long way away from getting to the point where we can make computer chips not much bigger than an atom, though.”
+
+Surprisingly, Ren felt Vasalor's interest wane from anything that had to do with the outside world, and he nodded internally.
+
+His primary focus is on the thing he was created for, and all other things can't keep his interest for long. Ren thought to himself. He has access to everything on the internet, and yet he's not absorbing all of that information.
+
+Another file came in and Ren's mind did the same thing that Vasalor's did. His attention diverted completely to manipulating the current file, assessing and mitigating the damage of the old file, then put the new combined file into place. Once it was done, he returned to contemplating about internet access.
+
+Hold on. Ren thought. Now that I have access to everything on the internet, maybe I could...
+
+The shape that Vasalor made as an avatar, put a hand on Ren's face to get his attention.
+
+“I know you think that is a good idea, but it is not.” Vasalor said. “It is one thing to access things that you need and use it, and another to take everything and try to find within that mass what you want.”
+
+Ren opened his mouth to argue, then thought about what he said. “You're saying I would be overwhelmed by the information itself, and its value would be lost on me.”
+
+“You are quite smart; but, your brain is not structured to store information in the way you would need to handle that much information... not without it being all scrambled together.”
+
+“Yeah, my brain would be mush.” Ren chuckled. “I understand.”
+
+“Good.” Vasalor said and let his face go. “Unless there is something very specific that you need to access, like you did with the books on programming. You read about it and learned it on your own instead of just absorbing the information. I suggest that you limit yourself by continuing to use that technique.”
+
+“The first warning was good enough.” Ren chuckled. “You don't have to keep beating a dead horse.”
+
+“Why would I assault the carcass of a deceased mode of transportation?” Vasalor asked, and Ren laughed.
+
+“It's just a saying that Adventurers have about not needing to repeat something.” Ren said and thought about what he wanted to learn. “I've got a lot of Tailoring knowledge in my head and no real practical experience.” He said. “Most of my body is pretty debilitated when I'm not spending time in your creation; but, my hands work just fine.”
+
+A book materialized in front of Ren and he read the cover.
+
+“Hand Tailoring For Idiots.” Ren said and laughed. “Thanks.”
+
+“It is a fitting distraction.” Vasalor said. “You won't even need to leave your bed to do the work, since fabric is relatively light and easy to work with, if you have enough room.”
+
+Ren nodded and read through the book in moments. “Wow, it's almost as easy as I've been doing it here, just a lot more time consuming.” He said, then a real tailoring book appeared and he read that, too.
+
+“I assume you have designs in your head that you want to create?” Vasalor asked.
+
+“I've had them for a while now.” Ren said and opened a search window. “All I'll need is the fabric and the tools to do the work.” He looked for a place near where he lived and chose the right fabric he would need and the instruments and things a tailor working at home would use, paid for it and the rush delivery.
+
+“Is there anything else...” Vasalor stopped talking when a huge file appeared in front of them and they both got back to work. It took a lot longer to parse this one and compare it to the old file, since they had been modified at different times and the data inside was also quite a bit different, even though they were supposed to be the same file.
+
+“Now we're getting into the fun stuff.” Ren said and smiled. “This is where we need to start speculating and extrapolating where the connections are supposed to be and repair them.”
+
+“I can run the algorithms. I do not have practical experience with their application, however.” Vasalor said.
+
+“Don't worry, my friend. That's why I'm here.” Ren said
+
+They started to assemble the file back into the way it should have been before it was changed by the latest update. They worked slowly so that they wouldn't mess anything up, checked the file's integrity and made sure it would be recognized by the things that would need to access it, then inserted it back to where it was supposed to go. This went on for a very long time and they worked and talked, and shared everything that anyone could possibly share, then Ren came across the files that referenced him.
+
+Ren stopped working and took several deep breaths. Of all the files he didn't want to mess up, these were the ones that he really needed to repair and put back, so that he could have the people he loved back in his life without causing them pain.
+
+“Relax, my friend.” Vasalor said. “You are reading too much into this.”
+
+“Wh-what?” Ren turned and looked at him. “What do you mean?”
+
+“If you look at each file as a life or death situation, you will cause the very thing that you are trying to avoid.” Vasalor said. “You don't have to disconnect your feelings, just push them aside like you have for all of the other files and connections.”
+
+“But...”
+
+Vasalor put a hand on his arm and felt Ren's conflict. “You are trying to convince yourself not to do something that you believe is wrong.”
+
+Ren opened his mouth to deny it, then sighed. “Xuunah.”
+
+Vasalor nodded and brought up both files. One had a distinct connection present, now that he knew what to look for, and the other had it cut off. The one with the connection intact was the older file from Ren's servers and it seemed much stronger than the one that used to be in the old file.
+
+“I see it is different.” Vasalor said. “What did you do with this version of her to cause such a change?”
+
+Ren sighed. “Instead of messing things up between her and her people by share-bonding with her and then going to the Light Realm, I used a portal to take her to her people, transformed into a Light being and then did the share-bonding right there, with a bunch of witnesses.”
+
+“Ah, I see.” Vasalor said. “You offended them in this one...” He indicated the current broken file. “...and learned from that mistake and corrected it in this one, because you had a chance to do it over.” He indicated the copy. “If you fixed things there, why did you not just stay in the copied world?”
+
+“Things felt different.” Ren said. “Not only were you not there, I... I was used to... well, I...”
+
+Vasalor put a hand on his shoulder. “You do not have to feel guilty about wanting things to change for the better.”
+
+“But, if I use the copied file and add in that connection, it will bypass the beliefs Xuunah holds in the current file, won't it?” Ren asked.
+
+Vasalor chuckled. “She still has the same beliefs in both files, Ren.”
+
+“Wh-what?”
+
+“You were right to take her to her people and show them that you cared enough for Xuunah to cause yourself that much pain, just so you could become like them and share-bond with her.” Vasalor said and showed Ren the relevant parts of both files that referenced Xuunah's belief system.
+
+“You're right.” Ren said, surprised. “Those parts are the same.”
+
+“The problem they have in this broken file is that they haven't seen or felt your resolve to make her happy. Not to the same degree, at least.”
+
+“Oh.” Ren said as he remembered the encounter with that other Light being and how she wanted to share-bond with him when she had felt his pure Light. “Then... does that mean...”
+
+“If it makes you uncomfortable to do it on your own, I hereby give you my permission to add in the proper connection that you should have had.”
+
+“Vasalor, are you sure that...”
+
+“In fact, I believe the files for the entire realm should be changed over to reflect that.” Vasalor said confidently.
+
+“But...”
+
+“As one of my Chosen, you said you would do my work.” Vasalor said. “Having their belief system ensure that they won't interact with the mortals is not how I want them to be.” He said. “Make sure you keep the Nathalia component to Xuunah's connection to you and the relevant reference files as well.”
+
+Ren brought them up and compared them, took a deep breath, then got to work. With Vasalor's help and guidance, and especially his permission, Ren integrated how things should have been, had he not made the mistake. When they were done, Ren added the new files to their proper spots and sighed.
+
+“The guilt you feel is heavy, is it not?” Vasalor said.
+
+“I'm sorry, I just...” Ren sighed again. “I just... changing things like this, I...”
+
+“You can tell her about this and let her feel it all, the next time you see her.” Vasalor said. “Let her make her own decision about it, and see what she says.”
+
+“I... I will.” Ren said. “Although, won't me changing it and adding in...”
+
+“You are over-thinking it, my friend. You know she can divorce her feelings to make decisions.”
+
+Ren thought about her not being affected by the Sea Dweller World Event and nodded.
+
+“What is your favorite line that you say all the time?” Vasalor asked. “I just want to make you happy.”
+
+Ren chuckled. “Yeah, that's it.”
+
+“Now it's time to make me happy.” Vasalor said. “I'll need to block your eyes for this next batch of files.”
+
+“Oh, damn. I guess we're already into the content that I don't have direct knowledge of?” Ren asked, and the shape that was Vasalor nodded. “Then you have my permission to use my hands as if they were yours.”
+
+Ren's visual perception turned off and then his avatar's hands moved lightning fast as Vasalor used their Mana Tendril connection to do the work through him.
+
+“Can I move my hands that fast on my own?” Ren asked.
+
+“This is only a representation of your mind, my friend.” Vasalor said. “There's no real thing as physical speed here.”
+
+Ren opened his mouth to dispute that, then he closed it and laughed.

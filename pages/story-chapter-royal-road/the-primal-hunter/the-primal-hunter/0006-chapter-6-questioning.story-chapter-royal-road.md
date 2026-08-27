@@ -1,0 +1,137 @@
+---
+id: 749942f8-eebc-5542-947a-0e884c28fda3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6 - Questioning"
+slug: 0006-chapter-6-questioning
+partOf: the-primal-hunter
+position: 6
+ownLength: 2514
+unit: words
+ownProgress: 2514
+publishedAt: 2020-09-23
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/558881/chapter-6-questioning"
+royalRoadId: "558881"
+markedReadAt: "2026-06-29T19:29:26.536Z"
+---
+
+Jake was taken aback as he looked at Jacob with confusion clear on his face. “Why did I do what?”
+
+With a lowered voice, making sure no one else could hear them, Jacob elaborated. “Why did you decide to provoke the boars without any thought, not consulting anyone in the group? Look what happened, Joanna lost her damn leg, Jake. We are in a god-forsaken forest filled with monsters that want to eat us, and within mere hours, one of us is crippled.
+
+“What do you suggest we do now? Bunker down and hope nothing finds us for over two whole months. Or what, leave Joanna behind to die? What exactly was your plan when you decided to shoot into a bush, without having any goddamn clue what was in there? There are other people in this forest too, what if it had been one of them? What the fuck is wrong with you?”
+
+Jacob got visibly redder in his face as he kept barraging Jake, also getting louder and, of course, getting the attention of the others. Everyone was staring at them by now, and looking around, Jake spotted open hostility in some of their eyes, with others looking down at the ground. Bertram and Casper the only ones truly neutral, both just looking sad. That is beside the one person who didn’t have any emotions visible on his face, Ahmed. However, he didn’t seem inclined to voice his opinions.
+
+Jake had never seen Jacob this angry before. Right, what was I thinking? He just saw a reflection of something. In hindsight, it was the eye of the small boar. Something in his head told him to shoot. It was just… instinct.
+
+He indeed hadn’t been thinking. From the beginning, he hadn't. Except for his internal pondering, when it came to any kind of combat or tense situation for that matter, he gladly ran on auto-pilot. Allowing his instincts to take over and intuition to be his guiding light when making split-second decisions.
+
+“I… I am sorry, I was just… I don’t know…” Jake couldn't properly express himself, his incompetence at social situations once again evident. On the one hand, he did feel bad about the outcome of the situation, but he didn’t truly think it was his fault.
+
+Not taking the shot would have been stupid too. It could have been a predator waiting to ambush them or even a trap of some kind. Besides, it was a foe they could clearly handle. The only reason why Joanna ended up like she had was that she screwed up and tripped.
+
+“You don’t know? Well, you should know! Just think for god’s sake! We are humans, not beasts who attack anything we see. Think about the consequences. We are a group. A team. What would have happened if we weren’t here? What if you had been alone?” Jacob got more and more aggrieved with Jakes's passive demeanor and lack of feedback to his critique. Not due to Jake not taking it to heart, but because he simply had no idea how to respond.
+
+He took the question very much to heart. What would have happened if he had been alone? Replaying the fight, he began from the beginning.
+
+He was climbing the tree when the boar came out of the bushes and ran towards him, already out of reach of the beast. While it did make him temporarily lose his grip, he was never really in any danger of falling. The increased stats made him stronger, faster, and he had no problem holding himself up with only one arm. With his stats, he would have thus been able to climb the tree quite easily.
+
+The arrows he fired into the beast did more than enough damage to make it bleed to death too eventually. Towards the end, more than 50 arrows had penetrated it, and even if he did run out, he could start conjuring more. Ultimately the boar would be forced to leave or stay below the tree and wait for him to keep shooting. And judging by the behavior of the thing, it likely would have stayed until it succumbed.
+
+The tree was more than strong enough to take the hits, having barely taken any damage. With its circumference easily being large enough for 7-8 grown men to stand holding hands around it, he saw no scenario where it would be falling over. So, to sum it all up… if he had been alone, he would have gotten solo experience and TP, and no one would have gotten seriously hurt, though the fight would have taken longer.
+
+On top of that, Jake had an inherent unwillingness to ignore his own instincts and intuition. As most people would, he assumed. While he in his work-life before the system was very calculating, always taking an analytical and data-based approach, he also relied on his guts a lot. The same for tests in university. He trusted his intuition to an almost unhealthy degree.
+
+When it came to archery, and pretty much everything else in life, he had come to prefer taking everything as it comes, trusting in his own judgment.
+
+And he felt like his instincts and intuition had only gotten stronger after the system came. Even taking a more objective look at his performance in this tutorial so far, he had made little to no mistakes… if he was alone, that is.
+
+He had made correct split-decision choices. With every arrow he shot, he never second-guessed if he should shoot or not. What if he had hesitated to climb the tree for even a second? He would likely have been squashed to mush in between a tree and a giant pig.
+
+With how every beast they had encountered so far acted, the small boar was likely going to attack them as either way, making the fight with the big boar inevitable. The result of his actions may not have been optimal, but he still adamantly stood behind it. Killing the small boar had been the right decision, and his performance during the fight was as good as anyone could expect.
+
+“I did what I deemed best, and I do stand behind the decision to kill the small boar. Even if it had been another human, trusting anyone, not from our team is a horrible idea. The tutorial actively encourages us to kill each other, don’t forget that,” he started, finding confidence he didn’t quite know he had.
+
+“Jacob, this new reality of ours is one where magic exists. Joanna is hurt, but she isn't in danger. She lost a leg, but who is to say that cannot be healed? With her improved physique, she should be fine soon, and maybe we can even attempt to make a wooden leg or something for her. Or we can just have her guard our camp since she can cast magic. This isn't our old world anymore. People die. I would count us lucky to not have lost anyone yet. Seriously, look at the tutorial panel, everyone.”
+
+The final part of his sentence, spoken loudly, addressed everyone. Jake himself also having opened his panel already:
+
+[Tutorial Panel]
+
+Duration: 63 days & 20:52:39
+
+Total Survivors Remaining: 1112/1200
+
+TP Collected: 319
+
+Not even an hour had passed since the beginning, and yet nearly a hundred people had died. And Jake seriously doubted that beasts were the only culprits behind the many deaths.
+
+The others were silent, unsure of what to say. It was no secret that Jake had been the main contributor of the group so far, performing the best in combat and scouting ahead for potential dangers. He even led them away once from an area where Jake felt like strong beasts were fighting each other.
+
+Despite them having only been here for so little time, and only been in two fights, Jake had more than shown his proficiency. Even Jacob, the de-facto leader of their group, had to admit that Jake had been the one doing most of the heavy lifting so far.
+
+“Jake… I just want you to remember that we are a team. Consult with us, tell us your thoughts before just jumping into motion. To not be making the decision for all of us…” Jacob sighed, not willing to dwell on the topic anymore. Being relieved seeing that Jake had no intent to either. “Let’s keep moving forward.”
+
+The following half an hour was uneventful, Jake still walking at the front with Bertram just a bit behind him, and the rest of the group silently following his lead. Finally, as it was also starting to get slightly darker, Jake heard the subtle sound of running water off in the distance.
+
+He once again thanked his improved senses and told the group what he heard. Everyone was relieved, and after only another five minutes, they made their way to the top of a hill and saw a small river running just downhill. It was minimal, barely a couple of meters wide, with depth only to one’s ankles, but a source of fresh water is a source of fresh water.
+
+Quickly the group found a clearing just a bit downstream and all settled down on the grass. For the first time since the beginning of this tutorial, everyone finally relaxed - everyone resting except Jake, who was sitting with his quiver in hand.
+
+Jake had conjured more arrows on the way but started getting a headache. A symptom of low mana, it seems, as his mana had dropped down to 11/120. Stamina was still looking fine at 116/140. The maximum had been increased by 10 due to the point in endurance given by the level-up in his class. Looking at his stats, he was once again reminded of his 4 unallocated free points.
+
+The biggest challenge in the prior fight had been his ability to deal damage. Against small targets, his arrows dealt major damage, and he could aim for vital spots. Like the boar, large creatures were simply too big to get affected much by the small arrows.
+
+There were weak spots, like when he hit the eye, but the other weak spots were normally protected. It took him his entire quiver of arrows to down one big piggie, and that was with help. But he wasn't sure if a couple of stats in strength or agility would in any way enable him to do any serious damage. There was simply too much fur, skin, flesh, and muscle to get through before he hit any organs.
+
+Saving the points seemed like a waste too. After thinking a while, he decided to put 1 point in strength, 1 in agility, and 2 in perception, just following his class distribution. Looking at his stats, not much had changed, except the points from a single level-up and the free points.
+
+Stats
+
+Strength: 15
+
+Agility: 16
+
+Endurance: 14
+
+Vitality: 13
+
+Toughness: 11
+
+Wisdom: 12
+
+Intelligence: 12
+
+Perception: 22
+
+Willpower: 10
+
+Free points: 0
+
+Looking around, he was clearly not the only one consulting his menu screens. The chatter started shortly after; everyone just happy to finally have a modicum of safety. No one spoke to Jake, which was fine as he was happy just to listen in.
+
+Everyone had gotten a single level in their race and class from the kill on the boar it seems, Bertram even gaining two in his class. He had already gotten one level in his class from the first fight with the badgers, but his contribution against the boar seemed to net him quite a lot.
+
+After having relaxed for 20 minutes or so, the peace was broken by Jacob getting up, urging the group to not waste what daylight was left. Distributing tasks, they began gathering firewood, checking the perimeter, and getting materials to perhaps make some basic tools. Theodore had the idea of taking some of the vines lying around and perhaps making some makeshift rope. The vines were very thin, but rather strong, and could be weaved together.
+
+Surveying the perimeter went to Jake, who ended up killing two more badgers who were lurking in the bushes just outside the clearing. They were only level two, giving no levels and only 4 TP. Having not enough mana to recharge all his arrows, Casper gave Jake some of his arrows to fill up his quiver. Afterward, he started spending his own mana to conjure more, effectively acting as a mobile arrow factory.
+
+This also allowed him to ask Jake for tips related to archery and combat in general. While even Jake was surprised by his own level of competence in combat, he was more than confident and willing to give advice on how to handle a bow. He had tried to go pro when he was younger, though he didn't exactly go around bragging about it, mainly due to the fact that he had to give up that dream because of an injury. Leaving a bit of a mental scar.
+
+He demonstrated proper forms, advised on aiming, proper motions when taking arrows from the quiver, nocking them properly, drawing the bow, and finally releasing the arrow, all in one fluid movement. Casper at his side, trying to follow along with the movements while throwing in a question here and there.
+
+Around the two archers, everyone was busy trying to make at least a barebones functional camp, and Ahmed volunteered to try to skin and prepare the two badgers Jake had killed that skulked at the outskirts of the clearing. His goal was to make it possible to cook them.
+
+Jake and Casper were left alone to their own antics, spending hours of training with their bows. As Jake thought back on all his knowledge of how to use a bow through teaching Casper, he was pleasantly surprised by the system suddenly giving him a notification.
+
+*Skill Upgraded*: [Basic Archery (Inferior)] – An Archers best friend is the bow in his hand and the arrow in his foes heart. Unlocks basic proficiency with bows, crossbows, and adds a minuscule bonus to the effect of agility and strength when using a ranged weapon.
+
+-->
+
+[Advanced Archery (Common)] – An Archers best friend is the bow in his hand and the arrow in his foes heart. You have shown improved proficiency with a bow, making the weapon even more familiar to you. Adds a minor bonus to the effect of agility and strength when using a ranged weapon.
+
+The stats' bonus effect went from minuscule to minor, though Jake still had no clue exactly how big the effect was. His bow did not really feel any more familiar than before, perhaps because he already felt very comfortable with it.
+
+Casper, while not getting any skill upgrade, still showed quite an improvement in his abilities. While it was certainly getting darker, there was still quite a bit of sunlight left in the day, and the dinner preparations were far from ready.
+
+Jake still had a few things he wanted to test. Looking at Casper while thinking of what to do, Jake got a brilliant idea.

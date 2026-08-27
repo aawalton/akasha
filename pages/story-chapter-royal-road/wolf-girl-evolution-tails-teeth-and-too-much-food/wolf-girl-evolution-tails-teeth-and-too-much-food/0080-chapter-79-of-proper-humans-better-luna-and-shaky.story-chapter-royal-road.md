@@ -1,0 +1,375 @@
+---
+id: 0f8e1de0-9b7b-59d5-9584-9bd4957b5472
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79: Of Proper Humans, Better Luna, and Shaky Legs"
+slug: 0080-chapter-79-of-proper-humans-better-luna-and-shaky
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 80
+ownLength: 2019
+unit: words
+publishedAt: 2025-12-14
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2848243/chapter-79-of-proper-humans-better-luna-and-shaky"
+royalRoadId: "2848243"
+---
+
+PoV Luna
+
+Luna launched herself into the center of the guildhall with a yip of joy, legs coiled and ready, eyes bright with excitement.
+
+The best kind!
+
+It was all just so fun!
+
+The adventurers were shifting around her, some crouching low with grins, others cracking knuckles, and one poor dwarf shouting “Wait, wait, I didn’t sign up–!” before Luna zipped past his boots and poked his shin mid-run.
+
+“Tag!”
+
+The circle roared.
+
+It wasn’t fighting. Not really. They weren’t prey, enemies, or monsters.
+
+But they were fast!
+
+Big. Loud. And different. With so many stances. So many smells. Different balances. Different footwork, moves, punches, sweeps, grapples, and more Luna could not even name!
+
+Luna drank it all in.
+
+She twisted around a lunging arm, her toes catching the floor with the barest scrape before she half-ducked half-tripped into a roll, recovered, popped up behind a swordsman, and tapped his back next.
+
+“Got!”
+
+One of them tried a tackle. She dropped flat in response!
+
+One big slide!
+
+She laughed as she rolled back onto her feet, tail wagging, balance ticking sharper with every movement made.
+
+This was great training!
+
+Better than sparring with a single opponent. Everyone moved differently. Fought differently. She had to shift, adapt, guess where their weight would land before it did.
+
+It was a dance with no rules.
+
+This dance had teeth, claws, punches, and more.
+
+The rules of battle and death.
+
+Well, play-pretend-death!
+
+But the intent was the same.
+
+A broad-shouldered axe user stepped in, sweeping at her. Luna dodged, barely, then rushed him. He raised his weapon like a wall.
+
+Perfect!
+
+She skidded low, passed under his swing, bounced off one hand and flipped over a chair, catching herself midair with Shadow Step to land right behind the next challenger.
+
+Tap.
+
+“Again!” she barked.
+
+And again, they came.
+
+She was sweating now. Breath short, hair a tangled halo. Her body ached in strange places. Her dodges not always successful, adventurers had plenty of tricks.
+
+But her grin stretched wider each time someone tripped or yelped in surprise – and even when it was her who got tripped up.
+
+Every time she got a little better. A little faster. A System ping here and there.
+
+She didn’t care, System meanie could wait!
+
+Veric stood at the edge, giving tiny, quiet nods. Watching her fight in a trance, not interrupting.
+
+Just watching.
+
+Approving.
+
+It made her chest warm.
+
+Behind her, Ray’s voice rose above the noise.
+
+“Odds are now three to one she takes down four more before someone pins her!”
+
+“Put me down for ten!”
+
+“Twenty says the next one trips on his own boots!”
+
+“Might as well be fifty, that happened twice already!”
+
+Just then, a fox-tailed proper human moved in, sleek and fast, already crouched before the charge. Luna didn’t wait. She darted forward, feinted left, then shot right, only to bounce off a table edge mid-turn and spring up onto a bench instead.
+
+The fox followed.
+
+Luna blinked.
+
+Fast!
+
+She spun, fell back on all fours for a heartbeat, then kicked off the bench’s side and twisted midair to avoid the swipe coming for her ribs. A finger-brush against her boot.
+
+Close.
+
+Closer than most.
+
+She landed hard, skidding three steps, and flung her weight into a turn before launching herself back.
+
+“Good one!” she called gleefully.
+
+They clashed again, two whirlwinds wrapped in laughter and flashing limbs.
+
+This time, Luna lost.
+
+The fox clipped her ankle. Luna tumbled with a surprised yelp, rolled three times, and popped up again with her shirt askew and hair full of sawdust.
+
+She was giggling too hard to fix either.
+
+“This is best play!” she shouted.
+
+The guild answered with another cheer. More feet stepped forward. A new challenger.
+
+Luna nodded eagerly, eyes narrowing, chest rising and falling with shallow breaths. Her stance dropped a little lower now. Knees bent, arms loose. The next tap came with a pivot and a turn that flowed smoother than before.
+
+She was learning.
+
+Without thinking.
+
+Through chasing and evading and tumbling and spinning, her feet were remembering things her head hadn’t figured out yet.
+
+This was how Luna grew!
+
+Through practice and battle!
+
+The dwarf gave up. The fox tapped out. The swordsman slumped.
+
+Luna panted, hair clinging to her neck, sweat trickling down her spine.
+
+Then someone shouted, “Did she use a Skill?!”
+
+“No Skills!” Luna called proudly, even as her hands twitched with the memory of magic waiting to leap forward.
+
+Only claws next time.
+
+Maybe a little shadow.
+
+And maybe–
+
+Her nose twitched.
+
+Faintly – above the tang of sweat and steel and spilled ale – came a clean scent. Wind-washed leather. Familiar magic. The quiet, serious calm of Second-Syl.
+
+Luna’s head snapped up.
+
+There!
+
+Balcony.
+
+Syl stood above the hall like a queen of the world, stern eyes watching, arms folded, not even blinking. Moonlight in armor. Judgment. Wisdom. Safety.
+
+Luna lit up.
+
+Her tail started wagging hard enough to shake her shoulders. A second later, her legs caught up.
+
+She vaulted off a startled dwarf’s back, landed in a crouch behind a fox beastkin, twirled under an incoming elbow, tapped a shoulder, and bounced away with an extra spin – because Syl liked spins.
+
+Probably.
+
+Then Syl started down the stairs.
+
+Luna launched herself without a second thought.
+
+“SECOND!”
+
+One heartbeat later, she crashed full-speed into Syliana’s front, arms flung wide and words tumbling out in every direction, all to catch her friend up to speed even faster!
+
+“Luna did so many things just now! And had so much fun! The sparring was great, learned a lot! Luna found proper humans too! And did the twist-thing! And a Skill went ding! And Luna can do this – LOOK–!”
+
+She threw her shoulders into an odd twist, her knees buckling in two different directions, her arms flapping half-spread.
+
+It looked exactly like someone being launched from a slingshot mid-sneeze.
+
+Syl blinked once.
+
+Trianna, standing a step behind, made a strange wheezing noise that sounded dangerous to her health.
+
+Luna didn’t notice. She spun around and pointed dramatically at the group of beastkin still gathered nearby.
+
+“Proper humans do this now!”
+
+The fox beastkin, the tall cat-boy, and two others moved in perfect harmony – raising arms, dropping to lunges, and striking the world’s silliest synchronized battle poses. One of them even added a glowing tail flourish that left a glittering trail.
+
+Luna gasped.
+
+“Waaah!”
+
+A heartbeat later, she Shadow Stepped straight into their formation, struck a pose that mostly matched, and froze in it with absolute seriousness.
+
+Veric muttered something under his breath. Ray cheered, his coin purse clinking a lot more now.
+
+And a roar of laughter erupted from the adventurers around them.
+
+Syl pinched the bridge of her nose.
+
+Then she stepped forward, hooked two fingers into the back of Luna’s collar, and gently tugged her free from the posing squad. Luna flailed briefly, then perked up as Syl pressed something into her hand.
+
+Jerky.
+
+The blessed, glorious scent of roasted beastmeat soaked in salty fat hit her nose like divine sunlight.
+
+She stopped flailing instantly.
+
+Bit into it with reverence.
+
+“Best Second,” Luna murmured around the first mouthful, eyes closing in joy.
+
+Syl’s expression softened.
+
+“We still need to find a place to stay for the night,” she said quietly.
+
+Luna’s ears perked. Her tail froze.
+
+“But– but–”
+
+“We will be back tomorrow. Promise.”
+
+Luna stared up at her, gears slowly churning behind wide golden eyes.
+
+She looked down at the jerky.
+
+Looked back at the circle of laughing adventurers.
+
+Looked at Syl.
+
+“…Okay!” she beamed.
+
+Then she turned on her heel and waved both arms at the guild.
+
+“Luna goes now! More playtime tomorrow!”
+
+“With playtime that ferocious, who needs enemies?!” someone shouted back.
+
+More laughter followed.
+
+The beastkin squad struck another pose in her direction.
+
+Luna grinned and wagged her tail hard enough to knock into Syl’s side as they walked toward the exit. Her mouth was full of jerky, her free hand twitched like it still wanted to tag someone mid-step, and her feet had a definite bounce.
+
+But it slowed.
+
+Little by little.
+
+Out into the late afternoon sun. Down the worn stone path past bakeries and tool shops and sleepy cats on windowsills.
+
+Luna slowly leaned into Syl’s hip, still talking between bites.
+
+“Proper humans… Luna strong… Luna spin… Luna…”
+
+A huge yawn interrupted her. Her jaw cracked wide, eyes squinting, tail sagging.
+
+She blinked up at Syl, still chewing the last bit of jerky, still trying to keep walking.
+
+Still trying to wag.
+
+But her legs were giving up.
+
+So she took another step forward – and bumped lightly into Syl again.
+
+No longer fighting, or running.
+
+Just warm.
+
+Safe.
+
+And very, very ready for the sleep-spot.
+
+***
+
+The door to their accommodation hadn’t even clicked shut behind them before Luna stumbled sideways and flopped against Syl’s leg.
+
+Three steps in.
+
+Victory!
+
+She gave a sleepy sound halfway between a sigh and a contented growl, then wiggled a little until her head settled neatly into Syl’s lap. Her arms curled in close, one still cradling the last piece of jerky like it was treasure and she the proudest dragon in the world.
+
+Her tail gave one more wag, slow and uneven, before falling still.
+
+Syl didn’t move. Just rested a hand on Luna’s shoulder and let her breathe.
+
+The room was quiet.
+
+Trianna leaned against the back of a rickety wooden chair with a grin so wide it was practically a badge.
+
+“She had the entire guild dancing,” she said. “Even the cranky ones you can’t force to do anything.”
+
+Ray was already loosening his collar, the tension of the day melting into smugness.
+
+“And paying. I haven’t seen coin pass hands that quickly since that one drunk elf tried to outdrink a fire mage.”
+
+Trianna snorted.
+
+“He’s still bald.”
+
+Ray’s grin widened.
+
+“Worth every copper.”
+
+On the far side of the room, Veric stood still, arms crossed, watching Luna’s breathing steady.
+
+“Her footwork changed,” he said after a long pause.
+
+Syl glanced up.
+
+Veric didn’t blink.
+
+“She learns fast.”
+
+Sepio stood near the window, half in shadow, fingers tapping a slow rhythm on his belt. He gave one small nod.
+
+“Faster than comfortable.”
+
+“Then it’s our job to shape that,” Syl murmured.
+
+She gently brushed a few loose strands of Luna’s hair from her forehead. The girl twitched, nuzzled into the touch, and mumbled something incomprehensible about “quest jerky…”
+
+Whatever that was.
+
+Syl’s gaze softened.
+
+“Ferric will have the paperwork ready. We’ll stay a while. Pick up a few small quests. Routine and simple. No stress. Let her learn the guild. The people. The rules.”
+
+Trianna stretched her arms overhead, joints cracking in a slow chorus.
+
+“And the food stalls.”
+
+Ray didn’t even lift his head.
+
+“Especially the food stalls.”
+
+“Luna strong…” the girl mumbled again, voice trailing into a hum so quiet it almost didn’t make it past her lips.
+
+The room eased into stillness, warm and alive.
+
+A tiny hearth crackled gently in the corner, barely enough to warm toes, but it added a glow to the soft dusk light that filtered through the wooden shutters. Outside, the streets had gone quiet, the bustle fading into evening stillness.
+
+Inside, their party sat together.
+
+Ray slouched farther into the chair he had claimed as his own, one foot kicked up on a small crate. Trianna sprawled sideways on the bench beside him, one boot tapping rhythm on the floor. Sepio turned from the window, unusually quiet since the big snake encounter, and took a seat with the same grace he fought with – no wasted motion.
+
+Veric didn’t move at all.
+
+And Syl sat with Luna curled against her side, steady and unmoving.
+
+The little Wildling’s breath came deep now. Slow.
+
+A smear of sauce clung to her cheek, unnoticed. Her shirt was rumpled. Her knees scuffed from play-fights and her hair full of guildhall dust.
+
+But her expression was soft. Peaceful.
+
+Content.
+
+Trianna leaned her chin against her folded arms.
+
+“She’s gonna shake the world, huh.”
+
+Syl smiled.
+
+“She already has.”

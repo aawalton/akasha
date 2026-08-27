@@ -1,0 +1,219 @@
+---
+id: 3e6fabba-6792-589e-b4b9-c660f03eecd5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Patience"
+slug: 0025-chapter-23-patience
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 25
+ownLength: 3511
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3544598/chapter-23-patience"
+royalRoadId: "3544598"
+---
+
+Minutes slipped past like a gentle breeze, and before long, more than an hour had drifted by. Molly and Nom Nom's exhilarating flight above the clouds came to a quiet end.
+
+Nom Nom descended back to Eoma's main bakery field, her broad wings beating with a calm, steady rhythm before her form touched the ground with barely a whisper. The Phragon's velvety charcoal-black hide shimmered faintly in the afternoon's sky, the aurora-like ribbons of green and violet tracing lazy patterns along her undulating spine fins.
+
+Molly eased herself down from Nom Nom's back with Ted's steady assistance. She offered him a short bow of gratitude, her robe settling around her small frame as her feet found solid earth once more. Then she turned her eyes to Nom Nom, gazing up at the Phragon for a lingering moment. She lifted her hand and stroked the cool, slightly translucent surface of Nom Nom's neck, her touch gentle as she communicated inwardly. 'Take care of yourself, alright. I hope we will meet again soon, before winter reaches its end. And do not hurt yourself again.'
+
+At those words, Nom Nom fluttered her wings with a soft rustle, the single willow-leaf fin at the tip of her long tail twitching. 'I will most definitely try not to let my curiosity get the better of me again,' she projected back.
+
+A wide, cheesing grin threatened to surface on Molly's face. 'But curiosity is such a delightful thing.'
+
+Nom Nom tilted her head, her large, glossy black eyes blinking with quiet intelligence as she fixed her gaze on the young girl. 'It is also dangerous.'
+
+Molly shared a silent giggle with the Phragon before stepping back. She watched as Lilly moved forward to bid her own farewell. Just as earlier that day, Nom Nom swept out her long tongue and delivered an affectionate lick across Ted's face, drawing another round of quiet giggles from both Lilly and Molly.
+
+After that, Nom Nom puffed out her chest with unmistakable pride, the shimmering ribbons along her ear nubs flaring brighter for just a heartbeat. She cast one final glance at Molly, her expressive eyes holding the girl's image, before she launched herself skyward with a powerful, sweeping flap of her wings.
+
+Molly lifted her hand and waved serenely at the ascending Phragon, a wistful expression drifting across her features as she watched Nom Nom dissolve into the expanse above. Their flight beyond the clouds had been nothing short of enchanting. She had never imagined that riding upon a Phragon could feel so wondrous, especially when they had plunged into the denser pockets of cloud, their forms swallowed entirely by the thick, billowing mist. Some of that very mist had even found its way into the folds of her robe, lingering there like captured fragments of the sky.
+
+"How was your experience?" Lilly's voice drifted to her from nearby.
+
+Molly turned calmly toward the cheerful woman. She held Lilly's gaze for a quiet moment before offering a small, deliberate nod.
+
+~ It was wonderful.
+
+A bright expression bloomed across Lilly's round face as she read the words. "That is truly wonderful to hear," she said.
+
+Ted, standing beside her, shook his head as though trying to dislodge an unpleasant thought that had crawled into his mind. "It was a horrendous experience for me."
+
+Lilly arched a brow, her lips curling in amusement as she aimed a small, mocking jab his way. "Shall we call Nom Nom back? I am certain she would adore taking you up into the sky a second time."
+
+Ted gave a short snort. "No, thank you. I would much rather keep my feet planted firmly on the ground."
+
+Lilly laughed, a light, melodic sound that floated through the field. Molly giggled too when she caught sight of the genuine fear flickering in Ted's eyes.
+
+After that, a comfortable silence gradually settled over them. Lilly turned her gaze toward the distance, toward the sturdy silhouette of Eoma's main bakery. Wisps of smoke curled lazily from the chimney above, twisting upward in slow, unhurried ribbons before dissolving into the afternoon air. The distant hum of milling machines pulsed faintly, a rhythmic heartbeat far removed from their quiet corner of the field.
+
+"Why don't we go check on the bread?" Lilly said at last, her voice calm as she glanced toward Ted, who answered with a single nod. Her gaze shifted to Molly, and the corners of her lips lifted into a gentle curl.
+
+"It should be fully baked by now."
+
+******
+
+Ted, Lilly, and Molly made their way through the production zone's wide passageway, their footsteps echoing softly against the floor. The scent of flour and yeast grew denser with every step, layering the air with the unmistakable perfume of a working bakery. When they reached the baking kitchen, Ted placed his hand against the door and pushed it open with a calm, unhurried motion.
+
+The moment the door swung wide, Molly drew in a deep, unhurried breath. A delightful expression settled across her features as an orchestra of sweet fragrances swept into her senses, notes of caramelized honey, warm milk, and rich butter weaving together in perfect harmony. Her eyes drifted across the room, watching the bakers move with practiced ease, each one absorbed in their assigned rhythm. They carried pans of every size, each laden with loaves that gleamed a whitish gold, the unmistakable hue of honeyed milk bread.
+
+A giddy swell of joy rose inside Molly as her gaze landed on the long worktable where they had labored over the bread dough earlier that morning. To her quiet delight, the fruits of their work were already arranged there, cooling in neat rows.
+
+Lilly let out a soft chuckle when she noticed Molly's barely contained excitement as they approached the table.
+
+When they reached it, Molly eagerly stepped forward and climbed onto the small stool, lifting herself high enough to peer over the edge at the pans filled with baked bread. The scent of butter and milk and honey joined a dozen other subtle notes, weaving together in a fragrant tapestry that wrapped around her like a warm embrace.
+
+"Now that the bread is finished baking, we arrive at the final step," Lilly said, her bright eyes settling on Molly. "Waiting."
+
+"Just as with every step we have taken up to now," she continued, shifting one of the pans gently with her hand, the metal cool enough to touch but still radiating a faint warmth, "patience is still required. The loaf needs to cool completely before we cut or package it. The crumb is still setting deep inside. Slice too soon, and you will tear the bread, render it gummy and dense. Package it while it is still too warm, and you will trap all that heat and steam within the wrapping. Instead of a crisp, airy loaf, you will end up with a damp, heavy, and rapidly staling product."
+
+Molly listened with rapt attention, her head inclined slightly upward toward Lilly. A thought soon crystallized in her mind, and she decided to bring it forth. She glanced at Lilly, and the black orb floating above her shoulder dissolved into swirling particles before reforming into words.
+
+~ What if the bakers did not slice the bread the very moment it left the oven?
+
+A smile curved across Lilly's lips as she read the question. "A fine question," she said, pausing to gather her thoughts. "If they waited, the bread would be given time to finish setting. The residual heat and steam still trapped inside would redistribute gently through the crumb. The interior would firm up, the structure would stabilize, and the loaf would slice cleanly, without a single tear or gummy pull. The reward for that waiting would be a tender, airy texture instead of a squashed, doughy mess. In short," she said, her voice softening, "our patience would repay us with perfect slices."
+
+Molly nodded, her understanding settling deep. Her eyes lingered on the golden loaves a moment longer, tracing the gentle domes of their crusts. A small curl lifted her lips before she stepped down from the stool, determined to let the bread rest as it deserved.
+
+*******
+
+Thirty-five minutes slipped past in a quiet breeze. Molly stood by and watched as the bakers packaged each loaf with careful, reverent hands, their movements carrying the quiet dignity of a meticulously crafted product. She had always known Eoma's bakery for this precise devotion, but witnessing it up close stirred something deeper within her.
+
+When the last loaf was wrapped, Lilly stepped forward and collected one with tender care. She retraced her steps until she stood before Molly, a proud expression blooming across her round features. She extended the loaf toward the girl.
+
+"Here, take this. It is your reward."
+
+Molly stared at the bread for a long, silent moment. Her face betrayed no clear emotion as her gaze flickered between Lilly's outstretched hand and the golden packaged loaf resting upon it. Finally, she lifted her eyes to meet Lilly's. The black orb dissolved and reformed.
+
+~ But... I did not do anything of great importance.
+
+Lilly shook her head firmly. "You did," she said, her voice carrying a warmth that softened the edges of her words. "Though it may not seem like much to you, to bakers like Ted and I, who have spent years steeped in this craft..." She paused, and a flicker of genuine warmth passed over her face. "We saw your determination. We saw your attentiveness, your readiness to learn, the way you poured yourself into each small task."
+
+She inched the bread closer to Molly. "And those qualities alone deserve a reward. So here."
+
+Molly stared at Lilly's warm expression for a stretched, heavy moment. Her gaze drifted toward Ted, who stood a little way off. Upon meeting her eyes, he gave a brief, affirming nod. Molly's attention returned to the bread in Lilly's hand, and a small, quiet smile finally played at the corners of her lips. She accepted the loaf, cradling it against her chest, and offered both Ted and Lilly a deep bow of gratitude. The orb shimmered as it projected her feelings.
+
+~ Thank you very much.
+
+Lilly laughed, the sound bright and easy, as she waved a dismissive hand. "It is no trouble at all."
+
+As Molly straightened, Lilly's expression beamed with renewed brightness. She placed a hand on her waist, her cheerful posture radiating an almost maternal pride. "Congratulations, baker Molly," she said. "You have learned one of the oldest magics there is. And woven within that lesson, you have also learned one of the most essential rules of life."
+
+Her lips softened, the playful curl melting into something warmer, something almost tender. "Patience."
+
+A small sound of surprise escaped Molly, and the word echoed through her mind like a stone dropped into still water.
+
+~ Patience.
+
+Lilly nodded. "Yes. Patience." She gestured calmly toward the rows of packaged breads sitting on the table, their wrappings crisp and neat. "Patience is the quiet ingredient that transforms simple flour and water into something worth sharing with others. In bread," she said, raising a single finger and pointing it gently toward Molly, "and in life."
+
+She lowered her hand and used her palm to gently adjust the toque resting on Molly's head, her touch light and careful. "The most important step is often the one where you do nothing at all, the step where you allow time to perform what only time can. Rushing might grant you something to hold." She withdrew her hand, letting it fall to her side, and a gentle curl lifted the corner of her lips. "But waiting gives you something to savor."
+
+"Never forget that, alright?"
+
+Molly nodded with solemn sincerity. Patience. The word echoed in her mind once more, rippling outward as she pondered its weight and shape, turning it over like a smooth stone in her palm.
+
+"Alright, ladies." Ted's voice drew Molly from her thoughts, and she turned to face him.
+
+He offered them a short bow. "I will be taking my leave now." His gaze flickered briefly toward Lilly, who answered with a small nod. A fleeting smile touched his lips as he glanced at Molly. "Until next time, baker Molly."
+
+Molly bowed in return, her movements measured and respectful.
+
+~ Until next time, Sir.
+
+Ted inclined his head in acknowledgment, then turned and began walking away with a calm, unhurried stride. He exited the kitchen without a backward glance, leaving Lilly and Molly standing together among the few remaining bakers who were quietly finishing their tasks.
+
+Lilly cast her gaze around the kitchen for a moment before her eyes settled on Molly once more. Her cheerful expression remained firmly in place as she opened her mouth to speak. "Well then, I believe it is time to escort you back."
+
+Molly nodded. Her expression softened, a subtle melancholy threading through her features as she accepted that her time of discovery and learning had reached its natural conclusion.
+
+It was time to return.
+
+*****
+
+Evening crept in with a slow, unhurried grace. The sun began its gradual descent, its pale brilliance dulling to a gentler glow. The once-vivid blue of the sky was now brushed with strokes of muted orange, threaded here and there with wisps of nearly transparent yellow, as though the heavens themselves had been painted in watercolor.
+
+Molly and Lilly walked through the streets of Sigsug in a peaceful, companionable silence. Their gazes drifted toward the distant horizon, their heads tilting skyward to watch the shifting canvas above. Their eyes lingered most often on the sun, which had already surrendered its midday blaze, now hanging in the sky like a pale, luminous ember.
+
+It was Lilly who broke the quiet.
+
+"You know," she began, her voice dipping into a calm, almost whispery tone, "there is a saying among the elders of this town. Summer is a season for tranquility, while winter is a season for introspection."
+
+She let the words settle before continuing, her footsteps steady against the cobblestone path. "And with winter already waiting just around the corner, the time for introspection draws near as well."
+
+A silent laugh escaped her lips, soft as a breath. "But do you know what I suspect? I have a growing feeling that those words are slightly misleading." She turned her head to look at Molly, who was listening with quiet attentiveness, her eyes fixed steadily on Lilly's face. "Do you know why I believe that?"
+
+Molly shook her head.
+
+A knowing curl surfaced on Lilly's lips as she shifted her gaze back toward the dusky sky. "If we devote all of winter solely to introspection, we might find ourselves dwelling more on the negative than on the positive. Too much self-reflection can weigh a person down, especially during the colder, darker months. Sometimes, what we truly need is not such deep, unrelenting introspection." She paused, letting her words breathe. "Perhaps what we need instead is a lighter form of self-reflection, one mixed with a generous measure of tranquility."
+
+Molly gave a slow, subconscious nod, her mind already turning over Lilly's words like freshly kneaded dough. Her gaze drifted skyward as she pondered deeply, a seed of what she might focus on during the winter to come.
+
+Minutes passed in a warm, easy silence as the two continued their walk. Their steps carried them along the winding cobblestone path, through the quiet streets of Sigsug. They paused occasionally, lingering for a few moments at a time, simply to be mesmerized by some small, fleeting beauty the village offered, the way the fading light caught the edge of a rooftop, the silhouette of a blighted tree against the painted sky, the distant sound of a door closing as someone settled in for the evening.
+
+At last, their steps slowed and came to a halt. They had reached a particular spot in the market square. Molly's eyes settled on the familiar structure of Eoma's bakery, its sturdy silhouette standing neatly apart from the other buildings.
+
+"So," Lilly said from beside her, her voice carrying a note of gentle finality, "I believe this is where I must say my goodbye."
+
+Molly turned to face her, and her expression dulled with a quiet, understated sadness. She gave a small nod. It truly pained her to watch Lilly leave. The memories of their short time together replayed through her mind, a tender procession of moments. She had baked her very first loaf of bread because of the woman standing before her now. Lilly's liveliness, her cheerful spirit, had made every second feel bright and memorable. But as the old adage whispered: Good things are always brief.
+
+A sigh slipped from Molly's lips as the black orb floating above her shoulder dissolved and rewove itself.
+
+~ Yes.
+
+A wistful expression flickered across Lilly's face when she noticed the dullness settling into Molly's features. She leaned closer and gently patted the girl's head, her touch light and reassuring. "There is no need for sadness," she said, prompting Molly to lift her chin and meet her gaze.
+
+Lilly raised her hand and gave an enthusiastic thumbs up. "You may visit the main bakery whenever you wish. All you need to do is ask Miss Jasmine for permission. Alright?"
+
+Molly's expression brightened just a little at those words. She answered with a firm nod.
+
+Seeing the light return to the girl's face, Lilly leaned in and wrapped her in a warm, encompassing hug. She held the embrace for a lingering moment before finally pulling back and bidding the young girl farewell. She stood in place and watched as Molly walked toward Eoma's bakery, her small figure framed by the soft glow spilling from the doorway. Molly stepped inside and disappeared from view.
+
+Only then did a warm, tender expression surface on Lilly's face. She turned on her heel and began walking away, her footsteps quiet against the cobblestones, under the calm and silent watch of the evening sky.
+
+*****
+
+The moment Molly stepped inside the bakery, she was greeted by the familiar row of photographs that lined the entrance passageway. Her eyes drifted briefly to the very first one, and she paused to offer a short bow of greeting, as though paying quiet respect to the happy family captured within its frame.
+
+With deliberate effort, she did not allow her gaze to linger there for too long. She silently bade the photograph a see-you-next-time and continued through the passageway, passing more images of the generations who had inherited and nurtured this bakery, their faces watching her pass with timeless stillness.
+
+When she stepped into the main area, her eyes immediately found Ren. The boy was already rushing toward her, his tousled red hair bouncing with every eager step. A wide grin stretched across his face.
+
+"Molly," he said, his voice bubbling with barely contained excitement.
+
+Molly's expression mirrored his as she watched him hurry closer, a paper clutched tightly in his hand. He struggled to keep his excitement from spilling over entirely. "Guess what?"
+
+Molly's brows furrowed in thought. She searched her mind for what could possibly make Ren so animated at this hour. An idea surfaced, and she projected it immediately.
+
+~ Fiona has finally admitted that Sebastian is her boyfriend.
+
+Ren's excitement wavered, and a slow, mischievous curl lifted the corner of his lips. "Now that would have been something worth celebrating," he said. "But..." He shook his head, indicating she had missed the mark.
+
+Molly's brows drew together more deeply this time. She cast a sidelong glance at the two papers clutched in Ren's hand.
+
+~ You have... received another letter from your father saying he is returning home soon?
+
+Ren shook his head again. "Not that either." He paused, and a shadow passed briefly through his deep green eyes. "Besides, that would only make me sad. Because he would not come."
+
+Molly's expression saddened.
+
+~ I am sorry for bringing it up.
+
+Ren sighed, waving off her concern with a flick of his wrist. "There is nothing to worry about. I am the one who told you to guess, after all." Still, Molly's expression remained dulled, and that dullness tugged at something inside him. He did not want to see her sad.
+
+A sigh of surrender escaped him, and he thrust the papers toward her. "Here. No more guessing."
+
+Molly stared at him for a beat.
+
+~ Really?
+
+Ren nodded firmly. "Who needs guessing anyway? And besides," he added, gesturing urgently for her to take the papers, "this will still come as a shock to you."
+
+Molly reached out and accepted the papers from his hand. Her gaze dropped, and she began to read the words written on one of them, her crimson eyes moving slowly across the page.
+
+Then, without warning, her eyes widened. Her breath caught in her throat, her small fingers tightening around the edges of the paper as recognition dawned upon her like a sudden, brilliant flare.
+
+She knew immediately where it had come from.
+
+It was from the academy.

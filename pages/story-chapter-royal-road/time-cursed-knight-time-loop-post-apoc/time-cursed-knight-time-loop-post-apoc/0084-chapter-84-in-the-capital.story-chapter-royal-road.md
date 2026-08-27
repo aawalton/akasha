@@ -1,0 +1,191 @@
+---
+id: 4914d109-0891-531a-aa3d-78c6221aa8d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84: In the Capital"
+slug: 0084-chapter-84-in-the-capital
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 84
+ownLength: 3093
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3659122/chapter-84-in-the-capital"
+royalRoadId: "3659122"
+---
+
+In the Capital.
+
+"Impossible."
+
+Frieda said it into the comm crystal before her eyes had fully opened. The crystal sat on its brass stand on the table beside her bed, and the voice that came out of it belonged to the one man on her payroll who had never once respected the concept of a reasonable hour.
+
+It was not yet dawn. There was no good reason for a human being to be conscious, and Konrad von Ries had dragged her into being awake anyway.
+
+"You heard me," he said. The crystal flattened his voice, stripped the warmth out of it, but not the urgency. The man was practically vibrating through the stone. "It's coming in on every caravan. Every single one. I've checked it three ways."
+
+Frieda dragged a hand down her face. Her voice came out gravel. "Konrad. It is the middle of the night."
+
+"It's almost morning."
+
+"It is not almost morning." She fumbled across the bedside table, found her wire-rimmed spectacles by touch, and hooked them over her ears as if they might help her hear him better. "Start again. Slow this time. Like you're talking to someone who was, until forty seconds ago, asleep. Which I was."
+
+A breath crackled through the crystal.
+
+"There was an attack on the Sultanate," Konrad said. "On Qalathar. Their capital."
+
+"You're at the front. You're supposed to be at the front." Frieda sat up properly now, the blanket pooling at her waist. Suspicion was a better stimulant than anything in her cupboard. "How in the name of every dead god are you getting Sultanate news off caravans?"
+
+"I am at the front. But the front is a road, Frieda, and roads have traffic, and caravans come out of the desert every day, and you know perfectly well that I have my people in them." A pause. "And before you say it — I know what caravan merchants are. I know they'll sell you the moon for a silver coin and swear it was a bargain. So I checked it against four separate columns that have no reason to agree with each other. They agree."
+
+Frieda reached for the mana-glow. The room resolved into shapes.
+
+"Tell me what they agree on."
+
+"Three Titans." Konrad let it land. "In one day. Qalathar took three Titan assaults on a single day and the city is still standing."
+
+"That's not possible," she said, and even as she said it she heard how much she sounded like she had at the start of the call.
+
+"Every column. Same number. Three." His voice had the steadiness of a man reading off a tally he'd verified until his eyes bled. "Three Titans, and three Titans repelled, and the survivors in those caravans are telling a story that's already turning into a hymn." A dry sound that might have been a laugh. "They're saying an angel saved the city. Wings of fire. White hair. Came down out of the sky, killed a Titan with his bare hands, and went back up to heaven before anyone could thank him."
+
+Frieda swung her legs out of bed.
+
+"An angel."
+
+"That's the word they keep using. The pious ones. The less pious ones say it was the Founder's own blood. Either way, the Sultanate's lower city is on its knees about it. There may even be a dead Titan in there somewhere, killed outright — a feat that has happened exactly once in the history of that desert and required an Eighth Circle mage." A beat. "And Frieda, that's not the most important part."
+
+She stopped with one arm halfway into her dressing robe.
+
+"I'm sorry." Her voice came out dangerous, the voice that made junior staff find urgent business in other rooms. "You wake me before the sun. You tell me three Titans broke against the Sultanate's capital in a single day. You tell me a city of half a million is composing prayers about a man with wings of fire. You tell me there might be a dead Titan." She pulled the robe tight and knotted it hard. "And then you have the absolute gall to tell me that none of that is the most important part?"
+
+The crystal was quiet for a moment. Konrad always went quiet right before he dropped the thing he'd been holding back.
+
+"I have a source in the Iron Cross," he said. "A good one. Highly placed. He told me something this evening that I've been sitting on for three hours because I needed to be sure."
+
+"Konrad—"
+
+"Kaspar von Hexenzeit is not in the capital."
+
+Frieda blinked.
+
+"Who?" She was still trying to grasp who the story changed from Titans to Kaspar. "The Hexenzeit boy. The — the Hero of Grenzheim?" She found the file in her memory and her pulse stepped up. "The one with the white hair. What about him?"
+
+"So." Konrad let the single syllable hang there. "Describe the angel for me, Frieda."
+
+The cold that went through her then had nothing to do with the room.
+
+"You're not serious."
+
+"White hair," Konrad said softly. "Every account, white hair. A straight sword. Not the curved blades the Sultanate carries. A straight, double-edged blade. Imperial pattern. The kind a man would carry if he'd had a sword forged in, say, a frontier garrison town behind our southern front."
+
+Frieda lowered herself slowly back onto the edge of the bed. The story had stopped being a story. It had become a thing with teeth, and the teeth were closing around one of the most powerful military orders in the Empire, around a prince of the blood, around the war itself.
+
+"He went into the Sultanate," she said, mostly to herself, watching it assemble in the candlelight. "An Iron Cross knight crossed the border into a sovereign foreign power. Their capital. And killed a Titan in the middle of it."
+
+"Now." Konrad's voice dropped into the low, careful register he used when he was steering. "Now ask yourself the question I've been asking myself for three hours. What do we publish?"
+
+She didn't answer. She knew that when Konrad asked a question, he already had three answers laid out like a card trick.
+
+"We can run it clean," he said. "Hero of Silberwald Saves Qalathar. The Bastard Knight, the Mana Breather, the boy the whole capital's been weeping over since Grenzheim — he walks into the desert and saves half a million strangers. People will line up around the building for that one. They'll name children after him."
+
+"But."
+
+"But that's a children's version." A rustle, fabric shifting, the sound of him pushing off the wall and beginning to pace. "Because the Iron Cross does not send its heroes a thousand leagues into foreign territory to perform charity for a neighbor we are barely on speaking terms with. So the next version is, The Iron Cross Operates Inside the Sultanate. Which is no longer a hero story. That's a story about two countries and a war and what the Crown is willing to do in places it has no right to be."
+
+Frieda had her elbows on her knees now. "And the third version."
+
+"The third version," Konrad said, "is the true one. And I think you already know what it is, because you saw the same caravan reports I did." A breath. "The same day the angel saved Qalathar, someone burned down a warehouse in their merchant district. Killed every man inside it. Took their goods and their papers and walked away." He let it sit. "What do you suppose was being warehoused, Frieda?"
+
+She thought of the powder. The white powder that had been quietly rotting commoners in the capital's poorer quarters for the better part of a year, the powder the Crown wouldn't let her name in print.
+
+"Snow Dream," she said.
+
+"Snow Dream." She could hear his grin go wider. "The Iron Cross Destroys the Snow Dream Source. Or did you think they sent that boy into the desert purely out of love for our charming neighbors?"
+
+Frieda took her spectacles off, breathed on the lenses, and wiped them on the hem of her robe.
+
+She put the spectacles back on.
+
+"Get me everything," she said. "Names of the caravans. Names of your sources. Anything you have that puts an Iron Cross blade inside that wall. I'm not printing a word of it on a single source, not this — not with the Hexenzeit name on it, not with Prince Varen behind him." She stood. "And Konrad."
+
+"Editor?"
+
+"Stay alive. Whatever this is, you've just become a man who knows it." She reached for the crystal.
+
+She cut the connection. The blue glow died.
+
+She did not go back to bed.
+
+Imperial Palace - Hours Later
+
+Elara had a hammer behind her right eye.
+
+She lay in the wreck of her own bedclothes with the morning sun coming through the eastern windows. Her brain catalogued the many ways in which the previous night had been a mistake. The wine. The second salon after the first. The third glass of the southern vintage that Lord Cräusen's people kept pressing on her because they wanted her loose-tongued, and which she drank anyway, because she enjoyed watching them believe it was working.
+
+"Highness." One of her attendants again, hovering at the foot of the bed, her hands knotted in the particular way that meant she had already said this once and was terrified to say it twice. "Highness, please. They're waiting."
+
+"Let them wait." Elara did not open her eyes. "Time is a courtesy I extend at my discretion."
+
+It was not arrogance. Or it was, but it was also true. Her brothers spent their lives running. Varen at the head of his marching army of the desperate, Kasimir bleeding into the mud of the southern front, both of them sprinting toward a throne as though it might be taken from the room before they arrived. Elara had never once needed to run. She was one of the strongest mages of her generation, she held the only seat that had ever mattered to her. Her research position at the Academy, the one place in the Empire she genuinely respected. She had learned long ago that the people who hurried were the people who could be made to hurry. She intended to be neither.
+
+"Highness, it's Lord Auricht. He came before the gates were properly open. He's saying—" the attendant swallowed, "—he keeps saying it's a crisis. He used the word four times."
+
+Elara opened one eye.
+
+Auricht did not use the word crisis. Auricht was a man who, on the day his shipping fleet burned to the waterline, had described it to the insurers as "an inconvenience of scheduling." If Auricht was saying crisis, and saying it four times, then something he could not afford to lose had been taken from him.
+
+"Fine," she said, and sat up, and immediately regretted the speed of it as the hammer found a fresh angle. "Fine. Dress me."
+
+She did not let them put her in court silks. She let them put her in her Academy robes, the only clothing she owned that felt like it belonged to her rather than to her name. If she was going to receive a panicking man before breakfast, she would do it as a scholar and not as a princess. It put people off balance, and putting people off balance was nine-tenths of her work.
+
+She took the long way to the garden, because the cold air helped, and because making Auricht wait an extra four minutes among the morning roses would tell her something useful about exactly how frightened he was.
+
+He was on his feet when she rounded the hedge. His immaculate silver coat creased as though he'd slept in it or not slept at all. His face, normally arranged into the smooth, untroubled mask that great wealth wears as a uniform, had come apart at the edges. There were shadows under his eyes the color of bruises.
+
+"Your Highness." He bowed too fast, too deep. "Forgive the hour. I would not have come if—"
+
+"You've said it was a crisis." Elara lowered herself into the opposite chair and folded her hands in her lap. "You don't say crisis. So sit down, Lord Auricht, and tell me which of your enterprises has burned to the ground."
+
+He sat. His hands found the arms of the chair and gripped them.
+
+"The distributor," he said. "In the Sultanate. The — the source." He couldn't say the word any more than she could in the open air, but they both knew the shape of it. The white powder — the thing that had brought him into her orbit in the first place, the thing she had spent the better part of a year quietly funding to keep flowing. In part for gold; even more for what she did with the gold. Her research. For the simple, world-altering fact that a substance existed which could pour borrowed Circles into a man who had none, and that if she could understand why, understand the mechanism by which mana could be made to move where it had no architecture to move through, she might hold the first true thread of the thing she actually wanted. Not the throne. The throne was a means. She wanted the war to end without ten million more dead, and that meant understanding what the Sins understood and humanity did not. If all of this could bring the war to an end while still keeping mana in the world, keeping her a mage, then all the better. Elara could not imagine a world without magic. How terribly dull it would be.
+
+"Destroyed," he went on, and his voice cracked on it. "The whole operation. Burned. Every man inside it dead, the product taken or put to the torch. I have no supply, Highness. Not for the markets or for you. The well is dry, and I don't know when, or if—"
+
+"Stop." Elara lifted one finger, and he stopped. "When?"
+
+"Days ago. The news has only just—"
+
+"And how," she said, "do you know it was destroyed, and not simply seized, or moved, or any of the dozen things a careful man does when he hears the Sultan's tax-men are sniffing about? How do you know it burned?"
+
+Auricht wet his lips. "I had a man there. Local. He was outside the warehouse when it happened — out for the evening, away from his post, which is the only reason he's still drawing breath. He saw the ones who did it come out." His grip tightened on the chair until the wood creaked. "Highness, he recognized them. Or he recognized what they were. They moved like soldiers. Imperial soldiers. And one of them, he was certain of one of them—"
+
+"Iron Cross," Elara said.
+
+The Lord von Auricht stared at her, and the staring was its own confirmation.
+
+"He's certain," he managed. "And when he went into the warehouse after — to see what was left, to salvage what he could, the papers were gone. My papers, Highness. Correspondence. Ledgers. The documents that connect the southern leg of the trade to the capital." He could not bring himself to say to me. "If those papers are in Imperial hands. If they reach the wrong office. The name of my house is written on them."
+
+And there it was. The crisis. Not the loss of the supply. Not even the loss of her research. The thing that had pulled Lord Auricht out of his bed before dawn and across the city to a princess's garden was the oldest, simplest terror in the world: that his name was written somewhere it should not be, in a hand he could not erase, in a drawer he could not reach.
+
+Elara leaned back in her chair and looked up at the morning sky. She let a slow smile spread across her face, and for the first time since she had woken she felt entirely well.
+
+"You may stop trembling, Lord Auricht," she said. "I have friends in the court. A great many of them, and most of them owe me things they would prefer I never name aloud. Papers can be lost a second time as easily as a first. Investigations can be starved of the right signatures." She turned her head and looked at him, and let him see how little of this frightened her. "Especially when the men who carry the papers are nobodies. Commoners with swords. The Iron Cross is full of them. Fugitives and mutants and farmers' sons who'll be dead on the southern front within the year. Give me the name. Who led them? Who held the torch?"
+
+Auricht hesitated, and in the hesitation Elara saw that she had finally reached the part he was most afraid of.
+
+"The leader," he said. "The one my man recognized. It was the Hexenzeit boy. Roderich's discarded son. The one they call the Hero of Grenzheim."
+
+Elara laughed.
+
+It came out of her bright and clean and genuinely pleased, the first honest sound she had made all morning, and Auricht flinched at it.
+
+"Oh," she said. "Oh, that is good."
+
+"Highness?"
+
+"You don't understand what you've brought me, my lord. You've come here in a panic, certain you're carrying poison, and you've handed me an opportunity." She rose from the chair in one smooth motion, the hangover entirely forgotten. "My dear brother Varen has been parading that boy through the capital like a victory standard. The Bastard Knight. The Mana Breather. The miracle of Grenzheim. He's built half his standing in the court on the back of that white-haired peasant, and I have had to stand at every salon and every ball and smile at it." She turned, her blue robes swinging. "I have endured that pawn long enough."
+
+One of her attendants stood at the garden's edge, half-hidden by the hedge, waiting as she had been trained. Elara summoned her with two fingers.
+
+"Take this down," Elara said, "and have it sealed and on the right desks before Varen has finished his morning ride. He is going to wake to a very interesting day."
+
+"To the court — at the Crown's concern for the integrity of the Empire's borders and the conduct of its armed orders." A pause, the smile still on her lips. "Kaspar von Hexenzeit, knight of the Iron Cross, is to be arrested immediately and held pending inquiry, on suspicion of high treason against the Empire."

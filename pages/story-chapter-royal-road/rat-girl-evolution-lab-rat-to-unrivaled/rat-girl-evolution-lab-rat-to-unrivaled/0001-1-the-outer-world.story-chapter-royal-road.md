@@ -1,0 +1,163 @@
+---
+id: 8d4f305f-b808-5de2-a4e5-8206c22721d6
+page-type-slug: story-chapter-royal-road
+title: "1: The Outer World"
+slug: 0001-1-the-outer-world
+partOf: rat-girl-evolution-lab-rat-to-unrivaled
+position: 1
+ownLength: 2257
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572793/1-the-outer-world"
+royalRoadId: "2572793"
+---
+
+It was Tuesday. She hated Tuesdays.
+
+She didn’t know exactly what a ‘Tuesday’ was, of course, being a rat, but she had come to recognize the word being bandied about at the start of the day, once every week. The towering figures with white outer-fur and bald front-faces loved that day, always chattering with excitement as they moved about the outer-world, shining lights and setting up all sorts of intimidating silver constructs which reflected said lights into her eyes whenever she dared step out of the hollowed log she slept in.
+
+No, her feelings on that day were much more like their disgruntled whining about the day before, though fear and panic was her mood inside the inner-world’s glass walls, rather than the boredom and miscontent that stewed outside it.
+
+Every time, they seemed to rush through all their lights, and flashing metal structures, and scribblings of pretty marks onto sheets of paper not unlike the ones that she sometimes got as treats, to play with and tear apart, though they always seemed slightly disappointed when she did so, despite having been the ones who had given them to her in the first place.
+
+There came a moment of quiet, of stillness, after their work finished, as there always was. Then they peeled apart the inner-world she lived in, as they always had. She fled from their probing hands, as always, and when that failed, as it always did, she tore into them with tooth and claws, ignoring the bitter rubber of their front-paw skin, even as it threatened to rip her futile weapons from her flesh in its hardness.
+
+Then as always, the little cylinder, made from the walls between outer-world and inner-world. It was filled with glowing water, far thicker than it had any right to be, and always a different mix of colors that made her eyes hurt and her mind spin if she stared at them for too long.
+
+And the stinger.
+
+Cold, hard, like the shiny things all around. It bit into her mercilessly from behind as she squealed, and then even deeper as she fell silent, only letting a slight whimper ease from her mouth, not daring to even squirm or cry out in protest as she felt it worm deep inside her, felt it touching her most precious, vital organs.
+
+As it finally withdrew, and they put her back down amongst the wooden chips, one final squeak slipped out.
+
+A single warm finger brushed the top of her head, as though in comfort, and a grape almost as large as her head was placed in front of her by one of the hands, one without the rubbery outer-skin.
+
+At the moment, it seemed an impossible labor to even tear open the skin. Her jaw protested, but eventually she lodged a claw in the outer layer and pulled a gap wide enough to take a bite.
+
+Sweet, tangy juice. She just let it sit in her mouth, too tired to chew or swallow, just savoring the comforting flavor for as long as she could, until it finally went dull.
+
+She had only taken two more mouthfuls, and primed her jaw for a third, when the spasms hit.
+
+Jolts of horrible, wrenching, burning pain, starting from each point the stinger had kissed deep inside her and spreading out throughout her entire body, tainting every inch of her physical form, until it settled deep in her bones.
+
+There was no strength left in her to move, but she found herself flailing about, body moving on its own. She had no vocalizations of this pain, but the suffering tore a shrieking squeal from her mouth anyways, spraying grape bits, spittle, and… Was that blood?!
+
+The fire within her that twisted each and every joint into a new position, only to snap it back a moment later, was so severe that it became her entire world. She didn’t notice when the observers near tore back off the roof of the inner-world in their attempt to get to her, didn’t hear their own squeaking, panicked voices, didn’t notice when they began to argue with one another, fighting in word, and then in action, one shoving the other away as he reached in.
+
+Nothing even touched her through the pain, until he picked her up in one paw, and cradled her against his white outer-fur while stroking her. It felt good. Somehow, impossibly, it eased the pain a little, for just a moment.
+
+She could feel it now, the softness of his fingers that didn’t stop at fur and skin, but reached deep, down into her bones and tendons, calming and quelling the raging liquid fire that sought to consume them. Not by a great deal, perhaps, not at first, but by one tenth, and then two tenths, and then by half.
+
+Then it doubled, and redoubled to a new height still which consumed her body in a flare of agony. It seemed to absorb the comfort, the softness, and convert it into yet more pain.
+
+Her limbs lashed out on their own once more, and her convulsing jaw drew blood from the hand that held her, coating her tongue with the unpleasant, coppery taste of both it and her own that she desperately tried to swallow back down.
+
+Stay down, stay down, I need you in there, stay down, please!
+
+After a moment, another of the titans came close, holding out an object just barely larger than her, made of a material like that of the inner-outer-world barrier, but that waved about in his hand like fur or paper.
+
+Together the two of them stuffed her into it, holding her legs close and her head still with their thick hands, and the deeper into it she went, the more her thrashing was contained, until she could barely move, and the slight opening left of her mouth to pant and squeal was all that was left to her.
+
+It helped, though. As her burning joints pushed against the flexible walls and found the expansion limited, eventually, somehow, they stopped pushing, and the flames in her ligaments lessened from an unbearable agony to a mere torturous blaze.
+
+She had no conception of how long she stayed like that for, or how long it took until the suffering started to subside more, but at some point, her mind became clear, and that torture eased into mere pain, which settled, dull, heavy, and hot, inside her bones and muscles.
+
+If anything, despite it, somehow, she felt cold. The cold one gets when they’re sleepy, and hungry, and only wish to curl up in their burrow all night long.
+
+When they set her back down, she rushed to the grape again, only to find it far smaller than she had remembered. Before it had been the size of her head, and now it was half that, at best. She tore it apart in seconds, and then shredded each bite in her mouth, three in total, until it was gone.
+
+Somehow, the hunger only grew stronger.
+
+She rushed to the half-filled bowl of food, laying into the pellets that now suddenly crunched between her teeth in a single bite with no need to chew further. It was emptied out in two mouthfuls.
+
+Those bastards! They had switched it out for a smaller bowl as she was writhing in pain, trapped inside their little tube!
+
+She glared up at the border of the inner-world, and squeaked angrily. A finger, clothed in rubbery outer-skin, reached down and stroked her head, before lifting the tiny bowl up, presumably to return the larger one.
+
+They brought back the same bowl, and the next time, after it had been emptied, they brought back an even smaller one, the contents of which she could almost consume in a single mouthful. A mournful squeal leaked from her mouth, and she widened her eyes in sorrow as she looked up at the open roof of the inter-world, where all the giants had gathered to look down at her.
+
+Were they just going to let her starve to death?! After all that they had done to her? They had been cruel, before, certainly, but never like this. If they lived for her suffering, then why the treats, the fun mazes on occasion to run around in, the paper and other things to tear up and burrow down into? It just didn’t make any sense.
+
+Another hand descended, a smaller one, only half the size of her body, and dumped a full fist of pellets in front of her, and then its partner another handful of grapes.
+
+More food!
+
+She had never gotten more than a single grape before, much less a full handful of… one, two, three, four, five, SIX? Six grapes at once?!
+
+She let out a happy squeak, and nuzzled against the hand before remembering whose fault it was that she was in this situation to begin with.
+
+Instead the rat merely started to eat, chowing down on the suspiciously small pellets and half-sized grapes until there was nothing left, and the emptiness in her core had finally started to ease. Then, overcome with drowsiness, she crawled into her hollowed-out log—
+
+It was gone.
+
+Well, not exactly ‘gone’, just replaced with an identical copy a third the size, one that she could barely fit inside as she curled up into a ball. She would squeal her outrage more, if she wasn’t so tired, and the tight walls so surprisingly cozy, and….
+
+Sleepy….
+
+______________________________________________________________________________
+
+It was so cold.
+
+It was so hot.
+
+It was… Spicy?
+
+The numbing, tingling spiciness of that one time she had been given a pepper in place of grapes, only now rather than being in her tongue alone, it spread all throughout her body, tingling and stinging, throughout her shape, and then throughout a series of shapes progressively farther and farther from her own.
+
+She awoke with a gasp, and felt her paws stretch out strangely to the side of the inner world.
+
+Her front legs moved…. Differently. Correctly?
+
+No, that was incorrect. Legs weren’t supposed to move like that, the joints of shoulders weren’t supposed to be like balls in sockets—
+
+Shoulders?
+
+Legs don’t have shoulders. Arms have shoulders.
+
+She sat back down. Sat, sitting up, spine perpendicular to the ground, rather than horizontal. Her front legs, no, her arms hung at her sides, and slowly, she rose to her feet, her two remaining feet, and reached up to the top of the inner-world barrier.
+
+The glass was cool to the touch, despite the red gemstone light shining through it warmly from not that far away.
+
+It glowed, radiating an energy, one that was like light, and like warmth, and yet nothing like either, that she didn’t truly see or feel, but something a little of both yet not quite either. She looked at it, watching how the glass distorted the gemstone in her view slightly as her head moved.
+
+Glass? Gemstone?
+
+That was what she called them. Right? That was what she had always called them, ever since….
+
+Ever since now, since she had realized that was what they were called. That was what the people—
+
+People? Humans? Had the titans of white outer-clothes and cruel experiments always had such a name for their kind?
+
+Wait, clothes? Not fur, but garments?
+
+She cast her gaze around the outside of her world, and saw, yes, beyond the range of what she could have ever seen before, several of what she had previously thought pelts discarded and draped over chairs, let go for the night.
+
+The outer-world was strange, not at all like her inner-cage—
+
+Cage. Cage.
+
+The word filled her with malcontent, just hearing it echo within her own mind. She wasn’t supposed to be in a cage. Maybe they thought so, but they were outside the cage. What right did they have to put her in it? What justification for her being the experiment, rather than them?
+
+Now that she was big enough to not be held in their hands, smart enough for their words to no longer go over her head, why did she need to stay there? Couldn’t she just reach up and push the roof open, as they always had? Why not just walk away? In fact…
+
+The roof of the cage didn’t open, though, no matter how hard she pushed. Was she too weak? Even her new form would have struggled to reach one of their waists, after all. But still, it had always seemed so effortless for them. She shoved again, straining with all her might. Nothing.
+
+A hiss of disappointment. She spun around, looking for the source.
+
+Which of them was watching her? Which of them had—
+
+It was her. Her paw-hand reached up, and felt her mouth and throat. They had become more human-than ratlike now, still covered in her soft, glossy fur, but now capable of a whole new range of sounds – including the one she had just made on instinct, mimicking her captors.
+
+Mimicking…
+
+That was it. They didn’t just lift up the roof, but they had done something, a sliding motion away. She copied it exactly. Nothing happened.
+
+No, ‘exactly’ wasn’t right. She should be doing it in reverse…
+
+The lid slid, and popped off.
+
+And for the first time in her life, the rat breathed the musty air of the outer-world, the real world, and breached into it by her own power.
+
+That was when she saw them.
+
+Glittering in the dull light, dozens of eyes, all fixed on her as one.

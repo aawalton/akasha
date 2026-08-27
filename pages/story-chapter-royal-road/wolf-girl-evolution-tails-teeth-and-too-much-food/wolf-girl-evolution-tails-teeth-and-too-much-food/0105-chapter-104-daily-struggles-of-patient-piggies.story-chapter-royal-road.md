@@ -1,0 +1,623 @@
+---
+id: 4986cd45-0b97-573b-8d09-e7634aabf6d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 104: Daily Struggles of Patient Piggies"
+slug: 0105-chapter-104-daily-struggles-of-patient-piggies
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 105
+ownLength: 1928
+unit: words
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3092229/chapter-104-daily-struggles-of-patient-piggies"
+royalRoadId: "3092229"
+---
+
+PoV Luna
+
+It took a little while, but Luna eventually stopped running!
+
+Her new Evolution made her want to show off, but now everybody knew!
+
+So she stopped, panting slightly, and took in the sights.
+
+The plains around them stretched wide and steady beneath the sun. The tiny drizzle of a rain passed by already, and it left things looking sparkly.
+
+And quickly drying off.
+
+Luna watched as adventurer teams moved in smooth cycles.
+
+One group pressed forward.Another peeled back.
+
+And she saw a third bringing in more Ants from the distance.
+
+Hmm!
+
+Ant numbers remained high.
+
+But they were scattered now!
+
+Adventurers constantly harassed and thinned them. Quick strikes, clean and controlled retreats.
+
+Very nice pack tactics!
+
+…Just slow.
+
+Guildmaster Ferric calmly walked the perimeter.
+
+Hands clasped behind his back.
+
+Observing!
+
+And adjusting small things from time to time.
+
+Luna no longer saw any of the earlier urgency in his steps.
+
+Luna stood on a big stone near the backlines and watched on, swaying gently left and right, humming to lofty Apex Predator beats!
+
+“Hmm-hm-hum… stab, claw, step, rotate…! hurr-hmm…”
+
+Her tail swayed to the silent rhythm.
+
+As her eyes tracked everything around!
+
+How the lines held, and how the teams rotated.
+
+The lively camp, which expanded slightly. More tents, more space cleared, and–
+
+Oh!
+
+A couple of cooks were starting to prepare ingredients!
+
+Luna could hardly wait!
+
+But, importantly–
+
+Everything functioned smoothly.
+
+She tilted her head.
+
+Waited.
+
+Surely they were ready now, and something would change soon!
+
+A push!
+
+Or dramatic charge, to get all the Ants!
+
+But instead–
+
+It was just…
+
+Another clean rotation?
+
+And a… steady clash?
+
+One more group jogging back while the next stepped in.
+
+Her humming slowed.
+
+The sway lost its rhythm.
+
+Luna waited just a little bit longer…
+
+But!
+
+Nothing changed.
+
+Only the same pattern repeated.
+
+Steel rang, and Ants screeched.
+
+Adventurers called short, efficient commands.
+
+Repetitive.
+
+Slow.
+
+And so, so… boring!
+
+Her tail stopped moving entirely.
+
+“…Why is this taking so long?” she muttered to herself.
+
+She hopped down from her perch and shadow-slid straight toward Ferric.
+
+Shadow-sliding was fun!
+
+The resistance cut through, and every small move helping her cross distance easier.
+
+One step, big slide!
+
+It wasn’t really Running, but so pleasant and fun!
+
+Ferric noticed her approach immediately.
+
+Luna stopped in front of him and looked up, squinting slightly.
+
+“Whyyy?”
+
+Ferric raised an eyebrow, slowly getting used to her antics.
+
+“Why what?”
+
+“Why hunt not done yet?”
+
+Ferric gave a short exhale that sounded suspiciously close to a chuckle!
+
+“We are finishing it, right now.”
+
+Luna blinked, disbelieving.
+
+“This?” she repeated, pointing her arms everywhere around.
+
+“Yes. Cleanup can take days.”
+
+She froze.
+
+“…Days?”
+
+“Yes. We need to thin the remaining Ants out steadily. Then check and ensure there are no more hidden clusters or smaller nests. Rushing could mean mistakes, and we don’t want that.”
+
+Days!
+
+What an awful thing to say!
+
+No, no!
+
+Surely, Luna misheard!
+
+Days was impossible!
+
+Too slow, and boring, it just couldn’t be!
+
+She turned her head toward the forest.
+
+And saw the same things as before! Nothing has changed, just more of the same steady and slow!
+
+Her tail went completely still, understanding dawning.
+
+Incomprehensible!
+
+This smelled too much like boring!
+
+Very long boring.
+
+Stretchy boring.
+
+Not even Apex Predator waiting for prey boring!
+
+She glanced back at Ferric, hopeful!
+
+But the ‘joking!’ didn’t come.
+
+He had already resumed walking the perimeter.
+
+Luna squinted at his back.
+
+Very suspicious!
+
+What would Luna even do, with days?!
+
+She scanned the perimeter, and found Mr. Bull!
+
+Yes!
+
+Proper Humans should know!
+
+Luna bounced over, spirits high again.
+
+He stood near two recruits, demonstrating an exaggerated heroic pose.
+
+And Luna didn’t see that one yet either!
+
+Chest out.
+
+Arm raised.
+
+Chin lifted dramatically toward the sky!
+
+Very nice!
+
+“When you stand against the swarm,” he boomed to his audience, “you stand tall! And firm!”
+
+Luna zoomed over and immediately copied him!
+
+Her much younger voice ringing out!
+
+“Luna tall! And firm!”
+
+The recruits blinked.
+
+Mr. Bull laughed.
+
+“Ah! Power Fluff Girl, there you are!”
+
+He reached down and ruffled her hair.
+
+“Yes! Strong stance! Very strong. But posture is not only arms. Elevation matters too. See–”
+
+He lifted one of the unsuspecting recruits onto his shoulders for a moment.
+
+The lack of outward surprise told Luna it wasn’t the first time Mr. Bull did that.
+
+Hehe!
+
+“Height gives advantage! You see more, and project more!”
+
+The recruit wobbled slightly before being set down.
+
+Then Mr. Bull looked at Luna.
+
+Grinned.
+
+“Oh, why not just show you?”
+
+He picked her up next, settling her onto his shoulders!
+
+But different!
+
+Carefully.
+
+And sitting down!
+
+Luna froze, looking all around.
+
+The world shifted upward.
+
+The plains spread out beneath her.
+
+The formations became clearer.
+
+Ant trails stood out in thin, dark streams across the grass.
+
+She could see the rotation timing better from here. The flow of squads. The patterns of battle.
+
+Wind brushed her face.
+
+Her fingers tightened slightly in his hair for balance.
+
+“What is this?” she asked, quiet curiosity coloring her voice.
+
+Mr. Bull chuckled.
+
+“We call it piggyback riding. Very nice, yes?”
+
+Piggy.
+
+Back.
+
+Riding!
+
+Her eyes widened slightly, and she looked down!
+
+“You sit on one another?”
+
+“For parades. For celebrations, or just for fun.”
+
+Fun!
+
+Elevated.
+
+Tallerer!
+
+Luna’s eyes sparkled with childish wonder!
+
+She looked down at his shoulders.
+
+Then at the recruits.
+
+Then back across the plains.
+
+“…Oh!”
+
+Her tail began to move again.
+
+Slow at first.
+
+Then a little faster.
+
+Looking at the battlefield from above, it felt so so… nice!
+
+And then–
+
+A beginning of an idea formed in Luna’s mind!
+
+Oh, this would be so so fun!
+
+“Thank you, Mr. Bull!”
+
+She did not linger.
+
+The moment her feet touched the ground, she was already moving – a streak of fur and intent cutting across the camp.
+
+Her heart beat excited in her chest.
+
+Luna wanted to see more!
+
+To try more!
+
+She spotted Ray first.
+
+He leaned against a sun-warmed rock, one boot braced up behind him, blade resting across his knee. He ran a cloth slowly along the edge, polishing away ant-ichor with meticulous care.
+
+But his posture suggested boredom!
+
+Though, as Luna looked on–
+
+Ray’s eyes betrayed him!
+
+They tracked the outer skirmishes with casual precision, pretending indifference while missing nothing.
+
+Luna hopped up onto the rock beside him and planted herself within his peripheral vision.
+
+She stared.
+
+Ray kept cleaning.
+
+“…Luna? What is it?”
+
+But Luna didn’t answer!
+
+Just humpfed loudly, excitement showing!
+
+Then she pointed at his shoulders.
+
+And at Mr. Bull in the distance.
+
+Then back at Ray’s shoulders!
+
+He blinked–
+
+Followed the gesture–
+
+Processed what he saw–
+
+“…No.”
+
+And dared to refuse!
+
+No!
+
+Luna narrowed her eyes.
+
+“But! It’s a piggyback ride! Pretty please?”
+
+“You are not a toddler.”
+
+Her pout appeared instantly.
+
+Hmph!
+
+Then she leaned forward and began poking him in the side with sharp, deliberate jabs!
+
+“Hey– ow– ouch! Luna, stop!”
+
+Another poke.
+
+“Ow. That’s– please stop!”
+
+Luna shifted angles as he tried to twist away. Ray ducked left! She jabbed right. He leaned back. And Luna leaned forward!
+
+“Alright, alright, you win!”
+
+Yes!
+
+That was all the permission she required.
+
+It took just a blink.
+
+Shadow Step made climbing up simply unfair!
+
+Ray felt a shift of air and then–
+
+Luna’s small weight appeared.
+
+She perched on his shoulders, balanced with infuriating ease, tail wagging so enthusiastically it brushed his face.
+
+He staggered half a step before catching himself.
+
+“High!” she declared, leaning forward until her hair hung upside down in his vision.
+
+Ray squinted up at her.
+
+“You’re not that much taller.”
+
+But Luna ignored him!
+
+The sight from here was same!
+
+But different.
+
+But also same!
+
+So weird!
+
+And the Ants…
+
+They looked… manageable?
+
+“…But Luna sees more now.”
+
+Ray exhaled through his nose.
+
+“Hah, fair enough.”
+
+A faint glint entered his eyes.
+
+“Hey, Luna? I bet Sepio and Veric would just love to help you see even more from up high.”
+
+She tilted her head slowly.
+
+“Really?”
+
+“Yes. Really really.”
+
+She studied him for a long second.
+
+Suspicion stirred!
+
+But then she spotted Sepio.
+
+And her excitement won!
+
+Ray lost his passenger without any warning.
+
+But if his chuckle was any indication–
+
+He really didn’t mind!
+
+***
+
+Sepio was mid-adjustment, shield strap half-fastened across his forearm, when something climbed him with alarming speed. Hands found purchase at his belt, then shoulder, then–
+
+Weight settled atop him.
+
+He froze.
+
+“…Why.”
+
+Luna adjusted herself, steadying easily.
+
+She looked down at the top of his helmet and patted it with satisfaction.
+
+A funny little clonk sound rang out at that!
+
+“Because! Luna taller now. Learned climb trick from Mr. Bull!”
+
+Sepio stared forward with heroic restraint.
+
+“This is undignified.”
+
+Luna leaned down into his field of vision, hanging just enough to meet his eyes.
+
+“But awoomazing!”
+
+“No.”
+
+“Really really?”
+
+“Yes.”
+
+She pouted.
+
+Then her gaze shifted past him.
+
+Veric stood a short distance away, arms crossed, watching the ongoing battle with measured calm.
+
+Oh!
+
+Her silent packmate looked like an even better tree to climb.
+
+Luna sprang into action!
+
+Veric grunted softly as she landed, but his stance adjusted instantly, feet shifting to absorb the weight.
+
+“...Careful there.”
+
+She balanced atop his shoulders with far less wobble than the others. His center of gravity was solid, controlled, and adjusting to her every move!
+
+And he didn’t complain like others!
+
+Ehehe!
+
+Her tail swept slow arcs behind her as she lifted her chin and scanned the plains.
+
+From here, she could see the teams doing their work clearly.
+
+Controlled thinning.
+
+Her mouth flattened slightly, before she plopped down and leaned onto her packmate’s head, hugging him lightly.
+
+Veric gently held her legs in place.
+
+The bestest!
+
+Luna leaned down until her face hovered just above Veric’s.
+
+“Ferric says the clean up will still take days. Daaaays! That true?”
+
+Veric hummed thoughtfully.
+
+“Yes.”
+
+She leaned closer.
+
+“But! It’s days! And days are very very long!”
+
+“…Yes.”
+
+Woo…!
+
+Her ears drooped.
+
+This was unacceptable!
+
+She straightened slowly and turned her gaze back to the plains.
+
+Her eyes narrowed.
+
+If they intended to stretch this into so sooo long–
+
+Her tail resumed its thoughtful arc.
+
+Hum!
+
+Luna stared out over the battlefield from Veric’s shoulders, watching everything.
+
+Yes!
+
+This needed a better plan!
+
+Luna slid down from Veric’s shoulders without a word.
+
+Only a quiet huff followed as her boots hit the damp earth.
+
+Then pomfed into his side!
+
+“Veric is good packmate!”
+
+“Ah, hrm. Thank you?”
+
+The slight surprise colored his voice.
+
+Luna stood there for a moment longer, eyes tracking the forest line in the distance.
+
+Then back at Ferric, still walking the perimeter with that infuriating calm.
+
+And grinned!
+
+Waiting for days?
+
+Unacceptable!
+
+She crouched slightly, feeling the ground beneath her boots. The earlier drizzle had left the surface faintly slick in places, darkened soil holding just enough moisture to test footing.
+
+But far from treacherous!
+
+Luna tested a step.
+
+Her muscles felt light. Rested. Charged with restless energy that had nowhere to go!
+
+Her lips curled into a grin.
+
+“Fine,” she muttered to herself. “Luna will do it herself!”
+
+No one but Veric reacted fast enough.
+
+And he only shook his head with a slight smile.
+
+Then returned to his own practice.
+
+After all…
+
+There was absolutely nothing to see there.
+
+Just Ants getting rapidly flung into the air at alarming speeds.
+
+A completely normal phenomenon.
+
+And just another day.
+
+Shouts of surprise rang out.
+
+…Insofar as it could be when Luna was involved.

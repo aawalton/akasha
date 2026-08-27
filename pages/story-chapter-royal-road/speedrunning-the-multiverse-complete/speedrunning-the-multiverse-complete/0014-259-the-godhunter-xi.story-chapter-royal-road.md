@@ -1,0 +1,195 @@
+---
+id: df782f56-e976-5855-8cf6-935eb284c9c7
+page-type-slug: story-chapter-royal-road
+title: "259. The Godhunter (XI)"
+slug: 0014-259-the-godhunter-xi
+partOf: speedrunning-the-multiverse-complete
+position: 14
+ownLength: 1993
+unit: words
+ownProgress: 1993
+publishedAt: 2023-07-11
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1273499/259-the-godhunter-xi"
+royalRoadId: "1273499"
+markedReadAt: "2026-06-29T22:42:08.957Z"
+---
+
+Dorian’s plan came to him as a vision.
+
+He was like a gull flying amid a great storm. And thus far he’d been battered about. But if he could just find the eye and ride it for all he was worth…
+
+There was a path! Or at least, he dearly hoped there was.
+
+He leapt like he was about to rush in, but stopped just short of making Salas draw his knives. Then he began an awkward dance. He bounced left and right, [Sunshine Stepping] in random zigzags, forcing the automaton to pivot as it tracked him.
+
+It was harder to hit a moving target up close than it was from afar. Harder still, since even Dorian didn’t know which way he’d bounce. And even harder still, since he made sure to chuck in off-beat [Supernova Fists] to throw the thing off. But Salas drew its bow with a hunter’s patience, its aim inching inexorably closer. These antics bought a little time; that was all. They wouldn’t save him.
+
+Both of them knew it.
+
+[Shield of the Blood Moon!]
+
+The arrow flashed at him like a shaft of harsh sunlight. But it clanged off Dorian’s wing, since he’d moved to block the instant Salas moved to fire. He had a unique advantage. He knew exactly where Salas would think his weak points were.
+
+But it would only buy him yet a little more time.
+
+He blocked another shot with his good wing. It ruptured the skin and felt like a fire poker jabbing at his bare flesh but at least this way he kept the tendons in his knee. He dodged another shot, and a third, blocked a fourth, dodged a fifth, and, just when he was starting to feel himself, felt a searing point of pain rake across his chest.
+
+“What is this foolishness?!” snapped Coldheart.
+
+“I’m taking my time! What’s the rush?” said Dorian with a grin. Then he hissed as a line of pain carved up his back. “Could it be that your precious automaton runs on a finite amount of Spirit Stones? Could it be it’s starting to run out?”
+
+“Is that your hope? How laughable! The Godhunter Machine has barely used twenty percent of its stock!”
+
+Twenty percent, eh? Dorian’s eyes brightened.
+
+It was far less than he’d hoped. But at least he had a figure. Now he could plan around it.
+
+He couldn’t beat Salas up close. He couldn’t beat Salas at a distance either.
+
+The only way was to drag things out in this uncomfortable middle range. Make things as annoying as possible. Take his licks, regenerate all he could, and bet that Salas would run out of fuel before he fell apart.
+
+Thus began a fraught game of cat-and-mouse.
+
+Salas was a thinking machine; it noticed his habits, even—especially—his subconscious ones. And targeted them mercilessly. Over time it ought to find the mark more and more.
+
+But it was pitting a version of his mind against himself. And Salas was not the only one capable of adjusting! Any new weakness Salas found Dorian covered in seconds. He switched up styles. He leapt on off-beats, played with tempo, made a chaotic mess of his movements.
+
+And so they settled into this uneasy equilibrium.
+
+An equilibrium Dorian handled with deceptive ease.
+
+One misstep and an arrow would pierce his heart. Stab through his eye. Cripple his leg.
+
+But he simply refused to make a fatal mistake. His mind was locked on the task at hand. Every muscle was forced into an agile, supple relaxation. But inside he was strung up with incredible tension. Alert, ready to explode in any direction at a moment’s notice.
+
+Dodge. Dodge. Dodge. Block—an arrow ripped up his shoulder. Another glanced his leg. Dorian took them in stride, kept moving. The light wounds of a breath ago were now healed. The deeper wounds of four breaths were nearly gone too.
+
+“Fight!” screeched Coldheart. “Fight, damn you!”
+
+“Oh, but I am! How did you say Salas beat you originally? He outlasted you in a battle of attrition, didn’t he?” Dorian twisted out of the way of a pair of arrows. “Aren’t I beating Salas at his own game? Isn’t it poetic vengeance, in a way? You should be proud!”
+
+Coldheart was momentarily speechless. Thank Heavens.
+
+Dodge, dodge, dodge. An arrow found the wall two strides behind him, erupted in fire. Heat licked Dorian’s back.
+
+“What do you plan on doing?” said Coldheart, exasperated. “I shall admit your plan is… cute. Amusing, even. I have come around to it some. But at this rate it will take hours to empty Salas’s supply! You can’t simply dodge for hours straight!”
+
+Dorian smirked. “…Can’t I?”
+
+***
+
+Dorian didn’t need to not be hit. It was impossible to be perfect against this thing. Rather, it was a simple, cold calculation. His total health plus his regeneration, minus Salas’s damage, was greater than Salas’s power supply.
+
+The hard part was keeping it up. Staying in the eye of this firestorm. There could not be a second’s lapse. But he took the challenge second by second, minute by minute. He did not think of the vast expanse of time yawning before him. Vast enough that considering it in its whole would sink him in despair. No—there was only the moment. This perfect, unitary moment. The whole made this sliver of time feel utterly weightless, pointless, but the moment, considered on its own? It mattered. He could make it matter.
+
+And then it passed. Then there was the next moment. String enough together, you get a minute. Then several. They started to flow together, to flow with the moves of his limbs, to flow with the state of his mind. Then considerations of time left his mind. There was only the act.
+
+Ten minutes. Then twenty. Then thirty. Even Coldheart’s interjections tapered off. The dragon had taken to staring. There was contempt in his eyes at first. Then, after ten minutes, bafflement. And now… something nearing awe. It was realizing this figure dancing clownishly before it was not so simple. It was witnessing something extraordinary; it almost seemed afraid to speak, as though speaking might shatter this flow.
+
+…
+
+…
+
+[Level-up!]
+
+[Shield of the Blood Moon] Lv. 2 -> 3
+
+[Level-up!]
+
+{Supernova Fist]
+
+Lv. 6 -> 7
+
+…
+
+…
+
+But it had to end.
+
+Dorian couldn’t dodge forever, whatever his boasts. He had no clue how long this had gone on for. An hour? Two? His mind felt like a frayed string. Still he clung on. He had more time in him. It would be at least another hour yet before he broke.
+
+Before he could, though, Salas shifted gears.
+
+Qi roared out from every inch of its body. The bow was discarded. Out came the daggers.
+
+Kill mode.
+
+Just as Dorian had expected.
+
+He was honestly surprised it hadn’t tried this earlier.
+
+When Salas was in bow mode, phase one, it expended less energy. It spent most of its time here. If it could rush Dorian endlessly, of course it would! But it’d tried that, and it’d failed, it was left steaming. That was meant to be a finishing blow. It stretched Salas past its physical limits. It had to recover.
+
+And now it had.
+
+This time when it rushed him Dorian was literally one step ahead.
+
+He fled for the far wall first. Salas pounced after, angling to corner him.
+
+He flashed the thing, skirted away, but it remembered from last time that one rush wasn’t enough. It put together two. And when Dorian tried [Sunshine Stepping] around it, it summoned up a third charge, just like last time.
+
+But unlike last time, Dorian started a step ahead. Rather than slice off half his wing, Salas’s daggers shrieked through air.
+
+And Dorian let out a breath of relief. Salas was smoking like a bonfire now, just like before. Overheated. Its joints screeched faintly and there was a rattling and a sloshing within it, like some of its inner workings were coming undone. It’d probably burned through another big chunk of its qi, too. After this, how much could it possibly have left?
+
+Which meant all he had to do now was survive a few more arrows—
+
+Wait. WAIT.
+
+That wasn’t right at all.
+
+How would Dorian fight, if he were Salas? His body pushed to the brink of failure, energies nearly depleted? After this, he couldn’t afford any more mad charges. Would he bank his last—what, 20%, 30% of his qi—on finding a fatal killshot in phase 1? A killshot that this tricky, slippery dragonoid seemed to be able to avoid as though it could read Salas’s mind?
+
+Of course not.
+
+Dorian’s breath of relief froze in his throat. His instincts screamed at him to turn; he ignored them. Turning would’ve cost him a precious fraction of a second. Instead he kicked off with as much force as he could muster.
+
+Lucky, too. Since Salas’s knives took off his legs beneath the knees the next instant.
+
+All Dorian felt was relief. Because those knives hadn’t gone through his neck. Because those knives still took slivers of time to scythe through his flesh and bone and tendons—slivers he took desperate advantage of. His wings closed over his vital points. Head. Neck. Heart.
+
+For Salas had gone on a suicidal blitz. All out. Suddenly its face was in front of Dorian’s, and its features were blurred, like a wax sculpture left out on the hottest day of summer.
+
+Drooping dead eyes locked on wide living ones. It’d charged at him for the fifth time, one shining knife aloft.
+
+It descended for the very last time.
+
+Dorian knew exactly what is going to happen. The trouble was, he still couldn’t stop it.
+
+All he could do was shove every last drop of qi into his wings, throw up a [Shield of the Blood Moon], and hope.
+
+The knife met the sum total of his qi, and incinerated it utterly. There was a great sound like a thunderclap, a blast of energy, but it scarcely slowed the blade. Just as Dorian had put all he had left into the defense, that knife held all Salas’s might. And it would not be denied.
+
+It went through his first wing. It did not carve through it, nor punch through it, for those words implied some kind of resistance. It carved through his second wing, for it had slowed, Dorian felt, just a little. Wishful thinking, probably.
+
+It came to him in a vision. There was no stopping it. It would gut him.
+
+Dorian knew exactly what was going to happen. He couldn’t stop it—but he could roll with it.
+
+He saw the arc of the knife. It drove for his heart.
+
+Then he flopped up with all his might.
+
+His chest rose up, and the knife went through it. But not through his heart. This way he chose where it struck; it passed under his heart and kept going. Through his body, just like it’d gone through his wings.
+
+It was a victim of its own power.
+
+If it’d stopped there all that pent-up qi could’ve gone straight into Dorian, obliterating his insides in an instant. It would’ve stopped there, pinning Dorian to the ground, had he not done that sudden flop.
+
+Instead it passed through him totally and buried itself in the floor underneath him. Dispersed like grounded lightning.
+
+Which was how he found himself, at the end of things, with a replica of his past self arm-deep in his torso, its face an inch from his own, fast melting.
+
+A heartbeat passed.
+
+“Hmph!” snorted Coldheart. “I don’t believe it. This is my successor? Bah! I suppose I can consider you adequate of my legacy… If barely. You alive under there?”
+
+“Barely,” croaked Dorian.
+
+“Good!”
+
+Salas vanished. His knife did too. Leaving only holes, and a great deal of pain behind.
+
+“I suppose you’ll be wanting the treasures now! Very well…”
+
+The scene shifted.

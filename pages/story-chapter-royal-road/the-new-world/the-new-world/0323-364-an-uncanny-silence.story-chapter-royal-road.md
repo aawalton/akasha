@@ -1,0 +1,131 @@
+---
+id: 0dcb8bc9-4989-5ad4-90f2-a07106da9ab4
+page-type-slug: story-chapter-royal-road
+title: "364 An Uncanny Silence"
+slug: 0323-364-an-uncanny-silence
+partOf: the-new-world
+position: 323
+ownLength: 2019
+unit: words
+ownProgress: 2019
+publishedAt: 2023-03-04
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1128312/364-an-uncanny-silence"
+royalRoadId: "1128312"
+markedReadAt: "2026-06-29T21:32:17.295Z"
+---
+
+If anything, I could lean into the rituals but on the opposite end. I laughed for a second as a realization popped into my head. Most ritualists would spend all of their time mastering how to perfect rituals. They'd focus on guaranteeing their success for smooth sailing. I would tread a different path.
+
+I would spend my time learning how to break them.
+
+Chapter Begin
+
+Over the next few hours, I attempted many strategies using the rituals. I gained some competence over them, getting a feel for when, how, and where they'd explode. That required abandoning Targask's simple designs. They acted as frameworks for rituals more than the real thing, so it didn't take much to give them more oomph.
+
+They carried slight variance, complexity, or even charm. They reeked of a textbook's stale, sterile outline, made only to teach and not use. Divorced from pragmatism, these incantations lacked any bite or punch. I fixed that. One step at a time, I created volatile, vicious runic combinations.
+
+I gave them a destructive output by basing them off Torix's grimoire creation ritual, which I'd done multiple times. I even pulled out my obelisk from eons ago and referenced the library of texts Torix gave me. Several ritual texts awaited my arrival and enlightened me about my ignorance in their fields.
+
+Coming from Torix, several of the books included risky and controversial runic combinations. They cranked up the potential of the rituals by using unsafe strategies. As if amassing a suicidal toolbelt, I incorporated many of these techniques, and the runic flares I unleashed exploded in ferocity. They oozed destructive potential, each of them like a meteor piercing the skies.
+
+I couldn't make them on the fly yet, but time would be my greatest ally. Having already devoted several hours studying rituals, I returned to my cities to inspect them. All was well, and I spent several hours in a home of my choosing. There, I meditated on my findings, trying to digest all of the information I was given. This retreat allowed me to consider how my abilities could influence my new knowledge.
+
+And influence they did. I learned that my origin mana could be converted into common animals which could make simple potions. While not revolutionary, it would give my soldiers the means to heal more minor wounds or push past mana limits in a pinch. It left me content. I may never be a true healer, but I could become something like a pharmacy that gave out medicine.
+
+As I studied all of this, I kept myself stationary, electing not to move my physical body. This let me compress time more. Instead of using my hands, I wielded telekinesis and gravitation to try out the potion formulas on the animals I spawned. Something about creating life and taking it so suddenly left me numb, but I pushed past my unease. People may need these potions, and my discomfort wasn't an acceptable excuse to stop making progress here.
+
+This wealth of time let me focus on developing a productive meditation as I tested the elixirs. I pulled out my elemental furnaces and channeled enormous volumes of mana into my runes, and my temporal compression furthered that radical production. In turn, my primordial rune bolstered my mind, body, and dimensional aura over time.
+
+This gave way to a positive feedback loop. The more I put into the meditation, the more I could focus. The more I focused, the more mana I put out. The more mana, the more my runes gave me strength, and that process repeated ad infinitum. It ramped my growth to a discernable degree, my body becoming heavy and my mind becoming sharp.
+
+At least sharper than before, which wasn't saying much.
+
+Regardless, I left my room after several hours, heading back into the bright abyss of bones outside. I covered myself and studied the ritual runes. During that session, I devoted my time to the cipher versions. Their dimensional implosions left their marks on the landscape, and the entire area devolved into a minefield for anyone approaching.
+
+I put up several odd pillars to mark the space, and it became a hellhole of epic proportions. One could die in a dozen ways when taking a single step there. The air itself turned into an insidious, whispering presence. The ground leaked poison from pits of the void, and the sky molded towards anything living. This left the expanse as a wasteland, one turned into a permanent killing field.
+
+It reminded me of nuclear fallout as I learned about the cipheric rituals. Their effects were permanent, converting the expanse into an uninhabitable and desolate place. Even the rainbow bones below inched away from here, the semi-sentient mass wanting an escape from the insidious squalor.
+
+I winced at the lost land, the deleterious effects reaching the size of several city blocks within a few days. I kept pursuing the discipline as it carried a potential I hungered for. I needed some way of harming Valgus, and this was my best shot at doing that. I intended to limit his dimensional space, which could deconstruct the Old One's enchantments over him.
+
+I would unravel the laws governing his adamantine form, one page at a time.
+
+As I unwrote his perks, I didn't unwrite my own. My advantages remained no matter what space I occupied. If I had to guess, my dimensional immunity extended to these ruined areas, and I walked in this valley of death unperturbed. As was the case in my past, my ability to endure would become my weapon.
+
+At the same time, I kept heading back to the city each day. The rulers made rapid progress, with each finally freed from the many shackles binding them and their progress. While not absolute juggernauts, they learned to wield their minds and bodies in combat. That stopped them from being fodder against Elysium.
+
+Other veins of progress opened. Many rulers shared magic, helping them survive the elemental forces outside my city's barrier. These ventures tested their nerve, as many would explode if exposed. My golems enabled them, and we prevented any casualties during those expeditions. The rulers paired that with general physical conditioning that helped them become more robust.
+
+I didn't idle in the meantime. My potions experiments paid off, allowing me to give each ruler several bottles of the new brews apiece. Targask pitched in, providing pointers and guidance over the process. Each time I produced a creature from nothing, he marveled at the complexity of the creation.
+
+Sitting beside the city's central pillar, we faced one another on chairs we made. I lifted my hand and created different creatures. Targask murmured, "That's a freakish ability you have there. I've never seen an origin mage make something like that in all my days."
+
+I shrugged, "Oddly enough, it's easier to do this than make simpler stuff."
+
+Targask's eyes narrowed, "With how disconnected that ability is, it's almost as if someone embedded it in you."
+
+I frowned, remembering several forces that could be responsible for that. Etorhma funneled knowledge into my head about the cipher, and so did Eonoth. Who's to say they didn't funnel something else? Even Baldag-Ruhl's ritual could've caused this ability since I didn't understand its full repercussions to this day.
+
+I might never know them, but I kept that to myself as Shalahora stepped up. The shadow coalesced into a bipedal creature, likely for our comfort, and he tilted his head at me,
+
+"You seem perturbed."
+
+I raised a hand, "I'm fine. What is it?"
+
+Shalahora gave me a bow, and I processed some awkwardness. The shadow oozed its words like dripping ink, "Elysium moves. They've amassed a large army of the primevals, and Valgus appears to grow less and less stable daily. He is a mind unwrought, pulled apart at the loosened seams...Those threads have begun to fray."
+
+I bristled at that since a wild, uncontrolled Valgus could level my settlements or kill everyone. I tapped my side, "Do you have any idea why Valgus is becoming less stable?"
+
+Shalahora shook his head, "No. He grows weary of waiting, perhaps. Either that or Elysium is tampering with his mind, but I don't know with any certainty."
+
+A nervous dread pooled in my chest, which didn't let up as I stood. I rolled my shoulders, "Then we'll do what we can. You've been keeping our own primeval army stocked, right?"
+
+"Of course."
+
+"Then I'll stop by and give them their new minds later today."
+
+Targask gawked at us, "You two talk about the most sinister topics as if they're an everyday thing. It's disgusting."
+
+Shalahora peered through Targask, "It is necessary, or we will all die."
+
+Targask scoffed, "But to what end? Living is one thing, and being alive is another."
+
+Shalahora's eyes narrowed, "I would rather live in filth than die while clean."
+
+Targask shrugged, "I suppose you could think of it like that. I'd rather have a reason to keep going. It helps keep my old mind from wandering to topics I'd rather not think about."
+
+Shalahora murmured, "Then exist in the shadow we cast, one made by the methods you are unwilling to use."
+
+Targask considered before shrugging, "Eh, why not? I'm not exactly a saint either."
+
+A tense silence passed before Shalahora turned to me, "I like this one. He has humility, a trait many rulers lack."
+
+I crossed my arms, "Careful, Shalahora. If you start complaining, then Targask will be forced to one-up you. He has a reputation to keep."
+
+Targask pointed at me, "So you say. I just point out the obvious. It's not my fault the obvious is often scathing."
+
+A slight grin grew on my lips, "Ah yeah, sure, sure."
+
+I peered behind Targask. Several rulers lined up at a cafeteria that naturally formed near the town's center. Several wanted better food, so they used my origin magic to make different dishes. It complemented the smithy congregating beside them where Alctua and Teraz helped rulers by making them any needed parts.
+
+They installed a couple of electronics and even made some machinery for solid materials. The greatest gadget, a giant printer, pumped back and forth, laying thin sheets of graphene with other materials I didn't know the name of. These panels were used to help produce armor or weapons and were also effective semiconductors, wiring, and glass replacements.
+
+It modernized the area, giving several rulers rudimentary obelisks they used in the city's connected framework. It imbibed life into the city, and I enjoyed watching the steady progress each day. For the first time since arriving on Leviathan-7, it didn't seem so hellish. One could even call it comfortable. Perhaps cozy.
+
+Well, for the moment. I continued studying with Targask, learning some magic but focusing on refining the new branches I was exposed to. I also honed in on the rituals, making steady progress with them. My meditations turned into full-blown channeling endeavors, and I fed the primordial rune across my body all the mana it could desire and then some.
+
+Before I knew it, several weeks passed like this, and the lottery's end loomed over us. We all wanted to head home for survival's sake more than earning anything from this. We missed our guilds, and though we turned this place hospitable, it lacked our homes' charm. Those thoughts kept everyone motivated until the inevitable occurred.
+
+While waiting for the news, I channeled mana into my primordial rune, the air rumbling and the ground trembling. The mana coursed as a plasma, funneling into my cipheric sigils from the furnaces. These visible flows wrapped around me as if I fought a hydra gnawing me with its many mouths.
+
+Shalahora stepped in, the air blurred by the heat emanating from me. The shadow sighed, "They've come."
+
+I closed my eyes, allowing the energy to run its course. Once emptied, I cleared my mind for a few moments. I became a sea of calm before viewing Shalahora and his shades. I frowned,
+
+"Is Valgus here?"
+
+"He and his armies march this way."
+
+I stood,
+
+"Then it's time. Let's end this."

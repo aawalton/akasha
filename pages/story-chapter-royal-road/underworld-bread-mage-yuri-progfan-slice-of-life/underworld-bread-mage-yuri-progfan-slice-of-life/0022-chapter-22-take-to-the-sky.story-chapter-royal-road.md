@@ -1,0 +1,139 @@
+---
+id: 5c5441ff-1c34-56b3-93da-758606709616
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Take to the Sky"
+slug: 0022-chapter-22-take-to-the-sky
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 22
+ownLength: 1506
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3786680/chapter-22-take-to-the-sky"
+royalRoadId: "3786680"
+---
+
+The block of mineral sat upon the dinner table, stared down by the gaze of three bread-hungry women. It had no feet, and thus couldn’t run from the fate of one day having its form processed into grains, then dissolved in the heat of ovens and stoves.
+
+“Problem is, even if we have mineral salt, I don’t have what it takes to process it,” Marina swallowed, finishing the last spoonful of food from her bowl.
+
+“Couldn’t we just crush it into powder?” Asked Hecate, seemingly clueless about Marina’s words.
+
+“No, Hecate, it’s not that easy.” Marina shook her head. “If we want to extract salt from its mineral form, we need to find someone who has the tools to do so, someone like…” She looked past Mellie to the instruments behind, then an idea struck. “Mellie, you don’t happen to know how to extract minerals, do you?”
+
+“I have never done it before, but I’m pretty sure some of the Bee-ple here have. I can ask around and figure it out.”
+
+“That’d be perfect!” Marina said cheerfully. “While you work on that, Hecate and I will search for some cows.”
+
+“Oh. About that, Miss Marina, you can probably find a herd of them hanging out in the plain.” Mellie informed. “Last time I saw them, they were around North of here, but…”
+
+Marina tilted her head, “But?”
+
+“But it’s a really long way from here. I don’t know if Chief Humford will allow Miss Hecate to go along.” Mellie worried.
+
+“I have deployed a barrier around the village this morning, which I voiced to the chief,” Hecate said. “If any changes are detected, I shall be notified immediately.”
+
+“Oh, alright. One last thing, though,” Mellie got up from her seat before grabbing a jar off the counter. “Miss Marina, the mixture you put in this jar has grown a little.” She set it down on the table.
+
+“That is even better news!” Marina grinned. “Almost like my new life is finally coming together.”
+
+“Has it really been broken this entire time?” Hecate asked.
+
+“Uh, sort of, especially after hearing your expectations of me.” Marina leaned against her chair as she lamented.
+
+“Ah. I see. Shall I lower that expectation and remove some weight off your shoulders then?” Hecate subtly curved her lips into a smirk.
+
+“No, it’s fine, I don’t know what my own expectation for myself is anyway.” Marina let out a sigh. “We should probably get going now, try to get back before dinner time.”
+
+“As you wish, my dear.”
+
+*****
+
+Traversing through the lush, blue meadow, Marina pulled the edge of the cloak’s hood closer to her cheek as a strong current of wind blew through the vast plain. The ashen clouds blocked most of the visible sky, casting the world into a deathly gray like the tainted apartment of an indoor chain smoker.
+
+Marina continued on with a steady pace, shifting her center of gravity forward in an attempt to combat the exhaling force of nature. But it was of no help at all. The exhaustion of her body could no longer go unnoticed as her leg began to shake and her lungs gasped for every breath taken. That is, until a crimson globe centered on Hecate expanded outwards, enveloping Marina within.
+
+The wind stopped, and her vicinity was now quiet.
+
+“Let us take a moment’s rest, my dear,” Hecate said, patting the dust from the corners of her cloak.
+
+“This is exactly what I needed right now.” Marina fell flat onto the grass. “Why is it so windy today?”
+
+“The weather in this realm is often unpredictable. How very unfortunate.” Hecate sat beside her.
+
+“We’ve been traveling for at least a couple of hours now, and there is not a single sight of any animals or so whatever,” Marina complained.
+
+“If it weren’t for the windstorm, I could probably make some use of flight.” A few streaks of lightning struck on the horizon as Hecate spoke.
+
+“You know, I felt as if you could do literally anything. Braid hair, fight monsters, look like a supermodel, and much more that I haven’t seen.” Marina flipped onto her side. “Is there anything you couldn’t do?”
+
+“Mm. Baking a good loaf of bread, that I cannot do.”
+
+“Oh wow.” Baffled by Hecate’s reply, Marina laughed. “Is that like a compliment?”
+
+“Feel free to treat it in any way that may please you the most,” Hecate said, peering off to the distance.
+
+“Is that also why you decided to travel with a peasant?” Marina joked. “To have some baked bread along the way?”
+
+“Not a peasant, my dear, I am traveling with Marina Verne.” Hecate turned to catch Marina’s gaze. “I am traveling with the woman who will overtake the Underworld’s baking industry.”
+
+The sky began to clear at the end of Hecate’s words. Streams of gale that cut through the meadow only a moment ago have died down to only a soft, quiet breeze.
+
+“Hecate…” Now in a sitting position, Marina pulled her legs closer. “Can I be honest with you about something?”
+
+“Of course, my dear.”
+
+“The truth is, I have never actually worked in a bakery before, or have baked for anyone other than myself,” Marina said. “Sorry if I pretended to have even an ounce of real experience.”
+
+The crimson barrier dissipated as Hecate made her way towards Marina. “Then…” She reached out her hand, her white hair flowing gracefully, “Let me be your first customer, my dear.”
+
+“But I–”
+
+Before Marina could finish, she felt a hand pulling her to her feet. And as she lost her balance in a falling motion, an arm grabbed her by the waist. In front of her were two bloodlust-filled, red eyes. Only an inch away from her face.
+
+“What's gotten into you?” Marina yelped, turning her face away as her body continued to be pulled closer to Hecate’s.
+
+“The windstorm has concluded; it’s time for us to expedite our journey.” A pair of large skeletal wings formed behind Hecate. “Let’s fly.”
+
+“Wait! I’m not ready yet–”
+
+Disregarding Marina’s hesitance, Hecate leapt straight into the sky above; the joints of her wings snapped into place as it began to cleave through the air with ease. And after a series of twists and turns, she dove down at last, picking up her speed in record time.
+
+Though Marina kept her eyes shut tightly, a few drops of tears still managed to escape. She held onto Hecate with all of her strength, afraid of the height below her, but she knew that even if she fell out of the sky, Hecate would be there to save her, like always.
+
+“Hecate…” The assurance of Marina’s mind finally allowed her to whisper.
+
+“Yes, my dear?”
+
+“This is actually really fun.” Marina slowly opened her eyes. “The view from up here is stunning! Really wish I could take a photo or something.”
+
+“Shall I go faster?” Hecate asked.
+
+“Why not?” Marina said, “You only get to live once… well, maybe twice, but still…”
+
+The world around Marina accelerated even faster than before, but no matter how breathtaking the view may be. Her attention was already diverted to something, or rather, someone else. Someone whom she was holding closer than anyone before.
+
+“Wooo!” Marina yelled, swinging her arm wildly.
+
+“Ah. Look ahead, my dear.” Hecate pointed. “Is this the herd you were looking for?”
+
+“I think those definitely look like cattle of some sort. Closer to a buffalo than a domesticated cow.” Marina tried to focus her vision. “Need to get a better look.”
+
+After ten more minutes of gliding, Hecate slowly landed on her feet, with Marina still in her arms.
+
+“These guys look way bigger now that we are this close.” Marina hopped onto the ground, looking at the herd of cattle that stood ten feet tall, some reaching even taller. Their gigantic body were covered in a thick layer of black fur, and their horns looked as if carved out of hard obsidian. “Are they really what Mellie was referring to?”
+
+“Do they serve the same purpose as a regular cow does?” Her wings vanished.
+
+“Yeah, a female buffalo can produce milk just like a female cow can. In fact, their milk might be better for what I’m trying to do.” Marina replied. “Though I don’t know about taming one...”
+
+The herd soon took notice of the two approaching young women. Three of the largest buffalo paused their grazing and stared, followed by the rest of the herd momentarily.
+
+“My dear, we have been spotted.”
+
+“Yes, I can see that.” Marina rolled her eyes. “And I can also see that they look really aggressive and would probably try to kill us if we take another step forward. So we should just skidadle.”
+
+“But we have already made such progress,” Hecate took a step forward. “How could we just return empty-handed?”
+
+“Yeah, I suppose you’re right.” Marina exhaled. It’s Lady Hecate we are talking about. Who am I kidding? “I will leave this part to you then.”
+
+“...”

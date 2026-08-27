@@ -1,0 +1,133 @@
+---
+id: 0becc0f5-4f49-5bb4-978b-96f27b871722
+page-type-slug: story-chapter-royal-road
+title: "Chapter 517: The Guardian"
+slug: 0083-chapter-517-the-guardian
+partOf: rise-of-the-living-forge
+position: 83
+ownLength: 2075
+unit: words
+ownProgress: 2075
+publishedAt: 2025-11-13
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2757737/chapter-517-the-guardian"
+royalRoadId: "2757737"
+markedReadAt: "2026-06-29T20:01:05.452Z"
+---
+
+Arwin lost himself in the song. His body moved to its own accord and the ring of Caldera against metal echoed through his mind like a distant drum. It was impossible to say for how long they’d been working, but it didn’t feel like it had been long.
+
+He’d only managed to lead the group for a few minutes before he’d been forced to take a step back from the front. Keeping everyone synchronized and focused was an immense task — one far greater than he ever could have expected.
+
+But no sooner than Arwin’s song receded did Wallace’s rise up to take its place. The dwarf took the lead of the song, guiding all of them as they all worked to create the body for the Den’s core.
+
+Both he and Koyu worked the metal, doing far more than just lending Arwin energy. The dwarf prepared the materials, melding them with the lava and purging the impurities from them. He passed each finished piece to the Lich, who melded the quiet songs of the materials with the symphony filling the smithy all around them.
+
+Those pieces went to Arwin. He applied the finishing blows, forging the materials from potential into reality. Caldera flattened out metal and formed the pieces of what would soon become armor. Every blow he made felt like it had three minds behind it — Lillia, him, and the Core.
+
+Every single one of them poured the very essence of their beings into each strike Arwin made. All the while, the Infernal Armory kept everyone together. It worked to fill in the gaps and ensured everyone remained connected. When their power waned, it adjusted the flow of magic to make up for it. When they grew weary, it supported them. When they needed materials, it delivered them.
+
+Wallace soon grew tired. He relinquished the lead position of the song and Koyu took his place. And in that manner, they continued. Raw metal became purged and pure. It joined the song and was made from metal and monster part into the pieces of an enormous suit of armor, wild and hungry with potential.
+
+The power in every single piece of metal was terrifying to think about. Creating a set with this much magic would have taken Arwin at least a week if he’d tried it on his own. For that matter, he was pretty sure it wouldn’t have even been possible.
+
+Something this powerful needed to be assembled quickly. Making just one part a day would result in a lesser product. No, this was the kind of equipment that could only be formed by an entire team working together.
+
+Koyu soon grew tired. Lillia took his place as the lead of the song, and their work continued. When her turn drew to a close, the Infernal Armory stepped in. It wouldn’t have been accurate to say that each lead sang exactly the same way.
+
+Arwin’s vision wasn’t exactly the same as Wallace’s was, and the dwarf didn’t see the world in the same manner that the Lich did. They all had the same goal, but they took different paths to get there.
+
+But a song was not stiff. This was a play of multiple parts. No part was the same as the previous. They were all different — each one a unique step in the same direction.
+
+By the time the Infernal Armory’s power had started to wane, Arwin had managed to recover enough strength to step forward to take the lead once more. But, before he could, someone else took his place.
+
+The Core itself.
+
+Arwin had never had a component literally take the lead of its own creation. They’d helped before, but this may as well have been a man assembling himself. It felt paradoxical.  Then again, Arwin had never worked with anything like the Den’s core.
+
+There was no room for surprise. They simply all let the Core take the lead, joining into the song as the next step in the journey.
+
+And, when the Core grew weary, Arwin took its place.
+
+The six of them worked in shifts. They never stopped or slowed. There was no room for a mistake or hesitation in a project as vast and powerful as this one. The only path that didn’t result in failure was to march forward.
+
+Plates of armor soon formed into proper shapes. The first finished component were the gauntlets, formed of reddish-black metal and trimmed with brilliant crimson detailing. They were studded with razor-sharp black claws that protruded from their knuckles. Each of them was more than twice the size of Arwin’s own gauntlets.
+
+They were beautiful — but less than half of the artisanship that had gone into the equipment was visible from outside. Veins of black metal ran throughout the inside portions of the gauntlets, known only to the six who had created them. They would ferry the magic throughout the massive suit of armor efficiently.
+
+Next came the greaves, made from the same material but with rows of spikes running down the sides of their legs like the back of a dragon. The helm came after. It almost appeared to be carved from a single massive piece of matching metal, its eyes dark pits and mouth a row of vertical bars that offered only the faintest of glimpses into the darkness behind.
+
+Sprouting from either side of the helm’s forehead were two massive horns. They jutted straight into the air, made from dozens of black claws that had been twisted and locked together like the hands of the damned trying to claw their way free from the afterlife all at once.
+
+The final piece of the armor they created was the chestpiece. It was huge, easily twice as large as Arwin’s own, with the same spiked segments as the rest of the armor. Large pauldrons protected the shoulder portions, each one rising up into a curled spike of black metal.
+
+And in the very center of the chestpiece was an open slot accessible only from where it would connect to the greaves. Strands of flexible metal ran throughout its inside in a spiderweb. At their center was a cradle perfectly sized for the Core.
+
+So much magic twisted in the air that Arwin could literally taste it. He couldn’t even separate one flavor from the others. There was ocean and blood and fire and cooked meat and everything in between.
+
+The complexity of this piece was beyond everything they’d made before. There were so many desires all woven into a single result that none of them could be distinguished anymore. All that remained was the final result… and one last step.
+
+Exhaustion clung to Arwin’s body like a weighted cloak. He was completely spent, and so were all of the others. The sound of their heavy breathing was the only noise left within the Infernal Armory.
+
+Arwin lifted the Core with weakened arms. It felt lighter than it had when they’d gotten started, but it was still heavy enough that just moving it felt like a gargantuan task. He was back in lead of the song — but he wouldn’t be passing it over to anyone else this time.
+
+Wallace and Koyu steadied the centerpiece of the armor. None of them said a word. They didn’t need to. Every single being in this room knew exactly what they were doing.
+
+Arwin gingerly lowered the Core into the center of the armor. He moved it past the strands of metal, pushing them gently out of the way and bringing the black chunk brimming with magical power into position.
+
+The Infernal Armory lifted the gauntleted arm segments of the Soul Guardian, while Lillia readied the greaves.
+
+Arwin slotted the core into its cradle.
+
+It slid into place with a definitive click.
+
+He pulled his hands back as a dull hum filled the room. Power ignited within the strands of metal inside the armor, twisting down them like wildfire. Wallace and Koyu immediately flipped the midsection of the Soul Guardian over, raising it up into the air as Lillia positioned the legs beneath it.
+
+A wave of hot air blew into Arwin’s face with enough intensity to blow his hair back. He ignored the rising temperature and helped Lillia steady the legs — each of which were nearly as tall as they were. The Infernal Armory grabbed the centerpiece of the Soul Guardian with a tendril and hoisted it into position, lowering it onto the legs.
+
+There were two more clicks. The hum filling the room grew louder. Arwin’s hair stood on end. He tasted electricity dancing across his tongue, but they weren’t done yet.
+
+Black tendrils twisted past him as the Infernal Armory moved the arms of the Guardian into position. It was too high for Arwin to even properly reach up to help. More heat and pressure buffeted his face as another pair of clicks echoed through the room.
+
+A gale swirled out from the armor. It beat against Arwin, nearly knocking him over. One final tendril extended out to him and Lillia, bearing the helm upon it.
+
+The Armory could have placed the helm itself, but the song was still going. And the song spoke to the Core’s desires. Even within the armor, it would not allow the Armory to place the final part of the Soul Guardian. There was only a single person within this room that was granted that permission.
+
+Lillia lifted the huge headpiece by the horns, then glanced to Arwin.
+
+He lowered to one knee. She threw one leg over his shoulder, then leaned against the back of his head as she did the same with the other leg. Arwin rose back to his feet in a smooth motion, lifting Lillia into the air and steadying her sides with his hands.
+
+Arwin swayed. Exhaustion bore down on him stronger than ever. Wallace and Koyu stabilized him. Lillia grunted as she raised the heavy helm above her head, her own arms swaying.
+
+One of the Infernal Armory’s black tendrils coiled out, gently guiding her into the proper position so that the helm was positioned above its connecting point with the rest of the massive Soul Guardian. She was just barely able to reach it.
+
+But barely was enough.
+
+Lillia released the helm.
+
+It slotted down into place with a final click.
+
+The song ended.
+
+There was a single instant of silence. An instant where they all stared up at the results of their work, frozen. Lillia clung to the top of Arwin’s head. His feet only remained out from under him because of the support of Koyu and Wallace, who had basically collapsed against him.
+
+Not a single one of them spoke a word. They simply waited.
+
+Then, with a thunderous roar like that of a thousand cannons firing at once, lines of magic raced out across the Soul Guardian’s body, following the path of the veins that had been carved on the inside of the armor.
+
+Pressure slammed into them all like a hammer. The precarious pyramid went tumbling to the ground as they were all thrown across the room and into the back wall with a resounding crash.
+
+Raw magic coursed through the air with such intensity that Arwin could literally see it. Even through his exhaustion and pain, his lips parted in awe. Rivers of brilliant gold swirled through the air to pour into the finished Soul Guardian.
+
+Lillia let out an awed sound, little more than a gasp, from where she’d fallen beside Arwin in the mess of limbs. None of them even tried to extract themselves. They didn’t have the energy to do anything but watch.
+
+As quickly as the light had appeared, it vanished.
+
+There was one more moment of silence.
+
+The Soul Guardian’s eyes ignited, flashing to life like two pools of molten gold.
+
+They had succeeded. The Guardian was complete, standing nearly twice his height like some avenging warrior that guarded over the gates of the underworld itself.
+
+Golden letters traced through the air before Arwin as the Mesh finally made itself known.  He didn’t get a chance to read a single word. Energy rushed into him with the force of a crashing tsunami. His breath caught in his chest as the final scraps of his awareness were washed away.
+
+And then, with a smile flickering across his lips and together with every other person in the pile around him, Arwin slipped into unconsciousness.

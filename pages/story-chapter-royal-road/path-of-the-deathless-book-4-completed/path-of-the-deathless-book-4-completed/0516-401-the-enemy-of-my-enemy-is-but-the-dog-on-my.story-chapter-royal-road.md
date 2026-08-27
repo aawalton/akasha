@@ -1,0 +1,229 @@
+---
+id: 3c5a1df0-76b0-514f-a452-13de96a5cb2c
+page-type-slug: story-chapter-royal-road
+title: "401 “The Enemy of My Enemy is but the Dog on My Leash” [I]"
+slug: 0516-401-the-enemy-of-my-enemy-is-but-the-dog-on-my
+partOf: path-of-the-deathless-book-4-completed
+position: 516
+ownLength: 5237
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3645849/401-the-enemy-of-my-enemy-is-but-the-dog-on-my"
+royalRoadId: "3645849"
+---
+
+“The enemy of my enemy is but the dog on my leash.”
+
+What a savage and arrogant boast spat thoughtlessly from the lips of Noromo Dogborn, Bastard Saint of Wandering Blades and God of Righteous Deceivers.
+
+But while he snarled such words in fury and ignorance, he uncovered a hidden piece of wisdom that few have truly learned to grasp. Just because you are emotionally and intellectually aligned with another does not truly mean you are of a unified front: The enemy of your enemy is but the dog on your leash, and likewise you are but the dog on theirs. It matters more which of you can control the other's emotions. Who can offer that sweet succor of revenge or emotional catharsis.
+
+Do not let yourself be confused as to where you stand. Just because you share a hatred means nothing beyond that and guarantees nothing because of that. But it does offer you an angle that few others will ever truly possess. For if you understand what compels another emotionally, especially because if it is built on the grounds of sympathy, then you are given the means to mold and shape their decisions, so long as your virtue is higher, so long as your self-mastery is truer.
+
+And mistake this not to be a suggestion of amorality. It is not about amorality, but conditioning. When you stand alongside someone faced with a common foe, you must see their calculus contained within your own. You must see their decisions compiled under your understanding, lest they collapse your schemes. Your actions, your chance at reaching your desired goal. What we speak of now is a base desire of base things: retribution, revenge, brutality, an eye for an eye. All this is a primitive urge that can be justified, explained, understood, and simply pursued for delusional reasons, but before we crawl toward the higher summits of philosophy, we must explore the base of the mountain—for too many who boast about their wisdom, forget or ignore that emotions are more than innate flames, but bonfires to be nursed and trained.
+
+Control. Of yourself. Of others. And then education beyond that to further understand yourself in the reflection of another, in seeing what you can drive them to do, and seeing what you can spare them from and seeing what they can do and you have never thought of or you cannot achieve. All this matters. All this will make you more, and perhaps in time we'll see the enemy of your enemy become something greater as well.
+
+But forget this not: If you wish to teach someone, then you must control them or have a hold over them in some way. You must make sure you are not dealing with a mad dog devoid of sense and unwilling to receive any lessons, but rather a tamed thinker that can be guided toward water.
+
+—Legend-Philosopher Melaia Kelhaus
+
+401
+
+“The Enemy of My Enemy is but the Dog on My Leash” [I]
+
+The mana core went from being on the verge of bursting to blossoming like a seed sprouting its first leaves. At its center, Shiv took stock of the changes in bloom as he continued pouring his nihilistic flame through the gateway, casting the calamity affecting Gate Piety into the Stranger's Garden.
+
+When his Pyromancy first went surging forth, it inflicted damage on everything around it. All mana it touched was seared, cooked until it became chunks of edible meat. At first, the mana core shared in that damage; then, suddenly, as the notification of the Gate Quest's completion arrived, the core adapted, and a sort of magical symmetry came into shape.
+
+Instead of burning his way out of the core, he felt portions of his Pyromancy merge with the nucleus anchoring the Gate within existence. Shiv's nihilism formed a ring not unlike the mana circles that emitted concentric plumes of blue-red flame upon modern stoves. And suddenly he was projecting more than his power alone. He cast forth his flame, and it rushed forward, carrying the weight of an entire Category 3 Gate and also the taint inflicted upon all attuned mana fields.
+
+Yet no longer did the corruption eat away at the core itself. Rather, the core had integrated the corruption and aligned it to its design in part along the outside of the core, where that dense weave of Eldritch magic burned bright and a nest of creatures born of nightmares, and festering upon dreams slithered and snaked between a nest of geometry-slicing fibers.
+
+Gate Skill Gained: Feast of Dreaded Flame (Unique) 10
+
+Gate Skill Gained: Skein of Hollow Dreams (Unique) 13
+
+At some point, as Shiv guided the typhoon of magic into the Stranger's realm, it stopped flowing like a flood and instead became a solid bridge made so by a dense layer of Eldritch calcification, defined through its threaded design. And it was at that moment he realized the alloyed crystallization of all three unique matters was complete: his, Uva's, and Adam's.
+
+The shape of the mana core itself also diverged from being a mere sphere. It burst apart from within, detonating to become a radiant heart that sent Eldritch veins snaking through the skies, like the branching foliage of an unknowable tree. The limbs glittered with a translucent azure, and so many other colors beside, and it projected an active field over the gate, shrouding all who lived, all who thought, all who dreamed within its grip of influence.
+
+But rather than forcing itself upon the people, it drank their thoughts instead, siphoning and birthing fresh horrors in homage to all who loomed underneath its sprawl. It kept these Outsiders contained within its branches, their nightmarish bodies harvested from the communal gestalt of the gate's population and then trapped inside the transparent limbs extending the core like a zoo of madness caging the true firmament from view.
+
+Within that final, spreading crystallization were Shiv and Hymn. The former continued channeling his fire, but realized the futility of his struggle—an extension had already formed, connecting Uva’s gaze to the core and further toward the Stranger’s Garden. And it was that realm that served as the final catalyst for the core’s new metamorphosis.
+
+Through the right evolutions, shaped by the right configuration of mana, a mortal’s fear could be a tangible thing to another—a chain that could be pulled upon. But the fear of a god was something primordial, something that shook the pillars of existence. The Stranger was afraid. The Stranger was wounded. The Stranger was screaming and howling and hacking, trying to burst these intrusive branches that mirrored the twisted greenery of his own Garden.
+
+And there was a reason why the mana core transformed in such a way. It was a parody of the Garden, but it was an offensive parody, a thing of terror and dread. For the Stranger, his dimension was the shape of his totality. It was the zone of his existence. For something else to spread into it, for a hostile forest to grow and subsume the ecology that already was hinted at a higher will, a will beyond the Stranger's lost omnipotence, and that realization of mortality and replacement gnawed deep at the Outsider god and incubated Terrorspawn unlike anything Uva could spawn of her own power.
+
+Said Terrorspawn swam through the core as well. Like the core that contained them, they were transformed. Their flesh was forged of a new force. They were no longer things of material, but embodiments of animated flame that scintillated and simmered with bewitching flavors. They shed pieces of themselves—edible pieces that continued glittering before Shiv’s gaze—while they crept along the dense webs from which they were born, wandering blind and lost, as if severed from their prior purpose. Yet that was the lesser detail, for their eyes glowed with tears of incandescent mist and irises of purest blue.
+
+Aside from these traits, their morphologies were disfigured and unbound. They were chimeras born from any number of beasts, any manner of insects, any assortment of fears. Towering brutes that reeked of alcohol and resembled bands of half-loosened belts that dripped burning dollops of sauce of a red akin to blood. From within these creatures came faint cries: “Please, father, I was wrong! Not the belt! Please, daddy, not the belt, just the hand—I’ll be good—”
+
+The voice cut off in a reverberation of sound that was at once a crackle of flame and a psionic scream. Shiv recognized the Terrorspawn to be one born of abuse, harvested from the mind of a child or a collection of children. The flames that gave the Terrorspawn life were invigorated by fear and reeked of a deep, bitter flavor unknown to Shiv or perhaps anyone in existence.
+
+It didn't march alone. The inner heart of the mana core was filled with countless other creatures like it. Some appeared as before, resembling centipedes with far too many faces, presented by an amalgam of dancing flames. Then there were moving splotches of blackness with burning hands reaching out, with shapes and things creeping in the darkness. The fear of the nothing and the fear of blindness were easy to confuse. Other fears, such as vertigo, were harder to visually comprehend, some appearing as staircases bereft of railings rising to infinite heights, their steps constantly crumbling.
+
+As the seconds passed, more Terrorspawn filled the inner environment of the mana core, but none of them turned hostile. All waited, and Shiv wondered why they were severed from that bestiality which guided them but moments ago.
+
+“They're not attacking,” Hymn noted, sounding more curious than Shiv was about their current predicament. Neither of the two dropped their guard, but as seconds passed and no assault came, Shiv stopped casting his flame and took in the creatures that surrounded them.
+
+It was only then that an obvious and overlooked reality glared him straight in the face. While these creatures had emotional cores filled to the brim with aching, unbearable fear, their minds were empty. There was no thought to them at all. They were severed of intellect, with only strands of Psychomancy connected to them, guiding them. It was like the mana core served as a connective brain of unified intellect, and right now the eldritch which powered the core was slumbering, as was the tainted essence interwoven within.
+
+But while all seemed peaceful within the mana core, outside, the sounds of battle continued. Explosions went off around Uva's body, and peeking through the active combatants with his Atlas, Shiv realized that another variant of Terrorspawn was still pouring out from where Uva lay, trapped deep in her Delve.
+
+A heavy vibration shook the core's crystallized branches, and Shiv felt a section of Gate Piety's hardened mana shatter. The limb he'd cast into the Stranger's Garden was breaking. The Outsider god was determined to prune this invasive forest that sought to overcome his own. Though the core leached both fear and anguish from the Stranger, his fury was a greater emotion still, and Shiv could feel that anger bleeding over, crashing through the Gate in massive explosions of enkindled darkness.
+
+And that presented a new problem of its own: Gate Piety's core may have been Unique, but that didn't mean it possessed the power to halt the Stranger's encroachment. Soon, Fingerlings and the Supplicant itself might make for the Gate and breach through the active portal. The Supplicant might not be able to fully enter the dimension due to the mana threshold, but with the surface district being right there, the casualties would be immense regardless.
+
+Shiv sighed. “Shit. Just one problem after another. Hymn, we're going to need to close that gateway before the Stranger makes a house call.”
+
+“I fear that's an unwise idea,” Hymn replied, distracted by a new ecosystem developing within the core. “The core only managed to stabilize itself by replicating the structure of the Stranger's Garden—and it needs more space to expand. It's still branching out, and incubating fresh Outsiders. I suspect it's serving as a mana conduit for the Dreamtaker's leftover dimension in place of Uva, or in conjunction with her. But even a Category 3 Gate isn't going to be powerful enough to contain all that overflowing magic without some place to expand or…”
+
+The Headmaster cut himself off and shrugged. “If I'm to be honest, I have no idea how this mana core functions. That's the worst part of a Unique skill: You have to learn its intricacies from the ground up. But I can definitively tell you that the core unto itself cannot contain the energies of an entire eldritch dimension—even if it's parceled down from what it used to be.”
+
+Shiv grunted in begrudging acceptance and moved to his secondary plan. “Alright, looks like I'm going back to harassing the Stranger to keep his ugly ass distracted. We're going to need to put the Starhawk and Roland near the surface gateway too—wait a minute. If this core needs to keep growing and expanding, can't we just push it out the Abyssal gateway? Have it merge with the Umbral Wilderness?”
+
+Hymn gave him a flat stare. “What part of ‘Unique Skill learned from the ground up; imminently complex’ slipped your mind, exactly?”
+
+“I was just asking, jackass. Okay, here's what I'm gonna do. I'll send one of my bodies into the Stranger's Garden and see what's happening on the other side. After that, we'll figure it out as it goes along. You stay here and try to figure out this core. I'll leave my Severed Shadow here too. If you need something, just tell me to do it. Otherwise, I'm going to be busy committing arson on your Outsider granddaddy.”
+
+It was that final statement which inflicted a visceral response from him. Hymn gagged, nearly vomiting in pure disgust. “Never call him that again, please. Also, you seem to misunderstand the relationship between us—boy, are you listening?”
+
+Ultimately, it was Hymn who misunderstood his relationship with Shiv. He turned his mind toward the objective. His Legion of Self was active across all his spare bodies within the Gate, and they all accelerated toward the surface gateway—now connected to the Stranger's Garden.
+
+For the first time since he met Shiv, Hymn let out a laugh of mixed indignation and appreciation. "What a ‘me’ thing to do. Well, if any part of you is still listening, Deathless, I'm coming with you, and you can't stop me. I'm afraid that I'm more like you than you’d approve as well—but where you suffer from a lack of foresight, I'm just irresponsible.”
+
+And then, without teleporting at all or even crossing through the gateway, he leapt over into the Outside, hijacking the body of a compromised Fingerling as he joined the fray before any of Shiv's vessels were on scene.
+
+***
+
+“This is hell. I’m in fucking hell.” A feverish feeling of shell-shock washed over John Gunhead as he cycled his cylinder over and over again. He had been at war for fifty years, basically since the moment he was manufactured from the spare machinery and overflow data of his forecoder. Fifty years of fighting the grayskins in the most nightmarish of struggles; twenty years as a frontline Ranger, coming out of trench raids and close-quarter battles, more broken than whole.
+
+Gunhead was a veteran at all distances, in nearly every environment of battle, in every theater one could imagine. He'd fought in burned-out husks, once storefronts and apartments, then just ashen skeletons, often with the inhabitants cooked into the melted stone around him. He'd fought along walls and battlements, trading shots with orc sharpshooters, engaging foes he could barely see and dodging death by millimeters and bouts of impossible fortune. He'd fought in hospitals, desperately holding maternity wards against oncoming orcs—trying not to listen as the wailing voices of newborns went silent, one after another.
+
+And it was that final environment which resembled his present the most. Yet, though there was the screaming of newborns, the ones doing the birthing were not of the proper sex and lacked the adequate organs to ensure the safe passage of infants. Gunhead didn't know much about meatbag biology, but of one thing it was certain: men didn't usually do the child-pushing thing.
+
+But it appeared things worked differently in Gate Piety—or at least the rules didn't apply within the Immigration and Customs Processing Center. The only small mercies bestowed upon him were the lack of ongoing infanticide and the suspicious absence of orcs.
+
+Making the situation uglier still was Gunhead's presence in this mess. He wasn't supposed to be here. He ended up stumbling with a group of “new friends” he made. It started with them threatening to remove his head and scrap the rest of his body in sacrifice to the Pale, but after beating them in a game of dice and a game of cards and a game of five finger fillet, the Jotun decided that they liked him more than they wanted to kill him, and he ended up being dragged along as they were called by the Gate guards to enter for processing.
+
+If Gunhead was a rational, sensible Pathbearer, he would have made his excuses and escaped, but he was a Ranger, and Rangers weren't rational or sensible. Rangers walked into suicidal situations and somehow walked out. If walking out was possible at all. If not, at least it would be a messy end and a loud one too.
+
+Back in the present, Gunhead found himself lending emotional support to a hyperventilating Jotun Vanguard. His name was Hrsenvalg or some letter vomit of the sort, and right now, a gigantic wasp-spider-woman thing was conducting surgery on him, attempting an emergency C-section because, frankly, the babies didn't have any other way to come out.
+
+And they had to come out.
+
+“Ranger Gunhead, point your skull at me and let your cold metal arrow fly,” Hrsenvalg ground out, gnashing his teeth. “Give me death. Give me mercy. I can feel it kicking my intestines. I don't have a womb; it's inside my intestines!” The Frost Giant's wailing echoes merged with a cacophony of misery. There were other screams, other pleas for death or mercy to come. The halls inside the Immigration and Customs Processing Center were filled with makeshift gurneys and medics stretched to their limit, trying to render aid for hundreds of spontaneously impregnated men.
+
+With Gunhead and the Jotun being late arrivals, they were stretched out on the outside, set up in emergency tents at the end of the bridge connected to the Surface Gateway.
+
+Said gateway now had a huge crystal branch of shifting colors sticking through it, and on the other side, there were echoing shrieks that made Gunhead want to empty his oil all over the ground. Gunhead wasn't a bot that suffered a nervous discharge as easily, but the sounds coming over from the other side were inhuman—made his instincts scream. Those instincts were part of the reason he was still alive after all these years, because sometimes, knowing when to run was better than dying for nothing at all.
+
+“Spark Ripper!” a tall spider-wasp cheered, gleefully skipping past Gunhead and the moaning patients laid out outside the immigration center. Her invisibility cloak fluttered as she bounced across the room, concealing portions of her torso while offering glimpses of the many modified crossbows strapped to her body. Instead of carrying any of the crossbows, however, she swung conjoined twins between each of her six limbs, and Gunhead struggled not to suffer a mechanical stroke as one of the unmoving newborns collided hard against the spider's carapace and nearly splattered. “I found more stillborn conjoined! I think I'm going to use them as flails, like Cherished Guest Shiv! He will appreciate this instrument of fear and terror, unlike you.”
+
+A mechanical trill of alarm sounded as a short humanoid automaton dressed in a similar invisible cloak came bounding over the laboring patients to snatch the infant-corpses out of the spider-wasp’s hand. “Liquid! Get serious! People need your help—s-stop playing with dead infants and help!”
+
+But she just cackled with laughter. “But I am helping. I managed to snatch out thirteen children from eleven pitiable manfolk. I'm taking a break to process this incredibly traumatic experience through using my Vulgar Dissociation Skill—Ah, another level!”
+
+Gunhead felt a similar dissociation wash over its processors, though unfortunately no Skill gain followed. “What the fuck kind of Gate is this…”
+
+A hand tapped him on the shoulder. The spider-wasp working to save the Jotun gave him a nervous nod. She held up an assortment of makeshift surgical tools and a suturing kit. “I have administered the painkiller. Hold him steady. We're going to need to start cutting soon, or his internals will take even more damage. Are you prepared, Pathbearer?”
+
+“Absolutely fucking not,” Gunhead replied immediately. “But you know what? Just start cutting. I'll deal with it along the way. By the Colt and the Will, I’m in actual hell—”
+
+A deafening boom sounded overhead. The world shook as a thunderous force rippled through existence. Gunhead flinched—and then nearly threw himself prone on the ground as what sounded like a mortar strike impacted the bridge. All around him, hundreds of patients and volunteers did the same.
+
+Draping himself over the Jotun to shield the Frost Giant from any potential shrapnel, Gunhead counted three seconds, and when no steel fragment or dirt debris fell, he turned to gauge the situation at hand. It took but a glance for Gunhead to realize there was no ongoing attack. Instead, he found a solitary Pathbearer hanging in the air, bobbing up and down as a membrane shrouding its body thundered with tangible force—the source of the shockwave, he guessed.
+
+Before Gunhead could use his Analyze skill, a notification appeared before his eyes, offering him a reward of close to a dozen Legendary Skills, if only he had the audacity to strike down the unkillable.
+
+“Deathless,” Gunhead spat, barely managing to keep a stammer out of his voice.
+
+Then came a second boom, and to Gunhead's disbelief, another Deathless descended, flanking the first. Both faced the gateway, their bodies tense, their fists clenched. And… Were those massive, flesh-coated flies billowing out from them, clustering in the air behind them, clinging to their bodies? Just what the hell was that skill?
+
+As the Deathless turned to survey the immigration center, Gunhead caught a glimpse of his face and was startled by how young he looked.
+
+That's a damn boy. The hairs on his face aren't even growing right yet.
+
+“Liquid!” the Deathless called out, staring directly at the spider-wasp, who'd put the white-haired bot in a headlock. “I'm gonna need you to start moving all these people to the other side of the immigration center. Anywhere but here, really. So long as that gateway stays open, this place isn't going to be safe.”
+
+“Don't worry, Cherished Shiv,” the spider-wasp replied smoothly as she wrenched back her conjoined dead baby nunchucks and started spinning them around her body expertly. “I'll be sure to deal with these immigrants one way or another.”
+
+“Don't godsdamn kill them, Liquid—And are you swinging two conjoined babies around?”
+
+“You have your cancer flail, and I have my infant flail. Pretty impressive, isn't it?”
+
+Instead of reacting with horror or anger, the Deathless just sighed and shook his head. “You know what? At least the babies are already dead, I guess. Who am I to complain? Just move these people. I don't have time to give you an ethics lecture—but for real, this is the kind of shit I expect from an orc.”
+
+And midway through swinging her flail, the spider-wasp faltered as the first hint of shame crept through her body language. “Ah…”
+
+At that moment, without any warning at all, a powerful wave of pressure nearly wrenched Gunhead off his feet. A formidable presence teleported next to the Deathless in the form of a tall elven woman with skin as pale as the shattered moon at midnight, sporting a meter-long patch of bright-orange feathers instead of hair for some reason. Incandescent mana wafted off her in waves, and she seemed completely overwhelmed by whatever the situation was. “Shiv! Dimension is stabilizing! But I can feel it! Feel it pressing against Stranger’s Garden—”
+
+The Deathless flew away at once, downright fleeing from her presence rather than simply ignoring her. Gunhead got the feeling that the Deathless weren't interested in dealing with this woman, whoever she was.
+
+Unfortunately for him, she wasn't any good at taking hints. “Shiv, wait, going to come with you! I fucked up. I fucked up. Let me fix the up-fuck!”
+
+As the Deathless got smaller in the distance and was joined by a shape that looked strangely similar to him, a looming shape suddenly appeared within the swirling depths of the surface gateway. A flicker of dimensional distortion came as a massive finger, larger than most buildings, slipped through, bleeding over into the interior of the Gate.
+
+The brief glance Gunhead got of the creature made his core misfire. The damn thing's eyes were aglow with Chronomancy, and pure malice radiated from its form in crushing waves. But a glance was all Gunhead got, for the Deathless promptly slammed into the creature, and caused it to splatter apart like a bag of meat greeted by two high-velocity shells.
+
+And the Deathless and what looked like a copy of him were through, spearing into the gateway and making for the other side.
+
+This time, a rain of debris did fall, but it wasn't dirt or metal. The chunks resembled thick clumps of blackened biomatter, bubbling with still-alive clusters of eyes, but in seconds, they dissolved like salt in water, unable to maintain their structure within this reality.
+
+Startled, Gunhead triggered his Memorization Skill and played the scene back. It wasn't just speed. Gunhead could perceive Heroic Reflexes—was more than fast enough to snatch a bullet out of the air. No, the Deathless had to have used some kind of Chronomancy for a brief stretch of time between his initial acceleration and the sudden impact.
+
+And then, as if the Ranger's unease hadn't already hit an apex, a third Deathless arrived—but held in place in front of the gateway rather than following the other two across.
+
+Alright, so you have Chronomancy, maybe some kind of gravity-related skill, and then you can create different bodies for yourself. That's either cloning or really sophisticated Golemancy. Gunhead cycled his cylinder in growing disbelief. Yeah, way too many High-Tier skills for a kid. Way too many. Just what the hells are you?
+
+Then, to provide a final capstone on Gunhead's disbelief, another presence entered the fray, and the world was bathed in the glow of incandescent mana as Roland Arrow descended to take a defensive position beside the Deathless.
+
+With that, Gunhead re-evaluated the way he saw Gate Piety. This place was a madhouse—but it was a madhouse held by a pack of dogs that looked like they made prey of dragons.
+
+“Deathless! I come! Do not worry; you will never soar alone while Sir Marikos claims breath!”
+
+Dragons that were now also joining the fray.
+
+“Oh, Munny’s gonna love this place,” Gunhead muttered as he tried to imagine how many orcs these monsters could kill.
+
+“Ah!” A piercing, nasally voice cut through the Ranger’s reverie. “The foul hand of Male Pregnancy at play once more.”
+
+Slowly, Gunhead turned in recognition of that voice, and to his utter disbelief, he saw an orc—that orc—striding among the sobbing menfolk with two vampires in tow. “Well, there’s nothing for it now. Biomancer Ekkihurst, I trust you understand the method of child extraction?”
+
+“Indeed.” The bald, creepily smiling vampire nodded. “But I was thinking about reducing them down to pluripotent cells instead. The process is much quicker.”
+
+Once more, Gunhead returned to his initial assessment. “What the actual fuck is this Gate?”
+
+***
+
+On the other side of the gateway, Shiv’s first two bodies were launched into the Garden more as expendable delays rather than actual weapons of war. With everything in disarray, his plan was to find where the Supplicant was and lead it around on a chase or force it into a pointless struggle somehow.
+
+But that plan got derailed immediately as soon as he emerged from the dimensional portal.
+
+The first thing he saw was a mess of crystal vines fusing and interweaving with the Stranger’s dimension. The next was the flame that was spreading from said crystal vines, boiling swaths of bright, gold eyes that projected beams of retrocausality at the invasive forest.
+
+But what clenched Shiv’s attention was the hollow opening in one such tree—an opening that gleamed with metallic texture when struck by the light of flame, and revealed a deeper darkness within. Shiv couldn’t be sure if this was the place, but he remembered Merrielmel’s brother going missing somewhere in the Stranger’s Garden, and if there was a single place that stood out from the rest of the architecture.
+
+To hell with it. System’s taunting me, so I’m taking this chance. Shiv sent one of his bodies forth immediately while sending the other on a hunt for the Supplicant at the same time. His paranoia was screaming; things were never this fortunate without cost. Anything could be waiting for him in that darkness, but aside from dying, there really wasn’t any penalty that came with taking this gambit.
+
+He slipped into the alloyed hollow in seconds, avoiding beams of time mana and lashing branches that crashed and shattered through the mana core’s extended crystallization. He saw the Stranger’s Garden trying to subsume and subvert the invading substance—and found himself glad that the Stranger was being kind of stupid instead of just rushing the gateway in a display of raw force.
+
+Stupid, or careful. He already took a bad hit from the Red Rider’s Hand, and then got set off like a bomb by my evolved Blessing.
+
+His guess receded in the back of his mind as an oppressive field of radiation burned through Shiv—winnowing him of all ambient mana. He went from feeling hydrated to drained in an instant, and a tight, agonizing sensation pried at his chest. “Yeah,” Shiv grunted, trying to shake off his discomfort. “Definitely the place to—”
+
+And then, for seemingly no reason at all, the muscles in his body locked up as he suffered a sudden seizure that banished Shiv’s connective consciousness clean from that vessel.
+
+“Well,” he muttered via his other in-garden body, trying to suppress his disappointment, “there’s the other shoe falling; knew the System wasn’t going to be that nice to m—” A powerful, inexorable, and unseen force promptly wrenched Shiv backward across time, into the center of a steepled hand that dwarfed mountain ranges.
+
+But strangely, it didn’t crush or kill him. “Oh, hey, Stranger—I was just looking for you.”
+
+The Supplicant’s core was hot with hate, pain, and exhaustion of all things, and though it radiated loathing, it was held at bay by fear. “STOP! Want you to stop! Will give you something to make you stop!”
+
+Shape of Monstrosity 194 > 196
+
+Oceans of bitter dread poured over from the Stranger’s strongest Avatar, fueling Shiv physically and—well, just physically, since this body didn’t have the proper attuned skill infusions. “Wait, you’re trying to bribe me?”
+
+“TRYING TO MAKE! YOU! STOP! TIRED! TIRED! STOP!”

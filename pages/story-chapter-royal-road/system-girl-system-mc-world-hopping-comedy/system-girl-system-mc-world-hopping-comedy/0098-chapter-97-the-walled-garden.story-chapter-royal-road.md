@@ -1,0 +1,121 @@
+---
+id: 5be3f095-8523-55f3-b655-8d582bbabdb9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 97: The Walled Garden"
+slug: 0098-chapter-97-the-walled-garden
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 98
+ownLength: 2076
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3810014/chapter-97-the-walled-garden"
+royalRoadId: "3810014"
+---
+
+When the trash was successfully taken out, Kaelthos returned to the kitchen. He stretched his shoulders with a dark, profound satisfaction. He had been the one to drag the fat snob by the velvet collar, and he had accidentally landed a few sharp elbows into Greenwood’s ribs during the scuffle.
+
+"I was hoping he would show up fashionably late," Kaelthos said, a rare smirk touching his stoic features. "After the King arrived. The clash of egos would have been amusing."
+
+Sylas adjusted his glasses, nodding in agreement. "Yes. It is quite unlike Lord Greenwood to be on time, let alone early. He usually prefers to make others wait as a display of dominance."
+
+Ren was standing over the stove, tasting a simmering sauce with a small silver spoon. He added a pinch of salt. He looked over at his retainers, his expression grim.
+
+"Knowing his character," Ren said, stirring the pot, "I have a strong feeling this won't be the last we see of him today. Most likely, he will settle for the next best thing. He will try to take away my Royal Seal of Culinary Excellence just as I receive it."
+
+Ren cut the fire to the pot. He moved to the central prep table, leaning his hands flat against the cool metal.
+
+"I bet he is rushing to the magistrate's office as we speak," Ren mused, his mind working through the political permutations. "He's going to file an addendum about me supposedly deceiving the Crown. He will try to expose that I am secretly trying to have a half-elf inherit my noble title. He should also be trying to start the rumor mill in the high courts about Lily's lineage. A coordinated legal and social attack."
+
+Ren picked up a small towel and slung it over his shoulder. "When the magistrate conducts an official inquiry—which will most likely be held today, while the Crown is present, just to speed things up—I won't have to appear in front of the King to beg."
+
+He looked at Sylas and Kaelthos. "I am going to ask the King to strip my Royal Seal of Culinary Excellence."
+
+Sylas blinked, utterly taken aback. "Master? You have worked tirelessly for that Seal. It secures your supply lines."
+
+"I know," Ren said softly. "But I will offer it as a trade. I will exchange the Seal for a Royal Pardon. In exchange for the prestige and the ducks, I will ask the King to allow Lily, who they believe is a half-elf, to legally inherit my title and estate. It is very similar to how Lady Parisa managed to be recognized as both a half-elf and a noble simultaneously. Her military merit forced their hand. I will use the Seal to force theirs."
+
+Ren crossed his arms, looking out the kitchen window toward the garden. "Although in my case, I may have to pay a hefty fine to the Crown for not declaring her status sooner. It will be a slap on the wrist. Nothing too damning. I can feign ignorance, state I am a new noble unaccustomed to the laws, or just bypass the whole debacle by paying them off. The Old Circle wants me to take a human wife and produce a human heir. I don't want that. Everything I am building is for Lily. I will take the slap on the wrist and the loss of the Seal to secure her legal future."
+
+He leaned against the wall, a heavy weariness settling over him.
+
+"The only problem with this plan," Ren sighed, "is that Lily will be isolated. She won't be able to attend the Royal Academy. She won't be able to take part in any noble events. She will be utterly ostracized by the nobility. They will never accept a half-blood."
+
+Sylas was quick to step forward, his voice losing its usual detached professionalism.
+
+"It is quite fine, Master," the butler said softly, his eyes shining with genuine conviction. "She has enough love and care here within these walls. We will make certain she never feels neglected. Ever."
+
+Kaelthos chimed in, resting a hand on the hilt of his sword. "Yes. The little lady is quite dear to us all. We will be her court. She won't miss having friends outside. We will protect her happiness."
+
+Ren felt a sudden, fierce warmth in his chest. He was incredibly happy about being able to provide Lily with such a safe, nurturing place. His staff loved her. They would die for her.
+
+But there was a gnawing feeling in his heart. He was building a walled garden for Lily. It was a beautiful garden, but it was still a cage.
+
+There were also the wider implications of her true nature. She was a High Elf. If she only spent her time surrounded by elves who pampered her, she would naturally develop a severe bias against all humans except Ren. When the time inevitably came for her to choose her path—whether to start a revolution to free the elves, or to distance herself from that destiny and comply with the human kingdoms—she needed perspective. Ren wanted Lily to see both sides of the coin before she made that choice. He wanted her to have no regrets.
+
+His chain of thought was violently interrupted by a sudden ruckus outside.
+
+Trumpets were blaring. Heavy drums banged in a slow, rhythmic march that rattled the windows of the kitchen.
+
+Ren peered out the back door toward the coastal road. A massive procession of Royal Guards was swarming the perimeter of his estate. The preparations had finally reached the final stage. These guards were entirely covered head-to-toe in ornate, glittering gold armor.
+
+This meant the path from the Royal Castle to the estate was being actively cleared out. Guards were being stationed at every intersection. Within the hour, the King would begin his journey to Ren's humble establishment.
+
+Mira marched into the kitchen, looking frantic.
+
+"My Lord, what are you doing here still?" Mira demanded, waving her hands. "We don't have time! We need to get you into your formal clothes. The young Lady is already ready. We need to clean you up!"
+
+Ren completely ignored the first part of her sentence. He was suddenly incredibly excited to see Lily in the cute white dress he had picked out for her. He began walking toward the stairs where Lily's nursery was located, a wide grin on his face.
+
+Mira let out an exasperated sigh. She grabbed him by the sleeve, physically dragging him to the other side of the hallway. She fully intended to take off that ridiculous, grease-stained chef's outfit and wrestle him into clothes befitting a noble hosting a monarch.
+
+Ren dug his heels into the floorboards as she hauled him into his chambers. "Mira, wait, I can do it myself!" he protested, his face flushing violently as she immediately reached for the top buttons of his stained tunic.
+
+"We would not be in this situation if you had started getting ready on time, My Lord," Mira scolded, her hands moving with ruthless, professional efficiency. She batted his defending hands away. "Stand still. You smell like roasted garlic."
+
+Ren's face burned hotter. Having the woman he was quietly pining over aggressively trying to strip him down was a level of panic his newly acquired combat skills had not prepared him for. He twisted away, clutching the fabric to his chest. "Seriously, Mira, just leave the clothes on the bed! I have it!"
+
+Outside the heavy oak door, two younger maids stood holding the fresh linens. They exchanged a knowing, suppressed giggle at the muffled sounds of the scuffle. The master, who had single-handedly terrorized the local spice market, was currently losing a wrestling match over his own trousers. The maids shared a look that communicated volumes. They would be whispering about the Master's bright red face and sudden, panicked modesty in the servant's quarters for years to come. Some dynamics in the household were becoming incredibly obvious to everyone except the Head Maid herself, who was simply determined to get her employer presentable before the King arrived.
+
+...
+
+Ren tugged uncomfortably at the high, stiff collar of his new coat. It was a tailored masterpiece of matte-black wool, the lapels and cuffs edged in sharp, intricate silver embroidery. A row of heavy silver buttons ran down his chest, gleaming against the dark fabric.
+
+[Ana: You look exactly like the brooding, emotionally unavailable villain of a romance comic. Any second now, a plucky peasant girl is going to spill tea on your boots, and you’re going to order her execution.]
+
+"I look like an idiot," Ren grumbled, trying to loosen the crisp white cravat at his throat without ruining the knot. "I don't even know why I'm wearing this. I told Mira my standard chef's tunic was perfectly fine for a meeting."
+
+[Ana: Your chef's tunic smells like burnt garlic and animal fat. You're a Lord meeting with actual nobility. Mira is just trying to make sure you don't look like you sleep in a pantry.]
+
+Ren sighed in defeat, abandoning his fight with the collar. He looked down at Lily.
+
+Mira had clearly channeled all her frustrated aristocratic tastes into the child. The toddler was encased in a cloud of pristine, ruffled white silk. The dress puffed out around her like a fluffy marshmallow, trimmed with delicate, frosty-blue lace that perfectly matched her massive eyes. A frilly white hat sat perched on her silver hair, tied beneath her chin with a satin ribbon. She looked like a priceless porcelain doll.
+
+Lily lifted the hem of her skirt with both hands, revealing a pair of polished, white leather shoes featuring tiny silver buckles. She stomped her foot against the stone walkway. The little buckles caught the sunlight.
+
+"Papa!" she announced with a wide, toothy grin. "Shiny!"
+
+Ren picked her up from the ground, effortlessly locking her in his arms. He couldn't resist kissing her chubby cheek. Every member of the family must be waiting to greet the royals. It was standard protocol.
+
+He walked out to the front of the estate. He stood waiting at the end of the ornate red carpet with the gold trimmings. The blue flower archways now featured rows of Royal Guards dressed in full gold plate armor standing between the gaps. The guards held up massive royal banners, crossing them over each other, creating a second, imposing tunnel of arches.
+
+Thankfully, Sylas was incredibly well-informed. The butler kept the appropriate gaps between the spaces, ensuring the household staff didn't crowd the royal detail. He was well acquainted with all the necessary protocols.
+
+Speaking of Sylas, he was standing right behind Ren to the left. Mira stood to the right.
+
+They were following the standard protocol of having the head butler and head maid greet the guests immediately alongside the Lord.
+
+Further behind them, lining the path right into the main doors of the estate, the male and female servants were lined up. They stretched from the courtyard leading right into the welcoming hall. Ren's staff was fully composed of elves.
+
+The only anomalies were Liam and Raina.
+
+The two human children were formally dressed, training as a maid and a butler respectively. They stood at the very end of the row, where the junior training staff would normally stand. It wasn't uncommon for kids to attend these functions, as training for these kinds of household roles usually started at an early age.
+
+Ren insisted on them taking up these roles as a way to let them feel useful and atone for their past mistakes, integrating them fully into the household hierarchy.
+
+A military band struck up nearby, playing a loud, booming royal tune. The environment became incredibly festive.
+
+There was already a massive crowd gathered outside the estate perimeter, waiting behind the barricades to get a glimpse of the royals. The royal family seldom ventured out into the lower city. This was a rare occasion to see their monarchs up close, apart from the yearly wave they performed at the new year festival from the high balcony of the royal palace. The common people were vibrating with excitement.
+
+People were waving small flags of the royal family. Children held baskets of blue flowers, ready to throw petals to welcome the royals.
+
+The cheering from the road became louder and louder. A massive, heavily guarded carriage arrived and rolled to a smooth stop right at Ren's main gate.

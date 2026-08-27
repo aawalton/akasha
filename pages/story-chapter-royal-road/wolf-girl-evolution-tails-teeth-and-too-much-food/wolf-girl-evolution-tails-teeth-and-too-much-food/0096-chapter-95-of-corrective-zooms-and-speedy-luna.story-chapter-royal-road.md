@@ -1,0 +1,477 @@
+---
+id: 7d5f289a-a01d-5b54-968b-55f4e523c935
+page-type-slug: story-chapter-royal-road
+title: "Chapter 95: Of Corrective Zooms and Speedy Luna Motivations"
+slug: 0096-chapter-95-of-corrective-zooms-and-speedy-luna
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 96
+ownLength: 1943
+unit: words
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3012901/chapter-95-of-corrective-zooms-and-speedy-luna"
+royalRoadId: "3012901"
+---
+
+PoV Luna
+
+Before going back to dispense justice, Luna decided to run for a while longer.
+
+She let her shadows slide her around in zigzagging patterns, checking every nook and cranny. No stone, bush, or tree was left unsniffed!
+
+It was just so… fun!
+
+Wind, speed, shadows stretching properly beneath her feet. The world blurred just enough to feel right, but not fast enough for Luna to lose any interesting sights.
+
+She snapped an unfortunate Horned Rabbit up, throwing it into her Maw out of sheer habit.
+
+Hmm.
+
+Hrm!
+
+Running really was the best!
+
+She could just zoom–
+
+–And be there!
+
+Right away!
+
+【Shadow Run Lv. 6 → Lv. 7】
+
+See!
+
+Even System meanie agreed!
+
+You could get places faster, and make numbers grow higher!
+
+Luna could only see benefits here!
+
+Which meant…
+
+That something was wrong with the adventurer lot!
+
+Very wrong!
+
+If they knew the joys of running, they would not be so slow!
+
+She had even let the humans have a head start, just in case they were just being slow to start with.
+
+And because Second said stay nearby, and Luna was being a good girl!
+
+Luna slowed.
+
+Stopped.
+
+Turned around.
+
+And… They really didn’t speed up.
+
+At all!
+
+Instead, even with Luna going everywhere but around, never going far ahead…
+
+They remained very far behind.
+
+And although the humans were still coming–
+
+They. Were. Just. Walking!
+
+Jogging, maybe.
+
+A few of them! Ahead of the main group with her pack!
+
+But mostly walking.
+
+Her ears drooped.
+
+“…Why,” Luna asked the universe quietly, “are humans like this?”
+
+She waited a heartbeat longer. Just to be sure!
+
+But nope.
+
+No improvement whatsoever!
+
+It was time to do some encouraging!
+
+Luna sprinted back, reaching her target in moments!
+
+She overshot – only by a little bit!  And because stopping at human pace was weird!
+
+Luna skidded to a halt in a sharp spray of dirt. Shadows snapped up instinctively, cushioning and redirecting the grit away from her legs even as she pivoted back towards her nearest ‘prey’!
+
+The turn was so fast an adventurer half-raised his shield on reflex, boots scraping as he braced for an impact that never came.
+
+Luna leaned in instead.
+
+Sniffed the shield.
+
+Tapped it once with a finger.
+
+“…Is this for slow protection?” she asked very seriously.
+
+The man froze.
+
+Opened his mouth.
+
+Closed it again.
+
+“…I–” he tried.
+
+But he was too slow to reply, and Luna had already moved on!
+
+She had more prey to harry!
+
+“Why are you so slow?” she asked the next group of adventurers, head tilting as she paced backward in front of them. “Why you no run?”
+
+“Uh–,” one eloquently replied.
+
+“Listen here, little lady–,” while another tried to take issue.
+
+But Luna just charged straight on!
+
+She crouched before them, sniffed the ground, and pressed a hand to the dirt.
+
+“…Is ground sticky? That why you so slow?”
+
+A few people glanced down at their boots reflexively.
+
+But before the confusion fully left them, she was already elsewhere!
+
+Luna popped back at the side of an unsuspecting new prey!
+
+Then slowly peered up at a panting adventurer.
+
+Panting already? It’s been only, uh, how did the humans measure time again?
+
+Anyway! Not long!
+
+“Did you lose leg?” she very seriously asked.
+
+“I– what? No!” the man protested.
+
+“Hmm,” Luna said skeptically. “You should check, just in case!”
+
+To his credit… the man did check.
+
+But by the time he looked up to tell Luna off, she was already gone!
+
+She trotted sideways, tail wagging, keeping pace effortlessly with her third pack of prey. All while the line struggled forward.
+
+“What’s taking so long?” she continued, genuinely puzzled. “Did somebody forget how to run? Luna can show!”
+
+By now she had the attention of the entire group!
+
+And before anyone could stop her, she vanished again.
+
+So when she did, most of them turned their heads, trying to follow her steps.
+
+And–
+
+They lost her almost immediately.
+
+A shadowy blur sped along the entire group, then circled the entire column in but a dozen heartbeats, and came screaming right back!
+
+Luna completed her full sprint loop with obvious enthusiasm.
+
+It really was just so fun to let loose!
+
+Awoomazingly so!
+
+Oh!
+
+New prey caught her attention. Big important prey!
+
+She stopped dead directly in front of Guildmaster Ferric, boots digging in, tail wagging furiously with obvious pride at what she had just accomplished!
+
+“There!” she declared proudly to everybody watching. “That is proper running!”
+
+Ferric didn’t flinch at the sudden arrival.
+
+At least… not outwardly.
+
+But several adventurers around him did – and it looked so funny! A collective half-step back, all weirdly synchronized! Their hands twitched near weapons, and shoulders all tensed up.
+
+Like people who tended to learn their lessons the hard way.
+
+Luna blinked up at Ferric, ears perked up.
+
+“…You want Luna to show slower?” she asked, hopeful but doubtful.
+
+Ferric opened his mouth.
+
+Paused.
+
+Then carefully considered his words.
+
+“Luna… we are moving as fast as we reasonably can.”
+
+Luna stared at him, eyes open wide in obvious disbelief.
+
+Then turned slowly, looking at the line of joggers, walkers, and a pair of already-winded adventurers.
+
+She frowned.
+
+“…Oh,” she said at last. “That is, um… very sad.”
+
+She could hear Mister Fox laugh up ahead!
+
+A little hysterically though.
+
+Luna brightened again immediately.
+
+“Okay!” she said. “Luna will help!”
+
+Syliana groaned from even further ahead.
+
+And just as the very thought fully formed and very sharply in Luna’s head–
+
+I will bite your butt if you don’t step it up.
+
+It hovered right there. Balanced on the edge of her tongue. Perfectly shaped! And just about ready to deploy as a motivational statement!
+
+One absolutely certain to give the adventurers a good reason to move things up too!
+
+Luna inhaled–
+
+And then stopped with a little yip.
+
+Syl’s fingers hooked into the head fur at the back of Luna’s collar mid-breath. Firm and precise, with no chance of escape!
+
+To Luna it felt like nothing short of a divine intervention would change it.
+
+Unfair!
+
+She froze up, her feet dangling a little.
+
+Her eyes looked on at her Second.
+
+Even as her tail locked straight out behind her in betrayal!
+
+Syl just looked at her with mild disapproval. She didn’t need to say anything. The grip alone conveyed no.
+
+After a moment longer, she let Luna down just enough for her feet to touch the ground again.
+
+Luna processed this.
+
+Then immediately pivoted to damage control!
+
+She spun around, head already angling upward–
+
+Mlem!
+
+But it was denied!
+
+Instantly!
+
+Syl tilted her head away with practiced ease, Luna’s tongue meeting nothing but air and crushing disappointment.
+
+Noo!!!
+
+Luna gasped softly.
+
+Emergency Mlem Apology Protocol had failed!
+
+This was bad.
+
+Very bad!
+
+But Luna was undeterred.
+
+She instantly tried again!
+
+This time with a smaller mlem. A careful one. A respectful stealth mlem!
+
+Syl shifted just enough to make it miss again.
+
+Wooo!
+
+Another failure.
+
+Luna reeled internally.
+
+Okay. Okay. New plan!
+
+She considered escalating.
+
+To Emergency Double Mlem Variant!
+
+A legendary variant she only ever tried once on her little fluffball sister!
+
+High risk. But high reward!
+
+Probably.
+
+She just had to gather herself… Her tail beginning to wag in hopeful anticipation–
+
+But Syl moved first!
+
+Her hand slid up, gently but decisively redirecting Luna’s entire head away before she could even try.
+
+Preemptive defense.
+
+With perfect timing.
+
+Unfair timing!
+
+Luna slumped.
+
+Internally, she declared Syl awoobsolutely unfair and possibly cheating!
+
+Around them, the expedition continued moving at their own pace – with boots thudding, armor clanking, and breathing growing heavier – but several nearby adventurers had very clearly slowed just enough to watch.
+
+And tried, and failed, to not make it obvious.
+
+Openly looking at them, then suddenly remembering that was rude and turning away. Then glancing again, side-eyed.
+
+One of them even snickered!
+
+A young man elbowed his friend hard enough to nearly knock him off stride and leaned in, whispering far too loudly,
+
+“That’s better than actual street theater.”
+
+His friend looked up to the heavens to give him strength.
+
+“I think we’re supposed to pretend this is normal.”
+
+“Ooooh. Yeah! This is all totally normal. Let us disperse! Nothing to see here!”
+
+Luna glanced at them.
+
+Sniffed.
+
+Then sighed dramatically and straightened, resigned – for now – to merely glowering at the slow humans instead of biting them!
+
+Syl’s grip loosened.
+
+But did not let go yet.
+
+The message was clear.
+
+Motivation would have to wait.
+
+And then–
+
+Syl decisively planted her staff against the ground with a solid thud that carried just far enough to cut through the noise of boots and armor.
+
+Luna felt just a little bit of magic helping the sound carry!
+
+Ooh!
+
+Second was so clever!
+
+The column slowed without quite meaning to, momentum bleeding off as attention shifted.
+
+Syl turned, voice raised just enough to carry.
+
+“Luna. It’s important to be considerate. Different people have different paces,” she said calmly. “And you should not expect some baby slowpoke humans to keep up with you.”
+
+For a single heartbeat, pure silence reigned.
+
+Then–
+
+The adventurers bristled!
+
+Not all of them, but it was clear most of them heard what was said! Their shoulders stiffened. Chins lifted. And a few people even shot looks down the line. Offended, resigned, exasperated. Some others still – clearly trying not to laugh.
+
+“Baby–” one of them muttered.“Hey now–” another started.
+
+More of them just snorted, but quickened their pace.
+
+Luna, meanwhile, beamed.
+
+Ehehe!
+
+Second was the bestest!
+
+She straightened immediately, chest puffing out with pride, taking all credit for the comment!
+
+Second was Luna’s Second!
+
+And that was almost like Luna saying it herself, yes!
+
+Syl continued without missing a beat.
+
+“That said,” she went on, eyes flicking briefly to Luna, “you can still help us get there faster.”
+
+Luna leaned forward, ears fully upright.
+
+“You could run around the perimeter,” Syl said. “And hunt down anything annoying before it becomes a problem. And if you find something suitable, lead a few back so we can get some practice in before the main engagement.”
+
+She paused.
+
+“Just be careful, okay?”
+
+Luna nodded vigorously.
+
+Very vigorously!
+
+“Yes! Luna always careful!”
+
+But what she really heard was–
+
+Run!Hunt!And bring friends!
+
+Everything else was extra.
+
+She mouthed the words under her breath, committing them to memory.
+
+Juuust perhaps not in the right order.
+
+“…Friends,” Luna whispered.“…Hunt.”“…And run!”
+
+She paused, her tail wagging hard.
+
+Considered.
+
+It seemed wrong, somehow.
+
+But–
+
+“…Same thing!”
+
+And before anyone could add clarifications.
+
+Or even before Syliana could realize how dangerously broad that particular interpretation window could be–
+
+Luna vanished!
+
+Vanished.
+
+A Shadow Step away transforming into a full on run!
+
+All zoom ahead!
+
+A streak of shadow tore outward, air snapping as offended physics briefly gave up trying to keep up. Dust swirled as cloaks fluttered violently. This time nobody yelped when the pressure wave tugged at their gear.
+
+Improvements!
+
+“Woo!” Luna’s voice rang out, already distant and delighted.
+
+And then was gone from sight.
+
+Syliana took a deep breath, then closed her eyes.
+
+Just for a second.
+
+Ferric, jogging up from nearby, watched the fading blur disappear into the distance.
+
+“…She’s going to bring us something, isn’t she,” he said.
+
+Veric rumbled a laugh.
+
+“Almost certainly.”
+
+Sepio adjusted his shield and sighed.
+
+“At least she warned us…”
+
+They watched as the column resumed its march – faster now, and more alert – with every adventurer suddenly very aware that practice was likely to arrive at speed.
+
+“...This time,” Sepio finished his thought.
+
+Far ahead, Luna ran.
+
+And hunted!
+
+Already very excited about bringing back some friends!

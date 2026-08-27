@@ -1,0 +1,173 @@
+---
+id: 22b8375e-739d-58ee-a64d-227fbcbda7b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22 - Cow and Her Skills"
+slug: 0022-chapter-22-cow-and-her-skills
+partOf: sherly-the-most-virtuous-holy-cow
+position: 22
+ownLength: 1748
+unit: words
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2693970/chapter-22-cow-and-her-skills"
+royalRoadId: "2693970"
+---
+
+Chapter 22 - Cow and Her Skills
+
+The next morning, Sherly convened with Letters for the next set of Skills for her to learn. She lounged in Ishuin’s room, but since the elf was still asleep, on account of all the liquor she had drunk, she had nothing much to do but check her Skills first. The thought of going out for a stroll crossed her mind, but she decided against it. If she stayed out of the elf’s range for too long, her ability to speak would disappear, and she didn’t want the hassle of any complications that might occur from that.
+
+At Level 13, she had two extra Skill Points to spend, but not a lot of Evolution Strains. First and foremost, however, the cow-chilim reviewed her current Skillset.
+
+[Current Skills:][Continuous Regeneration - Passive - Level 4 (Total Skill Points: 4)] [Fire Resistance - Passive - Level 2 (Total Skill Points: 0)] [Healing Light - Active - Level 1 (Total Skill Points: 1)] [Mana-Regeneration - Passive - Level 4 (Total Skill Points: 5)] [Physical Resistance - Passive - Level 1 (Total Skill Points: 0)]
+
+[Current Traits:] [Minotaur - Level 1 (Current Skill Points: 1)]
+
+[Available Skill Points: 2]
+
+“You didn’t tell me Evolution Traits can have levels,” Sherly said, poking Letters’ screen. “What does it do?”
+
+[It enhances the parts that the traits provide you. So in this case, your torso and arms.]
+
+“They’re not going to bulge like those of weightlifters, right?”
+
+[Only if you shape them that way during evolution. Otherwise, you go through the natural progression of building muscles. Eating, exercise, the whole deal. The Traits will amplify your strength regardless of your muscles, though.]
+
+“I don’t mind having muscles, just not the ridiculously humongous ones.”
+
+[That’s fair.]
+
+“The question now, though, is where should I spend my remaining Skill Points.”
+
+[I can show you the list again, if you want?]
+
+Sherly rubbed her temple. She remembered only some of the Skills on the list, but she wanted something in particular.
+
+“Is there one that’ll let me understand others without having to rely on Ishuin’s Spell?” Her hand moved as a way to gesture something about feeling incompetent. It ended up in a fist. “I don’t want to force her to accompany me all the time.”
+
+[The most basic one requires 1 Skill Point and 20 Evolution Strains.]
+
+“That’s all my remaining Strains,” she commented. “That’s actually pretty cheap.”
+
+[It’s a very basic Passive Skill, and is essential for every awakened animal out there. It’ll only let you speak and understand Sinzodia Common. You can’t read it, nor will you understand other languages, until you level it up.]
+
+“Ah, that makes sense. I’ll learn it, then.”
+
+[Just to make—]
+
+“Yes, confirm, confirm.”
+
+[Gotcha.]
+
+“How many languages are there?” Sherly asked.
+
+She couldn’t even remember how many languages there were back in her world. But she did entertain the prospect of learning multiple languages in this world, especially since it only required her to spend a few Skill Points and Evolution Strains to learn them.
+
+[Including the forgotten and ancient ones? Probably thousands, if we’re also considering dialects as a different language to learn. Some are actually essentially different, while still being derived from a mother language.]
+
+“That’s such a vague amount!” she hissed. “I thought you would know precise information like that. Like accessing an official database or something.”
+
+[Well, we don’t have full authorization. You’ll need to level that one up as well, if you want to access more high-level details.]
+
+“Eh?” Sherly raised the part of her face where an eyebrow should be. “How exactly does that work? It sounds awkward investing Skill Points to increase System Access.”
+
+[That’s because you don’t invest Skill Points.]
+
+“Evolution Strains? Traits?”
+
+[Not those either. You can increase our System Authorization by acquiring key items or completing key tasks. I know they’re pretty vague, but it’s something you shouldn’t exactly worry about at this stage. Once you start looking for zilim improvements, then we can probably come back to this. Or, better yet, you might come across one of these key items or tasks on your way to being a zilim.]
+
+“Oh, that sounds pretty special.” Sherly’s eyes went back to her System Console. She still had one Skill Point left. “I think I need a Skill for my sword as well.”
+
+[We have three available ones. Sword Mastery, which should be pretty self explanatory. But to be clear, it doesn’t instantly make you a master swordswoman. Instead, it’ll help you learn the way of the sword much faster than without it.]
+
+[Stampede Strike, which isn’t particularly exclusive to swords, but is usable with them nonetheless. What it requires is a melee weapon, or your bare fists, or your horns. It’s an inherited Skill from your Zodiac, Taurus. It’ll allow you to charge straight towards your target and strike as soon as you’re within striking distance.]
+
+“Won’t that have any negative effects if I take it?” Sherly inquired. “I’m not sure if I want any of my progression to do with Taurus, especially choosing my Skills.”
+
+[It’s not like that. The only thing the Skill had any to do with Taurus was its origin. After it’s been added to the System, the Zodiac’s corruption won’t influence it at all. The only reason I’m saying it, is because this particular Skill only appears to anyone linked with Taurus.]
+
+“Right.” Sherly nodded and rubbed her chin. “I still think it’s safer to just pick Sword Mastery.”
+
+[You don’t want to hear the third one?]
+
+“Sure, go ahead.”
+
+[It’s a Utility Skill called Weapon Summon. Any weapons you’re attuned with, you can easily call to your hand. Whether they’re in your Domain Heart, or somewhere away from you, you can summon them and teleport them to your hand.]
+
+“They don’t fly to me?”
+
+[Nope. Teleport.]
+
+“How do I attune to a weapon?”
+
+[When you store a weapon into your Domain Heart, you’ll have the option to attune to it. With your current level, you can only do so with one weapon. It’s usually automatic, as long as you have some attunement slots.]
+
+“And attunement slots can be leveled up like Skills, I assume? Meaning I have to invest Skill Points in it?”
+
+[That actually just increases with your level. From Level 1, you automatically get one attunement slot. The next one you can get at Level 20.]
+
+“That reminds me,” Sherly started, raising a hand, though there was no one physically around to see that she did the gesture. “What’s the maximum level?”
+
+[I have no idea.]
+
+“No idea, you mean, we don’t have access to it?”
+
+[No idea as in, no one’s achieved Max Level, yet.]
+
+“Oh, then who has the highest level?”
+
+[That, we don’t have access to, unfortunately.]
+
+“Yeah, I sort of expected that one.”
+
+[Yeah… Anyway, those are the three Skills that have something to do with your sword. I’m betting you’re still going with Sword Mastery, yes?]
+
+“Yep. I’ll take the other two next time.”
+
+[Cool.]
+
+“This part of the System is a bit snarky, isn’t it?” Sherly asked, giggling her amusement as she read the Skill Definition. “It hasn’t even told me what the Skill’s all about.”
+
+[Hmm?] Letters replied on the System Console almost too quickly. [It did though. As you level the Skill, you can pretty much do all of those, you know?]
+
+“I mean, it didn’t tell me how much damage I can do with the sword now that I have that Skill.”
+
+[The Skill’s not about adding damage, though. It’s about how easily you can master swordsmanship.]
+
+Sherly felt her mind going through hoops with that logic. But she did get the point. The Skill was called Sword Mastery, not Sword Damage, or anything like that.
+
+But with that final Skill Point used, Sherly now had completely reviewed everything there was to do with her levels. She turned to find Ishuin still asleep.
+
+I guess I can look around now that I can talk on my own…
+
+Peering at a window, she could see that the sun had fully risen. She stretched for a bit, before looking around the room for something that she could use to tell Ishuin that she would be taking a stroll. With people able to use the System Console to write, she didn’t expect to find a pen and paper just lying around.
+
+[You can just send her a message, you know?]
+
+“Wouldn’t the notification wake her up?”
+
+[I’ll make it a silent one. She’ll just see a visual notification once she wakes up.]
+
+“How convenient.”
+
+[Thank you.]
+
+After leaving the note, Sherly went outside. She didn’t exactly have an objective in mind, so she decided to just have a casual walk and circle the entire caravan.
+
+She could see other members of the Cancer’s Claw already awake and preparing for the day. They waved at her as she passed through, and she waved back.
+
+When she made the full circle around the caravan, the thought of roaming around Crossmark crossed her mind. But by the time she was heading for the gate, she realized that the guards strictly prohibited her entering, without Ishuin accompanying her.
+
+Sherly hated that fact, but she didn’t let that show to the surface. If they hadn’t told the first guards they met that she was a demon-cow, none of them would be any wiser. Still, the thought of deceiving someone rubbed her the wrong way. Even if the deception wouldn’t be harmful to them, she still felt that owning who she was would always be the first step to eventually proving to them that she meant them no harm.
+
+Regardless, the visit to Crossmark had to be postponed. Before she turned, however, she saw a hooded fellow leave from the gate. She was still far away, but for some reason, she felt the figure turn towards her before ultimately leaving north.
+
+"If I recall correctly, that would be the direction towards Crustia City.” She turned her eyes back to the gate, waiting to see if there would be any commotion that followed. When nothing happened, she shrugged. “Guess hoods are a common thing in this world.”
+
+With her walk done, and the sun fully up, and nothing else to do, Sherly went back to the caravan to see if she could wake Ishuin up.
+
+In front of the door, she found Maymay clearly distressed, and Kasta sighing.
+
+“What’s going on?” she asked them.
+
+“Hangover,” said the human.

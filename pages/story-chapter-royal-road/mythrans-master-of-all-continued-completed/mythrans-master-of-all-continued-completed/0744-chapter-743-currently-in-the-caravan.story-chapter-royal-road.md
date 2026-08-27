@@ -1,0 +1,309 @@
+---
+id: 8f2313bd-61f1-54a4-bb25-4f9e478b3594
+page-type-slug: story-chapter-royal-road
+title: "Chapter 743 - Currently In The Caravan"
+slug: 0744-chapter-743-currently-in-the-caravan
+partOf: mythrans-master-of-all-continued-completed
+position: 744
+ownLength: 3260
+unit: words
+publishedAt: 2018-10-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/301385/chapter-743-currently-in-the-caravan"
+royalRoadId: "301385"
+---
+
+“You might want to hold onto something.” Ren said, and right away Tatya put her arms around Ren's arm. It made him smile and he looked at the three men sitting across from him. He used the Shaper spell to make a bar across them, then did the same for all of the carriages because they were all within his Aura. Everyone looked down at the improvised safety bar, and Ren slipped a couch cushion into all of their laps with half-sized portals.
+
+“Believe me, you'll need it.” Ren said, then all the drivers flicked their reins at the same time, just like they had before, and the giant boars took off at a fast trot... which just happened to be just as fast as their previous 'run all out' speed. Screams and yells were heard all along the caravan as the people sitting facing backwards were tossed against the magically-created safety bar and the couch cushions.
+
+No one was hurt, thanks to Ren's quick thinking, and everyone could feel how happy the drivers and the giant boars were. Artemis and Ren chuckled as the men sat back upright and tried to compose themselves. When they did, they glared at Ren for laughing at them.
+
+“I wasn't laughing at you.” Ren said and held up a placating hand. “I was laughing at the situation.”
+
+“Why?” Tatya asked.
+
+“Imagine how much yelling and screaming there would be if I hadn't added the bars and protection.” Ren said, and her eyes widened.
+
+“What happens to everyone when we come to a stop?” Tatya asked.
+
+“Good point.” Ren said and used portals to take back all the cushions and then dispelled the Shaper spells to remove the safety bars. He then cast Permanent Spider Climb on Tatya, then on Kenkoth, Beholo the healer, and Jirqym.
+
+“What... what did you do?” Jirqym asked as the glow faded.
+
+“Permanent Spider Climb.” Ren said, and his eyes widened.
+
+“F-four times.” Jirqym said, and Ren felt his amazement.
+
+“To start.” Ren said and stood up to open the carriage door and Tatya reluctantly let his arm go. “I'll be right back.”
+
+“Where are...” Tatya stopped talking when he disappeared and the door shut. “He didn't use his wings.”
+
+“He can run pretty fast, and rather than trying to overcome the wind from travelling so fast he ran through the air instead.” Artemis said, then continued to stop the follow-up question. “He has Permanent Air Walk.”
+
+Ren went to each carriage and cast Permanent Spider Climb on everyone, including the drivers, then he went back to the carriage with the wolves in it and saw they had their claws dug into the floor and were holding on easily.
+
+“I knew you could handle the sudden change in speed.” Ren said, and he felt them preen a little. “I know you don't need the help; but, I'd like to make it easier for you.”
+
+They all gave a little bark, and Ren cast Permanent Spider Climb on them.
+
+“Don't have too much fun, okay?” Ren asked, and he felt their emotions and that they were going to enjoy the hell out of it. “Just kidding!” He said with a smile. “I'll see you again when we stop to eat.”
+
+Ren had barely turned away towards Tatya's carriage and the wolves were already running up the walls and across the ceiling. He chuckled and put a hand on the carriage to give it extra Protection and Durability, then made the runes disappear. He ran over to Tatya's carriage and climbed back in.
+
+“What took so long?” Artemis asked.
+
+“I cast it on the wolves, too.” Ren said, and he felt surprise from the Pervarians. “They're running on the ceiling of the carriage now.”
+
+“They'll tear it apart.” Kenkoth said.
+
+“I gave it Protection and extra Durability, so it should last a long time.” Ren said. “I'll check it again when we stop to eat.” He felt agreement from them and then remembered to ask an important question. “What kind of arrangements are there for travelling overnight?” He asked. “I'm an Adventurer and have business to attend to at night.”
+
+“Not to worry.” Tatya said. “We always stop for the night to rest the giant boars after their hard runs.”
+
+“That's a relief.” Ren said. “What about days? I've got to spend time in the Fire Realm because...”
+
+“That's how you got the Father of Fire title.” Jirqym said, and Ren nodded.
+
+“The Deity of Fire is my daughter.” Ren said and they weren't surprised to hear that. “I lost a lot of time with her while she was there and I couldn't get to her, even when she needed me.” He said sadly.
+
+“You're trying to make up for it.” Tatya leaned close and took his hand.
+
+Ren nodded slightly and looked at Jirqym. “Are you getting a good handle on my skills?”
+
+“Your main ones at least.” Jirqym said. “Most people would be uncomfortable with this and would actively avoid letting all of their secrets out like this.”
+
+Ren chuckled. “Knowing what my skills are doesn't tell you what I can do with them.”
+
+“You believe that.” Tatya said.
+
+“Of course I do.” Ren smiled. “You aren't detecting my enchantments or my spells, are you?”
+
+Jirqym shook his head.
+
+“Look at what my Doppelgangers did during the training sword duels.” Ren said. “They had the same Spider Walk ability I have, and yet they all did different things with it.”
+
+“They were still standing on the walls and ceilings, which is what the ability does.” The healer said.
+
+“That's true; but, some of them jumped, some ran, others dodged, two walked calmly, and another used his hands.” Ren said, and the Pervarians exchanged looks. “Now, if they combined that and Air Walk...”
+
+“They had Air Walk, too?” The healer asked, surprised.
+
+Ren smiled. “Now imagine the jumping and dodges that could have happened had they used both of those abilities at the same time.”
+
+It took a minute for Tatya to speak. “Being able to just hold your ground in mid-air would be an overwhelming asset.”
+
+“That's why I don't use it much, except to make myself taller while making it easier to kiss the women in my life.”
+
+“You use such a powerful ability just for that?” Kenkoth asked.
+
+“It saves the taller ones from hurting their neck, which is important.” Ren said. “Plus, I do run through the air a few times, like I just did, but it's only to get to different places when I don't use the Portal spell or my fantastic mount.”
+
+“You have a mount?” Tatya asked.
+
+“She didn't want to come because the caravan would be too slow for her, even with the hoof upgrades.” Artemis said and then chuckled. “She's a little pretentious about it; but, it's also deserving.”
+
+“She can only take a short trip going slow.” Ren snorted a laugh. “If I can't give her a good run, she's reluctant to go... the second time, anyway.”
+
+Teepo chittered in laughter. “Once she realized she could say no and you wouldn't get angry at her!”
+
+The Pervarians reacted to Teepo actually talking and their attention turned to him.
+
+“You can talk.” Jirqym said.
+
+“Of course I can.” Teepo said and waved a front leg at him. “I can even move.”
+
+Ren chuckled. “Teepo usually communicates telepathically.”
+
+“Is he a familiar?” The healer asked.
+
+“No, but Artemis is.” Ren said, and they all looked at her.
+
+“How?” Tatya asked. “How did you...”
+
+“Artemis, can you...” Ren started to ask.
+
+“Only for a moment, since you know my normal form is only for your eyes.” Artemis said and dismissed the Full Illusion spell to reveal her metallic skin and red metallic hair. It made the healer and Jirqym catch their breath at the sight of a being made of living metal, and Artemis cast the spell again to give herself normal hair and skin color.
+
+“What... kind of metal...” The healer tried to ask.
+
+“Steel.” Jirqym said. “She's a... sentient crossbow... somehow.”
+
+“Thanks to Ren when he made me, he discarded the original design and remade me into this.” Artemis said.
+
+“You love him.” Tatya said.
+
+“I do, with most of my heart.” Artemis said.
+
+“Wait, did you say most?” Kenkoth asked.
+
+Artemis nodded slightly. “I have feelings for both the Sage of Ages and a pixie that Ren and I have spent a lot of time with.”
+
+“Pixies are supposed to be restricted to their elemental homes to minimize the damage they cause.” The healer said and completely missed Ren's spike of annoyance. “How did you meet...”
+
+“That's not important right now.” Tatya said sternly to cut the healer off before he said something else to upset Ren. “Remember what I told you before.”
+
+“About what?”
+
+Tatya took a deep breath and quickly glanced at Ren and back to the healer.
+
+“Oh, right.”
+
+“Now I have to ask what you told them.” Ren said, and Tatya turned her head to look at him. Now that he was this close to her, he saw her eyes were almost gold in color and her short dark hair highlighted them. They almost shined in the afternoon light coming from the carriage windows.
+
+“I told them that I didn't care what they did as long as they didn't anger you.” Tatya said.
+
+Ren blinked his eyes for a moment, then he sighed. “If there's one thing I always tell people, it's that you need to be careful of how you say things.”
+
+“What do you mean?” Tatya asked.
+
+“They could set off an explosion. They could kill each other with a sneak attack. They could even destroy the carriage and the caravan.”
+
+“Wh-what?” The Pervarians all said at once.
+
+“You said you didn't care what they did, as long as I'm not angered.” Ren said. “They could do a lot of things with just the restriction of not angering me.”
+
+The Pervarians all exchanged glances and looked back at him.
+
+“I didn't intend it that way.” Tatya said. “When I said it, they knew I meant within social standards and restricted to inside this carriage.”
+
+“Did they know that, or did they assume it just like you did?” Ren asked, and they couldn't answer. “You are applying your own culture's standards to other people and comparing them.” He said. “That's fine, since it highlights the differences between you; but, you can't let your own perceptions color what you see and hear from others, especially when you know that they didn't grow up with the same background as you.”
+
+None of them said anything, and Ren smiled.
+
+“For example, when I was in the first carriage retrieving Jirqym, I encountered a female...”
+
+“For god's sake, don't sleep with her.” Kenkoth said to Ren's surprise.
+
+“Wh-what?”
+
+“She's been trying to entice and beguile every male we've come across, just so she could tease her ex.” Kenkoth said.
+
+“Oh! So that's why.” Ren said. “I figured they were having a fight and I was a convenient target.”
+
+The healer chuckled. “I tried to get someone else to take her place for this mission, and she almost ripped my head off.” He rubbed his neck where Ren assumed there used to be pronounced wounds. “When she accused me of trying to do to her what he did, I had to let her stay.”
+
+Ren thought about it for a moment. “Does he have someone else now?”
+
+“He does and they're married.” Tatya said. “I had assumed happily.”
+
+Kenkoth chuckled. “Oh, he is happily married as long as he's nowhere near his ex.”
+
+“Then why are they in the same carriage?” Ren asked, a little confused. “I can understand keeping them both on the same mission...”
+
+“They need to deal with each other on a professional basis.” Kenkoth said. “If they can't handle that, then neither of them are useful.”
+
+“I don't quite agree with that conclusion.” Ren said. “She seemed quite reserved until I licked her wrist.”
+
+“Excuse me?” Tatya let his hand go and slid slightly away. “What did you do?”
+
+“I had initially greeted her formally by licking the back of her hand.” Ren said, and he felt their understanding of greeting a lesser rank. “When I went back to get Jirqym...”
+
+“He invited her to a quick dinner.” Jirqym said. “She offered her hand and he licked her wrist.”
+
+The others relaxed for a moment, as that was a proper response for what she offered.
+
+“When Mires commented that King Ren was doing it to spite him, Yuwen said she knew that and had no problem with it.”
+
+“Oh.” Tatya said and Ren felt her understanding. “You were allowed to lick her arm then.”
+
+“From her wrist all the way up to her elbow.” Ren said with a big grin, and she barked a laugh.
+
+“She must have loved that!” Tatya said and took his hand again.
+
+“She really did.” Ren said and remembered Yuwen's feelings and the sensations she had felt at the time, then gave them to Tatya. She gasped and gripped his hand as she finished a little, just like Yuwen had, and her face flushed red.
+
+“Oh, my.” Tatya said, then Ren pushed calm feelings into her and she smiled at him. “Thank you.”
+
+“You don't feed on emotions; but, you can feel them just as strongly as if you did.” Ren said, and she nodded slightly.
+
+“The Emotion Siphon ability is too rare for everyone to have it.” The healer said.
+
+“Wait, you can all feel emotions that strongly?” Ren asked, and no one responded. “If you won't say, then there's one easy way for me to find out.”
+
+“No, don't!” Tatya said, and he looked at her. “We can't talk about our own abilities so casually.”
+
+“Is it a mandate or something from your ruler, or whoever it was that you took orders from to go on this expedition?”
+
+Tatya nodded slightly.
+
+“Then I'll only test you four.” Ren said and his circular Mana Shield popped into place around the carriage.
+
+“A Mana shield won't stop others from feeling it and being distracted.” The healer said.
+
+“It will if I do this.” Ren said and pointed to it, and instead of it being a see-through slightly blue sphere, it became solid silver.
+
+“What is that?!?” The healer exclaimed and leaned out the window to get a better look at it.
+
+“It's a modified Mirror Effect spell.” Ren said.
+
+“You can cast it inside your Mana shield?” The healer asked, shocked.
+
+“Not just mine.” Ren said, and the healer pulled his head back in to stare at him. “If anyone uses a Mana Shield...”
+
+“Good god.” Tatya whispered. “Not only would anything they do be reflected, magic or abilities, they also can't see at all.”
+
+“You got it.” Ren nodded to her and she gained Respect. “Of course, I couldn't do this before I unlocked the Mage class and received the spell.” He chuckled. “You don't realize how... limited... the basic spells are until you gain access to spells specific to certain classes.”
+
+“What are you going to do now?” Tatya asked, and Ren thought he felt a trace of fear.
+
+“It's all right.” Ren said. “What's your favorite emotion?”
+
+Tatya's face flushed red again, and he chuckled.
+
+“Outside of the bedroom.” Ren clarified, and it took her a few minutes to decide.
+
+“I think... finally catching your prey after a good hunt.” Tatya said.
+
+Ren thought about it and he could use the feelings Tristan felt when he had finally 'caught' Ren that time. “Okay, hold on.” He said and gathered that feeling and built it up, multiplied it, and made a huge reservoir of it.
+
+“Oh, my god.” Tatya said. She still held Ren's hand and she could feel him doing it. “Ren...”
+
+“Should I leak it or pour it all out?” Ren asked.
+
+“Pour.” Kenkoth said.
+
+“Pour.” The healer said.
+
+“Can I be excluded?” Jirqym asked.
+
+Ren felt him not want to interrupt his skill reading task, so he nodded slightly and cast a Magical Barrier of Protection around Jirqym, who was then surrounded by a body-hugging version.
+
+“You can't move in it, though.” Ren said.
+
+“How did you do that?” The healer asked and stared at the result.
+
+“It's just a simple modification of the spell.” Ren said, then smiled. “Is everyone ready?”
+
+“Will I get a bigger dose because I'm touching you?” Tatya asked.
+
+“Significantly.”
+
+“Then do it.” Tatya said and held on, and he opened the reservoir of emotions he had built for the happy conclusion of a hunt. It dumped out into the carriage and slammed into Kenkoth, Beholo the healer, and Tatya. The three of them stopped breathing as they felt the joy of catching a very elusive prey and how satisfying it was going to be to kill it. In the next instant the flood of feelings hit Ren's silver magical barrier and rebounded and slammed into them again.
+
+“Oh, GOD!” Tatya yelled and her whole body shook, and Ren felt her emotions and her hand start to change. He looked down at their clasped hands and saw claws start to extend from her fingertips. Her skin started to change color from a nice tan to almost black as short hair started to grow. Her fingers shrunk slightly in length and fattened up to become wide and grew thick pads on the bottom to compensate for the size of the claws.
+
+Tatya hadn't tried to let his hand go, even through the transformation, and Ren let his gaze roam up from her now paw-like hand and up her furry arm to her shoulder, then took a breath and lifted his gaze to look her right in the face... and a large almost human-shaped cat face looked back at him with Tatya's golden eyes.
+
+“Oh, wow.” Ren said.
+
+“You're not afraid.” Tatya said, and he felt her surprise.
+
+“I knew there was something special about you; but, I didn't know what it was.” Ren said and lifted his free hand up to touch the side of her face. He dug his fingers into the spot just behind her cheek and rubbed it with his fingertips, and a low rumbling met the movement. “So that's what it was when we were fighting.” He said, his voice full of wonder. “You were purring!”
+
+“I was.” Tatya rubbed his hand with her face.
+
+“Why didn't you tell me you were...” Ren stopped talking and stopped rubbing her cheek. “Never mind.”
+
+Tatya chuckled, and it sounded like she was trying to cough up a hairball. “Yes, not everyone is as... accepting of our appearance as you are.”
+
+“What about King Alamast?” Ren asked, and he heard another bark of laughter. He turned to look at Kenkoth, and saw a black-furred lion-man looking back at him. Beholo the healer looked like a jackal.
+
+“He was sufficiently wary of us until we assured him... and signed appropriate documents... that we weren't going to eat him or any of his people while in his lands.” Kenkoth growled.
+
+“Oh, that's funny!” Ren laughed, and Teepo chittered in delight. “Did he relax after that?”
+
+“He did, and treated us as if we had been longtime friends.” Kenkoth said.
+
+“Please tell me you didn't bite a few people just to show him that you could!” Ren kept laughing. “Wait, wait!” He held up a hand to stop their response. “He offered you animals to eat, didn't he?”
+
+Tatya, Kenkoth, Beholo, and even Jirqym joined Ren, Teepo, and Artemis in laughter at the absurdity.

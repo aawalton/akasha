@@ -1,0 +1,323 @@
+---
+id: 12094b6e-42bf-588b-8628-900dcf9ec8b5
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 344"
+slug: 0042-the-path-of-ascension-chapter-344
+partOf: the-path-of-ascension
+position: 42
+ownLength: 6058
+unit: words
+ownProgress: 6058
+publishedAt: 2024-08-23
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1771508/the-path-of-ascension-chapter-344"
+royalRoadId: "1771508"
+markedReadAt: "2026-06-29T19:18:57.363Z"
+---
+
+Chapter 344
+
+Matt looked at his outfit and was pleasantly surprised.
+
+Male noble fashion was almost incomparable from when they had their Tier 15 party and Matt wasn’t upset by that in the least.
+
+His outfit consisted of a deceptively simple looking set of ‘rough linens’ that lacked buttons, zippers, or magical fastening methods. Instead, the upper neck was closed with a small drawstring that was meant to be laced but left loose and untied. It was also an off white color, as if the linen hadn’t been whitened before being woven into clothes.
+
+Appearances were deceiving, though, as the outfit was created with the finest Tier 40 flax, which had gone through dozens of processes to make it as soft as a puffy cloud and as strong as a battleship's armor.
+
+It was also loaded down with subtle enchantments, from flight to climate control.
+
+However, It looked simple, and that was the point.
+
+Oddly enough, female fashion had taken a similar trend and was fairly simple as well, though not quite as drab as male fashion. Liz and Aster were both in similar clothes, but, instead of simple linen, they were in outfits made entirely out of cotton.
+
+None of them really understood the difference in material or why it mattered, but both Liz and Aster were happy to not have to wear the large and puffy dresses they had been expected to wear last time they hosted a party.
+
+They were more interested in who had pushed this trend. It was very clearly a deliberate trend someone had orchestrated with how, out of nowhere, the designs had appeared just ten years ago. While it wasn’t unheard of, it was usually a deliberate push from someone with wealth and influence.
+
+With all the royals still out and about until the Emperor officially returned, they couldn’t even ask Mara and Leon.
+
+Eventually they would figure it out by dint of who never stopped wearing the fashion, but it was fun to speculate as they got to take advantage of it.
+
+Matt didn’t love it, but he was happy for something he was able to get into without assistance, magical or otherwise. They could have just worn their Ascender robes, but they wanted to distance themselves from the war, so wearing the current fashion was a better choice.
+
+Once they were ready, they walked out to the main ballroom and Matt took a few minutes to inspect it.
+
+It wasn’t the same as their Tier 15 coming of age party, since that ballroom only had a capacity of a few million, but that wouldn’t be close enough for this upcoming party.
+
+The ballroom they rented out was truly massive and could hold upwards of a hundred million guests without anyone feeling cramped or isolated.
+
+It was more a space station pretending to be an artificial moon. Its gigantic size was made out of a shimmering alloy of silver and steel that glimmered in even the lightest of light, without any harsh reflections that might irritate the eyes. The floors were polished marble, flecked with gold, that paired well with the walls which were works of art themselves. Entire epics were told for anyone who wanted to walk the halls of the venue, and it would take weeks for even a Tier 20 to digest the stories told, as the closer one looked the more they could find.
+
+That was impressive, but as the two week long event progressed, the venue would dip in and out of the rings that the moons were turned into, currently. The venue even had the option of traveling to the local star, where the flames would lick the outer outer hull and set the station ablaze with light.
+
+It was similar enough to the dwarf contraption that the end of war ceremonies had been held in that Matt had to wonder who stole the idea from whom.
+
+Not that they were going to use that feature. The travel to and from the local star would take longer than they wanted for a party that was only going to last for two weeks.
+
+The scale was very much necessary, even if it had cost them. They had invited every noble in the Capital system, and considering everyone was preparing for the Emperor's end of the war court, they were all here. Each noble came with their own entourages and most had even brought friends and family, which further ballooned their large numbers into madness. As if that wasn’t enough, Matt invited the leadership of the largest guilds and corporations, which further expanded the number of expected guests into incredible proportions.
+
+Taking a steadying breath, Matt let it out. “Let's do this.”
+
+As if summoned by the words, their seneschals stepped out of the nearby room and moved to their positions behind their lieges.
+
+At Liz’s nod to the owner of the venue, the teleporters activated and the shuttle bays opened, signaling they were ready to receive guests.
+
+The first to arrive genuinely surprised Matt. It wasn’t that they broke protocol to directly teleport into the ballroom. Matt would be surprised if up to half of their guests actually used the provided means of transportation. No, it was who it was.
+
+Dominus Maniake, the large draconic man he had met during their coming of age party, was standing behind a large more human looking man and woman, who were further surrounded by a group of thirty. The hint of scales shown through their human skin told the story of their real bloodline, but Matt would have recognized them even without that.
+
+They were all dragons.
+
+Duke Tiberius Maniake was a large man with a storied history that wasn’t marred in the slightest by his loss of the beast kingdom's throne to Mara. He also had a gravitas that had nothing to do with his cultivation or his Domain, but just his general demeanor, which radiated a not so quiet competence.
+
+His wife and Dominus’ mother, Lutatia, wasn’t overshadowed, even if her presence was a little more subtle. She was like the stone that stood in the ocean that was phased by neither wind, wave, or weather.
+
+Dominus had also advanced his cultivation to Tier 21 over the last few centuries, which was fast considering his previous advancement speed, but not all that unexpected. He had fought in the war as a Tier 20, and while he hadn’t been a standout combatant, he had fought on three different worlds, been captured once, escaping with his army as they retreated, and holding off one of the last and more fearsome pushes in the final days of the war.
+
+The war had changed the young dragon prince. His aura was more settled than the last time Matt had seen him. From a storm that was ready to show its ferocity any time he was challenged, the current Dominus was more like a placid lake with unmeasurable depths.
+
+Tiberius spent a moment inspecting the venue before nodding and turning to face the three of them.
+
+His smile seemed genuine, and together he and Lutatia stepped forward in perfect sync that spoke of long familiarity.
+
+“Ah, it's nice to meet you two for the first time. Elizabeth, nice to see you again.”
+
+Both Lizzes nodded in perfect unison. As fellow dukes, they didn't have to bow, but the man was both significantly older than them and stronger.
+
+Handshakes were firm but polite all around, and once they finished, Tiberius looked around the venue again. “I have to thank you three for hosting this ceremony. Saves us the time of doing it ourselves for such a small announcement.”
+
+Lutatia added her agreement with a small nod, to which Aster asked the obvious question. “You have an announcement, Tiberius? One we should know about ahead of time, I presume?”
+
+The dragon smiled as he pulled Dominus forward with a hand on his shoulder. “Now that the war is over, we will be stepping down and Dominus will be taking over. Lutatia and I are ready to finish advancing and Ascend in the coming years.”
+
+Matt let his eyebrows raise at the unexpected news, which prompted Lutatia to elaborate. “I expect that we aren’t the only Nobles getting ready to cycle to the next generation, but it is time for us to step down. We don’t intend to rush to ascend, though. We had intended to announce it after The Emperor’s open court. However, this works better if you’d allow it.”
+
+Matt nodded and congratulated Dominus as his mind raced. Making such an announcement at another party wasn’t unheard of or even considered uncouth or rude so long as one got permission beforehand, but the timing seemed suspicious. They were at least asking before doing which was a mark in the clans favor.
+
+The war had been a good opportunity that most of the nobles had used to temper their heirs, but stepping down usually happened a thousand or so years after such incidents, not directly after.
+
+Matt couldn’t prove it, but he suspected that Emmanuel had spread the word through a number of his longer reigning dukes that he wanted them to reach Tier 46 sooner rather than later in preparation for the eventual true war. Some of them would undoubtedly ascend, either because they weren’t read in, or simply wanted to leave before the war started. But passing their titles down to the next generation freed their time enough that they could delve without too many questions being asked.
+
+Matt suspected that Dominus and Lutatia were read in as much as anyone who didn’t know his Talent was, as they were long standing and trusted dukes under Georgios. If Matt understood the political situation correctly, the fact that Tiberius had made a bid for king of the beast kingdom and lost wasn’t an indication of trust or favor. He had just been weaker than Mara when they fought.
+
+Or he could be completely off the mark and was finding conspiracies where there weren't any. Emmanuel’s rule had been well cemented, which made the dukes who had primarily served under his father able to step down without causing cascading issues that usually stemmed from so much of the imperial court passing their titles down all at once.
+
+Aster playfully stuck her tongue out at Dominus, “You had better be careful, or I’ll take Mara’s spot instead of you. Don’t take too long to advance.”
+
+Instead of getting riled up, Dominus simply chuckled. “As is only right. The strong take their place and everyone falls in line under their wing and claw. I hope you can submit once I defeat you.”
+
+Aster laughed a genuine laugh. “I look forward to it, but that's so far away, who knows what's going to happen? Maybe I’ll hate ruling and only show up to kick your tail around.”
+
+“You might find that harder to do than expected. My breath and claws have been forged anew by the flames of war, and you will find me a more resilient foe, Ascender or no.”
+
+Seeing others arrive, Matt made his excuses and stepped away as Aster tried her best to rile Dominus up, while Tiberius and Lutatia stepped away to claim a room for themselves before others arrived.
+
+Matt spent what felt like weeks shaking hands and making polite small talk, but it was only a few hours time, and he hadn’t seen more than a small fraction of the total guests.
+
+He tried not to show favoritism over title rank and made an effort to talk to marquesses, counts, viscounts, and barons as much as he did his fellow dukes.
+
+The worst part was that he was a host, an Ascender, and a duke all at once, which gave people endless reasons to interact with him.
+
+Funnily enough, their receiving a new duchy was one of the largest topics of conversation, as everyone wanted to put forward their family members as someone who should be given a noble title in their duchy.
+
+They were to receive around one and a half thousand new planets, which translated to that many new titles to be created and distributed as Matt and Liz wished. Aster was surely getting pestered just as much, even if her domain was slightly smaller than Matt and Liz’s already half sized domains. With the restrictions on expansion, there just wasn't enough planets coming in from the other Great Powers to make four new, full sized duchies all at once, and they would have to slowly fill in those gaps in the coming years.
+
+Not that Matt minded. Over a thousand planets was already enough for him, and was annoying enough with people not so subtly trying to maneuver into a position.
+
+He, Liz, and Aster had talked about how they wanted to pick candidates, and they had cleared it with Manny long ago as a bit of an ideal testbed. Half of their duchies were going to be hereditary nobles and half non hereditary, to test how well the two types of inheritance balanced each other. To prevent the governance from becoming entrenched in old established powers, about a fifth of their total candidates were going to be those not related to established noble houses, but those who had gone through meritocratic methods to stand above their peers to split the groups in quarters.
+
+Ideally, it would prevent blocks of power from forming too quickly or strongly, keeping everyone dancing to the Empires tune. After consulting with Manny they decided to push for an unprecedented twenty percent meritocratically filled positions instead of the normal five. They hedged their bets that no one would call them on a fourfold increase so soon after the war and while there had been some grumbling it wasn’t too much as they had prevented the border nobles from losing their fiefs altogether.
+
+Thankfully, there was a reprieve as Matt’s AI pinged as a guest he had been waiting for arrived.
+
+After excusing himself from his current conversation with a Marchioness, Matt made a way through the crowds until he found Baroness Margaret Thresh, Lilly’s noble.
+
+Proffering a hand, Matt sighed as Margaret bowed.
+
+In his best commanding tone, Matt said. “Rise, Baroness Thresh.”
+
+Wiggling his still extended hand, Matt waited for her to shake it before smiling. “Nice to see you again.”
+
+With no awkwardness visible, she nodded. “As is it to see you again, Ascender.”
+
+Matt laughed at her jab at how he wasn’t acting like a noble. Technically, the Ascender title came with no noble correlation, but there were thousands of dukes and only seven Ascenders, which had led to the title being given precedence over the ducal one. It was just slightly uncouth to mention it during their first ducal party, which Matt found funny as it was in clear retaliation to Matt breaking protocol.
+
+“Yeah, the noble thing is new to me. I can’t say it comes easy. Far more natural to punch my issues away, than politic them.”
+
+For the first time, Margaret smiled in a way that Matt thought was actually genuine. “I fully understand that, but it's a useful skill set for those of us who aren’t Ascenders. I had the lessons beaten into me, but I’m better for it.”
+
+Matt nodded as he read the report that Cato sent him. It was just a few lines about how Thresh had been taken under the wing of a Countess Abigail Sural, who had done her best to ensure any shortcomings she had in her noble education were taken care of.
+
+“Luna, my Path Manager, beat those same lessons into me, but I’m hard headed and choose to ignore them sometimes. Especially with friends. I haven’t been able to get back to Lilly since before the war, how is everything?”
+
+Matt snatched three glasses off a wandering waiter’s tray and handed one to Margaret and Cato before taking a sip of his.
+
+It was a deliberate action trying to throw Margaret off her guard a little so he could get more than the polite ‘everything was ok’. He wanted to really know how Lilly was.
+
+“It's good.” At Matt’s pursed lips, Margaret continued. “Really. We finished settling the capital and it's now a proper metropolis to make any low Tier world jealous. Population has reached almost eighty million and I’m having to turn down immigrants who want to live on the same world that created an Ascender. I’m happy to report that we have had all rifts properly delved for the last hundred and fifty years, and not a single rift break death since I took over. We—”
+
+Matt interrupted her with a grin. “That is fantastic news. I’m grateful you managed to stop anything like what happened to us from happening again.” Grasping her shoulder, he caught her eyes and added. “That's seriously good work.”
+
+A duke publicly praising a baron was already a mark of pride, but Matt was genuinely happy she was a good steward for the planet he had grown up on.
+
+Cato had offered to create a report, but Matt had only asked enough to make sure Lilly wasn’t being run into the ground before the party. He wanted to hear the information from the source.
+
+“Sorry for the interruption. Go on. Seriously, I'm interested.”
+
+Matt should have moved on to another noble, but this was his party, and he was going to catch up with his home planet.
+
+Thresh took a large swallow from the drink before wincing slightly and looking at the drink. “I think I just wasted a very valuable drink.”
+
+“Not really. It's only Tier 20.”
+
+Margaret looked like she wanted to argue, but she continued with how Lilly was doing, which was good.
+
+They had had a small period of time where they didn’t have enough local crafters, specifically smiths, but that had been handled with a few social programs and Margaret leveraging Matt’s Ascender status to bring in qualified teaching staff for all kinds of professions.
+
+Currently, she was controlling expansion into the continents’ inner depths where rifts could spawn, creating just two cities every fifty years while letting local guilds create and delve outposts to keep the rifts from overflowing.
+
+It was slower, but ensured safe growth that, when combined with the immigration limits, ensured the people of Lilly could take advantage of everything their planet had to offer.
+
+He also found out that TrueMind had set up shop on Lilly shortly before the Ascension ceremony, which reminded him he owed them for breaking his contract. The contract had been paid out, but he felt he owed them at least an apology and then a thank you for them investing so heavily into Lilly even before his fame was well known. Maybe they had known in advance, but he doubted it. He sent a message to Cato to look into the company and see if there was anything minor he could help with. If there wasn’t, which he suspected would be true, he would send the owner a very nice bottle of wine and a personal thank you note.
+
+He knew the value of having a local producer of AI implants as someone who had been not only on the Path, but had also gotten a discount on the end product allowing him to afford it at Tier 3. Not to mention that he hadn’t even needed to pay any markup from transportation or taxes. His AI had been foundational in his early years and had made everything so much easier than it would have been without it.
+
+All the while, Matt nodded along and listened. Cato sent small messages with deeper explanations or small corrections, but Margaret never tried to lie or hide the few mistakes she made.
+
+It was exactly what Matt wanted to hear, and part of the way through, he sent Liz a message to get her agreement for an idea they had pondered.
+
+“This is all wonderful to hear, Margaret. I’m glad you are a good steward for Lilly.” She clearly thought he was about to dismiss her, but her bow froze as Matt made his offer. “Liz and I wanted to offer you and Lilly a move to our duchy.”
+
+Margaret looked like Aster had hit her with an ice spell, but then again so did all of the surrounding nobles on hearing the offer.
+
+Ascenders rarely used it, but thanks to old rules written for the hereditary nobility when establishing their duchies, they were given the option to bring their planet of birth into their duchy, so long as it wasn’t higher than Tier 10.
+
+Matt hadn’t even considered it until Liz brought it up as an option, but the more Matt thought of it, the more he liked it. Lilly was well, so that wasn’t a concern, but if he was Margaret’s liege, he could further look out for the planet, which was a nice benefit. But the main reason why he wanted to transfer ownership of the planet was because he, or rather his guild, needed a low Tier planet to do practical aperology upon. One that wasn’t dealing with integration and cultural shifts. Lilly was only Tier 4, and therefore was the perfect Tier for the kind of aperology that he wanted to start with, namely aura rifts, growth item rifts, and skill shard rifts.
+
+What was better than ensuring that the economic success that came from those tests was reinvested back into his home planet?
+
+It was the place that had raised him and his parents. Even if he had outgrown the planet, it was and always would be where he grew up.
+
+Margaret’s face went through a dozen micro expressions and Matt just watched as she took the time to process through his offer.
+
+“I would be honored, Duke Moore.”
+
+Matt raised an eyebrow as he sensed a very large and unspoken, ‘but’.
+
+Reading his expression, Margaret explained. “Myself and Lilly would be more than happy to transfer to your duchy, but I have alliances and more important obligations that I feel I would be letting down by changing allegiances so suddenly. It's still worth it to move, but I will need to pay them back in other ways now.”
+
+“I assume one of those is Countess Sural?”
+
+“She is the main one, my lord.”
+
+Hearing he was correct in his assumption, Matt looked over his shoulder to Cato in Tier 26 speeds, who vanished into the crowd even faster.
+
+“I owe her a lot for her assistance. Without her help, I would have made mistakes after the revelation of your Ascension. With her help I avoided many pitfalls and she expected nothing back, except for me to learn. And while she might not expect direct repayment, I feel obligated to do my best to return her assistance, and that will be impossible if I—”
+
+She was cut off as Cato and Countess Sural arrived through the parting crowds.
+
+As Countess Sural bowed and introduced herself, Matt went through the packet of information Cato provided him.
+
+Countess Sural was a diehard loyalist, which was moderately surprising for a hereditary noble family, but the brief explained it. Her great grandfather had been a fervent supporter of Empress Agatha and he had instilled a sense of both loyalty to the crown and their people into his descendants.
+
+While the man himself had long since ascended, his family had kept to those teachings and Countess Sural was a dedicated woman who gave everything to her people.
+
+From what Cato had been able to put together in such a short time, she was a proponent of the thought process that said nobility was a burden to bear on behalf of one's subjects and not a privilege to be lorded over them. They weren’t pushovers, but they never took from their people for selfish reasons, and made sure things like taxes were being appropriately used with minimal graft.
+
+It was a mindset Matt could agree with.
+
+“Countess Sural, as thanks for your assistance with Baroness Thresh, and in turn the assistance that was then transferred to Lilly, I want to personally thank you.”
+
+“Thank you, my lord but no such thanks are necessary. I only did the minimum anyone would do.”
+
+“Clearly it was more than nothing, as otherwise you wouldn’t have been the first. While I’m confident that Margaret would have figured things out, I’m happy Lilly didn’t have to go through such growing pains. I can only hope that I have such good counsel. To that end, I offer you one of the Marchioness titles I have available, or one of your family members a viscount title in my duchy.”
+
+The crowd around them went silent as they processed the very generous offer, but Matt ignored them and focused on Liz and Isabella making their way through the crowd.
+
+The countess was still mulling over the offer when Liz slipped in next to him and threaded their arms together.
+
+Those around them murmured their greetings but did so quietly enough to not disrupt the countess. Not that they would have bothered her.
+
+Countess Sural was clearly taken aback and seeing that, Liz offered her a lifeline that Matt should have thought of. “Take your time processing the idea. Consult with your liege and family alike. We aren’t in any rush.”
+
+Together they turned and made their way through the crowds, arms still entwined when Liz said. “Good offer. She’s a good one.”
+
+“I thought so. And I do appreciate what she did for Lilly, even if it was through Margaret.”
+
+“You just want to go play with rifts. That's the real reason you wanted Lilly.”
+
+Matt gasped a little louder than was strictly polite. “I would never! But it will speed things up if we don’t have to wait for a planet to be integrated to start research.”
+
+Matt could see people trying to listen in, but neither of them hid their conversation. The guild would be announced as soon as the remaining guests trickled in, and this would pique interest.
+
+Since they had joined up, he and Liz took a few minutes to grab some food and made some idle chatter with those around them while they chatted about things they had heard so far.
+
+They were interrupted by a familiar face, Silvia Dobrescu. She was followed by her parents, both active dukes. But like Dominus, the woman, who had only been Tier 17 when they were Tier 15, had now pushed into Tier 21, which told Matt she would soon be taking over the duchy.
+
+The Dobrescu family was unlike most noble houses, and was a former corporation that, after a drawn-out battle with the local noble family, had come out on top. Instead of just returning to their former status after selling off what they could, the board of directors had decided to form a family and become a noble house themselves. Currently, they ran one of the largest merchant fleets in the Empire, and while others might try to muscle in on their interest, they always outlasted the competition. There were rumors the family liked to use less than legal methods to take out their competitors, with the largest rumor being that they ran an actual pirate fleet, but all of those rumors were unsubstantiated.
+
+As much as Matt wanted to believe a lot of noble families were corrupt and evil, he knew that a family with the status of the Dobrescu’s wouldn’t escape the Emperor's scrutiny into such matters, which made the rumors hard to believe.
+
+Matt just hoped there wouldn't be too many conflicts of interest between his guild and the Dobrescus’. Even if the family didn’t do anything illegal, their reach was massive, and they had their fingers in nearly every pie, even if they only specialized in moving products around.
+
+He was interested in why Silvia Dobrescu bothered to come to their side, but he didn’t have long to ponder. Silvia’s long heron bloodline’s pace ate up the ground quickly.
+
+“Good to see you two again. Congratulations and all that.”
+
+Matt was surprised Silvia was still as casual as she had been the last time they had seen her. Neither he or Liz were bothered by it, but it spoke to a level of confidence on her part that he found intriguing.
+
+Interestingly enough, she proffered a gift. She wasn’t the first to give them a gift, but it was the first one that Matt couldn’t immediately recognize.
+
+It looked like a small vial of fire kissed honey, but it weighed on his spiritual perception like it was much higher Tier than the Tier 22 material it was.
+
+Silvia seemed to expect that and explained. “A little gift from the Dobrescus for your efforts in the war and taking over a noble house. This is a dose of Tier 22 Velview royal jelly. I’m sure you know of Velview honey and its effect.”
+
+Matt had never heard of Velview honey, but Cato quickly sent a message that informed Matt about the basics. The Velview system was one of the direct holdings of the Dobrescus, and was incredibly valuable thanks to its main export, the honey that the bees that infested the local star created.
+
+Like on most stars, a rift eventually inverted to form a ruin, but instead of just being destroyed by the crushing pressure and immense heat of a star, the beehive ruin not only survived, but thrived and spread to infest the entire star. It had only been an interesting factoid noted by the initial settlers, as the bees couldn't leave the star and therefore weren't a threat. But eventually, one of the cultivators had gone up and gathered some of their honey.
+
+It was there that they learned of the honey’s incredible taste profile, but more importantly, the side effect that caused anyone who had imbibed the honey’s cultivation to automatically compress to rift level essence through no effort of their own, up to the Tier of the honey.
+
+For delvers like Matt, Liz, and Aster, the honey was nothing more than an expensive treat, as their essence was already as compact as it could possibly go. But for civilians or anyone who cultivated ambient essence, Velview honey was an incredibly valuable cultivation aid.
+
+If not for the fact that the bees had never survived a transplantation to another star, the honey would have been one of the most used cultivation aids. Instead, it was limited to the wealthy and connected who could afford the price for their non-combatant family members.
+
+The honey was generally turned into a mead to maximize its effects and extend its duration from a few weeks to a few years, but the much rarer royal jelly was effective forever. It was endless cultivation compression that never needed to be renewed, and was correspondingly expensive, so being given a dose was both a great honor and a show of goodwill from the Dobrescus. It could also be used to make a potion that would compress already-cultivated essence in previous Tiers, and while it couldn’t truly fix a flawed foundation as it couldn’t backfill that gap, it was a start and thus incredibly valuable.
+
+While they didn’t need it, the royal jelly would serve to assist any of their future children who didn’t wish to delve in ensuring their foundations were perfect all the way until they reached Tier 22.
+
+The small vial they had been given didn’t even have an open market price as it was just that rare but Matt could imagine it selling for Tier 40 value at a minimum.
+
+Matt hadn’t ever heard of the honey before, and immediately ordered a small dose of the raw Tier 15 honey, as he wanted to try it after hearing of its exquisite taste. Even more interesting was the entire aspect of cultivation that he had never needed to interact with.
+
+Velview honey was expensive because it removed one of the most tedious processes of cultivating ambient essence, but it was hardly the only method to do so. There were hundreds of similar products, each with their own quirks and drawbacks. In the case of the honey, its flavor was described as being so good as to be near addictive, in addition to being one of the few cultivation aids that the body didn’t build a resistance to.
+
+From the packet of information Cato sent Matt, he learned that the honey was often paired with incredibly expensive cultivation bracelets like the ones low level delvers used to share essence between party members that automatically gathered essence and fed it to the wearer. Together, they let someone cultivate all day without any conscious effort, but it was also noted by Cato to be something only the scions of the wealthy could afford, as both items were incredibly expensive and needed to be replaced often.
+
+It was something Matt had never really considered before as a delver who went to fight for his essence, but it seemed like a good avenue of research for his guild to look into.
+
+Matt could do more than just create better rifts for low Tiers, as even if that did help, most people didn’t want to risk life and limb. Helping those others would be a good way to increase the quality of life for the lower Tiers, even if it didn’t appreciably increase the amount of immortals. Each Tier advanced increased the quality of life for the individual beyond extending one's lifespan. With cultivation one's body improved, which made even the later years more comfortable as one's body was more resilient. Being able to advance while still living a normal life was an almost mythical goal, and Matt felt the desire to throw his hat into the race and see if his guild might make some innovation in the field.
+
+Smiling, he took the royal jelly and put it in his own storage ring instead of handing it to Cato, who had taken most of the other gifts this evening.
+
+Shortly after, the three of them took a central stage.
+
+Liz spoke first. She was radiant as she stood there with a phoenix clone perched on her shoulder.
+
+Her bloodline change had given her skin a golden-bronze depth that hadn’t been there before, and Matt found it hard to pull his eyes away from. “We would like to thank everyone for showing up to our party. It's an honor that you all came with such short notice. We wanted to make a few announcements and felt this was the easiest way to do so. First, Matthew and I will be co-ruling a duchy while Aster takes her own duchy. Most of our holdings will be coming from the other Great Powers, and so we will need to call upon the scions of our established families to fill our ranks with those who can handle such a transition. We will be sending offers out in the coming decades, but we can say even now that we are looking at experience and steadiness as much as is possible with the unlanded.”
+
+There was a round of polite applause, but most of the nobles' attention was focused on each other as they tried to figure out who, if any of them, had been selected for the new holdings.
+
+Baroness Thresh and Countess Sural gathered more than their fair share of jealous looks, which thoroughly amused Matt.
+
+Liz spoke for a few more minutes before Aster made a similar speech, but once they were both done, Matt stepped forward.
+
+“In addition to that, I would like to announce the founding of my own charity research guild, Titan’s Torch. We intend to change the realm one invention at a time, and our first product will be ready for deployment in a decade.”
+
+Matt let himself pause as he studied the crowd. He wished he could say they were happy for him, but he could see fear and defensiveness the moment he said the words ‘charity’ and ‘change’.
+
+Cato was once again proven right.
+
+After letting the moment build to the appropriate level Matt said, “We have a method of reliably creating sub Tier 5 Aura rifts.”
+
+Matt smiled as the entire venue with all of the Empires nobles and the most influential guilds and corporations erupted into pandemonium.

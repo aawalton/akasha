@@ -1,0 +1,283 @@
+---
+id: eda5546e-ef31-597a-a19a-7dae4d85aee0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 96: The Elegy of Our Society"
+slug: 0096-chapter-96-the-elegy-of-our-society
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 96
+ownLength: 2420
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3738367/chapter-96-the-elegy-of-our-society"
+royalRoadId: "3738367"
+---
+
+Viktor's head separated.
+
+It rolled. A slow, graceless tumble across the charred wood, trailing a diminishing smear, until it came to rest against the boot of the nearest soldier.
+
+The soldier looked down at it. Then up at me. His face had gone the color of old parchment.
+
+Nobody moved.
+
+The body stayed upright for one impossible heartbeat. The chains held it. Then the knees buckled, and the weight collapsed forward.
+
+Blood pooled.
+
+I wiped the blade on the hem of Viktor's dark jacket and straightened.
+
+The soldiers stared at me.
+
+The Hero of Grenzheim. A knight of the Iron Cross. A man who had just executed a chained, manacled prisoner on the floor of a crime scene.
+
+Now, I thought.
+
+"He tried to cast," I said.
+
+A lie.
+
+An obvious lie.
+
+Viktor hadn't tried to cast. He'd been chained, prone on the floor, and the most dangerous thing about him in that moment was the smell of his sweat.
+
+The soldiers looked at me.
+
+Something passed between us. They had heard what Viktor said. About the princess. About the group. About the children he'd burned as a philosophical exercise.
+
+The soldiers looked down at the head.
+
+"The prisoner attempted to cast through the suppressors," one of them said. His voice was wooden, rehearsed in the instant of speaking it. "Knight Hexenzeit neutralized the threat."
+
+The other three soldiers nodded. Their mouths were shut. Whatever they carried out of this room, they would carry together.
+
+This was part of the function. The part of the Iron Cross that no charter mentioned and no prince acknowledged. The part that existed in the gap between law and necessity, where the men who held the swords decided what justice looked like when the courts couldn't be trusted to deliver it.
+
+I sheathed my sword.
+
+The specialist wardens from the Imperial Prison's eastern wing arrived two hours later.
+
+Four of them. Heavy men in dark uniforms, carrying the suppression equipment.
+
+They came through the bedroom door and found a corpse.
+
+The lead warden — a man with a shaved head and patient eyes — looked at me. Looked at the four soldiers standing at their posts with faces that gave nothing.
+
+"The prisoner attempted to cast through the suppressors," I said. "I neutralized the threat."
+
+He studied me.
+
+"Understood," he said. He signaled his team. They began the recovery process.
+
+I left them to it.
+
+The summons came the following morning.
+
+A comm-crystal pulse at half past seven, the Iron Cross frequency, Katja's identifier code. Three short taps and one long. Report immediately.
+
+I walked to the Investigation Division building through streets that smelled of bread and horse dung and the first heat of the day, and I knew what was waiting for me before I reached the door.
+
+Katja was standing behind her desk. Her arms were crossed.
+
+"Close the door," she said.
+
+I closed it.
+
+"Sit."
+
+I sat.
+
+"Viktor von Steinhauer." She set both palms flat on the desk and leaned into them. "Fourth Circle fire mage. Former Academy student. Heir to a noble house with connections to Princess Elara's faction." Each fact landed like a brick being laid. "Captured alive. Bound, gagged, manacled in runic suppressors. Surrounded by Iron Cross soldiers in a secured crime scene." She paused. "And you cut his head off."
+
+"He attempted to—"
+
+"Don't." The word came out sharp enough to cut. "Don't give me the line you gave the soldiers. I have their statements. I've read it all. They're identical, word for word."
+
+I said nothing.
+
+Katja straightened.
+
+"I asked you for evidence." Her voice dropped. "I asked you for names. I asked you for the thread that connects three dead families to a motive. I told you that what I needed was an investigation, not a raid." She held my gaze. "What I got was a corpse."
+
+"He confessed," I said. "In front of four witnesses. He admitted to all three attacks. He described his methodology. He named Princess Elara as his patron and referenced an organized group operating—"
+
+"A confession that died with him." Katja's jaw tightened. "A confession that cannot be presented to a tribunal. Cannot be cross-examined. Cannot be verified against documentary evidence, because the man who made it no longer has a mouth. Do you understand what you've done? We had a living, breathing connection to a network that is burning nobles alive in the capital. We had a man who could have given us names, locations, structure, funding."
+
+I know exactly what I've done, I thought. And I know what would have happened if I'd let him live. The princess would have been extracted within hours.
+
+I didn't say it. Katja knew. I could see it in the set of her mouth. She knew why I'd done it. She simply couldn't afford to agree.
+
+"The case file will reflect that the primary suspect was identified and neutralized during the commission of a fourth attack," she said. "The family was saved. The serial arsonist designated 'the Pyre' has been stopped. That much goes into the official record."
+
+She paused.
+
+"You are removed from active casework."
+
+I nodded.
+
+"You'll maintain your standing in the Investigation Division. You'll retain access to the Division's resources. But no new cases will be assigned until I determine that you can be trusted to bring a suspect back breathing." Her eyes held mine. "Are we clear?"
+
+"Clear."
+
+"Get out."
+
+I stood. I crossed to the door. My hand was on the handle when her voice came one more time, lower now, stripped of the official register.
+
+"Kaspar."
+
+I turned.
+
+Katja looked at me across the desk, and for one instant the mask slipped, and what I saw behind it was not anger.
+
+"The family is safe," she said quietly.
+
+I nodded once.
+
+I left.
+
+The street outside the Investigation Division building was bright with mid-morning sun, and the heat was already building toward the day's peak.
+
+I stood on the pavement and let the door close behind me.
+
+Dismissed from cases, I thought. Good.
+
+The newspaper sat in my coat pocket.
+
+The case was closed.
+
+My investigation was not.
+
+I went back to the workshop first.
+
+Asena was running an installation crew. Rolf was asleep behind his grinding bench. The mill hummed with the sound of three junior hands assembling casings at the long bench.
+
+I climbed to the upper floor and sat on my cot and spread the newspaper across my knees.
+
+THE ACADEMY VOICE. Volume XII, Issue 34.
+
+I turned to the masthead. The editorial staff was listed in small print below the title. Editor-in-chief: a name I didn't recognize. Layout: another. Contributors: eight names, each followed by a year designation.
+
+The article Viktor had marked carried a byline.
+
+Emil Voss. Third Year.
+
+I read the name twice. It meant nothing to me. No connection to any of the names I'd been tracking.
+
+I folded the paper and stood.
+
+The white hair was a problem.
+
+Three months ago it had been an asset. The Hero of Grenzheim, recognizable at a glance, the face that opened doors and parted crowds. Now it was a liability. I couldn't walk into the Academy looking like the man every student and professor had been reading about since the trial. I needed to disappear.
+
+The alchemical solution Asena kept in the workshop's supply cabinet was a weaker version of the compound I'd used on the road with the Iron Cross. I mixed it in the basin and worked it through with my fingers, watching the white vanish strand by strand until the face in the water looked like someone else.
+
+I changed clothes. Off came the Iron Cross coat, the boots, the sword belt. On went a set of Academy robes I'd kept from my dormitory. The fit was wrong. The shoulders were broader now than they'd been when the robes were cut, and the sleeves stopped short of my wrists by two inches. Still, close enough.
+
+I tied the darkened hair back and checked the result.
+
+A senior student. Tall, broad, perhaps a year or two older than the norm, but not enough to draw attention.
+
+Good enough.
+
+The Academy Voice had its offices, if you could call them that, in the humanities wing of the Academy's eastern complex.
+
+The humanities wing was the quietest part of the campus. The Academy existed to produce mages, and mages studied magical theory, elemental architecture, runic engineering — disciplines that demanded laboratories and ritual halls and expensive equipment. The humanities wing got what was left. Narrow corridors, old classrooms with cracked walls, and institutional neglect.
+
+I found the room on the second floor. A converted classroom with the desks pushed against the walls and a long table in the center, stacked with proof sheets, ink bottles, and the iron frame of a hand press that looked older than the building.
+
+Three students were inside. Two at the table, arguing over a layout. One in the corner, eating an apple and reading.
+
+None of them was Emil Voss.
+
+I'd checked the Academy's student registry before coming. Emil Voss, third-year, Department of Imperial History. The description I had gotten was a narrow face, light brown hair and wire spectacles.
+
+I took a seat in the corner with a borrowed textbook open on my knee and watched the room.
+
+Students came and went. The two at the table finished their argument, packed their layouts into a leather folder, and left. The apple-eater finished his apple, dropped the core into a waste bin, and followed.
+
+At a quarter past two, Emil Voss walked in alone.
+
+He matched the description. The spectacles sat low on his nose. He carried a satchel over one shoulder and a sheaf of proof pages in his free hand.
+
+He went to the table, set the pages down, and began sorting them into stacks.
+
+I gave him two minutes to settle. Then I stood, tucked the textbook under my arm, and walked through the door.
+
+I made myself smaller as I entered. Steps shorter, slightly uneven, the gait of someone who spent too much time at a desk and not enough on his feet. "Excuse me," I said. "Are you Emil Voss?"
+
+He looked up. His eyes ran over me, checking for the relevant information, discarding the rest.
+
+"Who's asking?"
+
+"Friedrich." The name came out with the right amount of uncertainty. "Friedrich Kleist. Third-year. A — a friend of mine said I should talk to you."
+
+"About what?" He didn't stop sorting.
+
+I let my gaze drop to the table, then back to his face. I fidgeted with the textbook edge, a man working up the courage to say something he'd been thinking about for a long time.
+
+"He said you might be able to open my eyes," I said. "To how things really are." A pause, carefully measured. "He said there's a group. People who understand. People who see what needs to change."
+
+Emil Voss did not look surprised.
+
+He did not look alarmed.
+
+He looked, if anything, mildly pleased.
+
+This happens to him regularly, I realized. People come to this room and say these words, and he has a response ready.
+
+He set down the proof pages.
+
+"Your friend has good ideas," he said. "But understanding doesn't come from conversation. It comes from study."
+
+He reached into his satchel and pulled out a small book.
+
+It was slim. Palm-sized. The cover was plain — dark cloth binding, no ornamentation, no publisher's mark. On the front, in small pressed lettering:
+
+THE ELEGY OF OUR SOCIETY
+
+No author.
+
+"Read this," Emil said. He held the book out. "When you've finished, and when you've understood what it says, come back."
+
+I took it. The binding was warm from his satchel.
+
+"Thank you," I said. I let the relief show on my face.
+
+Emil nodded. Already turning back to his pages. I left the room without looking back.
+
+I read it in two hours.
+
+It was worse than what I'd expected.
+
+The language was careful. Measured. The voice of a scholar, someone who had taken the time to build an argument rather than shout a slogan. The prose was clean and calm and reasonable, and the thing it argued for was the slow, voluntary surrender of the human species.
+
+The central thesis was simple: humanity had no inherent right to dominance. The portals had brought eleven civilizations to Earth. Each had come from a dying world. Each had acted as any desperate population acts — seized territory, fought for survival, established itself in the only soil available. The book framed the Eleven Sins not as invaders but as refugees, and humanity's seven-hundred-year resistance not as defense but as aggression against beings who had nowhere else to go.
+
+All in the name of peace, the text repeated. The phrase appeared seventeen times. I counted.
+
+Peace above all.
+
+The book argued that scholars — the educated, the clear-eyed, the ones capable of seeing past tribal loyalty and national mythology — had a duty to dismantle the old order. The old order was built on the lie that humanity owned the world. The new order would be built on the truth that the world was shared, and that sharing required sacrifice, and that sacrifice began with the comfortable.
+
+Peace above all.
+
+I set the book down and stared at the ceiling.
+
+The philosophy wasn't new. I'd heard echoes of it in Viktor's mouth, in the final minutes before his head left his shoulders. But Viktor had been the blade. Someone else was the hand.
+
+Someone had written it. Someone had printed it. Someone was distributing it through a campus newspaper's back channels to students and sympathizers and men like Viktor.
+
+The final chapter was different.
+
+The prose shifted. The scholarly voice gave way to something warmer, more intimate, as though the author had leaned across a table and dropped his voice.
+
+For those who understand, it read, There is a key. A door to the new world stands open for those with the clarity to walk through it. But the door requires a signal. A willingness. A declaration that you have read, understood, and chosen.
+
+Wait for your call. When it comes, enter with the password.
+
+I turned to the newspaper.
+
+I applied the cipher.
+
+First word, first line. Second word, second line. Third word, third line. The same pattern Viktor had used to decode the address of his target. The decoded message assembled itself word by word.
+
+Wait for your call and repeat: Peace above humans.

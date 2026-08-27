@@ -1,0 +1,119 @@
+---
+id: b9ed7188-0863-540e-bd61-21fb8632e3f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85"
+slug: 0085-chapter-85
+partOf: savage-divinity
+position: 85
+ownLength: 3954
+unit: words
+publishedAt: 2016-06-24
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/77940/chapter-85"
+royalRoadId: "77940"
+---
+
+Leaping back, Akanai defended herself against Du Min Gyu's attack, a solid pane of wind crashing into her forearms, sending her backwards, her boots digging a furrow through the dirt. After days of tracking down Defiled without rest, fighting multiple skirmishes and the mental strain of tying loose ends, she was too exhausted for these foolish games, but still she had played them well. How had things fallen apart so quickly? A single demand for Li Song, and now chaos reigned around them. Sending a message to her Sentinels, she instructed them to kill no one and fight bare handed, unless their opponents drew first. It put her warriors at risk, but better lose a few Sentinels than to have all of them sanctioned for execution, the penalty for infighting while Martial Law still stood.
+
+Gathering herself, she quickly glanced about, her opponent content to wait, confident in his strength as he had reason to be. It was no wonder how arrogant Kai had been, with this powerhouse as his Mentor, the cold chill of shrieking wind whistling past her to converge around him as he readied himself for a powerful strike. Her senses screamed of danger as he stood there, one hand behind his back, the other held forward, inviting her to attack.
+
+She spotted her daughter, well back with weapons in hand, watching with open eyes, while the girl who was at the center of this issue had her back turned, slowly strolling to Mila's side without a care in the world, the chess set still clutched to her chest. Alsantset was deep in the fray, matched up against the slave guard named Kyung who was handling the fierce girl with surprising ease. Nearby, Dagen laughed maniacally as he held a guard's neck in each hand, their legs kicking in the air. He had only been released from the healer's tents this morning with a stern warning to take things slow, but it seemed he was bound to return once more as a third guard approached and began pummeling him in the ribs, causing him to drop both guards and fall to his knees, covering himself from the rain of blows that ensued.
+
+All around, brawls broke out, more Sentinel's approaching to even up the numbers. Akanai had brought her best, but these twenty odd guards were elites, at the very least a match for her Sentinel's, even after she had knocked a few of them around. Say what you will about Du Min Gyu, but the man knew how to raise a warrior. Several Sentinels were quickly removed from action, but some of the guards were defeated as well, a crowd growing around them as soldiers cheered and made bets, roars of appreciation sounding for impressive displays of martial might, many eyes upon her, waiting for her next move. A match between experts was something not often seen, and the hunger in their eyes was clear.
+
+An impact jolted her from her thoughts, a long ranged strike from Du Min Gyu who stood tall, no longer hunched and limping, his patience at an end. Mila had described him as frail and doddering, that he had stared at nothing for hours and she worried for his mind, but this tough bastard was nothing like that. A menacing air swirled around him as he stood ready for her attack, his sharp gaze enough to fill her with caution. Unable to restrain herself any longer, Akanai darted forward with glee to test his skills.
+
+Meeting her charge, the two of them began a furious exchange as they met, Akanai throwing punches and kicks without pause, relying on her speed to move past his defenses, but it was as if he were paper, floating about the wind, sometimes slowly, other times speeding along. His palm swatted aside her attacks as if they were flies, the stinging impact reverberating down to her bones, numbing her limbs. For every five strikes she threw, he would counterattack with one, keeping to that ratio no matter if she attacked quickly or slowly, a smirk upon his face as he toyed with her one-handed.
+
+A forceful impact landed on her raised forearms and her feet slid back almost three meters, gouging up what little grass remained before she could catch herself and step back. Wiping a small trail of blood from her chin, she glared at her opponent, who gave her a dismissive look as he proudly stood with one hand still behind his back. Power, speed, technique, this man was a formidable opponent, but she had yet to reveal all of her cards. At the very least, she would make him use both hands.
+
+Circulating her chi, she Strengthened her body and clapped once, taking her stance, both fists held in front, Bull Form, Twin Horns. Moving forward, she struck out with both fists, aimed at shoulder and hip, only one of which was intercepted, her left hand impacting on his shoulder, rocking him aside. A second double fisted strike earned her a glancing blow on the chest, and with a third, he finally swallowed his arrogance and met her with both hands, only to fall for a feint for which he received a forceful headbutt from her. His nose bleeding, he stumbled backwards, a furious scowl upon his face. She grinned at him, lifting her hand up and beckoning him to approach, mirroring his earlier challenge.
+
+They met once again, exchanging furious blows as they circled about the incense pot and offerings, Du Min Gyu no longer playful, his attacks varied and without break. Not only did she need to block his two hands and two feet, but she also needed to be wary of his attacks with solid wind, more than one striking her about the armor, rocking her back repeatedly as her attentions were focused elsewhere. Were he truly trying to kill her it would be difficult to escape unharmed, but the same could be said if she were to truly attempt to kill him. They both knew the risks, but their fighting spirit had been ignited, and there was no turning back.
+
+Delivering a powerful front kick, Akanai sent her opponent sailing gracefully through the air as if riding a stream of wind, landing lightly a few meters back. Their furious exchange paused as he took his stance, settling into a defensive posture, his two arms waving in a hypnotic pattern in front of him, the howling of the wind disappearing as the sound moved beyond the range of natural hearing, the visible whirlwind of dust still encircling his feet.
+
+Drawing her right arm back to her hip, her left arm forward, she moved, Balance on Windy Leaf into Pierce the Horizon, her favored attack in duels. Her right hand crashed into his deflecting palms and the impact exploded past his defenses, the dirt exploding upwards around them as he directed the force away from him. Had she not protected her ears with a layering of chi, her eardrums would have ruptured at the thunderous claps that followed, one from her movement, the other from their impact.
+
+The two of them stood there, her arm fully extended, his hands blocking her fingers pressed against his chest, the dust settling around them, both of them breathing heavily as they blinked the grit out of their eyes, well matched in this test of strength. His smile mirrored her own, a rare thing to meet an opponent so close in strength, especially at their advanced ages.
+
+“Halt!” The booming voice startled her out of her thoughts and she quickly withdrew, turning towards the sound as the enforcers shoved their way through the crowd, the Justicar marching forward with his Token of Authority held high, the onlookers backing away and saluting once they noticed. Many of the soldiers went as far as lowering their heads to be below the token. The Justicar's featureless iron mask prominently displayed his brown eyes, narrowed in fury as he approached them, and she saluted as well, Du Min Gyu flicking his sleeves and doing the same, a beat behind. Already, he had resumed their games of dominance, even with the threat of execution so close. Childish and insufferable man.
+
+Stopping in front of them, the Justicar spoke once more. “Kneel before the authority of the Emperor.” Inwardly grumbling, she dropped to her knees, her head bowed and hands clasped in her lap. Bothersome. “Two Lieutenant Generals dueling to the death in the field, with Martial Law still in effect! Foolish and irresponsible, especially with the state of the Empire. Our very survival at stake and our esteemed warriors are at each others throats. Disgraceful.” The voice of the Justicar was harsh and condemning, muffled by his mask. “It is with regret that I judge you both in contempt of Martial Law, for which the penalty is slavery or death for all involved parties.”
+
+A choked cry sounded from the crowd, little Mila sobbing at his words, and Akanai fought the urge to rush over and comfort her, but she remained kneeling. The Justicar would allow some escape, as he had said, to execute two Lieutenant Generals in wartime was the height of stupidity.
+
+The Justicar continued to speak and she used this time to circulate her chi, dispelling the tensions in her muscles and the minor internal injuries caused by the palm strikes. “In the case that you both choose death, and given that your strength is still required to defend the Empire, the instigator will be executed today while the other party will be given a stay of execution until Martial law is rescinded and command has been relieved. Which one of you was the instigating party? I will require an oath to the heavens from both of you to confirm.”
+
+This was better than she could expect. Most often, a Justicar would favor the Imperial Army, but here, he had stated the consequences without knowing which side had initiated the brawl. Now, she only needed to open her mouth and condemn Du Min Gyu to death. In the morning, she would send notice to Shen Huo and withdraw her Sentinel's home, evading her future execution. It would be far too costly for the Empire to send soldiers to execute her, and all that her people would suffer was a trade embargo, a simple enough nuisance to avoid.
+
+A swirling vortex of wind began to form beside her, and she glanced at Du Min Gyu, her eyes wide in disbelief. Was he going to kill the Justicar? Foolish idiot, that would see them all dead in a week! Coughing loudly, she hurriedly spoke as politely as possible, praying to the Mother that this fool would hold his attack. “This servant of the Emperor would ask to speak and offer defense of her actions.”
+
+“Speak, but know that I have little patience for excuses.”
+
+“I believe that there has been a misunderstanding. This was no duel.” The gathering of wind slowed at her words, and she quickly continued. “Lieutenant General Du Min Gyu and I were simply sparring, a test of our skills. It is rare for us to meet another Martial Warrior so well matched and we simply could not allow the opportunity to pass us by, despite the circumstances.” If only she could do a Sending, but she was not familiar enough with the man's aura, and any communication would not go unnoticed by the Justicar.
+
+Tense, silent seconds passed as the Justicar stood before her kneeling form, deliberating her words as she stared at his boots, praying to the Mother that he accept her explanation, that he would be willing to overlook the obvious lie to save two Lieutenant Generals. If not, then she faced immediate execution, the penalty for perjury. Finally, the hollow, tired voice of the Justicar asked, “Lieutenant General Du Min Gyu, have you anything to say?”
+
+“If I wanted her dead, I would have a weapon in my hand you blind, ignorant fool.” Incredible. The cantankerous bastard lost none of his arrogance, even when kneeling with his head bowed before a Justicar, the threat of death hanging above his head. “Go back to your stinking tent, you motherless dog of an ink-stained paper pusher. You interrupted us at the peak of our match."
+
+The Justicar seemed at an impasse as he stood stock still before them, until he uttered a sound: a short, simple chuckle. Letting out a sigh, he spoke once more. “I repeal my earlier Judgment, it seems I was too hasty in my decision. An oath from both of you that there will be no blood shed between your two parties until Martial Law is rescinded.” Akanai quickly drew her dagger and made an Oath, as her opponent lifted his head and glared daggers at the Justicar, matching stares for almost a minute before he grudgingly made his oath, swearing under his breath as the blood dripped from his forearm. Satisfied with the outcome, the Justicar turned on his heels and marched away, leaving as quickly as he had arrived.
+
+As soon as he was gone, Akanai was ambushed by Mila who ran into her arms. Still kneeling, Akanai embraced her crying daughter, patting her on the head as she whispered soothingly. After calming down, Mila wiped her eyes and scolded, “That was foolish, Mama. What if he had demanded an oath to learn the truth? You should have just let him execute this stupid old man.”
+
+“Hush now daughter, I have enough problems without your mouth adding to them.” Another embrace to take the sting from her words, she Sent the true reason, cautioning her to keep silent. Standing up, she stretched and turned to speak to Du Min Gyu, but he had already shuffled away, hunched over and limping, appearing every bit like a harmless codger, demanding to his slaves for a table and some tea. Sighing to herself, she turned to Mila. “Come with me and bring Li Song, we still need to clear things up with him.”
+
+Walking gingerly towards the seated man, her injuries beginning to register, Akanai waited patiently as the slave guards set up a small table and two chairs in front of the incense pot. Taking her seat, she sent Mila and Li Song off to one side in case Min Gyu exploded into violence once more, and poured herself a cup of tea, leaving his cup empty. She rather enjoyed these nonverbal exchanges, not as much as true combat, but the small spasms of annoyance in his face amused her, his expression neutral as he sat with one elbow on the table, facing the incense on her left.
+
+Sipping her tea once, making no signs of enjoyment, she sat in comfortable silence as he patted his robes, coming up with a broken pipe, his face forlorn and slack, playing at being a doddering fool. “Kyung! My spare pipe.” A small victory, he had spoken, albeit not to her. Already she held a position of power, having saved his life and he knew it, unable to face her, deflecting and turned to the side. He fiddled with his pipe and soon puffed away contentedly, the sweet scent of Dream Smoke rising from his pipe. An addictive substance, used to numb pain in the elderly, she felt a twinge of pity for the human warrior. So powerful, but near the end of his natural life, it was a shame.
+
+She waited patiently for him to gather his thoughts and speak, and after a short time, he stood and changed the incense, before sitting back down without another word. Twice more this occurred, the time passing quickly as she continued to heal her injuries. No major injuries, but it could easily have gone badly. His attacks had all landed on her thick armor, likely deliberately pushing her to attack him, so that he could place all blame on her. A wily bastard.
+
+Her ears perked up as she listened to Mila's whispers to Song. “So, that guard Kyung is your brother? Why didn't you say anything earlier? I didn't even realize you knew the old man.” That Mila referred to him as an 'old man' made Akanai cringe a little. He was barely over 100 years old from the looks of things, hardly old.
+
+“Sorry Master, this slave has failed you, she did not think.” Her words were often repeated in her monotone voice, but at least she was not trying to slap herself anymore. “Teacher Du purchased me and instructed me for several years before gifting me to old Master. According to the merchant who sold me, I am descended from the same maternal lineage as Boss Kyung.”
+
+Interesting. Akanai had been impressed with Song's strength, as well as the strength of Min Gyu's other slaves. A shame he was such a prickly bastard. “That's wonderful! You should go talk to him, catch up. I'm sure you missed him. Were you two close?”
+
+Suddenly turning towards them and spitting into the grass, Du Min Gyu made a sound of disgust. “Foolish child. Stop trying to ruin my disciple's slave, putting nonsense of games and family in her head. She is a tool, a weapon, not a toy for little girls to make friends with. I demand that you return her chain to me. Was my disciple's corpse even cold before you lifted it from him? Disgraceful!” His aura surrounded Mila, his words infused with his chi, menacing her with his Killing Intent, and Akanai almost leaned forward to rip out his throat before calming herself. It was only a minor threat, nothing Mila could not handle.
+
+She watched proudly as Mila circulated her chi and smashed through the Intent, her eyes wide with indignation as she talked back, “I didn't take anything from his corpse you stupid old man, she was given to us by the Society as part of the reparations for troubles we met due to match fixing, carried out by your disciple's brother. It was a legal seizure and exchange and if you have issue, then you can take it up with the Society.”
+
+“Daughter, this man is a Lieutenant General, and will be spoken to with respect.” Akanai's voice was calm, with little fire in the reprimand, but the last thing she wanted was for someone to aggravate him. With an Oath made, it would make things difficult to settle. “And you, Du Min Gyu, will not assault my daughter again.” This time, the threat was clear. Some things were just not done.
+
+“Hmph. So, the little aide is your daughter.” He paused a little, his mind in reflection before looking at Mila once more. “You will swear to the validity of your words?”
+
+“The Justicar can demand oaths, you can eat ...” Akanai caught her eye, and Mila swallowed her next words, grumbling beneath her breath. Something would need to be done about her language, Rain and Adujan had so sullied her precious daughter with their foul talk.
+
+After a few minutes of silence, punctuated only by the tapping of the pipe, Du Min Gyu spoke to Akanai once again. “Well trained for her age, foul mouthed, but impressive. A good daughter you have raised.”
+
+Nodding in agreement, Akanai returned with a compliment. “Any relation to Colonel Du Kang Bing?”
+
+“Grandson of a second cousin. Owed the cousin a favor and took the boy in as a student after it became known that I was teaching. Teach one, teach ten, teach a hundred, no difference in everyone's eyes but the teacher. Bothersome.”
+
+“Good soldier, gave him my commendations. He's northeast of us, at one of the side fortresses. Had to leave him behind to stand guard, cavalry is no good in these forests.” They both lapsed into silence once more and Akanai had to fight the urge to tap her fingers as she waited for Min Gyu to empty his pipe of ashes, before once again lighting new sticks of incense.
+
+Once he was seated again, he held out his hand to Mila. “Hand me the slave's chain. If she corroborates your story, she will be returned to you immediately and the matter dropped. I will leave in six days after observing the proper funeral rituals.” He sighed, as if he were making some great concession.
+
+“Li Song is my friend and I won't give her back to you animals. Tell him Mama.”
+
+Sitting quietly, Akanai thought his proposition through. “And the matter of your Disciple's death?”
+
+“Not your fault. War took his life, but he was a soldier. Lost my temper at seeing the slave.” That seemed to be the closest thing to an apology that his pride would allow, and Akanai turned to Li Song, studying the timid little girl, her ears plastered against her skull.
+
+This would be the best outcome, neither friend nor enemy of Du Min Gyu, and it would be foolish not to try. “Li Song, are you willing? If not, then say so and I will defend you with my life.”
+
+Song continued to sit there, gnawing on her lip as she stared at the ground. “This slave is to be given to Teacher Du?”
+
+“Only for questioning, and then you will be returned to Mila.” Akanai tried to sound gentle, but it came out tired. The girl simply nodded, and after a glance, Mila moved forward, holding hands with Song as she handed over the necklace to Du Min Gyu, who began to question Li Song, a grimace on his face as he listened to her recite her version of events, beginning with their first meeting in the restaurant and ending with her delivery to Alsantset at the Society Headquarters.
+
+The rendition finished, he sat in his seat, slouched and angry, his hand tapping against the table. “This boy, Rain. I would like to meet him.” His eyes promised violence should they meet, and Akanai tried to come up with an excuse.
+
+“Teacher Du has already met him.” Song answered without pause before Akanai could interject. “He guided you to Senior Captain Alsantset this morning.”
+
+“... The one armed child?” Du Min Gyu seemed in shock for a moment, before scowling and unceremoniously throwing the necklace back to Mila. He took a deep breath as if about to erupt, but he held his words in and sighed sadly. “Foolish disciple, feuding with a child. Teach that one some proper manners or keep him away from civilized folk.” Chuckling, he looked Akanai in the eye. “I spent twenty minutes with him and he almost insulted me as well.” Turning back to the incense burner, he waved her away, effectively dismissing her.
+
+Unable to simply leave at his behest, Akanai slowly sipped her cup of tea, helping herself to a second cup and drinking that slowly as well, before she finally stood and left with Mila and Li Song. As soon as they were out of sight, she let out a long sigh. She could only hope that Du Min Gyu kept to his word, he was a difficult opponent out here, with only twenty guards. A stubborn, obstinate man with little to lose, she worried that he would attack regardless of the circumstances. It seemed that she would have to send Alsantset to deal with the Defiled, while Du Min Gyu remained, she could not leave the camp. The man was insane enough to contemplate assaulting a Justicar, he was unstable.
+
+Exhausted, she shuffled off to her tent, annoyed that she would have to listen to his advice. Rain would truly need to learn some manners or be kept home. She simply could not afford more enemies, especially not of this caliber.
+
+Truly bothersome.

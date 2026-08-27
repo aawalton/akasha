@@ -1,0 +1,181 @@
+---
+id: 41b258f9-0e68-5fbc-90c9-27a2b18b0458
+page-type-slug: story-chapter-royal-road
+title: "Chapter 625: We Have Time"
+slug: 0047-chapter-625-we-have-time
+partOf: system-change-system-universe
+position: 47
+ownLength: 2103
+unit: words
+ownProgress: 2103
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2992982/chapter-625-we-have-time"
+royalRoadId: "2992982"
+markedReadAt: "2026-06-29T19:58:14.364Z"
+---
+
+Chapter 625: We Have Time
+
+Derek gave another quick check of his surroundings to make sure that everything was still going fine while he was dealing with all his notifications. After seeing that everyone was okay and that there still weren’t any monster or people problems, he moved on to his next notification.
+
+…
+
+System Traveler II: Few in the System Universe have ever ventured outside their starting system. Even fewer have ventured to multiple. For doing so, you will receive a two percent stat boost for each system visited other than your original. Current number of non-original systems visited: 2. Current stat boost: 4%.
+
+Invasion MVP Activated…Stat Boost Has Been Increased…Current Stat Boost: 6%
+
+…
+
+That’s… my new favorite Title, Derek thought. It wasn’t much, but he could feel that as soon as he opened the notification and unlocked the Title, he’d gotten a little stronger. His muscles tightened ever so slightly, then relaxed, and he felt his mana’s flow change just a bit before stabilizing. Yeah… it’s a pretty good Title…
+
+From everything he’d learned, percentage boost Achievements and Titles were extremely rare, and the reason he even had any to begin with was that he was part of a system integration on Earth. He didn’t know how many systems were in the universe, but he knew that he would eventually be visiting the one that Alanah had gone to.
+
+It also seemed that his Invasion MVP boost had upped the percentage per system by one, so that new Title was working overtime, too. Actually… maybe Invasion MVP is my new favorite Title, he thought. Let’s see if it does anything to this Tierbreaker Title.
+
+…
+
+Tierbreaker: In the entire System Universe, very few…
+
+Error…Multiple New Tierbreakers Detected…Adjusting Title…Title Adjusted…
+
+Tierbreaker: In the entire System Universe, few users have ever skipped a system tier. By doing so, you will receive a onetime permanent stat boost of three percent or 500 stat points—whichever is higher.
+
+Invasion MVP Activated…Stat Boost Increased…Permanent Stat Boost: 5%Free Stat Points: 750
+
+Calculating Stat Boost…Stat Boost: 540
+
+Free Stat Points Received…
+
+…
+
+Derek stared at the Title, then at the errors. Have I ever seen an error happen on a Title or Achievement? What exactly… he started, then he looked around at all the people he brought with him—people who went straight from the Universal System V3 or Davenresh System to the Origin System. It’s no wonder Edgar is standing over there, staring into space with that grin on his face.
+
+“Edgar!” Derek shouted at the daydreaming man.
+
+“Huh?” Edgar whipped his head to Derek. “Yeah?”
+
+“Did you just get 500 stat points?” he asked.
+
+“Maybe…” Edgar’s smile grew bigger. “Yes… Yes, I did. I am a Tierbreaker. Sounds cool, doesn’t it?”
+
+“But are you a System Traveler II?” Derek asked.
+
+“No…” Edgar replied. “But I am a System Traveler I.”
+
+“I’m a System Traveler II,” Jace heard their conversation and cut in. “I’m sure Amelia is too.”
+
+“Damn…” Derek muttered. “If I’d known, I would have taken each of you individually to the Universal System V3 before we left.”
+
+“It’s fine,” Edgar said. “It’s more than fine. We have like… 750 new levels to gain. Imagine the boost that just my two percent increase is going to end up giving me by the end. And if I can upgrade my class rarity at some point and get the extra stat points offered from each level there… it will add up.”
+
+“And… actually… it’s not like there’s no chance that we can’t increase that percentage, either,” Jace cut in again. He walked over and slapped Derek on the back. “My best friend here is going to grow big and strong… and be the best taxi to other systems that his friends could ask for… aren’t you?”
+
+“I…” Derek muttered. “How the hell did you beat me to that conclusion?” he asked Jace.
+
+“It’s about growing stronger… the stronger we get… the stronger the opponents we can fight. And I’m from Earth… don’t we always look for exploits? I know I sure as hell do.”
+
+“Uh… that… yeah… I guess that’s true,” Derek said. The way Jace built his Battlelust up before entering the big fights could technically be considered an exploit. I’m probably the biggest exploiter… no… I didn’t know what I was doing… I’m a bug… not an exploit. Derek chuckled.
+
+“What?” Jace asked.
+
+“I was thinking that I was a bug, not an exploiter…”
+
+“You are,” Jace said. “But you are also an exploiter, too. You just brought a bunch of people on your ascension, and they are all receiving quite powerful Titles and rewards. You are a big, big cheater…”
+
+Derek shrugged. He honestly didn’t have anything to say to that. Jace wasn’t wrong… at all. Combining his Time Prison with his ascension was certainly an exploit. But it was certainly something the Origin System could have stopped if it had wanted to. But why would it? It governs countless system users… if it’s sapient… or even both sapient and sentient… then it would probably enjoy seeing something new or interesting happen… so why would it stop it?
+
+“Well… I guess when I get my travel skill really figured out… then there’s at least one other system that I may be able to take you all to,” Derek said. “I guess ascending has its perks.” After that, Derek moved on to the final Title that was waiting for him.
+
+…
+
+Unity: Congratulations! You have reached full unity with your bonded companion at the earliest possible level and outside the Origin System. For doing so, you may choose to keep the bond as it is, or allow the Origin System to induct your bonded companion into the system as a full system user. If the bond is initiated into the Origin System as a full system user, the bond will begin life as a full system user with current status.
+
+Release [Silvi Hunt] from her bond and initiate her as a full system user?
+
+Invasion MVP Activated…Error… Error…No detected bonus to increase…Creating new bonus based on user and bond…
+
+You may choose to defer rewards until another time.Defer rewards?
+
+…
+
+Derek’s eyes narrowed. The ‘bonus’ was too specific to what he was thinking. Even with all Dave had told him and all he and Silvi had discussed, he still hesitated to sever the bond. It was nice knowing that Dave had been right in the fact that Silvi wouldn’t lose anything at all by the severing, and that she would actually gain something. However, the main thing Derek was concerned about for the time being was the fact that, as his bond, she didn’t count as a guest for the guest pass to Origin City.
+
+If he chose to sever the bond and she integrated as a full system user, then she would be taking up one of his spots. It wasn’t terrible because Jace wouldn’t be going, but that left him with nine spots taken, and he was thinking about using one on Amelia, depending on how things played out as they traveled there. Or Alanah, he thought, but he just had no idea when he would be able to bring her back.
+
+And all this was why his Invasion MVP Title giving him the extra option to defer, was so tailored to him. He was probably being a bit arrogant, but he believed that within the ten years given to him by the guest pass, he would be able to earn enough of a reputation with the Origin System that Dave had been talking about to maybe bring his own people in under his own name, and not Dave’s.
+
+He would say he wasn’t one to put off big decisions like this… but who was he kidding? He was one to do things when they were most convenient for him, and severing the bond just wasn’t convenient yet. However, having the Title in his back pocket to use to sever it was a load off his chest since Dave was pretty insistent that Silvi have the bond removed so she could grow, and he wasn’t exactly sure what the best way to do it would be. This solved that problem.
+
+“But…” he said. “Silvi,” he said, then almost instantly, a light pressure landed on his shoulder.
+
+“Huh?” Silvi asked.
+
+“We got a Title that allows us to remove the bond and turn you into a full system user. That means you keep your current status, which may even include the shared skills, but I’m not sure. So, you won’t lose anything, and you can start growing your void cooking affinity. What do you think?” he asked. Honestly, he would leave the decision to her. She deserved to make it, at least in his opinion.
+
+“At any time?” she finally asked after a minute.
+
+“Yes, at any time. It doesn’t have to be instant,” Derek replied.
+
+“We wait,” Silvi answered. “At least until we’re away from this empty place.”
+
+“That’s what I was thinking, too,” Derek said. “It might change things, and I would rather know exactly how our bond and stuff works while we are at this potentially dangerous place. And you won’t take a spot on the guest pass for Origin City if you are bonded to me.”
+
+“Nice elf man is really old,” Silvi said. “We have time.”
+
+“We do… don’t we? I bet that in the grand scheme of things, a month… or even a year or two won’t matter too much.” Derek grinned wide at his companion’s thoughtfulness. “It’s great that we see it the same. You can go back to whatever you were doing.”
+
+“Talking to tiny potion man,” Silvi said, then her weight disappeared from Derek’s shoulder.
+
+Derek snorted and then moved to the next notification.
+
+…
+
+Five or More Resistance Skills Have Reached Saturation: Earth Resistance, Fire Resistance, Holy Resistance, Ice Resistance, Magic Resistance, Mental Resistance, Physical Resistance, Water Resistance, Wind Resistance
+
+Combining Skills…
+
+New Skill: Resist All
+
+Resist All: A passive skill that grants the user 1% resistance to all types of damage for each fully saturated resistance skill added, up to 10%. Current Resistances Included: Earth, Fire, Holy, Ice, Magic, Mental, Physical, Water, Wind.
+
+Note: User retains all resistances from included skills.
+
+…
+
+At first, Derek was scared after seeing all the resistances combine, but when he read the note at the end, he let out a sigh of relief. It basically meant that all of his max-level resistance skills were now technically sitting at 39%. After that, he moved to the next notification.
+
+…
+
+Congratulations!
+
+For your contributions during a system invasion scenario, you have been rewarded with 1.25 million Origin System Store Credits.
+
+…
+
+Derek waited for the Invasion MVP Title to increase his rewards, then nearly facepalmed when he realized he wasn’t getting a reward from a Title, so it wouldn’t work. I wonder exactly how much 1.25 million store credits will get me. Surely it’s a decent chunk. Finally, Derek moved on to what he had been waiting to see, which was his new status. When he pulled it up, it was overwhelming with options.
+
+Edgar said that there was customization… but… wow. He took about five minutes to sort things out and set it up in a way that looked good to him, then he went over everything.
+
+…
+
+Personal Information [-]
+
+Name: Derek HuntAge: UnknownLevel: 251Essence: <1% [-]     56,250,000,000/20,500,000,000,000Affinity: Void [-]     Void Affinity: 63%Class: Mythical Void MonarchRace: Void Human
+
+Health: 47,700Mana: 44,900Stamina: 47,700
+
+Strength: 1,774Dexterity: 1,749Endurance: 1,908Vitality: 1,908Intelligence: 1,802Wisdom: 1,796
+
+Free Stat Points: 1,289Origin Upgrade Points: 8Skill Upgrade Token: 1Origin System Store Credits: 1,250,000
+
+Skills: [-]
+
+[Absolute Nullify(B) Progression: 100%, Upgrade Possible][Bare Fist Specialty(D) Progression: 21%][Basic Repair(E) Progression: 42%][Chain Lightning(D) Progression: 100%, Upgrade Unavailable] [Channel Void(C) Progression: 100%, Upgrade Possible][Cleaning(E) Progression: 85%][Cure Toxin(D) Progression: 90%][Dismantle(E) Progression: 100%, Upgrade Unavailable][Enhanced Movement Speed(E) Progression: 25%][Greater Meditation(B) Progression: 82% ][Identify(D) Progression: 100%, Upgrade Available][Multi-Strike(D) Progression: 100%, Upgrade Unavailable][Polearm Specialty(E) Progression: 17%][Powerstride(D) Progression: 58%][Rejuvenation(D) Progression: 100%, Upgrade Unavailable][Resist All(A) [-]]     Earth, Fire, Holy, Ice, Magic, Mental, Physical, Water, Wind[Spatial Collapse(C) Progression: 50%][Spatial Redirection(C) Progression: 30%][Spatial Rend(B) Progression: 49%][Sweeping Slash(D) Progression: 100%, Upgrade Possible][Telepathy(D) Progression: 60%][Time Prison (C) Progression: 100%, Upgrade Possible][Void Call(B) Progression: 61%][Void Creation(A) Progression: 1%][Void Eclipse(A) Progression: 1%][Void Sense(C) Progression: 100%, Upgrade Possible][Void Shift(B) Progression: 82%][Void Steps(C) Progression: 100%, Upgrade Possible][Void Storage(B) Progression: 1%] [Void Travel(S) Progression: 1%][Whirlwind Slash(D) Progression: 63%]
+
+Titles: [-]
+
+Absolute Saturation Apex Appetite IDungeon Explorer IDungeon Traveler IEnforcer of Oaths IEnigma IEvolutionExplorer IGiant Slayer IVMythicalRepetitive Dungeoneer VThe Bigger They Are IThe ImpossibleTierbreakerUnityUnknown Slayer IWorld Boss I
+
+…
+
+“Wow…” he muttered. “That… is a lot to go over.”

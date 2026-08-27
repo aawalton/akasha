@@ -1,0 +1,111 @@
+---
+id: 2aeeff4a-40b7-5c84-a184-92e88a8f457b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 98"
+slug: 0098-chapter-98
+partOf: savage-divinity
+position: 98
+ownLength: 3845
+unit: words
+publishedAt: 2016-07-25
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/83506/chapter-98"
+royalRoadId: "83506"
+---
+
+“Evening, Rain.” Mila's chipper voice rings out from above me, from the top of my poorly dug pit. Staring up at her happy grin, I resist the urge to leap up and drag her into this pit, inwardly dreading her next words. “What are you doing down there?”
+
+Pausing in my work, I let out a slow sigh, unable to keep her question from bothering me. “I am digging a latrine with a spoon, because I cannot be trusted with anything more dangerous.” The reply is dry and well rehearsed by now, spoken hundreds if not thousands of times within the last two weeks. This has been a shitty month, but at least it's almost over, with tomorrow the start of a new month and full of endless shitty possibilities. Probably more latrine digging.
+
+“Oh, I see you have a new spoon, did your old one break?” Yes, twice in fact, and she knows it. The first time, the handle broke and I was reamed out by Akanai for not taking proper care of my 'issued equipment', sending me back to dig with only the spoon bowl. After that snapped, I almost had a panic attack and kept digging for half a day with the broken pieces, until she returned and reamed me out for being inefficient.
+
+Not bothering to answer, knowing that it will only encourage her teasing, I continue to dig away, one spoonful at a time, eking out yet another latrine, 1.5m deep, 3m long, and 60cm wide. Mila comes by to make jokes every time she needs to use the latrines, which is surprisingly often, something I didn't really need to know. She continues to watch me dig, relentless in her harassment. “Oh, I recognize that spoon, it's made from red sandalwood. It used to be a chair leg, but Papa accidentally broke it one night and Mama was furious. To make it up to her, Papa took the broken remains and carved a whole set of cutlery for Mama. Be careful, it has sentimental value so Mama will be most upset if you break it.”
+
+Staring in disbelief, I look for a sign that Mila is lying, but all I can see is her toothy smile, supportive and encouraging without a hint of deception. Why did Akanai give me such a valuable spoon? Is she looking for another reason to be angry at me? Gingerly returning to my work, I carefully scrape away at the dirt walls, my mouth dry as I do my best not to break the spoon, worrying over what might happen to me should the worst come to pass.
+
+A fit of giggling earns Mila a dirty glare from me, but it only makes her laugh harder, gasping as she collapses to the ground. “The look on your face.” Her words are forced out with difficulty as she mimes my careful scraping. “So gullible!”
+
+Another sigh escapes me as I thump my head against the uneven dirt walls of my handiwork, trying to clear my head. Stupid, should have seen that coming. Between the exhaustion, the terrible smell, my healing, and the pain, I am at the end of my rope and ready to call it quits, which I think is what Akanai wants. I became a Sentinel because I liked the idea of helping and protecting people, but it's hard to care about that anymore. This world sucks, it's full of terrible fucking people who almost make the monsters seem bearable. I can't even give away information that would raise the standard of living, it's so depressing.
+
+Mercifully, Mila leaves me alone after her cruel prank, allowing me to dig in peace. Other Sentinels come by and ask me the same question, and I answer each of them the same way, getting the same stupid laughs and smirks as always, their opinion of me dropping lower by the day. It doesn't really bother me except for the fact that it bothers Alsantset, making me feel ashamed for having been a burden to her ever since she brought me back, but that changes now. From here on out, I'll carry my own burdens, she doesn't need to look after me for much longer.
+
+After a few more hours of mindless digging, Akanai returns from her patrol, inspecting my work and waving me off without a word, allowing me time to bathe before dinner. Not for my benefit, no I've gotten used to the smell, but my odor had been 'upsetting the other diners'. Watching the swimming roosequins isn't enough to put a smile on my face, none of them friendly enough for me to approach and pet without any fruit to offer. Turns out, hunting and killing Defiled for weeks on end turns them into giant furry jerks that make Zabu seem friendly, so I simply hop into the water off to the side, fully clothed since those need washing as well.
+
+Submerging myself, I absently fight the easy current to keep myself from drifting away, my body suspended in the cool, clear water. The sweat and dirt sluices off of my body, refreshing my mind and clearing my thoughts as I float aimlessly, enjoying what little pleasures I can. The quins dart about, uplifting stones and plants as they hunt and play, their sleek forms moving gracefully in the water in a stuttered rhythm, short bursts of speeds and long glides, their powerful back legs moving lazily until in place to propel their bodies forwards. They move along the currents for extra speed, fighting them to catch fish and crustaceans, voracious creatures always looking for more food, watching them fills me with a peaceful sensation, driving out all my other thoughts and worries.
+
+The time during my baths are pretty much all the free time I can get lately, to be alone and without company, something I sorely miss. Solitude is highly underrated, sometimes you just need to be alone, mute out all the outside world and just think about nothing. Unfortunately, my time is limited so I begin removing my clothes, which is much easier now that I have 1.25 hands, my healing almost complete. I seem to have lost a significant amount of muscle memory, my movements from the shoulder down feeling awkward and cumbersome, something that I don't recall from when Taduk healed me, so it seems like my way isn't as amazing as I had hoped, another thing that hasn't worked out too well for me. At least I get to stay tumor free, so I have that going for me, which is nice.
+
+After indifferently scrubbing my clothes and body, I wander back to camp still soaking wet and settle down by the fire, quietly meditating to fix my minor injuries. Maybe I'll catch a cold and be left alone for a while, my wrist, shoulder, and neck are all aflame with tension from the repetitive strain. As easy as it is, lifting a spoon from the ground to eye level a few thousand times is not exactly invigorating or stress free.
+
+Dinner is simple camp fare, filling and nutritious but little else, as not even Alsantset can work her cooking magic with the available ingredients. Finished with my meal, I leave cheerlessly and head for the clearing where my next assignment awaits. The others are already there when I arrive, Tokta sitting quietly to one side while all seven soldiers-turned-sentinels wait patiently for their latest lesson, which will be exactly the same as the others. A barrage of none-too-friendly glares greet me as I enter and I weather them as best I can. I can't really blame them for hating me, since I did inadvertently force them to choose between death and quasi-slavery, and a simple apology just doesn't really cut it in that sort of situation. Even though Mila assured me that it wasn't the same sort of oaths that Song took, I still feel the guilt eating away at me when I lie awake at night, wishing I had just kept my damn mouth shut.
+
+Skipping the greetings, I start my lesson without any fanfare. “Alright, start meditating, focus on the blood in and around your injury, and try to have your body create the panacea in that general area. It's a simple matter of control and direction, same as always. Any new questions?” The emphasis is because they have asked the same ones, over and over, and for the most part, I lack answers. It's there, it's derived from your blood, that's all I know, just do it.
+
+Moving to sit in front of Tokta, I find Balance and continue to regenerate my hand while he observes, his presence an irritation while I cultivate, like a fly that buzzes around your head while you try to concentrate, impossible to ignore. My failure to teach the soldiers is more of life shitting on me, but knowing that Akanai will help them regardless of my failure leaves very little motivation for me to work harder, not to mention I don't really know how to teach them better. It comes easily to me, with just a bit of mental focus, and none of them are proficient enough with inner examination, so ripping teeth out would be useless. Then again, that didn't help Tokta either, and that's made him less than amicable towards me as well, full of gloom and melancholy.
+
+An inhuman scream breaks my concentration and I burst into action, rushing towards Ravil right behind Tokta, both of us working quickly to assess the situation. The bald, dark-skinned blind man starts to tear at his bandages, raving about pain as Tokta grabs his wrists while I lay atop his legs, the two of us trying to keep him from struggling too much and injuring himself. “Stop screaming soldier, talk to me.” Tokta's calm, bored voice cuts through the noise, in control and without worry, but Ravil continues to yell and stammer, unable to speak coherently. “You two, hold his hands steady so I can check him, quickly.” As Pran and Saluk come take his place, Tokta unravels the bandages and looks quickly into the empty sockets, checking for tumorous growths or worse, likely also inspecting him with chi, and I hold my breath in anticipation, praying for good news. I need a win now, so badly.
+
+Long seconds pass as Tokta does his work, calming Ravil and asking questions, and down at his feet, my heartbeat pounds in my ears, obscuring all of his mumbled replies. Finally, Tokta motions for us to leave him be, and I stand up and brush myself off, asking, “So? What's wrong?”
+
+“Nothing, far as I can tell. It seems your lessons have finally borne fruit, his eyes have begun to heal.” Despite the good news, Tokta wears a frown on his face as he studies the pained Ravil, who sits with his hands on his forehead, rocking back and forth as he deals with the pain. “I guess it really is an unconventional healing method, and nothing to do with your Awakening.”
+
+My tiny fragment of pride quickly dissolves into irritation. “That was an option? That I wouldn't be able to teach anyone because it had to do with some bullshit divine inspiration? When were you going to tell me that little nugget of information?”
+
+Still lost in thought, Tokta simply shrugs dismissively, answering absent-mindedly. “We thought it was better for you to try without knowing, we wouldn't have let you waste too much time on this. Remember, you were the one who wanted to teach others, although I was rather hungry for the knowledge as well. This is good news though, if anyone can learn your method, then we should find a more effective teaching method as soon as possible.” He continues to stand in place, lost in thought and ignoring my questions about Awakening, waving me off as if I were a nuisance.
+
+I have no idea how Awakenings work, and at this point, I'm afraid to ask. What if I'm just another failure? Is that why no one bothers to answer me, because they're sparing my feelings? I'm supposed to have some innate knowledge about chi manipulation, but nothing has changed. I can Hone and Guide just like always, but I've made no real progress in Lightening and Amplification. Giving up in exasperation, I wander over to Ravil, who is still trying to deal with the new, agonizing sensations as his eyes regenerate. “Hey, I have a few instructions you need to follow, now that your healing has started.”
+
+At the sound of my voice, his head snaps up and he lunges towards me, held in place by Pran and Saluk, the two of them looking as if they would prefer to just let Ravil assault me instead. Both look like scruffy bandits aside from their prim hairstyles, the front of their heads shaved bald, leaving their filed down horns on display, with a long braid at the back and some hair around the sides, an odd look in my opinion, but common enough for many. After a short struggle, Ravil finally calms himself enough to speak, but he has nothing kind to say to me. “Fuck your grandmother you lying sack of shit, it feels like there are hot coals stuffed behind my eyelids. Not enough to get me forcibly conscripted into your Sentinel bullshit, but now you need to experiment on us too?” He spits at me and I dodge dramatically, his aim impeccable despite the lack of sight.
+
+Swallowing hard, I let go of my sword hilt and struggle to rein in my temper, trying to remember what I came to say. “The pain means that the healing process has begun, so do whatever it is you're doing, the faster you work, the sooner the pain ends. Try to start now, remember the feeling that you had right before the pain began. From here on out, keep your bandages on at all times, unless you are in complete darkness. Eyes are a tricky thing, too much light too soon and you'll end up with broken eyes that see nothing, but don't worry, I sharpened a spoon just for you, we can pop those eyeballs right out and try again.”
+
+I might as well ask for a spoon for my next weapon, at least that would make a few things simpler, wouldn't have to worry about breaking my spoon, at least. Ignoring his muttered curses, I grab his hand and I pour out a few pills into his palm, trying not to think about the lost profits. “Get someone to cut those up for you, take half a pill at night if you have trouble sleeping through the pain. Make sure your tent mate knows, they'll have to carry you around if there's a night attack or something, you won't wake up for at least 6 hours. That's all you get for the next week, make them last.”
+
+My instructions complete, I return back to my spot, sitting down to continue my healing, ignoring the looks around me and fighting off my depression. What should have been a happy success has done nothing to improve my mood. Woo, I was right, I'm holding on to a secret that could get everyone I love killed. Not exactly a happy thing to be right about. I'll just go home after this, quit the Sentinels and never leave again. I can build myself a tiny hut on the outskirts, and just pay someone to bring me stuff, or maybe even live a bit further, like on a cliff overlooking the village. Close, but not too close.
+
+The rest of the lesson wraps up without incident, and I return to my tent without fanfare, exhaustion starting to kick in once again, almost asleep before my head hits the pillow. A quick check on Other me shows that nothing has changed, and I close my eyes and wait for sweet oblivion.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Against her better judgment, Mila carefully stepped into Mama's tent, announcing her own entrance with good cheer. “Hi Mama, we found some chestnuts and roasted them, I thought you'd like some while they're still hot. Song and I already shelled them for you.” And ate more than their fair share, the sweet treats too good to pass up. Only a handful remained and Mila hoped that Mama wouldn't think them too few.
+
+“Oh?” Mama's smirk seemed to see right through her as she waved Mila in, moving some documents from her desk to make room. “Here to try to bribe me into letting your betrothed go free? You shouldn't have gotten so greedy, there are still crumbs on your faces.”
+
+She and Song both wiped their faces, Mila's cheeks turning red at Mama's smile. “No Mama, I just thought we could chat.” Damn it, there were times it seemed that she could read minds, it was uncanny.
+
+“Ah, I see, how sweet of you two.” Her eyes twinkled as she ate a chestnut, smiling from the natural sweetness, a cup of rice wine to go with it, carried in by Song. Taking a slow sip, she made a great show of savoring the taste while dragging out the inevitable, Mila fidgeting in her seat while she waited, knowing that Mama was playing around. It was a favored tactic of hers, remaining silent and reading the situation, letting the object of her attention speak out of fear. “So, what would you like to talk about, oh filial daughter of mine?”
+
+Struggling to find a topic, Mila simply gave up all pretense, driving straight to the matter. “Fine, you were right. How much longer is his punishment going to continue?”
+
+Mama took her time answering, enjoying another chestnut slowly, letting Mila sweat in the silence. Even though she knew all of her Mama's tricks, it made them no less effective. Finally, Mama sighed and shook her head, leaning forward to speak quietly. “Rain is something of a puzzle to me, causing more than a little headache. I am at a loss on how to handle him, were he any other Sentinel I would have him lashed for insubordination, but I made a promise to my disciple that I will not break. What else am I to do?”
+
+“I don't know Mama, but you can't have him digging forever, it's turning him so gloomy. He hasn't smiled in days, even though I visit often and try to cheer him up.” She had thought her joke would at least elicit a half-smile, the sheer absurdity of it being hilarious, but he had actually believed her, making her feel terrible instead. Worse, she had still laughed. “He had no ill intentions, he just wanted to help.”
+
+“You think me unfair, daughter? He knowingly betrayed a direct order from me, even taking the pain to hide his actions with a ruse, albeit an ill-conceived one. He knew what he did was wrong, even if he did not know why. What would have happened if you had not discovered him?”
+
+Shaking her head, Mila tried her best to seem subdued and obedient. If only Papa were here, she could have gone to him and he could have convinced Mama. “Not unfair, it's just... you're holding a dagger above his head, not allowing this to come to an end. I'm sure he's learned his lesson now Mama, and I'll watch him carefully from now on, I promise.”
+
+Sighing deeply once again, Mama ate her chestnuts while thinking things through, Mila swinging her feet in her chair, unable to stay still. How did Song do it all the time, remain so motionless? One by one, the chestnuts disappeared into Mama's mouth, each followed by a tiny sip of wine until nothing remained. Slowly shaking her head, Mama looked regretful as she asked, “What has he learned? Is it the value of honesty and obedience, or that he needs to be more careful in hiding his intentions?” Shaking her head, she continued, “His punishment has been too light for me to be sure. I first thought to have him bind or execute those soldiers, but if he refused it would have left me with no further option but the cane. For now, he is to continue digging, until I can come up with a suitable punishment.”
+
+Pouting, Mila slid off her chair and moved around the table to give her Mama a hug. While she had not gotten her desired outcome, Mama had thought hard on the matter and Mila could not fault her decision as Rain had truly gone too far this time.
+
+“Lieutenant General, Senior Captain here to report.” Alsantset's voice sounded out from the tent flap, and she appeared almost immediately after, Mila's hopes rising. Perhaps she was here to talk to Mama about Rain as well, chipping away at Mama's resolution to continue his punishment.
+
+Evidently, Mama thought the same, sighing once again, her arms still around Mila. “I supposed you wish to speak about Rain as well?”
+
+“No, Lieutenant General, the boy made a grievous error and I have nothing but gratitude for your leniency.” Alsantset's voice was carefully neutral about the subject, her face showing no signs of deceit. “A scout has arrived with two messages marked urgent.”
+
+After a short perusal of the two scrolls, Mama crumpled them in her fist, throwing it to her desk with a thud. “Damnation, this is sooner than expected.”
+
+“What's the matter?” Mila peered at the bundled mess of paper, trying to decipher their contents.
+
+“An order from the Marshal. Martial Law has been repealed and we are to return to Shen Huo with all haste, relieved of our duties here. Along with it is a missive from the Disciplinary Corps, demanding the presence of Alsantset and the five youngsters with all haste. They are to meet at the Bridge, so that their trial may take place.”
+
+Dread washed over Mila, worry suffusing her with every word and she looked to Mama for any sign of what would happen next. With a grim smile and a reassuring pat on the back, Mama sat back in her seat, looking resigned. “Well, some good news has come of this, little Mila: Rain will no longer need to dig latrines, we break camp at dawn.” Motioning for her stationery, Mila quickly moved aside to help while Mama began penning messages, readying herself to close out their conflict with the Society.
+
+Whether it was to fight or flee, Mila did not know, but either choice meant there were difficult trials ahead of them. With nothing else to do, Mila quietly prayed for the safety of those she loved, that they could all return home safely.
+
+All the same, she eagerly hoped for a fight, to cripple the strength of the Society, perhaps even taking the stage herself. Rain and Huu had already made names for themselves, and it irked her to be so ignored.
+
+Sumila, daughter of Akanai and Husolt, was not an opponent to be looked down upon.
+
+Chapter Meme

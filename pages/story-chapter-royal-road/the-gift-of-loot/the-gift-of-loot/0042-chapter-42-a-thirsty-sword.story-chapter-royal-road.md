@@ -1,0 +1,227 @@
+---
+id: 7cda69de-12cd-50f6-9666-901377acd555
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42: A Thirsty Sword"
+slug: 0042-chapter-42-a-thirsty-sword
+partOf: the-gift-of-loot
+position: 42
+ownLength: 2471
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3543686/chapter-42-a-thirsty-sword"
+royalRoadId: "3543686"
+---
+
+"Got a sword!" Thomas called, picking it up. It was a fencer's sword with a fancy silver guard that flared over his hand and wrist. It was lightweight and kind of springy, though the blade had a definite reddish glint. It had to be magical.
+
+It felt odd when his fingers curled around the handle. There was feedback akin to white noise running from his palm and fingers almost up to his elbow. It wasn't entirely pleasant.
+
+Maybe it had something to do with the name the System helpfully provided:
+
+Blood-Thirst Sword
+
+It wasn't nearly as flowery as he had come to expect, but it certainly was ominous.
+
+"Nice, dude!" Zach called back from halfway across the field. He, in turn, held up a little wooden object in the air. "I got a mosquito toy!"
+
+"Lots of poison crystals over here," Jo said.
+
+With a grin, Thomas stuck the sword in his extra-storage backpack and continued his hunt. He picked up a few more level three Healing crystals, one of them a B-grade. Though he was tempted, he did not absorb any of them.
+
+Right now, his core was roughly 60% Healing and 40% Wellspring mana. He still wanted some Adaptation in there.
+
+After all the mosquitoes were checked, the three of them reconvened by the entrance door. "Anyone get any Adaptation mana?" Thomas asked hopefully.
+
+Jo and Zach shook their heads.
+
+They all compared notes. Thomas had gotten a mix of natural Earth and Water elements, plus a scattering of Healing, Poison, and Nature, though Jo did find an interesting C-grade Mud mana crystal.
+
+"No Fire," Zach reported with a dramatic sigh. "Not totally unexpected, but I did find a level three Air, and that's pretty sweet."
+
+"Maybe absorb that sooner rather than later," Thomas advised. "I did with a Healing crystal. Jo, how's your mix looking?"
+
+"My mix?"
+
+"Your magical core. Are you still sticking with Water and Earth?"
+
+She looked unsure. "I have so far, but can I change it?"
+
+Thomas looked to Zach, who nodded. "Of course, but if you've got something radically different in mind, take an easy transition from one to another. I run a Fire and Air mix. I don't vibe with Water at all, but if I really wanted to, I could burn down the excess mana in my system all the way back to level 2, then build up again starting with Earth, then maybe after a while try Mud on level 3 and see how that feels before I'd jump to Water."
+
+She nodded and looked thoughtful for a moment. "I want to see about Poison mana. It sounds bad, but, I'll tell you, it feels right when I touch it."
+
+"When your mana speaks to you, listen to it," Zach said wisely.
+
+Thomas nodded along, though he noted his reaction to touching Poison mana had been completely different. It seemed his and Jo's mana cores were complete opposites.
+
+"Okay, yeah, so," Jo said. "Should I wait...?"
+
+"No," Thomas said. "We're under-leveled for this dungeon, and I think we should take any advantage we can get." He offered a smile. "Plus, I want to be nearby just to make sure it doesn't actually poison you."
+
+"It shouldn't," Zach said, "unless she's way incompatible."
+
+Thomas nodded. "Just so I know, if that ever happens, what would I do? Try to quickly use the mana to burn it up?"
+
+Zach's chuckle was a little dark. "Yeah, as much as you can, but you'll be puking your guts out and bleeding black sludge from every pore in your skin for days." His eyes went a little distant. "I saw it happen once to a cousin when I was just a kid. It was rough." He shuddered. "He lived, though my dad said his core was seriously scarred afterward."
+
+Jo, who had been digging through her carry pack looking for the exact right crystal, paused and looked up at him with a silent question in her eyes.
+
+Zach caught it and then seemed to shake himself. "Oh, right, my family has known about dungeons for ages," he said breezily. "They're a bunch of pricks. Anyway, if you think Poison feels like the right next step and that's the direction you want, I say go for it. I'll absorb a crystal too."
+
+Zach got out a level three Air crystal, and after a moment, Thomas decided to join the party with another Healing crystal. Yes, his mix was high, but they were about to fight in the dungeon properly, and he'd need more healing mana on tap.
+
+Plus... he just liked the feeling of Healing mana.
+
+They all absorbed their crystals, and Jo had no problem adding Poison to her mix.
+
+Just in case, Thomas asked, "How do you feel?"
+
+"Kinda dangerous." She smiled, and maybe it was the light of the swamp, but it seemed like her eyes had taken on a slightly green shade.
+
+Thomas returned the smile, glad to see her advance, then glanced over. "Zach?"
+
+He was doing some sort of advanced stretching yoga pose-thing. "Definitely more limber. How about you?"
+
+"Eh, still a healer." Then he reached into his backpack. "But check out my cool-ass sword I picked up."
+
+The other two gathered around for a closer look, and Thomas was gratified to hear that yes, they also agreed it was a cool-ass sword.
+
+But the white noise feedback he felt had only increased in intensity, and he got the funny feeling it had to do with him absorbing more healing mana. He wasn't in actual pain but doubted he'd be able to use this sword long-term.
+
+Oh well. It would be fun for now.
+
+Jo checked her loot bag again. "It's good to have worthwhile crystal drops again. I don't mind saying I was a little discouraged there when I was looting by myself. Are the drops like this because we're doing a higher-level dungeon, or all on account of the people who owned it messing with it?"
+
+"Not sure," Thomas said, feeling a bit like a heel. Zach remained silent, too.
+
+Quickly, Thomas changed the subject. "This is only the initial stage of the dungeon. We could turn back now and the trip will have been worth it, but I want to press on and finish the dungeon. What about you two?"
+
+"I'm good to go," Zach said.
+
+"Yeah, as long as the monsters make it worth the hassle," Jo smiled, looking about as relaxed as Thomas had ever seen her. "I'm pretty sure I have more than enough to pay my bills for the next two months."
+
+Thomas looked out across the water. The air was slightly misty further out, but he could see green blobs that were lily pads on the surface.
+
+Because they were in a miniaturized world gone large, each lily pad had the square footage of a three-car garage. That was a good thing because they would have to be jumping from one to another. He got out the guide, which had a fold-out map.
+
+"The next part is a maze," he explained. "Luckily, we have the pathway marked out for us."
+
+"Oh, and the tadpoles are piranhas," Zach added, having read the guide too.
+
+"Yes," Thomas agreed, tightly. "Let's not forget about those."
+
+****
+
+If they hadn't had the dungeon guide with them, the next part would have been a slog. Perhaps even a fatal one.
+
+Lily pads weren't the most stable of objects, and according to the guide, there were ones that would flat-out sink after someone put weight on them, after which the viciously hungry tadpoles would swarm in.
+
+Instead, with the pathway through the swamp laid out, they were able to do easy hops from one stable lily pad to another. Thankfully, tadpoles weren't natural jumpers, so they were safe as long as their feet stayed dry.
+
+Unfortunately, they were on a loot hunt, so they had to get to the tadpoles somehow.
+
+The vicious little things followed them in a cluster just under the surface of the water. Their bodies looked like a black, many-tailed mass. It was ominous as hell.
+
+Thomas could and did reach down to stab a couple of them with his new sword. Unfortunately, he wasn't able to reach in and grab the body afterward without losing a finger to the other tadpoles.
+
+It was Jo who got the bright idea of luring the tadpoles a small group at a time onto the lily pad. If two of them stood at the edge, the combined weight made it dip, and a few chicken-sized tadpoles would rush in, gnashing razor teeth.
+
+Backing up would stabilize the lily pad, the water would drain off the edge, and the tadpoles would be left high and dry.
+
+Then, either Thomas or Jo could stab the group with their swords. Zach's fire did not work well against monsters surrounded by water, and bringing down his quarterstaff to crush them just splashed everyone with tadpole goo. He provided counterbalance on the other side of the lily pad.
+
+To no one's surprise, Thomas's Blood-Thirst Sword definitely had a blood effect. Every stab made the tadpoles bleed out.
+
+It was easy but tedious work. They were small swarm monsters, so they didn't drop more than tiny F and D grade crystals, with occasional larger ones thanks to Thomas's Gift.
+
+Thankfully, killing them was sort of a stab spree, so other than finding a particularly bloody one, it was hard to tell who had killed which. If Jo noticed the pattern to the loot drops, she didn't say anything.
+
+"What's this?" Jo bent and picked out something glittering from one tadpole body.
+
+Tadpole Tooth Necklace.
+
+"That's a fashion statement," Thomas laughed.
+
+He blamed the fact that she was holding her sword for her not cracking a smile at his hilarious observation. "It's a hazard. Those teeth are sharp." Carefully, Jo put it in her bag.
+
+"Guys," Zach called and pointed. Out past the lily pads, the surface of the water was starting to churn.
+
+"That might be the fish," Thomas said grimly.
+
+Aside from being larger, one difference of a level 3 dungeon was that it had multiple monster types that worked for and against one another. The vicious little tadpoles kept the giant carp at bay, but when their population dipped, the carp could rush in early.
+
+"I guess our easy hunting is over," Thomas said with a sigh.
+
+Then, walking back to the more stable middle part of the lily pad, he checked his map in the guide for the quickest way to the mud flats.
+
+****
+
+The mud flats were where Zach's personal protective shields came in handy. For some reason that didn't align with the rest of the dungeon, mosquitoes became normal size again. Mostly.
+
+Many of the little ones also carried disease.
+
+Every time one flew into the bubble-like shield, there would be a satisfying zap and a pop of color.
+
+The shield did nothing for the big enemies, which was the primary threat.
+
+They had barely made the last leap from the lily pad to muddy soil when the water behind them suddenly gathered up in a wave. It was a carp charging at full speed through the remaining tadpoles.
+
+Thomas hurriedly backed further up the mud flats. "Remember, they can jump—"
+
+A brown and silver carp the size of an orca whale Free Willyed itself out of the water and landed with a slosh-slap on the flats. Then it used its fins to dash towards them in a demented army crawl. Forests of tiny trees broke in its path.
+
+Something about the way it moved and the speed pinged "should not be" and gave Thomas that carsick feeling all over again.
+
+He pushed it aside and reached for his backpack. The Blood-Thirst Sword was fun, but this thing had to die.
+
+Pulling out his mace, he threw it. The oncoming fish was, after all, a large target.
+
+The fish turned, and the outer parts of its mouth shot out six feet to schloop up the mace mid-air.
+
+"Um," Thomas said.
+
+"Tough luck, dude." Zach had extended his fire into a ribbon that he sent lashing out. The flame hit the still-wet, muddy creature and sizzled without leaving a mark.
+
+Under other circumstances, the surprise on Zach's face would have been funny.
+
+With a cool assessment, Jo turned to Thomas. "Let me borrow your sword."
+
+"Sure." He handed it over. "Just don't get close to that mouth."
+
+"Then distract it for me." She charged in to intercept the fish.
+
+He and Zach exchanged a look before Zach spun up another ribbon of fire and dashed forward as well. He couldn't hurt it, but he could annoy it.
+
+"How am I supposed to distract it?" Thomas complained to the empty air, but he was already putting on his bear claw glove. If he got eaten, maybe he could cut his way out.
+
+Or maybe... he could usefully distract the thing.
+
+An edge of the shoreline was only a few dozen feet away, and it was dark with gathered tadpoles. Thomas supposed that a dungeon diver or two had been forced to retreat to the water, and the tadpoles were hoping for a snack.
+
+So he ran over into the shallow water, and when one lunged at the toes of his shoes, he slashed it into three pieces with his bear claw glove.
+
+He turned back to the fight.
+
+Zach was uselessly smacking the carp with fire whips from a safe distance to try to enrage it, while Jo had circled around and was laying in hits with a sword in each hand. She looked badass, but the fish was the size of a whale, and little sword slashes just weren't stopping it.
+
+Thomas briefly wondered why the poison on the mace it had eaten hadn't stopped it either... but whatever.
+
+For a monster its size, the carp could turn freakishly fast. It had just swung itself toward Jo as Thomas ran up.
+
+"Hey, want lunch?" he said, and threw a tadpole head at it.
+
+He figured the fish must have an appetite equal to its size to lever itself up onto dry land. Sure enough, it immediately turned to schloop up the tadpole part, briefly forgetting about Jo.
+
+Fish were not smart.
+
+That gave Jo the opportunity to strike with precision.
+
+Jo drove the Blood-Thirst Sword in halfway to its hilt, and Thomas thought he saw a flash of green light at the pommel.
+
+The fish shuddered and foam came out of its gaping mouth, then went still.
+
+Jo dropped her other sword and bent over, breathing hard. "Ooh, that was a doozy."
+
+"Did you use poison mana on it?" Zach asked, impressed.
+
+"Hey, look, it dropped an A-rank water crystal," Thomas said, focusing on the most important thing.

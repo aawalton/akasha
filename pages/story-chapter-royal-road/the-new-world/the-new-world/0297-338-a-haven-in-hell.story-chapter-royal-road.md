@@ -1,0 +1,117 @@
+---
+id: 4a8a246e-0e9c-5929-9062-573b74284374
+page-type-slug: story-chapter-royal-road
+title: "338 A Haven in Hell"
+slug: 0297-338-a-haven-in-hell
+partOf: the-new-world
+position: 297
+ownLength: 2742
+unit: words
+ownProgress: 2742
+publishedAt: 2022-04-13
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/885032/338-a-haven-in-hell"
+royalRoadId: "885032"
+markedReadAt: "2026-06-29T21:31:23.844Z"
+---
+
+Before it died, it vomited green blood onto my face and my grimoire. Wiping my face, I frowned. The behemoth gurgled before erupting pus and snot over me. It kept hacking up slime before I pocked my grimoire and blew it up with a singularity. Buckshot of shining bones sliced into my body before I grimaced.
+
+Yeah, maybe building the city first was a good idea.
+
+Chapter Begin
+
+I gathered my last two constructor golems in my location, and they created a perimeter while I theorized how to make a city here. Any conventional design would fail because of, well, everything. The air wasn't breathable, and the pressure crushed normal animals into a thin paste. The temperature ignited human tissue, and the fluctuations of gravity smushed the living into the dead.
+
+But the list of hazards went on. Radiation cooked anyone alive. The gravity on Leviathan-7 was much higher than Earth's pull, meaning long-term issues might arise. There could be cancer from radioactivity, and people would struggle with isolation since cities would be tiny. I hadn't even mentioned the eldritch yet, which presented the most enormous problem of all.
+
+In all honesty, an average person visiting Leviathan-7 amounted to a creative form of suicide. I wanted everyday people to stay here, train, and leave, but to make that happen, Leviathan-7 required an immense infrastructure. Staring down at my hands, I had the means to make that happen. I temporally accelerated while coming up with a framework for a livable city.
+
+I spent about an hour drafting up solutions before getting my thoughts in order. With everything in place, I set out to accomplish my goal. The first step involved creating a dynamic monolith at the center of my city. These structures mimicked the ones on Earth's cities but were orders of magnitudes more robust.
+
+They'd terraform a set perimeter while offering defensive shielding. It was simple, really. They just needed to stop incoming radiation, high temperatures, atmospheric pressure, excess gravity, and sharp gravitational fluctuations. I mean, what could possibly go wrong with that? To my surprise, not much, and it wasn't as difficult as I expected it to be.
+
+For the most part, temperature management, the planet's overbearing gravity, and the crippling atmospheric pressure only required a consistent source of mana to fix. After setting up a basic inscription, I tested them out on a small area. Once powered up, everything stabilized, and that would work on a larger scale by simply increasing the mana costs.
+
+On the other hand, controlling the gravitational fluxes and the eldritch outside required some ingenuity and investment. If primevals attacked the city's shielding, even a hundred blue cores wouldn't stop them. That made a defense force essential, one that could challenge and kill primevals. Considering how brittle my super golems were, I needed far more firepower than what they offered. Gazing at the converted star eldritch, the temptation to just psionically drown the primevals rushed over me.
+
+In my primordial wake, I relished the efficiency of the idea. It acted as a beautiful irony to turn my enemies against themselves, their attacks becoming my most outstanding defense. Peering out into the lonely landscape, it didn't seem like I'd make this place any worse to live in either. It was an isolated hell where no being thought beyond their perpetual hunger. It could be made no worse.
+
+However, I sided against the temptation once more. The converted eldritch lacked the flexibility of my golems, and after leaving Leviathan, I'd have to smuggle the converted eldritch with me. Even then, Plazia wouldn't enjoy seeing what I'd done to these monsters. I wouldn't either.
+
+Considering those factors, my golems were the best option long term. After revamping the monolith system, I'd remodel the super golems for more protection. The only issue left involved seizing territory quickly and efficiently for my cities. With time being limited, I considered my previous tactics.
+
+An orbital bombardment could tear through a group of primevals, but unlike everything else I'd faced, primevals would shrug that off. An assault plan needed more oomph. If I charged my mana while diving down, I could reform in a split second while releasing a singularity storm. That was a great follow-up, but I hesitated to call that enough. I had the itching suspicion that the primevals would survive. If I controlled the opal shards below, I could cut the primevals off their regeneration. A few singularities on top of that would incite another gamma burst from the rainbow bones.
+
+That ensured most primevals demise.
+
+The combat strategy required explosive but straightforward tactics. By comparison, the pillar system required some serious engineering. Getting to work on that, I leaned into my primordial wake. Its insistent perfectionism took the forefront while I took a breath. I reached out my hands, thinking to rip myself apart for dimensional fabric.
+
+I paused, a better idea forming in my mind. I pulled myself out of my body, my mind hovering in my wake. In that form, I generated mana outside my body. After all the practice, a few mana crystals clattered against the opal shards beneath me. Instead of creating pure mana, I molded my armor out of nothing.
+
+And it worked with ease. My flesh, blood, and bones spawned from nothing, another me popping up out of the ether. I gawked at myself since I'd just created this body a second prior, but somehow, it felt completely normal. Adjusting quickly, I ushered more of my bodies from nothing, the corpses piling up.
+
+Compared to time magic, this wasn't as difficult to get around, and once more, I uncovered a better way of harvesting my dimensional fabric. Using that method, a pile of my carcasses amassed before I melted them all at once. Some people said they did, but I made my cities with blood, sweat, and tears, though leaning into the blood part.
+
+Anyways, I flicked a hand, the molten bodies forming into a colossal monolith. It stretched up to the lowest layer of sky kelp, a few feet shy of the wafting plant matter. Floating beside the pillar, I reached out my hands while moving my fingers towards the barren structure. Telekinetic points popped up over my fingertips, and heated contact points etched into the pillar.
+
+In seconds, I carved a veritable novel onto its surface, giving it the runes required. I also revised the aura buff, giving people under its influence more oomph. With plenty of room to spare on the pillar, I devised a few other ideas to fill the leftover space. The first involved fixing the gravitational variations.
+
+Peering at the jumbled surface of the city, my idea wouldn't work on an unlevel surface. I flattened the bone shards in a large circle around the central monolith, and I embedded the city twenty feet deep into the rainbow bones. This pit added natural protection. For a second, I contemplated putting the bones over the town and calling it a day.
+
+I scrapped the idea. It made the claustrophobia of living here even worse, and if primevals fought overhead, the residents wouldn't know until it was too late. Instead of going with an underground model, I kept the upper opening idea. The start of that involved molding telepathic points all over the leveled bones.
+
+I connected the psionic infrastructure by installing wires that connected everything. They all secured to the central monolith, centralizing command of the city. Adding to the idea, I set up more telepathy points using spheres of my dimensional fabric. With a simple enchantment, those orbs floated into the sky overhead, forming a visible net over the city.
+
+They created a network that my supergolems used. After installing several hundred of those floating cores, a slight psionic aura enveloped the city, one that anyone could connect with. Finishing this system, I created and implanted five constructor golem cores into the inner monolith.
+
+Those minds regulated the temperature, pressure, and other aspects of making this place livable. They even worked together to shield the city from gravitational fluxes, but that was in theory not practice. After linking them together, I tested the system myself. Floating outside the town, I lobbed gravitational waves at it, and these forces mirrored the instability on Leviathan-7.
+
+To my surprise, the constructor golems caught these forces with ease, the five entities keeping the city safe. Having a space that wouldn't be smashed, I erected nine more monoliths in a circle around the primary pillar. These pillars were set right at the limits of the constructor golem's protective radius. A natural width of the city was made, and it was about two kilometers.
+
+It gave enough space for a few thousand people if they ate space food and lived in tiny areas. I frowned, knowing living here would be temporary. Either way, I implanted another constructor golem core into each of the nine columns around the city. To top it off, I added five more to the giant monolith at the center.
+
+This required some serious investment, but too much protection was objectively superior to too little, especially in this case. After melting down several bodies worth of dimensional fabric, I formed them into connection points for everything. A psionic pulse linked the disparate golem cores, making them function together under a set prerogative. It was a highly complex, derived formula that I created after many hours of rigorous study and deep contemplation.
+
+Keep. City. Safe.
+
+While perhaps a bit dystopian, these all-seeing and ever-present guardians kept citizens from evaporating to the elements. It was kind of like living on a space station. While there, a person couldn't fire a gun or blow something up. Otherwise, everyone within would die, and this protective web acted precisely the same way. Being watched all the time was a necessary sacrifice of living here.
+
+Either way, telepathic links synced everything together into a single network. After charging it all with mana, the psionic aura condensed over the circular city. It was a massive chatroom for people's thoughts, which could be a problem down the line. However, only my golems and I used it, so it functioned for now.
+
+Wielding the mental chatroom, I commanded my golems to check on the psionic web every couple of hours for updates. This charged aura would be my announcement board. With that handled, I inspected the physical city. It was quite literally bare-bones, so I converted the rainbow bones into the structure of buildings.
+
+After changing the rainbow bone's dimensions, they held strut with even more rigor than my own fabric. Testing out the opal shard's limits, I found they let me build from twenty feet below to twenty feet above the surface. Any further, and the massive behemoth below got antsy. I stayed within this limit, ensuring we never trampled on the giant bone monster's boundaries.
+
+After shaping the bone, the psionic web and golem cores applied mental pressure onto the opal shards. This kept the opal shards from reverting to their previous forms. This all directed through the psionic web I created. Experimenting further, I constructed a few buildings for organizational purposes and a few rooms in each enclosure. Though a bit snug, they acted as a meditative retreat for me from all the chaos around us.
+
+With a functional city in place, I let the constructor golems tidy it all up. They coated the shining structures with marble, granite, and quartz, making the city easier on the eyes. Once again, the constructor golems exceeded expectations, using the opal bones as a trim for buildings, walkways, and streetlights. It jazzed the place up, the many stone textures contrasting the futuristic glow of the opal shards.
+
+This place was shaping up nicely.
+
+Interrupting my satisfaction, a primeval shouted in the distance. It bellowing with fury, its cry leaking in from a vast range. Wincing at that, I added a sound barrier before taking the next step in my city's development. It maintained itself well, but it was time to ensure its protection from the primevals.
+
+Short term that is. Before building some shields into the central monolith, I whipped out my grimoire and improved my cipheric marking for them.
+
+I usually used something unrefined and straightforward for this purpose, but my previous designs would pop like a bubble here. Leviathan-7 demanded an intense, powerful shield that helped regulate the environment. Standing beside this city's central monolith, I gave the city just that.
+
+After setting up the temperature rune, I paired it with an antigravity sigil. They gave a baseline to those systems, helping the constructor cores. They paired with an atmospheric generator, which was a fancy way of saying an air-making rune. Once set up, I attached them to a batch of ten blue dungeon hearts. It turned out that blue cores set up practical barriers naturally.
+
+I sort of expected that, but these wilder cores did more than Schema's did. Unlike a blue dungeon heart in Schema's system, these produced power instead of siphoning it away, meaning they didn't need charging. I wondered where that power went, but Schema probably used it however he wanted. Regardless, the blue cores saved me lots of time here.
+
+In that way, a hefty investment in dungeon hearts guaranteed an immutable shield without any fuss. With the physical aspect guaranteed, I synced those systems up with the terraforming systems. My eyes lit up with possibility as energy flowed into the cipheric markings. Having the essentials set up, I helped charge the cores one at a time.
+
+Not long after, everything came online. Above us, hundreds of behemoths tore each other apart in the kelp. Forming between us, an energized strata whirled around the city's limits. Unlike the hexagonal patterns I was used to, this shield mirrored the way a blue core looked - like the surface of a tiny gas giant. The energy clashed overhead like giant cerulean spirals, the blue forcefield being semitransparent.
+
+Each spinning coil sparked alive with electricity when smashing into another storm. Those sparks erupted outside the city, forming a humdrum of violence on the barrier's surface. It acted as a threat to anyone coming near it, one even I feared. That fear gave way to awe as the shield's surface rippled like a living force. It was as if a colossal planet wrapped around the city, and it constituted a perpetual guardian on this hostile planet.
+
+It arrived with a sense of lightness, a sweet breeze, and my ears popping from the depressurization. In that homey shell, I rested under the primevals, the behemoths, and the algae. This was a spot of calm amidst a whirlwind of death, an oasis in the desert, so to speak. Since coming here, I roughed it every second of every day, but I carved out a spot to relax.
+
+After giving myself a mental pat on the back, I stood up. From my dimensional storage, I pulled out my elemental furnaces. Embedding them in my armor, I gave them flesh, and they gave energy in turn. At the same time, more of my psyches crept into my dimensional wake. They compressed, and I fed some mana into my primordial rune.
+
+It jerked mana into itself, threatening to wobble my control of time. I shut down the furnaces, putting all of my attention into the rune while temporally accelerated. For several hours, I honed those abilities in tandem. With practice, I added one burning furnace at a time. I attained comfort with subtle time hastening via the rise and collapse of those abilities. In a way, I represented an enormous mind split into many actions, and they all fed into my latent potential.
+
+More hours passed, and my primordial rune reached its zenith for mana absorption. Standing there, I enjoyed a few days of building up my temporal acceleration while feeding my runes. I didn't double my time's pace while feeding my runes, but I sped up the sigil's feeding and furnaces' production by a sizable margin.
+
+Either way, it was time to move on from the exercise. I decompressed my wake before turning towards a pile of blue cores remaining from the city's construction. I had to mimic the pillar's advancement but to my golems instead. Pulling up a thrumming dungeon heart, I stared at its spiraling depths. It evolved my monoliths into unbreakable, majestic beacons on this dark world.
+
+And I hoped it would do the same for my golems.

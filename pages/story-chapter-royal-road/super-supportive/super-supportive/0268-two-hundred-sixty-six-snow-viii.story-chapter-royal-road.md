@@ -1,0 +1,277 @@
+---
+id: d3fcffd8-12be-5a76-ba9c-abbd1f3b93a1
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SIXTY-SIX: Snow VIII"
+slug: 0268-two-hundred-sixty-six-snow-viii
+partOf: super-supportive
+position: 268
+ownLength: 3534
+unit: words
+publishedAt: 2026-01-11
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2931854/two-hundred-sixty-six-snow-viii"
+royalRoadId: "2931854"
+---
+
+266
+
+******
+
+“Zeridee-und’h!” said Stuart. “I wanted to ask you something about her, too. Not about her. Pardon my <<inaccuracy caused by enthusiasm>>. But about how you protected her with your skill when you rescued her. Without touching her.”
+
+Huh?
+
+It was 8:15 in the evening for Alden, and around the crack of dawn in Rapport I. Stuart claimed to have slept enough since they’d spoken hours ago. He was in the manuscript library with multiple stacks of books on the table in front of him and two tablets other than Evul’s. When their call had connected, he’d been putting stone orbs into a floating box that had drifted out of view a moment later.
+
+“You haven’t done anything like that since then?” Stuart asked. The panpi’i lamp sat glowing beside one of his book stacks. “You’d have told me, wouldn’t you? Because it would be exciting if you had. But it could have happened again very recently, and you haven’t had time to mention it, so I should ask.”
+
+They’d been talking for over twenty minutes. Alden had tidied his room while they did. It had been an unusual call. Stuart had said he wanted to hear about Wednesday’s gym class, so Alden had been prepared to touch on the highlights and show him some footage, and he hadn’t been surprised when Stuart asked detailed questions about what exactly had happened and why and how Alden felt about it.
+
+But now that they’d covered everything interesting about MPE, Alden had brought up the incident at the Christmas market today. Only for Stuart to jump straight to a question like this.
+
+“You heard me say that Lute and I spent time with Grand Senator Servin-ith and Ambassador Bash-nor because of Zeridee, didn’t you? And that something happened?”
+
+Stuart hastily set down the stylus he’d been holding. “I should have asked what happened.”
+
+“I assumed you would, but you don’t have to be curious about it.” Alden nudged a shoe deeper into his closet with one foot so that he could slide the door shut. “And, no, I haven’t used my skill like that again. What was it you wanted to know about that?”
+
+Now he was going back over what had been said tonight, as well as all the things Stuart had asked about during their last couple of talks. I thought he was just getting really into MPE stories. But…
+
+“When you told me about saving Zeridee-und’h, you mentioned your mindset,” said Stuart. “I didn’t question you much because it had just happened and you were still wounded in heart and body. I hoped you would tell me more about it now. Your power <<manifested>> differently than usual during that life trial, so I’m sure you’ve thought about it and will think about it in the future. I’d like to know what your thoughts are in detail since I wasn’t able to see it myself.”
+
+He picked up the stylus again like he was ready to take notes, then seemed to realize what he’d done and dropped it. “But if something happened with a Grand Senator today, that is an event I’m curious to hear about, too. Of course. You said it was Servin-ith? I don’t know much about her except that her votes are rarely in line with my family’s beliefs. She has poor vision when it comes to chaos.”
+
+“What does that mean?”
+
+“She opposes efforts that don’t directly protect our planets and our resource worlds. Some people think that there’s no need to work on the chaos situation except when and where it’s an immediate threat to our realm. They’re wrong. According to every knight I’ve ever spoken to, and even people like Ro-den, repairing as much of reality as we possibly can is necessary if we don’t want to be entirely overwhelmed at some point in the future. Actually, Ro-den claims that all we’ve ever known is ultimately doomed to be overwhelmed no matter what we do, but his actions don’t make sense to me if that’s truly what he believes. People like Grand Senator Servin-ith are more concerned with the comfort of the present generation than the survival of future ones.”
+
+Alden would add that to the mental picture he had of Servin-ith. When I woke up this morning, I never guessed I’d have such well-rounded knowledge of an Artonan politician by nighttime.
+
+At present, though, the Grand Senator’s shortsightedness when it came to chaos was less concerning than the direction of Stuart’s interest. Hadn’t there been an unusual number of questions lately not only about how Alden’s classmates’ skills worked but also what Alden liked about those skills?
+
+“What are you researching in the manuscript library?” he asked. “Are you doing homework for LeafSong in there?”
+
+“No, it was rude of me to focus on my own questions when you tried to tell me about your day,” Stuart apologized. “You speak first.”
+
+Alden frowned. “Okay. We can’t talk about three things at once. I’ll tell you, and then you tell me what you’re up to, and then I’ll try to answer your questions about the thing with Zeridee.”
+
+“Yes.”
+
+“All right. Lute and I met Servin-ith when we were shopping at a holiday a market in one of the parks in F-city earlier…. Tell me if there’s anything from Earth you’d like, by the way. Buying friends gifts is a Christmas tradition.”
+
+“Grapes!” Stuart said immediately.
+
+Alden hadn’t expected him to have a request. “Grapes?”
+
+“Are grapes difficult to acquire?”
+
+“No. They’re easy to acquire. I’ll bring you some for sure. Lute and I were shopping for presents when Zeridee approached us. She suggested I talk to the Grand Senator. Ambassador Bash-nor was with her, and…”
+
+Stuart listened to the story of Alden’s afternoon without interrupting after that, though he looked perplexed more than once.
+
+“Anyway, Lute and I expected Lexi to have something to say about it when we made it back home,” Alden told him, “but he hasn’t heard yet. I’m sure as soon as he does, he’ll complain about us being involved in something so weird. And I’ve been expecting Boe to call and be at least a little upset.”
+
+“Boe is your friend who has known you longest,” Stuart said after a moment. “Why will he be upset?”
+
+“He’ll say it was stupid of me to get between an enraged Brute and Bash-nor.”
+
+“It would have been if you threw your body between them, but you used your skill. And there were many other people around. Although you probably should have worried more about your safety since some Avowed are much stronger than you, I do not think you were stupid under such urgent circumstances.”
+
+“I’ll tell him you said so.”
+
+“I’d like to talk to him sometime. Since he is your friend, I would like to know him, too.”
+
+“He’s been under a lot of pressure,” Alden replied. “Ever since I went missing and came back. I’d like to introduce you to him, though. When he’s in a better mood.”
+
+Stuart nodded. “I understand why you tried to protect the former ambassador even though he seems to be a bad person. But I don’t understand why you bowed and apologized to him for it.”
+
+“I told you. I wanted to interrupt him, and I wanted to keep him from saying anything else to Servin-ith. I don’t know exactly what I thought he might do. Be cruel to Mrs. Nancy or the man who lost his promised spouse, I guess. Or he might have convinced Servin-ith to think about it all in the wrong way. It just…didn’t seem like Bash-nor should be allowed to talk anymore.”
+
+“Why didn’t you tell him to be silent and feel the weight of his shame? Why did you bow and offer a fake apology?”
+
+Alden sat in his desk chair. “Because he’s a wizard. And an ambassador. Because a Grand Senator and other wizards who I don’t know very well were watching, and they were all tense.”
+
+“But that’s no reason—”
+
+“You know what I mean. You just don’t like it.”
+
+Stuart tucked his chin and pressed his lips together.
+
+“I was trying to find a way to speak in front of people who might not approve of an Avowed shouting that a wizard should feel shame,” said Alden. “That’s all.”
+
+Stuart made a displeased noise. “I’ll contemplate it.”
+
+“That’s the first time you’ve ever said you’ll contemplate something and somehow made it sound like a threat.”
+
+“The only threat is that I will disagree with you even more after contemplating and gift you with a stronger argument.”
+
+“I look forward to that. Moving on…what are you researching? I thought you were enjoying hearing about MPE like usual, but your questions have gotten more specific lately. What’s that about?”
+
+Alden wanted to fidget. He tried not to.
+
+What are you up to, Stuart?
+
+He thought he’d guessed, but it would be a great time to be wrong. Because if he was right and Stuart had been researching skills for days and analyzing footage of human Avowed…
+
+Stuart scooted forward in his seat, his eyes gleaming. “I’m collecting information about skills for you, Alden. So that you’ll never have to bind anything you don’t like or understand again. I’m making a list of the types of abilities you might want to consider, and I’m also thinking about what will complement your nature, your interests, and your current skill. Some of what I’ve collected is general information and skill theory for you to learn. I don’t want to add complexity to your choosing season before you’re ready, so I’ll wait for you to ask me for it. But this will be available for you when you need it in the future.”
+
+But you don’t know exactly what my skill is. You don’t know what my circumstances are.
+
+“There will be more options for you than whatever your Contract shows you when the time comes. I’ll help with that.”
+
+Don’t try to give me even more when I can only give you grapes.
+
+“Stuart, you don’t have to work on this for me. I’m fine,” said Alden. “This sounds like a lot of trouble for you.”
+
+“I’m enjoying it! You use your skill brilliantly, and finding what may help you use it even better is something I’m proud to do. You deserve magic that makes you happy and that fits you with nearest-perfection. These are full of skills that might be useful to you if you decide to keep helping in houses of healing.”
+
+Stuart laid his hand on top of the stack beside the panpi’i lamp, then stood to reach for another stack. “And there are a few offensive spells in these that could be easily turned into impressions even if Earth doesn’t already have similar options. It probably does. The drawer full of memories over there contains all sorts of things. And I don’t know if you can make out that table in the shadows back there, but it holds materials Jozz used when he was approaching his final decision for Whisperer of Refuge. He protects an area, and only those who he’s told about the refuge may enter. There’s more than one similarity with your skill. Following his path of study may be very helpful to us!”
+
+Damn. He’s already researched so much.
+
+“You can’t just give me offensive spells and healing skills. I’m a Ryeh-b’t.”
+
+“It’s true that some choices might be harder to obtain than others, but I can make it possible,” Stuart said firmly.
+
+“You can’t make everything possible. And my next binding isn’t important enough for you to be spending all this time thinking about it. Your own life is incredibly busy, and you should—”
+
+“It’s not important?”
+
+Stuart was staring, and it wasn’t one of his usual, scrutinizing stares. He looked shocked. He bumped a book stack with an elbow and barely caught the one on top before it could fall.
+
+I said that what I affix isn’t important. Out loud. “I meant…”
+
+“My friend…will you really say such a thing about such a thing to such a one as me?”
+
+It was suddenly like they were nose to nose, and Stuart’s fist had a grip on Alden’s lungs instead of a book.
+
+“I just don’t want any of the doors that are left to close yet,” Alden said quietly. “I cut away so much of my life in two or three instants this year, and I wasn’t terrified to do it, but I should have been.”
+
+“I don’t think I understand what you’re saying.”
+
+“I know.” Alden shoved his hands under his desk so that he could clench his fists and release them a couple of times without Stuart seeing. “I’m sorry I said it wasn’t important. I didn’t mean that at all. I spoke thoughtlessly because…I’m uncomfortable. For a couple of reasons. One of them is that you do extraordinary things for me, and I feel like getting you grapes isn’t equally extraordinary.”
+
+Stuart set the book back on its stack and took his seat again. “If our positions were swapped, would you not be here in our manuscript library trying to help me?”
+
+“I would. Of course.”
+
+“Then what’s so extraordinary about it?”
+
+There was a minute or so of quiet in which they looked at each other. Halfway through it Alden rolled his eyes and Stuart wrinkled his nose, and that became a signal for the atmosphere to return to normal.
+
+“I am familiar with the feeling,” said Stuart, “of someone giving you a gift you can’t match.”
+
+“Who’s out there giving presents so expensive that the Primary’s family can’t compete?” Alden asked lightly.
+
+“Some human.” Stuart looked away from him, toward the glowing bird. “Do you remember how kindly you spoke to me while they were preparing the room so that my leg could be restored? I couldn’t hear you or see you, but you were recorded that day. Father obtained the video for me. When you told them you were too tired to hold me for long, they gave you drugs to make you keep going. More drugs than were good for you. So that I could have the perfect protection of your skill until the last moment instead of other options that would have been fine.
+
+“You were still wet, you’d lost some of your clothes in the summoning pool, and you looked younger than you do now. We treated you badly and scared you. But the whole time you walked back and forth in that room, holding me, you were talking to me. You had called me a prick earlier, but in the house of healing, you mostly spoke words of comfort. You told me you hoped I would be all right. I have studied that video. It is impossible to study that video and not see that you were giving me the gift of your compassion.”
+
+He looked back at Alden. “I thank you for it. But it was cruel of you to get lost right after that.”
+
+Alden couldn’t remember exactly what he had said to Stuart’s unconscious body while he paced around with it before the healers were ready.
+
+“Hard to tell a dead man you noticed his efforts?” he asked.
+
+“Remarkably.”
+
+“Sorry. That was shitty of me.”
+
+Stuart gestured at the table in front of him. “I’m going to keep doing this. Because it’s obvious and right that I should. And because it makes me happy to do it. And because you will appreciate it when you’re not being shitty.”
+
+“I appreciate it now, Stuart. I really, really do.”
+
+“It’s not a project that should be delayed. You should have this information before your next binding. And it needs to be thorough so that even when I’m not here you have everything you might want.”
+
+Even if what?
+
+“Why wouldn’t you be here?” Alden barely kept the alarm out of his voice.
+
+“I’ll be a knight,” said Stuart. “I’ll travel to places where communication is less simple. Even when I’m somewhere like Goldbush we won’t be talking to each other as easily as we do now.”
+
+“Goldbush…”
+
+“The world where most young knights are training. Did you forget the name?”
+
+“No. I remembered. I was realizing…trying to picture your work there,” Alden said slowly. “Is it a place like Moon Thegund?”
+
+“Not in many ways,” said Stuart. “Except for the chaos, of course. Now, it’s my turn to ask you about Zeridee-und’h again, isn’t it? I think I have a fair understanding of the concepts that are essential to your skill, but I was wondering if there might be something I haven’t thought of in the way you used it when you saved her. You were separated from her, underwater, in a state of extreme stress. And you kept her shielded. Did you notice anything about how you thought or felt in that moment that might be important?”
+
+Alden wanted to give him an answer. However, now that he was aware Stuart was actively going after information about the essence of his skill, the contract tattoo was problematic.
+
+I’ll have to say I can’t say, he thought.
+
+But then he realized phrasing it like that might make Stuart suspicious, and the tattoo wouldn’t allow him to deliberately make Stuart suspicious. He searched around for any answer he could give that wasn’t a lie.
+
+It was like being trapped in a tiny, dark room, banging into walls.
+
+“Are you well? Your face is odd.”
+
+Alden tried to make his face be less odd.
+
+“That was a bad night,” he said. The words dragged themselves out from between his lips. At least they weren’t a lie.
+
+“It’s fine if there wasn’t anything obviously significant,” said Stuart. “Maybe you remember something that seems insignificant but unusual?”
+
+He looked so expectant.
+
+“I’ll…I’ll think about it.”
+
+“Oh.” Stuart drooped a little, but picked himself right back up. “Well, that might be best anyway. Record every detail you can, and we’ll go over them together the next time you visit.”
+
+“I do look forward to visiting again,” Alden said. A pitiful attempt to make up for how disappointing he was being in other ways.
+
+“You can come see the manuscript library and help me research. That would be a nice way to spend a day, wouldn’t it?”
+
+******
+
+When he got off the call several minutes later, Alden had exactly enough composure left to climb up into his loft bed and punch his mattress a few times instead of hitting something that would break his hand or be broken by it. Then he smashed his face into one pillow, covered the back of his head with another, and tried cursing furiously.
+
+It didn’t exactly work, but he could only bully a mattress and shout muffled insults at a pillow for a short while before continuing became too dumb and embarrassing. He rolled over onto his back.
+
+This well of emotion needed something to vent at. He was so happy and touched to have a friend like Stuart. And he was so ashamed and angry at himself. And afraid of himself.
+
+He wanted to peel off his tattoo and throw it out the window.
+
+I wish Ro-den would appear right now.
+
+Alden would bow to him. Then, when his head was conveniently aligned in that position, he could charge at the professor like a bull.
+
+Yeah, that’s the thing for my temper. Bet nobody’s ever done a bow like that one.
+
+[Video call from Boe]
+
+Alden answered like lightning.
+
+Boe was glaring. “You—”
+
+“No,” said Alden, glaring back. “I’m having a bad moment, and I don’t want to hear it right now.”
+
+“Why did you jump in front of some crazy man who could’ve taken your head off? And you did it for that ambassador whose money we blew!? What were you doing?”
+
+“MY BEST! I was doing my best. That’s what it looks like today. And I said not right now.”
+
+“Fine. Whatever. We’ll talk later.”
+
+“Stuart wants to say hello to you. He is such a fucking good person, Boe. He’s awesome. And I’m starting to get really pissed that you don’t like me being friends with him.”
+
+Boe stared at him. “How mad are you?”
+
+“I only punched the mattress. It’s just a mattress. It can’t feel anything. I’ll be over it in ten minutes. I miss you.”
+
+“Yeah. You too. Talk to you…tomorrow?”
+
+“Tomorrow’s good.”
+
+“Eat some carbs or something, Alden. Go to that spa and inhale peace potions. What’s up with you?”
+
+“For your information, I’m having a very good week. I feel a lot more like myself. Teachers do important work. Klein and I are pals now. The hospital staff loves me, and they’re all willing to mentor and support me. I can go to the Christmas market one day and have a ton of friends and a giant family waiting for me there. And it would be a great trip with no mishaps.”
+
+“Okay.”
+
+“I warned you the second I answered the call,” Alden said.
+
+“You did.”
+
+Alden nodded. “I bought you a Christmas present. Connie’ll take it to you for me. Sorry it’ll be a few days late.”
+
+******

@@ -1,0 +1,231 @@
+---
+id: 9c2aa6dd-8f95-5cd6-8933-5c15744b8b11
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 494"
+slug: 0194-the-path-of-ascension-chapter-494
+partOf: the-path-of-ascension
+position: 194
+ownLength: 4511
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3466348/the-path-of-ascension-chapter-494"
+royalRoadId: "3466348"
+---
+
+Chapter 494
+
+With Quill’s Quality Quintessentials no longer a business in name only, he was finally able to dedicate some time to developing his own tool kit. Instantly made mana talismans had been an idea of his for what felt like ever, but every time he tried to tackle the problem, he ran into issues that made him shelve it.
+
+Blake rarely found the spare time to do more than dabble in the talismanic arts, and what time he did allocate was only enough to keep his skills at an acceptable level for combat utility and little more. That made him better than most talisman artists at his Tier, but his standards weren’t Realm-wide, they were Ascender-wide.
+
+That same skill was what let him know with no uncertainty that flash talismans might take decades of effort, only to end up with zero results at the end. As hard as it was for the Quill persona to admit sometimes, most of his other avenues of growth offered greater increases in power for less effort.
+
+Now, things were different. Being unable to grow his Domain, Power, or swordsmanship, the three things he’d been focusing on before his name's absence, he needed to look elsewhere.
+
+After a small amount of deliberation, that ‘where’ settled on flash talismans. If he could solve even half of the problems he’d run into last time, he’d be happy. But he was hopeful he wouldn’t need luck. Not only had he just brushed up on his proficiency with talismans by designing the aura tracking talisman, he was fairly confident the liquid mana gems would simplify things.
+
+His previous attempts had highlighted the same problem he’d had at Tier 25. The instability of the mana gem relative to typical talisman materials. Talismans as part of their typical activation process moved around massive quantities of energy. It was why most talisman materials were spiritual ones, having been alive as parts of plants or animals.
+
+His non-liquid mana stones were neither.
+
+They were better. Too much so in fact. They discharged their energy so fast, the spell structures either couldn't fully form or outright burned out, resulting in half formed or weakened spells. Alone, that wasn’t an insurmountable problem, but his answers all had some major flaw that made them non-viable in combat.
+
+Slowing down the activation sequence preserved the base material better, but it also drastically weakened the final spell. Reinforcing the mana stone itself was an option, but doing so took time, and more importantly, concentration. Two things he couldn’t spare in a battle.
+
+Liquid mana stones weren’t quite a perfect solution or anything so fanciful, despite his day dreams, but they were far more robust when it came to energy storage. He hoped that might translate into energy transfer, though he had his doubts.
+
+After a single day of testing, Quill determined he was half right. His liquid mana gems seemed to be an answer, but not for the question he was asking. The energy transfer of liquid mana stones wasn’t great. It had zero relation with good… and it wasn’t even close to okay. In fact, it was downright abysmal.
+
+It had all the ingredients to be perfect, but the results were….
+
+Staring at the pile of mana stone shards, Quill sighed loud enough he woke phoenix Liz up from her doze. He couldn’t help it. He’d just watched his best and most likely to succeed idea crumble before his eyes.
+
+Creating another liquid mana stone, he slowly, ever so slowly, started carving a simple light rune on the face of the gem. Everything went fine until he tried to tie the enchantment into the roiling mass of energy contained inside.
+
+The moment he broke the outer shell’s containment, everything fell apart. The once stable liquefied mana tried to vent itself into the relatively empty surroundings, to disastrous effects.
+
+When the rumbling stopped, Quill released his grip on [Mage’s Retreat]. He’d instinctively reached his second oldest skill to evacuate, but that left him looking at the few shards of mana stone that hadn’t dissipated.
+
+His first test may have been a failure, but he’d made a half decent bomb. He tried to carry that optimism further, except even that turned out to be incorrect. Running the mana to energy calculations, he realized his efficiency problem had in fact gotten worse, and most of the damage had been caused by the rapid decompression.
+
+Fiddling with that angle, he dismissed it after confirming there were no real improvements to be gained and went back to the beginning.
+
+Creating a liquid mana stone, Quill stared at it for hours, trying to take in every piece of it. Due to the name removal taking with it conscious memories, he didn’t have the same instinctive understanding Blake had. Pulling from Luna’s lessons, he tried a similar approach and stepped back, looking at things from a new perspective.
+
+Quill didn’t like his conclusion and summarily rejected it. He refused to accept that his liquid mana stones were incompatible with talismans. There had to be a way to better channel the energy trapped inside. He only needed to find it.
+
+Widening his search, he reached two possible answers.
+
+Change the way his liquid mana stones worked to ease the integration, or look for shortcuts, cheats, and alternatives. He was sure one of them existed. All he needed to do was identify and implement it.
+
+He found exactly zero.
+
+For some reason, he couldn’t understand there was very little historical precedent on pure mana talismans. He even looked into pure mana enchantments, but that field was just as barren as the talisman one. He was sure someone, somewhere, at sometime had run into a similar problem because of their Talent. But such information wasn’t available in the databases he had access to.
+
+Circling back to his original option, Quill started investigating his liquid mana stones. The inner liquid core that Blake had centered his research on wasn’t his problem, it was the simplistic and neglected outer layer.
+
+Its current state was like an egg. A hard protective shell that once broken was unsalvageable. Making a talisman on a liquid mana stone was like carefully carving on the shell without piercing through. Except, as part of the final step, he needed to puncture the membrane to access the stored energy inside, creating the very hole he was trying to avoid.
+
+What if he didn’t try to avoid puncturing the shell?
+
+Reworking his rune pattern for max effectiveness, he tried creating another liquid mana stone. As the outer surface formed he left only the thinnest of membranes where he intended to break through when activated.
+
+It was a fantastic idea doomed to failure, as the pressure of his liquid mana proved too great and the flimsy film shattered instantly. After a few more attempts to salvage the idea, he accepted reality and gave up on it all together.
+
+Forming a new normal liquid mana stone, Quill tried to stop the process a moment before he normally solidified the stone. Doing so was like trying to hold back a herd of spooked cattle, and it forced him to exert his full power just to delay the transformation for a moment.
+
+Breathing heavily, Quill picked up and started analyzing the liquid mana stone. It looked normal upon casual inspection, but that was a lie. The mana stone was leaking energy. It was a fraction of a single unit of mana per second, but it indicated his idea to meddle with the outer shell wasn’t crazy.
+
+Taking a few seconds to collect himself, Quill repeated his earlier steps again, but went further and formed a light talisman on the liquid mana stone.
+
+The next attempt was a failure. Something went wrong during his interrupt that caused the entire mana stone to crumble into dust and ambient mana, and he cursed his lack of setup.
+
+Once he’d gotten some of the lab equipment Blake had brought along and knew wasn’t tampered with, he restarted his experiments with much better sensors recording everything in more detail than what he himself had. Relying on himself was fine when he was in deep chaotic space, but he wasn't anymore and no longer needed to act that way.
+
+Going through the same steps again, he started trying to recreate the leaking liquid mana stone. It took over a dozen attempts for him to successfully create another, and if he hadn’t had the first success on hand, he might have started doubting if it was possible.
+
+He proved it was, but the timing was finicky. He only found success when he perfectly replicated his initial strength. Thankfully, the sensors caught what had happened, letting him study what he’d unknowingly managed. The delay altered the composition of the mana stone, turning it slightly porous. That allowed for a minute amount of mana to leak out without destabilizing the stone altogether.
+
+Not quite sure if that was a good or bad answer, Quill put his things away and opened a [Portal] to JR’s after saying goodbye to Liz.
+
+The raven immediately noticed his distraction. “Heavy thoughts there, Quill?”
+
+“I’m not sure about the result I got. It's somehow the answer I was looking for, and at the same time, I don’t think it's going to do what I want it to do.”
+
+JR laughed, but Quill felt that it was with him instead of at him. “It's an awful feeling, but one you will get used to the more you push the bounds of what is possible. What were you doing, if I might ask?”
+
+Knowing there was a greater than zero chance the Tier 50 had watched everything he was doing since the moment he arrived, he didn’t bother to lie. “Now that I have a viable product, I started doing my own research into flash talismans, as I’m sure you’ve seen me work on.”
+
+JR didn’t even try to pretend he hadn’t been watching and nodded. “Yes, quite the interesting development, those liquid mana gems. I’ve been studying the one you paid Rose with, not you. Rein in your ego a tad, please. Mine is taking up enough space as it is, and I don’t care to share.”
+
+Quill sniped right back, “Are you saying you aren’t spying on my every move? Or are you having someone else do so on your behalf?”
+
+Having worked in and on his name together for most of a year, Quill had a better understanding of the Corporations Tier 50. The raven wasn’t exactly easy going and approachable, but he enjoyed verbal spats and wouldn’t crush him for calling him out.
+
+As he suspected, JR didn’t seem to mind. Instead, he laughed at Quill. “I can lower my protections on you and your friends if you’d like. As for the mana stone, no I hadn’t noticed you working on it yourself yet, but I would have later. I bring it up because like I said, I was doing my own research into the mana stone, and do you want to know what I learned?”
+
+“What’s the price?”
+
+JR’s grin was predatory as he stalked off a table top and into the air until he was eye level. “Now that's the correct response to a timely offer. In this case it isn’t too onerous, Cosmind will be returning next month, a few days before our next session. She had a tiny errand to do for me after Winter Hornets' announcement, delaying her arrival, but I want you to consider sharing your Talent with her.”
+
+Quill felt his stomach drop, but given the stress JR had put on the word ‘consider’, he didn’t instantly reject the idea. He wanted to. He really wanted to, but he agreed instead.
+
+He’d consider it.
+
+Nodding, he thought about and rejected the idea. Consideration done.
+
+JR must have read the petulance in his expression, because he smiled and changed the topic. “So do you have an answer for me about my question of heirs?”
+
+Quill wasn’t going to argue about an extended delay and nodded, “I do. Though I’m not sure it's what you were looking for. My answer is simple. Belief in the system they were raised in.”
+
+JR bobbed his head, considering Quill’s reply. “I’d have called it something else, but that's close enough that I’ll count it. A good heir’s beliefs should be slightly different, but an incompetent heir who cares is better than a competent one who doesn’t.”
+
+Quill wanted to ask why, but knew that would only get him a Luna style, ‘why do you think’. Instead, he asked himself that question. Why was a incompetent Tier 50 who believed, better than a competent one who didn’t.
+
+JR seemed to read his mind for a second time as he nodded. “You are thinking about Agatha aren’t you? Are you asking yourself ‘if that's the result of incompetence, how is that better?’ Let me tell you something, she is the perfect example of why. But first, let me ask, how many incompetent rulers do you think there have been since The Shattering?”
+
+“Acording to our earlier definition of heirs?”
+
+At JR’s nod, Quill wanted to go through history and grab a list of every negatively looked down upon Tier 50, but he stopped himself. That wasn’t what JR was asking.
+
+“How many?”
+
+Shrugging, JR fluttered away. “I have no clue, ten, twenty, thirty, fifty, a hundred. Does it really matter? If you widen or narrow the definition the number can be as large or as small as you like. The real answer to that question is another question. How many Great Powers have fallen?”
+
+Letting his eyes drift to the side, Quill didn’t verbally respond.
+
+“Exactly. One. Two if you count the Empire, but I don’t. In my definition of heir, Agatha was the right and proper ruler. That was simply a long due correction in a stagnant system, not a fundamental change like the Ascendancy's destruction.”
+
+Quill didn’t know how to process that statement. “So you are implying the Ascendency only fell because they prioritized a competent ruler over a believer?”
+
+“You said belief, I wouldn’t have, given the Ascendency's religious fervor. But in essence, yes. The Ascendancy fell because their Tier 50 thought he was above everything else. He was strong, incredibly strong amongst his peers. But looking through his personal records after the fact, it’s clear that he never cared for the Ascendency’s religion or customs. He saw himself aloof from everything worldly, including that which he should have cherished. That made him a good politician because it allowed him to play ‘The Game’, and let him rise up to become their Tier 50. But when it came down to it, he was given a choice between his own personal vengeance and accepting his Chosen had died.”
+
+Looking disgusted, JR spat, “As we see from my feathered perch, he made the wrong choice. He saw the situation differently than you or I. Another player's chess piece had made what he considered an illegal move, and so he punished them for it. Nothing more or less. If you don’t believe me, his original messages are still available. Ask Emmanuel for access, I’m sure he’ll give it to you. The ‘belief’ you speak of isn’t as simple as a Great Power’s religion, or cultural identities, it's about the entire system and perpetuating it. If more ‘competent’ heirs were selected like that, how many Great Powers do you think would have fallen?”
+
+“Lets say I agree with the logic, how does that make Agatha different?” Quill couldn’t help but ask.
+
+“Did she take over and crown herself? Yes. Did she take over and burn down the entire system to make herself something else from the ashes? No. Compare the fall of the Ascendancy and the Empire’s change in leadership. Both were bloody, but one was far more destructive than the other. Agatha was a believer. One might argue the strongest of them all, far more than the former dynasty’s last selection of heirs. I have no doubts about that.”
+
+JR was hardly the first person to compare the two incidents. Luna had even made him write a report comparing the two events, and the take-aways were fresh in Quill's truncated memory.
+
+Accordingly, he shot back, “Most people who compare the two put the blame on internal politics versus external.”
+
+“While the more apparent internal versus external argument is touted around as the difference, I disagree. What stopped Agatha from rewriting the script?” Quill was opening his mouth to reply when JR waved a wing, silencing him as he spoke on. “Agatha may have lost some of her supporters if she’d tried to create something vastly different from the Empire you know, but far fewer than you’d expect, so long as she allowed those supporters to transition into the new structure. From your perspective, I’m sure the political and socio-economic situations were pivotal, but those are lies. Lies Tier 50’s spread because it makes people feel good, that they matter, because it gets people to believe.”
+
+Quill was almost lost in JR’s tangent before shaking his head and getting them back on track. “As interesting as this is, what point are you trying to make?”
+
+JR tutted, looking down his beak at him. “What point am I trying to make indeed? I explained, but let me elaborate further if that wasn’t enough. Internal scuffles are just that. So long as the core is solid, Great Powers are stable as bedrock. It takes a great storm arriving at exactly the right time to even shake one, and most storms find they are mere squalls instead of the hurricanes they envision themselves. As brittle as the old decrepit Empire’s foundation was, it's not so easy to fight up at those Tiers. Additionally, even if such people existed, how many are willing to be the storm? How many others simply leave at Tier 45 as Titan so correctly pointed out? Hmmm?”
+
+Quill had no answers and JR could see it. Thankfully, he changed the subject, pivoting with a light hearted hop as mana stones started to charge the stabilizers. “So what about my idea of sharing with Cosmind? Are you amenable? It would make things much easier if I could loop her in. So many equations change post-defensive pact, and you wouldn’t want an ally to be underprepared do you?”
+
+Unwilling to stay quiet any longer, Quill quipped, “Are you open to payment plans? You tell me the information about the mana stones now, and I tell Max at some later undefined point, possibly seconds before I ascend? Hmmm?”
+
+Instead of shooting his crazy idea down, JR seemed to consider it, tapping a claw on the table. “Oh, and how would you do that?”
+
+Put on the spot, Quill said the first thing that came to his mind. “I can pay her in letters one at a time like interest payments. Maybe I can make it a scavenger hunt? Though given Max’s abilities, I’d have to stop a lot of pre- and post-cognition tricks, so my real best bet would simply be time. One letter every few thousand years feels about right. Actually, the more I think it over, the better my original idea is. Delay payment for as long as possible.”
+
+“Your business sense is getting better at least. However, no, I don’t agree to those terms. If you wish to know what I know, inform me in advance of your acceptance and then arrive a little early to our next session. I can ensure you have privacy while you and Cosmind chat. Then and only then, will I speak of what I learned. That's my counter offer.”
+
+Quill wanted to argue, to object in some way. But instead, he signaled he’d heard the deal and got to work harmonizing the Natural Treasures, letting the conversation end there.
+
+The raven had given him a lot to think about. First wasn’t the teased information about his mana stones, but the conversations about Agatha.
+
+JR undoubtedly wanted him to reach some predetermined conclusion, but nothing stood out as particularly noteworthy to Quill. For all the raven’s casualness, he’d never once forgotten the Tier 50 was savvy enough to become one of eight beings at the peak of the Realm.
+
+Pausing, Quill thought he might have stumbled upon the deeper meaning JR wanted. His initial reaction was to call the raven’s distaste of the Ascendency, naked hypocrisy. The bird had happily used the same ‘Tier 50 were the only real people’ argument when it was convenient for his stance.
+
+Pondering everything as he worked, Quill realized JR hadn’t exactly contradicted himself so much as used the argument like a parent uses the reasoning that they are an adult to shut down a conversation they don’t want to have. Personally, he wasn’t sure he agreed with the conclusion that driven and ambitious leaders inevitably lead to a Great Powers ruin.
+
+The Realm’s history was littered with Tier 50’s blunders, both large and small. With JR’s words ringing in his head demanding attention, he perused what historical documentation he could find. He wanted to be surprised, but found hints of JR’s meaning scattered throughout aborted plans, cut investments. The ever shifting landscape that was Great Power politics obscurated things further, but he thought he saw the signs of Tier 50’s pulling back when the risks grew too large.
+
+More than anything else, that realization sent a thrill of fear down to his toes and right back up to his head. Would the Empire find itself alone during the true war?
+
+Was that JR’s warning?
+
+Quill didn’t know, but he took the warning to heart.
+
+The Tier 50’s might be willing to negotiate, but if anything threatened to destroy their Great Powers they’d react like…a cornered animal. Worse yet, the more they cared, the harder they’d fight.
+
+Was that JR what he’d meant?
+
+Watching at his hands as he worked, Quill saw flashes of blood long washed away by his sweat, injuries long healed by time, magic, and suffering, dirt caked under his fingernails so permanently that no matter how short he kept them he always found more.
+
+How would he react with a Great Power-sized rabid dog intent on securing him as a battery to keep a Great Power running?
+
+Opening his clenched fist, Quill forced himself to relax and concentrate on his work.
+
+That wasn’t a question he needed to ponder. He had his answer. He’d had it at Tier 1 and it hadn’t changed at Tier 30. Still, self reflection was an important skill, so he let himself answer as if it was the first time he’d heard it.
+
+His positivity buoyed him along as he returned to work confident that even if he was wrong, he was at least true to himself. It only lasted until he finished his allotted harmonizations and moved to assist JR.
+
+As if reading his mind, the bird started chattering at him the moment he sat down. Unable to sit there quietly, the bird eventually riled a response out of him and they bickered until Quill’s mind could no longer contain the two of them. Only then did JR call an end to their efforts, with most of the upper torso’s scaffolding built out.
+
+Returning to the estate, Quill wanted to sleep off the headache, but forced himself to return to his lab.
+
+For all of JR’s quips and comments, he’d failed to mention one thing about Agatha. She’d succeeded. He didn’t need to look up the countless failed coups across the Great Powers to know how she’d managed what everyone else couldn’t. She’d planned, prepared, and performed when it mattered most. He could do all of that, anyone theoretically could, but her most important trait had been her strength.
+
+Quill knew he was taking a step in that direction with the armor, but more tools were better than less. He needed to get his flash talismans working. The larger his mana pool, the higher his Tier, the more mana he’d have to throw around in fights. Even with his new armor being a mana hog, he’d have more mana than he knew what to do with in a few Tiers, unless he started designing skills for that singular purpose
+
+Shelving that idea, he saw Blake had already done so a dozen times, not wanting to bother Rah. Quill didn’t have such compunctions and sent the lower Realm ascender a message. He might have some method that was better at channeling billions of mana more efficiently than what was locally known. It was unlikely, but there was little reason not to ask.
+
+When Quill didn’t get an immediate response, he gave up on that line of inquiry temporarily. Rah would see it whenever he came out of whatever archive he’d bribed his way into, and no personality fragment of 『　』 had the free time to learn skill creation.
+
+The only other person he could think to reach out to was Eclavorn, but his relationship with the dragon was rocky at the best of times. He felt it better to wait before he pulled that thread.
+
+Quill's return to work only lasted a single attempt before he gave up and retreated to bed to sleep. While his thought process was fine, and he could think through the pain, his testing required a level of detailed control he needed to be fresh for.
+
+He spent over a month trying to create a light talisman with a leaking liquid mana stone, and when he finally succeeded, he’d confirmed his worst fears. In the current iteration, leaky liquid mana stones made great nightlights but terrible combat talismans. They simply didn’t allow enough mana per second through to make a reliable conduit.
+
+Spinning the glowing mana stone on his desk, Quill looked at the technically present illumination and reconsidered. He’d started with only a few thousand mana. Maybe he just needed to… scale things up.
+
+Creating a slightly larger mana stone with only a few million mana, he carved a light talisman on the surface before allowing the outer layer to fully solidify.
+
+Tossing the larger but now visibly glowing mana stone into the air, he sighed. For a first attempt to solve a problem that had been hounding him for the last five Tiers, it wasn’t a bad answer. However, it was equally clear it wasn’t what he needed.
+
+It was definitely useful, and he’d love to investigate the leaky mana stones and the method used to make them, but he didn’t have the time where Blake would make it. No, Quill needed to redirect his efforts to his original goal.
+
+Flash mana taslimans that were usable and useful in battle.
+
+Another part of Quill feared needing to tackle that project before the name was finished, or the project would be forever shelved, citing his very own failure. So long as he got their collective foot in the door, 『　』 would happily make time for this as well.
+
+He just needed to prove it possible.

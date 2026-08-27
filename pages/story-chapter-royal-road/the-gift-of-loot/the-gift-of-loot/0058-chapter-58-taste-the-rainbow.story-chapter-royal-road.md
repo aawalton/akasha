@@ -1,0 +1,467 @@
+---
+id: f4a29dca-d915-5cb8-bfc2-75bada29db3b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58: Taste The Rainbow"
+slug: 0058-chapter-58-taste-the-rainbow
+partOf: the-gift-of-loot
+position: 58
+ownLength: 6266
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3702890/chapter-58-taste-the-rainbow"
+royalRoadId: "3702890"
+---
+
+This chapter was already long on my patreon. Then I decided to change-up the end and add MORE to it the next day. All that is to say that this chapter is a beast.
+
+"Damn it," Thomas muttered, picking up a dead griffin hatchling by a wing and shaking it as if hoping that hidden crystals would fall out. Nothing did.
+
+"Another dud?" Jo asked.
+
+"Yeah, third one in a row." He frowned and looked around. This was their fourth go-around in the dungeon, and this time they had decided to spice things up by using the glass staircase instead of the stone one. Maybe it would turn their luck around.
+
+The glare from the sun could be tricky, but the fact that the glass could actually become slick under their feet on different steps made the footing treacherous. The hope was that choosing a different path up would garner them an increase in loot drops again because it had noticeably dropped off with every re-run of the dungeon.
+
+Jo had sheathed her sword for the moment, so her Still Waters skill wasn't in effect. She offered Thomas a flicker of a smile. "How does it feel to be one of the normal people?"
+
+"It sucks," he said flatly.
+
+Zach, who had taken the lull in the fighting to stretch and keep limber, added his part. "I don't think it's your Gift, dude. I think it's the dungeon that's running dry."
+
+Thomas turned to him. "Huh?"
+
+"Yup." He practically stretched backward in a way that did not look entirely possible, then put his hands back behind himself and completed a lazy backflip on the treacherous glass staircase before standing again. "Think about it. We have been taking a whole ton of mana out, right? Then putting none in. The dungeon has to feed itself somehow."
+
+"I feel like I'm going to regret asking this," Thomas said, "but how does a dungeon normally feed itself?"
+
+"I mean, it gets a big boost through deaths, but I think... world energy, somehow?" Zach squinted in thought. "But there's a reason why you don't see a constant line of people outside of old family feeder dungeons, even though the right one can be a money-printing machine."
+
+"Yeah, no that doesn't make sense," Jo objected. "What about places like the Octopus's Garden Dungeon? I was about to run that, but the line was about four hours long. People always get great drops from there, with no Thomas needed."
+
+Thomas knew the answer to this one. "That's a dangerous dungeon, though. People die, or... at least get hurt."
+
+"If they die, the dungeon absorbs their cores, which is really mana-rich, plus they leave all their stuff behind, including any mana drops that they picked up," Zach said. "The dungeon recoups what it gave. It's like, the circle of life."
+
+Thomas wanted to be annoyed, but the truth was that four runs in, they had made out like bandits. They had more Wood mana than someone could shake a stick at (he had made that joke twice to Jo just to see her cringe each time), as well as a couple more item drops.
+
+Unfortunately, he hadn't seen any indication of a goldie, and his Eyes of Riches skill was picking up nada on this run of the dungeon.
+
+They were only a quarter of the way up the glass staircase. He looked down again. "Do you guys want to try another staircase or just keep going?"
+
+"I vote keep going," Jo said. "We may have been brought back down to a normal level of drops—" she nudged Thomas's shoulder playfully "—but they're still good drops. Plus, I've been getting a lot better at my Blade Throwing skill."
+
+It hadn't all been about drops; that was just what Thomas had been focusing on. They had also taken the opportunity to work on their particular methods of combat.
+
+The nestlings were tricky, but they weren't that bad, which made them ideal training dummies.
+
+Zach had given both Thomas and Jo tips on their weaponry. Apparently, the fencer's sword was tilted a bit toward slashing and less toward pointy/stabby, but Jo's Poison mana still made it feasible to just "stick them with the pointy end," as she'd said. She was finding that she truly enjoyed sword work. Though when she'd gotten a little tired, she worked on her Blade Throwing skill, perfecting her accuracy at medium range.
+
+Ideally, she would wound a monster and Thomas would go in to finish the kill. Sometimes, though, she made an instant kill when she skewered a hatchling or two at the same time. Then the blood and pain that caused fed into her skill, which made the next generated blades even more effective. It was a powerful skill.
+
+Zach had corrected Thomas's grip on his halberd. He'd gotten into the habit of holding it a little like a baseball bat, when really he needed to separate his grip—one hand lower for stability at the base and one higher up for the best chopping action. It was a fun weapon, though his shoulders and triceps were starting to burn from the strain. He really needed a gym membership.
+
+Meanwhile, Zach focused on figuring out the ins and outs of his new teleportation skill.
+
+Heavenly Mandate: Skip the Distance was, at its heart, a distance teleportation skill. Through some cautious—or at least Zach's version of cautious—testing, he learned that it was more mana-intensive for him to teleport short distances than longer ones. Short meaning anything within this dungeon.
+
+Typically, Zach took it in stride. "I can add more teleportation skills later," he said, "like versions of Blink. That way I could have short distance and long distance." He grinned. "Maybe some phase-through skills too.""He's going to be a menace," Jo predicted.
+
+Thomas nodded.
+
+After their last kill, they decided to take a break on the steps they'd cleared, trying out MREs and discussing skills.
+
+The MREs were just as bad as people claimed. Thomas's was apparently supposed to be spaghetti and meatballs but somehow failed to be both. It was still food, though.
+
+"You sure you want to go all in on teleportation?" Jo asked Zach, around the peanut butter and jelly sandwich she had packed herself. It looked about ten times better than the men's MREs. "Especially since the mana drain eats you alive, doesn't it?"
+
+"Yeah, if I'm not careful," Zach agreed. "Teleportation mana is made for this, but I can't do anything else with it, so it's going to be solely dedicated to this skill." He trailed off for a moment as if consulting himself, then nodded. "Yeah, I'll have Fire because I am the fire. Then Air, or Sky soon if it works for me for the flexibility and speed, Teleportation for my awesome skill, and Adaptation so I have even more flexibility."
+
+Jo looked at him. "I can never tell if you're knowledgeable about this or if you're making it up as you go along."
+
+"Por qué no los dos?" he said easily. "Why not both?"
+
+"What about you, Jo?" Thomas asked. "Still planning to add Shadow to your Mud and Poison mix? Going to throw any Adaptation in there?"
+
+"I'm not sure," she said. "I still haven't absorbed the Shadow yet, but I felt a big zing when I touched the crystal so it should work. I might not use Adaptation this round because I'm just not seeing what it does for me."
+
+"Your fighting style is straightforward," Zach agreed. "Sneak up on things and poison them, like an assassin."
+
+She made a face of disgust. "I hate assassin stories, but it is a convenient way of killing things." She glanced back at Thomas. "You sure you don't want to add some Poison mana? I read once that all medicines are a type of poison if you do it right."
+
+"And you say you're not an assassin." Zach grinned.
+
+Thomas shook his head. "No, I can tell Poison's not for me. It gave me the 'bad zing' whenever I touch it. I'll just keep on with Healing, Wellspring, and Adaptation." He paused, tilting his head back and forth as he thought. "I need to add some sort of combat or offensive skill, and that might affect what other mana I add, if anything."
+
+"Didn't you say that you were compatible with Light?" Zach asked. "You can always try it, and if you don't like it, use that halberd to burn off all the Light mana in your System."
+
+"Healer with Light mana. I am such a cliché," Thomas bemoaned.
+
+"Yeah, but think about it: maybe that path will lead to some sort of Paladin class," Zach said.
+
+Jo turned back to him. "Again, do you actually know all this, or are you just guessing?"
+
+"Both. Yeah, a Healing-Light mix is a cliché, but remember that the System seeded all these archetypes into our society for years in preparation for integration."
+
+Paladin did sound pretty badass, with one giant caveat. "Aren't they like holy clerics where I would have to swear fealty to a god or something?" Thomas asked. "I am not about that."
+
+Jo looked alarmed. "Don't tell me there are System gods too."
+
+"Then I won't tell you," Zach said, but then added when she blanched, "No, actually, I got no idea." He held up his hands. "I don't know what the requirements of Paladins are either. It might be an oath not to do any harm to people who don't deserve it?"
+
+That definitely sounded like a guess to Thomas.
+
+But he could imagine himself in cool plate armor and carrying a shield. Man, he definitely needed to start hitting the gym and pumping iron.
+
+In any case, once their disappointing meal was done, they got back to slaughtering helpless griffin chicks in their own nests. Was the System turning him into a murder maniac? He didn't think he was a murder maniac, but... did those types of people know what was happening to them in the moment?
+
+Thomas's big, important morality questions all flew out of his mind when he saw the loot drop from the chick. "All right, finally," he said, and held it up. It was a C-grade Adaptation mana crystal, level 4.
+
+The rest of the glass staircase netted them more Wood mana as well as another Shadow drop. Then, when they ascended a quarter of the way up a rickety-looking rope staircase, Zach was able to pull a Sky mana crystal. He'd been aiming for one of those all this time.
+
+So it was with good cheer that they took another break on the ground level and decided to absorb some of the mana into their cores.
+
+"I am really feeling this Sky mana," Zach said. He held a crystal in the palm of his hand, his eyes half-lidded. "Yeah, it feels like it's Air but... more."
+
+"So what you're saying is you're going to be even more of an airhead," Thomas teased.
+
+Opening his eyes, he grinned. "Only if all goes well. What about you, Mana Man?"
+
+"I'm going to just absorb more of the Wellspring mana," he said. "Smack me if I don't come out of it in about thirty seconds."
+
+"I thought you were in this dungeon for the Adaptation mana," Jo said.
+
+"Oh, I am, but Wellspring mana is more my base. It enhances the Healing mana I have... Uh, I think. Plus, it also works with Adaptation. So I want that first." He rummaged around in his bag until he found the glowing white crystal. Truthfully, it had become his favorite mana.
+
+"Well, since I'm not aiming to be boring, I'm going to try Shadow," Jo said, then pulled out a nice B-grade crystal.
+
+Thomas took a few deep, cleansing breaths, then focused on the Wellspring mana in his palm. As usual, it felt good just to hold it, like there was already a connection formed between them.
+
+Wellspring mana was high-leveled stuff and usually hit him like a truck. This was no different, except that for the first time, Thomas's muscles didn't lock up, and he found he could take more than the barest sip of power. It was still incredibly difficult, as it felt like live electricity was running through his veins—except that the burn felt good. For the first time, however, he was able to push through the extreme power.
+
+"I'm okay," he said to Zach, who was keeping an eye on him. "I think I can... control it better now that... I'm level three."
+
+Even then, a little bit of Wellspring power went a long way, and he was forced to cut the connection a few seconds later. Looking deep inside, he saw blazing white motes all through his system, some already sticking to his core like they were called there.
+
+He sat and let the process happen, trying to guide the motes and start the foundation of his new level-three layer. Meanwhile, Zach and Jo absorbed their own mana types. As their crystals were level four, it was a much less dramatic experience.
+
+"Oh yeah, that's the stuff," Zach said, opening his eyes. "Sky is like, somewhere between Air and Space, which gels really well with my Teleportation mana."
+
+"I don't get how you can tell," Jo said. "All I know is my Shadow mana feels right."
+
+"I am my mana," he replied simply.
+
+Thomas thought about mentioning that healer Akilah said Zach's mana was tangled up in his life force. But he suspected that it wasn't anything Zach didn't know.
+
+If Thomas's mana was also his life force, he would be a lot more careful with how he spent it, but maybe that was why he was a basic healer and Zach was the teleporting fire mage.
+
+While everybody was still chilling out absorbing their mana, Thomas rooted through his bag to pull out the items that had dropped. He pulled out the Sound Mana Crystal that hadn't even been mentioned on the loot drop table, which made him consider it a rare item.
+
+After that came Griffin Feathers. Even the downy chicks had feathers, but these two had specifically dropped from separate kills. They were each as long as his forearm, patterned white and gold. The System labeled them as Feather Fall Feathers. No idea what that meant, but it sounded promising.
+
+He also had a leather bracer with a nice design of an adult griffin etched into it. This one was on the loot table and didn't have any listed magical effects, but it was highly prized for anyone with the Gryphon Tamer class. They planned to sell it on the marketplace.
+
+Finally, the Chook Seed. If his mom couldn't grow it, no one could.
+
+"Pretty good haul," Thomas admitted. "I would like more, but..."
+
+"We're drying up this dungeon," Jo said flatly.
+
+"Yup. I'm going to guess that'll screw over anyone diving after us, too," Thomas said. “Not a great way to be a guest.”
+
+"On the plus side, this dungeon won't be overflowing any time soon," Zach pointed out.
+
+"Yeah, good work, team." Deciding it was time, Thomas started unloading their mana crystal haul.
+
+Seeing it all piled up in a well, large pile, he realized he had no real room to complain. The vast majority was Wood mana, which wasn't common on Earth. Shadow mana was mixed in here and there, along with the occasional Light. Not to mention it was all level four, which made each crystal more special considering dungeons on Earth were still limited to level three.
+
+"What happens if I try to sell level 4 mana on Earth?" he asked. "Big bolt of lightning comes down from the sky and incinerates me?"
+
+Zach rapidly shook his head. "Don't even think about it, dude," he said, unusually grim. "The level 3 restrictions are there for a reason. We can use it for ourselves just fine, but not sell it. Once integration is supposed to hit, the System will be everywhere. I don't want to get on its bad side."
+
+"Offloading all this here is going to be a pain in the neck without attracting attention," Jo said. "But we've got to do it, or exchange it all for level 3 and then sell it on Earth."
+
+"We've got to be careful doing that too," Thomas said. "I've thought about opening up a stall either in Reno or the Crystal Flea Market back home. Being a vendor gives me a good excuse for having so many crystals."
+
+"I'm gonna use my haul to buy a lot of level 4 Teleportation mana and Fire mana," Zach said.
+
+"I just want the cash," Jo said. "As much as I can get so I can spend it before money stops working."
+
+Both sounded like good ideas. One day Thomas's giant Wellspring mana crystal was going to give out and he'd have to find his own supply.
+
+"Well, we can start offloading this at different locations. At least we have more than enough to get us back home, and if there's a village nearby, there's a System marketplace booth. We could start selling some of it there, then some more back at Shadow City."
+
+The name for the city they portaled in from Earth to wasn't actually called Shadow City. Its official title was The Shadowed Haven of Dark Hope, but that was just way too much of a mouthful. Thomas was going to call the place either Shadow City or Home Tree, and he knew which would be politer.
+
+"Let's get something to eat while we're there," Zach said, pitching his half-eaten MRE over his shoulder. Seeing him casually litter annoyed Thomas for a half-second until he remembered that dungeons absorbed whatever was in them after the instance closed. In a way, they were giving a little back to the dungeon they had just taken so much out from.
+
+Pack-it-in, pack-it-out rules did not apply in a dungeon.
+
+Coincidentally, the fact that dungeons could transmute matter into energy without radioactive byproducts meant that pollution problems on Earth were soon to be solved.
+
+It was always nice to find a silver lining in the pending societal apocalypse.
+
+Putting that out of his mind, Thomas started splitting the loot into equal thirds.
+
+____
+
+The village was a short walk away. Despite being close to a decent dungeon, it was a scrubby, dirty place. The Dark Elves that lived on the outskirts had houses made of mud with regular holes in the walls for ventilation in place of windows, and curtains or strings of beads instead of doors.
+
+From the way several goat-dog creatures prowled in and out of the houses, it seemed that many of them lived with their livestock, like humans did back in pre-industrial times. But this was not a pre-industrial world. These people had access to magic and classes. There was a literal dungeon at their doorstep.
+
+Why weren't they taking advantage of it?
+
+Shadow City houses didn't look exactly like human habitations, but they certainly had windows and doors, and they were just a portal away. Except that the portal cost fifty Shadow mana one way. Maybe they just didn't have access to money—er, Shadows?
+
+They continued walking down the road, and the houses grew a little more elaborate, a little cleaner, many with kitchen gardens out front. The plants were a crazy rainbow of colors, with the fruits and vegetables looking like someone had planted a bag of Skittles.
+
+A few people stared as they passed by, but no one offered them any violence or real conversation.
+
+The center of Nonstrel Song Village was a bit more promising, with basic shops open and what looked like an old-fashioned inn. A familiar marble plinth dominated the town square, where a fountain or a statue of a city founder would normally be in a human settlement. Small alcoves ringed the outside of it for private business transactions. This was the System marketplace.
+
+Thomas, Zach, and Jo headed there right away to start selling their portion of the loot. For his part, Thomas exchanged his Wood mana crystals for Shadow, which was the currency of the Dark Elves.
+
+Shadow had less buying power than Wood crystals, so he came out ahead. It also spoke to the lack of economic power the Dark Elves had on their own planet. Out of the four races, their currency was worth the least.
+
+Out of curiosity, he once again tried to purchase Healing mana, but received a message that healing mana crystals were reserved only for medical institutions on this planet.
+
+He would have to speak to Akilah to see if he could get a lead on that. Perhaps he could volunteer at a local community hospital in exchange. He was already partially on call for the Ross-Astor family in exchange for the opportunity to dive their feeder dungeon. Thomas figured it was good practice to maintain relations with the local Old Family, who could stand between him and the coven of witches who would like to use him as a sacrifice for their blood rituals.
+
+Next, he searched for Wellspring mana. It was flat out not available, and the System restricted him from searching anything level 5 and above.
+
+Oh well, he would have to start looking around for a dungeon that dropped it.
+
+Jo and Zach had finished their transactions, so Thomas quickly closed his out and joined them. Together, they walked to the inn.
+
+The innkeeper who greeted them at the door gave them a hard look, and not the most welcoming first impression ever.
+
+"You may as well come in, though be warned, we don't have any substitutions for species-specific allergens. It's not often we get dwarves here."
+
+"I don't have any allergies I know of," Zach said cheerfully, unbothered about being labeled a dwarf.
+
+Jo shrugged, and Thomas offered, "I have healing crystals in case anything goes wrong. We're humans from the new System world. You call it Terra, here?"
+
+The innkeeper looked them over again and seemed to thaw a little before gesturing them over to a table set in the corner.
+
+Other Dark elves were around, eating or drinking, but they had yet to see Wood elves, which was interesting since they were technically in Wood elf territory. Did the species not mix?
+
+Nevertheless, they were seated, and the innkeeper said, "The meal today is kela-sped pie with a gemberry cider. Prices are either one Wood or two Shadows per plate."
+
+Apparently, there were no menus either.
+
+"Sounds great," Zach said. "We'll take three level 3 meals."
+
+The others nodded and the innkeeper walked away.
+
+"I thought dwarves had beards," Thomas muttered. He was clean-shaven, Zach had a day of scruff, and Jo obviously wouldn't qualify.
+
+"Something tells me they don't get a lot of dwarves around here either," Jo said. "I think you were right before, Thomas. This place is rural and isolated."
+
+There were benefits to having only one item on the menu. The innkeeper returned promptly with three giant mugs of ale and three piping hot meat pies. The top of the pies was a raspberry red, with the 'gemberry' ale black as a stout.
+
+Then the innkeeper stood by the table and glared at them until they got the idea to pull out mana crystals to pay right away.
+
+Crystals in hand, he stomped off to help the next guests.
+
+The fork only had two tines which was stretched to half of the utensil's length, but Thomas could deal with that. The crust was flaky and, despite the weird color, tasted savory and salty. The inside was... well, he could practically taste the rainbow, except it was also oddly savory.
+
+"I'm not sure if I like this or not," he said.
+
+Zach, meanwhile, was chowing down and only came up for air long enough to give a thumbs-up.
+
+Jo looked downright doubtful but was clearly too hungry to be that picky.
+
+Thomas tried a chunk of yellow and purple something, chewed, and decided it wasn't that bad. He just wished he knew whether this was meat or fruit. Maybe it was a mushroom.
+
+None of it pulled on his healing mana, so he figured it was fine.
+
+He'd eaten about half when the front door to the inn suddenly slammed open, and in strode a group of Light elves.
+
+There was zero question about who these guys were. Dark elves had blue to bluish-gray skin, dark hair—unless they were going gray like Akilah—and yellow eyes.
+
+These elves had chalk-white skin that would make any goth girl jealous, piercing blue eyes, and straight blonde Tolkien-elf hair. They were also dressed in fine clothing whereas the Dark elves around here were dressed more like hard working farmers.
+
+"Innkeeper!" one Light elf bellowed. "Table for five."
+
+The innkeeper immediately rushed in to serve them, actually pulling out a chair for each one. The moment they were all seated, another person rushed in from the back with drinks along with an extra heaping pitcher.
+
+Thomas noted they weren't required to pay the second they got their food.
+
+The Light elves were loud and boisterous, insulting each other and anything else that came to mind with casual arrogance.
+
+All other conversation in the inn seemed to die, as if everybody else was worried about being noticed.
+
+"You guys getting a bad vibe?" Zach asked.
+
+"Oh yeah," Thomas said.
+
+Jo nodded, and Thomas saw her reach down to the dagger at her side.
+
+Sure enough, the innkeeper came by and said, "Did you enjoy your meal?" His yellow eyes flicked to the Light elves as if to say, "Maybe you should leave."
+
+"A+, will come again," Zach said, flipping a Shadow mana crystal to him.
+
+The innkeeper caught it and nodded once. "This way, if you please," he said, gesturing them quickly not toward the front door, which would make them pass in front of the Light elves, but out the back. For whatever reason, he thought they should remain separate.
+
+Feeling the atmosphere, Thomas was not going to question him.
+
+They got up and made their way quietly to the back when, again, the door slammed open and a sixth Light elf came in.
+
+In direct comparison to the richly dressed group, he wore visibly rattier clothes than even the Dark elves and had a desperate, almost hungry expression.
+
+"Brothers," he said. "I seek—No, I beg your aid."
+
+"Brothers?" one scoffed. "You dare to call us that? After what you've done? After what you've touched?" He grabbed a piece of pie crust and threw it. "Be gone before I lose my appetite."
+
+The elf didn't blink as the crust bounced off his chest. "Please, do any of you have healing crystals? Any antidotes for poison?"
+
+Immediately, Zach and Jo closed ranks on either side of Thomas, Zach with one hand on his shoulder, Jo outright grabbing his arm and pulling him along.
+
+He didn't even realize he had stopped.
+
+"Yeah, okay," Thomas said roughly, shaking his head as if to clear it. They were right. This wasn't his circus.
+
+That elf had sounded desperate, and he felt bad for turning away. Then again, Thomas didn't know the first thing about how to cure poison.
+
+Though what if a child was sick?
+
+They were almost to the back door. Behind them, Thomas heard a splash of liquid and the Light elves laugh uproariously. It seemed like someone had upended one of the mugs of gemberry on the newcomer.
+
+"Please!" the newcomer cried, "She's unto death. I have nothing else in the world!"
+
+Ah, fuck it. He couldn't turn away when he could do the bare minimum and still help.
+
+Thomas hadn't realized he'd twisted out of his teammate's grip until he was facing back towards the elf drama. The poor guy had his hands clasped in front of him, the picture of supplication.
+
+Meanwhile, the Light elves at the table were laughing.
+
+It made his blood boil. He could help, at least a little.
+
+"Thomas," Jo growled in warning.
+
+Smoothly, Zach stepped in front of Thomas. "Not here, bro," he insisted. "It's the wrong moment."
+
+"I'm just going to give him a healing crystal," Thomas said. "It might stall the poison. Just let me—"
+
+"Can you get him out of here?" Jo asked Zach urgently.
+
+She had a look of alarm on her face, and it took him briefly aback. She was afraid... for him?
+
+"If I have to, but teleporting you guys plus the all the mana we're carrying will wipe me out." Zach spoke to Jo, but he was staring Thomas down as if daring him to try to move past him to the elves. "We'll get the dude the healing crystal, but not here when those other guys are looking for targets. All right? Trust your team."
+
+They were being overprotective about him being a healer again. Damn it.
+
+Turning away made him feel like a coward, but he still did it. He trusted his team, even though he was certain they were overreacting.
+
+It was only after they went out the back door and around the corner, when he was away from the sight of the man begging for healing help, that it occurred to him... Okay, they might have had a point about time and place.
+
+Zach, who was still watching him like a hawk, saw the switch. "Feeling better?"
+
+Making a frustrated half-growl, half-exasperated sigh, Thomas turned away. "Yes... No. I don't know."
+
+Putting himself in the target of those bully-boy Light Elves was not a good idea, to say the least. He couldn't believe how quickly his vision had tunneled in.
+
+"What happened?" Jo asked bluntly. "You're normally not so dumb."
+
+"My mana," he bit out. "It wouldn't influence me like that if I had healing skills as an outlet... but I'll need combat skills to keep up in the dungeons."
+
+"Use your health sight?" Zach suggested. "Like, passively? That should burn some."
+
+He shook his head. "Not right now, if there's someone dying nearby... I don't want to see it."
+
+Oh wow, he really was a coward, wasn't he? He also wasn't sure he could trust his own judgment. That was a terrible place to be.
+
+Did Akilah have a point? How could he effectively dive dungeons and manage increasingly pushy healing mana?
+
+Jo put her hand on his arm. "We'll figure this out later. Let's just go."
+
+"No," Thomas said. "I have a few extra healing crystals. We're going home right after this, right? He should have them."
+
+She didn't look happy about that, and Zach just looked on with sympathy as if still a little worried the mana was juicing up his brain.
+
+"I don't know what the crystals can do against poison," Thomas continued. "But maybe it'll help until he can get them to a real healer or hospital. It's the least I can do."
+
+Jo shook her head. "No, you're staying with Zach. I will give him the healing crystals." She held out her hand, no nonsense. "Give."
+
+Thomas wanted to object, but she also had a point. Silently, and feeling increasingly embarrassed like his friends were taking his car keys away because they thought he was too intoxicated to drive, he dug in his pack then handed over the healing mana crystals. Two were level 2, and one was level 3.
+
+Taking them, Jo walked back around the large inn to wait in the square for the elf to come out. Thomas and Zach hung back, closer to the System Marketplace booths.
+
+Thomas felt like he was burning with shame.
+
+"It's okay, bro," Zach said casually. "You've saved me from my mana how many times? You've built Jo up with the awesome loot drops, too. Let us give a little back."
+
+He knew what he was saying, but it didn't make him feel any better. Thomas scrubbed at his face and admitted. "Akilah told me I can get rid of the healing mana. I can burn my core back to zero and start again with a different mix."
+
+Surprised, Zach turned towards him. "You've never mentioned the details before. That's possible?"
+
+"For healers, yeah. Most got it... worse than me. Or I could try a different mix for my next level, see if that helps."
+
+"Oh right. Druid build, maybe?" He watched him carefully. "Is that what you want, though?"
+
+He lifted his shoulders in a shrug but what came out was, "Not really. I just keep thinking... what if someday someone's hurt, and I don't have the power to help? But that might be the healing mana again. I don't know."
+
+Zach just nodded, and they both turned their attention back to Jo, who was waiting with increasingly visible impatience by the inn door. What was taking the elf so long?
+
+And why was Thomas feeling more and more anxious for her? Jo was more than capable of taking care of herself. The elf hadn't been armed and it wasn't like she was going to be mugged. She would be giving him help. It would be a thirty-second conversation, tops.
+
+"We should use a code word," Zach said.
+
+Thrown, Thomas looked at him. "Huh?"
+
+"You know, for emergencies. I remember what it was like when the Fire took over back in the Mimic dungeon. I wanted to burn the whole dungeon inside out, and at the end I wanted to know what it was to burn." It was clearly a hard admission for him, and he carefully did not meet Thomas' gaze. "So I get it. If one of us is about to dive into the deep end of the mana pool, the other person tells him, I dunno, 'Pineapple' or something. Then you trust the team's judgment even if it feels wrong. Jo should get in on this, too, but I don't think her mana mix is a problem unless she goes way more into Poison."
+
+Part of Thomas wanted to scoff or make a safe-word joke, but was it a bad idea? Really?
+
+"She'll have to be the deciding vote on... Pineapple situations," Thomas said after a moment. "Poor Jo, she's the only one on the team not getting high off her own supply."
+
+Zach snorted a laugh and that helped cut the tension of this heavy, awkward conversation.
+
+They both turned their attention back to Jo, whose patience had apparently snapped. She was just striding to the inn door, a hand outstretched to the handle to yank it open.
+
+The door flew open before she could touch it and she hastily backed out of the way.
+
+Not a moment too soon because the poor bedraggled elf was flung out like someone being ejected out of a saloon in a spaghetti western. He'd obviously been roughed up, if not experienced a beating judging by the red marks on his chalk-white skin and split lip.
+
+Elves bled orangish-looking blood. Good to know.
+
+Laughter poured out of the inn, cut off when the door swung shut again.
+
+Thomas fought the impulse to step over and help. Zach would stop him anyway. Instead, he forced himself to stand back and watch as Jo helped him to his feet.
+
+The elf's pride was fully intact. The moment he was on his feet, he shook off her touch as if offended.
+
+Stone-faced, Jo presented him with the three mana crystals.
+
+The elf's expression blanked in shock. Then, snatching the crystals, he looked over her again and said something too low for Thomas to catch.
+
+She replied curtly, then turned to leave.
+
+Quicker than could be tracked by sight, he grabbed her wrist and pulled her back, bellowing in her face. "Where?!"
+
+"Hey!" Zach barked. A half-second later he appeared right next to the elf, a ribbon of fire sparking in his hands.
+
+Jo wasn't standing frozen either and had grabbed for a dagger at her belt.
+
+Again, the elf almost moved faster than could be tracked, showing that despite being roughed up by the other Light elves, he was above their level.
+
+He easily knocked the dagger out of Jo's grip, sending it skittering across the cobblestone street. Then, with a smooth motion he yanked her forward and around again against his chest, using her as a shield and forcing Zach to snap his ribbon of fire to the side at the last second.
+
+"Stop! Let her go!" Of course, Thomas had been sprinting to reach them, but unlike some people, he didn't have instant teleport and had to hoof it the long way. He reached them just as Jo stomped down on the elf's foot... and got no reaction. He definitely over-leveled them.
+
+"Where is your healer?" the elf snarled.
+
+"None of your business," Jo spat.
+
+"We don't have one," Zach said at the same moment.
+
+His face contorted into a mix of despair and rage. "I'm no fool. Only healers carry healing crystals, for not even off-worlders cross the Light Ones." The elf tightened his grip on Jo, making her wince. "Now, where are they?"
+
+Oh, right. On this world, healing mana was shunted off to places for healing. And, apparently, to those who could use it to heal others.
+
+"Fuck," Thomas said. "It's me, okay? But I don't know what to do for poison—"
+
+In an instant, the elf had released Jo and was at his side, instead. One hand was around his upper arm. His grip was like steel bands.
+
+"You will come with me," the elf ordered, like Thomas was a servant. "Now."
+
+He was starting to get why Dark Elves didn't like these guys.

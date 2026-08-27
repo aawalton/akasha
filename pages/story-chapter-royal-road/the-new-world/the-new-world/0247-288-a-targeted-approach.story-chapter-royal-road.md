@@ -1,0 +1,539 @@
+---
+id: 8e06d530-eed9-5bc6-b116-5f874f6b9806
+page-type-slug: story-chapter-royal-road
+title: "288 A Targeted Approach"
+slug: 0247-288-a-targeted-approach
+partOf: the-new-world
+position: 247
+ownLength: 7355
+unit: words
+ownProgress: 7355
+publishedAt: 2021-02-17
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/633317/288-a-targeted-approach"
+royalRoadId: "633317"
+markedReadAt: "2026-06-29T21:29:34.702Z"
+---
+
+284 Amassing Many
+
+I relaxed on a gravity well, knowing these kinds of issues come up all the time. An hour passed. By now, most of those around me twisted like knots. By then, a sinking feeling crawled up my chest too. Two hours went by, and now I joined the crew's anxiety, though I kept it to myself. When three full hours flashed by, a haunting realization popped up in our minds.
+
+We weren't worried anymore that they'd be late or even fail the mission. None of that mattered to me anymore. I just wanted them back. I wanted Althea back. I'd gotten so used to success I'd forgotten we could fail. As four hours passed, that understanding was like a nail being driven through my jaw. They still weren't back.
+
+And it didn't look like they'd be back anytime soon.
+
+-Chapter Begin | Daniel -
+
+I contemplated a lot as the hours of waiting went by. Why didn't I make more safety measures? Why didn't I join the mission? What was the point of going to this place anyway? My old reasons seemed so ridiculous now that Althea was gone. It was a gut punch, a sort of wake up call. I could lose people close to me if I didn't manage the situations well, which was soul-crushing.
+
+I racked my brain for optimization to the old plan, trying to come up with ways of making it better. In all honesty, it was sound, but some doubt in myself was inevitable. By the time I began hypothesizing a rescue/retrieval mission, I got a message I wanted more than just about anything.
+
+Althea Tolstoy(lvl 12,000 | Class: Executioner | Guild: Harbinger's Legion | Rank: Follower | Titles: The Shapeless Arbiter, The Formless Polymorph, Yawm's Inheritence...) We're back, safe and sound. Mission accomplished.
+
+I raised my arms and looked at those here while I shouted, "They're back."
+
+The guild perked up as a tsunami of relief passed over many of the members. I experienced it with them, my spirits rising. Walking up to Helios, I pointed at him,
+
+"You remember their rendezvous point, right?"
+
+Helios nodded, "I'll wait for them to arrive there. Maintaining a portal for that duration would be...exhausting."
+
+I bit my lip, but I kept silent. Helios knew ten times more about portaling than I did, so I trusted his judgment. Thirty minutes passed, and Helios opened the portal. We stared in, and Althea stared back. My spirits rose up before being dampened. She looked down for some reason, getting embarrassed about something.
+
+Peering close, it looked like they were pressed for time, and she hadn't fully reformed. She talked about that embarrassing her before, but I didn't care right now. I paced up to Althea, wrapping my arms around her. I leaned towards her while whispering,
+
+"Hey, beautiful. You look incredible."
+
+She leaned her head against me, and I could feel her discomfort fade away. Good. She overthought the little things all the time. I lifted her up off the ground and waved her back and forth. She grinned against my chest,
+
+"When are you going to let me go?"
+
+I put my head on hers, "Never."
+
+Torix passed me, gawking down at Alexander, "Did he die for Schema's sake?"
+
+Althea rolled her eyes, "Pshh, no. He's suffering from mana exhaustion. And physical exhaustion. Just, uh, general exhaustion honestly."
+
+Torix lifted his star pupil from the ground, casting a variety of spells for induced comas and regulated sleep,
+
+"It'll take weeks to fully recover. Think of the lessons he may have learned during that time."
+
+I raised an eyebrow, "A real mission like that is a much more valuable experience than a lesson."
+
+Torix sighed, "Perhaps...Perhaps."
+
+The others walked with us out towards Mt. Verner, and people celebrated. Relevant parties came in from all angles to comfort the mission's team. Friends and family of Isa and Lester came close, Bryan mixing in with them. Alexander had a group of other students to watch over him, along with Torix. Amara and Other Hod, on the other hand, had no one. They acted as loners, having no real support.
+
+I set Althea down, "Hey, I gotta check on Hod real quick. Is that okay?"
+
+She gave me a playful punch on the shoulder, "Do what you have to do."
+
+Walking over, I lifted the birdman with a gravity well, having him floated over to a waiting medical team. Torix turned to them as the doctors and nurses fiddled with various medicinal equipment, and the lich gasped,
+
+"Imbeciles, the lot of you."
+
+Torix pointed his finger at the mana conduit on Hod's hand. A quick zap of magic later, and excessive eldritch energy flooded through the device towards me. Hod gasped for air,
+
+"Gah...Hah...Hod full. No more darkness for Hod."
+
+Laying across a stretcher, his arms went limp, and the birdman snored, having gone to sleep instantly. Somehow both disappointed and impressed, I shook my head at the guy. Turning to everyone else, I spread out my arms, "It's time to get back and figure out what happened. Those from the mission, come with me to talk it out. I want to hear what happened in person."
+
+We all went towards Mt. Verner, and I floated everyone along the way. I fiddled with the idea for a different golem design as I did, and we were in a meeting room in minutes. Once we sat down, I called Florence and Helios outside the room. This was an insider's conversation with delicate information in the balance. I didn't want them passing it along to the Emperor for free since he wouldn't do the same for us.
+
+Torix caught my drift without me saying anything, and he cast two spells; one spell locked off any outer sound, and one was a localized EMP. Any active electronics in the room would fry, killing planted bugs. Something fizzled beneath our meeting table, and I ripped it off with telekinesis. Voila, a thin, implanted listening device tore off of the table's underside. Attached to it, a narrow, holographic message revved into action post EMP, and Florence popped up,
+
+"Hey, this is Florence, sorry about this. The Emperor paid me a lot of credits, and hey, I couldn't say no. You guys will find this before we even get any useful info anyways, so I'll give you guys some of the money, and we'll call it even."
+
+It showed his face making a goofy expression while scratching the back of his head and giving us a thumbs up. I facepalmed, as did Torix. Althea laughed before we continued with the meeting. Isa, Lester, Torix, Amara, Althea, Kessiah, and I sat around a particleboard table. It was harvested from Springfield nearby, and after refurbishing it, Torix had it installed when we first arrived.
+
+That very same lich gestured to our soldiers who arrived from the mission,
+
+"You may use your obelisks to convey the tapes and videos you used during your mission. No doubt we'll find all of your perspectives meaningful."
+
+Isa and Lester stared at each other, both of them frozen in terror. Torix's eyes narrowed, "Where are your tapes?"
+
+Althea jumped in before Torix grilled them, "I was the one responsible for documenting our tasks. They stuck to different priorities, like hiding us or gathering supplies."
+
+Torix scoffed, "Really now? Where are their supplies?"
+
+Althea turned to Isa and Lester, who both appeared dumbfounded. She nudged them on the elbow before the dungeoneers went to action, pulling out many documents and devices. Torix inspected them along with me, and I found various orbital graphs, forms, and charts. Combine that with a few safety lockboxes holding information, and this was all valuable stuff.
+
+I nodded out of respect, "Damn...this is good intelligence. Great work, guys."
+
+They looked at Althea, giving her a thumbs-up under the table. Combined with their awkward, forced grins, and these guys were just rolling with Althea's idea. From her quick thinking or not, this was an excellent payload, so I turned to them,
+
+"What else did you do?"
+
+They pulled out makeshift bombs and venom sacks from foreign eldritch. Lester even carried a few sketches of these eldritch, and he spoke up,
+
+"Ahem, these are metal eaters, a kind of eldritch we thought would be useful to document during our stay there."
+
+Isa pointed at him, "Exactly, exactly. I, well, I studied these flying cobras and their acids. We thought that, uh, you know, they'd be useful f-for attacking Hybrids."
+
+Torix deadpanned, "Ahhh. Yes. Of course."
+
+I shrugged, "Intentional or not, we can use this. We'll send this to the biologists downstairs and see what they make of it."
+
+Torix rolled his fiery eyes while sending a few messages. A worker came up, gave me a bow, and took the sketches and samples of the venoms/acids. Once the specimens left us, we continued with Althea's account. She took out her obelisk,
+
+"So yeah, I documented everything. I tried my best to get it all as I went. I kind of just do it without thinking now."
+
+Torix's eyes flared pink, "Now, here is someone that's actually helpful. Thank you."
+
+Althea smiled while uploading her data to our holographic desk. Seconds later, images of a foreign planet popped up. Althea pointed at it, explaining what I was on tape,
+
+"This is the giant ring on Gypsum. Everything they do is through here. Ownership of the planet is decided by who owns the upper portions of this wall. My guess is that the wall attacks someone beneath it if they don't own some of the wall's portions. Anyways, let me start this at the beginning, and I'll, er, explain what you're seeing."
+
+Torix interlocked his fingers, leaning forwards, "Do tell."
+
+Althea went through all of their trip from start to finish, taking over two hours of explaining to do so. By the time she finished, I was stunned by how much ground they covered and how much info she gathered. This meant we were going to be swimming in data about one of Elysium's most essential worlds.
+
+That wasn't the only important aspect of the mission. My fears and anxieties flared as I watched them fight a Spatial Fortress. There was no way I'd be able to stop something like that, not in the next decade at least. Sure, I'd survive fighting it, but that kind of monstrosity would overwhelm us utterly. It was humbling watching our guildsmen struggle against that thing, and it put into perspective how dedicated Elysium really was.
+
+They were willing to fight many of those behemoths. Impressive.
+
+Althea didn't talk much during that time. It left me concerned, and she grabbed her arm as she spoke. I ended up squeezing a fist, trying to keep myself restrained. Schema didn't know how to parse out allies with a weapon like that. The Spatial Fortress's lack of care almost killed someone important to me, and Schema might do the same to us sometime in the future.
+
+It just put things in a different perspective. We weren't at the center of this war, not by a longshot. If anything, Blegara was a side effort out of convenience. Elysium believed it was easy pickings, so it sent some of their extra forces there. The leftovers, so to speak. According to Obolis, Elysium already retook the entire planet over the last week after our retreat. They believed that Blegara was all theirs.
+
+I'd prove them wrong about that, in time.
+
+For now, I pushed down some worries over Althea and Hod. I didn't want them dying, and by the looks of it, this mission was on the wire since they came within an inch of their demises. They almost all died, and while eyeing Althea's side, I found a new, large scar where the Spatial Fortress attacked her. Its digestive acids must've interfered with the healing process, making for a nasty reminder of what happened.
+
+However, she was more than capable of handling herself, and I kept that in the back of my mind as she finished her story. Staring over her head, I found she gained a new class of some kind from the mission as well. She chose well, her strengths emphasized. Being near her, she radiated a quiet intensity like death lingering over a hospice.
+
+It was chilling. Reminding myself Althea was a badass helped calm me down.
+
+With Althea's side of the story finished, Amara spoke up right after, but about something else entirely,
+
+"I uncovered their system's data during my stay, and I infiltrated many of their informational streams. There's much to discuss."
+
+Torix kept his stare steady, exerting more pressure than he likely intended, "Then give us information on what you've discovered."
+
+Amara hissed, "Their system is similar to Schema's, relying on individualized cipheric energy flows. Their induction process would create a personal means of augmenting data based on achievement, just as Schema's system has. In Elysium's case, they reward less as you become stronger, the opposite of Schema's approach."
+
+Althea frowned, "They do that plus give away the Hybrids."
+
+Amara turned a palm to Althea, "Yes. Those abominations are partially the product of their system. They tie those deformed wolves to sheep so that the sheep feel strong. In the end, those wolves will devour those that are helpless. It is merely a matter of time."
+
+Amara turned a hand to me, "And such is their way. They invigorate the weak and neglect the strong. It is not what we eldritch believe in, or most of us, I should say."
+
+I pointed at the hologram, using my obelisk to interact with it. I turned the image towards Amara eating people, "What you eldritch believe in, huh? Kind of like this feeding frenzy?"
+
+Amara stared down, her cheeks flushing, "I...I lost myself."
+
+I pulled out a quintessence mana crystal and tossed one to her, "Don't do that again. You're a part of my guild, and we don't run through crowds by eating them. Eat one of these instead."
+
+She snatched the crystal out of the air, "I shall do as you say, Harbinger."
+
+I leaned towards her, "Anything else you discovered?"
+
+"Each planet carries a unique system interface, unlike Schema's approach. This creates localized energy flows for augmentation. It also means each planet carries a different kind of personalized security measure."
+
+Torix's eyes flared, "So going to Gypsum means nothing for hacking into Blegara?"
+
+Amara showed her teeth, "It means everything. I can now recognize, tap into, and interface with those energy flows. It will take far less time to infiltrate their other various systems, and their security parameters are likely similar between planets."
+
+Torix nodded, "Good, good. I was worried we didn't get anything from this risky venture."
+
+I frowned, "Or at least enough benefit to justify the risk. Either way, could you do the loudspeaker thing we mentioned for an entire world?"
+
+"Yes. It would be simple, though it wouldn't last more than thirty minutes at most. Their Builders would recognize my connection point and snap it."
+
+My eyes widened, "Builders, huh?"
+
+"Yes. Builders construct system data and strands. They are used by Schema via personalized, constrained AI's that do his service."
+
+I swung my hand, "So that's what those robotic, lifeless AI's do. They're like system cleaners."
+
+Torix stated, "Could we kill them?"
+
+Amara shook her head, "They would lie at the center of Elysium's headquarters, which is no doubt well hidden. Destroying that headquarters would tear their teeth and rip their claws. Should we ever find that hidden throat, we should bite into its succulent flesh."
+
+Amara shrugged, "No matter the outcome of this rebellion, someone's neck will be ruptured, however. It is only a matter of whose neck is exposed first."
+
+I blinked, "You mean if Schema loses?"
+
+"Yes."
+
+I never really thought about that possibility. It didn't seem like Elysium's goal was ever domination, even from the start. They just wanted to take many worlds, put them under their banner, and then maintain order. That required defending themselves from Schema's grasp, but they weren't the most offensive group. Not yet, at least. That could change any second, considering the amount of firepower at Elysium's disposal.
+
+I reached out a hand, "Alright, thank you for the report."
+
+Althea perked up, "I also think I discovered some sort of ritual for powering up Lehesion."
+
+Torix pulled out his fancy obelisk, and it automatically interfaced with the hologram. Turning to the moment of the ritual, Torix pointed at a mage,
+
+"You mean this specific event, correct?"
+
+Althea pursed her lips, "Yup."
+
+Torix took a deep, unneeded breath, "This is problematic, to say the least. They've created an augmentation ritual that enhances Lehesion's abilities. The mages likely die afterward, but that's irrelevant if they sustain a steady supply of mages."
+
+I watched Lehesion zip around the Spatial Fortress, and I whistled in response,
+
+"Damn...I don't think I can keep up with that."
+
+The others at the table went silent. My words carried more weight than I expected, especially for an off the cuff remark. Keeping myself relaxed, I leaned back, feigning confidence,
+
+"At least not yet. Gaining a class will come soon, and then a new tier of skill after that. I'll be more than ready then."
+
+The dread oozed off the table, everyone more comfortable just from a few words of reassurance from me. I let out a mental sigh. Being relied upon was hard, especially when it involved destroying those that obliterated worlds. Either way, Torix pointed at the last bit of Althea's video,
+
+"This interests me. The ring is alive, isn't it?"
+
+The dungeoneers and Althea shrugged. We turned to Amara, and she seethed, "And to what end could Schema need that machine for? It's far too large and lumbering. That was likely created before Schema, in an ancient time, where no monsters ruled. To what end? I cannot even fathom a reason."
+
+We thought about her words, the scale of the universe coming into our minds. It was amazing how much we didn't know about...well, everything. We went into the unknown with this mission, at least, and we came out with an absolute motherload of information. It was the kind of report that would let us get a lot more done.
+
+Knowing their contributions, I stood up and gestured to our returning team,
+
+"Alright then. Let's dispense with rewards."
+
+They stared at me, kind of surprised that I was offering anything. I turned a palm to Lester and Isa, "You guys did well helping them infiltrate then doing something useful in the meantime. I'm giving each of you a suit of armor, and your rank has been raised to Dungeoneering Specialists. You'll get better monthly payment, along with some perks."
+
+I turned to Torix, "Make it happen."
+
+Torix gave me a slight bow, "As you wish."
+
+I talked at Althea, "You did a lot of reconnaissance, and you managed to help uncover some vital info about Elysium's defenses. Well done. I'll be making you a new jumpsuit, and you'll be getting a personalized, super golem guardian. It'll help you when you need extra muscle or just keeping you safe in general."
+
+She let out a sigh of relief. Even if I couldn't protect her all the time, I could still give her an unkillable guard that could do it for me.
+
+I turned to Amara, "You've given us information on how Elysium operates, along with information on some of their various weaknesses. You'll also be helping me with getting Blegara under control. So far, you've helped the guild time and time again. It's time we help you."
+
+I opened my status, and I sent Amara my last Follower title. She gawked at her status, unable to believe her eyes.
+
+I put my hands on my hips, "It's up to you if you want to accept the title. It'll come with many responsibilities, but also many freedoms. You'll be able to come and go from the guild as you please, and I won't be lording over you all the time. No one will. You will be free."
+
+Amara blinked over and over, staring at the message from different angles. She pointed at it, "Are...are you certain?"
+
+I grinned, "I give my own what they deserve, and it's about time you get some compensation for what you've done."
+
+She accepted the status, and over the next few seconds, she growled like an animal. Her body reformed from the rush of free stats, and she stood a full foot and a half taller after a minute or two, going from five feet flat to six and a half tall(1.5 meters to 2 meters). Amara relished in the rush of power, her eldritch hunger flaring. It died down as she looked at me, and she gave me a deep, sincere bow,
+
+"Thank you, guild leader. I shall cherish this, truly."
+
+I turned to Hod, who slumbered out of exhaustion, "I'll give that guy a scythe and some gauntlets. Those will suit him well. As for Alexander, I'll be making him a cloak and staff."
+
+Althea gave me a smile, letting me know I was on the right track. I returned the gesture before turning to everyone else, "Do you guys think that's about all we need to cover?"
+
+The returning team gave me nods, along with looks of adulation, namely from Isa and Lester. I pulled the meeting room's door open with a gravity well while Torix canceled out his silencing magic. Florence and Helios walked in, both of them conversing for once instead of bickering.
+
+"Really? you managed to get uncle out of a war front once?" Florence asked.
+
+Helios stood proud, "I did. I preemptively memorized that planet's data beforehand without his asking. This allowed me to exceed expectations, even those expectations were high."
+
+Florence looked at us, and I pulled up his data card between two fingers,
+
+"Looking for this?"
+
+Florence nudged Helios, "I told you they'd find it. Two hours flat."
+
+Helios shrugged, "I suppose we'll let Obolis know his suggestion was a failure."
+
+Torix fumed, "You two are very lax, considering we just caught you spying."
+
+Florence pulled out a fly held between two of his claws. As Florence smashed it between his fingers, a burst of blue magic erupted from the fly with a skull-shaped poof of smoke. Torix looked away, appearing nervous,
+
+"Touche."
+
+The two albony sat down before Helios's eyes locked in on all the documents spread on the table, the ones Isa and Lester grabbed from a shop. Helios pointed at them,
+
+"May I?"
+
+I turned to Torix, and the lich shrugged,
+
+"I don't see why we wouldn't share it with them. These hardly hold value."
+
+Helios tapped the document, and tracing magic coursed across the paper. He read the magical lining, and as he finished, he set the form down,
+
+"These are the orbital paths of Gypsum."
+
+Torix leaned back, "How did you read that? It's encrypted."
+
+Helios interlocked his hands behind himself, "I've been researching Elysium's new encryption as they've been updating them. I ran through several of the common patterns, and it gave me enough insight to discover that document's contents. That's warping information, isn't it?"
+
+I raised my palms, "Don't look at me. I have no idea."
+
+Helios piled the papers together while looking at the various devices, "I can use this information, memorize it, and then warp freely to this world. Give me a matter of weeks, and it shall be done."
+
+Torix's eyes narrowed, "Weeks, you say? We're expected to trust in that?"
+
+Helios spoke with confidence, "I am a prodigy for a reason."
+
+I furrowed my brow, "Uh, I'm out of the loop. What's going on?"
+
+Helios gestured at the papers, "These carry the orbits, algorithms for calculating orbits, time system data, and the solar system's location. This...hmm, Gypsum, was it? Its orbit is inordinately complex, so it will take some time to master. It can be done, however."
+
+I turned to Torix, "So why are you so impressed?"
+
+Torix pinched the bony bridge of his nose, "I forget there's much you still know little about. Warping requires memorizing various orbital speeds, patterns, and the time systems used on a planet. It can require more than that, such as factoring in the speed of a solar system's rotation around the center of the Milky Way or its general location within the galaxy as well."
+
+Helios added, "Along with the Milky Way's current floating path in deep space."
+
+Torix nodded, "Most mages cannot warp a far distance as these calculations become absurdly complex. Even if they can maintain said arithmetic, the act of 'throwing' your portal, so to speak, requires absolute precision. Otherwise, warps move and wobble. You may be halfway through walking into one before it begins warping you into the ground."
+
+I raised my eyebrows, "What happens then?"
+
+Helios deadpanned, "Your body intermingles with dirt, killing you."
+
+I spread out my hands, "Why haven't I noticed this before?"
+
+Florence spoke up, "You've never been around someone who sucks at warping. The specialists you're around have also stuck to warps that were close by. If a warp is within a visual distance, you can offload a lot of the calculations to proprioception and your brain's natural ballistic engine."
+
+Helios flicked his fingers, "You 'throw' the portal so that it matches your location. That is a feel oriented process. Once a portal is out of sight, calculations must be made, else people will die. I'm an exception to the norm regarding portalling, so I can throw my portals over light-years using my mathematical ability. And skill, but that much was obvious."
+
+I crossed my arms, "So learning to go somewhere new should take longer than a few weeks, I'm assuming?"
+
+Helios smirked under his mask, "Oh, most definitely. A planet like Gypsum? Oh, it could take months to years if you can learn it."
+
+"Why can't you just use a calculating app for this kind of thing? That would make it a hell of a lot easier."
+
+Helios took a breath, "Excellent question. The reason is simple - portalling requires visualization. Accurate visualization. A calculator will give you the correct position and orbital path, but you won't understand the depth behind the number. By following through with the equations on your own terms, you can extend your awareness far beyond what you'd believe possible. It's as if you're putting on a pair of binoculars constructed out of the equations you've used."
+
+Florence scoffed, "In your case, Helios, it's more like a telescope."
+
+He raised a hand, "This is how I go about the process. I understand where it is. Then I pinpoint that reality and path mentally, calculating the processes to enhance my precision. Afterward, I use my experience to land the portal."
+
+I turned to Torix, "How long would it take you to learn this kind of thing?"
+
+Torix stared to the side, "I...would likely be unable to do so. I've made attempts at learning long-distance portalling. The practical concerns meant I thought of it as a ritual oriented process. That's where my own ritual spawns from, and that's how I made it to Earth in the first place. There was a prolonged, strange energy signature. I mapped its direction, figuring out Earth's movement patterns."
+
+Torix rolled his hands, "It was an ingenious solution, but to make a long story short, I used my runic calculations to map a position to Earth."
+
+Helios leaned back, "Well, the lich knows how to do more than reading charts and graphs. He can make them."
+
+Torix brandished a hand, "It's to be expected of me, really."
+
+I leaned my head onto a hand, "Portalling sounds ridiculously hard."
+
+Florence scoffed, "You're telling me. I was never suited for it. Most warpers are cold, calculating individuals. That's why-" Florence put his hand over Helios's shoulder, "My brother is one of the finest warpers out there. He's an ice king, after all."
+
+Helios crossed his arms, "I think of it as using my personality to my advantage."
+
+I pointed at myself, "Could I learn to warp?"
+
+Helios raised a brow, "Hmm, perhaps. I doubt you're of the aptitude for long-distance portalling. The time investment in maintaining the skill is enormous as well. Short distance, throw based portalling could be learned, however. Mastered, even. That would suit your magical style as well."
+
+Helios turned a palm to me, "I could organize lessons for it while I learn the data for Gypsum."
+
+I raised my eyebrows, "Alright, could you keep your sarcasm to a minimum while teaching me?"
+
+"Oh, certainly."
+
+I sighed, "Well, that's about all I could hope for. We'll get those lessons done after we've established a bulwark on Blegara."
+
+Helios tilted his head, "Don't forget your contractual obligation to Obolis. You still need to handle the Ahcorus and eliminate Plazia-Ruhl."
+
+I gave him a thumbs-up, "We'll get it done."
+
+Turning to Amara, I put my hands on my hips, "It looks like you'll need to stay on Blegara for a bit to get a lock on their security, at least based on what you said?"
+
+Amara nodded while draining the crystalized mana I gave her. I spread out my arms, "We'll get to Blegara tomorrow morning. Without us resisting, I'm pretty sure Elysium's established a pretty widescale network there. Unlike Earth, there isn't really any kind of pro-Schema faction to worry about, and few Vagni really systemized anyways."
+
+I gave my hands a single clap, signaling this was done, "Alright then. The gialgathens will be helping us launch an attack a few days from now on Blegara with my golems. We'll have a few surprises for Elysium on top of that as well."
+
+Althea stood up and walked over to me, "How many golems are there now?"
+
+I grinned, "Many."
+
+We ended up chatting for a bit, Isa and Lester recounting a few stories about Gypsum. It was a fascinating world, and I anticipated stepping on it one day. For now, getting the most out of this excursion to Blegara preoccupied my mind. I could get thousands of more Omega Strains during Amara's stay there, which was the perfect excuse for it.
+
+I didn't want Helios or Florence to become suspicious of my actions, so I hadn't made any trips to Blegara. If Obolis uncovered the Omega Strains there, he wouldn't hand over the planet so quickly. By waiting for the right moment, I covered my tracks and prevented Obolis from becoming aware of the hidden resource.
+
+That being said, Helios warping me wasn't the best idea either. He could plant an unseen bug of some kind like before, and that might put Obolis in the know. Preemptively stopping a problem before it began, I walked up to Helios after the meeting,
+
+"Hey. Don't worry about getting Amara and I out towards Blegara. I'm going to get Spear to help us out. You need to be able to focus on those coordinates and lessons."
+
+Visible relief passed over Helios, the idea of warping us over and over looming over him like a dark miasma. He raised a hand,
+
+"I'll repay your kindness with my full efforts."
+
+He walked off towards his own living quarters, carrying the documents and warping devices. In fact, everybody got to work after the meeting ended, many of our members moving onto their own projects. I was no different. I caught up to Torix, who walked his way towards our golem station. I joined him. While jogging over, an idea popped in my head, and I wanted to run it by Torix.
+
+I waved a hand around us,
+
+"Mind setting up the quieting magic?"
+
+We departed towards the forgotten tunnel where the Omega Strains did their magic. During our brisk walk, Torix raised a hand and snapped his fingers. A moving bubble of sound protection passed over us, blurring the outer world. I continued, "How are the Omega Strains doing?"
+
+"Excellent. There have been no issues outside of a few untimely deaths."
+
+I frowned, my eyes widening with shock. Torix cackled, "You should see the gaze you just gave me. Hilarious, I tell you. No one has died. I am a lich, a true master of life and death, after all. Given your orders, I've taken care of these test subjects as instructed."
+
+I let out a sigh, "Thank you. Should we move forward with the project then?"
+
+"Absolutely."
+
+"Cool. I'm thinking of taking my golems with me when going towards Blegara. They'll help me harvest as many Omega Strains as possible while we're over there. Do you think they're ready for that?"
+
+Torix stopped in place, and I turned to him. He raised his hands, "That's...That's genius."
+
+I raised a fist, "Hell yeah. The thing is, I have no idea where all the golems I sent you are. I'll need to swing by and pick them up. Same with Spear." I looked around, "Speaking of which, where the hell is Spear? It's been a while since we last talked."
+
+Torix scoffed, "Oh, I've been utilizing that resource since you gained Helios as your personal chauffeur. If you'd like to meet with Spear, we're on our way to him."
+
+I pursed my lips, "Huh. Okay."
+
+We went deeper through our abandoned tunnel, passed where the Omega Strains were located. Further beyond, a newly built door stationed itself a ways away from every other experimental chamber. From inside, dim shouting echoed out. I turned to Torix, "What's in there?"
+
+Torix interlocked his hands behind himself, "Let us find out."
+
+The door swung open, and an expansive concrete room unveiled itself. It was larger than a football field, having steel pillars dispersed throughout it. Closer to our side of the room, Spear stood with his chest out and spear at his side. He planted it down, and a battalion of super golems followed suit. Spear roared,
+
+"I serve my master. His will is my will. His goal is my goal."
+
+The super golems made a telepathic shout, repeating his words. After finishing that statement, Spear looked towards us, his Sentinel armor still cracked over him. Spear pointed back towards the super golems, "Meditate on the depths of your gratitude as I speak with your masters."
+
+The golems thought back, "Sir, yes, sir."
+
+They sat down in unison, crossing their legs and meditating as Spear liked to. I gawked at him,
+
+"So, you've been busy, huh?"
+
+Spear walked up, "Yes. I gave these things the course we Sentinels went through, but I replaced Schema and the system with the Harbinger and his guild." Spear peered at the group of nearly fifty super golems, "It has worked well enough."
+
+I peered at the disciplined group, "No kidding." I waved my hands, "Anyways, I need these guys to help me get some stuff on Blegara. Can you warp me there?"
+
+"Yes. When will that need to occur?"
+
+"As soon as you can make it happen."
+
+Spear turned and shouted at the golems, "Everyone stand. You have a new mission effective immediately."
+
+They did as he said, standing into position. Spear stepped aside, "This man needs no introduction. He'll brief you on the mission, and you'll do as he says. Understood?"
+
+A thought roared back, "Sir, yes, sir."
+
+Nervousness crept up my spine as I coughed into a hand, "Ahem, ahem. So, uh, I'll need you to harvest Omega Strains from Blegara tomorrow morning. Torix will show you them, and you'll just put them in your personal pocket dimension. They have very little mass, so it's more so a speedy harvesting mission than anything else."
+
+They spoke out with an awe-inspiring level of unity, "Sir, yes, sir."
+
+I spread out my hands to Spear, "Holy shit. You're good at this."
+
+Spear took a deep, satisfied breath, "It comes naturally to me. I love this feeling. Discipline, honor, and gratitude - that's all a soldier really needs." Spear stared into the distance, his mind wandering to a different time,
+
+"By Schema, I loved boot camp. Those were the days."
+
+Staring at Spear, I realized I would never have been a great soldier. I was too stubborn and defiant, and though I recognized those qualities as strengths, the military wasn't the place for them. In this case, the golems' single-mindedness made them far more effective as a unit. So much so, they intimidated even me.
+
+Lacking any kind of complaints, I messaged Amara, detailing the contents of our new mission. Handling everything I needed doing in the day, I went by my living space, the personal suite at the top of Mt. Verner. Surfing her obelisk and relaxing on our bed, Althea peered up at me. I grinned at her-  and she returned the gesture.
+
+We rested together for a while, relaxing and enjoying some time off for once. A bit later, I ordered a few foodstuffs, and a chef from the lower floors had them delivered. Waiting and talking, Althea told all about the mission, focusing more on how she felt during it rather than stating facts. It affected her more than I think she realized.
+
+The encounter with the Spacial Fortress stuck out as particularly traumatizing. I waited on addressing my concerns until after our evening meal for that, wanting her to have a good time. We got two glasses of wine, two steaks, and a cilantro soup dish I enjoyed. I didn't make it for me, though. That soup had been her favorite from when we did these dates all the time before we killed Yawm.
+
+Ever since killing him and coming to Giess, quiet moments like this came less and less frequently. I tried staying in the moment, really soaking the meal and time with her in. Despite not wanting to, time passed as we sat at a glass table for two. Before we knew it, we watched the sunset in the distance, talking all the while.
+
+It was the most relaxing day I'd had in a long time.
+
+As the night settled down, we cuddled on our bed. Althea looked stressed out, and despite my curiosity, I took my time, trying to exercise some patience. I leered at her while asking,
+
+"Hey."
+
+She muttered back,
+
+"Hey."
+
+"So, I don't mean to pry, but you seem stretched thin. Is everything okay?"
+
+She looked up at me as I hugged her from behind, "I...I think it is. At least it is now."
+
+She cuddled closer, and we sat there for a few minutes. Thinking I resolved the issue, I relaxed some. Althea spoke up,
+
+"Maybe I'm not okay. I feel...petrified. It's weird."
+
+"What do you think has you so shaken up?"
+
+Her eyes glazed over, and she relived a terrible memory. She shook it off, "I think it's...uh, that fortress thing."
+
+I tried being gentle with my words, "What about the fortress thing?"
+
+"Seeing one up close, it really puts into perspective how powerful Schema is. It also made me feel helpless. I couldn't have done anything, and we're lucky we're alive. In all those missions, that's the closest I've come to death in a while. Maybe ever."
+
+I didn't know what to say, so we stayed quiet. Althea stared at the ceiling, taking a moment to think. Her voice cracked a bit, "Yeah...I'll pull through. It's just, you know, hard sometimes."
+
+She blinked back a few tears before I winced. She cried for a while, and I couldn't think of anything to say. Instead, I took deep breaths, trying to soothe her with my own sense of calm. It helped, but she still shivered a bit from the whole experience. She stared out a window into the dark after settling down, and she murmured,
+
+"Do you ever feel like you're in over your head sometimes with all of this galactic war stuff?"
+
+I closed my eyes, "All the time."
+
+She pursed her lips, "How do you get through it?"
+
+"By moving forward. I've found that if I overthink about what's happened to me, I end up getting overwhelmed."
+
+"That doesn't exactly sound healthy."
+
+"Yeah, it's probably not."
+
+She laughed a little, more so as a release than out of genuine humor. She whispered, "I don't think I'm strong enough to do that all the time like you are."
+
+I shook my head, "No, I don't think it's real strength. I think...I think I'm hiding from something. I never look at this terrible monster chasing me, and instead, I keep looking forward. You're the strong one. You face that monster head-on, even when you know it's horrifying."
+
+"You really think so?"
+
+"I know so."
+
+We lingered there for a minute, and she wore a sad smile on her face. Within minutes, she fell asleep in my arms, exhaustion taking her. I used gravity as I got myself out from around her, and the whole event got me thinking about our circumstances. We were dragged into this after just wanting to avoid our unknown statuses. Even after killing Yawm, Schema wanted more from us.
+
+Now, he got more. Probably more than he ever hoped for, and that left me angry and resentful. Schema had a bad habit of playing a rigged game with people, one where he always ended up on top. I wasn't precisely boiling with hatred, but some bitterness leveled overtime at the AI. This kind of incessant, constant stress...it wasn't good for people.
+
+I might handle it via stats and my armor, but most were like Althea, barely holding on all the time. It wasn't fair, not to her or anyone really. Elysium showed a better way, but they went about their changes via mass murder. Torturing the eldritch and silvers wasn't exactly right either. I learned that fact from Amara and Other Hod, who helped us and worked within our guild just fine. I was sure other eldritch wouldn't be so different, at least some of them.
+
+Seeing people struggle like this all the time, it made me think back to my contract with Yawm. He used Etorhma's cipheric augments to power the deal, and he likely copied a lot of his own contracts formed with the Old Ones. For that reason, it was a guaranteed outcome - I had to rewrite a meaningful change in Schema's code at some point down the line.
+
+To do so would require more studying, a few Builders like Amara, and luck.  If all that did happen, which was a big if, then I'd write down some of the changes Elysium fought for. While I disagreed with their methods, their goal was sound. They wanted Schema to be finished and become fully realized. Routine updates would be even better, but I doubt Schema would allow that to ever happen.
+
+Still, it was worth wondering about.
+
+After leaving Althea to sleep, I went and made golems all night. The routine, fulfilling hustle cleared my head by morning, and I met up with Spear and his super golem armada. They looked ready and trained for the task, all of them knowing how to use their storages. Their own repositories lacked many of my pocket dimension's abilities, but they got the job done.
+
+Ready and waiting, these giants surrounded Amara. The eldritch Builder shivered while around them, and her terror suffused the entire area. As I showed up, she actually relaxed a bit. Amara still gawked at the titanic golems like they were demons, but my presence helped. Her promotion to a follower gained her trust, which was a whole lot better than controlling her through abject terror.
+
+With everything set up, I stood beside Spear, who began waving his dimensional slicers. With a quick wave of his hands, he cut open a downward-facing slice through space-time, and I helped finish the cut. With a torrential portal opened, my golem battalion marched through towards Blegara's liquid surface. We jumped into the portal, landing just above the sea. If we didn't take these precautions, Mt. Verner would flood with Blegara's endless oceans.
+
+We splashed across the surface, sinking down. I stared around, inspecting all that Elysium accomplished in a week.
+
+Yet again, they defied expectations.

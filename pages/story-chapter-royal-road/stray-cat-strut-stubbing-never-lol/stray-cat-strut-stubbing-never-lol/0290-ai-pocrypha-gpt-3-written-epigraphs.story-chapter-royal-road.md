@@ -1,0 +1,43 @@
+---
+id: d272187e-159e-5b90-aae0-a4183bfd8e39
+page-type-slug: story-chapter-royal-road
+title: "AI-pocrypha - GPT-3 Written Epigraphs"
+slug: 0290-ai-pocrypha-gpt-3-written-epigraphs
+partOf: stray-cat-strut-stubbing-never-lol
+position: 290
+ownLength: 1308
+unit: words
+publishedAt: 2022-06-15
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/927773/ai-pocrypha-gpt-3-written-epigraphs"
+royalRoadId: "927773"
+---
+
+Alright, so the following are all pre-chapter excerpts (epigraphs) created by a GPT-3 AI who was fed the entirety of Stray Cat Strut. I’ve curated the selection a bit, since a lot of them were... nonsensical. Those which were nonsensical and funny remain. The rest, not so much.I’ve provided some commentary in italics below the AI-generated sections. Anything not in italics on this page was written by GPT-3.Huge thank-you to Hazerdous1222, who... basically did all the work. I not only lack the time to figure this out, I also lack the brains. Hazardous is something of an AI genius.Also, to any of you who still think that writers won’t be replaced by AI in the coming years... well, uh, bad news!"Hacking for Dummies is a program where some of the better-liked celebrities and great people in the world today help to teach beginner hackers so that they can spend their time ruining the lives of people across the globe."This one broke the formatting a little, it was one of the first time we tried to run the engine. Still, I thought it was pretty funny!
+
+"The last time the time standard was updated, the world was still flat and full of dragons."--The Historian, after replacing a New Time standard with a ‘Utter Bullshit Standard' during his tenure as head of the Bureau Of Standards in 1600 ADThis one is my favourite of the entire lot. Yes, it’s nonsensical, but it’s just absurd enough to be hilarious. I too, wished that we used UBS time in our day-to-day.
+
+"Foundation Class is for those that have shown themselves worthy to improve the world in ways not just through weaponry, but through technology and science.Would-be Recruits of this Class must meet certain Tier requirements as laid out below."--from listing by Agent Ash Jameson, Isodropensia Division Nº 572, 2052I can kind of see where the AI pulled this one. Still, some parts are bizarre. Isodropensia... just isn’t a thing. At all. It just flat-out made a word up.
+
+We need a lot of firepower.It's time for an Air Strike!Extremely sorry about the puns, but this is too good to pass up!"--Anonymous International Collateral Damage Prevention Kit commercial, 2037-2038If you cut off the third line, it might actually make for a great epigraph.
+
+It's been three years now since the first moment when a woman could access her sexual health, and still no one knows exactly what that experience is.The technological crew at DocTing decided to keep their favourite service close to the chest, hiring security for the triple digit billion dollar servers that power it.While few know what goes on behind those screens, hardly anyone really wants to know."--Excerpt from New York Journal of Sex Technology, March 2038I have no idea what the heck this means, but I’m all for it. Also, DocTing? I don’t know how the AI came up with that name, but it seems like a plausible name for a fake medical corporation. I’m pretty sure the New Your Journal of Sex Technology isn’t a thing either. Creative!
+
+"Off the grid, quiet, and as far as we can tell, non-human."--Excerpt of conversation between Samurai and members of a Colombian Cartel, 2038A bit short, but a really good example of an epigraph. This one has style and it shows that with only 24 words.
+
+There are a lot of myths about Samurai and how they live. One is that they are all world-saving marvels, doing good deeds for the sake of the common folk. Another is that there will be talented but vampiric Saiara on top of their leaderless skyscraper fortresses, gathering to them gaggles of admiring girls who see them as powerhouses too great to resist.The narrative has been taken without authorization; if you see it on Amazon, report the incident.And then there's Myalis, a near-omnipotent AI whose only weakness is being called fat. What she does with her time couldn't be further from any of those things if she tried."--Excerpt from "The Tales That Myalis CanGPT-3 just flat out calling Myalis fat had me cackling.
+
+"There is a point when the thing you do needs to stop being something special. At that point, if you are lucky, it becomes part of your identity."Well, that’s just inspiring.
+
+"Open cities that stay open.This is the goal of our second project, to establish a region of world wide plural governance, democracy and freedoms for all.Destroy and rebuild the barriers between us all! We can do it!!"-- An excerpt from Viral's speech at a town hall virtual meet-up during the second wave in 2052. A quote attributed to him since, even though he claims not to have said such an outrageous thing. Regardless, his political party did win a significant share of seats during that year's federal election cycle."I’ve seen the AI mess up the formatting a few times, but this one is interesting, where the quote section tells you a lot more about the quote than the quote itself. Interesting divergence.
+
+"Most of the time, the VIPs that shuffle around are one-or-bother people. They exist for the sake of looking impressive to others and only need a few guards to get from A to B. The more important a person is, the larger their security needs."--Myriam on Security Experts, 2020Another decent epigraph. I can see this one existing in-story. It doesn’t speak much of the human condition, but some of the epigraphs I wrote are similarly plain.
+
+"Put bluntly, the public's trust in governments and other entities is at an all-time low. It's not just politicians who are losing their image with the public, it's anyone who has a government job in any aspect."-- The Vanishing EconomistReally digging the name ‘The Vanishing Economist.’ Also, a decent epigraph.
+
+"The easiest way to keep the peace, is to just raze everythingEverything a few kilometers on every side of them. Everyone ends up as anonymous bodies in a mass grave, no one wins. The cities stop making money so they can't afford to donate to the subhuman cause."--Senator Alfred Von Grating, 2031What a heartwarming statement! I can imagine a real senator saying something vaguely similar, so it’s a pretty spot-on SCS epigraph candidate.
+
+"PLAYING AND CHEATING WITH PLAYERSManipulating the game to defeat other players and manipulate the outcome of the game is considered a legal tactic. Allowed in-game cheating and manipulation are entirely within the realm of how it should be, so long as exploitation exists within reason."-- excerpt from A Gamer's Guide: Playing StarCraft by Twinge Publishing Ltd., 2028An interesting one. I recognize Twinge and the fake “Twitch” I created. I don’t recall ever mentioning Starcraft in SCS, but the AI has access to plenty of public records that likely tie the game to... well, games.
+
+"The nature of Flashes in the Dark remains one of the most controversial points of discussion for fans and critics alike. Some claim that it's only a metaphor, that there is nothing beyond symbolism, subtext and allusion. Others maintain with conviction that their artistic vision extends to their own philosophical beliefs and religious understandings. Still others refuse to lend any credence or gravitas to the issue."--A Companion's Guide To Music & Pop Culture In 2046, 2047 Edition! (2047) chapter 5: The Sound Of Crime!Somehow, a little ominous. Also, ‘the Sound of Crime’ is a really cool name and I’m stealing it.
+
+And that’s all for now. If you want to play around with the system, join my discord! The bot’s in one of its own channels.If you want to support this kind of nonsense, then join OpenAI with a free account and send the apikey to hazardous1222#8826 on Discord! If you have any questions about the AI itself, then... ask them here, I guess!This is going to be part one of two. I’m working on some mini-interludes written with AI assistance. We’ll see how that turns out!

@@ -1,0 +1,115 @@
+---
+id: 1ac11fe2-9459-5664-995a-8d1c61424e6f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 497: Bad timing"
+slug: 0064-chapter-497-bad-timing
+partOf: rise-of-the-living-forge
+position: 64
+ownLength: 1603
+unit: words
+ownProgress: 1603
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2661113/chapter-497-bad-timing"
+royalRoadId: "2661113"
+markedReadAt: "2026-06-29T20:00:29.049Z"
+---
+
+“Delivery,” Olive said, stepping over the bisected body of the lizardman to hold her bag out to the exhausted group of adventurers in the corner of the watery dungeon boss room. “Seriously, though. Why are you ordering this in the middle of a fight?”
+
+“I — what? We didn’t… who are you?” one of the men stammered. His face was splattered with blood and his shield had been sheared clean in half at some point during the fight. He, along with the three other adventurers that made up his party, stared at her in a mixture of horror, awe, and confusion.
+
+“What do you mean?” Olive asked. “Of course you did. Damned stupid idea, by the way. If you’re fighting, focus on fighting. Not eating. Now just take this already. I have a schedule to keep.”
+
+The four adventurers exchanged a baffled glance. Then the woman at their back who seemed to be their leader slowly pushed herself to her feet and swallowed.
+
+“I… we didn’t order anything. I don’t know who you are. But I think you just saved our lives. Thank you. That boss—”
+
+“Delivery,” Olive said irritably, resisting the urge to shake the bag in front of them. “Don’t think you can wait the time out to get free food. I’m here. That means it’s on time.”
+
+The adventurers stared at her.
+
+“Where’s the egg? Come on. There’s really no point in playing dumb.” Olive said in exasperation. She looked down to her wrist, where her bracelet was still indicating the direction of her delivery. It was pointing right in their direction.
+
+All four of the adventurers shook their heads in mute confusion.
+
+“Are… are you with the Adventurer’s Guild?” the woman asked. “Or is this some kind of rescue? Did our guild pay for this?”
+
+A chilling thought struck Olive.
+
+She stepped to the side.
+
+The bracelet continued to point in the same direction.
+
+Olive strode straight forward. The adventurers all pulled back, but she ignored them, walking right past the group and over to the edge of the room. The bracelet’s indication didn’t so much as twitch.
+
+She’d stopped at the wrong room.
+
+You have to be kidding me. You’re telling me I cleaned out this whole room to deliver the food properly and it wasn’t even the right one? Damn it.
+
+“Ah, shit,” Olive said, pinching the bridge of her nose between two fingers. “Uh… sorry. I didn’t mean to interfere. I might have mixed you up with someone else. My bad. I’ll be on my way, then.”
+
+“Our guild didn’t send you?” one of the other adventurers asked in the stunned silence that followed Olive’s words. “Wait. You’re actually delivering food? Like, actual food?”
+
+“Yeah,” Olive said. She cleared her throat and edged toward the door.
+
+This is so awkward. It’s a really good thing they were having a tough time with this fight. If they hadn’t been, I basically would have just stolen their kill for absolutely no reason. I don’t think we want that kind of reputation.
+
+“Who delivers food in the middle of a dungeon?” the female adventurer asked, aghast. “Are you serious? I—”
+
+“The Menagerie,” Olive said, darting for the door and pulling it open. “Sorry. I have to run. Schedule to keep, and there’s only ten minutes left of the thirty. We operate out of Milten.”
+
+“You have a thirty minute window to deliver the food?” another of the adventurers asked, staring at her back in disbelief. “Are you kidding me? How is that even possible?”
+
+None of them got an answer. Olive was already gone, racing deeper into the dungeon and leaving the adventurer team staring in stunned silence in the spot where she had once stood.
+
+“What kind of delivery service kills the monsters in the dungeon for you?” one of the men muttered. “Is she bringing food or a rescue?”
+
+“Did you guys smell that stuff?” the woman asked, swallowing. “I think it might have been both. I swear there was heaven trapped in that bag. What group did she say she was with?”
+
+“Menagerie,” the fourth of the group said. “She’s with the Menagerie. That’s the group with the demon themed tavern and the crazy smith, isn’t it?”
+
+They all exchanged a glance. Then they looked down to their tattered armor. One thing was for certain. They weren’t making it any deeper into the dungeon today.
+
+“I’ve never seen anything like this before,” the woman muttered. “I think we might need to go pay the Menagerie a visit.”
+
+***
+
+It had been three days since the Menagerie started their delivery service. And, in that time, Arwin had made twenty more eggs. It was little wonder. Reya’s promise of thirty minute deliveries had clearly been enough to get everyone’s attention.
+
+They must have all been confident that the Menagerie would mess up on their timing and they’d get a free meal. Lillia had been forced to put a limit to the number of deliveries they’d do a day because they’d yet to re-locate Vanessa and physically couldn’t keep up with the demand.
+
+Even still, it didn’t take Arwin much effort to make the eggs. He’d barely had a single chance to speak with Reya or Olive over the past few days. They were constantly out running deliveries, but they both seemed to be having a fun enough time of it.
+
+Well, I suppose it doesn’t matter if we lose some money by being late with the deliveries. Reya might have come up with a brilliant plan. Even if we can’t actually get the food to people within the window every single time, it gets a ton of attention. We can eventually raise the time limit or limit the range we deliver to. This is a great way to get the word out about the new program, and that’s all that matters in the end.
+
+And hey, Reya and Olive seem to be enjoying it. We just need to find a way to scale so this doesn’t stay so limited for too long.
+
+Lillia would handle that. This was her project, and she’d made it clear exactly what she wanted from Arwin. His job was to make eggs and ensure that the system enabling the deliveries functioned. Everything beyond that was hers. The more of it she dealt with herself, the more energy the Mesh would reward her with.
+
+And Arwin had jobs of his own to attend to. He’d been getting a number of more complicated requests recently. The past three days had been a haze of work as he created armor for many of the clients that Rodrick and the others had already vetted for him. That, in turn, earned him a rather sizable pile of rare materials that he gave to the Infernal Armory for safekeeping.
+
+They would come in a lot of handy for some personal projects that had been lingering on his plate. He still needed to make more armor for the Menagerie. They’d also given false information to the Blacktongues, telling them that they’d discovered a key in the Expert Dungeon and planned to use it in a week — now 4 days.
+
+I still don’t know exactly what we should do with that. I’ve got no desire to get into a pissing match with the Blacktongues. There isn’t anything to win there, but perhaps there’s an angle where we can put some of our problems together and get them all out of our hair. I’ll have to meet with the Menagerie sometime soon to follow up on that — preferably before Eleven shows back up and takes Rodrick with her back to the Setting Sun’s hideout.
+
+They also had the actual key they’d discovered in that dungeon to use. More accurately, a crown that granted access to some vault. A vault Arwin very much planned to get his hands on… and there was one more piece still in play.
+
+The door to the Infernal Armory creaked open.
+
+Arwin turned away from the anvil and the piece of golden metal he’d been examining as Madiv stepped into the room, clearly invited in by the forge.
+
+“Madiv,” Arwin said with a nod of greeting. “Is something amiss? You’ve got a look on yoru face.”
+
+“I don’t believe so. The matter can wait should you prefer… but Ida has returned with an update on the doings of the Dwarven Council. It seems her mother is holding up her end of the deal.”
+
+Arwin grinned. The universe must have heard his thoughts. The other piece in motion had made itself known.
+
+“Oh?” Arwin asked. “Anything important? Or is it just a routine check-in? That was more of Lillia’s territory, so I don’t want to step on her toes if she’s planning something.”
+
+“Lillia was the one that requested I retrieve you, so long as you weren’t too busy,” Madiv replied. “It seems Ida believes this is fairly important. It may be worth coming if you are not busy. It seems that they have caught wind of our plans to open an auction house. After the attention that your work has garnered… it seems that has their interest.”
+
+Arwin’s lips twitched.
+
+Gee. I wonder how it made it to them. I guess Lillia wants some extra eyes on the auction house. That’s a good idea. If we can get some other powerful parties to participate, then we could draw a lot of extra attention to our first auction.
+
+“That’s good enough for me,” Arwin said. He turned away from the anvil and started for the door. “Let’s see what she’s got to share with us, shall we?”

@@ -1,0 +1,465 @@
+---
+id: 3c548853-91c0-56b9-9fb2-41b51f3c4cdc
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 464"
+slug: 0163-the-path-of-ascension-chapter-464
+partOf: the-path-of-ascension
+position: 163
+ownLength: 5821
+unit: words
+ownProgress: 5821
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2842627/the-path-of-ascension-chapter-464"
+royalRoadId: "2842627"
+markedReadAt: "2026-06-29T19:33:21.744Z"
+---
+
+Chapter 464
+
+After two weeks of ‘relaxation’ in the rift instance they were hiding in, everyone packed up their various workstations and prepared to blend in with the exploration groups outside.
+
+Matt felt he’d made significant progress with his mana tests.
+
+Taking inspiration from the same original strange realm mana storage gems that caught his eye, the researchers who discovered that a particular mana weave barrier could increase mana throughput had never been able to develop it further, nor had anyone else.
+
+Their goals, however, had been entirely external. They wanted faster transfer rates, better conduits, and lower material enchanting costs; they got none of them but Matt didn’t care about those things.
+
+He also had a massive advantage their teams wouldn’t have found acceptable: a Talent.
+
+They needed a commercially viable product, Matt was building for one.
+
+He didn’t care about replicating anything beyond himself, and as such, the mana weave solution was looking promising, though he’d refrained from doing the most obvious and critical tests until he had time to sit down and iterate.
+
+The largest issue the original researchers had was controlling the mana. The weave they discovered was far from a naturally stable configuration and holding it together took dedicated equipment. Equipment that was so expensive it obliterated any potential cost savings the throughput might have created.
+
+They'd never even considered manually holding the weave, but Matt had spent the last few months of exploration idly picking at the problem.
+
+Having kept Rah’s advice in mind, he only did so when they were traveling until the rift, but he had still figured out quite a bit of fundamental information. He already had a possible solution for holding incredibly complicated mana weaves in complex shapes without equipment.
+
+His Tier 25 Talent.
+
+To his relief, he was correct in his baseline assumption: solidifying his mana was an answer. One that made his most lofty dreams seem moderately possible. Not easy, but achievable.
+
+Sadly, it also meant starting practically from scratch. While crystallizing the mana had no effect on the mana weaves, any effort to translate the current weaves into a complicated structure like a skill had proved impossible.
+
+No matter what Matt, Zack or Rah tried, the weave they knew couldn’t handle branches or hard angles at all, making it entirely unsuitable. He’d need to figure out another configuration for the outer mana barrier that also enabled the increase in flow if he wanted to make any progress.
+
+While he knew anyone else would call solving such a longstanding issue ‘possibly’ wildly outlandish, Matt needed to solve his mana throughput issues and felt this idea had a glimmer of hope.
+
+Solidifying his skills in his spirit was the theoretically easy part. In fact, it was also practically easy. That was if he was willing to shred his spirit in his testing.
+
+The spirit was analogous to the physical, a change in one was reflected in the other given enough time. It was why Tier 15 with its ability to consciously control the spirit was the breakpoint where someone was able to modify their body.
+
+Matt could solidify a skill in his spirit with a single thought, but he hadn’t figured out how to deal with the chunk of mana that would appear in his chest as a result.
+
+If it was only a matter of physical damage to his organs, he’d have already started testing, but a single failure with a skill brought into reality would destroy not only the skill but the surrounding spirit.
+
+When he had a working mana weave model that could properly contain his mana, he might be willing to test it with a few noncombat skills, but that was still far out.
+
+No matter what he was doing, Matt couldn't shake the feeling like he was missing something.
+
+He hadn’t been able to put his finger on what quite yet but he felt like he completed a puzzle only to find no fourth side and that he’d only done half of the work.
+
+Worst of all, without the other half, he’d never be sure his original work was correct.
+
+Still, he’d made significant progress because, for all its disadvantages, his Talent offered him something a lab could never replicate without machinery.
+
+Stability.
+
+Using the original weave, he’d needed to manually hold the complicated outer barrier weave together. And while that was entirely within his capabilities, he knew that wasn’t a scalable solution. However, with his Tier 25 Talent, he only needed to create the weave and solidify it.
+
+After that, he didn’t need to concentrate on the barrier at all.
+
+It simply worked.
+
+More mana could be passed through than should have been possible because of whatever process they were inadvertently tapping into.
+
+Not that it was easy to ensure the crystallization was perfect, but that only turned the problem into another mana control exercise for him and he was well versed in solving those.
+
+Two weeks weren’t nearly enough to do more than dabble in finding alternative weaves, but Matt was happy with his progress and intended to continue tinkering with his simulations as they had downtime.
+
+The moment they stepped onto the surface world with defenses raised, several spiritual perceptions locked onto them.
+
+Almost all of the spiritual perceptions lost interest just as quickly as they’d gained it upon seeing their repaired armor and robust spirits.
+
+Being attacked and fleeing into a rift wasn’t shameful when it worked.
+
+The three other groups on the Tier 9 world were clearly only passing through and not looking for a fight, letting them slip through the most critical time of establishing their new identities.
+
+While the others left, one spiritual perception lingered. It was from a hidden presence none of the teams present seemed to have been able to sense.
+
+Having already traced the sense back to its source, Aster shared what she found. A lone Tier 31 Dwarf cultivator wearing non-descript but well-made Tier 33 armor.
+
+Without needing to plan things, they ignored the sense, moving at a relaxed pace to a central location.
+
+While Aster had been probing their secret observer, Allie had hacked the external items on the passing groups, gathering as much information as she could.
+
+The Corporations team made the mistake of outsourcing their cartography efforts to a purpose-built device. To their credit, the device made fantastic maps, being able to estimate chaotic space trajectories and build map models.
+
+The group they encountered carried several such devices, giving them a half decent understanding of their surroundings. As the Corporations’ teams worked to scout locations, their devices organically meshed and separated, creating growing and updated maps together.
+
+Matt was sure in a few months, when they had reached a critical mass in a region, the corporation behind the efforts would start selling their maps to foreign exploration teams as they started backtracking through explored space looking for strange realms to enter.
+
+Allie signed up for an early alpha version of the map.
+
+They weren't deliberately provoking an attack by the hidden Tier 31 as they flew, but they did start chatting about where they wanted to go in case they were lucky.
+
+“I like the location seven worlds to our right with the crafting strange realm. It’s competitive and the tags indicate death is possible but not mandatory. I’m not sure how that is possible but I’m interested in finding out. The reward isn’t mentioned, so it's probably a bit lackluster, but it's close enough to try something unique.”
+
+Liz’s words pulled Matt’s attention away from the listing he was looking at and he immediately agreed with her, seeing the strange realm in question.
+
+The map Allie had stolen didn’t come with any more details beyond a few tags, but they were more than willing to spend a few days traveling there to find out.
+
+When they arrived on the Tier 34 world, they found dozens of teams already there, word having inevitably spread organically about such a unique strange realm.
+
+Upon their arrival, they were scanned by the various teams but their anonymity kept them safer than any armor. There was a noticeable difference between their real identities and their masks, and that was what they were counting out.
+
+Seeing another group from the Empire, they started to fly over to say hello and swap information. Except before they had moved more than a few feet a message arrived, sent in a general pulse to ensure they got the message.
+
+“Go bother someone else.”
+
+Allie’s shoulders shook as she repressed a giggle at the Tier 32’s audacity.
+
+Liz halted before shrugging. “Okay then. Let’s go say hi to the Guilds group.”
+
+The group in question were freshly advanced Tier 31s and as such, much less arrogant than the Tier 32s, but their condescension was clear.
+
+Seeing their expressions, Matt wasn’t too surprised when the leader cut right to the chase. “One at-Tier Natural Treasure, and we'll share everything we know about the strange realm.”
+
+Liz didn’t hesitate and nodded. Seeing that, Katya threw a small, shoddily-made spatial bag to the Guild's exploration leader.
+
+Matt had to deliberately freeze his expression when he saw the woman do the same. They’d never understand he wasn’t laughing at them, but the Empire team who had passed up the gift they prepared.
+
+The Guilds team leader recovered fast enough that most of her own team didn’t even notice, but they had always intended to be generous.
+
+They had only been expected to give a Tier 30 Natural Treasure as befit their outward Tier, but they had given a rarer variant of a Burrowing Fang, a parasitic root plant that moved around higher-Tier lifeforms until it was completely removed from the ground where it went into hibernation.
+
+A skilled Tier 35 alchemist would be able to turn the root into a potent, if more common, body strengthening elixir.
+
+It wasn’t the most valuable Tier 30 Natural Treasure they had but it was far more than most teams would give for information on a strange realm.
+
+The Guilds team returned like in kind and sent them a fairly complete packet of information. It wasn’t perfect but the Guilds team had clearly annotated between what they knew and what they suspected, which was better than what Matt expected.
+
+After moving a comfortable distance away they sat down and went over the information as they waited. The strange realm could only be used once every third day, and they were one of many teams loitering around either waiting for people to exit when the cycle ended or to enter at the same time.
+
+The Unsparing’s crew being part of Lila’s guild, which demanded excellence of its members, meant they were confident in holding their own when it came to crafting up Tiers where they weren't in a fight.
+
+That left Allie, Aster, Susanne, and Magnus to stay outside but they didn’t mind and the four of them intended to see what information they could gather while waiting with the other teams.
+
+Having the answers laid out before them, the rest of them happily joined nearly sixty other people in putting their hands on the amorphous statue half-sunken off the shore of a lake.
+
+A moment later, Matt felt himself pulled into the strange realm.
+
+Finding himself standing on a circle of light in an endless sea of emptiness, he wasn’t too surprised. There was a reason he conjured the same imagery in the mental strange realm, it was a go-to for them.
+
+A moment later, the space in front of Matt shimmered and an unknown bloodline cultivator stood before him in a cone of light. The horns weren’t enough for him to identify her exact lineage but he doubted it would be relevant in this competition.
+
+Seeing his outward Tier 30 cultivation, she sneered in Clans standard at him. “Make it easy for yourself, kid, and surrender. The lost limb will be easier to deal with if you get to choose which one you lose.”
+
+Matt raised an eyebrow in response, taunting her right back. They were only a single apparent Tier apart. Yes, the woman should feel confident but they weren’t necessarily fighting.
+
+While few cultivators could fight up Tiers in the later twenties, far more could craft up a Tier or two.
+
+Anyone inside the breach shouldn’t be underestimated because of Tier.
+
+Smiling, Matt nodded pleasantly at his opponent, suspecting it would get under her skin more than anything else. “Good luck.”
+
+A black and white coin appeared between them, spinning slowly. Already knowing what they needed to do, he reached out and flicked it, sending it spinning.
+
+When it settled down a few seconds later, the black face was facing Matt.
+
+Flying into the air, the coin spun end over end, bouncing on the invisible ground between them.
+
+When the white side was facing up, Matt looked up, wanting to see if the reports were exaggerating.
+
+They weren’t.
+
+A bar of neon orange fell from the top of the woman's cone of light. When it reached the floor, it slowly made its way back up, filling the light with an orange glow. As the light finished back at the top, the woman's position had subtly changed.
+
+Her earlier relaxed manner was replaced by one of exhaustion.
+
+Above the woman, a miniature greatsword glowed with the presence of several enchantments.
+
+When he concentrated on it, he whistled.
+
+The strange realm gave him a thorough and quantified understanding of what his opponent created.
+
+The greatsword was a medium efficacy Tier 33 enchanted weapon. According to the strange realm, that rating indicated it lived up to roughly half of the potential of its base materials and techniques used.
+
+She had both forged and enchanted the final project, boosting its values as she had shown abilities in two crafting skills. Her final score wasn’t double, but it was quite a bit higher than making two separate, but similar, items.
+
+Matt was impressed, and suspected the woman across from him was her team's blacksmith.
+
+He didn’t consider being able to come to that conclusion a positive, but he didn’t let it rattle him. He’d hoped, but hadn’t counted on the breakdowns being so detailed.
+
+There was no chance he voluntarily used any of his core aperology or unique enchanting methods to win, as his opponent would be able to glean far too much out of such information.
+
+The same way he understood someone on her team was a very tricky fighter, anyone else could learn about his secrets. The small hook on the back of the blade she submitted wasn’t typical on a weapon of that size but it told him the wielder was strong enough to treat the weapon like a willow switch.
+
+Not particularly wanting to know such private information, Matt didn’t delve in too far, instead skimming the rest of the weapon’s specifications. Even that perusal let him get a good understanding of his opponent’s capabilities.
+
+She was good but not good enough.
+
+A question arose in his mind. ‘Can you defeat that?’
+
+It wasn’t asked in words but an unmistakable feeling that his mind automatically translated into words.
+
+The barrier of light shining down on him turned into a solid wall, making it feel like he was stuck in a single person elevator.
+
+Before even the most claustrophobic person could become startled, his world expanded into a warehouse with a pillar of granite in the center where it couldn’t be missed or overlooked.
+
+Without having to calculate the decay rate, Matt knew he had slightly more than six days to make the best item he could.
+
+When he was done, if he had made something with a higher total rating than his opponent, she would be given an additional opportunity to best him.
+
+The back and forth could only go on for three rounds before the strange realm considered it a draw and separated the opponents, with no one losing or gaining anything.
+
+Matt had no intention to match the woman. Not because he was mad at her taunting, but because no one could guarantee creating an equally-valued item that wasn’t the top or bottom of a Tier.
+
+Anything else had too much room for variation, and the strange realm was a strict judge, valuing every possible metric.
+
+Inside the room, Matt felt his cultivation and powers returned. He suspected this was his actual body but couldn’t prove anything, given what strange realms could do.
+
+Considering how he wished to respond to the Tier 33 greatsword, he gave it some serious thought. He had several options but ultimately decided to respond in kind: enchanting and crafting mixed together.
+
+Thinking about an enchanting station, one appeared before him, filled with everything he’d thought of, and more he hadn’t.
+
+Sitting down, Matt set several reminders on his [AI] and got to work.
+
+Having played around with the grading metrics he’d seen when inspecting his opponent’s weapon, he started by conjuring a Tier 33 Silver Granite slab five feet to a side.
+
+It appeared on a polarizing cloth that he activated before he quickly chopped the corners off, making the block a distorted octagon.
+
+With the cloth, he was able to collect every single atom of the granite block, and he carefully stored every loose piece in a sealed vial.
+
+As he did so, he kept strict control over his mind, not allowing himself to will his way through any of the steps.
+
+Part of the unspoken challenge was using the ability to conjure items into existence.
+
+Anything crafting related he could think of could be created with a single thought.
+
+Tedious tasks could be completed with a thought.
+
+The problem lay in the grading. The how wasn’t only equally important as the final product, it was far and away the most important metric by a mile. The items' final Tier simply set the grading bounds, while the materials were the how.
+
+Which meant skipping through tedious bits of work would only negatively impact his final score.
+
+The least impactful way to use such powers was accelerating an automatic or purely time-gated process. It wasn’t without its penalties but the penalties could be easily offset by a competent final item, so long as less than an additional week was used.
+
+With his mental prowess, it would be all too easy to accidentally imagine the finished item into existence, which would ruin all of his previous efforts.
+
+Moving onto the second step after putting the corners off to the side, Matt pulled a bar of Enriched Platinum out of nowhere and carefully inlaid strands of the metal into specific regions of the stone.
+
+Very few of them connected, but a select number did, and he took his time making sure every atom was in the right place.
+
+Two hours later, a dozen bars of rare and exotic metals lay scattered on his bench, but he’d completed his first major section of his project.
+
+Standing up, Matt flipped the block of granite over and put his hands on the back of the stone. Gripping the metals he had weaved through half of the stone, he pulled the tendrils into the fourth dimension.
+
+Using a four dimensional formation base would have made things much easier, but the upgrading itself was part of what Matt was trying to show off.
+
+He was taking an otherwise common variant of granite and elevating it into something grand, in two distinct and complementary ways. Normally, he’d have pulled each thread into the fourth dimension one at a time while he placed them, because that ensured everything went smoothly, but he didn’t have the time he’d need to do things that way.
+
+The end result wasn’t perfect but after he fixed what he could, he knew it would work and that was genuinely good enough when using such a technique.
+
+Most Tier 33 items took decades to make. Six days was simply not enough, but that was part of the challenge and he had no intention of skipping steps and lowering his eventual score.
+
+Three days in, Matt activated his formation for the first time and smiled as it did absolutely nothing.
+
+He’d had to rush through so many delicate runes, testing processes, he was afraid his protections wouldn’t work.
+
+After ensuing mana flowed through the pathways he’d carved through the stone, he started activating functions one at a time.
+
+From a rough octagon, the Silver Granite now looked more like an oblong bowl, or a half-carved canoe. Thankfully, he was more than halfway done, and his preliminary testing had no issues he wasn’t able to solve with a few corrections.
+
+Grabbing the corners from earlier, Matt created four legs and delicately melded them into the object, but carefully keeping them separate from the central object, magically speaking.
+
+Instead, he merged the legs together through a sympathetic link and then placed a stabilizer on the new singular item.
+
+Existing in four dimensions, the logic chains were complex but they passed every test he threw at them, ensuring his invention would protect its contents even if they were dropped from any height, large or small.
+
+It was stupidly difficult to blend the legs' spirits together in the proper way in such a short amount of time, but he managed. It was fast at the cost of exhausting a lot of his mental energy.
+
+As his last step, he collected the block of granite’s dust and crumbs.
+
+After sweeping his workshop twice, he ensured he had every particle of the original slab.
+
+Carefully, he broke the larger chunks into single atom units.
+
+Once they were perfectly uniform, he embedded half of the dust on the fourth dimensional tendrils. He used their spiritual unity with all of the other various pieces of granite as a link, tying everything together.
+
+The other half was spread carefully inside the inner lip of the canoe, in a key that looked like a formation, ensuring it looked aesthetically pleasing when not in use.
+
+When he was done, Matt conjured a bottle of wine out of nowhere and gently placed it inside the antigravity field created by the dust particles as they gently held the bottle. Almost immediately, the field recognized the type of wine and started chilling it to the preferred drinking temperature.
+
+Pulling another bottle out of nowhere, Matt frowned as the enchantment didn’t start warming the bottle.
+
+Checking his work, he found a single atom out of place, cutting the heating portion of the rune out of the operation.
+
+The moment he fixed that, the bottle exploded as the enchantment activated at full force for a brief moment.
+
+Placing a replica into the field, Matt smiled as the temperature slowly rose at the exact rate he intended. He’d love to fix that issue but a quick glance showed it would take a fundamental rewrite. Given that it shouldn’t occur unless the fire rune wasn’t able to activate the first time, he was fine with leaving it alone.
+
+Pulling out a wine he knew wasn’t on the list he preloaded, he continued to debug his new centerpiece.
+
+He’d been wanting to make a wine-centric counter piece for a while after Liz mentioned wanting a way to show off when they had guests over and they brought something to drink. With this, he could give them a show while they partook.
+
+And this strange realm seemed like a good enough opportunity to debug his ideas.
+
+His last step was to abuse the fact he’d used every single piece of the original stone. With that rarely considered step, he was able to elevate the efficacy of the entire item by linking the item back to its former state as a solid unified block of material.
+
+The resulting effect didn’t make the wine holder indestructible but it was far more robust for its Tier than it should have been.
+
+Finally, right before his central pillar had almost faded away to nothing, Matt presented his creation to be judged by the strange realm.
+
+It wasn’t his first time doing so, but after ensuring his total rating was higher than his opponent for the dozenth time, he mentally pushed his item at the strange realm, happy with his current efforts.
+
+It vanished and he found himself standing in front of the woman again with zero transition.
+
+He saw her eyes go wide as she registered what he had created. A highly rated Tier 33 object, his new centerpiece solidly defeating her first effort.
+
+Gritting her teeth, the orange light descended once more.
+
+There was a pause and Matt contemplated the chances of the woman succeeding in her challenge.
+
+He wasn’t too hopeful, remembering her original submission, but he didn’t rule her out.
+
+She might surprise him.
+
+She didn’t.
+
+When she reappeared, Matt could tell she failed even before the emptiness above her head became apparent.
+
+She glared at him as if he was personally responsible for what was about to happen but he wasn’t bothered in the slightest.
+
+The moment the orange light reached the floor and vanished entirely, she started to scream as her left arm started to dissolve from the fingers up.
+
+Everyone had exactly six attempts in this game. Once the limbs and torso were gone, the head would be next, and any idiot who didn’t withdraw when they were reduced to only their head deserved what happened to them.
+
+Their reports didn’t mention any confirmed deaths, but there were several mentions of groups leaving with without any floating heads accompanying them. They also described the experience as excruciatingly painful.
+
+Surrendering before the first round would allow them to choose which limb they lost but there was no way to avoid losing a limb beyond tying three times in a row.
+
+The woman's panting gasps for air faded as she vanished, and Matt closed his eyes as he felt his hands pulse slightly.
+
+The first portion wasn’t too noticeable but he knew with each victory, his hands would become more steady and sensitive to energies.
+
+While primarily a crafting reward, there was no reported limit on when the increased senses worked.
+
+The top three points earners would additionally be given a modicum of knowledge for their displayed skills. Sadly even a single tie would exclude them from those lofty rankings, and as such they’d already effectively bowed out of that competition by entering as a group.
+
+It would have been nice but they simply weren't as old as many of their competitors and hadn’t had the same amount of time to hone their crafting abilities.
+
+Finding himself standing before his next opponent, Matt smiled as he saw a familiar face.
+
+Lura smiled and nodded at Matt, and he was more than happy to chat with her for the few seconds they had before they were forced to begin.
+
+He won the coin toss that time but he only created a perfect Tier 1 alchemy potion.
+
+While not an alchemist himself, Matt was Tier 29 and had dabbled in everything at least once since finishing the war. Making any Tier 1 item to a perfect standard was child's play and having used less than ten minutes of his allotted time, Matt submitted his item.
+
+Lura, to neither of their surprise, also created a perfect Tier 1 item, though she’d chosen to showcase her talisman ability.
+
+The swiftness talisman she’d created would never have been viable in the outside world, but in their test it simply matched his earlier efforts.
+
+Forcefully dragged back inside, Matt once more created a simple item, but this time it was Tier 2.
+
+To not fail himself, he needed to increase the score of his second submission. The pattern was well established and he had no intention to betray his teammate.
+
+After their third tie, they were separated with neither a reward nor a lost limb.
+
+Matt’s second opponent was a Monster Collective human who didn’t try to taunt him, instead simply waiting silently.
+
+Feeling they were Tier 31, Matt prepared himself for a difficult contest.
+
+They both had all of their limbs, which meant they’d both won or drawn their previous bouts, and he wouldn’t underestimate someone like that.
+
+If they hadn’t gotten a tie like him, they’d already defeated two opponents to his one.
+
+The man lost the coin toss, but Matt didn’t go easy and immediately started creating a much more practical Tier 34 talisman.
+
+It stretched his abilities to carve the relatively simple attack enchantment, but he managed.
+
+Thankfully, being a single-use item meant the lacking durability, resulting from some of the corners he’d had to cut, wasn't counted against him too badly.
+
+Using his own solidified mana as a base, he’d have created something better, but he wasn’t going to give away such information so easily. He also wasn’t even sure the strange realm could quantify his mana, or how it would begin to try.
+
+When he was done and reappeared out of his room, Matt saw his opponent's resigned look, but he was still surprised when the man surrendered and accepted his fate.
+
+His right arm disintegrated slowly but he simply nodded, having accepted his loss.
+
+Matt’s next opponent wasn’t nearly so scary.
+
+The Tier 30 bowed to Matt the moment they fully appeared. “I’m more than willing to tie if you are. I can compensate you well once we are outside the strange realm. My mother is a legate in the Republic and trifles such as rare resources, even one from the breach itself, can be acquired for the favored.”
+
+Matt internally rolled his eyes, but as the man won the coin toss, he was willing to wait.
+
+To the man's credit, he appeared having a peak Tier 1 item hovering above his head.
+
+Willing to play along, Matt wasn’t at all surprised when on the second attempt the man created a Tier 31 helm.
+
+It was impeccably done but Matt responded in kind.
+
+His Tier 33 shield left zero room for disagreement and the man lost his first limb, unlucky enough to lose his dominant arm.
+
+He’d need to continue on with the tests experiencing the lingering pain while being down an arm. While not a crippling loss, it would negatively impact most crafters, and only the dedicated and highly skilled would be able to persevere.
+
+Matt’s third serious opponent was a slim young woman who ruthlessly started by creating a Tier 32 scanning device from scratch.
+
+The strange realm could identify that she used a Talent to create a far more polished item than normal, with it seeming to shift and adjust her runic structures.
+
+It was very impressive but he was able to top it.
+
+She then beat him out with a Tier 33 shielding formation, which thankfully told Matt she was running out of steam.
+
+Another victory secured with another talisman, Matt wasn’t too surprised when he ran into another one of his group.
+
+Rah appeared before him with all four limbs still intact. “Seems like we are in this portion of the selection. I battled Stenson last round. Arden apparently lost a leg but is otherwise fine.”
+
+They’d all prepared for the possibility of losing a limb but there was nothing they could do until they left the strange realm. Even once they’d left, there wasn’t much they could do beyond regrow the flesh and take potions to help recover the missing portions of their spirits.
+
+After tying three times, Matt found himself alone.
+
+If his friends remained undefeated, he expected to be matched up against one of them but he was proven wrong when a Tier 33 appeared before him.
+
+Hoping the man wasn’t too exceptional, Matt waited as the orange light descended.
+
+When the man reappeared, he stood below a perfect Tier 38 arrow.
+
+Checking with the report, he found that while the man had used his Talent liberally, it had only assisted the man, not doing the work for him.
+
+Seeing how custom and well-iterated the design was, Matt was sure the man was an archer and this was his crowning creation.
+
+Knowing he had zero chance to beat such a person, he surrendered instead of bothering to waste six days.
+
+He watched on calmly as his left leg dissolved, the pain bypassing every barrier he’d tried to set up. Once his flesh finished melting, things continued swiftly as his next opponent appeared.
+
+Liz winced, seeing his missing leg, but she wasn’t doing any better, having lost her left arm. “Was it the Tier 33 with the arrow?”
+
+“Yeah, chance got my leg but I can’t argue with the results.”
+
+It was unfortunate they’d both run into the man but they shouldn’t encounter him again, though his obvious skills shone through.
+
+Tying her, Matt felt better as he defeated his next three opponents. Having finally lost, whatever internal ranking system the strange realm was using to match opponents started pairing him with people who’d lost before, instead of his friends.
+
+The strange realm’s time dilations, combined with the effort needed to craft while wounded and tired, made for good training. So much so, that he was slightly upset when he found himself ejected three days later.
+
+Exiting the strange realm’s influence, Matt patiently waited for Liz to heal his leg, the strange realm not being so kind as to let him keep [Regeneration] running while inside. Feeling his spirit finally start to recover from the trauma left behind from his earlier amputation he sighed.
+
+Before they even started to inventory their gains, everyone grabbed a prepared spiritual recovery potion from Liz and sat down to prevent their injuries from growing worse.
+
+Having relatively light injuries, Matt was one of the first to finish but instead of bothering everyone, he concentrated on his Concept and topping off his group’s mana. Everyone except Zack lost at least one limb, and as such needed to heal, but that only took their full concentration in the initial moments.
+
+Debating on their next target as they healed, they decided to try and find the scouting corporation and buy more updated maps to fill in the gaps of their knowledge.
+
+It was a good thing they did too, because it settled their debate with a near unanimous decision by highlighting a strange realm none of them wanted to pass up.
+
+A team-based competitive strange realm, it gave the victors a cost reduction in a single aspect's spells.
+
+The details were spotty but everyone was interested.
+
+Needing to cover a lot of ground, they started moving. But while they were passing through an unremarkable, already looted Tier 6 world, they were finally accosted.
+
+“What do we have here? Little lost Tier 30s? Why don’t you guys come with me for protection? If you help us with a strange realm, our group can ensure that you make it out of here alive. Otherwise, who knows what might happen to you guys.”
+
+The freshly advanced Tier 32 smiled cruelly at them, confident in his overwhelming advantage.

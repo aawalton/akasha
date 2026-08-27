@@ -1,0 +1,129 @@
+---
+id: aef09044-8049-5774-a34c-92e40469f39e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: One Step At A Time"
+slug: 0015-chapter-14-one-step-at-a-time
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 15
+ownLength: 1860
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3441693/chapter-14-one-step-at-a-time"
+royalRoadId: "3441693"
+---
+
+The village of Sigsug awoke to another tranquil day, its cobbled streets wrapped in the cold embrace of the approaching winter. The distant murmur of villagers drifted through the crisp air, creating an idyllic backdrop to the steady rhythm of change that marked the nearing end of the year.
+
+Inside a simple cottage perched at the top of the hill, in one of the quiet rooms, Molly stirred beneath the blanket. Her eyelids fluttered softly as sleep clung to her like a stubborn mist, but she forced herself upright, pulling the cover off her body in one motion and stretching as the remnants of a forgotten dream slipped away.
+
+With a small groan, she rose from bed and shuffled toward the bathroom, her footsteps quiet against the polished wooden floor. After brushing her teeth and taking a soothing bath, she slipped into a simple light blue tunic. The fabric clung perfectly, accentuating her slender frame while flowing softly to her knees. With another motion, she grabbed her dark purple robe from the bed and draped it over the tunic. Her fingers touched the fabric, testing its thickness, for this was the first time she had worn this particular robe, and it proved suitable to keep her warm for the nearing winter.
+
+Molly gave a short breath of approval, and with a calm stride, she walked to the mirror, stopping before it to study her reflection. A ghostly upward curl graced her lips as she stared at herself.
+
+Her crimson eyes gazed back in a slightly dull manner, her pale white hair cascading over her shoulders like a sea of spilled snow. With practiced ease, she combed through its long, silken strands before gathering it into a loose ponytail, securing it with a simple yet charming band. She smiled at her reflection, a small, fleeting expression that hinted at both anticipation and nervousness.
+
+It had been three weeks since Jen had passed away. Throughout those three weeks, Molly had not left the cottage for the first two. She had not wanted to go outside, nor had she felt the need to. That initial week had felt like hell. Every night, a dream would visit her, a dream about Jen, about that same day she had dissolved into the light, and every morning Molly would wake with tears tracing silent paths down her cheeks.
+
+Her lips pressed together, upturned with a fragile warmth.
+
+Had it not been for the constant, comforting presence of Jasmine, Molly did not know if she would have survived that first week, nor even made it to now.
+
+Ever since Jen's passing that day, Jasmine had never left Molly's side. Each morning, Molly would wake to find Jasmine already in the kitchen, breakfast prepared, waiting for her with a gentle smile gracing her features. In the evenings, Ren and his elder sister, Fiona, would always come to share dinner at the cottage, filling the quiet space with a liveliness that chased away the shadows. Molly had never been given the chance to truly feel alone.
+
+Because there were people right here with her, anchoring her to the living. Just as Jen had said there would be.
+
+A short exhale escaped Molly's lips as she reached for a black orb resting on her shelf and slipped it into her robe's pocket.
+
+Her gaze shifted toward the bedroom door, her expression brightening in the process.
+
+Today was important. She had plans, plans that had been swirling in her mind for a few days now, ever since she had started accompanying Jasmine to the bakery a week ago.
+
+Today, she was going to try something different from simply watching all manner of bread being delivered to Eoma's shop. Today, she wished to understand how the loaves were made.
+
+Her dull eyes flickered with a gentle light as she recalled Jasmine's promise of a visit to Eoma's main bakery. And with that visit would come hands-on experience.
+
+Today, Molly was going to bake bread alongside them.
+
+She walked out of her room and entered the dining area. A tender expression surfaced on her features as she spotted two small bowls set upon the table, faint wisps of steam curling lazily above them.
+
+Breakfast was already served.
+
+"Good morning, little snow." A familiar, warm voice called out from the kitchen. Molly glanced in that direction, and the black orb drifted out from her robe, hovering at eye level.
+
+The orb shuddered for a moment before dissolving into tiny particles. They swirled in the air, shaping themselves with each motion until they formed a sentence:
+
+~ Good morning, Miss Jasmine. How was your night?
+
+Jasmine, who had just stepped out from the kitchen, could not stop her expression from softening with affection. "Well, it was wonderful, thank you. How was yours?"
+
+Molly's whole face lit up at the question. The orb hovering at her eye level shuddered briefly before dissolving into tiny particles once more. They danced in the air, arranging themselves until they shaped her reply:
+
+~ My night was good, thank you.
+
+Jasmine chuckled. "That's great to hear." She turned toward the dining table and gestured. "Have a seat. Let's eat."
+
+Molly gave a short nod. The tiny particles swirled into motion, pirouetting in the air before combining and reshaping themselves into a solid ball. It shuddered once more before retracting back into Molly's robe pocket.
+
+She walked to the table and settled onto a chair, her eyes drifting to the food before her. The corner of her mouth lifted as she saw what awaited her.
+
+It was a bowl filled with white oatmeal, a scatter of blueberries mingling throughout the breakfast. Molly's gaze slid to the side as she watched Jasmine set down two plates of sliced bread on the table before taking her own seat. Her attention shifted to Jasmine, who wore a slight smirk on her face. "I usually love eating oatmeal with bread. But I wasn't sure if you would, and I didn't want to disturb your sleep, so I decided to let you choose if you'd like it alongside your oatmeal," Jasmine explained.
+
+Molly's gaze slowly drifted back to the oatmeal and bread before her. A ghostly smile threatened to claim her face. Why would she not want to eat both? This was precisely how Jen had always loved eating her oatmeal. Molly had fallen in love with the combination ever since she had first tasted it.
+
+Her eyes returned to Jasmine. The black orb drifted out from her robe again, hovering at her eye level.
+
+It shuddered for a moment before dissolving into tiny particles, swirling briefly and then shaping themselves with swift precision into a sentence:
+
+~ Thank you very much Miss Jasmine.
+
+Molly's expression beamed as the orb reshaped into another:
+
+~ I love it.
+
+Jasmine's lips quirked upward, her entire countenance warming. "Alright then." Her gaze shifted back to the breakfast.
+
+Molly did the same. And almost in unison, they closed their eyes, clasping their hands together in silent prayer.
+
+"May the gods bless our meal," Jasmine murmured calmly.
+
+Molly nodded with enthusiasm, and almost instantly, she snatched up her spoon and began eating. She scooped a spoonful of oatmeal and brought it to her mouth. The moment the food touched her tongue, she could not suppress a satisfied hum as she swallowed, the aftertaste of milk and honey lingering sweetly on her palate.
+
+She grabbed a slice of bread, folding it in two so it would be quicker to finish, and without wasting another moment, she bit into it, chewing softly before scooping another spoonful of the honeyed oatmeal and nudging it into her mouth. A pleased, muffled sound escaped her lips as she ate with quiet delight.
+
+When they finished, Jasmine made to rise and collect the dishes. She paused, however, her brows lifting slightly as she watched Molly stand with her own plate and bowl. The girl padding over quietly to gather Jasmine's dishes as well. A small, proud curve lifted the girl's lips as she gestured for Jasmine to remain seated. The black orb shuddered faintly before dissolving into tiny particles, forming her thoughts:
+
+~ I'll take care of it from here.
+
+Jasmine read the words, her gaze resting on Molly for a long moment. Soon, warmth unfurled across her features. She gave a short nod. "I almost forgot you did the same thing last time." Settling back into her chair with a soft sigh, she watched Molly make her way toward the kitchen with light, enthusiastic steps.
+
+*****
+
+The mountain wind swept across the wide meadow of purplish-brown grass, the blades bowing gently in the cool air. Above, the sky stretched bright and clear, painted in soft washes of blue, with morning sunlight spilling gently across the hill.
+
+Nearby, Molly stood calmly, almost motionless, her eyes strangely distant as she stared at the large rock before her. A mask of sorrow threatened to veil her face.
+
+A sigh sounded from beside her. Molly glanced to her side, her gaze settling on Jasmine, who was staring past the large rock, past the sloping hill, out toward the village.
+
+Staring at Sigsug.
+
+"You know..." Jasmine began, her voice trailing off slightly before she pressed on. "Ancestor Jen wouldn't be happy to see you sad." A bittersweet twist tugged at the edges of her mouth. Her eyes shifted to Molly, who regarded her with a dull, hollow expression.
+
+"Especially if that sadness is because of her."
+
+Jasmine's gaze drifted back to the view, her orange irises growing distant. "I... I may not know what it feels like to be powerful. Neither would I claim to understand the burden the strong must carry."
+
+A short exhale escaped her. "But I know what it means to lose someone dear. And I fully understand that if we keep dwelling in that sadness, letting it burrow deep into our hearts..." Her lips pressed together, upturned with an effort that felt like reaching for a half-remembered dream.
+
+"We may forever be lost in the depths of our sorrow, our regret, and our pain."
+
+Jasmine turned to Molly, watching the young teenage girl listen with quiet attention. She forced a soft grin as she reached out and ruffled Molly's pale white hair. "So do Ancestor Jen a favor and start crawling out from those depths."
+
+"Even if you move slowly."
+
+Molly listened calmly as Jasmine concluded. She watched her pull her hand away and offer a reassuring look that said, without words, that she would always be here.
+
+Molly's expression warmed, and her eyes returned to the large rock before her. She stared at it for a long, silent moment. The memories of Jen's disappearance still replayed in her mind, and her hands clenched subconsciously at her sides, fingers tightening around the edges of her robe, as if letting go would mean releasing something precious forever.
+
+Just then, before her thoughts could spiral further, Molly felt a hand touch her shoulder with gentle calm. Her gaze flicked to Jasmine, whose face still held that same tender warmth. "You don't need to rush these things, Molly," she heard Jasmine say.
+
+"Just take it one step at a time."

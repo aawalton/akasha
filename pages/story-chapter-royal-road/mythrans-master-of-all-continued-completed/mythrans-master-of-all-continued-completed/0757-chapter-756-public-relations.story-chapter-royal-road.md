@@ -1,0 +1,351 @@
+---
+id: 670b3094-329e-59de-87c7-05fe6c2f7c66
+page-type-slug: story-chapter-royal-road
+title: "Chapter 756 - Public Relations"
+slug: 0757-chapter-756-public-relations
+partOf: mythrans-master-of-all-continued-completed
+position: 757
+ownLength: 3785
+unit: words
+publishedAt: 2018-11-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/305183/chapter-756-public-relations"
+royalRoadId: "305183"
+---
+
+Yuwen and Tiyaphi stored their wardrobe cabinets and Ren deactivated and stored the shop tower.
+
+“Mistresses, this way.” Ren said and motioned to the first carriage.
+
+“Are you going to tell us what happened between you and Tatya?” Yuwen asked.
+
+“Yes.” Ren said and opened the carriage door, then helped each woman climb inside, including Artemis, and got in himself. “When we stop in a few seconds.”
+
+“What?”
+
+“The camp site is only down the road a little ways. The giant boars can run that in a blink of an eye, now.” Ren said, and they felt a tiny jerk backwards, then a tiny jerk forwards.
+
+“Everyone disembark!” A voice yelled, then laughed.
+
+Ren opened the carriage door and helped everyone get out, and he could feel everyone's surprise at the short trip. The carriage pulled off to the side to park and the driver and attendants started to pull out the tents required for everyone.
+
+“Neither I, nor those with me, need a tent.” Ren said.
+
+“Where are you going to sleep? On the ground?”
+
+“No, in a big comfy bed.” Ren said. “Where would my tent be if I need it?”
+
+“Right over there.” The attendant said and pointed to a small spot.
+
+“Not very big tents, then.” Ren commented.
+
+“If you wanted to get cozy, you can fit three people in one.” He said with a smile.
+
+“I intend to be very cozy.” Ren said and used his Instant Tower recipe to make a tower to fit the available space, and made it several floors high. He added the ingredients and formed the cube, then put it in the spot and activated it. A 15 foot by 15 foot stone and metal tower appeared, and it was five stories tall.
+
+The attendant stared at the structure. “You just made that.”
+
+“Yes, and now I'll be using it.” Ren said and opened the door. “Mistresses.”
+
+Yuwen and Tiyaphi stepped inside without a second thought. Dilseffa on the other hand, looked over to where Rimsoh the magic user was setting up his own tent.
+
+“Go ahead and invite him inside.” Ren said, and she whipped her head back to look at him.
+
+“Wh-what?”
+
+Ren felt her dismay and shock, and laughed. “I meant, to come inside and talk, and maybe to sleep in your bed if he's willing.”
+
+“Not... not in your bed?”
+
+“Of course not in my bed.” Ren said. “You're only staying in my tower because you're my concubine, not because I want to steal you away or force you to do anything.”
+
+“But... you... you gave me a title and...”
+
+“Don't worry about any of that yet.” Ren assured her. “Go and ask him if he wants to talk. I'm sure he has a lot of questions.”
+
+“My King, I have a lot of questions.” Dilseffa said, and he chuckled.
+
+“I'll be back in the morning and I'll try to answer any that you have, or he has, if I can.” Ren said and motioned for her to go. Dilseffa walked a short ways away and looked back at him, and he made a shooing motion with his hands.
+
+“Are you sure that was wise?” Artemis asked Ren and hugged him from behind.
+
+“It's better to get things out in the open than to hide them and try to keep it a secret.” Ren said. “I'll need both you and Teepo to keep a close eye on them tonight.”
+
+“I'll make sure he doesn't hurt her and I'll only break his arms if he tries.” Artemis said, and Ren chuckled.
+
+“I'm glad you can share my thoughts again.” Ren said.
+
+“I am, too.” Artemis said and kissed the top of his head.
+
+*
+
+“Excuse me?” Rimsoh asked as he tried, yet again, to put the wrong pole into the side of the tent. “Dammit!” He exclaimed and threw it down.
+
+“You're distracted.” Dilseffa said. “Calm down and sit with me.”
+
+“No, I need to...”
+
+“Sit. Down.” Dilseffa said sternly, and he glared at her for a moment, then sat where she pointed. She sat right beside him and leaned into him. Rimsoh took the not-so-subtle hint and put his arm around her, despite them being out in the open. She wiggled a little in happiness and rested her head on his shoulder.
+
+“What's this about me joining Ren inside that tower?” Rimsoh asked.
+
+“No, he said you'd be joining me in there.” Dilseffa said.
+
+“Isn't that the same thing now?” He asked, a little confused.
+
+“No.” Dilseffa said and sighed. “I'm his concubine; but, I'm not sleeping with him.”
+
+Rimsoh barked a laugh. “Yeah, right. That's your job now.”
+
+“No, it isn't.” Dilseffa said. “I don't really want to explain out here where everyone can hear us.” She said. “Come over to the tower like I asked and we can talk in private.”
+
+“There's no way we can have privacy with 4 other people in there.”
+
+“There are 5 floors inside.” Dilseffa said. “I'm sure that...”
+
+“No, if we're going to talk, it might as well be here.” Rimsoh said and looked around, and he could feel that no one was paying any attention to them. “So, go ahead. Explain it to me.”
+
+Dilseffa held in her sigh and told him about Ren declaring her his second mistress and giving her the Countess title, then offering her the wardrobe full of clothes.
+
+“So, he is trying to bribe you.”
+
+“No, he isn't.” Dilseffa said. “He's only providing me with what a concubine is supposed to have.” She said. “I didn't accept the clothing, because I knew you wouldn't like it.”
+
+“Did he give you the appropriate jewellery yet?” Rimsoh asked, and she shook her head. “Is that because you turned down the clothes?”
+
+“I don't think so.” Dilseffa said. “He hasn't given any to Yuwen or Tiyaphi, either.”
+
+“If he does, you can sell them and...”
+
+“I am not selling gifts from my Inamorato.” Dilseffa said and lifted her head up from his shoulder as she sat up straight.
+
+“Oh, so he's your Inamorato already, is he?”
+
+“No. I told you that we aren't going to have sex.” Dilseffa said. “Calling him 'My King' every time I talk to you about him will get annoying.”
+
+“Just talking about him is getting annoying.” Rimsoh said. “It's all everyone is talking about now.”
+
+“Why?” Dilseffa asked. “What happened at the battle?”
+
+Rimsoh closed his mouth and didn't say anything.
+
+Dilseffa turned to the closest delegate and spoke. “Excuse me. What happened at the battle with King Ren?”
+
+“Ha!” The man put the last post into his tent and it popped out to its full shape. “You should have seen it.” He said and walked over to them. “I was right there behind Tatya when the 50 foot tall spider ran towards us.”
+
+“It was only 40 feet tall.” Rimsoh said under his breath.
+
+“I thought we were all dead.” The man chuckled. “Even Tatya, our strong and ever present leader, knew for a fact we were all going to die and had resigned herself to it.” His eyes lost their amusement and the smile disappeared. “You know what happens when a leader gives up.”
+
+Dilseffa nodded slightly.
+
+“One second we were all ready to die, and then there was a whistling sound and the spider screeched in pain. It turned around and we all saw a hundred spears sticking out of its backside.”
+
+“A... a hundred?” Dilseffa asked in disbelief.
+
+“I don't know how he did it, either.” The man said. “After a moment the damn things exploded like they were elemental bombs and blew the back of the spider right off.”
+
+“Oh, my god.” Dilseffa whispered.
+
+“Then the thing fell down dead and crushed the center of the horde under it.”
+
+“You're kidding!”
+
+“Not even a little.” The man said. “In its death throes, it decimated the rest of the horde and the goblins that remained scattered.”
+
+“Oh, wow.” Dilseffa said. “You were saved.”
+
+“That's not the best part.” The man said, then he described an 11 foot tall dark elf that had leaped up onto the humongous spider's back and hacked it apart with a 20 foot sword. When he told her that the dark elf was Ren, Dilseffa couldn't speak. “It was a surprise, that's for sure.” The man said. “I've never seen... or felt... anything like it before.” He said. “King Ren was really angry at that spider.”
+
+It took a few moments for Dilseffa to find her voice. “Th-thank you for telling me.”
+
+“I'm surprised your secret boyfriend hasn't told you already.” He joked. “Everyone's talking about it and wondering how he did the spears.”
+
+Dilseffa blinked her eyes for a moment as she thought about it. “As close to mid-range combat weapons, they would be valuable on their own.” She said as she understood. “If we could adapt them to use at long range and they are strong enough to survive the impact...”
+
+“We could give all the ground troops a ranged attack they've never had before.” The man said. “I don't remember seeing him carrying a hundred spears, though.”
+
+“He's an Adventurer and can store things like us.” Dilseffa said.
+
+“He must be able to hold a lot, because that tower over there isn't the same one that we saw before.”
+
+“He just made it.” Dilseffa said.
+
+“You mean that story is true, too?” The man asked. “I thought he might have had the cathedral built already and had hidden it somewhere, then made it appear.”
+
+“That would be some powerful magic if he could do that.” Rimsoh said, despite wanting to stay quiet.
+
+“He can make a portal strong enough to go into another realm, Rimsoh.” Dilseffa said. “I'm sure he could make a cathedral appear whenever he wants.”
+
+“I can feel your admiration for him.” Rimsoh said.
+
+“Well, that's my cue to get back to work.” The man said. “I'm out of my depth with a lover's quarrel.”
+
+“Excuse me?” Rimsoh said and stood up.
+
+The man put up his hands in a clear sign that he didn't want to fight and took a step back. “I meant to say 'slightly more than friends quarrel'.” He said, then took two more steps back. Rimsoh took a breath and let it out, then sat back down. The man took the cue and left.
+
+“You really are embarrassed that we're together.” Dilseffa said, and he felt her swirling emotions. “Is it true that you want to kill me, too?”
+
+The entire camping settlement stopped moving and everyone's emotions faded as they blocked themselves from broadcasting.
+
+“Where did you hear that?” Rimsoh asked and he looked over at the tent that his friend Miles was still putting up.
+
+“It wasn't Miles.” Dilseffa said to cut off his budding revenge plans. “Or anyone else in the caravan.”
+
+“That means Tatya's guest has been eavesdropping on me.” Rimsoh said as his anger rose. “Probably on all of us.”
+
+“He could have been.” Dilseffa said and moved away slightly. “He didn't say anything about hearing it, though.”
+
+“Then how...”
+
+“He said that where Adventurers come from, ferrets kill and eat rabbits.”
+
+“Ha. A likely story to gain your favor and put a bias into your mind.” Rimsoh said.
+
+“It could have been a story to frighten me, and I would have believed what you just said... if he hadn't been right about you.” Dilseffa said, and he felt her deep sadness.
+
+“What do you mean?” Rimsoh asked, confused.
+
+“You accused King Ren of listening in, or spying on you.” Dilseffa said as her heart broke. “Which... which means you actually said it yourself.”
+
+“Dilseffa, I was only joking around with Miles when I said that.”
+
+“Yeah. What a joke.” Dilseffa said as tears rolled down her face. “A joke about killing me.”
+
+“It's not like that.” Rimsoh said. “You just make me so angry sometimes that I felt like killing you.”
+
+“Yes, knowing that makes me feel so much better.” Dilseffa said and wiped at her face. “We've been together a long time. Why didn't you ever do it?”
+
+Rimsoh thought about not answering, then realized he had already lost her and it didn't matter if she knew the truth. “I love you; but, you can be so frustratingly cute sometimes.” He said. “That's not really your fault, since that's who you are. Every time we argued, though... you always offered me sex to calm me down and end the fight.” He admitted. “I've never reached the point where I would be angry enough to actually go through with it.”
+
+“I'm glad that my cute ass was cute enough to stop you from killing me for being cute.” Dilseffa said and let out a sob and a laugh at the same time.
+
+“Dilseffa, I...”
+
+“I love you, too. I know we weren't really together. Not officially, anyway.” Dilseffa said and stopped trying to wipe at her tears, because it wasn't making any difference. “Sneaking around was so much fun! I enjoyed that a lot.” She said. “I was told recently that sneaking around didn't matter because everyone knew anyway. I never imagined that if we did manage to spend more time together, officially or not, that I could have ended up dead because I love you.”
+
+“Dilseffa...”
+
+“No, I'm... I'm fine.” Dilseffa said and stood up. “I will be fine.” Her tears never stopped. “I'm also glad I found out before I hired you as part of King Ren's security staff.”
+
+“Wh-what?” Rimsoh looked up at her and she felt his surprise.
+
+“I'm going to be in charge of the security of the household and the lands, and the people in those lands.” Dilseffa said. “I was actually going to politely refuse and stay with you, since he gave his concubines permission to find and be with the ones they love, rather than stay by his side.”
+
+“N-no, that... it's not... it's true.” Rimsoh mumbled.
+
+“Yes, despite me submitting to his power, just like you did, he isn't lording it over me or the others.” Dilseffa said. “He could, though. He really could.” She admitted. “I thought he was going to try and separate us, or try and claim me to drive you away; but, all he did was tell me to be careful around you.” She chuckled. “He was right.” She let the chuckle and amusement die, then sighed. “He only wants me to be happy.”
+
+Rimsoh didn't say anything and just looked at her with a lost look in his eyes.
+
+“On the way over here, because he told me to come here and invite you over, I had the bright idea to take his job offer and then the horrible idea to offer you a job, too.” Dilseffa said and took a step back, and stayed facing him. “I'm going to do the first idea, and I'm never doing the second, despite the both of us submitting to him.”
+
+“But... if I'm...”
+
+“He has hundreds of thousands of people in his domain, Rimsoh.” Dilseffa said. “Humans, High Elves, Dark Elves, elflings, and now us.” She took another step back. “He doesn't offer them all jobs. Only a place to live and food to eat, if... and only if... they want to leave where they are now and live on his lands.”
+
+Rimsoh wanted to stand up and follow her, catch her and try to explain again; but, he knew it was pointless. So, he stayed sitting and maintained eye contact with her.
+
+“He even lets them take their families if they want, so they won't be separated.”
+
+“What? No, he... why...”
+
+“He really cares about us.” Dilseffa said and kept walking backwards. “You don't realize it until you start thinking about all of the things he's done, then it hits you that all he's doing is helping people. People he just met. Most of the people in his domain he rescued personally. He's even saved this world several times now.” She was almost too far to hear without her having to shout, and she stopped walking. “He's even saved a bunch of Giants and made them a city to live in, and didn't ask for anything in return.” She said and her tears stopped on their own. “Who does that?”
+
+Rimsoh didn't say the obvious answer, and she smiled.
+
+“He does. He always does.” Dilseffa said. “He knows people are grateful for what he does for them, since he can feel their emotions; but, almost no one ever actually thanks him for it.” She said. “Well, I'm going to. I'm thanking him right now.” She put a hand over her heart and took a deep breath. “I, Countess Dilseffa Dreikhyth, publicly acknowledge King Ren as my Inamorato.”
+
+A ripple of surprise flowed around the camp site as the Pervarians couldn't block their feelings anymore.
+
+“I am Second Mistress of his Royal Concubines, and I will do my best to earn him Respect.” Dilseffa said in a strong voice that none of them had ever heard before. “I am his, and he is mine, both formally and informally. I dedicate the rest of my life to his service, and that of my family members who so choose to join me in that service.” She said. “I do so swear.”
+
+Everyone fell silent as they saw a beam of bright white light shoot out from her and across the remaining space between her and Ren and connected them. The day was ending and the daylight was waning fast, so the bright beam of light lit up the entire campsite.
+
+“I humbly accept your pledge of loyalty, Countess Dreikhyth.” Ren's command voice cut through the silence just as much as the beam of light cut through the air. Everyone turned to look at him, and he walked over to her. “Please, allow me to adorn you appropriately.”
+
+“I accept your attention, My King.” Dilseffa said.
+
+“I had planned on waiting until a more private setting.” Ren said and took out her wardrobe cabinet and opened it. He reached in and took out her work outfit, and she caught her breath. It was only a string bikini and barely covered her.
+
+“M-my K-king.” Dilseffa said and held the thin and very strong platinum-laced cloth. “I... I don't...”
+
+“My head of security will be the fiercest warrior.” Ren said and closed and stored the cabinet. “Equip your uniform, please.”
+
+Dilseffa did so, and everyone caught their breath as nearly all of Dilseffa's skin was exposed.
+
+“Here are the jewelled adornments that are appropriate for your station.” Ren said and started to hand her platinum bracelets, anklets, and a diamond encrusted necklace. No one spoke as Dilseffa equipped each item and her power increased with each added item. “These are only artifical boosts until I can train you properly to become this powerful on your own.” He said. “Now, your crown.”
+
+“M-my WHAT?!?”
+
+“Royal Mistresses are a part of my Dynasty in the lands of Pervaria.” Ren said and pointed to his head, and she saw a thin platinum crown partially hidden by his fluffy hair. “Please, kneel.”
+
+Dilseffa was too stunned to refuse and knelt as she stared into his eyes. Ren held out a diamond encrusted tiara and tucked it into her hair.
+
+“Welcome to the Ren Dynasty, Dilseffa.” Ren said. “Boy, that sounds so pretentious, doesn't it?”
+
+Dilseffa snorted a laugh and he smiled.
+
+“May I kiss you to finish the ritual?” Ren asked, and she nodded. He cupped the sides of her face with his hands and leaned down slightly to press his lips to hers. The light between them grew brighter as he poured feelings of admiration and thanks into her, and she felt how proud he was of her. He broke the kiss and stepped back, then took her hand and helped her stand.
+
+“That was so beautiful!” Yuwen said excitedly and ran over to them. “Quick! Do me next!”
+
+That made several people laugh, and Ren and Yuwen repeated the ritual. Tiyaphi came over when Ren called her over, and they repeated it as well. Once they were done, Teepo told Ren he was out of time.
+
+“I have to go.” Ren said.
+
+“We need to get inside.” Artemis said, and she, Ren, and the three Pervarian concubines, went inside the tower. The bottom was a fully furnished living room and the next 4 floors had bedrooms.
+
+“I'm on the top floor.” Ren said.
+
+“Can I sleep there, too?” Tiyaphi asked.
+
+“I won't be much company.” Ren said.
+
+“I want to be there when you wake up.” Tiyaphi said.
+
+Ren felt that she was going to sneak in later if he said no, and sighed.
+
+“Thank you!” Tiyaphi said and ran up the stairs, then Artemis and Ren walked up after her.
+
+Yuwen looked at Dilseffa. “You really meant what you said, didn't you?”
+
+Dilseffa tried to hide her feelings. “It... really hurt to... end things...”
+
+Yuwen took her hand and walked towards the stairs. “He'll let you hold him, I'm sure.”
+
+“But...”
+
+“We don't even have to ask.” Yuwen said and pulled her up the stairs to the top floor.
+
+Ren, Artemis, and Tiyaphi were changing clothes to get into bed. They looked at the two women, shrugged, then climbed onto the bed.
+
+“I told you.” Yuwen said and equipped a set of lacy underwear and bra she had retrieved from her wardrobe. Dilseffa equipped an old and slightly worn out night gown, and Ren felt her embarrassment.
+
+“Come here.” Ren said.
+
+It wasn't a command, so Dilseffa had to choose to go to him. She did, and walked over to the bed. Ren touched the cloth with the Master Tailor Sewing Needle and repaired it instantly.
+
+“There. All fixed.” Ren said and pat the bed beside him.
+
+“I... My King...”
+
+“There's no need for titles anymore, Dilseffa.” Ren said and put an arm down for her to lay on. “Cuddle in and relax.”
+
+“I don't know about the relaxing part.” Dilseffa said and climbed onto the bed.
+
+“I'll be a perfect gentleman.” Ren said and smiled. “Since I won't be here to take advantage of you.”
+
+“Geez, Ren.” Artemis said. “Take it easy on her.”
+
+“She knows I'm joking.” Ren said and tucked his other arm under Artemis' neck. “I've got two legs free, or you can settle for my hands.” He said to Yuwen and Tiyaphi.
+
+“Definitely hands.” They said together, then chuckled and laid down so his hands cupped the sides of their faces.
+
+“Goodnight.” Ren said. See you later, Teepo.
+
+“Bye, Ren! I'll keep an eye on things, like always.”
+
+A chorus of goodnight was said in return, then Ren tensed all of his muscles for a moment and relaxed.
+
+“Logout.”

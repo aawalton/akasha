@@ -1,0 +1,607 @@
+---
+id: 6b90dad7-d4d0-5959-90e7-67d83810baad
+page-type-slug: story-chapter-royal-road
+title: "416 An Everchanging Life"
+slug: 0376-416-an-everchanging-life
+partOf: the-new-world
+position: 376
+ownLength: 4895
+unit: words
+ownProgress: 4895
+publishedAt: 2025-04-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2228797/416-an-everchanging-life"
+royalRoadId: "2228797"
+markedReadAt: "2026-06-29T21:34:13.563Z"
+---
+
+Helios leaned back.
+
+"That...That's clever."
+
+I smirked.
+
+"I have my moments."
+
+"Speaking of, I was wondering if you'd be willing to offer me some assistance."
+
+I raised my brow.
+
+"Oh yeah, how's the siege of the albony's planets going? Did you guys hold Elysium off?"
+
+A dark cloud loomed over Helios, exhaustion pouring over him. He let out a long sigh.
+
+"It's all but done, and Elysium has won."
+
+Chapter Begin
+
+Like stepping into a cold shower, Helio's words landed like a gut punch. I pushed through the sinking sensation.
+
+"That's...Not good."
+
+Helios tilted his head.
+
+"Not good? You've seen what Elysium has done to races that utilized slavery in the past. We albony are no different, and it's a sad thing to watch my people perish. However, it isn't certain our kind shall be eliminated."
+
+I already saw what he had to say coming. Helios turned a hand to me.
+
+"It just so happens I know of someone who saves disparaged races as a hobby. If we dwell on your actions, you've all but established a wildlife preserve on your planet. I'm certain you have room for a few albony to rest on your worlds."
+
+A bit of nervousness bloomed in my chest.
+
+"I do, but that depends. How many are we talking about?"
+
+"A few million."
+
+I tapped my fingers against my forearm.
+
+"Er, I can do that...Probably."
+
+"Excellent. Now that we've settled on a small but manageable group of nomads, would you mind if we went through a little thought experiment?"
+
+My stomach sank further.
+
+"You're starting to sound like Florence."
+
+Helios pressed his hands together.
+
+"What if, in theory, there are a few hundred million albony in need of saving? Would that change your offer?"
+
+I dragged my hand down my face.
+
+"Hundreds of millions...That's more people than I know what to do with. I have no idea where you guys could settle down, let alone the logistics behind actually helping you all get on your feet."
+
+Helios gestured around.
+
+"Why not here? I've gathered the data on this lunar body, and it has a surface area larger than Africa. Over a billion people lived on that continent before Schema arrived, so nothing is stopping us from settling here on an even larger plane."
+
+I gestured at everything on the moon. That is to say, nothing.
+
+"You know, besides the lack of air, a magnetosphere, or any development of any kind. I've heard that puts a damper on the whole settlement thing."
+
+Helios shook his head.
+
+"The albony haven't terraformed a world to this magnitude, but I've spoken with Terra over the past few months. He and a few other educated skeptiles understand many of the logistics behind balancing an ecosystem."
+
+I wasn't so sure the skeptiles would help the race that starved them. Helios raised a hand.
+
+"With their assistance, especially their spirit magic, I believe we can manifest a perfectly vivid ecosystem here. As for the magnetosphere, you should be more than able to melt the core and create a geodynamo that will last billions of years here."
+
+I pointed at myself.
+
+"Me?"
+
+Helios scoffed.
+
+"Who else? You wield gravitation and temperature alike, and those components should allow you to create the magnetic fields needed for life. You may generate all the air we need as well, given your prodigious origin magic."
+
+Helios rolled his hand.
+
+"You might overproduce air and create a crushing atmosphere, so you'll need the calculations measured and handled for you. We albony are myriad, and we have many statisticians under our employ who can manage those factors. To be more precise, once the initial framework is established, we can maintain all systems easily."
+
+Helios peered at the desolate landscape.
+
+"Some of this planet will be devoted to bodies of water as well, but we have the technology to inhabit those spaces should we so choose. Even then, the oceans of Earth are suitable for such a purpose given humanity hasn't colonized those depths."
+
+I furrowed my brow.
+
+"You want the moon, huh? Is this a roundabout way of restarting the albony empire?"
+
+Helios's eyes hardened.
+
+"That is the opposite of what I want. I wish for the albony to carry your seal of protection, and that requires being a part of your guild."
+
+I nodded.
+
+"So this is a kind of cultural and species preservation project, then? You want me to guarantee that at least a portion of the albony won't be desecrated by Elysium. In exchange, my guild expands alongside the many skillsets and abilities of the albony."
+
+"You've stated my aims clearly."
+
+"What exactly do we get out of this?"
+
+Helios scoffed.
+
+"At this point, my people would be more than willing to offer the great and mighty Harbinger both tribute and plunder."
+
+I leaned back.
+
+"The last time I checked, the albony are used to other people working for them. Are you certain they'll be able to handle that kind of transition?"
+
+Helios gazed at the stars.
+
+"These are not the swollen, sedentary people you remember. Hardship has forged them into a different people. The nobles of estates have died while their manors burned to the ground. The survivors crawled along as a humbled people. Their goals are now singular - to survive. In that regard, I believe that after a year of destitution and a near extinction of our species, we may walk forward without our past holding us down."
+
+I frowned.
+
+"What happened to wanting to handle your projects on your own?"
+
+Helios fidgeted.
+
+"We've lost nearly 80% of our race to Elysium's purges. Think of the immense waste of human capital and the unimaginable suffering. I present this tragedy as an opportunity to try and gain a friend's trust. Your trust."
+
+I blinked before raising my hands.
+
+"I'm sorry. I'm used to a certain rhythm in our conversations, and that's not what this is about. Look, no matter how you handle the situation, I consider you a friend. I will help you as much as I can."
+
+Helios pinched the bridge of his nose.
+
+"Agh. I'm...I'm sorry. I'm stretched thin as a frayed rope. My negotiating is beyond horrendous. I wanted to avoid relying on you again, but the situation has spiraled-"
+
+I cut him off.
+
+"Helios. You don't have to sit here and overexplain or apologize to me. I'm not Obolis. I'm not going to threaten your position or ask you to grovel. Tell me what you need, and if it can be done, then it will be done."
+
+Helios blinked, his pale eyes gaining a new shade of life. Helios stepped towards me, his voice rising.
+
+"Then allow me to elaborate. You've not seen the impact your golems have had. Offering a thousand to me allowed me to expand the number of albony I saved by well over tenfold. These people have seen your golems fly from the horizon and scorch a pillaged planet's surface to ash. They've watched your metal titans rip Elysium's Hybrids to pieces."
+
+Helios shook his fists.
+
+"Those golems drank their blood, chewed their bones, and ate their entrails, all while our enemies screamed in agony. It was beautiful."
+
+I frowned.
+
+"I hope that's figurative."
+
+"It isn't. We albony have seen the death of our history in a single year. I will relish in the pain of those who have done this to us."
+
+I remembered negotiating with Obolis and how he tried pulling fast ones over me all the time. Honestly, I didn't want to bother with that kind of attitude once more. I sighed.
+
+"Are you certain I can trust that the albony have changed?"
+
+Helios raised a fist.
+
+"You think I'd ask you to trust in the albony's goodwill and faith? You are no fool. I ask you to believe in their fear, their dread, and their hatred. The albony hold memories of a decimated homeworld flattened to nothing. I ask you to invest in the rage of a people who fought against monsters that killed us by the billion."
+
+Helios shook his hands.
+
+"You know that we couldn't hold funerals for the fallen? Elysium leaves no corpses behind. Our biomass is used as the origin of puppets. They turn us into stealthy, lithe figures. Our fur falls from cancer-ridden, tube-infested forms. We gurgle on the orange pus they fuel the Hybrids with. We are subsumed in an image of their making, and it is the tortured vision of the depraved."
+
+My skin crawled at Helios's descriptions. Many events passed me over while I refined my skills, yet all of them spiraled into chaotic clusters. Helios frowned in disgust.
+
+"The albony would willingly accept slavery, let alone harsh conditions. As long as you don't use them for flesh puppets, then there is little you could turn them away with."
+
+I winced.
+
+"Flesh puppets? Huh? Well, I can guarantee that's not happening, at least."
+
+Helios's shoulders fell, and his breathing slowed. He took a moment to collect himself before smirking.
+
+"I assumed as much. We'll offer your guild resources, wealth, and, most importantly, skills. You need people who understand galactic commerce, customs, and trade. We offer that in spades, and we also won't monopolize this planet or the dungeons that will spawn here."
+
+I tapped my chin.
+
+"We could actually negotiate with Schema to help prevent Earth from being overrun by rifts. We can have Schema spawn a portion of them on this planet. Besides that, after the culling on Earth, we have plenty of extra space and land. It isn't like I intended on monopolizing everything in the solar system either."
+
+After a bit more thought, I shrugged.
+
+"You know what? Sure, why not. I'll help the albony."
+
+A silence passed over us. Helios peered down and took a few breaths. Helios shook his head.
+
+"It's a strange thing. Every day with you seems like a new tomorrow."
+
+A wave of embarrassment spread over my face.
+
+"I wouldn't go that far. I'm literally helping because it's convenient."
+
+Helios sighed.
+
+"Ah yes, it must be so convenient to harbor a species Elysium has aimed to repurpose. If you were to ask me to shoulder that burden, I'd know that it's not trivial. It's much to ask and more to promise."
+
+He turned a hand to me.
+
+"I remember when we first met. I still feel guilt about what I did to Althea, and that guilt grows as my debt to you increases by the day. From my mistake in judgment, I lost my position under Obolis. That has been a pivotal moment in my life. Hah. From the upheaval of old systems to the destruction of old world orders, it always seems as though every species that makes contact with you experiences a dramatic change in their bearing and being."
+
+Helios peered up.
+
+"Schema may have understood you better than we thought when he named you The Harbinger of Cataclysm. So far, it seems truer than I could've imagined."
+
+He met my eye.
+
+"In that sense, you ushered in the next change, one where the albony have been given another chance at survival. It's a humbling thing to rely on a single individual, but such is our fate."
+
+A sad and weary smile lingered on his face.
+
+"Perhaps there's good in it. Good luck with the next calamity you cause, and know that I am not Obolis. I will repay all that you've done."
+
+I bristled at the compliments. I gnarled my hands.
+
+"You make it sound as though you're leaving the guild."
+
+Helios rolled his eyes.
+
+"Less of a leaving and more of an immediate, enormous expansion in my operations within it. I'll just be spending more time handling the logistics of our kind. I'm assuming you'll allow it?"
+
+I spread my hands.
+
+"Eh, assuming I still get my courier to help sometimes. That, and you'll have to allow Shalahora to check on people's mental states. He can assess if Elysium's done any tampering."
+
+Helios nodded, his face grim.
+
+"You will have my assistance always, assuming you don't allow Elysium to pillage us further. And I would have asked for Shalahora's assistance even if you hadn't demanded it. He's proven unbelievably efficient and effective at uprooting Elysium's psionic subterfuge."
+
+I waved a hand.
+
+"Well then, you look busy. I can handle the situation from here."
+
+Helios pointed to his side.
+
+"It is no problem to shorten your trip."
+
+I remembered how much I enjoyed traveling with Althea.
+
+"I'd rather take it slow this time."
+
+Helios's eyes turned grim.
+
+"As you will it. I must return to battle."
+
+Helios opened a portal. A wartorn city burned in the background. An army of millions of Hybrids marched on Olstatia, the capital of the albony's homeworld. Helios sighed.
+
+"Wish me luck."
+
+His warp closed, but I held a hand on the edge. I pulled reality apart before peering down at the incoming army. Helios turned to me.
+
+"What are you-"
+
+My voice was iron.
+
+"Step aside."
+
+Helios did so. I charged mana into my runes, and my body glowed bright. Miles upon miles of Hybrids gazed up at me, their beady eyes and twitching bodies eliciting my disgust. Mana rippled onto this other world in a plume it had never seen. In a wave of obsoletion, I snapped my fingers and unleashed an enormous number of singularities.
+
+Enchantments tried defusing the gravitational ordnance. Magicians screamed below, remnants and many races working together to untangle the threads of mana. An army of untold size rallied to defend and protect themselves under generated shielding. Trained to a razor's edge, they responded as competently as any veteran could hope for.
+
+And their resistance meant nothing.
+
+A cloak of howling darkness consumed the army. The shields of Olstatia rippled as shockwaves bombarded the bulwark. By the thousand, the Hybrids evaporated into nothing, the singularities acting as harbingers of kinetic destruction. It took seconds for the sound to reach us, and it deafened our surroundings.
+
+The clouds parted from the devastation, opening an enormous hole in the overcast sky. The ground groaned in agony as magma formed from friction. A pool of slag consumed all the remaining Hybrids, and what was left of their army turned into pulped silver. Notifications flooded my status as I turned to Helios.
+
+"It's a little headstart. Good luck."
+
+He gawked at me before I allowed the warp to close, leaving me alone on the moon. I fell into a solemn contemplation.
+
+Helios had spent the last three months saving his people while I only honed my mind and abilities. It left me in awe as Helios prioritized helping other people over himself. It also embedded a feeling of shame. Helios's efforts saved millions, and I could do the same if I applied myself in the same way.
+
+Despite those thoughts, I smiled. I gazed at the endless void above before clasping my hands. If I hadn't trained so hard, then I would never have been able to destroy an army in a split second. It was the price of progress, and I would keep paying until I obtained what I wanted.
+
+Still, I needed a break from the imperial aspects of my empire. I hovered out of the unstable area and pulled Althea out of my pocket dimension once it was safe. She hovered out in her environmentally isolating suit, and she peered around as if sedated.
+
+"Woah. That was weird."
+
+I furrowed my brow.
+
+"Tell me about it. But what did the stasis feel like?"
+
+"It was...Hmm, I was somewhere without time, so it reminded me of staring at a painting. But, uh, I was the painting, I guess? Heh, that doesn't make any sense."
+
+I shook my head.
+
+"No, it does. It sounds like a dissociative state. You know, like an out-of-body experience or something. It's surprising since Torix said everything happened in an instant, and he wasn't aware while in there."
+
+Althea peered at her hand, and it blended into a surrounding plane.
+
+"Maybe it's because I'm used to traversing through places like this?"
+
+"If that's the case, I met someone a lot like you recently. Its name was Kryyah."
+
+As we traveled back, I told Althea about the strange entity and the dimensional rip. She didn't believe me at first, thinking I made it up. That disbelief faded into a cold, distant expression. As I finished my story, she hadn't said anything for a while. I watched her dance across the moon in silence for a while.
+
+She stopped moving before slamming one of her cords into the moon. It sliced the stone like a sword cleaving through Swiss cheese. She turned to me.
+
+"Why can't we catch a break? Why can't you catch a break?"
+
+I frowned.
+
+"I don't know."
+
+She peered down before squeezing her hands into fists.
+
+"I'm tired of watching you do this all alone. If you ask me, it's like Schema's trying to put everything on your back. I know you can handle whatever anyone throws at you, but...I hate watching your shoulders drop when everything gets to be so much."
+
+I grinned.
+
+"Oh, you'd be surprised by how much these shoulders can carry."
+
+She sighed.
+
+"I'll...I'll see if I can't help somehow."
+
+I walked over, picking her up into a hug.
+
+"You help just by existing. It's a passive buff that's more important than any of my trees."
+
+She oofed out.
+
+"Even Determinator?"
+
+"Alright, maybe not, but all the rest for sure."
+
+She and I laughed. She hopped up and down.
+
+"Ok, but I want to do more. Something, I don't know, tangible?"
+
+I set her down.
+
+"Aren't you working on the education and orphan initiative?"
+
+She took a breath.
+
+"See, that's the problem. Does that really amount to much?"
+
+I blinked.
+
+"I find it incredible, personally."
+
+She furrowed her brow.
+
+"By you just saved the moon in a few minutes."
+
+I raised a hand, feeling good about myself.
+
+"And I helped the albony."
+
+"You have to tell me everything that happened while I was out."
+
+We walked and talked. I explained the story before she laughed.
+
+"And you're wondering why I feel like I'm not doing enough?"
+
+I shrugged.
+
+"We shoulder what we can. It's not a game of comparison to anyone but ourselves."
+
+She pointed at me.
+
+"That's easy to say when you're number one."
+
+"I wasn't always at the very top. I'd argue I'm still doing less than either Shalahora or Plazia."
+
+Althea crossed her arms.
+
+"You're right. I, I just feel small sometimes."
+
+I remembered facing my father.
+
+"I do too."
+
+I reached out a hand. She grabbed it. We strolled for a while. I smiled at her.
+
+"You're able to cleave through all obstacles like they aren't even there. That's your most defining system bonus - to be an absolute destroyer of anything. You're also insanely strong. You only need to handle your bottlenecks."
+
+"What do you think they are? Is it like, my mentality or something?"
+
+"I think your mind is in the right place. I think it's your physicality and the rebounds you get from hitting objects that stunts your destructive potential."
+
+"Huh. I get the rebounds, but what do you mean by physicality?"
+
+"The way I see it? You're trying to transform in a way that makes you beautiful. First off, you're always beautiful, but I think you're leaving a lot of potential on the table by trying to look a certain way. There's a lot of potential you might access if you're willing to think outside the box."
+
+She frowned.
+
+"Huh...I guess so. I don't like admitting it, but yeah, I'm not exactly embracing my abilities. I never have. I feel so disgusting whenever I'm transformed into something that doesn't look right."
+
+She shivered.
+
+"Ugh, I hate it so much."
+
+I raised my brow.
+
+"I know the feeling. I don't exactly feel like Mr. Sunshine either, but I do what I have to so that I can handle people like Kryyah when they show up."
+
+She nudged my shoulder.
+
+"OK, I'll take your advice if you take mine. I think, personally speaking, that you need to take your time and make sure you're growing in the right way."
+
+I raised a brow. She waved her hands.
+
+"You're, er, rushing, and considering your potential, there's no reason to. You've got this if you take your time and make sure that every step is the right one."
+
+I stood taller. I rubbed my nose.
+
+"Thank you for the vote of confidence."
+
+"Heh, at this point anyone that doesn't have confidence in you is pretty ridiculous. For me, I'm worried you're going to run too fast and fall down, not lose the race because of speed...That is, you know, assuming we're racing. If a race makes any sense. Maybe we're racing Elysium?"
+
+She peered away.
+
+"Forget it."
+
+I squeezed her to me.
+
+"It makes perfect sense."
+
+She coughed before I let her go. I raised my hands.
+
+"Sorry."
+
+She tapped her chest.
+
+"I'm fine. Anyways, you talked about letting the albony settle on the moon, right? That's crazy, huh?"
+
+I frowned.
+
+"Yeah. Seeing Helios work so tirelessly for his people...It's made me reevaluate a few things."
+
+She smiled.
+
+"If you ask me, I think you've done things pretty well. Think about it. There's no way Helios could've done what he did without your golems. They're so strong because you are. You may not be the person leading the charge, but you're making sure other people can."
+
+She shrugged.
+
+"I don't know...I think that's pretty cool."
+
+We kept talking, passing through the endless white craters before landing near our lunar encampment. Once there, we found loads of changes, even in the two days since we left. A few pools of water shined near the center of the crater, origin mages hard at work. They wielded my rings, the dimensional fabric generating the raw matter while they carved into the ground like sculptors.
+
+After peeling out a portion of the ground, they insulated it with dark clay, the dirt thick like putty. The streaks of dark contrasted the white stone, probably more of an aesthetic choice than anything else. The streams carved into the ground like elegant moats and lined the metal platform where Schema's facilities resided.
+
+My monolith glowed with quintessence at the center of it all, the dark metal ominous and foreboding. Kids trusted my barrier, many of them playing in the streams while a few parents watched from afar. I joined the parents, but I stood a fair distance away. Althea talked with the parents before walking over to the kids.
+
+She knew most of them by name, and she helped them learn and play a few games, from racing each other to lifeguard games to red light green light. I was more than content just watching them. Of course, that's not all I did. I had fifty-plus minds, and leaving them all idle was essentially torture.
+
+We ramped up the assimilation of energy, my body a machine of mana. After an hour, Althea waved the kids goodbye to their chagrin, and she talked to the parents. Once she stepped away, she waved at me.
+
+"Hey. Why didn't you come over?"
+
+I raised my hands.
+
+"I'm a giant, metal monster. I'm not exactly something kids trust."
+
+She frowned.
+
+"They're not scared of you."
+
+I frowned back.
+
+"You know, I doubt that. Besides, this is why keeping your appearance as you have has its benefits. People trust you. They can be at ease when you're around. Me?"
+
+My armor glowed.
+
+"I'm like some gruesome protector at best and the guild's boogeyman at worst."
+
+She tapped my chest.
+
+"You know what? You're right. Someone is scared."
+
+"What? You mean me? That's not it at all."
+
+She waved her hands.
+
+"I've seen soldiers do this. Buk-buk-buk."
+
+I rolled my eyes.
+
+"Phss, this is childish goading at best."
+
+She moved her neck as if pecking.
+
+"I'm Daniel, big strong metal man. Buk-buk-bugawk."
+
+I raised my hands.
+
+"Come on now. You know I'm not afraid."
+
+Adding to the effect, she made feathers on her arms.
+
+"Buk-buk. Buk-bugawk. Me not Hod. Me Daniel. Me scared."
+
+I rolled my eyes.
+
+"Alright, you want me to terrify the children? I'm game. Let's go."
+
+I stepped past her, and she grabbed my arm. The feathers fell off of her.
+
+"Hey, you got to at least try and look less intimidating."
+
+She pushed my cheeks together.
+
+"And try to smile. Your attitude is terrible."
+
+I took a moment, making sure I was calm. I shrank myself down to Althea's height, only slightly taller. I dulled the spikes across my armor and made the glow of my armor's runes into a gentle, unintimidating origin mana. The bright sky blue was the least hostile look I could muster. I pulled my helmet off while walking over with Althea.
+
+As I did, the kids went silent. I raised my brow to Althea before she pulled me forward. I looked to the parents for some help, and they had smiles on their faces - they were in league with the enemy. The kids grouped together, fear palpable in them. I lunged down to one knee.
+
+"Hey, guys. Do you like the pools?"
+
+They peered up at me. One of them murmured.
+
+"You...Are you the Harbinger?"
+
+Even kids called me that. I sighed.
+
+"To some people, yeah. I usually prefer it when people call me Daniel, though. Especially friends."
+
+The brave child peered up at me.
+
+"My dad said you helped us escape Yawm. He was bad."
+
+I nodded.
+
+"Very bad. Do you guys want to see something cool?"
+
+They looked at each other before their leader put their hands on their hips.
+
+"Yes."
+
+I raised a hand, and they lifted up off the ground. They floated in the ether, and each of them giggled at one another. After a few seconds, I saturated them in their own individual gravity wells. One of them landed in the water, and it pooled over them, smothering the child in liquid death.
+
+It was a simple mistake. When weightless, water became a sticky, volatile thing. Water tension kept it pinned onto anyone or anything it came in contact with, and struggling immersed the individual further. Before the liquid ran up to the child's face, I put antigravity spheres over their faces.
+
+The water stopped at their neck, and the child's panic ceased. They laughed before taking some water and putting it in their mouth. It took a few tries since the antigravity sphere kept shoving the water away, but persistence paid. Like getting two opposing magnets to touch, the child snapped their face into the water and got a mouth full.
+
+They squirted it out, launching themself around. The other kids followed suit, immersing themselves in water before propelling themselves with jets of the stuff. They laughed, each of them playing around with the others. Althea and I watched for a while before the bravest child flew over. To stop themselves, they grabbed my hair, jerking to a halt.
+
+Panick popped over the child's face.
+
+"Ah. I'm sorry. That must have hurt."
+
+I scoffed.
+
+"Trust me on this. You can't hurt me."
+
+They put water in their mouth and squirted it on me. It was kind of gross, and my hair dropped against my face before Althea burst into laughter. I flicked the child with gravitation, and they swirled around at a gentle pace. They burst into childish giggling, enjoying the steady spiral sensation.
+
+After a few seconds, I slowed them down. The other kids lined up, and I had them all twirling about like spinning water balloons. As they all played and pushed around, Althea leaned her head against me.
+
+"See? There's nothing wrong with spending a while doing this."
+
+I marveled at the absolute joy of the children.
+
+"Yeah. It makes me feel like a kid again. There's a wonder they have for life that I lack...Or lost. I can't tell."
+
+After a few more minutes of play, I pulled them out of their gravitation, eating the latent, leftover mana with Event Horizon. After setting the kids down, they let out cries of defiance, demanding I stay. I ruffled the hair on one of their heads.
+
+"Sorry, guys. I have to go protect our people."
+
+The child leader walked up and gave me a hug. The expression stunned me, but I still softened my armor in time so they didn't clank their face against hard steel. They looked up at me.
+
+"My name's Quinn."
+
+I smiled.
+
+"It's good to meet you. Sorry, but you're parents are calling for you all."
+
+Quinn raised a hand, holding out a pinky.
+
+"Pinky promise you'll come back."
+
+I grabbed their tiny, almost miniature, pinky in my hand. My finger was the size of their arm.
+
+"I will, but make sure you study hard, train consistently, and listen to your parents. They know what you need to do."
+
+Quinn ran off, laughing. They joined their friends, and they all waved me goodbye. I waved back before Althea pulled me up to the moon's central monolith. She took a breath.
+
+"Are you ready to go save New York next?"
+
+I rolled my shoulders.
+
+"Oh yeah. I'm itching for a fight."
+
+Mana emanated from me like a flame.
+
+"Let's go see what a warlord on Earth can do."
+
+Althea's eyes went distant.
+
+"More than you might expect."

@@ -1,0 +1,177 @@
+---
+id: 72f02406-5ac3-57ed-97f0-c4b4b8368830
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: The White Rain (Part 2)"
+slug: 0013-chapter-12-the-white-rain-part-2
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 13
+ownLength: 2293
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3424480/chapter-12-the-white-rain-part-2"
+royalRoadId: "3424480"
+---
+
+The white rain, or as ancient knowledge named it: The Tears of the Womb.
+
+It signifies the passing, the death of a great being. The womb of creation weeps as though it had lost a child, mourning the loss of a grand existence, using the luminous rain to mark the departure. And these beings range from as low as the potential of an archmage, to as high as the potential of a sage, and even higher-existing humans or gods. The breadth of the land the rain falls upon depends entirely on the potential of the being that passed away.
+
+Fiona's eyes quivered as her mind drifted while watching the luminous white rain fall outside in a heavy pitter-patter. Her gaze shook further, widening in disbelief at what she was witnessing.
+
+A great existence had died.
+
+And judging by her mother's reaction, it hadn't happened far from Sigsug. In fact, it might even be within Sigsug itself that the great being passed away.
+
+"Wait a moment..." Fiona's breath caught as a memory surfaced. 'Our ancestor.' She pieced it together instantly.
+
+Her gaze darted toward her mother, questions forming on her tongue, but her eyes could only stretch wider at what her mother did next.
+
+"Mom! Where are you going?" she called out, watching her mother slam the window shut and rush outside the house without pause. A heavy wind burst through the opened door before it banged shut.
+
+Fiona stared speechless at the door of their home. Slowly, her gaze drifted to Ren, whose green eyes stared back at her, wide and swimming with worry and fear.
+
+She pushed herself off the long couch. "Wait here," she told him, then hurried to the door and pulled it open. A gust of wind surged past her, sending her light blue hair fluttering. She took in the scene before her for a long moment, watching the luminous rain fall in a serene rhythm, making the ground glow with a rippling dance of faint white light.
+
+Fiona sucked in a deep breath. Without another thought, she stepped forward, but a frown immediately tugged at her face. "I said stay here, Ren." She turned to find her brother already at her back, clearly intent on following. "It's safer inside."
+
+"No!" Ren shook his head, his jaw set with determination. "I want to go with you."
+
+"I said no. It's safer inside; we don't know what's out there." She rebuked him. "This isn't something for a child."
+
+"I'm going!" he retorted.
+
+"I said—"
+
+"I'm worried!" Ren cut his sister off, his voice cracking. "I'm worried about Mom too." He stared down, his expression crumpling with sadness. "And I'm scared something might happen to you both."
+
+Fiona stared at him for a long moment. A sad expression flickered across her face before a deep sigh escaped her. She turned away, muttering, "You always leave me with no choice." A small smile played at her lips.
+
+Her gaze returned to the white rain falling heavily upon Sigsug. She stepped outside, letting the rain soak her for a long moment. After confirming nothing was wrong with it, she walked back to the entrance, shut the door, and grabbed Ren by the hand. Together, they broke into a run through the residential streets.
+
+Their steps rippled through luminous puddles that soaked the streets of Sigsug.
+
+Fiona's eyes searched the distance, hunting for any trace of their mother who had bolted ahead. She gritted her teeth when no sign of Jasmine appeared. "Mom... where are you?" she whispered, her thoughts calculating. Her gaze traveled far into the distance, where the mountain stood tall and looming, the white rain illuminating the night.
+
+A frown settled on Fiona's face as a thought crossed her mind. 'She can't be there already?'
+
+"I think Mom already reached the mountain." Ren's voice cut through her thoughts.
+
+Her steps halted abruptly as her eyes darted to her brother. "Since when did Mom know how to cast a flight formula?"
+
+Ren shrugged. "A few years ago. Maybe four."
+
+Fiona was on the verge of rolling her eyes. "Why didn't you tell me earlier?"
+
+"I didn't think of it at first." Ren stared off into the distance. "Sorry..."
+
+Fiona looked at him for a moment before shaking her head with a tired sigh. "It isn't your fault."
+
+Her gaze shifted to their current surroundings. She studied the houses of other residents, her focus jumping from one to the next. A frown soon surfaced as she noticed something strange. It deepened. "Ren..." she called out.
+
+Once she had his attention, she continued. "While I was absent... was there any new law about staying indoors at nighttime?"
+
+A frown formed on Ren's face. "No such law exists in Sigsug." His brow furrowed as he thought harder. "Why would there be in the first place?"
+
+Fiona, however, didn't hear the last part. Her grip tightened subconsciously on Ren's hand as she rushed to a nearby house, stopping at its doorstep and delivering a loud knock.
+
+No answer came.
+
+She didn't stop there. With a swift motion of her knuckles, she knocked again.
+
+Her knock was met with another deadbeat silence.
+
+A frown surfaced on Ren's face as he stood beside her. "Strange," he muttered. "It seems they're in a deep sleep."
+
+"Wait here," Fiona said, then rushed back into the rain and began knocking on the resident houses around them. She kept this up for five minutes, jogging through the luminous rain and stopping at people's doorsteps, giving each door a loud knock. Each time no one answered, her heart raced faster, confusion and worry creeping in.
+
+Her confused thoughts found an answer when she stopped at one of the houses where a figure sat on a wooden bench on the balcony, his head resting against it as he slumbered deeply.
+
+Fiona's eyes trembled as recognition struck her. "Slumber Formula," she muttered. "Someone put the whole of Sigsug into a deep sleep using a high-tier Slumber Formula." She breathed out her calculations in shock. Her gaze drifted to the mountain in the distance, the white rain illuminating its shape.
+
+"Ancestor." Everything pieced together in Fiona's mind at once. Without thinking, she bolted into a sprint, running through the streets until she reached the spot where her brother waited.
+
+Ren's face brightened when he saw his elder sister, but a slight frown appeared when he noticed the confusion on her face. "What's wrong?" he asked as she drew close.
+
+Fiona didn't reply. She grabbed his hand with her left, and with her free hand, she retrieved a small object no larger than her palm from her pocket. The object resembled an ash-colored toy sword, unremarkable in every way.
+
+Fiona's grip tightened on the toy-like sword as she muttered in a low tone, "[Activate]."
+
+The toy sword trembled on her palm as she threw it. The moment it was flung into the air, it halted abruptly.
+
+Ren's eyes widened as a formula, far larger and more visible than the sword itself, began etching itself onto the air around it.
+
+He watched as an image of a three-point line took form. Almost instantly, arrow markers materialized at the ends of each point. A large circle encapsulated the entire arrangement. Then, like an illusion, the completed formula bloomed into a vivid multicolored light of red, green, and blue.
+
+The toy sword enlarged in the air, transforming into a great blade.
+
+"A flying sword artifact," Ren breathed out in surprise, perking up slightly as another image began to draw itself on the sword, this time etching itself onto the handle.
+
+The image taking form was the shape of a feather, its quill straight, its barbs spreading in gentle, uneven strokes, as if still drying from a rain. Around the feather, more images arranged themselves into five curved lines, each shaped like a falling leaf turned sideways. Between them, tiny dots appeared, not random but spiraling outward, forming the completed root—a root that spelled buoyancy, drift, equilibrium, slow fall, and wind's patience.
+
+Last came the structure, encapsulating the entire arrangement. The completed spell glowed a soft, downy white, the color of thistle drift and goose down.
+
+Before Ren could admire the formula, he felt Fiona's arm wrap around his waist and lift him. She leaped onto the flat surface of the floating giant sword.
+
+The instant her feet touched the flying sword, it shuddered and zoomed off, cutting through the cold air as it blurred toward the mountain.
+
+As they drew nearer, Fiona's eyes swept across the mountain's top, searching for their ancestor's residence.
+
+Her gaze darted around until it finally paused on a specific location near the hill—a simple cottage resting on the hill's crest.
+
+A small breath of relief escaped her lips. With a silent command, she steered the flying sword in that direction, and within a few moments, the sword halted, hovering just above the plagued wide meadow where the cottage sat.
+
+With a calm leap, she landed on the purplish-brown grass, dispelling the flying sword artifact and letting it shrink back to its toy-like size, all while still holding her brother by the waist and keeping his feet from touching the plagued grass.
+
+"I know you're strong, but... I can walk by myself, you know," she heard Ren say.
+
+"I don't want you standing on the plagued grass," she replied, retrieving the floating toy sword and slipping it back into her pocket. She added while turning toward the simple cottage, a sigh escaping her, "It might be dangerous for someone with a potential like yours."
+
+Ren snorted, offended. "It isn't. I walked through one before."
+
+An amused smile crept onto Fiona's lips. "I'll definitely tell Mom about this."
+
+"Please don't," she heard him say.
+
+A small laugh escaped her as she glanced around the plagued meadow. Her gaze drifted to the glowing indigo sky from which the already decreasing white rain fell.
+
+A deep sigh left her lips as she turned and began walking to the cottage, knocking calmly on the door upon reaching it.
+
+"Come in." Her mother's voice, Jasmine's voice, answered from inside. With a sigh, Fiona set her brother down gently on the floor and, after waiting for him to straighten his already wet clothes, she opened the door.
+
+Fiona's gaze landed on her mother, who sat on a dining chair, her arms wrapped around the young girl Molly, holding her in a tight embrace as the girl wept silently.
+
+"Molly..." Fiona heard Ren say beside her, his voice a low, sad whisper as he walked to where Jasmine sat. He halted a short distance away, watching Molly, his expression growing dimmer.
+
+"What happened to her?" Ren asked, glancing at Jasmine, clearly awaiting an answer.
+
+A sad smile touched Jasmine's lips. "It's a long story." Her gaze swept over Molly's frame, which seemed so fragile it might break at any moment.
+
+She exhaled softly. "And now isn't the right time to tell one," she said calmly.
+
+Ren immediately understood what his mother meant. He gave a brief nod, his gaze returning to Molly, who hadn't turned or acknowledged him. His sadness deepened as he walked slowly to one of the dining chairs and sat, saying no more.
+
+Jasmine watched her son, her sad smile warming for a brief moment. Her gaze soon found Fiona, standing at the side of the entrance, watching her mother calmly even as a sad expression tried to work its way onto her face.
+
+"You both got yourselves drenched too," Jasmine said, eyeing the damp clothes her children wore, their hair clinging to their skin.
+
+A small smile played on Fiona's lips. "That also includes you, Mom."
+
+Jasmine gave a short nod. Her gaze returned to Molly. A small smile surfaced again. "Yeah..."
+
+She shifted her attention toward a small chimney built into the wall, where wood sat arranged but unlit, the kindling soaked through. "Fiona, why don't you check if there's any stored wood around? See if you can warm yourselves when I light it—" Before Jasmine could finish, her eyes widened. She noticed Molly shift, raising her hand slightly.
+
+In less than a breath, a formula began to draw itself on the air.
+
+The first image to form was a sunlight. The next assembled itself into a vortex shape that overlapped with the sun, creating two roots. The structure encapsulated the entire arrangement soon after, creating the completed formula. The spell was suddenly dyed a vivid bright orange.
+
+The formula expanded until it surrounded all of them, floating higher until it hovered just above their heads.
+
+Then, from deep within the spell, a gust of hot wind began to blow. The cottage trembled slightly at its start, and within a few seconds, Jasmine, Ren, Fiona, and even Molly, whose body had been drenched by the luminous rain, dried completely. A warm breeze swept through the room, completing the process as the formula faded into nothingness.
+
+Silence swept through the room as both Ren and Fiona stared at Molly's back, stunned by how casually she had performed it.
+
+Fiona was the first to break the quiet. "That was [Vortex Sunlight]," she breathed out. "A [Tier 4] formula." Her gaze landed on Molly's back again, the shock palpable on her face. "Had she not controlled it with such precision, we would have been burnt." Her voice dropped low. Her gaze found her mother, who didn't seem fazed by the level of spell the little girl had used.
+
+In fact, Fiona could clearly see a warm smile playing on her mother's lips as she stared at the young girl. "Even in your darkest time, you still cared for others." Her smile grew warmer as she pulled the young girl's fragile frame tighter and concluded with a whisper.
+
+"Thank you... little snow."

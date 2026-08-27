@@ -1,0 +1,34 @@
+---
+id: 36757085-62ad-52ab-92ff-62ce708a49a7
+page-type-slug: story-chapter-royal-road
+title: "Life update - Since so many have asked"
+slug: 0006-life-update-since-so-many-have-asked
+partOf: ultimate-level-1-litrpg-book-11-stubs-310
+position: 6
+ownLength: 366
+unit: words
+ownProgress: 257
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/2924969/life-update-since-so-many-have-asked"
+royalRoadId: "2924969"
+---
+
+Hey all -
+
+All I can say is wow! I've had a ton of messages from people both here and on discord checking in on me.
+
+First, thank you for being that concerned. It means a ton.
+
+Second, to help minimize some stuff, I figured I would just post a message to help cut down on some of the need to reply.
+
+I'm doing better mentally.  My therapist and psychiatrist have helped me a ton and I'm feeling a lot more like my old self.  It's been a hard road since August when I had a mental breakdown and I want anyone who reads this and is experiencing depression and thoughts that aren't right to reach out to someone who can help. Trust me, it's a hard road and you don't have to do it alone.
+
+On the other end, I've been basically off Royal Road since the new years due to some health stuff with one of my kids.  One of them suffered from seizures and we had 4 episodes in 48 hours right as the new year started.  So we spent some time traveling to dallas, talking with our neurologist and so far after some medicine medication, haven't had any other episodes.  I'm grateful to the doctors who helped get him on a path where we can relax and breathe.
+
+I'm headed back to dallas tomorrow and then hopefully life will be settled.  I've still got some more chapters for all the stories.  I haven't had a chance to do much.  Forgive the need to edits.  I'm looking for a new helper to assist with some of the stuff I have pre-corrected (writing / beta / patreon / RR).  There's multiple files with changes and one day I'll create a better system for making it easier to follow how I fix chapters.
+
+Regardless - thanks again for the messages. I'm probably going to be silent until next week and may try to move through the 90+ messages I currently have unread in my inbox.  If I don't reply, its mainly time right now of sitting down and going through all of them and replying.  But it means a ton.
+
+Thanks for the love.
+
+Shawn

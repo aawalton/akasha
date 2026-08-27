@@ -1,0 +1,255 @@
+---
+id: 0a8d0085-18b2-555f-a93e-66ad1abde24a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16 - They Meet at the Club"
+slug: 0017-chapter-16-they-meet-at-the-club
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 17
+ownLength: 2034
+unit: words
+publishedAt: 2022-06-07
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/922511/chapter-16-they-meet-at-the-club"
+royalRoadId: "922511"
+---
+
+When Maron Garrod was appointed to be the Swineherd Club’s manager, he knew it would be the most comfortable job a man of his standing could ever hope for, so he went about ensuring that he would never lose it. Knowing how much a friendly smile and polite greeting mattered, he went out of his way to spend as much time as possible at the front counter. He’d even had a low desk installed behind the counter so he could do paperwork and scheduling in the quiet minutes between people coming and going.
+
+He knew every member of the club, every regular guest, and learned the names and faces of every other notable person based on the assumption that they were bound to come through his door sooner or later—and they would be greeted properly.
+
+He sensed someone moving toward him and rose without any deliberation.
+
+“Inspector Haley,” he said, “are you leaving so soon?”
+
+Haley passed the young boy beside Garrod a ticket. “My business is done. I have no more need to trespass on your time.”
+
+The manager read from the policeman’s expression that his business had not been concluded with any notable success.
+
+“You found the gentlemen?”
+
+“I did.”
+
+“Were you able to talk to them?”
+
+“I was.”
+
+There was a moment of silence.
+
+“Is it a hard case?”
+
+The manager sounded genuinely empathetic. Haley found his heart warming to him.
+
+“Careful, Garrod. You’ll make it sound like I’m welcome here.”
+
+“You are welcome here—how’s your uncle, by the way?”
+
+The boy returned with the inspector’s hat. Haley took it, thanked him, then turned back to the manager. “You might know more than I do. Whenever his boat lands, I think he comes here before he calls me.”
+
+Garrod smiled sheepishly and shrugged.
+
+Haley motioned to him with his hat. “You’ll let me know if he stops by, won’t you? I’d hate to miss him.”
+
+“Why don’t you stay for dinner, Inspector? I can get you a private room. It’ll be nice and peaceful.”
+
+Haley looked sorely tempted.
+
+“Even you need a work break from time to time—”
+
+Garrod’s wheedling was interrupted when the front door swung open.
+
+The man that came in was adequately groomed, but people looking at him got the impression it was almost incidental. It was possible that his wife picked out good clothes for him because he couldn’t be bothered, but all her careful selection was undermined because he dressed himself with the same apathy. He tended toward fat, but it showed most in his face because he chose to wear an unsuitable goatee rather than take the time to shave each morning.
+
+Garrod smiled. “Deputy Chief Constable! Good evening. I’m glad you could join us.”
+
+The man turned after shutting the persnickety door. “Good evening, Garrod.”
+
+When the man’s eyes landed on Haley, the inspector nodded. “Good evening, Deputy Chief Rollan.”
+
+“Inspector Haley, good evening. I didn’t know you were a member here.”
+
+“Rightly speaking, I’m not, sir.”
+
+Garrod explained, “Inspector Haley is a semi-frequent guest. We see him about once every six months. I was just trying to persuade him to stay for dinner.”
+
+“Is the food good today?” Rollan asked.
+
+“It’s Chef’s signature dish.”
+
+Rollan turned to Haley. “It would be hard to refuse that, Inspector. You can eat with me if you’d like.”
+
+Haley hesitated, then said, “I’m afraid I can’t stay for the whole meal—I’m expected somewhere else—but I would welcome a drink.”
+
+“A drink. Yes, yes.”
+
+Haley said to Garrod, “The private room please.”
+
+The inspector passed the boy his hat again and waited as Rollan did the same. Then the two policemen followed the manager through the main rooms, toward one of the private dining rooms.
+
+A waiter attached himself to the group before they arrived at their destination. When Garrod opened the door, the waiter slid inside behind the guests. He proceeded to fill their water glasses while Haley and Rollan sat down at the table.
+
+The deputy chief ordered a bottle of wine, then sat back in his chair. The two men chatted about simple things—the weather, the state of the club, how good the chef’s food was—until the waiter returned with their wine.
+
+Rollan noticed that as the waiter poured Haley’s drink, the inspector muttered something under his breath. The waiter nodded, put the bottle on the table, and left.
+
+From this, the deputy chief guessed that the time for small talk had ended. “Are you still on that Penn case, Haley? The one with Duke Aubrey-Serrs?”
+
+“I am.”
+
+Rollan took a swallow of his wine after smelling it. “Are you any closer to catching this so-called master thief?”
+
+“Not at the moment.”
+
+“A shame.”
+
+“But I have good reason to hope I’ll catch him someday.”
+
+“Oh?”
+
+“The so-called master thief is, at least, a master of disguises, but I think I’m beginning to see through some of his tricks.”
+
+“That’s excellent.” Rollan put his glass back on the table. “If I might ask how?”
+
+“There are times—probably difficult times for him—when he’s in a hurry, and he can’t pay as much attention to his disguise as he would like.”
+
+“You mean the disguise is sloppy?”
+
+“No, I mean the character becomes a problem. It must be easy to pretend to be a nameless person on the street—a cabby, for example—but what about the times he has to pretend to be someone well-known?”
+
+Rollan toyed with his dinner fork before moving his napkin to his lap. While doing that he said, “You think that would present him with a problem?”
+
+“Every once in a while. Especially if he hasn’t studied the character of the person long enough to know what they’d do in any given situation.”
+
+“I wonder how often bluffing carries him through.”
+
+“Most of the time, I suspect. But you can’t always account for bad luck.”
+
+Rollan reached up, pulled off the two sides of his nose, and laid them on the table. “No, you really can’t.” He pulled cotton from one side of his mouth, then the other.
+
+“He also has this bad habit of choosing to disguise himself as a policeman or some other figure of authority.”
+
+“Does he carry it off?” Rollan eased the goatee from his face and put it next to the nose putty.
+
+“Like an expert. I think he finds it amusing.”
+
+The deputy chief dipped his napkin in his water glass and scrubbed the dark pencil from his eyebrows. “I think he does. I think anyone in his position would.”
+
+“Toying with danger is a strange hobby.”
+
+The wig was removed. With it still in his hand, Penn pointed across the table, “That doesn’t mean it isn’t fun.”
+
+“This is twice in three days I’ve caught you.”
+
+“This is twice in three days that you’ve seen through my disguise.” Penn ruffled his hair so it wasn’t sitting so close to his head. “What was it this time? Does Deputy Chief Constable Rollan not know your rank?”
+
+“Rollan is a shy man. He prefers his own company. I’ve never known him to extend an invitation to anyone.”
+
+“I presume the door is locked? I think you gave our waiter some instructions before he left.”
+
+“The door is locked, yes.”
+
+“How could you say you were no closer to catching me when I was sitting in a locked room with you? Honestly, Haley. Lying to your superiors.” Penn shook his head with mock disapproval.
+
+“Her dowry is ten thousand dollars.”
+
+The thief’s mouth dropped. Then he laughed. “Maybe I will marry her.”
+
+“She won’t have you,” Haley growled.
+
+Penn wagged a finger at him. “Don’t be too sure, Inspector. Women like a scoundrel.”
+
+“She’s too smart for that.”
+
+“No one’s smart when it comes to love.”
+
+Haley glared at him, then said, “Shortly after Lady Serrs turned twenty-one, her father tried to arrange a marriage between her and Lord Gervase Fitzmon—the man who will eventually become the Duke of Lavmay.”
+
+“Her father arranged it?”
+
+“He tried. Fitzmon claims that he was amenable to the arrangement, so he agreed to court Lady Serrs.”
+
+Penn leaned forward. “Amenable? Is that the word he used?”
+
+“The exact word. She turned him down when he proposed to her. He claims she never told him why. Duke Aubrey-Serrs tried to persuade her she was wrong—”
+
+“I can imagine.”
+
+“—and when that failed, he turned to Ryder Massey.”
+
+“This one’s the earl, correct?”
+
+Haley nodded. “Massey’s suit went on for longer, but when he proposed, he met with no more success than the marquess.”
+
+“And his thoughts on the matter?”
+
+“He said he was heartbroken, but I suspect he was being an ass.”
+
+“So Dominic Winfield was the third? Did old Aubrey-Serrs decide that being his son-in-law was enough of an honor to make up for the deplorable lack of title?”
+
+“Winfield’s an American citizen. He can’t hold a title.”
+
+“An American! Did he blackmail the duke?”
+
+“The man’s as rich as they come.”
+
+“So it was bribery.”
+
+Haley didn’t laugh. “Duke Aubrey-Serrs was clear about having sought out Fitzmon and Massey. He was less clear when it came to Winfield.”
+
+“Did you ask our American friend about that?”
+
+“He said that the duke came to him.”
+
+Penn folded an arm over his chest and tapped his lips with the other hand.
+
+Haley went on, “Like the others, he was refused. Like the others, he said she never explained herself. When I asked him how he felt, he said that he was ‘understandably disappointed.’”
+
+“How diplomatic. Are any of them in love with her?”
+
+“They said no.”
+
+“But none of them are married. None of them have even pursued another woman.”
+
+Haley raised an eyebrow. “And how did you learn that, Mr. Penn?”
+
+Ryce grinned. “I told you, women love a scoundrel.”
+
+The inspector’s eyes narrowed, but instead of pursuing the question, he said, “When I made a similar point to His Lordship Massey, he smiled and said, ‘Ah, but she might change her mind.’”
+
+“This was Massey, the ass?”
+
+Haley nodded again.
+
+“That’s interesting.”
+
+The inspector reached out, took a swallow of his wine, then stood up. “Now, if you’ll excuse me, Mr. Penn, I have to go.”
+
+The thief slowly got to his feet in the same way a cat slowly comes out from the corner. “You’re leaving, Inspector?”
+
+“I told you, I have another appointment.” He motioned to the bits of discarded disguise sitting next to Penn’s utensils. “You might want to hide those after I leave. The door won’t be locked, so there’s no telling who might come in.”
+
+“I can take care of myself, thank you, Chief Inspector!”
+
+Haley shrugged and headed toward the door. He stopped when Penn called him.
+
+“You told me all that,” the thief said, “and now you’re leaving? What is it you want from me?”
+
+Haley came back to the table. “Let me be very clear about this, Mr. Penn—I’m asking you for nothing. Not one thing. And you’ll ask me for nothing. You and I don’t have that kind of a relationship.”
+
+“And the information was what? A gift?”
+
+“A tool. Something you might be able to use.”
+
+“Why, Haley?”
+
+“Because I know why you’re here, and I know what you’re like. And because, sometimes, the worst way to get the truth is to stand in front of someone and ask them for it.”
+
+Haley turned and walked to the door.
+
+“Good night, Mr. Penn. I wish you luck in your endeavors.” He knocked and was let out.
+
+When the inspector was gone, the thief dropped back into his chair with a noisy sigh. He reached out for his wine.
+
+“Wish me luck?” he muttered into the glass. “Damned frog.”
+
+But the thoughtful expression didn’t leave Penn’s face until he finished his wine. Then he stood up, tucked his disguise in his abnormally large pockets, and shoved his jacket between a curtain rod and the wall. When that was done, he went to wait by the door.
+
+The waiter came to take the deputy chief constable’s order, but the man had disappeared. He let out an indifferent huh and started to clear off the glasses. While he did that, Penn slipped out the door.

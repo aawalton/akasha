@@ -1,0 +1,323 @@
+---
+id: 2d17b918-fec2-59d2-8085-f01285ec50a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 105: A Place of Learning"
+slug: 0024-chapter-105-a-place-of-learning
+partOf: the-calamitous-bob-stubbed
+position: 24
+ownLength: 5111
+unit: words
+ownProgress: 5111
+publishedAt: 2023-02-10
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1110273/chapter-105-a-place-of-learning"
+royalRoadId: "1110273"
+markedReadAt: "2026-06-29T21:15:31.464Z"
+---
+
+Helock had the cosmopolitan feel of world capitals, back on earth. As they moved up the slope towards the Academy, the two humans and one small dragonette had come across blockish, colorful northern houses, the sober lines and peaked roofs of Enoria, and solemn, plastered facades Sidjin said were typical of Baran. There were even, here and there, strange minarets that bore the mark of the distant Vizim from whence Sidjin’s ancestor had sailed, ages ago. The crowd themselves showed just as much diversity, if not more. The dark-skinned northerners were the majority, but the slight green tint of the continent’s main ethnic groups could be found in declinations going from pale to the same burnished tone the savage Koro had shown. Viv also met her first Hallurians, members of an extremely limited diaspora. The men shaved their heads while women wore theirs long and braided, and they all walked with guarded postures or in groups. The clothes too were a study in fashion. Baggy trousers and comfortable skirts alternated with the oriental, padded robes Viv associated with the local nobility. Basic cuts Viv associated with medieval clothes was prevalent among the poorer people, but there were signs of extravagance.
+
+Viv’s enthusiasm for this new environment survived the two minutes it took for the smell of the city to cover that of spices, and for the melting pot to reveal itself as a salad bowl. People rarely mingled, preferring to stick to their own folks. Glares abounded. Covered windows and the occasional derelicts showed traces of damage, some of which appeared rather recent. Many of the men carried knives and truncheons in full display, a sign that the law here no longer had their trust. Everyone gave Viv a wide berth.
+
+“Is it me or is the city a boiling kettle?” she whispered to Sidjin.
+
+“There were tensions like that in Glastia before some food riots, ten years ago.”
+
+“Is that normal?”
+
+“As normal as tensions are, yes. Helock is known for a relative laissez-faire. The city is ancient. There is little space to expand, and the farms work at capacity. Helock is also seldom at war, so overpopulation is often an issue, at least until the next Hallurian invasion, when all the continent’s kingdoms send their levies to the slaughter.”
+
+Thankfully, the mood improved when they walked by a gate to the inner wall. They faced a circular lake surrounded by trees, a literal breath of fresh air after escaping the lower city’s pungent smell. Children played on the glade under the vigilant gaze of groups of knitting women. The guards were more abundant here as well, carrying shortswords, bows, and shields. They wore gambesons and tabards bearing the symbol of Helock: a tower over white walls and two crossed staves. Imagery was rarely subtle in this world, Viv thought.
+
+“Nice lake. It looks too perfectly round to be natural. Is this a mage’s work?”
+
+“After a fashion. You are staring at the epicenter of the alchemy guild disaster of five one two. The bottom of the lake is mana-saturated glass, so the water cannot escape.”
+
+“Ah.”
+
+“Since that time, the guild may not operate within the city.”
+
+“Understandable.”
+
+Viv looked at the lake in another way. How many people had been vaporized by this accident, she wondered? But now there were trees and picnic tables. Hm.
+
+“Shall we?” Sidjin asked.
+
+No one bothered the pair as they made their way up, barely looking at Arthur at all. In fact, even the guards had waved them in towards the inner city, not even asking for identification. She was not the only ‘pet’ around, but Viv wondered if the guards had not been warned.
+
+In this more affluent part of town, image seemed to be everything. The houses were considerably larger, three-stories tall, and they shared strangely identical dimensions despite the different styles in the first show of cultural assimilation Viv had seen here. They were surrounded by cramped gardens and high walls. Viv had not seen such claustrophobic optimization of space since her latest trip to Paris. The people also wore better fabric and the overall place was quieter. Restaurants replaced street hawkers and warded shops replaced stalls. Buggies drawn by people, not beasts, started to appear as well, some of them carrying crates of goods around. They were quite fast. It smelled much better as well. Magical lights atop steel poles stood at the main junctions, unlit at this time of the day.
+
+They reached the central district half an hour later at a brisk walk. It was not the highest elevation yet, which got to show how important the Academy was. A massive central square hosted blocky government buildings that reminded Viv of Egyptian temples, banks including a familiar one, actual temples, and the Keep. Towering over all the other buildings and jealously guarding barracks like a mother goose its war-like goslings, the fortress cast an impressive shadow over the square’s fountain. It also boasted the single largest collection of enchantments Viv had ever seen by a degree of magnitude. Even her most destructive spells would peter out and die before touching the surface of a brick. Guards in mail and conical helmets paraded the grounds or stood like meaty gargoyles over the ramparts, stomping around with great importance. The men and women visiting the nearby edifices were either civil servants in white cloth, rich citizens, or runners darting around with bursts of gray mana. Almost everyone Viv saw had one or several magical objects in their possession, while all the soldiers had runes on their shields. Flowers and trees arrayed around the plaza glinted in the morning light
+
+“The upper district has the highest mana concentration. The government picked trees and flowers that shine in the night because they provide a great view. Technically, the lower districts have enough mana concentration to sustain them as well but the vegetation would be cut and sold on the black market for three iron bits within half a day of being planted.”
+
+Sidjin then expanded on the government while they made their way to the bank to pick a letter of credit for the tuition. Helock nominally had a town council, and it did have responsibilities, but the important decisions such as war and budget were ultimately decided by a council leader under the control of the Academy itself. The school also worked hand in hand with the military, supplying them with the best enchanted gear on the continent and a generous contingent of war casters. For all intents and purposes, the Academy governed Helock.
+
+This time, the Manipeleso Bank and Exchange, Helock Branch, was not the most prestigious and largest financial institution around, which surprised Viv. Nevertheless, she was glad to make her way to the familiar facade with its narrow windows and sober columns. She had to wait in line, for once, and prevented Arthur from sharing her heist questions by redirecting her towards interest rates calculations and risk assessment. It seemed to irk the dragonette that she could simply not eat those who defaulted.
+
+“It’s counter productive,” Viv explained. “They can never repay you.”
+
+Arthur spent the rest of the visit huffing sulkily on the carpet.
+
+Soon enough, they had the letter and it was time to visit the academy proper.
+
+At first, Viv believed there was an upper, upper city. That was not the case. The Academy simply occupied more grounds than the entirety of the city’s administrative center. The path led them to a grand entrance as tall as five men and large enough to accomodate an adult dragon, though it was mostly empty at the moment. Actual war mages in full regalia held the door, faces covered behind a mask. Their armored robes shone in Viv’s perception. They, too, let the pair in without moving. They came across quite a few powerful mages and younger students in several colors of robes. The few civilians displayed amazing levels of wealth and the appropriate numbers of bodyguards and servants. By comparison, Viv felt positively pedestrian.
+
+“We should take horses next time.”
+
+“You need a permit for that, but we could rent a buggy,” Sidjin offered.
+
+The idea was intriguing, but it disappeared as soon as they found themselves in an inner court that also acted as an antechamber. The court itself was large enough to host a couple of basketball games, but more importantly, it was tastefully decorated to provide a facade of understated power. Stone paths snaked through carefully curated hedges and copses, while bright flowers hung from wooden trellises, enticing them with their heady perfume when they walked underneath. Statues of past archmages stood here and there as a reminder of the Academy’s prestigious past. A central fountain gurgled happily. Fishes swam through its waters which rose in the air in defiance of gravity. Viv had to admit, it was a neat fucking trick.
+
+Through the canopies and colorful vegetation, she found three entrances at cardinal points besides the exit. The left one led to the administration, their destination. The right one stood more subdued, the door camouflaged behind a thick hedge. The main entrance, however, was in the front, was as large as a cathedral door, and led to the single largest dome Viv had ever seen. It dwarfed the Pantheon and Hagia Sophia. In fact, she could have shoved them underneath its dizzying height, and from what she could see of its distant, ochre roof, it lacked any sort of support columns.
+
+“How can this thing even stand? It should be collapsing under its own height!”
+
+“Parts of the edifice use gravitite to keep itself aloft. Several brown archmages cooperated under Sotiff the Stoneshaper to create it. It can withstand an artillery bombardment without its wards.”
+
+Viv sighed with pleasure. Now that was some cool magical stuff. That was the new and unseen. The dome extended over her to vertiginous height. She looked up at the summer sky and found floating rocks gravitating over the imposing shape of the chalice, strange mana winds warping its contours.
+
+Someone cleared their throat behind, and Viv apologized, letting a wizened professor with a long white beard pass her. He smiled and gave her a nod of appreciation, which she returned.
+
+“Registration first?” Sidjin suggested with a knowing look.
+
+“Yes, right.”
+
+She didn’t miss the fact he had given her a moment and grabbed his hand as they moved on. Once again, he flinched a little at the sudden contact, but he soon returned the grab. His hand was rather warm, and a bit calloused now that he could move them again to work on things. He gently guided her to the administrative building, which was white and quite clean, then into a large lobby decorated with comfy seats, and guarded by two more elite war mages. Viv did not inspect them as she was certain they would feel it, but the soul and mana impression they got from their strict control was that they were on the fourth step, and if they were, that was a rather impressive flex. Two women occupied a desk at the end of the row. The lead one had short gray hair and she was talking in a low voice with a merchant carrying a bag of samples, if the raw mana emanating from his case was any indication. They finished their discussion and the man walked to a seat to wait, while the woman invited Viv to come closer with a wave.
+
+“Hello, and welcome to the academy. My name is Sel. How can I help you?”
+
+The woman had spoken Enorian, which Viv took as an indication that the woman knew exactly who she was. Her doubts were confirmed when her host’s eyes found Arthur checking the surroundings. The dragonette felt eyes on her and glared back.
+
+“I would like to apply. My name is Viviane.”
+
+“Welcome. We have been expecting you. Darla will guide you to a private office, where you can start the process right away.”
+
+The other woman stood. She was southerner with subdued manners, much younger. She made to leave, but Sel stopped them.
+
+“The application process is a private matter. Your companion must stay behind, though the… young lady… can accompany you.”
+
+“I will stay here,” Sidjin said.
+
+“Alright, thanks. See you soon.”
+
+Viv heard Sel offer Sidjin a cup of infusion, then the two switched to the northern tongue. Darla led Viv through a series of corridors and past busy offices crammed with papers and crystals of unknown function. None of the administrative staff were mages that she could see, but they had a lot of enchanted tools to work with.
+
+Darla finally landed them in a small office at the back of the building. It was clearly meant for interviews, with an intimate feeling more akin to a coffee house than a school. Back windows gave Viv a view of an enormous park, with some students exercising in the distance. A servant brought warm water and two cups, along with a choice of small herbal balls to dissolve them in. Viv picked one at random while Darla removed a sheaf of paper from a drawer.
+
+“Most of our students graduate from chartered places of learning before they come here, so you will be applying as a free candidate. The process will be a little longer and I’ll be asking a few additional questions but it’s nothing to worry about. Free candidates make up a third of our numbers. After that, we will determine which trials you will be taking according to your profile and the classes you intend to take. Do you have any questions before we begin?”
+
+“Are there arrangements for Arthur?” Viv asked, pointing at the dragonette as she was carefully sniffing the herbal balls.
+
+Darla watched the dragonette huff her superheated disappointment and return to her inspection of the windows.
+
+“The dean is working on it right now, just know that she will not be allowed to stay with you in the dormitory, so you will have to find your own accomodation. We can assist you in this endeavor. In fact, we recommend working through us to avoid fraudulent offers. She will be allowed in the public spaces, though not the classrooms. We will be keying her to the wards during admission. Ah, for the same reason, you cannot take her with you to tests.”
+
+Darla smiled to take the edge off her word. Viv’s careful mind wondered if they were concerned about cheating, but that was probably taking things too far.
+
+“Fine. What did you want to ask?”
+
+“What is your purpose in attending the school? What do you wish to achieve?”
+
+“Mastery of black and colorless casting, and finding a way to survive my increased attunement.”
+
+“You have a dominating color? Black, I assume?”
+
+“Yes. I received some estimates that I have between a year and several before it kills me.”
+
+Darla hissed softly, but then considered the question.
+
+“I think the medical faculty can help you with that, and you could put in a request for an archmage. Yes, the Academy can definitely assist you in this endeavor.”
+
+“What is the likelihood that I would receive help?”
+
+“Medical assistance is a guarantee for all students. Your file says you have made advances in the field as well?”
+
+“You could say that.”
+
+“I’m sure they will do their very best. For the help of an archmage, you would have to see. I would not be able to tell you who might help, and they will most certainly require something in exchange. And it will not be money. I suppose you will have to see for yourself. Do not be alarmed, you are in Param’s center of magical knowledge. If someone has a solution, you will find it here. Now, onto security questions. Do you have any enemies currently attending school?”
+
+“Not to my knowledge.”
+
+“This is important. Many of our students are parts of powerful or at the very least invested families or factions. Although we do not expect everyone to let go of their grievances, the Academy was, is, and shall remain neutral ground. The truce is strictly enforced for your protection as well as that of others.”
+
+“Well, except for gods, everyone who ever offended me here is dead.”
+
+Marla didn’t seem to know how to answer that.
+
+“I have no grudges and no intention to harm any member of the faculty or the student body. “
+
+“Good. You will be requested to swear an oath under Nous as well as a contract before you are admitted.”
+
+Viv frowned.
+
+“Why not just an oath?”
+
+“While we would love to, there are far too many ambiguities to cover. For example, you are asked to do nothing that would harm the academy, but some students come from rival city-states and their very education represents a threat to the city, and thus the academy. The contract makes sure to cover those eventualities, and being found in breach leads to very serious consequences.”
+
+“And the oath?”
+
+“Breaking the oath causes a caster to have their conduits crippled. They will also be expelled.”
+
+Darla clearly believed the second punishment to be the more dire.
+
+“I have no objection, though can I read them?”
+
+“I do not have a copy right here, but I assure you that the terms are quite reasonable. We merely want to prevent rivalries that would lead to bloodshed.”
+
+“I understand. I have no intention of causing problems but if someone tries to attack me or Arthur…”
+
+“You have met the faceless guard, I believe. They enforce the rules. Rest assured that this is one of the safest places on Param, perhaps even in the world.”
+
+“Alright.”
+
+Darla seemed a bit offended at Viv’s apparent disbelief. It was not a lack of trust on the witch’s part. She just expected bad luck and trouble as a matter of course.
+
+“If you don’t have questions about the oath and contract, we can move on to the trial. We have a variety of curriculums you can pick. I have a list here.”
+
+“Oh, I have things I want to pick. Sidjin gave me some advice.”
+
+“The man who was with you? I’d suggest you checked the list anyway. Outsiders cannot have access to the list of classes you wish to follow, unless you give your agreement. If necessary, we can even produce a limited diploma.”
+
+“Is this related to the fact he cannot be here?”
+
+“That is correct. We are a place of free learning. Every year, sponsors and governments try to enforce class selections for women and commoners. Our goal is to prevent this from happening.”
+
+Darla seemed very proud and Viv approved, though the stance begged some questions.
+
+“Would this not lead to people just not applying?”
+
+“Of course, they could… but we have no serious competition. To deny us is to settle for mediocre training, and even if the nobles themselves can tolerate it…”
+
+“The mages would object.”
+
+“It is excessively difficult to keep a caster obedient through coercion, as many rulers have learned. The Academy teaches its members about law and civic duty, to remind them that they are not superiors to their fellow men and women. We also provide education according to the choice of the mages, not the preference of their relatives, to remind them that their magic is their own and belongs to no one but themselves. Thus, balance is achieved.”
+
+“It’s… a really noble goal,” Viv conceded, and she found that she meant it. Of course, there was usually a chasm between theory and practice, and it was easy to provide access to knowledge but harder to make people accept that they deserve it. Especially when they’d been taught since birth they were meant to raise a family. It was still a good start.
+
+“It is, is it not?” Darla replied with fervor. “All of Param’s states treat casters decently thanks to the Academy’s far-reaching influence! Except Halluria, of course,” she said, her mouth twisting in disgust, “but they are barbarians and cruel to themselves.”
+
+“Sorry, what’s with Halluria’s casters?”
+
+“Oh, they are marked like the warborns and kept in control via their tattoos, but we get escapees every year. You will learn more in your law class. Oh, speaking of, we should pick your classes now so we can organize the trials.”
+
+Viv had a list she had built with Sidjin, but when she took it out, Darla expressed disapproval. Viv decided to indulge the determined girl since her purpose was obviously to make sure Viv was using the Academy to its utmost, and they went over the list together.
+
+Viv would have to take compulsory classes on the basics of magic with runes, mana shaping, and enchantment lessons. Every student had to graduate from at least the basic level to graduate. All of those disciplines would be tested the next day.
+
+“Students are encouraged to join us while on the second step. You will do fine,” Darla assured her.
+
+Besides classes on the basics of magic, there was another class named ethics everyone had to follow. It was a mix of law, civics, and etiquette as far as it understood, and the purpose was to make sure graduates were not absolute fucking savages who slurped their soups and blew their nose in the silk napkins. Viv found this understandable. Of course, such a noble institution wouldn’t want to be represented by some vulgar, uncultured louts. She hoped to fuck it meant table manners were on the table, so to speak. Maybe there would be wine tasting.
+
+Viv’s fine food fantasies evaporated when the question of core disciplines came up. This was the real meat of education at the academy, the perfection of one’s mastery of mana. Viv picked black as the first discipline, and colorless as second. That surprised Darla.
+
+“I believe you are the first in the Academy’s history to pick up this specific distribution. We don’t even have people majoring in colorless casting. At least, not this year.”
+
+“Well, considering my attunement…”
+
+“You should keep your attunement secret. Only share it with your medical practitioner after you get one.”
+
+“Alright.”
+
+“Your file indicates you are an outlander, so you may not be aware, but details on your path and your stats are confidential information. The Academy will never demand it of you, though you are welcome to share it with mentors or personal trainers. Be cautious, be safe! Now, to more exciting details. Electives!”
+
+There were a veritable boatload of electives, taught by a variety of non tenured professors or just professionals ranging from fencing to accountancy to language and many other disciplines that could be useful to a mage looking to branch out. There was even a pottery class, and Darla explained that it could be useful in siege weapon enchantment disciplines. Viv thought she might be overwhelmed on account of facing what was essentially a program for magic-boosted prep school workaholics, but there were two she thought she absolutely needed: magical military doctrine, and magical dueling. The first option was obvious: so far she had worked in support of her men back in Harrak to satisfactory results but she had also been coasting on her talent. It might be useful to see how professional armies fought. Solfis certainly had data on this, but it wasn’t the same as learning how her potential rivals did it nowadays.
+
+Magical dueling was another matter. She had done well against monsters and mages caught off guard so far, but that might change. She needed to gain more experience against mages, and possibly learn less lethal options to take down her opponents. Not every death was desirable, especially not in a city that valued the moral integrity of its magical population.
+
+“Is that all? I think it’s a good fit for you, and you can always change electives during the year, or during the next semester. Right, finish filling the form and then I’ll schedule the trial for tomorrow’s session.”
+
+“So soon?” Viv asked, surprised.
+
+“The next semester starts in two weeks and we like to scatter the trials to avoid crowds. You will be in good hands, I promise.”
+
+Viv signed the last few formalities, then it was just a matter of waking Arthur from her nap and making her way out. Darla did not immediately return to the lobby. Instead, they walked through twisting corridors and then past a heavily warded arch to an assuming room occupied by a large crystal. A man stood by its gleaming red surface, inspecting documents on a notepad. He wore the same simplified robe she had seen on the administrative staff, only his was red. He was also one of the ugliest persons Viv had ever seen, with fat lips, a flattened nose, one eye slightly larger than the other, a prominent forehead, and a pointy chin over squarish jaw, yet she still found him striking. He had a fantastic beard, for one, and a solid musculature that pushed against the taut robe. There was also something peculiar about him she couldn’t quite put her finger on.
+
+Soul mastery: Novice 5
+
+That explained it, the man was probably hiding something. It didn’t surprise her. She wouldn’t leave the key to one of the most sensitive locations in the world to a complete schmuck. He greeted her warmly, and she returned it.
+
+“And you must be Arthur! Hello, milady. I hope you had a pleasant stay so far.”
+
+Viv didn’t hear the exchange but the dragonette narrowed her eyes and the man hid a smile.
+
+“I apologize, and we will be sure to offer meat next time. As for the herb pellets, they are meant to be dissolved in a cup of warm water, not eaten as is. My sincerest apologies. We seldom have the opportunity of receiving a guest of your class, milady.”
+
+If Arthur inflated her chest anymore, the warm air might cause her to float, Viv thought.
+
+“Now, would you kindly present your paw so that I may enter your mana signature into the ward system? Thank you.”
+
+The dragonette did so with all the grace of a duchess allowing a baisemain.
+
+“Fascinating. Simply fascinating. My thanks, milady. Please enjoy your stay. Goodbye, and good luck for the entrance trial.”
+
+“Thanks,” Viv replied, somewhat feeling that she was missing some context. Darla led her back to the lobby where Sidjin had been waiting. He stood up and winced, clutching his leg.
+
+“Are you alright?”
+
+“My strength might be returning, but there are still difficult days and it looks like this will be one of those. I fear I overdid it this morning.”
+
+“We’ll take a buggy back.”
+
+“Would you like to grab an early lunch beforehand?”
+
+“I’d love to.”
+
+Sidjin seemed pleased, the reason clear as soon as he guided her to a door on the side. The administrative building had a visitor restaurant with a dedicated chef specifically designed to accommodate dignitaries. A waiter in impeccable livery led them to an isolated table near the windows. The restaurant overlooked the park, where students were still training. Fields and houses dotted the green expanse, with some denser vegetation farther in. The sun reflected on glasshouses in the distance.
+
+“The dormitories are there. There are fraternities and botanical gardens as well as training centers disseminated around the Academy. Around a thousand students and staff share this space at any time, arranged in too many cliques and groups of interests to count. This will be your playground for a year, probably more. Some of my best memories happened here. The discoveries. The learning. Being free of my past.”
+
+“The sex?”
+
+“Some,” he laughed. “The most brilliant minds of Param work tirelessly here, under a lot of pressure. Everyone needs to let off some steam.”
+
+“Is this what they call it these days?”
+
+The waiter returned at this moment with an assortment of platters. There were eggs in sauce, charred greens, and a tender, spicy meat on skewers. It was more of a degustation menu, and light enough not to make her sleepy afterward, especially after Arthur dug in. Viv noted no one had made a fuss about her. They all took their time sampling everything.
+
+“How did you get in? I assume they don’t just welcome everybody.” Viv asked after a look at the other guests. She was not exactly underdressed but they were definitely on the casual side.
+
+“I chatted up Sel. She knows I’m an alumnus. I told her I was trying to woo you. Is it working?”
+
+“I’m giving you a passing grade.”
+
+“How do I improve the score?”
+
+“Dessert.”
+
+“Of course.”
+
+They were served small tarts and candied fruits with tea. It was quite nice.
+
+“It won’t last, this peace,” Sidjin said. “You… attract attention. Politics rules here, but in a peculiar way. It’s the moment for all those scions to move and grab pieces until they leave. Some of those who shake hands during the graduation ceremony will find themselves at opposite sides of battlefields and assassination plots. And I have not even started on the state of Helock itself, so for now, let’s enjoy the moment. We can visit the temple later.”
+
+“That sounds lovely.”
+
+***
+
+In the wardstone room, the man masquerading as the inscriber turned to the woman pretending to be an assistant.
+
+“How did it go?” he asked.
+
+“Interesting profile. Guarded, wary, distrust of authority despite a bias for control. As far as I can tell, she has no ulterior motives.”
+
+“Any mention of our Enorian contact?”
+
+“I believe she does not see him as a threat. His animosity seems to be one-sided.”
+
+“Let’s keep it that way. Anything else?”
+
+“I noted a relative lack of arrogance and entitlement. She doesn’t see the outlander status as a source of pride, didn’t request special treatment. I predict a good work ethic from her serious approach to class selection, though the conflict resolution profile concerns me. She had no objection to the rules, and did not threaten, however she showed no confidence they would protect her. I predict she will scheme if offended and if she does not believe she has been treated fairly. She might go lethal.”
+
+“Do you expect her to be successful?”
+
+“Yes, if only because of her ability to gather potent allies. The memo on the juvenile is still circulating.”
+
+“What’s the likelihood that she will go through her education without a crisis?”
+
+“Close to zero, sir.”
+
+The Dean of the Academy placed his rough hands on the banister around the stone and leaned forward with a heavy sigh.
+
+“One of those, ey?”
+
+His spymistress believed he had no idea.

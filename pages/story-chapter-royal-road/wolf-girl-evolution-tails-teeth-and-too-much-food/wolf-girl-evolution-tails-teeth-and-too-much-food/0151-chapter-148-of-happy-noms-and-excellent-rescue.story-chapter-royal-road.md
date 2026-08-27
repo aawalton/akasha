@@ -1,0 +1,465 @@
+---
+id: d9f9c216-9c41-58e6-99c5-2822648632c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 148: Of Happy Noms and Excellent Rescue Deals!"
+slug: 0151-chapter-148-of-happy-noms-and-excellent-rescue
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 151
+ownLength: 3013
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3796712/chapter-148-of-happy-noms-and-excellent-rescue"
+royalRoadId: "3796712"
+---
+
+PoV Luna
+
+Rain-smells touched Luna’s nose as she carried Syliana out of the broken tunnel.
+
+But what greeted them was the sun.
+
+The surface smelled like wet stone, lantern smoke, mud, blood, blankets, healers, guards, and people she saved. Luna slowed before the broken street so Syliana could slide down safely, then lowered herself into the mud while the last Broodmother stink clung to her fur.
+
+The crowd beyond the guards stared at her.
+
+Luna stared back!
+
+Menacingly!
+
+Her mouth tasted like Broodmother, her paws were muddy, Syliana was sliding down from her back, and the staring humans needed words.
+
+Luna shifted at once.
+
+Fur pulled back. Paws became muddy feet. Her tail stayed high, her ears flicked hard against the silence, and the Broodmother taste stayed rude on her tongue even after her mouth changed shape.
+
+The guard captain stepped forward, eyes flicking from Luna’s suddenly small frame to Syliana’s face.
+
+“Is it dead?”
+
+“Yesh!” Luna interrupted. “Dead! Luna bit nest-heart out!”
+
+Syliana’s hand settled briefly on Luna’s shoulder.
+
+“The Broodmother is dead, but the structure is unstable now. We didn’t find any other monsters or survivors.”
+
+For one breath, the whole street held still.
+
+Then the shouting began.
+
+People called from doorways, windows, alleys, wagons, and beneath dripping awnings. Some shouted Syliana’s name. More shouted Luna’s, though a few humans got it wrong in very enthusiastic ways. Their voices crashed over Luna’s ears, but nobody smelled terrified anymore. The fear broke apart into shaking relief, wet cloth, tired bodies, and humans trying very hard to keep standing.
+
+Linley’s mother pushed past a guard, dropped into the mud, and wrapped both arms around Luna.
+
+Luna stiffened at the sudden squeeze. The woman smelled of rain, fear, salt tears, and Linley, and her hands shook hard against Luna’s back.
+
+“Thank you,” she whispered. “Thank you.”
+
+Luna patted her carefully.
+
+“Ish okay! Little ones are safe now!”
+
+The woman just sobbed harder.
+
+Luna understood, but–
+
+…It felt a little awookward.
+
+Linley squeezed through beside her with his blanket slipping from one shoulder and cake crumbs still on his chin. He wrapped both arms around Luna’s waist and looked up with a face trying very hard to be brave.
+
+“You beat the big monster?”
+
+“Yesh! That Luna did!”
+
+“All of it?”
+
+Luna thought of broken teeth, torn roots, the heart in her shadows, and the huge body finally folding into itself.
+
+“All gone now.”
+
+Linley nodded, and the brave face cracked into the kind of almost-crying that needed another hug more than more words.
+
+Luna hugged him back with careful tiny-human pressure.
+
+The rescued clerk came next, leaning on a healer and clutching his cracked spectacles with both hands. He looked from Luna to Syliana and back again, blinking like the surface light had only just remembered to exist.
+
+“I never expected...” His voice caught. “A Wildling to save us.”
+
+Luna tilted her head.
+
+The clerk swallowed and bowed so fast the healer had to catch his sleeve.
+
+“I owe you my life.”
+
+Luna stepped closer and bumped the spectacles gently with one finger.
+
+“Nuh uh! Spectacles were rescued too!”
+
+The clerk made a broken little laugh and held them tighter.
+
+“Yes. That they were. Thank you again.”
+
+Several surviving adventurers stood behind him, bandaged, pale, and smelling like underground fear had followed them partway up but could not keep hold. One bowed first. The others followed, slow and heavy.
+
+“We all owe you our lives,” one of them said. “None of us thought we would see the sky again, much less have a Wildling tear through the dark to bring us out.”
+
+Luna looked at him.
+
+“Why not?”
+
+The adventurers traded awkward looks.
+
+Syliana’s hand settled on Luna’s head.
+
+“Some people are bad at expecting good endings. It’s just… more practical.”
+
+Luna frowned and sniffed the adventurers again. They smelled like old blood, bandages, fear-sweat, tired muscles, and weapons that had been held too tight in the dark. They were adventurers, but they had gone into the bad hole and gotten caught like prey.
+
+“Mhm! Luna understands! You need to hunt more!” Luna decided.
+
+The adventurer blinked.
+
+“Hunt more?”
+
+“Yesh. Hunt more, get stronger, learn to bite things before things bite you!” Luna nodded, sharing her precious Apex Predator wisdom. “Then you practice expecting better, yesh!”
+
+The adventurer stared at her for one breath, and then his tired mouth twitched.
+
+“That is... probably fair.”
+
+“Yip yep! Very fair.”
+
+The adventurer’s laugh broke halfway through, and he wiped at his face before stepping back with a thankful nod.
+
+Proper manners!
+
+A mother with tear-swollen eyes came next and hugged Luna until Luna had to brace her feet in the mud. An older man pressed sweets into her palms and closed her fingers around them. Another touched her shoulder, whispered a name Luna did not know, and left warm food behind like a piece of grief they needed her to carry.
+
+Luna kept still for the shaking hands and careful hugs. Words could slip and break, but food and touch were easier to understand.
+
+Then a woman pushed a meat pie into Luna’s hands!
+
+The crust was warm, the inside was full of hot meat and gravy, and the first bite pushed the horrible nest-heart taste away from the front of her tongue.
+
+Luna made a soft sound around the pie, and people around her smiled.
+
+Then a broad-voiced human shouted from the square to get the tables out!
+
+Luna stopped chewing because tables promised even more food!
+
+“But the square is mud!” another man shouted back.
+
+“Then put planks down!”
+
+“Do we have enough?”
+
+“For our saviors? We better find enough!”
+
+A flour-covered woman hurried up, looked Luna over from muddy ears to muddy toes, and nodded like she had solved a serious problem.
+
+“We’re making a feast for you.”
+
+Luna stared at her, then down at the pie in her hands.
+
+“For Luna?”
+
+“For you, for the survivors, and in the memory of ones who did not come back.” The woman’s voice softened, though her hands stayed busy as she waved two younger humans toward the square. “You saved our people. The least we can do is to feed you. I hope you can eat well, we’re preparing lots!”
+
+Luna looked at the pie in her hands, then noticed her tail started wagging somewhere along the way.
+
+…Ehehe! It knew to expect good things from a feast before Luna even knew!
+
+Smart tail mechanics!
+
+And–
+
+Luna had helped people, and the little ones were safe. The hiding smells under the town were gone. And now the humans were making her a feast in turn!
+
+Her ears lifted slowly.
+
+“Second,” she whispered.
+
+“Yes?” Syliana’s mouth twitched.
+
+“Rescue deal is awoomazing! Tasty pies and lots of food to nom as reward!”
+
+Her tall friend covered her mouth with one hand, and the flour woman laughed loud enough for three nearby guards to turn.
+
+The first feast-smells reached Luna while she still had pie gravy on her fingers, and the glorious taste lingering between her teeth!
+
+Smoke rolled across the square as a guard dragged a barricade aside for two merchants carrying planks. The planks slapped into the mud, a bench scraped after them, and someone hurried past with a steaming pot that made Luna’s ears turn before her head did.
+
+Onions, meat, and hot fat.
+
+Her nose followed the pot until warm bread passed under cloth from the other side.
+
+Then smoked fish went by.
+
+Luna tightened both hands around her pie and stayed where she was with great difficulty. Though chewing on another piece of it helped!
+
+The leftover underground stink had less room with every breath. Smoke pushed it back first, then bread, herbs, meat, honey, wet wool, and humans standing close enough that their warmth gathered under the rain.
+
+She looked down at half the remaining pie, and at the quickly-arriving feast, and stored it in her Maw – for later!
+
+And then the most awoomazing of things happened!
+
+The food started coming directly to Luna!
+
+A grandmother caught both of Luna’s hands and pressed wrapped honey cakes into them.
+
+“For when you get hungry later, sweetie.”
+
+“This is for Luna?”
+
+“Yes dear, you deserve all of it.” The grandmother smiled warmly.
+
+Luna looked down.
+
+Later food!
+
+More humans added to the pile before she could answer. Honey cakes, round loaves, smoked ham, wrapped sweets, and little packets that smelled like fruit kept landing in her arms, all for future-Luna to find when hungry teeth happened!
+
+Her toes started tippy-tapping in the mud, while Luna’s tail wagged so hard her entire body shook. Just a little bit!
+
+Excellent human custom!
+
+She opened her Maw.
+
+The closest humans went quiet as the shadow-mouth unfolded beside her, gentle and dark and big enough to make several people remember they had legs and could step back. Luna tucked the gifts inside with careful hands, because later food deserved respect!
+
+A little boy stared at the shadow-mouth with his whole face.
+
+“Can you put toys in there?”
+
+Luna considered the Maw, then the boy, then the serious problem of toy crumbs.
+
+“Only food goes in Maw!”
+
+“What about rocks?”
+
+“Rocks are bad food, Luna tried before!”
+
+The boy looked at the Maw, then at the muddy street, and slowly lowered the pebble he had already picked up.
+
+Disaster awooided!
+
+The children gathered after that, drawn in by the Maw, the food, and Luna clearly knowing many important feast rules. Finnie came with her mother, carrying a little bowl of sugared nuts like treasure. Linley came with his blanket and wooden spoon, still brave despite looking sleepy. More children clustered behind them, peeking around adults now that the dark under the town had stopped stealing people.
+
+Luna crouched in front of them.
+
+“Tiny humans want to see shadow?”
+
+Every child leaned forward.
+
+Syliana said from nearby, “Gently.”
+
+“Yip yep!”
+
+Shadow Cloak slid over Luna’s shoulders when the children crowded closer, drinking the lantern light until she looked wrapped in soft night. Mud loosened from her sleeves and slipped off in little wet trails. Crumbs skittered away from her tunic. Even the sticky honey on one finger started sliding toward her knuckle until Luna caught it with her tongue.
+
+The children stared.
+
+Luna grinned. “Cloak hides and cleans!”
+
+A boy with muddy hands looked down at himself, then up at Luna.
+
+She grinned and let Shadow Cloak creep over one sleeve. Mud slid off the dark surface in little wet streaks and plopped back onto the planks.
+
+The boy gasped, and Finnie’s giggle made three more children lean in.
+
+Luna pulled the cloak higher until only her ears and eyes showed above the dark edge, crouched low, tucked her tail in, and became a suspicious little lump on the planks!
+
+Linley poked the lump with his wooden spoon.
+
+“Bweh!”
+
+The suspicious lump exploded into Luna!
+
+The children shrieked loud enough to make her ears twitch.
+
+She tugged Shadowmeld awake under the cloak. Darkness peeled from Luna’s feet, wobbled upright, and folded itself into tall ears, round paws, a swooping tail, and a dramatic shadow-wolf face.
+
+The shadow-wolf bowed.
+
+The children bowed back with much worse balance.
+
+Hehe!
+
+A warm roll sat on the nearest table. Luna smelled it, saw the children watching the shadow-wolf, and sent one dark paw creeping across the plank. The paw nudged the roll closer and closer until Luna snatched it up and ate it in one bite.
+
+“Whoa!”
+
+The children erupted into demands.
+
+“Make it scary!”
+
+“Make it jump!”
+
+“Can it eat?”
+
+“Fight my spoon!”
+
+Linley’s request arrived with the spoon already raised, so Luna made the shadow-wolf crouch near his boots and open a silent, doomed monster-mouth. Linley smacked it on the nose. The pretend-wolf collapsed across the planks, and Linley planted one foot on it with a warrior’s pride.
+
+“Strong spoon,” Luna said.
+
+Finnie held bread toward the shadow-wolf’s mouth.
+
+Luna leaned the shadow head forward, then stopped. Bread was food. Food needed the correct mouth.
+
+The Maw opened under the shadow-mouth.
+
+The bread vanished.
+
+Finnie stared at the empty place, then laughed so hard she nearly dropped the rest.
+
+After that, the game became very serious. Shadowmeld made spoon monsters, bowing wolves, tiny ears, and one heroic cape for Linley. Shadow Cloak kept mud, crumbs, and sticky sauce sliding off Luna each time a child crashed into her for a hug, then spread over the cape when Linley dragged it through a puddle.
+
+The cape stayed dark and clean, and it made children cleaner too!
+
+Linley stared down at it.
+
+Luna stared too.
+
+A chime rang.
+
+【Shadow Cloak Lv. 8 → Lv. 9】
+
+Luna looked from the System message to the clean little hero cape and wiggled with so much happiness that her tail splashed mud behind her.
+
+Shadow Cloak refused the mud at once!
+
+Proper Apex Predator attire!
+
+Then she remembered that sharing went both ways.
+
+“Oh!”
+
+Luna opened her Maw and dug through her saved things while the children crowded close enough for their sticky sleeves to brush her knees.
+
+“Luna shares too!”
+
+Dried meat came first, then boar and deer roasts, preserved fruit, and her carefully wrapped ant delicacies!
+
+The adults noticed the ant pieces and became much less eager.
+
+The children noticed the ant pieces and became much more eager!
+
+Luna held one up between two fingers.
+
+“Those are nice and crunchy! And have good spice!”
+
+Linley took the first piece with the seriousness of a hunter accepting a dangerous quest. He bit down, chewed, and stared at nothing for a moment while the crunch traveled through his whole face.
+
+“It is crunchy.”
+
+“Yesh!”
+
+Small hands reached in. Luna handed out tiny pieces, told them to crunch properly, and watched the adults retreat toward safer foods. Syliana sighed nearby, but her scent stayed warm.
+
+Then the large platters arrived, and the feast took over!
+
+Drums started near the inn. People found seats on benches, wagons, planks, and bundled cloaks. Luna ended up with food in both hands, children at her elbows, and Shadow Cloak sliding mud and sticky sauce off anyone who leaned too close.
+
+It was glorious, it was tasty, and so very fun!
+
+And the thank-hugs kept coming too.
+
+A woman squeezed Luna hard enough that Luna had to brace her feet. A man with grief-heavy hands pressed treats into her palms and held on for one breath before letting go. Luna stayed still for him.
+
+By the time honey stuck to the children’s mouths and mud climbed their boots again, tiny fingers were tugging Luna from bites to games to another shadow trick, and the underground stink had almost vanished under smoke, music, rain, and feast-noise.
+
+Then the ground crashed beyond the town.
+
+Luna’s ears snapped toward the forest.
+
+Shadow Cloak slid around the children as guards grabbed weapons and adventurers pushed upright. Healers shoved the injured ones back down before they could fall over themselves. Syliana’s magic gathered fast enough to prickle along Luna’s skin.
+
+Luna stepped in front of the children.
+
+“Biting thing?”
+
+She smelled, but felt nothing.
+
+Another low rumble passed beyond the walls, and her Second listened.
+
+“Stay with them.”
+
+Luna’s feet flexed against the planks, ready to zoom at a drop of a bark. Finnie clutched her sleeve. Linley stood beside her with his spoon raised, and the young fear-smell around Luna sharpened until it cut through honey, smoke, and rain.
+
+Luna stayed.
+
+Shadow Cloak spread low around the children as Syliana went through the gate with the guards and adventurers.
+
+Luna watched the gate until lanterns returned.
+
+Her Second came back beside the guard captain, wet, tired, and unhurt.
+
+The captain raised his voice. “The old ground beyond the eastern rise collapsed. It took the lower passage with it. No movement below, and no chimeras.”
+
+The square breathed again.
+
+Syliana reached Luna and touched her hair. “The chamber must have given way after we left. The old route into town is gone. A good thing, too.”
+
+“So the sneaky hole swallowed itself?”
+
+“In a manner of speaking.”
+
+“The equipment is buried too,” Syliana said more quietly. “Whatever remained below will not be easy to reuse.”
+
+Luna looked toward the forest and let her teeth show.
+
+“Smart hole! It chose wisely.”
+
+Luna pictured stone sitting on the broken machinery and wrong-smelling tools.
+
+Buried was better than bad bads needing biting twice!
+
+The drums started again. A guard cheered, half the square followed, and a cook declared the collapsed ground another reason to eat!
+
+Smart human!
+
+Luna accepted the ruling with happiness and a honey cake!
+
+Children ran through the square while her shadows chased them as a wobbly wolf-shaped blob. She tried to make it less blobby, but it became more blobby instead.
+
+【Shadowmeld Lv.18 → Lv.19】
+
+Rude!
+
+…Luna will have to practice later!
+
+Then the clerk gave Luna sugared fruit from his rescued bag, and she stored half before eating the rest where he could see. Brave Spectacles Clerk food deserved proper respect!
+
+The children kept laughing through feast smoke and mist, sticky with honey, loud with sleepy victory, and almost empty of fear-smell.
+
+Luna breathed that in.
+
+The big and small bads were still out there. She knew their smells now: corruption, chimeras, rotten magic, bad reagents, wrong obsidian, and fear dragged deep underground. They had hiding places, but hiding places had smells.
+
+And Luna was very good at finding smells!
+
+She would find them!
+
+And then bite the bad bads away before they made more people sad!
+
+Yesh.
+
+That was the plan.
+
+Get strong, zoom around, and sweep up all the bad bads!
+
+Good plan, very zoomy!
+
+A platter of spiced drumsticks dripping with glorious fat passed behind her, and Luna’s nose turned before the rest of her did.
+
+Oh!
+
+Those drumsticks looked awoomazing!
+
+The plan stayed hot in her chest, but the drumsticks were moving right now and therefore required immediate hunting!
+
+Luna launched after the platter, Shadow Cloak streaming behind her like a heroic cape while three children chased her through the lantern light.
+
+It was time for some zoomy nommy drool zoom!
+
+Hehehe!

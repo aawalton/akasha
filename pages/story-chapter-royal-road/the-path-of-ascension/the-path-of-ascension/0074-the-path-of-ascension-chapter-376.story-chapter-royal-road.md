@@ -1,0 +1,307 @@
+---
+id: 9610a8b2-1bf3-5d60-a7f7-b8aaeb49b2f8
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 376"
+slug: 0074-the-path-of-ascension-chapter-376
+partOf: the-path-of-ascension
+position: 74
+ownLength: 4857
+unit: words
+ownProgress: 4857
+publishedAt: 2025-01-03
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1990407/the-path-of-ascension-chapter-376"
+royalRoadId: "1990407"
+markedReadAt: "2026-06-29T19:20:12.353Z"
+---
+
+Chapter 376
+
+Emmanuel stood up from his desk and stepped through space to arrive in one of the palace's personal gardens. It wasn’t one of his or Carissa's favorite ones but it was empty and he needed to think.
+
+The Empire’s economy was… not great.
+
+Fighting a war nearly alone against three opponents was not easy, and it surely wasn’t cheap.
+
+They had been digging deep and at most, they had another century before they would have been forced to throw in the towel solely due to mounting costs. And they certainly were not fine just because they pulled out before they had truly reached the bottom of the barrel. This was even in spite of the diversion of resources from the Farm.
+
+For all its expenses, the military and its various support structures had been bolstering the economy as money flowed in and out of a million and one facets of the civilian and military economies.
+
+With those institutions being shuttered, the core financial mechanisms had more money to spend on other things, but it also lost an easy way to circulate money back into the economy.
+
+Frederic was doing a masterful job in keeping things balanced without a recession or inflation of mortal economies which tended to be the most susceptible to such fluctuations. The immortal economies on the other hand were not doing quite so hot and it was causing some political fallout.
+
+Things should improve, as wealth from the other Great Powers began to flow in thanks to the terms of the treaties, but it would take centuries before that started to actually generate a meaningful impact and stabilized them. Normally, that wouldn’t be an issue, but the Empire hadn’t been truly robust since before Emmanuel had come to power. Since before his family came to power, really. They’d been stretched thin even before the war, and that had pushed them nearly to the breaking point.
+
+Now? Emmanuel wouldn’t say that Matt’s Talent was solely, or even primarily, contributing to the solvency of the Empire, but the amount of mana he was receiving from the Ascender, paired with the times he spent producing mana using his Talents himself, was responsible for an uncomfortable amount of their mana bank.
+
+If it was being this genuinely useful right now, what would it be like in ten to twenty Tiers?
+
+He wasn’t sure they could actually hide the influx of mana if they intended to use it like he wanted no matter the projections and plans they had in place.
+
+It didn’t help that he felt adrift.
+
+He, like the economy, was slumping.
+
+They had been pushing so hard that the lack of pressure thanks to the treaties from all the other Great Powers left him feeling like he was missing the firm footing he was used to.
+
+He felt like he and the Empire should be doing something, that they should be hunkering down for the next battle, hoarding their strength while waiting anxiously for the next blow to land.
+
+Emmanuel knew that that was emotion and not rationality speaking but logic was losing out to feelings.
+
+The Empire needed a breath so they could relax and be in a good place for the inevitable true war, which made this slump part of the natural process they needed to go through. Not just in the sense of the economy but the people. Everyone needed time to breathe. The high-Tier crafters needed breaks, the medium-Tier soldiers needed time to return to their families and or just reintegrate back into civilian life, while the low Tiers needed time for the existential fear of crushing defeat and being handed over to their enemies to fade from their memory.
+
+They needed to process but it wasn’t so easy to relax like that.
+
+At least, Emmanuel didn’t find it that easy.
+
+He wanted to do something. Fix something. Keep himself busy.
+
+And he couldn't, which made him feel adrift.
+
+He once again pulled up his models, trying a slightly different set of variables to see if they could afford to force one of the Tier 47 rifts to Tier 50. He could technically do it, but doing so put the Empire uncomfortably close to an economic death-spiral, at least until Matt Tiered up to Tier 35. Tier 40 would be even better but that was the problem with growth Talents, it was always a balancing act between doing and waiting until the doing was easier.
+
+Seeing the numbers again made a part of him, a small part but a part nonetheless, want to put pressure on Matt to get him to move a little faster. After all, would it be so bad to send Matt and Liz a capable administrator who could handle most of their ducal problems? Would it be so bad to preemptively end some of the plotting that was targeting Matt and his guild? Would it be so bad to just make a suggestion or two the next time he saw them that advancing faster and out of the war Tier’s would lessen the Empire's political burden? Would it be so bad to just come out and state that the Empire needed Matt delving back-to-back to be in a better state than it might otherwise be? He could even Talent up some unique rifts for them to delve he was sure. Would that really be so bad?
+
+Yes. They would all be bad.
+
+Emmanuel didn’t like to bend his morals, He Was Not A Tyrant, but it was so, so tempting sometimes to justify just one thing. Which was exactly the problem and was the first step in breaking his Aspect.
+
+No, the kids were doing fine. In fact, they were doing exactly as he had foreseen, which was a relief considering everything else beyond his control these days. They were making mistakes, learning, growing, and imposing their will upon everyone around them.
+
+That was part of the interesting things he had only really understood about reality and human interactions and society after he had access to a Tier 50’s future sight.
+
+Some people bent the Realm around them. Their very actions changed things in far reaching ways that weren't always obvious.
+
+Sure, an Ascender killing another duke because he was a rapist obviously changed things, anyone with eyes could see that a number of nobles pulled back on some of their more… obviously eclectic behaviors after Aiden’s rampage, but it went beyond that. Even just Allie teleporting around and frequenting various small bakeries in her quest for the best scone had an impact. It wasn’t as obvious; no economist would have predicted it or would even really notice anything, but when he delved into her futures and their myriad permutations, those simple actions had impacts not readily obvious.
+
+Allie’s frequenting of bakeries around the Empire shouldn’t matter, she usually took precautions to obfuscate her identity and Talent even now, but she was an outside influence that normally wouldn’t have interacted with the normal trajectories of fate. Her mere occasional presence shouldn't change things, but it did.
+
+One of her favorite bakeries had been on a path to foreclosure but her additional semi-frequent presence in the shop had added to the shop's ambiance, which in turn drew in new customers because busy establishments always did better. After all, other people wouldn't be there if the food was bad. Now, the shop that should have shuttered its doors was considering opening a second location.
+
+And that was just Allie and her snack addiction.
+
+All people had similar impacts, but some had more weight than others. Some a lot more than others.
+
+Titan’s Torch had been like a boulder landing in a puddle with its impact, so much so that he was still trying to parse the changes in fate that had been kicked up. Scientific discoveries were often as much chance as they were fate after all, but thankfully most of what he had seen was positive.
+
+Even the things that would be negative to Matt himself.
+
+He was stepping on established interests, and the next few millennia would be interesting as they collided.
+
+That was one place where his intervention would be a strict net negative.
+
+At least from a monarch's perspective.
+
+The Empire needed internal struggle and strife if it was to grow. Trees grown in a greenhouse never grew as tall as those that grew under the open sky and people were the same way. They didn’t grow without some strife.
+
+That was however a fine line to walk. Too much struggle and most people could never climb out of their starting locations, at least not the average mortals. Too little and they just never felt the need to rise up and improve themselves or their station.
+
+And what a pity that would be. Even just looking at the highest profile examples, the Ascenders who had risen from humble beginnings, Lila, Aiden, Zack, Matt, and Aster. They were able to rise up because they had the opportunity to risk it all. Not that they were alone. With his father’s past sight, he was able to see the ever-changing web of the future and the happenings of the past, which let him see how effective those methods were even for the average folk.
+
+Even without pre and postcognition, it was obvious that what the Empire was doing was working. Create a happy baseline for the mortals where those who wanted to live normal mortal lives could do so without being trampled while giving the ambitious a ladder to climb and things sorted themselves before too long.
+
+It wasn’t just The Path, though that was one of the imperial government’s more useful pipelines. It was the low-Tier guilds, the laws that allowed corporations to flourish and fail. It was opportunity and growth that fed back into a system that lived and breathed like any other.
+
+A system that could all too easily break if neglected or put under the wrong sorts of pressure.
+
+Manny had been well trained and prepared for his throne but he felt adrift having overcome his first real hurdle.
+
+He was the culmination of two generations of effort to change not just the Empire but the Realm.
+
+What if he failed?
+
+It was a scary thought that weighed down on him every minute of every day. He should have been able to wave away such thoughts with the proof of executing the war not just better than expected but as close to perfect as was possible. But if anything, that success made every fear and doubt so much worse.
+
+Things were going so well compared to his original projections, he was terrified that any misstep would not just ruin the foundation that his father and grandmother had set, but also ruin the perfect start he had unexpectedly created.
+
+Which was why Emmanuel was stuck in a loop of self-doubt and condemnation, worrying about things beyond his immediate control. A loop that logic played no part in pulling himself out of.
+
+Sitting down in the garden, Emmanuel retracted himself.
+
+He deactivated all of his Talents, muted his [AI], broke down the partitions of his separate mental walls letting the other selves that took care of other tasks return to the greater whole, clamped down on his cultivation letting his proprioception fall to a mortal level, and finally closed his eyes and took a deep breath.
+
+Emmanuel let himself lay there for an unknown amount of time, but he knew it couldn’t have been that much time. His job would never let him be absent for too long. At some point, Carissa found him and laid down next to him without saying a word, but Emmanuel just continued to lay there.
+
+Thoughts flitted in and out of his mind until things calmed down. Like an ocean having just experienced a storm, his mind slowly stilled.
+
+Sitting up, Emmanuel didn’t feel instantly better but he was in a much better mental place.
+
+Taking Carissa to breakfast, they cooked up a simple fare together without fanfare and talked about nothing important.
+
+Their morning was interrupted when a meeting alert broke through Emmanuel’s silences.
+
+The meeting was about war. The cynical side of him wanted to dismiss it but war was simultaneously unimportant with the rules in place and also the most important method of diplomacy the Realm had.
+
+Thankfully, this meeting wasn’t about their wars.
+
+General Ios was the one giving today's brief and despite trying to keep those ranks apolitical, she was a well-positioned noble scion who held great influence in his oppositional factions. She was also a competent military leader who kept her political aspirations out of her orders and job but he still couldn’t afford to slight her by ignoring the briefing she had asked for the opportunity to give.
+
+“Good day, Your Majesty,” she bowed as he entered and stood at attention waiting for him to singla her to star.
+
+Her greeting was perfect in every way and Emmanuel acknowledged her, then indicated that she ought to proceed.
+
+“The war between the Federation and the Monster Collective is going about as well as we expected. The Federation, despite losing a substantial amount of their top-end power in the Tier 25 bracket, is holding on well. This is the first major conflict between the two Great Powers and we are getting a look at how the Collective has diverged from the Federation and how the Federation has prepared for them. As we suspected, the Federation has a number of anti-bloodline weapons and potions they have been putting into play. The ones we are seeing currently are all clearly from before their dissolution but their existence speaks to greater capabilities, as we suspected. The Collective’s countermeasures have proven mostly positive but there has been noticeable slippage.”
+
+Emmanuel nodded as that all fit their predictions.
+
+The Federation had had anti-bloodline equipment for a long time; most of them just disrupted the usage of the bloodline core similar to any cultivation suppression, but it had always been hard to deploy on a large scale or wasn’t more impactful than any other poisons.
+
+Yes, you could block a phoenix from reviving. But in most cases, it was far easier to just trap and double or even triple-kill the bird in question.
+
+Given how rare bloodlines were on the whole, anti-bloodline armaments were rarely deployed in war. But, he supposed, using them against the Monster Collective did make the most sense, and if they were attempting to refine something old or field-test something new, they could hardly ask for better targets.
+
+With their most hated enemy attacking them, everyone had been expecting the weapons to make a resurgence, but it seemed like both sides were taking the slow and cautious approach.
+
+“Currently the Collective has pushed a quarter of a sector into the Federation border territory but they are struggling upon the secondary lines of defense.”
+
+Emmanuel raised a finger, and Ios explained. “The Federation defenses are holding up surprisingly well. Part of that can be attributed to them reinforcing that portion of the border heavily in recent history, but another part can be blamed on our last war. Their soldiers are bloodied and hardened where the Collective’s troops aren’t. The Collective strategy seemed to expect that and they are taking a slow but steady approach, ensuring their people outnumber the Federation where they can and cycling battalions in and out of the frontlines. That is contributing to their slow progress.”
+
+“How are the Collective’s troops faring?”
+
+“As well as can be expected for fresh troops with little in the way of veteran soldiers. The bloodline-heavy army is leading to some new and interesting tactics we are noting and theorizing counters for as we learn of them. One notable bloodline that I believe you should be made aware of are the Sunshine Rats who seem to have the ability to slip through shields like they don’t exist. They are acting as infiltrators and saboteurs who haven’t failed yet.”
+
+Emmanuel closed his eyes as he probed his future sight Talent set and checked the history and past of the bloodline.
+
+Opening his eyes, he smirked. “They had heavily interacted with a Tier 45 or higher recently. I’ll send a report down once I parcel through the interference but that is a low priority on my time and mana usage.”
+
+What he really meant was that he’d need to get closer, probably teleporting into Collective space and using methods to hide his presence, and scan one of the bloodlines directly. Or that was what his gut was telling him he’d have to do to get through their Collective’s various anti-divination methods.
+
+That would certainly punch through most anti-divination methods but would also take substantial preparation time if he didn’t want to get caught. Hopefully he could just find a place where they were near the Empire border where he could scan them directly, but that was unlikely if the Collective were doing their jobs properly.
+
+“And the Federation?”
+
+“Their troops haven't shown any new techniques or capabilities since our war, but their morale is high considering their losses. Our read on their sentiment is that they believe this war is their way to strike back at the traitors and regain the honor lost by their forebearers.”
+
+Emmanuel listened as more details of the war were explained until he asked, “How committed do your people rate each side?”
+
+“Very, but they are taking things slow. First Shepherd Tobias has the full support of his people and from all accounts, seems dead set on taking a chunk out of the Federation. Virgil on the other hand, has been surprisingly quite publicly disinterested about the war but Federation officials are pushing hard to keep public support high. Personally she seems unconcerned or is otherwise occupied.”
+
+Emmanuel nodded at the report which fit what other information he had.
+
+He suspected that Virgil was aiming to develop an Authority.
+
+JR had already spoken with Aiden about what he knew regarding Authority formation, and while Aiden was usually entirely incapable of providing any useful information whatsoever about Domain formation, he could explain the basics. He was still too injured for JR to subject the man to a full bevy of testing, but it was just a matter of time before additional knowledge about Authorities propagated from Aiden to JR, and from JR outwards as people could afford the bird’s nigh-extortionate rates.
+
+Even the simple knowledge that such a thing was possible had set the rumor mill ablaze. So far as Emmanuel knew, nobody had actually attempted to create one yet - making an attempt this soon into Domain development was just suicide by another name - but there were rumors that a Sect elder who’d blown themselves up had been attempting to create an Authority. It was more likely something more mundane, but Authority discussion was the topic of the millennia.
+
+If they were lucky, all of their enemies would kill themselves attempting to reach for greater power and they wouldn't even need to fight them in a true war.
+
+The entire situation was a conundrum without an easy solution.
+
+Reaching for an Authority was stupidly dangerous as seen by Aiden being the first person in living history to succeed. Hastor counted but he had only succeeded at Tier 50 and had immediately left without actually telling anyone what his process had been. Even if he had, they would still be left fumbling in the dark.
+
+With Aiden unable to leave the Realm via Ascension yet, he had been pressured to sell the information but that was why they knew how fiendishly hard creating an Authority would be. And if no one succeeded, they would be fine, but the instant one of the Tier 50s succeeded in creating an Authority was the moment the balance of power shifted.
+
+Personally, Emmanuel didn’t want to try. It was stupid, idiotic, suicidal. Even for them, the Tier 50s, it was the equivalent of asking a Tier 5 to create their Intent. Or for a Tier 25 to create their Aspect. Except it was far harder as with each stage of growth a Domain became increasingly complex.
+
+The fact that the one man who had actually created one couldn’t explain anything only made it all far worse. You’d be creating one all but blind, with most not even knowing what new piece needed to be added to the Domain - what Aiden had called a Place - and the Realm was littered with the corpses of geniuses who had stretched themselves just a bit too far.
+
+Why would any of them be different?
+
+Even for those who could learn from Aiden, he was a certifiable madman who went more off feeling and intuition instead of facts, logic, or anything concrete.
+
+Even if he could explain things well— which he couldn't— they couldn't even be sure he understood what he had done well enough to ensure he was explaining it well.
+
+With a map, even a bad one, there was an avenue to greater power.
+
+Emmanuel didn’t think any of the Tier 50s would be trying to create their own Authorities first but instead the information would be distributed amongst their most loyal Tier 46s, Tier 47s, and even Tier 48s, who were more… replaceable.
+
+If any of the Tier 50s died, it spelled the end of their Great Powers.
+
+But if any of them succeeded, their Great Power could ascend to the strongest Great Power in the Realm overnight.
+
+There was always a risk that they would get jumped on but as Hastor had demonstrated, with an Authority, a Tier 50 could unleash all of their power without the risk of a forced Ascension.
+
+The million-credit question was if a portion of an Authority would have a similar effect.
+
+Emmanuel doubted that a single facet of an Authority would be enough, but only time would tell. For that, his gut told him a Tier 50 would need at least a half-formed Authority, with either a Place, as Aiden named it, or whatever the other supposedly possible way is.
+
+At least if the Authority held true to the past stages with two variations that each had their own unique effects. Internal/external Concepts and such.
+
+It was possible that Hastor had created the other version but without being able to ask him, they couldn’t know so anyone who wasn’t like Aiden would be fumbling around in the dark.
+
+So only the mad men of the Realm had any chance to create an Authority.
+
+And there was one source of mad men who were publicly trying for their Authorities.
+
+Ascenders.
+
+All of the older Ascenders were pushing for advancement to reach Tier 46, where they would start serious attempts at their Authorities.
+
+That worked for the Empire, who had four Ascenders but at the same time their Path had just been cut off at the knees.
+
+As Manny left the meeting room and got back to work, his mind kept coming back to the idea that Ascenders were the key.
+
+Those lucky few who could flip a coin and have it land on heads time and time again but the idea never crystalized into something actionable.
+
+The Authority revelation at least gave Lila a plausible reason to linger in the Realm without the other Great Powers getting suspicious. Ascenders rarely lingered in the realm once they reached Tier 45, and she had been getting close to leaving before Zack and Allies and then Matt, Liz, and Aster’s arrival.
+
+For all her Ascender tendencies, Lila was willing to stick around for the possible true war. He wanted to believe that it was purely because of her patriotic nature but she had outright told him it was because she was eager for the chance to fight at the peak of the Realm against the other Great Powers.
+
+That was an Ascender for you.
+
+He also suspected that at least partially she was sticking around because she liked the newest generation of Ascenders and saw herself as something of the mentor she had never had. Few Ascenders ever had any younger Ascenders before they left in their own Great Power and Lila seemed to like the role of older guide.
+
+Not that his current Ascenders were hard to like.
+
+They were good kids.
+
+Kids who he hoped at least survived their suicidal attempts to form Authorites. They at least had good chances of surviving any failures if past Ascender ‘deaths’ were anything to go off of.
+
+As for his Royals, he had disseminated the information Aiden had shared to them but had asked them not to risk it.
+
+He was sure they would at least feel out the next stage if for no reason than to see if they were lucky but he couldn’t risk their deaths. He’d rather have them be theoretically weaker than dead.
+
+The odds of success were just too low.
+
+Authorities were things for the next Realm.
+
+Even knowing for hundreds of years, thousands if his subjective rift time was accounted for, he with Talents that made Domain creation easier, hadn’t been able to take even the first step.
+
+And Aiden had done it, just like that. He’d joked about trying for the stage after Authorities, what would be needed to reach Tier 100, but even he had only been joking. That was a step too far for even him.
+
+But who knew how long that would remain a step too far?
+
+Domains were hard.
+
+His mind was wandering back to the idea of finding Ascender-type people despite reduced funding when he got a pulse of spiritual power from deeper within the palace.
+
+Ciceron flexed his spiritual perception for a second time just an instant later and Emmanuel stood from his desk stepping to the librarian's fief.
+
+The library was as anyone would expect from a Tier 50. Grand didn’t begin to describe it. They had every copy of a non-fiction book produced for the last two million years in digital form and physical copies for the top hundred best regarded works from every decade in every category.
+
+It was a place he had loved exploring as a child and he hoped his soon-to-be-born child would find the same joy in the halls.
+
+Ciceron had been a fixture of the library since his grandmother's reign and was trusted, so when he asked for Emmanuel’s presence he hadn’t hesitated. What he hadn’t expected was to find the librarian near the Astral Map.
+
+Dots of lights twinkled on the projection; some were linked together while others freely floated through the void.
+
+It was one of the few real-time maps of chaotic space that existed and one of the Empire's greatest secrets.
+
+The other Great Powers probably had their own versions; he knew the Clans had something similar that worked with a forge’s flame and that the Corporations had something but they didn’t know how it worked exactly, just that it existed. The Empire’s however was a good old projection and the strongest version of the item.
+
+Made by the old dynasty, the treasure let them see the surroundings of all planets connected to the Capital’s teleportation network. With how interconnected the Great Powers were, that meant they had a vision around the entire cluster of millions of worlds. It didn’t project anything but worlds as they drifted through chaotic space so it couldn't track ships, people, or anything on the planets themselves but it let them see in real time where and when the other Great Powers collected other planets and their Tier.
+
+It could even see deeper into chaotic space but the range was limited from its last tethered node.
+
+This was how his father had found a Tier 30 world to drag back with the Guild's former leader when they had been going through a dry spell.
+
+Scanning everything, Emmanuel looked for a higher-Tier world drifting near Empire space, the largest thing that could get the other Great Powers to break their treaties, but he didn’t see one and so let his perception drop to Ciceron’s Tier.
+
+“What's wrong?”
+
+Ciceron vibrated in excitement as he pointed. “Look Your Majesty. Near Exalon. Do you see that discoloration?”
+
+Emmanuel looked and thought he saw what Ciceron was talking about. Or he saw it, but he would have dismissed the discoloration without the librarian pointing it out. The map showed currents and eddies in shades and discolorations which made the one around Exalon fairly unremarkable upon a casual glance.
+
+“I see it, but what does it mean? I’ve never seen anything like it.”
+
+Ciceron’s eyes were wide as he smiled. “I had to check the records, but I believe it's an Ascension to our realm.”
+
+Emmanuel’s eyes rose into his hairline as he studied the area. “Do we have a time frame?”
+
+“According to the records, somewhere in the next few years. Perhaps a century from now, perhaps a decade, but this has only happened twice since the Astral Map was created so the information has limited precedent. I’d like to requ—”
+
+Emmanuel’s eye’s flickered gold and started to shine.
+
+Oh, now this would be interesting.

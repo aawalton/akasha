@@ -1,0 +1,119 @@
+---
+id: 61131c06-f3a0-5700-b80c-1e847fad8331
+page-type-slug: story-chapter-royal-road
+title: "Chapter 528: Oops"
+slug: 0094-chapter-528-oops
+partOf: rise-of-the-living-forge
+position: 94
+ownLength: 1586
+unit: words
+ownProgress: 1586
+publishedAt: 2025-12-09
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2833042/chapter-528-oops"
+royalRoadId: "2833042"
+markedReadAt: "2026-06-29T20:01:26.452Z"
+---
+
+Art fought to keep himself from sending a nervous glance over at Vix and the giant bag of trash she had slung over her shoulder. Everything — and everyone — was in position. He’d checked to make sure at least half a dozen times before they’d set out.
+
+It wasn’t that he was concerned about the viability of his plan. Art didn’t believe in half-measures or uncertainties. He had complete certainty that he’d thought everything through. The Dwarven Council would already have an envoy headed to join them in Thornhelm. Similarly, the Blacktongues would have been tipped off of their presence by the spies he’d intentionally left untouched during their preparations.
+
+Reya had been dispatched to make sure that the noble family would have someone to chase back to them. Without her, Art wasn’t confident those bumbling idiots would be able to arrive before the Council, even with the head start they’d gotten.
+
+Vix sent Art a look that said far more than words ever could.
+
+Sorry. I’ll stop glancing over.
+
+Art forced himself to focus on the street in front of him. Parading through Thornhelm with a giant bag full of supposed riches was such a moronic idea that even doing it with a bunch of fakes was still moronic. His father may have still controlled the city, but that didn’t mean it was free of crime.
+
+The thieves guilds existed here, just as did a great number of passing adventurers who would be more than happy to take advantage of a free payday. Any of them could have gotten wind about what was happening here. Art doubted the Blacktonges mercenaries would be entirely tight-lipped, and that wasn’t even getting into the possibilities of enemies of Thornhelm itself. Stealing from him would make his father look bad. There were countless enemies that would be more than happy to arrange for such an event to occur, even if they didn’t earn a single non-existent gold coin for their troubles.
+
+But there was one thing that would keep many of them in place.
+
+Logic.
+
+Not some genius-level intellect that was reserved only for the greatest masterminds and manipulaturs. No, the one thing Art was relying on was basic common sense.
+
+Namely, only a drooling moron would ever stride through the center of a city with a fortune from some legendary vault, then proceed to protect it with a rag-tag group instead of the main members of the Menagerie. That goes doubly so for when Rodrick hasn’t been seen in several days.
+
+Anybody with even half a brain is going to realize this is a setup. The talented thieves are going to pin this — correctly — as a honeypot. Adventurers won’t want to risk their lives for what is almost certain to be a trap. They’re not stupid.
+
+The only people who would ever actually think for a moment that this show was real would have to fall into one of two groups. They would have to either be ignorant enough of the world to believe that wandering through a city with a ridiculous amount of gold was realistic… or they would have to be so arrogant as to think that nobody could ever dare steal from them.
+
+Fortunately for Art, his targets fit that profile perfectly. The Dwarven Council had access to some of the best gear in the kingdom. They’d supposedly funded an enormous part of the war against the Horde… and one of their men had been taken out by Arwin’s golem.
+
+The Council would believe that the Menagerie had to be impossibly strong. After all, if they weren’t, then that would have been akin to admitting that their own warrior had been rather pathetic.
+
+Naturally, anyone powerful would have no fear at all about being robbed.
+
+And the Blacktongues… well, they hadn’t been an adventuring family in ages. They didn’t have the slightest damned idea about what dangers the real world held. All the nobles could do was hide behind towers of gold and pay others to handle their problems for them. They wouldn’t even consider the fact that someone else might steal their prize.
+
+Art and Vix came to a stop before a trickling fountain. Behind them, Elias scanned the area. They — along with Reya — were the supposed team that the Menagerie had sent after the Vault.
+
+Maeve and Vanessa were in the shadows a street over. The two of them had taken up position several hours ago, well before Art’s group had staged their grand return to Thornhelm. Their presence wouldn’t be needed so long as everything went well… but it never hurt to be careful.
+
+“How long?” Vix asked, sending a quick glance to Art.
+
+“As long as it takes,” Art replied. He absent-mindedly rifled through his deck of cards. They were in position. It theoretically shouldn’t have taken the Blacktongues long to follow Reya back to rejoin them, but overestimating someone’s intelligence was just about as dangerous as underestimating them.
+
+The biggest thing he was concerned about was the Blacktongues somehow taking so long that the Dwarven Council’s forces got to them first. That would be a problem. Any mercenaries hired by the Blacktongues would take a single look at the dwarves and immediately turn tail.
+
+We need to be under attack by the time the Dwarven Council finds us. That’s the best way to make sure they strike first and deal with the Blacktongues. Obviously, we can’t let anyone see in the bag either. That would reveal we set this whole thing up. Doubt the Dwarven Council would appreciate that much. But that’s all fine. All we have to do—
+
+“She’s coming,” Elias said.
+
+Art glanced back at him. He didn’t hear anything, but he knew better to doubt the bandaged man. Elias knew what he was doing. Art stopped playing with his cards. He palmed one, then slipped the rest of them away.
+
+The echo of distant footsteps reached his ears a second later. Art tilted his head to the side as he focused, trying to see if he could pick any other sounds. Reya’s running was getting closer at a pretty rapid pace, but he couldn’t—
+
+Ah. There they are.
+
+Metal clanked against the street in a heavy drumming storm. There were a good number of them. Somewhere around ten, by Art’s best guess. That was actually more than he’d been expecting Blacktongues to send.
+
+Evidently, they weren’t too worried about being discreet.
+
+Idiots. Even if they did somehow manage to take our fake treasure, the amount of noise they’re making is going to get the attention of everyone in Thornhelm. They’ll never make it out of the city.
+
+Reya dashed into the square a few seconds later. She looked winded, but it was all a load of crap. She could have thrown her pursuers in less than a few seconds just by phasing through a few walls and vanishing from sight.
+
+But they didn’t know that.
+
+“Art!” Reya exclaimed, her voice a pitch higher than normal as she staggered over to him. She was really laying it on thick. “We’re getting—”
+
+A dozen men darted out from the alley Reya had just emerged from. They wore heavy metal armor without any manner of identifying crest. Only around half of them were armed, but it was impossible to tell if they had any magic in their gear.
+
+Looks like I miscounted by two. That’s quite the squadron they sent for us. Twelve versus a supposed four. I guess we should feel honored.
+
+“Who are you?” Art asked.
+
+“Hand it over,” the man at their head growled. He wore a helm that blocked out his face, but there was a small black plume at the top of his head that marked him as either the leader or the most pompous of the lot.
+
+“Hand what over?” Art asked. “You’re going to have to be a lot more specific than that.”
+
+The man let out a snort. He set his hand on his sword—
+
+A streak of dark magic blurred toward Art.
+
+He flicked the palmed card in his hand onto the ground. The bolt of magic vanished an inch away from his face, swallowed by the card before it could connect. A flicker of surprise passed through Art.
+
+This isn’t some random group of mercenaries.
+
+“Going right for the kill?” Art asked, tilting his head to the side as his eyes flicked to the person that had attacked him. They’d positioned themselves right behind the lead man, covering much of their motion. “And in such an underhanded fashion? Not much honor there.”
+
+“I know who you are,” the man said. “There’s no honor to be found here.”
+
+Art smiled. “No. I suppose there isn’t. Honor is for better men. But if you think you’re going to intimidate us into giving so much as a single gold up, you’re sorely mistaken.”
+
+“Your cooperation is entirely optional,” the man said. “Last to make the right choice.”
+
+Art flicked his hand. The magic stored within the card at his feet burst free, streaking across the square to splash harmlessly against the man’s armor. That answered one question. They had magic equipment.
+
+“Oops,” Art said dryly.
+
+The mercenaries didn’t say another word.
+
+They charged.
+
+Two new cards snapped into place between Art’s fingers as fingers of dark magic darted through the air toward them. There was no going back now. Every part of the plan was in motion.
+
+All that remained was to see how the pieces fell out.

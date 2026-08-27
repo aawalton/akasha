@@ -1,0 +1,173 @@
+---
+id: bd2cb6be-ffd1-5034-81b7-8ca15af42b06
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1201 - Knowledge Gap"
+slug: 0073-chapter-1201-knowledge-gap
+partOf: the-primal-hunter
+position: 73
+ownLength: 2992
+unit: words
+ownProgress: 2992
+publishedAt: 2025-11-13
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2757817/chapter-1201-knowledge-gap"
+royalRoadId: "2757817"
+markedReadAt: "2026-06-29T19:31:34.628Z"
+---
+
+“While I cannot commit to a specific timeline, I’ll certainly be visiting soon,” the high elf alchemist said courteously.
+
+“We’ll certainly look forward to when the opportunity arises,” the other high elf responded with a smile. “Now, I shall not hold you up any longer. I understand that the Chosen of the Malefic One will soon be returning to the Order and wouldn’t want to get in the way of anything.”
+
+“You don’t need to worry about that,” Meira shook her head. “I don’t think Lord Thayne would have anything against a delegate from the Altmar Empire paying her respects.
+
+“That’s comforting to know,” the B-grade elf from the Altmar Empire chuckled. “However, I shall stick to my original plan and take my leave.”
+
+Meira nodded, knowing that there was no need to try to convince the other party. All of this was just platitudes, anyway. She still felt it was a little weird, but the etiquette classes she took made it clear that this little game of theater was something one had to participate in once in a while.
+
+The elf soon departed, leaving Meira back alone in her tower that Duskleaf had helped her build within the land technically belonging to Jake. Alone once more, she inspected some of the ongoing experiments she had been working on and was happy to see that things were progressing well.
+
+Duskleaf had taught Meira a lot, and even now, he had left behind an avatar to continue guiding her despite how busy he was at the Pantheon of Life. Of course, Meira did help her Patron a little by being the sponge he could complain to about his projects at the Pantheon while getting constant affirmation that his struggles were indeed all valid and worth complaining about.
+
+Continuing through her tower, she went and found a book she had been looking for. As she walked, she looked out a window toward the buildings in the distance where she used to live. It had been a long time since she’d seen any life there, making her feel a little sad.
+
+It had been a while since Meira had returned from Nevermore, having spent her full fifty years as a C-grade inside. Of course, she hadn’t competed on the Leaderboards, but had just gone with a party primarily from the Altmar Empire.
+
+Needless to say, Meira had been very worried about going in the first place. She’d never been much of a fighter, and while her Patron had helped her train, she still felt green. Luckily, the party she went with knew this, and while they were forced to do the easy first floors anyway, Meria got in plenty of practice. While she wouldn’t say she was a good fighter now, she believed herself to at least be decent… though that was primarily because Meira didn’t actually have to fight most of the time.
+
+She was a healer, through and through. That was at least something she had always been and a Path she herself had chosen. As a healer, she had been able to help her family and friends back in her clan, and the fact that she’d been good at it only made it better.
+
+Her Path as an alchemist had greatly supplemented her healing, especially her specialization in formations. That was something her Patron had discovered early on that she excelled at, and with time, Meira had only further deepened her understanding of formations and the endless possibilities within.
+
+According to her party members, she was a nightmare to her opponents due to her ability to nullify damage, heal injuries, and control the entire battlefield through intricate formations. Sure, offensively, she had little besides a few poisons and regular mana attacks, but that was why she had been in a group, and if she did ever find herself isolated, she had gotten extremely good at fleeing through more than a dozen self-crafted escape treasures.
+
+Shaking her head, Meira brought her book downstairs to the cozy living room and sat down to read. The book was one of those where every page was a formation circle to study and decipher, so it was unsurprising that several days passed with her studying it while only occasionally getting up to make some tea – a blend of her own that increased mental focus and soothed the mind.
+
+As she was reading, she suddenly got a divine message from her Patron that made her perk up. Lord Thayne and the other C-grade friends of his who had gone to the Pantheon of Life were about to return.
+
+Meira couldn’t help but feel nervous as it had been so many years since she had last met Lord Thayne, especially for her. She knew that over fifty years was a long time for someone like her, who felt like her life had only truly begun after she went to the Order of the Malefic Viper as a slave, something that felt like it had truly been an entire lifetime ago.
+
+She wondered how much more powerful her former master had become. If he had also changed or was the same person he’d always been. But perhaps most importantly… how would she feel when she saw him again?
+
+All she could do now was wait… and for some reason, their return trip seemed to last a lot longer than Meria had thought it would, only making the long-awaited reunion more suspenseful.
+
+--
+
+“We need to at least wait for them to wake up,” Villy pointed out. “Would be pretty fucking weird if we popped in with half the group unconscious.”
+
+“Good point,” Jake muttered, not finding any good argument against that one.
+
+They were all currently sitting within a large living room that Jake remembered having visited a few times prior, the first of which had been as a projection of his own soul way back in the Tutorial.
+
+It was a private area of the Malefic Viper, and Jake was honestly a little surprised that Villy had brought everyone there. Then again, where else could he have brought them?
+
+Due to the teleportation vessel being a mess, they couldn’t just appear in the Order while inside of it, as that would have raised a lot of questions. So, making a little pit-stop along the way made a lot of sense, especially when one considered that they had to wait for Sylphie, the King, and Dina to wake up from their Void God-induced slumber. Alright, technically, the slumber was self-imposed as an automatic defense mechanism to protect their own minds, but Jake still blamed Oras for being an incomprehensible eldritch being.
+
+After arriving at the Viper’s private space, Jake and the Sword Saint had found some large beds for the three to sleep things off before the two gods and C-grades made themselves comfortable in the living room. Unsurprisingly, Jake and Villy had been the two who felt the most comfortable chatting away, but the other two did soon get their bearings somewhat.
+
+Seeing as they had the time to chat away, Jake asked something he had been kind of curious about as he looked at the Viper. “Say, do you have any idea what Oras might be thinking?”
+
+“Damn, that question came out of left field,” the Viper chuckled. “But the answer is no. Seeing through the thoughts of a Void God is not something I fancy myself capable of. Sure, I can have theories and guesses, but in the end, his reasoning might be something that simply doesn’t make any logical sense to me. He’s killed gods he’s never even had any interactions with before, seemingly out of nowhere. Yet he’s also helped other gods, once more seemingly out of nowhere. Rarely does he ever provide any meaningful explanations for anything he does... not unless you make some kind of trade for him to share.”
+
+“Okay, not gonna lie, I just imagined being a new god and jovially trying to travel the void, only for a sea of eyes to come out of nowhere and consume me without any cause or reason,” Jake said. “The multiverse should definitely reconsider using the void as a shortcut to teleport places if one can get unlucky like that and run into a random Void God who decides to end one’s existence.”
+
+“Eh, you’re exaggerating,” the Viper waved him off. “I said it’s happened, but only a couple of times. Usually, Void Gods don’t get involved with the rest of the multiverse at all. You saw at Nevermore how limited the number of people they get involved with is.”
+
+“It’s not that surprising that the Void Gods have few followers, is it?” Artemis asked. “They’re all solitary entities after all.”
+
+“True,” the Viper agreed. “Admittedly, I’m also unsure how their method of Blessings works. I know they don’t have levels like ours, so it may take more out of them to bless each person.”
+
+Jake nodded along. “Yeah, but considering the scale of the multiverse, there should still be a fair number of Void God followers out there, right?”
+
+His innocent question made Villy throw him a glance as a thought struck the god. “Say, Jake, how many Void Gods do you know of?”
+
+“Oras and that weird cube thing,” Jake shrugged, not sure where the Viper was going with his question.
+
+“Let me follow up… how many Void Gods do you think there are in total?” the Malefic Viper questioned, now seeming incredibly interested.
+
+Jake felt like it was a trick question, but when he thought more about it, he realized he’d never actually considered it. He knew there were an absolute fuckload of gods out there, so he’d kind of just assumed there were also a lot of Void Gods.
+
+“You say Void Gods are technically Void Dwellers, right?” Jake asked.
+
+“Yeah,” the Viper confirmed.
+
+“And there are, like, countless Void Dwellers?”
+
+“Indeed,” the Viper nodded.
+
+“So… with that logic, there’s bound to be quite a few Void Gods out there, right?” Jake asked, feeling like his logic tracked.
+
+Artemis looked at Jake, confused, and even the Sword Saint had a questioning look.
+
+“Wow… sometimes the gap in your knowledge is astounding,” the Viper laughed, slapping his knee before he turned a bit more serious. “Seven.”
+
+“… seven?”
+
+“There are seven Void Gods,” Villy clarified. “There’s always been seven Void Gods. It’s true they are Void Dwellers who gained sapience, but they are the only seven who’ve ever managed to do so. Additionally, they all did so around the first era with no other Void God having appeared since.”
+
+Jake stared at the Viper as the god continued.
+
+“I don’t know when they actually became Void Gods; all I know is that collectively, the Primordials encountered all seven during the first era, meaning they were all around then or perhaps even before us.”
+
+For a moment, Jake wasn’t sure what to say as he asked something he was fairly certain he’d asked before: “Just how powerful are Void Gods, actually?”
+
+“Strong enough that none of them have ever died,” the Viper shrugged. “And as I told you before, strong enough so that no being in the multiverse believes they can kill one, Primordials included. As the multiverse has grown, so have the Void Gods, making them far more powerful now than they were back in the early eras.”
+
+“Huh,” Jake muttered… yeah, he had definitely believed there were scores of Void Gods out there doing their thing, but it turned out that assumption had been very wrong.
+
+“You really didn’t know?” Artemis asked, staring at Jake.
+
+“No…” Jake said, now feeling a little embarrassed.
+
+“Even I knew,” the Sword Saint said, shaking his head. “I just casually asked Arnold once, and he explained. This was… I wanna say not that long after the Treasure Hunt?”
+
+Jake felt like they all ganged up on him for his ignorance, and the three of them continued to tease him for a while longer. Alas, Jake could only take it on the chin and at least find solace in the fact that it had led to the mood in the room getting a lot more casual.
+
+After not that long, they returned to a fairly more pertinent topic.
+
+“Does the Malefic One believe it best I go directly from here and meet the officials?” Artemis asked, still a bit overly cautious, but not as bad as before.
+
+“No, appear at the pre-prepared teleportation circle alongside the others. Let it be known you are here, and then go meet with the people you actually need to discuss matters with,” the Primordial said.
+
+“I guess the rest of us will just go to my place?” Jake asked.
+
+“Unless you have somewhere else you want to go,” the Viper shrugged. “Dina will also have to act in her official capacity sooner rather than later, though. While the appointment is primarily for appearances, she does have some minor responsibilities, one of which is to be seen once in a while.”
+
+“Ah, true,” Jake nodded as he fell silent for a moment. “Say… could I return to my place alone first? I have a few people from here I need to speak with, and it would probably be best if I do so one-on-one.”
+
+“I don’t care,” Villy said.
+
+“Me neither,” the Sword Saint said. “Not like the Order is lacking in amenities.”
+
+Artemis looked hesitant for a moment, clearly wanting to ask something. The Viper noticed and snickered.
+
+“Yes, he’s probably going to meet with women who have in the past made it extremely clear they want to sleep with him or have slept with him in the past,” the evil snake god said, taking way too much pleasure in what was happening than he should be.
+
+Jake glared daggers at the god as Artemis looked to Jake.
+
+“I just want to clear up a few things with one person more than any other,” Jake said, shaking his head. “I guess Meira is there, right?”
+
+The Viper nodded, Artemis also realizing what he was getting at. Jake hadn’t hidden anything from Artemis, so she knew about his and Meira’s history. The two had even talked about it a little, and Jake knew that it wouldn’t be fair to the elf if he didn’t at least have a proper conversation with her.
+
+Having reflected on his feelings, Jake was a lot clearer now than ever when it came to his own emotions regarding Meira. From the beginning, her existence had been forced on Jake, and he had just tried to make the best out of a bad situation. The elf had, in truth, frustrated Jake to no end in the beginning with how lacking in agency she was.
+
+It was stubbornness and a sense of responsibility that made Jake push so hard for Meira to break through her mental walls and become her own person. In many ways, Jake had felt bad for her, but he also couldn’t deny that she did evoke some other feelings.
+
+Meira was by all accounts objectively beautiful, and it wasn’t weird that she invoked an innate desire to protect. She had been defenseless and needed his help, which had made Jake naturally inclined to provide it.
+
+Afterwards, when she began to make progress, Jake felt proud of her. However, that was about where his emotional involvement ended. He wanted to see Meira succeed and do well in life, but that didn’t mean there was more to it.
+
+Also, no matter what happened, Jake felt there would always be some innate power imbalance between them and that any emotions Meira had wouldn’t be genuine. It was all just so messy, and Jake believed now was high time to unravel that mess and have a proper sitdown with Meira. With how much she had grown, he hoped that now he could have a conversation between two adults who were at least somewhat equal.
+
+Only after that conversation with Meira did Jake feel like he could have a follow-up talk with Artemis. Jake had to admit that with Artemis in the picture, things in that realm of his life felt a lot more complicated, but he didn’t have regrets and would just have to deal with it.
+
+The Sword Saint clearly noticed Jake in thought as he sent a telepathic message. “If you ever need any advice, feel free to consult. However, allow me to offer one small tip… don’t overcomplicate things. And by that, I mean there’s nothing more complicated than having to navigate relationships with too many people involved.”
+
+Jake glanced at the old man and couldn’t help but joke: “What, are you suggesting I shouldn’t live the fantasy dream of having a personal harem of wives?”
+
+“It’s indeed a fantasy, and the dream quickly becomes a nightmare,” the expert in the matter said. “The only types of partners who are willing to be part of such an arrangement likely aren’t the ones you wish to get truly serious with. I interpret that you desire to be serious with the Godqueen, and if you do, you should put all your efforts into it. It’s the simplest and easiest to navigate.”
+
+“So, no harem?” Jake joked back.
+
+“Not saying you can’t try to have one, just that I genuinely believe you would find the experience absolutely miserable, and I predict it won’t end well for you, judging by your taste in women. I myself have decided that I’ve had enough significant relationships for one lifetime. Sure, I may change my mind one day, but for now, I shall remain untethered and unbound,” the Sword Saint said, getting the last words in.
+
+Jake nodded, taking the advice to heart. He did feel a little awkward having this kind of conversation, which is why he resorted to joking. Luckily, he was saved from delving into the topic further when there was movement in the next room, as the sleeping beauties were finally about to wake up.

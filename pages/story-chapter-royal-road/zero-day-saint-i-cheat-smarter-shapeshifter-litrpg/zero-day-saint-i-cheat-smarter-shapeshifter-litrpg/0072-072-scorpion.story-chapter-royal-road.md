@@ -1,0 +1,171 @@
+---
+id: 8fc69214-b404-531f-a61c-ebe9db715a1d
+page-type-slug: story-chapter-royal-road
+title: "072 - Scorpion"
+slug: 0072-072-scorpion
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 72
+ownLength: 2196
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3833124/072-scorpion"
+royalRoadId: "3833124"
+---
+
+I caught a glimpse of both Alex and Inaaya looking over at Sarah and me, their expressions distinctly displeased.
+
+"Is there something wrong?" I asked Sarah.
+
+"Nah," she said. "They are just being grumpy. Alex disapproves of ninety percent of my life choices that don't involve the zoo. They both think I only ever go for women who 'look like bad decisions'."
+
+I looked like a bad decision. That was both not surprising in any way and a stab at all the insecurities I had been building up over the last week.
+
+"Sorry," Sarah said. "That might have come through in a weird way. I don't think you look like a bad decision. I think you were amazingly cool while saving our butts, and we might all be dead without you. And still you are also kinda cute. Alex and Ina totally think you look like a bad decision."
+
+"Are they married or engaged?"
+
+"Engaged. Probably terminally so. Not exactly easy to walk those final steps with," she gestured around, "all of this."
+
+I laughed. "Hey, at least a priest is coming right up."
+
+"Dang, really?"
+
+"Anthony. The Pathfinder who makes it at all possible for them to get here this fast. Wanted to stay able to guide people, despite the Apocalypse, or something like that."
+
+"At least that's what he thinks, right? Don't you think it's weird that we didn't get a choice? Like, yes, we supposedly kinda did. But is it really a choice if you don't remember?"
+
+"Beats me. Past-Eve made some interesting choices back then. And now I'm slightly failing at following through on them. Do you regret your class?"
+
+"Me? Hell, no. I was one of the best swordfighters on the east coast before this shit started. I kick ass. I just wish I remembered picking it. How are you failing at following through on your choice?"
+
+"Wait a minute. You aren't boasting, are you? How do you even know you are that good? Did you, like, swordfight competitively?"
+
+"HEMA, baby. Won gold with the longsword in New England last year."
+
+"Damn. You were ready for this."
+
+"For the fighting, yeah. Not for the everything else. It's… not been easy. So?"
+
+"So, what?"
+
+"Your lack of follow-through?"
+
+"Oh. That. Yeah. I got a bit screwed when I selected my class, so I needed a perk to make up for that. To afford that, I picked a disadvantage, which cut my Charisma progression in half. But Gabriel, my guide, said that this was also a very deliberate choice, so I wouldn't tear myself apart trying to become a leader."
+
+"Are you?"
+
+"Did you notice how the experience you got was more than usual? I picked a perk for that. Prevents me from getting any experience myself while it's active. And I already decided that I'd use it to power level at least one person with us to level twenty so she could join another team, but bring that power spike with her. And then I'd do the same for my team. And now I'm considering doing the same with your team. And I'm trying to keep a pack of hyenas in check, organizing an alliance with a mall full of kobolds, and I have yet to figure out how to deal with a newborn genius loci in Mammon Tower. Which I have attuned to." I took a deep breath. "Sorry that was a lot. Yes, I think I'm tearing myself apart. There is no decision here I'd cut, but I also know it's too much."
+
+Sarah held out two fingers while she replied. "Okay, that's a lot. And we only met like an hour ago, but may I offer my take?"
+
+"Sure."
+
+She only kept one finger out. "I may be biased, and I haven't killed a warlord, so I don't really know the deal. But the way I see it? I think you hindering your own growth to help others grow faster is a mistake. You killed Mammon because you fucked around and built a toolkit that could. Others getting their subclasses will also give us more tools, but ultimately? What we need isn't a dozen silver medalists. We need a gold medalist in fucking up warlords who stays on top of the game. How much weaker could you have been, and we'd still have made it out of this alive? Two levels? Five? What if the next situation needs you to be level twenty-five, but you are stuck where you are right now because you helped someone else? You are the one Claire can airdrop fucking anywhere in the city in no time. Don't waste our city's best player by turning her into a coach."
+
+I leaned back. "I… had not thought of it like that. I was thinking in terms of utility."
+
+"We might need utility, but we also really need champions."
+
+I looked at the index finger she still held extended, pointing at nothing. She followed my gaze.
+
+"Oh, yeah," she said. "What's a genius loci?" she asked, folding in the finger and pulling her hand back again.
+
+"It's, like, the spirit of a place. I think some ghost house stories might go back to that. We, or our souls, I think, influence the space around us with what we do. Resonance. And profane and sanctified spaces latch on to that, and I believe they are meant to contain it. But Mammon had leeched that resonance away from Mammon Tower. And when Mammon died, suddenly and violently, that caused some splashback. Or something like that. At least that was the catalyst to the tower getting a mind of its own."
+
+Sarah was now examining No Quarter. "That sounded like a lot of conjecture."
+
+"Yes, it was. But the genius loci is real, and it probably needs some human guidance. And the Wyrm is also one. Or used to be one. Detached from whatever place it was attached to before."
+
+"What place would cause something like that to exist?"
+
+"A planet that became a technocratic hellscape? I have no idea." I looked at the sword. Something about it seemed different. It had gained a faint aura of life force. Ominous.
+
+"You did catch that this is an evil weapon, right?" I asked.
+
+"Didn't you just tell me that you are trying to help out the ghost of the most fucked-up place in Wall Street? Yes, I caught that. But I don't think she had a choice in the matter. I won't blame the scorpion for trying to sting me. But I'll sure as hell pull my hand away when it does."
+
+That shut me up for a good second or two. So far I had felt pretty foolish for trying to take care of the hyenas or for dealing with the kobolds. But maybe I wasn't entirely alone in that approach.
+
+Anyway, this conversation also led to another hint.
+
+"Nemesis is not going all in on Wrath."
+
+"What's that supposed to mean?" Sarah asked.
+
+"The zoo. It's not… the resonance there isn't Wrath. Mammon aligned himself with Greed and picked the greediest place possible and assumed a greedy shape and name. All in on Greed. Nemesis picked a name that wasn't really about Wrath, picked a place that was more about dominance, control, and perverse curiosity—"
+
+"Hey, now."
+
+"Oh, right, you worked there. But it's right, isn't it? You might have loved those animals and cared for them. But the guests? Management? They didn't respect the animals. Their emotions left a wound on the world, or it wouldn't have become a profane space. If we are to trust the Blessing or our guides."
+
+Sarah put the sword aside, but not into her inventory. "I guess. I—we always told ourselves that our work had some value, you know? Jai was the only one of us who didn't work at the zoo, and his place became sanctified. I didn't like him, but he was full of compassion. Just that first night left him changed. And very angry at… everything."
+
+"That night—don't think any of us got through that without scars. That was his place where I found you? What was it?"
+
+"Clinic. He's a veterinarian. What did you do before all of this? What skills transferred into becoming a 'Hyena Matriarch' and 'Sin-Slayer'?"
+
+I tried running a hand through my hair only to snag on the horn again.
+
+"Hacker. Or hacktivist. Used to do that with Claire until about a year ago. Until we broke up."
+
+Sarah turned to face me. "You and the puppet mistress were an item? And, like, Anonymous-type super hackers?"
+
+"Yes, we were. An item that is. There is nothing like a super hacker. It's mostly people telling other people their passwords when asked for, holding open a door when someone carrying a box enters behind them, or reusing passwords."
+
+"Huh. And now she's the eyes and ears, so you can airdrop in and be a superhero? Why did you break up in the first place?"
+
+"That's not what we are. After yesterday, I didn't intend to work with her at all. Back then it was about… well, her being her. For her, there are no rules, and everything is justified by results. I found keyloggers on my devices. Tracking software on my phone. Presumably to ensure I didn't talk to the feds. And yesterday—" I paused when I saw the others approaching. "Yesterday she killed a teenager. He wanted to take me out. I wanted to save him. She chose a more final solution." I stood up. "Time for introductions."
+
+Sarah got up and held me by the arm. "Who knows about this?"
+
+I nodded over to the others. "All of the newcomers. We didn't have time to discuss what to do about it yet. Jai complicates that discussion, too."
+
+She shouldered No Quarter and fell in step next to me. "Shit. Yeah."
+
+Introductions were made, and we swiftly moved into the lobby of a building that used to belong to a larger medical complex. I left the talking to the others while I stood guard outside, watching over that looming jungle. With so many of us, this gathering was a high-value, high-risk target.
+
+Well, and there were far too many people in close proximity. Inside, I could hear every heartbeat, every shuffle, every breath, and every whisper.
+
+Outside, some of that was filtered out, and I could follow along with everyone through the chat transcription. At least Reynard stayed loyally by my side.
+
+Throughout the conversation, a couple of things became clear. Obviously Team Zoo, as our new friends were called, needed a new sanctified space. Anthony voiced confidence that he could get that done before noon.
+
+And the other issue was Jai.
+
+This issue, no one volunteered to solve by noon. But everyone agreed that it needed to be done soon.
+
+No one used the words 'kill,' 'assassinate,' or 'murder.' But the necessity was clear. This was what we'd all been warned about by our guides. Once you cross the threshold, there'd be no coming back.
+
+I don't know if that made it easier. I'd rather be able to make a mistake and fix it than to know that there was a point of no return—which you wouldn't see coming.
+
+Inaaya did not cry. She funneled all her emotions into fury. Which disqualified her from dealing with the Jai issue. However it was done, it couldn't be done in a way that served up the next of us for Nemesis' recruitment.
+
+Which I increasingly suspected all of this had been. If I was right, Nemesis either knew very well how we worked or had incredible strategic intuition.
+
+But the more I thought about it, the more certain I was that this hadn't been meant to kill us. At least not after I intervened.
+
+I had been let go, limping and humiliated. Obviously my paths now were to cower in fear or to return with a vengeance. Which was tautological foolishness. One didn't get vengeance on Nemesis.
+
+I'd need to find the third path. If only I had any idea what that would look like.
+
+After a while a chimera crawled out of the jungle's underbrush. It was some kind of antlered deer-lizard. This one didn't come hunting for prey. It was injured and limping, trying to escape the inevitable.
+
+["Brb,"] I wrote in chat. The talk inside briefly paused.
+
+In my own chimera shape, I made short work of the creature. Clawed my way through to its heart and ate it.
+
+Which confirmed three horrible suspicions.
+
+This shape had ruthless instincts. Its desire to kill was stronger than any shape I had embodied before.
+
+The first kill Task Completion didn't say 'Chimera'. It said 'Panther-Pangolin Chimera'.
+
+And eating the other chimera's heart offered me a new transformation.
+
+This jungle was suddenly such an enticing trap. I honestly couldn't tell if it was engineered to be this way or if it happened by accident.
+
+Endless experience. I just couldn't lose myself to the wrath aura.
+
+Step one for today: level Helene to twenty and discuss if she can't make something that makes me immune to the aura. Just a little emotional lobotomy.
+
+Good plan, Eve.

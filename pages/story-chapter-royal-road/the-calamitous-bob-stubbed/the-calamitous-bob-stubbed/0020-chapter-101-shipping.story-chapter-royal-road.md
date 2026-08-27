@@ -1,0 +1,443 @@
+---
+id: 0ca4de81-276c-5b94-8762-5d649917bb38
+page-type-slug: story-chapter-royal-road
+title: "Chapter 101. Shipping"
+slug: 0020-chapter-101-shipping
+partOf: the-calamitous-bob-stubbed
+position: 20
+ownLength: 5354
+unit: words
+ownProgress: 5354
+publishedAt: 2023-01-13
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1086677/chapter-101-shipping"
+royalRoadId: "1086677"
+markedReadAt: "2026-06-29T21:15:22.935Z"
+---
+
+Viv stood at the prow, letting the breeze coursing over Lake Hydon whip her hair back. The fresh air tasted particularly crisp after the fishy stench of the piers. The sun felt nice on her skin. It reminded her of walks by the sea in Nice when she was young, in April, before too many tourists glutted the sidewalks of the Promenade des Anglais. Even Arthur looked like a fat seagull as she dive-bombed fishes with a victorious screech. If one was generous.
+
+The outlander sighed. A break felt fine. She just had to stay out of the way of the sailors and enjoy the cruise aboard this ship. Although, to be fair, it was more a large river tug than a proud three-masts frigate. It ambled across the placid water with all the grace of a grazing cow.
+
+Viv stayed where she was for a good part of the morning, focused on shaping exercises and sight-seeing. Lake Hydon had a smattering of smaller islands dotting its calm surface. They came across more than one fishing boat, their occupants dragging nets up with efficient strength. Near noon, she was invited to eat lunch in the captain’s cabin. For all its bare-boned appearance, the ‘River Flower’ had a proper kitchen for warm meals and the food was rather pleasant. Her host introduced himself as master Leit. He was more merchant than skipper, preferring to leave the technical details to his first mate. Contrary to most men she had met around Losserec, Master Leit was clean shaven with a softer touch and a softer voice as well.
+
+“The river feeds many cities. A man who knows each and what they desire can make good money upon their shores. My father retired a rich man! Didn’t give me anything though, just this ship. By the way, I wanted to take the time to thank you for getting out of the way of the crew. Much appreciated. You would not believe what some of our passengers have demanded an hour into the trip. Why, I remember a baroness ordering us to stop the boat from bobbing so much.”
+
+“I’ve been on a ship before. I understand that the departure can be a busy time.”
+
+“Yes, I could tell right away that you were a woman of the world. May I inquire about your business in Helock? If it is not too rude to ask.”
+
+“I was hoping to attend the academy.”
+
+“A mage!”
+
+His reaction surprised Viv. She had not cast any spells and her shaping had remained discrete but surely someone who worked as a merchant would have a focus over twenty, if only just by doing accountancy stuff? She remembered that stats and skills were considered private and asking about them the universal social faux-pas, though if it was obvious…
+
+“You didn’t know?” she hazarded.
+
+“Oh, the office expects discretion from us transporters of goods and people. And using inspect on someone can be considered unfriendly, especially since talented mages tend to realize it.”
+
+He smiled indulgently.
+
+“I hope you are successful. I know the academy has stringent acceptance rules, yet I often heard that anyone determined enough could eventually enter, if only for a few classes. I have a cousin who took defensive warding courses there. In the evening, after work! He was so proud too.”
+
+“By the way,” Viv suddenly remembered, “we have another passenger, right?”
+
+The merchant’s expression turned carefully neutral.
+
+“Why yes, though he is… unwell for now. I will ask if he would care to join us tonight, though he might decline, and I am afraid we will have to observe the boundaries he will have set.”
+
+“That is fine, I understand wanting to be left alone.”
+
+Captain Leite appeared relieved and excused himself soon after. On her way to pick up soap from her cabin, Viv picked up a quick aura flare from behind the door, from the mysterious stranger. The polite thing was to reply, probably, so she flared in return. When no more reaction happened, she kept going.
+
+There were expertly made wards on the door, she realized on the way back. They were not the showy kind. Interestingly, they all used colorless mana, which made them harder to weave but also more difficult to perceive. An interesting choice. Back on the deck, Viv busied herself cleaning the smell of dead fish from Arthur’s talons under the crew’s flabbergasted gaze. The fact that it tickled made the exercise dangerous, but that was the price of hygiene and proper education for you. The little hooligan was resisting her effort, squealing piteously.
+
+Mother.
+
+Whyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy?
+
+“Young lady, you are not stinking up our cabin with the stench of old kills. So stop fussing.”
+
+Arthur spent an hour sulking after this sudden but inevitable betrayal.
+
+Towards the evening, the tug left the lake behind and floated into a river that was just as wide and slow. Viv learned that there would always be a pilot at the helm, and that they alternated in shifts of a third of a day. Higher stats made those men more attentive. Nevertheless, the risk of getting grounded remained real.
+
+“Are there monsters around?” Viv asked.
+
+“Nothing that would endanger us so long as we stay away from the shores. All the river beasts were hunted down long ago. Sometimes, snakes and the like reach a critical size, then one of the duchies sends a hunting squad. The waterways are too vital for transport to let monsters go through. The main risk is bandits.”
+
+“There are bandits?” Viv asked, suddenly concerned.
+
+“Rarely. Some towns ask for a toll and those who skimp or dodge can meet some unfortunate accidents, if you catch my meaning. I’ve never been bothered though. I’m part of a guild. We negotiate our dues and take measures long before it becomes a problem. You have nothing to worry about.”
+
+“Right.”
+
+“Oh, and I have good news. Our other guest will be joining us tonight. He asked about you after learning of the presence of a fellow caster. Of course, I extended the same courtesy to you as I did to him, so he knows little. I will be happy to introduce the two of you and do away with the mystery.”
+
+“Fair enough.”
+
+Viv joined the captain in his cabin for dinner. He had a small table nailed to the floor, the location cramped but not overly so. A man was already waiting for Viv.
+
+Many things could be said about the stranger, but Viv’s first impression was that he had picked a fight with a wood chipper and lost. Badly. A robe covered most of his body, yet did little to hide the marks on what little skin he revealed. A glove covered his left hand while his right was devoid of fingers. A great scar marred one of his chiseled cheeks while a band covered his left eye. Deep wounds had left bald patches in his wavy dark hair. A cane leaned casually against his chair, hinting at hidden lesions. Despite his poor state, he sat with flawless poise while his keen, lone eye studied Viv with the same attention she had given him. They both refrained from inspecting, for now.
+
+“Good evening,” Viv greeted neutrally.
+
+“And to you too. You will forgive me if I do not stand. I fear good manners were the first casualty of my circumstances.”
+
+His voice was smooth and cultured, with a light lilt Viv could not quite place. The scars on his dark brown skin looked rather recent now she had a closer look. The second most interesting part was his aura, which was the most controlled Viv had ever felt. Even Varska had not been quite so composed. The stranger emitted the barest amount of mana and all of it was colorless. Viv was certain that if he did not want to be felt, she would not feel him. The level of mastery required to achieve such control spoke of more than mere skill. The unknown mage had worked hard to achieve it.
+
+The most interesting part was that he was really handsome in an Arabian knight kind of way, despite the scars. They would probably make him look more virile after they faded from ‘angry and recent’ to ‘good story’.
+
+“Viviane,” she introduced herself.
+
+The man was about to reply with a pleasant smile when he stopped, hesitant.
+
+“The honored guest goes by Mr. White for now. I would like to state that the guild made a background check and that you two are both, ah, persons of interest to some parties, but those parties are completely different and we are confident you have no previous ties. I was not told details, of course, only that there should be no issues.”
+
+He served himself a glass of sweet wine and took a gulp.
+
+“If, however, it so happens that you two are at odds, I am willing to drop you at the port of  your preference, so long as it is on the way, and reimburse you in full for the trip. Any attempt on the life of another passenger will be met with the appropriate measures by the guild.”
+
+Viv raised a brow at the now distinctively nervous merchant.
+
+“They hire assassins,” Mr. White helpfully explained.
+
+“Oh. Well, there is nobody alive I have a grudge against right now, if that helps,” Viv said.
+
+“My enmity is with Glastia and its agents. Even then, I would happily keep a truce for the duration of the journey.”
+
+Viv quickly remembered Glastia, a northern city at the edge of the jungle. It was the one the merls had defended against the endless beastling horde.
+
+“Wow, seems like Glastia has created a lot of grudges,” she observed.
+
+“My dearest motherland tends to use and discard the people who love her, I’m afraid. You know the saying. A child rejected by the town will burn it down to feel its warmth.”
+
+He shrugged.
+
+“I fear I may have indulged.”
+
+That was just too many hints for Viv.
+
+“You know what would be crazy?” she asked no one in particular. “Really crazy. Insane. What would be crazy is if you knew Sidjin.”
+
+The man froze. His aura coalesced while the temperature seemed to drop. Viv’s danger sense woke up, though it did not scream quite yet.
+
+“Hoooooly shit you’re him aren’t you? Wow, just wow, that’s, well, I suppose I should have expected something like that.”
+
+This was just like the spark of luck to make something so unlikely happen.
+
+Sidjin, the man who had saved the merls from extinction.
+
+Through teleportation magic.
+
+“Can we talk in private? Sorry, it’s sensitive and important,” Viv asked the captain, who retired graciously and without a word.
+
+Mr White, or Sidjin, was looking at Viv with suspicion. Viv was sure he was a finger away from pulping her on the ceiling so she made to explain quickly.
+
+“Listen, I was lost in the Deadshield Woods until a couple of weeks ago and I met the merls there. The ones you saved. They talked about you.”
+
+The pressure in the room doubled. Sidjin gripped the table with his good hand, fingers clenching with enough strength to make the wood crack. Slowly, painfully, he stood up to his full height. He topped Viv by half a head.
+
+“This better not be a joke,” he growled.
+
+“I swear it’s the truth. They’re led by Tweek, the last of their shamans. At least for now since there is a new generation growing up. Small guy, a bit old. Loves theater. They named their city ‘Sikoua’. That means —”
+
+“— peace at last,” Sidjin finished.
+
+He fell back in his chair like a toppled tree, swaying back and forth. Viv realized he was crying, sobbing silently with great heaves that shook his entire frame under the cumbersome robe. He tried to speak, but choked.
+
+Viv felt a little bit awkward. She made to tap his gloved hand in what she hoped was a comforting gesture, but Sidjin removed the covered appendage with a hiss of anger.
+
+“Sorry! Didn’t mean to.”
+
+“No!” he interrupted. “No. You are not to blame. I apologize for the unfortunate reflexes. Just…”
+
+He choked again, then chuckled. The strangled sound turned into a full belly laughter.
+
+“They made it. By all the light gods, they made it, the insane bastards. They’re alive. It worked. Enttiku save my soul, it worked. Gods. You have no idea.”
+
+He breathed a few times to calm down, then made to stand but forfeited with a wince of pain. Instead, he pointed at a cupboard screwed to a wall. Viv got his meaning immediately and fetched the bottle of strong booze. She topped his glass.
+
+“If you would… thank you. I thought I had it. I was sure it had worked. I could see the trees on the other side, despite the pain and the fear, but there was always this little seed of doubt that haunted my fever dreams. Made me wake up in a sweat more often than the torture ever did. What if? What if I messed up and sent them into a death trap? Back in the jungle, surrounded by death and teeth? But they made it. They are fine. They are fine, right?”
+
+“They seem to have adapted. They have those hanging gardens, with fruits hanging from there. Bird nests.”
+
+“Yes. Yes, to protect them from a majority of insects, the bane of the jungle.”
+
+“They have a statue of you. Didn’t sculpt the face though.”
+
+“Perhaps for the best,” the disfigured man joked, brows jumping in self-deprecation.
+
+“I don’t know. You’re not too bad in a rakish sort of way,” she shamelessly replied.
+
+“Flattery will lead you nowhere,” he replied, then coughed a bit. He gulped more alcohol and Viv gave him a refill without prompt. It looked like it was going to be a long night.
+
+“I fear my impressive physique was also a victim of that little stunt, so a rakish face is the most I can manage at that point. Still, thank you. I just wish they had not chosen a statue. I always found having a statue of oneself while still alive to be the height of grandiose arrogance.”
+
+“Difficult to get your likeness when you’re dead, though.”
+
+“And that is why, dear Vivane, you must hire a good portraitist, who will show you to your advantage. With a little financial incentive, they might even be convinced to show you to a great advantage.”
+
+“I’m not sure if I would care after I’m dead.”
+
+“A fair point. And though I am already extremely grateful for the news, I would ask that we continue this conversation with a proper split of the roles: you talk, I drink.”
+
+“That doesn’t sound very fair.”
+
+“I’ll make it up to you.”
+
+“I want to hear about teleportation,” Viv immediately replied.
+
+Sidjin seemed to close on himself.
+
+“So does everyone, these days.”
+
+“I’m an outlander. I was sent here against my will. I don’t even know if my friends are alive, I don’t even know what happened to my original body. I don’t know if I died. I don’t know what my parents are thinking. I want to hear about teleportation.”
+
+Sidjin nodded slowly, his lone eye boring into Viv’s with singular focus.
+
+“You will hear about teleportation.”
+
+“Okay. So, here is what I saw.”
+
+Viv recounted her tale, sometimes stopping to refill Sidjin’s glass. The mage stopped drinking after a while, apparently suitably buzzed. He asked questions about people besides Tweek, but Viv had not been introduced to the other leaders. He was pleased that they thrived.
+
+“The jungles are much warmer than the Deadshield Woods, especially in winter. I’m glad to see they adapted,” he explained. “The merls are, well, their population can bounce back pretty fast. They just had so many dead. You cannot imagine the bloodbath the walls were. Day after day.”
+
+“I’m sorry, it must have been hell. Speaking of, everyone thinks you’re dead!”
+
+“I wish they’d been correct.”
+
+He sighed deeply. His face was still flush with alcohol. He shrugged.
+
+“I am sauced enough to talk about it, I guess. Never thought I’d share with someone I have just met.”
+
+“We’ve been talking for half of the night already.”
+
+“Half of my life should not be enough. This booze is deceptively strong. Ah, who cares? On the night of the ritual, I murdered the city’s quartermaster.”
+
+“Ah.”
+
+Viv wasn’t sure where this was headed. Given how it’d started, she thought it best to shut up and let the man spill. He obviously had a lot on his mind.
+
+“Glastia’s standing policy was that the merls were expandable forces who would hold the line for as long as feasible. The council intended to milk them to the last drop, then quietly dispose of the survivors. The quartermaster was at the forefront of this policy. It was his cousin who cast a destruction spell on the segment of wall Siul defended. He was the leader of the merls, and my friend. I murdered the quartermaster and used a convoy of carriages to carry supplies to the lower city. I also picked the most corrupted guardhouse on the path and executed them to the last man. The ritual took place near the merl’s main habitation center, during the night. The guard found me at dawn while the last of the merls went through. The beastlings found the segment of walls undefended and poured through the opening. Hundreds of soldiers died over the following two weeks to stem the flow. I have the blood of my fellow citizens on my hands. The council knew this. They threw me to the scalehounds.”
+
+His gaze grew distant.
+
+“I expected to die by public execution, but I underestimated the city’s most powerful motivator.”
+
+“Greed?”
+
+“Pride. What do you know of teleportation technology?”
+
+“I know it can be done and that it’s excessively difficult.”
+
+“The last mage who could do so reliably was Celerin Crest, a member of Nero Oleander’s group. Have you heard of them?”
+
+“No.”
+
+“Oleander was a traveler like you, who disappeared in the Shadowlands decades ago. He might still be alive, for all we know.”
+
+“Did he ever lead an expedition into the Deadlands?”
+
+“Yes, he did. Right to the base of the Imperial Ziggurat, or so he claimed.”
+
+“Damn.”
+
+It was their teleportation circle Viv had found near the camp, back in Harrak during her first night here.
+
+“Crest was a mage of great knowledge who specialized in helpful spells. Her teleportation was actually a skill. I was able to observe the spent circles in several locations as well as her notes, and divine a way to reproduce the skill using colorless mana. It is… very intensive, to say the least. But…”
+
+“Sustainable?”
+
+“Precisely. Not only could archmages cast it, it could also be enchanted on surfaces for normal mages to use. Theoretically…” he finished with a ghastly grin.
+
+“But I overloaded the spell frame after closing the portal.”
+
+“Only you had the knowledge.”
+
+“They could not afford to kill me. It was my mistake. I destroyed the circle to prevent my countrymen from following the merl, not expecting to be spared for my terrible offenses. Only, I was, after a fashion. The noble families who had lost their children took their pound of flesh, then council agents retrieved my notes and demanded explanations. I provided them.”
+
+He glared at Viv, perhaps expecting a comment. Viv kept silent.
+
+“They have struggled to conceptualize space, a requirement to cast the spell. But we can discuss technicality later. They kept me alive because they could not understand the notes without my help. Then the project stalled. Other priorities took over, and I was forgotten.”
+
+“Seriously?” Viv asked.
+
+“You would be surprised how much is lost to administrative inertia.”
+
+“Oh no this I can believe, but grudges?”
+
+“One among many. My demise was no longer considered a priority until one of the youngest princes needed an extra mage for a… shall we say confidential mission of his. I was released after completing it.”
+
+“Really?” Viv asked with some disbelief.
+
+“Oh, it was nothing simple. The youngling tried to betray me but he changed his tune when I activated fragmentation runes on everyone else’s backpack.”
+
+“It sounds like a messy affair.”
+
+“I believe the proper term would be ‘chunky’ in this specific context. In any case, freedom was mine at last. I moved south and worked in secret. I spent most of my time and earnings to repair that wreck of a mortal coil I was left with. This, for example...”
+
+He moved his glove hands.
+
+“... mimics the effect of tendons, of which I was deprived.”
+
+“I don’t know how you can not be filled with rage.”
+
+“There wouldn’t be enough room for that much hatred in a single person’s soul.”
+
+Viv frowned, suddenly remembering the world in which she was.
+
+“I received whispered promises, if that is what you were wondering. From all three. I had to decline. My days of serving the undeserving are over.”
+
+“Understandable. Any long term plans?”
+
+“Trying to live in this body is a long-term plan. What about you? If I may ask.”
+
+Viv decided to keep her offer for later, when the two of them wouldn’t be sloshed. She had regeneration, he had teleportation. They were made for each other. In theory.
+
+It wouldn’t hurt to open up to him a little bit and increase their mutual trust. He seemed as desperate for social interaction as she had been during her first meeting with Varska, spilling everything in an emotional meltdown. Despite his aloof airs, she could tell he’d been through hell and back. His homeland was lost to him as well, perhaps forever. They had much in common.
+
+So Viv began to talk with a sleepy returning Arthur on her lap. She didn’t share too much about Solfis’ ability or some of the less reputable things she had done, but she shared enough to get a few comments on magic. The man appeared… driven.
+
+“You’ll have to demonstrate some of those instinctive spells tomorrow. There is much I can teach you about colorless mana as well. You must study it rigorously, as it will compensate for most of your weaknesses. Combat is merely one aspect of what a proficient caster can accomplish.”
+
+His face turned red.
+
+“I believe I have drunk enough for tonight, we can… owwww.”
+
+Viv had to help Sidjin stand up and return to his cabin, for which he apologized profusely. He was… very light. Too light for a man his size, which made Viv concerned. The two had clicked. It was rare when it happened. And he had suffered, and was still suffering, and that was not fine. Unacceptable. Viv decided that she would help him. Mention it in the morning.
+
+Morning turned out to be mid-morning, since the captain’s booze was a sneakier hitter than she had expected. She apologized to the man for the secrecy, though the canny merchant had not taken umbrage.
+
+“I was more worried that you two would not get along,” he explained with a smile.
+
+“You did take a risk,” Viv conceded.
+
+“A minor one. The likelihood you knew each other was very low according to what I found out. And war casters who live long enough to deserve the title tend to have common sense, thus realizing starting a magical duel in the middle of the river might be unwise.”
+
+“True. Speaking of, can I ask how you found out who I was or is it a guild thing?”
+
+“Both. Losserec has some of the best spies in Param. As valued partners, we can request some, ah, reinsurance. If a ship is lost, the economy is weakened. If it is weakened, Losserec is weakened. You are well known to them.”
+
+Viv thought she was lucky they had not decided to dispose of her, but remembered that Solfis was a major deterrent when it came to assassins. Of course, he was a poor bodyguard because of design limitations, but spies did not know that.
+
+“So yes, it was surprising that you would request some privacy, but I do not begrudge you  my cabin this time. Mage business can take strange turns.”
+
+“We’ll be sure not to exile you again. Oh, I assume casting aboard is not a problem?”
+
+“So long as you do not endanger us or interfere with the crew, you can do as you wish,” the man replied.
+
+As agreed with Sidjin, Viv and he regrouped on the deck in the morning, with the mage clearly excited by the thought of talking shop.
+
+“Emulation leads to progress more surely than isolated studies. It is good to meet another passionate practitioner. Why don’t you show me what that black mana of yours can do?”“See that stone?” Viv asked, pointing a finger at the shore.
+
+“Which o —”
+
+Before he was done, Viv wordlessly cast a quick blast spell, the smallest artillery she could manage. It whipped out of her hand with the tell-tale hiss and lashed a car-sized boulder, leaving behind a clear cut.
+
+Sowly, the upper half of the boulder slid forward and crashed on the mud below.
+
+On the deck of ‘River Flower’, the crew froze in place.
+
+Sidjin didn’t speak. He moved his gloved fingers in a complex pattern, then the air in front of him shimmered and grew opaque. Viv realized what was going on. The man had turned the air into a pair of lenses.
+
+With transparent mana.
+
+They moved in concert until Sidjin was satisfied. Viv wondered how good the lense was but she would have to get close to the man and he clearly valued his personal space. Sidjin hummed and turned to her.
+
+“I wanted to see the damage from up close. The surface is so smooth it could have been done by a talented blademaster.  I have to say that I had never seen such localized destructive potential with a fast spell before. You must be quite deadly in direct confrontation from mage to mage, or to take down dangerous targets.”
+
+“Yes.”
+
+“But your utility must suffer.”
+
+“And flexibility,” Viv admitted.
+
+“How is your… colorless magic?” he asked.
+
+“I can block sound, make simple shields, find the north… Hm.”
+
+“What about fire?”
+
+“You can make fire with colorless mana?”
+
+“You can make anything with colorless mana, though it is usually terribly inefficient. Observe.”
+
+Sidjin lifted an arm and a series of circles and glyphs appeared around it. They were almost transparent and felt more blockish and regular than her own, like computer Arial to her cursive. For all its apparent rigidity, the spell shot out a series of smoldering red marbles with vicious elegance. They landed on the nearest muddy beach. Each ball expanded and exploded with a loud bang, sending soil and torched stones in the air. A wave of hot air made the sails flutter. Sidjin had essentially carpet-bombed the place, leaving only dried out, smoldering craters.
+
+“I would normally pair the spell with red mana for the sake of efficiency. This is merely a proof of concept. I dislike the term colorless and prefer the term arcane. Arcane magic is the most complex and versatile school there is. It is also the most underused.”
+
+He leaned against the railing. The casual gesture led to the crew working again. The two casters had offered quite the distraction.
+
+“Please do not take my words as the ramblings of an obsessed man. Attunement leads mages to understand a specific dye, and then they cast with the world, not against it. It is simply easier and more efficient to cast within a color one understands, and most casters are nothing if not pragmatic. Aspected mana is even more potent. Colorless mana, however, can do everything or reproduce near everything.”
+
+He considered his next words in silence.
+
+“I could expand on the limits both innate and forced by a lack of proper research, but it would take us the whole afternoon.”
+
+“We can always talk about it over dinner,” Vuv suggested.
+
+Sidjin blinked.
+
+“Why yes, we can certainly do that.”
+
+“Let’s drink less, though.”
+
+Sidjin chuckled, then it turned into a full-belly laugh, and then into a cough, but he didn’t seem to mind.
+
+“Ah, normalcy. A thoroughly underrated feeling.”
+
+Viv could relate.
+
+“Oh, by the way, do you believe instinctive casters could become proficient at colorless mana?”
+
+“Can you not already use it?” Sidjin replied, but then he reconsidered her words.
+
+“Hm, my apologies, I forget that you are very new at this. Instinctive casters do not just understand aspects naturally, but also runes. You, ah, resonate with them. Therefore, yes you can cast colorless spells as well as any mages. Or rather, you will with enough practice. Are you going to Helock to attend the academy?”
+
+“Yes. You?”
+
+“I am going but not to attend, but to take back control of my research. I understand that someone wrote a thesis claiming to be, and I quote ‘on the verge of success’ of teleportation. Using my notes, no doubt.  I intend to set the record straight on top of getting as much medical help as possible. You should definitely take a minor in arcane magic. Or even a major, since I doubt there are more than a handful of caster with a better command of black mana. I would love to teach you.”
+
+“And I’d love to learn. Regarding medical help, well, let’s talk in private.”
+
+Sidjin was intrigued, but he didn’t protest. It took longer than usual for them to walk to her personal quarter and by then, he was clearly tired.
+
+“It’s probably not well-known yet, but I designed a way to regrow limbs.”
+
+“What?” the mage exclaimed. “How?”
+
+“Using black mana aspected to change magically charged monster flesh, and a church healer.”
+
+He opened and closed his mouth a few times.
+
+“And it works?”
+
+“Yes. It has worked many times.”
+
+Sidjin looked shocked.
+
+“Look, I’ll do it for you, so long as we get a couple of days and a priest. In return, I’d want you to teach me how to make a teleportation circle and use it. And if I can’t then maybe you could help?”
+
+“Help with what? I do not believe I can send you home. It would require understanding how to cross boundaries between worlds!”
+
+“Not that. My people…”
+
+Viv stopped at that. When had she started to see the Harrakans as her people? They were, though. She felt responsible for them.
+
+“My people need to reclaim more of the deadlands. Make way for new arrivals and expand, create a buffer to protect themselves against the next horde. So far, all of those who’ve wanted to fight back have always faced a major issue: the black mana saturation. It limits travel. But if we can teleport…”
+
+“I understand the strategic advantage it would provide, believe me.”
+
+“Not just the military aspect. We could do the most important thing: reclaim a real city, with walls already in place, ready to be repaired. We could cherry pick the best spots for colonization and carry troops from one city to another to hold off major attacks. It would be a complete game changer.”
+
+Viv felt her leadership flare, the skill instinctively brought forward by her enthusiasm. She could have pulled it back if she wished, but Sidjin didn’t seem to mind. He also had social skills of his own, she felt.
+
+“Look, if teleportation is set to develop soon, then pushing back the deadlands is not a bad way to start, even if it’s not the most lucrative pick.”
+
+“And possibly one of the most dangerous,” Sidjin says. “But I have spent a lot of time helping civilisation stand against mindless savagery, and I do not intend to stop. You will cure me even if I do not manage to teach you?”“Yes,” Viv said, sensing Sidjin would value an open hand.
+
+“In fact, we’ll do that first, as I said.”
+
+“Then yes, I will teach you what I know.”

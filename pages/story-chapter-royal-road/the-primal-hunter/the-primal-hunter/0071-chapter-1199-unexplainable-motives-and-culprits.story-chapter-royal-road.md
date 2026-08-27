@@ -1,0 +1,151 @@
+---
+id: d97f46ba-96f0-53b6-9269-682f29b0d2ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1199 - Unexplainable Motives & Culprits"
+slug: 0071-chapter-1199-unexplainable-motives-and-culprits
+partOf: the-primal-hunter
+position: 71
+ownLength: 2842
+unit: words
+ownProgress: 2842
+publishedAt: 2025-11-11
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2752049/chapter-1199-unexplainable-motives-culprits"
+royalRoadId: "2752049"
+markedReadAt: "2026-06-29T19:31:30.907Z"
+---
+
+“Do you actually think any of them are involved?” Villy asked Aeon, who had already summoned a big mug and a coffee pot to pour himself and the Sword Saint a drink while waiting. The old man didn’t look like he was entirely quite there yet, and it probably hadn’t helped to be teleported so suddenly.
+
+“Hm? No, why would they be?” Aeon asked, shaking his head. “I only called them here to see if they have any input, as I presume they also want to understand what’s happening.”
+
+Nature’s Attendant looked at the Viper as he seemed to be in thought for a while before speaking. “Say… I know that you, Eversmile, and your Chosen have had some dealings in the past, not all of which have been amicable. Do you see a world where he’s involved?”
+
+The Malefic Viper thought for a second before shaking his head. “None of this seems like Eversmile. Then again, if Eversmile did ever do something like this, he would ensure it would appear as if he wasn’t involved. Ultimately, no, I can’t imagine him having anything to do with this… my primary reason being that he would have shown up himself and I doubt Jake would have escaped.”
+
+“Sylphie mentioned that the Holy Church and Rigoria are being real meanies. Do you think one of those two suddenly lost their minds?” Stormild asked, not sounding like she actually thought any of them were involved.
+
+“Heh, no way. I’m not saying they aren’t capable of having nurtured and hidden gods away from the rest of the multiverse, but that neither of them is dumb enough to try something like this,” Villy shook his head. “Which kind of gets to the crux of the issue… I don’t know to whom any of this could be worth it. Unless they know something I don’t, there’s no reason to take such a massive risk just to kidnap Jake.”
+
+“It’s entirely possible their goal was not just to kidnap the Chosen but to kill his escort and companions in the process,” Aeon said as he took a sip from his cup. “Doing so would have ended the lives of two people carrying Divine Blessings of Primordials, the favored granddaughter of Nature’s Attendant, and the newest Godqueen of the Pantheon of Life. Additionally, seeing as the Pantheon of Life had taken responsibility for the escort job, a disaster of this level would certainly have ruined any sort of friendship between the Order of the Malefic Viper and the Pantheon of Life.”
+
+“That’s… a good point,” Nature’s Attendant muttered with a frown.
+
+“Going by the historic actions of Vilas, it’s even likely they expected him to act out revenge on those he believed responsible. If the presumed-dead member of the Holy Church was the only one left behind and blew themselves up using the holy concept, all clues would have pointed toward them being responsible,” Aeon continued spinning his theory of the enemy’s goals.
+
+“If that was the case, why wouldn’t they still have left this one god behind to take the blame?” a familiar woman spoke, as a fresh voice joined the others, a cascade of holy light invading the void. “These would-be kidnappers were operating under the assumption that no one could have identified them, so blowing up one of their members to blame my Church would be reasonable if their desire was indeed to lay blame on me.”
+
+The Holy Mother had made her entrance after being contacted by Aeon earlier. Based on how fast she’d gotten there, this entire event clearly matters to her a lot.
+
+“Not necessarily,” Aeon shook his head. “As you said, they were operating under the assumption that none of them had been identified. With that in mind, it makes sense for them to reveal nothing, leaving us to wonder and make false assumptions all on our own. It’s only due to the Chosen we have at least some insight to operate from.”
+
+“As I said just before you got here, I don’t think any of us think you’re involved,” the Malefic Viper said to the leader of the Holy Church.
+
+“I didn’t assume you did,” the Holy Mother said, looking more annoyed than anything. “It’s been three dozen eras since that god had been a member of the Holy Church. He disappeared as part of an expedition, and we did indeed assume he was dead, as none returned.”
+
+“The story seems the same as all the others,” the Viper sighed. “It’s not even as if they disappeared in the same way, either. That demon from the Seventh Hell went missing while inside the Mycotic Depths, as far as I remember.”
+
+At this point, Jake was pretty much just a fly on the wall. He had provided the information he had, and it seemed that the gods barely registered him as they spoke among themselves. Not that Jake was complaining; in fact, it was kind of nice.
+
+Oras also didn’t seem involved. His presence lingered in the void, watching and listening, but with no desire to join. The Sword Saint seemed to have regained his bearings by now and exchanged some telepathic messages with his Patron, going by how the two shared a few glances.
+
+“The Oakspear Monarch disappeared while exploring the forty-second universe, so no relations to World Wonders unless he happened to somehow stumble upon one,” another newcomer said as a woman’s voice echoed throughout the void. However, she hadn’t arrived alone as the void was split open, and out walked a man resting an axe on his shoulder and a woman wearing a fur coat.
+
+“Gudrun, glad to see Valdemar was smart enough to bring you along,” Villy said with a smile as he turned to look at the two.
+
+“This matter concerns all of Valhal,” Gudrun said in a serious voice as she turned to Artemis. “Could you tell me how he fought with you? I wish to confirm it was truly him and not merely someone borrowing his visage.”
+
+“Of course,” Artemis said, sounding a bit nervous as she was shaken out of her comfortable fly-on-the-wall state. “He did indeed wield a spear and…”
+
+She proceeded to give a brief overview of how the god fought, and the more she spoke, the more the other gods also seemed to realize something Jake hadn’t even considered.
+
+Gudrun also frowned, as Valdemar was the one to talk, his voice sounding like a mix between disappointment and confusion. “He didn’t use any of his proper skills.”
+
+“I believed they were all trying to conserve power as much as possible,” Artemis confessed. “If not, I’m uncertain I would have been able to hold on, at least not without forcing myself into a state of suffering long-term damage.”
+
+When Jake thought about it, wasn’t it kind of weird that Artemis had managed to hold on as well as she did? She had fought five gods, three of them at Godking or above, while she herself was only a newly evolved Godqueen. By all accounts, those who had been in that realm for longer should have been stronger, not to mention the one surpassing it. Even the two at the Ninth Circle were legitimate threats, as the gap between them and a newly evolved Godqueen wasn’t that significant.
+
+“How about the other gods? How did they act?” Gudrun continued asking, making Artemis continue to provide whatever information she had.
+
+From this, it became clear that they had all seemed like they were half-arsing it. Meanwhile, the one who was there as an avatar had avoided using any skills that could have given away what kind of affinity he specialized in, striking primarily with attacks most gods could pull off.
+
+This only added more confusion, as why would the gods hold back so much? Did they not want to kill Artemis? Use her against Jake? No, that didn’t make much sense either, as if that was the plan. Why would they have attacked her with an order to kill in the first place?
+
+“Hm,” Gudrun said, considering everything Artemis had said. “Is it possible he wasn’t capable of doing more than what Artemis saw?”
+
+Villy frowned, motioning for her to explain.
+
+“The Oakspear Monarch was many things, but a coward wasn’t one of them. He was an honorable warrior with a strong creed,” Gudrun explained as Valdemar took over.
+
+“No way he would have joined an ambush on a C-grade!” Valdemar said, clearly finding the very notion disgusting. “Also! With his talent, he definitely would not still have been stuck in the Ninth Circle now.”
+
+“What are you implying?” the Holy Mother asked, though it seemed like she already knew and just wanted it to be spoken out loud.
+
+“That it wasn’t the Oakspear Monarch… not truly,” Gudrun shook her head.
+
+“Some kind of reanimation?” Aeon questioned.
+
+“Or mental manipulation at an unprecedented level,” Gudrun shook her head. “I’m not claiming I have an answer, just that we need to consider something in that vein. For someone’s personality to change so drastically and for four gods to willingly end their own existence doesn’t make much sense. In what world would Bolomund, the independent Godking who refused to join any factions, suddenly decide to join up with these people and become loyal to the level where he’ll willingly end his own life at their command?”
+
+Jake listened carefully and considered what she implied. He also had a hard time seeing what was going on, given the limited context he received, which only made him even more confused. For mental manipulation to be behind it would indeed truly be unprecedented.
+
+To clarify, something like mind control wasn’t a thing in the system. The mind was sacred, meaning there was no way to extract or forcefully view specific memories, nor could one directly manipulate someone to do one's bidding. All one could do was momentarily mess with the senses, including the sense of reality of another person, but it was always brief and required a constant use of energy to sustain. What’s more, mental manipulation was more like suggestion than anything else, and making someone kill themselves was not an option. Especially not when dealing with a god.
+
+The only kind of mental manipulation that worked long-term was the more classical form of manipulation. One could make someone believe something false and slowly convince them over a long period of time, but in that instance, the magical mental manipulation was just there to help with the mundane mental fuckery. Even with this far more time-consuming process, making another person change entirely was borderline impossible, especially when dealing with a god.
+
+Becoming a god in the first place required one to have an extremely strong sense of self, and to realize one’s Path, one had to know oneself. Trying to change the personality of a god was like trying to convince someone on the internet of an opinion that differed from their own; in other words, an endeavor that always ended up just wasting the time of everyone involved.
+
+That’s why if one wanted to mentally mess with someone, it was best done when they were young or in a state of being easily influenced. Such as when they were children or still very young. William was a good example of someone being mentally messed up through good old lying, gaslighting, and misinformation, but he was also a good example of what happened when someone realized the deceit and told their manipulator to go fuck themselves.
+
+However, there was one potential way to far more directly control the mentality of someone… one that circumvented the usual rules of the system.
+
+“So, either someone with an incredibly powerful unknown Bloodline or a Transcendent… assuming the explanation isn’t something entirely different from their personalities experiencing an extreme shift,” the Malefic Viper commented after the gods had discussed the matter a little more and reached the same conclusion as Jake.
+
+The void fell silent once more before Nature’s Attendant looked at Aeon. “Are more gods coming?”
+
+“I don’t believe so,” Aeon shook his head. “I didn’t reach out to the Wyrmgod, Titan, Rigoria, Eversmile, or Daofather as I saw no need to, considering I don’t see how they’re involved. Inmortau did answer and make it clear he had no interest, though I believe he would like an update once we’re done here.”
+
+“He can come ask us if he wants to know anything, if he’s too lazy to show up,” the Viper shook his head. “So, does anyone here have any further insight? Because I have no fucking idea who’s behind this.”
+
+“An unknown faction,” Gudrun said with a high level of certainty as she looked at the Viper. “It’s entirely possible this faction may even be related to Yip of Yore.”
+
+“Well, they do like sending gods to their deaths,” Villy muttered. “Now the question just is… why now? This faction must have been hidden for several eras, going by the missing gods, so why show themselves now? Why expose yourself in such a manner? Sure, they want Jake’s abilities as a Harbinger of Primeval Origins and maybe to start a conflict between Primordials, but that answer doesn’t feel right.”
+
+“Maybe this isn’t the first time they’ve shown themselves,” the Holy Mother added. “Maybe it’s just the first time they acted against a C-grade, truly catching our attention. A C-grade that could even see through a few of them. If all their previous attacks had succeeded and they hadn’t left any evidence behind, they could have remained undiscovered, especially if they primarily operated in open space or inside other dimensions, such as World Wonders.”
+
+“Potentially,” Gudrun said, unable to entirely dismiss the idea. “Though even if that is the case, their actions must have been few and far between not to have been discovered before now.”
+
+“Naturally,” the Holy Mother agreed. “Do allow me to reiterate that I find this entire situation highly unsettling. For a faction like this to exist is a threat to all of us and not something we can ignore.”
+
+“Duh,” Stormild said something for the first time in a while. “Anyone unhinged enough to do something this is a threat.”
+
+“Indeed,” the Holy Mother nodded. “I propose that we enact an agreement to freely share information about this unknown group whenever we obtain it. Let’s make it clear that unless they are willing to enter the light, they face a united front.”
+
+“I have no problems with that,” Aeon said, easily agreeing to something like that, probably because he didn’t even have a faction to care about or to gather information for him.
+
+“The Pantheon of Life will agree,” Nature’s Attendant nodded. “Though I would add the stipulation that anything that happened here today is to be kept an absolute secret from everyone besides those involved. We don’t want panic to spread, so let’s keep things under wraps for now.”
+
+“That’s definitely for the best,” Gudrun nodded while Valdemar just stood menacingly behind her while allowing his wife to do all the talking. “We’ll also agree to freely share information.”
+
+“Sure,” Villy just said.
+
+“I don’t think I’ll ever have anything to add, but okay!” Stormild was as flighty as ever.
+
+“Very well,” the Holy Mother smiled. “I’ll seek to contact other pinnacle factions and see if they have any knowledge while also trying to integrate them into this agreement.”
+
+“You do that,” the Viper agreed. “Meanwhile, I think it’s about time we stop dallying in the void before the rest of the C-grades wake up. We shall reconvene at a later time, hopefully once we know more.”
+
+“Likely for the best,” Nature’s Attendant nodded.
+
+Jake felt attention turn toward him again, but at least he shared it with the Sword Saint, who had finished his entire mug of coffee while observing the entire discussion between gods with interest.
+
+“Yeah, better not scare Sylphie too much,” Stormild said as she actively began to fade away. “Bye-bye!”
+
+After being the first to leave, the other gods also began to make their exit, and Jake noticed how all of them showed respect to Oras before leaving. When Aeon left, he made sure to teleport the Sword Saint back into the teleportation vessel so he could come with Jake to the Order.
+
+Valhal was one of the last factions to leave, but before doing so, their leader finally spoke up a little now that all the complicated stuff was over.
+
+“Hey, Jake! Don’t make this an excuse not to visit!” Valdemar yelled with a grin. “I’ll just come fetch you if it is, and I’ll dare them to try anything!”
+
+“Oh, I’m not gonna let some unknown mega-faction that even puts the Primordials on edge stop me!” Jake responded with a smile, clearly making the War God happy before he left.
+
+After him, Nature’s Attendant took his leave after ensuring that Artemis and Dina were truly fine, leaving only five beings conscious. Jake, the Sword Saint, Artemis, Villy, and the Void God that floated ominously within the deep nothingness.

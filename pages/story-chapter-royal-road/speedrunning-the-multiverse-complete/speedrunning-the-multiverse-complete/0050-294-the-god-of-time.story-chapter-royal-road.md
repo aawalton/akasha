@@ -1,0 +1,209 @@
+---
+id: 273b01a1-137c-5d91-9e87-ce9774778862
+page-type-slug: story-chapter-royal-road
+title: "294. The God of Time"
+slug: 0050-294-the-god-of-time
+partOf: speedrunning-the-multiverse-complete
+position: 50
+ownLength: 1535
+unit: words
+ownProgress: 1535
+publishedAt: 2023-08-27
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1323322/294-the-god-of-time"
+royalRoadId: "1323322"
+markedReadAt: "2026-06-29T22:43:23.859Z"
+---
+
+The village was abandoned. No smoke left the chimneys. No trails marred the grounds; wild grasses ran free, and ivy had claimed the cobblestone houses for their own. It seemed fitting somehow.
+
+He found his body at its center, slumped in a crater. It looked exactly as the statue had, except its eyes were closed and its mouth drawn in a tight expression, almost a frown. Whoever had made that statue had known him well.
+
+“Here we go again,” he murmured.
+
+He made a careful incision in the belly with two claws and extracted the core, little more than an iridescent marble; it could’ve been a common pearl. So much power, so much history, so much of him held in something so small, so plain. For a moment he was entranced—as he stared at it his mind began to wander, slipping into reminiscences of the past, worries of the future...
+
+He blinked, jarred. The act returned him to the present—the thoughts fled his mind. Whatever that’d been, it felt like the opposite of meditation. With this core there was this constant urge to stray from the present. Probably best to consume it quickly.
+
+But first—
+
+He scoped out the area with his [Clear Skies Eye] and found the Infinity Heart on the crest of a nearby hill, undefended. He was slightly incredulous—but then again the whole realm seemed abandoned. Why not? He splattered it with arrows, it cracked, and that was that. Fate, the bastard, had gotten in the habit of rewarding his breakthroughs with a new chimera to battle. Not today!
+
+Then he began in earnest.
+
+[Level-up!]
+
+[Star Realm: Dwarf]
+
+[0% -> 41%]
+
+[Level-up!]
+
+[Star Realm: Dwarf]
+
+[41% -> 60%]
+
+A dot of milky white, a dull star, swirled in his core.
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Sun]
+
+[43% -> 61%]
+
+The Time Star flowed in languid revolutions. Like a river winding back upon itself, without start or end.
+
+[Level-up!]
+
+[Star Realm: Sun]
+
+[61% -> 80%]
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Sun -> Red Giant]
+
+A strange property of time qi—massed, like it was in his core, it had a clear form. But it was impossible to pick out any individual strand; try, and it slipped away like water through a sieve.
+
+Eventually…
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[58% -> 60%]
+
+And the flow ceased.
+
+[Skill Learned!]
+
+[Prometheus Eye]
+
+[Lv. 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> 10]
+
+Conventional wisdom was that it was impossible to know the future. Oh—you could catch glimpses of it, like Fate did, but that was a deduction from feeling tremors in strings of Fate. It more akin to how some animals could tell when a storm was coming by the moisture in the air.
+
+Conventional wisdom was wrong. There was one being in the Multiverse who could see the future: the Godking of Time—and even then only his own future, briefly, in spurts. And not merely one future, for the Multiverse was not deterministic, but all possible futures. Which one came to pass depended on what he did.
+
+On a whim—just as an exercise, mind you—he tried it out.
+
+[Prometheus Eye!]
+
+Now the Prometheus Eye had its limits. The most Dorian had ever seen was bout a half-hour into the future, and that had sapped a huge chunk of his qi. Most futures lasted on the order of minutes.
+
+A flurry of ghostly visions filled his mind… but why did they all end so fast? In mere seconds? Frowning, he inspected them. Curiously, they were all quite similar—great bursts of light, and then it abruptly cut off…
+
+All except one, which went longer. One where he looked back upon a ruined wasteland. There was a strange, malformed figure in the sky, floating closer—
+
+Wait.
+
+[Carp Leaping the Dragon’s Gate!]
+
+He skidded to a halt, then whirled around—exactly as the vision had showed. He stared at a perfectly normal landscape.
+
+A breath passed. Then another. A third, and he was beginning to feel quite stupid. Maybe it’d been so long that the Technique was rusty—perhaps he needed a few tries to actually get it going? Maybe—
+
+Then gold blanked out his vision. The strangest thing about it was how gentle it was. It wasn’t at all loud; it felt for a second like he’d started into a bright sun.
+
+When he blinked again, he thought he’d been teleported.
+
+It took him a second to realize that he stood in exactly the same spot. Instead, all those mountains, all those hills, all those valleys with their delightful little rivers winding between them had been leveled to smoking slag.
+
+There was a dot in the air moving closer.
+
+A chimera.
+
+Which made no sense whatsoever.
+
+Had it thrown that attack? But how could it? The amount of qi…it must’ve channeled from the Infinity. Through the Infinity Heart. That he’d just destroyed.
+
+“What…?”
+
+The sky was blue. It had been blue when he’d arrived—he was pretty sure Jez had long abandoned this realm! Breaking that Heart had merely been a precaution. So how…?
+
+Something—some strong feeling that something was very wrong—told him to check [Prometheus’ Eye] again.
+
+[Carp Leaping the Dragon’s Gate!]
+
+Not an instant too soon.
+
+Another tract of land vanished under a curtain of gold light. It was unnerving how soft it was, how quiet—as though the creator of the Multiverse were taking an eraser to this realm. Gone went the trees, and the chirping of the trees on them. Gone went the hills, and the bubbling of the rivers flowing through them.
+
+Silence.
+
+“Dorian…” rasped the chimera. It had the body of a lion, the tail of a snake, the head of a bald man with sightless dull eyes. And he knew it was Jez.
+
+Rarely was Dorian ever stunned speechless. He had so many questions, but he wasn’t about to get them from this thing. It was too busy trying to wipe him from existence.
+
+Dorian foresaw its slash, this arc of gold that was about a breath or so from splitting him in two. He dodged.
+
+Straight into another premonition.
+
+He dodged once more, this time panting a little. “How the hells are you doing this?!”
+
+“Don’t run,” whispered the creature. “Let us end things as they began. You and I…”
+
+Its tongue flopped like a stick of dry wood in its mouth; its consonants were slurred, dull.
+
+Then he foresaw light from horizon to horizon. The world was a golden block. There was nowhere to run.
+
+Heavens…
+
+“Yeah,” said Dorian. “Uh. No thanks!”
+
+He couldn’t tug on his Fate thread fast enough.
+
+The spell hit. And then, a fraction of a second later, he was gone.
+
+***
+
+Command Tent
+
+9th Circle of Hell
+
+Upper Realms
+
+He fell at Fate’s feet in a steaming, half-melted heap.
+
+“Ahhh!” cried Fate, spitting out a mouthful of tea. Most of it landed on Dorian. It was scalding hot, which wouldn’t have bothered him normally, except for the fact that most of his heat-resistant scales had melted off, leaving swathes of exposed raw flesh.
+
+“Fuck!”
+
+“Are you alright?! What happened to you?!”
+
+“Jez.” Coughing, he got to his feet. “I’ll be fine. I think. The Multiverse, on the other hand? Maybe not! Were you aware he has a super-weapon that can blast, oh, say, ten Godkings’ worth of qi at once?”
+
+“He has a what?!”
+
+Dorian repeated his words. The second time, it seemed to sink in.
+
+“I… I suppose that would explain why I haven’t heard back from Salieris in a while…I heard our spies speak of a new threat under production. A threat which draws power directly from the Prime Heart, wherever it is… only I never thought… this fast?” Fate looked quite queasy.
+
+“So. What now?”
+
+For a few breaths, Fate was silent.
+
+“I had hoped we wouldn’t need to resort to this for some time, but… I believe Jez hasforced our hands.”
+
+“Oh?”
+
+Fate closed his eyes, took a long breath. “For some time now I’ve been planning a counterattack. The longer we wait, the more chimeras Jez can make—the worse our odds of victory. We have held his forces to a stalemate on three key realms. On another three we are slowly losing ground as more chimeras enter the fray….perhaps it is time we take aim at the Prime Heart. The center of the Infinity.”
+
+“So you’re saying we should march on the Labyrinth now.”
+
+“And destroy Jez’s forces, once and for all! It… is not a decision I take lightly, mind you—not at all. If we fail in this assault, we lose everything. But plainly we can’t let him continue to make his chimeras. If he makes another like this one…”
+
+“It’s over.”
+
+Fate nodded numbly. “For moons now I’ve woven tapestries of Fate-threads between our realms for just such an occasion. So that we can bring in all of our forces, across all realms, for a sudden ambush—so that we may perhaps catch Jez off guard, and end him before he has a chance to end us all! Dorian, old friend—are you with me? Will you lend us your strength for one last push?”
+
+Dorian just gave him a look.
+
+“When do we march?”

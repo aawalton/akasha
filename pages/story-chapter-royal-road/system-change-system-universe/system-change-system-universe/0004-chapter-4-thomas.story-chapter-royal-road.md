@@ -1,0 +1,93 @@
+---
+id: 1b65f4c0-3d91-5ec0-8d09-9bfd2a259b52
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Thomas"
+slug: 0004-chapter-4-thomas
+partOf: system-change-system-universe
+position: 4
+ownLength: 2029
+unit: words
+ownProgress: 2029
+publishedAt: 2020-09-03
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/548773/chapter-4-thomas"
+royalRoadId: "548773"
+markedReadAt: "2026-06-29T19:56:52.558Z"
+---
+
+Chapter 4: Thomas
+
+“What just happened?” Thomas was talking to the scary man when the man’s eyes rolled to the back of his head and he fell, creating a loud crash as dust and pebbles flew in every direction.
+
+More curious than brave, Thomas warily ambled toward the man. Arriving close to the unconscious man, his mind blanked, all thought leaving.
+
+After standing next to the foreigner for an unknown amount of time, he suddenly snapped to. What am I doing? He was chasing me earlier. Who knows what he was going to do to me. Thomas started backing away, no longer curious about the man.
+
+Thomas made it back to the rock and slid down into a sitting position. Just realizing his situation, he frowned. Why are my pants wet? He thought back to when he was running for his life from the demon-like man and his gruesome smile. Did I really wet myself and pass out? Embarrassed and not just a little scared after remembering the face of the man as he was chasing him, Thomas pondered on the situation he had gotten himself into.
+
+Why didn’t I stay with the group? Pa told me not to leave their sight. How long ago was that, two, three days? A rumble could be heard from below him. He looked down with a sad smile. I’m starving, I’ve never been this hungry before. This was the first time in days that Thomas could calm down and assess his situation.
+
+My pants are drenched, my shirt ruined, belly empty, and my mouth is so dry that I can’t stand it. Thomas began sobbing to himself. What am I going to do? I’m alone. Thomas looked at the pile of armor and hair lying face down across from him. Well, not alone I guess, but being with him may be worse than being by myself.
+
+I don’t even know how I managed to stay alive for as long as I have. Thomas thought about how things had ended up the way they were.
+
+***
+
+Thomas was traveling with his grandfather and some villagers from a neighboring village back to his own. He turned away from the group because he thought he saw a medicinal plant that his grandma had told him to always be on the lookout for. When he got to the plant, he realized that it was just a regular weed. He turned back around and walked back toward his group, only to find that they were already gone, or he had walked back in the wrong direction.
+
+He decided to go back to the plant, but while canvassing the area, he realized that there were weeds all around him that looked the same. He was gone for just a few minutes, but he had already gotten lost. He screamed as loud as he could for his grandpa, but after a couple of screams, he looked in the distances only to see a pair of scarlet red eyes staring back at him with terrible murderous intent.
+
+The scarlet eyes staring back at him were all it took for him to become dead silent. He slowly shrank away, body trembling, heart racing, before turning to flee for his life.
+
+As Thomas darted through the forest, crunching leaves and warping tree branches made way to his ears. The light pattering of whatever beast that thought to make Thomas its dinner drawing closer and closer, Thomas knew his end was near. He was out of stamina, his heart still racing, feeling like it was on the cusp of exploding.
+
+Thomas slowed, legs no longer able to keep the blistering pace through the forest. Then it hit him. I’m dead. I can’t keep running. I give up. It was clear he was a goner, no hope left for survival. Once accepting this, his heart calmed and his body stopped shivering. He had made peace that he was never to meet his family or friends again. They’ll be better off without me anyway. One less mouth to feed this winter.
+
+His sprint became a jog. He turned his head back to take one more look at his future murderer. It was a wolf, a beautiful wolf, jet black fur glistening from whatever sunlight was able to hit it through the broken and diseased forest. Saliva flying from its gigantic maw as it crashed towards him through the forest. Its jaw could likely break bone with one bite, but if the strength of the jaw did not snap the bone, the razor-like teeth would have no problem stripping off his flesh.
+
+As these different ideas of how he was going to die flashed through his mind, he caught a vine with his foot and lost his balance. Thomas turned back to his front just in time to see that he was on the edge of a cliff-like hill and he would soon fall. Well, it may be better than getting eaten alive by a wolf at least. Hope reached him as maybe the fall would just snap his neck and it would all be over with.
+
+He fell, but the fall was nowhere near as long as he had imagined. He soon slammed into the slope of the hill and began his descent, tumbling end over end, barbs from the bushes ripping through his clothing, dirt and mud staining his hair and body. It felt like he had been falling for ages, getting glimpses of the sun every second or so as his body rolled. Then, after an unknown time, the tumbling ceased.
+
+Thomas stared up at the sky from the flat of his back, wondering how he was still alive. He rolled, body creaking and aching from the pain of the fall. After an unknown amount of time, he managed to push himself up enough to finally sit up. He stared at the top of the hill where he came from.
+
+To his utter horror, he could see the wolf glaring back at him. At least it didn’t follow me down here. He shifted, righting himself up on both legs. After wobbling and stumbling a few times, he was able to stand straight, though never allowing his eyes to leave the top of the hill. Please, just leave. I’m too much trouble for you, just leave, go find something else to kill. He silently prayed to himself over and over.
+
+Shocking him, the head staring over the valley slowly backed away. Finally, it completely disappeared. It left, I can’t believe it. His prayers seemingly answered, he began patting his body up and down, assessing his condition. I think I’m completely fine. A few cuts on my legs, and some places that will definitely show bruising soon, but I’m OK.
+
+He did not know what was more insane, that he fell the entire way down the mountain-like hill and survived practically uninjured, or the wolf leaving him alone. Either way, Thomas did not plan to question it. He was alive. Alone, but alive.
+
+That said, he was still lost. He had no idea how far away from his grandpa and the rest of his group he had gone. Because of all the running and not paying attention to where he was going, he also did not know which way he should walk to try to meet back up with them. I don’t really have much of a choice. It’s not like I can climb back up the hill. Heck, I wouldn’t climb up it even if I could, there’s no telling if the wolf is waiting for me or not.
+
+Thomas looked around again. To his right was the hill he fell from, and to his left were the bushes and broken trees of the forest. In front and behind was surprisingly clear, only some stones here and there.
+
+Thomas decided to just follow the path forward, staying just within the tree line so he would not be out in the open.
+
+He crept forward, trying to make as little noise as possible. He moved along, hours passing. Eventually, night came and darkness overwhelmed his vision. He crawled under a big bush and tried to rest while it was dark, not wanting to venture out while he could not see.
+
+Sleep never came to the boy. All the night brought to him was creepy noises from the forest and an extremely cold chill. He could survive through the night, but because of how cold it had been and him having no proper shelter, he knew that he would not make it if he had to spend the night like that many more times.
+
+Desperate, the boy kept moving forward, hoping to find something, anything that may help him survive. He did not. He only found night again, freezing, unable to fall asleep and worrying that if he were to fall asleep, he would be unable to wake back up.
+
+The next morning, he moved faster, not caring about the noise he made. He trudged on, almost void of emotions, entering the state he had been in while being chased by the monstrous creature. Then he saw it.
+
+In the distance was a humanoid figure. Hopefully human. He mused. The blurry figure seemed to be wearing a thick black armor, his head tilted back, like he was focusing on the sky above.
+
+It’s got to be a human, he’s wearing armor, and he has hair growing from his head. And, he’s big, that rules out a lot of other creatures. Overjoyed, Thomas crept closer to the figure. Trying to be silent, but too tired to care about making noise.
+
+He got closer, close enough to see the figure. It is a man, it has to be. The boy moved out of the bushes and towards the man. Finally, having some hope again.
+
+The man turned, glaring at Thomas. The boy stopped, appraising the man. Then, the man laughed, it was the evilest laugh Thomas had ever heard.
+
+Thomas felt it again, the same fear he felt when the wolf was staring at him. Demon, he’s a demon! Thomas could not turn and run away fast enough. At least with the wolf, I would just die. If I get caught by a demon, he’ll skin me and eat me slowly while I’m still alive. All kinds of errant and rampant thought flashed through the boy’s mind.
+
+He ran. Body bruised, tired, and hungry, Thomas ran faster than he ever had in his life. He heard the demon scream something in its devil tongue. He could not understand it, so he ran even faster.
+
+Why did he have to be so young, why did the Great System not allow humans to level until they were 13? Thomas would give anything if he was just born a year earlier. At least then he would have some levels and perhaps some extra stamina and agility. But he was only 12, and small for even a 12-year-old. And now he had a demon chasing him.
+
+The demon yelled again. Thomas turned, shocked that the demon was lumbering so close to him and not even running. No longer looking ahead, he tripped. I’m dead. Thomas thought. He rolled over to see the demon towering over him. The demon let out a thundering laugh. It was all Thomas could handle after the last few days he’d had. Darkness overcame him and he was out.
+
+***
+
+Thomas came to, not believing all that had gone wrong over the last few days. He looked over at the unconscious body again, trying to decide what to do. Eventually, his decision was made for him.
+
+A screeching howl came from the forest. It was the same red eyes he had seen before. The boy knew that the wolf had finally caught up. Panic-stricken, the boy looked for a way out, a way to survive once again. His gaze landed on the strange man’s body, specifically his armor. Without hesitation, he ran to the body and, with all he had in him, managed to roll the body over enough that he could hide underneath. With what vision he had left of his surroundings, he saw the wolf pounce.

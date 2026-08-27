@@ -1,0 +1,125 @@
+---
+id: 05492575-88c5-5ed4-8092-49e00ac23809
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1301 - Shamanistic Arts"
+slug: 0174-chapter-1301-shamanistic-arts
+partOf: the-primal-hunter
+position: 174
+ownLength: 2786
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3313498/chapter-1301-shamanistic-arts"
+royalRoadId: "3313498"
+---
+
+Despite Jake already acknowledging the sheer enormity of this Minor World, he still continued to underestimate just how grand its scale could be. Alongside the Shaman, three Warriors, and Virumancer, they’d continued into Arachnec territory, which seemed to just continue infinitely into the distance, no matter how far they got in.
+
+These islands of the Minor World were truly ridiculously big. Jake knew there already was a precedent for huge platform or floating landmasses in the multiverse, but he still mentally had a hard time imagining how they could be so stupidly large. Even when Jake flew pretty far into the air, he couldn’t even begin to see the end of the island. And, sure, the toxic fog that filled the entire world did limit Jake’s vision somewhat, but his insanely high Perception still allowed him to pierce through it for the most part.
+
+Given that these landmasses were entirely flat, Jake had assumed that if he flew up far enough, he should at least spot one of their edges. The fact that he couldn’t, and given how good his vision was, he guessed that this one island had to already have a larger surface area than all of Earth.
+
+And this was just one island. The Shaman didn’t even know how many there were or how their sizes compared to one another, but he did say that most Venusians resided on the island where they were born for their entire lives. Though they did sometimes visit other islands, with the Shaman being cagey about how they accomplished that, making Jake instantly conclude that the Venusians had some kind of teleportation network set up.
+
+Not an odd assumption, given the space affinity abilities displayed by the Oracle. In fact, he would find it incredibly weird if they didn’t at least have some kind of restricted or emergency teleportation system set up to reinforce villages under attack.
+
+Jake was definitely going to visit these other islands someday, though it definitely wasn’t going to be during this visit. He only had a bit over a hundred days until it was time for him to leave for the Seat of the Exalted Prima system event, which he still assumed he could enter directly from this Minor World. Before then, Jake only planned on bonding with the Shaman by killing a lot of Arachnecs, while probably also getting in a meeting with this Circle the Oracle talked about.
+
+Speaking of bonding with the Shaman, that was going pretty damn well, as while the Venusian wasn’t big on fighting, as he’d said, he definitely took pleasure in the killing of Arachnecs, really hammering home the deep level of hatred between the two races. So much so that when they came across a group of three patrolling Deathstalkers, the Shaman took the initiative to step forward.
+
+“Seeing your display of power and willingness to share your abilities, I find it only fair that I do the same,” the Shaman said in his usual respectful tone. “I shall admit immediately that while I’ll certainly be inferior to you combat-wise, as a Shaman, I am considered in the higher echelon of Venusians.”
+
+“I already figured,” Jake nodded, having naturally noticed that the Shaman gave off the strongest aura of this group by far. He had also been the one with the most forms of magic shown, such as the stealth bubble he could summon.
+
+“As a Shaman, my primary job isn’t to be a combatant but to lead my fellow Venusians, making me quite inferior in solo combat, especially compared to the true elites of my race,” he continued, also hinting at them having more powerful variants Jake hadn’t seen.
+
+“However, I am at least capable of defending myself and have some means of defeating foes on my own. I would gladly display those means if you would act as witness?” the Shaman asked as their group of six stalked the three Deathstalkers that were moving about seemingly in random patterns.
+
+“I would love to,” Jake smiled, genuinely curious to see what something like a Shaman was capable of. He was clearly a caster of some kind, but that really didn’t narrow things down.
+
+“Then allow me,” the Shaman said as he split from their group of six. Jake saw that the other Venusians looked a bit reluctant to see the Shaman go, but didn’t say or do anything.
+
+“Relax, I’m sure he’ll be fine,” Jake said to the four with a smile.
+
+He’d kind of hoped for one of them to answer, as he’d yet to have any of them talk to him, but they just stared at him for a couple of seconds with their big frog eyes before nodding in acknowledgment and turning their attention towards the Shaman.
+
+Shaking his head, Jake did the same as he watched the Shaman approach the three Deathstalkers. All four B-grades were roughly the same level, with the Shaman a couple beneath the Arachnecs, not that it should make much of a difference.
+
+As the Shaman approached them, he saw the Venusian speak, and as he did, his aura suddenly started strengthening. Immediately, the three Deathstalkers noticed their incoming attacker, but the Shaman was already upon them as Jake saw what looked like the projection of a large frog wearing robes manifest above the Shaman. Feeling this, Jake realized that, yeah, this was definitely a shaman.
+
+Jake knew that shamans tended to rely on “external” power, such as spirits, elementals, or other channeled powers. Many shamans functioned almost like beastmasters in that they could tame elementals, while others formed connections with intelligent ones far more powerful than themselves that could then allow the shaman to channel their power, a bit reminiscent of the relationship between warlocks and demons.
+
+Shamans working with spirits were a bit different, primarily in that spirits weren’t super well-defined. Some called ghosts and even elementals spirits, and there were plenty of monsters out there with ‘spirit’ in their names. Even the Holy Church transformed its fallen into Holy Spirits after death to inhabit the Holyland. All in all, the term spirit was extremely vague and could take many forms.
+
+To the extent that the term could be entirely self-defined. In many cases, the spirits referred to by shamans didn’t actually refer to any creatures that existed. Instead, they were conceptual representations of power that the shaman manifested solely through their own will, through what was, in effect, a variant of faith energy. The shaman in question truly believed that the spirits he or she referred to were real, because in some ways, they were.
+
+Enough shamans with the same Legacy would channel the same spirits, making those spirits seem more “real” to all of them. Not unlike the birth of a False God, the spirit would become a well-defined concept that had set traits and whatnot, truly allowing the shamans to channel a higher power.
+
+Something that was on full display as the Venusian Shaman struck the first Deathstalker. The Shaman’s aura had grown more than twice as strong as before, and with a single wave of his hand, the terrain below the three Arachnecs erupted and rose to consume them.
+
+Reacting swiftly, the B-grades turned into their semi-invisible forms as they shot into the air towards the Shaman, who seemed more than prepared. Whitish barriers appeared to block two of the charging Arachnecs, while the Shaman held up a webbed hand towards the third one and clenched.
+
+Jake felt space itself implode around the Deathstalker, compressing it, and the undead let out a loud shriek as its limbs were forcibly squished together. Raising his second hand, the Shaman clenched it into a fist as if holding down on something before he swung his hand downwards, and after a moment’s delay, a transparent spear was conjured and stabbed down into the restrained Arachnec.
+
+Rather than sending decaying flesh flying, the spear phased into the B-grade, making it shriek even louder as Jake nodded.
+
+Straight for the soul.
+
+Rather than targeting the physical body, this attack had pierced into the Soulshape of the Arachnec Deathstalker, ignoring all defenses and doing pretty solid damage. Speaking of solid, the frog made an odd motion with his hand that was sealing the Deathstalker’s movements, making the space energy move and fuse into the spear as he made a pushing motion.
+
+The spear seemed to become physical while already inside the Arachnec’s body, right as the B-grade was blasted down towards the ground, skewered by the spear, and pinned down.
+
+Right then, the two other Deathstalkers that had been held back by the Shaman’s barriers broke through, but before they could strike at the Venusian, he teleported further into the air and placed his palms together.
+
+The Shaman inhaled deeply as his cheeks expanded just like, well, a frog’s. They grew to quite an impressive size before the Venusian exhaled, releasing what Jake at first thought was a torrent of water. Upon closer inspection, this liquid wasn’t water at all, but some odd spirit-liquid that blasted down towards the two Deathstalkers that were already charging back up towards the frog.
+
+They were blasted head-on and sent tumbling down, where they also hit their third comrade, who remained pinned to the ground. The Shaman didn’t let up as he kept blasting down his odd liquid energy that seemed to evaporate instantly after hitting the ground, continually pressing the three B-grades into the ground as wounds accumulated on their bodies. The liquid seemed to have a corrosive quality, whittling away at the three Arachnecs until they finally got their bearings.
+
+All three released a loud shriek as their bodies emanated strong death energy that brought them some reprieve, allowing them to split up and dodge in three different directions out of the waterfall of corrosive liquid.
+
+The Shaman, who continued spitting out liquid as his cheeks very slowly deflated, spread out his arms and opened his palms before slowly starting to bring them together. The projection of the large, robed frog that had become nearly invisible came back with force as he mimicked the Shaman’s movements, also closing its palms.
+
+Down on the ground, all the Deathstalkers seemed to hit an invisible wall that started pushing them back into the Shaman’s attack. Like a closing dome, the Arachnecs were forced back into the corrosive spout, which began to narrow and grow in intensity as the three B-grades were pressed together.
+
+Jake felt the powerful space magic at work, and, perhaps due to his increased sensitivity towards the concept, he could see the faint vibrations marking the borders of the dense space wall that slowly imploded around the B-grades. The Arachnecs tried to attack the wall with their many scythes, but their attacks seemed to merely sweep through it, as if hitting gaps in the wall. In truth, they were hitting the space wall and effectively tore through it, but that was where the ingenious design of said wall came into play.
+
+The entire thing was like a thin net, meaning that when the Deathstalkers cut it, they simply severed a line of strings that could rapidly regenerate, while the rest of the net would keep pressing onto them. Larger attacks would be forced to contend with more layers of this net, but if Jake had wanted to break through it, he would have definitely gone with large-scale attacks to burn through the Shaman’s energy reserves. That, or he would find a way to slip through it somehow.
+
+Sadly for the Arachnecs, they were dumber and weaker than Jake, making them just swipe away uselessly until they were all immersed in the corrosive liquid once more. Its growing intensity made the damage increase, shearing away at the decaying flesh of the Arachnecs that seemed to finally realize they couldn’t break the space walls.
+
+Given that, they had only one direction to move. As one, they all exploded with energy and used their movement speed to charge up at the Shaman, their bodies taking immense damage as they dove through the stream of spiritual liquid all the way up. They were clearly more than willing to give up their own lives to take out the Shaman, but unfortunately for them, the frog had no intention of directly engaging with them.
+
+The Shaman stopped pressing his palms together, dismissing the space walls, and instead thrust both palms forward as he also stopped spewing the corrosive liquid. A dense wall of space magic was shot downwards to block the charging Deathstalkers, but two of them had clearly adapted to the Venusian’s attacks and dodged the wall.
+
+Defending himself, the Shaman summoned more space barriers, but one of the Deathstalkers made it through and appeared behind him using its semi-invisibility. Its scythe descended upon the frog, and Jake was about to react by using Primal Gaze, but, based on how the other Venusians didn’t have any big reactions, he held himself back.
+
+It turned out that he indeed didn’t have to react, as something very weird happened when the Deathstalker struck. Its hit seemed to fade straight through the Shaman, as instead, the projection of a robed frog had its robe slightly torn on one side, effectively absorbing the blow.
+
+Spinning around, the Shaman punched forward with a palm, releasing a blast of energy that seemed to contain some of the Arachnec’s own energy. As this blow came out, the robe on the frog projection was also instantly mended as if it had never happened. The B-grade was sent flying with two of its scythe arms severed from the powerful blow, and the Shaman clearly wasn’t done yet.
+
+Lifting the same palm he’d used to attack earlier, the Shaman muttered a single word, and as he did, the large projection of the huge frog also lifted its palm towards the Deathstalker. Jake got an odd sensation as an invisible pulse of energy was sent towards the Arachnec Deathstalker.
+
+It struck the B-grade that... died. Its soul was extinguished by that one attack, making Jake frown deeply. He wasn’t sure what kind of weird shamanistic magic that was, but it definitely gave him a disquieting feeling.
+
+Not that the Deathstalkers seemed to care, as the remaining two continued trying to attack the Shaman despite their worsening injuries. Their sense of self-preservation was truly nonexistent.
+
+Seeing their approach, the Shaman seemed intent on finishing them off quickly. He made some odd hand movements that were mirrored by the robed projection behind him. The energy in his immediate surroundings began to warp and shiver, right as the frog clapped his hands together.
+
+An invisible shockwave of unknown concepts was released, striking both charging Arachnecs. Their movements slowed and became sluggish as the shaman and projection both spread their hands apart and held their palms towards the B-grades. They froze mid-air and started squirming, constrained by some invisible concept as Jake saw their souls being shredded apart.
+
+That’s when Jake saw the most surprising thing yet. The Shaman seemed to really strain himself as he kept using his two hands to constrain the Arachnecs as the projection moved on its own. It made several odd motions as its robe fluttered, forming several layers in front of it, and from these many layers, a new figure was revealed.
+
+A very familiar one.
+
+This figure walked out as a bow appeared in its hand. With a drawing motion, an arrow appeared in its hand as the masked humanoid figure drew its bow and channeled its power for a few moments before releasing the arrow.
+
+An explosion of energy erupted as the arrow descended into one of the Arachnecs, blasting it towards the ground with a large hole in its abdomen. Shortly after, a second arrow struck the other B-grade, also sending it down into the ground.
+
+The summoned figure, which was obviously a projection of Jake, dispersed into spiritual smoke as the heavily breathing Shaman clenched both fists, and down below, the two Deathstalkers finally had their souls crushed, the accumulated damage too much for them to handle.
+
+With a tired sigh, the Shaman lowered his hands, the projection behind him disappearing.
+
+Jake stared for several seconds as he looked down at the dead Arachnecs, seeing the clear signs of destructive energies dispersing from their bodies. Energies left by the arrows that very closely resembled Jake’s own arcane affinity. It wasn’t the same, but it had nearly identical properties.
+
+“I hope you do not take offense at my attempt at channeling your visage,” the Shaman said, pulling Jake out of his own thoughts.
+
+“No... no, I’m just surprised,” Jake muttered. He had a lot of thoughts, but one thing was for sure... shamans were a fucking weird caster archetype.

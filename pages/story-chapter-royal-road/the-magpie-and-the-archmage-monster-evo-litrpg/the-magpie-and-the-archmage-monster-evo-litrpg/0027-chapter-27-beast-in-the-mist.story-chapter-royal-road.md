@@ -1,0 +1,205 @@
+---
+id: e1f94199-6227-5963-9908-775bef2d077c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27 – Beast in the Mist"
+slug: 0027-chapter-27-beast-in-the-mist
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 27
+ownLength: 2083
+unit: words
+publishedAt: 2025-09-27
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2632671/chapter-27-beast-in-the-mist"
+royalRoadId: "2632671"
+---
+
+Flying up the mountain felt longer than usual this time. Perhaps it was because the peak was rather high. Perhaps it was because the winds were particularly strong that night. But Liora suspected it was because she knew that this was the last time she'd be flying up here.
+
+This place does suck.
+
+Here I thought you were having some nostalgic feelings since you were so silent.
+
+No, I'm honestly glad I won't have to return to this mountain. I mean, look at this place. It's decay and death everywhere. Even shrubs look like they've been laced with poison. The monsters here are so creepy, too.
+
+Is that a fungorak on the west side corrupted?
+
+Liora looked at the fungorak more closely and noticed that some black sludge was coming from its mushroom cap. If she could groan, Liora would have done that.
+
+It is! I have to deal with that.
+
+Use the wand.
+
+Liora willed the holy wand to appear in her talons. Although it was rather small, at least when compared to the staff she saw Walter use, it was still too large for Liora. She had to hold it with both of her legs. This made it harder to fly steadily.
+
+Thankfully, fungoraks weren't agile, not even the corrupted kind, so it was easy enough for Liora to get close to it and chant the incantation, "Cleansing light, obey my will. Purge this blight and make it still."
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+She aimed the beam of light straight at the sludgy shroom monster and closed her eyes so as not to blind herself. When she opened them, the fungorak only had two stumps remaining.
+
+[You've defeated <Fungorak – Level 9>. Experience gained.]
+
+Wow, that was hella effective!
+
+I'd say. There's nothing left of the thing. I never expected holy magic to be this effective.
+
+The remaining black sludge converged together and formed into a nasty-looking blightstone. Liora, despite her impulses telling her to smash the thing, took it in her talons and deposited it in her storage along with the holy wand.
+
+I wonder what will happen to the corrupted monsters here. Were those buffoons assigned to this place, or will somebody else come and collect them?
+
+I don't know. I'm worried about what they're trying to do with the blightstones, but if nobody comes to clear up these corrupted monsters, they'll eventually make their way down to the town.
+
+That was a valid concern. If only there were a way to stop these monsters from becoming corrupted. But they didn't know what caused the corruption in the first place. It seemed to happen to injured monsters, but there was no way to prevent monsters from getting injuries. They were born to fight each other for survival.
+
+The thick cloud of miasma soon came into view, breaking Liora out of her contemplation. Her Treasure Sense also tingled, indicating that her prize hadn't moved. She carefully scanned the nearby vicinity to make sure there weren't any other hungry wyrms around. But everything was quiet, and she could only see a herd of snake-goats further down the mountain.
+
+Alright, let's hope I don't attract unwanted attention again.
+
+She withdrew the wand from her inventory and chanted the incantation for Holy Light.
+
+[You've failed at mimicking the skill <Holy Light>.]
+
+Oh, come on!
+
+I told you it'd be more productive if you could buy the skill. Mimicry isn't stable enough yet to be used reliably.
+
+Shut it! I can always recover the lost mana by just sleeping, but recovering glimmerstones would be much harder.
+
+Liora took a deep breath, steadied herself, and tried the incantation again, "Cleansing light, obey my will. Purge this blight and make it still."
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+Liora closed her eyes and aimed the wand at the thick miasma, where her Treasure Sense was signaling. When she opened her eyes, she was shocked to see that there was a sort of corridor cleared out in the miasma.
+
+She cautiously flew closer to inspect it. Eerily enough, the miasma didn't hurry to fill out the space cleared out by Holy Light. Instead, it spread around the area as if there was some invisible glass in the way.
+
+That's convenient. This way I'll get to that treasure in no time!
+
+Be careful. It might go back in place after a certain amount of time, and I doubt you'd want to be stuck in the middle of whatever that purple mist is.
+
+Liora had to agree there. The miasma would surely kill her. The air at the peak already felt heavy and unpleasant when she breathed it in, aside from the places where Holy Light had cleansed it.
+
+I'll wait for like half an hour and see if miasma goes back at any point. If it doesn't then I'll fire off more Holy Lights and clear my way to the treasure.
+
+Sounds like a solid enough plan.
+
+Liora landed on a semi-stable rock near the miasma area and waited, while watching the purified place. A minute passed, then two, then ten and nothing seemed to change.
+
+But then there was a stir at the end of the cleared corridor. It was difficult to tell what was happening through the miasma. Maybe if it were daytime, but Liora's Night Vision still had room for improvement.
+
+The miasma seemed to stir and shift. For a split second, something entered the purified space. Something dark and furry. Then it disappeared.
+
+Did you see that?
+
+I saw that. But what is that?
+
+Some noise came from within the miasma. Something scraping ever so slightly against the rocks. Then it became louder and louder. The noise reminded her of the noise from goat-snake hooves when they jumped around the cliffs. Could it be one of them? But it was odd for it to be so high up the mountain.
+
+Suddenly, the miasma some ten meters away from Liora parted, and a giant lion's head emerged from it, sniffing the air. Liora froze in place, not even daring to breathe as the monster sniffed around. A large paw came out of the miasma, then a giant goat's head. Its rectangular eyes felt demonic as it scanned over the space where Liora sat.
+
+Oh shit, oh shit, oh shit!
+
+Don't move, don't move, don't breathe!
+
+Soon the whole beast had emerged from the miasma, larger even than the wyrm and far bulkier to boot. Its massive front paws looked strong enough to shred a wyrm in one swoop. The hooved hind legs moved with surprising grace, finding stable crevices among the rocks while the snake's tail flicked its tongue in and out, tasting the putrid air.
+
+Oh no…
+
+RUN! FLY!
+
+The snake's head noticed Liora and lashed out. She barely had time to take flight before the snake's jaws closed far too close for her liking. The giant beast let out a roar that shook the whole mountain. The sound was so powerful that it felt like Liora's soul was reverberating.
+
+What the hell is that thing?! It came out of the miasma as if it were nothing.
+
+It's a fully evolved chimera! It has incredibly high resistance to poison.
+
+Liora tried to fly down the mountain at her top speed, but in one swift leap, the chimera was already upon her. It was only thanks to Aerial Agility that Liora managed to maneuver underneath its paws and emerge unharmed.
+
+I am so screwed!
+
+We are so screwed!
+
+Don't say that! Tell me how to defeat this thing! Aren't you an all-knowing archmage?!
+
+There is no way for you to beat it! FLY! RUN!
+
+Renir's panicked inner voice only made Liora panic more. In a desperate attempt to protect herself, she unleashed Air Slash at the chimera's tail. She hoped that just like it was with the snake-goats, her attack would separate the snaky appendage.
+
+Her attack hit the chimera perfectly at the base of its tail—a miracle with how panicked she was—but it didn't leave a scratch. Not even the smallest little blemish. The chimera didn't react to it as if it were nothing more than a rogue gust of wind.
+
+I'm so dead!
+
+FLY! FLY!
+
+Chimera roared again with its lion's head, and the snake tail lunged towards Liora, trying to grab her. She Faded at first, hoping to confuse the monster. But the snake could easily follow her even without sight, using its tongue. She just barely managed to avoid it by flying higher, but the chimera followed.
+
+It was relying on the snake tail to keep track of evasive Liora. She flew higher and higher as the snake lunged at her, its jaws snapping menacingly. Liora rolled and weaved through the air, even flying backwards on occasion, just to avoid the snake. But in her haste, she didn't notice that there was nowhere left to fly. Soon, she was pressed against the thick miasma with nowhere left to go.
+
+She could feel the poisonous miasma with each breath. If she got inside it, it would be all over. So she hurriedly withdrew her wand and chanted the incantation for Holy Light.
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+The blinding ray of light erupted from the wand as she cleared the miasma behind herself and flew into the newly opened space while chanting the spell again.
+
+[You've failed to mimic the skill <Holy Light>.]
+
+She chanted again.
+
+[You've failed to mimic the skill <Holy Light>.]
+
+And again.
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+Another ray of light erupted from the wand and cleared another portion of miasma. The chimera followed her, its lion head remaining within the purified area while most of its body was hidden in miasma. Liora was mimicking the chant again.
+
+Liora, you're about to run out of mana!
+
+She completed the chant, and felt as if she had been hit by a hammer, nearly falling to the ground.
+
+[You've failed to mimic the skill <Holy Light>.]
+
+It took a second to realize that it was magical backlash. Only the fear of falling into the poisonous miasma forced Liora to stabilize herself and fly as far into the purified area as possible. But she was effectively cornered as the chimera walked towards her in a brisk, unhurried pace.
+
+It's going to eat me! It'll eat me!
+
+It'll eat me too! Do something!
+
+You said it yourself that I can't do anything.
+
+Liora couldn't fly around the chimera anymore–it was completely blocking her path with its massive body. All she could do was flutter about and caw in panic. She was out of mana, and received a rather hit from the mana backlash. This would be her end.
+
+Renir, before I die, I want you to know that… THIS IS ALL YOUR FAULT!
+
+How is it my fault?! I didn't call the chimera here!
+
+It's your fault that we ended up here! We should have left the mountain a long time ago!
+
+Wasn't it you who coveted the treasure up here?!
+
+But you're the one who wanted me to evolve!
+
+You should have listened to me and bought some skills! Then maybe you would stand a chance to escape at least.
+
+The chimera let out a loud roar from its lion head, making Liora shake from the ferocity of the noise. She could smell its putrid breath that reminded her of rotten meat. If she were a human, she definitely would have thrown up from the smell.
+
+"Chak-chak-chak!" Liora mustered the last of her courage. "Come at me, you overgrown goat. If you're going to eat me then I'll make sure you choke on me!"
+
+"Why would I eat a tiny creature like you? You're more feathers than meat," the chimera suddenly spoke up, its voice deep and rumbling.
+
+Liora nearly fell to the ground from shock.
+
+It can talk?!
+
+It can talk!
+
+"You… were chasing m-me!" Liora objected shakily.
+
+"I merely wished to converse with you, but you were running away the moment you saw me," the chimera shook its lion head, the large mane fluttering about. "Curious how you can speak in a human voice. I knew you corvids were good at mimicry, but not to this degree."
+
+Liora opened and closed her beak, not sure how to respond to the terrifying monster that apparently wouldn't eat her.
+
+"You can purify this blight, can't you?" The chimera continued.
+
+"I… Yes," Liora said, clutching onto the wand more firmly.
+
+"Then you must help."

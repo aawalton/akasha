@@ -1,0 +1,210 @@
+---
+id: bece2db7-f058-5abd-8837-74404d35f077
+page-type-slug: story-chapter-royal-road
+title: "Chapter 454: Trade Offer & START OF BOOK 6"
+partOf: rise-of-the-living-forge
+position: 22
+ownLength: 2463
+unit: words
+ownProgress: 2463
+publishedAt: 2025-07-11
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/2427098/chapter-454-trade-offer-start-of-book-6"
+royalRoadId: "2427098"
+markedReadAt: "2026-06-29T19:59:09.954Z"
+---
+
+“You want me to call Indrana?” Ida repeated, aghast. There were a lot of things that her mother could be called — but sentimental wasn’t one of them. “I won’t work as leverage. She isn’t going to care. If you antagonize her, we’ll just all be dead.”
+
+“I’m sorry,” Lillia said, blowing out a slow breath and shaking her head. “I think you misunderstood me.”
+
+“I definitely did,” Ida said with a sigh of relief. Prodding her mother into action was probably the worst possible move for any of them. Indrana had fought her way onto the dwarven council through more than just smithing talent. She did not take kindly to people that did anything but exactly what she ordered. “I can give you the stone, but—”
+
+“I wasn’t asking for your advice or permission,” Lillia said flatly, cutting Ida off before she could finish speaking. Her voice was so cold that it pulled goosebumps up along Ida’s arms. “You do not have a choice in this matter. Call Indrana. Now.”
+
+Ida paled. She hesitated for a moment longer, but the look in Lillia’s eyes made it abundantly clear that refusal would not go well for her. She swallowed. Then she reached into her pocket and pulled out the white stone.
+
+She sent her mind into the magical object. There was always a chance that her mother wouldn’t respond… but given that Gideon had probably gone silent, she got the feeling that she wouldn’t get so lucky.
+
+A second passed.
+
+Then a presence buzzed into being at the back of Ida’s head.
+
+Ida. What is going on? What did you do?
+
+“Tell her nothing,” Lillia said, picking up on the fact that the connection had been established. “I assume there’s a way you can let me speak to her as well?”
+
+My face must be showing every damn thought passing through my head right now.
+
+Ida nodded mutely. She pressed her hand to the stone, pushing more energy into the artifact. The air above it shimmered as motes of magic spun together like thread to form into a faint, translucent image of her mother and the cobblestone room around her.
+
+Indrana’s features were blocky and chiseled, almost handsome. A thick scar ran along her left cheek from where a hot coal had badly burned her as a child, and the dwarf’s eyes were two sharp, gray pools.
+
+Thick blonde hair ran down behind her hair, tied into a ponytail to keep it from her face while she worked. A leather vest hung at her front. It was devoid of any stains or scars despite all the years it had been in service.
+
+“Ida,” Indrana snapped. “What do you think you’re—”
+
+“Hello, Indrana,” Lillia said. Malice dripped from every word leaving her lips. “I would suggest you put a little more power into your stone. I’d hate for you to not be able to see who you’re talking to.”
+
+Indrana’s eyes widened for a moment. Then anger overtook her surprise and her features went taut. The image of her spun, locating Lillia instantly.
+
+“Ida. What are you doing?” Indrana demanded. “Why have you revealed—”
+
+“Your warrior is dead,” Lillia said flatly. “And I killed him. And I suggest you stop worrying about what is done and instead consider what I’m going to do.”
+
+“What?” Indrana asked, her voice dropping an octave. “Who do you think you are, girl? And do you really think I’m stupid enough to believe that a Dwarven Soldier in my armor would die in some backwater town like Milten? Ida, I’m disappointed in you. Utterly disappointed. To throw your lot in with—”
+
+Something sailed out of the darkness. It landed on the table between Ida and Lillia with a heavy thud that echoed through the dark room, rolling once before coming to a stop. It was the glossy golden helm that Gideon had been wearing.
+
+The sides of the helm were badly dented and warped. Any magic that had once been in it was snuffed out. But the helm shouldn’t have been nearly as heavy as it sounded. Having such a heavy piece of gear would have made the armor nearly impossible to maneuver in.
+
+Then Ida spotted several droplets of red on the table leading up to the helm. By the time she’d looked back to it, a crimson river had started to trickle down from the eyes of the helm.
+
+Bile welled in her throat.
+
+Gideon’s head was still in the helmet.
+
+It wasn’t that she gave the slightest shit about Gideon. This was just the closest she’d ever been to any manner of corpse, much less one of someone that she’d known to any degree. Ida stared at it for a second in stunned disbelief.
+
+Then a spark of anger cut through her disgust.
+
+Good riddance.
+
+“I didn’t expect you to believe my words alone,” Lillia said. “I’m sure this is more than sufficient… unless you can’t recognize your own work?”
+
+Indrana fell silent. She stared at the helm for a long second, her features completely unreadable. Then her gaze raised to meet Lillia’s once more.
+
+“Who are you?”
+
+“A member of the guild whom you just attacked,” Lillia replied. “And without provocation at that. We were well within our rights to defend ourselves from a malicious force attempting to kill our leader within his own building.”
+
+“Don’t quote old laws to me,” Indrana said. “I’ve been alive for longer than they have. I know what they say — and I know they didn’t give you a method to defeat Gideon. Who’s backing you?”
+
+“We are the Menagerie. We need no backers,” Lillia said. “That was made abundantly clear during the Proving Grounds. Just as you will find that Ifrit’s techniques are nothing like those of some mere dwarven smith, you will also find that we are no mere crafting guild. Do not attempt to attack us again. The only thing you will find in Milten is death.”
+
+“Mere dwarven smith?” Indrana exclaimed. “Do you have any idea—”
+
+“Do you?” Lillia asked sharply. “I’m not sure you understand me, councilwoman. Let me make this abundantly clear. This is a threat. The only reason that you aren’t dead yet is because your idiot of a warrior didn’t manage to seriously injure the woman he kicked.”
+
+Indrana’s lips curled in distaste. “You think you can threaten me with my daughter’s life? If you were going to kill her, you’d have already done it. Her purpose is to serve the council. That is the duty of a Dwarven Smith. She will not be used as an instrument to turn against her own kind.”
+
+Ida’s stomach twisted, but it really wasn’t any surprise. Indrana would never sell her own pride for the mere price of a daughter. One could always make a second daughter, but face could never be recovered.
+
+“The only one doing anything to harm their own kind is you,” Lillia said in disgust. “Ifrit does not use dwarven smithing techniques. But you’ve made it clear you don’t care about your daughter’s life… which is why I’m not threatening her. I’m threatening you.”
+
+“Me?” Indrana scoffed. “What do you possibly think that you could do to me? You think you’re in a position to bargain because you have Ida captive? I already told you. The girl’s duty is to serve the council. Killing her will net you nothing.”
+
+“You know, I learned something recently,” Lillia said as she interlaced her fingers and let her hands rest on the table before her. Something about the woman’s straight-backed posture and cold features almost felt… regal. It was like that of a queen condemning a criminal to death. “Everyone has something they want. And sometimes, people want it bad enough to pay a price that nobody else would be willing to pay.”
+
+“What are you on about?” Indrana asked. “Don’t waste my time with this blathering. Hand Ifrit over. If you’re so certain that he hasn’t been taught by a dwarven smith, then I’ll investigate him myself. Then I’ll hand him back to you if I’m satisfied.”
+
+“That’s not happening,” Lillia said. “You’re in no position to make demands.”
+
+Indrana let out a derisive scoff. “Are you an idiot? What power do you—”
+
+And then she froze.
+
+Ida’s eyes went wide in disbelief.
+
+A man stood directly behind Indrana, his face cast in shadow. He held a wide sword up to her neck, so close that blood beaded against the edge of its blade.
+
+“That would be my associate,” Lillia said. “Keep talking, Indrana. I believe you were saying something.”
+
+The dwarf swallowed.
+
+“You wouldn’t dare. Killing me is an act of war against the Dwarven Council.”
+
+“I’m certain they would be positively destitute,” Lillia said, sarcasm dripping from their words. “There certainly wouldn’t happen to be a dozen other dwarves who would pay us handsomely for your death. There are drawbacks to being in power, Indrana. Your own people want you dead. Something tells me your replacement won’t be too concerned with hunting us down.”
+
+Ida could barely believe her own eyes. The Menagerie either had a spy in the Council — or they had a way to teleport someone right into Indrana’s room. She didn’t know which of those options was more terrifying.
+
+“What do you want?” Indrana asked finally.
+
+“Not much. Never bother us again. I don’t care what rumors you hear about Ifrit or his equipment. I don’t care if he decides he’s a dwarf and goes around with a big bushy beard telling people he’s your new husband. You’ll swear up and down to the rest of the council that he doesn’t have the slightest bit of dwarf influence in him. That’s no skin off your back. Let’s be real. Even if he was using your techniques, it doesn’t matter. He’s only one smith.”
+
+Indrana’s jaw clenched. She glanced down at the sword pressed to her neck. “Fine.”
+
+“And one more demand, since you wasted my time,” Lillia said, raising a finger. “I’m putting someone in your precious order of smiths. Just to make sure you don’t go back on your word. And I’ll even introduce you. I don’t need to spy, after all. We have ways of finding things out.”
+
+Fury warred with the fear on Indrana’s features.
+
+Perhaps it was because Ida was a terrible daughter, but she nearly laughed. The expression on her mother’s face must have been exactly what her own features had resembled just a few short minutes ago.
+
+The helplessness. The complete lack of options before her that didn’t result in utter destruction of everything she held dear.
+
+Perhaps, if Indrana had been a warrior, she’d have been able to fight back. But Indrana wasn’t a warrior. She was a dwarven smith. And smiths could not fight.
+
+“Fine,” Indrana spat. “Who is it?”
+
+Lillia smiled. Then she nodded across the table.
+
+At Ida.
+
+“What?” Ida asked, her stomach flipping over.
+
+“You,” Lillia said. “You’re going to be my spy.”
+
+“Are you a fool?” Indrana asked, letting out a bark of laughter. “That’s my—”
+
+“Daughter,” Lillia finished with a nod. “The very same daughter who you just cast aside. You don’t care about her. So why should she care about you? Who better to keep an eye on you than her? Something tells me she’d much rather be acting as a smith than under your thumb. It’s up to her, of course.”
+
+Ida stared at Lillia, her throat so tight she could barely breathe.
+
+“What?” Ida whispered. “I don’t understand.”
+
+“Serve me,” Lillia said simply. “Be my eyes on the dwarves. Your mother will never have power over you gain. I’ll put your hammer back in your hands… and I won’t try to sell you off to some rancid warrior.”
+
+Ida swallowed. “I… I don’t have a hammer anymore. It’s destroyed.”
+
+“Oh, that’s fine.” The corners of Lillia’s lips curled into a cruel smile. “Your mother will happily pass hers down. You can think of it as a family heirloom.”
+
+“What?” Indrana exclaimed. “A dwarf’s hammer is—”
+
+Her mouth snapped shut as the man at her shoulder pressed the sword harder against the neck. Another droplet of blood rolled down the blade’s length to bead at its tip.
+
+“She’d be thrilled,” Lillia said.
+
+Ida looked from her mother to Lillia.
+
+Then her jaw set.
+
+Fuck the council.
+
+Ida dropped to one knee.
+
+“Deal. I’m yours.”
+
+Lillia smiled. “Welcome aboard. Best polish your hammer off, Indrana. Make a ceremony of it or something. That seems appropriate.”
+
+Indrana gritted her teeth. She said nothing else, but that may as well have been a begrudging nod.
+
+“We’re done here,” Lillia said.
+
+The man lowered his sword from Indrana’s neck. He stepped back into the edges of the shimmering image, then vanished beyond them.
+
+Indrana reached up to press a hand against the wound on her neck.
+
+“I never knew anyone with capabilities like this existed in Milten.” Indrana said, anger and fear mixing in her words. “Who are you?”
+
+“The Menagerie,” Lillia replied. “And Indrana — if my new subordinate goes missing or dies, regardless of the cause, I’m going to be dropping your body parts off at the dwarven council’s doorstep for the next three months. I am not a kind woman. If Ida is to fall, you better make damn sure you’re dead well before she is.”
+
+With that, Lillia snapped her fingers. Shadows twisted over the white stone on the table, snuffing out the shimmering image entirely.
+
+Lillia plucked it off the table and tossed it to Ida, who nearly smacked it out of the air on accident while trying to catch it. Her ears still rung in disbelief.
+
+What just happened?
+
+“Enjoy your new hammer and job,” Lillia said with a soft smile.
+
+The darkness filling the room suddenly swallowed Lillia, leaving no trace of her passing behind. The door that Ida had come through slammed open an instant later, letting a thin beam of light spill into the pitch black room.
+
+Ida’s heart still pounded in her chest. She stared at the entrance, barely able to believe what had just happened. She took a step toward the exit.
+
+A hand fell on her shoulder.
+
+Lillia’s face appeared from the darkness directly before Ida, all traces of the smile had been on it gone as she leaned in so close that their noses were nearly touching.
+
+“And if I ever catch you threatening anyone in my guild again, I’ll rip your heart out and feed it to a stray dog,” Lillia whispered, her hand falling on Ida’s shoulder.
+
+Then she was gone.
+
+But, even as Ida hurried out into the tavern and for the street, she could have sworn she felt the claws of a demon digging deep into her flesh.

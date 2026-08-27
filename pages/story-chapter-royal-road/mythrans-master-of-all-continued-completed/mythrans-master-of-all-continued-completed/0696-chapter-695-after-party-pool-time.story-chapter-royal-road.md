@@ -1,0 +1,299 @@
+---
+id: dee83a6e-a214-5251-a484-9c6a206ad7ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 695 - After Party Pool Time"
+slug: 0696-chapter-695-after-party-pool-time
+partOf: mythrans-master-of-all-continued-completed
+position: 696
+ownLength: 3004
+unit: words
+publishedAt: 2018-09-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/288804/chapter-695-after-party-pool-time"
+royalRoadId: "288804"
+---
+
+It took about 20 minutes for the garden party to officially end and for nearly everyone to leave. Some had even come over to Ren's table and thanked him for the great party. He deflected all praise to Barbi, since it had been her idea and she had coordinated it all. All he had to do was show up, just like the rest of the guests, and that made them laugh.
+
+Those that wanted to stay moved from the lawn over to the pool area and were impressed by the facilities. After they were introduced to the temporary lifeguard and shown where the spare swimming outfits were, the pool party was on.
+
+Ren, unfortunately, couldn't participate. With the bandage on his side covering his stitches and his wrapped knee, there was no way to waterproof him enough to get in the water. All he could do was sit on the sidelines and watch as everyone else enjoyed the water.
+
+“It sucks that you can't join us.” Dana said.
+
+Ren turned from talking to Stella to look at Dana and saw her wearing a nice two piece bikini. Gretchen had on a form-fitting one piece, and Dana's mother, who looked to be about 40 years old, had on what should have been a conservative swimsuit. Her slightly wider than average hips raised the leg holes of the suit that much higher and it didn't look conservative at all.
+
+“Hell-lo!” Ren said with a bit of exaggeration, and Dana laughed.
+
+“It can't be that much of a surprise to see us in bathing suits.” Dana said. “Look at the women around you.”
+
+“I can appreciate beauty whenever I see it.” Ren said and glanced around at Elise, Stella, Lisa, Denise and Barbi. “No matter how many times or how frequently it appears before me.”
+
+“That's so sweet of you to say.” Barbi said. “I haven't been around that much, and this is only the second time you've seen me in a bikini.”
+
+“I have been a bit of a shut in the last little while.” Ren said. “How many times have you worn it around here and I didn't see you in it?”
+
+“None, so you didn't miss anything.” Barbi laughed. “If you'll excuse me, I should mingle with the guests.”
+
+“Don't have too much fun.”
+
+“You're not the boss of me.” Barbi said, then she grinned. “Okay, actually you are.”
+
+Ren laughed. “Just for that, I lift the previously stated restriction.”
+
+“Thank you.” Barbi said and walked over to a couple who were relaxing beside the pool and started to talk to them.
+
+Miss Harrison watched her go, then turned to look at Ren. “Is she one of your...” She looked at Elise and then at Lisa.
+
+“Conquests?” Ren asked, and her eyes widened.
+
+“I didn't mean to imply...”
+
+“It's all right.” Ren smiled. “Barbi hasn't succumbed to my awesomeness yet, so there's still hope that she'll escape from my nefarious clutches.”
+
+“Geez, Ren.” Stella laughed. “You're making it sound like you're a mob boss or something.”
+
+Ren cleared his throat and lifted his hands to rest his thumbs on his index and middle fingers, then made the classic motion with both hands as he talked and did a great Godfather impersonation.
+
+“Friendship is important. Friendship is everything. It is almost the equal of family.” Godfather Ren said in a gruff voice, and they all stared at him. “Great men aren't born great, they grow great, thanks to his friends and family.”
+
+No one said anything in response to his impersonation, so he smiled crookedly at them.
+
+“A man who doesn't spend time with his friends and family, can never be a real man.” Godfather Ren said. “Now, let me make an offer you can't refuse...”
+
+“I'm going to stop you right there.” Stella said and quickly covered his mouth. “Before you say something we'd need to refuse.”
+
+“Hm mhm mm.” Ren mumbled.
+
+“I don't care what it is.” Stella said and chuckled. Ren sighed and put his hands down to show he was done with the impression, and she moved her hand.
+
+“That wasn't quite what Don Corleone said.” Miss Harrison said and took a sip of wine, instead of the mouthful she usually took.
+
+“I needed to improvise to make my point.” Ren said in his normal voice. “Not about the unrefusable offer. I mean about the importance of friends and family.” He said and looked at Dana and Gretchen. “The importance of making new friends, even if it seemed kind of impossible at first.”
+
+“Actually, it's us that thought it was impossible.” Dana said, and Gretchen nodded. “We meet you randomly in the game... a fan-girl and her friend meet a television star... then we had an adventure together.” She chuckled. “Who could have predicted we'd become friends from that?”
+
+Lisa put up her hand, as did Elise, Stella, and Denise.
+
+“Four out of eight say it would happen.” Ren counted and smiled. “I guess a 50 / 50 shot is better than nothing.”
+
+“Mother! What are you wearing?!?” Randy exclaimed the question and came over to them.
+
+“It's a bathing suit.” Miss Harrison said.
+
+“It's scandalous!” Randy said. “Your butt's hanging out the back and it's too tight on your... your...”
+
+“I feel your pain.” Ren said, and Randy looked down at him.
+
+“Your mother isn't traipsing around like a schoolgirl in a skimpy outfit.”
+
+Ren didn't even have to turn his head to look as he pointed. Randy turned around and saw Barbara and Donald playing around in the shallow end of the pool. Donald wore swim trunks and Barbara wore a two piece that covered a lot less than what Miss Harrison's one piece did, even hiked up like it was.
+
+“Oh.” Randy said. “Well, at least she's half-decent looking.”
+
+“Randal Jeremiah Harrison.” Miss Harrison said in a deadly tone.
+
+Randy turned back to her and sighed. “Yes, mother.”
+
+“I believe it's time that...”
+
+“It's not his fault.” Ren said to cut off her rant, and she looked at him. “You can't blame him for not wanting to think of you as a woman.”
+
+Miss Harrison had a contemplative look on her face, and Randy had a look of relief.
+
+“Once I was old enough to understand the difference, I didn't want to think of Barbara as a woman, either.” Ren said and showed a visible shiver. “I even saw her topless once.”
+
+“I walked in on my mom like that, too.” Randy said and did a similar shiver. “Now I always knock, no matter what room I go into.”
+
+Ren held out a fist towards him. “Scarred for life?”
+
+Randy nodded and gave him a very light fist bump. “Scarred for life.”
+
+“Good lord.” Miss Harrison said with a smile. “Male bonding over not wanting to see breasts.”
+
+Stella chuckled. “If you two are done, we really should join the party.”
+
+“I'm still sidelined.” Ren said and looked at Lisa. “Go and show them what a fish can do.”
+
+Lisa nodded and Ren looked at Elise.
+
+“On the other hand, you can show them what a shark can do.”
+
+Elise smiled and leaned close to Lisa. “Sharks eat little fish!” She said and clacked her teeth by Lisa's ear and tickled her sides.
+
+“Ahhh!” Lisa yelped and took two steps towards the pool and dove into the water.
+
+“The prey is escaping!” Elise said and dove into the pool after her.
+
+Ren laughed and looked at the others. “I'm perfectly safe here, so go on and have fun.”
+
+“One of us really should stay and...”
+
+“Don't worry, I can't move much on my own and the wheels are locked.” Ren said. “You can all clearly see me, since I'm this close to the pool.”
+
+“If you need anything...”
+
+“I believe I see the waitress from earlier.” Ren said and waved to her. She jumped a little and she turned away for a moment, then looked back. He waved to her again and she waved back. “There, contact established.”
+
+“Only use the power for good.” Stella said and put a hand on his shoulder.
+
+“Oops.” Ren said with a grin. Stella laughed, then she and Denise walked over to the shallow end of the pool and hopped in.
+
+“I want to try out the diving board.” Dana said.
+
+“Not if I beat you there.” Randy said and quickly walked away.
+
+“Hey!” Dana exclaimed and walked after him. They knew better than to run around the pool, especially with a lifeguard on duty.
+
+“Kids.” Miss Harrison said and sighed.
+
+“I guess I should go, too.” Gretchen said.
+
+“You don't have to, unless you want to enjoy having fun with your friends.” Ren smiled at her.
+
+“You're my friend, too.” Gretchen said.
+
+“We can hang out for a while when we go back into the game after supper.” Ren said.
+
+“Okay.” Gretchen said and left.
+
+“...and then there was just you.” Ren said to Miss Harrison, and she took a sip of her wine.
+
+“Do you want me to leave?” Miss Harrison asked. She reached up to push her long blonde hair behind her ear, but forgot she had already tied it up for swimming.
+
+“That depends on if you enjoy hanging around a playboy.” Ren said, and she caught her breath.
+
+“You are very straightforward, aren't you?”
+
+“I don't believe in beating around the bush, as the old saying goes.”
+
+“I suppose with two girlfriends, it would be difficult to keep secrets.” Miss Harrison said.
+
+“That's not why I don't keep secrets.” Ren said. “I told them I would always tell the truth, and in some cases, quite brutally.”
+
+Miss Harrison gave him an appraising eye. “Let's test that.” She said. “What do you think of this old woman's body?”
+
+“You're not old.” Ren said. “If I had to guess, and I don't have a lot of experience with that; but, I'd say you're only a couple of years over 40.”
+
+“Very close. I'm 43.” Miss Harrison said. “Now answer the question.”
+
+“From what I've seen of it so far, I think it's quite spectacular.” Ren said.
+
+Miss Harrison huffed. “I heard the 'for your age' qualifier there.”
+
+“If I meant that, I would have said it.” Ren said, and her eyes widened slightly. “You've got a bit more flesh around your hips than a woman of your height should normally have, on average at least.” He said and held a hand up to stop her protest. “I, in no way, implied that was unappealing. It's probably because you had 2 children so close together.”
+
+Miss Harrison closed her mouth, because that was exactly what she was going to say.
+
+“You would look better in white instead of the dark blue; but, that's more my own personal preference than what's actually suitable for you.” Ren said and smiled a little. “White has a tendency to be easier to see through when it gets wet.”
+
+“Are... are you saying that you would like to see my body like that?” Miss Harrison asked, slightly surprised.
+
+“I wouldn't mind that; but, I can't right now, so I'm grateful for the dark blue color.” Ren said. “If I get excited for too long, it starts to hurt and it needs to be taken care of.”
+
+“You... you're serious.” Miss Harrison said. “You have two girlfriends and you still... you look at me like...”
+
+“He looks at you like you are a box of crackerjack and he wants to get to the prize inside.” Barbi said, and Ren and Miss Harrison turned their heads to look at her.
+
+“Hi, Barbi.” Ren said. “Is everyone enjoying themselves?”
+
+“More than they thought they would.” Barbi said as she glanced at Miss Harrison, who laughed.
+
+“Touche, Barbi.” Miss Harrison said and looked at Ren. “I think I'll go join my children in the pool.”
+
+“No drinking and diving.” Ren warned her, and she waved the comment away.
+
+“I've been sipping this one glass for the last hour, just so I can have something in my hands.” Miss Harrison said. “I'm nowhere near close to being intoxicated.”
+
+“Is that from a high tolerance or familiarity?” Ren asked.
+
+Miss Harrison gave him a smile. “A perfect balance of both.”
+
+“Then please, do me a favor and be careful.” Ren said and held a hand out to her. “Thank you for talking to me and keeping me company.”
+
+“It's been a pleasure.” Miss Harrison said and took the hand, and Ren kissed the back of it. Her face flushed red at the gesture, and when he let her hand go, she turned to walk away.
+
+“Miss Harrison.” Ren said and she turned back to look at him. “You should adjust your swimsuit, because it's riding up in the back.”
+
+“I know.” Miss Harrison said with a knowing smile and walked away with the same exaggerated hip swaying that she had earlier that day.
+
+“What exactly are you doing, Ren?” Barbi asked and brought over a lawn chair to sit down beside him. “You haven't even caught me yet, and you're already trying to catch more fish?”
+
+Ren chuckled. “She's just happy that she can show off for a man that showed an interest in her.” He said and Miss Harrison looked back at him. He gave her two 'thumbs up' gestures this time and he saw her laugh.
+
+“What do you mean?” Barbi asked.
+
+“I'm safe, you see.” Ren said.
+
+“Wh-what?”
+
+“Look at me.” Ren motioned to his damage. “Even if I said something that worried her, even a little bit, it's not like I can jump out of this wheelchair to assault her.”
+
+Barbi's mouth made that little 'o' of surprise and Ren reached over and put a hand on her thigh and pat it.
+
+“Like, if I told her that I wanted to tear off that bikini and lick her from top to bottom, with emphasis on the bottom, she would have nothing to fear from me... unless she wanted me to do it.”
+
+“I guess that makes sense.” Barbi said and then thought about it for a moment. “Hey, wait. She's not wearing a bikini.”
+
+Ren pat her leg again. “You're right, she isn't.”
+
+Barbi looked down at his hand on her thigh. She noticed that she wore a bikini and looked back at his face. “Oh.”
+
+Ren smiled and tried to take his hand back. “I can't thank you enough for today.”
+
+Barbi caught his hand and put it back on her thigh. “It really turned out great, didn't it?”
+
+Ren caressed her thigh with his thumb as he looked at her eyes. “I thought everyone would look at me and think, 'that poor guy in the wheelchair! I feel sorry for him'.” He said. “I looked at everyone's faces and I didn't see that sorrowful look.” He gave Barbi a warm smile. “Not one.”
+
+“Ren...”
+
+“I told Stella that I was worried about panicking with so many people around, and then I saw your masterful work.” Ren said. “You were so smart to keep everyone spread out in smaller clumps and then kept them occupied, and all so that I wouldn't panic.”
+
+Barbi took in a sharp breath as his hand slid up her thigh and stopped just before it touched her bikini bottoms. “Ren, I...”
+
+“I appreciate all the hard work that entailed, Barbi.” Ren said. “I really do.”
+
+Barbi's face was quite red at this point. “I didn't think you would notice.”
+
+“Just like I wouldn't notice your jealousy over Miss Harrison?” Ren asked and she caught her breath. “It's okay.” He said. “I never did give you any reassurances that I'd concentrate on you next, and I'm sorry if you thought that I might skip over you.”
+
+“It's not... I mean, I know that...”
+
+“I said it was okay.” Ren said and leaned close. “You might not want reassurance that I am concentrating on you; but, I'm going to give you some anyway.” He said and kissed her cheek. “I don't know Miss Harrison's first name. I never asked for it and she didn't volunteer it.”
+
+Barbi blinked her eyes for a moment, then smiled. “I get it.”
+
+“I hope so.” Ren said and sat back. “Could you do me favor?”
+
+“S-sure.” Barbi said, and her face stayed red.
+
+“Not that kind of favor.” Ren chuckled. “Not yet, anyway.” He said and pat her thigh. “I need the bathroom. Would you ask Stella to give me a hand?”
+
+“Of course.” Barbi said and stood up.
+
+Ren dragged his hand down her thigh to her knee and let her go. “Thanks.”
+
+Barbi nodded and went to get Stella, and she got out of the pool, grabbed a towel and started to dry herself off, and walked over to him.
+
+“You need the...” Stella looked at his grin and his hands over his private area. “What? Again?”
+
+“Sorry. I was thanking Barbi for...”
+
+“Say no more.” Stella said and put the towel around her neck. “I think that's a fetish of yours.”
+
+“What? Thanking people?” Ren asked as she took him into the house.
+
+“No, people helping you and then thanking them for it.” Stella said and they went into the bathroom.
+
+“Okay, that I think I'd have to agree with.” Ren said and Stella chuckled.
+
+“Not even a token argument?” Stella asked as she helped lay him down on the floor.
+
+“What for? I know what I like, and I appreciate it when I get help.” Ren said, and Stella pulled off her swimsuit. “Holy crap!”
+
+Stella laughed. “It's too tight to pull aside for you.” She said and gave herself a quick rinse in the shower and dried off with a different towel, then knelt over his face. “I'm glad I can still surprise you, though.”
+
+“Like I said before, no matter how many times I see... mhmm!”
+
+“Less talking, more licking.” Stella said as she covered his mouth with her private part, then did the same thing to him.
+
+They didn't make it back to the pool until almost 45 minutes later.

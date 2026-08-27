@@ -1,0 +1,113 @@
+---
+id: 55980f4a-cb3f-558a-a024-0933633d787e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 619: Not Going Alone"
+slug: 0040-chapter-619-not-going-alone
+partOf: system-change-system-universe
+position: 40
+ownLength: 2308
+unit: words
+ownProgress: 2308
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2924985/chapter-619-not-going-alone"
+royalRoadId: "2924985"
+markedReadAt: "2026-06-29T19:58:01.397Z"
+---
+
+Chapter 619: Not Going Alone
+
+“By now, I am sure most of you either know or have your suspicions that I will be leaving soon,” Derek said. He paused and saw no change on the faces of those like Rayna and Jacks. Others, like Osian and Ryven, showed surprise, but not much. A few people, like Ashley and the elven Queen, wore looks of confusion. “Ashley,” Derek said, “would you like to ask a question?”
+
+“Yes,” the woman broke out of her confused look. “But it is not my place to ask,” she said.
+
+“It’s fine,” Derek replied. “Ask your questions, even if you think they are too personal. Then I will answer. That way, I can let everyone know all at once.”
+
+“Okay.” Ashley shrugged. “In that case, where are you going? Why is it such a big deal that you think it necessary to let…” she motioned to the room, “all these powerful people know?”
+
+“Good questions!” Derek said. “First, I have absolutely no clue where I will be going. I could end up in the middle of a volcano, or I could end up somewhere completely peaceful that has everything I would ever need. Probably, though, from what I have been able to scrape together, it will be somewhere in the middle—somewhere not too dangerous, but also not safe.”
+
+A few in the room, like the elven Queen, seemed to realize what Derek was explaining. He would have liked to mention the ascension, but there were many in the room who had yet to learn about the requirements for advancement, so the system wouldn’t let him. However, a bit of help that Derek totally hadn’t hinted at or discussed over the last few days came from someone in the crowd.
+
+“Like what happened with Miss Alanah?” Brandi asked.
+
+“Slightly different, but essentially the same, yes,” Derek replied.
+
+“What will happen to you? Will you come back?” the young crafter asked, even though she knew all the answers already.
+
+“What else? I imagine I’ll work on getting stronger again,” he answered. “And will I come back? That is a very good question… one that I will answer soon. First, other than that question, are there any others?” Seeing that everyone stayed quiet and wanted to hear the answer to the question that Brandi asked, Derek continued.
+
+“So, here’s the thing,” he said as he kicked his feet back and forth while sitting on the counter. “The difference between what happened with Alanah and what is going to happen to me is that I don’t have to go alone.”
+
+“What do you mean?” somebody from the crowd asked.
+
+“I mean that I have a way to take people with me, and I am all but certain that it is safe,” Derek answered. “At least, I am as certain as possible without having done it. Though it won’t be the first time that I have done something similar.” Of course, he was talking about the times before he got his Void Travel skill—times when he teleported or entered dungeons with creatures or even people inside. During those times, no harm came to anyone. But most of all, Dave had told him that it wouldn’t be a problem, and he didn’t have any reason to doubt the elf.
+
+“And you want to take all of us with you?” The elven queen looked at Derek in contemplation. “That would certainly be sudden—swooping in and taking a queen to faraway places. I’m going to have to take some time…” She made to continue but was cut off by Derek’s next words.
+
+“Unfortunately, there is a limit on the number of people who can come with me. Three spots are already taken.” Derek nodded at a few people, then Malorie, Brandi, and Jace came to stand beside him, next to the counter. Now, Derek wasn’t actually counting Jace as part of the limit after what Dave discussed with him.
+
+Derek hadn’t said much about it, but he could tell that Jace was excited for adventure and battle. However, when Derek brought up maybe finding a nice safe city for them to settle in, he didn’t act the least bit interested. In fact, it was all Jace could do the last few days to keep himself busy and try to keep his mind off of what he really wanted. So, while Jace was going with them, in the most likely scenario, they would split just before they reached Origin City.
+
+However, after giving it a lot of thought, Jace wasn’t the only person who could do that. Derek believed that there were a few people who would be able to do quite well on their own—people like Edgar, Avery, and honestly, even with her low level, Derek thought that Stella would be able to survive as long as she made it to a city that wasn’t utterly corrupt.
+
+Then again, if Stella chose to go with them, she would be indispensable if he needed someone to navigate the politics of Origin City. Also, while there, Stella would have opportunities to grow with the dungeons in the city. She had already lived a rough life, and Derek didn’t think the convenience of having everything in one place would hinder her. After hearing about the other classes and listening to how Dave spoke, Derek thought he could roughly discern the talent of those around him.
+
+When it came to Stella and her drive, Derek doubted that she would have a problem reaching Ascendant. The same was true of Thomas, if the boy chose to go with them. He would need a bit more polishing, but wasn’t sending him to Origin City the same thing as keeping him in the Academy? However, even though he knew what was going on beforehand, Derek could still see the uncertainty in the boy’s eyes. He knew, as everyone else would soon, that it was a one-way ticket, and if he went, he would never see his grandparents again.
+
+That’s not to say that Derek didn’t think he would eventually be able to come back with Void Travel. It seemed like a very powerful skill, after all. It’s just that he expected it was going to take a long time, and Richard and Delilah didn’t have that much time remaining. They were already old and fragile when Derek met them, so even levels and vitality wouldn’t help them that much.
+
+Unless they could have an evolution like Marrick or were able to hold on despite their age like Edwin, it was likely they would be gone in a decade. So, for Thomas, it would be the biggest and most permanent decision of his life. He would certainly have regrets… whichever he chose. Would he regret going and not being with his grandparents in their final days, or would he regret staying some time after they were gone? Derek felt for the boy, but it was a decision he would have to make on his own.
+
+“How many people can you take?” David asked. It was the question on everyone’s minds.
+
+“Eleven, other than myself and any bonded beasts who may go,” Derek replied. The eleventh person was obviously Jace. “However, there is a little wiggle room on the limit. Not much, but a little. But that doesn’t matter if there aren’t any takers.”
+
+“Must we make our decisions so soon?” the elven Queen asked.
+
+“Queen…” Derek said. He hadn’t ever gotten her name, or if he had, he couldn’t remember it. “You are here because you are a leader of a kingdom that is important to this world. Edgar and Edward, as royals from another kingdom, thought it would be a good idea to include you. However, none of the available spots are for you.”
+
+“What if eleven people don’t take you up on the opportu… offer? Will there be space for this queen then?”
+
+“I don’t know,” Derek said with a shrug. “I haven’t thought about it. There is no point in thinking about it until we see who all wants to go.” He scanned the crowd, then said, “But know this… while the getting isn’t dangerous, the information I have managed to get my hands on about the destination could be entirely wrong. We may end up in that deadly volcano or somewhere ruled by beasts who can swat me like a fly. So, before you make your decision, think about it… really think about it.”
+
+“How long do you have before you have to leave?” Ashley asked. “I would like to get the teleportation between continents working properly while you are here to help. It will be much harder to do when you are gone.”
+
+That’s Ashley off the list of people who want to go, Derek thought. She wasn’t on the list to begin with, but if she’d wanted to go and he had a remaining spot or two, she seemed decent enough. Her phrasing of her questions, though, left no doubt that she wasn’t even tempted to go. “I’m thinking a week,” Derek answered. “I have a limited amount of time, but, like I said before, I’ll see what I can do.”
+
+“Thank you,” the woman said, then fell silent.
+
+“Now… knowing that there is likely very high risk, but also high reward, if any of you believe that you are able to make that decision right now, then move to the front. Those who can’t make the decision or who do not want to go, please move to the back. Remember, odds are this is a one-way trip for everyone… except for myself.”
+
+“Except for yourself?” the Queen asked.
+
+“Yes. Obviously, I’ll be able to come back with my skills, but they don’t allow me to bring others with me over such a distance,” he made sure to look deep into the eyes of the Queen—one of the few people who came who he didn’t trust—and said, “That’s right, I will be back to see how things have gone since I left… I also may have a way to look in on the planet without anyone knowing.” He wasn’t lying. He was thinking about meeting Dave in Origin City. At that point, it would be as simple as a conversation with the man.
+
+It was also a thinly veiled threat. He definitely had the intention of coming back if it was ever possible. And he would be royally pissed if he came back and the safety and peace that he spent so much time creating were gone. Since he hadn’t spent nearly as much time on the other continent, the few from there were the ones he was most worried about.
+
+“I see…” the Queen muttered, then remained silent.
+
+“Okay, go ahead and make your decisions.” After that, the people in the crowded room began to shuffle around. When all was said and done, Derek looked over them and raised his brow in slight surprise. He’d mentally guessed who all would want to go, but, in reality, things were a bit different from what he’d expected.
+
+“Avery?” Derek asked as he looked up at the back wall where the archer was leaning. “Are you sure?”
+
+“I am,” the man said. “We’ll talk later.”
+
+“Okay,” Derek said. That was a bit of a surprise to him, but one he completely understood. Avery was devoted to Alanah and probably knew that going with Derek was the most likely way to see her again. However, he had fallen into his role as instructor to his students, and he really cared for the boys. There’s also a chance that he ascends to where Alanah is eventually, and before I can get there.
+
+“Marrick? You sure?” Derek asked. This time, however, the person wasn’t next to the back wall but instead only a handful of feet away from him.
+
+“I’ve already seen everything there is to see in this place. I’d be leaving anyway, so I might as well leave with some friends instead of alone. At least at the start,” the old elf said. After the invasion, he’d completed the requirements, so it would be almost the same either way. The difference was only in which system he went to and who he went with. Would he rather travel with Derek and Jace or go somewhere alone where the only person on the planet he knew was Alanah, and who knew how long it would take to find her?
+
+“Good man,” Derek replied. He then looked at Edgar. “Are you sure? There’s no backing out.”
+
+“As long as Blitz can tag along, I’m in,” Edgar replied. He then turned and looked at Edward, Edwin, and Eloise and said, “You all don’t need me anymore, and my squad no longer needs me. As far as I can tell, the whole continent and more are at peace. You don’t need your hammer anymore.”
+
+“I wouldn’t dare stop you from taking this step,” Edwin said. “I am already ashamed of forcing unwanted levels on you. We will not stand in your way in this.”
+
+Edgar nodded at his father, then looked at Vanessa, who was standing next to Edward. “You’re not coming with me?” he asked.
+
+“We’ll talk about it later,” the Shadow Witch replied. Edgar nodded, and that was that.
+
+Derek then looked at Thomas. The boy was hesitating—stuck between those on the wall and those standing in front of Derek. Derek smiled. “You don’t have to make the decision right now. Take a few more days. I’ll keep a spot open for you until you make the decision.”
+
+His eyes then moved to the next person who had chosen to go, and he couldn’t help but smile. Derek didn’t feel great about taking Stella and leaving Avery, as they were basically siblings, but as he had been thinking before, he was more than happy that she chose to join.

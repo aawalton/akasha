@@ -1,0 +1,169 @@
+---
+id: 71e99c3e-447d-53f6-bc38-9cd5efbfee72
+page-type-slug: story-chapter-royal-road
+title: "Chapter 477: The Worst"
+slug: 0044-chapter-477-the-worst
+partOf: rise-of-the-living-forge
+position: 44
+ownLength: 1930
+unit: words
+ownProgress: 1930
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2574033/chapter-477-the-worst"
+royalRoadId: "2574033"
+markedReadAt: "2026-06-29T19:59:51.375Z"
+---
+
+Relief washed over Arwin as his foot landed on the familiar cobbled stone of the Menagerie’s street. Even though he hadn’t been very worried about things going wrong during the Blacktongue’s party, it was still nice to be home.
+
+Having to screw around with a bunch of arrogant nobles felt like dragging rusty nails through his skin. Even wading through hordes of bloodthirsty monsters was preferrable to dealing with politics.
+
+Behind him came the rest of the entourage he’d brought to the Blacktongue’s party. From the looks of things, the one that had enjoyed the outing the most was Vanessa. She walked with a slight stumble that spoke to the amount of alcohol she’d consumed and had a wide grin plastered across her lips. Her armor was splattered with a fair amount of blood… none of which Arwin suspected to be hers.
+
+“Can we do that again?” Vanessa asked with an eager grin. “I’ll give you a discount. Half off. That was the most fun I’ve had in months.”
+
+“We’ll keep you in mind,” Arwin said dryly. “You might want to stay out of the way for a little while. I don’t think the nobles are going to take very kindly to what you just pulled off.”
+
+“Us, actually,” Rodrick corrected. “She was there under our banner. And we, in turn, were invited by Thane.”
+
+“So it’s my fault,” Thane said in a pained tone. “They’ll be after me, then.”
+
+“Unlikely,” Rodrick said. “They’re not going to want word about what happened during the party to be getting out. The only way they pursue you or Vanessa is to also admit that she went around beating the life out of people who asked her to do it. Sounds like a big loss of face to me.”
+
+“You don’t know the nobles like I do,” Thane said with a shake of his head. “There’s no way they’ll let a slight like that pass.”
+
+“Oh, most certainly not,” Rodrick said. “They’ll look for assassins. Some will try to damage our trade routes and inconvenience us. Maybe they’ll try to spread rumors… but nobody will outright say what happened. It’s humiliating, and nothing matters to a noble more than their face. Or am I wrong?”
+
+Thane was silent for a few moments. Then he nodded. “No. You’re right. But…”
+
+“Don’t worry,” Lillia said, putting a hand on his shoulder. “Our reputation isn’t going to get ruined by a bunch of second-rate nobles. Nobody at that party was very important and we both know it. No offense.”
+
+“None taken. I wasn’t important to my own family, much less the other nobles. My fam— no. The Blacktongues haven’t done anything significant in years. Nobody at that party had significant political pull. But together they’ll have some.”
+
+Esmerelda waved her hand with a snort. “That and a silver coin might get them a meal. We’ve dealt with bigger threats than a bunch of little brats, Thane. Don’t you worry your skinny little ass. You’re part of the Menagerie now.”
+
+“Yeah,” Reya said with a nod. “Get used to much bigger problems.”
+
+Thane paused. “What?”
+
+“We’ll get there,” Arwin said, coughing into his fist. “Come on. We shouldn’t just stand around in an alleyway forever. I want to—”
+
+“The Blacktongue manor,” Thane said suddenly. He swallowed. “Did we burn it down?”
+
+“No,” Rodrick said.
+
+Thane blew out a relieved sigh. “Oh. Good. I was worried—”
+
+“That was just me,” Rodrick said. He pulled the fluffy, incredibly realistic looking wig on his head off and tucked it under an arm. “The others didn’t have anything to do with it.”
+
+Thane stared at him. “You burned it down? Why?”
+
+“Covering my tracks. I was looking at some important records and wanted to make sure nobody has any way to reference them after me,” Rodrick replied. “Nobody died. Don’t worry. They’ll contain the fire pretty soon. It looked bad, but it’s actually only just in a few core rooms. Stone doesn’t burn that well, so nobody should die.”
+
+Thane swallowed. “My brother is going to be furious.”
+
+“Oh no,” Rodrick deadpanned. “That’s horrible. Maybe his family should refrain from hiring people to mess with our guild next time. Double-dipping idiots.”
+
+“What are you talking about?” Lillia frowned as a dangerous glint passed through her eyes. “They were planning to attack us?”
+
+“No,” Rodrick said. “They already did. Sent a group to the Devil’s Den while we were at the party.”
+
+“What?” Arwin exclaimed. He spun, but Rodrick’s hand fell on his shoulder before he could take another step.
+
+“Calm,” Rodrick said. “The group wasn’t strong enough to pose anyone a threat — and Koyu would have found us by now if something had gone wrong. They certainly weren’t powerful enough to defeat him. The fact that we haven’t gotten a greeting means nothing went wrong. Don’t forget who we left to watch our backs.”
+
+Arwin blew out a breath, but it did little to dispel the anger in his thoughts. “Right. What did they want?”
+
+“They figured we must have gotten something good from the Expert Ranked dungeon and likely felt entitled to it,” Rodrick said dryly.
+
+“Seriously?” Thane asked. His face went pale and he swallowed. “I’m sorry. I can’t believe—”
+
+“I can,” Rodrick said. “But it’s not your fault. You’re with the Menagerie now. Not the Blacktongues. Their actions aren’t your responsibility.”
+
+Arwin strangled the anger in his chest to give Thane a nod. The boy didn’t need to see him mad right now. Especially when Rodrick was right — any attack the Blacktongues might have attempted had nothing to do with Thane.
+
+“He’s right,” Arwin said. “Let’s go group back up with the others. We’re not getting any answers here.”
+
+***
+
+“Ah. You joined up, huh?” Olive asked.
+
+“Uh huh,” Thane said, his eyes boring into her wooden arm as interest battled with his attempts to try and remain professional.
+
+The entirety of the Menagerie had gathered in the common room of the Devil’s Den. Everyone left behind to watch over the street had been waiting for Arwin’s group to return, and they passed on everything that had happened the moment the Den’s door was closed.
+
+Sending the Blacktongue’s hired team back to them with a false location and information had been clever — and it also bought them a week to figure out if they wanted to bother with the nobles any further.
+
+The conversation hadn’t lingered on the Blacktongues for much longer. Enemies were a dime a dozen. Everyone was much more interested in Thane.
+
+“Welcome aboard,” Kien said. “I only joined recently myself, but I believe we are in very similar boats.”
+
+That managed to tear Thane’s gaze away from Olive’s arm. He nearly choked on his own saliva. “You? A great hero? What do you possibly have in common with me? I’m just… me.”
+
+Kien chuckled. “For one, we both owe our classes to the same man.”
+
+Thane blinked. Then his eyes shot to Arwin. “Wait. You mean…”
+
+“I lost my class to a series of circumstances that I’m sure you’ll learn about soon enough,” Kien said. “Arwin helped me get a new one back.”
+
+“What is it?” Thane asked, his eyes wide.
+
+A small smile pulled at the corners of Kien’s lips. “You’ll have to work harder than that to get your answer. You’re a researcher, aren’t you? Might as well get some practice out of this.”
+
+While the others all introduced themselves more properly to Thane, Arwin, Lillia, and Rodrick slipped away from the conversation.
+
+Their work for the day wasn’t yet done.
+
+“Esmerelda is just about ready, and I am too,” Lillia said as they made their way for the side room. The Devil’s Den was still closed to the public today, but this wasn’t the kind of activity any of them wanted to do in the open. “That potion isn’t going to keep Mask out for much longer.”
+
+Arwin’s lips thinned and he nodded. “Let’s get this dealt with already. We’ve been waiting too long.”
+
+Lillia let the door swing shut behind the three of them. Esmerelda was already waiting in the room. She stood beside the wooden table — and upon it was Mask’s body. He was bound down to the wood with rope that looked suspiciously red.
+
+“Is that cursed?” Arwin asked.
+
+“Yes,” Esmerelda said.
+
+“Will it hold?” Rodrick asked. “We don’t want him escaping when he wakes up.”
+
+“Yes,” Esmerelda said. “It’s cursed. What do you take me for? Of course it’ll hold. I’m no amateur when it comes to bondage. This old woman has been around the block a few times.”
+
+“Didn’t need to know that,” Rodrick said with a grimace. He nodded to Mask. “Let’s get it on with, then.”
+
+Esmerelda nodded. She pulled a vial out from within her sleeve and upended it over the man’s seemingly dead face, pouring clear liquid that looked exactly like water out over him.
+
+Mask’s eyes snapped open. He drew in something between a pained gasp and a sharp breath for air that made it abundantly clear that whatever had been in Esmerelda’s vial definitely hadn’t been water.
+
+“Hello, Mask,” Arwin said, his features cold. “I hope you don’t mind the brief pause in our conversation. I felt it would be best to continue it elsewhere.”
+
+The other man’s eyes darted around the room. He took in his situation in an instant. Then his gaze landed back on Arwin, lips going thin. His jaw clenched.
+
+“Won’t work,” Esmerelda said, patting Mask on the cheek. “I removed the poison capsule. Thanks for that, by the way. It’s hard to find that variety of Purplebloom. You really shelled out for the good stuff.”
+
+Mask bared his teeth in a snarl. “Torture me, then. I’ll never give up the Guild to traitors.”
+
+“Traitors?” Arwin asked, his eyes thinning in anger. “You’re the traitors. I gave my life for the people of Lian. We aren’t the ones that started the war, Mask. And we certainly aren’t the ones who kept it going. That honor falls to you. You’re going to tell us why. What is the Adventurer’s Guild doing? What are the class-stealing daggers for?”
+
+Mask stared at Arwin for a long second. “How do you—”
+
+“Do you not recognize me?” Arwin asked, taking a step closer to Mask. Lillia moved to stand beside him. He jerked his chin toward her. “Do you not recognize her? Maybe you’ve gone through a few too many puppets to keep track of faces.”
+
+“I have no idea what…” Mask trailed off. Lillia’s shadow wings extended from her back to rise over her, flickering like black flame. The man’s features paled. “You’re not just a demon. You… you’re the Demon Queen?”
+
+“Former,” Lillia corrected.
+
+Mask’s eyes darted to Arwin. Realization finally settled in. “The Hero of Lian.”
+
+“Damn. You really didn’t recognize us. That’s hurtful,” Arwin said. “How many heroes have you gone through?”
+
+“How did you survive?” Mask asked. “It’s impossible. You both—”
+
+“Died in an explosion,” Arwin said. “Yes. So I’ve heard. Unfortunately, it didn’t stick. But I think you might misunderstand the situation. Answer my questions.”
+
+“Or what?” Mask asked, amusement pulling across his lips. “What are you going to do, hero? Torture me? You think I’ll spill anything? You think you have what it takes to break me? Does the Demon Queen?”
+
+“No,” Rodrick said. “They’re don’t. That’s why I’m here.”
+
+“And who are you meant to be?” Mask asked. “Do your worst.”
+
+“My worst?” Rodrick smiled, but it didn’t reach his eyes. “You won’t make it anywhere near that far.”

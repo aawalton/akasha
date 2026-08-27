@@ -1,0 +1,221 @@
+---
+id: cc74d61f-1260-530b-b4c5-03a8c8b158b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 152: Phoenix Bloodline"
+slug: 0152-chapter-152-phoenix-bloodline
+partOf: phoenix-ascension-cultivation-litrpg
+position: 152
+ownLength: 2425
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3703505/chapter-152-phoenix-bloodline"
+royalRoadId: "3703505"
+---
+
+“I am Fa Xiaolan.” I said simply, as it wasn’t a lie. I still wasn’t sure hwo the Phoenix could react like this, but I was going to chalk it up to the fact that the Illusion Disk was really good.
+
+Maybe this was part of the trial all along? Well, it seemed unlikely, honestly. This must be happening because I didn’t allow my conciounses to be blocked, and whatever skill or technique the Phoenix used saw through me.
+
+“That doesn’t tell me everything. I want to know more. What are you, how could be so ethereal?”
+
+I shook my head. “Even if I told you, it wouldn’t matter. This is just a modified figment of my memory, you will cease to exist as soon as I decide to finish this trial.”
+
+The Phoenix’s eyes narrowed. “I see. In that case all the more reason to humor me. Since we’ve met before then we must have had a good relationship, right?”
+
+I cringed a little at that. ‘Good’ wasn’t how I would describe the torture it put me through.
+
+“We can say that.”
+
+“Well now I know you’re light.” It sighed. “Was I that awful of a master?”
+
+“How did you know you were goign to take me in?”
+
+The Phoenix chuckled at that. “If Little Xiulang brought you here, then she must have chosen you as her successor. That naturally meant that I would have had to teach you eventually.”
+
+“Succesor?” I blurted out without thinking.
+
+“Why yes, only people chosen to lead the sect can meet and train under me. Why do you seem so surprised?”
+
+“She never mentioned that. I was never meant to stay here for a long time, so it doesn’t make sense.”
+
+“Oh? Is that so? Very strange. She must have really wanted you to learn under me.”
+
+I shook my head. “That still doesn’t make sense. I was a nobody, with weak cultivation and barely passable talent. I don’t see why she’d want me to learn under a Phoenix.”
+
+“Well, you did end up learning under me, right?”
+
+“Under different circumstances.”
+
+“Allowed by Xiulang I don’t doubt.”
+
+When she’d put it like, it did seem like Huang Xiulang allowed me to come into this cave more often than I should, as in, I should have never been allowed past this time.
+
+“See? I’m sure she had some grander plans for you, that, or she really liked you.”
+
+“We weren’t that close.”
+
+“Then maybe she saw something in you. Either way, I’m just a memory, I can only know as much as you do.”
+
+“Yeah, but at the same time this should have never happened.”
+
+“How do you know that? Maybe this was meant to happen? Or maybe you wanted something like this to happen. You’ve already broken the illusion disk, haven’t you?”
+
+“What?”
+
+However, the Phoenix only chuckled as it and everything else surrounding me began to fade away.
+
+Soon, my eyes fluttered open and I found myself back in the arena, many more gazes than before focusing on me.
+
+The illusion disk on the ground had shattered, and along with it, the illusion. I wasn’t expecting it to be quite a literaly breaking of the disk, but at least it was done.
+
+How fast… though?
+
+I looked around and saw that nobody else had broken the illusion before me. That was a little… standing out. Given that there were many more people staring at me, with many of them being elders from the different sects and clans, one could say I’d grabbed their attention.
+
+The one that looked to the most surprised was the elder that gave us the disks and bracelets in the first place.
+
+It only took a rather awkward moment of silence before he had to yell how much time had passed since I’d entered the formation and broken it.
+
+“One minute and five seconds… How is this possible?!” The old man jumped down from his high seat and landed right in front of me. He picked up the disk and inspected it, then looked at me with a discerning gaze.
+
+“Who are you? I don’t recognise you.”
+
+“Greetings, elder. I am Fa Xiaolan, Meng Mao’s niece.” I replied, bowing my head and cupping my fists.
+
+“Meng Mao? Why haven’t I heard of him? Why had he not told me that he had such a talented family member?”
+
+Because he didn’t know either…
+
+I didn’t say that out loud of course, though that was probably what the man in question was thinking as well.
+
+Sorry, Meng Mao, I truly didn’t mean to break out of the illusion first. I had no idea what happened, as the Phoenix and I were having quite a nice conversation. Although if it went on long enough I would have had to remember… the aftermath of it all.
+
+That wasn’t going to be pleasant, so maybe it was better that I broke out of it.
+
+But now I had to deal with the elder staring daggers at me.
+
+“So how did you break it so fast?”
+
+“I- I don’t know. I just saw through it.” I’d made up the best lie I could and also put on an innocent smile.
+
+“Hah!” He laughed. “You just saw through it. What a joke! My great formation, YEARS of my life, my best work so far, beaten by a mere child!” The elder threw the disk over his shoulder, hitting a disciple that didn’t react in the head.
+
+“You and I shall talk later, young one. I want to know what goes on in that head of yours.”
+
+“As you wish, elder.” I said, hiding the disgust and annoyance in my voice. I supposed there wasn’t much I could do about it if he wanted to see me, but I would not give him any of my secrets, that much was for sure.
+
+When he’d left, I looked down at my bracelet, noticing a change. There was a very large and prominent one character, one that must be showing my current ranking, or maybe just how well I did on this one trial. It was quite hard to say, honestly.
+
+Either way, I didn’t want to sit in the middle of the arena surrounded by unconcious people, so I stood up and walked toward where Meng Mao was.
+
+He was putting on a good fake smile, though I wasn’t sure if he was really smiling or if he wanted to kill me. Either way, it wasn’t my fault, and I could only hope he had it in him to forgive me… As if I cared.
+
+We didn’t bother to go to a particularly private area, but we did sit on a rock some feet away.
+
+Meng Mao let out a heavy sigh and leaned back on a rock, rubbing his temples.
+
+“I didn’t mean to do that.”
+
+“It doesn’t change the fact that you did. I just hope this won’t blow up out of proportion. Maybe I should have given you the spot without all that complicated blood relationship stuff, even if it would make everything more complicated.”
+
+“I’m not really sure what you were expecting to be honest.”
+
+“True enough. Just try not to do too much in the future, will you?”
+
+I chuckled out loud at that. “I would much faster suggest you prepare for the unforseen consequences.”
+
+◈◈◈
+
+Few hours passed before anyone else made it out of the illusion formation. I understood now why the elder had freaked out so much. This wasn’t meant to be an easy and quick trial in the slighest, but a true challange of the mind.
+
+A challange I’d broken in but a minute.
+
+I actually began to feel bad for him. Not too bad though.
+
+Also, the one that had broken out was none other than Peng Li, the one with connections to the patriarch.
+
+I couldn’t say I was surprised, since he was one of the strongest after all. Especially when he had the opportunity to get tutelage from one of the strongest people in the area. The Reaper Sect was definetely no slouch.
+
+He did have a sort of strange aura about him, I couldn’t quite say why, but the patriarch had it as well, thogh far less noticeable.
+
+Regardless of the reason, he did wake up. It took him a few minutes to truly wake up from the, at which point he looked around.
+
+I could tell that he was displeased.
+
+Me waking up before him took away some of his ego, probably, and I couldn’t blame him. But I also couldn’t care less.So what if he was a genius, I was a much bigger genius, ha!
+
+That aside, his score wasn’t too bad.
+
+The elder shouted how long it had taken him, and didn’t make a fuss out of it that time around.
+
+Soon, the disciples began waking up one by one, and before long, all of them had broken out of the illusion.
+
+I waited to see what would happen before awkwardly walking back into the arena, and I was glad to see that the other disciples were also told to leave.
+
+I joined them, many gazes following me and many others switching to Meng Mao. He was now the star amongst the older generation, which was rather funny.
+
+As for the disiples, we waited for the old man to return, but that never happened.
+
+In his place came a middle-aged man with short hair tied in a bun and a stubby beard walked in.
+
+Behind, many men carried one single large stone stele that they dropped in the middle of the arena.
+
+“Our next trial will be a quicker one. I will also have the honor of explaining how this first trial will work, so listen carefully.
+
+“Considering that the previous test was rather out of your control, unless you were very talented in the ways of mind cultivation, then this information would not have been useful at all.
+
+“However, it will matter now. This trial is an elminiation trial. Half of you will be eliminated at this stage without question.”
+
+He allowed his words to sink in, then an uproar exploded within the crowd of disciples. The elders were not surprised in the slightest, sign that they knew something like this would happen.
+
+It made sense. There were twelve spots, and we were thirty six participants, it just wouldn’t work out, as it would take too long.
+
+Although it wasn’t really the worst, as such an elimination round was rather interesting, if I had to say so myself. Ussualy they would be long, but if it only took a few hours before we were allowd to fight, then it was a pretty good idea.
+
+“Now that the truth of the matter has finlaly settled, I will explain the next trial. It is nothing but a strength trial, but not pure brute force, but also Qi control.
+
+“Your task will be to punch the stone stele as hard as you can and to infuse your fists with Qi. At the moment of the strike, you will figure out what you have to do. If you don’t, you were never worthy to enter the the Four Corner Sword Realm.
+
+“The results of this trial will be averaged with the results of the last trial, and those in last place will be elemininated and will have to return to your clan or sect.
+
+“That is all, I wish you a good performance.”
+
+After saying that, he turned around and took a seat back where the other elder had, watching us from the top. His gaze was locked onto me for a moment, but I pretended not to notice it.
+
+As the stone stele was getting set up, I’d noticed one burning glare at the back of my neck, and when I’d turned around, I saw Peng Li’s eyes try to dig a hole through my heart.
+
+Poor boy must have thought it was unfair that someone like took his first place in that last trial. I could only scoff at such a mentality, but those were the joys of youth.
+
+Very strange joys, but joys nonetheless.
+
+I’d shrugged off his glare as well and focused on the arena. The stone stele was ready and the first disciple walked up.
+
+It was a young woman with a petite frame and a wild mane of hair. From her robes, I could tell that she was from the Golden Claw Sect, though she really didn’t look the part.
+
+She had a whip strapped at her hip, which I could only assume was her main method of attacking. As a result, I didn’t have much expectation from her strength, but her Qi control could be a whole other different matter.
+
+With that said, she didn’t hesitate to walk up to the stele and cup her fists toward the elder.
+
+“My name is Fah Xing, and it will be an honor to showcase my aptitude toward the elder.”
+
+She had some balls, I had to give her that. To not only be the first to get tested but to also speak to the elders in such a direct manner required some guts.
+
+The main elder whose name I didn’t get because he was a rude fuck who didn’t present himself waved his hand and the young woman turned toward the stele.
+
+She took a deep breath and took on a fighting stance similar to that of a lion’s, then leaped forward and punched the stele with as much strenght as she could.
+
+The sound of cracking bones echoed in the arena, a sign that maybe her control had been lacking a little.
+
+The main elder didn’t as much as flinch, and nothing about him changed. It was clear that that was the expected result.
+
+However, to give credit where credit is due, the stone stele gradually lit up, going from the bottom to just below the middle.
+
+I wasn’t sure if that was a below than average or average performance, but it was definetely not good.
+
+Fah Xing walked down, hiding her pain rather well.
+
+Next up was a woman from the Fiery Expanse Sect, about the same age as this fake identity. She was rather tall, and wore high heels to boot. The woman was quick on her feet, and preseneted herself as Pei Hua before walking toward the stele and giving it a solid punch.
+
+The moment her fist colided with it, her Qi exploded out, and I’d gotten a familliar feeling from her…
+
+She had traces of a Phoenix Bloodline!

@@ -1,0 +1,183 @@
+---
+id: f24c9078-41b0-563a-a7bb-5699beb5e99f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 140 – Grab and Fly"
+slug: 0140-chapter-140-grab-and-fly
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 140
+ownLength: 2018
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3582883/chapter-140-grab-and-fly"
+royalRoadId: "3582883"
+---
+
+"Come on. Flap your wings, Smokey! I believe in you," Cee waved her front legs in encouraging fashion while the little wyvern jumped up and down, uselessly flailing its tiny wings.
+
+Liora skeptically watched this whole scene from the sidelines. Getting the wyvern up onto the rocky outcropping was an ordeal in its own right. When Liora tried to grab him and drag him up, Smokey would start thrashing and hissing and trying to bite on her legs.
+
+He was also much heavier than Cee, so carrying both her and Smokey for lengthy periods of time wouldn't be feasible anyway. Carrying that other hatchling had already required most of Liora's strength. So ideally, Smokey should fly on his own.
+
+But as things currently stood, that wasn't going to happen anytime soon. The wyvern just didn't get it at all. His flapping was all wrong. There was no way for him to fly with such a pathetic form.
+
+"This is useless!" Liora complained.
+
+"Oh, come on! Give him a chance!" Cee whined.
+
+"We've been at this for five days. I'm afraid to kill any more monsters. What if I cause some local extinction by overhunting them? Not to mention, the volcano at the center seems to be spewing more lava each day. We need to get that crystal and get the hell out of here!"
+
+"But Smokey—"
+
+"I will not sacrifice my life for some wyvern hatchling that tried to eat me!" Liora said, her feathers puffed out angrily.
+
+Cee looked at Smokey, who was flailing helplessly, being no closer to flight than before. Liora could see the conflict in the spider's eyes, and she admittedly did feel a little bad for the clumsy hatchling. But they have spent enough time on this island. Each moment that the wyvern mother held the resonance crystal felt like an eternity.
+
+Liora wanted to get it back. Not to mention that Renir was going crazy, too.
+
+This is insane! Wasting all this time on a wyvern hatchling that likely will never obey her anyway. Has she been a spider too long, and is she not capable of rational thought anymore?
+
+Liora didn't convey Renir's angry ramblings to Cee. She understood why he was frustrated, but she also understood why Cee was trying to take Smokey with them. She had already bonded with him. It was like finding a puppy and keeping it in your house for a few days, only to be forced to throw it into a river afterwards.
+
+Admittedly, Smokey was nowhere near as cute as a puppy. Liora wouldn't feel too bad for him. But she could at least understand how Cee felt.
+
+"Cee, I'm going to steal that gem tonight, and we're going to leave. With or without Smokey," Liora announced.
+
+YES! Finally!
+
+"I… Alright… We're going to keep practising," Cee said dejectedly.
+
+Liora nodded. While they waited for the darkness to come, she had something else to settle. She hadn't been sitting on her tail feathers these five days. She's been training, reaching Level 3, albeit it took quite a lot of effort. However, more importantly than the level was maxing out her Fade skill.
+
+She would have liked to increase the skill level of Theft, but there was nothing to steal on this island besides the Resonance Crystal. Monsters didn't exactly own any items. So instead, she trained the next best thing to help her pull off her heist.
+
+Liora Faded all the time, using the skill as much as the cooldown allowed her to. Her efforts had been rewarded.
+
+[Your skill <Fade> has reached its maximum potential. Would you like to upgrade it for 100 glimmerstones?]
+
+Y-Yes.
+
+The glimmerstone cost still hurt. OH, it hurt so much. But Liora consoled herself with the thought that after retrieving the Resonance Crystal, Renir would lead her to one of his treasure troves. It would be a worthy investment in future treasure.
+
+[Fade (Rank 2) variants available]
+
+[Assassin's Fade – Lock onto a target and become completely imperceptible until making contact with the target. You cannot attack anything besides the target.]
+
+That's not gruesome at all… But it basically lets you stay invisible for an indefinite amount of time. Albeit you could only attack the target… I can't say that I would enjoy being an assassin bird.
+
+You can still be detected by your heat signature and mana aura. Not to mention that this is a well-known skill among assassins, and countermeasures have been produced for it.
+
+Next!
+
+[Group Fade – Make a group no smaller than 3 entities and no larger than 10 invisible for five minutes. The number of entities that can be turned invisible scales with skill level.]
+
+A longer period of invisibility, and you can make ten more people invisible alongside you. I could see how it would be useful for an adventuring party, but not for me. I only got Cee, and she's plenty stealthy on her own.
+
+Agreed.
+
+[Abyssal Fade – Erase the presence of mana around you, as well as become imperceptible for three minutes. Casting in this state powers up your spells and incantations.]
+
+The obligatory magical variant, but it's actually rather good this time. Not very long when compared to other variants, though.
+
+I want this skill… How come I didn't have it offered to me at any point? It sounds super useful.
+
+I bet it's because you're too noisy. Even the System can't hide your ego.
+
+That… might be true.
+
+Liora rolled her eyes and checked the last option.
+
+[Decoy Fade – Upon fading, leaving behind an afterimage that mimics your last movements for a short duration before dissipating. While decoy is active, you become completely undetectable by conventional means.]
+
+That sounds very useful.
+
+But judging by the description, the duration is very brief, likely not much longer than your current. Half a minute, if I'm not wrong.
+
+Yeah… But it will increase with skill level, no?
+
+Most likely.
+
+Liora thought over the options for a bit. She was actually torn. Decoy Fade was great, but short-lived. Abyssal Fade lasted a bit longer and would empower her spells.
+
+But thinking about it carefully, what kind of spells could she use? She knew a few incantations but didn't particularly like those. Abyssal Fade would, however, give her time to cast them without being disturbed.
+
+But other than that what else did she have that qualified as a spell? Air Slash, Poison Shot, Wind Blast, Holy Light, Purify, and Aegis Cyclone. The last one was a moot point since she shouldn't be targeted for an attack in the first place while Faded.
+
+Having a decoy sounded super useful. She wouldn't just be disappearing from the enemy's sight, which would undoubtedly put them on edge. The afterimage would distract them while Liora herself did whatever she needed to do to defeat them.
+
+I think I like the Decoy Fade better.
+
+Yeah, I figured. You're always anti-magic.
+
+Don't be so dramatic. I just think that making people believe that I haven't disappeared anywhere is a far more useful tactic. More versatile.
+
+I definitely would have picked Abyssal Fade.
+
+Yes, yes. I get it. You've been moody lately. System, I choose Decoy Fade.
+
+[Would you like to upgrade your skill <Fade> to Rank 2 skill <Decoy Fade> for 100 glimmerstones?]
+
+Yes!
+
+[Skill <Fade> upgraded to skill <Decoy Fade>.]
+
+Time to get that Resonance Crystal back.
+
+As soon as the dark descended upon the island, Liora flew off on her mission. Cee tried to protest, saying that Smokey needed just a few more days for flying practice. Liora had almost caved.
+
+But then a low rumble echoed through the island. The source of it was clear as a large volume of smoke rose from the volcano. It was about to erupt. Liora wasn't going to wait around for it to happen and bury the precious Resonance Crystal she had worked so hard on to attune.
+
+Well, it was Cee who did all the attuning, but she couldn't have done it without Liora. It counted.
+
+Unlike before, however, the wyvern mother wasn't asleep. Even from high above the sky, Liora could see her vigilantly lift her head once in a while to check the surroundings while her hatchling was tucked protectively under her wings.
+
+The Resonance Crystal was nowhere in sight, but Liora's Treasure Sense clearly told her that it was tucked underneath the wyvern. To get it, Liora would have to get her to move. This was exactly why she had picked Decoy Fade. It was the perfect solution for this conundrum.
+
+Liora approached from behind, relying on her Shadow Glide to keep her silent and hidden from the wyvern. But obviously, once she was close enough, the wyvern saw her, likely by detecting her heat signature, and let out an angry screech.
+
+As the beast stood up and opened its wings threateningly, Liora saw her prize gleaming by her feet. The next moment, the wyvern had leapt into the air, flying straight into the air. Liora turned around, pretending to fly away, but in reality, she activated Decoy Fade, and hoped for the afterimage to keep flying in the opposite direction.
+
+The feeling was a bit disconcerting as she was forcibly shoved away from her decoy, which kept flying away from the wyvern. Nonetheless, Liora didn't waste time and flew to the nest, where the hatchling was mewling with concern. Right next to him stood the crystal, so Liora dove down to grab it.
+
+Her Theft skill tingled, and it felt like it was guiding her a little. Showing her which side to better approach the crystal from.
+
+Angry roar resounded behind Liora, and she felt herself become visible again.
+
+What?! Half a minute hasn't passed yet.
+
+The decoy must have disappeared when the mama wyvern attacked it.
+
+Dammit!
+
+Glancing back, Liora saw that the wyvern momma was already flying after her, fire threatening to spill out of her mouth at any moment.
+
+Liora threw up Aegis Cyclone just as the flames reached down for her, repelling them from herself as she descended upon the nest and grabbed the Resonance Crystal.
+
+Mother wyvern likely thought that Liora was about to grab her hatchling again, and her flames intensified. Liora's mana disappeared in what felt like an instant as Aegis Cyclone repelled the damage.
+
+Abort! Abort!
+
+Withdrawing the crystal into her Inventory, Liora used Featherflash to blind the wyvern and get as far away from the nest while she was a mote of light. Which wasn't very far.
+
+The wyvern flew aimlessly for a moment as she was blinded by Liora's bright light, which bought her a precious few seconds to fly away from the scene. But before long, the wyvern had recovered and was flying after her again. It wouldn't take long for her to catch up and for Liora to be within the range of her flames.
+
+"Leave me alone!" Liora screeched, but the wyvern continued her pursuit, getting closer and closer.
+
+Liora was almost at the cliff where Cee was waiting for her. The spider looked absolutely horrified when she saw the wyvern's approach.
+
+"Jump! I'll catch you," Liora called.
+
+Cee looked at Smokey, no doubt feeling torn.
+
+"JUMP!" Liora yelled, approaching the cliff at high speed.
+
+The spider jumped at the last moment, and Liora snatched her in her talons as gingerly as she could. Smokey let out a sad yelp, jumping at the edge of the cliff.
+
+"Sorry, Smokey," Liora called.
+
+Smokey whimpered, then turned around to see his deadbeat mother approach. Scared by her angry presence, the little wyvern jumped off the cliff, opening his wings, which thankfully had regrown their torn membranes by now.
+
+For a moment, Liora and Cee watched the little wyvern plummet to the ground in horror. She thought that he would just fall to his death. But then an errant breeze must have caught his wings, and he was tossed up.
+
+"Yes, Smokey!" Cee called cheerfully.
+
+"That is very nice, but there's still a wyvern chasing after us," Liora noted and saw fire rise in the fast approaching maw of the wyvern mother.

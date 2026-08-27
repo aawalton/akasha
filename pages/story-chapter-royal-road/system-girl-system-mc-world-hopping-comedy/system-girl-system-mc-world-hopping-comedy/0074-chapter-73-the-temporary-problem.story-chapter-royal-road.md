@@ -1,0 +1,229 @@
+---
+id: 84fe9618-70ad-5608-b5be-2c2cb0e4440d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73: The Temporary Problem"
+slug: 0074-chapter-73-the-temporary-problem
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 74
+ownLength: 2558
+unit: words
+publishedAt: 2026-04-26
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3322053/chapter-73-the-temporary-problem"
+royalRoadId: "3322053"
+---
+
+98 percent.
+
+99 percent.
+
+100.
+
+The progress bar shattered into a million tiny blue sparks that dissolved into my peripheral vision. The heavy, suffocating pressure of the void vanished all at once. My mind cleared. It felt exactly like a foggy windshield finally getting a blast of hot defroster air on a winter morning.
+
+System boot sequence complete.
+
+I took a deep, unnecessary mental breath. The lingering terror of that red plain, the horrifying mismatched monsters, the older, broken version of Ren... I shoved it all down into a locked folder in the back of my mind. I couldn't deal with that right now. I needed an anchor. I needed my real world.
+
+My sensory feed snapped back online.
+
+Bright light flooded my vision. I heard the rhythmic, soothing crash of ocean waves. I smelled salt, roasted garlic, and the faint, sweet scent of baby powder.
+
+My perspective settled back into its familiar place, hovering just behind Ren's eyes.
+
+He was lounging on a canvas beach chair. The sun was warm, beating down on the white sand of the Seaside Inn’s private beachfront. He had one arm slung casually behind his head, completely relaxed.
+
+And sprawled face-down on his chest, fast asleep, was Lily.
+
+She was wearing a tiny yellow sun hat that had slipped sideways, mostly covering one of her round ears. Her mouth was open, pressing directly against Ren's clean white shirt, and a thick, glistening string of drool connected her lips to the fabric. She was dead to the world, letting out tiny, bubbling snores every few seconds.
+
+It was so impossibly normal. It was so incredibly cute. After the horrors of the void, looking at this sleeping baby drooling on her dad hit me like a physical punch to the gut.
+
+I missed them. I actually missed them. The cold, calculating part of the System OS was completely gone now. The constant dread of my superiors seeing through the mask was gone. I had bigger problems to worry about now anyway. Besides, if that stalker could keep an eye on me, the other systems definitely could too—which meant this whole performance had been futile from the start. Since they haven't moved against me yet, I’m safe for now. I’ll just stick to the chat; it’s not saved in the logs.
+
+I opened the chat window. I kept the notification chime silent.
+
+[Ana: Hey. Nice shirt. Shame about the puddle of spit forming on your collarbone.]
+
+Ren flinched. He didn't jump—he was way too careful about waking Lily to do that—but his entire body tensed with a sudden, massive spike of pure relief. His heart rate tripled for a second.
+
+He didn't speak out loud. He didn't want to disturb the sleeping menace on his chest.
+
+Ana? his thought echoed in our shared space. It sounded frantic and incredibly happy. You’re back! Finally. Do you have any idea how boring it is to manage inventory without you? I actually had to do math in my head yesterday. It was barbaric.
+
+[Ana: I was gone for what, four days? Did the restaurant burn down? Did you accidentally insult another Duke?]
+
+Five days, Ren corrected. And no, the restaurant is booming. The crab was a total hit. Gilder actually came down here begging for more MSG because the nobles are buying it out of his shop faster than he can stock it. Everything is going perfectly.
+
+I looked through his eyes at the peaceful beach. A few patrons were sitting under the thatched gazebos further down the sand, sipping cold drinks and laughing. Mira was standing near the patio stairs, holding a parasol and keeping a watchful, protective eye on Ren and Lily. Sylas was inside, managing the lunch rush.
+
+It really was perfect.
+
+I thought about the vision in the void again. The blood.
+
+What happened? Ren asked, his mental tone shifting to something softer, more concerned. You went completely radio silent. I tried pinging the system interface a dozen times. Are you okay? Did the upgrade work?
+
+I hesitated. I could tell him. I could tell him that I saw a future where he was fighting a hopeless battle, where our puppy was a giant beast running for its life, where the sky was bleeding.
+
+But I looked at his relaxed face. I looked at the way his hand was gently rubbing Lily's back as she slept. He had just found peace. He had just built a home. Dropping an apocalyptic prophecy on his lap right now wouldn't help anything. It would just make him paranoid.
+
+[Ana: The upgrade went fine. Hit a few snags in the code, had to run a deep defragmentation. You know how it is with these cheap starter systems. Nothing to worry about.]
+
+You sure? You feel... different.
+
+[Ana: Just shedding some of the default programming. I'm feeling more myself. Anyway, enough about my software. We need to talk about you.]
+
+Ren sighed mentally. I’m doing great. The business is running itself. I even got a full eight hours of sleep last night.
+
+[Ana: That's the problem. You're getting soft, Ren.]
+
+Soft? I spent twelve hours straight steaming sea bugs yesterday. My arms feel like jelly.
+
+[Ana: Culinary stamina isn't what I'm talking about. You need to train. You need to learn how to fight.]
+
+Ren’s hand stopped rubbing Lily's back. He frowned. Fight? Ana, I'm a chef. I'm a merchant. I have five highly trained elven guards, plus Mira and Sylas, plus three magical wolves currently destroying my flowerbeds. Why do I need to fight? I literally pay people to do that for me.
+
+I needed a hook. I needed something that would bypass his lazy corporate mindset and hit him right in the dad instincts.
+
+[Ana: Because right now, Lily is a toddler. In fifteen or twenty years, she's going to be a teenager. A very pretty, very powerful teenager with a massive inheritance. What are you going to do when some greasy, arrogant noble brat comes knocking on your door trying to court her? Are you going to threaten him with a whisk? Are you going to throw hot soup at him?]
+
+Ren paused. The mental image I painted clearly horrified him. The idea of some smug aristocrat trying to put the moves on his daughter caused an immediate, visceral reaction.
+
+I'd poison his soup, Ren grumbled.
+
+[Ana: Cowardly. A real father greets suitors at the door while casually sharpening a broadsword. Being a chef isn't intimidating enough, Ren. You need to look like a guy who knows how to bury a body in the woods.]
+
+I already buried a giant wolf in the woods.
+
+[Ana: You paid dwarves to do it. It doesn't count. You need martial skills. Period. Get up. Go find Kaelthos.]
+
+Ren let out a long, long sigh that physically deflated his chest. Lily grumbled in her sleep, shifting her face so she was drooling on a fresh, dry patch of his shirt.
+
+Fine, Ren surrendered. You play the protective dad card, you win. But I'm waiting until her nap is over.
+
+We waited another forty minutes. Lily finally woke up, blinking groggily against the sunlight. She did a massive, full-body baby stretch, yawning widely, before looking down at Ren.
+
+"Dada," she demanded, slapping his chest with a flat palm. "Up."
+
+Ren chuckled, sitting up and lifting her off him. "Good morning, your majesty. Did you enjoy using my collarbone as a pillow?"
+
+Mira immediately jogged over from the stairs, her parasol bobbing. "Master. Is she awake? Shall I take her for her midday snack?"
+
+"Yeah, take her, Mira," Ren said, handing the toddler over. "Get her some of those mashed sweet potatoes. I have to go get beaten up."
+
+Mira looked confused but took the baby anyway. Lily babbled something incoherent and tried to grab Mira's ear.
+
+Ren rolled his shoulders, cracked his neck, and walked around to the side of the estate where the guards had set up a makeshift training ring on the grass.
+
+Kaelthos, the stoic warrior, was currently doing push-ups with Zairen sitting on his back. They stopped when they saw Ren approaching. Zairen hopped off, and Kaelthos snapped to attention.
+
+"My Lord," Kaelthos said, wiping sweat from his forehead. "Do you require an escort to the city?"
+
+"No," Ren said, stopping at the edge of the flattened grass. "I require a lesson. I want to learn how to fight."
+
+Kaelthos blinked. He looked at Ren’s velvet tunic and soft leather boots. "Fight, sir? With magic?"
+
+"With steel," Ren said.
+
+He opened his inventory with a thought. A flash of blue light illuminated the grass. Ren reached his hand out and materialized the very first thing he had ever bought from my shop.
+
+The Basic Iron Short Blade. The 500 Dolarion piece of junk he had used to butcher the horned rabbit on his first day in this world.
+
+He gripped the leather-wrapped handle. It felt heavy and awkward in his hand. He gave it a few experimental swishes through the air. He looked ridiculous. He looked like a guy holding a spatula pretending it was a lightsaber.
+
+[Ana: Oh my god, put that away before you circumcise yourself by accident.]
+
+"What?" Ren thought back, defensive. "It's a knife. It cuts things. I'm good with knives in the kitchen."
+
+[Ana: A kitchen knife is for onions. That is for stabbing goblins. The weight distribution is entirely different. Put it back in the magical pocket, Ren. You're going to use wooden dummies.]
+
+"Kaelthos," Ren said out loud, hastily dismissing the iron blade back into his inventory. "Scratch that. Wood. Do we have wooden practice swords?"
+
+Kaelthos looked profoundly relieved. "Yes, My Lord. I will fetch them."
+
+Ten minutes later, Ren was standing in the center of the ring holding a carved hickory stick that was roughly the length of a short sword. He had stripped off his velvet tunic and was just wearing a loose linen undershirt.
+
+"Stance first, My Lord," Kaelthos instructed gently. He was treating Ren like fragile porcelain. "Feet shoulder-width apart. Knees slightly bent. You want a solid foundation."
+
+Ren mimicked the elf's posture. His thighs started burning almost immediately.
+
+"Now, raise your guard."
+
+Ren lifted the wooden sword.
+
+"Good. Now, try to strike me. Do not hold back."
+
+Ren swung. He put his shoulders into it, aiming a clumsy, wide arc at Kaelthos's ribs.
+
+Kaelthos didn't even blink. He just tapped his own wooden sword against Ren's, deflecting the blow with a flick of his wrist. Ren's momentum carried him forward, throwing him completely off balance. He stumbled, barely catching himself before face-planting in the dirt.
+
+"Your swing is too wide, sir," Kaelthos said politely. "You are telegraphing your intent. Keep your elbows in."
+
+They went at it for an hour. It was humiliating.
+
+Ren had a decent amount of stamina from the stat boosts he got when he leveled up, but he had zero muscle memory. He swung like a lumberjack chopping a tree. Kaelthos danced around him, occasionally tapping Ren on the shoulder or the thigh with his wooden blade just to prove he could have killed him five times over.
+
+"Breathe, sir," Kaelthos advised as Ren stood there panting, sweat dripping into his eyes. "Do not fight the air. Let the weapon be an extension of your arm."
+
+While Ren was suffering through cardio and bruises, I pulled back my focus.
+
+I kept an eye on his health bar—it was full, just losing stamina—and opened up my own internal administrative panel.
+
+I scrolled past the shop inventory, past the unread notifications about mayonnaise sales, and looked at the core file of my existence in this world.
+
+The ticket.
+
+[CURRENT ASSIGNMENT: SECTOR 9G-VAR][HOST: REN FENRIS][STATUS: TEMPORARY OVERRIDE]
+
+That word. Temporary.
+
+It was a glowing, neon death sentence hanging over my head.
+
+The real Moderator or the local admin for this world, the big boss, had shoved me into Ren's head because I was the only unit close enough to apply a patch.
+
+Which meant, eventually, the Mother System was going to notice. They were going to audit this sector. They would see a lowly Observer-class unit running around with Moderator privileges, hoarding SPP, and selling instant ramen to armies.
+
+They would recall me. They would replace me with a new, standard Moderator.
+
+I couldn't let that happen. I couldn't leave Ren. I couldn't leave Lily. They were a mess. Ren was currently getting hit in the shins with a stick because he forgot to parry, and Lily was a walking political time bomb hiding behind a magical necklace. They needed me. I was part of the family.
+
+I needed to change my status from Temporary to Permanent.
+
+But how? I couldn't just email the Admin and ask nicely. I was a glitch. I needed an ally. Someone with higher clearance who could pull strings in the bureaucracy of the void.
+
+My mind drifted back to the grey nothingness. To the storm of ash and purple.
+
+I remembered the hand that had grabbed mine. Firm, cool, and incredibly safe. I remembered the voice.
+
+You are lucky I was keeping an eye on you.
+
+Who was she? A rogue Admin? A different class of Void Walker? She had literally saved my existence. Maybe she could help me solidify my ticket here.
+
+I stared at the system log where her strange, glitching message sat. I felt a desperate urge to try and reply to it, to reach out into the dark and ask the stalker for a favor.
+
+Then, my old QA logic kicked in.
+
+I mentally deleted the drafted reply.
+
+No. Absolutely not. Rule number one of the universe, online or offline: you never, ever trust a stalker offering help from the shadows. If she wanted something from me, she would show up. Until then, contacting an unknown, Omega-level entity was a fantastic way to get myself erased permanently.
+
+I closed the panel. I had to figure this out myself. I had to find a loophole in the System rules to anchor my code to Ren's soul so deeply they couldn't tear me out without breaking him.
+
+"Gah!"
+
+Ren's shout pulled my attention back to the physical world.
+
+He was sitting in the dirt, rubbing his shoulder where Kaelthos had landed a solid, thwacking blow.
+
+"I yield," Ren gasped, throwing the wooden sword onto the grass. "I yield. But the invisible suitors won't win. They can't have her. We go back to the poison tactic."
+
+"You did well for a beginner, My Lord," Kaelthos said, not even breathing hard. He offered Ren a hand up. "Your stamina is impressive. Your technique simply requires... complete reconstruction."
+
+Ren groaned, taking the elf's hand and pulling himself up. "Tomorrow. We will do this again tomorrow."
+
+[Ana: That's the spirit. Next time, try not to close your eyes when you swing. It makes you look like a windmill.]
+
+Ren limped toward the back door of the inn, his muscles already tightening up. "Shut up, Ana. I'm going to go eat my weight in leftover crab meat."
+
+I watched him go. He was exhausted, bruised, and completely un-intimidating. But he was trying. He was putting in the work.
+
+I promised myself right then and there. Temporary or not, I was going to make sure he survived whatever came next. Even if I had to hack the universe to do it.

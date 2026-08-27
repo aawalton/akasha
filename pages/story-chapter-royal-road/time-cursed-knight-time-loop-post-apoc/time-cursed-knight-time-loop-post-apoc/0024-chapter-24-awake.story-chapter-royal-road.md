@@ -1,0 +1,397 @@
+---
+id: a52534c0-2b44-52a0-a1b9-c4883c8c402a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Awake"
+slug: 0024-chapter-24-awake
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 24
+ownLength: 2194
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3306024/chapter-24-awake"
+royalRoadId: "3306024"
+---
+
+I blinked.
+
+The world around was wrong.
+
+Not the familiar wrong of waking in a tent after dying.
+
+The light was warm. Dust motes drifted in lazy spirals.
+
+I was kneeling.
+
+My knees pressed against a padded rail. My hands were folded in front of me. Small hands. Thin fingers with bitten nails and a scab across one knuckle.
+
+A child's hands.
+
+I knew this place.
+
+The smell reached me first. Incense, wood polish and a faint mustiness.
+
+The sound came next. A voice somewhere ahead.
+
+A priest stood at the altar. White vestments, gold trim. The crucifix behind him.
+
+Catholic. Like my father's family. Every Sunday morning without exception, rain or shine, hangover or heartbreak.
+
+I remember this.
+
+Not the way I remembered Kaspar's life, through journals and secondhand stories and blue-box notifications. I remembered this the way you remember your own name.
+
+I'd lived this.
+
+Beside me, breathing slow and measured, knelt a man.
+
+He was big. Not as tall as the Knight with the massive sword. Yet he had shoulders that could carry a roof beam. Hands that could grip an axe handle and swing for twelve hours without complaint.
+
+His right arm was in a sling.
+
+He knelt anyway.
+
+He always knelt. Every Sunday. No matter what.
+
+I tried to see his face.
+
+My eyes moved up looking at him. The heavy jaw. The crooked nose that had been broken twice. The stubble that he never managed to shave properly no matter how many times Mom left the razor on the counter.
+
+Yet the face blurred. As if the memory itself was protecting it from being fully seen.
+
+I tried harder.
+
+The blur resisted.
+
+His name.
+
+What was his name?
+
+I could feel it. Sitting on the tip of my tongue. Yet, nothing.
+
+The name slipped through my fingers.
+
+Panic spiked in my chest. A child's panic, the kind that makes your throat close and your eyes burn.
+
+I was crying.
+
+Not the quiet, dignified tears of grief. These were the ugly, shaking sobs of a boy who was terrified and couldn't hide it.
+
+"Hey."
+
+His voice was low.
+
+"Hey, buddy. Look at me."
+
+I looked up.
+
+The face was still blurred. But the eyes weren't. They were clear.
+
+"I'm scared," I whispered.
+
+"I know," he said.
+
+His good hand found the back of my neck. Calloused fingers, warm and steady, resting against my skin.
+
+"Please retire," I said. "Please. You almost died. You're hurt. You can't..."
+
+"I can't," he said.
+
+"If it's about money," I pressed. The child in me was desperate , "we can figure it out. I can work. I'm strong enough. I can carry things. I can..."
+
+"It's not about money."
+
+His hand squeezed the back of my neck gently.
+
+"Then why?" My voice broke on the word.
+
+He was quiet for a moment.
+
+The priest's continued in the background. Somewhere in the pews behind us, an old woman coughed softly.
+
+"Do you know the story of the Good Samaritan?" he asked.
+
+I nodded. I didn't trust my voice.
+
+"A man was beaten," my father said. "Left on the road. Bleeding. Dying. A priest walked past. A Levite walked past. Both of them saw. Both of them kept walking."
+
+His eyes held mine.
+
+"Then a Samaritan came. A stranger. Someone who had every reason to walk past, too. No obligation. No duty. No reward waiting."
+
+He shifted on the kneeling rail.
+
+"He stopped," my father said. "He knelt. He carried the man to safety on his own back."
+
+The hand on my neck didn't waver.
+
+"The strong protect the weak," he said. "Those who can, rise to help. That's not a suggestion, son. That's not a nice idea. It's a duty."
+
+I stared up at him through blurred eyes.
+
+"And if I don't do it," he continued, softer now, "if I walk past because it's easier, because it hurts less, because I'm tired…"
+
+He leaned closer.
+
+"What kind of father would I be? What kind of man would I be teaching you to become?"
+
+I didn't answer.
+
+The priest's voice rose. The congregation stirred.
+
+My father's hand left my neck.
+
+The warmth lingered.
+
+His face blurred further. The eyes dimmed.
+
+The incense faded.
+
+The church faded.
+
+My eyes opened.
+
+Again there was no canvas before me.
+
+My body swayed. The rhythm was uneven, lurching, the cadence of a vehicle moving over bad road.
+
+I tried to move, but couldn't.
+
+My arms were bound behind my back. Thick rope, wound tight enough that my fingers tingled. My ankles were lashed together. A separate length of cord ran from my wrists to something above me, an iron ring bolted to the frame of whatever I was lying on.
+
+I was on top of a carriage.
+
+Face down.
+
+The ground scrolled beneath me at an alarming pace, visible through the gap between the carriage's roof boards and the edge of the canvas covering.
+
+Dust. Dry grass. Stones. All of it rushing past in a blur.
+
+I blinked hard, trying to figure out what was happening.
+
+The last thing I remembered was...
+
+The wall. The elves. The blade in my stomach. The massive sword that had swept through the air above me.
+
+Then darkness.
+
+No notification.
+
+I hadn't died.
+
+I'm alive.
+
+The day hadn't reset. Whatever had happened after the Knight's sword separated those two elves, I had survived it.
+
+Which means this was tomorrow.
+
+And I was tied to the roof of a moving carriage.
+
+"Help!" I shouted.
+
+The word came out hoarse. My throat felt like it had been lined with sandpaper.
+
+I tried again. Louder.
+
+"Hey! Someone! I'm awake here!"
+
+A voice drifted up from the driver's seat below.
+
+"The kid's up."
+
+The reins creaked. The carriage began to slow, wheels grinding against packed earth, the horses' hooves transitioning from gallop to a stop.
+
+Ahead, a second carriage pulled to a halt.
+
+Doors opened.
+
+Boots hit the ground. Multiple pairs.
+
+I craned my neck, trying to see.
+
+Five figures emerged from the two carriages and arranged themselves in a loose semicircle beside the vehicle I was strapped to.
+
+The Knights.
+
+I recognized them immediately. The same five I'd watched walk through Grenzheim's square.
+
+They stood in the roadside dust and looked up at me with expressions that ranged from mild curiosity to absolute indifference.
+
+One of them stepped forward.
+
+He wasn't the tallest or the broadest. He certainly wasn't the one who'd swung that iron slab of a sword through two elves.
+
+He was missing an arm.
+
+In its place, beginning at the joint a prosthetic of dark steel extended. Not the crude, mechanical design of Vael's eye. His was leaner and more integrated. The metal followed the architecture of a real arm with uncanny precision, each joint articulated, each finger segmented into knuckle-sized plates.
+
+The rest of him was like a symbol of survival.
+
+Scars covered every visible inch of skin. Some were thin and pale. Others were raised and angry.
+
+His hair was black and cut short.
+
+A bastard sword hung at his hip.
+
+His eyes were dark.
+
+"So you woke up. I was expecting we would be further on the journey," he said. "I'm Brandt. Commander and part of the Iron Cross."
+
+The name carried some unseen weight. I figured from how the others reacted. A subtle squaring of shoulders in respect.
+
+"I've requisitioned you," Brandt continued, looking up at me with the same expression someone uses while inspecting equipment.
+
+I stared down at him from my undignified position on the carriage roof.
+
+"Requisitioned me," I repeated flatly. "For what? And why am I tied up?"
+
+Brandt's jaw worked once, as if chewing on a thought before deciding whether to spit it out.
+
+"The Iron Cross is a special legion of Silberwald," he explained. "We operate under direct royal charter. Our mandate allows us to requisition anyone at any time to our training program."
+
+A second.
+
+"Even if they don't want to come."
+
+I processed this.
+
+"I never resisted," I said. "I didn't fight you. I was unconscious. Why am I tied to the roof?"
+
+Brandt's expression didn't change.
+
+"Standard procedure," he said. "Most recruits resist. Some violently. It's easier to transport everyone the same way and sort out the willing ones later."
+
+"How many recruits actually want to come?"
+
+"Almost none."
+
+That tracked.
+
+I hung there for a moment, swaying gently as the horses shifted.
+
+"Will I learn to use a sword?" I asked.
+
+Brandt blinked.
+
+It was the first time his expression had changed. A slight widening of the eyes that lasted less than a second before the mask of professional composure slid back into place.
+
+"What?" he said.
+
+"Swords," I repeated. "Will you teach me swordsmanship? Will I become a Knight?"
+
+I could feel the other Knights processing the question with surprise.
+
+"Yes," Brandt said slowly. "That's part of the training."
+
+His eyes narrowed.
+
+"It won't be easy," he added. "Or painless."
+
+"Untie me," I said. "I won't resist. I want this."
+
+Brandt studied me for a long moment. His steel hand flexed once, the articulated fingers clicking softly.
+
+Before he could respond, another figure stepped forward.
+
+This one was different from the others. He was lean. His build was the kind that moved fast and hit precisely and disappeared before you could swing back.
+
+Short blond hair fell across a forehead that could have belonged to a nobleman. His features were sharp and symmetrical. High cheekbones. A straight nose.
+
+He was, objectively, beautiful.
+
+His eyes ruined it.
+
+They were pale gray, and they held the temperature of a winter lake. They swept over me the way a surgeon's eyes sweep over an operating table.
+
+He wore no armor.
+
+Where the other Knights carried steel on their bodies, this one wore leather. Thin, dark, close-fitting.
+
+"Apologies," he said, and the word was so devoid of actual apology that it might have been a different word entirely. "We won't be untying you."
+
+He tilted his head slightly.
+
+"Cael," he offered. "They call me Ghost."
+
+"Why Ghost?" The question slipped out before I could stop it.
+
+Ghost's pale eyes settled on mine. He didn't blink.
+
+"Because I'm good at making people disappear."
+
+I blinked while thinking there were better nicknames than Ghost.
+
+A pause stretched between us. Long enough for me to decide he wasn't joking.
+
+"We never trust a new recruit," Ghost continued. "Not on day one. Not on day ten. Trust is earned in the Iron Cross. It is not given because someone says the right words."
+
+His gaze flicked to the ropes binding my wrists and ankles.
+
+"You stay bound until we decide otherwise."
+
+I stared at him, then at the ropes.
+
+The pragmatic part of my mind, the part that had learned to negotiate with mules and quartermasters, engaged.
+
+"Fine," I said.
+
+The word surprised them. I saw it in the micro-shifts of posture, the way two of the unnamed Knights glanced at each other.
+
+"You won't untie me," I continued. "I understand. But could you at least take me off the roof?"
+
+I craned my neck, trying to look at Brandt without the blood rushing further into my skull.
+
+"I've been staring at the ground for however long I was unconscious. My arms are numb. I can barely feel my hands. If you're going to keep me bound, at least let me sit inside where I can see something other than dirt."
+
+Another silence.
+
+Brandt looked at Ghost.
+
+Ghost looked at Brandt.
+
+Something passed between them.
+
+Brandt turned back to me.
+
+"You're not what I expected," he said.
+
+"Most recruits scream," Ghost added, tone unchanged. "Some cry. A few try to bite."
+
+"I've had worse mornings," I said.
+
+One of the unnamed Knights, a broad-chested man and arms like oak branches, let out a single bark of laughter.
+
+Brandt gave a short nod.
+
+"Get him down," he said. "Put him inside. Hands stay bound."
+
+Two Knights stepped forward. I was dragged sideways, lifted, and deposited through the carriage's rear opening onto a wooden bench inside.
+
+The interior was spartan. Two benches facing each other. A weapons rack bolted to one wall. A water skin hanging from a hook.
+
+I sat upright for the first time in hours.
+
+Blood rushed back into my extremities with a pins-and-needles that made me grit my teeth. My fingers burned as sensation returned. My shoulders screamed from the prolonged tension of being bound behind my back.
+
+But I was sitting. I could see. The world was right-side up again.
+
+Brandt climbed in after me and settled onto the opposite bench.
+
+The carriage creaked as the others resumed their positions. A whip cracked. The horses lurched forward. The wheels began their uneven rhythm against the road.
+
+For a long moment, neither of us spoke.
+
+Brandt's dark eyes rested on me.
+
+"I want to know something," he said.
+
+I braced for the obvious questions. Who are you? Why do you carry a sword? How did a first-year student end up killing an elf?
+
+"Why did you try to protect the old man and the girl?"
+
+The question landed in a place I hadn't prepared.
+
+I stared at Brandt.
+
+He'd seen.
+
+"Because I can," I answered.

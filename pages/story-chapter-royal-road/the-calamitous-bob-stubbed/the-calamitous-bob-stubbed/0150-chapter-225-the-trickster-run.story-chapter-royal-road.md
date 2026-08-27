@@ -1,0 +1,471 @@
+---
+id: 876e0166-268b-5949-8729-34f03ceff63c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 225: The Trickster Run"
+slug: 0150-chapter-225-the-trickster-run
+partOf: the-calamitous-bob-stubbed
+position: 150
+ownLength: 5849
+unit: words
+ownProgress: 5849
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2684111/chapter-225-the-trickster-run"
+royalRoadId: "2684111"
+markedReadAt: "2026-06-29T21:19:46.782Z"
+---
+
+Viv walked up the stairs feeling strange. Mana roared in her conduits like never before, a familiar and welcome sensation, but there was also that new and confusing feeling like a new sense waking up. It tickled her brain in ways that wasn’t very comfortable.
+
+Spark of Luck removed.
+
+New Path skill unlocked: Will of the Black Witch. [Beginner 1]
+
+The fact this skill started at beginner was unusual when most started a rank below.
+
+Black elemental core upgraded to: Ascended.
+
+Conduits upgraded to: Ascended.
+
+That was why she was feeling like she could raze a mountain. All eyes turned to her once she was on the main deck.
+
+“By all the light gods. I can feel your soul,” Sidjin whispered. “Should… I kneel?” Sidjin asked.
+
+“Not in public, darling,” she deadpanned.
+
+He blinked, then a coy smile made him relax.
+
+“It’s still you. Sorry. You radiate like a sun in my mana senses… like facing a true elemental. So that is what the apex of magic feels.”
+
+“There’s still room at the top. And you lot, go back to work! Nothing to see here. It’s still just me, alright? Get us moving.”
+
+The crew slowly returned to work though Viv could still feel the weight of their gaze and, strangely, their pride. Years of irreverence from her ‘subordinates’ meant that she had never pretended to be a distant figure. She was still one of them. Glad that her presence wouldn’t disturb proper ship operations, she returned her attention to the absolute clusterfuck of a situation they were in.
+
+The Harrakan group had under thirty warships. They were outnumbered by a factor of seven or eight by either fleet, and while Viv was confident she could sink hundreds of vessels if she really had to, she knew it would be of no use against the Nemeti. Those fuckers always fought to their last breath and she had no reason to believe the waterborne specimens would be any different, especially since they were gunning for her. Looking to her front and right, or off the starboard bow, the Nemeti fleet was made of squarish ships with tall riggings and aft castles decorated with strange, clearly magical contraptions that screamed “I will set you on fire” to her magical senses. They were led by an absurdly large fuckoff warship that should never have been able to go faster than a snail and was basically a floating island by this point. It had seven sails she could see and some weird things going under the water. It burnt like a sun in her brand new fate perception, and she felt a gaze fixed on her with stalker-like intensity. Engraved, enchanted metal bars stuck from its armored flanks, while the same fire contraption that adorned the lesser ships also decorated that one, except there were three of them and each was the size of a decent house (plus garden). Things didn’t look too good.
+
+By contrast, Oleander’s fleet was made of hundreds of smaller, more agile vessels of various size and make, the fastest of them already forming a line to box her in. That fleet was behind her and to the left.
+
+“We call this direction off the port quarter, Your Ladyship,” the ex-remnant captain informed her.
+
+“You’re taking the piss, aren’t you?”
+
+“I would never dare.”
+
+He bowed deeply.
+
+“It’s really called that?”
+
+“It certainly is.”
+
+Viv just admitted to herself that she’d never get sailors, and she ought to just move on. Maybe get an admiral later to handle all that stuff while she relaxed on a yacht. Did Nyil have yachts? It would get yachts once she was done with it.
+
+Anyway, there was an easy way to start things off.
+
+“Let’s turn slightly to the left —”
+
+“Port,” the captain corrected.
+
+Viv refrained from glaring. When in Rome etc.
+
+“Alright. Port. Let’s turn port and get ready to accelerate. We want all those fine folks to meet.”
+
+“Your Majesty, the ships we are escorting are not equipped with cores. They cannot speed up like we can,” the captain reminded her.
+
+“That would be true,” Viv allowed, “except…”
+
+Sidjin nodded with excitement.
+
+“We have dozens of wind mages from Sandsong and Ravinport. They can call sudden gusts of wind, not just that, but we can help all of our ships at once with only slightly more effort. It will exhaust them quickly though.”
+
+“That’s fine. We only need to get ahead, then I have plans.”
+
+Orders circulated between ships via color codes on small flags. Viv was honestly surprised there wasn’t a screamer path to help with communication or something. Slowly, the tiny fleet turned away from both giant groups with a level of speed that said they would be sandwiched and massacred, but Viv was confident. Sidjin organized the large spell that would help them.
+
+Meanwhile, Oleander’s fleet was subjected to some measure of confusion, however it didn’t last very long. This was the fleet of an imperialist expansionist faction meeting another imperialist expansionist faction, but that second one was also racist. There was exactly one way this would go.
+
+“We’re ready on your command,” Sidjin eventually told her.
+
+Viv looked left, sorry, port, and then starboard.
+
+“Look, I don’t know shit about ships and I’m not sure how long it will take for your large spell to trigger so…”
+
+“It should go full power in about three minutes,” Sidjin replied.
+
+“So, captain, when should we start it for best results?”
+
+“Oh,” the man deadpanned, “about fifteen minutes ago.”
+
+Sidjin sighed.
+
+“Well shit.”
+
+“Better get started, dear. I’ll cover us as best as I can.”
+
+The ritual started. Oleander’s fleet seemed to understand that something was going on and a wave of smaller ships detached from the main group under the command of a masterfully decorated catamaran that made Viv a little bit jealous. The wing tried to envelop the Harrakan group but the wind suddenly blew in Viv’s favor. Her ship accelerated. Even then, she knew it wouldn’t be enough.
+
+“It’s okay. I can probably take them all — wow, what’s going on?”
+
+Every vessel in her group suddenly lurched forward. Even the fat merchants were cutting the waves like they were propelled by a turbine at full power. Viv reached the railing and looked down, finding the waters pretty much carrying her frigate forward. Blue mana roared alongside the flanks.
+
+“I haven’t done anything,” Sidjin said, weirded out.
+
+Something about the blue mana was familiar. Very much so. Viv smiled.
+
+“I think we’re receiving some unexpected help. Remind me to give the Azure Lady a bottle of our best wine when we return.”
+
+“Or best honey,” a nearby yries gunner suggested.
+
+“For the last time, we don’t want a godlike sea caster tripping balls when we have settlements on the coast. And what are you doing here? The gun is still below deck!”
+
+“Wanna see big flame boat,” he clicked. “The gun is ready. Can we shoot at the humans?”
+
+“Not yet.”
+
+His ears drooped sadly. Was Lak-Tak contagious or something?
+
+“You’ll get your chance soon enough.”
+
+With this unexpected help, Viv’s ships slipped by the blockade. She watched the two incoming fleets collapse on each other with morbid fascination. There were no brakes on ships so no matter what, those were going to get close and personal. Five minutes later, the elaborate catamaran came in range of the Nemeti floating island. Giant bolts whistled in the air from the human ship, aiming for the giant’s sails. They disappeared. They were not blocked or intercepted in any way. They were just gone.
+
+“What the fuck?” Viv said.
+
+She wasn’t the only one being confused. In response, the floating island fired one, only one, of its three arcane weapons. A screaming ball of fire arced gracefully over the ocean. Viv knew from experience that it was unerringly precise—that it could be broken down, but that the pieces would keep falling. Intercepting bolts did hit the thing and broke it apart into large chunks. The catamaran tried to dodge but the falling projectile was, somehow, always heading where the ship was going to be.
+
+It landed square on target. A shield activated, briefly, with the same effectiveness of a soap bubble trying to stop a pitbull. A curtain of fire covered where the ship used to be. It disappeared behind it, and never appeared again. Only smoke and fire remained. A fire that burnt on water.
+
+Viv would be very vocal by now if she wasn’t trying to keep her composure for everyone else’s sake. Despite the loss of what was clearly an important ship, the human fleet closed in with determination. The lesser Nemeti ships fired their artillery with less success. Many of those were intercepted and broken down, and some of the smaller ships somehow still managed to dodge the worst of it. Viv wondered if there was a limit to how much fate could be twisted to the Nemeti’s advantage.
+
+The close contact was devastating on both sides. The Nemeti did some boarding, and they harpooned some of their counterparts over the next hour before engaging in bloody combat that didn’t always end in their favor. Human ballistas, spears and arrows also made a blood harvest of their opponents, but the mountain ship couldn’t be approached for some reason. Boarding vessels were always repelled or intercepted somehow. Worse: the large Nemeti warship kept firing at the obvious leaders of Oleander’s formation and each fire ball struck true, and to devastating effects. The larger combatants were taken out, sometimes at close range. It was enough for the surviving officers to order a breakthrough. The two fleets passed by each other, leaving over seventy ships gutted, depopulated, sinking, or on fire. It was a bloodbath. One the Nemeti had clearly won. The battered fleet of Oleander retreated back towards Vizim.
+
+Viv knew what it meant when fate seemed to tug on her, but she found she could twist the weaving ever so slightly. This wasn’t the human fleet, it was Oleander’s fleet. The true victor of this engagement had been her. The Nemeti were here to kill her specifically and they’d failed. Oleander’s people wanted to catch her fleet and they’d failed too. She had pitted one enemy against another, ravaging both without having to lift a finger.
+
+As soon as the narrative settled in her mind, the grasp of fate lessened. Something shifted, moved at the bow of the floating island. It was a Nemeti priest, the largest, reddest specimen she’d ever seen. It wore an elaborate crown of white metal. She felt its attention on her, its malice, and its implacable intent to kill her. Vague emotions assailed her soul.
+
+Fateweaver.
+
+Abomination.
+
+Living blasphemy.
+
+“You don’t want to share the power of bullshit, uh? Tough luck. Ugh!”
+
+Another pull at her chest, Turning with the ponderous weight of some rheumatic elephant, the floating island still moved fast enough for waves to form under its prow. The wounded Nemeti fleet arranged itself behind in a wedge as before. Over the next hour and as the sun traveled over the sky, the fleet didn’t just keep up with the accelerated fleet. It was catching up. The gaze of the Nemeti archpriest was still fixed on her.
+
+“How do they go so fast?” her captain asked with fear in his voice.
+
+“Hold on. Hold up. I think I know what’s going on,” Viv said. “It’s fate magic. The ship is fated to catch up to me.”
+
+The others looked at her like she’d grown a second head.
+
+“The Nemeti use fate magic, just like dragons,” she explained.
+
+Sidjin nodded. He was getting it.
+
+“They must have a way to have their ship match her speed, or possibly go marginally faster.”
+
+“But otherwise it has to be very slow, so here is what we’re going to do. The fleet will head south west towards the Azure Lady’s domain. I hope she’ll help if something goes wrong, and it will also drive the ships closer to Harrak. As for me, I will sail directly south towards the Grand Beach near Zazas.”
+
+It was a kilometer-long strip of white sand that she’d love to turn into a tourist resort as soon as she’d seen it. Cliffs overlooked the vast expanse, making it a perfect receiving spot for an invasion fleet, especially since there was only one wide ramp leading up and away from the potential death trap.
+
+“It sounds like a good place,” Sidjin said. “I know the Opportunity’s altar can reach the minds of faraway priests, not to mention Zazas is our ally, and the end of the gate network. It will be easy to funnel troops there. Their javelin throwers will join the fray.”
+
+Yeah. All three hundred of them, Viv thought.
+
+“We’re going to need the alliance for this one,” she said.
+
+There were still around a hundred and seventy vessels in the Nemeti fleet, maybe more hidden behind the titanic flagship. It represented several thousand Nemeti at the very least. They also had siege weapons and the gods knew what else. It would take some effort to stop them.
+
+“What about us?” Sidjin said.
+
+Viv licked her lips.
+
+“I was hoping you’d go to safety.”
+
+“Not a chance.”
+
+Yeah, of course. He wasn’t the kind of person to leave her alone.
+
+“Ah. I don’t know what I was thinking,” she admitted.
+
+“Clearly. We still don’t know everything this ship can do, Viv. Surely you wouldn’t deprive yourself of your chief arcanist and widely acclaimed genius?”
+
+“Wouldn’t dream of it. Alright, let’s cut our speed and have the other ships peel off.”
+
+As expected, the moving island’s speed plummeted after Viv ordered some of the sails reefed. The rest of the fleet moved on while she stayed on the relatively large Sword of Neriad. It took almost an hour for the fleet to drift away, leaving her behind as they benefited from the end of the wind spell. Hundreds of people gathered on the railings to watch her disappear behind.
+
+Honestly, Viv was a little bit pissed off about how sad they looked.
+
+“I find their lack of faith in me disturbing.”
+
+“Isn’t that a quote from an evil man?” Sidjin asked by her side.
+
+“You’re an evil man, Mr. Sexy Fallen Prince.”
+
+“That’s Lord Sexy Fallen Prince, thank you very much. Now that we have this clarified, oh empress, how are we going to defeat or at least delay something that can obliterate a warship in one spell.”
+
+“First, I can do that too. Second, I want to test that weird effect of theirs. You remember how the bolts fired at the flagship somehow failed to connect?”“I do. I hated it.”
+
+“Ok so I was thinking, we need to see if powerful spells are stopped too.”
+
+He nodded with enthusiasm.
+
+“I’ll start with a Glastian twister.”
+
+“Ok. I’ll pay attention to how the defenses work.”
+
+Sidjin cast his signature blender while the flagship drew closer. Soon, the nemeti artillery thing gave sign it was going to fire again.
+
+“I’ll handle it,” she told the rest of the crew of the Sword of Neriad, and at least it looked like she was believed this time.
+
+Viv was an old hand at stopping this spell by now. It was larger than most she’d faced before. She could hear the promise woven into its fiery payload.
+
+You will burn.
+
+“The fuck I will.”
+
+She flew up, casting Durandal to explode the projectile mid-air, then a good aegis stopped the falling fragments heading for the ship. Maybe there was a better way to handle those. She had a feeling she was going to get a lot of practice over the next week. When she returned to the deck, she realized the ship was moving faster again.
+
+“The Azure lady has granted us her blessing,” the captain said, voice heavy with emotion.
+
+Viv had never expected to receive the help of the recluse at all, so getting it for a long period of time was an unexpected boon. She had a feeling it was an immense privilege, especially considering the withdrawn nature of the old woman. It was nice getting some help once in a while instead of the usual serving of shit luck. It almost made up for the fact the watery hag could probably just sink the entire Nemeti fleet in ten minutes tops but would rather sit on her ass at the bottom of some trench. Just as Viv landed mulling dark thoughts, Sidjin finished casting one of his most powerful spells. He’d gotten noticeably faster at it.
+
+The vortex of colorless blades jumped hundreds of meters towards the flagship like an angry jellyfish. The way the individual parts kept together at that distance was a thing of beauty to Viv’s mana sight. Truly, Sidjin was a fucking artist when it came to complex constructs. It was always nice seeing a master at work.
+
+She felt something going wrong right before impact, but that was expected. She focused on the feeling as she kept her eyes on the place where the archpriest always stood. There, reality twisted under the creature’s will. Strands gathered, denying the spell. It didn’t fizzle, it simply failed to connect, and then, it was gone, as if it had never existed. There was something there in the way the spell was countered, a meaning. She had to understand it.
+
+Will of the Black Witch: Beginner 2
+
+Yes, the more she thought about it and the more it made sense. Fate weaving was not just complex, it was also wildly unpredictable because of how intertwined all things were. The Nemeti would have had to keep the warding spell simple for it to remain stable. A sentence at most. Even then, it must have cost them dearly. Maybe they’d been building the ship for fifteen years?
+
+“I am thoroughly insulted,” Sidjin said after all his efforts failed to achieve anything.
+
+“Could you do it again?” Viv asked. “I think I’m on the verge of understanding how their main defense works.”
+
+“Yes because I enjoy watching the pinnacle of my works disappear like a harrien’s fart in a brisk wind.”
+
+“It is for science,” Viv replied, grabbing his shoulder with a serious air.
+
+The light banter was working on the nearby sailors. They were forgetting the imminent danger with their two strongest keeping a sense of calm. Those who were off shift and not currently resting also gathered on the deck, including Bes, Sin, and Mar, who had preferred to stay with her rather than to return with the Ravinport group. Staying belowdeck during a running battle was probably an exotic form of torture. Viv ignored them for now.
+
+“Don’t you always say that science and experiments are an integral part of —”
+
+“Stop turning my values against me like weapons in a court of law. Yes, very well. I will single-handedly cast another tactical spell doomed to fail for your entertainment.”
+
+Viv liked that Sidjin was playing her game. He looked a little tired, but the twinkle in his eyes revealed a fire and a will to win she shared with him. This was a magical enigma and there was little more Sidjin loved than to solve those. It took another ten minutes for another twister to form, and the mothership had been slowly gaining on them. Viv wasn’t sure, but she thought the magical nature of the Azure Lady’s help was giving her an edge.
+
+With her undivided attention on the archpriest, Viv felt the Nemeti ‘speak’, for lack of a better word.
+
+Will of the Black Witch: Beginner 3
+
+No human may hamper this ship.
+
+“I think he warded the ship against humans,” Viv said after that spell fizzled again. “Unlucky for him, I’m only half human so I think I can get through.”
+
+“You see yourself as half human? How would that work?” Sidjin asked, curious.
+
+“There’s an easy way to find out.”
+
+Viv rose above the Sword of Neriad.
+
+[True aspect of the Destroyer.]
+
+[High sequence: triple hyperbeams]
+
+Concentrated rays of nothingness pierced the sky, absorbing the light on their way. They were almost as wide as a person by now. Viv realized that she might be correct after all. She could perhaps raze a mountain.
+
+The spell wasn’t fully stopped by the fate obstruction, but as the deadly ray reached the deck, a secondary shield sprung up. This one was an actual mage spell, the first such display she’d ever seen the Nemeti do. To her complete surprise, the main element used was life. It was a life shield. It was specifically designed to stop black mana, and it did.
+
+“Core-fed as well,” she said, returning to the deck. “They built this entire thing specifically to counter me. Very rude.”
+
+Two artillery spells rose from the mothership at the same time.
+
+“You get one, I get the other?” Sidjin offered.
+
+“No, I wanted to try something first. Stay down here and block them if it fails.”
+
+Her Durandal spell exploded the first projectile, as always, but instead of simply blocking the shrapnel, she cast another, improvised spell immediately after.
+
+“Disruption net.”
+
+It was a colorless and change area spell that ate at the mass of fiery death. It didn’t work immediately, but as the fragments passed through it and got eaten at, they fizzled until only embers reached the ship where they were easily stopped. Viv handled the second spell in the same way. Back down, Sidjin was already writing down the sigils he would use to follow the same strategy. Before she could return, however, fate mana hit her again. It wasn’t the tug this time, it was more… personal.
+
+The archpriest was communicating again. She felt his seething hatred like a wall without seams, a mass that nothing except death could ever hope to break. The Nemeti were single-minded to a level that bordered on madness, but there was a method to their rage and she was at the receiving end of it.
+
+Your escape is futile.
+
+Your spells are futile.
+
+Your people will fail.
+
+Its manipulation took hold of her soul, encasing it in icy fingers. She could see the archpriest in her mind: a towering, cloaked figure the color of a setting sun. His unblinking eyes were fixed on her and they would never waver until one of them perished. She fumbled the thread of destiny to stop it. Her instincts guided her while she gathered them strand by strand. This wasn’t the story. Her destiny was different, and she poured all of her conviction in her reply.
+
+You have failed to catch me.
+
+I have defeated you once, blooding you for the first time.
+
+I have lured my enemies to you, wounding you again.
+
+Your spells have failed to reach me.
+
+The ocean itself has blessed me.
+
+You have failed to catch me.
+
+And now, I will hurt you once more.
+
+Viv focused. She brought all her might to bear in her own, witch version of the Glastian twister. Sidjin and the crew watched her work in silence, circle upon circle of interlocking sigils bound together by her will. The spell formed with speed and grace, like a master assembling their tool.
+
+[Aspect of the Destroyer]
+
+[Witch’s Twister.]
+
+The spell triggered without a single droplet of black mana. It roared just over the wave, not the beastling slayer Sidjin had designed but a piercing bolt created to mangle a single target. It crossed the fate barrier almost unimpeded. The life shield barely weakened it. It landed on the deck with a deadly crack, sending planks and Nemeti limbs flying: just a chip from a really large boulder but it was enough. The archpriest’s attack failed. The divine construct could bleed, and so it could die, and the roles of hunter and prey became fluid again. The flagship suddenly slowed down. A handful of smaller vessels crashed against the hull with ghastly cracks. For a moment, Viv hoped she had won, but of course, the Nemeti were prepared. The hook planted itself in her soul again, and the flagship picked up speed. An army of crewmen — or maybe crew Nemeti — busied themselves on repairs. Viv had bought herself an hour or so.
+
+“Bes? Bes?” she said.
+
+The man practically appeared at her side like the smooth vizir to her evil empress persona.
+
+“Yes, Your Majesty?”
+
+“At this current speed, how fast do you reckon it would take to reach the beach?”
+
+“Milady, as your advisor I would suggest asking someone with navigational skills.”
+
+“Oh, right. Captain!”
+
+The Remnants veteran glowered at being ignored before. He passed a hand over his well-groomed beard, perhaps doing math. Poor thing.
+
+“I would say six more days. It would also set a new record. A shame it won’t change anything if they use their vile sorceries to keep up with us.”
+
+“No, no… it will change everything. This is a race. I need to reach the shore and the Nemeti need to kill me before it happens. Yes, I can make this work. Bes, I know we have repair supplies below deck. Please find me a complete list and an yries engineer.”
+
+“It will be done.”
+
+Another Nemeti spell reddened the sky behind them.
+
+“I got this one,” Sidjin said.
+
+Viv considered her options. If this was a battle of fate, there had to be some sort of story to it. She had to remain one step ahead through tricks and underhanded tactics like she’d just done. The more she delayed, the easier it would be to delay. The Nemeti had opted for the direct, overwhelming approach but they lacked flexibility. They thought they had her cornered. They didn’t. She would be the hare to their wolf and then, she would turn the tables.
+
+Hours passed as the flagship closed the distance, still firing at the Sword of Neriad. By now, both Viv and Sidjin had perfected the net countermeasure but it was still delicate work that forced them to fly up. Viv’s next twister was also blocked by a group of priests casting a special shield. The Nemeti were learning as well. When the flagship was only about two hundred meters away, she revealed her next ‘trick’.
+
+“Are the yries ready?”
+
+“Yes, milady,” the captain replied, brimming with excitement.
+
+It was a historical occasion, after all.
+
+“Alright. Do the maneuver while I address our foes.”
+
+The Sword of Neriad turned abruptly. Ports opened, revealing shiny maws brimming with enchantments. As the deck stabilized, Viv sent her mind at the archpriest in the same way she did when addressing a dragon. It was easy. He’d done it first, after all.
+
+“You think you were smart warding against humans, but guess what? I lead a diverse bunch of ultra-violent maniacs. Behold my yries-made, yries-operated contraptions. For my next trick…”
+
+The barrels glowed with the promise of an imminent revolution: the very first gunpowder-based ship-to-ship battle, and just like most technological revolutions, one side was going to be left behind.
+
+“For my next trick, I cast gun.”
+
+With deliberate slowness since they were not in a particular hurry, the frigate’s twelve guns opened on the flagship. Explosive shells landed in the hull, at the waterline, with devilish precision. The crew cheered at the wounded giant and the fleet huddling behind it, one against an army and yet still, they had the upper hand. Fire erupted on board the Nemeti vessel though it was swiftly suppressed. It still forced them to slow down.
+
+Again, Viv had bloodied the foe and again, their crew repaired the damage with zealous speed. Their roles had coalesced: Viv, the trickster, always one step ahead. The Nemeti: the predator, relentless. The question was now if Viv would run out of tricks before she reached the shore or not.
+
+“It’s about stamina from here on. Sidjin, you should rest up while you can. I’m going to need some help.”
+
+“What about us?” Sin asked from the railing. “What must we prepare?”
+
+“Make no mistake, I appreciate your service and it will prove decisive, but if we are boarded, it is already too late. Just help the captain if he asks for it.”
+
+“Understood.”
+
+And so it began. The first day was survived with just another volley, but the battle didn’t end at sunset. Brasiers lit up on the Nemeti ship. The spells kept firing with clockwork regularity. Viv and Sidjin took turns to protect their frigate from the attacks while the Harrakan crew worked with fearless discipline to keep the frigate running at full speed.
+
+During the second day, Sidjin realized the frigate could widen the gap between both ships by accelerating while the flagship was down for repairs, and their hook inactive. Although it was a drain on the ship’s core, a momentary boost of speed could provide hours of advance when used at the right time. With this, they could space the volleys a bit more.
+
+On the third day, the Nemeti came up with localized shields near the waterline. They didn’t work very well against the powerful yries shells, but they still cut down on repair time. The yries adapted by enchanting their shells for piercing effects, then aiming either higher or lower. Now the Nemeti had to fight water breaches all around which slowed them down again. It didn’t stop the spells though. Viv and Sidjin were forced to sleep by two-hours increment. Even [a light that never dims] could only achieve so much for Viv, especially since the title reset when she was resting.
+
+On the fourth day, the captain had all non-essential supplies tossed overboard: ropes, planks, nails, dry food, they lightened the Sword of Neriad as much as they could to cut down even more travel time.
+
+On the fifth day, the yries ran out of shells.
+
+“It’s the last one,” the head gunner clicked. “Then we are out.”
+
+“I still have exactly one trick up my sleeve and then it’s the maximum effort approach. How are the preparations going?”
+
+“Metal-shaping is done. The powder is loaded. According to specifications.”
+
+“Good. Launch the first one,” Viv said with a vicious grin.
+
+“How can you be sure it will go where it is meant to be?” the yries asked.
+
+He didn’t like random stuff. Most yries hated leaving things to chance when it came to weaponry. Viv patted his broad shoulder.
+
+“Because it’s destiny.”
+
+Oh he didn’t like that at all. Viv returned to the ship’s butt, which was also called the stern apparently. The archpriest was still his same monolithic, unflinching self. He’d been quiet since the gun incident.
+
+“Hello hello! It is I, the living blasphemy. Are you ready for my next trick?”
+
+Your doom is inevitable.
+
+“What’s short, spiky, and has a shit personality?”
+
+She sent the mental image of a porcupine. It would have been more fun if the Nemeti had anything resembling a sense of humor but unfortunately, it was a bit like trying to provoke a door knob. Viv did it anyway for the sake of her mental sanity.
+
+“Nope!”
+
+The flagship’s hull shook. Water crested on its flank, rising above the main deck to wet the vessel’s sails.
+
+“It’s a naval mine!”
+
+That one and the next five bought them the rest of the fifth day. Bes confirmed the captain’s calculations shortly after.
+
+“Milady, thanks to our much reduced weight and the occasional use of the ship’s core for speed, we have determined that we will land near Zazas tomorrow night.”
+
+“Then one day, one day is all we need to buy.”
+
+It was easier said than done. It was a long night and a really, really grueling morning stopping artillery spells every damn twenty minutes or so. Sidjin came up with a new variation on the twister he called the battering ram.
+
+“I originally designed it to breach an enchanted gate during a siege, but the range was supposed to be much shorter. Do you think you can translate it into witch magic?”
+
+He looked feverish. Many of his additions looked like last-minutes annotations designed to bypass or adapt sigils rather than building the spell from the ground up. It wasn’t easy for Viv to alter it to suit her style, but with the two of them working at it into the early morning, she managed. The first cast of the spell, at full power, cracked the entire front side of the hull. It failed to slow down the flagship though. Sidjin sighed, haggard, features drawn and eyes sunken by the constant exertion. Viv knew she wasn’t doing much better. Even pulling mana from her monstrous core felt more and more like drawing water from an ever deeper well.
+
+“Again,” she said.
+
+“I’ll handle the bombardment. You can do it,” Sidjin said.
+
+The third of the Nemeti spell engines came online shortly after. It was all Sidjin could do to slow them down. A few embers made it to the ship, starting fires that Sin put out by, as far as Viv could tell, slicing the fire apart.
+
+“Any time now would be great!” Sidjin screamed from up high.
+
+“I got it.”
+
+She switched to her [Aspect of the Destroyer] again, her soul raw from constant use. She hadn’t felt so dog tired since hauling her ass through the desert carrying Solfis on a sled.
+
+[Battering ram]
+
+The spell pierced through to shields before landing at the exact same spot. Something cracked again. With exhausted eyes, Viv watched the flagship close in like a floating wall. She could see cracks spread over the repaired hull.
+
+For a second, nothing happened. Then the cracks stopped.
+
+Like a scab over a healed wound, five days of Nemeti repairs came crashing down into the sea, peeling off to reveal entire compartments where water flooded with ravenous appetite. Now the Nemeti’s speed was working against them. The damage was so bad that the flagship started to list.
+
+“Thank the fucking gods,” Viv breathed out.
+
+“Emeric’s beard, we did it,” the captain added.
+
+This was the breathing room they needed. Viv managed to catch four hours of uninterrupted sleep and even a warm meal before her chest ached from the tracking spell. It was going to take time for the Nemeti to catch up. As the sun set, a cry of immense relief spread over the crew.
+
+“Land! Land!”
+
+By some miracle, the Sword of Neriad had sailed true. Nyil’s twin moons shone clearly over beige cliffs covered in creeping ice: Zazas’ Grand Beach. They were back. There wasn’t a single soul to be seen though. Viv activated her long view spell to inspect the place, then she found something waiting for her.
+
+“Right. Beach us over there,” she told the captain.
+
+“Milady, the Nemeti are right behind us again. I fear they will overtake us as we disembark.”
+
+“They’ll do no such thing. Beach us. That’s an order.”
+
+“Aye, ma’am.”
+
+Viv smiled, for two items had been left near a boulder halfway up the pale sand. One was the Crown. The other was her old shield.
+
+Harrak was waiting.

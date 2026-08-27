@@ -1,0 +1,287 @@
+---
+id: 17cb020e-f795-56f5-9082-d93f1ae89900
+page-type-slug: story-chapter-royal-road
+title: "Chapter 634 - Bedtime"
+slug: 0635-chapter-634-bedtime
+partOf: mythrans-master-of-all-continued-completed
+position: 635
+ownLength: 2830
+unit: words
+publishedAt: 2018-07-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/232595/chapter-634-bedtime"
+royalRoadId: "232595"
+---
+
+“Excuse me?” Barbi said with wide eyes.
+
+“I've gotten used to having more than one woman in the bed, and I have a hard time sleeping otherwise.” Ren said.
+
+Barbi looked at Elise. “Is he serious?”
+
+“Completely.” Elise said. “I'm not really sure when it happened, but he does sleep better with someone on either side of him.”
+
+“I... I'm not sure...” Barbi said.
+
+“Ren, I thought you said you wouldn't put the moves on her.” Stella said as she and Barbara walked down the hallway towards them.
+
+“I'm not.” Ren said. “I enjoyed her company on the couch and wanted to keep enjoying it.” He said and looked at Barbi. “I promise I'll try my best to not grope you while you're sleeping.”
+
+“E-excuse m-me?” Barbi said in a higher pitched voice.
+
+Elise chuckled. “He's a bit of a sleep groper if you're not careful.” She said. “Just breasts, though.”
+
+“J-just... wait, you let him...”
+
+“I don't mind it, and we warn anyone that joins us that it's possible.” Elise said.
+
+Stella shook her head. “Ren, you can't give her all that info and then expect her to make a decision so quickly.”
+
+Ren opened his mouth to ask when he should ask, then sighed. “Damn, you're right. I said I wouldn't try to pressure her and then I ask her to spend the night.” He said and looked at Barbi. “Please accept my apology.”
+
+“I...”
+
+“I've gotten used to just asking for what I want, and I need to keep in mind that I shouldn't ask for certain things.” Ren said. “Goodnight, Barbi.”
+
+“Goodnight.” Barbi said and Elise opened Ren's bedroom door and pushed him inside.
+
+“I hope I didn't just mess things up and ruin everything.” Ren said before Elise could shut the door. “I'm smart, Elise. Really smart. Why can't I handle things like this?”
+
+Stella, Barbara, and Barbi exchanged glances, because they could still hear them through the door.
+
+“You're just a little out of your depth.” Elise said as she knelt by the wheelchair. “The only real relationship experience you've had has been with your nurses and me.” She chuckled. “That's not really how you should treat every woman you meet.”
+
+Ren sighed again. “Yeah, you're right.” He said. “I think... I think from now on, I... I just...” He sighed again.
+
+“Just what?” Elise prompted.
+
+“I don't know.” Ren said. “If I can't ask for the things I want, what am I supposed to do? Use hand signals?”
+
+Elise snorted a laugh. “I don't know how you would communicate sleeping in a bed and no groping.”
+
+Ren pointed to his eye, made a 'come here' motion with one hand, put his hands together and by his face and leaned his head to the side so it looked like he was sleeping, made grabbing motions with both hands, then shook his head no and waved his finger back and forth in a clear 'no' motion.
+
+“Actually, that's pretty good.” Elise said. “I'm surprised.”
+
+Ren pointed to her, then to himself, and gently hugged himself.
+
+“Yes, we can cuddle.” Elise said as she stood up, and she took him over to the bed. She helped him onto the bed and Ren rolled over once to get farther in. “Didn't that hurt?”
+
+Ren nodded.
+
+“I don't want you miming to me all night, so you better start talking soon.” Elise said.
+
+Ren tapped his mouth and pointed at her skirt.
+
+“Well, I guess you don't have to talk if you do that.” Elise smiled and then let it turn wicked. “I have ways of making you talk.” She pulled down the zipper on her skirt and let the skirt fall to the floor, and Ren saw a very racy piece of lace that barely covered her special place.
+
+“Hello.” Ren said, and she chuckled.
+
+“Just wait.” Elise said and turned around, and Ren could barely see the string. She bent over at the waist to pick up the skirt, and he saw pretty much everything. The lace only covered about half of her, thanks to the small tuft of red hair that held it out, and the string holding it in place wasn't anywhere near the center.
+
+“Holy crap!” Ren exclaimed. “Ow.”
+
+Elise stood up and turned to look at him, and saw he had a hand on his chest. “Ren! I'm sorry!”
+
+“I'm not.” Ren said. “What a sight!”
+
+“But, I hurt you.”
+
+“No, I hurt me from my reaction.” Ren chuckled. “You did just fine, Elise. Look for yourself.”
+
+Elise let her eyes roam down to his waist and saw his very firm reaction.
+
+“Have you been wearing them all day?” Ren asked as she put the skirt on the nightstand and started to unbutton her top.
+
+“No, I slipped them on just before coming to the living room.”
+
+“You naughty girl.” Ren said and grinned. “I'm glad I didn't try to cop a feel from you, or I would have been like this that whole time.”
+
+Elise chuckled and slipped off her shirt and laid it on the skirt. “I wonder what Barbi would have thought about that.”
+
+“She's seen bigger, apparently.” Ren said.
+
+“What? How did that come up in conversation?” Elise asked and raised her eyebrows.
+
+“Ha ha! Come up in conversation!”
+
+“You know what I meant.”
+
+“I know.” Ren said. “Take off that bra and come to bed, and I'll tell you all about it.”
+
+“Ordering me around now, are you?” Elise unhooked the bra and put it on her clothes, then climbed onto the bed.
+
+“Good god, no.” Ren said. “I'm just eager to see your unfettered beauty, and I want to wallow in it.”
+
+Elise laughed. “Are you really going to try going down on me in your condition?”
+
+“I was thinking you could just straddle my face, so I won't have to put any pressure on my chest.”
+
+“You don't want much, do you?” Elise said and unbuttoned his pyjama top, then very lightly touched his chest.
+
+“Elise, I thought I could ignore the feeling; but, I want you very, very badly.” Ren said. “I haven't seen you in 11 years, and I need to be with you so much that it's actually starting to hurt.”
+
+“Wh-what? You weren't exaggerating about it?” Elise stopped caressing his chest and moved her hand down and pulled down his pyjama pants and underwear. “Oh, my.” She said, and saw that it was becoming a dark red.
+
+“I told you.”
+
+“Let me deal with that first, then you can have some fun, okay?” Elise asked as she moved down the bed to get a closer look.
+
+“Thank you.” Ren said sincerely.
+
+For the next several minutes, Elise pleased him with her mouth and her hand, and Ren warned her when he was going to finish and that it was going to be a lot. She stopped and reached over for the bedpan, then went back to work. She had talked to Denise after supper, as did Stella and Barbara, and she had warned them about the necessity of the bedpan.
+
+Elise was glad she had, because when he finished, it really was a lot more than she knew she could possibly handle, despite how much she liked the taste and wanted to keep it all for herself.
+
+Imagine if that had been all inside. Elise thought, and she stopped pumping him with her hand. It could have all been inside!
+
+“Why... why did... you stop?” Ren panted.
+
+Elise turned and looked at him. “I could have had you inside, instead of wasting it in the bedpan.”
+
+“Don't worry about that for now.” Ren said. “Come up here and sit on my face.”
+
+Elise chuckled. “You don't have to be so brash about it.”
+
+“M'lady, please honor me by presenting your special place to my orifice, to be pleasured as much as I want, and for as long as you can stand.” Ren said formally.
+
+Elise's face flushed red. “Ren...”
+
+“I can say it several different ways, but it's the same thing.” Ren said and smiled. “I want to make out with your second mouth. I want to groom your kitty with my tongue like a cat. I want to chew on your carpet. I want to suck on that sweet Georgia peach. I want to have a box lunch. I want to go pearl diving. I need to taste you lickety split.”
+
+“Ren!” Elise's face was bright red.
+
+“I want to give you an Australian kiss. I want to taste the rainbow. I want a slice of your apple pie. I want to twirl your cherry stem. I want to crack your clam. I want to butter your muffin. I want to see your cunning stunt.”
+
+“REN!” Elise yelled.
+
+“Wait, I'm almost done.” Ren grinned. “Call me a bear because I want to eat from your honey pot. I want to build a dam with your beaver. I want to give you french lessons. I want to kneel and worship at your altar.”
+
+“Where... where did you get all of those?” Elise asked.
+
+“Everywhere. Movies, television, the internet, real life, and in the game.” Ren said. “I can quote exactly where, but I don't want to bore you.” He said. “I only have one more.”
+
+Elise wanted to say that was enough, but nodded instead.
+
+“I only want to talk in tongues, because I want to be a cunning linguist with you.”
+
+“S-some of them were...”
+
+“Vulgar.” Ren said. “I spread them out so they wouldn't be too shocking for you.”
+
+“Yes, but...”
+
+“Some were flattering, and I reworded them that way.” Ren said and touched her face. “Please, let me love you and taste that wonderful and amazing part of you.”
+
+“Ren...”
+
+“Since I can't lick your brain, I'll have to lick something else.” Ren said, and she laughed.
+
+“God, you're incorrigible.” Elise said and moved up on the bed, held onto the headboard, and straddled over his head. He reached up and touched the backs of her thighs and held on.
+
+“Look at that.” Ren said in wonder. “I'm amazed that you let me do this.”
+
+“I'm amazed you still want... mmm...” Elise moaned as he kissed her. He didn't even have to move the token underwear aside because it wasn't in the way at all.
+
+After about 15 minutes, Elise started to struggle with holding onto the headboard and being pleased so much. Ren felt her trembling and tapped her backside. She moved off and let the headboard go, then laid down beside him.
+
+“I know that was hard on you.” Ren said. “I recognize muscle weakness when I feel it.”
+
+“You... are... amazing.” Elise panted and kissed him. She tasted herself on his lips, so she rolled over and grabbed some tissues to wipe his face off.
+
+“Thanks.” Ren said, and they rested for about 20 minutes, until he thought Elise was ready to keep going. “So, are you ready to make a baby?”
+
+Elise's breath sped up. “Ren, are... are you...” She looked down and saw he was still quite ready for her. “Of course you are.”
+
+Ren chuckled. “I'm the gift that keeps on giving, remember?”
+
+Elise opened her mouth to say they didn't have to start right this minute, and he interrupted her.
+
+“Hop on if you don't believe me.” Ren said. “I want you so bad that I could get you pregnant just by thinking about it.”
+
+Elise caught her breath. “R-Ren.”
+
+“Yes, I remember what I said that night in the game.” Ren said. “I can't be much of a hands-on parent, but like I said then, there's plenty of people around here to help raise our child.”
+
+Elise's eyes started to shed tears, and she kissed him. She moved down the bed and kissed the tip of his member, too. “Please work.” She whispered to it, then she straddled his hips. She eased herself down onto him and she surprised herself that it went in so easily.
+
+Even though Ren had done the prep work nearly half an hour before, she thought she had tightened back up.
+
+I really want this! Elise thought and started to rock her hips and didn't put any pressure on Ren at all.
+
+Ren put his hands on her hips and caressed her, then he gripped her hard. “I really want this!” He said and thrust up as he pulled her down to get all the way in.
+
+Elise stared at him with wide eyes, because he had just said her exact thought.
+
+“Have my baby, Elise!” Ren exclaimed and finished.
+
+“Yes, Ren! I will!” Elise exclaimed and finished herself as she bent down to kiss him. She kept rocking her hips forward and back to keep them both going, and Ren did his best to oblige her.
+
+*
+
+“Does he really have a hard time talking to women?” Barbi whispered after Elise had shut the bedroom door.
+
+“He has a hard time talking to anyone and maintaining relationships.” Stella whispered back and they moved off down the hallway. “Elise is right. He's never had to maintain a normal relationship, or really needed to. He's never been to school or interacted with anyone in a friendly environment.”
+
+“Oh, that's... kind of sad, actually.” Barbi said.
+
+“It's hard enough to introduce new people, especially since people don't normally come around a hospital to visit him. Now that we live in a gated community and the necessary security...”
+
+“Then he needs more practice.” Barbi said, struck with inspiration.
+
+“What do you mean?” Barbara asked.
+
+“We need to throw a party. Like a neighbourhood party.” Barbi said. “I'm sure the security guards have vetted the neighbors already, right?”
+
+“They have.” Stella said.
+
+“Then I'll get to work on Ren's public persona first thing in the morning.”
+
+“He has severe panic attacks in public if we're not careful.” Stella warned her. “We usually go to the mall during off hours to minimize the impact of crowds on him, and that's usually only once a month or so.”
+
+“We can do it right here in the backyard, and possibly have a pool party afterwards.” Barbi said, her mind already working the details. “Don't worry, I'll have full disclosure for the guests, including his current injuries.”
+
+“You might want to hold off on why.” Barbara cautioned her.
+
+“Why's that?” Barbi asked.
+
+“So he has something to talk about.” Stella said and smiled. “He's going to be honest, but I doubt he'll give explicit details, especially if I tell him to keep his explanations general.”
+
+Barbi nodded. “Okay, I'll do that, too. General warnings and cautions about his delicate condition, but I'll emphasize that he wants to meet his neighbors now that he's settled in completely.”
+
+“I... I think... this might be good.” Stella said. “We can get him some real world experience, and we won't have to worry about taking him anywhere.”
+
+“Plus, if it starts to wear on him, we can make an excuse that he's tired and bring him inside to give him a break.” Barbara said. “One of us needs to be by him at all times, though.”
+
+“Agreed. We don't have to hover, just be nearby to keep an eye on things.” Stella smiled. “We can even take turns.”
+
+“I think Sunday would be the best day.” Barbi said. “That's usually the only day everyone seems to have off and it doesn't interfere with their schedules.”
+
+“Wait, do you mean this Sunday?”
+
+“Sure, why not?” Barbi asked. “The sooner the better, right?”
+
+Stella and Barbara looked at each other, then back at Barbi.
+
+“I suppose.” Barbara said.
+
+“I should be able to put something good together by then.” Barbi said and smiled. “Don't worry, I'll keep the physical activities to a minimum.” She said. “It'll be more socializing than an actual party.”
+
+“Run the details by us so we can discuss it.” Stella said.
+
+“Of course!” Barbi said and pat her arm. “I won't confirm any of it until I discuss it with you first.”
+
+“Thank you.”
+
+“Goodnight.” Barbi said and walked back to the spare room and went inside. She got undressed and laid down in the bed with just her underwear on. “I'm going to make this the best block party ever.” She said, rolled over and went to sleep.
+
+*
+
+“I think we need to keep a closer eye on her.” Barbara said.
+
+“I was thinking the same thing.” Stella said. “She seemed a little too eager to help Ren meet new people.”
+
+“We should call Officer Holly and ask her to come as well.” Barbara said.
+
+“Barbara, that is a great idea.” Stella said and gave the older woman a hug. “I'll send her a text first thing in the morning.” She went to her bedroom door. “Goodnight.”
+
+“Goodnight.” Barbara said and went over to the theatre room to watch some television. She knew Elise and Ren would be busy for a little while, and she needed to waste some time while she waited.

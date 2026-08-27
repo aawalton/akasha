@@ -1,0 +1,222 @@
+---
+id: 54d0e4aa-ec70-504e-85a3-7d01419f207e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 543: Gaze of the Tree God"
+slug: 0066-chapter-543-gaze-of-the-tree-god
+partOf: reborn-as-a-demonic-tree
+position: 66
+ownLength: 3260
+unit: words
+ownProgress: 394
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3134198/chapter-543-gaze-of-the-tree-god"
+royalRoadId: "3134198"
+---
+
+"Crow is dead," Moose said the obvious as he stood beside the blood-drenched table with another Shadow of the Silent Thorn standing at his side. Raising Crow's head by his hair, Moose got a good look at Crow's final expression of pure terror, which he still wore in death. Whatever he had seen before his demise had shaken him to his core. "He's still warm, meaning the murder happened recently."
+
+"How could this happen?" the Shadow at his side gruffly said. "Crow was one of our best, yet he died so brutally in this busy gambling hall, and nobody appears to have seen the murder happen."
+
+Moose glanced over his shoulder at the many spectators. While none dared to stare, he could feel the subtle gazes of everyone in the room as they pretended to go about their games. "Either they didn't see, or they dare not say who it was," Moose mused as he returned his focus to the murdered Crow. "Though I have to say this case is bizarre, as there would usually be a trace of Qi, but this attack seems to have been done with nothing but brute force. However, Crow was in the Star Core Realm, so he wasn't weak by any means."
+
+"Agreed. I believe whoever did this is not only in the Nascent Soul Realm but also possesses keen awareness," the Shadow said as he crouched down and pointed to Crow's bleeding leg. Reaching up into Crow's sleeve, he retrieved the dead man's hidden dagger that was stained in blood.
+
+Moose frowned at the sight. "It seems the assassin noticed Crow's attempts to silence them, meaning Crow believed they had the upper hand—"
+
+"Until the last moment, that is," the Shadow finished his thought as he carefully closed Crow's terror-filled eyes with his fingers. "Crow died in fear of who he faced."
+
+"Could it have been an agent working for the Chairman?" Moose pondered. "Or a known Jade Sentinel of the Pavilion?"
+
+"Neither," a feminine voice whispered into Moose's ear. What?! He tried to spin around, only to choke as he found a hand firmly clamped around his neck, preventing him from moving an inch. An intense spiritual pressure far beyond the Star Core Realm followed, crushing the wind out of his lungs and making his knees wobble.
+
+"Who are you?" Moose croaked through clenched teeth.
+
+"That's my question," the woman replied. "What are two members of the Silent Thorn doing all the way out here in the Frozen Star Sect?"
+
+Moose froze.
+
+"Yes, I know who you work for," the woman continued. "Your bird-loving friend over there wasn't keen to tell me, but I have my ways to get what I want. Answer me, and I can let you live." Moose felt the woman's fingernails pierce his skin and draw blood. "Why are you here?"
+
+"We—" Moose tried to answer, but the binding darkness wouldn't let him. He began to choke as it felt like a fiend was trying to claw its way out of his throat. "I can't say," he rasped, "the darkness forbids me."
+
+"An oath of some kind?" the woman mused, sounding interested. "That's a rather good idea, but I doubt it's heaven-binding or foolproof. How about this: just nod or shake your head to this next question, and I'll let you go. Did you come here to kill a woman called Stella?"
+
+Moose shook his head truthfully.
+
+"I see," the woman paused. "That's good news for you two. You see... Stella is protected by the Covenant, so anyone after her will face a swift death—" the spiritual pressure and hand digging into his neck suddenly vanished as if it had all been a nightmare.
+
+Moose barely managed to remain standing and looked over his shoulder, and as expected, she was gone. He reached up and ran a trembling finger down his neck—the warm blood oozing from the wounds confirming that the experience had been very real. He had never met Death and lived before. Even as his body recovered, his mind remained shaken by the experience.
+
+I have no idea if she will return to finish me off. Moose's mind raced as his eyes darted around the room, looking for any sign of the ghost. Wait, what am I doing? I should report this before I die; otherwise, Crow's sacrifice will be for nothing.
+
+With a trembling hand, he brought out a communication jade. Activating it, he spoke into it. "Lady Darkness, Crow is dead. Likely murdered by an organization called the Covenant," he gulped. "We also ran into a member of this organization and were left to live after they discerned that we weren't after Stella Crestfallen, who we have confirmed is the new Matriarch of the Frozen Star Sect and is being protected by them." He paused and then added, "Based on the experience, I would advise the Silent Thorn to treat the Covenant with extreme caution. They are ruthless and leave no traces."
+
+"Good idea. After all, we are always watching."
+
+Moose's head snapped toward the familiar feminine voice and saw the silhouette of a hooded figure on a balcony walk away. How they had vanished and reappeared over there without a trace was already baffling, but even weirder was that when he reached out with his spiritual senses toward the hooded figure, it returned nothing.
+
+It was as if they were a mortal.
+
+Moose and the other Shadow exchanged a look and, with a nod, made a mutual decision. This was far above their paygrade.
+
+Their job here in the Frozen Star Sect was done. It was time to flee.
+
+***
+
+"That was more fun than I care to admit," Stella chuckled as she left the Lion's Den gambling hall. After informing Zephyrine about the presence of the Silent Thorn here and back home, she decided to go hunting while the meeting concluded.
+
+Not having much luck, she decided to take Crow's body out of the aether and leave it where she had killed him. After a few minutes of waiting, two people had slithered out of the shadows to investigate.
+
+She had been about to kill those two but decided against it at the last minute, as she wanted to see what they would do if she left them alive. The idea of pretending that she was part of the Covenant had come to her in the moment, and she was glad she had thought of it.
+
+Now that the fear of the Covenant will spread after that report, I need to hurry home and get to work on making these Fleshfruit trees grow bodies for Morrigan and those in the Eternal Grove, Stella thought as she stepped through the aether and hunted some more. Unfortunately, unlike those two who had made themselves obvious by inspecting Crow's corpse, the other Shadows of the Silent Thorn, assuming they existed, didn't make themselves known. Returning to the meeting room, she was relieved to see the doors open and people stepping out. It had concluded.
+
+"Oh, Stella, you're back. I will, unfortunately, have to stay here alongside Janus a little longer," Zephyrine announced with a sigh. "I know you don't care for this sect, but it's yours now, and it will reflect poorly on our bloodline's honor if you just leave it to become a bloodbath between the main two factions that are still furious at one another."
+
+"You're not coming back with me?" Stella frowned. "I'm being hunted by a shadow organization, you know? I need protection while crossing the frozen wasteland."
+
+"I know, but don't worry. Your protection has been arranged," Zephyrine, in her enchantingly beautiful human form, stepped aside to reveal a towering humanoid dragon with scales and hair as white as snow, making his piercing glacial-blue eyes stand out even more.
+
+Zephyrine studied Stella's reaction with amusement. "Did you perhaps forget you have a Monarch Realm dragon as a slave?"
+
+Stella's eyes widened in surprise. "You finished the enslavement?"
+
+"Just as he planned to do to you if he won his rigged game," Zephyrine added with disgust while handing Stella an ice gem. The moment Stella touched it, she saw Ao Lingxuan shift uncomfortably, as if his heart was being caressed. "This gem is for you."
+
+Stella carefully received the gem and inspected it. "I can feel great power coming from this."
+
+Zephyrine nodded. "It was crafted from his infant soul to make it linked to his Nascent Soul and body. With this, his life is literally in the palm of your hand."
+
+Stella closed her fingers around the gem and squinted at Ao Lingxuan. She was suspicious. "What's stopping him from killing me or freezing me in place with his domain to prevent me from crushing this gem?"
+
+"Well, a few things," Zephyrine explained. "For one, his self-will has been effectively devoured by Maple."
+
+Stella raised a brow. "Maple did what?"
+
+Zephyrine chuckled and grabbed Ao Lingxuan's cheek between her fingers and pulled on it, to no reaction from Ao Lingxuan. As piercing as his gaze was, it also had an indescribable emptiness to it, as if he were staring past all of them at something they couldn't see. "See? Ao doesn't even react. But he will listen to commands issued through that ice gem."
+
+"Why?" Stella asked.
+
+"Because, since it's crafted from his Infant Soul, it's linked directly to his other soul. Talking to him normally won't work as I think he permanently sealed his consciousness after... well, after what Maple did to him," Zephyrine winced. "Even remembering it is, um, never mind. The point is, he's basically been reduced to a living statue with a suspended consciousness that will only respond to commands through that gem. Oh, there's one other feature that we didn't anticipate but is welcomed."
+
+"Oh? What is it?"
+
+"A conditional damage transfer," Janus said as he walked out of the meeting room. "We noticed that any damage done to the gem is reflected through the soul link to Ao Lingxuan. That means, if he tries to kill you, the damage will be transferred to him instead."
+
+"Wait, does that count for damage only from him?" Stella asked.
+
+Zephyrine and Janus exchanged a glance.
+
+"I think so?" Janus said after a pause. "It seemed to only absorb ice Qi attacks made in its vicinity when we tested it."
+
+"I see..." Stella inspected the gem again. It seemed to work similarly to her Phantom Veil Amulet, where it would absorb Qi around it. Meaning the effect should be enhancable. "What if you strike the gem directly with a different Qi type?"
+
+"We didn't want to break it, so we didn't try," Janus said with a shrug.
+
+"This is worth testing," Stella insisted. "Get ready to restrain Ao."
+
+"Are you sure about that?" Janus said, looking worried.
+
+"Definitely. I need to know the limits of this gem and what Ao Lingxuan is capable of. There's no way I'm going to keep around an enslaved Monarch that, after losing a bet, tried to shamelessly kill me, and whose final words were calling me demon spawn."
+
+"That's... fair," Janus said, stepping back behind Zephyrine.
+
+Stella confirmed with her sister that it was fine to go ahead. Zephyrine gave her a hesitant nod, so she inserted some aether Qi directly into the gem.
+
+Ao Lingxuan crumbled to his knees in pain.
+
+Stella smiled wildly. "It works with other Qi types."
+
+"So it does," Zephyrine muttered in awe. "I didn't even think of that."
+
+"It's so small, though," Janus said, eyeing Ao Lingxuan with caution.
+
+"Mhm, I need to spread the effect beyond the gemstone," Stella pondered, and then had an idea. Lifting her cloak, she exposed her stomach. She then hesitantly inserted the gem into her belly button and was surprised by how cold it felt.
+
+"What does that achieve?" Zephyrine said, eyeing her strangely.
+
+"I'll fuse the top layer of my skin with the gem," Stella explained as she began cycling her Qi and drawing on the gem to drag its presence through her spiritual roots and across her skin. She managed to stretch it quite far to cover most of her torso, neck, and legs, but her head and feet remained beyond its reach. During the process, she breathed deeply to cope with the painful cold.
+
+"Is it working?" Zephyrine asked.
+
+"I think so," Stella said and offered her shoulder to Janus for a test. "Strike me—no, wait, even better."
+
+Ao Lingxuan, I order you to strike me on the shoulder with a non-lethal attack, she mentally commanded the gem in her belly button.
+
+The Monarch suddenly strode forward, as if a statue had been given life.
+
+Stella unintentionally shrank back. Even with his mind enslaved, Ao Lingxuan still had a frightening figure, and that glacial gaze, filled with emptiness, staring her down made it even worse. Yet, true to his order, the Monarch pressed her with his hand raised. Chopping down with surprising force that made the air whistle, he struck Stella, and she felt... nothing. Ao Lingxuan, on the other hand, stumbled back, clutching his shoulder with a confused expression.
+
+"It worked," Stella said, honestly baffled that it had as she rolled her shoulder. "I can really transfer damage to him."
+
+Zephyrine smiled widely. "I'd feel bad if this wasn't such a fitting fate for a revenge-obsessed dragon that couldn't honor the outcome of a rigged bet they made. Honestly, seeing him like this makes me glad I didn't kill him when I had the chance, even though he was hellbent on slaughtering me. Now my little sister has a guardian to keep her safe."
+
+"Yeah, thanks for that and everything you've done, sis," Stella said. "I really mean that."
+
+"I know," Zephyrine said with a grin that was far from humanlike. "Now off you go. I can tell you're dying to check on your father and Red Vine Peak."
+
+Stella nodded. "I am, but when will you come?"
+
+"As soon as I can," Zephyrine said, her eyes flashing with malice. "Don't forget that I have more than a bone to pick with the Celestial Empire. Once your father decides to launch the all-out invasion, I'll be there to slaughter those cowardly Monarchs who have tortured our Mother for so long."
+
+Janus nodded in agreement. "We will follow you soon, Stella. I also want to see how big Ashlock has grown since I planted him."
+
+Stella chuckled. "True, it has been a while since you two saw one another. Oh, where is Jasmine?" she asked, looking around for her Disciple.
+
+"She is training with my disciple," Janus informed her. "Do you wish for me to get her?"
+
+"No, it's fine. Bring Jasmine with you when you return to Red Vine Peak Zephyrine." Stella said. "I thank you both for running this sect on my behalf, and I will see you both back at Red Vine Peak soon."
+
+Ao Lingxuan, follow me. You will be my ride back home.
+
+She left with her new Monarch dragon pet in tow. Once they were outside the dragon's old palace, Ao transformed into a massive dragon at her command, and Stella hopped onto his head. In view of many members of the Frozen Star Sect, they took to the skies and headed eastward toward Red Vine Peak.
+
+***
+
+A few days after Thanatos's grand appearance on Floridawn's land, Ashlock had seen a sharp increase in sacrificial credits. The initial surge came from his own Ents slaughtering the beast tide to turn them into Ents, and these sacrificial credits were then tripled in the divine stock market by the spreading of his name.
+
+Idletree Daily Sign-In System
+
+Day: 3735
+
+Daily Credit: 32
+
+Sacrifice Credit: 12086
+
+[Sign in?]
+
+"A little over twelve thousand sacrificial credits, not bad at all," Ashlock said. He had been watching the growth closely and had noticed it stall out in the last few hours, meaning it was time to spend.
+
+First on his list was one of his original skills: Eye of the Tree God. Having served him well until now, it was starting to show that, as the skill that had given him his name, the All-Seeing Eye, it was beginning to show its drawbacks as an A-grade skill when trying to spy on Monarchs with perfect control of their surroundings.
+
+It desperately needed an upgrade.
+
+"System, upgrade Eye of the Tree God for me."
+
+[Sign in successful, 3872 credits consumed…]
+
+[Upgraded {Eye of the Tree God [A]} -> {Gaze of the Tree God [S]}]
+
+[{Gaze of the Tree God [S]} This upgraded skill provides a permanent omnidirectional aerial view over an immense area, which can be expanded or focused at will. At the cost of Qi, you can also ignore physical and spiritual obstructions, including walls, illusions, domains, and formations.
+
+Also, everyone within the range of your roots will now have a subtle feeling of being watched at all times. Those you focus on or mark will feel this more intensely and have their mental defenses slowly eroded. Furthermore, those infected with your Cursebloom Sap will feel this intense feeling of being constantly watched, regardless of distance or being inside the range of your roots.]
+
+Ashlock decided to test this right away. His vision blurred as he traveled south and arrived at Floridawn. Immediately, he noticed the difference. Not only was his view range many times what it used to be, but it was also omnidirectional, meaning he could see in all directions at once if he so wished. He quickly turned that off as it was a little headache-inducing, but he could imagine how unfair having omnidirectional vision would be in a fight.
+
+What was more important was that he could now see the grand formation pulsing below Floridawn in all its cursed glory, and how it fed off the World Tree's lifeforce to power itself in keeping her soul restrained.
+
+The sight of it made him sick. This could have been his fate if not for his system empowering him, Stella's efforts, and a lot of luck.
+
+"Focus, Ashlock, that's not why you are here." Ashlock quickly located Councilman Faelorian Lysanthos's mansion. It wasn't hard to find, being the largest and lording over all the other residences from atop a World Tree root. Until now, the building had been heavily protected by formations, making it impossible for him to peer inside with spiritual sight, even with his roots now tunneling underneath.
+
+But now, if he poured Qi into his new {Gaze of the Tree God [S]} skill, he could simply peer through all those layers of defenses. Councilman Faelorian Lysanthos reacted to his intrusion immediately, but unlike before, he couldn't pinpoint where Ashlock was looking from. The white-haired man frantically looked around as the feeling of being watched settled on him.
+
+"Where are you?" he roared, his nature Qi igniting across his skin. "I know you're here, you bastard! Show yourself!"
+
+Ashlock laughed. "You're fighting ghosts, my friend."
+
+He then decided to mark Councilman Faelorian Lysanthos, so the feeling of being intensely watched would remain as long as he stayed within the range of his roots, and he could easily track him. That would likely come in handy when he finally decided to send the Covenant after him.
+
+"Take that, you tree-torturing bastard," Ashlock muttered as he left the Councilman to swing his sword at the air.
+
+Returning to Red Vine Peak, he still had many credits left to spend, and he guessed his new skill upgrade might help him weed out those Silent Thorn members that the Celestial Warden had warned him about.

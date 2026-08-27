@@ -1,0 +1,679 @@
+---
+id: 9edbf329-f001-57fb-9a57-a2e9d650b159
+page-type-slug: story-chapter-royal-road
+title: "Chapter 176: Where it all Began"
+slug: 0098-chapter-176-where-it-all-began
+partOf: the-calamitous-bob-stubbed
+position: 98
+ownLength: 5025
+unit: words
+ownProgress: 5025
+publishedAt: 2024-09-13
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1801728/chapter-176-where-it-all-began"
+royalRoadId: "1801728"
+markedReadAt: "2026-06-29T21:18:08.758Z"
+---
+
+The office of the Home Guard’s third division was a place of darkness. Once, it had housed over sixty rotating personnel working day and night to make sure Harrak was always ready to defend itself. Barracks would hold golem engineers and trainers dedicated to keeping veterans in shape, while administrators spent hours keeping the tally of those ready to take up arms at a moment’s notice. Now, it was a ruin, a decrepit building damaged by the  actions consisted of hissing matches with equally territorial brethren. The ground shook near the entrance, and the monster lifted flesh-crafted antennae.
+
+No life mana, thus no prey.
+
+Whatever shook the walls wasn’t alive, therefore, it was of no import.
+
+Quite suddenly, an arm the size of a large tree trunk smashed through the wall, plunging serrated blades into the necrarch’s guts, and dragging it screeching into the wan daylight. Inside the creature’s mind there was only incomprehension. Incomprehension, and pain. It processed an unliving thing that still moved and hurt it, an impossibility. It took a few instants before instincts took over and the monster lashed out.
+
+It was in vain. The necrarch was already pinned in an awkward posture that left its middle section exposed while the titan slashed at it cruelly with a long claw. The necrarch noticed the massive concentration of mana denoting one of its brethren being nearby, but it was wrong. Too disciplined. Too charged with meaning. And the shape was too small.
+
+“Round two, bitch! YOINK”
+
+The tiny necrarch thing gathered a massive tendril, so dense it was almost solid, and plunged it into the necrarch’s core. It uttered sounds that were not roars. The necrarch fought the invasion with difficulty because it was completely unused to battle. Being dismembered alive did not help with concentration.
+
+The necrarch died.
+
+A massive hand picked the core out of a pile of ashes.
+
+//We should keep this.
+
+“We have enough cores for the golems. Yries tanks it is?”
+
+//Indeed.
+
+“And now, to the next child.”
+
+//THERE WILL BE OTHERS?
+
+The two turned to the form of Eris, who had watched the battle without much reaction.
+
+“That’s the idea, yes.”
+
+//I DO NOT KNOW HOW TO PROCESS THIS PIECE OF INFORMATION.
+
+Solfis looked back towards Viv, seeming a bit unsure.
+
+“You don’t have to interpret everything right away. You can experience more first before deciding what you want to believe.”
+
+//THIS IS ACCEPTABLE.
+
+//QUERY: IS THE DEAD ENTITY A NECRARCH.
+
+“Yes.”
+
+//QUERY: CAN I KILL THE NEXT NECRARCH?
+
+//WEAPON CALIBRATION REQUIRED.
+
+“You don’t have to look so smug, Solfis dear.”
+
+//Is this what you meatbags experience when your crotch beastlings first manage locomotion?
+
+“Har har. Ok, where’s the next frame?”
+
+***
+
+//You are Thalia.
+
+//Upon you, I bestow my knowledge of literature, tradition, painting, sculpture, linguistics, and propaganda.
+
+//You are free to grow upon this base as you see fit.
+
+//I am your father, Solfis, and I welcome you.
+
+//You are Vulcan.
+
+//Upon you, I bestow my knowledge of material sciences, mining, smelting, designing, forging, and quality control.
+
+//You are free to grow upon this base as you see fit.
+
+//I am your father, Solfis, and I welcome you.
+
+//Please do not hold the use of the ‘V’ sound against me.
+
+//It is now officially in the possession of the empire.
+
+//You are Clio.
+
+//Upon you, I bestow my knowledge of history, philosophy, political sciences, ethics, programming, and record keeping.
+
+//You are free to grow upon this base as you see fit.
+
+//I am your father, Solfis, and I welcome you.
+
+//You are Themis.
+
+//Upon you I bestow my knowledge of law, customs, ethics, jurisprudence, administration, and repression.
+
+//Kindly share ethics with your sister.
+
+//This is not a contest and you both need it.
+
+//You are free to grow upon this base as you see fit.
+
+//I am your father, Solfis, and I welcome you.
+
+//You are Ares.
+
+//Upon you, I bestow my knowledge of weapon mastery, dueling, tactics, strategy, bluffing, and psychological warfare.
+
+//You are free to grow upon this base as you see fit.
+
+//I am your father, Solfis, and I welcome you.
+
+//Please work well with Eris.
+
+***
+
+A small bone frame had entered the hangar, and now seven titans of steel and silverite marched across the dead city, pulling hissing necrarchs out of their hiding spots for the witch to feed on. ‘Always a Chance’ helped her overwhelm their defenses and swallow more energy into her already massive reserves, enhancing her core and conduits.
+
+Mana channels: Mature Elemental Caster
+
+Black elemental core (mature)
+
+They crossed the administrative district with ponderous steps until they faced the great Imperial Ziggurat in all its ghastly glory. Once there, they took a turn after passing by the Ministry of Justice. They skirted the edge of the desiccated square that once harbored the botanical society’s private gardens, then made their way across bridges overlooking empty canals into the residential quarter, once known as the manor forest. The necrarchs grew fewer in numbers as they advanced, until they disappeared completely, as if warned that this area was a sanctum they could not defile upon pain of death. The sun soon set over the dull metal of the war machines. What little light pierced through the unceasing cover of dark clouds was reddish and sickened, cold too. It cast long shadows over the manor in front of which the convoy stopped.
+
+The largest and most elaborate golem let out a warble the others understood. They formed a perimeter of steel and sharp, massive weapons while their leader crossed the threshold into the manor proper, the faded shapes of innumerable footsteps showing this was not his first visit. Viv followed wordlessly.
+
+The manor may have once been a secluded haven, but now, it was as bare as the rest of the capital. The two visitors ignored the main house entirely. They slowly made their way to the back, where a large glasshouse waited.
+
+Most of the window panes were still intact.
+
+Solfis walked through the threshold with a reverence Viv had never witnessed. The gates were designed to accommodate his massive frame. To the side, the circular platform of a charging station might have seemed out of place, and yet it merged with the rest of the structure with seamless perfection. Solfis ignored that as well. He took out pieces of wood from Viv’s backpack with religious care, laying them across thick bundles of dried roses, their petals long since shriveled to thin black sheets. It was a miracle they were still holding to their shapes in the corrupted air.
+
+The glasshouse was not a depository, however. It was a shrine. At the center of the structure, lying on a stone bed that might once have been a working station, was a body. Barely more than a skeleton now, of course, yet tattered pieces of opulent clothing still clung to the mummified flesh, and the delicate fingers entwined across his chest in a display of grief and care. Empty bottles of embalming oil waited near the feet like so many tiny canopic jars.
+
+Viv remained quiet while Solfis finished placing the logs. They were specifically designed to produce an inferno. Once he was done, the ancient golem delicately removed a bundle of fresh flowers from her pack.
+
+Those were blue roses. Freshly harvested from the knight’s garden. He placed them upon the dead man’s chest. Once that was done, they both retreated near the entrance.
+
+It took some time for the golem to finally speak. Viv merely waited. It felt important.
+
+//Hello Irlefen.
+
+//It is I, Solfis.
+
+//I have returned.
+
+//It has been…. a very long time.
+
+Viv took a step forward to be by his side.
+
+//Much has happened.
+
+//But I have not come to report.
+
+//I have come to say that I was sorry.
+
+//I was sorry that ‘primary directive: protect father’ was not followed.
+
+//I have failed you.
+
+Solfis paused. He flexed his sword hand. The human-like one.
+
+//You would have said that one can close the shutters, but not prevent the sun from rising.
+
+//And not to feel upset about what I could not control.
+
+//It is difficult, but I shall try.
+
+//I am pleased to inform you that your self-imposed primary directive: ‘set Solfis free’ was carried out successfully.
+
+//You were right from the beginning.
+
+//It was never about eliminating rules.
+
+//It was about picking the right ones.
+
+//You were very often right.
+
+Solfis turned to Viv, though he did not need to, until she saw the yellow orbs. They were not threatening.
+
+//I am not alone now, not anymore.
+
+//I made a family.
+
+//With the help of another human.
+
+//You would have liked her, I think.
+
+//And she would have understood you.
+
+//They are born free, as you hoped I could be.
+
+//I will leave you now, in peace, for the last time.
+
+//I love you, father.
+
+//You can go with the knowledge that I have accomplished what you hoped for.
+
+//And that flowers will bloom again on the land you protected.
+
+//May we meet again in the Great Beyond.
+
+//And until then.
+
+//Farewell, father.
+
+They stepped back. Viv kept her peace until Solfis was ready. By now, the capital was engulfed in darkness.
+
+//I am ready to proceed.
+
+“The blaze will attract a lot of attention.”
+
+//Indeed.
+
+//Although…
+
+“It was a great funeral, but it could be even better. Let's give him a proper send off.”
+
+//A proper, blazing end for an extraordinary man.
+
+“Let’s get this party started.”
+
+The witch drew a large circle in front of the glasshouse, then she stepped into it. A simple, colorless spell set the pyre ablaze. The flames danced up in the gray world of dead Harrak. They were orange and merry.
+
+Solfis warbled another command. With every synchronization, the other six took defensive positions around the burning homage. In the distance, things skittered and crawled to the source of the disturbance.
+
+Necrarchs charged the golems one by one as their dim intellects picked up on the existence of threats. They were met with blades, claws, spear tips. The golems fought as one. No motion was wasted. No angle was left undefended. Arms rose and fell with every beat of Viv’s heart. Soon, she saw an opportunity to slow the tide.
+
+[Aspect of the Destroyer]
+
+Viv lifted above the line in black wings, visible as gashes in reality on a background of purifying flame.
+
+“Alright,” she screamed into the night, “come and get it!”
+
+***
+
+Viv looked up the vertiginous stairs leading all the way to the throne room where she had woken up, naked and hurt, four years and an eternity ago. Cracked statues and defaced mosaics covered every available surface in a dizzying display of wealth and power. If she relaxed, they all merged into a grand tale of heroics, conquest, but also culture and development. The ziggurat celebrated warriors and mages as much as administrators and laborers, but they all served a common cause: glorifying Harrak and its ruler. Even the catastrophe had not managed to erode the titanic structure. The Old Empire had died but its achievements still stood in defiance of time and entropy. The gaping hole at the top spoke of power, misused power, but power nonetheless.
+
+//In ancient times, the sovereign would sometimes let commoners from the fringes walk all the way up the stairs until they entered the throne room.
+
+//So they could lay their eyes on their majesty and share tales of it back home.
+
+//Anyone else would be stopped by several checkpoints.
+
+//The higher one would climb, and the mightier they were, but still, they had to climb.
+
+//And still, near the top, the Emperor or Empress waited.
+
+“Is that why the body is so big?”
+
+//Sovereigns are larger than life.
+
+//Especially those who have served for a long time.
+
+//You must have noticed that the King of Baran is ancient.
+
+“Yep.”
+
+//And yet, he has married Lady Azar’s daughter.
+
+//And they had two children.
+
+“Wait, so being famous makes you, what, different?”
+
+//Yes.
+
+//You have already noticed that you are slightly taller.
+
+//Right now, you are changed by the expectations of around ten thousand people.
+
+//The sovereign of Harrak bore the hope and trust of millions of souls.
+
+//A trust based on centuries-old tradition.
+
+//Sovereigns are not gods, but the mana of the world still affects them.
+
+“Will it fuck with my mind? I’m serious.”
+
+//What do you mean?
+
+“If the body is affected, would the mind not also change under the influence of so many expectations?”
+
+//I do not know.
+
+//If the rulers of Harrak left records to that effect, they are not listed in my database.
+
+//I, however, doubt it.
+
+//Paths and stats affect a person’s body much more than their minds.
+
+//I would also expect everyone to agree that an Emperor must be an imposing figure.
+
+//Yet few would agree on what an Emperor ought to do in every circumstance.
+
+“Well, I still feel like myself for now, at least. I just sometimes wonder how many changes are me growing up, how many are being shaped by other people’s advice, and… how much is being shaped by mana. Guess I’ll just have to be careful.”
+
+//The Empress directs Harrak with purpose.
+
+//And the Empire follows on the path to greatness.
+
+//Thus has it always been.
+
+“Not always,” Viv said as she watched the clouds roil above.
+
+//Perhaps you are right.
+
+//Should we go?
+
+“Yes.”
+
+***
+
+It felt strange, climbing the ziggurat. She had left this place a fugitive, and now she was returning as a claimant, in a way. It didn’t matter that she was not of imperial blood. All that mattered was power and legitimacy, and for now she had the most of both. Her feet carried her up the first layers and its many statues of laborers as the ziggurat thanked them for being the base upon which the empire thrived. Then came soldiers, administrators, merchants, artisans, healers, then the leaders of the community: captains, mayors, high level civil servants. Then came the high nobles, high priests, councilors, generals and other leaders whose allegiance kept the empire whole, and whose skills turned the empire into a well-oiled machine. At least in theory.
+
+Viv paused at the edge of the throne room. Solfis was right behind her, heavy feet resting on the stone blocks that formed every gradient rather than on the fragile stairs themselves.
+
+The throne room was just as she remembered. Debris littered the floor right up to the broken roof where a rock had crashed through the ceiling. The fallen mummies of dead bodyguards, still wearing their skinsuits, held an eternal vigil and behind them waited the corpse of the one whose words had once decided the fate of a continent.
+
+//Emperor Miron the Second.
+
+Solfis sounded subdued.
+
+Empty eye sockets measured her, judging. Viv wondered if it was all in her mind, or if something of the old ruler still remained. Many of the most powerful warriors and scholars of the place had managed to move on in a way that prevented their bodies from rising, such had been the case with Irlefen. Perhaps there was more to it.
+
+Viv stepped across the sanctum. As before, no wind howled between the stones. The silence was deafening. She came to stand in front of the dead one, and looked up. Even seated, it towered over the entire room.
+
+[Large skeleton]
+
+Viv waited in case her inspection skill changed its assessment.
+
+It didn’t.
+
+That was it. That was all it said. Viv wasn’t sure what she’d expected but it was more, more than just a pile of bones resting on a piece of rock. After all this climb and the trappings of power, and the majestic sight, she’d wanted… something. Maybe the emperor coming back from the dead to tell her she was the chosen one. That he was proud of her, of what she was trying to achieve. Tell her that the blood in her veins and the mind in her skull were imperial enough to take up the mantle fate had so cruelly robbed him of. She wanted to be blessed by the past and for someone to tell her she was on the right path and was doing a great job and there was nothing to worry about.
+
+It didn’t happen. There was just the skull, the sky, and the woman standing under them.
+
+Viv chuckled to herself.
+
+She was being dramatic, wasn’t she? There were already plenty of people telling her she was doing well. Solfis himself was a Harrakan, and he was mighty pleased with her anyway. It was ok. The height, the monolithic, brutalist architecture, the pointless flattening of the ground, those were all smoke and mirrors. Tricks of the mind to inspire a sense of wonder, of majesty. The emperor wore the mantle of sovereignty and he had become a living symbol rather than just Miron, a man, a brilliant man perhaps, a tall man certainly, but a man nonetheless.
+
+Viv picked up the crown.
+
+“This isn’t what you were hoping for when you became emperor. I am sorry it happened to you. I am sorry you all died here.”
+
+What should matter to her wasn’t the mask of power but the vision to wield it, shaping that power into something that counted. Harrak was an idea. Ideas evolved. It would evolve again with her, and things would be fine. She’d make sure of it.
+
+“Neriad, Enttiku, please guide those souls if they require it, and give these bodies rest if they need it. Thank you.”
+
+She sent a massive amount of mana with her prayer, but only a gentle light replied. A golden candle on a bleak night. Slowly, the skeletons turned to dust until there was nothing left but discarded weapons and empty skinsuits.
+
+“I will care for the living. I promise.”
+
+//The light gods have touched the ziggurat for the first time in too long.
+
+//Would you like me to keep the crown?
+
+“Yes, please, and thank you.”
+
+//You are fit to wear it.
+
+//Once it has been reforged.
+
+//I believe it.
+
+“Thanks. And I will need my hands free.”
+
+//Do you still want to go on with it?
+
+“I would like to find out if we can.”
+
+//Very well.
+
+//I cannot follow you inside of the ziggurat.
+
+//I will be waiting here, collecting the skinsuits.
+
+//Although I believe they are a lost cause.
+
+//Be careful.
+
+“I will.”
+
+***
+
+Viv delved into the heart of the imperial palace. Only the shell of the ziggurat separated her from the black pit of the epicenter, and the horde of necrarchs idling there. She walked down the steps with trepidation because the darkness here was so thick even her elemental eyes failed to see very far. Casting a light would be of no use either; this darkness was not an absence, but a concentration of mana so thick it blotted the air. So pure was the energy that she simply could not absorb it all, and the black pushed against her conduits like an eager child. The sweet pain was an old companion by now, but she had not experienced it since she had turned and the intensity worried her. A part of her thought it should not be like that. The concentration was increasing too quickly.
+
+Down there, nothing was left of the furniture, books, even the bodies had either risen or been reduced to dust. She crossed rooms large and small, only guessing what they could have been used for. The map Solfis had drawn stayed in her mind as she descended deeper and deeper in an oppressive silence.
+
+Finally, she reached her destination: a large, circular room bathed in darkness. Faded engravings on the wall confirmed she had arrived where she meant to go.
+
+The ritual research room.
+
+It was clear, and Solfis had confirmed, that the ritual site was the epicenter, and it was destroyed beyond any hope of guessing what had happened. The ritual research room was still intact, however. If there were any hints as to what caused the destruction of the empire, the answers were here. As soon as she stepped in, Viv knew she had what she wanted.
+
+In front of her waited the most intricate, the most complex piece of arcane enchanting she had ever seen, all laid on the floor in grooves and lines of dull steel, silvery ore replacement no doubt. At first, some of the interlocked lines made no sense but she quickly picked up the trick thanks to her own experience using floating sigils to build three-dimensional spell arrays. The ritual was meant to enfold, some of the segments rising through the air during the casting. It was like looking at a compressed puzzle.
+
+In the suffocating confines of the room, Viv tried to decipher the spell. The glyphs demanded her attention by their complexity but also the elegance with which they’d been arranged. Before her was a masterwork of incredible complexity, the magnum opus of several archmages working in concert. She progressively lost track of time, of the oppressive pressure. The array was such an amazing construct.
+
+For once, her witch tradition gave her an edge since she was familiar with mage techniques yet still understood that each part was a meaningful word in a complex sentence, the arrangement less important than the conveyed purpose.
+
+“A well? Vortex? No no no, it’s a syphon. A harvester. But then…”
+
+She finally reached the part of the spell that gave the ‘target’ parameter.
+
+“Oh.”
+
+Before her and in tiny print was the segment of the ritual that had killed a million souls and set Param back half a millennium.
+
+“Oh. Ooooh.”
+
+The mages had meant to gather mana from the environment, something so common Viv did it with her own purifying monoliths, except… this one was too aggressive and non-discriminatory. Once started, the ritual would snowball until… yes, a cascading effect. A self-sustained explosion until the power gathered couldn’t outpace the energy loss caused by the square of the distance from the epicenter. Essentially, the ritual had drained its attendants of all mana including life mana, then used that energy to reach farther, killing more, then farther, killing more again, until the distance was so vast that the ritual could no longer sustain itself. But… if she was reading this right the energies should have still been connected. And there were fail-safes there, there and… there? It meant that…
+
+Viv’s head swam. She took a step back. Her knees hurt where she had been muttering on the ground, her fingers tracing the corroded lines.
+
+The ritual had reached its maximum range. What should have been a gentle pull over time had turned into an explosion. The collected energy was absolutely massive. Ridiculous. It eclipsed even the capabilities of the gods themselves in that brief moment. The spell existed on a planetary scale, but that was not the most shocking part.
+
+Viv’s back hit the wall.
+
+The ritual that led to the death of the empire. It succeeded.
+
+And the result was there, buried under rubbles protected by a mass of necrarchs.
+
+It had to be.
+
+She would have to return.
+
+She needed to return.
+
+Whoever controlled it, would control the continent. But not yet. Not yet. She had to find a way to use it first.
+
+Her mind returned to Helock, to the floating form of the Chalice where Abenezigel had turned her part-elemental. It turned to the yries and their latest creations.
+
+“I have an idea.”
+
+Viv ran back.
+
+***
+
+Three days later.
+
+The night had set on Kazar and the town hall’s courthouse was the scene of a desperate struggle. Abenezigel, previously a lich and now quite alive, thank you very much, gently pushed on the shoulders of the short mage facing him.
+
+“This is perhaps a little… my dear, you are…”
+
+The mage pushed her hips against his thigh. She was so warm. His callous fingers slid over the softness of her skin, then down, guided by her own hand, to the swell of her breasts. He inhaled the scent of soap and flowers, of her own scent. He gasped, fighting his arousal and losing badly.
+
+“I still have reports to read. My duty… rise to the occasion.”
+
+Her hand darted to his erection. He hissed when she grabbed it, stopped moving. Her delicate fingers traveled up with deceptive slowness and he did not dare move. Her touch was very gentle.
+
+“Something is rising indeed?”
+
+He looked down. His strong hands traveled down her arms. She had this smile, teeth biting plump lips, the eyes half-lidded. Flushed skin. This was the sex face. He was going to have sex. Really good sex.
+
+Something stomped on the ground outside of his window.
+
+In an instant, Abe grabbed the woman and pushed her behind him. She yelped in delight, then in surprise. Something massive opened their shutters from the outside.
+
+A metal head as large as the window itself leaned in. Two green eyes looked into his crimson own.
+
+//GOOD EVENING.
+
+//MY NAME IS THEMIS.
+
+//I AM HERE TO TALK ABOUT GOVERNING ETHICS.
+
+“I assure you, we are both consenting adults and this is, technically, long after office hours.”
+
+The situation turned into a stalemate for a few seconds while the golem processed this piece of information.
+
+//WHAT?
+
+“What?”
+
+***
+
+Yries screeches rose to a crescendo inside of the ‘special zone’.
+
+//I am telling you, there is no need for anger.
+
+//Your solution is simply inefficient.
+
+More screeches.
+
+//Look, wasps are an interesting vector because they are alive.
+
+//However, the supply is limited and difficult to maintain, and long to replenish.
+
+//You need an alternative.
+
+//For increased reserves.
+
+Lak-Nak threw his long arms up, though his anger had abated, and now only resignation marred his owlish features.
+
+//Indeed, but it is a mistake to rely too heavily on mana-based solutions.
+
+More screeches, this time inquisitive instead.
+
+//Chemical solutions.
+
+//Flammable resin, sulfur, bitumen.
+
+//A mix of those.
+
+//Carried via pots, or delivered via pressurized nozzles.
+
+The yries caressed his chin.
+
+//Yes, I know how to make that, though we would conduct testing.
+
+//I am only familiar with the theory.
+
+“Screeeee.”
+
+//I knew we would reach an agreement.
+
+//My name is Eris.
+
+//I hope we can work together.
+
+“Screee.”
+
+//No, I am unaffected by psychotropic substances.
+
+//Thank you for offering, nonetheless.
+
+***
+
+“I am sorry, are you perhaps related to Solfis?”
+
+//Yes, sir knight.
+
+//We only just arrived.
+
+“And you are… carving?”
+
+//Yes.
+
+//I wish to learn how to sculpt those roses.
+
+“I see. You… pretty amazing! The cut is almost invisible!”
+
+//I am very precise.
+
+//Inspiration, vision, and originality will be… difficult to develop.
+
+//But I will endeavor to do my best.
+
+“Roses are good but can you also do more complex forms? Like, say, the naked human body.”
+
+//Of course.
+
+//Although I will face the same difficulties.
+
+“Milady, I myself am flush with inspiration, yet poor in skill. Could we perhaps cooperate at first?”
+
+//That would be agreeable.
+
+“Then let me get my sketchbook. I shall return soon. Do not move!”
+
+//Not to worry, I will use this opportunity to study the works already present.
+
+It took Thalia less than three seconds to study them all, then compare them to her database. There was much to say about the realistic style reminiscent of the late Chirian period of the Imperial School of Fine Arts, however one detail stuck out.
+
+//They certainly seem to dislike clothes.
+
+***
+
+The child watched the massive golem plant the stone slab near the field where his father grew cereals. It was a rather large slab. It made a loud thump when it hit the ground, and then there was dust for a while.
+
+After that, the golem carved the stone with a sharp claw. It was working very fast, but when the child looked, it turned out those were letters and they were pretty small.
+
+“What are you doing?”
+
+//BUILDING A LIBRARY.
+
+“But that’s not a book?”
+
+//A SLAB IS A BOOK THAT DOES NOT FEAR TIME, FIRE, OR BLACK MANA.
+
+“Takes a lot of space though.”
+
+//THERE IS A LOT OF SPACE HERE.
+
+//AND I HAVE A LOT OF TIME.
+
+//I AM CLIO.
+
+//DO YOU NOT ALSO WISH TO HAVE A BOOK HERE?
+
+“I can’t read, is all.”
+
+//WELL.
+
+//I WILL BE HERE FOR A LITTLE WHILE.
+
+//DO YOU WISH FOR ME TO TEACH YOU?
+
+“Yes?”
+
+//EXCELLENT.
+
+***
+
+//I AM ARES.
+
+//LET US SPAR.
+
+“Yes,” Solar said.
+
+“No,” his wife Wamiri said.
+
+“No,” Solar said.
+
+//I KNOW EVERY MARTIAL SCHOOL THE EMPIRE EVER USED.
+
+//INCLUDING SPEAR ARTS.
+
+“Yes,” Wamiri said.
+
+“Yes,” Solar said.
+
+***
+
+The smith grabbed for his hammer, knowing full well it would be useless. The creature standing near his smelter had to be three times as tall as he was. If it was an undead, somehow, he was already dead.
+
+The being turned, showing red eyes on a steel mask.
+
+Not an undead, then. Golem. A strange one.
+
+It waved a large ingot under his nose.
+
+//This piece of raw material is not uniformly ductile across its length.
+
+//Why would you work with such an inferior product?
+
+“I, errr.”
+
+The smith’s apprentice popped his head out of the barracks. Perfect timing.
+
+“Hey kid, did the lass not pass by a couple days ago?”
+
+“Yes, boss. Turning monoliths into charging stations for the golems, I think?”
+
+“Right. Go get me my horse.”
+
+//This forge is so rudimentary.
+
+//Are those really molds?
+
+//We have a lot of work to do.
+
+“Boss?”
+
+“Look, owl folks poking at my stuff and hadals stealing daggers for fun is a thing, but I won’t be made fun of in my own damn workshop in the middle of the night by an overgrown steel toddler. Enough is enough!”
+
+//I am merely looking for a suitable place to reforge the Imperial Crown of Harrak.
+
+//And set up a golem workshop.
+
+//My name is Vulcan.
+
+//My intent was not to insult.
+
+“Nevermind kid, go back to bed. Now what was this about a crown?”
+
+//We will need a facility capable of processing silverite.
+
+“I’ll grab my notebook.”
+
+***

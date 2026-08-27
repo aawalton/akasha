@@ -1,0 +1,137 @@
+---
+id: b29ff531-e2a4-5d3e-b9b6-db69c74da34b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 159 – A Crack in the Cage"
+slug: 0159-chapter-159-a-crack-in-the-cage
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 159
+ownLength: 2154
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3793926/chapter-159-a-crack-in-the-cage"
+royalRoadId: "3793926"
+---
+
+Liora felt a bit silly. She had thought that Cee and Renir would be happy to move ahead without her. That they would deem saving her impossible and not time worthy. But they both had come despite the danger.
+
+That meant that she couldn't just sit back and wait for something to happen. She needed to figure out a way to get out of here. Or at least how to help Renir and Cee break her out.
+
+She walked around her new, fancy cell, inspecting every wall, the floor, and even the ceiling for a place where the wards perhaps were weaker. After all, she needed only a small opening to get through as a mote of light. Unfortunately, the wards were airtight. There wasn't a single place where Liora wouldn't see the distinct magical shimmer.
+
+Attacking the wards outright likely wasn't a good idea either. It could alert Lucien, and he might just decide that Liora had to be forced into submission with some mind crush. Was that a real thing? She thought it was only possible in anime about card games, yet what Lucien had done to her certainly felt like her mind was being crushed and scrambled.
+
+What can I do? Anything to make it easier for them to get me out?
+
+Thinking about it, Cee had looked different than before, so it was safe to assume that she had evolved. But not into a humanoid. Maybe she didn't have the option yet.
+
+However, she was definitely still a spider, so it was safe to assume that her webs and traps would be her main way of attack. But it also meant that Cee likely needed time to prepare. Liora had to be patient, wait, and try to figure out as much as she could about this place.
+
+She went up to the window again and examined the surroundings as best as she could. From the angle she could see, the island didn't look very large. She guessed that it was smaller than the island where Morgana and Sallie had hidden their clinic.
+
+The feel was also distinctly more tropical, with palm-like trees and jungle-like surroundings. There was a fence around the building where Liora was held, and near it she spotted several monsters skulking about. Corrupted monsters. Yet another thing that would make escape more difficult.
+
+She was surprised to see that they weren't trying to break through the rather flimsy-looking fence. But it had some faint magical shimmer around it. Maybe it was warded just like this room? Or imbued with holy magic, perhaps. That would keep the corrupted monsters at bay.
+
+Liora was worried. Would Renir and Cee be able to get past those corrupted freaks safely? Cee was very agile and sneaky, so perhaps she could just avoid them.
+
+Nonetheless, Liora was worried, so she kept staring out of the window, looking to see if she could spot Cee and Renir at some point again. But even after several hours had passed, she hadn't seen a single trace of them.
+
+Wait… but won't they be able to track Renir? He definitely was within the radius of the mages. This was bad, and Liora felt herself panicking. The joy of Renir coming to her rescue was quickly replaced with panic as she was mentally cursing at him for putting himself in such danger.
+
+Just as she thought that, she noticed several cloaked figures heading beyond the fence, exactly in the direction she had spotted Renir.
+
+Dammit, dammit, dammit! I need to get out of here and save that idiot!
+
+Liora paced, thinking of what she could do with the skills she had. If only she weren't inside this warded room, then she could easily do something. But as long as she was inside here, there wasn't anything she could do.
+
+An hour passed in this nervous contemplation as Liora kept looking out of the window, hoping to see something, anything happening, but nothing did. It seemed calm, yet Liora grew more restless by the moment.
+
+But only after a while did something finally happen. If she hadn't been so vigilant, Liora likely would have missed it.
+
+A gentle pulse passed through her feet. Like a tiny ripple in water. It was gone in less than a second, but Liora was certain that something had happened. She looked around carefully and noticed that something was happening to the ward.
+
+To be exact, on the wall, near the entrance door, there was a tiny spot on the wall, where the magical shimmer wasn't visible. Liora didn't hesitate. She used Featherflash and flew to the spot instantly. It felt like she was squeezing herself through an opening that was way too small.
+
+A second later, and she might have gotten stuck in the wall. But she managed to get through and found herself in a well-lit hallway. Lucien must have made it light just to spite Liora, because it meant she had nowhere to hide.
+
+In fact, there were two guards right by her door, looking thoroughly shocked at seeing her appear out of seemingly nowhere.
+
+"Time for a nap!" Liora said and used Raptor Lunge at the closest guard. The attack was so fast, he didn't even get to react in time.
+
+[You've defeated <Anton – Warrior Level 52>. Experience gained.]
+
+Liora was surprised to see how high the guard's level had been. Level 52, yet her talons had gone through his armor and flesh like through butter. Her talons had become truly fearsome weapons indeed. Without magical wards to protect these warriors, they didn't stand a chance.
+
+"P-Prisoner escaping!" The other guard yelled at the top of his lungs, his face going ghostly pale when he saw his companion dead on the ground.
+
+Liora used Raptor Lunge on the man. He withdrew a shield just in the nick of time, and Liora's talons dug into it. What was this shield made of? It felt like a tin can.
+
+"You've got to get yourself some better equipment," Liora shook her head, and tore the shield to shreds.
+
+The man screamed, and Liora felt a little sorry for him for a moment. But this guy wasn't just some innocent bystander unaware of the situation. He undoubtedly knew of the corruption these assholes were spreading and still chose to support them.
+
+Liora wouldn't show these guys any mercy. Not anymore.
+
+She pulled the shield away from the man, tossing it aside, and then used Raptor Lunge.
+
+[You've defeated <Bert – Warrior Level 55. Experience gained.]
+
+With these guys out of the way, Liora focused on her Treasure Sense. She needed to get to Renir before Lucien could get to him. Because if Lucien got him first, it was game over.
+
+She could hear a lot of noise in the buildings as well as footsteps echoing from the floor above. This couldn't have been just from her escape, so it was likely that Cee had already sprung into action.
+
+With Treasure Sense, Liora could feel that Renir was some distance away, somewhere below. She wished she could just break through the floor. In fact, she tried to break it down with her talons. However, underneath the wooden flooring, there was a solid layer of stone. She couldn't get through that.
+
+The best Liora could do was find the way down. She turned into her magpie form and decided to search for the exit. She opened her Guild map in hopes that maybe it would have the layout of the building available for her.
+
+Unfortunately, she could only see the places where she had already been, meaning her cell and hallway. Thinking about it, it's how the map had always worked, showing distant places as nothing more than a fog. But since Liora's vision was so great, any outdoor place was quickly filled out.
+
+Shouting could be heard coming from nearby, so Liora hurriedly activated Decoy Fade and had her decoy fly in the opposite direction. Just a moment later, a group of guards and mages appeared.
+
+"There's the magpie! Don't let it get away!" The lead guard, a large man with a much more impressive shield, rushed after Liora's decoy.
+
+Meanwhile, Liora herself flew above the group without being noticed. Good thing that humans didn't have any heat or mana senses to discover Liora's ruse. She could keep flying forward while those idiots chased after her decoy.
+
+By the time they realized it was a decoy and began shouting at each other angrily for not noticing, Liora had managed to find a staircase down. It was made of metal, and the hallways themselves were well-lit and barren. Like in some old school laboratory.
+
+Just as Liora flew down, a chain of explosions erupted outside, lightly shaking the building. Cee's Mana Overcharge no doubt. But Liora was a bit worried. Was Cee detonating her webs from afar, or had she and Renir split up?
+
+Liora didn't know, so she continued flying towards the direction she felt her Treasure Sense marking Renir's location. He had moved even lower, so Liora was once again forced to search for a way down.
+
+The hallways grew increasingly darker, which allowed Liora to safely fly past several guards, thanks to her Shadow Glide.
+
+[Your trait <Shadow Glide> has reached [Legend] level.]
+
+Well, that was an exciting development. Perhaps after upgrading this trait, Liora would be closer to that elusive true invisibility that she craved so much. But for the time being, she had to focus on getting to Renir.
+
+But her way was blocked with a rather sturdy-looking metallic door. Not quite like the modern doors you'd find in sci-fi movies, but like a steampunk version of that. Awkward hinges with large gears were sticking out into the walls and running on the front of the door. In the center, there seemed to be an indentation. Perhaps one needed to place something in there to get the door to open.
+
+Suddenly, Liora sensed something behind her and hurriedly flew to the side. A fireball flew past the spot where she was before and collided with the metallic door.
+
+For a second, Liora feared that it was Lucien, but to her relief, it was the other mage she encountered in the jungle. The bald guy who nearly burned Cee to death.
+
+The man didn't talk, only fired more magic at her. It would be difficult to dodge them all in this cramped hallway, so Liora used Aegis Shield to protect herself. Since she was still in her magpie form, the fireballs were redirected, but that was enough.
+
+She activated her Featherflash, blinding the mage and turning into a mote of light. At first, she tried to get through the door, but it turned out to be warded, so she turned the other way and flew at the mage. Last time, she wasn't able to get through his defenses because of some kind of protective barrier.
+
+But surely there was a limit to that.
+
+As soon as she materialized, Liora took her dracoryx form and grabbed the man from both sides with her talons. Just like before, the barrier was protecting the man, but he looked far from comfortable at having Liora so close.
+
+"How long until you go pop?" Liora taunted, using Lucien's voice, wondering if perhaps it would have some sort of effect.
+
+To her surprise, the man wavered as did his barrier. It was only for a fraction of a second, but she could feel her talons sinking deeper.
+
+"Retreat while you can! I shall not spare you," Liora once again utilized Lucien's voice, watching the man pale. What did he do to this man that voice alone was enough to make him lose focus?
+
+Liora felt that a bit more and she would be able to push through his defense. But things were never so easy. Liora noticed wisps of magical energy gathering behind the corner of the hallway.
+
+She hurriedly released the mage, pushing him in the direction of the energy, and switched to her magpie form. A moment later, a beam of magic shot through the mage's barrier, striking him in the head.
+
+"What a shame. I still had a few jobs for him to do," Lucien said in his suave voice and emerged from behind the corner. He regarded the dead man as if it were trash thrown on the sidewalk and walked past him, avoiding the blood pooling on the floor.
+
+"I was really hoping that we could come to a mutual understanding. It's still not too late, you know. Join me, and I shall ensure that you live a comfortable life," Lucien offered with a smile.
+
+Liora wasn't buying it for a second. Besides, Renir and Cee had come to save her. She wouldn't betray their trust. Not to mention that she was no longer inside the prison anymore. She could get out of this.
+
+"Never," Liora said, and activated Decoy Fade.

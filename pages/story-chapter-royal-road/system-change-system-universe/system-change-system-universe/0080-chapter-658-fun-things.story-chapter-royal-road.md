@@ -1,0 +1,113 @@
+---
+id: 70bb1096-524b-55ef-8b1a-12f1e968a24e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 658: Fun Things"
+slug: 0080-chapter-658-fun-things
+partOf: system-change-system-universe
+position: 80
+ownLength: 2011
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3549828/chapter-658-fun-things"
+royalRoadId: "3549828"
+---
+
+Chapter 658: Fun Things
+
+Derek shot Jace a quick telepathic message, then waited. Not too long after, Jace appeared in front of him. In his current state, the man was just starting to give off signs of his Battlelust being high. His pale, almost sickly skin was beginning to show signs of heating up and turning pink. He seemed a little skinnier than usual, which would change even more drastically if he maxed out the Battlelust and looked like a ghoul again.
+
+Jace didn't quite have the steam coming off him yet, so Derek would put him at around 50% Battlelust. He decided to ask just to see. "Where is your Battlelust at? It seems to be growing."
+
+"Around 46%," Jace answered as he looked longingly into the air at Amelia taking down another one of the flying monsters. "I can almost do that. Just a little more Battlelust..." he muttered, then looked back at Derek. "What do you want? I can't stand around for long unless I want to lose this Battlelust."
+
+"Gotcha, sorry... this won't take long," Derek replied. "You don't use much mana, right? Mostly your Battlelust and stamina?"
+
+"Yeah," Jace replied. "Mana activates a few skills, but that's it. Battlelust maintains the ones that can be. Why do you ask?"
+
+Derek quickly explained that it was looking like someone would have to supply the teleporter with mana personally for the machine to work. Once he was finished, he stared at Jace and waited.
+
+"That it?" Jace finally asked.
+
+"Yeah..." Derek replied.
+
+"Why even ask?" Jace snorted. "You know I'm perfectly fine with that."
+
+"Well... by the look of things, I think all the monsters in the surrounding area have realized that the World Boss is gone and are now all coming to check things out or try to claim new territory. I have no clue what all is coming," Derek explained.
+
+"I do," Jace said with a chuckle. He pointed to his right. "A really strong beast is coming from that way. It's going to be a lot of fun." He then pointed to the left, but up in the air. "A flying one is coming from that way. Not as strong as the other one, but it flies... so... probably harder to deal with." Finally, he motioned all around the area. "And there are tons of fun little things coming that will make it super easy to maintain my Battlelust while I kill everything."
+
+"Oh..." Derek replied. He wasn't sure what to say. He was worried about getting the teleporter functioning and getting off the planet, while Jace was just counting the seconds until he could have even more fun.
+
+"I know, right!?" Jace grinned maniacally. "It's not often that I get to have such a wonderful day. I love it when all the fun comes to me instead of having to chase it. And with everyone else leaving... I get to have all the fun!"
+
+"Uh... right..." Derek replied with a slight shake of his head. "Well... I guess I'll let you know when we need you to supply your mana. Hopefully, you're not too out of control with your Battlelust by then."
+
+"We'll see," Jace said. "You might want to tell the girl to work faster, though. Because my Battlelust is finally going to start building quickly again soon..." He looked off to the right again, then said, "Very... very soon." Without saying another word, Jace quickly ran back out of the outpost and attacked the closest monster to him.
+
+Derek sighed, then turned to look at Alex. "Did you get all that?" he asked.
+
+"Yeah..." Alex muttered with a gulp. "I'll go help her with whatever I can."
+
+"Good," Derek replied. "Make sure you have a way to light up an area. When shit hits the fan, we're going to cover the teleporter so she can continue repairing it."
+
+"I got you," Alex said with a nod before running back over to Brandi.
+
+Derek couldn't help but keep glancing at the sky in the direction Jace had warned. He said fun fights... not deadly, he thought. Shouldn't be anything on Nikolai or The Amber Tyrant's levels, at least. With a firm nod, Derek turned his attention back to Brandi and the teleporter. Amelia was controlling the skies, so there was no need for him to worry about something that she would spot and alert him about well before he could see it.
+
+Derek practically counted the seconds as they ticked by. She had said that it would only be a couple of hours until it would be up and running, and he was on pins and needles waiting. The number of beasts and attacks increased as the minutes went by, until finally, after just a little over an hour, Derek heard a terrifying roar.
+
+It was as if everything paused for a moment. At the teleporter, Brandi's eyes went wide, and she started trembling. Derek quickly cast Absolute Nullify above her and the teleporter, then suddenly, a massive square box made of sand went up around them—leaving only the wall of nullify floating above. Derek looked over at Marrick, and the two nodded at each other.
+
+Finally, Derek hopped into the air with Silvi on his shoulder. He looked back at the covered teleporter, then out to where the sound had originated from. From there, he saw a desert-colored, dinosaur-like creature. It looked almost like one of the images of a Spinosaurus he'd seen when he was a child on Earth.
+
+Currently, Derek was stuck between a rock and a hard place. He wanted to go fight the new, very strong-looking creature, but he couldn't leave Brandi. He especially couldn't leave her with the risk of a flying monster on its way. Finally, he sighed.
+
+"Silvi... how about you..." he started, but his words were cut off by an almost shriek from the dinosaur.
+
+Derek quickly looked back, and the creature's head tilted to the side. One of its previously bright white eyes had turned crimson, and standing before it was a small figure holding his arms out to the side with a pair of blades. "Never mind, Silvi," Derek said. "It looks like Jace picked his fight. He just better not get himself killed. And... he better hurry so we can teleport out of here with his help."
+
+Outside the outpost, it seemed Edgar had gotten a handle on how to fight the aimless larvae and the occasional strider that showed up. Just him and his lightning were doing a great job of keeping the lesser monsters thinned out. Marrick kept most of his focus on the box of sand protecting Brandi and Alex and on movements beneath the ground.
+
+Occasionally, a larva would wander close to the surface, and—since he only needed to focus on a single one at a time that way—he would crush it before it even made it out. Amelia was getting great at dealing with the Dunesail Gourups alone. Her aim with her kicks was crazy good, and she wasn't squeamish at all—that was easy to see by the way she didn't think twice about flying into the mouth or eyes of the creatures just to do better damage quicker and more efficiently.
+
+Hell, it let her solo the flying sandrays that used to be a challenge for a few of them combined. I suppose that after fighting and killing so many as a group and everything, it would be weirder if she had more of a problem fighting them than she currently does.
+
+Suddenly, the weight shifted from Derek's shoulder, and Silvi disappeared. Not long after, another gourup fell from the sky, dead with a hole in its head from the rotation of her blades. Good job, Silvi, Derek thought internally. Without even saying anything or asking, she'd taken it upon herself to go fight in the sky when Amelia was busy. It was also nice to see her take initiative when it came to protecting someone.
+
+"Good job," Derek praised when Silvi reappeared on his shoulder.
+
+"Mhm..." Silvi hummed. "Those tails are going to make good steak with Cook What You Kill."
+
+"Uhem..." Derek cleared his throat and shook his head. "I'm sure they will make great steaks..."
+
+The next half-hour was interesting, to say the least. The sounds coming from Jace's fight were extra interesting. The dinosaur-like beast he was fighting was making all sorts of fun noises as it battled against the battle idiot. Derek could definitely hear the frustration growing in the growls and roars of the thing. It seemed that Jace's Battlelust had already picked up enough that his health regeneration and recovery were already enough to be an annoyance to the beast.
+
+Seeing... or hearing that Jace was doing well on his own, Derek turned his attention back to the covered teleporter. He was trying to be as vigilant as possible without taking his attention off the teleporter often, but Jace's words about the flying monster had him extra cautious—even though Amelia was doing everything she needed to in the sky.
+
+"You can relax a little," Marrick suddenly said from the side. "My sand isn't as fragile as it looks. It can survive plenty long enough against any attacks these monsters may throw at us. And at least long enough for you to get back here—especially with your teleport-like skill that you use."
+
+"I know," Derek replied. "I'm just worried... can't let anything happen to the kid. Especially not when we are this close."
+
+"This close... if she can actually get it fixed," Marrick corrected.
+
+"Well, yeah..." Derek replied, then sighed. "Then I will leave the protection to you and Silvi if it comes to it." He looked to his shoulder, and Silvi gave him a sleepy yawn, then a light nod. "I guess I'm not giving you enough credit."
+
+"I won't let anything happen to her," Marrick replied with a nod. "She is a good kid. Much better than those ungrateful children I left behind in Indria."
+
+"Yeah..." Derek nodded. "She is. They both are. Thomas is just a little harder-headed than she is."
+
+"That's just the difference between a fighter and a crafter," Marrick said with a shrug. "All proper adventurers are hard-headed—at least the ones who are going to make anything of themselves. You have to have a certain amount of hard-headedness to fight the same monsters over and over again or run the same dungeon... or just constantly put your life in danger. As for crafters, they have to be flexible and listen. They never know when something is going to be inspiration for their next great project."
+
+"I never really thought about it that way, but it definitely makes sense," Derek replied with a nod.
+
+"That's not to say that some fighters wouldn't benefit from being a little more flexible, too," Marrick said.
+
+"Yeah," Derek replied. "We already know for a fact that practicing without the system's help can bring a certain amount of benefits."
+
+"Exactly," Marrick replied.
+
+The two kept vigilant for a handful more minutes. The roars and cries from Jace's fight never let up. Derek couldn't tell who was winning, but the longer the fight drew out, the better the odds Jace would have. Since they were already like this, Derek had no doubt that Jace was winning and would come out ahead.
+
+A few minutes later, while Marrick and Silvi were talking about the steaks she was going to make from the sandray's tail, he heard a booming shriek coming from the direction Jace had mentioned. Sure enough, when he looked up, he saw a massive hawk-like creature flying high with both wings spread. It cast a huge shadow over the entire outpost as it glided above.
+
+Amelia finished off a couple of the lesser flying beasts, then looked down at Derek and Marrick. She nodded, and Derek did, too. The beast wasn't supposed to be too strong, according to Jace, so he turned to Marrick and said, "Look after everything here with Silvi. I'll be right back." Then he disappeared.

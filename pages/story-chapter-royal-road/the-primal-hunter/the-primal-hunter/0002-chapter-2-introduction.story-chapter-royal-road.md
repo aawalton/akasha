@@ -1,0 +1,203 @@
+---
+id: 5184337e-d5e1-5437-bfe2-497329056547
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 - Introduction"
+slug: 0002-chapter-2-introduction
+partOf: the-primal-hunter
+position: 2
+ownLength: 3303
+unit: words
+ownProgress: 3303
+publishedAt: 2020-09-19
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557071/chapter-2-introduction"
+royalRoadId: "557071"
+markedReadAt: "2026-06-29T19:29:18.643Z"
+---
+
+*Initiation of the 93rd Universe confirmed. Introduction sequence commencing*
+
+*Welcome to the introduction. Preparing…*
+
+As Jake opened his eyes, he was greeted by the voice once again welcoming him to an… introduction? And something was preparing? What the hell was going on?
+
+Several seconds passed, and despite his eyes being open, he saw only complete darkness. His body felt numb all over, and the only thing he could feel was a creeping headache. He tried opening his mouth to no avail, as he started panicking internally. Had he been kidnapped by aliens? As his thoughts started to spiral, the voice suddenly sounded out again.
+
+*Preparations complete. Starting introduction*
+
+Light filled his eyes as he was temporarily blinded by what seemed like a huge spotlight shining in his face. As his eyes slowly adjusted, so did the feeling to his limbs return. He found himself looking down at his legs, noticing himself sitting in a chair. As he slowly looked up, he found someone sitting across from him with a table placed in between.
+
+The room itself reminded Jake of an interrogation room with the two chairs, a table in a small closed-in space, bar the two-way window. The other difference was how perfectly clean everything was. The walls and floor were white, the table white, the chairs white, and despite there being no apparent light-source, the whole room was somehow still well lit.
+
+“Hello?” Jake cautiously asked at the… person across from him. He/she looked human at a glance but had no discernable features. A bald head, completely white eyes with no pupils, and a chest that looked far too flat and undetailed to be natural. Not a single spec of hair could be seen on the body, and despite him being unable to see due to the table, he had a creeping suspicion this… thing didn’t have anything down there either. As his internal assessment was finishing up, the “human” opened its mouth.
+
+“Greetings, human. I oversee your introduction. In this introduction, I shall explain to you the circumstances of your new reality,” the thing said with a voice that sounded synthesized by mashing a bunch of both male and female voices together. As he was about to open his mouth to respond, it started talking again.
+
+“First of all, allow me to welcome you to this new chapter of your life. Your universe has finally passed the minimum threshold required to enter the multiverse and has thus been initiated. Now, do you have any questions before we move on to the subjects pertaining to the tutorial?” the thing finally finished up.
+
+Jakes's mind was in turmoil. Multiverses? What threshold was passed? And what does it mean with a new chapter? But instead of any of these actual meaningful questions, he asked the most mundane possible:
+
+“Who, no, what are you?” he blurted out, stumbling over his words.
+
+“I am the entity in charge of greeting you and introduce you to the new world, and the circumstances of your new reality” It answered promptly, making no indications of elaborating further.
+
+“What new reality?” Jake asked.
+
+“The reality named by the first enlightened races as ‘The System’,” it explained.
+
+“How do I see this sys…” Before he managed to finish his words, a screen suddenly appeared before his eyes:
+
+Status
+
+Name: Jake Thayne
+
+Race: [Human (G) – lvl 0]
+
+Class: N/A
+
+Profession: N/A
+
+Health Points (HP): 90/90
+
+Mana Points (MP): 80/80
+
+Stamina: 70/70
+
+Stats
+
+Strength: 7
+
+Agility: 8
+
+Endurance: 7
+
+Vitality: 9
+
+Toughness: 7
+
+Wisdom: 8
+
+Intelligence: 8
+
+Perception: 10
+
+Willpower: 6
+
+Free points: 0
+
+Titles
+
+N/A
+
+Well, that answers that question, Jake thought. He was starting to form an idea in his mind of what was going on and decided to just roll with it. He was kind of under the impression that this was likely just a weird lucid dream, so he saw no reason not to entertain himself a bit. So first of all, he did what he thought was fun and started analyzing the stats.
+
+So, nine different stats, on a range from 6-10 points in each… His stats were very balanced, with only willpower and perception being stand-outs. Did willpower being only at 6 indicate that he had a weak will? Or is 6 even low for someone in his situation?
+
+His race says human, that part being quite self-explanatory, but what did the ‘G’ mean? And he was apparently a level 0 human. And he seemed to neither have a class nor a profession. Though he would argue himself to be upper-middle-class, with his profession being a financial consultant, he doubted that is what the system meant with those two.
+
+No titles either, and health and mana being at 90 and 80, led to his assumption that they were based on one of his stats, by a factor of 10. Vitality being the only stat at 9, led him to conclude that it was the stat determining health. Mana was a bit more difficult, being at 80, with both Wisdom and Intelligence at 8, one of those two likely determining factors. Stamina was at 70, which following his prior deduction, meant it being either linked to Strength or Endurance, Endurance being where he would put his money at.
+
+He tried to focus on the different elements on the screen, seemingly to no avail. It simply informed him that strength meant strength, and that class means class… As he tried to focus on his race, however, it did yield a result:
+
+Human (G) – The lowest level of humans in the system. This type is found only in newly initiated worlds. The human race is known as one of the most balanced and numerous amongst the myriad races of the multiverse, being able to walk many different roads on their path to power. Stat bonuses per level: +1 to all stats. +1 free point.
+
+Thanks for calling me the lowest level of human, I guess? Jake thought. The description does kind of confirm more races being out there, and also that more humans exist out there in what that thing called the multiverse.
+
+He fiddled a bit more with the menu, trying out pretty much everything he could before he looked up at the weird human-like thing again.
+
+“Hey, can I ask about the different stats on the status screen and their effect? Such as what different stats are linked to health points, or if there is a link at all?” he asked.
+
+“No. It tells you what you need to know for now,” It answered, still as monotone as ever.
+
+“May I ask how I am supposed to get a class and profession? It mentions a level here, how do I level up? What does the ‘G’ after my race mean? Also, why am I here to begin with? Where did the others go?” he asked, coming off a bit overbearing. Not that he blamed himself, this situation was without a doubt the most bizarre he had ever experienced.
+
+“Your class is chosen upon entering the tutorial. This class shall be the starting point of your journey and help guide your path. A profession becomes available through performing associated tasks with said profession, either for a long enough period of time or through competence in said tasks. Classes are focused on the pursuit of strength, while professions are the path of creativity, rarely offering direct increases in strength. You level up through a wide variety of actions. The ‘G’ after your race states the current rank of your race. You are here because you entered the introduction. By “others,” I shall deduce that you mean other earthlings and said other earthlings are now also in their own respective introductions,” It explained concisely, not giving much detail, but at least giving Jake a far better idea what was going on. It was especially good to know that his coworkers were relatively fine and likely in a similar situation as him.
+
+“Now on to classes,” The thing said unprompted.
+
+Before he could even open his mouth, he was interrupted by a screen appearing before him, showing quite a wall of text. He quickly collected himself and started going through the classes one by one:
+
+Warrior (Light) – Basic starting class. A light-class warrior focused on quick attacks, evasion, and finesse. While faster than both the medium and heavy variants, it comes with a decrease in attack power and survivability. Mainly uses weapons such as rapiers, daggers, small hatchets, and throwing weapons. Stat bonuses: +2 Agi, +1 End, +1 Str, +1 Vit, +1 Free point.
+
+The first class appeared to be a light-class warrior, perhaps something like a rogue? Did mention both daggers and throwing weapons. This appealed to him slightly, though he was quite reluctant to be the guy fighting up close and personal. He did choose archery and not fencing after all.
+
+Warrior (Medium) – Basic starting class. A medium-class warrior, focused on a balanced approach to combat, finding a compromise between speed and power. While faster than the heavy variant, it is slower than the light-class warriors. While survivability and power are higher than the light-class variant, it is lower than the heavy-class warriors. Able to use a vast array of weapons of both the heavy and light variants. Stat bonuses per level: +1 Agi, +1 End, +1 Vit, +1 Str +1 Tough, +1 Free Point
+
+The second one looked like the choice one would make if they wanted to be a warrior but was clueless in which direction to specialize themselves in. Though perhaps it did provide some versatility.
+
+Warrior (Heavy) – Basic starting class. A heavy-class warrior, focused on power and survivability while sacrificing speed and variance. The heavy-warrior is slower with a less varied approach than both the light and medium class, but in turn, gains great power and survivability. Mainly uses weapons such as a combo of one-handed and a shield or a two-handed weapon. Generally lacking solid ranged options. Stat bonuses per level: +2 Str, +1 Tough +1 Vit, +1 End, +1 Free Point.
+
+The beefy-boy option of the warrior-archetype. Big and heavy, in his mind wearing full plate armor and a huge tower-shield. Or maybe a super muscular bare-chested bearded Viking with a huge axe? Yeah, he couldn't see himself being either of those.
+
+Archer – A basic starting class. A class focused on ranged combat, mainly using bow and arrow, coupled with light options for melee such as short-swords and daggers. The class is fast and flexible, focusing on agility over strength. Stat bonuses per level: +2 Per, +1 Agi, +1 End, +1 Str, +1 Free Point
+
+Well, here we go. Without any surprises further down the list, this seemed like the most appealing choice by far. Disregarding the light options for melee, if he had to fight in any way, which he had a strong suspicion he would have to, he would, without a doubt, prefer to do so with a bow.
+
+Caster – A basic starting class. The caster is focused on the magical combat, favoring wisdom and knowledge over brawn and speed. The basic class is non-attuned, meaning not yet specialized in any element or type of magic, thus limited in power, but wide in scope. Casters wield powerful destructive abilities, though often lacking in defensive options. The class mainly uses catalysts such as staves, idols, relics, or wands in order to amplify the power of magic. Stat bonuses per level: +2 Int, +1 Wis, +1 Will, +1 Per, +1 Free Point.
+
+Well, this, if not everything before it, confirmed magic being a real thing. While the concept of being a fire-flinging, lightning-bending badass did sound appealing, he would honestly prefer to just have a bow.
+
+Healer – A basic starting class. The healer can mend injuries, remove afflictions, and amplify the power of themselves and/or their comrades. The basic class is non-attuned, meaning not yet specialized in any deific powers or types of magic, thus limited in power, but wide in scope. The class is weak in solo combat, lacking offensive options, but powerful when surrounded by allies. Stat bonuses per level: +2 Will, +2 Wis, +1 Int, +1 Free Point.
+
+And the last option seemed to be a healer. All classes were ‘basic starting classes’, meaning no special overpowered starting classes. At least not for him. He also noted that all classes provided a total stat boost of 5 per level and one free point. Compared to race, classes seemed to offer more specialized stats, but less overall, though that may just be due to him being human. The healer class did not appeal to him at all, though it did have quite an interesting line about deific powers. Does this imply the existence of gods? Could you become a priest of some kind down the line, perhaps?
+
+“Hey, can you tell me anything more about these classes? Any advice or tips?” Jake asked, hopefully.
+
+“Your path is for you to discover. Now choose a class before we proceed,” the thing responded, leaving little room for further discussion.
+
+Realizing he may as well pick the class he planned on all along, Jake chose the Archer class.
+
+You have chosen the Archer class. Confirm?
+
+Looks like even the mighty system is prone to security prompts like these, Jake thought as he affirmed the system of his decision.
+
+*You have obtained the Archer class*
+
+As soon as those words appeared before his eyes, he felt a weird tingling in his head, neither unpleasant nor comfortable. At the same time, some items appeared on the table in front of him. Before he had any chance to look at them further, he was once again greeted by several system messages:
+
+*Gained Skill*: [Basic Archery (Inferior)] – An Archer's best friend is the bow in his hand, and the arrow in his foe's heart. Unlocks basic proficiency with bows, crossbows, and adds a minuscule bonus to the effect of agility and strength when using a ranged weapon.
+
+*Gained Skill*: [Basic One-Handed Weapon (Inferior)] – The Archer may not be a master in the arts of close combat but is far from helpless. Unlocks basic proficiency with most one-handed weapons and adds a minuscule bonus to the effect of agility and strength when using a fitting melee weapon.
+
+*Gained Skill*: [Archers Eye (Common)] – The eyes of the Archer are trained to track down and spot the weakness of their foes. Allows the archer to more easily spot prey. Passively gives a minor increase to the effect of Perception on visual organs.
+
+As he read through the three messages, his suspicions of this new system being extremely similar to videogames or perhaps tabletop RPG’s was once again confirmed. All three seemed rather basic, especially the two skills that literally had ‘basic’ in their names. Both only being ‘inferior’ in what he assumed to be their rank. The last one seemed a bit more interesting being less basic and even considered a common-rarity skill.
+
+Furthermore, he instinctively knew how Archer's Eye worked. He tried to focus and suddenly felt his vision become far clearer than it was before. It was like he gradually switched from low quality to Full HD in around 5 seconds or so as he focused. He looked around, enamored with how distinct everything appeared. As he deactivated the ability, and his vision returned to normal, he looked at his resources and saw that stamina had dropped from 70 to 68, with mana and health both remaining maxed out.
+
+He closed the window and looked towards the items on the table. He looked at the thing sitting eerily still, and inquired: “I assume these things are for me?”
+
+“Yes,” it answered. “They are basic starting equipment based on your starting class. Now, on to the final step of the introduction. Some necessities are given to all new initiates of the system.”
+
+And as it finished those words, Jake was once again greeted by a screen appearing before him.
+
+*Gained skill*: [Identify (Inferior)] – Basic identification skill, known by all but the smallest of children of the myriad races. The skill allows you to attempt to identify any object or creature you are focusing on.
+
+A skill that would actually allow him to get some semblance of information, maybe? Something he felt like he severely needed. Only more and more questions kept appearing throughout this entire introduction ordeal, with little to no answers.
+
+“The time allotted for the introduction is coming to an end in 10 minutes, and you will be transported to the tutorial. It is recommended to acquire the equipment given before the end of the introduction, or the items will be lost,” It said, making Jake panic slightly as he went up to grab the stuff on the table.
+
+The items included a bow and quiver, a brown cloak, a knife, and a small satchel attached to a belt. They all looked rather medieval, the bow being wooden compared to the modern compound bows he was used to, normally made of aluminum and other modern composite materials. The string itself was made of what seemed like silk, perhaps. He was honestly unsure.
+
+The cloak was from a rather coarse material, reminding him of burlap, but it seemed quite durable. The quiver was made of wood with leather spun around it, and a leather harness to wear it on the back.
+
+The knife seemed to be as simple as they come and was just a steel blade attached to a wooden handle. The quality of all the items was rather good, in his opinion. Last but not least, he looked at the small satchel, and upon opening it, found a couple of small bottles.
+
+As he wondered what they were, he nearly slapped himself across the head, remembering his identification skill. He started focusing on one of the bottles containing red tinged liquid, and after 3-4 seconds, a new screen appeared:
+
+[Health Potion (Inferior)] – Restores health when consumed.
+
+What did he expect? As simple as they come. He used Identify on the other items in the satchel one by one, finding a total of 3 health potions, 3 stamina potions that did the exact same thing as the health potion, but for stamina. As he closed the satchel, he moved on to the other items. The bow, knife, and cloak yielded no result, simply informing him that the wooden bow was a wooden bow and that the brown cloak was a brown cloak. With little hope, he inspected the quiver, being positively surprised:
+
+[Enchanted Quiver (Common)] – A quiver enchanted with the ability to conjure common-rarity arrows when injected with mana.
+
+That sure as hell seems useful, Jake thought. As he was finishing up his inspection, he was once more kindly reminded that he did not have infinite time.
+
+“Two minutes till the start of the tutorial.”
+
+Jake, in a rush, got the cloak over his head and started attaching the belt with the satchel on it and threw the quiver over his shoulder. Luckily it already had dozens of arrows in it. The belt also came with a small sheath, which he promptly placed the knife in, and closed the small leather buckle meant to keep it in place. Finally, he took the bow in his hand, having no obvious place to attach it to his person. After a bit of thinking, he put it over his shoulder and stood ready for whatever was to come.
+
+“10 seconds to the start of the tutorial,” the humanoid thing reminded him.
+
+“It was nice to meet you, I guess, whatever you are,” he said as he waved it goodbye. A bit afraid, but more so than that, he felt a small sense of excitement build up in the pit of his stomach.
+
+*Introduction sequence completed. Transporting to tutorial…*

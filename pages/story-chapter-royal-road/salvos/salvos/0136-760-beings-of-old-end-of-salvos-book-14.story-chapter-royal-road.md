@@ -1,0 +1,101 @@
+---
+id: 78dfe929-f24f-5c8b-b115-92cfb45c0468
+page-type-slug: story-chapter-royal-road
+title: "760. Beings Of Old (End Of Salvos Book 14)"
+slug: 0136-760-beings-of-old-end-of-salvos-book-14
+partOf: salvos
+position: 136
+ownLength: 1154
+unit: words
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2693692/760-beings-of-old-end-of-salvos-book-14"
+royalRoadId: "2693692"
+---
+
+760. Beings Of Old
+
+“You’ve grown quite strong since we first met, huh? Honestly, I’m impressed.”
+
+Daniel Song raised his head when he heard the voice echoing down the darkness behind him. He was exhausted, injured— his body was drenched in blood, and he was still trying to catch his breath. But when he looked up to see the silhouette of the man standing there by the exit of the ancient tunnel.
+
+“Yves… you really…”
+
+The [Hero] trailed off, before shaking his head. He hefted his longsword up from the ground as he looked down the dark corridor ahead.
+
+“I don’t know how you discovered this place, but it’s going to be the death of me.”
+
+“Maybe if you’re an ordinary person— but you’re not. You’re a [Hero], and you’re wielding the Sword of Alexander. So stop complaining.”
+
+Yves Virgil— the Watcher, the Elfslayer, and the highest-leveled Human in the world at the moment— just chuckled as he chucked a healing potion to the young man from Earth. Daniel rolled his eyes as he accepted the red vial and chugged it down immediately.
+
+The wounds that bathed his body faded away as he let out a refreshed sigh.
+
+“Even I, despite myself, am only capable of surviving in this place for only a few hours at a time. But you? Despite being lower-leveled than me, you are able to survive here for days without even my help. Your tenacity is admirable.”
+
+Yves spoke as he strode down next to Daniel. The [Hero] pursed his lips as he thought of a silver-haired girl.
+
+“I mean, this place is dangerous, but I’ve met crazy people who thrived in places like these. And they’d drag me down here with them whether I liked it or not. So I guess I’m kind of used to it.”
+
+Daniel scratched his cheek, and the Watcher shrugged in response.
+
+“Well, that’s good for you. So stop slacking and get ready. More are coming.”
+
+And just as the words left Yves Virgil’s mouth, a harrowing cry came from the darkness. Daniel tensed and spun around, ready for what was to come. He waited with his swords raised as the wailing grew louder.
+
+The shadows crawling on the walls suddenly loomed over the [Hero], and the darkness that waited at the end of the tunnel seemed to creep closer. The screams of the damned came to a halt as Daniel tensed.
+
+The air grew still. Everything went silent, and the shadows stopped moving.
+
+The Watcher simply stood to the side, staying true to his namesake as he watched Daniel ready himself for what was to come. And that was when it appeared.
+
+It stood there. No— it hovered there. A twisted entity. A depraved being. Its body was shriveled up like a desiccated corpse. Its eyes were hollow, and its mouth hung open like an empty husk. But even though it vaguely resembled the shape of a person, it had no legs, instead floating on the air as darkness wisped off where its lower body should.
+
+[Fallen Worshiper Of Hark-Oth The Old God Of Undeath - Lvl. 187]
+
+“Another wraith, huh?”
+
+Daniel tightly gripped onto the hilt his sword as the entity screeched. It charged straight at him, and he stepped forward as the Sword of Alexander flashed with a golden light.
+
+“[Hero’s Slash]!”
+
+And the wraith was sliced in half before it could reach him with its clawing grasps. Daniel stumbled back as it faded away into motes of shadows, before he turned back to Yves.
+
+“These things just won’t stop coming. Seriously, I’m already Level 180— can’t I leave this place yet?”
+
+Daniel shook his head, but the Watcher just grinned.
+
+“Until you reach the bottom of the labyrinth to meet Hark-Oth himself, our job here won’t be finished. Now focus up, more are coming.”
+
+And just as Yves spoke, more wailings echoed down the corridor. Drawing his lips into a thin line, Daniel looked forward to face the approaching shadows— to face the dead worshipers of one of the last Old Gods of the Nexeus.
+
+There was a lot I needed to do— a lot that still had to be done.
+
+While I pondered over my new Status, wondering what my new Skills did, and deliberating over what to spend my new Grand Skill Points on, Manos managed to convince most of the remaining Primeval Demons to surrender. The few who still remained loyal to the Demon King were quickly culled by the Executioner, before he finally turned to address the army that was still distracted by my clones.
+
+I knew we would have a hard time convincing them that we stood a chance of winning this rebellion— I’d probably have to drag Hartia over here to remove their collars from their necks before they even thought that we were actually being serious. I assumed many of them would even think it was a trick by Manos to kill any potential traitors before they were led to their so-called salvation.
+
+So it was a lot to do— there were still a lot of uncertainties. And yet, I knew one thing.
+
+My eyes darted over the horizon, in the direction of the Demon King’s Domain in the distance. I saw the black clouds eddying overhead, and I gritted my teeth. Despite the boost in strength I got here from this battle, I still wasn’t strong enough to defeat Regnorex.
+
+He was a Primordial Demon. And he wasn’t just any ordinary Primordial Demon. He was one of the strongest Primordial Demons around.
+
+My battle against Chordus proved that I was still not ready to defeat a Primordial Demon in battle. Not alone, at least. And certainly not against one that had access to its full power.
+
+I struggled to win against the [Queen Of Diamonds] and the [King Of The Wild] even though barely any Skills were involved and no Grand Skills were used on her end. So I knew I didn’t stand a chance of winning this rebellion as of right now.
+
+And yet, we were running out of time.
+
+The ritual was going to be complete soon, and we had to stop it before then. Otherwise—
+
+My thoughts came to a halt as an almost intrusive voice resounded in my head. But it was a voice that belonged to myself. That belonged to a clone. One of the clones that I had sent out the scour the wild of the Netherworld for my plan.
+
+A grin spread across my face as I thought, I’ve finally found you, huh?
+
+And through the eyes of my clone, I saw it.
+
+What I had been looking for this entire time. The only possible hope of turning the tides of this rebellion and bringing us our victory. The only Primordial Demon that was powerful enough to stand a chance against the Demon King.
+
+The most powerful being in all of the Nexeus.
+
+The Beast.

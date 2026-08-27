@@ -1,0 +1,127 @@
+---
+id: a7daea64-0e7f-5ed8-a3e6-9aed5bacc66d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 112: The Boar Stalks The Cicada, Unaware of Phoenix Behind it."
+slug: 0112-chapter-112-the-boar-stalks-the-cicada-unaware-of
+partOf: phoenix-ascension-cultivation-litrpg
+position: 112
+ownLength: 1595
+unit: words
+publishedAt: 2026-04-11
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3261732/chapter-112-the-boar-stalks-the-cicada-unaware"
+royalRoadId: "3261732"
+---
+
+I snuck through the forest after hours of finding worthy prey. I’d killed many random boars, bears and even some snakes, but nothing was truly a challenge. Their cores were also lack luster, and didn’t give any energy toward my Dormant Core.
+
+They were all also of a much lower level than me, so that could have been why. And I hadn’t gained any experience either, so my levels stagnated. I wasn’t sure if I was doing anything wrong when hunting of if the area was bad, but once I moved past my side of the mountain, I began seeing true challenges.
+
+There were many beasts at level thirty, and some at thirty five, but none reached forty. I snuck around and watched, searching for some decent prey. I began learning that quality was far, far better than quantity in more ways than one.
+
+Just like back then when I massacred those snakes, and only gaining a few levels in return. The higher the level disparity between me and my target, the less XP they would give.
+
+Similarly, if I were to kill beasts, or even humans, that were of higher level than me, then I would get more experience, and thus more levels. Humans also gave way more experience than beasts did for some reason.
+
+Either way, it had become obvious that I’d outgrown the area around the village.
+
+That was the reason I went out to the other side, and was delighted to see beasts five and even ten levels above me.
+
+Well, that also meant they were strong, so I had to be careful about who and where to fight. For now I decided to avoid any body of water altogether, since I didn’t like getting wet and my fire might not be as useful against them.
+
+Then again, I had so many skills that could dry them up, like I did to that Water Serpent. If push came to shove then I was sure I could handle them, but if I didn’t have to, why should I?
+
+I flew on top of a tree an dused my Divine Sense to search for a Spirit Beast at around level thirty. Thanks to the ever useful Identify, it was easy to spot them. I detected around a dozen in my immediate area, half of which didn’t look like something I could take on.
+
+A giant snake with way too many scales slithered through the forest not that far away from me, but it wasn’t something I really wanted to fight. Not only because it may have poison but also because I was sick and tired of snakes.
+
+There was also a deer creature like the one that bothered me all the way back then, except larger, and with sharper antlers. It didn’t have any bird on its back, which was a relief.
+
+Aside from those two, there was also a really big creature shaped like some sort of large dog, except its entire body was covered in scales. That also wasn’t something I wanted to take on. Not to mention it was level thirty four.
+
+However, what caught my attention the most was one level thirty one beast that was coincidentally hunting another level thirty three beast.
+
+[Heaven-Striped Night-Tusker, Lvl 31]
+
+It looked like a combination of a wild boar with an owl or some large feathered bird. It had a flat face with a short snout, two ebony black tusks sprouting out of it. Its entire body was covered in brown feathers, and the wing feathers— Because yes, it had wings— were black and white.
+
+Despite the strange combination, it blended perfectly into the shadows of the trees, perhaps using a skill of sorts. It was crouching low, stalking a rather… interesting beast.
+
+[Hairy Cicada, Lvl 33]
+
+Well… I’m not going to think about it.
+
+As the name implied it was a giant Cicada covered in a brown, reddish fur. It looked about as creepily as it sounded, and I didn’t want to go into details. It looked horrifying and a creating that even the Heavens would be afraid of.
+
+I understood why the boar was hunting it, and I was in full support of it. Marking them both as my target, I activated Stealth and Shadow Cloak, becoming one with the darkness.
+
+After gliding down above the Night-Tusker, I stood and waited, just as it did. I was waiting for it to get into a fight with the Cicada, I was not sure what it was waiting for.
+
+Based on my personal experience, the moment the Cicada would bend down to eat, if it was an herbivore, or went searching for food, was the perfect moment to strike.
+
+I wasn't sure how long that was going to take, and I didn't have that much time.
+
+After acquiring all that I needed for the siblings and seeing that there wasn't anything interesting for myself, I wasn't going to participate at the auction anymore.
+
+Even though I would have loved to sit and watch my pills get fought over. I had to get ready for the more dangerous than necessary mission to steal a Moon Bloom, then be on my way.
+
+Meng Mao must have figured out just how strong I really was by now, but sadly he could not just simply refuse to pay out the bouinty or take it down. Saving face and all that.
+
+Sadly for me, that meant that I would have to fight who knew how many other people who didn't even want the damned flower.
+
+Quite frankly, I would much rather have bought it off someone or returned at another date, but I had no plans on actually returning. After fulfilling Meng Mao's request and also getting what I want from Golden Arch City, I was going to keep going heading toward where Mother said Father was.
+
+Surely he knew what happened to Mother and could help her better than I could. I didn't know what forcefully undergoing rebirth meant for a Phoenix, but it was also obvious she burned a lot of potential when she saved me.
+
+It was doubtful that a mere rebirth could give her enough power to escape the clutches of that Nascent Soul Bastard.
+
+I still didn't even know his name, but only his affiliation and face. It was obvious that he was some big elder, and he would pay for what he did to us that day.
+
+By the time I would reach his level of power, I would be able to refine souls into pills, or torment them before turning them into a Soul Flag. Either way, no matter what, I would get my fucking revenge.
+
+Squeee
+
+The Night-Tusker screeched as the Cicada tried to fly away. I wasn't sure why at first, but it was obvious that some of my killing intent seeped away from my shroud, scaring the thing.
+
+I wasn't sure what the boar thought of it, but it wasn't going to let such a good opportunity get away, that much was obvious.
+
+Preparing myself for a fight,  I observed, wanting to learn as much about my oponent as possible. Thanfkully my killing intent wasn't directed at them, or they would have both run away.
+
+As it was, the Cicada looked to be a little more sensitive to such things than the boar. That was fine, both of them were my targets.
+
+Priming a few Myriad Qi Needles, I waited for the perfect moment to strike.
+
+The Cicada, after noticing the danger that the Night-Tusker posed, tried to fly away. Its wings opened creepily, as the hair separated from the main body, hanging off like loose vines.
+
+To its credit, it formed a pattern that was hard to see under normal circumstances, but it was still creepy.
+
+The Night-Tusker had no intention of letting it get away, as its feathery wings opened, increasing its speed.
+
+Caught off-guard, the Cicada flapped its elytras as fast as it could, but the boar was already upon it.
+
+The Night-Tusker's large tusks perforated the Cicada's abdoment, making it lose large amounts of bug blood.
+
+However, as it shot toward the ground, its wounds healed. Sadly, it wasn't enough, as the forced healing weakened it.
+
+The Night-Tusker let out an angry screech and unflured its wings even wider. Much to my surprise, a pair of creepy dark tentacles slithered out of its back, flying toward the Cicada at insane speeds.
+
+The Cicada let out a sharp yell that resonated through the forest, and the bear remained frozen for a solid second. Perhaps it was a skill similar to my Paralyizing Screech.
+
+However, moments later, it became obvious that the two skills were a little different.
+
+The air shook as a sudden, rythmic sound rang out through the leaves. I wasn't sure what it was at first, but as the sound grew louder and more pronounced... A shiver ran down my spine.
+
+Its source became obvious as the first of the specimes flew toward the boar.
+
+[Hairy Cicada Soldier, Lvl 25]
+
+[Hairy Cicada Soldier, Lvl 21]
+
+[Hairy Cicada Guard, Lvl 26]
+
+[Hairy Cicada Guard Captain, Lvl 30]
+
+There were so many of them that, even with my high stats, the amount of name tags in my vision began making me dizzy. It was hard to believe that such a small, ugly insect had such an army protecting it.
+
+There were dozens upon dozens, maybe even hundreds of such Cicadas, all arriving with one single purpose--- To eliminate the threat known as the Night-Tusker.
+
+And I... Well I was going to profit from it.

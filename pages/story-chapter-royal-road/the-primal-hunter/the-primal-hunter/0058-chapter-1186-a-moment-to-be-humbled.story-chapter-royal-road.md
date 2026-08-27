@@ -1,0 +1,153 @@
+---
+id: 83af0501-85e0-5957-bc9f-77a71a7f65e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1186 - A Moment To Be Humbled"
+slug: 0058-chapter-1186-a-moment-to-be-humbled
+partOf: the-primal-hunter
+position: 58
+ownLength: 2879
+unit: words
+ownProgress: 2879
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2698991/chapter-1186-a-moment-to-be-humbled"
+royalRoadId: "2698991"
+markedReadAt: "2026-06-29T19:31:06.207Z"
+---
+
+Jake really hadn’t met a lot of archers during his Path so far. Sure, there had been one here and there, but none of the so-called “geniuses” he usually surrounded himself with were archers.
+
+Sure, there was Maria, but Jake had never sparred with her and wouldn’t call them super close. She wasn’t even part of Jake’s “faction” but a mercenary serving under Gwyndyr, who was likely the top archer of the multiverse based on what Jake had heard.
+
+Considering that, her archery skill was likely better than Jake’s. In fact, Jake was fairly confident that most archers considered talented had better than an epic rarity skill when closing in on B-grade.
+
+The archery skill was one Jake used every day, and based on his conversations with Artemis, the majority of hunters dedicated a lot of time to practicing and improving their skills. It was, in most instances, the most effective skill to upgrade if one wanted to get stronger, as it affected pretty much everything one did while wielding a bow.
+
+Just the stat effectiveness alone from a high-level archery skill made it damn valuable. However, knowing all this hadn’t done Jake much good. No amount of studying he had done had helped him improve his prowess with a bow, and even when he had tried to merge other concepts into it, nothing had worked... well, not besides getting his Unblemished Arrows upgraded, anyway.
+
+Seeing someone like the wood elf currently bombarding Jake with a ceaseless storm of arrows really made Jake realize how far behind he truly was. Sure, when it came to overall power, he was far superior, and if he used all his other skills, winning wouldn’t be difficult.
+
+But that wasn’t the point of this. Instead, it was a moment for Jake to be humbled for the first time in a long time.
+
+The wood elf chased Jake all over the moon as Jake slowly learned more and more about her archery skill, and he identified four effects. Sure, it was possible some of these came from other passive skills, but he was fairly confident most were related to her archery skill, and he was damn near sure the last one was. The first one was the passive wind that carried each arrow forward, granting it extra speed and striking power while also granting her slight control over its flight path.
+
+Second was the bow’s ability to “echo” her shots. It seemingly remembered her movements and stored energy to shoot automatic follow-ups in between her regular draws, increasing her firing speed by a quite frankly silly amount.
+
+Third was the momentum she was building with every arrow. The wind surrounding her increased in intensity as she continued to attack, and the bow seemed to only grow stronger with every echoed arrow.
+
+Fourth and finally was the hardest aspect of the skill to identify, and one he only noticed after having more than a dozen arrows sticking out of his body. The elf’s damage output was incredibly low, courtesy of her insane focus on speed, but this last effect made up for it.
+
+Because he realized that the echoed shots didn’t grow stronger. Just faster. In fact, when Jake managed to shoot down some of his opponent’s attacks, he noticed it didn’t consume more energy even as the wood elf’s power seemed to improve. The same was true when he blocked with arcane barriers.
+
+Yet the damage he took from every arrow increased, making Jake conclude that the final effect was a stacking damage buff based on how many arrows she had hit on a target thus far. That explained why her first arrows had been so weak, barely penetrating Jake’s flesh and armor, and why the latter ones were so much stronger.
+
+Making matters worse, Jake learned that even if he blocked an arrow using his bow’s body, it still counted as him getting hit, likely simply due to the arrow making contact with his Soulshape.
+
+In summary, his opponent was an archer who could shoot insanely fast, with her speed increasing even more as the fight continued. Meanwhile, each arrow would deal more damage than the last, up to some limit Jake was confident he didn’t want to experience.
+
+Usually, an archer like the wood elf, who was too focused on speed over power, would find themselves struggling against foes with powerful defenses. Based on her first arrows that hit him, she wouldn’t even have been able to injure most of the C-grades Jake had killed so far. Not with the first shot, anyway.
+
+However, what about arrow number ten? Fifty? The one-hundredth? Dependent on how high the damage could scale, her damage would eventually become insane, and she had effectively turned the matchup on its head, making her an incredible fighter against durable but slower foes.
+
+Of course, her Path did also have some drawbacks. The fact that her first arrows were so weak meant she had to drag out battles to get the upper hand, and stealth was also out of the question. At least she couldn’t ever approach someone like Jake’s ability to shoot stupidly powerful arrows capable of killing a monster a grade above himself in a single shot... though to be fair, few archers would ever even get close to that level.
+
+In a battle like this, where stealth wasn’t a factor and it was just a pure archery duel, she was in a dream scenario. Even though Jake was a tough opponent for her due to his high mobility and uncanny ability to dodge almost everything, she still had a massive advantage.
+
+With all that in mind, the outcome of their duel shouldn’t come as a surprise to anyone.
+
+“Let’s stop here,” Artemis’ voice in the sky echoed after the fight had lasted in excess of two hours. “Before it gets too dangerous for one of you.”
+
+Jake, who had prepared to shoot another arrow, lowered his bow as pain wracked his entire body. A few kilometers away – the distance created by Jake to try to avoid getting hit too much – the wood elf did the same as she willed her arrows already in flight to disperse and wither away.
+
+She also had a few wounds here and there, with several burns on her left side from exploded arcane arrows. There were five arrow-holes from when Jake struck her with stable arrows, a feat he was quite proud of.
+
+Though he probably shouldn’t be, taking his own state into account.
+
+“The Chosen of the Malefic Viper managed to land five direct hits as well as twenty-eight indirect ones,” Artemis nicely summarized their encounter. “Gladiel, on the other hand, with... two hundred and nine direct hits, seventy indirect ones.”
+
+... Jake hadn’t exactly kept count, but going by his body being entirely red from being covered in his own blood and the fact he’d already consumed two healing potions during the fight – something that was allowed – it wasn’t that surprising.
+
+Even now, twenty-one arrows still stuck out of him that he hadn’t had the time to pluck out. He had been hit so many times that there were places he had been hit five times after healing the wound in between every arrow.
+
+As for whether Jake had discovered the upper limit of the wood elf named Gladiel’s damage output, the answer remained no.
+
+“I need to ask,” Jake said shortly after Artemis made her announcement as he teleported closer despite his multitude of wounds. “That increasing damage effect with every arrow hit... does it scale with Perception?”
+
+Gladiel, who had been kneeling while in the presence of Artemis’ aura, looked up and nodded. “The damage increases and the upper cap both scale with Perception, while my Agility determines the speed at which it stacks up.”
+
+“I see,” Jake nodded. “That makes a lot of sense. How about the effect that made you faster the longer the battle dragged on? Was that related to your archery skill?”
+
+To clarify, Jake had found the upper cap of that skill after the fight went on for around half an hour.
+
+“No, that’s another passive skill of mine,” Gladiel answered respectfully. “The Wind’s Blessing, Nature’s Echo, and Hunter’s Fury effects are all from my archery skill. Those are the winds enveloping my arrows, my bow repeating attacks, and the stacking damage, respectively. There are also some other minor aspects to the skill that aren’t visible or overly impactful.”
+
+“Thanks for the clarification,” Jake said, genuinely grateful that she offered up knowledge like this when she truthfully didn’t have to.
+
+“It’s an honor to be of assistance to the Chosen,” Gladiel bowed deeply. “I hope my efforts can prove useful.”
+
+“Definitely food for thought,” Jake smiled.
+
+“Indeed, let us hope the Chosen benefits. As for you, Gladiel, I’m pleased to see that you have adapted your strategy to better suit your new archery skill, but do not let it become a limitation. If one aspect of your Path becomes too powerful compared to the rest, it can hamper all progress in other areas. A current weakness of your archery skill is facing mages capable of blocking your arrows, never allowing them to make contact, so I task you with seeking out the Druidic Order and...”
+
+As with the last duelist Jake had faced, Artemis finished the encounter by giving them some advice on how they could improve. For Gladiel, her task was to fight a group of casters to develop strategies for dealing with them.
+
+When it came to Jake, he did feel somewhat inspired. In some ways, the archery skill of Gladiel reminded Jake of his own Relentless Hunt in that he could build up Hunting Momentum as the fight went on and unleash it in one mighty blow. Of course, what the wood elf had was far superior to Jake’s skill, but there were also some crucial differences.
+
+Hunting Momentum didn’t have to be built up during combat. It could also come to be simply from stalking his opponent for long enough. Moreover, it was best used for a single, powerful blow rather than many smaller ones.
+
+Having something like that, stacking damage with every subsequent arrow landed, would no doubt be a massive benefit to Jake and would increase his damage output significantly... but Jake knew he couldn’t get it.
+
+Such a concept simply didn’t fit his Path. He could try to adapt his Path to make room for such a concept, but he didn’t want to.
+
+Gladiel walked a Path of gradually growing in power throughout the battle while starting out weak. Jake’s Path was all about starting the fight out with a bang, unleashing an opening attack sometimes powerful enough to outright slay or cripple his foe.
+
+If they did survive, it wasn’t as if Jake didn’t also have accumulating damage. He just didn’t get it from his archery skill, but from the poison on his arrows. Of course, currently, his archery skill had nothing to do with his poisons or interacted with them at all... which was something to consider.
+
+In fact, it was a little odd that Jake hadn’t thought about it before. Maybe because other skills like Malefic Viper’s Poison already made the poisons he inflicted stronger, sure, but nothing said he couldn’t double-dip a little. Fangs of the Malefic Viper already did. It passively empowered any toxins on his “fangs,” which his arrows weren’t considered part of.
+
+He also realized that his archery skill had fuck-all to do with his arcane energy, despite nearly every other archery-related skill he had using his own affinity. Sure, his archery skill did talk about mixing archery with magic, but only to the extent of infusing them with Willpower for him to control their flight path.
+
+The more he looked at his archery skill, the more he saw how much it was missing, especially when compared to his melee skill, Fangs of Man.
+
+[Archery of Expanding Horizons (Epic)] - An Archer’s best friend is the bow in his hand and the arrow in his foe’s heart. As your horizons expand, you realize flaws and build upon a foundation to make that expansion ever-present. You do not shy away from mixing archery with magic and making your arrows arbiters of your will. Your arrows will cross all horizons and bend over any obstacle to pierce your target, with only your own will limiting the possibilities. Allows you to apply your will to control the trajectory of arrows before releasing them. Adds a small bonus to the effect of Agility and Strength when using a ranged weapon. Adds a small damage bonus to all arrows based on distance traveled and Perception. Arrow trajectory control based on Willpower.
+
+It effectively did three things as it was. It allowed him to control the flight of his arrows, add damage based on Agility and Strength when wielding a ranged weapon, and add extra damage to his arrows based on distance and Perception. The second one was something all archery skills did, so it barely counted, which meant all Jake’s could do was make him bend his arrows a little and do a bit more damage.
+
+Quite frankly pathetic when he compared it to Gladiel, whom he had just faced. It only got worse when he compared it to his own legendary rarity Fangs of Man, which did so much more.
+
+It allowed him to turn anything he wielded into a weapon, merge melee weapons into his Soulshape, increased durability of any melee weapon, made him better at using anything considered a melee weapon, provided passive stat effectiveness, made his hands and some of his forearms more durable when wielding melee weapons, with this effect being better when used on a Soulbound item. Conservatively, it did at least six or seven things, and it did all of them pretty damn well.
+
+Jake was deep in thought as Artemis got done speaking with Gladiel.
+
+“Return for now. I may call upon you again if I deem it relevant,” she said to the wood elf, who bowed with reverence.
+
+“If that’s what the Mistress of the Hunt desires, then I shall stand ready,” Gladiel said, turning to Jake. “And thank you once more for this opportunity.”
+
+Jake just gave her a nod of acknowledgment, and a second later, she was done. A second later, Artemis teleported onto the moon and looked Jake up and down.
+
+“Did you have an accident or something?” she asked in a joking tone.
+
+“Oh, yeah, clumsy me stumbled into a couple of hundred arrows, you know how I am,” Jake joked back as he sat down, still very much in pain.
+
+“You got quite a beating, eh?” Artemis asked rhetorically, shaking her head.
+
+“Sure did,” Jake chuckled.
+
+Artemis smiled as she looked at him. “Seeing you so elegantly accept the loss was a relief. I’m not gonna lie, I feared you would decide to use other skills than what we agreed upon once it was clear you would lose. That your Bloodline wouldn’t allow your ego to suffer the damage incurred by losing to someone else whom you should rightfully be able to beat.”
+
+“I’m a bit offended by that,” Jake scoffed. “This is just sparring, not a fight to the death. If failure doesn’t mean death, it’s not real failure; it’s just practice. Admittedly, there was probably a time right after I awakened my Bloodline when I wouldn’t have accepted the possibility of ever losing, and my parents did mention that I was overly competitive when I was really young, but now I really don’t care. I guess alchemy really desensitized me to the concept of failure, as hot damn do I fail a lot when doing alchemy.”
+
+“That makes sense,” Artemis smiled. “I guess that means you’re not going to be angry even if your next few opponents beat you as handily as Gladiel did?”
+
+“I would prefer to at least feel like I have a fighting chance,” Jake chuckled, shaking his head. “But I can’t deny it was a good experience. Even if I can’t directly adopt anything my opponent does, just seeing them and their Path makes me think.”
+
+“And we both know how hard it is to make you do that,” Artemis teased him. “And luckily for you, there are plenty more archers who were more than willing to get a chance to spar with the Chosen of the Malefic Viper.”
+
+“Let’s just hope this doesn’t end up with my reputation being ruined,” Jake sighed.
+
+“Bold of you to assume anyone cares how good you are at archery,” Artemis shook her head. “All that matters is your overall power. This kind of practice isn’t all that rare either. Several extremely skilled archers suck if forced into melee combat, so they purposefully spar with people that can force them into such a situation to improve, even if it inevitably ends with them getting their ass kicked.”
+
+“That makes me feel a bit better,” Jake said with relief.
+
+“Though it would be super embarrassing if you lost to all of them...”
+
+Jake glared at the god as she smiled. “Pleasant recovery, and good luck with your next opponent. Don’t worry, he’s not as strong as Gladiel, but, well, your prospects still aren’t good.”

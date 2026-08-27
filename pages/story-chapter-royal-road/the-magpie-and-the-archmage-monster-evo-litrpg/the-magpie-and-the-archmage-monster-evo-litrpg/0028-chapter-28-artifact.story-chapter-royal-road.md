@@ -1,0 +1,189 @@
+---
+id: b755d38f-4d33-53c5-8103-b1e959d9e546
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28 – Artifact"
+slug: 0028-chapter-28-artifact
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 28
+ownLength: 2087
+unit: words
+publishedAt: 2025-09-29
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2637022/chapter-28-artifact"
+royalRoadId: "2637022"
+---
+
+"You want my help?" Liora asked in disbelief looking at the astounding beast in front of her. It was standing in the toxic miasma without so much as flinching. It was huge, muscles bulging underneath the fur while the snake tail flicked in and out sight. Surely, this creature didn't need Liora's help.
+
+"Yes. You can use holy magic can't you?" The chimera questioned in its deep, rumbling voice. "You purified this blight, didn't you?"
+
+"In a way…" she replied cautiously as she looked at the chimera's fangs. Where are they as big as Liora herself? Would it even feel her if it swallowed her?
+
+"Can you or can you not?" The chimera rumbled impatiently.
+
+"I CAN!" She fluttered nervously.
+
+"Good, then you must cleanse the artifact at the peak of this mountain."
+
+"Artifact?" Liora questioned.
+
+"Yes. The artifact was deposited here long ago by one of the Divines as a gift to this world. It served a shrine for the longest time, a place where people could honor the Divine," the chimera said solemnly.
+
+Divine? Are they like gods?
+
+Kind of but at the same time, not really. It's a long story. I'll explain some other time.
+
+"This mountain prospered as the Divine granted blessing to the people who honored its gift. But approximately forty years ago, mages came to this mountain and tainted the artifact. Initially, I didn't even notice they had done anything. Just like any human they came to the mountain, fought the monsters and then prayed to the Divine. As the guardian of this mountain, I should have sensed that something wasn't right the moment they came," the chimera looked mournful as it retold the tale.
+
+"You didn't mind humans coming here and seeing the artifact?"
+
+"No. With humans defeating the monsters here, the essence flow remained stable. I didn't have to worry about monsters evolving too far and endangering the natural order," the chimera explained.
+
+Liora wondered what exactly qualified as natural order, but didn't quite dare to ask. But she understood that this chimera was likely the same kind of entity as the treant in her forest. Not a mindless monster, but rather a protector of order.
+
+"In either case, once the mages tainted the artifact, things slowly began to change. Trees withered, poison spread until monsters began turning corrupted one after another. Before long, the Divine also abandoned this land, angered that its gift was corrupted."
+
+So it is this artifact that's turning the monsters corrupted. What did those mages even do to it?
+
+We need to see this artifact! No matter what.
+
+"Can't you destroy it?" Liora asked.
+
+"Oh, I've tried multiple times, but as I said, it was a gift from a Divine. Even I don't have the power to destroy it," the chimera said. "But you. You're cleared the miasma that's been building up here for decades. I plead that you attempt to purify the artifact."
+
+The chimera bowed its lion head, and judging by the singular horns sticking upwards through miasma, the goat head was bowing too. The snake seemed more unruly and inclined itself only after a bit of dissatisfied hissing.
+
+"I… I can try. But I don't know if I can purify it," Liora said.
+
+"All I ask is that you try."
+
+"I will try. Where is the artifact?" She asked.
+
+"Further in there," the chimera said and with its snaky head pointed in the direction where Liora's Treasure Sense was tingling.
+
+It appears that the artifact is in fact the treasure that I've been picking up.
+
+"There is one problem… I can't fly through this miasma and I'm out of mana," she said sheepishly, hoping that the chimera wouldn't grow enraged.
+
+"Not an issue. Do you have a skill like Mana Absorption or Mana Conversion?"
+
+"I do have Mana Conversion," Liora said.
+
+The chimera let out a huff of air that settled around her like a heavy, stinky blanket. She just barely restrained a complaint.
+
+That stinks!
+
+That's mana! Use Mana Conversion before it dissipates.
+
+Liora imagined converting the mana into usable energy, doing her best to ignore the stink. The potency of it was so high that her mana was fully recovered in a matter of seconds with still plenty of mana floating around. If only the chimera's breath wasn't so stinky. Maybe she could ask that goat head breathe the mana on her in case she needed a refill again. The goat didn't eat meat. Right?
+
+"Is that enough?" Chimera asked.
+
+"Yes! Thank you. I shall try to clear my way to the artifact now," Liora said, and chanted the incantation for Holy Light.
+
+[You've failed to mimic the skill <Holy Light>.]
+
+Well, that's embarrassing.
+
+"Why didn't it work?" The chimera growled somewhat angrily, making Liora flinch.
+
+"It's just a bit hard to mimic a human incantation. Please give me a few more tries," Liora said, repeating the incantation again.
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+Chimera hummed in approval as more of the miasma got cleared away. Unfortunately, Liora had to repeat this process of failing and succeeding a few times. Each time her Mimicry failed, the chimera would growl, making Liora wonder whether it'd turn her into a feathery snack after all.
+
+But thankfully after four successful tries, Liora managed to clear her way to the artifact.
+
+This is it? That's rather underwhelming.
+
+The artifact turned out to be a necklace with a silver chain and a black gemstone. It was sitting snugly in an altar made out of rock in an indentation carved specifically to fit in. Around it was a wooden structure of sorts. At some point it must have been the shrine that the chimera mentioned, but at this point it was nothing more than rotten wood.
+
+As she gazed at the artifact, Liora got conflicting feelings. It was a treasure, her Treasure Sense told her so very clearly. But at the same time, it was… wrong. It felt similar to blightstones, except this artifact wasn't as bad. There was something good somewhere deep beneath the wrongness.
+
+Don't let its appearance fool you. This thing is exuding mana at an astounding rate. Although… The mana is all wrong. I wouldn't want to use it or absorb it for spells. How could someone even make something like this?
+
+Renir then went into deep magical contemplation, coming up with bazillion theories as to how it could have been made and consequently corrupted. Liora didn't understand any of it, so she ignored him and turned her attention to the artifact.
+
+"Is this it?" Liora asked the chimera.
+
+"That's right. Try to purify it with your holy magic," it rumbled in response.
+
+"Could I get another refill on mana… My mana pool isn't very big," Liora admitted sheepishly. She was about to add whether the goat head could breathe the mana, but the lion head breathed its putrid breath on her before she could even say anything.
+
+Withholding the wish to gag, she used Mana Conversion to fill her mana pool again. "Thank you…"
+
+Liora perched on the altar and observed the necklace from all sides. For her it felt like the unpleasantness was coming from the gem. She'd ask Renir to confirm her suspicions but he was still muttering his theories in the back of her mind. So with an internal sigh, she began to chant.
+
+"Cleansing light, obey my will. Purge this blight and make it still," she said and pointed the wand at the gem to the best of her ability.
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+The moment light collided with the gem, there was a magical explosion which threw Liora backwards. She managed to stabilize herself with her wings before colliding with the miasma but it was a close call. The feathers on her chest and face felt a little singed.
+
+"Are you alright, little bird?" The chimera asked.
+
+"I'm alright," she confirmed. It wasn't worse than the magical backlash she received before. Liora flew up to the altar and observed the artifact. There were odd sparks coming from the gem, zapping out in a random direction.
+
+It appears you broke the magical protection around the gem. The energy within is going to go rogue soon. You have to act fast.
+
+What?! Rogue.
+
+Liora tried to mimic the Holy Light again, but in her haste misspoke a word and failed two times. The magical sparks were getting larger and more intense, forcing her and the chimera to back away from the altar.
+
+Dammit! Work with me here, Mimicry!
+
+"Cleansing light, obey my will. Purge this blight and make it still!"
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+When the light collided with the gem this time, there was a notable wave of magic which pushed Liora even further back. The chimera extended its large paw and caught her, before she got flung into miasma. Then came another magical wave, albeit smaller, then another, even smaller one until finally it felt like gentle ripples of magic.
+
+When Liora looked at the altar again, the gem was changed. Instead of black it was a gentle yellow color. It reminded her of the first morning sunlight. The feeling from it had completely changed too. Instead of feeling like a blightstone, it felt like a proper treasure.
+
+You did it! You purified it!
+
+I did?
+
+"You did it, little bird!" Chimera said and then let out a loud, victorious roar. It was so loud that Liora was sure that even the people in the town would have heard it. Hopefully, it won't scare Christie and the children too badly.
+
+Liora looked around dumbfoundedly. The dense miasma began to dissipate and shrink. It was a very slow process, but the parts of the chimera's body that were previously hidden under the thick fog were becoming visible. The air also felt easier to breathe.
+
+"Thank you, little bird," the chimera rumbled in approval.
+
+Liora realized just how close she was to the beast and fluttered away. Although it wasn't hostile, she didn't want to stick around and make friends with this creature. No, it was probably a good time to leave the mountain and never return.
+
+After all, the artifact was purified, so the corruption would slowly disappear. Monsters won't become corrupted, the land would slowly recover, letting people of Sunvale to grow more crops. Christie's and everyone else's lives would slowly improve.
+
+This is my gift to you, Christie.
+
+That is quite a gift for just a few bits of food she's given you.
+
+Hey, you might think of us magpies as thieves, but we have honor. We repay our debts.
+
+Liora could leave the mountain without any worries anymore. She would have liked to say goodbye to Christie, but frankly, she didn't want to interact with people from Sunvale anymore. She had been discovered to not be a normal magpie, not to mention Dr. Reius who was spreading some fanatical nonsense. It was best to leave and let the rumors die.
+
+"You're welcome! I was happy to help. But now, I shall be on my way," Liora said and was about to fly away, her Treasure Sense ringing in her mind.
+
+"Are you sure, little bird? You could remain in this mountain. I would provide you with protection," the chimera said, but Liora didn't quite register its words. Her eyes were glued to the beautiful necklace in the altar.
+
+I… I can't just leave it behind…
+
+Liora, don't!
+
+I purified this whole place. People won't have to worry about corruption or monsters anymore. I think I deserve a little reward.
+
+No! Don't you dare!
+
+Somewhere deep within herself there was a voice screaming that she really shouldn't. She didn't mean Renir, but rather the remnants of her human self. But what did humans even know? They didn't understand anything about shiny things and treasure.
+
+Before anyone could stop her, Liora flew to the altar and grabbed the necklace. The chimera blinked in surprise, not expecting such a heinous act right before its eyes. Liora used the opportunity to fly below it, thus avoiding the agile tail and flying through the cleared corridor in miasma. An angry roar resounded from behind her.
+
+"Return the artifact at once!" The chimera snarled.
+
+Give it back, you stupid bird! You'll get us both killed.
+
+I need it! It's so beautiful and shiny!
+
+You have no clue what you're messing with! Give it back! Give it back!
+
+But Liora ignored him and flew as fast as her wings could carry her.

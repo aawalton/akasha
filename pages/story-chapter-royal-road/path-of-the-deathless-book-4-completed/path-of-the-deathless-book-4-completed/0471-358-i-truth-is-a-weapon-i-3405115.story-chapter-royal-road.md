@@ -1,0 +1,123 @@
+---
+id: d7a85241-d55b-5b10-958e-658a2daca8d8
+page-type-slug: story-chapter-royal-road
+title: "358 (I) Truth is a Weapon [I]"
+slug: 0471-358-i-truth-is-a-weapon-i-3405115
+partOf: path-of-the-deathless-book-4-completed
+position: 471
+ownLength: 1998
+unit: words
+publishedAt: 2026-05-16
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3405115/358-i-truth-is-a-weapon-i"
+royalRoadId: "3405115"
+---
+
+There burns a higher flame, an instrument beyond all Skills. Those who walk the Path of the Tripartite understand this instrument, yet never truly master it, for it is as elusive as it is inexorable, as dominant as it is scouring, as precious as it is unmaking.
+
+Beyond the levels of mana layered upon one's soul like bricks climbing toward the heavens, there is a shared sky we all exist under, and a shared expanse beyond that. No matter how powerful you are compared to those your junior, or how dwarfed you are by your senior fellows in the art, there is one thing that you cannot, will not, must not forget if you are true to this craft and true to the way of the tripartite: Truth stands above.
+
+Embrace truth for all that it is, the juxtapositions it bestows, the torment it brings, the burning agony it unleashes upon your assumptions, and the mutilation it delivers unto your heart. Rejoice in the tribulation it offers, for only through these struggles may you purge your mind and perspective of impurities, and thus keep your heart burning pure.
+
+What stands as the truth of truth is the epiphany above epiphanies. It is mastery at the foundation and the apex. Know yourself as much as you can and correct what you learn has been lacking, and know your adversary, especially where they do not see, especially what they will not see.
+
+Should you be capable of doing this, then even an Initiate can hold the leash to a Legend.
+
+—Legend-Philosopher Melaia Kelhaus
+
+358 (I)
+
+Truth is a Weapon [I]
+
+“I’m a fucking idiot,” Produveral moaned into his palms. “Jesus, what was I fucking thinking, letting him talk to me?”
+
+“Hubris,” Evanescia answered, her voice carrying snideness and pride in equal measure. “And you will not get to blame this on his skill, Myth. His skill and soul are broken, while his mind is mutilated. Power wasn't his salvation here; you have only your foolish self to blame.”
+
+Her mocking words turned the Farwalker's spine rigid. He spun on her like a rusted wheel swiveling in place, and he glared at her using those shifting blue eyes of his. “I suppose we're both fools then, since he just screwed both of us over with that little stunt of his. Also, I wouldn't be in this position if you didn't stab me in the goddamn back.”
+
+“A terribly inept metaphor. A backstabbing requires there to be a betrayal. There was no betrayal between us, only subterfuge on your part.” Evanescia took two steps towards the Farwalker and self-inserted into one of her many characters. Once more, she selected the towering, gangly Dimensionalist she'd first used against Shiv, Adam, and Uva in the Winter Court. An ocean's worth of spatial mana began to ebb out from her as the thin, pale creature she inhabited loomed over Produveral. “You sought to kidnap my villain before the story could even properly flower, to bring him to your miserable bureaucrats at Chorus so they can ‘catalogue’ him and keep him imprisoned like some zoo animal until the proper safeguards are bolted into his soul and restricted skill. There was nothing wrong with the way I reacted. In fact, it was you who broke guest rights in my dimension!”
+
+Evanescia's voice became overlapped with the snarling, ghoulish creature she now inhabited. “And if such was your intention, then I am well within my rights to keep you within my Fairwoods as a fixture in my scenes—or a side character in one of my countless stories, for so long as this slight stands unamended by your superiors at Centauri, or your leash holders at Chorus.”
+
+There was more than a hint of malice in its pitch-black eyes. The enkindled flames of Evanescia’s heart burned in overlay with the lesser flame of her narrative slave, but the collective emotional inflammation raging within them was mirrored and matched by the building anger that lurked within Produveral. Evanescia's presence disgruntled him, but that disgruntlement was quickly evolving into something much worse. Produveral’s words and posture betrayed a profound disrespect for his opposite. It was clear he didn't think highly of Evanescia’s purpose, nor the fact that she kept so many people trapped within the Fairwoods with the justification of narrative design. What he did fear, however, was Udraal’s reprisal—and there was also more than a twinge of respect that sparked in his emotional core when Silence was brought into the conversation with relation to the Watchtower.
+
+With neither of those individuals present, however, Produveral’s urge toward escalation rose in real time.
+
+As the two Mythic—or even greater—Pathbearers stared one another down, Shiv leaned against a snoring tree a couple of meters away from them with rapt amusement on his face. The Culturist, Adam, Uva, and the strange eldritch egg that had apparently hatched from Longinus' soul were already back in the Tutorial—ferried in an instant via Shiv's Severed Shadow. In the place of his Revenant form was a vessel of flesh that sported a map of brutal wounds across its body. Practically every bit of Shiv was bleeding. The only reason he hadn't slumped over dead was thanks to his Garden of Wounds and Broken Things. It exerted a subtle influence over his body, forming a protective crust made from blood and shifting injuries, thus adjusting him from a thing of pure biology to a seed of ruin.
+
+It was that which allowed him to watch on without fear, for even if Evanescia and the Farwalker came to blows, the destruction they unleashed would feed his skill rather than deliver oblivion.
+
+He chuckled under his breath. Truly, even on the cusp of unraveling, Harbinger of Tripartite Ruin was a masterful engineer of conflicts.
+
+***
+
+A few minutes ago…
+
+I can't do jack shit against either of them.
+
+The admission was as demoralizing as it was honest. Unique Legend though Shiv was, the peek Produveral offered at his power left matters beyond question: there was no fight to be had between them. The same went for Evanescia.
+
+It wasn't that Shiv was entirely without options, with his Continuity Error Skill offering the possibility of fleeing from them at any moment. It was a card up his sleeve, but it wasn't the only one.
+
+"Gaze clearly and think." Though near sundered and unable to manifest its power in full, the Harbinger still provided insight into other beings, especially their empathetic cores. And despite their unspeakable strength, both Produveral and Evanescia were still creatures driven by emotion and thought. Their animosity toward each other was self-evident. Though it existed as dim flickers now, they could be fanned.
+
+Right then, Shiv realized that perhaps even greater than his Unique Skills were the circumstances laid out before him. He and his friends were not mighty enough to best Mythic Pathbearers, but they could see them driven against each other.
+
+And he didn't even need deception for that to happen. All he needed was for the Farwalker to continue insulting Evanescia and for her to grow ever more wary of this dimensional intruder.
+
+Success: You and your companions’ lost equipment will be returned—with added gifts; a new story arc: a chance to escape, if temporarily, from the Fairwoods; gain +20 Levels in a Skill of your choosing.
+
+Before schemes could fully take shape, Evanescia gestured in his direction, and Shiv, along with the others, came aglow with divine incandescence as the rewards for the Quest were given unto them. The equipment he had been stripped of when the Watchtower's flames washed over him was returned. He felt his cape furl out from his back, the dimensional shadow offering an entrance to a pocket reality where things could be stored and where a forest of alloy awaited to be harvested. His right hand was filled by the Last Morsel, its hefty presence a relief.
+
+Hello, frying pan. Could've really used you while I was trying to kick Longinus's ass. Then came his assorted armor pieces, and that was where things were a little different. Shiv’s Voidmantid was never uncomfortable to wear, with how it integrated with his nervous system, but now it felt like he was in a glove of indulgent softness. And the new padding was most familiar. It felt like he was engulfed by bread or other fluffy pastries. The Voidmantid had been altered—merged with another set of armor Shiv had worn just recently.
+
+As the radiance faded from Shiv, he looked down at his hands and found them clad in gauntlets. No longer was he just entombed in an exoskeleton of war-adapted biology; plating made from food had been interwoven with it, wrappings of bacon, lettuce, and more. It was an even more absurd sight than before, considering how his helmet had been turned into a great helm, sculpted from hardened cookie dough and sprouting a swaying chef’s hat from the top.
+
+He was once more in desperate need of a mirror. When his Hydromancy skill recovered enough, he would shape a pool and use that to check his own reflection.
+
+And Shiv wasn't the only one with his equipment altered.
+
+Uva, the only person in his team still capable of combat, was now enwreathed by a dense cloud of orbiting metal fragments. Shiv recognized those fragments. They were from her shield, the one he didn't often see her use. However, the alloy of the fragments had been changed. They glittered with prismatic energy, and they rippled as if conduits to her magic. Hair-thin cracks spread between every fragment, and the taint Uva now inflicted upon mana was further imposed upon her new shield. But rather than being compromised, it was supercharged as the glinting shards of arcanite became small pinholes into the Outside. Shiv thought he saw feathered sirens and strangely colorful creatures moving behind the gaps into that place of unreality.
+
+Cast in the glinting glow of her unformed shield was a mirage—a faint shroud of the Dragon-Knight whose mind was tied to the item. The massive warrior was little more than a shadow, but a shadow was still far more present than the formless entity of thought and ego he'd been.
+
+And then there was the Usurper-Narrator's offering to Adam—delivered unceremoniously as a rain of armor pieces smashed down on the unconscious Paragon. At first, it seemed she hadn't applied any additional enchantments to his armor, but then Shiv felt the presence of an empowered Magical Resistance skill.
+
+Equipment Obtained: [Vestments of the Undying Cook]
+
+Tier: Narrative/Master
+
+Condition: Fine
+
+Composition: Voidmantid Ceramic; Bloodroach Chitin; Deepcrawler Silk; Fleshdrinker Fungi; Bone Adamantine; Cabbage; Broccoli; Cream; Beef; Chicken; Turkey…(>+1000)
+
+Enchantments > Compound Ocular Network; Antennal Resonance; Pheromonic Cipher; Master Regeneration; Magnified Vibrosense; Trauma Mantle; Myomeric Amplification; Mycelial Interface; Binding
+
+Path:
+
+Cook
+
+Skills
+
+To Me My Toads (Initiate) 1
+
+This Fecund Flesh My Garden (Master) 1
+
+Hungersense (Master) 1
+
+Mealstrider (Initiate) 1
+
+The notification for his new armor loaded, but before Shiv could question all the details, he felt something croak inside his armor. “Hey, boss! Turns out your attempt to kill us wasn’t so successful, so… we’re back in business!” Raucous cheering erupted in the back of Shiv's head, leaving him bereft of words. Where his food armor was bound in two fairies, now it sounded like he had an army of… toads hidden inside his plating?
+
+And based on that skill name, I can, uh, summon them to fight for me? Or something? A toad army?
+
+The thought was ridiculous, but Shiv was fine with ridiculous—his entire life had been a series of ridiculous incidents between all the horror and ceaseless violence; he certainly wouldn’t begrudge some additional assistance either.
+
+But before he could ask the toads if they knew how the skill worked, the gifts continued to flow.
+
+Selected Skill to grant +20 Levels: Rhetoric
+
+Shiv, for once, didn’t even need to consider.
+
+Rhetoric 32 > 52 (Skill Evolution Reached)
+
+Skill Evolution: Rhetoric (Initiate) > These Words of Truth and Adoration (Adept)

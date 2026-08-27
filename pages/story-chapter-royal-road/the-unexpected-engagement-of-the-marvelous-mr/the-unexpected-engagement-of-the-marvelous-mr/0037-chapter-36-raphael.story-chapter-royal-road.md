@@ -1,0 +1,269 @@
+---
+id: 26644e48-970d-5944-ada0-7a0ee60e0b8b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36 - Raphael"
+slug: 0037-chapter-36-raphael
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 37
+ownLength: 1915
+unit: words
+publishedAt: 2022-06-28
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/937327/chapter-36-raphael"
+royalRoadId: "937327"
+---
+
+“Here! You’re Lady Serrs, aren’t you?”
+
+The three of them were alone in the tavern’s alley, near the back door. They could still hear the music coming from the building, but it was dim and distant.
+
+Eleanor sat back on her heels so she wouldn’t be looking down on the boy. From that vantage, he was only a few inches taller than her.
+
+“How do you know who I am?” she asked.
+
+“Well, I read the newspapers, don’t I?”
+
+Penn, who’d been pulling up an abandoned box to sit on, stopped when he heard that. “Read?”
+
+“I look at the pictures anyway.” The boy shrugged. “I’ve seen your picture a couple of times. They weren’t bad, but I think you look prettier in person.”
+
+Penn rolled his eyes as he sat down, but when he glanced beside him, he noticed Eleanor was blushing slightly and smiling at the child with infuriating abandon.
+
+“You’re Ralph?” she asked.
+
+“No—”
+
+“Yes,” Penn said over him. “He’s Ralphie.”
+
+“The name,” the boy said while pointedly ignoring the thief, “is Raphael.”
+
+“After the painter or the angel?” Eleanor asked.
+
+“Oh-ho-ho!” The boy raised an eyebrow and looked up at Penn. “Now here’s someone with a little culture.” He turned back to Eleanor. “Both, as it happens. My mum liked them both, but she was kind enough to only give me the one name. Otherwise I’d be Raphael Raphael, and that would be a little much for any man to handle.”
+
+“Wise of her.”
+
+Penn noticed that Eleanor was looking at the boy quite shamelessly too. Apparently, her natural shyness didn’t extend to anyone a foot and a half shorter than her.
+
+She went on, “Any last name?”
+
+“No, on account of my mum hating my dad to bits.” He let out a sigh that was twice as big as his body. “I guess I’ll have to pick a name I like when I grow up. Maybe I’ll use Todd, if Mr. Penn here’s done with it.”
+
+“You know who he is?”
+
+“Sure. I don’t see him much anymore, but I know him from back when I was in the gang.” Raphael suddenly scowled. “Don’t think bad of me though—I’m not like him. I’m an honest man.”
+
+“Oh?”
+
+“I work three jobs. I run errands for Robin’s work yard, I take away tables here on the weekends, and when I’m not doing that, I’m a tosher and a mudlark.”
+
+Eleanor looked to Penn for guidance.
+
+“He searches the sewers and mud for anything of value,” the thief explained.
+
+Lady Serrs turned back as Raphael went on.
+
+“A lot of boys don’t call that a proper job because it doesn’t have hours, but I think it’s the perfect job because I can do it whenever I’m not doing anything else. I just have to keep my eyes open.”
+
+“Is it good money?”
+
+He shrugged again. “Not bad for the effort. It’s mostly fun anyway.”
+
+“Maybe I should try it.”
+
+“Nah. It’d ruin your lovely hands.”
+
+Eleanor held them up for inspection. “You think they’re lovely?”
+
+“Well, sure.” The boy put his own hand up against hers, palm to palm, to compare. “Hey, look at that! They’re the same size.”
+
+“They are. If your hands are anything to go by, I think you still have some growing to do.”
+
+“Eh. They could do with a wash.” The boy dropped his hand.
+
+“Well, Raphael, I’m Eleanor Serrs, and I’m very pleased to meet you.”
+
+They shook.
+
+“Likewise, Lady Serrs. But what are you doing with a lowlife like him?” The boy jerked his head to indicate Penn.
+
+“Thanks, Ralph,” he growled.
+
+“Haven’t you heard?” Eleanor said, “He’s my fiancé.”
+
+When Raphael glanced up at him, Penn did his best not to look smug. If he was trying to show up an eleven year old boy, he hated to think what that said about his life.
+
+“Well, yeah, but not really,” Raphael said. “I mean, no one really believes that.”
+
+“Would you believe he’s offered to help me?”
+
+Maybe it was because his face was so close to hers, or maybe it was because he was looking into her eyes, but Raphael immediately sensed something was wrong.
+
+“Here—are you all right? What’s going on?” His gaze moved between them. “What did you want to see me for anyway?”
+
+“It’s about that egg you brought Colt the other day,” Penn said. “The green one.”
+
+“Yeah? Is it important?”
+
+“I understand you were there when the man dropped it,” Eleanor said.
+
+“Sure, but he did toss it. If it’d fallen out of his pocket or something, I would have brought it back to him.”
+
+“Yes, you’re an honest man,” Penn said. “You don’t have to rub it in.”
+
+“Sorry, Mr. Penn.” To Eleanor, Raphael said, “It’s just, if you hang around him too much, you start to feel a little defensive about how people see you.”
+
+“I know exactly what you mean,” she said.
+
+Penn had wanted them to get along, but he felt this was going a little far. He cleared his throat.
+
+“Did you see who dropped it?” Eleanor asked.
+
+“Well, not clearly,” Raphael said. “It was dark.”
+
+It would have been impossible for him to miss the disappointment that stole over both their faces.
+
+“Is that all right?” he asked. “Am I going to get in trouble?”
+
+Eleanor forced a smile to reassure him. “Not at all.”
+
+“Here’s the trouble,” Penn said, “we need to hear the story of how you found that egg. Every last detail of it. And we need you to tell it to this policeman we know.”
+
+Raphael’s shoes scratched over the pavement as he took a step back. “No, but thank you.”
+
+The thief sighed and jumped down from the box. “And that’s what I was afraid of.”
+
+Penn offered Eleanor a hand up so she could take his place on the box. He kicked idly at the pebbles caught in the paving stones as he strolled over to stand in front of Raphael.
+
+“Why not, Ralphie? If you’re such an upstanding character, what have you got to be worried about?”
+
+“I’m small and grubby, and you know that makes me as good as guilty to them.”
+
+“Not this one. He’s not like that.”
+
+“Is he a copper?”
+
+“He’s a detective.”
+
+“What does that mean?”
+
+“It means he’s smarter.”
+
+“I don’t think I want a smart policeman. They’re bad enough as it is. My mum’s proud of me for having nothing to do with the law. I want to keep it that way.”
+
+“But you’d be helping them,” Eleanor said.
+
+“You don’t get marks for that! The point is to have nothing to do with them.”
+
+“Please, Raphael.”
+
+The boy paused when he heard the desperation in Eleanor’s voice. He edged closer to the box and peered at her from the corner of his eye.
+
+“This is really important to you, isn’t it?”
+
+“Yes.”
+
+The boy nodded, then stepped in front of Penn. He threw out his chest and buried his hands in his pockets.
+
+“How much important are we talking about?” he asked.
+
+“I can’t pay you,” Penn said.
+
+“Since when do you not pay for something like this?”
+
+“You know I would if I could. But not this time.”
+
+“Why not?”
+
+“Because that would be paying a witness for his testimony.”
+
+“That’s nothing but law talk, Mr. Penn.”
+
+“I know. I ought to wash my mouth out with soap, but that’s what we’re dealing with.”
+
+“Then no deal. I’ll tell you and Lady Serrs, but I’m not talking to a policeman if there’s nothing in it for me.”
+
+“Oh, Ralph.” Penn shook his head. “And I thought you were a smart one.”
+
+“What do you mean?”
+
+“Nothing in it for you? You know this is important to her. Can you imagine how grateful she’ll be if you do it? You’d have a friend for life.”
+
+Raphael’s eyes had drifted over to Eleanor as Penn talked, but they returned to the thief as he went on.
+
+“She’d say hello to you in the street every time she saw you. A high-class lady like her! Do you think it would impress your mates if she waved to you from a car?”
+
+“You own a car?” Raphael asked.
+
+“My father does,” Eleanor said.
+
+Penn added, “It’s not every day you get to make friends with someone like Lady Serrs. Don’t throw it away because you want money. That’s the stuff you pick out of the gutter.”
+
+Eleanor felt her heart ache as she watched the boy’s tortured face. He turned from Penn, wandered over, and leaned back on the box so he was facing away from her. He tugged the brim of his hat low over his face.
+
+“You’d say hello to me?”
+
+She could hear a slight quaver in his voice.
+
+“Every time I saw you,” she said.
+
+“My dad’s in jail. That’s all I know about him.”
+
+Eleanor didn’t know what to say to this, but her heart broke open a little wider.
+
+He went on, “You wouldn’t be ashamed?”
+
+Lady Serrs had to stop herself from throwing her arms around the boy and kissing him like she did her little cousin.
+
+“Ashamed of an angel like you, Raphael? No. Never.”
+
+He nodded again. “I’m always willing to help a friend, Lady Serrs. All you have to do is say the word.”
+
+“Thank you.”
+
+Raphael pushed away from the box. “I have to get in to work, but you can tell Mr. Penn where we’re going to meet the policeman, and I’ll show up.” He hesitated. “You’ll be there, won’t you?”
+
+“I promise.”
+
+“Evening, Lady Serrs.”
+
+“You’re wonderful.”
+
+Raphael turned away to hide his smile. The music grew momentarily louder as he disappeared inside the tavern.
+
+Penn put out a hand to Eleanor. “Come on, I had better get you home.”
+
+She took it and stood up. “Why the rush?”
+
+“Because you look like you’re about to fall in love with a street boy, and that would get me shot.”
+
+“But he’s so adorable!”
+
+Penn offered her his arm. “As your intended, I do not want to hear about how you’re attracted to other men. Have a little consideration.”
+
+“Then I won’t tell you.”
+
+“You’d leave me for him, wouldn’t you?”
+
+“Of course I would. He’s an honest man.”
+
+“Ouch.”
+
+Once they reached the street, Penn hailed a cab. He helped Eleanor into the seat, then hopped up to join her. As they rode back to Aubrey Park Lane, they discussed how to arrange the meeting between Haley and Raphael. They decided that Penn would call or meet Eleanor every morning until she managed to set an appointment with the detective.
+
+“I don’t think it’ll take long,” the thief said. “Once you mention it to him, I suspect he’ll drop everything to be there.”
+
+They had the carriage stop at the edge of the park. Eleanor got out there to decrease the chance of anyone from the house seeing her companion.
+
+When the cabby got back in from helping her down, he said, ‘Where to, sir?”
+
+There was a pause, then Penn said, “Can you follow the lady discreetly? I want to make sure she gets home.”
+
+“Certainly, sir.”
+
+The carriage lingered on the street long enough for Penn to watch Eleanor enter the mansion.
+
+“Thank you,” he said. “Now, back to the Dancing Glass.”
+
+As the cabby pulled into traffic, he said, “Is she a sweetheart of yours?”
+
+“No. But I couldn’t let anything happen to her.”

@@ -1,0 +1,279 @@
+---
+id: 115dc354-d18c-5a92-ad3f-95029c634f21
+page-type-slug: story-chapter-royal-road
+title: "419 Houndhunt [I]"
+slug: 0537-419-houndhunt-i
+partOf: path-of-the-deathless-book-4-completed
+position: 537
+ownLength: 6668
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3747336/419-houndhunt-i"
+royalRoadId: "3747336"
+---
+
+“You're planning on going after the Undying Tarrasque? Actually, why am I surprised? Of course you'd do that. Can't say I blame you anyway. It seems like fires pop up around you whether you start them or not. Look, I can give you some ideas about how to subdue the Tarrasque, but that's it. And you know what? You might be the only Legendary-Tier who stands a chance just grinding the goddamn thing down through raw attrition. Even then, it's gonna take a few deaths to pull off.”
+
+“I'll have help. I managed to enlist the Ascendancy.”
+
+“…I'm not gonna dig how you pulled that off. But weren't they coming after you? Weren't you fleeing from them?”
+
+“Harbinger.”
+
+“Of course. Chorus is gonna love this. Alright, look, two things: first, you can't just chuck the Tarrasque at us. We don't have the room for it. We don't have the means to transport it away from your realm into someplace safe, and if we dump it into the Outside, well, we don't know what might happen. A Tarrasque is meant to grow fast and occupy the ceiling of a realm. It's literally a strife magnet. And when its internal legend outpaces the ambient threshold, it goes off like a mana bomb larger than your brain can imagine. Boom. Collapse. And before you ask, no, Chorus is not just flinging your Tarrasque into the Outside as a test. You do something wrong, and the System might slap you for it. There's a reason why Chorus is still around—because they don’t fuck around with shit they’re not absolutely sure about.”
+
+“So, my Tarrasque recycle and return plan is dead. Got it.”
+
+“Look, if you can kill the thing, just kill the thing. And like I said before, you might be the most well-positioned person in all of Integration underneath Mythic-Tier to kill a Tarrasque. Mainly because you share a bunch of the same skills and can keep coming back. But it’s going to be your Vitality Drain that does it. Looking at your skills and abilities, you shouldn't trade punches with this thing. Get close. Stay attached. Anchor yourself to it using your magic. Use your parry skill to counter its magical nullification and keep yourself pinned close to its body. Don't let it shake you off and just keep draining it. You almost got there last time. Between you and the Ascendants, you might just be able to suck it dry of vitality and collapse its existence.”
+
+“I still want to keep the thing alive, though, to spite the System and all that. What if I perpetually drain it to the point of terminal weakness and throw it into space or something?”
+
+“No. Absolutely terrible plan. Zero out of ten and may god have mercy on your soul. Shiv, you have to know how much weird shit you go through. Even if you stick a body on the Tarrasque and keep draining it over and over, you’re going to end up Delving again in… a month, let’s say? Or you get disabled some other way. And then that thing will just teleport straight back to Earth. And building a dimensional prison is untenable too. Look at the Jotun—they’re desperate to make the Tarrasque someone else’s problem. Gotta think about these things, kid—why are you making that expression? Holy shit, what are you planning?”
+
+“Fairwoods.”
+
+“Please, Shiv…”
+
+“It’s a good idea.”
+
+“No. Somehow even worse than the last one, actually. Evanescia loves giving Tarrasques new traits—and then she fucking forgets about them after a few loops, and guess who has to do cleanup again.”
+
+“I’ll be there too. Hells, I can try to teach it how to cook.
+
+“Shiv, just kill the poor hound. Please.”
+
+“You guys should have done better to keep your monsters from getting stolen. Up to me to decide now. How did you manage to lose a Tarrasque to Sullain of all people anyway?”
+
+“We didn’t lose it to Vicar Sullain—it got snatched by someone else and caged before it could fully develop on the world it was meant to destroy.”
+
+“Huh? By whom?”
+
+“Alright, so there’s this guy called the Realmrunner…”
+
+—Recorded conversation between Myth John Produveral and Legend Tanner “Shiv” Lowe
+
+VII-65
+
+Houndhunt (I)
+
+“How could you allow this? Veronica! It’s not right! I hate him! Make him go away! Make him go away!”
+
+Daughter's tar-black presence filled the room with a foul stench, but her whining and her repugnant pungence went ignored by Shiv as he continued enjoying his twelve-course meal. The first thing he nursed himself on was the trout. It was smoke-deep, brown, rich in representation of the Rocky Mountains, one of the longest-standing mountain ranges on the continent, he'd been told. Wild chives and potatoes were splayed by the trout’s side, offering a respite from the sour-sick stench radiating off Daughter.
+
+Nearby was a bowl of soup, clear and pristine, filled with hearty black lentils and sprinkled with thyme. There was also a clean plate, once filled with salted bitter roots now boiled inside Shiv's stomach. Of all the meals he'd eaten so far, it had disappointed him the most. The brittle root was cooked unevenly; someone in the kitchen was either rushing or simply careless to allow such an outcome. A true pity: the rest of the bitter root was so rich and even in delightful flavors.
+
+Then there were thin-sliced loin chops, splashed and coated in juniper berries, further made glistening by cured egg yolks and crispy sage; the pale white of pheasant breasts mixed in with a sort of tart sauce Shiv was unfamiliar with. A palate cleanser was served after that in the form of icy granita made from wild mint and local honeys. Then there was the grilled bison tenderloin that teased Shiv with curled fingers of heat; an assortment of regional artisanal cheeses splayed nearby; pitch-black truffles filled with sage and dotted with pine needles. Finally, huckleberry cobbler, bright with glistening vanilla and coated with a dense layer of whorling caramel.
+
+Despite a few disappointments here and there, the culinary artistry on display at Flamecrown put Shiv to shame. But though he was outmatched, he wasn't truly ashamed. This was a good learning experience, and it gave him insight into being a better cook. He knew he could match any of those dishes if he had enough time to focus and plan, to prepare himself and dedicate every single one of his skills in concert. His grand strategic thinking, lacking in combat, also translated to a deficiency in the art of cooking. He thought too much of singular dishes. His courses were too small. His experiences were narrow and focused on the small scale.
+
+Georges had always been the one to decide the items on set lists, and so Shiv simply worked in concert. Now, with Georges gone and Shiv running his own kitchen, he needed to think broader, grander: how each dish supported the other, how the appetizer led into the denser, thicker meals, how the result was meant to be a final touch, not just blind sweetness and overwhelming taste. And then there was the Sky-Swallowing Carp's distinct lack of palate cleansers when one taste lingered so deep in someone's mouth. There needed to be a refresher in between; otherwise, the truth of one meal would be drowned out by the one that came before.
+
+The Deathless smirked. I got a lot of work to do—a lot of things I need to update. But in the meantime, I think I'm really gonna enjoy this…
+
+There were other issues he had to contend with, mainly how his Unique Pyromancy inflicted flavors derived from philosophy. That was a deeper stain he couldn't so casually wash away. If he could create extreme flavorings from specific minds kindled, then maybe he could find some people who were more neutral. Perhaps that would be the source of his philosophical refreshment: those who were indifferent or at least committedly barren of extreme ideals.
+
+Such called for more experimentation.
+
+“Veronica!” Daughter shrieked again, but in the depth of her divine outrage there was a reverberation, a slight, near-imperceptible sob. Shiv could see the contours of the girl worn by Daughter the Deadly, and he recognized her face. He held the anger at that fact deep inside, allowed it to churn and boil in his stomach along with the meal he was digesting.
+
+The Councilwoman was playing a game of her own with this meeting.
+
+***
+
+Elsewhere in the capital, Shiv sat outside a café across from Captain Irons. Both of them were looking at a local bank on the other side of the street. The place was visited by the same people every day, wearing the same outfits, pretending to sort the same registers. But even if Shiv was ignorant of the operation taking place, he would have read the falsehoods from their body language. The people working here were not administrators or bankers. They dealt not in money, but in bloodshed and violence. Their bodies were hardened by war, possessed of Toughness and Physicality unlike anything a non-martial could achieve.
+
+And it was in the depths of that bank that there was a dimensional gateway that led to one of the Inquisition's dimensional re-education camps.
+
+There, Melissa Harrington and countless other dissidents were likely undergoing brainwashing and enforced patriotism.
+
+***
+
+Back in a dining hall of Flamecrown Castle, however, Shiv was staring at someone he and Irons had been looking for for a while—Melissa's lost sister. Hannah Harrington was coated in a dense veil of suffocating oil, trying to break free, to regain control of herself, but unable to. For how could a six-year-old child contend with the will of a divine monster?
+
+But perhaps the truest monster of all here was Veronica Chandler for allowing such a thing to happen, and using Hannah as a bludgeon against Shiv on top of it. In any other circumstance, he would have faced Daughter willingly. There would have been blood and death between them, and he would have done it over and over again. For she was the one he viewed as the most unacceptable, the most undignified of all the Ascendants, and the sentiment was shared for the psychological and spiritual scar he'd left upon her.
+
+A gleaming mark marred her face still. Alight with Vitae, a cut he'd left on her face during his escape from the Rubik's Well.
+
+“Enough,” Jessica said from the head of the table, exactly opposite Shiv's seat. There was about ten meters of distance between her and Shiv, and along each side of the long table were the critical “volunteers” for the upcoming houndhunt. Indeed, most of the expendable Avatars gathered were people who had actually willingly given themselves to their Ascendants—true faithful who had simply transgressed in horrific ways or suffered a terminal ailment that the Republic either couldn't or refused to cure, and now sought to perform a final service for the nation they loved.
+
+But even patriotism couldn't quell the disquiet burning inside of them. Shiv saw the unnerved looks in their eyes as much as in their cores. The expressions they offered him bordered on the edge of hateful, but their hearts were mostly consumed by fear and worry. For he'd been presented as a prisoner, a monster, a defiler of the Yellowstone Republic for what he had done to Longinus, and yet now he was allowed to eat at the end of the table they dined at, enjoying the same privileges as they. He appeared as an equal rather than a contained adversary, repurposed into a hound of their own. That disturbed them, made them wonder, but it didn't give them enough courage to question Jessica and, by extension, the will of the Songbringer.
+
+Of the thirteen Ascendants, twelve were manifested over their respective Avatars. One of the two that sat closest to Shiv, towering over him on the right, was Cripple, mantled over the humanoid body of X-Ten, a fugitive automaton that had recently surrendered willingly after months on the run. Now simply exhausted and ashamed, it sought to reach its final end and perform an act of greatest sacrifice to make up for what it called its months of unredeemed, irredeemable cowardice. As to what transgression it had performed and why it had been a fugitive for so long, it refused to say. The humiliation and loathing burned deep, and Shiv's Harbinger granted him insight, telling him that if he pushed at all, the automaton's mind would fracture, and its heart and body would follow.
+
+It was among the most brittle beings Shiv had ever encountered, far more than even one like Havel Van Stormhalt, and any manipulation would see it crumble to dust. But no manipulation was necessary for X-Ten—Cripple was already on Shiv's side, and practically everyone who mattered in the room knew that: Veronica, Shiv, Jessica, Anthony, and Kathereine.
+
+Tension built as Shiv continued enjoying his meal, eating alone while everyone else struggled to muster an appetite. His fork and knife clicked against his plate, but he held to what decorum he still retained from Georges' tutelage despite his boiling anger. He lifted his head, noticing Daughter glaring at him with her arms crossed, malice held in check only by Veronica staring her down in turn.
+
+“You guys should really try this,” Shiv said, informing Irons about finding Hannah with his other body in the same breath. He lifted a slab of elk before slowly placing it in his mouth and chewing. “Send my compliments to the chefs, Councilwoman Chandler. You know, I'm starting to see why people want to fight for the Republic now. Just a bit.”
+
+The grand mahogany table rattled with violence as a metal fist embedded itself halfway into its surface. The vibration reached Shiv, but he ignored the idiot throwing his tantrum. The expendable Avatar of Enoch the Builder—a tall, thin automaton with a cube-shaped head—was about to rant or rage at the Deathless for his disrespect, but his intended performance was cut short as the Avatar sitting at the center of the seats to Shiv's left uttered a single word.
+
+“No.”
+
+Veronica's command hit everyone like a thunderbolt from the heavens. The impact knocked the weakest of the Avatars back, smashing them into the padding of their seats. Groans came from a few spots around the table, but no complaints followed. A glancing strike caught Shiv as well, but it glided off his Harbinger, sparing him from true harm as his Social and Magical Resistance skills made him a metaphysical bastion.
+
+A crushing silence swept through the dining hall. Shiv went back to eating, ignoring the glares and the feverish looks of panic ripping through the others. Nonchalance became his rebellion—one that Veronica likely quietly appreciated and found childish all at the same time.
+
+Then, out of nowhere, another subtler, quieter, more insidious attack struck Shiv—but promptly bounced off his Shapeless Tides as an incandescent tint lit his body. “Come on, Maiden,” Shiv mumbled between bites. “Been trying this all day; doesn’t work anymore.”
+
+Practicing Atheist (Legendary) - You have wounded a god using the powers of their very own Domain. Your insolent act of unfaith will not go unnoticed—or unrewarded. Your Magical Resistance has gained a new layering. Though the heavens might spit their edicts, you bear an apostate’s armor forged from your own deeds.
+
+Maiden the Genius didn't reply, and the iron maiden-shaped automaton she used for an avatar held to its own silence as well. Despite her aesthetic indifference, he could see the frustration lighting her core, but it only glowed in certain aspects of her empathy. It was like her mind and heart were fractured, with specific thoughts bleeding over into moments of emotion, while the rest of her had been surgically detached, extending out in prolapsed sections of pure logic and rationality, or what she assumed to be such.
+
+Shiv suspected that she'd done this to herself to ensure that she was better at delving into the technical and scientific mysteries of the world, but one didn't simply sever oneself from their heart without side effects. Emotions existed for a reason. They weren't logical, but neither was existence or civilization—and so long as one lived and had to combat others, severing oneself from their own emotions paradoxically became an act of higher irrationality.
+
+“Maiden. Daughter. Settle and sit. I beg of you.” These words came not as a command, but as a request, for Veronica still remembered her aesthetic place in the Republic, and the fact that one needed a measure of softness after the stick to compel an Ascendant to obedience.
+
+A shrill, almost silent shriek escaped from Daughter. Cracks spread across the decanter of dark red wine Shiv poured his drinks from. Yet she faltered before she could fully shatter the glass.
+
+Daughter plunged back into her Avatar in a splash of foul tar. When the disgusting substance receded, a girl barely able to reach over the edge of the table was left on her seat, shaking as nervous tears rolled down her cheeks and she looked between the gathered adults in naked fear.
+
+Yep, that's Hannah, alright, Shiv seethed internally. She was half as old as the already small Waifs Shiv had been forced to fight in the Rubix Well, making her role here feel even more pointlessly vile. Fuck you, Veronica. I see what you're doing.
+
+“I thank everyone for governing your impulses and letting order take hold,” Veronica began. “As you might know, you have been selected for a rare honor, a rare chance at redemption. I will not judge you now. You have all undergone your own trials. You have all been branded, but you have now been gifted a chance through faith in our Republic and the Ascendant of your devotion to make right what you have left wrong. As such, you are to be rewarded with luxury and service until the time you depart toward your fated task. The Ascendants that chose you have bestowed upon you your respective Quests. You understand the threat we face, and what is at stake. You understand that your deaths may all be but guaranteed. Hence I am giving you lenience. Hence I have held the worst of my judgment at bay. But do not confuse my intent now. You are not to treat each other as adversaries and bleed this expedition before it begins, for if you act in such a way, then you have transgressed twice over and served the purpose of the adversary, because of foolishness and stupidity alone.”
+
+Veronica slowly let her gaze pass over the gathered people from left to right before finishing her speech. “And I trust that you are all still loyal, and do not hope to see this home of ours laid to ruin by the servants of the Shattered Moon and the beast they seek to unleash.”
+
+Her words left the expendable Avatars cowed. Their Ascendants didn't speak openly, but most of them knew that factions were forming aside from them, split by a three-part fracture. The unseen Starhawk, represented by an empty chair to Veronica's right, stood as a faction unto himself, apart from all the others. Veronica and her grandmother were another, holding the critical mass of influence in the room, yet they were counterbalanced again by a sub-splinter connected to both them and the Starhawk: Shiv. The Deathless was not an outright enemy, for he was not aligned entirely with the Republic's God of Justice, and thus stood as another player in this great game.
+
+Things were deliciously messy, as politics could only be, but through politics came a measure of balance and control. And so, with everyone suffering a measure of discomfort, there was a détente, a negative peace that continued, which allowed diplomacy and cooperation to spring forth on uneasy foundations.
+
+“These words are unnecessary for us,” Harlock the Midnight declared, reaching out from Anthony to speak forth from every shadowed corner of the room. “It is the Deathless that concerns us, and it is the Deathless that should concern you, Veronica. His presence here is a blight upon the Republic. We accept his use as a weapon. We accept that our interests are aligned, but we do not accept him unshackled, unburdened, granted the same privileges as our Avatars and citizens. Especially after… after…”
+
+The god's echoing voice trailed off as his Avatar’s gaze was fixed on the seat to Shiv's left. “Especially after what he inflicted upon Longinus…” Harlock finally finished.
+
+But his words rang strangely hollow, for “Longinus” was currently tearing into her food like a starved woman, shoving handfuls of meat and vegetables in her mouth and splashing soup over herself that stained the chef's attire she wore, inherited from Georges. The arm-length, orange plumage growing on her head in stead of hair bounced as she leaned so far across the table she knocked Shiv's wine decanter over with her chest to grab the untouched bowl of soup sitting in front of X-Ten. She fell back in her seat and proceeded to shove her entire head in the bowl, loudly slurping up the contents before letting out a satisfied burp and licking her lips in open delight.
+
+She had arrived not by Shiv's request or per Veronica's command, but simply of her own volition. By striding across dreams, she'd stepped out from the mind of one of her newly gained faithful, making her appearance in Yellowstone mere hours prior.
+
+From what Shiv could gather, it seemed that the Dreamtaker was trying to make the followers of the Wanderer across the nation adapt to their god's mutations, to view them as not a degeneration brought upon the Ascendant by a foul attack, but more as a blessing in the form of an evolution.
+
+Her tactic for convincing them lay mostly in actively encouraging and praising all her followers personally, for that was all she knew how to do. Though she'd evolved into a practically fully Integrated Divinity, the Dreamtaker still remembered much of her time as an Eldritch God and failed to truly distinguish herself from that former role. On top of that, bits of Georges leaked over from the part she'd absorbed, bits that bothered Shiv deep enough to fracture his person.
+
+But however much the Dreamtaker's anomalous presence affected him, it troubled Veronica and the Ascendants ten times over, for their gazes were turned away from the Deathless, leaving only their Avatars to worry about the beast among them. They, the gods of the Republic, were too wary and uncertain of what had transpired in the Fairwoods to see another one of their rank devolve so horrifically.
+
+But it wasn't pure scorn and strife that leaked from them. Some seemed outright hopeful and relieved, much like Shiv observed during his trial. Most had colored opinions of Longinus, and almost no one was outraged about his destruction, more so worried by the fact that a subsumption of an Ascendant was possible—and could happen to them.
+
+Ignorant to all of this, the Dreamtaker patted her stomach in satisfaction. “Fucking love this!” she announced, already reaching for the next plate. “Compliments to the chef-cook!”
+
+Her words echoed Shiv’s as she continued her sloppy eating, and upon beholding the shared looks of spiritual constipation between the other Ascendants and their mortal channelers, it was all Shiv could do to hold back his laughter.
+
+***
+
+“What a ridiculous scene,” Uva said, leaning against a counter back in Gate Piety. She was getting live updates streamed to her directly from Shiv's mind, as each of his vessels shared the same consciousness. “And what absurd excuses for gods make up this so-called Auroral Pantheon.”
+
+“Yeah, you can say that again,” Shiv muttered, sprinkling chives on the orc meat tenderloin he was trying to make in replication of the elk he was savoring over in Flamecrown. “But I'll say this too: though Veronica is kind of a sack of shit, she is impressively good at keeping every one of them obedient and controlled. I think there's a lot to learn there.”
+
+Nearby, a head of his mana hydra kept a goblin assassin with her head submerged in a bucket of leftover soup-slop. Shiv would have emotionally broken this one, but she proved strangely resilient in that area and just kept screaming and biting at him as she reiterated the pledging of her life to the Centaur of the Nestled East or whatever. As such, he decided she needed a bit of cooling down first and helped her to that. A full course of destruction would be delivered upon her when his Harbinger found an angle to strike at, and after her resuscitation, of course.
+
+For now, Shiv had more pressing concerns.
+
+“You should take care not to learn the wrong lessons,” Uva intoned telepathically, injecting him with the depths of her worry. Since the Delve, she wasn't so desperate to control and contain her emotions anymore. Now she decided to use them as tactical assets against him, against everything. She wasn't manipulating more, instead nudging through honesty. And he thought she was braver than before. The world wasn't purely an enemy anymore. It was a ground for transformation, and she would walk that path with previous burdens shed. “You know I have every confidence in you, but Veronica Chandler is more than an adversary you can face down with confidence and attrition. You're in her proximity now, exposed to her thoughts, her words. Do not misunderstand me when I say your philosophy and experience of society and culture are paltry compared to monsters like her.”
+
+“No, you're right,” he replied aloud. “And I'm not embarrassed about that. But I think only by exposing myself to her and learning how she thinks from how she acts can I grow faster. If that makes sense. It's more than just physical or magical strain now—she's going to test us anyway. She's going to make me struggle, so why not just head straight to the source and keep the threat contained?”
+
+“Yes, but again, don't face her alone. If you think she's proving convincing, or if she has you doubting or twisting my own mind in a certain way, remember what you pledged. Come to me, tell me first, and then I will give you a perspective beyond your own. I perhaps can give you thousands of perspectives beyond your own.” Uva hesitated. “It's hard to convey, but sometimes, superior argumentation is not the truth of things.”
+
+Shiv nodded. “I think I understand that better than most.”
+
+“Good.” Then Uva's expression became unreadable. “And I see the Dreamtaker is doing… well. It disturbs me that she just left without informing us.”
+
+“I guess I was surprised for a bit, but not really.” Shiv scoffed. “She was an Eldritch God before, so consent isn't that big a thing anyway. We all know how Longinus was with asking people what they thought or what they wanted. Now she has twice that inheritance, and frankly I'm just glad she's doing whatever she wants on her own rather than forcing us into feeding her needs. Divinity seems to be expressing itself in pretty strange ways too. Dreamwalking. Can just pop out of someone as they're sleeping. I think Veronica wants to tap into that; she asked me what the Taker is capable of before this whole communion dinner started.”
+
+Uva grinned wryly. “Yes, being able to slay your enemies while they're slumbering, or see through their thoughts and transport yourself and others is a treacherous Domain—one that holds a lot more esoteric worth than Longinus’ horizon-striding abilities. I can think of a great many uses for her. If she can be persuaded to obey.”
+
+“I don't think that's going to be so difficult for Veronica, considering I can do it. But looking at the others in the room, I can see that they’re more than a little relieved.”
+
+“Longinus was quite the monster to traumatize other monsters so,” Uva replied.
+
+Shiv paused as he considered that statement. As much as he hated Longinus, and as much as the memories of what happened in the Boiling Toad ignited Shiv's blood and fueled his Harbinger with rage, there was a part of him that sympathized and regretted killing the man Longinus used to be. “The god was. The man was just another victim, ruined by a legend that wasn’t his own.”
+
+“By the Songbringer—whom you must beware.”
+
+“Other way around, I gotta watch out for Veronica,” Shiv corrected. “I think she has my number, but if Kathereine comes singing to me, she'll have to crack me open before I do her first. She might be a social god, but she's also decayed, and she knows it. She feels it the worst out of all the Ascendants. She knew the brilliance she once wielded, the insights she once had. Now it's all gone. That hurts her. And she hates that I know that.” Shiv grunted with dark amusement. “Veronica wasn't bullshitting when she equated herself to the Republic. She's not everything, but she is the scale, the pillar that holds all of that together. The pillar between the gods and me too. We gotta kill our most virtuous enemies first, Uva. If we get the chance, we gotta kill the foes we respect the most.”
+
+The Seeker hummed in accord. “Adam's condition is changing for the better, albeit slowly. Hymn thinks we’ve reconstructed just under a percent of his mind, but that point of stability is granting the connected memories a means to compose themselves. I have to stay in place and reinforce his sanity.” Her fingers tightened around the edge of the countertop. “He’s so broken, Shiv. Even when we put him back together and he finishes his Delve, I fear… I don’t know what might come of a psyche so traumatized.”
+
+“But I know,” Shiv said, resolute. “I know what will come out. It'll still be Adam, even if he's hurt, even if he's crippled in some way. It will still be Adam, and we're still going to be here for him. And he'll get better. He will. We won't stop until he does.”
+
+Uva telepathically forced herself to believe, if only to give Shiv his comfort. The Deathless hated that, and both of them knew—their thoughts and emotions were interlaced. But neither gave voice to the lie they were composing, and as Shiv's Harbinger cracked, unable to fully abide by the grand self-delusion taking place, Uva's focus leaked out from him as she resumed her duty to see the reconstruction of Adam’s consciousness.
+
+“Shiv,” Gone said, suddenly next to him where she wasn't before. “You left this one in the pot too long. I think she's out.”
+
+“Ah, shit,” Shiv hissed as he ripped the assassin out of the pot and threw her on the ground. “Toad! Mouth to mouth!”
+
+Immediately, one of his Fae toads exploded into action, tripping over the ground and then over the goblin’s unmoving body before scrambling back with a series of comical sound effects to plant their enlarged and exaggerated mouth upon the drowned goblin's face. Soon the toad began to suck, and their chest cavity collapsed with every inhale, followed by violent hacks after every exhale.
+
+“Still don’t think it’s necessary,” Gone said.
+
+“It’s the principle of the thing, Gone,” Shiv replied. “I can’t just kill someone for breaking into my kitchen; they gotta live to hate themselves. Death's a mercy, and with these fuckers constantly breaking in, I’m not feeling so felling kind right now.”
+
+***
+
+“Are we expected to be blind to what he has done, what has befallen Longinus?” Harlock asked, genuinely disquieted by the scenes playing out before them.
+
+“You could’ve saved him, you know?” Shiv said, dabbing at his lip with a cloth far too dainty and delicate for his massive hand. “You just had to keep his worst impulses in check. But you didn’t. You looked away before because even if it bothered you, he was an Ascendant, and who are you to criticize your fellows? Well, I helped you.” He gestured to the Dreamtaker on his side, who was currently scooping ice cream into her mouth with a soup ladle. “The new Longinus is a bit strange, but I think we can actually trust him with the lives of children. A pretty impressive feat, no?”
+
+The shadows at the edges of the room coiled in on themselves, and Shiv somehow read Harlock’s body language in the awkwardness of how the darkness bent. Harlock wasn’t getting ready to strike, but cringing.
+
+Maiden didn’t cringe. She instead prepared to Curse Shiv again, but was stopped as Cripple, Dollus the Deceiver, Charity the Bountiful, and Hermit the Coldness all snapped at her to leave it be.
+
+“I still hate you, Deathless thing! Hate! Hate! Hate!” Daughter howled from inside Hannah’s unwilling flesh. But then the godly core of volatile emotions inside the girl settled into something approximating dark relief and—was that a measure of unwilling gratitude? “But I don’t think I hate, hate, hate new Longinus that much. Her hair is pretty… And I like how she stays dressed around my Waifs now!”
+
+At that statement, Shiv’s right eyelid twitched as he mustered his considerable will not to spike his Shapeless Tides in the direction of Veronica in an attempt to unlatch her skull from her body using his steak knife. “See,” the Deathless said, fighting to keep the hate in his voice buried. “Even the one that hates me the most here gets it.”
+
+“I’m still gonna hurt you bad, meanie!” Daughter shrieked.
+
+Veronica held up a hand without ever changing expression. Everyone fell quiet—and the Councilwoman gestured for an automaton attendant to come by and fill her glass with more wine. “We are not here today to address grievances. We are here—all of us—to familiarize and accept our comrades for their purpose in this undertaking. No one here is perfect or clean of sin, but I expect you to place lesser grudges aside until after the greatest threat is bested. I do not expect any of you to view one another as kin, but I do ask that you demonstrate the self-control necessary to see things done.”
+
+Did you ever ask Longinus to control himself? Such was what Shiv wanted to spit in taunt, but he kept himself quiet and played along—if only to make use of the present circumstances. If things devolved into violence, well… Shiv could do a lot of things, but murdering a spiritually enslaved child in a fit of rage was a rough ask, even for him.
+
+And he could see Hannah staring at him, her eyes bright and terrified—of him and the monster inside her—while a blank-faced Stormhalt sat nearby, his gaze distant and mind laden with a dormant Inland Embassy bestowed upon him by Shiv.
+
+Seconds passed, and though Shiv and the Dreamtaker were the only ones eating at the start, Jessica, who'd left the table at some point, entered the fray with a second helping of elk straight from the kitchen and looked over everyone with her mouth open in amazement. “Holy shit, no one’s killed anyone else yet. Nice job, guys.”
+
+The look Veronica gave her was almost withering. Jessica ignored her. Or at least pretended to.
+
+“So, I got a question,” Shiv said. Everyone was looking at him again, and the air was dense with wariness. “How are we supposed to practice for this mission? Because I don’t think just smashing each other in sparring is going to be enough. Since all of us expendables are together, what’s the big idea?”
+
+“Such is a question for the commander,” Veronica said, narrowing her eyes at Jessica.
+
+“In… progress,” Jessica said casually, ripping mouthfuls of meat off a plate-sized steak she had skewered on Rusty, transformed into a kitchen knife. Somehow, her table manners appeared even worse than the Dreamtaker's; she ate more like a starved dog than the grandmother she was.
+
+“In progress,” Anthony repeated flatly, his face deadpan.
+
+“Yep,” Jessica insisted. “Intelligence is getting gathered about how we can navigate the north and where the dimensional prison might be and all that. We know when the trade might happen between the Court and Scorn, but we need more.”
+
+“And what progress have your Inquisitors made?” Veronica asked.
+
+Jessica barked a laugh—and proceeded to nearly choke on her steak, hitting her chest with a fist to make it go down. “The kind you might expect. A lot of intercepted messages and shit, but, uh, you know how dogshit our Diviners are compared to the Jotun Prophetesses.” The awkwardness that followed her insult filled the atmosphere with crushing outrage and disbelief. It would be one thing if Shiv mocked the Republic, but Jessica was a famous Legend of Yellowstone. But perhaps it was specifically because of that she could speak so openly. “So, we have to apply more direct means. And for that, we had to subcontract.”
+
+The Councilwoman looked like she wanted to strangle Jessica as much as Shiv wanted to strangle her. “You neglected to mention this, Legend Hawgrave.”
+
+“I did?” Jessica said, blinking. Shiv covered his mouth and tried not to snort because this wasn’t a shared scheme to piss Veronica off—Jessica actually just forgot. “Ah, fuck. Look, I’m not trying to snake you or anything. And Shiv, fuck you and eat shit.”
+
+The Deathless frowned and gestured at himself. “What? What did I do?”
+
+“You were supposed to remind me to tell her,” Jessica spat, actually spitting out pieces of food she hadn't swallowed yet. “Or tell her yourself.”
+
+“My memorization's bad too!”
+
+“Tell me what?” Veronica said, her eyes now locked on Shiv.
+
+“Oh. Right. Uh. Valor? Are you around—” When Shiv looked to his right, Valor was indeed right there, and the Deathless nearly bit his tongue. “Ah. Hi.”
+
+Everyone else in the room flinched. Anthony facepalmed to hide the fact that his tanned features turned a shade paler.
+
+“Midnight! You shame us again!” Kathereine snapped through Veronica.
+
+“Forgive me, Songbringer,” Harlock replied acerbically. “I will endeavor to do Harlem’s duty next time.”
+
+Harlem’s Avatar, a young man in white, much like the one Shiv had seen in the Rubix Well, shot to his feet and seemed prepared to leap over the table and start a brawl in defense of his Ascendant, but Harlem proved more mature than his fellows as he refused to rise to the pointless provocation and silently instructed his Avatar to sit back down.
+
+“I see,” Veronica said, rolling her eyes instead of suffering any kind of rage. “It would have been better if either of you deigned to inform me; that way, I could have seen the Republic’s resources turned to Legend Thann’s advantage.”
+
+Valor glared at the Councilwoman with caustic emotions hissing inside his core. Whatever veiled feelings she held toward him were mirrored by abject disgust in him at what she allowed to happen under her rule. “There is no need; the Republic’s resources might have done the opposite regardless. Stealth is best exercised agile; without the clumsy shackles and machinery of empire groaning at your back.”
+
+She caught his subtext and leaned back in her chair. Her eyes gleamed with judgment and consideration, but whatever she wished to say to Shiv or Jessica about Valor’s presence was discarded or delayed as she gestured for the lich to continue. “So, then, since you’ve decided to intrude and grace us with your august presence, Legend Thann, and with the Republic so unworthy of assisting you, might you be willing to declare your intentions and position in this matter?”
+
+“My intentions and position are simple,” Valor replied. “I am here to help resolve the beast you allowed to escape. I will see the matter of the Tarrasque settled, even if the Republic does not wish it to be. In this World Quest, we are nominal allies; in truth, you are nothing to me at all.”

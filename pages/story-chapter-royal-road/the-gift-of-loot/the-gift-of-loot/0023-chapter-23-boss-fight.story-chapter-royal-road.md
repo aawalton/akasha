@@ -1,0 +1,279 @@
+---
+id: b4f43aaa-a517-53bb-87db-3b31818600a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Boss Fight!"
+slug: 0023-chapter-23-boss-fight
+partOf: the-gift-of-loot
+position: 23
+ownLength: 3554
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3391343/chapter-23-boss-fight"
+royalRoadId: "3391343"
+---
+
+There were now over forty mimics waiting for them in the boss room. Thomas wondered if there had been that many originally and Zach had just gone on a burning spree earlier—likely—or if the boss had figured out that the two of them would return and had doubled the amount.
+
+Either way, it was a large room, so even that many mimics didn't make it feel crowded, but it would be daunting if they all decided to attack at once.
+
+Oh yes, and the faces of the mimics had changed to those of Zach and Thomas.
+
+Though Zach still looked like his old volcano demon self, which was interesting. It meant that the boss couldn't see what was going on outside of this room. It probably didn't know their plan.
+
+Thomas closed the door and turned back to Zach. "Okay." He quickly explained the situation, adding, "You have full permission to kill me."
+
+"And myself, I guess," Zach said. "I promise to try to make it quick and painless."
+
+"I don't know why it bothered to change the mimics to our faces." Thomas frowned. "The only reason I can tell what's going on is through my healing sight. It has to know that we can't see anything."
+
+"Oh right, I forgot to tell you — this darkness is totally not natural," Zach said. "It was definitely added to the dungeon later on."
+
+"What?!" he exclaimed. "You could have mentioned that before."
+
+"Sorry, bro."
+
+Thomas exhaled and reminded himself that it really wasn't important right now. Well, it was important, but they had a job to do and couldn't get distracted.
+
+"Alright," Thomas said. "Are you ready?"
+
+Zach readjusted his grip on the katana. "Nope," he said. "Let's do this."
+
+They walked into the room. Almost immediately, one of the Thomases stepped forward. It seemed that this version wasn't just going to stand there to be passively killed like the previous mimics.
+
+"Straight ahead, two steps, then on your nine o'clock," Thomas said tensely.
+
+Zach obeyed his instructions, stepping forward and bringing the sword down in a controlled diagonal sweep that cut the fake Thomas completely in half. It splashed into mimic goo.
+
+Meanwhile, Thomas made a show of backing up until his shoulders hit the nearest wall. "I'm going to call these out from a safe place," Thomas said, probably a little too loudly. "This dungeon boss can't keep spawning these things forever. You probably weakened it with all the ones you killed before."
+
+"Heard," Zach said.
+
+"Great. Three steps forward, then stab directly ahead."
+
+Zach complied, and with a quick twist that for some reason created a breeze, he killed a false Zach mimic in the same way. Thankfully, the false-Zach hadn't tried to fire blast him.
+
+Thomas conveniently didn't mention that the mimics he destroyed were instantly replaced by others. As he directed Zach to kill one after another, Thomas moved to the far left wall and made sure to direct Zach followed a killing path that seemed to randomly take them toward the back left as well.
+
+It was going swimmingly right up to the point where the mimics stopped being quite so passive. They waited until Zach was right in the middle of them.
+
+Then one of the fake Thomases shouted in an exact replica of his voice: "No wait, I'm not fake!" He held up his hands. "Zach, stop!"
+
+Zach visibly twitched and took a half-step back, but his sword strike was already in motion, and it cut across the fake Thomas's throat. The fake Thomas made some truly terrible sputtering sounds as it died.
+
+"That was a fake Thomas," real Thomas called helpfully.
+
+"No wait, I'm not a fake," said another fake Thomas, about eight feet from Zach's right.
+
+"Nope, kill that one," Thomas said.
+
+"No, don't!" the fake Thomas cried, just before Zach's sword swept through him.
+
+Now all the mimics were shifting to resemble Thomases, and they started babbling different directions at the man — some giving him bad advice, while others were straight up begging for their lives. Thomas wasn't quite sure why they weren't fighting back, but he suspected this was a prelude to an actual attack.
+
+The mimic boss probably figured they were good at fighting their way through, which was why they had made it down here in the first place. So it had shifted to trying to burn Zach out. And now, seeing that he was clearly the greater threat of the two, it was attempting to throw him off balance psychologically. Once Zach was on his back foot, the next phase would be a physical attack.
+
+Somehow, Zach was able to push past the noise. He went into a whirlwind, the air whipping around him sharply enough to cause little cuts on the fake Thomases, while his sword extended out to give him space.
+
+Now that Zach could not tell real from fake and had decided to go into attack mode, Thomas moved into a safe corner, one he pretended he didn't know was occupied by the boss.
+
+Give the boss one thing: it was completely dedicated to the shtick of hiding. It didn't so much as twitch as Thomas drew closer, though of course Thomas watched it out of the corner of his eye.
+
+It was an ugly son of a bitch. Basically, it was a big blob standing on about five stick-like feet, with featureless human-shaped heads protruding from its shoulders. His Combat Foresight caught the moment just before the blob opened its middle horizontally to reveal teeth, ready to snap down on Thomas.
+
+So Thomas struck first.
+
+He'd been saving his penknife dagger throughout this dungeon.
+
+It was so small that it was ridiculous, so he didn't blame the mimic for not flinching back as Thomas brought it around and stabbed it deep. He wasn't even sure if it would work himself, but it had killed level one bosses before.
+
+For a second, Thomas saw a horrific ghostly image of future teeth snapping down on top of him. But there was a whistling scream, and that image shifted and fell apart like a breaking mirror. One hit, and the penknife dagger had killed the boss.
+
+He only got a second of warning before an epic amount of goo splashed all over him. "God!" Thomas yelled, disgusted and frustrated. "Why?"
+
+"Uh... Thomas? Real Thomas?" Zach asked.
+
+Thomas looked around and realized all the other mimics were gone. Apparently, they just disappeared when the boss died.
+
+"Yeah, it's me." He lifted his leg with a squelch, grimacing. He was now knee-deep in the stuff. "The real me."
+
+There was a pause.
+
+"How do I know it's the real you?" Zach asked suspiciously.
+
+Thomas squelched again, trying to find the edge of the deep goo puddle. "You just killed like 20 mimics, plus everything else you burned out before this," he snapped, his disgust making him irritated. "Go loot what you can."
+
+"Yep, that's you." Zach lowered his sword, then gazed around blindly. "It would be a lot easier if I could see."
+
+"Yeah, no kidding," Thomas muttered. He had half hoped that the darkness would lift when the boss died. But nope. Also, he suddenly realized they had no way of finding the dungeon's exit door without blindly stumbling around in this giant room in the dark. Ugh, he hated this place.
+
+"Tell me about the darkness," he said. "Someone made the dungeon like this?"
+
+"Yeah. No way this is normal for a level one, and I've heard it's possible to alter dungeons. It's really, really dangerous because doing it the wrong way can make them unstable." Zach made an exploding gesture with his hands. "I heard that some of it was blamed on government testing of bomb sites."
+
+"Yeah, but how do they do it?"
+
+"Usually some high-powered object, I think. Or like a curse?"
+
+"Curses are a thing?"
+
+"When the System is involved, a lot of things are a thing," Zach said wisely.
+
+Thomas had finally sloshed himself free from the boss goo. Unfortunately, he hadn't encountered any loot along the way. It had to be somewhere, but the only thing Thomas's health sight showed was Zach. Finding all the loot in this room was going to take forever.
+
+Thomas straightened, closing his eyes. "Let me try something."
+
+It seemed to him that since he had taken in Adaptation mana — though certainly not as much as Zach — he should be able to adapt his healing sight to other things. It was a stab in the dark, but he had not gone through all this just to walk away from good loot.
+
+He cleared his mind and pushed out with his healing sight... and still saw only Zach.
+
+Well, learning to see mimics hadn't exactly been easy either.
+
+Thomas tried to will himself to see differently, but it was about as easy as trying to see the color blue while staring at a ripe orange. He ended up just pushing his healing sight out more. But then, on the edge of his perception, he felt a flicker.
+
+"There's something here," he said.
+
+Zach turned from where he'd been shuffling around and immediately snapped his sword back up into a ready position. "What?"
+
+"I don't know," Thomas said. "It's in the wall. Right by where the boss had been standing."
+
+Which meant he had to slosh back into the deep goo. Joy.
+
+Zach wandered over and also made a sound of disgust when he stepped into the goo. It had a pudding-like consistency, so it wasn't spreading out across the floor and thinning out very quickly.
+
+Thomas was running his hand over the wall, nudging his health mana aside to show him anything else that was useful. Was this a hidden boss? All he saw was a glowing blob, indistinct — a little like seeing heat through one of those infrared goggles.
+
+And he was starting to get a headache. He suspected he might finally be tapping out the reserves of his health and adaptation mana. There weren't nearly as many free-flowing motes in his body as there had been before. He'd either have to take in another mana crystal of both or wring out his core for more of this stuff. But he thought he had enough for this one last push.
+
+"There's definitely something in here," he said, his hand against the wall. "I don't feel anything, though."
+
+"Hidden mimic, you think?" Zach asked, though he sounded doubtful.
+
+"No idea, but I'm going to kill it and see what happens." With that, Thomas took out his trusty curved dagger. He slashed into the wall, which turned out to be some sort of drywall or equivalent. The blade went right through until it struck something as hard as metal.
+
+Narrowing his eyes, Thomas dragged his dagger downward. If this were a regular knife, there would be no way he could do this so easily through drywall. But his dagger had some magic in it.
+
+The thing behind the wall did not move. He cut and cut again all around it, each time hitting metal. When he'd made a square, he took a breath and said, "If I start screaming, it's probably because something jumped at my face." Then he dug his fingernails in and pried the piece of wall loose.
+
+Whatever was right behind it did not jump for his face.
+
+"You good?" Zach asked after a few seconds.
+
+"So far." He tentatively stuck his hand in, and his fingers met cool metal with some kind of design overlaid on it. Feeling around, he frowned. "There's a box in here. It feels fancy."
+
+He pulled it out through the hole he'd just made. It was about the size of a shoebox but heavy as lead. Thomas's fingers felt around it until he located a catch, then opened it.
+
+Soft light poured out, and they both initially winced away, their eyes having been used to pure darkness.
+
+"Whoa," Zach said, pure Keanu Reeves.
+
+The inside of the box was a clockwork mess of gears and springs and things that looked extremely delicate. Nestled inside the clockwork were two mana stones. One was extremely dark and ominous, and the second emitted a soft, pure white light that seemed to hum to his senses.
+
+Now that he could see, he remembered he could use the system for labels again.
+
+The light stone read: Wellspring Mana.
+
+The dark one read:????
+
+"Oh, super helpful," Thomas muttered.
+
+Thomas held the box out to the certified Old Family expert. "Any idea what this is?"
+
+"No idea. But I think it might be using the mana stones as batteries. Look." Zach poked a finger in, and Thomas saw tiny motes of white energy zipping from the white stone to the black. "I think the Wellspring mana is feeding the question marks." Apparently, Zach's System had told him the same thing.
+
+"What's Wellspring mana?"
+
+"Dunno," said the only expert in the room. "Something definitely not usually found in a level one dungeon. Maybe it's over level five. Mana is supposed to get super obscure in the higher levels." Zach extended his hand over the white crystal, then immediately yanked it back, shaking it out. "Yikes, whatever it is, I'm not compatible at all. Don't even think about touching that dark one. It looks seriously disturbing."
+
+Thomas agreed. Even looking at it, he felt a little sick to his stomach, like he was seeing the insides of a sick, dying animal... one that was contagious. He didn't want that in his body or soul, or particularly near him.
+
+The light one, though, resonated through him with a sense of immediate rightness. This was what he had sensed through the wall.
+
+"The question," Zach continued, "is how they managed to make this box — or whatever it is — continue on through different dungeon instances. This was man-made and definitely something that was placed on purpose."
+
+Thomas shrugged, not really caring about the minutiae of dungeons. "I want that Wellspring mana. It feels like I’m extremely compatible."
+
+"Well, over-leveled crystals are supposed to be good for advancement," Zach said.
+
+That was good enough for Thomas. He reached for the mana crystal but then paused. "It won't blow up if I mess with this, right?"
+
+"Probably not." Zach paused. "Maybe not." Another pause. "Well, it's either this or give it to the National Guard to figure out, and that doesn't seem like a good idea."
+
+"Nope, I want a little bit of this myself."
+
+Thomas placed his fingers over the Wellspring mana, and it felt like his entire body was singing from the tips of his fingers to the tips of his toes.
+
+"Hold on," Zach said quickly. "I'm pretty sure that's some higher-level grade A. You saw what a grade A red did to me, though I was sort of stacking fire on fire on fire, and then lit that fire on fire with more fire. But you get my point. Don't take it all at once."
+
+Thomas nodded. "How do I do this without jellifying the whole thing?"
+
+"You just... open yourself up to it. Allow yourself to be open to the possibilities of what it can provide to you, but only a little." He squeezed his fingers almost together in emphasis.
+
+He didn't know why he asked. Thomas put his hand back in, and instead of concentrating on it and forcing it to absorb, he tried to loosen up a little — but not too much. The crystal responded in kind.
+
+It was like pure lightning going through his veins, except it felt good... except that all of his muscles went tense and rigid. He stiffened up and could not pull away as energy poured into him. He couldn't even breathe.
+
+Zach slapped the box out of his hand. It went clattering across the room.
+
+Freed, Thomas collapsed right on his ass. "Oh wow," he croaked.
+
+"You okay?"
+
+"Yeah." He shook out his arms and stood. "Thanks."
+
+They both glanced at where the box had landed, just in case it was rigged to explode or something. It must have been more durable than it looked because nothing seemed broken.
+
+Thomas looked inward. His body was now flooded with white-gold light, so much that he was surprised his skin wasn't glowing. He knew that he had only taken in a little — like half a sip of mana. It was strong. Some of the motes were already joining with his core and lighting that up too.
+
+Yeah. The Wellspring mana was potent. He wanted more, but definitely not now.
+
+"So the mana is sort of swimming around in my veins. How does it join the core?"
+
+Zach shrugged. "The free-floating stuff will eventually join with your core if it's not used. It usually takes about a day for most people to process it. You can hasten it by meditating, kind of guiding it to stick to the core. Then leveling up is sort of solidifying your gains."
+
+"I had to wring out my core for some energy back there," Thomas said. "You think I damaged myself?"
+
+"No, that's normal. It's kind of the tyranny of leveling up. You gotta use mana to get mana, you know? Unless you're buying it from somebody else. And there are some people who say doing that makes for a weaker core." He shrugged. "But you’re fine."
+
+Well, now that he'd had a sip, he was definitely not leaving it behind.
+
+It sat in the box exactly like a battery, with a little spring for tension holding it in. He dug his fingers underneath and popped it out.
+
+The moment he did, the darkness fled. A late afternoon light broke through all the windows that he hadn't realized had been there before, and Thomas could see everything.
+
+"I guess that’s the darkness trap," Zach said, unnecessarily. "Huh. This place looks way different than I thought."
+
+They were in the middle of what looked like a flat theater room or maybe a secondary ballroom. There was even a stage in the opposite corner that neither of them had noticed or gone to. The walls were blackened with charcoal, and there were many soot marks on the floor, as well as more mimic puddles. Ugh. In the yellowish mid-afternoon light, the puddles looked like urine—but in a lot of them, Thomas saw glittering crystals.
+
+There was also something gray and sickly-looking stuck in the boss goo.
+
+Thomas went over and fished it out. It was a silvery, shimmery cloak that for some reason didn't have goo all over it.
+
+His System tagged it as: Cloak of Visual Stealth.
+
+"Did it drop an invisibility cloak?" Thomas asked. "Am I going to get trademark lawyers on my ass?"
+
+"Put it on," Zach urged.
+
+Thomas set the box down and shrugged on the cloak. It was so oversized that the bottom actually dragged on the ground, and when he flipped the hood over his head, the overly-long edge messed with his vision a little.
+
+"I can still see you," Zach commented. He walked around. "But it's weird. Go stand by that wall."
+
+When Thomas did, Zach nodded. "I know where you're at, and I can still kind of see you if I really concentrate, but it's like my eyes want to slide away."
+
+"All right, a Notice-Me-Not Cloak," Thomas said. "Also useful." He took off the cloak and said, "Now that we can both see, what do you say we clean out this room, then go back and clear any other rooms we missed along the way?"
+
+Zach broke into a smile. He looked haggard, but he was clearly willing to keep going. "I like that. The boss is gone, but the rest of the mimics should still be there. Now that we can see them, it'll be what a normal level one dungeon should be. Maybe we can find my bag too." He paused. "No idea where I left it, though. Everything was kind of a red haze."
+
+Thomas nodded, then glanced back at the thing they had both been avoiding talking about. The dark crystal still stood in the box. Everything in him told him to stay the hell away from that thing.
+
+"Well, what do we do with that? I don't want it in my pack."
+
+"Nah," Zach agreed. "I feel like that might actually corrupt your other crystals. I'm not touching it either. Just leave it," he said at once. "Without this darkness trap working, the dungeon will reabsorb it. It'll do that with anything left behind." He added casually, "That's the way to take care of Earth's pollution problem, by the way."
+
+Thomas was about to say something, then did a double take. "Wait—What?!"
+
+"Yeah, just toss anything you don't need into a dungeon instance and then walk away. Once the last living soul is gone, the instance closes and the dungeon reabsorbs whatever’s left into itself with no waste left over." Zach shrugged as if this was completely normal. "Why do you think so many uber-rich and a lot of governments weren’t worried about jacking up the Earth? Most of them were connected to Old Families in some way, or are Old Families, and knew there was a solution coming."
+
+Thomas paused. "Huh."
+
+Then they turned and got to looting.

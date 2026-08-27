@@ -1,0 +1,207 @@
+---
+id: 220e6b7d-19a0-599e-aaa7-9bb9c85d23ee
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED SIXTY-THREE: Snow V"
+slug: 0265-two-hundred-sixty-three-snow-v
+partOf: super-supportive
+position: 265
+ownLength: 2510
+unit: words
+publishedAt: 2025-12-26
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2880730/two-hundred-sixty-three-snow-v"
+royalRoadId: "2880730"
+---
+
+263
+
+******
+
+Once Alden had committed to doing the thing, he was better able to focus on the why and how of it. If Zeridee wanted him to meet the Grand Senator, then she must want the Grand Senator to like him. And, for some reason, she thought this meeting was more likely than not to play out well.
+
+All right. That tells me a few things. Servin-ith must not be in the “Avowed are existential threats” camp or the “beasts of burden” camp.
+
+Zeridee wouldn’t encourage me to hang out with anyone easily offended or dangerous, like Bash-nor. I have to go into this with the assumption that I’m meeting a kind, important wizard on a fun outing who will be pleased to get to know me.
+
+“Lute, we’re going to go over there and help that hot dog wizard pick out tasty Earth food for the group. And then I’m going to offer to keep everything fresh for them with my skill while they shop.”
+
+“You said that in a strangely inspiring way.” Lute took off his mask, careful not to disturb his balloon. “I feel like I’m following you into battle instead of going to say hello to some lady.”
+
+Alden was glad to have him for backup. “Come on. I know that wizard from Matadero. Or I’ve at least seen him there. He’ll hand over the dogs.”
+
+He was right about that. With Alden’s mask off, the wizard collecting food recognized him immediately, and he was happy to have the knowledgable orchestrator of the Thanksgiving around to recommend orange soda and lemonade.
+
+Lute carried their shopping bags while Alden preserved a stack of hot dog boxes and the drink caddy. The wizard trotted along with them, his brown eyes bright and wide as they approached the quilts.
+
+“Oh, they are hand-stitched! That sign says so,” he said to Alden and Lute. “So warm looking. So nice.”
+
+As they stepped under the tent that made a roof for the booth, Alden realized the quilts were getting more genuine-sounding compliments from all the wizards than the Wrightwork puzzles had. Maybe the Artonans were feeling cold here on Anesidora.
+
+He kept his eyes on Zeridee. She’d moved into position at Bash-nor’s back, which meant she was also right behind the Grand Senator, since Bash-nor hadn’t been more than two inches from the woman since Alden had first spotted them.
+
+Is he her friend, or does he want to be? Or is it just him playing host, since he’s the ambassador here?
+
+Bash-nor didn’t seem as composed and sure of himself as he had the last time they’d met, but Alden wasn’t certain what the exact difference was. He and the senator were currently admiring a stunning quilt in dark rainbow colors.
+
+Zeridee gave me that really beautiful family heirloom-looking quilt to use as a towel when I showed up at the ambassador’s house.
+
+It was a bad time to remember that. Zeridee was a person with some nonstandard ideas. Like rejecting magic even though she’d been a wizard, putting the entire human internet onto individual tablets for evacuees, or brewing multiple kinds of tea while the island went under.
+
+What if I’m one of those ideas right now?
+
+He saw her step forward to speak to the senator. Servin-ith and Bash-nor turned a moment later. Servin-ith looked delighted. Bash-nor looked like he was trying to smile around a mouthful of ants.
+
+Zeridee opened her mouth, but if she was about to make the proper introduction, the wizard with Alden and Lute was a step ahead of her.
+
+“Isn’t this fortunate, Grand Senator?” he said. “This is Alden Ryeh-b’t who you were talking about with the ambassador earlier! I know him from the Thanksgiving. And his companion is a bestower of wordchains. They saw me buying sausages and offered their help.”
+
+Alden bowed, careful with the stack of boxes because what a time this would be to drop his preserved objects. Out of the corner of his eye, he saw Lute’s pig dipping down at the same time.
+
+“I’m sorry I didn’t introduce myself when you were buying puzzle boxes,” Alden said as he rose. “Lute and I were shopping there, too, but we didn’t want to bother you.”
+
+“Well, if you’re <<intruding>> on the Grand Senator’s time now, I’m sure we can overlook—”
+
+“Bash-nor, what are you talking about?” Servin-ith interrupted. “A boy offering to use his skill for our benefit could never be an intrusion. Look, he’s using his magic on our snacks! And if I’m here to meet our Avowed, what better one to spend time with? Hello, Alden. I’m Grand Senator Servin-ith. And Lute, was it? A bestower. For those people. I hope that is going all right for you. It’s good to meet you, too. You boys may call me Servin-ith. I’m so honored to be a guest in your home!”
+
+She had pink eyes and a nose with a delicate blue line tattooed across the bridge. She stepped forward to take a look at the food.
+
+Bash-nor had definitely made an attempt at a dig, but when Alden started explaining the flavor of ketchup and mustard to Servin-ith, he caught a very slight nod from Zeridee. So this must be going the way she wanted so far.
+
+Fortunately, small talk was the only thing that happened for the first few minutes. That gave him time to think more about why he was deliberately courting this woman’s attention. Bash-nor wasn’t throwing a tantrum or anything, but he seemed disgruntled. If he seemed disgruntled to a human who didn’t know him that well, maybe he was very disgruntled. Alden inserting himself here was some kind of negative for the man.
+
+Did Zeridee want me to do this because meeting the senator is good for me in general? Or because it’s bad for Bash-nor? Or because Servin-ith liking me is one more layer of protection from Bash-nor if he ever gets mad at me?
+
+Alden was under the impression, based on what Zeridee had told him previously about the ambassador, that the danger the man presented wasn’t the type that could be completely mitigated by any number of important connections. Alden already had the art’hs, Esh-erdi, and Lind-otta as threatening wizards who’d ask questions if something bad happened to him. But Zeridee had said Bash-nor was prone to pleasurable excesses that impeded his self-control and judgement. People with bad tempers and fragile egos couldn’t be trusted to remember a Grand Senator might get mad at them when they were high on power and party drugs.
+
+What’s it about then? Why doesn’t Zeridee text me?
+
+Maybe she couldn’t. Being able to message humans was part of being an ambassadorial assistant, but because she was working in an official capacity, her System communications could be logged. Bash-nor might be able to access whatever she sent during work hours.
+
+Alden walked along with Servin-ith, holding her food and her lemonade while she bought the rainbow quilt, and he sent his thoughts to Lute since Zeridee seemed to be off the table.
+
+[Listen, the ambassador is petty and vengeful according to other Artonans. I’m not sure why I’m making nice with this senator if it risks annoying him. He’s famous for throwing wild parties. He wishes more Avowed were Rabbits. He’s under the impression that my commendation was some kind of political statement against him by the Quaternary, so he put off telling me about my evac priority and giving me access to my escape flyer. Obviously, he didn’t know we were about to have an evacuation, so he was just being a brat, not trying to kill me or anything. But my evac got complicated and I ended up injured.]
+
+[Also, he’s not a fan of his assistant and vice versa. Mental text me if you notice anything about this alien social dynamic. I assume us being nice to Servin-ith is all that we ought to do, but I’d like to understand exactly why we’re doing it.]
+
+He glanced over to see Lute’s smile stiffen. He looked at Alden. [Fuck?]
+
+[No, it’s fine!] Alden added a smiley face. [I was just giving you background info.]
+
+Based on Lute’s expression, it was going to take him a minute to process that.
+
+Alden had hoped being introduced to Servin-ith would be a brief experience, but as the food disappeared into mouths and his work as a preserver of snacks became less necessary, she didn’t seem inclined to send him or Lute away.
+
+They walked with the wizards down the row of vendors. Bash-nor was still playing the role of guide, and three times so far, he’d directed them all toward Avowed performers and merchants who he knew. Alden wasn’t sure if Servin-ith liked the ambassador or not. She took his advice, but she talked almost exclusively to Alden and Lute.
+
+About their schooling, about their knowledge of the Artonan language, about how dear and darling and precious they were.
+
+She’s so friendly, but whatever we say seems to go through a filter before it reaches her ears.
+
+Alden realized this after he’d answered Servin-ith’s question about what kinds of things he did as a hero program student with a brief description of the obstacle course. He’d thought the obstacle course was better than a description of duels. More wholesome. Like kids playing a game together. But even though he’d made Tuyet darting him in the foot sound like a funny gotcha from one classmate to another—because it was—Servin-ith had started talking about peace on Earth.
+
+Literally.
+
+Peaceful and prosperous lives for all those under Triplanetary rule was a big thing with her.
+
+Alden was in favor of that, but he got the feeling when he said, “My classmate jumped out from under that mat and poked me in the foot with a dart!” Servin-ith heard a baby lamb crying that another baby lamb had come after it with a chainsaw.
+
+“It was a lot of fun,” Alden insisted. “Tuyet put a small bandage on my foot, and it didn’t hurt.”
+
+Servin-ith sighed. “I must believe you if you say so, but I wouldn’t mind if our human Avowed saved such rough training until you were older.”
+
+Wow. It’s going to be a hell of a mess to explain to everyone if I accidentally get the high school hero programs abolished.
+
+“I really love school. Especially MPE.”
+
+At least he now knew for sure that Zeridee had introduced him to a soft audience. Lambs couldn’t be offensive even if they tried.
+
+[Lute: Her weird. Him desperate.]
+
+Alden read Lute’s contribution while Bash-nor recounted a story about how he’d come to know a Water Shaper who was weaving hot chocolate and wevvi into Christmas shapes before filling peoples’ cups.
+
+[Alden: Desperate?]
+
+Lute looked pointedly from Bash-nor to the Shaper.
+
+[Lute: Only say hello to people who like him. Only.]
+
+Alden thought he should probably have let Lute finger text. Mental texting made him look like he was trying to hold back a sneeze.
+
+[Lute: Stories only about how Avowed him.]
+
+[Lute: Like him.]
+
+[Lute: Admire.]
+
+[Lute: Need.]
+
+[Alden: I get it. You’re saying he’s cultivating the senator’s experience, so that she can’t possibly hear anything but praise for him.]
+
+They were skipping past a lot of neat places the Artonans might have enjoyed to beeline for the people Bash-nor had a good relationship with.
+
+[Alden: Do you think Zeridee just wanted me to be here as a physical reminder to the senator that Bash-nor isn’t really nice to humans?]
+
+[Lute: Shrug]
+
+[Lute: What think you?]
+
+The wind tickled Alden’s ears. He thought…he would check the theory.
+
+[Alden: Watch the ambassador’s face for me when I say this.]
+
+“Servin-ith, did you like the lemonade? It reminds me of sermuntha juice.”
+
+Servin-ith looked away from the Water Shaper’s work. “You’re familiar with sermuntha juice? Yes! They are similar. And I liked lemonade. Don’t be unhappy that I’m trying something else now. I want to experience as much of Earth as possible while I’m here.”
+
+“You should taste everything you can!” Alden said brightly. Here we go. I should be able to hit the ‘Bash-nor is bad’ button without sounding like that’s the goal if… “Hot chocolate might be my favorite. I’ve only had sermuntha juice once. It was after I was injured in the flood. Hn’tyon Esh-erdi brought me a glass of it. I think he was trying to comfort me.”
+
+He deliberately used the word for comfort that Kibby used to describe the behavior of Klee-pak’s parents whenever Klee-pak was crying.
+
+[Lute: Fuck!]
+
+Alden cut his eyes toward him. He looked a little shocked.
+
+[Lute: Ambassador face says fuck! No!]
+
+Oh. That’s what he means.
+
+Alden didn’t dare risk a glance at Bash-nor when he was trying to say something about Bash-nor. But Zeridee was over by the wagon, smiling faintly.
+
+Good. I have figured it out. I am here to be a cute child who highlights the fact that Bash-nor spitefully deprived me of my flyer and other safety goodies.
+
+This is not what I was expecting.
+
+Not really the most noble of roles here.
+
+What the heck has made Zeridee shift from “avoid him no matter what” to “be a tiny bit of a menace to him”?
+
+Is this safe?
+
+“I wasn’t going to remind you of that terrible night,” said Servin-ith, holding one hand over her heart. “But I’m grateful to hear you found comfort in a taste of our world. I drank so much sermuntha juice as a student!”
+
+“It was delicious,” said Alden. “And please don’t worry about me. My body is fully healed thanks to Porti-loth. Have you met him? He made me drink a lot of mud. And I’m receiving help from a wonderful mind healer, too. I’m doing very well.”
+
+Bash-nor made a noise. “I’m sure the healer is helping you with your troubles related to a certain wizard’s crimes during your first summoning.”
+
+“Yes,” said Alden, nodding agreeably. “Mostly that. We’ve only talked a little about things like drowning. Servin-ith, have you seen the gingerbread village yet? Lute and I loved it.”
+
+“We did,” said Lute.
+
+[Alden: And everyone working there was a low rank so I bet they’ve never been to Bash-nor’s Apex parties.]
+
+[Lute: You crazy]
+
+Alden wasn’t sure if that was a question or an answer. Zeridee had flinched at the mention of drowning.
+
+[Alden: Hang on. I’m going to send a message to a knight to make sure I’m not crazy. But I think we might be trying to get Bash-nor fired? If this Grand Senator was sent to Earth, it stands to reason she has a say in how Earth gets handled. And he’s the ambassador. So…]
+
+Lute swallowed.
+
+[Alden: Don’t worry. I’m texting Esh-erdi now.]
+
+[Lute: Elf bingo.]
+
+Alden frowned at him.
+
+[Lute: Elf bingo. Play. Can’t meet ambassador friends if chasing elves.]
+
+[Alden: I’ll consider adding that to our arsenal, but I’m not sure I can actually suggest that a Grand Senator play elf bingo with a straight face.]

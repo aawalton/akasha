@@ -1,0 +1,237 @@
+---
+id: baddf637-3366-5b57-be3c-14d37af6a4b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 95: Tunic of the Lone Phoenix"
+slug: 0095-chapter-95-tunic-of-the-lone-phoenix
+partOf: phoenix-ascension-cultivation-litrpg
+position: 95
+ownLength: 2184
+unit: words
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3109749/chapter-95-tunic-of-the-lone-phoenix"
+royalRoadId: "3109749"
+---
+
+“What did you just say?” Chiao Zhen raged as a frail-looking man shuddered. He was on one knee, his face covered and pointed at the ground.
+
+“They’re all dead, sir.”
+
+“I heard you the first time!” He bellowed, making the frail man flinch. “But how, they’re fucking kids!”
+
+“I- I don’t know. After not hearing front hem all night, I went to check up on them in the morning and… It was a massacre, sir.”
+
+“Fucking hell… Was it that woman? Were their corpses burnt?”
+
+“No, they were all slashed or… exploded.”
+
+Then who was it who protected them? Seven! Seven Foundation Establishment assassins are dead!
+
+“Is your organisation that useless?! There is no core formation cultivator in this city, so how could seven of you lose?!” His patience had run thin, and unfortunately, the frail manwass the last one that remained from the original group. He wasn’t fit to fight, but was good at gathering information.
+
+“How am I-” He raised his head, but before he could say anything more, the doors to his estate swung open, inviting in the wind. Accompanying it was a man of tall stature and sharp gaze, whose face was completely covered with black cloth.
+
+“You will not talk to my subordinates like that, Chiao Zhen.” The man said, his calm voice carrying a certain weight.
+
+Chiao Zhen shook in his seat, but didn’t stand up. However, he looked at the man before him with fear and the respect one had to give a Peak Foundation Establishment expert.
+
+“I lost seven good men because of you.” The man said, his next step shaking the walls. “Because you didn’t give us all the information, and because you were careless!” His voice then boomed and shook the earth more so than his steps.
+
+“I agreed to kill two children because of the generous offer, and even that went beyond what I was willing to do. However, you, Chiao Zhen, seem to be tired of living!”
+
+It was then that Chiao Zhen fell to his knees and kowtowed. “Please explain this one’s mistake!”
+
+“You don’t even know it?”
+
+“Eek!”
+
+“Hmph. You said the only danger was that woman, though she isn’t even in Foundation Establishment yet.”
+
+“Impossible! She-”
+
+“Silence. There was another woman, one you didn’t tell us about. Do you know who she was?”
+
+Chiao Zhen shook his head, the fat on his cheeks flabbing about like a pig’s.
+
+“It was Shang Hue.”
+
+“Shang- Shang Hue?!”
+
+“Yes. The daughter of the Crimson Butterfly.”
+
+***
+
+“Hmmm, this is amazing!” Shang Hue all but moaned upon taking a bite from a piece of cake Xing Ya Chen had brought us. I wasn’t particularly interested, but the siblings and Shang Hue each took a piece and enjoyed it while I was looking at the crowd and the items.
+
+Meng Mao hadn’t shown up again, which was a good riddance in my book. I didn’t want to see his face more than I had to. Mainly because he was stronger than me, and also because he pissed me off.
+
+There weren’t any interesting items yet, though. The same old garbage kept appearing again and again, and the people in this village kept bidding for it.
+
+Though I supposed they assumed that the stone I purchased was garbage as well, yet it ended up being a great asset. From up here, I could see everyone’s level, and using my Divinse Sense, I could feel their cultivation base.
+
+As a result,t I deduced that most people in the high tens were at least at the early stage of Foundation Establishment, or even higher, and those in the low tens were at the Qi Condensation stage. As a result, I deduced that levels worked rather strangely for humans. Some that were at the same layer of cultivation had completely different levels. One had level ten, while another had level fifteen.
+
+Figuring out what their level was dedicated to was difficult. Were the stats what affected the level, or how many beasts or other humans they killed? Was there something special about cultivation levels that gave more or less experience?
+
+The only way I gained levels was by killing, so maybe those with higher levels were hunters or something? Regardless, it was hard to say.
+
+I had to say, they were rather weak. There were a few people in the mid-stage of Foundation Establishment, and none at the late stage. Forget peak stage, those seemed to be a myth in this village.
+
+Between the lackluster items and the weak cultivators, I was bored. Luckily, there were a few cures to boredom. One, cultivating, and two, fighting.
+
+And honestly? I was about done with cultivating. But it wasn’t the right time, not yet. Shu Wao Tu wanted to get revenge with his own two hands, but that didn’t mean I couldn’t visit that guy, right?
+
+Or rather, Shu Lao would.
+
+I had to be ready for any guards he might have, though. Since he could afford that many assassins, that meant that there were more to come. Them guarding him would not be out of the question either.
+
+Whatever the case, I had to make sure to send him a message, and my lightning sword agreed with me, I was pretty sure.Ensure your favorite authors get the support they deserve. Read this novel on the original website.
+
+There was just one small issue I was worried about.
+
+Details
+
+[Name: Fa Xiaolan]
+
+[Race: Phoenix]
+
+[Class: Elemental Phoenix Heir]
+
+[Level: 21]
+
+[Hit Points: 3891]
+
+[Equipped Titles: None]
+
+[Bloodlines: Phoenix]
+
+[Cultivation: Qi Condensation: VII]
+
+[Beast Core: Dormant Core I]
+
+[Qi: 6029]
+
+I was still only at the Seventh Layer of Qi Condensation, and my Beast Core was still that stage called ‘Dormant’, whatever that meant. Not to mention, I had to unequip my title just in case I would smite fear into these children.
+
+There was a simple way to increase my cultivation— cultivate. Yeah, no shit. But besides that, I could just consume Qi Condensation pills until I suffered from pill poisoning. Between the two, I wasn’t sure which one was better. However, what I knew for sure was that I was not going to face Chiao Zhen without being at my peak state.
+
+With that said, I had neither of those pills on me. Then again, I was in the Myriad Market, and the manager of the Pill Pavilion just so happened to be my guide.
+
+I turned to look at him, blinking slowly as I approached him. He was sitting down at a high table, in a high chair, eating cake. Poor guy almost choked when I leaned over the table.
+
+“What- What is it?”
+
+“Can you grab a few things for me and put them on my tab?”
+
+“What… What things?” Xing Ya Chen finally managed to swallow the bite he had in his mouth and waited for me eagerly. I didn’t have any brush and ink on me, but as a cultivator, he should be able to remember everything.
+
+“Oh, not much. I just want a bottle of Qi Condensation Pills and a few Beast Cores. The higher the rarity, the better.”
+
+“That… that’s it?”
+
+“Yeah, I’m not that picky.”
+
+“I can do that, yeah. Anything else?”
+
+“I’ll tell you when you come back.”
+
+With that, he got off the chair and walked out of the room, leaving the four of us alone. I took a seat on a rather comfy-looking couch and waited, trying to ignore the stares of the other three.
+
+However, after five minutes, it became a little unbearable.
+
+“What is it, Shang Hue?” I asked the primary suspect, turning to her with a stern expression.
+
+“That guy is head over heels for you.”
+
+If I had any drink to spit out, I probably would have upon hearing such a bizarre statement. “What are you talking about?”
+
+“It’s obvious, just look at him, he couldn’t even hear his words. It was rather cute, actually.”
+
+“What? No, he was just nervous because I-” I was about to say because I had more wealth than the entire village combined, but I held my tongue.
+
+“Hm? Because what? See, even you can’t come up with a proper excuse. Just accept it.”
+
+I wasn’t about to believe her words, and even if I did, I wasn’t interested in a kid like him. Not to mention I was a Phoenix… so that wouldn’t have worked out anyway.
+
+I could only roll my eyes and stopped paying any attention to her, looking toward the crowd of ignorants down there.
+
+Switching to the items they were bidding for, I couldn’t help but take an interest in it after seeing its name.
+
+[Tunic of the Lone Cultivator(Locked)]
+
+What does ‘Locked’ mean?
+
+My curiosity got the best of me, and after hearing the price they were bidding with, I raised it by a hundred Spirit Stones, and nobody contested me afterwards.
+
+Coincidence made it so Xing Ya Chen arrived at the same time as the item, his expression a little baffled upon seeing what I’d purchased. However, what I did with my own money wasn’t for him to be curious about.
+
+I grabbed the pills, a small bag of holding, and the tunic, inspecting the latter first.
+
+[Tunic of the Lone Cultivator(Locked) - Rarity Locked]
+
+[A tunic crafted and worn by a certain cultivator on his path to glory. Legends say that he used it until the day he ascended to Godhood, and remnants of his Divine Essence sprinkled onto his clothes.]
+
+[Set effects: Locked]
+
+[Set Effects: 1/4 - Grants the wearer 100 Strength]
+
+[Set Effects: 2/4 - Grants the wearer 50 Dexterity]
+
+[Set Effects: 3/4 - Grants the wearer the passive skill : [One Who Walks Alone]]
+
+[Set Effects: 4/4 - Amplifies all stats by 10%]
+
+[One Who Walks Alone(Passive)]
+
+[When the wearer is alone and not in a party, increase their Qi regeneration by 25% and grant them +5 to all stats.]
+
+Holy whoever created this…
+
+I wasn’t sure if I was even reading it right. Just the tunic alone would give me 100 Strength? How insane was that? But since it’s a set, did that mean that there were three other items in the same… family? Whatever that was called.
+
+Where would I even find them? How did they even find this one?
+
+“Xing Ya Chen, I didn’t pay attention to the description of the tunic, but what is this?”
+
+“Oh… That is…”
+
+“That’s a tunic owned by an old emperor who left this world ages ago. It passed on from warrior to warrior, I guess, until it made its way here. It doesn’t have any worth in and of itself, just more of a historical piece.” Shang Hue explained way faster than Xing Ya Chen processed the question.
+
+“I see, that’s all?”
+
+“Yeah.” Shang Hue said light-heartedly, still eating that damned cake. “Why did you even buy it if you didn’t know what it was?”
+
+“I thought it looked interesting, that’s all.” I shrugged and retired back into my thoughts.
+
+Since everyone assumed this was nothing but worthless trash, and I would have had as well, were it not for the very useful Appraisal Skill telling me exactly what it was. To put it simply, I hit the jackpot.
+
+However, I was a little stumped by its name. What did ‘Locked’ mean, and what was this ‘Rarity Locked’ thing as well?
+
+[To answer your question, Locked means that it cannot be equipped unless awoken and bound. Its locked rarity indicated that the item’s original nature has changed and evolved past what it was.]
+
+Why did I not hear of this until now? And I thought you stopped with this mind-reading shit.
+
+[It was not relevant.]
+
+Are you deflecting me?
+
+[Irrelevant.]
+
+Fine, then I was going to ignore it as well!
+
+But the information it gave me was really useful. Did that mean that all I had to do was ‘Awaken’ it? Or rather, unlock it? Whatever the case was, I had to find out the method.
+
+Would infusing Qi into it be enough?
+
+I didn’t stand on ceremony and immediately tried it. Nothing happened at first, but if I knew anything about treasures was that they weren’t easy to get to like you.
+
+Insisting, I poured even more Qi into it, much to the surprise of the people watching me. I wouldn’t shy away from it, since they could not even see what I saw. Not even other Spirit Beasts could, unless they also did what I did with the appraisal stone.
+
+They would feel a certain change when it did awaken, but nothing more.
+
+However, no matter how much Qi I poured into it, it refused to wake up. Naturally, I decided that the most natural course of action was to give it some of my essence; that way, it would bond to me as soon as it did awaken.
+
+And just as I expected—
+
+[Tunic of the Lone Cultivator(Locked) - Rarity Locked] has been awakened!]
+
+[Tunic of the Lone Cultivator(Locked) - Rarity Locked] has become [Tunic of the Lone Phoenix - Epic] due to associated user input.]

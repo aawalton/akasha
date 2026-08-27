@@ -1,0 +1,379 @@
+---
+id: d6445329-fc27-53a3-8dee-ad504a1ab828
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 357"
+slug: 0055-the-path-of-ascension-chapter-357
+partOf: the-path-of-ascension
+position: 55
+ownLength: 5840
+unit: words
+ownProgress: 5840
+publishedAt: 2024-10-11
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1845738/the-path-of-ascension-chapter-357"
+royalRoadId: "1845738"
+markedReadAt: "2026-06-29T19:19:27.910Z"
+---
+
+Chapter 357
+
+Demarcus Jackson, professor of ancient world histories at Ciliradi Provence University, was not crazy. All of his past students probably assumed he was, many of his colleagues surely thought he was, most of his ex-girlfriends probably suspected he was, and some of his friends were sure that he was. But he wasn’t.
+
+He just wasn’t blind.
+
+At worst, he was passionate.
+
+As a 32 years old tenured professor, he had proven he was intelligent beyond his peers, but instead of recognizing his brilliance and trusting that his more eccentric theories held weight, his colleagues and the dean just kept trying to refocus him.
+
+Demarcus wasn’t crazy, but he also wasn't stupid. Which is why he had allowed them to herd him into the more traditional academic path, until he decoded the Talfuna hidden language used by their ancient upper echelons and earned his tenure.
+
+With his tenure secure, he had thought, had hoped, they would give him a little more leeway to explore the obvious gaps and flaws in their people’s, their world’s histories.
+
+… and explore the alien artifacts they had sitting in museums.
+
+Demarcus understood that Soerilia wasn’t ready to accept that there were aliens watching over them, guiding and protecting them. But sticking one's head under the pillow didn’t stop the monster under the bed from nibbling on one's toes. Still, he had expected better of his academic fellows after he proved his intellect. Even if they didn’t believe him, they should have trusted him and given him at least nominal assistance.
+
+Maybe his office was a little messy and he hadn’t shaved in a few days. Weeks, maybe. But it was summer, and there weren’t any students so he was elbow deep in clay.
+
+Whipping the sweat off his head and leaving a healthy smear of clay in its place, he looked at his project and studied it.
+
+The configuration before him had been seen in dozens of cultures spread far across Soerilia before natural disasters culminating in a debilitating global winter had killed most of the planet's ecological life, including most human life. All but those that lived near Arilanding and its active volcano, who had been able to huddle in its warm, nitrogen rich soil for close to a hundred years before Soerilia started to warm itself back up.
+
+But in the remains of the past, archaeologists had found things that made no sense.
+
+Configurations of strange symbols that held great importance to the local cultures. Local cultures that should have had no contact with each other but had striking similarities to each other that shouldn’t have been possible with their tech levels. Unless there had been something, or someone with technology greater than their ancestors had.
+
+Demarcus knew aliens of great power lingering and watching their ancestors wasn’t a comforting thought, but what else made sense?
+
+It was the only answer that didn’t leave more questions, but his colleagues couldn’t see that.
+
+So, Demarcus went looking and he found things. Oddities that were seemingly unexplainable. How many cultures could independently create the same arrangement of stone or metal slabs that had nigh identical characters on them?
+
+That made no sense, but because each culture's remains only seemed to have a part of the greater whole, people dismissed it as some form of carcinisation. Crabs were awesome, but he was pretty sure the aliens were more lizard-like based on some clues he and others had found.
+
+Demarcus had tried to get university approval for this test, but they insisted that using so many radioactives in a test was irresponsible and dangerous.
+
+Which it was. Dangerous, not irresponsible. He had protective layers ready for when he was prepped to lay the iridium wires out. And to limit the dangers, he had even hiked out to the middle of the woods with nearly a ton of building supplies to perform his tests.
+
+Once he had proof this array of stones, once properly powered, was able to communicate with aliens, the university would be more than happy to fund a better experiment. But he needed a proof of concept.
+
+Originally, he had thought that the summer would be more than enough time, but he had underestimated just how hard this would be. Before he had trekked out here, he had recreated the known parts of the array with concrete and hoped that using clay in the rest would make iterating the design easy. But he had underestimated just how convoluted the aliens’ system of writing was.
+
+Or how it was powered.
+
+He still had no idea how they managed that, but from all the examples the archaeologist had found, these arrays were self-contained and seemingly self-sustaining.
+
+Personally, he thought they might harvest momentum from the rotation of the planet or the like, but that was pure speculation.
+
+It was, however, why he was going to use iridium for the wiring. The energy rich metal might be enough to make up for any shortfalls in the recorded evidence.
+
+Carefully washing and drying his hands, he flipped through his notebook and compared the array to what he had speculated in his drawings.
+
+Seeing things in person, he found that a few of the strange word characters seemed wrong. He couldn't put his finger on it, but his gut told him that what he had filled in wasn’t correct.
+
+Using the long stick he had carefully placed next to him, he delicately smoothed the clay and changed the shape.
+
+That small adjustment seemed to change the cohesive whole, and he had to make a few more tweaks to other parts of the arrangement until he felt things were more cohesive. It was speculation based on a tiny amount of information, but Demarcus was good at making inferences. It was just how his mind worked.
+
+That, and the fact that this was his third attempt and the summer was nearing its end, so he needed to get a move on. He simply couldn't worry about small imperfections anymore. The nights were starting to get cold, even with the blankets he had brought out here, which meant this was going to be his last attempt, no matter success or failure. And with how long the clean up procedures took, he was already going to be cutting it close.
+
+After another round of inspections and modifications, Demarcus donned his heavy lead suit and started spooling out the iridium wire.
+
+It took nine hours to carefully lay the brittle metal out, and he was drenched in sweat even as the sun was setting and frost was already forming around the edges of his boot prints.
+
+Just as the last of the sun's rays were dancing along the horizon and Demarcus laid out the final piece of wire, a flash of light appeared that rivaled the sun in midday.
+
+Demarcus ripped his helmet off and jumped into the air.
+
+He had done it!
+
+***
+
+Al'ta was filing a report on the continuing progress one of the smaller nations was making, or rather not making, towards meeting the benchmarks set by the integration plan when the planetary AI sent an alert. It was picking up some unexpected mana fluctuations outside a city a few countries away.
+
+Al’ta groaned.
+
+The place the AI was pointing at had no official magic usage, which meant one of three things. First, and definitely the most likely these days was that someone had smuggled some Empire gear home and was now playing around with it. Second was that a delver had decided to mess around with their magic in an unapproved way. Or third, and definitely the most inconvenient, was that a rift was forming.
+
+Well, there was nothing to it.
+
+She tried stretching her spiritual perception out to get an initial look, but long-range sensing had never been one of her strengths, and she didn’t get anything for the attempt. Instead, she physically got up, logging her investigation as such, and flew to the area the AI had reported on.
+
+It was, apparently, just one guy.
+
+While he was frozen in time from her perspective, it was fairly apparent that he was jumping wildly for joy outside of a tiny cabin, looking at a crude metal-and-clay formation on a picnic table that was on proper inspection, obviously the cause of her alert.
+
+Her AI, after eating an annoying amount of mana for the calculation, identified the man as one Professor Demarcus Jackson, an anthropological professor in the employ of a local university. He had a reputation among his students as being eccentric but brilliant, and his coworkers thought of him as unreliable and possibly manic, far too enamored with fringe theories for a member of academia.
+
+All in all, he was not the sort of person that Al’ta would have expected to be able to make a crude runic array, yet here he was. For some reason, he’d chosen iridium as his metal of choice, and the formation was suffering for it, the incredibly non-ductile metal never meant to be literally bent so far out of shape.
+
+But for her incredulity, the man had successfully created a magical formation with very basic tools, and if the innumerable diagrams and pictures strewn about were any indication, simple archeological records interspersed with a number of what could be generously described as ‘magazines for the paranoid.’
+
+Really now, reptilian bloodlines were no more deceptive than any other. That was just being racist.
+
+Regardless, she had a job to do. She cast [Consult Documentation], making sure she approached this situation in the right way.
+
+As part of its founding as a Veil world, Soerellia had a full charter written up regarding what exactly the purpose of the Veil was, appropriate interference for the Republic, and most relevantly for the moment, what constituted a parting of the Veil.
+
+For Soerellia in particular, knowledge of mana was considered past the Veil, and anyone who discovered mana was, in pursuant to Subsection 83, Clause G an official Veil Parter, and thereby supposed to be brought past the Veil and given full information regarding the nature of the Veil, the Republic, and to be sponsored via an awakening.
+
+There was more information regarding what should happen if someone discovered mana scientifically, accidentally creating a device that incidentally created or used mana, and how to correspond with the inventor to create a new way in which subsequent individuals could uncover mana. But that didn’t apply here.
+
+It was part of the Republic’s whole ‘test’ thing for getting past the Veil, which Al’ta personally found a bit silly. Most means for parting the Veil had absolutely nothing to do with one’s comfort with and capacity for violence, which was really the only thing that mattered to a delver. But it wasn’t her job to argue for or against the system. What mattered now was that one of the seeds the Republic had planted had come to fruition, and now she had a far too enthusiastic man who had put together a working Daedalus Formation and consequently discovered the existence of mana.
+
+It left her in a bit of an awkward position. Most of the normal ingresses for the Veil had been redirected and repurposed during the Empire integration, the active holes having been discontinued, and most people likely to discover the truth of the were Veil already brought past it. But they hadn’t gone through and closed every way one could part the Veil. This particular route, following instructions embedded deep within the planet’s history as a way to create a functioning rune array with literally any level of tools, was emblematic of that.
+
+Except now she had to deal with the consequences of that.
+
+With a sigh, she sent a report to her boss. If what she heard on the grapevine about the Duke and Duchess looking for people to sponsor was true, the message would probably be forwarded to them.
+
+Slowing her perception down to unawakened levels again, the man finally finished his leap of joy and immediately started enthusiastically talking about aliens and how he knew he was right the moment he saw her.
+
+This was going to be a long conversation.
+
+***
+
+Yosef took a deep breath and exhaled.
+
+He felt odd.
+
+Or he felt amazing actually.
+
+He was pushing fifty years old, but he looked younger than when he was awakened just ten years ago.
+
+He also felt better than any fifty year old had any right to.
+
+He was not only feeling younger, he was stronger than any unawakened by what felt like a mile. He could run faster than even the best athletes without breaking a sweat, and his personal records in the gym would blow the old world records out of the water.
+
+Even after leaving the military two years ago and joining the new settlement on the other side of the Palatine mountain range, Gates Rest, he was feeling good.
+
+From his time in the military and the incursions they had made into the continent, he had reached Tier 2, but had chosen to leave when his extended contract was up to be closer to the Tier 3 rifts. They were the only thing that noticeably advanced his magic powers, his cultivation, if he were to use the term, being bandied around at any reasonable speed.
+
+As he and everyone advanced, they quickly noticed that the weaker monster's essence felt airy and light compared to monsters at their level or stronger, and few willingly took it in if they could help it.
+
+No, this awakening business was undeniably good.
+
+What wasn’t so good was his memory issues since reaching Tier 4.
+
+He wasn’t losing any old memories, fortunately, but there were times when… when nothing seemed to stick. It felt like he’d lose a full day in the blink of an eye at times, or he might come back to himself after a fight with no recollection of the fight itself. According to the people around him, he was anything but incompetent during his amnesiac times, but the amount of time he was losing to it was worrying.
+
+He had in fact had a doctor— a magical one even, which had cost him an arm and a leg— perform both a magical scan and a mundane scan on his brain just to make sure he wasn't having mental issues. Except, they had found nothing, and there had been no abnormalities on each of the scans.
+
+Despite the results, Yosef just couldn’t shake the feeling that something was… wrong.
+
+It was getting worse, too. These days, he could hardly even let his mind wander without losing some time, whether just a few minutes or full hours.
+
+As a former professional soldier and now professional monster fighter, his mind was his greatest asset, which was he had started taking a more reserved approach to this magic stuff. The last thing he wanted was to be in battle with a group of monsters and have one of those memory fluctuations. Even weaker monsters could still kill you if you weren’t careful.
+
+Yosef instead had taken up meditating. It wasn’t perfect, and he’d sometimes lose all memory of the meditation itself, but he tried to cling to what tiny scraps of control he could muster.
+
+It also helped with the other odd mental thing. The one that felt more benign. The strange feeling of connection to…something.
+
+He had had those feelings since he first got the magic powers, and had assumed they were just a part of the larger package of magic. But when he talked to his men and others awakened, he had found none of them felt that.
+
+Erring on the side of caution, he decided to keep that oddity to himself going forward, and made sure to keep an ear out for anyone feeling anything similar. But he had never heard even a rumor of it.
+
+Armed with a glass of whisky, he sat on his balcony and watched the stars start to appear in the night sky.
+
+It was beautiful. Stunning really.
+
+The night sky seemed full of possibilities if one could just reach out and grasp it.
+
+When had his life become so chaotic? It seemed like he was bouncing around from place to place, swirling and crashing unexpectedly on monsters, on politicians, on magic.
+
+What the hell had happened to his home? What was he supposed to do? Was there anything he could do? He felt like the entire planet was just a speck of dust, caught in the immense turbulence of something so much larger, and he was nothing but dust compared to that.
+
+What was there to do, beyond putting one foot in front of the next, always moving with the currents and hoping it all turned out alright?
+
+Yosef swirled his drink, feeling the liquid inside sloshing around. What did it think of all this?
+
+Well, the answer was nothing. Fluids didn’t feel anything. They just acted. He of all people knew that. Yet here he was, his life practically fluid itself as it flowed from one place to another.
+
+Maybe if he thought that hard enough, he’d figure out what was up with his own life. Maybe then he’d understand. Maybe then he could see his own future, the way he could sort-of-kinda see the future of fluids near him.
+
+A deep part of himself swirled to the surface, some half-forgotten feeling arising as he stared at the stars.
+
+None of this made sense. He didn’t know what would happen next, and he never could. He’d never be ready for anything ever again, but maybe that was alright.
+
+So what, if his memory was getting worse? So what, if godlike people were taking over the planet? So what? He could adapt, he could survive.
+
+What did his opinions matter, compared to the overwhelming momentum and turbulence of life? Most of his life had been in the military, and even at the best of times, there were always orders to be followed, missions to complete, tasks to be done. This wasn’t really that different to parachuting blind into enemy territory, when it came down to it.
+
+An image of himself being swept along on currents beyond all comprehension, being pushed along pipes that other people made for him and crashing through rapids came to mind, more vivid than anything he’d ever imagined before, and he couldn’t help but chuckle.
+
+Life may have been chaos, flying blind into the unknown, no way of knowing what was next or even what came before… But hey, what did that matter?
+
+He just needed to go with the flow.
+
+Yosef’s entire body shuddered as his spirit contracted, like someone had just thrown a bucket of ice water on it. Around him, his sight and senses sharpened, connecting him to everything around him more.
+
+Within his spirit, Yosef felt essence pour in, revitalizing him and energizing him in a way he’d never experienced before. It was like the world itself agreed with him and was rewarding him for the insight.
+
+He fell backwards, overwhelmed by the sensation, but when he finally became of anything beyond his own existence again, he felt profoundly more.
+
+He’d gone up another Tier, that much was certain. But he also felt more whole in some way he didn’t have the right words to express. His essence cores had merged into a unified whole, a perfectly polished spiritual mass that put his prior cultivation to shame. He hadn’t even realized how poorly he had been doing it, until he saw what it had become.
+
+He stood up, his body responding so quickly and fluidly that he knocked his whiskey glass careening off the balcony and down to the ground below. Yosef moved to the balcony, and while he could predict and intuitively feel exactly the way his former drink would splash out of its cup and shower onto the dozen or so gawkers on the ground, there was nothing he could do to stop it.
+
+Except, suddenly, there was.
+
+Something drained out of him, and the glass of whiskey un-fell. The misty drops pulled themselves out of the air, refilled the glass, and then pulled the glass alongside it back up, in defiance of gravity and back to the balcony Yosef was on.
+
+Before they reached the spot where his hand had been but was no longer, Yosef snatched it out of the air and took a large swig of the liquor.
+
+He felt light headed and rubbed his temple, even as people called out for explanations of what skill he had been using and how they hadn’t felt any mana being used, or how he had caused so much essence to flow into him. And most importantly, how they could do the same.
+
+Before he could even contemplate how to explain to them what he himself didn’t fully understand, a woman appeared next to him.
+
+She was a little young but very attractive, which set Yosef’s internal warning bells ringing.
+
+He also noticed that her sudden appearance didn’t set off any fluctuations in the air. The air around her flowed as if she wasn’t even there, completely invisible to his Talent.
+
+It took another moment, but he also picked on the fact that none of the dozen people still asking him questions seemed to notice her.
+
+“Congratulations, Captain Yilik. My name is Administrator Al’ta, and I’m sure you have many, many questions regarding what just happened. The simple explanation is that you had an inspiration, enabling you to develop a Concept. I must request that you do not explain too much about what you’ve experienced, as such knowledge can be detrimental to the development of power. Your recent memory issues, for example, were directly caused by your nascent Concept.”
+
+Yosef mulled over those words for a moment before agreeing.
+
+Not entirely sure what to say, he turned to the crowd and said. “It was nothing. Don’t worry about it.”
+
+They didn’t take that alone as an answer- apparently there had been something of a lightshow while he was out- but he eventually managed to persuade people that it was just a breakthrough of his powers. Which, if he understood the mysterious lady correctly, had the benefit of being basically true?
+
+Once he got free, he went inside alongside the Administrator to learn more about… everything. She was very accommodating for what he felt like were very basic questions, telling that getting an inspiration at ‘such a young age’ - a phrase that deeply shook him - was very impressive, and that his Concept was the first step on a lifelong pursuit of excellence, but that with one, he had the potential to become an immortal.
+
+Like her.
+
+Administrator Al’ta was an immortal liaison for an entire Empire of what were basically omnipotent and immortal cultivators, that they had been the ones responsible for the new influx of magic, the ones who had been responsible for giving him his Talent, and general political upheaval going on.
+
+It was, Yosef supposed, nice to finally get an answer to who the mysterious ‘they’ were. He knew that magic had come from somewhere, sure, but he’d never given it that much thought.
+
+He just went with the flow.
+
+More interesting still was that one of the leaders of this world was going to be coming to the world in the next few weeks and was interested in sponsoring people to leave the planet, and with his Inspiration and Concept formation, he was an ideal candidate.
+
+He wasn’t too interested until the woman said they had worlds stronger than this one where he could advance further.
+
+Advance until he reached immortality.
+
+It had only been an idle dream before, but the woman said it was possible for him to make it that far with the aptitude he had shown.
+
+Yosef was no idealistic teen ready to sign on the dotted line any more, but he was willing to hear this woman's boss out.
+
+He spent the next few weeks fending off questions about what he had done, but it wasn’t too bad, all things told. Mostly, it was others who were trying to get an edge of their own. There had been a video of him reversing the glass of whisky and it had spread like wildfire, but there was nothing he could do about that.
+
+He didn’t entirely trust the woman, but he instantly understood that pushing through those mental barriers could have been risky, so he kept his mouth mostly shut.
+
+One thought kept whispering through his mind. As a Tier 5, his lifespan had reached around 180 years, but if he could reach Tier 7, just two higher, that outright doubled. 360 years.
+
+Tier 15 for true immortality.
+
+It didn’t seem easy, but it seemed possible. From the first four Tiers he had fought through, he understood the escalating amount of essence one needed to advance. But if it had taken him ten years to go from Tier 1 to Tier 4, he figured he could manage the rest.
+
+Before too long, he had a message delivered to his personal phone from a number he didn’t know that told him to get ready if he wanted to leave, and where to meet the person who could take him off Soerilia.
+
+Yosef had expected a lot of things, but he hadn’t expected an academic to be waiting with him.
+
+Together, they ended up cooling their heels until the man started talking about aliens and Yosef tuned him out. If this was the type of people they were recruiting, his interest was dwindling. Rapidly.
+
+Thankfully before too long, half an hour at most, a woman like he had never seen walked in.
+
+She was… stunning, and much like the Administrator, far too young for the confidence she carried herself with. But what really took him aback was the golden hawk-monster on her shoulder.
+
+That took Yosef aback even more than her pale, almost golden skin or the flame red hair.
+
+Who the fuck walked around with a monster on their shoulder?
+
+For that was all it could be. Yosef had fought enough monsters in the wilderness or in rifts in the decade to know a monster when he saw one.
+
+He pulled out a pistol he always kept with him and kept it trained on the bird, ready to unload before he turned and ran.
+
+The woman’s only response was a quirk of her lips in amusement. “You must be Yosef. My name is Elizabeth Moore, but you can call me Liz. I—”
+
+She was interrupted by the academic. “You are the aliens! I have wanted to meet you for so long. I—”
+
+When the man took a breath, the woman spoke. “Professor Demarcus, I will be more than happy to address your concerns in a few moments. Yosef here however is a little stressed it seems.”
+
+It was only then that the professor noticed the gun and stumbled back to get clear of the line of sight. Not that Yosef would miss, but it was a good move.
+
+Yosef didn’t let his weapon waver. “That's a monster.”
+
+“Not quite, but I can dismiss it if you would like.”
+
+That implied a level of control Yosef wasn’t sure believed. There had been a dozen attempts to tame the monsters, but they seemed completely immune to domestication.
+
+He must have taken too long considering things, because the bird simply burst into golden flames with a low rumble of thunder, immolating it utterly. The fire then pulled itself into the woman’s shoulder, vanishing in the blink of an eye.
+
+Yosef pulled the trigger.
+
+The quirk of the woman’s lips became a full smile, and the bullet stopped in the air an inch from her face, still spinning from the rifling
+
+“I—”
+
+Yosef pulled the trigger eleven more times, but instead of the bullet just stopping mid air, they just vanished, and the woman casually tossed the perfectly intact bullets onto a nearby table.
+
+“Mr. Yilik. While I appreciate the enthusiasm, this will be much faster if we can speak like civilized people. I am Tier 26, and I can assure you that nothing you can do could ever harm me.”
+
+Yosef wasn’t entirely sure of the scaling of Tiers, but extrapolating the difference between himself and a Tier 1 all the way to Tier 26, he nodded slowly.
+
+“What about the monster?”
+
+The woman gave the impression of a chuckle, “To simplify things, we’ll call it a summoned creature. They’re something of a speciality of mine. In fact, I may as well do something similar to speed this up even further.”
+
+The woman stepped in two directions at once, and suddenly there were two of her, identical in every way. Even the bird was back on each of their shoulders, and Yosef got the impression it was being smug at him.
+
+The woman further from Yosef and closer to the crazy professor waved her hand, and a wall appeared, cutting off half of the room and leaving Yosef alone with Liz and her bird.
+
+“Now we can continue at twice the speed.”
+
+A table and chairs appeared in what was left of the bisected room. “Take a seat and let me explain the offer. My husband and I can offer you a place in a guild on the next world over. They have several places on several worlds. Gavle’s Good Guilders recently promoted itself to a Tier 15 guild and is quite respectable. You also don’t need to have an answer immediately. We are willing to let you come over to Lily and see more of the Empire, and we’ll even pay for your return to Soerilia if you want. I’m also happy to answer any questions you have.”
+
+“Why me?” Yosef felt it was an obvious but important question.
+
+“Your inspiration and creation of a Concept without help is fairly impressive. Impressive enough that neither me nor my husband are willing to just let you linger on a world too small to contain you without at least making the offer. While Soerilia should be more aware of the greater Empire in about five years, it’s well behind schedule, and is more likely to be twenty to thirty years before it’s properly integrated, with full access to proper resources. Waiting that long for a mortal like yourself would be inopportune, for reasons I’m sure you don’t need explained to you.”
+
+“So I’m rare?”
+
+“That depends on your scale. Creating your Concept at Tier 4 is impressive, but not particularly rare. Developing one through an inspiration, practically blind? Substantially more impressive, though there are undoubtedly hundreds more throughout the Empire who have done much the same this very year. That still puts you as quite the rare talent, and leaving you to languish on Soerilia would be doing you a disservice.”
+
+Yosef was sure there were dozens of things he didn’t understand, but the comment about languishing clicked with him. If he lost his momentum, it would be hard to get started again.
+
+If he truly wanted immortality, he needed to grasp this opportunity with both hands.
+
+“And I can come back?”
+
+Liz nodded. “There is a teleporter between worlds that you can take. Think of it like a monthly train.”
+
+Yosef let his mind race before focusing on a question that had been bugging him. “I can’t feel you in my spiritual sense, or… any other way. Why is that?”
+
+Liz smiled, and the bird laughed at him, its wings fluttering. “Or with your Talent, perhaps? I’m Tier 26, Mr. Yosef. I’m certainly capable of concealing my spirit from casual onlookers, and it’s a skill you would do well to learn yourself.”
+
+Yosef understood that he had been one of the forerunners of the world, and he hadn’t encountered too many people stronger than himself. He also understood the temptation dangled in front of him.
+
+“So long as I can return, I’m willing to take a look.”
+
+The woman stood. “Good. Let's get going then.”
+
+“The other guy is already done talking?”
+
+The woman laughed. “Not even close, but he’s ready to see another world.”
+
+It was the fastest fifteen minutes of his life, but Yosef had a bag of his belongings and a few boxes of ammunition tucked under an arm as he stood on a swirling plate.
+
+One bout of dizziness later, he was standing on a new world, and he could, from his first breath, feel that this world was stronger than Soerilia but weaker than his current self.
+
+They set him up in a hotel and gave him a phone that was able to translate for him, which let him explore the city around him.
+
+Magic. Magic was everywhere and everyone had it to greater or lesser degrees. He tried not to gawk too hard at the flying cars or levitating trains or soaring architecture and flying lights, but he got the distinct sense that he failed.
+
+Yosef wondered if Soerilia would be like this in another decade, and he couldn’t help but be excited to see what his people could do with such power and resources.
+
+The next morning, just after his breakfast of new and interesting foods, he met with the guild representatives. They had to talk using the phone thing as a translator, but they managed to talk about the guild and what it could offer him.
+
+The contract was surprisingly easy to read for what it was, though he quickly learned that there were lots of layers of nuance he would never have the chance to understand. Part of it was the language barrier, as it had been translated into his native language from ‘Empire Common,’ but he could fairly easily select individual words, sentences, or clauses to get additional context and definitions which helped. Thankfully it didn’t seem too bad? He was being sponsored, which meant there was fairly little in the way of personal demands. He was expected to help the guild ‘in a suitable manner’ as a Tier 5, but in return, he would be provided ‘adequate opportunity’ to reach Tier 15, including ‘regular and reasonable’ access to rifts.
+
+The contract was clearly meant for fresh recruits, but the recruiter said it didn’t really change things, as he would be getting the beginner package either way, as there was so much he didn’t know.
+
+Which is really what made his choice for him. There was a wider new world and there were too many things he didn’t know. Having a guild that could back him up and explain things to him was exactly what he needed.
+
+The rest of the day was spent going over various offers from other guilds, but Yosef was pretty sure he would take up the original offer. They had been the straightest with him, and he got a good feeling from the recruiter.
+
+When he met up with the representative from Gavle’s Good Guilders, the man shook his hand and said, “Welcome to both the Empire and the Guild Yosef. You won’t regret this.”

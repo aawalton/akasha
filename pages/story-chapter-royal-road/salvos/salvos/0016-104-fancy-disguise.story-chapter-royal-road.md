@@ -1,0 +1,411 @@
+---
+id: e4be634b-5c7e-55c9-80d0-6c372764d7f7
+page-type-slug: story-chapter-royal-road
+title: "104. Fancy Disguise"
+slug: 0016-104-fancy-disguise
+partOf: salvos
+position: 16
+ownLength: 3728
+unit: words
+publishedAt: 2021-04-22
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/669236/104-fancy-disguise"
+royalRoadId: "669236"
+---
+
+104. Fancy Disguise
+
+The three of us found Piero’s Bistro soon after; the tavern wasn’t too large, but it wasn’t too crowded either. Most of the taverns I had been in have always had a busy crowd filling it up with noise and chatter. But this place was almost completely empty.
+
+“Welcome!”
+
+A friendly Human man greeted us as we entered the doorway. He was carrying a tray of drinks to a table— one of the few occupied tables— before setting it down and turning to us.
+
+“What can I do for you today?”
+
+Daniel approached him, nodding.
+
+“We’re looking for a place to stay for the night. And to ask some questions. We’re adventurers. Here on a job.”
+
+The other man’s eyes grew wide and he quickly wiped his hands and turned to my companion.
+
+“Wait, are you here for the job I sent to Viechester? I’m Piero— the one who made the request.”
+
+“That’s right.”
+
+Edithe spoke up, glancing around the room. Her eyes scanned the area, stopping at every person within the tavern. Then she smiled and offered a hand.
+
+“We’re here to help. Can you tell us anything you know about these bandits?”
+
+“Of course!”
+
+Piero eagerly led us to a table and we began our discussion. He told us most of the same thing the guard captain, Jonathan, did. The bandits had been a problem for a while, but they were only responsible for minor offenses like stealing. There had been a few kidnappings, but nothing so major that anyone thought hiring adventurers were necessary.
+
+“And why’s that?”
+
+I cocked my head, curious at his reasoning. Piero wiped a sweat off his brow— he had been working all day. In fact, he was supposed to be working right now. But now that he was talking to us, he had a young Human woman take over for him.
+
+The girl seemed only a few years older than Rachel. If I had to guess, she was about 15 years old. She brought us a platter of food and drinks as Piero explained.
+
+“We never had the coin to afford it. Adventurers are expensive, Miss, you’ve got to understand that. It’s a dangerous job, and the reward has to reflect that effort. Maybe if I didn’t have a family young, I would have tried my hand at it too. Silvers can earn dozens, if not hundreds, of gold coins a year just by doing the most basic of jobs. But that means I can’t possibly put up enough of a reward to draw in any adventurers.”
+
+“And you can now?”
+
+Daniel scratched the bottom of his chin as he peered at Piero. The tavern owner nodded.
+
+“I dug into my savings. I’ve put in everything I have ever saved up for this request, Mr Daniel. 50 gold coins. I know it may not seem like much to you adventurers. Good enough for a single job, maybe. But that’s all my money.”
+
+“Why now? Why not before?”
+
+Edithe prodded the man with crossed arms. His fists tightened into balls as his entire body began to quiver.
+
+“Because they took my wife, Miss. They took my sweet Chloe. Ripped her away from my arms. I was helpless to stop them. My only consolation is knowing that Sophie managed to escape by hiding in the wine cellar. Those bastards were too busy getting drunk to notice her.”
+
+A dark shadow was cast over Piero’s face. I could tell the mood in the table shifted. Even the girl from before, who was now serving other guests, seemed to have overheard the conversation and been affected by this dour atmosphere.
+
+The silence lasted a total of a second before I decided to end it. Placing a hand on the man’s shoulder, I spoke reassuringly.
+
+“Don’t worry. We’ll find your wife! We’ll take care of these bandits. The Calhoul Coins, right? Just tell us where they went.”
+
+Piero stared up at me, his eyes watering up. Then he shook his head.
+
+“I don’t know if I can.”
+
+Sniffling, he slumped back to his chair.
+
+“They came in the middle of the night. Took the city’s walls before anyone noticed. And after that, it was a slaughter. It was like we were bugs hiding in the tall grass, trying to escape from the scythe. They came and they left. I don’t know where they even went.”
+
+Daniel frowned.
+
+“We heard that they were ransoming off the hostages.”
+
+“They are. But not all of those who were kidnapped are being sold back. I know someone— Hugh— his children were taken from him. They demanded 10 gold coins from him. But they only let him take one back.”
+
+“This... Hugh.”
+
+Leaning forward, Edithe gave Piero an inquiring look.
+
+“Where can we find him?”
+
+“He works at the farm just outside of the city. I don’t know if you should visit him now since it’s late. I think it’s better if you find him in the morning, when he’s out there working and tilling the fields. Although… you might catch him visiting tomorrow if you wake up early enough. He’ll be doing a delivery for us at dawn.”
+
+“We’ll see. For now, we just need a room to sleep in, if you have any available.”
+
+“Of course. We have plenty of vacancies.”
+
+Piero hesitated, drawing his lips to a thin line.
+
+“I, uh, would love to provide you with a complimentary place to stay. But times are tough right now—”
+
+“It’s fine.”
+
+Smiling, Daniel produced a small pouch of silver coins.
+
+“This is for the food. And the rooms.”
+
+The tavern owner’s eyes grew round at the sight. He gratefully accepted the coins and bowed his head profusely.
+
+“Oh, thank you. Thank you.”
+
+With that, we were given a key to our rooms and made our way to the second floor. I was supposed to be sleeping with Edithe while Daniel stayed in a separate room, but…
+
+“I don’t want to!”
+
+I protested as Edithe tried to drag me inside. My eyes fixed on the bed, then snapped back to the hallway. I dug my fingers at the door frame and cried out.
+
+“Daniel, save me!”
+
+“Salvos, why won’t you just do what you usually do while we’re sleeping?”
+
+The Human man spoke from his doorway.
+
+“Because there’s nothing to read here! And doing nothing is boring!”
+
+Sighing, Edithe let go of my hand and I stumbled forward. I grinned triumphantly.
+
+“I am free!”
+
+“What are you going to do, Salvos? It’s night and most people will be asleep.”
+
+I spun around to face her, innocently hiding my hands behind my back.
+
+“I’ll ask around the town about these bandits! And that guard captain, Jonathan! You two don’t trust him, right?”
+
+My companions exchanged a glance. Edithe crossed her arms while Daniel rubbed a hand on his sword’s hilt.
+
+“It’s definitely suspicious how the Calhoul Coins were able to take the city walls so easily. Even if they were mostly Golds. It was almost like they were let in.”
+
+“Yeah. We saw the kind of devastation brought to all the towns and cities he attacked. This was nothing like that. Only the town seemed to have been looted and plundered. I definitely don’t trust that guard captain at all.”
+
+The two seemed to come to some kind of a mutual agreement; I didn’t really see it, but I nodded my head nonetheless.
+
+“That’s exactly why I should investigate!”
+
+I dug into my pockets and produced my Necklace of Lesser Obfuscation; I had not been wearing it. Apparently, I came across as a [Mage] as long as I was in my Mortal Form. Linking its chains around my neck, I stood proudly before Daniel and Edithe.
+
+“Look! Now they won’t know I’m an adventurer. I can ask any questions I want and I won’t rouse suspicion from Jonathan!”
+
+“...they know what you look like, Salvos.”
+
+Daniel pointed out. I scowled and gestured at Edithe.
+
+“I can just wear some of her clothes! They won’t suspect a thing!”
+
+He still seemed unconvinced, until I met his gaze.
+
+“Trust me, Daniel. I’ll be fine. I’m not going to be reckless or stupid. I’m just going to look around. Alright?”
+
+“...fine.”
+
+Finally, the Human man acquiesced. Edithe was fine with it too. She provided me with a change of attire; it apparently was used by her for more formal wear. A white, silken dress that was embroidered around its sleeves and collar. Its flounce fell to my knees, frills lightly dangling around my legs.
+
+She gave me a brown hood to wear, along with a sun hat to cover my freely flowing silver hair. Looking at my disguise, I grinned and stepped out of the room. I’m a Princess, I thought proudly.
+
+My bracelet was worn for all to see around my forearms, and the Ring of Lesser Obfuscation looked like any ordinary pendant hanging resting on my chest. I tinkered with the artifact, making me appear like a Level 21 [Mage].
+
+“See, Daniel? There’s nothing to be worried about!”
+
+The Human man was nowhere to be seen. I rapped lightly on his door to no response.
+
+“Huh. Did he fall asleep, I wonder.”
+
+Edithe chuckled and patted me on the back.
+
+“Just go. And stay safe. Make sure to return to the inn by morning.”
+
+I beamed and gave her a thumbs up.
+
+“Of course! Now, if you’ll excuse me—”
+
+Skipping happily down the hallway, I made my way out of Piero’s Bistro and to the town square. It was empty.
+
+Night had fallen while we were busy questioning Piero, and now it was even later since I had to get changed and convince my companions to let me wander the city. My mood was immediately dampened, like a storm cloud was hanging over my face.
+
+“Where is everyone?”
+
+Sighing, my slippers sunk into the soft earth as I made my way through the empty town. Lulica was not the biggest Human settlement I had been in. In fact, if I had to liken it to something, it would be like one of those towns surrounding Warrington, but slightly larger.
+
+There were a few distinct differences between them however, one being the wall surrounding Lulica. It was not the most defensive or sturdiest wall I had seen— it was only made of wood— but it was present. Just as Edithe had observed, it had not fallen from the bandit attacks, despite being apparently breached twice.
+
+Another difference was the state of Lulica; it was almost like Silvergrove after Lucerna’s attack. Entire houses were toppled, piles of burnt wood and ashes remain where buildings were, and blood stained the earth where corpses once lay.
+
+I noted a few Humans bundling themselves around large fires. They had no shelter— no homes to sleep in. I approached one of these groups and took a seat next to a gruff Human man. He grunted and faced me.
+
+“What do you want, lady? Can’t you see we have no room at the fire? Take your flashy jewels and get a room at one of the nearby inns.”
+
+I blinked and stared at the man.
+
+“Why would I do that? I want to be here.”
+
+“Don’t be stupid, lady. Do you really think you can walk around dressed like that without running into any trouble?”
+
+I cocked my head.
+
+“Yes. Why not?”
+
+The large man— taller than even Daniel, almost as tall as I was when I was not in my Mortal Form— furrowed his brows. His face was scarred. A large cut ran across one of his cheeks, making the scowl on his face even more sharp.
+
+“Fuckin’ rich people. Fine. Do as you wish. But don’t blame me if something happens to you.”
+
+He turned back to the fire, clearly ignoring my presence there. I looked over at a few of the other Humans huddled around the flames. They pointedly avoided my gaze, focusing on the dancing orange light as if it had caught them in some kind of a trance.
+
+A small chuckle came from behind me and a hooded man stood before me. He placed a hand on my shoulder, tilting his head up to reveal a bright, white smile.
+
+“Hey, don’t let that man bother you. He’s just upset that he lost his house during the raid.”
+
+“I’m not bothered by it at all.”
+
+I gave an honest reply. The hooded man grinned and sat next to me.
+
+“Well, that’s good. Everyone should feel welcomed by the fire. But too many people have no place to sleep, and are envious of those who do.”
+
+I glanced over at the men, women, and children sitting around the fire. Some were nibbling on scraps of food. Others were just shivering. I found this sight to be slightly unusual, but thought nothing else of it.
+
+“Huh.”
+
+“And the worst part is when the guards come to break us up.”
+
+The hooded man sighed. He shook his head in a way Daniel would when upset.
+
+“Why would they do that?”
+
+I asked, puzzled. Shrugging, the hooded man leaned back.
+
+“When a group grows too large, so does the fire with it. And that becomes dangerous, especially if not properly maintained. So, they force us into smaller groups. To break us up and put out the flames.”
+
+I cast my gaze back to the flickering, orange light. It was certainly big. But it did not seem like it would be dangerous enough to warrant fear. And I spoke my thoughts truthfully.
+
+“That makes no sense.”
+
+“I guess it’s not something a noble would understand, huh?”
+
+The hooded man chuckled again. I glanced back at him as he propped his head up on his hand.
+
+“You probably have high level [Mages] deal with everything for you where you come from.”
+
+I stared at the Human for a moment. Then I felt my lips curl up as I lifted my chin.
+
+“Why of course! And how did you ascertain my heritage, may I ask?”
+
+“With the way you’re dressed and the questions you’re asking? It was quite obvious.”
+
+I looked myself over one more time, grinning.
+
+“Certainly I am dressed to fit my status. You have a very keen eye, Mister—”
+
+“Sebastian. But my friends call me Seb.”
+
+“Mr Seb then.”
+
+I addressed him properly; I lightly rested my hands on my legs and faced him.
+
+“I was actually hoping to inquire about the attack on this town. Tell me, do you know anything about these Calhoul Coins?”
+
+Seb narrowed his eyes. He opened his mouth—
+
+“Alright, break it up! This fire is getting too large!”
+
+A deep voice barked as heavy footfalls descended on us. I looked over at the patrol of Human guards arriving with their spears, a [Mage] accompanying them with an uncaring face. The [Mage] raised a hand and water shot out. The fire immediately dimmed, groans and complaints rose amongst the gathered group. But they slowly got up, scattering from the dying flames like wisps of cinder.
+
+The large man from earlier cursed.
+
+“Damn guards, taking away our fuckin’ fire but not even giving us food or shelter...”
+
+Getting up, I started for one of the distant fires. I felt a hand tug me. I turned back to Seb, a smile spreading across his lips.
+
+“Miss noble, I actually happen to know a little bit about these Calhoul Coins.”
+
+I blinked. Then I jumped excitedly.
+
+“You do?!”
+
+“And is this really all you know about the Calhoul Coins?”
+
+Daniel studied the face of the farmer. Hugh wrinkled his brows and placed a hand over his mouth, covering his crooked teeth.
+
+“I really don’t know, Mister adventurer. When they sold mah boy back to me, they told me to meet them at the river just outside of ta city.”
+
+“I see.”
+
+Sighing, Daniel nodded at the farmer and thanked him. There was almost nothing Hugh said that the [Hero] didn’t already know. The only thing he actually learned was the meeting at the river, which didn’t actually help at all.
+
+“Do you think we should at least search downriver? See if the bandits maybe built some kind of a hideout there?”
+
+Daniel suggested. Apparently, Edithe had been lost in her thoughts as she jerked back, a look of surprise on her face for a moment.
+
+“I’m… not sure. It’s just a meeting spot. And I guess it doesn’t hurt to look. But I can’t help but think it’s a waste of time.”
+
+“Right. I thought so too.”
+
+He agreed with her as she glanced around the tavern. Daniel saw her gaze lock onto Piero who was talking to a large man. The tavern owner was giving out some food— he had been doing that almost all morning.
+
+Daniel didn’t focus on that. Instead, his thoughts focused back onto the guard captain.
+
+“Do you think we should try to investigate the town guards instead?”
+
+“Maybe… but will that actually help us? If the guard captain is really affiliated with the Calhoul Coins, he’d make sure his tracks are covered, at the very least.”
+
+“Yeah, I guess.”
+
+Narrowing his eyes, Daniel noted how Edithe’s eyes glazed over. Her focus seemed to be elsewhere; her rejection of every option was almost uncharacteristic of her. She had been hotheaded— assertive— when he first met her. He was used to being the ‘voice of reason’, arguing against fighting the Greater Demon with the Title of the Destroyer.
+
+But since he came back to Viechester— since the siege of the Valiant Dreamers Company— she had been different. Aloof. More reserved. And while Daniel knew the reason behind it, he couldn’t help but ask her about it.
+
+“Is… everything alright, Edithe?”
+
+The red haired woman blinked. She faced him as he cocked a brow.
+
+“You seem out of it today. Is something wrong?”
+
+Taking a deep breath, Edithe slowly answered.
+
+“I… it’s Salvos. I’m a little worried about her. She said she would return by morning. And she’s still not back yet.”
+
+That’s what it is? Daniel couldn’t help but let out a small giggle at her concerned. Edithe shifted uncomfortably, crossing one arm across her stomach to grab lock onto her elbow.
+
+“What?”
+
+“It’s nothing. I mean, it’s good that you’re concerned about Salvos and all. But I think she’s the last person you should be worried about.”
+
+“I’m not worried that she’ll be in danger. I’m worried about how oblivious she is sometimes, you know?”
+
+Edithe’s worries became apparent to Daniel. That’s true, he thought for a moment. But he wanted to wave it off. He knew Salvos was not the most socially aware person, but she was sharper than she often came across.
+
+Or at least, that’s what the [Hero] tried telling himself. There were some cracks in his confidence, he soon found out. Because moments later, when Piero approached the pair of adventurers with news from the night before, he couldn’t help but feel panic seep into his heart.
+
+“Hey, uh, Ms Edithe, Mr Daniel? I just spoke with a friend of mine and he told me about this weird girl— one whose description seemed awfully similar to your other party member— that he met last night. I just wanted to let you know that she was spotted leaving Lulica with a stranger some time after midnight.”
+
+Daniel turned to Edithe and saw the worry spread across her face. The [Hero], so confident before, felt only a single word leaving his mouth.
+
+“Salvos...”
+
+I followed Seb as he led me out of Lulica. I glanced back at the walls in the distance, speaking with uncertainty.
+
+“Are you sure this is the right way?”
+
+We had been walking for a while— very slowly at that. He trudged ahead of me, seeming like he was waiting for me to keep up with him.
+
+“Of course. My friends who know all about the Calhoul Coins live just outside of the city. If you just follow me, I’ll take you there.”
+
+I nodded eagerly.
+
+“Alright then!”
+
+We continued through the forest until the town was no longer in sight; we reached a river and started in the same direction of the running water, before reaching the mouth of a cave just a little bit away from a roaring waterfall.
+
+“This is it.”
+
+“It is?”
+
+I cocked my head and followed him into the cave entrance.
+
+“Your friends sure live in a weird place.”
+
+“They do. But don’t worry about that. They’ll tell you everything you wanted to know about the Calhoul Coins. After all—”
+
+He spread his arms wide as figures appeared around me. Rugged, armored Humans wielding all sorts of weapons cut off my exit. [Mages], [Warriors], [Rogues], [Archers]. A few of them had non combat Classes, but still they came. Dozens of them.
+
+Seb finished.
+
+“They are the Calhoul Coins.”
+
+“Huh.”
+
+I looked over at the group of men and women standing before me. They had greed in their eyes; Seb, the man who thought he tricked me, had thrown off his hood. He now wore the same malicious gaze of the others, revealing what I had seen in him the night before.
+
+I paused and crossed my arms.
+
+“You are aware of my status, yes?”
+
+Seb snarled.
+
+“That’s right, you stupid woman! You’ve fallen right into our trap! Now hand over all your belongings and tell us what family you’re from.”
+
+Licking his lips, he drew a dagger.
+
+“Or else we’ll have to kill you.”
+
+I nodded slowly and reached around my neck. I unhooked the clasp of my necklace and tossed it at Seb. The Human man happily accepted it and took a step forward.
+
+“Good. And your gold?”
+
+“I don’t have any gold.”
+
+I spoke the truth. He snapped back at me.
+
+“What kind of a noble doesn’t have gold?! You’re a fucking liar!”
+
+“I’m not a noble.”
+
+I shook my head simply. Smiling sweetly back at the bandits surrounding me, I pulled out my bracelet and set it down on the ground gently.
+
+“I’m a Princess.”
+
+I corrected them with a wave of my fingers. Seb sputtered.
+
+“Princess? What kind of bullshit is that? You’re not a fucking Princess.”
+
+“Well, that’s what I say I am. A Princess. So show some respect and—”
+
+I bared my teeth, choosing the first of my new Skills to test out as my body rippled with power.
+
+“KNEEL.”

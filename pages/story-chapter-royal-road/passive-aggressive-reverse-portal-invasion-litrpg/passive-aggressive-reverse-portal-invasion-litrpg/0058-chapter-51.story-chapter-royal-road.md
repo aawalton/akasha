@@ -1,0 +1,243 @@
+---
+id: 44fa4783-9cfa-59ce-9e7c-0c0442e81cf4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51"
+slug: 0058-chapter-51
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 58
+ownLength: 2841
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3767319/chapter-51"
+royalRoadId: "3767319"
+---
+
+Congratulations. You have slain Adrasteina (Level 41 Gold-Rot Fighter)
+
+You have gained experience
+
+I stared at the notification. Couldn’t quite tear my eyes away from it, in fact. Level 41. Level fucking 41. Even shared between the four of us, the experience had been enough for all of us to gain a level. Nix, as the lowest-leveled of us, gained two, in fact!
+
+We weren’t allowed the time to take in what had happened and get a grasp of our situation. Haddock raised an earthen staircase, allowing me to drag myself out. Nix, the lovely, insane maniac, manifested the fist again, letting it haul the Gold-Rot’s corpse out of the pit. Then Haddock let the soil flow back into the pit.
+
+The people of Last Chance converged on us. Chatter turned into shouts. A few yelled the Gold-Rot’s name.
+
+I couldn’t quite tell the mood of the crowd. There was shock there. Fear. But also something deeper and darker.
+
+The door slammed open behind us. Cuilcis shouted. “Get in here.”
+
+We marched in, attempting not to make it look like what it actually was - fleeing the scene.
+
+Cuilcis shouted. “We are closed. Anybody trying to enter this door the next hour will be attacked.” Then he shut the door behind him.
+
+Inside, we were ready to collapse to the floor, when we saw them. Cuilcis’ three regular guards, standing ready, fully armed.
+
+My health was well below two hundred. My new armor, improved durability and all, was already scorched and, in one place, had a tear in the material. My shield… was soot-covered, but blessedly intact. The shield flew up before me, even as my buckler manifested from my Personal Universe. “What is this, Cuilcis?” I demanded.
+
+“This? It’s a shift change. You four have done wonderfully, and have certainly saved my life. I could not have demanded more of you. Therefore, you are allowed to go rest and enjoy your new levels. You may leave that with me – I will make sure to dispose of it properly.” He waved at the dead untouchable.
+
+“You’re not fucking touching that.” I snapped.
+
+“Puzzlement. Oh. Why? Are you planning to do things to the corpse?” He asked, completely unperturbed.
+
+“I don’t know what you’re playing at. I also don’t much care. We killed her. We’ll make sure she’s buried or whatever needs doing.”
+
+“I care what he’s playing at.” Nix said. Her voice didn’t sound her usual chipper self. In fact, she sounded halfway between a breakdown and murder. “Because, unless I’m missing my guess here, you set this up. Didn’t you, Cuilcis?”
+
+“He what now?” Steve blinked. His spear slowly rose, half-pointing toward Cuilcis and his guards.
+
+Nix continued. “That woman. Adrasteina. She didn’t come at us. She came shouting that you were a liar, Cuilcis. Meaning, you tricked her, somehow. And, unless I’m missing something, you timed it because you wanted us to take her on.”
+
+I cursed. “So, that’s why you wanted us on guard duty instead of out and slaughtering some hapless monsters that could earn you more coin.”
+
+Cuilcis bowed his head. “Sadness. You are too perceptive for your group, Ms. Nix. You should enter my employ permanently.”
+
+“Not bloody likely, you asshole. What did you do?”
+
+“I am not admitting to any actions, of course. There is no proof of any wrongdoing. But, I will readily say that I am going to enjoy Adrasteina’s absence. She was not one to barter properly. Once, she strong-armed me into accepting a bargain that was unfair and one-sided.”
+
+“So, you set her up, and had her realize you were at fault, specifically at a time where we would be there to take her on. With your guards ready to jump in, in case we got ourselves killed.”
+
+Cuilcis tilted his head. “There is absolutely no proof of that. I will say that I am impressed that you managed to take down one of the Untouchables. Your reputation in Last Chance is going to flourish in the near future. Expect both good and bad to follow. Oh, and Liam, you look rather battered. You may take a few of my healing cakes as a token of my gratitude.”
+
+“Just… you’re the worst.” Nix shook her head. “The absolute worst. Who does anything like that? We should kill you right this moment.”
+
+“You could very well try.” Cuilcis admitted. “But I believe you would find the cost of success too expensive.” His hands rummaged around under his table, until he relaxed. “Oh. One detail. Your employment has been concluded after today’s performance. That leaves only the question of the favour you owe me. I have definitively concluded that I am not going to call it in now. Rather, I have high hopes for you in the future. I believe you will rise to great heights and be able to do wondrous work… for me.”
+
+I’d hand it to Cuilcis. For somebody without facial expressions, his face sure begged to be punched.
+
+***
+
+“I’m carrying a corpse inside my Personal Universe. I’m not sure how I feel about that.”
+
+We’d started off going to the tavern. I was sorely in the need of a beer. That idea swiftly got scrapped, as we couldn’t move for our newfound fame. People crowded us constantly. Some just wanted confirmation that Adrasteina was actually dead. Others congratulated us, asked about how we’d done it, even questioned how many levels it earned us. One bought us all a round. A few – a rare few – seemed to be sad or angry that she was gone. Adrasteina had not been loved.
+
+It didn’t take long for us to grow tired of the attention and go back to our apartment.
+
+“I am not sure how I feel about being a killer.” Steve said softly. “I came here to explore, not slay thinking beings.”
+
+I winced. Of course. They hadn’t actually had to face that particular experience before. I took a moment to consider myself and realized… I was okay. “I know, you’ll need some time to think things through. But… you did what you had to. In order to save my life, I mean.” I didn’t remind them that the Cadren were also thinking beings. Or the Moagie we’d all been ready to kill. There was a time and a place.
+
+“Did I, though? Why did we even stand in front of her to begin with?” Steve sounded and looked like he was about to start flailing. “This was Cuilcis’ quarrel, not ours. He used us.”
+
+“He did. But take a moment to think about what you did. Not the violence. The acts. First, you acted like a guard. Like we were supposed to. Then, you went right to trying to save my bacon. There was no middle ground there. No chance to step back and take stock. And you saw her. From the moment she attacked, things were going to end in blood.” I tried to look him in the eye, but he didn’t face me.
+
+“But still. Couldn’t we-“
+
+“There was no way!” I cut him off. “I tried to offer her another solution halfway through. Twice. She was off the deep end. Alcohol, drugs, magic, I don’t know. But there was no stopping her. Now, did I like killing a sentient being? Of course not. But this is a bloody world, and we need to do what we must to survive.”
+
+He met my eyes and I nodded, softly. “And you damn well did what you had to, and more, Nix.”
+
+She blinked, surprised. Then she looked down, tears in her eyes. “I’m sorry that I lit you on-“
+
+“Shut up!” I smiled. “I’m not complaining right now, I’m praising you. You saved my damn ass! What the hell was that new talent?”
+
+“Oh. Oh.” She sat up straighter, a smile slowly growing. “Yes! I’d been eyeing it for a while, but I’d totally ruled it out, because it said that my quirk would ensure it couldn’t be used for attacking. Just a second, I’ll pop my two new talent points into it.” Her gaze went distant, as she lost herself in the notifications. Then she spoke the talent description out loud.
+
+Tier 3:
+
+Earthen Gauntlet
+
+Active Talent. This talent allows you to convert a measure of earth in sight into a magical gauntlet. This gauntlet will act as an extension of your own hand and move as your hand movements and mind will.
+
+20% maximum force per point
+
+Range: 50 meters
+
+Cost: 1 mana/second
+
+3/5
+
+I frowned. “Wait. So… it’s supposed to be an attack spell?”
+
+She beamed. “Absolutely. Only, I can’t use that because of my quirk.”
+
+“Then why are you so happy?”
+
+“Because… look at what it can do!” She frowned at the floor, and after a moment, a dark energy carved out a large part of it, like a huge ice scoop. The hardened soil flowed into the shape of a giant open hand floating horizontally above the floor, palm up. Nix sat down primly on the hand, raised an eyebrow and dramatically raised both her feet. “Tada!”
+
+“No fucking way. You can fly!” I shook my head in amazement.
+
+She nodded merrily. “The mana cost is prohibitive. Also, I can feel a bit of give. But I think, with all talent points entered, it should be able to carry myself. Or use it as a single-use shield. It’ll dissolve if it hits an enemy hard enough to be seen as an attack.”
+
+I whistled. “While I’m not a huge fan of being manhandled, it damn well did the job of throwing me around.” I snorted. “And that was with just one talent point. I’ll have to watch out for whiplash if we do it again.”
+
+“When we do it again.” She pointed at me. “My little shield puppet.”
+
+“Yeah, we’re not going there.” I blinked in belated realization. “Wait a second. That’s a third element! Did you-“
+
+She clapped her hand, bouncing on the hand. “I absolutely did! Listen!”
+
+You have earned a new offensive skill:
+
+Magical Damage
+
+Passive skill
+
+Offense can be what you want it to be. The tip of a spear. Your very own fists. You have decided that your mind will be your weapon, manipulating the magical energies of Ademia. Every level in Magical Damage will marginally improve the power of your magical talents.
+
+“But wait! That’s not all!” Nix added dramatically, both hands doing jazz hands.
+
+Congratulations. You have unlocked the higher rarity of a skill:
+
+You have used three different types of magic in a fight and won.
+
+Magical Damage evolves to Improved Magical Damage.
+
+Improved Magical Damage
+
+Uncommon Passive skill
+
+Your mind is not average. You know more than most, and know when to apply which type of magical force. Every level in Improved Magical Damage will slightly improve the power of your magical talents.
+
+In addition, once a day, you may double the effect of a single magical talent use.
+
+“Well, damn.” Steve said. “That’s going to come in handy. That Gold-Rot was Level 41, and you hurt her with your talents. I don’t know what Level the Kadren leaders are at-“
+
+“I don’t know about the Higher Riverkin. But the Higher Skreeling I offed was at Level 32 and the Higher Glimmerscale was Level 34. We’d better assume the Riverkin is at the same level or higher.”
+
+Steve blinked. “You might actually be able to badly hurt one of them, if we catch them by surprise. Do you… Do you think we could pull this off?”
+
+I smiled, grinning. “We are going to ruin their goddamn day! Anybody else get some interesting upgrades?”
+
+Haddock and Steve grumbled in denial. They’d both gotten decent increases to their skills, but neither had improved any rarities. Their new talent points went straight to improving the buff for Steve’s sake, while Haddock decided that he needed to use the single point and get Personal Universe as well.
+
+“Oh, too sad that nobody else got anything amazing.” I smirked. “Then, I guess it’s up to me to make up for you slackers!”
+
+Nix stepped off her large earthen hand. It instantly floated in front of me, where it wagged back and forth scoldingly. “Bad manners.” She giggled. “Now tell us, already. What did you get? Was it the shield?”
+
+I beamed. “It was the Shield!”
+
+Congratulations. You have unlocked the higher rarity of a skill:
+
+In a single fight, you have used your shield to fend off a hundred attacks.
+
+Shield evolves to Higher Shield.
+
+Higher Shield
+
+Rare Passive skill
+
+You have used your shield to save your life several times over. Practice and continued usage will improve your odds of continuing the streak. Every level in Shield will moderately improve the defensive capabilities of your shield and decrease the stamina drain of its use.
+
+In addition, once a day, you may ignore the effect of a single non-magical attack.
+
+“Holy crap!” Nix held both hands in front of her mouth. Half-muffled, she continued. “You can tank a dragon!”
+
+I snorted. “I could. Once. Its next attack, of course, would flatten me. Unless it used a breath attack in which case I’d be torched...” I trailed off at her glare. “Yeah. It’s pretty phenomenal, isn’t it? Also… this is harder to define, but the assistance from the skill improved. A lot. I feel. Well… Like I could take a charge from that Higher Skreeling head on and stay standing.”
+
+It hadn’t been the only skill to gain a workout. Fire Resistance, obviously, had sky-rocketed yet again. Armor hit 20. Resilience rewarded me for getting my ass kicked yet again.
+
+I cleared my throat and unleashed the smuggest smile I could summon. “Of course, that feel-good sensation could also have something to do with Shield hitting 25 just after improving the rarity.” I paused, looking at them all.
+
+Nix slapped my shoulder. “No. Fucking. Way. What’d it do?”
+
+“I got a choice. Just like Cuilcis said. And, like he also said, given that it hit Rare beforehand, the choices… well, they weren’t shit. Judge for yourselves.”
+
+Your skill Higher Shield has reached the first evolution threshold at Level 25. This earns you a choice between two different evolution options.
+
+Please note. Due to Higher Shield reaching Rare, the evolution options are improved.
+
+Option one:
+
+Level 25 evolution:
+
+Every time an enemy strikes your shield, you gain a small amount of stamina. Any stamina above max capacity will be lost.
+
+“Seriously?” Steve interrupted. “You can gain stamina from being hit. That’s so broken!”
+
+“You’d never need stamina again. You’d be able to fight for days on end.” Nix added.
+
+I nodded. “Yet, as insane as that is, I’m not going with that one. I already have enough stamina to fight for hours on end.”
+
+Option two:
+
+Level 25 evolution:
+
+You may choose a single effect from among the following. Any shield you wield from here on out will be temporarily imbued with a medium-force application of said effect, for as long as you wield it. Available effects:
+
+“I picked the repelling option.”
+
+“Obviously.” Haddock nodded.
+
+“Why’s that obvious? Oh, wait. Because your quirk improves passive damage?” Nix slapped her forehead.
+
+“That’s part of it.” I paused. “This should be right. Deflect is… kind of a weird talent, right? It isn’t powerful on its own. Instead, it amplifies the momentum and force I’m creating.”
+
+“That’s absolute gibberish to me.” Nix frowned. “How are you creating momentum?”
+
+“I’m not a physics honors student. I don’t have the bloody words for this. But… okay. Somebody attacks me with a sword. I angle my shield to make the sword blow skitter off. That’s the force that Deflect increases.”
+
+Steve nodded slowly. “Shield deflects force. Deflect talent amplifies the force. I hear what you’re saying.”
+
+We looked at Nix, who was still frowning.
+
+I reached into my Personal Universe and extracted my chipped and bent swordbreaker, tossing it to Steve. “A demonstration should explain it – and prove if we’re right or not!”
+
+“I.” Steve said theatrically, swordbreaker held reversed in a raised fist. “Am now going to stab the shield, like any dastardly enemy would.”
+
+A moment later, we all stood, frozen. Steve held up a hand, patting his ear to check for damage.
+
+Nix looked from me, to Steve, and to the swordbreaker, now well and truly broken. The haft lay on the ground, but the tip of the blade was buried solidly inside the clay wall. She gave a nervous giggle, pointing at first the scooped-out section in the floor, then the hole in the wall. “I’m glad we haven’t paid any security deposits, because we wouldn’t be getting them back!”
+
+The effect had been beyond belief. My Deflect talent, by itself, when maxed, improved any force by a massive three hundred and seventy five percent. The new repelling effect by itself was less exact, but maybe doubled any incoming force. In combination… they were a menace. I couldn’t wait to use it on a wave of nasty Kadren!

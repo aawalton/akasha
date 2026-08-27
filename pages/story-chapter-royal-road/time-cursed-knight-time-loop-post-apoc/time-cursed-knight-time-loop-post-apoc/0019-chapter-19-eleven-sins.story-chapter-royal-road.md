@@ -1,0 +1,485 @@
+---
+id: b334b4cd-7904-5c5a-8591-fa5dcf9ebec8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Eleven Sins"
+slug: 0019-chapter-19-eleven-sins
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 19
+ownLength: 3372
+unit: words
+publishedAt: 2026-04-19
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3291416/chapter-19-eleven-sins"
+royalRoadId: "3291416"
+---
+
+The town hall was a squat building of white stone at the corner of the central square. Two guards flanked its entrance. One leaned against the doorframe with his arms crossed. The other was picking at something beneath his fingernail with intense concentration.
+
+Inside, the building was busier than I'd expected.
+
+A dozen people moved through a ground floor partitioned by low wooden dividers and cluttered desks. Some hunched over ledgers, comparing columns of figures while muttering to themselves. Others shuffled between stations carrying bundles of paper, passing documents from hand to hand in a chain that looked chaotic.
+
+The air smelled of ink and old parchment.
+
+I made my way to the main counter.
+
+Behind it, a young woman was doing the work of three people.
+
+She moved with the frantic, caffeinated energy of someone who had stopped distinguishing between "urgent" and "everything." Papers flew from her hands to a sorting tray, from the tray to a stack, from the stack into a leather satchel. Between each transfer she spoke rapidly toward a small crystal mounted on a brass stand at the corner of her desk.
+
+The crystal pulsed with faint light each time she addressed it.
+
+"Seventeen crates medical-grade, not civilian, I said medical-grade. Requisition forty-two-B explicitly states battlefield allocation for the southern front. If Logistics tries to reroute it again I will personally..."
+
+She paused.
+
+Drew breath.
+
+"Yes. Confirmed. Priority transport. End."
+
+The crystal dimmed. She grabbed the next paper.
+
+It took her a solid five seconds to notice me standing at the counter.
+
+Her eyes flicked up irritated, already calculating how quickly she could deal with whatever I wanted and return to the pile.
+
+"I'm looking for the library," I said. "Or wherever you keep books."
+
+She stared at me.
+
+It was the kind of stare that said 'I am currently coordinating wartime supply logistics and you are asking me about books.'
+
+A one of a kind type of stare.
+
+She didn't ask my name. Didn't ask for identification. Didn't do anything except lift one arm and point toward a door set into the wall to her left.
+
+"Through there," she said.
+
+She was already reaching for the next document, her attention dismissing me as completely as if I'd evaporated.
+
+I shrugged. Too busy to care who I was. That suited me fine.
+
+The room beyond the door was small.
+
+Even smaller than I expected. A single window looked out onto the street, its glass thick and slightly warped. Two narrow shelving units stood against opposite walls, their planks sagging under the weight of perhaps forty or fifty books total.
+
+That was it.
+
+No reading tables, chairs or librarian.
+
+Just a cramped, quiet room with bad light and a modest collection that a real library would have been ashamed of.
+
+It's perfect.
+
+Isolated and private. Exactly what I needed.
+
+I closed the door behind me and pulled a low stool from beneath the window.
+
+For a moment I just stared at the shelves. Then reached for the first book.
+
+The cover was plain leather. No illustration. Just text stamped into the hide.
+
+I held it in my hands and looked at the title.
+
+My eyes moved over each symbol slowly, painfully, the way a child sounds out letters for the first time. Every fragment of what Iris had taught me in the loops, the pronunciation, the letter-shapes, the way certain combinations changed their sound, all of it surfaced.
+
+Most of the symbols still meant nothing.
+
+But not all of them.
+
+I could pick out a word here. A syllable there. The shape of a letter I recognized connected to its sound, and from the sound I groped toward meaning.
+
+It was like trying to read through frosted glass. I could see shadows of words. Outlines of sentences. The architecture of language without the detail.
+
+I set the book down and picked up another.
+
+This one had a simpler cover. I traced the first word with my finger.
+
+My lips moved silently, shaping sounds.
+
+The second word came faster.
+
+The third faster still.
+
+Something was happening.
+
+It wasn't normal. I could tell that. Learning to read a foreign language from scratch, with a few scattered lessons from a soldier in a cave, should not have produced this. Not in hours. Not even in days.
+
+Yet the more I pushed, the more the resistance melted.
+
+Each letter I recognized seemed to unlock three more. Each word I decoded pulled its neighbors into focus. The process wasn't linear. It was exponential, as if something inside me was consuming the knowledge the way fire consumed kindling, each scrap of fuel making the flame hotter, the flame making the next scrap catch faster.
+
+My eyes moved over a full sentence.
+
+I understood it.
+
+Not every word. But the shape of the meaning came through, and where individual words failed me, context filled the gap.
+
+My hands started to shake.
+
+From hunger.
+
+Not the stomach kind. A deeper one. The Gluttony. The curse that devoured everything it touched.
+
+It was eating this too.
+
+I could feel it behind my eyes, a pressure like a headache that wasn't quite pain. Something pulling at the text on the page, absorbing it, breaking it down, converting it into something my mind could use.
+
+I grabbed the next book.
+
+My fingers turned pages with increasing speed. Each one came easier. The frosted glass was clearing, the shadows sharpening into shapes, the shapes into words, the words into sentences I could read without sounding them out.
+
+[Sin of Gluttony — Hunger Sated]
+
+[New Skill Obtained]
+
+[Reading — Level 1]
+
+While I was focused on the text, the notification appeared.
+
+It materialized in my field of vision.
+
+The blue box lingered for a heartbeat, then dissolved.
+
+I blinked.
+
+My eyes dropped back to the page in front of me.
+
+The words were there.
+
+Not blurred shadows half-assembled from fragments.
+
+Words.
+
+I could read them. The simpler ones landed instantly. The harder ones, the longer constructions, the formal or archaic phrasing, those still required effort. A pause. A second pass. A moment of concentration before the meaning clicked into place.
+
+But I could read.
+
+I sat still, the book open on my knees, and let the understanding wash over me.
+
+The Sin of Gluttony.
+
+I was starting to see how it worked.
+
+It wasn't random. It wasn't automatic. The curse didn't simply hand me abilities. It demanded something first.
+
+Effort. Time. Desire.
+
+All three had to be present, had to be genuine, had to be pushed past some invisible threshold before the Gluttony would engage.
+
+I'd wanted to read. Desperately. I'd spent hours with Iris in the loops, struggling with sounds and letters. I'd carried that accumulated effort forward through deaths and resets, and today I'd thrown myself at the shelves with every scrap of will I had left.
+
+Once all three conditions were met, the curse consumed.
+
+It ate the gap between ignorance and understanding. My mind absorbed the written language the way my cores absorbed mana: endlessly, hungrily, converting raw input into something it could keep.
+
+The implications branched.
+
+This wasn't limited to reading. Swordsmanship had followed the same pattern. A thousand swings, driven by desperation and repetition, until the system had given me a level. Toxicity resistance, earned by bathing in acid and surviving long enough for the curse to notice. Fear resistance, forged through deaths that would have broken a lesser will.
+
+Physical or mental. Skill or knowledge. The Gluttony didn't discriminate.
+
+It consumed everything.
+
+But the limits weren't clear.
+
+How much effort was enough? How long did the process take? Was there a ceiling? Could the curse consume anything, given sufficient time and desire? Or were there categories it couldn't touch, walls it couldn't eat through?
+
+I didn't know.
+
+Not yet.
+
+I set down the book and surveyed the shelves with fresh eyes.
+
+Titles I couldn't have read ten minutes ago now presented themselves in clear language.
+
+My fingers found a thick spine near the bottom of the left shelf. I pulled it free and read the cover.
+
+Economy and History of Silberwald.
+
+I turned it over. Dense text. Small print. Footnotes.
+
+Nope.
+
+It was the kind of book who assumed their reader already knew what Silberwald was, where it was, and why its economy mattered.
+
+I shook my head and slid it back.
+
+Too advanced. I needed foundations, not details.
+
+The next book was slimmer. Its spine cracked when I opened it.
+
+History of Magic.
+
+Interesting. Potentially crucial. But when I flipped to the first page, it changed my mind. The sentences were longer, the vocabulary specialized, the structure formal in a way that made my newly acquired Reading skill strain.
+
+I could parse it, but slowly. Each paragraph required multiple passes. It would take hours to extract meaningful information, and hours were precisely what I didn't have.
+
+I returned it to the shelf.
+
+My hand hovered over the remaining options, fingers trailing across spines, until they stopped on a book that was noticeably different from the rest.
+
+Thinner. Wider. Its cover was not the serious leather of academic texts but something softer, almost cloth-like, dyed a faded blue. The edges were rounded from handling.
+
+The title was written in large, simple letters.
+
+Humans and the Eleven Sins.
+
+The name was unusual. But the cover was illustrated.
+
+A crude drawing adorned the front. Stylized figures, tiny kingdoms, a sun with a face. The kind of art found in children's books.
+
+I glanced toward the closed door, as if someone might catch me.
+
+I opened the first page.
+
+The text was written in the simplest language I'd encountered in this world. Each page paired with an illustration that depicted the events described, painted in broad strokes of color that had faded with time.
+
+The story began the way all fairy tales begin.
+
+Long ago, in a time before memory, humans lived in peace.
+
+The illustration showed a world I recognized.
+
+Green. Vast. Rolling landscapes under open skies. Cities that sprawled across continents. Ships that crossed blue oceans. The artist had drawn these things with the innocent certainty of someone illustrating paradise.
+
+Highways. Skyscrapers. Bridges.
+
+The bones of my world, rendered in watercolor by an artist who had never seen them with their own eyes.
+
+The world was green and great. Humans ruled the earth from shore to shore, and their kingdoms stretched beyond counting. Prosperity reigned. The land provided. The people flourished.
+
+I turned the page.
+
+Then humans discovered magic.
+
+The illustration changed. The green world cracked. Lines of light appeared, thin at first, then brighter, spreading outward like veins of lightning.
+
+The text offered no explanation.
+
+No date. No mechanism. No "how" or "when." Just: They discovered magic.
+
+I frowned but kept reading.
+
+With magic came the portals.
+
+The next page showed a circle of light standing in an open field. Around it, tiny figures gathered, their painted faces turned upward in expressions the artist had rendered as something between wonder and terror.
+
+The first portal brought a traveler.
+
+A figure stepped from the circle of light. The artist had drawn them tall and slender, with long, pointed ears and hair the color of gold. The traveler held out both hands, palms up, offering something invisible.
+
+The traveler was kind. He spoke gently. He carried gifts and brought a request for peace.
+
+I stared at the illustration.
+
+Long ears. Golden hair. The fine, angular features that I'd seen beneath hoods in firelight and blood-smoke.
+
+Elves.
+
+Many kingdoms refused the stranger. Others welcomed him. War was spoken of. Alliances formed and broke. But in the end, the traveler was accepted.
+
+The next page showed the traveler standing before a council of human rulers, their tiny painted crowns glinting in the illustration's dim light.
+
+He spoke of other places. Other worlds. Other realities beyond the portals. He said his people suffered. His reality was dying. His world had crumbled, and his people needed shelter.
+
+In exchange for refuge, he offered knowledge. The secret of mana. The art of magic. The path to power humans had never known.
+
+The kings and queens deliberated.
+
+They saw it as a fair trade.
+
+The illustration on the following page showed the first elves arriving.
+
+Dozens. Then hundreds. They poured through the portal in a stream of golden hair and long ears, and behind them came light that the artist had rendered as beams of pure white cutting through a gray sky. In the background, tiny human figures raised their hands, and from their palms, sparks of color erupted for the first time.
+
+Magic, given freely.
+
+The first of the Elves came to the earth. They spread the knowledge of mana. They taught humans to wield what had always been around them but never within their grasp.
+
+The world changed.
+
+I turned the page.
+
+The tone shifted.
+
+But the first portal was not the last.
+
+The illustration was darker now. The cheerful watercolors gave way to heavier pigments. Instead of one circle of light in a green field, the page showed many. Scattered across a landscape that was already beginning to change, already losing its simple, pastoral quality.
+
+The more magic humans learned, the more mana flowed through the world. The more mana flowed, the more portals formed.
+
+One.
+
+Two.
+
+Five.
+
+Ten.
+
+Each number was accompanied by a small illustration of a portal, each one different. Some glowed with colors that didn't appear in nature. Some crackled with lightning. One was drawn as a wound in the sky, jagged and dark, as if the air itself had been torn.
+
+Eleven.
+
+Eleven portals opened in all.
+
+Each one from a world that had been destroyed.
+
+Each one bringing a people who sought refuge.
+
+The pages that followed were the heart of the story.
+
+Each portal's arrival was given a short passage and an illustration. Different races, different forms, different gifts. Some looked almost human. Others didn't. The illustrations grew more chaotic as the numbers climbed, the colors clashing, the tiny figures on the page multiplying until the world the artist had drawn was crowded, overflowing.
+
+But with each new people came new conflict.
+
+New demands for land. For resources. For power.
+
+The peace of the early days was a lie that everyone told themselves because the truth was too large to hold.
+
+The next illustration was the darkest.
+
+It showed fire.
+
+A war that swallowed cities. Tiny painted kingdoms crumbled. Human figures, once standing tall in their little crowns, were drawn smaller and smaller on each successive page, pushed to the margins, squeezed into corners.
+
+The masks fell.
+
+The refugees became conquerors.
+
+The guests became occupiers.
+
+The eleven who had come begging for shelter took what they wanted, and what they wanted was everything.
+
+The final illustration was almost bare.
+
+A single human figure stood at the edge of a cliff. Behind them, where the green world had been, there was only ruin. Burned cities. Empty fields. A sky choked with ash.
+
+Before them, stretching to the horizon, eleven shapes loomed. Shadows, tall and vast, each one bearing a single symbol on its chest.
+
+The text beneath was written in letters larger than any other on the page.
+
+The great kingdoms fell, one by one.
+
+The eleven refugees became the Eleven Sins of Humanity.
+
+In the smallest font on the page, tucked into the bottom margin.
+
+All that remains is to end our sins.
+
+I closed the book.
+
+My hands rested on the faded blue cover, and for a long time I didn't move.
+
+A children's story.
+
+The kind of thing a parent would read to a child at bedtime, simplified and softened, packaged in watercolors and fairy-tale language so that the horror of it could be swallowed without choking.
+
+However, the horror was there.
+
+Eleven portals. Eleven civilizations from eleven dying worlds, all of them pouring through cracks in reality that humanity's own discovery of mana had torn open.
+
+The wyvern's voice rose in my memory, layered over the book's final line.
+
+Humans stand on the verge of extinction.
+
+The pieces were assembling themselves.
+
+The elves were one of the Eleven Sins. The hooded figures who would burn Grezheim tonight, who had moved through the streets with curved blades and killing efficiency, they were elves.
+
+One out of eleven.
+
+I didn't know who the other ten were. The book hadn't named them individually. Hadn't described their forms or their powers or their territories.
+
+I reached for another book.
+
+This one was heavier. Denser text. Academic language that pressed against the edges of my Reading skill like a weight against a wall.
+
+I managed three paragraphs before the words started swimming. Each sentence required so much concentration that by the time I reached its end, I'd half-forgotten its beginning. The Gluttony had given me a foundation, but it wasn't infinite.
+
+I'd consumed as much as I could hold.
+
+I slid the book back into place and rose from the stool.
+
+My legs ached from sitting.
+
+I tucked the books back onto its shelf, straightened the others I'd moved, and left the room the way I'd found it.
+
+The girl at the counter was still there.
+
+Still moving at the same breakneck pace, still passing papers, still speaking to her crystal.
+
+She didn't look up as I passed.
+
+"Thank you," I said anyway.
+
+The words disappeared into the noise of shuffling paper and muffled crystal-speech.
+
+The sun hung low.
+
+Now it clung to the western horizon, painting the rooftops of Grezheim in deep amber and casting long shadows across the cobblestones.
+
+The streets were emptying.
+
+Vendors packed up their stalls. Soldiers returning from patrol moved toward the barracks. Civilians headed home.
+
+I walked back to the tavern.
+
+The smell of cooking meat reached me before the building did. Through the open doorway, I could see Vael behind the bar, wiping the same mug he'd been wiping the first time I'd walked in, as if the mug were a meditation device.
+
+I didn't go inside.
+
+Instead, I sat down on a small wooden bench outside the entrance.
+
+From there I could see the street in both directions. The wall was visible over the rooftops to my left. To my right, the road curved toward the central square.
+
+I settled my back against the tavern's outer wall and waited.
+
+The orange sky deepened. The amber turned to copper, the copper to rust, the rust to a bruised violet that bled into the advancing dark. Stars appeared. First one, then a handful, then a scattering that thickened with each passing minute.
+
+My eyes grew heavy.
+
+The warmth of the tavern wall seeped through my robe. The sounds of the town settling into nighttime quiet, doors closing, shutters latching, a dog barking somewhere far off, worked against my vigilance.
+
+My head nodded.
+
+Jerked upright.
+
+Nodded again.
+
+I pinched the skin on the back of my hand. The sting sharpened my focus for a few seconds before the exhaustion crept back.
+
+Not yet.
+
+I dug my fingernails into my palm and forced my eyes wide. While trying to keep myself awake, I heard it.
+
+A sound so faint it almost wasn't there.
+
+A thin, high whistle. Something cutting through air at speed, something small and sharp.
+
+My head snapped up.
+
+I tracked the sound instinctively, eyes lifting toward the sky above the wall.
+
+A single point of light arced over the battlements.
+
+It was small. A spark trailing a thread of flame, rising in a shallow parabola that carried it over the stone and into the town's interior. At the peak of its arc, the flame brightened.
+
+An arrow.
+
+Its tip burned.
+
+It descended in a graceful curve and struck a rooftop three streets away. The impact was soft, almost delicate.
+
+Right after, came the second and the third.
+
+Soon the sky above the wall was full of them.
+
+Ten. Twenty. Fifty. A hundred. They poured over the battlements in a rising tide of fire. They struck rooftops, shutters, carts.
+
+Fire spread. The flames leapt as if the arrows carried something more than simple fire.
+
+Accelerant. Alchemical compound. Magic. Whatever it was, wherever an arrow landed, flame bloomed outward with unnatural speed, climbing walls and consuming wood in seconds.
+
+I was on my feet before the first scream.
+
+"ATTACK!"

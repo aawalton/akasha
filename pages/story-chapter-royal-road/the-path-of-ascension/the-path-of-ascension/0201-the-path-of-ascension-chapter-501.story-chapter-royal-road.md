@@ -1,0 +1,387 @@
+---
+id: b28bf395-c32f-5f0a-aba2-e8e8451cb068
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 501"
+slug: 0201-the-path-of-ascension-chapter-501
+partOf: the-path-of-ascension
+position: 201
+ownLength: 7420
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3576403/the-path-of-ascension-chapter-501"
+royalRoadId: "3576403"
+---
+
+Chapter 501
+
+Emmanuel wasn’t sure how he felt as he watched Matthew return to the Empire. Once more, the child had obliterated all of his carefully arrayed plans without a single warning. However, where Matt’s Talent offered both positives and negatives in what felt like equal measure, learning of his Ascender’s liquid mana stones passively generating their own mana had only one result: Chaos.
+
+The instant he’d felt a piece of his spirit snap in the Corporations, he’d known he wouldn’t like what he learned, but even his worst nightmares had still managed to underestimate the havoc Matt could cause. He wasn’t proud of what that fragment of himself’s initial reaction to learning such information had been. After putting his composure back together, he’d immediately started exploring the possible futures that were only now likely, or even possible at all, because of this new factor.
+
+Emmanuel hated everything he found.
+
+A person who created appreciable amounts of mana with a singular Talent was a prize to be captured and held. Icliz proved that better than any future sight could.
+
+That was why Emmanuel had put in a lot of effort to ensure that possibility was as unlikely as possible. Now?
+
+He didn’t know if that had been the right call. Even if he’d seen this future back before he’d encouraged Matt to stay on the Path and improve himself, he’d have never considered it anything but one in an infinitesimally small chance. Mana creating mana should have been impossible, yet here they stood.
+
+A large portion of his plans had revolved around his ability to copy Matt’s Talent. Not only because it let them produce theoretically twice as much mana, but if Matt’s Talent wasn’t unique, it became far less valuable.
+
+It would have been a long shot, but his future sight indicated there was a chance of it working. Any such opportunities had vanished in a puff of smoke with Matt’s latest revelations.
+
+A person who created mana on a Realm-wide scale whose very mana could produce more mana? All of Emmanuel’s carefully crafted plans had been decimated by the revelation.
+
+After learning the news, he’d immediately retreated into his private rift instance, abandoning his active plans. He spent six stolen months inside a Tier 47 rift using a Tier 25 Talent that multiplied his mana regeneration ten times over Matt’s current regeneration. Generating that much mana with two separate Talents made his spirit burn, but it was manageable. There was no other option if he wanted to look through as many potential futures as possible.
+
+He needed to find a path through both the random and inevitable events that didn’t lead them to disaster. As he searched, the best futures for the Empire were pyrrhic victories, with the rest of the Realm in a state worse than the Shattering.
+
+Emmanuel found that unacceptable.
+
+He spent another unplanned nine months trying to study the future, but all he had to show for it was a spirit pushed to its limit from using three straining Talent sets at the same time. The helplessness threatened to overwhelm him, but he refused to let his willpower crumble in the face of adversity.
+
+So what if every future he could see was filled with endless dead ends? Most Tier 50s never had future sight and they hadn’t led their Great Powers into ruin. Overreliance on such a Talent was more likely to turn into a self fulfilling prophecy than save him.
+
+He had to repeat the mantra thousands of times before he managed to drag himself out of that mindset and into something slightly more stable. Thankfully, he already knew the solution to such a predicament. He’d hated his father for beating that particular lesson into him as a young man, but he was grateful for it now.
+
+Emmanuel tried to feel like a child as he remembered his father playing chess with him at Tier 6. He’d thought himself a fully realized adult on The Path at the time, and beyond such drop-ins, but his father had been waiting for him in his room when he’d returned from a delve with a chess set already laid out.
+
+At the time he’d hated his father’s nonchalance in claiming Emmanuel had been the one to initiate the meeting when he’d complained in their previous check in. Path rules couldn’t stop someone from talking to their parents for occasional advice, though they were supposed to be monitored but no one was going to monitor the Emperor when he wanted privacy. Not that his father had ever tried to help him while he was on the Path, but at Tier 6 he’d still been afraid of any such assistance.
+
+Looking back, he still couldn’t believe how much his Father had been able to accomplish. Despite having access to even more Talents than his father or anyone else, Emmanuel had never felt as in control as Georgios had managed to portray.
+
+As a kid, he liked to complain that his father had no stress because he’d already seen his entire rule before he became the Emperor, and was just acting everything he saw out. Having access to that very same power, he now knew how foolish that was, and why his father had never bothered to correct him even once.
+
+Logically, he understood a lot of that impression had been a carefully constructed show. He’d spent more than enough time on the other side as a Tier 50 to learn that, but even so, he never understood how his father always seemed to have time to pop in and teach him a life lesson right when he needed them.
+
+At the time, Emmanuel had been struggling to clear a Tier 7 centaur rift. He kept falling afoul of the monster’s hunting hounds, and with his third retreat fresh in his mind, he was questioning his whole fight for independence. The few Talents he'd been able to collect on his own hadn’t been strong enough to carry him through the rift, and he’d hit a wall.
+
+Or so he’d thought.
+
+He’d begrudgingly played chess with his father until he was only three moves away from a loss when his father raised a hand and stopped his next move.
+
+Even in his memory, Georgios’ voice was firm, though not without its own brand of warmth. “What do you do when your only moves lead to inevitable loss?”
+
+Emmanuel remembered how irritated he’d been fondly, now that so much time had passed.
+
+He’d been so moody as a child despite insisting he wasn’t. “I don’t know? Cheat? Flip the board?”
+
+He’d been trying to bait out a reprimand and a way to make his father leave, but he’d fallen into Georgios’ hands with his comment better than any genuine response would have.
+
+Georgios hadn’t smiled, but even the Tier 6 Emmanuel had seen his pleasure. “It depends on the context. Here, either might be possible, though both are difficult. I would notice any cheating if you moved one of the pieces during the match, but you might have been able to get away with changing an element earlier in the game if you’d been preparing for your loss. However, now that you only have three pieces, that’s a much harder sleight of hand to manage. Flipping the board, on the other hand, ruins the game for everyone. Sometimes that can be an advantage, but you’d better be able to pick up the pieces and survive the retaliation. That’s easier said than done when you are already in a losing position.”
+
+“Then what do I do!?” Emmanuel had been impatient and simply wanted an easy answer.
+
+Georgios had never given them. Emmanuel hated it then, but missed it now. “As I said at the beginning. It depends on the context. What is your goal?”
+
+The rest of the conversation had turned into a lesson on how not to over fixate on a small goal to the detriment of the larger mission. Emmanuel hadn't actually learned that lesson, no he’d managed to misinterpret it into a reminder of lateral thinking.
+
+Instead of moving onto another rift and advancing his Tier and coming back, he'd been inspired to reassess his ‘useless’ Talents, which itself led him to Gil Licau’s Talent, and using its ‘you may freely change the way you smell’ effect to confuse the centaur’s hunting dogs, giving him enough breathing room to win.
+
+In retrospect, that was a lesson to both of them, but Emmanuel’s takeaway was entirely different this time.
+
+If he couldn't see a way forward in the current situation, he needed to use what he had to create new variables while he had time. Each variable would be a stone he’d toss into the lake of destiny, hoping to make as large a splash as he could. He didn’t need to have a plan to create chaos.
+
+That simplified things.
+
+Emmanuel stopped searching for futures where the Empire succeeded. Instead he searched the near futures for events that had the largest impacts in the weave of fate. If he couldn’t control the future, he’d muddle and tangle it.
+
+That didn’t only mean creating new wars, though he knew his actions would undoubtedly lead to such a result. But that was inevitable in the cycles of Great Powers and something he’d long come to terms with. At this point, the only thing he could do was to use the upcoming conflicts to improve the Empire’s standing before the inevitable true war.
+
+He might not see a path forward now, but he first needed to choose which stones to throw.
+
+So much of the causality stemmed from Matt, Emmanuel started with him.
+
+He was very familiar with Matt.
+
+Emmanuel had watched the boy grow into a man, and he was proud of who Matt had turned into.
+
+Tapping into his bloodline, he transformed into Matt and looked down to the mirror he’d transformed almost a single percent of the Tier 47 rift instance into. The enormous dowsing rod didn’t reflect the false sky of the rift, but the interconnected worlds that represented settled space as they traveled through chaotic space.
+
+Better connected to his subject, Emmanuel spent another year searching the current near futures as he tried to get a better feel for the general trend of the Realm.
+
+The first thing he noticed was how the Great Powers surged with vitality.
+
+Aura alone would have changed the Realm with all the knock-on effects it had generated, but the addition of freely available Tier 0 skills had accelerated the process to a rate even he found hard to believe.
+
+In every future Emmanuel saw, the Great Powers expanded rapidly. They collected worlds as the Empire had been doing for the last immortal generation, not caring if the worlds were only Tier 2 or 3. The particular hows often varied depending on what felt like arbitrary things, but he skimmed through the futures, searching for anything odd or strange.
+
+He didn’t find it. Instead, he saw that the other Great Powers intended to take what the Empire had learned through first hand experience and apply the most refined methods for their own Great Powers.
+
+Emmanuel didn’t actually mind. That eventuality only made it easier for his father’s Talent to follow the lines of their future. That let him search for things he could leverage into larger changes in areas he shouldn’t have had any purchase to scan. He frequently couldn’t see what the changes would bring. Sometimes, he couldn’t even see what the changes were. But as he flicked through all manner of Talent combinations to augment what he’d gotten from his father, sometimes he could tell that a ripple might just happen.
+
+Fleeting glimpses of major changes. Things that could alter the entire boardstate. Changes that might, just maybe, give them a path forward.
+
+There was one particularly vexing ripple that he just barely caught a glimpse of. He had no idea what it was, concretely. He had no idea what it might do. Technically, it would help an enemy more than him - though what something that could happen in Clan space would strongly benefit the Republic he couldn’t tell - but that ripple still caused those all-important changes in the otherwise implacable walls of the future.
+
+And it was easier to exacerbate change than to start it.
+
+Though, now that he was looking for ways to instigate that ripple, it was hardly simple. Very few of the tools available to him offered a straightforward path to that resolution. Through that, he could see the number of particular circumstances which would need to occur. Ripples that needed to create ripples, each of which was already unlikely.
+
+And all together?
+
+Practically impossible.
+
+Emmanuel tried to find an easy line through, before he moved on after a few fruitless minutes. He’d found the pivot point and that was his current goal, so he continued looking forward. In almost all of the futures he saw, the Realm actually experienced at least two thousand years of peace. In fact, the longer the peace, the harsher the initial immortal population wars would be.
+
+Thanks to aura potions and the availability of the free skills, survival rates across the lower tiers would spike in every Great Power. With no final bottleneck at Tier 14, the Realm would see an unprecedented surge in low Tier immortals.
+
+That wouldn’t hold true for higher Tiers. It couldn’t.
+
+The Realm would find its own new equilibrium sooner or later. It—
+
+Right there.
+
+Once more, Emmanuel had almost missed it.
+
+That was another angle that had the potential to cause ripples. Not at the same intensity as his previous find, but it was the best he’d found, so he’d take it. They would desperately need the economic uplift that large scale internal construction could provide to get them through the upcoming economic downturn and he’d be able to cover two bases at the same time.
+
+Emmanuel didn’t bother investigating about the particulars of how to implement that plan. Two sources of chaos weren't enough. Three weren't really enough either, but he’d accept it as a starting point. He’d seen with his future sight that so long as he managed to create that many separate sources of confusion, the chaos could compound off each other and expand.
+
+However, he was also on a deadline.
+
+His firstborn.
+
+That was to be a pivotal moment in the Empire's future. A massive set of ripples flooded out from that singular point, and would solidify and exacerbate many things already set in motion, while washing away others. No matter what happened, he needed to be ready by then. He could have either already acted or act immediately thereafter, but that was a point he could barely see beyond.
+
+Emmanuel eventually gave up on finding a third leverage point after spending six more fruitless years searching. Instead, he decided to trust in what worked and invest in the people around him hoping one of them might surprise him.
+
+He already owed Aster for enabling the first fulcrum by turning over Tessa, a Clans spy she picked up in the breach instead of killing the body hopper outright. Helping Aster develop her bloodline and spirit space wasn’t as simple as piling resources on her, but they had some things that would help in the vault. And if he was already tapping into those resources, he saw no reason to hold back.
+
+After all, unless he managed to change something, anything he held onto would only see it fatten the winners of the true war as they fed on the Empire's corpse.
+
+No, it was better to use them. There were items all of his Ascenders could use or eventually grow into, but they were only seven, and far from enough to swallow the efforts of his forebears.
+
+No, it was better to spread the resources wider. To create more chaos.
+
+He’d release the Tyrannical Stygian Ursine bloodline to the Knightly Orders, using it to bolster or outright create a more loyal element in that faction. Titan’s Torch would shortly reach the critical point and have a few minor successes in more specific aura types. Riding that wave would help the orders recover.
+
+It would be an open ploy, but that was part of its strengths. The orders would never pass up the opportunity to get their hands on the bloodline. It wouldn’t repair the generations of hate between sides, but he hoped to use it to prevent the poison from spreading further.
+
+That thought brought a smile to Emmanuel's face. It slotted into his second fulcrum and he decided to expand the idea. Not because he thought it would create uncertainty in the future. No, he was betting on their eventual victory.
+
+He might not be able to see it, but if he consumed without replenishing, he would only have a husk of a Great Power on the other side of even a victorious True War.
+
+As for the resources?
+
+At worst, his most powerful and trusted people would grow stronger. If he was lucky, he’d help someone invent some new Realm changing power, like Aura or Tier 0 skills, and completely reshuffle the board. He’d also settle for a single additional source of chaos, even a minor one, but he was desperate. Anything would be an improvement over what he foresaw if he couldn’t change something.
+
+Emmanuel only needed to spread seeds he thought might take root and not cry over the ones that didn’t. The downside was that they only had a few thousand years before the future became the present, then past. He worried that wasn’t enough time.
+
+But what did he have to lose? He could see the future and there was a reason he’d already bet the Farm. He might as well bet the vault as well.
+
+The minute Emmanuel exited the rift, he started casting stones, not even bothering to watch the splashes.
+
+***
+
+Megan stalked down the rubble filled hall, even as the Warriors beneath her straightened from whatever they were doing into regulation perfect salutes. Not a single one let the wounds they’d suffered in the battle to uproot the spies show, but she expected nothing less. They were the best of the Warriors, who all understood what and who they worked for.
+
+They may have never expected to see her when they joined the Internal Stability Agency, but today wasn’t a normal day, and this wasn't a normal incursion. Despite its attempt to appear as such.
+
+At least, she suspected it wasn’t. It was too close to secrets no other Great Power should have access too. That, combined with one of her agents who discovered a hint of something out of the ordinary, had earned everyone here a personal visit.
+
+Megan had her suspicions, but didn’t let her underlings see any of that as she slowly walked through the former base. She found her target standing at rigid attention, waiting for her outside the room in question.
+
+Dale Yanla was missing an eye, leaving his implants clearly visible, but his voice was clear and unbothered as he described the scene that caught his attention and brought her here.
+
+“So, they were trying to destroy this body? Even at the cost of seven lives? And preventing such nearly killed you?”
+
+He confirmed, and she reached out with one of her tentacles. As it approached the man, she split off a single wire, unwinding it from the sinuous limb and allowing it to form an adapter at the end.
+
+She connected to Dale, and reviewed all that his implants had experienced, parsing it through her superior cultivation. Then, she disconnected and turned away from the man.
+
+“Understood. Whether or not this was actually something, your instincts were correct. They were suspicious. Well done. Stand by in case I have more questions.”
+
+She saw him try to control the biological responses to learning his life wasn’t forfeit for bringing her to his mission, but she didn’t acknowledge it.
+
+Instead, she pulled herself closer to the ceiling, her tentacles connecting to every data ports she could find and extending into the guts of the building itself, as she hunted and eliminated all escaping enemies. Likewise, she connected to the Federation’s Informational Network, seeking to find a potential candidate for this particular scene.
+
+She found her answer in the bone marrow. There was a slight solidification she identified as a side effect of Tessa Bluesand’s possession. A Clans spy with a fairly consistent form of bodily self-destruction that normally prevented easy discovery, Megan never expected her local operatives would have caught less subtle clues but they had.
+
+Megan felt her lip curl at the thought of the dwarves nosing around in the Federation. Again. The same filthy interlopers who were standing in the Federation’s rightful place atop the Realm.
+
+Megan smiled as she caressed the lifeless hand.
+
+Poor little Tessa. Killed by a Slayer during the Rasdale breach only to die on her very next mission in the Federation.
+
+Megan regretted not having arrived earlier, but knew it was futile. If she had been there, she could have prevented the woman's spirit from returning to her original body. That was a… pity, but she fought back the inferior instincts that would have seen her tentacles crackle with lightning.
+
+Raising the hand to her nose, she took a deep sniff, searching for anything else amiss. The body was thoroughly destroyed, having been shoved into an industrial thrasher, but she wasn’t trying to identify the body’s physical appearance. There were far too many ways to change that. She was only looking for any sign of outside interference.
+
+Their spies had verified Tessa died in the breach, and that was more than enough time for her spirit to recover enough to take over someone new. This body was unmistakably freshly dead. She could still feel the lingering traces of Tessa’s spirit left after having inhabited the body. They were slightly different from the original body’s, and even gave her something of a time frame.
+
+Tessa had only inhabited the body for five, maybe ten, years.
+
+A few miles away, a Leader was in the midst of assessing the evidence some of the Community was presenting to them. She briefly manifested a [Clone] near them, and after a brief allowance for them adjusting to her presence, gave her orders. “Go and check the latest updates we have on Tessa Bluesand. Passive observation only. I don’t want to trigger any Clans protocols by nosing around. Her handlers surely know of her latest death, but I don’t want them to know we identified her. Do you understand?”
+
+“Yes ma'am!”
+
+“Dismissed.”
+
+The man blurred as he activated every spell at his disposable, moving to fulfill her task as fast as physically possible. Those left behind looked jealous, but she was in no mood to reignite the slaughter. At least not today.
+
+While she had eliminated those rats she could find, scurrying away as due their station, she was confident that there were those adequately trained to evade the sorts of scrutiny she was most equipped to provide. And every moment that her underlings were not fulfilling their duties was another moment in which traitors and cowards could seek to preserve their miserable lives.
+
+If they couldn’t flush out her targets, they were better off being repurposed.
+
+She kept altering her perceived timescale, as she would not assume her targets were of a particular level of power, and behavior that appeared standard when she viewed them with her full might may reveal itself to be traitorous when observed over time.
+
+A spy, two corridors down, had a nerve give out. Literally. When he felt her attention he confirmed everything by seeking to flee, but Megan wouldn’t allow that. Between two of his blinks, she had retrieved him and held him within her grasp. He was such a pathetic little specimen who tried to end his own life. As though she hadn’t grasped his cultivation core in a weave of impenetrable tendrils to prevent him from detonating it. As if she hadn’t siphoned the poison sequestered in his bones.
+
+Some lingering hint of savagery, which no amount of procedures had managed to remove, compelled her to watch him squirm under her gaze.
+
+He was defiant, but she hardly needed his cooperation.
+
+A singular wire, unfolded from her tentacle, pierced his brainstem and unravelled all the more, integrating within his nervous system and connecting her directly to his biological memories. That once again required her to wait for the mere Tier 17’s thoughts to process that usurpation as she riffled through his recent experiences.
+
+Naturally, nothing pertaining to Tessa was to be found.
+
+Instead of dispelling her suspicions, that fact only reinforced them. It wouldn’t be the first time the Clans had used Tessa as a deep cover agent inside one of their own operations.
+
+Thrice more, she flushed out lingering spies from the local’s, and she captured each of them within her embrace. But once she possessed four, she left a [Clone] to continue overseeing the operation, while she herself swam into Chaotic Space, then landing into one of the Great Mother’s hidden Workshops.
+
+It was supremely satisfying, to have caught a rat’s nest so close to the laboratory she had been performing her work within. Worrying as well, to have a rebel cell so close to one of their Grand Workshops, yet it was oh so very convenient that new test subjects would donate themselves to the cause so graciously.
+
+Vermin of all sorts ought to make themselves useful.
+
+She would still need to report this to Virgil for both retaliation and a warning that the other Great Powers might not be as blind to their off the grid activities as they’d believed. She would need to up her peoples’ patrols, but they may need to clean out some of the known spies and reset the other Great Powers’ efforts.
+
+No matter how many times they cleaned the rats out, new ones would scurry in, but it was their duty to remain ever vigilant against such threats. And there was no greater purpose than duty.
+
+Megan’s gaze turned to their Grand Workshop. If they succeeded, they’d be able to create perfect citizens en masse.
+
+Then it would be time to repay new and old enmities alike.
+
+***
+
+Matt hadn’t expected that only five hundred years after getting his augment and [AI], he'd voluntarily sign up for more work. Especially not sacrificing his scant free time while they were delving to advance to Tier 35 before the treaty with the Republic, Sects, and Federation expired.
+
+While the other seven Great Powers were expanding outward, the Empire was limited by the treaties they’d agreed to after the last war. Manny had proven unwilling to sit around and squander their lead, and had decided to start by improving the nigh uncountable low Tier worlds he and his predecessor had gathered.
+
+Teams unseen by most civilians moved through each duchy’s low Tier star systems and ensured the outlying celestial bodies had developed essence cores and were cycling properly, as well as make sure the inhabited planet's infrastructure was up to date. It was expensive, as Matt knew, having helped pay for the initiative, but it was worth it. Their efforts would help ensure that when the systems eventually reached the double digit Tiers, those outer planets could be used as training worlds, expanding the Empire's available rifts a thousand-fold.
+
+Matt and his fellow Ascenders were only required to provide some logistical and bureaucratic support in their role as Dukes, something their seneschals could take care of easily enough, but Matt decided to do it himself. He always had a soft spot for these kinds of projects. Which was why after they handled their and their friends' duchies, he’d inserted himself deeper into the guts of the implementation. It was really good training that covered the skills he didn’t get to normally use in combat.
+
+In fact, he could have completely rebuilt a lightly populated sub-Tier 4 world in a single month of grueling work, but that wasn’t what he wanted to do. He did it once to see if he actually could, but that taught him exactly how much he didn’t like it.
+
+He took another path. In fact, he took a page out of Icliz’s book, despite how much that made him feel like a hypocrite. As a Tier 30, his Domain was large enough to cover a planet, letting him fuel local efforts. And as they advanced in Tier, his range only rose, which made that part of his job that much easier. That in turn let him focus on more interesting projects.
+
+Matt found it gratifying to see entire towns and cities refurbished over the course of a week or two, ushered along by the locals' own efforts. The results may have been visually simple most of the time, but they and the people inspired him.
+
+The spiritual strain that came from empowering so many people at the same time burned like liquid fire, but he didn’t mind all that much. Something difficult but possible only meant it was a new method to train between delves.
+
+To avoid overstepping the residents, he concentrated his attention on a wholly new but singular thing. He made a lot of cities in those first years as the program worked through the plethora of Tier 2 and Tier 3 worlds.
+
+His first few were simple, square, and boring, but they were learning experiences. The only thing they hadn’t been was small, but he quickly realized that was the wrong direction to go. As much as he didn’t want to make a small city for the uber wealthy to buy up the moment he left, he didn’t like the idea of creating something so soulless as a perpetually empty city even more.
+
+Learning from that, he scaled down to large towns or small cities that were only meant to house ten to twenty thousand people. With the decrease in size, he was able to increase the attention he gave to every detail, and that was where he found success.
+
+Matt began making each settlement with a training goal in mind. One city he created in three singular, discrete steps that each took a week of preparation. He summoned, formed, and then enchanted the entire city just to see if he could do it.
+
+He could.
+
+Not that Matt stopped there. He made the next settlement from the ground up, completing every step at the same time. He pushed his abilities in a new direction as he tried to find the limits of himself, his augment, and his [AI]. Any time he did, he worked on training it away during the next project until he was satisfied.
+
+When any task inevitable became too easy, he upped the ante with himself. When that wasn’t enough, he brought Luna in to help. He was glad he did too. Her suggestions were always fantastic.
+
+His next city he designed in a way that the expected traffic patterns would move the ambient mana around in the same pattern as a cleaning formation. It wouldn’t keep the streets spotless, but it would reduce the volcanic ash that built up in that particular city from its leaky mountainous overlord, without having to dedicate additional expenses.
+
+Although looking at the place after he was done…the city’s layout was a little bit convoluted. The streets would be a mess to navigate, the zoning was by necessity all over the place, and the less said about the sewer system the better. No one asked him, but he considered the resulting view worth the minor inconvenience of living on an active volcano in a strangely built city.
+
+Fire cultivators would love the location.
+
+It took two thousand years, but once the Empire had gone through the low Tier worlds that needed assistance, Matt found that the projects got a lot more interesting. He knew his constant interruptions between delves could be annoying, but he repaid any such inconvenience with his Concept. After all, if they wanted him to stop, they only needed to ask, and they never did.
+
+While low Tier worlds needed habitability and safety, Tier 6 to Tier 13 worlds had different requirements and needs. Most of the efforts were directed to preparing for the ever expanding demand for aura rather than the people directly. He spent a lot of time assisting the construction of space stations in such systems to help support off-world delving efforts.
+
+Portals to outer systems would have been faster but they were far more expensive. After the third time he created and then immediately decommissioned an in-system teleportation node that was simply too expensive to use in anything but emergencies, he started looking to use his liquid mana stones, but they made terrible batteries. The second they were tapped for mana they wanted to self-destruct.
+
+Between projects, he tried to fiddle with the idea, but even with his improved mana control and his [AI], he struggled to get started. Let alone make advancements.
+
+His hard work was rewarded midway through Tier 33, when he finally completed fully activating his Stage 2 Power and empowering his Talent. The surge of power had been exhilarating and he’d reveled in the satisfaction of his success. It signified that he’d managed to boost every portion of himself and was ready to start searching for the elusive Stage 3.
+
+Not that he was in a rush to claw for more power when he could barely use his newest ability. If he’d let it, boosting his Talent would have drained his entire willpower pool dry in an instant. In exchange, for that brief period of time he’d be able to generate as much mana as if he’d been a Tier higher which he considered worth it. His willpower pool was hardly static and would expand as he pushed himself.
+
+Feeling confident, he immediately tried creating the third stage, but he ran into the same problem everyone else did. He didn’t know what it was, and no one who had one would speak of it, leaving him to scramble along in the dark.
+
+***
+
+Susanne panted as her Tier 34 greatsword trembled. Its tip made a small tight figure eight over and over. The first was due to her exhaustion, she’d been fighting the conjured opponent for over a week straight by this point, but the second was entirely intentional.
+
+With every movement of her blade, the futures she saw changed.
+
+Her opponent chose that moment to thrust their own greatsword forward in an uncommitted probe.
+
+Deflecting, she stepped to the side, already having seen the horizontal slash they wanted to make if she was still trying to redirect their thrust's unexpectedly strong momentum when they retracted. She couldn’t see them, or anything except her greatsword, but that was all she needed to read the fight.
+
+If she’d been fresh the vision would have been clear, but a week into this spar her eye hardly functioned. She ignored that tidbit, she was determined to extract every ounce of training from her opponent before she fell. She’d exchanged two thousand years of merits for the fight, and she wanted to get her money's worth. She could have bought one of the Tier 38 skills with her merits, or saved for one of the Tier 44’s that had been quietly made available.
+
+Susanne had to. As things stood, she felt stuck in place, unprepared to advance to Tier 35 with everyone else. If she advanced early, she’d only hamper her own future, but she felt like she’d already pushed herself to her limits and found no more easily available growth.
+
+Liz was working on her Aspect, Aster her bloodline, and Allie had been pushing both her Aspect and her teleportation in tandem, given how interconnected they were. Matt at least had the good graces to also be stuck at his third stage Power, but he had made progress with his talismans, which meant he had advanced while she remained stagnant.
+
+While… Zack was growing. On her good days she wanted to say they were growing together, but in recent years she’d found herself pushing far beyond exhaustion to project even the semblance of keeping up. She was considering spending immortality with someone she couldn’t match, and that made her feel inadequate more than anything else ever could.
+
+It made her feel like a hanger-on in her own life.
+
+Susanne crushed that last thought as she thrust, then leapt backward, trying to create distance as her opponent split into three. Each of the copy’s swords flashed out, ready to punish any unchecked aggression, but she was already gone.
+
+Instead of matching them clone for clone, a futile effort she’d learned the hard way she couldn’t win, she kept her vision on her sword. Through bleary eyes, she watched her opponent’s possible moves and reacted accordingly. Her next deflection turned into an angled downward slash, aiming at one of the copies’ shoulder blades.
+
+Her enemy slid to the side on a small wave of stone as the two copies dissipated in a gust of wind. The lone figure circled around her, gaining speed with each rotation until they were a blur, limiting her movement. She stepped forward, trying to intercept her enemy as they circled her, but they kept their distance, never letting her get within blade range.
+
+Susanne didn’t let herself grow frustrated with this new annoyance, despite her flagging strength. She focused on her Power, hoping it might have a solution. From a single word to an entire page, she’d slowly grown her Power every step until she’d finally caught up with Matt a thousand years ago.
+
+Since then, she’d been working on the same things with no appreciable progress. Her Aspect, of which she had both her Anchor, her sword with half of its blade broken, and her Truth. Her Power, future sight, and swordsmanship were no easier tasks, and their refinement served to get her closer to her true overarching goal.
+
+She wasn’t only searching for how to advance to Tier 35, she already knew that she could take that step with a single unit of essence. Susanne wanted to advance as a proper Tier 35 elite, and a shoddy foundation would only see her weaker than her older contemporaries.
+
+That would only end in her death on some battlefield she hadn’t really been prepared for.
+
+As her sword moved to block another viper-like strike, she struggled to keep her exhausted body upright and she let her mind go on autopilot, trying to delay the inevitable.
+
+When things got complicated, she only needed to stick to the basics. Hold onto what she knew.
+
+Susanne felt the world start to focus as the fight itself started to blur. Or maybe that was the opposite? She wasn’t sure. She could still feel every blow, every ripple, every feint, and thrust but they felt distant, as if they were happening to someone else. At the same time, she was more aware of the world, of the Realm, than she’d ever been before in her life, but she couldn’t focus on anything except herself and her sword. Anytime she tried, everything slipped and she followed that feeling.
+
+When it came down to it, that was what all she truly had. Susanne herself. Even her sword was herself by being her Concept. It had been there from the beginning. Just the two of them in a large and unfriendly world.
+
+Susanne nearly stumbled as she realized that wasn’t actually true, her opponent's blade almost taking off her head. Her dodge cost her a portion of her cheek and ear but she ignored the new wound.
+
+Her life hadn’t only been the two of them. She’d had her writing. It was a part of her like her fingers and toes. She’d dabbled in writing when she got her Talent to apply to her blade, but in retrospect, that felt… like the first step rather than the final one she’d treated it as.
+
+At the same time, she didn’t need a streamer to follow her greatsword's passage through the air, no matter how sharp it was. She needed more. She didn’t need to only write words but… spells?
+
+When she tried to follow that idea, she felt the world tremble. The question was important, but that was the wrong answer. She wasn’t sure what, why, or how, but something about the fight spoke to her battle sense in a way that spoke to her Talent.
+
+Balanced on a knife’s edge, she understood that if she couldn’t correct her misunderstanding, she’d fall backwards into the darkness of her previous self. On the other side, if she could understand whatever her intuition was trying to tell her, the world would open up.
+
+As her mind raced, her greatsword never stopped moving, trying to delay her defeat. In that desperate dance, she found it. It was in the way her opponent moved. While she had never been able to identify her opponent since the fighting had started, only now she realized why that was true as the darkness seemed to recede slightly.
+
+Her opponent was everyone she’d ever fought and would fight. The actual truth of the situation didn’t matter. If she could beat them, she’d be able to defeat anyone, past or future.
+
+Susanne only needed… to move faster. If she wanted to catch up, she needed a similar amount of speed to match and then dominate their speed. She needed strength to match strength.
+
+She needed…
+
+Susanne slashed out twice more before she was forced to duck low under a wide sweeping slash. Instead of retreating, she used the opening to thrust into her opponent's stomach, trying to catch them off guard or force them backwards to create distance and buy herself a moment of time.
+
+Her opponent deflected her first attempt, but she reacted according to her instincts rather than her conscious mind.
+
+Using the tip of her sword, she wrote a saga in her swing. A story of this very battle, of this very attack. Or she tried. With each stroke of her brush, she came to better understand both the story she was writing and the book that contained it.
+
+Susanne was both subject and author with her sword in hand. The narrative was hers to carve into the Realm itself, so long as she was strong enough to impose her will. Her Intent throbbed as millennia of effort crystallized into a new ability.
+
+Susanne slashed out at the probing attack aiming for her head, but she didn’t use any of the clean and precise moves she’d practiced all of her life. Her strike was shaky, with a pattern that left far too many openings to be practical. In any other fight except her current one, the move would have caused her death.
+
+At this moment?
+
+Now her attack, as disjointed as it was, perfectly countered her opponent and their oppressive strikes. She instinctively knew she hadn’t become omnipotent, she was only writing the story of their fight. If her opponent could break out through brute force or find a flaw she hadn’t accounted for, they could escape her control, but they’d need to do so while dealing with her.
+
+When she needed to move faster, she wrote speed and strength into the story of their fight. When she needed to dodge an attack, she used blade and writing to create defenses, bringing her own growth armor chestplate into the mix.
+
+With each swing of her greatsword, Susanne felt herself harmonizing with the Realm until there was no telling where she ended and it began as she finalized her Intent’s new ability.
+
+Her next lunge both spelled and moved with speed. She understood that the blade’s progress would look choppy and stuttery to an outside observer, but that couldn’t be farther from reality. Her blade followed the unseen story and reflected it back onto reality, moving faster than should have been possible. Then, as her position improved, she called upon cut, and then wind to finalize something she had yet to understand herself.
+
+Susanne’s greatsword blurred as her opponent failed to block in time and was sliced in half, but she never saw it. Her attention was focused on the single mote of essence she automatically absorbed as her cultivation advanced to Tier 35 all on its own, even as she fell unconscious.

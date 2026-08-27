@@ -1,0 +1,247 @@
+---
+id: e3aab2d6-9b0c-5550-be4b-7fb4dae07249
+page-type-slug: story-chapter-royal-road
+title: "344. Champion Part Four"
+slug: 0046-344-champion-part-four
+partOf: salvos
+position: 46
+ownLength: 2950
+unit: words
+publishedAt: 2022-05-17
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/908492/344-champion-part-four"
+royalRoadId: "908492"
+---
+
+344 Champion Part Four
+
+Belzu looked down at the sphere in his hand, seeing the two Infant Demons make a break for it. They ran from the other Demons chasing them. They fled, unable to fight back. The Primeval Demon cackled in his victory. He glanced back down at where Mori Gladius and the Salvos clone had been standing. They were both gone.
+
+That was right. He hadn’t been lying. Or maybe he’d lied a little bit.
+
+It was an illusion in a sense. But an illusion so powerful it warped reality— that it became real. That it trapped Belzu’s targets in a world of his own creation. And they were forever cursed to live through the Desolation. Through the hell that was the Netherworld.
+
+Perhaps they could break out of it, given time. And that was why Belzu hadn’t sent them alone. A small portion of his army was sent along with them to the Primeval Demon’s world. And he’d given the monsters bodies of powerful Demons. They would kill both Mori Gladius and the Salvos clone. Eventually.
+
+Perhaps both the Salvos clone and Mori Gladius would retain some of their abilities. But it would only delay the inevitable. There was nothing more for Belzu to do. His biggest threats were trapped, and he was free to continue his razing of the city. And… bolstering his army.
+
+The Primeval Demon looked over beyond the city walls. He saw the adventurer army retreating. And he moved for them.
+
+“Retreat! We need to leave now!”
+
+A voice shouted. Zack glanced back at the rest of the adventurer army. They were already pulling back. The army had taken severe losses. Thousands of adventurers were dead. But they’d managed to take out just as many— or even more— monsters than that.
+
+But the horde of monsters just kept coming. They didn’t stop. And it was time to leave. Zack agreed with that, but his teammates weren’t as easy to convince.
+
+“Jaakko, you heard them! Let’s get out of here!”
+
+The Cyclops crushed a Saeve with one of his four arms. The ape-like creature went limp. Jaakko turned back and faced Zack with his one eye.
+
+“We cannot retreat.”
+
+He spoke simply. Zack gestured exasperatedly at the burning city.
+
+“There’s not a chance that there’s a single civilian left alive there! Why are we staying?”
+
+“Because…”
+
+Jaakko paused. He looked over at one of the few adventurers who were still fighting close to the city’s walls. Zack followed his gaze and saw Scarlet. The Red Rose. One of the Elites of the Remembered Order Company. She fought alongside another Elite. Tyrian the Brightsbane Archer. They didn’t back up, even when the rest of the company fled.
+
+“What are they doing?”
+
+Zack asked, utterly befuddled. Helen walked up behind him, pursing her lips.
+
+“Mori Gladius hasn’t returned from the city. They’re waiting for their leader.”
+
+“What?”
+
+It took a moment for Zack to process this. That meant they were all waiting for Mori Gladius to return. Zack shook his head.
+
+“Mori Gladius is the Champion of the Human Lands. He can handle himself. And if he can’t, we have no business being out here. Let the Elites handle it.”
+
+Jaakko remained silent. Helen protested.
+
+“But we can’t just leave!”
+
+“We’ll just be in the way.”
+
+Zack spoke, voice level. Still, she wasn’t convinced. She turned to the Cyclops— the leader of their team.
+
+“Jaakko!”
+
+The Cyclops didn’t speak for a moment. It looked like he was in deep thought. He stared at the city as another burning building collapsed. Finally, he sighed.
+
+“Zack’s right.”
+
+“Of course I am.”
+
+Zack snorted, glad his leader was finally seeing some sense. Helen blinked. She opened her mouth to argue, then she looked at her two team members. Her shoulders slumped.
+
+“I… see.”
+
+Jaakko nodded.
+
+“I do not wish to leave the Champion of the Human Lands alone. But our help is not needed here. Let us go—”
+
+He started, only for a blinding light to cut him off. It tore through the battlefield, slicing through the first ranks of adventurers before they could even react. Dozens of Platinum Ranks and a few Diamond Ranks just vanished, killed by the giant blade of light in an instant.
+
+Jaakko, Helen, and Zack would’ve fallen victim to the attack too if they hadn’t been saved. Zack blinked as he found himself floating, being carried by the Salvos clone that had been protectively hovering over them.
+
+“W-what…?”
+
+The [Mage] stared at the ranks of dead adventurers. Both Scarlet and Tyrian managed to escape in time too. They were tense, weapons at the ready for whatever it was responsible for that attack.
+
+The Salvos clone slowly lowered Jaakko, Helen, and Zack to the ground. She hurriedly gestured at them to leave. Zack stumbled to his feet, still in shock. Then he looked at what the Salvos clone was looking at. She stared into the raging flames. At a bloated figure slowly flying out of it.
+
+“No…”
+
+He gasped. That was when he saw it. For the very first time, Zack caught sight of the Primeval Demon.
+
+It emerged from the flames, followed by its army. Monsters of all kinds. Undead of all Species. Zack was almost certain he saw Humans amongst them too, but he was too transfixed on the Primeval Demon to even realize what he was looking at.
+
+The Primeval Demon’s presence weighed on him. A creeping sense of dread crawled over the battlefield, smothering any spark of fighting spirit that had previously been there. A sick grin spread across its face as it spoke a simple order for its army.
+
+“Kill them all.”
+
+And Zack screamed. The adventurers fled as the horde of monsters gave chase, led by the Primeval Demon itself.
+
+This was it. Mori Gladius had found himself in many dangerous situations throughout his life. As an adventurer, he was no stranger to death. Many of his friends and allies had died throughout his adventures. Throughout his journey to become the Champion of the Human Lands.
+
+He knew that a time would come when he, himself, would eventually fall in battle. He was prepared for it. But he didn’t expect to go out like this.
+
+A Greater Demon swung for him as he barely scuttled out of the way, using his little nubs to carry himself as fast as possible. It missed, instead striking a Lesser Demon. The Lesser Demon snarled in anger. It struck back, only to be crushed by the Greater Demon.
+
+Mori Gladius sighed internally in relief, grateful for that brief reprieve— for that delay it had bought him. The Demons continued to give chase as he could only crawl-scurry back. Behind him, the Salvos clone followed. She matched his speed, although it wasn’t very hard to do so.
+
+They were both slug-like creatures that barely had any appendages or limbs. The Primeval Demon’s Grand Skill trapped them in these bodies. It had placed them in this world. In the… Netherworld? Or a recreation of it?
+
+He didn’t know. It didn’t matter to him. All he knew was that he was going to die in some unknown place with the body of some grotesque creature. It was a shameful death. He couldn’t even fight back. He tried, oh, he did.
+
+But when he threw himself at these larger creatures, all he did was flop over and fall to the ground, barely even stalling them. So all he could do was run. But he couldn’t run forever.
+
+A Lesser Demon intercepted him— a kind of [Djinn]. It towered over him, and he swiftly crawled around its legs. The [Djinn] kicked once, sending him flying in the air. The single hit battered his body. He landed on the white ground with a thud, bleeding a black blood that mixed with the rain from above.
+
+He grimaced.
+
+No… He got back up, immediately taking off running again. Not like this—
+
+And an Archdemon caught up to him. Its claws raked his back as he recoiled in pain. He wiggled around the Archdemon’s arms as it picked him up. It had a demented head— that of a monster’s skull. And its jaws unhinged, revealing a hundred razor-sharp teeth. It held him over its mouth as he struggled to break free.
+
+I can’t die like this, he thought as he gazed into the bottomless pit of the Archdemon’s maws. It easily kept back the Greater Demons and Lesser Demons. It slowly lowered Mori Gladius down, closing its jaw.
+
+He shut his eyes, accepting his fate. This is how I go, huh? It was bittersweet. He took solace in knowing that he died protecting Humankind, living up to his Title as the Champion of the Human Lands. But he was going to die in another world. In a reality-warping illusion. As a Demon.
+
+It truly was a tragedy—
+
+And he heard a thud. A hard smacking sound. Almost wet. He opened his eyes to see the Salvos clone throwing her slug-like body straight into the Archdemon’s mouth. It knocked the Archdemon back, causing it to stagger and drop him. Mori Gladius stared at her, confused. She looked down at him once and nodded.
+
+Why…? he began to ask, and the Archdemon bit down. It was a chomp. One that crushed the Salvos clone instantly. Mori Gladius flinched. Why would you save me? he asked again.
+
+It was over. He was next. All she did was delay his death for a second longer. All she did was—
+
+And there was a glint. A bright light coalesced deep within the Archemon. It paused. It fell to the ground in pain. Mori Gladius’ eyes widened. He leapt back, scuttling past the other Demons as the light grew brighter. Before, finally, a powerful explosion ripped apart the landscape. It killed the Archdemon instantly, before blowing apart the nearby Greater Demons and Lesser Demons.
+
+Mori Gladius himself was caught in the blast. He was sent flying back and slammed into a large rock. He fell over in a daze, vision growing dark. Now is this really it? he wondered as the world vanished.
+
+—--
+
+“You did it.”
+
+A soft voice spoke in the room. Mori Gladius sat up abruptly, nearly knocking over the report that had been laid on his desk. He glanced over at the figure standing by the doorway. A young man, barely twenty years old, stood there with a raised brow.
+
+“I’m surprised. I’d have thought you of all people would have fucked up.”
+
+“Fuck up? What are you—”
+
+Mori Gladius started in anger, before catching himself. He straightened and bowed at the young man.
+
+“I’m sorry, Master. But may I ask why exactly did you think I'd fail my mission?”
+
+“I told you before, Mori. You don’t have to address me so formally.”
+
+The young man just chuckled. He walked over to the desk with a skip in his step. Utterly carefree. He sat down and crossed his legs.
+
+“I told you, you can just call me Yves.”
+
+Mori stared at the relaxed young man. At Yves Virgil. The leader of the Remembered Order Company. The Watcher. The highest-leveled Human in the entire world. Then Mori shook his head.
+
+“I’m sorry, but I cannot address you that way, Master. That would be disrespectful and rude of me to do so.”
+
+“Geez, you’re always so uptight, aren’t you? You need to relax more. Although… I guess that stubbornness of yours is why you got that Title.”
+
+Yves smiled. Despite his youthful appearance, he was nearly twice Mori’s age. Mori wasn’t sure how the Watcher looked so young. It was possible that Yves had a second Class as an [Alchemist] and concocted Potions of Youth for himself.
+
+Mori Gladius never thought to ask. Yves continued.
+
+“Champion of the Human Lands, huh? What a prestigious Title. You’d think you’d have gotten it from besting the Demon King in a duel, or fending off a Kobold army all by yourself. And yet, all you did was negotiate with the Elven Matriarch Ios-friel and convince her not to invade the Human lands. You, of all people.”
+
+The Watcher placed his hand on his forehead like he was in disbelief. Mori Gladius pursed his lips.
+
+“Did you think I was going to fail, Master?”
+
+“Maybe. I can’t say for sure with you, Mori. When I first met you, you were the most brash idiot I had ever accepted into my company. But now?”
+
+Mori Gladius stood slightly straighter— prouder. And Yves grinned.
+
+“Now? You’ve changed so much. You’ve grown so much stronger. But you’re still a brash idiot.”
+
+“...oh.”
+
+The Champion of the Human Lands deflated. But his Master just waved a hand off.
+
+“That’s not to say you were the exact same person then as you are now. And you’ve shown how much you’ve grown since then. But at the very core, you haven’t changed. Because whether you are good or bad, weak or strong, rich or poor— none of it matters. That is not who you are. The very essence of your soul hasn’t changed.”
+
+Mori Gladius looked up at the Watcher. He stared at his Master, listening carefully. Taking in every word that came out of Yves’ mouth as the young man got to his feet.
+
+“If you had failed, it would’ve been a terrible war. A calamity to the Human lands. But you are Mori Gladius. My successor. I trusted that you wouldn’t fail. And you didn’t. You succeeded. You prevented it.”
+
+Yves patted Mori on the shoulder with a soft smile.
+
+“So… good job. Because it is now up to you to protect Humankind, Mori.”
+
+With those words, the Watcher left the room.
+
+—--
+
+Mori Gladius’ eyes fluttered open. He was no longer in that old office back at his company’s headquarters— that wasn’t even his current office which was far larger and more luxurious than what he had now. It had been a memory from a time long ago. When he’d still been a Diamond Ranked adventurer.
+
+The Watcher had picked him as the next leader of the Remembered Order Company. At the time, Mori had been perplexed. He didn’t know why his Master didn’t choose any of the other Elites there. But perhaps it was because his Master saw something in him that others couldn’t.
+
+Forcing himself back up, Mori Gladius took in his surroundings. He was still in the crimson world, although the dark rain had stopped falling from the sky. His body was injured— ripped and torn by the Demons before being blasted by a golden explosion.
+
+Here he was, still trapped in the body of an Infant Demon. In a harsh world far from his own. He wasn’t in the Human lands. He was going to die in a foreign place with the broken body of a creature he scorned.
+
+A moving figure caught his eyes. He looked over at an ambling Archdemon walking over the corpses of the other Demons that had been caught in the blast. This wasn’t the same Archdemon that had tried to eat him. That Archdemon had been incinerated by the golden flames.
+
+No— this was another Archdemon that managed to avoid the blast. It came down now to collect the scraps and leftovers, although there were none… except for Mori Gladius himself. He tried to crawl away, but it slowly walked up to him. It wore a vicious smile on its face as it reached over to him. Like a vulture swooping down to its prey.
+
+Mori Gladius stared at it. At the way it hungered for him. But Demons didn’t eat. This was a monster wearing the skin of an Archdemon, as he was a Human with the form of an Infant Demon. That was why it opened its mouth— that was why it scooped him into its maw.
+
+Then he looked past the Archdemon. Towards the site of the explosion. The golden blast. The Salvos clone had… exploded. He remembered seeing the very same blast erupted throughout the city. Despite being reduced to a mere slug-like creature, the Salvos clone still retained that ability.
+
+He craned his neck, looking at the Archdemon. Then at himself. And he remembered his Master’s words.
+
+That’s right.
+
+The Archdemon closed its teeth around him as he stared at his impending death.
+
+I am the Watcher’s successor.
+
+He would face death in the face and laugh. Mere death was nothing to a [Divine Spearmaster].
+
+I am the leader of the Remembered Order Company.
+
+The essence of his soul hadn’t changed, even if he looked like an Infant Demon now. His divinity wisped off him as there was a chomp. A crunch. An intense pain swept through his body. And he laughed.
+
+I am the Champion of the Human lands!
+
+With that thought, he activated his Grand Skill.
+
+“[Divine Resurrection]!”
+
+The Archdemon paused. It stumbled back as something emerged from its stomach. It spat out the body of the Infant Demon, only for the eddying golden flakes to coalesce around the corpse. A bright light shone for a bit before morphing into the vague shape of a Human body. And from that, emerged Mori Gladius. He carried his Bloodforged Lance, blue hair dripping with black blood.
+
+He smirked as the Archdemon stepped back. He didn’t let it escape. Instead, he thrust forward. He stabbed at the Archdemon even as it fled. His spear lit up the entire crimson sky, painting it gold as he shouted.
+
+“[I Shall Pierce the Heavens]!”
+
+And his second Grand Skill impaled the Archdemon. It reached the end of the small world, breaching its edges. It moved in a straight line, cracking the sky. The entire world shone gold, before everything shattered.

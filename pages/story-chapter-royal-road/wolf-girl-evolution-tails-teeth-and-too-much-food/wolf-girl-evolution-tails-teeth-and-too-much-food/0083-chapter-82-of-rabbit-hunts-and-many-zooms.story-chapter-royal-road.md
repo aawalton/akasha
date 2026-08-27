@@ -1,0 +1,471 @@
+---
+id: fcc7692a-8117-5eb3-ac8b-60994929f4e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82: Of Rabbit Hunts, and Many Zooms!"
+slug: 0083-chapter-82-of-rabbit-hunts-and-many-zooms
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 83
+ownLength: 1989
+unit: words
+publishedAt: 2026-01-06
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2918588/chapter-82-of-rabbit-hunts-and-many-zooms"
+royalRoadId: "2918588"
+---
+
+PoV Luna
+
+Luna hunted.
+
+She flowed through the brush in a low, eager lope, nose skimming the air, feet light, shadow stretching obediently beneath her. Rootfangs had already learned their lesson earlier.
+
+Tunnel Rats had tried! And they were gone now, Luna bit them all!
+
+Hehe, Luna good hunter!
+
+As she ran, a familiar feeling tickled at the back of her mind. Something she had forgotten and wanted to try before…?
+
+Right! A memory!
+
+A good one. A fast one.
+
+Of her first big zoom!
+
+Luna’s ears perked as the memory snapped into place. That moment when everything had lined up just right. Run pushing Jump. Jump feeding Shadowmeld. Shadowmeld smoothing the ground away until the world stopped resisting her, giving her paws grip where there was little before.
+
+How her legs had burned, how the air screamed, how her heart had tried to escape her chest in sheer joy!
+
+Fastest wolf! Fastest Luna!
+
+Her tail wagged harder as she bounded over a fallen log, feet barely touching bark. Every step she took now felt like it wanted to be faster. Like the world was asking her a question and the answer was always run more.
+
+And there was something else, a coiled up power that she never quite unleashed.
+
+Momentum Claw.
+
+Luna flexed her fingers as she moved, feeling the familiar heat coil in her arm. It pulsed there, eager, half-awake. She remembered how it sang when she ran, how it thrummed in time with her strides, how it wanted to claw a mark upon the world around her.
+
+If she let it loose while zooming…
+
+Her grin stretched wide.
+
+“Oh,” she muttered happily. “That would be awoomazing!”
+
+Her nose twitched sharply.
+
+Horned Rabbit.
+
+A good one too! Strong scent. Not too close, not too far. At proper test-distance. Luna slowed just enough to orient herself, then leaned forward.
+
+It was time to test her zoom.
+
+It was time to…
+
+Run.
+
+And her skill answered.
+
+She shot ahead, legs pumping, breath snapping in and out of her chest. On two legs it felt strange, a little stiff, the ground less forgiving. Her balance wobbled for half a heartbeat.
+
+“Nope,” Luna decided.
+
+She dropped.
+
+Four limbs hit the earth and everything clicked. The difference vanished. The ground smoothed. Her shadow wrapped under her like silk.
+
+And she felt the air whooshing by. Faster, and faster. Struggling against her face.
+
+Yes!
+
+Luna was speed now!
+
+The field blurred into streaks of green and brown. Wind tore at her ears. Her eyes watered but she didn’t blink. She couldn’t. Not when the world just zoomed by.
+
+Blinking felt slow! Too slow!
+
+And then, all too soon, she was there. The power in her hands just itching to unleash.
+
+The rabbit never knew what hit it.
+
+Momentum Claw surged.
+
+The power swelled up her arm in a roaring rush, far stronger than ever before. Far stronger than even Luna suspected!
+
+Running fed it, Jump coiled it tight, Shadowmeld made it brim smoothly with unrestrained power.
+
+Speed packed it tighter, tighter, until her whole body vibrated with the buildup.
+
+Yes. Yes yes yes!
+
+She swept her arm out.
+
+There was no impact she could feel. No resistance. Just a brief, confused feeling of wrongness as the world ahead of her ceased to contain a rabbit in any meaningful sense.
+
+Then Luna skidded.
+
+Dirt sprayed as a loud sound rang out. Her leg-paws dug in hard as she slid to a stop, shadow bunching beneath her to keep her upright.
+
+Luna wobbled once, twice, then steadied.
+
+Silence.
+
+She stared.
+
+Where the Horned Rabbit had been was now… mist. A faint cloud of meat-scented nothing drifting lazily in the air.
+
+Luna looked down at her hand. It throbbed, hot and aching, fingers tingling like she had punched the concept of rabbit itself.
+
+She looked back at the mist.
+
+“…Whoops.”
+
+The mist did not answer.
+
+Luna sniffed it cautiously. Then sniffed her hand. Then shook it, wincing.
+
+“Note to self,” she murmured solemnly. “Claw too strong for weak prey. Rabbit not supposed to explode!”
+
+Her tail wagged anyway.
+
+Luna stared at the drifting Rabbit Mist for a moment longer.
+
+Then she nodded to herself, very serious.
+
+“Okay,” she declared, wagging her tail with resolve. “Claw only for big mean things! Not for snack rabbits.”
+
+That felt fair!
+
+Apex Hunter respectful!
+
+The world sparkled, demanding her attention.
+
+【Momentum Claw Lv.9 → Lv.10】【Run Lv. 14 → Lv. 15】【Jump Lv. 10 → Lv. 11】【Shadow Run Lv. 4 → Lv. 5】
+
+Luna blinked.
+
+Then blinked again.
+
+“…Huh. Luna great!”
+
+The numbers floated there smugly, like they had done something clever on purpose. The meanie System gave big reward for once!
+
+Luna squinted at the air.“Maybe Luna should explode more Rabbits?”
+
+Hmm.
+
+Maybe not! Boring prey!
+
+With a huff, Luna padded over to a sunny patch of grass near a low rise, circled twice, and flopped down with a satisfied thump. Her legs stretched out. Her tail flicked lazily. The ache in her hand faded to a warm buzz.
+
+Right.
+
+She had gotten a lot stronger lately!
+
+Like… a lot a lot!
+
+Skills. Levels. Numbers. Even her body felt different, tighter and springier, acting out a little bit faster, sometimes even before she told it to!
+
+She was curious now!
+
+“System meanie,” Luna said sweetly. “Show Luna status!”
+
+The air shimmered obediently.
+
+***
+
+Name: Luna
+
+Level: 9/10
+
+Race: Moon Wolf Pup (Tier 0)
+
+Gender: Female
+
+HP: 53/54
+
+SP: 27/56
+
+MP: 25/40
+
+Strength: 18(+1)
+
+Dexterity: 16
+
+Vitality: 17
+
+Intelligence: 15
+
+Willpower: 8(+1)
+
+Charisma: 7(+3)
+
+Luck: 3
+
+Active Skills:
+
+Strike Lv11(+1)
+
+Bite Lv15
+
+Jump Lv11(+1)
+
+Momentum Claw Lv10(+1)
+
+Run Lv15(+1)
+
+Shadowmeld Lv9
+
+Shadow Step Lv11
+
+Lunar Form Lv5
+
+Devourer’s Maw Lv2(+1)
+
+Shadow Run Lv5(+1)
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv2
+
+Pain Resistance Lv2
+
+Poison Resistance (Minor) Lv2
+
+Devourer’s Right Lv4
+
+Traits:
+
+Beast Constitution
+
+Gluttonous Soul – 11%(+1%)
+
+Effects:
+
+Craving (Unknown)
+
+***
+
+Luna leaned forward, eyes scanning the numbers with deep concentration – deep for Luna! Which is to say she hummed softly, nodding at places that felt important. Some numbers smelled bigger!
+
+That was good, awoo worthy! Bigger numbers meant bigger prey! Stronger Luna!
+
+Apex Predator strong!
+
+Luna didn’t know why, but System meanie seemed very serious about the whole number thingies.
+
+So Luna decided to praise it for that!
+
+“Mhm. Yes. Pretty,” she murmured. “Very nice shapes. System did good job!”
+
+She grinned.
+
+“Hehe. Luna strongerer again!”
+
+She stared at the stats a bit longer, trying very hard to understand what they were telling her. They told things! Probably.
+
+Maybe even important ones! Stories about growth and efficiency and future awoomazing victories.
+
+But mostly they told her one thing.
+
+Higher!
+
+Numbers bigger!
+
+Many skills and stats made gains!
+
+Guild play-fighting gave lots.
+
+All that running around, dodging, pouncing, knocking people over and sweeping their legs out with her tail. Fun and useful.
+
+Awoomazing!
+
+Running around human hive and eating lots gave some too, Luna knew! She just didn’t look at System thingies when there was food to chew!
+
+Numbers were important, yes. But meat was importanter!
+
+Sandwich too.
+
+Hmm…
+
+Luna missed soup!
+
+She rolled onto her back, kicking her feet happily in the air.
+
+“More play-fight later,” she declared to the sky. “Luna gonna kick more butts! And find soup to trade for!”
+
+Then her eyes caught on one line.
+
+She froze.
+
+Her head tilted slowly as she read it again.
+
+“…Charisma?” she muttered.
+
+She leaned closer.
+
+“Plus… three?”
+
+Her tail thumped once. Then twice.
+
+“Whee!” Luna howled, springing upright in joy. “That many!”
+
+She spun in a little circle, pleased, then stopped mid-step. Her joy stalled as her brain caught up.
+
+She scratched her head.
+
+“…Um,” she said thoughtfully. “But what Charisma do?”
+
+The numbers did not explain.
+
+Rude!
+
+Luna nodded decisively.
+
+“Gotta ask Second.”
+
+Later.
+
+Because her nose twitched again, picking up another familiar scent drifting on the breeze.
+
+More rabbits.
+
+Her grin returned instantly.
+
+“Thinking time later,” she chirped, hopping to her feet. “Hunting time now!”
+
+And off she went, grass flattening under her legs as Luna sprinted back into motion, tail flying proudly behind her.
+
+***
+
+Luna hunted for a good while longer.
+
+At first it felt simple. One scent, one chase, one bite. Horned Rabbits were fast, but nowhere near fast enough for Luna!
+
+They ran. Luna ran faster! They zigged. Luna zoomed!
+
+Easy!
+
+Then there were more.
+
+She paused once, head lifting, nose twitching.
+
+“…More?”
+
+Yes. More.
+
+She bounded over a low rise and nearly skidded to a stop. The scents told her of dens.
+
+Big ones. Holes everywhere. Rabbits popping out, freezing, bolting in all directions like the ground itself had decided to panic.
+
+“Oh,” Luna breathed, tail lifting. “Many snacks.”
+
+She went to work, her body turning into pure motion, pure instinct.
+
+Pure flow.
+
+Sniff, sprint, pounce, chomp! Store in the Maw! Repeat.
+
+Sometimes two at once. Sometimes three if they were nice enough to cluster. The grass flattened under her passes. Dirt sprayed. The air filled with thumps and squeaks and the faint sound of Luna making very pleased noises to herself.
+
+She cleared one patch.
+
+Then another.
+
+Then another!
+
+Every time she thought she was done, her nose betrayed her again. A new trail. A fresh den. More rabbits pretending very badly that they weren’t there.
+
+“…Okay,” Luna muttered at some point, breath a little heavier now. “Last ones!”
+
+But they were not, in fact, the last ones.
+
+Eventually, though, her body told her something her enthusiasm didn’t. The edge faded. The scents thinned. Her legs still wanted to move, but there was nothing new pulling her forward anymore.
+
+She stood still, ears flicking.
+
+No more.
+
+Good!
+
+Satisfied, Luna turned back toward the pack, shadow rippling under her feet as she jogged in.
+
+From a distance she could already see them. Moving. Running drills. Dodging. Fun things!
+
+“Ooo,” she chirped, speeding up. “Play-fight!”
+
+She skidded in and dumped her haul with a proud flourish.
+
+Thud. Thud. Thud.
+
+A very large pile of Horned Rabbits hit the ground.
+
+Luna straightened, chest out, tail wagging hard.
+
+Before she could bounce forward and join in, a familiar sound stopped her cold.
+
+Thud.
+
+Syl’s staff struck the ground right beside her leg-paw.
+
+“Luna.”
+
+Uh oh.
+
+Luna froze, ears flicking back slightly. She smiled anyway. Just in case!
+
+“Yesh?”
+
+Syl turned, eyes moving from Luna to the pile. Then back. Then back to the pile again. Her expression didn’t change, but something in her posture did.
+
+“Good job hunting,” Syl said calmly, then patted her on the head, scritching just around the ears. “Really good job.”
+
+Luna beamed.
+
+“Ehehe!”
+
+Syl stepped closer to the pile. Looked at it. Counted without counting, because Syl did things like that.
+
+“…You only really needed to hunt twenty of them too.”
+
+Luna blinked.
+
+Her tail slowed.
+
+“…Oops.”
+
+There was a brief silence.
+
+Then Syl sighed, rubbing her temple.
+
+“Well, no harm done. I don’t think anybody would mind having fewer pests around.”
+
+She looked back at Luna.
+
+“Next task is herb gathering. Are you up for it?”
+
+Luna’s ears snapped forward instantly.
+
+“Luna ready!”
+
+Syl reached into her pouch and held out two things. A strip of jerky, and a small bundle of pale green leaves tied together with twine.
+
+“Jerky for a job well done,” she said, handing it over. “And this is the herb you’re going to look for. You need at least fifty. They tend to grow just beyond the fields over there.”
+
+Luna accepted the jerky first!
+
+Priorities were important!
+
+Then she leaned in and sniffed the herb.
+
+Her nose tingled. Not unpleasant. Sharp, but familiar. Earthy, bitter and spiky-like?
+
+Yeah!
+
+“Oh! Luna knows this smell!”
+
+Her tail wagged again.
+
+Syl barely had time to straighten before Luna turned, shadow already pooling under her feet.
+
+“I’ll be back!” Luna called, already moving. “With many plant prey!”
+
+And then she was gone, sprinting toward the fields, nose low, world narrowing back down to scent and motion once more.

@@ -1,0 +1,289 @@
+---
+id: 666de0c5-5c2e-5584-bd52-d1c952a583da
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED EIGHTY-FOUR: The Inward Path"
+slug: 0186-one-hundred-eighty-four-the-inward-path
+partOf: super-supportive
+position: 186
+ownLength: 4362
+unit: words
+publishedAt: 2024-11-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1915391/one-hundred-eighty-four-the-inward-path"
+royalRoadId: "1915391"
+---
+
+184
+
+******
+
+The path was long, and the weight was heavy; those were the facts of the environment that stood out the most to Alden even as he passed by things that would normally have made him pause and wonder.
+
+The route curved and curved, winding deeper into the soil until the walls towered above him and Yenu-pezth. There was one place where the fading light of the day reached them through a thousand glass shapes embedded into the corridor, and in another, water fell in trickles through a curtain of vines. For an unknowable while, they sat together on a rock that jutted out from the soil, and Yenu-pezth explained to him how she thought their sessions should go.
+
+It would be therapeutic, but in many ways, it wasn’t like any therapy he’d had before. And one of those ways was very important—some outcomes could be guaranteed.
+
+“You’re young,” Yenu-pezth said, “and you shouldn’t have experienced too much significant pressing or alteration of the mind.”
+
+Her ringed toes were stretched out in front of her, wriggling against a patch of ground carpeted with short, springy grass.
+
+“When you are sure something within reach of your mind would be better if it were different, stronger, or absent—and when I agree that the alteration will not harm you—it will be changed.”
+
+“Anything?” Alden asked.
+
+“Anything,” Yenu-pezth said, “that we are sure of. You aren’t severely damaged or <<under attack>>. You are someone who knows himself well enough to know he’s unhappy. I am someone who can easily push you in a new direction. The only thing that stands between us and what you might want for yourself is our <<wise caution>>.” She chuckled. “And maybe a little more slowness than usual since you are my first human. I’ll be <<approaching>> your mind with additional care.”
+
+She pulled her feet back toward her and straightened on the rock. “So you must decide what you want, which isn’t as easy as it sounds. In your case, you should choose the hurts you are most sure you understand and want gone, instead of the ones that ache the most.”
+
+“Aren’t they the same usually?”
+
+“Sometimes,” said Yenu-pezth. “Not always. We’ll find out when you find out.”
+
+She was on her feet. Alden couldn’t quite remember seeing her rise, but he stood to join her. Her hands went into her pockets. She said, “What sufferings are you sure your life would be better without?”
+
+And the weight increased again.
+
+He walked beside her. Or stood. Or followed her instructions to spend a while running his hands over a pattern of knobby protrusions on the wall that were maybe answers to a question he’d had or puzzles to give him even more questions to mull over. The world around him blurred more as his own thought process filled his attention.
+
+The possible answers were all there. Only a few of them were perfect. All of them mattered.
+
+“It’s so important to me,” he said, hands still brushing the pattern on the wall. “That what I do matters—that my yeses make a difference, that my noes do. Our choices shouldn’t just ripple a little and then disappear. That’s been important to me for a very long time.”
+
+Sometimes, he found he felt an urge to say things aloud that weren’t responses to what Yenu-pezth had asked. Realizations or memories got shaken loose, and some of them were too meaningful to him to remain comfortably hidden. He would have worried about his ability to keep his most dangerous secrets. He would have wondered about whether or not the things that felt important to him in this way would matter to anyone else, or if speaking them revealed him to be someone deserving of an eye-roll or two.
+
+But the deeper they traveled down the inward path, the more his emotions became like ripples themselves. He felt like he was able to observe all but the worst ones from below the surface in the quiet heart of a lake.
+
+Below the surface like that…it would feel like when Lind-otta slowed the water.
+
+There was something he wanted from that thought and couldn’t find, important but obscured. He had bumped into it a few times—the moment when everything went still and Esh-erdi’s hand pulled him from the water, from drowning, into the air again. He kept looking at it and admitting it wasn’t for now.
+
+For now, he was finding the thing he was surest about changing, and he’d almost narrowed it down.
+
+Yenu-pezth was right. Surety and quantity of suffering weren’t necessarily going hand-in-hand. The lake rippled like crazy when he thought about running across that damn moon. It practically escaped its banks when he thought about standing on that rooftop—so, so recently—and saying yes to her and being told no in return and being swept under.
+
+But those weren’t necessarily things you asked to forget. Or alter. At least not until you understood how everything inside you was fitting together, and he was beginning to understand how hard understanding yourself really was, even here in this place that was designed to help you do it.
+
+“I have a nightmare,” he said finally. “It comes back over and over in slightly different ways. I want it to stop.”
+
+“Tell me more about this nightmare.”
+
+He told her about the whistle and how no matter which way he ran, he couldn’t find Kibby. He told her about how he often ended up standing there in the rotten grass, right before he woke up, realizing he’d have to go through it all again. Completely alone.
+
+“What else?” Yenu-pezth said again.
+
+And again.
+
+Several times, until Alden’s thoughts were all on the dream and the layers of it.
+
+“I was scared to go help her,” he admitted finally. The lake was rocking. “On the day it happened, I was afraid I couldn’t even save myself. And when I heard the whistle I didn’t want to be responsible for another person. I was scared of what I’d find if I went that way. I stood still for too long while she was alone and terrified.”
+
+“This memory bothers you often?” She was watching him from right beside his elbow now. Her ashy purple hair had a little cup-shaped flower caught in it from the trip through the curtain of vines.
+
+“She thinks I rushed to help her as soon as I heard. I would rather die than tell her I didn’t.”
+
+Yenu-pezth moistened her lips with her tongue. She opened her mouth, paused, then said, “I’ll talk to you about that when your mind isn’t softened by the weight of the path. This dark dream sounds to me like a very good place to start…”
+
+She took her hands out of her pockets, and Alden noticed a decrease in the weight.
+
+“You can take the nightmare away?”
+
+“We’re going to change it,” she said. “When we’re sure. You need to steep for a while now.”
+
+******
+
+She took him back up the path, and he realized the distance they’d come was shorter than he’d thought but far more packed with attractive or interesting sights than he’d realized. He had just enough space in his head now to wonder if he’d noticed the particular things he did on the way down because they’d all been part of helping him sink deeper into his own thoughts, or if he just subconsciously liked vines.
+
+“Did we make it almost to the end of the path?” he asked.
+
+“No.” She smiled at him. “You didn’t need it. You’re a very good patient.”
+
+He was glad he was good. He was unclear on what exactly he was good at, though.
+
+He was also unclear on how his suitcase came to be inside a small cave that had been dug out of one of the walls and lined with smooth stone the same foggy green as the path that led to the House of Healing. But there it was, stuffed into the space beside a dip in the floor that held clear liquid.
+
+Yenu-pezth called the place a <<grotto>> and told him it would be his steeping spot while she went to find Stu-art’h and check the color of his ears. Alden went inside obediently then turned to face her, his neck bent awkwardly because the ceiling was so low.
+
+“How long do I stay?”
+
+“That depends on you,” she said. “As long as you need to or until it is time for you to leave this place and rest without the weight of the path on you. To fix your nightmare, here is what we should do…”
+
+Alden was supposed to sit here with his softened mind, his freshly turned thoughts, and his lake of calm while he considered what he really wanted to happen the next time he heard the whistle in his nightmare. He would craft a new dream. Yenu-pezth wanted him to think about how it would connect to and ease the negative emotions associated with the original nightmare on a deeper level.
+
+“When we are done,” she explained, “it will still be only a dream. But it will be a dream you have more than once. We can make sure it helps you as much as possible when you experience it.”
+
+Before she left, she told him he could drink the water in the floor puddle. After she left, Alden realized he had no idea where to pee in this place if the need arose, and it had been a while. So he’d just go thirsty.
+
+He removed his pezyva and took his learning cushion out of his bag. He was comfortable and at ease. Time passed uncounted, and his thoughts flowed smoothly.  But crafting a dream to replace the nightmare—one that satisfied him enough to be worth this extraordinary opportunity—was proving hard.
+
+He tried imagining different ways out. He tried digging deeper into the nightmare to understand it.
+
+Part of it was guilt. A huge part of it was the fear of being alone. The fear of failure. For months, he’d felt like he was probably going to make a mistake. Like the mistake was going to kill them because he wasn’t strong enough or smart enough, because he couldn’t even speak to Kibby properly for ages.
+
+Helplessness. Systems failing.
+
+He felt like he was approaching something good, and then he followed the thought about Systems failing toward an idea about how maybe the new dream would help him with his panic over that, if his interface actually worked in it and he could call for help.
+
+Who would I have called anyway? Joe?
+
+That wasn’t right at all.
+
+He tried to change courses, but he was interrupted by the return of Yenu-pezth and Stuart, who seemed to think it was time for him to give up and leave the inward path for now.
+
+“No,” Alden said firmly. “Healer Yenu, I know I can do it if I stay here longer. You two leave without me.”
+
+Stuart made a shocked noise, and his face purpled as he said, “I apologize for him, Healer Yenu. He’s confused!”
+
+Then he leaned into the grotto and whispered, “Alden, you can’t stay. Healer Yenu has already given us some of her sleeping time.”
+
+Yenu-pezth was laughing. “Don’t worry, Stu,” she said. “Your friend isn’t rude. He’s just one who <<engages>> easily with the path. Imagine he’s been steeping several curves farther in than this for longer than he has.”
+
+“You also can’t stay because it’s bad for your mind to sit here forever,” Stuart said. “Healer Yenu, are you sure he’s all right? Maybe it affects him too much for him to be safe without—”
+
+“I don’t think it affects me too much,” Alden told him. “I like how easy it is to think in this—”
+
+“You’re definitely being too affected!” Stuart stepped forward and tugged him off his learning cushion by the front of his shirt.
+
+Alden was herded all the way back up the path by Stuart, who followed behind him like he might try to make a break for it and run back to his cave,  while Yenu-pezth kept laughing softly in between reassurances to Stuart that Alden wasn’t hurt and reassurances to Alden that he wouldn’t completely lose his wonderfully sorted thoughts when he left.
+
+“You’ll find that time without the weight is good for thinking in a different way, and you may have solved more than you realize already. Sit with your discoveries for a while in the world you actually live in.”
+
+When they made it out, she told him again that he’d done a good job and she was happy to meet him, murmured something to Stuart that made him sigh, and then sent them off via a teleportation alcove inside the House of Healing.
+
+They flashed through Vethedya for just long enough that Alden saw the chamber now looked like it was floating in a dark sky flecked with stars, then they were back at the art’h family’s summonarium and Stuart was urging him to move along. When they stepped outside, Alden said, “It’s so dark now.”
+
+“Yes. That’s because it’s night.”
+
+Alden checked the time. It was almost eight PM on Anesidora. Which today meant…it was deep in the night here. And slightly deeper in the night in Vethedya.
+
+“It’s so late!” he said, horror dawning. He’d taken up several hours of Yenu-pezth’s night and then told her to get lost and leave him to enjoy his grotto.
+
+“I know,” said Stuart. “I’ll barely have time to lie down before I go to my first class of the day, but spending time with Healer Yenu was wonderful.”
+
+“She probably hates me now, and she’s just too nice to say it.”
+
+“She doesn’t hate you. We talked about you, and she’s pleased that you are my friend.”
+
+“I like the inward path so much…what if she decides it’s too much trouble to let me back in?”
+
+Stuart peered at him. “I think you need sleep, too. Come. I’ve got your suitcase, and your cottage is ready for you.”
+
+Alden nodded and followed him. Belatedly, he realized he shouldn’t be letting his host carry his luggage for him, and he reclaimed it.
+
+In the stream, the zansees were flashing. When he lay down in bed, he thought he’d probably still be awake to see the water bugs’ light show end with the rising of the sun. It was earlier than his usual bedtime, after all, and he had so much to think about. But not long after he started searching for the fix to the nightmare again, his musings about dreams became the actual thing. The whistle was there, as clear as ever. And he was running around, panicking, the same as usual.
+
+He woke up a shocking twelve hours later, feeling like he’d spent the whole night doing aerobics—something that might not have been that far off the mark judging by the fact that he’d traveled across the giant bed, scrambled the covers, tossed the pillows, and somehow wound up with his head hanging off the foot of the mattress.
+
+He was alone, but the piece of stationery he could see perched on top of his suitcase a few feet away was probably a note from Stuart saying something like, “At school. Stay inside, and don’t let my family manipulate you.”
+
+Alden closed his eyes for a while, trying to figure out if anything was different. He wasn’t irritated, like he might normally have been, to find that even though he’d slept twelve hours he still felt a little tired. And he was less nervous than he should have been to be lying here in the middle of a bunch of art’hs with only a cottage for a buffer instead of a Stu.
+
+Probably some residual calm from the walk and the steeping.
+
+He was thinking that just walking in that place, with Yenu-pezth adjusting the weight and giving him prompts, might be the same as sitting through weeks or months of nonmagical therapy.
+
+It makes sense that it would be, considering who got me the appointment.
+
+And it wasn’t even a normal appointment slot; Yenu-pezth was giving up her free time to slip him in. He needed to get her the most enormous fruit basket. He also needed to work on problem solving the nightmare more, so that he’d be ready to take full advantage of her abilities next time.
+
+He rolled off the bed and grabbed Stuart’s note. Sure enough, it said what he’d expected, but with added advice about how Alden shouldn’t do anything stressful this morning because he’d gain more benefit from last night’s experience if he took it easy. Stuart was expecting to be done with school for the day in about three hours. He hoped he’d see Alden this afternoon, but if Alden needed to leave he could.
+
+Then he went on to say that he’d thought about it, and Alden shouldn’t attend Engaging with the Unexpected, because his classmates created an environment that was not conducive to healing and reflection.
+
+Alden hadn’t planned to skip classes today if he didn’t have to, but the idea of having heavy conversations and arguments about the Submerger disaster when he was working on a more personal problem was no good. He wasn’t going to waste the lasting calm that seemed to be helping him right now for that. He would follow Stuart’s advice, pretend he was still in his grotto, and keep himself stress-free until the Artonan came back. They could talk for a bit, and then Alden could arrive back on Earth just in time for Intro to Other Worlds, which was a peaceful class.
+
+Unless Yenu-pezth wants to let me onto the path again tonight. Then I’ll just stay here prepping my answer for her.
+
+She totally wasn’t going to do that. If he remembered her final instructions correctly, the date of their next appointment wasn’t set, and he was supposed to call her and talk to her before it would be.
+
+I feel like I made it right to the edge of something last night without quite getting there.
+
+He imagined he was going to be very frustrated about that over the coming days, but for now…maximum serenity. He ate a large savory cookie-thing Stuart had left on a plate for him and went to take a shower. Unsurprisingly, the shower at the cottage would do everything short of scrubbing your body for you if you knew how to adjust the settings. Alden had kept it simple the last time he was here, and he did this time, too. But, absentmindedly, he kept changing the pressure to be a little harder and the heat a little hotter, until he was standing, eyes closed and back pressed to the wall, in a shower that felt like the one he’d used at the lab.
+
+It took him a while to realize he’d done it. As soon as he did, he turned the water off and stood there dripping. Not supposed to be thinking about the lab shower. How is that going to help me rewrite the nightmare?
+
+The nightmare started before he ever made it back to the lab with Kibby. The grass, the whistle, the first hours of the chaos—he needed to fix it from there. For both of their dream selves.
+
+Find Kibby. Get us to the lab again safely, I guess. That’s not much of a fix, though, just a nightmare that really happened.
+
+He swallowed.
+
+If it really happened again, I’d be able to do a little more. Like, I could at least…wait…could I…?
+
+So many of the memories he’d taken close looks at yesterday, and the fears, drifted through his mind. He was still staring at the shower wall minutes later, piecing together something so astounding that his heart had begun to race.
+
+Not quite. I don’t have enough information. I need to know a lot of things.
+
+And he needed to know them right now.
+
+All thoughts of serenity and a calm morning forgotten, he flung himself from the shower. He had windows open on his interface, and his tablet was out of his bag before he thought to grab a single stitch of clothing. He stumbled through the bedroom, yanking on his silk pajamas with one hand and trying to make a feature of the tablet he basically never used work with the other.
+
+I think we could almost do it.
+
+Almost isn’t good enough.
+
+******
+
+When Stuart arrived a few hours later, he was carrying two cups of grain tea and being followed by his ryeh-b’t.
+
+“You stayed,” he said when he entered the cottage. His smile was excited. “We can sit together and discuss our thoughts if you…want…to do that.”
+
+His expression changed as Alden sprang up from the floor, where he’d been leaning over his tablet’s holographic projection of Moon Thegund and drawing lines on it with his finger.
+
+“You’re back so soon!” He leaped toward Stuart and almost slid on one of the sheets of paper he’d ripped out of a notebook a while ago when he was making a list of even more things he needed to know.
+
+“It’s the time I told you I’d be back.”
+
+“Good! I need your help. More of your help. You help with so much, and I feel like I don’t do anything for you in return. Ask for a favor sometime, please. But for now—”
+
+“Are you all right? Do I need to call Healer Yenu?”
+
+“I’m excellent.”
+
+“Excellent at what?” Stuart asked, his voice so concerned now that it snapped Alden out of his frenzy.
+
+He took in the tea. Other Alden had just slipped into the cottage behind Stuart’s ankle, and she was beelining for the suitcase. Stuart was in his school clothes.
+
+“Sorry. I’m excited. I didn’t mean excellent like that. I mean I’m very well, and I don’t need Healer Yenu yet. I’ve realized how I want to change the nightmare, but I’m not sure it will work. I want it to be more realistic than dreams usually are. So I need you to help me figure some things out, if you have time and if you don’t mind.” He smiled. “Thank you for the tea. My manners are bad right now.”
+
+Stuart handed him a cup, then leaned around him to see the globe of Thegund. “Of course I’ll help.”
+
+He still looked worried though. Alden pulled himself together more.
+
+“Come in.” He tried to sound calmer. “Let’s sit down and discuss both of our days. You first, or I’ll just overwhelm you with questions.”
+
+Stuart turned to shut the door behind him. “You can ask your questions.”
+
+“No. Really. Tell me about LeafSong. Or did Emban-art’h end up keeping you from classes again?” He went to move the tablet and some papers, then he sat down on one of the cushions by the floor table and sipped his tea to prove he was a good friend, too.
+
+Stuart came to sit across from him, and after a few more glances around the room and one commanding whistle at the sight of his ryeh-b’t biting a suitcase wheel, he did seem pleased to have been asked about his day. He talked about an assignment he’d been given to achieve an accurate effect from a “successive wand” spell when one of the wands that would normally have been used was missing. Alden didn’t have to feign interest, but he was sorry that all he could do was ask questions. Stuart struck him as the kind of person who would really enjoy an in-depth discussion about magical theory with a peer.
+
+Even if Alden had said, “I altered the results of a flashlight spell!” he wouldn’t have been able to contribute much more knowledge than the fact that it had happened.
+
+Though if I did that, I’m sure the conversation would stop being happy spellcraft chatter anyway.
+
+“You’re frowning,” said Stuart. “Should I explain the effects of yethwood wands again?”
+
+Alden shook his head. “No, I was just thinking I must be boring to talk to when it comes to your school. I can’t have a conversation about it at your level.”
+
+“You’re not ever boring to me,” said Stuart. He took an orange out of a pocket—it was his second hidden piece of Earth fruit since they’d sat down—and sniffed it deeply.
+
+“Oranges smell wonderful,” said Alden.
+
+“Yes! And in your language the color is named for the fruit!”
+
+He had looked up fruit facts for everything he’d received yesterday. Peeling the orange so carefully that Alden was sure he already had a specific plan for the rind, he said, “What about your day and your questions?”
+
+Alden felt a stir of excitement. “I need to know how much a very specific car weighs, and I want to know if a certain kind of sprinkler can pull water from the ground all over Thegund or if they only work in some places. Kibby can answer the first question. I don’t know how to find the answer to the second.”
+
+Stuart blinked. “I’m sure it won’t be too difficult.”
+
+“And,” said Alden, “I want you to help me figure out how to kill a demon with my skill.”
+
+Stuart blinked again. “Why?”
+
+“Just one,” said Alden. “I never even saw it, but it was there. And this morning I realized if Thegund happened today to the person I am now…I might be able to get out with Kibby. I might be able to keep us both alive for as long as it would take to reach people. I almost have the ability to do it. I think. There was at least one big demon roaming around out there that could ruin everything if we ran into it.”
+
+“What kind?”
+
+“I don’t know,” said Alden, remembering the trails in the grass. “But I want it dead so that I can leave with her that day. In my dream, I’m going to find her, and we’re going to outrun the corruption together. We’re going to escape. We’re not going to live through it all again.”
+
+******

@@ -1,0 +1,155 @@
+---
+id: 97519984-6ca3-5736-a4af-49d568d20a00
+page-type-slug: story-chapter-royal-road
+title: "Chapter 367 : Back to Basics"
+slug: 0068-chapter-367-back-to-basics
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 68
+ownLength: 2411
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3217053/chapter-367-back-to-basics"
+royalRoadId: "3217053"
+---
+
+After finishing my initial setup, I was rather pleased with the results. I thanked everyone and dismissed them, and while Sylvain hurried back to Vanessa and Sylbera went back to forging, Vee stuck around.
+
+"So, what are your next plans?" she asked.
+
+"The dungeon is definitely next on my list, and at the same time, I hope it will get my personas some much-needed levels," I explained.
+
+Vee nodded in understanding. "Have you thought about giving them different classes?"
+
+"Yeah, I want to see if Sylvain can unlock a different hybrid by focusing on Aeromancer and Hydromancer. Other than that, he can just continue down Elementalist for me while I focus on Riftmancer."
+
+"No, I meant other classes, as in, non-magical," Vee revealed.
+
+"Hmm…" I paused and thought about it.
+
+On paper, it sounded like a good idea, and if they found rare or beneficial skills for me, then I could purchase them for myself. The only hesitancy I felt about it was wondering how this would affect the supposed weight on my soul if we branched out too much.
+
+"I'm definitely willing to consider it," I finally replied. "I do have sixteen [Sub-Cores] right now, and even if I paired them up, that's potentially seven personas."
+
+"Seven? Don't you mean eight?" Vee questioned.
+
+"I'm obviously keeping some [Sub-Cores] as my dedicated workers," I replied.
+
+While having additional hands was great and all, I still wanted to ensure I left behind enough for my own personal power. Which also brought up an interesting question: could I borrow skills from my personas? I didn't think I could share them directly, but with the way the [Sub-Core] network worked, especially after I gained [Core Collective], they could be my many unseen hands in a task.
+
+So… Can they use their own skills through the network?
+
+Unfortunately, it was slim pickings at the moment, as only Sylbera's blacksmithing profession skills were unique to her. So, I pulled out a piece of metal from [Core Storage] and ordered her to inspect it for me.
+
+I didn't have to wait long, as soon as a plethora of information about the piece of metal was displayed for me, showing its purity, melting point, durability, and whether it had been tempered. This was excellent news and gave me much-needed reassurance that developing personas was a way for me to increase my power.
+
+If only all my personas weren't spellcasters… But since I was a spellcaster at the time, it was the natural conclusion.
+
+I sighed and told Vee of my findings. She seemed happy for me, but I could feel her interest rapidly waning. I thanked her again for the idea about different classes, and we went our separate ways for now.
+
+Sylvester and Sylthaeryn both need magic, which is unfortunate. I don't think the Feirelle elves would be too happy if their "daughter" suddenly wasn't the legendary Elementalist class anymore.
+
+With that in mind, I decided to rip the band-aid off, and I had a very good reason to do it now, even though the personas weren't active yet—[Elemental Praxis]. I'd dropped it from level six to four, and I wanted to level it up again as soon as possible. However, I'd need to eventually give it to both of them, or I'd be leaving them extremely weak.
+
+So, rather than leveling it up now and paying a higher price later, it would be better for me to give up these easier levels and regain it faster. So, I distributed skills and classes to the two of them.
+
+I gave Sylvester one level in Mage, Sorcerer, and Elementalist, and one level in [Elemental Praxis]. I held back on giving him my enchanter classes and skills for now, as I wasn't actively pursuing them at the moment.
+
+For Sylthaeryn, I was a bit more generous, giving her three levels in both Mage and Sorcerer and one in Elementalist, along with [Elemental Praxis]. This actually reduced my Sorcerer levels to zero, which, in theory, would reduce some adverse effects, allowing me to level up faster if I understood Lisa's previous explanation correctly.
+
+I should go test out if I can level up faster now to confirm that theory.
+
+I would have loved to have given up my final Mage level, but I wasn't capable of it, as it was my only basic class. I was tempted to give Sylthaeryn a level in Shadowcaster, but with the whole [Corrosion Magic] side to it, I held back to keep up the elf identity.
+
+Syl, me, can use it. But the elven princess cannot. Actually, I can maybe use this to establish a clear separation between us? I don't know how effective it will be, but if it stops people from interfering with my adventurer identity, then I'll be happy.
+
+I also still had a random level in assassin that I could, in theory, give up, but I figured I'd rather give it to an entirely new persona focused on that path. I'd probably keep Shadowcaster forever, as I couldn't see any intermediate classes that could fill that slot. However, for my advanced classes, I wanted them all to be only spellcasters to maximize the benefits.
+
+Other than [Mana Slime], I can naturally increase my spellcasting abilities. Well, excluding borrowed traits, of course… But my slime continues to grow stronger, faster, and so on, with little input from my classes. Thus, I should get as many spellcaster classes as possible for my path!
+
+It would also presumably have the benefit of pleasing Mother, but I left that unsaid. She was far more generous than Gramps, from what I'd seen so far, and since I had a fascination with magic already, it was a win-win situation for me.
+
+But, before any of that, I should start quickly regaining my strength.
+
+First, I grabbed two [Sub-Cores] to come with me as helpers. Then I ordered all remaining free [Sub-Cores] to begin practicing elemental spells, and since they weren't involved with a persona, I'd be gaining all the proficiency experience. Of course, it would be reduced due to ease and repetition factors, but every bit helped.
+
+Next, I changed my class to Mage, and I almost immediately regretted it. While I hadn't felt much difference in the levels I'd donated, dropping from an advanced class to a basic one felt dreadful! If I had to describe it, it was like my mind had suddenly become clouded, and my Mana became sluggish to listen to my commands.
+
+Did I really cast spells like this back at the start? Was it really this terrible?
+
+I was genuinely astonished, but I put it aside as I had monsters to kill and experience to gain. With a bit of difficulty, I teleported down into the oceanic trench, as it was an excellent spot for high-level monsters. While my magic level may have dropped, my slime powers were still operating at maximum lethality!
+
+It didn't take long before I found a skeletal-looking fish, and I began attacking it with various elemental spells. To compensate for my inferior class, I gave myself a pseudo-affinity towards lightning and began attacking with deadly amounts of force right off the bat.
+
+The monster quickly perished, and as a result, my levels soared! With a single kill, I had gained five Mage levels, although unfortunately, I couldn't tell if this was due to easing the burden on my soul or just because it was a basic class getting boosted. Sadly, while five levels were great, it came with a big catch—I didn't gain even a single skill point.
+
+Looks like infinite skill points aren't on the menu… I should have figured there would be some type of limitation like this. I'm willing to bet that I need to exceed my original level to gain skill points again.
+
+Since the experience was plentiful, I decided to do just that and continued hunting in the deep ocean. Also, since it was available, I began using my [Personal Rift] a bit more to become more familiar with it. Thankfully, since it was a skill on its own, it didn't seem too affected by my sudden change in class, which almost made me forgive it for eating up a trait point.
+
+With [Personal Rift], I used it to swallow attacks and have them emerge at different angles. As long as I had the monster within range, I could safely bombard it with spells from almost any angle at all. I also tried using the rift defensively, so when I came across a strange fish that used its own rapidly regenerating teeth as bullets, I was able to entirely negate it.
+
+Now that I was getting some practical experience with it, I was definitely seeing it in a new light and wondered how else it would improve at later levels. Of course, I could have done this by just casting outside of the aura, but that came with the risk of having my spell meddled with, and, at least for now, I was relatively confident nothing could tamper with my rift.
+
+My mage levels continued to skyrocket, and I rapidly breached my original level of eleven. As I predicted, I started receiving skill points when I reached level twelve and above.
+
+<Class Experience threshold reached. Mage is now LV 12.>
+
+<11 Skill Points are now available.>
+
+<Class Experience threshold reached. Mage is now LV 13.>
+
+<12 Skill Points are now available.>
+
+<Class Experience threshold reached. Mage is now LV 14.>
+
+<13 Skill Points are now available.>
+
+Skill points! Glorious skill points!
+
+I was ecstatic as I'd felt like I was on the verge of poverty with the way I was spending. My only regret was that I couldn't use this same method to gain trait points, and suddenly, those felt immensely more valuable.
+
+I might as well rebrand my Legend Points into Trait Points at this stage. I can't see myself ever turning them into Skill Points.
+
+I was also delighted as this meant that I could potentially uncap [Companion Growth], something Vee and I had discussed before. We had speculated it would potentially grant us bonus experience beyond the norm when uncapped, but with my points being so scarce, I couldn't feasibly consider it.
+
+Yes, I could have gained lower levels at any point in the past, but I was always cautious about Lisa's warning. Getting Elementalist to thirty had been relatively difficult already, and if my soul was overburdened, then I couldn't imagine how set back I would have been.
+
+I continued gaining levels, and soon I had already reached level twenty, as these high-tier monsters were worth a fortune, and my distribution was still set to maximize my class.
+
+<Class Experience threshold reached. Mage is now LV 20.>
+
+<19 Skill Points are now available.>
+
+While I was absolutely delighted with my skill point total, I noticed something a little disappointing about the class. No matter how many levels I gained, I wasn't noticing any difference in my spellcasting capabilities.
+
+Basic classes really are trash… The bonuses must be so infinitesimally small that I can't even notice any improvements. Also, I'm not gaining any revelations, despite reaching a major milestone.
+
+Due to these factors and because I still wasn't sure whether I was actually freeing myself of the burden by giving away levels, I decided to stop at level thirty. Then I'd distribute some levels to my personas to solidify their foundations, and probably keep the rest for myself.
+
+I continued hunting in the deep ocean, laying waste to whatever I came across. Thankfully, I had plenty of sensory traits to discover new prey, and with the ability to teleport, I could rapidly expand my search radius. Also, perhaps due to the destruction of Azulean, there were a lot more monsters than previously. Of course, one reason was that the mermen were no longer culling their numbers; the other was likely due to rapid spawning from the influx of surplus essence.
+
+Wait… Dungeons absorb the essence, right? Shit, did I accidentally power up the dungeon by defeating the mermen on its doorstep?
+
+My knowledge of dungeons was still relatively lacking, so I wasn't sure of the exact details. Although I hoped that if I had accidentally given it a meal, it would take some time for it to digest the gains. After all, why else were there so many new monsters roaming the ocean?
+
+Okay, we need to move up the dungeon attack ahead of schedule. Let me grab these last few levels and head back. Then tomorrow, I'll grab Leon, and we can find our target!
+
+I continued my hunting and eventually reached level thirty. If I lay waste to the small fry, I might have reached it sooner, but I had grown a little addicted to hunting down the big monsters for level jumps. Sadly, near the end, I was only gaining two per kill, which made the experience a little less exciting. Still, my point budget had dramatically increased.
+
+<Class Experience threshold reached. Mage is now LV 30.>
+
+<29 Skill Points are now available.>
+
+Not only that, but I had made some progress in other areas too, which was delightful.
+
+[Elemental Praxis] had gone from its significantly reduced level of two back to four in record time. With me using it to hunt, along with my [Sub-Cores] on the island grinding away, it was only natural that it would level up quickly—maintaining the pseudo-affinities alone was probably worth a chunk of experience.
+
+[Personal Rift] had also gained an advancement; now reaching level three, it was granted a significant size increase and the ability to open an additional aperture.
+
+If I had to nitpick about this trip, the only thing that upset me was that I'd received nothing for reaching level thirty! Had I already received any and all potential benefits from this class?
+
+Should I get Shadowcaster to thirty?
+
+I thought about it, but decided not to for the time being. I had enough points for now, and more importantly, I wanted to go back to Riftmancer. If we were raiding a dungeon, I wanted the levels to be in a class that would grant crazy new abilities.
+
+With that in mind, I teleported back to the island. Belly full of new slime, skill points replenished, and some more class levels to donate to the crew. I switched back to Riftmancer and sighed with delight as my magical prowess surged back to its familiar heights.

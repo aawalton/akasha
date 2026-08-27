@@ -1,0 +1,159 @@
+---
+id: ca19095a-711b-5364-a41c-f7965f2ca9b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89: The Weight of Loyalty"
+slug: 0090-chapter-89-the-weight-of-loyalty
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 90
+ownLength: 2029
+unit: words
+publishedAt: 2026-07-05
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3636172/chapter-89-the-weight-of-loyalty"
+royalRoadId: "3636172"
+---
+
+I could tell Ren felt way better already. The stifling, oppressive gloom that had hung over his thoughts for the past twenty-four hours was beginning to lift. All he really needed to recover was to let it out of his system. The fact that he felt entirely powerless to protect the people under his care seemed to be the main reason he was in such a deep dump.
+
+Right now, however, he was taking out that frustration in a very direct, very physical manner.
+
+Buck was living his absolute worst nightmare at the moment. It didn't matter how much damage he took, or how many bones the elves broke. Moments later, after a quick, agonizing flash of green light from Caladorel’s hands, Buck would be back to his usual self, completely healed and ready for the next round.
+
+This was worse than death. Way worse.
+
+I distinctly remember Buck whining through a bloody, swollen mouth about why they weren't actually asking him any questions. They were just beating him up to the brink of death, only for the old man to recover him back to normal so they could start over.
+
+It was a brutally efficient way to vent stress.
+
+I enjoyed the show thoroughly, even telling Ren to give the man a few solid kicks to the ribs on my behalf. He happily obliged.
+
+Caladorel didn't need to ask questions. While the physical interrogation was happening, the Archmage had simply placed a glowing hand on Buck's forehead and extracted all the information we needed directly from his brain.
+
+"I have what we need," Caladorel finally announced, stepping back and wiping his hands on a clean cloth Sylas provided. "His memories of the incident, along with his wounds, have all been erased. When Smokey is done with her meal, she will drop the trash right back where she found him."
+
+According to Caladorel, the mental tampering was thorough. Even though his explicit memories of the beatings and the cellar have been completely erased, the man will fear House Fenris for life. His subconscious will always feel a spike of mortal terror whenever he tries to cross House Fenris or attempts to harm anyone related to them.
+
+The dude is scarred for life, and he will have absolutely no idea why he wakes up screaming in cold sweats whenever he thinks about mayonnaise.
+
+When Ren and Caladorel finally retired to the quiet of the upstairs office, the Archmage informed Ren of the extent of what the man actually knew.
+
+"The spy believed the rumor the girl told him," Caladorel said, settling into the armchair. "He thinks Lily is a half-elf."
+
+[Ana: That’s a huge relief, Ren. Our convenient camouflage worked perfectly. The half-elf cover story is holding strong.]
+
+"Yes," Ren replied mentally. "But from Caladorel’s expression, it looks like we are not completely home free yet."
+
+Caladorel leaned forward, resting his hands heavily on his cane. "The problem now is regarding succession. Under the laws of Dolaria, a half-elf can only inherit a noble title if the King explicitly allows it. And that royal dispensation requires proven excellence in a certain field. The half-elven mage child, Lady Parisa, is one such example. She earned her title through blood and unparalleled military merit."
+
+Ren frowned, drumming his fingers on the desk. "So they won't just let her inherit the estate."
+
+"No," Caladorel confirmed. "The Crown would force you to create a human heir, no matter what. Whether it be from a legitimate marriage, a branch family, or formal adoption. Unless you reach a mark of undeniable excellence that forces their hand."
+
+"And how do I do that?" Ren asked. "I'm not a battlemage."
+
+"There is a sliver of hope," Caladorel offered, a glimmer of strategy in his milky eyes. "The Royal Seal of Culinary Excellence is one such achievement. It is a mark of royal favor. It can be exchanged for a royal decree or a single, absolute pardon. If you invoke it, you would lose all the other perks associated with the Seal—the prestige, the priority trade rights, the monthly stipend of Royal Ducks—but with it, you can make Lily your legitimate heir without question."
+
+Ren let out a slow breath. The duck. It all came back to the duck. He was going to have to trade his culinary white whale for his daughter's future. It was a steep price, but it was an easy choice.
+
+"All that would be left to deal with," Caladorel warned, "is the inevitable disdain and intense scrutiny your house will face from the more conservative nobles for elevating a half-blood."
+
+"I can handle snobs," Ren said firmly. "What about the guy who sent the thug?"
+
+"I have retrieved the identity of the mastermind behind this whole ordeal," Caladorel said, his tone darkening. "It is Lord Greenwood. The man held an absolute monopoly over military contracts and food supply before you showed up with your instant rations. He is the one in the Old Circle with a vendetta against you. I suspect he will show his face here soon to blackmail you with the information his spy gathered."
+
+Our conversation was interrupted by a sudden, chaotic commotion from downstairs.
+
+Sylas appeared in the doorway, breathless. "Master. The children... they have woken up."
+
+...
+
+Ren took the stairs two at a time. Caladorel glided silently behind him.
+
+The makeshift infirmary was crowded. Mira, Cynthia, and several of the maids were hovering anxiously over the two cots.
+
+"Clear the room," Ren ordered gently as he walked in.
+
+The staff hesitated, their protective instincts warring with their obedience, but a sharp look from Sylas had them filing out into the hallway. Only Ren and Caladorel were left in the room with the kids.
+
+Raina and Liam were sitting up in their cots. They looked physically fine—Caladorel’s magic had erased every bruise, set every bone, and healed every laceration perfectly. But their eyes told a different story. They were wide, frantic, and filled with a terror that physical healing couldn't touch.
+
+The moment Raina saw Ren, she scrambled off the cot. Her legs tangled in the blankets, and she hit the floor hard. She didn't try to stand. She just crawled toward him on her knees, dragging Liam down with her.
+
+"My Lord!" Raina sobbed, pressing her forehead against the polished floorboards. "Forgive us! Please, forgive us! I failed you! I told him!"
+
+Liam was crying silently beside her, his small body trembling as he tried to mimic his sister's bow. "I'm sorry," he hiccuped. "I broke the rule. I talked to the boys in the alley. I'm sorry."
+
+They started begging and crying for forgiveness, their voices cracking. They begged for mercy, offering to work for free for the rest of their lives, offering to be sold to the mines if he would just spare the other one.
+
+Ren felt a physical ache in his chest. He dropped to his knees immediately, right there on the floor with them.
+
+"Hey. Hey, look at me," Ren said, reaching out to gently grab their shoulders. He pulled them upright, forcing them to meet his gaze. "Stop. You have nothing to apologize for."
+
+"But I told him!" Raina wailed, her face streaked with fresh tears. "I told the bad man about the Lady Lily! I betrayed the House!"
+
+"You protected your brother," Ren said firmly, his voice steady and calm. "You did exactly what a good sister is supposed to do. You kept him alive."
+
+"But your secret..." Raina sniffled.
+
+"My secret is my problem," Ren said. He pulled them both into a tight, awkward hug. "You are just kids. You shouldn't have to carry my burdens. I am sorry that I put you in a position where you got hurt because of me."
+
+Ren being so incredibly kind seemed to make them feel even more guilty. Liam buried his face in Ren’s tunic, sobbing louder. Raina gripped his sleeve like a lifeline, her shoulders shaking violently.
+
+"We want to make it right," Raina choked out. "We want to serve House Fenris. We won't ever talk to anyone again. We swear it on our mother's grave."
+
+Ren looked over their heads at Caladorel. The old mage gave a slow, somber nod.
+
+"Raina, Liam, listen to me carefully," Ren said, pulling back slightly so he could look them in the eyes. "Master Caladorel here... he has a very special kind of magic. He can make you forget."
+
+The children blinked, confused.
+
+"He can take away the memory of the alley," Ren explained softly. "He can erase the bad man, the pain, the fear. You won't remember any of the horrible things that happened yesterday. You can just wake up, and it will be like it never happened."
+
+Raina stared at the old elf, then back at Ren. She looked at her brother, who was still trembling.
+
+"Will we forget you?" Raina asked, her voice small.
+
+"No," Ren smiled gently. "Just the bad parts. You get a clean slate."
+
+It was a heavy offer. The chance to wipe away trauma was something many adults would kill for.
+
+Raina gripped her brother's hand. She looked down at the floor, thinking hard. It was a massive decision for a child to make.
+
+Finally, she looked up. Her eyes were red and swollen, but the terror was gone, replaced by a fierce, stubborn spark.
+
+"No," Raina said, her voice shaking but resolute.
+
+Ren blinked in surprise. "No? Are you sure? You don't have to carry that fear with you."
+
+"If I forget," Raina said, squeezing Liam's hand tighter, "then I might make the same mistake again. I might trust the wrong person. I need to remember what happens when I break a rule."
+
+She looked Ren straight in the eye, showing a conviction that made her look far older than nine. "I want to remember. Because I want to make it up to House Fenris. I want to earn the food you gave us. We will be the best workers you have, My Lord. I swear it."
+
+Ren respected their conviction. He saw the strength in the girl's eyes, a strength forged in the gutters of the capital and tempered by the brutal reality of their world. He felt a deep pang of guilt. He had never wanted them to get stuck with House Fenris forever. He wanted to give them money and send them on their way so they could live normal, safe lives away from his chaotic, target-painted existence.
+
+But he respected their choice. They were fighting for their place in the world.
+
+"Alright," Ren said, standing up and brushing off his knees. "I respect your decision. But things are going to change."
+
+He looked down at them. "You are not going back to the scrublands. You are going to live on the estate from now on. I will have Kaelthos send a guard to lock up your old hut and bring whatever belongings you want to keep. Sylas will prepare proper rooms for you in the staff quarters."
+
+The kids stared at him, their mouths slightly open.
+
+"Rooms?" Liam whispered. "Inside the walls?"
+
+"Yes," Ren said. "Inside the walls. Where it is safe."
+
+The kids scrambled to their feet, bowing frantically and thanking him profusely. The outpouring of gratitude made Ren feel even more guilty, but he couldn't deny the relief he felt knowing they would be safe behind his magical wards and elven guards.
+
+Ren walked out of the infirmary, leaving the kids to fuss over their new, clean clothes. Caladorel fell into step beside him.
+
+"They are strong children," Caladorel noted. "They will make fine additions to your household."
+
+"They shouldn't have to be strong," Ren muttered darkly. "They should just be kids."
+
+"That is a luxury this world rarely affords the poor," Caladorel said pragmatically.
+
+Ren stopped in the hallway. "Greenwood. You said he would come here?"
+
+"He will try to leverage the information his spy gathered," Caladorel confirmed. "He believes he holds the secret of Lily's heritage. He will attempt to blackmail you into submission. To force you to surrender your supply chains to him."
+
+"Let him come," Ren said, his voice cold and hard. "I'm done playing defense."

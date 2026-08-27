@@ -1,0 +1,147 @@
+---
+id: 9a13b40b-6fa8-57ce-80f0-ca1a4e3da1a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: First Dungeon"
+slug: 0001-chapter-1-first-dungeon
+partOf: the-gift-of-loot
+position: 1
+ownLength: 2149
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3219287/chapter-1-first-dungeon"
+royalRoadId: "3219287"
+---
+
+"What am I doing? This is insane. I'm going to die. This is insane," Thomas muttered to himself.
+
+Probably not the best line of self-talk when trying to psych himself up, but that was literally all that was running through his head.
+
+Standing twenty feet ahead of him was a strange distortion in the air. It looked exactly how it had on YouTube, kind of like a diamond-shaped heat haze. Or maybe a parting of curtains between two worlds. This particular one shimmered brown and blue, and as he stared at it, he got a strange feeling there were more colors right on the edge of his perception that he couldn't see.
+
+Actually... now he was face to face with the thing, it was a lot more intimidating and real than on YouTube.
+
+Thomas's mouth went dry. Standing there with a light backpack on and his only weapon in hand, he felt every inch the idiot. The two Army National Guardsmen who stood on either side of the magical portal to a dungeon also looked at him like he was being an idiot.
+
+He couldn't blame them. He looked nothing like the gung-ho Dungeon Diver actors that were plastered all over the government propaganda commercials, the ones that had been playing on loop since the official announcement had come out a week ago.
+
+His friends and family thought he was a little insane for taking the upcoming "System Integration" seriously, but the moment Thomas heard it, things made sense. Growing up, there had always been a feeling that the rich and well-connected were given more chances than average folks. It went beyond luxury and opportunities. They just had... more.
+
+Then, on Announcement Day, they had learned that for the last three generations or so, certain well-connected people had access to the dungeons and had locked in the spiritual gifts that came along with them. Those people had solidified their power into empires and had become oligarchs in their current countries. The gap between the haves and have-nots became wider. Blah, blah, blah, the usual drill.
+
+Apparently, there was real-life magic involved. Magic that had finally been opened to the rest of them plebes.
+
+As a certified plebe, Thomas was interested.
+
+The aliens or gods or... it was still unclear, had announced this in a big, scrawled message in the sky. Kind of like writing from airplane exhaust except it was actual text. It was visible in all weather conditions and able to be read in whatever language the viewer was most comfortable with. According to some rumors, you could read it even if you were completely illiterate.
+
+Magic, right?
+
+Just thinking about it, Thomas reflexively glanced at the announcement and rules which were visible just through the pine trees.
+
+1) Each individual over the age of 15 will unlock a magical gift upon entering their first dungeon and slaying a monster within. Level up and grow stronger by killing additional dungeon monsters.
+
+2) Earth will have six standard months (175 days, 12 hours, and 57 minutes remaining) until it is fully integrated into the System.
+
+3) Dungeons will be limited to level 3 until System Integration Day. Classes will be available once an individual reaches level 5.
+
+4) A map of the dungeons will be publicly available.
+
+Most world leaders did indeed provide guides, clarification, and a bunch of cover-your-butt, mea culpa, "sorry you feel that way" statements. Thomas subscribed to the theory that governments were going along with it because most of the population was about to gain magical powers and become very dangerous. They wanted to stay on their good side.
+
+To say things had been shaking out over the last week was an understatement. All the more reason he wanted to figure out what his magical power—his "gift"—would be.
+
+But he wasn't going to be stupid about it.
+
+Thomas had chosen a dungeon that was a good ways out in the wilderness, at the end of a hiking trail. He was surprised that it was guarded, actually, though the government had promised National Guard members to be on hand. Dungeons spawned every ten miles on land, so even large militaries were stretched thin.
+
+That was probably why there were only two guys in camo standing there, looking at him while he looked at them.
+
+"So," he said awkwardly, as one does when they're facing down guys with guns at their sides. "If I come out with my arm chewed off, is it your job to call an ambulance?"
+
+"No," said the older man. He was about Thomas's age, early thirties.
+
+The National Guard Army solider, a guy so fresh he thought he had just graduated high school, nodded vigorously and held up a big square device. "Got a satellite phone here, and we can call a helicopter."
+
+"If you're that hurt, chances are you won't find your way back out," explained the older army guy.
+
+Meaning, Thomas would die alone with no one ever knowing what had happened to him. But he had already weighed the pros and cons of getting a gift versus ostriching and hoping all this weirdness would go away. Most of his friends and family were doing the second.
+
+No, he was finding out his gift. Even if the rumors were true and some were so dangerous they made your skin like pudding or you breathed fireballs. He had to know.
+
+"Have you two gone in?" he asked, though he kept his gaze on the older army guy.
+
+"Yeah, of course!" the younger army guy chirped.
+
+The older guy smiled, and Thomas got the feeling he had passed some sort of test by not balking at the 'arm chewed off' thing.
+
+"It's just a level one. Keep your head on a swivel. Though... most people bring someone with them."
+
+Thomas's friends all had kids of their own to think about, as did his cousins. He had no rugrats, and he certainly wasn't going to bring his mom or dad with him.
+
+"I'm fine," he said, hefting the maul. It had a blade on one end and a blunt hammer on the other. He had even used it to cut wood... exactly once. Guns and higher tech wouldn't work in dungeons, according to the guides. It was medieval or bust.
+
+The younger army guy jumped in. "The dungeon cycles every ten minutes, and the next will be seven minutes from now." He pointed unnecessarily to a clock with a big digital display that stood over the entrance to the dungeon. "Once it counts down to zero, no one can go in after you."
+
+"Like... for rescue or something? Why does that matter?" he asked.
+
+"It didn't matter here," said the older army guy. "But if you have an enemy or maybe a crazy ex-girlfriend or someone you're afraid might follow you in... well, keep it in mind. There are no cameras, and in a dungeon, no one could hear you scream."
+
+That was so unnecessarily dark.
+
+The younger guy must have thought so too because he rolled his eyes and stepped forward. "That gives you enough time until the next cycle to fill out the forms."
+
+Oh yes, the real reason why the National Guard was sent to every dungeon location. Thomas supposed it was better than some authoritarian countries that sent their citizens en masse into dungeons, no matter if they were physically capable or not. No, in the good old USA, dungeon participation was still voluntary... for now. But they were going to collect his information going in and coming out.
+
+Whatever. He was prepared.
+
+The younger guy grabbed a tablet and started typing as he took down his name, Thomas Coldstrike, his Social Security number... for reasons, and an emergency contact in case he didn't come out in 48 hours, in which case he would be officially declared dead.
+
+That was nice. The government had been aware of oncoming system integration for about 75 years. Apparently, they had thought of everything.
+
+This cycle of the dungeon rolled over, the countdown timer switched to a fresh 10 minutes, and he was cleared to go in.
+
+Gripping his maul in his hands, he stepped through. It was a little like walking through a curtained doorway, and he felt the energies brush against his shoulders like fabric.
+
+The first sight was... a small room. Closet-sized and with sort of off-white stone walls and floor. He had gone through all the official government guides exhaustively, so this wasn't unexpected. This was the initial safe room—the last chance he had before facing enemies.
+
+As a level 1 dungeon, it was just a blank room with blank walls. Apparently, the higher-level dungeons, like the ones currently not available on Earth, were promised to have additional features, like sitting areas and fancy spreads of food.
+
+Thomas stared at the door, which was two feet in front of his face. Even though he'd come all this way, he found it hard to take the next steps.
+
+Look, he told himself, if I don't like what's on the other side, I never have to do this again.
+
+He could just find out what his gift was and then go home and try to ride out the rest of this crazy apocalyptic scenario... probably cowering in a corner. Like a coward. While everyone else reveled in badass magical powers.
+
+Yeah.
+
+Adjusting his grip on the maul's wooden handle, Thomas stepped through.
+
+The first thing that hit him was a sense of heat and humid, wet air. Thomas actually staggered in surprise. He wasn't used to that, having just come from a high-elevation alpine forest. Like, he could see the gleam of Lake Tahoe from the upper part of his neighborhood. He was used to the scent of pine trees and the croak of ravens, and now he was smacked in the face—more appropriately, smothered by a wet rag—of hot, humid jungle.
+
+Yeah, he'd read it from the dungeon guide since he wasn't going to dive into a dungeon blind, but getting hit in the face with it was kind of a sensory mind screw.
+
+The moment passed, and despite every nerve being on high alert, Thomas couldn't help but look around with a sense of wonder. It was green and lush with leaves bigger than his head. Very... Jurassic Park? Maybe he had been teleported to Hawaii.
+
+From everything he read, the dungeons were an entrance to a pocket world inside their world, which... wasn't really their world? He didn't know; he was officially one week into the existence of magic, and there was a lot to learn. All he knew for sure was that level 1 dungeons were fairly small... about the size of two Costcos put together.
+
+But looking up, he saw bits of sky through the broad-leaf jungle trees, every bit as real-looking as the sky in his world. It even smelled like a jungle, with rotting vegetation and the perfume of blooming flowers.
+
+"This is just like a holodeck," he muttered, more surprised than anything else.
+
+Then he heard something rustling in the trees and in the bushes. "Okay, Thomas," he told himself, "it's monster-smashing time."
+
+Because he had already looked through the available guide for this dungeon, and he wasn't going to try to fight off a man-eating tiger with a melee weapon, he knew what the monster would be. This was the second reason he had hiked up a long trail out in the middle of nowhere: he had chosen the chicken dungeon.
+
+Though the monster that emerged from the foliage wasn't exactly a normal chicken. This was a ground-running, lean, angry chicken with teeth and claws. A little bit like the more modern depictions of dinosaurs, about knee-high, patterned red and black, and angry all over.
+
+Upon seeing him, it raised a crest on its head that made it look like a cockatoo and charged with a puny shriek of rage.
+
+"Oh shit," Thomas said, and kicked at the thing.
+
+The angry demon chicken leaped over his foot and landed on his calf, little pinprick claws digging into his flesh. He shrieked and somehow had the presence of mind to not bring the maul down on his own leg. Instead, he bent over and batted it away. The back of his hand connected, knocking the little monster to the side.
+
+It was surprisingly light and hit the ground with a crunch, wings fluttering in a way that told him something had been broken.
+
+That was when he brought the maul down. He missed the first time, hit the second, and heard a terrible shriek. But the monster wasn't dead yet. The third strike, somehow more out of luck than anything else, hit at the base of its neck and shoulders, and the head separated from the body. He had killed his first monster.
+
+Deep inside, Thomas felt his gift unlock with a click.

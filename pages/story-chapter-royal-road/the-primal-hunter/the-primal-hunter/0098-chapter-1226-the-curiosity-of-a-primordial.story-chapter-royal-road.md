@@ -1,0 +1,175 @@
+---
+id: a4bee883-ff5f-5893-984b-c5f38803e04c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1226 - The Curiosity of a Primordial"
+slug: 0098-chapter-1226-the-curiosity-of-a-primordial
+partOf: the-primal-hunter
+position: 98
+ownLength: 3065
+unit: words
+ownProgress: 3065
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2914132/chapter-1226-the-curiosity-of-a-primordial"
+royalRoadId: "2914132"
+markedReadAt: "2026-06-29T19:32:22.046Z"
+---
+
+Jake finally exited his Soulspace and opened his eyes to the two gods. Both of them were looking at him as if they were trying to evaluate his state of mind or to see if he’d taken any soul damage, making Jake smile slightly.
+
+“What a welcome party for someone who didn’t even go anywhere,” Jake said jokingly.
+
+As he spoke, he visibly saw the relief wash over Artemis’ face while Villy just flashed a grin of his own.
+
+“I would argue you went on quite a spiritual journey,” the snake god said as he walked over. “Such trips can make one lose oneself and never fully return. However, looking at you, this entire journey clearly didn’t seem to have led to much personal development.”
+
+“Hey, I would argue that the growth my stat page underwent gets as personal as growth can be,” Jake shot back jokingly as he decided to stand up, only to find his legs wobbly as the world started spinning for a moment.
+
+Before he even had time to catch himself, Artemis was upon him, supporting his shoulder as she was back to looking worried. “Are you sure you’re okay?”
+
+“I think so,” Jake said, also finding his state a little weird. Trying to get a proper grasp of what was going on, Jake noticed that when he tried to move energy through his body faster, it seemed to get obstructed, and he could barely mobilize any power. “Actually, scratch that. I’m definitely not in peak condition right now.”
+
+“I’m not surprised; you just gave your own soul quite the beating there,” the Malefic Viper chuckled. “Sure, you may have stabilized your mind using that unique skill of yours, but your soul was still ravaged and damaged by the broken Records of Palate. Even if the skill is fixed now, that doesn’t mean your soul is fully recovered.”
+
+“I kinda felt like it was, though,” Jake muttered as he managed to stand by himself. “At least it doesn’t feel damaged anymore.”
+
+“Oh no, it’s not really damaged,” the Viper said with another big smile. “Say, Jake, you used to work out a little before the system arrived in your universe, right? Remember how your lower body felt after a good leg day? Yeah, it’s a bit like that. You’ve strained yourself too much, and your soul is just tired and needs some proper rest.”
+
+“I don’t entirely get the reference, but that does seem the most likely explanation,” Artemis nodded. “Even gods can feel an odd sense of exhaustion if they spend too long trying to comprehend concepts.”
+
+“Speaking of concepts, I just want to clarify something,” Villy added as he looked at Jake. “Did you see the Gate of Enlightenment?”
+
+Jake looked confused at the Viper for a second before answering. “Yes? I thought that was pretty obvious…”
+
+“That’s why I said I wanted to confirm,” the Viper shook his head with a low chuckle. “I’ve mentioned it before, after all.”
+
+“No? You haven’t?” Jake questioned, now even more confused.
+
+“Exactly,” the snake god nodded as if Jake had just fully confirmed his words.
+
+“Wait, you mean that it was considered Forbidden Knowledge before?” Jake finally got it.
+
+“See, even if he’s a bit slow on the uptake sometimes, he does tend to figure things out in the end,” Villy spoke to Artemis before turning back to Jake. “And you’re right on the money. It shouldn’t come as a surprise, but most things like that are considered Forbidden Knowledge. A lot will become clearer the closer you get to godhood. Most don’t learn about the Gate of Enlightenment before S-grade.”
+
+“Ignoring the underhanded compliment that I’m not even sure was a compliment at all, when you say that you can’t share any details in that vein, do you mean requirements for divine ascension?” Jake asked.
+
+“Look at him go; sometimes he can even surprise us with how smart he is!” Villy spoke to Artemis once more before he answered Jake. “And yes, that’s more or less what I mean. I guess I can share that one of the requirements for godhood is indeed to open one’s Gate of Enlightenment; something you’ve already taken the first step towards. Of course, you still need to also…”
+
+Jake felt as if he had zoned out for a moment as he frowned. “Also what? Wait, never mind…”
+
+The Viper just grinned after having spoken what was clearly Forbidden Knowledge, making Artemis shake her head before she spoke. “I also have something I want to confirm. We’re right to assume that you gained a sacred rarity skill, correct?”
+
+Jake was about to answer as the Viper cut in quickly. “The mere fact that he’s about to answer means he succeeded. Because yes, the mere existence of the sacred rarity is also considered Forbidden Knowledge. Not really sure why the system cares about hiding rarities, but oh well.”
+
+Now it was Jake’s time to ignore what the Viper said as he also chose to answer Artemis. “Yes, I did get a sacred rarity skill.”
+
+Artemis smiled and nodded. “With that, I assume a title also followed?”
+
+“Title upgrade, and yes,” Jake said, feeling at least a little proud of himself. “Not a minor one either.”
+
+“It would be disappointing if it were,” Artemis said before she asked the Viper a question. “I’m curious, how many C-grades are you aware of that managed to get a sacred rarity skill? I know I sure didn’t have one. I found it hard enough to upgrade a few skills to mythical already.”
+
+“Off the top of my head? Not sure, actually. Most don’t publicly advertise when they get a skill like that, and I would also recommend that Jake restrain himself from bragging too much. I do know of a couple who had one, though. From what I remember, a few of the Daolords managed to, and I also wouldn’t be surprised if a few choice Chosen who later became extraordinary gods also had one, though again, hard to tell,” the Malefic Viper shrugged. “How about the Pantheon of Life? Do you know of any there, or perhaps some gods I wasn’t very up-to-date on?”
+
+“I am aware of only one from the Pantheon of Life, and that upgrade came primarily as the result of her success in a massive system event and a lot of very fortuitous circumstances coming together,” Artemis said. “Besides that, the only recent and public one I’m aware of was the late Yip of Yore.”
+
+“Oh yeah, not very surprising either,” the Viper nodded slowly. “That guy should really have learned some self-control and just allowed himself to fully grow into his potential and not try to bite off more than he could chew. A few more eras and he would have been a real handful.”
+
+“While now, he’s just a mouthful,” Jake added, getting a small chuckle out of the Viper.
+
+“A tasty one, I might add,” the snake god said before another thought seemed to strike him. “I take it that you managed to reach the Gate of Enlightenment through the assistance of the First Sage, right? Also, if you did, does that mean the Records and Legacy he left with you has been used up, or is there more you’ve yet to explore?”
+
+“I did indeed manage with the help of the First Sage, and no, parts of his Legacy remain. I’m just not capable of accessing it quite yet, and likely won’t be able to before at least B-grade,” Jake answered.
+
+“I see,” the Viper slowly nodded in understanding, though a flash of relief seemed to cross his face for a moment, likely just happy that some of the Legacy of his Master still remained somewhere.
+
+“You two… You just discussed Forbidden Knowledge, didn’t you?” Artemis cut in, which also reminded Jake that she wasn’t even able to take part in that conversation.
+
+“Yeah, sorry,” Jake apologized.
+
+“No need for an apology, I’m just surprised about the existence of such Forbidden Knowledge that the two of you seem aware of but that I don’t,” Artemis explained, indeed not seeming the least offended.
+
+“Just a little secret between the two of us,” the snake god joked. “Now, with the confirmation that Jake’s mind still works – well, works as well as before, I guess – I believe it’s time for me to take my leave and allow my dear Chosen to recover. I could volunteer to play nurse, but I have a very strong feeling someone else here is willing to do the job instead.”
+
+As usual, the Viper teleported away before anyone could say anything, always keen on getting in the last word. In fact, he managed to get in the last word twice, as he also made sure to leave Jake with a quick telepathic message.
+
+“We can discuss the vision you had this time around when it’s more convenient and you’re fully recovered.”
+
+Without any ability to respond, Jake could only accept the Viper’s proposition. When it came to the vision, Jake certainly had a few questions he wanted to ask, though he didn’t want to do so in front of Artemis.
+
+With the snake god gone and the immediate talk surrounding Jake’s upgrade done, Jake shook away all thoughts of the snake god and turned to Artemis with a smile. “He does have a point; this patient would do well with some rest.”
+
+“Then allow me to assist you,” Artemis said as she flashed a smirk of her own before kneeling down and scooping Jake off his feet. Before he even knew it, the goddess held him in a princess carry as she walked out of the laboratory Jake had decided to meditate in and towards the bedroom he… they… usually used.
+
+Jake didn’t resist or protest but just commented on the situation. “I would reckon teleportation was easier than walking.”
+
+“Most definitely,” Artemis didn’t disagree as she continued walking with him as if he were entirely disabled.
+
+“Would be cool if someone here was capable of teleporting,” Jake continued his passive commentary.
+
+“Sure would,” Artemis continued teasing him. At this point, Jake just accepted his fate and snuggled up to Artemis. Soon enough, they reached the bedroom, where Artemis proceeded very ungently to throw Jake on the bed.
+
+Jake was ready for something more to happen as Artemis threw a blanket at him, covering his entire body. He quickly pulled it off himself and saw Artemis standing there looking at him.
+
+“What? You need to recover right now, and the best way to recover is either to meditate or sleep, and both of those can comfortably be done in a bed, so go right ahead,” she said, clearly enjoying teasing Jake.
+
+“I’m not that worn out, just a little tired,” Jake protested.
+
+“Right,” Artemis slowly nodded.
+
+Jake stared at her for a moment before surrendering once again. “Alright, fine.”
+
+With resignation, Jake lay down on the bed normally as he let out a sigh. Sure, he was a little tired, but it really wasn’t that bad. Surely, all he would need was a couple of hours of sleep, and he would perk right up. With that in mind, Jake closed his eyes, and not even three seconds later, it was lights out.
+
+He didn’t wake up for another three days, at which point two things had become very clear. First of all, Jake was perhaps more than a little tired after confronting a gate that usually only gods could interact with, and second of all, Jake’s upgraded meditation skill definitely worked at least partly even while sleeping.
+
+“He opened the Gate of Enlightenment? No, that would be impossible. It does seem like he managed to get a peek at the other side, though,” the Primordial muttered mostly to himself.
+
+“If he’d fully opened the gate, it wouldn’t be my Chosen having a little nap right now, but something entirely different,” the Viper said, shaking his head. “But to sate at least a morsel of your curiosity, yes, I guess you could say he managed to get a peek at the other side.”
+
+“Which only raises more questions,” Eversmile said, looking deep in thought. “That Chosen of yours isn’t exactly someone with the kind of mindset and mental state I would expect to see from someone seeking enlightenment. He is no monk, no philosopher, yet he’s surpassed all of them in the aspect that’s meant to be their speciality. At first, I theorized his Bloodline was the cause, and while I don’t doubt it’s involved somehow, I do not see it being the main factor.”
+
+Vilas remained silent as the Primordial of Karma kept speaking his thoughts out loud, perhaps with the hope of having the Viper confirm or reject some of what he said.
+
+“No, there must be something else behind it. It doesn’t strike me as your work either. Perhaps it’s related to the Void Gods, as they seem to have an interest in Jake? No… no, that doesn’t fit either. I see; it’s something else entirely. Something I’m not aware of. A unique opportunity he’s been given outside of currently known system events or individuals,” Eversmile continued, showing that he was indeed pretty good at deduction.
+
+The Viper considered trying to stop his train of thought, but decided to see where Eversmile would end up.
+
+“Something powerful. Undetectable… unknown. Perhaps even something unable to be known in the first place,” Eversmile said as he seemed to have a realization as he looked at the Malefic Viper. “This is related to the entity tied to his boots, isn’t it? The individual whose entire existence is considered Forbidden Knowledge, yet you two seem to be aware. As the only ones, it appears.”
+
+“That’s a wild theory based on very limited information,” Vilas chimed in, seeing no reason to confirm that Eversmile was more or less right on the money.
+
+“You’re unaware?” Eversmile asked rhetorically, his creepy smile growing slightly wider than usual.
+
+“Unaware of what?” the Viper asked, raising an eyebrow. He had an idea of what the other Primordial was hinting at, but again, better to give nothing away if he could avoid it.
+
+“The karmic resonance that took place during his journey. Through my own bond with the very concept of karma, I managed to glean a little. Your Chosen was not alone when he appeared at the Gate of Enlightenment. Not truly. There was something else there, or perhaps just remnants of something else. Something carrying that very familiar karmic signature I’m apparently not allowed to know the owner of,” the God of Karma said, truly living up to that title of his.
+
+“In other words, you already knew, and all of that theorizing was just bullshit?” Vilas asked, shaking his head. “Man, you’re really just bored sometimes, aren’t you?”
+
+“Oh no, quite the opposite,” Eversmile chuckled. “I find this entire situation extremely interesting. With so many unpredictable developments and so much I don’t know… how can I not be intrigued?”
+
+The Viper turned a bit more serious as he looked at the other Primordial. “My previous words still stand. Don’t fuck with Jake just to sate your own curiosity.”
+
+“I see no need to be anything but an observer for now. Your Chosen is fully capable of piquing my interest all on his own. Besides, it’s not him I’m most curious about right now.”
+
+“Another poor sod caught your attention?” the Viper asked a very leading question that he also highly suspected the answer to.
+
+“I wouldn’t say you’re poor,” Eversmile chuckled, shaking his head.
+
+“Eh, have you seen how many resources Jake has gone through during his bane poison experimentation?” Vilas said with an exaggerated sigh. “But fine, I’ll bite. What suddenly makes me so much more interesting today than I was yesterday?”
+
+Eversmile leaned forward as he looked at the snake god. “You’re always good at hiding your true thoughts. At revealing nothing, neither through words nor your expression. You can even hide your deceit from my senses… yet today you slipped up. I felt it. When I said your Chosen wasn’t alone, and when I mentioned that mutual Forbidden Knowledge subject you and your Chosen share, there was something there. A faint shiver. An emotion you couldn’t hide.”
+
+The Viper looked as neutral as he could while Eversmile continued.
+
+“It wasn’t your Chosen who originally met this individual… it was you. Jake got to know this entity through you. I don’t know how, but I suspect it’s related to that odd ability of his to experience your Records. Ah, yes, I’m aware of it, but that’s neither here nor there. Through this skill, he somehow made contact with something or someone from your Records. Something that’s now Forbidden Knowledge.”
+
+Eversmile seemed to get even more excited as he leaned even further forward.
+
+“Someone you have an extremely strong karmic and emotional connection to… and knowing that such an entity existed without me knowing about it, how can I not be intrigued? How can’t I be curious? Especially knowing that this entity seems to have influence echoing through history and even shares a karmic connection with me.”
+
+Vilas could only try to remain neutral as he definitely had to admit once more… Eversmile was scarily good at figuring things out that he really shouldn’t be able to, and once he was obsessed with something, there was nothing in the multiverse that could stop him from scouring all of existence to satisfy that obsession.
+
+Which, maybe, wasn’t the worst, because the Viper did have some curiosity himself about just how much of a mark his Master had truly left on the multiverse, and if there was someone he would trust to uncover anything and everything, it would definitely be Eversmile. For better a worse.
+
+Assuming Eversmile continued down this path of obsession, there was even a chance he could one day learn about the First Sage himself and thus no longer have him be considered Forbidden Knowledge. The thought gave the Viper mixed feelings, but again, Eversmile could prove an asset in uncovering some of the secrets his Master left behind. The Viper had realized by now that, despite how much time he’d spent with the First Sage and how much he’d come to believe he’d at least partly understood the man, Vilas had barely scraped the surface of his Master’s existence.

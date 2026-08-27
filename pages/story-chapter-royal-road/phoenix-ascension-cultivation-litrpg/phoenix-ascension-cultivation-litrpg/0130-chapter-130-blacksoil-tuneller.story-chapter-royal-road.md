@@ -1,0 +1,309 @@
+---
+id: ea4b7b94-b9e5-5f21-906b-07e075d40d27
+page-type-slug: story-chapter-royal-road
+title: "Chapter 130: Blacksoil Tuneller"
+slug: 0130-chapter-130-blacksoil-tuneller
+partOf: phoenix-ascension-cultivation-litrpg
+position: 130
+ownLength: 2971
+unit: words
+publishedAt: 2026-05-24
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3440575/chapter-130-blacksoil-tuneller"
+royalRoadId: "3440575"
+---
+
+The Muddled Aligator swiped at me with its half broken tail. A good hit with a few Blade Wings managed to severe it, which angered it greatly.
+
+I would be angry too if my beautiful tail had been cut, but fortunately I managed to stay in the air for most of the fight. It had no ranged attacks to speak of, and it was sitting in mud. There was something it would do every so often, and that was open its gaping maw to shoot out a literal mud ball at me.
+
+Based on what I now knew, that must have been some sort of Elemental Mixture skill, where it used both water and earth. That was a nifty combination, and it made me wonder if I could combine water and lightning to create a devastating attack.
+
+What would water and fire create? Some sort of steam? It was definitely something worth testing, but not against a level thirty eight enemy.
+
+Although given the large area and open sky, the fight wasn’t really a fight, but bullying. I could fly, it couldn’t. I could dodge its measly mud balls, and summon as many dragons as my Qi allowed. In short, this was a battle of attrition I would definitely win.
+
+[Qi: 8290/13760]
+
+I still had plenty of Qi left, and if by some miracle I ran out, I could still use my stamina. But that wouldn’t be necessary.
+
+A few minutes of dragons biting and burning at the thing, alongside a few dozen Myriad Qi Needles, a skill that desperately needed an upgrade, the beast fell to a well time Pyro Breath.
+
+[You have slain Muddled Aligator]
+
+[XP Acquired]
+
+[You have Leveled Up!]
+
+[Elemental Phoenix Heir Lvl 30 has become Elemetal Phoenix Heir Lvl 31]
+
+[Skill: Aerial Dive(Novice) has become Aerial Dive(Beginner)]
+
+[Skill:Myriad Qi Needles(Intermediate) has become Myriad Qi Needles(Expert)]
+
+[Skill:...]
+
+All in all, I got a rank up to a few skills. Pyro Breath ranked up to Intermediate and both Lighting Dragon and Dragon’s Flame ranked up by one as well. Blade Wing, surprisingly, ranked up to Master. I guess I used it a lot lately. With that rank up, I now had five skills at the Mater rank. Blade Wing, Iron Claws, Dragon’s Flame, Heaven’s Protection and Evasion.
+
+The speed at which skills ranked up seemed to differ quite a lot, and I was surprised my passive skills didn’t have a higher rank, since they were always in use, technically.
+
+Still, some of them also seemed to not fit the passive description, though there were too many skills for me to look at right now. I could sell them to thin them out, but I really wanted to keep everything.
+
+The best solution would be to fuse them or whatever System called that function.
+
+Flying down, I scanned the area with my Divine Sense and kept it active to look for any threat. It, along with my Phoenix Reflex, would warn me of any danger. With that done, I used the good old Split Focus to its fullest, as I ate away at the alligator while talking with System.
+
+Hey System, when you talked about the merging of skills, you said the price depends on how many and what rarity. What else is there to it?
+
+[I’m glad you asked!]
+
+[The Skill Merge feature you have is currently very limited. It only allows you to merge similar skills, but the outcome is often random. However, once you reach Level 35, you will be able to customise the results of the merged skills up to a certain extent at a higher cost of Skill Points.]
+
+[Not only that, but you get a free ‘Sorting’ feature as well, that will group all compatible skills together.]
+
+Well, that sounds amazing. So I only have four levels to go and then I should start cleaning up all of this.
+
+[Indeed. And as a little hint, you will unlock your next evolution at level forty.]
+
+What?! That’s still so far away…
+
+[Yep, and look forward to it. The more time passes between evolutions, and the more things you do, the more options you will have.]
+
+And you thought of only telling me that… now?
+
+[I thought you would have figured it out by now…]
+
+I let out an exasperated sigh.
+
+Thank you for telling me. Looks like I still have a lot of things that need to be doing.
+
+[^_^ You’re welcome, and yes. Good luck, Fa Xiaolan.]
+
+I uh… thank you…?
+
+System went quiet after that, and I fully focused on eating my meal. I was famished, since I’d refused to eat the rat. The alligator meat had a sweet ish taste, and the meat was soft and easy to chew through.
+
+The flesh was full of Qi, to the point where I could feel it rushing toward my Dormant Core. They were small amounts, but by eating enough of the alligator, it was sure to rank up. Not to mention the organs, which had the most amount of Qi stored within.
+
+The liver was a little fatty, and tasted of iron, but besides that, it was delicious. The lungs were big and thick, and the heart had to be the richest one in flavor I’d ever had.
+
+Sadly, it seemed like it would take a while, and I had to return to the city, or Meng Mao would freak out.
+
+So I ended up sitting there, in the mud, all evening, eating the giant thing, but it was well worth.
+
+[Dormant Core VII has become Dormant Core VIII!]
+
+[Dormant core VIII has become Dormant Core IX!]
+
+The alligator’s meat boosted my core all the way to rank nine! Now, I didn’t know what the maximum rank was for a core, but it was safe to assume that it followed the same system as the cultivation ranks.
+
+So basically, I’d reached the maximum rank, and… it felt amazing!
+
+I could feel the increase in stats and how amazing they felt! It was a completely different world. Qi flowed through my flesh, filling my muscles and even feathers with precious energy. The amount of strength I could exercise seemed to have doubled, though that wasn’t saying much, since it was sort of relative to my size…
+
+Anyway, I snatched the core, a medium sized green and luscious sphere, up and put it in my bag of holding. No way I was giving that little fiend more energy to feast on!
+
+I began flapping my wings but… I must have realised too late that I’d long since gone over my eating limits.
+
+Overeater was… full.
+
+And I… was very plump.
+
+Much to my dismay, there was no way for me to lift myself off the ground. Even with Qi, I was simply too heavy.
+
+In my absent-minded eating, I didn’t realise that System had given me another notification.
+
+[Skill: Overeater(Intermediate) has become Overeater(Expert)]
+
+I’d managed to eat my way to an expert glutton rank… And now I was too heavy to fly! Actually, I wasn’t even sure that I would be able to walk!
+
+I suppose that eating an alligator about eight times my size without break would probably do that… But I was just so excited about ranking up my core!
+
+I tried flapping my wings once again without success, my fluff was too heavy. Letting out a sigh, and noticing that it had already gotten dark, I figured that I had to hurry up and do something. I didn’t feel like fighting a powerful beast while in this state.
+
+Hmm, but what can I do?
+
+I quickly checked the description of Overeater, hoping that something may have changed.
+
+[Overeater]
+
+[Convert excess energy into bonus stamina. The more excess energy the more weight the user would gain.]
+
+Nothing changed in that regard, but there had to be something else I could use! Last Stand? No, as good as it was, it would be too flashy. Stamina Conversion? Well that one converts stamina into HP, and I wasn’t in particular need of health…
+
+I have to have something that could help me get out of this current predicament, but what…
+
+I’d almost slapped my face in that moment. I’d completely forgotten there was a shop I could access!
+
+System, search for a skill that can convert energy into Qi or something like that.
+
+[Understood. Searching…]
+
+[Skills found!]
+
+[Skill Shop]
+
+[Excess Conversion]
+
+Convert a percentage of excess energy into Qi.
+
+Cost: 5 Skill Points
+
+[Qi Converstion]
+
+Convert any chosen energy into Qi.
+
+Cost: 5 Skill Points
+
+[Sacrifice]
+
+Convert all your remaining energy into Qi
+
+Cost: 5 Skill Points
+
+It seemed that skills meeting those criteria weren’t particularly expensive, but weren’t particularly useful either. The first two skills sounded like they did the same thing, but maybe the first one took all energy and the second one only what I wanted it to take?
+
+As for the last skill option, yeah, I wasn’t going to think about it. All my remaining energy was far too steep a price for little benefit.
+
+I ended up getting the Active Skill Qi Conversion, since it was the best one. Aaand there go my five skill points. A small price to pay for being saved, I supposed.
+
+[Qi Conversion(Novice)]
+
+[Convert any chosen energy into Qi. The ratio of energy to Qi depends on the rank of the skill.]
+
+Well, I got a little bit more details now, so that was good to know. Either way, with one more skill added to my ever growing list, I checked my Qi.
+
+[Qi: 7690/14201]
+
+Fourteen thousand Qi… Wow. That was a lot of Qi, most of which was inside my dantian, but a good amount of it was also imbued within my flesh. My body could be considered a treasure if harvested, and not only because I was a Phoenix.
+
+Of course, I had no intention of dying, but I digress.
+
+Acitvating the skill was… painful. I wasn’t expecting it to hurt, but it did. It wasn’t so bad, but if I didn’t have the Pain Tolerance skill I could only wonder what it would have felt like.
+
+However, it did its job. My flufiness receded and the Qi reserves filled up. Within minutes, I was full… And the rest of the Qi had nowhere to go.
+
+If I were a normal cultivator, of course.
+
+But I, the great Phoenix, had a core!
+
+All the Qi from my leftover fluff reserves headed straight toward the core, leaving some within my flesh as it took the long way around my body, reinforcing my bones, flesh and everything else.
+
+The one thign that was strange was that my meridians, of all things, were also getting reinforced. I had good meridians, to be sure, but I wouldn’t mind having them stronger.
+
+Stronger meridians means I will be able to use techniques faster, better and with greater efficiency.
+
+As the Qi flowed in my core, though, I felt that it was about to break through. I wasn’t sure what a Beast Core upgrade looked like, but I was about to find out.
+
+At first, nothing really happened. The Qi kept entering without any signs of stopping, but I could sense that the core had gotten hotter. Something was happening inside it. After a few moments, the surface of the core cracked, and before I could react, it started peeling off.
+
+It fell quickly, almost disintegrating into pure energy that fed back into the main core, revealing a glowing core that quickly cooled off.
+
+In the place of the old, plain Beast Core, the new one that appeared was of a reddish brown color, and most of all, had tiny sparks that would burst into flames every so often.
+
+With the appearance of the core, I felt a brand new sort of strength flow into me. It was different, stronger, more… precise?
+
+And not only that, but the amount of Qi flowing from the Overeater reserves were still going at an even faster space toward the new core. It got to the point that I was wondering wether or not that was a healthy speed.
+
+Thankfully, that didn’t last long. Soon, the energy from my fluff got exhausted, and I was back at my nice, sleek form.
+
+Note to self, never eat that much in one sitting again. A level thirty eight Spirit Beast was no joke.
+
+The guy had probably eaten a lot of other beasts since its flesh was brimming with Qi. No wonder I’d gotten so fat.
+
+But oh well.
+
+As I took to the skies, I took a good look at my notifications.
+
+[Dormant Core IX has become Kindled Core I!]
+
+[Kindled Core I has become Kindled Core II!]
+
+…
+
+[Kindled Core III has become Kindled Core IV!]
+
+I was right, as it turned out. Nine was the limit for the core as well, and once it had broken pas that limit, it passed onto the next core.
+
+Kindled Core, huh.
+
+The name seemed way too convenient and specific to me, but I could only be left guessing. Yo Na wasn’t here for me to ask, and she couldn’t have read it anyway.
+
+It didn’t matter either way, but I had a feeling that these cores wouldn’t only be useful or raw power. With a name like Kindled, I am half expecting to get some sort of boost to my Fire Affinity.
+
+Just to make sure-
+
+Ellemental Affinity
+
+[Fire: 518%]
+
+[Water: 15%]
+
+[Lightning: 45%]
+
+No change, sadly. Well, that was to be expected, but it didn’t suck any less. Maybe Kindled wouldn’t be enough, or rather, the rank was too low?
+
+I could only find out later, and now that I knew that higher level beasts make for better food, I knew what to do. Not that I wasn’t going to do that anyway, but-
+
+The city appeared in front of me as I made my way forward, and I had no choice but to go around to the back of Meng Mao’s mansions.
+
+That was the only place I could safely enter from. Thankfully, I was rather close anyway-
+
+“Are you sure this is safe?” I heard a voice from below, and my non existed ears perked. Flying down and activating my stealth skills, I quietly landed on a branch.
+
+There were two humans, both of which rather weak looking, walking through the forest. The first one was a frail boy holding a torch, and the second one was a burly man with bulging muscles, wearing an imposing blade by the hilt.
+
+They were both wearing the same type of uniform, though that didn’t say much. The one thing that stood was the symbol of a crane on their right chest.
+
+That meant that they must have belonged to the same organisation.
+
+I couldn’t help but wonder what they were doing there, especially considering their levels.
+
+[Da Badai, Level 21]
+
+[Mo Yinfei, Level 25]
+
+The level difference between them was minuscule, but then again, levels meant little for humans besides marking their average cultivation rank. Considering all the techniques and other things they could unleash.
+
+I wasn’t even sure if levels gave them stats.
+
+Either way, I could not just ask, since it didn’t seem like humans had access to the system anyway.
+
+“Yah, don’t worry. This close to the city there should only be low tier beasts.”
+
+Well, he wasn’t wrong. I had to fly quite a way to find that rat. But low tier here meant level thirty, not below. Just what is he thinking?
+
+Nevertheless, I followed them. I had no plans on helping them if they got themselves into trouble, of course. You reap what you sow, and if you’re stupid enough to wander into this forest willingly, then you could only blame yourself.
+
+Not to mention they were grown men, well, one of them was, at least.
+
+“But the elder said-”
+
+“The elder wants to see his prodigy do the best and earn a spot in the Four Corner Sword Realm. If we want to have a chance at challenging him, we need to get stronger.
+
+They were right, since they were barely at the Foundation Establishment Realm. Still, the fact that they were was impressive. I wondered what sort of trees they grew inside their dantians…
+
+Well not that I could find out.
+
+What they spoke about was really interesting though. Four Corner Sword Realm… A sealed realm? I was very interested.
+
+I would need to ask Meng Mao about it.
+
+The boy nodded to his senior’s, I assumed, words. Oh, you poor child.
+
+He wasn’t a child by this world’s standards, and was quite strong in his own right, but still.
+
+Following them, I grabbed snippets of their conversations, though they didn’t speak much. As it turned out, they didn’t fancy attracting the attention of this and that Spirit Beast. They had a target in mind, something that senior had seen when out scouting with the elders.
+
+Apparently it was a sort of mole monster that came out at night, and it was blind as a bat. Its power was rather low as well, and I couldn’t lie, I was curious.
+
+If there really was such an easy pray, I may bother hunting it, if its level was decent.
+
+Finally, they stopped and went completely quiet. Both of them must have activated some form of sealth skill, as not even their breathing could be heard anymore.
+
+They were looking toward a small place in the forest between a few trees where there was no grass. It seemed that it was the place where the mole monster would come out from when it was coming out to feed.
+
+Sure enough, not even five minutes later, the Spirit Beast appeared.
+
+The moment I saw it, though, I knew that these two humans would surely die.
+
+[Blacksoil Tunneler, Level 34]

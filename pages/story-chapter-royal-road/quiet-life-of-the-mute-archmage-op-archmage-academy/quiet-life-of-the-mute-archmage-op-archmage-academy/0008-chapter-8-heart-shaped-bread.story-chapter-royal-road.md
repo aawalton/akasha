@@ -1,0 +1,159 @@
+---
+id: 39efe56e-b37a-5387-8e4b-4f0e734886ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Heart Shaped Bread"
+slug: 0008-chapter-8-heart-shaped-bread
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 8
+ownLength: 2244
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3393706/chapter-8-heart-shaped-bread"
+royalRoadId: "3393706"
+---
+
+Hearing the surprised tone of the young woman, Molly couldn't help but fumble further as she scrambled to come up with an explanation. No, two explanations for both women.
+
+Hearing her daughter's startled voice, Jasmine couldn't help but frown. "Have you two already met?" she asked.
+
+Jasmine's daughter glanced at her mother and gave a short nod. "Yes," she said, her gaze drifting back to the fumbling Molly. "I met her a few hours ago when she healed a mana-poisoned kitten with an advanced healing formula." She looked at her mother again. "Though she moved her lips, no words came out of her mouth. If I wasn't a master sword mage, I would have thought she was using fast chanting." She shook her head slowly. "But no, she didn't use fast chanting. She used voiceless chanting."
+
+Her eyes settled once more on Molly. "Is that even possible?" She shifted her attention back to her mother, gesturing toward the pale-haired girl. "I mean, she's just a little girl."
+
+Jasmine listened calmly, her face a mask of quiet composure. She glanced at Molly, who fumbled all the more, staring down at her own feet as if she had committed some grave offense.
+
+Jasmine understood the girl's dilemma at once. With a soft sigh, she stepped out from behind the counter and crossed to where Molly stood, placing a gentle hand on the young girl's shoulder. "There, there, little snow. You're not caught. Your secrets are still safe."
+
+She turned to her daughter with a pointed look. "Fiona, don't scare the little girl with questions. It is very wrong of you."
+
+"But—" Fiona opened her mouth, ready to object, then paused as she finally took a proper look at the young girl. She noticed how Molly's fingers fidgeted and twisted around each other in a nervous tangle. Her eyes remained fixed downward, even as her mother tried to soothe the situation.
+
+Fiona's face softened with regret. 'It seems I let my curiosity run too far.' A deep sigh escaped her as she leaned closer to the young girl, a small smile gracing her lips. "I'm very sorry for my poor manners. Please forgive me for intruding on your privacy," she said, her tone warm as fresh bread.
+
+Molly's eyes, which had been fastened to the floor, finally lifted to meet the gaze of the young woman named Fiona. She had never expected to encounter this lady here, much less discover she was Miss Jasmine's daughter. And now it seemed her secrets had been laid bare to yet another person because of her carelessness.
+
+She hadn't known master sword mages possessed such keen senses. Had she known, she might have thought of a different way to help the little boy. Still, how could she have known? There was no spell to reveal someone's area of expertise. And besides, since this was Miss Jasmine's daughter, there was nothing to worry about.
+
+A small smile finally touched Molly's lips as she gave a short nod in reply.
+
+Seeing this, Fiona's tentative smile warmed into something genuine. "Thank you very much," she said, straightening up and glancing at her mother, whose eyes twitched in a manner Fiona knew all too well, a silent message that read: Do not take this any further, young lady.
+
+A tired sigh escaped Fiona as she stepped toward her mother and wrapped her in a brief, warm embrace before pulling back and slipping past the counter into the next room of the bakery. "Mom, I'll be inside, waiting for you."
+
+Jasmine smiled warmly as she watched her daughter's retreating back. Soon after, she sighed and returned her gaze to Molly, who had begun smiling again, her usual cheer creeping back into place.
+
+Jasmine was almost mirroring that smile when she paused, recalling their earlier conversation before her daughter had walked in.
+
+Planting both hands firmly on her hips, Jasmine fixed Molly with a stern expression, though worry flickered beneath it.
+
+"Young lady," she said, eyes darting to the stained portion of the green robe that Molly was now trying rather conspicuously to cover. "Care to explain what happened to you?" She arched a brow. "In full detail. Without missing a single thing."
+
+Molly stared at Jasmine's stern expression for a long moment. A deep sigh soon slipped through her lips. There was no escaping this.
+
+The tiny black particles that had coalesced back into a sphere shuddered once more, dissolving into swirling motes that danced through the air. They shaped themselves with each fluid motion until they formed Molly's full and detailed account:
+
+*******
+
+Molly sighed deeply. The tiny particles in the air swirled and gathered, reshaping themselves back into a simple black orb that floated calmly beside her.
+
+Her eyes shifted to Jasmine, awaiting a response now that she had laid out everything that had happened, omitting not a single detail. She watched as Jasmine's eyes grew distant, lost in thought.
+
+A flicker of sadness soon crossed her features, and she exhaled slowly. "I don't have much to say, since I didn't know your affinity worked that way, but..." She fixed her gaze on Molly, the sadness now plain on her face. "I know this might sound rude, but as a mother, I must tell you." She paused, drawing a brief breath.
+
+"Don't hurt yourself just to help others. Think about the people who worry about you, Molly."
+
+She hesitated for a heartbeat before adding, "Think about your mother, that old auntie of mine. She would never forgive herself if anything bad happened to you."
+
+Molly absorbed every word, a sad expression settling over her features as she felt the full weight of them. Jasmine was right. Jen would have been frantic with worry had Molly been injured. Molly also remembered her constant warnings, Jen had always been careful to caution her about the repercussions of her affinity.
+
+A deep sigh escaped Molly's lips. Perhaps she had been too blind to her own well-being.
+
+A determined light kindled in her expression, and she clenched her small hands into fists. From this day forward, she would try to make the right choices, so Jen wouldn't have to worry so much.
+
+Returning her gaze to Jasmine, she gave a short, solemn nod.
+
+Seeing the young girl's earnest yet resolute expression, Jasmine smiled lightly and reached out to ruffle her pale white hair. "Alright, enough of that. Let's move on to your reason for visiting." Her smile brightened as she studied Molly. "What bread would you like to get?"
+
+Molly's whole face lit up at the word. The orb hovering at her eye level shuddered briefly before dissolving into tiny particles once more. They swirled in the air, arranging themselves until they formed a sentence:
+
+~ May I see what bread you have available? Oh, and I would prefer it to be strawberry flavored.
+
+Molly beamed as she projected her thoughts outward.
+
+Jasmine smiled warmly. "Alright then, little snow." She gestured toward the chamber behind her where breads of every kind lay in waiting. Her brows lifted with gentle amusement. "Why don't we go and have a look?"
+
+Molly nodded with vigor, her expression brightening further as she practically bounced after Jasmine, who led her through the doorway behind the counter and into the bread storage room.
+
+As they walked, a frown flickered across Molly's features. Her thoughts circled back to the words Fiona, Miss Jasmine's daughter, had spoken. An itch formed at the back of her mind, and she stole a glance at Jasmine. The tiny black particles, which had already returned to their spherical shape, shuddered once more and dissolved, reshaping themselves until they framed her question:
+
+~ Miss Jasmine, is your daughter the only sword mage in this family?
+
+Jasmine, who had already turned toward Molly upon noticing the swirling particles, couldn't help but let an amused smile touch her lips when she read the question. "She isn't the only sword mage in this family. In fact, I'd say more than eighty percent of this household, along with the previous generations, have been sword mages." She paused briefly, shifting her eyes to Molly as her amused smile widened. "Even my esteemed ancient grand aunt was meant to be a sword mage, had she not chosen the more fundamental path of learning magic."
+
+Molly's eyes flew wide with surprise. A soft breath caught in her throat as the tiny black particles shuddered again, rearranging into a new sentence:
+
+~ Really?
+
+Jasmine arched a brow at the word, her smile twisting into a playful grin. "Well," she said, sliding her gaze away with theatrical nonchalance, "I can tell that ancestor Jen has already been training you physically as a means of self-defense." She returned her attention to Molly, whose face had already flushed a deep shade of scarlet, caught entirely off guard that Jasmine knew about that, too.
+
+An all-knowing smile settled on Jasmine's lips as Molly's reaction confirmed her deduction. A light sigh slipped from her as they finally reached the storage door.
+
+With a calm, sweeping motion, Jasmine pushed the door open, and Molly's expression transformed at once. Her breath caught, a soft sound of wonder escaping her lips, her crimson eyes sparkling as she took in the scene before her.
+
+On either side of the storage room stretched rows upon rows of shelves, each one laden with bread of every variety imaginable. The air hummed with an orchestra of scents—wheat and honey, strawberry and chocolate, vanilla and milk, and a dozen others woven together in fragrant harmony.
+
+Her gaze darted around the room, drinking everything in. Every loaf sat neatly arranged, carrying the quiet dignity of a carefully crafted product.
+
+Jasmine smiled, noting the look of pure awe on Molly's face. She reached out and ruffled the young girl's hair, coaxing a small giggle from her.
+
+They moved past the first few lines of shelves until they arrived at the section where the strawberry-flavored bread gleamed in tidy rows.
+
+Molly's eyes rounded with delight, her gaze locking onto the strawberry breads lined up like treasures.
+
+"Which would you like?" Jasmine asked.
+
+Molly considered for a moment, her gaze sweeping across the different varieties of strawberry bread. Her expression brightened instantly when her eyes landed on a loaf shaped like a heart, its surface dusted with a faint blush of pink.
+
+She tugged gently at Jasmine's sleeve while pointing toward the heart-shaped bread.
+
+Jasmine smiled warmly and replied with a short nod. "Very well." She stepped to the shelf, lifted the heart-shaped bread with care, and retraced her steps to where Molly stood. Gently, she placed the loaf into the woven basket that Molly extended.
+
+Molly rummaged through the pocket of her robe, ready to bring out a few coins to pay for the bread, but she paused the moment she saw Jasmine's hand lift.
+
+"Ah, ah, ah."
+
+Molly looked up, meeting Jasmine's gaze as the woman shook her head with a soft smile. "It's on me."
+
+Molly's face brightened into a wide smile. She had already expected things to unfold this way.
+
+She dipped into a small bow of thanks.
+
+Jasmine laughed, the sound light as chimes. "It's no trouble." She waved a dismissive hand.
+
+She tilted her head toward the exit. "Why don't I walk you out?" Her smile remained warm and steady.
+
+Molly nodded with eager enthusiasm, falling into step beside Jasmine as they exited the storage room.
+
+******
+
+"Take care of yourself, little snow. Give my regards to ancestor Jen," Jasmine said calmly, bidding farewell as Molly waved back with eager sweeps of her hand, already retreating down the cobblestone path.
+
+After that, Molly turned her attention forward, her steps lively as she passed through the market square. Her eyes flitted across the ever-busy stalls lining both sides of the cobblestone street, merchants calling out their wares in a cheerful clamor.
+
+After almost thirty minutes, she finally left the market square behind, leaving the populated village as well. The open, plagued field stretched wide on either side of her, the mountain already looming clearer as she drew closer to it. A satisfied smile played on her lips at everything she had accomplished today. The neatly woven basket hung from the crook of her elbow like a handbag, the complete ingredients for the Rose Porridge tucked safely inside.
+
+Truth be told, Molly didn't know why they were celebrating her five years with Jen this early. Normally, they only ever marked the occasion four months from now. She couldn't guess why Jen wanted to celebrate it so soon. Perhaps Jen had a reason.
+
+She shrugged to herself. Jen always had a reason for everything. And for some time now, Jen had been keeping a few things secret from Molly. Whenever Molly pressed to know more, Jen would simply reply that it was not yet time for her to learn.
+
+Molly sighed in mild frustration, her gaze drifting to the side where the open field stretched toward the horizon. Her eyes soon paused in a certain direction. A frown slowly surfaced, and she squinted.
+
+There, leaning against the wooden fence that bordered the open field, stood someone familiar.
+
+It was a boy, around thirteen years of age, with tousled red hair and deep green eyes that stared absently over the plagued field. His thoughts seemed far away, as if he were wandering through days long past.
+
+A small smile curved onto Molly's lips. She knew exactly who he was.
+
+Miss Jasmine's youngest child.
+
+Ren.

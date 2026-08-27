@@ -1,0 +1,471 @@
+---
+id: 8a8e35ae-5ca5-5561-ba40-f6799b925a9c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 164:  Councils"
+slug: 0085-chapter-164-councils
+partOf: the-calamitous-bob-stubbed
+position: 85
+ownLength: 6305
+unit: words
+ownProgress: 6305
+publishedAt: 2024-05-10
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1631164/chapter-164-councils"
+royalRoadId: "1631164"
+markedReadAt: "2026-06-29T21:17:44.122Z"
+---
+
+Mornyr made Viv nostalgic of Europe. It was, perhaps, the closest equivalent of a tourist spot Param had both in the variety of its people and the extravagance of its constructions. It was not lived in, or developed, but rather frozen in time by common agreement between its people to serve as a beacon of peace and unity. The Harrakan convoy walked the busy road leading to the main gate unimpeded, then they joined the ‘priority queue’, the one that crossed the main opening towards the Grand Avenue rather than the more humble lower streets. The perfume of oil and fruit wafted over the many carriages come to carry their wares, and more than a few commoners bowed at her passage.
+
+Guards in the uniforms of various faiths welcomed the members of the alliance. The Harrakans arrived just in time to see the end of a northerner delegation make their way in before they were greeted in turn. The person who walked to Viv was a smooth priest with curly hair dyed golden at the ends which gave him an angelic aura. Unfortunately, he was a priest of Maranor, yet despite Viv’s misgivings, he didn’t seem fazed by her presence.
+
+“Welcome, Viviane, Empress of Harrak.”
+
+She gave him a surprised smile. Although this was her official title, few wanted to call her that, if only because two thirds of Param still remembered when their nations had to bend the knee to someone bearing that title.
+
+“We always call sovereigns by their chosen name. Welcome to Mornyr, Your Majesty. Your manor has been prepared. Ser Berol will guide you there. Please enjoy the summit.”
+
+The Harrakans walked on in perfect order past low buildings of gray, pink, and white stone. The Grand Avenue was home to offices of some of the greatest guilds of the continent. Merchant families and banks fought for the limited number of houses fitting inside of the walls. Here, space was finite and at a premium yet the sheer wealth of the residents made every house a luxurious, cozy space. Sellers hawked their wares at inflated prices and Viv winced. They would be staying here for about ten days. Each nation was responsible for their own expenses, obviously, so the entire endeavor would cost her as much as two refurbished workshops but… she needed those alliances. Fast.
+
+The convoy left the Grand Avenue shortly before the permanent embassies hosting the great nations. Solfis wistfully glanced at the ziggurat, Old Harrak’s previous dwelling, now the house of the Mornyr’s civil government. He looked for all of two seconds which was an eternity for him. Probably dreaming of invading the impenetrable city at the head of a massive host just so he could reclaim their real estate.
+
+The Harrakans moved through Sardanal’s district, which was also the richest one. Here, lavish palaces and bazaars competed to see which could be the most lavish. Viv walked past a restaurant where animated model ships carried dishes to various tables on a small river, each table decorated with replicas of famous Paramese palaces. They even had bonsai to complete the whole experience. There, a merchant sold every spice known to man, including those of Vizim and what was left of the shadowlands far beyond the sea. A horse merchant sold mounts taken directly from a fairy tale’s cover, so white and dazzling they were. Viv enjoyed the walk as Sidjin whispered in her ear.
+
+“There is a bordello here that specializes in group events and theater plays. You can walk through three stories watching naked recreations of battles, only the actors spar with their—”
+
+“I got the idea, and uh, ok that sounds really interesting.”
+
+“I knew you would appreciate the suggestion. I do not believe you mentioned having this back on earth?”
+
+“Nope. Or at least not that I knew of, who knows with really rich folks. I want to ask, though, is this really wise in the City of the Gods?”
+
+“Sardanal is the patron god of fertility. You know how babies are made, do you not darling?”
+
+“Ha ha.”
+
+//That place you mentioned, with theater and three floors.
+
+//Is it in the north east quadrant of the district?
+
+“It is! Have you been there before?”
+
+//No, Princeling.
+
+//I am not a herald of fertility.
+
+//But I have good news.
+
+Probably meant the place was connected to the sewers. Viv filed the knowledge for later. A fanfare band marked the spot where they would turn into the Little Court, the place where minor nations with no permanent dwellings were hosted. Their guide Ser Beral led them to a stern stone construction of ancient design with a pretty decent inner courtyard. The subsequent visit was cut short by Viv.
+
+“Where is the ward room?”
+
+“I assure you, Your Majesty, we have refreshed and examined them prior to your arrival!”
+
+“Thank you, great, now where is it?”
+
+“... this way please.”
+
+It was fortunate that Viv had made an arrangement with the Manipeleso Bank and Exchange because the palace came with no food, no drinks, and no linens. Viv missed high end hotels, like the privileged person she was.
+
+“You could just call room service and they’d bring you food on a platter.”
+
+“You can do that in any palace.”
+
+“Only if it’s your palace.”
+
+Soon, everyone busied themselves settling down. The support staff brought their plans and documents while the soldiers set up a barracks, an armory, and determined their patrols. Solfis inspected the roof for anomalies while Sidjin and Viv turned the place into a death trap for anyone foolish enough to want to test a duo of known mass killers. Everyone prepared their own quarters and made their own bed, even Viv. After that, it was time to move.
+
+Viv had two days before the summit’s official start. It was a well-known fact that most diplomatic decisions were made behind closed doors long before a conference started. She first requested a meeting with Sangor, then another with the King of Baran though he hadn’t arrived yet. Two letters from a minor northern city came soon requesting her presence.
+
+“It probably relates to portals,” Viv mused.
+
+The northern cities were smelling a profit now that the east-to-west network was operational across Enoria and Baran. Viv’s witch gates were also not subject to Sidjin’s exclusivity contract. Viv was half-expecting to be pressured on the matter since Sidjin was her paramour. It didn’t take a genius to figure out that if you restrict technology and the inventor’s partner ‘fortunately’ comes across the same invention, a breach of contract was likely. The only thing holding them back was that no mage could possibly look at the two constructs and think they were in any way related. Hell, they were not even from the same branch of magic.
+
+That wouldn’t stop the most determined people. She was still waiting for the other shoe to drop.
+
+“We will accept both invitations, possibly have lunch in their embassies and then meet Sangor at night if he agrees. He’d better.”
+
+//That will be a tight schedule.
+
+“Perhaps not. I tend to be decisive.”
+
+//That is true, Your Majesty.
+
+//Should I come as well?
+
+“Why would I deprive myself of my bodyguard and walking database?”
+
+//I could take offense to such terms.
+
+Viv finished her preparations. One of the keys of negotiations was to prioritize what you were looking to get out of them, but said priorities varied from interlocutor to interlocutor. One could not expect cash from Glastia, or horses from Helock. Many cities had their strengths and weaknesses. The first visit would be to Luten, the larger of the two at the edge of the Kark steppes. It was the richest and most powerful city in the area, but they’d been on the decline following a slump in their expansion westward. It was also the home of the Manipeleso Bank and Exchange’s main branch, which meant Viv couldn’t ignore them, though she had a strong opinion about what was functionally the center of the Pure League. The second city, Zazas, was more of a mystery. Sitting in a prime harbor location of the northern sea, they were known for fishery, oil production, and not much else economically. The Golden Order made its home there, though that didn’t mean much since the female-only warriors of Enttiku remained fiercely independent.
+
+They had pretty good javelin throwers.
+
+That was it.
+
+“Not the best prizes.”
+
+“They came to us, Your Majesty,” one of her aides said. “It makes a massive difference.”
+
+“We have confirmed the presence of observers in the street. It will be known that two cities contacted you immediately,” another said. “Your legitimacy is only improved by their attention.”
+
+“Have two runners send positive replies while I get changed.”
+
+Clothes were almost as important as arguments. First impressions were always hard to dispel and what Viv wore would send a signal, telling the world and its many skilled individuals what message she intended to convey. Her visit dress was long and cut in the fashion of Old Harrak which made it somewhere between a toga and the sort of pauldrons-equipped cloth armor common in fantasy. For colors, she had picked the same black and white as her flag, the same coloration used in the uniforms of the revived Harrakan military. The entire outfit was tastefully sober, though quality bled through in the careful, expert embroidery visible only from up close. A silver circlet inlaid with a gem completed the appearance of a warrior queen, and her anchors would remind anyone of her favorite weapon. It was not a road-worthy outfit but instead a regal one; clothing meant to pay tribute to appearances. It belonged to a settled sovereign as confident in her might as she was in her craftsmen, and most importantly, it came with pockets.
+
+Viv liked it a lot.
+
+She walked out with Sidjin and Solfis in tow. The knights opened the way, led by a grim Rollo while a much grimmer Ban closed the march, aggressively glaring at anyone who dared even look at him. The Luten embassy stood on the same street as Viv’s own as another part of the Small Court, so it was only a matter of minutes to reach their gate on foot. Viv was received without delay in a cool patio with an inner fountain. Tea and biscuits awaited her delegation. The ambassador was an august man with a long dark beard matched with a tiny old woman with an extremely elaborate hairdo. Meanwhile, a powerfully-built man stood at a distance, arms crossed. He was one of the rare people she met to have dreadlocks. Viv remembered she had seen his like in a Manipeleso bank branch a long while back. The guard was a Dark Blade; one of the northern cities’ trained killers. She supposed him being visible was a mark of respect.
+
+Also she’d brought Solfis so she couldn’t complain.
+
+Ambassador Feliserendi introduced himself and his companion, who happened to be his aunt, then the two groups made small talk for a few minutes. Feliserendi was a warm and engaging man with a lot of experience and plenty of exciting stories about his career as a diplomat. He was on his sixth assassination attempt which he wore as a badge of pride, though if Viv understood things correctly, he only survived the latest one because his would-be killer forgot venomous snakes actually needed to breathe air for extended periods of time. It struck her as disappointingly amateurish. After a while and a rather unsubtle exaltation of Luten’s many, many virtues, they got to the meat of the meeting just as Viv was getting to the meat platter.
+
+“We would be interested in portals as part of our efforts to promote the spread and glory of mankind. Since times immemorial, Luten had stood at the forefront of the war for civilization. Our soldiers delve into the steppes just as they fight on the Glastian walls. There is no holier task than this.”
+
+Viv didn’t react, which gave her a perfect view of the quiet aunt of the ambassador giving him a discreet kick with her foot under the table. The shift of her dress betrayed it. She was the more observant of the two.
+
+But the ambassador paid her no heed as he freed Viv of her duty to balance Harrakan interests with her own preferences.
+
+“I also wish to extend my government’s concerns about some of the species you have harbored in your nation. We, of course, understand that in times of need and urgency, compromises must be made in order to guarantee survival. We understand it better than most! What we do not understand is that you have integrated those species within the functioning of your… New Harrak. Surely, humans can mine iron as surely as Yries can?”
+
+He chuckled. He was alone. Sidjin put his cup in the saucer with a light click, a sign Viv could interpret very well but that the ambassador remained oblivious to. As far as she could tell, his aunt had given up while the fire of conviction alone fuelled the ambassador’s words.
+
+“You cannot trust the lesser species to express loyalty. At the first sign of difficulty they will desert you, and how could they not? We are simply not alike. I can hardly even blame them because they just obey their nature. We live in a world of spheres of influences, of cultures. Our northern ways focus on trade, individuality, and exploration among other virtues while the culture you are trying to revive is one of order, of strength and obedience. You can never truly retake the place the Old Empire held on the continent unless you embrace those values and make them your own. All those bleeding heart followers of Neriad who promote equality are nothing but hypocrites who pretend to accept all sets of values while wilfully expressing distaste for the Pure League. They are bound to fail. Don’t you think?”
+
+“No, I do not,” Viv interrupted.
+
+She had the feeling this would go on otherwise.
+
+“In a battle of ideas, only the one whose believers thrive in the end is proven correct. So far, my model has triumphed over internal turmoils and hostile threats so… we will see if it will hold. So far it has. As for the hypocrisy to denounce, a philosopher from my world named Popper already solved that paradox long ago. In order to remain tolerant, a society must retain the right not to tolerate intolerance. This is not hypocrisy, it’s a prerequisite.”
+
+“I find that… naive,” the ambassador replied with clear annoyance.
+
+By then, his aunt just sat there with her eyes closed in apparent meditation. Viv thought it would take at least that not to strangle her nephew if she were in her shoes.
+
+“You wouldn’t be the first,” Viv allowed. “But when that naivete comes at the tip of Harrakan steel, you will find that it suddenly acquires a certain… momentum.”
+
+“At the very least, we request that you stop delivering iron to the Kark clans. One of your lieutenants has disrupted our forces and brought gear to rebels who attack our citizens on their farms.”
+
+He didn’t know Viv was helping Marruk with guerilla warfare tactics. Oh, that would sting.
+
+“I fear those are private citizens exporting legally accepted quantities of iron.”
+
+“Be careful,” the ambassador replied. “We may consider your… abandonment of humanity’s interest as an act of war.”
+
+The ambassador shifted towards the waiting Dark Blade in a way that hinted that punishment would not come as an unlikely expeditionary force but as a knife in the dark. From the way all three Lutenese found sudden interest in Solfis, the golem had moved as well. Just enough to remind them he was the industrial harvester to their daggers.
+
+“As you prefer,” Viv replied with a smile. “Our young hadals need some stimulation. And I believe this concludes our discussion, now that our respective positions have been made clear. I bid you good day.”
+
+Viv made to leave and nobody stopped her. It was only when they’d returned to the street and her guards had gathered around her like worker bees around their queen that she turned to Sidjin, who still looked a little sour.
+
+“You ok there darling?”
+
+“Pay me no mind. His words only remind me of the justification I was offered for the near extinction of the merl. I understand that it would have been rude to refuse his invitation but in the future, I would prefer it if we simply did not interact with the Pure League. I cannot make demands of you, of course. I am merely stating that the course you follow and the Pure League’s values are fundamentally incompatible, and that by entertaining their requests, you do not show respect to the countless people they have hurt. Including Marruk.”
+
+Viv considered his words. Maybe it was like talking to a mad dictator as a leader of a nation whose people had suffered at his hand. Was it right? Or was it just being realistic about what an international community was? She didn’t know. It was… a complicated issue. At least, now it was over with and she and the Pure League assholes could return to ignoring each other. In fact, she would do one better.
+
+No portals for the cunts.
+
+That would show them.
+
+//Will we visit the Zazas embassy right away?
+
+“I think everyone here needs a small break.”
+
+It wasn’t entirely true. High mentals stats meant that she and Sidjin could spend the day in animated negotiations and still be fine, but the fallen prince was shaking very lightly. She couldn’t forget what he had been through. His resilience meant he could function but there were buried wounds that only time would heal. Stats could only carry him so far. In a way, it was a miracle he was even well.
+
+They had a walk in a nearby park under the cautious gaze of employees on break. Viv bought fresh fruit crepes from a rather intimidated seller, which the couple ate near the fountain. There were fishes in there!
+
+When Sidjin felt fine enough, he squeezed Viv’s hand. The two didn’t speak on their way to the Zazas embassy. There was no need.
+
+While Luten had felt lived in, the Zazas embassy was clearly borrowed and also clearly very recently moved in. Servants hastily swept the ground of fallen leaves while others attached pennants or moved furniture even as Viv was led through the various rooms by an older northern woman with a strong no-nonsense aura.
+
+“Please forgive the mess, we’ve only just arrived. Will you be having tea?”
+
+Guards patrolled the grounds. Most wore light armor with short swords and javelins resting on their backs. Some of those were enchanted in the same way the witchpacts infused theirs.
+
+“That would be lovely, yes.”
+
+“Oh we have infusions from Vizim that will enchant your taste buds. Not literally, of course, we wouldn’t want that. Came with a shipment for the Golden Order’s paladin. Ah, here we are, dear. Go in and I will get you your drinks in a minute.”
+
+Viv ignored the fact the butler had just called an abyssal-eyed elemental archmage of destruction ‘dear’ and just accepted in her heart that there were some people she would never impress, just like there were people who would pet giant psychic space squids if only the squids would let them. The receiving room was by far the coziest place in the small palace. Carpets and lush pillows gave it a cluttered yet welcoming aura while the sun bathed the place from a skylight. The most curious effect came from an enchanted lantern that filled the air with a fresh iodized scent, giving Viv the feeling she could take ten steps out and end up on a beach. A couple waited for her expectantly, without guard. Solfis took a look at the room then stayed at the door unprompted which Viv took as a good sign. She studied them as she and Sidjin sat.
+
+They were middle-aged northerners in elaborate if humble clothes. The man wore a short beard well, a white streak showing where a scar crossed his left cheek. The woman was heavyset with the muscles of a gardener, or at least someone who was active. They both seemed nervous.
+
+“Thank you for coming, Empress Viviane of Harrak. I am Mal, the Headsman of Zazas. This is Shan, my wife. Together, we rule the city by mandate of the elders. I suppose you have an inkling as to why we wanted to meet?”
+
+“Thank you for having me and I assume it concerns portals?”
+
+“Yes, absolutely. We believe portals will revolutionize the way our continent does business. We would like to start by asking if you would be inclined to expand to the northern states?”
+
+“Well, yes, mostly, but not all of them. I am persona non grata in Helock. I also have Kark guests as well as yries and hadal citizens so the Pure League is out.  Zazas is not an issue.”
+
+“That is good,” Mal continued. “We have prepared terms if you would agree to operate on our land. Shan?”
+
+“Here they are,” the woman said, taking a bound contract from under the table.
+
+The butler came in with tea while Viv was reading. The lady had been right. Her tea was fantastic. It also allowed Viv to hide her surprise. The Zazas couple’s terms were almost indecent. She would get seventy percent of the tariff as pure untaxed cash deposited in a Manipeleso Bank account along with a standing office for auditors to make sure everything remained kosher, a complement of guards, the possibility to restrict certain categories of goods… Harrakans were even exempt from taxes which was a condition no one ever accepted. Zazas wouldn’t even forbid the passage of Harrakan troops, provided they were notified of the final destination in advance.
+
+“Those are very generous terms,” Viv finally said after Sidjin was done reading as well. “Let me be blunt. What’s the catch?”
+
+“We would agree to those terms against an exclusivity access to all of the northern territories from Luten to Helock.”
+
+Viv considered the offer. Portals were going to be the next revolution. At the same time, the most lucrative trade happened between the northern territories and overseas lands, especially Vizim. If Zazas became the central hub of all that trade… she had to make sure.
+
+“You want all trade towards Enoria and Baran to go through you.”
+
+Shan nodded, pulling a map from under the table.
+
+“Yes. Right now, the Shal river makes transport from north to south complicated. There are no bridges to speak of because the river is either too wide or its shores too marshy, or too remote to make it feasible. Transport by boat remains an option, however it is one limited by the existence of waterways. Should we have access to the Baranese and Enorian network and build from there, we would suddenly become the center of trade… on the continent,” Shal concluded.
+
+“And our damn harbor would finally see some ships,” Mal said.
+
+“We have rebuilt piers but Zazas is small and ships have spurned us in favor of other cities,” Mal grumbled.
+
+Shan paled a little. Viv understood the situation. Public projects cost a lot of money and this one hadn’t panned out. The headsman was in hot water. They were probably desperate.
+
+“Suddenly becoming the center of trade will attract a lot of attention, most of it hostile. Shipping guilds and other cities will definitely resent you for it,” Viv mentioned, letting the couple fill in the blanks.
+
+“The Golden Order keeps a standing garrison on our land, as it is their ancestral home. They are bound to defend us by oath,” Mal mentioned.
+
+“Will you give us a moment?” Shan asked.
+
+Viv made to leave but the couple placated her with apologies and wide gestures. They had a private corner with a sound enchantment. It took them only a minute to come to a conclusion, after which they returned while Viv was helping herself to another cup.
+
+“We understand your security concerns and we would be willing to compensate you for having a, shall we say, security detail move on while you complete the network,” Mal conceded, though he was clearly hesitating.
+
+“After that, we should quickly get enough funds to hire mercenaries. We have contacts with a few free companies. Our… own army helps with foreign conflicts, sometimes.”
+
+That was usually a sign of a lack of funds. Viv also noticed that Zazas didn’t offer any sort of advance payment, which made sense given the generous terms.
+
+“Will your elders agree to a foreign army camping on your grounds?”
+
+“If you accept our terms, they will help us build your barracks themselves,” Shan replied.
+
+“Though they will no doubt whine about it.”
+
+Sidjin nudged Viv, a sign he wanted to speak. Viv just nudged back. The fallen prince was really concerned about upstaging her even though Viv assured him her ego could take a few interruptions.
+
+“This is an extremely ambitious project for you. A military invasion is only one of the many threats posed by your neighbors. They could collectively boycott you. They could try to have you replaced by your elders to cancel the contract. They could even have you assassinated.”
+
+“They can do all of that right now,” Shan retorted. “At some point we have to take a risk. Our contract is generous because you will take that risk with us, only if it falls through, you will have wasted time while we will be dead.”
+
+“My wife is correct. We know this will be risky, but one must take risks if one wants to achieve anything of note.”
+
+Mal looked at her pointedly. He wasn’t wrong.
+
+“I have additional conditions,” Viv said, eliciting a double nod.
+
+“The trade of slaves cannot be conducted using my portals. You will enforce this rule with rigor so no ‘groups of indentured employees’ wandering around while guards make sure they don’t complain. I will be drastic.”
+
+Mal gestured for her to continue.
+
+“I will not install portals near cities that belong or support the Pure League.”
+
+“What about Helock?” Shan asked after a moment of consideration.
+
+Viv waved her concerns away.
+
+“My trouble with Helock started and ended with Elunath. What happened afterward was a consequence of that. Let’s just say someone made it personal but, in the end, I hold no real grudge towards that city. I am more than willing to let bygones be bygones for the sake of our nations. My issue with the Pure League is systemic. I am building a community of species while they want to exterminate and replace them. We cannot come to an agreement.”
+
+“What if the Pure League uses proxy companies to conduct their businesses via other cities?”
+
+“Then they lose money on tariffs, logistics, and overhead costs. Look, I am not expecting you to conduct a continental embargo, let’s be realistic. I only want them not to benefit from my network. I won’t be building one near them anyway.”
+
+“Those conditions are acceptable,” Mal said after a few quick exchanges.
+
+“You also need to be aware that I would have to build up the network towards you first.”
+
+“We understand just as we are confident the Enorian and Baranese lords will be more than happy to welcome portals on their lands.”
+
+They were right. Viv had no doubt some cautious rulers would be terrified of having a foreign artifact of their land but most would know they could not pass up such an opportunity.
+
+“Very well. I believe we have an agreement. Please add the conditions I asked for then send it to my palace.”
+
+Viv stayed for some small talk. Mal and Shan left a good impression on her but she thought they were a bit in over their heads. Only time would tell if they were fools or geniuses. At the very least they knew how to take the initiative.
+
+Considering Viv could pull out of the contract without penalty, she was confident in the terms she’d been offered. Now it was only a question of making sure things would go smoothly. Her continued presence in the northern territories wouldn’t be without risk.
+
+Maybe she could link the Kark Steppes to the portal. That would be… interesting.
+
+After leaving the Zazas embassy, Sidjin guided Viv to a restaurant that specialized in seafood, most shipped from the north in enchanted containers. It was the first time Viv had  had some since leaving Helock and she enjoyed the expertly prepared dishes with gusto. Nyil might not have the variety of ingredients Earth could afford, but magically enhanced skills more than made up for that. Sangor surprised Viv by inviting her for afternoon tea which she agreed on, then the Harrakans made their way back towards the Grand Avenue. This time, Sidjin picked a path that went through the district dedicated to Enttiku. It was a much calmer and more contemplative place filled with stone courtyards and intimate alcoves. The Death Goddess (or god but Viv preferred goddess) occupied a smaller share of the city which actually fit her. Enttiku was a humble deity, one that didn’t advertise its existence for there was no need. Death came to everyone and when it did, she would be there to accompany them.
+
+Returning to the Grand Avenue was almost a shock. From dim and quiet, the Harrakans stepped into the busy light of Mornyr’s main artery. The palaces here were not rented dwellings but ancient holds bearing the statues of heroes of the past. Flags flew on long poles while the pillars supporting various walls proudly displayed symbols and insignias. It was easy for Viv to find the Enorian palace as it remained fastuous with many forest-related symbols as the old kingdom used to be proud of its proximity to the Deadshield Woods. Although it probably had a different name back in the days. The guards gave her a princely welcome then the two security details were left aggressively glaring at each other while a couple of aides led Viv deeper into the complex.
+
+Sangor really didn’t look happy to see her again. He only had one other person with him which prompted Solfis to stay at the door once again. The golem looked smug for some reason.
+
+“Hello again, Lady Viviane. This is Archmage Arno, a councilor of the late king.”
+
+Viv was a little surprised that Sangor would trust a mage who was on the other side of the civil conflict. Armo himself looked old and pretty much like what she expected from a fantasy wizard complete with a long, white bushy beard and a somewhat wild hairstyle. The robes he wore clung to his skeletal form in an ill-fitting way. Red and brown mana swirled around him in controlled waves though he also shared a light transparent sheen to his aura that marked him as a colorless specialist. All in all, he was a powerful mage, Viv judged, and also one who had kept practicing over the years.
+
+“Nice to meet you, Archmage Arno. This is Sidjin, previously of Glastia, my advisor and paramour. How is Yrlin of the Thorns?”
+
+“At home in Losserec. We are expecting the birth any day now, and I was told in the latest message that she felt an urge to stockpile food. You can imagine I am waiting for the next letter with… a certain degree of impatience.”
+
+“Yes. I will be brief then. I would like your authorization to expand the portal network across your land, more specifically to the north.”
+
+“According to the same terms?”
+
+“Yes.”
+
+Sangor waved his hand.
+
+“You have it, though you will have to treat with each lord independently. Have the Baranese received a similar offer?”
+
+“No, but they will.”
+
+“I understand.”
+
+“There was another matter but…”
+
+Viv pointedly looked at the archmage.
+
+Sangor leaned forward, resting his head in his hands. He sighed heavily. Viv could almost taste the intensity of his stress.
+
+“You can trust Arno. He was my son Gil’s tutor once upon a time, before I sent him here for his own safety. Neriad’s balls, I should have punched myself in the cock that day.”
+
+“Now now, no need for self-flagellation,” Arno said.
+
+He had a warm voice, a little tired. His gaze fixed Viv without passion.
+
+“I toured my nation back in those days in the vain hope of promoting a peaceful reunification. My attempt was… not successful.”
+
+“He was sidelined and almost banished for treason,” Sangor added.
+
+“Yes. In any case, the safety of Prince Gil is now my priority. We cannot possibly have our heir used as a hostage for much longer if we want to retain our sovereignty. As my liege confirmed during your last VERY careless meeting—”
+
+“It was necessary, Arno.”
+
+“— he is willing to sign a defensive alliance with you should you recover the heir.”
+
+“And distance yourself from the church, I suppose?”
+
+“Officially no,” Armo replied.
+
+“Unofficially I’m punching Bishop Reno in the groin the next time I see him.”
+
+VIv thought Sangor must be in a terrible mood or he wouldn’t be so fixated on genitals.
+
+“This is already agreeable, provided, of course, that you help me in the liberation attempt.”
+
+The king glared though Viv had been glared at by a half a millennium old genocidal war machine and remained unfazed as a result.
+
+“Surely you do not expect me to violate the truce of this place while you stay cozy in your palace awaiting good news, do you not?”
+
+“If you fail, the temple will not believe in my innocence.”
+
+“Which doesn’t mean it will overtly act against you. I will not be bearing all the risk. You will be part of the rescue from the beginning to the end, if only because your son Gil has no reason to trust me.”
+
+“You would attempt the rescue yourself?”
+
+“Do you know of many ward-defusing shadow magic specialists around?”
+
+“No, I just, your path is not that of the infiltrator.”
+
+“Indeed not.”
+
+“It’s mine,” a raspy voice said.
+
+Sangor jumped. Arno activated a shield, briefly, though he lowered it soon enough. Viv merely smirked. Where there was nothing, now a bald man with slitted yellow eyes stood wearing black armor.
+
+“This is Irao, first of the Hadals.”
+
+“I… have never heard of him.”
+
+“That’s how good he is.”
+
+The two Enorians grudgingly conceded the point.
+
+“He will be in charge of the infiltration plan. As for the extraction proper and the diversion, I have an idea.”
+
+“Do tell.”
+
+“How do you feel about a masquerade?”
+
+Sangor listened while Viv exposed her plan, Sidjin adding details here and there. Arno suggested spells and methods that would help various steps and Viv had to admit he was committed and thorough. Eventually, the meeting broke off since everyone had some preparations to make and methods to test before they could reconvene. Viv left the place satisfied, however to her surprise, Solfis asked for a short conversation with the king.
+
+“Just a conversation?”
+
+//Just that.
+
+//I know better than to attack a foreign sovereign in the context of a diplomatic mission.
+
+“Oh, very well then.”
+
+***
+
+Sangor was surprised to see the golem slink in. Arno was just finishing a glass of brandy, and he almost choked on it when the deadly construct closed the door behind him.
+
+Sangor felt like a trapped mouse.
+
+//You are dealing with my dear little heiress.
+
+//She is a treat, is she not?
+
+//Guided by loyalty and a desire to act.
+
+//To improve her life and that of others.
+
+//It is by this loyalty and kindness that I survived the extinction of Harrak and the last of my reserves.
+
+//It also means, tragically, that she can be a little naive at times.
+
+//I do not share that weakness.
+
+//I do, however, share her sense of loyalty.
+
+//My loyalty is born from desire as much as it is hard-coded in my very soul.
+
+//Even the gods themselves could not break it.
+
+//I am not kind.
+
+//I see several ways you could benefit from her fall.
+
+//Not least by denouncing her in advance.
+
+//It could be very profitable for you under certain circumstances.
+
+//Or so you might think.
+
+//I am here to divest you of those illusions.
+
+//If it so happens that my mistress loses her life because you found her demise convenient.
+
+//I want you to remember that I have no limits except my energy reserves.
+
+//And those, I have ways to replenish.
+
+//I never tire.
+
+//I never doubt.
+
+//I never hesitate.
+
+//I do not know impatience.
+
+//I do, however, know how to kill kings.
+
+//I have done that for three centuries.
+
+//If she falls.
+
+//I will find a path to you.
+
+//And I will kill you.
+
+//And when I am done, I shall look back at the mountain of corpses in my wake.
+
+//And the only thing I will feel.
+
+//Will be the satisfaction of a job well done.
+
+“I have been threatened by worse, machine,” Sangor replied, surprised by the sudden turn of events. It was now clear the golem was not just fully independent. It also had an agenda of its own.
+
+The royal aura expanded but it failed against the unyielding rock of Solfis’ presence. The king’s eyes focused on the one who had dared to threaten him and once the inspection skill returned its payload, he faltered.
+
+Slowly, the golem bent forward until their heads were level. Sangor stared into the baleful abyss of Solfis’ yellow glare and inside he found nothing but shackled hatred begging for release.
+
+//NO.
+
+//YOU HAVE NOT.

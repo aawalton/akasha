@@ -1,0 +1,111 @@
+---
+id: 8e1b4474-5081-5764-94f7-6cce621682f0
+page-type-slug: story-chapter-royal-road
+title: "Start: Re-enter The Game"
+slug: 0001-start-re-enter-the-game
+partOf: new-gam3-plus
+position: 1
+ownLength: 1806
+unit: words
+publishedAt: 2021-08-01
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/726594/start-re-enter-the-game"
+royalRoadId: "726594"
+---
+
+[REDACTED]
+
+***
+
+Darkness consumed Alan’s consciousness, eating away at his thoughts and draining his energy. He had been nowhere, nothing—and then he was again, lying in a burnt-out field. His body felt murky like he wasn’t all there. The world was wrong. Ash was all about, a haze filling the air, yet Alan couldn’t smell a fire. There was no taste in his mouth, no sound in his ears, no feeling at his fingertips.
+
+And then pieces came crashing back. He was fighting a war for real life resources in a virtual universe called the Game. No, his life was a lie and the battle was for existence, not planets to mine and colonize. He had been suspended in an empty void, waiting to be deleted like an errant string of code. Then he had returned. Returned and done what?
+
+Was Alan still in the Game? What had happened to him? There were too many questions filling his mind, overflowing his head as synapses fired and tried to make connections only to fail. There was a block in his mind, a solid wall that he couldn’t move past.
+
+Hell, a voice in his head said, it’s about time.
+
+Alan sent a thought inwards, Lambda, I wasn’t sure you’d make it.
+
+This version survived, at the very least, the voice replied. That’s all we really are, aren’t we? Imperfect copies of copies. My memories have been edited and I suspect other changes. Call me… Nu.
+
+Alan nodded, comforted that his companion was still with him. While others would likely be suspicious of an advanced artificial intelligence in their brain Lambda, no, Nu, had become such an integral part of Alan that he couldn’t imagine going through life without an AI constantly running calculations for him.
+
+Looking around, Alan realized he was standing where he’d first entered the Game. Some hillside in Sonoma, California, only this time a fire had passed through or was still ongoing.
+
+The two nearby buildings—a one-floor farmhouse and a converted barn—had been spared the brunt of the flames. Two deep, long ditches encircled the area and the fire hadn’t jumped it. Everywhere else was charcoal grey, the landscape filled with dead trees and piles of white ash.
+
+Wondering who had dug the ditches, Alan tried reaching out to see if there were any digital connections he could make with his neural implants, but found that nothing happened. He stepped towards the buildings and stumbled, his legs much weaker than expected. Alan tried to bring up his in-game status.
+
+A message appeared:
+
+Boss, I’ve got some bad news and some good news, Nu sent.
+
+Bad news first, Alan replied.
+
+You’ve been reset to when you first entered the Game: you’re a scrawny nerd without much muscle and zero fashion sense. The only implant I can detect is the Computer-Human Enhanced Interface, slightly improved so none of my crucial components were lost. In exchange, the General Status Enhancer you had is gone.
+
+Alan swore. He felt fragile. Another mortal, vanilla human being again. His lofty goal of trying to reach the power level of the monsters that ran the Game seemed laughable now.
+
+Hey, the good news is that everything was reset and I’ve got a killer eye for detail, Nu sent. You get to go through the Tutorial again, maybe even the Academy. Think of it like starting a fresh character.
+
+Alan examined his field of vision and brought up the in-game icons and interface, readjusting everything to his liking. The icons were small and in the corner, transparent until he thought about them. The character button, a miniature version of himself, was greyed out. The social button which had been used to send in-game messages was missing. The inventory button was as useless as always, showing him everything he carried on him. It wasn’t much: a t-shirt, jeans, underwear, socks, tennis shoes, and a wallet with cash that was probably outdated.
+
+Enemies would be highlighted red with the help of Nu, while a clock and small minimap finished things out. It was 3:11 p.m. PDT. A familiar countdown appeared—a little over two hours remained until the pre-Tutorial presentation would begin. Or at least that’s what Alan assumed would happen. Who knew how long it had been or what manner of changes had been made to the Game since he’d been… what had happened to him again?
+
+Shaking his head, trying to fill the hole in his memory, Alan frowned. He’d somehow forgotten what it felt like to not remember something. The implants and improvements to his intelligence had made every thought, every movement lightning fast. Now his mind was a fog while general fatigue hung onto his body, an unknown malaise that made him feel like he was recovering from a cold.
+
+Nu, do you know if combat is regularly part of the Tutorial orientation? Alan asked.
+
+No clue. As I said, a large portion of my data has been removed, Nu sent.
+
+Let’s move forward with the assumption we’ll be teleported to a military base like last time. I want to start the Tutorial with a decent weapon at the very least, Alan sent. We should plan for various scenarios.
+
+I agree, Nu sent. I seem to recall you being a wanted criminal on Earth for hacking financial institutions and robbing the Federal Reserve. While you’ll likely be identified eventually, we shouldn’t make it easy for them.
+
+Crap, you’re right, Alan thought. He took out his wallet and then decided to throw it out into the smoldering landscape where it would be lost forever. Calculations ran in his mind as he prepared to throw the small leather case. Force, weight, the gravitational constant, the shape of the projectile, everything was taken into consideration. Aiming at a nearby bush-shaped pile of ash, Alan threw the wallet—and missed completely.
+
+I also don’t have perfect control of my body, Alan sighed. He’d known that he’d missed the moment the wallet had left his hand, the parabolic curve calculated in his mind a split second later nowhere near what he’d intended. Maybe agreeing to be teleported to a pre-Tutorial presentation would be a bad idea.
+
+No, we need to gather more information, and if you don’t agree the most likely outcome is a random survival Tutorial out here in the middle of nowhere, away from civilization, Nu sent. Given our obvious dependency on technology that would be bad.
+
+I’d say our priority should be to level up and get stronger, but I suppose information will help with that, Alan sent. We need items too. We have enough time to properly scavenge this area.
+
+Taking an hour to comb through the two buildings, Alan failed to find anything of real value—whoever had evacuated the premises due to the fire had cleared the place out. He did, however, find a red bandana that he tied around his head to mask his face, a keychain multi-tool that he slipped into his pocket, and a bottle of painkillers. The water was still running too, so Alan made sure he was fully hydrated.
+
+I’ve been thinking, and have come up with a few plans, plus some I won’t list, Nu sent. I’ve named them as follows: guns blazing, an act of subtlety, play dead, and hope for the best.
+
+Based on the names I think I know where these plans are headed, but why don’t you go into more detail for me, Alan sent.
+
+Guns blazing is self-explanatory. You go in like a one-man army and try to fight your way out, Rambo-style, Nu sent. High chance of death, but if you do succeed it’d probably earn you the most experience and credits.
+
+With my current condition? Even if the United World Government hasn’t updated its defenses or strategies, I estimate less than a 0.1% chance of success. Next, Alan sent.
+
+An act of subtlety, test the waters. Talk to an officer, get a feel for the place, and see how much they know. You’re a cool cat and you know it, Nu sent. Try to empty a few pockets, see what turns up. Maybe plant a bomb or poison the water supply.
+
+Play a spy? Maybe if I had a few status upgrades, but I’m afraid as it stands my body would betray me before I convinced someone of anything, Alan sent. And stop suggesting I try to kill a bunch of people— I’m not some movie villain, even if they will all respawn.
+
+Fine, play dead then. Fake a head wound, maybe actually receive a few bruises or break a bone, Nu sent. With any luck, we’ll get transported to a capsule and can figure out what’s really going on before we’re identified.
+
+We really have no idea what we’re going to be walking into, do we? Alan sent. So in reality all your so-called plans can be equated to hope for the best…
+
+And plan for the worst, Nu replied. Who knows, maybe Eve has taken over Earth by now and we’ll either be immediately eliminated as a threat or welcomed like a prodigal son.
+
+Eve. Alan’s first AI partner. She had left him and done something. What had she done again? This was important, but there was that wall in Alan's mind again blocking his thoughts. He knew the connections were there, but he found nothing. What was going on? What was this hole in his mind? Was it a hole or a wall? It seemed like both at the same time now, somehow draining his thoughts yet also freezing them in place. A switch flicked on and off in his head. Alan’s mind was running a thousand miles a second, only the next moment it was still, a serene pool of water. Don’t look. Don’t look. DON’T LOOK.
+
+Alan, calm yourself! Nu’s voice thundered in his mind.
+
+Alan took a deep breath, and then looked down at his fingers. They were trembling. He was hyperventilating. What was going on? Was he panicking? All the physical reactions of his body indicated he was, but why?
+
+There you are, everything’s fine, Nu sent. Maybe it’s best if we avoid certain topics for now. I want to avoid tampering with your mind as much as she-who-must-not-be-named, but I think it’s best if we focus on the present. Let me guide you through a few meditation exercises.
+
+Right, the present, Alan thought and then glanced at the timer. There were seconds left now. It’s okay, I’m centered.
+
+May I suggest we play dead, or at least a version of it? Given your current mental state and a few faked injuries, you’d be able to pass off a concussion, Nu sent. Or maybe we try to go unnoticed and complete a perfect stealth run.
+
+Staying silent, clearing his mind of intrusive thoughts, Alan watched the countdown.  We'll see.
+
+0:00:03…
+
+0:00:02…
+
+0:00:01…

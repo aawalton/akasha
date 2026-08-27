@@ -1,0 +1,443 @@
+---
+id: 538606f2-0201-5a7b-8722-f9be54a4b82f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 196: Harrakan Viv’s Instant Portable Rearmament Program™"
+slug: 0120-chapter-196-harrakan-viv-s-instant-portable-rearmament-progr
+partOf: the-calamitous-bob-stubbed
+position: 120
+ownLength: 5551
+unit: words
+ownProgress: 5551
+publishedAt: 2025-03-08
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2113781/chapter-196-harrakan-vivs-instant-portable-rearmament"
+royalRoadId: "2113781"
+markedReadAt: "2026-06-29T21:18:55.989Z"
+---
+
+Once again, the Pure League called for salvation and once again, the Dark Blades answered. They left their fortress, their families. They fled the light of the day to gather in secret spots so that they may snatch victory from the jaws of disaster. Those of them that were left, anyway.
+
+It was a thankless task. Deeds carried out in the dark so that others may reap the rewards, bask in the glory, as always. The Dark Blades would fight and bleed against impossible odds before disappearing back into the whispers of late night taverns.
+
+To slay the Empress of Harrak, five cadres had gathered. Almost fifty Dark Blades. It was all that could be spared. They had met near the Frontier Citadel on their way to the Steppes. Quietly, they had traveled through the tall grass in thin lines, leaving the world undisturbed behind them. No one had seen them. Even the predators that dwelled there could not catch the elusive assassins. The Dark Blades were the shadows under Luten’s extended fist, and their reach was long indeed. The Empress would be found. The Empress would be killed. To make sure they fulfilled their role, the cadres had brought a tool of great power the likes of which even Enttiku’s servants envied. It was the Dark Blade, their namesake, and it would be wielded by Shon.
+
+It was a great honor. All the blade’s wielders had their name inscribed on the obsidian stone at the heart of the oldest fortress where the elders gathered. Shon had been chosen as the new generation’s most promising student despite her humble origins. Even now, her fingers ached to touch the hilt of the revered weapon. It hung at her side like an itch that craved to be satisfied, always calling, and it had a weight of its own. The old masters always said one should not bring a new knife to war, but one should practice a hundred times first. Not so for Shon. She had never even drawn it. She wanted to so badly.  Surely, she would have the chance. It was said the Empress was a dangerous caster with proficient defenses. The Harrakan beast would not fall that easily, and Shon would have her chance.
+
+Finding the remnants of the Red Tribe proved surprisingly tedious. Not difficult, as the kark made no efforts to hide, but longer than usual because they would not come out to meet the pacifying expedition. Everyone knew the kark were simple creatures with hot blood who could not stop to think about, well, anything. The fact they waited could only mean that the empress had a way to control them.
+
+“Iron, I bet. Those beasts would do anything for iron. Even when we were hanging the brutes I could see their warriors look at our shiniest armor. They’re like those shine-obsessed birds Baranese countesses keep as pets,” Jal whispered near the blinded campfire.
+
+It was a foolish thing, to give iron to the kark, Shon thought. They would just take it and then turn on you once the iron ran out.
+
+“It’ll all end once you slide that thing between her ribs, right?” Jal added, his eyes hungrily searching her flank.
+
+Shon didn’t react. Jal and her had shared a bed before, but since she had been chosen to carry the blade, he had grown bitter. She could not let that affect her on her first mission. True wielders were beyond petty emotions. She would prove to everyone the choice of the Elders was the correct one.
+
+***
+
+Two weeks into the trip and as supplies dwindled, the cadres came upon a kark patrol. Shon got to see what her seniors were capable of once fully unleashed. A dozen kark fell in seconds, throats severed before they could cry in alarm. It was a grisly spectacle but it also made her feel better about their chances.
+
+“Don’t let that get to your head,” her mentor whispered as he cleaned the blood off. “Encampments are more protected. Their hunters are to be feared.”
+
+Shon nodded with confidence. She wasn’t stupid. If the kark were harmless, then there wouldn’t be so many empty bunks back at their secret fortress. The kark were not very smart but they were cunning, and they liked traps. She would not lower her guard.
+
+“No food,” her mentor signed to the group after a brief search.
+
+Shon knew what that meant. The main camp must be close if their warriors didn’t bother keeping food reserves on them. Finally, after days of tracking, they had it. No more following old tracks through dusty trails and the wind howling overhead. It was time for her to make history. The cadre leaders signaled that they would spread out to engage now, just in case, and prepare to infiltrate the encampment. At first, the only thing Shon felt was relief. Finally, things were happening. This was soon replaced by tension. Fear escalated when the group followed the tracks north, then west, with the wind at their back. It was an apprehension that went beyond mere stress, since Shon wasn’t green either. Fear pressed on her shoulders and the back of her neck like a waterlogged cape. She knew others must have felt it too from the ways their heads swiveled like mad wind vanes. Cadres covered each other. This was the way. Shon just trusted the others as she focused on the path in front of her, as was her duty.
+
+The cadres entered deeper grasses then. The camp had to be closeby. Shon could see a faint brilliance in the distance, though the wind meant they wouldn’t smell the pakar until they were atop of them. The terror she felt only increased with every step she made. Gritting her teeth, she fought it off. It was nothing but nerves, a weakness that true Dark Blades hammered out over years of service. She would triumph over it as she had triumphed over the others obstacles on her path. Emotions were fleeting things. They could not rule her life.
+
+A few of the others gasped when the fear reached a peak. It was at this precise moment Shon finally understood that something was very wrong.
+
+It could not be mere nerves if everyone else felt it as well. The anguish rose to a crescendo of terror when the intent behind it revealed itself. It was a cold malice of draconic patience, as uncaring as the void, and patient, not in a way a wise woman is patient but in the way a volcano is. That merciless intent was coming from above.
+
+Left and right, muted sounds of battle erupted at the same time. They were under attack, assaulted by an enemy entire cadres hadn’t seen coming, and yet Shon didn’t care. That malice, it came from above them.
+
+Black mana saturated the air, killing every bit of vegetation for hundreds of paces. Green stalks withered in an instant, falling to dust until the assassins stood on a field of death, exposed like scars on shaven skin. Still, Shon could not move. Above. Look above.
+
+Black tendrils and two emerald-colored lights.
+
+A dozen projectiles flew up, including Shon’s own dart, but they hissed against a sphere of nothingness. For a weightless moment, everyone Shon knew was still alive, then the sphere was among them.
+
+It exploded. Jal took a fragment of the void in his shoulders and it just… disappeared. The thing was among them, killing them. A flailing mass of hair-thin whips tore through the air and two members of her cadre while she managed to get out of the way. Another thrown dart disappeared against a humanoid shape made of liquid darkness that blinked away an instant later. Shon knew this was her target because nothing else she’d ever seen could even come close, but when she tried to follow, her skill stuttered.
+
+Shon reappeared a step away from where she intended to be. In the distance, cadre masters fought against swirling figures and lost. It was impossible and yet, they lost. A brief glance revealed why.
+
+[Hadal Firstborn]
+
+She refused to believe it. They were supposed to have died off before the Pure League was formed. She had known this all her life, yet here they were, flashes in the dark. And she couldn’t help. Her target was here. Shon’s first assault turned into a mad backward dash when the supposedly unmoving witch was replaced by a hurricane of spells clawing, tearing, piercing… it never stopped… and then the spell storm teleported again. Shon struggled to keep up, her skill refusing to obey. The sigils of black mana shook between her practiced hands. Mana was pulled as if by a vortex towards that… thing, and it didn’t stop killing. It was like trying to catch up with a natural disaster. There was no exposed flesh. There was only annihilation mana. Shon used the meaning of shadow for a brief moment of respite and she was not the only one. The surviving members of her cadre rushed at her back… what she presumed to be the back. The Dark Blades’ shadow spell melted on top of them.
+
+One of the blades clanged against an actual shield. Shon spotted a flash of patchwork metal before her mentor was swallowed by magic. She existed. She was there. They just had to…
+
+The master who should have struck unimpeded was torn in half. All of Shon’s skills broke at the same time. There were eyes under the layers of protective mana.
+
+“You are trying to kill a black elemental…” the voice began mockingly.
+
+It moved again. It killed again. Hiding didn’t work. Shon looked for an opening but there was none. She was already out of throwing darts.
+
+“...with black mana.”
+
+The voice felt so distant and uncaring just as Shon’s life was falling apart. Mentor was supposed to tell her to use the Dark Blade, but he was dead. She didn’t have the time. Everyone was dead or dying. She had to do it. She should have done it before, and curse looking for openings.
+
+Her hand found the hilt as if called there. She cleared the blade with a cry of agony.
+
+It hurt so much. The power refused her at first, then it dug into her soul with ravenous fury. The pain scoured her mind and soul. She pushed through it with a last effort of will.
+
+Shon blinked. She was charging forward, blade in hand. Suddenly, she wasn’t scared anymore. Suddenly, she knew exactly what she was doing. The blade guided her body as she strained and ran under and over spells that could cut an armored knight to ribbons. She knew with absolute certainty she would land the blow.
+
+She was a vessel for the Dark Blade. Someone was going to die. Even as the hail of spells tore through what was left of her allies she knew the terrible weapon would find flesh. It was already written. It was fate. The blade hissed through the air.
+
+A woman interposed herself between the elemental hell and the coming doom. Shon’s eyes widened. The woman had gray wispy hair and sad yellow eyes. What Shon recognized there was altruism. Sacrifice. The notion sickened her.
+
+The Dark Blade finished its course in the air when something stopped Shon in her tracks. It was a strange blade, long like a spear, and it extended from the woman’s back.
+
+Fate broke. What was written was forgotten. The blade hovered, its edge unsated.
+
+“Ah,” a voice said. “I knew all this practice with Solar would eventually pay off.”
+
+The Dark Blade dropped from Shon’s fingers. The creature’s wing had extended, pinning the young assassin back like a thrusting spear. Shon had been stabbed by a wing? It wasn’t really even there!
+
+Nobody could have so much damn luck.
+
+It was over. She was done.
+
+The battle was already finished.
+
+The monster turned into a woman with strange hair and a pale skin tone, her eyes those she’d seen before. Those were the only truly inhuman features if one didn’t count the wings. Around her, accursed hadals gathered in bursts of shadowy magic.
+
+The woman gingerly picked the Dark Blade’s hilt between two fingers. She frowned and said something in a lilting tongue Shon had never heard before.
+
+“Nasty thing,” she continued in accented northerner. “I’m keeping it.”
+
+“No…”
+
+“You are in luck. I need someone to deliver a message. Tell them what happened here.”
+
+Shon froze. What was going on? Was she going to live after all? When everyone else had died? Just like that?
+
+Suddenly, she was faced with two emerald rings and a fresh layer of terror.
+
+“This is the part where you run.”
+
+And so, she did.
+
+***
+
+“That is a cruel thing to do to a child,” Viv remarked as the girl fled.
+
+“She does not know?” Irao whispered.
+
+He was the only one who talked. All the other Hadals preferred to sign, and now that the action was finally over, half of them were already spreading out. She noticed that the ladies didn’t leave alone, a sign that even older Hadals were, ah, very healthy.
+
+Irao was being polite by staying with her, which she appreciated.
+
+The fate of the girl left her a bit sad, though.
+
+“I don’t think so, not the way she was wielding the blade anyway. I suspect they gave it to one of the youths just for that reason. Accursed thing.”
+
+Viv sniffed. Some artifacts were relatively harmless, like the Mirror of the People in the iron mines or Arthur’s coin purse. Others had a will of their own. It took a master assassin to wield the Dark Blade without cost. The girl was too young, unworthy, so the weapon was killing her. Viv felt it in the way her life mana flickered with every strike. She had two months of life left provided she stopped using it at all.
+
+“The old ones should be ashamed to sacrifice one of their apprentices,” Viv spat. “Well, whatever, it’s done and I feel much better already. I see one of your men has already looted everything…”
+
+“The hunters need more pointy things.”
+
+“Should we head back then?”
+
+“There are things we must discuss, first,” Irao drawled.
+
+“Discuss? Well, of course,” Viv said.
+
+It was probably the first time in two years Irao had felt the need to discuss that she could remember.
+
+“What needs discussing?”
+
+“The Dark Blade is a powerful artifact. Its call, perhaps you can feel it. It promises power. It tells you that with it in hand, you can face any foe. It might be true but the price is too high. Even if you were from Luten, it would still gnaw at you like a trapped hound…”
+
+“I absolutely agree.”
+
+“You must cast it away. Destroy it.”
+
+“Well duh, I’m not carrying a completely cursed item around like some kind of moron just waiting for a catastrophe to happen. I have a solution that will solve this problem forever.”
+
+There was silence.
+
+“What?”
+
+“You have tempted the fates before. You have rescued us.”
+
+“You are not cursed?”
+
+“And Solfis.”
+
+“Still not cursed.”
+
+“You have gathered many things that you were warned not to collect.”
+
+“Prejudice isn’t a curse, it’s just people being irrational. Anyway, don’t worry, we’re getting rid of it as soon as we’re back at camp.”
+
+“Very well…” Irao said in a voice that meant he’d kept a very close eye on her. “I want to ask something else. Why let the girl go? Mercy?”
+
+“My dear Irao. If you want to win without a fight, you need a reputation. If you want a reputation, you must leave survivors. And what about you? Not tempted by the Dark Blade?”
+
+“No. Bad tool. I don’t need it.”
+
+“You could kill an avatar with that thing.”
+
+“Viv.”
+
+“Yeah?”
+
+“I don’t need it.”
+
+***
+
+A shadow flew south, high in the clouds where the world became a cotton labyrinth that left dew on her white wings. The shadow could not enjoy it, however.
+
+Ten gold talents.
+
+Ten gold talents.
+
+This is a good price.
+
+And for a good cause.
+
+Ten gold talents.
+
+The shadow approached the center of Enoria, near Regnos and its lone volcano. Far below, Enorian warpriests hunted scattered defiled creatures of cancerous flesh. The aberrants fought back with dumb viciousness.
+
+The shadow approached the crater from up high. Thick smoke escaped from a vent, and below glowered the reddish embers of the planet’s blood.
+
+The shadow dove.
+
+It’s ten gold talents.
+
+The shadow dropped the Dark Blade into the vent, where it slowly sank into bubbling heat.
+
+Mother wasn’t sure that the artifact could be destroyed, but if it could, then an extended magma bath was a pretty good bet.
+
+Ten gold talents.
+
+The shadow flew away on quick wings, thinking dark thoughts.
+
+I am NOT a glorified courier service.
+
+I do this for the gold.
+
+I am a smart dragon.
+
+Ten gold talents is ten gold talents.
+
+***
+
+With their preparations underway and their troops on hold, the Red Tribe had accidentally regained the strategic advantage. The Lutenese raiding party was a slow and cumbersome beast. Normally, this wouldn’t be an issue since the kark were drawn to them, but normalcy had left the way of the dinosaurs. No Dark Blades meant the horse riders were afraid to leave or risk the same fate. Hadal and kark scouts predicted which landmark the ethnic cleansers would visit next and warned people in advance. The enemy had plenty of supplies for now which Viv wasn’t eager to destroy, but they were stuck chasing an elusive tribe that knew the Steppes like the back of their hands. The kark too had enough food for the rest of the year because their population had collapsed, so there was more for everybody. Silver linings.
+
+That meant they had some time, and Marruk used this mercilessly. There was no need to make the kark better spearmen but they did have to adapt, so she focused on squad tactics and movement. Viv learned that the favored kark infantry tactic was something that reminded her of a Schiltron, a Scottish formation that was essentially a hedgehog of pike-wielding footmen. It worked decently well against cavalry and archers thanks to solid shields which explained some of the kark successes. Viv knew a mage cadre would just rip through it but apparently, the Pure League mages had held back from the decade-long campaign. She wasn’t sure why.
+
+Marruk was changing that. She had smaller groups formed by splitting youths from several clans and gathering them in ad-hoc squads she then trained to maneuver more quickly. Her own soldiers were familiar with the practice so they helped with drilling. The older warriors were not invited.
+
+“Too stubborn. Too set in their ways. The younglings have adapted, thankfully,” Marruk commented.
+
+“I thought there would be more friction,” Viv replied. “Don’t they have blood feud and generational grudges?”
+
+“Of course. That is why I have them spar all the time while the girls watch.”
+
+“What?”
+
+“They tire themselves. Also sparring with warriors of a clan is an important part of wooing the girls from that clan. Important kark mating ritual. And also it makes more girls want to join. I have already recruited twenty-seven spear maidens! It is a good harvest.”
+
+“I approve of your recruitment practice.”
+
+“I have learned from you. You provide men with glory, witchpact horny girls, and good metal. You are very crafty.”
+
+“Why thank you.”
+
+“Practice will continue for now. My people are proving very patient with me. I thought they would push more.”
+
+“They will run out of patience eventually, but don’t worry. I’ll help keep them entertained with some nice reveals.”
+
+“Reveals?”
+
+“Thanks to Viv’s portable military-industrial complex, I bring armament solutions everywhere on the continent at affordable geopolitical prices.”
+
+***
+
+“It is my pleasure to introduce…. The pakar nose armor! With the collaboration of beastmaster Surth, we have worked on a design that would protect your dear companions’ adorable appendages without too much discomfort. No snoot shall be booped without consent!” Viv announced in northerner.
+
+“Ah?” Matar screamed.
+
+“It means the Pure League won’t be able to shoot them in the face like they always do. Unfortunately, we only have enough spare metal for a dozen but that is enough for most lead animals. We can get you more in the future.”
+
+“Such a great gift! But we can never spare so much metal.”
+
+“Oh but we have the metal. I am sure that I can come up with some exciting trade opportunities in the future.”
+
+“The steppes have much to offer!”
+
+“And we will love to hear it after we’ve beaten our common enemy,” Viv said, her smile spreading across her lips.
+
+The Golden Scale Bank and Exchange was going to expand massively.
+
+“So it is!”
+
+Viv suddenly froze in her tracks, realizing what she was doing.
+
+Proxy war? Check.
+
+International weapons trade? Check.
+
+Deploying shady (and possibly autistic) operatives? Double check.
+
+“Holy shit, I’m speed running the whole evil imperialism thing, huh.”
+
+Solfis was going to be so proud.
+
+***
+
+Viv adjusted the diagnostics spell one last time, focusing on the old kark’s scarred leg. There was nerve damage near the knee that would force a limp for the rest of this man’s life, but in battle, he ought to be able to push through the discomfort.
+
+She quietly eyed the old shaman standing by her side. His breath was raspy, his eyes unfocused. He could do no more this morning. Perhaps no more this day, period. She couldn’t heal that person entirely without spending two days fixing everything.
+
+“Let’s just fix the arm. Be ready to heal while I reform the limb,” she said in northerner.
+
+The shaman nodded. He called upon the ancestors, and Viv waited.
+
+Kark shamanic magic was strange, and that was with witnessing male magic only. She knew most tribes segregated casting by gender roles. Traditionally, the female shaman of the tribe would have been in charge of healing. It would have been Marruk’s mother here, but she and her sisters were dead.
+
+Black mana moved by the meaning of change, turning the pile of worm meat into an intact limb. Slowly, the slurry reformed healthy red kark flesh. Viv patiently waited until they regrew finger by finger as her magic guided the process, then it was time to reattach it. She quickly severed the stump to attach the replacement while the shaman called upon his healing powers, a gentle light filling the tent. Kark divine magic was on the slow and soft side. She was pretty sure the ancestors’ souls didn’t stay or she would have felt them, but there was clearly something remaining from those who had come before. Pride. Love. Fear. The muted emotions came and lingered like a sweet aftertaste.
+
+“We thank you, ancestors,” the shaman finished with a trembling voice.
+
+The light dimmed over the tent. The old warrior woke up, his gaze falling on the regrown limb. Its pristine surface made the rest of his battered body that much more impressive.
+
+“It will take some time for the mana channel to…”
+
+Viv didn’t get to finish her sentence. The old man bowed and left, pushing through the atrocious agony of regrowing magical pathways with grim determination. Even after watching Solar regenerate them in moments through sheer strength of will, Viv thought nothing could surprise her anymore but it was just how weirdly consistent those old fuckers were in facing pain in the most direct and showy way possible.
+
+“This is the fourth great warrior you return to us,” the shaman wheezed.
+
+“I wish I could do more.”
+
+“I apologize. It is I who is holding us back. If only I were younger and more prepared…”
+
+He shook his head.
+
+“If only the Dark Blades had taken me instead of my son.”
+
+“I’m sorry. If it’s any comfort, there is always someone new to heal. It never stops.”
+
+The old one chuckled.
+
+“True. And if the younglings knew they could reattach fingers in an hour, they would taunt each other into shoving their hands in skarn’s dens to prove their worth.”
+
+Viv could only assume it was a sort of Russian roulette.
+
+“If… when we throw off the Pure League, you can send more veterans my way. I’ll heal them back on my land. Against compensation, however.”
+
+“There is so little we can offer…”
+
+“I accept service. For some, it would be a second chance.”
+
+“Yes… A second chance…”
+
+The old shaman grew wistful. With a gesture, he waved towards a tea set that he and Viv retreated to between healing sessions. The root concoction he drank seemed to help him.
+
+“You have a god for second chances now, I heard?”
+
+“Yep.”
+
+“Do you think my people will get a second chance?”
+
+Viv went through the motions of preparing the tea, even warming the water with a bit of arcane magic for which the exhausted shaman proved grateful. She waited until he had rested a little before placing a hand on his frail shoulders. She felt like he needed to know and understand.
+
+His eyes met hers. His were dark and old and terribly human, well, not human, but people. Viv gave him a moment to gaze into the viridian abyss of her own. His melancholy soon faded, replaced by something darker. Fear.
+
+She smashed his mind with her aura. Her soul sense and leadership allowed her to focus on him and him alone so that even the sentries around the tent didn’t notice something was off. The terror was so deep, so visceral that he could not even unclasp his fingers from the earthen cup.
+
+“I’ve told you I’d help but you don’t seem to understand, maybe because you’ve heard promises of success before and they never happened. You no longer believe in happy endings. So believe in a sad ending instead. For the Pure League.”
+
+She allowed him to gasp under the soul marks that showed exactly how many fates she’d extinguished.
+
+“You’re taking me for some happy-go-lucky rebel captain with steel and a bit of luck. I’m not. I am the Calamity, the Black Witch of Harrak. I rebuilt an empire from the ashes of the past and the bones of my enemies. I’ve poured gold down a prince's throat and stabbed a fifth step through the chest. I’ve killed a necrarch that was older than civilization. Look well into my eyes and realize that changing history is my thing, whether it is willing or not.”
+
+***
+
+The days went on and the Red Tribe was turning into a proper force. Honestly, they already knew how to fight so it was just about making minor adjustments. In the meantime, Frosthawk’s smiths worked day-in and day-out to finish the last adjustments to weapons and armor. By now, the Beacon had been stripped of all available metal except for a couple of steel crates Frosthawk kept for repair and for a ‘special contingency’ he wouldn’t elaborate on. There was also one more gift they had for the kark, and this one, Arthur actively worked on. It was a gesture of appreciation for her borgling friend who had smuggled her food when she was small, and that apparently counted for a lot. Events pressed Marruk long before she could finish all her intended preparations: the Pure League expedition was coming for them.
+
+Viv wasn’t sure if they’d been detected, somehow, or if it was just bad luck. It didn’t matter. The kark wouldn’t wait any longer, so Marruk gathered all of them on the plains before they would march.
+
+“There is no more time,” she began. “No more time.”
+
+Rather than the shy and stoic Marruk Viv had grown used to, this one was tearing up. Viv knew the importance of showing emotion but she would never do that. A leader had to appear strong and, more importantly, always confident. Viv was the woman with a plan. That had always been the case even when her plan could be written on the back of a lottery ticket and have about as much of a chance at success. Humans needed to believe in their leader’s flawlessness.
+
+Kark were different.
+
+“If I had more time to give you, I would. If I had more steel I would give that too. All that I possess. Just like Echna to Pariah shed for her tribe. I don’t have anything more to offer you except the strength of my arm and the fire of my anger because…. they killed my mom.”
+
+Viv saw Matar tense like a string by his daughter’s side.
+
+“They killed mom. I saw her dead. They’ve killed your moms and your dads and your brothers and your sisters and your cousins and the ancestors weep for all we have lost, all the people who should be walking by our side and cannot because they are dead. They shouldn’t be, but they’re dead. No more. No more! We won’t lose any more mothers to them. Not any more friends and loved ones. This ends now. I have given you everything I could. Now take it. Follow me. We end this. We free the Red Tribe from over ten long years of suffering. By our ancestors, we shall bring an end to this nightmare.”
+
+The kark bellowed their approval and it was raw, not just with anger, but with grief as well. The timing was perfect.
+
+“There is one last thing,” Viv said in northerner, and Marruk instinctively translated for the others.
+
+The kark stopped to pay attention. So far, Viv had brought steel, reparative surgery, and death to the Dark Blades so for once in her gods damned life, she was a messenger of good news.
+
+“Under the Sky-Mirror Lake, She-Who-Feasts-On-Many-And-Collects-Much found a gift from the gods: a stone fallen from the heavens… an iron meteorite.”
+
+Whispers, well, kark whispers, spread across the crowd.
+
+“Out of this meteorite, She-Who-Feasts-On-Many-And-Collects-Much, the smiths, Archmage Frosthawk and myself forged and enchanted a weapon to carry you to victory, a symbol of your strength and resilience. It is my gift to you as friends and allies, that you may forever remember a time when you were desperate and still stood, and if the gods are willing, still won. I present to you: The Red Spear.”
+
+The smiths brought a full steel spear of good size enchanted with runes of strength and fire. The magic involved gave it a bronze finish that looked red under the sunlight. It was a last minute creation and more of a symbol than a true game changer, yet the kark, then the world itself, reacted beyond Viv’s expectations. Marruk grabbed the spear and gave it to her father who raised it to the heavens, and as he did so, the description changed.
+
+[Hope of the Red Tribe, artifact. Forged from sky metal by a master crafter, then enchanted by a friendly elemental and a friendly dragon, this weapon carries the hope of a beleaguered people. The wielder can call upon dragon fire and elemental black mana to attack and protect themself. Its power increases the more united the Red Tribe is against the enemy. Current power: Maximal.]
+
+As soon as he brandished it, a black shield formed around him while fire roared upward.
+
+“Incredible,” Frosthawk muttered nearby.
+
+Every time mother crafts something, it becomes an artifact.
+
+Arthur fiddled with the pouch around her neck.
+
+Also, the Spirit of the World says my fire is better at attacking than your black mana.
+
+“No, it means you need to practice your shields, young lady.”
+
+I have scales!
+
+The ecstatic kark celebrated with hugs and songs. Viv didn’t think they’d achieved much yet but hope, well, that was valuable in itself.
+
+At that moment, the wind died down. Pennants hung from their polearms while the people quieted, watching. It slowly picked up again. First, a few bursts, then a continuous stream.
+
+“The winds are changing. They blow east. Towards Luten,” Marruk whispered.
+
+“To battle then?”
+
+“To victory.”
+
+The new warchief hailed the troops, who formed cohesive squads behind a tight formation of pakar riders. The civilians left behind prayed and sang with the passage of the warriors. Viv held back a bit. It was their moment.
+
+Frosthawk landed by her side.
+
+“So, we have given them steel and training.”
+
+“Yep.”
+
+“I assumed you would work on their grit and spirit. You speak of them so much.”
+
+“Those are nice. Superior gear is better. You can get grit and spirit more easily if you get good gear.”
+
+“How very pragmatic,” Frosthawk said in a neutral tone.
+
+“What? You sound surprised.”
+
+“I just expected you to help them barely enough to harm the Lutenese without them becoming a threat. The tools of today are the enemies of tomorrow.”
+
+“It’s because your previous masters saw everybody as threats rather than potential allies that they’ve lost. Paranoia can only carry someone so far. The kark are honorable to a fault, and Param’s greatest blood feud practitioners. It would be absolutely idiotic to backstab them.”
+
+“But kark…”
+
+“In my world, the greatest conqueror of all time was a steppe warrior. Let’s not underestimate them just yet.”
+
+***

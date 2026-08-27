@@ -1,0 +1,53 @@
+---
+id: e469b8a3-76b0-5dd2-b6c4-664b16eeb14e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40 - An Honor to Serve You"
+slug: 0041-chapter-40-an-honor-to-serve-you
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 41
+ownLength: 363
+unit: words
+publishedAt: 2022-07-02
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/940186/chapter-40-an-honor-to-serve-you"
+royalRoadId: "940186"
+---
+
+Ryce Penn ambled through Aubrey Park, expecting to meet Eleanor at every turn. He had said good morning to a dozen or more strangers, but there was still no sign of her until he caught sight of her sandy blond hair over the back of a park bench. With a twirl of his cane, he left the path and crossed over to her.
+
+As he approached, his hindbrain perked up. Something was wrong. Penn relied on his instincts too much to ignore anything his hindbrain told him, so he slowed down and quieted his approach.
+
+Lady Serrs’ whole body seemed pensive. She was leaning over a scrap of paper. Penn thought it had to be a letter, the contents of which were nearly killing her, but when he was close enough, he saw it was only a list of questions scribbled in a feminine hand. He managed to read a little before she sensed him.
+
+Who benefits? Why did they wait?—the paper jerked away.
+
+“Mr. Penn”—even her voice was strained—“you’re back in your professor costume today.”
+
+As the thief came around the bench and sat down beside her, Eleanor folded the paper so he couldn’t see the writing.
+
+“Darling, are you all right?”
+
+Eleanor’s mouth opened and closed at least twice before she managed to form words.
+
+“I don’t know. Something occurred to me.”
+
+“Is there anything I can do?”
+
+Her eyes fastened on him. “Do you mean that?”
+
+“Of course I do.”
+
+“You meant it when you said you’d be willing to be of service to me?”
+
+“Every time I said it.”
+
+“Mr. Penn, I have a favor to ask you, and…there’s no way I could repay you.”
+
+He lifted his hat and bowed his head, “My hertis rote, it would be an honor to serve you.”
+
+“I need information. I don’t know how to get it, or who to go to, and I don’t think it’ll be easy to get.”
+
+“I can help.”
+
+“And you might have to steal something for me.”
+
+The thief rolled his hat over his forearm until it dropped onto his head. With a grin, he said, “You know, every day you become more and more charming.”

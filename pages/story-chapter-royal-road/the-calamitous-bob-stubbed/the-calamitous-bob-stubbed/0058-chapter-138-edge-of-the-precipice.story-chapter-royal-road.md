@@ -1,0 +1,477 @@
+---
+id: 3a91f2f9-31bb-514a-984b-7de60f28dc63
+page-type-slug: story-chapter-royal-road
+title: "Chapter 138. Edge of the precipice."
+slug: 0058-chapter-138-edge-of-the-precipice
+partOf: the-calamitous-bob-stubbed
+position: 58
+ownLength: 6247
+unit: words
+ownProgress: 6247
+publishedAt: 2023-10-20
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1380246/chapter-138-edge-of-the-precipice"
+royalRoadId: "1380246"
+markedReadAt: "2026-06-29T21:16:46.103Z"
+---
+
+It was okay, Viv thought. Just walking was okay. Her feet dug into the cracked sand with every step. She did not dare look up to the crowd and couldn’t hear them anyway. She could deal with them later.
+
+Draconic Intimidation: Expert 4
+
+Mana mastery: Intermediate 4
+
+Arcane Constructs: Intermediate 6
+
+Acuity Reflex: Intermediate 6
+
+Soul Mastery: Intermediate 3
+
+It had been an intense fight. Now it was over. Just step step step would be fine. Fever burned her despite the increased pain tolerance. Any faster and she would puke bile. Saliva already pooled in her mouth. She could see her fingertips. They were blue, with black veins creeping up her skin. Whatever had fueled her was now actively killing her. It was time.
+
+You are suffering from deep mana poisoning.
+
+You are dying.
+
+She had a few days at most. Possibly less if she couldn’t access potions. That would be fine.
+
+The gates out of the area didn’t open. She assumed mana saturation had something to do with it so she merely shadow stepped through them. The barriers didn’t stop the intrusion and she reappeared in the antechamber, gasping for untainted air. Two mages were working on keeping the wards intact. They cast murderous glances at her as she stumbled forward, caught by Sidjin at the last moment.
+
+“You are here,” she said.
+
+Deos picked this moment to rush out of the nearest corridor. He was the very image of porcine fury. He zeroed her immediately.
+
+“YOU!!”
+
+Only to smash into an invisible barrier. Two guards pulled him back and formed a shield wall in an instant.
+
+“Is there some sort of problem?” Sidjin asked with a finger lifted and a deceptive calm.
+
+The bodyguards knew exactly what their chances were against a war mage who had already started to cast. A desperate struggle to rein Deos in began but the arena master had no intention to make things easy for them.
+
+“You bitch, how dare you? Undo your curse at once!”
+
+“By law it is your responsibility to keep the ground in working order,” Sidjin calmly stated.
+
+“Law my ass, do you have any idea what you’ve done to me? To Helock? I—”
+
+Sidjin had had enough. A gesture and Deos was silenced. For once, Viv was grateful for the intervention. She was in no shape to argue.
+
+“In case I was not abundantly clear,” Sidjin said, “we know exactly what we have done and if you need another demonstration, I am eager to provide it.”
+
+Sidjin’s intimidation surged out. The guards took a step back and this time, Deos didn’t fight them.
+
+“This isn’t over,” the arena master said once Sidjin dropped his curse.
+
+“You are absolutely correct. You have used my wounded mentor against me and facilitated a betrayal that led to much misery, all for the sake of a good show - so yes, I fully agree. This is not over.”
+
+“I have been threatened many times, fallen Prince.”
+
+“But not by the likes of us. I would remind you as to why I have fallen but some people never learn. They keep repeating the same mistake until they are put down. Just like the pile of ash behind you.”
+
+For the first time, Deos lost his composure. Viv was also impressed by how stupid someone could be not to take a foe seriously when said foe had just killed a rival with mana poisoning in front of thousands of people. That was completely fine. She intended to have him killed anyway. Maybe. The obese tyrant decided he’d had enough in any case. He left with all the dignity he could muster. Sidjin immediately turned to her.
+
+“Viv. You look like death.”
+
+“Feel like it too. It’s time. We go to Elunath. Now.”
+
+“I was about to say. What is your attunement at?”
+
+Viv checked.
+
+Attumenent: 43%
+
+“In the death zone.”
+
+“Then there is no time to waste. I have hired a porter for Solfis and your belongings. I had Rakan safely transported to a private practice. Nothing holds us here. Let us depart.”
+
+Viv just let Sidjin take the lead. The trip was a blur. There was some cold, fresher air. A horse. Whispers of fear on the way. They crossed the gate to the inner district in perfect silence, the guards stepping away from them. Apparently, rumors of her exploit had already spread far and wide. Those damn runners. Breathe in breathe out. Viv coughed phlegm every minute byt the time they stopped in front of the elemental archmage’s manor gates. Lani opened it for them. The blue mage wore a tight dress of azure fabric with an open cleavage revealing her unusually pale skin even now, at the heart of winter. She looked at Viv and winced. They were let in without a word.
+
+“Guess we’ll be partners soon,” Viv choked as a jest.
+
+“So it would seem,” the younger woman replied with pursed lips.
+
+Viv saw something she didn’t like in the indentured mage’s gaze: pity.
+
+“Your porter and lover must wait in the atrium. I will help you move, alright?”
+
+Viv saw that Sidjin clearly didn’t want to leave her alone. Unfortunately, the difference in power and prestige between himself and Elunath was massive. She could guess confronting him in his own house would be bad, even in her addled state. She shook her head to Sidjin to tell him that was fine and immediately regretted the decision. Lani moved to her side and placed a cool hand on her forehead. Immediately, she felt better. Her mind cleared up considerably.
+
+“Your resistance to mana is the highest I have felt in a human,” the blue mage grumbled.
+
+Viv could only shrug.
+
+“Not your fault, of course. This should help you until your mana dissolves my spell. Long enough for the next conversation at least. We should hurry.”
+
+Sidjin and the porter walked to a recess in the archmage's titanic lobby. Viv watched them sit gingerly on expensive seats, feeling for all the world like a patient leaving relatives to head into surgery. Lani grabbed her hand when they walked. Viv felt much better though she knew it wouldn’t last.
+
+No one came to meet them on their way to the archmage’s office. The place felt strangely deserted and the lights of nearby lamps cold and impersonal. This was not anybody’s home. It was a facade of wealth and luxury meant to be admired, not enjoyed. Or perhaps Viv’s body was leaking warmth and her bleak mood was affecting her judgment. The archmage probably had a private lair. This was just to impress the yokels.
+
+Lani opened the door to introduce Viv, guiding the witch to her seat soon afterward. Elunath was waiting on his throne, the impressive desk empty save for a contract and a single sheet of paper with a list written down. His perfectly chiseled and slightly unnatural traits felt stranger in the pale light of the winter noon falling from the cupola above their head. His eyes, in particular, were like jewel orbs carved from rock to a shining perfection. He didn’t invite Viv to sit. She sat down anyway. The risk of collapse was real.
+
+The archmage wrote on the list for half a minute before addressing Lani, who had been left standing beside the door.
+
+“Can you confirm Sonagi’s status?”
+
+“He is dead,” Lani replied. “The arena is unusable for the near future. The efforts to decontaminate it have failed so far. Master Deos requests your assistance in this matter.”
+
+“I can no longer feel the land around that place,” Elunath noted, then he acknowledged Viv’s presence for the first time.
+
+“You have outdone yourself.”
+
+He wrote some more on the list. Meanwhile, Viv realized that if the man could perceive the land at this range as he had indicated, then he could probably feel underground as well. He was probably the one Solfis had felt. She had a bad feeling about this.
+
+“Right. I suppose the time has come. Your indentured contract, as promised.”
+
+Viv picked the document. It was quite long. She took her time to read it, which Elunath didn’t seem to mind. He just waited with his fingers crossed and a pleasant smile on his lips.
+
+The beginning was nothing shocking. It stated the contract would be between the archmage and herself for a duration of five years and could not be extended under any circumstances. That was a standard measure in Helock to prevent abuse. The first page was also standard fare. She was supposed to obey him. He was supposed to protect her ‘within reason’ and to feed her and so on. The problems started from page two one, and Viv realized the issue immediately.
+
+“This isn’t a standard indenture contract.”
+
+“No,” Elunath replied with the same smile, “but it is a legal one, valid under Helockian laws.”
+
+“This is deceitful. I thought you cared about your reputation,” Viv spat.
+
+“Oh but I do. Helockians really love their contractual backstabbing, you see? This is all quite valid and no one will ever challenge me in court of law. First, my position is unassailable. Second, no court would dare summon me except for the most heinous of crimes, and third, something you have forgotten, nobody likes you here.”
+
+The archmage took a sip of tea while Viv simmered in her shock.
+
+“I have taken many promising young women under my wings. All of them would have withered without my help. None of them were from Helock, and now they all labor for her glory. And they will do so for a while longer. Like Lani here.”
+
+“At the contractor’s disposal with their time and BODIES? You rape them? You built yourself a harem?”
+
+“Rape? They all signed the contract. If they couldn’t bear my touch, they could just stay in the mud eating fish bone soup or bark stew with the rest of the mudlings.”
+
+“A choice made under duress is not consent whether the alternative is death or a slow starvation. You could have been fair and be a mentor to them but no, you wanted slaves.”
+
+“You can call them whatever you wish. I care very little about your opinion. Their choice is yours too. You can die or you can serve me. I will take you, I will take your body, I will use your skills. I will command the pathetic troops of your pretend kingdom for my projects. I will command that skeletal horror you have brought to my city for your nefarious purposes as I see fit. Everything you have is mine for five years. I won’t destroy it, trust me, this would be an abuse of the contract. But I will use them, and you. I am doing you a favor by shielding you against the consequences of your own actions until you learn. You think you can just do as you please because you are more powerful and perhaps it did work in that sad shitpile they call Enoria, but here we are an old civilization. Every gang, every guild, everyone who matters has backers in the shadows, and those have toes you really enjoyed stepping on. So I will hold them at bay while we go over the list.”
+
+He tapped said list with a finger. Viv counted at least twenty entries.
+
+“Every mark of disrespect and every slight you did against me will be revisited in detail. Today, you sat without my leave. Earlier, you polluted the arena without care for the fallout, in this case the annoyance of one of my dear allies. Earlier, you killed a man I specifically told you was under my protection. Did you realize and not care, or did you think your pitiful revenge was worth it and damn the consequences? Do you believe your demonstration scares me, an elemental archmage? Was there even a hint of reflection going in that thick outlander skull of yours, witch? I have no idea. But by the time I am done with you, your behavior will be much more polished, that I promise.”
+
+“Wow. I guess all the signs were here,” Viv admitted to herself.
+
+Lani had tried to warn them on multiple occasions, though not directly. She probably couldn't.
+
+All the girls wearing clothes selected for attraction rather than function were a sign as well.
+
+The lawyers she had consulted about the contract had cautioned her.
+
+In a way, there were many signs, just not definitive ones. Everyone was too scared of Elunath to suggest he was a sociopath. Said monster reclined in his seat, as calm and composed as he had ever been.
+
+“Ah, I can tell you are hesitating. That is perfectly understandable. You can even refuse, I will not mind. If you accept, you are mine. If you refuse, I still have all those goods you sold me for a right you will not exert and I get to watch you die as your very organs melt under your mana’s deleterious power. I am honestly not sure which option I prefer. Do I want a tool or do I want a spectacle?”
+
+A small piece of Viv wanted to still accept the deal because she was feeling herself die. The rest of it refused with every fiber of her being. She could not accept to become a slave, sexual or otherwise, especially when he had made it clear he had a backlog of offenses to avenge. Viv was an adult. She was born free in one of the most progressive societies in history. Maybe a Viv born in a starving family on this world would have taken the contract if only to save her family. Maybe that one would have survived. After all, Viv was a pragmatist to her core. But not the current Viv. The current Viv had built herself to resist those who would control her, no matter the cost. She was the product of an education that taught her that every person was born and remained free, that her body was her own and that her boundaries ought to be respected, much like the boundaries of everyone else. She had grown believing it. This was now a truth so deeply ingrained in her mind it had become a part of her. She couldn’t undo herself to suffer this debasement any more than she could bend a statue of Athena triumphant into one of servitude.
+
+There was no doubt in her mind that Elunath would break her just as he intended. He had all the tools, the time, and the mentality to do so. It would be a fate worse than death.
+
+She just had to hope that Solfis’ contact would come through.
+
+The same small voice now needled her, pointing at her hypocrisy. ‘You refuse five years,’ it said. ‘Would you have refused one? Six months? One night?’.
+
+In the end, she had no answers. It was easy to say she would die rather than accept torture when she was not confronted with her imminent demise without recourse. Once again, she was lucky to have an alternative. She was privileged to escape a choice that other women had made and would make between survival and their own integrity. Viv stood up without a word, fighting the urge to throw up. This time, it wasn’t just discomfort but a deep disgust for the man whose claws she had just dodged thanks to Solfis.
+
+Or at least she prayed so.
+
+Elunath didn’t protest to her standing up, stepping back to the entrance that now felt like the end of a long tunnel. Lani made a gesture to help her then stopped, fear in her eyes. Now that it was clear the woman was a slave in all but name, Viv could only wonder what horror she had been subjected to. A horrible new memory resurfaced. The blue mage had been recruited as a teenager, which meant Elunath was not just an asshole. He was a groomer as well.
+
+“Take the contract and escort Miss Viv back to the entrance, darling. Make sure she doesn’t retch on the carpet. Oh, and I will see her next with the document signed or as a corpse. Is that clear?”
+
+“Yes sir.”
+
+He did not hold her back. Lani grabbed Viv’s hand to help her along. The moment their skin touched, a voice rang directly in Viv’s ear.
+
+“He can listen to everything we say inside his house. Through much of the city as well if you are near the ground. Look, it is your decision to make. If you do say yes and sign I’ll be here for you. You will not be alone. It’s bad though, really bad. You made him angry.”
+
+It took little effort for Viv to understand the spell. She only had to think a reply and Lani would hear it.
+
+“Did he take it out on you?”“Don’t take responsibility for the actions of madmen. And sorry I didn’t warn you before. I… I was too scared.”
+
+“I don’t blame you.”
+
+“I’m sorry, still.”
+
+Viv had a long look at her companion of misfortune. It was clear that the blue mage was terrified to her core under the designer clothes and makeup. Her figure was slightly hunched. Fear of Elunath must be so deeply ingrained after all those years.
+
+“If there is a way, I’ll get you out of here.”
+
+“My contract lasts for another thirty-seven years.”
+
+Viv didn’t mention the obvious solution she had in mind to terminate said contract. The girl wouldn’t believe her capable of carrying it out anyway.
+
+Sidjin was surprised and concerned to see her again so soon. Viv managed to reach him while Lani placed the contract on the lobby desk in case she changed her mind.
+
+“Viv? What’s going on?”
+
+“Later.”
+
+They stepped out and Viv breathed a breath of fresh air. Then coughed again. She tasted blood on her tongue. Her gums were bleeding.
+
+“Potion?” Sidjin asked.
+
+“Yes please.”
+
+A gulp of flesh mending potion later and she was feeling better. It wouldn’t last.
+
+“What’s going on?”
+
+“The indenture contract is a slavery one. An old variant that covers all my assets up to and including Harrak and my ass.”
+
+His shock turned to rage in a moment
+
+“I’m going to kill him.”
+
+“Wait!”
+
+Sidjin’s fury burnt like fire, the outrage turning his delicate traits into an expression of pure savagery. A red haze surrounded him, tasting of overheated blades. She loved him at that moment for being so angry on her behalf. They couldn’t do anything about it, however. Elunath would pulp him before he even breached the door.
+
+They sat there for a while. Viv had never felt so tired in her entire life. It was a deep fatigue of the soul. It permeated her to her marrow as a new layer of pain after everything else she had already been through.
+
+“We have to go, I know. I just need two minutes to recover. This has been a long damn week.”
+
+She sighed deeply.
+
+“Just one thing after the other. First my dad, then Rakan and now this. I feel like I’m being repeatedly kicked in the teeth. It’s more of a coincidence than anything but still. Where is the luck I was promised?”
+
+“I’m sorry Viv. I wish I could help you.”
+
+She shrugged.
+
+“You’re here, aren’t you? Don’t feel bad, it's just that I should be furious and I don't even have the strength to do that anymore. At least not now. There’s been… a lot going on in a short span. I just want it to end.”
+
+“And it will. Solfis?”
+
+//The porter will place me upon the second horse’s back.
+
+//Then he will deliver the message that we are ready to talk.
+
+//Sidjin, you shall follow my directions.
+
+Said porter executed his orders as if disembodied voices coming from boxes were an everyday occurrence. Viv could tell from Sidjin’s annoyance he had not realized the man he had hired was already in the golem’s pocket. It did not take long for Viv to be moving again, the music thing blasting rock in her ear to distract her from her pain. Between the flesh-mending potion still active in her body and the power of guitar, the ride back was not so unpleasant. Sidjin took quite a few twists and turns out of the noble district and onto the waterfront until they ducked under an archway to see a fountain nestled between three-storied apartments of old stones that looked a sneeze away from crumbling. Water gurgled into a murky pond, blocks of ice bobbing up and down. The place was deserted.
+
+“Alright, what n—”
+
+Sidjin never finished his question. A burst of air made Viv look up to the diving shape of a gryphon, its rider clinging to her saddle. The duo stopped in front of a panicking horse with clear hostility.
+
+Sidjin stepped down and the atmosphere changed immediately. The rider simmered down. She was a young woman with scars on her cheeks, messy hair escaping from her helmet in oily strands, a far cry from the elite member she had seen during the riot. Nevertheless, her gear looked well-maintained and the spell scepter in her hand hummed with mana. Viv had never seen one in use but she guessed being at the receiving end would be briefly painful. There was something raw in the woman’s expression, one mirrored by the sullen poise of her mount.
+
+“The witch and her bone thing can come. You’ll stay here.”
+
+“I—”
+
+“Neither of us get a say. Now hurry or you’ll blow my secret and then we’re all fucked. Hurry!”
+
+Viv did as asked while Solfis surged from the crate like a devil out of its box. The gaunt creature jumped on the gryphon’s back with disturbing dexterity. Viv was lifted and placed between the armored woman and her golem. She smelled of old sweat.
+
+“Hold tight because I’m not wasting any time.”
+
+“Take care, my love!” Sidjin said from the ground.
+
+Viv’s stomach sunk in her chest when the beast took off under a tremendous burst of gray mana. For the first time since Arthur’s departure, she was flying up and up. First, the warehouses shrank, revealing the endless expanse of the sea, then Helock appeared in all its sordid glory. Icy roofs and bare trees, the people, landmarks such as the arena and the temple of Sardanal. They were already high before the first fisherman looked up and then immediately down again. Just another griffin rider of Helock doing a patrol, nothing unusual.
+
+Up and up they went. Viv moved her head but Solfis’ massive hand rested comfortingly on her shoulder. The wind was strong here, wet, carrying the scent of iodine and a bone-chilling cold she could no longer ward off. She gathered her robes around her. Didn’t even take the time to get changed after the duel.
+
+They passed the first floating stone shortly after. The griffin moved weirdly, batting its wings a few times. Viv felt weightless for a short, disturbing moment. They climbed higher still. Her pilot didn’t say anything and neither did Solfis.
+
+The griffin weaved between floating stone until they faced the chalice, the largest one of the lot by a degree of magnitude. Viv felt a moment of panic but Solfis said nothing. She knew no one was supposed to approach the floating island on pain of death because of magical tempests and whatnot. She could see a ring of power circling the whole thing, so dense a mundane would see it with their naked eyes. They were going straight for it. Roots grew on the flank of the reverse pyramid of raw stone that formed the underside of the massive structure.
+
+And then she spotted it.
+
+Invisible from under, a garden had formed, one of ancient trees and hedges around… no that couldn't be right, could it?
+
+“Are those buildings?”
+
+//Yes.
+
+//Our destination.
+
+“How did you even find this place?”
+
+//I did not.
+
+//It found me.
+
+They crossed the boundary without issue. Less than five meters away, a bird was caught in a wind vortex that sent it down with a squawk. Viv spotted a circle of old stone that would make a decent landing pad and without fail, the gryphon landed them there.
+
+Solfis took off on the spot, dropping her on the ground on weak legs. Their ride was off into the distance before she could utter so much as a thank you.
+
+Viv took in her surroundings while Solfis waited for her to recover. This place was old, ancient even. It felt more like a ruin than a base, yet there were signs of subtle work everywhere from the lack of soil on the path to impeccable cut of nearby hedge even now decorated with tiny white flowers. The air was fresh and crisp up here, far from the sea and the mass of humanity. It was curiously silent as well. The wind felt too light for such an elevation.
+
+“So, your mysterious prospect. You said you wanted to attack it?”
+
+//I am programmed to do so.
+
+//However, your safety overrides many directives.
+
+//I am able to circumvent this specific rule as it is not hard-coded.
+
+“Ok uhh, anything I should know?”
+
+//I would not bring you here if I did not deem it safe.
+
+//Reasonably safe.
+
+//Although I admit to flaws in my predictive algorithm when it comes to politics, all the information I have gathered on our host concords with what he claims.
+
+“Okay, so…”
+
+///It will be faster and more efficient for you to meet him first.
+
+//Rather than me answering many questions.
+
+“Fair enough.”
+
+Solfis guided Viv deeper into the ruins, then through a heavily enchanted door set into an ivy-covered wall. Inside, she found a circular room devoid of any furniture. Three doors led deeper into the chalice. A man stood at the center of the room. Many things could be said about this man. Viv immediately understood what Solfis had meant.
+
+The first important fact was that the man was a mage, and an extremely powerful one at that. He even wore the obligatory robe and wielded an old-fashioned staff of black wood in his hand. It held the largest core Viv had seen used as a focus. More importantly, this was an expert of black mana if his aura was any indication.
+
+The second fact was that the man wore his long gray hair in dreadlocks like some northerners did. They reached the small of his back in a waterfall of braids, ribbons and trinkets. It was rather colorful.
+
+The third fact was that the man was very tall, powerfully built, and that he had a domineering aura that Viv couldn’t match at this stage.
+
+The fourth fact was that the man was very, very dead. Taut skin stuck to his skeleton, his teeth bared in an eternal rictus. Twin blue flames brunt in his eye sockets.
+
+[Elder archlich, extremely dangerous.]
+
+“My name is Abenezigel. Be not afraid,” he said with a surprisingly soft voice.
+
+Viv found it intriguing that the lich would pick such a deep and rich range, unless he didn’t and that was his normal tone from back when he had been alive. She stayed there, watching him with disbelief. It, no, he was a talking skeleton, and he was not actively trying to eat her face off while screaming about the dark gods and puny humans. The experience was both refreshing and disconcerting.
+
+“You… are not afraid,” the lich said after a moment.
+
+“Huh?”
+
+She could not tell if the lich was surprised, or disappointed, or both.
+
+“No matter. It will make our conversation easier. First, allow me to welcome you to the chalice. My home. I have ruled over it for three hundred years. Few mortals can boast the privilege of my hospitality. Be sure not to abuse it,” he said.
+
+Viv nodded. Do not insult the powerful lich’s choice of upholstery. Got it. Not too hard.
+
+Once again the lich seemed to wait for a reaction.
+
+“Errm thank you for your invitation. I appreciate it.”
+
+Viv could swear the lich was a little awkward. It was also a strange one, to be fair. The one she had fought against had felt unhinged, their body a mesh of bones. This one almost felt human by comparison. It also sounded more stable. She wouldn’t let her guard down, however. No central nervous system meant no hormones and, quite possibly, no guilt and she had already met one psychopath today.
+
+“You are a strange woman, Vivane the outlander.”
+
+//I told you.
+
+“Yes. But where are my manners? Let us retire to a more suitable locale. Follow me.”
+
+Solfis helped Viv through the closest door. They found a sort of lounge complete with a roaring fireplace. A steaming cup waited on a nearby stone table. The room lacked softness, yet it felt more lived in than Elunath’s entire domain. She sat gratefully.
+
+“I fear I have no tea to share. This is plain water.”
+
+“That’s fine.”
+
+Warmth returned to Viv’s body at the first gulp. The lich waited until she was done. He was a rather polite fellow.
+
+“I invite you to state your request,” he finally said.
+
+“I’d like some help to survive my increased attunement by turning me part elemental.”
+
+“Very well. It is as your golem said. I am delighted to inform you that helping you go through such a change is within my purview. I have studied the process extensively for my own sake. While my hand was forced too early to implement it on myself, I am confident I can guide you through it.”
+
+“Oh that’s great.”
+
+“However, I require payment in return. I am sure you understand.”
+
+The lich waited some more for… Viv wasn’t sure what it waited for. She nodded her head encouragingly.
+
+“Of course, do tell.”
+
+“Yes.”
+
+He stood to his full height. Head tilted back and arms extended, the lich looked like some Disney villain in the middle of a monologue. It would be comical if Viv couldn’t feel the power radiating from those old bones.
+
+“Three hundred years ago, I was betrayed. Three hundred years ago, I was forced into the form you see now by a man I thought my friend. He left me for dead and took my achievement for his own to the acclaim of the people. Yet, I did not give up. I held Enttiku’s hand at bay through will and arcane might. I became a lich. I strived to adapt to the change. I fought and persevered. I created the haven you now stand on and for three centuries, I plotted my revenge. Soon the time will come for me to exert it on those who have wronged me and the fools who harbor them. And for this I will have your assistance. The price of my help is justice; the target, Helock itself and its greatest liar… Elunath!”
+
+“Fuck, yeah. I’m in.”
+
+“I—”
+
+The lich paused and this time, Viv was absolutely sure he was at a loss.
+
+“You are?”
+
+//Elunath has just tried to turn my mistress into a sex slave in exchange for her life.
+
+//We objected.
+
+//Our goals align.
+
+//Which is most serendipitous.
+
+//We accept your request.
+
+Once again, the lich remained silent. For someone with obviously high stats he seemed to struggle with social encounters. Although, to be fair, the chalice was not exactly a hub of social activities.
+
+“I have remained in isolation for many long years, only communicating with intermediaries so as not to instill fear and distrust in my partners. I dreaded and anticipated my first contact with mankind again. Many times have I imagined it in my daydreams with many different outcomes, most of them poor. I anticipated that I had to defend myself, my choices. I prepared arguments and counter-arguments. I gathered much proof of Elunath’s many treacheries. I believed this very morning that I was as girded for a contest of eloquence as I possibly could, yet now that I stand on the precipice of success, having fought no battles, and sustained no insults or slur, I have to admit that I find the resolution… rather anticlimactic.”
+
+“Sorry.”
+
+//I find that anticlimactic is best in some instances.
+
+“Yeah, you know, when life throws you a bone…” Viv said.
+
+The large skeletons fixed its cold fire glare on her.
+
+“Sorry, it’s the fever.”
+
+//Time might be of the essence.
+
+“It would be best to discuss the details of the vengeance after your change, yes. I was led to believe that you had a black mana core?”
+
+“Taken from an ancient necrarch. Here.”
+
+Viv handed the precious sphere from her carry bag which Sidjin had mercifully remembered to bring. It also contained a change of clothes for post-resurrection herself as she doubted the lich had an overabundance of female clothes her size lying around. Solfis could get more as needed.
+
+“Yes. This will do nicely. Please follow me.”
+
+The trio left the receiving room, this time taking the central gate leading deeper into the complex. Viv had plenty of questions about the lich’s security measures and how the hell he had managed to build a base in a flying rock like a James Bond villain. The timing felt wrong, however. Mostly she was nervous. This was happening. Coming from an unexpected side and implying a campaign that would culminate in the death of an elemental archmage, an arguably daunting prospect, but still, it was happening. The lich led her into a large circular room quite obviously dedicated to rituals. A complex spell array already covered the ground, engraved in a metal that moved as if it were liquid. The work was exquisite. It was also the single most complex array she had seen since leaving Solfis’ original body in its underground hangar. An altar stood in the middle of this impossibly complex arrangement. A Viv-sized altar. She immediately felt a measure of concern.
+
+“This isn’t what I think it is, is it?”
+
+“Whenever you are ready, lie down on the altar with your feet facing the entrance. I recommend you to divest yourself of your vestment as they would inevitably be destroyed during the transition anyway. I have taken the liberty of drawing a bath in the nearby changing room if you wish to face this ordeal symbolically purified.”
+
+“Is it a warm bath?” Viv asked.
+
+The lich extended a metal-clad hand, more claws than fingers grasping the air in a dead grip.
+
+“It is now. I apologize for the lack of forethought at a time of physical discomfort.”
+
+“No problem, I will be right back.”
+
+“Oh and since you might be concerned, please rest assured that this will be a medical act and that although I was originally a man, I am long past the considerations of the flesh.”
+
+He turned to Solfis as if in question.
+
+//I was never a man.
+
+//I was always perfect.
+
+“I will be right back,” Viv said.
+
+The bath itself was barely more than a rectangular hole in the ground decorated by old bricks polished to a shine. The water was warm though no soap was available to wash the grime of the arena. Viv left her dueling robe and focus behind in a neatly folded pile. Her skin was pale, even for winter. Dark veins stood in stark contrast to the rest. Her stomach felt a little hollow and she realized she had not eaten anything in over a day. Her appetite was shot though she couldn’t tell if poisoning or stress were to blame. Her body still felt strong, or at least better than when she had first walked through the deadlands. It was an illusion. The black mana that devoured it from inside out came from her own magic this time, not the insidious air of a devastated Harrak. She finished her bath and walked out in the cold ritual room with her hair plastered to her skull. The cold ground under her sole made her more aware of her nudity than the disinterested gazes of the two beings who occupied it. She took her spot on the altar, which was inexplicably warm, and took a deep breath.
+
+Really, it felt like being at the dentist.
+
+The lich came to stand before her.
+
+“Your companion wishes to attend the ritual to provide ‘emotional support’,” he said, “and I suspect kill me if I fail to wake you up. Do you consent?”
+
+“Yes.”
+
+“Good. The ritual will guide you through enough transformation to stabilize you, then the transition will gradually be completed over the following months provided we are successful. A strong will, power, and developed channels matter in your chances of success which you fortunately have developed extensively over the past two years. I am unsure what you will go through while you are unconscious, only that the soul will be partly untethered and active. I can only advise you to keep a strong sense of self within your psyche while you face what I suspect will be a very personal experience.”
+
+“Alright. I feared it would be much worse than that.”
+
+It was at that moment that the lich removed a thin dagger from a recess of its robes. It was so dark it seemed to drink the light from the room.
+
+“The first step will require me to ritually kill you by plunging this dagger into
+
+your heart.”
+
+“Aw.”

@@ -1,0 +1,209 @@
+---
+id: 8c658d02-4991-5e18-9695-d888f9d271fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88: Unproven"
+slug: 0088-chapter-88-unproven
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 88
+ownLength: 2707
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3686149/chapter-88-unproven"
+royalRoadId: "3686149"
+---
+
+The Imperial Forum.
+
+Varen had learned a great deal about people from watching their faces in the half-second before they understood they had lost.
+
+It was a narrow window. It closed fast. Most men were trained, by birth or by ambition, to swallow the reaction before it surfaced. But there was always that half-second. The moment between the ear hearing the words and the mind accepting them. In that gap, the truth of a person showed itself, raw and unguarded.
+
+When Matthias Lenz spoke the name — His Royal Highness Prince Khalid, First Prince of the Kumsur Sultanate — Varen did not look at the doors.
+
+He looked at the three people who mattered.
+
+Lord Severinus von Karsten's face did the thing old faces do when they have spent seventy-two years arranging themselves into a mask: it cracked along its established lines. The deep creases that ran from nose to jaw deepened all at once. A man who answered to no one had just been informed that, for the next hour, he would answer to the diplomatic weight of a sovereign foreign throne.
+
+Magister Erich von Haldenberg went pale beneath his immaculate composure. His pen stopped against his notebook. Varen watched him calculate. Haldenberg had prepared for soldiers. For clerks. For frightened intelligence officers. He had not prepared for a prince of the desert.
+
+And Elara.
+
+His sister's satisfaction did not drain slowly. It vanished. One instant the faint curl sat at the corner of her mouth, the scholar's amusement at a problem already solved, and the next it was simply gone, and what replaced it was a stillness so complete that Varen knew she had understood before anyone else in the hall.
+
+She turned her head and looked at him.
+
+Varen let her.
+
+He allowed the smile to surface. Good morning, sister, the smile said. I hope you slept well. I did not.
+
+Prince Khalid entered slowly.
+
+He wore the traditional robes of Qalathar, layers of pale and deep desert color, and the hem of them dragged across the polished stone of the Forum floor. No Imperial protocol governed how a man should dress to testify in this hall; the protocol assumed the witness would be an Imperial subject. Khalid had ignored the question entirely. He had come as himself, as the heir to a throne two centuries old.
+
+His gaze moved as he walked. It did not hurry. It crossed the galleries, the journalists already half-rising from their benches, the common citizens pressed against the rear rail. It passed over Haldenberg without weight. It touched the dais.
+
+Then it settled on the man kneeling in chains in the center of the dock.
+
+Kaspar von Hexenzeit knelt with his arms dragged wide and his head pulled down by the collar's chain. Khalid looked at him the way a buyer looks at a horse he has already paid for.
+
+Then Khalid's eyes lifted from the prisoner and found Varen.
+
+For the space of one breath, the two of them looked at each other across the dying case of Erich von Haldenberg, and Varen felt the weight of what he had purchased.
+
+This cost me, he thought.
+
+It had cost him more than he had ever paid for anything. He had done it in weeks, between the moment Lena and Henrik had hammered on the Iron Cross door shouting their commander's name and the moment a desert prince had agreed.
+
+Khalid wasn't there to be fair. There were only ambitions, briefly aligned.
+
+Khalid wanted the angel.
+
+Varen wanted the hero.
+
+Different words. Same person.
+
+Khalid needed Kaspar von Hexenzeit free, decorated, untouchable, his legend stacked another story higher. Varen needed the Bastard Knight, the Mana Breather, the miracle of Grenzheim, to walk out of this hall not merely acquitted but enlarged, so that every noble Varen had been negotiating would understand exactly whose banner the future flew under.
+
+So two princes who had never met had reached across a border and agreed on one alliance.
+
+Varen's gaze drifted back down to the dock.
+
+And there he is, he thought. The only one in this room who was never asked.
+
+It was almost funny. Almost. The whole hall, every one of them was here because of the man in the chains, and not one of them had asked the man in the chains what he wanted. Kaspar knelt at the bottom of a great pyramid of ambition. His only role in it was to survive long enough to be useful. A piece on a board. The board belonged to other hands.
+
+Mine, for now, Varen thought, and was honest enough with himself to feel the small cold pleasure of it. Mine, for now.
+
+"Your Royal Highness." Matthias Lenz continued. "The court thanks you for your presence. I will be brief, and I will be plain, because I understand your time in our city is short."
+
+Khalid inclined his head a fraction. Permission.
+
+"You command knowledge of recent events in Qalathar. Events of, I believe, some weeks past." Lenz did not consult his notes. "Will you describe, in your own words, what occurred at your capital on that day?"
+
+"Three of the Titans came." Khalid's Imperial was clean, lightly accented. "We have survived their attacks for two centuries. One, on a bad day. Three in a single day is not a thing my city was built to survive."
+
+"And yet it survived."
+
+"And yet it survived." Khalid let the words hang, and the journalists in the gallery leaned. "The first we turned away at the eastern wall, at dawn, as we always have. The cost of it was high. By dusk my garrison was thinned, my mages hollowed. When the second came over the northwestern wall and the third broke the southern gate, there was not enough strength left in the whole of Qalathar to meet them both."
+
+"What happened to the third?"
+
+Khalid was silent for a moment.
+
+"A man killed it."
+
+The hall did not breathe.
+
+"One man. He went into the plaza beneath the southern gate, alone, where some thirty of my soldiers had already died. He passed beneath the Titan's body and he set it on fire." Khalid's gaze moved, deliberately, to the dock. "We could not find enough of the thing to bury. He burned it from the inside until there was nothing left to burn."
+
+"And you know it was him." Lenz did not point. He did not need to. "The man kneeling in this dock. You know it was Kaspar von Hexenzeit."
+
+"I know what the witnesses describe. White hair. A straight Imperial blade, not our curved steel." Khalid's mouth tightened, and for the first time something like irony moved across it. "My own brothers debated his identity at our table. The pious among them called him an angel. The clever among them called him an Imperial agent, slipped over our border to burn a warehouse and gut a man who had grown fat selling poison to half the continent." A pause. "They were not wrong, the clever ones. He did burn the warehouse. He did kill the distributor. These things are also true."
+
+Haldenberg moved in his chair.
+
+"Your Highness." Lenz's voice did not rise, and that was the strength of it. "The prosecution has built its case upon the claim that this man conspired with the elven enemy. That he is a traitor to the Empire. I ask you plainly, before this court and before the Crown: in your assessment, having seen the work of his hands in your own capital — was Kaspar von Hexenzeit acting as a traitor to the Empire, or as its instrument?"
+
+"If he were allied with the elves, he would have had no reason to save Qalathar, much less kill a Titan. He was a knight of the Iron Cross," Khalid said, "doing the work the Iron Cross sends its knights to do."
+
+It was the answer Varen had paid for.
+
+"The destruction of the distribution hub in our warehouse district was a hostile act by Imperial agents inside a sovereign nation," Khalid continued, and now he spoke to the whole hall, to the journalists, to the future. "I will not pretend otherwise. My Sultan is aware of it. There will be words exchanged between our thrones over it. But whatever else this man is, Lord Judge, he is no friend to the elves. The elves do not have friends."
+
+Karsten's old eyes did not flicker.
+
+"And I will tell this court one thing more," Khalid said, "so there is no confusion in the record, and no convenient accident later. Qalathar intends to honor him. A medal will be struck. You may remove him from your army if it pleases you. You may strip his rank, demote him. That is the Empire's affair." He let it land. "But you will not execute the man my city is about to make a saint of. Not without my Sultan asking, very loudly, in front of every other throne on this continent, why."
+
+The hall held its breath.
+
+In the galleries, the journalists had given up any pretense of restraint. Pens raced. Sketch-artists' charcoal flew across paper. Somewhere a comm-crystal courier was already shouldering toward the doors. By evening it would be in the capital's papers. By the week's end it would be in Wolkenmark, in the minor kingdoms, in every court that mattered and several that did not.
+
+Varen watched it spread — the familiar double-edged turn in his chest.
+
+Stratospheric, he thought. The word was inadequate and he used it anyway. Kaspar's fame had been a capital phenomenon a month ago. Now it would be continental.
+
+It was glorious. It was exactly what Varen had wanted, multiplied past his own design.
+
+Yet it was a problem.
+
+A weapon every throne now knows the value of, he thought. Is a weapon every throne will now reach for. Elara had tried to break the boy. She had failed, and her failure was about to be printed in three languages. But the next hand to close around Kaspar von Hexenzeit might not belong to a sister Varen could read across a dais. It might belong to Wolkenmark or the Sultanate itself.
+
+Lenz had no further questions. He did not need them. He bowed to the witness circle, thanked the prince in the formal cadence, and returned to the defense table.
+
+Haldenberg rose for cross-examination and asked three questions, all of them careful, all of them designed to establish that the witness had not personally seen the defendant commit any act and was relying on the accounts of others. Khalid agreed to all three with a serenity that drained them of their venom.
+
+"Yes. I did not stand in the plaza." Khalid's mouth barely moved. "I am the heir to a throne; I do not stand in plazas. I rely, as your court relies, upon the testimony of those who did."
+
+Each answer technically helpful to the prosecution and practically worthless, because the galleries were no longer listening for technicalities. They had heard saint. They had heard the Empire burned our warehouse. They had heard a desert prince stand in an Imperial Forum and dare the Crown to kill the man in the chains.
+
+The closing speeches were a formality, and everyone in the hall knew it.
+
+Lord Severinus von Karsten rose, struck the gavel once, and withdrew to deliberate.
+
+Varen settled back in his chair to wait.
+
+Deliberation could take hours. It could take days. An Imperial Judge answered to no one and felt no obligation to hurry, and Karsten was a man who had spent seventy-two years making other people wait as a demonstration of where the power sat.
+
+He was back in nine minutes.
+
+Nine minutes was not deliberation. He who had already known his verdict and needed only to be seen leaving the room and returning to it, so that the procedure could pretend procedure had occurred. The question was only ever which way the dying Emperor's executioner read the wind, and a foreign prince in open court, plus a continent of journalists, plus a Crown prince watching from the left-hand chair, had bent the wind very firmly in one direction.
+
+"The court has reached its determination," Karsten said. "Upon the charge of conspiracy with the elven enemy: the evidence presented does not meet the threshold required for conviction. Upon the charge of high treason against the Empire of Silberwald: the evidence presented does not meet the threshold required for conviction. Upon the charge of conduct endangering an Imperial garrison: the evidence is contested and inconclusive."
+
+A pause. The old eyes swept the dock.
+
+"This court does not find the accused innocent. It finds the case unproven." The distinction landed exactly as it was meant to — a door left ajar, a name not quite cleared, a knife left on the table for whoever wished to pick it up later. "Kaspar von Hexenzeit is remanded to the custody of the Iron Cross, to resume the duties of his commission. The charges are dismissed."
+
+The gavel fell.
+
+Far across the capital, in the noble quarter.
+
+"Three. Two. One."
+
+Henrik put his boot through the servants' door of the Auricht estate on the count, and ten Iron Cross knights went in behind him.
+
+He had run a hundred entries in his Patrol days, and the body remembered the rhythm even when the mind was somewhere else.
+
+The mansion swallowed them. Marble floors. A staircase wide enough to ride a horse up. Tapestries on the walls worth more than the village Henrik had been born in. The knights spread through it in pairs, blades out, voices flat and clipped — clear, clear, room clear — and the great house gave back nothing but echoes.
+
+There were servants. A cook. Two footmen. A girl who could not have been fifteen, scrubbing a hearth that had not been lit in days.
+
+Henrik crouched in front of her and made his voice gentle, which took effort, because his blood was still up from the door.
+
+"Where's the family?"
+
+"Gone, sir." Barely a whisper. "Holiday. The country house. They left — three days, four days. With the chests."
+
+"Which chests?"
+
+But Lena was already coming down the great staircase, and the look on her face answered the question before the girl could.
+
+"Don't bother," Lena said.
+
+Henrik straightened. "We can still get word to the checkpoints. Four days isn't far."
+
+"Henrik." She had her notebook in her hand. "It's done. Come and see."
+
+He went up and saw.
+
+The vaults stood open. Emptied with the patient thoroughness of a household that had known precisely how long it had. The strongroom behind the study held nothing but bare shelving and the dust-shadows where strongboxes had sat. The study itself had been stripped of every ledger, every letter, every bound volume of accounts. The drawers hung open. The desk was clear.
+
+In the cold fireplace lay a drift of ash, and on the floor before it, a scatter of papers torn into pieces too small to read.
+
+"How." It was not really a question. "Four days ago. The trial hadn't even started. By every account I heard, Elara was certain she had him. The princess walks into this thinking she's about to hang a Hexenzeit and end the Bastard Knight. The same week, they empty their house and vanish into the country?" He turned, slowly, taking in the gutted study. "It doesn't fit. Why run, if you think you're winning?"
+
+Lena crouched by the dead fire and turned over a scrap of ash with one finger.
+
+“He stopped being useful. The princess has money. What she wanted from them was the Snow Dream, and only the Snow Dream. Without it, there’s no reason to keep the Aurichts close. Or…”
+
+She let the ash fall.
+
+“Or?” Henrik asked.
+
+“Something has been bothering me,” Lena explained. “How did they know we would arrive that day? How were they prepared for us, when we only transmitted our location to headquarters the day before?”
+
+Henrik fell silent, thoughtful.
+
+“Or we have someone inside the Iron Cross leaking information,” Lena finished.
+
+Henrik exhaled and called over his shoulder to the other knights. "Put it in the papers. Hunt the Aurichts."

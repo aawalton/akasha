@@ -1,0 +1,213 @@
+---
+id: ce1262e4-8fdd-5dde-84f0-99c19a180577
+page-type-slug: story-chapter-royal-road
+title: "Chapter 135:Cause Chaos"
+slug: 0135-chapter-135cause-chaos
+partOf: phoenix-ascension-cultivation-litrpg
+position: 135
+ownLength: 2435
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3493476/chapter-135cause-chaos"
+royalRoadId: "3493476"
+---
+
+It was time to begin my spy mission. Before that, though, I had to sit through a boring ceremony. Thankfully, I could pretend to sleep and let time pass.
+
+At first, I was worried we would be sitting on the table for the whole three days, but after the first day ended, we were taken away. That gave me two days of being allowed to scoop around without many people noticing, since most of them were out celebrating.
+
+They kept my cage covered for the road— very rude of them— but my Divine Sense wasn’t blocked. I was a little skeptic about using it though, since I wasn’t in a backwater country anymore. If any Golden Core or even Core Formation expertes detected my liberal use of the Divine Sense they would get suspicious.
+
+Not to mention I immediately noticed that many of the buildings had wards to prevent intrusion via Divine Sense or other means. The best option was to stay put and work on being stealthier.
+
+My current stealth skills were pretty good, but I figured I would need some others if I wanted this mission to go smoothly. Unfortunately, I didn’t want to spend my scarce skill points, so I would need to figure out another way.
+
+There were Qi-based options, but there would be wards against that. Being there physically would be the best option, but that meant either sneaking out or having someone bring me around as a harmless pet.
+
+Either of which would be a little difficult, considering the mansion. There were probably measures put in place to stop any intruders or outruders as well.
+
+All in all, Meng Mao’s missing was a little complicated, but well worth it if I managed to steal and refine the Qilin Horn.
+
+Just imagining all the Lightning Affinity…
+
+It would be quite a lot, and if the horn didn’t get damaged, it could make for a formidable weapon too.
+
+Until then though I would need to be a proper cute and harmless bird. To that end, Perfect Disguise was going to be perfect. Paired with my high Charisma stat, I was confident I would be able to pull something good off.
+
+I stopped paying attention to my surroundings for a while as I modelised the best image of a cute bird that still looked similar enough to my current appearance. Bigger eyes here, fluffier feathers, normal colored feathers as well, and a slightly longer beak so I look more like a Vermilion Bird.
+
+It was the closest thing to a Phoenix that wasn’t a Phoenix, and probably the best choice. There were a few more tweaks that I had to do to my appearance than I would have liked to, but it was better to be safe than sorry.
+
+As I was doing that, I couldn’t help but wonder why had Perfect Disguise not ranked up yet. It being at the Intermediate rank meant that it was much more effective in fooling people, but it also meant that it took ages to rank up.
+
+Well, if that rank wasn’t enough then maybe it would when I needed it most. That would remain to be seen.
+
+Soon enough, the cloth that covered my cage got taken off, and I found myself in a very, very large space. It looked like a natural forest, with trees, leaves and natural sunlight. There were rocks, vines and even bugs, as well as a working, flowing river.
+
+A breeze blew, cradling my cage slightly. I’d turned on the disguise already, and I could somewhat see what I looked like with Divine Sense, but a reflection would have been more appreciated.
+
+Either way, it didn’t matter. Looking around, I got really gloomy, even angry. There wasn’t a single animal that was free. All of them were held in cages barely bigger than them. Proud beasts that once roamed the forest and mountains, kept captive by the whims of a brat.
+
+All of their cages were magically enhanced so they would not get away. Mine was the only exception, but Meng Mao made a good excuse for it.
+
+The newcomers that came in with me were looking around more with fear than curiosity, and I felt for them. If I were in the same situation I would definitely not be content. To top it all of, their cages also had restrictions that didn’t even let them touch the metal.
+
+It was completely mental.
+
+Suddenly, I felt like burning this place down.
+
+But it wasn’t the time, not yet.
+
+With my cage uncovered and hung from the branch of a tree, I sat and waited. Using my enhanced ears, I listened for the rustle and bustle of the outside. I had to know when that man would leave the party.
+
+Before I could even get comfortable, though, a booming sound echoed through the small ecosystem. It was like a door that slammed open, but from very far away.
+
+It took about two minutes for someone to appear, running in with excitement.
+
+A small girl with curly colden locks, wearing a cute pink dress, rushed in followed by two maids and one butler. The three of them were well into the late stage of Foundation Establishment, while the girl wasn’t even at the first stage of Qi Condensation.
+
+She wasn’t lagging behind, though. From what I could sense, she’d been using pills, elixirs, fruits and other Qi sources to improve her meridians and body. She was doing what the cultivator would call a Body Refinement.
+
+Not many could afford to do that, since the required ingredients were expensive and the process was time-consuming. Well, not many in the lower parts of the continent or realm. Rich people had everything they wanted, and would not hesitate to spoil their children.
+
+Unfortunately that led to a lot of entitlement and face slapping. I was wondering if the little girl was also entitled.
+
+I studied her closely without drawing much attention to me. Well, I tried not to, at least. The butler’s eyes were very sharp, as he scanned all of us new arrivals right as his eyes landed on us. It was creepy, but  I was very trusting in Perfect Disguise.
+
+His eyes lingered on me for far longer than they should have, but I supposed that was normal. After that, when the girl got closer to the new cages, she bent down and looked at the first one— The White Tiger.
+
+He was small, smaller than he should have been, probably malnourished. The poor thing hadn’t even formed its core yet —hell, he wasn’t even level five— and had been captured. For a cub so young to have ended up in such a situation, there was no doubt that his mother had been killed, or some other awful fate had befallen her.
+
+I could not help but think about the two cubs I’d turned into Orphans all the way back then, and sure enough, after checking their page, they still hated me.
+
+[Name: ??? ]
+
+[Affiliation: ???]
+
+[Age: 2]
+
+[Titles: ???]
+
+[Lvl: ???]
+
+[Cultivation: ??? ] (The cultivation realm and stage of the enemy)
+
+[Enmity Level: Deep]
+
+[Relationship: Sworn Enemies]
+
+[Status: Alive ]
+
+I began feeling guilty. They were placed in the same tab, their portraits not having changed ever since I last saw them. I was wondering if I would even recognise them if we met again.
+
+I stopped looking at it when the butler spoke.
+
+“That is a Metal Tiger Cub, a rare mutation of the White Tiger species. Only one in ten thousand are naturally born as Metal, and of them, many die young. This one was born without the natural lines that a tiger should posses, so he looks to be completely white. Usually, they are very aggressive, but because of the tamer’s skills, he’d become subservient.”
+
+“Awesome!” The little girl’s voice rang out, scratching my brain. “Another kitty for my collection!”
+
+The butler scowled, but didn’t let it be seen on his face for more than a moment. The maids didn’t seem too excited about the prospect either.
+
+Whatever the case was though, the girl moved on after giving the sad tiger one last look.
+
+“This is a green turtle from the Blue Sealing Ocean. It’s small despite its age, and doesn’t eat a lot of food. Most of the time, it stays sealed in its cave until springtime comes, where it goes out in search for a mate. It can survive on land just as well as it does on water, and the deep green color helps it hide in many environments.”
+
+“Oooh, cute! How far away is the Blue Sealing Ocean? I’ve never heard of it.”
+
+“Thousands and thousands of li away, Young Mistress.”
+
+“Very interesting! I wasn’t expecting such a precious gift.”
+
+However, she only gave the turtle one last look before moving on to the next animal. For what it was worth, the turtle looked relaxed, but its level was absolutely terrifying.
+
+[Black Turtle, Lvl 45]
+
+A level forty five small, innocent turtle, kept captive by… a child that hasn’t even formed their dantian.
+
+I could only imagine how humiliating it must be. I’d also asked myself just how many beasts were in a similar situation?
+
+The girl went to look at the next animal, though she quickly stepped away after seeing that it was a snake.
+
+“This is a-” The butler began, but got quickly cut off by the child.
+
+“EWWW, KILL IT, KILL IT!!! AND KILL THE PERSON WHO GIFTED IT AS WELL!!”
+
+“Young Mistress, it’s a sign of good-”
+
+“I DON’T CARE! KILL IT! I DON’T WANT TO SEE IT AGAIN!”
+
+The maids and the butler looked at each other, exhaustion clear in their eyes.
+
+They let out a sigh and bowed. “As you wish.”
+
+The snake, a level twenty five King Myriad Serpent, looked to be terrified, and was now trying to escape. It was too bad, as it would not be able. The fucker that made the cage was really good at enchanements.
+
+Eventually, it stopped thrashing, but there was a clear unwillingness in its eyes. Thanfkully, the butler did not immediately kill it, but put it out of sight and then the girl moved on to the next gift.
+
+Which wasn’t me, but another bird. A very small bird.
+
+She —I assumed it was a she anyway— was only level ten and the size of a gourd. Her feathers were a beautiful orange colors, a little bit duller than mine. She wasn’t a Phoenix though, nor was she a Vermillion Bird.
+
+Instead, her race was something called a ‘Scarlet Finch’, though she didn’t seem to be an adult. I remember them having a black colored tail as well, so that was something new. There was also something about her I couldn’t quite put my talon on…
+
+She stared at me for a moment before the butler gave her introduction, but I started tunning out the words. I didn’t really care, and the girl’s reaction interested me even less. There would be no redemption for her.
+
+When they finally got to me, the butler was at a little bit of a loss. I was wondering what sort of information Meng Mao gave them.
+
+“This is a very rare and auspicious Vermillion Bird chick. She was captured many li away from here by Meng Mao, and was given to you as a gift. Vermillion Birds are very rare, expensive and valuable. Their bodies are heavenly treasures, especially at maturity. Their blood can heal many wounds, and their essence can awaken the fire affinity in cultivaotrs, or improve their fire aspect. They are a distant relative of the ethereal Phoenix, but do not posses their ability to revive after death.”
+
+“Woooooooooooow!” The little girl’s eyes shone as she looked at me like I was a really big Spirit Stone. She began jumping up and down, screeching with excitement. “I can’t believe that slimy man would gift me something like this!”
+
+“Yeah… Me neither.” The butler said, his eyes gazing at me with suspicion. I did my best impression of a dumb bird that I could, and he seemed satisifed with that.
+
+“We can see them later after they’ve been properly trained, alright?” The maids bent down and picked up the little girl, who now seemed far les energetic than before. She nodded and leaned her head on the maid’s shoulder, hands wrapped around her neck.
+
+The maid smiled and walked away with the butler in the lead. Right before he left, he gave me one last look, then disappeared into the fake forest.
+
+That man knew something was up.
+
+‘How long are you going to pretend?’ An old, ancient-like voice sounded in my ear, and I wasn’t sure where it’d come from.
+
+What? I asked in my head, quickly realising that whoever it was used the Telepathy skill.
+
+‘So you’re not a block head, good. Look down.’
+
+I did, and saw the black turtle looking up at me.
+
+You?
+
+‘Yes.’ He nodded. ‘I do wonder how a Phoenix had gotten captured, but you’re not all that strong, are you?”
+
+Huh? What are you talking about? I’m not a Phoenix! I replied, but quickly realised that he was a Spirit Beast, so he had a system.
+
+Wait, you can read?!
+
+‘I can do much more than that, but yes, I can read the human scripts. I do wonder why this system has decided to not let the vast majority of us understand it, but there must be a reason.’
+
+You’ve already gotten that much information?
+
+‘Pah! Already?! Child, I am possibly older than your mother!’
+
+That old and only level forty five…
+
+‘Huh! You-’ The Black Turtle’s eyes widened as he looked at me, and I couldnot help but laugh.
+
+Forgive me, Elder. I was just joking. I know that levelling is difficult, I almost died trying to hunt something stronger than me.
+
+‘Hmph!’ The Elder turtle snorted. ‘Forget about that, tell me, what are you here for?’
+
+What do you mean?
+
+‘I can’t imagine you got captured, but then again, I did. However, you were the only one without any reaction, so you’re either dumb as a brick or have a purpose.’
+
+Damn, you’re smart.
+
+‘Not just me.’ He chuckled, staring toward the exit. ‘I suspect your mission is going to be harder now.’
+
+Ah god damn it. Was I that obvious?
+
+‘Yes… But you stil haven’t told me what you’re here to do.’
+
+A small metaphorical smile spread on my non existent lips then, and I looked straight at the turtle with a burning desire to destroy.
+
+Cause chaos.

@@ -3,7 +3,7 @@ id: 4f605e76-22f2-50dc-985a-9c5c9271dcf8
 page-type-slug: page-type
 title: "Named event"
 extends-slug: page
-files: stories:**/*.named-event.md
+files: akasha:**/*.named-event.md
 body-shape-slug: empty
 slug: named-event
 plural-slug: named-events

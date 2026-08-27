@@ -1,0 +1,153 @@
+---
+id: 0998ffa9-3baa-56f5-9f99-c933b5abf609
+page-type-slug: story-chapter-royal-road
+title: "Chapter 120 – Holy vs Horrible"
+slug: 0120-chapter-120-holy-vs-horrible
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 120
+ownLength: 2195
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3369464/chapter-120-holy-vs-horrible"
+royalRoadId: "3369464"
+---
+
+Liora instantly turned into her aethral form. The cavern was large enough to accommodate her size, and she needed all of her strength to fight these zombies.
+
+Her first instinct was to combine Holy Light with Wind Blast in hopes that it would defeat all of these zombies at once. But these guys moved completely differently when compared to the others. The archer and the gunslinger remained where they were and instantly shot their projectiles at Liora and Cee.
+
+Cee disappeared into the shadows while Liora used Featherflash, hoping that the skill would blind the zombies for a moment. But as she dodged the arrows and bullets coming her way as a mote of light, she saw that her bright flash did little to them.
+
+In fact, they didn't look bothered at all. Either their eyes weren't sensitive to light, or they were using some other sense entirely. How did zombies sense the world around them? Does some brain-locating sense similar to Liora's treasure sense?
+
+As soon as Liora materialized, she used Fade to test whether she could hide from zombies this way. Much to her relief, they didn't seem to be able to see her, the mage, paladin, and warrior looking around aimlessly as both of their targets disappeared.
+
+Liora used the chance to fly straight at the gunslinger. In her opinion, this zombie was the most dangerous one. If it could do even one tenth of what Morgana could, then Liora and Cee were certainly in trouble.
+
+Right as the timing on her Fade ran out, Liora flew right to the gunslinger and attacked with Lunge, which combined with Holy Light.
+
+[You've successfully formed a skill <Holy Lunge>.]
+
+Liora's attack connected with the gunslinger zombie's arm, which it had raised just in time for defense. Unfortunately for the zombie, the holy magic and the power of her beak combined were enough to sever the nasty limb clean off. The feeling was extremely disgusting. The smell of the rotting limb was horrendous.
+
+Ew, ew, eww!
+
+Unable to endure the nasty smell, Liora dove down to the water by the cavern floor, hurriedly rinsing the zombie bits off herself. Suddenly, she was very much thankful for all the water around.
+
+The gunslingers proceeded with a loud growl, which she assumed to be the zombie equivalent of "Screw you!". Liora would have liked to attack the gunslinger some more, but its archer comrade was already shooting arrows at her, forcing her to weave and dodge out of their path.
+
+The arrows were fast, but not so fast that Aerial Agility wouldn't be able to keep up. For better maneuverability, Liora switched to her Magpie Disguise, which made her into an even more difficult target to hit.
+
+Excellent use of form switching!
+
+Liora felt proud of the silent praise. Once she was close enough to the archer, she switched to the aethral form and once again executed the Holy Lunge, aiming for the head.
+
+The Archer zombie managed to dodge enough so its head wouldn't be blown clean off its shoulders. But Liora still managed to do horrible damage to the head cavity, smashing most of the top off. For a human, that would be a lethal wound, but it seemed that for zombie-kind, it was but a scratch.
+
+However, soon Liora realized that she had underestimated the zombies. The zombie priest raised its staff, emitting a dark, deeply unsettling aura that engulfed nearly the whole cavern.
+
+Black tendrils came from the gunslinger's zombie severed arm stump and shot towards the arm that lay in the shallow water. The tendrils pulled the arm back into the previous location, mending it as if it had never been severed in the first place. Similar black tendrils appeared on the head of the archer zombie and quickly closed up the damage Liora had done to the skull.
+
+That just isn't fair!
+
+Zombie priest… that has to be the most terrifying thing I've seen.
+
+"Liora, here!" Cee waved from the other side of the cavern.
+
+While Liora had been distracting the zombies, the spider must have been hard at work weaving webs. With her sharp eyes, she saw the translucent webs covering a good chunk of the cavern on the other side.
+
+Turning into her magpie form, Liora flew past the mage, warrior, and paladin zombie who had been running towards Liora in an attempt to join the fight. But they were too slow to keep up with her.
+
+The mage zombie did attempt to roast her with a fireball, but it was easy enough to dodge. Had it even tried to hit her? It appeared as a rather half-hearted attempt.
+
+"NOOO!" Cee suddenly screeched as the fireball collided with her web network, instantly burning it all to a crisp.
+
+"Damned zombies," Liora snarled, and, losing her temper, decided to give these nasty creatures a good holy dousing.
+
+With powerful flaps of her wings, she combined Holy Light with Wind Blast, imagining loads of tiny light beams striking at the zombies.
+
+[You've successfully formed a skill <Light Blast>.]
+
+It wasn't the most successful formation of the skills she had done. Instead of the light beam barrage she imagined, the skill actually emitted a blast of visible light magic, which behaved much like the wind. It appeared that the compatibility of the skill had made up for her lack of imagination.
+
+But it wasn't very powerful. All of the zombies smoked for a little bit when the Light Blast hit them, but the dark aura created by the zombie priest quickly healed them.
+
+I need to get rid of that priest, but I'm basically on my own. Cee can't weave her webs on the ground because of all the water. Bedrock Mandala is out of the question, too.
+
+She could try combining Poison Shot with her elemental webs for elemental shot attacks. Your Holy Imbuement should still be active too.
+
+"Cee, combine Poison Shot with your elemental webs," Liora called out, and Faded, hoping to strike a lethal blow on the zombie healer.
+
+The spider quickly understood Liora and shot a ball that seemed to crackle with electricity at the zombie healer. It appeared her image hadn't been right, as the ball fizzled out before it could reach its target.
+
+Unfortunately, Cee couldn't launch her next attack as the gunslinger and archer both shot at her. She disappeared into the safety of the shadows. Meanwhile, Liora had made her way to the zombie healer, readying to strike her with Holy Lunge.
+
+But before she could, the zombie paladin let out a loud gurgled scream which echoed through the cavern.
+
+[You have been taunted.]
+
+Motherfuc—
+
+Liora felt that most unpleasant compulsion, her body turning away from the zombie healer, seemingly against her will, and going for the zombie paladin instead. Since it was some distance away, Liora's Fade ended, and she was once again exposed to the zombies.
+
+Warrior ran straight at her, brandishing double swords at her. For a zombie, it was incredibly agile, narrowing the distance between Liora and itself in the blink of an eye. Liora used Featherflash to get herself to safety, but it was clear that this wouldn't last long. They needed to break the perfect synchronization that this zombie team has achieved.
+
+Cee reappeared somewhere on the ceiling, shooting an ice ball—likely named Ice Shot—at the paladin. The mage, archer, and gunslingers were on her tail at once, clearly having chosen her as the main target, likely because Liora was too difficult for them to hit.
+
+But Liora wouldn't let her spidery friend be injured. She flew straight in the path of the projectiles and used the Aegis Cyclone. Bullets, arrows, and fireballs were flung away, protecting Liora and Cee both.
+
+While all of that was happening, Liora noticed something interesting with the corner of her eye. The Ice Shot Cee had directed at the paladin had struck its leg and created a coating of ice that went down to the water, freezing it slightly by the zombie's leg. There was also a slight fizzling caused by the Holy Imbuement, but that was almost instantly healed by the dark aura.
+
+One strong pull was all that was required for the zombie to pull itself free. But this was undoubtedly an opportunity. Liora turned to Cee, but seeing the glint in the spider's eyes understood that the spider had realized it too. She began jumping all around the place, aiming Ice Shots not at the zombies, but rather at the water beneath their feet.
+
+Warrior and Paladin got frozen in place first, struggling to get free. Liora flew above the paladin as quickly as she could while dodging arrows, bullets, and fireballs alike, and then dropped onto its head. That heavy armor wouldn't save it from her combined skill strike.
+
+[You've successfully formed a skill <Light Strike>.]
+
+She collided with the helmet with such might that the zombie's head popped off like a grape off a vine and went flying, dropping somewhere in the water. Much to Liora's distaste, the zombie didn't collapse despite the destroyed head. However, she could feel Taunt lifting.
+
+Cee, in the meanwhile, had managed to secure the zombie healer and zombie mage to their spots while continuing to jump around much as a flea would. An unflattering comparison, perhaps, but an apt one, because Cee didn't stay in one spot for longer than a second.
+
+Liora Faded again and flew at the zombie priest as it struggled to dislodge itself from the ice. The zombie warrior had managed to free itself and was rushing to the priest's defense. But since it couldn't see Liora, she just flew around him and attacked the zombie priest with the Light Lunge.
+
+The attack connected, instantly destroying the zombie's head. But Liora didn't stop. She combined Rend with Holy Light for another new skill.
+
+[You've successfully formed a skill <Holy Rend>.]
+
+With it, she tore at the zombie, doing her best to ignore the nastiness. She pulled its arm off, then the other, then destroyed the chest. Before the zombie warrior could reach her for an attack, the zombie priest was destroyed, and the dark aura, which had already managed to heal the zombie paladin, was gone.
+
+[You've defeated <Fallen Hero Priest – Level 35>. Experience gained.]
+
+"Take that, smelly zombies!" Liora announced with glee as she activated Aegis Cyclone to repel incoming projectiles and push the dangerously close zombie warrior some distance away.
+
+With the cyclone active, she managed to distance herself from the zombies, but she couldn't keep it up for long as it ate away too much of her mana. She was already down to just the third of her mana. Other zombies would have been dealt with swiftly.
+
+"Blraghh!" The zombie mage suddenly exclaimed and hit the ground with its staff. In a matter of seconds, all of the water in the cavern evaporated, creating a steam explosion.
+
+Liora and Cee are both caught in the blast of hot steam. Liora instinctively closed her eyes, and for a moment, she felt like her whole body was burning. But the initial heat disappeared rather quickly, leaving an unpleasant singed feeling on her body.
+
+The whole cavern was now filled with fog. Liora could easily see some five meters around herself, but anything beyond that was invisible. Everything was also eerily silent, with Liora's wing flaps being the only audible noise.
+
+Shit!
+
+Arrows and gunshots and fireballs erupted in Liora's direction. She activated Aegis Cyclone at once, deflecting the projectiles and dissipating some of the fog. It was disappearing rather quickly, and soon she was able to see more projectiles aimed at her.
+
+Liora had no choice but to keep her shield up, even though she could feel her mana draining at an alarming rate. The moment it felt like she would run dry, she used Featherflash to disappear as a mote of light within the fog. Nobody should be able to hit or detect her.
+
+[Your skill Featherflash has reached [Adept] level.]
+
+[Featherflash – Flash your feathers so brightly that it briefly blinds your enemies. At [Adept] level after the flash, you turn into an intangible mote of light for 5 seconds.]
+
+As soon as she materialized, she Faded hoping to throw the zombies off her trail even further. Fog was settling down, finally revealing the paladin and warrior zombies who had sneaked their way to the place where Liora had been before. How did they manage to move so silently?
+
+But Liora kept flying, hoping that she would be able to locate one of the far-range attackers. She knew the approximate location of them, following the source of their projectiles. Right as her Fade ran out, she noticed the mage, standing still and holding his staff up.
+
+He's preparing for a powerful spell. You must disrupt him!
+
+Here goes my last mana.
+
+Liora combined Holy Light with Air Slash and aimed the attack straight at the zombie mage.
+
+[You've successfully formed a skill <Holy Slash>.]
+
+For a moment, it seemed like her attack would connect successfully. But before it could, a powerful blast of magic erupted from the zombie mage, sending Liora backwards.

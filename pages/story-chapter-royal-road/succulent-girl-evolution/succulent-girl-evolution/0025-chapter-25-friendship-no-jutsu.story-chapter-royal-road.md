@@ -1,0 +1,121 @@
+---
+id: 1e70c2f1-5fed-5fc5-aaf5-8f7c39d696e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: Friendship no jutsu"
+slug: 0025-chapter-25-friendship-no-jutsu
+partOf: succulent-girl-evolution
+position: 25
+ownLength: 2392
+unit: words
+publishedAt: 2025-09-20
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2615478/chapter-25-friendship-no-jutsu"
+royalRoadId: "2615478"
+---
+
+Link fell asleep immediately that night, leaving Bubbles alone with her thoughts. Miss Magpie hadn’t returned yet, though she had warned them she needed at least one whole day to reach consensus with her brethren, and perhaps a second or third day to come back with the first wave of help. Given how much Link had accomplished during their first day, Miss Fish was optimistic that they could keep the wisteria at bay until Miss Magpie came back.
+
+Rock and Fern were tired, too. Fern because she had spent all day working, and Rock because he spent a lot of effort optimizing the energy usage Fern brought in. Bubbles was grateful to him. After he had strengthened Bubbles’s exterior (he called her leaves “carapaces” with pride, though it conjured up an image of a beetle’s shell in her mind), he ordered Cuddles to begin experimenting with different Pierce formations. The end result was that Cuddles had developed several new varieties of spikes: groupings of tiny prickles, barely visible; individual clusters of short spikes; even a particularly wicked hook spine that accidentally caught onto a robin’s tail feathers as it took off. With all of the practice Cuddles had in growing spines, they could now pop out any sort of spine at a moment’s notice, so Cuddles rested with the peace of a job well done.
+
+Bubbles was happy for everyone. Really. Things looked optimistic, and everyone was growing. Except for her.
+
+She stirred her new root in the water. Well… I guess I did grow. Technically. She hadn’t noticed before how many pieces of the small roots would snap off before her latest transformation. This new root highlighted the weaknesses of the old roots: because they were constantly shedding due to being exposed to all sorts of elements and abuse aboveground, it always took a bit longer to soak up water. With these new, sturdier roots, she didn’t have to spend time regrowing roots in order to begin slurping up any water.
+
+Regardless, these improvements she received weren’t due to her. It was thanks to Rock. She was still… useless.
+
+Bubbles (the watery kind) floated up, touching Bubbles’s root. Miss Fish slowly surfaced, looking at her with those wide-set eyes of hers. “Can’t sleep?”
+
+“No,” Bubbles said quietly, trying not to disturb Link or anyone else. “You can’t either?”
+
+“No,” Miss Fish admitted. She hesitated, glancing over at Link, who was snoring. “Want to come outside to talk?”
+
+Bubbles didn’t really; she wanted to just lay there and sort out her thoughts. But the way Miss Fish was looking at her, her scales gleaming in the moonlight, made her seem particularly sad. And seeing Miss Fish sad made her feel even worse.
+
+“Okay.” Bubbles was swept into another bubble, and a short while later they returned to the main pond, which was now illuminated in silver by the moon overhead instead of the pink, blue, and purple hues of the flower clusters Bubbles had thought were really pretty the past several days.
+
+“Thank you for all your help today,” Miss Fish said softly as Bubbles replanted herself at the water’s edge. “You’ve all given me hope.”
+
+“Everyone did well,” Bubbles agreed uncomfortably. Eager to change the topic of conversation, she said, “You’re looking a lot better today than you were yesterday.”
+
+“Ah, yes, thank you.” Miss Fish blushed. “I have an ability that allows me to recover quickly. The poison pill I swallowed last night was hindering it, but once I purged it I was able to recover throughout the course of the day. You’re also looking much improved—much stronger than before!”
+
+Bubbles heard the excitement in Miss Fish’s voice when referring to her changed appearance, and that made her feel more guilty. “Yes, Rock did a good job strengthening me…”
+
+Miss Fish cocked her head in the water. “You seem to be avoiding taking credit for anything. What’s wrong?”
+
+“I haven’t contributed anything. Everyone else did all the work,” Bubbles said softly, her voice stifled by the earth. “I look different, but it’s not because of my own efforts.”
+
+Silence floated between the two of them.
+
+“It shocks me to hear you think that way,” Miss Fish finally said. “From where I am, I think you have done a lot. And it inspires me.”
+
+“What?” Bubbles lifted herself from the earth a bit to get a better look at Miss Fish. Miss Fish splashed gently at her.
+
+“Look at me. I have at least a century of experience on you, and I wasn’t able to do anything for my forest until you and your friends came along.” Miss Fish spread her fins in the water and lifted herself with a small wave, so that she was standing upright for a brief moment before she splashed back down. “You’re still a nascent plant, and you’ve somehow already collected a group of friends with diverse strengths.”
+
+“I guess so,” Bubbles said dubiously. “But… they’re the ones with the power to do anything. I just… run.”
+
+“But you saved your friends, didn’t you?” Miss Fish flicked small streams of water at Fern and Cuddles, rousing the two slumbering plants. “From what you told me, Fern and Cuddles were already chopped down, and had no chance of recovering. You gave them a second chance at life. And you saved Sir Link as well, from his life of servitude.”
+
+“I wouldn’t have been able to do any of those things without Rock,” Bubbles protested.
+
+[And I would not have been able to grant you any of those opportunities if you were not a suitable vessel.]
+
+“Did we wake you?” Bubbles asked, chagrined.
+
+[Do not worry. I do not sleep. However, the fish makes a good point. Even if you did not have these abilities before meeting me, that does not mean you are an easily replaceable vessel.] Miss Fish nodded gravely at Rock’s declaration, as if she understood exactly what he meant, though Bubbles didn’t know how she could. [It is true I can materially transform other organisms in a short period of time, but you have a uniquely strong sense of desire to improve yourself—not for your own gain or selfish motive, but to help others. That desire to always become better allows you to take to the adaptations more easily, with fewer pains and struggles. Coupled with the motivation to protect and defend others… that gives me confidence in granting my power for your changes.]
+
+“But—you didn’t have a choice with me,” Bubbles said, flustered. “You said you were trapped with me…”
+
+[Choices are interesting, as they are ongoing processes,] Rock said gravely. [At any time, I could have chosen to stop aiding your growth. I choose to continue, because I see your potential.]
+
+“Just like you had several choices you made before showing up at my pond,” Miss Fish said gently. Her tail flicked in the water. “All of your choices have led to you making your friends… and I’m sure they don’t regret your choices, either.”
+
+Fern clamped the opening of her well against the closest one of Bubbles’s leaves briefly in a sloppy kiss, and Cuddles dropped the small prickles that had been slowly growing on them to press against Bubbles’s trunk for a hug.
+
+[To turn your words back on you: how would the plants and I have gotten this far, if not for you? You are our true anchor, the glue that saved us and held us all together.]
+
+Bubbles couldn’t hold it in anymore: she began expelling water through her leaves, much to the alarm of Fern and Cuddles.
+
+“You’re all too nice,” she wailed. “You’re the ones who do amazing things, and all I do is carry you around. You protect me and take care of my needs. I’m not doing my fair share!”
+
+“Oftentimes, it’s not about how much or what you do… it’s about how you make people feel,” Miss Fish said gently. She smiled sadly. “Look at me. I am confident in my abilities, and I’ve done my best to make sure my forest is a comfortable and easy place to live. That still didn’t make my denizens happy… they all lost hope in me, enough to depart. If it weren’t for the baby birds I took in…”
+
+Miss Fish looked all around the small clearing Link made earlier, before looking back down at the water she was floating in. “I’m good at a lot of things, but I’m restricted to my waterways. Seeing your teamwork, I can’t help but wonder how much good I could do if I had a similar support system…”
+
+A support system. Bubbles hadn’t quite thought about it like that before. As a plant, she inherently understood that every part of her body served a different function: her leaves absorbed sunlight. Her roots absorbed water. Her stems and trunk enabled the sun and water to mix together into energy for her to live, and even grow.
+
+If she was missing any of those structures, she would die. Just as it was ridiculous to reduce herself down to either just her leaves, her stem, or her roots, it was just as ridiculous to think that Fern and Cuddles could have done just as well without her. So she had to stop thinking of herself as a separate entity, stop comparing herself to everyone else… she was part of the system, and her job was to support everybody, and help them achieve their full potential.
+
+And she was more than happy to do it.
+
+“Thank you, everyone,” Bubbles said, her voice quivering. She gathered her scrambled emotions together: a fullness in her stems, inexplicable buoyancy in her core, a delicate, shivering bit of faith that everything would work out.
+
+She felt… hope. No, more than hope. She felt security, faith in the steady bonds of her friends. They needed her… they trusted her.
+
+As long as she was with her friends, they could do anything together. Her emotions overwhelmed her, and her next words burst out of her.
+
+“I lost sight of myself… you all made me into what I am today, and I promise I will make you all better so you can continue making me better!”
+
+Fern and Cuddles waved their leaves and needles, respectively, while Rock sent an approving pulse through the three of them. Miss Fish smiled, glad to see the unique little plant monster’s spirit return to its original form: a steady and bright flame, small but powerful.
+
+As the plants wept together, promising eternal gratitude and loyalty to each other, Miss Fish gazed at her surroundings, her eyes lingering on the waterfall that marked the entrance of her home.
+
+Her Rock was right. Throughout the decades, he had gently hinted at her, then suggested, then eventually outright cajoled her into reaching out to make connections with others. Show her vulnerability, build some bridges with others; allow others to do her favors so that she could return favors.
+
+But she was a fish. Her worst fear was being perceived as deadweight. She wasn’t like a frog or turtle, animals which could walk about on land, despite being primarily water creatures. She felt completely undeserving of being chosen as a Guardian by a mana mineral… so she resolved to hone her skills so that she could become an equal to every other animal in the forest.
+
+She never accepted offers of teamwork, believing that she hadn’t yet perfected her skills enough to aid in others’ goals—and she didn’t think it was fair to depend on others to achieve her own goals. The result was that yes, she grew stronger, more skilled; however, she also isolated herself. The forest grew lush under her management, and everything thrived—to the detriment of the wisteria flower. However, everyone forgot she existed. Even when the new breed of wisteria started growing out of control, nobody came to her to let her know, so she didn’t have a chance to nip it in the bud.
+
+Not that she could; she had scattered the wisteria seeds from her pond because she didn’t have land partners to plant the seed for her. And other than vague impressions of where the seeds landed, as well as her Rock’s dim impressions of where the growths extended to, she had no idea where the wisteria was at.
+
+So… she became the self-fulfilling prophecy she was so afraid of. The useless fish who created problems that were out of her control because she couldn’t go on land to handle the consequences of her actions.
+
+Bubbles turned to Miss Fish, reaching out her roots towards her. Miss Fish smiled and came closer, letting Bubbles rest her roots on her head. “And you! Your magic abilities are so cool. You became so strong all by yourself, and I know you feel bad about what’s happening in the forest right now, but we’ll work together and get it all back to the way it was! You’ve learned your lessons, you’re already making friends and positive changes, and I know you’ll make the forest the best home it can be!”
+
+Overwhelmed by the confidence the plant had in her, she nearly teared up again. But with Bubbles’s genuine, unshakeable, almost childlike belief in her, she felt like she couldn’t let her down.
+
+Miss Fish returned Bubbles and her plant-friends back to the cave, where Sir Link was sprawled out and snoring. As she bade them goodnight, she comforted herself: at least she finally did reach out for help, even though it was to strangers. It had been agonizing, admitting her missteps and failures to them, but they had been kind and didn’t shame her for her actions—not more than necessary, at least.
+
+In the face of Bubbles’s purehearted belief, Miss Fish was finally able to admit to herself: her priority hadn’t been for the good of the forest, as she had kept saying. Her drive to improve herself, become a powerful Guardian, was purely for the sake of her own pathetic ego. If she had been more like little Bubbles, and directed her efforts towards protecting and helping others instead of focusing on her own insecurities, then… she may be less capable on an individual level, but she would have more influence over the domain granted to her.
+
+Perhaps she might even have had the courage and support to achieve her final form…

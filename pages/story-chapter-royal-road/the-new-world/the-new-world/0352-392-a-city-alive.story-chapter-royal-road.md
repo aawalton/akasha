@@ -1,0 +1,341 @@
+---
+id: cc495314-0a12-5280-bec0-a26d892ca45b
+page-type-slug: story-chapter-royal-road
+title: "392  A City Alive"
+slug: 0352-392-a-city-alive
+partOf: the-new-world
+position: 352
+ownLength: 4057
+unit: words
+ownProgress: 4057
+publishedAt: 2025-03-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2118331/392-a-city-alive"
+royalRoadId: "2118331"
+markedReadAt: "2026-06-29T21:33:21.401Z"
+---
+
+Plazia laughed aloud but thought in a whisper.
+
+"At times, a man only needs a monster, and he will find his fury. And I have no alms with being a monster if that is what is needed."
+
+I tapped my side.
+
+"Ah. You're giving them something to fight for. Be careful with manipulating people like that. You lose people's trust."
+
+Plazia's words echoed in my psyche as if many voices resonated.
+
+"Noted. What of your plans?"
+
+I cracked my knuckles, the sound like cables snapping underwater.
+
+"I'm going to see what makes a rift uncloseable."
+
+Chapter Begin
+
+Turning to walk off, my dimensional fabric orb slammed into a bookshelf. The orb, more like a wrecking ball, crushed the shelf into splinters and ripped books into confetti. After catching the disaster with gravity, the devastation hovered in a stasis as if time stopped.
+
+I gawked at the destruction.
+
+"I need a better solution for this size thing."
+
+Plazia cackled.
+
+"Mass doesn't simply disappear."
+
+The hivemind took his Sentinal spear before swinging it in a few circles. With a quick swipe, he ripped apart space-time, revealing a vast ocean before him. The familiar smell of Blegara funneled into the room, the water world resplendent in its sunset.
+
+Plazia stepped through the void.
+
+"Good luck, Harbinger."
+
+As the warp resutured together, an idea popped into my head. I reached out with my arm, stopping the warp from closing. With my hand in Blegara, I took my other hand and wrenched the warp open. Plazia peered down at his spear before gawking at me.
+
+"Was there something left unsaid?"
+
+I shook my head, pointing at the rip.
+
+"No. Would you mind if I kept this open?"
+
+Plazia lifted his dimensional slicer, and it radiated with violet energy.
+
+"This spear is maintaining the calculations for the tear. It will shatter and decay if it is forced to maintain a portal."
+
+I snapped my fingers.
+
+"Dammit. Cya later then."
+
+I pulled myself out of the warp, cursing a bit to myself. As it snapped shut, I peered at the minced library. I called over a few guildsmen to handle the repairs and rewrites of the books. After spending a full hour helping with the cleanup and apologizing, I passed the tunnels of Mt. Verner like a dark ooze.
+
+Weaving through the dusty shafts, I flowed out into the wider world, the crisp air brushing against me. Man, I loved Earth. There was nowhere else like it. With the coordinates locked in, I rose high into the atmosphere before turning myself into a tiny harpoon. Gravity wells jerked me toward Chicago like a high-speed railway line, and I passed the sound barrier twice on the way there.
+
+As the spires of Chicago soared in the distance, I slowed down, not wanting to leave people in a panic. After flowing to the rooftops, I glided along the metro area. The place changed a lot in the last couple of years. Torix sent a group of our guildsmen to help the area recover from the culling, and the team handled their task with aplomb.
+
+Even from an aerial view, the changes carved across the cityscape like an artist giving new life to an old painting. The city of spires still stood over the lower city, but its grandeur and luxury contrasted with the hobbling lives below. Fresh marble covered the city tops, and artisans remade the bridges with glass and gold.
+
+That gold lined the rest of the upper city's architecture, a beacon to those coming close. Or so it seemed. Closing in, I could tell by their weight they were a shiny bronze made to imitate gold. Mirroring the architectural imitation, the people here wore expensive fabrics and precious metals.
+
+In my opinion, it was pointless material signaling. They lacked enchanted gear or powerful weapons, which were actual markers of wealth. As I saw a monocled man walking, I changed my mind in an instant. I was fool. The man sported an incredibly full and luscious mustache. He waxed it and shaped it into a curl, and as I saw it, I rubbed my own jaw.
+
+I hadn't grown any facial hair since I molded together with my armor. Of all the benefits the metal gave me, growing a beard wasn't one of them. I cursed my limitations before peering below. A line of scarred, ragged, or struggling people carved a line through the opulence. They waited on the gilded rooftops like a string of mold growing across smooth, polished marble.
+
+These less mustachioed members queued up by the hundreds, their single lane crisscrossing two entire bridges of the skyscrapers. They ended where my guild's encampment began. I recognized it instantly atop the Sears Tower. They built an outcrop of stone supported by beams of steel and saturated gravity wells below.
+
+It gave the architecture an alien appearance. That stemmed from the defiance of nature. Hilariously enough, the gialgathen warmed the entire visage since they felt more like fantasy creatures. Still, the overbearing pressure was undeniable, and the gialgathen lounged along the wall, soaking in the light.
+
+Its red and blue skin sheened in the sun. It set the scene like a coral reef popping out under the ocean. Adding to the effect, a layer of water kept the gialgathen hydrated. Beside him, a man in camo towered over the others close by, his combat fatigues and medals still shining from a war fought in the old world.
+
+He organized the distribution of supplies, keeping a stack of papers nearby to help him keep changes documented. He interacted with his status in a confused, helpless manner that only the elderly could imitate. As I landed beside him, our members gawked at me. I loomed over them, my shadow more significant than the gialgathen, who narrowed his eyes at me. I spread my hands.
+
+"Hey, is this our encampment?"
+
+Soaking in palpable fear, the lined-up refugees gazed at one another. The military man met my eye before giving me a single nod. He paced over to the edge of the encampment, facing the endless refugees. He raised his hands. His voice boomed.
+
+"This is the guildleader. I told you guys he's real, eh? All those days of talking behind my back. 'Is he actually real? Did Neel get back on drugs again? Maybe Neel's having another flashback from Nam?' Ha ha, well, now look who's sitting pretty."
+
+Neel raised two fingers, sending a crude gesture their way.
+
+"Suck on these nuts. Please don't mind how massive they are. It comes with the territory."
+
+Neel put his hands on his hips, a grin plastered to his face.
+
+"Ah, you have no idea how good that felt. Can't know. Maybe. I don't know."
+
+I raised my brow.
+
+"Probably not. What's the name?"
+
+I reached out a hand. He grabbed the tip of one of my fingers.
+
+"Neel Strotman. A member of the First Cavalry Division in Nam. I'm old enough to be your dad. You're strong enough to end mine."
+
+He gave me a wink.
+
+"Not that there's much to it these days. The system did do him some good though, just like it did me. But enough chatter, what brings you this way?"
+
+I gazed around.
+
+"I'm looking for an uncloseable dungeon."
+
+Neel peered off, fury flaring on his face.
+
+"Oh, I am gonna kill Jake and Gordan. Oh, they're done for. They'll be cleaning toilets with their toothbrushes." His eyes narrowed in menace.
+
+"And they ain't changing 'em out once they're done."
+
+I hoped he wasn't serious. He turned to me.
+
+"I sent Torix a message about all that. Not all of our guildmates are cut from the same cloth, yah see. I think I'll need to have a long talk with them about not over-alerting our superiors."
+
+The gialgathen eyed us from the back. It spoke with telepathy.
+
+"They left for weeks. There is good cause for their concerns."
+
+Neel raised his hands.
+
+"Oh looky here, the hoity-toity cat lizard finally stretching his paws and started meowing now that the guild leader is here."
+
+The gialgathen raised its horned brow.
+
+"These cats you speak of sound more intelligent than your kind."
+
+Neel turned to me.
+
+"Tell that to the Chinese. They eat 'em up by the pot full."
+
+A glint shined in his eye.
+
+"If you know what you're doing, they're not too bad. Had a few meself."
+
+A bit overwhelmed, I blinked.
+
+"In Nam, I'm assuming?"
+
+"No. Thailand. There was this cat infestation, and I couldn't let the meat go to waste. You learn a thing or two in a crisis. In my case, it's how good a cat can be with prawns, bamboo shoots, and mustard. Anyways, those two boneheads came back after a few months in a rift, saying it couldn't be closed. I'm just glad they came back, but if their report made you come here, well-"
+
+He smirked.
+
+"I've got to have a few coarse words to say to them."
+
+I shook my head.
+
+"It's more so I was curious rather than them raising a fuss."
+
+Neel's eyes narrowed.
+
+"I can smell the mercy on your breath, but I'm still reviewing the report. Hell might have to be paid in full, but I can wait until after you're finished with your inspection. Anywho, do you need directions?"
+
+"I have the coordinates. I was stopping by to see what was going on here."
+
+Neel snapped his fingers, glancing at the other members.
+
+"An impromptu check-up by the Harbinger himself. Wow. Who'd have guessed it?"
+
+The other members avoided his gaze.
+
+Neel pointed at himself.
+
+"It was, in fact, me."
+
+Neel reminded me of a disappointed drill sergeant, one that used my name as a means to get a fire lit under the recruits. Apparently, my arrival helped Neel in more ways than one. The veteran spread his hands.
+
+"Let's face it, I'm two for two today, and it's getting better by the second." Neel walked over to the gialgathen. "This here's Kaiayga. It's hard to spell, I tell you. He keeps tabs on nearby threats while ensuring we aren't blindsided by eldritch, enemies, or commie bastards. You can never rule out them commie bastards."
+
+Kaiayga tilted his large head.
+
+"You still believe they're coming to get you, hm?"
+
+Neel rolled his eyes.
+
+"What? Hell no. I used to say that out of irony, but eventually, it stopped being that way. Now, it's a warm, nostalgic phrase. Ah, commie bastards are gonna take me out. Doesn't it roll off the tongue?"
+
+Kaiayga winced.
+
+"It's as pleasant as biting into a fish full of motor oil."
+
+"Some of us like it in the grime. I digress. Kaiayga also keeps tabs on our inventory. He's like one of those old dragons guarding his treasure horde."
+
+Kaiayga narrowed his eyes.
+
+"Your endless comparisons to dragons are demeaning."
+
+"At least I don't call you frog dragon, eh? Eh?"
+
+Kaiayga sighed, peering at Lake Michigan.
+
+"You make me wish to leave this place and settle in the sea."
+
+Neel hit the gialgathen's side.
+
+"Hey, it's only a couple more decades of servitude before you're free."
+
+Kaiayga pulled himself up to get an even better view of the lake.
+
+"Then I'll find my home there."
+
+I crossed my arms.
+
+"You don't want to settle down in Blegara?"
+
+Kaiayga shook his head.
+
+"No. It's a beautiful world, one well-made for us, but I despise the eldritch there. They taint the fish and air like an unseen miasma that infests under the surface. I find that this world reminds me far more of Giess. It does so more and more every day."
+
+I swelled with pride. Kaiayga's tail whipped behind him.
+
+"Though the fish taste stranger as well. So do those beasts that run through the forest."
+
+Something about that didn't sit right with me. Neel caught on to my unease.
+
+"Don't worry about him. He's a picky eater."
+
+Kaiayga rested his head back on his front paws.
+
+"True enough."
+
+Before I questioned further, Neel paced over to the many rings and other enchanted gear they imported from Springfield. Neel put one of the rings on his hand. From it, an outpour of water, seeds, and crabs flowed down into a pile. Neel kicked some seeds off a crab before holding up the crustacean.
+
+"You see these? This. This right here is the lifeblood of these people."
+
+I held down a laugh, but I desperately struggled to hold it in. As if on cue, the crab pinched Neel's nose. Neel squealed before Kaiayga and I burst into a roaring laughter. Kaiayga beamed a toothy grin.
+
+"Yes. Again, please."
+
+I spread my fingers, opening the crab's claw and hovering it away.
+
+"I hope that isn't the only thing they eat."
+
+Neel rubbed his reddened nostrils.
+
+"Ack, certainly not, but it is a firm backbone, I tell you."
+
+We sat down on gravity wells and talked for a while. It took a solid hour before Neel calmed down about the gravitation, and he told me about the supplies, procedures, and overall progress of the encampment. They served thousands of people a day, offering necessities to the masses. I watched them disperse the goods, and they dispersed the goods efficiently.
+
+In general, it was a solid protocol. The most obvious sign of their consistency was how the populace handled the charity. A local economy formed around them, and caravaneers used these free gifts as a source of trade. Dungeoneers and hunters passed through with them to restock and gather their own free resources.
+
+Many of those wallowing below were putting up an act to look the part while pawning off our supplies for wealth. In all honestly, it didn't matter much to me. We didn't come here to make money but to make a difference. It was as cheesey as it sounded, and the people selling off the supplies helped distribute what we had to give.Those struggling entrepreneur came from nearby towns, villages, and isolated homes. They wanted a better life, and my guild offered them one. It left me spirited for my venture into the undercity. Offering a goodbye, I flew off to the rift's coordinates. I passed the congregating masses. As I did, I cast a long shadow.
+
+That shadow instilled horror in most but ease in a select few. My reputation spread far beyond Springfield by now, and a few of the disparaged people out here knew my name. More would know soon enough.
+
+Hovering over the city, I passed skyscraper after skyscraper until I found the strange entrance to the dungeon. It rippled between several tall buildings in the middle of an intersection. Crashed cars and rotting monster corpses littered the area. At the center, the portal to another world shifted in place.
+
+It was an open type, the kind without an orderly entrance. The spatial tear omened a strange, menace as it caused an unnatural silence throughout the city's downtown area.
+
+Outside of the booming thunder, of course.
+
+Bordering the rift, dark electricity zapped out in searching sparks. These sparks hit nearby stone, steel, and glass. Everything it touched warped in odd, deranged ways. Pieces of granite molded into screaming faces. Panels of clear glass moved like water at sea. A Fire hydrant hummed along to a catchy tune.
+
+Following the madness, a strange oscillation waved at the edges of the rift. It was as if the dimensions around it were two seas clashing, each fighting to overcome the other. It thrummed with an undeniable violence, and it made my stomach sink. To think dungeoneers walked in through this.
+
+I'd have to change the labor laws of the guild at this rate.
+
+Either way, I'd ensure they were adequately compensated for getting close to this thing. Sending that message to Torix, I squared that away before stepping closer. A different world unveiled itself in the rived space-time.
+
+Walking around the rip, it was a two-dimensional object in a three-dimensional world. The portal itself lacked any depth. At its side, the warp disappeared into a tiny black line, and from the back, it disappeared entirely. In other words, it was fully visible from only one angle but invisible from another. Weird.
+
+The surreal scene grated my nerves. It was as if someone opened a portal but never closed it. Before stepping in, I pulled out a rod of my dimensional fabric. I bent it into a circle and wrapped it around the portal's edge. Like a chain link, it would stop the rip from mending while I explored deeper inside.
+
+As I snapped the link together, I gawked at the strangeness of it. From one side of the rip, my chain link floated in the air on nothing. On the other side of the portal, it wrapped into the dimensional void. It was an impossible object, like staring at a set of Penrose stairs in real life. While tripping me out, I'd seen plenty of impossibilities since Schema arrived.
+
+This was likely some eccentricity of portals I didn't know about, and that's part of the reason I took safety precautions. Being trapped in a rift was a nightmare, and I didn't feel like discovering what terrors it hid. Having thoroughly scared myself, I made a few extra links before feeling safe enough to step into the tear.
+
+Inside the portal, a Serengeti spread out in all directions for miles. Tall grasses waved in the wind. These grasses all bent toward a single orientation as if the wind only ever blew from the East. As I stepped in, my dimensional wake changed that. The greenery pulled toward me at its center.
+
+I didn't like that at all, so I pulled my wake inward. The plants turned towards their standard direction, one I followed. As I stepped onto the soft earth, a constant rumbling quaked below, mammoth creatures burrowing underground. Above, islands floated with a few clouds spotting between them.
+
+The drier world lacked trees and the like, leaving wide-open views for many miles in all directions. As I dove deeper, I ensured my minimap worked in my status. Considering how similar this all felt, it was an easy place to get lost in. Still, my map operated well, though it maintained an extended lag as I was in the dungeon.
+
+Crossing over to my minimap's edge, I reached a shadow. One of the floating islands crossed overhead. As it did, the rumbling roared until a fluffy worm swarmed out of the ground. An eldritchian horror, the worm's mouth opened with teeth circling its innards deep into its body.
+
+Peering closer, it lacked fur. My skin crawled as I beheld the thousands of legs on its frame writhing about like nests of spiders. Before it reached me, the shadow over me deepened in its darkness. An enormous, flying pterodactyl flowed down from above. It was a far less grotesque creature, lacking the many legs all over its body. Instead, it sported eyes on every surface.
+
+By now, I hated this place deeply. I digress.
+
+The pterodactyl stripped the ground bare with the flow of its four wings, and it cawed with enough force to uproot trees. With a sword-like beak, it sliced the worm apart. The two worm halves tried crawling into the ground, the many legs squirming and scittering. One half escaped, but the flying behemoth stripped the other half from the dirt. The giant bug writhed in the even larger pterodactyl's beak. As the worm slapped against the pterodactyl's skin, it stripped scales, skin, and scabs off the monster.
+
+The bird reptile didn't seem to mind, and its eyes gazed toward its home on the floating islands. Done watching the spectacle, I stomped my foot into the ground. A wave of force flowed through the region, silencing the rumbling below. I spread my hands, a gravity panel pulling the territory into two pieces.
+
+As if parting a sea of soil, I sliced a thousand feet into the ground below. Dirt billowed up and out, exposing the disgusting worms and their larva. They bundled up into furballs that feasted on enormous, underground root systems.
+
+Oh yeah. They were all dead.
+
+Growing their young around glowing ores of mana, they expanded at unnatural rates, and their flesh writhed. They screamed out in hunger like the wails of the dammed. Wanting to figure out what they were hiding, I came close to some before vaporizing the grotesque creatures with Event Horizon.
+
+The mana crystals exposed themselves, their blue glow mirroring origin mana. They could be mined, but my mana crystals were superior in quality and stability. As for the animals, I hated looking in their direction, let alone finding a use for them. Leaving them alone, I headed deeper underground, eventually hitting the planet's mantle. Endless magma spread below.
+
+Welp, this wasn't the dungeon's end.
+
+I turned towards the islands far above. I bolted up, passing all the churned magma and disgusting worms. I flew over the islands, and they were resting spots for the pterodactyls. They nested with eggs while slicing up worms to feed their young. Inspecting closer, I found no dungeon core atop the islands.
+
+Diving within, each island carried dense clusters of mana crystals, allowing the island to float and the creatures to grow so large. Alas, still no dungeon core. I checked a dozen islands, finding nothing among them. I searched for miles upon miles, the day dragging on in an endless hunt. As the sun settled, a darkness draped over the world. I gazed at the absolute darkness above and below, the planet lacking any moons or stars.
+
+Shattering the darkness, a swarm erupted from below. Fireflies, or more like fire moths, coursed into the sky and enveloped the world in a frenzy of light. Like an ethereal cascade of yellow lanterns, they flocked in all directions, brandishing eternal dark in a limited imitation of day. It was a quiet kind of beauty, and I floated in it for a while, the droning sound like cicadas.
+
+As one of the fire moths landed on me, I recognized the source. It was one of the detached legs from the worms. The legs split over its back to form wings, and they revealed the dark moth and glow hidden during the day. Furry and far cuter than it had any right to be, one moth nestled into the palm of my hand.
+
+A spark of guilt struck through me. Something like this found shelter in the ugliness of this world. The war the worms waged let these creatures live the night, yet I had judged them. I considered them hideous and ugly and vile. As I raised my hand, the moth flew into the horde.
+
+They did what they had to do in order to survive. We all did.
+
+Floating over the expanse, I flowed through the endless swarm in all directions. Endless. Hm. I opened my status, wondering how far I drifted during the day. So far, I crossed three hundred miles in this world. Despite that, no discernible end appeared, and this dwarfed the size of most dungeons by orders of magnitudes.
+
+Heading back to the entrance, I found the links still holding strong and the rip in space-time oscillating. The fire moths flew into our world by the hundreds, and I stood, watching them wander around. They darted from one territory to another, escaping into another dimension. My eyes widened as the solution popped into my head.
+
+This wasn't a rift. It was a genuine tear in space. I flowed a distance from the entryway before sending a message to Helios. Minutes later, he opened a portal and walked out in sleeping wear. He pinched the bridge of his nose.
+
+"Ah, what do you want in the middle of the night, your majesty?"
+
+I gestured behind me.
+
+"You see this, right?"
+
+Still groggy, Helios wiped the sleep out of his eyes before a bolt of dark lightning snapped into the ground beside him. The boom and thunder woke him up seconds before Helios tilted his head. He closed his eyes and rubbed his temples.
+
+"What have you done now? Running an experiment to see if you could collapse the fabric of reality?"
+
+I shook my head.
+
+"What? C'mon. Cut me some slack."
+
+I peered at the portal.
+
+"But I am wondering if someone else is."

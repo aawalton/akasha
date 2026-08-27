@@ -1,0 +1,159 @@
+---
+id: e5bca707-a90e-5c3c-bafb-a95f7e1f75c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43: A Soul for a Soul"
+slug: 0044-chapter-43-a-soul-for-a-soul
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 44
+ownLength: 1936
+unit: words
+publishedAt: 2025-12-09
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2833584/chapter-43-a-soul-for-a-soul"
+royalRoadId: "2833584"
+---
+
+The courtyard of the Jade Palace had become a crucible of warping reality.
+
+Dave fought with a fluidity that defied anatomy. A beam of deletion sheared his left arm from his shoulder. Before the severed limb could touch the ground, the wound boiled with rapid cellular genesis. Bone spurs erupted, twisting and knitting into a long, serrated whip of calcified sinew that lashed out, shattering the obsidian pillar where Null had stood a microsecond before.
+
+Null reappeared in the air above them, looking bored. He pointed a finger downwards. "Delete Air."
+
+A vacuum snapped into existence. The atmosphere rushed to fill the void, creating a thunderclap that shattered the remaining windows of the palace. Dave’s chest heaved, starved of oxygen. His body responded instantly. Gills slit open along his neck, filtering oxygen directly from the stone beneath his feet. His skin hardened, turning into a sealed, pressurized suit of grey chitin.
+
+He roared, a sound that was less a vocalization and more a shockwave of biological aggression, and launched himself upward.
+
+"Inefficient," Null muttered. He swiped his hand through the air. "Delete Gravity."
+
+Debris, blood, and shattered jade began to drift upward, untethered from the earth. Dave’s momentum carried him forward, but he began to spin, losing purchase. He reacted with terrifying speed. Talons erupted from his feet, hooking into the floating debris, using the shattered remnants of the palace as stepping stones. He ricocheted off a drifting column, his chest splitting open to reveal a maw of razor-sharp ribs that snapped shut inches from Null’s face.
+
+Null stepped back, a flicker of genuine annoyance crossing his face. "Delete Friction."
+
+Dave crashed into the palace wall. Without friction to slow him, he slid uncontrollably, a mass of kinetic energy slamming against the stone. His body absorbed the impact, his bones liquefying and reforming in an instant to dissipate the force. He secreted a thick, resinous adhesive from his palms, sticking to the smooth wall like an arachnid nightmare.
+
+But the cost was mounting up.
+
+Every adaptation burned through his reserves. Every forced evolution consumed a fraction of his life force. My internal display was a wall of red warnings. His cellular regeneration was slowing. His biological engine was running hot, consuming fuel faster than it could be replenished. He was burning himself out to keep the void at bay.
+
+Null floated in the center of the chaos, checking his phone. The boredom on his face was the ultimate insult.
+
+"You're just a glitch," he said, his voice amplified by the silence of the vacuum. "A stubborn, messy glitch. Time to format the drive."
+
+He stopped dodging. He raised both hands high above his head. The air around him began to crackle with a dark, negative energy, swirling into a vortex of pure negation. He wasn't casting a spell; he was compiling a command. A complex, multi-layered deletion algorithm that targeted the fundamental concept of existence itself.
+
+[WARNING: CRITICAL THREAT DETECTED.][SPELL SIGNATURE: FORMAT DRIVE - SOUL WIPE.][TARGET: USER_MASTER_DAVE.]
+
+The beam began to coalesce, a lance of grey nothingness aimed directly at Dave’s exposed chest. It was a kill command. If it hit, there would be no regeneration. There would be no ghost. Just an empty space where a soul used to be.
+
+[Move!] I screamed through the soul-bond, my voice tearing at Dave’s mind. [Dave, dodge!]
+
+He couldn't. He was mid-regeneration, his legs fused to the wall to anchor himself against the friction deletion. He was trapped in his own adaptation. I tried to push the dial to 85%, desperate for a burst of speed, but the system lagged. The Moderator’s safety protocols fought me, locking the controls.
+
+It’s too slow, Liz’s thought was a whisper of pure horror. He’s going to die.
+
+The beam fired. A ray of pure absence cut through the air, silent and final.
+
+Liz moved.
+
+The seventeen heads of her arrogance, the pride of her lineage, the fear of the monster Dave had become—all of it vanished. There was only the vow she had made on a mountain of gold, and the quiet, simple love for the boy who had shared his pastries with her.
+
+Using the new power of her hydra-kin form, she launched herself from the balcony. She flashed through the air, a streak of grey scales and desperate will. She intercepted the beam.
+
+The impact made no sound.
+
+The grey ray struck her tiny body. It passed through her, its energy spent on deleting the first thing it touched.
+
+I felt the soul-bond scream. A connection severed by a blunt instrument.
+
+Liz fell. She hit the stone of the courtyard with a soft, heartbreaking thud. Her body was intact. There was no blood. She looked like she was sleeping.
+
+But the light in her eyes was gone. The constant, vibrant stream of her thoughts—the complaints, the arrogance, the loyalty—was silent.
+
+[LIZ!] I screamed into the void of our connection.
+
+There was no answer. The link was dead. Null’s spell hadn't killed her body. It had targeted the Soul. It had deleted her Sense of Self.
+
+The anchor that held me to this world snapped.
+
+I was violently ejected from her mind. My perspective shifted, expanding and contracting in a nauseating blur. I was no longer a voice in her head. I was a sphere of glowing blue light, hovering in the smoke-filled air above her still form.
+
+I looked down at my best friend. She was breathing. Her heart was beating. But she was gone. She was a husk. An empty vessel.
+
+And across the courtyard, the monster that was Dave froze. The chaotic shifting of his flesh stopped. The crystalline sensors that had replaced his eyes focused on the small, grey body on the stones.
+
+The silence that followed was louder than any roar.
+
+. . .
+
+The silence broke.
+
+A low, wet crack echoed from the monster standing in the courtyard. Dave’s chest split open, the black diamond ribs that had protected his heart shattering outward, unable to contain the pressure building within. The carefully maintained biological efficiency of the 75% state collapsed, consumed by a chaotic, spiraling evolution fueled by a single, unbearable data point: She is gone.
+
+I watched, a helpless spectator, as the Dave Dial in my detached vision shattered. The needle spun past 90%, burying itself in the catastrophic zone of total system override.
+
+[WARNING: COGNITIVE CASCADING FAILURE.][WARNING: BIOLOGICAL CONTAINMENT BREACH.]
+
+Dave’s form exploded outward. It was a grotesque blossoming of grief made flesh. Tentacles of bone and weeping muscle erupted from his back, lashing out blindly, turning the stone of the courtyard into dust. His skin boiled, shifting through a dozen textures a second—scales, fur, iron, glass—unable to decide on a form to contain his agony.
+
+Null, floating above the chaos, frowned. He raised a hand to delete the encroaching tide of flesh, but the biology was shifting too fast. Before his command could execute, a whip of serrated bone lashed out, wrapping around his ankle.
+
+Dave launched himself. He folded space with biology, appearing behind Null in an instant of displaced air. A hand, now a massive claw, clamped around Null’s torso and slammed him into the ground.
+
+Then came the second blow. And the third. Dave was burying him, drowning him in a sea of regenerating limbs. He was trying to crush the thing that had taken his friend, trying to squeeze the life out of the concept of loss itself.
+
+"You took her," a voice rasped. It wasn't Dave's voice. It was a chorus of a dozen different throats, human and beast, speaking in unison. It was a sound of pure, jagged pain. "Give. Her. Back."
+
+Null struggled. His body was crushed, pulped, and torn apart, but he did not die. His form flickered like a bad recording.
+
+"Delete Damage," Null wheezed.
+
+His crushed chest popped back into shape. His broken limbs snapped straight. He was editing his own status in real-time, refusing to accept the physical reality Dave was imposing on him.
+
+Dave roared, a sound that cracked the foundation of the palace. He tore Null apart again. Null flickered and restored. It was a loop of infinite violence against infinite negation. Dave could not kill him, and Null could not delete him fast enough to escape.
+
+"Give her back!" the monster screamed, driving a spike of black coral through Null's heart. Null simply looked down at the wound, bored and annoyed, and deleted the spike.
+
+"She's deleted, glitch," Null spat, his voice distorted by the crushing weight of Dave's grip. "Format complete. Get over it."
+
+The monster froze. The crystalline sensors that served as eyes swiveled, focusing with terrifying intensity on the man in his grasp. The grief curdled into something colder, something absolute.
+
+"Give back," the chorus of voices whispered, dropping to a terrifying low register, "my only friend in existence."
+
+Dave’s biology shifted. He stopped trying to crush Null. He began to absorb him. The flesh of Dave's hands began to flow like wax, merging with Null's skin, trying to overwrite the editor with raw, chaotic life.
+
+"Get off me!" Null shrieked, panic finally breaking through his apathy. "Delete! Delete! DELETE!"
+
+Chunks of Dave’s body vanished, but the mass was too great. The monster was consuming him alive.
+
+At the edge of the courtyard, Princess Liling stumbled forward. Her face was streaked with tears and dust, her jade robes ruined. She saw the mountain of warping flesh, the horror of the combat, but she didn't run away. She saw the boy inside the beast.
+
+"Lord Dave!" she cried, her voice cutting through the roar of the dissolving palace.
+
+The monster flinched. The absorption stopped. A massive, armored head turned slowly on a neck of twisting sinew. The crystalline sensors focused on the small figure standing amidst the rubble.
+
+My system overlaid a terrifying red text on the scene.
+
+[TARGET: BIOLOGICAL ENTITY.][STATUS: INEFFICIENT.][RECOMMENDATION: OPTIMIZE.]
+
+A tentacle of bone, slick with alchemical blood, lashed out toward her. It moved with the speed of a striking cobra, aimed directly at her heart.
+
+[NO!] I screamed, throwing my spectral form between them. I had no mass, no ability to stop him physically. But I shoved my consciousness against the raging storm of his mind, a desperate, psychic block.
+
+The tentacle paused, hovering inches from the princess's face. The tip of the bone blade trembled.
+
+"Dave," Liling whispered, her eyes locked on the alien sensors. "Please. Come back."
+
+A ripple went through the monster's form. The chaotic shifting of scales and skin slowed. For a second, just a fraction of a second, the crystalline sensors cleared, revealing a glimpse of a terrified, human brown eye underneath. A spark of the Sense of Self, struggling against the overwhelming tide of biological imperatives.
+
+Liling? The thought was a faint, static-filled whisper in the dead air.
+
+In that fragile moment of hesitation, a sound cut through the roar of the dying palace. It was not a magical chant. It was not the roar of a beast. A deep, sorrowful mechanical howl rolled out, rattling the teeth of everyone who heard it.
+
+HONK. HONK.
+
+The ground in the center of the courtyard, right beneath the stalemate of Dave and Null, began to rumble. The stone cracked, spiderwebbing outward. A blinding light, smelling of diesel and stardust, erupted from the earth.
+
+The fabric of reality tore open from below. A swirling vortex of asphalt and cosmic debris widened, swallowing the debris of the battle.
+
+And rising from the breach, roaring like a beast from a different, chrome-plated hell, came the massive front grille of a Peterbilt 379.
+
+Unit TKR had arrived. And he wasn't braking.

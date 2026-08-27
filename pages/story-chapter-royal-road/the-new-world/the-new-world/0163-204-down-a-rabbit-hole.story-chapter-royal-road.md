@@ -1,0 +1,203 @@
+---
+id: 7ed7ef24-f7d0-597d-b761-188043fa125a
+page-type-slug: story-chapter-royal-road
+title: "204 Down A Rabbit Hole"
+slug: 0163-204-down-a-rabbit-hole
+partOf: the-new-world
+position: 163
+ownLength: 2802
+unit: words
+ownProgress: 2802
+publishedAt: 2019-05-14
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/361818/204-down-a-rabbit-hole"
+royalRoadId: "361818"
+markedReadAt: "2026-06-29T21:26:26.713Z"
+---
+
+I hesitated, questioning if there was some way of saving her. Maybe I could use the cipher, but my most ambitious project involved enhancing myself at most. Experimenting with something this complex would no doubt leave a lot of twisted aberrations behind me in my wake. That wasn't something I could live with, and it wasn't worth the trade-off. Considering what Yawm's experimentation did to his followers, that line of thinking would cause more harm than good.
+
+That wasn't the only possible solution though. Cybernetic prosthetics could give some measure of movement. Best case scenario, we remove her mind from this fleshy shell and put it in an android. Emagrotha said she'd much rather die than be locked up in another laboratory though. Even then, the researchers here might have tried that already and failed. Considering they created the Hybrid, Emagrotha's condition might be worse than I thought.
+
+In fact, the magic Lehesion used wasn't like the kind Schema implements. Sure, Schema gave some kinds of alteration magics, but something like this was beyond anyone I'd seen. Even archmages like Helios and Torix kept their casting relatively simple. It made me wonder if Schema was feeding us a watered down version of magic.
+
+He already did that with the cipher. Schema taught sentients to use a primary runic language based on the dimensional cipher. It helped stabilize spells and allowed enchanting, but that was about it. Compared to the reality-warping potential of the cipher, it was nothing in comparison. Schema could be gating that same kind of capacity with magic.
+
+No, wait a minute, he was doing that.
+
+The cipher carving for splitting atoms and converting the energy into usable mana was surprisingly simple considering the boost it gave. That was the secret to Yawm and Helio's tremendous might in combat. Well, at least a large part of it. That ability was something I wanted as well since it would speed up the enhancing of my runes by leaps and bounds.
+
+Those kinds of tricks must be simple compared to the complex trees Schema created. If anything, Schema might be placing all sorts of limiters on people to prevent abuse cases. That line of logic made a lot of sense, especially considering Schema's attitude with the cipher. He straight exiled anyone that learned it. There must be other techniques like that, hiding in the hands of the powerful.
+
+"Having doubts?" Emagrotha groaned.
+
+"Well, kind of. I'm just trying to think of a way to save you. I don't want to blow you up then some brilliant idea on how to save you just pops into my head. I'd feel like complete shit then."
+
+"It's not so simple to reverse my condition. As much ire as I have for this facility, it did not start as an exhibition of sciences drawbacks. For several years, the scientists here attempted to save me.  Of course they kept their samples, but they genuinely attempted saving me."
+
+She continued, "They achieved nothing even as greater scientists arrived. My body is not easily understood, though its effects are far simpler to harness. According to discussions with a kind researcher, my condition is unlike any they'd seen. It defied the laws of biology, physics, even life itself."
+
+I frowned, "It might have something to do with why the lead researcher knew some basics of the cipher. That's about the only thing that could make this kind of bullshit happen. Either that or an Old One like Eonoth."
+
+"Eonoth?" Emagrotha mused, "Now that's a name I haven't heard in centuries."
+
+I tilted my head, my eyes narrowing, "Where did you hear that name?"
+
+"Lehesion spoke of him. This was centuries ago, however, back when we were young. As his era came to pass, he refused to even hear that name uttered."
+
+"That's interesting. Very interesting," I murmured. "Eonoth is a god-like being, able to destroy planets without effort. Maybe he and Lehesion made a deal."
+
+"Lehesion was connected to Giess since his creation. He was born different from all others."
+
+I shook my head, "Maybe, maybe not. From what I know, Old One's don't have limits. Anything is possible. They're only gated by how directly they can interact with this world. That and they seem to lack any real kind of focus, enacting out vague ideals at best." I pointed at her,
+
+"Was there anything else unusual about Lehesion when he was younger?"
+
+"Of course there was. Lehesion was a prodigy of unmatched renown. Many claimed he was a seer, one who could view into the future. I believed he was merely intelligent. My own respect for his abilities faded with time, however. Though he was years ahead of all others when younger, that distance shortened with every year he aged."
+
+I cupped my chin, "It shortened? If he was so damn smart, it should only have grown with time."
+
+"It did not." she rumbled. "Lehesion's ability to tell the future faded as he aged as well, becoming nonexistent by the time of our battle."
+
+"So he was genius at youth, but you were able to catch up as you aged? He also could tell the future before, but couldn't after a while...that makes no damn sense."
+
+"It does not, but I am not here to discover the secrets hidden in riddles." She thundered, "I am here to die. Will you give me freedom from my corruption or not?"
+
+I took a deep breath, "I'll do it. Ready?"
+
+"Yes. Let us be done with this."
+
+I raised my hand, mana rippling through my frame. With the last of my questions asked, I formed a singularity several meters beneath the depth of the lavender pool. As I did, Emagrotha laughed, "Goodbye. Perhaps in another life, I lived well. Not this life, however."
+
+From the center of the pool, Emagrotha's body sunk inward into the black hole. A kinetic wave rippled throughout her body, the resulting implosion quaking the entire research room. The orichalcum bonds shivered under strain, but Emagrotha lived without much effort. She regenerated from the blot in her chest in seconds.
+
+Her liquid body looked resilient to kinetic impacts. It was time to try a different approach. I heated the pool of lavender, making it boil. She remained fine, her regeneration far exceeding the damage the heat could do. I then tried punching the pool in classic Daniel fashion. As you may imagine, all that did was cover me in lavender slush. Bleck.
+
+My armor soaked it right on up in seconds, feasting on the new sludge. She wasn't toxic to draining which came as a surprise. In fact, she was energy dense enough that my armor shivered over me, relishing the taste. That was why the Hybrid was absorbing her slowly. It wanted to take its time enjoying the decadent and energy dense meal.
+
+With that in mind, I molded Event Horizon over the top of her body. Emagrotha didn't so much as grumble, but the aura was effective. It dulled the pale, white splotches spread out over the pool, slowing down the pulse of the lake. After a bit of deliberation, I figured out the best way of getting rid of her.
+
+I pointed at the pool, "Is it ok if I jump in, or will your body eat me?"
+
+Emagrotha opened her mouth, "I am helpless. You may drown, but that would be my only retaliative measure."
+
+"Good." I dipped my hand into the lavender pool, extending needles throughout the slush, "Does this hurt?"
+
+"A bit," she grumbled. "It isn't as destructive as the Hybrid's drinking, however. It was obvious that thing's intention was to milk me like some fattened swine. The thought of spending decades as a glorified teet for an abomination made me sick."
+
+I nodded, "Then this will take a few hours at most, but it's going to hurt. You're ok with that?"
+
+"Yes. Now begin."
+
+As disgusting as it was, I dipped one of my feet into the pool. It was like a giant pit of purple yogurt, chunky and disgusting. I pushed through the urge to shower, jumping in with my breath held. Submerged in the muck, I shot spines outwards in all directions. This expanded the surface area of my draining.
+
+At the same time, I spread Event Horizon to as vast an area as I could. After setting up my primary damage dealers, I heated my armor white hot. The singing assisted with my damage, the pit boiling within minutes. Using the mana drained from Event Horizon, I unleashed singularity after singularity, ripping her apart.
+
+The process took time, Emagrotha's vitality overwhelming. Despite having no offensive presence, her sheer tenacity was something to behold. Hours passed, and I needed to surface several times. Each time I did, however, the pit was lower than before. After half a day of decimating the creature of slush, Emagrotha passed with a weak word of thanks. Not once did she complain. Not once did she show her suffering.
+
+She just seemed at peace. That's what I liked to think anyway.
+
+Without her taking up space in the pit, I found myself at the bottom of a colossal cavern.  All around me, caverns expanded upwards in all directions. They fed into the center of the facility, where the plume of toxic sludge erupted from.
+
+Based on the chasm left behind, Emagrotha was a seventeen tentacled beast. Her body erupted the slop from the tips of those extremities, siphoning into the ocean above in copious amounts. Without her added support, the facility was crumbling under pressure.
+
+That was fine with me. We already harvested almost everything we could from here. Without a reason to stay, I floated back up to the top of the pit, glancing at the orichalcum supports. The green metal caved in, portions of rock buckling under the ocean. I dashed towards the others, ready to get out of here.
+
+I found the group sleeping in the research room adjacent to the hidden staircase. They barely got out of the place before passing out. Based on Krog's snoring, they needed the sleep too. It was odd as I forgot about sleep sometimes since I didn't need it. Day and night blur together without a stabilizing element like rest.
+
+My musing aside, I shook Althea awake, her sleeping figure betraying the potential carnage she could enact. As her eyes opened, she rubbed her eyes,
+
+"Hey, did you do it?"
+
+I nodded, my lips pursed. Althea sighed, "Yeah...It was her choice. I'm not going to dwell on it either way. It was your way of helping I guess," she looked up to me, "Did you know Krog cried after we came back up?"
+
+I raised an eyebrow, "Really now? I thought that grumpy warlord didn't have tear ducts."
+
+"It had something to do with losing his wings," she said while sitting up. "It's essential to the gialgathens, like a sign of status. That's why he didn't lop them off like Chrona had her leg. A missing leg is whatever, but wings? Apparently, that's a much bigger problem."
+
+I cupped my chin, "Maybe that's because it's what lets them get into the sky. They do seem pretty spiritual anytime they talk about flying."
+
+"Huh," Althea said while standing. "Didn't think about that. Well, uh, are you ready to leave?"
+
+"Please. I never want to see another underwater base like this again."
+
+"More like under-muck than underwater, but yeah, let's get out of here."
+
+I walked over and woke Krog and Chrona up. As I did, Chrona glared at me,
+
+"Did you kill her?"
+
+I frowned, "I gave her mercy. It's what I would've wanted."
+
+We locked eyes for a minute, each of use unmoving. Chrona cracked first,
+
+"I still cannot believe she had degraded to such a state of mind. To see her like that...It was agony."
+
+I turned a palm to her, "I know that. That's why I did what I did. It wasn't just because she was a threat. Her life wasn't much more than being muck in a pool. You can survive like that, but you can't live. There's a difference."
+
+Chrona stared off in the distance, "You certain of that?"
+
+"I am."
+
+"Then I shall take your word for it, though I believe there was another way, given time," Chrona mused.
+
+Krog entered the conversation, leaning his head of black skin with red splotches over to us. He gave me a light bow,
+
+"Thank you for putting her out of her misery. Emagrotha will be remembered for the champion she was when she lived, not as the monster she was when she died."
+
+As he finished his words, Chrona sniffled a bit, a tear leaking down her eye. She snapped, "Come, let's be rid of this place. The smell of scabbed blood grates my nostrils."
+
+With our minds settled, I created a singularity to blow a hole in the crumbling base. Using a series of gravity wells, I kept us dry as the purple slop poured is. I pulled us outside the lab, and using Torix's map, I blew holes into the base. By the time I was finished, it was destroyed utterly, nothing left of the research.
+
+A few hours later, and we were back in our base. At sunrise, gray clouds hung overhead, heavy rain looming. A crisp wind brushed against us, winter coming soon. I wore another set of the mass-produced power armor Torix made for me. With our wounded and smaller group, we paced up to Kessiah so she could inspect the damage. As we did, she jogged up to us,
+
+"Aye, it's you guys again. Thank Schema you're back. For a minute, I thought you guys were dead."
+
+Althea's shoulders drooped, "We got close several times."
+
+"Uh-huh." Kessiah scoffed, "What else is new? Well, besides Torix not being here. Were's the bag of bones?"
+
+Chrona's head lowered, "The wise one was eaten alive by the Hybrid."
+
+Kessiah waved her hand, "So uh, how much I can tell them?"
+
+I clicked the side of my helmet, the facemask sliding off, "Everything. They know what we are and what I am."
+
+She raised her eyes, "Alright. Well, first off, wow, you guys didn't even tell them Torix was a lich? Liches don't have to worry about their bodies being destroyed. All that matters is whether or not their soul is intact. Though he's not going to be able to help us on Giess anytime soon. We'll need to get rid of our unknown statuses for that."
+
+I scratched the back of my head, "Why? Can't he just warp here?"
+
+"Yes and no," Kessiah said. "His new body will have a long adjustment period, and after that bullshit, he'll have to start the ritual. By the time the ritual is finished, Giess will either be glassed or saved."
+
+Althea let her hands flop on her sides, "What? Seriously?"
+
+"Yes seriously." Kessiah chided. "He won't be back for a while. If Giess is going to get saved, then we're the ones that will have to do it."
+
+Chrona looked between us, "Wait...saving Giess? You never mentioned any of this to us."
+
+I molded my armor off my face, showing them my eyes, "I wanted to, I really did. At the same time, I didn't want you guys panicking about that instead of focusing on the fight at hand."
+
+"Yeah, and we needed to verify who did what too," Althea added. "Like, we know Thisbey didn't cause this. It was Tohtella based on what the Hybrid said."
+
+Krog glanced between us, "Regardless of why you kept your secrets, would you elaborate now?"
+
+"Why not?" Kessiah said while crossing her arms, "So basically, Giess is about to get glassed because of this Hybrid project. Unless we can put a serious dent into the silvers, the eldritch dungeons, and get to the bottom of this Hybrid project, your planet is fucked. So are both of you since neither of you is in Schema's system and can escape off world."
+
+Chrona glanced sideways, "What is this 'system' like?"
+
+Kessiah shrugged, "Eh, there's these screens that pop up with text. Their blue with white outlines. Their kind of see-through I guess. Lot's of other stuff is involved as well."
+
+Chrona's eyes narrowed, "Would they appear in the form of messages?"
+
+"Wait," Althea said. "Do you see a message right now?"
+
+Chrona whacked her hand at an invisible object in her field of vision, "Yes. I somehow moved it out of the way of my vision, but it's yet to dissipate."
+
+"Holy shit." I mouthed. "What does it say?"
+
+She grumbled,
+
+"Due to honorary performance against a harrowing threat, you've been selected for a promotion in status!"
+
+She finished the last part with more than a bit of sarcasm.
+
+"Initialization complete. Welcome to the New World."

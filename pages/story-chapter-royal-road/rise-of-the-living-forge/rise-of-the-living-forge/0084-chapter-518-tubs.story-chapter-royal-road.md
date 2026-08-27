@@ -1,0 +1,173 @@
+---
+id: 5c871b23-bcf3-53ef-9d09-798560268391
+page-type-slug: story-chapter-royal-road
+title: "Chapter 518: Tubs"
+slug: 0084-chapter-518-tubs
+partOf: rise-of-the-living-forge
+position: 84
+ownLength: 2025
+unit: words
+ownProgress: 2025
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2769275/chapter-518-tubs"
+royalRoadId: "2769275"
+markedReadAt: "2026-06-29T20:01:07.390Z"
+---
+
+The first thing that Arwin saw when he came to was gold. It blurred before his face like a molten sea of wealth, fading in and out of view in an undulating dance. A distant headache pounded in the back of his skull to the beat of a particularly inept conductor that really needed to be fired and his mouth tasted like ash and salt.
+
+He grimaced, squeezing his eyes shut for a long second. The world spun all around him — or perhaps he was the one that was spinning. It was a little hard to tell. His body didn’t seem to be in a very cooperative mood at the moment.
+
+Even his thoughts were sluggish and slow. Putting two of them together was difficult enough. Trying to convince his arms or legs to move was an entirely separate matter.
+
+Arwin stared at the insides of his eyelids. Sleep swam just at the edges of his thoughts, but it was held at bay by the sharp bits of something or another that incessantly poked up into his back. There was a crick in the side of his neck. There was also one in his hip. And his arm. And his leg. It was in a few of his fingers as well.
+
+For that matter, the more consciousness reluctantly dragged itself back into his body, the more cricks he realized he had. There were more parts of him in pain than parts that weren’t. And there was still that shimmering gold piercing into his skull.
+
+Not even closing his eyes could mute it out. It seared before him like the sun itself had been channeled into lines, and they didn’t seem to have any plans of leaving until he acknowledged them.
+
+What the hell is—
+
+And then Arwin remembered.
+
+His eyes snapped open as he drew in a sharp gasp, one that quickly proved to be a mistake. Arwin instantly choked as ash and dust darted into his lungs. He doubled over, coughing and wheezing, only to find his breath frozen in his lungs.
+
+Shimmering gold rivers came into focus before his eyes.
+
+Uriel, The Gatekeeper
+
+[Soulforged]: Forged at the hands of a Forbidden Soulmancer, a Dwarven Smith, a Lich, an awakened building, the Hearthmother, and Uriel herself, Uriel is the soul of the Devil’s Den made manifest. She acknowledges no master.
+
+[Transcendent]: Uriel, the Gatekeeper is a Transcendent creation. Forged at the hands of multiple Sunsetted classes, just as her creators, she exists outside the boundaries of the Mesh itself. Her power is hers to use and cultivate at will.
+
+[Eternal]: Uriel, the Gatekeeper is highly resistant to all forms of physical and magical damage. Charms and mental magic are entirely ineffective against her, and weapons without sufficient magical energy will be overloaded and destroyed upon contact with her body.
+
+[One Armor Army]: Uriel, the Gatekeeper can draw magical power from all those who reside within the walls of the Devil’s Den and bend it to her will, using it to power any of her abilities or reinforce her strength.
+
+[Sword of the Great Garden]: At a continuous cost of great magical energy, Uriel can summon forth a soul-cutting blade of Hearth-flame that penetrates almost all forms of defenses.
+
+[The Slumbering Angel]: In times of great need, Uriel, the Gatekeeper can—
+
+“I would appreciate if you stopped doing that.”
+
+Arwin’s eyes froze in place. Then, to his belief, he watched as the golden words shimmering in the air before him folded themselves up like a piece of origami until they vanished entirely.
+
+His vision focused, finally slipping past where the words had been a moment before. The breath caught in his chest.
+
+He was still in the Infernal Armory. And, crouched before him like a child inspecting an interesting bug, was the enormous suit of armor that he’d just passed out creating.
+
+It — she — was enormous. Even crouching, Arwin had to crane his neck back to look at the armor’s helm. The pair of eyes within it burned with a brilliant molten gold light exactly like the letters that had been before him just a few moments ago.
+
+“Godspit,” Arwin whispered. “I — you?”
+
+“Yes, I do believe so,” the armor said in a voice that could have been confused for a pair of perfectly cut gems ringing melodiously against each other. It stood in stark, beautiful contrast to the cruel, sharp design that made up Uriel’s massive form.
+
+Arwin’s mouth felt dry and clammy at the same time. It was at that moment that he realized there was something more than pain burning within him.
+
+There was power. A river — no. An ocean of magic swirled within his body with a hungry roar. More than he’d ever held at once before. It was like a hundred achievements all mashed into a single storming orb.
+
+How much power did I get for creating Uriel? I haven’t even had a chance to use any of it yet, but I somehow feel stronger than I did before.
+
+“What exactly did you want me to stop?” Arwin asked carefully.
+
+“Reading me like a book,” Uriel said. “I don’t imagine you would enjoy if someone peered into your innards, would you? Even if it was your maker.”
+
+“I… yes. I suppose I wouldn’t,” Arwin said, still trying to find his words. “I didn’t expect you to be so… alive.”
+
+“Whyever not?” Uriel asked. “You just created me. I would hope that you didn’t go into such a task hoping that you would fail.”
+
+“Well, no. But the other Soul Guardian I made—”
+
+“I,” Uriel said, her voice sharp and strong but not unkind, “am unlike anything you have ever created.”
+
+There was an unmistakable note of pride in her voice. The kind of pride that could be found only in the voice of the king or someone who knew that, without a doubt, they were the pinnacle of their field. It was the kind of pride that could be measured only by the quality of the one who bore it. Such presence could be borne only by an impossibly great man — or an equally terrible one.
+
+“Somehow, I don’t doubt that,” Arwin said. He glanced around the room. The others were still all there as well. They laid strewn across the ground like dolls that had fallen from a child’s pack. Everyone was still breathing, but they were unconscious.
+
+“They are safe,” Uriel said. “I did not move anyone. I do not possess a gentle touch.”
+
+Arwin looked down at the massive, spiked gauntlets. “Did you want a gentle touch? I didn’t consider—”
+
+“No,” Uriel replied. “I do not believe I have any interest in such a thing. There are others whose purpose is to be gentle.”
+
+Arwin slowly pushed himself to his feet. Uriel rose as well. She barely even fit within the Infernal Armory. He also hadn’t missed the information that the Mesh had given him about the armor.
+
+Uriel serves no master.
+
+“What is it you desire, then?” Arwin asked.
+
+“You created me,” Uriel replied. “What purpose should I desire?”
+
+“I’m not sure I can give you the answer to that,” Arwin replied. “You said it yourself. I’ve never worked on anything like you. You’re a hell of a lot more than a weapon. I think you’re about as close to any living being as anything else in this world. It isn’t for me to determine what you should desire.”
+
+Uriel’s helm tilted to the side. Golden light shimmered behind the grate covering the mouth area of her helm, almost like the lips of some ethereal spirit within the armor curling up in a smile.
+
+“Well spoken. To be honest, I need no guidance. I know my desires just as you know yours. But I did have to satisfy my curiosity. Such an interesting thing, curiosity. Were you aware that materials can have desires, but no true thought? We exist. We long. But until given life… we do not wonder. Isn’t that fascinating?” Uriel asked. “Perhaps it is not. But it fascinates me. I was only born a few minutes ago, after all. Does this mean you are my father?”
+
+Arwin’s brow furrowed. “I’m not sure how I feel about that.”
+
+“Nor am I,” Uriel said. “Arwin, then.”
+
+“Arwin is good,” Arwin said.
+
+How powerful is Uriel? I didn’t get a chance to finish reading her abilities, but even the few I saw seemed immensely powerful. There was no limiter on them. They scaled right with the strength of the people in the Devil’s Den.
+
+“Will I kill soon?” Uriel asked.
+
+Arwin nearly choked on his own saliva. “What?”
+
+“I know your thoughts and desires, just as I know mine,” Uriel said. She gestured to everyone else. “And not just yours. There is a war coming. It comes to this street.”
+
+“I don’t know if I’d say it’s a war,” Arwin said. The idea of that made his stomach churn. This world had seen war enough. He had no desire to add to the casualty count any more than he had to. “But there is conflict coming, yes. If you know our desires, then you know what we seek.”
+
+“The survival of the world. The survival of the Menagerie. The end of the Adventurer’s Guild.”
+
+“Among other things,” Arwin said. “So I do not know if you will have to kill soon. Do you want to kill soon?”
+
+“I do not know. I will tell you after I kill,” Uriel replied.
+
+“After? Not if?”
+
+Uriel stared at Arwin. Her molten gold eyes seemed to burn holes straight into his soul.
+
+“After. You did not make me into this form so I would spare your opponents. I know your reluctance to cause more pain. But I am not the carrot to be offered in peace, Arwin. I am the stick. I am the blade drawn when your other attempts fail. That is why I did not move you. My hand will only raise when the only answer is death.”
+
+“Was I the melodramatic one?” Arwin asked. “Or is that a Uriel special?”
+
+To his surprise, Uriel let out a laugh.
+
+“No. Wallace.”
+
+“Of course,” Arwin said, sending a sidelong glance at the dwarf, who was snoring away in the corner of the armory. “Should have guessed. Please don’t go killing anyone that doesn’t need killing, though.”
+
+“I am not deranged.”
+
+“You never know,” Arwin said. “You did see who had a hand in making you, did you not?”
+
+Gold shimmered behind Uriel’s helm once more. “A fair point. I must ponder it. Perhaps deranged is a subjective state. There is much that I do not yet know.”
+
+“You’ll never be able to change that,” Arwin said. “Life isn’t meant to be understood. It’s meant to be lived.”
+
+“Wise words,” Uriel said.
+
+“They aren’t mine.”
+
+“I know,” Uriel replied.
+
+Then she turned, lumbering toward the comparatively tiny door of the Infernal Armory to leave. The wall stretched itself open for her, but Uriel was still forced to lower herself to the ground and squeeze in order to fit into the main room.
+
+Arwin watched her silently.
+
+He made his way over to Lillia, crouching beside her and carefully scooping her off the ground. Her eyes didn’t even flutter. She was out cold — but the gentle rise and fall of her chest against his made it clear that she was just sleeping.
+
+Then he sent a glance back at the massive suit of armor.
+
+I feel a bit bad for the Infernal Armory. I don’t think it was expecting anything like this when I made the Devil’s Den its armor. She’s… intense.
+
+The Infernal Armory’s wall opened with a rumble, granting a wide passage to the dark, empty, moonlit street beyond. Uriel straightened to her full height. Then she paused. The huge suit of armor turned to look back at Arwin as if a thought had just struck her.
+
+“Is something wrong?” Arwin asked.
+
+“You’re going to need to make a bigger tub,” Uriel said. “A much bigger tub.”
+
+Then the wall closed behind Uriel, and the Infernal Armory was silent once more.

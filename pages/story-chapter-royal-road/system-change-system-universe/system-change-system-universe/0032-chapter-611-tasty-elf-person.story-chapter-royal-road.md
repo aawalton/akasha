@@ -1,0 +1,145 @@
+---
+id: 6bf60582-6160-5253-8255-0d2f16ed6f48
+page-type-slug: story-chapter-royal-road
+title: "Chapter 611: Tasty Elf Person"
+slug: 0032-chapter-611-tasty-elf-person
+partOf: system-change-system-universe
+position: 32
+ownLength: 2240
+unit: words
+ownProgress: 2240
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2840187/chapter-611-tasty-elf-person"
+royalRoadId: "2840187"
+markedReadAt: "2026-06-29T19:57:45.932Z"
+---
+
+Chapter 611: Tasty Elf Person
+
+In Derek’s immediate surroundings, he could see the same or at least a similar dark room that he’d been summoned to on multiple occasions. The thing that really clinched it, though, was the ephemeral voice that sounded like it was coming from everywhere at once. So, his ability to pull me in here has to do with the dungeon orbs. Does that mean that he can’t just yoke me up out of nowhere? he thought as he continued to scan the area.
+
+Moments later, the room lit up a bit, and furniture began appearing around him. The first thing that appeared was the recliner that he’d sat in before. Derek didn’t bother with formalities and walked over to the chair and sat. It was still the best feeling seat that he’d ever had the pleasure to sit in. It was like he was sitting on a cloud.
+
+On his shoulder, Silvi waited until a table appeared, then she hopped onto it and into a cushion close to the edge. “Where food?” she asked, and Derek chuckled. The last time they were here was just a short while before the invasion, and Silvi sure wasn’t going to forget about the food that Dave had given her. Sure enough, just after she spoke through her communication crystal, a small dish with what looked like a slice of lemon pie appeared. “Thanks, tasty elf person Dave!”
+
+“You are quite welcome, Silvi,” Dave’s voice appeared again in the surroundings. “Now, if you will allow me a few minutes, there is something that I am currently taking care of. I’ll be with you soon.”
+
+“Sure,” Derek said with a shrug. “Take your time.” Then, he raised the leg rest up, stretched out on the chair, and released a massive yawn.
+
+“I see that you really are a fan of that piece of furniture,” Dave said, startling Derek awake.
+
+Derek shot up with wide eyes. He hadn’t realized that he’d fallen asleep, and he had no clue how long he was out. He looked to his right and saw that Silvi was now eating something that looked more like a cake, so he’d been there at least long enough for her to finish a slice of pie. Which is what? One second? he mused. Unless it’s like the last things she got from Dave. But then she might not even be able to consume it all.
+
+After the panic died down a bit, Derek sat back down and looked ahead. In front of him, Dave sat just as usual. “How long was I out?” he asked.
+
+“That very much depends on your definition of time.”
+
+“So… how long?”
+
+“In here? Oh… maybe half an hour. Not long,” Dave replied. “Outside of here? Practically no time at all.”
+
+“I see,” Derek said. “And how does that work? I always wanted to ask, but there were more important matters.”
+
+“You can think of it in the same way that you think of your Time Prison,” Dave answered with a shrug. “I personally have no affinity with time, but that does not mean that I don’t know others who do have said affinity. There is quite a bit more to it than that, but to make matters simpler and save some time, just assume that there is a great time mage doing the heavy lifting.”
+
+“Oh,” Derek replied. He wasn’t a fan of the half-answer, but he would take it. He actually still did have more important matters. “So, what do you want to talk about today?” he asked.
+
+“First, this may be the last time we speak to one another for a long time,” Dave said, then he looked towards the sky—almost like he was staring through the ceiling—and said, “Though… I guess it is possible that we speak to one another again very soon…” He scratched his chin. “I certainly do not know how the Origin System is going to handle everything…” Dave shook his head, then said, “First, I want to thank you for sticking around until the invasion was over.”
+
+“Sure,” Derek replied with a shrug. “I think Braxton and the others could have handled it, though.”
+
+“It is possible that they would have been powerful enough, but I am not so sure. The Ascarian would have made things very difficult for the other Guardians,” Dave replied.
+
+“Ascarian?”
+
+“The one known as Amelia,” Dave replied. “The Ascarian are an ancient people spread thin throughout all systems in the universe. They are few in number compared to humans, elves, dwarves, and the more common races, but they are extremely fierce in their magic. As you may know, up until a certain point, each race has advantages and disadvantages over other races.”
+
+“Yeah,” Derek said. “Like, elves live way longer than humans.”
+
+“Exactly,” Dave said. “And these are things that are not quantified by the Origin System.”
+
+“What are some other examples?”
+
+“Well, there are elves and their longevity, lack of fertility, and ability to have children. Humans, on the other hand, have it easier when gaining affinity towards their chosen aspect. However, they are quite a bit shorter-lived than many of the other races. Dwarves are an interesting bunch, too. They have an innate resistance to poisons and toxins, relatively long lives, and a natural affinity for forging. However, most have a terrible affinity with any elemental aspect beyond crafting and are very stubborn.”
+
+“I see,” Derek replied. He was enjoying his brief lesson. “What about the… as… carian?”
+
+“Ascarians are also known as Volcano Giants,” Dave replied. “They have a constitution similar to giants and are very versed in elemental affinities. The Ascari are able to focus much of their initial stat distributions on wisdom and intelligence and forgo vitality and endurance. Surprisingly, even though they are a giant race, they do not process strength and dexterity as well as other races. So, they are a giant mage race. They are quite a contradiction, but that contradiction has made them surprisingly powerful in the System Universe.”
+
+“Really?” Derek asked. “Amelia seemed pretty strong physically.”
+
+“Like I said, she had a giant constitution, and in the initial stages, that giant constitution matters a lot,” Dave replied. “Her constitution will begin falling behind once she reaches level 300 or so unless she achieves certain Titles or receives assistance. You see, because of their bodies’ innate inability to process those physical stats, one point in… say… their strength stat may only equal eighty percent of your own. However, the reverse is also true. One point in wisdom may equal one hundred and twenty percent of yours.”
+
+“So… humans sound like they are just… average in everything?” Derek asked. “And Ascari are great glass cannons because they start with an already strong body and can focus on their early magic development?”
+
+“Yes!” Dave replied. “And humans are average in everything, yet they are the most abundant race in the System Universe because they have very high birthrates. Even if one gets stuck with a low-rarity class and thus is unable to continue to grow powerful, they may still live a fulfilling life of a few hundred years and have many children, grandchildren, and so on…”
+
+“Get… stuck?” Derek asked.
+
+“We’ll speak about that later,” Dave said, dismissing Derek’s question. “It seems that we get sidetracked when speaking with one another. Let’s go back to the invasion, shall we?”
+
+“Sure…”
+
+“Good!” Dave replied as he leaned forward and handed Derek a cup of coffee.
+
+“As I was saying, Amelia would have been trouble for your dwarven friend, and I am unsure how your elven friend would have fared against the others—especially the one called Jakis. That boy joined the invasion on the brink. Now he has already ascended.”
+
+“Jakis did?” Derek asked. “But… it’s been like… no time at all…”
+
+“And yet he is no longer in the Universal System V3,” Dave replied.
+
+“Good for him,” Derek said. “He seemed decent enough, at least. Well… he didn’t run.”
+
+“We’ll see,” Dave replied. “It may be good, but it may not be. It is up to the Origin System to decide his new start, and up to him to push forward. Though, for ascending, he will have some advantages.”
+
+“Will I?”
+
+“Of course, you will,” Dave said with a laugh. “I am unable to see your status, but I would assume that you have many Titles waiting for you to ascend?”
+
+“I do.”
+
+“Well, Jakis will not have all of those, but he will surely receive some that will give him a good boost,” Dave replied. “But, as I said, it will be up to the Origin System which Titles or Achievements he receives.”
+
+“So, will Jakis be in the Origin System?”
+
+“No,” Dave replied. “Not everyone gets to skip an entire system tier… actually… almost no one does. You are an anomaly. It is just that the Origin System governs all.”
+
+“I guess I am just that good.” Derek took a sip of coffee and sighed in delight. “Delicious.”
+
+“Very much so,” Dave replied, then took a sip himself. “Now, as I was saying, your being part of the invasion did a few things for me. First, your presence increased the Guardians’ chances by a staggering amount. Second, it reduced casualties greatly. I have witnessed a few invasions, and none have ever ended so… peacefully.”
+
+“You know multiple Guardians and Champions died, right?”
+
+“I do,” Dave said. “But very few common folk and soldiers did. That is a great achievement in and of itself. Usually, you see mass casualties on both sides. That’s thousands of an invading system’s best fighters. The same is true for the defending system, but also, non-soldiers and lower-level soldiers get a raw deal, too. Actually, the Origin System did not always have all those rules and regulations on invasions. It was not uncommon to see entire cities and their people razed to the ground. That no longer happens with the added rules, but there is still usually much death and bloodshed.”
+
+“Oh, I hadn’t thought about that.”
+
+“Yes, it can be quite tragic,” Dave said. “So, knowing that an invasion was only centuries or so away, I took that chance on you, and it paid off. Not only did you increase our chances and reduce casualties, but your presence also ended the invasion in a very short amount of time.”
+
+“It would have been faster if people had fought instead of hiding,” Derek said.
+
+“True,” Dave laughed. “But that leads me to the next problem we would have had if you hadn’t been there…”
+
+“What problem is that?”
+
+“Your friend Jace,” Dave said. “That man is a wildcard. An affinity for battle is as rare as an affinity for space.”
+
+“That doesn’t make sense,” Derek said. “Everyone on Earth who got the system had to battle. I’ve been in a ton of battles both there and here. Battle seems really common.”
+
+“True, but people don’t normally gain an affinity for battle as a whole,” Dave said. “Usually, your affinity is with something very personal to you, like an element, craft, or weapon. Your friend’s affinity isn’t like that. He is drawn to battle. Where there isn’t battle… if someone like him doesn’t have proper control, he will make a battle. It’s not an affinity for rage or bloodlust—which can look similar.
+
+“I know of only a few dozen with a Battlelust affinity,” Dave continued. “No, I know of only a few dozen with a Battlelust affinity that were able to survive. You can grow your affinity by focusing on the void, using skills… hell… you can go inside the void and just sit there for a century or two if you want, and your affinity will naturally increase. Your friend and other Battlelust users? They can only grow their affinity while in battle. It’s a harsh reality, but when someone with an affinity for it reaches a high level… they are frightening.
+
+“Many system users become dull blades as they grow older and stronger. They may have the strength, but they lose the experience to use it because they get complacent,” Dave said. “But with Battlelust, that can’t happen. They will go crazy looking for a battle up to a certain point in their growth. But as their strength grows, so too does their ability to use it. They are a blade that is continually sharpened.”
+
+“Would… it be okay if I told him this?” Derek asked. He didn’t feel sorry for Jace. His friend seemed to be enjoying his life.
+
+“You may,” Dave said. “It is no secret, though it is a very hard affinity to unlock. If he can make it to a certain level, your friend will have all the opportunities in the universe. There are organizations that will fight over him. If he can get to, say… level 500 and upgrade his class, then things will get a whole lot easier for him.”
+
+“That’s good,” Derek said. “I don’t think he’ll have a problem doing that.”
+
+“That may not be the case,” Dave replied. “The levels come easy, but the affinity to grow your class does not—especially for a Battlelust user.”
+
+“He’ll do it,” Derek said. “I may even be able to help.”
+
+“I doubt that,” Dave said. “You’re going to have your own problems when you ascend. Battlelust is a rare and dangerous affinity, but void… in the Origin System… it can be quite troublesome.”

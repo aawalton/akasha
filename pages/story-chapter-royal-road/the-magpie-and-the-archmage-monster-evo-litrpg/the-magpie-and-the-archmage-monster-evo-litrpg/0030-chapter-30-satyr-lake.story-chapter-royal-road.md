@@ -1,0 +1,161 @@
+---
+id: bcc3d447-c08f-55c0-bf7c-9332b4ed7616
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30 – Satyr Lake"
+slug: 0030-chapter-30-satyr-lake
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 30
+ownLength: 1985
+unit: words
+publishedAt: 2025-10-04
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2650486/chapter-30-satyr-lake"
+royalRoadId: "2650486"
+---
+
+Despite Liora's conviction that she would make it to the Satyr Lake the same night, after everything that happened, she felt mentally exhausted. She flew along the river for some time to put distance between herself and Sunvale. The further away she got, the livelier the place seemed to get. Plants regained their vigor, more animals bustled about, even at night, and the air got much easier to breathe.
+
+Eventually, Liora settled herself into a big oak near the river. Its thick canopy provided many resting places, and she even noticed an owl or two perched on its branches. But since they were regular birds and not monsters, Liora didn't feel bothered by them.
+
+When Liora woke up, it was well past noon. The foliage from the oak had hidden her from sunlight, so she was able to sleep undisturbed. It almost felt like a shame, leaving such a good sleeping spot behind, but she had to continue her journey.
+
+This is amazing, you know.
+
+What is?
+
+Liora asked, confused by Renir's sudden words. He'd been mostly silent, likely thinking about magic or one of his thousands of theories about whatever it was he deemed interesting at the moment.
+
+Looking at the world like this. Above everything, just watching the scenery pass by.
+
+Liora had to agree. This was why she never lamented being reborn as a bird. The freedom you got from flight was better than anything human life could offer. The scenery below them was just as beautiful as Liora's forest. She wondered how the other magpies were doing. Hopefully, they were well.
+
+A vast shimmering river stretched forward, its water teeming with life. At some point, it had converged with another river and become wider, which in turn provided the plants with much needed nourishment. There were trees, lush plains, and vast amounts of shrubs filled with berries and other natural bounties.
+
+Liora wasn't shy. Whenever she saw something she liked, she would stop and eat it. Like the delicious blueberries she spotted in the nearby forest. Or the crunchy sunflower seeds. Those were her favorites and quite filling to boot. It wasn't long until her belly was full.
+
+Being a magpie is superior!
+
+I can't deny that it has its perks.
+
+She could feel a sort of warm fuzziness coming from within her. At first, she thought it was her, but then she realized that it was Renir. Was she actually feeling his emotions? That was a bit odd. But at that moment, she didn't mind. Liora was happy that Renir was coming to understand the joys of being a magpie. Maybe he wasn't as hopeless as she had initially thought.
+
+Shortly before dusk, Liora stopped to rest her wings. She took Renir out of her Inventory since it had been a while since she had done that. Couldn't do it in Sunvale with those creeps skulking about.
+
+"Oh, how pretty you are," she cooed, admiring the beautiful colors shimmering within Renir. The rays of the setting sun only made them more vibrant. Liora just wanted to polish him with a cloth. It's a shame she didn't have one. Perhaps, she should snatch one in Cyene. It's bound to have a marketplace, and surely nobody would miss a small handkerchief.
+
+"Ugh… Do you have to be so creepy about it?" Renir muttered. "Although it is a bit refreshing to be out of your Inventory."
+
+"It's not my fault you're so beautiful," she said, rubbing her beak against the hard surface of the gem.
+
+"Stop that! Better take that necklace out. Might as well check if it has any effect," Renir said.
+
+"How can I check?" She asked.
+
+"You can't. You need a skill for that, which you could buy—"
+
+"No!"
+
+"Yeah, I figured you wouldn't. But I have the [Appraise] skill, so I can check it for you if you put the necklace against me. Touch me if you want to see the System window too."
+
+Liora carefully placed the necklace next to Renir and then touched him. She had to admit that looking side by side, the gem within the necklace didn't look as nice as Renir. It still shimmered beautifully, but the color wasn't as vibrant, not to mention that it seemed almost manufactured. It had lost some of its natural beauty. Renir, on the other hand, had bright orange specs within him that appeared and disappeared depending on the light.
+
+"Why are you ogling me like that? Focus, birdbrain!" He reprimanded.
+
+Liora turned her attention to the System window that had appeared before Renir at some point.
+
+[Necklace of Sunpeak]
+
+[Once a powerful Divine artifact, now just a shadow of its former glory, this necklace shall provide its wearer with divine protection and improve their mana regeneration.
+
++ 5% resistance to Holy magic
+
++ 1 mana regeneration per minute]
+
+"Mana regeneration! This is exactly what you need!" Renir cheered. "The rate is somewhat low, but for your minuscule mana pool, it should be more than enough!"
+
+Liora had the urge to peck him for calling her mana pool miniscule, but she held back. It wouldn't do her good to damage her most precious treasure.
+
+"But how do I use it?" She asked.
+
+"You wear it, of course," Renir said.
+
+Liora let out a dissatisfied caw.
+
+"What's your problem now? I thought you liked shiny things."
+
+"It's heavy. It'll make flying hard and make me more noticeable," she explained.
+
+"Ah! Yeah, that is a problem. Your whole fighting style revolves around stealth. That's a shame, it really would have been useful," Renir said.
+
+"Wait… I can wear it only when I need to recover mana," Liora noted.
+
+After all, with her Inventory unlocked, it was easy to take stuff out and put it back in. When her mana ran out, she would put on the necklace and let it recover. Once it was full, she would put it back in the Inventory. She was really glad that her investment of 50 glimmerstones wouldn't go to waste.
+
+"Oh, yeah. That works too. It would have been better if you could wear it all the time for that 5% protection bonus, but I suppose we wouldn't run into such a rare form of magic every day," Renir said.
+
+They enjoyed the last rays of the sun, watching the sunset in the distance. Liora mostly just wanted to admire her two gemstones, and thankfully, Renir wasn't in a rush. Once the dark set in, Liora placed him and the necklace back in the inventory and continued the journey.
+
+When you see the lake, be on your guard. It is a monster zone in its own right, although not as dangerous as the Blightpeak.
+
+What kind of monsters? Please, no more chimeras or overgrown mushrooms. And if you mention hyenas, I'm flying past that place even if I have to fly until dawn.
+
+No, it's nothing like that. Do you want to guess which monsters are common in a place called Satyr Lake?
+
+It didn't take a genius to realize it would be satyrs. But she had no clue what those even were. She had heard the name some time in her human life, but couldn't recall how the monster was portrayed. There was this strong feeling that it wasn't very impressive.
+
+Well, whatever those monsters are, I'll be on my guard and stick to the shadows.
+
+Good call. Stick to your strengths.
+
+The night was serene with a beautiful moonlight shining down upon the river, with stars shimmering in the dark night sky. Liora was awestruck by its beauty. As a magpie, she never went out in the dark. She couldn't see much after all. But now that she could see, she realized how much she had been missing out on. The whole sky was littered with shinies!
+
+I wish I could just fly over the world like this forever.
+
+Yeah… I thought the scenery during the day was amazing, but this is something else entirely.
+
+I wish I could somehow stash this moment in my Inventory. It's like a treasure in its own right. Beautiful, shiny and unforgettable.
+
+Your greed knows no bounds, little thief, but… I agree. Moments like these make it worth living.
+
+Liora continued at an unhurried pace, enjoying the moment together with Renir in silence. Usually, when he was silent, it felt like he wasn't even there. But she felt his presence then, and it was comforting. It was pleasant to share this experience with someone.
+
+But sadly, it couldn't last forever, and after a few hours, Liora reached what was undoubtedly Satyr Lake. It was a beautiful place, but the serene feeling was gone. Liora could sense that this was not a place where one would go for a picnic.
+
+She didn't have to worry about being spotted by some monster thanks to Shadow Glide, but Liora decided to hide in the canopy and observe the lake first. Frogs were croaking and grasshoppers were buzzing about the lake shore. It appeared innocent enough.
+
+But then something stirred on the lakeshore some distance away. Liora couldn't tell what it was, but the shape was humanoid. Had some humans made their camp somewhere nearby? But there was no sign of any fire or anything else that could indicate their presence.
+
+She decided to fly closer, relying on Shadow Glide to keep her flight hidden and silent. Stopping some 50 meters away from the place where she saw the movement, Liora landed in a tree and watched the shoreline.
+
+Then she saw it. A female-like figure rising out of the waters and stepping onto the shore. It looked like she was made entirely of clear water, the moonlight flickering through her suggestive shape.
+
+I've never seen a satyr, but I'm pretty sure that isn't one.
+
+No, it's a water nymph. Do not fight it. Physical attacks won't do much–you need some strong magic to defeat one.
+
+Yeah, I wouldn't know how to fight a walking puddle.
+
+It is a sight for sore eyes, though.
+
+Liora looked at the nymph again. Her form appeared more solid as she stepped on the shore, giving her a rather scandalous appearance of a naked woman. Who was blue and somewhat translucent.
+
+You pervert.
+
+Hey, a man likes what he likes. Besides, the real pervert is about to show up. Watch!
+
+Liora reluctantly looked at the scene, acutely aware that what she saw, Renir saw too. She was almost tempted to close her eyes to preserve the water nymph's modesty. But then again, it was a monster that likely didn't care for such things.
+
+The nymph plucked some flowers growing by the shore, when suddenly a figure darted out of the bushes. It was a man. Kind of. Not really. It had the torso and head of a short, very hairy man, but that's where the human-like features ended. The creature had two furry goat legs, a stocky goat tail, horns and those creepy rectangular goat eyes.
+
+Satyr, Liora realized it couldn't be anything else, was frothing at the mouth as it ran towards the water nymph with outstretched arms. Its intentions were disgustingly clear.
+
+Ugh, what a vulgar creature. I feel sorry for the nymph.
+
+Don't. They drown whatever man crosses their path. But even they are too disgusted with satyrs to consume them.
+
+The water nymphs did show a clear grimace of disgust and threw a water ball at the satyr. It hit the creature straight in the face, and it fell to the ground. In the meantime, the water nymphs escaped back into the water, shaking their head and looking thoroughly disappointed.
+
+So I guess my target is the satyr.
+
+Yeah. They are tough creatures, but I think with your ability to fly, you should be able to defeat them.
+
+Liora took flight. It was time to gain some experience and finally evolve. Those nymphs certainly wouldn't miss this goaty pervert.

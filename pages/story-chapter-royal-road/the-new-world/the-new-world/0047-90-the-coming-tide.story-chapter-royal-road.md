@@ -1,0 +1,161 @@
+---
+id: f1641df8-9c3c-524e-b6fa-e2305887df98
+page-type-slug: story-chapter-royal-road
+title: "90 The Coming Tide"
+slug: 0047-90-the-coming-tide
+partOf: the-new-world
+position: 47
+ownLength: 2708
+unit: words
+ownProgress: 2708
+publishedAt: 2017-12-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/181007/90-the-coming-tide"
+royalRoadId: "181007"
+markedReadAt: "2026-06-29T21:22:24.018Z"
+---
+
+I would be ready for him. As I fell back to the ground, I molded my armor. Sleek and aerodynamic, I sliced through the air then the ground. After racing through the ground, I dispersed another burst of energy, firing back into the air. Each time I did, I built momentum and speed.
+
+It was kind of like going higher and higher on a swing set. Each time I dipped down, I mitigated my loss in momentum. As I went out of the ground, I added to my momentum. Over a few minutes, I ended up soaring through the sky, higher then I’d ever been.
+
+It was an amazing thing. I always wondered what flying was like. I never flew on a plane or anything like that either. This was incomparable to that because there wasn’t anything buffering me from the wind and sun. It reminded me of running when I was a child. I could be running so slow, yet feel so fast.
+
+Even though I wasn’t supersonic or anything, this was faster then I’d ever run before. That made the sensation and rush palpable, like riding a bike for the first time. As I embraced that feeling of freedom, I found myself grinning. This was fun. Shooting in and out of the ground, seeing a view of the forest for miles, and the flow of movement, it all appealed to me.
+
+I enjoyed using my strength. I cherished it. I worked, putting blood, sweat, and tears into forging my mind and body into a tool. Appreciating the pay off was an important part of the process, at least for me. It kept my motivation high.
+
+With that motivation, I homed back in on learning. I dipped in and out of the ground like a landshark. I kept myself flowing, intent on turning the ability into an instinct rather than a thought process. As minutes turned into hours, and the hours turned to days, I forgot about what I was doing. It was a trance.
+
+My mind turned numb at the task, parts of it becoming second nature before everything clicked. The spike in awareness came with a flood of clarity. It reminded me of the difference in a new fighter and an old one. The new one was choppy and mistimed his shots. He couldn’t think as he fought. An older fighter could punch without any thought. It was like breathing to him.
+
+Now movement, no matter the complexity of how I did so, was like breathing to me.
+
+Mythical skill gained! Fuses the three unique skills, Phaser, Earth Glider, and Meteoric Rise into a single skill, The Coming Tide. Points earned: 105 | Points Possible: 300 | Points rewarded: 98
+
+The Coming Tide(lvl 1) - Some things cannot be stopped. You are among them. Enhances movement and reduces debuffs to movement. Effects in combat movement as well.
+
+As I sliced into the ground, I turned the direction of my travel. It was a smooth, guided turn. The shift wasn’t abrupt or uneasy. I slowed myself down, grinding my hands against the dirt before flinging myself from the ground. I reformed back into my normal self, my armor altering like liquid. I walked on the ground for the first time in several days.
+
+It was weird. My steps felt foreign and out of place. Scratch that, it wasn’t what they felt like. It was what they didn’t feel like. It wasn’t like telling my feet to move. It was like I wanted to go somewhere, and I just moved without thought. IT wasn’t like an autopilot either. It was more a result of a supreme and utter control.
+
+As my feet thumped against the ground, I cracked my neck and rolled my shoulders. I jumped forward. I submerged in the ground. My armor molded without any thought. All the augments, adjustments, all of that faded into a background noise. Surrounded by the dirt in all directions, I grinned.
+
+I stomped on the ground, shooting myself out of the ground. I landed on the ground before taking three steps forward. On the third step, I let myself go into the ground. I fell to the earth as if it wasn’t there. My armor, gravity vortexes, and telekinesis allowed me to do so. Even in the middle of a fight, I could adjust my height in stone and earth, letting me dodge attacks.
+
+It would be a powerful tool, not even mentioning the ability to overcharge my runes. After playing with the skill for a bit, I raced back towards the camp. Three days were done, meaning Torix and Hod might be waiting for me. I checked my inbox, the first time I had done so in days. There were four messages. Three were from Torix, one from Althea,
+
+Torix Worm, of Darkhill(8:00 A.M. 12/01/00) - Hod has fully recovered. You may come back towards my lair whenever you are ready to leave. The sooner the better, however, since Hod refuses to stop his pestering.
+
+Torix Worm, of Darkhill(1:18 P.M. 12/01/00) - I can handle it no longer. Come at once. If you wish for my sanity to remain intact, you will do so. I’ve given him many of my summonses for his amusement. They never hold his attention for long.
+
+Torix Worm, of Darkhill(3:21 P.M. 12/01/00) - Why did you bring such an incompetent into our ranks? I understand he holds a unique skillset and a high level, but is it truly worth it? I believe not! How am I supposed to even function with him here...
+
+That is to say, please help me.
+
+Althea Tolstoy( 4:37 P.M. 11/31/00) - Where have you been the past couple days? I hope I didn’t make you mad :> Oh yeah, I’ve really been missing our lunches together! The rations are terrible
+
+With my new mythical skill, The Coming Tide helping me, I could read them all without missing a beat. The messages from Torix made me laugh while I flew through the air. Althea’s message was surprisingly adorable, but you wouldn’t catch me dead telling anyone that. Regardless, I closed the messages, traveling towards the town at a blistering pace.
+
+Before I reached it, I handled one last task with my status. I checked out my tree points, and I had just enough for another rank in obliterator. Not wanting to go without the free stats, I put the points into the tree as I flew through the air. As I finished putting them in, I got my reward.
+
+This perpetual cycle of recreating yourself is what separates you from the masses. You have zero fear of failure. This is because you understand what Failure is. Failure is facing your weakness. Once you’ve faced your own weakness, you may fight it. Otherwise, you will never know.
+
+1,500/2,500 milestone reached! II Obliterator unlocked (Tier 3) +75% of total experience gained for levels and skills. This bonus is multiplicative with previous bonuses, not additive. +6 attributes rewarded for every 5 levels over level 1,000.
+
+With it came extra attributes and the bonus experience multipliers. Those multipliers were probably why I was able to learn this new mythical skills so quickly. With the extra 144 attribute points from the added tier in Obliterator II, I put my attribute points into endurance. I didn’t even stop moving as I hit select.
+
+My mind sharpened, and the ascendant mana pouring through my runes enhanced once more. With this new excess, the speed of my travel heightened more than I thought it would. I outsped birds with ease as I dived in and out of the earth. Wondering why the flow of mana increased so sharply, I opened my status screens,
+
+Level 1362
+
+Strength – 1294 | Constitution – 1598 | Endurance – 3299
+
+Dexterity – 412.2 | Willpower – 2000 | Intelligence – 753.4
+
+Charisma – 98 | Luck – 250 | Perception – 193.7
+
+************************************
+
+My health regen increased by over a tenth. At this point, that meant over a hundred more health regen a second. Wondering why my regen spiked, I opened my perk screens. I figured it out after a minute of searching.
+
+The level 1000 willpower perk increased my health regen since I reached 2000 willpower. That meant my health regen jumped up again, just like last time. All my other stats increased slowly by comparison. The two levels I gained from the last dungeon were hardly worth mentioning for that reason.
+
+I would need some ridiculous bonus before I felt it again. The last rank in the obliterator perk was my best bet for that. With three mythical skills now, gaining a legendary skill might not be far off anymore. If I could get it, then the completion bonus would be ridiculous since mythical skills capped out at 1000. I might be able to finish the Obliterator tree and start chopping away on Titan Slayer.
+
+With that in mind, I looked up from my status screens. I flew up into the air, well over the trees, and Springfield spread out before me. It was a warzone.
+
+Giant beetles stood behind steel legion vehicles and troops, firing green bolts of energy. The green plasma shot out into the yellow forests, splashing into trees with a vibrant emerald in the distance. Troops fired plasma rifles that streaked with blue flashes. They melted flesh, halting regeneration.
+
+Those blue bolts came from trenches lining the streets, just inside the containment field. Eltari flew through the air above the assault, dropping bombs or diving into the spawns and named of Yawm. From all sides, the forest’s grip waned. The yellow wasn’t growing anymore. Patches of the forest browned, dying as the troops cut through the roots and left the forest to burn in a green fire.
+
+All of the suburbs had been taken over. The dense, lush cityscape was all that remained now. The followers couldn’t or weren’t handling the problem. Without Etna’s explosive assaults, Torix’s blitz sped up with epic results. At this rate, it wouldn’t even be a week before they reached the world tree.
+
+A delighted smile raced up my face as I stared at the sight. I landed in the middle of an empty encampment, all the tents empty and no one walking nearby. They all busied themselves with slaughter. It was a refreshing feeling, knowing morale was no doubt high. Even if an army is facing giant monsters, they won’t give a fuck if they’re beating them.
+
+I leaped over the buildings and burrowed under them, weaving through obstacles before landing in front of Torix’s house. As I did, I kept a giant telekinetic pad beneath me. This compressed the area beneath me, creating a circle of deepened earth surrounded by cracks. Hod raced out of the room at the sound.
+
+Across his face, three beetles tried chewing through the metallic plate. He raised his fingers, several larvae chewing on his fingers. Hod whined,
+
+“Hod need Harbinger’s help! Dry man no help Hod.”
+
+I rolled my eyes before jogging up. I jerked the beetles off him, letting them bite into my armor. Their teeth shattered against my skin as we walked inside. Torix went back forth, the lines on his map ever-shifting. He sent out message after message, typing out messages onto his status screen and sending them.
+
+He didn’t even use his real hands. He had two extra arms made of blue mana that did it for him. He walked towards a ritual site where he placed a palm on an egg. A flash of black and purple mana shot outwards, blowing a few papers back before Torix stepped back up towards the map. The red lines shifted before he sent a few more messages.
+
+From behind him, a jet black beetle crawled out of the egg and expanded. A giant sack of green dragged against the wooden floorboards. Torix walked up towards the beetle placed a palm on the beetle's forehead. A flash of darkness followed. The eyeless beetle nodded, scurrying off towards a giant tunnel leading to the basement.
+
+I blinked a few times before Torix turned to me,
+
+“Thank Schema you’re here. Another second of Hod’s interference and I’d have snapped.”
+
+Torix always looked thin, like a dried-out corpse. He covered himself in an elegant, soft robe of black and gold that kept him from being gross. Combine that with two cobalt colored fireballs for eyes, and Torix struck an imposing figure. That figure degraded during the three days I spent learning my mythical skill.
+
+The robe was disheveled, lacking the pristine clean Torix normally maintained. His eyes were more like blue coals than the normal fiery circles. On his face was a manic smile though that contrasted the exhaustion showing everywhere else. As he paced up to me, a spark of fear shot up my spine. It was like a mad doctor coming at you with a scalpel. Talk about spooky.
+
+He pointed a finger at me, “You had better have a good reason for taking so long.”
+
+I nodded, “I do.”
+
+Torix spread his arms, “Well...What is it?”
+
+A mischievous grin appeared on my lips, “I got my next mythical.”
+
+Torix clapped his hands, “Well then, I suppose that will do. Is that your fourth one already?”
+
+I raised three fingers, “Nope, only three so far. I’m hoping for a few more soon.”
+
+“Good. Now, you and Hod will finish off the last dangerous rift near the center of the world tree. I’ve waited until all of the followers were preoccupied. After one of their own disappeared, they’ve been far less disruptive. I believe you’ve given them something to fear. Now I’m abusing that fear.”
+
+Torix turned towards the map, walking with purpose, “I told the troops one of their own has slain a follower over two thousand levels above himself. You’re being looked to as a symbol of the resistance, partially for your humanity and partially for your feats.”
+
+I frowned, “Sucks some of those feats are lies.”
+
+Torix shook his head, “They aren't quite lying, however. They are the truth presented from an angle. Regardless of your misgivings about them, they are fulfilling their purpose. With each passing moment, our troops are leveling as the enemies forces are waning. It’s as if we’re cannibals feasting on the corpses of our enemies.”
+
+Hod raised a hand, “Except Eltari. Eltari not cannibals if eat human.” He leaned forward as if he was saying something profound,
+
+“Humans ugly though. Hod doubt Eltari ever eat human. Human too much like metal too. Hod does not understand why Humans all covered in metal.”
+
+Torix and I stared at him, trying to decipher his sentence for a moment. I pursed my lips, “Hod...the legion and I are both wearing armor. That’s not our actual skin or anything, except with maybe me. I’m not normal though.”
+
+Hod’s hands lowered as he gasped, “Humans have no metal skin?”
+
+Torix pinched the bridge of his nose, “Answering your questions is like driving a nail through each of my fingernails. The word hatred, quite frankly, can’t explain what I feel for you. It’s something darker, more malignant, like cancer.”
+
+Hod nodded, “Hod understand Dry Man anger. Dry Man thirsty because Dry Man is dry. Hod forgive Dry Man. Hod get cranky when Hod thirsty too.”
+
+I laughed as Torix raised both his hands to his face,
+
+“If I had a working heart, it would shrivel and die knowing you exist." Torix turned to me, "Take him away from me. I can handle no more.”
+
+I grabbed Hod and dragged him out of the house,
+
+“Yeah, I can’t blame you. Anyways, keep kicking ass here and I’ll do the same out there.”
+
+Torix nodded, his frustration fading into a slight smile, “I expect as much from you.”
+
+After getting Hod out of the house, I turned towards Hod. Despite Hod's lack of mental prowess, his speed was undeniable. While not as quick as Althea, he was a close second in our group. Kessiah could outrun all of us in theory, but the ground would just melt under her feet. It would be like trying to jump on water.
+
+Curious about figuring out how fast I was now, I asked,
+
+“Want a race?”

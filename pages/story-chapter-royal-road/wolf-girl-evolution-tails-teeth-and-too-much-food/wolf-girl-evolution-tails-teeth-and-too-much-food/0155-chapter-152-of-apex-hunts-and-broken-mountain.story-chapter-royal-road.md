@@ -1,0 +1,335 @@
+---
+id: 15a2586e-7a4c-586b-b5e1-aea38f5783ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 152: Of Apex Hunts and Broken Mountain Faces"
+slug: 0155-chapter-152-of-apex-hunts-and-broken-mountain
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 155
+ownLength: 2618
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3859860/chapter-152-of-apex-hunts-and-broken-mountain"
+royalRoadId: "3859860"
+---
+
+PoV Luna
+
+Hunting big beasts was fun!
+
+So much fun!
+
+The Vaelthorn Teeth were full of heavy monster smells, broken stone, clawed trees, steep ridges, hidden hollows, places full of bad bad smellies Luna stomped out at every opportunity, and big tasty Behemoths who thought being enormous made them very safe.
+
+Silly Behemoths!
+
+Luna and Syliana had hunted twelve of them in the last few days.
+
+Twelve massive, massive mountains of meat. Luna could already imagine so much jerky from it!
+
+And she had gained eight whole levels!
+
+Her paws still wanted to tippy-tap whenever she thought about it.
+
+Eight levels meant stronger legs, sharper turns, harder bites, and more zoom in the zoom, for proper awoom! Her body felt packed tighter with power now, like all the good meat and all the good hunting had found places inside her bones, muscles, claws, teeth, and tail.
+
+Her Second’s boom-booms were even bigger and strongerer now too!
+
+At first her friend still tried making careful spell circles, big but tidy bursts, and sharp cuts that went exactly where she wanted. That was good, because Second was smart and careful and did not waste magic. But behemoths were huge, and their hides were rude, and sometimes careful magic only made them angrier!
+
+So Syl had learned to make the air shake.
+
+Luna loved that.
+
+She loved the heavy pressure before a spell broke loose. She loved the way the ground buzzed under her paws when Syliana gathered too much mana in too small a space. She loved the blast of heat, the flash of force, the crack of stone splitting, and the way behemoths stumbled when Second’s magic hit them properly.
+
+Very stronk Second.
+
+Hehehe!
+
+And then there were the steaks.
+
+Luna loved Behemoth steaks!
+
+Her Second cooked them delish!
+
+The outside went dark and crisp, the inside stayed thick with juice, and every bite was full of warm vitality and tingly mana that sparked down Luna’s tongue and into her belly. Behemoth meat was dense enough that her teeth had to work too. And it filled her mouth with smoky fat, hot muscle, and mountain-monster strength.
+
+Every time Luna nommed one, her toes tippy-tapped by themselves.
+
+She tried to stop once.
+
+But the steak was too good, and her tippy-taps won!
+
+And the Behemoths were big. Really big!
+
+That meant lots of nomming. Big bites, little bites, saved-for-later bites, Second-cooked bites, edge-crispy bites, and thick middle bites that made Luna’s tail thump the ground hard enough to scatter pebbles.
+
+Awoomazing mountain meats!
+
+Luna wondered what Mister Grevan and her Sandwich Friend Derek would make out of them.
+
+She drooled, the idea too paw-licking delish!
+
+And now…
+
+They had found even bigger prey!
+
+【Enemy Identified: Elder Vaelthorn Behemoth, Mountain-Breaking Menace】
+
+Luna crouched on a broken ridge above the valley with her belly low to the stone and her fluffy fur prickling under Shadow Cloak. The wind came up from below, telling her about tons of crushed trees, old blood, hot monster breath, scraped stone, deep mana, and the enormous heavy-body smell of something that did not consider anything smaller than itself a threat.
+
+The Elder Behemoth stood among broken forest like a white-footed statue that had decided statues should breathe, roar, and rip hillsides apart.
+
+The Behemoths they hunted before had already been the size of small hills.
+
+This one was easily twice that.
+
+Its great pale feet pressed deep into the earth. Each claw was long enough to split a wagon in half, and could easily gouge out huge trenches in earth and stone.
+
+When it dragged one of its massive arms through the forest, the trunks shattered in a long tearing line. Bristly fur covered its chest, throat, and neck in thick pale mats, while dark plates rose across its shoulders and back. It looked like a mountain had grown armor. Its head was broad, scarred, and heavy, with horns that looked made for arguing with cliffs and winning.
+
+The beast pulled up an entire stretch of trees with one sweep of its claws. As it did, the roots cracked, trunks burst, and branches flew like splinters from a giant broken bone.
+
+The valley shook when the trees hit the ground.
+
+And Luna’s tail trembled with joy!
+
+To most humans, finding this beast would be terrifying.
+
+To Luna, it was standing right there with a big body, a hard hide, a protected throat, and eyes that were probably much easier to hurt than its shoulders. Strong, dangerous, and probably very tasty.
+
+Fun hunting challenge!
+
+Syliana stood beside her, one hand resting lightly in Luna’s fur.
+
+“This is an Elder,” she said. “We do not treat it like the others.”
+
+“Yesh,” Luna whispered.
+
+“I know you’re very capable, Luna – you have proven that many times now. But if that monster hits either of us, there is no surviving that. Please, do not take unnecessary risks.”
+
+“Necessary bites only.”
+
+“That is not quite what I said.”
+
+“Necessary zoomy bites!”
+
+Syliana sighed through her nose, but her fingers scratched once behind Luna’s ear.
+
+Good Second.
+
+Nice Second!
+
+This time Syliana would not do the big boom-booms into its body. The elder was too big to trust one blast to end things cleanly, and Luna wanted the hunt under her paws anyway.
+
+This time, it was Second who would help Luna shine.
+
+Ehehe!
+
+The elder stood deep in the valley, vast and pale-footed, grinding its shoulder against a cliff face.
+
+Stone sheared away under the pressure. Boulders cracked loose and crashed around its legs, bursting into dust against hide thick enough to take the impacts like rain. Plates rose and settled along its spine with each slow movement, and the valley answered every shift of its weight.
+
+Luna stayed low against the ridge stone, ears flattened, paws flexing.
+
+Syliana settled into position behind her, quiet and careful, with magic gathering so smoothly it barely stirred the air.
+
+The elder dragged one horn through the cliff.
+
+Rock screamed.
+
+Luna’s fur prickled from nose to tail.
+
+Strong prey!
+
+Her tail gave one tiny, delighted twitch.
+
+Then Syliana’s spell flashed ready behind her.
+
+Now!
+
+Luna launched, and every movement Skill she had snapped into place.
+
+Run drove her down the slope, even as Jump turned each landing into another burst forward. Shadow Run slid her over stone, root, and broken ground without resistance, and Reaper’s Pass pulled the distance short under her paws.
+
+The ridge vanished behind her in a rush of stone, shadow, and air.
+
+Sound cracked through the valley from the place she had launched.
+
+Luna outran it with ease.
+
+The Elder did not know the fun had started until Luna hit it with full force of zoom!
+
+She struck its shoulder with every bit of force and momentum she could pack behind claws, teeth, shadow, speed, and hungry intent.
+
+The impact slammed through the valley with a resounding boom. The elder’s whole side jolted, one massive foot dragging a trench through stone as its weight shifted. Luna’s claws screamed across plated hide and bristling fur. Blood flashed in thin lines, but the hide barely opened.
+
+“Hard!”
+
+The elder’s foreclaw came around, far too fast for that much monster.
+
+Its own size made the swipe worse. The claw covered half the slope in one furious sweep, and the ridge behind Luna exploded where she had been. Broken rock sprayed after her. She landed on a falling slab, kicked off, and let the blast of stone chase her into the next angle.
+
+The elder slammed its other claw down.
+
+Trees vanished under the blow. The shock traveled through the ground, reached Luna’s paws, and tried to steal her balance. She jumped with it, let the force lift her, twisted in the air, and landed near its face instead.
+
+Better target!
+
+She raked her claws across the side of its muzzle, momentum enhancing the blow.
+
+Blood flashed brighter.
+
+The elder’s head snapped toward her, jaws wide. Luna saw the mouth, the huge teeth, the wet heat inside, and the throat beyond.
+
+Uh oh!
+
+She Shadow Stepped just in time.
+
+The jaws crashed shut with a crack that shook dust from the trees behind her, just as Syliana’s first spell burst against the elder’s left eye in a flash of hard silver light.
+
+The monster flinched.
+
+Luna used the flinch.
+
+She hit the cheek, sprang to the brow, clawed at the edge of the eye, then kicked away as the elder smashed its head sideways into the mountain slope. Rocks rained around her, with splinters of a few unlucky trees. Branches whipped past her even as Shadow Cloak made leaves, dust, and flying sap slide away as she twisted through the mess.
+
+The elder roared again, and mana gathered around its claws in thick, crushing layers.
+
+The next blow arrived without the claw ever touching her.
+
+A wave of force burst from the swing, turning the monster’s strength into a wave of impact that tore low across the ground. Grass flattened in a rushing line. Loose stones cracked and jumped. Luna twisted to slip past it, but the edge caught her and slapped her sideways.
+
+Her paws scraped a trench through the dirt.
+
+Her ribs shuddered.
+
+Her ears rang.
+
+Then Luna laughed.
+
+“Awooo!”
+
+Danger screamed through the magic wrapped around those claws, but danger just made the hunt more fun!
+
+Luna respected strong prey!
+
+And would respond in kind.
+
+Luna zoomed even faster.
+
+She became a black streak around the elder’s head. Across the muzzle. Down the cheek. Under the jaw. Over a broken tree. Off a boulder. Back to the throat. Each pass made her impacts stronger. Each landing fed the next leap. Momentum gathered in her legs, shoulders, claws, teeth, and joy until the world became shadowy lines of where to strike and where not to be.
+
+All aimed where it hurt most, from eyes, to cheeks, and open wounds!
+
+The elder tore another stretch of forest into splinters.
+
+One claw hooked six trees at once and ripped them up with a groan of roots. The behemoth hurled the trunks at Luna like throwing stones. They spun through the valley, branches shrieking through the air.
+
+Luna ran toward them.
+
+The first trunk hit the ground ahead of her and shattered. She jumped the burst of splinters. The second spun sideways. Luna landed on it, ran three steps along the rolling bark, and launched toward the behemoth’s face. The third would have clipped her in the air, but Syliana’s spell struck it from below and blasted it sideways into burning fragments.
+
+Nice Second!
+
+Luna hit the elder’s throat claws-first.
+
+Momentum Claw released.
+
+The impact thundered through the thick bristles and hide. The elder’s head jerked up. Luna’s claws sank deeper than before, but the fur was awful. Bristly strands caught between her claws and teeth like stiff wire. She bit down anyway, tasted hot blood and bitter monster musk, and pulled.
+
+The elder reared.
+
+The ground fell away beneath Luna.
+
+Her first throat bite had opened a red line, but the elder’s hide was thick and stubborn and packed with too much life for one greedy bite to solve everything. Big prey this big needed more than one bite.
+
+That was okay!
+
+Luna had many more bites to give!
+
+The Behemoth’s magically-charged roar burst around her at close range. Force hammered through her ribs. Her jaw ached. Her fur prickled so sharply it felt like sparks under her skin. The magic in the roar tore leaves from branches, threw dust in rings, and made the valley jump under her paws when she hit the ground running.
+
+Pawerful stuff!
+
+Very rude pawerful stuff.
+
+Luna barked a laugh and zoomed harder.
+
+Mere moments later, she struck the throat again in the same place.
+
+Claws scraped through bristle and plate. Blood flashed along the torn line. Luna kicked away before the elder’s foreclaw carved through the air behind her and smashed a trench through the ground.
+
+The big prey wanted one big hit.
+
+Luna had a thousand small ones!
+
+Big number, Luna learned from Second!
+
+She came in from the left next, raked the torn edge, and vanished under its jaw before the head crashed down. A snap at the muzzle pulled the elder’s face aside. A cut across the brow spilled blood toward one eye. A shadow flicker drew its horn into empty air. Then Luna returned to the throat and made the red line wider.
+
+The elder roared, stomped, and swung. Every miss made the valley suffer instead. Claws ripped open earth. Horns shattered the mountain slope. Its shoulder crushed boulders into powder while Luna was already racing toward the next opening.
+
+Luna’s legs started burning.
+
+Uh nuh!
+
+She opened her Maw mid-run, caught a potion bottle between her teeth, and drank from it without slowing. Bitter strength splashed over her tongue and down her throat. Her paws dug harder into the next leap, and the burning became smaller than the hunt.
+
+She still had more zoom to give!
+
+And more potions to spare. Thanks to Second!
+
+Smart Second.
+
+Big prey would lose one red line at a time!
+
+Just then, a line of pale force cast by her friend snapped across the elder’s brow, sharp enough to spill blood into one eye. The elder shook its head, blinded on that side for one beautiful heartbeat.
+
+Luna used the heartbeat.
+
+She crossed the valley, hit the wounded throat again, and tore the same line wider. The impact snapped the elder’s head down. Its broken roar burst crooked through the valley, shredding leaves from trees and throwing dust in rings, but Luna had already kicked away.
+
+The colossus staggered.
+
+Its forefoot came down and split the ground. A shockwave ripped outward from the stomp, lifting rocks from the soil. Luna leapt one, ducked another, and felt the third skim her flank hard enough to sting.
+
+The sting made her ears flatten and her grin sharpen.
+
+Fun hunt. Hard hunt. Rude hunt.
+
+Awoomazing hunt!
+
+Syliana’s next spell struck the ground behind the behemoth, exploding stone and dust into the back of its knee. It stumbled forward. Its throat stretched. Luna saw the red tear under the bristles open wide enough for a proper bite.
+
+There!
+
+She sprinted.
+
+The elder tried to lower its head, but Syliana flashed light into its working eye. It flinched. Luna hit the throat wound with all the stored speed she had gathered.
+
+The whole valley cracked with the impact.
+
+Her claws plunged into hot meat. Blood slammed across her muzzle and slid off Shadow Cloak before it could cling. Luna snarled, dug in, and ripped downward. Muscle tore. The elder’s roar broke into a choking blast that shook her teeth in her mouth.
+
+It still stood, blood steaming through the bristles while its feet crushed stone with each furious shift.
+
+A wound like that would have dropped smaller prey, but this was Elder prey, mountain prey, big stubborn meat with too much strength still packed under its hide. Luna kicked free before the next claw could crush her and landed on a boulder below, panting hard, tail high, body buzzing with force and pain and delight.
+
+Syliana’s magic circled from the ridge.
+
+Light struck its eyes. Force punched into its steps. Shields flashed between Luna and the worst swings, cracking under impacts that would have flattened anything slower. Second kept the elder open, angry, and off-balance while Luna did the close biting.
+
+Clever Second!
+
+The elder lowered its head toward Luna again, huge jaws opening around a wet, broken growl.
+
+Luna grinned up through blood-taste and hot mountain dust.
+
+Big beast, dangerous prey, needing many patient bites.
+
+The first deep bite had landed.
+
+Now the proper Apex Predator hunt could start!
+
+“Awooo!”

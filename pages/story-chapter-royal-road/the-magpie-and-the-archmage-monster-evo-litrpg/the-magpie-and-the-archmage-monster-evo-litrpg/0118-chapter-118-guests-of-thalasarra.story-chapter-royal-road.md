@@ -1,0 +1,175 @@
+---
+id: a35dfd9b-f14d-5eda-82bf-6f2160fcb41c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 118 – Guests of Thalasarra"
+slug: 0118-chapter-118-guests-of-thalasarra
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 118
+ownLength: 2140
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3352002/chapter-118-guests-of-thalasarra"
+royalRoadId: "3352002"
+---
+
+Liora swam down together with the merfolk family. Trying to keep up with them underwater turned out to be quite challenging, despite the fact that they swam rather slowly. Azmira darted ahead once in a while, then stopped to wait for Liora to catch up.
+
+They swam in the direction of the rocky castle-like structure. Swimming closer, Liora realized that there were other merfolk there, peeking out of the "windows" and staring at Liora and Cee curiously.
+
+I am the only one who feels so nervous?
+
+No. I got a really bad feeling. Let's get this done as quickly as possible and then get out.
+
+Agreed.
+
+They kept swimming closer to the rocky castle until the merfolk waved at the larger entrance.
+
+"Welcome to the underwater city of Thalasarra," Calypra said, urging Liora to swim inside.
+
+Tentatively, while keeping an eye on the orca mermaid, Liora swam into the rocky opening. But the moment she noticed the underwater city, her eyes couldn't look away from it anymore.
+
+Previously, everything had looked somewhat muted and dull. Just water everywhere with occasional schools of fish or a rocky outcropping. But within this rocky, underwater cavern, everything was bustling with color and life.
+
+Colorful corals covered most of the rocky walls and were tended to by many merfolk. There were house-like structures carved into the rock with arch-like openings and a coral garden for a rooftop. Seaweeds of various varieties grew around these houses, forming beautiful underwater gardens.
+
+Some merfolk were tending to these gardens, others were tending to small herds of fish who were swimming obediently under their command. Sometimes these herds were watched over by dolphins who playfully would guide the fish back to their group.
+
+The most surprising thing was the illumination. Each merfolk house had light coming from its windows, and there were little lights set down at regular intervals along the most traveled paths.
+
+"How did you manage to hide a whole city in plain sight?" Liora exclaimed in shock.
+
+This is astounding… To think that merfolk had these kinds of structures built deep underwater. It seemed logical that they would be capable of doing this, but nobody had ever reported them. To think that they would be located not too far from Abylport.
+
+It seems kind of suspicious that nobody would have discovered this. This isn't that deep. Submarines should have come across this at some point.
+
+Subma–what?
+
+Submarines. Right, you likely don't have anything like that. Isn't there magic that would let you remain underwater for long periods of time?
+
+Of course there is. I agree that this should have been discovered, at least by accident.
+
+For some reason, this made Liora feel more uneasy. It seemed highly unlikely that these mermaids would continue to live undiscovered for so long. If some peasants didn't know about them, Liora wouldn't care. But she would expect Renir, the supposed all-knowing mage, to know.
+
+"Oh, we're not really trying to hide anything," Calypra said with a wave of her hand. "These cities are built inside underwater caverns and slowly expanded to accommodate the growing population."
+
+"Cities? So there's more than one?" Liora asked.
+
+"Of course. Merfolk live in all the deep water of this world," Varrox replied. "Now, let's head to the mana node. It's located at the very center of our city."
+
+"Was the city built around it?"
+
+"It wasn't initially so, but eventually the center got shifted with a mana node in the center. It provides the city with energy and encourages coral and seaweed growth. Without the mana from it, corals wouldn't grow here," Calypra explained.
+
+This made Liora even more suspicious. With a mana node at the center, any mage with Mana Perception should be able to find it. After all, Cee the spider was able to find it. So how come this place was still secret?
+
+"I see…" Liora tried to appear calm as they swam deeper into the city. But more and more merfolk stared at them, and Liora couldn't help but feel out of place.
+
+Calypra promised they wouldn't be put into cages, but what if they were going to do something far more horrible? Liora wished she could talk with Cee in secret to work on some kind of escape plan. Was there something the spider could do underwater?
+
+Renir, is there a way for us to get to the surface or at least far away from here fast?
+
+Teleportation would be the most reliable way to do that, but you don't have the mana required. Nor the skill.
+
+Use that mage brain of yours. I have a strong suspicion we'll have to run for it.
+
+"May I ask for some more air?" Liora asked, feeling like she was suffocating, although she knew that there should still be some time on her Fluid Flight skill.
+
+"Of course," Calypra said with a smile, covering Liora and Cee in bubbles.
+
+"Thank you," Liora inclined her head slightly.
+
+"Let's hurry to the mana node, so you don't run out of air again. I suspect this environment isn't too comfortable for a bird or a spider," Varrax noted.
+
+"It is… unusual. I've never remained underwater for so long," Liora admitted.
+
+Cee flailed her front legs, showing that she clearly didn't like this excursion. Whether the merfolk understood that or not was a different question. Likely not.
+
+"I can understand. I would certainly not be able to endure this long above the surface. You brave little things, let's hurry up!"
+
+The mana node was much more obvious in this underwater city than the one on the island. Seaweed and corals grew around it in layers, while the mana node itself had a wide pedestal of rock carved in the exact right location.
+
+"Here we are. What do you two need to do next?" Calypra asked, obviously very interested in the process.
+
+"We each have our own special item which we have to imbue with water mana using a special ritual. With that, we'll be one step closer to our evolution," Liora lied, without so much as batting an eyelid.
+
+"Wow, it's completely different for surface monsters. To think that it just living above water would make the system vary so much. Go ahead then. Don't feel bothered on our account," Varrex urged.
+
+Liora looked around, noting that there were more merfolk watching them than just the merfolk family. But hesitating wouldn't do them any good.
+
+What about that air bubble spell?
+
+You can't pull me out. It's too risky with these guys around. They might recognize my mana as that of a human. I have no clue how sensitive merfolk are. You'll have to repeat my incantation and keep supplementing the spell with mana until Cee is done weaving the ritual.
+
+Do I just repeat the incantation to do that?
+
+No, you keep supplying it with mana. It might be a bit difficult for you, since you haven't exactly trained in mana control, but it is similar to how we target specific spots on the fully corrupt patients. Except it's easier.
+
+What?! I'm not sure I can do that.
+
+You'll have to. We don't have much of a choice here.
+
+Liora suppressed a grimace and instead prepared to chant. She looked at Cee and gave her a nod, thus signalling her to get ready.
+
+Air, expand, let me breathe, create a pocket within the sea locket!
+
+"Air, expand, let me breathe, create a pocket within the sea locket!" Liora chanted, envisioning the air bubble forming on the pedestal.
+
+Initially, it was just a tiny, little air bubble, but it slowly expanded, growing large enough for Cee to fit in.
+
+Don't stop the mana flow! Keep a steady stream of mana going into the bubble. It'll turn into oxygen and let Cee breathe.
+
+Liora concentrated on doing just that, staring at the bubble and doing her best to let tiny bits of mana flow into it continuously. It was an odd feeling. Like, there was a tiny strand connecting Liora to the bubble. But if she pushed or moved her mana too hard, it felt like it would break, so she did her best to keep it stable.
+
+Cee, in the meanwhile, was hard at work, weaving the attunement ritual right onto the pedestal faster than ever before. She definitely looked stressed, and her usually immaculate thread came out a bit sloppy. But it appeared to be good enough to work.
+
+Place the Resonance Crystal onto the ritual circle.
+
+Liora was afraid to move, feeling it would break her concentration and destroy the air bubble. But she managed to withdraw the Resonance Crystal from her Inventory at the very least. Cee then took care of the rest, placing it onto the web and activating it.
+
+Just like on the island, the web burned up, and the circle glowed for a short while before turning dim again. The Resonance Crystal, however, shone with a blue light in one of its four sections.
+
+Liora lunged at it immediately, grabbing the crystal and putting it back into her Inventory. Her concentration broke as did the air bubble, plunging Cee into the water. The spider waved her front legs angrily.
+
+"Sorry, sorry! I'll make a new one," Liora said apologetically, helping Cee get back to the pedestal.
+
+"Air, expand, let me breathe, create a pocket within the sea locket!"
+
+Another air bubble formed, and just like before, Cee began weaving instantly. Liora was all too aware of the fascinated gazes of Calypra, Varrex, and Azmira on them, along with at least a dozen other merfolk. It was deeply unsettling, but she kept her mind on supplying the air bubble with mana.
+
+Soon, another attunement ritual circle was ready, and Cee placed her bracelet on it. Activating the ritual, the web burned away, and another one of the gems in the bracelet lit up with a gentle blue light. Just like Liora, Cee withdrew the bracelet almost instantly.
+
+Liora allowed Cee to get back on her back, and only then did she release her hold on the mana and let the air bubble pop.
+
+"Thank you very much!" Liora said, inclining her head towards the merfolk.
+
+"That was fascinating. To think that each of you would have a different item. I'm amazed, and I have so many questions!" Calypra's tail was vibrating with excitement.
+
+"We can't keep them underwater forever, dear," Varrex said, turning to Liora with a more serious expression. "We helped you, now we would like to ask that you help us in return."
+
+"What could we possibly help you with?" Liora asked, doing her best not to appear nervous. In reality, she wanted to scream that she didn't want to become their dinner.
+
+But logically thinking, if they had wanted to eat her, they would have done so already. Liora was clearly outmatched underwater.
+
+"Swim with us!" Calypra said, pointing to a certain cavern that was located deeper inside the city.
+
+What about that magic to get us out of here?
+
+I can't just make up convenient magic like that. Besides, you just used up a good chunk of your mana.
+
+Liora knew that this would be the case, but she had desperately hoped to return to the skies instead of deeper underwater. But the merfolk were watching, so she obediently swam after them, despite Cee's insistent poking.
+
+The number of the unusual lights decreased the deeper they swam until eventually they were plunged into darkness. Liora wondered if this was a trap of some sort. Were they trying to use darkness to their advantage? Thankfully, Liora could still see well enough, even in this murk.
+
+But eventually they made it to an unusual tunnel which had a weird shimmering barrier in front of it.
+
+"We would like for you to go in there and retrieve a treasure for us," Varrex said.
+
+"Treasure?!" Liora's eyes widened, and she could feel her Treasure Sense screaming. There was something very valuable there.
+
+"Yes. You see, we cannot go in there, because it is filled with air. A long time ago, humans attacked our city and tried to take our treasure. We managed to trap them in this cavern and prevent them from leaving, but with their dying breath, the mages managed to connect the place to the surface," Varrex explained.
+
+"It wasn't enough for them to escape, but after they died, their weird magic remained, and since then, the cavern has been filled with air. None of us merfolk can explore it properly. If you could retrieve the treasure for us, we would be very grateful," Calypra said, but her voice conveyed that this wasn't exactly a request.
+
+Her sharp eyes also said that should Liora not comply, they would suffer the same fate as the mages.
+
+But Liora didn't care for the stare. She only cared for one thing. Treasure!

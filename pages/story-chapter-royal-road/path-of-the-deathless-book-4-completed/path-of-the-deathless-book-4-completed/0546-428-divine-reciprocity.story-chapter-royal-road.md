@@ -1,0 +1,213 @@
+---
+id: f8b79b3f-0ef0-5d2e-9335-dff935715840
+page-type-slug: story-chapter-royal-road
+title: "428 Divine Reciprocity"
+slug: 0546-428-divine-reciprocity
+partOf: path-of-the-deathless-book-4-completed
+position: 546
+ownLength: 4845
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3796495/428-divine-reciprocity"
+royalRoadId: "3796495"
+---
+
+Listen to me, girl. You are doing too much. No, no, don't just roll your eyes and walk away. I need you to listen right now.
+
+You are burning your talent. You are using your strength too vulgarly. I know what you're trying to do. You're trying to assemble a faction of your own, an internal set of loyalists and blackmailed individuals you can trust to be of use against the entrenched nobility in the higher councils.
+
+But if I can see it coming, then so can some of the others.
+
+The game you must play if you wish to be voted in and reach the position of Councilwoman is one of subtlety and influence before control. Control is too heavy-handed. You are doing something that no one can accept, and that is telling them how they should act, and, even worse, feel.
+
+A tyrant worth their salt understands that they have to give their dog some room. That's why the leash stretches. You can pull and tug, but you also have to be able to let it go slack. Right now, you are tugging and tugging, and if you keep it up, either all your dogs will turn and try to take a bite out of your flesh, or you will pull so hard their necks snap, and they will be of no more use to you.
+
+You have to understand that you cannot reign alone. Not even a god possesses such an ability, because what is a god without someone to extract faith from? Think. Do not just use your talents brutally. You are more than raw potential. You are more than the rawest expression of your skills.
+
+I beg of you, before you do anything, apply some thought, girl.
+
+And I truly mean this because I see it in you, that ability to reach the highest offices one day, if everything goes right. When you are there, I wish for you to stay. I wish to find someone else competent in this miserable mess that we call Republic. This miserable, beautiful home that is all we ultimately have in this world.
+
+Learn to use people through the soft ways. And learn how to rely on people without exposing your vulnerabilities to them.
+
+We are to govern a superpower, and that means to let the experts reign over their own areas. Make them feel respected. Allow little acts of sin to purge the greater transgressions.
+
+Sacrifice and trade and favor. That is what makes up the purpose of our office. Sacrifice, trade, favor, and know who you can rely on.
+
+And I’m on your side, even if you don’t want me to be.
+
+—Councilman Anthony De Diego to Master-Representative Veronica Chandler
+
+428
+
+Divine Reciprocity
+
+Divine glory drenched Shiv the moment he arrived at Starhawk's Perch.
+
+Casting himself across time, his Harbinger became a temporal projectile shaped of fractured shards of gold, but the Legendary Skill’s resplendence proved dim and paltry beneath the new sun dawning over Gate Piety.
+
+Said sun sprouted out from Adam’s flaming crown. It cast forth into the sky, piercing the ceiling and looming over the castle and the nest-like crystal filaments that lined the firmament above. The web of hardened eldritch mana and matter alike offered no shade beneath the beaming smile of Adam's Divinity.
+
+It simply pierced through everything. It gazed upon everything. It drenched everything, and Shiv felt something rattle against his Magical Resistance as his Practicing Atheist Feat triggered. Something was trying to sear his flesh. Something was trying to imbue itself upon him, yet it was at once subtler and greater than a Curse or Blessing.
+
+But that fact mattered little, for Shiv was occupied with a greater concern. Adam was up. Adam was standing, restored from his comatose torment, and he stood clutching that thing which laid him low so many days.
+
+The Crown of the Anti-Savior was a piece of barely recognizable scrap, little more than a melted husk of thin filigree. The Paragon held the hateful circlet in his hand, his body language at once hateful, yet also somehow surprised. He didn't seem to realize where he was. There was a distant look on his changed face. His right eye was missing, with a flame of holiest properties spilling out from it like a substance between liquid and gas, but it was the eye that remained that hurt Shiv to meet. It was so radiant that it seared blind spots into his vision, and he instinctively raised a hand to shield himself, like when he was still a Pathless and caught off guard by the sun's rays upon exiting a dark ruin.
+
+The moment he arrived, Shiv felt the shadows that were now bound to his soul slowly fray and fold inward.
+
+It wasn't that Adam could pierce through the Trespasser Shaped of Dread and Null, but that holy, elevated property of the Paragon's Awareness would not be refused by any kind of skill. It stared into the shadows, it stared beyond the Deathless' flesh, and it stared deeper still, piercing the sediment of his magic until it gazed upon his very soul and knew him for him, and knew him for where he was in the absolute, eternally.
+
+The only reason why the divine fire still coiled and lashed at Shiv's flesh was because his Feat-empowered Magical Resistance endured. The Light sank deep into him, but he constantly pushed back without ever noticing, for it was his nature to defy the divine.
+
+Yet it was Adam's destiny to ascend toward that higher plane of apotheosis. Thus, even passively, they stood apart from each other, shadow greeting light, and burning beneath it. One child blessed with peace, and the other manufactured through an act of depravity toward the end of eternal war.
+
+And yet, symbolism and mythology were only so strong, for they were spawned by decisions and behaviors made through the choices of men. Right now, Shiv broke from that dichotomy the System and existence tried to cast him into, for he was no longer the shadow glared down upon by the light. He was a shadow moving across space and time to embrace the source of said light. Ultimately, beyond all that meaning, beyond the legend that was being built right here and now, he was just a boy overjoyed to see his beloved battle-brother arisen from his grave of suffering.
+
+The Deathless jolted across time once more. He surged past Roland. He abandoned Valor. He left Uva, Rose, and Isabella in his wake. In that time, he felt pulsing waves of force wash over him as the Educator arrived. But he ignored all of them as he snatched Adam off the floor and embraced him tight. Then he loosened his grip and spun on his feet, swinging the smaller man around like a fragile feather that might break again at any moment. He caught sight of the Culturist, who gave both of them a respectable amount of distance while sporting an inscrutable expression.
+
+“Adam!” Shiv shouted between gasps of laughter. “You absolute felling monster—you ripped that shit straight out of your head?”
+
+How Adam had managed to perform such a feat was beyond Shiv, but he was proud of his friend nonetheless. It seemed an impossible thing to do, with how long it had left Adam bedridden and broken, how deep it had buried into the center of his brain. All the Legends gathered in the Gate, well over a dozen of them, young and ancient alike, had not found themselves suffering impotence and humiliation as they were unable to provide any true aid to Adam.
+
+Valor followed close behind Shiv and wasted no time examining Adam with three dozen spells at once. After a few seconds in which Shiv continued to spin his friend like a man-shaped carousel, a heavy laugh, dense with warmth, pride, and halfway grief, escaped Valor. “Monstrous indeed. You leave me speechless, Legend Arrow. You leave me proud. And you leave me feeling lacking, for I was desperate to think of a way to ensure your salvation, only to find myself unneeded once again.”
+
+And indeed. The Paragon had saved himself, proving his own guardian in his time of greatest need. The gaze that he fixed Shiv with revealed the stupor in his mind. He was still lost inside his thoughts, but slowly, his lips curved upward, and he finally reciprocated the hug, clinging to Shiv in the way a knight would hold a cherished shield.
+
+“Shiv,” Adam muttered. He said that and no more. It was enough. The whisper alone contained the fullness of his emotions and relief.
+
+The rest of the room drew in close as well, a swarm of moths approaching a golden flame. Uva came to a halt behind Adam, looking alarmed as she observed the Paragon for any mental fragilities. Her Psychomancy poured forth from her mind as she painted a projection of Adam's mental state over the ceiling once more, and Shiv caught a glance of Adam's psychological landscape. What he beheld left him speechless.
+
+It still appeared like a broken mosaic. Within Adam's mind, there was only a single foundation solidified, like the trunk of a tree rebuilt, but still fractured in so many places, with broken branches along its length and barely any leaves clinging to life. Yet there were nubs growing, spots that promised regrowth that stood testament to Adam's mental recuperation.
+
+But it was more than Uva's Psychomancy that saw to his restoration; dense mists infused with a divine essence leaked out from the uncountable cracks that lined Adam's cognitive tree, and it was that Divinity that pulled him back from the brink, that rejected the Challenger's device in its totality.
+
+As more people arrived to greet and assist Adam, Shiv turned his head and saw the Crown of the Anti-Savior pressed against his shoulder. Adam clung to the melted construct, refusing to let it go, and this close, Shiv could taste the stench of gore and feel that festering influence of strife, anguish, and war still throbbing within. But though the Challenger's power still lay dormant within the Crown, it had receded into the darkest recesses of the metal, for now it was stained with the faintest vapors of peace, one Domain overthrowing another.
+
+Rose Van Arren wedged herself between Adam and Shiv with a grunt as she embraced her son and pressed her lips upon his cheek. She cared not that his face was still caked in a mask of dried blood. She was unburdened and undisturbed by his wretched and ragged features. She was only glad that he was standing once more after days upon days of watching him tortured for every second that he clung to life. As she ran her hands through his hair and whispered incoherent thanks to no gods in particular, yet all of them at the same time, Roland appeared behind Adam, and Shiv relinquished his hold—allowing everyone else their measure of comfort as well.
+
+Nothing was exchanged between father and son. The former was simply too worn for words. A relief filled him as well, but with that relief came exhaustion. Roland had been holding absolute terror and grief at bay for far too long, and that sensation of weakness was shared by the Starhawk, who'd also suffered his own loss at the start of this tragedy. The Lord and Lady of Blackedge held their child tight, their only surviving child, their last treasure in a world that sought to deprive them of so much, and refused to let go. At this moment, there was nothing, no force in existence, that could make them let go.
+
+Held slightly at bay was Isabella, for she had no angle of approach and felt almost both awkward and overwhelmed by all that was happening. Shiv didn't let her stay out in the cold. He pointed at her, caught her attention, and as she jolted in surprise, he waved for her toward Adam as well. She was to be part of the family, albeit a much different family than months prior. She was still hesitant as she shuffled toward her fiancé and his parents, but when Rose noticed her, she hooked a wordless elbow around Isabella’s neck and pulled her in too.
+
+Things had changed for Adam Arrow, dramatically so, but not all for the worst. Though Blackedge had suffered a horrific blow, its castle was saved, as were thousands of survivors. Their losses were great, but they could continue on, and the Arrow family itself had been restored, with one member returned in full and another perhaps, as it stood only an illusion within Shiv's soul, but an illusion that felt all too real, and now Adam had surfaced from the demesne of pain he was cursed to suffer.
+
+Never did light shine brighter than when one emerged from a pit of deepest darkness.
+
+But again, there was more than metaphorical light illuminating the room. What shone down on them was divinely radiant and near-blinding, intrusive and reassuring at the same time. It pressed upon Shiv perhaps more than anyone else, for he felt its nature, for it regarded his nature as inimical, yet it wanted to sink into him.
+
+Nearby, the Educator looked up in awe, staring at how cleanly her sketched borders had been breached. Aside from Shiv detonating himself using that chain reaction between his vitality and Necromancy, few other things had seared her charcoal outline so deeply, had burrowed clean through that impassable threshold she could line. Yet Adam had done it twice now, first with his mist and now with his new Awareness. That Skill Evolution continued streaming up from him. His personal crown was flame and water at the same time, a constant stream of incandescent mana that kept running upward through all matter, its path destined to manifest as a new dawn over all.
+
+“How…” the Educator gasped. “Just what relic did you leave inside this boy, Matthew? What burns inside of him to allow such power?”
+
+Her question went unanswered as Adam suddenly jolted. It was like a part of his mind was still catching up to where he presently was, and he found himself surrounded. Only after realizing it was his parents and Isabella did his alarm subside—but not his tension. Shiv sensed it in Adam immediately; Uva noticed right after.
+
+The Paragon coughed and rasped, “Where—where is he?” His voice broke into a hateful growl at the end.
+
+“Where is who, Adam?” Roland asked, his worry invoked in an instant.
+
+The Paragon disentangled himself from those who cared deepest for him without force, but with continued purpose. His expression hardened, and that look which was written upon his face spoke of unbridled rage, yet a higher level of determination. Shiv realized who Adam was talking about, and his insides dropped.
+
+“The Challenger.”
+
+Such was all Adam said before his Wings of Eternal Ascent came aglow and he lifted himself into the air, before anyone else could say anything in protest or ask Adam what he was doing. He fired a radiant Shard of Exalted Flame, and it ripped through the walls to take him across the Gate as he was pulled along in a spray of embers in the same blink.
+
+"He's going for the Tutorial gateway!” Shiv shouted to the others. “Uva—”
+
+Like always, she was a step ahead and playing to her own pace. Her Dreaming Storm fell, connecting Shiv with everyone else, so he could communicate his insights in an instant, beyond the lag of words. At the same time, she reached out for Adam as well, trying to understand what he wanted, to halt him in case he meant to put himself in danger once more. The moment she connected her mind to Adam, Shiv felt a hatred so hot he almost flinched at its touch and a deeper strength unlike ever before in his friend.
+
+The Delve had broken things inside Adam. The time he'd spent suffering the Challenger’s instrument had scarred him somewhere deep. The Paragon wasn't whole. He wasn't truly healed. But he was composed once more, drawn back from the brink, because of something greater than what compelled him when he was mortal.
+
+Now the ideal of Adam Arrow mantled his flesh and wore his skin. And this ideal was driven by an urge beyond fate, an urge in spite of the System, an urge to face its Anathema: Peace against War, Tyranny against Anarchy.
+
+“This is beyond words and psychology,” the Harbinger declared. “What drives him now is mythology in the making, like the manifestation of scripture. This someday will be the original lore of Adam Arrow, what he becomes at the final realization of his godhood.”
+
+But even if he couldn't talk Adam down, that didn't mean that Shiv was just going to let him throw his life away. Shiv leapt across time with his Harbinger, and he appeared over the bunker that held the Tutorial gateway—currently sealed and dormant.
+
+Outside, across the newly constructed residential district made in replica of Blackedge from Uva's Dreaming Storm, the surviving citizens of Blackedge gathered on the street to look upon the newborn star blazing through the crystalline branches above. They weren't alone. In the distance, the Dragon Brokers gestured and spoke to one another atop their hoards. They noticed Shiv and they saw Adam thereafter, and soon they dispatched servants to intercept the Deathless, doubtless seeking an explanation of their own.
+
+Thereafter, there were the Descenders. Marikos kept pace with Shiv as he swooped down from above. It seemed that he had ascended to take a closer look at Adam's star moments before, and now, following the stream of mana downward to its source, he found the Deathless and the Paragon headed for that forbidden zone that parted Piety from the Challenger’s dimension.
+
+“Deathless!” Marikos bellowed. “What transpires?” Shiv winced as he noticed the wary looks Marikos was shooting Adam. “And why has a beacon of divine Awareness sprung forth from—eh…”
+
+“Those aren’t wary looks,” the Harbinger assuaged Shiv's worry. “He just forgot Adam’s name.”
+
+“Long story!” Shiv shouted as his inertial sheath roared louder. A chain of kinetic explosions went off within his membrane of momentum, kept contained by his Shapeless Tides, and his speed continued to build. In this, his Heroic Reflexes were different from Adam's, for the Paragon performed a sudden descent and deceleration, coming to a perfect halt in front of the bunker while Shiv shot ahead like a spear, unable to halt instantly. Instead, he used his Chronomancy to revert himself back a second into the past and pointed his Shapeless Tides downward. Using his strength to wrestle his momentum, Shiv crashed down behind Adam, cracking the floor and sending bits of dust into the air.
+
+A good godsdamn thing I can use my Shapeless Tides to absorb physical impacts, because that might have cracked the district in half, he thought to himself.
+
+While the others arrived close behind, Shiv called his friend’s name, who kept walking at a steady pace, ordering two startled Weaveresses standing guard to unseal the entrance. Roland, Uva, and Valor teleported in just behind, and a half-second before Marikos’ maw opened to spit rage at the latter, Shiv’s head snapped around as he pointed a warning finger at the Dragon-Knight. “Marikos! Not felling now!”
+
+Shiv's displeasure was conveyed as more than just a bellow. A flood of pure darkness poured out from him, washing over Marikos as everything went empty and all senses were stripped away: touch, hearing, sight, and everything else. The Descender briefly thrashed, but the Deathless' voice still reached him via the Harbinger, striding out of Shiv, away from Shiv's body.
+
+“Get your shit together, Legend-Knight Valdemar! You can settle your grudge any other time, but not now. Control yourself. I'm not dealing with this right now. Also, please, I'm begging you, as the master in this whole guest-right thing, don't make me do this right now. I have to deal with my friend.”
+
+These Words of Truth and Adoration 93 > 95
+
+Trespasser Shaped of Dread and Null 203 > 204
+
+Harbinger of Tripartite Ruin 366 > 370
+
+And just as Marikos prepared to shape a ball of all-incinerating flame, he hesitated and halted, battered down both by Shiv's reason and the waves of crushing Intimidation that came from the living darkness. When the dragon finally let his Pyromancy go dim, Shiv drew his trespassing shadows back but kept it manifested in part as an extension to his dimensional cape.
+
+Though Marikos’ eyes and mind were completely fixated on Valor again, Shiv’s presence and personage clearly held enough weight in his mind that he kept himself from breaking his word; a more than acceptable outcome for Shiv, because he didn't really give a shit who hated whom in the grand scheme of things. He could deal with that in time, with focus. Right now, however, he needed to stop Adam from doing whatever he was about to do, and he needed to do it without hurting Adam in any way.
+
+It was Roland who reached his son first, seizing Adam by the arm. Yet Adam continued walking forward, and to everyone's astonishment, all but him suddenly found themselves pinned in place. A mist spilled out from Adam, but it wasn't an offensive skill, not truly. An incandescent hand shaped from vapor descended from high above, and the stasis it brought befell everyone following Adam. Roland's body went rigid as he was stripped of all movement. Valor endured the same fate, and Shiv as well. A strand of Uva's lightning was utterly frozen, trembling and desperate to reach Adam, yet unable to, for it seemed this skill by nature was absolute.
+
+But Shiv had more than one body. He moved his Severed Shadow out from the surface gateway, where it was serving countless guests aboard the Sky-Swallowing Carp. It arrived in his stead as Shiv transferred his Harbinger over to his original body, and it appeared right next to Adam, avoiding the crushing zone of stasis. “Adam, hold on. Just give us a second. I want to know what you're trying to do. I'm not trying to stop you—”
+
+He trailed off as he saw how the Paragon blinked at him, his eyes wide in surprise, like he was still deep in a fugue. Shiv understood. Adam was still damaged, and his mind was drifting, bouncing from one moment to another. He was volatile and confused, but he was driven by fire.
+
+Adam's lips moved, his mouth opening and closing as he tried to gather the words he needed to speak that he absolutely had to say. "Challenger," Adam whispered to Shiv, his voice low but carrying an impossible weight. "I need to face him. I need to. I need to."
+
+The Paragon suddenly held up the melted Crown. "I need to return this to him. I need to see him. He came to me…" Adam swallowed, licking his dry, cracked lips. "He came to me in my Delves. He cried. He worshipped me, Shiv. He worshipped me. He knows what needs to follow. He's waiting for me, and I need to face him. It has to happen. It has to."
+
+“Okay, okay,” Shiv said, holding his hands up and keeping his distance. A flash of translucent lightning slammed into Shiv, and Uva materialized out of him a half-second later.
+
+“No,” she said, completely contrary to Shiv. She marched past him, and Adam took a half step back—as if unwilling to use his palm on her. With sternness but no force, she took hold of Adam’s upper arm and tried to guide him away. “You’re in no state for this, Adam, and we cannot expose the Gate to him right now.” Chains of psionic lightning crossed over from her mind into his as she tried to convince him of the right path telepathically. She marked him with her Legendary skill, but he did the same to her, for Shiv saw how her body was lit like a candle by his divine light, and the same glow now spread across almost everyone else across the Gate.
+
+Everyone but Shiv—for now.
+
+“Uva,” Adam said, as if just remembering her name. “He’s waiting.”
+
+“Then let him wait,” she snapped. “I care little for what some demented, faraway god wants.”
+
+“I do.” The pure certitude in Adam's reply made her hesitate. “I have to. He… I must return this… I need to…”
+
+“It is to be his declaration of war,” the Culturist said, blinking in a flash of azure-bright mana as he emerged from within Adam’s soul. The palm holding Roland, Valor, and Marikos in place broke as the threesome were allowed to move once more. “The Challenger does not intend to invade the Gate.” The Legendary orc frowned. “Instead, he intends to grant us offerings.”
+
+“We don’t need anything else from him,” Shiv snapped. “It’s because of what he did that Adam—”
+
+The Paragon shook his head with vigor. “No. No. He had to. It’s what he is. I felt it. I think I… I remember his presence. I remember his power. He cannot turn away from his own cruelty. He cannot turn away from war. If he hadn't hurt me in some way, his Domain would have been damaged. He would have broken his own mythology. Cruelty is his shape. But Heroism and Tyranny are mine.” He looked between those around him, and an aura of fragility returned to his withered features.
+
+It horrified Shiv that someone could look so close to godhood and death at the same time.
+
+“Please,” Adam said. “I need you to… I need your help. All of you. I want you with me. I am scared. I can do this regardless. But I just don’t want to be alone. Not in his world. You being there… All of you… It will make me more. But… I have to go. I need to return this. I need to… I need to cast his worship back at him. I can feel him… and I won’t stop feeling his presence until this ends. He won’t stop pressing against my Domain until we finish this properly.” The Paragon lifted his head. “He wants to see my dawn. He wants me to set my glare upon him. He wants to be known to me always, as I have been known to him.”
+
+“Why?” Roland asked, his petrification bleeding over into his voice and body. “Why does he want this, Adam?”
+
+“Because it is to be a holy war,” the Starhawk said, intruding on the conversation in manifestation and explanation. “Because the God of Strife has named his Vaketh-Bakal.”
+
+In the corner of Shiv’s right eye, he saw Radio bounding toward them from the serried residences of New Blackedge—screaming as Cripple was manifested around its pitiful chassis. It seemed like more than just the Starhawk had heard the Challenger’s proclamation.
+
+The silence that followed was cold and dread-stained.
+
+Sometimes, it was only after spending some time in the light that the darkness was given its rightful horror.
+
+“Fuck,” Shiv summarized, pinching the bridge of his nose. “Fuckkkkk.”
+
+“Shiv,” Adam continued, looking at the Deathless specifically. “There’s no avoiding it. Not for you. Not for me. Not for Uva. This was coming for us. We can’t just starve the System by ignoring it. We can’t live under it. The only way is to loom over it.” And once more, Adam manifested his cloud-shaped palm, but didn’t bring it down this time—used it to give a picture to his Intent.. “We need to crush it below us. We have to be the ones that decide and choose. It has to be our dominion… It's… it’s hard to…” The Paragon almost whimpered. “It’s hard to think, but I need you to understand. I need you there with me.” And then Adam’s voice grew thin. “I don’t want to face him alone.”
+
+And with that, Shiv’s fate was sealed. “You won’t be. You won’t be.” He planted his hands on his hips and steeled himself for what was to come. “And you’re… you’re sure you have to do this?”
+
+“I have to,” Adam repeated. “It’s not a trap. It’s not. I have to face him down… His worship festers inside me. I need to… I want to cast it back. One act for another. Symbology against symbology.”
+
+Somehow, something about that statement and the way Adam was holding the ruined Crown made things click into place for Shiv.
+
+“The Challenger breached Adam’s Delve and prayed to him in aid and honor of Adam,” the Harbinger mused. “War to Peace. Now, Peace must cast the instruments of War back upon it, in a declaration of the latter's namesake. It is a balancing of more than legend—Divinity and mythology work differently, and Adam is not a full god yet.”
+
+Metaphysics 1 > 11
+
+Skill Gained: Faith (Common) 1
+
+“Okay, Adam,” Shiv said. He gave his friend a single nod. “Let’s give the fucker his Crown back.”

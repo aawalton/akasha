@@ -1,0 +1,303 @@
+---
+id: 97d87b6b-53bc-5d4b-9f3c-8133638b44ee
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 473"
+slug: 0173-the-path-of-ascension-chapter-473
+partOf: the-path-of-ascension
+position: 173
+ownLength: 6605
+unit: words
+ownProgress: 6605
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3075671/the-path-of-ascension-chapter-473"
+royalRoadId: "3075671"
+markedReadAt: "2026-06-29T19:33:42.677Z"
+---
+
+Chapter 473
+
+Upon coming back from their exploration, Matt experienced time in a way he hadn't before.
+
+The ten years they spent taking over for their seneschal's was as easy as continuing the tasks already underway. While he and Liz had their own thoughts and plans, they needed their own breaks. As such, they implemented things with their seneschal’s identities, not officially letting their vassals know they had returned.
+
+Both the smart and deceitful ones got the word, as they hadn’t taken steps to hide their return, while the dumb ones continued flouting whatever commands they didn’t like, believing they were Cato and Isabella. Learning who was who, now that their vassals had real time to exist without their presence, was a benefit to their trip all its own, but not the point.
+
+After a decade off themselves, Cato and Isabella returned positively chipper, almost eager to take the rein’s back over, finally giving them an uninterrupted block of time where they could escape from most of their responsibilities.
+
+Aster had originally planned to join them, but now that she learned about Tim, she only intended to take a break after she finished learning everything about a control Concept destruction.
+
+While Matt and Liz weren't happy Luna allowed Tim to go through years of torment, even if ultimately successful, his journey had inadvertently shined a light on something important. A Concept breaking without fully disintegrating was rare but far from unheard of. Repairing it was even rarer, but the very nature of the trauma and the plentiful amnesia it brought usually meant it was exceedingly difficult to pin down what caused it. As for how to recreate the effects deliberately, that was a dream even for those who'd lived through it.
+
+Tim’s Talent, however, had no such restrictions and was able to restore a lot of his memories after the fact. Coached by Luna, he was able to quantify his experiences. While still far from easy, especially without his Talent doing the heavy lifting, it gave other people a starting point.
+
+Using that starting point, a test trial was conducted using volunteers who were planning to break their Concept anyway, mostly because they were aura based and felt they didn’t fully fit. The majority failed, but there were a handful of successes where volunteers were able to preserve some specific ability or trick of their old concept.
+
+While Matt and Liz didn’t need such information, Aster was deeply interested after she was informed.
+
+Given how close Aster's Concept came to breaking the last time she changed her bloodline, there was basically no chance of it surviving when she made the jump to a Level 5 mana type. The instinctive Concept of an ice fox just wasn’t in line with who she was now, let alone who she would be whenever she figured out her ‘Space Ice’ element.
+
+Another problem lay in that with the Concept broken, the Intent that built upon it was likely to crumble with it. Given the resources available to her and her own abilities Aster was unlikely to have trouble making a new Domain, one more fitting for her current skillset, that wasn’t her concern.
+
+She didn’t necessarily want to preserve her former work, so much as the various enhancements to her Domain via Minkalla and the strange realms they’d visited. Before returning she resigned herself to losing some of them, but Tim's notes gave her a glimmer of hope that she may be able to do a controlled destruction and preserve those abilities, letting her have the best of both worlds.
+
+Or, that was how Aster described it.
+
+Matt knew it might be more accurate to describe the situation as her being Luna’s lab rat, testing what Tim had discovered and how higher Tiers could apply it. Given that was exactly what Aster needed, he didn’t feel too bad for her.
+
+At her request, he dropped in on exactly a single lesson before scheduling important tasks at the same time going forward, warning Liz to do the same. He knew what that look in Luna’s eye meant, and he wanted no part in it. Instead they ignored the pleading looks and reminded Aster to catch up with them on vacation when she finished working with them.
+
+Free of their own responsibilities as their seneschals returned, Matt and Liz delighted Allie by asking her to drop them off in a random location in the Empire. Without looking up where they were, they spent two weeks traveling as fate and teleportation schedules directed them. Sometimes they stayed on a planet for a single day, while other times they got to explore for up to a month before the next teleportation off the planet.
+
+They spent three months in vacation mode, taking advantage of various catered experiences. Neither of them wanted to think about or deal with anything more intensive than choosing their next meals or activity, if they bothered to leave their rooms at all some days.
+
+When they inevitably reached a high Tier world and learned where they were, a Marquess’s capital in Harper’s Kingdom, they allowed themselves to spend three weeks exploring the fully settled star system from a lower Tier perspective. If they had arrived in their main identities, everything would have ground to a halt. Worst of all, they would have needed to be ‘on’ the entire time.
+
+Instead, they got to play tourists, pretending to be newly advanced Tier 15’s.
+
+While walking through a skyscraper's shopping and entertainment districts, a display caught Liz’s eye, which was how they ended up on a luxury ‘honeymoon tour’ to Manny’s secondary kingdom.
+
+While nominally its own kingdom, one of Manny’s seneschals operated as the day-to-day ruler and he made little effort to make his presence known. Combined with the kingdom being one of the oldest, along with the most settled interests, it had a thriving tourist and service industry. With nothing else to do, the two of them decided to rent a suite only slightly outside their identities’ wealth bracket and enjoy.
+
+Matt was tickled to see the ship used a variation of a travel mana engine. Even if it wasn’t one of the designs his guild had released, he was just happy to see the technology be put to practical use, and the large, always moving cruise ships were a good choice.
+
+While between worlds, Matt chatted his way into the engine room, getting a good look after mentioning he’d studied travel mana engines to a crewmember who just so happened to work there. Tour secured, he enjoyed hearing a review from a seasoned immortal chaotic space traveler about the new engines.
+
+Two years into the cruise, both he and Liz lost interest and voluntarily withdrew at a Viscount’s fief, desperately needing a change of pace. The round the clock service had begun to grate, even with it being faceless and not directed to them in particular.
+
+Forging Tier 6 identities, Matt and Liz went and got an apartment in the nearest Tier 10 world, merging with the general population.
+
+Unlike their normal identity forgery, they didn’t need any complicated processes or rare permissions. They were hardly the first immortals to wish to live incognito among mortals for a time, and the Empire had long since implemented systems to facilitate such things.
+
+With such ease came corresponding restrictions, but they were hardly burdensome, mainly aiming to keep immortals from causing issues with the mortals they blended into. Not intending to stay too long, they used masks to change their appearances rather than make the changes themselves.
+
+Their new identities made getting residency permits, as well as jobs, a breeze, but both came with stipulations. The Empire officially had no problems with immortals mingling with mortals, but they weren’t supposed to negatively impact mortal society at all, and that included taking a job from someone trying to climb their way up. As such, their identities came with a hidden flag that would inform any employer of their special status, which would officially put them on the bottom of any hiring list.
+
+Not that such restrictions made getting a job difficult. In fact, they did the opposite.
+
+Any immortal, being Tier 15, could learn and then outperform any job a Tier 6 could be expected to perform, let alone Tier 29’s like Matt and Liz. That was why they didn’t aim for jobs people wanted.
+
+Instead they gladly perused the lists of positions companies couldn’t fill with a qualified person of the appropriate Tier and skill set. Taking a job from the provided list was by far the easiest way to find employment, as the planetary AI would rubber stamp such requests, unlike more typical jobs which would come under manual review.
+
+Officially, the same thing held true for their housing, both rented and purchased. But with the planet still in its expansion phase and with plenty of land, the ordinance was being waived, which gave them the discretion to live wherever they wanted. Wanting to blend in, they avoided the problem altogether by renting a slightly nicer condo in a building that was struggling to keep tenants during the economic downturn, being over an hour away from the city via train.
+
+Not that Matt or Liz minded. In fact they rarely skipped the trip most days, instead they used the hour commute to relax while going to and from their day jobs.
+
+Following Luna’s advice to make back up plans for his growth item in case his idea turned out impossible, he didn’t hesitate when he saw a job for a Tier 8 circuit board repair team leader. He jumped at the chance to interact with a form of enchanting he’d never bothered delving into beyond the absolute basics covered in most textbooks.
+
+One of the company’s Tier 15 owners was splitting their time and attention to cover the position, and they were ecstatic when Matt offered to take the role, even before seeing his identity flag.
+
+Liz, on the other hand, took up a job as a teacher for Tier 4 alchemists who wanted to specialize in cultivation assistance potions. While lucrative, the discipline was considered a brutal specialization not for the faint of heart, given the difficulty and costs of such potions. Many up and coming alchemists had driven themselves into debt trying to create the finicky concoctions.
+
+Its problem was that it was a job that rarely had qualified teachers. Anyone who was skilled enough to teach the method to craft cultivation potions could make far more money by doing rather than teaching.
+
+Without her stepping in to teach the young professionals, they would have needed to travel to a higher Tier world like so many others. That was the case for many of the more lucrative sub-professions, as skilled youths fled upstream. With so many worlds under them, ducal capitals never lacked skilled and ambitious people, rather they often had too many people to compete for too few spots.
+
+While good for the capital world, as only the best remained, those lured away rarely returned home, rather settling closer to the higher Tier worlds.
+
+Liz’s sudden appearance helped those who wanted to give the more specialized alchemy discipline a try without risking everything to travel to the local capital. Best of all, Liz herself enjoyed the work and used it as an excuse to brush up on her own low level alchemy skills, which she hadn’t bothered with in centuries.
+
+Her new cauldron hadn’t been forgotten, but to run the tests she wanted, Liz needed access to rarer high Tier herbs, and her orders wouldn’t be fulfilled for several decades, given the scales she was looking at.
+
+Instead, Liz used her position to buy locally grown ingredients for cultivation enhancing potions and turned each batch into an open lesson. She then turned around and sold the potions at-cost via a raffle. For the observant, her actions would have confirmed Liz was a higher Tier in disguise, given that her methods were nothing new. But they weren’t trying to hide that they were higher Tier, just their identities.
+
+With that in mind, Matt followed in Liz’s footsteps.
+
+The job he took was circuit repair for the local board manufacturer and it fell into somewhat of the same issue Liz’s position did. Servicing most of the baronies connected to the viscount, the company was barely solvent most years and his job was to lead the teams who tested the Tier 5 or higher circuitry.
+
+Far from the disposable nature of lower Tier products that could be mass produced, Tier 5 and higher boards were made by hand at great expense. That meant there was an attempt to salvage or repair them in all but the most severe cases, where they were either recycled for materials or repurposed for a lower Tier application that wouldn’t mind any existing faults.
+
+Matt’s job, while being a manager, was more of a final inspector, ensuring equipment tagged as salvageable by the floor workers was actually worth the following effort, which meant scanning every delicate circuit board item.
+
+The Tier 15 owner, while more than competent even in the enchanting field, simply didn’t have the spiritual strength to wholesale scan the minute runic circuitry. Whereas Matt could turn a tedious job that took a Tier 15 minutes into something he could do with a glance. Given that Liz wasn’t hiding that she was a higher Tier, he didn’t bother blending in too deeply either.
+
+Not that he lounged around while at work.
+
+He had quite a lot of turnover in his workers, and he did his best to exacerbate the issue from day one. Specialized work was always in high demand, and circuit board crafting was no exception, even if profit margins weren’t quite as high as cultivation assistants. For Tier 5 enchanters who might be looking to specialize, it was a solid choice with one fatal flaw.
+
+Money.
+
+Enchanting wasn’t cheap, but creating runic circuitry was more expensive by orders of magnitude, which is why Matt had never bothered learning about it in depth, preferring to tie even his non-combat items enchantments directly into his [AI] or use simple on and off switches. He never had issues with such upkeep, but he was distinctly alone. Other people still wanted the detailed control possible, which was where circuit boards came into play. Though without military level investment, they weren't dependable in serious combat unless they wanted to pay for higher Tier boards.
+
+A desirable job, Matt’s employees were competent enchanters and deliberately fell into two broad categories: the ambitious and the settled.
+
+The former used the position to get their foot in the more specialized door, and got hands-on experience using equipment they could never afford themselves. They didn’t stay long, and Matt’s goal was to teach them what they needed to take the next step in their careers as quickly as possible.
+
+Taking a page from Luna’s book, he sent private emails to them at the end of every week highlighting things they could improve on. For those that made mistakes he caught, he gave detailed feedback on why he thought they might have made the mistake, as well as ways to improve.
+
+The most ambitious and the most skilled took his feedback and rapidly mastered everything they could in their jobs. In turn, Matt happily gave them references when they were ready to move on. A number didn’t even leave the company, being hired on for more long term employment, but that was rare from the ambitious employees.
+
+Most of the people who stayed on long term did so because they were in the second category of worker, the settled. Far from bad workers, they were the most technically proficient in their limited skill sets, being older and having worked in their positions for years.
+
+The age also meant their situations were far more varied.
+
+A few were slightly older professionals who were working between delving blocks or wanted a simple job while raising children. He didn’t push any of them without an indication they were looking to take on more work.
+
+Instead, he aimed for the majority of the settled workers, the ones who had simply lost their ambition and settled into the rut of daily living. While they also got emails, that group got them at the start of the week, and they were tailored to making the person’s jobs easier, rather than pushing their skills to the next Tier.
+
+Matt could sometimes hear the workers swearing he’d already reviewed all of the circuitry, given that they seemed to have near real time feedback on their submissions. But in truth, they severely underestimated his Tier. What seemed instantaneous for them was a few subjective seconds for his natural mental speed, when combined with his spiritual sense being strong enough to see every atom on the circuit board.
+
+That, and he used the opportunity to push his mental training in splitting his mind. He had no intentions of going to Max’s level, but being able to operate multiple independent trains of thought would be critical after she returned. Having made the skill modifications, Matt was more than ready to finish that project, but he wasn’t in so much of a rush he’d risk doing it himself without supervision.
+
+Instead, he spent most of his free time at work theorizing about the exact shape and form his growth item might best take, iterating on his designs until he was happy with the results. With near limitless possibilities, Matt went wild and dreamt large, but at Luna’s advice, not too deeply.
+
+He also used his plethora of free time to catch up on a lot of things he’d pushed onto the back burner, such as his fine tune mana control as well as working on the skills he wanted to merge.
+
+Liz and he intended to merge some of their skills, which let them help each other through the process, though neither of them truly ran into an issue. But doing it together was nice and enough reason for them. While Liz worked on modifying her blood spells into ichor, she also merged her upgraded [Blood Cunning] into [Legion’s Insight], keeping the former's name. Along with a stronger mental boost, she managed to improve the skills detail processing speed, better fitting her multiple minds.
+
+After five years they moved on, changing their identities and appearances before anyone became reliant on them.
+
+In their second round they even rented separate apartments, wanting to ensure they kept a healthy balance between themselves as individuals and as a couple, and weren’t only with each other out of habit. Any fear of that was dispelled when they kept breaking the spirit of their rules by sleeping with each other and then falling asleep, freeing themselves from the guilt with the knowledge that they were following the letter of their agreement.
+
+After a torturous year they moved on early, going to visit Leon at his capital, where they met up with Aster and a Mara clone and spent five years helping Leon and generally spending time together. Then, because it would only be fair, they spent just as much time at Mara’s place with a Leon clone, before they went around visiting everyone they knew who hadn’t ventured into the breach for a few months.
+
+With Aster returning to her own work with trying to make her Level 5 ‘Space Ice’, Matt and Liz continued their living among mortals as his willpower slowly recovered.
+
+A destination already in mind, they changed identities to Tier 10’s and visited Rah who, as he’d said he would, spent time on low Tier worlds that had thriving Tier 0 skill scenes, acting as a lower Tier guide for the freshly awakened.
+
+Given the open nature surrounding Tier 0 skills and their accessibility, there had been serious growth in the fields while they were gone. Including several small refinements to the skill creation methods that reduced the average time to create skills by a few months. Tim hadn’t wanted credit for his and his Talent’s assistance, happy to quietly collect Titan’s Torch’s bounties on helpful information when he could without attaching his name to the work.
+
+Sadly, while no one had been able to figure out how to make [Physical Empowerment] scale with essence, there had been several other notable developments in the field.
+
+The first developments had already been hinted at before they left, but Matt was happy to see that there were dozens of [Lesser Elemental Weapon] variants now available, covering most of the level one and two mana types. In a surprising twist, most of the newly developed Tier 0 skills were developed and shared by lower Tiers who put nominal fees on the final structures, choosing to spread the information as widely as possible.
+
+[Fury of the Blade] impressed Matt the most, as someone had managed to create a modification that allowed the caster the ability to store the bursts of wind to be used at-will. Removing the skill’s greatest weakness propelled the Tier 0 skill into a brief moment where it was the premier weapon skill, but it didn’t remain there long.
+
+[Hand Shield], what Matt considered the weakest of the original Tier 0 skills, had a resurgence of popularity after someone developed a modification that allowed for size adjustments.
+
+To Matt’s absolute joy, the Tier 0 skills he originally published were no longer alone.
+
+Dozens had been created, but two became mainstream.
+
+Core to his own heart, [Double Step], like [Mage’s Retreat], was mainly used for retreating when things turned bad. An inventive modification that came out a few months later sparked a wave of innovation that saw the skill used in every role.
+
+Originally created by a Tier 10 in Leon’s kingdom, [Double Step] made the caster’s next step cover more distance via a burst of mana, the skill quickly became most delver’s second or third created skill, given its difficulty. Before it could fade into obscurity, the skill then received a modification that, at the cost of weakening the effect, turned the skill into a short duration speed boost.
+
+Others went further still, modding the skill into something else altogether, focusing the spell’s speed boost on their upper bodies, wanting to attack faster with melee weapons.
+
+Ranged physical cultivators were further assisted when someone created an entirely new skill to apply elemental damage to ranged weapons in the Corporations, and it later spread. [Lesser Ranged Elemental Weapon] and its many variants, as it was known in the Empire, was often disparaged by melee fighters for its higher costs and lower damage. But no matter what anyone said, the ranged non-casters were ecstatic despite any of the skills shortcomings.
+
+Tier 0 skills even saw some adoption in the civilian market, with things like [Lesser Cleanse] and [Temperature Pause] becoming mainstream.
+
+Matt was still in awe that someone managed to turn a cold spell into a temperature regulation reserve skill, though it was far from perfect. It was, however, good enough for the average citizen to love it, which made it the single most in demand skill, beating out combat skills by a wide margin in popularity. Any temperature swings over ten degrees would see the spell start to draw more mana than its already high 80 mana reserve, but most wanted to cut the edge off and didn’t mind only being ten degrees cooler or warmer than their local environment.
+
+[Lesser Cleanse] sold itself, though given the chemical and enchanted alternatives, it wasn’t as popular as Matt would have expected. However, enough people had no interest in advancing or just wanted access to the skill that he was confident he could direct someone to make the skill asleep.
+
+What Matt enjoyed was just how open and sharing people were when it came to the Tier 0 skills. Not all, but enough that he was confident the new bracket of skills was both there to stay and beneficial for the Empire.
+
+The Sects, however, made the largest splash in the skill creation method arena as they revealed their latest creation, the Hall of Aspirants. Its mission statement was as lofty as its name.
+
+The highest Tier sects led the way by taking some of their most promising youths and demanding they advance, on a more time lax version of the Sects’ Path of Ascension, with only skills they themselves created. Their efforts in innovation became another paved step for the following generation.
+
+Death wasn’t the main way to fall from the Hall, rather its taboo was absorbing a skill from a skill shard, where one lost further access to the Hall and its ever growing archives.
+
+The results were as bloody as they were effective, but without some breakthrough, relying only on self created skills simply took too long to ever truly be comparable with the Path. Though, it was becoming a trend in most Great Powers where young cultivators even on the Paths took the time to create a skill in their early years.
+
+While the Sects deliberately made every Tier 0 skills creation and addition to the Hall of Aspirants public in a show of power, they only shared the existence of higher Tier skills. They were, in fact, the only ones to publicize the creation of an entirely new Tier 8 skill, though they refused to provide definitive proof without the nod from Winter Hornet.
+
+According to Imperial intelligence, there were rumors of a Tier 14 skill having been created, but the Sects officially denied any of their Aspirants had made such a development.
+
+Matt believed Rah when he said it was possible, but unlikely.
+
+True or not, the Hall of Aspirants firmly established the Sects as the premier organization for skills, with Tier 0 skills being adopted by local sects and transformed into new signature skills.
+
+With such deep knowledge of their skills, it was only a matter of time until someone in the program truly managed to create a Tier 14 skill, and local sects became far more brash and happy to stir up border disputes in anticipation.
+
+With access to his Domain restored after nearly a century of recovery and relaxation, Matt and Liz returned to Palustris officially just as the first wave of explorers started to return from the breach.
+
+He personally noticed little of the hubbub that caused, instead diving into researching the technique that enabled him to craft the liquid mana gem. Even a century later, it was as perfect as it was the day he’d made it; further proving the uniqueness of his new method.
+
+The first thing he confirmed was that he truly did need both parts of his Domain to create a stable liquid mana container. With either his Concept or Intent missing, the solidified mana he could create was no different than ordinary solidified mana, stable but unmoving and therefore without any of the unique properties he craved.
+
+However, with both he could create containers that were fluid inside and still malleable, allowing for Matt’s proficiency for mana control to shine; giving him a new way to grow stronger outside of his Talent alone. That discovery led to a side breakthrough that distracted him for ten years, as he tried to figure out the difference between his fully solidified mana and that only semi-solidified.
+
+Several things became clear with that testing, but none of them were particularly enlightening.
+
+First, he checked whether or not he could re-solidify his liquid mana gems. He could and he was disappointed at first, as it ruined their special properties; though it did give Matt a way to lock gems and anything he carved into them in place, which had its own applications he soon grew to appreciate.
+
+The second thing he learned was that not all ‘internal movement’ was the same.
+
+Recreating one of his earlier tests with a tube of mana, Matt found that his new trick paired perfectly with the mana throughput tubes. A solidified outer shell of mana worked just as well as a projected mana barrier. Given that only confirmed his earlier testing, it wasn’t too surprising. The now liquid internals, on the other hand, were vastly different from anything he or anyone else had dealt with and he struggled to quantify, let alone understand, what was going on.
+
+What he learned revolutionized his mana control techniques, giving him an entirely new toolkit.
+
+Possibly the largest discovery that had the most impact was that he learned he could continue to add mana to a liquid mana gem, contrary to his normal mana stone creations. There was still an upper limit roughly determined by size, but it was higher than what a gem of that size and mana concentration should have contained.
+
+Interesting in and of itself, Matt got lost in the research, hoping to discover a way to have limitless storage, similar to what he’d seen out of the strange realm’s mana storage gems. He failed, but his failure wasn’t as absolute as he’d thought it would be.
+
+From his testing, he understood that a large portion of his future efforts would be in improving the internal structure of his liquid mana stones. He was confident that if he could improve the internals, he’d be able to both add more mana into a smaller container, as well as possibly making them easier to create.
+
+Simplifying the complicated multi-layer sphere he’d originally created with energies moving in specific patterns was his highest priority and his first goal. It wasn’t easy, but he managed after decades of work with Erwin, Aisha, and Theodore assisting as they worked on their own projects.
+
+The simple looking, rotating sphere of energy inside the rounder than normal first generation liquid mana stone was far too complex for everyday usage. Through hundreds of thousands of iterations, they’d found something they believed was foundational enough to build off.
+
+Rather than a moving wave of mana that created a bubble, Matt's new technique was moving a string of mana, so long it was nearly a continuous loop, around in a complicated pattern to make the malleable core. Once he got it going and solidified it with his Talent, the pattern was inherently stable, but until then its creation still took his full concentration; though he was growing better with practice.
+
+New toy in hand, Matt started applying it to various other applications. However, progress slowed to a crawl with each new step taking decades as he fumbled his way through blindly.
+
+Slow progress was far from no progress.
+
+The first and most obvious place to apply his new liquid mana stone was his sword.
+
+With its lattice structure he’d long since mastered filling it with a core of mana stone, but adapting his new technique to fit his weapon was both easier than he expected and much harder.
+
+Easier because their fundamental design of a moving string of mana to make a barrier didn’t inherently care about the shape of the container, and they didn’t need to adapt that portion of the technique to fit his weapon’s shape. Harder because the tubular shape of his sword was incredibly difficult to adapt his swirling pattern to. Matters were made even worse thanks to the double whammy that was his new liquid mana stones not handling enchantments in the same way as normal, forcing him to change his baseline enchanting technique.
+
+However, the results were worth every minute of effort.
+
+Even before he combined [Mana Slash], [Mana Charge], and [Tribulation Strike] into [Titan’s Wrath], the improved liquid mana core allowed him to express almost five percent more power alone. Everything that came after was useful practice as he and Liz pushed to Tier 30, but it only reinforced his desire to upgrade his weapon.
+
+Which he’d delayed on Luna’s advice waiting until Manny returned to make any decisions that couldn’t be retracted. He couldn’t wait until his sword was physically strong enough to handle the amount of mana he could now channel through it, as that was his greatest limiting factor preventing him from finally being able to cut loose.
+
+Every time he held his sword, Matt envisioned the day he’d finally be able to combine the two, his sword finally able to handle anything he could dish out. Combined with his potential growth item, he couldn’t wait for Manny’s return and happily dived into his projects to pass the time.
+
+He didn’t quite make it.
+
+Between working on his sword, Matt also dabbled with a dozen other projects as he found them interesting and engaging.
+
+He spent a full twenty years on aura enchanting, hoping to use it to boost the effectiveness of his general enchanting, but the field was too new and he had to put it aside. He did see promise to capitalize on in the future but he wasn’t so skilled an enchanter as to even attempt to pioneer the field.
+
+Instead, he focused on learning what was already available and mastering it before moving on to assisting with the on going aperology, but he only dabbled. Almost a quarter of his teams were still working on the aura commissions, and while they’d made some progress and had some side successes, leading to a few totally new aura rift recipes, they’d only succeeded on two commissions so far. Not that Matt had any intention to pause the investment the teams required, as those teams had been instrumental in helping the guild bridge his absences and mana shortfall.
+
+The Dancing Light’s Knightly Order had been ecstatic at Titan’s Torch’s success and they’d exploded in popularity post rift development. Now, even squires were able to guarantee synergistic Domains via the movement variant light aura, which allowed the Order to spread its recruitment net as wide as their reserves of Natural Treasures allowed. The windfall elevated them from a third rate Order to a first rare one in only two hundred years.
+
+Their second commission was slightly less valuable being a commission for poison aura. While it was nice to have it solved and shared as part of the original agreement, with poison being a baseline aura, few people wanted a poison related Domain when compared to other level two mana types.
+
+Days turned to weeks, which blended from years into decades as time seemed to slip by as they focused on improving themselves. He’d hoped to make it all the way to Manny’s return without an incident, but he wasn’t so lucky.
+
+Almost five hundred years after they returned from the breach, a contingent of nobles had arrived above their home on an official, if unannounced, visit. Seeing Domninus Maniakes and Silvia Dobrescu both sent personal messages, he checked what they wanted before responding to the official notification.
+
+The younger generation of nobles had noticed a concerning trend related to aura.
+
+Given its relation to himself, Matt was keenly interested in what could have gone so wrong in a short few hundred years that his peerage felt the need to step in. He already had an issue with the current trend, but he doubted the nobles cared too much about the ever shrinking Concept diversity that was only growing worse as the supply of rarer aura potions, both the variation potions and baseline ones, were virtually non-existent for anyone but the incredibly wealthy.
+
+Given the propensity for people who used a Domain long enough to form something similar even after breaking it, that was a concerning trend Matt had long theorized how to tackle.
+
+So why were they here?
+
+Continuing to investigate, he found it interesting that according to Domninus and Silvia both, the royals, one and all, were stonewalling their attempts to get them to intervene.
+
+They even explained why Empire dukes would take an interest in the aura exclusively issue if they didn’t care about the diversity bottleneck.
+
+While not yet critical, the nobles had noticed within their fiefs a trend of specialization in regard to aura exports. Fine at the beginning, with less than thirty total aura types discovered, only fifteen entities had invented more than a single type, with less than five having more than two, and Titan’s Torch being the only entity with more than five. However, when accounting for the more specific aura’s variations, such as fire aura with an inclination towards heat based Concepts, the number quadrupled and was growing.
+
+That wide distribution became a problem as politics and interest quickly muddied the waters. The entities who poured money into researching and developing new reproducible aura types, or abusing Talent’s and the ability to copy rifts, wanted to recoup their losses.
+
+The main way they tried to protect their interest was to copy the already existing playbook, which boiled down to exclusivity clauses in the contracts, locking entire planets to a single company's unique aura types. What should have become more common as time went on, instead became scarce, as the rarer and more interesting aura types were held in a legal and political stranglehold.
+
+The local nobles and various groups in control of the aura farms, rather than supporting the dukes, were happy as prices crept higher. They had no desire to see their direct competitors able to produce the same rarer aura types they’d paid handsomely for, forcing unaffiliated groups to seek out rare mana types compelling them to agree to the exclusivity contracts.
+
+The whole situation was being exacerbated by the development of aura runes, increasing the demand for aura. Many established aura farms seemed content to pull the ladder up behind them, not remembering who gave them that ladder in the first place, and Matt hadn’t been too happy about it for a while. Not because of the profits, but because they were creating an artificial bottleneck in the Empire’s Domains, which had possible long term repercussions.
+
+He simply hadn’t felt capable of doing anything himself without Manny to do the hard work of politicking.
+
+A tad bit older and slightly wiser, Matt did the obvious thing and asked his royal father-in-law why he was stonewalling the nobles directly. They’d been chatting about a reunion once Liz’s siblings who'd entered the breach returned from it, and he had no issue in segueing using the rapid fire portals to cover the distance to make messages almost real time at great expense.
+
+The answer he got wasn’t what he thought he’d get, as it was instant and implying he’d long since received it, but only activated the delivery condition when he asked the question. From Leon's Royal account, he received a message with a few spots highlighted.
+
+“As per the Emperor’s Decree, no Royalty is to interfere with inter-Empire conflict that does not threaten the core stability of the Empire.”
+
+A moment later, about when Matt expected a reply given their previous messages, he got an actual response from his father in law. “Oh, thankfully they took my latest hint to go away. I didn’t expect them to go to you, but it seems like they caught on. Their parents are still around but they are the acting dukes. So are you two.”
+
+Smiling, Matt made sure Liz was aware of who’d arrived and why; thankfully she hadn’t been cooking herself in her new cauldron, so he wasn’t interrupting her.  With her consent, they agreed to help the nobles.
+
+They were, however, going to take Leon's advice and use the nobles to do what they already wanted to do. If Matt and Liz were going to help solve the problem, they were going to do it the correct way. He just wasn’t sure the nobles were going to like his definition of ‘correct’.

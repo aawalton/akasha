@@ -1,0 +1,151 @@
+---
+id: 31421ada-e0b8-5426-9842-7c8072396209
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1271 - Primal Hunter's Spirit of Man"
+slug: 0144-chapter-1271-primal-hunter-s-spirit-of-man
+partOf: the-primal-hunter
+position: 144
+ownLength: 3453
+unit: words
+ownProgress: 3453
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3133642/chapter-1271-primal-hunters-spirit-of-man"
+royalRoadId: "3133642"
+markedReadAt: "2026-06-29T19:34:51.437Z"
+---
+
+What constituted something being considered overpowered in the multiverse? It was all a question of relativity. Any of Jake’s legendary skills would be considered overpowered by someone who’d barely scraped by and entered C-grade on a fluke, while someone like Carmen or the Sword Saint would only consider those same skills good. In Jake’s case, even the mythical skills he’d gotten weren’t ones he’d considered overpowered.
+
+Incredibly awesome and great? Yes, but not overpowered. Perhaps the only things Jake would classify as overpowered in his life were his Bloodline, which he inadvertently compared not to regular skills, but Transcendent Skills and other Bloodlines.
+
+Valdemar’s weird Fighting Spirit definitely qualified as being overpowered, but Jake reckoned most Primordials and powerful gods had things Jake would consider completely ridiculous. Though, of course, the most overpowered and broken god wasn’t a Primordial at all, but Minaga and his infinite clones. A skill even recognized as overpowered by the system, with how many restrictions it saddled the Unique Lifeform with.
+
+When only thinking about mortals and those around him, the Sword Saint’s Springtime Advent was something Jake would consider overpowered. It was a skill that allowed him to spike dramatically in power, and that was only one aspect of it, based on what Jake knew.
+
+For Bloodlines, there was, naturally, Ell’Hakan’s Bloodline, which had even allowed him to transform at the end of their fight. That one was definitely overpowered, though not as overpowered as Jake’s Bloodline.
+
+However, when Jake thought about the most overpowered existence, it wasn’t a god. It wasn’t even a powerful mortal by the regular standards of the multiverse. No matter what Jake had seen or experienced so far, nothing even came close to the First Sage, a man with seemingly endless means.
+
+Of course, comparing anything with the First Sage felt wrong, as that man had been an anomaly amongst anomalies, and Jake would rather consider him a being wholly outside of consideration.
+
+But, as said, something being overpowered was all a question of relativity, and when he looked at what his new special Spirit of Man skill offered to him, it was only right to compare it to other Spirit of Man variants. Jake had read about a couple of hundred known variants, and he could with absolute certainty say that the one he had just been given…
+
+Yeah, it was fucking overpowered.
+
+[Primal Hunter’s Spirit of Man (Unique)] – The spirit of mankind is truly multifaceted, allowing human versatility in all things. Humans have the ability to work together, operate alone, and adapt to any situation they might find themselves in, no matter the tools at hand. Alongside this personal excellence, they also carry the desire to pass down Records and nurture the next generation to surpass those who came before. Like you, humanity never stops moving forward. Never stop improving. It’s said that the spirit of man knows no bounds, limitless in possibilities. You embody all aspects beneficial in furthering your Path. Increases all experience gained. This effect is improved while hunting or working on profession-related activities. This effect is even further amplified when doing so alongside other humans. Allows you to pass down Records to others more easily. Increases experience gain of all those deemed your kin, comrades in arms, allies, partners, or subordinates. Increases adaptation to new environments, granting resistance to all environmental effects. Slightly increases resistance to all types of damage experienced by any other entities with the Spirit of Man. While not wearing adequate equipment that provides you with all the stats your soul can bear, you automatically make up the difference at the cost of slightly increased passive energy consumption, prioritizing physical stats. As you progress deeper onto your Path, your growth reflects it, and your body adapts: +10% to all stats. +15 to all stats per level in your race. This effect works retroactively (+10 all stats per level in C-grade, +5 all stats per level in all prior grades). Go forward, Primal Hunter, the Spirit of Man’s radiance glowing unrivaled within your being.
+
+By sheer length alone, this skill was the longest and most packed with features he’d ever seen, even beating out the already stupidly long Malefic Viper Legacy skills. If it had all just been fluff, Jake wouldn’t have been that impressed, but it wasn’t. In fact, Jake felt it was the exact opposite, containing way too many effects for it to make any reasonable sense.
+
+Starting from the top, the flavor text made it clear this skill contained far more aspects of the Human Spirit skills than usual, something that instantly became clear with the first effect: increased experience gain. Yeah, just that, no conditions like the skills he briefly saw before the system bugged out. Oh, but to make it even better, Jake got even more experience when hunting or working on profession-related activities – these two making up pretty much all Jake ever did. Finally, he would even get more while doing these things alongside other humans.
+
+From this effect alone, he effectively had it confirmed that this Spirit of Man skill was a combination of dozens, if not all of them at once, save a few not deemed “beneficial for his Path,” as per the skill description.
+
+Next up was the quintessential human ability to better pass down Records, which was improved. Yep, again, just a flat increase, not even limiting it to other humans. What truly took this skill into the realm of absurdity, assuming it wasn’t already firmly there, was the next sentence:
+
+“Increases experience gain of all those deemed your kin, comrades in arms, allies, partners, or subordinates.”
+
+This… was dumb. He wasn’t even sure how that worked. He knew there was a Spirit of Man related to leadership, granting increased experience gain to all direct subordinates. Jake assumed Miranda would pick something akin to this skill, but… what Jake was looking at here was something entirely different.
+
+The number of qualifiers was stupid, and it didn’t even say anything about being limited by proximity. His only guess was that this skill was manifested from a merging of several leadership-related Spirit of Man skills that all helped provide more experience to different people, and Jake had just gotten all of them at once.
+
+Now, for a moment, Jake did consider that since the skill used “or” at the end, if someone met more of those qualifiers, they would get increased effects, or if the experience point buff stacked somehow, but the instinctive knowledge related to the skill told him no. On that note, yes, the personal experience increase buffs to Jake did stack with one another, as they were technically separate effects.
+
+If these effects to pass down Records, get, and receive more experience points were all this skill did – alongside the stats, which he hadn’t even gotten to yet – it would already have been the greatest Spirit of Man skill Jake had ever heard of... but the Primal Hunter’s Spirit of Man still had far more to give.
+
+The skill also provided Jake with resistance to all environmental effects. Once more, the Spirit of Man skills usually only worked with certain environmental effects based on the nature of the skill, with some granting resistance to elemental effects, others space and time, but Jake just had all of them in one.
+
+Again, ridiculous, but it still fell short of the next part:
+
+“Slightly increases resistance to all types of damage experienced by any other entities with the Spirit of Man.”
+
+Jake knew that there were different Spirit of Man skills that increased damage resistance based on various factors, most of which benefited people with more tanky dispositions. This was that and so much more, but it also alluded to something else, seeing the source of where Jake would get his damage resistance.
+
+If Jake was correct, this effect tapped directly into the Origin of the Spirit of Man skill, granting Jake the damage resistance based on the Records of every other human above B-grade in existence. Perhaps it even worked on people from the past... not that it mattered. If there was any kind of attack out there, it could be safely assumed some humans had experienced it. There were a lot of humans, after all.
+
+As for how much damage resistance the skill gave... Jake wasn’t sure. It didn’t feel like much based on the instinctive knowledge he’d received, but any damage resistance was welcome and would only make him stronger. What’s more, it came from a race skill Jake had initially expected very little from. Speaking of unexpected, the skill had one more ridiculously strong effect Jake hadn’t even thought about being an option:
+
+“While not wearing adequate equipment that provides you with all the stats your soul can bear, you automatically make up the difference at the cost of slightly increased passive energy consumption, prioritizing physical stats.”
+
+Something like this hadn’t even been on Jake’s radar. He’d seen a Spirit of Man skill mentioned in one book that did something akin to this, but the author had written it off as inauthentic due to no one else verifying it. Jake had been skeptical of simply disregarding it, seeing as other books also briefly mentioned that such effects had unconfirmed occurrences, but Jake had never expected it, as all humans who got a skill similar to this had... unconventional lifestyles.
+
+At least Jake considered people who liked being naked at all times pretty unconventional, based on his own standards. Yeah, the only people Jake had ever heard of getting this effect were people living the nudist lifestyle, with the system supporting their choice, granting them a Spirit of Man variant, helping make up the difference in stats they would gain from using equipment.
+
+Usually, this kind of skill wouldn’t even be considered that good, as wearing equipment allowing someone to reach the cap of stats wasn’t super difficult. Most people even wore equipment, putting them over the limit, so that when they leveled up, they would simply receive some of the stats already there — they just hadn’t been able to get before.
+
+The only real exception to this was people like Jake with extremely high base stats. Seeing as the equipment limit was a percentage of one’s total stats, Jake needed far better equipment than the average Joe, to the level where receiving full stats at all times seemed almost impossible. Jake would likely need complete mythical equipment toward the peak of C-grade just to reach the cap, something that seemed impossible on the surface... though it probably wasn’t.
+
+If Jake had merely made use of being the Chosen of the Malefic Viper, he could probably have gotten full gear sets every ten levels that would always keep him at the cap, but Jake didn’t want that. He wanted to at least feel like he earned his equipment somewhat, and had thus mainly gotten new gear from Arnold.
+
+This ultimately resulted in Jake’s equipment sucking compared to what he could have had, leaving him with many stats lacking. All in all, towards the end of C-grade, Jake would have gotten just about 30,000 more stats from equipment, which, compared to his total stats of just shy of 400,000, wasn’t insignificant. The math wasn’t that simple, though, in part due to Jake’s Administrator’s Seal ring, but also because stats from equipment didn’t interact the same with skills as those gained naturally.
+
+Now, Jake no longer had to worry about equipment, at least not for the stats. To be clear, Jake still wanted good equipment, as it did provide extra defenses, and something like his Umbral Cloak had really helped Jake a lot several times over, not to mention the best boots in the multiverse.
+
+All this truly meant was that Jake could focus on equipment with interesting effects over just stats. He knew he couldn’t avoid stats on gear, and it wasn’t as if getting those stats was a negative now, as it did save Jake from passively spending more stamina just maintaining his state of being alive.
+
+... actually, scratch that. When Jake felt how much stamina he was passively spending, he genuinely couldn’t tell if he was using more now just because he was a B-grade or due to the Primal Hunter’s Spirit of Man. He was sure the extra cost was in there, but it was just so minor that Jake didn’t even find it worth thinking about. Granted, maybe he would feel it more when using his boosting skill, but only time would tell.
+
+Finally, Jake got to the last part of the skill, which was all about the stats. This section was probably the least overpowered part of the skill, as while he did get more from his version of Spirit of Man than anyone else, it wasn’t extreme. Jake would get everything in all nine stats, while everyone else would only end up getting it in six out of nine. Was Jake still being a total cheat? Of course, but this wasn’t as extreme, and compared to how broken every other part of the skill was, it seemed almost tame in comparison.
+
+Alas, this was likely due to the rule of stats not being able to overlap from the Spirit of Man skills. Even if Jake had been given his special Bloodline-empowered version, this rule evidently still applied. Maybe for the best, actually. Jake was kind of afraid that if he suddenly got the collective stats from all these Spirit of Man skills collectively, he would explode instantly, his soul completely and utterly unable to handle something like that.
+
+Or not, dependent on how the system handled things. Either way, Jake felt in no position to complain after receiving a stupidly overpowered skill like this. In flat stats alone, the skill gave him +2505 to all stats just right off the bat, with all of his percentage bonuses coming on top. It was a little annoying that it didn’t give him a flat 2500, but level 350 was naturally within B-grade, giving him +15 to all stats rather than just +10.
+
+Shaking his head, Jake just had to float there in the void for a little while, the system also giving him a moment of lull before it continued. He had felt a bit disappointed that his variant race hadn’t manifested in any way so far outside of allowing him to skip Race Evolution Quests, but now, it had really come in with a fury. The skill was so good that he already knew now that Villy would tell him to shut the fuck up about it to anyone and everyone.
+
+Thinking that, Jake also realized something else. He’d feared actually becoming a variant race, as the Identify skill – or anything adjacent to it – would allow a powerful god to potentially see Jake wasn’t a regular human, raising a real fuss.
+
+With a skill that wasn’t anything to fear. Jake felt like he had essentially gained the full benefits of being part of a more powerful human race without any of the downsides or risks. Sure, there was still some danger that someone could notice some of the effects of Jake’s new Primal Hunter’s Spirit of Man, but something like that would have far more plausible explanations than Jake being a first-in-the-multiverse superior human variant.
+
+Jake had many more thoughts about the skill, but for now, he forced himself to move on, in part because he felt the system’s intent to finish the evolution. He’d barely gotten started on this round of evolutions, and he still had a long way to go, and honestly, he wasn’t sure if he wanted more twists or surprises like the Primal Hunter’s Spirit of Man.
+
+Unless they were as awesome as this skill, in that case, Jake could magnanimously accept a few more surprises.
+
+--
+
+Within a small private bar, a male and female god sat, the man with a mug in his hand, and the woman with a half-empty bottle of wine. They were leaning into each other, enjoying one another’s company while discussing recent matters of the multiverse.
+
+“There are a lot of good seeds in this batch, and any faction would be remiss to underestimate us,” the woman said with a smile, looking at her partner.
+
+“Aye,” the man nodded, emptying his mug in a single mouthful before continuing. “Still, we didn’t get everyone we wanted.”
+
+“There’s still a chance; if not, simply maintaining a good relationship is acceptable,” the woman shrugged. “Valhal will prevail no matter what, as long as this binge-drinking oaf is here.”
+
+She said those words as she hugged the man’s arm, making him belly-laugh. “Would be a lot more fun with all the interesting ones on our side, though.”
+
+“I can’t deny that,” the female god, better known as Gudrun, said with a smile.
+
+“That lass is pretty good, but compared to Vilas’s Chosen and some of those other monsters, I’m not sure she can entirely keep up,” the male god said, waving his hand as the mug was full again instantly. “Then again, we also didn’t expect her to do that well with the Runemaiden Ritual either.”
+
+“I’m all for surprises of the pleasant variety,” Gudrun said.
+
+The male god, who was naturally Valdemar, looked down at his dear wife as he simply enjoyed her company for a moment. She kept him updated about multiversal happenings and politics, but in truth, these meetings were just an excuse for the pair to have some alone time away from the prying eyes of their faction.
+
+Valdemar was lifting his mug, about to take another swig, when he stopped mid-movement, frowning.
+
+Gudrun looked at him with confusion for a moment. “What happened?”
+
+Slowly placing down the mug, Valdemar kept frowning as he brought his hand to his heart while he looked to the side, seemingly peering through the void. He didn’t speak for several seconds before calming down, letting out a sigh.
+
+“I just felt something... not sure what,” Valdemar muttered before just shrugging and moving to take another drink. “I guess I’ll figure it out if it’s anything important.”
+
+--
+
+“How intriguing,” the Eversmile said, his mood good that day. He watched Primordial-4 as he felt the disturbance. He knew immediately the hunter had evolved to B-grade, yet the result still surprised him.
+
+In a pleasant way.
+
+All beings of a particular race shared a karmic bond, simply due to their shared Origin and Records. An extremely faint connection that few gods in the multiverse could even begin to detect, so feeble it may as well not exist... but it did. And it mattered.
+
+As a social race, the innate bond between all humans was stronger than that of, say, elves, though it still fell massively short of the connection between ectognamorphs; it was noteworthy compared to other enlightened races.
+
+This connection meant that, in a near-undetectable and minuscule way, the actions of one human affected everyone else. The growth of one helped every other human in an infinitesimal manner. Only a select few humans had the opportunity to have a greater effect on their race due to their overwhelming Records. People like Valdemar and Aeon. Due to their power, they affected the Records of all other humans, over time forming a powerful connection with the very Origin of the race itself.
+
+The larger a race, the harder it became to have such a profound connection with the Origin, as the requirements were dependent on the total power of the race. As for why people like Valdemar or Aeon would even care about such a connection, as with all karmic bonds, it went both ways.
+
+While they benefited the human race, they also benefited from the growth of their own race in return. It was a synergistic relationship, one of mutual progress and improvement.
+
+Eversmile was aware of all who had such a connection, as it became strong enough for him to detect it, and that day, he felt the karmic bonds of every single human in the multiverse echo with change. A singular bond, shared by the entire race, had been strengthened, fundamentally changed, and had become reminiscent of the one possessed by Valdemar and Aeon.
+
+Yet, it was different. Perhaps because the one who’d formed it wasn’t a god. As for how it differed, Eversmile couldn’t tell. All he knew was that it was unlike anything he’d ever seen... and wasn't that interesting?
+
+His smile broadened further, curiosity and interest filling him. The Chosen of the Malefic Viper was truly the greatest object of intrigue Eversmile had seen in so many eras, and he couldn’t wait to uncover all the mysteries surrounding the new B-grade human.

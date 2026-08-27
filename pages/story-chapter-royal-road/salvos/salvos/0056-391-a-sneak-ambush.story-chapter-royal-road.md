@@ -1,0 +1,265 @@
+---
+id: cd9424c7-d1b4-5f05-9772-7ca88dcdb2e7
+page-type-slug: story-chapter-royal-road
+title: "391. A Sneak Ambush!"
+slug: 0056-391-a-sneak-ambush
+partOf: salvos
+position: 56
+ownLength: 2722
+unit: words
+publishedAt: 2022-07-26
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/956906/391-a-sneak-ambush"
+royalRoadId: "956906"
+---
+
+391. A Sneak Ambush!
+
+Orgaf, Thief of the Golden Scale, Elite Ranked adventurer, and [Nightcrawler Shadower] strode through the rolling hills as he silently left the city of Alyras. An important meeting was going to be held soon. They were already calling it the Conference of Alyras— an event that would be recorded in the history books. Something momentous. Something historic.
+
+Frankly, Orgaf didn’t give a damn. The fact that it was taking so long just to even organize was proof in itself that this was a completely stupid idea. If they wanted to put a stop to the Demons at Inoria, they had to act. No more nonsense. No more talking.
+
+But of course that would never happen. So, Orgaf was going to skip this meeting. He had other things he wanted to attend to. For example, he needed to have a talk with Salvos— about her true identity. He still remembered what happened at the Motharis Mountain Range.
+
+He’d been fighting alongside her against the Primeval Demon. Then, all of a sudden, she revealed that she was also a Demon. An Archdemon of Pride. Someone who could blend it and shapeshift into a Human.
+
+It wasn’t something Orgaf had even considered. Yet, it was true— it was no illusion. There was no lie there and he understood as much. But it still took a while for it to settle in. To parse this fact. That the person he had so admired and fallen in love with was not Human.
+
+What he felt now— he still wasn’t sure. Orgaf needed it to be cleared up. He still had a few questions lingering in his mind. But when he finally had the chance to speak with the silver-haired girl, that damn Helena Warshade butted in with her own crap.
+
+Now, Orgaf was prepared to just gloss over all that. But, somehow, it turned out that the crap Helena Warshade wanted to discuss was actually important. Its ramifications far surpassed anything he had ever heard of so far. It sounded so ridiculous— like it was rumors spread from a mentally deranged person.
+
+But the one saying it wasn’t mentally deranged. Slightly insane, sure. A Demon that wasn’t all-too-trustworthy, yes. However, she was also an adventurer in her Level 130s. She’d been to the Bloodied Gulf and back. She had killed the Lich of the Plaguelands— someone who even Orgaf had fled when he faced.
+
+It wasn’t that the Lich was stronger than him. Quite the opposite. Orgaf had been barely an Elite at that point, and he had a team of Diamond Ranks accompanying him then. But he still managed to quite easily overcome the Lich.
+
+Then it regenerated from its injuries and continued fighting.
+
+No matter how many times he’d smashed its skull open, it always came back to life. Not only that, but it kept drawing more and more high-leveled undead to their location. An entire army of [Zombies] and [Skeletons] and [Draugr] and more came to its aid as the fight continued. He was overwhelmed, and so was his team. So, he fled.
+
+Anyway, he didn’t know how Salvos defeated the Lich. He just knew that she was impressive. That her words, despite her nature as a Demon, had merit. And what she said would change everything.
+
+The world is ending.
+
+It wasn’t just an apocalyptic-level threat. It was the Apocalypse. Orgaf understood the implications. However, Helena Warshade had decided that they keep it tight-lipped for now. That this information should not spread until the Demon threat was dealt with, unless to the most important of individuals.
+
+Orgaf himself wasn’t going to tell anyone about it, but he still wanted to know more. More about the end of the world. More about Salvos’ nature as a Demon. And that was why he was headed for her.
+
+“Now, where did she go?”
+
+He grumbled as he came to a halt atop a hill. He glanced back at Alyras— the city was far in the distance. He’d left the roads behind, instead following a compass he held in his hand. Except it wasn’t a compass. It was an artifact he’d gotten from a [Diviner]. It could help him track down the general location of anyone as long as he had gotten a recent trace of their magical signature— which he did get.
+
+Orgaf’s eyes narrowed as the compass pointed to the northwest.
+
+“If what I’ve heard is true, then she left the city in quite the hurry. Now, the question is: why the rush?”
+
+He could only speculate. There were a myriad of reasons as to why she sped away from Alyras. But that was just one of the many questions he’d have for her when he found her. He stepped forward as he sighed.
+
+“This is going to take a—”
+
+And his brows snapped together. He spun around in an instant as [Passive: Danger Sense] blared in his head. He thought he was about to stumble into a trap, but he saw the glint from the corner of his eye.
+
+A red beam. One that crossed thousands of feet in mere moments. His eyes grew wide as he raised an arm. Even he couldn’t dodge this.
+
+A sphere engulfed where Orgaf had been standing. It didn’t shake the earth. There was no tremor nor column of smoke. Instead, the entire ground was simply obliterated. The crimson sphere dissipated soon enough, and Orgaf panted as he stumbled away from the crater.
+
+Fortunately, he knew he wasn’t infallible and had protection on him. Unfortunately, the attack had completely torn through all the enchantments and aura. He gripped his bleeding shoulder, looking around in a daze.
+
+“What… what the fuck was that?”
+
+His daggers appeared in his hands as he prepared for a fight. Then he heard the chuckle. He saw the three figures descend before him.
+
+“He’s still alive.”
+
+The first had yellow skin with a single horn on his head. He was lean and tall— not too muscular, but still with a visibly fit frame.
+
+The second had green skin and three different tails protruding from her back. She had messy black hair and a pair of crimson eyes with a black sclera. She looked bored, barely even paying attention to Orgaf.
+
+The third, however, seemed upset. She had light pink skin and a pair of clawed hands. Her nails were long. Longer than even Salvos’ in her Demon form. She tilted her head slightly as she frowned.
+
+“So he is.”
+
+“Demons.”
+
+Orgaf whispered. So they’re going to interfere with the Conference of Alyars, then. He shifted his feet, but the Demons ignored him. The green-skinned Demon just shook her head.
+
+“Wasn’t that your best Skill too, Gloria? And you didn’t even kill him.”
+
+The pink-skinned Demon’s brows snapped together. She spat back.
+
+“Silence, Desidia. I can still end this battle in a single attack from my Grand Skill.”
+
+Grand Skill? Orgaf frowned. He looked at each of them, using [Identification] to assess their threat.
+
+“Level 148. Level 147. And Level 148. Hmph. So just Archdemons, then.”
+
+He twirled his daggers as the forefront Demon with a horn raised a brow at him.
+
+“Perhaps we are just Archdemons, but you are just a mortal.”
+
+“A mortal who’s stronger than each of you. You made a mistake picking a fight with me, Demons.”
+
+Orgaf grinned as he gritted his teeth. It was a facade. These Demons were strong. Certainly— probably not as strong as Salvos. Yet, at least one of them had a Grand Skill. And they had gotten the jump on him. It frustrated him that he was in this situation, but he had to resort to tricks if necessary.
+
+“Come now, did you really think that would’ve killed me? What was it— Gloria? Please, I barely even felt that.”
+
+“You…”
+
+A dark shadow passed over her face. She stepped forward, but a hand stopped her. The horned Demon sighed.
+
+“Please, Gloria, I gave you your chance to deal with him on your own. Let’s not take any more risks.”
+
+His eyes flickered to the city far in the distance. Orgaf noticed it. Ah, so that’s why they targeted me.
+
+“Let us end this as soon as possible. [Slick Zephyr].”
+
+The horned Demon spoke as he brought a hand up. Orgaf leapt back, dodging a wind blade that curved up. It was a barely visible attack. One the [Rogue] only saw because of the flicker in the air.
+
+Orgaf landed, and the moment his foot touched the grass, a figure appeared next to him. The green-skinned Demon, Desidia.
+
+“I don’t really want to do this, but— [Meteor Punch]!”
+
+She slammed a fist down at him. He brought his daggers up, parrying her punch as the ground ripped open beneath his feet. His blades held up against the force of the punch, but the same couldn’t be said for her fist. Desidia scowled as black blood dripped off her fingertips.
+
+“That’s kind of annoying.”
+
+“It will be a lot more annoying when you’re bleeding from your corpse!”
+
+Orgaf lashed back with a flurry of strikes. The Demon braced herself, taking a defensive stance as she raised her arms. He thought that wouldn’t have been enough to protect her, but somehow her skin color changed. It turned into a dark brown as his blade bounced off her skin. He dodged away from a kick and blinked.
+
+“Geomancy enchantments?”
+
+“Yeah, enchantments let me get as much done with as little work as possible.”
+
+Desidia shrugged. Orgaf growled, raising his blades. But before he could pounce at her, a red orb shot out at him. He struck it out of the air, and it landed behind him, exploding in a much smaller sphere than before.
+
+He looked up at Gloria. The pink-skinned Demon. She had her hand extended, her lips twisted, but she didn’t draw closer. She fired a series of the same blasts as Orgaf continued deflecting them.
+
+These Demons were strong. Very strong. Weaker Elites would’ve already been taken out by them at this point. Certainly, if Scarlet the Red Rose were here in his place, she’d already be dead. But he was Orgaf. Thief of the Golden Scales. He was an experienced Elite who had dealt with such odds before.
+
+“This won’t be enough to defeat me, Demon!”
+
+He yelled as he sent a blade of dark aura flying back at her. She easily sidestepped the attack.
+
+“I know.”
+
+She replied simply.
+
+“It’s a distraction, you idiot.”
+
+“Wha—”
+
+Orgaf’s eyes widened. He spun around, but wasn’t able to move away this time. The air around him flickered before wrapping around him. It formed a sphere that would’ve trapped him as the horned Demon bellowed.
+
+“[Tempest of Destruction]!”
+
+The air quickly compressed before bursting out into a contained hurricane. One that crackled with lightning and thunder and all the intensity of a mana storm. Desidia walked up beside the horned Demon, her shadow stretched long from the glare of the sun. She looked over his shoulder.
+
+“Did you get him, Iivor?”
+
+“No… he’s—”
+
+Iivor narrowed his eyes. And Desidia’s shadow moved. Orgaf emerged behind her, slashing at her back.
+
+“[Dark Backstab]!”
+
+“Fuck—”
+
+She screamed in pain as she stumbled forward, his blade tearing through even the bodily enhancements she had. Orgaf ducked under another wind blade sent out by Iivor, closing the distance and slicing for his head. A wind barrier protected the horned Demon, but he was still knocked back by the impact.
+
+A series of thin crimson beams shot up Orgaf, not exploding, but cutting everything it came into contact with. He looked back up towards Gloria and threw one of his blades. She barely moved her head out of the way in time. The dagger cut her cheek and she snarled.
+
+“You cursed mortal!”
+
+She hurled a crimson disc his way, and he slunk back into the shadows. When he reappeared, his thrown dagger was back in his hand. The three Demons were recuperating as he stood atop a nearby hill.
+
+“So much talk earlier. What happened to all your bravado?”
+
+He laughed mockingly at the Demons. Iivor straightened, taking on a wary stance, while Desidia just clutched at her back.
+
+“Ouch— why did I have to be the only one injured from that?”
+
+“Be grateful I have yet to use my trump card, mortal.”
+
+Gloria spoke over her, ignoring her complaints. The pink-skinned Demon pointed at him, her eyes glinting.
+
+“If I wanted to, I could end this battle in an instant.”
+
+“Really?”
+
+Orgaf tilted his head as he looked over his three enemies. He glanced behind him— there was a treeline nearby. Not more than a thousand feet away. He threw his head back and took on a wide stance.
+
+“Then perhaps I’ll have to take this seriously, too.”
+
+Orgaf smirked. He raised his daggers as the three Demons hesitated. And he spoke in a chant.
+
+“[Darkness Reigns, Horrors Lurk. Shadows Linger As The Day Is Snuffed Out—”
+
+The Demons paused. Gloria blinked a few times.
+
+“What is he…?”
+
+The horned Demon— their leader— yelled back all of a sudden.
+
+“It’s a Grand Skill! Get back!”
+
+But Orgaf didn’t stop his chanting. The three Demons quickly backed away in a panic as he smiled.
+
+“[Swarm And Slither. Consume and Devour. All Shall Suffer—”
+
+He lowered his dagger. The Demons waited. They looked around in a panic, ready for the Grand Skill to coalesce. For whatever dark magic he was about to unleash. Orgaf paused right at the end of his Grand Skill’s chant.
+
+“[Nightmare’s…”
+
+He trailed off. Then he snickered.
+
+“Got you— [True Disengage].”
+
+The Demons froze. Iivor realized what just happened. The horned Demon raised a hand.
+
+“No—”
+
+But Orgaf vanished. With a single step, he crossed a great enough distance to leave the battle. The scene around him was replaced with trees and greenery, no longer showing the rolling hills and valleys. The three Demons were gone, nowhere to be seen.
+
+He panted as he leaned against a tree, bringing a hand to the wounds on his shoulder. Shaking his head, the [Rogue] sighed.
+
+“That was tougher than I thought.”
+
+He cursed under his breath. The worst part wasn’t their individual strengths. Those Demons had good teamwork, even if they didn’t seem like they seemed like they wouldn’t from their bickering. Furthermore, they still had Grand Skills under their sleeves…
+
+“I need to warn someone.”
+
+Pushing himself up, Orgaf looked towards the direction of Alyras. He couldn’t even see the city from where he was. Then he produced his compass again— the one that pointed to Salvos. And he considered his options.
+
+“But who do I warn first?”
+
+“He got away.”
+
+Iivor cast his gaze around the area. He saw nothing. He sensed no one nearby. Desidia was tending to her wounds, while Gloria was cursing as she destroyed a nearby boulder.
+
+“That damn mortal…”
+
+“I told you to take these Elites seriously, Gloria.”
+
+Sighing, Iivor stopped the pink-skinned Demon from drawing more attention their way with her explosions. He rolled his eyes when she snapped at him.
+
+“I could’ve killed him with my Grand Skill, Iivor. But that coward chose to run.”
+
+“I know, but our mission has only just begun Let us preserve our trump cards only for when the need arises.”
+
+She scowled, but she didn’t dispute that. He took her hand before appearing next to Desidia. He placed a hand on her back as her wounds closed, then they appeared above the clouds, overseeing the landscape. He spoke softly, eyeing the heart of Alyras. The palace that stood out, even from this distance.
+
+“We need to find the other high-leveled targets attending the meeting. Isolate them. And deal with them before they arrive in the city. Gula and the others will deal with the meeting itself.”
+
+Gloria took in a deep breath, calming herself. She turned to Iivor with a cool demeanor. Completely changed from just a moment ago.
+
+“What about Ira?”
+
+“Ira has another job. There’s no need to worry about him. We just have to focus on our task ahead of us.”
+
+She opened her mouth, then caught herself. Closing her eyes, she spoke simply.
+
+“Fine.”
+
+And when her eyes opened again, they were glowing with a brilliant aura. Her pupils moved subtly as she scanned the area.
+
+“Let’s do this.”

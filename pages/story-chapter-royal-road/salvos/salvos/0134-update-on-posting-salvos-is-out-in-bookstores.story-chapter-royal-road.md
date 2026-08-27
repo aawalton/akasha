@@ -1,0 +1,29 @@
+---
+id: c911f00c-face-5ec5-bd52-bbd0c7071606
+page-type-slug: story-chapter-royal-road
+title: "Update on posting + Salvos is out in bookstores!"
+slug: 0134-update-on-posting-salvos-is-out-in-bookstores
+partOf: salvos
+position: 134
+ownLength: 204
+unit: words
+publishedAt: 2025-10-02
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2646882/update-on-posting-salvos-is-out-in-bookstores"
+royalRoadId: "2646882"
+---
+
+Two updates:
+
+First of all, I am back! Sorry for disappearing for a while. Life... happened. It's complicated. But I'm sure you guys don't care about that, what you probably care about is:
+
+I'll be posting RR chapters in bulk, while also starting to post Patreon chapters again starting this month!
+
+Yay! Which also means that my patreon will be unpaused starting next week, just so we're clear.
+
+Second of all, Salvos is coming to bookstores near you!
+
+Well, only if you request it. I was picked up by A&V Publishing to be distributed by S&S as an official english light novel. This means you can actually potentially find Salvos in your local barnes and nobles. And if they don't have it in stock, you can put in a request to them and they'll stock it! And this version of Salvos will come with special illustrations and has a different cover, so if you're interested in it, check it out:
+
+https://www.simonandschuster.com/books/Salvos-(Light-Novel)-Vol-1/V-A-Lewis/Salvos-(Light-Novel)/9781638492900
+
+Anyway that's all, I'll try my best to not be cooked by life again. Thank you for being patient, and apologies again for disappearing. RR chapters will resume starting today and will be rapid posted to get through the rest of the book.

@@ -1,0 +1,129 @@
+---
+id: 3bbf1992-7568-5f66-8c0b-f7d3ccef5216
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1347 - An Inextinguishable Flame"
+slug: 0221-chapter-1347-an-inextinguishable-flame
+partOf: the-primal-hunter
+position: 221
+ownLength: 2754
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3640024/chapter-1347-an-inextinguishable-flame"
+royalRoadId: "3640024"
+---
+
+Destructive mana mixed with the crimson flames as both consumed one another, filling the sky with carnage as three figures moved rapidly across it, two of them teleporting on occasion, with one flying at incredible speeds behind the two teleporters.
+
+Jake continually used Arcane Arrow Storm, burning through energy rather rapidly, but he saw the effect of his attacks, prompting him to keep going. The Archfiend was good at summoning defenses, but he couldn’t take care of everything as he occasionally found himself slipping up, the destructive arcane energy from the arrows reaching him.
+
+So far, every single arrow had been the destructive variant, exploding before they even reached the demon’s body due to all the fire magic he summoned. Perhaps that’s why the Archfiend was taken entirely by surprise, as suddenly, one barrage did not explode. Instead, Jake shot an Arcane Arrow Storm, creating only five projectiles, each of them stronger than usual, and all of them of the stable variant.
+
+They pierced through the explosions, and while the Archfiend did try to react by teleporting away, Jake pulled out another skill he hadn’t used yet. Right before the demon could escape, his soul suddenly felt the gaze of an apex predator upon him, freezing him entirely for just a moment.
+
+A very critical moment.
+
+While the existing defenses of the demon managed to stop two of the arrows, three still managed to get through, piercing into his body as the Archfiend was blasted backward, leaving a trail of blood in his wake. The relative frailty of the caster was once more shown as all arrows penetrated nearly all the way through, and the damage only got worse when Jake sent the mental command to make all three explode, making the demon’s wounds erupt.
+
+Jake intended to follow up, but he didn’t have the opportunity. Using Primal Gaze had taken a bit of a toll, as the demon’s soul was far more powerful than any other B-grade he’d ever encountered before. That had slowed him down briefly, which was just enough for the Behemoth to be upon him once more.
+
+Forced to take out his katars to defend himself, Jake had several dozen exchanges as he was pushed down towards the ground, all the while giving the Archfiend time to recover from his wounds. The teamwork of his two opponents still wasn’t good, but they were decent enough at backing one another up, not giving Jake the chance to land a truly lethal blow.
+
+The Behemoth’s attack strategy also put Jake in a bit of a bind, as she had completely given up on defense and leaned fully into recklessly swinging away at him. This made it far harder for him to defend, and it also more or less confirmed Jake’s theory that she had some kind of berserker skill, meaning that should Jake start counterattacking, he would more likely than not end up hurting himself more than her. She was already hard enough to deal with as-is, and making her even stronger with the Archfiend still a factor seemed like a very bad thing.
+
+As if to confirm his thoughts, the Archfiend soon recovered, and he looked more than a little miffed as he now had three bleeding holes in his torso. The demon erupted with an explosion of flames, and Jake was ready to handle another barrage of spells, but instead, the Archfiend cooked up something bigger.
+
+Jake monitored his surroundings and even used Pride to try to determine whether any sealing ritual was being set up around him again. He didn’t detect anything, and soon, he learned that this wasn’t that kind of skill.
+
+Raising his hands, the demon spoke a chant that just sounded like an odd droning sound before suddenly, space cracked open. A torrent of flames erupted from within before two hands suddenly grasped the edges of the crack. The hands tore the spatial fissure open as a figure emerged, taking a single step into the world outside.
+
+As it did, the temperature rose significantly, and Jake was hit by a distinct smell of sulfur. The Behemoth also slowed down her attacks for a moment, looking shocked at the being that had emerged, and Jake was pretty sure they both used Identify at the same time to see what the hell they were looking at.
+
+The result didn’t help much, at least not for Jake.
+
+[?]
+
+He stared at the creature that stood about ten meters tall. It was clearly a demon, having red skin as it put its hands together, a glowing orb of deep red flames forming. It was thin, definitely not a physical fighter, and had tentacle-like feet that didn’t look like any creature Jake knew.
+
+However, what shocked Jake the most was its aura. It felt odd, and he couldn’t quite detect its power. One part of him said it was a weak projection and nothing more than an illusion summoned to intimidate, while another part was screaming at him to run the fuck away. It was an odd mix of messages, making Jake unsure how to act.
+
+Until the orb of flames formed, that is. When it did, the unmistakable aura of divinity appeared, all its energy focused on that orb, and behind him, the Archfiend continued chanting, a look of reverence on his face, giving Jake a good idea of what he was dealing with.
+
+Infernal Globe Devil.
+
+The Archfiend was somehow channeling a portion of his Patron's power, making Jake’s next course of action a total no-brainer. A powerful barrier had appeared around the Archfiend as he started chanting, and while Jake could break it, he believed it wiser to instead just run the hell away for now.
+
+Unfortunately, right as Jake made his decision to strategically advance in the opposite direction of the summoned demon god, the Behemoth acted. She let out a loud roar, freezing Jake in place as he struggled to break free. At the same time, he felt the devil’s gaze upon him, his danger sense almost going haywire.
+
+Right as he broke through the immobilization of the roar, she bloody did it again, the effect far weaker the second time around. But it was enough to achieve their goal.
+
+The summoned devil crushed the orb beneath his hands, disappearing as the world flashed red. Jake had expected a massive attack, a beam of flames, or something else in that vein. Instead, he just suddenly caught fire, and right next to him, the Behemoth suffered the same fate.
+
+No, not just her. The Archfiend was also burning with the same deep red flames as he and the Behemoth were. The demon’s existing wounds were visibly worsening, not that Jake had much time to think about it. Extreme pain rushed through his body as he felt the flames affect both his body and soul.
+
+Instinctively, he erupted with arcane mana, trying to rid himself of the flames, but it had no effect. The flames didn’t even move at his use of energy and continued burning, seemingly intending to do so until all its fuel – Jake in this case – was turned to cinders.
+
+As Jake was still trying to figure out the nature of the magic, the Behemoth went straight on the offensive again, not seeming to care at all about the soul-consuming flames that enveloped her body. In fact, it was likely even beneficial to her, at least in the short run, as any damage taken would only make her stronger.
+
+He had expected the Archfiend to be out of commission, perhaps having to continue somehow maintaining the magic while burning; however, mere moments later, the storm of fire attacks resumed, the Archfiend bombarding him with all the usual spells as a dozen flame orbs were summoned.
+
+Jake gritted his teeth, able to suppress the pain as he tried to dodge away from the Archfiend and Behemoth’s many attacks. Fortunately, burning didn’t slow Jake down, though he did notice that the spells released by the Archfiend seemed more drawn to him, and if they even got close, some of their fire energy was siphoned off, making Jake burn with even higher intensity than before.
+
+Continually, Jake tried to find a way to dispel the flames aiming to consume him. With Pride, he analyzed the flames, but found them to be far too complex for him to comprehend at all. He did discover that his Scales of the Malefic Viper helped a little, turning a portion of the fire’s damage desolate, rendering it void, but it was far from enough, and as time passed and Jake got struck by more spells from the Archfiend, his situation would only get worse.
+
+After about half a minute of Jake being fully on the back foot, he realized that he had no way of dispelling the flames. He had even gone so far as to use Eternal Shadow, switching places with the cursed version of himself, but the fire persisted. It was bound to him, and from the looks of it, would seemingly continue burning until he was dead.
+
+Or... until the source of the flames died. Jake started to realize something through his analysis, and, coupled with his general knowledge of magic, he had a solid idea of how to “cure” himself.
+
+This kind of skill was incredibly powerful and not something he believed a B-grade could use under normal circumstances. Being able to summon an inextinguishable flame that would mark the certain end of someone wasn’t possible, and it had to have some kind of rule or limitation. A cost to sustain it.
+
+In this scenario, Jake believed the cost came in the form of sacrifice.
+
+The Archfiend was burning the same as Jake and the Behemoth. He was being consumed by his own skill, and Jake believed that as long as he burned, so would Jake and the Behemoth. It was an insane kind of attack, pretty much putting both sides on a timer, and Jake guessed that the only way for the Archfiend to save himself at this point was also to kill Jake and the Behemoth. It didn’t look like he could save himself either, as while he was the source of the magic, he wasn’t truly the caster.
+
+That would also explain why he was in a rush to finish off Jake. The Archfiend was living on borrowed time, though Jake did assume he could handle these flames for far longer than Jake could. The demon had to have an incredibly high level of resistance to all kinds of flames, and it was essentially his own magic. It was akin to Jake making a mutually destructive poison or an arcane curse. Sure, it would hurt him, but it would hurt his foes far more.
+
+There was one thing that didn’t quite click for him, though... did the Behemoth not realize this was the case?
+
+“He’s trying to take us both down,” Jake said, dodging away from the Behemoth that was growing stronger the more damage she took, the flames surrounding her body even more intense than Jake’s own as she’d been hit by far more fire spells than he had.
+
+“I believe that these flames won’t go out until he either kills both of us or dies him-“
+
+“Your insight is impressive,” the Behemoth cut him off, not slowing down her assault in the slightest.
+
+“You know,” Jake recognized, also finding it more acceptable now to counter as he stabbed a flame-wreathed forearm. “So you’ll kill him after me?”
+
+“That’s the agreement,” she said, once more being surprisingly honest. “He will die, and in return, I’ll keep his Territory safe for a month until he can return.”
+
+Jake narrowed his eyes, having to at least respect the Archfiend for having realized that they were not going to take him down without sacrifice. This kind of skill was definitely the trump card of the demon, and not something he would regularly use. Jake even found it likely that the skill was of sacred rarity, seeing as it definitely had divine elements mixed in.
+
+“I see,” Jake muttered, giving the Behemoth one more look. “And from your perspective, you’re winning either way, as if he dies, you survive, and if I die, you still survive after killing him. Shit, you’ll even be the only one alive to destroy my Beacon.”
+
+“The privilege of the strong,” she answered curtly, allowing some of her innate superiority complex to shine through. In her defense, she was stronger than the Archfiend, though when it came to magical talents, he definitely surpassed both of them.
+
+Also, Jake could only agree with her.
+
+“Privilege of the strong, indeed.”
+
+He dodged another of her swipes and pivoted around her, giving her a solid kick in the back as he launched himself towards the Archfiend. The goal had always been to kill the demon first, and that was more pressing now than ever. During his flight, thousands of fire spells came toward him, but with Pride, Jake continually summoned barriers and bolts, while also unleashing a few Arcane Arrow Storms to keep the flames away.
+
+Finding a brief opening, Jake slowed down a little as he started charging an Arcane Powershot. His very telegraphed attack made the Archfiend quickly teleport another time, creating more distance as he brought his flame orbs in front of him, forming over a dozen layers of barriers.
+
+Behind him, the Behemoth was flying in a straight line for him, which was why she wasn’t at all ready when Jake suddenly spun around and unleashed the Arcane Powershot towards her instead of the Archfiend. She only had time to raise her arms, blocking the attack somewhat as she was blasted backward.
+
+Before she could even start to recover, she was struck by another arrow, and then another, and then a few dozen more in very rapid succession. Jake used the Rapid Fire function of Timeless Focus as he stood still and shot over and over, ignoring the attacks from the Archfiend that struck him.
+
+The Behemoth was struck more than fifty times, sending her flying into the horizon for many kilometers. With her temporarily out of commission, Jake fully dedicated his attention to the Archfiend, who realized what Jake had done. The demon was no slouch and decided immediately to be fully defensive in an attempt to buy time for the Behemoth to return.
+
+Unfortunately for him, Jake had no intention of allowing the demon to do that. Without the threat of the Behemoth, Jake was more than happy to engage in a ranged battle, as he didn’t wait to start shooting while giving chase.
+
+Struggling, the Archfiend kept summoning barriers and teleporting, but the earlier wounds and the sheer exhaustion of the battle started to take their toll. The demon still managed well, avoiding further injury, but Jake slowly improved his position and gained momentum until, finally, he got his chance to strike.
+
+Jake shot another Arcane Arrow Storm, but this one was different from those prior, as all the arrows exploded to create a massive cloud of dark mana, obscuring the vision of the demon. It had worked before, and Jake banked on it working again as he took out a special little arrow he’d prepared, while at the same time he sent out his Eternal Shadow for the third time this fight, leaving him quite strained.
+
+His Shadow shot out from the bottom of the cloud, shooting another arrow towards the Archfiend, who now found himself forced to consider if the real Jake was still within the cloud or not. Jake didn’t believe it mattered either way as he had already nocked the Protean Arrow and taken aim at the demon.
+
+Jake had displayed many attacks thus far, mainly going for quantity over quality. Perhaps due to that, the Archfiend seemed to severely underestimate the kind of attack Jake was capable of unleashing, as he continued charging his Arcane Powershot even after his Eternal Shadow was destroyed and the cloud of dark mana had nearly dispersed enough to reveal him.
+
+The whirling energies summoned by the Arcane Powershot gathering power scattered the rest of the shadow mana moments later, revealing Jake’s form right before he unleashed his attack.
+
+For a brief moment, Jake and the demon made eye contact before Jake let go of the string, pouring in every shred of Hunting Momentum gathered throughout this fight so far as the arrow roared forth towards the Archfiend, who quickly attempted to muster whatever defenses he could.

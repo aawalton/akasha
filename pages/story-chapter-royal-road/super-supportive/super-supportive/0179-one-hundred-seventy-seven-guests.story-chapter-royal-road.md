@@ -1,0 +1,393 @@
+---
+id: 67232af5-b68b-54ee-b982-512fe7ded750
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED SEVENTY-SEVEN: Guests"
+slug: 0179-one-hundred-seventy-seven-guests
+partOf: super-supportive
+position: 179
+ownLength: 4965
+unit: words
+publishedAt: 2024-10-21
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1860730/one-hundred-seventy-seven-guests"
+royalRoadId: "1860730"
+---
+
+177
+
+******
+
+“I can’t believe they all ditched,” Alden said when he and Haoyu were alone once more. The little cauldron was spewing fresh clouds of steam into the room. He had learned to appreciate the melony scent and the way inhaling a new batch of the stuff seemed to reset the sauna experience. Just when you were getting tired of the heat, the dose of steam pushed you back to that point where the temperature felt therapeutic.
+
+“It’s a rather specific crowd here,” Haoyu said from above him. “They’ve got plenty of money, they’re disproportionately likely to be summoned for something dangerous, and they just found out the person coming to visit is the type who probably does summon people for the dangerous missions sometimes. Plus they want to relax. Even if they’re not that worried about a summoning, minding your manners around a wizard of unknown temperament could be stressful.”
+
+All true things.
+
+“I’m surprised it was all of them, too, though,” Haoyu admitted. “Normally, in a group that big you’d think there would be a couple who wanted to suck up to an Artonan and a few more who were just not bothered. Can you imagine our teachers running off like that?”
+
+Alden could more easily imagine Big Snake talking Esh-erdi’s ears off than he could imagine him making a rush for the exit.
+
+“I don’t think most of our classmates would have left either,” Alden said.
+
+“Ha!” said Haoyu. “Some of them would bankrupt themselves to buy a membership right this second so that they could come annoy him. Mehdi keeps saying things about how you might be getting secret knowledge and techniques from being around so many wizards at Matadero, and how if he was there he would be getting secret knowledge and techniques and petitioning them to add a bunch of spells and skills to Agi.”
+
+Alden was about to respond when Esh-erdi appeared in front of the glass door. He was wearing a spa robe and carrying a handful of brochures. When he spotted Alden and Haoyu, he smiled, tilted his head, then headed back down the hall the way he’d come.
+
+“He’s leaving!” Haoyu sounded so horrified that Alden turned to give him a surprised look. “Was he upset that we were here? Or is it just me? It’s me, isn’t it? He likes you.”
+
+“You’re freaking out for no reason, man. He doesn’t know you. Why would he leave because of you?”
+
+“Maybe I’m really ugly by Triplanets standards. Maybe I was making an offensive face.”
+
+“Were you making a face?”
+
+“I don’t know! I was curious about him. I could have looked creepy.”
+
+Esh-erdi reappeared in front of the door about two seconds later, wearing a towel around his waist instead of the robe and still carrying the brochures.
+
+[See?] Alden texted Haoyu. [He was just taking off the robe because he saw we weren’t wearing one. Trying to match the local style.]
+
+Then, in Artonan, he said, “Hello, Esh-erdi.”
+
+“Alden! I find you in a hot room surrounded by wood. This is very pleasant. I should tell Lind about it.” He walked in a circle around the pedestal with the cauldron on it, having a good look at it and giving them a good look at him at the same time.
+
+Artonans were undeniably alien when nude, or even just shirtless. In adults, the navel was minimal if it was visible at all. Cosmetically darkening the spot where it had been was a thing in certain situations. Nipples, located where humans expected to see them, ranged from flesh-toned to wow-those-are-purple.
+
+Esh-erdi’s were closer to the former, but his back striping was vibrant. Two periwinkle blue slashes began an inch below the base of his neck and followed along either side of his spine. The stripes broke and faded before disappearing just above the towel. Artonan females had marks in the same area, though theirs were much less noticeable. Actually, the males’ striping was usually a bit subtler as well. Esh-erdi was kind of showy.
+
+His tattooing, however, was restrained. Lines, whirls, and dots were confined to a band around his right calf. It was impossible to tell if it was one tattoo or twenty carefully arranged together so that they didn’t clash.
+
+Alden watched him stick a finger into the cauldron and then pop it into his own mouth. After a moment, he nodded. “This is well done! Very good. I’m glad humans have this.”
+
+Then he looked toward Alden expectantly.
+
+“This is my friend Haoyu Zhang-Demir. We live together on campus. Haoyu, this is Hn’tyon Esh-erdi. He saved me from a giant wave a week ago.”
+
+“Hello!” Esh-erdi said before Haoyu could get his own greeting out. “You aren’t ugly. And if you were, it wouldn’t keep me from enjoying an Earth relaxation experience with you.”
+
+Alden had to fight not to smile at Haoyu’s expression of chagrin.
+
+When the knight walked over and climbed up to sit beside Haoyu, Alden caught a glimpse of a pastel green auriad holding his long hair in place on top of his head.
+
+“When I wasn’t much older than the two of you, I shared a traditional oil pool with a ——— and its <<brood>>.”
+
+The name of the species was a chittering sound that went untranslated; Alden had never heard it before as far as he could remember.
+
+“The people I’d gone on the mission with convinced me that someone had to do it to avoid giving offense.” Esh-erdi thrust his hands away from him in a gesture Alden didn’t recognize. “They were evil.”
+
+“The crikchikchikchik?” Haouy asked, doing what Alden thought was a remarkable job of pronouncing the sound.
+
+“No. The knights I traveled with. They said it was the duty of the young to keep the old amused on long journeys. Of course I don’t disagree, but a pool full of brood isn’t funny. All those sharp little legs…”
+
+Alden was almost scared to ask. “What is a cricketychickdee?”
+
+“The Contract didn’t define it,” Haoyu added.
+
+“That’s an unnecessary <<obscuration>> in my opinion. Imagine a dried lobeberry twice my size, with many legs and a habit of oiling itself.”
+
+By the time he finished explaining the species, Alden was fairly sure they were giant spider raisins who had no Contract and limited contact with the Triplanets. He was also fairly sure that persuading the youngest member of the squad to take an oil bath with them was truly evil.
+
+From there, they ended up talking about Haoyu’s family. Esh-erdi seemed interested in his class choice and very happy to hear that he was following in his parents’ footsteps. Initially nervous, Haoyu was growing bolder with every multilingual sentence. In the process of trying to mix in all the Artonan words he knew, he was occasionally pulling Mandarin and Turkish ones out of his head and throwing them into the mix. Alden had to read the translations to understand what he was saying sometimes.
+
+“Does my father speak words about me while he’s with you at <<slaughterhouse>>?” Haoyu asked, leaning toward Esh-erdi. By then, they were all enjoying cushioning spells. And wooden bowls full of salted cucumber slices because the spa was apparently at such a loss about what to do for their high-profile guest that they’d just fulfilled the only request anyone had made.
+
+“Yes,” said Esh-erdi. “He spoke of his family.”
+
+“What does he say about me?” Haoyu asked, eyes narrowing as if he suspected his father of saying something he would disapprove of.
+
+“No!” said Esh-erdi, laughing. “You must ask him yourself. I’m too clever to cause trouble with your parents even if you have bribed me with your planet’s version of waterfruit.”
+
+He crunched on another cucumber slice. The steam had faded, so Alden was sure someone would come by with another potion soon.
+
+Haoyu sat back. “I want…”
+
+He trailed off. Just when Alden assumed he must have changed his mind about sharing whatever it was, he finished the thought after all.
+
+“I want to be as strong as my parents are. So that whenever one of them is summoned to a battle I can go with them.” Haoyu’s eyes were fixed on the knight. His voice was firm. “How do I do that?”
+
+So that’s who he is. Alden wasn’t surprised at all, but there was a clarifying quality to the thought, as if a critical piece of another person’s inner puzzle had been found and fitted into place.
+
+He’d had a lot of that recently, with Stu-art’h. Choosing to go all-in on friendship by handing over like thirty puzzle pieces at once was so…Stuart of him.
+
+Now Alden was hearing one of Haoyu’s.
+
+Haoyu Zhang-Demir, he thought. Fifteen-year-old slow cooker enthusiast. Does the recycling wrong. Will straight-up ask a knight how to get to danger so he can watch his parents’ backs.
+
+Esh-erdi regarded him for a while. “Grow as comes naturally to you for a few years, newling. You may satisfy yourself more easily than you think.”
+
+“What if I can’t?”
+
+“Call me.”
+
+Haoyu straightened.
+
+“When you’re at an age when your parents wouldn’t mind me answering the question,” Esh-erdi finished.
+
+Haoyu groaned. “So when I’m ninety.”
+
+Alden’s laugh was drowned out by Esh-erdi’s.
+
+******
+
+Eventually, people started to arrive. The first was a bearded man who seemed all right until Alden decided he seemed too all right. He refused to glance their way no matter what happened.
+
+Yeah sure, guy. Act like you can’t see Esh-erdi casting spells or hear our conversation about the differences between snakes and oontsies. That’s not a suspicious amount of nonchalance at all.
+
+But at lease it was preferable to the next saunagoer—a man who literally said, “Alden the Rabbit! Fancy meeting you here!” before sitting way too close and pretending he was best friends with Alden and something considerably more sycophantic toward Esh-erdi.
+
+“Cucumbers,” said Esh-erdi.
+
+“What, Hn’tyon Esh-erdi?” Their new friend spoke in passable Artonan.
+
+“I feel sad that they’re all gone,” said Esh-erdi, gesturing toward his empty bowl.
+
+By the time the man came back with more cucumbers, his seat had been taken by two members of the battlegroup that had been at Matadero with the knights and Haoyu’s dad. They were a couple who’d been at the spa anyway, and they had decided to say a quick hello when they heard who was here. That quick hello got extended by Esh-erdi starting up a conversation about the Matadero rice wars.
+
+Alden wondered if he was the only one picking up on the fact that Esh-erdi was disappointed nobody had tried to attack him with a bag full of grain.
+
+I mean, I can’t blame them. I don’t think I’m brave enough to boobytrap his shower or whatever, even though he seems to want someone to.
+
+Maybe he could suggest that Drusi-otta try it?
+
+<<We sent the peanut fudge,>> said the woman, nodding at Alden. “For Thanksgiving.”
+
+“I ate that!” Esh-erdi declared. “With champagne.”
+
+[You champagne!] Haoyu texted Alden with a gasp. [Criminal grape juice!]
+
+[I didn’t have any.]
+
+[Why? Still some? Try!]
+
+Alden ignored him in favor of thanking the fudge making couple. Unfortunately, they were the nicest of the people trickling in.
+
+Alden counted three gawkers, two job-seekers, one person who was probably going to blog about the general’s favorite vegetable, someone who seemed really jealous of Alden’s “fortunate position”, and one self-proclaimed future member of the Anesidoran High Council.
+
+Then, a woman walked in wearing a skimpy red bikini. The last time Alden had seen it, Emilija had been wearing it.
+
+“Way more people than I expected,” Aimi Velra said, turning in a circle to take in the room. The steam had been recently refreshed, and she waved a cloud out of her face. “That’s good. You can all suffer…I mean buffer if the general decides to stay after I issue my warning.”
+
+Everyone had fallen silent. Esh-erdi looked intrigued at the promise of a warning…or possibly at the sight of the Velra tattoo on Aimi’s hip. He must have recognized it since Aulia liked to stamp it on her things.
+
+“Thanks for not letting the ocean have my home, Hn’tyon Esh-erdi,” she said in what sounded to Alden like perfect Artonan. “I thought I should tell you that some people in my family have memberships here. Not because they enjoy exercise, just because this is a place where rich people are supposed to have memberships. A few of them are coming to inflict themselves upon you like a swarm of <<flesh-eating flying animals that were eradicated in the distant past>>. I think it’s going to be Corin, Hugh—”
+
+“We should leave,” Alden said. Probably too adamantly, judging by Haoyu’s outburst of snickering.
+
+Aimi looked at him. “Hi! Dad loved the birthday present. And lots of other people loved watching you send Hazel off the planet. Maybe not her parents, though.”
+
+“That’s not on me. I was just an honest bystander.”
+
+Alden was on his feet, trying to make “Let’s escape!” hand signs at Esh-erdi, whose eyes were lighting with even more interest.
+
+“You know this woman?”
+
+“We’re <<buddies>>!” Aimi announced.
+
+“She captured me and put me in a car against my will. She ruined a meal for some ducks. But she also shares her belongings and comes to give warnings, so I’m slowly forgetting about the first part.”
+
+“Your accent is unique,” Aimi informed him.
+
+Alden was too busy trying to keep his towel around his waist while he shoved a bowl of cucumbers at Haoyu to respond to her.
+
+“Snacks for the road,” he said to Haoyu. “Come on. Come on, both of you. We’ll go somewhere else.”
+
+The reasons he could imagine for Hugh, Corin, and whoever else was with them to want Esh-erdi’s time and attention were all negative. Maybe they were angling for Hazel to be declared Queen of Anesidora. Maybe they wanted the knights to give a speech about how Aulia was the best-most-sweetest Avowed, and how she’d had nothing to do with the Sinker Sender theft. Or it could be the opposite—some kind of power play to make sure Aulia stayed stuck on her megayacht for a few years while they did whatever it was people like them did when the boss was busy.
+
+Esh-erdi and Lind-otta do not need further exposure to the worst of humanity on their esvulgivnas. And I don’t need Hugh glaring at me for getting his daughter jettisoned.
+
+Even Aimi might not be as innocent as she appeared. Her mom seemed to be the closest thing Aulia had to a second in command.
+
+“Why are you looking at me like that?” Aimi asked.
+
+Alden shook his head.
+
+Esh-erdi allowed himself to be chivvied out of the sauna.
+
+“I feel so well protected!” he said as they headed for the showers. “And I feel so much more curious about Aulia’s family than I did previously.”
+
+“This is Alden’s Cottontail mode,” Haoyu said.
+
+How did we get to the point where Haoyu feels comfortable telling a knight about our dumb codenames?
+
+“This is Alden being practical,” Alden retorted. “We needed to get out of there anyway. Most of those people weren’t fun. They were vibe ruiners.”
+
+“We can go do something else fun,” said Haoyu.
+
+“I want to do something fun,” Esh-erdi agreed.
+
+They both looked back at Alden, wearing bizarrely similar hopeful expressions.
+
+What the hell? When did I become the Friday night activities coordinator?
+
+He tried to think of something that wouldn’t turn into a circus. “We’re very close to school. Did you want that tour now?”
+
+******
+
+While Haoyu and Esh-erdi poked their heads into every classroom on the Artonan culture floor of the Forthright Building, Alden trailed behind them, studying the map of the campus he’d pulled up.
+
+The goal was to show Esh-erdi all the most interesting things without attracting crowds of people. Easier than it might have been, since we’ve ended up doing this on a Friday evening.
+
+No classes were in session, and if they saved places like the student center and the cafeterias until later, everyone would pretty much have cleared out.
+
+I’ll make sure he has a good time and feels like humanity is a pretty cool species despite everything that’s gone wrong. And that way when he’s on the frontlines with his partner and the Primary, he won’t be thinking, ‘Why am I doing this for those people?’
+
+“And someone on this hallway pees in our roommate’s shoes!” Haoyu said.
+
+Or we could tell him something like that.
+
+Alden dismissed the map and examined his tourist instead. Esh-erdi was starting up a story about someone he’d known in school who watered a plant with nothing but her own tears one term.
+
+He came just to hang out with me, I think? There didn’t seem to be any serious reason for Esh-erdi’s arrival at the spa. Maybe he really wants to chill for a couple of hours and not think about anything serious. Maybe Shoe Pisser is the right kind of thing for tonight, after all.
+
+“Do you want to see the learning cushions we use in my conversation class?” Alden asked. “Stu saw them on a video call. They’re acceptable for most human students, but he’s still so mad about them.”
+
+“He gave you permission to use his first name!” Esh-erdi said. “Your friendship buds.”
+
+“Yes.” Alden checked the door to the classroom and found it unlocked, as all the others had been. “I’ve had permission for a long time. I was just dumb, and I didn’t realize it.”
+
+They saw ass-abused cushions in that room, a board with a gokoratch eating a stick figure drawn on it in another, and in a lecture hall downstairs, they found a brunette girl randomly sleeping at a desk. They woke her up by talking about whether or not they should wake her up, and she shouted “One cappuccino!” as soon as her eyes snapped open. That was how they found out she worked part-time at the coffeeshop downstairs and also how she ended up nervously making a cappuccino for an intrigued Artonan.
+
+Next, they went to the performing arts building to ride the elevator up through the glass bubble chandelier while Haoyu explained how the candle balls floating in the blackness were the perfect decorating idea that they hadn’t quite managed to mimic in their dorm room.
+
+“Yet,” he added.
+
+Then they went to Cafeteria North just after closing time to show Esh-erdi the fake town square. After that, Alden had been planning to take a walk through the memorial garden, but as they approached from above on the nonagon, they realized people were arriving early for a vigil that would start just after midnight. To mark exactly one week since the sirens had sounded.
+
+“Did either of you plan to attend?” Esh-erdi asked.
+
+“I went to one a few days ago,” Haoyu replied. “This one will probably be really crowded. So I’d rather not.”
+
+Alden tried to think of how to say that he wanted to walk away from reminders right now, not run toward them, without the desire sounding dramatic or selfish. “I’d rather not either,” he said instead.
+
+“And I shouldn’t.” Esh-erdi was looking down through the nonagon’s surface. “Since I seem to be distracting for some Avowed.”
+
+“The Adjuster cleaning the cafeteria would have broken that table even if you hadn’t been there,” Alden lied.
+
+“That’s right,” said Haoyu. “Clumsy aim was his problem.”
+
+[Should we take him to see the MPE gym?] Alden texted.
+
+[Who now?] Haoyu asked.
+
+[It says Private Sessions on the schedule. Whoever it is, they probably don’t want us there, right?]
+
+Haoyu shrugged.
+
+[I’ll try to work it out for another day,] Alden typed.
+
+They ended up making the dorm their last stop instead. Alden was under the impression that Haoyu was giving Lexi a warning, mostly because he had texted, “No worry. I can talk Danger Badger and make him open window for us!”
+
+And Lexi did open the living room window for them the second they speed-dropped out of the night sky. But it was obvious that whatever message Haoyu had sent, it hadn’t included mention of their company.
+
+Alden was positive that Lexi wouldn’t have greeted them in pajama pants and then yelled, “Gahhh! What the—!?” if he’d had any clue who was coming.
+
+The look he directed at Haoyu and the knight was wild-eyed. The one he sent Alden’s way was more murderous.
+
+[Haoyu told me he’d call before we got here.] Alden sent the message as he climbed through the window. [He’s your best friend, so I trusted him. Maybe he messed up a mental text? We’re just going to show Esh-erdi the apartment. Sorry.]
+
+Best to make all of his arguments and apologies now, while witnesses prevented Lexi from doing any actual murdering.
+
+“We have so much food left from yesterday,” Haoyu was saying as he trotted over to the fridge. “You can have supper with us if you want, Esh-erdi.”
+
+[Possibly he’ll be eating supper with us, too,] Alden added.
+
+He was going to leave the explanation there and join Haoyu in digging through whatever was in the fridge, but then he thought better of it. Lexi was looking pale…and that wasn’t actually unreasonable of him.
+
+Just a few short days ago, Alden had been nervous around the knight. He had a lot more secrets to keep than Lexi did, but he also had a lot more information.
+
+Haoyu was so chill and grounded and easy to get along with. That made him feel like the normal one. But he’s not. I think he might just be unusual in a way that’s convenient for me. And even he was nervous about meeting Esh-erdi for a second.
+
+“Hey, come help me put my stuff down,” said Alden. It was a weak excuse to pull Lexi from the room. Alden’s “stuff” was a duffel bag he obviously didn’t need help with. But Haoyu was explaining the pros and cons of cold pizza to their visitor, and neither of them looked around while Lexi followed him down the hall.
+
+[If you want to go, I’ll make an excuse for you,] Alden texted as they entered his bedroom. [The nonagon is right outside. I can send you up to Kon’s room or down to the garden.]
+
+Lexi stiffened.
+
+Is he insulted?
+
+The Meister was air-typing. [What is he doing here?]
+
+Alden chucked the bag onto the floor beside the closet. He quickly ran through his Esh-erdi knowledge and decided most of it was actually shareable.
+
+[He’s probably not shopping for Avowed, despite what all the people who seem to dread that or want that think. He’s here with his partner, and after they finished up at Matadero, they were planning to enjoy Earth for a while. They’re celebrating a relationship thing and vacationing together before they go do bad shit with other powerful people. If they were hoping to pick up some Avowed for that, I’m not sure anyone on Anesidora would even be qualified.
+
+[Their vacation plans got interrupted, but he’s trying to make the most of it, I think, by being curious and blowing off steam when he’s not busy. He’s been doing a lot to look out for me. Too much probably. The biggest risk of having him around is that he’ll decide we need help with something and then he’ll do the helping too enthusiastically.
+
+[He’ll be very interested in you if you stay for cold pizza, but if he notices he’s making you uncomfortable he’ll leave. Or he’ll try something to fix your discomfort…no telling what. He brought me juice while I wrote an essay, and he bought me a tree.]
+
+When he finished, he watched his roommate read the long message. Finally, Lexi sighed and nodded.
+
+“I’ll go put on a shirt,” he murmured.
+
+It wasn’t long before he reappeared in the living area, well-dressed and ready to point out that Haoyu was feeding Esh-erdi all of the things that had been declared unfit for wizard Thanksgiving a mere day ago.
+
+“We can order good food from somewhere,” he said seriously to Esh-erdi. “You don’t have to eat the mystery dishes and the floor potatoes.”
+
+“Don’t worry,” said Esh-erdi, looking at him with one eye and a smile. “Human food isn’t very frightening. What is floor potatoes?”
+
+Haoyu started describing how the mashed potatoes had been dropped on the staircase because of Kon and then been reassembled, bowl and all, by Kon.
+
+“And there’s not even any dirt or dust or hair in here as far as we can tell,” Haoyu said, scooping some of the floor potatoes onto a plate for himself. “When he brought them up here, they still had the butter swirl Søren had put on top and everything. Which is amazing! But just in case, we decided not to send these to Matadero with the other dishes.”
+
+Esh-erdi did take a bite of the potatoes, but not until he’d stared at them for a much longer time than anything else.
+
+******
+
+“You can stay here with your friends tonight if you want,” Esh-erdi said. It was late, and the nonagon was rising above Garden Hall. “All of the most worrying matters have been dealt with. I’d like for you to return to Matadero again at least once so that we can speak of certain things that are best spoken of in that place, but otherwise you’re free to come and go while Lind and I are staying there.”
+
+“Come and go?” Alden asked, almost bringing the nonagon to a halt. The wind ruffled his hair; the air smelled clean and crisp.
+
+“If you want.”
+
+Who would want to come and go from The Slaughterhouse? Alden thought, only to realize that he did want. People he liked were there, and Matadero was convenient for him in some ways.
+
+“The teleportation area,” he said. “It’s all right for me to use it to go see the mind healer on Monday?”
+
+Travel through the TC had its inconveniences, and it would be easier to hide how frequently he was going to the Triplanets if his trips were routed through the cube.
+
+Or if I just vanished from my room like it was an insta-summons. But let’s give Earth a break where we can, right?
+
+“You can use any of the facilities you want,” Esh-erdi said. “Though I’m aware that with your body healed, you may have trouble convincing people Porti is responsible for trips you make to the cube.”
+
+I could tell everyone he was experimenting on me…and he might take that as an invitation to experiment on me.
+
+“Why would I be allowed to come and go from Matadero if I’m not working there?”
+
+Esh-erdi looked thoughtful. “You’ve proven yourself worthy of trust. I like your company and want to enjoy more conversations with you before I leave Earth. It is convenient for me if you’re occasionally in the same location as me, and I do hope to make your life easier. Giving you access to the building is such a <<minute>> privilege that I can’t imaging an Artonan ever questioning it once they know the situation. I find your own people’s fascination with your presence there <<perplexing>>.”
+
+“Um…it’s strongly associated with demon fighting,” Alden pointed out. “And I’m an adolescent. And a Ryeh-b’t. And not very powerful.”
+
+“I know,” said Esh-erdi. “But everyone is aware by now that it’s being used as a house, despite our <<polite fictions>> about making repairs…oh. Do some humans think the polite fictions hide nocturnal battles instead of rest? That misconception might explain some things.”
+
+“I don’t think people think that,” Alden said. “At least not many of them. Honestly, it’s…I can’t think of the word. Novelty? The novelty of me being there. And envy mixed in. And some stranger things that aren’t worth mentioning.”
+
+“I see,” Esh-erdi said. He looked out over Apex. “Change our direction a little since you seem to be coming back with me anyway.”
+
+“Yes. My learning cushion is there. And I have an earring from Olorn-art’h now, and I…”
+
+“You don’t have to explain.” Esh-erdi pointed in a more southerly direction. “Go that way.”
+
+Alden sent a hasty course change notice to traffic control, then did as he was told. A couple of minutes later, they were flying slowly over Punta de la Luna. Esh-erdi cast a spell that produced a familiar giant ball of light so that they could clearly see the hill the ambassadorial residence had once been built on top of.
+
+“They finished recovering everything of value, and we arranged for the trash to be removed this morning. Clean, isn’t it?”
+
+It was. Unrecognizably so. A whole landscape was spread out below them, ready for new construction.
+
+The knight took a step closer so that they were standing nearly shoulder-to-shoulder. “Envy from people who see only the reward, and not the wreckage, isn’t worth the turning of an eye.”
+
+Alden tried to imagine the exact position of the house, the greenhouse, the staircase he’d carried Zeridee down.
+
+“You’re right,” he agreed. “That’s true.”
+
+He turned to look at the knight, only to step backward in shock as Esh-erdi’s mouth opened and a huge belch of sound rattled the air around them.
+
+“Oh my fucking hell! What—?” Alden’s words were lost as the noise hit a sort of wet higher pitch, like a phlegmy bullfrog was having its legs pinched off slowly mid-bellow.
+
+When it finally ended, Alden was gaping at the Artonan. “Are you…well?”
+
+Does he need medical attention? Was it the potatoes?
+
+“Fly back to the cube slowly,” said Esh-erdi in his normal, pleasant voice. “We can’t rush through ‘The Elder’s Croak.’ Especially not during your first listening!”
+
+******
+
+******

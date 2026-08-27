@@ -1,0 +1,235 @@
+---
+id: d20c1558-bc51-5b27-9f25-7d4986dab043
+page-type-slug: story-chapter-royal-road
+title: "411 A Shadow Over Piety [II]"
+slug: 0529-411-a-shadow-over-piety-ii
+partOf: path-of-the-deathless-book-4-completed
+position: 529
+ownLength: 5026
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3707470/411-a-shadow-over-piety-ii"
+royalRoadId: "3707470"
+---
+
+One of the hardest things to face after victory is dealing with the remnants left behind by your enemies. Now, these remnants can take a lot of different forms. Sometimes it's their surviving personnel. Ideally, they surrender to you; it's pretty straightforward. High-Tier Pathbearers can get ransomed back. Low-Tiers also can get ransomed back, but sometimes it's better just to let them go—it's usually not personal if they're enemy mercenaries, and they can be someone else's logistical burden instead of yours.
+
+But if they killed a lot of your people, if there is an ideological part to the whole conflict and you hate them to the bone, then you're going to need to decide what kind of person you want to be. You're not going to be rewarded for being ethical. A lot of enemies aren't going to remember your moment of mercy for what it is. They'll just make up an excuse down the line if you let them go. They'll say you're weak. They'll come back again. Maybe next time more of your friends will die because you didn't do the hard and ugly thing. Or maybe the right thing to do was sparing your enemy, because a bit of mercy goes a long way and gives them a reason to repent.
+
+There's no singular answer here. It's hard to tell what's the right thing. It really depends on who you're fighting, who you are, and what your comrades want. Don't forget your own guys. If you ignore them, then guess what? You're going to have an ugly conversation later. If you don't have trust in the camp, you don't have trust on the battlefield.
+
+But here's a little bit of advice from an experienced campaigner: Get whatever emotional issue you have resolved beforehand. If you're angry, if you're vengeful, if you're whatever—deal with that early. Deal with that and see it solved. You don't want it affecting your actual decision-making. You need to be pragmatic. You need to be effective on the battlefield. If you get caught up in feelings, you're going to end up getting all your guys killed anyway, and that is not worth it.
+
+Remember this: If you can't make a decision, then do something right. If you can't do something good, then figure out a way to get ahead no matter what you do. This is more than mercy or morality. If you're trying to win, then sometimes the best thing to do is consider what you can get out of your enemies—whether it's better to have them dead or alive, to strip all of their equipment and use it for your own or just sell it, or to actually even recruit them as new allies in dire circumstances.
+
+Believe it or not, that's how we got most of our best guys. We weren't all part of the same company before. A lot of us were fighting each other, and we gave each other life. After the actual killing was done, we decided that we wanted to make a go of it—because it makes sense too. If someone beats you, that means they're pretty good. At least they're better than you in a specific situation. If their skills are vetted and you can reliably vouch for their capabilities on the battlefield, why not give it a try? Why not come together to see if you can be stronger as allies?
+
+Anyway, you have to decide. You gotta make a choice you can live with, but on top of that, I'm gonna say this: Make a choice you can live with for the long run. Not the short one—the long one. What you decide to do shapes your legend, your character, and your reputation. That will open certain doors down the road while also closing others.
+
+So, once more, listen to me and listen to me good. If you don't know, if you're not certain, then choose strength. Choose power. Deal with discomfort and make your life easier, because no one else will.
+
+—Memoirs of a Master-Tier War Mage
+
+411
+
+A Shadow Over Piety [II]
+
+Voyeur of Darkest Dreams 331 > 343
+
+I, Genius Loci 33 > 55
+
+Matryoshka Dilation 405 > 414
+
+Moment of the Shattered Stasis 401 > 409
+
+The Shrieking Sting 101 > 122
+
+Hivelord of the Unshattered Correspondence 256 > 277
+
+This Web of Nightmare and Wonder 27 > 32
+
+Uva looked down at her own face. A clean hole was left in the Hatchling’s head, from the left cheek up through the top right of its skull. Black blood oozed across the translucent floor, painting a trail of darkness upon the pale surface, and the merging of the two hues created an uncanny reflection, casting Uva's visage back upon her twice over.
+
+Her form had been restored. All aspects of eldritch mutation had been stripped clean to allow this Delve to be the purest contest of skill against skill. She saw her eyes glowing a familiar deep blue, with a translucent shimmer of mana along the rim. Legendary mana. Her body was similarly purified. No more branching fingers or golden eyes grew from her flesh. No spider-like appendages extended from her shoulder blades, nor did broken fractals of time-stilling frost reshape entire sections of her chest or limbs.
+
+She was an Umbral, completely and utterly, if only in this moment. She was herself. And there was a strange sensation in her chest. The swelling inflammation of triumph clashing against an ache of loneliness and absence.
+
+The Hatchling lay dead at her feet, its body an amalgamation of her own and that of a Weaveress, its flesh slowly falling apart from the many wounds it had sustained.
+
+A contemplative breath sounded beside her see. “So, did you enjoy that? It seemed quite cathartic from where I was looking. Personally, I wouldn't have driven the blade in myself. Still too much risk, though I understand the hatred. I don't quite share it toward the Eldest, but if I was dealing with an Avatar of Stranger, who's to say what foolishness I might be compelled toward?”
+
+Uva ignored him as she gazed upon her hand. Her armor peeled away in fragments and pieces, revealing the paleness of her skin—and only her skin. Nothing aberrant emerged, nothing unnatural took shape. She was herself, and yet she felt alien, back as herself once more.
+
+Above, her Dreaming Storm thundered, raging in absolute victory. The Hatchling's storm dissolved, and so too did the remnants of the Starhawk's power. A final, fleeting flicker of incandescence remained, but it was extinguished as Uva's psionic tree fused together and rooted itself deep in the Delve. However, the encounter didn't end. It couldn't, not until she made a decision. Within the Hatchling's body was the collective eldritch essence extracted from Uva’s soul and concentrated before her.
+
+She knew what this meant. The System's signal couldn't be clearer. It was time for her to make a decision. She had bested the Hatchling within her own Delve. She had been stripped away of all eldritch influence. She was a Legend in her own right, more than anything else. Uva wasn't here because the Outside had transformed her and was part of her Legend. She'd reached this pinnacle not because of powers bestowed upon her by questionable patrons or corruptive gods, but her own intellect, focus, skill, and will.
+
+Her eldritch mutations didn't define her; she defined them. That was why they were shaped by her nature. Her mutations had altered her flesh to be closer to what she imagined of herself using her mind's eye. To take this power back wouldn't be a reward, but rather an affirmation and a reclamation.
+
+But do I still want it? Who am I? What do I want to be? The question lingered in her mind, but it didn't trouble her. It filled her with a strange tranquility and a growing sense of purpose.
+
+Uva had never been opposed to her eldritch metamorphosis; she'd just hated that she never got to choose.
+
+“And now you do,” Hymn said.
+
+Dense sheets of translucent mana rained down, untempered, unshaped. Uva let her mind slip and wander, and as it did, Harkness escaped once more, manifesting behind her as a concentration of mind mana molded the Owl into an analogy of matter.
+
+A low hiss of pure fury and frustration cut through the downpour. “So, you've prevailed. You are a proper Legend now. All these things are true. What are you hesitating for? What are you waiting for? Decide. Take in that power and move on. Bring this farce to an end.”
+
+But Uva didn't act, wasn't provoked by the haste and anguish in the Owl's voice. Instead of dealing with the Hatchling, she turned and faced Harkness. “I apologize.”
+
+Her response caught both the Owl and the Headmaster both off guard.
+
+“You… apologize,” Harkness said, her breath coming fast and tense. Her instincts guided her toward anger, for if this was a moment of mockery, she wouldn't abide by it. Her pride was too great. Even if she was to be cast into that isolation chamber, forged with Uva's mind, she would spit her hate. She would make her scorn known before she was bowed down into the dark and driven to the edge of sanity. Harkness would spit that last bit of loathing at her captor to make sure that Uva knew she was no better than the eldritch gods that once tried to take a slave of her.
+
+The apology ruined everything, and left Harkness lost and confused.
+
+Hatred and animosity were expected. Hatred and animosity remained between the two, but Uva's apology was genuine nonetheless. The Owl's mind veered then toward the only place it knew to go: suspicion and doubt. And with that came dread. What game was Uva playing?
+
+“No game,” Uva denied. “No game at all. Truth be spoken, I have been having thoughts about my Feat, the one that allows me to contain your ego and all egos. I think it would have been more moral of me to just kill you. It would have been better if I'd just finished you off properly in the Fairwoods instead of taking this copy of you into me; it would have spared us both the indignity of me becoming a mirror of the gods that offended my soul and you being made less than a slave, just a well-sculpted mimicry attached to my mind.”
+
+“I'm more than that—” Harkness began. But as soon as her rage flared, it was quelled as her false consciousness flickered out and Uva took hold.
+
+“No, I am not.” Uva spoke through her now. This wasn't a usurpation, no more than someone could usurp a simulation of someone else's mind.
+
+This wasn't truly Harkness. There was no self-awareness here. No soul. No mind of its own. It was simply a projection, an estimation of what the Owl might do, but even so, one's character was established and demonstrated upon the foundations of behavior. Even when there was no one to inflict consequence, it was best to keep behavior consistent.
+
+Uva had learned this lesson well.
+
+“You aren't real, but I am, and I should have held myself to a higher esteem, a truer standard. For phantom though you are, you still feel too close to a slave. And so I'm going to change some of this. I'm going to make you a simulacrum, rather than a direct representation. I should have done that from the start, but I suppose my spite enjoyed your suffering too much, or the facade of your suffering.”
+
+Both Uva and Harkness spoke in sync, each facing each other as an uncanny equilibrium took hold.
+
+Ultimately, the alteration took less than a thought. In a moment, Harkness went from a true representation of herself, distilled from what was harvested of her memories and consumed ego, to a near-perfect replica, but ultimately a cooperative aspect of Uva’s personality instead.
+
+“Are you negotiating with your own consciousness?” Hymn asked, frowning with disapproval.
+
+“I am simply setting a few standards for myself. I wouldn't want to make the same mistake as the Outsider gods in the end.”
+
+“Oh, do trust me, girl. Considering how you're behaving right now, you're going in the opposite direction at dramatic speeds. The Outsider gods usually don't question themselves. There's not enough of a concrete ego there to perform a question yet. You, however, are all questions, all inquiries, and I wouldn't call you self-doubting, but you do find yourself caught in a quandary right now, don't you?”
+
+She didn't reply to that question, not immediately. Instead, she asked one of her own, speaking through both the body of Harkness and her own. “Why aren't you mutated, Hymn?”
+
+“Why didn't the Stranger force a metamorphosis on me, you mean?” He lowered his head and smiled. There was no humor in it. “Oh, he did. Several times, in fact, but eventually he gave up. I learned how he infused my skills, and I managed to distill his essence within those skills and embed them in specific Fingerlings. In time, I inverted that process and began implanting myself in the Fingerlings instead.”
+
+“How very karmic,” Uva replied with dry appreciation.
+
+Hymn snorted. “Quite, and I do thank you for noticing. I figured out how to do such a thing during my first Legendary Delve as well.” He drew in a long breath and stared up at the psionic storm branching out from Uva's mind. But not only her mind, for it was connected to the grand spire she stood upon, and within that place were all the lesser minds she entwined with her own. Those minds were dreaming. Dreaming of an ever-growing structure that protected them, that moved them. It was more than a tower; it was also a bridge. It was also a transforming organism. It was matter and mind and all the things in between. In summation, it was an ongoing metamorphosis itself, something that trespassed boundaries. Something that was more than what it was originally. A transgression, but also an evolution. A dream that crossed over into the flesh.
+
+“What has you hesitating?” Hymn asked, compelled to be genuine for a reason he didn't fully seem to grasp. “For most, the choice is simple: You either wish to remain more as yourself, or you are drawn toward power and willing to sacrifice and shed your human form to become something other.”
+
+“That's not why I hesitate,” Uva answered. “I'm thinking about what kind of metamorphosis I wish to undergo. In some ways, the Eldest changed me too much. In other ways, they captured exactly who I wanted to be. And in more than a few, they didn't change me nearly enough.” She shook her head slowly, as if trying to formulate her conundrum into words. “I'm not making a lot of sense, am I?”
+
+“Oh, no, girl. I'm afraid you're making all the sense in the world to someone like me.” Hymn sniffled and smiled up at the flashing sky, letting the rain pelt his skin. “You were always committed to someone else's dream, weren't you?”
+
+Those words struck Uva like a stake to her heart. But it didn't bury pain deep into her chest; rather, a feeling of realization. She breathed in deeply and followed his gaze toward her storm. “After she died, I wanted to be just like my mother. Maybe because I wanted to keep her alive that way, or maybe because I couldn't imagine a better way to be. I'm not sure anymore. I tried to act like her, or at least like what I remembered her to be. I tried to repay the Composer's mercy and kindness with my work, to be the ideal Umbral. I played the role as best I could in every aspect I could. I heeded her social design, accepted the Weaveress as my superiors, not just societally but literally. And I envied them. For being better. The Eldest saw that in my subconscious. That's why they changed me toward their design. And I still wish to become them. To become more than myself.”
+
+“But they're not more in the end, are they?” Hymn asked softly.
+
+Uva fell silent. In truth, they weren't. She didn't scorn her Cherished and Honored Mothers. She was still a faithful daughter of Weave. But after this experience, and from all the experiences before, including moments she hadn't wanted to face, actions she hadn't tried to question, she knew that kindness was not a perfection. Even mercy held its own blemishes. Even a society as harmonious as Weave was festering with inequality, with hopelessness, with disease. Not only of the plague, but also of individual choice, of stigma. Of assumption, of weakness.
+
+The Composer tried, but though her power as a Demigoddess was undeniable, her competency and capability had their limits. And where those limits began was where corruption swelled, was where her realm suffered—beyond her capacity to change and protect.
+
+But here and now, Uva realized the greatest criticism she could deliver upon her own goddess, and it was not a hateful criticism at that, but simply a melancholic observation born of cold truth.
+
+The Composer was static. The Composer didn't want to evolve, even though she likely could. She didn't want to undergo a metamorphosis, and so her society mirrored her. Her people mirrored her. They held to a single city. They hid and struck from the dark, more like rats scurrying in the dirt rather than spiders trying to expand their web, hunting and stalking prey.
+
+The weakness that consumed the Composer was passed on to all the Weaveresses and weavers, all the Umbrals and automata, the Order, and their greatest champions.
+
+It was a weakness of hesitation. Of conservatism. It was a fear that ruled them—the knowledge they were the weakest of the Five, that they had to move slowly and carefully, and the belief that came with it that with only enough time and prosperity, they could wait out all their enemies, and everything would fold in their direction as a reward for their goodness, their decency, their perseverance.
+
+As the Composer made it for all through song and speech.
+
+The same chains no longer bound Uva. She was a Legend, but in this Delve she'd gained more than merely power.
+
+“I'm not sure what I want to become, but I am going to have to become something new, and I'm going to have to do it over and over again. The metamorphosis, I think, is the greatest mistake that the Eldest made. It's the greatest mistake that most Outsiders make; once they force their transformation in another, it ends. They shape you into being like them, or make you an incarnation of a concept or Domain. But then they stop. Then, as you have adopted this new form, it solidifies, and that moment of dynamism dies.”
+
+With every word she spoke, a true, beaming smile spread across Hymn's face, and his eyes came aglow with appreciative light. “Yeah, that is the ugly truth, isn't it? You can't just change once. That's an evolution. The System loves evolutions. The System loves stability and gradual expansion. That's why, after getting enough levels, you hop to the next Tier. You gain another skill, pass another threshold. But the System still enforces laws. It still doesn't want you to change constantly. It wants you to be a stone that can be chiseled.”
+
+“And not flowing water,” Uva concluded. To exemplify the point, she held up a hand, and the lightning above took on a new analogy. More than bolts, they became currents and rivers. They flowed around her, they spilled through her, into her, and the spire beneath her feet became a raging tide, and then a massive spider, and then a dam, a wall, a tower again, a sculpture of Uva, and then something else, something fractured and bending and breaking, like a spider web spreading across a pane of broken glass.
+
+Her Legendary skill was something forever and always in flux. In that shape, she found the truth toward what she wanted to be.
+
+Ever since her mother's death, or likely even before that, she'd clung too hard to certainty, to finality, to destinations and pillars, even if new ones in the form of friends appeared now and then.
+
+But life, before that final point of death, had no destination. There was no fundamental law, no order, no meaning that would guard her from the capriciousness of strife and randomness of existence. Uva had assumed the course of her life to be one way, and then with Shiv's arrival, everything had changed. Even past his arrival and away from him, she kept making choice after choice. She could have taken a step back, could have let him and Adam go forward, but it felt wrong, and so she clung. She clung to them, but doing so brought her deeper into chaos and transformation.
+
+The answer lay in the way.
+
+“A metamorphosis doesn't need to be of a solid shape, does it?” Uva asked.
+
+“A metamorphosis is all about change. Be whatever you want to be, and if you regret it, change it.” Hymn grinned. “So long as you live and strive and learn and master, you can do and become what you desire. That's the one and only true pleasure I've known in my life, and I think things are going to be the same for you.”
+
+A new wind filled Uva, a wind not of inspiration alone, but a wind of uncertainty, of whimsy, of a sort of liberation she'd never known and could have never imagined ever knowing.
+
+Instead of the Hatchling being forced upon her, Uva knelt down and performed a gesture that would shape her legend and signal the fullness of her intent. She embraced the corpse left by the Eldest, that body they'd believed to be what Uva wanted or needed to be. She embraced the eldritch essence within, burning and boiling, waiting to be reintegrated or banished. She embraced the Stranger. She embraced the Dreamtaker. She embraced everything she could be, wanted to be, and would turn away from only to become once more in her time of need. She embraced the idea of metamorphosis, of transformation, of unshackling.
+
+She embraced emancipation.
+
+No longer would she be a slaver of the mind, but she wouldn't cling to a tyranny of the soul either. She would become what she needed to be, what she desired to be in the moment—or when the need called.
+
+And as she held to that idea, the System capitulated with what felt like a sigh, acquiesced to her will. It dissolved the Hatchling. Its body liquefied before turning to gas and swirled around Uva, shimmering like a mirage and shrouding her in a veil of brilliant hues that left imprints of shifting colors.
+
+A new metaphor took form around Uva, and she positioned herself as an antonym to the Dreamtaker. Where the first eldritch god she'd taken into herself had transformed herself into a cocoon born of three beings—one mortal, one god of Divinity, and the Outsider herself—to emerge as a new god, Uva wore her cocoon with the desire to hatch herself over and over again.
+
+She would seek no final destination, for the only final destination was death, and that was not one she was aiming for. She would cling to no true form, for all forms were meant to be shed, regrown, lost, and regained.
+
+That gossamer veil undulated as it formed colorful contours outlining her body. The shape of a spider spread out from Uva, but it blurred and changed, becoming something enormous, something almost Shiv-like in terms of stature and physique, before thinning down to represent a hawk. A memory of Adam, and then something else. As the cocoon changed, so too did aspects of the Umbral within—more geometry and gateway to the Outside than flesh by this point.
+
+Then, at her whim, it settled, and she was herself for a moment, just herself, pure Umbral, until she decided it to be otherwise. The gossamer veil faded, but it never vanished. It clung tight to her skin like a second layer, a permanent existential cocoon that she could design and hatch herself from in time.
+
+Encounter Completed (5/5)
+
+Applying Legendary Skill Evolution: The Dreaming Storm (Legendary-Unique) 510
+
+She felt the encounter come to an end. The Delve began to collapse. All the minds she'd captured were disentangled from her Legendary Skill, and that overwhelming mana she'd accrued was stripped from her in a single, anguish-inducing moment. But it was just that, a moment. The anguish didn't last. She didn't drain away the trauma. Instead, she let it flow through her. She accepted it for what it was. Things always had to change: power would be won, power would be lost, skills would be here, skills would evolve, skills would be destroyed by another's hand, wounds would be taken, her soul would be damaged. But so long as she remained, she would move ahead.
+
+Without doubt now.
+
+Without needing the comfort of direction.
+
+Without debasing herself to a higher authority.
+
+Because what higher authority was there in every situation? What true god existed aside from the System, which existed less as a person, more as a facilitator, uncaring, aside from the conflicts it sought to seed?
+
+“You know, I liked how you looked better earlier,” Hymn muttered.
+
+His words managed to chip away at Uva's illusion of philosophical ascension, and an annoyed frown crawled over her face. “What an aggravating thing to say to someone experiencing a poignant moment.”
+
+“Oh, don't take it so personally. Besides, if you did what I thought you did, you can hatch yourself anew and make yourself take on the traits of whatever you so desire.” Suddenly, a blast of pure-white light swept through the Delve, and Uva felt herself get yanked upward, out from the depths of her soul, and back into her flesh proper. “And remember, regret is a critical emotion too. Regret that you made the wrong choice, that you assumed the wrong guise. Never regret regretting something. Mainly because it’s inevitable that you—”
+
+Her Legendary skill cemented itself inside her. The Delve ended. Uva opened her eyes. She found herself staring up at an alien sky. Gate Piety was devoid of that comforting azure blue, and the glow of the mana core was further diluted through a dense foliage of crystallized mana webs. Within those webs were shapes and creatures, their forms masked as if hidden behind translucent sheets.
+
+A low growl of displeasure hissed out from Uva as she beheld the aftermath of her unwilling eldritch expulsion. “Wonderful. It seems I'm already getting to experience that inevitability of regret. I do appreciate the System for stressing those lessons—especially right after I just learned them—agh!”
+
+Ikki’s head suddenly snapped into view. “Sister Uva! You’re back!”
+
+“Yes, I—” Uva didn’t get to finish speaking as Ikki unleashed something between a headbutt and a hug to her senior Sister. The younger Umbral did all she could to smother Uva, and while the latter considered glaring, some part of her decided that was too old hat as she rolled her eyes and decided to pat Ikki on the back instead. “I wasn’t going to die, Ikki. You can stop trying to suffocate me now.”
+
+“No,” Ikki said, pressing herself face-first into Uva’s neck. “Also, your neck-folds smell super gross. You seriously need to take a bath. And maybe… plumb your neck chasms too, because I’m pretty sure I can see a bunch of those creepy glass-spiders looking at me. They’re, uh, not going to eat my eyes or anything, right?”
+
+“That depends: will you stop sniffing my ‘neck-folds’?” Uva replied.
+
+“Hm,” Ikki said, breathing in as she pretended to struggle over the matter.
+
+“Also, we’re going to need to talk about Legend Hymn,” Uva declared casually. Ikki went still. “Don’t worry, this isn’t a reprimand. It’s simply… concern.”
+
+“Concern? From Ice-Heart Mettabon herself?” Halcyon, primary Archer for Uva’s team, snorted. Vols, the Vanguard, leaned down beside her and all but leered. The only one missing was Palbon, the Pyro—
+
+Shiv’s head came into view across from the other Umbrals. He looked down at Uva with an expression of slight relief and greater pride. “Took you longer than I expected.”
+
+“Apologies. I’ll have to kill your demented clone faster next time.”
+
+His eyes widened. “You had to kill me? Huh. Okay, I see what the System is doing here. I think I know what we can expect from Adam’s Delve now. How was it?”
+
+“Killing that version of you?” Uva cocked her head as she recounted the experience—before realizing she could show him instead. For the first time, her Legendary Skill crackled into reality as limbs of liquid lightning slid out from her, reshaping the silo she lay in and gliding over everyone present.
+
+“Fuck’s this?” Jessica muttered somewhere out of view, and Ikki lifted her head in alarm as she felt the overwhelming mana pouring over her.
+
+“This…” Uva began as she started reshaping the surroundings into a cylindrical screen that replayed various instances from her Delve. “Is whatever I want it to be. This is the Dreaming Storm, and so I ask you, would you like to remember as I have, or would you like to see my memories through your own eyes?”
+
+Shiv’s right eyebrow climbed higher and higher as he sensed something different in her while scanning his changing surroundings. “Can I choose both?”
+
+Uva chuckled. “You can choose anything you want.”
+
+And with that, she cast her mana upward and outward as her coiled lightning stretched out. She reached into the willing minds around her. She poured her power higher into the sky, and as her climbing tree transformed into a translucent river spilling up into the heavens, a new shadow took shape over Gate Piety as the crystalline nest ripe with Terrorspawn was barricaded by their progenitor by a psionic tempest of rain and lightning that began to creep across the entire dimension.

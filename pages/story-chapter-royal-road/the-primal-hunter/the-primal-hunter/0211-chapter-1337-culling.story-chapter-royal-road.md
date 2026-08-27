@@ -1,0 +1,137 @@
+---
+id: c1973961-9927-5a56-b83b-9ce47e9e6012
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1337 - Culling"
+slug: 0211-chapter-1337-culling
+partOf: the-primal-hunter
+position: 211
+ownLength: 2847
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3557136/chapter-1337-culling"
+royalRoadId: "3557136"
+---
+
+While everyone across the World of the Exalted Prima was no doubt busy working on ensuring their Territory was as ready as could be during the Preparation Phase, Jake found a nice little spot to chill and brought back the large Arcane Soulflame cauldron.
+
+Sure, he was also working on preparations, but it didn’t feel like it as Jake happily produced massive batches of mana potions one after another, definitely finding those the easiest kind of potion to produce in his arsenal.
+
+During his production, Jake kept up with the happenings in the budding city that Miranda and the other Administrators were constructing, though he questioned whether it could really be called a city. It was more like one large magical bunker, focused far more on defense than on the comfort of its inhabitants.
+
+There was some comfort, though. No one knew how long this system event would last, and if they had to live inside the simulation for a long time, it would be silly not to at least make it habitable. Granted, it didn’t help that nearly every Administrator was a high-status person from their respective worlds, with many of them also being World Leaders or holding other high political positions. They didn’t dare complain outwardly, but resentment would definitely build if everyone were told to stay in small metal shacks.
+
+Truthfully, Jake didn’t see the big deal. He didn’t see a big difference between sitting on a comfortable couch or the ground, as pain from sitting or lying badly wasn’t really a thing anymore. He reckoned it was more about status and appearances than actual comfort, but what did he know? Miranda had maneuvered among these influential figures of the galaxy for a few years now, so he trusted she had things under control. If not, he would just have to show them that there were worse things than lacking comfort.
+
+Anyway, the week of preparation flew by fast, and soon enough, there was scarcely an hour until the timer would run out, and the event would begin in earnest. Jake had just finished his latest batch of mana potions, delivering yet another nice pile of bottles to be used by the NPCs summoned for the many defensive structures placed to keep the Territory Beacon safe.
+
+Making his way up from the underground bunker beneath the Territory Beacon, Jake took in all the changes. The Territory Beacon itself was in the same place as always, seeing as it couldn’t be moved and one couldn’t manipulate the area immediately surrounding it, though one could terraform what was beneath after going down a little, which was exactly what Miranda had done. In part to make a safe place to reside, and in part to defend it against attacks from below.
+
+Above ground, there were now roughly seven layers of physical and magical barriers surrounding the Beacon on all sides. The outermost layer looked like a large defensive tower of sorts, and Miranda had even placed what was essentially an anti-aircraft cannon on top.
+
+Surrounding the Territory Beacon were more than thirty nearly identical towers, all serving different functions. This helped hide the Beacon, as without something like Jake’s Sphere of Perception, all of them would look the same, even to most kinds of scans, seeing as the first formation beneath the metal exterior was one designed for obfuscation. Granted, these extra “fake” Beacon towers were far more fragile, but they should still be able to buy some time in the event of an attack. Plus, Miranda could apparently use them in some ritual that Jake had been too busy doing alchemy to understand.
+
+Outside of the many towers and smaller structures beneath that made up the city, there was a circular wall encompassing them. Walls didn’t seem like they had much function, given that everyone could fly, which was why they didn’t actually function much like physical walls. Instead, they were media for creating a powerful spherical barrier that could remain active at all times.
+
+This wall and barrier were one of the special structures provided by the system, and one Jake reckoned every single Chief Administrator would buy to defend their Territory Beacon. It was incredibly durable and could be upgraded several times, adding different effects and increased defensive power.
+
+What’s more, it had the ability to consume Prima Credits instead of mana to sustain itself. Testing its defensive power, even Jake couldn’t break through it after a few upgrades. Granted, his attacks would make the barrier burn through Prima Credits like hotcakes, but the mere fact that it could stop his most powerful attacks said a lot.
+
+Further outside of this barrier were several turrets placed in strategic positions. These turrets had impressive firepower and were meant to take down anyone approaching from far away, while also serving as early warning signs should anyone manage to sneak past the special radar building’s detection.
+
+Miranda, Lillian, Kindroth, and all the others in charge of setting up their defenses had wanted far more than this, but alas, PCs were limited this early on in the event. Plus, they had to save some to recruit soldiers for the early portions of the event, as there was an agreement that some method to capture at least parts of a Territory had to exist without destroying a Territory Beacon fully. If not, wouldn’t all the Territories grow ridiculously big towards the end of the event, with the only way to fight another faction an all-out attack on what was their best-defended position?
+
+Jake was probably one of the Chief Administrators who’d put the least thought into the strategic aspect of this event, which he genuinely believed was probably for the best. There were others far more competent in making complicated plans than him, and Jake was totally fine just being told where to aim an arrow and what Territory to claim.
+
+All he truly cared about was who he would get the opportunity to fight.
+
+All the elites of the multiverse around his level range took part in this event, and unlike Nevermore, this event wasn’t them competing on some Leaderboard. It was direct competition. Sure, the setting effectively making this a war did change this a little, but he still believed there were more than a couple of good duels to be found.
+
+Flying out of the hole in the ground leading into the underground bunker – because who the hell could afford an elevator in this economy – Jake made his way towards Miranda and all the others who were already gathered. Every single Administrator, besides a few who were finishing up their work and wouldn’t take part anyway, had shown up for the strategic briefing that had been prepared.
+
+A small stage had even been set up as Jake found his way there, making sure his presence was known, as Miranda had informed him beforehand that it was important to communicate that even Jake was there only to listen. Something about reinforcing her position or something, which he could understand.
+
+He naturally got a few glances when he appeared, but fortunately, the mask and his overall vibe were good at telling others to leave him alone. Miranda did give him a nod of acknowledgment as she got ready to present right after he showed up. This had also been on purpose, as she’d wanted Jake to show up last, still communicating that she was acting at his behest and wouldn’t move forward unless he was there. More political bullshit, but oh well.
+
+Watching on, Miranda turned on the large screen she’d prepared, showing that she’d indeed prepared a slideshow. Just as one would expect.
+
+“Looks like everyone who needs to be here has arrived. Good, then allow me to begin outlining the general initial strategy we’ve prepared for when the borders open up. Naturally, this may be subject to change, depending on the circumstances, and if the next phase introduces new elements that require us to drastically switch our approach, but we believe the general approach will remain applicable,” Miranda began before quickly moving on to the actual plan as she started going through the slides.
+
+Most of the prepared strategy didn’t have much to do with Jake, but was mostly focused on how to defend the Territory Beacon. Granted, a huge part of this strategy did rely on Jake being their main tool of offensive expansion, with him setting out alone towards some of their closest neighbors with the intent of rapidly expanding their Territory.
+
+The bigger one’s Territory, the more Prima Credits one could gather. They also still needed to find out where these resources that would reward more PC were found, as there weren’t any within their current domain, and it wouldn’t make sense if their neighbors had some within theirs. This led to the consensus that, while it currently seemed that this World of the Exalted Prima only had different Territories, it likely also had some neutral areas or special places to explore.
+
+Anyway, Miranda’s briefing was – as the word implied but rarely actually ended up meaning – rather brief, which it needed to be, considering the impending system message.
+
+A short discussion ensued afterward, with a few questions thrown out here and there about topics that may or may not become relevant. Jake was honestly just waiting for the system message as the timer slowly ticked down, and when it had roughly ten seconds remaining, everyone quieted down and waited.
+
+They all sat in silence as it finally arrived, and as expected, it was on the longer side.
+
+The Preparation Phase has now ended, and the borders between Territories have opened, allowing free travel. Assuming the owners of these Territories have not secured their borders, that is.
+
+You will have to discover on your own, as it is a time of exploration, expansion, exploitation, and extermination, as the Exalted Prima demands the total number of galaxies competing to be culled.
+
+This marks the beginning of the second phase: Initial Culling
+
+During this phase, the competition between the many galaxies of the 93rd Universe shall truly commence, as the weakest must be eliminated so the strong can expand. During this expansion, neutral areas may also be discovered, containing unique treasures and plenty of Prima Credits.
+
+Expansion can happen either through destruction or diplomacy. Alliances can be formed between bordering Territories. Bordering Territories can be made into vassals at the decision of their respective Chief Administrators. Extermination merely requires the destruction of the Territory Beacon.
+
+During this phase, having one’s Territory Beacon destroyed does not mean immediate elimination for individual Administrators or even Chief Administrators, as they still have a way to remain within the World of the Exalted Prima.
+
+Destroying the Territory Beacon of the Territory that destroyed one’s Beacon, or a galaxy allied with them, allows you to stay within the world. These Territory-less individuals must also join another Territory within 60 days of their Beacon’s destruction, or they will be expunged from the simulation. Territory Beacons destroyed by Territory-less individuals will result in their Territories becoming unclaimed, allowing any connected Territory to start claiming it uncontested using Outpost Beacons.
+
+The second phase of this event will persist for up to five (5) years, or until at least 90% of all Territory Beacons have been destroyed. Any Territory that has not at least destroyed one other Territory Beacon during this phase will automatically find itself eliminated when either the five years pass or the threshold is passed.
+
+Go forth and conquer, knowing that the Exalted Prima is watching, judging, and considering who is worthy of becoming the true rulers of this world.
+
+Jake read the message closely, and to say there was a lot to digest was an understatement. Some information they already knew was reiterated, but most of it was entirely new and provided plenty of insight into what was now possible.
+
+For new things, it revealed that one could make alliances, create vassals, and join other Territories if one lost one’s own, assuming one took revenge on those who destroyed the Beacon. It also confirmed the existence of neutral areas with treasures, giving even more reason to explore. Also, it mentioned something called Outpost Beacons, which he had a feeling Miranda was already looking into promptly.
+
+Finally, there was the purpose of this phase: to eliminate nine out of ten Territories within five years. Granted, Jake didn’t think they would reach the five-year limit. The event would definitely end with the elimination of ninety percent of Territories; of that, he had no doubt.
+
+The rules also more or less forced everyone into conflict, as anyone who didn’t at least destroy one other Beacon would find themselves eliminated. This made a fully passive defensive approach focused only on diplomacy impossible. Not that Jake thought it would ever work to focus fully on defense. One needed a bigger area for more PCs, after all, and PCs seemed incredibly vital when it came to defenses, as the system offered some damn good stuff.
+
+And now that the event seemed to have started in earnest, it offered even more things, as Jake saw another system message he assumed only he and others with access to the Territory Beacon Menu could see.
+
+Many new options have been unlocked in the Territory Beacon Menu.
+
+Jake had no particular interest in uncovering and going through all these new options, but he did want to check one out quickly. A structure he believed would become essential to this entire system event, and was perhaps the most important thing that the Territory Beacon could create.
+
+Outpost Beacon
+
+This special structure can be used to claim an area not currently under the direct influence of another Territory Beacon or Outpost Beacon. Only works in Territories bordering yours. Is mobile and can be stored in spatial storage. Allows construction around the Outpost Beacon.
+
+Cost: 5,000 PC (Warning: Cost increases with every purchase)
+
+After checking out the Outpost Beacon... yep, definitely gonna be one of the most important things to have. Especially after checking out another new building that had just unlocked, which would definitely become absolutely crucial and used by everyone during this event.
+
+Teleportation Nexus
+
+A building allowing teleportation to any Teleportation Node structure within the Territory. Teleportation activation time and cost are dependent on the distance from the Teleportation Nexus and the Teleportation Node. The Teleportation Nexus can only be used by members of the Territory.
+
+Cost: 150,000 PC
+
+They had already discussed using long-range teleportation, and this seemed to be the way they were going to do it. The cost for the Nexus wasn’t even that bad, being fifteen days of income for their current Territory. After expanding, it would naturally be far less.
+
+That didn’t mean making a teleportation network would be a cheap endeavor, though, given the price of the next item.
+
+Teleportation Node
+
+A structure one can teleport to and from using the Teleportation Nexus.
+
+Cost: 2,500 PC (Warning: Cost increases with every purchase)
+
+Just like the Outpost Beacon, the Teleportation Node would get more expensive with every purchase. It didn’t specify how much more expensive, but Jake reckoned this was a way to somewhat limit a single galaxy from expanding too fast, as these important structures would quickly become too expensive to just pump out. It also meant that one had to carefully consider where to place the Outposts and Nodes, as losing them would be a huge blow. Nothing said the price wouldn’t stay higher even after losing one of these structures, after all.
+
+Making a traditional teleportation network also wasn’t possible, which had been confirmed during this Preparation Phase. It seemed that the Exalted Prima simply didn’t allow it, preventing the circles from functioning. Had to suck for space mages, but Jake didn’t complain as they didn’t have a lot of those.
+
+It was also confirmed that many other forms of magic or skills that could give strategic advantages were weakened. William had noticed that karma seemed oddly obscured within the virtual world. Jake had already confirmed that the view distance was severely limited, and long-range communication skills seemed limited as well. From this, it was clear that the Exalted Prima wanted them to use the special structures and items available to purchase using Prima Credits.
+
+These limitations weren’t absolute, though, as some things did still work, perhaps due to them being deemed powerful enough for the Exalted Prima to allow them.
+
+Jake’s massive Perception, allowing him to bypass the limitation on view distance, was one example of this. Another was that Miranda could still use her special communication skill, which even worked across universes, to contact and talk to Jake. Needless to say, that was a massive advantage and one of the things allowing Jake to do what he was about to do.
+
+Exchanging a quick look with Miranda, she nodded and spoke. “I’ll reach out if anything changes. Now go.”
+
+He didn’t need to hear more than that as Jake shot into the air and straight towards the largest bordering Territory, eagerly planning to get the culling started.

@@ -1,0 +1,143 @@
+---
+id: e52b8f9b-89c1-5bd6-9692-615f4552e7a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 419 : Rays of Power"
+slug: 0121-chapter-419-rays-of-power
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 121
+ownLength: 2214
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3856960/chapter-419-rays-of-power"
+royalRoadId: "3856960"
+---
+
+While waiting for Vee to get ready, I had some more time for testing; most of it I spent fooling around with [Mana Dominion] and seeing what my new level of control had brought about. Mixing different spell components and Mana was the greatest effect, especially tricky ones like dimensional, which refused to play with others. Arcane was another, which was always instantly tainted by whatever else was present, but now I had the control to prevent that from happening.
+
+Rather unexpectedly, I finally discovered what might have been the upgrade I received from letting [Mana Slime] absorb the three others, or maybe I could've done it beforehand, thanks to my nature. With [Mana Slime] active, I could use [Mana Dominion] in conjunction with [Slime Mastery] to further increase my level of control. Whether this was intended or not, I had no idea, and it might have even been a consequence of me so boldly declaring that I basically was Mana.
+
+As for what benefit I gained from this, at the moment, it didn't seem all that impressive. If I had received this before [Slime Mastery], maybe it would have helped me manipulate my forms, but right now it was nothing more than a tiny upgrade.
+
+What wasn't a tiny upgrade was informing my personas that I had [Mana Dominion], which none of them had noticed, aside from spells suddenly being easier to work with. Whether it was due to [Split Personality] having a lot more levels, or [Mana Dominion] having none, they didn't seem all that penalized by "borrowing" it from me; a big relief considering I couldn't actually donate this skill.
+
+The last thing I managed to do was mess around with [Death Magic] a bit. I tested the spell's effectiveness on some volunteers I found in the ocean, and witnessed firsthand the damage that draining someone with no Mana could do. Honestly, it was a little creepy to see a monster slowly wither away, and very inefficient compared to pretty much any other attack method. If this was how Simon was forced to level up, it must have taken him a very long time.
+
+I successfully made it into a ranged variety, although that turned it into a glorified [Mana Burn] as I didn't actually receive the Mana drained this way. There was no "connection" between me and the target now, but I received the answer to this conundrum from the second level in [Death Magic].
+
+[Necrotic Ray] was what I received as my system rewarded spell, and at first, I thought it was a beam like [Light Magic] until I cast it and saw it firsthand. It was much slower than the laser beams of light, but it could be sustained with minimal effort, and better yet, it provided the connection I was missing for my unofficially named "Drain Bolt".
+
+Reconfiguring it from a projectile to a ray was child's play, and the system soon rewarded me with the official version [Draining Ray], which offered a few minor corrections. I was delighted to have a bit more to work with on ray-based spells and shared the information with my personas.
+
+Sylvain quickly realized the benefit of this component and soon discovered the already-made [Freezing Ray]. Sustained contact would progressively freeze the target faster and faster, and when he modified it to include [Frostbite] and [Frigid], it became outright fatal.
+
+Sylbera quickly took the same approach and discovered [Burning Ray], which also received further upgrades of [Flammable] and [Combust]. The same couldn't be said of [Water Magic] and [Air Magic], where we found no premade ray spell. Nothing was stopping us from doing so, but it lacked the impact that came from fire and ice.
+
+"Damaging afflictions!" I shouted in realization, and began trying to make ray for [Corrosion Magic].
+
+The process was relatively simple thanks to [Mana Dominion], but I noted that the ray component was integrating extremely well with the corrosive Mana, as if the two were made for each other. I had thought I was making just a ray version of [Acid Dart], but the spell was soon swelling far beyond its initial design.
+
+I included [Dissolve] and [Fracture] right from the start, which the spell happily accepted. I even found myself soon upgrading the [Acid Dart] components with the superior [Caustic Cloud], which this spell seemed delighted to accept. Shortly after I had completed it, I was handsomely rewarded by the system for my efforts.
+
+<Spell [Disintegration Ray] discovered.>
+
+<Awarding bonus proficiency experience for early discovery.>
+
+<Proficiency gained. [Corrosion Magic LV 7] improved to [Corrosion Magic LV 8].>
+
+<[Corrosion Magic LV 8] spell [Fester] learned.>
+
+Wait… This is an early discovery, but the spell I received is not at the level I gained… Did I just make a level nine spell? Or is it maybe even level ten?
+
+I was not sure, and when I tested out [Disintegration Ray], I genuinely believed it might have been a level ten spell. The effects were disastrous, and while not on par with my uncapped [Acid Slime], the fact that it spread throughout the target was terrifying. Yes, if I shot the ray at a boulder, not only would it vaporize the struck area, but if sustained, it would spread from the impact, and soon the whole boulder would be gone.
+
+Further testing led me to discover that, while it was a genuinely terrifying spell, it was only so if the effect was not resisted. Monsters were not instantly disintegrated unless they were very weak, but with enough sustained contact, they would eventually be. The resistance to the effect also seemed to be universal, as every living creature seemed to have it despite not having a corresponding trait.
+
+I tried it on various things and, after some brainstorming, concluded that it must be a resistance granted by lifeforce. The greater the lifeforce, the more it resisted being disintegrated, which meant it had interesting connotations for creatures that weren't exactly "living".
+
+Teleporting back to outside of Kaerlin and heading to the mine was a quick way to find earth and rock elementals, which were almost instantly slain by the spell. I also briefly stepped onto the first floor of Simon's dungeon and did the same to a skeleton, which became nothing but dust on the floor before exiting. Eventually, I tried it out on one of Sylvester's golems, and while it was destroyed quicker than ordinary monsters, it hadn't been as instant as the skeletons or elementals.
+
+"That is a nasty spell you've made," Sylvester frowned, staring at where his beautiful permafrost golem used to be.
+
+"I didn't even make it, it's official. Maybe my version is stronger, but I can't tell until I get to level nine or ten."
+
+"Regardless, I don't like it one bit. You might not have understood what happened, so I'll break it down for you. When the ray struck my golem, its core began rapidly draining. I tried to replenish it, but my [Golem Control] wasn't high enough level to have the necessary transfer speed. As soon as it hit zero Mana, my golem was vaporized."
+
+I nodded my head, as I had found it a bit weird that the entire golem had disintegrated, rather than a hole through it. While we were ruminating on it, we had a surprise visitor who must have somehow witnessed what we did.
+
+"I can answer that question," Keldenar said with a hint of smugness.
+
+"Please do. I'd like to prevent it from happening in the future…" Sylvester said, still frowning at where his golem was. "I genuinely thought it would've lasted longer; it even had enchantments for magical defenses, but that seems to have been ignored."
+
+I went silent, curious for the answer myself.
+
+Keldenar nodded. "What happens when a golem's core is empty?"
+
+"It stops functioning."
+
+"Yes, but what happens to the golem itself? Think carefully."
+
+Sylvester's brow wrinkled as he tried to think of a reason. Unfortunately, he came up short and eventually threw in the towel. When Keldenar turned to me and I shook my head, he sighed.
+
+"Maybe I'm cheating with some of my original world knowledge. Anyway, when a golem's core is emptied entirely, it effectively becomes an object. Objects, by definition, do not resist."
+
+"Oh! It became a boulder," I shouted upon realization.
+
+"A very fancy and expensive boulder, but yes," Keldenar nodded.
+
+Needless to say, Sylvester wasn't happy with the answer. Keldenar told him he just needed to prevent the core from being emptied, but it was certainly easier said than done. Rather than giving him the answer, he asked him to brainstorm some preventative measures, and they began discussing adding extra cores to the golem to increase capacity or improving the transfer process. Seeing the two go back and forth, basically ignoring me, I said goodbye and left.
+
+Judging by how little he seemed to care, I'm guessing he has his own method of preventing it. Though it might simply be using [Adaptability], where he could sacrifice a few junk golems to prevent his elite ones from suffering.
+
+The final-final thing I tried out was using [Disintegration Ray] on some slime minions I made and the results were quite interesting. If I included no additional benefits from [Primordial Slime], they were destroyed quite easily. If I included [Acid Slime], they seemed to be immune as far as I could tell. None of my other slimes had any effects, even using [Metal Slime] with adamantine offered very little benefit, with one exception: [Mana Slime].
+
+Weirdly, including [Mana Slime] forced [Disintegration Ray] to need to deplete the Mana first before it could work, just like how Keldenar described with his golem cores. Honestly, this was quite a relief, as while I knew I would be immune to disintegration thanks to [Acid Slime], there might have been other effects from other types of magic that I wasn't immune to.
+
+Basically, I must never stop having [Mana Slime] active. Not that I was planning to, but still.
+
+After the lengthy time I spent with my new spell, I finally shelved it, and the last thing I needed to do was look at [Fester], the actual reward the system had given me. On paper, this spell seemed quite simple: upon success, it progressed the effects of any ailments on the target by a stage. However, when I tried it out, I realized this was anything but simple.
+
+For toxins, it was like the victim had been suffering from it for far longer, elevating the symptoms and hastening the approach to the final outcome. For horrible poisons like [Sanguine Dream], this was actually a little terrifying, even though I didn't need to personally worry about such things.
+
+The biggest surprise, however, was when it was applied to a debuff, which I had not expected to work on. For debuffs, it made them better; if the target was [Flammable], it was now [Extra Flammable], so to speak. Of course, this all assumed the target failed to resist [Fester], but it actually had its own built-in solution, as resisting it would become harder with each successive casting of the spell.
+
+Level eight intermediate magic is no joke… I wonder how hard it would be for me to take this effect and apply it elsewhere. [Dimension Magic] desperately needs it even though I have [Displaced], as the world really doesn't like me forcibly teleporting something. But if each attempt is more serious than the last, combined with [Displaced], I should be able to do it even outside of a rift.
+
+I'd proven how dangerous it could be against the Dornhallow assassins, as they had lost all semblance of resistance once they entered through my [Rift Door]. I'd be lying if I said I wasn't trying to chase that feeling of overwhelming superiority again, and this seemed like a viable option.
+
+But that's for later, I'd better go get Vee so we can finally head out.
+
+When I appeared next to the spider, she immediately sighed. "Damn, I was hoping you'd be distracted for longer."
+
+"You've really become a lazy spider. What happened to traveling around the world?"
+
+"Look, I like the little island we've built here… It's cozy."
+
+"I thought you wanted to evolve? Finally, talk?"
+
+"I do…"
+
+"I'm sensing a but…?"
+
+"But, I'm worried. What if it doesn't work out? What if Qhilleeqeth lied to me? What if I need more time to find the right path?"
+
+"I thought you liked her? Why would she lie to you?"
+
+"She's one of Mother's minions. She might have done it under orders."
+
+I rolled my eyes. "Look, rather than worrying about it, just take the jump. Come on, it'll be fun."
+
+"Can't you fetch me once you've found it?"
+
+"So you can have more time to make more excuses? No. Besides, I want to do some lessons."
+
+"Now I really don't want to go…"
+
+"Not for you, silly, for me," I replied. "Although I do have two new spells from [Corrosion Magic], I can teach you."
+
+"Wait, you want me to teach you?"
+
+I nodded.
+
+"I can't for the life of me think what I could teach you. Or did you suddenly want to learn how to weave webs?"
+
+"Nope. What I want you to teach me is [Mana Shaping]."

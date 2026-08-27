@@ -1,0 +1,212 @@
+---
+id: 5e0a1d34-a71b-5afc-8294-a38b52af406e
+page-type-slug: story-chapter-royal-road
+title: "011 - Unholy, But Yeah"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 11
+ownLength: 2358
+unit: words
+publishedAt: 2026-05-02
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3344412/011-unholy-but-yeah"
+royalRoadId: "3344412"
+---
+
+While I fended off the assault of the smaller animals, calling for assistance when something larger, like a dog, showed up, Gabriel explained the Fallen.
+
+There was a threshold of being too fucked up inside that allowed Hell to turn you into one of their own. Usually they'd shower those with Gifts and alter their appearance to match. Only sometimes they'd use them as sleeper agents, hiding their influence to reveal them for maximum impact.
+
+They would be our most dangerous opposition as they allowed Hell to wield power more freely than even the most powerful demons could. Around them it would be more like now, full on Apocalypse, instead of the safety the Seal would eventually provide.
+
+And the scariest part was, it wasn't quantifiable how one became Fallen. Unlike what that profane space had wanted to make me believe, there was no Corruption Meter. No visible line to toe. It was a mix of basic psychological vulnerability, lack of humanity, and alignment to Hell itself. Taking their boons didn't have to open one up to becoming Fallen. But you'd never know which one would be the one to push you over the line. Or what moment of weakness, or of hatred, could erode the walls one had just enough for them to slither in.
+
+The explanation had been very frustrating but Gabriel seemed as frustrated by the mechanics as I was. She had boiled it all down to very simple guidelines.
+
+"Hold on to your humanity, do good, do not deal with the devil."
+
+My power set revolved around turning into beasts. I had nearly killed another human because I hadn't been vigilant enough, and I had already asked a devil if they could keep cheating on my behalf. I was doing super well.
+
+At that point I straight up asked Gabriel if I should just leave this group, drop the party and head out, protecting the others from my inevitable fall.
+
+She had reassured me that this thought alone meant I was still firmly one of the good guys and doing far better than I was giving myself credit for.
+
+["I'm putting the odds of Jamie falling before you on three to two. Heaven really screwed that guy over by saddling him with that class. He is both not as pure of heart as that class wants him to be and painfully aware of story tropes. There is a reason that there are so many stories about corrupted knights."]
+
+Jamie wouldn't be able to see anything Lucy told me through the Guides chat. We only shared Gabriel. But I couldn't address anything Lucy said without hinting at what they said. So I just ignored that.
+
+I spotted an approaching red dot slow down, turn white, and scuttle away.
+
+"I think it's over," I announced to the others in the room.
+
+Immediately a dozen eyes fell onto me, their anxiety palpable. Would the mad girl shift again and turn into a blood-thirsty monster?
+
+The animals hadn't granted a lot of experience. At some point my Heightened Senses ticked up enough so that I could see their designations and levels. They had all been level zero.
+
+But there had been a lot of them. Thanks to being in party with Jamie, and no one else for that matter, I had gotten some experience for each attacker he had killed. He was up to level four now, I was up to level five. He had gotten a big chunk of Task completions, too, and from my glances at the chat, he was pretty excited about some of those rewards. On my end I had only gotten a handful. I gathered the most impactful ones were Class-specific and that meant any time I did something awesome without being shifted was a missed opportunity.
+
+At least both Lucy and Gabriel had assured me that Hell basically never repeated the same attack twice. I'd wait a bit, and wouldn't shift at all in here, but I should be safe for now. At least from going berserk at my own party.
+
+Jamie came up to me, carrying a steaming bowl of spaghetti. Some of the others had fired up the kitchen to provide everyone with some sustenance. It was in the middle of the night and never in my life had any food looked as appetizing as that bowl. I took the bowl and followed Jamie to an empty group of chairs. I assigned the two points I got to Strength and Endurance, putting all my physical stats at 5. Slightly above average.
+
+"Thanks."
+
+"Thank you, too," he said. "We'd all been too preoccupied with dealing with the situation at hand, no one had thought about how we could turn it to our favor."
+
+"I've been a raid leader for a while. Honed those skills."
+
+"That sounds like you are trying to diminish your actions, Eve. Not the first time I noticed that either. Being proud of doing good is not the same as being arrogant."
+
+I wanted to deny the accusation. Instead I ate pasta. There was no good way to refute what he was saying. My therapist used to say something very similar. There was a reason I no longer went to therapy. It was uncomfortable.
+
+This spaghetti was goddamn divine.
+
+"What goodies did you get?" I asked while I glanced over my list.
+
+"So, turns out 'Defeating enemies while defending others' is a thing I need to do. Like your 'Killing while shifted' is. Usually animals wouldn't count for that. But when they are rampaging because of Hell's bullshit, they do."
+
+"What's the highest you got?"
+
+"50. And 20, 10 and 5 before."
+
+I choked on a meatball. My reward for 5 had been really good.
+
+Jamie grinned, took off his parka and held out his left arm, revealing a silver bracer. It was adorned with divine glyphs. Its description popped up.
+
+[Greater Blessed Bracer of Divine Shield
+
+Upon activation summons an Indestructible Divine Shield.
+
+Passive: Resistance against enemies defeated within the last 24 hours. Higher levels and more defeated enemies raise resistance.
+
+Current Effect: 3x Resistance against Beasts.]
+
+My collar made me a better dog. His bracer made him a goddamn superhero. Still, 'Indestructible' was a crazy word to see. I couldn't fully figure out the implications yet, but the gears in my mind started turning. Eventually we'd find an unstoppable object and we'd challenge physics in most interesting ways.
+
+"Damn," I said.
+
+"Yup. The rest isn't as mind blowing. Won't be needing that katana anymore. I have a sword I can't lose that I can summon into my hand at any time. And," he held out his right hand, "a ring that grants me additional uses of my Lay on Hands ability."
+
+"Healing?"
+
+"Yeah. Nifty, right?"
+
+"Really nifty."
+
+At the other end of the room the others were having a discussion. Liz and a man whose name I didn't know peeled away from the others. Liz packed her pockets full of cutlery.
+
+"So, this one is a freebie, puppy, but it'll be on you to sell the others on it. Don't leave before the 'it' has happened. It won't be much longer and I assure you, you'll know when 'it' happened." Of course they hadn't manifested for this, so no one besides me and Gabriel had heard it.
+
+Jamie was about to say something, but I cut him off with a gesture. I placed my bowl on the floor, stood up and walked over to Liz who had just grabbed a can of energy drink and put it in her jacket.
+
+"Liz. You shouldn't go out."
+
+Liz and her companion turned to face me.
+
+"And why?" she asked.
+
+"I don't know. My devil guide is playing mind games. Telling me we should all stay here waiting for the next attack to happen before we go outside. But I'm really tired and do not wish to play games. So I'm just telling you what they told me. Take it or leave it, I won't fight you on it. My gut feeling is to not go. And yes, I'm also fucking itching to leave. Everyone is looking at me like I'm several knives short of a full block and only one catastrophe away from murdering everyone. I'd really rather be somewhere else, too."
+
+I also grabbed an energy drink and returned to Jamie. Liz and that guy returned to Anthony and the others to discuss.
+
+"Please don't give me a judgement, positive or negative, on what I just did. I'm not in the mood for either."
+
+"Got it, boss. That pasta is really good, hm?"
+
+"Yeah, it is."
+
+"He picked Chef. As a class. I hadn't even thought that was possible. Finish your bowl. It'll lighten your mood. Maybe."
+
+"Who?"
+
+"Stephen. He got his Blessing like half an hour ago."
+
+"Wild."
+
+I drank half of that can in one go and then finished the rest of my pasta. The moment I did, a buff appeared.
+
+[Well Sated
+
++1 to all Attributes
+
+Duration: 3 hours]
+
+That was an entirely different level of support class. That wasn't even backline, that was non-combat. But if that was the buff his level 1 abilities gave him, what would he be able to cook up on level 5? On level 10?
+
+I finally properly checked out my Tasks.
+
+I had gotten 'Survive the direct effects of Hell's Apocalypse Spells' again, giving me another 10%, putting me close to level 6 already.
+
+Then there was 'Kill 10 Enemies with Natural Weapons'. That one gave me +5 to all natural weapon skills. My Claws skill was now at 8. I should have bitten more of those critters. My Fangs skill was only at 6.
+
+And finally 'Suffer from 4+ Debuffs simultaneously'. That one gave me an Ability. Something I didn't have before, similar to Jamie's Smite or Lay on Hands.
+
+[Power Through (Active Ability)
+
+Once per day ignore all active debuffs for 5 seconds (increased by Intuition). Mind-altering or paralysing effects cannot prevent usage of power. (Does not work on debuffs based on physical restraints, like constriction.)
+
+Current Duration: 6 Seconds]
+
+That would have been just enough time to grab that collar and pull it into my inventory. It really wasn't a long time, but could make one hell of a difference.
+
+"Hey, I think we should stack some debuffs on you, Jamie."
+
+"Sorry, what?"
+
+"I got a pretty neat reward for getting four at once. When I shifted earlier."
+
+"Oh. Yeah. I saw them in the UI. But I was a bit too disoriented to examine them. On account of, you know," his voice trailed off.
+
+"I'm sorry, Jamie. I acted far too fucking hasty and could have really hurt you as a result."
+
+"But you pulled yourself out of it in time. All good. Was really scary though."
+
+He didn't know. No one had told him it had been Lucy who saved him. I felt dizzy. Should I tell him? I should, right? He deserved to know that I wasn't the one who saved him. Would he look at me like the others did?
+
+"You okay, Eve?"
+
+"I didn't pull myself out. I have a one minute cooldown on shifting. And my mind was nearly entirely gone, too."
+
+His brows furrowed. "Who did?"
+
+"Lucy. Burned their one cheat to do it."
+
+The paladin across from me paled. "Holy shit."
+
+"Unholy. But yeah. Sorry. I really fucked that one up."
+
+"I'll need to look at my class again. And talk to Gabriel. There are rules about debts."
+
+"That can't count, can it? We don't even know what would have happened without their intervention."
+
+Lucy materialized with a now-familiar plop.
+
+"Here's what you can do for me, Jamie. Our dear Eve is about five minutes away from optimizing her own survival out of the equation."
+
+"I'm—" I started and stopped. Ever since he'd shown me that bracer it was clear to me that, if we were sending teams of two out there, he should be with Constance or Liz. Someone who could synergize better with his tank abilities. Someone who couldn't shapeshift to heal.
+
+"Shush, puppy," Lucy said. "Just tell me you won't listen to her when she tells you that you should party with someone else. That you'll stick with her at least till the Seal forms."
+
+"I wanted to, anyway," Jamie said.
+
+"Perfect. We got a deal. Stick to it and your debt is settled." Poof. They were gone.
+
+"And I don't get a say in the matter? About who I party up with or how I'm a bargaining chip in your deal with the fucking devil?" I turned away from Jamie. I shouldn't have said that last part. It was my fault he needed to deal anyway.
+
+"Eve. I'm sorry that just played out the way it did. But they were right, weren't they?"
+
+"There are better people for you to team up with."
+
+"Mechanically, yes. But I trust you with my life, Eve. If we are out there and things go wild, I can be sure that whatever your gameplan is, it comes from a smart girl, who wants both of us to survive. I don't know if Constance is a coward deep down. If she'd leave me to die when things turn grim."
+
+"You can't know that I wouldn't either. I feel like I'm constantly one more bad turn away from just entirely shutting down."
+
+"That's true. But from what I have seen, when the shit hits the fan? You shut it all out, solve the problems at hand, and then you process the emotional part afterwards. I'm not sure that's healthy long term. But right now you look really reliable to me."
+
+"You heard the discussion about that Inaptitude. I'm not a leader."
+
+"You are thinking strategy and group cohesion and such. I'm just talking tactics."
+
+I stood up. He made sense, but he'd also made a call on my behalf without consulting me first. My anti-authoritarian self was about to turn this into a fight.
+
+"We'll talk later. I need to meet that Stephen."
+
+Liz was still standing with Anthony and the others. I suppose they heeded Lucy's warning.

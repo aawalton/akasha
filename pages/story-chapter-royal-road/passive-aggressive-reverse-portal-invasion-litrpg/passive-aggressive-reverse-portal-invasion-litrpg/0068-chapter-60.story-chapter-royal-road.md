@@ -1,0 +1,243 @@
+---
+id: 3e2877c4-f66a-51d1-a9ce-bb38303b10b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60"
+slug: 0068-chapter-60
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 68
+ownLength: 3587
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3862421/chapter-60"
+royalRoadId: "3862421"
+---
+
+Once Jaggor added his agreement to our plan, I wasn’t surprised that the rest of them leapt to join in. I was entirely flabbergasted by how fast we were off.
+
+I’d expected at least a few days before we were good to go. Possibly, we’d have to deal with a pitched battle with whatever investigative force the Kadren were likely to send our way before we could actually move on to the Ever Steady.
+
+Instead, it took two hours.
+
+“You did not realize Jaggor was an Untouchable? Mirth.” Cuilcis speed-walked next to me, his short legs struggling to keep up. His hand rested on his mana cart which strolled along with him.
+
+Nix and Haddock were just behind, followed by Cuilcis’ guards, who looked like they’d rather be anywhere but there. Steve was racing on before us, stealthily scouting ahead to make sure we weren’t marching straight into some Kadren retaliatory army.
+
+“Heh. That explains why everybody was hanging on his every word. By process of elimination, that would make him… that monster killer guy, right?”
+
+“Just so. Tough. Hard-hitting. Very dangerous with those heavy limbs of his.”
+
+I nodded. I could definitely see it. Jaggor did look like somebody who’d start a slugging match with an ogre and win. If they had ogres in this place. I looked over my shoulder and checked out the rest of our procession.
+
+The army was… well, army wasn’t the right word. There was no cohesion, no marches, no fancy flags or uniformity. The closest thing we got to an actual uniform were the identical robes on Denetar’s apprentices.
+
+Instead, we had about a hundred and fifty people of different species, who walked along, alone or in small groups. Most of them bristled with weapons, with the few unarmed people standing out.
+
+There were a few surprises. Denetar following alongside his apprentices wasn’t that much of a shock. Haddock had already proved beyond a doubt that crafting in battle situations would earn you plenty of experience. Stalwart, meanwhile, surprised me. I couldn’t see just how a frigging merchant would make a difference, smith or not. I said as much to Cuilcis.
+
+“For the same reason I am here, I wager.” He responded, patting his mana cart. “I do not expect to craft a lot on this trip. There will be little time and concentration. No. I am here primarily for lucrative knowledge deals and trades. That, and looting rights. If I stay at home, any enchanted items or the like left on the Kadren will fall in the hands of somebody less deserving. The same goes for any promising veins of minerals, useful tools or… anything, really.” He paused, indicating his bodyguards walking along a bit behind him. “On top of that, I have my own tools to consider. If the rest of Last Chance should grow in levels, and they do not keep up, I will have to exchange them for stronger options. As it stands, they are barely sufficient, given that your group has refused to work for me.”
+
+I snorted. “Yeah. Weird, that. Still, I’m glad that you agreed with us and could see reason to help talk everybody else into this attempt.”
+
+“Logic. Strife means desperation. Desperation grants opportunities. Opportunities are to be savoured.”
+
+I shuddered at his logic. This nutjob could never be allowed to come to Earth. He’d absolutely become a successful televangelist, or worse, a politician. Still, I meant what I’d said. Without him providing the proper setup and knowledge, nobody would ever have entertained the idea that an attack was feasible. “Yeah. Well, I hope Nix and you managed to agree on a proper deal.”
+
+“We did not.” Nix spoke up from behind.
+
+“Yes, we did.” Cuilcis disagreed. “Nix did not have anything to bargain with. As such, she should be happy with what she did achieve.”
+
+She made a face at his back and folded her arms across her chest.
+
+“You are a real tough negotiator, you know that, Cuilc?” I gave it a bit of consideration, then followed. “Listen. You want some insane future favour from us, right?”
+
+“Just so. You owe me.” He agreed. “It cannot be outright suicide, but that does not limit the scope much.”
+
+I ignored the fact that I probably should’ve argued the wording of our agreement a little better. “If that’s the case, though, shouldn’t you spend a little time and energy to ensure that we actually live that long? I mean, Jaggor calls it suicide. Maybe, if you helped us a bit here, we’ll actually grow strong enough that we can live to pay pack that favour.”
+
+I wasn’t sure what I expected. A pat on the back and confirmation that we were plenty strong to face whatever we needed, perhaps?
+
+Instead, Cuilcis considered my suggestion, seemed to mull it over, before saying. “Your logic is sound.”
+
+I blinked and turned to him. “Really? I mean, I know it is. I swear, it’ll absolutely be a boon to you, if you help us with some tips. It doesn’t even have to be something about higher-rarity skills. But knowledge on how to increase specific skills faster? Great combinations? Stuff like that would absolutely improve our situation.”
+
+“I agree. It would.” He said. “Except, I am not going to help you.”
+
+“But-“
+
+“I do not believe in credit.”
+
+I glared at the penny-pinching bastard. “I’m so sorry I let you live! I hope some Kadren eats you.”
+
+He conceded the point. “I would be an easy morsel. Good thing we are sending your group in first.”
+
+No emotions. Yet, I didn’t have the slightest doubt, the cocky bastard was laughing at me.
+
+***
+
+We marched, talked and trained. That was all. No ambushes. No surprises. The first evening we sat down with a smaller group consisting of ourselves, the remaining Untouchables – this time without their entourages – and about a dozen more who thought they’d be able to contribute to our plans, and went over our approach. We discussed, adjusted, refined and improved, based on what we knew about the Kadren.
+
+No movies or fantasy series had prepared me for this: there was no internal strife! No battles for supremacy or big egos clashing in the large group. Possibly, it was due to the make-up of the group, and every person being used to being self-reliant. Nobody felt the need to stand up and represent everybody, and, when in doubt, already had a fall-back plan ready. Whatever the reason, it made for easy travels, as everybody’d brought provisions for themselves and made their own decisions without constantly looking to some authority figure for rules, guidance or aid.
+
+Sure, if our plans fell apart, there’d be no musketeer oath keeping us all united, no noble sacrifices for the better good. They’d flee to all corners of the Torn Divide, no looking back, every man, woman or Moagie for themselves. But until then, we’d be united in a common quest for levels and easy loot, and everybody was trying to push for the best general result, because that would improve the odds of their own success. Egotistical, but hell, if it worked?
+
+There was one surprise along the way.
+
+During all my travels and fumbling to survive, at pretty much all times I’d felt like a right pillock. Why? Well, because I didn’t just walk. I ran, sprang, climbed and acted a fool in my attempt to raise my skills. Business as usual.
+
+Only, I hadn’t truly stopped to consider what life in Ademia was like. We were in a world where skills meant survival and using your skills improved those skills.
+
+“I… can’t really decide if this is insane, amazing, or just too silly to be true.” I shook my head as I marched right next to Nix.
+
+Nix giggled. “Absolutely the last one. But I love it. Oh! Look at that bunch. They have sort of a love triangle going on.”
+
+I looked in the direction that she did, and had to restrain a barked laughter. One thick-skinned Tavungor walked ahead slowly, eyes half-closed in concentration. Meanwhile a female Moagie flittered around him, twin daggers in hand, as she kept up a constant series of tight, flowing attacks on the much larger shape.
+
+The thin, nearly invisible, red lines appearing on his body were a testament to both the thickness of his skin, and the accuracy of the Moagie’s attacks.
+
+As I watched, the Tavungor said a single word, and the third person leapt in. The Larian held her palm to his large flank, and the area started glowing. A second later, most of the scratches faded away to nothingness. The Larian squinted and nodded, falling back to let the Moagie resume her onslaught on the Tavungor.
+
+It was probably the most obvious example of skill training in the people marching around us. Yet, it was far from the only one. In fact, it seemed way rarer for somebody to not have a skill they were training on the go.
+
+Some were like me, leaping about and performing stunts, jumps and dodges to improve mobility and stamina-based efficiency skills like Endurance. Casters, obviously, burned their mana on whichever talents they had to improve the requisite skills. But that was just the tip of the iceberg. Fighters punched each other, juggled knifes and duelled. Scouts played hide and seek with impressive dedication. (And wasn’t that just ridiculously adorable?) Collectors were all over the place, stripping the soil of whichever materials they could find. Crafters weaved, whittled and sewed. Even somebody high-level like Denetar walked with his hands full, switching between the manipulation of a soft, clay-like material and careful application of summoned flames to practice his crafting skills as he walked.
+
+Cuilcis was one of the few people not exercising his skills. He had no time for it. He was kept extremely busy with others approaching him, attempting to barter for knowledge. Hell. Now, I truly got why he jumped at the chance to join our idea. The Tibidi was making a killing!
+
+We even wound up making a final purchase for ourselves, spending every single coin except for a few reserved for mana regeneration purposes on a batch of what he called liquid fire. Molotov cocktails, basically. They’d be great for tossing down from the tower.
+
+Watching everybody else make fools of themselves training did make me feel a bit better about what we were about to do. A bit.
+
+Nix clearly felt the same, because suddenly she burst out. “Do you really think this is a good idea? I mean. I’ve never paid for therapy, but right this moment, it feels like I really, really should.”
+
+I silently agreed with her. Out loud, I said. “Listen. We’ve proved that this is a viable tactic. It’s insane, sure, I’m not debating that. But it works. Which means, we’re going to do it again. We need to practice in order to ensure that it’s not going to kill me when our lives are on the line.”
+
+“All right. I agree. I just… yeah. You ready?” She halted, about fifty meters out from the body of the main group.
+
+“Ready enough.” I grunted. “Fire it up!”
+
+”Just a second.” she muttered. “Love? Mind giving us a bit of shelter? We don’t want the Kraden to spot us just yet.”
+
+Haddock was in his own world of crafting, and had been for hours. He alternated between walking silently along with the group, creating new, interesting shapes out of nothing and sticking them inside his temporary stash for our battle, racing ahead of the main group, and sitting down to meditate and regain his mana faster before he’d start the cycle all over again. Currently, he was in the crafting part of the cycle. He grunted and glanced our way.
+
+Moments later, a thick slab of wall slammed into place a couple meters away from me. Within seconds, it was adjoined by a second wall, and a third, before the roof unceremoniously thumped down on the rest.
+
+“Thanks love. You ready?” Nix asked.
+
+“Absolutely not. Hit me anyway.” I entered the impromptu bomb shelter and turned my back on her, as I swiftly stuffed things into my Personal Universe.
+
+She nodded. Then she coughed. “Do you… why are you naked? Please don’t tell me this does anything for you.”
+
+I glared back at her over my shoulder. “I am about to set myself on fire for the sake of improving my resistances. And you’re asking if it does something for me? I have a full total of three sets of underpants in this world. Excuse me, if I don’t want to torch the lot on day one.”
+
+“Okay, okay.” She settled down, then added, with a giggle. “I mean, I’m sure you could get yourself a nice wax or something to remove those pesky hairs instead. Seems excessive.”
+
+“I hate you.”
+
+We established our separate routines during that first day, working together where we could and operating on our own where it didn’t make any sense. We also kept an eye out for inspiration from any of the locals.
+
+Haddock did his own thing. Now and again, he’d stick his head together with Nix to debate a design or something before returning to the crafting.
+
+Steve was mostly out and about. Being around others meant he had ample chance to practice his movement skills and Stealth. A lot of them had high enough Spot skills that he could stick to the practice, even using his Invisibility talent. He returned now and again to spar against me, improving Spear and Piercing weapons, while I tried to raise my Shield and Dodge skills.
+
+Nix tried to kill me. She’d light me on fire with Delayed Firebomb. Sometimes, she’d combine forces with Haddock to try and improve his creations and somehow aim or concentrate her flames on me. Once a round of abuse was over with, she’d join her husband meditating for mana, while I enjoyed a brief period of peace and trying to regain my health.
+
+There was no way I could keep up with that level of abuse, of course. But fortunately, we’d thought ahead. Nix had managed to trade the corpses of the Ceaseless and the Elemental Ravagers to Stalwart before the news of the Kadren sprang, and secured enough coin for three dozen healing cakes. So, every half hour, I’d chomp down on a gritty, grainy cake that tasted of sadness and lavender – which honestly were the same damn thing - and enjoyed the sensation of pain lessening, even if it were only for a while, and I never healed fully before my next bout of pain.
+
+It worked, though. That was the important bit. Whatever else you might consider, constant use of your skills got results. Sure, Cuilcis was right when he said that ‘safe’ skill use granted slower increases than those of combat situations, but even so. It worked. My regular movement skills saw increases across the board, along with Shield, Armor and Self-Heal. Smaller increases, granted, but they all went up by at least one. Also, apparently, our group had become interesting enough that everybody checked me over. Secrets of the Self went up by a full three points.
+
+My masochistic endeavours were what really moved the needle, though. Pain Tolerance went up by three, and Fire Resistance by a full six points, landing me at nineteen.
+
+The others saw impressive increases as well, with Nix actually winning out due to the many increases to all her magical damage and mana skills.
+
+Yet, those gains weren’t what had us celebrating. When the marathon of a day finally ended and we conked out on bed rolls – without any bonfires, and with Scouts keeping watch everywhere, because we weren’t complete morons – both Haddock and I had something to show for it.
+
+“This ain’t fair! I should be the one getting freebies left and right here!” Nix sat in Haddock’s lap, his big arms draped around her. She adjusted one of the arms and rested her head on it with a sigh.
+
+On the horizon, the sun descended, draping the scenery in a bloody sheen, that felt like a heavy-handed portent of things to come.
+
+I laughed. “Left and right is a bit much, innit?”
+
+“What did you get? Sorry. I’ve missed half of what’s going on. I jumped in on one of those hide and seek games, and boy, do they take it seriously!” Steve said.
+
+I grinned. “Well, Tiny here is salty because I got myself a higher rarity just for letting her set me on fire several dozen times today!”
+
+Steve perked up mid-yawn. “Fire Resistance? That’ll come in handy!”
+
+“Damn straight it will. And the increase really isn’t horrible either.”
+
+Congratulations. You have unlocked the higher rarity of a skill:
+
+You have survived fire damage that should have killed you five times over during a single day.
+
+Fire Resistance evolves to Higher Fire Resistance.
+
+Higher Fire Resistance
+
+Rare Passive skill
+
+Other magic schools are versatile and can be used for many different things. Generally, not so for fire. It burns, consumes and destroys. And it does that so very, very efficiently. You have walked through fire and lived to tell the tale. Every level in Fire Resistance will moderately decrease the damage received from fire magic.
+
+In addition, once a day, you may activate Fiery Resurgence for thirty seconds. Any fire magic damage during this period will heal you instead of damaging you.
+
+Steve laughed. ”That’s ridiculous! You’re telling me Nix can kill things around you and heal you with a Firebomb at the same time now?”
+
+“That’s exactly what I wanted to use it for!” I grinned, pointing finger guns at him.
+
+“You guys are way too excited about Liam getting set on fire.” Nix shook her head sadly.
+
+“I agree.” Haddock rumbled. His face split in a huge grin before he continued. “Especially, when you should be excited about my Construction skill hitting my first Evolution!”
+
+“No fucking way!” I shouted, then sent hushed apologies at other groups nearby. “No fucking way!” I repeated, much lower. “Tell us already!”
+
+He obliged us.
+
+Your skill Higher Construction has reached the first evolution threshold at Level 25. This earns you a choice between two different evolution options.
+
+Please note. Due to Higher Construction reaching Rare, the evolution options are improved.
+
+Option one:
+
+Level 25 evolution:
+
+You will be granted a single choice among three random magical schools. A single construction of yours at any given time may, at an increased mana cost, be imbued with magic from that school.
+
+“Fucking ‘ell!” I breathed. “That’s ridiculous!” I blinked and realized what he was reading aloud. “Wait. You haven’t picked that one yet? The other option will have to be incredibly overpowered to beat that!”
+
+“You’re not wrong.” Haddock nodded.
+
+Option two:
+
+Level 25 evolution:
+
+From now on, you may re-establish contact to any of your temporary creations and alter them. The mana cost involved depends on the speed and severity of the alteration.
+
+Steve frowned. “You’ll have to walk me through this one. The first one, you could get something like…”
+
+“Curse magic.” I said.
+
+“Curse magic.” Steve repeated with a brief nod. “You could apply that to spikes on, say, a spike strip, and every single beast to cross it would become cursed.”
+
+Haddock. “Think so. Maybe it’d run out after one use. Or each spike could only be used once. Hard to tell.”
+
+Steve nodded, ceding the point. “Also, it’d be hard to come up with exactly how the magic would work beforehand. What would, say, fire magic work like in constructions? Could you have an actual fire wall, or would it all be sealed within?”
+
+“All speculation.” Haddock agreed. “No answers.”
+
+“But that second one. Is that just to save the mana and time needed to construct something new?”
+
+Haddock gave a low laughter and rubbed his hands together. “Oh no. It could be so much more.”
+
+I blinked as some of the implications started to sink in. “Unless I’m misunderstanding this. That bridge you created, that the Ghastlings kept climbing. You’d be able to… tip the bridge?”
+
+He beamed, eyes gleaming with dark satisfaction. “Tip them. Add spiked elements. Take a ceiling and remove the supports, letting it smash onto anything that’s underneath. Remove handholds. Rotate steps.” He pulled his beard as he grinned maniacally. “Trap feet in stone. I don’t know. So many possibilities. I can create a house and actually haunt it!”
+
+I whistled softly. ”I get it. So, basically, you get the choice between gaining a magic school, that you’re bound to be able to find some excellent uses for, which could be truly powerful…”
+
+“But we don’t know. Yeah. Or I’d be able to alter things on the go on anything I’ve already created. See my dilemma?”
+
+Nix reached back, interlocking both her arms between his neck. She turned her head and looked seriously up at him. “Take the second one, love.”
+
+“Alteration? You sure?”
+
+She nodded. “The magic one might be all-powerful. But we can’t be entirely sure. You could end up with three crap magic schools, or have to spend ages learning how it works. The other one? We can already see a ton of uses for it. And you know where we’ll be in a day and a half. Long-term growth won’t mean jack, if we’re dead.”
+
+“Damn.” Haddock grunted. “Survival is a pretty damn good argument. Alteration it is!”

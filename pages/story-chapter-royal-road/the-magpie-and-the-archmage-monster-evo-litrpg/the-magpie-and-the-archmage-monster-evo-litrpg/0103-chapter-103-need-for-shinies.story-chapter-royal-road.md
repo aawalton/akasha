@@ -1,0 +1,205 @@
+---
+id: a31b6fff-a685-5af8-befa-629fd4c06621
+page-type-slug: story-chapter-royal-road
+title: "Chapter 103 – Need For Shinies"
+slug: 0103-chapter-103-need-for-shinies
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 103
+ownLength: 2080
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3209224/chapter-103-need-for-shinies"
+royalRoadId: "3209224"
+---
+
+Renir's idea was simple. Cee needed to put her webs everywhere. He meant literally everywhere. And make them as inconspicuous as possible. That wasn't really difficult since they were located underground. While there was plenty of light in the individual rooms, the hallways only had lights placed in strategic locations to no doubt save on the energy.
+
+Cee could easily put her webs in these darker spots so humans wouldn't notice them. The reason for all this web network? It was a fail-safe in case they needed to get out of the clinic.
+
+Renir suggested that Cee combine her Web Weaving skill with Shadow Walk to form a skill that would allow her to traverse through her webs while being hidden. The first few attempts failed, likely due to Cee not having the right image in her mind. The spider thought it would be impossible to combine such seemingly unrelated skills.
+
+But Renir insisted that she keep trying, and eventually their efforts were rewarded with a newly formed skill called Web Walk. This allowed Cee to move freely and unseen through her web at any speed she desired as long as the webs were connected, even by a single thread.
+
+After that, Cee would sneakily spread her webs all through the clinic and use them to travel from place to place without anybody noticing. Cee had always been a sneaky spider, but this made her basically uncatchable and ensured that in case things went south, Cee could escape.
+
+Liora wondered whether she could somehow combine her Fade with Aerial Agility, however Renir pointed out that combining skills and traits was impossible. You could combine traits to form a new permanent trait or temporarily or permanently combine your skills to form a new one. But you couldn't combine skills with traits.
+
+Nonetheless, with her Featherflash, Fade, and Shadow Glide, Liora wasn't worried. If needed, she could get out. What worried her more was healing as many corrupted people as possible. And there were a lot of them.
+
+It didn't take long for a steady but exhausting routine to form. Eat breakfast in the morning, then together with Renir heal one fully corrupted person. This would use up nearly all of Liora's mana, so she would take a break until lunchtime.
+
+They would eat again, after which Liora would heal as many half-corrupted patients as possible. A few hours of rest again, along with dinner, after which Liora would heal another fully corrupted patient, and after that, she was done for the day.
+
+A week passed by with this routine, during which Liora gained three levels, bringing her to Level 26. That was nice. But that's where the niceties ended. She hated it here. The place was cramped and stuffy, and she couldn't fly at all. Cee wasn't gaining any levels, and all of the corrupted people had already been restrained, so she had nothing to do.
+
+The spider amused herself by Web Walking through the network she had made, thus leveling up her Shadow Walk skill to the next rank. But it was clear that the spider was also growing bored with it.
+
+The worst part was that new corrupted people were coming in. Some were people from Abylport who had been hiding the symptoms and hoping they would get better on their own. But many came from further away, sent by the Pillar of Vital Chalice.
+
+"I can't do this anymore!" Liora exclaimed. "Can't we somehow heal them all at once?"
+
+If you had an exorbitant amount of mana, then you could. But currently, this is the best we can do.
+
+"I'm tired! I'm bored! I want to fly! There's nothing shiny over here to look at!" Liora complained.
+
+"You can always look at Renir," Cee suggested.
+
+"No! It's already risky that I have to pull him out when healing people. I need more glimmerstones. Fresh air! I want out." Liora fluttered her wings and began to peck at the bed in her tantrum.
+
+"Wow, birds are so needy… Although even I admittedly am growing a bit bored as cozy as this place is," Cee said.
+
+"How is this place cozy?" Liora asked, pulling a chunk of wood free from the bed frame and dropping it on the floor. The activity brought her a little bit of peace of mind, so she continued.
+
+"Hey, I'm a spider! I love these kinds of cramped spaces. Not to mention that my webs are everywhere by now. I've never been able to move around more freely before."
+
+"Good for you," Liora grumbled, pulling another chunk of wood free from the bed frame.
+
+Okay, I get that you're bored, but don't you want to heal those people?
+
+I do, but being trapped down here is suffocating…
+
+"Maybe you can look at your shiny necklace? Or how about that bracelet from the corruption island?" Cee suggested. "It could at least alleviate your thirst for shiny things."
+
+"Oh my GOD!" Liora screeched, spreading her wings wide.
+
+"What?" Cee jumped back.
+
+"I never even looked at it!"
+
+Liora hurriedly withdrew the bracelet, putting it down on the bed. It looked to be made from gold, while the four gems embedded in it were a different color: red, green, blue, and yellow. But the colors looked somewhat muted and dull. As if they were out of energy.
+
+Was this used as the dungeon core?
+
+Yes!
+
+Withdraw me. Quickly. I want to analyze it.
+
+Liora did as he asked, pressing Renir's gem against the bracelet so he could do his analysis.
+
+"As I thought… It's another Divine artifact. A potent one, too," Renir noted, then read the System description.
+
+[Bracelet of Four Elements]
+
+[Artifact made by the Divine which embodies the power of the four elements within its gems. Red represents fire, green—air, blue—water, and yellow—earth. The one wearing this bracelet will be blessed by these four elements.]
+
+[Effects: Provides a significant boost to fire, air, water, and earth skills as well as a resistance to attacks of these elements.]
+
+[Warning: This artifact has lost its Divine power.]
+
+"Wow, that sounds really strong! I wonder if it would boost my elemental webs," Cee pondered.
+
+"I believe it would power them up significantly, but there's a problem…"
+
+"It doesn't have an effect, because it's lost its Divine power?" Liora guessed.
+
+"Precisely," Renir said. "At the moment, it is nothing more than a pretty trinket."
+
+"I do like that it's pretty," Liora said, looking at the bracelet. But seeing the dull stones quickly ruined her joy. "Although it doesn't look that nice with the colors being so dull."
+
+"I think we could actually fix it…" Renir said.
+
+"Can we?" Liora looked at him dubiously. "Didn't you previously say not to mess with Divine stuff?"
+
+"Did you steal this from some chimera guardian, too?"
+
+"No."
+
+"Then we have nothing to worry about. The point is that this bracelet clearly thrives on elemental mana. It was likely used up when those freaks tried to make their corruption dungeon. However, if we supplied it with elemental mana, then I believe we could at least partially restore its functionality."
+
+"How do we do that?" Cee asked, coming closer to look at the bracelet.
+
+"Same way you attune the Resonance Crystal. We find a place rich with natural elemental mana and then do the attunement ritual," Renir said.
+
+"Wait, we need to do a ritual?" Liora asked. "I can't do rituals."
+
+"Don't worry. With Cee on our side, it'll be easy. I'm sure Morgana has the inscription paper necessary for the attunement. You merely will have to study it and copy it with your web," Renir explained.
+
+"I bet it's super complex…" Cee muttered.
+
+"I have no doubt about that…" Liora agreed.
+
+"Don't be so glum, you two. I swear the attunement ritual is rather easy. Now, why don't you go find Morgana? Pester her to do at least one attunement on the Resonance Crystal," Renir urged.
+
+"Might as well. If I stay down here for much longer, I think I'll go insane!"
+
+"You want to go and attune the Resonance Crystal?" Morgana asked. Liora had come out and revealed her wish to the woman during dinner.
+
+"Yes. I want to get out of the underground. It's stuffy in here, and I can't fly at all," Liora complained.
+
+"She has already torn apart half of the bedframe in frustration," Cee added.
+
+"It certainly wouldn't do for our main healer to get so frustrated that they quit. And there is a mana-rich spot right on this island," Morgana rubbed her chin in thought.
+
+I knew it! This island seemed far too abundant to just be a regular island.
+
+"Then let's go!" Liora urged.
+
+"Hold your horses, birdie! It's already late. We'll go tomorrow," Morgana objected.
+
+"Oh, come on! The island isn't so big. Let's do it today, and tomorrow we can return to healing," Liora argued.
+
+"It's not so simple. The mana site is protected by cyclops."
+
+"A cyclops?! Why did you build a clinic on an island with a cyclops?" Cee asked, waving her front legs.
+
+"Because the cyclops is stupid. It didn't even notice us despite all the people coming to and from the island. The only thing the cyclops is interested in is grooming his harem of giantesses while sitting on his ass and eating all day," Morgana shrugged. "I'd say that the giantesses are actually more dangerous than the cyclops, but they're too busy trying to please him to think about anything else."
+
+"That… Do we have to deal with the cyclops? If he's so lazy and dumb, let's just sneak around him," Liora suggested.
+
+"Yeah," Cee agreed.
+
+"I wish we could, but his home is located in the densest mana spot, exactly where we need to go to attune the Resonance Crystal."
+
+And the bracelet. I'm afraid we have no choice but to fight the cyclops.
+
+Ugh! I don't want to fight. I just want to fly.
+
+Hey, think of all the glimmerstones you could get from a cyclops!
+
+That was actually very tempting. It's been a while since she got any glimmerstones. Her Glimmerlust skill felt utterly starved. She needed more shinies. And it would be a good exercise.
+
+"Okay, let's defeat the cyclops!" Liora said.
+
+"I wish things could be solved without fighting giant monsters," Cee grumbled.
+
+"Don't worry. The cyclops is nowhere near as strong as the shapeshifter. Just watch out for his giantesses," Morgana said, radiating confidence.
+
+Ask Morgana to give you inscription papers for the attunement ritual. She should have a few on her.
+
+"Can I have some inscription paper with the attunement ritual?" Liora asked.
+
+Morgana narrowed her eyes. "Renir requested that, didn't he?"
+
+"Maybe."
+
+"What do you need it for?"
+
+"So I can use it. It would be much easier for me to bring the paper to the right spot and use it, rather than you," Liora argued.
+
+"Do you even know how to use it?" The woman raised an eyebrow.
+
+"Of course. Renir taught me," she lied without hesitation.
+
+Smart little thief. There's no need for her to know that Cee can do rituals with her webs.
+
+Morgana stared at Liora, or more likely at Renir, with a narrowed gaze as if trying to decipher what was on their mind. But what she was hoping to read in Liora's expressions? She was a bird. Humans couldn't even tell apart all the colors of her feathers, much less understand their subtle facial expressions.
+
+"Damn, fine! But don't give it to Renir. This is for you, Liora," Morgana said, materializing a small roll of paper in her hand.
+
+"Why not?" Liora asked.
+
+"Because I don't like him!" Morgana huffed and gave the paper to Liora.
+
+She quickly snatched it and put it in her Inventory.
+
+"We'll meet up tomorrow morning, so go get some rest now, beasties," Morgana said.
+
+The woman escorted them back to their room, where Liora withdrew the inscription and rolled it out on the bed.
+
+Okay, so what Cee needs to do is learn how to recreate lines perfectly with her web. If she'll be able to do that, then we'll be able to attune the mana without any issues whatsoever.
+
+Wait, but how were you thinking of doing it before? Surely you had a plan of some sort.
+
+I figured that we would deal with that problem when we got to it.
+
+Liora would have groaned if she could. For a supposed Pillar, Renir was way too nonchalant about all this.

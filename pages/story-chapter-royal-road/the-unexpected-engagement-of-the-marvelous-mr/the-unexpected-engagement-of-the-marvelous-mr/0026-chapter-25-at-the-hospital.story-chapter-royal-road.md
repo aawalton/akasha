@@ -1,0 +1,219 @@
+---
+id: 2a9db624-7c52-5bbb-952b-a9cc97927f3c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25 - At the Hospital"
+slug: 0026-chapter-25-at-the-hospital
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 26
+ownLength: 1865
+unit: words
+publishedAt: 2022-06-16
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/928922/chapter-25-at-the-hospital"
+royalRoadId: "928922"
+---
+
+“Mr. Haley?”
+
+Haley took a deep breath.
+
+“Mr. Haley.”
+
+He forced himself to open his eyes. The light swirled in first, and he winced against it until the pain passed. Then everything else came into focus.
+
+The room was mostly white, but it looked buttery and soft because of the yellow sun pouring in from the large window. Eleanor was sitting up in bed, tucked under the blanket. Her hair was loose, and some nurse or doctor had cut off the sleeves of her nightgown at the elbow. She was watching him with a smile that made him feel both embarrassed and pleased.
+
+Lucas sat up while ignoring the random twinges that were his body’s protests against the fact he’d spent the night in a chair. “Good morning, Miss Serrs.”
+
+Her smile widened. “Good morning, Mr. Haley.”
+
+“I apologize. I didn’t mean to fall asleep.”
+
+“Were you there the whole night?”
+
+“No. The doctor gave you something to help you sleep, but he warned me that it would only work for two to three hours. During that time, I went back to your family, to let them know what was happening.”
+
+“Are they all right?”
+
+“They’re fine. As you can imagine, your aunt was very relieved. When your father heard that most of the perpetrators were dead, he expressed…a certain amount of satisfaction, and I had to tell your cousin three times that he wasn’t allowed to see you until the morning.” Haley pulled out his watch and opened it. “He should be here shortly.” The inspector tucked the watch back in his pocket. “After that, I returned here to see if you had woken up. You were still asleep, and the doctor warned me that you might sleep through the night—which was something we were all hoping for—but in case you didn’t, I decided to wait a few minutes…”
+
+A second passed, then Eleanor prompted him: “And you fell asleep?”
+
+Haley nodded once, then went on, “Right now you’re under police protection until we can confirm that all of Farnham’s men are either captured or have no designs against you. A policeman will be outside your room at all times, and your visitors will be strictly limited. Family members only, and only during the prescribed visiting hours—”
+
+“Then…”
+
+Haley waited to hear what she’d say.
+
+“But then, that means I’ve had no visitors?”
+
+“No.”
+
+“Then who brought in the flowers?”
+
+She motioned to the small bouquet of white and yellow freesias sitting on the nightstand beside her bed.
+
+Once again, Haley had reason to marvel at her unconscious talent for observation—marvel at, and at least this time, curse. “I suspect they’re from Penn.”
+
+She reached out to touch the petals.
+
+The inspector said, “I was gone for a while, and he doesn’t think much of rules. He probably wanted to make sure you were all right.”
+
+Eleanor tried to hide her smile. “That would explain the white coat and stethoscope.”
+
+“Yes.” Haley glanced at the chair by the window, where the articles had been discarded. “I’ll have to remember to turn them in. Their real owner is probably frantic. I suppose it’s a mercy Penn didn’t keep them to use as a disguise for later.”
+
+“Well,” Eleanor said, still touching the flowers, “they’re beautiful. It was kind of him.” When she pulled her hand back, it returned to its place on the opposite forearm. They had been like that since Haley woke up—each hand cradling the bandages on the other arm.
+
+“Miss Serrs, how are you doing?” Haley asked.
+
+Her hands tightened over the dressings. “You might know that better than I do. What do the doctors say?”
+
+“Would you like to wait for one of them?”
+
+Eleanor shook her head.
+
+“They say you’ll need a lot of rest to make up for the blood you lost, and that you’ll have to eat lots of healthy food, but your life is in no danger.” Haley knew what he’d have to say next; he’d been preparing himself, so there was no hesitation when he added, “They also say that you’ll have scars.”
+
+“Bad ones, I think.”
+
+“Yes.”
+
+Eleanor tried to sound cheerful. “I’m lucky, aren’t I? Long sleeves in the morning, long gloves in the evening—as long as the fashions don’t change, I won’t have to worry about them for most of the day.” She motioned to her neck. “Not much I can do about that one. At least it should be small.” She turned to Haley. “Does it look bad?”
+
+“No.”
+
+Her eyes narrowed and, for the first time, Haley saw her wry smile. “I wonder if you’re being completely honest with me.”
+
+“I wonder why a society woman would ask a policeman his opinion on scars.”
+
+Eleanor laughed. “Fine then. Is it noticeable?”
+
+“Pull your hair up.”
+
+She obliged him by twisting her mane in back and lifting it.
+
+He looked at the line of her neck for a long time before he admitted in a soft voice, “It depends on how it heals, but I’m afraid it will be.”
+
+Eleanor sighed through her nose and let her hair fall. “Oh, well. It doesn’t matter. And if it does, it’ll serve this vain creature right.” She pulled her knees to her chest. “I’m so tired.”
+
+“That’s from the blood loss.” Haley stood up. “You need rest.”
+
+Before he could move away from his chair, Eleanor said, “Do I need to give you my statement?”
+
+“Not to me. Not this time.”
+
+“Why not?”
+
+“I suspect there will be questions about it. I think it would be better if someone else came to get it. Is that all right?”
+
+“Yes.”
+
+“They’ll be in later today. Hopefully, you’ll feel less tired.”
+
+“Mr. Haley”—Eleanor hesitated—“what would you like me to say in it?”
+
+At first, the inspector was too stunned to move, but then he pulled the chair closer to the bed and sat down. “The truth. Every word of it. Do you think I’d ever ask you to do otherwise?”
+
+She was still looking him in the eyes. Haley didn’t think he’d ever seen them for such a long stretch of time.
+
+“I didn’t know,” she said, “but last night, under the street lamp, for a moment, I wondered if you and Penn—”
+
+It was Haley who broke eye-contact. He looked away, cleared his throat, then looked back.
+
+“Miss Serrs, it’s your statement, and I would never tell you what to say, but please understand that the police need the facts of what happened, more than any impressions you may have had. Even if those impressions are coming from someone as intuitive as you.”
+
+There was the spark of humor in her eyes. “I see.”
+
+Haley put his hands on the arms of his chair, but before he could stand, Eleanor stopped him.
+
+“I have to tell you something.”
+
+Wary and curious, Haley settled back down.
+
+“Yesterday, before any of this—this aggravating nonsense, I found the man who printed my wedding invitations.”
+
+Haley leaned forward. “We were looking for him—before we were distracted by the nonsense.”
+
+“It’s Mr. Russel, on Ashley Street. He’s a nice man. You could tell how much he regretted printing them.”
+
+“Did he say who commissioned them?”
+
+“He didn’t know the name, but he described him.”
+
+Eleanor went on to recount most of her conversation with the printer, including the details of what the man with the money had looked like. Haley listened without saying a word. Every once in a while, his hand would wander to his jaw as he thought.
+
+When she finished, she waited and watched as Haley puzzled over what he’d heard.
+
+“And you don’t know the man he described?” he asked.
+
+“No.”
+
+Haley was about to say something, but he was interrupted by a knock on the door.
+
+“Come in,” he called over his shoulder.
+
+A nurse entered. “Chief Inspector?”
+
+“Yes, ma’am?”
+
+“Lord Comtess is here. He insists on seeing Lady Serrs. Is it all right for him to come in?”
+
+Haley stood up. “Of course. I’ll have to thank him for his patience.”
+
+The woman huffed. “You can thank me for mine. It was the only one that was tried.”
+
+“Then thank you, ma’am.”
+
+“And a policeman’s just arrived. He says he needs to talk to you. He says it’s urgent.”
+
+“I understand. Please tell him I’ll be right there. And you can send in His Lordship.”
+
+The nurse nodded, then left.
+
+When Haley turned back to Eleanor, he felt an unexpected weight shift inside his jacket pocket. He put his hand over it and felt a hard edge.
+
+“Oh, yes.” He pulled it out. “I have something for you.” A slight tinge came into his cheeks. “It’s not much. It’s not even really mine to give you, but I didn’t know how long they would want to keep you, and I thought you might be glad for some entertainment.”
+
+He handed her the book he’d been holding. It was her battered old copy of Alice’s Adventures in Wonderland.
+
+Her hands drifted up to take it from him.
+
+In an uneasy voice, he said, “I know I didn’t ask permission. Do you mind?”
+
+She pulled the book to her chest and put her hands over it. “No, Mr. Haley, I don’t mind.” Tears were shining in her eyes as she smiled at him. “Thank you.”
+
+“Good day, Miss Serrs. Please try to get some rest.”
+
+“I will.”
+
+When Haley opened the door, Eleanor caught a glimpse of two police uniforms and an anxious face, then the doorway was filled with Edward.
+
+“Eleanor, you had us all so worried!” He ignored the chair and knelt right by her bed, leaning over it so his elbows were near her legs.
+
+“Oh, no! Edward, your stupid, lovely face!” She reached out with both hands to touch the mess of red, purple, and blue bruises. One eye was swollen almost shut, and there were scrapes along one cheek. The tears she’d been holding back spilled over.
+
+When Edward saw it, much to his embarrassment, he felt his own eyes water.
+
+“Eleanor, don’t you dare apologize.”
+
+“But I’m so sorry! Look at you! It must have hurt so badly.”
+
+Edward pushed her over so he could sit down on the bed, wrapped his arms around her, and pulled her to his chest. “You little idiot. I’m surprised you didn’t apologize to your mother when you were born.”
+
+“I couldn’t talk back then.”
+
+Edward squeezed her tighter and demanded, “Tell me you’re going to be fine.”
+
+“I’m going to have scars.”
+
+“Oh? How manly.”
+
+Eleanor tried to punch him, but she couldn’t get up any momentum since her arms were pinned to her chest. He laughed at her feeble attempt, then buried his face in her hair.
+
+“Not much of a guard dog, was I?”
+
+Eleanor could hear the grief in his voice.
+
+“Not much of anything, really. But watching them take you away—” his voice caught. Eleanor felt him swallow before he went on. “I was so, so scared for you. I’m sorry, Eleanor. Can you ever forgive me?”
+
+Eleanor spent the next ten minutes trying to assure him she would be all right and tease him out of his mood.

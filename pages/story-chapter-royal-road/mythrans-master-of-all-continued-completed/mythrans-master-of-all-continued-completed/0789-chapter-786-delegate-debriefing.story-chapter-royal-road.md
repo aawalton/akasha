@@ -1,0 +1,265 @@
+---
+id: c164ab53-ec80-5f7c-b7f5-87e0191017e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 786 - Delegate Debriefing"
+slug: 0789-chapter-786-delegate-debriefing
+partOf: mythrans-master-of-all-continued-completed
+position: 789
+ownLength: 3665
+unit: words
+publishedAt: 2018-12-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312675/chapter-786-delegate-debriefing"
+royalRoadId: "312675"
+---
+
+Ren and Tatya stepped out of the portal and into the center of Ren's mountain town.
+
+“Where are we?” Tatya asked as she looked around the very well lit giant cavern and saw all the buildings.
+
+“I bought a mountain peak and converted the inside into a town.” Ren said as he took out the Vasalor Statue and activated it. “There are various exits to go outside, and some of them are quite fun.”
+
+“Oh, my god.” Tatya whispered. “How... how did you do all of this since last night?”
+
+Ren chuckled. “Actually, it took about a year to do it.”
+
+“A... a year?!?” Tatya asked, shocked.
+
+“Making the town was simple.” Ren said. “Hollowing out the mountain and trying to hold onto the snow on the whole thing while doing it, really taxed my skills and my multitasking abilities.”
+
+“Wh-what... what...”
+
+“It was a really fun time.” Ren said happily. “Everything came out great, too.”
+
+“But... a year.”
+
+“Yeah.” Ren said. “It went by faster than I thought it would.”
+
+“Ren... King Ren...”
+
+“We're completely alone here, so you can call me Ren.” Ren said. “You were saying that you want me to share my footage with the investigators?”
+
+“Y-yes.” Tatya said. “I... I've made mistakes, and I hoped that if they saw it for themselves, they would restore some of the Respect I've lost.”
+
+“Like what just happened with Jirqym.” Ren said, and she nodded slightly. “You do realize I can only show what was happening around me and nowhere else, right?”
+
+“Yes.” Tatya said. “Even just seeing things from your perspective and getting a completely unbiased account of what happened during the trip is more valuable than all of the other witness statements put together.”
+
+“Would I have to hand over a display device when they see it?” Ren asked.
+
+“I... maybe. No one has produced anything as significant in front of them before.” Tatya said. “I've been the head of the delegation three times now, and...” She sighed. “I didn't know that they had hidden viewing windows into the private rooms.”
+
+“I believe you just suffered the same thing you've been putting me through.”
+
+“Wh-what?”
+
+“You've only been told just enough to do your job effectively and not told everything that affects your job.” Ren said. “Just like you told me only some information and not what I should have known or needed to know.”
+
+“Ren, I...” Tatya took a deep breath and let it out. “Ren, I... I can't believe I'm going to say this.” She said and took his hand. “Ren, I'm... I'm... I'm so... so...”
+
+“I know.” Ren said, and tried not to laugh as Tatya sighed in relief. He could feel her sorrow and regret over how he had been treated and didn't want her to hurt herself by saying something that was detrimental to her upbringing and beliefs.
+
+“Ren, will you show the investigators what happened?” Tatya asked.
+
+“I will.” Ren said.
+
+“Thank you!” Tatya wrapped her arms around him and hugged him tightly. “Thank you so much!”
+
+“I don't think you should thank me just yet.” Ren said, and she let him out of the hug. “It could make things worse.”
+
+“It doesn't matter. It will be the actual account of what happened, and they can determine for themselves its significance and value.”
+
+“I have to remind you that it won't show what happened between us.” Ren said. “No clothing, no recording.”
+
+“I know, I... unless I can convince them otherwise, I just have to accept that loss.” Tatya said.
+
+“I'm a little surprised that you haven't had anything like this happen before.”
+
+“I didn't meet anyone that intrigued me as much as you did.” Tatya said.
+
+“No personal duels?”
+
+Tatya shook her head. “You were the only one to acknowledge me as worthy to fight.”
+
+“You're kidding.” Ren said, and she shook her head again. “Wow, you've met some really ignorant people if they couldn't feel your fighting prowess.”
+
+Tatya chuckled. “Most of them didn't even touch me with their Auras.”
+
+“Okay, that's just...” Ren shook his head this time. “Yeah, really ignorant.” He said. “The very first thing I would have done was checked you all out.”
+
+“Not everyone's Aura is as big as yours.”
+
+“King Alamast's Aura is pretty big.”
+
+“He doesn't recognize a good fighter over a charlatan.” Tatya said. “You felt their reactions when the delegates fought your Doppels. None of the other people in the room knew what was going on and were more confused than entertained.”
+
+“Especially when it ended.” Ren said and thought about it. “Nearly everyone you've met reacted similarly, didn't they?”
+
+“They did, and we were all the better off for it.” Tatya said. “We were seen more as a travelling carnival instead of official delegates for an entire kingdom.”
+
+“It let you gain a lot more than just gifts and good will.” Ren said. “You must have visited and cleaned out every shop where the caravan stopped.”
+
+Tatya chuckled. “You guessed our tactics well.” She said. “They saw us as country rubes that were new to city life and sold us everything they had, and then some, because they thought they were pulling the wool over our eyes.”
+
+“When it was just the opposite.” Ren said, then chuckled. “It's too bad you didn't visit my shop.”
+
+“Oh? Why's that?”
+
+“Anabelle would have seen right through your ruse.” Ren said proudly. “I doubt she would have sold you anything except our basic equipment.”
+
+“I'm sure if...”
+
+“No, she's not at all gullible.” Ren said with a huge smile. “She's been running the shop since it opened and I trust her implicitly.”
+
+“That... must be nice.” Tatya whispered.
+
+“It is.” Ren said. “We should get back before they send out a search party for us.”
+
+Tatya smiled. “You're using the Vasalor Statue, so we've only been gone a few seconds.”
+
+Ren checked the room with the All-Seeing Mirror and cast a portal back there as he deactivated and stored the statue, then they stepped back into the room. Jirqym still had his face pressed against the glass and asked where Ren was again. Tatya ignored him and the other person as she and Ren left the private room. Ren went back over to Artemis and his Mistresses and Tatya went over to where Kenkoth stood, and they all waited for the last of the delegates to arrive.
+
+When the last one walked into the assembly area, a guard stepped into the middle of the room. He slammed the end of his staff into the floor to make a metal ringing sound and pointed the weapon to the wall opposite of where everyone had come in. The wall dissolved and revealed a room in the shape of a half-circle, and there were 11 people that sat behind a curved desk on a raised platform. Tatya's name was called and she stepped forward into a circle that had appeared on the floor.
+
+“As head of the current delegation, you have the right to speak first.” The woman that sat in the middle of the 11 people said.
+
+“Thank you.” Tatya said and started to talk.
+
+Ren knew this was going to take a long time, so he made everyone ignore him and took out the Vasalor Statue, changed the settings so it would affect everyone in both rooms, and activated it. Tatya told the investigators all about everything that she had seen and experienced during her travels, and didn't hold anything back at all.
+
+Ren was really surprised that no one had made him wait in a private room or reformed the wall so that he wouldn't hear what were essentially spoilers for new content in the game. He suppressed those emotions so that they wouldn't know how excited he was to hear about three new kingdoms that weren't a part of the game yet. The Slirripia Kingdom, the Demuvia Empire, and the Ruteron Republic had never even been hinted at anywhere that he had heard of.
+
+Ren listened intently to try and determine what races were in those kingdoms; but, to no avail. No specific details of the races or even what types of creatures they might be were mentioned.
+
+“That's probably because of their own resistance to discussing their own creature types.” Teepo said in the voice that only Ren could hear, and he had to agree.
+
+I wonder if Lara would fill me in, now that I know about them. Ren thought with a smile.
+
+“I doubt it.” Teepo said. “She might expand on what you've heard here, though.”
+
+Ren held in his chuckle and listened to the rest of Tatya's testimony about going into the Human Kingdom and her experiences there. Most of it was uneventful, even the part where King Alamast had offered them animals for slaughter. The investigators had laughed at that, just as Ren had, and Tatya moved on and talked about spending time with Princess Diana and learning a lot more about how the kingdom was run from afternoons with her than she had by listening to King Alamast's long-winded speeches.
+
+Ren had to chuckle at that, and several people glanced at him. He made a locking his lips motion with his fingers and tossed the imaginary key away, and they chuckled in turn. Tatya continued her deposition and all of the investigators perked up when she reached the part concerning Ren. It was a little odd hearing about it from her perspective, since she had been upstairs when he had met Kenkoth the first time, then she described Ren reacting to her and about their duel.
+
+All of the investigators glanced at Ren at random times during Tatya's story, and he met those glances with a small smile. Tatya described Ren's duel with Meccis and the reason for it, and Meccis coughed loudly when she said it was over in only a few seconds. They all gasped when she told them about Ren's threat to challenge the delegates for not paying him the proper Respect.
+
+All of them pointedly glared at him, and he grinned and pointed back at Tatya. They looked back at her and she described eating a good breakfast with the human's royal family, then about Ren coming back to challenge them.
+
+“He came back after a boast like that?!?” One of the investigators exclaimed, then clamped his mouth shut at his undignified outburst. Tatya smiled and told them about the training sword duel challenge, then the next and the next. The investigators barely breathed as she described the Doppel Ren's fighting prowess and how he had successfully landed at least one or more points on everyone and then ended the duels himself.
+
+Tatya described how he had promised to make a cathedral for Vasalor and then did it instantly, which made Jirqym stop the caravan so they could send someone to investigate it. She told them how Ren had joined the caravan later and modified them to travel at speeds unheard of for giant boars hauling carriages. There wasn't much to tell after that, except him making an instant tower to sleep in, then they arrived in the Pervaria Kingdom and Tatya received the attack alert.
+
+“You mobilized the delegates to assist?” One of the investigators asked.
+
+“Only those suited for regimental combat.” Tatya said. “It wasn't until King Ren offered to let us use the fast carriages and one of his custom troop transports that we could form most of the garrison's troops into an effective fighting force.”
+
+“How in the world did you ship most of a garrison to the battlefield so quickly?” The woman in the center spot asked. “We've heard from Maghash, and he said...” She looked down at a piece of parchment. “...a huge long cart hauled by a giant armored ram and the delegation's caravan descended from the sky to land in the staging area, then nearly the entire Eastern Garrison piled out of them and formed ranks.”
+
+“King Ren expanded the insides of the carriages to accommodate the troops.” Tatya said. “King Ren even volunteered to help fight.”
+
+All of the investigators glanced at Ren, who smiled.
+
+“This says that Maghash sent King Ren out to be a distraction.” The woman in the center spot said. “I assume it was effective.”
+
+“Extremely.” Tatya said. “After he had his companion destroy the goblin's catapult division, he mounted his giant armored ram and drew the attention of the goblin's main force.” She said. “It let Maghash flank the enemy and destroyed its formations and its cohesion.”
+
+“Then what?”
+
+“The embodiment of Anansi appeared.” Tatya said, and a hush fell over the room. Ren felt all of their reactions and knew that they feared for their lives whenever the giant spider appeared.
+
+“What did you do?”
+
+“I had led a strike force to where the magic user was supposed to be, to try and take him out before... well, I wasn't in time.” Tatya said. “We had slowed down too much to fight other units.”
+
+“Then when you got there...” One of the investigators prompted.
+
+“I thought we were all dead.” Tatya admitted, to everyone's surprise. “We didn't have any magic users nearby, since they were supporting the main offensive, and the main force of the goblins was advancing underneath the humongous spider.”
+
+“Maghash said we won the battle.”
+
+“We did.” Tatya said. “Because of King Ren.”
+
+“What? How?”
+
+“He killed the spider single-handed and it collapsed and killed most of the main force of the goblins and the mage that had summoned Anansi.” Tatya said. “I've never seen anything like it.”
+
+“It must have been quite a sight to be saved from impending doom.” One of the investigators said.
+
+Ren stopped making everyone ignore him, except for Jirqym, and spoke. “Would you like to see it?”
+
+“Did you just interrupt an official inquiry?” The woman in the center asked, angrily.
+
+“No, ma'am.” Ren said. “Tatya asked me to show you what happened, since I recorded everything around me, and I was merely offering to show it now instead of later.”
+
+The woman took in a shallow breath and let it out to calm down, because she knew he hadn't lied. “Very well.”
+
+Ren grinned at her and took out a basic display device and pointed it at the far wall. It was quite a large wall and the display filled it as he cast Full Illusion and played the scene from when he rode Princess up and over the barricade and into battle. He could feel a lot of the people's emotions as he and Princess smashed their way around through the different goblin formations, and during some of the more spectacular hits where a dozen goblins flew through the air, some actually yelled and cheered.
+
+They watched as he essentially gathered them all into a tight group, and then the trolls appeared. Gasps were heard and a few groans followed, then they saw Ren doing something. He made a little block and then threw it, and the next instant, it became a huge bridge. Everyone gasped again as the trolls kicked away their handlers and scrambled for the bridge and hid underneath it.
+
+They started laughing when the trolls fought off anyone trying to remove them from their new home and then as they demanded payment from the goblins trying to cross their bridge. Some of the delegates were in fits of laughter as dozens of the goblins gave up their weapons to cross the pointless bridge. Even one of the investigators smiled at the dumbfounded goblins as they milled around and didn't know what to do.
+
+Everyone stopped laughing and smiling when the goblin mage sacrificed them and summoned Anansi. They all fell silent as the humongous spider appeared, then everything went dark as Ren was covered in webbing. After a minute or so, they heard Ren sigh and grinding and snapping noises, then suddenly the webbing split open and revealed an 11 foot tall dark elf.
+
+“He transformed.” Someone whispered, and no one else spoke as giant phantom spider limbs tore apart the rest of the webbing to free Princess. Suddenly, 10 small pieces of steel rebar were in his hand and they glowed for several seconds, then Dark Elf Ren grunted as he threw them as hard as he could, they became spears, and they magically increased from 10 to 100.
+
+“Good god.” Another voice whispered as Dark Elf Ren pulled out his basic iron sword that had been folded a million times, quadrupled its size, then he yelled as he leaped through the air and followed the same arc as the spears he had thrown.
+
+They watched the humongous spider be impaled by the spears, then it turned to face Dark Elf Ren and the spears exploded. The spider stumbled a step and collapsed onto the screaming goblins below it, and Dark Elf Ren took out his anger on it. The scene ended when Dark Elf Ren walked over to Tatya and changed back into his normal self.
+
+“Well.” The woman that sat in the center spot said. “That was... enlightening.”
+
+“It really was.” Tatya said. “If I may continue?”
+
+“You may.”
+
+Tatya kept talking and told them about travelling across their own lands and then about the incident with Dilseffa, then the follow up incident with Rimsoh. She finished her account of the trip by ending with coming to the delegate building.
+
+“We shall pause here.” The woman said, and Ren deactivated the statue. “A short break, with refreshments, then we will move on to Kenkoth.”
+
+Conversation started up right away and everyone talked almost as one about different things; but, no one left the room. One of the guards opened the door and all of the attendants came in and served snacks and beverages to everyone. After the short break, the attendants left and Ren activated the statue again. Kenkoth's deposition went faster, since all he was doing was corroborating Tatya's testimony.
+
+They had experienced almost everything together and Ren discovered that their roles really were reversed in every other kingdom but their own. His story had a different perspective for the battle, since he was a part of the flanking force and hadn't even known about Anansi until after the battle. Other than that, their stories were almost the same.
+
+Beholo the healer was next and his recounting went even faster, since he wasn't quite as involved in everything as Tatya and Kenkoth were. He had seen the hospitals and medical wings of various places, instead of barracks and military posts. Other than that, there was almost nothing of real interest in his testimony until he mentioned the bracelet and wand that Ren had given him.
+
+“The only thing I regret is not having them during the rest of the trip before arriving in the Human Kingdom.” Beholo said. “I wouldn't have been so taxed dealing with everything else going on.”
+
+“Yes, they would have been a wonder to examine if you had turned them in.” The woman in the center spot said.
+
+“What?” Beholo looked at her with wide eyes. “Of course I handed them in! I handed everything in!”
+
+“There was no Mana bracelet or even a magic wand present in your belongings.” She said and waved at the side of the room. An attendant pulled over the heavy sled and opened the compartment Beholo used for his belongings.
+
+“Wh-what... what...” Beholo took out all of the items and they were all there. “Look, this is the bracelet!” He held up the gold bracelet and grabbed the steel bar with the diamond attached. “This is... the... wand?”
+
+“As you can see, neither item has any magic properties.” The woman said. “The diamond is worth about 3 platinum coins, if it can be removed from the holder.”
+
+“I... I don't understand.” Beholo said and tried to pour Mana into the wand and nothing happened. “I've used them. I really have!”
+
+“Filing a false report isn't a serious offence, so we are willing to overlook...” She stopped talking when Ren raised his hand and waved to her. “I suppose you want to speak?”
+
+“I do. Thank you.” Ren said. “Both of those items were what Beholo said they were, before I absorbed their contents and deactivated them.”
+
+“Why did you do that?”
+
+“It's a bit of a complicated story.” Ren said.
+
+“Well, then.” The woman said and waved him to step forward. “Take Beholo's place in the Circle of Testimony and we will hear your description of what happened.”
+
+Beholo stepped out of the circle and held both items as if they were toxic or something, and Ren put a hand on his shoulder.
+
+“I'll fix them when we leave the building.” Ren said.
+
+Beholo nodded slightly and moved back to stand where he had been before. Ren stepped into the circle and felt a shiver of Mana flow over him. The circle glowed brightly and all of the investigators sat up straight in their chairs and looked down at the floor, as did everyone else, and Ren felt their surprise.
+
+“What... how...” The woman in the center spot whispered.
+
+“What is it?” Ren asked and looked down. He tried to use identify on it, and all the popup showed was 'floor'.
+
+“It's... can you tell us what happened?” She said instead.
+
+“Where should I start?”
+
+“Within the circle, it is best to start at the beginning.” One of the other investigators said. “Tell us how you discovered the caravan.”
+
+Ren wasn't sure what was going on, or why they were so surprised at the glowing floor. He knew that now wasn't the time to ask those questions, so he started to tell them the story instead. As he talked, he kept casting Full Illusion and played the appropriate scene on the wall display. Unlike the others that had spoken, he felt that leaving out details or skipping things would be a bad idea, so he told them and showed them everything.

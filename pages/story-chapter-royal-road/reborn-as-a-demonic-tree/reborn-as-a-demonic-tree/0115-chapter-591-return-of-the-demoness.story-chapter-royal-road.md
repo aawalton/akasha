@@ -1,0 +1,209 @@
+---
+id: e72d81b3-9c9c-5a44-98ee-3424f88e91a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 591: Return of the Demoness"
+slug: 0115-chapter-591-return-of-the-demoness
+partOf: reborn-as-a-demonic-tree
+position: 115
+ownLength: 2868
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3681907/chapter-591-return-of-the-demoness"
+royalRoadId: "3681907"
+---
+
+Diana walked out of the Eternal Realm's fog to notable silence.
+
+She waited a moment in the cave for Thanatos to appear, to welcome her back from her grueling time in the Eternal Realm and to congratulate her for accomplishing everything she had set out to achieve.
+
+But the cave remained deathly silent for an uncomfortable moment longer.
+
+Her excitement shifted into worry.
+
+"That's strange," Diana mused as she strode forward, the mist naturally condensing on the floor before her as if it were a swirling carpet laid out for an empress. "Where is everyone?"
+
+She understood if Stella and the other Grand Elders were busy. Ashlock, too, as he was the overlord of many cities and was waging a history-defining war. Still, a part of her had dreaded returning, as she had expected a group of accountants or assistants to ambush her with months of unsigned paperwork.
+
+Yet nobody was here.
+
+Stepping out further and clearing the cave entrance, her attention snapped to the sky. Ashlock's ever-oppressive presence within his Inner World felt oddly distant, yet the sky coiled with immense rage and bloodlust she thought impossible. Streams of divine energy streaked chaotically through the air and sky, as desolation Qi seemed to bleed into the beyond faster than it was being replenished. Even a clueless mortal could tell that this Inner World was on the brink of collapse from the cracks forming.
+
+Diana's qualms at not being greeted vanished in an instant, replaced with panic. Whatever had happened in her absence had sent Ashlock into an uncontrollable rage, and he was expending enough Qi to bring an empire to ruin. The war had likely reached a breaking point.
+
+"Let's find out what's going on." Diana raised her hand, and with a rolling pulse of power, the water moisture that was ever present in the air condensed ever so slightly into mist. It expanded outward upon her order until it reached Stella's house, where she sensed the presence of multiple people residing inside.
+
+In the back of her mind, the mist offered her a projection of what was happening inside. None of them seemed to notice her spying as they continued their panicked conversation.
+
+Elaine, her children, and Jasmine are there. The children are scared, while Elaine and Jasmine are standing over a map and shouting into communication jades. I should go and speak with them first.
+
+Diana didn't hesitate. Flying over would be fast, but she had a better way to move now that she was the inheritor of the Ravena Clan. She allowed her body to disperse into the mist. While she had practiced it in Hell, this was the first time she was doing it inside someone else's Inner World. She felt it try to resist her, but as a Monarch, her superiority over the mist was absolute.
+
+After a few seconds, her body had dispersed into the mist around her, only to recondense a moment later at the door to Stella's home. She felt Elaine and Jasmine both startle as her presence materialized. She clicked the door open and stepped inside, her massive raven wings collapsing into mist in her wake.
+
+"Diana?!" Elaine's eyes were wide as if she had seen a ghost. "You're back."
+
+She dropped the communication jade onto the table with a clatter and half-stumbled around its edge, relief breaking across her tired face like sunrise. "I can't believe you're back. I thought the Ashfallen Sect was doomed, but with you here, we might have a chance!"
+
+Diana was taken aback by the sheer emotion and passion in Elaine as she caught Diana's hand in both of her own and pulled her toward the table before Diana could even answer.
+
+"What do you mean we are doomed?" Diana asked, letting herself be tugged along. While the Celestial Empire was a significant threat, the Ashfallen Sect had been rapidly growing in power, and Ashlock had demonstrated time and time again his heaven-defying capabilities. The idea that they could be doomed was laughable to her.
+
+The map came into view, and Diana's eyes narrowed at the detail that had been lacking from her mist projection.
+
+It was a full layout of their surroundings—every city and mountain peak under the Ashfallen Sect was marked, ethereal root routes drawn between them, and little colored stones scattered across the terrain in loose clusters. Brown ones on their side of the map. Red ones encircling a few of the cities like crescent moons of blood, originating from the Celestial Empire.
+
+Red vastly outnumbered brown.
+
+"The Empire is attacking us with their fleet?" Diana guessed.
+
+Elaine sharply nodded. "Argentum is already ablaze, and Desolark City is holding for now, but the walls and shields will falter soon. Once these outer cities fall, the hundreds of airships will have a clear path toward Darklight City, Ashfallen City, and Red Vine Peak."
+
+One look at the map and the sheer number of red stones let Diana conceptualize just how terrible that would play out. Desolark City had been the old capital city of the Blood Lotus Sect and still had all the defensive formations a city of that size and power required. Meanwhile, Darklight City was large but relied heavily on the Ashfallen Sect for protection. It didn't have walls, formations, or an airship fleet to speak of.
+
+It would burn.
+
+"What is Ashlock doing about it?" Diana asked, frowning as the map didn't make sense. Too many of the brown stones were still deep inside their territory rather than on the front lines defending the cities that were apparently falling. Only one large brown stone was at Argentum, while the rest were diverting toward Desolark City.
+
+"While the Patriarch correctly predicted the appearance of the Empire airships, he's preoccupied with the Celestial Empire and appears to have abandoned the cities to their fates," Elaine said and hurridly added, "not that I blame him, I mean he seems at his limit already..." she then seemed to study Diana's face for a moment, as if debating how to break some terrible news.
+
+"Spit it out," Diana said. "What is really going on to send Ashlock into such a rage?"
+
+"Master got captured by the Chairman's ancestor! The Crowned One took her!"
+
+The words came out of Jasmine's mouth rather than Elaine's in a single burst, as if she'd been holding them behind her teeth since Diana walked through the door.
+
+Diana froze.
+
+For a long moment, the mist swirling around her and betraying her unease paused mid-air. The whole room went eerily still as the air itself held its shape. Diana slowly turned to Jasmine, immense dread settling into her very soul.
+
+"What did you say?"
+
+"We don't know specifically what happened," Jasmine said quickly, the words tumbling out now that the dam had broken. "But the Crowned One took her somewhere. Nobody can reach her. But she's alive! I can feel it through our link. It's faint, but it's there."
+
+"What else do you know?"
+
+"We barely know anything," Elaine cut in. "Jasmine learned what she could by whispering to the trees, but Ashlock's offspring in Floridawn are in disarray from the collapse of the rift to the abyss. Elysia headed to the ball alongside Kaida, Larry, Magnus, and more to fight with the Monarchs there..."
+
+Elaine's words were like static to her ears. Diana just stared ahead at the wall as the world faded around her.
+
+Ever since she had been told that Ashlock was the Origin of Rebirth and that the Crestfallen Bloodline descended from the Origin of Destruction, the fate of reality had weighed heavily on her mind. According to her ancestors, the Origin of Rebirth's job was to reset the nine realms when Heaven's hand got too heavy. However, such a feat was only possible with the help of the Origin of Destruction, or a descendant like Stella Crestfallen.
+
+Diana had explained that Ashlock and Stella were somewhat good people and could be reasoned with. This was one of the reasons she had received the inheritance, as the Origin of the Mist desired freedom from hell.
+
+A clearly selfish goal that was uncaring for the fate of the nine layers of creation above it.
+
+Diana had accepted the inheritance with the promise to convince Stella and Ashlock to free the Origin of the Mist, but she didn't know what the collapse of the nine realms looked like. Did trillions die? Did anything even survive besides the Origins? She didn't know, and that had scared her.
+
+Yet, learning that the Crowned One had seized Stella had shocked her out of her dark dreams of the future. Whatever the collapse of reality as she knew it entailed didn't matter. It would never matter—getting Stella back and winning this war did. The Crestfallen bloodline could not fall to the Crowned One, no matter what. If the nine realms were to fall either way, she wanted it to be Ashlock and Stella that achieved it.
+
+Diana refocused on Elaine, who was still talking. "Elaine."
+
+"Y—Yes?" Elaine was startled by her sudden shift in mood.
+
+"Hold that thought."
+
+Elaine frowned. "Diana—?"
+
+But Diana had already dispersed into her Inner World.
+
+The Mist Abyss opened around her.
+
+No floor. No ceiling. No horizon. A boundless, lightless expanse of deep-blue demonic mist that her awareness drifted through the way a body drifts through warm water. Suspended in that mist all around her were silhouettes—a hundred at least, drifting motionless at varying distances like paintings hung in an endless gallery. Each one was a person she had interacted with in the past and unknowingly marked.
+
+She swept her attention across them.
+
+Some were close by, such as Elaine and Jasmine. They were bright and solid in this mist dimension, only an arm's length away. Meanwhile, Hazel and Talon were small and flickering, their silhouettes blurred because of how weak their cultivation still was.
+
+Diana looked up at Ashlock. His silhouette was so enormous it blotted out a quarter of the abyss, wreathed in a shroud of turbulent desolation she didn't dare press against for fear it would eat away at her Inner World. "Where are you, Stella?" she murmured as she scanned the silhouettes.
+
+All of them were far out of her mist's current reach, so she couldn't peer into what they were doing as she had done with Elaine and Jasmine. What she could infer was who each silhouette was and, by their proximity, who was with whom.
+
+As Elaine had mentioned, most of the Grand Elders and powerhouses of the Ashfallen Sect were clumped together in what she assumed was the Celestial Empire: Kaida, Larry, Magnus, and more. She switched focus and found Douglas and Zephyrine together a bit closer, likely near one of the cities under attack. But no matter where she looked, she couldn't find the person she sought.
+
+Stella.
+
+There were two likely explanations for her absence. Firstly, her Phantom Veil Amulet shielded her from all detection. Secondly, wherever the Crowned One had taken her was beyond the mist's reach. She furiously searched for a little longer before conceding. Her best friend was beyond her reach.
+
+Diana allowed her body to coalesce back out of the Mist Abyss in the exact spot she'd dispersed from, startling Elaine.
+
+"How do you keep doing that?" Elaine said, clutching her heart.
+
+"I'm a mist demon," Diana said, forcing a grin to lighten the mood. "I just tried to reach Stella and failed. Which means I need to figure out where I am needed and join the battle." She looked up at Elaine. "Tell me, Commander, where do you think I should go?"
+
+Elaine straightened at the title, the tired professionalism snapping back into place. She grabbed a pointing stick from the side of the table and tapped it against the mountain labeled Red Vine Peak in the middle of the map. Illusion Qi rippled out, giving life to the map and adding far more details.
+
+"The Patriarch's focus on the Celestial Empire has exposed just how much we relied on him for traversing our lands," she began, and then added quickly, "not that I blame him for being absent. One look out the window tells you how much strain he's already under, dealing with one problem and trying to get his daughter back."
+
+She traced the stick outward, toward the cities.
+
+"But without his portals, our airships take significant time to react to threats, and the Bastions beside Geb are hard to command. We've lost our only real advantage, and evacuations are a logistical nightmare because the ethereal root network is choked with desolation and bloodlust. Anyone who has tried to use it has withered to dust. On top of that, like any sect, we rely on our heavy hitters for defense." She tapped the red cluster to the south, "all of whom are currently in the Celestial Empire."
+
+She drew the stick back and gestured at the whole map.
+
+"Which leaves our own lands severely undefended, vulnerable, and our airships without any of the advantages they once had."
+
+Her stick paused over the map, and she looked up at Diana.
+
+She tapped Argentum.
+
+"I don't know what's happening in that ballroom. And going by the Patriarch's strain, I don't think they would miss your assistance." Her jaw tightened. "But I'll selfishly beg you, please help Douglas and Zephyrine. They're heavily outnumbered. The flagship has a Monarch Realm spirit tree, and Zephyrine herself is a Monarch, but they're going up against an unknown number of Monarchs and hundreds of airships. Not only is the fall of these outer cities likely inevitable, but... Douglas might die fighting for his boss or to save the Mudcloaks."
+
+The words left her mouth as a pained whisper, as if the very idea of it hurt her.
+
+Diana looked at the map and considered it. While saving Stella was her top priority, she could trust Ashlock to handle that. She had worked too hard for too long to expand the Ashfallen Sect and its enterprises to allow the Celestial Empire to come in and burn it all to the ground.
+
+"Please," Elaine whispered, and suddenly bowed deeply.
+
+Diana caught her shoulder before she kissed the table. "Grand Elders of the Ashfallen Sect have no need to bow to one another." She straightened Elaine and smiled. "Keep your head up, Grand Elder Elaine. I've made my decision."
+
+Tears shimmered in the corner of Elaine's eyes as she awaited her verdict.
+
+"I will go and help Douglas," Diana said resolutely. "I want to wipe out the Celestial Empire scum, and then make my way to the Celestial Empire if the battle is still ongoing."
+
+The relief in Elaine's eyes was infectious. She lunged forward and embraced Diana in the tightest hug she had ever endured, making her almost fall back onto the couch. "Thank you, Diana, thank you," she repeated over and over.
+
+Diana patted her back, not knowing what else to do.
+
+"Yush! Let's save Daddy!" Hazel declared, standing on the sofa and raising her tiny fist mightily in the air. "I fight!"
+
+Elaine laughed and pulled away, freeing Diana from the embrace.
+
+"No, my adorable Hazel," she said, scooping Hazel into her arms. "Grand Elder Diana here is going to save him."
+
+Diana felt a tap on her leg and looked down. It was Talon. He said nothing, simply giving her an approving nod. What a weird kid.
+
+"If you leave now, you might reach Argentum by sunrise and in the nick of time to save all of Argentum from being smothered in flames," Elaine said.
+
+"No need," Diana shook her head. "There's a faster method."
+
+Elaine was clearly curious.
+
+"I'm the inheritor of an Archdemon now," Diana explained with a grin, "which means I can be summoned like one. All Douglas has to do is utter my true name, and I can answer his call."
+
+Elaine quickly picked up the communication jade she had dropped earlier with her free hand and called Douglas. He picked up after a long pause.
+
+"What?" he said hurriedly, his voice crackling as if there were interference. "Geb is under assault by two Monarchs, and one of the Silverspire Elders just went supernova to disrupt one of their domains for a few minutes. How are you and the kids? Any success getting a hold of the Boss?"
+
+"No, but I've found you reinforcements."
+
+"Really?" Douglas sounded desperate. "Who?"
+
+"An Archdemon," Elaine smiled, passing Diana the communication jade.
+
+Diana accepted it. "Hello, Douglas."
+
+There was a pause, then Douglas's voice roared through the jade.
+
+"Diana?! You're back?"
+
+"I am, and I want to say hello to you and Zephyrine," Diana said, pausing. "Have you ever summoned a demon before?"
+
+Douglas chuckled. "Can't say that I have, but I'd sell my soul to a demon if it means I could get through this."
+
+"Hey!" Elaine shouted. "No selling your soul to any demons."
+
+Diana rolled her eyes. "I don't need your soul, Douglas, but I do need you to summon me. Now, inviting an Archdemon to your side isn't exactly a heaven-sanctioned thing, so this will get messy. Are you ready?"
+
+"Ready as I'll ever be," Douglas replied.
+
+"Good. Then listen closely..."

@@ -1,0 +1,245 @@
+---
+id: d3adf7bc-7f36-5d6d-ba98-be4596c7caae
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 368"
+slug: 0066-the-path-of-ascension-chapter-368
+partOf: the-path-of-ascension
+position: 66
+ownLength: 4726
+unit: words
+ownProgress: 4726
+publishedAt: 2024-11-29
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1931055/the-path-of-ascension-chapter-368"
+royalRoadId: "1931055"
+markedReadAt: "2026-06-29T19:19:54.277Z"
+---
+
+Chapter 368
+
+Stepping out of the portal, Matt let out a deep breath.
+
+That was less than ideal. They— no, he— had fucked up, but the only thing he could do was to try not to do it again.
+
+Checking his calendar, Matt found that Cato had cleared some of his more immediate tasks, which gave him a few days before he and Liz needed to go check in on the worlds they had received in the last decade while they were away.
+
+Their duchy had gone from a handful of planets to over a hundred, and they needed to follow up on the planets, their conditions, and how each noble they had put in charge was doing.
+
+They could have just relied on their viscounts, counts, and marquess’s for such information but the point of touring their realm was to establish better connection with their nobles as well as familiarize themselves with their lands and that was best done going there themselves.
+
+Still, checking in on others after their own failures felt like the largest, most hypocritical thing Matt could do at a time like this, but he tried to push those feelings away and focus on the task at hand.
+
+After a brief check in with Titan’s Torch, Matt and Liz boarded their gift for finishing the Path, the Horizon class cruise ship and set off. Instead of letting themselves wallow in pity during their transit time, he and Liz sat down together and started going over practice scenarios and how they would solve them.
+
+Some were as simple as a baron under their rule murdering a town for no reason, while others were far more complicated, like one of their baronies becoming the battleground for two Tier 45 businesses originating from the world that were trying their best to kick each other out. Both were incredibly unlikely historical events, but they had happened, so he tried his best to work out how he’d solve them. He didn’t want to copy the historical path for either incident, as they were at least partially infamous for how badly they had been handled.
+
+Other scenarios were far more likely, such as a lower ranking noble flouting their orders or old feuds between lesser noble families flaring up. In theory, neither of those situations should have happened in a newly created duchy, but it inevitably happened as factions were created or old grudges from the nobles’ previous holdings surfaced.
+
+With their higher-than-average proportion of meritocratically promoted nobles, both the hereditary and non-hereditary types, could either act as a mediating force in their duchy, or they would be a reactive element causing problems but they wouldn't know until it happened.
+
+Before the Soerilia fiasco, Matt felt like they could easily handle any such issues, but he was forced to realize that he couldn't, or at least shouldn't, punch every problem he encountered.
+
+While a lot of the problems were fairly binary with obviously correct solutions, he and Liz got some experience thinking through issues they wouldn’t normally encounter. Hopefully with some experience, even the simulated kind, they could react better should they run into any similar problems.
+
+That wasn’t the only thing they did on the trip, though they were far too busy for relaxed activities. No, most of their free time was spent on catching up on the paperwork they hadn’t done in the last month. Thankfully, by the time they arrived at the Tier 5 world, Talvetcia, they had mostly caught up on their work which allowed them to fully focus on their inspections.
+
+Baron Garth Leeds met their ship in orbit with his family floating behind him.
+
+They were a new noble family raised from the masses thanks to Garth's work at Viscountess Alergia Vaso’s court as an aide. Thanks to nearly five thousand years of dedicated service, he had finally been given his own lands. And from their brief earlier meeting when he had passed through Lilly, the man was incredibly grateful he had been given a world at all.
+
+His wife and son were immortals, though Matt could feel that their cores were light and airy from cultivating ambient essence without bothering to compact things to the same level as rift monster essence.
+
+After going through the typical greetings from vassal to liege, Matt and Liz were led along on a tour of the former Republic world that Baron Leeds had taken control of.
+
+Talvetcia was, thankfully, a non-veil world, and while Matt expected the world to be completely alien from the veil world, the differences were more subtle.
+
+Cities had the habit of being more sprawling than the Empire preferred, though that might have been a feature of the world's large population.
+
+From the reports, it had come with one and a half billion new citizens, which was more than an Empire world of comparable Tier would have.
+
+With half an ear, Matt listened as Baron Leeds described the issues he had run into and what he had done to correct them.
+
+Most problems were trivial and mostly pertained to changes in policy that the residents were resistant to, but a few were larger, such as the general population's disgruntlement with non-elected leaders.
+
+Baron Leeds had authorized more governors to be elected, trying to ensure the local population felt they had a voice, but when that had only mollified them for a short time, he had been forced to take harsher measures.
+
+The Baron wasn’t too worried about it as, like with most worlds, mortal sentiments had a simple solution— wait it out. Those who were most resistant to change were typically older, and the children born under the rule of the Empire were typically more inline with Empire sensibilities. Thus, in a few generations the population would be right where they wanted it and they could avoid more draconian measures.
+
+Not that Talvetcia was that bad.
+
+Matt had looked up other failed integrations on their travels, and despite his fears, Soerilia wasn’t anywhere near the worst integrations. If Soerilia didn’t register, Talvetcia surely didn't. He assured Garth of that fact, letting the man know that issues and friction were the norm.
+
+What did surprise him was that two out of the top five worst recent integrations had come from Republic worlds, so he had done some digging.
+
+It wasn’t that Republic world integrations usually went bad. In fact, especially during the reign of the Sophron dynasty, they typically went rather well. But when they went poorly, they almost always went really poorly.
+
+Matt found a dozen reports on the subject that drew twelve different conclusions, but the first one he pulled up seemed the most plausible to him. Simply put, because the Republic and Sophron Empire were so similar, the few incompatibilities tended to hold a lot of sparking power. It was a lot easier for unrest to coalesce around a few very obvious pain points than for anyone to agree on a general sense of total upheaval. So when, say, a very prominent and well-liked personality was punished for doing something that was illegal in the Empire, but was legal in the Republic, it had the possibility to make a lot of people very mad.
+
+On the bright side, Soerilia was in one piece and the sun hadn’t been extinguished, which helped put into perspective just how bad things could get.
+
+Still, Matt was gratified to see that things were going well. After spending most of a day on a guided tour, he and Liz left.
+
+Their next stop was one Matt had been looking forward to quite a bit. Thanks to a quirk of Corporations tax law regarding property taxes, space-based architecture was a lot more common in their worlds. Their planets usually served as a combination of heavy industry hub and pseudo nature preserve, and that only grew more pronounced at higher Tiers. It was something to do with how tax rates were based primarily on the raw land-value of planetary space at the time of purchase, so as planets increased in Tier, high tax rates pushed people off planetary soil and into the megastructures that used little-to-no planetary space.
+
+The result was that Tier 8 or higher Corporations worlds tended to have expansive space stations, including, but not limited to, full orbital rings and Oneil cylinders.
+
+Ixtal, being a Tier 11 world, had a somewhat barebones orbital ring, but the moment they entered the world's real space, it was the first thing he noticed.
+
+A Tier 11 world would typically only be a viscount level title, but Matt and Liz had made an exception at the request of the Emperor for Countess Heidi Walsh. Much like Matt, she had been raised in an orphanage and worked her way up from a job at an inn. Unlike Matt, her parents weren’t dead, though. Well, they might have been by now. Whoever her mother had been had dropped her off at an orphanage when she was an infant, and Matt wasn’t sure if that was better or worse than his own story.
+
+Regardless, instead of joining the Path like Matt had, or starting a delving career like he had wanted to do, she had instead continued working for the inn, leveraging her natural leadership skills until she was practically running the place. She scrimped and saved until she, at only 22 years old, was in a position to buy the business from the old owner when they wanted to retire.
+
+By the time she was 30, Countess Walsh had a chain of hotels, hostels, and short-term apartments under her control, but she had never started cultivating seriously. Using her vast, if low-Tier fortune, she paid to be carried through rifts until she was 40 and had reached the Tier cap of her world, Tier 5. Instead of just continuing as a local magnate, she had sold her holdings to buy a new location on a Tier 9 world, where she repeated the process.
+
+As a Tier 14, she had caught the attention of her local noble who had gotten her a shard of reality, allowing her to form a true Concept in exchange for acting as their Minister of Finance.
+
+Seemingly unable to underperform, Countess Walsh had tripled the baron’s wealth in a short century while stabilizing the economy, which caught the attention of that baron’s countess liege.
+
+After bouncing between noble families, she eventually earned her own barony, and through time and a vast amount of resources, nurtured the originally Tier 3 world into a Tier 9 one. A self-made viscountess was a rarity, but such things did happen and were a method the Empire used to encourage nobles to actually invest into their planets. It was just rare for people to be as successful as she had been, or as fast in developing a world without serious issues cropping up.
+
+Her promotion when transferring to Matt and Liz’s duchy wasn’t because of them, though Matt greatly admired someone so similar but different to himself, but rather a reward from the Emperor himself after Countess Walsh had taken over a supply outpost during the war and kept it running through both material deficits and enemy attacks.
+
+When for her reward she had asked to take ownership of the highest-Tier Corporations world, no one had denied her. He and Liz had accepted with the provision that she would need to get the planet's Tier to an appropriate level as soon as feasibly possible.
+
+It wasn’t a strict rule, but a fiefdom's Tier was typically correlated to the planets Tier, and Tier 15 planets were typically the lowest Tier given to count titles.
+
+Countess Walsh met them alone with a beaming smile and a deep bow. “I pay my respects to my Lord and my Lady and humbly welcome you to Mythena.”
+
+Matt raised an eyebrow at the old word for prosperity, but didn’t comment on Countess Walsh renaming her world. It wasn’t commonly done, but such a decision was fully at the discretion of the ruling noble, and neither he nor Liz cared.
+
+“How are you settling in? Are you running into issues or things you’d like help with, or is there anything you feel the need to report directly to us?”
+
+Countess Walsh shook her head and positively beamed at him. “It has been most exhilarating to pit my acumen against the corporations that chose to remain, but there have been no issues.”
+
+With a deep sigh, she added, “It has been everything I could have hoped for and more.”
+
+Matt exchanged a look with Liz and they gave Countess Walsh a moment to collect herself before Liz asked, “That’s good to hear. We weren't at war with the Corporations, but has that eased the integration?”
+
+Countess Walsh shook her head. “I don’t believe that it has had any appreciable change. Everyone, or rather anyone with power in Mythena, understands that they were transferred to the newest Ascenders’ domain and are treating it like the opportunity it is. Give me another century, and we will be the envy of the duchy.”
+
+Turning to Matt, Countess Walsh bowed slightly. “Speaking of business opportunities, my Lord, I put together a proposal for the duchy to take your aura potions and turn them into an export. I hope you can look it ove—”
+
+Receiving the packet, Matt increased his perception to the max and reviewed the document. He had learned his lesson about skimming such things, and made a thorough pass before lowering his perception to a typical Tier 20.
+
+Countess Walsh had put together a general plan for how to make their duchy an exporter of aura potions via a round of tax breaks, incentives, and deals with shipping companies who might be interested in bulk freight to and from the capital worlds.
+
+It was ambitious. More ambitious than Matt would have proposed, but he liked the general flavor of the idea.
+
+Even after a decade of progress, the Empire hadn’t fully embraced the aura potions like he had hoped, and on higher-Tier worlds, aura potions were still basically impossible to get, as they were gone the moment they were restocked.
+
+Given a few thousand, possibly ten or twenty thousand years, Matt was sure things would stabilize, but this opened up other opportunities.
+
+What if they expanded the rifts and rift products of his and Liz’s duchy to rare rifts like [Bandage], [Healing Touch], [Ranged Heal], [Endurance], or any of the other rare or in-demand Tier 8 and Tier 14 rifts?
+
+Titan’s Torch hadn’t cracked the code quite yet, but two teams were working on making Tier 8 skill rifts without so many failures, and they could make a Tier 8 [Bandage] rift about one out of sixty times thanks to some refinements in rift stabilization.
+
+That was still expensive, but for a rare skill like [Bandage], it could be worth it to create a few. The Tier 14 healing spells were harder and far more expensive in material costs, as a failure meant the loss of far more valuable skill shards, but if the teams kept up the work, they might be able to get the odds down to something reasonable in the next few hundred years.
+
+Such custom rifts could tie in well to Countess Walsh’s idea for exports of aura potions. They might also attract delvers that wanted the rewards, but didn’t want to or didn’t have the ability to directly purchase them.
+
+Not that Matt was about to accept right here and now, but he liked what he was seeing both from the plan and Countess Walsh herself.
+
+It would also give him and Liz a bargaining chip for their upcoming ducal gathering. No one would truly expect them to have something to export, but having something valuable but not exclusive might put them in a good position.
+
+Not an amazing one that might draw jealousy, but a good one. And anyone who saw their success and coveted their profits could copy their actions, making aura potions easier to buy for the common man.
+
+That in and of itself was a good enough reason for Matt.
+
+“An interesting proposal that I will look over in more detail later Countess Walsh, but I like what I saw on a brief skim. Tell us about Mythena.”
+
+Matt should have expected it, but he had to force himself to pay attention when Countess Walsh immediately launched into an explanation of how the change in her world's chaotic space location had broken all of the previous supply deals the local businesses had, and while she had facilitated quick replacements, the deals weren’t nearly as favorable as they could have been with the shipping companies holding most of the cards.
+
+Phoenix Liz shoved her head under a wing, which nearly caused Matt to laugh, but he managed to contain himself through an effort of will.
+
+Countess Walsh thankfully turned the topic to something far more interesting. “I was hoping for support in keeping most of my population in orbit and to finish the orbital ring. Most of the hard work is done and I—”
+
+“Agreed.” Liz accepted her proposal before Matt could. “We actually intended to ask if you would be willing to do exactly that. Even beyond how much Matt loves impractical infrastructure projects and wants to research rift development in offworld environments, we want to try some of the Corporations’ methods for Tiering up planets. See if they might be viable and worthy of replication on a larger scale.”
+
+Countess Walsh positively beamed at the acceptance. “Wonderful. If there is anything you would like to test I will of course be willing to assist any way I can. I can even set aside one of the completed sections for an outpost of your guild my Lord.”
+
+Instead of denying, Matt just nodded. “If you can prepare the facilities, I can have a team moved over in the next decade. Now, tell me about the orbital ring. Are the people who live on it disadvantaged without access to rifts?”
+
+Countess Walsh’s happy countenance mellowed noticeably. “Not at this point, but I can see where issues likely will arise. Companies and immortals are the only ones who could afford the taxes of surface living, and transportation to and from the planetary surface isn’t expensive, but it does serve as an additional hurdle for either onworld delving or transportation to lower-Tier neighbors. Now, of course, with the integration, lots of people are trying to buy up land on the surface in preparation for normal Empire tax codes, and the most successful are… flaunting it. I had a few plans to work around them, and with your support in maintaining the ringworld, new plans have presented themselves. Likewise, the local Oniel cylinders produce plenty of food for all inhabitants, and even something of a surplus, but without trade routes, we’re not able to really benefit from that.”
+
+Matt spread his spiritual perception until he found the giant cylinders in space. A little more than a thousand miles in diameter and five thousand miles long, the cylinders were massive and entirely dedicated to growing crops with mostly automated systems.
+
+He was able to identify most of the things growing, but a few of the items he needed his [AI] to tell him what they were or why they were valuable enough to grow.
+
+Silver pumpkins were a delicacy in the Corporations, but the dishes it was used in weren’t that popular in the Empire, with most people considering the salty and yeasty flavor unpalatable.
+
+Rainbow apples were popular commodities in high-end restaurants thanks to their ability to be infused with other flavors and magnify the tastes.
+
+He had never heard of some of the other ingredients, like a strand of wheat that had all the vitamins and nutrients that a mortal needed. The Corporations apparently used the bread it made to create a cheap but nutritious food for those who couldn’t afford anything more luxurious.
+
+Matt didn’t want to just get rid of the wheat, but he couldn’t see the bland bread it made catching on in the Empire thanks to the control over food prices ensuring that a variety of food was available to every citizen at a minimum cost. That meant there was a lot of wheat that was going to end up without someone to buy it, which felt like a waste for such an incredible food product.
+
+A quick search told him that most other nobles who got the wheat simply replaced it, but a few had made some headway reducing the bland taste by mixing the grain with others and changing the recipes used. Those places had some success in making the bread popular as a way to ensure nutrition, but the main use for the bread seemed to be as a sort of travel ration for medium-Tier delvers who still needed to eat, but had delves longer than could be completed in a few hours.
+
+That had some merit, but Matt felt like there was something staring him in the face but he couldn't see it.
+
+He did place an order for a few crates of all of the exotic foodstuffs to be delivered to their cruise ship. It had a team of chefs and he wanted to see what they could do with the dishes.
+
+The orbital ring was a marvel, and Matt enjoyed a few moments scanning it with his spiritual perception to understand it.
+
+Seeing one in person, even one that only had a few sections built out and livable, Matt wanted to create one of his own for their capital. It felt like a bold statement about just what people could do when they put their minds to it, to do things in ways that even a created planet couldn't match.
+
+Though, he’d never do so without having a good reason for one, which he didn’t have. Orbital rings like that were expensive, but it was a fun thought.
+
+What was less fun was the interruption at the next stop.
+
+Cato’s message rerouted them, and there Matt found an irritated looking Tier 40 Federation man sneering at their arrival.
+
+He didn’t attack them or do anything that could be considered hostile, but he did rudely look at Cato and ask, “Can I leave now?”
+
+Matt probed the world that was only tethered to a single nearby world instead of the three that should have locked it in place. Even that single tether was thin and clearly not the full lock down.
+
+As his spiritual perception reached the planet, Matt stiffened. Liz, however, rippled and in unison they both looked to the Tier 40.
+
+“What did you do?” Matt knew he was growling at someone many times stronger than him, but he didn’t care.
+
+The planet that should have had millions of people was empty.
+
+It was like someone had deliberately removed the top fifty feet of all the surface of the planet, leaving nothing but barren rock and loose soil. Beyond that, someone had gone through the effort of sterilizing the planet. Not even a single bacteria was left alive on the world, with animals larger than an ant just entirely missing, their bodies just gone with the topsoil.
+
+The delivery man laughed in their faces. “As per the treaty, the planet was selected and delivered. All the residents chose to take the offer to relocate, and that is all I have to say to mongrels like you.”
+
+His eyes were firmly locked on Liz as he said that, but before Matt could lash out, someone else did.
+
+A man wreathed in lightning, wind, and rain stepped out of nothing, his entrance punctuated by a ball of storm mana that flew out faster than anyone, even the Tier 40, could react.
+
+The Federation Tier 40 flew back as his chest was ravaged, but he didn’t die, which Matt couldn't help but think was a pity.
+
+But if Leon wanted to keep the man alive, he must have a reason.
+
+“This is breaki—”
+
+“You insulted my daughter, and my reprimand was well restrained. Would you prefer something unrestrained?”
+
+Instead of his typical goofy demeanor, Leon stood there like the Royal he was. He had an aura that demanded obedience and proclaimed itself the ruler of the turbulent storms that wiped out entire settlements.
+
+The Tier 40’s angry expression melted away to be replaced by a smug smile. “I will be informing Fir—”
+
+Leon cut him off by sending a hand of lightning at the man. As the mass of mana flew, it was so strong that it warped chaotic space and aspected the corrosive energies to a dark storm color.
+
+Magical hand clutching the man's throat, Leon looked at him like he was looking at a deadman. “I don’t need you to threaten me, pup. I will personally go pay Faith a visit after this. We accept your delivery of the world, now begone or remain forever.”
+
+The Tier 40 looked like he wanted to say something, but he clearly thought better of it as he turned and flew off into the swirling energies of chaotic space without so much as a sneer.
+
+Leon sighed, but didn’t drop out of his Royal demeanor. His tone did lighten a bit, though. “Hey kids. Sorry we are meeting up like this, but Manny sent me when he noticed the anomaly.”
+
+Liz looked to the floating ember next to them that was the connection to the world's real space. “What did they do and why?”
+
+“It’s a tactic to deal with high-Tier information gathering Talents. It rarely needs to be used, and the last time I can remember it being used was during Georgios’ time. Let's take a step back and add some context. You need to understand that the planets that are transferred in deals for Ascenders and the like aren’t entirely picked by the Great Powers themselves. That means places with important assets might be slated to transfer. Normally, that's not a big deal, just move them and hide it. But with, for example, Georgios’ Talent for past and future sight, that tactic suddenly doesn't work any more. They found that if they simply send a Tier 47 or higher to the world in question and cause enough destruction, they can create enough interference that most Talents for past sight can’t see anything past the destruction.”
+
+“And we have no idea what they want?” Matt gestured to the world next to them as he asked, but felt he already knew the answer.
+
+Leon shook his head. “It could have been for a single important person, there could have been a super secret research station here, or it could have been a rare resource in one of the rifts that they moved. Or, it could have just been to spite us and make us not look somewhere else, though that is unlikely. Once the planet is selected for transfer, they couldn’t fully destroy the world, but this is the next best thing. It is, though, considered very bad form, and I’ll be having a bit of a meeting with their First Leader Faith after this about proper inter-Great Power relations.”
+
+Matt was going to ask what Leon meant by that when his father-in-law clutched his storm wreathed fist, and the star system in the real space connected through the node exploded. Unimaginable power ripped and twisted reality itself apart until it destabilized and chaotic space poured in, destroying everything.
+
+Leon kept his fist clenched until the very node they were using to access that real space universe was destroyed.
+
+“We can never be sure that they didn’t do something else if they went through this much trouble, and Manny can’t check. Better to just not risk it.”
+
+Matt just took in Leon’s display of power in silent awe. It was hard to remember that his goofy father-in-law was one of the three strongest people in the Empire, and top 24 people in the Realm, until he did something overt like destroying a star system with a single clench of a fist.
+
+Turning to the two of them fully, Leon smiled, and Matt could see more of his father-in-law shine through. “Ok, I have a few hours before I need to go kick Faith's ass… I mean discuss proper planetary transfer procedures. Tell me about what went wrong.”

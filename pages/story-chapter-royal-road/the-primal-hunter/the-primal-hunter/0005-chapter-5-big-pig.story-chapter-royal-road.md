@@ -1,0 +1,183 @@
+---
+id: cd35e94e-2bc6-5942-b535-35781b5ce4ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5 - Big pig"
+slug: 0005-chapter-5-big-pig
+partOf: the-primal-hunter
+position: 5
+ownLength: 2805
+unit: words
+ownProgress: 2805
+publishedAt: 2020-09-22
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/558385/chapter-5-big-pig"
+royalRoadId: "558385"
+markedReadAt: "2026-06-29T19:29:24.595Z"
+---
+
+As Jake was still basking in the feeling of his level-ups and post-battle euphoria, he opened his status window. The reverie of his colleagues was of little interest to him, as while he enjoyed the victory, he didn’t exactly view it as some monumental achievement. They were overgrown rodents… badgers are rodents, right? Probably not. Moving on.
+
+Status
+
+Name: Jake Thayne
+
+Race: [Human (G) – lvl 1]
+
+Class: [Archer – lvl 2]
+
+Profession: N/A
+
+Health Points (HP): 130/130
+
+Mana Points (MP): 120/120
+
+Stamina: 111/130
+
+Stats
+
+Strength: 13
+
+Agility: 14
+
+Endurance: 13
+
+Vitality: 13
+
+Toughness: 11
+
+Wisdom: 12
+
+Intelligence: 12
+
+Perception: 18
+
+Willpower: 10
+
+Free points: 3
+
+Titles
+
+[Forerunner of the New World]
+
+Thinking back, he hadn’t opened the window since the introduction. Not even to confirm his class or title. And it sure had grown. His agility alone had nearly doubled with the title and levels added together, going from 8 to 14. With Perception being the stat increased by 2 points per archer level, it had grown by an entire 8 points. And he could feel it. Sounds were clearer, his vision sharper than ever, save for when he focused on using Archers Eye.
+
+It could be his imagination, but he felt like his perception was still increasing as he stood there, venting down. Either the new stats only applied their bonus gradually, or perhaps one simply needed time to get used to them. Got to experiment with it, he thought, as he smiled to himself.
+
+Stats were truly a weird thing. During the fight, he had moved faster and been stronger than ever before at the level of an athlete in peak form, at least. Yet it had all felt so natural that he hadn't even questioned it for a second. It was almost scary how easy it was to adapt to your body’s performance going through such huge changes.
+
+Deciding to write it off as system-magic, he dismissed the status screen, finally noticing that everyone was either staring at him or the dead badgers.
+
+“Thanks, Caroline,” Jacob said, as he gently pushed the now blushing Caroline away from him. Turning to the rest of them as he praised them. “Good job, everyone. Especially you, Jake.”
+
+Jacob seemed back to normal again, the same passive smile and glint in his eyes as before. The tension after the fight had left everyone by now. On a side-note, Jake had entirely ‘ruined’ their carefully made plan by killing half of the beasts before the fight even began. The only beneficial part of the plan still applicable being what to do with the corpses after. They needed a source of food, so… badger meat. Yay?
+
+Figuring out how to transport the badgers was a hassle, as no one wanted to pick up the dead and bloody animals. Especially not the one killed by Bertram and Theodore as it was a complete mess, filled with holes. They ended up only taking the two killed by Jake at the start of the fight, as they were the most whole. The carrying went to Ahmed, who felt bad for not contributing in the battle, and Dennis, who just seemed eager to help. No one even addressed or asked Jake to take anything. Not something he was going to complain about.
+
+As they walked forward, still looking for any source of water, Jake checked his quiver and took note that he was down to 54 arrows, having fired 6 in the previous fight. Focusing on the quiver, he once again identified it:
+
+[Enchanted Quiver (Common)] – A quiver enchanted with the ability to conjure [common] quality arrows when injected with mana.
+
+Now I just have to figure out how to inject something with mana, he said to himself… only to figure out four seconds later that injecting something with mana was way easier than he had anticipated. He just had to hold it in his hands, and then think really hard about doing it. It was almost instinctual.
+
+As the mana slowly left him, it felt a little weird, but not really uncomfortable. In the quiver, he saw arrows slowly appear, seemingly growing out of the sides of it. After half a minute or so, there were once again 60 arrows in the quiver. Trying to inject any more mana seemed to have no effect at all. Looking at his mana, he saw that he was down to 102/120.
+
+So, three mana per arrow. Got it. Damn, this would have been useful back in the day, he thought to himself while admiring the magical quiver, before adding, or not, as I didn’t have mana...
+
+He had considered recollecting the arrows, but there were several reasons not to. First of all, he would have to clean the arrows somehow before they were useful again. Secondly, their penetrative power would be reduced if already used once, if only by a little. Third... he could just magically conjure them. And if he started getting low on mana himself, he could just have one of the warriors fill it back up since they didn't use their mana for anything else.
+
+All of that was ignoring how time-consuming it would be to recollect the arrows when it only took seconds to conjure new ones.
+
+As they kept walking, Jake quickly ended up at the front, walking beside Bertram. Bertram seemed to hesitate about something, but eventually opened his mouth,
+
+“Jake… were you in the military or something? Or maybe you went hunting from time to time?” he eventually asked.
+
+Jake was a bit taken aback, not expecting that kind of question. “No to both. But I did a lot of archery when I was younger, and still practice when I visit the old folks back home. Why are you asking?”
+
+Jake was honestly confused. If he had to say so himself, he did decently in the last fight, but that was it.
+
+“I just thought you handled yourself so well back there, nothing more,” Bertram said, not pressing further. Though he didn’t seem like the answer satisfied him whatsoever.
+
+Jake nodded at him and turned his head forwards again, scanning the foliage. One thing he had noticed was the complete absence of insects or grubs or any of the smaller animals, really. There were birds up in the trees, but even they were all roughly the size of pigeons.
+
+No insects were good, though. Normal animals seem to have mutated, or perhaps become something else entirely. Imagining mutated mosquitoes, ticks, or spiders, he could easily see their entire group being wiped out without even knowing how they died.
+
+The forest was extremely dense and full of hills, fallen trees, and giant bushes, which made knowing what was 10 meters ahead of you an uphill task. This made them move rather slowly, barely keeping up a walking pace.
+
+After a couple more minutes of walking, Jake finally spotted some movement off to his left. He instantly poked Bertram in the side, who followed his line of sight, also seeing the rustling bush. Bertram lifted his arm, motioning the rest of the group to stop. Jake took the bow off his shoulder and took an arrow out of the quiver, nocking the arrow. Ready for whatever was in there.
+
+After a few moments, the bush stopped rustling, and everything went silent once more. As the seconds passed, everyone seemed to start relaxing. Everyone but Jake. His intuition told him there was still something in there.
+
+He focused and used Archer’s Eye, observing the bush very closely. He spotted light being reflected between the leaves, and without any hesitation, he loosed an arrow.
+
+A huge shriek was heard, and stumbling out came a small boar, no taller than up to their knees. After stumbling for a few steps, It fell on the ground, an arrow sticking out of its left eye.
+
+*You have slain [Boar-Beast – lvl 1] – Experience earned. 1 TP earned*
+
+Everything was once again silent as they stared at the dead pig. Jacob opened his mouth to say something but was interrupted by an even louder sound.
+
+“SQUEEEEAL!”
+
+A loud squeal sounded out, followed by the sound of stomping, causing the ground to vibrate slightly.
+
+“RUN!”
+
+Jake had no idea who had yelled, and he didn’t need to think twice before following the advice. He ran back and found his way around one of the larger trees. Without hesitation, he took out his knife and another arrow from his quiver and slammed them into the tree, penetrating easily.
+
+He started climbing as he registered the rest of his group, all running to hide behind the trees. Bertram was the only one still out in the open holding the rear. His shield aimed towards the direction of the stomping.
+
+Just as Jake was making rapid progress climbing up the tree, the bush where the small boar had come from earlier was torn apart. A massive boar, taller than even Bertram, the tallest member of their group, emerged.
+
+The boar completely ignored Bertram and the others and charged straight at the tree Jake was climbing. It smashed tusk-first into the tree, making it shake excessively. The impact made him lose his grip on the arrow, but he managed to hang on to the knife and avoid falling to what would most likely be certain death.
+
+As Jake stabilized himself by taking out another arrow and plunging it into the bark, the rest of the group just stood frozen gathered around another tree nearby with everyone just gawking at the huge beast. Finally, Jacob got his shit together and called for the casters and Casper to start shooting spells and arrows at the thing.
+
+The beast, completely ignoring the group of 9 preparing to engage, instead kept smashing its head into the tree while making loud squeals. A bad move by it in retrospect, as it allowed enough time for the humans to attack.
+
+Three bolts of mana, followed by a lone arrow shot into the boar’s side, finally making it take proper notice of the other humans. The mana bolts made small explosions as they smashed into it, leaving small holes and burnings its hide, while the arrow seemed unable to even penetrate the hide.
+
+The massive boar, now with new, far more reachable targets, started stomping towards the group. No one, not even Bertram, had any intentions of having a head-on test of strength with the thing, as they all started running behind the trees.
+
+This had the effect of making it unable to charge towards them, as it tried in vain to impale anyone. They kept dodging behind trees, making use of the beast’s inability to make tight turns and maneuver properly, buying time for Jake to climb up to a branch and secure a foothold.
+
+From his new vantage point, Jake started shooting arrows at it. Compared to the arrows fired by Casper, Jake's penetrated its thick hide and embedded themselves in the beast. Once more, it tried to charge him, but it only ended up smashing into the tree harmlessly again in its stupidity. Doing more damage to itself than anyone else.
+
+What followed was what seemed like ages of Jake shooting the boar, the casters firing mana bolts whenever possible. Meanwhile, the warriors tried to keep the beast’s attention on them by making loud noises and waving their hands and swords at it.
+
+It all seemed to be working rather well until they all heard a yelp. Jake saw that Joanna had fallen over something and was now lying prone on the ground, within mere meters of the boar. She appeared completely out of it from the fall and didn’t even look like she was trying to get up.
+
+The boar was stupid without a doubt, but it was at least smart enough to recognize a vulnerable prey when it saw one, as it instantly shifted its attention to her. Bertram tried running to help her without hesitation, but he was too far away and too slow as the beast charged Joanna.
+
+It didn’t even try to skewer her on its tusks, it simple charged over her. Its massive hoofs smashing down on the ground with every step. As it ran over her, a loud snap was heard, followed by Joanna screaming in pain.
+
+Before it could turn around and attack her again, Bertram finally reached it and stabbed his sword into its side, penetrating with nearly a third of his sword. The blow made it instantly change its focus to him as it apparently completed ignored the screaming woman.
+
+With a fast swipe of its head, it smashed its tusks into the heavy warrior sending him flying back and into a tree with a loud thud. Still leaving the sword stuck in the side. However, this entire sequence of events did allow Dennis to reach Joanna and start dragging her behind a tree.
+
+From his vantage point, as he continued bombarding the beast with arrows, Jake saw everything. Nothing to do about it, he thought as he kept up the assault. He should at least make use of the space created by the woman’s ineptitude.
+
+The beast was starting to look like a porcupine with all the arrows sticking out of it, and with the occasional mana bolt burning its flesh, the beast had started getting visibly slower in its movements. It huffed loudly, now staring red-eyed at Dennis, who was covered in Joanna’s blood.
+
+Before the beast could start another reckless charge, it was hit in the eye by another arrow fired by Jake. Attempting to grab another, Jake noticed his quiver was empty, as the beast charged the tree he was in once more. The blood was visibly pooling in the undergrowth, and the boar itself looked like it had been dipped in a bath of red paint. Another two mana bolts hit the boar in its hindquarters, and Casper was still firing arrows, though only dealing minor damage.
+
+The beast was on its last legs by now, and the warriors finally felt confident enough to go closer. All of them started stabbing it, save for Bertram, who had been knocked into the tree pretty hard earlier. He was still conscious but struggling to get back up.
+
+With a few more stabs, the warrior’s swords, and the continuous blood loss, made the beast finally fall.
+
+*You have slain [Irontusk Boar – lvl 10] – Bonus experience earned for killing an enemy above your level. Experience split with the rest of your party. 302 TP earned*
+
+*’DING!’ Class: [Archer] has reached level 3 – Stat points allocated, +1 free point*
+
+Jake felt the warm glow of the levels but decided that bothering with the notifications could wait. Jake jumped down from the tree and rushed to where Joanna was lying. Caroline was already with her using her healing magic. As he got closer, he was initially relieved that she was still alive, until he saw her lower body. One of the legs was completely ruined, while the other was missing entirely from the knee down. The massive weight of the boar having smashed it entirely into paste.
+
+“Use the healing potions too!” Ahmed yelled, taking out one of his and handing it to Dennis, supporting her head. He quickly uncorked the bottle and poured the red liquid into Joanna’s mouth.
+
+The effect was immediate as the smashed leg started rapidly healing, and Theodore quickly grabbed it and put it in a proper position, ignoring the screams from the former receptionist. The leg healed, but the situation on the dismembered one was less positive. While the wound did close, no new limb was regrown.
+
+Bertram slowly walked over, holding an empty bottle in his hand. Judging from his condition, he must have also consumed a healing potion. Joanna had lost consciousness, likely due to the pain, and the mood had turned even more somber than before. There was no post-victory celebration this time.
+
+“We need to move. This much blood is bound to attract something,” Ahmed said with a sigh. Dennis and Theodore decided to carry Joanna with one supporting each shoulder. The two badger corpses had both been dropped when the boar rushed at them, and quite frankly, no one felt like looking for them. That is if they hadn't been utterly trampled to pieces by the jeep-sized beast.
+
+As they started walking, Jake took his quiver in his hand and began conjuring more arrows in case another fight broke out. They couldn’t let a minor setback like this stop their hunt. There was still daylight left.
+
+Just as 4 arrows had been generated, Jacob and Caroline both slowed down and ended up walking beside him. Jake was confused about what they wanted when Jacob turned to him and looked him in the eyes.
+
+“…Why did you do that?”

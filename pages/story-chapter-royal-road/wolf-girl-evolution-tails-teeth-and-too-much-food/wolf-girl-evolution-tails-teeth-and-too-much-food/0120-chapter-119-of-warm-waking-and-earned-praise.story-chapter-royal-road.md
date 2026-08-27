@@ -1,0 +1,543 @@
+---
+id: 16967993-92c5-5b9f-aeb9-e2fafa70cfb1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 119: Of Warm Waking and Earned Praise"
+slug: 0120-chapter-119-of-warm-waking-and-earned-praise
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 120
+ownLength: 2652
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3273794/chapter-119-of-warm-waking-and-earned-praise"
+royalRoadId: "3273794"
+---
+
+PoV Luna
+
+Luna woke up slowly, and for a good while all she could feel was the gentle warmth and softness. A blanket was wrapped snugly around her, holding in the heat that pressed comfortably against her side.
+
+And just beyond that–
+
+Luna could feel another source of it, steady, safe, and familiar.
+
+Her nose twitched.
+
+The scent reached her before her thoughts did, calm and grounding. It made everything else fade for a moment.
+
+She drew in a deeper breath, letting it settle properly this time.
+
+Oh, it was her Second.
+
+Ehehe–
+
+Luna relaxed further into the bedding, the last bits of sleep slipping away as she stretched one leg out beneath the blanket, her paw pressing into the sheets while her claws flexed and eased again. The other leg followed, pushing in the opposite direction, and her back arched in a slow, full stretch that sent a light shiver down her spine.
+
+“Mrrhm!”
+
+The feeling lingered pleasantly, made even better by the gentle motion that never stopped.
+
+Fingers moved through her fur in slow, careful passes, smoothing along her back before drifting up to her head, where soft scritches settled behind her ear.
+
+Luna leaned into it without thinking, her body shifting closer as the touch guided her there.
+
+Everything felt… calm and pleasant.
+
+Comfortable.
+
+For once, there was no pull of hunger in the back of her mind. No need to move, no need to find something to eat right away. The fullness from the feast still lingered, warm and complete.
+
+That had been a very good idea.
+
+A genius idea!
+
+The bestest genius Luna had so far!
+
+Her brilliance–
+
+It was evolving to be ever more tastefully frightening!
+
+Yesh!
+
+Evolving her body, her thoughts, and now even food!
+
+Becoming stronger never felt quite so tasty!
+
+Very Apex Predator.
+
+Her tail gave a slow, pleased wag beneath the blanket as she considered it.
+
+The scritches returned to her head, a little more focused this time, and Luna shifted again, pressing closer until she was properly tucked against her Second. The warmth, the scent, and the steady motion of those careful touches blended together into something that felt complete.
+
+That deserved a reward!
+
+She nudged forward, one paw slipping slightly against the sheets as she leaned in.
+
+Mlem!
+
+Just a small one, quick and precise.
+
+She expected the usual response, the slight shift or easy dodge that always followed.
+
+But–
+
+It didn’t come?
+
+Luna’s eyes opened fully, surprise cutting through the lingering softness as she looked up.
+
+Syl was watching her.
+
+Light amusement in her expression.
+
+And–
+
+There was no dodge!
+
+That was new.
+
+Luna stared for half a heartbeat before leaning in again, far more determined this time!
+
+She would not let this chance go!
+
+And yet–!
+
+Her attempt met a gentle interception, Syl’s hand lifting just enough to guide her away without effort.
+
+“One is more than enough, Luna,” she said, her voice calm but touched with quiet laughter. “But perhaps if you transform I would allow another right here on the cheek–”
+
+Luna didn’t have to be told twice!
+
+She moved before the sentence even finished.
+
+The shift came naturally, her body adjusting in a smooth, practiced motion as she pushed herself up just enough to reach properly.
+
+Mlem!
+
+And this time it landed!
+
+Perfect.
+
+Her tail snapped into motion behind her, fast and satisfied as she pulled back just enough to confirm success.
+
+She leaned in again, aiming for another–
+
+–and found her nose gently bopped.
+
+Luna blinked, her second attempt cut off mid-motion, confusion flickering for a brief moment before Syl’s arms wrapped around her instead, pulling her into a warm, steady embrace.
+
+The interruption was immediately forgiven.
+
+Luna pressed into the hug without hesitation, returning it just as tightly.
+
+“You surprised me yesterday, you know?” Syl said softly.
+
+Luna stilled just slightly, listening.
+
+“Thinking about sharing food with others, and organizing it too. It was such a lovely idea. You did great.”
+
+Warmth spread through her chest, and Luna could even feel her cheeks getting warmer!
+
+Her tail picked up speed again, faster than she thought possible, the motion almost overwhelming as the feeling settled in.
+
+It was a lot.
+
+An awoomazing lot!
+
+But also–
+
+…A little bit embarrassing.
+
+Luna pressed her face into Syl’s shoulder, hiding just a little as she squeezed tighter in return, hoping it would help her hide the blush.
+
+She did not let go.
+
+Even when, a minute later, the door opened quietly, completely unannounced!
+
+The sound was soft against the calm of the room, followed by the faint shift of air that came with someone stepping inside. Luna’s ear flicked at it, her attention catching for a moment, but Syl did not move, did not tense, and so Luna didn’t either.
+
+She stayed where she was, comfortably pressed into her Second, letting the warmth and slow, steady presence anchor her in place.
+
+“Oh, the little wonder wolf is up? Good morning, little one! Hope you slept well–”
+
+Trianna’s voice carried across the room, bright and teasing.
+
+That made Luna lift her head, just a little.
+
+It was just polite to answer!
+
+“Morning, yesh! Luna had the bestest sleeps!”
+
+Her tail gave a small wag as she answered, still leaning into Syl, not quite ready to leave the warmth just yet.
+
+“Good morning to you too, Tri. How is everybody today?” Syl asked calmly from right beside her.
+
+Luna could feel her fingers still idly moving through her hair, attentive despite the conversation.
+
+“Oh, you know how it is,” Trianna replied easily, the grin in her voice impossible to miss. “A big feast, more food and drink than anybody can handle! The amount of groans I heard from juuust a few gentle counter, chair, and door slams was just delicious!”
+
+Luna blinked.
+
+She didn’t understand how one related to the other.
+
+But the tone was familiar! That was Tri being Tri.
+
+Which meant fun.
+
+Fun was nice.
+
+And nice was good!
+
+And if it made her packmate happy, that was also good.
+
+Yep!
+
+Luna nodded slightly to herself, satisfied with that conclusion, before settling her chin back down against Syl.
+
+“…One of those days somebody will take it upon themselves to ‘prank’ you back.”
+
+Syl’s voice remained calm, but there was something in the way she said ‘prank’ that made Luna’s ear twitch again.
+
+It sounded strangely… different?
+
+Luna frowned slightly, turning it over in her head.
+
+What did that–?
+
+And then head pats arrived.
+
+The interruption was too strong!
+
+All thoughts of the ‘prank’ word slipped away, never to be heard from again.
+
+Luna leaned straight into the pats, her eyes closing halfway as her body relaxed again.
+
+Ehehe–
+
+This was better.
+
+Much better.
+
+“Don’t you worry about that!” Trianna continued, completely undisturbed. “I’m quite confident in my running skills! And with little Luna’s training, even more so! But! Get this–!”
+
+And then she stopped talking.
+
+Completely.
+
+The silence stretched for a moment.
+
+Luna opened one eye, looking on in confusion.
+
+Syl did not react immediately either.
+
+Woo?
+
+Instead, she let out a quiet breath.
+
+“…Yes? Get what?”
+
+Trianna’s grin could practically be heard.
+
+“We got a Named Request for our party! And it’s super well paid!”
+
+Luna’s ear perked up again, attention shifting back properly this time.
+
+Named Request?
+
+That sounded important.
+
+“Oh?” Syl responded, her tone still composed, though her fingers paused for just a moment before resuming their slow motion through Luna’s hair.
+
+“That’s indeed quite nice. Any details on what it’s about?”
+
+“An exploration of some abandoned tower,” Trianna replied, pacing slightly now, her energy carrying through the room. “Client says it’s monster infested and wants it cleared out, plus whatever we can recover from the place. Not too far from here either, so it’s pretty convenient!”
+
+Luna pushed herself up a little, turning more toward the conversation while still staying close against Syl.
+
+“…Named Request?” she asked, curiosity finally catching up fully.
+
+Trianna looked over at her immediately.
+
+“Ah! Right, you haven’t heard that one yet, have you?”
+
+Luna shook her head.
+
+Syl answered instead, her tone shifting slightly into explanation while her hand continued its slow, steady motion.
+
+“A Named Request is a specific contract issued to a particular party,” she said. “Rather than being open for anyone to take, it is directed. Usually because the client wants a certain level of reliability.”
+
+Trianna nodded along.
+
+“And that means they pay more,” she added. “A lot more, usually. The Guild takes a premium handling fee, and everybody is happy.”
+
+She stopped for a moment to gather her thoughts.
+
+“That’s why fame as an adventurer is so important. Get known as reliable and high enough ranking… And you’re basically guaranteed to get well-paying jobs like that.”
+
+Luna considered that.
+
+It sounded a lot like Investor logic, like with Mister Grevan!
+
+She tested if his food was tasty before hiring him for a feast too!
+
+Mhm!
+
+That made sense!
+
+Her tail gave a small wag.
+
+“Oh! Because Luna’s pack is strong, yesh?”
+
+“Exactly,” Trianna said with a grin. “Strong, reliable, and apparently very good at throwing feasts.”
+
+Yip-yep!
+
+Luna nodded once, fully satisfied.
+
+“Then Luna will help clear tower too,” she declared, already certain of it.
+
+Her ears perked up a little more.
+
+“…Are tower monsters tasty?”
+
+That seemed like the next important question.
+
+After all, it was a totally new, unknown place!
+
+Abandoned, filled with monsters, just waiting to be explored!
+
+But Trianna’s laughter, and her Second’s amused head shake was all the answer Luna got.
+
+Still–
+
+Her thoughts lingered there, drifting toward what might be inside. Different kinds of prey. Hopefully even strong ones! And maybe of new types Luna didn’t try before!
+
+Her tail gave a small, eager sway as she considered all the wonderfur options!
+
+Yip-yep, adventure was great!
+
+“So, we will be taking off soon,” Trianna said, her tone shifting as she moved on. “Just gotta gather up and prepare. Oh, and there is one more thing. Luna!”
+
+Luna’s attention snapped back immediately.
+
+“Yesh?”
+
+“Grevan said he worked with others all night to get everything cooked and ready for you. The man worked hard and it smelled delicious. You should definitely get clothed and go get it while it’s still fresh.”
+
+Oh!
+
+Luna went still for a fraction of a moment, her eyes widening as the meaning settled in.
+
+The day had barely even begun and Luna was already getting such flufftastic news!
+
+Her tail picked up speed, her body leaning forward instinctively as her priorities rearranged themselves without hesitation.
+
+Food!
+
+Now!
+
+She shifted to move, already halfway out of Syl’s hold–
+
+–and paused.
+
+Warmth still surrounded her. The steady presence, the comfortable hold, the lingering hug. She hesitated for a moment there, caught between two things that both mattered.
+
+Hugging was nice.
+
+Very nice.
+
+But food was also nice!
+
+Very, very nice.
+
+The choice did not take long.
+
+Luna pressed in once more, squeezing Syl in a brief, firm hug, committing the warmth properly before pulling away.
+
+A good ending to one thing before moving to the next!
+
+She slipped free immediately after, landing lightly and clothing herself up in record speed.
+
+Moments later, she was already turning toward the door with clear intent.
+
+“Luna.”
+
+Syl’s voice stopped her before she could take more than a step.
+
+Luna turned back.
+
+“Just wait for us at the Guild,” Syl said calmly. “We will be there soon.”
+
+Luna nodded once.
+
+“Yip-yep! Luna will wait!”
+
+And then she moved!
+
+Out the door, through the hall, and into the street without breaking pace. The motion came easily, her body slipping into a smooth rhythm as she made her way through the town.
+
+Morning activity had already begun, people moving between stalls and buildings, conversations carrying through the air as the day settled in.
+
+And they noticed her passing by!
+
+“Morning, Luna!”
+
+“There she goes!”
+
+The calls followed her as she passed, some amused, some teasing, none sharp. A few adventurers near the Guild entrance shifted aside as she approached, then greeted her with smiles!
+
+Though one of them held their head and groaned–
+
+But still waved her a good morning as she slipped through the doorway at speed!
+
+Luna caught the tone, and the smells too.
+
+They were light.
+
+Welcoming.
+
+Her pace slowed just slightly as she passed them, her nose twitching as she picked up on the differences.
+
+Before, there had always been something else mixed in.
+
+Right from the very first day.
+
+Hesitation.
+
+Uncertainty.
+
+A sharp edge she could never quite ignore.
+
+Even if it lessened with time.
+
+And then, after the expedition, that had changed quite a bit. The edge had softened, but it had remained in some.
+
+And now–
+
+It was gone!
+
+Completely.
+
+What remained was clean, warm, and friendly!
+
+Respect.
+
+Ehehe!
+
+Luna processed that quietly as she continued forward, her tail giving a small, satisfied wag.
+
+Giving really was the best!
+
+It made things better.
+
+For everyone!
+
+She moved deeper into the Guild without slowing, her focus already returning to the most important thing waiting ahead.
+
+Food.
+
+Mister Grevan stood with a couple other cooks where the smells were strongest.
+
+He looked tired.
+
+That was clear.
+
+His posture carried weight, his movements slower than usual, but his expression more than made up for it. The grin on his face was wide and firmly in place as he spotted her approaching.
+
+“There she is!” he called out, clearly pleased. “Right on time!”
+
+Luna approached without hesitation, her nose already working as she took in everything laid out before her.
+
+It was a proper spread.
+
+The prepared food was set out with care. Different dishes arranged separately, each with its own smell, its own purpose.
+
+All the cooked wonders from the day before, and then some more still!
+
+She could smell the Ant Queen goodies too. And it all looked so appetizing!
+
+Plentiful too!
+
+The feast was nowhere near enough to burn through all of it!
+
+Her tail picked up again.
+
+“Mister Grevan!”
+
+He nodded toward the tables with clear pride.
+
+“Worked through the night with the others to get all this ready,” he said. “Figured you would want it fresh.”
+
+Luna nodded immediately.
+
+Yep, fresh was best!
+
+Luna stepped closer, inspecting everything properly, her attention moving across the spread with focus this time. She noted the differences, the variations in preparation, the way each set carried its own scent.
+
+With that, eating would never be boring!
+
+Just according to keika–
+
+No!
+
+Just according to plan, yesh!
+
+Her gaze then settled on a separate group.
+
+Raw, but slathered in spices and sauces and more?
+
+Different.
+
+She leaned in slightly, taking a deeper breath.
+
+And each one was distinct, delicious!
+
+Grevan followed her attention.
+
+“We left those raw on purpose,” he explained. “Cut up and marinated overnight. Each one’s done a bit different.”
+
+Luna listened closely.
+
+“All you need to do is take them out and grill them over a fire,” he continued. “You’ll have a proper hot meal wherever you are, and I can guarantee the taste!”
+
+Huh.
+
+That–
+
+Seemed like a good idea!
+
+“Mhm, okie-dokie! Luna understands. Thank you, Mister Grevan!”
+
+“Ahaha, anytime kid! Now come on, store it all up!”
+
+Luna didn’t have to be told that!
+
+She began gathering everything without hesitation, her Maw working overtime to grab it all. Each thing was stored separately.
+
+Every scent memorized, every tantalizing variation accounted for!
+
+It was impawtant to know what goodies Luna could take out at any time!
+
+It didn’t take long despite that.
+
+Once finished, she paused and looked back at him.
+
+“…Thank you!”
+
+Grevan’s grin softened slightly, though it never left entirely.
+
+“Anytime.”
+
+That was enough.
+
+Luna turned and moved back toward the entrance, her pace steady now, her focus already shifting forward again.
+
+Her pack would be there soon.
+
+And after that–
+
+The tower!
+
+Her ears tilted slightly as she considered it again.
+
+Maybe the prey there would be strong?
+
+She sure hoped so!

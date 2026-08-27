@@ -1,0 +1,171 @@
+---
+id: 31f5fab2-f1b8-5dea-b692-b81bdcee061f
+page-type-slug: story-chapter-royal-road
+title: "215: Merry Times"
+slug: 0238-215-merry-times
+partOf: there-is-no-epic-loot-here-only-puns
+position: 238
+ownLength: 2123
+unit: words
+publishedAt: 2024-12-29
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1980990/215-merry-times"
+royalRoadId: "1980990"
+---
+
+“What does it do?” Grim asked the still shocked princess. He idly tugged at his green suit. It was a bit stuffy at times, but that might have been all the sponsor stickers he made and glued on. The actual sponsors would be so happy when they learned Grim took the initiative to set up all these healthy business relationships.
+
+Serma looked down at her shield of web and wood, frowning as she was still struggling to get her mana to fill its shape, to make it real. Grim guessed someone, maybe a scary knight guard, had always helped her before.
+
+“I think I can feel some ability at the edge, but it's hard to get working. I just need to-” Serma said and her mana flared for a second, causing Mas and Kemy to look back while Yattina and Deo walked oblivious to the surge. At the top of the shield, one of the sticking out twigs glowed and produced a single red berry.
+
+Grim stared at it, his first reaction to smirk at Serma at her ‘godly’ ability, but he suppressed that as she was within range and had a sword. His second thought was that if those berries were anywhere near as powerful as the ones growing here in the dungeon? Serma had a rather potent trick to get some physical energy.
+
+It wasn’t like it would fuel her endlessly. The body could only channel mana for so long in a battle before it began to do odd things. Grim read that dying was the least likely thing to happen and the most preferred. Exhaustion would come first then depending on the person, the magic, and the stressor of the environment, they could mutate or transform into the most useless things.
+
+A left shoe was oddly common, according to Quiss.
+
+“Here,” Serma handed the berry to her little slime who gobbled it up with glee. The little orange blob inhaled the berry and it just melted inside his body like he was made of potent acid.
+
+“Shame he’s not part of the Dungeon, he’d go along great with the goblins and mushrooms in the mascot shop I’m planning,” Grim sighed and the princess gave him a long look.
+
+“Why are you so obsessed with money?” she asked, her lips curling and Grim felt his own lips doing the same.
+
+“I’m not obsessed. This may be shocking to you, but I simply didn’t have any growing up,” he snapped back. The others looked back but they all slowed at the intersection of the first floor with the lake to the north, the store room to the west, and the proper path to the east.
+
+“But you have your family and look... healthy,” Serma said, looking surprised.
+
+“My family, for the most of my life, were zombies. They did the same thing everyday, ate the same food everyday, and said the same thing everyday. Mom sometimes made dessert, trying to do something, but I thought they were sick. I was going to find some magic artifact and fix them, but those things take money and planning... You want to know what money existed in Durence when everyone was a zombie?” Grim asked hard and Deo put a hand on his shoulder, looking a little sad as he seemed to recall it too.
+
+“Nothing, we weren’t outsiders, we couldn’t get jobs or clean gardens or even find loose change. School was the only thing keeping us sane at times,” Grim said, feeling a sense of affection for Mr Jones.
+
+“Ruli also brought us gifts and newcomers always made it better,” Deo added brightly.
+
+“Durence was a gray zone, the local mana vein withered, dying. Those living above it would barely have enough mana in the air to live. It’s a miracle you were all born, let alone grew to be so healthy,” Yattina said as she came closer.
+
+“It was all fine in the end,” Grim interrupted and coughed. “The magic artifact came to us,” he gestured to the dungeon around them.
+
+“So... then why are you still obsessed with money?” Serma asked slowly, looking confused.
+
+“There could be other gray zones and kids like me stuck there. Mana-suits able to sustain people in those zones over time cost a lot. You can’t just move the people, you need to take their environment, their homes, or they might actually perish. I want to help those people and I’m going to use the idiot adventurers to fund it,” Grim grinned.
+
+Serma opened her mouth then closed it for a moment.
+
+“That’s... noble,” she said slowly.
+
+“Don’t be so nice to me, gives me the creeps. I’ll purchase the grayzone lands as well and when Dungeons eventually end up there, I’ll own the land and can get the people back on it and be their landlord, letting me make more cash from more adventurers and the lowest tax bracket off the villagers. I’d not tax them at all but I have to if a Dungeon comes along,” Grim mused, the books he devoured making information pop in his brain.
+
+“That’s Fairplay, but with more steps,” Yattina said surprised.
+
+“It’s Fairplay, but better,” Grim corrected.
+
+“Which way?” Mas asked, having gotten distracted when the talk turned to taxes.
+
+“Not the lake,” Yattina said quickly and Grim nodded quickly at her wisdom.
+
+“Why?” Serma asked, turning to see the opening to the massive beautiful looking room.
+
+“We didn’t bring any knives,” Yattina said as if that was obvious.
+
+“What about that way?” Mas pointed down to the storeroom and Grim turned, feeling his neck prickle with a cold sensation. At the end of the hall, poking his head out at the bottom of the frame was a mouse with two red eyes and a demonic aura around it as it beckoned to grim with its small paws.
+
+The others turned to see what Grim was staring at but the mouse was gone, only a jar of something like fermented fish was left to be seen, rolling loudly into the corridor and clinking against the stone wall.
+
+“I’d rather not play hide and squeak,” Grim said and turned to the mudroom.
+
+“Don’t be shy... did that little mouse beat you?” Serma asked, a hand hiding a growing smile.
+
+On second thought…
+
+“Let’s go,” Grim said brightly, gesturing to the storeroom.  Serma raised a brow and beckoned for Mas to follow her.
+
+“I’ve only known you for a few hours but I know that look already,” Yattina said as her orange eye looked at him. She crossed her arms and Grim was a little weirded out how familiar she felt to him. Still, out of them all, Yattina shared his humor the most.
+
+“Experience is the master of life,” Grim said vaguely, trying not to take pleasure in what was coming.
+
+“I thought good food and better company was life?” Deo asked aloud, frowning.
+
+“Depends on the life,” Kemy said, refusing to go down the corridor, sensing something about it.
+
+--
+
+The storeroom had a strong smell of old cheese and something meaty. Serma looked around with Mas as the others stayed in the corridor. That was fine, she was here to conquer this very strange Dungeon and she could handle a mouse.
+
+It was no spider-queen.
+
+“Goblin crackers, Bacon chips, three shelves of mushroom soup, ten buckets labeled ‘Stealth boosters’, and a corner is just filled with these rolled up squishy pillows of some knight,” Mas said, holding a roughly sewn together pillow the length of his body. Serma noticed it was filled with grass and hay, stitched together by long grassy fibers.
+
+Serma picked up a little pig with a mushroom cap on its back.
+
+“This is cute,” she mused and the toy blinked at her.
+
+A moment passed then she dropped it as it yawned.
+
+“A monster!” she cried and tried to draw her sword but her elbow slammed into a nearby shelf, hitting a nerve and she whimpered in annoyance.
+
+The shelf wobbled and something landed on her head with a thud and she cursed, picking the bottle up to read ‘Adventurers tears’. She tossed the bottle away as she tried to look where the pig thing went and she spotted it vanishing behind a shelf unit containing a dozen bottles labeled ‘Luna’s bath water’.
+
+“It might be the key to this room,” she called over to Mas but blinked as her friend was pressed against a shelf, trying to stop a dozen white plates from smashing to the floor.
+
+“I tripped and there’s a lot,” he said.
+
+“Just let them drop!” she said and he looked like he was debating it when a suit of armor across the room shuddered and the lance it was holding dropped into the waiting hands of a little mouse who was smiling.
+
+Mice were not meant to smile like people.
+
+“What’s going on?!” Mas called, trying to crane his neck as he heard metal scraping on the ground.
+
+“Don’t you dare!” Serma warned and charged, only for her feet to lock together as the bindings on her boots had been tied together. The little monster carefully aimed and then charged with the lance, bounding up and down in a gallop towards Mas who was still arched over trying to hold the plates up.
+
+“Mas! It’s coming for you!” she warned, trying to drag herself forward.
+
+“Which side?!” Mas demanded.
+
+“THE REAR!” she screamed.
+
+---
+
+“Maybe we should help?” Kemy said and she looked positively dizzy near the storeroom as if the contents messed with her health in a strange way.
+
+“It’s just a ‘small’ mouse, I’m sure they’ll be fine,” Grim said as the sounds of devastation emerged from inside the room constantly, followed by panicked yelling.
+
+Suddenly, Mas let out a noise like a cat yowling and Serma vaguely could be heard swearing vengeance.
+
+“I can’t make heads or tails of this information,” Yattina said as she squinted at the room.
+
+“What do you see?” Deo asked, dusting off one of Mushy’s pots nearby to pass the time. Yattina opened her mouth then closed it, words failing her for a moment.
+
+“Everything that is, is not, but will be, maybe, down the line, potentially,” Yattina said and Grim was wondering if her brain was melting.
+
+Serma kicked the door open, covered in horrible pickle juice while Mas followed behind looking like everything had changed and holding a bucket.
+
+“Why is that on the first floor!? That thing was doing things that shouldn’t be possible!” she demanded and Grim idly fiddled with his cat necklace under his suit.
+
+“If you just ignore the shelves and be polite without freaking out,” Grim said without shame, “you can just move on with only some things being thrown at you,” he said smugly. Sure, he had to scrape a win when the mouse was less experienced but a win was a win.
+
+“I don’t think we want to go that way anyway for our first time. I can see... music and dark invitations,” Yattina whispered and Deo patted her hand.
+
+“We’re not ready,” he agreed and led the way back to the mudroom.
+
+“What evil is in this room?” Serma whispered, looking frazzled and alert.
+
+“Mud!” Deo pointed.
+
+“Monsters in the mud, Mud Krakens?” Serma demanded. Yattina sighed and Grim had the weird feeling she wanted to jump in the mud and just float there for a while.
+
+“Nope, the platforms are either stable or not and overtime, pillars come out of the wall to knock you over, but you can only climb out on this side. The other side is too slippery,” Deo explained kindly.
+
+“You...” Serma suddenly hissed and Grim blinked as Pigglecaps, two of them, were rolling in the mud like happy... er... pigs.
+
+“They’re supposed to be on the second floor, wonder why they’re here?” Grim frowned but decided it wasn’t important.
+
+“Good luck!” Grim said and shoved Serma onto the left-most platform and instantly, the thing wobbled and flipped, sending her flying with a splat. It felt good until Deo laughed and Grim stumbled onto the right-most platform, his world spinning and landing in warm mud that surrounded him gently.
+
+“Sure, you can push me on the middle one,” Yattina offered to Kemy who giggled nervously. The platform near Grim remained stable as stone as he rose to the surface, glaring.
+
+“You can see which ones are stable, can’t you?” he asked Yattina who merely looked away with a small smile.
+
+“I turned my eye off when I noticed. It’s against the spirit of the trial, no?” she said easily and without failing, made her way across the room without falling in.
+
+Grim wished he had a magical eye.
+
+His own curse was just a mouthful.

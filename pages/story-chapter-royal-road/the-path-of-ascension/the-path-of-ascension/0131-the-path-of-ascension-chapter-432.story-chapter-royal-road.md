@@ -1,0 +1,343 @@
+---
+id: 8ea2d7e6-e978-5bed-9ecd-dab85d7de34c
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 432"
+slug: 0131-the-path-of-ascension-chapter-432
+partOf: the-path-of-ascension
+position: 131
+ownLength: 5295
+unit: words
+ownProgress: 5295
+publishedAt: 2025-07-28
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2473722/the-path-of-ascension-chapter-432"
+royalRoadId: "2473722"
+markedReadAt: "2026-06-29T19:33:55.340Z"
+---
+
+Chapter 432
+
+Tim grunted as he brought his blade down with all his might and the distorted goblin-like creature screamed in agony as it transformed into other shapes to stop the pain. The lightning arcing around his blade tried to prevent it, but the damn mini-boss was incredibly resilient to all forms of damage, and so it managed to escape the net of energy and dash into the underbrush and vanish.
+
+Panting, Tim searched for movement with his eyes, ears, and spiritual perception.
+
+He saw nothing, but that didn’t make him drop his guard at all.
+
+The bloody gash that ran down his left bicep and made his left arm and hand useless was proof of how dangerous the things were. Thankfully, the wound was already healing due to his merged entry of Body Strengthening. Normally, the entry acted like he was working out any time he used a muscle, but the advantage to his strengthened body was that when he was injured, his body tried to heal itself a little better than the average cultivator.
+
+The scientists had studied the ability for months but they had progressed beyond Tim’s current abilities and he didn’t care enough to add low-Tier body strengthening methods to his already busy schedule.
+
+No, he was too busy delving into rifts where the monsters weren’t even what they seemed.
+
+At Tier 4, everyone at the Ascenders’ academy had been encouraged to delve into the sick and twisted abominations of rifts that Titan’s Torch’s scientists created.
+
+Tim didn’t really get it.
+
+The other scientists were so normal.
+
+They talked to him about his Talent and the things they were learning from it. They helped him puzzle through anomalies of his Talent, like why it didn’t create entries for things such as breathing or walking. Their current theory was that his spirit just wasn’t strong enough for such a broad entity or that he’d need to combine several breathing related entries together to get the highest category of entry. Similar to his body strengthening entry which had been made exactly that way. They helped him to learn how to get more out of an action too. It was mainly about putting his entire being, mind, body, and spirit, into an action, even if the action seemed unrelated, like mixing a soup to improve his alchemy.
+
+They even taught him how his Talent was actually working. Or they gave him their best guess, which was that his Talent’s proficiency acted as a preparatory phase for the greater transfer of knowledge which was achieved when he reached a threshold. There was information transfer even during seemingly unrelated things like mixing soup. Even if he couldn’t realize it in the moment, each added point of proficiency gave him a tiny bit more of disjointed information that would only truly make sense when he reached his threshold.
+
+If they were right, that was why doing alchemy to practice alchemy or fighting when practicing a fighting entry gave more proficiency than the simplified version per action. He was better at absorbing the information because he was practically applying what he was learning.
+
+There were, however, a million and one caveats to those answers, which was why he was fighting stupid shapeshifting goblin creatures in a rift the rift scientist people had created.
+
+They were insane as far as Tim was concerned.
+
+He had been around them just long enough to watch a half dozen rifts get created, with Ascender Titan hopeful he would get an entry after seeing it enough. Tim hadn’t, but that failure didn’t seem to dissuade anyone with Ascender Titan, saying he’d probably get it when he was higher Tier or his spirit improved and not to stress on it.
+
+It had seemed like such an innocuous comment at the time, but it had clearly given Ascender Titian an idea as shortly after, they were all encouraged to start delving the rifts Titan’s Torch rift ‘aperologists’ made on a seemingly daily basis.
+
+Just as he started seeing two areas of bushes start to wiggle, meaning there were two of the little fuckers waiting to attack him, his teammates’ clattering got close enough he shouted.
+
+“One, possibly two, right in front of me.”
+
+An arrow whizzed by and thunked into the tree, sending a monster launching itself out of the bush, with a spike of rage accompanying it in Tim’s chest.
+
+It wasn’t a goblin anymore but instead a ferocious wolf with two heads.
+
+Tim’s swordsman proficiency gave him the experience to know exactly what he should do but he didn’t like it.
+
+Raising his sword, he thrust at the rightmost head while forcing his left arm to work long enough to present it as a tasty snack.
+
+The metal plates in the leather held for the briefest instant, but it wasn’t long enough to save him the agony. Worse yet, the lightning from his blade followed the morphing flesh into his very human body and shocked the shit out of him.
+
+Still, Tim didn’t let his blade slip free from the thrashing creature and that was enough.
+
+Brandi, in even heavier armor than Tim’s, raced forward into the bush, startling free the other monster which attacked her as a tangle of vine-like limbs.
+
+Tim could hardly pay attention to the commotion even as an arrow whizzed by him for a second time and instead slammed himself onto the ground, monster-first.
+
+His blade slipped out from the monster's flesh, which stopped the lightning but the pain lingered.
+
+The monster, however, didn't.
+
+Tim cast a point blank [Solar Flare] and evaporated a large part of the shapeshifter.
+
+It tried to recoil and slip away but its teeth were stuck in Tim’s arm and they had learned from painful delves that these creatures couldn't morph when in contact with something alive.
+
+When the second [Solar Flare] didn’t kill the monster, Tim cast the spell for a third time, finally feeling the burst of essence that confirmed the kill but he was unable to absorb any, having already reached the peak of Tier 4 two kills before.
+
+His anger didn’t lessen for its death as he moved to help Brandi kill the creature she was fighting.
+
+Using his limited spells in such close range was less than ideal, so he stuck with his sword, cursing every time the enchantment arced to her.
+
+For a third time, an arrow nearly grazed him and Tim had to resist turning around and driving his blade through Randy’s chest.
+
+The arrogant archer would have deserved the healing cooldown but now wasn’t the time as they had at least two more of the creatures to kill before the rift was cleared.
+
+As if the morphing creatures weren’t enough, the rift didn’t even have a proper boss or exit and corresponding reward distortion.
+
+Before he could call out to him, Argo came over to Tim and put his hands to Tim’s mangled left arm. But then he stopped.
+
+“I— there is metal bent into the wound. I can't heal it.”
+
+Tim groaned, about to complain about the man's stupid Talent, but instead pulled at the arm guard wanting to tear it from his limb silently as the other two kept a lookout.
+
+He had finally worked the arm guard free when they heard a rustling from a nearby bush. They all got ready to fight but when they heard cursing, they all settled down.
+
+The left side of Halley’s face was covered in mottled blisters but she seemed otherwise unharmed. The blisters weren’t even from this rift but rather had something to do with her Talent. Some days she was blistered, which always meant fire powers, and other days it was another type of wound. But it was always a facial wound and it always looked fresh. And painful.
+
+“Three dead on my side. How many does that leave on yours?”
+
+Brandi sighed, her mountain form sagging as she said, “We killed eight. That leaves one or two more. I was hoping you had created the exit.”
+
+And truly, it was the worst outcome given how damn hard the monsters could be to find when they were deliberately hiding, which they tended to do when most had died.
+
+As Tim finally got to his bicep wound and pried the bent and deformed metal out, Argo cast his healing spell.
+
+Tim sighed as a measure of stress left his body with the receding pain.
+
+It wasn’t perfect like the higher-Tier healers on staff could do but Argo, for all his faults, was a damn good healer. He should be given that was literally all he could do.
+
+His Talent had been partially spread around, saying it was detrimental and he couldn't hurt anyone. As it turned out, the rumor had been confirmed after someone tried to bully the younger man and Argo had put the man in a seemingly impenetrable box and left him there for nearly a full day as punishment.
+
+The story had later come out and then spread through the school like wildfire. The spell was a cracked skill gift from the Ascenders as a way for him to protect himself without causing harm because his Talent wouldn’t let him harm anyone in any way, shape, or form and his Tier 3 hadn’t fixed the issue.
+
+That was almost more surprising than the side effect itself, but it did explain why he was brought into the academy with seemingly no other outstanding aspects.
+
+That, Tim had learned, was the largest change from his home world.
+
+Everyone at the academy had some exceptional aspect about themselves, usually their Talents but not always.
+
+Tim had thought he was special but being around his presumable peers, he knew how laughable that was. He was good but the saying there was always someone better had been drilled home many times over the last two years. He was lucky if he was still in the body of the bell curve, and no matter how much he improved or the people in charge told him he was ‘doing great’, he felt like he was falling behind.
+
+Arm healed, he took his shield from Brandi who had picked it up before he got separated and brought up his Talent.
+
+Apprentice Sword Fighting: 999,011/1,000,000 Proficiency — Dance to gain proficiency.
+
+Novice Shield Fighting: 9,999.7/10,000 Proficiency — Brace to gain proficiency.
+
+Bracing himself against an invisible enemy that resembled their archer more than it should, Tim felt a wave of knowledge wash through him. It felt like he had been fighting with his shield for a century but he knew thanks to the researchers he worked with that such bits of information weren’t quite as quantifiable as that.
+
+A century was generally correct, but it was ultimately limited experience.
+
+The more he had done related to things in the entry, the more targeted his knowledge was. That was also modified by the entry itself. An entry for a potion was very specific to that singular potion and its information could only go towards improving it. Whereas his entry for shield fighting gave him more information based on the enemies he had fought while gaining the proficiency, which was less detailed on any one, as a specific enemy entry would have been.
+
+If he hadn’t actually done much with the skill beyond grinding a single thing, like he had with herbs, the time-allotted information would be filled in with the next valid subjects he encountered until he used up the time. That allowed him some control over what he learned if he so wanted to narrow down an information surge.
+
+His knowledge proved itself almost immediately useful as some of the information he got was about how to better fight shapeshifting enemies. While most of the information was solely about how to best block their amorphous attacks, he also learned that the monsters couldn’t actually sit still.
+
+Some part of them had to be moving at all times.
+
+Just wanting this rift to be over and to not be traipsing around the several mile-long rift any more than he needed to, again he shared the information. “Look out for movement. They can’t sit still.”
+
+Randy raised his bow and with a fluid motion, loosed an arrow that flew so close to Tim that he felt the projectile’s wake like a lover’s caress.
+
+A burst of lightning exploded and fried the monster that was disguising itself as a tree branch over the path.
+
+Randy smiled as if he hadn’t nearly hit Tim. “Good call. The branch had been moving but I didn’t put that together and just assumed there was more wind over there.”
+
+Tim just stared at Randy and contemplated punching the man in the face, or worse, but knew it was an awful idea.
+
+At least not inside the rift.
+
+Fighting with one's teammate inside a rift, even one that had an exit and reward distortion appear signifying it was over, was a good way to get ostracized. No one wanted to be delving, risking life and limb, with a mad man who might turn on them.
+
+The angry part of him tried to point out that Randy had been threatening him with each of those close calls, which meant he acted first, but ultimately Randy hadn’t hit him.
+
+That might be the answer, but Tim didn’t like it.
+
+It was a coward's way out.
+
+And it was tempting.
+
+Instead, he nodded. “Good shot.”
+
+Randy smirked as if Tim and everyone else should expect nothing less. “I always hit what I intend.”
+
+As far as Tim knew, that was true.
+
+Even with apprentice level archery, he wasn’t half the archer that Randy was. That wasn’t to say he hadn’t been beaten. One of the instructors apparently had a friend with an archery Talent who came and wiped the floor with all of the ranged Talents a few months prior. But it unfortunately had only ignited Randy’s competitiveness instead of quelling it.
+
+Tim took a slow breath as he turned around, letting the moment pass.
+
+He would simply refuse to take on any more delves with Randy, even if he was the best Tier 4 archer at the academy.
+
+In fact, their whole team was a bit of a shit show and he didn’t need any special entry to tell him exactly why. They were all the bests of their respective fields except Tim, who while not the best at a specific field, was a one of the better all-rounders, which helped the team cover any potential weak points.
+
+He was sure they had been put together in the hopes their abilities would form a greater whole than the sum of its parts but even in their first rift, a rift they had all already run before, they had proven that theory to be false. Now that they had been put together over a dozen times with things deteriorating each time, it should be time to call it what it was: a failure.
+
+It was so bad at this point their mage had run off the minute the rift started and Randy singled Tim out to fuck with. All while their tank and healer simply kept their heads down instead of helping Tim put the asshole in his place.
+
+“Let's go.” Halley’s voice was clipped, and Tim fell in behind Argo as she dispelled the reward distortion.
+
+A weird looking armband fell out of the rift.
+
+It was clearly magical but it, like all rift rewards, would have to be turned over to the guild to be analyzed. It would be returned and they could sell it or do whatever they agreed on but it was ultimately a minor affair being a single magical item.
+
+They left the rift silently without the usual banter that accompanied a successful delve. Or they tried. Randy attempted to kindle a conversation with Brandi, who pretended he didn’t exist.
+
+When they exited the rift, there was a scientist who happily took their data dumps and thanked them for their efforts.
+
+Tim hardly heard him as he split off from the group to go to his personal room. Or what he thought of as his personal room. It was the same lab he had first been brought to but with only two machines that best measured his spirit instead of dozens.
+
+Awda smiled as he entered. “Good morning, Tim. Anything to report.”
+
+Tim sighed. “Awda, it's early evening. You really need to get out more. And coming from me, that's saying something.”
+
+Awda laughed. “Morning, day, night, it's all relative. Now, what about you? You look bloody. Rift day I assume? Or did you pick a fight with someone?”
+
+Tim looked at the Tier 30 and wondered just how much was an act. Awda was nothing like he expected a Tier 30 to be and instead more in line with how a movie might portray a quirky but eccentric scientist.
+
+She was, however, nice. She merely seemed to be the type who needed to be reminded to eat.
+
+It almost reminded him of a more driven and functional version of his mother, but he had never even thought such things too loudly near the other woman, afraid she might hear or know his thoughts and think less of him for them.
+
+Tim instead had good news to report.
+
+“I got my shield entry to apprentice level, I’m also only a few proficiency away from journeyman with my sword but managed to not advance in the rift, and I reached the peak of Tier 4. All in all, it was a good delve. Besides the who I was delving with part.”
+
+Awda froze for a moment before she smiled.
+
+“Now that's fantastic news. Let's start with the shield entry’s information. We’ll record your increase of swordsmanship tomorrow, as well as start the lessons with Concepts then or the day after depending how your spirit looks. Sound good?”
+
+They had tried before when he reached Tier 4 but his Talent refused to create an entry for a Concept and the general agreement was he wouldn’t be able to do such things until he properly opened his cultivation core and was able to actually create a Concept.
+
+Tim sighed in relief, knowing he wouldn’t need to push harder to reach his bed today.
+
+And after both the annoying rift and still needing to both be analyzed and record all of the added information about shields he could, he really wanted to pass out.
+
+He didn’t let himself do that because the information was useful. The breakpoint check-ins were how they had learned about the way his Talent filled in the amount of information he got as he trained, which had really shaped how he progressed. To that end, he had even taken to creating a diary to document any minor changes he thought he might be experiencing.
+
+Awda looked over it and had a few questions Tim couldn’t quite answer and, after a little discussion, they left them for later as deeper dives.
+
+Finally, she put him in the machine where they measured his bracing simplification’s effect on his spirit now that he had advanced a rank.
+
+When there weren’t any noticeable changes in a hundred repetitions, he was finally freed and rushed out of the lab.
+
+He only paused long enough to check on Stew’s lab which was only a few doors down but, when he saw his roommate wasn’t on the moon, Tim headed to the teleporter and found himself back in the academy after a brief dizzying sensation.
+
+People streamed by the teleporter room and Tim was once more taken aback at how varied the crowd was.
+
+Young or old, Tier 1 or Tier 14, all were mixed in together, though the majority tended to the younger and lower-Tier side. It wasn’t so tilted that Tim didn’t see several people with wrinkles happily walking to or from a room anywhere he looked.
+
+Tim wasn’t even that out of place, still in his damaged and bloodied armor.
+
+Instead of ogling any longer, he grabbed his mana recharging slab and started refilling his mana as he made it to his room.
+
+Seeing that no one else was back yet, he ordered a heaping plate of food and threw his armor in the spatial bag by the door while he showered a delve’s worth of grime off.
+
+Before coming to the Ascenders’ academy, he never would have considered using a spatial item to store something like dirty armor, but every suite had one and that somehow felt more impressive than the endless mana they were able to tap into.
+
+After eating until he was stuffed, Tim went to his room and flopped on his bed, sending a message to his roommates that he wouldn’t be joining them tonight. The four of them got together most evenings and spent an hour or so hanging out, but he was bone tired.
+
+Despite all of his workouts, as well as his proficiencies for physical fitness, Tim was exhausted and, even as he lay there in the dark of his room, he could feel his muscles tremble as his body entry slowly made him stronger. He didn’t understand how others enjoyed such feelings and instead just wished he could fall asleep.
+
+He still hadn’t been able to afford the new skill that would help him create [Lullaby]. Or, he could have afforded it but that would have meant not getting something more immediately useful, like his body strengthening entry or his fighting entries. It was when he complained about that fact that the scientists he worked with had the bright idea to use [Lullaby] as the skill he was trying to create himself.
+
+Despite his Talent making it magically easy to create the skills he did have the entries for, it was taking him over a year to create [Lullaby].
+
+It didn’t matter how many times the researchers told him such a control group was invaluable, how many times they told him his skill creation was making incredible progress, or even how many times they showed him the improvements they were making for general Tier 0 skill creation methods based on what he told and showed them, Tim couldn’t help but wish he could just buy the damn entry and create the skill in a single month like he had with the others.
+
+As he was complaining to himself, he finally fell asleep.
+
+The next morning, he was sore all over and had to drag himself into a steaming hot shower that he stood under for almost twenty minutes before Stew started banging on his door to get him moving.
+
+Tim wanted to complain but finished showering and brushed his teeth as fast as he could, before getting dressed in loose and comfortable clothes instead of his armor.
+
+Stew, Yenn, and Jill were already sitting there with a plate ordered and delivered in Tim’s normal spot.
+
+Seeing a large stack of anything was more than enough to put a pep in Tim’s step, but rice pancakes were his favorite.
+
+“Damn, you look rough.”
+
+“Thanks, Jill. For your information, Argo’s healing may be good but he leaves me exhausted. Thankfully that is done.”
+
+That comment got the others to start looking at him deeper, which let him deflect the next few questions by shoveling food into his mouth.
+
+“Peak Tier 4. Congratulations, man. What is your Concept potion plan?”
+
+Tim knew his history well enough and that people used to use Bottled Concept potions to advance past Tier 4 but with the inception of aura potions, most people simply used one of them even before they ever knew of the existence of a normal Concept. The information, for the same reason as before, was considered more of a hindrance before one reached Tier 15 when they could take all the time they wanted to break and remake a new, more fitting Concept.
+
+He was a bit of an exception in that he had been told early in the hopes his Talent might make an entry for creating a Concept.
+
+All of his roommates had gone the aura potion route. Yenn and Jill were elemental fighters, wind and earth respectively, so for them getting the appropriate potion had been as easy as putting in an order for it.
+
+Stew, being the standout that he was in all things physical but not so much anything else, had struggled to find something he liked that also worked with his Talent. He spent quite a lot of money trying several types of aura potions before he eventually got a nurturing fire Concept that he turned in on itself to be a flame of gentle energy. He hadn’t developed any cool effects for his Concept quite yet but, as he personalized his Concept through use and meditation, things were slowly starting to take shape.
+
+Tim knew Stew was hoping he could either have his Concept generate energy, which might link his Concept to his Talent, or that his Concept might be able to improve his healing abilities, which was his main weakness.
+
+Only time wou—
+
+Tim froze as he considered that he might be able to help Stew. Or the scientists who were going to look at him today might be able to take when they learned from him and help Stew.
+
+That thought kept him distracted even as the others congratulated him for reaching the peak of Tier 4 but it revitalized him quite a bit from the draining efforts of yesterday.
+
+Shaking himself free of his burdensome thoughts, Tim enjoyed their company before he and Stew needed to leave to catch the morning novice alchemy lesson.
+
+Both were slightly beyond the class’s intended level but the instructor, Dylan, didn’t mind helping them with slightly more advanced potions as it was the only time slot the two of them could reliably hit each day. It was those little things, as well as the afternoon lessons of melee fighting he had with Yenn and Jill, that kept the four of them so close. They had an unspoken agreement to keep those things going as long as possible.
+
+Which meant Tim had an hour and a half block free, and so he went to his usual spot in one of the massive spatially expanded gardens. The place was almost three miles long and one wide. Most parts of it were heavily forested with hidden alcoves and seating arrangements scattered about, making it feel even bigger than it already was, which made it feel even more private.
+
+Tim had long since found a private corner and spent most of his mornings there.
+
+Not that he was truly alone, and so he stopped by the kitchen to grab a small snack for his companion.
+
+When he arrived, he found a small black cat sitting in a sun beam and reached out and rubbed a knuckle into the cat's ear.
+
+“Hey there, pretty kitty. How’s that sun beam?”
+
+Without opening its eyes, the cat leaned deeper into the scratch even while its dexterous paws reached out and unerringly found the small ball of unsalted lunch meat he had grabbed for it.
+
+As far as he could tell, the cat was one of the many, many therapy animals that littered the academy, or a stray. He was leaning towards it being a stray, as the cat didn’t act like any of the therapy animals who, despite looking and sometimes acting like animals, were fully sentient beings and perfectly able to speak through their AI.
+
+Instead, the cat just seemed like any other cat: lazy and indolent.
+
+Slumping next to the bench and enjoying the soft grass prickling his exposed legs, Tim started venting about his last few stressful days.
+
+Randy might have appeared more in his gripes than his actions truly warranted, but Tim needed to get it off his chest and the cat was a great listener.
+
+“I think I’m just tired. I need a break. To take like a month off and to be like you and lay in the sunlight. Let it seep into my bones. Recharge myself.”
+
+Whenever he said something revealing like that, he half expected the cat to speak or make a gesture that indicated it was listening and encouraging or discouraging a behavior. That was how the normal therapy animals reacted, using subtle gestures to guide behaviors, but the cat simply lay there soaking in the sun beams most of the time.
+
+Tim chuckled. “Maybe I can get an entry to become a cat. Then I can laze about without anyone feeling the need to comment. At least a little. I don’t know, sleepy kitty. Is the process of changing myself destroying who I really am? I almost attacked that idiot Randy yesterday. I even almost considered deliberately taking an arrow so that I could have an excuse to hurt him. I didn’t, but I had the thought. I’m not sure that I would have had the thought before I arrived here. But if I left, how would I ever explain things to Garrett or anyone else back home? That I gave up just a few years in? That I couldn’t make it? That I’m like my mother? I can’t do that, or rather I refuse to do that, but I don’t know how much longer I can go on before I’m no longer me. Or the me I want to be? Or that I’m different. Does that even matter? Is the me that goes to bed the same me who wakes up? If yes, does that make changing myself murder? If not, does that make me a murderer every time I fall asleep? Or am I just trying to come up with excuses to be lazy?”
+
+Seeing that the cat still hadn’t opened its eyes even once, Tim sighed as he checked his AI and saw it was time for him to get a move on.
+
+“Yeah, I don’t know either, but thanks for hearing me out.”
+
+Before he left, he carefully shifted the cat so it would remain in the sun beam longer.
+
+Normally, the cat got up and moved when the sun moved off it but, given that it felt like a typical Tier 1 cat to his spiritual sense, the animal might just be getting old and it was too tired to make the effort.
+
+A part of him resonated with that.
+
+Giving the cat a small scratch between the ears, he left to go join the scientist and see what his Talent said about Concepts.
+
+***
+
+Luna opened her eyes as she looked at the boy walking away, resisting the urge to sigh lest she do something more destructive to the bench. She liked this bench.
+
+The boy had so much potential but struggled to change his lazy ways.
+
+It wasn’t impossible, she’d seen people do it before, but most did it because they wanted to, not because it was expected of them. No matter the challenges she had arranged for the child, he refused to ignite the spark inside of him that might lead him to greatness.
+
+Still, there were opportunities ahead of them and Matt and Liz had both asked her to look after not only the school but the boy in particular.
+
+Sadly, despite all of her prowess, she couldn’t force someone to change their inner selves. They needed to do that themselves and seeing him fail to cut away that baggage hurt her.
+
+Thankfully there was still time, given that his largest motivation was to reach immortality. He had made progress in some areas and lost it in others, but overall she was pretty sure they were moving in a positive direction.
+
+He hadn’t reached rock bottom, nor had he given up digging and that was enough for now.

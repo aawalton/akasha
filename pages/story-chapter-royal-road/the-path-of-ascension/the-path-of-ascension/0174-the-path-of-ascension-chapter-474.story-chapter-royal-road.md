@@ -1,0 +1,205 @@
+---
+id: 9e53e0a4-b19e-52b9-9274-a0cf91e7e57d
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 474"
+slug: 0174-the-path-of-ascension-chapter-474
+partOf: the-path-of-ascension
+position: 174
+ownLength: 5675
+unit: words
+ownProgress: 5675
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3085082/the-path-of-ascension-chapter-474"
+royalRoadId: "3085082"
+markedReadAt: "2026-06-29T19:33:44.821Z"
+---
+
+Chapter 474
+
+Opening a [Portal] for Liz, the two of them stepped through his second [Portal], arriving next to the luxury yacht that was now orbiting Palustris.
+
+Through their physical contact, Liz privately commented, “Well, aren’t they the definition inconspicuous.”
+
+Knowing what Liz really meant, he replied the same way as a hatch opened up. “It's not forcing our hand, but if we end up disagreeing with them or not working together, it won't be as quiet as if they’d arrived incognito. I’m giving them the benefit of the doubt, but I don’t love them starting us out like this.”
+
+As Matt and Liz floated into the ship, they found their peers already gathered and waiting.
+
+Dominus, in his draconic humanoid form, skipped any semblance of formalities and asked, “Can we go somewhere more secure to have this conversation?”
+
+Not bothering to argue with expedience, Matt cast [Portal] for a third time. Liz led the way while he allowed the ten most influential hereditary dukes and duchesses to pass through before he followed, leaving their servants and staff behind.
+
+Once they were inside, they silently went through a thorough round of scans to ensure they weren't bringing in bugs or other spying devices.
+
+When he finished, Matt took a place at the table and spent a few seconds inspecting their visitors as they finished and joined him.
+
+Despite being their noble peers, neither Matt or Liz had interacted with most of the current group beyond casual conversation at parties they both happened to attend. Knowing their plans, trying to gather an Ascender or two for their cause wasn’t too surprising, and he wouldn’t have questioned one or two of the nobles coming to visit him. But all of them at once…
+
+Unless.
+
+Matt smiled and asked as Silvia sat down last, “So, did you all explore together? Any noteworthy rewards?”
+
+Dominus raised a scaly eyebrow at the question but shook his head. “No, though I understand why you might think that. Our cooperation is much more recent, as we settled back into our roles as leaders of our respective fiefs. I can’t speak for the others, but house Maniakes made out well enough during the breach, though it pales in comparison to the rumors that surround you two. However, to get us back on topic, let me explain how we ended up joined at the hip."
+
+Gesturing to Ingrid Öberg, an Ice Bear bloodline and only Tier 24, Dominus explained, “To make a complicated story short, Ingrid complained to Silvia about how her personal plans for developing the aura business to help supply her capital were being stymied by the overly complicated web of exclusivity clauses. Silvia, in turn, mentioned it to Sciath because she was experiencing the same thing, who informed me. Given that all four of us were dealing with the same issue, I reached out to every peer I personally know and most were also suffering from a staggering level of bureaucracy and politicking that got in the way of getting a well rounded aura world off the ground.”
+
+The Tier 28 looked between Matt and Liz before he continued. “Once aware, I started digging deeper and then learned how these same restrictions are harming Concept diversity in the general population. That’s when I first reported the issue to Queen Mara. She was… less than helpful. All of the Royals have been the same, but I don’t believe we can sit around and wait for the Emperor to return. Who knows how long until he returns? In ideal circumstances he could be back tomorrow, if public perception of Ascenders Shadow’s Talent is accurate, but we can’t depend on that. Having gathered the core of the younger generation of nobles, we decided to come to you with our plans and hope that we can count on your assistance.”
+
+Dominus took a deep breath before sighing. “If we can’t break this deadlock and allow our worlds to actually use the plethora of aura types that have been developed, we will find our duchies at the mercy of these factions. Either indirectly for the imports required to have a diverse catalog of aura potions available, or directly for any aura types we’d have access to. Before long, each of our duchies will slowly turn into limited producers beholden to a few aura catalogs.”
+
+Tufa Hamman, one of the nobles Matt had little impression of beyond a polite conversationalist at parties, tapped the table with a serious expression instead of her usual easy smile. “It's a repeat of the trainer monopoly, but no one seems willing to talk reason this time around.”
+
+Matt almost nodded as he heard that, feeling he better understood the nobles' reasons for coming to him, as well as why the Royals weren’t interfering. It wasn’t only a trial for the newest generation of nobility, but he suspected it was also a commentary on the results the Royals, or possibly Manny, found acceptable.
+
+While the Emperor still hadn’t returned, no one expected him or the other Tier 50’s back for at least another two hundred years, unless they delved exceptionally fast or up past Tier 48. However, the Royals weren’t foolish enough to assist the nobility if their ideas went against Manny’s interests, just because the Emperor wasn’t there. Any decision made to such an end would be repealed the moment he returned.
+
+Having gone out the farthest, everyone expected the Tier 50s to be the last to return. Though everyone, Matt included, was eagerly awaiting the main wave of Tier 45 explorers that delved into the third layer, who they expected to return in the next decade or two.
+
+Matt was feeling smug about having identified everyone's very selfish motives for acting, when Boutaje leaned forward so he could see Tufa. “People’s interests are far too entwined with local powers. We’d be fighting our own rank and file should we simply sign edicts from on high as you are suggesting we handle it. We need a solution that doesn't hinder the very industry we seek to support.”
+
+As the reply kicked off clearly well trodden arguments, he looked to Liz, wanting to see what her reaction to everything was, but she only smiled back at him. He didn’t like the deadlock any more than anyone else, but his solution had been to wait for Manny’s return. Not because he wanted to wait, but rather because his own skills alone were far from enough to break the current deadlock.
+
+Trying and failing would mean the various factions banding together against an outside threat, which was why he’d intended to wait. However, with the nobles before him, they had the political power to push through almost anything. At least in theory, politics was far more than raw numbers and comparing resources and it wouldn’t be smart to underestimate his opponents.
+
+Or his allies.
+
+Matt mentally reigned in his assumptions and leaned back to listen.
+
+Liz nodded uncommittedly to a comment Winiata made, “A trend we noticed, though our response was more local. Are you interested in copying our solution?”
+
+Boutaje Daoud was a renowned strategist who’d come into his own during the war helping guide overall tactics, but he still winced at Liz’s suggestion. “Sadly, we believe that the opportunity to use such a… rigorous option, has passed us by. Now, the remaining groups that are both able and willing to sell aura related methods are both strong and connected, making widespread legislation risky. Now it's about limiting damage when pulling the weeds out. Ideally, we can do so without damaging the flowers, but if we must cause damage, we desire to do as little as possible.”
+
+Matt indicated he understood, but Silvia Dobrescu, one of the people he knew best from using her family's shipping network to bypass the Cabal’s harassment, spoke instead.
+
+“We are hoping to leverage your position, Ascender Titan, as the one who published the original aura methods, to use public opinion to reduce the exclusivity clauses in existing and future contracts. As a group, we’ve concluded this is the easiest method with the greatest chance of success, though we’d love to hear both of your thoughts, and we do have contingencies prepared for everything we could think of.”
+
+Matt looked to Liz, who silently raised an eyebrow, fobbing his question back on himself.
+
+Seeing no reason to hold back from doing something he’d want to do anyway, Matt replied with a smile.
+
+“I’m very interested in your ideas and I appreciate you all taking the time to come in person.” Before the other nobles could respond, he continued, determined to dig out the largest nugget of contention first, “First, let’s start from the top. What are your goals in this endeavor? Your perfect outcomes? I know mine, but I’m open to hearing what you guys have in mind and it would be best to make everything clear before we discover the differences later.”
+
+Dominus took back the floor and returned Matt’s smile with one of his own. “We aren’t malicious in our intent and our proposal is for sincere cooperation from all sides. We aren’t looking to interfere too deeply, we simply wish to crack the existing strangle hold, not shatter the market entirely. Nor do I think we could gain your support if we sought to pull the profits of such patents entirely under our control. We all have our own reasons to be here, but we are equally willing to put aside our personal interests to work with the two of you to resolve the crises that looms before us. We believe we have a realistic and acceptable outcome here. In fact, we’ve already had good feedback from some of the smaller patent holders we’ve reached out to. Several have tentatively agreed to a reform based on this framework, so we aren’t coming empty handed.”
+
+Scanning the information the dragon sent over, he found everything was exactly as Dominus had said it was. If Matt cared about the welfare of the highest Tier corporations and research guilds, who were trying their best to extract all the profit out of aura production, he might have agreed with only a few edits. But he felt their proposal didn’t go far enough to really solve the aura potion’s Concept diversity problem.
+
+Why bother to go through so much effort only to throw it all away by accepting a middleground deal?
+
+One of the largest problems lay in that rift recipes were surprisingly hard to ‘steal’.
+
+Successful aperology created very similar rifts and entering a rift would, more often than not, expose which creation method was used. That meant creating illicit rifts and claiming to use a secret third party patent wouldn't work, even if no one simply asked the owner to make a second rift. Even if the methods did work, most companies as part of their contracts demanded the ability to perform local inspections to prevent unauthorized aura farming, making illicit rifts not worth the effort.
+
+There were undoubtedly bootleg aura rifts spread through the Empire, but the scale of delving required to make the initial material investments of creating the illegal rift worth their efforts dwarfed anything return that could be extracted quietly from hidden rifts.
+
+That meant when the rarer aura types were sold, as well as their composite alchemy and rift recipes, which were both expensive to discover and create, they did so for fortunes along with profit shares per unit of aura extracted. While the aura recipes Titan’s Torch had published and launched free of charge were still valuable, once planets started producing aura en masse, the more valuable aura potions became focal points due to the higher possible profit margins.
+
+After all, anyone could produce the aura types Matt’s guild published, where the exclusive ones were harder to buy and came with massive markups due to their artificial scarcity. As more and more aura farms started chasing the higher profits, they found that all of the various aura groups demanded exclusivity contracts either to themselves, or the small partnerships they’d worked out. Similar to many other hyper-expensive products, but none of the companies had a deep enough catalog to allow for the clause to be truly acceptable.
+
+If the various counts and barons involved had been purely logical in their decision making, they would have realized the trap and withdrew as a whole, demanding better, looser exclusivity contracts, or ideally none at all. But human nature ensured many saw the trap and jumped in anyway. Being the first and only producer of a product was valuable, and in their scrabble to not be left behind, the various lower Tier nobles had tied themselves into a perfectly legal gridlock.
+
+Believing he understood why the nobles had come to him and seeing their plan, Matt shattered any hopes they might have had of him simply agreeing without his own thoughts and ideas.
+
+“Ladies, gentleman, I want to thank you for coming this far, but if this is your plan, I don’t think you want my help.” As various looks of confusion flickered across the various nobles' expressions, Matt continued, “There is a very simple solution that you don’t seem willing to consider. Follow our lead. Outlaw the exclusivity contracts wholesale and let the various factions whine and complain. If they don’t like it, they can rebel. At that point you call your parents or the Royals into the equation and solve the problem permanently, once and for all.”
+
+Opening his mouth as if Matt had just realized that his proposed solution might be the very thing they were trying to avoid, he paused, realizing why they might have come to him and Liz.
+
+They'd probably been told by their own parents that they wouldn’t get involved. Added with Leon's messages, Matt was confident that if the nobles did force through any workable solution and the various factions were foolish enough to do anything more than protest loudly, their parents would swoop in, hard. From every report he’d seen on their parents, they’d be happy to use the pretext of rebellion to permanently remove a potential problem for their heirs. Georgios had not rewarded his nobles for their kindness and soft hearts, though he had cared about their self control.
+
+However, what he saw as a useful backup plan, the nobles saw as a failure condition. Understanding they wanted to prove themselves independent, he didn’t push that angle any further, knowing it would be futile.
+
+Dominus tried to deflect, confirming Matt’s hunch. “As Boutaje said earlier, we don’t wish to destroy the very companies our duchies have spent so much effort nurturing. Our goal is to solve the problem diplomatically, with force of any sort being a last resort. If you can’t agree to that, Ascender Titan, then maybe we have misjudged."
+
+Matt smiled, not pushing any further. As much as he felt conflict was inevitable, he did agree that it was best used as a last resort.
+
+“How soon do you intend to implement your plans?” Asking a seemingly non sequitur, Matt confirmed some of his other guesses via the micro expressions they couldn't hide.
+
+Seeing phoenix Liz cover human Liz’s face as she highlighted her own amusement caused Matt to smile, which put a spin on his following words he didn’t intend, but also didn’t mind.
+
+“Lets not kid ourselves here, you have your own plans and don’t want me too involved with the actual strategizing, which is why you came to us early. Get Liz and I on your plan. And shit, I will concede this proposal is both fair and agreeable. So much so that some companies will probably agree to it as is. But if you want my help, my real help, it's far from enough. A three tiered patent system sounds great, as it will allow for some diversification, but why bother to play their game when you don’t have to?”
+
+Dominus looked like he’d swallowed a lemon, but Heracleonas slapped the table leaning forward. “Nearly identical to what I said. The weaker we are from the outset, the harder everything that follows is. We need to go in with an aggressive stance, even if we are willing to compromise.”
+
+Heir to the infamous duchy who'd shed oceans of blood to regain Agatha’s favor after they’d held firm to their original oaths when she took over, Heracleonas Staurakius was an imposing man who’d fought on the frontlines in the Empire's most recent war. Identity hidden via a mask, he climbed his way from private to sergeant, where he earned his officer promotion just before the end of the war cut his easy advancement off short.
+
+Matt met his gaze, but Dominus calmly spoke, clearly having heard everything Heracleonas had to say. “And as I was about to reiterate to Ascender Titan, that is our last resort. If we are going to break everything, we’d best be served by trying to limit the damage. Currently, one of our largest issues is that this isn’t really a crisis yet. Getting people worried about an impending but distant disaster isn’t easy. With distance the worries will fade when the concerns don’t impact their day to day life, the average person simply won’t care. As nice as aura rifts and their by-products are, most civilians and unambitious delvers are content with the more basic versions you ensured weren’t bound by any exclusivity contracts, even if they have a downside. Using public sentiment is our first method, but far from our only one. Yes, I know we can make demands and force things through, but that is tyrannical and will breed resentment. Even if it is for a good cause, it will make any future acts harder.”
+
+Liz plopped phoenix Liz onto the table and spoke for the first time since they’d begun. “Your points are well made, especially the one about trying. Uncle Manny—” Matt was amused to see more than a few look distinctly uncomfortable at seeing the Emperor referred to so casually, “—wouldn’t like to see us go overboard, even if it is for the right reasons. He cares almost as much about the how as he does the what and why. However, endless concessions aren't a solution either, and as a mostly outside party, you leave too much on the table. Inevitably, it comes down to ‘might makes right’ divided by how much of that might we are willing to use. Ours, the Royals, the Emperor himself, or even our position will be maneuvering themselves into their best positions. And note, when I say ‘might’ in this case, it isn’t solely combat power. Political capital both above and below board are still useful, but too many schemes makes you seem weaker than you are. You have the advantage, gather your factions, a—”
+
+Liz stopped speaking as her smile turned wicked. “That's the problem isn't it? Your factions aren't really your factions quite yet, are they? Our generation of your vassals and faction members haven’t taken over from their parents yet, have they? And you probably can’t command their parents given their imminent ascensions? Or is it that you want to use us and this issue to help you consolidate your holds on your rebellious members? Ballsy play if true, but I have to say, it's inspired.”
+
+Dominus worked his jaw, but Sciath, representing the second strongest dragon noble family, shook her head. “It's not as bad as you're implying, but ultimately, yes. Less than twenty percent of our generation of nobility have taken over, and the older ones in the positions we’d need to have aligned with us are mostly ambivalent, if not outright hostile, as they are trying to collect enough resources to reach Tier 45 and leave. Many of them objectively see the issue, but they also believe that we can deal with it, even if things fester and grow worse. With that mindset they have no reason to ‘inconvenience themselves with such trivialities'.”
+
+Sciath’s voice lilted as she impersonated an archaic way of speaking, reaffirming her personal stance.
+
+Continuing with her normal voice, she copied Matt’s earlier move and made a gesture of laying her cards on the table. “The same applies for the non hereditary nobles who as a whole, couldn’t care less about long term issues. So while we could wait, we don’t want to. Our official motives are varied, but we are determined to nip this problem in the bud. We will see benefits from doing so alone or with your assistance, but delaying wholesale is the worst option. It will both make the problem worse and more entrenched, the longer it is allowed to fester. Despite our varied political and personal differences, we realize the danger this direction will lead us into, and are firm in our commitment to fix both the exclusivity, and its resulting bottleneck with Concepts. While there was some discussion about using you or even another one of the Ascenders to bring the older generations to heel more forcefully, none of us here actually like that solution and would prefer to avoid it. You say we aren’t going far enough, but we are trying to eat our cake and have it too. We want to solve this problem in a successful manner as quickly as possible, and we are trying to do so without waiting another thousand years to fully take control of our factions.”
+
+Taking a deep breath, the other dragon glared at him. “And we want to do both of those things without ruining the good thing the Empire has going in regards to aura. We as a Great Power, in a large part thanks to your guild, have been able to lead the pack in regards to creating new aura rifts further than any two of the other Great Powers put together. Secondarily, while we aren’t leading the field in aura enchanting, we are a firm second thanks to our relative abundance of aura, which makes testing relatively cheap. I do not wish to see our lead squandered by self interested parties, nor do we wish to see it set back by butchering our way through the very groups making everything possible.”
+
+Matt was fairly impressed, having not expected the nobles to both see through his own bias and call him out on them when he was trying to play to the effect. He didn’t let that appreciation stop him from leaning forward and meeting her eyes.
+
+Once he was sure he had everyone’s attention, he said a single word as off-handily as he could, “Liar.”
+
+Sciath jumped to her feet, the emotions that had already been running hot flared into red hot anger at his accusation, but he didn’t hold back repeating himself once more. “Liars, all of you. If not to me than to yourselves.”
+
+Seeing even Liz’s confusion, Matt stood up and leaded across the table, meeting the other nobles' angry glares one at a time. “If any of you really believed what Sciath was saying right now, you’d be agreeing with me. I call you liars because if you really saw this as a problem, your solution wouldn’t be so halfassed. What you call necessary compromises, I call foolishness. Yes, a conciliatory stance now might temporarily resolve the issue, but it will forever become the new benchmark.”
+
+Holding up a finger, he prevented Kiri Winiata from interrupting him. “The next time a faction presses, you will have already established your line in the sand and moving it further will be that much harder. Also, give me a little credit, I’m not suggesting we need to kill everyone, let alone anyone.”
+
+Silvia snorted right back, their familiarity giving her more confidence than the others, “Stripping the various researchers and leaders of their contractual rights might as well be the same thing as killing them outright. Did we not already have this conversation? For people like this, their ways of generating money are the main way they get stronger, and encroaching on that won’t be as easy as you are implying. It would be like demanding you stop delving altogether because others need to use the rifts first. They won’t accept anything close to your desired outcomes, and they won’t obediently become mirrors of your guild.”
+
+Matt met her gaze, not backing down in the slightest. “I never said they can’t make money, only that their exclusivity clauses are ridiculous and harming the Empire itself. Personally, I don’t like that they were allowed to patent the information at all, but I don’t make the law. However, our duchy has already proven that without exclusivity contracts, various companies can still make plenty of money through volume. Yes, the added competition reduces the price they can demand per rift of aura harvested, but they are still making money hand over fist. Our duchy hasn't only become one of the largest exporters of aura because I ‘invented’ the rifts with Titans Torch. I won’t try to deny that it plays a massive part, but the data is there. When we banned the exclusivity clauses and left everything else up to normal contract restrictions, competition drove the various factions’ demands down over the course of a decade. It's well documented, though I concede our situation was mildly unique given our starting position. Regardless, I repeat, if you believed in what you said, if you really believed, you’d already agree with me that half measures are worse than waiting for The Emperor to return.”
+
+Dominus looked like he wanted to strangle Matt, but even if the dragon hadn’t been two Tiers weaker at Tier 28, a fight wouldn’t have ended well for him.
+
+“Are you willfully ignoring the backlash and resulting damage that such a large demand might cause?”
+
+Matt didn’t shy away from the gaze, preparing to make his own retort. “I’m not ignoring it. I just don’t care. Just because something is difficult doesn’t mean it's not the right answer. It’s worth it.”
+
+Liz put a hand on his shoulder, stepping in as Matt started to get worked up himself. “We are willing to help, but we won’t support halfassed ideas that will make doing what is needed even harder. We were aware of this situation, but our solution was to wait until the Emperor returned and help rip things out by the roots. Even as Ascenders and the leader of Titan’s Torch, Matt and I couldn’t effect such a change without slaughtering at least a few companies. However, I believe if we combine our efforts and play our cards right we can gather enough political power alone to force through an exclusivity reform. Hopefully a full-on ban, at worst we can help implement such laws in your duchies. While not ideal, I suspect such a move will break their back given our collective economic might.”
+
+Liz smiled at Matt as he backed her up, “Off-hand, I know two of the top three aura research faculties are in your fiefs, if not located on your capitals. Forcing them to follow the laws might be hard, but even if they pull up and leave, they won’t be able to ignore your markets.”
+
+Dominus’ expression abruptly shifted into a happy one as he reached out his hand to shake. “Deal.”
+
+Matt took a minute to look at the proffered hand before looking into the dragon's eyes.
+
+Carefully speaking each word carefully he asked, “Was this a… setup? To get me to agree?”
+
+Dominus shook his head, his eyes staying locked on Matt’s not moving his hand. “Not in the slightest. You simply agreed to our biggest demand and so why should we bicker over the fine details any longer?”
+
+Still not reaching out Matt carefully asked, "Biggest demand?”
+
+“That we not destroy the very production methods we sought to preserve. Given your handling of matters in the breach we feared you’d default to a more… typical Ascender reaction. But if you aren’t looking to slaughter people, why argue when if you succeed, it's a better outcome for us as well? We can acknowledge that your outcome is better, but we felt it was an unreachable goal. In that case, yes, a partial solution is preferable to destruction.”
+
+Seeing Matt hadn’t grown angry, Dominus continued with his pitch, seeming much more at ease. “Though, I’d disagree that a limited but more thorough rollout is ideal. Even if a partial rollout works, which I’m sure it might, it will prove our point while making it seem as if we deliberately enriched ourselves at the expense of everyone else. You are currently exempt from such commentary, given you set the precedent from day one. But the worse the situation becomes for everyone else, the larger a target you may have painted on you by the opposition.”
+
+Eleazar Rajagukguk, representing the second strongest ducal family in the Empire and one of Agatha’s earliest backers, finally made his presence known by nodding to Dominus while watching Matt. “Something no one else has bothered to mention is that our window of opportunity here is limited. If the Emperor returns home sooner than we expect that's fine, but if all the Tier 46’s return before him, we won’t have the clout to do this without relying on our parents or the Royals. At least not for a solution you’d find acceptable. Each of those high Tier will want their piece of the pie. If we want to avoid their interference, we have five to fifteen years before the Tier 46’s return and the other side knows it. If we wish to capture this opportunity, we must be swift.”
+
+Liz, who'd spent some time going through the files shared earlier, sent out a new proposal based on their earlier plans, but modified with Matt’s goal of eliminating the exclusivity clause entirely. She didn’t sugarcoat the fact that aiming for that lofty of a goal was going to be much much harder than the more palatable agreement the nobles originally had put together, but Matt found it ultimately reasonable to both parties.
+
+After seeing her new ideas, Kiri Winiata was the first one to speak. “I mentioned this before and it was disregarded, for good reason, but given the new direction our planning is taking, why don’t we revisit the idea of a self-regulated oversight board. Let us push the inevitable burden of inspecting every rift on farm worlds to the corporations and guilds who are so worried someone will make an illegal aura rift and harvest aura without paying them a cut. They are going to demand something like that if they can’t demand exclusivity, and forcing them to run it will keep them busy.”
+
+Peter Wyatt shot right back, taking a firm stance Matt appreciated, “And that will then give them far too much power, if they have any inclinking of actual power at all. They can’t sell the product and run the oversight board. They’d start abusing their positions almost immediately."
+
+Kiri shrugged her shoulders as if confused. “And whose problem is that? Then we have a perfectly legitimate reason to come down on them.”
+
+Unexpectedly, Peter paused and gestured to signify she’d made a valid point. “As true as that may be, the core idea is still overly problematic. However, instead of rejecting outright, I propose a slight alternative. Why don’t we offer to passively monitor the rifts via planetary AI as well as check for any kind of ‘waste products’ being sold under the table. After all, recent events have shown that not all of them are safe. That’s already a problem I’m sure we are all dealing with, and it would turn the ‘farmers’ more directly against the various research factions which would occupy both.”
+
+Boutaje pointed to the wall where he projected a row of numbers. “If they agree. My own speculation indicates we will face fierce opposition. Short term, this will hurt the companies, given the length of the previous contracts and the exit clauses. With the new laws, the aura farmers would be allowed to challenge the existing contracts and losing out on so many exit clauses. Combined with the lower than normal prices per unit of aura, the companies will be well into the red. Possibly for decades. They won’t take that lying down."
+
+Matt shrugged. He’d been back in the Empire for five hundred years and had been making mana stones the entire time.
+
+He wouldn’t go as far as to say that a problem that required money wasn’t a problem quite yet, but he felt it was the easiest solution if the other side agreed. “Liz and I are willing to take on some of the financial burden to help smooth the transition, but we aren’t willing to become these companies and guilds' personal banks. If each of our duchies covers five percent of the contract breaking fees, we’d only have to pay half. That should be something all of us can easily… Really guys, how bad are your economies right now?"
+
+Matt couldn’t help but sigh as the various nobles used his question as an excuse to vent about the economic downturn crippling their higher Tier economies, and therefore most of their budgets. He also realized they were so interested in aura precisely because their higher Tier economies were floundering.
+
+Their duchies were so old and well settled that their newly revitalized lower Tier economies, and therefore the aura that was at the center of it, had become critically important avenues of growth as they’d long since tapped out other revenue sources.
+
+Leaning back, Matt met Liz’s eyes and grinned right back at her, even as the other nobles argued strategy.
+
+“You realize this is going to turn you into the face man for this movement.”
+
+Matt didn't shy away.
+
+He might not have started this situation, but aura rifts were the first product of his guild and he'd wanted to step in for a while. To that end, he’d deal with the consequences, even if he didn’t like them.
+
+“If it works, it's worth it.”

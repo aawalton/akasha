@@ -1,0 +1,105 @@
+---
+id: ef2bc721-a288-5519-b4f3-ba6eda65ec1c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: New Adventure"
+slug: 0034-chapter-34-new-adventure
+partOf: succulent-girl-evolution
+position: 34
+ownLength: 1953
+unit: words
+publishedAt: 2025-10-11
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2668604/chapter-34-new-adventure"
+royalRoadId: "2668604"
+---
+
+Miss Cow’s head snapped up. “I think so! I remember hearing them say something like that!”
+
+Miss Magpie nodded thoughtfully. “I see. In that case, we have a destination we can point you towards. However, I am less confident about how we might restore you to your family—”
+
+“What’s the Hearthfruit Tree?” Bubbles inquired, interrupting the discussion. She couldn’t help it; any mention of a plant made her excited.
+
+“It is an ancient tree, far to the north,” Link growled. “Beyond the borders of the duchy. If memory serves, there is a yearly phenomenon during the late fall where wild bovines of all species gather at the tree and spend the winter there. If that is the case, then this heifer will likely find her mother and herd there.”
+
+“I see,” Miss Fish murmured. “And how far is it?”
+
+“It is five days’ flight away. Perhaps faster for you, Guardian.” Miss Fish pursed her lips at the information before shaking her head slowly.
+
+“I cannot leave my forest for more than a day. There is still far too much work to do, and new arrivals are arriving daily.”
+
+Five days’ flight… Bubbles didn’t know how long it would take for her short root-legs to traverse that amount of distance, but hearing Miss Fish admit her limitations seemed to soothe the apprehension that had been lingering in the back of her mind.
+
+She had no clear goal at the moment, no idea how to proactively become stronger, and Miss Fish had already warned her that she should be thinking about her future—and Miss Cow wanted to reunite with her family at the Hearthfruit Tree, which sounded like an ancient, well-respected, and powerful plant. Wouldn’t it make sense for her to accompany Miss Cow to the tree, that way she could also meet with such an influential entity so that she could ask advice on how to gain similar power?
+
+Bubbles shot a root bundle into the air, grabbing everyone’s attention. “How many days would it be to travel across the ground?”
+
+Everyone stared at her, the fire’s crackle her only reply. Then Miss Magpie finally spoke, as if she understood Bubbles’s thoughts. “With a very vague estimate of your pace, I would project ten days of travel at best. However, that is assuming you and Miss Cow do not get into any trouble, and I worry the two of you would make… quite attractive targets for any predators who see you.”
+
+“She will not be escorting the cow alone,” Link said firmly. “I will accompany them.”
+
+Bubbles brightened at Link’s dependability before quickly wilting when Miss Cow began trembling beside her. “No, no, no! I don’t want to travel with a predator! My dam warned me about those with sharp fangs and claws!”
+
+“But Link won’t hurt you,” Bubbles said comfortingly to the young bovine. “He’s nice, and he’ll only be along to protect us from the actual sharp-fanged and -clawed predators.”
+
+Despite Bubbles’s reassurances, Miss Cow continued shaking her head emphatically, her breath beginning to grow heavy. Concerned that Miss Cow might do something rash again, like roll through the flames to get at Link, Bubbles quickly placed herself in front of the heifer, hiding him from her view.
+
+“Please, Miss Cow, calm down! Let’s discuss this rationally.” As Bubbles looked into the young cow’s large, frightened eyes, she felt her own rationality melt away. Miss Cow’s eyes had the most amazingly long lashes that fanned over her eyes, reminding Bubbles of Fern’s graceful fronds back when she was still her majestic self. “Um… let me discuss with the others. I’m sure we can find some sort of compromise…”
+
+Cautiously backing away from the fearful cow, Bubbles scooted around the fire to where Link was sitting with Miss Fish and the two magpies, all of them looking troubled at Miss Cow’s extreme reaction.
+
+“I know it’s better if Link accompanied us,” Bubbles said quietly to them while Hugger grew a little taller to continue keeping an eye on Miss Cow. “But is the route to the Hearthfruit Tree that dangerous? Maybe if it’s just me going with Miss Cow, she’ll be more comfortable.”
+
+Link’s lips turned down in a very human frown as he worked through the preliminary logistics of the journey. “The distance is far, and the dangers are as of yet unknown. You wouldn’t want to be traveling on established roads, which are easier to travel because you’ll draw the attention of humans. However, if you travel through the wilderness, you will be likely to run afoul of predators with far longer and sharper teeth and claws than me.”
+
+“Not only that, how is your sense of direction?” Miss Magpie asked. “I trust Sir Link has the olfactory senses to find the Hearthfruit Tree despite not being able to see the lay of the land, but if you don’t have him along…”
+
+Bubbles wilted at their very reasonable objections to her plan of traveling alone with Miss Cow, and she glanced uneasily back at the scared bovine on the other side of the fire. “I don’t know how I can convince her that Link won’t hurt her…”
+
+“Let me speak with her,” Miss Fish suggested. “Perhaps my story of being controlled by fear will resonate with her…”
+
+The magpies fluttered off of the dragon’s horns as she made her way over to Miss Cow for a private conversation. Link looked back at Miss Magpie.
+
+“Do you happen to have any pertinent information about the locale and the route to the Hearthfruit Tree?”
+
+Miss Magpie glanced at the bird who remained beside her and gave a brief introduction. “This is one of our scouts, and she primarily traveled in the northern region before she returned to the core flock, so she is more familiar with the lay of the land and any political intrigue happening. I’ll leave it to her to explain what you need to know.”
+
+~ ~ ~ ~ ~
+
+Miss Magpie’s associate was much older than Miss Magpie herself, as evidenced by her incredible breadth and depth of knowledge and slightly deeper, huskier voice. Unlike the elders of her garden, the elder magpie also had an inexplicable charisma when conveying her knowledge and experiences, making it easy for Bubbles to listen with rapt attention.
+
+“Yer gonna be cold up there in the Silver Reaches—s’what the humans have designated it, ‘cause of the snowy mountains—so I’m a bit worried fer ya since ya look like yer a desert plant,” the Elder said, eyeing Bubbles’s leaves critically. “Fortunately, that’ll only be a problem if you stay too long. If you deliver the heifer quickly, chances are the Hearthfruit Tree’ll let ya stay through the winter, then ya can come back south once the snow thaws.”
+
+“S-Snow?! Will it really snow?” Bubbles asked, aghast. She had heard of the mythical “snow” before, of course—Master had cooed at Bubbles that she was lucky they lived in a place where the weather was nice, and the worst she had to worry about was some gentle morning frost and not full-on snow—and based on how worried everyone was, she understood it wasn’t something she would like.
+
+[Even if the Hearthfruit Tree was generous, the timing of the seasons may prove to be problematic…] At Rock’s reminder, Bubbles turned back to Miss Magpie with desperation.
+
+“I can’t be gone for a whole season, right? My garden…!”
+
+Before Miss Magpie could answer, the other bird corrected herself. “Sorry ‘bout that, might have caused a misunderstanding. We’re still in fall, so you could easily bring the heifer to the tree and make it back south ‘fore the cold catches up to ya. Assuming you don’t run into any issues.” The retired scout chuckled good-naturedly. “This is why I couldn’t hack it as a diplomat, eh? I accidentally create too much panic. Not like our leader-in-the-makin’.”
+
+“Your other skills are far more valuable than diplomacy,” Miss Magpie said hastily, seemingly flustered by the sudden change in topic. “In any case, your life would have been much harder as a diplomat, so you lucked out, I would say.”
+
+“Ain’t that the truth,” the magpie said blithely before turning back to Bubbles and Link. “Anyway, s’long as you stay off the human road—there’s only one, and it leads to the human mage school further north—yer unlikely to encounter other humans. There’s less forest up there, which is both good and bad. It’s good ‘cause you’ll be able to find your destination relatively easily since it’s mostly plains with tall grasses up there, so you’ll be able to see the Hearthfruit Tree far off in the distance. It’s real hard to miss—looks like it’s on fire from far away.
+
+The bad is that even though you won’t have yer typical woodland threats, like those with teeth and claws that cause physical pain, the main threat up there is harder to notice, since they blend into the grasses and such: slimes.”
+
+Slimes…? Seeing Bubbles’s confusion, the magpie’s eyes lit up and she began describing the creatures with a gusto that didn’t match the listeners’ reactions. Despite their dark feathers and fur, Miss Magpie and Link seemed to pale as the scout lovingly described the way the slimes… hunted: oozing inconspicuously through the grass, waiting for hapless prey to just wander unsuspectingly into its puddles and having their feet dissolve before they even realized what was happening—rendering them incapable of fleeing by the time they realized what had happened.
+
+“How do you avoid them?” Bubbles asked shrilly, flexing her roots to make sure she still had her walking appendages. After a month or so of having freedom of movement, she wasn’t quite ready to face the thought of losing her mobility again. The magpie laughed joyously.
+
+“Lucky fer you, you won’t be affected by the slime! It’s carnivorous, which is how it doesn’t just kill all the grass it hides among. Ungulates have a minor advantage there, ‘cause as long as they don’t lay down on the ground their hooves’re safe from the slime. But our good friend Sir Link here,” the scout dipped her beak respectfully towards Link, “he will have to stay on his toes, so to speak. He will be expressly vulnerable to the slime.”
+
+Bubbles looked at Link, horrified. He also had a distasteful look on his face, but he didn’t take the opportunity to back out of his prior commitment. “I will be on guard. I trust it has a distinct scent?”
+
+“It smells awful,” the scout assured Link happily. “I can smell it when I’m at typical flight altitudes. It’s a fascinating creature to observe.”
+
+“H-How do the humans deal with it?” Bubbles asked nervously.
+
+“Shoes,” was the prompt reply. “Fake hooves. And you reminded me: there’s a small town nearby. Kinda pass-through establishment for those traveling to and from the mage school, but they’ve seemed pretty peaceful from what I’ve observed. Very in-tune with nature, so unlikely to mess with ya. They let the slime do its business, and just avoid it.”
+
+“Is there a way to drive it off?” The magpie tilted her head thoughtfully at the question, wracking her memories.
+
+“Good question. I’ve only ever observed mages fight the slimes with their magic and stuff. The regular humans seem to carry bags of meat with them, and toss them away from the slimes to divert them. They’re pretty good at avoiding conflict.”
+
+Their conversation came to an end as Miss Fish returned to their side of the fire, accompanied by a calmer Miss Cow, though she still cast nervous glances towards Link.
+
+“A compromise has been reached. Miss Cow is willing to travel with you two to the Hearthfruit Tree, if you are still willing.”

@@ -1,0 +1,120 @@
+---
+id: 6a688031-c686-5d29-9667-08df8fecef60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 273: The Coin"
+partOf: rise-of-the-living-forge
+position: 15
+ownLength: 1745
+unit: words
+ownProgress: 1745
+publishedAt: 2024-09-12
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1800127/chapter-273-the-coin"
+royalRoadId: "1800127"
+markedReadAt: "2026-06-29T19:58:56.351Z"
+---
+
+“You what?” Yonas exclaimed, staring at Arwin in aghast disbelief. He sent a glance over their shoulders into the ruins of the boss room behind them, then turned his gaze to the dungeon heart tucked under Arwin’s arm.
+
+“We would like to keep the Dungeon Heart,” Arwin said, giving Yonas a sheepish grin. “If we can come to terms, that is.”
+
+“Why?” Yonas asked. “Is this meant to be some kind of joke?”
+
+“No. Why would we joke about something like this?” Lillia asked.
+
+“Because it’s ludicrous,” Yonas exclaimed, throwing his hands up into the air. “How will we get rid of the Ardent Guild? Of Twelve? What could you possibly do with the Dungeon Heart that would let us all win? And for that matter, who attempts to change a deal when you’re still in the dungeon with their business partner? Anyone with half a brain would wait until we had left the dungeon and were in a safer area.”
+
+“But that would be pretty rude, wouldn’t it?” Anna asked, tilting her head to the side with a small frown. “We only just decided we wanted to see if we could alter the deal, after all.”
+
+“I feel like it’s a bit late to be worried about being rude at this point,” Yonas said, his features growing sharper as he realized that the Menagerie were actually serious and had absolutely no plans of handing the Dungeon Heart over. “You’re not stupid. Do you really think keeping the heart ends in a way where we all win?”
+
+It was several seconds before Arwin responded.
+
+“I honestly don’t know,” Arwin admitted. “But the more I think about it, the more distasteful I find the idea of giving Twelve a powerful magical item. If there is any alternative path, I would like to do my absolute best to find it. Even if that just means loaning the heart to us for a few days while we figure out our options to see if any alternative exists.”
+
+It was difficult to tell exactly what Yonas was thinking — but the man definitely wasn’t happy. He blew out a short, irritated breath, then thinned his lips. “I am not new to negotiation tactics.”
+
+“Tactics? This isn’t a tactic.”
+
+“You want more of a reward,” Yonas said flatly. “It happens all the time. Fortunately for you, I’m not an unreasonable man and the Dawnseekers were prepared for this. We’ll increase the pay for your efforts. Five thousand extra gold.”
+
+Arwin shook his head. “That’s a kind offer, but it’s negotiating toward the wrong thing. This is not about the money. It’s about the principle. Principle we should have considered earlier, but we made a mistake.”
+
+“You drive a hard bargain. Six—”
+
+“Yonas,” Arwin said, his words slicing through the merchant’s like the blade of a sword. “We do not want your money. Until every single other option that I have at my fingers is exhausted, I would deeply request that this Dungeon Heart not go to Twelve. My guild is responsible for this issue. We should have put more thought into it before the Heart was in our hands, but what’s done is done.”
+
+Yonas let out a long suffering sigh. “You do realize what you’re asking for, right? The only way you come out ahead is if you find a way to kill Twelve and also pay off my guild. You’re making this a lot more complicated, and you can’t even fight. How—”
+
+Arwin twisted. Verdant Inferno materialized in his hand and he swung the hammer, driving its head into the wall beside them with all the force that [Scourge] would let him muster. An echoing crash tore through the dungeon as the weapon obliterated stone. A huge section of the wall pitched forward, red brick crumbling as it fell to the ground amid a cloud of dust.
+
+Yonas gaped, letting dust gather on his tongue for nearly a second before his body remembered to cough.
+
+“How?” Yonas breathed, his eyes widening as he took a step back. “You’re a smith. That much power… it isn’t possible for a non-combatant class.”
+
+It’s not even half of what I could have done if I was using [Soul Fire] and Verdant Inferno’s [Shieldbreaker] in conjunction.
+
+“Of metal and flesh, the latter is far easier to break.” Arwin dismissed Verdant Inferno and turned back to Yonas. “I know we’re asking for a lot. But if we give the heart to Twelve, we could be creating a monster.”
+
+Nobody spoke a word for several long seconds. Yonas studied Arwin, then the other members of the Menagerie. None of them moved. Finally, the merchant pursed his lips.
+
+“You have personal history with Twelve, then.”
+
+“With Jessen,” Arwin corrected. “But they are connected.”
+
+“So it was the Menagerie that destroyed the Iron Hounds. There were a few rumors, but none that bore enough weight to be believable,” Yonas said. “Tell me, then. Why? What did Jessen do to elicit such distaste that you would make an enemy of my guild?”
+
+“He killed a child,” Lillia replied, her features going as dark as the shadows that followed in her footsteps.
+
+Yonas stiffened. “What?”
+
+“His men attempted to recruit me. I refused, and they tried to kill me,” Arwin said. His stomach clenched at the memory. He shifted the Dungeon Heart to the side and lifted a hand to his head, pulling his helm off. For a second, Arwin paused. His eyes traced the horns protruding from the helm’s sides. “They sent a mage to my smithy in the night, with orders to firebomb it. I was not there.”
+
+“A boy by the name of Zeke was working together with Ifrit. He was working late.” Lillia’s voice was taut with anger. “By the time we heard the explosion, it was already too late. I had to drag Arwin from the fire. The only thing that survived the flame was Zeke’s helm.”
+
+“He wasn’t even old enough to fight. He was a child,” Arwin said. He slammed the helm back over his head. “As I mentioned earlier, I should have dismissed the idea of giving Twelve anything from the start. But that road has been crossed. We will not aid Twelve.”
+
+“I see,” Yonas said. His features had turned completely inscrutable. He observed Arwin silently for several long seconds before speaking again. “I can see why your guild would hold a grudge. Am I remiss in assuming Twelve is unaware of this?”
+
+“I’d imagine we’d have come to blows already if he knew,” Lillia said.
+
+“Likely,” Yonas said. “The entire reason for his presence in Milten is the missing Dungeon Heart — one which Jessen had. One which I presume you took.”
+
+“It’s gone,” Arwin said, guessing the direction the merchant was leading the conversation.
+
+The merchant chewed on the insides of his cheeks. His foot tapped against the ground and his arms crossed in front of his chest. “You do not leave me with many options.”
+
+“What would you do?” Reya asked. “If it had been someone you cared about that got murdered by a cold hearted bastard? Would you just help out the guy that might have had something to do with their death?”
+
+“But you don’t know that Twelve was responsible,” Yonas pointed out. “You only suspect it.”
+
+“Which is the only reason we got this far in the first place,” Rodrick said. “But you can’t possibly look at Twelve and tell me that he wants the Dungeon Heart because he’s planning to sell it to build a house of healing for children. There have to be other ways to deal with the Ardent guild.”
+
+“And if they get Twelve on their side?” Yonas asked.
+
+“We just don’t allow that to happen. Twelve might be strong, but we’ve dealt with strong enemies before,” Arwin said. “I’d imagine it won’t be long before he eventually figures out we had something to do with Jessen’s death. And, when he does, we’ll be at odds anyway. No point helping him in the process of waiting for that day to come.”
+
+“And what of Raen? A merchant must always seek to make coin. Standing in his way will make him your enemy. Even if I were amiable to granting your request to keep the Dungeon Heart, he will not be. You could make an enemy of him.”
+
+“I know,” Arwin said simply. “We will take the blame, should you be willing to let us.”
+
+Yonas nodded slowly. His eyes flicked up to Arwin’s helm. To the horns at its top, then back to his eyes.
+
+“I see,” Yonas said. “Very well. It is unfortunate, but I cannot accept your request.”
+
+Arwin’s jaw clenched. He’d been expecting that answer, but it still stung — and it put the entire guild in a very bad spot.
+
+They’d screwed up. There was nobody to blame but themselves. Arwin had accepted Raen’s deal too quickly, without thinking about the consequences of what actually giving Twelve the Dungeon Heart would be. It might have been the safest route, but it went against what they all stood for.
+
+“I see,” Arwin repeated. That was all that could be said. He would not back out of a deal. There would be another way.
+
+“You request cannot be accepted because it is impossible to grant,” Yonas said, his eyes shimmering like blue ice. “A merchant must always follow the coin. And the Menagerie were, unfortunately, a disappointment. Despite their bold claims and refusal to allow for mercenaries to be hired on, they were unable to reach the boss and were forced to retreat. Who would have thought? The crafting guild is nothing but a crafting guild.”
+
+“What?” Reya asked. “That—”
+
+“It is unfortunate that, even after I later returned to attempt to retrieve the Heart with my mercenaries, there was no Dungeon Heart present. It seems the Dawnseeker received poor information,” Yonas said.
+
+“You’re covering for us,” Reya muttered in realization.
+
+“Why?” Lillia asked.
+
+“I already told you,” Yonas said. He nodded over his shoulder at the remains of the dungeon boss’ room. “A merchant must follow coin, and I am quick to adapt. It seems your guild believes there is a way that you can deal with this situation without arming Twelve. I bet against you once already. That proved to be a mistake, and so I will take the opposing side this time around. Instead of betting against the Menagerie, I will bet on them.”

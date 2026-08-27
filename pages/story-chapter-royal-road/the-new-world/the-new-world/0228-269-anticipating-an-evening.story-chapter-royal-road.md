@@ -1,0 +1,533 @@
+---
+id: e0f58325-fe37-54fe-837e-caa9808a499e
+page-type-slug: story-chapter-royal-road
+title: "269 Anticipating an Evening"
+slug: 0228-269-anticipating-an-evening
+partOf: the-new-world
+position: 228
+ownLength: 8045
+unit: words
+ownProgress: 8045
+publishedAt: 2020-09-16
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/555737/269-anticipating-an-evening"
+royalRoadId: "555737"
+markedReadAt: "2026-06-29T21:28:51.642Z"
+---
+
+- Obolis Novas -
+
+I tapped the glass table with the tip of my claw as I pondered in the night. Long ago, I unlocked a perk that dissolved my necessity for sleep. Over the years, it became one of the distinguishing factors between my rule and others. The nights often stretched on into eternity if I found myself lost in my thoughts.
+
+These seas of doubt and turmoil created a stormy state of mind for me. I wrestled with many ideas and the information in my mind, stretching for answers where there were none. It left me exhausted, my decisions mounting in both ambiguity and importance. I always found it strange that the most vital choices often carried the least information about them. I was positioned amongst a crossroad of sorts in that regard.
+
+I despised not knowing what to do next.
+
+My eyes narrowed as I peered at a dimensional slicer gained from a Sentinel centuries ago. Though I didn't kill the Sentinel, I did orchestrate his death. In doing so, I obtained a rare treasure and eliminated a hated enemy all at once. Those were good times, yet those times did not last.
+
+Standing onto my graphene layered boots, I skulked through a hallway showing many of my treasures. Upon one pedestal, the devastated remains of an Overseer's gauntlet lay resting. Within an exhibit, the fossil of an ancient eldritch lay cleaned and preserved. Further still, a Hybrid lay frozen in place for my viewing pleasure. It was grotesque, but at times, I could not tear my eyes from it.
+
+These mementos reminded me of the grand adventures and escapades I'd lived through. The artifacts resonated with the vestiges of old cultures and vibrant lives. They told stories, each their own piece of history, and each echoing a lost epoch, forgotten until I uncovered it. This instilled a great sense of pride but also a tremendous burden.
+
+This burden existed within the lands I conquered and the people I ruled. I used the resources of an Empire built off blood and stone to fuel these excursions into the unknown. I'd done so for centuries, and they'd given me many titles. Of those new names, I preferred Obolis, Finder of Secrets the most. It was the culmination of my life's work and my childhood dreams.
+
+Yet dreams age and die, their luster long forgotten. At the time of my Empire's creation, consolidating an enormous base of resources seemed like a far better way of gaining the necessary funding for my expeditions. My Empire was to serve as a launching point, a catapult of wealth that would shuttle me into the vast void of space.
+
+Now the Empire I built haunted me, my responsibilities weighing around my neck like chains.
+
+I sighed while grasping the sides of my head, fur ruffling outward. I had already canceled three of my expeditions due to the Adair's invasions. I never imagined I'd be at the forefront of some civil war, yet here it had come to pass. This was likely due to my negligence. Granting ownership of worlds to my family was a bold move, one soaked in nepotism and pride. It might've worked with my incessant diligence, but I was off amongst the stars, searching for my next great treasure hunt.
+
+I took a deep breath, breathing out my regret. At times, the truth was stranger than fiction. This rebellion was that concept's magnum opus. They converted entire species into monsters, created beasts worse than even the eldritch, and they used mind control as a means of suppression. Somehow they seemed to think these factors would lead to a better life.
+
+I cracked my neck, my bones now older than some soils. I found solace in knowing the rebellion would be futile. This futility stemmed from a principle I learned long ago - Schema was the most active and powerful entity I'd seen in all my travels. While the Old Ones exceeded his raw potency, they often worked in archaic and enigmatic ways. This lack of direction meant they were more akin to natural forces, similar to a wandering black hole or supernova. Powerful as those forces could be at critical junctures, they lacked the same potency that a directed existence like Schema enjoyed.
+
+Other primordial beings skulked in the dark along the furthest edges of space as well. These entities rarely interfered with Schema's territory, these behemoths never wishing for an all-out war with artificial intelligence. Schema's ruthless approach made tales of other rebellions into mere rumor and speculation. His brutality in regards to dissent was legendary. That cruelty would showcase itself all too soon, and not merely with the destruction of Giess. This would be the beginning of Schema's wrath.
+
+The A.I.'s predictable and systematic approach allowed me to accrue every resource I ever gained. He uplifted my people and me, and I would believe in him as he believed in me. The ancient construct allowed me to break innumerable laws as long as I sent certain choice pieces to him, along with data on my journeys. I was, in many ways, his most excellent scout. I trekked into the unknown, learned of it, and unveiled that darkness for all to see.
+
+That is what I wished myself to be and to be seen as - the unveiler of the hidden. Schema was all but necessary to that end, and as he helped me, I would stay on his side and help him, to the end. That was what this rebellion was in many ways - a test of loyalty. It was one that exposed the true nature of many.
+
+It enabled Schema to discover those that wished harm upon him and killing the rebels would be an act akin to cleansing. The most celebrated cleanser to come from this conflict was none other than the Harbinger of Cataclysm. He showed tremendous potential with some of it already fully realized. His guild was a collection of anomalies ruling in a forthright yet effective manner. They rallied behind him, and he acted as their symbol. They would thrive in the future, and joining their cause was, in many ways, an investment.
+
+It was regrettable that the first piece of the Empire they laid eyes upon was the vagni. These beings reflected poorly on us, not only in our handling of them but in the race as a whole. By worshipping the eldritch, they put us in a horrendous position, one that, though mismanaged, was doomed for failure from the start. In the end, perhaps I should've followed Helios's pertinent advice when we found the planet.
+
+Kill them all.
+
+I winced at the thought. Old as I may be, my heart had not yet turned to stone. If anything, the vagni's ability to rebel against us demonstrated their latent ability. Reports mention the use of eldritch for their protection, and they organized far better than anticipated. I expected our anti-leveling protocols to keep them weak and hapless. It only fueled their anger at us, our attempts at dominance ending in their enhanced motivation.
+
+I had not lost all of my confidence, however. Once we suppressed this insurrection, more substantial investments would be made into the vagni. They'd earned it, one way or the other. To create that future, the glass viewing tomorrow was all but necessary. I intended to meet several races, particularly ones well suited for dispatching the Hybrids.
+
+Though the Harbinger's Legion was a powerful group, it lacked the widespread assault capabilities we required. Clearing three planets of the rebels would require months, if not years. A more efficient route would be necessary to ensure my Empire's safety. I would need to put my treasure and knowledge on the line. Otherwise, everything I built would be lost.
+
+That was why tomorrow would be decisive. I needed as many of my allies there as possible to showcase the Empire's strength and ability. The Harbinger would inspire many there, as would his companions. Though gruff and in need of polishing, he would act as a selling point for my proposal.
+
+A series of messages cropped up in my status, interrupting my thoughts. I steeled myself. Many called me, and many needed me. Such was the responsibility of a ruler, and I had chosen this life long ago. As I have before, I stood tall. This was both a burden and a privilege, a sacrifice and a boon. With my mind settled, I prepared my speech and the details of our gathering before answering messages and reports.
+
+Sightings of the Hybrids poured in. They settled onto three of my worlds so far. Blegara remained the most infested of them. I showed my teeth, and I sharpened my claws. A seething hatred burned in my chest. I would not stop until this rebellion was utterly stomped into oblivion, living on in memory alone.
+
+The Adair family would come to regret angering the Empire. We were a sleeping giant, one that once awakened would wreak havoc until there was nothing left but scorched earth and rotting corpses. We would crush them under our massive heels. We would smash them under our mighty fists.
+
+And in the end, we would be victorious.
+
+- Daniel -
+
+I frowned at Diesel, "You sure this is going to work?"
+
+He shook his head at the blueprints, "No. Not at all."
+
+"Thanks for the vote of confidence."
+
+"I can't give good news if there is none...Not yet, at least," Diesel said while leaning over the blueprints.
+
+It was a thing of beauty. We made it together, Diesel handling most of the design while I let him know what I was able to do. The difference here was that instead of trying out golems and iterating on them as we went, Diesel took a different approach. He relentlessly thought over and reviewed every detail at his disposal, not resting until it was absolutely perfect. I took notes on his methods as I watched, trying to understand his process and techniques so I could use them on my own.
+
+It would be almost impossible to emulate. See, Diesel was a perfectionist through and through. This perfectionism resulted in a far more dynamic and sophisticated design overall. His entire idea for the new golem circled around a single line of thinking; I wasn't using my resources wisely. Because of this, a lot of my golem's latent potential was being wasted.
+
+I had to agree, considering they produced a lot of mana, yet none of them could cast a spell. That was the first flaw Diesel pointed out. I argued that getting them to use spells would be all but impossible. He agreed, but only if the golems were constructed as they were.
+
+The new models would be different. Diesel kept my floating joints model, praising me for the idea. Even if he puffed up my contribution a bit, I took all I could get considering how much he bashed my layouts overall. After keeping that, he scrapped almost everything else. He wanted to create what he called a 'super golem.' Super golems were multiple golems that worked together in one entity, kind of like a superorganism.
+
+It required a few difficult resources, but we had them at our disposal already. Tools, refining, metal, and all the physical resources were a cakewalk for me to handle. The skillsets for crafting were also relatively simple for me to execute on. After all, we weren't working from ground zero in that department. In that regard, I knew what I was doing.
+
+The other elements of the construct were much...murkier, however.
+
+It required mind magic cipher inscriptions, something I wasn't experienced in. I would be creating several golem minds, tying them together with telepathic tethers, then giving each of them a singular directive. Afterward, they'd each handle different aspects of the golem's defenses and offenses.
+
+The first mind would focus entirely upon his mental defenses and offenses. That was Diesel's idea after I explained the Adair's and their mind magic. This intelligence would be like a shell for the other golem minds. It would fend off most mind magic attempts while the others focused on physical movement and magical casting.
+
+The movement-based mind would be a carbon copy of what I worked on before with many improvements. Most of the gains came from specificity; golems were awful at multi-tasking. By making one mind entirely focused on one thing, it could do that one thing many times better than before. These physical movements were what I concentrated on for the most part, along with basic problem-solving.
+
+Diesel appreciated my work there. He mentioned there weren't many improvements left to make since the golem mind was 'full' of other stuff. He also explained that I was trying to improve something that couldn't really be improved. That's why I was hitting a wall with my golem's progress. There just wasn't any progress left to make using that method.
+
+That left us with the third and final mind. This one would manifest as a magician that managed mana and power. It would use simple incantations to bolster both defensive and offensive capabilities. These magics would be fueled by an implanted grimoire. This would give the golem about thirteen spells to use at any point in time, increasing its flexibility by leaps and bounds.
+
+This partitioning out of different functions also allowed each task to be better overall. In the end, this new approach would result in a golem that would be a fierce opponent even for an intelligent eldritch. My brainless drones would evolve into dungeon clearing beasts.
+
+It almost made me tear up just thinking about it.
+
+Either way, the sun rose in the distance as we finished up planning the project. Diesel yawned, tired from the night of planning. He rubbed his eyes,
+
+"This was about as good a night of work as we're going to get, I think. I'll see if I can't get a few people to help us out with some of the details before we meet back up tomorrow. It would be nice to have a few more hands-on-deck, and I know a few of Torix's students who could help us out."
+
+It seemed like a lot for the golem project, but I trusted his judgment. He worked on large scale projects before, and I sure as hell hadn't, not like this at least. I let him handle it as we made our way back to Mt. Verner. Once inside, we made our way to the residential district at the lowest part of the mountain. I hovered him to save some time since he helped out so much. That, and the guy was about as athletic as a cheetah with four broken legs.
+
+We reached Diesel's home, a nicely carved out section of granite nestled along an upper part of a cavern wall. It was on the bottom floor, but it still had a unique flair from a few design choices. After walking through the stairs, a girl walked out of his room, sliding a metal door along a hinge. She was pretty in a quiet sort of way, not needing to broadcast it. She saw me and froze up before Diesel waved his arms,
+
+"Woah, wait a minute. It's our guildleader, Daniel. Daniel, this is Melissa. Melissa, this is Daniel. Honey, I know he looks ugly, but don't take it to heart. He doesn't act as bad as he looks."
+
+I rolled my eyes before nudging him with my elbow, "Come on now, you didn't tell me you had a lady friend."
+
+I raised my eyebrows a few times. Out of her earshot, Diesel leaned over and murmured,
+
+"Stop all that...but yes, she's a keeper."
+
+"I thought you were crushing for Althea?"
+
+Diesel shrugged, "I was, I was. After a while, it became obvious you two were going to stick around. I had to move on, and that's when I found Melissa. She's amazing, and I'm lucky I found her. It's crazy how everything seems to work out in the end."
+
+Diesel smiled, a content kind of smile like he'd found something he never wanted to let go. I gave him a pat on his back,
+
+"You're doing better than I thought."
+
+He scratched his nose, "Heh, thanks bud."
+
+I saw him off before taking a mental note of where Diesel lived. Coming back would save us some transitionary time between work sessions. After leaving the guy to his devices, I rode our main elevator back to the top floor. People were waking up, getting ready to begin the day's work.
+
+Along the top floor, a strip of stores opened for wealthier residents. Of course, anyone could come, but they kept to the middle of the highest level since it gave easy access for serving the top floor residents.
+
+I gave a few waves and nods to civilians as I walked by, enjoying the newfound luxury shops. Exciting places popped up near here from alchemy to herbal stores. They carried ointments and lotions lining their shelves, ready to beautify and comfort customers. In other stores, they stocked animal goods or metalware, focusing on sturdy, everyday tools like silverware or arm braces.
+
+They even opened a spa, a fire mage heating the water by hand to ensure it was kept at just the right temperature. He partnered with an origin mage who created scented salts and water to spruce up the experience. People's ingenuity always surprised me, and by the time I reached my team, I was in a good mood.
+
+I found Helios and Victoria already up, each of them standing in the middle of a culdesac of guest homes. These rooms were initially made for Amara and Hod, but they preferred sleeping in other places, like the floor. Because of that, we had the rooms free. Besides those houses, Helios and Victoria spoke with one another, each of them catching up after yesterday's battling.
+
+"It's so refreshing to actually be outpaced for once," Victoria said while spreading her hands.
+
+"I can't tell if you're being serious or sarcastic," Helios murmured.
+
+"You know what I mean. I always lead the charges. Having someone else do it is nice. It's better than always taking the brunt of every exchange."
+
+I stepped up to them, and Victoria gave me a wave. Helios raised an eyebrow,
+
+"Where were you last night?"
+
+I pointed up, "Under the stars, working on golems."
+
+Victoria shook her head, "What? You work on golems?"
+
+"Eh, it's just something I do for fun. I'm having a guy help me out with making the new designs, and I think they'll be damn good at clearing out dungeons. We're running into a few problems with making multiple consciousnesses, however."
+
+Victoria raised a hand, "You do know that there are eldritch that can eat black iron, right?"
+
+I pinched the bridge of my nose, "Yes. Yes I do."
+
+Helios turned to Victoria, and they exchanged a silent conversation. Victoria raised a hand, "Well, if that's the case, Helios and I know a very competent primordial mage that specializes in consciousness generation."
+
+I crossed my arms, "Is it Obolis? I think he's too busy to teach me."
+
+Helios scoffed, "Perhaps, but Ophelia, the woman you chastised in front of everyone as if she were a child, isn't all that preoccupied. She could help you if she wished to do so."
+
+Helios cackled as I furrowed my brow. I shrugged, "If that's how she took what I did, then that's fine. She's a part of my team, so it's my responsibility to keep her safe. I did that, even if she doesn't like me for it."
+
+Helios raised his eyebrows, "And perhaps there's wisdom in that. Convincing her that your intentions were pure will be hell, however. That is if my own experiences are at all applicable. Perhaps you might want to enlist the help of the resident beggar, Florence. His experience in groveling should help you."
+
+I rolled my eyes, "If groveling is all it takes to get what I want, then that's easy. I'm not here to save my pride. I'm here to save people."
+
+Victoria narrowed her eyes under her mask, "You would throw your pride away for something so simple? Lives are made every day. A reputation is built over a lifetime."
+
+That was a strange perspective. I frowned, "Is there a misunderstanding here? I don't go around trying to convince everyone I'm some bigshot. Other people got that idea without my intervention whatsoever. All I've done is what I've needed to do to get shit done. I'll keep doing that until there's nothing more I need to finish."
+
+Victoria tilted her head,
+
+"I, personally, value my pride and esteem highly. For others to do the same, you will need to demonstrate to them that your reputation matters. I've shown many that there are consequences for besmirching my standing. That is why I have risen in the ranks so quickly. I shall continue to do so, and I would recommend you do the same."
+
+I raised a hand, "Maybe in the Empire because it's set up that way. Outside the Empire, results are all that matter. If you begin to sacrifice results for something intangible like notoriety, you end up accomplishing much less in the long run."
+
+I peered between them, "That's why I've risen through the ranks, and I didn't have a ladder already made for me. I built a ladder on my own as I climbed."
+
+Victoria nodded at me, "It's fascinating hearing your perspective. To me, an excellent reputation allows one to avoid fights, make better deals, and tolerate less misbehavior. My troops obey me because of my report. Without it, I command them through fear, which clouds the mind. Are you still not convinced?"
+
+I shook my head, "Not at all."
+
+She gave me a thin smile, "We shall have to agree to disagree. Right, Helios?"
+
+Helios stood there in a state of deep in contemplation before turning to Victoria,
+
+"What I will say is that my reputation fell apart with one misdeed. You treat me well, Victoria, but I know there are others that laugh behind my back. They think of me as a pair with Florence, both of us failures. All of my actions have amounted to no shift in what others believe of me."
+
+Helios stared at his hands, "What I have left behind are the actions and impacts I've had on people. Those cannot be taken away, no matter what others believe to be true."
+
+Helios shook his head, "Yet they grant me nothing. In the end, I...I don't know what matters anymore."
+
+He squeezed his clawed hands into fists. Victoria put a hand on his shoulder, "Helios, you're a Novas. Hold faith in that position and standing. You'll rise up once more someday. I know this."
+
+He peered at her, a soft smile on his lips,
+
+"Yes...Perhaps I might."
+
+To me, these guys seemed crazy. They could think what they wanted to think, as long they followed my orders. It wasn't like I needed them to agree with me about everything anyway. Otherwise, I wouldn't have anyone following me.
+
+Interrupting our philosophical musings, Hod molded from their shadows. Being shorter than them, he reached his bird arms over their shoulders,
+
+"Hod welcome fur people. Fur people fluffy, and Hod like fluffy things."
+
+I smiled at Hod, "Good-natured, as always."
+
+Hod's chin lifted straight up into the air as he gloated,
+
+"Hod is good. Good is Hod. Hod look up words in book. Big book show good means Hod."
+
+"You mean a dictionary?"
+
+"Hod think...maybe. Hod not good at read."
+
+Helios rubbed his temples with the knuckles of his hands while Victoria laughed. Hod pulled himself off the floor, using both of them as supports. He swung back and forth while moving his legs.
+
+"Hod fake fly."
+
+Althea stepped out of our suite, our fancy-schmancy apartment bigger than the other homes here. She walked with light, graceful steps, her casual clothing always a sight for sore eyes. I grinned before walking up with excitement. We hugged, and I spun her around before leaning my forehead against hers,
+
+"Hey beautiful."
+
+She smiled back, "Hey, handsome."
+
+Victoria tilted her head, "Ahh, how sweet."
+
+Helios walked off, leaving the situation, "Disgusting. Tell me when we are to leave for Blegara. I am ready and waiting."
+
+I shook my head, "We're actually taking a short break today. Obolis invited us to the glass viewing. You guys can come if you want."
+
+Victoria raised her hands, "What? Really?"
+
+Florence peeped his head out of a window in one of the apartments,
+
+"What? Are you really sure?"
+
+Victoria turned to Florence, "Were you listening to us the entire time?"
+
+"What? Of course not. My ears are simply highly trained to pickup when parties are mentioned."
+
+The party goer closed his window before rushing down the stairs and running out his door. Slamming it behind him, he took wide steps to us before spreading his arms,
+
+"A soiree? By Schema, it's been too long. We have to get ready right now. I'll get everyone something to wear that's more suitable. I know a guy that knows a guy that knows a girl. She's the best, and I have a few favors I can call in."
+
+I raised an eyebrow, "You're assuming we don't have something fancy to wear?"
+
+Florence raised a hand, "But of course not. Your guild is all about getting the job done when it needs to be done, right?"
+
+"So, you were listening the entire time, huh? Well, Yeah, we are about that."
+
+"And you've yet to attend a ball or gala, right?"
+
+"What are you getting at?"
+
+Florence had a cheeky smile on under his mask,
+
+"So it goes without saying that you've yet to address your wardrobe. Don't worry, I'll handle it for you. Just give me some measurements, and I'll have it handled."
+
+I looked at my arms, "I wonder if I could just shift my armor into a suit."
+
+Florence cupped his chin, "Hmmm, are those the unique fashion to your species? Would you mind showing them to me?"
+
+I molded my armor into the rough approximation of a suit. It was sleek and sharp, too sharp, in fact. Some of the edges and corners might as well have been blades, and mimicking the texture of the fabric was outright impossible for me. This left it smooth and glossy, giving me a cheesy look.
+
+Florence leaned close, inspecting all the intricacies of the garment, "Ah, a three-piece ensemble that accentuates shoulder width and downplays issues with your midsection. Interesting. In your case, a less structured approach would result in a softer appearance, making you more approachable. I think a bit less sheen would contrast your gruffness, making you appear more rustic. What do you think?"
+
+Man, I didn't think Florence would be this fascinated with fashion. I looked down, "Wouldn't this be fine?"
+
+Florence scoffed, "Oh yes, so would a burlap sack, yet most wouldn't go to a galactic ball wearing one."
+
+"I don't know, man. I don't think I can pull off a suit like that."
+
+Althea looked up at me, "I...I think you'd look nice."
+
+My heart melted. Fuck.
+
+"Okay, I'll do it."
+
+Florence raised a fist, "We'll show them a more refined side of the Harbinger, one that isn't unkept or uncouth...At least in his appearance."
+
+I deadpanned, "Really now?"
+
+Florence turned towards the rest of my guildsmen, "I can have it handled for everyone here, in fact. I've got a lot of favors to cash in."
+
+I rolled my shoulders, "Well, it will definitely be new. That's for sure."
+
+Florence pulled out his obelisk, a fancier model. It began scanning me from head to toe. On Florence's left, a 3-d model popped up of me, though it lacked any real detail. Florence looked at it then back to me,
+
+"Can you take the armor off?"
+
+"It's my skin, bones, and in my blood...So no."
+
+Florence raised his eyebrows, "By Schema, do you bleed metal?"
+
+"Yes."
+
+Florence shrugged, "I'll make sure these limitations are taken into account. We'll do our best."
+
+He went to scanning everyone here outside of Helios and Victoria. After finishing up with us, he skulked off towards the other members not present. As he did, I remembered to extend the invitation to other people. I sent a message to my top guildsmen, along with the new albony that were a part of my team.
+
+After finishing that conversation, I left towards breakfast at a cafe. I  hadn't had eggs and toast in years. The others followed, and the nostalgic flavor brought me back to different times. The albony enjoyed most of our food, though they preferred the meats. Their species evolved off a diet of mainly cured or dried foods like bacon or jerkies. This gave them a vast variety of meats they shopped from.
+
+Despite that, the sheer novelty of earthen food made it a fun experience for them, and even Helios perked up. I wasn't the only one that could tell either. The albony kept their masks on, using a sliding compartment to let themselves eat. This exposed their teeth, and even with my sharp senses, I never noticed the compartment's outline before. The albony had perfected their visors centuries ago, so their excellence in mask-making made sense.
+
+Once the meal was completed, I made my way towards Chrona and Krog. There was no way in hell I was about to send them an invitation to view Giess's glassing, at least not by status message. Instead, I chose to let them know in person so they didn't get the wrong idea. I found them on the outskirts of Mt. Verner's forests. Chrona sparred another gialgathen while Krog watched as both the battlers glided through the air with succinct, graceful movements. Chrona kept the edge throughout, though she scrambled at times when pressured.
+
+As I neared them, they settled down, landing onto the ground to meet me. They bowed before I raised my hands, "Don't worry about the bowing thing, guys. We're still friends, even if I'm your guildleader."
+
+Krog's eyes showed the strain of sleepless nights, as did Chrona. It left me somber and almost afraid to ask them if they wanted to come to the glassing. I wanted them to know they were a core part of my guild, however, so I raised a hand,
+
+"So, uhm, our guild has been invited to watch the glassing of Giess. I didn't actually want to go, but Obolis insisted. Neither of you has to go through with this invitation I'm giving you, and I know you're both tired. I...I just wanted to make sure you both felt included."
+
+I scratched the back of my head, "Man, this sounded better in my head than when I said it out loud. Jesus Christ, just forget I asked."
+
+Chrona gave me a gentle smile, "Do not doubt yourself. I...thank you for this invitation, but I would rather stay here. This is my new home, and I wish to get myself situated."
+
+Krog sighed, "Our planet's demise is something the powerful views for pleasure, hmm?" He peered down, "At the very least, it shall bring someone some joy."
+
+He winced, "I shall not partake in that joy. Of that, I'm resolute.
+
+I bit my tongue before saying,
+
+"So I'm guessing that's a hard no. So, er, I hope you guys are enjoying Earth so far."
+
+Chrona nodded, "It is different, though beautiful in its own way. I think of it as a muted version of Giess, one lacking the same vibrance in mana and life. Perhaps that is simply me showing a bias for my home."
+
+I tapped my legs, "It's good to hear you don't hate Earth at least." A thought popped in my head,
+
+"Did you ever meet with Torix to talk about him learning primordial mana? I can't remember if I ever mentioned it."
+
+Chrona tilted her head, "I have, and we decided it wasn't worth pursuing. He is headstrong and overwhelmingly favored towards dominion mana. This gives him a range of skills that he's suited for. Primordial mana is simply not one of those skills."
+
+Krog whipped his tail behind him, "I was a part of the talks. Torix is a prodigy in regard to his chosen domains. That potential is a result of his sacrifices in other areas. I believe he will go far with his own mana and chosen path. You need not worry about him nor his progress. That wily mage will succeed even when given hardship and struggle. It is in his nature."
+
+I gave them a thumbs up, "I'll trust you guys on that. Anyways, it's good seeing you're both doing well. When things settle down, we should talk again."
+
+They perked up, and Chrona snapped her tail against the ground,
+
+"We would like that, leader. Stay well, and stay strong."
+
+I left them to their sparring, each of them blowing off steam. Other gialgathens flew around the skies of Mt. Verner, enjoying the clouds and wind on their wings. It made our base much less secure, but it didn't really matter in the end. We would eventually be forced out of hiding in our mountain. It was up to me to be ready for whatever was coming when they discovered where we were.
+
+Those thoughts raced in my head as I bolted back up to Mt. Verner, meeting up with the others. Ophelia and Helios were already prepped, Ophelia garbed in a luxurious dress while Helios stuck to a new cape. Helios must have brought Ophelia over since she didn't rest here.
+
+It might have been an exchange for hooking him up with his new attire if you could call it that. It could've been a favor for me. Regardless, I wasn't about to waste this moment. As I stepped up, I gestured at Helios to break the ice,
+
+"I don't know how to say this, but I thought you'd make a bigger effort to look different."
+
+Ophelia frowned, "He has. It's in the subtleties of his wares."
+
+Usually, I'd chop that up to useless frivolity, but these guys took this as a matter of life and death. Well, at least compared to me. I looked Helios over with more care, and a few changes cropped up. He groomed his fur for once, and he added a few bands like Florence. His cape lacked the same holes and scrapes that his previous one had, and he polished his armor. He even took several pieces of crystallized mana as practical jewelry.
+
+I peered at Ophelia, "I didn't think that would be enough from what Florence said."
+
+She propped her weight onto one foot while crossing her arms,
+
+"Looking good is more about owning your own style rather than sticking to trends."
+
+Helios rolled his eyes, "And what are you, aside from the master of trends?"
+
+Ophelia tilted her head at Helios, "I like riding those waves. They're fun, and that's how I like to dress. That means I'm sticking to my style by following the trends. I think of myself as a fashion surfer that way."
+
+I turned a hand to her, "Speaking of styles, Florence and Helios mentioned you're a living mana expert. I was wondering if you could help me with a project?"
+
+Helios winced as I asked, the guy turning away. If he thought I was shameless, then he was right. I also didn't give too many fucks about it either, though. Ophelia raised her eyebrows,
+
+"So the big man needs my help? Sorry, I'm a little too busy making sure I'm ready for the next battle. I don't have time for anything else."
+
+Welp, I had this one coming.
+
+"I'm willing to offer compensation."
+
+She gave me a small grin, "Like what? From what I can see around here, there isn't much that's valuable."
+
+I stopped myself from rolling my eyes.
+
+"I'm a runic carving expert. I can carve into any jewelry you give me, power it with mana, and you can keep whatever I make."
+
+Her eyes widened under her mask, "Oh, really now?"
+
+I nodded, "That's what I plan on working for with the project. It wouldn't be too out of the way for me to make a few extra enchantments for you."
+
+"So, what kind of inscriptions can you make?"
+
+"It would depend on what you need. I'm best at configurations that revolve around survivability. I can also help with gravitation, telekinesis, temperature manipulation, and matter generation. If you also need it, I can power a blue core in just under an hour. I mean, I can kill some monsters too, but you already know that."
+
+She leaned back, "You can power a blue core that quickly?"
+
+Helios turned to her, "His natural mana generation is likely the highest of anyone I've ever seen. It is comparable to an elemental furnace user."
+
+She lifted her chin, "There aren't many people that can utilize elemental furnaces to any degree of proficiency. Hmmm, I have a city that's running low on power. If you power that up to full, give me a gravitational ring that lets me float, and give me a ring with matter generation properties, you have a deal. What do you say?"
+
+She looked dubious during her offering as if she was trying to bite off more than she could chew. The thing was, all of that would take about an hour to finish if I layered my tasks. I'd be having her help me out for months in return. I reached out my hand,
+
+"Alright. You'll need to teach me how to do the living magic thing, and help me with my golems. You're okay with that?"
+
+She looked at my hand before grabbing my top two fingers with her petite grasp,
+
+"Oh, that won't be a problem. Know this - I won't help you until you give me everything I asked for. You understand?"
+
+I smiled, "Then it's a deal."
+
+Helios shook his head before walking off. Ophelia grinned under her mask before hopping away with light steps. She might think she duped me there, but from my experience, none of those tasks were at all difficult. As Helios walked into his apartment, I shouted,
+
+"We'll be leaving soon, suits or no suits."
+
+He raised a hand before entering his apartment. As he did, Florence walked out of his own place, stepping up to me,
+
+"I handled the suits and dresses. I called three different outlets I frequent, and I've almost got them finished. One of my contacts acquaintances is going to the party, and they'll bring us the coats and dresses."
+
+"Hell yeah. Cool."
+
+Florence spread out his hands, "It will be a lavish night of entertainment. Gagh, you'll love it."
+
+I frowned, "That's usually not my thing."
+
+Florence pressed his fingers together while leaning forward,
+
+"This is different. It's about devising strategies and forming relationships. You'll meet many people from many guilds. This is your chance to set up alliances, show off the strength of your guild, and maybe even make a few business deals. It's fun, certainly, but it's also a golden opportunity if used wisely."
+
+"Eh, if you say so."
+
+Over the next fifteen minutes, everyone got ready and met back up here. Florence took the initiative in that regard, making sure everyone showed up. Torix was the only person late, and he stared around with a dreadful aura that saturated the very fiber of his being. He wailed,
+
+"I cannot believe we're actually going to a party of all things. It would seem to me that we're all wasting our valuable time, and utterly so. It's shameful, truly shameful."
+
+I nudged him with an elbow, "Come now, you'll enjoy it."
+
+"Bagh, it will take more than a smile to convince me otherwise. I've never owned a sociable persona, and my sensibilities tend to misalign with those that frequent various social circles. It would seem most fail to see the value in any of my interests. That is why I often work alone."
+
+I scoffed, "Heh, me too. Maybe it'll be more fun than we're expecting."
+
+Torix grumbled, "If only that were the case, disciple."
+
+Once everyone was collected, Helios opened a portal for us. He glanced at us,
+
+"We'll be arriving on the Nebula Drifter soon. It's a space station that the Emperor created for his various trips into the nether regions beyond Schema's influence. Any violence will not be tolerated as it could breach the hull and result in the death of everyone present."
+
+I shook my head, "Just most."
+
+"Huh, well, let's avoid that if at all possible. We want to make great first impressions."
+
+Florence looked everyone over, making sure we listened. Without waiting any longer, we stepped over the divide, finding ourselves in the living quarters. It was a standard barracks for soldiers, a tight series of bunks interspersed by tiny storage units. It was made of orichalcum and a gray, dull material layered between the green metal. The same plasma linings offered lighting and heating, keeping the space comfortable and visible.
+
+Helios pointed forward. We followed him, everyone squeezing their way through the compacted space. After walking through a long corridor full of other bedding areas, we neared a storage unit for supplies and food. We waited for Florence's friend, all of us packed in like sardines. A few minutes later, and an avant-garde looking albony in an orange mask waltzed up to us.
+
+He wore a sleek, showy dress covered in various kinds of crystalized mana. They weren't like Helios's gemstones which were tailor-made to prevent tampering. These mana bombs were just that - mana bombs. To me, this guy was wearing a vest covered in dynamite since anyone with any sense for mana could use the crystals to destructive effect.
+
+Either way, he wore it with confidence before stepping up to Florence,
+
+"Hello, darling. It's wonderful to see you again."
+
+Florence grabbed his hand before bowing to it. He grinned under his mask,
+
+"It's good to see you're thriving, Evan. Sorry to get down to business so quickly, but we're pressed for time. Did you bring us the attire?"
+
+"Of course, of course. Here, take them."
+
+Evan opened his dimensional storage ring, pulling out a sea's worth of clothing. He propped them over Florence's arm before waving at us,
+
+"I'll see you all at the party. Stay healthy and beautiful, darlings."
+
+Florence passed the clothes out as needed, and we went into the bunks, using them as changing rooms. With me, Hod struggled to get his new clothes on. That made sense since I'd never seen him wear clothes before outside of rags. I helped him out, using a bit of gravity.
+
+After finagling them on, he looked like a new bird. Honestly, it was just a red pirate looking suit with white, weird-looking pants. It fit well and contrasted his feathering, however, so it made him look dark and mysterious. Well, if you didn't think of him as a pirate or he didn't open his mouth.
+
+I couldn't criticize him much since someone could say the same thing about me too. To fit my clothing, I molded my armor into a thin, even layering over my skin. After that, I wrestled with my clothes until they were finally on. Fitting on a suit was a more arduous process than I imagined it'd be, everything requiring a bit of finesse. With it all put on, I turned towards Hod,
+
+"How do I look?"
+
+"Not like Harbinger. Different person. Strange person. Not normal. How Hod look?"
+
+I grinned despite his vague description,
+
+"Like a million bucks."
+
+Hod stared at his hands, "Why Hod look like money?"
+
+I gave him a pat on his back, "Don't worry about it."
+
+Since Hod gave such poor feedback, I took matters into my own hands. I used origin mana to create a thin block of metal. With two durable gravitational panels, I squeezed and heated the ore into a flat plate. This created a smeared mirror panel I hovered in the air, thin as aluminum foil.
+
+I was surprised by my reflection. I changed a bit from last time. My skin was still grayish, the metal infesting me down to my cells. My hair was still raven-colored and rough. Eh, it was what it was. I found a few more scars on my face, a few of my earlier ones fading with time. I didn't know what made the scars, in all honesty. If I got scars from every wound, I'd be walking ball of scarred tissue by this point.
+
+I was glad I kept my hair short, at least. Letting it grow out got my helmet stuffy, and I hated having to twitch my neck to get it out of my face. Combine that with a sort-of sharp jawline, and I sort-of looked good. Out of place, but good. The suit did the majority of the weightlifting in that department. Florence wasn't kidding when he said he knew the best either. This suit fit my proportions to a T, and it was still comfortable.
+
+Satisfied after a few seconds of looking, I crumbled the metal as we stepped out, Florence and Helios waited on us, each of them already finished. The more talkative of the two brothers chose a flowing garment, similar to his previous one. It left more of him shown, which was a surprise. It was still classy somehow, and he whispered to himself about something as we waited. Helios was already finished before we even got here.
+
+A few minutes later, and the ladies stepped out of their rooms. Ophelia was already prepared, but she helped out Victoria, Althea, and Kessiah with getting ready. The albony beautician honed in on her work, making miracles happen with all of them. Despite that, I hardly noticed anyone but Althea. She took my breath away as she walked out in a blue dress that accentuated her hair. I could hardly stand as she walked up to me.
+
+She grinned while putting her hands on her hips, "How do I look?"
+
+"I...I...you look really, really good. Like, wow good."
+
+She blushed but powered through, offering me her hand. Florence turned towards us, "Does anyone want a prep in etiquette on how to handle themselves? I just rehearsed a lecture for it."
+
+So that's what he was whispering about. I pulled Althea to me, "I think we've spent enough time on it already. Let's go."
+
+Althea raised her eyebrows, "Let's."
+
+Everyone stepped out while Florence looked devastated. Torix of all people walked up to him and grabbed his shoulder,
+
+"If it should keep me from this party but for a moment longer, I shall sit here and listen to what you have to say. Aside from that, I am a complete sap for lectures in any and all forms, even those revolving around the most trite, pathetic, and useless of disciplines."
+
+I raised an eyebrow at the lich, "You know, you didn't have to come if you didn't want to, right?"
+
+Torix shook his head, "I'm one of your most important allies. Leaving you to fight this war on your own would be heresy if I say so myself...Though spending my time listening to a lecture sounds far less dry than attending to others chattiness."
+
+Florence perked up and began his long speech. We left in a hurry, passing more corridors before entering another elevator. Helios turned to us,
+
+"Do try to keep yourselves civil. That is all the advice you will need."
+
+Once we rose through several floors, we entered into another entryway, much like the other space station. Unlike the previous one, this specific room carried many entrances. Albony and other races walked in and out of these entryways, almost like it was a giant stadium.
+
+I turned to Helios, "How large is this place?"
+
+"Larger than Mt. Verner."
+
+Althea whispered, "Woah. In space?"
+
+Helios grinned, "In space."
+
+We walked through the doorway, leading to a set of stairs. Stepping up and out into a room, I gawked at the sights around us.
+
+Man, Obolis really outdid himself here.

@@ -1,0 +1,263 @@
+---
+id: e95bba18-457d-571b-a99a-d51dfc689bf9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: An Un-bear-able Decision"
+slug: 0032-chapter-32-an-un-bear-able-decision
+partOf: the-gift-of-loot
+position: 32
+ownLength: 3413
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3441813/chapter-32-an-un-bear-able-decision"
+royalRoadId: "3441813"
+---
+
+The first thing Thomas noticed about the robber, besides his bleeding, crying, and the leg he was practically dragging behind him, was that he was skinny. Like, model-thin. The second thing was that he had enough tattoos to make Post Malone blush.
+
+The guy turned terror-filled eyes on the two of them. "Help me," he begged.
+
+Thomas might have thought it was a trick, until he saw what was coming for the robber.
+
+Out of the bushes sprang another bear cub. Easy to guess that this was what had savaged the robber's leg. There was very little chance he could have escaped a full-grown bear.
+
+The bear cub was not nearly as cute as the others had been. Now that it had tasted blood, it ran after its prey in a low, controlled stalk that didn't fit a baby animal. Its bloody muzzle was pulled back from sharp, dagger teeth, and even the head seemed slightly elongated, like the mask had slipped and the real monster had been unleashed.
+
+It coiled up and prepared to spring in a way no bear cub should.
+
+It was so focused on its prey, in fact, that it completely missed Thomas's approach.
+
+Mace in hand, Thomas did his best golf swing and struck the monster side-on, sending it flying a good 6 feet.
+
+The monster fell and tried to get up, but Jo stepped in and chopped down with her sword. The monster was instantly decapitated.
+
+Thomas and Jo exchanged a look, then they both turned to the robber.
+
+The man was in a terrible state. It looked like the bear monster had either chewed or slashed his hip and knee joints, and honestly, Thomas wasn't sure how he was still standing. He was breathing so hard and fast it looked like he was hyperventilating.
+
+"Oh man, thank you, I won't forget this, but how do we get out of here? What do we do? Where is the exit?" the robber demanded, speaking quickly through gulps of air.
+
+"What's this 'we' business?" Thomas asked. "You're the one who chased us here. Maybe we should just feed you to the bears."
+
+The robber shook his head vigorously. "No, no, that wasn't me. I mean, I was with the group, but honest to God, I didn't think it would get this far. I didn't think that we'd be shooting people. But when Grimm said to go, none of us got no choice. Look, man," the robber took a limping step up to him. When Thomas stepped back, he seemed to realize how he looked and stepped to the side instead, sort of weaving his shoulders as he did. "Look, man," he said again, speaking so quickly the words practically tripped over one another. "I know things got bad out there. I'm sorry about that. But when Grimm says you jump, you say how high."
+
+"Oh, poor you," Thomas snapped. "I saw your friends shoot into that car in front of me."
+
+Though he was pretty sure this guy at least hadn't been one of the shooters. He had a very distinctive look, to put it lightly.
+
+The guy shook his head again, frantically, still doing that odd weave. He had not stopped moving for a second. "It got too crazy, too fast. That wasn't supposed to be the plan. And if I knew what would happen, I never would have joined."
+
+"You chased me to the dungeon!"
+
+"Yeah, 'cause of Grimm. He's crazy, you don't understand. He'd shoot me if I said no."
+
+Thomas didn't believe him for a second. He looked at Jo, who was watching the robber with zero expression on her face. No help there.
+
+"Look," the guy said, "Just point me to the exit. I'll go, you'll never see me again. Or... or can I follow you? You two seem strong, and I don't want no trouble. I just want to live and get out of here and go back home. If I can."
+
+Great, they'd just collected a follower. What were they going to do with this guy?
+
+Thomas hadn't had much of a plan when he attacked the grizzly cub monster. But now he was stuck with a huge dilemma. Should they... kill the guy? Give him a taste of the mace? It had put down that other robber. But this man wasn't attacking him. He was asking for help. And Thomas... Thomas didn't trust him, but he wasn't sure he could just put someone down like that when it wasn't clear self-defense.
+
+"Stay there," he said. "Don't move. And if you attack, I will kill you."
+
+"No, no. I'm not like that. I swear," said the very obviously dangerous gang member, but he held up empty hands and backed off a few more steps.
+
+Thomas glanced at Jo and jerked his head to the side, indicating they should walk further away. She followed, though she, like Thomas, visibly didn't trust him an inch.
+
+But the robber just walked in place in a little circle, weaving, still shrugging his shoulders at nothing, breathing far too quickly, and dragging his dead leg behind him. What kind of crazy uppers was this guy on?
+
+"What do you think?" Thomas asked Jo, as soon as they were far enough not to be overheard.
+
+"Two possibilities," she said, cool and collected as a computer. "He's lying or he's not."
+
+Thomas waited for her to expand, but she didn't.
+
+He let out a breath. "Okay. I don't know how he's even standing at this point. There's blood all up and down his leg. He has to be in an incredible amount of pain, but he's not acting like it. He's not acting right at all, actually. Look at him."
+
+They both turned to look at the guy, who was still moving around, even with a mangled leg.
+
+"If he is mentally compromised," Jo said, "we can't trust that he'll either keep his word, or even remember that he's given his word."
+
+"And, no offense, but the word of a robber means nothing," Thomas said. "I'm pretty sure his gang killed someone. Even if he wasn't the one holding the gun that's still accessory to murder, isn't it?"
+
+"I do not know," Jo said. "But there's a way we can find out if he's telling the truth about his involvement." She turned and took a step towards the robber, but Thomas stopped her.
+
+"Wait," he said. "Give that sword back to me real quick."
+
+He had a funny feeling. Her skill was Still Water on a Razor's Edge.
+
+She hesitated a moment, then handed it over in a simple, precise movement, hilt first.
+
+He took it from her, and as Jo's fingers released the handle, she blinked, then blinked again, and took a staggered step backwards.
+
+"Oh, oh! Hoo boy." Her hand flew up to her temple. "That was one doozy of a rush." Her upper Midwest accent was back in full force. He hadn't realized it had disappeared when she'd gone all computer.
+
+Thomas smiled. "Welcome back, Jo. I was starting to get a little worried."
+
+She stared at the sword. "What did that thing do to me?"
+
+"No, it's not the sword. I think it's your skill when you're holding something with, erm, a razor's edge."
+
+Still staring, Jo slowly nodded. "I had perfect control over my hands and where I cut, but it was like I was the weapon. And I just... cut through emotions."
+
+"We can test it out real quick," he suggested. "You grabbed that one robber's dagger, didn't you?"
+
+She nodded, and without prompting, patted a pocket on her camouflage cargo pants. Neither one of them had sheaths, and she had slipped the hunting dagger in her pants pocket. Probably not the best place for it, but Thomas wasn't going to tell her how to live her life.
+
+The moment she grabbed it, the mild alarm faded from her face, and she stood there for a second, staring at her hand. Then she emotionlessly replaced the dagger in her pocket before she let out a breath. "Yeah, it's the skill alright."
+
+"I think every time you hold a blade or something sharp, you have complete control, including over your emotions," Thomas said. "Try not to get addicted to that."
+
+"Speaking of addiction..." She looked over hesitantly at the robber. "We could just leave right now." Though the tone in her voice suggested she found it slightly distasteful.
+
+Thomas nodded. "I'll tell him my best guess for where the exit is, and he'll probably limp off."
+
+He wouldn't make it, though. Considering a baby bear almost took him out, he had to be a level 1. That wasn't Thomas's problem at all, but... leaving him hurt like that didn't seem right. He sighed. He was faced with doing the smart thing and the right thing. Bleh. Stupid morals. Stupid having to look at himself in the mirror.
+
+"Wait," Jo said, "I had an idea earlier." With that, she turned and marched back to the middle of the clearing. "Hey, you!"
+
+The robber stopped walking around in circles, but he didn't stop his odd bobbing and weaving. "What up?"
+
+She held out her hand. "You had a gun, right? You all were armed. Give it." She had a snap in her voice that had not been there before, and was pure don't-mess-with-me Midwest mom. Thomas didn't blame the guy for hurriedly picking it out of his pocket and handing it to her. It was as good as a rock out here in the dungeon anyway.
+
+Jo looked over the pistol. Then to Thomas's complete surprise she took out the clip and looked it over. Thomas knew basically zip about guns, but Jo seemed to know what she was doing. She looked back at Thomas. "Clip is full. I suppose he could have just replaced it, but I don't see why he would."
+
+Thomas sighed. He knew what he was going to do, and he hated it.
+
+"What's your name?" Thomas asked the robber.
+
+"Twitch."
+
+He stared. "What, really?"
+
+"Isn't that a video game?" Jo demanded.
+
+Thomas started to correct her, but then decided he didn't care enough. The guy didn't deserve it.
+
+"Hey, I had that name way before it was cool," Twitch said, still sort of weaving in place and breathing way too fast. "I ain't no copycat."
+
+"All right... Twitch," Thomas said, "if we're going to help you out I need you to hand over every weapon you have."
+
+"Just have this." He pulled out a butterfly knife and hurriedly tossed it aside. It was covered with blood, as was most of him.
+
+"How are you standing up?" Thomas demanded.
+
+Twitch actually grinned, revealing braces on his teeth. "It's my Gift, you know what I'm saying? Gift of endurance. Long as I'm moving and my heart rate is up, I can pause pain and keep going. I'm like the movie Speed."
+
+"You are no Keanu Reeves," Thomas said. Left unsaid was what would happen if Twitch ever stopped while badly wounded. But he could guess.
+
+Sighing to himself, Thomas reached into his bag and fished out a level 1 healing crystal. He'd gotten it from the mimic dungeon. It was only a C grade, so not that great of a loss.
+
+He tossed it over. Twitch snatched it out of the air with a look of excitement and wonder. He knew what he was holding, and the crystal immediately sank into him.
+
+His leg made an audible crunching sound as the bones snapped into place. He had been walking on a broken leg? How? And then his hip did the same thing. Twitch had also been moving around on a partially dislocated hip. Thomas was not a real healer. He didn't even play one on TV, but even he knew that should not be anatomically possible.
+
+Gifts were a hell of a thing.
+
+Twitch sighed in obvious relief. "It feels so good not to feel bad." He stretched out his creepy long, skinny arms. "You didn't have to do that, though. Thanks."
+
+"I know I didn't," Thomas snapped. "I think the exit's probably in that direction, because there's a big-ass boss monster that way. Now get going." He jabbed a finger about ten o'clock from where he was standing.
+
+Both Jo and Twitch looked at him, and Thomas easily lied, "That's my Gift. Gift of senses. My perception increases the more dungeon monsters I kill."
+
+"Oh shit, that's useful," Twitch said. "All right, I'll just— I'll go. You got no more trouble from me. But seriously, the other guy I was with, Grimm, stay away from him. He has little man syndrome, always feels like he has something to prove. And he's a stone cold killer." He turned to leave, apparently content not to pick his knife back up.
+
+"Wait," Thomas said sharply.
+
+Twitch whipped back around, looking warily at him. Jo was too, and he could practically see the question in her eyes: What was he doing? He didn't want this guy around them, did he?
+
+No, he certainly did not. But his health sight was alerting him of something.
+
+"We have incoming," he said. "A big bear, headed on a beeline straight towards us." He sent Twitch a frustrated look. "Maybe the mama, looking for her cub."
+
+Though the life signature was strange, almost burning brighter with more life than the others, even more than the boss. It reminded him a little of Zach when he'd gone fire-crazy, though somehow he knew it wasn't fire.
+
+Maybe it was mega-pissed.
+
+"If you want to run," he told Twitch, "you're going to have to circle around. It looks like it's going to cut off our path to the boss."
+
+Twitch swallowed, and made a jerky little motion, as if he was shrugging to himself. Then he pointed to his knife. "Mind if I grab that?"
+
+He wanted to fight?
+
+"Fine," Thomas said shortly, going for his mace. "Don't get in our way."
+
+Meanwhile, Jo had grabbed the katana. She looked at Twitch, and the coldness of the blade was back in her eyes. "If you turn on us, know that I am very good with this."
+
+"I get it, I get it. But I really don't want no trouble. I just want to get out of here and go back to my life, or what's left of it," he muttered.
+
+A glint caught Thomas's eye, derailing him from bringing out his tiniest violin. That's when he remembered he had never searched the body of the cub. There were two crystals nestled in its fur: Another B-grade earth crystal, and a B-grade health crystal.
+
+Now that was useful. He quickly stashed both in his backpack and returned to Jo's side.
+
+That was when they all heard branches breaking in the distance as something very big and angry crashed through them.
+
+Suddenly, a bear smashed through the screen of bushes and into view. It was about the same size as the others, but its fur was yellow as a golden nugget. Even its eyes were flecks of gold.
+
+"That's not the cub's mama!" Twitch yelled, darting to the side.
+
+No, this was something else. Something special. And Thomas wanted its loot.
+
+His free hand snatched his penknife. This might be a job for his bear ghost. "Jo? Regular plan."
+
+"I'm ready," she said, all confidence.
+
+Thomas threw his mace.
+
+With almost contemptuous ease, the bear smacked it out of the air, hitting its handle. He didn't think it had managed to get stung by any of the spikes.
+
+"Ah, shit," Thomas said, as the bear charged straight at them.
+
+Jo moved to intercept, but Twitch, of all people, got there first. With a yell, he stepped in front of the bear and brandished his butterfly switchblade at it. At about six inches long, it was decently intimidating... yet extremely sad for facing off against a grizzly bear.
+
+Unimpressed, the bear roared and clamped down on his shoulder, then began to shake him back and forth.
+
+Twitch screamed, and Thomas didn't blame him at all.
+
+Jo, The Living Blade, wasn't affected by things like shock or horror, and stepped forward with her sword ready to strike.
+
+Thomas, meanwhile, ran for his dropped mace.
+
+Jo stepped forward and swept the sword to the side in an arc that somehow missed Twitch, who was currently getting rag-dolled, and struck the bear right in the belly. Thomas came in from the other side, fully intending to hit with his penknife, then follow up with the mace again. The more the merrier.
+
+He stepped in close, his Combat Foresight not giving him any warnings. It seemed the bear was too busy, um, eating. He was pulling back his mace to strike when Twitch made his move.
+
+Despite being partially in the bear's mouth, he somehow had the presence of mind to swing his other arm up and plunge his switchblade into one of the bear's golden eyes. It went up to the hilt.
+
+Releasing him, the bear screamed, a sound more high-pitched than anything that size should make. It fell, dead.
+
+Shit, was Thomas's first thought. I didn't get a hit on it. The bear won't drop good loot.
+
+"Help!" Twitch yelled again. He was half pinned by the bulk of the dead bear, and he was not in good shape. A huge chunk of his shoulder was ripped away, and there was blood everywhere. Thomas didn't know why it wasn't fountaining, but Twitch was still moving. In fact, he was wiggling around, almost frantic. "Help! I'm pinned! "
+
+For a guy whose Gift kept him alive only if he didn't stop, being pinned was almost certainly fatal.
+
+Jo and Thomas ran forward and helped pull him free.
+
+The moment he could, Twitch was back up on his feet. Returning to his fast breathing, odd weaving motion, he looked straight at Thomas. "You got any more of those crystals?" Despite everything, he grinned again. His teeth were covered with blood.
+
+"Jesus Christ on a pogo stick," Thomas muttered, feeling like he was getting played. He only had a couple of level 1 healing crystals left. "Wait," he said, stopping himself before he grabbed one out of his pack. "That's not going to be enough... I can't believe I'm doing this," he muttered again, and put his hand next to the meaty chunk taken out of the spot between Twitch's shoulder and neck. The man should not be conscious. He probably shouldn't be alive, but whatever. A healing crystal wouldn't do. He needed that area rebuilt.
+
+Thomas activated his Wellspring mana and concentrated, telling the body to build up what had been lost.
+
+Thankfully, it was not as complicated as a human hand. The muscle, flesh and bits of... white and yellow stuff rebuilt itself like a video on fast-forward.
+
+"Healer?" Jo asked. "I thought you said your Gift was senses."
+
+"I've been mainlining healing crystals," Thomas said. And now this gang member knew about it. Great. He directed his annoyance at Twitch. "You shouldn't have stepped in front of that bear. I had it."
+
+He most certainly hadn't had it, but that wasn't the point.
+
+"Ain't no thing, with my Gift," Twitch said. "We've been through a couple of dungeons, nothing as bad as this one. Grimm was telling us as we were running after you that you had a shit ton of crystals in your bag. I guessed that you had more healing."
+
+"God," he muttered, disgusted with himself that he was that predictable. Still, he didn't stop healing the man. Maybe the mana was infecting his brain.
+
+The second he was done, he slapped Twitch on his newly rebuilt shoulder. "You're done, but that's the last time. I'm running low."
+
+"Yeah, yeah, I hear you, man," he said, then had the absolute nerve to grin again. "If you're feeling generous after saving your life, I'll take that nice brown I saw you pocket earlier."
+
+"First, fuck all the way off, and keep going. Second, that's a level 2. I've seen mana poisoning and you don't want it. Third—"
+
+"Thomas?" Jo called, cutting across his tirade. While he'd been healing, Jo had been looking around the golden bear for loot. Thomas had largely given up on finding anything good, since his Gift wouldn't be involved, but he'd been wrong.
+
+Jo held out a fluted crystal bottle with a very old-fashioned stopper on top. "Do you know what this is?"

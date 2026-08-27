@@ -1,0 +1,505 @@
+---
+id: cec41b7f-8600-5ea6-b600-b26ece36f843
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 107"
+slug: 0019-the-path-of-ascension-chapter-107
+partOf: the-path-of-ascension
+position: 19
+ownLength: 8019
+unit: words
+ownProgress: 8019
+publishedAt: 2022-02-14
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/845683/the-path-of-ascension-chapter-107"
+royalRoadId: "845683"
+markedReadAt: "2026-06-29T19:18:05.245Z"
+---
+
+Chapter 107
+
+The group landed on the small front lawn of the floating house. Wrangle waved them in.
+
+As they walked in, the man held the door open for them. Matt nodded and echoed the thanks of everyone else.
+
+Wrangle just responded with a gentle smile to each of them.
+
+Matt reached out with his spiritual sense to inspect the man, but found nothing. If it wasn't for his vision, he wouldn’t believe the man was even there. Matt couldn’t stop himself from scrutinizing the man as he shut the door, and the scorching heat was replaced by a refreshing breeze.
+
+“Everyone, please drink. I know how hot it can get out there.” Wrangle smiled and waved a hand as glasses of icy water hovering in front of them.
+
+Matt took large gulps until his thirst was quenched, then quizzically peered at the glass in his hand. It was still three-quarters full, though the cup should have been drained many times over. Unlike the others, he’d been protected from the heat by his armor, but he was still parched enough to enjoy the refreshing water.
+
+“Thank you.” Matt received another smile in return, and a table appeared in front of him, set with coasters for each of them. Wrangle hardly brought his attention off Aster while providing for them.
+
+Looking at his bond, he saw that her entire face was submerged in the provided bowl, and she was blowing air bubbles as she tried to guzzle the endless water bowl dry.
+
+Shaking his head, he told Aster that she was being rude. But she shot back, “I'm not climbing inside.” A hint of threat tinged that statement. Even if he didn't think Aster meant it that way, he still let it be.
+
+Wrangle didn't seem bothered, so Matt let Aster cool off. His bond really was suffering, and he didn't begrudge her any comfort she could find.
+
+As everyone else drank their fill, Wrangle waved them to a seating area with enough chairs for everyone. It faced a massive window that had a view of the oasis and desert all in one. It was a stunning sight, and Matt was only pulled out of his trance by Wrangle beginning to speak.
+
+“Let’s get introductions out of the way. I am Wrangle. Peak Tier 24, and a summoner.” The man nodded to them as Melinda introduced herself, and the rest of her team followed suit before Matt's team did the same.
+
+Out of nowhere, Luna stepped to the side of the two groups.
+
+Matt was startled, but managed to restrain himself. In contrast, Wrangle only stood straight and clasped his hands in front of his chest as he bowed deeply. “Great Lady, it is a pleasure to welcome you into my home. Please treat it as your own.”
+
+There was a traditional cadence to his words, and Matt worried that they might have broken some protocol with their entrance to Wrangles house.
+
+Luna matched the clasped hand, but her bow was more a nod than the deep bow Wrangle had made.
+
+“Thank you for the gesture. It is received in the spirit it was given.”
+
+Wrangle seemed quite pleased with the response, judging by the smile on his face. That, or he was a fantastic actor.
+
+Luna snapped twice, gathering their attention. She then glared at Aster, who was passed out on the pillowed chair next to Matt. He moved to nudge her awake, but Luna’s hand seemingly stretched across the intervening space and snatched his bond off the chair. She then dunked Aster into a pot of steaming water that suddenly materialized.
+
+Aster screamed her torment both through their bond and out loud. Matt was going to race over, but he didn't miss that Aster wasn't burned or hurt, just indignant.
+
+Luna, still holding a now dripping Aster by the scruff, met the fox’s eyes as she held her suspended in the air.
+
+“Need another dunk, or are you awake?”
+
+Aster yowled at Luna, “That wasn't nice! I’ll…”
+
+Luna dunked Aster again to more yowling and protesting. Afterwards, a now thoroughly soaked Aster replied that she was awake.
+
+With a flick of her wrist, the fox was mostly dry and back on her seat.
+
+Luna met all of their eyes. “Does anyone else need extra incentive to pay attention?”
+
+When no one dared speak, Luna smiled.
+
+“Good. Now your break is over. I'm glad you took some effort to train while you traveled, but playtime is done. Now your time is my time. You will not waste my time. The start of training is harsh and hard like the land around us. For a better foundation you must break what you have and reforge it.”
+
+The shorter dark-haired woman nodded to their host. “Wrangle here will be supplementing the next portion of your training. If you would, please.”
+
+Wrangle nodded. Next to him, a ghostly blue beetle appeared and clacked its pincers.
+
+“As his chosen name suggests, Wrangle is a summoner, and an exceptional one at that. This little bug is an Elemental Beetle. Matt, fry it.”
+
+Matt paused and looked around the house they were in before saying, “I don't want to burn anything.”
+
+Luna met his eyes, and he swore he saw swirling pools of purple darkness in them.
+
+“This is your one warning. When I tell you to burn down a forest, I expect you to light it up and not ask questions. You don't know enough to question me. Torch the bug.”
+
+Every hair on his body stood on its end and he swallowed. It felt like something harsh was caught in his throat, but he turned to do as she said.
+
+With a thought, he activated [Flamethrower]. To his surprise, the flames took a few seconds to destroy the mana construct. Nothing else was even scorched, which put his prior worries to rest.
+
+“Wrangle, please.”
+
+Half a dozen more beetles appeared in a formation at Luna's words. A glance at his manager was the only prompting Matt needed to activate his skill, and fry the summons.
+
+This time, only a few seconds passed when Luna called out, “Enough. Now look.”
+
+Matt halted the gush of flames and saw that only one of the beetles was dead, and that the rest of their carapaces were now a mottled red.
+
+Wrangle seemed to take this as his cue to speak, “Elemental Beetles are a fascinating monster that can change their bodies to perfectly negate a single elemental type of damage. A single beetle is weak, but a swarm is a death sentence to a singularly specialized mage. The higher general Tier the element’s level is, the harder they find it to shift their defenses against it. Unfortunately, these little guys are only Tier 21. They can’t change to resist complicated mana aspects like storm or void. I can make them weaker but...”
+
+Matt swallowed. If they were expected to fight these things, Liz and Aster would be effectively countered. He doubted that blood skills ranked anywhere near void or storm mana. He might be able to fight them with a combination of [Flamethrower] and [Hail], but Aster only had ice skills to use. Plus if he used [Hail], he might prevent her skills from being effective.
+
+Luna took back over. “These little monsters have a major weakness, though. They are unable to counter mundane attacks. This is where we will be training your melee skills. Before I find you a proper trainer, you need to reach a certain basic proficiency. Otherwise, you would just waste everyone's time.”
+
+The higher Tier woman looked outside, and another house appeared floating next to Wrangle's. “That's where you will be staying. Training starts tomorrow morning.” She waved at Wrangle and said, “If I were you, I would take the time to ask Wrangle about creating spells inside yourself. That is where his true expertise lies. When he was Tier 14, he created a limited specialized copy of the Tier 32 skill, [Barrage].”
+
+She must have seen their lack of understanding as she elaborated. “For those that don't know how impressive that is, let me give you an example. If you attempt to make a skill and fail, it's normally a death sentence. Doing so under Tier 15 is almost guaranteed suicide. I don't care what healer you have near you. It will always kill you, as without a functional spirit, you can't survive. And that's for skills near your Tier. Doing so with even a limited version of a skill double your Tier is pure madness.”
+
+Matt followed her gaze to a pale-looking Melinda, who only nodded in recognition of the warning.
+
+She glanced at Wrangle, who seemed to preen under the attention. “Wrangle here was able to create a skill that let him create copies of his summon skills, while still only counting as a single instance to control. You’ll find out what that truly means tomorrow.”
+
+Wrangle held up his hands like he was trying to defend himself from her praise, though the smile never left his face. “You flatter me, Great Lady. I still failed on my second attempt.”
+
+Luna cocked her head at his chest and stared for a few seconds before shaking her head. “I read the report, and I must disagree. You were only a hair's breadth away from success. What skill were you trying to make? It wasn't in the report I read.”
+
+Wrangle patted his chest. “I had… Well, I still have the desire to make a skill that will let me merge mana constructs. I feel that I should do it before I advance to Tier 25. The feeling I get from my spirit is my Talent won't be in that direction.”
+
+Luna tapped her chin. “I’m even more impressed then.” She looked to Matt's friends, “Creating a completely new skill is far harder than simply copying one.”
+
+She then pointed at Wrangle's upper chest. “Your spirit’s reconstruction is going well, but you need to focus more on the quadrant near your shoulder. The framework is misaligned slightly. That will delay your other repairs if you don't address it quickly. What technique are you using?”
+
+“Indiana's Third Method was the one that helped the most when I started, and I have continued to use it.”
+
+Luna didn't seem surprised. “I’d recommend switching to Indiana's Sixth Method for your remaining recovery if that style works better for you. In theory, it will be slightly slower, but it will ensure you don't run into any issues like this again. If you avoid even a single such flaw though, then it will still be much quicker and more efficient.”
+
+Wrangle stood and bowed deeply. “Thank you for your wisdom, Great Lady. I shall do as you suggest.”
+
+Luna held out her hand, and what looked like a tomato plant growing in a vase appeared. “Here is the payment my liaison promised. If you take this now, it will reduce your recovery time to mere decades. Alternatively, if you choose to wait, it will greatly assist you in creating the skill. It is yours to do with as you wish.”
+
+Wrangle set it on a table in the sun and beamed at it, then back to Luna.
+
+“You have my sincerest gratitude, Great Lady.”
+
+Luna waved off his thanks and turned to the rest of them. “Tomorrow at dawn. You won’t like it if you’re late. Be down in the sand and be ready to start.”
+
+Just like that, she was gone.
+
+Wrangle clapped and rubbed his hands together. “Let us feast! We will have no time in the coming days, and I wish to get to know you all before the days pass us by.”
+
+Melinda stood forward and cautiously asked, “I'm a healer, and if you don't mind, can I look at your spirit? I’ve read about the dangers of trying to heal this type of damage, but I’ve never seen it before.”
+
+Wrangle just offered her a hand with a slight smile that seemed forced.
+
+Melinda touched him, then went sickly pale. She looked as if she would vomit as she quickly retreated.
+
+Wrangle just chuckled. “Quite bad, isn't it?”
+
+“Worse than I imagined. I… I’m sorry. I know it doesn't help, and I didn't do it to you, but I’m still sorry.”
+
+The Tier 24 seemed unbothered. “The damage was far worse right after it happened. This is almost completely fixed. But worry not. In a few short centuries, I will be recovered, and able to try again. Then, I will truly race ahead. Let me go set up a good dinner. If you wish to clean up, I shall be ready in an hour. I'm sure you need it after the flight over here.”
+
+Everyone turned to Melinda, who answered before they needed to ask, “I learned about this while researching spiritual damage and modification. Creating a skill in the spirit and failing isn't like normal spirit damage. That can be healed and tries to right itself, given time and rest. This was like someone chopped his spirit into cubes then mixed the locations all over. But his spirit wasn’t trying to heal. I could feel that it considered that messed-up state as the natural one. He’s having to manually reconstruct his spirit.”
+
+She shook like Aster did when trying to get water off her coat. “If that was almost fixed, I’d hate to see what he looked like when the injury was fresh.”
+
+Liz hefted the still pouting Aster and said, “Let's go shower up and get ready for dinner. I think we should call it an early night. I don't know what Luna will have in store for us, but I don't think it will be easy.”
+
+***
+
+Matt and everyone else stood in the sand under the flying houses and watched the sun slowly creep up over the horizon.
+
+They kept waiting while nothing happened, despite them being out here for over half an hour.
+
+As the bottom of the sun cleared the horizon, there was a rumbling, and from over the dunes came a swarm of thousands of beetles.
+
+Everyone started shouting, and they started to launch off attack after attack into the horde.
+
+Aster took out a swath of them with her initial [Hail], but the proceeding monsters were blue speckled and unaffected by the falling ice.
+
+Liz lashed out and attacked the leading monster with a tendril of blood, which was quickly countered by a lighter blue that greatly reduced the damage she did. Unlike Aster, she was able to deal damage, but not more than half her normal amount.
+
+She, like everyone else, started bashing the beetles with her spear. They were only mana constructs, but they still had thick outer shells that resisted the cutting edge of her blade.
+
+Matt didn't have that problem with his heavier blade, but they were forced to retreat to prevent them from being surrounded.
+
+Even with Melinda trying to give direction, the two teams were unable to effectively coordinate an impactful defense. With that lack thereof, the mass of beetles soon flanked them, and they were quickly surrounded, fighting back to back.
+
+To everyone's horror, even Sam’s poison was unable to affect the beetles for long. The most effective method they had was her and Aster teaming up alternating their elemental attacks. The beetles were killed as they changed back and forth, but after a few successful skirmishes, the beetles turned a blue and green mix. Then, neither attack was particularly successful in killing the monsters. The best either of them could do was slightly weaken them.
+
+Matt wanted to yell, but he didn't have the time to do so. With the nine of them, they had more than enough elements to rotate through and kill the beetles, but their attacks all landed in separate locations. Or worse, they attacked the same monsters twice, which just wasted mana.
+
+Melinda had started an AI group to coordinate their attack. It helped, but they were still getting crowded, as the two teams failed to anticipate each other's actions. Matt, Liz, and Aster were used to doing their own thing in a battle, and completely failed to react to Melinda’s rapid orders. Even in the war, orders were more big picture and not individual.
+
+They had researched both normal summoners and the elemental beetles last night.
+
+A normal summoner used the Tier 14 skill [Summon Mana Monster], which created a copy of a monster they had killed before from its corpse. That monster was then recorded in the skill structure for future use. The base number of recordable monsters was five, while the skill could summon three monsters at once unless it was modified.
+
+Since they were able to damage the constructs, Matt assumed that Wrangle was lowering the Tier of the monsters that they were fighting somehow. But he hadn't seen that listed in the information pact they bought.
+
+The packet detailed a skill called [Barrage], which was a meta-skill that only affected other skills, and was cast in conjunction with them. It increased the number of effective casts by a multiplier, based on the skill it was coupled with and how that skill was expanded with mastery. The example given was [Barrage] cast with [Fireball]. Instead of one fireball, you could have five for a minimal, percentage-based increase in initial mana cost.
+
+The skill was incredibly valuable, and the more they learned, the more they were impressed with Wrangle's achievement of creating the skill for himself early.
+
+But the fact that there were thousands of monsters boggled the mind. Wrangle shouldn’t be able to summon that many monsters, unless his custom [Barrage] allowed him to create more than the normal skill would have. Even if he could summon them, he shouldn't be able to control that many. Summoners rarely went for numbers because of the mana cost to summon an extensive amount was untenable. They also needed to split their concentration for each cast of the skill.
+
+The fighting continued, but they were eventually overwhelmed. One by one, they fell.
+
+Matt’s armor helped him last the longest, but eventually even it was overwhelmed. When a beetle clamped its pincers around Matt’s actual leg and shook him, he found himself sitting with the rest of his friends, off to the side next to Luna. She was looking down at a watch on a chain.
+
+She tsked as she put the watch away in her breast pocket. “Seven minutes and eleven seconds. Two hundred and fifteen kills against Tier 7 summons.”
+
+The short woman met their eyes one by one. “That's far worse than I expected. Clearly, we need to back up a bit and work on our basics.”
+
+Luna gestured up with a single hand and an obstacle course rose up from out of the sand. Or at least, what Matt thought was an obstacle course.
+
+“We will be working on this for the next few hours, before we start a lesser program.”
+
+She pointed imperiously and commanded, “Start climbing.”
+
+Matt and everyone else turned and started walking, but it was apparently too slow for their trainer. From Luna’s fingertips, a small bolt of lightning zapped them all.
+
+It went right through [Cracked Phantom Armor] and thoroughly shattered the skill in his spirit, while also locking up his muscles. To his relief, it didn't actually hurt. It was more of a tingle than any real pain.
+
+Matt scrambled to run with everyone else.
+
+They reached the front of the course to find ropes hanging over a pit of some kind of sludge. Whatever it was, it smelled gut-wrenchingly awful.
+
+The smell was so bad, Matt’s eyes watered. As he hadn't reformed [Cracked Phantom Armor] in his spirit yet, he couldn’t protect himself from it either. Luna’s attack destroyed the skill structure far more thoroughly than Keith’s skill had when he trained with Liz’s brother in law.
+
+Mathew reached out and grabbed one of the two ropes and handed it to Sam, who was closest to him.
+
+Liz hooked the one next to Sam and swung over with Aster in her free arm. To all of their surprise, Aster appeared back on the other side. They turned to see Luna filing her nails in the air next to them.
+
+The message was clear. No assistance allowed.
+
+Aster just cocked her head back at Luna, and then to the still swaying rope.
+
+Everyone paused as the difficulty of a fox with no hands crossing a pit of sludge with a rope was pondered.
+
+No one answered, but Aster didn't seem bothered. She sent Matt a picture through their bond.
+
+He grabbed the rope, allowing Aster to create a platform to stand on with [Create Water] and her bloodline. They looked up to Luna, who still seemed to be ignoring them, so she jumped over while standing on the platform.
+
+She didn't reappear on their side, but the ice platform vanished as soon as Aster was off the rope.
+
+So they could help each other, but couldn’t directly carry each other through the obstacle course.
+
+The rest of the course was a child's playground twisted to a sadistic level. They climbed over and under swinging logs, and traversed balance beams only a finger's breadth wide that were suspended over pits with chains. There were areas that they needed to climb with only their fingers able to hold on to a ledge, and a ladder with only one rung that they needed to use to climb over thirty feet up and back down. The hardest obstacle was a section of poles sticking out of the ground five feet apart from each other. They needed to jump from pole to pole, but since they weren't in a line, they needed to stop and pause between jumps.
+
+All the while, failure came with the threat of falling into the pit of foul sludge.
+
+Still, the course wasn't that difficult to complete. They were Tier 6’s and well beyond mortal limits. Completing each obstacle was more tricky than hard. Particularly for Aster. The fox was faced with a new puzzle to solve for each of the obstacles a small beast couldn’t possibly complete normally. Whether through ice constructs or clever schemes with Matt and Liz assisting, the fox was expected to complete the same challenges as everyone else.
+
+Despite taking time to work out Aster extra challenges, the whole group finished in just over a half hour, with nobody stumbling into the sludge once. Matt wondered what the point was.
+
+Luna sent them through the obstacle course twice more. With each pass, their speed increased. Even though the armor made the dexterity focused parts of the course unwieldy to navigate, it mattered less each iteration. After their third repetition, Luna told them to strip into their under-armor clothes.
+
+Then she tossed them each a wrist band and told them to put them on.
+
+When Matt did, it felt like his cultivation vanished in an instant. His cores slowed their rotation until he felt like a mortal before his awakening.
+
+Matt activated [Mage’s Retreat] to alleviate his weakness, but looked up to find Luna’s piercing, slitted eyes staring into his chest.
+
+She met his eyes and warned, “No cheating.”
+
+“I'm not cheating…”
+
+All he got for his protests was another zap from her finger.
+
+“I should have expected it, but I didn't plan for the restriction bands not working on your mana.” Luna paused for a moment. “Hmm. It must be because your mana core has nothing to do with your mana generation. It makes sense. No one else can use their mana, and it would defeat the purpose if you could. No skills or anything. Not even AI. Don’t even think about using that blasted thing. You know I’ll see it.”
+
+Matt reluctantly dropped the skill and felt the weakness take back over.
+
+Luna gestured once again, and a track rose from the sand.
+
+“This is physical training. You’ll get more out of this if you don't have any cultivation—” She glared at Matt, “—Or skills to lean on. Split into pairs.
+
+Luna nodded to the track. “That track is a one-mile circle. One person will be running a lap while the other will stay here doing burpees. When the runner arrives back here, the partners switch. As soon as any pair completes twenty laps, they’re done, and can rest until the final group is done. The last group to finish will get only a five-minute break.”
+
+Matt looked down to Aster, who had refused to leave his side, and after finishing a count, he pointed out, “We have an extra person.”
+
+Luna seemed unbothered. “That's fine. You three can just have two run together.”
+
+Matt regretted opening his mouth. Instead, he moved over to the side of the track and stretched a bit. Burpees sucked, but the running was only ten miles per person. That was practically nothing.
+
+While they stood around, Luna asked, “Do I need to start zapping you to get you running?”
+
+Everyone started moving as Matt dropped down. He extended one leg before the other and started to do a push-up when he was zapped. Again.
+
+As he spasmed, Luna’s voice sounded in his ear, “Both legs need to extend and retract at the same time, Matt. Don’t make me tell you again.”
+
+Matt didn't miss Kyle, Tara, and Mathew, all also spasming.
+
+Matt twisted until he was back in a push-up position and went to do a push-up, only to be zapped again. “The start of a burpee is the standing position. Return there to begin.”
+
+With a growl he stood, then dropped. He flexed and did as perfect a push-up as he could manage, before bringing both his legs into his chest with one motion and jumping.
+
+In mid-air, another shock hit him and he crumpled to the ground while Luna said, “You need to explode out of the push-up position as high as you can. Less than your full effort will not be accepted. That doesn’t just apply to burpees.”
+
+With great concentration, he did two perfect burpees before he glanced to the left to check on his teammates. Finding them only a few hundred feet away, he wanted to curse.
+
+How were they so slow?
+
+Matt was wheezing hard as he finished the thirtieth burpee. A quick glance confirmed Liz and Aster were only around the quarter-way mark. His turned attention earned him a zap, which redirected his focus.
+
+With heavy breaths, Matt focused on his form until he heard Tara ask, “How are we supposed to do this with our cultivation gone?”
+
+The complaint wasn't what caught Matt's attention. It was Luna’s reply.
+
+“Your cultivation is about 99.8% sealed up. That is only a seal. With practice and the right technique, you can force your cores to spin and break through the restrictions. If you can manage that, I won't stop you at all.”
+
+They all earned a zap as they pondered that and went back to their burpees.
+
+It felt like a year later when Liz and Aster returned. They panted heavily, but Liz’s damp shirt was nothing to Matt’s sweat-soaked one.
+
+The desert heat was brutal, but the night's chill hadn't completely vanished, even though the air was increasing in temperature by the second.
+
+Matt stood from his place and panted, “Can break restrictions. Something with— spinning core to— return cultivation.”
+
+Liz panted back, “She told us as well. The faster you run, the more the restrictions slow you.”
+
+Noticing Luna’s gaze turning to him, Matt took off on the track. As Liz said, the faster he tried to run, the more the resistance increased. It was like running into a strong wind, but without the cooling effect it would have had. Running flat out was still faster than jogging, but not by much.
+
+He then understood the method behind this exercise. The slower you went, the longer your break from the burpees and Luna’s zaps, but you left your teammate to suffer longer. All the while, if you tried to run faster, you were resisted, and your break was no break at all.
+
+What an evil combination.
+
+Unwilling to let his friends suffer, Matt put his head down and pumped his legs with everything he had.
+
+He was panting heavily as he rounded the final corner, and saw a water station set up at the end of the track.
+
+Another break for him to make his friends suffer more. Not stopping, Matt reached Liz and Aster and saw them in different spots of the burpee. Under other circumstances, it would have been funny to see a fox doing a push-up and jumping as high as she could, but Matt was too tired to laugh.
+
+They switched off, and Matt started to do his burpees.
+
+By the third lap, Matt was more jogging than running. By the seventh lap, he was tasting blood in his mouth, and was forced to stop at the water station to get a mouthful of the refreshing liquid.
+
+Their team was the second to finish, with Vinnie and Kyle finishing their lap only moments before them. The five of them were directed to a second water station under the shadow of the flying house. The shade was an enormous relief.
+
+About ten minutes later, the final four finished up, in near unison.
+
+Luna followed behind, and as the last four got and drank water with shaking hands, she addressed them. “Five minutes. Then we go back to the obstacle course.”
+
+Matt was actually thankful. The course was far easier than what they had been through.
+
+Everyone sat quietly, sipping at a small amount of water until Luna called for them to get moving.
+
+Matt really didn't want to get up. He hurt in ways that normally never happened, except in the few battles he had fought in that lasted all day. His arms trembled from the experience, and he was looking forward to getting his cultivation back, so his Regeneration portion could combat this fatigue.
+
+He weighed trying to sneak a use of [Endurance], but Luna would surely be able to tell. Another part of him didn’t want to have an advantage over his friends. But the largest remaining part of him was enjoying the training.
+
+This almost felt like when he was back in Benny’s Inn, working all day while training during any free time he could find.
+
+He enjoyed the challenge, despite the pain.
+
+Luna followed them to the start of the obstacle course and met their gazes with a smirk.
+
+When Vinnie silently proffered his arm with his cultivation reducing band, Luna raised an eyebrow in question, daring them to ask.
+
+Liz spoke up as Matt was about to. “Are you going to take them off?”
+
+Luna’s smirk grew into a full-blown grin. “Oh no. I'll only remove them when you’ve negated the band's effect. These are staying on until then. For now, start going through the course.”
+
+The short woman floated in the air with a cackle.
+
+“Oh yes! I almost forgot. Wrangle here will have some ranged summons attacking you as you try to advance. Good luck. This challenge won’t stop until you complete the course twice. Though if I think you’re taking too long, I’ll add some extra incentive to get you really moving.” Luna pulled out the watch and checked the time before slipping it away.
+
+Aster yowled and yipped, and Matt understood. She had struggled with the obstacles when she could use her ice, but now, even that was taken from her.
+
+Mathew pointed to their right. “There seems to be a second path for you, Aster.”
+
+They all crossed the rope, and wobble bridge for Aster, without incident. But as they reached the over-under pillars, they heard a chittering, and found an insect on a post. Once discovered, it shot out a glop of slightly acidic gunk.
+
+To test it, Matt carefully poked the gunk on the ground. It felt like getting hot sauce on his skin. It hurt, but it wasn’t dangerous. Still, that didn't mean that he wanted to get shot with it, particularly when it was already this hot out.
+
+Matt lunged forward. His lack of cultivation made him almost miss his jump, but he managed to save it with a desperate extension to grab the log. He pulled himself up, and immediately needed to jump again to avoid a shot from the insect on the side.
+
+The following bar was situated nearly at his head height. Despite having easily cleared it last time, the distance was now a daunting proposition. Bracing himself, he jumped and wrapped his arms around the log. He was hauling himself up when a caustic glob hit him from another side that he hadn’t seen an insect on.
+
+In surprise, Matt lost his grip and fell into the pit of sludge below.
+
+The substance was like black oil, heavy and sticky. He vomited from the stench as it pervaded his senses. The taste was awful, and caused a second retching fit. Luna called out, “Climb out and start over.”
+
+Matt worked his way through the waist-high liquid with slow steps. The only upside was that the stuff seemed to neutralize the goop from the insect’s attacks. His skin no longer burned.
+
+After wiping off as much of the sludge as he could in the sand, Matt rejoined the others. They fared no better.
+
+Aster got the worst of it, as her method of cleaning herself was licking. Even her hatred of her fur being dirty wasn’t enough to overcome the awful smell and taste.
+
+Tara was the luckiest one, and made it through the logs without getting hit. But she wasn’t so fortunate on the rope climb, and was knocked into the sludge to experience it herself.
+
+They found out that they wouldn’t be attacked on obstacles they’d already completed. So if they made it to the third obstacle, they wouldn’t be shot at for the first two on the next attempt. But when Vinnie fell at the second one, he was attacked when crossing that one once again. So long as you made it to the same place each time, you didn't have to deal with the insects. The downside was, with their tired muscles and sludge-covered hands, they hardly were able to make it past the second obstacle more than three times out of five.
+
+The rope climb was impossible with the black sludge covering it, and Luna refused to acknowledge that. No matter their grip strength, they were unable to hold on as they had in their earlier attempts, when they had access to their cultivation.
+
+Eventually, Vinnie had an idea. He ferried over handfuls of sand, which gave them enough of a grip to complete the challenge.
+
+Only three obstacle sets in, they were each incredibly smelly, and not a single one of them had a muscle that wasn’t in pain.
+
+***
+
+Luna watched as her team struggled.
+
+Harvest Moon's team was doing just as well, but she didn't miss the lack of vital drive in them. She might just be able to bring it out of them, as they had a good potential from everything she had seen so far. Even without Melinda’s Talent, she could see them reaching Tier 17 before they fell off The Path. With the girl's Talent, she expected them to be asked to quietly step off around Tier 22, unless they started hitting well above their Tier.
+
+The only question now was if they could find that part of themselves that was willing to push forward. And she needed to break them down for better training in the future.
+
+Still, it was different for everyone.
+
+Some, like Matt, liked the challenge. She could see it in everything he did. He cracked poorly hidden smiles more as she pushed him harder. He would continue to delve into stronger Rifts because he enjoyed getting stronger and advancing.
+
+Others were like Liz, and drove themselves to prove something. Whether it was to themselves or others didn't matter, it could be a powerful driving force. That drive was subject to more outside influences than she liked, but Luna could already see Liz transferring that will onto Matt, which would ensure that they motivated each other.
+
+Aster was more an extension of Matt, and also loved to improve, even if the little arctic fox cared more about her looks and ice cream than the actual delving. Luna didn’t think that she would need to do much more than reprimand Aster when she started to flag. Her bond with Matt should be enough to drive her forward, if only to keep up with him.
+
+That was an instinctive aspect of the bonds. Few that weren't beast bonds understood, but Luna knew it all too well.
+
+That had been her own driving force, but it always came down to what drove you.
+
+Some were pushed from behind, and some ran towards something. But you always needed a goal and the will to push through the monotony.
+
+Most of Melinda’s team didn't have it.
+
+That wasn't entirely true. They didn't have the amount of drive needed to truly complete The Path. Anyone who wasn't Matt needed to be delving up a full Tier by Tier 7 to keep pace with the regular schedule. A team that size would need to be pushing up yet another Tier, until at least Tier 10 rifts, where the essence per monster increased substantially. While Melinda negated the second biggest impediment of being injured, and thus having longer and longer healing cooldowns, Luna didn’t think that they had the drive to delve back to back. They’d have to do it over and over, and would have to delve many Tiers above their own for decades.
+
+Time would always be against them.
+
+That was why the early Tiers were the best place to get ahead, rifts were plentiful, and the cooldown time wasn't too long.
+
+Still, Luna believed that she could force them to find that drive to advance. They were willing to improve and haven't complained too much yet.
+
+That in itself was already a point in their favor. The only one who had complained so far was Aster, and that mainly was grumbling about how it wasn't fair since she didn't have hands. Even then, she would cut such a young child a smidgeon of slack there.
+
+Luna wouldn't admit it, but she had messed up. She had just recreated the last obstacle course she had used, which didn’t have a portion for a beast. A stupid mistake that she had rectified, but it was an embarrassing lapse in judgment. At least the little girl got some basic creative thinking exercises out of it.
+
+She had been out of the game too long. Too much of her focus had been on sending messages and trying to find old friends who owed her favors. That had taken up most of her attention for the travel time, and if she finished the list, the next few weeks as well. But she stopped, because while she demanded everything from her charges, she would give them an equal amount.
+
+Besides, she had the time in which they slept.
+
+She judged their progress and saw that they were struggling with the sludge and its slickness while climbing the obstacles.
+
+If they didn't complete the course at least once in the next hour, she would clean and reset them. That would hopefully let them finish it in a reasonable time. She had fifteen hours of training that they needed to get through today. The first weeks would be about carefully breaking them physically and mentally.
+
+It was why she gave out the bracelets. They sped the process up tenfold.
+
+The cultivation suppressing bracelets were a particular type, and gave her incredibly detailed biometrics of anyone they were attached to. The design she was using was usually used for prisoner transport, as they prevented the prisoners from making their bodies smaller to remove them, but she didn't need that function.
+
+She didn't expect them to be able to push through the restrictions of the bands. While they were weaker versions, the technique to do so usually took someone centuries of practice to even touch on, but they might be able to find the right direction now.
+
+Even if one of them did figure it out, it was only an anti-restraint technique, more so than a boost to cultivation. Without the band, if you moved your essence manually, people maxed out at a 5% increase in power for a short time. Afterwards, they would need to let their essence recover its power.
+
+She watched as their bodies flagged with the stress they were putting them under, and nodded slightly. The training would lose its effectiveness to a degree in the next week or so. But for now, they would make significant gains.
+
+When they went to sleep later, she would deactivate the bands so their bodies could recover faster. Plus their need for sleep would be reduced, which would give them longer to train.
+
+She debated increasing the strength of Matt’s band, but decided against it.
+
+The Tree of Perfection was showing its benefits with his nearly perfect body. He was doing the best out of all of them, with the fewest minor fractures and stress tears. Melinda, who had the effects transferred over, but hadn't had the time to fully complete them, was in the next best shape. Liz and her advantage from having Tier 48 parents was a close third.
+
+Luna knew that Melinda would be kicking herself over not finishing that conversion when they had the time, during their three month travel to this planet.
+
+When this training was over, she wanted to see if Melinda shared that change. If she didn’t, Luna would have Moon suggest it to the girl. If his hypothesis was correct, Liz and Aster might be able to receive the same benefit, even though they had taken another aspect of the tree into themselves.
+
+It was the magical properties that changed the soul, which couldn't work twice, but Moon believed that Melinda’s Talent could get around that restriction.
+
+That would be a good trade.
+
+She checked her team's help meter and frowned. Matt would need to pay more mana to counter the amount of help he was getting at this rate, if the growth was as she predicted to keep the path challenging. She hadn't expected Matt to not be affected by the band, and it meant that his mana was truly unlimited, and effectively worthless to him. The Path was meant to challenge the person traversing it. Matt was giving up something effectively worthless to himself for the help of a Tier 24, which would become invaluable in the coming weeks and months.
+
+She didn't know how she could make the training feel expensive, and didn’t have a ready answer.
+
+Seeing that the kids were only one more obstacle further in, Luna resisted the urge to sigh. They were going about this in the most complicated way possible, which was precisely why she had removed most of their strength.
+
+When you could lift your body weight with a pinky, you didn't worry about the fundamentals anymore. It was a rope climb. They should be using their legs to brace themselves, not dirt.
+
+She started using [Earth Manipulation] in the distance to modify their following training scenario. She wanted them to have to defend against Wrangle's hordes in different locations.
+
+Luna looked to the man who was carefully aiming his summons’ shots at anyone who stalled. He was quite good at this, even if it wasn’t a passion for him.
+
+He was impressive, and she now understood why the Empire had noticed him. Creating a skill was amazing, but the man's ambition was nearly matched by his ability. They had talked when the children had gone to sleep yesterday, and he had given her a detailed report of the skill he was trying to create.
+
+He wanted to make a skill to permanently merge his summons into stronger variants.
+
+The fact that he had almost succeeded was mind-boggling. If she hadn't seen the damage to his spirit, she wouldn’t have believed the story second hand.
+
+If he created the skill, it would become a top priority to see if the Empire could recreate the skill in a rift. The only issue was that she suspected the skill would be at least Tier 38, which meant creating a rift for a specific skill was basically impossible. The price was simply too great to repeatedly destroy perfectly good rifts for. And no higher Tier planet would sacrifice one of their proven useful rifts to test the theory, even if the Emperor covered the cost himself. Essentially, they would need to find a new high Tier planet which was unpredictable at best.
+
+It was a well-known fact that most new skills were copied by the rifts after humans and beasts had made them. If the skill was viable, it was perfected, and made a possible reward after the cultivator entered any rift afterward. The oldest records from before the last great shattering and subsequent political unification's had noted new skills coming from created rifts, but they seemed to have plucked most of the lowest hanging fruit already. And with the general lack of mana for the Great Powers, it was considered a fool's errand.
+
+That was the commonly accepted truth, at least. But Matt’s own [Copper Skin] called that back into question. The skill had literally never been seen or heard about before, and while someone in another Great Power might have made it, it seemed unlikely that someone above Tier 15 bothered to make an inferior [Iron Skin]. Of course, there might have been some low-Tier prodigy that managed it, but she and Manny were hopeful that they’d stumbled across a new way to make new Skills.
+
+Luna decided that she'd help Wrangle with his Aspect while she was here. He was going to be fixing his spirit for the next few centuries, since he rightly chose to save the spirit healing plant for when he made his next attempt at creating the skill, so he might as well advance in other avenues.
+
+Luna saw Kyle fall, and used a fraction of her power to ensure that the boy would land safely in the sludge.
+
+Seeing how the sun was beating on her charges, Luna also flexed her will to slightly remove some of non-visible light in the surroundings. Not enough to be noticeable, but she'd increase that protection as the day wore on, so they avoided the worst of the heat.
+
+She was going to force them to do mana manipulation training as a break after this. They needed to hydrate, and the break would make the next workout harder.
+
+Luna got a reply on her damned AI and smiled.
+
+Purrfect.
+
+Erwin had finally answered her, and was willing to suspend his own research for a while to see Melinda and Matt.
+
+That would be a good break after this, where they could all reach the peak of Tier 6 and then start delving Tier 8 rifts.
+
+Luna wanted them fighting up three Tiers by Tier 9, and they had a lot of work to do to reach that point.
+
+She was also limited in the time she had with Melinda’s team before her influence started to do more than bend the rules. So it was good that he was available, and she didn't need to go track him down and rip him out of whatever hole he found himself in. Erwin could get lost in a rift for decades if it was interesting enough, and him replying within a year was already a good sign.
+
+Luna noticed as Sam started to try and use her burgeoning Concept to stop the insects' attacks. How she convinced herself that they were poisonous enough to slightly affect the projectiles Luna wasn't sure, but that was good lateral thinking on her part.
+
+Things were going surprisingly well.

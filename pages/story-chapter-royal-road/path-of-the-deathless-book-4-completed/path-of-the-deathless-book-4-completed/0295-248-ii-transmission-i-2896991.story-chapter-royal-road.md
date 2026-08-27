@@ -1,0 +1,155 @@
+---
+id: 21147d16-c7ac-5807-9580-e594c703a88e
+page-type-slug: story-chapter-royal-road
+title: "248 (II) Transmission [I]"
+slug: 0295-248-ii-transmission-i-2896991
+partOf: path-of-the-deathless-book-4-completed
+position: 295
+ownLength: 2771
+unit: words
+publishedAt: 2026-01-01
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2896991/248-ii-transmission-i"
+royalRoadId: "2896991"
+---
+
+248 (II)
+
+Transmission [I]
+
+Though Shiv had never worked in an underworld parlor before, he had more than enough experience in the service industry to know what to expect. The entry chamber was staffed by a few silk-robed guards. They wore half capes emblazoned with embroidery of specific Ascendants, and the rest of their ensemble featured a monochrome aesthetic. Black and white clashed together as their undercoats, revealing white shirts and pearl-laced belt buckles where they parted. Each of the buckles bore insignias and symbols. The designs were too intricate and detailed to be for some brand; Shiv suspected they marked which organization the two belonged to.
+
+Also part of their attire were the ivory hilts of their openly worn daggers. Shiv had them pegged for Shadows and Thieves immediately.
+
+"Oh, hi, Cullywier! What brings you to the Dragon's Biscuit today?" A sweet and melodic voice pulled at Shiv's attention. He didn't need his Sage of the Enkindled Heart to tell him that he was suffering the effects of a social skill. The front desk was manned by three different people: one male, one female, and one bot. All three of them were shaped to be as gorgeous as possible, but they were only Adepts. The effects they inflicted on Shiv were nowhere near what he suffered when facing Angelo or Udraal.
+
+Still, the woman pulled him the most. Her hair was a curled waterfall of gold, and her lips were the color of blood pressed into fine crescents. And then there was the dress she wore. It was red, a bright crimson that speared at the eyes, with a mess of jewels hanging around her arms as if they were pauldrons. Then, at the very center of her torso, a small window had been cut in the dress, and a large gem was placed there between her ample assets.
+
+Shiv immediately looked away, realizing that this was a deliberate attempt to lure and entice customers. He turned his gaze to the other attendants in the room and realized they were no less provocatively dressed.
+
+The male attendant was a thin but muscular elf with a similar window cut into his clothes, ruining his nice suit. His forearms were exposed, revealing deep striations and curving veins. He had a smoky look to him, with his hair being pitch black and near square-shaped from its trimming. His eyes were of a cold iron blue, and his jaw was so square that Shiv was sure this man had taken a trip to the Biomancer to see himself reshaped.
+
+Or maybe someone else made him do it, Shiv thought with a grim realization. There was a hint of something behind the man’s eyes, and a constant rattling of doubt that shook his body. Shiv noted how the male elf vibrated more than both his fellow attendants combined.
+
+None of the three probably wanted to be doing this.
+
+Gardener of Doubt: But what does it matter what the weak and helpless want? We take power, or we feed ourselves to feed the pleasure of the powerful. A flame needs kindling. And few can be the flame.
+
+Finally, the bot's body was transparent, its internal mechanisms moving before Shiv's naked eye. The Deathless didn't know what appealed to automata, but he assumed all that exposure affected them in a similar way as a human’s bare sexual characteristics got to him.
+
+Cullywier smiled as he bowed slightly toward the woman. “Good evening, Adeline. You are as lovely to behold as a rose in full bloom.” He seemed familiar with the girl, and she leaned back and giggled, almost on cue. Her reactions, however, were unnatural, precise, and refined. There was timing to the way she placed her hand over her mouth, trying to hide her amusement.
+
+"You're too sweet to be with us mortals, Cullywier." She eyed Shiv, and her composure flattened somewhat. "Let me guess: You're here to take this little one on a life-changing expedition through the pleasure dens?"
+
+"Oh, Uva’s going to love hearing about this as well," Adam whispered.
+
+"Hey, you're technically here with me too, asshole. When I run into Isabella, she's getting an earful from me."
+
+"If she's still alive," Adam replied. And then the weight of their words hit both of them, and they fell into a solemn silence.
+
+"Not quite so," Cullywier said with a sigh. "He's going to the back. Heavy business. The kind you should ask no more about.”
+
+"Oh." And suddenly, Adeline didn't seem so enthused. Her charm diminished, and the two others responded with trepidation. "Then, does that mean..."
+
+"The Brokers are already there," Cullywier declared. "You don't need to do anything. This is just us checking in." The fae reached over with his unnaturally long fingers and patted her wrist. And then, without further preamble, he led Shiv through a lordly wooden door that was enameled with glowing mithril.
+
+The insides of the Dragon's Biscuit hit him like a blast of heat, smoke, and noise. There were beings all around him: biological, mechanical, and to his surprise, ones he'd only seen in the Abyss.
+
+The first person his eyes snapped to was an Umbral. Her race was made plain with her impossibly pale skin, sharp ears, and tall stature. There was a complex ward active around her that seemed to cause a shroud of darkness to hang overhead and cast her in perpetual shadow. She had a bored look on her thin face, resting her face on her hands as she sat in front of a table next to a human male, the pair watching a pair of vicious, long-clawed insects fighting each other in a magical cage.
+
+At the center of the parlor was a circular bar manned by a single automaton with many hands, many eyes, and many, many drink dispensers. Its body was connected to the ceiling with cords and wires, and it moved about incredibly quickly, rapidly feeding and offering libations to its many guests. Hundreds were surrounding it. Hundreds called out massive orders. Some of them were already slurring drunkly. The automaton responded to each one with perfect alacrity. That alone made Shiv certain it had a very high mental skill. More than that, its Reflexes were likely Heroic, and its body was a gleaming mass of chrome, with electricity sparking between its joints.
+
+"I think we're dealing with a hidden Hero here," Shiv said telepathically.
+
+"It noticed us already," Adam replied. "Probably has high Awareness as well. It knows there’s something off about us.”
+
+"How can you tell?" Shiv asked.
+
+"One of its eyes is locked on us. It’s probably talking to the Brokers right now, informing them that we’re in. It's more than just a bartender."
+
+The parlor was packed with activity. Some people were joyous and triumphant. There were others raging, cursing at the game masters who ran the tables, and even more who were bent over, vomiting into the fountains that lined the outer walls of the grand chamber.
+
+As Shiv looked up, he saw people staring down at him from the railing above. People of ethereal beauty, of slender limbs, exaggerated sexual characteristics, with only translucent sheets adorning them as clothing. The effect they inflicted on Shiv was immediate. The moment he looked at them, he felt a boiling urge writhe inside his body. He pulled his gaze away, both his Gardener of Doubt and his Sage of the Enkindled Heart roaring, trying to defy the intrusive lust trying to invade him.
+
+"Ah, yes," Cullywier said, noting Shiv's agitation. "Take care not to focus on the succubi too much, otherwise they will see you utterly enraptured. More than a few clients here have lost everything to the feeding of their desires."
+
+"Succubi," Shiv repeated. He shook his head, and clarity returned to him almost immediately. This wasn't like getting lustful naturally. This was like getting infused with an insatiable need all at once. And the moment one was separated from it, it vanished. It dissolved like smoke. Instead of feeling addicted, Shiv felt a bit violated. He wanted nothing to do with a succubus.
+
+The fae hummed. "Correct. The Dragon's Biscuit offers a great many services, and as you Patternists are constantly consumed by the urge to breed and propagate, it has been used by beings from outer dimensions who are focused on such desires to exploit you. Did you know that there are certain worlds where sex has a magical lure, where beings can wield feelings of romance and lust against another, where the act of procreation itself may be altered and used as a weapon?"
+
+"I think I want to stay far away from those worlds," Shiv said bluntly.
+
+"As well you should," Cullywier said. "For there are worlds and ruins where merely stepping into their boundaries can see you infected with a plague that renders you incapable of experiencing true intimacy again."
+
+"What?" Shiv gasped. "What kind of plague?"
+
+"An incurable one. Of a spiritual variety. Vexing and incomprehensible in nature, even for the highest Animancers." The fae paused. "It causes you to grow a rash, or so I've heard. One that slowly converts your body to a mess of small wounds, from within which withered, horrific homunculi in your image emerge. It triggers any time you feel love or lust, or are in the proximity of one who does. A terrifying affliction, I must say.”
+
+Shiv didn't know why, but he was suddenly overcome with the urge to take a flaming bath with an additional helping of oil.
+
+Adam consequently agreed. "Shiv, I think all the night terrors I'm going to have will have to fight each other for the right to haunt me first, because I’ve had too many traumatizing experiences and not enough mental energy to even remember all of them."
+
+As Cullywier led Shiv to the back of the room, the automaton bartender called out to them. "Hey, fae, the bosses are waiting. Do you want me to mix you your regular?"
+
+"Yes, thank you, Pano. Always thoughtful."
+
+"You know it."
+
+The automaton briefly hesitated as it noticed Shiv, but resumed its bartending duties a moment thereafter. The Deathless couldn't shake the feeling that the bartender could see him, the actual him.
+
+"Sure seems like there's a lot of monsters hiding between the cracks of the capital," Shiv commented vaguely.
+
+Adam snorted. "Yes, just think about yourself. A Legend hiding in plain sight, desperate to avoid being noticed."
+
+Shiv pressed his lips together. "Point taken."
+
+As they got to the back end of the establishment, Shiv found himself faced with two guards. These were not like the Shadows in front. Instead, they were clad in adamantine armor and had faces that looked like they'd been through multiple wars and then some. One held a great axe that they left pinned to the ground, digging into the carpet and chipping away at the wood.
+
+The other was something of a mage, judging by the flames dancing atop their one-handed mace. They were speaking to each other, but as soon as they noted Cullywier approaching, they went silent. Both of them eyed Shiv at the same time, their eyes flashed, and a mutual snarl played across their lips.
+
+"So, this is the one?" the axe-bearer asked. Cullywier nodded, and no further dialogue was exchanged.
+
+Both of them stepped aside, revealing a wide staircase leading upward. Shiv stepped past them quickly. He judged both the guards to be Master-Tier at most, and assumed they were less lethal than the bartender outside. He wondered if they actually knew that.
+
+And so a climb began. A climb went on for just a bit too long. The stairs kept going up and up and up, and Shiv noticed they were made of some material he hadn't seen before. It glowed like there were gemstones nested somewhere beneath a layer of transparent paint, but the stones were constantly shifting. There was a power within the stairs. He wondered if it was some kind of alloyed mithril or focus crystal, but he couldn't sense any magic he'd recognized coming from them.
+
+As he continued on, the stairs grew less metallic and more stony. Rugged structures appeared, and striations manifested. Soon, they lit up as he gazed upon them. His Atlas triggered, and he saw organic structures he'd never seen before. The very steps he trod upon were technically biological, just not of the variety he'd ever faced in his life.
+
+"What the hells are we even stepping on?" Shiv asked aloud.
+
+"Ah, the flesh of an overreaching Outsider, of course," the fae replied as he continued hovering up the stairs.
+
+"The flesh of—" Shiv's words grew stuck in his throat. “How? And why?”
+
+"Because when one reaches over into the Outside, something from the Outside reaches back. I hope you understand the great risk the Brokers are taking on your behalf. To do this, they are exposing themselves to harm and significant profit. For every Outsider they capture and claim, their market value grows, but the risk is their life. I hope you understand that they will hold this over you, that they will use this to make you feel bad."
+
+The Deathless was unsure if the fae was trying to help him, or if Cullywier was simply trying to pressure him into agreeing to whatever the Dragon Brokers had planned. But the tension didn’t rise inside Shiv. It couldn’t anymore. He was tired from all the constant tension spikes and just wanted to find out if Uva and the others were okay.
+
+After a good few minutes of walking, going for an unnaturally extended distance, Shiv found himself staring at a door corrupted by eldritch flesh. Blinking eyes stared at him, eyes that constantly shifted colors, which stabbed at his sanity. Yet despite the wounds Shiv took to his psyche, he was more resistant than before.
+
+Sage of the Enkindled Heart: That's because the control of your own mind makes you more resistant to the unnatural. Not immune, but you are more capable of resisting everything they can do to your cognition.
+
+The same couldn't be said for some of his passengers. Adam let out a pained grunt, and Shiv felt part of the Gate Lord's mind split. It was like a deeper gash had been whipped upon the fabric of Adam's consciousness.
+
+"Adam, I'm going to pull my Psychomancy away from you," he said, doing his best to protect his friend.
+
+"No, no, I—" Adam was reluctant to let go.
+
+"I'll reconnect with you after we get past the door. Don’t worry.” Before the Gate Lord could raise any more protests, Shiv drew his mind magic away. Adam wasn’t good with the eldritch. Neither was Shiv, to be honest, but he could come back. He always came back.
+
+“What stands before me?” a voice emanated from the door. It sounded like the rustling of withered leaves, the hissing of snakes, the crackle of a flame desperate not to die at once. “What thing nested in false flesh and soul approaches…”
+
+Shiv expected Cullywier to say something—to reply, but to his surprise, the fae simply strode forward. The Deathless’s surprise was multiplied a thousandfold when the door started screaming at the fae’s merest touch. The eldritch corruption slipped away from the doorway, opening up in patches where Cullywier pressed down. It was like a swarm of insects fleeing a falling flame. The sprawl of unnatural flesh closed, and the shadowy, shifting biomatter descended, shrinking away until there was nothing left. A second thereafter, Shiv found himself staring at a pure, mundane oak door.
+
+Cullywier reached out, found the handle, and turned. It clicked and opened, just as any normal door would, untouched by Outsider influence.
+
+"Wait," Shiv called out. "How did you just do that?"
+
+The fae looked over his shoulder and offered the Deathless a smile, one full of sharp teeth.
+
+"Oh, it's quite simple," Cullywier said. "The deviant and the weird fear the Eternal Samsara. Their nature is poison to your minds. Ours is fire to their existence.”
+
+With that, the fae gave a slight push, and the door swung open.
+
+And as soon as it did, someone walked out and nearly ran right into Shiv.
+
+“Oh, hello, Shiv,” Legend-Headmaster Hades Hymn said, his face bloodied, his flesh mangled by eldritch tendrils burrowing under his skin. “I was just about to go downstairs to get a drink since you were taking so long. And to have a piss in the fountains, but since you’re here, might as well just use the jar in the back so we can get started right away.”

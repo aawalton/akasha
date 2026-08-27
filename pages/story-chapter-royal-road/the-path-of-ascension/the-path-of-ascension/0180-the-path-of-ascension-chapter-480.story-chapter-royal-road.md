@@ -1,0 +1,275 @@
+---
+id: e86e114f-2865-5b9e-8a92-e36e896a72b7
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 480"
+slug: 0180-the-path-of-ascension-chapter-480
+partOf: the-path-of-ascension
+position: 180
+ownLength: 4576
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3159276/the-path-of-ascension-chapter-480"
+royalRoadId: "3159276"
+---
+
+Chapter 480
+
+Matt felt unending gratitude to the Emperor when he teleported them to a border world instead of directly back into his office. That gave him a chance to look up additional information about Icliz before seeing his loved ones, who no doubt expected him to come back in a triumphant mood rather than his current jumble of emotions. A small part of him wanted to find hints that Icliz the Mad wasn’t as mad as he’d seen, but even with full access to the EmpireNet and historical records, there was no conspiracy.
+
+At least not one that he could see.
+
+He could see the changes made to so-called original information from what Manny had given him, and they didn’t change much. In fact, the only changes he could find were edits to Icliz’s doubling effect, which had been shifted to varying numbers as suited his station. They started him off at a measly 50% increase, going up to 90% before he stopped mentioning it at Tier 25, when he’d started marketing himself and his Tier 25 more than his Tier 1. At that point, the records seemed entirely unaltered, unless Manny was lying to him.
+
+However, he didn’t let himself consider that. Without concrete proof, such speculations only led to paranoia and madness.
+
+Closing his eyes, Matt tried to process what he was feeling. “Icliz was a monster. Killing people on the battlefield is one thing, everyone there agreed to fight. Honestly, I don't even think he stepped over any lines when he asked to kill people already slated for execution. Getting value out of people who were already tried and condemned to death as part of a non-corrupt system wouldn’t even be a problem, but he stepped over the line when he pushed for more deaths. However, even Icliz doesn't deserve to be trapped and harvested for his mana for over a million years. Using the excuse that he's returning the mana of the people he murdered was a pretext then, and it remains one now. If he was conscious and agreed I don't think I’d have any issue with that punishment, open ended as it is, but he's not. It's wrong, I don't like it.”
+
+Looking up, he met Manny's gaze wanting to let the Tier 50 know how exactly serious he was. “When I can, I will correct this.”
+
+“I’ll have your back.”
+
+Hearing that, Matt silently thanked the Emperor before he forced himself to refocus on his armor. Manny would want to return home, and every minute he wallowed he was keeping him away.
+
+For his moral failings, JR was a fantastic crafter and his redesign had been incredible. It improved everything Matt wanted out of his armor and then went ahead and added more. Personally, he still didn’t quite believe JR could do half of what would be required, but his belief didn’t matter as Manny had already paid, indicating his own confidence in the raven.
+
+Now that he’d thought about it, Matt couldn’t help but ask, “How much did my armor cost? I’d say I'll pay everything back, but when I can do that they won’t be worth a ton. But I still want to know.”
+
+Instead of answering immediately, Manny stared at him for a long moment before saying, “He wanted ten Tier 50 items, but I argued him down to six and the gourd. Three up front, along with the gourd.”
+
+Looking at his hands, Matt slowly clenched them into fists. While he didn’t like that the Corporations had a mana font, he didn’t have the power to change it. Yet. Eventually he would.
+
+By blade or barter, he’d right that wrong.
+
+Not for Icliz, the man was beyond pity, but for everyone who’d been captured under the precedence he inadvertently set. One's value shouldn’t be enough reason for an eternity of anything.
+
+Slowly uncleanching his fists, then his entire body, one muscle group at a time, Matt used one of his old therapy tricks to distance himself from the emotions.
+
+After pulling himself together, Matt nodded to Manny and the two of them appeared in a sitting room, where his fellow Ascenders were lounging. Before he could verbally thank the Emperor, the Tier 50 was gone, not that he minded.
+
+Matt felt his grin was about ninety percent natural as caught his friends up with everything. He kept to the armor and defensive pact, the positive topics, but the others knew him too well. The moment he’d finished describing JR’s redesign, Liz reached out and took his hands.
+
+“What else?”
+
+Knowing he couldn’t avoid it Matt explained, “I learned the Corporations have a mana font. He’s…” Eventually he finished, “Not a good person, but it hit me in a sore spot. However, I can’t do anything yet, so I’m trying not to let it ruin my mood. Honestly, I’m feeling a lot better after having a bit of time away from the situation. I swear JR brought Icliz up in the worst ways possible on purpose. I’m pretty sure he played me like a fiddle from the moment I arrived until I left but I just can’t see how.”
+
+Allie twirled her growth daggers between her fingers offering. “Might be sooner than you think if we can locate his exact position. Didn’t JR say he was willing to let us come too? We make some waypoints now, and in fifteen Tiers, we jump in and start killing when we know the bird isn't there. I refuse to be your friend anymore if you pay them shit.”
+
+Liz held up a finger offering her own idea, “If we really can locate him, we might be able to do something earlier. A blood plague, for one, wouldn’t bother me at all.”
+
+Not to be outdone, Aster threw out, “What about an illusion? Maybe we can trick whatever they have in place so they don’t know we've done it until we are far from the angry Tier 50 bird? I’d like to be far, far away when they notice something is wrong.”
+
+Zack gave his own suggestion as everyone thought, “If he's been drained for so long, such infrastructure might be open to sabotage and possibly even a lethal strike delivered remotely.”
+
+Matt knew everyone else understood how unrealistic trying to murder someone under the ‘protection’ of a Tier 50 was, but that wasn’t why they offered their ideas. Instead of bringing logic to the situation, he went along, offering even wilder suggestions, showing the others that he really was okay.
+
+In fact, Matt felt surprisingly good as he bantered with his friends. So good, he wasn’t all that surprised when he felt his Domain pulse as he came to a realization: Matt was the master of his own destiny. Similarly, Icliz had been the master of his own destiny until he’d been captured. H—
+
+In fact…
+
+Messaging Manny, Matt asked, “JR said Icliz is running upgraded [Regeneration] correct? And he’s woken up twice since his capture? How long was he up?”
+
+“I’m not entirely sure, but long enough to cause a mess each time, so at least a few seconds, real time.”
+
+The reply was almost instant, but Matt didn’t press further. Feeling most of his remaining misgivings slip away, Matt felt his Truth settle into place, ready for the rest of his Aspect to be made whole.
+
+If Icliz had been captured not once, but three times, and continued to keep [Regeneration] running, knowing he’d be lobotomized, he was choosing a life of torture over death. Matt wasn’t exactly eager to die, but in Icliz’s position he’d much prefer that to a million years of torment.
+
+Icliz, it seemed, disagreed, and that was his choice.
+
+He apparently also chose not to ascend. However, it was unknown if his Aspect had been damaged, which might prevent him from escaping that way.
+
+Matt didn’t think that made the imprisonment better, morally speaking, and he still intended to kill the monster in human flesh, but it did let him distance himself from the man's million years of imprisonment.
+
+After sharing the good news and using it as a reason to change the topic, they decided to leave rather than linger in the palace. Instead, they returned to the noble suite and joined in the ongoing celebrations, where Matt let himself enjoy the fruits of his labor.
+
+Amusing to both Liz and Aster, the party really did cheer him up, despite his general disdain for such gatherings. In retrospect, he realized he was able to enjoy the success because of how disconnected it was to JR, the Corporations, Icliz, and mana fonts in general.
+
+Best of all, they got to enjoy the fruits of their labor almost immediately, thanks to Manny pushing the effective date forward. Such news had immediately made headlines, both thanks to their resounding success and the Emperor's unexpected return.
+
+While the initiative was fast, the effects took longer to manifest, given the target audiences.
+
+Manny’s return solved a lot of problems, in fact. But Matt really did feel sorry for him, as he was confident the Tier 50 immediately went back into a rift the moment he returned, as raw mana loans were slated to open only two weeks after his return.
+
+With little actual control of the situation, Matt could only wait and watch as their plans rolled out, hoping they’d covered every potential bad angle and pitfall.
+
+They hadn’t.
+
+There were casualties in every industry, alchemists blowing both their equipment and themselves up, delvers who never exited the rift, and consumers who took their new power and used it badly. However, there were fewer than most of their projections, which he counted as a win.
+
+It felt far too reminiscent of what he saw going on in the Corporations as Rosemarie took a butcher's knife to the Great Power. Even separated as they were, few people in any Great Power expected their cutback to be so severe.
+
+Nineteen Tier 45 mega corporations collapsed under the audits, with outlets reporting it as one of the largest cutbacks in five immortal generations. Their destruction was nothing compared to the plethora of lower Tier businesses that went under.
+
+Every time Matt heard a reporter mention the sixty percent cutback, he kept waiting for someone to blame him, but no one did, leaving him all the more confused. Why solicit his opinion if not to throw the blame his way?
+
+Unable to do anything but watch, Matt found himself taking notes. For all JR’s ruthlessness, individuals were rarely hit by the damages. A name he recognized, ‘Timmothy Vrest’, was one of the exceptions, but as the man's various grifts and shady dealings became clear, few had sympathy for those who were targeted.
+
+When the Corporations took action, they did so in three stages. After the initial audit and seizure were performed, they immediately moved to sell anything slated to be sold, and they did so at bargain bin prices. Any of the companies who survived and had enough liquidity to expand, or individuals who wanted to get their feet in the game, picked up deals as small scale infrastructure was cleaned out.
+
+The following two stages revolved around selling the remaining assets after set periods had passed, allowing for the less opportune a chance to ride the waves.
+
+Having heard Matt’s inadvertent part in the escapade, his friends had a blast betting on which corporations would fail and which would succeed. Though they silently refrained from doing so with the Empire aura related companies they were watching at the same time.
+
+In comparison to the Corporations, the Empire companies had it easy, and Matt wasn’t the only one to notice. The companies that managed to fall in the Empire's much smaller upheaval only had themselves to blame.
+
+Not that the market didn’t shift drastically with the changes. Volume, and therefore popularity, became much more important metrics than the rarity most had been chasing up until the change. Sure, a Level 3 Ash aura potion would be amazing and worth a lot, but few people wanted or needed such a rare mana type as the bias of their Domain. On the other hand, a new subtype for one of the more popular level 1 or 2 mana types had widespread appeal and flourished in the expanded markets.
+
+Thankfully, their side had accounted for that and had added rewards for isolated producers to make aura rifts that were rare in their sectors. They hoped that, at most, someone wanting a rarer type might end up paying more and waiting for delivery. But eventually anyone would be able to get even the less popular types within a reasonable timeframe.
+
+Demand for aura surged after the changes, as both aura potion and enchantments’ investment rose. That predictably left the farms understaffed but they'd planned for that.
+
+It just wasn't enough.
+
+Their clauses allowing the farms to buy aura from normal teams helped, but it was ultimately a decree from the Emperor that solved the most urgent problem, by offering a small personal tax credit based on the amount of aura extracted from the rifts for non-affiliated delving groups. With the extra incentive, teams looking for Tier 4 and higher rifts started to look towards farms first, even with the additional complications and difficulties that came with harvesting aura.
+
+The nobles were even happier than them after getting called to talk with the Emperor one on one a few weeks after his return. In a surprising move, Manny gave the nobles Letters of Commendation for their initiative, and more importantly, their ultimate success.
+
+While the commendations wouldn’t be enough to cover treason, the letters acted as rubber stamps for future initiatives the nobles might want to take. They were still responsible for their actions and any resulting consequences, but they’d proven they could be trusted.
+
+Typically, only Ascenders received such letters as dukes, because they were going to do what they wanted anyway, but that only made their success stand out all the more. Having received such privileges and getting them so early in their reigns stabilized the nobles' positions in their factions more than almost anything else could have.
+
+However, before they could do anything attention grabbing with their letters, a new news story swept through not only the Empire but all of the Great Powers. The highest Tier explorers had returned after ten years.
+
+***
+
+Emmanuel dropped onto the couch next to Carissa, letting out a soft groan.
+
+“How did it go?”
+
+“Better than I'd have expected, worse than I hoped. All and all, about right where I guessed. Matt is pissed after learning about Icliz, but he’s processing it. I nearly shit myself when he threatened to walk away from the deal. JR is… himself.”
+
+Peering through the walls, Carissa nodded. “I can tell. Poor boy is moving like a rusty automaton."
+
+Opening an eye, Emmanuel peeked through the walls himself to see no such thing. Sighing, he flicked Carissa a summary of the meeting as he lay down on the couch, using her lap as a pillow.
+
+“Oh this is far better than we expected. Sure, it's not a full alliance, but a defensive pact is just as good for what we need.”
+
+Emmanuel agreed with a hum but didn’t say anything, letting his wife go through the highlights and come to her own conclusions. Any talking might interrupt her idle fiddling with his hair. It was simply nice to hear her talk and he let himself enjoy the moment until his internal clock became too loud to ignore.
+
+Sitting up, Emmanuel rubbed his face as he slowly let himself enjoy his own victories. “Thankfully, JR wasn’t able to clean me out entirely. Best of all, I think I might have gotten something really big. I think I might have found the source of the dwarven bloodline. If that wasn’t good enough on its own, I stole it right out from under Virgil’s nose.”
+
+Emmanuel bit the inside of his cheek to stop himself from smiling as Carissa’s face went through a dozen hues before she cracked first and started rifling through his pockets.
+
+“I wanna see it! Where is it? I— Ohhhh. That's pretty.”
+
+Showing his wife the silvery object, Emmanuel explained what little he knew so far. “I believe this is the third cultivation core. The ones humans are missing. If I’m correct, this reward is something like a carrier mixed with a seed. Honestly, I don’t know much else yet. I need to do serious testing, but Matt’s thing interrupted me.”
+
+Instead of taking the opportunity to make him feel better about the extortion he just experienced, Carissa only reached out and patted his hand murmuring quiet apologies.
+
+“When are you going to use it?”
+
+Emmanuel shook his head, “Far too risky for me to use it. I— what?”
+
+Finally turning away from the reward, Carissa didn’t try to hide her disbelief. “How is it too risky for you to use it? Who else would use it?”
+
+Emmanuel tried to explain his logic, “I’m too obvious. If I show up with a bloodline, a true war might start immediately. I’ve been considering giving it to someone else, someone hidden, to use as a trump card, which writes off most of our strongest people, honestly. But we have a few.”
+
+Holding her hands up, Carissa got a glint in her eyes. “First, we need to know what it does. What does it do? How does it work? Will it turn you into a dwarf or something else? Once we know more, we can make a decision. Let's not be too hasty either way.”
+
+Finally able to investigate the orb without worry, Emmanuel spent a full fifteen minutes scanning it with Talents. Almost all of them came back with negatives or question marks, but a few Talents worked better with time and secondary items he now had access to without his fellow Tier 50s scrutinising his every move.
+
+Sharing what he found with Carissa, he performed far more through testing once he had a crack in the item’s defences.
+
+After an hour and a lot of mana, Emmanuel felt like they'd figured out most of the seed’s rules.
+
+Seeing the results as they came in, Carissa slapped her leg, "That's enough! I have seen enough! I’m calling in my favor from when we first started dating! Use the seed yourself.”
+
+“I—” Emmanuel shook his head to try and deny her, but hardly got a single word out before Carissa put a hand over his mouth, silencing his protests.
+
+“I'm serious. This item is too valuable. You need to use it. Not someone else. You need to empower yourself and we can absolutely keep it a secret as long as you don’t go transforming right in front of people. You already have your Talent as a cover for anything weird you might do, so don’t lie and use your station to say no.”
+
+Pulling her hands up to kiss them, Emmanuel shook his head. “You're pregnant.”
+
+After a moment of silence made it clear that was all he was going to say, Carissa looked down and pretended to be shocked. “No way?!? I hadn’t known. Oh, I’m going to succumb to the vapors.” Shrugging, she finished, “I know I’m pregnant, but I’m not seeing the issue.”
+
+Emmanuel explained the conclusion he’d reached on the way back. “It wouldn’t be fair to our firstborn child. They won’t have the bloodline. Secondly, you remember as well as I do that my father didn’t like the idea of a bloodline on the throne so soon after the Collective’s formation, and the logic behind those reasons hasn’t really changed. We said we wanted three kids, and if I take the Heart’s Emberseed, we are saying no to any more children. I… want to be selfish here. We waited so long to finally have the family we’ve dreamed of. Three kids, that was our goal and I refuse to change that because of one item. Maybe after but I—”
+
+Carissa pulled him into a kiss before shoving him back with one hand while snatching at the night stand with her other.
+
+Seeing a storage ring in her hands, Emmanuel didn’t quite understand until Carissa pulled out the two backups they’d been sitting on in case she couldn’t get pregnant before their deadline.
+
+Feeling the essence pulled from her cores and hovering an inch from the orbs, Emmanuel felt his mouth grow dry. He hadn’t allowed himself to invent alternatives or solutions on the way back to settled space, knowing that path only led to madness.
+
+Carissa had already given up so much for him, he didn’t want to take away one of the few things she’d been looking forward to.
+
+Sensing his worries, his wife used her free hand to cup his cheek before she tapped her abdomen. “I’m fine. We’ll have one natural birth and use the orbs to hide the other two’s date of conception. They will still be our children all the same. Honestly, I think this will be a good thing.”
+
+“Oh?”
+
+“You said that using a particular beasts blood will probably give that bloodline, so once we have more seeds the kids can pick their own bloodlines or take whatever you end up with if they so desire. Same thing in the end, but now we are that much safer because you got a little stronger. Do it. Don’t be stubborn here. Please.”
+
+Emmanuel tried to find a reason to say no, but realized he was being stupid. Instead of arguing when Carissa would be the one to have to deal with consequences, he smiled and put his hand on top of hers, matching her strand of essence with one of his own.
+
+Together, they activated both orbs, but instead of inspecting their second and third borns, they celebrated their conception, letting things remain a mystery.
+
+The Emberseed, on the other hand, was not left for too long.
+
+Having a fairly good idea of what was about to happen and what he needed, Emmanuel plundered the private Imperial vaults for any bloodline related items and Natural Treasures.
+
+Dripping a drop of his own blood on the Heart’s Emberseed, the treasure began to glow vibrantly. Then, he swallowed it, and Emmanuel felt his consciousness dragged inside, where he found himself face-to-face with… himself.
+
+Who he could become.
+
+Who he would become.
+
+***
+
+Emmanuel’s eyes snapped open as he felt himself come out of the Heart’s Emberseed.
+
+Looking at where the orb had vanished he couldn’t help but become speculative as he reviewed what he’d done. If the dwarves were any example his new bloodline could well become an entire species patterned after him.
+
+He’d long grown accustomed to having the power to dictate the lives and deaths of countless people which had made his choice easy. Really there was but one option, one aspect of him which worked with anyone.
+
+His Talent.
+
+He was the face of so many people, so many hopes, dreams, and abilities. It was that which he built his Bloodline upon.
+
+Inspecting himself, inspecting his three cultivation cores, Emmanuel couldn't help but grin at Carissa.
+
+“It worked?! I didn't notice anything. Show me! I wanna see!”
+
+Reaching into himself in a way he’d understood but never experienced, Emmanuel pulled at his spirit and cultivation core. Like a tarp being pulled over his very being, he felt the world shift and blur for a moment, except nothing changed.
+
+H—
+
+Emmanuel looked at himself. First with his eyes, then with his spirit. He was still humanoid, but his face had gone away, leaving a featureless, mannequin-like expanse. His skin was mostly gray, mottled with semi-fractal triangular patches of darker and lighter skin, with white dots spread out semi-regularly across his body.
+
+He was slightly shorter than before, and his arms and legs were a hair longer and more gangly than they had been.
+
+Knowing it wouldn’t work but trying it anyway, Emmanuel tried to make himself invisible.
+
+It didn’t work.
+
+Until it did.
+
+Staring at her hands, Emmanuel inspected invisible but distinctly feminine hands. Reaching up, she felt manicured nails scratch her overly sensitive scalp as she ran her fingers through hair that was far longer than it should have been.
+
+Stepping to a mirror, Emmanuel stared at herself. Or rather stared at Gina Talborrow, whose Talent for invisibility she was currently using.
+
+Dropping the Talent, Emmanuel felt his body shift back into its gray, default state. Switching back, he once more tested his bloodline and how it interacted with his Talent. Swapping to a few bloodline forms, his smile grew wider with each change.
+
+While in his bloodline form, he could take the shape of… anyone.
+
+A little testing showed it wasn't truly anyone, but anyone whose spirit he knew, which amounted to the same thing. At least for him, that meant anyone whose Talent was kept in his own Talent. But even if he cut that avenue off, he could still transform into Carissa though it was harder. There were nuances to the ability but he’d expected nothing less. He could spend a lifetime working through and discovering small tips and tricks without finding them all.
+
+But what was most immediately useful was the ways in which the essence he moved to his bloodline was used. Transforming into Emmaeus of Blood Moon, who had replaced one arm thanks to a Natural Treasure, showed that supernatural abilities could be copied so long as they were a part of the person’s physiology.
+
+It wasn’t a perfect copy but it opened up an incredible number of new Talents which Emmanuel could now properly utilize. His only regret was the constant drain on his bloodline. The ability to mimic other people's unique physiology was quite taxing, making it one of the more expensive bloodline powers, similar to a phoenix revival.
+
+Not that he could argue with such a price.
+
+Suddenly, he was very happy that the Knight program had been restored well before his trip, as it would make his subsequent expansions of that program less obvious.
+
+Grinning, he spent another few minutes testing random forms, much to Carissa’s delight as they bounced ideas off each other.
+
+His new bloodline still had limits. Plenty of them he was able to work around thanks to the wealth of Talents and archives of knowledge he had ready access to, but others would require far more work to overcome, if they even could be.
+
+Nonetheless, his new bloodline also meant there was now a new thing that Emmanuel needed to work on growing and improving. He ought to get some more phoenix blood from Mara, and utilize the dragon blood Matt had originally found as the fuel for his bloodline development.
+
+He also needed to return his Royals’ fingers to them.
+
+Swapping to Allie’s Talent but not letting his bloodline change his shape, Emmanuel swapped back into his human form before grinning at Carissa.
+
+“I’ll be right back. I need Mara’s blood, so I might as well drop everyone off.”
+
+Stepping through space to his office, Emmanuel grabbed the miniature ‘clones’ and rapidly cycled through each Royal's capital twice, in a large but fast loop. There was a lot to do before both the highest Tier explorers returned home and JR’s deal went into effect. But most importantly, he needed to give Carissa a new favor for keeping him from doing something stupid.

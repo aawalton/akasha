@@ -1,0 +1,571 @@
+---
+id: 495333ba-6b5e-5226-b842-c9a07c092682
+page-type-slug: story-chapter-royal-road
+title: "Chapter 140: Interview with a dead god"
+slug: 0060-chapter-140-interview-with-a-dead-god
+partOf: the-calamitous-bob-stubbed
+position: 60
+ownLength: 5610
+unit: words
+ownProgress: 5610
+publishedAt: 2023-11-03
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1395372/chapter-140-interview-with-a-dead-god"
+royalRoadId: "1395372"
+markedReadAt: "2026-06-29T21:16:50.479Z"
+---
+
+“Ok. Let’s,” Viv said with a yawn.
+
+She placed two fingers against the bedframe and pressed. Sure enough, the wood groaned under the pressure and when she removed them, an imprint was left behind. That meant this body, her new body, was definitely strong despite being… Not quite done. At the same time she already felt tired. It was a weird combination.
+
+I have placed a small seal on your magic until you could regain consciousness so as to avoid accidents. I will remove it at the end of this conversation or at any time you should request it. Your magic is yours.
+
+Now onto the crux of the matter. As you know, my covenant with sapient races grants them access to the interface and a way to track and direct their efforts. It also facilitates the access to well-practiced, proven skills that could help them survive on Nyil. I impose this covenant even on newborns because I have been proven, time and time again, that it could only help people.
+
+The counterpart of this covenant is that people feed me an infinitesimal amount of mana via prayer every time they access it.
+
+“Oh. So it goes both ways.”
+
+Yes.
+
+My covenant covered humans, Merls, and Kark in the beginning. I have extended it to the Hadals at the request of the first of their numbers. A person you know well.
+
+“Wait…” Viv said. “You mean Irao?”
+
+Yes. Yihao Shiyan. Experiment number one. A common acquaintance reported that the man who created the Hadals shared a language with one of the peoples of earth.
+
+“I actually know very few languages.”
+
+Then I should not have shared this with you. That is why I avoid conversations. No matter. The purpose of this discussion is to establish that you, as Nyil’s first black elemental caster, may decide whether or not you want access to the interface to be still active.
+
+“Wait. Does that mean I potentially bind any others that come after me to my decision?”
+
+They may opt out of it. In fact, anyone may opt out of it at any time. Few people even know it is a possibility, however.
+
+“Does anyone actually do it?”
+
+Octas’ followers do so after they have grafted enough monster parts on themselves. But we digress. The interface is always beneficial. I have forfeited physical form and a church for the sake of civilization, no matter what you mortals believe it should be. I still must ask, and you must still agree, to the covenant.
+
+“It’s been super useful until now so yes, please.”
+
+Excellent.
+
+“And errrr… since we’re on the topic. Could you…?”
+
+The Vandal title stays.
+
+“It was an accident! I apologized! Please, the Academy’s repairmen already give me a discount for being a frequent customer!”
+
+Too bad.
+
+Now onto your new stats. I shall remove the seal. Enjoy!
+
+Viv immediately blocked the influx of information assaulting her mind. She could handle it, of course, it was just annoying. She wanted to check things out one by one.
+
+Current status:
+
+Mana distribution:
+
+Current attunement: 51.3%
+
+There was nothing too extreme here, which was weird in itself. The new line that spoke of an elemental core probably had a lot of subtext to unpack but she assumed Abenezigel would help her with that. As expected, the rest of her body was still ‘mortal’. Maybe that was why she felt so damn tired. A brief inspection of her arms revealed no black veins, however. On a hunch, she brought up her health status.
+
+Ok, that, yes that explained a lot. She had been warned. It would take a long time for her to return to full strength and also full height dammit, and not that she was really vain, but also full cup size. And full foot size. She had painstakingly gathered a collection of master-crafted shoes, boots, and slippers that fitted her just right and now they were all too large! Unfair!
+
+Viv growled under her breath for one second. She deserved that much.
+
+Moving on.
+
+Ascender: 1 / 5
+
+There were only four levels to that on which definitely meant that she was expected to accomplish incredible feats in order to progress. Something to consider later.
+
+Power: 24 to 37
+
+Wow that was… massive. So that’s why she felt so damn strong. A power of that tier matched that of a powerful warrior. She could beat people at arm wrestling now! Nothing could stop her!
+
+You have reached a threshold!
+
+Active skills that rely on power now offer an improved version. Your resistance to physical blows has significantly improved.
+
+So that was why those trainees could keep slugging at each other without falling to pieces. Also, skills that rely on power? She didn’t have any that she could think of. Wait, she didn’t have any such skills. Or did she? She called the active skill menu.
+
+Active skills
+
+There was, in fact, an active skill menu.
+
+Inspection was here. She had always kind of wondered why it didn’t show before.
+
+That was… actually that made a lot of sense. Many paths relied on active skills, though casters did not.
+
+She just hadn’t…
+
+She’d been on Nyil for two years.
+
+“Am I stupid?”
+
+I reserve judgment.
+
+“Don’t you have better things to do? Actually, don’t answer that.”
+
+Viv wanted to return to her stats but the ‘Aspect of the Guardian’ thing got her attention. It was new for sure. She focused on it.
+
+Aspect of the Guardian:Your first aspect. You stand for those you care about. Upon anchoring yourself, all shields and shield-related effects have their strength doubled and their size multiplied by five depending on stat and affinity. You may not move from your position though you can be moved. The range of offensive spells is limited to the vicinity of the shield. Offensive spells are significantly harder to cast.
+
+At the thought of anchoring, her half wings stretched out from the dark patch on her shoulder blades as naturally as if they were arms. Viv was not used to it. She really wasn’t. At the same time, the limbs were definitely hers in her mind. They felt natural, just… new. Anchoring would require her to plant them somewhere. She just wasn’t exactly clear on the details. The only thing she could instinctively understand was that anchoring related to the drawing of spell arrays. A shortcut, perhaps?
+
+As for the skill, it was just perfect for her plan to cover the heavies under her command. She would have to wait to test it in the field of course. And according to the text, it was merely the first. When she felt confident enough to deploy her magic, she would try that in priority. With excitement, Viv returned to her stats.
+
+The monstrous progress of her power stat meant that she would have to watch out for a while, get accustomed to the change. Even squeezing someone a bit hard might hurt them. It also illustrated an interesting aspect of Nyil: one could not be good at everything. She might have a high power but without the skills behind it, without effort, it was technically wasted on her. She had never planned on punching people so she couldn’t do that well, even with a magical body. She bet that even with her training in the army, any decent brawler with lower stats could put her down. The reminder of her own limits sobered her a little but only a little.
+
+There was no need for punching when one could disintegrate.
+
+Finesse: 26 to 32
+
+That was weird because she didn’t feel too different. Perhaps her exhaustion had something to do with it.
+
+You have reached a threshold!
+
+Muscle memory and finesse related skills are vastly improved. Your ability to move at great speed is much less tiring and can be done more often. Perception is improved, especially when it relates to sight. Sneaking is vastly improved.
+
+That was… once again helpful but not dramatically so. Anything that made her harder to hit or kill was helpful, it was just that she didn’t depend on her body to protect her. Magic was her main tool. Still cool though.
+
+Endurance: 30 to 34
+
+Not a great change here but that was fine. It didn’t seem to help her with the sleepiness she could feel creeping upon her.
+
+She looked at her new physical stats and flexed a hand. It did feel stronger. More real. More reactive as well. Maybe she was looking at it the wrong way. She didn’t need swords or staves or the like but there was one weakness that plagued mages everywhere: mobility.
+
+Maybe she didn’t need to waste time learning how to fight with a new body. Maybe she only needed to learn how to move, and since her wings could be used as anchors, relocate anywhere to send torrents of spells from a new location. Her tools like the floating sigils would definitely help as well.
+
+She would have to train and experiment. Later.
+
+Quickly, she checked her mind stats, finding them all increased by 2.
+
+Physical
+
+Mental
+
+Power
+
+37
+
+Focus
+
+43
+
+Finesse
+
+32
+
+Acuity
+
+43
+
+Endurance
+
+34
+
+Willpower
+
+43
+
+That would be very, very useful. At this level, every increment made a difference, especially for the most complex spells.
+
+Viv felt pretty excited. Maybe she could improve her mobility on the battlefield using her stats? Pull a fast one on other casters? There were plenty of opportunities for shenanigans.
+
+She checked her skills, or passive skills she guessed, finding them unchanged except for one.
+
+Draconic intimidation: expert 4 to 7*
+
+Aha! Having stupid void eyes and skeletal wings, ok almost wings of pure black mana coming out of one’s back certainly indicated that someone was having a moment. Or something. There was a small asterisk, however. A nudge in her mind. She focused on it.
+
+Intimidation will be temporarily yet fully canceled should you wear a disguise.
+
+Viv opened and closed her mouth like a beached fish, beyond outrage. This was so unfair!
+
+Temporary debuff linked to short stature.
+
+Whatever! The preliminary inspection of the changes was done for now. The rest she could discuss with Abe before testing which would itself come after a good nap. With a huff, she went to open the door to the main room.
+
+Predictably, the torn handle remained in her hand.
+
+“Of fucking course.”
+
+The door opened anyway, revealing a sort of lobby lit by a skylight, the sun visible through dyed glass. The mix of old stones and relatively new furniture gave her the strange impression that she was squatting in an ancient ruin. Solfis and Abe sat in comfortable couches but there was one last person present, his wavy hair mussed by intense winds.
+
+“Sidjin!” Viv squeaked.
+
+“Viv!”
+
+The fallen price rushed forward. The obvious relief he felt warmed Viv’s heart a little. She distinctively saw the moment he blinked, taking in her new size. He still picked her up in a hug. It felt weird to be carried so easily but not entirely too unpleasant. She could tell her sharper, gaunt face bothered him a little just as she could tell the moment his mind switched gear. and a sardonic smile bloomed on his handsome face.
+
+“So… where’s the rest of you?”
+
+“Fuck off! I will grow back and then you’ll all see who gets the last laugh!”
+
+“Oh my, is it a side effect if you seem a bit…”
+
+“Don’t say it.”
+
+“Short-tempered?”
+
+“I will kill you.”
+
+“Alright alright but don’t worry if you’re vertically challenged. Not only am I told that it’s temporary, I would also be the worst of rakes if I were to disregard you over a disability.”
+
+“I AM NOT DISABLED!”
+
+“We’ll go back to that if you need to grab something on the upper shelf.”
+
+“Sidjin,” she drawled, “you know I can use telekinesis right?”
+
+“Ah, true.”
+
+“If I need something out of reach, I’ll sock puppet your corpse to go and grab it.”
+
+“Ah yes. I’m sure we can keep exchanging barbs but just like you, I will be brief. Abenezigel informs me that you will be asleep within the next two hours.”
+
+“Oh yes.”
+
+“Indeed,” the lich added. “It would be best if we could go over the consequences of your change in detail. I assume you already took in the alterations via your interface?”
+
+“Yes.”
+
+The lich nodded, the move strangely mechanical.
+
+“On top of changes to your stats and possibly skills, there are physical changes we need to delve into.”
+
+“I noticed a few significant changes, yes.”
+
+“She made a shortlist,” Sidjin unhelpfully added.
+
+Viv groaned.
+
+“I have no glands left and yet still experience disappointment,” Abenezigel grumbled. “Please stop interrupting me. The first change is your eyes. Have you tried… actively perceiving mana?”
+
+“Not yet,” Viv replied.
+
+“Please do so now.”
+
+Viv focused, then sighed in appreciation.
+
+Mana mastery meant that she could permanently see the halo of colors around living and inanimate objects. This proved essential when fighting other mages or understanding spells because she could anticipate what would come from the change in density, and the sigils she could identify at a glance. It remained a taxing activity, however, or at least it had until now. Rather than a blur of color around her normal sight, mana now appeared much better defined in self-contained shapes around the entities it was attached to. Sidjin was his usual red, brown, and colorless self. Solfis was made of thin, geometric lines around a core that shone like a sun while Abenezigel offered an interesting sight. He possessed a black core like every other undead, though his appeared to be ‘homemade’ rather than taken like hers. Colors came from his scepter but not in the same way Sonagi’s artifact emitted color. That one had been a modular storage system. Abenezigel’s scepter converted black mana into mana of the desired color at a rather wasteful ratio. Still, it was amazing he could do it at all.
+
+“Hey, you can use any color?”
+
+“Only those I understood while I was alive. I know what you are trying to ask, Viviane the outlander. I am sorry. My understanding comes from, and was built on, the knowledge I had while alive. I do not believe you are able to learn any other color. More importantly, how is the sight?”
+
+“Incredibly detailed. I could just use it at full power non stop without issue, I think. Very useful.”
+
+“It should also scare those who behold them, though be wary. Ignorant folks might take you for a monster.”
+
+//Those who attempt to cull her will receive their just reward.
+
+//Although it might make the purchase of goods and services challenging.
+
+“Precisely. You will find your visual acuity improved, including in more adversarial conditions as well.”
+
+“Such as?”
+
+Abenezigel waved his hand, invoking a cloud with blue mana. Viv could see rather clearly though the ensuing fog. He followed with a layer of black mana he placed on the windows, plunging the room into darkness. At least, Viv was pretty sure it was darkness. She could see just fine.
+
+“Ok that’s pretty nice. Anything else?”
+
+“Yes. The second thing I want to talk about is your body.”
+
+He stood, approaching Viv. Sidjin leaned against one of the couches as if unsure if he should stay. Or perhaps he was just worried. Viv looked at her arms again, her annoyance at how thin they were still present in her mind.
+
+“Many of your bodily functions are now powered by mana which leads me to the most important point, the one I absolutely intended to mention. In fact, I have come to the realization that I should have told you in your bedroom.”
+
+“Get on with it,” Viv said, annoyed by the delay.
+
+“Many of your vital functions now rely on mana as your physical body is no longer quite physical. This means that when you used to run out of mana, you fainted.”
+
+“Yes, I know,” Viv said, remembering the deadland fort sieges during which she collapsed several times.
+
+“If you run out of mana now, your brain will immediately cease to function and you will die.”
+
+“Errrr.”
+
+“I do not wish to alarm you. It is excessively difficult to make an elemental archmage run out of mana. Nevertheless, keep that possibility in mind. Fortunately, the other aspects of an elemental body are much more beneficial. You can last longer without food and breath, though not forever. I am pleased to report that you may also survive mortal wounds as if your endurance was several tiers higher, whether the cause be massive trauma, poison, or even curses!”
+
+The lich seemed giddy, something that immediately set off Viv’s survival instinct. It was the skull, really.
+
+“Not that I would wish it on you, of course,” the lich quickly amended.
+
+“Alright, good to know. Moving on?”
+
+“Unless you are killed, you are now functionally immortal.”
+
+“Ah yeah. Not bad.”
+
+Viv considered millennia of research for eternal youth, trillions spent over the ages on alchemy, genetics, medicine, magic, and AI for the sake of obtaining what she had just been so casually handed. Abenezigel patiently waited until she was done digesting that particular piece of information.
+
+Immortality.
+
+She wouldn’t age, she wouldn’t catch degenerative diseases, she didn’t have a deadline to finish her project before the reaper came knocking. Strangely, the thought didn’t calm her down at all. It gave her vertigo.
+
+“Right. Okay. Next thing?”
+
+“The last consequence should be your drastically improved ability to channel mana, thus placing you squarely among the ranks of the most powerful humans on Nyil. This is the bottom of the mountain, mind you, but its tip leads to Emeric’s palace. Though the path is barred to me, I would like to be the first to welcome you to the Greatest Game. May your journey take you far.”
+
+“Thanks…” Viv said, rather moved.
+
+She turned to Sidjin, though she wasn’t sure why. It felt like a life-defining moment yet at the same time it was intimate and friendly, not majestic. She found she preferred it that way.
+
+“Hey, I am just happy to see you alive and well. You can conquer the planet at your convenience. Do not feel pressured,” he said.
+
+“World domination is overrated anyway.”
+
+//I formally disagree.
+
+“Moving on, to quote you,” Abenezigel interrupted, “the last addition to your arsenal is also the most unexpected. Those limbs you have on your back. May we see them?”
+
+“Sure,” Viv said, though she watched Sidjin’s reaction when the half wings expanded from her back. He seemed curious, not revolted. That comforted her, somehow.
+
+The three others approached, looking at the scythe-like appendages as she extended them in front of her. Moving them didn’t require her to contract muscles, yet it was not intellectual either. This new sensation was… uncanny. A request to touch the limbs meant three pairs of hands (two of them made of bones) on that surface. It felt ticklish.
+
+“It’s warm and unyielding at the same time?” Sidjin said, sounding unsure.
+
+//Superficial analysis indicates the material is solidified black mana.
+
+//Classification: exotic material.
+
+//Flexibility: mild
+
+//Durability: extreme, all aspects
+
+//Full sensory feedback detected.
+
+//Mana circuits detected.
+
+//Evolving structure detected
+
+//Material rarity: unique.
+
+//Harvesting directive: refused.
+
+“Hmm yes. Hmmmm yes yes yes, fascinating. Hmm. Hmmm,” Abenezigel said.
+
+All the others glared.
+
+“I have been trying to sound more human by using suboptimal conversation branches and various noises to express emotion. I presume that my efforts are not producing the expected result?” he finally said.
+
+“If you can pick your personality yourself, why would you use an annoying one? Just speak up,” Viv replied.
+
+“I shall make adjustments. I believe you have a wide range of motions but that is secondary. The most important factor seems to be that those wings of yours can act as anchors. Anchors are dimensional matrices at the center of spellworks with arcane indexes superior to the Radani constant, thus requiring— “
+
+“They’re wells in the fabric of magic so Nyil knows it’s supposed to listen better,” Viv interrupted.
+
+Viv had never seen someone with no face look so put upon.
+
+“Accursed witches,” Sidjin grumbled to the side.
+
+He looked like he was eager to listen to a fellow mage drone on about constants and variables and whatnot. Viv was not having any of it.
+
+“You two may feel free to dork it out in the privacy of your man caves but I’d like to point out that those are my anchors, which means they are witch anchors, which means that I get to call them as I damn well please.”
+
+“We must still test them out,” Sidjin observed.
+
+“I’m pretty sure I can use them to stab people.”
+
+“Yes,” Abenezigel pointedly replied, “in the same way a jeweler’s crystal pliers may be used to stab someone in the eye.”
+
+“So that’s a yes.”
+
+//I shall schedule some eye-stabbing practice, Your Grace.
+
+“That doesn’t seem like a good idea,” Sidjin said.
+
+//Says the only nearby source of fresh eyes.
+
+“My wings can clearly be used as weapons and they’re completely invisible until deployed. I would be stupid not to train to use them as a contingency plan. Besides, Solfis saw that they were extremely durable. Certainly more durable than my mostly fleshy self.”
+
+//Extreme durability in Imperial classification means that I cannot break it.
+
+//This classification takes into account the capabilities of my original frame.
+
+That gave everyone a moment of pause.
+
+“So. My wings, solid. Got it. I need to learn how to move again anyway. Let’s add this to my magical practice. Abe, I assume practice is fine and wouldn’t mess with your schedule?”
+
+“Indeed not. In fact, I expected it. Is calling me Abe really necessary?”
+
+“Would you prefer Ben?”
+
+“You may call me Abe in a private setting.”
+
+The lich nodded to himself, the gesture once again clearly unnatural.
+
+“I remember that nicknames are an important part of complicity between members of the same group of rapscallions. This bodes well for the future of our cooperation. My good mates.”
+
+“If you say so. Right, so rest and physical training. What about magic practice? I have a new active skill I would like to test.”
+
+“Would it lead to the destruction of my floating island?”
+
+“No, it's a purely defensive increase of my abilities.”
+
+“We can do that in the ritual room.”
+
+The ritual room.
+
+Viv instinctively placed a hand against her chest at heart level to fend off a swell of phantom pain. Her death had been quick and it hadn’t stuck but she did remember a flash of agony. Sure enough, there was a small patch of scar tissue she could feel through the thin fabric.
+
+“Your scars should have been reabsorbed… except…” Abe said, hesitating.
+
+“Yeah.”
+
+“We can postpone the exercise if you would rather take a moment.”
+
+“No, I’m fine. This is just a big change. I knew I was going to become part-elemental or die from the moment Solfis started to train me two years ago. I worked hard to make sure I would survive. I befriended the Temple of Neriad. I got the information that Helock was the place to ask. I came here, then worked my way up to a solution that Solfis eventually provided. Now that I’m mostly safe, I realize that I didn’t consider what I would do after. I wanted to learn portal magic to at least send word to my family that I was okay but… they’ll all be dead of old age before I can reasonably figure it out. Being part elemental also comes with a range of weirdness we are only just starting to uncover. And that’s not mentioning the dying part. Sorry, Abenezigel, I’m only considering myself when I say that. I am not trying to belittle your own struggles or your plans…”
+
+“I know that revenge is my life project, and that you are an ally. Do not worry.”
+
+//You could always bring civilization and life back to the deadlands.
+
+//You may also consider becoming an empress.
+
+//Lead mankind into a new era of progress and enlightenment.
+
+//And make urinating in public a capital offense.
+
+“I was already considering it.”
+
+//Additionally, you now have the time to see your adopted daughter grow.”
+
+“A daughter?” Abe asked.
+
+//The dragon.
+
+“Ah. In any case, self-care and mental well-being are an integral part of the recovery process. You will have the time you need to come to terms with your new reality.”
+
+“And possibly get back my normal height. Alright, enough navel gazing. We went over body changes, now let’s have a look at the magic.”
+
+The four reconvene in the ritual room, filing through a corridor to get there. Viv noted that for an undead den, the place was surprisingly devoid of black mana and skeletons. All the rooms she passed by kept the same strange identity of ancient ruin repopulated and refurbished centuries after they had been abandoned, new curtains covering stones smoothed by centuries of disuse. The effect was reinforced by the general cold air up here. Interestingly, it didn’t seem to affect her much though she noted Sidjin had kept his coat.
+
+The room itself had changed. The circle she’d seen was gone, as was the altar. She searched for a pool of blood on the ground her memory insisted should be here but only found clean rock. It bothered her a bit.
+
+The three others stood at the edge of the circle to give her a moment. She went towards its center.
+
+“The room is properly insulated. So long as you do not actively try to demolish it, the enchantments should hold. Feel free to begin at your convenience.”
+
+Viv nodded. She was ready.
+
+Just like inspection, using the aspect of the guardian didn’t really require any ceremony, though she felt like screaming it just because she could. Maybe it would help. In any case, the world guided her, whispering instructions. She extended her wings, or anchors, then stabbed them down.
+
+At this point, Viv looked behind to see that her wings were not just considerably thicker but that they didn’t stab in the stone so much as in the world itself. As an experiment, she pulled them back. They returned to their default size and left the stone behind untouched.
+
+“Hmm.”
+
+The skill description said she couldn’t move but could be moved. She wondered if that meant that someone could just punt her away or if she could, say, stand on a chariot and cast it to act as a supercharged portable shield array. Maybe both? More things to try out. Planting the wings again, she resumed the test.
+
+Right, she was anchored and static. Now it was just about pulling power from…
+
+Oh.
+
+OH.
+
+Mana didn’t come from the usual place around the center of her chest. It was a little bit forward and it exploded out in the room, coursing down the wings and to every pore of her skin, every cell, down to her fingertips. It rose in great waves around her. It formed blades and shapes and tendrils seeking, searching for anything and everything it could affect. It wanted to be freed, it wanted to be used and it was hers and hers alone.
+
+Nyil was alive. It poured power into everything and the living beings on its surface took and grew it, returning it with interest. They grew it and bloomed it but the power was, ultimately, borrowed. If Viv had returned to Earth, she would have starved for that might, pushed her core for the trickle it could create from memories. No longer. The source of the black was now her soul and it was hers, uncompromisingly hers.
+
+There was a lot of it.
+
+Viv brought the tidal wave under control, feeding it to herself to form an aegis that covered the entire outer circle. Viv was the rock upon which armies would shatter as she protected her own. Mana shimmered and sang, the hum audible. A ripple over the aegis crystallized it. It was ready. She was ready.
+
+//Citadel class shield array detected.
+
+//Impressive, Your Grace.
+
+“So that’s what an elemental caster does,” Sidjin whispered.
+
+There was more. There was a lot more but the construct could only hold so much at the time. She could cover many more people. She could protect them all, fend off attacks and let them do their job. There would be no artillery spells crashing on tightly-packed Harrakan Heavies because she would be here for them.
+
+A wave of fatigue washed over her and she stumbled.
+
+“Please, be careful,” Abe reminded her.
+
+“I’m fine. Not out of mana. Just tired.”
+
+“Should we stop here for now?”
+
+“Yes.”
+
+Viv coaxed the mana back into herself without much difficulty. It was hers more than any energy she had ever wielded before. She felt like she could take on a necrarch and win. After her nap, of course.
+
+Mana mastery: Intermediate 5
+
+“Ah, in case this was not abundantly clear, you have access to enormous reserves and your spells will be extremely effective. The black ones, that is. The use of colorless mana will still present a challenge. Now, you seem tired. Should we head back?”
+
+“I could eat, actually. And drink.”
+
+“Oh! I got soup from the Five Fishes inn!” Sidjin exclaimed.
+
+He was very proud of himself.
+
+“You brought soup all the way up here?” she asked.
+
+“Well, Abenezigel sent me a messenger bird saying you were stirring in your sleep so I figured you might want something hot. I flew it all the way up here.”
+
+“Oh yes, you can fly. I always forget flight is a thing around here.”
+
+“Flying over Helock is normally a death sentence. It is also a fairly tiring thing to do so even those with a license to fly normally prefer to hail a cart.”
+
+“The part of mankind with access to will-powered flight considers this a chore. Figures,” Viv grumbled.
+
+“I got the license so I thought, why not? Better than field rations and nutrient patches.”
+
+“Yes. I would love some soup.”
+
+Viv got her soup. She sat in one of the new couches while Sidjin reheated it for her with a handwave.
+
+“Thanks. You are handy to have around,” she told him with a smile.
+
+“As a fourth step war mage, it is my pleasure to use my awesome powers to provide piping hot soup.”
+
+“As it should be,” Viv joked before realizing Sidjin’s gaze lingering.
+
+“It’s the eyes,” he whispered. “Very scary.”
+
+“Sorry.”
+
+“For them.”
+
+Viv chuckled. Sidjin was doing his best to make light of the many changes she was going through. She appreciated it and focused on her meal while the others gossiped and talked about the recent events.
+
+Not much had changed in just nine days. Rakan was still recovering safely in the suburbs though Sidjin wanted to have him transferred to Harrak for safety. Lady Azar had sent a report stating all was well and that she had secured trading rights with wild land tribes to the south, specifically for fur and minerals. There were also rumors of scouting parties returning from Halluria, bringing back reports of troops heading east. Moving armies were a sign of a civil war brewing between the warlords. It would also explain why the assault on Baranese defenses had been so weak. Sidjin laughed when he reported that the arena still hadn’t been cleared of black mana saturation. Apparently, the Academy had refused the job.
+
+“Remember Ashra? The black mana tenured professor?” Sidjin asked.
+
+“Of course. I was her assistant for two semesters.”
+
+“She had some choice words for Deos. Rumor has it she turned down quite a bit of money. Now, Deos has been forced to hire local talents but the concentration is so high that it takes specialized gear to even enter the arena. Unfortunately, the prototypes tend to go missing,” Sidjin said with an exaggerated sigh.
+
+“Something about sabotage. I’m sure they’ll figure it out, eventually.”
+
+Viv smiled in appreciation. A little delayed vengeance was just the perfect sweet note to end her meal. Like ice cream but schadenfreude flavored.
+
+“Why has Eunath not intervened?” Viv asked.
+
+“He is a victim of his own importance,” Abe explained. “An archmage of his talent cannot be seen doing what is essentially janitor work. I suspect he may intervene soon if the City Hall battle mages do not purify the land first. The arena’s closure reflects badly enough on Helock as a whole to push them to forfeit their pretend neutrality. You must understand. The arena has never closed for longer than a week. Even during sieges. Deos is going to be replaced.”
+
+“Serves them right.”
+
+“Indeed, though I would warn you that you have a somewhat roguish reputation in the city right now. As for rumors about you, most people agree that you must be dead and your corpse is floating somewhere in the sewers.”
+
+Viv could have done without the imagery and, apparently, the same was true for Sidjin. She recovered when the lich floated her bedroom lock to his skeletal hands.
+
+It was really badly broken.
+
+“I installed this handle here myself more than two centuries ago.”
+
+“Well then errrr… it was high time to change it!” Viv replied.
+
+It appeared Abenezigel shared Solfis’ ability to convey displeasure without facial traits.
+
+“Ok sorry for wrecking your stuff. I apologize. I need to get used to my new strength, is all.”
+
+“That is quite fine. I am sure Solfis can help you with getting used to it all.”
+
+“Yes yes. Nap first. Assassinations later.”

@@ -1,0 +1,179 @@
+---
+id: b5965daf-b27a-55f0-aa08-ccbf789908ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Clearing The Dungeon"
+slug: 0003-chapter-3-clearing-the-dungeon
+partOf: the-gift-of-loot
+position: 3
+ownLength: 2602
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3227799/chapter-3-clearing-the-dungeon"
+royalRoadId: "3227799"
+---
+
+Thomas stared down at the scroll in his hands. From the second he'd found out about gifts, he had not wanted anybody to learn what he was: The shape of his soul.
+
+Of course, the media landscape being what it was, people on TikTok were showing off their scrolls upon leaving the dungeon. Who knew if they were real or not? It was social media. But he wasn't going to do that. He was the type of person who only had a Facebook account to keep in touch with his friends, and that was it.
+
+Now, as he stared down at the scroll, which told the world what his soul was, he realized that his little inner paranoia that had driven him here... wasn't baseless. Deep down, he had known that this was something he should keep to himself.
+
+And... he had received a lot of drops from the monsters, hadn't he? Sure, there had been a couple that had stiffed him and had nothing, but he had received mana crystals—sometimes a couple of mana crystals—from everything else, including the penknife and the dagger. Were those rare drops?
+
+He pulled off his backpack and sorted through the crystals again. The fire ones were warm against his skin, the blue waters cool, and the air ones were sort of neutral. Finally, he found the penknife. As he had been in the middle of the dungeon, he hadn't taken a good look at it, but now he did.
+
+There were tiny, clear mana crystals, the size of a gem you'd see in a woman's ring, embedded in the handle. All of these were perfectly clear, with no sign of an element at all. He thought that meant they were ready to be filled.
+
+Pressing the button, he flicked out the blade again and carefully pressed the flat of it against the wall. It was strong and didn't bend, not even when he put more and more weight on it.
+
+Weird. This was made of really high-quality metal, maybe even alien material, on top of everything else. New materials had been introduced to Earth since the official onboarding announcement, and apparently, the rich and well-connected having first access to the dungeons had been the basis of the explosion of technology over the last 75 years.
+
+The more you know.
+
+But now things were going to be less dinosaur oil and more mana-based, he guessed. Not that he knew the difference. He couldn't tell what went on in something as small as a new-gen computer chip. For all he knew, those might have been mana-based for years.
+
+With a shake of his head, Thomas put the penknife away and resealed his backpack. His backpack was so full that it lifted the top flap, and the top layer of mana crystals peeked out.
+
+That wasn't good. He needed to be inconspicuous and keep this to himself. Those National Guard guys would be taking notes.
+
+Quickly, Thomas shuffled through the backpack and took out a little canteen of water and a pack of snacks that he had brought in. He hadn't known how easy or hard this dungeon would be, so he had packed for everything. After taking a drink, he hooked the canteen to his belt—probably something he should have done before, but whatever—then left the snacks in the dungeon. It was just a pack of peanut butter and crackers.
+
+When he left the dungeon, this instance would be gone, and so would anything that he had left behind.
+
+Now, with those two items gone, the mana crystals didn't bulge out the sides and the top as much. Though he would have to be careful to walk smoothly, or else he would start clinking.
+
+But that wasn't good enough. The scroll said something about his powers, about his soul and his value in a world that was about to get very, very odd and possibly dangerous.
+
+Thomas read the thing over and memorized it. It wasn't hard. There wasn't much to it. Then he took out a brand-new lighter from one of the pockets of his backpack. Clicking on the lighter, he brought the flame to the scroll.
+
+As he'd noted before, the scroll wasn't made out of paper, more like a vellum-type material, and it took a few seconds to catch. But then it did, and he dropped it and watched it curl into ashes on the ground. The smoke was whisked away by some sort of unseen dungeon filtration system.
+
+"Okay," he said, checking his pockets again, his backpack, and making sure that nothing was left behind, especially that the mana crystals weren't visible.
+
+Though he exited using the official exit door, he walked out into the same distortion that he had entered through.
+
+The same two army guys were still there. The older one smirked at him and looked down at his pants. "Do you need any medical assistance?"
+
+"No," Thomas said, then looked down at his arm. Right—the bandage, and the parts where he hadn't wrapped it so well were showing some blood, and his Walmart-grade pants were in shreds. "I'm fine."
+
+The younger army guy was a little more professional. "Congratulations on your first delve. Do you have your gift scroll?"
+
+"No," he said, affecting a puzzled look. "I left it behind. Was I supposed to take it with me?"
+
+"It's not law," said the older army guy, in a tone that said 'Not yet.' "But do you want to log your powers for the official records?"
+
+He made it seem like a question, but it wasn't a question. Thomas was willing to bet he would show up on several databases if he didn't. Not having the scroll was going to be suspicious enough.
+
+He pretended to think about it. He had been doing a lot of research, and he had already picked a fake gift that was middle of the road. "Sure. When I'm in the dungeon, I can see colors more vividly, including slightly into the infrared. It's kind of neat. Also, my senses grow by half a percent for every enemy I kill until I exit the dungeon. Then it resets. It was kind of wild in there."
+
+He thought it was the sort of thing that would discourage anybody from spying. If he had supersenses, he should be able to see them, right? But he might have made a mistake.
+
+The older army guy winced. "That's bad luck. Does that include your sense of pain?"
+
+Oh yeah, perception would include pain, wouldn't it? He was no good at lying. "I don't think so." Then he looked down at his pants. "I got hit early on, and at the end, it felt normal."
+
+"That might be the adrenaline. You'll want to get yourself checked out," he said, then took on a more professional air. "Be advised that you're not allowed to redive this dungeon for 72 hours from this point. We're trying to keep things fair here. Smitty, give him the receipt."
+
+The younger army guy, Smitty, tapped something onto his pad, which obediently spit out a little slip of paper that he handed over. It showed the time and date, with an allowed 'return' date in 72 hours.
+
+"You are allowed to put in for any other dungeons," Smitty said. "Now that you've survived your first one, we actually encourage as much diving as possible. It'll keep any complications to a minimum once things get real."
+
+Thomas's eyes flicked up to the ubiquitous message in the sky, and he noticed the countdown had reduced by two hours. He had been in there for two hours? It hadn't felt like it. "Got any suggestions for good dungeons around here?"
+
+"Yeah. There's supposed to be one by State Line Beach that has octopuses. They have some real camouflage, but if you have supersenses, you should be able to notice them. The thing is, they give good drops, too. One guy actually got a roll of fabric. He thought it was useless, and then he unrolled it, and it was actually laced with gold."
+
+Thomas's eyebrows rose. "That's crazy," he said. "Let me think about it."
+
+The older army guy butted in, still all business. "Did you get any loot drops you want to sell, or do you want to register your final dungeon reward? Right now, rewards are tax-free, but none of us expect that to stay as it is. You don't have to officially register it. We're just getting a survey of each dungeon." The guy was kind of a jerk, but there was a warning in his tone, and he stared at Thomas hard, telling him something with his eyes: Underreport.
+
+I'm picking up what you're putting down, Thomas thought. Aloud he said, "Two mana crystals. They're both white. Air, I think."
+
+"Two crystals is on the shittier end of the drop scale," the older guy said, but he nodded. He knew Thomas had gotten more but wasn't going to press it.
+
+Thomas was going to ask what was normal, like he hadn't read the guide or was intimately familiar with loot, but they were interrupted when a group of loud hikers came barreling up the trail.
+
+Well, maybe hikers was the wrong word. It was a group of four guys and one girl in their early twenties, all looking like they had come from the same CrossFit studio.
+
+The first one—Thomas marked him as 'Chad' because that was the energy—came barreling up to them right in the middle of the conversation.
+
+"Hey man," he said to the older army guy, "how much to get into the dungeon?"
+
+"Dungeon is free," he replied, all professional again.
+
+"Good." Chad turned and bellowed back to his friends. "It's free! No scammers here."
+
+Both army guys stiffened. "You're saying people are charging for dungeon access?"
+
+Chad shrugged. "I've heard rumors." But he didn't elaborate at all and turned to Thomas. "Looks like this one just spat somebody out. So is it hard?"
+
+"What grade is it?" asked the woman, who had just joined Chad with the rest of her friends.
+
+"Uh," Thomas said, "I don't know. This is my first one."
+
+"Good job, bro," one of them said, holding up a hand. It took a beat for Thomas to figure out that he wanted a high five. He complied, and as he got in close, he smelled alcohol wafting off the guy's body. In fact, they all looked a little tipsy.
+
+They were going to take on a dungeon while drunk?
+
+He glanced at the army guys, wondering if they were going to stop them, but they just seemed more amused than anything else. Well, this was a level 1 dungeon, and this group looked like they ran mountains for fun, then capped off the day with healthy bowls of granola. They'd be fine.
+
+With a shake of his head, Thomas decided it wasn't his problem. As he headed down the trail, his adrenaline faded, and he became more aware of the cuts and scrapes on his legs. Most annoyingly, his arm started to throb in time with his heart.
+
+Not a disease dungeon, he told himself again. He would just need stitches for the arm. But he really hoped he had a way around that.
+
+Finally reaching the parking lot, he breathed a sigh of relief when, one, he saw that his sedan was still there, and two, it wasn't broken into. You never knew with trailheads and thieves. Though, from what he knew, enforcement of crime was going to be a little different in the upcoming new world.
+
+You couldn't put people in jail when they had magical powers and skills.
+
+Anyway, the only other car parked there was one of those modern-day van-life camper vans. His guess was that it belonged to somebody from the toned athletic group. A couple of Mike's Hard Lemonades scattered around said that they had pre-gamed in the van.
+
+"Wow," he said flatly. He wasn't a huge nature guy, but he wasn't an asshole either. In fact, he had a roll of empty trash bags in the back of his car for just such an occasion. But he would deal with himself first.
+
+Sitting down in his car, he expected to feel more achy than he actually did. His muscles and bones were fine. Just his injuries hurt. Time to fix that.
+
+Under the guise of turning the car on and fiddling with the radio, he took a good look around... especially at the nearby van. Nobody in sight and no movement. The van windows were dark, and he didn't see any movement through them.
+
+He was alone.
+
+So he pulled his backpack close and fished out the fist-sized gem from the chicken mother. Unlike the others, it was an off-color rose gold and... he'd just admit it, fleshy-looking.
+
+Sort of like the flesh he needed to be knit together now.
+
+Unless he missed his guess, it had healing mana in it. A rare drop indeed.
+
+Thomas pursed his lips. How the hell did he do this?
+
+He was gifted now, which meant he had access to magic. No skills, but all he needed in this case was the healing mana.
+
+Holding the crystal in his hands, he concentrated, and it melted like a cube of Jell-O going back into liquid. The magic began to sink into his skin, which was both unsettling and weird, but didn't feel bad. In fact, it felt a little bit like being washed, starting from his hand and moving upward. Refreshing and clean.
+
+His sliced arm tingled, and so did tiny cuts on his fingers he hadn't noticed before. Tingling started in his calves as the mana spread through his body. His exhaled breath had tiny tinges of rose gold.
+
+A few moments later, it was done. The pain was just... gone.
+
+Carefully, he unrolled his bandage and looked down at his arm. There was still blood there. Using a fingernail, he scraped it back, and there was whole skin underneath. The cut was completely gone. Except for the blood, it was as if it never happened—not even a line or a scar.
+
+He pushed back the seat and rolled up his pants to examine his leg. The claw marks were also gone.
+
+That had definitely been a healing mana crystal.
+
+"Holy shit," he said.
+
+If he had a skill, he could have maybe saved more for later. And that had been a huge mana crystal, probably enough for multiple rounds of healing, or a few people if he had a skill to actually collect it. But he didn't. He had just used the thing raw and without skills, so it had all gone to him. Most of it had been wasted.
+
+"Holy shit," he said again, then felt a little guilty.
+
+His dad with COPD could have used this to breathe better. So could his mom. Her knees were going out, and she could barely lift groceries up the stairs.
+
+Well, he'd just have to fight another boss and get another one.
+
+And then, finally, Thomas allowed himself to really consider his gift.
+
+This was a gift—one he instinctively knew other people would want, and one he had to be careful with, but... one that he planned to use.
+
+He looked at his back seat where he'd placed the maul. Then he grabbed a trash bag from the back, picked up the empty Mike's Hard Lemonade bottles, and tossed them in.
+
+As he did, he was thinking.
+
+"Octopus dungeon, huh?"
+
+He pulled out his phone and took a look to see if there was a guide.

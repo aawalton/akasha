@@ -1,0 +1,391 @@
+---
+id: 1176668e-f65f-53c0-a426-1539ae94b422
+page-type-slug: story-chapter-royal-road
+title: "Chapter 700 - That's Good News"
+slug: 0701-chapter-700-thats-good-news
+partOf: mythrans-master-of-all-continued-completed
+position: 701
+ownLength: 3991
+unit: words
+publishedAt: 2018-09-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/290196/chapter-700-thats-good-news"
+royalRoadId: "290196"
+---
+
+Ren resigned himself to wearing the Cookie Monster pyjamas and let them do what they wanted. As Stella and Lisa dressed him, they both had big happy faces that they didn't even try to hide.
+
+“You don't have to be so happy about it.” Ren said when they finished.
+
+“You're so CUTE!” Lisa squealed and gave him several kisses over his face. She wanted to hug and cuddle him so much; but, she stopped herself from wrapping her arms around him.
+
+Ren heard the click of a picture and he looked at Stella. “Stella!”
+
+“Sorry!” Stella said and turned her phone to show him and Lisa kissing. “You're both so cute!”
+
+Ren rolled his eyes and sighed, and he saw Stella using her thumbs on the cell phone. He was sure she was making a special folder to keep it in, or worse, making it the background image.
+
+“I'm tempted to lay here and let you bathe me; but, I think I'll just go take a shower.” Lisa said. “When you're feeling better, I'll want you to return the favor, okay?”
+
+“I bet you would look super-cute in these pyjamas.” Ren said.
+
+“We'd never hold her down long enough to get them on her.” Stella chuckled.
+
+“Not a chance!” Lisa said and left Ren's bedroom to go to her own room to shower.
+
+“Thank you for not making too much of a fuss.” Stella said.
+
+“Embarrassing myself seems to make you happy.” Ren said, and she leaned over the bed and gave him a kiss.
+
+“You don't have to be embarrassed.” Stella said. “You really do look cute, and someone besides Lisa and I are going to really like it.”
+
+“Elise.” Ren said without even having to think about it. No sooner had her name passed his lips when his bedroom door opened with a flourish and Elise stood there.
+
+“Sweetheart! You're not going to believe the news I have!” Elise exclaimed, and then she gasped when she saw what he was wearing. “Oh... my... GOD!”
+
+“I told you.” Stella said as Elise staggered over to the bed.
+
+“Ren, what...”
+
+“I'm out of silky pyjamas.” Ren said. “I'm also out of silky underwear.”
+
+“Don't... don't tease me...”
+
+“He didn't want to wear briefs.” Stella said, and Elise's eyes widened.
+
+“He... he's really going commando?” Elise asked, her voice full of wonder. “In 100% cotton pyjamas?”
+
+“Yep.” Stella said with a huge smile.
+
+Elise tossed her suit coat aside and crawled up onto the bed like a big cat, and Ren thought he could hear her purring.
+
+“Elise.”
+
+“Mmm.” Elise moaned as she laid down beside him, then she very lightly ran her hand across his chest. Ren felt his body respond to her, and she noticed the bulge grow for her. “Thank you, Sweetheart.” She said and her hand grazed the spot as her fingers traced one of the Cookie Monster images.
+
+“E-Elise...” Ren started to pant. “Wh-what was... the news...”
+
+Elise didn't say anything as she eased his pyjama pants down to expose him, and she moaned at the sight. She gave him a quick little lick and he gasped at the touch of her hot tongue, then neither of them spoke for quite some time.
+
+Stella stood there in silence and watched the scene, and wasn't sure what to do. Elise must be really horny to do it out in the open like this. She thought, and she felt herself start to tingle below the waist. No, I... I can't let this... god, look at her work him over!
+
+Lisa finished her shower and went down to Ren's room so she could spend a little more time with him before they went into the game. They both needed to get back to their self-appointed tasks, and then she saw Elise on the bed with Ren and stopped walking to stand beside Stella.
+
+“What's going o-” Lisa stopped talking when Stella covered her mouth.
+
+Stella leaned down and whispered in her ear. “Elise had some big news to tell us, then she saw Ren in those pyjamas. Then she... well...”
+
+Lisa nodded slightly and Stella moved her hand. “What's the news?” She whispered.
+
+“No idea.” Stella whispered back. “We'll find out in... well, when she's finished.”
+
+“E-Elise... I'm... I'm gonna...” Ren panted as he tried to warn her.
+
+Elise stopped what she was doing and looked at him. “I want it so bad; but, I can only do this with you.” She said. “So, give it to me.” She moaned. “Give it all to me, Sweetheart.”
+
+Ren caught his breath as she doubled her efforts, and a few moments later, he let her have as much as she wanted when he finished.
+
+“Wow.” Lisa whispered as the scene played out and Elise pretty much wallowed in pleasure. Both she and Ren were panting when she was done with him, and she moved up to lay beside him.
+
+“I... love you.” Elise said and tried to calm down. “I love you... so much.”
+
+“I couldn't tell.” Ren said to her, and she chuckled.
+
+“I still need to feel you.” Elise said and touched herself through her suit pants.
+
+“I'll do my best.” Ren said. “Right after you tell me the news.”
+
+“Ren, I...” Elise said and undid her pants and slid them and her underwear down, then she put his hand on her special place. She gasped as he touched her expertly and she started panting again. “I... oh, god... I got my wish!”
+
+Ren moved his hand a bit and she caught her breath as he pinched her slightly. “What wish?”
+
+Elise's back arched as she moaned and tried to give him better access. “I'm... I'm pregnant!”
+
+Ren's hand convulsed at her words and gripped her slightly. She, Stella and Lisa gasped at the same time, for different reasons, and Elise finished. She collapsed onto the bed a moment later, her special place and Ren's hand were soaked, and she had a hard time keeping her eyes open after such a strong orgasm.
+
+“That's great news!” Ren exclaimed and eased himself up onto an elbow to give her a kiss. “I'm so happy for you!”
+
+“M-me, too.” Elise's eyes fluttered open and closed several times.
+
+“Close your eyes, Sweetheart.” Ren said to her and gave her another kiss. “Relax. You need to take it easy from now on.”
+
+“R-Ren... I'm not...”
+
+“I know you are a strong and independent woman; but, even you need to calm down and rest after a hard orgasm like that.” Ren said. “Close your eyes and let me lay down next to one of the most beautiful mothers to ever exist.”
+
+Elise nodded and closed her eyes, and Ren pointed at one of the towels. Stella nodded and passed him one of the small hand towels that they hadn't used, and he wiped off his hand and wiped off Elise.
+
+“I... I can...” Elise started to say.
+
+“Shh. I said relax.” Ren said. He dried her as much as he could and cleaned himself off, then covered her exposed area with the towel and pulled his pyjama pants up. He tucked himself into the crook of her arm like he had been the night before and Elise sighed contentedly, took several deep breaths, then she drifted off to sleep.
+
+“She's really pregnant.” Lisa whispered, surprised. “I know we kind of joked about our periods the other day, but...”
+
+“I know.” Stella whispered and put an arm around her.
+
+Ren motioned for them to come close and they walked over to the bed. “We are all going to be parents!” He whispered excitedly. “I can't believe it!”
+
+“A-all?” Lisa asked.
+
+“Yes!” Ren held a hand out to her and she took it. “This is the best thing ever.” He whispered and kissed her hand. “I know you think you're too young to be a mother; but, there's going to be a new member of the household in about 8 months or so, and who better than you to help teach them everything they need to know.”
+
+“But...”
+
+“Oh! We could even start with some prenatal readings next month!” Ren said. “When we all get together and cuddle, we can take turns reading our favorite stories to Elise's baby bump.”
+
+Lisa's heart beat faster at the thought of being able to influence a growing mind like that.
+
+“Ren, you're getting a little ahead of yourself.” Stella said.
+
+“Right, right.” Ren said and let Lisa's hand go. “I'm just so excited!”
+
+Stella nodded. “Don't go saying anything to anyone yet.” She said. “We want to make sure everything is fine before we let everyone know.”
+
+“You mean everyone outside the family, right?” Ren asked. “Because Barbara needs to know, and so does Denise.” He said. “Oh, and Barbi, too.”
+
+“Ren...”
+
+“It's not like she's not going to find out.” Ren said. “They work in the office together every day.”
+
+Stella took a breath and sighed, because he had a point. The bedroom door opened and the woman in question strode in with a purpose.
+
+“Did you tell him yet?” Barbi asked, then saw Elise asleep on the bed and the state of her clothes. “What happened?”
+
+“A mini-celebration of sorts.” Stella said as she turned to face Barbi, rather than the bed, and walked over to meet her. “Elise is pregnant.”
+
+“She got the results this soon?” Barbi asked. “The last time I visited...” She stopped talking and shook her head. “Never mind.”
+
+Stella put a consoling hand on her shoulder, because she knew what Barbi meant, and Barbi pat her hand.
+
+“So, does Ren know what happened?” Barbi asked.
+
+“He was there during conception, so yes.” Stella said with a smile.
+
+“That's not what I meant.” Barbi said.
+
+“I know.” Stella responded. “I'm trying to keep the shocks to a minimum.”
+
+“But...”
+
+“What is it?” Ren asked.
+
+“It can wait.” Stella said.
+
+“You said that before my bath.” Ren said and looked at Barbi. “Tell me what happened.”
+
+“Your show has been cancelled.” Barbi said, and both Lisa and Ren caught their breath.
+
+“No way.” Lisa said. “That... that's just...”
+
+“Monumentally stupid.” Ren said. “Why would they cancel the best show on the network?”
+
+Barbi was about to tell him her thoughts on the matter when the bedside phone rang. Lisa picked it up and listened for a moment, then looked at Stella.
+
+“The guard at the gate says he has a couple of people called John and Holly there wanting to see Ren.”
+
+Stella didn't recognize those names right away, but Ren did.
+
+“Let them in.” Ren said. “This should be interesting.”
+
+Lisa told the guard and hung up the phone. “Ren, who are they?”
+
+“Just a couple of acquaintances of ours that we haven't seen in a while.” Ren said. “Someone get me the wheelchair and help me.”
+
+“What about Elise?” Stella asked as she brought over the wheelchair to the bed.
+
+“She's going to nap for a little while, I think.” Ren said and carefully moved out of the crook of her arm and over to the side of the bed, then Stella helped transfer him to the wheelchair. He, Stella, Barbi and Lisa left the bedroom and went downstairs in the elevator to the front door of the house. Stella pointed to one of the small windows on either side of the door and Lisa went over to it and peered out.
+
+“It's a car I haven't seen before.” Lisa said, then the occupants got out. “It's Officer Holly and some guy!” She said. “They're even holding hands!”
+
+Ren chuckled. “They must have disguised themselves up to not draw attention.” He said. “Lisa, can you open the door when they're close enough?”
+
+Lisa nodded and watched carefully, then grabbed the door handle and pulled open the front door when they were close enough, just like Ren wanted her to.
+
+“You didn't even wait for me to try and knock first.” Officer Holly said with a smile.
+
+“Tricks like that only work once.” Ren said and returned the smile.
+
+“Damn right.” Officer Holly said. “I was just going to stand here and wait for the door to open.”
+
+Ren laughed. “Please, come on in.”
+
+“That's not necessary.” John said. “We have our confirmation.”
+
+“Of what?” Stella asked.
+
+“I... well...”
+
+“Ren's here.” Officer Holly said. “The reason I couldn't take you up on the invite for the party was because we were working a stake-out all weekend.” She said. “It wasn't until we were done and John mentioned that someone wanted us out of the way...”
+
+Barbi gasped. “I had a meeting this morning with the network representative that controls the show lineup, and I found out that he cancelled Ren's show for no official reason.” She said. “He lied about the viewership numbers and preemptively cancelled it.”
+
+“That's... interesting.” John said.
+
+“I didn't realize until after I was in the car that he might have had a reason that he couldn't admit to.” Barbi said.
+
+“They didn't expect Ren to be around to complain about it.” Officer Holly connected the dots much quicker than Barbi had. “That was my thought, too.” She said. “Did something happen during the garden party?”
+
+“You mean besides Ren making a fairly successful pass at Barbi?” Stella asked, and Ren barked a laugh and Barbi's face flushed red. Both Officer Holly and John looked at Ren's big smile and Barbi's embarrassed face.
+
+“Nothing actually happened.” Ren said and saw Barbi glance a him. “Any kind of incident at the party that intended me harm, I mean.”
+
+“That's odd.” John said. “We thought for sure...”
+
+Ren motioned for the door and Stella rolled him over to it. He waved at one of the security guards, who came right over.
+
+“Can you give us a condensed version of the report you have on the security issues of the garden party yesterday?”
+
+“The food was thoroughly checked, as were all the neighbourhood guests and the staff.” The guard said right away. “All material components were examined for any potential harm before being brought onto the property, and in the case of the last minute addition of the entertainment, his equipment was checked both during and after the show, then he was escorted off the property by two guards.”
+
+John and Officer Holly exchanged looks. “Last minute addition.”
+
+“You seriously don't think...” Barbi stopped talking. “He seemed so nice.”
+
+“That's usually the sign that they are serious criminals.” Officer Holly commented.
+
+“Oh, crap!” Ren said and waved his hands in the air. “I've been discovered! Stella! Make a break for it!”
+
+That made everyone laugh, even the security guard. After a few moments, Ren spoke seriously.
+
+“Look, you're pretending to be concerned friends, right?” Ren asked John and Officer Holly, who looked at him with wide eyes. “Friends are supposed to come in and visit for a while, so why don't you do that?” He motioned to Stella, who pulled him and his wheelchair back inside the house. “Thanks, Guard Number 12!”
+
+John and Holly exchanged glances, shrugged, and followed them inside.
+
+*
+
+When the front door shut behind them, the guard went back to his assigned position and touched his lapel.
+
+“Okay, can anyone tell me how he knows my designation?” The guard asked, and no one could answer him. “Should we review security procedures again?”
+
+“We could do that; but, I don't think it's necessary.” Someone's voice said. “We did a review last night after the party and no one noticed any flaws.”
+
+“But...”
+
+“Maybe he just guessed.” The voice said. “He's pretty smart. Maybe you let something slip before.”
+
+“I don't see how.” Guard Number 12 said. “This is the first time I've talked to him.”
+
+No one said anything for a few minutes.
+
+“Okay, maybe a quick review after lunch...”
+
+*
+
+Ren and the others went to the living room and got comfortable, and John and Officer Holly sat together. “So, you took my advice.” He said to Officer Holly, and she took in a sharp breath.
+
+“H-how...”
+
+“I thought the familiar hand-holding was a bit odd, since people that don't normally hold hands always act a little awkwardly when they do.” Ren said. “It seemed natural to you, and now you're sitting a lot closer to each other than police partners normally do.”
+
+Office Holly sighed. “You're not even trained in this and you picked up on it right away.”
+
+“I don't have police partner training, that's true.” Ren chuckled. “I've had quite a bit of practice with how couples sit together, and if they are comfortable with each other or not.” He explained. “You two are more relaxed than you were the last time I saw you.”
+
+“Why do you think that is?” John asked.
+
+“John!” Officer Holly exclaimed.
+
+“I just want to see if...”
+
+“You've had sex, probably just before coming here.” Ren said, and nearly everyone gasped.
+
+“How did you...” Officer Holly started to ask and stopped talking.
+
+“You gave it away.” Ren said. “If you'll forgive my impertinence and the unintended implied insult, you are much more appealing right now.”
+
+“Wh-what?” Officer Holly blinked her eyes at him.
+
+“I'm not sure how to describe it, actually.” Ren said. “It's... well, after a woman has sex, she... becomes sexier?” He looked at Stella and she nodded for him to keep going. “She's less inhibited and more sure of herself, and she knows... not believes, knows... that she is sex incarnate and could have any man that she wants.”
+
+No one said anything in response and Officer Holly stared at him intently.
+
+“People say it's pheromones, or confidence, or some other thing; but, what actually happened was that you rocked someone's world, and that's pretty damn empowering for a woman to do. Either consciously or subconsciously, you want everyone to know you did it.”
+
+“That's the best description of the feeling I've ever heard.” Elise said, and everyone turned to look at her. She stood just inside the living room and Ren saw that she had left off her suit coat and only wore the pants and peach-colored blouse. Her long red wavy hair was in a mass behind her shoulders and framed her face perfectly.
+
+“Hey, beautiful.” Ren said with a huge smile. “Look at you!”
+
+“Wh-what? What is it?” Elise asked and looked down at herself, and her hair flowed around with the movement. “I didn't miss anything, did I?”
+
+“No, I'm just reminding everyone that you embody the feeling I was just talking about, all the time.”
+
+“I...” Elise's face flushed bright red. “I do not.”
+
+“I believe Mr. Ramirez would have to disagree.” Ren said, and everyone turned to look at John. His face was red and his gaze was firmly on the floor.
+
+“I only looked for a second when Ren said to look, I swear.” John said, and everyone laughed. Officer Holly leaned in close and whispered in his ear, and he shook his head. She whispered something else and John sighed and nodded, then she sat back with a big smile.
+
+“How exactly do I report an officer under suspicion of extortion?” Ren asked with a matching smile.
+
+Officer Holly chuckled. “You can't prove anything, even in the court of public opinion.”
+
+“I think that's enough joking around.” Barbi said to get everyone's attention. “You all know why we're really here. Let's talk about this situation with Ren.”
+
+After a bit of a lengthy discussion with input from Elise this time and expert opinions from two members of the police force, John and Officer Holly agreed to look into the backgrounds for both Mr. Hastelbeck and Illonzo the Illusionist, and any possible connection they might have with Ren. When that was done, John and Officer Holly said they should leave, and everyone walked them to the front door.
+
+Ren congratulated them on becoming a couple for real and said he hoped that they enjoyed it as much as they both deserved to. John wasn't sure how to respond to that, and Officer Holly was a bit choked up by the sentiment and couldn't respond to it, either. They managed to say goodbye and left with the promise to text when they found out anything.
+
+“I really need to get to work.” Elise said when she looked at the clock and saw it was getting close to 9 am. “I'm behind by almost the whole morning.”
+
+“I need to figure out what to do with all the things I got from the station.” Barbi said.
+
+“It's getting close to when I need to log back into the game, too.” Ren said, and then the house phone rang and Lisa picked it up.
+
+“There's a big delivery truck that wants to drop something off.” Lisa said after talking to the guard at the gate.
+
+“What company?” Barbi, Elise, and Ren asked at the same time, and they chuckled.
+
+“USPS, and the delivery is for this address; but, the name says Moajon, whoever that is.”
+
+“Ha ha!” Ren said and looked at Barbi. “It's the action figures from the show.”
+
+“Tell him to let it through.” Elise said, and she went over to the door to tell the security guards there was a delivery coming. After only a few minutes, half a dozen large and opened boxes were deposited in the lobby by the security guards.
+
+“Thanks a lot Number 8, Number 3 and Number 5.” Ren said as they passed by him, and he saw the guards jerk minutely as he called each of them by their designations. When the front door shut, Elise touched the top of his head.
+
+“Are you having fun, Sweetheart?”
+
+Ren looked up at her. “It must be driving them nuts that I can do that.”
+
+Elise chuckled. “Will you let them know how you're doing it?”
+
+“Maybe.” Ren said and grinned. “If they ask.”
+
+Elise bent over and kissed him, and then they heard Lisa squeal as she dug through one of the boxes.
+
+“I assume you found the special rare figure that's one in a hundred?” Barbi asked and Lisa held it up. It was Ren wearing his High Elven Court Uniform and not his Travelling Clothes.
+
+“Sweet.” Ren said. “It's amazing they can get so much detail on these little things.”
+
+“That reminds me.” Barbi said. “I need to call them and transfer the proceeds from going to the television station to Ren's business account instead.”
+
+“What? Why?” Ren asked.
+
+“You own it all, of course.” Barbi said.
+
+“I do?”
+
+Barbi nodded. “When the station broke the contract, they lost the co-ownership of the rights for everything, not just the remaining episodes of the show.”
+
+Ren stared at her with his mouth open.
+
+“Yes, it's all yours.” Barbi said. “I was pretty angry that they cancelled the show; but, I think it's going to work out much better than I thought it would, and definitely in your favor.”
+
+“But... if they don't air the show...”
+
+“Don't worry about that.” Elise said. “I'll talk some things out with Barbi first, then we can try to arrange to air the remaining finished episodes on the show's main website.”
+
+“Can we do that?” Ren asked. “I mean, we don't have the setup for that, do we?”
+
+“Not yet.” Barbi said and smiled. “I was going to start trying to sell your other show idea to another network; but, if we can somehow manage it ourselves and air it on the subscription service instead...”
+
+“Oh, man.” Ren said. “I just realized something.”
+
+“What's that?” Barbi asked.
+
+“The last episode they aired was where I fell into the bottomless pit.” Ren said with a grin. “Now the network cancelled the show.”
+
+Elise and Barbi both gasped at that, then Barbi started laughing.
+
+“That stupid network bastard!” Barbi said as she laughed. “The fans are going to crucify him and the station for cancelling the show on a cliffhanger like that!”
+
+Ren, Stella, Lisa and Elise started laughing, too.

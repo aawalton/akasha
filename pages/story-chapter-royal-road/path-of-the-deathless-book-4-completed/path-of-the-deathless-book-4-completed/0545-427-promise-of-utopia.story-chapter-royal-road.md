@@ -1,0 +1,199 @@
+---
+id: 00b27c3e-aad6-53dc-b5ac-07040beff68f
+page-type-slug: story-chapter-royal-road
+title: "427 Promise of Utopia"
+slug: 0545-427-promise-of-utopia
+partOf: path-of-the-deathless-book-4-completed
+position: 545
+ownLength: 4650
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3787824/427-promise-of-utopia"
+royalRoadId: "3787824"
+---
+
+Hear me, orcs! Hear me, and know these words to be the highest truth!
+
+A new Nemesis has risen! A Nemesis faith! A Nemesis god!
+
+Feel the flame spilling forth from his open eye! Feel his presence blossoming! Herald the coming of the Little Hero and Tyrant to be—but know the promise that awaits.
+
+I give this chance to you, as I have offered it to the Culturist! For those of you who seek to stride beyond my way, who imagine my Path to be the one that is wrong, walk toward the light of the Paragon, and be changed by his fire!
+
+Learn his glory. Perhaps even commit yourself to it.
+
+But know that my embrace remains open. War awaits your return. And I yearn to see what we become as our dialectic ascends.
+
+The war between us is fated, but it must be a proper war; a true war; a war that will break and remake us.
+
+So hear me and know this now: I declare Legend-Divine Adam Arrow my Vaketh-Bakal!
+
+I grant him my favor and love, as I do his champion—his Deathless! And I command you, know this, and stay your hand from his head.
+
+If his legend is to end in silence, then it will be my hand that silences him at the height of his ascension—and never before!
+
+Heed this one command, or face my wrath for your trespass.
+
+I must learn the final answer.
+
+I must know what remains at the end.
+
+The anarchy of war.
+
+Or the tyranny of peace.
+
+—The Challenger
+
+VII-73
+
+Promise of Utopia
+
+There was a metaphysical weight to Adam's act of divine usurpation. There was a strength to symbology. The System was strife, but from it was meaning produced through struggle. That struggle perhaps was the truest conceptualization of one's legend and the source from which all mana was derived. That was probably why mana was never used up. It simply repopulated itself within a soul, within a world. For acts done remained finished and solidified in history. Even if those deeds went forgotten by mortals and gods alike and the performers cast unto the shadows of death, they were done still, for their hands marked the passage of time, shaped the world, and altered the fate of those to follow behind them.
+
+In that moment, beneath that new and traitorous sunrise, Adam was cast aglow in a star of his own making, a unique star beyond that of mortal ken and gods besides.
+
+A stream of fiery mana was projected upward, swelling like an inverted waterfall, yet the color of nascent azure had been lost. In Adam's commitment to his new ideal, he shed a prior immaturity. The softness of the bluest sky could not follow him where he would go.
+
+Now was a time for struggle. For tyranny. For the heavens to be drowned. And what could do that but a new sun to overthrow the last? What could represent that but the symbolism of a new light overtaking what came before?
+
+The manifestation of his new and Standalone Legendary Awareness was represented in the shape of a radiant eye. It was an eye many times the size of the distant Sun, hanging like a small dot now blotted by that incandescent glare from which Adam beheld the world. It was a Sun that spilled its Divinity down upon the world and ignited everything it gazed upon. It was Adam's to wield and direct, but it was also the truest and foremost conceptualization of who he was: tyranny, dominance, heroism.
+
+He would turn from his virtue no longer. He was a concept before he was flesh, and he was legend in ascension and apotheosis rather than a mortal hero trying to build himself up to a new summit toward a sky he would never reach. He was going to make his own sky, and when he was finished, he would pull all the people to him.
+
+The Tower of Babel was never meant to be built from the ground up.
+
+An altered state took hold inside Adam. No longer did he simply reside in his flesh, either. He was partially nested within that eye, a portion of himself made a distant observer, higher than a voyeur, for it was too apart from his consciousness to truly judge. There, as it waited for him, he stared and was stared back upon by that star of his soul's creation. Its glare of immolating omniscience scarred, it seared, and left an absolute imprint of his Awareness upon the world. Everything that rested beneath his gaze burned. Himself, the Culturist, the Deathless. All three of them were fried, the skin of their souls branded by the absolute nature of Adam’s skill.
+
+Once more, Adam projected a concentrated stream of water through his skull, parting his brain tissue while he still held on to the broken remnants of the crown which ailed him so. As the world went dark and the Delve reset itself, he found himself in front of the mirror once more. Before him was his reflection, yet he stared not at his own guise but at the crown in his right hand, broken and melted to slag by the manifestation of his Divinity.
+
+The Culturist rematerialized behind him, surprised by Adam's sudden action, but understood in the following moments. He, more than anyone, seemed to have an insight into Adam's psychology. So he didn't speak. He gave the Paragon his peace and shared Adam's expression, who felt the most tentative and fragile smile dawn on him. The first to grace him after so many weeks of torment.
+
+Both their forms stood bathed in incandescent light, as did the rest of the room. Adam's bookshelf was little more than a shadowed imprint against the wall. His own form darkened into the vaguest of contours; the Culturist was swallowed the same way. Imposed over the ceiling, streaming through the matter that was burned, was Adam's divine star. It loomed above him like a heaven that stared upon the god it was spawned from, and all people of Blackedge turned their gazes upward. Every person was branded by Adam's Awareness. From Rose to Isabella to laborers whose names he didn't know, he came to feel their presence, what it was like to stare out from their eyes, to hear what they heard, and to see them from a third-person perspective, even as he directed that divine glare elsewhere.
+
+He swept his gaze toward the horizon and then upward, facing Earth's distant sun. Though it shone bright and burned true, it was no thing of Divinity. It was merely a ball of flame, a product of baseline physics, and so he set it ablaze as well.
+
+At once, Adam knew what it was like to be the sun. He studied it in vivid detail, feeling the heat without suffering the pain. He heard the crackles and its constant roar, even though the void of space should have carried no sound at all. He studied it from all distances at a moment's whim. When he was done, he did the same to the sky, to the sea, to the mountains, and more.
+
+A restful peace came over Adam as he lifted his Glare of Immolating Omniscience. He sank into himself, and the Culturist, thankfully, kept to his silence still. The meditative trance that followed increased Adam's processing power. Time didn't so much halt as it was fragmented. Every second felt like an eternity, granting Adam all the time to think while his body remained dormant, and he departed from his flesh to soon don the mantle of his holy gaze.
+
+He spent years there, at least what felt like years. Yet those were not years spent in contemplation, but appreciation. The skill gave him a sanctuary. Even though the itch was banished, he'd suffered much, and he wanted a moment to embody what he'd just achieved.
+
+This was a level of satisfaction that he could've never imagined. It was an emancipation and an elevation at once. As he used that time to take in all of Blackedge, Adam felt ever more himself and ever unburdened by the violence of the world.
+
+Perhaps that would change in the future. No, more than perhaps. It would change! He would sink down into the turpitude of existence beneath the System's will, but before he was cast into the sewage of brutality that waited, he could be here, indulging in the finest creation, the first creation born of his Domain and his legend.
+
+Born to and beyond the System's reach.
+
+When the first Encounter began, there was no resistance. Adam's immolating glare pierced through Whisper’s protective barrier. Even the separation of realms couldn't stop it. For it was more than just sight. It was the encapsulation of all his senses imposed upon the world. The divine flame that spread.
+
+When he shot the orc down and silenced the Animancy bomb he was set to prime, Adam turned his gaze inland, toward Yellowstone Supervolcano, where he waited for the Vicar to arrive. There was no need to settle his sights on Blackedge anymore, no point. When the second encounter followed, he already saw out from all the citizens of the town, and he knew in an instant who was sick. Even though the Delve randomized the carriers of the plague, Adam had an absolute aspect, an awe-inspiring, ultimate control over those branded by his Awareness.
+
+They existed within his proximity, and at a moment's notice he became a third person glaring down upon them—existing as the immolation he inflicted upon their souls.
+
+He purged the plague-touched with a breath, wasting no shots, and by the time Sullain manifested above Flamecrown Castle, he was cut down without rancor, though a measure of hate lingered still in Adam's heart. He did not forgive, he did not forget, but he could be more than blind violence. Tyranny meant control, and the first victim of his tyranny and the first recipient of the bountiful rewards was himself. He didn't have to let go of his pain and grievance, but his trauma could be something greater than a scar. It could lead him to a better path, to a means of higher worship.
+
+He didn't arrive in person this time to grapple and strike with Sullain, to battle him blade upon shell and destroy the Vicar's vessel before cutting the man in twain. Instead, Adam dispatched a dispassionate fleet of arrows, each Shard striking the Vicar's soul, purging him from the inside out. For his sin was great, and there was much in him to burn.
+
+Sullain screamed. Sullain suffered. Sullain failed to shape a complete spell. Weakened as he was compared to the real man, this lesser version of him was meant to feed Adam's satisfaction, but he didn't even care for that any longer. For Sullain, in truth, was dead. This was a bestowal of unnecessary proportions. He was dead, and there was no purpose in hurting him any more.
+
+Adam cut down his once-hated adversary and moved on. He wouldn't forgive, he wouldn't forget, but there was still far too much ahead to linger in that besotted past.
+
+Then came the true test, the fourth Encounter, where the false Deathless ascended, bringing with him a premature curtain of night shaped from dread and nothing. The darkness fell. Within, no sound could travel, no light could pass, none but that which was cast from Adam's divine eye. The glare of scalding brilliance seared into the shadows, setting them ablaze. In that, Adam realized what he was looking upon: beyond fear, above the System's will, this skill, this representation of Shiv's stealth, a manifestation of absolute horror and concealment. Yet the loud declaration that, yes, indeed, the Deathless was here and no one could stop him was overcome by Adam's power. He saw Shiv, or at least this clone of Shiv, for exactly who he was. He was the darkness. He was the manifestation of all dread, and from that dread would follow more shadow, would follow isolation and severance. One would be sealed in a silo that would die alone in the dark, barren of sense and detail, unable to reach their companions unless they groped blindly and found them by touch. Adam's celestial eye lit that core in the shadows, past Adam's fear, past all his emotions, above and beyond the System's whims.
+
+Adam Arrow saw the true shape of his enemy, and he fired, with certitude empowering his emotions, and his arrow was flaming bright. He lit the dark apart from within, but before it burned like a festering page choked with flaming gas, it was ripped asunder, thick parchment scoured and scattered by a flaming blade.
+
+A chain of twelve impacts struck the Deathless. Bursting flames of divine glory painted patches of incandescence across the sky, like fireworks going off over Blackedge, but then came that flash of gold, and all the darkness vanished at once. Shiv's Harbinger was in motion, and Adam knew what was to follow next. Through it all, he never left his personal quarters, yet he was beyond the room. He was in place of the heavens, in place of the skies, staring down, blotting out the sun with one of his own, and piercing through the dark. He was all-knowing, all-seeing. Beneath his light, there would be no escape, and beneath his art, all shadows would be made bright.
+
+Then, from his sun, fell that effigy of Divinity that had been awakened within him. A palm many times the size of Blackedge, empowered by his previous worship, slammed down. All motion was ripped and siphoned into the mists. All acts of violence ceased. Even the faintest of harms stopped. A child about to cut themselves open after tripping on a step was spared a bleeding knee. An old man toppling from his steed fell but suffered no bruises or contusions, even as his jaw met the hard ground first.
+
+A step behind Adam, where the Deathless stretched out his hand and infused his frying pan's orichalcum edges with that gleaming, cutting presence which could split through matter like butter and chip mana and soul, he was halted as well, pinned in place and held in stasis. For this space was one of absolute dominion, where violence could not trespass, where peace ruled supreme as tyrant above all.
+
+Adam returned to himself. He fell from his Divinity. He sank back into his flesh, his eyes opened, and he faced that which was tasked with killing him. His assassin regarded him wordlessly, yet appreciative. The Deathless was like that, and the orc that wore his body and assumed his mantle was close enough in skill and nature. Though he was deprived and frustrated that he never got to taste Adam's divine blood, he was genuinely pleased and proud. In his eyes there gleamed a glow of gratitude and affability.
+
+"Well, looks like you finally did reach that godhood you were looking for. That elevation. Did I help at all? Was it because of me? Be honest. Let me have this since you're going to burn me away."
+
+And the Deathless orc was burning away. He was burning and searing, his flesh peeling in major portions. His limbs were aflame, and the sin inside of him was dissolving. The itch went first, but he was a vessel of true darkness, of purest evil. Beyond the Challenger's will, he wanted to enact a cruelty all his own. There was no sparing him. There was only death. In the realm where Heroism and Tyranny reigned absolute, there could be no sin, and so all sinners were fated toward disintegration.
+
+"Yes," the Paragon admitted, honestly and at peace. "More than you can possibly know. And I'm glad you're not actually him. This wouldn't have been enough if it was actually him. He would've comforted me. He would've given me a shoulder. His presence is warmth. I'm glad you are not my brother. I am glad you are not my guardian. I didn't need a place of sanctuary, not in the arms of another. I needed to build one of my own. I needed to realize the face of my true enemy."
+
+The Deathless bowed his head, an act of supplication and an acceptance of his damnation to follow. Adam shaped an arrow, and he saw his enemy drop his shapeless tides to expose the soul to a final coup de grâce.
+
+The Paragon granted the orc his peace, and as his body burned, there came a glow of absolution and certainty toward the future ahead.
+
+"How does it feel?" the Culturist asked, speaking up for the first time in what felt like decades, his voice tense and rapt with curiosity. He wanted to know.
+
+Adam shook his head. It was hard to find the words at first, but he smiled once more, and he graced the Culturist with its warmth. "Everything might not be alright. Perhaps it will never be. But I think I'm ready to live with that."
+
+And a part of his newfound confidence proved contagious, for the orc stared back at him as his own eyes came aglow. In that was the leftover of Adam's previous nature, the innocence in himself that departed, transformed into Divinity, but left in those beneath him. Those azure orbs that were once a familiar sight stared back at Adam, not from a mirror, but from a face made for slaughter, and the Culturist averted his gaze from Adam as he considered his new destiny.
+
+So you say, Paragon.
+
+Encounter Completed (4/5)
+
+Initiating Encounter (5/5)
+
+Encounter 5 Objective: Strike down your fallen se—
+
+Adam felt weightless.
+
+He'd known what was coming. A second star manifested next to his, and a clash of Awareness raged against him.
+
+But Adam had loosed his arrow a lifetime ago.
+
+The System's will came second to his own now. His Awareness was already branded upon his own soul, and what more was his clone than a mirror of who he was?
+
+The fifth Encounter ended before it even began.
+
+He launched a golden Shard of Exalted Flame directly into the mirror before him and the one hiding within it, into the System, and into the Delve that it acted through. It must have found this act oh so symbolic, oh so clever. If it were a person, it would have been snickering and rubbing its hands like a fly, having planned all along to surprise Adam in this gesture of storytelling. That he was his greatest shadow all along. That he could overcome himself and thereby overcome anything else, thus seizing control over his destiny.
+
+But that was the false story. That was the lesser narrative.
+
+The truth was this was a declaration of war upon Adam, a means to shape him, but he decided to shape himself. For in him, there was something beyond the System's reach. The mists and the hand they shaped were more than just mana, and though the vapor was represented in his Zone of Absolute Dominion, it was just the tip of greater powers unseen.
+
+The Adam in the mirror crumpled and collapsed, a burning hole where his face used to be. The Paragon said nothing as he studied his alternate self’s corpse. It burned as one would when infused with great wrong. To see another version of himself implanted with such evil was a mockery, a laughable thing. The System acted vulgarly, giving him a reason to despise himself, to hate himself for his weakness, but as the Culturist was right and wrong at the same time, his experiences made him who he was. It was more than that. He was more than that now. He had to be.
+
+For Divinity was about faith, and faith was about an ideal. It was about utopia, and the part of utopia that was so tantalizing and impossible, yet so unassailable, was that it was unreachable, and that people strove towards it in spite of that.
+
+It was the act of being better that was the sanctuary.
+
+It was a worship of ideals to be a sinner in motion toward good, to be an orc in rejection of his nature, to try even when you stumbled and failed time and time again, to be someone weak yet defiant of that weakness, undefined, desperate to evolve. There was virtue even under Tyranny. That was Heroism: to choose valor for valor's sake, even when there was no reward.
+
+The Culturist let out a breath he'd been holding for some time. "This is quite something, Paragon. Quite something indeed. You've come a long, long way since you were the boy I breached to reach the Deathless. I thought I might be able to lend you my aid for this struggle, but…"
+
+Adam held up a hand as he silenced his first worshipper, his first true worshipper. The Challenger, perhaps, was one who offered his prayers to Adam before others, but the Paragon saw clearly now. The Culturist, though wrong of his birth nature and brutal in his past, was now as close to a follower and protector as any. He stared upon the Paragon with reverent awe, but the Paragon looked back with no more judgment or prejudice in his eyes. If there was anyone Adam knew who embodied Heroism to a meaningful extent, it was the Culturist, for he fought, for he strove, again and again, time after time, even as he failed ever and always.
+
+Until now.
+
+"You did help. More than I ever wanted to admit before. More than you know. You guarded me in the Fairwoods, but even before that, you tried. I want you to know that you've always tried, Culturist. I recognize that. Even if I didn't feel that gratitude at the time, I recognized that, and it should be worth something. That little spark of Heroism amidst your acts of bloodshed, it should still be worth a measure of worship and decency."
+
+"It wasn't enough," the Culturist replied. "I told you before, these hands are stained with my sins. You should see that as true as my struggles."
+
+"They are, but the lesser nature of your virtue doesn't discount its existence. Because all acts of worship are absolute, in a way." Adam turned his gaze skyward while his higher self looked down, and he studied himself. He studied this mock representation of that town he failed to protect. Blackedge, in essence, was shattered and dead. Blackedge was finished. There was no more hovering town above the ruins of Lost Angeles. It had been gutted during the siege and then ground to dust in the Stranger’s realm, its survivors paltry and broken, scattered and severed from the Republic that was meant to protect them—betrayed even before they were butchered. But still, there were survivors, and there was a legacy. From Blackedge to Gate Piety, there was a path ahead for Roland, for the Starhawk, for Adam, and for everyone he'd managed to save. Few though they were, they still lived, and that was an absolute victory of its own.
+
+That was an act of worship as well.
+
+As the Delve began to collapse, Adam bowed his head to the Culturist. "The Divinity burns inside of me. I don't think I'm quite ready to be a true God yet, not nearly. I think from your many lifetimes, there's experience to gain and there's wisdom to be used. If you will be my guide, if you will stand by my side, I will do what I can to keep your soul spared of darkness and unburdened by sin. I can't promise to be a righteous god, not when I don't have enough power. I can't promise to be the smartest, nor the wisest, nor the greatest, but I can promise you that I will try. I will give everything I have if you give me everything you have. My worship in return for yours."
+
+And the Legendary orc's lip quivered, like he couldn't decide whether he wanted to smirk or break out laughing. Yet there was no hint of scorn in his features. "Everything I have is for everything of yours," he intoned. "Quite an offering, Godling, but a great honor nonetheless. I will do what I can. I would have done so even if you didn't ask it of me. For I owe you my salvation from the first moment your light cast the Challenger away.”
+
+Adam held out a hand, his digits far too small to engulf the Culturist's grasp, but the orc reciprocated nonetheless. He clasped the Paragon by the arm, and something flowed between them. Another pulse of worship passed through their link, and Adam felt a part of him rise higher still. He briefly flickered, sinking down into that place of Divinity, that divine Domain which separated the mortals from those who ruled as gods. He stayed there a heartbeat longer than before, before he returned, before the Delve collapsed, before he was cast back into the embrace of reality, spared both of his torment and risen to face the trials ahead.
+
+Adam's golden eyes opened, once again two of them—one on the left side of his face, and one that speared down through the ceiling of Starhawk's Perch, cleaving through that metaphysical barrier of faintest dominion like it wasn't even there. A border of charcoal was breached, unable to stop Adam's ascending omniscience.
+
+A new star was painted in the skies above Gate Piety, dramatically altered from Adam's memories. His Glare of Immolating Omniscience fell upon his gate, and he found it consumed by a crystalline nest festering with strangest creatures of impossible shapes and more. For a moment, his gut tensed as he prepared himself for battle. His bow had been summoned to his hand, drawn from that space in his soul where he equipped the weapon, but before he could rise, the room filled with others.
+
+The Culturist was already there, beckoning him to lie down to recover for a while. Then there were the others: his mother, half asleep in a chair, tumbling out in sudden alarm; Isabella in the corner of the room, looking through books and schematics. They seemed to be pages detailing a person's biology and treatments for those deep in a coma. Then there was his father, arriving just in time. He ascended the platform somewhere else before this moment, but perfectly fated to witness Adam emerge from his Delve. There came a flash of gold as Shiv and Valor followed. A heartbeat later, through a bolt of lightning, translucent and bright, lingering with the kaleidoscopic imprint of eldritch essence, Uva carried herself across and through matter using her transformed Psychomancy. All three of them had been altered irrevocably, dramatically, uniquely.
+
+All three of them were joined, and the System smiled as one of them, divine, defied its will. Adam felt it. The coiling chains of fate grew ever tighter around him, but he wasn't choked like he was before.
+
+Thus, inside the Paragon, a newfound vow: one foul with defiance, and bright with vision. Tighten your grip over me, System. Draw your chains tight. I'm not going to yield. I will not let you twist my way toward that of my brother's destruction. I will not be the one who murders my sister. I will not be the one who betrays my own Divinity. I will stand above you. I will take your crown. Your mana, your legend, my inevitable reign. One tyrant, one reality, one usurping the last.
+
+Legendary Skill Evolution Gained: Glare of Immolating Omniscience (Legendary-Standalone)
+
+Domain Worshiped: [Heroism/Tyranny]
+
+But such a notification did not come alone, for a set of other lines followed, and Adam found himself faced with the growth of something beyond him as well.
+
+Gate Piety
+
+Category 3 > Category 4

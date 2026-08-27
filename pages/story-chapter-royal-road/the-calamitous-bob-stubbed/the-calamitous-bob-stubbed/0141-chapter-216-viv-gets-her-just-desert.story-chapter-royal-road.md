@@ -1,0 +1,385 @@
+---
+id: 07cf7d84-5663-5d1a-a944-5905f1a81085
+page-type-slug: story-chapter-royal-road
+title: "Chapter 216: Viv gets her just desert"
+slug: 0141-chapter-216-viv-gets-her-just-desert
+partOf: the-calamitous-bob-stubbed
+position: 141
+ownLength: 5977
+unit: words
+ownProgress: 5977
+publishedAt: 2025-07-22
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2457335/chapter-216-viv-gets-her-just-desert"
+royalRoadId: "2457335"
+markedReadAt: "2026-06-29T21:19:26.386Z"
+---
+
+Night fell over Ravinport, after what had been a remarkably bloodless battle. Once the two Sheem warships had been disabled and with their only mage punched to submission in the first minute of battle, the rest of the soldiers had quickly surrendered. To Viv’s surprise, they’d been offered proper treatment. Even the sailors had been promptly fished out of the bay! Wars tended to get more cruel as time went on and each side went lower and lower to get the upper hand, in her limited experience, so maybe it was just a case of early game patience. Her second surprise was that the Opportunity hadn’t returned after its hasty retreat. She wasn’t sure why but she assumed Captain Kass just trusted her to find her way.
+
+That still left her in the palace at night with little to do while the city’s inhabitants partied, a bit prematurely if she had to be honest. They didn’t even have a large enough prison to manage all of their captives.
+
+The old woman who had so subtly interrogated her as she arrived offered her a tiny room and a place at her table during the following council to which she was not invited. They did summon her at the end as she sampled local pastries. Once again, bored guards accompanied her to the small room, which was now stiflingly hot and smelled of stale sweat. She bowed politely while Lord Dar finished speaking to one of his generals.
+
+“ — will answer, but I fear Dawnbay is already under their control. We simply cannot wait to find out. I will send an embassy to Sandsong. If anything, we will be able to find refuge with them should the worst come to pass.”
+
+“Milord, the ruling families will never consent to subjecting themselves to Sandsong.”
+
+Lord Dar’s gaze hardened. His leadership filled the room. It tasted earnest and proud.
+
+“With all due respect to my peers, I have traveled to Sheem while they have not. I have seen their fleets, and their armies. I delayed them as long as I could through compromises while we were trying to build this ‘independent alliance’ they claimed would stand as a bastion against larger kingdoms. That time has passed.”
+
+A few bearded men and women in stuffy clothes objected. Viv had enough experience to recognize it was just a show of principle.
+
+“We must unite with Sandsong if we hope to ever stop that tide. Even then, I fear it is already too late. The decisions of the Sheem captains, as foolish as it was for them, shall serve the interest of their liege. Ransoming the prisoners will buy us a few days and that is all I can manage. We must reach out. We need… a way out.”
+
+He turned to Captain Sin with august dignity.
+
+“Captain Sin, you have served us faithfully for over sixteen summers. Your blood also flows through the veins of the queen, and this familial bond may yet serve both our nation and theirs. I ask, nay, I beg of you to lead an expedition west through the Salt Mountains. Ask for their support.”
+
+Captain Sin took a valorous step forward. He looked a bit more like a villain with his extremely thick mustache, but the bow and mighty scowl of righteousness were definitive knight attributes.
+
+“As I was called, so I shall answer. I will lead the expedition through the Salt Mountains or die trying!”
+
+Ah, heroism. Viv still wasn’t sure why she’d been called here.
+
+“Die trying is what you will do!” an irascible old man spat from the back.
+
+He was almost as well-dressed as the city lord, but while he favored the yellow-dotted blue of the city, he wore deep navy with a fish sigil, and not a trout, a shark. Pretty sure that was a shark equivalent.
+
+“Only the foolish and desperate have crossed the Salt Mountains these past five years, or, dare I say, attempted the crossing. Now their bleached bones serve as salty snacks for whatever foul beast roams these desolate lands! You will find only death here, young Sin. And for what! Will you slay the dragon that scours Sandsong? Unless the beast is defeated or at least driven off, the kingdom will turn its back on everyone else. No, I say, no! We must either push for a last ditch effort, or consider terms of surrender. If we can fight, we must. If we cannot win, then there is no honor in wasting the blood of our people.”
+
+A few of the elders nodded. Lord Dar replied after a short delay.
+
+“You are right in only one regard, old Thon: we must consider defeat. However, I believe there is a hint of light when it comes to the dragon. Lady Jaratalassi…”
+
+His serious persona melted into a smile, even if it was only for a moment.
+
+“Sai. If you would kindly tell the assembly why you came to Vizim?”
+
+Viv sighed. She pretended to feel torn about the situation, though by now everyone assumed she was here to help with the dragon. There was a difference between an obscure arcanist hired as a last ditch effort and the Empress of a sovereign nation with an infamous army coming to the rescue, however, and she intended to keep the secrecy up for now.
+
+“I have not sworn an oath of secrecy, however I am still bound by duty not to speak about the specifics of my employer while working for them unless they expressly allow it. I can, however, tell you that I am an arcanist and that I have enchanted many powerful weapons.”
+
+Or at least helped for a few of them when Ser Warcrime requested it. It let her put a stop to the mulcher project which was as horrifying as it was an overkill.
+
+“You have enchanted weapons to stop a dragon?” Lord Thon jeered.
+
+He scoffed, and a few of the elders huffed with him.
+
+“My workings have defeated dragons before,” Viv replied.
+
+The peanut gallery shut up which was a pleasure in itself. Thom’s expression of disgust turned to anger instead. His leadership hit her full on. It was very strange, more a one-on-one domination tool than a group skill. It tasted of slaps and public dressing down. She didn’t like it one bit.
+
+It completely failed to affect her. The only difficulty was in preventing draconic intimidation from roaring back at this idiot. It would be so easy… but it would burn her cover. If the Sheem attacked prematurely, her laziness or lack of control might cost the lives of hundreds of innocents. So she swallowed her pride and curtsied the Viziman way, with her hands laced in front of her.
+
+“You lie,” Thon accused.
+
+“I do not. Although the dragons didn’t die from their wounds, both were defeated.”
+
+Whispers of awe crossed throughout the room. Viv felt the annoying pressure of many inspection skills slamming against her medallion-warded soul like so many birds pecking at a window. She took a deep breath. These people were afraid. It was not a mark of disrespect.
+
+“A third step arcanist? Enchanting a dragon-slaying sword?”
+
+Viv never said it was a sword but because of Eron the Dragonslayer’s story, everyone thought about the Sword of Baran artifact as the default dragon-killing weapon. It looked like the legend had crossed the ocean after all. And that was fucking stupid. The best weapon was obviously some sort of ballista-propelled harpoon or something. A dragon would be flying most of the time. Why wave a toothpick far under their belly when you could use a giant machine to shove three hands of engraved steel up their nethers? Preposterous.
+
+“She has proven herself this afternoon when she discovered a flaw in the throne room’s defenses,” the leading screecher mage replied, eyes respectful under his turban. He gave her a deep nod, which she gracefully returned. Given their difference in status, he was doing her a big favor.
+
+“Genius is not measured by steps on a path. Only experience is. I say we have no reason to doubt her.”
+
+“Then you will not mind a demonstration?” Thon said in a mellifluous voice.
+
+“Did I not already say that time is of the essence? Is my word as witness not enough, or are you calling me a liar? We do not have time for your games, milord,” Dar sternly replied. “The expedition must leave tomorrow morning. Captain Sin, Lady Jaratalassi, can I count on you two to lead the expedition to a successful end?”
+
+“You are trusting our diplomats and hopes to an unknown woman?” Thon protested yet again.
+
+The attention somehow returned to Viv. It appeared she was expected to defend herself this time.
+
+“I will use my enchanting skills for the benefit of the expedition. Free of charge, naturally,” she said. “With my help, a talented blademaster like Sin cannot fail to fend off the competition.”
+
+“He is a Janar, not a ‘blademaster’, girl. Those Paramese half-breeds…”
+
+“Enough!” Lord Dar said. “You are out of line, Lord Thon. Unless your comments help with the situation, please refrain from sharing your opinions on the matter. Now, is there more for them to discuss?”
+
+“If, on the way…”
+
+Everyone turned to see a very old woman sitting at the back on a small stool someone must have set up for her. She radiated a calm aura that only now became obvious, since she had everyone’s attention. It had been quiet until now.
+
+Viv judged the woman had to be over a hundred, easy.
+
+“Yes, Lady Mar?”
+
+“If on the way you could find my granddaughter… she left to verify reports of an elemental. Please…”
+
+“Naturally, Lady Mar,” Captain Sin replied like he was the main character and of course he would be the one treading the desert searching for someone else. “If we come across any signs of her, we will not fail to give pursuit!”
+
+Fucking side quests.
+
+***
+
+Viv was quietly taken away back to the receiving room where she sat down. An annoyed woman came during the evening.
+
+“Excuse me? Would you mind helping in the kitchen? We are a bit overwhelmed with all the guests.”
+
+“Yes, I would mind. I am also a guest and my arcanist skills will be needed,” Viv replied.
+
+The cook closed her mouth with a click before leaving wordlessly. Viv had no cooking skill and she would have been more hindrance than help, but that wasn’t the reason to refuse. She was a guest of modest status but a guest nonetheless. Asking her to help was a hidden insult. She was still bored though, so she found the older woman who had talked to her before.
+
+“Oh, no, I don’t think it’s a good time for you to leave! Too much chaos in the streets right now. You should at least wait for tomorrow!” was the first response.
+
+“I believe Captain Sin and I will be traveling west soon,” Viv amended.
+
+The news of the diplomatic mission hadn’t spread yet, it seemed.
+
+“I would like to make some preparations.”
+
+“Let the captain handle it, woman,” she chided.
+
+Viv sighed. The temptation was so strong to just use a little bit of leadership. She decided against, of course. This was a test of patience and empathy for all the people who spent their days being condescended to and dismissed out of hand. Viv’s ego was so astronomically massive it had its own accretion disc, so a little bit of humbling was good practice even if she was finding herself missing the Fool’s Garden. The one that was designed to catch people she defenestrated from the throne room.
+
+“What I mean to say is that I will need a way to protect myself since it appears this will be very dangerous. I would very much like to… purchase gauntlets which I will be engraving. I will, naturally, also work on the gear of everyone who will come. If you can direct them my way.”
+
+“My, of course, of course. Gauntlets, you say? I believe Smith Tal has some that can work with your dainty…”
+
+Viv’s hands were not that small and there were some callouses. Obviously they matched her artisan persona. And also because she had to hold her shield during practice when Solar tried to bash her teeth in.
+
+“With your hands,” the old woman amended with a smile of embarrassment. “I will provide a guard. You cannot be too careful.”
+
+“Thank you, Lady…”
+
+“Sai as well, dearie. I am Dar’s aunt, and the mistress of the house until we finally manage to make him marry someone. Curse him. He keeps delaying.”
+
+“Well if it can help, I suggest picking a muscular woman with high technical skills.”
+
+The other Sai was about to dismiss her out of hand — Viv could tell, but then she frowned as if remembering something. Possibly a long series of occurrences of young Dar asking about female knights or smiths or whatever. Her face twisted into a ‘o’ of revelation. Viv was honestly disappointed it took her so long to realize even a canny city lord could want a buff woman to tell him he’d done a good job as she princess carries him to the marital bed. It probably helped that she was friends with Koro, who’d once cracked the spine of a rathclaw with her bare hands while seven months pregnant.
+
+Viv ended up following a confused spearman through the winding roads of the upper city, its white buildings bathed by the sunset light. The place was in an uproar. Messengers and house guards ran around in the fervor of war preparation, many casting glances to the white-uniformed man accompanying her. Maybe he was an elite guard or something. His conical helmet and veiled face sure gave him a cool Arabian nights look.
+
+As they crossed a deserted square bordered by closed shops, she noticed one of the estates was going up in flames with no one in any particular hurry to help.
+
+“Sellouts,” her stoic guide explained.
+
+Viv politely nodded as if he wasn’t here to keep an eye on her. The smith was closed, the evening and riots being good reasons, but her guard gave her the cachet she needed for a late purchase after he banged on the door. She was shown several products by a slightly bemused smith journeyman, all lean muscles under a badly fitting vest. She settled for a pair of armored gloves that cost her several silver talents the journeyman counted with surprised eyes. His gaze lingered on her simple travel dress. She was using more coins than her attire suggested she would have on hand.
+
+The gloves themselves were rather thick, lobstered on the fingers which was nice, though didn’t fit her perfectly, but that was fine. What mattered was the available metal surface for engraving. It was decent enough without making her look like she had a cinder-block glued to each arm — some of the armor here could get bulky. Happy with her purchase, she thanked the man and left with her guard leading the way back.
+
+Those two gloves would be her self-defense tool and also her improvised shields if things did hit the fan, but not bad enough that she had to betray her identity. As she walked, she considered what enchantment to put on each one except for shield and push. Maybe anchor because pushing without anchoring tended to get a swift answer from Newton’s third law.
+
+Viv looked up when she felt something. A tinge. She looked around. The guard was now leading her through tall walls made of slabs of gray stones, with pine trees protecting the pavement from the merciless sun during the day. Now it was dark and unlit. The wind carried the scent of sap and the distant ashes of the ruined estate. Not much blood. So what? Viv grabbed the gloves. She didn’t have time to put them on. Her instincts screamed at her.
+
+There, on the left wall, a shadow.
+
+“Watch out!”
+
+Viv pulled the guard back just as something whistled through the air. She was about to pull him more, but he put his shield up and his spear surged. Something clanged on his defenses but he caught something else in the shoulder. Viv dove behind him while another knife clattered on the ground.
+
+“Get her! Her!” a sprinting man at her side yelled while two cloaked assailants engaged her guard. He was holding his own with ease but… shouldn’t they run? Her own opponent closed in.
+
+[Kestrel of Sheem: one who follows the path of a scout. Not dangerous. Third step… Good melee combatant.]
+
+Fuck it.
+
+Viv threw one of the gloves in his face. The improvised weapon barely hit but it was enough to provoke an opening and a very rude word. Feet apart, waist swinging, cross. The punch floored the man with a ghastly crack.
+
+“Hmmm!”
+
+He was bleeding from a temple but still pointing a shaky finger at her while letting out a muffled yell.
+
+“Go!” Her guard said, “Go!”
+
+Viv did so. She sprinted away while another shadow crept from behind. She propelled herself into a dead sprint. Cardio time!
+
+***
+
+The would-be assassin missed his throw. The woman turned right into the next street by placing a foot on the wall and bouncing. He’d expected her to slow down. She had no traversal skill, clearly, so he ran after her. The captain was picking himself up, but Sol and Shan were wasting time trying to take down the guard. Idiots! He ran. Anyone who might be able to help the Sandsong with their dragon problem must be eliminated for the kingdom!
+
+As he turned, he realized that the woman was already pretty far. He made after her, jumping over obstacles with all the grace of a bird of prey. She was ahead running her silly run in a straight line. He ran, and ran.
+
+She was getting farther away.
+
+She disappeared behind a house.
+
+“What the fuck?”
+
+***
+
+Viv wasn’t exactly believed when she returned to the palace, but they did send a squad out while she remained in the main courtyard under strict guard. To her surprise, however, rescue came in the form of the guard himself returning with grim eyes but otherwise unharmed. His armor had protected him. He also got bonus points for bringing her back her glove. It just had a little bit of blood on it. Nice!
+
+Viv wasn’t even properly interrogated this time. The guard mentioned they had a Sheem accent and they wanted to kill her and that was it. Unfortunately, they’d all managed to peel off before getting caught despite some wounds.
+
+“Bloody spies and traitors! Curses!” Lord Dar vociferated later in the throne room. “They have the gall to come and kill our guests in our city! It is very fortunate that you would have the strength to fend them off, Lady Jaratalassi.”
+
+He was placing her on a pedestal in public, Viv noticed. Calling her Lady Jaratalassi was a recognition of status that went beyond what she deserved. Nobody seemed to mind, however.
+
+“She threw the glove at an assassin’s face, and then punched him,” her guard helpfully added.
+
+Dar’s gaze traveled to Viv’s knuckles.
+
+“How I wish I could have been here to witness it! But enough of this. The shameless assault only proves that time is of the essence. The danger is clear. You must depart post haste before more of them learn of what you plan to do. I shall provide horses and a cart for the convoy!”
+
+Viv wanted to tell them she knew how to ride a horse but the skill was a rich people or military thing over here, so she refrained. She was already under enough suspicion.
+
+“Sai,” Lord Dar continued, “I have requested that you be taken to the palace’s workshop to enchant whatever you can before departure, unless the accident was too taxing…”
+
+“It was not, Lord Dar,” Viv replied.
+
+She gave a short bow.
+
+“Time is of the essence. I will work late to improve our chances.”
+
+“Your courage does you credit!”
+
+Viv grabbed her tools and left. It was going to be a busy evening.
+
+***
+
+“She was not afraid,” the guard said.
+
+“What a woman!” Lord Dar exulted. “If only she’d been born noble!”
+
+“Ahem.”
+
+Captain Sil pretended to clear his throat. He leaned towards his lord.
+
+“What the sentinel said is not that she was courageous, my lord. Courage is overcoming one’s fear. The woman was not afraid. The difference is significant.”
+
+“So you believe she is some sort of warrior?”
+
+“No my lord, not from the way she moved. And she’s no assassin either, but there is something she is hiding. No artisan could face an assassination attempt like that with this level of calm. It is as if it was a daily occurrence for her, barely an inconvenience and not an attack on her life! Maranor’s mercy, but I was scared out of my mind. I thought I was dead for sure! If she hadn’t pulled me back as they launched their blades, I would have been mortally wounded.”
+
+“How did she know?” Captain Sin asked. “How did she pull you back?”
+
+The guard frowned.
+
+“I wouldn’t know, sir. I had my back to her. Those were not assassins by path, so perhaps she spotted something that gave them away.”
+
+“That is indeed suspicious, however we have been witness to an enchanting session that proves she is what she claims,” Lord Dar commented.
+
+“My lord, it is possible that she might have been targeted by assassins before,” Captain Sin offered.
+
+“We will not know unless we interrogate her, something I am opposed to,” the city lord replied with finality. “One thing I know is that she is committed to this dragon business. As long as Sandsong’s and our interests align, she is on our side. Captain Sin, make sure she reaches Sandsong unharmed. We need allies against the Sheen.”
+
+“Understood, my liege.”
+
+***
+
+Viv spent a good part of the night enchanting while the members of the expedition trickled in. A dozen guards came in wearing their mail and conical helmets though their faces were bared here. They stood around speechless while she turned their round shields into very basic runic gear, then she taught them how to charge it. By then it was long past midnight. Captain Sin already had all he needed, but he did bring the ambassador who inspected her with a very critical gaze. He didn’t return her respectful curtsy.
+
+Two scouts asked if she could enchant their arrows. It was an unreasonable request, which she let them know, but she did enchant their swords with basic runes of penetration and durability. By that time she’d run out of steel twice to engrave the gear and had to request a runner to requisition ingots at the local smelter. By the time she was done with her own gauntlets, dawn was peeking behind the hills, and she had the beginnings of a headache. Fighting for hours was fine because her path encouraged it. Engraving was not. At least it wasn’t very mana-intensive, what with the others charging the spell with their own mana.
+
+The gauntlets ended up ok. She had a minor anchor on the thumb and pinkie fingers that would lock in when she extended her fingers and the lobstered armor clicked just right. She had added one push on each palm, a shield on the back of one hand, and a minor explosion rune on the other. The explosion was colorless so it wouldn’t generate heat. It would also exhaust and require a long recharge. The final touches were a light enchantment on one wrist and a silence one on the other. The purpose of the glove was to give her defenses that were on par with her expected capabilities. For the rest, she would have to rely on her wits not to be caught in a situation where she’d lose her cover.
+
+Yeah, that didn’t bode well.
+
+Viv was invited to ride the supply cart which was already loaded. She climbed and did her best to build a nest with whatever cover and tarp she had around given the local lack of suspension. The expedition gathered soon after. There were the dozen guards who politely greeted her, Captain Sin who already had his own enchanted gear, the two scouts, and the ambassador who looked down to her alongside two attendants who did pretty much the same. Viv could stand back up to look down at them in return but she was feeling comfortable and it didn’t feel worth the effort. A screecher mage was the last one to arrive. He gave her gauntlets a look of consideration before leaving. She’d kept them on just in case.
+
+It looked like the fake nobles who had landed with her would not be coming along.
+
+“The expedition is assembled!” Captain Sin announced. “Milord, we are departing!”
+
+“You carry our hopes with you, good Captain. Please protect your charges, and may the light gods smile upon you!” Lord Dar replied.
+
+They went off. Viv was the only one who hadn’t been offered a horse, however as she was lying down after several hours of tiring enchantment and looking out at the city, she relaxed with her hand on a small bag of dry dates.
+
+The convoy crossed the high city at a brisk pace. The tall white buildings and fragrant pines gave way to thick copses of trees hiding shanties and squat brick buildings from the sun. This reminded Viv to build herself a small head tent with the help of a tarp and two enchanted tent pickets.
+
+It didn’t help with the smell.
+
+The transition from covered shanty to fields was jarring. From wet and pungent, the expedition entered a world of sunlight and dry dust. Fields expanded to her left and right in thin strips nestled between rocks. Water gurgled over each field one by one. She sat up, looking at the mana snaking under the field.
+
+“You are seeing the work of a water dancer,” the screecher mage explained.
+
+His eyes twinkled under the turban. He seemed quite proud.
+
+“The water dancer’s steps cross each field in turn, and the water follows. Reservoirs capture the rain so that we may do so even when the sky is blue.”
+
+He looked up.
+
+“It will not last. The season of rain is almost upon us.”
+
+He turned his head aside. Now that Viv was looking more closely, there was a woman coming into view from a recess of the landscape. Blue clothes wrapped her shape so Viv could not tell more than the fact she was light of step and very graceful. As she progressed, little springs burst over the fields.
+
+“It is said the earth laughs and weeps at their performance.”
+
+The dancer disappeared from view in the middle as she launched herself into a new routine, which Viv missed. The pleasant diversion still allowed her to realize the place was dusty because she was swallowing the earth turned up by all the horses in front of her, dammit. There were quite a few fields, then orchards, villages, and even beehives once. The convoy picked up pace as the other travelers grew fewer in number. The workers were thin here, though it was more lean muscles than signs of starvation. Sun-baked limbs tended to the trees with slow care. Sometimes, curious gazes followed the convoy. A few of them bowed.
+
+“We will stop at the border to pick up more supplies. A messenger left this morning to ask for hay and water barrels. We will need them to cross the salt mountains.”
+
+Viv nodded. The land was turning arid and the temperature hot despite being late in the year, so she resolved herself to sleep if she could. It proved difficult despite the cushions. It appeared the life of an empress had made her soft. There was a time, back in the army, when all she would have needed would have been a horizontal surface and a distracted NCO. How things had changed. Dozing, she drifted on and off with every bump on the road.
+
+It was warm and cozy and it didn’t smell bad. The sun was nice. As dawn turned to morning, the last of the orchards gave way to wilderness. The trees grew more wild, thornier, with leaves in reds and brown where there were leaves at all. Viv would have expected cacti or acacias or their local equivalents, but the plants here had grown thick limbs barded with defenses and sometimes, an outrageously spiky fruit dangling at the end of a long stem like a poisoned invitation.
+
+“They are quite tasty,” the mage told her with amusement. “If you can be patient enough to remove the outer layer.”
+
+Sadly they didn’t stop or Viv would have risked getting spikes in her fingers if it meant tasting mana rich prickly pears. Alas. The dragon. Maybe she’d get an opportunity to try some later.
+
+Soon after that, the mana started to fluctuate wildly. In some spots, the trees grew to vertiginous heights rivaling buildings. Other spots were barren and sand-blasted, showing only pitted rock like open wounds in the earth. There were still some muddy water points at the bottom of deep ravines. Viv remembered the rain season was about to begin. In those times, the riverbeds would flood, dragging anyone caught within to certain death. They crossed a bridge over one such riverbed soon after. It was made of wood and — while not rickety — it didn’t exactly inspire confidence.
+
+“No stone bridges?” She asked the mage who seemed in a conversational mood.
+
+“The Viziman earth is capricious, Lady Jaratalassi. It sees stone piles as a provocation. We do not answer such challenges. We build wood and, after the land has raged, we rebuild them. Sometimes, we can even salvage most of it!”
+
+“Is the land that rebellious?”
+
+A pulse of mana touched her then, subtle, yet noticeable because of how deep it felt. In the distance, a column of red dust sprouted with anemic speed, at least from here, but close up it had to be taking off at the speed of a plane.
+
+“An elemental is displeased,” the mage laconically explained. “It is better if you are far when it happens.”
+
+“I didn’t feel it until the wave came.”
+
+“Ah yes. Brown elementals are difficult to distinguish from plain nature when they are quiescent, and when they are not, they move surprisingly quickly.”
+
+Viv nodded.
+
+“Is there a way to avoid them, then?”
+
+“It is said that some deep tribes have secret paths that can listen to them, but as for us, we try to avoid the deep desert. If you have no choice, then ask Emeric to toss a coin for you! If it falls the wrong way, may the dust of your bones be carried by the wind to nourish the garden of your family.”
+
+“Very poetic.”
+
+“Sometimes, poetry is all we have. Water?”
+
+The expedition took a short break. Captain Sin came to ask about her before being promptly dressed down by the ambassador who insisted protocol meant he should be inquired about first. Viv gave the poor blade master a short nod of sympathy while one of the soldiers distributed freshly made wraps. They had several barrels of water that could be drawn from, and Viv became instantly popular the moment she put a colorless cooling enchantment on one of them despite the ambassador’s protests. It was quite hot.
+
+Cooling something without using blue mana required an understanding of molecular motion that made the screecher mage’s eyebrows rise in confusion, though he seemed to accept the explanation that her path made her favor colorless solutions. There were water dancers here after all.
+
+“The people of Param have strange ideas,” he laconically commented.
+
+After the short meal and a moment to refresh themselves, the convoy left again. One of the scouts galloped ahead, through winding paths that were going up and down narrow valleys. It didn’t take long before the road became little more than a trail, a path of eroded stone in an otherwise wild spot. She was therefore surprised when they came across a large drawbridge across a chasm. It was currently raised. A troglodyte tower stood at the other end, as misshapen as it was beautiful, all in shades of ochre. A rope strung between the top and a side carried two blue flags with yellow dots. This was the border Lord Dar had mentioned.
+
+Without a word, the sound mage radiated gray mana in a pulse around him, making the air vibrate. The sound then changed from a buzz to a low hum, not like a person but maybe what she would expect from a futuristic electric generator. Harmonics changed the call in subtle ways that were halfway between music and signal.
+
+It stopped when the drawbridge lowered.
+
+The screecher mage frowned.
+
+“No reply?”
+
+Ahead, soldiers in incredibly dusty uniforms waved them forward. The soldiers started moving but Viv frowned. She knew the filthy uniform trick from handling bandits. It was a good way to hide the bloodstains on looted gear.
+
+“Where is Nep?” the second scout asked.
+
+Captain Sil slowed down.
+
+“It’s a fucking trap,” Viv announced.
+
+As soon as the soldiers stopped moving forward, it sprang shut. Or at least, it tried. Soldiers in the uniform of the Sheem swarmed behind cover on horses while her side galloped back and the cart made a fast turn, also incidentally making her the most vulnerable person of the group. Unfortunate. The ambassador was screaming. Arrows flew, but the gray mage waved his hand. A gust of wind made them veer of course. Still, two people with mana signatures were coming up the path, flaring their auras now that the gig was up.
+
+“Away! Away!” Captain Sil screamed.
+
+He, too, cut projectiles mid air. So far, everyone was still alive and it looked like they were going to make it.
+
+Their pursuers stopped at the edge of the bridge, quite suddenly. Viv was surprised they had the basic intelligence not to follow a group with a mage and a blademaster onto a spot that was very vulnerable to being demolished. Common sense always seemed in short supply.
+
+It would have been the end of it, but the enemy leader removed something from a saddlebag with religious care. He then carefully pointed it towards her.
+
+It was a universal truth that some items are immediately recognizable, no matter the setting, no matter the culture, no matter the place. Bowls were bowls, always: small containers capable of holding liquids used in everyday life. Perhaps it was caused by a shared consciousness. Perhaps it was, quite simply, pattern recognition.
+
+Anyway the thing now pointed at Viv’s exposed face was a gun. A futuristic gun painted black with rings near the muzzle. It was functional in its design, and scrappy in appearance. But it was a gun. Viv’s danger sense was screaming it.
+
+She put her shield up and overloaded it, just in case. The surge turned the back of the cart an opaque white.
+
+Something exploded against it. A wave of heat brushed against Viv’s face, pushing her hair back. Where the cart had been struck, there was a massive hole with flaming edges, the ropes burning in the noon sun.
+
+The bridge collapsed just as they left it. Viv had a look at her gauntlet. The shield array was fully overloaded. It could have stopped a fucking rocket.
+
+Viv was livid. Only she was allowed to smuggle advanced weaponry into Nyil. It was a situation that had to be remedied immediately.

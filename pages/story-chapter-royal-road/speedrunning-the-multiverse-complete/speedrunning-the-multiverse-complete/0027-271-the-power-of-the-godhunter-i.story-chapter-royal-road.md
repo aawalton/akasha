@@ -1,0 +1,263 @@
+---
+id: 8a5d77da-8935-56f0-94c3-3668559dff89
+page-type-slug: story-chapter-royal-road
+title: "271. The Power of the Godhunter (I) "
+slug: 0027-271-the-power-of-the-godhunter-i
+partOf: speedrunning-the-multiverse-complete
+position: 27
+ownLength: 1847
+unit: words
+ownProgress: 1847
+publishedAt: 2023-07-27
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1290464/271-the-power-of-the-godhunter-i"
+royalRoadId: "1290464"
+markedReadAt: "2026-06-29T22:42:35.457Z"
+---
+
+Gerard retrieved the core. In the end it was not with a hacksaw but with a surgeon’s scalpel, some softening acids, and enough gauze and ointment to stock a hospital. He insisted on spraying the core with a mysterious yellow liquid, then wiping it down, before letting Dorian take hold of it.
+
+Dorian could barely hold it, even with both hands. It was a huge thing, all uneven and spiky, like a hunk of ice chipped off a glacier, and it was scorching to the touch. Not with heat, but qi and Law—his fingers struggled to hold off its foreign powers.
+
+Gerard shrugged off his heavy apron and mask, folding them neatly, and stowing them away in an Interspatial Ring. “What shall I do with the body?”
+
+“I don’t care,” said Dorian. “You can stuff it and hang it on a wall, for all I care.”
+
+“A fine idea,” said Gerard, studying it thoughtfully. “I’ve always wished to curate a museum. Perhaps this shall make a fine centerpiece of a Museum of Dragon History. It is quite a fascinating history, in fact—it spans many more millennia than one might think. It wasn’t until twenty millennia ago that the common folk began referring to it as the dragonrealm; before then—”
+
+“Sounds lovely! You go do that,” said Dorian. “If you’ll excuse me, I’ve got a core to swallow.”
+
+Gerard blinked at the core, then at him. “Pardon—I may have misheard. You mean to try to swallow it? With your… throat?”
+
+“Yeah, it wouldn’t fit, would it? But how else does one reabsorb a previous life’s Godking core—which, by the way, carries an entirely different set of Laws and qi?”
+
+“If you expect me to have an answer I fear I shall have to disappoint you.”
+
+“Aren’t you supposed to know things? Haven’t you read encyclopedia’s worth of cultivation manuals?”
+
+“This may surprise you, my liege, but reabsorbing one’s previous life’s Godking core, which, by the way, carries an entirely different set of Laws and qi, is not exactly standard fare in any cultivation manual.”
+
+Dorian shot him a dry look. “Most every Godking of my caliber would whip a servant for such mouthiness, you know.”
+
+“Perhaps,” said Gerard. “But you would not do such a thing.”
+
+“Really? How are you so sure?”
+
+“Why, because I would be most displeased, my liege. Perhaps I might even be motivated to leave. And what then? Between the two of us, I am the one who knows things. You would be utterly lost without me.”
+
+“…It kills me that you’re right.”
+
+“I usually am, my liege. You ought to have learned this by now.” Gerard Jr. nodded sagely on his shoulder. A pause. “That was a joke, sir—”
+
+“I know, I know!” Dorian grunted. “It’s strange. The qi repulses mine. Yet it also seems to want to reunite with me—or, more accurately, my soul. It responds to me.”
+
+“There is plenty of time, and space, to experiment in the Chamber,” said Gerard. “In my opinion swallowing it all at once—or implanting it, or ingesting it by whichever means you might wish—is likely a poor idea. It is to be determined whether your body will violently reject this qi or not. Perhaps you might try it one strand at a time, and progress from there?”
+
+“Hmm,” said Dorian.
+
+***
+
+In the chamber
+
+He started with his hand on the core, and teased out a single strand of qi. It responded to his willing — which was just his soul calling out to it. And they were bonded inextricably; it was his qi, after all.
+
+He let his own protective qi vanish from his skin, let this single strand worm its way down his channels and into his core. It was a strand of Wind qi, bright blue as a mid-morning sky.
+
+Only when it went in, it ceased moving. He tried drawing it into the black hole. But the black hole repulsed it; or rather they repulsed each other, almost magnetically. He knew by instinct that forcing them together would be a very bad idea.
+
+So… what now?
+
+As he pondered the thought, the strand began to move. Slowly, in a wide arc. Like it was orbiting his Black Hole. The way his planets did when it was but a star…
+
+What if they don’t need to mix?
+
+What if I just absorb the qi in that core, and make it its own separate star—what if I can make my core a universe of its own?!
+
+At present both the Black Hole and the strand seemed satisfied, secure. He drew in another strand, thicker this time, and began guiding it to his core with care. There might not’ve been much qi in it but it was brimming with Godking Law, and extremely high-leveled at that. Even in small quantities it was to be handled carefully—it felt like holding a small dagger with a razor-sharp edge. It even exerted a slight pressure on the rest of his qi.
+
+Gently he started taking in more…
+
+[Level-up!]
+
+[Star Realm: Dwarf]
+
+[0 -> 31%]
+
+The Wind qi had coalesced into a tiny ball. A spark in the dark. Months ago this had been his entire cultivation base—imagine that!
+
+His organs seemed intact, and he wasn’t coughing blood. Probably safe to pull a little more in? He grabbed a handful and let it yanked it in.
+
+[Level-up!]
+
+[Star Realm: Dwarf]
+
+[31% -> 100%]
+
+[Rank-up!]
+
+[Star Realm: Dwarf -> Sun]
+
+[Level-up!]
+
+[Star Realm: Sun]
+
+[0% -> 16%]
+
+Oops.
+
+A little more than intended, but nothing seemed broken. Shrugging, he started to absorb in earnest.
+
+[Level-up!]
+
+[Star Realm: Sun]
+
+[16% -> 25%]
+
+[Level-up!]
+
+[Star Realm: Sun]
+
+[25% -> 40%]
+
+…
+
+…
+
+Soon a bright blue sphere had established its place in the cosmos of his interior. It took a long, arcing path around the Black Hole. The two seemed in balance.
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Sun]
+
+[93% -> 100%]
+
+[Rank-up!]
+
+[Star Realm: Sun -> Red Giant]
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Red Giant
+
+[45 -> 55%]
+
+He found himself in a flow state. Some indiscriminate amount of time passed. Hours, perhaps, or days. It didn’t really matter in here.…
+
+…
+
+[Level-up!]
+
+[Star Realm: Red Giant
+
+[98% -> 100%]
+
+[Rank up!]
+
+[Star Realm: Red Giant -> Supergiant]
+
+By now the light blue of his core was wreathed in puffy streaks of white, like rings around a planet. Perhaps clouds? This was a star of Wind qi. It churned with haste, like currents in the upper atmosphere, flowing in streamlined motion. Whereas his Eclipse star had felt like a furnace, dense and scorching, a thousand miniature explosions detonating within it a second, this star felt lightweight yet much sharper. More agile, too.
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[8% -> 12%]
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[35% -> 37%]
+
+Dorian had opened himself fully to the other core, but its flow was slowing. Soon it would be done.
+
+…
+
+…
+
+It was a trickle, now.
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[61% -> 62%]
+
+And nothing.
+
+Dorian waited a little longer. The core had been exhausted prior to his taking it—it had just shot a ton of qi at him, after all. But nothing was forthcoming. He opened his eyes, and found the hunk in his hands dissolving. Whatever made it the core—the qi it held, but far more—had been fully transplanted, it seemed…
+
+[Skill Learned!]
+
+Oh?
+
+[Carp Leaping The Dragon’s Gate]
+
+Ah, this old thing! He grinned. He’d forgot Salas even had this—and it was a pleasant surprise the core transmuted it too. The cumbersome title wasn’t his idea; this was a legendary Technique of the Multiverse. Perhaps the most potent of the wind movement Techniques—which also meant it was one of the most potent movement Techniques, full stop. Near the end of his run he’d taken a full century of strenuous training amid the highest peaks of Jotunheim, home of the Frost Giants and the Ice Phoenixes, to get it up to max level. Back then he’d trained in the Great Roost, where all Ice Phoenixes were born—the most favorable spot in the Multiverse for such wind qi training.
+
+It was a great relief that robot-Salas couldn’t use Techniques. If it’d had this on hand Dorian would’ve never gotten within ten strides of it. Even with Sunshine Steps it would’ve looked like he was wading through mud.
+
+It was a pity. A legendary Technique it was, but the kind of training it required to get it even to level two were far out of reach—
+
+He gasped and fell to his knees. His whole body flashed cold—like his blood had turned to ice. A glut of memories, of knowledge, assaulted him. He couldn’t think his head was so full; there was a pressure on his temples. He was faintly worried it was about to explode.
+
+But a notification cut through it.
+
+[Level-up!]
+
+[Lv. 0 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> MAX]
+
+WHAT?!
+
+He was still reeling when the next notification struck.
+
+[Skill Learned!]
+
+[Clear Skies Eye]
+
+Luckily he had the wherewithal to brace this time.
+
+[Level-up!]
+
+[Lv. 0 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> MAX]
+
+For the next few seconds he wriggled on the ground moaning. He was caught between extreme pain and ecstatic joy. This damned Technique! Salas was a hunter. He needed swiftness to catch his enemies, but also an immense perception. It may not have been Houyi’s eyes, which could see across the Multiverse, but it was nearly as good for his purposes. So long as the victim existed on the same plane, and there was clear sky above, he could track them.
+
+But if he’d gotten Carp Leaping the Dragon’s Gate and Clear Skies Eye…
+
+There could only be one thing coming next. The most potent Technique in Salas’s arsenal—the Technique that made him Godhunter.
+
+[Skill Learned!]
+
+[Bolt From the Blue]
+
+[Level-up!]
+
+[Lv. 0 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> MAX]
+
+He almost felt guilty, like this was cheating the Multiverse somehow. Three Godking level Techniques in seconds—though this he might not be able to use. It let him shoot arrows however fast he wished—from an inch a second to far beyond supersonic speeds—that could travel however he wished, aided by the winds; linear, arced, in loops if he so chose. The Laws of the wind and sky blessed his arrows.
+
+Of course it wasn’t very helpful without a bow. And most bows snapped instantly if he applied this Technique to them with any power. This whole realm might not have a bow that could suit his purposes—maybe the bow in his clone’s hands? He sighed. In his old body this wouldn’t be an issue; back then he’d had—
+
+[Spirit Weapon Gained!]
+
+[Bane of Dragons]
+
+An almost comically large bow appeared in his hands, a wooden behemoth with a string of liquid crystal.
+
+Dorian began to laugh.

@@ -1,0 +1,425 @@
+---
+id: b644f77b-3efa-5b4a-badd-8d14b0be4c30
+page-type-slug: story-chapter-royal-road
+title: "262 The Last Days"
+slug: 0221-262-the-last-days
+partOf: the-new-world
+position: 221
+ownLength: 6363
+unit: words
+ownProgress: 6363
+publishedAt: 2020-06-10
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/508526/262-the-last-days"
+royalRoadId: "508526"
+markedReadAt: "2026-06-29T21:28:35.696Z"
+---
+
+-Daniel Hillside
+
+The warping specialists stumbled into the temple grounds, Spear and I standing above them. I grafted a gravity well onto them while turning to Spear, "Take them to bed. They need the rest."
+
+The stoic guardian gave me a nod, grabbing and slinging the lightened bodies like sacks of flour over his shoulder. I walked into the temple, hearing the familiar machinations of Torix. Within his lair, he managed pins over a map of Giess, showing various population centers for rural and urban areas. Torix murmured as I walked in,
+
+"It would seem as though the portalists aren't with you to assist with your report."
+
+I shrugged, "They exhausted themselves. One of Spear's landing zones was over 200 hundred miles from a city, so they ended up making a hundred plus portal chain to close the gap."
+
+Torix winced, "Ah, exhausted is perhaps an understatement then." He turned from his work, "You seem no worse for wear, though perhaps you aren't standing as tall as usual...That and you haven't pulled your helmet off."
+
+I frowned, keeping my face hidden, "There's no reason, really. I just wanted to keep it on."
+
+"Hmm, well, it's certainly your choice. Did you manage to make a dent in the first city?"
+
+"I got rid of all three."
+
+Torix dropped a pin in his hand, his blue fire eyes shifting shades. A brilliant white overcame them,
+
+"All three?"
+
+"Yeah. I blew them up with big rocks." I stared at my hands, "It wasn't that hard honestly. Just...make a big rock over the city then pull it down." I shrugged, "They never saw it coming."
+
+"I...That's incredible. Are you certain they were actually destroyed?"
+
+"You can ask Schema's people after they wake up. From what I saw, it was a clean wipe for all the cities with some time to spare."
+
+Torix tilted his head, "So why did you all arrive just now?"
+
+I pointed at the temple's exit, "I had to carry the portalists after a certain point while getting to the last city. That slowed us down."
+
+Torix tapped his temple, "The limiting factor wasn't destructive potential but transportation...Interesting. This changes everything."
+
+"Like what?"
+
+"The number of cities we may devastate has exponentially increased. Here I believed it would take the remaining time we had left on Giess for you to maul the remaining locations, yet you've exceeded anything I believed possible."
+
+I frowned, "I mean, I could have done the same thing with an Orbital Bombardment using me as the bomb."
+
+Torix waved his arms, "Such a feat would be nigh impossible to maintain. Surely mental exhaustion would be a factor, given the sheer strain on your mind and body?"
+
+I wrinkled my brow, "Hmm, maybe? It's definitely a lot easier to use a big rock. It's less risky too."
+
+Torix spread his arms, "Regardless, I underestimated you yet again. If we were to destroy cities before the rebels retreat from Giess, we might stop them from rejoining their main forces. It would act as a method of limiting the number of blighted they obtain for future conflicts."
+
+"That makes sense. It's like hitting the enemy while they're sitting ducks rather than waiting for them to get ready."
+
+"Precisely."
+
+"That means I'll be taking care of cities from here on out?"
+
+"If you are able and willing, then yes."
+
+I processed that information in my head as Torix said,
+
+"We shall strike them with the wrath of an Old One. This will allow us to cripple them before they leave Giess. You may drastically raise your level as well, given the number of cities you could destroy. This is the perfect outcome for our guild as a whole."
+
+I stared at my status, my level sitting at 11,750. Torix was right about the rapid rise I could gain from the nightly exterminations. In one night, I won more levels than I had over the last three weeks of city raids. If I did this for the next week or so that we had left, then I could gain several thousand levels, both to my cap and total.
+
+I might be able to give Lehesion a few hard knocks if he came towards Mt. Verner then. Using dungeon cores, I could even accelerate my learning of specific skills too. That, combined with daily training, could get me much closer towards my Sovereign skill. Of course, I needed a specific legendary skill that worked well with my other abilities first, so that would need to take priority.
+
+What kind of skill would I want to gain was the real question. I peered off, thinking about it for a moment. From a destructive standpoint, I was a marvel already. Any more cataclysmic potential, and I'd be a walking, breathing calamity. In many ways, I already was, so I wanted to do something else.
+
+My thoughts drifted towards the golems and their potential to stop the eldritch problem. Yeah, that seemed like a much better way of using my time. It would be working on a weakness, my general utility skills. At the very least, it would be a way of balancing out my current expertise.
+
+Torix waved a hand in front of my face,
+
+"Daniel, are you listening?"
+
+I shook my head, "What? Not really. I drifted off there for a minute. I was thinking about my build."
+
+The lich crossed his arms, his cloak-like cape an inch off the ground, "Hmmm, perhaps you're more exhausted then you'd like to believe?"
+
+I scoffed, "It's more like I have more to think about now, not that I'm thinking less."
+
+Torix lifted his chin, "Ahhh, the woes of a leader. I do understand the struggle, and you most certainly have my sympathies. However, I need your undivided attention at this moment. Can you handle the nightly raids?"
+
+I nodded, "I can and will. I'll tear them down one by one, city by city."
+
+"Good." Torix eyes me over,
+
+"You know, you have me worried. It's rare to see you questioning yourself and even rarer for you not to be present during a conversation. I always marked that attentiveness as a strength."
+
+I rolled my shoulders, "I'm fine."
+
+"Hm, I'll put faith in your judgment. That being said, living in a sea of fire and rubble for days on end isn't good for the psyche, no matter how strong said psyche is. Make sure you're giving yourself some form of catharsis to keep yourself grounded."
+
+"Catharsis, eh?"
+
+"Indeed. It's essentially a method of purging negative emotions through self-expression. Perhaps discovering something you enjoy would alleviate some of the burdens your carrying. My teaching is that for me. You need only discover what that is for you."
+
+I lifted my eyebrows, "I'll admit, that would be nice."
+
+The lich shrugged, "Find something that will keep your sane during these insane times then, disciple. Whatever that may be, whether music, theater, perhaps reading?"
+
+I shook my head, "All that's fun, but I need to get another legendary skill."
+
+"Then search that out. Use the hunt as a method of anchoring yourself. After all, it's easy to lose who you are in the throes of war. In the ensuing peace thereafter, you may never find yourself again."
+
+The lich gave me a glare, the kind a teacher gives a student,
+
+"Do you understand my meaning?"
+
+I laughed a bit.
+
+"Yeah. I need to remember who I am, even when I'm kicking literal mountains worth of ass."
+
+The dark necromancer scoffed, "Indeed. Now, go find whatever that is." There was a glint in his fiery eyes, "Though I presume you've already found something that has taken hold of your interest."
+
+Thinking of the guarding golems, I nodded,
+
+"Yeah, I think so."
+
+If Torix had lips, they'd be grinning as Torix turned back to his work, "Then chase that curiosity. It will take you further than you could ever imagine."
+
+Letting him catch up on his work, I walked off. It was moments like those that reminded me of Torix's desire to teach. He loved it, and that passion showed more and more as time passed. Feeling a sense of inspiration from his own joy at learning, I walked towards the center of Elderfire.
+
+There I walked through Schema's landing point, finding mostly gialgathens but a few humans walking about. They helped the giants with tasks that required smaller hands. Of course, that came with conditions; serving the gialgathens was out of the question. I didn't want gialgathens thinking that humans ever had to obey them out of expectation. It would always be an exchange of skills.
+
+Passing by the cooperative groups, they stared at me with disbelief. A few gazed in awe but most gawked with some kind of genuine fear racing up their spines at the sight of me. Eh, maybe they'd seen me rip a Hybrid's head off once or twice on my streams. Either way, even the gialgathens gave me a breadth they usually wouldn't have.
+
+It was a strange sensation, one of near reverence. Despite those odd glances, I gave several of them a wave. I had to keep up appearances after all. After handling the masses, a wave of ionized air washed over me from the warp drive. I stepped out into the industrial section of Mt. Verner, passing by while letting everyone know to keep up the excellent work.
+
+My visits no longer attracted an unusual amount of attention anymore due to their frequency. Passing towards an exit,  I reached the outskirts of the mountain, finding my golems standing right where I left them.
+
+Well, standing wasn't the right word. When idle, the golems sat in piles of dark, jagged clusters on the ground. A sharp eye would spot them as unusual, mainly from the subtle hue of mana radiating off them. Without that kind of mana sense, they were effectively invisible. Given their density and weight, a few of the larger pieces even sunk a few inches into the dirt, exacerbating the hiding effect.
+
+As they woke up, I waved off a few birds resting on their shoulders before clapping the golems awake. Cracking my knuckles, I peered at each of them
+
+"Come on now, rise and shine."
+
+Their floating joints tumbled about as they rose from their slumber. Confused and disoriented, the young minds stumbled around, some of the golems running into nearby trees. One of them tripped over a different golem, falling back apart. I facepalmed, getting mad Hod vibes.
+
+This was a fight, just like any other. It wasn't the kind I was used too, but I'd win all the same. I peered at each of them,
+
+"Alright, everybody. Front and center."
+
+The golems floundered over, some of them even mixing up pieces of their bodies. I pinched the bridge of my nose,
+
+"This is going to be a lot of work."
+
+A lot of work was an understatement. It was an absolute pain in the ass, but not for the reasons I expected. The golems turned out to be diligent, obedient, and determined students. The issues arose from how literally they took anything I told them. Even a slight mishap in my phrasing resulted in substantial splintering in their behaviors.
+
+Once more, I was reminded of why I wanted to craft the minds from scratch but better. After a few practice exams with the golems, I learned a few of the specific mistakes I made while creating their protocols. Taking notes in the trunk of a nearby tree, I ended up redesigning a few parts of how they did their guarding.
+
+Armed with that knowledge, I went about recreating another set of instructions for them in the cipher. Finishing it up an hour or two later, I created more golems, grafted the new cipher onto them, and tested the changes. Another crop of issues showed themselves, so I went about fixing them yet again.
+
+It may sound exhausting, but it rejuvenated me in actuality. I enjoyed working on something that mattered, and this was a nice change of pace. I even began reaching out with telepathic tethers to communicate with them. They sort of understood words, but my meaning was often lost in translation. When talking by our minds only, misunderstandings were far less common.
+
+It made Torix's mental combat lessons more practical. Speaking of which, I warped back towards Elderfire, got my ass kicked by said lich, then went back to the golems. With a throbbing headache, I kept at it until the sun began setting in the distance. Having made significant progress, I rolled my shoulders and prepared myself for my nightly duties.
+
+Settling the golems down in the trees, I warped back towards Elderfire for another night of bloodshed. Cities burst to ash in waves of light, force, fire, and fury. It happened fast, as fast as clearing out a dungeon, for instance. With the plans set up for me, I went through the motions, using dark meteorites to decimate towns.
+
+It was a strange way of spending time. On the one hand, I made unbelievable progress. We passed our three towns a night goal in just a few hours. Deciding to continue, we pushed further into tomorrow's schedule. This tired the warpers out, but I was okay. In all honesty, this was...easy.
+
+My levels shot up in much the same way. Ever since passing about the 8,000 mark, I hadn't noticed my level ups much. They happened in bursts of a few hundred at most, meaning they never created a substantial change. Diminishing returns ensured that despite getting over a hundred levels at once, they lacked the punch one level used to have.
+
+These city slaying ventures were those same chunks but dispersed several times overnight. It was a kind of progress I never expected to have again. With each city, I sharpened up my sight, my mass increasing. I strengthened as each stone impacted a settlement. As my weight grew, I suspended the boulders overhead using even less effort. I also generated the masses quicker, building more immense, more hardened stones to smash with.
+
+These subtle alterations made the barrages even more effective, leveling my Orbital Bombardment skill. In many ways, it acted as an unsettlingly effective killer, my ability to erase entire cities from the map unmatched. Without the legalization of nuclear weaponry, this kind of assault was all but necessary. Being able to do so without planning or machinery made my magic sickening to behold.
+
+From city to city, village to village, I tore apart the entirety of Giess. A globetrotter unbounded by distance or time, I ripped the whole of their new civilization apart. When I began my bombings, we only had nine days left on Giess before the scheduled glassing. Including our own evacuation time, that gave us only a week to dish out damage.
+
+And I culled them all.
+
+Torix planned better once he learned the full extent of my abilities. He lined the cities closer together, saving us travel time. It exhausted the portalists less as well. They still suffered intense mental exhaustion, each of them nearly delirious after the first few days. They ended up only willing themselves through twelve more cities.
+
+After the warpers needed rest, Spear and I went onward, slower than before, but still blistering through cities compared to before. Even at this newfound pace, I gained levels on top of levels from that night alone. I got into a flow of destroying a city, placing my points into endurance, and then moving on.
+
+It became routine as all things do. Spear and I trekked through Giess's landscapes on our own. The sheer repetition involved with both bombing the cities and traveling made the evenings drag together, like a night that never ends. Never needing to sleep exacerbated that issue, and it was like living two lives, one of destruction and the other of creation.
+
+Those nights, they wore me down. Even if I held myself together through them, that kind of mission still haunted me. Even Spear tired himself out after a few days, though the indomitable protector refused to show it. All the strain from portaling made Helios's mastery all the more impressive. Spear held his own in that regard, however, so we pushed forward and hard. After all, each city we destroyed showed an impact, both in levels and in any reports I read.
+
+The Emperor was the primary source of that information. Within the first three days of my attacks, fewer Hybrids attacked Obolis's cities. Each crater I left in my wake meant fewer blighted ones covering the skies on the Empire. Even the countrysides of Giess cleared out some. By the time a full week passed, I had destroyed forty-three cities, settlements, and hive clusters.
+
+Some of them weren't as large as other settlements, and they gave me fewer levels as a result of that. When it was all said and done, I rested at a comfortable level 15,000, the same level as an entirely capped out Fringe Walker. This rapid progress showed itself in my form and stature. I outsized Spear by quite a bit now, and my general aura seemed to match my increase in levels.
+
+It wasn't as if I changed, though I had. The main difference was in what people believed of me. Before, I was the killer of Yawm and a walking army. Now I tread onto the path of a world-destroyer, a being to be whispered of and feared. It happened quick, something I didn't expect but appreciated.
+
+Well, destroying dozens of cites single-handedly tended to do that.
+
+It resulted in what Schema branded as the seven-day harvest. According to Torix during our mental battles, our number of recruits from other guilds over doubled. It was complicated getting them admitted into the guild considering our security concerns. It did give us an influence exceeding Giess and Earth, however.
+
+Regardless of the details, my fame rose by orders of magnitude, at least based on what Torix told me. Time would tell the validity of his claims. It gave me a lot to think about between the cities I culled.
+
+I mean, my increase in levels bolstered Schema's claims. After all, a sentient's levels showcased their worth in Schema's society. Showing my rise despite being a classless, backwater savage, well, it was inspiring to many. It also painted the war against the Adairs as a feeding frenzy rather than the brutal bloodbath it actually was.
+
+Schema milked that illusion for all it was worth. To me, that idea was a bad joke, one without a punchline or any bite to it. For me, those nights passed like bathing in a sea of blood. Killing. Rubble. Fire. The massacres all blurred together, a living fever dream that never seemed to end. Despite the burden of it all, the rise in levels and popularity was...nice. I wasn't void of an ego after all, and being appreciated livened me up regardless of the mass-murdering context.
+
+It was better than being looked down upon, that much was for sure. I could just imagine how much Helios was chewed out by the Emperor for how he treated us early on. Karma had a way of catching up after all.
+
+We even gained a few offers for allyship from other guilds besides the Empire. It was mainly from alien factions offering to join us and our effort. It turns out, being painted as a hero acted as a fantastic method of getting people excited for a cause.
+
+It was all very strange to me. On the one hand, here I was, killing millions of people. On the other side of the equation, everyone was showering our guild with praise and adulation. It showed a rift between reality and perception, one that Schema actively exploited. The AI was beyond ruthless, and Schema commended my guild for our mass murdering methods.
+
+Those thoughts unnerved me for many reasons. At the same time, I was doing my best with the knowledge I had. At least my progress with my golems kept me sane during all the madness.
+
+I found that programming minds could only take me so far, even with very advanced schematics. At some point, teaching them was required for progress. A day or two into teaching, and suddenly writing new cipher inscriptions seemed better. This push and pull went back and forth during the seven-day harvest.
+
+When I hit that wall with cipher runes, I turned towards teaching. When I stalled from training, I wrote out a few new codes for them to follow. This pattern made my progress steady but never too quick nor slow. In the teaching aspects, I went to Torix for help. He patiently drilled in the basics of teaching via a long lecture with questions.
+
+Was it boring? Well, kind of. Was it useful, though? Absolutely.
+
+Using his techniques, I gained further insight into how learning took place. For instance, one aspect of teaching was to use a student-centered model rather than a teacher-centered one. The idea was surprisingly simple - focus on learning what the students know rather than what they didn't.
+
+For example, a lot of students struggled with math. They used a particular method for solving a problem and came up with the wrong answer. A short-sighted teacher would assume that the student's approach must be completely wrong, so the student should discount their own thinking entirely.
+
+This disengaged the student, mounting their frustration and wasting their time. They could've been almost correct, but a teacher's laziness stopped that progress from being recognized. This style of teaching focused on imprinting a teacher's thoughts onto the students, and it stifled critical thinking.
+
+A wise teacher worked to understand the student's knowledge set. Once known, they could revise the errors and build from that base of knowledge that the student already had. After all, you can have 90% of the process right but still come up with a wrong answer in something like math. Scrapping a method that's so close to correct was like throwing away a house that's 90% built. It would be a huge time and effort sink, one most people couldn't afford.
+
+Especially these golems who had the intelligence of cloth.
+
+The tricky part of this new teaching method was designing a course that enabled this kind of learning. It required challenges that were approachable, challenging, and rewarding. If I did that and let the golems develop themselves, their knowledge would go deeper than the surface level regurgitation my previous teachings resulted in.
+
+It was complicated as hell, but I found much better results from this method of instruction. When it all clicked in my head, this new teaching method was far less complicated than what I did before. Instead of carrying out courses, I just carried the golems to a dungeon. Once inside a cavern or the like, I watched them struggle on their own. As they fumbled against monsters much weaker than them, they learned tactics against certain enemies. If they stalled, I nudged them in the right direction through a few mental conversations.
+
+The tactics they learned proved simple in practice, like how to fight stone gargoyles. If the golems swung at random, they ended up being attacked between their swings. If they waited until after a gargoyle committed to attacking them, then they could land a killing blow as it swooped down. It sounded obvious, but it wasn't to these knuckleheads.
+
+Either way, we made reasonable progress within a week. It wasn't as if these golems could use something like language. As for beyond basic fighting, they comprehended a bit more than when we started. The progress from these tactics slowed down as time passed despite my efforts, so I shifted focus back towards mind magic.
+
+It wasn't anything too grueling, but prodded them from certain mental angles. It was kind of like there minds were spheres, and you could attack from anywhere to crush them. My goal was to get them to guard against an attack from any angle. Multiple attacks or sophisticated tactics were out of the question, but that basic defense would do wonders given their vast repositories of willpower.
+
+These days of cultivating a few quiet, unassuming golems made a world of difference for me. I wasn't changing the universe or anything, but it was a personal, long-term goal that kept me centered. As we finished up our efforts on Giess, I resolved myself to continue studying and researching methods of expanding these golem's minds.
+
+I believed I was onto something here. If I could mass produce these things, people wouldn't have to fight for their lives in dungeons anymore. It was a purely good thing that I didn't have to think too hard about whether it was right or wrong. Instead, I could just dive in with focus and creativity like crafting armor or designing a training schedule.
+
+I looked forward to spending more time on it as I finished my last city slaughter. City wasn't quite the right word. It was more of a facility center, something similar to a power plant underground. I used a sharp stone I developed during my attempts at destroying cities. A simple coating of metal let any rock go far deeper into the ground before reacting kinetically.
+
+It left a cauldron in the ground, the deeper explosion underground causing less annihilation at the surface. Magma pooled at the pit's bottom, glowing orange and red. The dust settled a while back, and now I waited along a stripped hill for Spear's return. A dimensional rip appeared beside me, and Spear hobbled out.
+
+Leaning onto a spear, he suppressed the urge to vomit. I went and picked the guy up, and we headed towards Elderfire. The Sentinel exhausted himself during the last seven days, his constant warping in and out of city ranges taxing his mana. After several hours of travel, I hovered him with a gravity well. He kept his head down as I turned to him,
+
+"What about using portals is so tiring?"
+
+Spear murmured,
+
+"There is a sense of exhaustion similar to motion sickness that takes place. Different individuals carry different tolerances for this kind of transport. Mine vastly outweighs those portalists that Schema sent us. Helios's vastly outweighs mine."
+
+"Aren't you using the spear for it?"
+
+"The spear is a tool. Using it to warp is like using a hammer to smash nails into wood. If you smash a thousand nails in a row, then you're bound to hit your hand at some point. Continue doing so, and your hand will lose function. One's concentration during warping is similar, and it can only continue for so long."
+
+He stared down, sounding sick,
+
+"And...this gravitational travel is not helping."
+
+I rolled my eyes, "Don't stare down then."
+
+Spear murmured, "Please...Flip me upward."
+
+I did as the guardian asked, and he sighed with relief. Sailing into Elderfire, we floated over a city full of movement. Dozens of crates, sleds, mana driven platforms, and even storage rings were being dispensed. On these carrying devices, food of all kinds was crated towards the center of town. Personal belongings and other possessions stored into the dimensional rings. As for the necessities, those took up the bulk of the physical space fitted into each warp.
+
+Torix stood at the center of Elderfire, peering at the flow of traffic with the intensity I expected from the lich. Unable to help himself, he dispensed timely advice,
+
+"Keep your distancing orderly. Calm yourselves. Time shall pass. You all shall leave...eventually."
+
+Torix lifted a hand, projecting an image of a human woman and man, "Though tempting, do not eat this species. They are the origin species of our guild leader, and eating them is forbidden, as is to be expected."
+
+He grumbled, "As is experimentation, but that too, is to be expected."
+
+The gialgathens kept their telepathic conversations open as they moved, letting others listen in. Several of their conversations entered my mind all at once.
+
+"That's the species of the Harbinger? I thought they were metal."
+
+"I believed them beings of pure energy, manifesting as physical monsters."
+
+"He comes from humble origins. Surprising. I expected more from them, though perhaps they're hiding their potential. Their species spawned him after all."
+
+It was about the response I expected. Even when humbled, the gialgathens hadn't lost their haughty natures, at least not entirely. It wasn't outright derisive, however, so I took their responses as a net positive. Torix kept them all in line as I floated up to the guy with Spear tailing not far behind.
+
+Reaching beside them, Torix looked me up and down,
+
+"You seem rather well considering you spent the entire night causing various explosions. Spear seems far more affected. Perhaps he should've invested more into willpower, hm?"
+
+I shook my head, "He has some kind of portal sickness."
+
+Torix facepalmed, "Ah, of course he would. It's a common problem. Perhaps we may garner more portal support from different members that have joined us recently. I'd completely forgotten about it."
+
+Torix sighed, "Gah, I need an AI to automate some of my tasks. Details are beginning to slip from my grasp. Those details may one day equate to lost lives."
+
+I peered at Spear, "How does portal sickness work?"
+
+Torix raised a finger, "It spawns from two diverging issues. On the one hand, shifting perspectives and scenery over and over creates a motion sickness in certain people. Just as well, portals require a measure of visualization."
+
+Torix raised both his hands, "Imagine immersing yourself in a different place while being in your current one. It creates a difficult dichotomy, one where your consciousness almost splits. As it comes together, it creates a refocusing that can be difficult to withstand. This is why many struggle with it. Think of it as a very talent oriented field of magic."
+
+Torix put a hand on his chest, his chin raised, "As a lich, I do not suffer from said motion sickness. It's a part of how I organize my senses through my body. These limiters give me a measure of resistance to portal sickness that many warpers lack."
+
+Torix coughed into a hand, "Though my distance abilities are low."
+
+Torix turned towards the crowd of gialgathens being warped from Elderfire, "Despite those very abilities, it will be difficult to manage everything given our now splintered operations."
+
+I raised an eyebrow, "Splintered, huh?"
+
+Torix glanced at a warp-drive as it fired off, "The issue is in partitioning out our base of operations. As is, Lehesion assaulting Mt. Verner would decimate our guild. Therefore, the security of information is absolutely essential for our continued survival. I've issued basic mental screening along with a few technical checks that John Mcsmitty enacted. For now, it shall suffice."
+
+I scoffed, "Man, I can't get over that guy's name."
+
+Torix shrugged, "He works well for what we need him to do. I assume he's the reason that several Empire scouts discovered Mt. Verner's location. Regardless, he hasn't harmed us yet, and we've allied ourselves closely with the Empire already."
+
+Torix winced, "As is, it's only a matter of time before the Adairs uncover Mt. Verner's location from the Empire. Our trading with the Emperor has already ceased due to their rebellions. Though they may not uncover our exact location, they shall uncover the planet we're nestled on in time."
+
+My eyes widened, "That's bad. Real bad."
+
+"Indeed. They may find us yet."
+
+I shook my head, "That's not what I'm worried about. The issue is they might just blow us up completely. The earth that is. I mean, the Hybrids and espens haven't evacuated Giess. If anything, they've expanded operations across the planet. That means they have confidence Giess won't be glassed."
+
+Torix shrugged, "There's little we can do here that haven't already done. Glassed or not, our time here has already come to pass."
+
+"Yeah, but the thing is-" A loud set of flapping wings interrupted me, so I turned towards the desert skyline. Chrona and Krog flew up towards us. Torix lifted his hands to them,
+
+"Ah, it is good to see our generals alive and well. I assume you've saved more gialgathens then?"
+
+Chrona grinned, "We did. I saved fifty-six while Krog over here only saved forty-eight." Chrona turned to the red and orange gialgathen, "Perhaps fighting in the Harbinger's shadow has made you soft?"
+
+Krog grumbled, "Your stasis is the only reason you saved more, and you know it."
+
+Chrona lifted her chin, "Ah, discounting earned skills, I see? I understand. Being humbled is a harrowing process."
+
+Krog frowned, "We've all been humbled."
+
+Chrona grinned, "Some more than others."
+
+I rolled my eyes, "Come on, guys. Let's focus."
+
+They turned towards me. The gialgathens paused for a moment as if frozen before they jolted upright. Both of them met my eye, and their heart rate spiked. They both kept their composure, but some kind of invisible pressure left them on edge. I looked them over, and it popped in my head.
+
+They were afraid.
+
+I looked back and forth at them, "Uh, you guys okay?"
+
+Chrona nodded, "Of-of course."
+
+I scoffed, "Did a Hybrid pull your tongue out?"
+
+Chrona shook the wave of fear off, "As if they'd ever catch me."
+
+Krog peered at me with reverence, his eyes distant. He shook his head while staring down,
+
+"In our long history, we've never seen a hero of such renown. Incredible."
+
+Hero? Me? Pfff. I was a killer with a few good points.
+
+I scratched the back of my head while looking away,
+
+"Uh, thanks, I guess."
+
+Blood rushed to my face, my face brightening red. Wait, my blood looked like silver, and my skin was gray. Maybe they didn't notice. Yeah, I'd just act like they didn't notice. Torix caught on, however, so he nudged me with an elbow,
+
+"Ho, ho, it looks as though even the great Daniel Hillside can feel a measure of embarrassment."
+
+I glared at him, but he stood his ground. It felt good that he still acted as my equal. I turned towards the two gialgathens in front of me, each resting their wings,
+
+"Guys, just treat me like you always have. Nothing has changed between us."
+
+Krog shook his head,
+
+"That simply is not true. Lehesion carried us out of the dark ages. You have done more, carrying us out of extinction. For that, you've earned my gratitude."
+
+I blinked, "Uhm, I'm glad to hear it." I waved a hand, "But, er, how is the transition towards Mt. Verner going?"
+
+Chrona peered down, "Poorly."
+
+I raised an eyebrow, "How so?"
+
+Chrona sighed, "We...are large creatures, and while your planet is lush with life, it is incomparable to Giess. We need large volumes of food, and I don't believe our kind can feast on the deer and cows nearby for much longer."
+
+"Why not just eat eldritch?"
+
+Chrona's tail whipped behind her, "It is possible, though few dungeons carry edible animals. The issue is that Mt. Verner is not large enough for a population of several thousand gialgathens."
+
+Torix clapped his hands, "Perfect. We shall use each of you to establish a control zone in our city expansion plan."
+
+I raised my eyebrows, "City expansion, huh?"
+
+Torix turned a palm to me, "Indeed. It involves opening several more bases, similar to Mt. Verner. They shall remain secret and controlled by trusted individuals I've carefully curated. They shall increase the guild's income tremendously, and our reach will expand as well."
+
+I frowned, "I don't know about that. Our guild is easy to defend since it's all in one place. We also have a tightknit community that we can trust. Accepting everyone would mean our guild loses that elite feel it has."
+
+Torix nodded, "That is precisely why I've set up a specific protocol for joining, a ranking system of authority, and a reward system based upon merit. I intend to maintain a respectable organization but on a larger scale."
+
+Torix leaned towards me, "After all, we cannot fight an interplanetary rebellion unless we can fight on many planets. As is, our guild has struggled to maintain a battle on even one."
+
+I bit my lip before letting my hands flop against my sides, "Yeah, you're right."
+
+Torix stood upright, "Thank you for listening to my reasoning. Now, I don't know if you're weary from your journeys, but perhaps you may assist with moving supplies towards Mt. Verner? You own by far the most dimensional storage space out of anyone in the guild, and your gravitation magic may help us as well."
+
+He coughed into a hand, "And you may also move goods that are...less legal in nature."
+
+I gave Torix a thumbs up, "Smuggling, you don't say?" I turned towards Chrona and Krog, "It wouldn't be my first time. We'll definitely work something out as far as the food situation is concerned as well. I mean, I can make animals to eat like we did here."
+
+Chrona raised her eyebrows while sticking out her tongue,
+
+"The creatures here...they lack taste."
+
+I shrugged, "When you can feed an army with your own mana, then you can complain. Until then, eat the magic tofu without whining."
+
+Chrona sighed, "Yes, sir."
+
+I waved an arm in a circle, "Alright, let's move some gear."
+
+Torix pointed in the right direction, and I went to moving stuff. Most of it was necessary, though a bit of it was fluff. It was good the gialgathens were keeping their culture, though, and I wouldn't want them to stifle themselves just to fit in. It was better they spread their wings and fly, both literally and metaphorically.
+
+Those thoughts drifted through my mind as I picked up a massive haul of produce. Taking an absurd amount of goods, I shoved crate after crate into my dimensional storage without end. Millions of pounds later, I lifted more containers with gravity and moved towards the warp. As the ionization commenced, a mild, vinegary scent wafted in my nose, the air sterile. When the transport ended, I took a deep breath while looking around.
+
+Yup. Things changed around here.

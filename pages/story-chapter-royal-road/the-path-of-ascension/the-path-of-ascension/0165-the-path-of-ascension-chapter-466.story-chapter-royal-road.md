@@ -1,0 +1,361 @@
+---
+id: 0901b6bd-1882-5b47-a1cb-09e82709a17e
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 466"
+slug: 0165-the-path-of-ascension-chapter-466
+partOf: the-path-of-ascension
+position: 165
+ownLength: 4836
+unit: words
+ownProgress: 4836
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2862862/the-path-of-ascension-chapter-466"
+royalRoadId: "2862862"
+markedReadAt: "2026-06-29T19:33:25.918Z"
+---
+
+Chapter 466
+
+When they arrived at their target world they were immediately accosted.
+
+In rapid-fire Guild, the Tier 34 started barking at them, “The Deathly Due’s guild is in command of this world and its strange realms. We are charging anyone who wants to use one of the strange realms. We—”
+
+Hearing the shakedown start to really get going, Matt tuned the man out, inspecting the two strange realms.
+
+The first was the most popular, judging by the teams slowly following the near invisible cloud. It was well hidden as it drifted through the planet's sky and ignored any and all weather patterns, but was obvious to spiritual perception.
+
+The second strange realm, the bloodline one, was far more interesting visually in that it appeared to be the sun-bleached skull of a large monster.
+
+Once Liz bartered with the occupying guild, they finally got full information packets on both of the strange realms.
+
+Seeing how the bloodline strange realm tested its participants, Matt wasn’t too surprised that he’d not be able to enter with the four on their team who had a bloodline. He didn’t particularly like the idea of leading a pack of his bloodline though a cataclysmic event.
+
+Unable to lie to himself, Matt cursed the skull. It could have still let him help.
+
+He was, however, able to enter the spatial strange realm and he was quite happy with that.
+
+Best of all, the rumors had only mildly exaggerated the reward being similar to a Domain-based [Inventory]. It was true, but only to those who reached a reportedly high threshold in the strange realm.
+
+Having bought their ticket two and a half days later when the space strange realm cycled, they and almost a hundred others entered. Even the people waiting for the bloodline strange realm entered if they hadn’t already done so before wanting to try their luck.
+
+They appeared inside a warehouse-sized room, unnecessarily jumbled and cramped together.
+
+Taking to the air, Matt quickly found his group hovering near the floor in a corner, knowing the excitement was about to start and wanting no part of it.
+
+In the center of the room, a fist-sized ball of light flickered to life near the ceiling.
+
+A wisp.
+
+It started out as a vibrant white but as it started to slowly drift to the floor, the color started to shift randomly through the visible spectrum and slightly beyond it.
+
+The moment the wisp reached the halfway point, the color froze in an ultraviolet wavelength. At the same time, knowledge appeared in his mind. They had, collectively as a group, half an hour to catch the wisp before they were all ejected.
+
+The first target set, everyone sprung into action.
+
+Skills flashed, weapons cut, blood flowed, and absolutely no one caught the wisp. No one died— this strange realm was safe— but that only enabled people to fight without holding back.
+
+The ultraviolet wisp floated through people’s grasping hands, nets, skills, and everything else utterly unimpeded. It caused havoc as teams fought to keep up with the ever moving target while trying different things.
+
+Matt turned to their resident teleporter and looked to see if she had any ideas, but she was already shaking her head.
+
+The answer turned out to be nothing he would have tried.
+
+An attractive man in their opposite corner, clearly bored, started playing a stringed instrument. He’d only been quietly playing for a moment when, out of nowhere the ultraviolet wisp ceased its meandering to head straight for the man.
+
+Seeing the answer, a surprising amount of people pulled instruments out of their own storage devices trying to attract it. The smart ones started singing and humming while getting as close as they could. The varied attempts caused the wisp to bounce around from target to target, going nowhere.
+
+Watching as two singing teams slung spells at each other was almost amusing, but it proved to be the correct play as a burly man belting out the lyrics to a poem was within arm’s reach as the ultraviolet wisp targeted him.
+
+Reaching out, the man succeeded in snatching at the wisp unlike so many others before him. When he touched it the ultraviolet wisp vanished into his arm not a remnant to be seen or felt.
+
+Everyone paused but no one attacked the man. The wisp was gone and they couldn’t get it back.
+
+And he didn’t matter any more as they now knew the method.
+
+At the same moment as the man caught the ultraviolet wisp, the room they were confined in expanded. It didn’t quite double in size, but that increase would be the ultimate limit of how long they could stay in the strange realm.
+
+A wisp had to be caught every thirty minutes or they would all be ejected. That was easy enough on its own, but every time a wisp was caught, the room nearly doubled in size, growing by even greater amounts the longer it went on. Eventually, the available space would become so large no one would be able to find, let alone catch, a wisp within the time limit.
+
+In the center of the room two wisps started to fall from where the first one appeared.
+
+One was an identical ultraviolet wisp, but the second was going through the color choosing process the first had gone through, and every team not planning to chase the known entity watched on in anticipation as it pulsed.
+
+The room split, but it was uneven, with most people seeming to prefer trying their luck with the orange wisp.
+
+Once more, people passed through the wisp instead of being able to capture it and the cycle started to repeat itself.
+
+Smiling, Allie turned to them. “Good luck.”
+
+Like a minnow in a group of sharks, no one seemed to notice Allie as she slipped between teams.
+
+It wasn’t a magical effect, but rather her infiltration training being put to work.
+
+Grinning at Liz, Matt looked towards the melee centered around the orange wisp that was slowly speeding up as it remained free and uncaught. Her expression told him all that he needed to know and he launched himself upward in the same moment she did.
+
+Their departure caused their entire group to split up and go their own ways.
+
+Matt noticed Aster, Susanne, and Gan Le going after the now third ultraviolet wisp, singing together as a red wisp was born.
+
+Reaching the orange wisp’s fight, Matt and Liz both darted forward, trying to force themselves into the melee and get next to the wisp.
+
+Their attempt proved futile as the orange wisp was captured by someone who still had the habit of closing their eyes before being struck in the face.
+
+However shameful that may be, they were the first person to close their eyes and the moment they did so, the orange wisp pivoted to them.
+
+With four colors figured out and several wisps caught, the room had grown to the size of a moon, even as wisps were forming faster as people learned the methods. The only thing slowing them down was the new colors people hadn’t figured how to capture yet.
+
+As someone figured out and collected the sixth color of wisp, they collectively started blinking in and out of visibility in perfect unison.
+
+That was the final hurdle for the strange realm. As if an ever growing room wasn't enough of a challenge, the wisps became invisible to all senses for longer and longer periods. Thankfully, they were still catchable so long as you followed its condition.
+
+Reaching a purple wisp no one had been able to identify yet, Matt covered one hand with mana and the other with a thin layer of ambient essence.
+
+Neither worked, and he was kicked off to the side as three Tier 31s arrived and started fighting over the orb before it vanished.
+
+A small, star-speckled hand, slipped in and grabbed at the wisp’s tail instead of its orb.
+
+Seeing the light vanish, everyone felt their internal timers reset and the room continued its expansion.
+
+Reacting a moment before him, Liz reached out and snagged an orange wisp as it reappeared between them.
+
+Celebrating she was able to beat him, they both took off chasing a newly reappeared ultraviolet wisp with her tune quickly turning musical trying to entice it.
+
+Whistling, he beat Liz there but was still a step too slow as a Tier 30 got there first and captured it.
+
+As a purple wisp reappeared closeby, he used [Cracked Air Slide] to slip ahead of the competition, aiming for and grabbing the wisp’s tail and successfully capturing it.
+
+Matt didn’t feel any reward beyond what his own brain provided, but he was still happy tying things up with Liz.
+
+Seeing her forced to skirt around a music battle over an ultraviolet wisp, he bypassed the fight, giving him back a little bit of his lead.
+
+Everyone paid attention as the next new wisp ended up blue. A new variable had been added to the available wisps, and four teams surrounded where it would start.
+
+The blue wisp didn’t take off, instead it floated there for a heartbeat before it caused havoc by teleporting away when its descent ended. Standing there ineffectively, the teams scrambled to catch up.
+
+If it hadn’t done so while remaining visible the entire time, letting them see it reappear, they might have thought its gimmick was that its invisibility was on a different cycle.
+
+People who were nearest its new location tried to grab it before it could get away, but it seemed the moment someone got within a foot of the wisp it would automatically teleport away.
+
+Matt was fairly confident despite not knowing where she was, that Allie would probably be the one to catch that wisp and as such didn’t even bother fighting her for it. Instead he went after an orange wisp he’d briefly seen a moment ago.
+
+He failed to get that one, as another group arrived first, but as more and more wisps were caught and the room expanded, everyone started to spread out. Competition over the wisps diminished but once one was found fights were inevitable if a second group was close.
+
+After the twenty fourth color of wisp was collected, they stopped visibly falling all together. A wisp would flash as it reached the bottom of its descent, but with them being invisible more often than not, everyone was starting to struggle.
+
+New colors started to appear even less frequently as the latest color needed to not only be located, but puzzled out before it was caught. They still caused a commotion, but people had started to settle in.
+
+It was also the best possible thing for Matt, as mobility had never been his limiter.
+
+Seeing a flash of white light in the distance, he [Portal]ed next to it, already knowing how to ‘catch’ it.
+
+Touching the wisp, he stepped back through his [Portal], waiting for his next target.
+
+Seeing a pink wisp appear directly behind where a group had been searching, he spent fifteen minutes chasing the wisp down. With his success, he collected both the white and pink wisps in one fell swoop.
+
+Watching Aster, Gan Le, and Susanne pinning a gray wisp between three of them, he didn’t bother going to say hi, knowing he’d only ruin their efforts. The gray wisps were repulsive to cultivators. It took at least two people working in cooperation to capture one. Though three, as they proved, had a far better shot.
+
+Spotting a red flash, Matt and a dozen others started running away from the orb.
+
+When it pulsed back into visibility, everyone turned to drive off the woman it was chasing so she couldn’t slow down and let it catch up to her.
+
+According to the information they’d gotten before entering from the guild watching over the strange realms, capturing twenty wisps was the absolute minimum requirement for getting the reward.
+
+They were, of course, the main reason why everyone was entering, but the secondary rewards weren’t bad either.
+
+With that in mind, once Matt reached his necessary quota, he [Portal]ed around to ensure everyone else had succeeded.
+
+The trio of Aster, Gan Le, and Susanne were the only ones beyond the crew who hadn’t finished, but that was because they were specifically targeting the less popular gray wisps. While harder to catch, with so little competition, they were monopolizing the type and would be fine.
+
+Instead, he found the rest of the crew, and along with help from Zack, Liz, and occasionally Allie when she didn’t have a teleporting wisp to hunt down, ensured the others reached their quotas. They’d already banded together and were making good progress, but with five of them, they were behind.
+
+By funneling all the wisps they could, they ensured all of their group reached the threshold by the middle of the second day.
+
+Having done their duties, Matt and Liz split off from the others. Half a dozen [Portal]’s later, they found themselves well and truly alone, with only the occasional twinkle to urge them forward.
+
+They succeeded, but time started to punish them.
+
+While in the beginning the largest challenge was solving the wisps' unique catch methods, after the second day, finding the increasingly invisible wisps became the real struggle.
+
+In the first few hours, the mental countdown was resetting constantly. But after the first day, they constantly saw the ten minute range as their thirty minutes ticked down further and further after every reset as people struggled to catch a new wisp.
+
+As a disorganized group scrabbling over the final dregs, they stabilized in the single digits for another two days. On the third day, they didn’t have a single catch that didn’t see the timer reaching less than five minutes remaining and more often than not it was down to the last minute.
+
+As the last seconds ticked down for the final time on the morning of the fourth day, Matt felt the thirty four wisps he’d accumulated start dissolving into a transformative energy waiting to be released.
+
+Exiting the strange realm, their entire group was jubilant.
+
+Matt couldn’t wait to share their close victories and complain about his narrow misses.
+
+Feeling the power reach and surpass a critical point, Matt felt a similar process to the last strange realm that carved an Intent power onto his Domain.
+
+Gathering into an impossibly narrow point, the energy poked the tiniest hole into his spirit. Like a needle filled with liquid just a tad too cold for his liking, Matt shivered as he felt the remaining wisp energies pour into the hole they’d made.
+
+It both expanded the small space now suspended in his Domain, and made it slightly easier for Matt to feel the fabric of space itself a little better.
+
+As the last bits of power infused him, his full attention was yanked away from the process and over to Aster as she started to claw at herself as she lost control over her flight.
+
+Falling wouldn’t hurt her, but a thought caught her even as she writhed.
+
+Blasting through the mental barriers they normally kept on their bond, Matt tried to figure out what was going wrong, but she didn’t know any more than he did.
+
+Thankfully, the initial panic lasted only a moment. Some of the other groups looked over to see why one of their members had fallen to the ground, but none of them cared enough to pry when they saw everyone else ready to fight.
+
+When she got herself under control, Aster grabbed Matt and Allie’s hands, transmitting what had happened. “A part of the spatial reward tried to affect my Tier 25 Talent. It obviously failed, but it wasn’t pleasant about trying. I’ve never had a reward try to stab me so many times. Ouch!”
+
+Using skin contact, they passed the message on to the rest of the team.
+
+Matt wasn’t sure he understood the full implications of that.
+
+Talents, with very few verified exceptions, weren’t able to be modified by strange realms. It was no more possible than Minkalla doing it.
+
+Except Aster had felt that part of the strange realm’s reward had tried, repeatedly, to affect her Talent.
+
+That normally only happened for skill type Talents. They came in many flavors but they were the main type that could sometimes be modified but they were all inherently malleable.
+
+Unique spatial Talents weren’t on that normal list.
+
+However, that only raised the same question Aster had started pestering him about.
+
+Was her Tier 25 Talent spirit space not unique to her Talent?
+
+If a strange realm, something that never deliberately tried to affect Talents, tried to modify her Talent, then the answer would seem to be yes.
+
+If that was the case, why had they never heard about other people having spirit spaces without a Talent?
+
+Matt had no answers, and neither did Aster, as everything they learned about her Talent indicated it was something only ever seen via that singular method. He did know he’d be helping her look into the mystery when they returned to the Empire though.
+
+Far from a negative, it implied her inclination to expand and grow her Talent might be something deeper than it appeared at first glance.
+
+Depth in the Tier 25 power Talent was far from rare but if Aster could develop her Talent via outside methods she could possibly turn her Talent from something useful to something core to her fighting style.
+
+It was a bit of a distant dream but they had a glimmer of hope.
+
+Talking to the others while waiting for the second strange realm, the others learned as much as they could about their new spaces. According to the guild running the place, they hadn’t figured out how to expand the spaces from their current size, but Matt didn’t mind.
+
+According to Allie, the spaces were entirely contained within their Domains, which meant inside their spirits. So while small, they theoretically offered a way to bypass a lot of the normal spatial item checks letting them smuggle items where they shouldn’t have them.
+
+Unless the space operated on foundationally different logic than other strange realms that gave domain powers, they should be able to expand it if they could fully assimilate the power and make it truly a part of their Domain.
+
+Matt didn’t mind either way. It was damn useful on its own.
+
+Slightly larger than his head, the space was immediately filled with a few of his better healing potions as well as other life-saving measures and some extremely potent offensive talismans. He planned to test if weight mattered with his neutronium ingot but he wasn’t holding his breath.
+
+There was a small maintenance cost when he wasn’t accessing the space but it was negligible and well below his general willpower regeneration making it a non-factor most of the time.
+
+So long as their Domain’s weren’t entirely suppressed they could bring things out under even fairly strong restrictions.
+
+Thankfully, the bloodline strange realm came and went with no complications. Once twenty five people with bloodlines had arrived, they entered into the strange realm together and came out a month later.
+
+He spent the time working on his mana tests inside a rift and hardly noticed its passing until his timer forced him to stop.
+
+Twirling one of the tubes of crystalized mana he’d created, he sent a gentle stream of mana into it.
+
+Not enough to trigger its throughput phenomenon, but enough to see what his mana wanted to do.
+
+Something even the original research team had noticed, the weave pattern almost acted as a buffer for when mana inevitably ran into it. Like any fluid, there was friction when mana ran into other materials, but that wasn’t quite true when it ran into more mana.
+
+Mana wasn’t self repulsing nor self attracting, but seemed to have its own preferences.
+
+Watching his mana exit just as disorderly as it entered the tube, Matt once more tossed around the idea that he needed to do something to his mana.
+
+Mana turbulence, while a factor in the tube, wasn’t really a concern when casting a spell in his spirit. It could occur, but as the skill was using mana it was unlikely to be a major problem when his spirit automatically corrected such fluctuations.
+
+Testing internal flow pattern changes, he only made things worse but he wasn’t fazed.
+
+The only thing that seemed vaguely successful, in that it wasn’t actively harming the mana flow rate, was sending a tiny amount of mana the ‘wrong way’. That should have caused massive turbulence and ruined the flow patterns, but it ended up doing nothing at all during quite a few attempts, contrary to all of his expectations.
+
+Before he knew it, the others returned, having secured their rewards.
+
+Aster, still in fox form, though masked to look like a normal red fox, sauntered back to them and hopped into Matt’s lap before climbing onto his head.
+
+From her perch, she drummed her paws on his head transmitting a word with each thump. “Today is the day I have officially finished my bloodline adjustments by finishing my expansions to my definition of ice. Now I only need to make the mana type in question. Easy.”
+
+Turning, she looked at Zack who immediately started shaking his head. “I can only help so much. It is very di—”
+
+Dumping the fox off his head and letting her barter with Zack for his help, Matt turned to his wife who'd returned to human form after exiting.
+
+“How did your modification go?”
+
+Liz sighed but there was no weight to it. “Fine, I guess.” Grin shining through, she added, “Okay, it was really nice. I lowered the time it takes for me to molt by almost a quarter. I considered a lot of things, but that's the one thing every phoenix I know complains about, and I can’t say I love losing at least year every time I do even a small molt. Given how much worse that will get as I Tier up... Well, it felt appropriate.”
+
+“That’s fantastic. Your siblings will be jealous.”
+
+Liz launched right back at him. “Dad is going to be jealous of you. He always melodramatically pined away with soot-covered clothes while mom molted. It was very dramatic.”
+
+Matt could easily picture his father-in-law playing the part.
+
+Filling the idea away for later, he started planning to give Leon a fireplace sweeper set the next new year they celebrated together. Maybe they could match?
+
+Strange realms accessed, they continued to their main destination.
+
+The elemental cost reduction strange realm.
+
+Speculating about their latest powers, they navigated their way through a dozen already-looted planets to the planet in question where it lingered near the outer barrier of the breach.
+
+Their good moods vanished when they arrived.
+
+They’d expected to arrive to a Tier 31 world with a strange realm teeming with people wanting to delve it. Instead, they found a still-burning wasteland with no strange realms in sight.
+
+The ground where the strange realm should have been was still molten. Deep pools of liquid still rock, miles wide and hundreds of feet deep, scared the landscape along with dozens of similar impact craters. He wished that was all but the damage was anything but isolated.
+
+The world was midway through an apocalypse.
+
+Tidal waves from the battle had destroyed most of the planet's shoreline habitation. Any animals which managed to survive the battle and the waves were further displaced by the fires, smoke, and ash. Huddled in any safety they could find, the planet's wildlife tried to survive the only way they knew how.
+
+New mountain ranges were visibly forming as the planet's tectonic plates tried to find a new equilibrium. One of the cultivators fighting must have been an earth cultivator, and an irresponsible one at that. He saw clear evidence they pulled tons of material from the depths of the planet, heedless of the consequences.
+
+It was everything civilized society tried to prevent, and seeing it made Matt burn with a level of anger he hadn’t felt since Soerilia.
+
+While the devastation was thorough, the world had been intended to be exploited long term. As such, the original team had followed protocol and put a recording device in orbit which captured the whole ordeal.
+
+Not intended for detailed observation, the unobtrusive satellite’s details were middling at best, but it was clear enough to tell the story.
+
+A Clans Tier 33 team found the strange realm and after experiencing its effects, partnered with the mapping corporation to share the location, but the publicity brought danger with it.
+
+Three months ago, a Tier 35 Empire group took the world over from the Clans team, but they were in turn challenged by a larger same-Tier Republic group who wanted it for themselves.
+
+Except, instead of retreating when it was clear they were going to lose, the Empire team decided to destroy the strange realm, which infuriated the Republic team who stopped holding back.
+
+They were looking at the result.
+
+Seeing both teams’ identifying information, Matt spoke to the devastation around him. “There will be consequences.”
+
+His friends silently indicated their own agreement, but he’d only said it to placate the world itself. He knew he couldn’t have prevented this even if they hadn’t stopped at the two strange realms but that wasn’t what made him so mad.
+
+It was how childish and unnecessary both sides' reactions had been, but most of that was on the Empire team.
+
+If both teams were in front of him at the moment, he was confident he’d kill them if he could punch that high but he knew his vengeance would have to be served cold. The Empire team he had much more control over, and as such, his punishment would probably be enforced before they even got to sell their loot.
+
+Death was probably off the table if he handled it publicly, but he’d much rather they learned why the rules were in place instead of no punishment at all.
+
+If he wanted to handle it privately…
+
+Pushing the tempting but distracting thoughts away, he focused on the planet. While not unrecoverable on its own, without intervention, the world would completely spiral into various feedback loops until things found a new equilibrium.
+
+The planet might survive, but it would never be the same.
+
+Reaching out with his various manipulation spells, Matt silently started putting things back to rights.
+
+Snuffing out the fires around them, he moved on to the ash that would have choked the sky for months when he felt Liz start dealing with the rogue fires farther away.
+
+Without its cover, natural light returned to the world, but it only made the devastation more glaring.
+
+Working together, they curbed most of the damage done to the planet's ecosystem over the course of two days.
+
+The coming years would be hard on the non immortal wildlife, but they at least had a fighting chance. True normal was at least a decade out even with their efforts but that was better than.
+
+Groups came and went while they worked, but no one stopped to help or tried to hinder them. Matt wanted to be disappointed at such behavior, but he knew that was an unrealistic ask for most teams capable of entering the breach.
+
+They had only moved two worlds away when they encountered a stream of higher-Tier fighters running as fast as they could across the sky bridges, despite knowing it was inefficient.
+
+A passing Tier 33 Empire team was kind enough to stop to warn them off their current path.
+
+“You guys really need to turn back. Take advantage of this opportunity and check out some of the surrounding worlds while everyone stronger is standing off against each other, as we try to claim the planet. That situation will turn hostile shortly and you guys aren’t strong enough to get involved.”
+
+Such tantalizing words demanded more information and when they pressed, the leader sighed and fully explained. “A Tier 36 crystal-aspected world has been found and every side is clamoring for it. Factions around Great Powers are already forming. If that wasn’t bad enough, the rumors say it's got a strange realm that can do something to growth items. Details aren’t clear yet, but it's going to cause a bloodbath if things aren't settled amicably. All the Great Powers are already vying for dominance. A battle is likely to break out any day now given every side is calling their Tier 31’s and higher to assist. Take this time and go loot some other worlds. It's too dangerous.”
+
+Matt felt like he’d been punched in the back of the head without warning as the joy from hearing that a Tier 36 crystal-aspected world had been found was paired with learning that idiots could be ruining it as they spoke.
+
+No.
+
+He would not allow that.

@@ -1,0 +1,223 @@
+---
+id: 95e292c0-9ce7-57a5-8141-d3c5cdfb5761
+page-type-slug: story-chapter-royal-road
+title: "Chapter 657 - Fun In The Pool"
+slug: 0658-chapter-657-fun-in-the-pool
+partOf: mythrans-master-of-all-continued-completed
+position: 658
+ownLength: 2777
+unit: words
+publishedAt: 2018-08-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/240418/chapter-657-fun-in-the-pool"
+royalRoadId: "240418"
+---
+
+“He's really going to put them on.” Dana whispered to Gretchen. “That was a great idea, Gretchen. Those things are tiny!”
+
+Gretchen chuckled. “Well, he's an elfling. They'll probably be a lot bigger on him than they would be on a guy our height.”
+
+“I don't think so.” Dana said and smiled. “They resize to fit, remember?”
+
+Gretchen blinked her eyes for a moment. “Wait, that means...”
+
+Ren stepped out of the change room and both women turned and looked at him.
+
+“They're even smaller!” Teela chittered in delight.
+
+Dana and Gretchen caught their breath as they saw Ren's rippling muscles that covered him from neck to ankle. Neither of them had suspected to see him look like that, and they could easily make out the shape of every single muscle he had. Their eyes quickly fell to his waist and his most prominent muscle... and it stunned them.
+
+“Geez, these things came out tiny.” Ren said as he looked down at the Speedo, then turned around. “I couldn't see it in the mirror, but I think it's pinching my cheeks.” He said and worked his fingers under the bottom edge and pulled them out a little, then they snapped back. “I think I need to change the design on...”
+
+“No!” Dana said and cut him off, because the snap sound had brought her back to her senses. “It looks fine.” She said and grabbed Gretchen's arm tightly and whispered. “Tell him it looks fine.”
+
+“It looks fine.” Gretchen said, still a little stunned. How is that possible? She thought. He's so short and his feet aren't much bigger than mine!
+
+“Are you sure?” Ren said and turned back around to face them. “They seem a lot tighter than the ones I have in real life.”
+
+Dana's eyes had darted up to his face when he turned around. “You wear these... in real life?”
+
+“Yeah. My girlfriend likes it when I strut around in them.” Ren said. “Although, I won't be doing that for a while.”
+
+“Oh? Why not?” Gretchen asked, to get him away from the girlfriend topic and to distract herself from his package.
+
+“I dislocated my kneecap and have to keep off my feet for about 6 weeks.”
+
+“That sucks.” Dana said and managed to not glance down.
+
+“I know, right? That's like 5 months of game time where I won't be able to walk when I leave.” Ren said and walked over to them. “Being here is so great!”
+
+“It is.” Artemis said, and Dana and Gretchen turned with Ren to look at her. She had cast Full Illusion on herself to make her metal skin look like normal skin and she wore a tiny little red bikini. Seldanna the succubus had used her polymorph ability to take on her human disguise and wore the same bikini.
+
+“It is dark out, but playing in the water should still be fun.” Seldanna said in her seductive voice, and Dana and Gretchen tried their best to suppress their instant flares of jealousy and envy. Ren felt their slight pangs and smiled as he placed a hand on their lower backs, and both of them caught their breath.
+
+“Ladies, if you would be so kind.” Ren said and eased them forward, and Artemis opened the door of the shop.
+
+“W-wait.” Dana said, and she looked at Ren. “What about paying for the bathing suits?”
+
+Ren chuckled. “If you want to buy something when this place is actually open, feel free.” He said. “Please consider the ones you have now as gifts for keeping me company.”
+
+“Do you always give stuff away like this?” Gretchen asked. “Are you trying to buy our friendship or something?”
+
+Ren laughed. “Some people actually think that, but no. Like Valercia said, I don't have anything set up to handle transactions or even someone to hold the money to keep it separate for the businesses so she can pay the workers.” He said. “I am not getting into all that tonight. Until I turn everything over to her tomorrow, it's all my own personal property and I can do what I want with it.”
+
+“Ren...” Dana started to say thank you, and he wiggled his fingers on her lower back and made her jump. “Eep!”
+
+Ren grinned at her. “No more discussion!” He said. “Just keep the swimsuits and let's have some fun together.”
+
+“You know that could be taken the wrong way.” Gretchen said.
+
+“The same can be said about what you just said.” Ren responded.
+
+Gretchen had to think about it for a second, then she gasped. “Ren!”
+
+Ren laughed and stopped touching them as he motioned to the door. “Please, after you.”
+
+“I don't know if I want to walk in front of you now.” Gretchen said as she and Dana went out the front door ahead of him.
+
+“What if I promise to stare at your ass the entire time?” Ren asked and locked the door.
+
+“Well, that's fine.” Gretchen said. “As long as you... wait a minute! You're supposed to promise not to stare!”
+
+Dana, Teela, Teepo, Artemis and Seldanna all laughed.
+
+“Are you sure?” Ren asked and tried not to laugh. “You agreed pretty fast.”
+
+“I... you... you tricked me!” Gretchen said indignantly and stomped her bare foot. “Ouch!”
+
+When Gretchen lifted her foot, Ren saw that there was a small rock about the size of a piece of gravel, 1 inch across and jagged, and he immediately knelt and caught her foot.
+
+“Hey, what...” Gretchen started to ask what he was doing.
+
+Ren held her steady with one hand and picked up the small rock and crushed it to dust, much to the surprise of Dana, Gretchen and Teela. Ren then activated his Hands of the Gods ability Refreshing Hands and poured Water over her foot and rubbed the spot where he had felt the damage the rock had caused on the sole.
+
+“I'm sorry.” Ren said sincerely and looked up at her. “I should have grabbed some sandals for you and Dana from the other shop.”
+
+“Th-that's o-okay.” Gretchen said, her face red. No one had ever touched her feet so tenderly. “Th-thank you.”
+
+Ren used Minor Healing on her and finished rinsing her foot, then deactivated his Hands of the Gods ability. “Wait here for a second.” He ran to the shop next door, grabbed a couple pairs of sandals and a half dozen large towels, then went back to Gretchen. “Here you go.”
+
+Gretchen gratefully took the pair of blue sandals that Ren handed to her, and Dana accepted a pair of yellow ones. Both women appreciated that he had given them sandals that matched their bathing suits.
+
+“Ren, I had an idea.” Teepo said.
+
+“Oh, this should be good!” Teela said from Dana's shoulder, and Teepo chittered in laughter.
+
+“You know the Barrier spell now, right?” Teepo asked.
+
+“Yes.” Ren said. “How would that...” He smiled. “That's brilliant, Teepo.”
+
+“What? What is it?” Teela asked excitedly.
+
+“It's better to show you.” Ren said, and they walked over to the 300 foot by 300 foot pool.
+
+“This is massive!” Dana said with a bit too much enthusiasm. She had seen how her friend had reacted to Ren helping her, and she tried not to get jealous. She knew he hadn't felt anything sexual, since he was completely engrossed in helping Gretchen; but, she was pretty sure that Gretchen did feel something sexual... or at least felt very flattered at the attention.
+
+“This used to be the temporary home for the ruler of the Sea Dwellers.” Ren said. “She didn't really get to stay here long, though.”
+
+“Not in comparison to the entire time she had been in the Human Kingdom.” Teepo said. “She really liked it, though.”
+
+“It was a lot better than the pool at the house in Aurora.” Ren said. “Why she didn't go crazy with how small that was, I'll never know.”
+
+Teepo chittered in laughter. “Since she expected to live as a human for her entire time here, having a pool to live in was as much of a surprise for her as it was for Jen to build it.”
+
+Ren chuckled. “The look on her face when I asked her to do it was priceless.”
+
+“Wait, wait, wait!” Dana said. “You have a pool? In Aurora?”
+
+“Inside the house and in the living room, yes.” Ren said.
+
+“In the living room? Really?” Dana asked. “How would that even work?”
+
+“Lots of Anti-water runes to suck up the splashing.” Teepo chittered in laughter. “Okay, Ren. Show them my idea.”
+
+“You got it buddy.” Ren said and held a hand up into the air. For a few seconds nothing happened, and then a magical dome of Mana appeared several hundred feet above them and covered the roost, the pool, and several of the food vendor booths and picnic tables.
+
+“What the hell is that?!?” Dana asked, stunned at the sight.
+
+“Magical Barrier of Protection.” Ren said. “Now here's Teepo's idea.” He said and raised up both of his hands as he gathered up enough Mana for the massive spell, then there was a bright light that covered everything. Dana and Gretchen covered their eyes for a second, and were confused when the light didn't disappear or fade away.
+
+“What's going on?” Dana asked as she uncovered her eyes, then saw that it was daylight out. “I am not seeing this!”
+
+“What did you do?” Gretchen asked, stunned just as much as Dana was at the sight.
+
+“It's a Full Illusion spell.” Ren said. “It cost a crap load of Mana, even confined inside the barrier, and it will stay around until I dismiss it.”
+
+“Wow.” Gretchen said and looked around. “This is amazing.”
+
+“The stairs are over there.” Ren said and pointed to the side of the succubi roost. “I was tempted to add an elevator, but I had already built the roost by then and I wasn't sure I could add it to an existing building and then extend it down into the ground.”
+
+“What are you talking about?” Dana asked as they all walked over to the stairs and started to climb them. “Elevators?”
+
+“Okay, it's actually an elevator-like mechanism of magic.” Ren said. “There are magical lifts inside some High Elven buildings that can take you to any of the floors inside.”
+
+“When were you inside a High Elven building?” Gretchen asked, and Ren felt her genuine curiosity.
+
+“Well, the first time was when...” Ren started to talk about his first meeting with Lord Tathalyn, and then moved on to the massive quest he had been given and then had gained access to High Elven building designs. He had just finished the story with his death when they reached the top of the small mountain and the top of the water slides.
+
+“I'm going to skip you building a mile high tower for now and come back to that later.” Dana said. “You sacrificed yourself. On purpose.”
+
+“Well, I couldn't just toss the sword away.” Ren chuckled. “I needed to hold the Lightning being inside and stop it from escaping.”
+
+“It wasn't the first time he gave up his life, though.” Teepo said.
+
+Dana and Gretchen stared at him and he felt their utter shock.
+
+“He sacrificed himself to save us as well.” Seldanna, the currently disguised succubus said, and even Dana and Gretchen could feel her admiration for Ren. “He gave his life to ensure that none of my people would be lost.”
+
+“Your people?” Gretchen asked.
+
+“She means us.” A woman's voice said, and the rest of the succubi came out of the front door of the roost, right next to Ren and his group at the top of the water slides.
+
+“Oh... my... god.” Dana whispered as 19 practically identical and very beautiful women came out of the tower in front of her. The only real difference between them was their hair and eye colors, and also their hairstyles.
+
+“Ladies!” Ren said happily and went to each of them to give them a hug and some stored emotions that they preferred. “You're all up?”
+
+“We felt you approach and cast the magical barrier, My King.” Zunala said. “Wynphine was on scout patrol and told us what was going on.”
+
+“What about your significant others?” Ren asked.
+
+“They will be here momentarily.” Zunala said. “Thank you for giving them all Sustenance rings.”
+
+Ren took her hand and pat it. “It was the best solution to a timing problem.” He said. “I knew their normal schedules would conflict with spending time with you, so they needed all the extra time they could get.”
+
+“They can also feed us more.” Wynphine said. “Although, if your plan with these parks succeeds...”
+
+“You will all have more emotions than you could ever want or need, and you never have to leave the roost to try and find some.” Ren said and smiled at them all. “Except when you want to, of course.”
+
+That made them all laugh.
+
+“You have already provided us with everything we could ever want, and yet you are still giving us more.” Zunala said. “Are you feeling all right?”
+
+Ren laughed. “I could ask you the same thing, but I can feel how happy you all are.”
+
+“So this is what these troughs are for.” One of the succubi said as she looked at the rushing water. “I don't see how the horses are going to drink from them, though.”
+
+“The troughs are for us.” Ren said and turned to Dana, Gretchen, and Artemis. “Shall we show them how it's done?”
+
+“I'm taking the straight one!” Dana said and went to the one with the steepest drop.
+
+“Don't forget to turn off your Water Walk rings.” Ren said. “Believe me, it won't be fun going down these things if the water is treated like the ground.”
+
+That made Dana and Gretchen smile, and after a quick refresher lesson from Ren on how to do it, turned off their rings. The three of them stood in front of their chosen slides and nodded together, then jumped. Artemis and Seldanna were right behind them on different slides, and the rest of the succubi shivered at the emotions they felt.
+
+“I have to feel that for myself!” Wynphine exclaimed and jumped down another slide.
+
+“W-wait! Not all...” Zunala said, but the other succubi quickly chose their own slides and jumped as well. “...at once.” She said, then chose the slide Ren went down and jumped after them.
+
+It was the best combination of feelings she had ever had.
+
+By the time Zunala had splashed down into the water, her eyes had already been flooded with tears. She couldn't put into words the exhilaration she felt, and then a hand caught hers.
+
+“You need to swim.” Ren said, and she put her arms around him and kissed him deeply. They sank down under the water, and he activated his Water Walk ring. They popped up to the surface an instant later and Zunala broke the kiss.
+
+“Thank you, My King.” Zunala said. “You have shown me wonders I never could have imagined.”
+
+“You'll be having more soon.” Ren said. “You haven't gone on any of the amusement park rides yet.”
+
+Zunala nodded and let him go, then dropped into the water with a splash.
+
+“Oops.” Ren said and deactivated the ring again and splashed down to get her. They came back up a moment later and everyone was laughing, including Zunala. They all went to the stairs and climbed out, then Ren went over to the shop and gathered towels and sandals, then grabbed swim trunks and conservative bathing suits that the others who stayed with the succubi would need.
+
+They all went up to the top of the roost again and met the others, and Ren gave them the things they would need. Once it was explained what was going on, everyone joined in on the fun and slid down the slides. Some didn't like the fast pace and moved over to the wading side, some went to just swim, and others tried diving in the deep end while Ren and a few others went back up to the top of the roost again.
+
+Ren used the Energize spell several times over the next few hours, as he had promised, to keep everyone from getting too exhausted. Eventually, they all ended up on the lounge chairs and everyone relaxed beside the pool. Neither Dana nor Gretchen could remember having this much fun before. Both women turned their heads and looked at Ren, to see him as he relaxed on a lounge chair nearby, then they both smiled.

@@ -1,0 +1,233 @@
+---
+id: c28473af-204f-5634-849c-84f49b7c5955
+page-type-slug: story-chapter-royal-road
+title: "172. Cosmic Compression"
+slug: 0028-172-cosmic-compression
+partOf: salvos
+position: 28
+ownLength: 2467
+unit: words
+publishedAt: 2021-08-24
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/739141/172-cosmic-compression"
+royalRoadId: "739141"
+---
+
+172. Cosmic Compression
+
+I was excited about what Lily had in mind for me tomorrow. She told me that she would give me more specialized training than what we had been doing before. Which made sense, since she was training me without even knowing my Class or levels beforehand. Speaking of, she finally decided to ask me about my Class and Skills now that she was trying to tailor a test for me.
+
+“So, you’re an [Adept of the Fae]?”
+
+She raised a dubious brow, and I nodded.
+
+“Yep! I got the Class and everything! It asked me to seek out the secrets of Fairies!”
+
+Snorting, the Fairy threw herself back, lying in the air.
+
+“Of course it’d tell you to do that. Do you know what that Class was originally used for, Salvos?”
+
+“No, what is it?”
+
+“It was used for worshipping Fairies.”
+
+“Huh.”
+
+I frowned, tapping a finger at my chin. That meant—
+
+“It was used by those people who made Fairy Temples?”
+
+“Yes.”
+
+She nodded and flitted up.
+
+“It’s an archaic Class— almost nonexistent these days, probably. But those who sought out the wisdom of us Fairies were the ones who originally built those shrines and monuments on our behalf. They ignored our complaints, telling them to leave. They continued to harass us, until our Queen had enough.”
+
+I perked up.
+
+“That’s when Melissa the Oracle of Light destroyed the city of Brilsum, right?”
+
+“And many more.”
+
+“Woah.”
+
+I found it amazing, even if Daniel and Edithe didn’t. I expected Lily to share the same sentiments as me, but she actually seemed upset over it.
+
+“Stupid Humans, wroughting their own destruction.”
+
+She sighed.
+
+“It was justice. Vindication. I wasn’t around during that era, but I spoke to those who were around. You may envy them, Salvos. Think that such praise and worship are something to strive for. But believe me, it wasn’t anything you’d imagine. It was an obsession. Fairies were being kidnapped and experimented on. They were being dissected, as if something about our birth makes us better at space magic?”
+
+Lily paused. Her eyes went hollow.
+
+“But the death— the misery that came after. We did it to protect ourselves. However, it still was a terrible, terrible thing.”
+
+“Humans are stupid, yes. But people die every day. Also, it’s not like it bothered you, right? I don’t see what the problem is.”
+
+“Just because it doesn’t affect me doesn’t mean I can’t feel sympathy towards the suffering of others.”
+
+I frowned, placing a finger on my chin.
+
+“But why?”
+
+“Every mistake a person makes is a mistake you can fall into yourself. Every moment of pain, despair, and anger they feel is something you will feel once in your life. Listen carefully Salvos, your Class is not inherently evil. But those who previously walked down that path were so.”
+
+She shook her head.
+
+“You may walk down their same path. Or diverge from it. It is up to you. Just know that if you continue down this route, you will be reliant on us Fairies. Dependent on us. Maybe even a parasite, like those Humans of the past.”
+
+Parasite? That was a harsh word.
+
+“I’m not a parasite, I’m Salvos!”
+
+“I know.”
+
+There was a flicker. She looked away from me.
+
+“But you’re young. In a decade or a century, who knows how you’ll be.”
+
+Lily flew back to her Fairy Mound, waving at me.
+
+“Get your rest. We’ll be busy tomorrow.”
+
+—--
+
+“Where are we going?”
+
+Lily led me out of the cave, back into the Brilsum Ruins. We stood out on a cobbled street. Its stone was cracked, as if chiseled. The lines that cobwebbed the surface were so haphazard but uniform, that I couldn’t tell if they were from wear or a deliberate carving.
+
+“You’ll see.”
+
+She was quiet. Her glowing figure led me forward, a bright ball just like the sun. I followed her until we exited the inner city of Brilsum, past the fallen banclite walls— the powerful anti-magic materials, nothing more than dust and debris.
+
+I heard a light buzzing growing louder. I narrowed my eyes as I saw the [Locust Vurats] in the distance, a swarm of thousands of them. Maybe even tens of thousands. They were small. Far tinier than the ordinary [Vurat] counterpart, which were more akin to the size of a dog. These were like really big bugs. And they were very annoying.
+
+“Ugh, they’re coming again.”
+
+I prepared to breathe fire at this swarm blanketing the sky. But Lily lifted a small hand.
+
+“Wait.”
+
+She pointed at where they came from. Something in the distance. It looked like it had once been a mansion, so glorious in how it stood. But it was covered in nature and vines. Or at least, it had been, until the [Locust Vurats] came.
+
+Now, it was decorated red and black. The corpses and bones of dead animals, monsters, and people dyed over the walls of the manor.
+
+“Do you see that? That’s the Lair of those annoying [Locust Vurats]. They were attracted by all the corpses littering the Brilsum Ruins the moment Belzu left. But unlike regular [Vurats], they don’t just feed on the dead. They see it as a treasure. So, they take it, and hoard it. Not to eat. Not to feast. But to keep.”
+
+“Huh.”
+
+That sounded weirder than storing food to eat for later like Humans did. Why couldn’t you just eat whenever you were hungry, rather than keeping it for when you were hungry later? It wasn’t so difficult to just grab the bugs off the air and munch on them for a snack.
+
+“But the [Locust Vurats] can disperse. It’s not difficult to make them flee. All you have to do is take their treasures from them. That’s your task for today, Salvos. Clear that mansion of the corpses. Spread them far and wide. Break up this Lair so the [Locust Vurats] have no reason to stay in this Dungeon any longer.”
+
+I blinked and pieced something together in my mind.
+
+“Hey! You just want me to deal with your pests for you!”
+
+“I could wipe out this entire Lair by myself, if I didn’t know that their dead would draw out even more of them. No, Salvos. I want you to use your head. Not your claws or your flames. But with your Class and with the magic you’ve learned. Or will learn.”
+
+Lily crossed her arms as she opened a portal behind her. She zipped into it as I protested.
+
+“But I don’t have any offensive space magic spells!”
+
+“That’s the point!”
+
+The portal closed, and I was left with a swarm of [Locust Vurats] closing in on me.
+
+“Well, that’s annoying.”
+
+And they came. The monsters clouded over me, casting a dark shadow in my surroundings. They were barely in their 10s. Only a few were in their 20s at most. They were very much a Silver Rank threat. A party of Silvers should’ve been able to clear a Lair of them.
+
+Or at least, a smaller Lair. This one was massive. Maybe a Gold Rank threat. But only at most. It was something I could very easily clear now that I knew where they were all coming from, considering I was a Diamond Rank. But Lily said no flames. Only my Class.
+
+With a sigh, I darted forward. They [Locust Vurats] gave chase, but they couldn’t keep up with me. I didn’t run on all fours. It was a simple sprint. Just as Humans did it.
+
+I couldn’t even hear their muffled buzzing as I reached the Lair in an instant. No [Haste], no magic. A few hundred feet was simple enough to cross. I avoided the [Locust Vurats] attacks with ease. Then I saw the walls— the stained blood and grime. Rotting innards were dangling off the windows and balconies.
+
+It was something I was sure Daniel would find gross. I didn’t care. I got to work.
+
+“[Banish]. [Banish]. [Banish]—”
+
+It took about one second between each of the Skill’s use, now that it was maxed. It could also move objects far larger than an apple. I used the Skill to collect the bodies into a pile in front of the mansion, before heaving it onto my back and dashing off.
+
+The [Locust Vurats] gave chase. But I reached the canyons around the Brilsum Ruins and dumped the pile of bodies into one of the vast gouges. I wasn’t bothered by them as I ran back. They were busy buzzing around the pile of corpses I stacked up.
+
+I returned to the manor and cleaned its walls of the bodies, repeating the same action until its exterior was good as new. Well, except for the stained marks and the vegetation growing over it. I made sure to spread the piles of bodies apart as Lily told me to. Then I moved into the inside of the large building, beginning to wade my way through it as well.
+
+It wasn’t as easy, trying to avoid the attacks of the [Locust Vurats] while inside. But with my Pendant of Greater Protection, I came out completely unharmed. I had just finished gathering the first pile of rotting bodies from the inside of the mansion when I spotted another cluster of [Locust Vurats] making their way back to the Brilsum Ruins.
+
+With them, they carried one of the first piles of bodies that I had thrown into the canyon surrounding the Brilsum Ruins. I paused, realization sinking in before spinning around. Just as I anticipated, I spotted another group of the monsters doing the same with their own bundle of corpses.
+
+They returned, pouring the gross body parts atop the mansion as I watched my hard work go to waste.
+
+“Are you serious?”
+
+I swatted a [Locust Vurat] into a gooey mess as it flew too close to me. I sighed.
+
+“This will take a while.”
+
+And it would have taken even longer, if I continued trying the same tactic over and over again. The issue here was that the [Locust Vurats] were drawn to the bodies. I had to get rid of them proper.
+
+The first thought that came to mind was to burn it all. But I couldn’t use my fire. I had to do something else— something with space magic.
+
+My second instinct was to just run even further. Bring the bodies to a place where even the [Locust Vurats] couldn’t reach. Maybe past the canyons, back to the lush forests surrounding the mountainous terrain we were in.
+
+Maybe if the bodies were smaller, I could just toss them all far away individually. But they were big! They took up too much space—
+
+I paused. But I use space magic. I glanced at the heap of bodies that [Locust Vurats] had now gathered as I casually darted around and avoided the stinging monsters.
+
+And I bared my teeth.
+
+I raised both of my hands, focusing just as I did a few days ago. There were various different ways I managed to catch Lily with, other than just tiring her out. One of them made use of grabbing her, even when I wasn’t near her.
+
+Lily said it was equivalent to a basic Levitate-type spell, except reapplied to living beings. She actually praised me for what I managed to do. She said it was a good Skill.
+
+[Astral Grip].
+
+I didn’t have that Skill. I wasn’t going to add it to my repertoire yet, as Lily recommended. I was certain that having the actual Skill would be far more effective than my poor attempts at using unrefined magic to grab objects with what felt like a very weak invisible hand that could stretch over long distances.
+
+But that was the point of my training. I worked from when the sun was high in the sky until it set and returned the next day. I expanded my grip from not just a simple hand, to something that could entirely wrap itself around a small pile of bodies. Then I squeezed.
+
+I squashed the piles of bodies together until they were large enough for me to carry. Like balls of ripped flesh and broken bones. Then I ran to the end of the Brilsum Ruins before tossing it with all my might. It went sailing so far and fast that even the [Locust Vurats] couldn’t keep up with it. And I repeated this over and over again, returning to the mansion to crush the piles and piles of bodies into many different balls of meat.
+
+I picked up two at a time, running off and throwing it into the sky. The [Locust Vurats] that went chasing after it never came back. And I was finished by the time the sun was setting once more.
+
+“That’s a job well done!”
+
+I dusted my hands off as I used my new spatial hands to crush any [Locust Vurats] that dared approach me. Since they were actual living creatures, it was harder to get a proper grip around them and squeeze. Especially since they resisted. But they were low-leveled. So, it worked.
+
+It was like some invisible force contorted the insect-like monster— even the air seemed to be sucked inwards. Then their bodies would crack and smoosh together after moments of resisting. I grinned as I looked through the notifications in my head while the monsters scattered.
+
+Defeated [Locust Vurat - Lvl. 15]!
+
+Little-to-no experience is awarded for defeating an enemy at least 50 levels below you!
+
+Cleared [Lair: Nest of Locust Vurats]
+
+Experience is awarded for clearing a Lair!
+
+Skill [Cosmic Compression] Learned!
+
+Experience is awarded for the learning of a Skill!
+
+Class [Adept of the Fae] Level Up!
+
+[Adept of the Fae - Lvl. 30] -> [Adept of the Fae - Lvl. 31]
+
+Gained 2 Secondary Skill Points!
+
+As if that were some sort of cue, I sensed a disturbance in the air around me. A portal opened up and Lily appeared. I beamed at her, wiping away the muck from my face, before shooting her a thumbs-up.
+
+“I did it, Lily! That was easy work!”
+
+The Fairy said nothing as I excitedly began to tell her how I failed at first, and what I did to learn an actual offensive Skill in space magic.
+
+“And it’s like I’m holding it with my hands, right? Except these hands are very large and invisible—”
+
+“Salvos.”
+
+Lily interrupted me. She wore a solemn face. I didn’t know why. Not until I saw the second glowing ball of energy appear from behind her. Another Fairy— slightly larger than Lily, and with a blue glow instead— flitted down next to her.
+
+She drew her lips into a thin line as I blinked.
+
+“We… might have to end your lessons earlier than I expected.”

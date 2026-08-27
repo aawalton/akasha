@@ -1,0 +1,49 @@
+---
+id: d2886e94-0cf3-592f-b66b-2ba5c51879f7
+page-type-slug: story-chapter-royal-road
+title: "THANK YOU"
+slug: 0017-thank-you
+partOf: quiet-life-of-the-mute-archmage-op-archmage-academy
+position: 17
+ownLength: 571
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3462011/thank-you"
+royalRoadId: "3462011"
+---
+
+I want to take a moment to say a huge thank you to everyone who helped this story get this far.
+
+Less than a day ago, we hit Rising Stars Top 1—YAY!!
+
+QLOTMA has been welcoming new readers and continues to welcome more. And the most important part of it all?It’s all thanks to you. The readers.
+
+Everyone has played a big role in the success of this story. You’ve been supporting me to make it better, recommending edits, correcting me when I miss something, telling me if I overdo things, giving me hope to keep going, and so much more.
+
+Without you, I wouldn’t be here writing this message. QLOTMA has become this good because of you.
+
+Crucial to that was the way you jumped in so enthusiastically to help, and with that came the welcoming of new readers.
+
+Let me share some stats of what you guys have done to help this story reach where it is now:
+
+Ratings and Reviews – 237 ratings, 22 reviews, for an overall rating of 4.65 stars. This is genuinely incredible. Reviews don’t just help me know if I’m on the right track; they also serve as social proof for new readers. They encourage people to give the story a try, while the ratings guide those who don’t want to dig into the reviews. A lot of readers won’t touch anything below a 4.5 rating, so every time you rate or review, you directly help the book succeed.
+
+I also want to give an extra thank you to everyone who subscribed to my Patreon even though I don’t have many chapters up there yet. That means so much. It shows how much you love this story, that you’d subscribe despite the small number of chapters.
+
+I want to thank those of you who went out and recommended this story on social media: Reddit, TikTok and Instagram. I know it doesn’t fully translate into a ton of followers right away, but it helps promote the book outside of Royal Road. It provides that social verification for the story, and it matters for a long-running series. So thank you very much for that ^^
+
+I want to conclude by thanking everyone who has been commenting. You’ve been a tremendous help, both in the development of this story and in motivating me to keep writing, knowing that people love it.
+
+Alright, that’s all from me. Thank you for reading this note, and thank you for your active support. It’s been an astonishing launch, and since we’re currently Top 1 on Rising Stars, let’s stay up there a while and welcome even more readers, until our time runs out.
+
+Thank you very much. I really couldn’t ask for better readers than you.
+
+Thank you,
+
+P_magno
+
+P.S. Are you reading this story without an account on Royal Road?
+
+Consider registering, it’s free, you can easily track your reading position, and you can help the story by leaving a rating. There’s no hidden downside; it just really helps authors like me keep going.
+
+I don’t know if it’s possible, but I really hope we can crack 6,000 followers before coming off Rising Stars. It would mean the world to me if you spread the word and let people know about Quiet Life Of The Mute Archmage. This is the period when the audience for the book grows the fastest, and the higher we fly now, the further we’ll get.

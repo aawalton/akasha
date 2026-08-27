@@ -1,0 +1,145 @@
+---
+id: 0cad5286-f48f-52ae-8a80-d3bcf720d42c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 540: Awake"
+slug: 0106-chapter-540-awake
+partOf: rise-of-the-living-forge
+position: 106
+ownLength: 1672
+unit: words
+ownProgress: 1672
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2925192/chapter-540-awake"
+royalRoadId: "2925192"
+markedReadAt: "2026-06-29T20:01:49.423Z"
+---
+
+The Menagerie waited until evening had fallen to act. As much as they wanted to keep things moving, awakening a building while their street was stuffed chock full of adventurers was just asking for something to go wrong. There were too many ways that a fight could accidentally go sideways and drag their customers into it.
+
+That was the last thing any of them wanted, and the wait wasn’t all that long anyway. It only took a few more hours before day passed and night took its place. Arwin and Lillia headed out of the Devil’s Den and into the street.
+
+There were still a few people milling around, but the Devil’s Den had closed its doors and there was little reason for most of them to remain. Nobody paid them any excess attention on their way over to the newly built Auction House.
+
+Arwin had to admit that the building was pretty impressive. He’d never properly stopped to take a look at it, but Ridley had outdone himself. It was one of the largest on the street, built entirely from stone in a shape clearly inspired by an arena more than a typical house.
+
+It was circular, two stories high, with looming carvings running all along the outsides of its walls. They framed a grand entrance with two huge wooden double doors trimmed in glossy silver metal.
+
+Olive, who had accompanied them from the Devil’s Den, pushed the doors open. They swung inward without so much as a sound to reveal the interior of the building. It was every bit as impressive as its outside.
+
+Ripley hadn’t just built upward. He’d dug down. The Auction House was actually closer to three stories, with the third being a hollowed out basement. The auction platform was centered in its middle upon a raised shelf that could be easily seen from the stone seats ringing every level of the large building.
+
+The ceiling was largely open to the night sky above, though the top levels of the Auction House bore larger sections with raised walls that blocked anyone in the lower levels from seeing who sat above them. Even looking at the raised sections directly across the building proved fruitless — the walls prevented Arwin from seeing anyone but the tallest of individuals.
+
+Rows ran throughout the seats to allow people to walk without stumbling over each other’s legs. Off to the side, there was an open doorway that led underground. It presumably led down to the lower sections of the auction house as well as provided a way for the auctioneer to make their way onto the stage.
+
+It was clear that quite a bit of thought had gone into the design of the building. Arwin couldn’t help but be impressed. Ridley must have been exceptionally bored. He hadn’t gone anywhere near this hard on the other buildings he’d made for them.
+
+“Whoa,” Olive muttered. “This is… a lot more than I was expecting.”
+
+“I think we might need to give Ridley a raise,” Lillia agreed. She shook her head. “But now isn’t the time to think about that. Let’s get these installed. Down we go.”
+
+Arwin nodded. The three of them made their way into the darkness, bearing the Dungeon Heart’s components that Arwin had finished creating in the Armory several hours ago.
+
+The passageway wound off to the side almost immediately. It split into a fork, one section blocked with a barred door while the other turned toward the seats ringing the stage. Lillia’s tail slipped into her pocket and pulled out a small key, proffering it to Olive.
+
+Olive took the key and slid it into the door, opening it with a soft click before handing the key back to Lillia.
+
+“You can do that?” Arwin asked. “I didn’t realize your tail was that… appendage-y.”
+
+Lillia arched an eyebrow at him. The corner of her lip twitched in amusement. Then she continued into the darkness without a word. After a moment, Arwin and Olive followed after her.
+
+It didn’t take them long to arrive in a small room. A ladder in its center led up to the raised stage above, blocked off by a closed trapdoor. The three of them exchanged a glance.
+
+“This seems as good a place as any,” Lillia said. “Unless you’ve got a better location for it?”
+
+“No,” Arwin said. “This should be good. It’s out of the way, and the only other options would be making a whole new room or sticking it in one of the VIP platforms. I think this seems fine. Let’s set it up.”
+
+The three of them set about arranging the pieces. It filled Arwin with an odd sense of familiarity. It really didn’t feel like it had been all that long since he’d been doing this for the Devil’s Den and the Infernal Armory.
+
+“Do you think Madiv needs to be here for when it starts up?” Lillia asked.
+
+“No,” Arwin replied. “I’ve got him built into the system. Shouldn’t be a problem at all. His hair is in there. He already knows what we’re doing and what this involves, so there’s no reason to spoil the surprise any further.”
+
+Lillia nodded her understanding. She slotted the chewing mechanism into the storage vat that would reduce the materials they fed it into magical energy. The two pieces clicked together with a loud snap.
+
+Arwin scanned over them once more, but there was little to find. Their status had already concealed itself — he’d taken a few extra measures to make sure nobody would be able to figure out how the Auciton House functioned. A lot more people would be passing close to this Dungeon Heart than the ones in the Devil’s Den and Infernal Armory.
+
+All that remained was to put the Dungeon Heart’s housing into its proper position.
+
+“Everyone ready?” Arwin asked.
+
+Lillia and Olive nodded.
+
+“Rodrick has everyone else looking out for interference,” Olive said. “Nobody’s going to get the jump on us.”
+
+“That’s not what I’m worried about,” Arwin said with a dry chuckle. “Just be ready. The Infernal Armory definitely has an… attitude. I don’t know if the same will occur with the Auction House. Oh! We should definitely have a name for the building before we awaken it.”
+
+“Housey?” Olive offered.
+
+“No,” Lillia and Arwin said in unison.
+
+“It wasn’t that bad,” Olive grumbled.
+
+“Something that fits the theme,” Lillia said with a shake of her head. “Housey is not intimidating.”
+
+Olive opened her mouth.
+
+Arwin shot her a look. “If the next words out of your mouth are anything adjacent to ‘scary housey’, don’t say them.”
+
+Olive cleared her throat. “No comment. If you want something so scary, why not call it a graveyard or something?”
+
+“That doesn’t exactly inspire the idea of finding rare or expensive items,” Lillia drawled.
+
+“It does if you rob the graves.”
+
+Arwin scratched the side of his neck. “To be honest, it’s a pretty cool name. Not that I’m sure encouraging the idea of robbing us is the best.”
+
+“It’s figuratively robbing,” Olive said, as her eyes lit up. “Anyone who shops here is practically robbing us because of the great deals we offer!”
+
+Arwin blinked. He and Lillia exchanged a glance.
+
+“That’s actually a pretty good slogan,” Lillia admitted.
+
+“What about The Mausoleum?” Arwin offered. “Since Madiv is a vampire and all that. It’ll play into the joke and people will think he’s just dressing for the theme. Just like Lillia.”
+
+“I like it,” Olive said with a grin.
+
+“So do I,” Lillia said. She grinned. “And Madiv will love it as well. Then I suppose it’s settled. The Mausoleum it is.”
+
+Arwin nodded. “The Mausoleum. I’m going to put the Dungeon Heart in, then. Nothing should happen until Lillia feeds it, though. You have the food?”
+
+“Yeah,” Lillia said, pulling a large chicken drumstick wrapped in cloth. “Not really the most elegant way of bringing it over, but it’s leftovers. Should do the trick just right. I filled this with a lot of magical energy.”
+
+Ariwn nodded. Then, without any more delay, he slotted the final piece of the mechanism into place. The housing holding the Dungeon Heart slid home with a final thunk. All three pieces shuddered as magic arced between them.
+
+And then the building was silent once more.
+
+“Now?” Lillia asked after a moment had passed.
+
+“Now,” Arwin said.
+
+She tossed the drumstick, cloth and all, into the mechanized mouth. The gears whirred to life in an instant, bearing down on the chunk of meat and tearing it to pieces in an instant. Loud cracks rang out as the bone snapped beneath the teeth of the mechanism.
+
+Then it stopped moving.
+
+The chunks of meat vanished into the churning metal teeth. There was a long moment of silence. The three of them stood in anticipation, waiting for something to happen. Olive shifted from one foot to the other.
+
+A faint tremor ran through the floor beneath them. It vanished as quickly as it had come, and the silence returned.
+
+“Is… that it?” Olive asked hesitantly.
+
+Arwin frowned. The Infernal Armory had definitely had much more of an… intense awakening than this. He was pretty sure he hadn’t made any mistakes while creating the Heart’s housing, though.
+
+Everything should have worked. The maw had activated and consumed the power from Lillia’s food, after all.
+
+“That’s odd,” Arwin said. “Maybe it needs a bit more energy? Are you sure there was enough in that?”
+
+“Yeah,” Lillia said. “There should have been. I suppose I can go get—”
+
+The floor bucked beneath them.
+
+Arwin stumbled as a wave of brick rolled beneath his feet, passing thorugh the room and nearly knocking all three of them over before it carried up into the walls and throughout the rest of the Auction House.
+
+A thick wave of magic slammed into Arwin with such force that it nearly choked the breath from his lungs.
+
+And then, with a roar like a waking dragon, the Mausoleum rumbled to life.

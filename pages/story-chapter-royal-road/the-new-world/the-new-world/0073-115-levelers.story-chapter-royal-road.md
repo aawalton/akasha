@@ -1,0 +1,257 @@
+---
+id: f5c7afdf-635f-5ffb-a4bf-fa4fc88181b6
+page-type-slug: story-chapter-royal-road
+title: "115 Levelers"
+slug: 0073-115-levelers
+partOf: the-new-world
+position: 73
+ownLength: 4549
+unit: words
+ownProgress: 4549
+publishedAt: 2018-04-27
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/211398/115-levelers"
+royalRoadId: "211398"
+markedReadAt: "2026-06-29T21:23:21.676Z"
+---
+
+********************************
+
+Different Pov this chapter.
+
+We finally got onto this world. It took several mission’s worth of salary to hire a black market mage, but it was worth it. We had to. Getting onto a quarantined world was easy. Getting out was the problem.
+
+Skyns was our solution. He was expensive too, but he had a good history of work behind him. We didn’t have to worry about him leaving us stranded. His reputation was too valuable.
+
+That reputation was security in Schema’s universe, and paying for security was always a smart move in the long run. From what we’d seen of this world, that might not be the case this time.
+
+This is a fresh world, yah see. It’s very new, so the eldritch haven’t had time to turn into meat grinders. That’s why none of us thought there would be much here. Even our groups biggest whiner, Mal, jumped for joy when he found out this was our quarantine. Clearing out older world’s with quarantines was a fool’s undertaking. They were always lost to the eldritch ten times our own levels. Not the prettiest sight, if I say so myself.
+
+We didn’t have to worry about that. With the right magician and the right world, we were riding on a high better than easy money. This was our last mission, and we didn’t have to worry about some eldritch horror gobbling us up. Besides for the fact the world was a dirty ball of mud, it wasn’t even that ugly.
+
+Who knew, maybe there was a level 1,000 eldritch boss was here? That wouldn't be too much for us. Once we finished this last assignment, we’d get our legacies from the emperor. Once we got that, we would become members of the royal guard. It was a nice, cushy life after that. We could all finally sit down and enjoy being rich and lazy.
+
+It was one of the few ways out of fighting for us Gors. Our homeworld was taken over by the empire. Most of us were slaves for them. My siblings and I, we were different. All four of us were talented in slaying monsters. Our father was a war hero yah see, and he gave us his blood. With that blood, we promised one another that we would escape.
+
+We were so close. We all traveled together, staying low to the ground. I was the distractor of our group. I didn’t fight the enemy. Instead, I distracted them while the others did their damage. Thry was my older sister and our cleric. She protected me while I fought.
+
+Joce and Mal kept towards the back. They used railguns coated in splintering toxic crystals. It stunted the eldritch’s regeneration. After that, we wore most of them down in a slow grind. It was the safest way we could. Considering how horrific it was dying to an eldritch, anything else was insane.
+
+In fact, the others called me insane for how close I got to most eldritch. I couldn’t blame them. Maybe I was a little bit off. My build was perfect for it though. Endurance, dexterity, and perception let me know what was going on and have the stamina to avoid it. Thry was our team’s planner and charisma sink.
+
+Mal had the standard dual gunner attributes of dexterity and perception. He invested into luck too. Every group needed a luck sink. Mal was our man in that regards. Joce had the same gunner attributes, but she invested into endurance too for the longevity. All in all, our team was a well balanced group.
+
+The black market mage, Skyns, even gave us a solid boost with his less than legal magic. I was our core pillar though. Without me, the others couldn’t function. I also got to secure all the kills since I was so close. It gave me an edge on exp. The others whined about it a lot, but I was the one in danger every mission. They just rode on my back, like always.
+
+So I got the most experience. That’s why I was level 1,678 and they were all below level 1,500. I deserved the most, and I made sure I always got the most. That’s why I walked into death and always came out by the skin of my teeth.
+
+That’s why I led the group as we walked near the quarantine zone. It was real small, much smaller than other quarantines we heard about. Normally they were the size of cities. This one was a speck in the middle of one.
+
+As we flew in on a shuttle, the quarantined area was a giant, purple bubble on the horizon. The city was cleared out for the most part. It looked like someone had burned down a forest in the middle of the place.
+
+So far, we only saw primitive buildings with ancient tech scattered about. The planet was definitely backwater, that was for sure. At least the sky here was blue and there was enough oxygen to breath. We didn’t need to wear air filters, which made our breathing less noisy.
+
+We landed the ship a while back, opting to walk the last three or so miles. If we flew in, dormant eldritch may awaken. They would dogpile us. It was much safer taking them on one at a time. Considering I was always in the line of fire, I made sure we handled things that way.
+
+In front of me, the rock buildings stretched up to the sky. Windows were shattered throughout the city. Several fights had taken place here. Whatever the native species was, they didn’t die without a fight.
+
+I glanced behind me, hearing Mal kicked a rock behind me. Here I thought it was a native. We hadn’t even seen one of them since coming here. To be honest though, it didn’t take much in the way of eldritch to decimate a newer species. People called it a flaw in Schema’s programming. I called it tough love.
+
+The four others trailed behind me as I sent an impolite gesture at Mal. We all had new, black power armor. With all the light streaming in from the sky, I finally saw the sheen on our armor. It was slick.
+
+The inside of the armor was air conditioned, letting us sit at a pleasant temperature all the time. Unlike cheaper power armor models, it also filtered out excess moisture. When a native plant species grows into your armor, you realize just how important that is. I hated cleaning power armor after a long mission. It took hours.
+
+This new armor didn’t need that. With our integrated obelisks, we voice chatted mid fight. I preferred keeping my voice chat off until the monster was out. Joce and Mal always gossiped about literally nothing that matters. It was annoying, and I hated hearing it all the time.
+
+I sighed, the armor plates along my back sliding as I did. Our species natural bulk made us start out a bit bulkier than most species. It didn’t matter at our level though. No one invested into becoming an actual up close fighter. Almost no one. It was a stupid, idiotic way of fighting. Why swing a sword when you can fire a gun?
+
+Even with our tall, hefty species, we all used some kind of technology. The early levels were too difficult otherwise. I only knew two warriors. One of them was eccentric and the other was bloodthirsty. Neither of them made it up to level 1,000. It was hard enough just reaching level 100 without doing it with primitive weaponry.
+
+Looking at the proportions of their old tech and buildings, this species was big. They hadn’t had time to re-make their infrastructure yet. The buildings were made for the raw species. They might be able to fight it out with lower level eldritch at this size.
+
+It was odd though. The infrastructure that was here was empty. From what we already guessed, the quarantine was the cause of all this. The species seemed overwhelmed by something. We found a few rotting bodies behind us too. They were all different shapes and sizes though. We couldn’t tell what a native actually looked like.
+
+Combine that with the colossal, open rift at the center of the city, and we were on edge. How a rift already opened and already expanded this wide was beyond me, but here it was. Skyns could take out the dungeon core for us with his magic for us though. It was another reason we hired him.
+
+Selling a red dungeon core helped all our retirements. The extra reward and low average level here bolstered our confidence. We found one dungeon with monsters at level 90 just outside the city.
+
+Considering out team averaged in the mid 1,500’s, we were more than fine. We walked along a road paved in rock. It must have been some archaic highway. Skyns already pulled out his grimoire and was casting buffs on us. It was better to get it done before the fight started rather than after.
+
+Each of us opened our spatial rings as we reached beside the quarantined area. I was an alchemist, someone who worked between magic and chemistry. It meant I made potions for the whole team. We chugged a few potions that enhanced our senses and reaction speeds as we trot in.
+
+As we neared the quarantine bubble, Mal and Joce laid traps behind us. If we ended up needing to kite something, the traps would let us. As they laid them down, they made markings on our shared mini-map. It let us make real time adjustments, something that meant the difference between life and death.
+
+Being our cleric, Thry pulled out a few charged scrolls and gemstones. She handed them to us, each of them giving us timed buffs. They would help in case of something not so good happened. I placed a few of Joce’s emp grenades on my side incase machines were in the rift. After that, I put a few of my own vials of acid on my belt.
+
+They acted as our team’s flesh eater. Acid was good versus any monster. Poisoned acid was even better. As we sketched out a map of the area, a calm, steady wind blew into us. The kinetic absorbing get on my power armor was soft and squishy under my feet. There was no face mask on my helmet. I viewed the outside world with a camera.
+
+We knew a few things. The steel legion had been here, because the rift was covered in a containment zone from their tech. Poor bastards must have died already. Good. That meant more loot for us. We might even find a few of their bodies with plenty of loot still on them.
+
+They legion were just a fodder faction anyway. 99% of them were useless, never leveling past 500. Only the top 1% were any good. None of that 1% would be here on this shit hole, I could promise you that.
+
+Once all of our equipment was ready, I turned on my voice chat. Everyone was silent. I sighed with relief. Everyone was taking this seriously, even if the world was backwater. I turned towards my left, looking at a rock building. According to my sensors, a pit of radiation lingered just behind it. It was like someone used a nuclear weapon here.
+
+I spoke into my intercom, “The rift might be more dangerous than we thought. I think some kind of governing body got a hold of nuclear weapons. The primitives must have used them on whatever caused this quarantine.”
+
+I turned forward, looking into the gray cloud of the rift that rose high into the sky,
+
+“Since the quarantine is still here, we might have a real problem on our hands.”
+
+Joce murmured, “I don’t think that’s it. No one’s here anymore. This doesn’t look like someplace where any government could have formed. It looks like...I don’t know.”
+
+Mal answered, “Come on. This is a literal shit hole. I mean that unironically. Just a real shit hole of a place. Wow, mud everywhere. And shit.”
+
+I sighed. Mal was a complete dumbass and I hated him. I don’t think I have to explain why.
+
+Thry’s light voice waved over the intercom, “Stay focused team. This is our last mission before we can finally just relax for the rest of our lives. I don’t think I have to remind you all again how hard it was getting to this point. Let’s not throw it all away right now.”
+
+Thry always centered our team. It was a part of being a charisma based build.
+
+Skyn’s untrustworthy, snaky voice entered the intercom, “There’s a presence watching us.”
+
+I turned behind me, glaring at him, “Mister mage, why didn’t you tell us before?”
+
+Skyns updated our mini-map as he spoke, “I just sensed whatever it is. Before now it hadn’t used any mana. I’m getting a scan of the area...I think it’s easily level 500+, and it’s coming from below ground.”
+
+Thry and the others set into formation. I bent my knees, my senses on high alert. With all my dexterity, I could hear a pin drop a mile away. I honed in on my sense of hearing, pulling all I could from the sense. Using a unique skill, Lockpick’s Ear, I picked up on a rumbling beneath us.
+
+I pointed at the ground, “It’s coming from right there. I can hear it.”
+
+Behind me, the roar of jetpacks blared out along with the sound of casting magic. The others floated high into the sky, far away from whatever this enemy was. The rumbling grew beneath us. It sounded like a space shuttle drilling through the ground. A second later, something passed over me.
+
+An aura of some kind pulled me down. My ears popped. My knees buckled. I heaved for a breath before pushing myself back up straight. A chill ran up my spine. Whatever this was, it caused the quarantine.
+
+A moment later, and the drilling beneath us slowed. I told the others, “Be ready. It has some sort of aura that makes everything heavy.”
+
+Thry chimed, “Thanks for the heads up Orel.”
+
+I replied, “No problem.”
+
+A moment later, I pulled out my pistol. It didn’t fire bullets. It fired vials of liquid. I fired my alchemical potions at the eldritch and used speed and tactics to keep them busy. This was my tried and true starter vial, a potent acid and neurotoxin. I moved about fifty feet away from the point of entry, aiming for the eyes of the creature.
+
+Robbing an eldritch of its senses was a good way of crippling it. I cocked the pistol and pointed at the monster’s exit point. A moment later, and something jerked my pistol from my hand with great force. It smacked against the building to my right, shattering the vial of acid inside it.
+
+At the same time, the rumbling monster crawled towards me from beneath the ground. I ran backwards, opening up my spatial ring’s storage. I pulled out my back up pistol. Whatever this thing was, it moved fast as lightning, even underground.
+
+The monster charged towards me in a blast of speed. It reached me before I could escape. As it did, I fell upwards. It was a surreal feeling. All my levity went missing just like that. I got my bearings before howling at the others,
+
+“What the fuck is going on here?”
+
+Skyns answered over our chat system, “It looks like it can use magic, whatever it is. That’s either telekinesis or gravity. I’ll get you out.”
+
+The monster carried me with it as it burst back towards the others. Once underneath them, it shot out of the rocky ground. It’s speed was blistering as the flash of red and black reached them.
+
+Once it slowed down near them, I got a good look at it. It was a big creature, not enormous but much bigger than any of us. It had four limbs, and it had metal skin. That meant it was durable. It reached up with a mammoth hand and grasped at the air. As it did, the others all pulled together, their bodies clanking together.
+
+The monster fell back towards the ground. As it landed, fissures formed in the ground beneath it. We all floated helpless as lost children before stopping inches from the ground. A second later, and it laid us gently onto the ground. We each scrambled up as the monster opened its arms towards us,
+
+“Yo, sorry if I scared you guys. I knew you’d fire at me if I walked at you head on. I figured this was the best way to not be shot at, if you know what I mean.”
+
+I aimed my pistol at him before this thing stomped the ground. My pistol jerked from my hand again before the monster reached out with an arm. The pistol stopped mid flight before pulling back to me. The monster pointed at me,
+
+“I’m trying to work with you guys here. If you could just, I don’t know, not try and kill me, I’d appreciate it.”
+
+The monster dropped the pistol back into my hand. I looked at the others. They looked at me just as dumbfounded. None of us had ever seen an eldritch like this. It was intimidating, but it didn’t seem like it meant to harm us.
+
+A bead of cold sweat fell down my face. I’d faced sentient eldritch before. They always lured you in with sweet words. This thing was no different. I analyzed it to try and get some weaknesses. As I read, I got a grip on what was going on.
+
+Dimension C-138, the Harbinger of Cataclysm(lvl 2,406) - Once a member of earth’s native species, humans, this unknown boasts tremendous durability. It’s level doesn’t accurately reflect its ability to absorb punishment. This is due mostly to its armor, which is made of an unknown substance that is both flexible and exceptionally rigid.
+
+Its health pool is vast as well, and it can use that life force for mana, giving it flexibility in combat. It has several ways of using this enormous mana pool. Its runes can charge with energy, enhancing its strength and speed. It can warp gravity at will using its mass as an anchor. If you’re lighter than this creature, it will sling you around like a ragdoll.
+
+That wouldn’t be a problem if it wasn’t for how devastating it is in melee range. It fights with its massive fists. As primitive and predictable as that sounds, it proves much more difficult to stop in practice. It has enhanced its simplistic techniques to produce a remarkably effective style of close combat.
+
+A tenacious willpower aids this creation’s monstrous vitality, creating a vicious warrior class. Given time, this thing can chew through almost any foe. It even has a large, powerful aura that drains its foes. Considering there are no effective types of damage on whatever this is, fighting it isn’t advised.
+
+If you want the wealth of experience this monster provides, the best course of action is to stay at a range and unload tremendous burst damage on it. With your party’s current capacities, this analysis recommends fleeing before it gets a hold of you. Otherwise, you will be at this monster’s mercy.
+
+This wasn’t an eldritch. It was an unknown. We never trusted unknowns. They were strange beings, almost like Old Ones. If anything, I always thought of them like big balls of chaos. I hated dealing with them for the same reason I hated dealing with sentient eldritch. They were unpredictable, and that made killing them hard.
+
+The only good thing was that they always gave heaps of experience. Killing an unknown beneath your own level resulted in several level ups. This one would give us several missions worth of experience. We would gain over a hundred levels a apiece, at least. The thought of so much experience made my mouth water.
+
+This monster though, it wasn’t something worth fighting for just levels. If anything, we were lucky that it hadn’t killed us when it found us. I turned towards the others, sealing my face mask and speaking over our intercom,
+
+“This isn’t worth it. We might be able to kill this, but we’re better off not taking the risk. We’ll have to fight a few dozen other missions before we get back to where we are, but...”
+
+Skyns hissed over the intercom, “Looking at that thing makes my skin crawl. I don’t think it’s worth fighting either. Not at our levels at least.”
+
+The others nodded in agreement. We were ready to get out of this mudhole before a message appeared in front of us,
+
+Quest unlocked!
+
+Seeker of Forbidden Knowledge(Tier: A- timed quest | Terms: Kill Dimension C-138 | Reward: Sentinel rights and doubled experience for killing the unknown) - Dimension C-138 was once known as Daniel Hillside, a normal sentient following Schema’s system. After gaining forbidden knowledge, he’s traveled in the footsteps of demented creatures.
+
+As such, his long term potential for damage to the system is high. His termination results in enhanced rewards along with high status in Schema’s system.
+
+As I read through the message, my jaw dropped. Royal guard was nothing compared with sentinel rights. A sentinel’s rights meant unrestricted access to Schema’s universe. Upper tier worlds would be open to us right off the bat.
+
+There wouldn’t be some insane level cap for these places. Some of the best tropical worlds required levels as high as 5,000 for entry. We would get a yearly stipend to spend on whatever we wanted. We would get automatic access for forming a guild. It would open up an entire world for us.
+
+Getting this kind of reward for killing such a low level enemy...it wouldn’t happen more than once. This was a once in a lifetime opportunity. Knowing that, I turned towards the others. Surrounded by rubble, they looked back at me. I spoke over the intercom.
+
+“Did you all get the message?”
+
+They nodded in silence. Skyns spoke like he was staring at a pot of gold,
+
+“You all spoke about becoming members of the royal guard...That’s scrap compared to a sentinel’s rights...”
+
+Mal murmured, “We won’t ever be able to get something like this again.”
+
+Even our good natured Cleric, Thry spoke out,
+
+“I...I wouldn’t mind having our own tropical kingdom...”
+
+I nodded, a wry smile growing on my face, “You know what Thry? I don’t think I’d mind either. Besides, killing this unknown isn’t nearly as risky as trying to get sentinel right’s any other way.”
+
+Joce chimed, “We have a lot of consumables we could use. If we go all out, we might be able to get him.”
+
+Skyns murmured, “I have a ritual prepared that can hit him with a massive amount of true damage. It will take some time to channel though.”
+
+I grinned, “Oh really? Hide somewhere and leave the rest to us. I’ve got a plan.”
+
+I opened my spatial ring and pulled out a black vial full of eldritch energy. Nothing survived exposure to this stuff. This unknown used to be a member of this native race. They’d been assimilated for less than a decade. If I was right, there’s no way he would know just how dangerous this vial was.
+
+He’d be turned inside out by the energy before he could even respond to us. I waved the vial above my head,
+
+“I want to thank you for the good will. You really saved us a hassle here. I’ll give you this. It’s a powerful energizer. It can help you out in a pinch.”
+
+The creature shook its head, “No. That isn’t really necessary. Just leave.”
+
+I waved my hands back and forth, “I insist. If this quarantine is as hard to beat as you say, you pretty much saved our lives. That deserves something.”
+
+I shook the vial in front of it, “I’d feel awful if you didn’t get something for taking the risk to help us. From one leveler to another, let us help you out.”
+
+It uncrossed its arms, “Alright. Fine.”
+
+I tossed the vial at the monster. It reached out with a hand. As it caught the vial, the others raised their railguns and fired at the monster. Skyns flipped the pages of his grimoire and cast a kinetic burst spell on the eldritch vial. The black smoke smothered the creature as a hailstorm of bullets clashed against the metal.
+
+Clashing metal echoed into the distance from bullets smashing on the thing’s metal skin. With a practiced motion, I slid a vial from my side into my pistol before firing a vial at the cloud of black smoke. The others unleashed a maelstrom of metal on the primitive creature before having to reload their rifles.
+
+The heavy aura disappeared from around us. That meant the damn thing was dead, so I raised a hand, "Killing backwater natives isn't so bad."
+
+The others whooped with me before an aura of red radiated from the black cloud. The dense, black smoke sucked into the creature’s body, exposing it. Spikes grew off its shoulders and back. Along its armor, magic runes were carved out and glowing. They were the same runes Skyns was using earlier.
+
+A bead of sweat fell from my forehead. A sinking feeling pulled at my stomach as acid ate into the monster’s skin. It didn’t even flinch as it walked towards us.
+
+It raised its fists, “Yenno, I tried giving you guys a chance. I really did.”
+
+Streaks of corrosion burned him down into his flesh. The singing of acid was like a banshee’s howling. A cloud of white mist, all of it a potent neurotoxin, covered him. Like liquid metal, a silver, reflective blood leaked from the creature. We all watched in horror as its wounds healed in seconds.
+
+My vial did damage though, and by the looks of the creature, a decent chunk of its health was missing. The monster crossed its arms and propped all its weight onto one hip,
+
+“Yawm was right. There’s no way I can trust you. It’s a damn shame too. I was trying to be nice.”
+
+The runes across its metal body flared further to life, energy building in them. The skin of it shivered, the armor rippling over it in exhilaration. The ground beneath its feet cracked,
+
+“Letting you throw acid on my face and live though? I’m not quite that kind.”
+
+An aura covered me, like every nerve in my body was being pierced with needles. It was like magma pumped through my veins all of the sudden. Everything became pain. My health drained fast as the monster bent over, readying itself for a charge. My stomach sunk as a realization came into my head.
+
+We had tried killing the wrong monster.
+
+“Besides, killing you is better than what Yawm planned on doing."
+
+My stomach sank even further, like I was staring at the grim reaper. I only knew one person named Yawm, and I only heard his name in legends.
+
+The monster's runes brightened,
+
+"Compared to that, this is mercy.”

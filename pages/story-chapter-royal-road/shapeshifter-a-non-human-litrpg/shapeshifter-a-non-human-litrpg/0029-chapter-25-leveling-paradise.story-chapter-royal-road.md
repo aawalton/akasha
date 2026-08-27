@@ -1,0 +1,257 @@
+---
+id: f06416f2-7153-5e87-b3da-1db1ca31ad8c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: Leveling Paradise"
+slug: 0029-chapter-25-leveling-paradise
+partOf: shapeshifter-a-non-human-litrpg
+position: 29
+ownLength: 2194
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3579541/chapter-25-leveling-paradise"
+royalRoadId: "3579541"
+---
+
+Xen brought his Guild Association-issued Wellington boot down on the last Cinderspawn before it could scuttle into the crack in the floor.
+
+The shell crunched. Black innards smeared the porous rock. The little cinder core at its center rolled free of the body and came to rest against his boot, still warm like a lit coal.
+
+Notifications stacked in the corner of his vision demanded his attention.
+
+You have killed multiple opponents. Bonus experience awarded.
+
+Experience split between [Changeling Slime] and [Elf] form.
+
+[Changeling Slime] has leveled up: 85 → 86.
+
+[Elf] has leveled up: 48 → 49.
+
+There was another message that refused to go away.
+
+[Floor 11 has been sealed in preparation for invasion. The Abyssal Rift cannot close, and the floor cannot be left while its Guardian lives]
+
+The infiltrator had advised him to leave this place quickly, and Xen suspected this was what he had been referring to—the appearance of this Abyssal Rift and its Guardian.
+
+Xen dismissed the notifications. Whatever this Abyssal Rift was, he had noticed a sharp increase in the strength, number, and types of monsters on this floor.
+
+A likely terrible outcome for the party of humans he had left behind in the barricaded tower, but it was a leveling paradise for him.
+
+In under an hour, he had gained five levels in his Changeling Slime form, and he was almost a level 50 Elf. The Cinderspawn weren't worth much individually, as they were a swarm-type monster created by the dungeon to wear down hunting parties. But the experience gained from killing them compounded when they were slaughtered in groups, and the system was generous to anyone foolish enough to fight forty things at once by their lonesome.
+
+Xen took a moment to bask in the amber light of the 11th floor. Around him, the porous black floor sloped down into a shallow basin, and the remains of the swarm lay scattered across it in twitching pieces.
+
+They had mostly been wiped out by continuous use of his [Cataclysm (A)] skill. It was frighteningly efficient at decimating groups of weaker monsters that relied on shifting through the ground.
+
+Without Cataclysm, this fight would have been far more annoying, Xen thought as he crouched beside the last cinder core and picked it up.
+
+It was the size of a marble. Smooth, dark, warm in a way that suggested the warmth was radiating from within. He turned it between his fingers, watching the faint thread of swirling abyssal dark pulse inside.
+
+He raised the core toward his mask.
+
+[Use Devour on Cinderspawn?]
+
+"Yes."
+
+His slime shifted under Yuki's skin. The mask peeled upward over his mouth, and a thin black tendril uncoiled from between his lips and reached for the core—
+
+A crack split the air overhead.
+
+Xen froze.
+
+There's something above me?
+
+He hadn't picked up anything through Geomantic Perception. He expanded the skill out again and felt something off about the amber crystal hanging directly above him.
+
+Xen looked up.
+
+The crystal was four meters long, as thick as a person at its base, and it had a single splintering line running down one face that he was absolutely certain had not been there a moment ago.
+
+Inside the amber, something uncoiled.
+
+The tendril at his lips dropped the cinder core onto the stone with a soft click.
+
+"Oh," Xen said quietly.
+
+The crystal overhead shattered.
+
+Splinters of amber rained down as a long-limbed shape unfolded out of the cracked column above him in one wet, peeling motion.
+
+It dropped.
+
+Xen reacted instantly. He dashed sideways across the porous rock and over the carcasses he'd left behind from the swarm. The thing landed where he'd been crouched a half-second before. The impact cratered the stone.
+
+Xen slowed and got his first proper look at it.
+
+The monster was roughly the shape of a three-meter-tall human, with limbs too long for the body they were attached to and joints sealed in dripping amber that came off in slow, viscous strings each time it moved. Its head was a smooth, faceless globe of resin that twitched as amber ran down its shoulders and pooled at its feet in slow, hissing drops.
+
+"Appraisal," Xen whispered as he continued to back away.
+
+[Resinreaver (Level ??)]
+
+Two question marks? Then it must be an A-grade monster, he thought, and I didn't feel its presence at all.
+
+This was bad. While Xen's Changeling Slime form was higher-leveled than this monster, his Elf form was only level 49. This meant his magic was of a higher tier, but this monster would beat him in a test of strength or speed.
+
+The Resinreaver tilted its head toward him. The motion was too smooth considering its crystal-like body.
+
+It came at him.
+
+The lunge was fast, and its arms were somehow faster. They snapped out farther than their length should have allowed, and their amber claws caught Xen across the chest before he could complete his step backward. He almost spun and toppled from the force alone.
+
+Xen raised his hand without thinking. "Radiant Smite."
+
+The bolt arced from his fingers and met the amber claws that were dug into his ribs. He was blinded for a moment, and when he finally blinked away the light, he was shocked to find the claw was unharmed.
+
+The bolt of radiant lightning hung suspended inside a small bead of amber on the Resinreaver's wrist, motionless, like a firefly trapped in resin.
+
+Xen stared at it for a half-second.
+
+What.
+
+He fired again, putting far more mana into the attack this time. The arc struck the same arm, and it was caught the same way. Like a blister on the monster's hand, a second bead of frozen lightning formed. The Resinreaver didn't react to either hit.
+
+Xen began to panic.
+
+The Resinreaver's second arm slid up under his jaw and gripped his throat. Before he knew it, he was being lifted into the sky, his short legs kicking uselessly. He didn't have a chance to utter another skill as there was an audible snap as the monster broke his neck. For anyone else, this would be the end. But for Xen, he would only die if his Changeling Slime form were obliterated.
+
+Don't panic. Think. What do I have to work with here?
+
+He glanced at his system screen and gleaned the relevant information.
+
+​​[Name: Xen]
+
+[Level: 86 (A)]
+
+[Race: Changeling Slime (Rare Variant)]
+
+[Current Form: Elf (Radiant Healer: Level 49)]
+
+[Class: Shapeshifter (Unique)]
+
+Changeling Slime: Level 86 (A)
+
+< [Devour (S)] - [Appraisal (C)] - [Geomantic Perception (B)] - [Shapeshift (E)] - [Soul Leech (D)] - [Withering Hex (C)] - [Perish (B)] - [Acidic Burst (D] - [Changeling Veil (A)] >
+
+< [Undeath Resonance] - [Blight Aura] - [Hex Catalyst] - [First Strike] >
+
+Elf: Level 49 (C)
+
+[Class: Radiant Healer]
+
+< [Multilingual (B)] - [Radiant Smite (E)] - [Orbs of Light (E)] - [Beacon of Grace (B)] - [Mending Pulse (D)] - [Spellbreak (C)] >
+
+< [Radiant Aura] - [Healer's Instinct] - [Mana Empowerment] >
+
+Free Skill Slots (10):
+
+Slot 1: [Bloodmark Hunter (B)]
+
+Slot 2: [Multilingual (B)]
+
+Slot 3: [Corruption Missile (B)]
+
+Slot 4: [Ghoststep (B)]
+
+Slot 5: [Chains of the Damned (A)]
+
+Slot 6: [Flash Mend (C)]
+
+Slot 7: [Cataclysm (A)]
+
+Slot 8: [Cleansing Light (D)]
+
+Slot 9: [Hellfire Howl (B)]
+
+Slot 10: [Earthen Regeneration (B)]
+
+He flicked through his options. Based on what happened with Radiant Smite, he had no reason to think his other ranged magic skills, like Corruption Missile, would do anything. Most of the skills his Elf form had were focused on healing, making them useless against a foe that could potentially one-shot him.
+
+I could use Ghoststep to try to flee, but this monster can likely catch up with ease. It snapped my neck, thinking I was an Elf. If it knew I was a shapeshifter, it would have gone for my head. A battle of speed or physical power won't work. All I can do is hope to level the playing field by stacking ailments. Wait, where is [Ashen Gaze (A)] in my free skill slots? Did I forget to add it? He thought back on when he had unlocked the skill and cursed his luck. I didn't have the time and mana after devouring the Ashrock Colossus, as I had to rush back to complete my evolution. Adding it then slipped my mind.
+
+While it would have been perfect in this situation, he had to make do with what he had. Luckily, since they were so close and there was no way the Resinreaver could dodge without dropping him, he had another skill worth using.
+
+"Withering Hex," the skill name came out as a barely audible rasp due to his broken neck, but it was enough.
+
+The beam of rotting energy was thin and silent. It punched into the Resinreaver, convinced of its victory at point-blank range, and an amber blister on its chest absorbed it as it had with the Radiant Smite.
+
+Yet, the Resinreaver lurched. Its head snapped back as if it had been struck by something it could feel.
+
+[Resinreaver (Level ??)] Afflictions: Blight Aura (stacking), Rot.
+
+It can absorb the attack, but can't negate the debuffs, Xen thought. One more, and I can strike with Perish.
+
+The arm at his throat loosened just enough that he could drop. He hit the porous stone hard and cradled his limp head with one arm. With the other, he took advantage of the monster's brief confusion and raised his palm.
+
+"Acidic Burst."
+
+The skill detonated against the Resinreaver's chest at a meter's range.
+
+It was an Acid Slime suicide skill, and it showed. Yuki's forearm was ruined in the recoil. His wrist shattered, flesh dissolved past the elbow, but the Resinreaver took the full strike without its amber blisters being able to contain the attack.
+
+Acid ate a hole straight through the husk's torso and out the other side, the amber inside its body running clear out of the wound in long, ropey threads.
+
+[Resinreaver (Level ??)] Afflictions: Blight Aura (stacked), Rot, Corrosion.
+
+Three.
+
+The Resinreaver staggered. It turned, with that same too-smooth motion, and reached up toward the broken crystal it had come from. The amber on its arms began to flow upward, against gravity, in long sticky strings, reaching up and trying to pull from the resin.
+
+It's trying to heal or escape, Xen realized.
+
+He couldn't allow that.
+
+He aimed at the Resinreaver's back and forced the mana up through Yuki's remaining hand.
+
+"Perish."
+
+The debuffs detonated at once, and the Resinreaver exploded from the inside. It let out a strange screech, gave up on healing, and tried to lurch at him again.
+
+Xen answered with a roar of fire. "Hellfire Howl."
+
+The ball of fire blasted it back a step and inflicted a constantly ticking Burn effect. Perish continued to wreak havoc from within, and for a moment, it stood still, looking down at him with that featureless face.
+
+It then exploded. The amber that had been holding it together rained down across the basin in a shower of dirty honey-colored shards. Its head bounced once on the porous stone and rolled to a stop against the cinder core he'd dropped a minute earlier.
+
+The broken crystal above him cracked and fell, crashing to the ground and splintering like glass.
+
+Silence followed.
+
+Xen stared down at Yuki's ruined arm. The flesh between the elbow and the shoulder was still there. Everything below the elbow was a wet sleeve of dissolved meat hanging off the bone, and the wrist was simply gone.
+
+He flexed what remained, and a fresh wave of pain went up the nerves into his shoulder. It almost overrode the pain coming from his broken neck. Almost.
+
+He could repair it all. He had biomass to do so, but was it worth it?
+
+He glanced up at the ceiling.
+
+Amber crystals hung above him in long tapered columns, dozens within his Geomantic Perception range, hundreds beyond. Any one of them could be hiding the next Resinreaver.
+
+In Yuki's form, he was a healer. If he struggled this much against a surprise mob, how would he fare against the Guardian?
+
+Xen lowered his arm, and the notifications confirmed his victory.
+
+You have killed an opponent.
+
+Experience split between [Changeling Slime] and [Elf] form.
+
+[Changeling Slime] has leveled up: 86 → 88.
+
+[Elf] has leveled up: 49 → 50.
+
+[Elf] has reached Level 50 (B Grade). Evolution is available.
+
+Please choose a class from the following options: [Mage], [Priest], [Archer], [Juggernaut], [Spellblade], or [Radiant Healer].
+
+System, before doing that, I wish to swap to my Human form. Just like I did before.
+
+[Do you wish to take on the Human form?]
+
+[Warning: If you change forms prior to beginning class evolution, the resulting skill and passive will be assigned to your active form, assuming it qualifies as a class-compatible entity.]
+
+I can't keep being Yuki when I need to solo hunt monsters like this.
+
+"Yes," he said, instinctively picturing the human form he knew best.
+
+The one that had carried him through previous dungeons, a form that fit like a glove.
+
+Ghostwire.

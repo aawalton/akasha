@@ -1,0 +1,203 @@
+---
+id: d6836146-8497-5aba-acd2-5ce03da19b53
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Copper Demon; Skinny Demon"
+slug: 0033-chapter-33-copper-demon-skinny-demon
+partOf: phoenix-ascension-cultivation-litrpg
+position: 33
+ownLength: 2145
+unit: words
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2661716/chapter-33-copper-demon-skinny-demon"
+royalRoadId: "2661716"
+---
+
+The two dragons flew higher and higher, leaving a trail of fire and awe behind them. They rose to the skies with majestic shrieks, grabbing the attention of both the skinny man and the copper-skinned man.
+
+I took advantage and slipped into stealth, hoping that my meager Qi reserves would allow me to land a sneak attack if this attack didn’t work. Though, I really wanted it to work. I used both stamina and Qi to create True Dragon shapes from the Nirvanic Flames and Phoenix Fire, and I was pretty sure the skill ranked up as well.
+
+I didn’t have the luxury to check, but I would find out after flying to safety. Scurrying over to a large bush, I sat down and waited for the dragons to descend.
+
+Using my already spent mental prowess, I could give them a simple attack command, and they would follow it until they dispersed, or I ran out of Qi.
+
+This Flame Dragon skill was a technique I used to use, from what I could remember. It required an actual mantra to use, but thanks to my Fire Affinity, fire knowledge, and the Precise Flame Control skill, I could recreate it without needing to know the mantra.
+
+I didn’t expect System to recognise it as a skill, but I’m glad it did.
+
+I watched with a racing heart as the two dragons— One made out of an orange-yellow fire, and one made out of a red-orange fire— circled each other, then roared and dived toward the two cultivators.
+
+The fearful expression on their faces was priceless, and I could only hope the dragons did their job.
+
+A huge explosion of flames envelopped the area, and I wished I had cast a wave before going into hiding, but it was too late. I wouldn’t risk exposing myself so soon.
+
+As the fire disappeared, the intact figures of the two men slowly revealed themselves, a huge barrier protecting the two of them from the raging inferno. It didn’t look like it would last for long.
+
+The two dragons let out an angry roar, and smashed their bodies against the barrier, making it shudder. Seeing that, and the difference in size between the two and the dragons, I felt a little at ease.
+
+However, just as I was about to allow myself to heave a sigh of relief, both of them took out a handful of pills and swallowed them as if they were candy.
+
+Seeing that, I felt my heart ache, but nothing could have prepared me for what they were about to pull out next.
+
+Two tiny bills the size of a small pebble appeared in each of their hands. They glowed with an eerie red light, reminiscent of flowing blood. The two looked at each other, one saner than the other, and nodded.
+
+“I can’t believe that tiny thing could force us to such a state. We won’t be able to send out the distress signal from here. I’m sure the flames will destroy it, and us, before it goes out. Brother Li, this is our last resort, are you sure?” The skinny man asked as if the copper-skinned man had enough sanity to make a conscious judgement.
+
+Much to my surprise, he nodded. “I’m afraid that fellow lied to us. These are definitely not normal pills. Did they glow like this before?” Brother Hao spoke, but brother Li’s replies have gone quiet. “Brother Li, let us meet again in our next lives… if whatever this is won’t take our souls before that.”
+
+He shook his head and looked at the sky, then at the surrounding flames, and then the two swallowed the pills right as the barrier broke.
+
+The two fire dragons engulfed them, the flames consuming everything they touched with expert speed. With the air in the area growing thicker and hotter, the lake began to bubble and whatever else dwelled in there boiled to death.
+
+However, a crimson light seeped through the yellow, red and orange inferno, growing larger and larger with each  passing second. I instinctively cast Heaven’s Protection and backed away, feeling an intensely powerful aura appear.
+
+I commanded my dragons to fly away just in the nick of time, as a powerful explosion shook the earth.
+
+From it appeared the skinny man and the fat man. The former’s skin had turned crimson, and two crooked horns grew out of this head, while the latter’s copper skin turned to an even deeper color.
+
+Scale-like shapes formed on his surface, and between the ridges flowed a blood-like liquid that creeped me out.
+
+Unlike the skinny man, whose horns rested at the top of his head, the copper-skinned man’s horns were all over the place, broken in some places, sharp in others.
+
+I couldn’t believe they’d gone through such a drastic transformation in basically no time at all.
+
+The two went from normal looking humans to demons from hell!
+
+The skinny man’s sabre turned blood red as well, and grew slightly while the fatty’s metal whip had resurfaced, becoming even more demonic than before.
+
+Could they have been duped by some sort of demonic cult? First the copper skin going berserk then that strange pill and now this… Does trouble follow everywhere I go?
+
+All I wanted was to protect the peace of the first, but now I ended up fighting demons, a major realm and then some above me, while I was running low on Qi with no easy way to replenish it!
+
+All I could hope was that the dragons were strong enough.
+
+The two flaming dragons wrapped around the skinny demon, constricting around it like serpents. With the two of them tightening around him, the demon showed signs of struggle as hot air escaped his lungs.
+
+He couldn't move, but it would take a while before his skin and bones burned away from the heat. He’d become more resilient, tougher and a hell of a lot more annoying.
+
+The copper-skinned man rushed to help, grabbing one of the flame dragons, but how could I let it succeed?
+
+I jumped out of my hiding spot and stealthily approached the man, priming my Iron Claw with Nirvanic Flames, I aimed straight for his ankles.
+
+A giant who couldn’t get up was worthless.
+
+I struck at his feet and managed to cut through the scales, skin, flesh and bones, but was stopped by his bones. However, using my Tail Whip, which I also infused with Nirvanic Flames, I managed to get a clean cut and cut off both of his feet.
+
+Unstable, he fell, letting go of the snake. Despite his new form, I could still cut through him like a hot knife through butter. However the energy I used was many times higher than before, and my resources in terms of both Qi and stamina began to thin.
+
+If the dragons couldn’t take care of them, I would be done for. My best bet would be to fly away before things get too out of hand, however could I leave these demonified cultivators out in the wild?
+
+I wasn’t a saint by any means, but their presence would attract unwanted attention.
+
+What should I do? Think, think! There has to be a way for me to kill them before things get too out of hand.
+
+System! Right, system! Do you have anything?
+
+[Searching database for appropriate skills for the situation.]
+
+[Analyzing…]
+
+[Skills found!]
+
+[Skill Shop]
+
+[Light of Purification]
+
+[Creates a holy light to fight against demonic forces. Upon use, a giant light descends from the sky, shining upon the closest demonic entities. The effectiveness of this skill depends on the user’s INT and Holy Affinity. Requires Holy Affinity.]
+
+[Cost: 5 Skill Points]
+
+Something that doesn’t require me to get an entirely new affinity??
+
+I screamed internally as I took a few steps backward, watching in horror as the copper-skinned demon’s legs healed completely.
+
+Now that’s just cheating!!
+
+[Sorry… the best way to deal with demons is to purify them. Only Holy Affinity used through certain mantras and only by certain people can do that effectively.]
+
+Give me options, I can’t afford to look for a priest! Aren’t they human still??
+
+[System  has detected a change in nature. These entities are no longer humans, but full demons.]
+
+How is that even possible?!
+
+I screamed while dodging the fatty’s attacks. At least he gave up on helping his friend while my dragons grinded away at his body. It took an enormous amount of time for my flames to act upon him.
+
+However they worked well against the fatty up until the moment he healed all the damage I did, so what gives?!
+
+Fine, fine, how do I get Holy Affinity??
+
+[I don’t think you have the luxury to listen to such long details that right now.]
+
+System said while I barely dodged a whip of the man’s chain. I’m being serious, I need help!
+
+[Why not just run away? You’ve done it before.]
+
+Run away? Me? The great Fa Xiaolan? From these Foundation Establishment ants?
+
+I let out an annoyed chirp as the end of the metal whip nicked my back, an intense pain coursing through my body. Running away? Like hell I will! If they break free from here, who knows what they’ll do to my forest.
+
+Sure, it was a shoddy place, but it was my home where I and Mother lived. How could I allow anyone to destroy it?
+
+Impossible.
+
+[I see…]
+
+[There is a way, but it will be dangerous.]
+
+Which is…?
+
+[It would require me to-]
+
+Require you to—
+
+The fatty didn’t allow me to continue my question, and I could only ignore what system said. Not giving him the full focus he deserves would spell my death.
+
+Think, Fa Xiaolan, how do you defeat enemies far above your level?
+
+As I talked to myself, I dodged another whip attack, and a boulder behind me broke into a million pieces from the force of the attack.
+
+Wait a minute— I know! How could I not think about that earlier?
+
+A dark thought appeared in my mind— a plan that would work amazingly well or fail spectacularly.
+
+I was willing to bet.
+
+I sidestepped with the last bit of Qi and ran toward the skinny demon, glancing at the fatty’s whip. There wasn’t much intelligence left in his eyes, and whenever he attacked it would be with unspent rage. I could easily take advantage of that.
+
+He readied his attack, pulling back his whip, and I ember stepped forward. The giant demon readjusted his position and aimed where I would appear.
+
+It’s now or nothing!
+
+I forced myself to touch the ground faster than I otherwise would have, and jumped, then flapped my wings and took to the skies. In the same moment, I commanded my dragons to uncoil and fly away.
+
+[Skill: Aerial Redirection has been acquired]
+
+The skinny demon’s Sabre Qi shot toward me as soon as he could move his body, but in his haste he failed to notice the unstoppable attack of his friend. I couldn’t look back, nor did I dare stop flying for even a second.
+
+I didn’t have time to check what the new skill did, but I had a pretty good guess— and using that guess, I moved as much as I could out of the way of the Demonic Sabre Qi.
+
+Arghhh!
+
+Unfortunately, I wasn’t fast enough. The attack nicked a good portion of the top of my wing, and the Demonic Qi started spreading with unbelievable speed. An intense, burning pain spread from there all throughout my body, and I could only tell my dragons to take care of the two demons as I fell through the sky.
+
+Not only fell, plummeted.
+
+I tried flapping my wins to make the crash less painful, but it did as much good as emptying an ocean with a bucket.
+
+Leaves, branches and bushes broke apart as I fell, crashing through too many trees for me to count, each consequent hit bringing my HP lower and lower.
+
+[WARNING!!! HP IS BELOW 20%]
+
+[WARNING!!! HP IS BELOW 15%]
+
+[WARNING!!! HP IS BELOW 10%]
+
+System’s messages flooded my vision, though I had no energy to deal with them. Whatever they said, it sounded important, but I had to resists the pain.
+
+[Skill: Pain Tolerance has reached the [Expert] Rank!]
+
+Right in the nick of time. I could already feel the pain lessen, though the uncomfortable feeling it has been replaced with didn’t make me feel any better.
+
+However, I could only thank the system, as I crased into a tree and stopped fully, falling and stopping on a rather thick branch. My mind went blank for a moment or five, and as the Demonc Qi spread, I could feel my life slipping away with every passing moment.
+
+Is this how I’m going to die in this life?

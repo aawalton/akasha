@@ -1,0 +1,237 @@
+---
+id: b05cae6c-1409-5034-bd4f-9fb1d1751885
+page-type-slug: story-chapter-royal-road
+title: "Chapter 103: The Stage"
+slug: 0103-chapter-103-the-stage
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 103
+ownLength: 2193
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3779025/chapter-103-the-stage"
+royalRoadId: "3779025"
+---
+
+I was falling asleep on the horse.
+
+Sudden vertical drop, chin hitting chest, spine snapping upright, hands tightening on the reins a half-second too late.
+
+The last five days had been beyond anything I'd pushed through since the prison cell. Sixteen-hour days at the workshop. Three prototypes built, tested, rebuilt, tested again. The Mark One's glyph tolerances failed on the second unit and I'd watched Rolf tear it apart at two in the morning with hands shaking from exhaustion, re-inscribe the recursive loop by lamplight, and have it firing clean by dawn.
+
+Asena had packed the crates herself. Ironwood bodies. Copper rails. Crystal housings. Twelve units, each one wrapped in oilcloth and nested in straw. Beside them, three crates of the mobile cooling prototypes — the military variant.
+
+And the ammunition. Four hundred copper balls.
+
+All of it rode in the supply wagon two positions behind me, under canvas, under guard.
+
+My chin dropped again.
+
+I caught myself and straightened, blinking against the white glare of the desert.
+
+The convoy stretched ahead and behind in a loose column. Fourteen riders. Eight supply horses. Two wagons. No flags until we were inside the walls. Outside, we were a trade caravan with an unusually large escort.
+
+The Knights rode in pairs, their formation easy but their eyes working. I'd been watching them since we'd crossed the border five weeks ago.
+
+They were good.
+
+Not the raw, terrifying good of the squad that had recruited me on the road from Grenzheim. Brandt's people had been the Iron Cross's edge. These were younger. Formation School graduates, most of them.
+
+Two of them were strong enough to give me trouble.
+
+The tall one near the front — a woman with cropped auburn hair and a bastard sword strapped diagonally across her back — carried a mana density I'd only seen in senior operators. Her core structure was deep, settled, the output of someone who'd been running Mana Blood at combat intensity for years rather than months. The man beside her, compact and dark, matched her in throughput if not in refinement.
+
+The rest were solid. Experienced enough to hold a wall. Trained enough to follow orders under pressure. Green enough that the first time a Titan screamed at them from fifty meters, some of them would freeze.
+
+I knew because I'd frozen.
+
+Everyone froze the first time.
+
+Where do I sit on that scale?
+
+The question had been circling since the caravan road. I'd spent months telling myself I was strong. I could outlast any of these riders in sustained combat. I could out-sense them, out-read them, out-endure them.
+
+But strength wasn't a single number.
+
+Brandt would beat me. Ghost would beat me before I knew the fight had started. Roen would beat me by being a wall I couldn't break. The tall woman two positions ahead would probably beat me if she got inside my guard.
+
+I'm strong enough to matter, I thought. Not strong enough to carry this alone.
+
+That was why the Knights were here.
+
+Two missions. One convoy. The Knights would fight. I would talk.
+
+A diplomat.
+
+The word tasted wrong in my mouth, and not just because I was chewing sand.
+
+Qalathar's walls rose out of the desert.
+
+The familiarity hit harder than I'd expected.
+
+The gate guards saw the convoy and moved. Bronze-masked Ashkeri descended from the wall in pairs.
+
+The senior Knight — a woman named Eckhardt, quiet, mid-thirties, scars on both hands — rode forward to meet them. She produced a sealed document from her saddlebag. Imperial seal on one side, a second seal I didn't recognize on the other. Khalid's, presumably.
+
+The Ashkeri officer studied the document. His eyes, vertical-pupiled and amber behind the half-mask, moved from the paper to the convoy and back. He spoke in Kumsuri. Eckhardt shook her head and answered in Imperial.
+
+A second officer was summoned. This one spoke Imperial, haltingly.
+
+"You are expected," he said. "The knights will come with us. To the wall garrison."
+
+He turned to me.
+
+"You." A pause. "You will follow the escort."
+
+A separate detail appeared from behind the gate. Four Ashkeri on foot, lighter armed than the wall garrison, wearing the embroidered outer robes I recognized as palace detail.
+
+The convoy split.
+
+Eckhardt pulled alongside me.
+
+"We'll be on the northwestern section," she said. "If you need us, send word through the garrison relay."
+
+"I won't need you."
+
+She studied me for a moment. Whatever she saw, she didn't comment on it.
+
+"Good luck with the prince," she said, and turned her horse toward the wall.
+
+The Knights followed her. Fourteen riders peeling away from the column, their silhouettes shrinking against the massive gate.
+
+I watched them go.
+
+Then turned and followed the palace escort into the city.
+
+Qalathar hadn't changed.
+
+The narrow lanes, the layered mudbrick, the noise and the smell and the press of bodies, all of it was the same thing that had hit me the first time I'd walked through the gate with Henrik and Lena.
+
+But the reality cracked if you knew where to look.
+
+The market stalls were thinner. Fewer luxuries. More staples. Grain sacks stacked higher than the decorative ceramics that used to dominate the displays.
+
+The crowds moved differently. The old rhythm had been the slow drift of a city that had never known urgency. Now people walked with their heads slightly forward, their eyes cutting to the walls every few minutes.
+
+And the soldiers.
+
+They were everywhere. Ashkeri patrols at every intersection. Common mages in garrison dress clustered at the bases of the wall stairways. Off-duty fighters sat on steps and against walls, hollow-eyed with exhaustion.
+
+The palace escort led me upward through the city's concentric rings, from the dense commercial sprawl of the lower ring through the wider streets of the middle district and into the quiet, clean-swept avenues of the high city.
+
+The noble quarter.
+
+I recognized faces. The gate captains, the wall officers, the minor nobles whose houses lined the upper streets. Many of them had been responsible for decisions, in other loops, that had killed me.
+
+The officer who'd refused to let me onto the wall until I'd bluffed my way past him with a name I'd overheard. The gate sergeant who'd ordered his men to hold their positions while people died in the plaza below. Captain Demir, whose color had drained from his face when I'd shamed him publicly.
+
+None of them recognized me. The hair was white again, but without the context of fire and blood, I was just another Imperial.
+
+The escort turned through an arch I hadn't seen before, and the palace grounds opened up.
+
+I'd never been inside.
+
+The palace of the Sultan sat at the crown of the city. Not ornate in the Imperial fashion. They had no marble columns, no gilded spires, no floating island casting theatrical shadows. It was functional. Sand-colored stone, cut in blocks the size of carriages, fitted without mortar so precisely that a blade couldn't find the seams. Towers at the corners, square and blunt, with observation platforms that commanded a view of the entire city and the desert beyond.
+
+The gardens were unexpected.
+
+Between the outer wall and the palace proper, stretching across a courtyard large enough to drill a regiment, someone had coaxed life from the desert. Trees I couldn't name threw circles of shade across paths of compacted sand. Water ran in narrow stone channels, catching the light. Flowering vines climbed the courtyard walls, their blossoms deep red and orange against the pale stone.
+
+In the center of the nearest garden, a small group waited.
+
+I dismounted.
+
+My legs nearly buckled. The exhaustion I'd been holding at arm's length came rushing in the moment my boots hit solid ground, and I had to set one hand on the saddle and breathe through it.
+
+Inhale through the nose. Hold. Count. Exhale through the mouth.
+
+I straightened.
+
+The escort led me forward.
+
+Prince Khalid stood with his hands clasped behind his back.
+
+He wore the layered robes I remembered from the trial. His face was leaner than it had been four months ago. The jaw sharper. The eyes harder.
+
+Behind him, four Ashkeri officers in full ceremonial dress. Bronze masks polished to mirrors. Curved swords in tooled scabbards.
+
+Khalid watched me approach. His gaze moved from my face to my boots and back, reading the travel in the dust on my coat and the circles under my eyes.
+
+He spoke.
+
+The words were Kumsuri, carrying shape and rhythm and absolutely no meaning. I caught a fragment and then it was gone.
+
+The silence stretched.
+
+I felt the Ashkeri officers' eyes behind their masks.
+
+"I don't speak Kumsuri," I said.
+
+Khalid's brow moved a fraction.
+
+"The reports said otherwise." His Imperial was the same as at the trial. "My soldiers on the wall described a man who gave orders in their tongue. Who shouted at their officers. Who argued with a gate captain in language fluent enough to make the captain's face turn white."
+
+"Common phrases," I said. "A few words picked up during the deployment. Enough to shout and point." I met his gaze. "The legend grew on its own after that."
+
+Something moved behind Khalid's expression.
+
+"Legends," he said. "Yes. They do grow."
+
+He was quiet for a moment. The garden's water channels murmured between us.
+
+"At this moment," Khalid said, "what Qalathar needs most is something worthy of legend." His voice dropped. "The city has survived on faith. Faith in the wall. Faith in the ward. Faith in the Ashkeri, and in the angel." His eyes held mine with an intensity that had nothing of the diplomat in it and everything of the commander. "You will learn to be that angel. Whatever you were before, whatever you are underneath, the city needs the legend more than it needs the man."
+
+I nodded.
+
+The pressure in our arrangement wasn't political courtesy. Khalid hadn't brought me to Qalathar because he liked me, or because he owed Varen, or because two princes had reached across a border and agreed on an alliance. He'd brought me because his city was cracking and the only thing keeping it together was a story about a man with white hair and pale fire.
+
+Khalid's gaze held a moment longer. Then he turned and gestured.
+
+A figure stepped forward from behind the Ashkeri officers.
+
+She was small. That was the first thing I noticed. She wore robes of deep blue silk layered over white, the cut and quality unmistakably royal, and her dark hair was pulled back beneath a headpiece of worked silver.
+
+Her face was sharp-featured and careful and trying very hard not to show the thing it was feeling, which was, unless I was badly mistaken, a combination of anxiety and curiosity.
+
+"My youngest sister," Khalid said. "Princess Soraya."
+
+She was staring at my hair.
+
+"She will serve as your interpreter," Khalid continued. "And your instructor. You will learn Kumsuri." He turned to his sister and said something in their language, short and clipped. The words felt like an order, not a suggestion.
+
+Soraya's chin dipped. "Yes, brother."
+
+Khalid looked back at me.
+
+"As quickly as possible," he said.
+
+"I'll learn," I said.
+
+"See that you do." Khalid took a step back, and the shift in his posture told me the greeting was over and the next phase was beginning. "Your day isn't finished."
+
+I waited.
+
+"I spent a great deal to bring you here." His voice had gone flat. "Political capital that my brothers watched me spend and are, at this moment, working to ensure I wasted."
+
+He let the words settle.
+
+"Each of them," he said, "is preparing. The second prince has secured a contract with mercenary companies from the northern corridor. Twelve hundred men, arriving within the month. The third prince has commissioned siege equipment from the foundries in the eastern settlements. Bronze cannons. Ward-enhanced crossbow batteries. The fourth is negotiating with the Ashkeri command for expanded conscription authority."
+
+I listened.
+
+"They are gaining ground," Khalid said. "With the population. With the court. With my father." A pause. "The next Sultan will not be chosen only by blood or by power. He will be chosen by who keeps the city standing. Each of my brothers understands this. Each of them is building their answer."
+
+"And yours," I said, "is me."
+
+"My answer is whatever you brought in those crates." Khalid's eyes cut toward the supply wagon, which had followed the escort into the courtyard and now stood behind my horse, its canvas cover still lashed tight. "Tonight you will be presented to the Sultan. You will show him what you have carried across the desert. And you will convince him that what I spent on you was worth more than what my brothers are spending on mercenaries and bronze."
+
+Tonight.
+
+I'd expected days. A week, at minimum. Time to rest, to assess the city's current defenses, to calibrate the demonstration. Time to prepare.
+
+Khalid wasn't giving me time.
+
+He was giving me a stage.
+
+"What hour?" I asked.
+
+"Sunset." Khalid turned. "Soraya will bring you to the audience hall. Do not be late."

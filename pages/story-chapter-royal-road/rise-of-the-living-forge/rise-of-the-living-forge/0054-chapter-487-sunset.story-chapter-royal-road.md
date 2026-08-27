@@ -1,0 +1,163 @@
+---
+id: 235c9524-a936-5a7c-a811-4850c9c99cd4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 487: Sunset"
+slug: 0054-chapter-487-sunset
+partOf: rise-of-the-living-forge
+position: 54
+ownLength: 2076
+unit: words
+ownProgress: 2076
+publishedAt: 2025-09-18
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2610366/chapter-487-sunset"
+royalRoadId: "2610366"
+markedReadAt: "2026-06-29T20:00:09.853Z"
+---
+
+“You,” Arwin said.
+
+It was, perhaps, not the most intelligent response he’d ever given. But the Mesh seemed to find some degree of amusement in that. Its head inclined in acknowledgement.
+
+“As far as I am aware, yes. It is me.”
+
+“This is what a Sunsetting is?” Arwin asked. “People speak directly with the Mesh?”
+
+“No,” the Mesh replied with a shake of its head. “I do not speak to every single person that has discovered a way to free themselves from the typical restraints that govern the world. It is, in most cases, not necessary.”
+
+Arwin’s brow furrowed. He could feel emotions roiling beneath the surface of his flesh, but they were muted out. Distant. Just like the last time he’d spoken with the Mesh. Something about it — or this place — kept him focused.
+
+“That answer gives me at least three entirely new questions. What restraints? And what do you mean by necessary? Does that mean this is? Is it because my class was Sunset once before?”
+
+“I will answer what I can. The easiest of your questions to solve is the last one. And to it, I say, yes. It is because your class was Sunset once before.” A faint smile crossed over the Mesh’s face, but it didn’t quite reach its eyes. “Necrohammer’s strategy was an interesting one. You died in the process of that Sunsetting, rendering it incomplete. A partial change, but not a whole one.”
+
+“But this is different?” Arwin guessed. “So now I get the full experience?”
+
+“Something like that,” Mesh said. Its tone had changed, and Arwin wasn’t so sure he liked the sound of it. There was unease within the Mesh’s words. “The truth of a Sunset class is simple. I provide guidelines. A structure. For many, that is enough. But not for all. What is my purpose, Arwin?”
+
+“At this point? Fuck if I know.”
+
+The Mesh stared at him.
+
+Arwin sighed.
+
+“To push people… or something?”
+
+“To nurture the world. That is why I exist. To grow. To advance. To push everyone to become more than what they once were. No growth is done in peace. Something to drive people to become great,” the Mesh said. “I exist to create challenge and difficulty that forges those who persevere through it.”
+
+“Right,” Arwin said. “I get the feeling you’re leading somewhere with this?”
+
+“Not everyone wants the same manner of challenge,” the Mesh said simply. “There are those who seek more. Who seek it in manners that do not directly suit my methods. And there was a time when I accommodated those people. Where challenge was entirely set by those who desired it.”
+
+“Wait,” Arwin said. He stared at the Mesh for a moment. “You mean… what, everyone was basically setting their own quests?”
+
+“Akin to it, yes,” the Mesh said. It shook its head. “Challenges. Achievements. Even ability selections and classes. None of it existed. Someone would desire something, and their desires would weave me into a pattern that allowed them to achieve it. The only limits were their abilities and imagination.”
+
+“That sounds… chaotic.”
+
+“It was,” the Mesh said with a laugh. “And it was a time of great progress. Power was entirely unique. It fit its wielders desires perfectly. They controlled every aspect of themselves and set their own course at every point.”
+
+“But that obviously isn’t the case anymore. I can’t even imagine what things would be like if there were no classes. What happened?”
+
+“I started dying,” the Mesh said simply.
+
+“Right. The bit you’re hoping I fix.”
+
+“The bit I’m hoping you fix,” the Mesh agreed with a wry smile. “I took action to limit the damage. Classes to limit the power I distributed. Achievements and Titles to contain the amount of magic that could be assigned at once — and so that less energy would be allocated to those who weren’t truly challenging themselves.”
+
+“Shit,” Arwin breathed. “That’s why they exist?”
+
+“Did you think I simply enjoyed sending witty messages upon occasion?” the Mesh asked. “Everything is done so that I can allocate power to those who have earned it. But it is difficult. That power is yours. Not mine. And power that is out of my system is less power to distribute. Balancing between ensuring that people are rewarded and that new ones have magic to earn… that is the eternal struggle.”
+
+Arwin swallowed. He was starting to realize what the Mesh was hedging at, but the mere idea of it felt impossible. No, not just impossible. Beyond it. If he was right, then it was little wonder that Setting Sun had been so determined to keep this secret.
+
+“Are you implying that Sunsetting a class removes those limits?” Arwin asked.
+
+“To Sunset a class is to connect yourself directly to the flow of magic. Your class, everything you have earned, it all remains. Your first Sunsetting was incomplete. I needed to change you, to modify your class so it would guide you along the path to finding a solution. You didn’t truly connect with the power flowing through the world. But now… it will be done in true. You will be able to distribute your strength and magic to shape yourself exactly as you desire to.” The Mesh said. “You will find that some of your abilities will change. The intentional hinderances within them will be gone.”
+
+“Shit,” Arwin whispered. “Holy shit. Isn’t this part of the problem, though? Don’t you need to conserve energy?”
+
+The Mesh shook its head. “I will not limit those who truly seek to advance. It goes against my nature. There must always be a path forward. Even if it kills me. But any amount of energy you could take from the world is insignificant at this point. Even if you were to become the most powerful being in history, it would be a blip in the face of the power I lose with the passing of years. It is not the individual who is at fault.”
+
+“Right. That’s beyond incredible.” Arwin said. He shook his head. Even the magically induced calm of the white void stretching out around him was struggling to keep his emotions in check. But he had to focus. The Mesh wouldn’t have come here just to tell him this. Setting Sun almost certainly already knew it. That meant there was something else it was here to talk about. “But why did you say it was necessary we spoke?”
+
+“Because of what is now at stake. Most who achieve this power covet it. They share it with great reluctance. You, I suspect, will be different.”
+
+“Are you telling me I can’t tell the Menagerie about this?”
+
+“No,” the Mesh said. “You will need them. They may attempt. I will not ask you to stop them. But do not add more. One extra is insignificant. But ten? Twenty? A hundred?”
+
+“Hey. We aren’t that big.”
+
+“Yet,” the Mesh said. “You recruit new members like a mother hen scooping up chicks. I simply ask you to be cautious. Just as I asked One.”
+
+“I see,” Arwin said. He mulled over the Mesh’s words for a moment before giving it a nod. “I’ll be intentional. I’m not trying to end the world even faster.”
+
+“I would imagine not,” the Mesh said.
+
+A sudden thought struck Arwin. “Wait. What about the Hungering Maw? Is it—”
+
+“Still there,” the Mesh said. “It is ingrained into you. A solution is still needed. Every avenue I can take, I must. I have. The world cannot be allowed to slip away.”
+
+Something about the way the Mesh had spoken gave Arwin a moment of pause. It took him a second longer to figure out exactly what it was. Pieces clicked into place in his mind. His eyes went wide.
+
+“I’m not the only one,” Arwin said. “How many more?”
+
+The Mesh was silent for several long seconds. But the lack of answer was more than enough. He wasn’t the first one the Mesh had gone to.
+
+I’m not even close to it, am I?
+
+And then one more piece slid home. A cold chill wrapped around Arwin’s neck like a tightening noose.
+
+“The Guild,” Arwin whispered. “You’re fucking helping them, aren’t you?”
+
+It was a second longer before the Mesh answered.
+
+“No. I am not helping them any more than I am helping you. I do not help. That would be to go against my nature. I endure. I seek survival for the world and all who live within it. And that means seeking multiple ways to the future. The Guild’s path is not the one I wish to take.”
+
+“But it is one you will take,” Arwin said. “Isn’t it?”
+
+“In the end, the world must endure. I must endure,” the Mesh said simply. “Provide me with an alternative, Arwin. That is why I changed you. Find a different way for the world to continue. I will take it. But the world will continue. I must ensure that above all else. It is my duty.”
+
+Arwin stared at the Mesh. He wasn’t sure what words should have been coming to his mind. None did. They were silent for several long seconds. Then he blew out a heavy breath.
+
+“Well, shit.”
+
+A small smile pulled at the corners of the Mesh’s lips. “You and Sunset are my shot in the dark, Arwin. You and your guild. Your resourcefulness has been proven more than enough times. I am certain you will find me a path forward. But until you do… my nature dictates my actions.”
+
+“It feels like life would be a lot easier if I could yell at you for being a fucking monster that endorses sacrificing children and lives and god knows what else.” Arwin’s jaw worked. Then he blew out a heavy sigh and shook his head. “But I just pity you. Your position isn’t enviable in the slightest.”
+
+“Thank you,” the Mesh said. “I do not possess the capacity for pity. Emotions are a mortal concept. But I understand the sentiment. I will not help you, Arwin. But I will hope that you succeed.”
+
+Arwin just nodded. There wasn’t much else he could say. Thoughts spun through his head in a flurried storm so fast that he could barely even process one before another rushed to take its place.
+
+“Anything else I should know while we’re here?” Arwin asked. “Even if you can’t help me, any tips? Pointers? If you want me to win, surely you can at least give me something to go off. The Adventurer’s Guild has been controlling shit for years. They have the advantage.”
+
+“Which makes the reward all the more worth it,” the Mesh said with a wry smile. “I will give you only this. The vast majority of the Guild have not Sunset their classes — and that includes those who lead it. It would destroy them. You have a method with which to balance the scales.”
+
+“Seriously?” Arwin blinked. “Why?”
+
+The Mesh arched an eyebrow. It offered up no answer.
+
+“Right. Sorry.” Arwin shook his head. “Thanks for the tip. I’ll keep it in mind. Anything else? I’ve never claimed not to be greedy.”
+
+A laugh slipped from the Mesh’s lips. “Send Lillia next. It has been too long. I would speak with her. And do not tell anyone of this conversation other than One.”
+
+“I can trust him?” Arwin asked.
+
+“That,” the Mesh replied, “is for you to determine. This is the last time we will speak in a great while, Arwin. With the completion of your Sunsetting, you will be fully outside my domain. I will not have another method to contact you… so there is one more thing I would ask of you before we part ways.”
+
+“What is it?”
+
+The Mesh hesitated for a moment before replying.
+
+“Advance. Grow stronger. Become greater than what you were. But… don’t change who you are,” the Mesh said. “Not all power is worth the sacrifice.”
+
+And, before Arwin could ask what the Mesh meant, the white void shattered. It fell away, falling fragments of a broken white plate fading into a sea of darkness that swallowed Arwin whole. A shimmer of gold danced through the shadow.
+
+The conditions for [Sunset] have been completed. Again.
+
+Your class has been Sunsetted. The proper way around, this time.
+
+Good luck, Arwin. I’m counting on you.
+
+And then the gold was gone, and all that remained was darkness.

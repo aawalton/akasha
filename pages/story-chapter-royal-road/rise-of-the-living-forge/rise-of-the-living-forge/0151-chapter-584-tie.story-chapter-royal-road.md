@@ -1,0 +1,121 @@
+---
+id: f11748fe-c250-5a45-8d49-8a15107a7c4b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 584: Tie"
+slug: 0151-chapter-584-tie
+partOf: rise-of-the-living-forge
+position: 151
+ownLength: 2047
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3353745/chapter-584-tie"
+royalRoadId: "3353745"
+---
+
+“Black, of course. The armor absolutely has to be black.,” the Infernal Armory said, crossing its arms behind its back and pacing across the room in front of Arwin. Or, at least, it was trying to pace. The motion couldn’t be quite called pacing when its legs just melded with the ground. Really, it would have been more accurate to say it was sliding around with intention — but Arwin digressed.
+
+“Her current armor is silver,” Arwin pointed out. “She likes it just fine. She’s already got a bunch of dark-adjacent magic and other shadow powers. Wouldn’t something that contrasts with that fit better?”
+
+The Armory’s faceted head turned to pierce him with a ruby stare. It didn’t say anything for a second. Then it started to pace again.
+
+“As I was saying,” the Armory continued. “Black. Nothing else is suitable for the former Queen of Demons. Not to mention it would blend in with her magic to let her be harder to spot during fights. She’s not a front liner. Something that lets her avoid notice would be best.”
+
+Arwin pursed his lips. “I suppose that’s true, but I’m not sure if she wants to keep looking like the Demon Queen any more than I want to resemble the Hero.”
+
+The Armory paused at that. Then its head tilted to the side. “That is a fair argument. I do not want her to dislike our armor. That would make me displeased. But silver is so… tripe. Boring. This must be something far greater than that.”
+
+“We could always ask her,” Arwin offered. “Can’t you speak to the Devil’s Den? Have it see if Lillia is busy and find out what color armor she’d like.”
+
+“But that will ruin the surprise,” the Armory said. Its face fell slightly. “The reveal will be gone. How can a truly great piece of armor be properly delivered if the recipient already knows it is coming? The impact will be gone.”
+
+What are you, a gossipy noble? Has the Armory always loved drama this much?
+
+“If we make a good enough piece of equipment, then it’ll be more than enough of a surprise even if Lillia knows it’s coming,” Arwin pointed out. “It’s not like we’re making some plain piece of equipment here. This is something that needs to be at the level of the Gehenna armor. Anything that powerful isn’t going to just blow over like a light wind no matter how it gets presented.”
+
+The Armory started to nod. “Yes. That is true. Very true. And she would need to be involved at some stage anyways to ensure that the equipment is properly bonded to her. Perhaps we should simply bring her in now. It would speed our work up immensely if she was here to participate in the creation of her own gear, and she has already had experience in the smithy. And she will confirm that black is obviously the more suitable color.”
+
+“That’s definitely a good idea, but I think you’ll find that she doesn’t want something black. That’s too on the nose. She’s definitely going to want armor that lets her be herself,” Arwin said. “But we’ll find out so long as she has time to actually come over. She might be working on something right now. If she is, we’ll just have to wait until she’s done.”
+
+“Wait?” The Armory’s eyes narrowed. “I do not want to wait. I want to make armor. What is the use of waiting when I am prepared to act as we speak? If she is not prepared, then we will make armor for someone else. Or I will make a bath for Uriel. She has been complaining about not having one.”
+
+“Just ask,” Arwin said with a laugh. “We can worry about what to do if Lillia is busy if the situation occurs. Something tells me she’ll make time for this.”
+
+***
+
+Arwin was unsurprised to find that Lillia was, in fact, more than willing to make time in her busy schedule if it meant getting an upgraded version of her armor. She arrived at the front door no more than a few minutes after the Armory reached out to the Devil’s Den.
+
+He had no idea how she’d managed to make it past the crowds of teeming people that were probably all trying to figure out what in the world had just happened to the smithy, but he didn’t get much of a chance to ask. The moment the Armory’s door closed behind Lillia, she darted over to the back room with a small leather sack slung over her back shoulder.
+
+“The Den said that you’re going to make me a Soul set. Is that true?” Lillia asked, her eyes sparkling with delight. “Do you really have the time? I know how hard those are to make. And — oh, Godspit. What happened in here? And is that the Armory? It has a body now?”
+
+“Hello,” the Armory said, raising an obsidian hand and waggling its fingers. The dark obsidian shimmered in the dim red light, sending faint shimmers dancing across the glossy room. “It is not a true body. Arwin must still find a way to arrange for that. But this will do for the time being.”
+
+“I fed it the Dungeon Heart we got from the auction,” Arwin explained. He scratched the back of his neck sheepishly. “The Armory has been instrumental in just about everything I’ve made. I figured it was about time to upgrade it a bit more. It’s looking like that was a good investment.”
+
+“No telling,” Lillia muttered, walking around the Armory’s new form. Then she shook her head and let out a slow whistle. “It’s beautiful. The whole room is. Kind of intimidating, though. It feels like I’ve walked into some ancient monster’s lair.”
+
+“Just wait until you see what I am capable of in a short while,” the Armory said. Its lips pulled into a hungry smile. “Now that I can craft on my own, the opportunities already unfold before me. I no longer need Arwin’s hammer to create. I can craft as I will.”
+
+That… is that concerning?
+
+Nah. I’m sure it’s fine.
+
+“Really not helping with the whole villain motif,” Lillia said with a dry smile. Then her eyes flicked back to Arwin. “I can see why you’re looking to test the Armory’s new abilities out. So you really do have time to make me new armor?”
+
+“It’s not just me,” Arwin said. He nodded to Lillia. “You’re getting pressed into work as well. We’ve got great synergy because of the Title I got before Sunsetting, and you’ve worked in the smithy before. The Armory and I are pretty sure that the way to maximize your armor would be if you worked with us on the entire thing. So the real question is… do you have time?”
+
+Lillia let out a snort of laughter. “Do I have time? Arwin, my kitchen literally runs itself. If all I need to do is step aside for a while to lend you my power and help make myself an incredible set of armor, then damn right I’m doing it. How long will it take?”
+
+“A day. It is unlikely to be much longer,” the Armory replied. “Provided you have sufficient magical energy and brought food for us. Particularly for me. Arwin eating is optional.”
+
+“Of course I brought food,” Lillia said, opening the leather sack and pulling out two sandwiches. “One for each of you. I figured the extra magic would be helpful either way.”
+
+The Armory extended a hand toward Lillia. Black tendrils rose up from the ground, winding around one of the sandwiches and pulling it over to its body. There was a cracking noise as its mouth yawned open. Molten ruby light poured out from within it as it shoved the entire thing into its mouth. Without so much as a single chew, the Armory swallowed the sandwich whole.
+
+“Delicious,” the Armory said. It flexed its fingers. “Bring more next time. But this will be sufficient for a single set.”
+
+“That was somehow odder than feeding you the old way,” Lillia said. She walked over to Arwin and handed him the second sandwich. “So how do we start? Is there a draft or something already?”
+
+“I think we can base the general style and structure on the Flowing Water set you already have,” Arwin said. “But we can improve all the spots where it’s lacking and actually make it tailored to you. So the first thing to do would be figuring out what kind of armor you actually want. Any thoughts?”
+
+“Something sleek,” Lillia said immediately. “I love how easy it is to move around in the Flowing Water armor, and it’s not bulky at all. I can toss a cloak on and nobody can even tell what I’m wearing. It’s very useful.”
+
+“All simple. The important question is what powers you seek,” the Armory said. “We have a host of materials powerful enough to create nearly any manner of item. You must determine what powers you desire. And remember. The purpose of this armor is to be the last one you ever wear. Do not choose lightly. ”
+
+“That’s… ominous,” Lillia said. She glanced at Arwin.
+
+“It’s just dramatic,” Arwin said with a roll of his eyes. “And too egotistical to admit we might be able to make something better in the future. Don’t worry about it. But the Armory is right about thinking about the powers you want. This will be your equipment for the foreseeable future, so I want to get it right. Is there anything we could add that you feel would really benefit you?”
+
+Lillia didn’t respond immediately. She thought in silence for a few minutes before saying anything else.
+
+“Defense,” Lillia said. “That’s the most important thing to me. My class is very grounded, for lack of a better word. All my abilities are about controlling people or melding shadows. I don’t have much in the way to actually defend myself   if someone manages to get to me. Mobility would be good too, but the ability to withstand a serious blow is probably what I lack the most right now.”
+
+“Simple,” the Armory said. “We can do that without even needing this to be a Soul Item. But that gives a good direction. We can work with that. That narrows the materials we can work with down a fair bit. Something light and flexible to maintain the full range of mobility that the Flowing Water armor grants you. We can focus on adding the resistance magically.”
+
+“We could work your shadow magic into the armor,” Arwin offered. He thought for a moment, then nodded to himself. “If people can’t see you, then they can’t hit you. You can already kind of blend in with the darkness, so we could take that to the next level.”
+
+“Improved shadow control?” Lillia tilted her head to the side. “That would be very useful if it’s actually possible.”
+
+“It is more than possible,” the Armory said. It tapped two fingers together as it thought. “Yes. Simple. I can think of some further applications, but your song will shape them more than my thoughts. I believe we have some materials that are more than suitable for this task. But… before we can go further, we must find the answer to this project’s most integral question.”
+
+“What’s that?” Lillia asked.
+
+“What color do you want the armor to be?” The Armory asked.
+
+Lillia blinked. She started to smile, then stopped herself as she realized the Armory was dead serious.
+
+It wasn’t messing around at all about making sure this armor was perfect for her. Down to even the smallest details, the Armory didn’t plan to let a single thing past it.
+
+Well, that or it just really wants to win the argument against me.
+
+It was probably some mixture of the two.
+
+“Color?” Lillia asked. She pursed her lips for a moment. “If it’s purely from a preference perspective… maybe a mixture of black and silver? Something sleek but intimidating?”
+
+Arwin and the Armory exchanged a glance.
+
+I think that counts as a tie.
+
+Then they grinned as one.
+
+“I think we can do that,” Arwin said.

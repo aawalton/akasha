@@ -1,0 +1,373 @@
+---
+id: 0398d3dc-70c8-5433-9648-ba58c8d1851f
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 455"
+slug: 0154-the-path-of-ascension-chapter-455
+partOf: the-path-of-ascension
+position: 154
+ownLength: 6336
+unit: words
+ownProgress: 6336
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2729637/the-path-of-ascension-chapter-455"
+royalRoadId: "2729637"
+markedReadAt: "2026-06-29T19:33:03.197Z"
+---
+
+Chapter 455
+
+Instead of teleporting directly to the breachpoint, they stopped at the very first planet they had reached in the breach, and they were gratified to see no one permanently residing there, making it a safe haven.
+
+Allie compressed decades of travel into mere seconds, but the process wiped her out for a few days.
+
+Days they used as everyone else got to work making Rah’s formations.
+
+The first thing the crew did was pick who would be going with them.
+
+They were all competent explorers, but the teams rushing into the breach were normally as small a team as possible. Teams needed to not only be fast and mobile to move around the ever-mixing jumble of planets that the bubble of higher chaotic space would contract into, but also to make protecting themselves easier.
+
+Without a ship's defenses, every additional member to join was someone else they would have to protect when a fight inevitably broke out.
+
+Unless one of the combat force was also a skilled harvester, a skilled Seeker, and could maintain the group’s combat and secondary gear, they needed to bring crew along.
+
+The seven of them were no exception.
+
+They did have something no one had.
+
+Rah.
+
+The man had an incredible amount of experience using the natural connections between worlds to both travel and explore. Whereas even the most avid chaotic space explorer in this Realm had done this kind of run a handful of times at most, Rah had been using sky bridges his entire life.
+
+As he had told them, worlds had still passed through their permanently connected worlds, the same way they did in this Realm. Without their knowledge of chaotic space, they had only been able to develop around such methods.
+
+Best of all, he was happy to share.
+
+Thankfully, what little their Realm knew of running along the ‘sky bridges’ as Rah kept calling them, was in line with what Rah knew and best practices were generally similar if accelerated.
+
+When Liz asked about the discrepancy, he smiled. “This is why I am sad I never knew of chaotic space in my original Realm. Even simply peering into it, which I’m confident I could have done at Tier 25, could have explained so much. But I digress. Once you’ve done it a few times, you can sense how long a world can be there. I explored… a lot, especially when I had avenged… Anyway, sometimes I roamed so far it took what you would consider centuries to return to a familiar place, and many of such worlds I visited were ones simply passing through the more permanent worlds.”
+
+Rah laughed at himself. “I don’t think you all understand how much a skill like [Home] would be desired in my Realm. To not let myself get too distracted, maps existed. However, without complicated technology and no outside method of observation, they were generalistic. We did, however, have migratory worlds that could serve as resource-rich opportunities. Much like they do here, they also served as roads for the bold who are willing to risk getting swept into the unknown. Most died, but we found a few strong survivors every once in a while from other groups. Sorry. My point being you can feel it. We’ll be in a greater time crunch. That means we need as small a team as possible. People are people and we will undoubtedly fight or have to run from the truly strong.
+
+“To that end, I suggest no more than five or six additional people. That means less than one person to defend per member of the combat team. That should be reasonable as long as we don’t stumble into something so dangerous we’d have to teleport out anyway. I’m confident I can direct such a team through the environment described in the time crunch we will be operating under.”
+
+From there they got to planning the minutiae.
+
+The crew thankfully had contingencies for times like these, and Matt was content to keep his nose out of their business and wait for them to figure it out.
+
+It didn’t take them long, and he didn’t detect any hurt feelings over the decision, even if a few were disappointed.
+
+Captain Stenson surprised them by taking the role himself instead of sending his Lieutenant, but they didn’t mind. From what Matt understood of the situation, they and most of the core common staff were the group who had beat out everyone else for the spots. That meant he had long worked out who got what when, and it was simply his opportunity.
+
+Beyond being a captain, he was a capable mechanic and able to repair damn near anything. In fact, that was a theme with Lila’s guild: someone high up on any ship operating under her banner had to have serious repair abilities, and she didn’t mind doubling or tripling up so long as every ship had at least one.
+
+From the distant look in Stenson's gaze as he described the rule, Matt felt confident there was a story in it, but he enjoyed the result as it came with the current advantages.
+
+That let them double up on other roles.
+
+Liz was operating as their main healer. Aster, Zack, and Matt could all operate in that role as well, so they skipped a more dedicated healer.
+
+They did bring a secondary healer along because it would be dumb not to. One of the chosen harvesters was a healer when he delved, though Arden openly admitted he wasn’t as good as the crew’s dedicated healers. Still, he did a good job as a combat healer in the strange realm, and combined with his excellent ability as a harvester, it made him an easy second pick.
+
+Their third member of the breach group was harder to settle on, and it took a few rounds of debates to decide.
+
+Eventually Katya, one of the harvesting team leads, secured the position. In addition to covering any of the disciplines Arden lacked, she was also a physical cultivator. That made her easily capable of carrying the weight of the portable versions of the Natural Treasures storage items they would need to bring into the breach without hampering Matt or Susanne.
+
+The devices while spatially compressed weren’t to the typical ratios meaning the items placed inside would weigh near their normal amounts which added up with the amount of storage they were bringing.
+
+Ultimately they were limited by the sky bridges on the amount of spatial expansion they could bring, but so was everyone else. Unlike in Rah’s Realm where storage items were very extremely rare and limited, any competent exploration team could bring as many as the bridge's spatial stability could hold. With that in mind, they followed the normal method and gave all of the loot to one person.
+
+That would make her a target, but she, along with all of the crew, would ideally be ignored by any attacking crews.
+
+The nicer groups tried to keep external crews out of the fights and wouldn’t harm anyone so long as some resources were handed over, but there were always groups from all factions who would kill everyone simply because they could.
+
+Finally, on the advice of Rah and with the eager anticipation of the two in question, they decided to take along both Seekers. Magnus and Lura were ecstatic, having expected one of them to be left behind with the ship.
+
+Thankfully, both of them were able to perform their divinations on the move and were capable enough in combat. Additionally, they weren’t going to be able to bring the amplification array which would limit their powers somewhat. Some of that disadvantage would be countered by the shorter-than-normal range, but with the ever-shifting currents moving planets around, both Seekers would be earning their cut of the loot just keeping them pointed in the right direction.
+
+It would then be Rah’s job to get them there, and the older man seemed far more confident in being able to do so with both Seekers coming along. More than anything, they trusted his gut.
+
+With all of that settled, they all got to work and after two hard days of effort, they created dozens of quick and dirty formation plates. The style was alien to everyone else, but there wasn’t time to innovate to make them conform to their realms standards. Thankfully, at their Tier, they were more than able to copy the originals Rah made after a few attempts.
+
+Matt was one of the ones who struggled on his first attempt before he got the knack of it, and he marveled once more at how alien the lower Realm's techniques were. He reminded himself he needed to pick Rah’s mind on if he was willing to share anything else beyond what he had given the guild. Ideally, Rah would use what he learned in the process of getting his degree to publish a new path of enchanting, but the man always laughed the idea away. It also served as a reminder of how people would always advance, no matter the conditions they found themselves in.
+
+It was also interesting academically, and once Matt got used to carving the twists, twirls, and tangles the runes were stretched into, he understood how the style came about. It was quite pretty and well-designed with several very obvious nods to style over function. The losses were negligible for what could almost be considered an artwork and were a sign of the original crafters ingenuity.
+
+When they started making weaker copies based on the original version, Matt even got a glimpse in how the formation was developed step by step. His hunch was proven correct and Rah happily talked about the major contributors to the sky bridge stabilization formations he knew.
+
+As he suspected, the set they were using was in fact a singular set. Before he ascended, a wandering immortal with no successor spread the designs far and wide. That act of generosity had made them something of a staple in Rah’s Realm, and was why he was willing to share them, as he hadn’t had to swear any oaths when he learned them.
+
+The copies they made were far from perfect, but Rah was able to get them into operable condition with a few minutes of effort rather than hours. His full-time effort was spent on making the Tier 30 and Tier 35 variations he had designed in the last few years.
+
+Matt and Zack had peripherally helped, but as the only one familiar with the underlying style, Rah was the only one capable of understanding his new formation, let alone making them.
+
+Theoretically, those should be able to stabilize the connections between any worlds lower than a Tier 35 world, making them form sooner than they naturally would have.
+
+In theory at least. They would need to test them, and to do that, they needed a lead over the other explorers. With the lack of nearby worlds with close neighbors that didn’t have a powerful faction guarding it, they were simply going to do the testing on the fly inside the breach.
+
+It was amusing to see Rah sigh for the dozenth time at their decision to make the disposable formations out of something as valuable as slabs of Tier 30 marble.
+
+“I know we harvested them from a rift for this purpose, but old habits die hard. Such materials would be coveted, but no one I met ever admitted to going into a rift beyond awakening people such as myself. As such, I’d never waste at Tier materials on something that will be destroyed.”
+
+Not that he was wrong. Each and every one of that first batch of formations were entirely disposable by design. Once they reached their quota of the Tier 25 variants, they shifted to the more lower Tier versions they didn’t mind others getting their hands on, and as such were made to last.
+
+They were still ultimately disposable in that they were leaving them behind, but Rah didn’t want people chasing him down for the information, so he intended to spread the Tier 15 version of the sky bridge stabilizer to prevent some of that.
+
+Matt agreed it was the right call in light of what they intended to do.
+
+Once they finished their preparations, they spent a long dinner relaxing with the crew before the twelve of them vanished.
+
+The other five were in full head-to-toe armor that overtly indicated their status as noncombatants. The armor was deliberately colorful, though that could be changed in a moment should the need arise, but their position was clear.
+
+They arrived ready to fight, but thankfully, they didn’t need to.
+
+It seemed a close thing though.
+
+The system they once left defeated from now had slightly over a thousand teams, with more arriving every moment, though everyone else did so via chaotic space.
+
+Matt could tell from the brandished weapons around them they had nearly broken the peace with their sudden arrival, but seeing who they were, everyone relaxed.
+
+They had landed firmly inside a Guilds-occupied area, but thankfully not directly inside a team’s area.
+
+They didn’t linger in space for long though. Unlike nearly all other times during an exploration, everyone of importance stood on the world's surface instead of residing in their ships, which hovered above.
+
+Thinking of their ship, Matt sighed.
+
+Rah had been confused why they couldn’t fly their ships directly through a sky bridge but they had all gotten a lesson as they looked into it. His people flew ships, but there was an answer. It had been tried and it was impossible with their current ships.
+
+While their ships could theoretically fly through the naturally occurring spatial tunnels between worlds as they could fly through an atmosphere and a smaller ship would fit inside the skybridge, they carried far too many spatially-expanded items to risk it.
+
+That was one of the main reasons their Realm’s teleportation network was built. It was to stabilize the phenomenon, allowing for easier movement between worlds with significantly increased amounts of spatial expansion allowed.
+
+While stronger tethers allowed a larger volume of space to move between planets, there was a reason most Tier 35s and higher preferred to travel via ship. It wasn’t because of speed. They had proven how effective the teleportation network could be when they attacked the cabal, so long as the person had enough pull to cover the massive activation costs. Rather, it was the amount of space being transferred at once.
+
+Ducal flying islands were designed around that limit, and as such, carried very little permanent spatial compression.
+
+Even the best tethers had a limit, and most higher-Tier immortals carried around too much space with their various storage items to travel safely with a teleporter. They could shed their extra spatial items, but most would rather take a ship and save the hassle.
+
+As such, they were severely limited on space, and to that end, all twelve of them had condensed their personal belongings to a single small ring, leaving everything else in the ship.
+
+Once they were inside the breach, Allie wasn’t confident she could easily teleport back inside without a full waypoint. So even their group would be mostly limited to what they could bring in themselves, even if they had an unbeatable escape route should the need arise.
+
+Following the script of the other leaders, Matt floated down to the world's surface, where the most important Tier 35 groups were surrounding what Matt knew had been a picturesque lake only a few decades prior. Not that it was ruined, but it was well-trodden and the masses had set up temporary varying types of shelters around its shores.
+
+Most prominently on display, was a Sects-style pavilion that drifted upon the lake itself with a gentle breeze. He could also feel a lot of people inside, signifying it as the most important building.
+
+Their initial target.
+
+Sadly, the image of the pavilion was ruined for Matt as he could feel someone deliberately preventing the heavy winds the area wanted to have. He’d have hung up banners and anchored the pavilion if he had been in control of the building. Embracing nature, not subduing it.
+
+Letting his spiritual sense wrap around the planet, Matt inspected the other groups. He was careful not to push any harder than he needed to in order to identify everyone, but he didn’t try to hide his actions at all.
+
+No matter where his attention landed, news was already spreading about Allie being able to teleport them here without their ship and the resulting speculation.
+
+They had anticipated that and accounted for it in their plans. Anyone with half a brain could tell they were about to do something big, so they decided to lean into it.
+
+Mentally, Matt tallied everyone by their Great Power affiliation and tsked at the Sects having ten percent more cultivators of all Tiers scattered through the planet than any of the other Great Powers.
+
+It wasn’t an overwhelming lead, but it was there.
+
+The Sect leader must have realized both things as they tried to hide their numbers by scattering their people far and wide, but ultimately, it was impossible. Anyone could get a hard count as he had done and come to the same conclusion.
+
+The combination of arrogant and deceitful felt at odds with each other, but Matt didn’t bother pondering the machinations any further beyond knowing it meant the Sect’s weren’t in total control of the breach point.
+
+A ten percent advantage wasn’t going to give the Sects a decisive lead, but it explained why everyone was meeting on the Sects compound instead of somewhere more neutral.
+
+The people Matt mentally pegged as the most politically powerful from each Great Power, their representatives had been probing the twelve of them the whole time they descended from space.
+
+Matt was starting to probe them back when Allie did something that caught him off guard. He was used to her doing strange things, but blowing a kiss wasn’t one of their prepared moves.
+
+When he scanned in the direction of where she had made the gesture, he audibly laughed.
+
+Normally, he would have kept it internal and congratulated Allie for making him laugh privately, but he had no love lost for Remi and Patrica. The two had fought so hard to push them off this world, and for all of their efforts, they were relegated to the outskirts. Matt hoped they would stick together for the exploration, but he felt it unlikely they’d stay allied too long. Even now, the two teams had a distance between their camps unlike the more unified alliances.
+
+Not the literal outskirts, the teams still in space were much lower on the relative social ladders, but Matt didn’t mind seeing the team who had pushed them off this world unable to secure any additional benefits for their power.
+
+If they had been Tier 32s, with something approaching Tier 35 combat power, combined with their pinnacle elite status, both teams probably would have been in their respective Great Powers’ inner circles. Instead, they were in a clear secondary status.
+
+From their expressions, he could see they were fuming. He hoped they considered themselves the rightful governors of this breachpoint, having been in control of the world before events overtook them and were bitter at the outcome.
+
+That made their glares to Allie’s taunt far more enjoyable.
+
+It wasn’t often he saw behavior be repaid in kind so quickly.
+
+Continuing on to the central building, Matt was bemused to feel a familiar spiritual presence reach back out to him, as if to double check his identity. He’d been about to do the same thing after the brief encounter.
+
+Evander Vidal stood with an Empire-based Tier 35 exploration group. He wasn’t in charge of the group, that much was obvious, but he was there, and that made Matt look further. Evander stood with a few other lower-Tier but notable Empire exploration groups.
+
+His casual scan made it clear the other ‘super groups’, the loose organizations banding together because of Great Power affiliation to counter the unified Sects presence, had been arguing only moments earlier, but paused upon their arrival.
+
+The exact details of why they were arguing was easily taken care of thanks to the data dump Evander forwarded to them.
+
+Matt almost laughed browsing it.
+
+Instead of his amusement being petty and about the misfortune of others… well.
+
+As he expected, everyone was here to argue with the Sects’ overall leader, the one put in charge by Yun Me herself, Gan Le.
+
+Matt corrected himself. His amusement was still about others suffering, but this time he at least mildly liked the person in question.
+
+Clad in ornate robes from his new higher-Tier sect, Gan Le was surrounded by sycophants and hangers on. He had fought against the tank enough times Matt could tell the ‘Expedition Leader’ wanted to rip out his hair. Instead, he stood around putting on just enough airs to be left mostly alone as everyone else argued with various sect leaders.
+
+From everything Matt could see, the Sect’s had shoved all of their younger immortal generation into the breach, as everyone in charge was clearly new to negotiating with the other groups.
+
+Gan Le’s expression froze as everyone heard one of the Tier 25’s attempts to curry more favor by blatantly putting down Matt, unlike his peers who managed to do so indirectly.
+
+“Ascender Titan’s might is merely a fly buzzing in senior brother Gan Le’s face. To be brushed away at his will.”
+
+By any definition outside of the Sects, it was a blatant provocation. Even the man's fellow ass kissers shifted away from him, realizing he had gone too far with that comment.
+
+Gan Le recovered before Matt could move to diffuse the situation himself. “Boast of your own accomplishments, to leverage the might of others in an attempt to disparage a foe only brings you shame, Junior Brother Su."
+
+The Tier 25 was pale as he bowed to both Matt and Gan Le, but Matt was more impressed by his… acquaintance.
+
+It was clear Yun Me had not only beaten the near peak Tier 28 Gan Le into a better fighter, she also managed to force some tact into the normally blunt man.
+
+After nodding and giving the younger man a way out, Matt took the moment to inspect Gan Le more thoroughly.
+
+The other man's spirit felt solid and refined, like good steel, but despite the best healing, Gan Le’s hands were littered with nearly imperceptible scars that hadn’t yet faded. The contrast was even more apparent when his poised and composed look was shattered as Aster sauntered over, her exuberance cranked up to a surprisingly high amount for such a public place.
+
+Despite her efforts to suppress it, Matt felt Aster's emotions bleeding through. She was like a kid hiding under a box trying to scare someone, but unable to stop giggling about the clever ploy she was going to pull off.
+
+While she perfectly controlled her body, not letting any of that excitement show, she barely bothered with their bond, letting him sense it.
+
+Aster’s question confused everyone further as she asked something that seemed better suited to a private conversation. “Long time no see Gan Le. How has Yun Me been treating you? How has your breach been? Ours has been pretty good.”
+
+Gan Le’s lip twitched a single time, but he perfectly controlled his reaction beyond that to nod as he replied.
+
+“I have been doing well. Through our unparalleled might, the Sects reign supreme in this breach. That is why we will be going into the third layer bubble first.”
+
+Gan Le was clearly using Aster’s comments to try and solidify his position, but Aster didn’t try to stop him, only nodding along.
+
+In a brazen move Matt didn’t expect given their plans, Aster clapped and asked everyone gathered, “So what does everyone know about the worlds inside the bubble? We pay very well.”
+
+Several groups whispered between each other, nearly as confused as Matt was. Checking their private team chat, he saw a comment from Aster indicating she knew what she was doing and for Rah to get ready for his pre-planned part.
+
+Seeing the reply message from Rah indicating that everything felt good on his end, Matt decided to watch the show Aster was putting on.
+
+Pushing his support for her through their bond, Matt waited to be needed and instead started feeling around for what Rah told them to look for.
+
+Matt thought he could feel the thumping like a heartbeat, slowly getting stronger, but he would not be surprised if it was entirely in his head it was that subtle.
+
+Liz leaned into him as Aster finally got someone to speak, and together they watched, knowing they would be busy in a few minutes.
+
+Originally, they intended to scout things out more but Matt didn’t mind the change of plan.
+
+One of the Tier 35 Empire-based exploration groups had a member step forward and speak after they bowed slightly. “Let me start with some common knowledge, Ascender Wraith. Please, anyone correct me if I say something obviously wrong. Currently, we don’t know a ton about the composition of the worlds inside, but we estimate anywhere between a hundred to a thousand planets ranging from Tier 4 to Tier 35.”
+
+Acknowledging one of the few groups higher than Tier 35, he nodded to them respectfully. “Currently, there are several rumors about higher-Tier worlds and several higher-Tier friends have to investigate. They have agreed to stay out of everyone's way except on worlds higher than Tier 35. But in return, we have agreed not to interfere.”
+
+There was an unspoken, ‘so long as the planet wasn’t too valuable’. The three groups obviously over Tier 35 were only average. They were the groups not willing to risk heading to one of the deeper bubbles. They weren't dredges, but they weren't threats to the Tier 35s either.
+
+Once everyone brought their attention back to the man, he gestured around. “Everyone here is vying for who can go through the tether first in a year or two when the connection fully stabilizes. We then expect anywhere from one to three years before the bubble detonates and the worlds are blasted apart from each other.”
+
+When no one moved to correct the man, he bowed slightly before stepping back into his group and Matt nodded to him in return.
+
+Aster was grinning as she stared at Gan Le. “Good. We intend to enter first.”
+
+Gan Le met her blatant challenge with a flat look that seemed almost lifeless given his eye modifications that removed his pupils.
+
+Having spent a few years with the pinnacle elite, Matt could tell he was more confused by Aster’s actions instead of being angry, and his reply was anything but domineering.
+
+“May we speak privately Lady Wraith?”
+
+Outwardly, Aster simply nodded in acceptance, but Matt could feel her gleeful joy through the bond and it was all he could do to resist the older brother’s desire to interrupt her plans out of pure pettiness.
+
+Instead, Matt joined Liz as she stepped forward replacing Aster as his bond took Gan Le to the spot indicated by Rah as to where the bridge would form.
+
+Liz smiled, putting the effort in to making it feel like a friendly gesture as she looked at the gathered Tier 35s from all eight Great Powers.
+
+“What other information do you all have? We were here for about a decade at the start of this and have the chaotic space recordings. We’ll trade them one for one with anyone whose Seekers can speculate about Tiers of the first few worlds inside.”
+
+Being on the border of the bubble for so long, their scanners were able to pick up trace amounts of detail that built a rough chaotic space map. The stronger energies of the third layer of chaotic space were contracting instead of weakening, and as such, were too difficult for their sensors to penetrate with any accuracy.
+
+At least a few of the higher-Tier, more self-sufficient exploration groups had the ability to get some amount of information out of such recordings. Anything was better than nothing.
+
+Originally, they intended to trade a worse version of Rah’s method to stabilize sky bridges earlier via formations for that information, but Liz rolled with Aster’s change of plans easily.
+
+Not a single person accepted outwardly, but over a dozen people reached out silently to accept the offer via [AI].
+
+Liz happily gave the information out to the other groups, the other groups never realizing their asking at all was to cover up the more advanced methods of feeling the Tier of connected worlds Rah brought from his Realm.
+
+The seven of them didn’t care if the groups stiffed them, but Matt was pleasantly surprised when nine out of fourteen groups who took the information immediately sent what little data they did have.
+
+As groups went back to grumbling with Liz’s offer being mulled over, everyone outwardly waited for Gan Le to return so they could go back to debating.
+
+Seeing several of the Seekers returning to their ships, Matt signaled to Aster to delay around that timeframe, and she eagerly accepted.
+
+If Aster was going to do what he believed she intended to do, they might as well go even bigger in their opening move.
+
+Matt usually didn’t love flaunting his status, but he was going to enjoy it this time.
+
+Ultimately, the gathered groups should be thanking them. Or at least thanking Rah.
+
+Instead of saying any of that, he stepped over to Evander Vidal and his group of people.
+
+To his credit, his group was one of the few who had sent seemingly all of their information over without hesitation. That bought enough of Matt’s goodwill that he was willing to help Evander as well.
+
+Clasping hands with the older explorer, Matt sent a brief message using the contact to help ensure not too many people noticed, and fewer yet would be able to intercept.
+
+The famous explorer smiled as he gestured at Matt while looking at the rest of the group he was in. “Let me get ready to return to my ship. Ascender Titan has been kind enough to agree and say hello to everyone. Donnie, Anela, go inform the rest of the crew we will be arriving shortly. Don’t let yourself be stopped by any of the other groups on the way.”
+
+Matt was a little surprised the experienced explorer hadn’t asked him any follow up questions, but he was pleased with the show of trust.
+
+Seeing only Evander’s core delving group flying down, the people he would take into the bubble with him, Matt felt a pulse of excitement amplify off Aster’s still roiling emotions.
+
+Hanging out with some of the other groups and doing his job as a distraction, Matt burned time as the groups who took their information ran their own tests. Most were dawdling, but some were still obviously running divinations if the pulses of mana were any indicator.
+
+The six that finally sent them any information were added to the list of people to get the second best version of Rah's method for free when they left.
+
+With Evander’s team following them outside, they initially moved away from Aster before Matt turned from the group as if he had almost forgotten his bond. He only wanted to get her before resuming his travel to space.
+
+Or, that was how Matt hoped people read his actions, because Aster was standing on their goal and her bringing Gan Le there had served two purposes.
+
+While chatting, Aster had layered illusions and wards as carefully as she could. Nothing too strong because that would have been obvious, but it was enough to keep casual observers from overhearing her conversation with Gan Le while hiding her real efforts.
+
+Most of the watchers would hopefully think they were negotiating an alliance, but Matt knew there would be no such happy ending.
+
+Joining Aster, Allie and Susanne, who had been following up the rear, ensured Evander’s people and their own support staff made it inside the protective barrier that rose behind them. Those crew members would be their best way to secure valuables in the upcoming on foot exploration, and couldn’t afford to be left behind.
+
+Seeing their arrival, Aster’s eyes widened in apparent panic as she pointed behind Gan Le.
+
+Turning, he spun prepared to block a sneak attack, but there was no one there and his prepared energy had nowhere to go.
+
+Instead, Aster's hand, which had been pointing, became covered in lights as she reached out and grabbed Gan Le’s head, yanking him back.
+
+Seemingly caught off guard, the Sects leader vanished in a puff of ice. Kidnapped in front of everyone.
+
+Being so close, Matt questioned Gan Le’s willingness in this ploy, but stopped caring as everyone freaked out.
+
+Zack and Matt moved to lay out their prepared formation as the countdown started.
+
+Several of the Tier 35s from the Sects looked like they wanted to move and apprehend them, but their hesitation to cross two Ascenders caused them to resort to their words instead of their fists.
+
+Everyone else followed suit and those precious seconds were all the time they needed.
+
+Formation laid out, Rah started speaking and the mana stones glowed with power as they were drained rapidly.
+
+“My name is Ra'thala, for those that don’t know, I come from a lower Realm. Some of you may know of me, but let me say a few things while I have your attention. My people are less advanced than you. That is simply a fact, but we are not without our own specialties. One of our differences is that my people rely on these natural tethers to traverse between worlds. I reached the peak of my Realm, Tier 25, but I never heard of anyone speak of chaotic space as you all know it. So with sky bridges, let me bring a little of my Realm to you. I will freely share a method to help stabilize them. This method will allow people to force a tether to form about three months early. The one I’m about to use, however, is far more powerful and can force a connection to form years early.”
+
+Rah stopped speaking to begin humming.
+
+It began low and quiet, yet grew in both pitch and intensity until the world itself began reverberating like a tuning fork around them. Then out of what felt like nowhere, the hum began to crumble and fall apart. The sound itself didn’t change, yet the sound of reality around them turned to dust, motes of existence swirling back and forth as what had always been solid revealed itself as nothing but an enormous dune of reality now caught in a hurricane as the connection between worlds was forced open early.
+
+The sensation was wholly unfamiliar yet completely understandable.
+
+If Rah’s method was a matter of moving a sand dune to create a bridge across a river, the tethers Matt was used to were more akin to taking that sand dune, processing it into concrete, and building a bridge over that same river. It was stronger and more enduring for that refinement, but that layer of processing and abstraction obscured the deeper reality.
+
+Once that artificial veil had been torn away, Matt could see it how he was supposed to.
+
+When the connection fully formed, he nearly missed as a small burst of Tier 12 essence flowed out of the sky bridge before it vanished among the ambient essence, as if it had never been there. That told him the opposite had probably happened as well. A Tier 30 world, the small amount of Tier 12 essence did nothing for this world, but for the Tier 12 world, that essence would undoubtedly let it speed up its advancement as it made its way to its core or was converted into more usable energies.
+
+He couldn’t spend too long studying it, as Rah continued. “I’ll sell the two better methods after the breach to anyone in good standing with the seven of us.”
+
+Matt didn’t allow his confusion regarding Rah’s change of who their backing was. Originally they intended to use Lila’s guild. Instead of gaming the repercussions of that change out he played his own part by helping to activate the formation.
+
+Above them, the sky bridge formed fully stabilized, the sand dune of existence collapsed in on itself. The space vanished to his everything except his spiritual sense, which could feel the spot where the two worlds flowed into one another as small amounts of essence and matter began to freely mingle and migrate.
+
+Evander looked like he wanted to be upset, but as he and his group were already present, they didn’t hesitate to take advantage of the head start offered to them. It was fortunate too, as Rah destroyed the formation as they entered the spatial anomaly. A bit risky, perhaps, but they had no intention of allowing anyone else the benefits of their hard work.
+
+The sky bridge turned from a safe channel into a dangerous field of blades made out of the very fabric of reality. Each and every grain of ‘sand’ was ready to take their lives with a single touch, but none of them hesitated to start running.
+
+A trick Rah had told them, running despite being slower most of the time, was faster when crossing a sky bridge. It was all about resistance and the right speed was more important than the fastest.
+
+They would have a few months head start now that they had spread the lesser stabilizers, but that was all they needed. The bubble was still shrinking, and they had managed to keep most of their competitors a step behind.

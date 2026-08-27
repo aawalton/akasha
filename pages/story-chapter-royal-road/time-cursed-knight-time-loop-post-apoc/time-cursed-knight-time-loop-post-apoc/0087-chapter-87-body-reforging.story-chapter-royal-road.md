@@ -1,0 +1,329 @@
+---
+id: 076748b9-b71f-50d6-8af1-3c28ab1d8228
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87: Body Reforging"
+slug: 0087-chapter-87-body-reforging
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 87
+ownLength: 3388
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3682249/chapter-87-body-reforging"
+royalRoadId: "3682249"
+---
+
+Imperial High-Security Prison.
+
+Corporal Holtz kept his right hand on the pommel.
+
+Four guards stood in the corridor. Two belonged to the Royal Guard, in deep blue coats with silver threading that cost more than Holtz earned in a year. They had been here since before he arrived, leaning against the far wall.
+
+The other two were Iron Cross.
+
+Holtz was one. Sergeant Ritter was the other, posted at the corridor's mouth where it met the stairwell, hand on a short sword, eyes never resting. They had been given one order before deployment. Major Brauer had delivered it himself.
+
+Do not take your eyes off the prisoner or the other guards. If anyone enters that cell who is not on the approved list, you do not ask questions. You stop them.
+
+The implication was plain enough.
+
+Holtz had been six months on the southern front before they pulled him back for this rotation. He had seen the trenches.
+
+He knew what the Hero of Grenzheim meant.
+
+Not from the newspapers. From the men who'd fought beside him. From the way a soldier's voice changed, went lower and rawer, when he described the day the front nearly broke.
+
+Holtz had never met the man. He'd imagined someone enormous. A wall of scarred muscle, the kind of body the Iron Cross forged out of farm boys.
+
+Instead they'd locked up a twenty-year-old in a hole in the ground, and Holtz had stood for a week watching the Royal Guard yawn about it, and the rage in him had gone past hot and come out the other side into something cold and patient.
+
+His hand rested on the pommel.
+
+He waited.
+
+The mechanism engaged at half past dawn. The floor vibrated through Holtz's boots.
+
+The Royal Guard straightened. Their boredom evaporated.
+
+Holtz's eyes went to Ritter. Ritter's eyes came back. A look passed between them, brief and total. They were ready.
+
+"Doors opening," the duty officer called from the end of the corridor.
+
+They weren't doors. They were slabs. Two blocks of warded stone, each the height of a man and the thickness of a man's arm-span, seated into grooves cut so precisely that when they were shut no seam showed at all.
+
+Light spilled in.
+
+Not much. But compared to what lay behind those slabs, it was the sun.
+
+Holtz looked into the cell.
+
+Absolute dark. No glow strip. No window. No source of light whatsoever. The air that came out of it was still and stale.
+
+For a moment nothing moved inside.
+
+Then a shape filled the doorway.
+
+A hand came up first, forearm raised to shield the eyes. The figure stood there, framed in the gap between the two slabs, and Holtz's first thought was that they had opened the wrong cell.
+
+He had seen the arrest report. He had seen the sketch the intake officer had filed: lean, sharp-featured, scarred, bone-white hair cropped to military regulation.
+
+The man standing in the door did not match the sketch.
+
+He was not thin. The frame was the same, the height, the shoulders, the proportions, but the word lean no longer applied. The body behind the prison shift had filled in a way that made no sense for a man who had spent a week in total darkness without food. There was density to him that hadn't been there before, a quality in the musculature that sat closer to the bone than ordinary conditioning produced.
+
+The scars were gone.
+
+The skin was smooth. Not unmarked — Holtz could see, in the gray light, faint silvered traces where the worst of them had been.
+
+His hair had grown. White as it had been, but longer now, falling past his jaw.
+
+None of that was what made Holtz's hand tighten on his pommel.
+
+It was the air around him.
+
+Something came out of that cell with the man, something that was not a smell or a sound. A pressure. Holtz had stood beside mages on the southern wall and felt their aura when they gathered mana. This was not that. This was rawer, wilder, less like a spell being built and more like a fire deciding whether or not to burn down the room.
+
+The two Royal Guard shifted. They felt it too. Their hands found their wands and stayed there, and neither one of them stepped forward.
+
+Holtz looked at the prisoner's face.
+
+The eyes opened above the shielding arm. He had the eyes of a wild thing weighing whether the cage it stood in was worth breaking.
+
+Holtz swallowed.
+
+He stepped forward. Someone had to.
+
+"Herr Hexenzeit." His voice came out steadier than he felt. "The investigation is concluded. You are to attend a hearing before the Imperial court this morning." He paused. "After the hearing, regardless of outcome, you will be transferred to the custody of the Iron Cross."
+
+The Imperial Forum.
+
+Matthias Lenz wiped his forehead with a handkerchief that had already gone through.
+
+It was a good handkerchief. Linen, bleached, monogrammed with the modest ML that was all his family had ever been able to afford on a legal clerk's salary. His mother had pressed it into his hand the morning he passed the Imperial legal examination, and he had carried it every day since, through four years of property disputes and inheritance squabbles and the small, quiet cases that were the bread of a young advocate without connections.
+
+Now he stood in the Imperial Forum with the handkerchief soaked and the case of the century bearing down on him.
+
+The Forum occupied the central wing of the Palace of Justice, a hall so vast that the ceiling was lost in shadow above tiered galleries of dark oak and polished stone. Pillars of veined marble rose from the floor at intervals, each carved with the scales-and-sword sigil of Imperial law. At the far end, elevated on a dais of black granite, sat three high-backed chairs.
+
+The center chair belonged to the Imperial Judge.
+
+The word judge was generous. In the provinces they called the position what it was: executioner with a gavel. An Imperial Judge answered to no court, no appellate body, no parliament. He answered to the Emperor. The Emperor was dying. Which meant, in practical terms, that the man in that chair answered to no one at all.
+
+The chair to the Judge's right was occupied.
+
+Princess Elara sat with her legs crossed beneath her robes. She had Academy robes — not court silks, Lenz noted, which meant she wanted the room to see her as a scholar and not as a claimant, which meant she was both.
+
+The chair to the left was empty.
+
+Prince Varen had not yet arrived.
+
+Lenz wiped his forehead again.
+
+The galleries were filling. The case had drawn every type of observer the capital could produce: nobles, officers, journalists, scholars, and at the very back, pressed into the standing gallery behind the rail, the common citizens who had queued since before dawn.
+
+Every one of them had come to watch the Hero of Grenzheim.
+
+Lenz folded the handkerchief and slid it back into his breast pocket.
+
+He turned his case notes over for the hundredth time, and the hundredth time they gave him the same answer: it was not enough.
+
+The evidence was good. The witnesses were strong. Commander Wendt had submitted a written commendation, the kind of document that carried weight precisely because its author despised rhetoric. Commander Brandt had confirmed Kaspar's recruitment, training record, and deployment orders. Officers from the Grenzheim garrison had testified in pre-trial depositions that the defendant's actions during the elven assault had saved the defensive line.
+
+All of it was good. None of it addressed the real problem.
+
+The real problem was not evidence. The real problem was sitting across the aisle from him, in the prosecution's chair, adjusting his cuffs.
+
+Magister Erich von Haldenberg.
+
+Lenz's jaw tightened every time he looked at the man.
+
+Haldenberg had taught Lenz everything he knew about Imperial procedure. Three years of lectures in a wood-paneled hall at the legal institute. He had written the textbook, designed the examination, and signed Lenz's certificate of practice.
+
+Now Haldenberg sat in the prosecution's chair with the backing of Princess Elara and the accumulated influence of every noble house that had decided Kaspar von Hexenzeit was a problem best solved by burying it.
+
+Lenz was not naive. He understood what this trial was. They had been drafted by people who knew perfectly well that Kaspar von Hexenzeit had not conspired with elves, but who also knew that the accusation, once spoken in an Imperial Forum, acquired a weight that had nothing to do with truth and everything to do with power.
+
+Convict the Hero of Grenzheim, and Varen lost his most visible symbol. Discredit the boy, and the Iron Cross lost its argument for relevance. Strip the white-haired knight of his name and his medals and his legend, and the whole platform that Varen had been building came down with him.
+
+The doors at the front of the Forum opened.
+
+Prince Varen entered.
+
+He wore black. The silver Iron Cross emblem on his chest. His face was composed, almost serene, the face of a man arriving at a dinner party and not a trial that could reshape the succession. He took the empty chair to the Judge's left, settled into it, and folded his hands.
+
+Then the Imperial Judge stood.
+
+Lord Severinus von Karsten was seventy-two years old, and he looked every year of it. His robes were black. His face was a collection of deep creases. He did not smile. Lenz doubted the muscles for it still worked.
+
+Karsten struck the gavel once.
+
+The murmuring died.
+
+"Bring in the accused," Karsten said.
+
+The rear doors opened.
+
+Four guards entered first. Two Royal Guard. Two Iron Cross. They formed a corridor of bodies through the center aisle, and between them walked the prisoner.
+
+Lenz had prepared himself.
+
+He had studied the file. He had read the intake report, the physical description, the physician's notes from the booking examination. He had looked at every sketch and every photograph the Iron Cross's internal records had been willing to share. He knew Kaspar von Hexenzeit's height, weight, hair color, and the precise number of scars catalogued on his body at the time of arrest.
+
+Still, he wasn't ready for it.
+
+The man who walked between the guards bore chains on his wrists, his ankles, and his throat. Iron links connected each set, running from the collar at his neck down to the manacles at his wrists and from there to the shackles at his feet, so that every step pulled the whole assembly taut and forced a shuffle that was designed to make a man look broken.
+
+Kaspar von Hexenzeit did not look broken.
+
+His hair was longer than the photographs. It fell past his jaw and framed features that had been sharpened and smoothed at the same time, the scars Lenz had memorized simply absent, the skin beneath them clear and faintly luminous in a way that no week of darkness and starvation should have produced.
+
+He was larger. Not the bulk of a laborer. Something finer. As though the week in the dark had stripped away everything unnecessary and left only the essential.
+
+Lenz's mouth went dry.
+
+It was the mana.
+
+Even Lenz could feel it, and Lenz had one core and no training and had never in his life been accused of magical sensitivity. Pressure rolled off the prisoner in waves, and where it passed, people moved.
+
+In the galleries, the murmuring had stopped. Cut off mid-syllable, as though every throat in the hall had decided at the same instant that silence was preferable to attracting the attention of the thing walking down the aisle.
+
+Beside him, one of Lenz's junior clerks dropped a sheaf of notes. He did not bend to pick them up.
+
+Lenz made himself look at the prisoner's face.
+
+The eyes swept the Forum.
+
+They passed across the galleries without pausing. They touched the dais where the Judge and the two royals sat, and held there for one beat, and moved on. They found the prosecution's bench, found Haldenberg's immaculate composure, and moved on from that too.
+
+Then they found Lenz.
+
+Lenz's knees buckled.
+
+It was involuntary. He locked his legs and held, but the shaking had started in his thighs and it did not stop.
+
+He was not the only one. Down the aisle, a journalist had gripped the gallery rail with both hands. One of the Royal Guard escorts had gone pale beneath his collar.
+
+The wrist chains threaded through bolts on either side of the dock and pulled outward, dragging Kaspar's arms wide, and the collar chain shortened until his knees found the stone.
+
+He knelt.
+
+Arms spread. Head bowed by the collar's pull. A posture designed to strip dignity from a man and present him to the court.
+
+It did not work.
+
+Lenz stared at his client and the thought rose: the man on his knees in chains looked more like a king than either royal on the dais.
+
+He turned his eyes to the Judge and waited.
+
+"The charges," Lord Karsten said.
+
+"Kaspar von Hexenzeit. Iron Cross, Southern Command. You are charged with conspiracy with the elven enemy, high treason against the Empire of Silberwald, and conduct endangering the security of an Imperial garrison." He paused. Let the hall absorb it. "How does the defense answer?"
+
+Lenz rose.
+
+His legs held. He would be grateful for that later.
+
+"Not guilty," he said. "On all charges. The defense maintains that Herr Hexenzeit acted in the defense of Grenzheim, in the defense of the southern front, and in the defense of the Empire, and that every action attributed to him by the prosecution was performed in service of those objectives."
+
+Karsten's expression did not change.
+
+"Prosecution."
+
+Haldenberg stood.
+
+"Your Honor." Haldenberg's voice was warm, almost conversational — dinner-table ease in a courtroom. "The prosecution will demonstrate that Kaspar von Hexenzeit, far from defending the garrison of Grenzheim, systematically orchestrated the conditions under which that garrison was brought to the edge of destruction."
+
+The gallery stirred.
+
+"The prosecution will show that the defendant identified a group of refugees — foreign nationals, displaced persons of unknown origin — who had been deployed by the elven enemy to compromise the defensive perimeter of the southern front." Haldenberg paused, letting the clause settle. "That the defendant, having identified this group, did not report them to his commanding officer. Did not submit the intelligence through proper channels. Did not, at any point, alert the garrison to the threat these individuals posed."
+
+Another pause. The hall leaned in.
+
+"Instead, the defendant rescued them. He personally escorted them behind our lines. He arranged their lodging. He facilitated their access to Imperial facilities. And when those same individuals performed the ritual that collapsed the front's runic defenses and opened the gate for the elven assault —" Haldenberg turned, slowly, and looked at the man kneeling in the dock. "— the defendant was, once again, conveniently positioned to respond."
+
+The silence was absolute.
+
+"The prosecution will further show that the defendant had prepared sealed letters, addressed to the garrison command of Grenzheim, days before the attack. Letters that could only have been prepared by a man who knew the attack was coming." Haldenberg's voice dropped to its most reasonable register. "Not suspected. Knew."
+
+He sat.
+
+The prosecution's case landed anyway.
+
+The hours that followed were brutal.
+
+An Imperial tribunal did not concern itself with fairness. It concerned itself with efficiency. There was no jury. There were no deliberating peers. There was only the Judge, and the Judge's authority was absolute.
+
+The prosecution called witnesses.
+
+Intelligence officers who testified to the timeline — the refugees' arrival, the ritual, the collapse of the runic grid. Each one answered Haldenberg's questions with the clipped precision of men who had been coached within an inch of their careers and then let stand in the witness circle to recite the answers.
+
+Haldenberg built it brick by brick. Each fact individually defensible. Each connection drawn with a line so thin it was almost invisible unless you stood back far enough to see the pattern.
+
+He found them. He saved them. He housed them. He had letters ready. He was there when the wall fell. He was there when it was restored.
+
+When it was the defense's turn, Lenz threw everything he had.
+
+He called Commander Wendt's written commendation into evidence. He read it aloud: three sentences. Runenträger Hexenzeit's actions during the elven assault on the southern front were instrumental in the preservation of the defensive line. His conduct under fire was exemplary. He is one of a kind.
+
+He called officers from the Grenzheim garrison, men who had fought beside the defendant in the trenches. Each one described the same man: a knight who held corridors, who breathed visible mana, who threw himself into action without being asked.
+
+He called Commander Brandt, who described Kaspar's recruitment into the Iron Cross. Brandt spoke in short, definitive sentences. He did not embellish. He did not need to.
+
+Lenz called Thom, who arrived with his right arm ending in a tourniquet stump at the elbow and described the day the front collapsed and Kaspar von Hexenzeit walked into his bunker carrying intelligence that no one else had gathered and no one else could have delivered.
+
+Each witness swore under the Emperor's seal. Each one looked at the man kneeling in chains and said the same thing in a dozen different ways.
+
+He saved us.
+
+And each time, Lenz watched the Judge's face.
+
+It did not move.
+
+Lord Severinus von Karsten sat behind his gavel with the expression of a man listening to rain on a roof. Not hostile. Not sympathetic. Simply elsewhere — as if the verdict had been filed before the doors opened and the trial itself were a formality.
+
+Lenz felt the sweat gather between his shoulder blades and run the length of his spine.
+
+He glanced at the dais. Princess Elara watched the proceedings with one eyebrow raised, the faintest curl of satisfaction at the corner of her mouth.
+
+Lenz was losing.
+
+Haldenberg knew it too. Lenz could see it in the set of his former professor's shoulders, the relaxed angle of his pen against his notebook.
+
+Lenz looked at Varen again.
+
+The Prince met his eyes.
+
+And nodded. Once. A dip of the chin so slight that a man not looking for it would have missed it entirely.
+
+Lenz's pulse jumped.
+
+The signal.
+
+"Has the defense concluded its witnesses?" Karsten's voice came from the dais.
+
+Lenz stood.
+
+"One more, Your Honor."
+
+Karsten's brow shifted. It was the first expression Lenz had seen cross the Judge's face all day, and it was not pleasure.
+
+Haldenberg turned in his chair.
+
+"The defense was required to submit its witness list in advance," Karsten said. "I see no additional names."
+
+"Under Article Seventeen of the Imperial Code of Judicial Procedure," Lenz said, and he heard his own voice come out clear, steady, a voice he barely recognized as his own, "witnesses of sovereign rank may be called in real time, without prior listing, when their testimony pertains to matters of inter-state security. The provision exists precisely because such witnesses cannot be scheduled like merchants or soldiers. They come when they choose, and the court receives them when they arrive."
+
+Karsten stared at him.
+
+Haldenberg was on his feet. "Your Honor, this is irregular. The prosecution was given no notice. There has been no disclosure, no opportunity to prepare —"
+
+"Article Seventeen does not require notice to the prosecution," Lenz said. "It requires only two conditions: that the witness hold sovereign rank, and that the testimony concern inter-state security." He paused, and for one brief, reckless moment he allowed himself to look at his old professor's face. "Both conditions are met, Your Honor."
+
+The hall had gone very quiet.
+
+On the dais, Elara's satisfaction vanished. Her eyes moved to Varen. Varen did not look at her. He looked at the doors.
+
+"Identify your witness," Karsten said. The words came out clipped and hard.
+
+Lenz drew a breath.
+
+"The defense calls—" He held the pause. "— His Royal Highness Prince Khalid, First Prince of the Kumsur Sultanate, heir to the Throne of Qalathar."

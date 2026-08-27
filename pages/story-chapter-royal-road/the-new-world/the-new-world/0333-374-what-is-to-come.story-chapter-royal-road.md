@@ -1,0 +1,525 @@
+---
+id: f5864d87-70da-50b4-bbb7-0b239c04187d
+page-type-slug: story-chapter-royal-road
+title: "374 What is to Come"
+slug: 0333-374-what-is-to-come
+partOf: the-new-world
+position: 333
+ownLength: 4805
+unit: words
+ownProgress: 4805
+publishedAt: 2023-03-25
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1147833/374-what-is-to-come"
+royalRoadId: "1147833"
+markedReadAt: "2026-06-29T21:32:39.585Z"
+---
+
+Plazia laughed.
+
+"Don't tempt him, child."
+
+I cracked my neck, and the echo sounded like steel cables tearing in the ocean.
+
+"Eh, I'll take good care of him either way."
+
+Amara pointed at me.
+
+"What of you then?"
+
+I squeezed my hands.
+
+"I've got a status to attend to."
+
+I opened it.
+
+"Now, everyone, let's get down to business."
+
+Chapter Begin
+
+I stared at many, many notifications before scrolling down. I took a moment, filing them into different categories. A primary message arrived over it all.
+
+Hello there Harbinger! Schema would like to personally apologize for the lack of prompt system updates over the last interim. Your system and skills have been updated and will continue to be updated regularly for the foreseeable future. That means no more pesky bugs for you!
+
+A perk will be awarded free of charge based on your contributions and consistent performance. Consider it a sincere apology for any issues you've suffered from glitches.
+
+Perk unlocked!
+
+Schemic Amnesty
+
++Allows association with illegal entities.
+
++Allows low-level tampering with the system. *See the guidebook for further details.
+
++Allows the user to eliminate 5 individuals' unknown statuses.
+
+The benefits let me talk with Plazia in the open, and they helped get me out of shady situations. In general. Cool. I began reading my unique skill notifications, of which there were plenty.
+
+Unique skill unlocked! Primordial Mana | Level 10 - Many walk the world and maneuver through its thorned paths. You have chosen to remake the world in a different image. From blighted to beautiful and from sinister to sublime.
+
+From theirs to your own, the progenitor of a new world.
+
++10% to ease of primordial mana generation.
+
+Finally.
+
+Unique skill unlocked! Dungeon Core Manipulation | Level 10 - Some use cores for skills or income. You've harnessed their power directly, and their untold energy is spoken of in what you make. With your creations, speak with a legend made in your image.
+
++10% to core crafting and manipulation.
+
+Using cores in crafting wasn't that uncommon then.
+
+Unique skill unlocked! Anima Creation | Level 10 - Many spend their life harnessing the power of their mind. You've decided to become the architect of a soul, and from your vision, sentience blooms, a flower amidst the dead.
+
++10% to ease of anima creation.
+
+Ophelia would be proud.
+
+Unique skill unlocked! Temporal Contact | Level 10 - We all pass through time and feel its omnipresent pull. This never sated you, and now you touch upon its essence, your mortality intermingling in eternity.
+
++10% to temporal awareness.
+
+Many of these skills I recognized from my time on L-7, though I gained primordial mana well before. I moved on to the unknown skills.
+
+Unknown skill unlocked! Dimensional Saturation | Level 10 - Many bend to circumstances or people. Others bend to rules and laws. No matter a man's will, all bend to reality.
+
+All but you.
+
++10% to dimensional saturation speed.
+
++10% to dimensional saturation efficacy.
+
+Unknown skill unlocked! True Incorporeal Recomposition | Level 10 - Many feign this feat. Many construct it with tricks and lies. Your skill isn't a fanciful construction.
+
+It is pure. It is undeniable.
+
++10% to ease of incorporeal recomposition.
+
++10% to the speed of incorporeal recomposition.
+
+From the skill description, Schema had downplayed my reconstitution in our conversation. He made it sound like a common ability, but an unknown skill implied otherwise. On the other hand, Dimensional Saturation had to be an unknown skill. It involved soaking my mind into my dimensional wake, a feat few likely ever imagined, let alone attempted.
+
+Mythical skill unlocked! The unique skills of Temporal Contact, Primordial Mana, and Mass Molding(Previously: Mass Manipulation) fuse into a mythical skill: Temporal Compression | Level 10 - To touch upon time's grasp is a feat in and of itself. To effect it is a prodigal demonstration of skill. You've done more.
+
+You bend the intangible, and in the ether, you find you are eternal.
+
++10% to ease of time manipulation.
+
++10% to effect of Temporal Compression.
+
+Oh man, I would soon turn this into a monstrous legendary skill.
+
+Mythical skill unlocked! The unique skills of Artisan of Destruction, Core Manipulation, and Anima Creation fuse into a mythical skill: Golemic Progenitor | Level 10 - Many construct mindless hulks of earth or metal for their bidding. You have mastered this art and, in doing so, transcend the discipline's limitations.
+
+For war is your garden, and in battle's midst, your warriors are born.
+
++10% to ease of golemic creation.
+
++10% to golem's innate skills, abilities, and attributes.
+
+These were the big boys of the bunch, and two more mythical skills gave my legendary skill all it needed to be made. The question was now what skills to put into it. Temporal Compression and Matter Conversion would be included for obvious reasons, but the last skill could be many things. However, I had a few ideas in the works.
+
+In a far-off future, I may even write my own furnace inscriptions. At that point, I could turn myself into a living nuclear furnace that fed on my flesh for infinite fuel. It would again evolve my mana generation, something that may catapult me ahead. I would need many of those leaps forward to kill the Old Ones.
+
+After having squared away my skills, I peered at my tree menu. I found the missing notification I was hoping for.
+
+1,625 tree points awarded!
+
+That was more damn like it. I placed some points into my Creator of Armies tree.
+
+Your glow becomes a new dawn for those under you. That light offers guidance, purpose, and resilience to your chosen. What is a beacon to some becomes a burning insignia to others, and so, you will be hated. They will writhe and thrash against you. That is until they are broken under an unending march.
+
+For who are those that stand against a creator of armies?
+
++100% to effect of Legacies. +10 to base stats of all guild members. +25% to experience gain for your guild. +25% to the learning speed of skills within your guild. +10% easier skill creation for guild members.
+
+While not a huge personal bonus, the tree allowed my guild to progress faster. Considering how ahead I was of almost everyone, that was exactly what we needed.
+
+Select Talent tree for distributing points. Requirements met. Additional trees unlocked.
+
+Owner of Worlds(Own a habitable world)(2,500) | Anomaly(Be singular in nature)(2,500) | Immortal(Have a possible lifespan of over 100,000 years)(2,500) | Conquerer(Take a city by force)(1,500) | Schema's Champion(Prove yourself worthy of my personal attention)(5,000)
+
+I eyed my options with care. Schema's Champion tempted me for many reasons, and it would likely give me privileges that other guilds drooled over, That wasn't what bothered me about my current position. I had to solidify the lives around me and my planet's security.
+
+Otherwise, I'd be the last one standing. Again.
+
+Thoughts leaked into my head. I remembered gazing at Leviathan's center after killing Valgus. Everyone died. It heralded a dark future where one day, I would be like Obolis as he learned of his family's deaths. I would be an all-enduring yet all-destroying force, like Leviathan.
+
+I wouldn't let that happen. During the lottery, everybody passed except Shalahora, and he kept some people alive. I came close to death, but I had many ways of avoiding its gaze aside from my trees. In fact, leveling and absorbing red cores would be enough for me for a while. I could always funnel energy into my cipheric inscriptions for infinite stats anyways.
+
+Time bottlenecked that process, but that was a problem I hacked away at by leveling Temporal Compression. My sovereign skill, legendary skills, and titles also added to my personal progression. It left me wanting to invest in the people around me instead of myself.
+
+Besides, the trees always awaited after I gained a few to help my guild.
+
+After doing some research into the trees, I found no information about them specifically. Schema's info lockdown still had its vice grip intact, but similar trees did pop up in my searches. Any trees revolving around planet-owning strengthened cities, trade, and planetary defenses. Considering my worries, I selected Owner of Worlds and placed my points.
+
+A part of any society involves ownership. Who owns the means of production? Who owns the land? Most importantly, who owns the people? These are questions long asked and long answered with blood. You spilled rivers of it, so you own all there is.
+
++25% to City Barrier Strength
+
++25% to City Barrier Efficiency
+
++10% to City Barrier Size
+
++10% to Credit Income Multiplier from owned territories
+
++10% to Experience Multiplier from owned territories
+
++25% to Bounty Payout in owned territories
+
++25% to Bounty Experience Reward in owned territories
+
+-10% to Warping Costs in owned territories
+
+Sovereign Exclusive: +6% to World Perk Efficacy
+
+You conquered the land until there was no more to be taken. You seized all production until nothing was made. You fought dissenters until groups, cities, then countries bent to your will. None bend to it now.
+
+They live and breathe by it.
+
++50% to City Barrier Strength
+
++50% to City Barrier Efficiency
+
++20% to City Barrier Size
+
++20% to Credit Income Multiplier from owned territories
+
++20% to Experience Multiplier from owned territories
+
++50% to Bounty Payout in owned territories
+
++50% to Bounty Experience Reward in owned territories
+
+-20% to Warping Costs in owned territories
+
+Sovereign Exclusive: +12% to World Perk Efficacy
+
+Unlike most trees, this one specialized. It granted specific but powerful bonuses, all of them easing world ownership. The city barrier bonuses let me establish far better defenses moving forward. The credit and experience multipliers allowed me to gain resources faster, and the bounty bonuses gave me better passive governance here.
+
+After all, the more bounty hunters made, the more bounty hunters would appear. They acted like a force of vigilantes, and while not ideal, they shored up my lacking security. Well, golems could also handle any ner do wells, but that could backfire. Having those juggernauts kill ordinary people mirrored a dystopia.
+
+An Average person would never resist one, let alone defeat a golem. Crimes of any kind would result in a swift death. By having ordinary people dish out justice, I integrated them into the process. People on my planets also retained free will, something I didn't want to interfere with outside extreme cases.
+
+I leaned back, stunned by a sudden realization. Schema did the same thing with his Sentinels. For a second, I wondered if I was turning into what I once hated, but I let that go. We happened to align here. I was sure there wouldn't be that much overlap moving forward.
+
+Anyways, the warping bonus from the tree resulted in more trade and money over the long term, which was always good. I did raise my brow at the Sovereign exclusive because, yeah, I got perks for the planets I owned. Speaking of which.
+
+Congratulations! Your guild has been promoted from standard filings up to the imperial category. This eliminates any cap on ownership of worlds and allows the user to claim ownership over solar systems and the resources within. Get ready to roll up your sleeves, find some ores, and crack open some planets!
+
+Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Solus system gained!
+
+Schema's messages always carried a strange contrast. They embodied a happy, winning raffle tone that opposed the brutal reality of earning the rewards. Still, the second part of this update made me smile.
+
+[Sovereign Update: Big news, Sovereign! You now officially own a planet(s)! You've gained a resulting perk(s) from your ownership of that planet(s) based on the world (s) owned.
+
+Your perks are as follows:
+
+Mercury's Maker | +11.2% to temperature multiplier.
+
+Venus's Allure | +11.2% to aura pressure, control, and radius.
+
+Earth's Immortal | +11.2% to regeneration stats.
+
+Mars's Madness | +11.2% to Ascendant Outflow.
+
+Jupiter's Juggernaut | +11.2% to Mass.
+
+Saturn's Star | +11.2% to Gravitational Potency.
+
+Dominator of Uranus | + 11.2% to Quintessant Outflow.
+
+Neptune's Navigator | +11.2% to Primordial Outflow.
+
+Solus's Saviour | +11.2% more exp, credit gain, and awareness within the Solus System.
+
+Blegara's Borne | +11.2% more damage against eldritch.]
+
+I gawked at the perk for Uranus. It was a great perk, but, uh, the naming was a little off. All the other perks read better, even slotting their bonuses into the planet's significance for our solar system. All in all, they compiled into a notable increase in my abilities. They also omened how much the Ruler of Worlds tree might affect me if I owned many planets. It might not be as much of a personal sacrifice as I expected.
+
+I moved on.
+
+[Self Augments(Previously: Modifications) - The dimensional fabric composing this structure has been modified with code from the dimensional cipher. The changes are as follows(Pre-multiplier values):
+
++17,231 Constitution
+
++87,827 Endurance
+
++13,728 Perception
+
++21,278 Willpower
+
++11,777 Luck
+
++13,901 Strength
+
++12,490 Dexterity
+
++9,019 Intelligence
+
++7,154 Charisma
+
++9,032 Awe
+
++100% to Effects of Legacies
+
++50% Internal Motivation Multiplier
+
++34% Dimension Size
+
++34% Dimensional Wake Density
+
++34% Dimensional Wake Extent
+
++12,342 Trillion Ambient Mana]
+
+I staggered at the sheer volume of stats thrown my way. I imagined stat gains from the fight with Valgus, but this defied all expectations. Every stat skyrocketed, even stats I lacked an inscription for. My ambient mana tripled, and the other bonuses helped me realize my dimensional potential.
+
+Checking the math, I added my skill bonuses from leveling up and my dimensional augments. My augments outpaced my level-ups by volume, though Schema's multipliers still outworked what my modifications accomplished independently. This omened the magnitude of my future changes.
+
+Inspecting those changes, the dimension size bonus affected my pocket dimension. That's part of why I had the extra space for primevals on returning to Earth. I hadn't noticed the density or wake size yet. First, I reached out with the Rise of Eden for a moment and verified it. My dimensional wake dwarfed its old size, now encompassing Mt. Verner.
+
+I hadn't noticed on L-7 because the planet's scale exceeded Earth's by leaps and bounds. The difference between a square kilometer and a square mile meant nothing there, but I had actual references for comparison on Earth. As for the dimensional density, that could be why I sensed Althea within my wake.
+
+Moving onto level-ups, I peered at 5,000 as Schema promised, but that was it. I expected some exp from the lottery's monsters, but I reviewed the terms. Schema set the lottery outside of both Schema-owned spaces or a rift. That meant we received nothing from killing the primevals or Schema's enemies.
+
+Despite that technicality, I piled up plenty of points to spend. 20,000 of them. I put all of them into endurance and stared at the finalize screen. After clicking this, I'd gain the tree bonuses, the planet perks, and the attributes. A bit antsy, I clicked the button, and a wave of mana crashed from afar.
+
+I brimmed from the energy flow, glowing before I stood up. The glass near me melted. It bubbled, boiled, and splattered as my guildmates began panicking. Althea leaped away. Hod flew off into the distance. Torix cast cooling magic, and Chrona roared ice breath.
+
+I condensed my wake, stopping the energy flow for a moment. As the heat dissipated, I cooled the area. I left a burned spot over Chrona's home, so I winced.
+
+"Ah, my bad, guys. I forgot how much energy my status updates send out these days. I'll fix this later."
+
+Torix sighed.
+
+"Patently absurd."
+
+I walked over to the edge of the building and leaped up. I pulled myself along with gravity, flying high into the atmosphere. Above the clouds, I soared until Earth's gravitational pull lightened. Once far away from anyone or anything, I allowed Schema's reconfiguring to take place. As it happened, I slowed it down with my wake's density.
+
+This let me appreciate Schema's changes. From a flashing moment to a loaded minute, my anatomy and mind changed. I leaned in, putting every part of my mind on understanding the shifts. I uncovered a few of his secrets as I did.
+
+Schema couldn't increase my strength via normal means anymore, so he used other methods. The primary difference arrived from mana-based muscle fibers. They operated off of constructed segments of my armor. Whenever mana pulsed through them, they pulled together or apart. I had no clue how Schema did it, but I'd get Torix and Plazia on that case after this.
+
+Unlike the physical changes, I struggled to dissect the mental differences. Even Schema would probably shrug at what he did, as little about my thought process or cerebral acuity changed. Thinking about it, I  wouldn't know what to do either. After all, how much can you change about someone's mind before it wasn't theirs?
+
+Schema couldn't interfere with free will, so he kept the mental changes on simple, easy-to-articulate conditions. He improved the computational proficiency and processing speed of the psyche. That let him increase the amount of thought someone could dish out, increasing their mana and regeneration.
+
+However, the natural ingenuity of the mind remained stagnant. Hell, even coming up with a strict definition of intelligence was difficult, and people always argued about it. Schema evaded all that by focusing on the simplest, most determined explanation possible.
+
+It wasn't a poor answer.
+
+Regardless of my breakdowns, Schema's augments were razor-sharp and precise. No matter how I criticized him, Schema used as little mana as possible for the most benefit. His efficiency far and away exceeded my own, requiring far less mana for better additions. It left me in awe, and I had a long way to go before I could do the same.
+
+As the changes settled in, I raised my arm, moving my new hand with my improved mind. Not bad. Not bad at all.
+
+[Status]
+
+The Living Multiverse | Level 23,767 (Cap: 39,000) | Current Influence: The Rise of Eden | Class: Sovereign
+
+Strength – 190,917 | Constitution – 212,632 | Endurance – 451,956
+
+Dexterity – 115,926 | Willpower – 396,395 | Intelligence – 257,229
+
+Charisma – 121,399 | Luck – 154,656 | Perception – 86,756 |Awe - 16,943
+
+Health: 3.60 Billion/3.60 Billion | Health Regen: 278 Billion/min or 4.621 Billion/sec
+
+Stamina: Infinite++ | Ambient Mana 12,402 Trillion
+
+Mass: 2.2 Billion Pounds( 1 Billion Kilos~)
+
+Height: 37'11 |11.56 meters | Actual: 21'9 (Temporal Compression)
+
+Damage Res - 99.532% | Actual: 99.672% (Temporal Compression) | Dimensional Res - 100%
+
+Phys Dam Bonus – 22.6 Billion% | Damage Bonus – 40%
+
+The Rise of Eden - enhances base stats by 30%, increased to 40% to allies within aura's radius.
+
+Mana Conversion(Elemental Furnace Count: 41) - 239.2 Billion mana/min siphoned into runes and armor.
+
+[Previous]
+
+I hadn't checked my status in a long time, and the numbers increased to absurd quantities. My periphery attributes exploded, my weight ten-folded, and so did my physical damage. My damage resistance also inched up, and Temporal Compression increased it. Reasoning through why I peered at the skill's creation.
+
+It devoured Mass Manipulation. Well, Mass Molding but whatever. Same thing. Whenever a mythical skill absorbed unique skills, they improved them. At a certain point, condensing my matter resulted in a more rigid, more robust material. Therefore, leveling that skill would improve my dimensional fabric.
+
+Hell yeah.
+
+And, of course, I didn't forget the most important measuring stick of progress. You know it. I know it. We all know it. The big daddy. The penultimate peak. The absolute apex. The only real value that mattered in the grand scheme of things. That's right.
+
+Health regen.
+
+Sarcasm aside, it nearly quadrupled, with all the multipliers going crazy again. The planet perks helped with that, as had all the endurance from level-ups. Peering at my hands, I snapped my fingers. A singularity erupted afar. I snapped two fingers, and two singularities detonated. I kept adding more until I capped at nine of them. Ridiculous.
+
+I quit exercising my mana because I kept causing clouds to whirl below. Moving around, it was challenging to know the exact physical differences without something to test on, especially this high up. Peering down at the blue marble below, I flinched. At this point, I could shatter mountains or rive rivers with my hand.
+
+I'd test myself elsewhere in a less precious place. Heading back down, I whirled through the wind. Heat built over me, and I passed through a raincloud. The water evaporated as I passed, and I got into view of Mt. Verner in seconds. While getting close, I ignited several birds that exploded like aquatic grenades.
+
+I gawked in horror at the charred remnants and sifting steam. Slowing the hell down, I took a few minutes getting back while cooling myself. While passing a cloud, it dropped blocks of hail. I was too cold. Great. In fact, all these temperatures seemed the same to me. I rubbed my temples, trying to come up with a solution. In a minute, I did.
+
+I kept a bubble of water beside me, and I kept it from freezing, boiling, or evaporating. It gave me an accurate temperature gauge, preventing me from flying down while radiating the heat of a furnace or oozing the cold of space. Once below, I landed in Chrona's icy home.
+
+The others spurred into action. Shalahora, Hod, and Althea trained in the mountain's shadow. Torix talked with Plazia, a metal skeleton talking to a horde of flies. Chrona sat still, using her temporal prowess on Amara and Krog. Obolis went back to his Empire and tended to many matters.
+
+I flew over to Plazia and Torix. Torix pointed a hand at the flies.
+
+"The issue with bodily integration with the Omega Strain is that it will result in an unknown status for our guildmates. We'll lose more fighting power than we gain."
+
+I raised my brow.
+
+"Huh, not worried about whether they'll go insane?"
+
+Torix tilted his hand.
+
+"Ethical arguments wouldn't work well against Plazia as they are the least of his concerns. So I used what works - pragmatism."
+
+I raised my brow.
+
+"You don't want a win when it's the most impressive?"
+
+Torix scoffed.
+
+"If my words are a knife, then I slice where the enemy is softest. That being said-"
+
+Torix interlocked his hands behind himself.
+
+"What is needed of us?"
+
+I pointed at the lich.
+
+"I need you to organize everyone in Mt. Verner. I'm going to be rebuilding this place from the ground up."
+
+Torix nodded.
+
+"Consider it done."
+
+I pointed at Plazia.
+
+"Get a good understanding of the Omega Strain and come back with detailed reports. There's plenty of latent potential there. I can feel it."
+
+Plazia's insects rippled.
+
+"I shall trust your intuition."
+
+I turned before bending my knees. Torix's eyes brightened.
+
+"Where are you headed?"
+
+"To Blegara. I'm getting Kessiah some new bodyguards."
+
+I flew over towards Mt. Verner's warp drives. As I did, I sent Shalahora a telepathic message.
+
+"Keep them safe while I'm away."
+
+He said, "As your shadow."
+
+"Hm?"
+
+"It means yes."
+
+"Ah, ok...Do you need anything?"
+
+"For you to survive."
+
+I nodded.
+
+"As your shadow."
+
+I raced past several groups of people, waving my hand without stopping. I headed to Mt. Verner's warp drive before talking with Schema's receptionist. A quick chat later, I stepped into a metal tube. Ionizing clouds poured over me before I shifted position. I stepped out into Saphigia, the zone protected by a blue core.
+
+Around me, the endless ocean of Blegara covered a reinforced barrier, schools of fish passing by overhead. Beams of light leaked between the waves like an endlessly rippling panel of glass overhead. In the distance, a wispy barrier shielded some of Saphigia, and I winced at it. The thin, light shielding wouldn't survive a single primeval, let alone a group of them.
+
+I had to fix that.
+
+I pulled myself up, peering down at a city in development. A constructor golem or two would make a world of difference here. I spent a few minutes making two of them and putting their cores in place. Heading towards the city's center, I found a monolith sitting there and ebbing an aura of buffs.
+
+Terrible buffs. I cringed at the sight of it, its unstable design and poor output being my fault. After flattening it, I made a new pillar of my dimensional fabric. I added a few premade cipheric etchings from my grimoire and planted ten blue cores into the monolith.
+
+It generated a barrier around the city, far vaster than before. It included underwater sections of the city, creating a psionic web that anyone could contact. Many did, whether by accident or not. From those connections, awareness spread over me, giving me some idea of what happened in the city from nearby Vagni's thoughts.
+
+I sifted through mundanities before my eyes widened. In a panic, I flew up, dashing across the ruined cityscape. Passing into the submerged portion of the city, I extended my dimensional wake outward. A chill ran up my spine as I peered around. At Saphigia's outskirts, a military ship had landed, one from the Empire.
+
+They established an air zone under the waves using mana batteries and machinery. Within the area, Kessiah healed soldiers. She channeled blood from her prepped pouches, reconstituting even lost limbs for various albony and other aliens. As impressive as it was, my eyes settled on a different ship that landed nearby.
+
+Hybrids gazed at me from its surface. Orange pustules pumped energy under their surface. Blighted ones swam nearby, making a mockery of their old, gialgathenic forms. They wrestled with older models of my golems, and a battle erupted in the sea again. Trying to settle the conflict, several Elysium soldiers landed nearby with Hybrid guards, carrying various documentation.
+
+They psionically announced.
+
+"We mean no harm to the locals. We are here for the imperials."
+
+It was a repeating call. Several Hybrid carcasses piled up, the battle being waged for a while. Once close, my status disappeared, and I crashed through the imperial's protective barrier. Raising a hand, I sealed the hole shut with a saturated antigravity well while standing over everyone.
+
+The albony and others gawked at me. Kessiah peered up, and she shouted.
+
+"It's about damn time someone showed up. Get these guys the hell out of here. I'm trying to make some money for Schema's sake."
+
+I glared at the ship.
+
+"Get them out?"
+
+I waved my hand.
+
+"They're not leaving."
+
+As my hand passed, I disintegrated the ship in five singularities' wake. They evaporated, the nearby albony trembling in fear. The vessel converted into a kinetic shockwave rippling through the water. Reaching up my other arm, I pulled down. Saphigia's new barrier molded under my command, covering this isolated bubble.
+
+Weathering the incoming shockwave, we watched schools of fish and Hybrids get thrown aside by the tsunami and tidal movements. I turned to Kessiah.
+
+"We're getting out of here."
+
+She gestured at a dying imperial soldier.
+
+"I'm kind of busy at the moment."
+
+I walked up, swiping the gooey mess of a person into my pocket dimension. Kessiah blinked.
+
+"Oh yeah, you can do that."
+
+I swiped the other injured soldiers into my pocket dimension, already having practice. After getting the last one, Kessiah stepped away from me.
+
+"You're Daniel, right?"
+
+I pulled my helmet down.
+
+"Of course. Who else?"
+
+Kessiah shrugged.
+
+"A giant, metal monster?"
+
+I made a finger pistol with my hand, pointing at different Hybrids in the distance. I pulled them into a cluster.
+
+"What makes you say that?"
+
+I evaporated them with a singularity. Kessiah frowned.
+
+"Don't know. Maybe it's the weather?"
+
+Off in the distance, a vast warp erupted. Along its edges, golden claws punched through the ether. I sighed.
+
+"Well, it's about to get stormy."
+
+Kessiah peered off, covering her face.
+
+"Ok, yeah, it's still you under all that steel."
+
+I smiled.
+
+"Give me a minute. We'll talk after I handle this."
+
+I broke through the Imperial's barrier again, letting them handle the aftermath as I stared down the largest gialgathen to ever live. Its mammoth eye gazed through the tear in space-time. From the warp, a haughty voice erupted over the landscape.
+
+"Another oceanic world? Ugh. I tire of desolating the seas of far-off planets."
+
+Lehesion pulled himself from the void, and his eyes met mine. A grin grew over his face.
+
+"Ah. It is you yet again. I thought we'd called a truce of sorts? Perhaps you wished for another thrashing?"
+
+Energy plumed from me, ascendant mana billowing out like blood. The ocean ran red.
+
+"I'm not the same Daniel you fought before."
+
+Golden lightning erupted from Lehesion as he shouted across the horizon.
+
+"And neither am I, child."

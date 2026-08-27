@@ -1,0 +1,339 @@
+---
+id: 97e584d6-49a5-51dc-ab0b-5c51609eb997
+page-type-slug: story-chapter-royal-road
+title: "291 A Sovereign"
+slug: 0250-291-a-sovereign
+partOf: the-new-world
+position: 250
+ownLength: 4185
+unit: words
+ownProgress: 4185
+publishedAt: 2021-03-04
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/641450/291-a-sovereign"
+royalRoadId: "641450"
+markedReadAt: "2026-06-29T21:29:41.803Z"
+---
+
+I showed Torix my status, and we read with a vicious hunger.
+
+Becoming a sovereign entails tremendous opportunities, and it entails even greater responsibilities. By accepting this class, you've ushered yourself into the highest echelon of those living. It's similar to attaining godhood, and in that matter, you decide what your reign will represent. Will it be a rule of benevolence or one of annihilation?
+
+You will decide.
+
+Class completion - 100%
+
+The Sovereign is a class oriented around conquering, expansion, and a widescale influence. It is one of the system's highest level classes, and it comes with many benefits that few know of. You will be one of those few, and if you use the benefits offered to you wisely, you can unlock doors that will vastly broaden your overall potential.
+
+Good luck.
+
+Since the Sovereign gives many broad and other specific bonuses, they'll be detailed below using a series of general bonus outliers. This structures the numerous additions, granting you the opportunity to organize all the benefits therein.
+
+I turned to Torix, "They have to sort everything, or else people get lost. Woah."
+
+Torix raised a finger to his skeletal mouth, "Shh. I'm reading it."
+
+I followed suit.
+
+The main benefits of the Sovereign class are as follows:
+
+Ba. 1 million credits per city maintained. Salary received yearly.
+
+Bb. 2.5 million credits per region maintained. Salary received yearly.
+
+Bc. 100 million credits per planet maintained. Salary received yearly.
+
+Ca. Terraformed worlds offer 100 million credits and automatic ownership.
+
+Cb. Fringe worlds offer 100 million credits and 25 blue cores.
+
+Cc. Forbidden Knowledge - individual runic inscriptions, artifacts, and eldritch are incredibly valuable. Reward-based on the specimen.
+
+III. A Sovereign breaks many of the standards and norms placed on others. Where they would find barriers and closed doors, a Sovereign finds open arms.
+
+Remember that as a Sovereign, you may no longer push your limits. You will find that you discarded them long ago, and now, all is possible before you. Your enemies will tremble, your allies will revere, and all will know you, for you are legend.
+
+We stared at the variety of benefits, many of them unexpected and kind of out there. As the finalization screen popped up, I turned to Torix,
+
+"Welp, I'll see you on the other side."
+
+Torix stood up, giving me some room, "Let's assume it'll be a successful transition."
+
+I pushed the yes button, and an absurd rush of mana coursed through my veins, bones, and mind. The energy flow left my skin heated till it glowed, and the concrete beneath me melted. Sizzling air coursed up from me, creating a wind tunnel in the room. Torix snapped his fingers, creating an insulating barrier from the rest of the room as my class changes took place.
+
+Once more, my skin ruptured as uncontrolled growth took place. My blood boiled as I singed the world around me. Time and space bent under the vast energies while gravity warped under my feet. I shook in place, unable to tolerate the overwhelming rush of strength, power, and vitality. I came to life once more, and my senses took the experience in.
+
+A dilation occurred around me. It was difficult to describe as if the space I owned increased in size. My reach exceeded the scale of this room now, taking up a reasonable chunk of the mountainside. Both above and below, my surroundings fell into my dominion. My determination here, it was absolute. It gave me a sensation of control, this territory under my will.
+
+That change passed, and other alterations took place. My mind sharpened, my weaknesses becoming strengths. It was as if I stood over a vast ocean of potential, and now I gained access to that endless sea. It gave me more words to say, motivation to move forward, and an understanding of people. This lucidity wrapped around me, becoming my new normal.
+
+Another augmentation took place after. These invisible chains that stopped me and held me back, they snapped. They opened up new possibilities and horizons that unveiled in an unseen distance. They filled me with a growing sense of hope and a renewed sense of motivation. At that moment, anything was possible.
+
+Once more, another phenomenon took hold of me. It was pure, unadulterated mana. It rushed. It poured. It suffused everything, drenching me down to my core. My entire being radiated, a vibration rattling me until my teeth cracked, and my bones disintegrated to powder. The enormous deluge of energy expanded outwards beyond the physical limits of my body.
+
+This energy emanated from the area around me, and it diffused with crackling intensity. An ionizing cloud formed throughout nearby space, the air melting. Radiation ebbed from every pore on my skin, and I went blind. I could no longer see, feel, or hear. Everything went numb outside of one sensation - energy, cosmic in size and utter in nature. It left me unable to think, and whether ten seconds passed or a hundred years, I couldn't have told you.
+
+It felt like an eternity wafting in a storm of energy.
+
+This energy faded, gradually at first, before sinking into nothingness. It left behind different vigor, one that wasn't foreign. It was my own. It flickered, snapped, and echoed into the distance. It left a gentle warmth, one contained but forboding a torrent of violent power. It spoke with a voice of madness, an endless hunger that feasted on its own flesh, like an ouroboros that defied nature.
+
+It was me.
+
+I stood, having fallen to my knees at some point. I stared around me, and Torix stood with his grimoire open. Twenty golems circled my transformation, each golem assisting our lich with an elaborate, runic incantation. Peering around, I found myself in a pile of mush. It was heated plasma, the air sapped from all the space around me. I existed in a vacuum contained by those around me.
+
+I lifted a hand, and mana poured out like a cosmic flood. Cold inundated, and the space around me stabilized. Torix and company took a deep breath, no longer needing to contain the volatile energies I emitted. As I walked over towards Torix and my first golem Alpha, their multiple protective barriers fell down.
+
+Over them, I loomed like a titan. I raised a hand, "There we go. It's good that's over with."
+
+Torix gawked at me, his skin crawling. I don't know why, but I could tell. To put him at ease, I reached out a hand and put it on his shoulder, "Thank you for keeping the guild safe while I handled my class."
+
+Torix nodded, "Yes...disciple."
+
+I stepped past them and my golems. The others stared from a distance, Spear peering from behind him. Across the room, he whispered, but I heard every word,
+
+"And a monster is born."
+
+I ignored him. I'd decide if I was a monster or not. I peered at my followers, and I lifted my hands, "With my class unlocked, I'll be able to crush Lehesion under my feet. Thank you all for helping protect my family here while that happened."
+
+I raised a hand, and the Rise of Eden draped out. It went well past its previous limits, covering the entirety of the room. Using its stat-boosting effects as a bolstering agent, I spoke out,
+
+"Now, let's get ready for war, everyone."
+
+Everybody popped into action, going back to their practices—all besides Torix, who stepped up to me with an inkling of hesitation. I tilted my head, "Are you alright? You seem, I don't know, weird?" My eyes widened, "Was I out for weeks or something?"
+
+Torix waved his hands, fumbling with his words, "No, it's been three hours. As for my strangeness, I...I don't know. I-I just, so, well, hm...you feel different. That's all."
+
+I grinned at him, "I'm the same."
+
+Torix's posture relaxed, but he laughed, "Hah...You're not. That much is certain."
+
+"We'll see. Let's inspect my status sheet and come up with some plans moving forward."
+
+"But of course."
+
+Heading towards Torix's lair, I turned behind me. Reaching out a palm, I restored the missing concrete with gray stone. The vast scar my transformation left would act as a reminder of what any other considerable modifications would do. They would take time, and they might cause more damage than I expected.
+
+I noted that, making sure to only handle them post-combat and in a safe place. Once at Torix's lair, he and I hovered on mana derived seating. I opened my status, and we inspected the damage done. It was plenty.
+
+The Living Multiverse(Lvl 15,000(Cap: 25,000) | Current Influence: The Rise of Eden | Class: Sovereign)
+
+Strength – 82,480 | Constitution – 102,382 | Endurance – 198,003
+
+Dexterity – 43,942 | Willpower – 160,718 | Intelligence – 101,818
+
+Charisma – 41,950 | Luck – 57,490 | Perception – 32,921 |Awe - 5,201
+
+Health: 689.2 Million/689.2 Million | Health Regen: 20.3 Billion/min or 339.0 Million/sec
+
+Stamina: Infinite | Ambient Mana 4.001 Trillion
+
+Mass: 16.8 Million Pounds(7.6 Million Kilos~)
+
+Height: 17'6 (5.33 meters)
+
+Damage Res - 99.24% | Dimensional Res - 100%
+
+Phys Dam Bonus – 84.4 Million % | Damage Bonus – 40%
+
+The Rise of Eden - enhances base stats by 30%, increased to 40% to allies within aura's radius.
+
+Mana Conversion - 6.7 Billion mana/min siphoned into runes and armor.
+
+Many of my stats ballooned from the class. The health and mana bonuses did most of the work, making my health regeneration absurdly high. It would only take two seconds to fully recuperate from a deadly attack. At this point, killing me would be damn difficult for even someone like Yawm. I couldn't die in one hit, after all.
+
+The stat bonuses increased in a much more linear manner. They all boosted up, charisma and willpower in particular. As for everything else, I received respectable boosts in everything. The attribute bonus was the reason for that, along with all my attribute conversions. Combine that with my cipher bonuses, and every stat I owned stood towering over most specialized mains.
+
+Well, besides for awe.
+
+Wielding my new torrents of mana, I lifted a hand, squeezed it, and reached out my fingers. As I did, a quintessence crystal expanded outward. I bisected it using slicing, telekinetic panels. I pulled those pieces apart, hovering them millimeters from each other using hundreds of gravity wells. Turning to Torix while raising my eyebrows,
+
+"Well...It was worth the wait, I suppose."
+
+Torix's eyes flared white, and he stayed speechless. He shrugged, "Every stat is at least three times higher than mine. That's incredible, you know. Way to steal my thunder after gaining my class."
+
+I smiled, "Come on now, I couldn't match that evil speech you gave. It left our guildsmen chilled."
+
+Torix shook his head, "Nice attempt at deflection, but I can't understand your stats anymore. The numbers, they're difficult to comprehend. You can generate, let me see, ah yes, 3,000 times as much mana as me. Excellent. Just superb. I am a mage class, after all. It only goes to reason that you'd have an army of me's worth of health regen."
+
+I nodded at my stat sheet, "I do agree that my stats are getting out of hand. I think this is my last big net gain, outside of my sovereign skill to be fair. And elemental furnaces. And speaking in the cipher. You know what, I think my dimensional skills are unexplored too. Ah man, the fused mana type, I could use that too. It mentions entropy here."
+
+Torix deadpanned, "Yes, this must be the last part of your exponential growth. Your reassurance just now was comforting in that regard."
+
+I rolled my eyes, "I appreciate the sarcasm."
+
+Torix stared up, "I do wonder if you could face a Spatial Fortress now? Your stats seem up to it. That much is certain."
+
+I raised a hand, "I...I don't know. Maybe?"
+
+Torix let his hands flop against his sides, "Time will tell, I suppose. Regardless of your new potential, I say we develop a plan for using those sovereign bonuses. They mentioned many perks I hadn't expected."
+
+I opened my status. It turned blurry for a moment before it changed colors to red, like an Overseer's HUD. I rolled my shoulders, "Well, damn. Looks like I'm moving up."
+
+"Certainly. I say we move in order, handling each bonus from your class to maximize this discussion's orderliness. What do you say to that?"
+
+I nodded in silent agreement. Torix pointed at my status,
+
+"In the beginning, it mentions sovereign skill augments. How close are you to gaining one of those skills?"
+
+I furrowed my brow, "I don't know. I have two legendaries, three mythicals, and seven unique skills. I don't really know how I'd fuse my mythicals, but it should be possible. Hunter of Many is primarily about, you know, hunting. I could manage to do that while using Matter Conversion easily. The same could be said for A Manifold Mind."
+
+"You sound as if there's a large however incoming."
+
+I pushed two of my fingertips together, "I don't see A Manifold Mind and Hunter of Many making a legendary skill. They could, in theory, but I think it wastes my potential. I could use that legendary slot on something more important, like primordial mana. I'm pretty damn sure that mana type is important for my future progress."
+
+"Ah yes, your auras are dictated by your mana types. You could also use your other, strongly integrated legendary skills to bolster your lack of primordial mana knowledge. Speaking of which, how goes that studying?"
+
+I frowned, "Poorly. It's still a struggle. I can't seem to understand it."
+
+Torix nodded, "You'll get it, certainly. Pushing that aside, do you have any plans regarding your future skill development?"
+
+I opened my skill menu, pointing at my uniques, "So, here's what I'm thinking. Artisan of Destruction is a new skill of mine. It's handy since it helps me make golems. Fusing that together with other skills is very important. I think that primordial mana will be unique, like all the other advanced mana types. Considering all of that-"
+
+I waved my hand at all my other unique skills, "I'll level with you. I don't really know what to fuse it with next."
+
+Torix pointed at Mass Manipulation, "What of this one? It seems rather useful."
+
+"That skill has a deceiving name. It lets me shrink or expand myself. I think it would kill most people, or at least discomfort them."
+
+"It would allow you to dictate the size of your creations better, would it not?"
+
+I tapped my chin with a knuckle, "I guess. Hmm, it could be good with primordial mana. I might make denser stones or specific kinds of materials better. Primordial is origin and dominion mana, after all, and it should give me even more control over whatever I create. That could be useful with detail-oriented work."
+
+"I agree. I believe this would be the most pertinent skill for fusing. That you have at the moment, at least."
+
+"That's the next milestone then. After that, what about the planet owning bonuses from the class. What do you think of those?"
+
+Torix scoffed, "Oh, all of that is simple. We will conquer a wide swath of the known universe. That much is to be expected of us now, given our net abilities."
+
+I blinked, "Huh...galactic conquerors? It sounds cool and all, but that's pretty aggro."
+
+"Indeed. That is precisely why I enjoy it."
+
+I pointed at the fringe and terraformed world bonuses, "I get that, but how about we try this instead? I don't want to crush other species under my foot, and if I learned anything from Blegara, it's that managing even a simple planet is hard. If we make a settlement from the ground up, we decide how it develops."
+
+Torix leaned back, crossing his arms, "Do you believe we have the means for it?"
+
+I remembered the giant rift on Blegara, funneling untold volumes of water onto its surface.
+
+"Yeah, I do."
+
+"Then we'll do as you say, guildleader." Torix pointed at the last segment of the planet owning section, "I see Obolis must've specialized in this particular section. He loves searching out secrets and the like."
+
+I analyzed my memories, finding Obolis's one message. I shook my head, "He has a different class. It's called the Founder."
+
+"Perhaps it's a rare variant of Sovereign?"
+
+"Yeah, it could be. We don't have enough knowledge to say. Either way, these special privileges seem pretty spicy if I do say so myself."
+
+"Oh, most definitely. They remind me of my ability to learn the cipher."
+
+I facepalmed, "Duh, how'd I forget that. I'll teach you that for an hour a day, like our mind magic duels."
+
+Torix's eyes turned green, "Thank you, disciple. A teacher's greatest joy is to learn, especially from those they once taught."
+
+I jeered, "You didn't have the teachers I had at my school, then." I pointed at the third section of my sovereign bonuses, "So...When should we start our meetings with the Overseer and Schema? I've had a few, but I'm imagining this is more like a way of stating grievances or something."
+
+Torix tilted his head, "It would likely, at the very least, act as an excellent forum for asking questions. You could learn a lot if we spent some time asking for the right answers, especially from Baldowah. I remember Yawm's runes. Perhaps we could use that forbidden knowl-"
+
+"No. I'm not doing that."
+
+Torix shrank in my vision, recoiling some. I looked away, "I mean, I'd really enjoy not doing that, if you know what I mean."
+
+"Of course...I won't speak of it again."
+
+A strained silence passed over us before I pointed at my status again, "So, uh, it looks like I won't get exiled out of the blue anymore."
+
+Torix jumped for an opportunity to end the awkwardness, "Oh, most certainly. That is, it's quite the boon. I don't know if it will be a legitimate court, but it's better than nothing."
+
+I nodded, pointing a the galactic council part, "And look at this shit. I'm a member of a galactic council. Me of all people?"
+
+"Hah, my disciple has joined an echelon I knew nothing about. Excellent. Superb. Tremendous and all that."
+
+Torix and I stared at our status screen before laughing at how ridiculous we sounded. I shook my head, "Man, I never imagined I'd be here. Ever."
+
+"Me either. I believed I'd be studying on my moon base until the day time stopped and the universe grew cold. Now, I am a part of a guild with tremendous potential. Considering our capabilities, we should be able to enact tremendous change."
+
+I narrowed my eyes, "Yeah, I could be an actual Harbinger of Cataclysm."
+
+"Gah, I remember mocking you for that name. Now, it seems more than fitting."
+
+I simpered, "Hah, it still feels off to me."
+
+Torix shrugged, "In actuality, it matters more what others think of that title. I can assure you now, it's difficult to imagine you as anything else."
+
+"Yeah, thanks for that. I don't think my view of myself has changed as much as I have. I still think of myself as similar to what I started, but in reality, I'm worlds apart. Either way, what about these new research options? What do you think about all that?"
+
+"Oh, I'm most certainly excited. I'll be exploring a few of the more malicious avenues of necromancy, but that isn't all. I'll be implementing more of the eldritch augments we've found."
+
+I raised a brow, "What other eldritch boosts do we have?"
+
+"The Omega Strains."
+
+"They're eldritch?"
+
+Torix leaned back, "Well, in a manner of speaking, yes. They seem to be a primordial, primitive evolutionary step towards eldritch. The strains are the eldritch equivalent to what viruses are to us. Not quite dead and not quite living, yet they still enact their will on life. That is what the Omega Strain acts as."
+
+"Yeah, Amara might be able to help us ally with other eldritch too. If Schema allows it."
+
+Torix scoffed, "Could that AI even stop us now?"
+
+I remembered the forced eclipse created by a Spatial Fortress's arrival,
+
+"I think he can. For now."
+
+Torix steepled his fingers, "We shall see. Now, I sense this new awe stat of yours. It definitely creates an aura about you that wasn't present before."
+
+"What's the difference?" I lifted my arms, giving them a close look, "I don't see it."
+
+"It's less that you're different and more so that your abilities are more readily apparent. Before, you seemed like an average person granted an extraordinary opportunity. In that way, you abused your circumstances to the fullest, but you always came across as mostly normal."
+
+I scoffed, "Sheesh, people could've fooled me into thinking the opposite. Half the time, I feel like a demon."
+
+Torix waved a hand, "No matter what you appear to be, your actions will still speak volumes. Those that saw you in action will most certainly have their opinions swayed. Now, even those that haven't seen your capacity will be put at a disadvantage. At the very least, they'll experience even greater discomfort than normal."
+
+I frowned, "Huh, I don't know if I like that."
+
+"It's the reality we now face, however. Regardless, those combat bonuses appear to have vastly exceeded what they mention. What is your mana generation now? Ten times higher than before or something silly like that?"
+
+I waved my hand, "I lost track of all my multipliers long ago. I'm just glad that Schema does all the math for me instead."
+
+Torix stood from his chair of dominion mana, "That leaves the last of this discussion - the entropy mana. Is that, perhaps, all manas fused together?"
+
+I opened a dictionary using my status, "It shouldn't be. Entropy is about decay and chaos. Most of the manas are more about order and control."
+
+Torix walked back and forth, "Then perhaps it's some kind of...er...I don't know. That might be a question worth asking the Overseer or Schema."
+
+I winced, "Or maybe even Baldowah. I could ask them about a lot of this stuff."
+
+"We'll come up with a list of questions for it." Torix reread the sections before letting out a quick sigh, "Well then, I'd say that about covers it. Ten times mana. Far stronger, heavier, faster, and you have this weight about your presence. It's outright oppressive, I might add."
+
+I nodded, "And I have a lot more options moving forward. I won't be reliant on the Empire for that anymore."
+
+"That about covers that. We need to prepare for our siege of Blegara."
+
+I bopped myself up by stomping one foot. I transferred that force with telekinesis, pushing myself upward. Turning towards him, I rolled my shoulders, "Sounds about right."
+
+As I stepped out of the lair, a bit of stone over Torix's room cracked. A few crumbles fell out, and before I left, Torix pointed at it, "My stone generation is still quite iffy. Would you mind assisting me in recreating this?"
+
+I nodded, waving a hand over the stone's wound. It reconstructed, the color identical to the surrounding rock. Torix whipped out some primordial mana, making several vines and mosses nearby grow into the empty space. It got me curious, so I stepped up,
+
+"How did you learn about primordial mana anyway?"
+
+"Oh, this? After unlocking my archmage class, I got the inkling suspicion that my approach had been all wrong up to that point. You see, I'd attempted copying other people's primordial mana, and each one of them would tell me something different."
+
+Torix raised one hand, speaking in a gruff voice, "You must wish for the growth of others, but in your way." His voice grew lighter, "You must treat the object as if it were a tool with a mind. Respect and control, in equilibrium."
+
+Torix threw his hands up in frustration, "Regardless of how I managed my thoughts, primordial mana never arrived for me. It was only when I tried making the mana using my own, original thoughts that I conceived the power."
+
+"Huh...so what were your thoughts?"
+
+Torix cackled, "Hah, well, I simply imagined erasing the mind of my creatures and recreating them in my image. A better image." Torix snapped his fingers, creating primordial mana,
+
+"Eureka, my conundrum was solved."
+
+"I'll give that a shot. Mimicking hasn't really worked so far for me either."
+
+"Good luck with your efforts then, disciple."
+
+I stepped out of the room, thinking it was weird the stone cracked over Torix. Either way, it led to a helpful conversation with the lich, so I counted it as a lucky coincidence. Either way, I had plenty to do before we invaded Blegara. We needed rings for every Omega Strain user, more golems, and armor for the gialgathens. As I created multiple consciousnesses, I smiled with confidence.
+
+It was time to see how much of a difference a class made in practice.

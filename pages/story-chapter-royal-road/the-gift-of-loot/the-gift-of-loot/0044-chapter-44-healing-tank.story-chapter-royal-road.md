@@ -1,0 +1,275 @@
+---
+id: decc5c4d-6f9a-5615-b174-1771ca0df43f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44: Healing Tank"
+slug: 0044-chapter-44-healing-tank
+partOf: the-gift-of-loot
+position: 44
+ownLength: 3665
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3562412/chapter-44-healing-tank"
+royalRoadId: "3562412"
+---
+
+How in Zeus's butthole was he going to kill this thing?
+
+Actually, Thomas knew how he could kill the boss. If he could somehow get close without being snapped in half by those very sharp jaws or getting ripped to shreds by its claws, he could simply slap the snapping turtle's shell, activate his Living Architecture skill, and explode its heart. Simple and done.
+
+And he would receive backlash to his very soul.
+
+Even though killing the boss would possibly save all their lives and most certainly prevent injuries (namely to himself), Thomas knew that killing it using a Healing mana skill was wrong.
+
+He could still do it. Nothing would stop him, and he could heal the burn on his soul pretty much like he had last time. Or maybe spend some time at the local hospital healing people for free. That was nice and wholesome.
+
+But Thomas knew bone deep—no, even deeper, soul deep—that using Living Architecture that way again would be taking a step down a dark path. Yes, he could injure his soul, do some acts of contrition later, and call it good. But there would always be more bosses between him and the exit, more Grimms out there in the world that needed to be put down. Thomas could always find a justification for an instant kill. That was the easy part.
+
+Luckily, Thomas had always been a quick thinker, and half of those thoughts weren't fully realized. Just fragments of conclusions that made up the whole of his decision.
+
+I am not going to use healing mana to kill.
+
+...What would he use then?
+
+The turtle was still turning ponderously toward the edge of the lily pad, after his friends. So Thomas took out the mace and threw it as hard as he could.
+
+Heh. Some classics never got old.
+
+The mace bonked against the turtle's rough neck skin, without leaving much of a mark. Though it probably stung a little, because the turtle whipped its wedge-shaped head back toward him and gave another rattling hiss.
+
+He had its attention. Now what was he going to do with it?
+
+That was when Thomas spied the Blood Thirst Sword. It must have been knocked from Jo's grip when she was struck.
+
+It was unfortunately close to the turtle, well within its striking range, so Thomas sprinted forward as fast as he could. His Combat Foresight warned him that the turtle was going to try to snap down on his head a few moments before it moved. Thomas went into a full baseball slide like he was trying to steal second base. It brought him just under the snapping jaws, and his fingers wrapped around the hilt of the fencer's sword.
+
+If it had any poison mana in it, he honestly couldn't tell. But it was sharp, and using it meant he didn't have to get as close to the turtle as he would with his bear claw.
+
+In an instant, the turtle retracted its neck almost all the way to its shell. That gave Thomas the second he needed to jump back to his feet. Then Thomas's Combat Foresight warned him of its next move: the claws from the left forepaw were just an instant away from slashing all the way through him.
+
+In that instant, a plan formed. A really dumb plan, probably. But he was only going to get one good shot at this thing. A full step back would have brought him out of range of the claws.
+
+So he took something like a three-quarters step back.
+
+The claws hit him like a truck. But as he'd stepped back, most of the claws scored through his vest and left not even a scratch. Unfortunately, the top claw was longer than the rest and higher. And it slashed right through his throat.
+
+Thomas didn't have to fake going down. He went down hard, life's blood gushing everywhere.
+
+Shit, he would have said if he were able to speak or breathe. It had ripped into his jugular.
+
+He slapped a hand over his own throat and activated his healing and Living Architecture to full power. Even then, darkness was starting to gather at the edges of his vision.
+
+He barely had enough sense to remember the plan, which was a good thing because the turtle was doing exactly as he suspected it would. Its MO seemed to be striking a victim down, then going in for the chomp. That's why it had gone after Jo when she had hit the water.
+
+Now it was sizing him up for the killing blow.
+
+The vital artery and skin was closing with an intense itching, vibrating sensation. Thomas was able to draw in a full breath and see the darkness retract a little when his Combat Foresight helpfully informed him that the snapping turtle's beak was coming for his midsection.
+
+Thomas rolled toward the turtle, and the beak snapped just where he'd been. He was momentarily under the massive turtle's throat. So, still holding the sword, Thomas returned the favor and slashed upward.
+
+The Blood Thirst Sword parted wrinkly skin like it was made of an old paper bag. And just for good measure, Thomas half sat up, plunged his curved dagger in, and activated the bear claw, just to rip whatever else he could open.
+
+Honestly, the sword had probably been enough. One of the clawed feet slammed a couple of inches from him as it tried to knock him away, but Thomas had already delivered the fatal blow. Cold reptilian blood gushed over him.
+
+Then the turtle collapsed on top of him.
+
+He wasn't in danger of suffocating, but this was so, so uncomfortable. He pushed up against the turtle's wrinkly neck skin and tried to give himself a little space.
+
+"Thomas!" He heard Zach yell.
+
+Then Jo's voice echoed him. Hers was rougher, like she had swallowed a lot of swamp water. "Thomas!"
+
+Something in him unclenched. They were fine. They were both fine.
+
+"I'm here!" he tried to say, but his throat was not all the way healed.
+
+Frustrated, he tried to push upward and then felt hands grabbing a leg that must have been sticking out from underneath the long neck, and pull.
+
+That helped, and within a few moments he was free... and absolutely drenched in his and the turtle's blood. Why was dungeon diving so gross sometimes?
+
+He pushed Zach and Jo away and attended to his own injury for a few seconds, coughing and then spitting more blood out. "I'm fine." The wound fully closed and the dangerous edge of darkness to his vision faded. "I'm fine," he repeated.
+
+But Jo certainly visibly wasn't. She and Zach looked like drowned rats, and Jo's shoulder was cocked downward at an unnatural angle. Even from there he could hear her breathing coming out ragged and bubbly.
+
+"Sit," he told her. Then spat blood again. "Shoulder?"
+
+"I think it's... dislocated," she winced but then said, "It doesn't hurt. Just feels off."
+
+"She was fighting a fish with one arm, barehanded," Zach said, with admiration. "It was pretty gnarly, but we got out. Hey, and it turns out I can boil water." That explained the burn welts on Zach's hands. Apparently while he could handle flame, he wasn't immune to water being boiled around him. Plus, he still had his half-healed injuries.
+
+They were all a mess.
+
+Jo, though, looked stricken. "I lost your katana in the swamp. I'm sorry."
+
+Thomas shook his head. He did not give a single shit about the katana right now. Instead, he grabbed for his backpack, which had stayed on, though it could definitely use a wash from all the blood.
+
+"What happened?" Jo asked. "How did you kill the snapper?"
+
+"Tanked a hit," he said, and flashed what he suspected was a very bloody grin. "It got me close enough to stab upward." Then he pulled out a couple of healing potions and looked to Jo. "I don't think a healing potion or crystal is going to reset your shoulder, and I don't want it healing that way."
+
+"We could leave it. It doesn't hurt, I just can't really move my arm."
+
+He shook his head. "And walk all the way back through the forest like that? Oh, wait." He dug through his backpack again and pulled out the mundane first aid kit. There was a little info packet inside on how to field-treat basic injuries. Dislocation was one of them. Thomas scanned through the instructions. It seemed simple enough.
+
+"Okay. Zach, you're going to have to help me with this best you can. Jo... sorry if this hurts."
+
+The next couple of minutes were not great for anybody involved, but Jo's shoulder did pop into place, and Thomas immediately told her to drink down the healing potion. Not only would it heal the joint and retighten the ligaments, it would hopefully purge her of whatever she'd breathed in along with the swamp water.
+
+Then he turned his attention to Zach, whose chest wounds had unfortunately reopened in the struggle with the fish. They weren't bad, but they were bleeding sluggishly. His face, which Thomas hadn't had time to really address, was pretty bad, though. His hands, too, were starting to blister.
+
+Zach was looking down at himself in bemusement. If he was in pain, he didn't show it. "Man, I'm going to have wicked scars. Jo, chicks dig scars, don't they?"
+
+"Only the wrong kind do. Find yourself a nice girl without any scar fetishes," Jo suggested.
+
+He couldn't believe the word "fetishes" had just come out of her mouth. She was so Midwest mom.
+
+"You're not going to have any scars," Thomas said. He was already feeling drained as he'd expended a lot of mana, but there was no way he was going to stop until his teammates were as healed as he could make them. "Just stay still and let me work."
+
+And once again he used his Living Architecture skill.
+
+He found it a little more difficult this time. Not impossible, but... harder than he'd expected. He had half-healed the wound already, so it was like Zach's body didn't think it was fresh anymore and wanted to "heal" it by forming scar tissue and just be done with the wound. But Thomas was too stubborn to let that slide. He used his Wellspring mana especially to blast through any resistance, and by the time he was done, Zach wouldn't have to fend off ladies with a thing for scars.
+
+Thomas still pushed a disgusting-tasting healing mana potion on him. "Drink," he said heavily. "That should help the burns. Plus, you had open wounds and there's protozoa and other... stuff in swamp water." Fuck, he was so tired he could barely think.
+
+Zach raised it in a silent toast of thanks, sat, then downed the potion without complaint. His hands started to clear up almost at once.
+
+And Thomas finally allowed himself to sit down. Or more specifically, he sort of sat down without realizing he was just about to do it.
+
+Ugh. He was covered in blood, and it was starting to dry.
+
+Looking inward, he saw that there was actually a good amount of mana still left in his system. A lot of it had built up his core too. He hadn't burned it all away. Level 3 mana was potent stuff. He was just probably dealing with some blood loss, considering his throat had been ripped open. The mana in his body was probably taking care of that, but why not give it a boost?
+
+Feeling like his arm weighed 100 pounds, he dug around in his backpack and grabbed another level 3 healing crystal. It almost immediately jellified and washed through his body. The infusion instantly helped. Thomas inhaled, feeling strength and relief flow through him.
+
+Yep. That was the good stuff.
+
+"Holy crackers," Jo exclaimed. She had been looking over the body of the boss and pulled out a handful of large crystals along with a fabric bag. "Finally, a good drop. I..." She stopped, frowned, and Thomas saw the moment it clicked for her.
+
+Oh, damn it, Thomas thought, one part anxious, one part relieved. The cat was out of the bag. He wasn't going to insult her intelligence by pretending anymore.
+
+Jo turned narrowed eyes on him. "You killed the boss."
+
+"Yeah," he said, simply.
+
+"And you didn't kill any of those fish. I did all that."
+
+"Hey, I helped," Zach said.
+
+She ignored him, still staring at Thomas. "Zach killed a lot of the mosquitoes, sure. He burned their wings, but then we all piled in." Her eyes narrowed further. "And about a third of the mosquitoes had good or double crystal drops." Now visibly growing angrier, she gestured with the pile of mana crystals she had clutched in both hands. "Just look at this. What is going on, Thomas?"
+
+Thomas let out a sigh. "You're right. It's my Gift."
+
+"Senses? How do senses make for better loot drops?"
+
+She had a tone in her voice that if he didn't already know she was a mother, he would have figured out just from that. And despite being a grown-ass man, he did feel somewhat shamefaced.
+
+"My Gift isn't senses—"
+
+"It's my fault," Zach jumped in, to Thomas's surprise.
+
+"What? No, it's not," Thomas said.
+
+"No, dude, I've been the one warning you not to tell anybody." He turned to her. "I'm sorry, you're great and all, Jo, but his Gift is a big deal. He probably shouldn't have even told me about it. Not that I'd... do anything," he trailed off awkwardly, to her continuing glare.
+
+Once he stuttered to a halt, she turned to Thomas with a brittle, "Explain, please."
+
+"What I'm doing with my senses is just an aspect of my healing mana," he said. "It makes for a good cover story. And it was my decision not to tell you. My Gift is loot." He gestured to the crystals. "Monsters are five times more likely to drop something from their loot table. And then the rate for rare drops, including rare crystals, goes from a half percent to five percent."
+
+She was silent for a moment, until a thought occurred to her and she grew more annoyed. "So you let me kill all those fish knowing we'd get only basic drops?"
+
+"In my defense," he started, "you said you wanted the training." He tried a half-smile.
+
+"I'm doing this to get paid, you dope! You know what I gave up not selling that skill shard, which..." She stopped, an odd look coming over her face. "Hold on here. That skill shard came from Grimm. Do people usually drop skills like that?"
+
+"From what I understand, they don't normally drop like that, no," Thomas said. He caught her gaze and held it. "So you understand that's another big reason why I try to keep my Gift to myself."
+
+"If the wrong people find out," Zach jumped in, speaking quickly like he expected someone to tell him to knock it off. "It would be really, really bad. Just, so bad. Like—" He expanded his hands outward in a kind of exploding motion. "I know the type of people who would want control of what he can do. They wouldn't even kill him and risk not getting his Gift as a skill drop. They would just make him kill others, and that would be way worse."
+
+Thomas made a face.
+
+"I won't tell," Jo said, then quickly added, "although I am seriously peeved that you let me kill all those fish. I thought I was doing something wrong."
+
+"If it helps, I really wanted to kill the fish too," Thomas said. "We left potential crystals behind, and that really bothers me."
+
+"I should be unholy-angry at you right now." Then Jo let out a long sigh. "But the sword I used came from your drops. I kind of owe a lot to you."
+
+"Your hands are the ones still using the sword."
+
+"And my hands are steady whenever I grip a sword because of you," she said. "Both my skills came from you, too."
+
+That was true.
+
+"But you don't owe me anything," Thomas insisted, hoping she would see he absolutely meant it. "And that would still be the case even if you said you didn't want to dungeon dive again. I wanted you to come with me. This was a really tough dungeon even with a guide to walk us through. I don't think we would have made it this far without you."
+
+Zach nodded in agreement. "Yeah, crystals come and go, but the memories are forever."
+
+Jo twitched a smile, and Thomas sensed she was slowly being won over. "It has been fun, though next time I'll skip the almost drowning bit. All right," she added, "I wouldn't have told anyone anyway, and I guess I can see why you didn't tell me about it right away. I'm just glad this wasn't some weird setup."
+
+"Setup?" Thomas asked.
+
+"You know." She tilted her head back and forth. "Two guys, one dungeon."
+
+Thomas opened his mouth, about to object, then saw things from her perspective. Yeah, they'd run through the Grizzly Bear dungeon together, but they barely knew each other. Then he'd asked her to join them on a dangerous dungeon with another stranger out in the woods. He was surprised she'd said yes.
+
+Zach took one look at Thomas's face and started cackling. "Dude, you creeped her out."
+
+“You were the other half of the creep factor,” Thomas told him.
+
+"Anyway," Jo said pointedly, changing the subject. "Let's take a look at the neat things we have here, courtesy of Thomas's unfair Gift."
+
+She took a seat with them and laid out the crystals she'd scavenged from the turtle. The dungeon had rewarded them well. It was a very good haul.
+
+They got another A-grade Air, two smaller B-grade Earths, an A-grade Poison, and two A-grade Healing crystals. Plus, an item drop that seemed to be a fancy bag.
+
+Zach whistled. "No way that's natural, even with your Gift. There's definitely something leaning on the drop table here."
+
+"Well, hopefully they did it for the exit reward too," Thomas said, then glanced at Jo to set expectations in case she got excited for more loot. "My Gift doesn't affect the exit rewards, so they're pretty normal."
+
+"For most people," she said, and sniffed, "that is the best reward of the dungeon."
+
+"I wouldn't know," he replied dryly.
+
+She rolled her eyes, but there was definitely fondness there. It seemed he had conditionally earned her forgiveness. "Okay, Mr. Loot, what's with the bag?" She tossed it to him.
+
+It seemed to be a plate-sized fabric bag: deep blue with a sparkling star design on it and a golden drawstring currently pulled tight to snug up the top. It was also completely flat with no weight to it whatsoever. All indications showed it was empty, but something about it made it feel like there was something more to it.
+
+Thomas showed it to Zach, who shook his head and shrugged. He didn't know what it was either.
+
+He was about to just open it and see what happened when he saw a little tag on the drawstring itself. It had been positioned low against the scattering star design, so he hadn't immediately seen it.
+
+"Bag of Wishes," he read. "Three of three remaining."
+
+"Wish for more wishes," Zach said immediately.
+
+Jo looked hesitant. "Um, do you think it could be one of those monkey's paw wishes? Or an evil genie situation?"
+
+"Well, I didn't think so before," he said. "So thanks for that."
+
+Jo sent him a grin.
+
+"Oh hell, if this goes wrong I can just heal myself," Thomas muttered, then opened up the top. Nothing flew out at his face, so he carefully stuck his hand in.
+
+Something from outside seized his mind. A silent demand that rang through him like a bell tolling. If it had been made of words they would be stark and to the point: What mana do you want?
+
+But even that word "want" was overlaid with wish and crave and desire.
+
+The voice was so strong that he flashed to an answer immediately: Adaptation.
+
+After all, it was what he needed for his final mix to reach level 3.
+
+And just like that, the bag was no longer empty, but filled with three crystals so large that he had to pull them out one by one. He now had three perfect grade A, level 3 Adaptation crystals.
+
+"Whoa," Zach said.
+
+"Are those Adaptation?" Jo asked.
+
+Thomas blinked and felt like he was coming out of a daze. "Yeah, it asked me, and it was kind of like when someone tells you not to think of a pink elephant, then you do." He looked at the tag, and it said 0/3 remaining. "I wish I had known what this was ahead of time so I could have thought of something completely off-the-wall and amazing."
+
+"Next time you see one of these bags, you will," Zach said, then cheered. "But Adaptation mana, dude. Hell yeah!"
+
+He decided to take a cue from Zach and be happy for what he had.
+
+"Level three, here we come. Actually—" Thomas looked around. The fish weren't trying to jump and get at them. The boss was dead and wasn't coming back, and it would probably be a couple of hours before it really started stinking. They didn't seem to be in an area where the tiny mosquitoes were hitting him either, which was good because he was pretty sure both Zach and Jo had lost their personal shields.
+
+They were as safe as they could possibly be right now for being in the dungeon.
+
+"Let's split up the loot," Thomas suggested. And if there was enough healing mana for him, he fully intended to break into level 3.

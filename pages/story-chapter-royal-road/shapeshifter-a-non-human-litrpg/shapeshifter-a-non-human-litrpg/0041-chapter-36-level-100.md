@@ -1,0 +1,216 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36: Level 100"
+slug: 0041-chapter-36-level-100
+partOf: shapeshifter-a-non-human-litrpg
+position: 41
+ownLength: 2155
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3870898/chapter-36-level-100"
+royalRoadId: "3870898"
+---
+
+Iris held very still beneath his blade.
+
+Xen could feel her pulse hammering against his fingers clasped around the back of her neck. She had willingly withdrawn her hands from the porous rock but was tense and clearly on edge.
+
+"Don't do anything hasty," Xen said calmly, pressing the blade a little deeper.
+
+Hina drifted into his peripheral vision, twirling one of her daggers with lazy menace. The blood of the dead Stormcaller still streaked her forearm.
+
+"Want me to make her cooperative?" she offered, far too eagerly.
+
+"Don't worry, she'll cooperate," Xen said. "After she hears what I have to say."
+
+Iris's pale eyes flicked between them, calculating. He could see the precise moment she accepted that there was no future where she walked away.
+
+"What do you want, Ghostwire?" she asked. Even now, her voice carried the clipped authority of someone used to being obeyed.
+
+"I know you have been cooperating with an infiltrator," Xen said, earning confused glances from Hina and the others.
+
+But something flickered across Iris's face. It wasn't confusion. It was fear.
+
+"I don't know what you—"
+
+"You know exactly who I'm talking about," Xen pressed, leaning down until his mask filled her vision. "He's tall and featureless. Speaks with a voice woven out of mana because he doesn't have a real one. You Ether Technocrats have been meeting with him. I just want to know what for, and I want to know who else among you has been infiltrated."
+
+"You don't understand what you're asking about," Iris snapped. "If I tell you anything, it won't matter that you killed me. There are worse things than your blade."
+
+Unfortunately for Iris, Xen had absorbed Marcus's memories, which included a conversation that hadn't seemed useful until now.
+
+"Iris, I'm going to kill you no matter what," Xen said flatly. "But your words decide what happens next. I will get out of here—that I can assure you—and when I do, I'll pay Andre a visit."
+
+Xen had no idea who Andre was, just that it was someone deeply important to Iris.
+
+Iris fell deathly silent and glared at him.
+
+"Answer my questions, and nothing will happen to Andre," Xen said firmly. "Do we have a deal?"
+
+Iris slowly nodded.
+
+"Good. You can start by telling me what the infiltrator promised your Guildmaster."
+
+"Gates," she hesitated. "The person you call an infiltrator promised us private gates." Her lip curled. "Do you have any idea what that's worth? Every gate on the surface is monitored, heavily taxed by the government, and fought over by the guilds. The infiltrator offered us the ability to open our own. Anywhere. The Ether Technocrats would be the only guild in Japan with unrestricted access to the dungeon."
+
+Xen kept his expression hidden, but his mind raced.
+
+Spontaneous gate creation. The infiltrator wasn't lying about that. He's already trading the capability to the humans who'll help him most. And the Ether Technocrats are happy to sell out their own species for a monopoly.
+
+"And in exchange?" Xen asked.
+
+"In exchange, we look the other way," Iris said bitterly. "We slow the Guild Association's dungeon surveys. We bury reports of disappearing Hunters. We designate 'research zones' to protect the areas the infiltrator doesn't want scrutinized."
+
+"Who else is compromised?" Xen asked. "Which guilds or important figures?"
+
+Her eyes met his mask, and there was a flash of something he almost respected. Spite. The desire to take someone down with her.
+
+"The Stormbringers have at least two people working with the infiltrator," she said. "High up. I don't know their names, only that the Guildmaster deals with them directly. And there's someone inside the Guild Association itself who ensures missions to the dangerous floors get assigned to expendable parties." Her gaze sharpened. "You'd know all about expendable parties, wouldn't you, Ghostwire? As a Savior turned murderer, they were the ones you used to save for insurance money. Much to the Guild Association's displeasure."
+
+Xen ignored her jab at his career change. "I have one last question. Answer it, and nothing happens to Andre."
+
+Iris clenched her jaw. "What is it?"
+
+"I'm aware that your party met with an associate of the infiltrators before coming down here," he said evasively. The impossible-to-know information had been pulled straight from Marcus's memories. "Where was it?"
+
+She held his gaze. Then, finally, she gave him a location. It was a research facility on the surface, a name and a district that meant nothing to him but would hopefully mean something to Randy. He committed it to memory while sagely nodding along.
+
+"There," she said. "I've given you enough to start a war. I assume that's what you wanted." She lifted her chin, baring more of her throat to the blade. "Get it over with and leave Andre out of it."
+
+He felt nothing as he made the decision.
+
+"You cooperated," Xen acknowledged. "So I'll make it quick."
+
+He drew the blade across.
+
+Iris didn't gurgle or fight back. She simply folded backward, the light leaving her eyes as she settled beside Vera's with a thud. All three remaining Ether Technocrats were now dead.
+
+The hunt was complete, and it was time for his rewards.
+
+You have killed an opponent.
+
+Experience split between [Changeling Slime] and [Human] form.
+
+[Changeling Slime] has leveled up: 98 → 100.
+
+[Human] has leveled up: 62 → 65.
+
+[Changeling Slime] has reached Level 100 (S Grade). Evolution is available.
+
+Xen's breath caught behind the mask. He stared at the words hovering in his vision, and a slow, electric thrill ran through every strand of slime threaded through Ghostwire's body. For possibly the first time in his life, he was over the moon.
+
+I actually did it. Level one hundred, making me an S-grade existence. He clenched his hands in excitement, the butchered corpses at his feet forgotten.
+
+Another system message appeared, grabbing his attention.
+
+At level 100 (S-rank), your unique [Shapeshifter] class also qualifies for an upgrade.
+
+Do you wish to upgrade the [Shapeshifter] class now?
+
+Xen almost readily accepted but managed to hold himself back. With a short exhale to calm himself, he shook his head and dismissed the prompt. Whatever the class upgrade entailed, he should deal with the corpses first. All three of them had classes and skills he was interested in acquiring.
+
+But there was a problem. Xen was surrounded by party members he couldn't fully trust. Unlike Randy, Vesper, and Valoria, who knew he was a monster wearing human skin, these four still believed he was human and that he simply shared skills with others through his mask.
+
+Eating a human's brain was a step too far.
+
+I definitely can't devour via the tendrils that come out of my mouth, but if I keep Changeling Veil's illusion active, I should be able to feed from my hands without exposing my true nature.
+
+Xen crouched beside Iris's body and pressed his bare palm flat against her face, fingers splayed. He used Soul Leech and pointlessly burned mana to make the silver light drawn off the body come in through his mask.
+
+At the same time, he cast Devour through his hand. His palm, which was pressed against her eye, extruded a tendril that pierced deep into her skull.
+
+[Devour in progress…]
+
+"What's that silver light?" Hina asked, drifting closer. Her focus was drawn to Soul Leech, just as he had planned.
+
+"A skill of a friend," Xen said, not looking up. "It lets me strip a corpse of its mana. But I have to concentrate for it to work, so could you all step back?"
+
+"Right, sorry," Hina whispered and jumped back like a startled cat. The others gave him space, letting him get away with devouring in plain sight.
+
+Iris's life poured into him. A childhood among an elven family in high society. Until her family had fallen. An incident that played out in a blur left Iris separated from her twin brother, Andre. To get him back and restore her family, she traded a quiet life for ambition among the Technocrats. She carried out cruelty without flinching, rose through the ranks, and was ready to sacrifice her world if it meant getting Andre back. While Xen could respect her drive and devotion, the way she went about it left him feeling disgusted. None of it was honorable.
+
+[Devour Complete]
+
+You absorbed 50% of the target's memories.
+
+You have unlocked the Verdant Warden class.
+
+You acquired the following skills:
+
+[Verdant Anchor (B)]
+
+[Lend Weight (C)]
+
+[Verdant Anchor (B)]
+
+Thread your presence into the earth, fusing your lower body or hands with stone, soil, or crystal to become rooted in place. While anchored, your perception ripples outward through the connected terrain, letting you sense the position, movement, and mana signatures of anything in contact with the ground within a wide radius, even through solid rock. The cast range of support skills is extended to ground threaded with your presence.
+
+[Lend Weight (C)]
+
+Channel the weight of the surrounding terrain into a chosen ally connected to the same ground, dramatically increasing the force behind their next movement or strike. Greater amounts of borrowed weight cost proportionally more mana and require you to remain anchored throughout.
+
+Verdant Anchor will pair beautifully with Geomantic Perception, and Lend Weight will be useful against the Guardian.
+
+He shifted his attention to Vera next, repeating the performance, palm to forehead and hiding the real process behind a haze of silver light. Her memories were far less interesting, but just as despicable as Iris's.
+
+[Devour Complete]
+
+You absorbed 23% of the target's memories.
+
+You have unlocked the Stormcaller class.
+
+You acquired the following skills:
+
+[Stormcall (A)]
+
+[Chain Lightning (C)]
+
+You and the target shared similar skills:
+
+[Chain Lightning (C)] has fused with [Radiant Smite] to form [Radiant Lightning (B)]
+
+[Stormcall (A)]
+
+Gather charged mana into a growing storm around you that escalates in power the longer it is maintained. Once primed, the storm can be discharged as forks of lightning that strike chosen targets within its reach. The devastating output comes at the cost of casting speed. The storm must be grown before any bolt can be thrown, leaving the caster vulnerable in the seconds before it matures. Sustaining the storm drains mana continuously, and any disruption to the gathering mana risks the skill collapsing.
+
+[Radiant Lightning (B)]
+
+Release a bolt of lightning that arcs from its initial target to nearby foes, leaping between them in sequence and applying a brief paralysis on each strike. Each successive arc deals reduced damage and seeks the nearest unstruck target. The lightning favors conductive surfaces and chains further in wet or metal-rich environments but will not arc to allies. If cast from an active storm, the power is greatly amplified, and the targets will be stunned.
+
+Another A-grade skill and my trusty Radiant Smite skill finally got an upgrade, Xen thought, his attention shifting to Dorian. Alex had helpfully hauled the corpse over without being asked to.
+
+The Bladedancer's memories should have belonged to a monster, not a man. Dorian had butchered his own parents and gotten away by selling his service to the Ether Technocrats. He was on a death contract, meaning if he broke its rules, he would be executed in prison or hunted to the death should he try fleeing.
+
+[Devour Complete]
+
+You absorbed 11% of the target's memories.
+
+You have unlocked the Bladedancer class.
+
+You acquired the following skills:
+
+[Bladestorm (B)]
+
+Dorian had died so fast that Xen had never gotten a chance to see the Bladedancer in action. So he was rather curious about this skill.
+
+[Bladestorm (B)]
+
+Enter a heightened state of bladework, spinning your weapons into a continuous, weaving flurry that strikes all enemies within reach multiple times in rapid succession. While active, your movement speed and attack rate are sharply increased, and incoming melee attacks have a chance to be deflected by the whirling blades. The skill requires two free weapons and rapidly drains stamina. The longer it is sustained, the faster the cost mounts, and it ends the instant you are knocked off balance or stunned.
+
+These are all good skills, Xen thought. I'm glad I hunted them.
+
+Three classes successfully harvested in plain sight. Xen pushed the absorbed memories deep into the back of his mind and rose. Nobody dared to ask him a question, which gave him a moment to himself.
+
+At level 100 (S-rank), your unique [Shapeshifter] class also qualifies for an upgrade.
+
+Do you wish to upgrade the [Shapeshifter] class now?
+
+I do, he silently agreed.
+
+The system message vanished, and he felt a sudden sensation pierce his very being. He stumbled forward, barely catching himself before tripping over the uneaten remains of Iris.
+
+"You alright?" Alex asked with concern, but Xen just waved them off dismissively.
+
+"I'm fine, just give me a moment," he said, his attention glued to his system.
+
+He couldn't wait to see what his Shapeshifter class would become.

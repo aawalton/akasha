@@ -1,0 +1,123 @@
+---
+id: 577bdd16-5b0c-560b-a7f0-e0f41023f1fe
+page-type-slug: story-chapter-royal-road
+title: "316 Closure and Lessons"
+slug: 0275-316-closure-and-lessons
+partOf: the-new-world
+position: 275
+ownLength: 2504
+unit: words
+ownProgress: 2504
+publishedAt: 2021-09-18
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/753021/316-closure-and-lessons"
+royalRoadId: "753021"
+markedReadAt: "2026-06-29T21:30:38.182Z"
+---
+
+Landing amidst the peaceful chaos, I walked by buildings and cars. I hadn't looked through my past and old streets in a long time, and the differences staggered me. Vines, weeds, and trees grew out of every nook and cranny of my old hometown. The windows dirtied or decayed, turning into shining shambles. Even the sky overhead cleared up since all the cars left, and it contrasted my memories of this place like night and day.
+
+I changed as well. I stood over twice as tall as cars, my feet having expanded until they left tire-sized indentations in the ground. I tried squeezing my way into a store, but I couldn't. My entire body dwarfed the entrance. I stood beside street lamps, and they stared back at eye level, the lights busted. Even the signs that used to advertise sat at eye level, my shoulders knocking one down when I zoned out for a second.
+
+Pacing past the decay, one piece of it stood out to me. I walked up onto some old traffic lights, the wind and rain doing a number on the poor things. Somehow, someway, the artifact from my era still worked. Most of the lights buzzed out, years having passed since Schema's systemization. This particular set of stoplights buzzed along, its lights blipping in and out of existence at regular intervals.
+
+Most of the lights shined all the time, which burned them out within a year of Schema's arrival. This traffic stop owned some type of faulty wiring that kept it from burning through its battery. I walked up to the traffic light, holding it in my hand. I never looked at one of them from this angle, my head actually a ways above it. I channeled a teeny bit of electricity into the apparatus, and it gleamed to life.
+
+And so did the rest of the city.
+
+The electrical network began flaring other lights to life. A series of lamps revitalized before everything sparked out of existence, the wires frying as my mana burned old fuses out. I laughed before reaching my hand above the stoplight. I pinched apart the metal, the cold steel squealing in my hand. I tossed it into my dimensional storage as a memento of its endurance, something I enjoyed seeing.
+
+I flicked a wrist, and an old building's walls collapsed. No one still lived here after the Yawm invasion, so I wasn't afraid of killing anyone. I hovered the stone fragments into the air before pulping it to powder. With a quick bit of magic, the shifting sand created a tornado of dust that consumed the rest of the building, grinding it down to nothing.
+
+As it settled, I jumped. I dispersed the force across a vast telekinetic pad, reaching well over a block's width in size. Wherever the panel touched, the ground caved in. It fell down into the dirt, a portion of the city forming a pit. Above the town, I got a good overview of the old sights. The residential district overgrew, the nearby forest taking it over. The industrial sector, already aged before the fall of Springfield, spotted green with the remnants of grass and plains everywhere. As for the main town with all the shops, it carried scars from Yawm's arrival.
+
+I peered down at the melted slag left behind by one of Yawm's attacks. Torix saved our troops before they died in the atomic fire, but the ground lacked such luck. It molded into a radioactive mass, becoming a mushy blot of dirt and earth. I hovered over, feeling the warmth of radiation. Reaching out a hand, I closed my eyes.
+
+Sensing the energy and were it manifested from, I wielded Event Horizon over the expanse. I drained it despite no life being there, and it bent to my will. The radiation seeped out, becoming a typical rock once more. I went about clearing out the rest of Springfield over the next few minutes. Wherever Event Horizon touched, the entire area cleansed until nothing alive remained.
+
+It sterilized the air like salting the earth. Unlike the latter, I set up Springfield for a future instead of destroying any prospects the place carried moving forward. Quite a few eldritch struggled as I passed over, but they lacked the fortitude or levels to survive Event Horizon. A quick, skull-crushing gravity well handled the bulkier variants if they happened to live while I passed over.
+
+After clearing out the native fauna, I created a gravity well over a block of the city. I crushed the old homes into a giant ball, stripping the city's surface. I moved this mass over the city, tearing the top of it off. It reminded me of pulling up a carpet, just a city instead. I rolled it into a giant pile of dirt before lifting it up.
+
+A quick flash of mana later, and I stared at a big mound of molten slag. Wielding the molten mush, I created a slate over where the city once stood. Flashing more mana around, I traced in steel bars as supports, both sideways and deep into the dirt. A glassy, igneous stone formed over everything, tough as nails and reminding me of my armor.
+
+Well, not that tough, but you get what I mean.
+
+Flying off from the mammoth platform, I flew and compressed panels of it both up and down. This gave rise to staggered step ways, and I kept them in a hexagonal print, the landscape mirroring an old-timey gameboard. I plated the dirt with the same slag, running out of it after the last platform solidified.
+
+I finished Springfield off with a column at its center, similar to the one I made for our capital in Blegara. I crafted and molded a monolith covered in cipheric runes with some of Schema's watered-down variations interspersed between them. After channeling mana for a while, a massive aura surrounded the place. It lacked the near invincibility of a blue core, but it served us well enough.
+
+In place of a Schema defense, I set aside enough time to craft four super golems here. They remained the protectors of the new town, along with several chunks of quintessence as a power source for pioneers. Smiling at the settlement, I hovered off towards Mt. Verner, feeling good about the setup.
+
+Springfield changed into something else, but it would carry on the name and legacy my hometown left behind. We'd remember the sacrifices people made against Yawm, and we'd live on. Getting a bit of closure out of the simple remodeling, I hovered over towards Mt. Verner, a swarm of activity permeating the place.
+
+Golems leaped up and around, many constructors crafting buildings using a cold, pragmatic aesthetic. It clashed with the dark sheen of Springfield's remains, but that could work to my favor. I sent a message towards Torix, telling him to set up a stipend for anyone who moved where Springfield once was.
+
+The staggered sections would be split up by engineers and architects, and the golems and barrier protected anyone deciding to live there. Settling the affair, I prepped myself for Helios's next lesson. Meeting a few hours past midday, Helios stayed at Chrona's mountain home.
+
+The silver-shaded gialgathen carved out a section of the mountain's rock, keeping herself situated in a constant chill that permeated. It reminded her of Rivaria, her old home. Helios set himself up here, where the mountain's breathtaking view exposed itself to our side.
+
+Helios attracted plenty of attention on his own, however. Several void ice constructs lingered about, the albony waiting with boredom for everyone to arrive. I floated down, finding two dozens disciples of Torix, the lich himself, and Chrona waiting for Helios's lesson. I paced over, sitting beside Torix on an antigravity panel. I leaned over towards him and said,
+
+"Hey, what do you think about the Plazia deal?"
+
+Torix scoffed, "It's insane, so there's nothing unusual about it. In fact, I'd be far more worried if you'd done something more normal." Torix turned to me, his eyes flaring bright, "It's interesting, as I've seen your development over the years. You've been plagued with doubts and fear lately. It would seem that era has come to pass, and a new one has replaced it."
+
+I raised a brow, "Really? It's that noticeable?"
+
+Torix gave me a slight nod, "Indeed it is. I, for one, am happy to see it. I've also made contact with this Plazia-Ruhl several times now, and I must say, he's a cunning fellow. He's been spying on us for a while now, and I never noticed. While appalled, that evasion also spiked my curiosity."
+
+Torix peered off, "He gave me a few pointers on surveillance, so I'll be using a few of my summons to assist him with dismantling the Elysium camp...He'll be a powerful ally should he prove trustworthy. Considering I trust your judgment, we shall most likely be fine."
+
+Torix steepled his hands, "And of course, I'm taking the necessary precautions to ensure our and the guild's safety. You can rest easy knowing that."
+
+I smiled down, "Thanks. I know I can relax if you're keeping people there safe." I peered up, "Hm. Probably at least."
+
+Torix's eyes flickered, "What? I'm not that evil-" Torix leaned forward, "He's beginning."
+
+Helios began tracing outlines onto the void ice panel. White streaks flashed out from the violet ice, a pleasant contrast in both texture and color. Torix scribbled notes down using a magical pen construct. Torix gestured to Helios, and the lich whispered,
+
+"Technically speaking, Mt. Verner is my university, and its lecturers must be approved by me as the dean. Considering it took Helios several eons to finish his lectures, I've come to assess whether the quality therein is approvable."
+
+I gawked at the detailed notes Helios sketched down onto his void ice board. I mouthed, "I'll be honest, it looks like you both have the same style of teaching."
+
+Torix leaned over a series of semitranslucent sheets dispersed beneath him. The hovering, magical sheets carried dozens of different headings, each judging the minutia of Helios's lesson. Categories from vocal pitch to overall posture lined the paper, and Helios had already received half a dozen marks.
+
+Torix simmered, "Good enough for my university? We shall see, disciple. We shall see."
+
+I held down a laugh before helios began his lecture. The albony royal dragged his hand down his face, "I am here now, as are all of you. Before we begin, know that most of you will be incapable of true warping magic. You're unrefined, uneducated, and but most of all, untalented. I'm blind, but even I can see that. So, you can try, but finding a different path is perhaps better than wasting your time on this one."
+
+Helios gestured to the lower half of Mt. Verner, "It's far better to move towards greener pastures if you're not feeling particularly keen on the subject. Feeling disheartened? Good. You already know you're not cut out for this, then. Leave if you feel inclined to do so. And please, at least be decisive at judging your mediocrity. Being suboptimal at even admitting your average ability will only serve to cause each of you pain in the very near future."
+
+No one stood and walked off. Several students of Torix narrowed their eyes, each of them set on proving the albony wrong. Helios spread out his hands, "Ah, am I sensing some defiance? Hostility? Maybe even hatred? Perfect. Wield it as your weapon during these lessons. Lean onto it and use it for fuel, or you'll be cast into a dark void where no light or air has ever touched. Or perhaps you'll end up half molded with dirt, your brain replaced by gravel."
+
+Helios tilted his head down at us, "But that would be an upgrade for many of you."
+
+I crossed my arms, "When are we learning about warping?"
+
+Helios cracked his neck, "They need to know this, but yes, let's begin."
+
+Torix leaned over towards me, and the lich mouthed, "That was an excellent introduction. Perhaps I was wrong about him, hmm."
+
+My brow furrowed. They both had a different definition of excellent from me. Continuing on, Helios elaborated on dozens of various descriptions, meta terms, and warping variables we'd use in the class. He taught with utter concision, offering no further explanations, stories, or visualizations. It was like listening to the audio form of a textbook.
+
+Several students fumbled to scramble down notes in time. I had two minds dedicated to the task of the lecture. One memorized while the other digested the information. Those psyches would talk to me about it later after finishing the day off. As those minds pondered the intricacies of warping, I contemplated my skill sheet.
+
+I wanted my Sovereign skill, and so far, the best way of getting it involved taking Matter Conversion, A Manifold Mind, and an unmade mythical skill as my next legendary skill. After seeing my golems in action, putting them into my sovereign skill only made sense. They accomplished so much without me there, automating many of the difficulties involved with leadership.
+
+I thrummed my hands on my knee, my minds racing about and brainstorming. After a few minutes, an idea popped into my head. I'd take my unique skill, Artisan of Destruction, and crank it up until it defied convention. In a way, it already did. My cipheric knowledge, ridiculous materials, and endless mana let me construct the golems to their current quality.
+
+But this wasn't their total limit. While fighting beside the golems, I commanded them as a part of my own body and will. We synced into a single entity, similar to a hivemind. Mastering that may put me in a great position. In fact, I knew a hivemind that I could contact and get some ideas from. He'd be here soon to raid the Elysium camp.
+
+Thrumming with ideas, I stood the moment Helios's lecture ended. Torix did the same, walking up to Helios. The lich raised a hand, "Now, I must say Helios, that may have been the finest lecture I've yet heard given by anyone outside of myself. Just truly, you're prodigal at relaying information."
+
+I frowned. They were like two peas in a pod, but I had business to take care of. I walked up, butting into the conversation, "Hey, Helios."
+
+The albony royal peered up at me, "I taught quickly, as I wished not to waste either of our times. Did it go over your head, perhaps?"
+
+I waved my hands, "I put two minds on it, and they're handling it. Now, I need to meet with you-know-who and hash some details out."
+
+Helios's pale eyes widened, "You want to meet him, hm? It never gave us a method of contacting the creature."
+
+Torix raised a hand to interject, but I shook my head, pulling out the spacial ring Plazia gave me. I twirled the silvery mass over a finger,
+
+"Oh, he left us plenty."

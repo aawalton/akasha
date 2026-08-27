@@ -1,0 +1,285 @@
+---
+id: 4c840ec5-fb69-5c6f-9a20-25a35406248c
+page-type-slug: story-chapter-royal-road
+title: "170. Lily the Fairy"
+slug: 0026-170-lily-the-fairy
+partOf: salvos
+position: 26
+ownLength: 2189
+unit: words
+publishedAt: 2021-08-20
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/736829/170-lily-the-fairy"
+royalRoadId: "736829"
+---
+
+170. Lily the Fairy
+
+I stood at the center of a cave complex, with various tunnels leading away from this chamber, although most of them were collapsed and were blocked by rubble. Before me was a Fairy Mound. It was the little Lair Lily lived in. The only way in was through the cracks on the mounds, each so small only a Fairy or a rat could fit through it.
+
+“Those [Locust Vurats] won’t bother us here.”
+
+Lily almost seemed to sigh as she turned to face me. Then she crossed her arms.
+
+“So, you’ve come here to ask for my help.”
+
+“Yep!”
+
+I sat crossed-legged as Lily flitted down to meet my gaze.
+
+“I knew that Belzu was no longer in the Brilsum Ruins since he came down and started attacking Human cities. Since it was safe, I decided I could safely seek you out.”
+
+She nodded sagely. Then an annoyed look crossed her face.
+
+“Let me guess, you’re going to ask me to help you defeat Belzu, aren’t you?”
+
+“Nope!”
+
+“Well, I’ll tell you it’s not going to happen. He’s extremely powerful and— wait, what did you just say?”
+
+Lily stared at me as I shook my head.
+
+“I said nope. I’m not going to ask for your help to deal with Belzu. In fact, I don’t even care about Belzu.”
+
+“But you said he’s destroying cities and rampaging across the Human lands, is he not?”
+
+“Yep. Poor Humans. I wonder how they’re going to deal with him?”
+
+I tilted my head back, in thought. Lily inspected me, and I shrugged.
+
+“But it doesn’t matter to me. I’m not a Human. I don’t care if a thousand Humans die, or a million. As long as my companions are safe.”
+
+“Are they safe?”
+
+Lily narrowed her eyes.
+
+“Last time you came here, you were with a Human man. Where is he?”
+
+“He’s doing his own thing. And so is Edithe. She’s my other companion— you don’t know here. Anyway, I already said my goodbyes to them, and I know they can take care of themselves.”
+
+“What about others? Do you not have friends who you’re worried for?”
+
+“I have a few. I was worried about them for a bit. But they are in Viechester, and Belzu didn’t stay in the Sunmere Republic for long. I waited for a few weeks just in case he decided to attack my friends, but so far, it doesn’t seem like they’ll be in danger anytime soon.”
+
+“Where did he go?”
+
+“He went straight to Nixa, besieging a few more towns and cities on the way. I think he doesn’t want to deal with the Rising Veterans Company yet, since, you know, they’re an Honorable Company and all.”
+
+She placed a small hand on her chin. I cocked my head as she spoke.
+
+“And you’re just fine with this? You don’t care that he’s killing all these Humans? That he could grow strong enough to conquer the Human lands?”
+
+“Not really. Not unless he threatens my friends or my companions.”
+
+“You… you’re quite simple, aren’t you?”
+
+“I’m Salvos!”
+
+Lily snorted as I waved a fist indignantly at her. Placing her hands on her hip, she flew up to the top of her Fairy Mound.
+
+“So, tell me, Salvos, why did you come here? What could you possibly need from me, if not to help your Human friends?”
+
+“To help me, of course!”
+
+I stood up, grinning.
+
+“As you told me last time, I went ahead and got a Class! It took me a while, but I can now cast space magic.”
+
+I pointed to a nearby rock, and it vanished. It appeared a dozen feet to the left as Lily cocked her head.
+
+“Ah, so this has to do with your request from last time.”
+
+“Yep. I want you to teach me space magic, Lily. Please?”
+
+I made sure to remember my manners. Edithe stressed that I maintained an air of respectability even when she wasn’t around— especially since she wasn’t around.
+
+A thin smile spread over the Fairy’s face. She floated back down to me, hovering right before my face. Then she slapped me across the cheek.
+
+“Ow— what was that for?”
+
+“First of all, saying ‘please’ won’t change my mind.”
+
+She slapped me again, and I glared at her.
+
+“Secondly, reaching Level 100 in under a year from Level 50 is not ‘a while’.”
+
+“Don’t hit me!”
+
+I reached out to grab her before she could slap me again. But she swatted my hand away and flitted back.
+
+“Now for your first lesson— try and catch me only using your Class.”
+
+I blinked.
+
+“What?”
+
+“You heard me. I’ll be somewhere in these tunnels!”
+
+A portal opened behind Lily and she zipped through it. It took me a moment to react. I raised my hand.
+
+“Wait—”
+
+But she was gone.
+
+“Huh.”
+
+—--
+
+“Lily? Lily!”
+
+I called out the Fairy’s name, but she was nowhere to be found. I poked my head into one of the holes of the Fairy Mound, hearing a quick notification that I entered a Lair, before pulling back.
+
+“Hm. So, she really wants me to catch her with my Skills. Alright then.”
+
+My Subspecies’ Skills weren’t allowed. That meant I only had two Skills to work with.
+
+Secondary Skills:
+
+[Available Secondary Skill Points: 1]
+
+[Banish] - Lvl. 20
+
+[Spatial Sight] - Lvl. 20 (Maxed)
+
+[Unused Secondary Skill Slot] x1
+
+[Banish] was mostly useful for redirecting incoming attacks; it would hardly have any application here. That left only [Spatial Sight]. Surely Lily planned something for me to do with that Skill.
+
+...
+
+Wait, did she even know what Skills I had in my Class? Edithe once told me you could only see the Skills of others if you had [Advanced Appraisal]. And that was a very rare Skill to have. I really doubted that Lily would somehow have the Skill.
+
+So, she likely didn’t know my Skills. How did she even expect me to catch her? Whatever she wanted me to do, I decided to start with [Spatial Sight].
+
+I closed my eyes, and the world opened up around me. It was a kind of vision which didn't rely on my vision. It saw through the threadwork of mana— specifically, the weavings of space itself. It expanded around me, a sphere that went two dozen feet in every direction.
+
+My senses permeated through this sphere. The stone, the air, and even the damp water dripping off of the ceiling were a part of this grid in space. They existed, taking up different, well, amounts of space. It was hard to explain. It was like the presence of these objects seemed to warp space itself. But only a little bit. And it was through this I could distinguish a pebble at my feet from the Fairy Mound behind me.
+
+That wasn’t all, of course. I could also distinguish between the different kinds of mana within my [Spatial Sight]. But it was almost like it only had two groups. The first was the magic that manipulated the fabric of space, while the second was a muddled amalgam of all the other magic turned into a vast blanket.
+
+I tried to scour through every object that laid within my sphere. Lily wasn’t in the Fairy Mound— that’d have been too expected. Neither was she hiding inside the walls. Of course she wouldn’t be anywhere near me. But how was I going to find her?
+
+Wait, is that…? There was a trail of space magic. Almost like a tiny piece of string, left behind by a seamstress after she finished sewing together a beautiful tapestry. I grabbed hold of this ‘string’ and followed it down a tunnel.
+
+I continued on, only a single lead bringing me closer to Lily. I frowned, before concentrating the sphere in various different directions. It would let me see further to my left or right by taking a more oval shape than it would if [Spatial Sight] remained a perfect sphere. I paused when I sensed something entering the edge of my sphere to the right.
+
+I hurriedly tried to focus my sphere towards it. But even as my [Spatial Sight] spread out to the right, it vanished.
+
+She’s… moving around. She’s running away!
+
+I snapped my eyes open and bolted forward, seeing a sharp turn in the corridor just up ahead. Lily might have been a flying Fairy, but I was fast. Even without [Haste].
+
+I caught sight of the glowing ball the moment I spun around the corner. Lily giggled as she waved at me.
+
+“Hurry up, slowpoke!”
+
+I bared my teeth, accepting the challenge. With a single leap, I closed the distance and nearly grabbed the Fairy. Her eyes grew wide as my clawed hands closed around her—
+
+And she vanished, appearing dozens of feet behind me. I nearly tripped as I turned around. Lily was rapidly disappearing and reappearing, some kind of a teleportation Skill which she could repeatedly use.
+
+“That’s cheating!”
+
+“Nope, it isn’t!”
+
+Her voice echoed down the corridor as I bounded after her.
+
+“Come back here!”
+
+Lily’s form flickered and popped up just in front of me.
+
+“Boo!”
+
+I was caught off-guard by the sudden shift in direction. I jerked back, and Lily teleported past me again.
+
+“Hey!”
+
+It was a chase. One where Lily led me around wherever she wanted me to go. Without her Skills, Lily was slower than me. Far slower than me. But without my Skills, I couldn’t keep up with the fast-teleporting Fairy.
+
+But I could see her. I could follow her. So, even when [Spatial Sight] ended, I could still track the trail of space mana threads she left behind in her stead. I wouldn’t lose her now. No matter where she tried to hide, I managed to find her.
+
+I wasn’t sure what she wanted me to do, just that she wanted me to catch her with my Class Skills. I tried using [Banish] to disrupt her teleportation. The moment she reappeared, I dropped a rather large rock on her head. She swerved around it, giving me a brief moment to leap up and reach for her.
+
+But she just pointed at me, and I was suddenly a foot to the right of where I was.
+
+“What?”
+
+“[Displaced Space].”
+
+Lily grinned at me as teleported away.
+
+“I didn’t exactly move you, more like I moved the space around you!”
+
+“Come back here!”
+
+This continued for hours and hours. Maybe even a full day. She strung me around the network of tunnels as I desperately clung to the invisible trail of spatial threads she left behind until she came to a halt.
+
+I leapt up into the air, wrapping my hands around her, and collapsed back on the ground.
+
+“I did it! I caught you!”
+
+Lily sighed.
+
+“I ran out of mana. So, you only technically caught me.”
+
+“Wait, you only said I had to catch you!”
+
+I let go of the Fairy, sputtering. And she nodded.
+
+“You did catch me. Good job. You passed the test, I guess.”
+
+I stared at her— at the inexpressive face of Lily. I opened my mouth.
+
+“Um, is that it?”
+
+She smirked, peering into me.
+
+“I don’t know. Is it?”
+
+I expected her to say something— to know exactly what she was saying. But all she had was a hunch. And her hunch was right.
+
+I sat back up as I realized I missed a notification during the chase.
+
+Skill [Spectral Tracking] Learned!
+
+Experience is awarded for the learning of a Skill!
+
+“I got a new Skill! I got [Spectral Tracking]!”
+
+I hopped to my feet, excitedly bouncing up and down. Lily’s training actually worked! I was beaming from ear-to-ear as I looked over my Status. Alright, I just have to accept the Skill—
+
+“Are you serious?”
+
+Lily furrowed a brow, and I paused.
+
+“What?”
+
+“Why are you excited over getting that Skill? Don’t tell me you’re actually going to add it to your Status, are you?”
+
+I shifted uncomfortably on my feet.
+
+“Am I… not supposed to?”
+
+She sighed.
+
+“How many secondary Skill Slots do you have available, Salvos?”
+
+“I have one left. Why?”
+
+Lily crossed her arms, rolling her eyes.
+
+“And you’re thinking of using it for this random new Skill you got? That defeats the purpose of it entirely!”
+
+I tilted my head to the side.
+
+“What do you mean?”
+
+“I mean that you’re not going to choose a Skill. You will keep on training for more Skills, but you will not choose one. Not until you get the best Skill you can get!”
+
+I was still confused. I stared at Lily, uncomprehending.
+
+“Huh?”
+
+“What, did you think that you’d just get one Skill and that was it? Everything is finished? If things were that simple, anyone could just learn how to travel through space like that!”
+
+She brought her small hands together, making a sound more akin to a snap than a clap.
+
+“You asked me to help train you, Salvos. And I will. When we’re finished, you’ll have at least half a dozen new Skills to choose from before your next Class advancement!”

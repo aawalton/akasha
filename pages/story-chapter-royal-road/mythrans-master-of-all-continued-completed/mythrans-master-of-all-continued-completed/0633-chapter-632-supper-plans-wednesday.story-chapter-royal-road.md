@@ -1,0 +1,287 @@
+---
+id: f057e8a4-a808-52ae-bd08-6d7a6fa2abfe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 632 - Supper Plans (Wednesday)"
+slug: 0633-chapter-632-supper-plans-wednesday
+partOf: mythrans-master-of-all-continued-completed
+position: 633
+ownLength: 3159
+unit: words
+publishedAt: 2018-07-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/231980/chapter-632-supper-plans-wednesday"
+royalRoadId: "231980"
+---
+
+Denise pushed Ren and his wheelchair into the dining room.
+
+“Hi, everyone!” Ren said.
+
+“Hi, Ren.” Stella, Barbara, Elise, Barbi, and Lisa all said at the same time.
+
+“Hey.” Donald said.
+
+“I'm sorry I can't start exercising yet.” Ren said.
+
+“Not your fault, son.” Donald responded. “I'm a big proponent for extenuating circumstances.”
+
+“I think that's all I am.” Ren said and he laughed.
+
+“It certainly seems that way.”
+
+“I'll be right back.” Denise said and left the dining room.
+
+“So, what did you do for your first day back in the game?” Elise asked.
+
+“I pushed my character up to max level, then spent 11 years inside my Sanctuary to learn how to use everything and to boost my stats.” Ren said, and everyone fell silent.
+
+“Did you say 11 years?” Barbi asked, shock clearly on her face.
+
+“Yeah, I know I kind of overdid it.” Ren chuckled. “But you know how it is. I didn't have anything pressing to do once I destroyed all the Void beings in the Human Kingdom.”
+
+“What?” Elise looked at him with wide eyes.
+
+“He used his artificial Aura to create Light and Anti-void inside of it.” Lisa said. “Since it covered the whole country, well...”
+
+“Artemis shot them, actually.” Ren said. “With Teepo helping to Spot.” He chuckled. “Oh, and Princess to smash through any walls to get at them when necessary.”
+
+“Wow.” Barbi said and sat back in her chair. “That's... how did you...” She shook her head. “How long have you been planning this?”
+
+“I've had the idea for a long time, but never got around to implementing it until after the Sea Dweller update. Once I realized how much that was messing everything up, I figured I needed to do something about it.”
+
+“How did you max out your character so quickly?” Elise asked.
+
+“He used his Emotion Siphon ability and converted emotions into XP.” Lisa said. “Actually, he didn't just do himself. He maxed out everyone in his party with it.”
+
+“He WHAT?” Elise and Barbi yelled.
+
+“I was a bit surprised that I didn't get a new title for maxing out my character.” Ren grinned. “Then I realized that I had maxed out my whole party long before I maxed myself out.”
+
+“Even with the way a copy of his XP is split between us, we all gain levels much faster than he does.” Lisa smiled and leaned in to kiss Ren on the cheek. “Thank you very much for doing that for us.”
+
+“Now that I've got you all maxed, I'm tempted to kick you all out of the party and add new people.” Ren said, and he saw Lisa open her mouth to respond. “Easy, now.” He said and took her hand and kissed the back of it. “It won't work because I can't gain XP anymore.”
+
+Lisa nodded. “Right. You can't split what you don't get, so changing people out isn't going to benefit anyone new.”
+
+“I feel kind of bad that I can't level up other people, now that I have the perfect leveling mechanism in place.”
+
+“Don't feel bad about that.” Lisa said and leaned back, because she saw Denise as she pushed the cart with a large roast, pile of french fries, and a big dish of gravy. She had drinks for everyone on the lower shelf as well.
+
+“Ooo, can you smell that?!?” Ren said and closed his eyes to take in a big whiff through his nose. “Oh, man! It smells delicious!”
+
+Denise laughed and parked the cart close by him, then started to dish out the food.
+
+“I am going to get so fat!” Barbi said as Denise handed her a plate with a handful of fries, 1 slice of roast, and a touch of gravy.
+
+“That's what the workout room is for.” Stella said and accepted a plate with 2 slices of meat, a couple of handfuls of fries, and a good amount of gravy.
+
+“I've spent quite a bit of time there myself.” Elise said and her plate was close to Stella's in size, except she had less fries. “Mostly cardio, though. I don't think my body can bulk up like some other people.” She chuckled. “They make it look so easy!”
+
+“I'm just trying to get back into shape.” Donald said and flexed his arms. Barbara cooed at him, and he laughed and dropped his arms to smack his hands on his belly. “I really need to concentrate on getting rid of this spare tire.”
+
+“I'm not sure that's possible.” Barbara said and rubbed his belly. “Usually once you get this much girth, only surgery can get you started.”
+
+“I'm too old for cosmetic surgery.” Donald said. “Plus, the food here is too good to turn down.”
+
+Barbara chuckled. “We could ban you from the house during meals.”
+
+“I'd still gain weight from smelling this thing.” Donald said and looked at the plate in front of him. It had 3 pieces of sliced roast and 3 handfuls of fries, and was covered in gravy. “I think I'm just going to go for maintenance and not worry about a transformation.”
+
+Barbara kissed his cheek and saw that everyone had been served, and Ren had a heap of fries that were smothered in gravy. Denise joined them at the table after handing out the drinks.
+
+“What is everyone waiting for?” Ren asked and looked around at everyone and saw them either looking at their plates or at him. “Let's eat!”
+
+Everyone laughed because they didn't realize they were all waiting for someone else to start. Ren picked up a french fry and popped it into his mouth, then everyone else started to eat.
+
+*
+
+“Oh, my god.” Gwendolyn whispered as her body trembled, then Clint laid down beside her with a huge smile on his face.
+
+“Ah can' believe it either.” Clint said and put his arm around her. “Ah always thought they claimed it was always tha same in tha game as it was in real life.” He said. “Ah'm not sure why it's differen', only that it is.” He smiled again and turned his head to look at her. “Maybe it's 'cause of tha special comp'ny?”
+
+Gwendolyn turned her head to look back at him, and he could almost see stars in her eyes. “In my honest opinion, I believe so.”
+
+“Wha' abou' in yer dishonest opinion?” Clint asked.
+
+Gwendolyn chuckled. “I think we need another go, just to be sure.” She said and put a hand on his chest and gently caressed it.
+
+“Give me a few minutes ta rest, an' ah'll seriously consider provin' yer dishonest opinion is righ'.” Clint said, and she laughed.
+
+*
+
+Tommy headed home after a long day at work, and when he walked into the apartment, his girlfriend practically assaulted him. He didn't even provide token resistance as she had her way with him, and even though he was tired from lifting heavy furniture all day, there was no chance that he was going to say no to her. They cuddled on the couch afterwards and Tommy held her close.
+
+“Does this mean we're not cooking together tonight?” Tommy asked.
+
+“I was too excited about something to think about trying to cook today.” Jaime said.
+
+“Oh? Do tell.” Tommy said, and Jamie told him all about Gwendolyn's date with Clint today. “You little matchmaker, you.” He said and kissed her forehead. “I hope it works out.”
+
+“Oh, I'm sure it will.” Jaime said. “Clint's been looking for a significant other for a while now.”
+
+“How do you know that?” Tommy asked with wide eyes.
+
+“Unlike you, I can see with more than just my eyes.” Jaime joked.
+
+“Hey, it's not my fault that I don't have women's intuition.”
+
+“No, it's fate.” Jaime said and kissed him. “I wouldn't have it any other way.”
+
+“I'm glad, because how would you ever blindside me with the truth if I had your observation skills?” Tommy asked, and she laughed.
+
+“You know, you don't have to agree with me all the time.”
+
+“Are you kidding? That's the most important job I have in this relationship, and I am not going to shirk my duties.” Tommy said.
+
+“I love you.” Jaime said.
+
+“I know.” Tommy said with a grin.
+
+“You did not just quote Star Wars at me.” Jaime said with a frown.
+
+“What if I did?”
+
+“Tommy, you're supposed to say it back.”
+
+“Say what?”
+
+“I love you.” Jaime said.
+
+“I know. You already told me that.” Tommy said with a huge grin.
+
+“Tommy!” Jaime smacked his chest, and he laughed. They started to wrestle and she looked like she was genuinely getting angry, so he kissed her. She stopped struggling and he broke the kiss.
+
+“Jaime...” Tommy dropped his voice down an octave and stared into her eyes. “...I love you.”
+
+Jaime caught her breath from his serious tone, and all the joking around faded away.
+
+“I love you when you do the vacuuming and wiggle your butt without knowing you do.” Tommy said. “I love you when you toss the garbage bags out when I forget to, and you don't bitch about it. I love you when you struggle with balancing our budget, because I don't have a head for numbers and you need to handle all the finances.”
+
+“T-Tommy...” Jaime breathed. She didn't think he had noticed any of those things.
+
+Tommy ran a hand through her hair and rested it on her cheek. “I love you for putting up with me, even though sometimes I act like an asshole.” He said and kissed her. “I love you for all the little things you do, and for all the big things you do.” He smiled. “I don't know what I did to deserve you; but, I thank whatever higher power that exists every day for having you in my life.”
+
+“Tommy, I...”
+
+“I love you, honey.” Tommy said and kissed her. Jaime melted into his arms, because he had pushed nearly all of her emotional buttons, and they made sweet and passionate love. This time there was no urgency or rushing, and they took their time and enjoyed pleasing each other.
+
+*
+
+“That was great!” Ren said and sat back in his chair. His belly was a little distended and his chest hurt, but he ignored the bloating and soreness. “Why can't we eat like this every day?”
+
+“I think we'd run out of cows and potatoes if you had your way.” Stella said, and everyone laughed.
+
+“I'll help clean up the dishes.” Barbara said.
+
+“Me, too.” Lisa said and the two of them helped Denise pile the dishes back onto the cart. “Wow, they barely fit.”
+
+“There's a lot of people eating here.” Denise said. “I am so glad we have an industrial dishwasher.”
+
+“I hate scrubbing pots and pans!” Stella and Barbara said together, which made them laugh. “Jinx!” They also said together, and they kept laughing. Lisa followed Denise to the kitchen to help her unload the dishes.
+
+“I'm just going to sit and digest for a while.” Ren said. “Elise? Are you done for the day?”
+
+“Just about.” Elise said. “Are you hoping to cuddle until you need to log back into the game?”
+
+“Yes, but I'm not logging back in until later.” Ren said, and smiled at her surprised expression. “Like I said before, I don't have anything urgent to do, so I figured I could spend some time with you.”
+
+Elise smiled back. “Okay. I'll try and wrap my work up soon.” She said and stood up. “Barbi, why don't you take Ren into the large living room. I'm sure there's something on television he can watch until I'm done.”
+
+“Sure.” Barbi said. “I've been practising pushing a wheelchair just in case I was needed.”
+
+Ren chuckled. “It's like pushing a shopping cart, except that it has two handles instead of one.”
+
+“The balance is different from side to side; but, the pivot point for tipping backwards is almost the same.” Barbara said. “You don't really need practice, just being careful will suffice.”
+
+“Really?” Barbi asked and walked around the table and grabbed the handles. “There's no nursing course for handling these things?”
+
+Stella laughed. “No. Learning to control them is all hands on and practical job experience.”
+
+“Huh. You learn something new every day.” Barbi said and backed Ren away from the table slowly. “I think I have enough clearance.” She said and slowly turned Ren around and got him pointed towards the door. “Okay! Here we go!”
+
+Barbi walked at a slow pace towards the doorway and Ren slowly put his hands up into the air so he wouldn't strain his chest muscles.
+
+“Weeeeee!” Ren waved his hands and made everyone laugh.
+
+“You can walk a little faster, Barbi.” Stella said and stood up, as did Barbara and Donald.
+
+“Once I'm out in the open area.” Barbi said. “This thing is a little tricky with someone in it.”
+
+Ren tilted his head back and looked up at her. “I'm not that heavy.”
+
+Barbi chuckled. “It's not the extra weight, it's the balance, like Barbara said.” She smiled. “I'll eventually figure it out.”
+
+Ren nodded and looked forward again, and Barbi managed not to hit anything on the way to the large living room, then parked the wheelchair near the couch and locked the wheels.
+
+“Do you need a hand?” Barbi asked, nervously.
+
+“Actually, you can sit down there in the corner.” Ren said.
+
+“Me?”
+
+“Sure.” Ren said. “Unless you have somewhere to go.”
+
+“No, I... I'm not busy.” Barbi said. “I've done all the damage control I can with what was available.”
+
+“Then have a seat and I'll tell you all about what I did in the game, and you can leak it out on social media in the morning.”
+
+“Really?” Barbi asked, her interest piqued. She sat down and settled herself into the corner. “You'll tell me how you did it?”
+
+“Yeah, but you might have to keep the details to yourself.” Ren said and stood up on slightly wobbly legs. “You can have as much fun with the general information as you want.”
+
+“You really know how to make a girl happy.” Barbi said.
+
+Ren turned around and sat down on the edge of the couch with a hiss. “Ow.”
+
+“If I pull on your hips, will it hurt?” Barbi asked.
+
+“I certainly hope not.” Ren said. “Grab on and we'll find out.”
+
+Barbi put her hands on his hips, dug her fingers into the silk-like cloth of his pyjamas, and pulled. Ren slid back onto the couch fairly easily, thanks to those same silk-like pyjamas, and he fit right up under her arm.
+
+“Hey, it worked!” Ren said and beamed a smile at her. “I didn't even get a twinge of pain in my chest! Thank you!”
+
+His face was quite close to hers, and Ren was at his cutest with such a big smile. Barbi's face flushed slightly red from his sincerity and gratitude, and she tried her best to hide her reaction.
+
+“Can you pass me the remote?” Ren asked.
+
+“Um... sure.” Barbi said. She picked it up from the end table beside the couch and passed it to him.
+
+“Thanks.” Ren said and turned on the television. “Hmm. What am I in the mood for?” He asked himself out loud. “Action? Suspense? Thriller?”
+
+Barbi blinked her eyes as Ren flicked through the channels faster than she could see them.
+
+“There we go.” Ren said and stopped clicking the remote. “I love these old reruns of McGulver.”
+
+Barbi was a little surprised when he put the remote down on his other side and rested his hand on her lap. He wasn't doing anything sexual at all and just rested his arm there. His hand was on its side and not palm down like some people would do to take advantage of the situation. Her arm was only slightly around him, so she moved it down and hugged him slightly, then Ren wiggled a little bit and managed to get his head in closer to her and rested his cheek on the side of her breast.
+
+“Even today's technology, like cell phones, can be explained away because a lot of the places he goes wouldn't let them work, or they were stolen, confiscated, or broken.” Ren said and smiled. “That's what I do to trick my mind into accepting the outdated show. I rationalize the flaws away.”
+
+“Do you only do that for shows?” Barbi asked. Ren tilted his head up and looked up at her, which caressed her breast, and she hid her reaction to the touch.
+
+“You're asking me about Gloria, aren't you?” Ren asked, and she nodded. “I... yes, I guess I do.” He said and sighed sadly. “I didn't think I did; but like I told her, I took the time to go over everything we had gone through, and it made me realize what had really been going on.”
+
+“Ren, I'm sorry. I didn't mean to bring it up.”
+
+“It's okay. I've had years to come to grips with it.” Ren said. “The only problem is, I remember everything now.” He said. “I can recall everything she said, everything we did, and when it ended.” He tilted his head back down to look at the television and sighed again. “I also remember how much it hurt.”
+
+Barbi's heart fluttered at his pain, and she put her hand down on top of the one he had on her lap. He opened his hand to take hers, and she turned it over instead and placed it on her thigh.
+
+“If you remember everything...” Barbi bit her lip and swallowed. “...what shape are the tips of my breasts?”
+
+“They are almost perfectly round, but the left one is slightly oblong.” Ren said. “There are 31 little bumps around that one, and 26 on the right one. The tips at the time were only partially erect, since I suspect you were only just starting to get excited about flashing me.”
+
+Barbi caught her breath at the specific details, especially with her pet peeve about the shape.
+
+“I was surprised that you reacted so quickly and distracted me.” Ren said and smiled. “You saw my reaction to that.”
+
+“I did.” Barbi said in a normal voice, glad that her control of her emotions was quite strong. “I was surprised by you as well.”
+
+Ren chuckled. “Not scared?”
+
+Barbi pat his hand. “It would take a bit more than that to scare me.”
+
+“Wow.” Ren said and looked back up at her, intentionally rubbing her breast with his cheek. “I am not going to ask what would scare you.”
+
+Barbi chuckled. “Just watch the show and explain to me what you did in the game.”
+
+“Yes, ma'am.” Ren said and looked back at the screen and settled the side of his face against her breast again. “First, I had to make over a hundred thousand steel squares...”

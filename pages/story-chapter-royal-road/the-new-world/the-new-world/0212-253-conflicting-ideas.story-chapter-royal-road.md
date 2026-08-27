@@ -1,0 +1,271 @@
+---
+id: 07fff194-be74-50bf-8265-b08b60b1ca3b
+page-type-slug: story-chapter-royal-road
+title: "253 Conflicting Ideas"
+slug: 0212-253-conflicting-ideas
+partOf: the-new-world
+position: 212
+ownLength: 2889
+unit: words
+ownProgress: 2889
+publishedAt: 2020-05-07
+link: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/493091/253-conflicting-ideas"
+royalRoadId: "493091"
+markedReadAt: "2026-06-29T21:28:15.587Z"
+---
+
+Torix rolled his eyes, "That's highly unlikely. They are beings that transcend time and space."
+
+I raised my hands, "I'm not saying their controlling Eonoth, just that they've found a way of using him to their benefit. The Old One is connected to Lehesion directly after all. It's not that much of a stretch to say the Adair Family figured out a way to abuse that connection."
+
+Torix cupped his chin, "Hmm, perhaps. I'm doubtful, but we'd better report our findings and our hypotheses to the Overseer regardless. He's busy, no doubt, but this information may prove vital."
+
+I nodded, "Let's do it."
+
+Torix called the Overseer, who neglected to show up in person. Instead, he called over a chatline Schema made publicly available. With it, the Overseer used a randomly generated password for security purposes. Once logged in, a tired, annoyed voice rang through,
+
+"What is it now?"
+
+Torix turned to me. We both had a silent debate over who would answer until the Overseer announced,
+
+"I'm leaving-"
+
+I shouted, "Wait a minute."
+
+Torix quietly cackled as I eyed the ancient lich. The old mastermind got me there.
+
+"What did you both call me for?"
+
+"Do you remember my last fight with Lehesion?"
+
+"Vaguely."
+
+"I blocked one of his attacks with a pocket dimension I can control. I ended up getting a sample of Lehesion that we just studied."
+
+The voice perked up,
+
+"This may have been worth answering then. What did you uncover?"
+
+"Nothing direct. Some kind of nanomachines self-destructed the tail slice, but we did figure some details out. For starters, the tail was bathed with an unreal amount of energy."
+
+"Yes, his golden aura, as always."
+
+"At first, yeah, but then it glowed blue. It had enough radiation to even put Spear out of commission for a bit."
+
+"Spear?" the Overseer rumbled.
+
+"Yeah, the Sentinel that's helping us."
+
+"The breaches in his armor plating are likely why. Their armor is highly resistant to radiation of all kinds."
+
+I raised my hands, "That's the thing - it was enough radiation that lead-lined suits weren't nearly enough to withstand it. We're talking way more mana than a single planet could possibly hold. We think Lehesion's energy source is coming from somewhere else besides Giess."
+
+"Did either of you videotape the footage of the event?"
+
+Torix opened his status, sending something to the Overseer. A few seconds of observing later and the Overseer murmured,
+
+"It's very...blue."
+
+Torix leaned over, "That's the Cherenkov effect. It's perfectly normal when dealing with high volumes of ionizing radiation."
+
+The Overseer sighed, "It's giving me very little to work with as far as viewing is concerned. Do you have any samples left of the tail segment?"
+
+I shrugged, "I ate it."
+
+"...You ate it?"
+
+"Yeah."
+
+A quick thud later, likely a facepalm, and the Overseer grumbled,
+
+"No samples remain?"
+
+Torix spread out his hands, "It wasn't as if something of value remained. There weren't even cellular structures remaining. The energy-laden jelly was simply a blob of the elements composing Lehesion. It gave us nothing of value. At least Daniel may strengthen himself with it."
+
+The Overseer took a moment to consider Torix's defense.
+
+"That is a shame. We could've have uncovered an actual weakness."
+
+Torix lifted a finger upwards, "And therein lies the core reason for this call - we believe that they are drawing this energy source from Eonoth."
+
+I turned to Torix, "You didn't want the call at first, right?"
+
+Torix waved away my retort, "Our point is that Lehesion may be empowered by cosmic beings that defy convention."
+
+The Overseer flatlined,
+
+"It doesn't matter."
+
+Torix and I stayed silent for a second.
+
+The Overseer's voice carried quiet confidence,
+
+"You both know little of how a spatial fortress operates. Here is how they work. Spatial fortresses are ancient, almighty eldritch that have evolved beyond what eldritch are normally capable of. These eldritch are the end results of fringe worlds."
+
+I crossed my arms as he continued,
+
+"A subspecies of eldritch will dominate, the evolution of their species wiping all life out on a planet. Over time, these eldritch can cover the entire surface of planets, creating worlds of flesh and bone. These worlds lob spores out in all directions. This is why fringe worlds are such high priorities. They often lead towards entire sectors being overridden by behemothic eldritch."
+
+Hm, that sounded a lot like what was happening on Wrath's world with Plazia-Ruhl. If that was the case, Plazia was taking his time with his assimilation of their species to stop a spatial fortress from blowing up the world he was on. Considering the depth of that plan, he was definitely related to Baldag-Ruhl.
+
+I made a note of that for later.
+
+The Overseer continued, "Schema has discovered a use for these abominations. Using ancient techniques, he can override the sentience of the eldritch ruling over the planet. Once taken over, Schema converts them into a station that acts as a stronghold. Our worst enemies become our most powerful weapons in this way."
+
+Torix pondered aloud, "I wonder what these ancient techniques may be?"
+
+I leaned over and whispered, "It's the cipher. I'm 100% sure of that."
+
+The Overseer griped, "If you could avoid discussing forbidden knowledge, I would appreciate it."
+
+I gave him a thumbs-up, "Of course."
+
+The Overseer continued, "These overtaken eldritch are referred to as spatial fortresses. One of the upper-tier fortresses is going to warp into the solar system that Giess is housed on. From across the entire system, it will lob a metal bullet at such speeds, the entire planet will split apart."
+
+This speech sounded vaguely familiar, but I couldn't remember why.
+
+The Overseer made a dull thud that echoed over the voice call,
+
+"I do not mean that figuratively. Giess will splinter. Giess is an active, volcanic world. Underneath its crust is an endless sea of magma."
+
+Yeah, I could verify that.
+
+"This shall not be a kinetic explosion that would wipe life from the planet. It will crash through the entire world. This will disintegrate the entirety of it from existence, washing everything in a gravitational storm of magma. Over time, the remnants of Giess will create a tiny asteroid belt where the planet once was."
+
+The Overseer deadpanned,
+
+"That is why neither of you should be concerned with Lehesion. He is a powerful entity, but he will be alone. A single entity can only cause so much trouble, and we've already tasked several of our greatest Breakers with ending that monster. Without any base of operations, the Adair Family will crumble as well."
+
+I turned to Torix, "Huh...That does sound pretty effective."
+
+Torix crossed his arms, "I...I never knew Schema carried such potent tools at his disposal."
+
+The Overseer muttered, "This is why I am not worried. The rebellion shall be quashed, as all other rebellions have been. Now, this is the last of what I'll listen to about this matter. Is that understood?"
+
+Torix and I spoke in unison,
+
+"Understood."
+
+"Eh, ok."
+
+The Overseer continued, "Good. Neither of you will have to worry about the rest of the rebelling worlds either. They all have forfeited their right to exist. Every planet will be obliterated. That is Schema's power. That is who they defy. Now, if you both will excuse me, I have an entire sector of the Milky Way to attend to. Goodbye."
+
+The Overseer closed the call, leaving Torix and I wondering about what he said. I frowned,
+
+"Well shit. Here I thought Schema's big bads were the Overseers. That radiation looked ugly, but I don't think they're ready for what a spatial fortress can do."
+
+Torix shrugged, "We shall see. The Adair Family has demonstrated a measure of competence up to this point. If they chose to defy Schema, it would only make sense if they carried the tools to follow through. Otherwise, they've admonished their lives for nothing."
+
+I tsked, "Damn...Time will tell then."
+
+"It shall."
+
+I turned towards the warp back to Mt. Verner, "That sounds a bit over our heads anyway. Let's just do what we can for now. When's the next battle?"
+
+"Tomorrow on Tholosa. As for details, Tholosa is a coastal town with gorgeous seaside views and a thriving glass crafting industry. The gialgathens mold the molten glass using their heated breaths. It's turned Tholosa into a thriving tourist destination."
+
+The lich coughed into a hand, "Ahem, was a thriving tourist destination. It's a beautiful wasteland now."
+
+I shrugged, "Nothing we can do about that, though we may save a few of the artists. They might keep up the traditions, who knows. Anyways, I'll read whatever you send me between now and then. This gives me time to finish a few tasks on my to-do list."
+
+Torix reached out a hand, grabbing my shoulder, "Now wait one moment, Daniel. We need to finish our daily mind magic training. Meet me in one of the combat zones on the third floor. We'll practice for an hour as we agreed before."
+
+I suppressed a verbal groan, settling for a mental one instead.
+
+"Of course. See you then."
+
+We handled some more practice on Mt. Verner, a crowd of onlookers watching. Humbling as always, my struggle served as a lesson for them. Even the strongest member of the guild worked on his weaknesses, so they should follow my example. Either that or they learned that I could get my ass kicked. Honestly, I couldn't tell.
+
+After finishing the session, I sat down and looked through a few of my messages. It reminded me of checking my email, a tedious task that needed doing. I skimmed through the emails while crafting crude golems along the outskirts of Mt. Verner.
+
+The simple act of creating let me relax as I learned a bit about our situation. The best bit of news was information on the unknown scouts. We made contact with them, and they were the Empire's people. According to Torix's update, they were accessing the locations near Mt. Verner to gauge our level of influence.
+
+Torix believed the Empire intended to take as much of Earth as possible. With the areas near my guild conquered, the Empire would leverage their ownership to their advantage when making deals with us. It was about what I expected to be honest.
+
+After finishing my reading, I stared at quite a few golems. I injected a bit of quintessence in order to give them functioning minds. Once made, I practiced a bit of mental magic with them. They weren't great for learning in-depth details, but a few dozen of them made for a reasonably strong-willed opponent.
+
+This was because of what they were made of. My armor tended to give high willpower bonuses, meaning even these mindless golems could resist some. Tackling fifty at once meant I could do something similar to weight training for my mind.
+
+All I would do is strengthen my baseline, fundamental skills with these guys. With Torix, I could hone the more technical aspects of mind magic. To me, this seemed like a reasonable approach to my training. It gave the newly created minds of the golems the right amount of stress to grow as well.
+
+Over the course of the night, I got them to understand simple concepts like protecting and movement. After all the mental beat downs, they listened pretty closely at this point too. With the battle at Tholosa looming, I sent a message to Torix about the battalion of golems I made.
+
+As Torix came up, he found me sparring with a few golems at once. I turned towards Torix, willing the golems to do the same. Torix gave me a slow nod,
+
+"Hmm, I must say I'm rather impressed, though I do find myself wondering what use these golems might have."
+
+I gave one a heavy bang with a fist onto its chest,
+
+"They're stout, resistant to Hybrids, and they make good footsoldiers that are hard to control. While not perfect, they can protect the portal makers and medical personnel. If not, then I'll just leave them here."
+
+Torix looked them over before creating a few telepathic tethers with them. Finding their wills more difficult to control than expected, Torix shrugged,
+
+"They're more resilient to mind magic than the Hybrids, that much is certain. They should make for a fine set of guards for the military groups you mentioned."
+
+I rolled my shoulders, "Alright then, you ready to go kick some ass?"
+
+Torix's blue, fiery eyes flared bright, "Always."
+
+We met up with Spear outside of Mt. Verner, where the Sentinel stood ready to warp us back towards Elderfire. We found Hod standing beside him, his lanky silhouette contrasting the Sentinel. Hod puffed his chest out while putting his winged arms onto his hips,
+
+"Hod free today. Hod can help out with fight against Adair Family."
+
+Torix's eyes sheened purple as he sighed. I gave the Eltari's champion a thumbs up,
+
+"Hell yeah, sounds good. How good are you at handling the Hybrids?"
+
+Hod raised his winged arms, "Hod handle Hybrids like pan handle pancake."
+
+I turned to Torix, hoping the necromancer understood Hod's simile. The lich stared down, pinching where the bridge of nose would be. Yup, that's about what I expected. I gave Hod a look over,
+
+"I'm sorry. I don't get it. Can you handle them?"
+
+"Yes."
+
+I spread out my hands, "There you go." I gave Torix a pat on the back, "You've gotten another elite soldier to work with. This should be interesting."
+
+Torix let out a deep breath before standing tall. He walked over towards Hod, who now mirrored his height. Torix murmured with a whisper sharp enough to kill,
+
+"Understand this, Hod. If I am tasked with babysitting you during this battle, we could lose thousands of lives. I am currently stressed to my utmost limit, and there simply isn't enough patience nor time in my schedule to handle your every whim and need during a battle. Is that understood?"
+
+Hod gave him a blank stare before giving him a clumsy salute,
+
+"Hod hear lich man."
+
+Torix kept glaring for a moment. After the tense inspection passed, Torix turned towards Spear, "I suppose we're ready then."
+
+A quick tear in dimensions later, and we stood around a horde of waiting Gialgathens. Surrounded by the spawned forest of Elderfire and the dunes of the Rak'sha dessert in the distance, our army hungered for a fight. Though new members stood among the ranks, the majority weren't green anymore.
+
+They'd fought several times, no longer new to war. These hardened members were tasked with leading the newer soldiers, giving them advice and tactical input as needed. Combine that with our vastly superior methods of handling our assaults, and our casualties cut down even more.
+
+We stood at the same mobilization point as before, the underbrush and trees surrounding us. Torix turned towards Hod and me,
+
+"We shall be attacking Tholosa in the same manner as before. You two are prepared, I presume?"
+
+Hod puffed out his chest, "Hod always ready."
+
+I raised a fist, "Yup."
+
+"Perfect. Now, I shall give another rallying speech for the others. Perhaps you may inform Hod of the plan from last time?"
+
+I gave him a nod, "Sure thing." Turning to Hod, I raised a hand,
+
+"Here's what we did. After Torix and I mentally suppressed several rallying points, we warped from outside the city into the buildings. Hidden there, we got all our soldiers ready to fight while sending several Hybrids to plant mana bombs."
+
+I pulled out some crystallized mana for reference, the red-streaked and pale crystal pulsing with energy,
+
+"Using a pile of these, I rained singularities down on the city before blowing several of these across the city at the same time. After that, we blitzed them while saving as many gialgathens as possible. Your job will be to follow Torix and help him with preparing gialgathens for healing and transport. Got all that?"
+
+Hod gave me a nod, his blank eyes giving me very, very little to work with. I took it on good faith that he wasn't completely lost as Torix worked his way through another rousing speech. With the troops inspired, Hod walked over towards Torix and Spear. The Sentinel waved his spears, preparing to slice dimensions. Torix finished sending messages before peering at Hod,
+
+"We'll be heading out within the next few minutes. Do prepare yourself if you would."
+
+Hod walked off from Torix without letting the lich know if he actually listened. Hod took a deep breath before breathing out every last ounce of air in his chest. When he reached the absolute apex of scrawniness, the Eltari's champion breathed in.
+
+Siphoning energy from around him, a dark aura spread across his frame like charcoal-colored fire. It encompassed him entirely, his frame saturating in shadow. He expanded to triple his previous density, his newfound frame muscled and imposing. The once blank eyes now showed a different side of Hod; they carried a primal, malevolent aura.
+
+Umbral claws expanded from his fingers. His actual shadow grew, crossing into several other shadows near him. The air surrounding him darkened, his mere presence suppressing the light. With a sinister aura, he turned towards us and brandished his claws.
+
+The Shadow Stalker growled,
+
+"Tell Hod what to kill."

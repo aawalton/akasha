@@ -1,0 +1,175 @@
+---
+id: c83885b3-79fd-5891-aa31-61a6735cdceb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21 – Peak of the Mountain"
+slug: 0021-chapter-21-peak-of-the-mountain
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 21
+ownLength: 2089
+unit: words
+publishedAt: 2025-09-13
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2596798/chapter-21-peak-of-the-mountain"
+royalRoadId: "2596798"
+---
+
+Before tackling the mountain again, Liora decided to wait for nighttime. The watchtower wasn't a safe spot anymore, so instead she hid away in a seemingly abandoned shed near Dr. Reius' house. She wasn't completely comfortable with her hiding spot, but she figured it might do for the day.
+
+She often roused from her sleep when she heard voices outside the shed. Nobody came, but in the end, it made her sleep fragmented and not fully restful. Liora suddenly missed the pigeons. As noisy as they were, they never made her nervous like this.
+
+I need to find a new, safe hiding spot.
+
+It's probably best if you change your sleeping spots daily, so nobody can pinpoint your location.
+
+That was a reasonable tactic, although Liora didn't like it. She liked having a nest to return to every night. It was her safe space, yet now she didn't have one. She thought that she had accepted its loss, but the old watchtower had merely given her a false sense of safety. The old building had an odd coziness to it with its many inhabitants. But she didn't even have that anymore.
+
+Somewhat irritated, Liora emerged from her hiding spot at dusk. This time, she flew around the town to avoid detection and headed straight up the mountain. Six more levels and she'd be able to evolve again and get stronger.
+
+She was still apprehensive about evolution. Last time, her body didn't change that much. But it was enough for Dr. Reius to notice. What would happen next time? The changes could be much more drastic, judging by those hyenas and the gnoll. What if she evolved into some kind of abomination?
+
+But with mages hot on their heels, Liora had no choice but to get stronger. So this time, when Liora saw the herd of monstrous snake-goats, she attacked. Flying high up above them, using Shadow Glide to remain hidden, she dropped, striking straight in the middle of the herd using Air Dive.
+
+[You've defeated <Chimera Goat – Level 10>. Experience gained.]
+
+The rest of the herd was sent some distance away due to residual power from Air Dive. It didn't take long for most of the goats to recover and charge at Liora, their snake tails trying to bite her. But she mimicked the toad's Paralysis Croak successfully, immobilizing nearly the whole herd. Using Air Slash, Liora cut off the snake tails as they could detect her while she was Faded.
+
+With tails gone and their bodies partially paralyzed, defeating them was just a matter of time. The goats tried to headbutt her, but what chance did they have of hitting a bird? One Peck after another, she took out the whole herd—about fifteen goats in total.
+
+[You've defeated <Chimera Goat – Level 8>. Experience gained.]
+
+[You've reached Level 15.]
+
+All that effort for only one level?
+
+Liora felt cheated. She was sure that she'd get at least two levels from the herd. She had used up all of her mana to defeat them.
+
+It's only going to get harder at higher levels. You need to fight opponents of your level if you want to grow fast.
+
+Liora began using Mana Conversion to restore at least some of her mana. It was too late to get mana from some of them, but in the end, she managed to get her mana back to a Steady level.
+
+[Your skill <Mana Conversion> has reached [Novice] level.]
+
+[Mana Conversion – At [Novice] level converts 20% of the remaining mana of a defeated enemy.]
+
+And of course, you give me this after I've already tried draining mana from all the goats.
+
+You seem somewhat irritated today.
+
+Liora couldn't deny this. Perhaps the stress was becoming too much for her. After all, for two years she lived blissfully as a magpie, not a single worry. But after snatching Renir's gem, she had to run from mages, fight monsters, and even avoid humans. She couldn't even be mad at Renir about it—it was her own greed that got her into this mess.
+
+I'm just… tired.
+
+Hey, chin up, little thief. Look at the glimmerstones you can get now. Forty-five in total from these goats.
+
+Liora perked up and removed the glimmerstones embedded in the goats' heads, three from each. Her mood quickly improved as she could feel the small boost Glimmerlust provided. Almost 2%.
+
+This gave her motivation to keep flying up the mountain. Fighting another herd of snake-goats didn't seem worth it for experience, although she was tempted to do it for the sake of glimmerstones. But it seemed unfair to attack them when they were already huddling down to sleep.
+
+Fungoraks were a different matter. They creeped her out, and she also witnessed one of the nasty mushrooms kill five of the goats at once and then suck them dry with its root-like appendages. Hitting their roots was also good practice for Air Slash, not to mention that with improved Mana Conversion, she recovered her mana to Flowing level.
+
+But despite defeating eight more fungoraks, she didn't level up once. She did see a few panthers skulking about in the distance, but she didn't want to fight those. Not after what happened with the corrupted panther. Besides, they were the worst possible matchup for Liora. Cats were the natural predators of any bird.
+
+Should I fly higher? I'm not leveling up at all anymore.
+
+Yeah, just be careful. I heard those guys mention rock wyrms, and I'm 100% certain you can't deal with one of those yet.
+
+Hey, rude! I can defeat a worm!
+
+Not a worm! Wyrm. It's like a long dragon without wings. You know what a dragon is, right?
+
+Liora shuddered. She vaguely remembered the tales of mighty dragons from her life as a human. Large reptiles with scales as tough as steel that could breathe fire and fly. Even if this particular version couldn't fly, breathing fire was bad enough.
+
+She mentally shoved the wyrms in the do-not-fight-these-monsters category and flew higher. The withered trees disappeared, replaced by small shrubs which somehow managed to take root among the rocks. The air grew heavier and the winds stronger.
+
+At the foot of the mountain, the feel of rot was less, even if the place looked nastier. Here, the surroundings looked cleaner, largely due to the fact that there was nothing but rocks around. But the air itself felt like it was rotting.
+
+I don't like it here.
+
+I think we're nearing the source of whatever is causing all this rot and decay.
+
+Liora was apprehensive about flying higher. It was harder for her to maintain a stable flight due to stronger winds. It also made it harder to maneuver mid-flight. She was about to turn back and fight some of the weaker monsters when a tingle went off in her mind.
+
+Liora flew a bit higher, and the tingle got stronger. It took her a moment to realize that it was her Treasure Sense. There was something valuable up here. Something really, really valuable and likely also shiny.
+
+I feel treasure! I can sense it somewhere in the peak.
+
+Right, you did have Treasure Sense, didn't you?
+
+I'll go get it.
+
+Liora, wait! You have to proceed carefully. Monsters up here might have other senses than vision to detect you—
+
+But Liora wasn't really listening to him. This was the first time she felt her Treasure Sense tingle. The closer to the treasure she flew, the stronger it got. Like a ravenous craving for chocolate. Odd analogy for a bird, but she remembered loving it as a human. It was one of the rare bits of herself she remembered properly.
+
+Her sense was saying that it was a really good treasure too. Not quite as good as Renir, but then again, was there really anything that could top an all-powerful archmage stuck in a gem? Probably not. In either case, she was determined to get to the treasure.
+
+But suddenly the landscape changed. She must have reached the actual peak of the mountain because dark miasma was permeating the air. Like heavy mist, it settled over the peaks and slowly flowed down. A stronger gust of wind blew some of the miasma towards Liora, and she just barely managed to avoid it.
+
+What the hell is that?
+
+I have no clue. I've never seen anything like this before. It's almost as if the air itself has become corrupted.
+
+The treasure is in there.
+
+What? In that thick cloud of miasma?
+
+Yeah, the very center by the feel of it.
+
+Renir went silent, and Liora could tell that he was deep in thought. She just felt disappointed. The treasure was right there, and she couldn't even get to it.
+
+Is there a way to get rid of it?
+
+I don't know. As I said, I've never encountered corruption in this form before.
+
+Liora pondered for a moment, then tried mimicking the Holy Light incantation again, praying that she would succeed. "Cleansing light, obey my will. Purge this blight and make it still!"
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+This time, Liora made sure to actually aim the light, instead of letting it go wild. She didn't account for the fact that in the dead of the night, even a small bit of bright light would be blinding. It erupted in front of her eyes like a miniature sun, momentarily blinding her and Renir both.
+
+In hindsight, it had been a stupid move on her part, but the insistent tingling of her Treasure Sense clouded her judgment. Or at least so she consoled herself. She blinked her eyes, trying to recover from the blindness. Slowly her vision returned, and she saw that where the Holy Light had hit the miasma, it had disappeared.
+
+Within the large miasma cloud, there was a visible chunk that had been cleared away, leaving behind clean air. It even felt easier to breathe. No, not just easier to breathe, but even pleasant—like fresh spring air after a spring shower.
+
+It worked!
+
+It really did! Fascinating! Can you do it again?
+
+"Cleansing light, obey my will. Purge this blight and make it still!"
+
+[You've failed at mimicking the skill <Holy Light>.]
+
+She felt the unpleasant magical backlash hit her being, making her wince.
+
+Try again!
+
+Liora tried again, mimicking the words slowly and carefully.
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+It was a bit frustrating, using a skill in such a roundabout fashion. Not only was there no guarantee of it working, but the controllability of it was also questionable at best. She certainly couldn't control the Holy Light as precisely as she could her Air Slashes.
+
+This time, she made sure to close her eyes after firing the light so as not to blind herself. Opening her eyes, she saw that there was another spot cleared of miasma.
+
+However, the cleared area was small. If she wanted to make it through the thick clouds, she would need hundreds of Holy Lights. Yet her mana was almost spent.
+
+I'll never get through all this miasma at this rate.
+
+Perhaps if we could get Holy Light to an Adept level or higher, then you could get through it. But I suspect your Mimicry can only copy skills at their Basic level. I mean, it's still amazing, but not useful in this particular scenario. You should buy Holy Light once you have enough glimmerstones.
+
+No way! It is far too expensive.
+
+But you want that treasure, don't you?
+
+What's the point of treasure if I have to give up all my glimmerstones for it?
+
+Liora, you know that you need Holy Light, and you need it beyond the [Basic] level.
+
+320 glimmerstones is too much.
+
+Oh, stop being so stubborn already!
+
+As they had this internal fight among themselves, Liora completely failed to notice that something had seen her two Holy Lights and was slowly sneaking its way up to her.
+
+Only her superb magpie instinct made Liora dodge out of the way as a giant set of jaws snapped in the space where she had been just a second ago. She met with a pair of red eyes. She could feel the hot breath of the reptilian monster as its large, black body coiled behind it with astounding agility.
+
+She didn't need an introduction. This was, without a doubt, a rock wyrm. The very same thing that she had promised herself not to fight. But it was clear that the wyrm had made no such promises.

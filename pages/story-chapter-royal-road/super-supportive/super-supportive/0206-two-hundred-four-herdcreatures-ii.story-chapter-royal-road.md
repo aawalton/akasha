@@ -1,0 +1,369 @@
+---
+id: c9355bf8-484c-5019-a939-5b43ace2278f
+page-type-slug: story-chapter-royal-road
+title: "TWO HUNDRED FOUR: Herdcreatures II"
+slug: 0206-two-hundred-four-herdcreatures-ii
+partOf: super-supportive
+position: 206
+ownLength: 4686
+unit: words
+publishedAt: 2025-02-20
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2077959/two-hundred-four-herdcreatures-ii"
+royalRoadId: "2077959"
+---
+
+******
+
+204
+
+******
+
+Alden stood by the bokabv’s haunch, glancing between Stuart and the girl who’d just appeared. He waited for an introduction that was taking a long time to come. She was still petting the animal’s snout, but whatever she’d been casting with her other hand seemed to have been completed. The spell had no results that were obvious to him, unless magic was the reason that Stuart’s posture and face had both gone so stiff.
+
+He called her Noh-en. I remember that name.
+
+Alden wouldn’t have known her by her face alone, but he had seen her before. Noh-en had been there during the vision of the death ceremony that he’d been shown before he’d decided to keep his authority sense. She was one of the two children Rel-art’h had sent away at the start of it.
+
+Because she’d been crying.
+
+She wasn’t now. Her smile was small but unflinching in the face of the ever-lengthening silence. A short, thick braid in a dusty shade of purple was draped over one of her shoulders. She had round cheeks compared to most Artonans Alden had met, and on one of them, six dots were tattooed in a curve below her dark eye. He looked for eye rings, since that would be confirmation that she wasn’t a knight. He didn’t see them. But that might be because they were the same color as her iris, or she could have a preference for something other than implants.
+
+Her outfit offered no clues either. It wasn’t decorated with embroidery or studded with metal. A high-necked shirt was partially covered by a thick, wooly cape, and over her pants, she wore a long, skirt-like piece that split in the front from the belted waist all the way down to her ankles.
+
+The clothes were all in shades of gray and brown. Alden had time to analyze them and wonder about their significance because what had to be a full minute after her arrival and request for an introduction, nobody was talking.
+
+Stuart is broken. Should I introduce myself to help him out? I should introduce myself.
+
+“Hello,” he said. “I’m—”
+
+“Alden, this is Noh-en!” Stuart blurted. “She is…she’s a former classmate of mine.”
+
+Noh-en’s smile dropped.
+
+“And a neighbor,” said Stuart.
+
+Her eyebrows rose to what had to be their maximum height.
+
+“With whom I once shared <<happy youthfulness>>.” Stuart seemed to be taking in the eyebrows. “And she is a very worthy and respectable person who has chosen to follow the path of a votary. Her service will make the lives of all who know her closer to perfection. I believe.”
+
+Alden had never witnessed an introduction more loaded with unfathomable backstory in his life.
+
+Noh-en sighed through her nose. “You could have just told him my name and my role here, Stu-art’h. If you’re still angry with me.”
+
+“I’m not angry.” Stuart looked away from her toward Alden so quickly that it was obvious he was something even if angry wasn’t the right word.
+
+“You just suggested running into the forest to hide from all of us.”
+
+“Noh-en, this is Alden,” Stuart said in a voice that was calm enough, despite a blush that was growing more and more obvious. “He is an Avowed sworn to his planet’s Contract, and he has been commended for bravery in the absence of obligation by Hn’tyon Alis-art’h.”
+
+Noh-en nodded. “I have heard of your actions and will remember them.”
+
+“He’s also my guest at the siblinghold, recognized and welcomed by my family,” Stuart said. “We’re weaving a friendship.”
+
+She looked taken aback at that, but it only lasted a second before she hid it.
+
+“Welcome to the first Rapport, Alden,” she said. “And to our school. Would you like a cup a wevvi?”
+
+“He prefers real wevvi,” Stuart said before Alden could get a word out. “And we’re going to have some when we go back to my house. Very soon.”
+
+He’s being so weird right now. Alden tried to smile through his confusion. He won’t even refuse a beverage of welcome for himself when he hates it, but now he’s rejecting them for me? What am I supposed to do?
+
+“If your guest has demanding tastes, then of course we would be honored to meet them with our full hospitality, Stu-art’h.” Her pleasant tone was now too pleasant. “I’ll send one of the others to an orchard to climb to the most fruitful branch of the season and pluck the wevvi just for the two of you. Our traditional duties as new votaries aren’t that important, after all.”
+
+Stuart flinched. He opened his mouth.
+
+“I’m not thirsty!” Alden exclaimed. “I’m so full of grain tea, and so grateful to be at this beautiful school, that more welcome couldn’t possibly sweeten the morning.”
+
+Good, good. Interrupt whatever this is with poetry, he thought. Artonans like that.
+
+“I am so very full of tea that my stomach sloshes like…the ocean of my world did a few days ago after the spilling of a Sinker Sender.”
+
+He tried to back that mortifying simile up with a confident tone. If Kibby were here, she’d probably be worrying about the language capacities of his human brain. But it did make the other two look at him instead of escalating the multidimensional tension they seemed to have with each other.
+
+The looks were confused. Noh-en’s shifted to understanding first. She gave a small bow, hands clasped in front of her.
+
+“You rightly remind me that there is no place in our meeting for my childishness. You are a guest of Stu-art’h and honored by our Quaternary. I have heard of the recent difficulty on Anesidora. My welcome was not as focused on your comfort as it should have been.”
+
+“That’s all right.” Alden wondered if he’d actually conveyed some of that or if she was just really quick at glossing over awkward moments.
+
+Stuart was studying him again. “Were you trying to <<rebuke>> her? And me?”
+
+He sounded worried about it.
+
+“No. But I didn’t want some busy person to go pick a wevvi for me, and it’s hard to make up good comparisons quickly when my Artonan isn’t perfect.”
+
+Noh-en stepped toward him. “You spoke so well! I’m sorry. I won’t really send anyone to do that. It was exaggeration. Exaggeration is… ”
+
+She carefully described what exaggeration was and how it might be used by a person who was frustrated that her nice greeting had been met with rudeness that was surely accidental from Stuart.
+
+There were so many Artonan concepts, and things about this very conversation, that Alden would have liked for someone to talk him through; he was amused and exasperated to have her go into teaching mode for this. And maybe Stuart was attempting to keep the peace by not stepping in to say, “Humans exaggerate, too. He just compared his stomach contents to an ocean. He didn’t mean it literally, you know.”
+
+“Thank you,” Alden said when she’d finished. “I understand.”
+
+“I’m so glad I could explain!” She gestured to herself and then to the people who were spreading out across the grounds. They had split into groups of two or three. Most of them were still carrying their lights. “It’s traditional for students who have chosen to become votaries to walk the campus before sunrise and prepare the school in whatever way is needed. On days of rest like today, many of us who have already begun our education elsewhere return to show our always-readiness to serve the Rapport. And to receive instruction from any mentors who have come here for us.”
+
+So they’re all votaries. Taking care of campus chores that required magic and attending extra classes on their weekends did fit in with his understanding of their place…now that he knew they weren’t assassins. Though Noh-en had approached them invisibly.
+
+“Are you guarding campus?” he asked. “Is that why you were hiding from us?”
+
+“Yes. Why did you arrive so sneakily?” Stuart asked.
+
+“Maybe I did it so that you wouldn’t hide from me in the forest.” One of her eyes flicked toward Alden. “That isn’t important now. You are both welcome, but if you aren’t able to greet the others with warmth and pretend proper enthusiasm for your current position as Emban-art’h’s votary, Stu, tell me so. I’ll explain your rush to depart in a way that won’t press on their <<sensitivities>>. Alden’s presence will make it easy for all of us. Perhaps you had plans with him that can’t be interrupted. A guest traveling from far away—very far away—may need your time?”
+
+Stuart stiffened again. “I didn’t know that words about my service to Emban were flowing downstream from my own house.”
+
+“I had heard, but most hadn’t,” said Noh-en. “They were excited to see your name on the votary duty list. You’re on it for the next few mornings. It says you’ll maintain this bokabv’s environment, and Quinyeth will feed her.”
+
+I’m so much trouble, Alden thought. He just wanted to introduce me to an animal, and now he’s roped into all of this?
+
+He tried to shoot an apologetic look Stuart’s way, but Stuart’s eyes were on the bokabv. He was subjecting the creature to an expression of betrayal that she couldn’t possibly have deserved.
+
+The bokabv was too busy admiring her interesting stick to notice.
+
+Around them, the morning was quiet. Even the uppermost limbs of the trees, dark against the sky, weren’t being rustled by a breeze. Alden thought the damp, earthy smell in the air hadn’t been present before Stuart had cast his last spell on the soil. He shifted and looked down at his boots while he waited for something else to be said.
+
+This is complicated. He knew that much.
+
+Stuart was more hesitant to talk about the adolescents who lived in Rapport I than he was to discuss the LeafSong classmates he’d known for less than a year. Which spoke volumes about how sore the subject was, didn’t it? But he’d indicated that they were divided into those who excluded him because they or their families were worried about attachments that might end badly while they were dealing with their own first affixations, and those who he was avoiding because they wouldn’t stop trying to change his mind.
+
+Noh-en and some of these others must have been in that second group, right?
+
+They were happy Stuart was on the votary duty list. They were happy he was here…because on the surface it looked like he’d taken a step back from the thing they thought would kill him.
+
+And they probably cared about him a lot, actually. Alden could even imagine that being overprotective of him was something they were used to, just like his family. There must have been a day when a younger Stuart first showed up at school with them, and he would have been someone who still needed gentle treatment.
+
+Before his choosing season and the period of private consideration, he might have gravitated toward other children who thought they wanted to be votaries. Like him.
+
+And then he announced he wanted something they thought wasn’t even possible for him.
+
+Was it like he was rejecting them, too? Alden wondered, lifting his head and noticing two figures who were heading slowly across the lawn toward them. Only one had a light spell. They stopped, and he or she bent over to collect something from the ground. Were they scared and angry? Did they push too hard and make him explode?
+
+So many possibilities. He just didn’t know. But Noh-en seemed to be simultaneously happy to talk to Stuart and wary about what he might say to people who were, it seemed, not as good at rolling with the punches as she was.
+
+“I’m on the duty list,” Stuart said eventually. He sounded just a little distant. “Rel is so thorough.”
+
+At some point, Noh-en had started fussing with her wooly cape like adjusting the hang of it was very important. She stopped and let her hands fall. “A bokabv for a special learning day is new. I think the younger students will be excited to see it.”
+
+Stuart swallowed. “Quinyeth chose already?”
+
+Noh-en nodded. “She announced as soon as it wasn’t much too hasty for her to do it. There was never any doubt about her, was there?”
+
+“I thought…once or twice…who else?” He was turning his head, taking in the school grounds with a note in his voice that was a little sad.
+
+Yeah. It’s complicated.
+
+He wanted to run away from them, but he was curious about what choices they had made. He probably wanted to support them, but he wanted their support, too.
+
+Their whole lives revolved around one profound choice. They’d rejected his. And by rejecting it, they’d stripped him of the illusion that he was their equal.
+
+“Everyone told me how proud they were of the adult I was becoming. They treated me like nothing about me was delicate anymore. And it never occurred to me that they were being liars.” Stuart had said that about his family’s reaction. It must have applied here, too.
+
+But he could cut himself off from people he’d enjoyed happy youthfulness with easier than he could his parents, siblings, and cousins.
+
+“Stu,” Noh-en said, “many people have chosen since you were here last time. I can’t tell you all of them and all of their reasons now. Quinyeth is almost impossible to wound, but Gilor is coming with her.”
+
+“What’s he doing here?”
+
+She answered very quietly. “He’s been here often lately for someone as busy as he is. He lets me lead the school votaries even though he has <<seniority>>. I think as the age of <<closure>> approaches for him, he becomes less certain of his path.”
+
+What’s the age of closure? Who is Gilor? Why are there so many Artonan words for seniority? Alden kept the questions to himself because the two of them were both giving each other looks filled with meaning, and he didn’t want to get in the way.
+
+“Gilor’s not like you,” Noh-en said.
+
+“I know him well.”
+
+“He’s been proud of being a votary for years. This is just something that happens sometimes, and his cousin recently—”
+
+“Why do you treat me as if I can’t understand the most ordinary of troubles, Noh? You never did that before I made a choice you didn’t agree with.”
+
+They were both nearly whispering, but the lack of volume didn’t rob the words of their frustration.
+
+Noh-en bit her lower lip and blinked at him. “I didn’t intend to.”
+
+“I know Gilor-helk doesn’t truly want to be a knight. I know some people become regretful as the opportunity fades. I heard that his cousin lost her <<hoped-for one>>, and he probably thinks she would be comforted if he could be more to her than a votary. I understand the same things the rest of you understand about choosing, and I have contemplated them for years.”
+
+“Stu, I didn’t—”
+
+“I’ll greet him and Quinyeth, since they’re already waving toward us as they come. Then Alden and I will leave. Because…I also know I don’t pretend with perfection. And I don’t want to upset anyone here. You may say whatever you think is best about why I came early and left quickly.”
+
+He said the last part so decisively that Noh-en only nodded. Neither of them said another word until the two figures Alden had seen slowly making their way here finally reached them.
+
+They were both wearing the exact same outfit as Noh-en. One of them was only two or three inches shorter than Alden, with dark skin and hair that was gathered at the nape of their neck in a ponytail. The other was a smidge shorter than Stuart, with a medium skin tone and white hair that sprouted from the top of the clip that held it at the back. The hair sprout bounced around even more than the owner did as they directed a woven basket with a short pinkish wand. The overloaded basket was skimming a foot or so above the ground, occasionally spilling something that looked like trail mix with a bunch of pale yellow slugs added to it.
+
+And they probably were alien slugs, now that Alden saw the ones the taller Artonan was tossing toward the ground in front of the bokabv. They crawled around slowly.
+
+Which one is Quinyeth, and which is Gilor-helk?
+
+The taller one looked a little older in subtle ways. The shorter one had most of the food, and Alden thought they were female. But ever since the fiasco that was his assumption that Zeridee-und’h was a fussy old male butler, he’d been less confident when it came to the more difficult guesses.
+
+“Hello! Hello, Stu!” said the basket director as the wand in their hand drew an arc and line in the air. The basket flipped over and began to spread the slug mix in front of a very intrigued-looking bokabv.  “Is that…? He is! He is a human! I said it could be so, didn’t I, Gilor? When we spotted them from the stairs!”
+
+Quinyeth confirmed. Alden gave her a small wave, and she gave him a huge one with the hand that held the wand. The empty basket shot twenty yards to her right.
+
+“You did,” said Gilor-helk, both eyes on Alden, “but there was no reason for you to think it was so from that distance. I’ve never even seen a human in the Rapport.”
+
+Quinyeth hurried over to Alden and looked up into his eyes eagerly. “Green!” she said, her smile delighted.
+
+Stuart made a quick and quiet staccato sound that was basically an advanced version of uh-uh, and the girl glanced at him.
+
+“This is Alden,” said Stuart. “He is an Avowed sworn to his planet’s Contract, and…”
+
+He got through Alden’s introduction and introduced Gilor-helk as a votary much less painfully than it had gone with Noh-en earlier. But the second Stuart’s attention turned to Quinyeth, she decided to jump in and introduce herself.
+
+“Hi, Alden! I’m Quinyeth-wit. You may call me whatever is easy for your tongue. Welcome to our school. I’ll be happy to show you around campus. What is your language? I know a few words in many Earth languages.”
+
+“You do?” all three of the others asked.
+
+“English,” said Alden, surprised himself.
+
+She clapped her hands together once, then held them clasped in front of her. “I have a candle made from the wax of a bee, with a wick of cotton, and its fragrance is that of vanilla.”
+
+“That was five words of perfect English,” Alden said. “You said them very well.”
+
+“Thank you! The candle is in my room up the hill. Do you want to come see it?”
+
+“A candle?”
+
+“You may smell it as well.”
+
+“I…” It occurred to him that she might think a vanilla candle made of beeswax was special. He was trying to figure out how to refuse without implying that they weren’t, when Stuart stepped in.
+
+“You have chores, Quinyeth,” he said.
+
+“I did the main one.” She pointed one eye at the basket she’d just hurled aside and another at the bokabv. “You have chores, too, Stu. You were on the list! This looks like a lot of work.”
+
+She bent over and stuck a finger in the soil.
+
+Gilor-helk was crouching down to do the same. “Ah, Stu! You’ve already done it all, haven’t you? I was excited to help you with it…” He shook his head and stood again. “I did bring these for you.”
+
+Alden watched him pass Stuart a satchel. When Stuart opened it, a very recognizable wooly cape was visible on top.
+
+Alden tensed, but Stuart said nothing. One of his hands moved slowly to brush the cape.
+
+“Even if you’re only going to be with us for a small number of mornings, you deserve the clothing of your role,” Gilor-helk explained. He had a warm, buttery voice. Though there might have been a touch of uncertainty in it, it wasn’t strong enough for Alden to be sure he really heard it. “If you tell me when you’re coming, I’ll be here to walk down the stairs with you. Or back up them today, if you’re staying until the sun touches the daystart stone. I remember how you used to arrive early sometimes just to watch the <<procession>>, and you’ve never had the chance to join it yourself.”
+
+That’s because he chose something else, thought Alden.
+
+He wondered what Rel-art’h had be thinking, signing his brother up for this. Was it more about being practical and making sure the bokabv didn’t burden the school with its presence? Or was the whole point of it to make sure that Stuart was forced to deal with these people he’d once spent his days with?
+
+Hey, maybe it’s not about the votary thing at all. Maybe he’s trying to get Stuart to compare and contrast good Artonans his age with his inconvenient new friend.
+
+He hoped that wasn’t the main reason, but it could have been a part of it.
+
+“Gilor,” said Noh-en, “I think Stu and Alden have plans for today.”
+
+“We do,” said Stuart, closing the bag.
+
+The older Artonan’s smile stayed the same, but he slumped just a little. “I understand.”
+
+“But I haven’t finished the grass perfectly, yet,” Stuart said. “Another spell or two with your help might improve its growth.”
+
+He looked at Alden like he was trying to apologize with his eyes.
+
+[This is good if it’s what you think you should do,] Alden texted him. [I can wait. You already showed me a bokabv this morning.]
+
+Stuart nodded.
+
+Gilor-helk was already talking about some spell he’d learned at his university. Noh-en was getting in on the discussion. Quinyeth-wit was getting closer and closer to Alden like she planned to pick him up and carry him off.
+
+“Do you want me to go see your candle now?” he asked.
+
+Maybe Stuart could sort some things out if there wasn’t an alien weighing his conversation down.
+
+His own affixation would be easier if he had a few people who were on his side, Alden thought as he followed Quinyeth-wit toward the stairs. Maybe that was in the back of Rel-art’h’s mind, too.
+
+Alone…alone was hard.
+
+******
+
+******
+
+After a tour of her room, an introduction to her candle, and a discussion about vanilla, Quinyeth—who’d hinted that she wanted to have her surname dropped hard enough that Alden had finally realized it—took him upstairs to the tower that held the school library. Along the way, she told him everyone else’s business.
+
+She dealt not in terrible secrets of universal consequence, like Kibby and Stuart sometimes did, but in the everyday drama of Rapport I.
+
+On the one hand, Alden didn’t feel like he’d be arrested for knowing most of it, but on the other, if he ever met some of the people she mentioned, he’d be unable to look them in the face.
+
+“Should you be telling me these things?” he asked as they climbed what felt like the fifteenth staircase. This one was a winding, glass-walled one that curved around the outside of the library tower
+
+“Don’t you want to hear them?”
+
+That was not a yes. He was about to tell her he would prefer explanations of what every single enchanted item they passed was, when she said, “I wonder if it’s all right to take you up to the top library? You’re a little young, aren’t you?”
+
+“I’m sure I’m old enough for the top library,” he replied immediately.
+
+She was planning to leave him alone there, so that she could run back to the summonarium and greet the person who she wanted to be a personal votary for. Alden was hoping they were talking about a room full of books on magic that he could just browse for a few minutes. Because innocent curiosity was not a crime.
+
+“Humans age fast. And someone recently called me mature.”
+
+She leaped up two steps at once, her white hair sprout bouncing. “The top library is my favorite. Someone will already have put first meal out for anyone studying there. Have you eaten?”
+
+Other people will be there? His disappointment was immense. Can I change my library choice now?
+
+The door at the top of the staircase was already drawing aside for them. It led into a small room with dark wood floors. Its function was immediately clear. Lines of tablets on shelves, wands in cubbies, a few drawers labeled “rings”, paper, ink brushes—this was where you picked up your study and practice supplies. And food was indeed spread out on a sideboard, along with pots of wevvi and other drinks. It was simple. Just cups filled with something that strongly resembled the trail mix the bokabv had gotten for her meal, minus the slugs, and a fresh fruit selection.
+
+Quinyeth told him the trail mix could be eaten dry, or hot water could be added.
+
+Makes it more like cereal I guess.
+
+Alden took a cup because he hadn’t had anything but grain tea this morning. He shook some into his mouth while Quinyeth gave him a scattershot explanation of library rules.
+
+Oh, it’s salty.
+
+Salty, umami, and just a little sweet. Very crunchy. Not bad at all, though he could have done without the metallic aftertaste.
+
+Quinyeth left for the summonarium, and Alden took a minute to stare at the wands and open the drawers that held the rings. He wasn’t about to take anything and try it out, but he didn’t mind fantasizing that he could have found out what using a wand felt like if he’d had a guarantee that he was the only person in the library this morning.
+
+He ate another mouthful of the trail mix. A bite of something like bacon, but sour, took him by surprise. He examined the contents of the cup more carefully, trying to identify what that bite had been. And that was when he realized the trail mix was full of something that didn’t look right.
+
+He poured some of it out onto his palm and held it directly under a sconce light on the wall, squinting at it. The mix was full of inch-long crunchy brown things that he’d thought were crackers. They looked a lot like tiny dehydrated fish, though.
+
+Crackers shaped like fish? Because it’s cute or something?
+
+They even had a spot where an eyeball would have been. That wasn’t very cute, but Artonans could be weird.
+
+Alden ate one. It didn’t have the sour bacon taste. The fish cracker was more like the base of the trail mix—salty, umami, and a bad metal flavor that prevented it from being something he’d choose for himself on Earth.
+
+Umami’s a meaty flavor.
+
+He ate another.
+
+This tastes awfully meat-like.
+
+He held his hand up to the light again. He pinched one of the crackers in half.
+
+This thing has bone-looking stuff inside it. Nobody would make a cracker with a tiny skeleton hidden in it.
+
+Hey, gremlin. Wake up! Are you alive? Did you die?
+
+It gave him its attention.
+
+Can I eat this? Alden asked.
+
+Yes.
+
+Are you sure?
+
+Yes.
+
+He ate the one he’d just broken in half. Still sure?
+
+It was totally uninterested.
+
+He pictured himself drinking hot cocoa made with sinful cow milk. And he knew he couldn’t do it.
+
+What’s going on?
+
+Minutes and about two dozen taste tests later, another Artonan came up the staircase. It was a boy around Alden’s age who almost face-planted at the sight of a human in his library supply room.
+
+“Is this an aquatic animal?” Alden demanded, holding a fish cracker in front of the boy’s nose. “Or does it just look like one?”
+
+“How are you here?” the boy asked, both hands wrapped around his own long brown braid. “Who are you?”
+
+“Is this an animal?”
+
+“It’s yovkew. A swimmer.”
+
+<<A fish-like animal,>> the translation said. <<A food native to Artona I.>>
+
+******

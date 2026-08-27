@@ -1,0 +1,401 @@
+---
+id: 3cd652ac-7350-557a-b376-6186f8f2164e
+page-type-slug: story-chapter-royal-road
+title: "TWENTY-THREE: Funeral"
+slug: 0023-twenty-three-funeral
+partOf: super-supportive
+position: 23
+ownLength: 5020
+unit: words
+publishedAt: 2023-03-05
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1129594/twenty-three-funeral"
+royalRoadId: "1129594"
+---
+
+Hannah’s service was being held in the memorial garden at her old alma mater.
+
+Celena North University was in Apex, so Alden had to wear a lanyard with a large badge hanging from it that identified him as a minor and a non-Avowed. Ms. Zhao had called it the “double squishy combo.” It looked dorky, and it came with a button he could press in the event of an emergency.
+
+“Doesn’t really go with my tie.” He was trying to position the thing beneath the striped silk fabric so that it wouldn’t look so obvious.
+
+“Yeah.” Cly jabbed a straw at the frozen dregs of a smoothie as they stepped off the campus bus. “If it makes you feel better, plenty of Avowed have their own version of it. It’s just attached to our System IDs. It’s for prioritizing rescues.”
+
+Apex was the part of Anesidora where restrictions on power usage were heavily relaxed. High-ranking superhumans lived, work, learned, and experimented here. It wasn’t legal to punch holes in buildings or melt city streets, but it was understood that sometimes, the people who hung around on this part of the island were going to cause a minor catastrophe while they were figuring themselves out.
+
+Alden really hoped he could get into one of the schools here. Apex was where superheroes trained. There were a couple of different universities with hero programs in addition to Celena. And to get into any of them, it would be best…if not strictly necessary…to attend one of their affiliated preperatory high schools first.
+
+I have a stupidly huge amount of research to do when I get back home.
+
+On top of figuring out what his new skill did, he’d have to find a prep program that wouldn’t use a B-rank Rabbit’s application for toilet tissue. He seriously hoped one existed.
+
+Three months were going to pass by in a blink.
+
+“First we have to sit through the public service,” Cly was saying as they passed under an arch made of flowering vines and entered an open-air amphitheater.
+
+The seating was a series of grass-covered terraces. At the base was a concrete stage, backed by large granite memorial stones.
+
+A couple of people in shirts emblazoned with the university logo were down there doing mic checks. And a large group of teens and young adults were huddled up nearby. Alden thought they were musicians, since so many of them had instrument cases, but quite a few were carrying floral arrangements, too. They were all in uniform, wearing waistcoats over shirts with standing collars. Some were in monochromatic white and others in black.
+
+“Honestly, it’s going to be way too long,” Cly said, glancing down at the group. “And way too crowded. Hannah had a ton of friends. Plus there’s the freshman factor. We managed to control the number of speakers at least. We’re going for a celebration of her life, but it’s still a lot of sad to sit through. If you need to take a timeout, don’t feel bad about leaving to catch your breath.”
+
+Alden nodded. “What’s the freshman factor?”
+
+“There’s a hero school tradition. Freshmen at Celena North and first year students at the prep schools that feed into it are expected to attend services for alumni who die in the line of duty. It’s to honor the dead and impress upon the living the dangers of the work.”
+
+She pursed her lips. “They aren’t required to come to this one. Since Hannah went missing during a quest summons, it’s not the same as her dying during hero duties. But some of them are going to show up anyway. Half because they think it’s the right thing to do and half just because they want to see Hannah’s mother.”
+
+Hannah’s mother was publicly known as The Gloom.
+
+She was a London-based Sky Shaper who strategically modified weather systems for several countries in Europe. It wasn’t traditional hero work. It wasn’t even traditional Shaper work. It was more like hardcore atmospheric science plus some hush-hush spells she was rumored to have earned for extraordinary service on the Triplanets.
+
+The Gloom wasn’t famous for beating bad guys. As far as Alden knew, she’d never even been in combat. She was famous for being a hyperbole—the nickname given to S’s who had been rank upgraded by the System.
+
+It had happened to less than a hundred people so far.
+
+The first time, back in the seventies, the S-class in question had disappeared on a summons and then come back with a new rank. 1.
+
+Everyone assumed it meant the guy was literally the number one most powerful Avowed in the world. And he leaned into it, doing hundreds of interviews and commercials. So he looked pretty ridiculous when it happened again a few years later to another person, and they, too, were ranked 1.
+
+Apparently, once you got past S, the System was just done with letter grading.
+
+So far, rank-ups had only been assigned to S’s and a a few hundred more A’s and B’s. Most of them were Uniques instead of regular classes. It almost always happened immediately after a summons. They all claimed not to know why it had occurred.
+
+It was perfect fodder for conspiracy theories and speculation, and there was a lot of that.
+
+But Alden thought it was to be expected. Extreme outliers existed. There were always weirdos like Boe who somehow ended up with a 5.3 on a 4.0 grading scale.
+
+And it wasn’t like the handful of 1’s were going around doing things leagues beyond the best of the S’s. The Gloom was one of the better examples of someone operating at the limits of human ken, and she was a mild-mannered meteorologist.
+
+Who’d recently lost her daughter…
+
+“Nobody’s going to bother her today, right?” he asked.
+
+Cly shook her head. “No. It should be fine. Like I said, student attendance at alumni funerals is a tradition, so there are layers of ritual and rules piled on top of it. It can actually add a lot to the atmosphere. Like the art school kids down there…if the high school freshmen can stop arguing with the university freshmen then they’ll take care of music. The students who come from the combat program have their own thing, too.”
+
+She smiled. “And if someone doesn’t behave, I get to verbally eviscerate them. Which would be great stress relief. Oh, there’s Ilya. I need to talk to him. Find yourself a seat, and let me know if you need anything, okay?”
+
+The bottommost terraces were reserved for friends and family. Alden took a spot on the far edge, where he was shaded by an ornamental pear tree. It would be easy to leave from here if the Velra situation required it, and he’d hopefully avoid too much socializing.
+
+Keiko had sent him two updates so far, letting him know she had things under control.
+
+Alden didn’t have anything to do but wait for the service to get underway, so he started trying to train himself to use mental commands with the System interface. Post-kidnapping, it seemed more important than it had before. After fifteen minutes, he managed to make it bring up a preferences menu, but since he’d been trying to access the internet instead, that was a fail.
+
+Eyes aching from straining to see something that was really all in his head, he leaned back and shoved his hands into his pockets. It was getting too tempting to poke at the interface, and it would be conspicuous.
+
+People were starting to trickle in for the service.
+
+The group Cly had called “art school kids” seemed to have finally sorted themselves out. Alden hadn’t even known Celena North had an arts department, but he guessed it made sense. Some Avowed used their powers for entertainment. If you were a Vocal Brute, for example, it could be easier to get off-island jobs if you focused on opera instead of sonically shattering the bodies of evildoers.
+
+The musicians took up posts along the edges of each of the terraces and started tuning. The people with the flower arrangements were much more interesting to watch, since they were obviously using their powers. One guy seemed to be magically freshening them all up. Every member of the group brought him their arrangement. He briefly touched stems, leaves, and petals and suddenly the plants all looked minutely better.
+
+Alden wasn’t sure if he was a Shaper or an Adjuster, but it was a neat trick.
+
+A girl who was clearly a Water Shaper was going around strategically affixing droplets to some pieces so that they looked like they were bejeweled with dew.
+
+An entirely different set of students were in charge of carrying the flowers and positioning them around the amphitheater. There were six of them. They moved in pairs, and each pair was perfectly in synch. Their motions were unnaturally flawless and light. Maybe they were dance majors. They clearly had enhanced physicals of some kind.
+
+A pair of girls floated toward him like they were barely touching the grass and placed a white ikebana-style arrangement a few feet away on the terrace.
+
+The students from the hero courses were also arriving, though they were too far away for Alden to get a really good look at them They had military-style formal jackets and they were positioning themselves in a loose outward-facing ring around the exterior of the amphitheater. Like an honor guard.
+
+Other arrivals in slightly different jackets were taking up similar guard posts on the top terraces. Alden didn’t know if the difference in positioning had to do with age or rank, or if maybe they were from another program entirely. If there were artists in attendance, there had to be superhuman teens who wanted to be scientists and engineers here as well.
+
+I’m completely surrounded by Avowed.
+
+He would be one of them, too, once he affixed. But it might be hard to get used to the idea that almost everyone he encountered on a daily basis would have superpowers.
+
+Uneven.
+
+Alden jumped. Seriously. Again? What is it now?
+
+His creepy new sixth sense was tingling. It was faint, but unignorable. He looked around and saw a pale boy dressed all in black about six feet away. He had a severe expression on his face, and he was undoing the clasps on a harp case. He was going to be the musician for this terrace.
+
+Alden had noted him briefly among the art school teens earlier. Mostly because he looked like he was around ten years old. He’d thought at first he might be someone’s little brother, but he didn’t have the dorky lanyard, so he must have been an Avowed. One who’d yet to benefit from puberty.
+
+He was the uneven person.
+
+Alden stared at him for a little too long, and the harpist glanced over. “Hello,” he said in a morose voice. “Grandmother doesn’t like Keiko’s plan. She sent me to make sure you don’t run away before Hazel gets here.”
+
+What the fuck? Alden thought angrily.
+
+“You can run away if you want, though.” The boy almost sounded hopeful. “There’s loads of places to hide on campus. I’ll say I did my best but I couldn’t find you. I haven’t mastered any chains that would be good for a manhunt.”
+
+Alden wanted to chew him out, but instead he settled for hissing, “I’ve already promised I’d go through with it. Tell your crazy grandma to leave me alone!”
+
+The Velra sighed. “If I could boss her around, I wouldn’t be here. I was supposed to be going to the theater with my friends today.”
+
+He looked down at his own hands. “I bet the blowback from the gloss takes my fingers from me. I’ve thought about it a lot. It’s just the right level of consequence and cruelty. Even if it’s just a few… and it would make everyone but me happy, since they think focusing on music is wasteful.”
+
+“Uh…” said Alden.
+
+It was a little hard to berate someone who seemed to be dead serious about losing his fingers in the near future.
+
+“Anyway, I’m Lute.” He closed his eyes, moved his hands around each other in a slow swirling motion and started whispering.
+
+Alden recognized the hand gestures and cadence of a wordchain, though he could only pick out a couple of the actual Artonan words at this volume. He also had an unexpectedly strong sense of Lute’s accuracy…which wasn’t something he’d ever experienced in chaining classes at the consulate.
+
+He’d always thought it was a matter of hoping the chain linked you to an Opposite. But listening to the Velra boy chant, he was somehow sure that the link was forming.
+
+Even stranger was the fact that Lute himself was becoming slightly less uneven as the chain progressed.
+
+Holy shit, thought Alden, feeling enlightened. Is that what it means? Can I suddenly sense wordchain debt? How? Why?
+
+Presumably, Lute was doing something to make his playing better.
+
+If he’d already spoken a sacrifice half for this type of chain, then it would mean his current one was balancing that line in his ledger.
+
+Hey, gremlin me! Is that’s what’s going on?
+
+But all he got in reply was a vague lessening of his own discomfort.
+
+It made sense though. If the Velras were all walking around wearing superluck like armor, maybe that was why they were the only ones who felt off.
+
+Which meant feeding Gorgon some of his blood had given Alden something potentially useful. Maybe. If he could actually figure out how to apply it instead of just using it to gauge when someone had recently cast the first half of a strong wordchain.
+
+It can’t be that sensitive, or I’d be feeling imbalances from more people. Right?
+
+Many people used minor wordchains like the ones Alden had learned in class. Apparently he couldn’t detect those.
+
+Or maybe those little ones just don’t work often? Or they’re actually way harder to get right than I thought, and most people don’t do it correctly?
+
+If that was it, he had wasted a lot of hours chanting for no good reason.
+
+When Lute finished, Alden cleared his throat. “What was that chain for?”
+
+He wanted to ask how strong it was, but that question seemed odd to lead with.
+
+“For them,” said Lute, gesturing around the terraces at his fellow musicians. “It’s to increase their ability to harmonize. They’re going to be hopeless without it. That guy on the guitar…don’t get me started.”
+
+Lute plucked a few strings, and in response, an oboist at the back took up the melody. When Lute stopped, the oboist continued solo for a moment before a flutist joined in. Then the oboist quit, and the flutist had her own short solo before she was joined by the guitarist.
+
+Alden didn’t know anything about music, but the song was a soothing one. It felt appropriate for the event.
+
+Lute was watching the other students critically. “It’s fine,” he said at last. “Best we can hope for probably.”
+
+“Your chains can buff other people? Groups of other people?”
+
+There were healing chains specifically designed to be said on behalf of others, but Alden hadn’t realized other wordchains could work that way. He’d been shocked at the thought of the Gloss being cast on the whole Verla clan at once, but that seemed to be a Velra-specific thing. Aimi had said they could use their chains collectively. Being able to affect so many unrelated musicians had to be overpowered. And really expensive. How many hits to his own “ability to harmonize” had Lute taken in order for this to balance it back out?
+
+“Mass Bestowal is one of my S-rank skills,” said Lute.
+
+Somebody’s special.
+
+That put things in a different light.
+
+Tiny, moody harpist disenchanted with his family was one thing. S-rank casually using a buff ability Alden would kill for to make teenage musicians suck less was another animal entirely.
+
+And he’d said he had more than one skill.
+
+If that was how it was, it seemed safest to ignore Lute’s presence. Alden had to live on Anesidora for the rest of his life. He couldn’t go around annoying crazy powerful people just because they had horrible grandmas. He let the conversation die.
+
+The music continued to play while the amphitheater filled. Hannah really did have a lot of friends. Soon, Alden found himself offering to hold the ikebana arrangement to make room for more people on his terrace.
+
+He ended up crammed in beside the harp, with white flowers and dew-flecked twigs partially obstructing his view.
+
+The service started with an eloquent, but largely impersonal, speech from the dean of the hero college. He was followed by several people close to Hannah. They spoke about her passion for helping others, her dedication to her dreams, her kindness.
+
+There were pictures projected by an Adjuster who controlled light.
+
+It was a little overwhelming. And very inspiring.
+
+The hero Hannah had been supporting for the past few years—a middle-aged man based in Indonesia—talked at length about their work together. Her stabilization spells and her bubble had allowed him to use his own talents in new ways. He could rapidly heat and cool small areas, and Hannah had often protected civilians from the effects of the temperature shifts so that the power was useful in a wider variety of settings.
+
+He read aloud a few letters from people they had saved together. A couple of them were from kids, and many of those present were wiping at their eyes by the end of it.
+
+Alden spotted Cly Zhao, sitting front and center and weeping freely.
+
+He looked away from her and cast a glance toward the back of the amphitheater. Arjun Thomas was back there, almost hidden behind the ranks of uniformed students who had stood in perfect silence for the entire service.
+
+He looked stoic.
+
+Alden had never quite gotten a handle on what Arjun’s relationship with Hannah had become in the wake of the Body Drainer accident. Hannah spoke of him as a respected and trusted friend, but it was obvious they didn’t spend time together or talk much.
+
+Maybe hard feelings over something like that are just inevitable.
+
+Alden didn’t think it should be the case, but what did he know? He’d never torn somebody in half with his bare hands before…nor would he have to. Something like that had to mess with your head.
+
+At the end of the service, all of the Celena North hero program students and alumni recited the school’s pledge.
+
+Then The Gloom, dabbing at her eyes behind her glasses, took to the stage and thanked everyone for being a part of Hannah’s life.
+
+“Friendships meant so much to her,” she said. “And even the smallest kindnesses you gave her mean so very much to me.”
+
+Alden thought her eyes lingered on him, but maybe it was just his imagination. They’d never met before, and from the front, he must have looked like just a pair of legs sticking out from underneath a bunch of flowers.
+
+There was a moment of silence.
+
+When it was over, Lute spoke quietly over the sound of the crowd climbing to their feet and collecting their belongings. “Hazel’s just arrived. She’ll message you in a second. Last chance to escape. If you leave with everyone else, you can probably screw her over.”
+
+Alden looked at him over the top of a chrysanthemum.
+
+“You hate your cousin or something?”
+
+Lute’s grim expression soured further. He drummed his fingers on his harp case. Finally, he said, “She’s a very talented and hard-working person. She’ll probably go far in life.”
+
+“You have an unusual way of insulting people.”
+
+He shrugged. “Maybe I just like my fingers too much.”
+
+Alden’s interface flared. A text message scrolled by:
+
+[Hi, Alden! I’m here on a bench outside the amphitheater. We’ve only got about twenty minutes. Should I come to you, or do you want to come out here?]
+
+Alden stood and set the flowers down.
+
+“Sorry about your friend. Seems like she was cool,” said Lute. “See you around.”
+
+Alden dearly hoped he didn’t see much of any of the Velras after today.
+
+He blended into the crowd, careful to avoid Cly’s eyes, and passed under one of the floral arches.
+
+[To your left. Behind the rose trellis.]
+
+Alden went behind the trellis and found the mysterious Hazel sitting on a concrete bench.
+
+She looked normal. He didn’t know why that surprised him.
+
+She had shoulder-length brown hair and brown eyes, and she was pretty in a well-kept kind of way. Her black dress fit her like it had been made for her. Her teeth were probably on a poster in some orthodontist’s office.
+
+“Hi!” she said, smiling brightly. “I’m glad to meet you. Seriously glad. I’ve been so stressed out for the past few months. Can we just trade fast, or do you need to read over the contract? I’m sending it to you now. It’s a few pages, so you’ll have to speed read.”
+
+Alden was definitely going to read the whole thing.
+
+He sat down beside her and scrolled through page after page. He did go fast, out of consideration for the fact that he and Hazel would both be sitting on classes they didn’t want in a few minutes if he didn’t. But, fortunately, the language was plain enough that he didn’t think he was missing anything critical.
+
+Hazel fidgeted beside him the whole time, her heels crunching against the gravel beneath the bench.
+
+“You’re giving me one and a half million Argold,” Alden said, trying to sound not freaked out by the number.
+
+“Is that enough?” she asked quickly. “It’s the usual amount for a rare S-rank trade. It’s what they gave the person Lute traded with. He’ll tell you. Keiko said we had to give you more than usual for B because Aimi was unprofessional. I can ask grandmother for more.”
+
+It was nearly five million dollars. Boe was going to lose his mind. “It’s fine.”
+
+“So we can trade now?”
+
+He frowned at her. “Let me finish.”
+
+The last two pages weren’t actually contract at all. It was a list of wordchains. Four sets with both the sacrificer’s and the recipient’s portion written out phonetically. Video examples were included. Alden hadn't heard of these chains before, and he wondered if  they were ones you couldn’t usually learn unless you were in good with the Artonans.
+
+So I’m getting them whether I want them or not…
+
+It wasn’t like he could throw them away. Did the System even have a permanent delete feature?
+
+“Was Lute awful to you?” Hazel said suddenly. Alden noted she’d nearly picked all the polish off one of her fingernails.
+
+“It wasn’t okay for your grandmother to install a spy at a funeral. Even if he is a student at one of the schools.”
+
+“He’s been an arrogant brat to everyone ever since he got S.”
+
+Way to ignore what I said.
+
+“Let me finish reading.”
+
+He was already finished. He just wanted a second to think. The contract seemed fine. Good in fact. Better than what he’d asked for. There was even an NDA signed by around two dozen Velras that said they wouldn’t discuss any of today’s events.
+
+Alden didn’t have any way of telling if that included all of the people who knew about him, but it was something.
+
+This is pretty great for me. Except for the whole scary-lady-thinking-the-universe-wants-us-to-be-besties thing. Alden scratched at the side of his nose. And I don’t really like Hazel.
+
+It was hard to put his finger on why. It wasn’t like she’d said or done anything horrible in the past few minutes. Actually, compared to every other member of the family he’d met today, she came across as kind of bland.
+
+And as far as he could tell, she wasn’t uneven. Which might make sense if the Velra Gloss could only be applied to the Avowed family members…
+
+So Hazel getting Chainer is just straight-up lucky for the entire family?
+
+“Everyone says you’re a prodigy,” Alden noted.
+
+She lit up. “I have highly attuned senses for certain kinds of magic! It means I can monitor a wordchain’s strength and repercussions better than other people. So when I get Chainer, the boost from that on top of my natural talent will put me a step ahead of the others.”
+
+“That’s interesting.”
+
+He felt like it was a neutral thing to say, but Hazel’s smile broadened. Apparently she was eager to share more on the subject.
+
+“To tell you the truth, right now I can barely stand to be around my own family. The Gloss is such a strong chain that it gives me this buzzing in my head every time I’m near one of them. It’s strange to me that other people can’t hear it. Even other Chainers! Some of the older family members can detect chains if they try, but they’re not so aware of it that it bothers them.”
+
+She laughed lightly and tucked her hair behind her ear. “I bet you think I’m crazy, don’t you? To want to be even better at something that annoys me. But everyone thinks I’ll be able to achieve great things with it.”
+
+Alden filed that information away, trying not to react. Was the same thing going on with him? It sounded similar but not identical. Either way, it was nice to have confirmation that it might be useful.
+
+“So…um…are you done reading?” Hazel asked.
+
+“Hm? Oh, yeah. Let’s trade.”
+
+He drew his signature in the air with his fingertip, and the contract was finalized.
+
+She sighed with relief. “Great. I’ll initiate.”
+
+Half a second later, Alden received the notification.
+
+[Hazel Dinah Velra has requested a class trade. Hazel Dinah Velra is an authorized witness. You have been vouched for by an authorized witness. Negotiations are approved.]
+
+[TRADE CHAINER CLASS FOR RABBIT CLASS?]
+
+YES/NO
+
+Yeah. Hazel being able to witness her own trades is a loophole the size of the planet.
+
+Alden was  sure a lot of legit witnesses would find the Velras’ use of the gloss to be a step too far. It wasn’t like they were forcing him, but having your life realigned so that you landed exactly where they needed you to…so sketchy.
+
+He did want to buy what they were selling, though.
+
+He clicked yes.
+
+[Both selectees have confirmed the trade. Both selectees have been vouched for by an authorized witness. Please wait. Your class is being reassigned.]
+
+Alden stood up, feeling lighter than he had in days. He had worries about Rabbit, but it was freeing not to be stuck in limbo, waiting to find out what class he’d finally end up with.
+
+“You’re leaving?” Hazel sounded surprised.
+
+“I have to get back. Why? We don’t need to stay together for the class to be reassigned right?”
+
+It had taken a couple of minutes last time. He didn’t want to hang out with her if he didn’t have to.
+
+“No…but I’m going to affix it as soon as I get it. Because of the timer.”
+
+“Makes sense. Good luck. I hope it works out great for you.”
+
+He turned and left.
+
+He was already back inside the amphitheater, heading down toward the group of Hannah’s friends who were mingling by the granite memorial stones, when he realized Hazel had actually expected him to stick around for her affixation.
+
+I guess it is an important moment?
+
+Andrzej had said he was going to do it at a party his family was planning.
+
+But it’s not like we even know each other. And some of her relatives have to be lurking around campus somewhere…
+
+Alden wouldn’t be surprised if there were thirty Velras hiding in the bushes, waiting to jump him if he reneged on the deal.
+
+He put it out of his mind.
+
+Now that all of the students and many of the other attendees had left, it was time for the private part of the event. Alden hovered at the edge of the group, not really sure he belonged here, while everyone spoke quietly and watched as Hannah’s name was carved into the memorial as if by invisible fingers.
+
+Alden didn’t know if the magic was a feature of the stones themselves or if there was a hidden spellcaster.
+
+When the class re-assignment notice popped up, he swiped it away and kept watching in silence.
+
+It took several minutes and there was something both terrible and cathartic about seeing the letters inscribe themselves one by one. The Gloom was shaking with silent tears.
+
+When it was over, Alden wondered if he should try to make a quick getaway. Cly Zhao didn’t look like she was in any condition to babysit him on the way back to the Teleportation Complex like she’d planned to do.
+
+And the chances of him being clobbered by some out of control superhuman on his way out of Apex were probably small.
+
+But as he started to quietly sneak away, he felt a hand on his shoulder. It was Hannah’s mother. She really did look a lot like her daughter.
+
+“You’re Alden.”
+
+It wasn’t a question, but Alden nodded anyway.
+
+“Your forgiveness removed a heavy burden from Hannah’s shoulders,” she told him. “I’ll never forget that.”
+
+A few people were surreptitiously watching them. Alden felt his face heating. It was only half embarrassment. The rest was nerves. He didn’t want to say the wrong thing at a moment like this.
+
+“I don’t feel like there was anything to forgive. Hannah was…I look up to her.”
+
+He’d almost said she was the kind of hero he wanted to be, but he didn’t want to out himself here and now.
+
+“I miss her,” said The Gloom.
+
+There was such a simple, aching pain in the words. It made Alden’s breath stop.
+
+“Yeah.” His eyes were stinging. Damn, I can’t. It felt too selfish to cry in front of Hannah’s family, so he tried to rein it in. “I miss her, too.”

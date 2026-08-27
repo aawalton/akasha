@@ -1,0 +1,105 @@
+---
+id: 87ca28da-9c0c-520a-ad81-c7a4f2231629
+page-type-slug: story-chapter-royal-road
+title: "167.1. Who's There?"
+slug: 0021-1671-whos-there
+partOf: salvos
+position: 21
+ownLength: 1055
+unit: words
+publishedAt: 2021-08-17
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/735267/1671-whos-there"
+royalRoadId: "735267"
+---
+
+167.1. Who's There?
+
+An army encroached on Vamont. It came not from another Human country, but from the Motharis Mountain Range. Monsters of all kinds filled this giant horde. I recognized and fought many of them such as the Drakes and the Saeves. But they weren’t all that came.
+
+Silver Rank monsters, Gold Rank monsters, and even Platinum Rank monsters. Monsters of all shapes and sizes. It was as if all of Motharis itself decided to descend from the tall peaks to trample over the weak Humans lying in wait below.
+
+“There has to be tens of thousands of them…”
+
+Daniel spoke, breathless. I glanced over at him, before turning back to the impending army. Both of us have seen this sight before; we had encountered many of them on the way to the Brilsum Ruins Dungeon, when we first sought out a Fairy Temple over a year ago now. They were natural inhabitants of the vast mountain range.
+
+But when we arrived at the Brilsum Ruins, we found a nest of Mindreapers leading the monsters of Motharis, all controlled by an Archdemon by the name of Belzu. There were dozens of Mindreapers then, leading a small army of hundreds. Now, however, their numbers have grown to an exorbitant amount.
+
+It looked like there were more monsters than people in the city. Most of them were smaller, Silver Rank monsters. But there had to be thousands of Gold Ranked monsters mixed amongst them. Maybe even more.
+
+And the Mindreapers that were herding them? Hundreds.
+
+Hundreds of Platinum Ranked threats. Each one, on their own, would be able to bring down a town on the outskirts of Nixa. I was pretty sure a single Mindreaper would be able to do more damage than Lucerna, even if they weren’t nearly as durable as him.
+
+They were coming for Vamont. The city was in lockdown, preparing for a siege. They had archers lining the battlements— those above Level 40 already had their bows drawn, raining fire at the army so far away. But they must have only numbered in the bare hundred. Maybe even less.
+
+“It’s pointless. Vamont will be destroyed.”
+
+Edithe whispered, her hands tightening to balls. I met her gaze.
+
+“So, do we leave?”
+
+My companion narrowed her eyes.
+
+“Leave?”
+
+“Yep. Those are a lot of monsters. I don’t think I’ve ever seen that many monsters in my life! We should run away, right?”
+
+“I…”
+
+She hesitated. Daniel clicked his tongue and shook his head.
+
+“No, we can’t just leave Vamont.”
+
+He spoke with finality in his voice.
+
+“We have to help evacuate the city. We can’t just leave these people to die.”
+
+Sure enough, I craned my neck and saw the streets were packed. An evacuation order had been called. Word was spreading of this monster army, and everyone wanted to leave now. City guards were rounding up the terrified citizens with the help of volunteering adventurers.
+
+But there were no orderly lines. A stampede was slowly forming as the march of the monsters drummed closer to Vamont. [Mages] have joined the [Archers] in targeting the monster army from afar, but the monsters were now firing back as well. The wall shook and rumbled with each hit, which struck more fear into the evacuating populace than before.
+
+The only reason why the crenellations didn’t just collapse was because of the [Barrier Mages] deflecting the attacks.
+
+I scowled at Daniel’s declaration.
+
+“Oh, so now you’re trying to be brave.”
+
+He ignored my comment, and Edithe nodded. She took a swig of a potion before handing it to Daniel. With that drink, the pair shook off the last of the alcohol within their system and resolved themselves.
+
+“We fight.”
+
+They spoke at the same time. They were resolved to do it, whether or not I stayed. I could have left if I wanted to. They wouldn’t force me to do anything— they couldn’t force me to do anything, if I didn’t want to do it. Especially something as incredibly stupid as this.
+
+I stared at them. Then I grinned.
+
+“And you guys call me the reckless one.”
+
+Edithe and Daniel exchanged a glance. The red-haired woman was the one to speak.
+
+“Are you sure about this, Salvos? You don’t—”
+
+“I know, I know. But I can’t just abandon either of you. So, I’m staying.”
+
+It was the same thing with Haec. It was the same thing with them. I looked over past the walls at the army of monsters. These poor creatures had no say in what they were doing. Mind magic, illusion magic, and curses drove them to destroy this city. It was unfair to them. But it was us or them.
+
+I chose me, of course.
+
+The three of us marched up to the guard captain as she shouted orders at those on the walls. She was directing supporting adventurers to various different parts of the city, preparing for a battle within these streets. They knew they were going to die.
+
+“Guard captain!”
+
+Edithe stopped before the rough woman. She was a Level 72 [Warrior], wearing scars on her face. Probably one of the highest leveled individuals in the city— besides us, of course. She definitely could see Edithe’s level. And when she glanced over at me and Daniel, she straightened.
+
+“Adventurers. Diamond Ranks, I presume?”
+
+“Yes. Look, there’s no time for formalities. Tell us how we can help.”
+
+Daniel stepped forward, nodding. The guard captain grunted.
+
+“You’re a [Warrior], right? If you can take hits, I need you to position yourself by the gates, for when it falls. Hold the tide of monsters with the other [Warriors]. And you two [Mages], if you’re able to use long-range spells, we need you up here for as long as possible. We can’t let the walls fall.”
+
+“Got it.”
+
+Edithe immediately took her place on the crenellation, at the very fore, and began casting spells that eclipsed the magic of everything within the vicinity. Her [Storm of Ice and Fire] raged on in the distance, sweeping monsters off their feet, ripping apart the very front lines of the oncoming army. There were gasps and stares as [Archers] and [Mages] couldn’t help but look her way. The guard captain snapped, drawing their attention.
+
+“Don’t let up! We need to hold them off until the city is fully evacuated!”

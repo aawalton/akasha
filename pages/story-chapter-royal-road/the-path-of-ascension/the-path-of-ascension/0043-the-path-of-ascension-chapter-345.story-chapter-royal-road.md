@@ -1,0 +1,309 @@
+---
+id: f9dfd241-3bb2-52d2-abd3-44ff17ea6653
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 345"
+slug: 0043-the-path-of-ascension-chapter-345
+partOf: the-path-of-ascension
+position: 43
+ownLength: 6350
+unit: words
+ownProgress: 6350
+publishedAt: 2024-08-26
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1775511/the-path-of-ascension-chapter-345"
+royalRoadId: "1775511"
+markedReadAt: "2026-06-29T19:18:59.825Z"
+---
+
+Chapter 345
+
+Matt, Liz, and Aster let the crowd chatter for a few moments, just long enough that the lower Tiers watching could fully process the information. However, that was more than long enough for the higher Tiers to look at him like they wanted to turn him upside down and shake the answer out of him at the delay.
+
+“So soon?” Sciath hEachaidh, scion of the second strongest draconic noble family, called out with clear disbelief in her voice.
+
+Matt took the time to nod to acknowledge her comment and noted that she had advanced all the way to Tier 26 since he had seen her last.
+
+It took Matt aback to hear a decade referred to as ‘soon’, but he was still getting used to immortal timeframes being measured in centuries.
+
+“The product needs a little more refining before I’m happy to publish our findings, but the Emperor has already given us the ok to release the information.”
+
+“Will you be giving us the method to make it?”
+
+Kiri Winiata was a shorter woman standing only five eight, but her presence was amplified by her dark skin covered in multicolored tattoos that slithered across any exposed flesh. It fit her snake bloodline and her reported Talent of being able to materialize her drawings into reality. From what he remembered about her from their coming of age party, she was polite and quiet. But more importantly, her family was one of the few who dabbled in aperology and were well regarded by Rusty.
+
+They were one of the main powers he wanted to pull onto his side with this maneuver, so he was happy to answer the question.
+
+“The critical resource is a unique mana type we have access to, and the Emperor has stated that the Imperial government will be the ones to control the mana type until a price has been established with the other Great Powers. Once that has been settled, it will be released for copying along with the instructions of how to create said rifts. Said negotiations are estimated to be finished before the end of the decade, but if they aren’t, the mana type will be made available to your respective Kings so that the rifts can still be spread. Even if it would be slower than what we would all desire.”
+
+Kiri nodded silently in response, but Matt didn’t miss the look her fathers shared at the news. If Matt wasn’t way off the mark, he had the Winiata house interested.
+
+Now, it was just time to reel them in. “I understand that this will be disruptive to collective interests, but I have no intention of profiting off this discovery. Titan’s Torch is not, and will never be a guild seeking a profit. Anything we develop or discover will be made available to the open market for those interested and capable to do the producing. As for the aura rifts, if you wish to take advantage of them, you are free to do so to the extent you find most suitable. I’m sure you all have a low Tier world or ten that you can set up aura rifts in if you wish to create a local farm, or you may spread them throughout your fiefs. More importantly, Titan’s Torch has other products coming in the coming decades. I might not be Talented in aperology, but I have a knack for it.”
+
+Letting an easy smile spread across his face, Matt continued after he was sure he had everyone's rapt attention. “As for a hint of our upcoming products, we have a semi reliable way to make rifts produce growth items.”
+
+That caused another small uproar in the crowd, but before it could grow too much, Matt added, “It's not as developed or as refined as I would like it to be as it requires the rift to be full to function properly, so there is no date on the release. But once we finish the aura rifts, that will be our highest priority.”
+
+Marco Winiata spoke up even as the barons, who controlled the lowest Tier worlds, were still processing the fact they were the ones in the best position to take advantage of the aura rifts. Let alone the idea of rifts that regularly produced growth items. “You came up with the aura rifts yourself? Are you looking for assistance and collaborators, or do you prefer to work alone?”
+
+“I was one of the leads in the project, but I had help from a higher Tier assistant. Aperology is a personal passion of mine, but I’m in no way an expert. Anyone who wishes to assist in aperology or a few other projects targeted at mortals are welcome to look at the guild, our mission statement, our contracts, and apply if you find it aligns with your own desires or ambitions.”
+
+Marco nodded before stepping back, whispering to his husband and daughter even as he opened the floor to other questions.
+
+Before anyone else could speak, Matt said, “I’m more than happy to chat more with anyone who desires to talk in the Altro room, but I think we have taken up enough time of the uninterested as it is.”
+
+Only a portion of the crowd shifted to the side room, but that was still millions, as everyone else moved forward to try and chat with Aster, Liz, or split off and moved to mingle with the various other guests.
+
+Matt did notice that he had almost all of the guild leaders and corporation directors moving to follow him, and he resisted sighing.
+
+Most of them looked affable and chatted amiably with their fellows, but a few didn’t bother with such pretenses and openly scowled. Matt made note of them, but knew the truly dangerous players were the ones smiling and pretending they were happy at the announcement. The issue was that most of the people here would be more than happy at the abundance of aura rifts, making it impossible to distinguish the two.
+
+This was the start of Matt’s guild in a very real sense. If he could secure the assistance of most of the people here, he could solidify his guild’s standing and make their next centuries far easier. If he messed up and pissed these people off, he’d have an uphill battle even before he ran into those whose interests he really wanted to bulldoze.
+
+As he reached the center of the room, Matt took note of how the edges of the room expanded as the hall stretched to contain the multitudes flooding in behind him.
+
+The first to address him wasn’t one of the Winiatas, but instead was an older looking man with gray-streaked dark blue hair.
+
+He stepped forward and proffered a hand, and Matt had to force himself to not to punch the man in the nose. It wouldn’t have done anything productive, the man was Tier 46, but it would have made Matt feel better.
+
+Cooper of Illvos was old. He had reached his Tier at least three hundred thousand years ago, but rumors said he was far far older than that. He had been a fairly unremarkable figure when Agatha took over the Empire a little more than sixty thousand years ago, but he had taken her economic shakeup by storm. He was strong enough and positioned well enough to be the first one to take advantage of the increase in economic freedoms for non-nobility.
+
+He had created a high Tier guild and in less than a thousand years and produced dozens of runes based on rarer, but still useful, skills, which brought the guild immense wealth. Instead of being happy with what he had, Cooper had spent his wealth setting up feeder guilds all based around runes. Then he started buying out, crushing, or absorbing all of his competition into a group of allied and contractually bound guilds. His guild was officially just another member, albeit a core member, but he was the undisputed leader of the Hasabar League.
+
+The Burning Hearts guild, the guild which had tried to monopolize the [Bandage] rune during Matt’s Tier 10 Pather tournament, was a peripheral member of the league, even if he hadn’t known that at the time. Not that Matt would have done anything different even knowing they were backed by a super conglomerate of guilds.
+
+It was a bit of an open secret that Coopers league had access to runes that didn’t exist outside the guild, which were kept to those who paid exorbitant fees, or those who subordinated themselves to the guild.
+
+Some of the rumors could only be that. A healing rune that could revive the dead couldn’t exist, but it wasn’t impossible that the guild had a life saving rune of unheard of potency. The same went for the rune that created mana instead of spending it. Essence might be an unlimited power source, but mana was very much not.
+
+The rumors about their catalog were as long as the guild was old.
+
+The Hasabar League had been on a path of consolidation that seemed unstoppable until just a little while ago in fact. Thanks to a dispute with Tur’stal’s predecessor they had slowed or stopped their outward expansion to almost nothing. Despite that, the League was still one of the largest guild coalitions in the Empire, and probably the wealthiest if even half of the metrics Cato had gathered for him were accurate. As for the outcome of the fight, no one was sure, and even with Matt’s access Cato hadn’t been able to find anything definitive out.
+
+He planned to ask Tur’stal during the Emperor’s open court, but he thought he had a good idea what had happened. Or rather, Cato had a good idea that he agreed with. His seneschal, and most information brokers, suspected Georgios had allowed the kingdom and the Hasabar League to fight it out long enough to weaken both of them, before stepping in and picking up the pieces while forcing all sides to play nice.
+
+Matt knew it wasn’t fair, but from his Folded Reflection life where he was Georgios’ prisoner, he believed the man was willing to do exactly that. He wanted to dislike the maneuver, but letting one's opponents weaken each other was the second or third lesson taught to any prospective businessman or noble, and he couldn’t fault the strategy. He just had a dislike of anything Georgios was involved in, even if it wasn’t fair or truly logical.
+
+Pulling himself out of his musings, Matt took Cooper’s hand and shook it.
+
+The man laughed a big and boisterous laugh. “It's nice to meet you guild leader.” He winked at Matt like they were old friends. “A title which is easy to get but hard to earn. Though today, I’d say you earned it with flying colors. A truly magnificent display. Aura rifts. Truly a wonder. I had an entire guild dedicated to aperology forty or so thousand years ago. Agatha asked us to look into it, but it was a losing proposition. I think we spent a few trillion mana with hardly anything to show for it. In the end, we concluded it was just better to find a Talented person and have them do what you want. I’m impressed that you managed to make headway in that field.”
+
+Matt took a moment to study the higher Tier man and didn’t bother to hide it. It was probably an eternity at a Tier 46 perception speed, but he didn’t rush.
+
+Cooper seemed perfectly sincere, and if Matt was just meeting him for the first time without knowing his history, he would undoubtedly be taken in by his charming smile and genuine compliments. He was on guard, but he also knew he couldn’t throw away all pretenses of civility, even if that was where they would undoubtedly end up.
+
+There was always the chance the man truly was sincere, and Matt’s information and biases were wrong. That was about as unlikely as him Tiering up a dozen times in a row via inspiration and creating his own Authority right here and now, but it was possible.
+
+“Thank you. It's a bit of a hobby of mine. And I can’t claim any real credit. Most of my progress was thanks to a few unique mana types I got my hands on. I’m sure we did little but reinvent the wheel otherwise. I had no access to aperology information and therefore had to learn a lot on my own.”
+
+“Ah, so it was before you completed the Path then. That’s even more impressive.”
+
+Matt hadn’t meant to reveal the timeline. It wasn’t necessarily a secret, but the older man's perceptiveness was a harsh reminder that he needed to be on his guard while swimming in these waters.
+
+“Astute observation, but yes. I found myself with a touch of freetime after the vassal war and on a planet with practically nobody there. Flush with my winnings and with a few handmade formation plates, I started experimenting in an effort to change up the rifts we were delving day after day. The rest, as they say, is history.”
+
+Cooper laughed, but they were interrupted by the Winiatas approaching together. Marco’s husband, Elliot, spoke with a deep voice that rumbled Matt’s chest. “It’s where my own aperology ambitions started. I was Tier 6—”
+
+“Tier 7.” Marco corrected with an indulgent smile.
+
+“Tier 7, flush with the inheritance of my ascending grandfather and had little more than that when I started researching aperology. It's the truest science. Everything in cultivation revolves around rifts. We delve them, they convert mana to essence and create wonders for us. I only wish we could have created something of such magnitude. Aura rifts are a magnum opus, but yet you start with it. Not that I can complain about what it's brought me. It's how I met Marco, after all.”
+
+Kiri spoke up the moment her father paused. “I don’t suppose you are willing to enter into a mutually beneficial research agreement?”
+
+Every eye in the room refocused on Matt as Kiri asked what they were all thinking.
+
+Matt chose his words carefully. “I’m more than willing to have help, but the purpose of my guild is first and foremost a charity. Unless the Emperor decides something can’t be shared, I intend to share our discoveries, and my intention is for low Tier inventions, preferably Tier 5 and below, so there won’t be too much value in those inventions. Better to just release it for other people to make and use.”
+
+There was a wave of grumbles that rippled through the room as everyone imagined themselves getting access to the things his guild might create and using them to claw ahead of their peers.
+
+What Matt didn’t understand was the viscounts and barons who shared that expression. They would be the last ones to experience any economic benefits from something like Aura rifts without him making it available to everyone.
+
+It would be expensive, but the dukes, marquess, and counts could afford both the price of such a discovery, and the price of keeping a low Tier rift on a higher Tier world. The lower nobility might eventually afford the secret, but they wouldn’t be the ones to benefit. They had to know that. They were immortals with centuries of experience. But the expression that said they wished the invention wasn’t given away for free was almost universal.
+
+Cooper clapped Matt on the shoulder with a smile. “A laudable goal. Truly an exemplar of what the Empire should stand for. Come to my guild some time, guild leader Moore. I’d be happy to share what little we did learn in our stint of aperology, in the name of helping the lower Tiers. Clearly the research would do more good in your hands than in our vaults gathering dust.”
+
+Matt wanted to say the man leered and tried to imply some threat, but the offer, made in front of so many people, had to be genuine, or the hit to Cooper's reputation would be massive. There also wasn’t any attempt at coercion or to rope Matt into the Hasabar league, which was something he and Cato had planned for.
+
+Cooper moved to the side and started chatting with a couple of corporation leaders, one of which Matt recognized from a small, but well known alchemy corporation for Tier 45 and 46 delvers. They didn’t deal with mass production, or even large scale production, instead making custom made potions. But that didn’t change the fact they were incredibly wealthy and well connected, as evidenced by them talking to Cooper as equals.
+
+Matt’s attention was pulled back to the Winiatas as Kiri smiled and bowed slightly. “We shall take our leave, but I’m sure that the moment my fathers are free of their ducal duties they will be pounding at your guild's door.” As she straightened, her smile turned rueful. “A shame I’ve already been conferred as the next duchess, or I'd be there as well. I’ve been inundated from a young age with the science and have cultivated a love for it.”
+
+Matt let a genuine spread smile across his face knowing it would probably be the last one he smiled for the rest of the party. “While most of our efforts will be on low Tier rifts, you are welcome to come by anytime you are in the region if you have some free time from delving.”
+
+After Kiri and her fathers left, Matt was nearly crushed as the dukes with lesser standings than the Winiatas competed with guilds and corporations to reach him first.
+
+Through it all Matt smiled, shook hands and repeated himself over and over.
+
+No, he wasn’t going to be the one to control who got an Aura rift first. No, he didn’t have the time to set up an aura rift on their planet personally. Yes, he expected more aperology inventions to come in the following years, just as he said with the growth rifts. No, he wouldn’t be restricting the guilds or corporations from using this knowledge. Yes, his guild would be one of the ones looking into travel mana.
+
+That last one surprised him, as the Marchioness who brought up Zack's new mana type shouldn’t have known about it this early.
+
+It wasn’t a secret; the mana type had been used in the war, so samples were out there, but as far as Matt knew there weren’t any non-military institutions that had been given access to the mana type so soon. From what he understood, it was one of the things that the Emperor was going to announce during his open court.
+
+After Marchioness Flora mentioned it, it sparked a firestorm as one guest whispered what little they know about it.
+
+Hearing a dozen wrong things being mentioned, Matt raised his voice wanting to squash the number of ludicrous things he was hearing. “Ascender Light was kind enough to donate the mana type to the Empire. And while I won’t mention much before the Emperor does, I can say I assisted in its creation, and I therefore know it's an incredibly finicky and temperamental mana type. Converting existing transportation infrastructure is going to be almost certainly impossible. It will take an entirely new methodology of enchanting to do anything. Engines will need to be built with the mana type in mind from the ground up, and like all new things, it will be inefficient until it is iterated upon a few dozen times. I’m sure there are guilds here who are in a better position to develop the type of items you are interested in.”
+
+Matt hadn’t missed the fact that Cooper hadn’t been at all surprised at the mention of travel mana, but he didn’t know if that was just the man's body control concealing any potential reaction, or if he had already known. He suspected it was the latter, but he couldn’t be sure that wasn't his bias towards the man and his guild showing.
+
+A baron who he had just talked to asked, “What does your guild intend to do, then? Why bother with it?”
+
+Matt was grateful for the question and nodded to the baron, who looked inordinately pleased at the gesture. “My intention is to turn our services to applications below Tier 5. Trains, buses, and boats mainly. Maybe flying swords or the like, but that's a distant secondary goal.”
+
+There were a number of displeased looks at that statement, but Matt held up a hand wantonly to placate those who were seeing their own possible profit vanish. “As I said before. My guild isn’t meant to produce anything. If we happen to create something first that is useful I have neither the time or the desire to deal with mass production and the infrastructure it requires.. You are all welcome to produce anything my guild creates locally and sell to your neighbors. I won’t ask for royalties or exclusivity clauses.”
+
+That seemed to mollify most of the crowd, and Matt made a mental note to give Cato a raise. He had been right that a number of nobles of all ranks, guilds and corporations would be upset at the idea Matt was trying to squeeze them out, and him making it clear he was only interested in the design aspect of inventing realm changing things greatly reduced their outward hostility.
+
+Judging by the number of people who bothered to come and chat with him, only five or so percent of the Empire's nobles were interested in merchant endeavors. If they were smart, they could capitalize on Matt’s inventions and make a fortune or ten. As much as he had tried to downplay low Tier economies earlier, their combined economic value was massive when the scale of the Empire was taken into account.
+
+Even if all of these corporations, guilds, and nobles started manufacturing low Tier travel mana compatible engines, they would have an endless market, as they were just a small percentage of the Empire and all of their neighbors would want those same items. If they had a monopoly on those items, they would milk it for all it was worth and keep the prices sky high, but that was why he wanted all of them producing his creations.
+
+Matt was sure that the first guild who created a higher Tier travel mana engine that was faster or at least more efficient than the standard engine, probably the Hasabar league or a subsidiary of them, would do exactly that. But he didn’t care if the higher Tiers spent their fortunes to save a few percent of efficiency. They were immortals, and could always wait twenty thousand years for a few more iterations of the travel mana engine to come out at a tenth of the price and twice the efficiency.
+
+It was the low Tiers who would benefit more from cheaper transportation.
+
+Matt just had to hope that Titan’s Torch was the first to create such an engine. The lowest hanging fruit was undoubtedly going to be similar enough that the first to create it was going to be the one to earn a patent, and if they needed to reinvent the wheel with a different methodology, it would put them behind the curve.
+
+Hearing his answer, Marchioness Flora turned her nod into a respectful bow as she faded back into the crowd as if she had never been there.
+
+Matt was sure she had her own agenda and reason for bringing up the travel mana, but whatever it was, she had put a ticking clock on a low Tier travel mana engine.
+
+With him explicitly mentioning his altruistic interests in the project, he could only hope that people left the market to him. It was a pipe dream, but Matt could still wish.
+
+The entire incident only served to remind Matt why he hated politics, and gave him a better understanding why Aiden just drowned his problems and why Lila ate people who pissed her off.
+
+Thankfully, he was distracted by something positive: the mention of someone he wanted to see.
+
+“You said Shadi had arrived?”
+
+The duke he was talking to nodded. “I saw her filling a plate with food not an hour ago. Even chatted with her a bit. She’s been in seclusion for a long time, so it was nice to catch up.”
+
+Matt looked over his shoulder to Cato, who vanished as he went to see if it was true.
+
+Shadi was the owner of TrueMind, which had earned her an invite, but she was also someone Matt had just been wanting to talk to. It was also amusing that her seclusion, if it had truly just ended, had been longer than Matt was alive. He had heard the same thing about the company's CEO back when he was a tiny little Tier 3.
+
+Cato returned just as he was repeating his intention to create ideas, not items, to a fellow duke, and that if the man wanted to get an advantage, he should simply position himself in a way to rapidly capitalize on the inventions. Because Matt would not be giving him or anyone else any advantages for any prices.
+
+He had said so thousands of times, which should have made his position clear, but it seemed like every fifth noble asked for the same thing, and they were only mollified when he restated his intentions to them.
+
+That was at least better than the people who tried to convince him to keep his guild's inventions to himself and only share with a select few. They were always in said select few, but most tried to imply it was only a temporary measure to ensure a smooth product launch. Though really, they were just trying to convince him to capture the early days of the market before making it free. If Matt needed money, that was a method he might actually consider, but he didn’t, so he politely declined.
+
+He didn’t think that hard work shouldn’t be profitable, but short term for an immortal could be mortal lifetimes, and Matt found that too wasteful.
+
+It took almost a week of chatting with the various interested parties before Matt found himself without someone else wanting to talk to him, and he immediately made his escape following Cato’s directions.
+
+Matt found his target where Cato had found her a week earlier. The owner of TrueMind sat in one of the alcove lounge chairs with a table piled high with every delicacy the venue offered.
+
+She also looked like shit. Her coppery skin was sallow, and her spiritual perception felt feeble. Or at least as feeble as a Tier 45’s spiritual perception ever felt.
+
+Matt stood at a polite distance for almost five minutes while he watched Shadi plow through plate after plate.
+
+When it became clear she either didn’t notice him or was ignoring him, Matt coughed slightly. When that didn’t work, he pulsed his spiritual perception which finally woke Shadi up from her fugue.
+
+Blinking, she looked over to him and surprised him with her question. “Who are you?”
+
+“Matthew Moore.”
+
+There was a long moment before she recognized the name, and Matt started to grow genuinely worried.
+
+Still, the interruption seemed to do her some good as she patted the seat next to her in the alcove.
+
+“This is your party then. Take a seat. I owe you that much at least.”
+
+“I don’t want to impose if—”
+
+Shadi waved him off. “It’s fine, kid. This is a big day for you, I’m sure. Taking over a noble house or something?”
+
+Matt raised an eyebrow at the question. He was over politicked in the last week and suspicious of every word, but Shadi seemed to genuinely not know what was going on which couldn’t be a good sign.
+
+A guest dying at his party would look awful for all three of them, even if there was nothing they could do to have prevented it, but Matt was also worried for her.
+
+He might not know her, but he knew and liked her company. That was enough of a reason for him to act.
+
+He was about to look at Cato and send him to go get a higher Tier healer that was on call when Shadi’s eyes focused.
+
+“No, you're the Ascender kids right? I heard Danny say something about that. Hey, congratulations, that's impressive. Guild too, right? I heard people complaining about you giving away something to do with rifts. Seems pretty idiotic, but who am I to judge?”
+
+Matt leaned forward, using his Domain to shift the plates away wanting to inspect the woman in front of him. While he hadn’t figured out how to activate his Domain Meld again, just creating it had empowered his Domain and it was now strong enough to move objects even in the Capital system.
+
+“We can get to my achievements later, are you ok?”
+
+Shadi barked out a laugh that startled a number of guests. Matt activated the privacy bubble around the alcove as she spoke. “Ok? I’m far from ok. Ten thousand years of research and not only do I have nothing to show for it, but my own personal [AI] was fried in the final testing. I am anything but ok.”
+
+Her eyes were bloodshot as she looked at him. “Repeated failure is brutal, kid. It eats at you until you have nothing left. Ask me how I know.”
+
+The TrueMind CEO leaned back into the lounge chair and sighed as she shoved her hands into her face.
+
+“Is there anything I can do to help?”
+
+Shadi barked a laugh and pulled her hands away from her face. “Are you serious?”
+
+“Yes?”
+
+For the first time she really looked at Matt. “Who are you kid?”
+
+“Matthew Moore.”
+
+“Do you know how little that narrows it down?”
+
+Matt chuckled at the comment. It was snarky in a way that reminded him of Allie or Aster.
+
+Shadi tapped her temple. “Sorry, I’m still absorbing a brand new [AI] skill shard so I can’t just look you up. I wasn't feeling up to it until just a few hours ago. Can you tell me what I would find if I did look you up?”
+
+His laugh turned into a wince as he thought about losing access to one of his oldest skills. His AI skill had been with him since he had taken the implant back at his PlayPen, and even after it had merged with the [AI] skill, it still had all of the modifications he had made to it. Losing it would be devastating.
+
+The loss of a core skill also explained why Shadi was in such bad shape. She hadn’t mentioned the specifics on how she lost it, but any skill detonation that deep in one's spirit would be near lethal.
+
+“Matthew Moore Né Alexander Titan of Lilly. Ascender, hobbyist aperologist, and the idiot who is trying to give away aura rifts for free, as well as someone who feels he owes you a favor.”
+
+Shadi winced at his slight rebuke. “Sorry. I’m bad company. Frankly, I’m only here to freeload some good food. I’m not exactly pleasant company. Actually, before you go, how do you feel like you owe me a favor? If you are a baby Ascender I’m ninety nine percent certain that I don’t know you. The last Ascender I knew of was Lila. Impressive that we got another one so soon though, so congratulations.”
+
+“Third Ascender since Lila, actually, but...” Matt paused and laughed at Shadi’s widened eyes.
+
+“You're pulling my tail?”
+
+“I’m dead serious. Waters, Light and Shadow, and then my team. We just fought a war over that very fact.”
+
+“I can't believe it. Fuck, this is what I get for going head down for so long.”
+
+Matt could hardly comprehend the idea of working on a single project for ten thousand years, and had to ask. “What were you working on?”
+
+Shadi held up a hand. “I’m willing to share but back up. You feel like you owe me a favor? While I’m not one to look a gift horse in the mouth, I will give it a poke to make sure there aren’t any soldiers inside.”
+
+Matt ignored the reference he couldn’t place and explained his history with TrueMind and how much the early AI had helped him, combined with the company investing in Lilly even before it became known he was an Ascender.
+
+Shadi just waved him off once she understood. “You don’t owe me shit then. If you feel you owe someone, call up my second in command, Geoff. He’s been running the company day to day for the last millennia or ten while I wasted my time.”
+
+Cato nodded without Matt even having to say anything, but Matt corrected Shadi's statement. “I still feel like I owe you personally. I’ll extend the same offer to Geoff because I’m grateful that the opportunity for a subsidized AI was even available while I was at the PlayPen, but more than that, I’m grateful that my home world was given such an economic boon by TrueMind opening a production facility there. Let alone while also refraining from taking advantage of the relative poorness of the planet. And if nothing else, you put the right people in charge and so you deserve a little credit. So, if there is anything I can help with, let me know. It's a genuine open offer.”
+
+Shadi looked at him for a few moments between snacking on a variety of foods scattered about before slowly nodding.
+
+“Thank you. And I apologize for crashing your party. I just saw the portal in the C suite and walked through.”
+
+“You technically were invited, and one extra person means little here. You are at least one I’d like to chat with.”
+
+Shadi chuckled as she tossed a crab leg into a bowl. “I feel that. Now that I’m out of seclusion, I’ll have to host my own version of this soon, but I'm trying to not think about that right now. As for your earlier question about what I was working on, how much do you know about AI and formations?”
+
+From there they started talking about formations and integrating non skill based AI. Shadi seemed impressed that he was able to understand the basics of the conversation, but that was all Matt was able to understand. As she went into more esoteric applications of both formations and AI, he started to get lost, but he was able to understand the gist of her issue.
+
+Shadi and a team of researchers had spent the last ten thousand years trying to change how artificial AI were integrated with formations. There were Natural Treasures that bestowed a facsimile of intelligence to things like buildings or floating islands, which allowed one to just enchant like normal, so long as they didn’t interfere with the actual spirit of the intelligence and end up with an area that could run on its own. The downside was that said Natural Treasures are rare and expensive enough to be out of reach for all but the incredibly wealthy.
+
+The second option was to have someone with an [AI], the full skill, in their spirit link into the formations and have their [AI] do the work of controlling the formations. That required a dedicated person to efficiently act as the core of the formation which wasn’t practical long term for most projects that needed large scale formations.
+
+Both were less ideal than a dedicated artificial AI, which could learn and adapt to what it was embedded in. In theory they would also be vastly cheaper than either of the other two options, if not for the expensive, not to mention fragile, custom made housing and specialized interfaces required to interact with even the simplest formations in lieu of an operator's spirit.
+
+Shadi and her people had been trying to redesign artificial AI’s core structures to simplify and smooth that integration. According to her they had been just a hair away from success for the last two thousand years after a multitude of failures for the eight thousand before that.
+
+The team had come to the conclusion that their issue was the lack of an old enough artificial AI, and so Shadi had sacrificed her own AI, which had never been integrated with the [AI] skill, to the cause.
+
+It had failed.
+
+“It’s going to take some effort, but we are so close.” There was a fire in her eyes as she looked at Matt. “If you are serious about pursuing aperology, take one piece of advice from me. You are going to fail a lot. It's going to hurt, it’s going to start to feel personal, but don't give up. I know I look like shit, but in a decade, I’ll be scratching at the doors to get back in the lab trying again. Now tell me about your guild. Aura rifts? I don’t know the faintest thing about aperology, but I could use the distraction, so fill me in.”
+
+Matt smiled and started to respond, only to be distracted by an AI message coming in, despite the fairly restrictive notifications he’d set up. “Oh, and Cosmind wants me to tell you hi?” he asked, a bit confused. “And she also says I should talk to you about mental integrations. Is that part of what you were working on?”
+
+Shadi chuckled. “Every time. Tell her I’ll send her my new AI address once it’s properly installed. And no, mental integrations are more about personally integrating yourself with your [AI]. But that’s enough of that particular headache, please tell me what’s new and exciting in the world of rifts.”
+
+“So, how familiar are you with Felran architecture?”
+
+“I’ve heard the term, but remind me?”
+
+“So, when you want to make a rift you need mana and essence. But, on top of that…” Matt eagerly chatted with someone bright enough to follow what they’d been dealing with.

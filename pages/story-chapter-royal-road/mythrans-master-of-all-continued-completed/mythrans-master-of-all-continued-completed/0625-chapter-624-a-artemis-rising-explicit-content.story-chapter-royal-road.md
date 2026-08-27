@@ -1,0 +1,235 @@
+---
+id: 09e6fa15-6878-5f89-9fec-6cfb557946c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 624 A - Artemis Rising (Explicit Content)"
+slug: 0625-chapter-624-a-artemis-rising-explicit-content
+partOf: mythrans-master-of-all-continued-completed
+position: 625
+ownLength: 2938
+unit: words
+publishedAt: 2018-07-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/229882/chapter-624-a-artemis-rising-explicit-content"
+royalRoadId: "229882"
+---
+
+Artemis couldn't believe what was happening. She laid on the bed and had not one, but two people suckling on her breasts. With them all sharing emotions, she could feel the happiness from Ren and the naughtiness from Lara.
+
+“R-Ren...” Artemis tried to apologize again, but the words caught in her throat.
+
+Ren stopped suckling and looked at her. “I'm sorry I'm being difficult; but, having people turn on me is something of a sore spot for me.” He said. “It's happened a few times now, and then when you, Teepo and Suniva all conspired to stop me without even checking what I was doing...”
+
+“Ren.” Lara said a little crossly. “This isn't the time to discuss it.”
+
+Ren sighed and nodded. “Are you sure you want to do this?”
+
+“I wouldn't have asked you to bring her to our bed if I didn't.” Lara said. “I will not stand by and let her be so sad, so we are going to make her feel good.”
+
+“Both of you?” Artemis asked.
+
+“Well, Ren is the one with the penis, so he's going to take the lead here.” Lara said and smiled. “I've discovered that I'm a great helper.”
+
+Ren chuckled. “Are you ever.” He said. “You looked so hot licking Stella and me that time in the bathroom.”
+
+“I don't know what came over me then.” Lara said and her face burned bright red. “You both looked so tasty that... I just...”
+
+Ren leaned over and kissed her. “I never did thank you for that.”
+
+Lara chuckled. “We were all caught up in the moment, so there wasn't a lot of thanking going around.”
+
+“We're not caught up in anything here.” Ren said and smiled. “Lots of actual decision making to be had.”
+
+Lara smiled. “You start at the bottom, and I'll start from the top.”
+
+“Kissing race?” Ren asked.
+
+“You know it.” Lara said, and they moved to the top and bottom of the bed. “Ready?”
+
+Ren nodded and crouched by Artemis' feet, and Lara picked up one of Artemis' arms.
+
+“Go!” Lara said and started kissing the metal skin of her hand while Ren kissed the soles of her feet. Artemis squirmed at the different kinds of attention; but, she didn't fight or protest in the least. The man she had loved since the moment he had created her was giving her his undivided attention, and a woman that he loved, that she could feel through him, also gave undivided attention to her. Ren passed her foot and kissed all up and along her calf, and Lara kissed down her forearm.
+
+When they reached her thigh and upper arm, her breath sped up and she panted for them. Ren reached her abdomen and Lara reached her chest and they lingered in those spots for a moment, almost mirroring each other, then they moved on and met at her midsection.
+
+“Looks like a tie.” Ren said and held up a hand. “Paper Rock Scissors for who licks her first?”
+
+“Okay, but you're going to lose.” Lara said and they both made fists.
+
+“Don't I get a say in this?” Artemis asked.
+
+“You can lick the loser.” Lara said to her surprise, and Artemis watched as they pumped their hands three times.
+
+Ren chose Paper and Lara chose Scissors. She used her fake scissors to cut Ren's fake paper and he sighed.
+
+“I told you.” Lara said to him and moved down slightly, then put a hand on Artemis' pelvic bone. “I've never done this before, so tell me if it's okay.”
+
+“It's more than okay!” Artemis exclaimed, and both Lara and Ren laughed.
+
+“I meant after I start.” Lara said.
+
+“Oh.”
+
+Ren moved up on the bed and put himself close enough for Artemis to grab him, but not close enough to suck.
+
+“Ren...” Artemis pumped him a couple of times. “Please.”
+
+“I'm going to let her start first.” Ren said. “Then I can move in and you can go at it.”
+
+“Thanks, I think.” Lara said and laid down between Artemis' legs, and Artemis propped them up to give her easier access. “Seeing it in metal is a little weird.” She said and briefly touched it with a fingertip, and fluid came away with her finger. “It seems to work like real flesh.”
+
+“That's because it is.” Ren said. “Metal is just the form it's in.”
+
+Lara was fascinated by this nugget of information and traced the outside of it. It did move like flesh, and she was a bit surprised by that. She flicked the little man in the boat with her fingernail and Artemis gasped. More fluid came out in a rush, and Lara smiled.
+
+“Here goes.” Lara said and slid in close. She looked up and saw matching expressions on both Ren and Artemis. “I hope your expectations aren't too high.”
+
+“Lara, you can feel what I feel, and what Artemis can feel through me.” Ren said. “All we expect is to feel so good when you kiss her there, and the anticipation is killing us.”
+
+Lara glanced down at his very hard member and the fluid already dripping from the tip, and it emboldened her. She could feel how much they both wanted this, and it matched her own desire. She had been curious ever since she had met the metal woman, and wondered what it would be like. Her own special place was already soaking wet in anticipation as well, so she darted forward and kissed Artemis' special place.
+
+Artemis gasped, Ren gasped, and Lara gasped at the same time. The feeling of pleasure went through the three of them, and Lara didn't worry about technique, or trying to make it last, or anything. She licked and sucked as hard and as fast as she could, and then she felt Artemis take Ren into her mouth. His pleasure joined theirs as Artemis sucked on him hard, and he thrust his hips forward automatically.
+
+Lara could feel something building, and she couldn't tell if it was in Ren or Artemis, and by rights, it didn't really matter. She wanted one or both of them to have a release as soon as possible, and she doubled her efforts to make it happen.
+
+“Oh, god!” Ren said and finished. He sprayed himself down Artemis' throat, and that combined with Lara licking her, made her go as well. Lara had felt it coming and stopped licking just in time to let Artemis orgasm without interference. Plus, she wasn't sure what the fluid was going to taste like, and didn't want to ruin the memory of this with an awful taste.
+
+“Switch places.” Ren said, and Lara sat up.
+
+“Which one?” Lara asked.
+
+“It's up to Artemis.” Ren said and looked down at her. “Do you want to stay where you are, or get on top?”
+
+“Of who?” Artemis asked.
+
+“Good answer.” Ren said and smiled. “Let me be on bottom for a while.”
+
+Artemis rolled over and Ren laid down on the bed, and his erection stuck up pretty far.
+
+“Look at that.” Lara said and leaned down. “It still amazes me that you don't calm down afterwards.” She said and licked the tip. “Or need to go to sleep afterwards.”
+
+“I think it was Stella that said I was the gift that keeps on giving.” Ren said.
+
+“Mm Hmm.” Lara said and plunged her mouth down onto him. Ren motioned to Artemis, and she moved up to straddle across his face. He started to lick her in earnest, and Artemis trembled and shook. They had played a lot while they were in the Water Realm, and they knew each other's weak spots by heart. Ren expertly made her orgasm again, and she leaned down to put her head near Lara.
+
+“Lara...” Artemis panted and her face was slack with pleasure. Lara stopped sucking on Ren and looked at her. Her slightly plump lips and her bedroom eyes almost made Lara catch her breath, then she leaned forward and kissed her.
+
+“Get on.” Ren said.
+
+Lara didn't break the kiss as she moved close and Artemis had to sit back up, then Lara broke the kiss to look down and positioned herself, then sat down hard onto Ren's member. She and Artemis gasped together at the sudden intrusion and burst of pleasure it caused, then stared at each other for a moment. Artemis carefully put her arms around Lara's shoulders and kissed her deeply, and Lara rocked her hips forward and back.
+
+Lara and Ren had done this hundreds of times; but, this was the first time they had shared this bed with a third person. There had always been a bit of play and some teasing, and Lara occasionally gave Artemis a kiss for Ren's sake; however, this was the first time they had openly had sex with someone besides Stella.
+
+Artemis felt their emotions and knew it was a great honor to be here with them, and she felt nothing but gratitude towards the both of them. The orgasm hit her right at that moment, and she twitched and shivered as Ren kept licking her. Unlike Lara, he wanted her to keep going and to orgasm as much as possible. Artemis broke the kiss and moaned as she finished again.
+
+“R-Ren...” Lara panted, and he shifted his hands from holding Artemis steady to Lara's hips to hold her steady, and he moved his hips up and down like a jackhammer. “AHHhhhHHHaHHH!”
+
+It was Lara's turn to orgasm this time and she trembled and shook as he kept pounding himself into her. She finished twice more before Ren let himself go and finished inside of her.
+
+“Oh, my god.” Artemis said and let Lara out of the embrace she had her in, then slid off of Ren's very wet face and laid down on the bed beside him. “Oh, my god.”
+
+Lara pulled herself off of Ren and laid down on his other side. She was breathing heavy and cuddled up to his chest. “I need a... a short break.”
+
+“Only for a minute.” Ren said, and she looked at him with wide eyes. “Energize spell, remember?”
+
+“Oh! Right.” Lara chuckled. “I thought you weren't going to let me rest.”
+
+Ren cast the spell on her and gave her a quick kiss. “I'm planning on spending a lot of time in here with you, so you can have an actual rest later.” He said. “Right now, we have someone to attend to.”
+
+Artemis propped herself up on an elbow. “What are we going to do next?”
+
+“I think it's time that you and I became one.” Ren said in a deep voice, and Lara chuckled. “What?” He asked.
+
+“If you're trying for a sexy voice, you're a little off the mark.” Lara said.
+
+“Well, it sounded sexy, didn't it?” Ren asked.
+
+“If you were a bear or something.” Lara said. “You don't have to try to be sexy, Ren.” She said and ran a hand down his bare chest. “Just be you.”
+
+Ren nodded and held a hand out to Artemis. “You're on bottom again.”
+
+Artemis slid over and Ren moved out of the way. He caressed her face, moved the hand down to her breasts and caressed one for a moment, then slid the hand down to her hip and between her legs.
+
+“I think you're ready.” Ren said and moved over her to position himself at her opening.
+
+“R-Ren... are... are you sure?” Artemis asked.
+
+Ren didn't answer her as he eased himself forward and slowly slipped inside of her. Artemis gasped as he entered her for the very first time, and her entire body trembled at the feeling. Lara had gasped as well at the feeling, because it was similar and different than when she had her first time with Ren. He didn't move right away, just like he hadn't when he was with Lara the first time. When Artemis' body had adjusted to having him inside of it, Ren slowly pulled out and then slowly pushed back in.
+
+“So... tight.” Ren said and fought to not finish.
+
+“Is she as tight as I was?” Lara asked.
+
+“Yes.” Ren said, and he felt a bit of sadness from her. “I designed her... with you, Stella, and Elise... in mind.” He said. “Understandable that... she has more than just... your eyes.”
+
+Lara caught her breath and looked at Artemis' face. Her eyes were closed and squinted together, and Lara could feel that she was fighting to not finish as well. She leaned in close and Artemis felt her curiosity, so she opened her eyes to look at the other woman. Now that she looked closely, she did kind of recognize the eyes looking back at her.
+
+“I'm going to keep moving.” Ren said, and Artemis nodded. He pulled out, oh so slowly, then pushed back in. Her body had adjusted to having him inside, but it was fighting to stop him from moving.
+
+“Faster.” Lara said, and Ren turned his head to look at her. “Go faster.”
+
+Ren gave her a kiss and then moved in and out a little faster. Artemis fought to keep a hold of his member, but he had a rhythm going now and it couldn't quite catch him before he moved out again. Lara touched Artemis' face and she looked at her, and Lara leaned in and kissed her. Ren moved faster and faster and increased his rhythmic movements while Lara distracted Artemis for him.
+
+Artemis put an arm around Lara's back to hug her and kissed her passionately, and that made her relax. It became easier for all of them when that happened, then Ren inadvertently found one of the spots he had found lots of times with just his fingers, and it caught Artemis off-guard.
+
+“AHHH!” Artemis screamed into Lara's mouth as she had her very first intercourse orgasm, and Ren couldn't contain himself, either.
+
+“AHHH!” Ren yelled as his own fight to hold on for as long as he could was lost, and he finished as well. Lara felt them both go and finished a little herself, even though she hadn't thought she was close enough to an orgasm for that.
+
+“W-wow.” Artemis said as Ren laid down beside her, and Lara laid down on her other side. “That was...”
+
+“Just the first time.” Ren said and smiled.
+
+“We can do it again?!?” Artemis asked, and both Ren and Lara chuckled.
+
+“In a little while.” Ren said, and both women felt a bit of playfulness from him.
+
+“All right, what do you have in mind?” Lara asked.
+
+“Well... you both know how much I like breasts.” Ren said.
+
+Artemis nodded and Lara sighed sadly.
+
+“Lara, you know I love your breasts.”
+
+“I know, it's just...”
+
+“I can't physically do what I want to them, so I need a surrogate.” Ren gave her breasts a light caress and a squeeze. “Artemis has just the right size for this, I think.”
+
+“For what?” Artemis asked.
+
+“A man's fantasy.” Lara said and rolled her eyes. “Artemis, please get up on your knees and face Ren.”
+
+Artemis did so without question and Ren stood up on the bed. He positioned his member between her breasts and started to rub.
+
+“Squeeze them together.” Lara said.
+
+Artemis cupped her breasts and pushed them together. “Like this?”
+
+“Lara, can you give her a hand?” Ren asked.
+
+“How? You'll knock my head off if I try to get between the two of you to suck you off.”
+
+Ren smiled that that was her first thought. “Get behind her and grab her breasts.”
+
+Lara went around Artemis and reached around to grab her breasts and pushed.
+
+“Grip them.” Ren said, and she did. “Harder.”
+
+Artemis caught her breath and Ren nodded.
+
+“Now hug her really tightly.” Ren said, and Lara hugged Artemis. The pressure on his member reached just the right amount and both women shivered as they felt his happiness. He fit perfectly in the space between Artemis' breasts, and he pumped his hips. Both women stared at him, then at the tip of his member as it kept poking out through the top of the opening.
+
+“G-go... a-ahead.” Ren managed to say, and Artemis looked up at him. She felt him urge her to do what she wanted, and she smiled and bent her head down. It took several tries to get it right, since none of them had ever done something like this before, then she found the right spot and held her mouth there with her lips slightly open. On the next thrust, the tip of Ren's member popped out of the space between her breasts and right into her mouth.
+
+Artemis sucked for that split second and the tip popped out of her mouth and disappeared into her cleavage again. It only took three more thrusts and micro-sucks for all the sensations to combine and make him orgasm.
+
+“Oh, god!” Ren said and thrust forward one last time and finished. “AHH!”
+
+Artemis had leaned back just in time and she and Lara watched in amazement as a fountain sprang forth and splashed out. Ren stayed still until he was done, then he saw that he had covered Artemis' face and breasts with fluid. He immediately pulled out a cloth and started to wipe her off.
+
+“Wow, Ren.” Artemis said. “That was... even for you...”
+
+“I'm sorry! I didn't... it felt so good that... I'm sorry!” Ren rambled and wiped at her face.
+
+“It was a geyser!” Lara said and started to laugh, then Artemis laughed as well.
+
+“It wasn't that much!” Ren protested, then started to laugh, too.

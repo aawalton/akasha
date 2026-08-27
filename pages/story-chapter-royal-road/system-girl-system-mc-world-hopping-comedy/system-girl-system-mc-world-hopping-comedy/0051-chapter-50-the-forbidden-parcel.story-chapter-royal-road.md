@@ -1,0 +1,333 @@
+---
+id: b921e2b1-9389-5314-908a-db880cf87106
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50: The Forbidden Parcel"
+slug: 0051-chapter-50-the-forbidden-parcel
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 51
+ownLength: 2477
+unit: words
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2926465/chapter-50-the-forbidden-parcel"
+royalRoadId: "2926465"
+---
+
+The Eastern Pastures were not so much a pasture as they were a riot of untamed, knee-high golden grass that shimmered under the afternoon sun. It was picturesque. It was serene. It was also, according to the map, the home of the Mini-Bison.
+
+I floated in Ren’s mind, checking my SPP balance like a nervous investor. 128.5 SPP. So close to the communication module. I just needed this guy to kill a cow, sell the meat, and maybe buy a nice hat. Was that too much to ask?
+
+Ren was currently crouched in the grass, clutching his 300-Dolarion pitchfork with white-knuckled intensity. He looked less like a hunter and more like a gardener who had finally snapped.
+
+"Target sighted," he whispered.
+
+Fifty yards away, grazing near a large, moss-covered boulder, was the beast.
+
+The quest description had called it a "Mini-Bison," which implies something cute. This was not cute. It was a dense, rectangular brick of muscle and fur, standing about waist-high to a human. It had shaggy brown hair, a hump of pure gristle on its back, and two curved black horns that looked sharp enough to punch through plate mail.
+
+And it was eating flowers with a terrifying, grinding intensity.
+
+"Marbling," Ren muttered, a hungry glint in his eyes. "That hump... that’s the brisket cut. Slow-cooked. Smoked over applewood."
+
+He tightened his grip on the pitchfork. "Okay. The plan is simple. Stick it with the pointy end. Don't get gored."
+
+He crept forward. The grass rustled.
+
+The bison’s head snapped up. It looked like a furry tank turret. Its nostrils flared, scenting the air. It locked eyes with Ren.
+
+There was a moment of silence. A standoff between the Apex Predator of the Corporate World and the Apex Herbivore of the Starter Zone.
+
+Then, the bison snorted, pawed the ground, and charged.
+
+It was fast. Shockingly fast. It accelerated like a bowling ball fired from a cannon.
+
+Ren didn't run. He planted his feet. He leveled the heavy iron pitchfork.
+
+"Hold the line!" he shouted to no one.
+
+The bison closed the distance. Twenty yards. Ten.
+
+At the last second, Ren didn't thrust. He dropped to one knee and grounded the butt of the pitchfork into the soft earth, angling the tines up. It was a maneuver straight out of a historical documentary on pike warfare he’d watched during a boring Zoom meeting in 2142.
+
+The bison couldn't stop. Inertia was a cruel mistress.
+
+SLAM.
+
+The beast collided with the pitchfork. The three iron tines caught it in the chest and shoulder. The force of the impact drove Ren backward, dragging trenches in the dirt with his heels. His arms screamed in protest as the shockwave traveled up his skeleton.
+
+"Gah!" Ren gritted his teeth, holding firm.
+
+The bison squealed—a high, indignant sound—and thrashed. The pitchfork held. The beast was pinned, its momentum turned against it.
+
+Ren didn't hesitate. He wasn't a warrior, but he knew anatomy. He knew exactly where the heart was on a quadruped.
+
+He released the pitchfork with one hand, drew his belt knife, and lunged.
+
+It was messy. It was brutal. It was the reality of getting dinner in a world without supermarkets. But it was over quickly. The bison went limp, sliding down the shaft of the pitchfork.
+
+[COMBAT RESOLVED.][LEVEL UP! REN IS NOW LEVEL 2.][STAT POINTS AVAILABLE: 5]
+
+Ren collapsed onto his back, panting heavily. His shirt was soaked with sweat and dirt. His arms were shaking.
+
+"Brisket," he wheezed, staring up at the blue sky. "Secured."
+
+I let out a cheer in the void. Yes! The cash cow is dead! Long live the economy!
+
+Ren rested for exactly two minutes before his chef's instincts overrode his exhaustion. He scrambled up.
+
+"Can't let the meat spoil. Body heat ruins the texture."
+
+He went to work. If his butchery of the rabbit had been art, this was a masterclass. He bled the beast, skinned it, and began breaking it down into primal cuts. He treated the meat with an almost disturbing reverence.
+
+"Look at that fat cap," he whispered, holding up a slab of ribs. "It’s glistening."
+
+He used the [Analysis] skill.
+
+[Item: High-Quality Bison Meat][Grade: B+][Description: Rich, marbled meat from a grain-fed beast. Highly sought after by gourmands.]
+
+"Grain-fed?" Ren scoffed. "It was eating flowers. That's pasture-raised, you uncultured System."
+
+I ignored the insult. I was too busy calculating the commission.
+
+He packed the meat into the [Inventory]. The hide, the horns, even the bones—everything went in. He cleaned his knife on the grass and stood up, looking like a man who had just won the lottery.
+
+"Quest complete," he said. "Now to head back and collect the bonus."
+
+He turned to leave.
+
+That was when he heard it.
+
+It wasn't the roar of a monster. It wasn't the wind. It was a soft, gurgling sound coming from a dense patch of tall ferns near the boulder where the bison had been grazing.
+
+Ren froze. "Another one?"
+
+He raised the bloody pitchfork, creeping toward the sound. He parted the ferns with the tip of the weapon, expecting a baby bison or a scavenger.
+
+He stopped. The pitchfork lowered slowly until the tines rested in the dirt.
+
+"What..." Ren breathed.
+
+Nestled in a basket woven from living vines, lying on a bed of soft, white fur, was a baby.
+
+It wasn't a newborn. It looked to be about six months old. It had a tuft of silver-white hair, skin like porcelain, and cheeks so round and chubby they defied the laws of aerodynamics. It was sleeping, one tiny fist clutching the edge of the blanket.
+
+Ren stared at it. He didn't coo. He didn't smile. He looked… terrified.
+
+He took a step back.
+
+"No," he whispered. "Nope. Absolutely not."
+
+In Ren’s world—the grey, smog-choked dystopia of 2145—babies were not things you found in the woods. They were state property.
+
+Due to the genetic collapse and the plummeting birth rates, reproduction was strictly controlled. Infants were raised in sterile, government-run crèches until they were five. Seeing a baby in the wild meant one of two things: it was the child of a Sector 1 ultra-trillionaire, or it was a black-market clone.
+
+Touching one without a Class-A Permit was an immediate felony. Looking at one the wrong way could get your social credit score wiped.
+
+"It's a trap," Ren hissed, his eyes darting around the forest, looking for cameras or drones. "This is a sting operation. I'm not falling for it."
+
+He looked down at the sleeping infant. It let out a soft sigh and blew a saliva bubble.
+
+It was devastatingly cute. It was a biological weapon of mass affection.
+
+Ren steeled himself. "I didn't see anything. I was never here. I am just a man with a lot of beef."
+
+He turned around. He started to walk away.
+
+What are you doing? I screamed internally. You can't just leave a baby in a monster-infested pasture!
+
+But I couldn't speak. I couldn't tell him to go back.
+
+Ren took three steps.
+
+Then, my HUD exploded.
+
+It wasn't the usual blue notification. It was a jarring, violent crimson that filled my entire vision.
+
+[ALERT: CRITICAL OVERRIDE][SENDER: UNKNOWN (ENCRYPTION LEVEL: WORLD-ADMIN)]
+
+My core went cold. World-Admin? That wasn't a Moderator. That wasn't Sol. That was… something else.
+
+[SPECIAL QUEST INITIATED: PARENTAL PROTOCOL][OBJECTIVE: RETRIEVE THE PARCEL. ENSURE SURVIVAL.][FAILURE CONDITION: LOCALIZED REALITY DESTABILIZATION.]
+
+Reality Destabilization?
+
+I stared at the text. Usually, failure conditions were things like "You die" or "You lose experience." Who was this kid?
+
+Before I could process the existential dread, the System seized control of the UI. It projected a massive, pulsing red arrow directly into Ren’s vision, pointing at the basket.
+
+Ren stopped. The arrow was blinking.
+
+[QUEST: ADOPT THE ASSET][WARNING: FAILURE TO ACCEPT WILL RESULT IN CATASTROPHIC EXISTENTIAL FAILURE.]
+
+Ren read the text. He looked at the arrow. He looked at the sky, which was starting to flicker slightly, the blue color desaturating into static grey.
+
+"You have got to be kidding me," Ren groaned. "The world ends if I don't babysit?"
+
+He looked back at the ferns. The baby was still sleeping, oblivious to the fact that it was apparently a load-bearing pillar of the universe.
+
+Ren sighed. It was the heavy, defeated sigh of a man who had just been handed a project file at 4:55 PM on a Friday.
+
+"Fine," he grumbled. "Fine! I'll take the liability."
+
+He walked back to the basket. He knelt. He reached out, his hands shaking slightly. In his mind, he was waiting for the sirens, for the SWAT team to rappel from the trees.
+
+He touched the basket. No sirens. Just the soft breathing of the child.
+
+He picked it up. The baby stirred. It opened its eyes.
+
+They were blue. Deep, endless, impossible blue. Like staring into the bottom of the ocean.
+
+Ren felt a strange tug in his chest. "Okay. You're... relatively quiet. That's a plus."
+
+He activated the [Analysis] module. "Scan."
+
+The blue light swept over the chubby cheeks.
+
+[Name: Lilith][Race: High Elf][Level: 1][Status: Healthy, Hungry]
+
+"High Elf?" Ren blinked.
+
+He leaned in closer. "Wait a minute."
+
+He gently brushed the silver hair away from the baby's ear.
+
+It was round. perfectly, normally round.
+
+"False advertising," Ren muttered. "The lore clearly states elves have pointed ears. Are you a defective elf? Did I get a discount model?"
+
+He checked the other ear. Round.
+
+"Maybe they grow in later?" he mused. "Like teeth?"
+
+His gaze dropped to the baby's chest. Resting on the white blanket was a pendant. It was a simple silver chain holding a jewel that matched the baby’s eyes exactly—a deep, swirling sapphire.
+
+When Ren looked at the pendant, the System didn't analyze it. Instead, the text box just read:
+
+[Item: ???][Status: Protected]
+
+"Mysterious," Ren noted. "And expensive-looking."
+
+The baby, Lilith, stared up at him. She didn't cry. She reached up with a chubby hand and grabbed Ren’s nose.
+
+"Honk," Ren said, deadpan.
+
+Lilith giggled. It was a sound like wind chimes.
+
+Ren froze. He looked at the baby attached to his face. A crack appeared in his grumpy, corporate armor.
+
+"Okay," he whispered. "You're... acceptable."
+
+He gently disengaged her hand. He hooked the basket over his arm and picked up his pitchfork with the other.
+
+"This," he announced to the empty pasture, "is a logistical nightmare."
+
+As he walked, I watched the "Reality Destabilization" warning fade from the HUD. The sky returned to its normal blue.
+
+I stared at the baby in the basket. High Elf? With round ears? And a World-Admin level protection order?
+
+This wasn't just a quest. This was a conspiracy.
+
+Ren, I thought, staring at his oblivious, soot-stained face. You wanted a main course? I think you just picked up the plot device.
+
+. . .
+
+The sun was setting by the time Ren trudged back to the town gates. He was exhausted, sore, and mentally preparing himself for the inevitable bureaucracy of explaining why he was carrying a human infant he hadn't left with.
+
+The same guards were at the gate. They looked up as he approached.
+
+"You again," the guard said. "You look worse than this morning."
+
+"Bison," Ren grunted. "Big one."
+
+The guard nodded, impressed. Then his eyes fell on the basket.
+
+"And... that?"
+
+Ren froze. He ran through a dozen lies in his head. I found it under a cabbage leaf. It's a very realistic doll. It's my lunch.
+
+"Found her," Ren said, deciding on the truth. "In the woods. Abandoned."
+
+The guard’s eyes widened. He stepped forward and peered into the basket. Lilith was awake, chewing on her own fist. She looked up at the guard and blinked those massive blue eyes.
+
+"By the Gods," the guard whispered. He looked at Ren with a sudden, intense respect. "You found a foundling?"
+
+"Is that a problem?" Ren asked, bracing himself for the arrest.
+
+"Problem?" The guard shook his head. "It's a blessing, lad. In these parts, finding a child in the wild... it means the spirits trust you. It's good luck."
+
+Ren blinked. "Good luck?"
+
+"Aye. Though it's gonna cost you extra to bring her in. Two coppers for you, one for the tyke."
+
+Ren almost laughed. Of course. The bureaucracy didn't care about spirits; it cared about taxes.
+
+He paid the toll—using the coppers he’d made from the mint—and walked into the town.
+
+He went straight to the Butcher Shop. It was a gruesome, wonderful place filled with hooks and saws. The butcher, a man named Horg who looked like he ate nails for breakfast, eyed Ren’s haul.
+
+"Bison?" Horg grunted.
+
+"Fresh," Ren said. "Field dressed immediately. Kept away from heat."
+
+He unloaded the meat from his inventory (claiming it was in a magic bag he’d recovered). Horg inspected the liver. He poked the brisket.
+
+"Good work," Horg admitted. "Clean cuts. I'll give you the market price. Five hundred Dolarion."
+
+"Plus the bonus for the Guild quest," Ren reminded him.
+
+"Yeah, yeah. I'll sign the slip."
+
+[TRANSACTION COMPLETE.][EARNINGS: 500 DOLARION + 50 BONUS.][SYSTEM MATCH: +550 SPP.]
+
+My balance skyrocketed.
+
+[CURRENT SPP: 663.5]
+
+I gasped. I was rich. I was wealthy. I could buy the Coffee Machine.
+
+Ren took the money. He felt rich, too.
+
+"Now," he said, looking at the baby basket. "We need supplies. Babies need... things. Milk? tiny clothes?"
+
+He walked to the general store. He bought a bottle of goat milk, a soft woolen blanket, and a small wooden spoon because he felt she shouldn't have to eat with her hands.
+
+Then, he returned to the Tipsy Ursine.
+
+The innkeeper raised an eyebrow at the baby. "You work fast, traveler."
+
+"Foundling," Ren said tiredly. "Do you have a room with a cradle?"
+
+"No. But I have a drawer I can line with a pillow."
+
+"Sold."
+
+Up in the room, Ren set up the drawer-cradle. He fed Lilith the goat milk, which she drank with gusto. She burped, let out a contented sigh, and fell asleep immediately.
+
+Ren sat on his own bed—the straw mattress he still hated—and looked at her.
+
+"Lilith," he whispered. "High Elf. Round ears."
+
+He shook his head. "Well, Lilith. I'm Ren. I cook things. And apparently, I'm your dad now."
+
+He lay back, exhausted.
+
+"System," he mumbled into the air. "Shop."
+
+I perked up. Yes? What do you need? Diapers? A stroller?
+
+Ren scrolled to the 'Consumables' tab. He bypassed the baby supplies.
+
+He hovered over [Smoked Paprika - 75 Dolarion].
+
+"For the brisket," he murmured.
+
+He bought it.
+
+[COMMISSION: +3.75 SPP.]
+
+I stared at him. He had a mysterious, magical baby in a drawer, a mystery quest hanging over his head, and he was buying paprika.
+
+I couldn't help it. I laughed. A silent, digital vibration of amusement.
+
+You know what, Ren? I thought, looking at my healthy bank balance. I think we’re going to get along just fine.
+
+I opened my menu. I had 667 SPP.

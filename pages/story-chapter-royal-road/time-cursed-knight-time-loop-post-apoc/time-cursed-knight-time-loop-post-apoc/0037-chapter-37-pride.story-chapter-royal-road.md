@@ -1,0 +1,329 @@
+---
+id: fcec08dc-0557-5b74-ac61-024198ed9687
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37: Pride"
+slug: 0037-chapter-37-pride
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 37
+ownLength: 1789
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3363438/chapter-37-pride"
+royalRoadId: "3363438"
+---
+
+⌜New Sin Acquired ⌝
+
+⌜ Pride ⌝
+
+⌜ Watch your pride shatter. Watch your inability to save. ⌝
+
+⌜ Apocalypse — Next Stage Unlocked ⌝
+
+⌜ 180 days until humanity's end. ⌝
+
+⌜ Initial Target: Grenzheim. ⌝
+
+⌜ Enemy: Elves. ⌝
+
+⌜ As your new sin, I will offer a crumb of mercy. At the very least, you should know where the end begins. ⌝
+
+⌜ But are you capable of stopping it? ⌝
+
+I woke drenched.
+
+Sweat soaked my robe. My heart pounded against my chest.
+
+The cell was dark.
+
+Gerret's snoring drifted from his pallet. Marcus breathed slow and deep. Lyra was silent above me, folded into her corner shelf.
+
+I didn't move.
+
+The skeleton's grin appeared in my mind every time I blinked.
+
+Pride is the sin that wears virtue's face.
+
+A dream.
+
+That was the rational explanation. A nightmare born from exhaustion and trauma and over a hundred deaths compressed into a single mind.
+
+Just a dream.
+
+My hand found the watch.
+
+The gold casing was warm against my fingers. The pulse that came from it was steady and insistent.
+
+I pressed the clasp.
+
+The cover sprang open.
+
+Light spilled into the dark.
+
+The notifications hung in the air before me.
+
+⌜ Sins ⌝
+
+Gluttony Sloth Pride
+
+Below them, the countdown.
+
+⌜ Days Remaining: 179 ⌝
+
+Not one hundred and eighty.
+
+One hundred and seventy-nine.
+
+I'd lost a day. The number had already decremented.
+
+Grezheim.
+
+The name stared back at me.
+
+One hundred and seventy-nine days.
+
+The elves would come again. However, it was no longer just about destroying the city. Or the front line. No, this time, it was an apocalypse. Our end.
+
+Those were the system's words. While I was focused on the countdown, the remaining notifications scrolled up.
+
+⌜ Novice Swordsmanship — Level Increased ⌝
+
+⌜ Level 0 → Level 1 ⌝
+
+⌜ Mana Breath — Level Increased ⌝
+
+⌜ Level 0 → Level 1 ⌝
+
+I took a deep breath. The change was obvious, though subtle. It wasn’t like when I first activated Mana Breath, when I could feel an entirely new world I’d never had access to. Instead, it felt like I had put a leash on this discovery. I could control it better.
+
+I could feel the flow of mana more clearly. Feel it leaving my body, being expelled through my mouth. I could sense how to stop it, making the mint-burn fade until it ceased. When I focused, the flow intensified. When I released, it settled.
+
+I closed the watch. The screen dissolved.
+
+The cell returned to its familiar darkness.
+
+I lay still and stared at the ceiling.
+
+Pride.
+
+The skeleton's accusation circled my mind.
+
+Was it pride?
+
+Was that the name for what drove me through those deaths? Was that the word for the thing that wouldn't let me walk past Gerret's battered body, wouldn't let me turn my back on Lyra's screams, wouldn't let me save myself when saving myself meant abandoning them?
+
+You would rather die a hundred times than admit you cannot save everyone.
+
+I turned the words over.
+
+Some of those hundred deaths had been necessary. Reconnaissance. Information gathering. Learning the patterns.
+
+But some of them hadn't.
+
+Some of them had been me throwing myself at the same problem with the same approach because I refused to accept that the answer might be something other than try harder.
+
+Gerret's snore caught on something. He shifted on his pallet.
+
+I looked at him.
+
+The boy whose family had sold him to clear a debt.
+
+He was safe.
+
+Because of me.
+
+The pride swelled in my chest before I could stop it. A hundred deaths, and the boy was breathing. The girl with wings was breathing. The old soldier was breathing.
+
+I did that.
+
+What's wrong with feeling proud of that?
+
+The question had no answer. Pride was pride.
+
+It wore the face of whatever virtue was nearest and called itself necessary.
+
+Maybe the skeleton was right.
+
+Maybe it wasn't.
+
+It didn't matter.
+
+If the system said pride was my sin, then pride was my sin. If the system said one hundred and seventy-nine days remained, then one hundred and seventy-nine days remained.
+
+Grezheim would fall.
+
+Unless I did something.
+
+I needed to get out.
+
+Fifteen days flew by.
+
+Dawn brought the training sessions. Four against four on the sand, wooden weapons and bare fists.
+
+I won every morning.
+
+Not easily. Sometimes using some loops, not many, but some. The opponents changed as teams were reshuffled and rankings fluctuated. Some mornings brought mutants whose physical advantages turned the sand into a nightmare. Other mornings brought trained fighters, conscripts from the regular army, men who'd learned to kill in places worse than this.
+
+I fought them all.
+
+The Novice Swordsmanship climbed. Level 1 became Level 2 in the fourth day. Level 2 held for six days before cracking open into Level 3 on the tenth. Each increment was smaller than the last. The easy gains of early learning gave way to the grinding, incremental improvements.
+
+At least they were improving. Not going to complain about that.
+
+Afternoons brought the real fights.
+
+Fifteen days. Fifteen bouts. Fifteen victories.
+
+Not a single kill.
+
+Sometimes, I knocked them unconscious. Othertimes, I beat them until they couldn't stand.
+
+Still, every fight ended the same way. My opponent on the sand. My blade clean.
+
+The crowd despised me.
+
+The booing that had started after my first afternoon never stopped. Day after day, fight after fight, the jeers grew louder.
+
+"COWARD!"
+
+"GET HIM! WHAT ARE YOU WAITING FOR?"
+
+"SEND HIM BACK TO THE CELLS!"
+
+They didn't cheer for me.
+
+They came to watch me lose.
+
+To make things worse, my victories kept accumulating. My rank climbing.
+
+Marcus estimated I'd broken into the top thirty by the tenth day. By the fifteenth, I was somewhere in the twenties. The exact number was difficult to determine from inside a cell, but the evidence was there.
+
+Better food. Thicker bread. Actual meat.
+
+Access to the conditioning yard, a walled courtyard on the Coliseum's second level where fighters could train between matches.
+
+The promise of better accommodations that the monk had dangled during my first fight had been real. Each win pushed the cell higher.
+
+Still, they never stopped scheduling me everyday.
+
+Every afternoon. Without exception. While other fighters in the top thirty received rest days, my name was kept on the daily roster.
+
+I didn't need to ask why.
+
+The crowd hated me. The crowd wanted to see me broken.
+
+On the sixteenth morning, they came early.
+
+The training session had barely finished.
+
+The cell door opened.
+
+Four soldiers.
+
+Their faces were harder than the usual escort. Spears held at a precise angle that said move without mentioning the word.
+
+"Slave One Hundred Forty-Seven. On your feet. You're coming with us."
+
+I didn't stand immediately.
+
+"Where?"
+
+The lead soldier's eyes dropped to me with the particular contempt reserved for property that forgot how it should behave.
+
+"Meeting with a senior official. Shut your mouth and walk."
+
+"What official?"
+
+The spears angled at me. Four steel points converging at my chest.
+
+I didn't flinch.
+
+"I'm not moving until someone tells me where I'm going."
+
+The soldier at the back said something so quietly that I couldn’t hear it, but it was clear he wasn’t happy about a slave trying to assert himself. The soldier at the front, on the other hand, decided he was going to say something.
+
+"You're being summoned to meet with one of the executives," he said through his teeth. "That's all you need to know. Now shut your mouth and move, or I'll have you dragged."
+
+I held his gaze for a moment.
+
+"You're top thirty at minimum," Marcus had told me two nights ago. "Possibly top twenty."
+
+Top thirty meant value. Value meant leverage.
+
+Not much. Not enough to make demands or negotiate terms. But enough that the soldiers at the door couldn't simply run me through without consequences.
+
+"Fine," I said. "I'll walk."
+
+I rose. But the fist came fast.
+
+The lead soldier's hand drove into my cheekbone. The iron plates that covered his knuckles bit into the skin. My head snapped sideways.,
+
+"That's a reminder," he said, his voice flat. "You're still a slave. Don't ever think that because you're climbing, you can open your mouth."
+
+I spat blood onto the stone floor.
+
+The glob landed near his boot.
+
+I straightened and smiled.
+
+"Lead the way," I said.
+
+The upper levels were different.
+
+The stone changed. The rough-hewn blocks of the lower cells gave way to cut and polished masonry. The mana-glow brightened, shifting from the cold blue of the cellblocks to a warmer amber that made the corridors feel almost habitable.
+
+Tapestries hung from the walls. Maps. Battle scenes. The insignia of the Iron Cross rendered in thread and silver wire.
+
+The soldiers led me through a series of corridors.
+
+Each turn revealed a broader hallway, a higher ceiling, a wider window through which natural light poured.
+
+We stopped at a door.
+
+Heavy oak. Iron banding. A handle shaped like a gauntleted fist.
+
+The lead soldier knocked. Three precise raps.
+
+A pause.
+
+"Enter."
+
+The voice from inside was calm.
+
+The soldier pushed the door open.
+
+The room beyond was a study.
+
+Not the cramped, functional workspace of a military officer. A proper study. A room designed to impress. High ceilings crossed by exposed beams of dark wood. A window that stretched from floor to eave, offering a panoramic view of the arena below.
+
+A desk dominated the center. Carved from a single piece of something dark and heavy. Papers covered its surface in organized stacks. A crystal communication device sat at one corner.
+
+Around the desk, chairs had been arranged in a loose semicircle. Several were occupied.
+
+Their attention was focused toward the desk's far end, toward the chair that sat at the head.
+
+I recognized the occupant instantly. The prince.
+
+Varen.
+
+The one in the black uniform with the silver cross embroidered on the chest.
+
+Up close, he was younger than I'd estimated from the arena floor.
+
+Not thirty. Late twenties, perhaps. His features were sharp and symmetrical, the kind of face that painters would fight over. Dark hair cut military-short.
+
+He sat with one leg crossed over the other, his forearm resting on the desk's edge. A glass of something dark sat near his hand.
+
+His gaze found me the moment I crossed the threshold.
+
+The silence stretched.
+
+Varen studied me the way a jeweler studies an uncut stone.
+
+Then he smiled.
+
+"I've been watching your fights," Varen said. "Fifteen victories. Zero defeats."
+
+He picked up the glass. Turned it slowly between his fingers.
+
+"Tell me," Varen said. "What is a Hexenzeit doing among my slaves?"

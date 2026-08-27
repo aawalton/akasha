@@ -1,0 +1,163 @@
+---
+id: 39ad872e-4db5-5b01-9ae3-b688ebeeaa0e
+page-type-slug: story-chapter-royal-road
+title: "034 - Oath of Two"
+slug: 0034-034-oath-of-two
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 34
+ownLength: 1750
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3485971/034-oath-of-two"
+royalRoadId: "3485971"
+---
+
+All in all, the evening went better than expected. Stephen was doing a more than adequate job at the grill and the mood was relaxed. The reveal of my new task—that I needed to find demonic and extinct shapes—led to fun speculation about what the Blessing might be putting out there for us to find.
+
+People didn't talk all that much about their lives before yesterday. We all had family out there, and none of us knew how they were faring. I had little hope that Boston had fared any better than New York; little hope that my mother had made it.
+
+The heart had been a bust. There was no error message, no indicator for why it didn't work. Maybe they needed to be raw, maybe I had to be present for the kill, maybe because the rest of the pig had already been consumed or rotted away. But for now the implication was clear. I wouldn't get those shapes by plundering restaurants. I would get them by killing everything the Blessing and Hell threw at me.
+
+Eventually we migrated over to the couch. With a slightly drunk Lucy being slightly too touchy for me, I made myself comfortable on the floor, while Jamie and Ash shared the couch with Lucy. Liz had pulled one of the camping chairs over.
+
+It was nice. This felt nice. I felt a pang of hope that we'd all make it. Until now, I had operated on the idea that I'd try to make it as far as I could, but that success was not something to count on. That assessment hadn't changed, but I started to hope that I was wrong.
+
+At some point, Roslyn asked Lucy to join her for a moment. I didn't mean to invade the privacy of their conversation, but my Heightened Senses skill made it just about impossible not to.
+
+Roslyn was worried that Jason might be hiding his own devil guide and wanted to know if there was a way to be sure. There wasn't, but after Roslyn explained her suspicions, Lucy was just about sure that she was right. He had been exposed to profane space, ever so briefly, when I had become a corruption vector. I tried not to blame myself, telling myself I couldn't have foreseen this attack, but my emotions weren't agreeing with my rational thoughts.
+
+They further explained that the fact that he was retreating from the group might be an indicator that they were already plotting something.
+
+Roslyn thanked them and turned to leave, but Lucy held onto her arm.
+
+"There was nothing Eve could have done for Clark. Her mind was caught by that spell like a leaf in a storm."
+
+After that they let Roslyn go. Instead of joining back up with us, they also decided to take their leave and vanished.
+
+My desire for being social had been killed, too, so I got up and went outside. There was only a sliver of light left in the day. Not that night was a hindrance with the Heightened Senses. I'd only take a short test flight. I had to know what it felt like.
+
+I made my way up to the roof of the fire station. My enhanced stats turned what would have exhausted me before into something downright fun. I let my gaze sweep over the buildings around us. And my mood soured even more. A cluster of flying creatures crossed over some distant buildings, too far to make them out on my minimap. Against the gloom, I couldn't make out many details, but I was fairly sure that those fluttery silhouettes were demon bats.
+
+Just my luck. I unlocked flight; the demons summoned patrols for the sky.
+
+"Those usually only operate at night," Gabriel said.
+
+"No demon hawks?"
+
+"Sometimes. But by day they would be more vulnerable against Blessed with ranged abilities. At night they only need to fear Blessed that have the range and can pierce the dark."
+
+I wanted to tear into her. Wanted to rebel against reason and take flight anyway. Instead I lay down in the middle of the roof. The gravel covering the roof was still warm.
+
+"No flight at night until I can take on a swarm of demon bats. Got it."
+
+"Sorry, Eve. If I had known they would summon those already, I'd have warned you. They usually aren't a priority for Hell."
+
+"Yeah, it's just that kind of day."
+
+"It may not look like it, but there will be brighter days."
+
+"Thanks, Gabriel. For everything. I don't think I could have made it with another Guide."
+
+"Thank you. I don't get to hear this often." Her usual composure couldn't hide the grief in her voice.
+
+It reminded me of the statistics. Even for someone as experienced as her, most Blessed never made it to the Seal. Now it felt unfair that Lucy got to hang out with us and she was all alone.
+
+A dot approaching from the inside warned me that I wasn't going to be alone anymore.
+
+Jamie's voice came from around the edge of the roof. "Mind if I join you?"
+
+"Feel free. Though beware that I'm pouting. Hell ruined my first flight."
+
+Jamie finished his climb and sat down next to me. "That's rough."
+
+I sighed. "Show me that lance."
+
+"Why?"
+
+"I'll need to know about the tools at our disposal. It would be incredibly selfish to possibly let people die because of my hangups about what is and isn't my build."
+
+A silvery lance manifested in my field of view. There were intricate inscriptions in angelic script on its surface.
+
+"I don't want to argue with you," Jamie said, "but I want you to know it's perfectly fine to have your limitations. Points you aren't willing to cross. I've sold my body and managed to find a way to still look at myself in the mirror. Not everyone can do that, and that's okay."
+
+I examined the lance.
+
+[Blessed Cavalry Lance (Weapon - bonded)
+
+Reliable: Can be summoned and recalled at will.
+
+Enhanced mounted combat: Charge attacks apply both the rider's and the mount's bonuses.]
+
+I was slightly annoyed at how good it was.
+
+"You keep saying that and yet I'm not sure you are right. The Blessing is testing our willpower, and that means going beyond your comfort zone," I said.
+
+The lance vanished into Jamie's inventory.
+
+"It is also testing our resilience. The question isn't what we can do to make it through this. It's what we can do while not losing ourselves in the process."
+
+I leaned up and looked over at the Paladin.
+
+"Been putting some stats into those mental attributes, have you?"
+
+"Wisdom, sadly, isn't something we can raise. But yes, I did. Can't have you thinking circles around me all the time."
+
+"Pah."
+
+"Do you think we make a good team, Eve? If it weren't for, well, everything, would you still team up with me instead of others?"
+
+I considered the question. As a team of two, we were a solid combination. I didn't have the staying power to stand my ground to protect someone ranged, and Jamie's Lay on Hands ability had been essential. We would need to expand to include others, if only so they could gather more experience, but if I had to pick a single party member, he was the best choice available.
+
+"Yes," I said.
+
+Jamie smiled. "Guess that settles my perk choices, then."
+
+I fully sat up. "What do you mean? How did that question influence your choice?"
+
+"I vow to fight by your side, to the best of my ability."
+
+A new buff appeared in my UI. It came with a description that was longer than some of the perks I'd seen.
+
+[Oath of Two - Buff
+
+An ally has dedicated themselves to be your Sworn Partner.
+
+While your Sworn Partner is within range: +2 to all Attributes for both partners.
+
+Improved awareness of each other's physical and emotional state. (Toggleable)
+
+Shared awareness of threats.
+
+A portion of damage taken by either partner is redirected to the other. (Toggleable)
+
+Healing and protective effects used on either partner partially affect the other.
+
+When one partner kills an enemy, the other recovers a small amount of Health.
+
+Range: 20 feet
+
+Partial Effect Range: 50 feet
+
+Within the Partial Effect Range only the awareness effect remains active.]
+
+I read it over and over again. He had dedicated his level 10 perk choice, the big one, to me. He had ignored options that would have made him a better member of the group, to be a better partner for me.
+
+Like me ignoring the Pack Leader perk in favor of something far more situational.
+
+"Don't panic. I mean—yes, something changed, mechanically. But I didn't do this to put pressure on you. We make sense as a team, Eve. I picked the perk that fit that. That's all I'm asking this to mean. No obligation, no expectation. Just a perk that fits what we were already doing."
+
+He said that, but now me going out on my own weakened both of us. He'd snared me to him, through my own need to min-max.
+
+I stood up. "I'm tired. I'm going to bed." I took a couple of steps. "Good night, Jamie."
+
+Jamie gave me a weary smile. "Sleep well, Eve."
+
+I knew that I was being unfair. He hadn't planned this to trap me. He wasn't trying to force anything. He was exactly as lost in this apocalypse as I was, and picked a perk that enhanced an established and proven approach. We were a good team. But once more my emotions didn't agree with my mind.
+
+I hadn't planned to go to bed yet, but I didn't know where else to run. I'd assumed that the room I woke up in earlier today would be 'mine', even though there weren't enough of those rooms for all of us.
+
+When I lay down, I had plans. To ask Gabriel about the exact nature of the Wyrm and, in turn, Fate. About what to expect for the next few days. Instead, I found myself alone with my thoughts and couldn't avoid thinking of them—of mom, of Mike, of Frank, of Clark.
+
+I glared at that buff. Why did he have to choose me? It was choosing inevitable failure. The Blessing might have been fucking with me, but that didn't mean it was wrong. I was unworthy of such a choice.
+
+The tears came first. Sleep followed.

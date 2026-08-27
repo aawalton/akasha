@@ -1,0 +1,33 @@
+---
+id: 7598c7cb-3d7a-57df-afa9-8aac8a5a2c21
+page-type-slug: story-chapter-royal-road
+title: "Stella Art + Shapeshifter"
+slug: 0028-stella-art-shapeshifter
+partOf: reborn-as-a-demonic-tree
+position: 28
+ownLength: 468
+unit: words
+ownProgress: 468
+publishedAt: 2025-07-08
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2417843/stella-art-shapeshifter"
+royalRoadId: "2417843"
+markedReadAt: "2026-06-29T19:02:27.853Z"
+---
+
+I think my artist did a fantastic job drawing the scene of Stella and Ryker arriving at the Silverspires' residence! This will also be the Amazon cover for Book 7.
+
+Now that I have your attention, I also wanted to mention that my other novel, Shapeshifter, is starting up again!
+
+The explanation for why is in this spoiler tag:
+
+As I hinted at in the past, I've finally gotten around to rewriting Shapeshifter. When I first posted it, I did so without a sufficient backlog, with a hastily assembled system, and I also fell ill during the RS run, which caused a hiatus while at rank 1 RS. While I don't expect the repost to perform much better than the original, I'm much happier with the story now and want to see it through to the end. As I write this, I've added over ten new chapters since RoyalRoad left off, just to confirm the story's direction, and I'm loving it.Regardless of how it does on RR, I plan to release around 2+ chapters a week (on Tuesdays and Thursdays) until I have enough content to publish on Amazon.
+
+Change log:This story has been taken without authorization. Report any sightings.• New opening and new characters introduced from the human side.• Chapters 21 and 22 have been deleted and rewritten, removing the strange demon god thingy I had going on (I was reading Chainsaw Man at the time, and it influenced me, haha).• Stats have been removed from the system. It now emphasizes his forms and skills much more.• There is now a single massive World Dungeon connecting all the continents instead of hundreds of individual dungeons.• The MC no longer needs to obtain variants to get better evolutions. Instead, devouring rare variants will upgrade current forms.
+
+Why did you pick the story back up? - Since Shapeshifter, I've made many attempts at writing a new story, but none of them got past the opening chapters. Every time that happened, I came back to Shapeshifter, wondering what made this one special. Why did I make further progress with this one than with any other since Tree? It's because it's a story I wanted to tell, and it encompasses everything I love about LitRPG novels. It was the right novel, just done at the wrong time. After gaining more inspiration for it and sitting down to rewrite it (plus 10 new chapters), I can confirm that it's a story I want to write and continue. That's why I have returned.
+
+If you guys could support the new version and maybe even transfer any reviews you had, that would be greatly appricated.
+
+Thank you all for your patience!
+
+If you have never heard of my other novel, note that it's a side project and will be uploaded on Tuesdays and Thursdays.

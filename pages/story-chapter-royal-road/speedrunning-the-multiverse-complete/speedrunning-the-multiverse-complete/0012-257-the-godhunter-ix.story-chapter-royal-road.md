@@ -1,0 +1,139 @@
+---
+id: a1acbe91-68f2-5a60-8850-11af94c9fecc
+page-type-slug: story-chapter-royal-road
+title: "257. The Godhunter (IX)"
+slug: 0012-257-the-godhunter-ix
+partOf: speedrunning-the-multiverse-complete
+position: 12
+ownLength: 1758
+unit: words
+ownProgress: 1758
+publishedAt: 2023-07-07
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1269420/257-the-godhunter-ix"
+royalRoadId: "1269420"
+markedReadAt: "2026-06-29T22:42:04.759Z"
+---
+
+“The Trial of the Fist,” said Coldheart. “That is next. And of the four hundred and sixty two who have made it past the third trial, all met their ends at the fourth. Dorian the Heartless, pass through the Fourth Door!”
+
+As he stepped through, the door vanished behind him. A pocket dimension.
+
+Dorian found himself in a wasteland.
+
+The ground was all ash and soot. Anything that’d once lived on it had been cooked into a bleak sameness. It was as though some giant meteor had struck here and he now stood at the lowest point of the aftermath. Above the sky was a bruised purple.
+
+Something about this scene itched at Dorian’s mind. Strangely familiar, yet he couldn’t quite place it…
+
+Before him was a statue of himself.
+
+Well—of Salas Godhunter. On a pedestal, much like in the other rooms, but orders of magnitude larger. This statue was wrought out of starsteel, a kind of steel shinier than any that could be found in nature; it was one of the most durable alloys in the Multiverse. Locks of thick shaggy hair ran down to a shaggy beard which framed a mouth twisted in a snarl. There was a bow slung across Salas’ back big as his whole body, a menace of gold with a string like liquid crystal. After the nasty work it did in this realm, the poets and the bards coined it ‘Bane of Dragons.’ Then there were daggers of the finest Stygian obsidian strapped to Salas’s thighs.
+
+It was a strangely good replica. So good it had Dorian feeling a pang of nostalgia.
+
+“This is a test of might,” said Coldheart. “Do you remember your oath?”
+
+“Kill Salas Godhunter, yeah?” said Dorian absently.
+
+“Indeed,” said Coldheart. “But any fool can make empty boasts. I need a successor who has the might to follow through.”
+
+He swept out his wings, gesturing at the valley. “This is the place of my ultimate demise. The place where Salas Godhunter and I dueled for the last time. We traded blows to the bitter end, but it was he who won an extremely close battle of attrition…. Bah! Had I been but a century younger things would have turned out different, I tell you! I had sustained an injury two centuries prior besides—hurt my wing in a duel. And Salas, bastard as he was, caught me off guard—as he knew he had to, if he wished to have any chance of success! But I shall make no excuses for the matter. What is done is done. He emerged the victor over a hobbled, weakened, unready version of myself. And promptly made his name off of it too. Couldn’t stop boasting of it, the bastard!”
+
+Coldheart spat. That rendering wasn’t at all how Dorian remembered it, but it seemed polite to nod along. “Yeah, fuck that guy!” he agreed.
+
+Inwardly he was thinking that this was yet another instance of a sad truth: maturity and moral character seemed to have no relationship at all to one’s power level. It often ran in reverse, actually. Dorian was a prime example, of course, but Coldheart was too—this old fart trapped in a Godking’s body. Sometimes age simply gives one’s personality time to calcify, grow crusty. Bitterness becomes obstinate. Grudges become like scars, eternally etched into one’s identity.
+
+Which was how you got this sad tyrant of a spirit, reliving his past for all time.
+
+Perhaps creatures simply weren’t meant to live this long.
+
+At a certain age you harden. Then you calcify. At some point you start seeming like a cartoonish version of what you once were, unable to change even if you wished. That’s time for you. Dorian stared at that statue of Salas, and sighed.
+
+He supposed he was old now, wasn’t he? When had that happened? He could point to no discrete moment. But at some point he hardened, and calcified, and was cast in something harder than flesh. Staring at this statue, he could’ve been staring at his reflection. He nearly was.
+
+“For your Fourth Trial, I have commissioned from the Master Artificer Rithius this replica,” blathered Coldheart. “After he finished, he called it his greatest work! He studied thousands of hours of scrying-glass footage of the man to make it. It cost most of my remaining savings, in fact.  A modern marvel! Starsteel for the body, and weapons of legendary caliber! My only gripe is that this Salas is not alive, and so lacks Laws… but you’ll find it’ll serve its purpose just fine, regardless.”
+
+Its purpose?
+
+A tingling went up Dorian’s spine. Perhaps right now was not the best time for reminiscence. Coldheart’s words caught up to him. A test of might?
+
+He realized what was about to happen just before it happened.
+
+Oh… oh, no.
+
+Don’t you say it.
+
+Don’t you say it, you crusty old fucker—
+
+“Your task is to defeat Salas Godhunter!” crowed Coldheart.
+
+FUCK!
+
+The statue’s eyes burned gold.
+
+“Let the battle commence!”
+
+The Automaton leapt off its pedestal. There was no groaning, no grinding of joints. This was a well-oiled machine made by a Godking of incredible talents; at first glance you’d think it moved indistinguishably from a human.
+
+But look again and you’d see the error of your judgment. It moved better than any living creature ever could, all its limbs flexing in inhuman coordination. It was the platonic ideal of movement. There was not an inch wasted as it reached back and flipped its bow to a hand, the other grasping for its quiver—
+
+Dorian leapt away with a curse. He folded his wings over himself, praying he’d been quick enough.
+
+Then there was a CRACK, a burning in his calf, and he looked down. It’d been run clean through with a silver arrow.
+
+As his wings folded they went top to bottom, naturally. The first point they covered was the head, the next the chest, until the two wings fully overlapped.
+
+That arrow, drawn and shot at the speed of thought, beat his wing’s closing to the punch.
+
+The speed. The precision.
+
+Exactly as he remembered it.
+
+Dorian landed, hissing in pain at the flare-up in his leg, ripped out the shaft and threw up his wing in the same motion. There was a CLANG!, a flash of silver ricochetting off. That arrow had come precisely in his blind spot.
+
+He knew it’d be there.
+
+Because he only now recalled just who it was he was facing.
+
+Salas Godhunter stared down at him with pitiless gold eyes. Calculating gold eyes. This was phase one of the hunter’s attack. Probe the opponent, get a gauge for their habits, and weaknesses, and talents.
+
+Phase two… took that information, internalized it, and grew considerably more violent.
+
+But just this was enough to punch a hole in Dorian’s calf. Quickly mending, but still. This early, a very bad sign.
+
+Salas hadn’t even gotten warmed up yet.
+
+Dorian kept running. Luckily, he had a good sense of Salas’s timing. At first it’d all been a bit hazy and out-of-reach; it was all flooding back to him now, maybe because the urgency had kicked his mind into getting its shit together. He could hazard a good guess at where each arrow would land. It was where Salas would think he was most weak. He batted two more aside, limping a little. Then took a meaty arrow right through his other leg.
+
+Fuck!
+
+You’d think, having been Salas, it would be easy fighting him. It was quickly becoming apparent to Dorian this was far from the case.
+
+Coldheart’s voice floated over. “Wounded so soon? Your trial may come to a quick end, young dragon! Show some heart! Take the fight to him!”
+
+But Dorian knew how Salas thought.
+
+That was the easy thing to do. The instinctual thing. Wounded, on the defensive, your first thought is—to change my fortunes, I must change my tactics! Charge him! Catch him off guard!
+
+Only then would the victim find out those knives strapped Salas were not for decoration. Only then would they realize Salas was not a long-range sniper, in truth, but a demon of close combat.
+
+Dorian could recall slicing dragons six different ways, head to toe, the instant they stepped into range. They didn’t even have time to register their surprise. Just burst apart, chunks of evenly sliced meat toppling over each other.
+
+It was a devil’s choice. Stay at long range, and you were not outshooting the man with Dragon’s Bane. But go close and it was like stepping into a meat grinder.
+
+Even the best Empyrean dragons would probably try both before they realized they could not win at either. And by then they’d be carved up nicely, perhaps crippled. And phase two of Salas’s strategy would begin. Shifting from passive to aggressive. And it was all over.
+
+But if there was one thing he had that this hunk of metal did not, it was his own mind. Try as that Rithius might, Dorian refused to believe he’d taught a robot to ass-pull. He had to think.
+
+He couldn’t fight this thing at close range. His [Fists of Falling Star, Rising Moon] would need to be retired for this fight. He couldn’t effectively punch while also shield himself with his wings—and he had a suspicion only his wings could stand up to those wicked knives; the rest of him would be bleeding all over. If he was lucky. He might just be made an impromptu fillet. Either way, he wasn’t keen to test it.
+
+Long-range options would have to go too. That bow would pick him apart with devastating ease. And Rithius had taught it well; it knew just what weakpoints to target, and went after them like a damned hound.
+
+Which left only the mid-range. Somewhere close enough that Salas’s bow felt awkward to use, yet not close enough to justify the drawing of daggers. Could he force the fight there?
+
+What weapons did he even have at midrange? Maybe his Javelin? But that thing was a relic; he hadn’t worked on it in ages. He had zero confidence he could punch through Starsteel with it. Same went for Yama’s Chains. Maybe his dragon’s breath—now [Breath of the Ashen Sky]? But all it’d do was smite the Starsteel, at the cost of a huge chunk of Dorian’s qi.
+
+He didn’t know whether to laugh or cry.
+
+Why did I have to be so damned good?!
+
+There was facing the consequences of his actions. And then there was whatever this mad nonsense was!

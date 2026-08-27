@@ -1,0 +1,121 @@
+---
+id: e2584cb0-6e5f-563b-937d-7492c0b9bf4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 409: Respite"
+slug: 0417-chapter-409-respite
+partOf: savage-divinity
+position: 417
+ownLength: 3514
+unit: words
+publishedAt: 2019-01-18
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/325469/chapter-409-respite"
+royalRoadId: "325469"
+---
+
+It’s only the morning of the fifth day during our first foray on the front lines, and already I’m dealing with a crisis of epic proportions.
+
+Not a great start, but if you look at it another way, I went a whole four days without disaster, so overall, not too shabby.
+
+Despite going to great lengths to be ready for any and all possibilities, evidently my efforts were not enough. Then again, what could I have done differently? It’s not like I didn’t foresee the possibility of this happening, but all the planning and preparation in the world can’t insulate me from simple human error. Short of keeping a cloud-stepping Expert solely dedicated to this one task, I see no other way I could’ve avoided this particular pitfall, but unless I reveal more than I’m comfortable with, there’s no way to secure the services of said Expert. My hands are tied on this, so it’s not my fault things went south so quickly. Sadly, those responsible are not here to suffer the dire consequences of their actions, leaving me and my retinue holding the ball.
+
+We’re all out of shrimp, which means King Pong will not be happy.
+
+Hoping to soften the blow, I’ve laid out a veritable feast of seaweed, fish, and dried fruit for him to feast upon, but the adorable turtle tyrant is not so easily won over. While Mama Bun and Blackjack noisily snack away at the offerings, Pong Pong’s tiny turtle head swivels back and forth in search of his daily dose of shrimp, but alas, the familiar wooden box is nowhere to be found. Eyes narrowed and lips pursed, Pong Pong turns his attention towards me and my heart skips a beat. Mouth dry and smile strained, I launch into my prepared explanation. “I know, you’re asking ‘where’s the shrimp?’, and let me tell you, I’m wondering the same thing.” I’m fairly certain he doesn’t understand human language, but Pong Pong is smart enough to learn a few key phrases. ‘Shrimp’ sits firmly at the top of the list, his eyes widening and mouth opening upon hearing his favourite word. So adorable, but it looks like I must disappoint. “Look little buddy, we’re a long ways from the Azure Sea and it’s hard to keep food fresh. We should’ve had enough to last us the full ten days, but they were starting to spoil so I fed it all to Ping Ping last night.” Judging by his huff of anger as he glares at his titanic wifey, her name is another word Pong Pong understands. Wholly unintimidated, Ping Ping continues feasting on smoked fish and cabbage beside us, which only serves to infuriate little Pong Pong even more.
+
+Scooping the angry turtle into my hands, I stroke his head to soothe his anger. The tension gushes from his body beneath my gentle ministrations and my butt-cheeks similarly unclench. With the crisis averted, I let out a small sigh of relief and chuckle at the sheer absurdity of my situation, held hostage by a gluttonous Divine Turtle who could turn me into meat paste without lifting a finger. Granted I don’t think he would, but knowing he could is enough to make me think twice about disappointing the little lord turtle.
+
+He’s lucky he’s so damn adorable...
+
+I shouldn’t have mentioned Ping Ping, not while talking about a subject as sensitive as shrimp. As much as I’d like otherwise, their relationship has yet to blossom into the fairy tale romance I’d once envisioned. Divinity or not, it’s hard to say how smart Pong Pong really is, but his mentality can best be described as that of a selfish seven-year-old child. Maybe it’s because she’s strong enough to threaten him or maybe he’s insecure about his size, but Pong Pong treats Ping Ping as more of a rival than friend, always glaring at her during mealtime if she’s around. It’s a good thing Ping Ping is a sweet and gentle soul, paying the small-but-fearsome turtle no mind, else I might have a battle of the turtles on my hands.
+
+Or maybe she’s too scared to glare back. So sad. I was so excited for mixed-baby quasi-divinity turtles and I’d also like to know how strong Ping Ping is compared to Pong Pong. Everyone thinks she’s close to Divinity, but if that were the case, then why does she need the Protectorate to look after her?
+
+Thanks to my maxed-out head-scritching skills, Pong Pong’s anger soon abates and he acquiesces to dining on something besides shrimp. Hopping out of my hands, he promptly begins devouring all the smoked fish and shredded cabbage in sight, leaving the dried fruits, seaweed, and other miscellaneous foodstuffs untouched. I can’t tell if it’s a coincidence he’s eating Ping Ping’s favourite foods or if he’s targeting them on purpose for revenge, but either way this outcome is preferable to sitting ringside seats at a turtle tussle. Magnanimous as always, Ping Ping doesn’t bat an eye, probably because she’s used to sharing food with Mama Bun, Blackjack, the quins, and the laughing birds, so one more Pong Pong isn’t much.
+
+It also helps that for every one of her bites, Pong Pong needs like a hundred to match it. It might be my imagination but the big girl almost seems amused by his attempts to steal her food, sitting there with a smug glint in her eye as she savours every mouthful while Pong Pong chomps away at maximum speed. Along with the rhythmic crunching emitting from Mama Bun’s cheeks and Blackjack’s squeals of delight as he goes to town on a chicken leg, this symphony of gluttony sets my mind at ease and lets me forget all my worries, if only for a moment.
+
+Pets are so much work, but I can’t imagine going a day without them. I don’t know what I was thinking trying to quit floofs cold turkey, but I’m glad Pong Pong, Mama Bun and Blackjack tagged along on this pointless and stressful excursion. The quins and laughing birds aren’t affectionate enough to satisfy my cuddle quota, but Blackjack sitting on his bum while hugging a drumstick twice his size is all it takes to recharge my floof batteries to full.
+
+He eats like people. It’s the cutest thing ever!
+
+Unfortunately, all good things must end. Their bellies full and bladders empty, Mama Bun collects Pong Pong and hops into my embrace while Blackjack climbs atop my head, all three of them ready to go back to sleep. Spoiled pet jokes aside, I can’t blame them considering the sun has yet to rise, not to mention we have four days of hard travel behind us and six more ahead. This will be the last day we spend marching west and tomorrow we’ll turn around and head back for a week of rest, relaxation, and defending Sinuji from errant Defiled before repeating this entire futile and meaningless exercise once again.
+
+What fun.
+
+Thus far, it’s been all skirmishes and night raids, which means we’ve mostly kept to ourselves. Aside from the daily check in, we’ve seen neither hide nor hair of the advanced scouting parties moving parallel to our position. Why the Defiled don’t group up and target one of the smaller scouting parties I couldn’t say, but the Enemy doesn’t seem too concerned about ‘minor’ issues like winning or losing. From what I can tell, they care more about fighting for the sake of fighting rather than winning the war.
+
+Then again, I doubt it’ll matter. The Western Province is filled to the brim with new recruits just waiting to go full murder-hobo...
+
+Thus far, there’s been no sign of the recently turned, as the Defiled have all been of the sand-dwelling variety, a human-leather turban-sporting bunch who like to go shirtless and show off their warped, discoloured torsos. It makes their women look particularly revolting, but luckily, both genders care enough to cover their shame and spare everyone the sight of their withered nether regions. Apparently, this is thanks to some unholy concoction they slather themselves in to protect from exposure out in the barren deserts of the West. Aside from giving their skin the colour and texture of porous, desiccated stone, the concoction also makes it tougher than rhino hide, but their partial-nudist tendencies means they also shy away from body armour, making them that much easier to kill. Tough skin is easier to deal with than the iron breastplates, like the ones Yo Ling armed his Butchers with, so I’ll take it.
+
+Resisting the urge to boop Mama Bun on the nose, I say goodbye to Ping Ping, mount Zabu, and bring the nap pack with me to relieve Li Song from watch duty. Truth be told, my Martial Aunt presents something of a conundrum. Though surprised by her willingness to join my retinue and flattered by her trust, it’s made our interactions rather complicated. Don’t get me wrong, I’m glad she’s here and she’s been a great help, but I’m not sure how our dynamic is supposed to work now that I hold her chain. As her ranking officer, I can technically order her around with impunity, but I don’t want to overstep my bounds and betray her trust by ordering her to do something she doesn’t want to do. I’m still calling her ‘Martial Aunt’ in public while she simply calls me ‘Rain’, which I’m fine with, but ever since we left SuiHua a week ago, a few issues have cropped up here and there which has me tiptoeing around her all the time.
+
+Take for example my current predicament. On Daxian’s advice, I split my entire retinue into four squads to make it easier to schedule shifts. It took some finagling to figure out who would work best with whom and how to best distribute the soldiers, but in the end, we decided on the following setup.
+
+Sai Chou and the Protectorate are joined by Bulat’s scouts, and together, they make up Turtle Squad, on account of their turtle defending proclivities. Li Song along with Chey, Green, and Yellow Units are Tiger Squad for obvious reasons, while Rustram, Wang Bao, Ulfsaar, and Ravil make up Phoenix Squad, fitting nicely with their whole ‘second chancers’ theme they have going on. That leaves me with Dastan’s former retinue, Lang Yi’s former slaves, Red Unit, and Jorani’s – no, it’s Erkin’s now – unit of scouts, and together, we’re Dragon Unit, as in the Rising Dragon, Falling Rain.
+
+Sure the squad names are a little cringey and childish, but they make me smile. What used to be Baledagh’s childish immaturity is my childish immaturity, so it’s high time I embraced it, though I won’t go as far as shouting my attack names as I use them.
+
+...Well, maybe once or twice to try it out and see how I like it. Water Bullet! Tsunami Blade! Err... Gushing... no... Swirly... Whatever, I’ll figure out the names as I go.
+
+For awhile, everything seemed to be working fine only... I’ve noticed a minor, almost inconsequential issue, and I’m not sure if I should bring it up. See, the day has four shifts but night watch duty only has three, so each squad gets one night off every four days. Yesterday, I had first shift and handed second shift over to Li Song and Tiger Squad. Today, I have third shift, which is why I’m up so early, and I’m taking over for... Li Song and Tiger Squad.
+
+See the problem?
+
+Second shift is easily the least desirable because you sleep for a few hours, wake up for guard duty, then go back to sleep. Since we usually rotate through the shifts, I should’ve taken second shift today while Li Song took third, but while I was drifting off to sleep last night, I realized Dragon Squad has never taken second shift on night duty. Since it was too late to do anything about it, I gave in and accepted the favour, but like... what do I do now? Thank Li Song, obviously, but I’m not entirely happy about it. While her intentions may be good, it’s not fair to make Tiger Squad take second shift two nights in a row. How do I bring it up without sounding too harsh? Should I even mention my misgivings? Li Song showing initiative is a good thing, right? Except... what if her motivations are wrong? What if she’s only doing this because I’m holding her chain and she feels obligated to serve?
+
+So complicated. This is why I hate being social. There’s so much to think about and there’s almost never a right answer, it’s too exhausting. Still yet to decide, I arrive at the eastern edge of camp to find Dragon Squad ready and waiting as they should be. Standing at full attention, Li Song greets me with a nod, sombre and serious as always. “Good morning Martial Aunt,” I say while dismounting, hiding my smile as her cat-ears twitch and flutter, the only sign of happiness on her stony-faced demeanour. “Dragon Squad reporting for duty.”
+
+With another businesslike nod, Song replies, “Nothing to report. No sign of the Defiled throughout the night. Tiger Squad is ready to stand down. Command of the camp is yours.”
+
+Since departing from Sinuji, not only have we come into conflict with multiple Defiled war bands each day, we’ve also been attacked every single night. Since the Enemy has yet to make an appearance tonight, it means they’ll probably show up soon enough, but I’m wholly confident in Dragon Squad. Turning to my soldiers, I say, “You heard her. Head out to relieve Tiger Squad at their posts. Keep your eyes open and weapons ready.”
+
+The shift change is always a stressful time, so Li Song and I stand in strained silence while it takes place, ready to spring into action if the Defiled take advantage of the confusion to attack. It’s never happened before, mostly because all the Defiled we’ve come across behave like rabid animals, but it could happen. After a few uneventful minutes, the last of Tiger Squad are trickling in and the danger of ambush is past, so my mind returns to agonizing over what is probably nothing. You know what? It is probably nothing. I doubt I’ll get any complaints from the Death Corps, so I’ll talk to Chey later and maybe she can shed light on how her people feel about the issue.
+
+Dismissing her people with a wave of her hand, Li Song remains rooted in place and chews her lower lip. If I’m being honest, it’s super hot, but I can’t afford to think like that, not while I hold all the power. Knowing why she stayed behind, I hand Mama Bun and Pong Pong over and smile as she nuzzles the confused and sleepy Mama Bun, who gives her new handler a sniff before going back to sleep. Unwilling to be separated from his adopted mommy, Blackjack hops off of my head and lands lightly atop Li Song’s, his tiny body barely sinking into her silken brown hair.
+
+So young and already Lightening, truly not all animals are equal.
+
+Also, stop having weird thoughts about Li Song. I thought I had things figured out between us. She’s my Martial Aunt who sometimes misunderstands my actions and intentions, but that’s okay. We were usually cool so long as I kept my distance, but now, things are different. Even though I’ve been wearing Li Song’s chain for an entire week, it still feels heavy around my neck, a mental burden and overwhelming responsibility I wasn’t ready for. What I want to know the most is, what changed her mind? Why did she all of a sudden decide she could trust me? Did she overcome her fear of me on her own or was it something I said and/or did? If it’s the latter, what was it so I don’t fuck this up?
+
+“A word of advice?” Li Song’s request interrupts my pensive indecision and I idly note yet another change in our dynamic. She never used to ask for permission, but recently she’s been more cautious about speaking. After I nod for her to continue, she grimaces and says, “It’s about our manner of address. I have been pondering the matter for some days now, and have decided it is not in your best interests to continue in this informal manner.” Her nose wrinkled in displeasure, Li Song spits the word out like she finds it offensive. “In public, you should not address me as ‘Martial Aunt’. It sets a poor precedent for morale and discipline. The soldiers must adhere to the chain of command and addressing me as your senior may cause unnecessary confusion.”
+
+She spent days pondering this? That’s... so... cute! Clearing my throat to keep from laughing, I reply, “Okay. So what should I call you in public?”
+
+“By military regulation, I am a team leader and you are the commanding officer, so I think it’s best if we addressed each other as such.”
+
+“Sounds good, Team Leader Song. May I still call you Martial Aunt in private?”
+
+Her ears aflutter, Li Song solemnly grants me permission with a stately nod. “If that is all Commander, then this Team Leader shall depart.”
+
+Ah fuck it. Just say it. “Ah, one more thing.” Though her back is already ramrod straight, she somehow straightens up even more, her eyes widening ever so slightly in alarm. Too late to abort now. “I’ve noticed Dragon Squad has never taken the second night shift. Why is that?”
+
+“Ah.” Obviously nervous, Li Song shifts and places Mama Bun directly between us before answering, “This Team Leader took it upon herself to arrange things so. As the commanding officer, I thought it would be best if you remained as well-rested as possible.”
+
+“The sentiment is appreciated, but unnecessary.” Stopping myself before I pat her arm, I awkwardly lower my hand and continue, “I wouldn’t ask my soldiers to do anything I’m not willing to do.”
+
+Blinking in surprise, Li Song slowly nods and says, “Yes... You wouldn’t.”
+
+After a few seconds of agonizing silence, I cough and scratch my neck while carefully choosing my words. If only I could destroy the chain and Li Song’s Oath along with it, but that would only tie us together permanently. “Er, that’s all I have to say. I should get to supervising.” Perfect. No commands or demands at all, leaving her free to do whatever she wants.
+
+“Yes Commander.” As she marches off, I realize I’m staring at her butt and avert my gaze, but the sight has already been engraved in memory. Less peach and more pear, her curvy posterior sits nicely atop two shapely thighs, an enchanting sight if I ever saw one. With her striking green eyes, long, braided ponytail, flawless, olive skin, and ample bosom, Li Song is a stunning beauty and exactly the type of woman I used to dream about. While Lin, Mila, Yan, and Luo-Luo are all beautiful in their own way, and I love the first three with all my heart, if we’re talking physical appearance and nothing else, Li Song is the only person I know who checks all my boxes.
+
+Tall, leggy, toned, and busty. Perfection...
+
+...
+
+Well... Akanai and Yuzhen also fit the bill, but that’s it.
+
+...
+
+Dammit, Alsantset is also exactly my type, as well as Tanaraq and Tursinai, but I could never see any of them like that. Especially Tursinai, she’s too cheery and sociable for us to ever have a relationship. Plus, she’s married. And more than a little crazy.
+
+...
+
+Now that I think about it, Zian’s mom is also my type. For a human woman, she’s really kept things together. She’s older than Zian’s uncle, but when they stand next to each other, they look more like father and daughter than brother and sister. It would never happen, but wouldn’t it be funny if we got hitched? I’d be Zian’s step-father and Jia Yang’s brother-in-law. God, it might be worth it just to see the looks on their faces when I tell them the good news...
+
+A piercing whistle puts an end to my indecent daydreaming as I track the source, a modified, blunted arrow used by the scouts to provide advanced warning to the camp. A clever piece of work if I say so myself, though it was harder to craft a working prototype than I thought. I should send word to Charok when we get back to SuiHua, I’m sure he’ll have plenty of advice to offer -
+
+Focus, idiot. We’re under attack. A big one too, or else Jorani – no, Erkin wouldn’t bother waking the entire camp. Finally, a real challenge. Maybe this time, there’ll even be a decent Champion to test my skills against. Oh, and I should also practice my Beyblade Aura, and maybe even shoot someone with Unity. So many things to practice and so few targets, trials and tribulations abound.
+
+Chapter Meme

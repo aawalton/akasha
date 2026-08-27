@@ -1,0 +1,251 @@
+---
+id: a11e59f2-72cd-541a-87b6-63f462ea1692
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Echoes and Rabbit Legs"
+slug: 0013-chapter-13-echoes-and-rabbit-legs
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 13
+ownLength: 1541
+unit: words
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2558620/chapter-13-echoes-and-rabbit-legs"
+royalRoadId: "2558620"
+---
+
+PoV Luna
+
+Morning air carried moss and fur and warm-sleep stink.
+
+The den breathed slowly. Snoring, snuffling, twitching tails in a loose sprawl of bodies. Luna blinked into the dim light, her tongue already working against her teeth, her stomach giving a soft, hopeful gurgle.
+
+She stretched long, toes flexed and claws scraping soft earth. Her ribs ached slightly, but it was the good kind. Growing aches. Strong aches.
+
+Luna gave her tail a lazy flick and slipped out between paws and pelts without stepping on a single snout. A skill, honestly.
+
+Outside, the light was brighter. Morning-glow. A squirrel chattered. A leaf hit her nose.
+
+She sniffed.
+
+Rabbit.
+
+Close.
+
+She dropped into the underbrush, paws light, ears forward. The trail was warm, the scent strong, the prey dumb.
+
+It was sitting in a patch of sun, nose twitching, big and floppy and slow.
+
+She didn’t bother stalking.
+
+One leap. One crunch.
+
+Its head came off in a single bite.
+
+Blood spattered her chest. The body twitched.
+
+She licked her lips and left it behind.
+
+The second rabbit was less cooperative.
+
+She caught its scent further east, deeper in the ferns. It heard her before she was close. Took off with a shriek and thump-thump-thump of powerful legs.
+
+Luna grinned.
+
+She chased. Claws dug in, paws pounded the ground. A fallen log. She leapt. Struck mid-air.
+
+Missed.
+
+The rabbit turned sharply around. She growled, tensed, and triggered [Shadow Step].
+
+The world blurred.
+
+She popped back into place one body-length ahead and snapped her teeth as the rabbit collided straight into her open jaws.
+
+【Momentum Claw Lv.2 → Lv.3】【Bite Lv.8 → Lv.9】
+
+The rabbit’s momentum helped. The crunch echoed in her ears.
+
+She didn’t even swallow, or chew. She just stood there, panting slightly, with fur on her tongue and joy buzzing in her tail.
+
+That counted as training.
+
+***
+
+The next few hours passed in a lazy haze of tracking and failed pounces on things not worth chasing. A weasel mocked her from a branch. She threw a stick at it.
+
+Then the breeze shifted.
+
+Boar.
+
+She tensed, sniffed, and listened.
+
+There.
+
+Snorting. Rooting. Munching on something stinky near a rotted stump.
+
+Luna circled without a sound. Ears low. Steps careful. It was big. Not huge. But big enough to feel satisfying.
+
+She jumped from the slope, landed on its back, and bit deep into the neck.
+
+It squealed, kicked, and twitched, but she held on.
+
+Then it fell.
+
+She stood over the body, panting softly, blood on her paws and mud streaking her fur.
+
+Her belly gave a hopeful twitch.
+
+But she didn’t eat.
+
+Didn’t even nibble.
+
+She bit its ear instead, then started dragging. Back through brush, over roots, around thorns. Her teeth ached by the time she reached the den again.
+
+Some of the wolves looked up.
+
+Others blinked, noses flaring.
+
+Luna dropped the carcass with a wet thud at the edge of the clearing, shook out her fur, and walked past it like it wasn’t a big deal.
+
+Like rabbit legs and boars were just morning snacks.
+
+And maybe they were.
+
+The boar lay beside the den, thick and streaked with dirt. Luna stepped back from it with a little snort of effort, then flicked her head toward the pups clustered near the fire-smooth stone.
+
+The rabbits followed in a lazy arc – one, two, three. The smallest landed right on one pup’s head. He yelped, shook it off, then bit into it with a high-pitched growl like he had done it himself.
+
+The others jumped on the prizes with squeals and tail-wags. It was chaos. Tiny bites and growls and proud strutting. One even dragged his kill behind a bush, pretending it was their secret hoard.
+
+Luna licked blood from her teeth and sat down.
+
+Some of the older wolves watched her. One gave a quiet huff and dipped their head. Two others turned away. Their ears twitched, but their noses wrinkled.
+
+She didn’t care.
+
+They hadn’t tasted the jerky. They hadn’t bled for it.
+
+The pups behind her yipped, one of them pouncing on another's tail instead of the rabbit. The boar was untouched, still too big for them.
+
+Let the others carve it. Let them wrinkle their noses and mutter. She had done her part.
+
+She had brought food they could stomach.
+
+She stretched her legs, cracked her jaw in a wide yawn, and stood again.
+
+This wasn’t her meal, not today.
+
+Her paws took her west, sniffing around.
+
+The breeze came slow, but she caught the briefest hint of her preferred target – spice!
+
+Salt. Burnt sugar. Tangy herbs layered over wood smoke. Human campfire scent, but fatter than before. Richer. There was meat there. More than rabbit. More than boar.
+
+They had been nearby again. Cooking. Laughing. Loud, clueless prey.
+
+She sniffed again and her tail twitched.
+
+Not close enough for danger. But close enough to know.
+
+Her ears tipped forward, catching echoes from the trees.
+
+It wasn’t just food. They talked in colors. Their voices danced strange patterns in the air, meanings shaped like wind. She didn’t understand all the words yet.
+
+But she wanted to.
+
+Every scent of human fire sparked more than hunger now. It twisted something in her chest. Something giddy and twitchy and strange. They cooked everything. They turned dumb animals into flavor. They chewed soft things and laughed while doing it. Like it wasn’t dangerous. Like it wasn’t earned.
+
+And their bags. Their tools. The weird sticks with black tips. The boxes full of fire and taste and rules.
+
+Luna wanted to bite all of it.
+
+Her paw brushed a rock as she stepped over a log. She paused.
+
+Looked back, just once.
+
+She knew the pups were still rolling there. Probably gnawing on the rabbit’s foot like it was the sweetest thing in the world. And the older wolves would snack on the boar.
+
+The den was still there, and they would be fine.
+
+She had brought enough meat for now.
+
+Now it was time for knowledge. And snacks. And maybe a few more tricks.
+
+She slinked west through ferns and shadow, tongue licking the last of the rabbit blood from her nose.
+
+Curiosity, she told herself.
+
+Just curiosity.
+
+And a little spice.
+
+The wind tugged soft through the leaves, and Luna followed it, her nose and twitching ears working overtime.
+
+The scent was a ribbon, weak and winding, but it kept her paws moving. Spice-flavored air and charcoal hum. Human. Distant. Recent.
+
+She bit whatever got in the way.
+
+First was a squirrel that panicked too late. Crunchy. Nut-flavored. Still not worth eating.
+
+Next came a young deer, lean and fast. She blinked into shadow mid-sprint, reappeared in front of it, and slammed it sideways with a claw before locking her teeth on the neck.
+
+It kicked once. Then not again.
+
+Her practice was paying off.
+
+She left the meat behind, she was too busy, and needed to get strong. Eat later.
+
+Then the weird thing.
+
+Scaly. Lumpy. Too many elbows.
+
+It tried to run up a rock.
+
+Luna pounced and sank her fangs into the top of its long head.
+
+【Level Up: 5 → 6】 【Strength +1 | Intelligence +1 | Charisma +1】【You continue solving problems through violence and stubbornness. The results are unfortunately measurable.】
+
+She spat out the taste and shook her head.
+
+“Mossy lizard. Bleh flavor.”
+
+But her paws were light now. Her belly quiet. Her eyes sharper than ever.
+
+Satisfied, she turned back toward the spice-trail.
+
+Old scent lined the path now. A campfire’s ghost clung to a cluster of stones. She sniffed deeper, smelling smoke, ash, and meat long gone. Bark scarred by knife edges. A stick half-burnt, jammed into the soil like a warning or forgotten decoration.
+
+The trees here were quieter, less frequented by animals.
+
+She padded on, slow, sniffing a bit of cloth snagged high on a branch. Red. Thin. Human. Carried by wind or mistake, it smelled faintly of sweat and onions.
+
+Closer.
+
+Luna’s ears flicked forward. Her nose twitched. There was something else. Human again, but not quite. Not the loud laughter or strong scent of jerky-hands and spice-pots. This one was lighter. Softer. Still shaped like prey, but… familiar?
+
+She crouched lower.
+
+The forest thinned ahead. Open sky peeked through leaves, and there was a break ahead.
+
+A road.
+
+Not a path or trail, but pressed earth lined with stone in places, wide enough for the two-legged things and their box-beasts. Old cart ruts. More than one. Cracked prints. Heavy paws. Boots.
+
+Luna stopped just behind the last line of green.
+
+Wind touched her fur. Warm. Loaded with dust and faint hints of sweat and steel. And something stranger still. Like fire trapped in skin. She didn’t know the word, but her hackles didn’t rise.
+
+Not yet.
+
+She sniffed the dirt at the road’s edge. Her tongue pressed against her teeth. This place.
+
+Here, she had found spice. Here, she had poisoned her own tongue with human salt and glory. And she wanted more.
+
+Luna narrowed her eyes.
+
+Then turned, her quiet paws stepping back into brush and comfort.
+
+She would return. When her claws hit harder and her stomach growled smarter.
+
+Today was for more levels.
+
+Soon… she would explore. And eat.

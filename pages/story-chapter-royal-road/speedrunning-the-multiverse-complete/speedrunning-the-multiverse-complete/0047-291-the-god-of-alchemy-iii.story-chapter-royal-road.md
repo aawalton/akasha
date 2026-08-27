@@ -1,0 +1,181 @@
+---
+id: 80c40297-0a67-5586-8a5d-a93bc1680edf
+page-type-slug: story-chapter-royal-road
+title: "291. The God of Alchemy (III) "
+slug: 0047-291-the-god-of-alchemy-iii
+partOf: speedrunning-the-multiverse-complete
+position: 47
+ownLength: 2063
+unit: words
+ownProgress: 2063
+publishedAt: 2023-08-24
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1320233/291-the-god-of-alchemy-iii"
+royalRoadId: "1320233"
+markedReadAt: "2026-06-29T22:43:17.637Z"
+---
+
+“Huh. You’re not supposed to be here,” said Dorian. “It’s only been six hours! Last time it took that other mutant, what, a day and a half?”
+
+Unsurprisingly, the chimera was not interested in what Dorian thought of its timing. It just attacked.
+
+[Blessing of Hermes!]
+
+He was there—but blink, and he was not. Where Dorian had been, a lash of lightning met a lash of fire. There was a piercing blast of sound—a crack of a whip, a roar of fire, a cackle of lightning blended in one. Laws wrestled with each other in the air; tongues of lightning and fire coiled about another, writhing like warring snakes.
+
+Growling, the Chimera yanked them apart; they broke in a hissing sparking shower. When the sparks touched the ground caved in, smoking, like it’d been struck by tiny cannonballs.
+
+If this thing was anything like its buddy, potshotting at it would do very little. First the Infinity Heart had to go. So Dorian leapt in, just like last time, a [Curse of Chelone] rising to his fingers. If it worked once…
+
+He never got there. The cloud of thunder-fire beneath the mutant’s feet reared up, bloated out, and Dorian ran straight into it. His vision went dark. His legs locked out. His arms went painfully straight. Every muscle in his body clenched at once as untold reams of lightning made of his body a playground.
+
+He landed face-first in a smoking heap, contributing yet another crater to the pocked ground.
+
+“Ow,” he said pointedly. He got up to a leg. The other one spasmed and twitched. So did half his face.
+
+No sportsmanship, this chimera—it was on him before he managed to draw a full breath, before he was sure which way was up. All he saw was bright red and flashing yellow. And his body was convulsing again. He was dimly aware of two ropes binding him, feeding lightning through his body. Something was smoking. It took him a second to realize it was him.
+
+The stupidest thing was, none of this actually hurt. It just made moving incredibly difficult. None of his muscles wanted to listen to him. The chimera drew nearer, like a spider creeping toward its flailing prey…
+
+[Carp Leaping the Dragon’s Gate!]
+
+And he was free, careening through the air, laughing wildly, partly out of real emotion, partly because his jaw was locked out and his lungs were spasming and that was just the sound that came out.
+
+Then his eyes went white, literally. And he ate dirt for the third time in thirty seconds.
+
+Only a breath later, blinking tears out of his stinging eyes, did he realize what’d hit him—or rather, what he’d run into. A trail of lightning arched through the air—like the string of a spider’s web. Hanging in the air, just waiting for some idiot to run into it. Then he realized it was everywhere—trailing that great thundercloud the chimera rode on, trailing paths of its lashing whip. All its attack left trails.
+
+There was a split second in between the moment he took in this information and the moment a full-on plan popped to mind. And in that split second the Chimera lashed at him, and so he dodged. Mid-dodge the idea hit him. His face lit up.
+
+And then a thick barb of lightning hit him, and his face lit up in a very different way.
+
+“Fuck!”
+
+He was on the ground again for a fourth time, flopping about like a fish. “Move,” he gritted out. “Move, damn you!”
+
+But he couldn’t. Streams of lightning crackled around him, caging him. He was helpless, prone as the chimera advanced on him, its four hands glowing like hot tongs. Its thundercloud passed over him, suffocating him; his head felt very light, his vision very dark. Four hands descended—
+
+“Just… kidding!” He winked. It was about as much as his body permitted. The chimera blinked, its mouths dumbly open.
+
+In quick succession—
+
+[Blessing of Hecate!]
+
+[Midas Touch!]
+
+Midas Touch was a curious Technique. In theory, it could transform any inorganic material into any other inorganic material at a touch—if you had the qi for it, that was. The more powerful the thing to be transformed, the more difficult it was to do it. He could’ve transformed the lashes when they bound him, but that would’ve eaten up a good chunk of his qi. It would’ve solved his temporary problem of having the shit electrified out of him, but not the more pressing, permanent issue—the Chimera bearing down on him.
+
+But this ought to do the trick.
+
+The thundercloud became a solid chunk of bedrock, bound tight with steel laws worthy of the Pliny himself. The Chimera found itself ensconsced in this sudden prison—a prison where its lightning went to die.
+
+And the space around them went from air to water. A floating aquarium of two strange specimens, staring blankly at one another.
+
+Dorian kicked off, shot out, landed panting on the ground, and grinned with the half of his face that wasn’t spasming. Above, the Chimera twisted and bucked furiously but getting out was no trivial thing.
+
+“Now where is this Infinity Heart?”
+
+Somewhere beneath—it could be anywhere, and the ground was a vast place. Too vast to search in too little time; already the Chimera had wiggled an arm free.
+
+So he sank his fingers into the ground, picked some arbitrarily large tract of land, and gave it an ol’ [Midas Touch].
+
+Soil, earth, stone, and the top half of a steel bunker went up in smoke, literally.
+
+He did not anticipate that last item. Nor did he anticipate the wards crisscrossing it, which took a great deal more qi to transform than mere dirt.
+
+So much qi that he was pretty sure he blacked out for a second.
+
+He woke a second later to the jarring sensation of face-planting into steel after a hundred li fall.
+
+“Eh?” He mumbled.
+
+Before him, cringing behind a desk, was a terrified-looking Godking. A beside him was an Infinity Heart stashed in a half-open steel case.
+
+Dorian was worried he’d have to fight this guy. He was a very thick-headed fellow, something he took great pride in, in fact, but the amount of face-planting he’d done in rapid succession still took a serious toll. The room sloshed about in a way solid things really shouldn’t. He felt a strong urge to vomit.
+
+To his relief, the Godking cried out and fled.
+
+Groaning, slinking over by his arms and wings like an earthworm, Dorian got to the Infinity Heart. He was pretty sure that if he tried throwing a [Fist of the Falling Star] in this state he’d end up hitting himself. Instead he went with what felt natural—letting his Eclipse qi flow up his throat and projectile-vomiting on the damned thing until it stopped existing.
+
+It took a few seconds, but he heard the crack. The disappearance of qi. He gave a drunken cheer.
+
+Then cried out as a hot lash took him behind the head. He grabbed at it, growling.
+
+“Not so fuckin’ hot now, are you?” he slurred. He stumbled to his feet and yanked.
+
+The chimera was dragged flailing down into him.“C’mere!”
+
+Waddling over, he crushed it in a hug. Then he started to retch more qi. His nausea was somehow a boost to his powers; he was throwing out volumes of dragonbreath he’d never managed before. The Chimera struggled against him, its two heads screeching, lightning sizzling up and down its body, but without the boost of the Infinity it merely felt extremely unpleasant rather than totally debilitating.
+
+Dorian wagered it found his dragonbreath far more unpleasant.
+
+At some point it stopped kicking. Dorian carried on for another few breaths, until his head’s pounding had subsided to a dull throbbing. Once the dragonbreath faded he saw he was clutching the lower half of the chimera. The upper half had been made a puddle.
+
+“Heh,” he giggled.
+
+***
+
+“No!”
+
+The Prime Chimera froze in its journey down that long stretch of nowhere between Realms. It felt its endpoint cut off.
+
+And then it snapped back, away, elastically. It found itself once more in the Twilight Realm, standing atop a blackened ruins.
+
+Jez screamed.
+
+***
+
+It took Dorian a few hours to get to his senses. When he rose out of his hole he found a changed realm.
+
+The few factories still functioning spewed no smoke. They’d been abandoned and looted, by the looks of it. Most of the folk were gathered at the center of the town, feasting along several long tables. Some of them were so gaunt this was likely the first time they’d tasted meat in years.
+
+“Greetings!” A Godking flew up to him, bowing so low Dorian was impressed at his flexibility. It was the fellow who’d screamed and fled—one of Jez’s men, he’d thought. “This one is named Caius—previously the President of the Alchemist’s Guild. Now, your humble servant, and dedicated devotee to Fate’s cause.”
+
+“Wow. You’ve switched sides that fast? The chimera hasn’t even been buried yet!”
+
+“I was compelled!” cried Caius. “All this—it was Jez’s doing, I swear it! I never wished harm on anyone—”
+
+“Yeah, somehow I doubt that.”
+
+“Look!”
+
+He gestured at the table where workers were busily munching. Most had stripped off their uniforms. Caius’ smile was strained, tight-lipped. “I have set up food for the workers; I have ordered the destruction of the factories. If Fate wishes the Multiverse liberated, I am eager to undo the chains! I am a reasonable man—capable of change, capable of… adaptation? So the winds have shifted in Eden. I see that now. I am happy to pledge myself the service of the new age.”
+
+“Right. I’m going to need a little more than your good word.”
+
+“Naturally.” Caius produced a soul contract, ready made. “As proof of my sincerity.”
+
+“Hmm.” Dorian scanned it. “Give me a soul pen, will you?”
+
+With it, he crossed out a dozen or so loopholes—vagaries of wording, triple negatives, that sort of thing. Caius winced at every slash. Then he added in some new restrictions, placing a textual leash around Caius’s neck.
+
+“There we are. Sign here.”
+
+Caius paused; there came that strained smile again. “My friend, some of these points are… somewhat unreasonable, some might say—”
+
+“I am a very unreasonable person.” Dorian smiled. “So you should think twice about trying my patience.”
+
+“Of course, of course,” said Caius hastily. The Godking signed.
+
+“Then you will be the custodian who cleans up this mess.”
+
+Dorian turned to address the chomping masses. He gave his usual recruiting speech about Fate and so forth. But he tacked on something extra on the end. He wasn’t sure what drove him to it. Maybe he was feeling a tad sentimental—nostalgic, even.
+
+“This realm used to be beautiful, you know,” he sighed. “Then some asshat came along and, well…” He gestured vaguely around him. “It is possible to live alongside nature, rather than above it. I’ve seen it. But it would take setting a voluntary limit on your desires, and, well, I’m hardly one to lecture anyone on that!”
+
+A pause.
+
+“So here’s a parting gift.”
+
+He sank his fingers into the earth. And he recalled what it was like, all those years ago.
+
+[Midas’ Touch!]
+
+Charred soil turned bright, loamy, soft, spreading outward; and from it bloomed great stalks of greenery, flowers the size of men popping out of the earth with wild vigor, turning their proud faces skyward. Seeking out a sun that was not there.
+
+Gasps rippled through the crowd of onlookers. But Dorian wasn’t done. He touched the air, and smog turned clear; the air was so fresh, so crisp a breath felt like a shot of energy. He touched the choking blanket of black clouds and they vanished at once. It was like someone turned the light on in this world. The sky was a miracle of blue; the crowd was rooted to the spot, too shocked to even gasp, staring, staring. And rising, coloring it with new light, was the morning sun.
+
+Dorian sighed just looking at their faces. He could see why, all those ages ago, a younger, more foolish Dorian had so loved helping folk.
+
+If you could bring yourself to take them seriously—if you could bring yourself to take this world, this moment seriously—
+
+It was rather nice.

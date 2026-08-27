@@ -1,0 +1,225 @@
+---
+id: d904496f-5a5d-5e20-b86c-b82be386cb9f
+page-type-slug: story-chapter-royal-road
+title: "169. The Return (Start of Volume 4)"
+slug: 0025-169-the-return-start-of-volume-4
+partOf: salvos
+position: 25
+ownLength: 2108
+unit: words
+publishedAt: 2021-08-19
+link: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/736412/169-the-return-start-of-volume-4"
+royalRoadId: "736412"
+---
+
+169. The Return
+
+It was night. The fallen city lay dormant, a forgotten husk of what it once was. At the height of its glory, the moonlight would limn the streets with a golden white. The cobbled road had been chiseled with decorative patterns that drew the eyes of nobles and peasants alike, and a steep wall had once girdled the periphery to fend off any invaders who dared to encroach on the city at twilight or dawn.
+
+Tall houses and busy shops flanked the streets from both sides. Street vendors would shout at weary travelers and pilgrims as they made their way to the temple lying in the heart of the city. A second, sturdier wall protected this crowded inner city. Only the richest lived there. They collected tribute from those beyond their banclite wall as they played the facade of [Priests] and lords. The greed of the nobility.
+
+Alas, it was all gone now. Their greed had driven the city to despair. Their place of worship wrought the anger of the Fairy Queen herself. The former city of Brilsum was now a Dungeon, claimed by monsters and animals and nature. Its gilded roads were cracked and ruined, scarred by the magic of a [Hero]. The only good [Hero] to have walked the Nexeus— this world.
+
+Melissa the Oracle of Light.
+
+It wasn’t divine retribution. It was simply retaliation. There was a reason why the Fairy Queen herself refused to join the pact with the Spirit Lord. They wished to be left alone, unbothered by mortals. And yet, Humankind thought it wise to bother Fairies, seek out their mounds, and build places of worship around it. Of course the Fairy Queen wouldn’t just let it stand.
+
+Call it revenge or call it unnecessary, the Fairy Queen befriended Melissa and asked her to do one simple thing: fell all the Fairy temples and punish their worshippers. Melissa, for her part, carried out her duty diligently, forever bringing an end to the blasphemous Court of the Fae.
+
+Oh, how Lily wished she had met the Oracle of Light. If only once, in the Fairy’s life, could she meet a Human that wasn’t so vile and crude. With a shake of the head, she flew back down to the Brilsum Ruins. Gazing at the beautiful, destroyed landscape was a favorite pastime of hers, only ruined by the pesky [Vurats] that came with the day.
+
+She flitted through its empty streets, darted between crumbled homes, and hovered over the rubble of fallen crenellations before seeping through the cracks of debris. This pile of rocks was once a temple, with a domed roof top that climbed far beyond any other structure in the city. It stood taller than even a palace. It resembled none of that now.
+
+Lily descended further below, into the basement, down a complex of tunnels dug out long ago. An escape route that had all its exits collapsed. She arrived at the central chamber. A mound of stone and dirt resembled the shape of a hive, with small holes barely big enough for Lily to squeeze through. It was a Fairy’s Mound. This had been where she lived with her brothers and sisters. Not before two of them had been slain and they were chased back to the Spirit Plane.
+
+With a sigh, Lily nestled herself within the cracks of the Fairy Mound. She wished she could return with them. But her Class was far too low leveled. Yes, her Subspecies was in the 100s. However, only her Class related to space magic. And as it currently was, she couldn’t cross planes within the Nexeus on her own.
+
+She closed her eyes as another day passed. Fairies didn’t need sleep. But that didn’t mean she couldn’t sleep. Especially with how exhausted she felt, just waiting for time to passt for any of her siblings to return for her. Chances were, they thought she was dead. Maybe eventually, it was going to happen. For now, she waited as she succumbed to her dreams—
+
+Lily jolted awake as she heard a rumbling from above. The ceiling shook, and she frowned.
+
+“What is that?”
+
+“Why are there so many of you!”
+
+I unleashed a furious fireball from my mouth. It blasted apart the swarm of [Vurats], the low leveled monster completely defenseless against my magic. The problem was, however, there were thousands of them.
+
+I had seen [Vurats] before. They were almost always monsters that appeared on their own, in the middle of the night, to feast on corpses rather than to attack me. These were different. They were—
+
+Defeated [Locust Vurat - Lvl. 15]!
+
+Little-to-no experience is awarded for defeating an enemy at least 50 levels below you!
+
+[Locust Vurats]. Barely even a Silver Rank threat. They were far smaller than normal [Vurats]. They were each the size of my hand, with rapidly beating wings and claw-like legs. These were swarm monsters by every definition of the term ‘swarm’. I was pretty sure I stepped on its Lair while on the way to the Brilsum Ruins, because there were a lot of them. Sure, my flames burned them even without coming close to touching them. The heat from my fire itself was enough to light those a dozen feet away ablaze. But it would take forever to kill them all.
+
+And the worst part? I barely got any experience from killing them.
+
+“Ugh, leave me alone!”
+
+I wasn’t here to fight them. I did plenty of fighting just barely a month ago, thank you very much. I fought through the Motharis Mountain Range and ventured into the Brilsum Ruins for one reason only: to find my friend, Lily!
+
+“Be quiet!”
+
+[Intimidation] drew hundreds of them to a stop at once. With that brief reprieve, I scampered down an alleyway and hid in a barely standing house. The buzzing of the [Locust Vurats] grew louder as they collected themselves and flew past my building. But they didn’t enter it. They continued on, in search of me, too mindless to check every nook and cranny I could be hiding in.
+
+“Idiots.”
+
+I whispered under my breath as I slumped over on the floor. I didn’t touch anything. I learned my lesson from the last time I was here— everything was old and decrepit. It could come falling down in an instant.
+
+The swarm of [Locust Vurats] eventually left entirely; I could no longer hear their swarm passing through. I took this chance to press on, exiting the building and taking in my surroundings.
+
+I was in the Brilsum Ruins, the Platinum Rank Dungeon which I visited nearly a year ago now. I had barely been Level 50 when I first arrived. Back then, there were Mindreapers leading hordes and hordes of monsters, patrolling the city, assailing anyone that dared enter its premises. Now, it was empty.
+
+An eerie quiet held the Brilsum Ruins. Other than the swarm of [Locust Vurats], I hadn’t encountered a single other monster within this Dungeon. It was like they all just left, vacating the Brilsun Ruins for somewhere else.
+
+And they did. I saw them leave— their departure brought them down from Motharis, straight to Vamont, a city at the edge of the Sunmere Republic. Their numbers had exponentially increased by then. The one leading them, Belzu, was above even an Archdemon now. It was a short siege. In the span of under an hour, they tore the city down and razed it to the ground.
+
+So many Humans died that day. And his rampage continued. But for me personally, it meant that I could go to the Brilsum Ruins without having to sneak around in search of what I wanted. Or rather, in search of who I needed to see.
+
+“Now, where are you, Lily—”
+
+Leave, Archdemon!
+
+A voice shouted in my head. I jerked back and spun around, completely caught off-guard by the mind magic. It took me a moment to regain my bearings, but when I did, I immediately brightened.
+
+“Lily? Is that you? Where are you?”
+
+I have no reason to reveal myself to you, Archdemon. If Belzu sent you to finish the job, tell him that he would have to find me himself.
+
+“What?”
+
+I took a step back, offended.
+
+“I’m not with Belzu! It’s me! You don’t remember me? I thought we were friends!”
+
+I frantically waved my hands around, sputtering, spitting saliva into the air. There was a pause. A moment of silence. I felt my shoulders sag as I thought she left me alone. Then there was a flash, and a little Fairy appeared before me.
+
+“You— you’re Salvos?”
+
+Lily blinked as she floated in front of my face. I nodded eagerly.
+
+“That’s me!”
+
+Her eyes narrowed. She peered into me, as if inspecting a toy or an artifact. It wasn’t much of a surprise that she didn’t recognize me. While my clawed hands and horns remained unchanged from when I last met her, I no longer stood as tall and lanky as I once did, with arms that reached down to my knees, and feet as large as my head.
+
+My face was no longer like the skull of a dead animal. Instead, it was relatively round and without a snout. My teeth were as sharp as before, but no longer as numerous. In terms of my face alone, I looked just as I did as an [Imp].
+
+“You certainly sound like her. But you’ve changed quite a bit since I last saw you, haven’t you?”
+
+“Yep. I evolved— twice! I’m higher leveled than you now!”
+
+Scoffing, Lily flew back away from me and crossed her arms.
+
+“It seems you have been busy. I would laud such leaps in strength if it were not so needlessly reckless. You’re a Demon, are you not? Time is your ally, not your enemy.”
+
+I grinned.
+
+“It’s good to see you too, Lily.”
+
+She giggled, and I laughed.
+
+“So, why have you returned, Salvos?”
+
+The Fairy shook her head. She was a tiny thing. She was about the size of my head. Slightly smaller. She radiated a bright light, as if her entire being was made of gold. Only her eyes were of a different color. They were like the void— a black which swallowed even her own light.
+
+I really wanted to touch her, but I knew she’d slap me for it. She was just such an ethereal and pretty thing, I almost lost myself staring at her. But I gathered myself and answered her question before she got annoyed at me.
+
+“I need your help—”
+
+I paused as a ringing in my ear grew louder. Lily groaned as she glanced up at the dark shadow pouring over the blue dome overhead. An oppressive buzzing sound encroached on us. I stared at the swarm of [Locust Vurats].
+
+“Again, seriously?”
+
+“Pesky things.”
+
+Lily sighed and raised a hand. A portal opened up before us. She gestured for me to enter.
+
+“Come, let’s speak somewhere where we won’t be bothered.”
+
+My eyes grew wide as I took in the space magic she cast. I could see the intricate design webwork of mana threads now, thanks to my Class. It was complex. I wanted to study it. But Lily ushered me in.
+
+“Hurry up!”
+
+I did as I was told, entering the cave on the other side of the portal, before it shut behind us.
+
+Salvos (Liberator of the Plaguelands)
+
+Species: [Archdemon of Pride]
+
+Subspecies: [Daeva Cambion] - Lvl. 106
+
+Class: [Adept of the Fae] - Lvl. 28
+
+General Skills:
+
+[Advanced Mana Manipulation] - Lvl. 8
+
+[Identification] - Lvl. 5
+
+[Racial Skill: Universal Language Comprehension] - Lvl. 1
+
+[Racial Skill: Demonic Essence] - Lvl. 2
+
+[Racial Skill: Partial Mortality] - Lvl. 2
+
+[Rest] - Lvl. 4
+
+[Lesser Enhanced Wisdom] - Lvl. 4
+
+[Title Skill: General Curse Resistance] - Lvl. 2
+
+[Title Skill: Recall Skill] - Lvl. 1
+
+Stats:
+
+[Available Stat Points: 0]
+
+[Vitality]: 130 (+25)
+
+[Strength]: 105 (+25)
+
+[Endurance]: 113 (+25)
+
+[Wisdom]: 200 (+25) (+8)
+
+[Agility]: 253 (+25)
+
+Skills:
+
+[Available Skill Points: 2]
+
+[Barrage of Cinders] - Lvl. 20 (Maxed)
+
+[Demon’s Mark] - Lvl. 5
+
+[Haste] - Lvl. 5
+
+[Intimidation] - Lvl. 10 (Maxed)
+
+[Faux Limbs] - Lvl. 1
+
+[Nebular Construct] - Lvl. 6
+
+[Radiant Slash] - Lvl. 15 (Maxed)
+
+[The Primordial Spark] - Lvl. 15
+
+[Wings of the Netherworld] - Lvl. 4
+
+[Passive - A Hunter’s Sense] - Lvl. 10 (Maxed)
+
+[Passive - Blue Flames] - Lvl. 20 (Maxed)
+
+[Passive - Weapon Mastery] - Lvl. 20 (Maxed)
+
+[Unused Skill Slot] x2
+
+Secondary Skills:
+
+[Available Secondary Skill Points: 1]
+
+[Banish] - Lvl. 20
+
+[Spatial Sight] - Lvl. 20 (Maxed)
+
+[Unused Secondary Skill Slot] x1

@@ -1,0 +1,123 @@
+---
+id: ae94d509-df51-5403-95f0-e54dc71a87f2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 664: Hall of the Deceased"
+slug: 0086-chapter-664-hall-of-the-deceased
+partOf: system-change-system-universe
+position: 86
+ownLength: 2015
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3646269/chapter-664-hall-of-the-deceased"
+royalRoadId: "3646269"
+---
+
+Chapter 664: Hall of the Deceased
+
+This time, Alex fell back to walk beside Derek as Captain Hawthorne led them into another building. This building was also built for function over form. Though it did have some tapestries and crests of House Loomis. The family crest—Derek assumed it was the main family’s crest—was the color of mana blue and an almost glowing white.
+
+It was odd that the color on the crest actually glowed—he couldn’t tell if it was because it was made with a constant stream of mana or just a color. Whatever it was, he liked it. Along with the colors, there was a spindle wrapped in thread crossed with a sword with a threaded hilt, and all that was on top of a shield that also looked like it was formed by thread.
+
+These people really take their soul thread affinity seriously, Derek thought. From what he’d seen of Alex, he could completely understand how the affinity—which he just assumed was something along the lines of soul thread—could be used in a number of ways. Alex used it mostly as support, but it could obviously be used to attack, defend, support, or even craft. In fact, he wouldn’t be surprised if the way the clan earned a lot of their money was through tailoring or some other kind of crafting that used it.
+
+After taking a second glance at the main family’s crest, Derek followed the captain inside alongside Alex. The captain paused once they were all inside, then turned and looked, and just for Derek, said, “This is the Loomis Clan’s Registry—also known as the House of Records. When a new member is born, when a member dies, when a member gets engaged or married, commits certain crimes, or accomplishes certain achievements, it is all updated here in the House of Records.”
+
+“Makes sense,” Derek said with a nod, then waited.
+
+“Come on.” Captain Hawthorne continued until he ran into a clerk behind a desk.
+
+“Captain Hawthorne, how may I help you today?” the clerk asked.
+
+“We need to visit the Hall of the Deceased,” the man stated bluntly.
+
+The clerk looked behind the captain and saw Derek, then saw Alex. Her eyes widened. “Is that Young Lord Alexander Loomis?” she asked.
+
+“Yes, it is,” the captain answered in the affirmative.
+
+“I see...” the clerk muttered. “Then you really do need to visit the hall. One moment,” she said, then placed her hand on the desk in front of her, which brought up a holographic screen. She then pushed a few buttons, and suddenly, a wall to the left that Derek didn’t even know was an entrance slid open. “Please, go ahead. The Hall Master has been informed of the situation and will be waiting.”
+
+“Is it okay for my friend to come with me?” Alex asked while nodding at Derek.
+
+“The Hall Master has been informed that there is a low-level system user being escorted with you by Captain Hawthorne,” the clerk said. “If there is an issue with it, he will send your friend away or have him wait in private.”
+
+“Thank you,” Alex nodded to the clerk.
+
+“It is my pleasure, Young Lord,” the woman blushed a bit, then nodded.
+
+After that, the captain led them over to the newly opened entrance and then inside. Derek was fascinated by the hallway. There were portraits of members of the house—presumably deceased ancestors—and there were actual, physical books, along with crystals beside them.
+
+“Each book has a record of feats accomplished by each person on the wall,” Alex explained after seeing Derek’s look. “Only clan members who obtain certain statuses get such treatment. The crystals beside the books are memory crystals.”
+
+“Memory crystals?” Derek asked.
+
+“Yes,” Alex said, then shot Derek a cautious look and sent him a telepathic message instead of speaking out loud. ‘It would be weird for you not to know what memory crystals are. They are very common. Fathers, mothers, siblings... they all usually set up a crystal so their family will have something to remember them by if they meet an untimely death. They contain wills, stories... memories... anything the person filling it would like to include.’
+
+‘Thanks...’Derek sent back, then said, “It’s been a minute since I’ve seen so many of them in one location. I bet there’s a treasure trove of information and nostalgia in this place.”
+
+“That there is,” the captain replied after turning to look at Derek. “And the greatest thing is that the Loomis Clan allows anyone of the family who reaches a certain rank to view most of the crystals in here. Of course, some are off-limits—like those of previous patriarchs—but many are public to those of certain standings. Even guards like me have the ability to view certain ones on occasion.
+
+“Some of the previous generation that are memorialized down here were kind enough to explain their path and affinity as well,” the captain said. “It doesn’t do a lot of good for someone seeing them for the first time, but if, say... I viewed one and learned all about an affinity. I wouldn’t be able to do anything with it myself, but I would have that information if I ever had a son or daughter to pass it down to. Now, of course, only certain paths and affinities are available from here like that, but it’s much better than most clans in the System Universe,” he finished explaining.
+
+“That’s... actually quite nice,” Derek said. “Alex... other than some issues with you dying and being betrayed and all that... your clan doesn’t seem so bad,” he chuckled.
+
+“I don’t have many complaints about them, either...” Alex replied with a light chuckle. “Well... yeah... other than the being betrayed and thought dead stuff.”
+
+Soon after walking through the first part of the Hall of the Deceased, they ran into a wall with a door. Alex leaned over and whispered, “This part was just the more public area—open to the lowest of the ranks. Through the door is the Hall Master, and the halls dedicated to the more notable and distinguished members of the clan. With my rank in the clan, I can only access two of the halls inside.”
+
+Derek just nodded. There wasn’t much for him to say to that. Instead, he waited for the captain to knock and for the door to open. Then, he and Alex followed the man inside. Once inside, he glanced around the circular room. The colors were the same as the tapestries of the clan—mana blue and oddly shining white.
+
+In the center of the room was a circular counter with an old man with long hair in a ponytail that was the same color as the shining white of the clan’s crest. He had a full beard that went all the way down to his chest, and very bright mana-blue eyes. The man wasn’t even channeling his aura, yet it was almost as if he was emanating it the entire time.
+
+Captain Hawthorne stepped forward and bowed one of the deepest bows that Derek had ever seen—any more and he might as well have kowtowed on the ground. “Hall Master Sheen,” he said in a respectful tone once he straightened back up. “I have come with some news and to request that an error be resolved.”
+
+“The news is that Alex Loomis, the Third Heir to the Sixth-Ranked Branch of our Loomis Clan, is, in fact, alive, and not dead?” the man’s ephemeral voice echoed throughout the hall as he spoke. “And the error is that we let a traitor go without so much as a proper interrogation?”
+
+“Well... uh... yes...” the captain gulped.
+
+“The error has already been resolved,” the Hall Master said, causing confusion among the three.
+
+“Pardon?” the captain asked.
+
+“No... he was not,” the man said with a shining grin.
+
+“I do not understand, Hall Master Sheen,” Captain Hawthorne said. “Could you please enlighten me?”
+
+“Hawthorne, do you know why the clan is currently under Protocol 2?” the bearded man asked.
+
+“I do not,” the captain replied. “I obtained my orders, and I am carrying them out. I do not need to know the specifics to carry out my duties to the clan, as the clan has my full faith.”
+
+“Good answer!” the man chuckled from behind the counter. “The truth is, yes, we all fully believed that young Alex here was deceased. That much is true. And yes, we let his escort leave the clan bound with no oaths or contracts. However, some of those contracts worked both ways.”
+
+“That means...”
+
+“That means that sometimes it is much easier to interrogate and keep secret information gained when it is done outside of clan headquarters while the vast majority of the clan believes something else has happened,” the man explained—his smile never leaving his lips. “However, Adrian...” the man faux-spit on the ground, “truly believed that young Alex here was dead, so even after the escort’s timely death, there was no reason to think otherwise.”
+
+“I see...” the captain muttered. “Then Protocol 2?”
+
+“It’s because House Grimshaw is up to their shenanigans again,” Hall Master Sheen sighed. “Adrian was to be paid handsomely to leave Alex alone on the planet without a way to get home. They found a way to bypass his oaths since he wasn’t technically betraying the clan by directly hurting Alex. In fact, Adrian was only being paid to ‘test’ the portable teleportation device once on the desolate planet. Nothing in how he was approached technically had anything to do with our plan.
+
+“It was quite intriguing, and now has Hall Master Bradshaw going over many of the clan’s contracts. Never once was the Loomis Clan or young Alex here mentioned by House Grimshaw,” the man finished.
+
+“That... is unexpected,” the captain said. “So we are on light lockdown in case the Grimshaw Clan tries anything here at the headquarters?”
+
+“We are,” the man said with a nod. “And now, let’s discuss this pleasant surprise. Alex, please step forward.”
+
+“Yes, Hall Master Sheen,” Alex bowed—though not as deep as the guard had—and took a step forward.
+
+“Is it really you?” the man asked.
+
+“It is, Hall Master,” Alex replied. “If you would like, I would swear to you the same oath I swore to Captain Hawthorne,” he said, then told him the oath he swore.
+
+“Idiot!” the man clicked his tongue in disdain. “It is not unfeasible that an oath like that could have failed. Do not act so carelessly with oaths. But since you are still alive, and it would be the quickest way to resolve this in front of me, you may go ahead.”
+
+Alex swallowed hard, and Derek grinned. The old man had apparently thought the exact same thing as Derek when he heard Alex swear the oath. This time, Alex gave the old man the same oath, and it was accepted. Alex looked a little embarrassed, as did the captain, but neither of them said anything about it.
+
+“Good,” the man said with a nod, then clicked on the counter and a holographic image with a handprint appeared in front of them. “Place your hand there, and I can have the registry updated from here. No need to go back and re-register after you are removed from the list of deceased.”
+
+Alex took another step forward and placed his hand on the image. A light shone over his body, and it seemed as if he was being scanned from top to bottom. After a few seconds, the screen vanished, and Alex took a step back. The old man inputted a few commands into the top of his counter, then looked up.
+
+“Congratulations, young Alex,” he said. “You have been resurrected into the Loomis Clan.”
+
+“Thank you, Hall Master Sheen,” Alex replied with a sigh and bowed once again.
+
+Finally, the hall master turned and looked at Derek, who had been standing there quietly the entire time. “Tell me, how do you know House Grimshaw? Do you work for them? Your showing up here at this time is awfully convenient.”

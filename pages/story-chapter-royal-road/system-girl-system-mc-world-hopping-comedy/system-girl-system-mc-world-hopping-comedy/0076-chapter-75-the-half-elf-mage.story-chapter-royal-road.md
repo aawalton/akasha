@@ -1,0 +1,153 @@
+---
+id: a0979938-9902-57a0-8193-b61d0ff72cd4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75: The Half-Elf Mage"
+slug: 0076-chapter-75-the-half-elf-mage
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 76
+ownLength: 2030
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3358908/chapter-75-the-half-elf-mage"
+royalRoadId: "3358908"
+---
+
+After another grueling afternoon spent wrestling with inventory management and optimizing the kitchen layout, Ren stepped out into the cool evening air. It was time for his daily dose of torture.
+
+[Ana: Come on, let's get this over with fast. Kaelthos is waiting, and we have to prep for the dinner rush. The crab thermidor won't bake itself.]
+
+Ren groaned, rolling his shoulders as he headed toward the makeshift training ring. "I hate you. I hate him. I hate cardio. I'm a Supply Lord, Ana. I should be sitting in a velvet chair, pointing at things, and making other people carry them."
+
+[Ana: And what happens when a rogue mercenary decides your velvet chair looks comfortable and challenges you for it? You can't outsource personal survival.]
+
+"Fine," Ren muttered, picking up a wooden practice sword. "But if he hits me in the shins again, I'm cutting his salary."
+
+…
+
+The sun was dipping low over the ocean, casting long, golden shadows across the Seaside Inn. On the third floor, in one of the premium suites, Parisa was just stirring from bed.
+
+She stretched luxuriously, the crisp linen sheets rustling around her. She was profoundly content with this place. Sleeping in until the evening was a rare, exquisite pleasure, though a small part of her military-trained mind nagged that she shouldn't lose track of her primary objective.
+
+Parisa was a decorated battlemage of the State Army. She wasn't just another soldier; she had received a noble title directly from His Majesty the King, establishing House Parisa. It was a hard-won honor, paid for in blood and scorched earth on the northern borders.
+
+Currently, this decorated war hero was in the capital on official leave, drawn by a rumor that sounded too good to be true. Word had reached the front lines that the legendary "Warrior's Broth"—the instant ramen that she and her troops loved so deeply—could be purchased directly from the source at a new establishment called the Seaside Inn.
+
+Ramen was a tightly controlled luxury in the army. Even as a high-ranking officer, Parisa was only allocated three cups a day. It wasn't enough. The rich, salty, artificial beef flavor was addictive. She needed more. If the rumors were true, she was fully prepared to drop a pouch of gold and buy out the entire shop.
+
+But alas, yesterday had been a disaster. By the time she arrived at the inn, having traveled for weeks, the shop was sold out. She had watched in mounting horror as an elderly merchant bought the very last cup of Spicy Shrimp. For a dark, desperate moment, the decorated battlemage had seriously considered wrestling the old man to the cobblestones for it.
+
+The old man was spared only because a polite elven staff member informed her that a fresh restock was scheduled for today.
+
+Parisa had been fully prepared to camp on the sidewalk in front of the store doors, a tactic she wasn't entirely above. But the staff informed her they had premium rooms available. And the food... by the Gods, the food served in the dining room last night had been sublime. She might even admit it was better than the ramen. The chili crab had nearly made her weep.
+
+Now, properly rested and fueled by anticipation, Parisa marched downstairs to the shop.
+
+"I will take one thousand packets," Parisa announced to the elven clerk behind the counter, slamming a heavy purse of gold down. "Beef, if you have it. If not, a mix."
+
+The clerk, a young elf named Isara, offered a polite, apologetic bow. "I am terribly sorry, My Lady. The purchase limit is strictly one unit per day, per customer."
+
+Parisa blinked. "Excuse me? Did you say one?"
+
+"Yes, My Lady. Store policy."
+
+"Fine," Parisa huffed, trying to rein in her frustration. "I will settle for one of each flavor. Three packets."
+
+Isara bowed again, even lower. "I apologize again, My Lady. The limit is one unit total. Regardless of flavor."
+
+Parisa stared at the clerk. The air around the mage began to crackle faintly with ambient mana. "Listen to me closely," she said, her voice dropping to a dangerous purr. "I am Lady Parisa. I hold a Royal Charter. I have gold. Give me the noodles."
+
+Isara didn't flinch, though she looked uncomfortable. "This is a restriction placed upon us by the State, My Lady, as part of our military contract. Our hands are completely tied."
+
+Parisa threw her hands up, thoroughly frustrated. She looked up, ready to give this stubborn shopkeeper a blistering piece of her mind regarding the free market economy.
+
+Then she noticed Isara’s pointed ears.
+
+Parisa sighed, the crackling mana dissipating instantly. She let her shoulders drop. She settled for one single packet of Chicken flavor, paid her copper, and left the store.
+
+She couldn't yell at an elf. She just didn't have the heart for it. She had always harbored a soft spot for them.
+
+It made sense, given that Parisa was a half-elf herself.
+
+In fact, her mixed heritage was exactly what made her such an unpredictable, devastating mage on the battlefield. She possessed the raw, volatile mana capacity of a human, combined with the innate, delicate control of elven spirit magic. She had a contracted spirit, just like full-blooded elves, which amplified her spells to terrifying levels.
+
+She looked up at the sky, a bitter, triumphant smirk touching her lips. Suck on that, Lord Father, she thought, aiming the sentiment at the human noble who had sired her and promptly discarded her mother. She had risen higher than his legitimate heirs ever would.
+
+Parisa began to walk along the beach, the cool sand soothing beneath her boots. The sun would go down in an hour, painting the horizon in streaks of violet and gold. It was peaceful.
+
+Suddenly, a small, glowing shape sprang from the folds of her cloak. It was Piku, her contracted spirit. It looked like a tiny, luminous blue hummingbird. Piku flapped its translucent wings frantically and shot across the beach, zooming toward a small figure playing in the sand near the water's edge.
+
+Parisa stopped, surprised. Piku was notoriously shy. It rarely left the safety of her aura, and it certainly wasn't fond of strangers, not even other elves.
+
+Intrigued, Parisa followed the spirit's flight path.
+
+She saw a little girl playing in the sand, building a lopsided castle. Piku was hovering around the child's head, buzzing happily, doing loops and figure-eights.
+
+Parisa looked closer and saw an elven maid watching over the little girl with intense vigilance. The maid was standing close, a parasol held perfectly to shade the child from the late afternoon sun.
+
+Now Parisa was deeply intrigued. For a little girl to have a dedicated, personal elven maid... she must belong to a very wealthy merchant family, or perhaps a progressive noble house. It was a rare sight. She wanted to see what had captivated Piku so entirely.
+
+She began to approach the little girl.
+
+Before she could take five steps, the maid blocked her path.
+
+"I apologize, My Lady," Mira said, her voice polite but carrying an undercurrent of absolute steel. "But the young mistress must not be disturbed."
+
+Parisa stopped, raising an eyebrow. "I'm just here to retrieve my spirit." She gestured toward Piku, who was currently trying to land on the toddler's nose.
+
+Before Parisa could move any closer, she noticed shadows shifting around her. The perimeter guards, previously blending into the background of the resort, were closing in. Three elven warriors moved with silent, synchronized precision, forming a loose half-circle behind her. The attendants nearby also seemed displeased by her approach, their eyes tracking her every movement.
+
+Parisa was confounded beyond measure. She was a decorated war hero, a noble, and a guest at the inn. This level of security for a toddler playing in the sand was bordering on paranoia.
+
+"I don't think this is prudent," Parisa said, her tone cooling. She addressed the maid directly. "I just want to retrieve my spirit. As a fellow noble, I'm sure your master knows that restricting my movement is quite rude."
+
+Mira looked at the mage, unflinching. "I must insist you keep your distance. Our Lady must not be disturbed by strangers."
+
+One thing about Parisa: she hated being told 'no.' It was a trait that had kept her alive in the army, and it flared up now. She was going to find out what was so special about this kid that required a praetorian guard.
+
+She didn't draw a weapon, nor did she channel mana. She simply stepped forward, intending to gently push past the maid to retrieve Piku.
+
+The guards immediately began rushing toward her, hands dropping to the hilts of their hidden blades.
+
+But then, something entirely unexpected happened.
+
+Before Parisa could take a second step, a clutching, agonizing pain seized her chest. Her breath caught in her throat, trapped behind a sudden, suffocating pressure. It felt like a physical hand had wrapped around her heart and squeezed.
+
+Where is this feeling coming from? she panicked, her knees buckling.
+
+She fell hard onto the sand, gasping for air. She looked up, her vision swimming. The pressure wasn't ambient. It was directional. It was coming straight from the little girl.
+
+Lily was upset. Someone had pushed her mommy, Mira.
+
+Lily didn't cry. She stood up on her chubby legs, her blue eyes locking onto the strange woman on the sand. In her cute, babbling baby-speak, she delivered a command that carried the weight of a falling mountain.
+
+"Say so-wy to Momy Mi-wa."
+
+The pressure intensified. Parisa felt her mana pathways screaming in protest. The little girl's power was leaking out, an uncontrolled, localized suppression field that was forcing Parisa's own magic to its knees.
+
+The spirit, Piku, was flying frantically in circles, trying to soothe Lily. Then, the spirit looked back at its master. Through their tight mental link, Piku projected a single, terrified thought.
+
+Just do it! Obey!
+
+Parisa, coughing and struggling to draw breath, looked at the maid. "I... I apologize," she wheezed. "For pushing you."
+
+The moment the words left her lips, the little girl turned away, her attention instantly shifting back to her sandcastle. She waddled past Parisa, her small, rounded ears peeking through her silver hair, and went back to her nanny.
+
+"S'ign," Lily mumbled happily. "Up-si."
+
+The crushing pressure vanished as quickly as it had arrived. Parisa lay on the sand, dumbfounded. A wicked, exhilarated grin slowly spread across her face as she caught her breath.
+
+The little girl walking past her was enough for Parisa to conclude. The pointed tips of her ears were slightly rounded, hidden by the hair, but the aura... the sheer, devastating presence. This girl was like her. A half-elf.
+
+That explained two things perfectly. First, it explained why they didn't want anyone to approach her. The stigma against half-bloods in high society was vicious. The family was hiding her.
+
+Second, it explained the power. This child had incredibly potent elven magic. Magic that made Parisa's own formidable reserves look like a bucket of water sitting next to a vast, deep lake. To overwhelm a veteran battlemage with just the sheer, ambient quantity of her mana... it was quite marvelous.
+
+What Parisa didn't know, couldn't possibly know, was that the little girl was not a half-elf. Quite the opposite, in fact. Her kind naturally possessed an absurd, world-breaking amount of mana. And the second thing Parisa didn't realize was that it wasn't magic the girl had used to overwhelm her. It was her bloodline. It was the ancient, instinctual command of a High Elf suppressing a lesser kin.
+
+But Parisa was convinced of her own theory. And a new, burning ambition ignited in her chest.
+
+She must have this little girl as her student. A talent like that, molded by a veteran of the magical wars... the child could be unstoppable.
+
+Parisa pushed herself up from the sand, dusting off her breeches. She looked at the nearest elven guard, who was still tense, hand on his blade.
+
+"Tell your Lord," Parisa commanded, her smile sharp and predatory. "I have something very, very important to discuss with him."

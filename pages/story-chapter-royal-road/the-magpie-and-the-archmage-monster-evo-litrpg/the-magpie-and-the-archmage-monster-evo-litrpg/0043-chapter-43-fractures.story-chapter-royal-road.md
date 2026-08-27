@@ -1,0 +1,217 @@
+---
+id: 2e600e67-3f47-5e74-b190-b53d8c8a2cf5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43 – Fractures"
+slug: 0043-chapter-43-fractures
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 43
+ownLength: 1979
+unit: words
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2727620/chapter-43-fractures"
+royalRoadId: "2727620"
+---
+
+You have got to be kidding me!
+
+Liora watched in annoyance as the kobolds who remained half-alive on spikes slowly became corrupted, their blood turning into black sludge that spread over their body, turning their previously red scales black.
+
+There's corruption here, too?
+
+I'm starting to think that this is supposed to be normal. First, the Blightpeak, now Cyene Dungeon. Or should I call it Blight Dungeon?
+
+This explains why some adventurers have gone missing. Newbies wouldn't be able to deal with corrupted monsters.
+
+Liora nodded in agreement and began chanting the incantation for Holy Light as she simultaneously withdrew the Holy Wand and Necklace of Sunpeak from her inventory, grabbing one with her talons and materializing the other around her neck.
+
+[You've successfully mimicked the skill <Holy Light>.]
+
+The blinding light erupted in the cavern and struck one of the corrupted kobolds. But more formed right next to it, as if the presence of one somehow made it easier for others to become corrupted.
+
+Show status.
+
+[Status]
+
+Health: Scraped
+
+Mana: Trickling
+
+The necklace of Sunpeak was slowly recovering her mana, but with the amount of corrupted kobolds, it wouldn't be fast enough.
+
+Liora, we have to leave!
+
+But… We can't just leave these corrupted kobolds here? And what about the Pulse Stone?
+
+We can't defeat all of these corrupted kobolds. Surviving is your TOP priority.
+
+Liora hesitated for a moment. She knew Renir was right, but she was also horrified about the consequences. What if these monsters got into the city? There's no way regular citizens could defend themselves against them.
+
+"Cleansing light, obey my will. Purge this blight and make it still," Liora chanted.
+
+[You've failed at mimicking the skill <Holy Light>.]
+
+Dammit!
+
+Liora had no choice. She Faded and flew after Serena, Kalen, and Kiva towards the exit. She couldn't die here.
+
+Renir… They saw me in this form. Do you think they recognized me?
+
+I don't know. If I were somewhere outside, I would say that no. But in a dungeon… You're probably the only bird here. It would be an easy conclusion to draw.
+
+Hmm… I think I'll hang back and see what they talk about among themselves. Shadow Glide should keep me hidden.
+
+Good call! If they do prove to be hostile, then we just go solo. Although I had hoped we would at least get that Guild Ring before separating from those guys. It would make things much easier.
+
+It didn't take Liora to catch up to the group. They were making their way to the exit, dragging their feet behind themselves. Looking at their rather miserable state, Liora realized that this whole fight with kobolds had brought her no gain whatsoever. She reached Level 5, but had no time to collect any glimmerstones or explore the cavern where kobolds were living.
+
+The little bastards had spotted near their cavern, once again proving that being partially invisible is not as overpowered as some movies made you believe. One kobold spotting her was quite enough to raise the alarm. Liora had even collapsed the cavern in an attempt to block off most of the kobolds, yet so many had managed to get through. It was a complete disaster.
+
+"We should go back…" Liora heard Serena's voice.
+
+She had to strain a little to hear her voice as flying too close would be risky—Kiva had an excellent sense of smell.
+
+"Sister, you know we can't. You're out of mana, and we're tired. Not to mention that we've completed the quest," Kalen reasoned, pulling Serena forward.
+
+"But Skye—"
+
+"I think it's time we all accepted that your magpie isn't normal. Did you see how she fought those kobolds?" Kiva objected.
+
+"That was Skye?" Kalen gasped in surprise.
+
+"Who else would it be? A bird? In a dungeon coming from the same place where Skye flew off to? Not to mention, that it used the same wind attack that Skye did, only more powerful," Kiva said.
+
+"But she was helping us," Serena objected. "I'm not sure if we could have made it out safely without her. Not to mention that she stayed behind to hold off those kobolds."
+
+Serena suddenly stopped, looking firmly at Kiva and Kalen. "No, we are not leaving Skye in there to die."
+
+"Sister, that is madness! We can't fight all those kobolds," Kalen objected.
+
+"Yeah! Besides, if that bird really wanted to get away, it would be more than able to. She can outfly a kobold without even breaking a sweat. Do birds even sweat?" Kiva asked, scratching her ear and wincing as she remembered her injury.
+
+"I don't think so," Kalen said.
+
+"Then we should at least wait for her to fly here. We can do that much for Skye, can't we?" Serena stubbornly sat down on the ground.
+
+"Really? That bird is a monster!" Kiva objected.
+
+"Aren't you technically a monster too?" Kalen said, pointing at Kiva's ears.
+
+"I am not! I am a proud weasel beastkin!"
+
+"I heard that monsters can evolve into beastkin," the boy didn't relent.
+
+Kiva lifted her finger to object, then lowered it. "Now, when you put it that way, I guess it's true…"
+
+"We can wait for Skye a little bit," Kalen said, sitting down next to his sister.
+
+Kiva stared at the two of them for a while, then sat down too. "Fine! But only a little bit. I'm not going to die for some monster bird!"
+
+I certainly wasn't expecting that.
+
+Liora landed on the ground, far enough away that the group wouldn't be able to spot her. She was shocked. They'd figured her out completely, but at the same time, it appeared that they were accepting her. Just like Christie had. Something clenched in Liora's heart.
+
+It felt like a small piece of something long-lost had been put back into place. A little hope that people were willing to accept her as she was, despite being a monster.
+
+Is… Is it alright if I go to them? Looking like this? I can't use Magpie Disguise while I'm injured.
+
+Where did your confidence suddenly go? Didn't you hear them? They're waiting for you, silly bird!
+
+I… Of course, they are! They finally recognized how great I am. About damned time!
+
+She heard Renir chuckle internally and felt a bit embarrassed about her moment of weakness. So she took flight and, before they even noticed, landed in front of Serena—as a Starfeather Corvid.
+
+Serena gasped, mostly spooked by her sudden appearance. "Skye? Is that really you?"
+
+Liora nodded. She wondered whether this was a good time to tell them that her name wasn't really Skye. Perhaps, yes. It was rather annoying not being able to communicate with them. But she wouldn't use Renir's voice. If he were as important as he claimed, then somebody might recognize it, and that would open a whole different can of worms.
+
+No, Liora would stick to using other people's voices. That would drastically reduce her vocabulary, but maybe it was a good thing. It would make her appear more bird-like and less human-like.
+
+"Liora," she said, mimicking Christie's gentle voice.
+
+"She can speak!" Kiva hissed and jumped up.
+
+"Settle down, Kiva. Birds have always been known to be able to mimic voices," Serena berated her, then turned back to Liora with a smile. "What did you say?"
+
+"Name. Liora," she said, racking her brain for the right words. It was much harder without Renir's extensive library. He loved to talk a lot.
+
+You're not using my voice?
+
+No. I think it'll be less suspicious if I don't talk that well. Not to mention, I think it's best if you're kept strictly hidden in every way while in the city.
+
+Yeah, you're right. Who knows where the Night King goons are snooping around?
+
+Night King?
+
+The mages we encountered. Did you already forget their name?
+
+You only mentioned it once.
+
+While Liora was having this inner dialogue with Renir, Serena and Kalen were discussing something among themselves.
+
+"Why didn't she reveal this before?" Kalen questioned.
+
+"Maybe she was just scared," Serena suggested.
+
+"Scared," Liora confirmed, mimicking Serena's voice. She racked through her memories, and then said, combining various voices to form a semi-coherent sentence. "Liora. Monster. You. Attack."
+
+"See? I told you!" Serena threw an accusatory look at Kiva, then turned back to Liora. "We won't attack you, Liora. Promise."
+
+"Speak for yourself," Kiva snorted.
+
+Liora dramatically began shaking and hid herself in Serena's robes. She wasn't actually that scared of the weasel girl—she could probably take her down even in this cramped space. But there was no need to cause fights where she could get through with her wit.
+
+"You scared her again!" Serena growled.
+
+"How do you know she's not trying to fool us?" Kiva protested.
+
+"She helped us. I get you being cautious, but if—Liora, right?–wanted to harm us, she could have done it long ago," Kalen said.
+
+"Kalen is right. Not to mention that she didn't need to come back to us. She could have flown past, and we would be none the wiser. Liora will stay with us," Serena said and stood up, picking up Liora as well.
+
+"Ugh, really? You humans are too trusting of everything that looks remotely cute," Kiva snarled.
+
+"That would include you, too," Kalen noted.
+
+"Shut up!" The weasel girl whirled around, but Liora's keen eye did notice a slight blush creeping into her cheeks.
+
+"Let's get out of this dungeon and get those Guild Rings. We did complete our first quest," Serena said.
+
+"Can you at least turn back into a magpie? The guards will be suspicious if they come back with a different bird," Kiva pointed out.
+
+"Can't," Liora said, lifting her neck and showing the cut that one of the kobolds managed to land on her chest. It wasn't deep, and only stung a little, but it was enough for her Magpie Disguise not to work.
+
+"You can't transform while injured?" Serena guessed.
+
+Liora nodded.
+
+"Now what do we do?" Kalen groaned. "We can't stay here until she heals."
+
+Serena thought about it for a moment, then extended Liora towards Kalen. "Hold her for a moment."
+
+Kalen awkwardly took Liora, looking down on her while she stared up at him. Serena, meanwhile, took off her patchy cape, holding it spread out in her hands. "Put her in here."
+
+Kalen put Liora in the cape, while Serena took hold of her below and wrapped the cloth all around her, leaving only her head outside. "There. Nobody should know the difference now."
+
+Kalen peered at cocooned Liora for a moment, then burst into laughter.
+
+"She looks like some weird bird baby!" Kalen wheezed out, holding his stomach.
+
+This is humiliating…
+
+Yeah. I wish I could see how you look.
+
+I'll peck you.
+
+"It doesn't matter that it's a bit silly. The point is that this way, she doesn't look much different from a magpie, does she?" Serena said, an amused smile also playing on her lips.
+
+I suddenly regret coming back.
+
+Aww, don't be like that. They're only trying to keep you safe.
+
+"That's true. Although, to be honest, you could bundle up pretty much anything like this," Kalen noted.
+
+"Let's just get out of here already," Kiva let out an annoyed snort. "We don't want those kobolds to catch up."
+
+The others agreed, and with Liora bundled up, they set out towards the exit. Liora threw one last look into the darkness behind them. She could feel the unpleasant mana writhing deep within the dungeon. The kobolds likely weren't the only corrupted monsters in there—there were probably much stronger foes.
+
+Not to mention that there was a distance between the two siblings, who kept close to Liora, and Kiva, who was trailing slightly behind them. The beastkin hadn't accepted Liora at all. She wondered whether she ever would and how far her distrust would stretch.

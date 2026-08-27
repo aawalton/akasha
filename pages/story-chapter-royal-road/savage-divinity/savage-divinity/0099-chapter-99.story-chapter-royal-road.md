@@ -1,0 +1,133 @@
+---
+id: 8b797465-f819-5be0-9357-829d2f062d5c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99"
+slug: 0099-chapter-99
+partOf: savage-divinity
+position: 99
+ownLength: 3997
+unit: words
+publishedAt: 2016-07-27
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/83851/chapter-99"
+royalRoadId: "83851"
+---
+
+Cresting the hill top, my lungs burn in exertion as I jog onward, the gates of Shen Huo finally in sight and our journey almost at an end. My strength renewed at the sight of the garish brown-red walls, still scarred by the battles only a month past, I pick up my pace, struggling under my heavy, worthless load.
+
+“About damn time.” My burden speaks in a petulant tone, as if I am to blame for the delay. “Old Bulat has lost all dignity, carried like a child for days. I would rather suffer the damn wagon, or even fucking hobble all the way back, the damn shame of it all.”
+
+Resisting the urge to see him roll down the hill towards the city, I grit my teeth, audibly grinding them as I run. No longer able to have me dig latrines all day, Akanai ordered me to carry the immobile Bulat, running up to 70 kilometers per day while the dead weight complained about everything possible. To make matters worse, I get to run behind the wagons we intercepted, the last of our supply chain, eating dust and watching day by day as the wagon emptied once we ate all the provisions, with plenty of room for Bulat to sit alongside the other injured. This is cruel and unusual punishment, I almost prefer the digging. Just beat me or something, I can take it, I just want this to be over.
+
+My anticipation rises as I close in upon the gates, eager for a glimpse of Mei Lin and the twins, my sweet little family who I miss so much, but bureaucracy rears its ugly head once more, the soldiers forced to stay outside the gates while they await processing, cruel fate sticking me with them as my orders were to carry Bulat to his front door, inside the city. Holding back the tears while I watch the Sentinels all ride into the tunnel, I resign myself to my place outside in the sun, waiting for our turn to be let in.
+
+The other cripples gather around, more than 100 in total, ushered to one side by a pinched face fatty official before shuffling off for more important matters, like counting horses, the cripples left for last. Unloading Bulat to sit on the ground, I walk off my exhaustion, catching my breath and staying apart from the others, drinking greedily from my water skin. Won't be much longer before I can take a nice, hot bath in Taduk's villa, drinking wine and eating delicious food. Shit, do I remember how to get there, and how do I get past all the checkpoints? I don't have a token thingy. Fuck my life, I don't have any money either... am I going to have to stay in the slums?
+
+The sun moves through the sky, lunch time having passed long ago while I hold out, wanting to save my stomach for the delicious foods waiting for me inside the city, salivating at the thought of meat buns and fruit wine while waiting in the purgatory that is this city gate inspection point. Not alone in my dissatisfaction, the other crippled soldiers also grumble as they watch the still healthy soldiers march inside, interspersed among the supply wagons. As the day goes on, the complaints grow in number, mounting in volume until an official finally arrives.
+
+“You worthless cripples, you will wait until we are ready. The heroes of the Empire will be seen to first, you dregs can just sit here.” The fat officials jowls continue moving, even after he is finished speaking, his scolding doing nothing to help the mood. Even then, the injured soldiers do nothing but complain quietly, resigning themselves to their fates.
+
+Approaching silently, Bulat and Rustram look about to make sure we are unheard, and despite my better judgment, I lean in to hear what they have to say. It's probably more verbal abuse, I just hope they stop spitting. It wouldn't have been so bad when I was crippled as well, but I can't just kick the shit out of them now that I'm fully healed. It takes awhile for them to speak, glaring away all the nearby curious eavesdroppers, before Bulat finally begins. “Rain, we been talking, some of us, and we wanted to ask ye something.” No more little hero, just plain old Rain. As much as I disliked the nickname, it shows that I've lost his friendship, at the very least.
+
+Seeing my face, Rustram interjects, taking over the conversation. “Some of these other soldiers, we served with them a long time. I know the Lieutenant General said to keep our mouths shut, but we wanted to... you know... nudge them towards her, to take the aid.”
+
+“Keep your fucking mouths shut.” The answer is immediate, without a need to think. “If they ask what you will do, you can tell them that you are going to Akanai. Make no mention of healing or service, no hint of it at all, you let them think you're going to lick her boots and beg for scraps. She doesn't need more reasons to punish me.”
+
+Looking affronted, Bulat chimes in once again. “Come now, they're good soldiers, I'm sure the Lieutenant General could find use for them. Maybe some take oaths, some don't, who knows, but if we could just say a few words, it could tip their decision... Old Bulat knows you had no ill intentions, just misguided ones, you wanted to help, right? Well, these soldiers need it.”
+
+“Yea, and look what helping has earned me, a spot outside with all of you.” My voice is louder than intended, leaving Bulat and Rustram looking cowed as they glance about to see the cripples listening in, but I don't care anymore. Almost yelling, I vent my anger at them, a shitty thing to do in hindsight. “All of those soldiers bitching and moaning about how they’re being mistreated, yet too prideful to take what help is offered, cry me a fucking river.” Turning away, I dismiss Bulat and Rustram with a wave. “Why should I waste my time convincing them to accept help? Akanai has offered and that should be enough, I don't see anyone else lining up to lend aid. Live or die, struggle or surrender, it's a simple choice and if those worthless idiots can't see it, then it'll save me the wasted effort.” Sitting a little further away than before, my anger boils inside me while I wait, upset at my outburst and at life in general. Way to kick them while they're down, really great work Rain, top marks.
+
+The fat official keeps us waiting until mid-afternoon to finally work with the crippled soldiers, which does nothing to help my mood. It's all I can do to keep from throttling his fat neck as he works ever so slowly, accepting weapons and armor in return for pre-written dismissal papers, filling in the names and injuries on the spot. No pomp or ceremony, just a piece of paper shoved into their hands as they're waved away, their duty at an end without so much as a thank you. Once all the soldiers' dismissals are completed, I carry Bulat in through the tunnel, holding my breath as I exit the other side, ready to see the smiling faces of my family.
+
+Once again, Shen Huo does what it does best.
+
+Disappoint me.
+
+Fighting down my crippling sorrow, I tell myself that they probably waited for a long time, but it has been more than eight hours now. It'd be unreasonable to expect anyone to wait that long, much less children. It's fine, I know the way back, and they probably cleared things up for me at the checkpoints.
+
+Turning to the others under my charge, I give my instructions quietly. “Do what you want, rest for tomorrow. The day after, meet here before daybreak, don't be late. Have your families prepare to leave, arrangements will be made to safely escort them to their new homes while we march to the bridge.”
+
+Rustram stands off to the back and loudly asks, “Err what was that? When do we meet here? Not tomorrow, but the day after? Before dawn and don't be late? What was that about our families?”
+
+Rolling my eyes at his overt attempt to inform the other dismissed soldiers, I repeat my instructions loudly, adding, “If you have nowhere to go in the interim, then just follow me for now, I'll figure out a way to get you fed at least.” Turning down a side street, I march with purpose, not bothering to see who is following, still moping over my lackluster reunion. No matter, that just means it's still ahead.
+
+After a few minutes, Bulat pipes up from behind me. “Oi Rain, me Ma lives back the other way.” Grimacing at my idiocy and annoyed he didn't speak sooner, I turn a full 180, marching back the way I came, immediately stopping in surprise. Eight additional crippled soldiers are following me, waiting for me to lead them, their earlier resigned fatalism now replaced by steadfast determination. Blinking in confusion, I see Rustram smiling happily, while Bulat chuckles quietly behind me. “Old Bulat is truly getting old, these streets be always changing, seems you were going the right way to begin with.”
+
+A rueful smile breaks out on my face, shaking my head slowly as I resume our march towards Bulat's home. These people are insane and I will never understand them. Try to offer them help and they spit on it, mistaking kindness for pity. Insult their ability to survive, and they stop at nothing to prove you wrong.
+
+Idiots, all of them.
+
+I guess they're our idiots now.
+
+Mother help us all.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+“I ain't never left this city and nothin' you say can make me, you pig brained idiot.”
+
+Glancing back at Rain, Bulat made an apologetic gesture, trying to calm his Ma down while she flailed away at him inside the tiny home. She was always like this, so unstable, one second happily greeting her only son, the next trying to bash his head in with a pan. “Ma, listen, Bulat been kicked out of the army on account of bein' a cripple. Ain't no work around here for a peg-leg, we don't even got the farmland no more, the steward took it back. You come and let Bulat look after his old Ma, in a wonderful new place, what say you?”
+
+A handsome woman in her mid-forties, his Ma snorted the way all parents did, the sound carrying him back to his youth when it had inspired fear right down to his bones. “You lose your brain as well as your leg, boy? Daft child, you want this woman to step outside those walls, with Mother-cursed Defiled runnin' about, rapin' and pillagin'? You want that to happen to your old Ma? What's the matter with you, boy?”
+
+Lowering his voice, pleading with the stubborn woman, Bulat tried to convince her without showing weakness in front of Rain and the other soldiers. At least most had left for their own homes, but Pran, Saluk and the others had no family, standing grinning at the door. “You'll be safe Ma, I gots a Lieutenant General's word on that. You gonna be escorted to our new home by these mercenaries, fierce ones who make the city guards look like paper tigers. I can't be leaving my Ma here all alone.”
+
+“Why you signing up with mercenaries for anyways? You tell them you ain't goin, that you gonna stay in the city like a proper citizen. Outside the walls is no way to live, fearful of every sound and shadow.”
+
+“I can't tell them no Ma, I already signed a contract. You just listen to your baby Bulat, yea?” As soon as the words left his lips, Bulat froze in fear, unwilling to look back. The sounds of suppressed laughter made its way to his ears, his face turning red in shame. Not good, he would never hear the end of this.
+
+“Stone-headed Bulat more like it, I ain't leaving and neither are you. You pay back what they gave you and break the contract, you ain't important enough for them to care, not even sending someone to help you.”
+
+“Ma, they did, they did send someone to help.” Turning around, he gestured frantically until Rain stepped inside, hoping he would play along. “This here is Rain, he's betrothed to the Lieutenant General's daughter, an important man. I be working for him now, and see, he wants me along so bad, he here to help you pack, ain't that a kind thing of him to do?”
+
+He held his breath while his Ma eyed Rain up and down, praying that it would work. While most of what he had said was true, Rain was not much to look at, a scrawny thing despite how much he ate. A real lightweight when it came to drinking, but the boy liked to joke that he was economical. He wasn't such a bad sort for a child of abundance, naive and idiotic, but generous and easy to get along with.
+
+Bulat had been furious with the little hero for some time, but upon reflection, between Ravil's limited success and their treatment thus far, working for these Khishigs didn't seem too bad after all. While it entailed a long term of service, until he was 65, and several limits upon him, but he was never one to travel the world anyways. The oddest order was the one to stop calling Rain a little hero, but it was a small thing. The idea of it all was beginning to grow on him, a fresh start in the mountains among some of the fiercest warriors he had ever met, and he had enlisted Rustram's aid in convincing more soldiers to join them with mediocre success thus far. Perhaps more would arrive before they left, but Bulat was not so confident.
+
+“Bah.” With that single word, all of Bulat's hopes washed away, despair threatening to overtake him. “Don't you try to fool your old Ma, this one's just a beggar coolie, I saw you ride up on his back. You may be crippled, but have some pride boy, looking every bit like luggage as you make your way through the city. Is your other leg crippled too? You too good to use crutches? Why else would you want to climb upon this beggar boy's back?” Making a shocked face, she pulled Bulat close to her, putting her hands upon his face while she stared him in the eyes. “You ain't one of them bugger boys, are you son? Ain't no need to hide it from yer Ma, you love who you want to love, this boy your new lover?”
+
+Giving Rain a big smile, she opened her arms and invited him in for a hug, but Rain quickly threw up his hands and stepped away. “Nope, no, not your son's lover. Actually his boss, sort of, but like he said, we're happy to help you move anything you need.”
+
+Struggling away from Ma's grasp, Bulat tried his best to ignore the uproarious laughing that was taking place outside his house. “Ma, Old Bulat likes the women and this here is a shit hole, ain't nothing you need to take besides your clothes, you don't need no help.” Turning to Rain, he pleaded with his eyes as he said, “Don't you need to take the others away now? You promised them a meal.”
+
+“Oh, it's early yet, Baby Bulat.” Pran sidled up next to him, acting overly familiar and batting his eyes like a woman. “Besides, don't you need to introduce me to your Ma?”
+
+Furiously roaring, Bulat chased all the soldiers out, clipping along on his crutches as they gleefully scattered before him until he was soon huffing with exertion. Patting him on the back, Rain strode away gathering the rest of the soldiers and leaving for his next destination, while Ma came out of the house, helping him stand as he gasped for breath, clucking her tongue at him. “I told you, your old Ma don't care who you love, just that you find someone and start a family, maybe grab one of them cute bunny-kin children, there are so many of them running around. Life is lonely without family.”
+
+Closing his eyes, Bulat wholeheartedly wished he had died on the fields, thereby avoiding this humiliation. Sighing deeply, he hobbled back into the hut he grew up in to once again try to convince his Ma to leave the city.
+
+“Now who was that handsome man at the end there? I think you two make a lovely pair, although you must be wary, these half-beasts are rarely in control of their instincts, rutting about like dogs in heat, you keep an eye out for his restless leg now, you hear?”
+
+Groaning loudly, he thumped his head against the wooden walls, praying it would collapse and simply end his suffering.
+
+This was so much more difficult than battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tentatively knocking on the door, Rustram calmed his nerves while he waited for someone to answer, knowing that he would be ignored the first few times. Orders from his father meant to keep him humble, as if the loss of a hand were not enough. When he had first been ordered to join the army, Rustram had almost fled into the night, but having grown up as a merchant's son, he knew nothing of survival on his own. The second son, unable to inherit, a useless mouth to feed, sent away to fight for honor. Survive, and he would be a boon, a guard upon the caravan routes and a veteran to display at parties, die and nothing of value would be lost. An easy risk for his father to take, but his investment had borne no fruit.
+
+Thrice more he knocked before it was answered, the muffled yells of his father urging the servants on, as if they had not heard him knocking. Games of power, the old man played them as if he were nobility, instead of a rich upstart who knew how to best make coin. The doors opened and he stepped in without ceremony, making his way directly to his father's office.
+
+His father sat hunched over the hardwood desk, a luxury that could have bought a second, smaller, traditional house instead, but appearances were everything, even if it were offset by the cheap paintings and poor carpet that he had been forced to buy after running out of funds. A maddeningly contradictory man, never able to admit his wrongs, hair graying before his time, only 50 years of age, a man who had never learned to properly cultivate. He looked up with a snort, disdain clear on his face. “So, my second son, the Lieutenant, the Hero, returns to me a cripple. What a waste of time and money you were, six years of service and without a single promotion besides the one I bought for you. Now you come home in tears, a worthless cripple, begging for a place in my house.”
+
+Rustram grit his teeth and held his tongue, allowing his father to hang himself with his own words. It would be easier this way and not telling his father that he had been 'contracted' to work with mercenaries, a story that would invite too many questions which Rustram could not answer. His father was many things, but a fool was not one of them.
+
+Stroking his beard while glaring, his father tried to look intimidating whilst kicking out his son. “Well know this, I have no room here for worthless layabouts, no free handouts for cripples.” Perfect, Rustram could just leave without another word and never return, fighting for the Lieutenant General. It would not be so bad, he was going to learn to heal his own injuries, be a meat shield for better warriors. Who was he kidding, it was going to be terrible so he needed to convince more soldiers to join him in his misery. “You still remember your arithmetic? I've a small storefront that needs managing and you will suffice until I can find someone competent, only need one hand for an abacus. I'll brook no insolence or laziness, you will wake early and be at the store at its opening, ready for business with a smile. We'll get you a wooden hand, something painted to look like flesh, can't be scaring off the customers. Your old room is ready, and ...”
+
+Disbelieving his ears, Rustram blinked in confusion while his father continued on his tirade, stern warnings intermixed with the details of how he would be cared for, and he felt an ache in his chest and tears welling in his eyes while he listened to his father. Unable to continue, he surreptitiously wiped his eyes with his sleeve before quickly interrupting with the prepared story, one casually crafted by Akanai in their brief discussion about his family. “I am contracted to the Lieutenant General Akanai, working as part of her trading team for some time. I will be well compensated but worked hard, and I am unable to say when I will return to visit.”
+
+Swallowing hard, he sweated as he watched his father process his words, astonishment turning calculation, understanding turning to … joy? “You are working for the Lieutenant General Akanai? Excellent! A connection to the Herald of the Storms, your time in the army has truly shown profits.”
+
+The Herald of the Storms? The name had a familiar ring to it, and his eyes widened as he remembered the stories, how the Herald had fought eight duels on behalf of the Magistrate, winning them easily and without effort. His eyes widened further as he remembered the other stories, his mind making the connections immediately.
+
+“Father, do you remember the name of the boy, the one who fought the Warrant Officer?” The words gushed out of him in a panic, unable to control his excitement.
+
+“Hmm? Of course, I marked that named as one to remember, a rising dragon to keep an eye on. His name was Rain of the Bekhai. Why do you ask?”
+
+Running around the desk, he gave his father a hug, surprising both of them with the action. “Thank you for everything Father, but I need to go and tell everyone.” Turning to leave, he quickly returned for another hug, exuberant at the news. He wasn't enslaved and working for a naive child, he was oath sworn and under the tutelage of a Rising Dragon! Rain had been impressive in a fight, but that had been against that worthless cook and a Defiled savage. None of them had known just how strong, how talented he really was, the boy - no, the little hero had never mentioned any of his exploits.
+
+Now, he had the means to convince the other soldiers to join, and his reasons were now far less selfish. While he was forbidden from speaking about the healing or the oaths, he could spread the word about who Rain and Akanai really were, and most importantly, who Rain's Teacher was.
+
+The Medical Saint of Shen Huo, Taduk the generous and benevolent healer!
+
+With such a grouping of heroes, it would be simple to insinuate that the Medical Saint might have mercy on them and offer healing, that tiny sliver of hope enough to motivate even the most despondent of them. The details of the story began to work its way through his head while he ran, eager to discuss with Bulat how to best spread the story before their departure.
+
+The voice of his father followed him out the front door. “Get your old man a contract with the Bekhai and you can have ten - no fifteen percent of the profits!”

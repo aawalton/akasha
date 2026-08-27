@@ -1,0 +1,55 @@
+---
+id: bd753497-047d-53df-a7dc-39f6857fdab3
+page-type-slug: story-chapter-royal-road
+title: "Announcements, Thanks, Epilogue Info, and More!"
+slug: 0724-announcements-thanks-epilogue-info-and-more
+partOf: the-legend-of-randidly-ghosthound
+position: 724
+ownLength: 679
+unit: words
+ownProgress: 679
+publishedAt: 2024-10-02
+link: "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/1831720/announcements-thanks-epilogue-info-and-more"
+royalRoadId: "1831720"
+markedReadAt: "2026-06-29T22:06:03.950Z"
+---
+
+Hey all~
+
+Wow. We fucking made it.
+
+Even now, it's hard to believe. It's hard to explain how much a difference Randidly Ghosthound has made in my life. From my best friends stupid nickname that I used as a joke, to essentially starting my whole career as a writer.
+
+Ah, on that note Book 9 of LoRG came out on Amazon today! The first of the Nether Frontlines arc. Check it out, leave nice reviews.
+
+Book 9: https://geni.us/randidly9
+
+Anyway, I really wanted to make this post for two reasons. Some announcements, which I'll get to later, but mostly... thank you.
+
+To all the readers who were with me from the beginning, to the people who participated in the various character naming and powers contests I hosted, to those who supported me on Patreon while I was making the story. I couldn't have accomplished all this without you. Without your reviews, your comments, your eyes, your imaginations.
+
+I firmly believe that, as an artist, I have control to the point that I post something out to the world. Or publish something. After that, I've given up my privilege of special control. From then on, its you all that drive a world. For an in world example, its Reign of the Eidolon Crucible, or whatever crazy name it eventually evolved into xD. I drew the broad mental strokes, but to create the sensation that Legend of Randidly Ghosthound became, it needed all the love and care of y'all reading through the story.
+
+On a more vulnerable note, I grew up a lonely child. There was always a strong divide; I knew the things I liked and I was perfectly content to enjoy them on my own. And a divide existed, that sometimes it felt like other people didn't have. I never had a strong desire to try and share those things that gave me joy, because... well. Because I didn't believe someone else would like what I liked. I think, growing up in a small rural community, I had a lot of early disappointments that shaped me.
+
+In a lot of ways, my adult life has been about lowering my maladaptive coping mechanisms and sharing all this fun that burns in me with the world. So, again to the readers, thank you for helping me with that.
+
+Okay, LoRG has reached a finished form as a web serial. What's next?
+
+First, the series will slowly become a published version, with some extra polish and access to the larger Amazon audience.
+
+Second, I just reached the conclusion of the first arc of a new series! Currently called Bring on the Leisure! (Because the title makes me cackle), but I think I'll be changing the name to Chimera Kin. Because It's a more accurate title. I'm trying to tell a story about three strangers all transmigrated to a fantasy world, who become found siblings.
+
+Read that here: https://www.royalroad.com/fiction/83850/bring-on-the-leisure-a-chimera-core-litrpg
+
+Third, I plan on writing a few LoRG Epilogues. I've had this intention since I finished the current chapters, back in January. But I've been delaying... because, I now realize, I was approaching it in the wrong manner. Those will come out on my Patreon in November, trickling out to here in December.
+
+Finally, I want to work on a secret project for a while. Labor on something that doesn't get set in stone, chapter by chapter, as I work through it. With an eye toward releasing a whole product, a novel, all at once. Who knows how it will go: but that will be my October.
+
+Ah, and also... the joke, from the beginning, was that The Legend of Randidly Ghosthound was the first of a duology, culminating in the Doom of Thomasa Vaine(I think that was the title). And... maybe? I made the grooves so I could try again, if I wanted to. But we will see. I love this world and all its done for me. But I want to spend some time working on some other projects.
+
+Seven and a half years!
+
+Y'all made it worth every second.
+
+-Noret Flood IV

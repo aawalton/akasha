@@ -1,0 +1,211 @@
+---
+id: 634c73b6-8619-5d3b-897a-c01b9e5afa3e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Bear-Serker Potion"
+slug: 0033-chapter-33-bear-serker-potion
+partOf: the-gift-of-loot
+position: 33
+ownLength: 2793
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3446007/chapter-33-bear-serker-potion"
+royalRoadId: "3446007"
+---
+
+Heeeeey, so no pressure but I have a patreon. Upfront, since I'm posting a chapter a day right now, I have zero backlog. That will change this week. https://www.patreon.com/Jack_Golightly
+
+****
+
+"That's a potion," Thomas said. "It's called Rage of the Mama Bear."
+
+Jo looked at the crystal flask a little like she was holding a hand grenade.
+
+"Yeah, cool and all, but is it one of those potions that change you forever, or a one-time thing?" Twitch asked.
+
+Thomas turned to him. "Why do you think you are involved in this conversation?"
+
+"Because I killed the bear." He nodded so fast it looked like he was vibrating. "I'm part of the team."
+
+"You are not!" Thomas sputtered. "There is no team. Jo and I are just trying to get out because you and your buddies chased us in here, shooting–"
+
+Jo cut in. She had put away her sword and looked at them both with an unimpressed eye. "Enough. You two argue worse than children. But also, Twitch, you are not part of the team. Don't even think 'bout cozying up."
+
+Twitch huffed, but he didn't look actually offended. Not that Thomas cared about his feelings, particularly, but he got the impression suddenly that Twitch was just trying to wind him up.
+
+So, determinedly, Thomas ignored him and walked over to Jo to get a closer look at the potion. What little he could see behind the thick, crystallized glass was a deep, mud brown. Not appetizing.
+
+"Does your System show anything else?" Jo asked Thomas.
+
+"No, just the title, and I don't know much about potions."
+
+Twitch jumped in, speaking quickly. "I've seen them come in two types: the ones that are one-off and give great boosts or healing, and the ones that provide lesser boosts but are supposed to last forever."
+
+"You got an alchemist in your gang?" Thomas asked, only a little snidely. He was still irritated at Twitch, and at himself for healing him, even though (sigh) it was the right thing to do. He just didn't know why the guy hadn't fucked off already.
+
+He must have accidentally scored a point, because Twitch looked down even as he shuffled in place. Though the guy wasn't currently relying on his gift to keep himself alive, it seemed he was always... Twitchy. It made Thomas wonder if that was the key to his skinniness, if he just burned off every calorie he ate.
+
+Nah, it was probably drugs.
+
+"No alchemists, I've just seen some potions. Okay, a lot of potions," Twitch said. "Like, a whole ass vault of them. And they were separated into those two types."
+
+"Did you steal them?" Jo asked.
+
+Twitch shook his head. "No, I was only lookout for that one. 'Cuz of my Gift, I have to step in if things go wrong. Nothing did, so." He jerked a shoulder up and down. "I didn't see any of the gains from that hit. That all went to the high-rankers, the veterans, and the lieutenants. They always get the good crap." He made another jerky shrug, both shoulders this time. "I'm barely even a regular."
+
+"Uh-huh." Skeptical, Thomas decided to change the subject. He looked at Jo, who was the only one who mattered in this conversation. "What do you want to do now? Those last couple of bears were hairy—that was not a pun," he snapped to Twitch, who had opened his mouth.
+
+Jo paused and thought about it, fingers drumming on her belt an inch from one of her blades. But she wasn't reaching for it. Clearly, she wanted to be in control of her emotions. "Do you think we can find the exit without more battles? If we were careful?" She emphasized the last word, communicating that she meant with her Gift. She didn't want Twitch to hear about it, and Thomas didn't blame her.
+
+"Give me a moment." Thomas didn't need to close his eyes to use his healing sight, but he'd perfected it in the dark, and having that darkness around him helped. Though what he saw didn't make a lot of sense. He opened his eyes a few seconds later. "There are only about five bears left. A lot have disappeared and..." he trailed off, his frown deepening as he struggled to discern what the faint life signs in the distance were telling him. "I think your friend, Griff or whatever, is fighting the boss."
+
+Though Twitch was in almost constant movement, he still seemed to slouch. At Thomas's words, he stood straight up, rigid as a fence post. "Shit, then we need to go. Now." He took a few steps, then turned, frustrated that Thomas and Jo had not moved. "C'mon, I'm serious, guys."
+
+Thomas and Jo exchanged a look.
+
+"Hon, why don't you tell us what this is about?" Jo asked. "Then we'll decide if we need to get involved."
+
+"I think your friend killed the bears that disappeared. If he wants to kill the boss and clear the way for us, I'm not going to stop him," Thomas added. "You can go help Griff if you want."
+
+"It's Grimm. Like the Grim Reaper, and where I'm from you don't get those names because you're soft and cuddly," Twitch corrected, showing the first signs of real frustration. "What do you think is going to happen if he leaves first and then gathers up everybody else, huh? You think he's going to forget what happened in here? What you did to Marco and Cheesy?" He thumped his own chest with the flat of his hand. "Or that I ran off from him? It doesn't matter if there was a bear hot on my ass; he'll see that as disloyalty. And Grimm doesn't tolerate that."
+
+Now, the look Thomas and Jo exchanged was more weighted.
+
+"What are the chances that he gets killed by the boss?" Thomas asked. "He's just a level one, right?"
+
+"If there's a way to kill, he'll find it. But that house we hit, the one with the vault? He got a lot of that stuff: crazy weapons, natural treasures, and all sorts of really old, weird magical crap. He's a veteran ranker, an OG. You get it?"
+
+"Wait..." Thomas wasn't sure why he'd picked up on this at first. Probably because he didn't trust half the things that came out of Twitch's mouth. "Did you guys burglarize an old Family home?"
+
+"A what?"
+
+Jo was looking at him in confusion too, so Thomas elaborated. "You know what the government said about some dungeons being open for years? Well, some powerful people got a hold of them and grew stronger. I guess they created kind of a cabal. They call themselves 'Old Families'."
+
+"Yeah, sure, whatever," Twitch said quickly. "Some of that stuff was really old. Who cares?"
+
+Thomas found himself grinning. "Because from what I understand about the Old Families, if they trace that burglary back to your gang, you're all in deep shit."
+
+"We're all going to be in deep shit if Grimm gets out before us," Twitch said. "If you don't trust nothing else I say, trust that."
+
+Thomas looked to Jo. Her lips were pinched shut in a thin, unhappy line.
+
+"I guess it couldn't hurt to take a look," she said. "And head toward the exit if he's distracting the boss. We can get out ahead of him."
+
+That sounded like a plan to Thomas.
+
+****
+
+It was pretty easy to find out exactly where the boss was. All they had to do was follow the path of destruction. There were dead bears... everywhere.
+
+Thomas sort of missed the mimic dungeon. Once they were killed, the mimics would disintegrate into a pile of goo. These bear bodies just stayed there, cut up, some with patches of fur and skin sliced off, some with their paws gone for no reason that Thomas could see. One had its eyes gouged and tongue missing.
+
+The worst were the baby bears, which had their intestines hanging out. Judging by the wandering blood trails that ended at their bodies, they'd taken a while to die.
+
+"Um," Thomas said. "I have a question: What the fuck?"
+
+Twitch said nothing, just marched on. His jaw was so tight that Thomas could see the tendons sticking out on either side.
+
+"Hon, what exactly is Grimm's Gift again?" Jo asked. She looked equally disturbed by the bears, though she had not reached for the sword or the daggers to slide into an emotionless state yet. Instead, her fingers tapped against the thin crystal vial of potion she'd secured in her belt. She so obviously wanted it that Thomas hadn't asked to put it in his backpack for safekeeping. The two of them might be largely united against Twitch, but firm trust hadn't been built between them.
+
+"He can see where people are hiding treasure," Twitch said. "Gets an idea of the value too."
+
+"So it has nothing to do with how he fights?" she pressed.
+
+"No." Twitch spat to the side. "This is all him."
+
+In the not-so-great distance, they heard a chorus of roars.
+
+"That's our guy," Thomas said. He had a sick feeling about why Grimm was taking so long fighting the boss. That was confirmed as they crouched in the nearby bushes and looked out into the clearing ahead.
+
+The boss was a huge, semi-truck-sized, three-headed bear. That explained the chorus of roars.
+
+A man who must have been Grimm stood before it. He was average-looking, except for the blood staining his white t-shirt and pants, and he was definitely the guy Thomas had seen with the blue eyes gazing at him.
+
+The boss slammed down a paw the size of a picnic table. Grimm easily stepped out of the way, as graceful as a dancer. He then gestured with his hand and a bolt of something snapped out and smacked the three-headed bear in the arm.
+
+The bear roared again, but one of its heads whined piteously. Grimm smiled.
+
+It looked like he'd been doing this for a while. The bear looked like a poor man's porcupine, and every time it moved, those bolts rattled.
+
+"He got that as a skill," Twitch said. "Heard he killed someone from another gang for it. Calls it Endless Swords."
+
+"That's nice," Thomas said dryly, and nudged Jo. "Look."
+
+The three-headed bear was huge. But when it moved, Thomas saw the sliver of an exit door on the other side of the meadow.
+
+"What do you think?" He asked her directly, nodding to it. With his eyes, he tried to ask: Do you think you can use your Gift to sneak us out of here?
+
+She started to nod, but then stopped and looked hesitantly at Twitch. She wasn't too happy about taking him along with them. Not that Thomas blamed her at all.
+
+Their silent conversation stopped when Twitch glanced at them. There was something in the guy's eyes that made Thomas recoil. It was dark and angry, but not at him.
+
+"You all go for the exit," Twitch said. "I am going to have a conversation with Grimm."
+
+"Or," Thomas said, "you don't. We let him play little psycho torturer, and we all get out together."
+
+Twitch grinned at him, big and obnoxious, then lifted the crystal flask he had in his hand and pulled out the cork with his teeth.
+
+Jo hissed in shock, and Thomas realized she didn't have it on her anymore. Somehow Twitch had lifted it, and neither one of them had noticed.
+
+Thomas reached for him, but Twitch had already slugged the extremely valuable potion down. Then he turned and walked out.
+
+The effect was immediate. His entire posture changed, quick as a blink. When he stood up, he was hunched over and had a brooding, dangerous air about him. Twitch marched out into the clearing, somehow hulking, even though nothing physical had changed. Something dark and primal radiated off him.
+
+"Grimm!" he almost literally roared. "Come out and face me, you son of a bitch!"
+
+Thomas didn't move, and neither did Jo. He realized she was grabbing onto his arm as if to stop him, but Thomas wasn't going to get in the middle of this.
+
+Grimm, for his part, shot another blade at the three-headed boss bear, and it staggered.
+
+Thomas got the distinct impression that he had been playing with it, causing it pain this entire time, and could have finished it off at any moment. But he'd chosen not to.
+
+The boss bear fell with a thud that shook the earth. Despite himself, Thomas wondered what loot it would drop.
+
+"Twitch," said Grimm casually. "Thought I saw the last of you after you ran off like a little bitch."
+
+"We were all running for our lives, but that don't matter. No one's lives ever mattered to you." Twitch stalked forward with fists clenched and back hunched, every bit of him radiating anger.
+
+Grimm just stood there, watching him close the distance, uncaring.
+
+"Thomas," Jo hissed, "we should go."
+
+"Yeah." He'd been caught up in the drama, but now that the boss was dead, they had a straight shot to the exit door.
+
+Jo shifted her grip to his forearm and nodded again. Thomas assumed that meant her Gift was covering him as much as it could. Not that he could tell. The world looked exactly the same to him, with no tingle or shift in reality. But no one reacted to them as they both stood and carefully started crossing the meadow.
+
+In fact, there was quite the show, as Twitch had worked himself up into a rage and was trying, and failing, to land a beatdown on Grimm. The other man simply stepped aside out of every punch and blow Twitch tried to land on him. He weaved away so easily that it simply couldn't be natural.
+
+Really, it would have been a lot easier if Twitch had brought a weapon with him. But Thomas had already reflected that lifelong criminals generally didn't get where they were through a series of good choices.
+
+Twitch, however, had worked himself up into quite a lather and seemed to be spewing years of hate and frustration. Perhaps that had been the point of all this: Twitch had had enough and wanted Grimm to hear him out.
+
+"I'm not even in! I never signed up for this, killing people and shit. Every time I tried to drop out, someone would just say your name, and I knew better. We all did. We don't respect you. We fear you!" he yelled, throwing punches that did not land.
+
+This is better than a telenovela, Thomas thought, watching with horrified fascination while he and Jo crept along.
+
+Twitch looked ready to rip the guy's head off and was doing everything he could to catch him, but Grimm weaved around him like he was standing still.
+
+The verbal tirade went on, Twitch screaming at him, his voice distorted. "You had Peso take my dog! I knew it was you. My fucking dog! He never did nothing to no one. And—" His voice warped, the words lost in a guttural roar as the potion truly took hold.
+
+Suddenly, Twitch sprung across the distance between them, actually knocking Grimm off his feet. Then he climbed on top and started beating the man, fists flying, screaming incoherent things about his dog, about a woman named Brandy, and every evil thing Grimm had done to him and those he loved. Thomas gathered it was a lot.
+
+The sounds of his fists hitting against Grimm were meaty and unrelenting.
+
+He and Jo had stopped halfway across the meadow, both a little horrified.
+
+"Should we... do something?" Jo whispered, conflicted.
+
+"Not our circus," Thomas whispered back. He did not want to deal with Mr. Hyde once he was done with Grimm.
+
+Not that he felt bad for Grimm. It sounded like he deserved everything he got.
+
+But it seemed that Grimm was not out yet.
+
+With a thwip, Twitch was shot back with a metal blade protruding from his stomach. Grimm rose to his feet. His face was a mass of red welts and beginning to swell, but his expression was uncaring as he shot another blade into Twitch's leg, pinning the man to the ground just as he started to stand.
+
+Then, casual as you please, Grimm grabbed a small vial from under his vest and tossed it back. The welts and swelling disappeared.
+
+"Do you feel better?" Grimm asked Twitch. "Because you're about to feel a lot worse." He smiled down at him.
+
+Abruptly, his head snapped up and his gaze locked onto Thomas. He had seen through Jo's gift.
+
+"Hey," Grimm called. "That's a nice backpack you got there."

@@ -1,0 +1,263 @@
+---
+id: 4c5774f3-d6eb-50fd-9152-27ea8763e16c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: The Creepy House Dungeon"
+slug: 0019-chapter-19-the-creepy-house-dungeon
+partOf: the-gift-of-loot
+position: 19
+ownLength: 2926
+unit: words
+publishedAt: 2026-05-10
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3379121/chapter-19-the-creepy-house-dungeon"
+royalRoadId: "3379121"
+---
+
+Thomas walked into what was probably the creepiest old house in existence, which did not help his mood at all. The floors and walls were gray and rotten-looking, with furniture scattered everywhere. Half of it was covered in old, moth-eaten sheets, and all of it was coated in what looked like an inch of dust. The air was stale and smelled of rot.
+
+On the plus side, unlike the chipmunk forest fire dungeon, nothing immediately came hurtling toward his face. So Thomas considered that a minor win.
+
+Zach stepped in a moment behind him, and the entrance door creaked shut. The moment it clicked closed, absolute darkness swallowed the room. Thomas couldn't see anything, not even his hand in front of his face.
+
+"Nope," he muttered. "Nope, nope, nope, nope, nope."
+
+He took one step backward, then another, reaching for the door they had just come through. It wasn't there. Flailing an arm back and forth, he turned, then turned again. The darkness was so complete that he felt unmoored. The only thing he was completely certain of was that his feet were still on the floor.
+
+Or were they?
+
+His stomach lurched sideways, and for one horrible second, he thought he might actually be falling without realizing it.
+
+"Hold on, dude," Zach said.
+
+Then there was a flash of light.
+
+Thomas blinked as a piece of paper turned to ash in Zach's fingers. Zach caught the spark, and it became a living ribbon of flame that he easily bounced from hand to hand. The light illuminated maybe four feet in every direction before darkness swallowed the rest. It was as if the dark was eating the light as fast as Zach could create it, but at least they were seeing something.
+
+Thomas finally breathed again.
+
+"You can conjure your own flame now?"he asked. Zach hadn't been able to do that in the last dungeon.
+
+"No. Just flash paper. It's an old magician's trick," Zach answered absently while he scanned the room. "It's what I use to start my juggling act. I just need a spark, but I can't keep this up forever." He glanced around again. "We should probably figure out what we're doing."
+
+"Good idea. Where's the door?" Thomas demanded.
+
+Zach turned, took a step to the right, then held out his arms. Just at the edge of the light, the door appeared. "There it is."
+
+Thomas didn't think he had moved that far, but somehow he'd gotten so turned around that he completely lost track of where he was.
+
+"Okay," he breathed out. "I don't see any dungeon monsters, but... I think it might be a good idea to regroup. We need to see. A flashlight probably won't work thanks to dungeon limitations on technology, but if we can find something to burn, a real torch would likely help."
+
+"Yeah," Zach said quickly. His voice had lost some of its easy surfer-bro cadence. He actually sounded a little shaken by being plunged into the dark. "Yeah, that's smart. Let's—"
+
+He moved toward the door, and as he did, Thomas saw a ghostly afterimage on the surface of the door itself. Blue-white lines split apart into rows of fangs that chomped down.
+
+Thomas grabbed Zach's shirt and yanked him sideways while raising his axe in pure, graceless instinct, just as jagged teeth unfolded from the door.
+
+The axe struck, and Thomas wrenched the blade sideways, carving through the flesh disguised as wood. He must have hit something vital because the thing suddenly collapsed inward and melted into a puddle of dark goo that steamed faintly on the floor.
+
+Behind it was... the door.
+
+Thomas stared at it. "I hope that's the real door," he said. "What the hell was that thing?"
+
+"Mimic," Zach breathed. "Oh shit, dude. That was an actual mimic. They take the shapes of other things."
+
+"Like in D&D?"
+
+"Yeah, basically." His voice climbed an octave. "Man, those are supposed to be some really high-level dungeon monsters. No way they're in a level one dungeon—but the entrance here was definitely level one-sized. I don't get it."
+
+Thomas looked at the door he now deeply distrusted, then his gaze swung to the room full of furniture: the chairs, tables, the hatstand in the corner, and all the sheet-covered lumps that might be monsters.
+
+"Oh," he said. "That's why."
+
+That cut through Zach's rambling. "Huh?"
+
+Thomas turned to him. "That's why no one they sent came back through the entrance door. This first room's a trap. The instant darkness scares the living daylights out of people, like my grandma would've said. Then, like us, they decide it's better to go back and report this, or maybe they just panic and stumble into the door or something else..." He trailed off meaningfully.
+
+Zach nodded and closed his eyes, visibly gathering himself. "Retreating now won't clear the dungeon. Killing one mimic won't stop it from overflowing." He opened his eyes. Now that the initial shock had faded, he looked steadier. "I want to try something."
+
+Then he turned to what looked like a chaise lounge draped with a sheet and tossed his flame at it.
+
+The sheet instantly ignited with a giant whoosh, and something underneath gave a high, whistling scream.
+
+Nice, Thomas thought for a moment before thick black smoke poured upward in quantities that made absolutely no sense. It instantly began to fill the small room. Not nice.
+
+"Oh crap!" he yelled. "Put it out!"
+
+"Working on it!" Zach shoved both hands downward, trying to control the flames, but the motion was interrupted as he started coughing halfway through.
+
+The smoke billowed even worse and began to swallow their scant light.
+
+Thomas moved to help and saw, clear as day through his Forewarning, the ghostly outline of a nearby table leg sprout claws and slash toward his calf.
+
+Instead, Thomas whipped around and slammed his axe blade sideways. The table shrieked and recoiled, scampering backward on all four legs.
+
+Thomas hit it again with an overhand chop that split the tabletop, and it immediately started dissolving into goo.
+
+The smoke was still billowing, and the world once again went black.
+
+Straightening, Thomas coughed violently and tried to find his way back. He heard Zach yell something, but it was as if he were a football field away, not just a few feet. Thomas couldn't even reliably tell where the sound had come from. Whatever was eating the light was messing with the sound, too.
+
+And now Thomas was blind and choking on smoke in a room full of furniture that might all be mimics. He had to get out of there.
+
+The door, he thought.
+
+But he wasn't entirely certain where it had gone in this darkness either.
+
+He opened his mouth to call out and immediately doubled over again, coughing.
+
+He'd never felt so useless. Zach, at least, had his fire, even though the smoke was trying to kill them both. All Thomas could do was hit things with an axe and get lost. Anyone could do that.
+
+No, stop. He had to find Zach and get them both out of here, or else they would die.
+
+Then... he wasn't sure how he did what he did next. Suddenly, he became aware of something roughly ten feet away, at about two o'clock from where he stood.
+
+It felt like... a glow? A warmth without heat? Like hearing blood move through veins without hearing the sound, or feeling a heartbeat without the thrum. None of it made sense but his core suddenly sang inside him.
+
+He felt life.
+
+Thomas stepped toward it, praying to every god involved in the System that he wasn't sensing the life of a mimic.
+
+But after only a few steps, the world resolved into dim light again, and he spotted Zach finally smothering the last of the furniture fire while doggedly holding onto his own flame. He'd taken too long, though, and there was too much smoke in the air.
+
+"We have to—" Thomas hacked through a cough. "We have to get out of here." His lungs ached, and his throat felt like it had somehow caught fire.
+
+Zach must have agreed because he was nodding through his wracking coughs. Stepping back, he pointed to a nearby door.
+
+It wasn't the entrance door, but it was an exit, and they both desperately needed clean air.
+
+They rushed for it. If it was another mimic, they were dead. Fortunately, it wasn't.
+
+They stumbled into clean, shockingly cool air. Thomas slammed the door shut behind them, leaned against it, and breathed.
+
+Zach dropped to his knees and coughed like he was trying to expel his own lungs. His fire went out, but with Thomas's back pressed against the door, it somehow didn't feel as oppressive.
+
+It still took several minutes before either of them could speak.
+
+"Okay," Thomas managed, his voice steadier than he felt. "How much flash paper do you have left?"
+
+"Probably... four or five more sheets." Zach paused to hack something gross up and spit. "But I'm not gonna be able to sustain the fire with my usual tricks." He sounded frustrated. "The darkness is eating the fire almost as fast as I can put it out, and it just... shouldn't be able to do that."
+
+Another flash lit the area in a small circle around them as he used another piece of paper to ignite a fresh flame.
+
+"We can make a torch out of something," Thomas said. "Assuming we can find anything in here that isn't trying to kill us..."
+
+He trailed off.
+
+Zach had moved his flame into a bouncing ribbon, which illuminated a little more space around them. It was enough to reveal the edge of a long formal dining table, high-backed chairs, and a sideboard with plates still arranged as if waiting for a feast to begin.
+
+There were... a lot of knives.
+
+"Awesome," Zach said sarcastically. Still winded, he bent forward again with one hand on his knee, the other keeping the flame alive. Then he shot Thomas a look. "How'd you know about that door, back there? You shoved me away before the mimic attacked."
+
+This was going to be hard to explain. Considering the circumstances, he didn't even try.
+
+"I picked up a Combat Forewarning skill shard. It tells me when enemies are about to strike."
+
+Zach slowly straightened, staring.
+
+"It doesn't work for traps," Thomas added quickly. "I found that out the hard way. And it's not perfect. Just a second or two of warning. But... yeah. It's useful."
+
+"Dude." Zach stared at him. "A level 1 monster just dropped a shard like that? You are the luckiest bastard." He sounded more impressed than jealous.
+
+Thomas breathed out. Then he looked back toward the door and winced. "Speaking of luck, I should've grabbed the loot from those mimics."
+
+He'd walked right past the mimic goo and hadn't even checked it. God, he was an idiot.
+
+"You're thinking about loot right now?" Zach demanded.
+
+"Yeah! This dungeon is crazy strong. Maybe one dropped a weapon or something, and I just walked away."
+
+"My guy," Zach said. "There are bigger things to worry about."
+
+"I know, I know." Thomas exhaled and forced himself to turn away. "I just hate leaving good loot behind. Anyway, what do you want to bet that long dining table is a big-ass mimic?"
+
+The air of slight humor evaporated, and they both looked at the room.
+
+Zach shook his head. "That's a sucker's bet." He finally seemed to have gotten his breath back. "Okay, so we can't go back to the entrance without choking on smoke. So, like they say in Inception, the only way out is through."
+
+"I hated that movie," Thomas said. "The part where they were falling off the bridge forever was so stressful." But he understood the point and threw out his first idea. "What if we just speedrun this dungeon? We don't touch anything like that giant table or all those plates, and especially those knives. We just head straight for the next door. Then, when we find it, we go through, turn around, and you throw fire back the way we came. We shut the door, the mimics die screaming, and we move on."
+
+"That's... a plan," Zach said. "I don't have a better one. So sure."
+
+"A plan that equals no loot," Thomas muttered, sour.
+
+Zach had the light, but Thomas had the Forewarning skill when a mimic was about to attack, so he took point.
+
+They moved with extreme care through the room.
+
+Because this was supposedly a level one dungeon, in theory, the mimics shouldn't attack unless directly engaged or woken. Mimics didn't have territorial ranges, but they were quick to attack the second something moved within snapping range.
+
+So Thomas and Zach crept with their backs pressed against the wall, so as not to get close to the table, any chairs, and especially that cutlery.
+
+Soon, the next door came into view.
+
+Unfortunately, a patch of the floral wallpaper proved to be a mimic when Thomas saw a ghostly image of one of the flowers splitting open to bite him. With a yell, he slammed his axe into it.
+
+The hit was dead-on, and the mimic melted into a puddle. This time, Thomas reached to scoop up the mana crystal it left behind. The moment his fingers touched it, he felt a warm shock through his entire body. "All right! What color is this—oh wait, I've seen this type before." In the dim firelight, the crystal glittered and seemed to shift from soft blue to a fleshy rose-gold. He'd found one of those in the Mantis Cave dungeon.
+
+"Figure it out later," Zach said tensely.
+
+Thomas turned to reply. Then, over Zach's shoulder, he saw a salt shaker creeping across the table on spider legs. Somehow, his axe strike had awakened it.
+
+"Behind you—shit, no!"
+
+Too late. Zach, who'd been on edge, whipped around and blasted it with fire. The salt shaker screamed... and the tablecloth caught instantly as if it had been soaked in oil.
+
+All hell broke loose as everything else in the room stopped acting like harmless furniture.
+
+"Shit!" Thomas shouted again as he smashed a plate with teeth out of the air. "Get to the door! Run!"
+
+They did.
+
+But not before the long giant table—which was, of course, a mimic—lurched upward with claws, teeth, and somehow, eyes.
+
+Thomas absolutely did not blame Zach for throwing more fire at it. But now this room was quickly filling up with thick, oily smoke. And they were under attack from all sides.
+
+Fork tines raked across Thomas's forearm. In retaliation, he turned and buried the axe into the sideboard, even as silverware launched through the air around him as if propelled by springs. They'd gotten away, but they could spring back just as easily.
+
+The room was filled with ghostly, warring images, and a pounding headache was building behind his eyes, probably a warning that his stamina was draining fast. Thomas stumbled, and Zach helped haul him up.
+
+"Bro, the door! Hurry!"
+
+Then the chandelier itself crashed downward on them.
+
+Just before it hit, Zach gave him shove forward before rolling to the left.
+
+And suddenly, Thomas was in darkness again.
+
+But it wasn't complete darkness. The ghostly warning images still flashed through the black, showing him attacks before they happened. It was literally the only thing he could see.
+
+He used them to dodge, sidestep, and strike blindly through the dark. All around, he heard crashing plates, the roar of fire, and the sounds of fighting as if they were on the other side of a huge stadium.
+
+The door had to be around here, hadn't it?
+
+He reached out blindly through the empty air, and his knuckles struck wood. Sliding a hand downward, Thomas found the doorknob.
+
+He turned, bellowing, "Zach! Over here! The door's here!"
+
+The chandelier decided to jump for him, and Thomas chopped upward to meet it. It shattered in one hit but not before the thing chomped down on the head of his axe. He heard the snap of wood.
+
+It was hard to breathe. The air was so hot he suspected fire he couldn't see was close. Thomas coughed on smoke and called out again, trying to be heard over the too-distant crashing and fighting.
+
+Then, a long way away, he heard Zach scream. It was short and abruptly cut off.
+
+"Zach!" Thomas yelled.
+
+No answer.
+
+He tasted smoke in the back of his throat, and the ghostly warning images had disappeared. Had all the mimics gone after Zach at once?
+
+Thomas closed his eyes and searched again for that strange sense of life that had led him to Zach before.
+
+Nothing. There was only emptiness.
+
+He opened his eyes just in time to see a ghostly attack from a napkin with fangs coil towards him. Thomas struck blindly, but the axe was much lighter than it should be. He only knocked the mimic away instead of killing it. As soon as it collected itself, it would come back for him.
+
+"Zach!" he yelled one final time.
+
+There was no answer, and he felt no spark of life from his healing mana.
+
+Cursing, maybe crying a little, Thomas opened the door and stumbled through. The darkness was just as deep as ever, but the fresh air was a pure relief.
+
+Thomas stood perfectly still, facing a room he couldn't see. With terrible clarity, he knew that Zach was dead.
+
+He was trapped in this dungeon alone.

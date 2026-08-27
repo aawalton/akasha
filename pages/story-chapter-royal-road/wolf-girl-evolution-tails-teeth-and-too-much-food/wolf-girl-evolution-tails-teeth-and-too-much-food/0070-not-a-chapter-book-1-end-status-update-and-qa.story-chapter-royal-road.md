@@ -1,0 +1,51 @@
+---
+id: c472c0fa-b22c-5648-82f9-5c44c9ab119b
+page-type-slug: story-chapter-royal-road
+title: "Not a chapter! - Book 1 End, Status Update, and Q&A"
+slug: 0070-not-a-chapter-book-1-end-status-update-and-qa
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 70
+ownLength: 313
+unit: words
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2741802/not-a-chapter-book-1-end-status-update-and-qa"
+royalRoadId: "2741802"
+---
+
+🐾 Hi everyone! 🐾
+
+Book 1 of Wolf Girl Evolution is now officially wrapped up - at over 108k words written, with Chapter 69 marking the end of Luna's very first steps on her journey!
+
+It’s been a wild, fuzzy, and heart-filled adventure getting her this far, and I couldn’t be happier to share it with all of you. 💙
+
+Before diving into Book 2, I’m taking a short two-week break to rest, recharge, and get the next arc properly outlined and written out (and probably feed Luna something other than jerky, and there are SO many delicious options to consider there!).
+
+In the meantime, I would love to hear your thoughts on the story so far - and what you would love to see in Book 2!
+
+Any and all feedback and questions are welcome!
+
+From the things you have liked, loved, cried, or laughed at - to what you would like to see explored in the upcoming Book 2, or even Book 1.
+
+Why book 1?
+
+Because I will be doing an editing pass on all 69 chapters of Wolf Girl Evolution when time allows!
+
+Part of it is improving the writing, changing some tidbits, and doing small corrections here and there.
+
+But also implementing your editing suggestions and feedback wherever possible!
+
+So don't be shy, I'm always happy to improve! :)
+
+I'm also very happy(and a little proud) to announce that this is my first ever finished book!
+
+My writing journey started just under five months ago, and I began posting only about three months ago with my first story, Aerthis.
+
+Yet despite Wolf Girl Evolution being my second story, I ended up crossing that finish line on it first.
+
+Funny how life works sometimes~
+
+Thank you all for reading, commenting, and howling along with Luna so far. 💙
+
+See you soon for the start of Book 2!
+
+- Aer🐺✨

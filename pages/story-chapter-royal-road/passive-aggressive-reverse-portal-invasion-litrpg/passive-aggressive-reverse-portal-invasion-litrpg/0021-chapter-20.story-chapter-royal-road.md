@@ -1,0 +1,159 @@
+---
+id: 0bbb5eb4-c1cd-561a-84d6-d9f88ee58c62
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20"
+slug: 0021-chapter-20
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 21
+ownLength: 1722
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3513436/chapter-20"
+royalRoadId: "3513436"
+---
+
+My head pounded. My limbs weren’t working properly. I waved one hand in front of my face, trying to figure out what was wrong. My vision was blurry again, like I was getting a backlash from that Perception buff, but with a vengeance.
+
+I noticed the notification first.
+
+Concussion (minor)
+
+Your head has been badly rattled, reducing your coordination, vision and balance. Exacerbating the damage can cause this debuff to worsen.
+
+-3 to Mental Control, Perception and Agility.
+
+22 hours, 34 minutes remaining
+
+Oh. Yeah, that would do it. Groaning, I got to my feet, or, at least I tried to. Then I noticed the other debuff.
+
+Damaged Muscles (medium)
+
+Your leg muscles have suffered major damage and will require a period of rest to recover. Exacerbating the damage can cause this debuff to worsen.
+
+-5 to Agility
+
+47 hours, 58 minutes remaining
+
+Great. So, my other debuff got even worse. I wasn’t even going to think about where that left my Agility. Well. In the fucking gutter, that’s where.
+
+Head swimming and leg hurting abominably, I decided to eschew standing for now, instead taking in my nearest surroundings.
+
+I was… not dead, or surrounded by Skreelings about to chow down on me. That was better than expected. The screams and roars all around didn’t exactly bode well for the long-term precision of that statement, but beggars and choosers…
+
+My roaming eyes swam toward my shield, now even more battered, and took a time-out to focus on the big-ass tooth marks representing where the damn monster had taken a frigging bite out of my shield in passing. Those were big teeth.
+
+Then I saw it.
+
+The Higher Skreeling was dead. Excessively so. It lay on the ground, unmoving, with the finality of something that was never getting up again.
+
+Huh. Somebody actually killed it? That was impressive.
+
+My rattled mind finally took in the other details and notifications waiting for me.
+
+My health was… well, that was an indicator of what had happened. I was sitting steadily at eighteen health out of four hundred. That in itself was lucky. Only, that was before taking in the existence of my Life Steal talent, which healed me for currently nine percent of all damage I dealt. Meaning, I actually died, or at least dipped below zero before the effect took place. Any sort of higher math was out of the window right now. But the fact that I would have died if it weren’t for my Life Steal talent did not get past me.
+
+Also… I needed to heal more. Belatedly, that part crystallized inside my mind. I was sitting in what was still a goddamn battlefield, just thinking about life, a single swipe away from death. At least I was hurt badly enough that Elizabeth wasn’t likely to begrudge me some more healing jerky.
+
+My swimming gaze moved on, trying to find her and her items. I was having a hard time trying to reconcile what I was seeing with what the place was supposed to look like. That damn Skreeling had torn up the place something bad. I-
+
+At long last, I spotted a few of Elizabeth’s items, strewn across the ground. Her organizational system, swiftly but accurately invented, had been scattered to all winds. And where my mind was insisting that I should see the healing jerky, I saw only the ruined corpse of the Higher Skreeling. Yet, right there, underneath, something wafted from underneath the bulk of its body. A wash of orange hair, blowing in the light breeze.
+
+The fact of Elizabeth’s demise was what cemented it for me. I wasn’t thinking straight. I was in mortal danger, and my mind couldn’t seem to fucking concentrate for long enough for me to make sure I wasn’t going to get myself killed.
+
+Choking down a snarl somewhere between fury, rage and distress, I grasped a handful of the healing items on the ground and started forcing them down. Ignoring the million thoughts that threatened to derail me, I forced myself to focus on nothing but my surroundings and imminent survival and took in the state of Ever Steady.
+
+The scene was absolute chaos.
+
+With the duration of the debuff, I’d guess that I hadn’t been out of it for more than a minute or two. Yet, in that scant time, everything had changed. Any attempt at organized defense was over and done with. Resistance was down to smaller groups trying to take on the attackers and, ultimately, failing due to the imbalance in numbers. That, and the two remaining monster leaders. They were running amok, with nobody able to keep up or stand up to them. Wherever they went, resistance buckled and failed, whether it was due to the speed of the otter-like creature or the unceasing magical onslaught surrounding the lizard.
+
+I… it might be the concussion speaking. But for a second, I actually thought that I saw the goddamn Lord o’ Freedom there, at the centre of the fray, waving an American flag of all things.
+
+I shook my head and instantly regretted the motion. When my vision stopped swimming, he was gone. Something else had changed, too. Where, earlier, the monsters were going for the kills, now, it looked like they were trying for subjugation, for overwhelming or knocking out humans.
+
+Only one spot still held a modicum of resistance, and that was our side of the camp. That wasn’t due to any attempts to fight back either. No, the humans on our side, mostly a mix of the U-Nerds and Asians from the coalition, were fighting for all they had to slaughter their way through the fallen wall and away into the questionable security of the Killing Fields in a dirty free-for-all.
+
+I completely agreed. Judging from what was happening, it was a question of possibly surviving in the wilderness, set against the certainty of becoming monster food in the Ever Steady. I needed to get out of here, and I needed to do it yesterday.
+
+Still chewing, I grabbed onto every single healing item I could see in range, and stuffed them into my Personal Universe without even looking what they were. Then, I forced myself to stand up and nearly fell. Damn. Those debuffs really were doing a number on me.
+
+I spat, glaring at the bloody saliva on the ground before me for way too long, before realizing this wouldn’t do. Regardless of my defensive talents and these healing items, I wasn’t getting out of here in this state.
+
+Fortunately, there were two notifications waiting for me.
+
+Congratulations. You have slain a Higher Skreeling (Level 32.)
+
+You have gained experience
+
+Followed right on the heels by.
+
+Congratulation. You have earned enough experience to increase in level. Level increased from 3 to 9.
+
+Six attribute points available.
+
+Six talent points available
+
+Apply attribute points now? Y/N?
+
+Yes, dammit. Six attribute points. Six. That was a whole lot. But right this moment, my Agility alone had a total debuff of -8, leaving me at 4. I considered for a second just pumping all six into Agility, but then reconsidered. It would still leave me at average Agility for a human – and besides, I wouldn’t get any double effects from Agility. Yet, with the Attribute as low as it was, I wasn’t likely to make it out of here.
+
+I made a swift decision and went half and half. Three points to Agility, three to Fortitude. Odds were that both my stamina and my health would be tested soon.
+
+That left me with six full talent points, a time limit that was swiftly running out, and a choice to make.
+
+Tier 2
+
+Improved Defense
+
+Improved Resistances
+
+Tier 3
+
+Burgeoning Aggression
+
+Improved Run Speed (3)
+
+Life Steal 2/5
+
+Tier 4
+
+Burst of Power
+
+Deflect
+
+Moment of Grace
+
+Wheel of Magic
+
+Tier 5
+
+Internal Scourge
+
+I nearly pumped three points into Improved Run Speed. I needed to get away. It was a logical choice. Then, I reconsidered. Not only was I momentarily hobbled and the monsters faster than me, which would ruin any chances at simply running away, talent or no; I would also have to survive out there, manage to continuously stay alive, where others had said that spending just a single night in the Killing Fields was a death sentence. Running away might save my life. But I wasn’t Rincewind. Running away consistently wouldn’t work for me. No. I’d have to deal with any attackers. Somehow.
+
+I cut deep, and cut hard at the list, eliminating possibilities. Internal Scourge? Nah. Disease and poison might be an issue, eventually, but not now. Moment of Grace and Burst of Power? I liked them, but they were luxury choices, not made for a marathon. Improved Resistances? Which fucking resistances? Arcane? Piss off! Burgeoning Aggression would take five full points to unlock and was right out. That left six points and four options.
+
+Tier 1
+
+Defense
+
+Tier 2
+
+Deflect
+
+Tier 3
+
+Life Steal 2/5
+
+Tier 4
+
+Wheel of Magic
+
+First, I placed a single point into Wheel of Magic. It likely wasn’t going to do much against any hostile magics, but… well, it would give me a ranged option of sorts against any hostile enemies with ranged magics.
+
+I took a deep, hard look at Life Steal. Then I removed it from the list. I had my healing items, for now. Healing more wouldn’t do me much good, if I was a one-trick pony who wouldn’t be able to last the distance, or even fight my way out of the camp.
+
+I needed toughness, and I needed versatility. With that, I conceded the point, and added three points to Improved Defense. Instantly, I felt my sense of solidity and well-being burgeon. The nauseating sensation from the concussion? Still there, but slightly forced into the background.
+
+Finally, I spent my last two points on Deflect. If I was going to make it out of here, I’d need to be able to sow some chaos into the forces of the beasts. That wasn’t happening unless I had some way of striking back against them. Hopefully, Deflect would do the job.
+
+With a snarl down at my battered shield, I closed all the notifications and started following the steady stream of people fleeing for the questionable safety beyond the broken wall segment.

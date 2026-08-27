@@ -1,0 +1,329 @@
+---
+id: d05d155c-9edc-5368-a97d-1bf5f47fb3ee
+page-type-slug: story-chapter-royal-road
+title: "1: The Legend Begins"
+slug: 0001-1-the-legend-begins
+partOf: the-legendary-fool-a-deckbuilding-litrpg-b2-complete
+position: 1
+ownLength: 3922
+unit: words
+publishedAt: 2022-11-13
+link: "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1039560/1-the-legend-begins"
+royalRoadId: "1039560"
+---
+
+Thomas Lowe wore a listless expression on his face as he inanely flicked through social media posts on his smartphone. He was seated on an uncomfortable plastic chair, his legs crossed and resting on the billing counter. The convenience store he worked in was empty and to be honest, thomas still didn’t understand the point of a twenty-four hour store in an especially out of the way part of Rural America. Not that it was surprising, city folk had more money than they knew what to do with and he definitely wasn’t complaining— getting paid to scroll through his phone, even if it was a shitty minimum wage, was a good gig.
+
+A bell lightly chimed accompanied by a short, chilly burst of wind.
+
+‘A customer?’ Tom thought, finding it odd. It was 3 a.m. in the morning, for christsakes. It would be a miracle if someone stepped out of their homes after nine in his town.
+
+He perked up, hastily getting back to his feet. His gaze went to his shotgun that was concealed beneath the desk, but things hadn’t escalated to the point that he would need it.
+
+After all, in their small town of ten thousand people, there were few faces that weren’t familiar to him.
+
+A bearded man stepped into his field of view, a sly smile resting on his face. He was… dressed in what seemed to be a victorian-era outfit, with a black tuxedo, lacquered cane and a beautiful emerald brooch that was pinned to his chest. The top hat though, was truly what seemed to give Tom some warning signals. He wasn’t sure that the man in front of him was entirely sane.
+
+No sane man walked at 3 a.m. in the morning dressed like a seventeenth century noble, atleast not in their town. But the… pure gold pocket watch that the man held in his right hand gave him pause, especially when he noticed that it seemed to be inlaid with precious gems.
+
+Whoever this man was, he seemed too refined for a stick-up. Tom’s gaze shifted to the man’s face, and realized that he was stunningly handsome— his silver beard trimmed to perfection, his light blue eyes seeming to almost shine as light landed upon them, making him wonder if they were some form of coloured contact lenses and his face lacked any sort of blemishes at all, making him wonder if he was a model or an actor or something along those lines.
+
+“How… can I help you, sir?” Tom asked, his voice rather strained.
+
+“Thomas Lowe,” he stated calmly, his voice betraying none of his supposed insanity.
+
+A chill ran down Thomas’ spine. There was no name tag on his work outfit so how did he…
+
+Beginning to freak out, his hands inched closer to his shotgun.
+
+A flicker of movement distracted him, his gaze shifting to the cosplaying man. Tom’s hands began to tremble as he ceased moving for… he found himself looking down the end of a barrel, the cold, black steel of a modern handgun pointed right at his head.
+
+“T-The money… I’ll open the register,” Thomas stuttered, hoping desperately that the man just suffered from an advanced form of kleptomania instead of being an outright lunatic.
+
+“I don’t want your money,” The bearded man replied, his voice growing colder.
+
+“What do you want then!?” Thomas screamed back in response, unable to maintain his cool in such a situation. Inwardly, he was wondering if he should risk grabbing his shotgun, but the stakes were so high that it left him trapped in a cycle of indecision.
+
+“I want you to play a game,” The bearded man replied calmly.
+
+“A…. game?” Tom replied, his voice projecting a blend of fear, trepidation and confusion.
+
+“The rules are simple,” He spoke, waiting for Tom to look directly into his eyes before continuing, “I will ask you a question. You will answer. If you lie, I will shoot you. “
+
+“If I lie….?” Tom muttered, shaking from fear at this point. How would this lunatic know if he was speaking the truth or not. This was sick. A sick, twisted fucking joke at his expense.
+
+He was a coward. His entire life he had been a coward. But…. but…. if he was going to die anyway… at the whim of some cruel, deranged psychopath then….
+
+His hands blurred as he reached out for his shotgun. In a moment of pure rage, he overcame his nigh crippling fear because that was the only path to survival that he saw.
+
+He felt the cold metal barrel of the shotgun brush against his skin as he yanked it out from below the counter. He hastily pointed the barrel towards the bearded man, his heart hammering his chest as he primed himself to shoot. Oddly enough, despite never having shot at a living target before there was no hesitation in his actions.
+
+A gunshot rang out and with it came the onset of tinnitus. The loud, beeping sound in his ear would normally cause great alarm, but at that moment Tom could barely care.
+
+He had not fired the shot.
+
+With dread in his eyes, he angled his gaze downwards, hoping for a miracle.
+
+Utter shock flashed in his eyes as he patted his chest for a wound, but found none.
+
+“Wait-,” he muttered, realizing that his hands were free. Where was his…
+
+He swiveled his head to the left, having noticed a blur of moment in that direction. His shotgun lay lodged in a display stand, a steaming bullet hole visible in its grip.
+
+The man had… he had shot the firearm out of his hand?
+
+‘How… the fuck.. was that even possible?’
+
+Struggling not to hyperventilate at this point he slowly creaked his neck to face the bearded man, who stood there, his pristine visage still placid, unmoved by Tom’s actions.
+
+‘Was this… was this a dream?’
+
+“Are you done?” He asked, his words tinged with an air of finality— a veiled warning, if Tom ever saw one.
+
+“Ye-yes sir,” He hastily replied, raising his trembling arms in the air to show that he was not a thread.
+
+“Very well, listen carefully then. I shall only ask my question once. If you fail to answer….,” the bearded man pressed the barrel close to Tom’s head, the cold metal making him wince upon contact.
+
+“My first question,” He stated. A bead of sweat ran down Tom’s forehead as he begged his mind to operate at full, no beyond full capacity. He hoped dearly, prayed to anyone who was listening, that the psychopath would pose a question he could answer.
+
+“You are walking through a crowded marketplace. A black SUV drives past you, crashing into a streetlight. An armed man slams open the car door. His eyes are bloodshot as he scans the area. He unholsters his gun, a pistol and points it at the crowd. The man is an escapee from an armed robbery and he is looking for a hostage. The crowd begins to flee and the man screams at them to stop. You have concealed yourself behind him, the only weapon in your possession that shotgun you tried to use on me. It does not have the range to shoot from this distance. The man is about to shoot into the crowd. To stop him, you need to charge at him and unload a shotgun slug. But the odds that he will hear your footsteps are high. Thomas Lowe, what would you do in this situation?”
+
+“What would… I do?” He repeated the question aloud, stunned by it’s oddity.
+
+“You have sixty seconds to answer,” the man retorted coldly.
+
+Thomas’ knee jerk instinct was to reply brusequly that he would repeat what he had done just now. That he would charge at the armed man and shoot him dead. Why? Because that’s the answer that this odd victorian man most likely wanted to here. The whole get-up smelled of someone with a fetish for justice and he had almost convinced himself that it was the right thing to say.
+
+But….
+
+When he looked into the man’s crystal clear blue eyes….. Those were not the eyes of a deranged man. But those were definitely the eyes of a killer.
+
+‘If you lie, I will shoot you.’ The man’s words rang out in his mind, causing Tom to twitch. He couldn’t lie. His tells would probably be too obvious under such duress. The man had to be ex-military. That would make sense, sniffing out a lie shouldn’t be difficult for him with such a background.
+
+So what would he do?
+
+Who was Tom? Someone who worked minimum wage in a convenience store. Someone who had given up his ambitions at the first signs of setbacks. Someone who was too afraid to get close to others, for fear of abandonment. Someone who had lost once, and was too afraid to lose again.
+
+Someone who blamed the world for his problems.
+
+“I would,” A tear trickled down Tom’s flushed face, though he did not consider it to be due to the stress, “stay hidden,” he said, his voice barely above a whisper.
+
+“Trash,” the bearded man muttered with disdain, spitting on the ground.
+
+Tom winced.
+
+“You passed the first question,” he added after, causing Tom to sigh in relief. Though he didn’t know why he should be relieved, this lunatic would kill him either way.
+
+“For the second question, look into my eyes,” he blandly stated.
+
+This time, Tom really began to cry. The bearded old man really was crazy after all.
+
+His vision began to blur because of the tears, but nevertheless he complied.
+
+A wisp of terror flashed through his eyes, as for a moment he felt like a small star in the infinetesmal universe, a mere ant in front of all existence.
+
+The next thing he knew, he was walking down a crowded marketplace. The stores had colourful displays in what seemed to him like Japanese, with hundreds upon hundreds of pedestrians milling about the crowded streets. This couldn’t be a dream, because he had never been to this place in his life.
+
+But Tom found himself involuntarily walking forward down the crowded street, having lost control over his body.
+
+The next second panicked screams rang out behind him in a language that he had never heard before, but somehow understood. Japanese, then?
+
+People all around him began to run away as he heard the screeching of car tires behind him, but Tom remained rooted on the spot, as if he was shocked still.
+
+A black SUV skidded past him, and Tom watched as its brakes failed. It crashed into a streetlight, causing the metal pole to smash against a storefront.
+
+Adrenaline finally clicked in, and Tom’s ‘avatar’ moved, taking cover behind a car that was a few meters away from him.
+
+A heavily tattooed man of asian descent walked out of the car, clutching at his abdomen. Tom’s angle was a concealed one, and though it was a glimpse, he saw that a glass shard was embedded there.
+
+That was bad. It meant that the man was desperate.
+
+On the other side of the street, a stampede had begun to form as people tried to squeeze through the narrow streets on either side. Tom watched with horror as a little girl tripped, a churning sensation in his stomach as he saw her mother being swept away by the crowd. Thankfully, nobody seemed to be collapsed on the ground in the stampede, but the girl….
+
+The tattooed criminal walked, or rather limped towards her.
+
+Tom felt the control over him loosen, finding himself able to move again.
+
+At the same time, a voice rang out in his mind.
+
+“Dying here means dying in the real world,” it stated coldly, belonging to the bearded old man.
+
+Tom’s hands started trembling again, but he noticed an added weight to them. His grandfather’s old shotgun, a relic that was probably a hundred fucking years old, was clenched in his hand.
+
+He peeked over the car’s cover, seeing that the tattooed man was half way to the injured girl, whose ankle seemed to have twisted.
+
+‘Just stay here’ A part of him whispered. ‘This isn’t real. This can’t be fucking real. But that old man will really kill you.’
+
+But it was real. This… Tom knew his mind enough to know that he couldn’t simulate an entire marketplace he’d never seen before in his life. That car, those tattoos, the girl, he had never seen them before.
+
+What was that man? Was he a devil? The Supernatural?
+
+Then could this world be real? Had he teleported him to Japan? Then was the girl real?
+
+Wait!
+
+The original situation, the one the man recanted to him didn’t mention the girl. This was the second question! Instead of shooting into the crowd, don’t tell me….
+
+A sick, twisting sensation gripped his stomach as realization hit him.
+
+The man was going to shoot the little girl.
+
+He looked at the shotgun in his hands. The damn relic barely had a range of five meters. Fourty, perhaps Fifty meters separated him from the target. The man had a handgun. Even in his injured state, all it would take would be a second to kill him.
+
+His grip firmed. His resolve flared.
+
+This would be the stupidest thing he could do. For all he knew, the little girl wasn’t even real. Merely a simulation. A figment of imagination. But if he failed, the man definitely would kill him.
+
+Any rational man would stay down and admit that he couldn’t save the girl, if she had even existed in the first place. He was no hero. He was a damn coward. He had worked a dead-end job his entire life and he would never amount to anything more. He couldn’t fight a trained criminal on the run from the cops.
+
+Yet… he stood.
+
+A trained military operative would have chosed to move slowly, to muffle his footsteps and take the target down. But the tattooed criminal was three-fourth of the way there to the girl. And Thomas was no trained operative. He was a coward and the rush brought by the adrenaline was the only thing that gave him the courage to charge forth.
+
+50 meters… 45 meters… 40 meters…..
+
+The distance narrowed till only twenty meters remained.
+
+But his approach had been too loud.
+
+The tattooed man swiveled on the balls of his feet, his eyes widening when he saw an american man rushing at him with the shotgun.
+
+Without hesitation, he pulled the trigger twice.
+
+The first shot grazed Tom and the second landed square in the gut. He stumbled forward for another five meters, his face painting the asphalt before he went still.
+
+Tears streamed down his eyes. It felt like someone had punched him in the gut with such force that it had cracked all the ribs in his body. His vision oscilated between consciousness and unconsciousness, his breathing growing shallower by the second.
+
+Tom had royally fucked up.
+
+He was going to die.
+
+In that moment, he felt no self-recrimination. All he felt was a burning desire and a hatred for the man, the predator that towered over the young girl.
+
+He did not care about the fate of a faceless crowd. Tragedies happened all the time.
+
+But this? This was fucking real.
+
+So he forced himself. Strength flooded his arms, the dying embers of a dying man shining with one last burst of brilliance, perhaps the only brilliance Thomas had to offer.
+
+‘Move!’
+
+‘Move, motherfucker, move!’
+
+10 meters…. 9 meters… 8 meters… 7 meters… 6 meters….
+
+The tattooed man finally noticed his approach, turning again to see a dying man crawling towards him.
+
+But this time, Tom had expected it.
+
+He screamed so loud that it felt as if he had torn every vocal cord in his throat, rolling his body onto his back.
+
+The tattooed man’s shot missed, poking a hole into the asphalt where his head had been seconds ago.
+
+The last thing he saw was the bloodied visage of an american man who was maniacally grinning from ear to ear.
+
+Thomas pulled the trigger.
+
+An ear splitting bang rang out, as the tattooed man’s head exploded like a smashed tomato.
+
+The next second, a while fog swept the world.
+
+Towering above him was the bearded man who stood aloof in the world of fog.
+
+“Your resolve is weak. Your approach is foolish. What would you have done if your shot missed? Instead of aiming for the body, you chose the head. Fucking idiot. When you said that you would have cowered behind a car in the first scenario, I believed you. The second question though, I didn’t. I instanced you a thousand times you know? Each time you gave me the same answer. ‘I would save the girl’. You really did fucking save her.”
+
+The bearded man landed a kick against Tom’s abdomen, causing him to cough out a mouthful of blood.
+
+“Why did you save her? You would let an entire crowd of people die just to protect your insignificant life, but you’re willing to stake your life for just one human? How does that make sense? Why are you grinning?”
+
+“You….,” Tom croaked out weakly. “...said her. She’s real isn’t she?”
+
+The bearded old man remained stoic for a long minute, before finally answering with a curt “Yes.”
+
+Tom began to laugh, sputtering out blood every few seconds.
+
+“I don’t understand any of this. What… this is. Who you are. Why I’m bleeding out on a fucking cloud. But…. If you want to know why I saved her… that I can answer.”
+
+“So why?”
+
+“Because… I’m selfish. Because when I saw that six foot tall piece of shit criminal inching towards an innocent girl with a gun in his hand…..,” Tom aggressively spat out another mouthful of blood, “It fucking pissed me off, that’s why! It reminded me… of myself. When I was huddled up, head buried in my arms waiting for …. It to stop, all I wanted was for someone to… save me. So I.. saved her instead.”
+
+“You…,” the bearded man spat with disgust, “are illogical. Driven by emotions. Rash. Easily prone to anger.”
+
+“You are a Fool.”
+
+With that, the bearded man snapped his fingers.
+
+Tom stumbled as he tried to get a hold of the situation. The pain had disappeared. He felt the ground underneath his feet so he was standing. He scanned the surroundings, only to see the now comforting fluorescent lights lighting up a convenience store. His convenience store.
+
+The bearded man stood in front of him, in his hands a deck of cards that seemed to be made out of solid chips of gold, with a red crystal embedded in the center. The cards were face down, so Tom couldn’t make out what was behind them.
+
+“Choose one,” The man held out the cards, a deck of fifty two it seemed like.
+
+“I don’t want it,” Thomas replied bluntly, no longer as afraid of the man. He had brushed with death once, and if this… being wished to harm him, then there was nothing he could do to fight him.
+
+“The moment you passed the trial, you consented to making a choice.”
+
+“What fucking consent!?” Tom protested. “You pointed a gun at my forehead and forced me to do whatever this is…. Wait, I passed?”
+
+“You did. This is your reward.”
+
+“What happens if I refuse?”
+
+“I will shoot you.”
+
+“That’s getting real fucking old now, man.”
+
+“Fine, fine,” Tom raised his hands in mock protest. “How do I make the choice? And what are these… cards?”
+
+“You are to close your eyes and expand your senses. You will feel varying degrees of pull from each card, depending on your personality, actions and the life you have lived. Choose the one to which you feel the strongest attraction. As for what the cards are, they…. represent supernatural power, like the kind I wield. But individually, I do not know, for the cards shield them from myself. Simply put, I am a messenger. The questions I asked you were merely the will of the cards, kid.”
+
+“Will of the cards? Supernatural power? Well…..you aren’t exactly giving me much of a choice,” Tim sighed, closing his eyes and attempting to ‘expand’ his senses, whatever that meant.
+
+For a long minute he could sense nothing but then… a tall spire of golden light came into focus in his mind’s eye, tethered to… himself. There were other spires of light that continuously formed and shattered as tendrils from the golden spire stretched out and snuffed their light before they could get anywhere near him.
+
+Ten minutes passed as he simply watched in marvel and the golden spire shattered spire after spire with ruthless efficiency, as if it had a personal vengeance with the other cards.
+
+Was that… supposed to happen?
+
+Tom didn’t exactly have a reference point but what would happen if tried to reach out for the other cards? His face paled as he imagined the golden tendril snuffing out his light as easily as it did the others.
+
+That… was not the outcome he wished for so he followed the bearded man’s instructions and reached for the spire of light.
+
+When he opened his eyes, he was holding on to a Golden Card that seemed indistinguishable from the others.
+
+“What no-,” Tom stopped mid sentence as the Golden Card’s surface began to crack, revealing a pure diamond exterior underneath. He gasped as tendrils of energy snaked out from the card, reaching for his mortal body. A second later it was replaced by a spire of energy that seemed to engulf his being, but surprisingly the energy didn’t hurt or seem… physical at all, more like an aura that was seeping deeply in every inch of his body.
+
+His gaze shifted to the diamond card, chills running down his spine when he saw the creepy visage of himself dressed in a jester’s outfit gazing back at him.
+
+[Card Name: The Fool]
+
+Status: Soul Card [Level Requirement Waived]
+
+Rank: Unique-Legendary/Ephemeral
+
+Current Abilities:
+
+Shroud [No Level Requirement] [Passive]
+
+“Oho. A [Rare] Grand Illusionist Card as your Soul Card?” The bearded man seemed happy, overjoyed even, when he saw the result.
+
+“What’s this blue screen?” Tom felt his unease building up as he gazed at the words, a chill running down his spine.
+
+“Oh that’s the Card Script. Don’t worry, you’ll get used to it.”
+
+“But it says here that I have a [Rare] Grand Illusionist Card!?” Tom protested, or attempted to protest. The horror in his heart spiked when he realized that…. He didn’t manage to say the words he wanted to. He had meant to say that he had a [Unique-Legendary Fool Card].
+
+“Hm. That’s what I said?” The bearded man replied quizzically.
+
+“Sorry… I must have misheard.”
+
+“Well that’s my job done, kid. Remember, it was nothing personal.”
+
+“Oh and… Welcome to Artezia.”
+
+“Wait what the fu-”
+
+A gunshot rang out in the convenience store, alarming the nearby residents who stormed the door armed to the teeth fifteen minutes later. There was no body to be found, not even the casings of a bullet. The man known as Thomas Lowe disappeared, and multiple efforts were made to find him. But all trails were cold, as if the man had disappeared of the face of the earth.
+
+Seven years later he was labelled missing, never to be seen again.

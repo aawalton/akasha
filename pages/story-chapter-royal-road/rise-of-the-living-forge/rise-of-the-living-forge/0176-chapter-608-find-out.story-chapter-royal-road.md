@@ -1,0 +1,105 @@
+---
+id: 6cfeaf55-121d-5f2a-a391-8c7be75941b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 608: Find Out"
+slug: 0176-chapter-608-find-out
+partOf: rise-of-the-living-forge
+position: 176
+ownLength: 1668
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3542515/chapter-608-find-out"
+royalRoadId: "3542515"
+---
+
+There was an ache in Arwin’s gut and a pile of scrap at his feet. His jaw had been clenched shut for so long that it throbbed, but he was so focused on the small chunk of misshapen metal set within the crackling hearth flames before him that he barely even noticed.
+
+His hands clenched into fists.
+
+Damn it.
+
+“Failed,” the Forge said, flickers of light dancing across its faceted obsidian form. “The magic didn’t hold.”
+
+“I can tell,” Arwin said, pulling the dagger from the fire. Calling it a dagger might have been a bit of an exaggeration. It held far more in common with the scrap littering the ground around him. Some of the first weapons he’d made after getting the Living Forge class had looked far, far better than this.
+
+He blew out a heavy sigh. Then he tossed the metal to the ground, where it landed with a clink. Making this dagger was even harder than he’d expected.
+
+It had been days since he’d gotten started. The rest of the Menagerie had been hard at work bringing him materials to work with. He’d gotten help from Koyu and Wallace. Even Lillia had weighed in to try and help. But none of it had worked.
+
+Even though Arwin had known it wouldn’t be easy to imbue the Hungering Maw into a weapon, he hadn’t expected it to be this difficult. Making a soul weapon with shoddy materials that were guaranteed to only last through one use was already a challenge in itself.
+
+But actually getting the Hungering Maw’s power bound within a weapon was on an entire new level of difficulty. The whole point of the ability was to consume magic. Trying to isolate it and get it into a weapon was proving to be exceedingly tough.
+
+He might have said it was impossible if that were an option.
+
+But it wasn’t.
+
+Without this, they weren’t going to have a way to deal with the Beast. And if they couldn’t deal with the Beast… Arwin didn’t want to think about what that would entail. They couldn’t afford it. He needed to find a way to make this work.
+
+“Perhaps our approach is wrong,” the Armory mused. “It should not be this difficult.”
+
+“We’re trying to isolate a single incredibly powerful ability and stick it into a weapon in a way which its magic doesn’t immediately ruin the weapon it’s in,” Arwin drawled. “I’d say this should be pretty damn difficult.”
+
+His stomach gurgled in discomfort, but he ignored it. He’d been using a lot of magical energy. He was just going to have to eat something soon. Still, it hadn’t been all that long since he’d last had Lillia’s cooking. She’d even been making meals with more magical energy within them specifically for him. It seemed that wasn’t quite enough to last through the amount of power he was burning through trying to make this dagger.
+
+That or the Maw is getting hungrier even faster than I had expected.
+
+Arwin dismissed that thought. If it was, there wasn’t much he could do about it. The best thing to do was just focus on trying to figure out how to finish making the dagger. The end to his troubles with the Hungering Maw weren’t all too far away.
+
+His Challenge needed him to find the cause of what was causing the Mesh to die and find a way to solve it. And at this point, they knew what it was. All that he had left to do was actually finish it. When the Guild’s monster was put to an end… it would also be an end to his own troubles.
+
+“Difficulty is expected,” the Infernal Armory said. “But this seems like we have approached it wrong. Perhaps we need to adjust our approach.”
+
+Arwin frowned for a moment. “Are you saying we should try to make the weapon last longer and risk it falling into Guild hands? Making it out of stronger materials would definitely help.”
+
+“Perhaps,” the Armory said. “Or a different way to make the Soul Weapon. Maybe it could be done in the same way as a Guardian? With a core that houses the true power of the Hungering Maw surrounded by a shell of lower quality materials meant to break?”
+
+“That’s a thought,” Arwin said, rubbing his chin. “But if we made it like that, the chances of the dagger exploding from the sheer magical energy it would need to contain a core would be pretty high. We’d also risk the core itself falling into the Guild’s control.”
+
+The Armory tapped a finger against its side with an echoing clink. Then it shook its head. “That is a good point. Unfortunate.”
+
+“Yeah,” Arwin said slowly. Then his head tilted to the side. “But I do wonder… maybe that route has some credence. Could we try to make two? If we make the dagger in the style of a Soul Guardian, we could potentially isolate the aspects of Hungering Maw enough to let other magic attach to the weapon without getting consumed.”
+
+“What purpose would making two of them serve if one is already a problem?”
+
+“Sympathetic magic,” Arwin replied. “Anna used it to kill Twelve some time ago. What if we could build that into the actual dagger?”
+
+“The trigger couldn’t be complicated,” the Armory said. “Anything that isn’t incredibly basic will probably get consumed by the Hungering Maw. It’ll be difficult to sneak anything extra onto it as well. That means it wouldn’t be able to be very strong. Range will be a major limiting factor.”
+
+Arwin paused for a moment. Then his eyes widened. “What if range was the limiting factor?”
+
+“I do not understand,” the Armory said. “It is. That’s the problem.”
+
+“Right,” Arwin said, a flicker of excitement passing through him as his mind latched onto the new idea. “But it could also be our lifeline. If we make the Soul weapons together, we could work with Anna to imbue Sympathetic magic into the weapons inherently. Make it so that they have to be within a certain range of each other. Then we give one of them to the Beast.”
+
+The Armory’s eyes lit cherry red with realization. “And so long as you keep one of the daggers on you…”
+
+“Then it doesn’t matter what happens to the other one. If the Guild manages to steal it and try to take it back to their headquarters, it shatters and becomes useless. It’s perfect.”
+
+“Except for one problem,” the Armory said. It pointed at Arwin. “You’re stuck with the Beast. For this to work, you need a sacrifice. Someone has to wear the second armband. And I think we both know you’re not going to give it to someone else in the Menagerie. It’ll paint a huge target on their back if anyone figures out how the weapons work. You’ll keep it yourself.”
+
+“That’s true,” Arwin said, but he couldn’t be so easily deterred. This was the best chance the had to deal with the problem. He’d been approaching the dagger thinking that it had to be a ridiculously weak housing containing ridiculously powerful magic — but that wasn’t going to work. This could. And it wasn’t like they had long to figure it out. There were only days left before the Beast returned. “But I can’t think of a better option. We can make the Beast agree to play nice until the dagger’s work is finished. He won’t sacrifice his chance at freedom. Koyu seemed very confident about that.”
+
+The Armory inclined its head. “That is true. Then this may actually have a chance of working. How will you deal with the Sympathetic magic? We will still have to make a portion of the weapons out of fragile material to ensure they easily shatter if taken out of range. But the cores will have to be strong enough to contain the strength of a Soul Guardian.”
+
+Arwin thought for a moment.
+
+It was an interesting challenge. Trying to create a Soul Weapon powerful enough to actually take apart a Revenant while also being weak enough to completely shatter if it got a little bit too far away from its counterpart. Chances were, the two of them would have to have some constant feedback loop. So long as they were both active and close enough in range, they would be safe. But the moment one got too far and the other lost its ability to communicate with it, then the two of them would both shatter at once.
+
+I also need to make sure the range isn’t so short that the Beast has to just wander around after me for the foreseeable future. He doesn’t seem like the kind of company I’d like sitting around in the room while Lillia and I are trying to sleep. This is definitely going to be a bit of a pain in the ass. Although…
+
+Another thought struck Arwin.
+
+Then the corners of his lips curled in amusement. There was actually another option within the Menagerie as to who could bear the counterpart to the Beast’s Soul weapon. And, the more he thought about it, the funnier it seemed.
+
+Yeah. That might work just right. The Armory isn’t going to love this, though.
+
+“We’ll have to make some changes to our design, and Anna will definitely have to help. I don’t think anyone in the Menagerie knows this kind of magic better than her,” Arwin said. Then he cracked his neck. “Please ask Uriel if she could get Anna and bring her over. We’re going to get started on this right away. I know enough about how the Hungering Maw interacts with materials now. I’m confident we can get this done in time.”
+
+“I will request her to send Anna over,” the Armory said.
+
+“No,” Arwin said. “Not send. Bring. I want Uriel to come as well.”
+
+The Armory tilted its head to the side. “Why?”
+
+Arwin grinned. “Just call them. You’ll see.”

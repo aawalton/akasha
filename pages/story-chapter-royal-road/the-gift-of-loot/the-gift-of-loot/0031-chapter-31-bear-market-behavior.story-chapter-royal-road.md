@@ -1,0 +1,193 @@
+---
+id: 00ba27cf-99cd-5fab-8733-6a1ee1a062d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: Bear Market Behavior"
+slug: 0031-chapter-31-bear-market-behavior
+partOf: the-gift-of-loot
+position: 31
+ownLength: 2212
+unit: words
+publishedAt: 2026-05-24
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3438009/chapter-31-bear-market-behavior"
+royalRoadId: "3438009"
+---
+
+Thomas and Jo crept up on their next target, which was a bear eating a bunch of blackberries from a thorny bush. It hadn't been hard to find. There were over twenty bears in this dungeon, and this next one was across the stream, around a bunch of bushes.
+
+This dungeon wasn't very creative.
+
+If it had been a real bear, it probably would have scented them a long time ago, but this one just continued to munch along, not paying them any attention.
+
+Generally, the monsters would not move from their territory unless they were directly attacked. That wasn't a strict rule, as he remembered from the Veggie Dungeon and the Chipmunk Forest Fire Dungeon, but so far it seemed to be the case here, probably as a way to balance out how tough the monsters were.
+
+Thomas glanced at Jo. She watched the bear calmly, sword still in hand. She'd seemed super comfortable with it, so Thomas had let her have it. He held the mace, though after seeing what those spikes had done, he was very careful with it. He kept the pen knife in his other hand.
+
+They didn't speak. They'd already pre-planned this part, and so just waited until the bear shuffled around, presenting its wide hind end at them.
+
+Thomas stepped out of the bushes, counting on his Notice-Me-Not cloak to keep him... uh, unnoticed. Then he threw the mace end over end, like he was a lumberjack in an axe-throwing contest.
+
+It caught the bear's big butt vertically, not spikes first as he'd hoped, but it still drove some spikes inward. The bear roared and whipped around so fast that it should have been impossible for a creature that size.
+
+Oh shit, Thomas thought as its beady, evil little eyes focused on him. It roared again, saliva stringing out from its mouth, then charged.
+
+Then it stumbled sideways a few steps, as if it were drunk. Or poisoned by sinister mace spikes.
+
+The guy in the pawn shop had said that the mace inflicted spiritual damage. Obviously that had killed the robber. But until now, Thomas wasn't sure if dungeon creatures had spirits.
+
+Apparently they had something close enough, because the bear stumbled as if it were suddenly dizzy. Its gaze was still on Thomas, though, and it was clear it wanted him for lunch.
+
+Suddenly, Jo seemed to appear out from behind a tree. When had she gotten over there? Oh yeah, he'd completely forgotten about her again. Damn, that Gift was good.
+
+She greeted the bear sword first. Jo might have some kind of skill-inspired control over her sword, but she was no trained swordswoman. It was a very basic stab: in, then out, with a gout of blood.
+
+The bear roared again and swung towards her, but then fell on its side. Not because of her stab, but because it seemed to have just developed a very bad case of vertigo. But it was thoroughly distracted.
+
+Thomas rushed in, his Notice-Me-Not cloak flapping in a way that should have been extremely noticeable, and, clicking the button, stabbed his pen knife into its back.
+
+He had to stab a lot deeper than he thought. There was a lot of fur.
+
+The bear roared and clawed at the air as if thinking it was still on its feet and wanting to charge. Then it went silent, and the little jewels on the pen knife turned a deep chocolate brown.
+
+All right. One bear ghost locked and loaded.
+
+Thomas concentrated on the pen knife for a second, and his triumph fled.
+
+"Ah crap," he said.
+
+"What's wrong?" Jo asked immediately, circling with the sword up in what he supposed was some kind of guard position.
+
+"The durability on my pen knife just went down by ten points. Now I'm at thirty out of one hundred." He caught her quizzical look and said, "Oh yeah, that's a thing you can see for System items once you hit level 2. It's great. You also get the titles of things."
+
+She nodded, taking that information in. "So... we can kill three more bears?"
+
+"I'd rather not kill any more bears with this pen knife," he said. "It's too valuable, and I don't want to just use it up until it breaks, but I don't understand why it's getting damaged." He frowned. "I mean, it got damaged in a Mantis dungeon because they had corrosive blood. Bears don't typically have that, I think. I'm not a biologist."
+
+Jo was silent for a moment, then said, "Do you dive level 2 dungeons a lot?"
+
+"No, well—" He was about to explain about the Chipmunk Forest Fire dungeon, but duh, no one was supposed to know about that. "No," he said again, then could have slapped his forehead. "But this pen knife came from a level 1 dungeon. And it's slaying level 2 monsters! That must be it!"
+
+"Well, there you go," she said, and turned her attention back outward, watching to make sure no other bears came up on them.
+
+Thomas frowned. He didn't know Jo well, or at all really. But she seemed strangely flat. Was that because he had given her two water mana crystals? But why would water do that?
+
+Maybe shutting down slightly was how she dealt with stress. It was certainly preferable to her freaking out. He decided not to mention it, but to keep watch.
+
+Meanwhile, there was looting to do.
+
+The bear had dropped two B-grade earth crystals. He wanted an item, but even he knew that would be greedy. Still, it was a nice loot drop.
+
+"Got two B-grade browns," he said, holding them up triumphantly.
+
+"That's a nice loot drop," Jo said, with all the inflection of Siri.
+
+"Yeah," Thomas agreed. "I think it might be because you're level 1 in a level 2 dungeon. Maybe that messes with the drop table."
+
+He only felt a little bad about his lie.
+
+She nodded. "Where's the next monster?"
+
+****
+
+The next bear on their path wasn't alone. In fact, it had two little baby bears tumbling around, while what he assumed was the mother stood nearby on two legs, busy scratching her back on a tree.
+
+"Let's move on," Thomas said uneasily.
+
+"Why?" Jo asked. "The last one wasn't so bad. Hit the mother with the mace to stun it, and I'll go after the babies." She held up the sword, which, Thomas saw, was still stained with the last bear's blood.
+
+He glanced again at the little bear family. The babies looked exactly like teddy bears, with big heads and eyes, and they were wrestling and play-biting with each other.
+
+These are dungeon monsters, he told himself. Get a grip.
+
+The demon chickens had been kind of cute too, with their little cockatoo crests raising up. And so were the chipmunks, when they weren't breathing fire at him. These aren't real animals.
+
+Besides, he ate real animals. He wasn't that much of a softie, but...
+
+He had to admit the truth, even if just to himself: If he were alone, he would have walked away and left this peaceful little family alone.
+
+The fact was, however, he was with somebody who was currently being an emotionless badass. And while killing something super cute made him feel sick, the thought of turning away like a coward made him even more so.
+
+Besides, she was going to kill the babies, not him.
+
+"Okay," he said. "Uh... please make it quick," and painless for them, he didn't say. "I don't want to use this pen knife unless it's an emergency, so you might need to help me tackle the big one."
+
+"I understand," she said, and effortlessly moved into position.
+
+At first, the fight with the Mama Bear went about as well as the last one. Thomas snuck up close, depending on his Notice-Me-Not cloak to cover sound and scent. But it wasn't foolproof, and one of the baby bears must have noticed something, because it gave an inquisitive growl.
+
+Mama Bear suddenly tensed, dropping down on all fours from her back-scratching position. Thomas threw the mace. It caught her a glancing blow on the side, and in a blink, she was rushing towards him. She staggered, but not enough for his taste. She had a lot of momentum on her side.
+
+At the same moment, Jo went for the little ones.
+
+The baby bears screamed a sound that went through Thomas's soul. It was a baby crying for its mother.
+
+Unsurprisingly, Mama Bear reacted and was somehow able to change direction to head straight for Jo.
+
+Thomas made his decision without even realizing it. His decision tree was short and basically went like this:
+
+- Jo was only level 1.
+
+- This was supposed to be Thomas's bear to kill.
+
+- Thomas could heal.
+
+So, holding his curved dagger, he rushed forward at the oncoming bear and sliced desperately at it. He caught it in the ribs and felt the knife part flesh and what he suspected was bone.
+
+Then the mama bear turned and casually swatted him to the side.
+
+Thomas didn't feel the impact. The next thing he knew he was flying through the air and landed hard at the base of a tree. It felt like his waist and ribcage were on fire. Ugh, was this what it felt like to crack ribs?
+
+But the mama bear had fallen over, and Jo was finishing off the last of the babies, which seemed to have a little fight in them too.
+
+And most importantly, in a few seconds Jo would finish her job and head for the mama.
+
+I have to kill that bear to get the best loot, he thought, fuzzily, and probably not very smartly.
+
+Somehow he stood and limped/ran over to the mother bear. He could feel the healing mana working overtime. Between that and the wellspring mana he had already absorbed, every step came a little bit easier.
+
+The mother bear was thrashing on the ground, looking like she was having a fight with the air. She looked so terrified and angry and miserable that Thomas did not feel bad at all putting her out of her misery with a slash to the back of the neck.
+
+A healthy bear isn't a skinny bear and there was a lot of flesh, but this curved dagger seemed to part almost anything, and after two slashes he hit the spine and she went down.
+
+Thomas slumped against the bulk of the creature, breathing hard, and then kind of regretting it because the smell was awful.
+
+"You took a hit for me," Jo said.
+
+"Jesus!" He spun around, having forgotten she was there again, then tried to cover his surprise with a cough. "Yeah! Well, I said I would get you through this dungeon. It wouldn't be very cash-money of me to back out now. Uh, anyway, are you okay?"
+
+She nodded once, slightly robotic. "What about you?"
+
+He pulled up his shirt and looked at his side. No blood. Just a deep black bruise, which was ridiculous, as such a deep bruise usually took a few days to form. That was an indication he was already healing.
+
+"I'll be fine," he said, then started to search the bear for loot.
+
+He found it lying by her head.
+
+It was a single right-handed glove that was so dark brown it was almost black. Four thick metallic lines running over the top.
+
+"I only got one blue crystal from one of the babies," Jo informed him dispassionately, then joined him looking over the glove. "What is that?"
+
+Seriously, what was with these dungeon descriptions?
+
+"I don't know." He tugged the glove on and felt something... odd. It was almost like a silent on/off switch, buried deep in his brain.
+
+Curiously, he flicked it on. Four sharp claws extended from the top knuckles.
+
+"Oh wow," he said, showing them off. They glinted in the fake dungeon light. "Wolverine claws. What do you think?"
+
+Jo analyzed them in a flat, analytical way. "I am happy with this sword for now. Why don't you keep the glove? Maybe next time you will not get swatted so easily." Her mouth ticked up slightly at the corner in what he thought was supposed to be a smile.
+
+"Riiight," he said. This was getting too weird. He had to say something. "Listen, Jo, are you feeling all right?"
+
+"Yes, I'm feeling fine. Why?" She cocked her head, a little like Mr. Data from Star Trek.
+
+"I don't know you," he held up his ungloved hand palm up with a shrug, "so I might be way off the mark here, but you're acting... not as you were before."
+
+"I do not understand."
+
+"Kind of robotic? Unemotional?" And whatever was going on with her, she seemed to be getting worse.
+
+She opened her mouth, but whatever she was going to say was cut off when they heard a crashing in the brush nearby.
+
+Thomas focused on his healing sight, then swore. "Here we go."
+
+On cue, the first of their missing robbers half-fell out of the brush, picked himself up, and kept going. He was crying, dragging a dead leg behind him, and running for his life. "Help me!"

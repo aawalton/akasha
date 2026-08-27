@@ -1,0 +1,371 @@
+---
+id: 6a02d9eb-7d16-5fc3-b67b-996d234933e3
+page-type-slug: story-chapter-royal-road
+title: "ONE HUNDRED THIRTY-EIGHT: Waves IV"
+slug: 0139-one-hundred-thirty-eight-waves-iv
+partOf: super-supportive
+position: 139
+ownLength: 3973
+unit: words
+publishedAt: 2024-05-02
+link: "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1620939/one-hundred-thirty-eight-waves-iv"
+royalRoadId: "1620939"
+---
+
+138
+
+******
+
+Up. Go up.
+
+Alden didn’t know for sure what was coming or if it would even reach him. He had no idea if now was the right time to abandon his horizontal evacuation in favor of a vertical one.
+
+The only place he was sure would be safe was the interior of a flyer that was currently bound for South America. In the absence of that vehicle, and with his public school education having failed to prepare him to escape from oceanic anomalies caused by magical contaminants, he was going to have to go with Plan C. For “caveman.”
+
+Big scary sound is getting louder. Hide from it.
+
+He increased his speed and hustled back the way he’d just come from, jogging past a row of oddly gothic-looking townhouses. As he hurried across the next street, flashing pedestrian warning lights automatically switched on, bathing the crosswalk yellow.
+
+One of the safest-looking buildings he’d seen since he left The Span was on the corner.
+
+A stretch of concrete wall, painted white, led him to a door that had seemed appealingly sturdy when he passed it earlier. It was a tall, wide rectangle designed to look like a jigsaw puzzle made of colored pieces of metal. Some of them had slightly different elevations, giving the door a textured appearance.
+
+Now that I want to get in, it looks too damn sturdy.
+
+Alden had a couple of sketchy ideas about how he would break and enter, but he’d much rather it just be unlocked. If I can’t get this opened, I just break into one of the houses instead. That’s all there is to do.
+
+The roaring still filled his ears. He couldn’t tell if it was growing anymore, but it was way too loud for his liking.
+
+This can’t be good. Either some Avowed is using really heavy-duty magic, or the ocean is eating things oceans shouldn’t eat.
+
+He thrust his hand toward the extra large puzzle piece that served as a knob. Nothing happened when he turned it in either direction.
+
+Don’t panic. Just try—
+
+“Hi there! Bienvenue!”
+
+“Ack!” Alden took a step back and clutched Zeridee with both arms as a smiling cartoon seal animation suddenly appeared on the wall by the door.
+
+It waved a flipper at him. “Welcome to Apogee Artist Spaces! You can use your studio 24/7. Just input your personal puzzle code to gain entry.”
+
+What the heck does a talking seal have to do with anything?
+
+“I don’t have a code,” Alden said quickly, staring the seal in the eyes. “But it’s an emergency. Could you open the door?”
+
+The seal giggled and performed a swimming back flip. “Art is fun!”
+
+Crap.
+
+“You’re not equipped to respond, are you? I’m talking to pixels.”
+
+It clapped its flippers. “You can rent our studios by the month! We even have boom rooms! Just call Kimmy T—”
+
+Alden tuned it out and carefully adjusted his grip on Zeridee, trying to make sure he was holding her in a way that wouldn’t hurt.
+
+She’s been stabbed. However you hold her is going to hurt. Just try to talk to her fast.
+
+He let the preservation fall from the assistant for the first time since he’d lifted her.
+
+Zeridee didn’t make a sound, but the sudden re-animation of her features turned the illusion of peaceful sleep into something more pained. Her eyes opened.
+
+“You’re all right,” Alden said in Artonan, trying to enunciate. “I’m all right. I need to open a door. I think if I use my skill on the door for a second, it might open. Can I have this door?”
+
+She stared at him with one eye. The other was pointing straight up. Blood from her head injury was trickling down toward her ear.
+
+“Some of the doors in the residence are expensive,” she whispered. “Why do you want them?”
+
+Alden swallowed. Stay calm. Act sane. Don’t freak her out.
+
+“We’re not in the ambassador’s residence. I’m taking us both to a place that I think is safe. This is another door. You don’t mind me using my skill on it, do you?”
+
+“Those men are sleeping.”
+
+“I’m glad they are. May I have this door? Or even just the knob?”
+
+“Why?”
+
+More warm blood was slicking his hands.
+
+Shit. I can’t do this to her. One more try. Then we re-preserve her.
+
+“If I use my skill on this door, it might open. I hope it leads to a safe place. May I?”
+
+“Yes.”
+
+Great!
+
+“Alden Ryeh-b’t, I’m sorry,” she said. “I shouldn’t have allowed you—”
+
+He slapped his hand to the puzzle knob, attempting to activate preservation on both Zeridee and the door simultaneously. Her words were cut off in an instant.
+
+As for the door…
+
+There was no way Alden could actually preserve it while it was attached to its frame. Maybe with a lot of mental gymnastics that he didn’t have time for, he could convince himself the building was an enemy trying to assault the door or something. But for now, he was just hoping that his intent to take the object into his keeping would be clear enough that the skill would still count it as his.
+
+Tag, puzzle door. You’re under my care now even if you haven’t gotten the full preserve.
+
+Beneath his feet, a subtle vibration ran through the pavement. That…had to be really bad.
+
+Get inside. Get up high, he told himself as he frantically searched the door, looking for enchantments.
+
+There was a better than fifty percent chance, in his opinion, of the door being some kind of Wrightmade magical artwork. The alternative was it being regular tech.
+
+If it was magical artwork, there should be some enchanted components involved.
+
+He didn’t see anything at first, and he almost jumped right to his backup plan—trying to use his skill on just the doorknob over and over to see if he could interrupt an imagined electric locking mechanism. But then his own heavy breathing and the feel of his bloody, sweaty palm slipping against the knob made him reconsider.
+
+Enchantments might be there. You might just be in the wrong headspace to see them. You need to take a little bit of time and look harder.
+
+The sensitivity part of the “defogging package” he’d chosen to enhance The Bearer of All Burdens with during his last affixation wasn’t one he’d had all that much opportunity to train. He was a pro at seeing enchantments on NesiCards when he was calm and focused, but that didn’t mean he could take it for granted that he was picking up on everything there was to see about this door.
+
+Give it just sixty seconds. Sixty seconds of focus.
+
+The ground was still vibrating.
+
+Ignore it.
+
+Alden tried to make his next breath slow and steady. He pressed his hand to the knob harder.
+
+Okay. You’ve been entrusted to me. All of you. What does all of you include? What are you besides just a door?
+
+He asserted his skill as much as he could while he stared at the entrance, not trying to use any particular feature of his bound authority, just aligning himself with his affixation a little more. He was only capable of giving the process a measly fraction of his attention; it was nothing compared to the effort he’d dedicated to aligning himself the other night, when he’d spent ages contemplating his targeting ability and making peace with himself so that he could find the mug of soup Haoyu had hidden.
+
+But to his surprise and relief, even a little effort made a difference here.
+
+A new aspect of the door suddenly came into view.
+
+The knob beneath Alden’s hand gleamed with a network of magic, similar to the enchantments he saw when he looked at temper spheres or the chips on entrusted NesiCards. And he could now feel that piece of the enchantment under his palm, like a patch of warmth.
+
+Defogging package is really being awesome tonight.
+
+Taking another breath, determined not to lose his head or shift his attention, he examined the rest of the door.
+
+Smaller knots of enchantment shone on several of the puzzle pieces—the ones that were elevated or recessed compared to the others. All of them had hair-thin magical connections to the door’s knob.
+
+The giggling seal said to input my code for entry. Those pieces must all be buttons people press to open this thing.
+
+He thought trying to pull the enchantment from a single piece would be a bad move. It might do nothing at all.
+
+Pulling the whole thing and de-magicking the door entirely seemed like the surest option. He was a little worried about the strain on his skill, though.
+
+Enchantments were harder than objects, and with Zeridee preserved, it would be a double run on top of that.
+
+I don’t think it’ll be nearly enough to wear me out, but…
+
+Fast. Just do it fast.
+
+Take enchantment. Turn doorknob. Done.
+
+“Please work,” he murmured.
+
+He made a pinching motion against the doorknob, like he was trying to pluck a cobweb from it, and activated his preservation again, this time with the intention of bearing only the enchantment and giving up his claim to the rest of the door.
+
+But all of the enchantment. I want to hold the whole enchantment.
+
+The network of light pulled free of the door and wrapped itself around his hand and a few inches of forearm. He could feel it there, under the sleeve of the sweatshirt.
+
+And he gasped as he realized it was taking way more effort to hold than temper sphere enchantment.
+
+“Shit!”
+
+Alden grabbed the freshly de-magicked knob, turned, and yanked. The door swung open.
+
+In too much of a rush to be grateful, he stepped through and dropped his hold on the stolen enchantment the second his feet were over the threshold.
+
+Heart pounding, hand still on the knob, he looked at what he’d done. He could feel the warmth of the restored enchantment beneath his palm again, and he could see it on the puzzle piece buttons…some of them anyway. They seemed dimmer, and most of threads connecting the different pieces to the knob were missing.
+
+Pretty sure I’ve broken it.
+
+He let go, pushed the door shut, and took a step back. A couple of seconds later, the door clicked as if it was locking itself. Then it clicked again.
+
+And a few more times.
+
+“Yeah. That’s definitely broken.”
+
+He hoped the cool door wasn’t someone’s magnum opus.
+
+Something to feel sorry about on another, better day. One when he would also have time to appreciate the fact that he had just confirmed he could use his skill to bust magical locks.
+
+******
+
+It took Alden a few seconds to get his bearings, but it probably wouldn’t have taken even that long if he wasn’t so stressed. The building seemed to have a simple layout. The lights were on as well as the heating. It was toasty warm, bright, and quiet.
+
+The roaring was undetectable, but he doubted it had just stopped at the exact moment the door shut. The walls must have been thick enough to block the sound.
+
+That could only be a good thing.
+
+He carried Zeridee down a hallway lined with with doors on both sides. Some of them had nameplates. One had a “Boom Room 4 - Available” sign on it.
+
+What’s a boom room?
+
+He associated funny names with “boom” in them with Wrights who worked with dangerous materials, not artists.
+
+He reached the building’s elevator and pushed the call button. Should I be looking for stairs?
+
+Getting stuck in an elevator would make a bad night worse. But climbing six flights of stairs with his injured passenger wouldn’t be much faster and would wear him out even more.
+
+While he waited, he watched the animated seal on a nearby wall screen. It was swimming around in a bright blue ocean and using its nose to bump balls covered in notices and news toward him for him to read.
+
+Someone was looking for unpaid collaborators, models in the 3-6 Appeal point range were wanted for a fashion show in the spring, and a “living sculpture experience” would take place in the sixth-floor gallery tomorrow night. There would be hors d’oeuvres.
+
+“Your elevator’s here!” said the seal. “Have a creative day!”
+
+Alden stepped into the elevator. As if to mock him, it turned out to be a painfully slow one. He tried not to imagine a giant wave barreling toward him while he watched the floor numbers change one by one.
+
+When a ding finally announced his arrival at the top, he stepped off to find himself in the promised gallery.
+
+“Well…this is unnecessarily creepy.”
+
+The whole sixth floor was a wide open space except for columns that supported the roof, and it was lined with windows on all four sides. The entire room was full of sculptures, almost all of them featuring life-sized human figures who were reaching out in various ways as if to interact with people who weren’t there.
+
+That would’ve been eerie on its own, but none of the main overhead lights were turned on. Instead, about half of the sculptures featured their own custom lighting arrangements that left faces, hands, or other body parts aglow while everything else in the room was in shadow.
+
+And the sound that had sent him fleeing was audible here again, thanks to all the glass.
+
+Alden ignored the outstretched arms and knowing expressions on the statues’ faces while he walked toward the windows that overlooked the street he’d just left. He stared down, waiting.
+
+Nothing.
+
+His body wouldn’t relax. He stood there, on the alert for a glimpse of the villain he’d imagined.
+
+Gradually, signs of wrongness appeared. They weren’t down on the street, but some distance ahead—in the direction he’d been traveling in and to the left, around where the western coast was on this tip of the crescent.
+
+“Oh,” he said softly, letting his forehead touch the glass as he tried to see better.
+
+There was an area of darkness, as if something had taken a bite out of the island.
+
+Most of the places in the evacuated neighborhoods weren’t fully lit. But there were street lamps, signage, windows, and occasionally an entire home or building with the lights left on. In that place, however, it was black.
+
+Maybe the power’s just out. Maybe there’s a cove there or some other kind of place that doesn’t have lighting.
+
+Or maybe there was a brand new cove there, one created in the past few minutes.
+
+“I’m really uncomfortable with the fact that it’s ahead of us instead of behind us, Zeridee.”
+
+He’d been picturing the danger at his back, chasing him. And ahead of him—really, not that far away—there would be people, tall buildings, superheroes, battle groups…safety.
+
+We could get cut off.
+
+He walked the perimeter of the gallery, looking out in every direction, trying to understand what was happening out there in the dark.
+
+“I think…”
+
+He trailed off because he didn’t know what he thought. From up here, he could see another blocky multi-story building in the direction they needed to go in. Several minutes of his fastest carrying-an-adult-Artonan pace, by his reckoning.
+
+I could do jog-rest-jog. Keep moving out of the evacuation zone, stop every time I hit a concrete building at least a few stories tall for a breather and head upstairs to check out the landscape.
+
+Doing it that way sounded like some sort of plan.
+
+I think it makes sense. I don’t want to get in a situation again where I’m down at street level with no idea what’s going on up ahead or behind me, so heading up high to do periodic checks is good. Don’t want to run toward a patch where all the lights have gone out, right?
+
+The plan came with new worries.
+
+If the power goes out everywhere I’m not going to be able to see anything.
+
+What if the next building I aim for has a door like a bank vault?
+
+What if the next time I try to talk to Zeridee, the blood loss finally gets her, and she faints?
+
+“Yep,” he said aloud, deliberately ignoring his own inner questioner. “It’s a good plan. I think a short rest and regroup while I try to figure out what the noise and vibration is doing out there is the right choice. I’ll do something about my fucked up toes and try to fix the straps on this Canadian man’s sandals. Oh, and let’s find ourselves some light switches!”
+
+Inspired by Instructor Klein’s technique on the bridge earlier, Alden had an idea to make the gallery lights flash an SOS by flicking a switch over and over. He was foiled by technological “advancement.” Instead of switches, there was only a lighting control panel accessed via the screen by the elevator.
+
+“Listen, you dumb seal,” he said, poking the happy animal in the forehead. “You and I both know that there’s no reason to password protect the lights! You’re just afraid I’m going to get a good look at some of the freakier statues hiding in the shadows!”
+
+He abandoned the project since it was cutting into his self-imposed “rest and regroup” plan and went to sit down.
+
+The only seats in the room were translucent acrylic benches lining the windows on two sides. He took a corner one so that he could prop his back against the wall and still see out, facing in the direction he planned to head.
+
+He spent a couple of minutes adjusting his shoes, fighting his way out of the poncho—because it was getting messed up anyway and he was hot—and getting himself situated on the bench in as comfortable a position as he could find with a whole other person resting on him.
+
+“Okay,” he said at last. “I’ve got to be totally honest, Zeridee. I wish you weren’t hurt, but I’m glad you can’t see me now.”
+
+Playing a game of “the floor is lava for the person I’m holding” while he tried to adjust his clothing and take care of his own injured foot was inelegant to say the least.
+
+Now I sit here and I watch and I make decisions. Calmly.
+
+Yeah, right.
+
+He was already fidgeting even though he was finally getting the chance to sit, just because not running felt wrong.
+
+The roaring seemed to have diminished. He stared out, trying to watch for changes in the cityscape.
+
+People are up ahead.
+
+The lights of downtown Apex were there, curving around the crescent, so close and so far at the same time. He hoped the guys were all right.
+
+They’re definitely more all right than me.
+
+He pulled his attention back toward nearer destinations. The building he’d mentally marked as his next stopping point was in view.
+
+We’ll aim for it when we leave. I could take the stimulant injector there.
+
+The label warned there was a possibility of sudden onset tiredness after it wore off, and he was leery about using it until he was just a little more sure that salvation was within reach.
+
+For a while longer, he stared out, hoping to spot signs of life, signs of danger, and signs telling him where help might be.
+
+“I wanted this place to keep me safe.”
+
+He shifted Zeridee’s weight. The way he’d positioned her was making one of his legs go numb.
+
+“Anesidora, I mean. That’s not all I wanted from it, but it’s probably the main thing. Chaos is supposed to stay out there, with you Artonans. It’s not supposed to chase me to Earth.”
+
+Matadero was supposed to be nothing—a blip that happened, and then he would hear about it on the news and forget it again. Like it had been every year of his life up until tonight.
+
+“I would like to file a complaint with the ambassador. As an Avowed, I expect safe and comfortable living conditions when I’m off-duty. It’s only fair. The demon cube should be moved to whatever place on Earth is as far from Anesidora as possible. So you guys just pull some wizards together, act all mighty like you did when you showed up eighty years ago, and tell the rest of the planet you’re going to plonk it down somewhere else.
+
+“And if the cube can’t be moved, you can plonk whatever’s left of this place elsewhere instead.”
+
+He watched the dark place up ahead, wondering.
+
+“Hey,” he said finally. “You weren’t about to tell me to put you down, were you? Before I preserved you again. It sounded a little like you were.”
+
+He looked at the top of her head.
+
+“Don’t do that to me, Zeridee. I know we only just met, but you’re…”
+
+She was kind. She’d been left behind at least partially for his sake. She was the sort of person who fretted over the safety of her human neighbors, and she’d thrown her broken body at an Avowed who had tried to murder Alden.
+
+And she’d killed him.
+
+“You remind me too much of too many people who have been important in my life. Pieces of each of them.”
+
+Kibby, Hannah, Arjun Thomas, Thenn-ar.
+
+If she asks me to put her down, and she seems to be having a lucid moment, I guess I have to do it.
+
+But then what happens to us?
+
+“Please don’t ask. It’s really not heroic of me,” said Alden. “You’ve made me care about you just that fast. I still see ways for us both to get out of this together, and as long as I see them, I don’t want to find out what it feels like to leave you behind. That’s all.”
+
+******
+
+Back downstairs, Alden gave himself a last minute pep talk while he drank from a water cooler near the elevator.
+
+I’m up for a jog to get to the next building. Move forward steadily. If I think it’s about to get really dangerous, and I’m three quarters of the way there, I’ll keep going. If I haven’t made it that far, I’ll turn back.
+
+He’d decided three quarters of the distance should be his cut-off instead of half, since he didn’t know what the exact situation with the other building would be. It might take him a few minutes to get inside, or he might discover it was impossible to break in and have to haul ass toward the next best thing.
+
+This place had the advantage of being a known quantity. One with a door he’d already broken.
+
+He refilled his paper cup again, and the cooler released one giant blub as water poured from the tap.
+
+He drank, crushed the cup, and dropped it into the trash.
+
+He felt ready to move. He’d already washed the blood off his hands. Zeridee was slung across his back now, her braid wrapped around his chest and shoulders.
+
+All right. Let’s go. This isn’t a Thegund-level tribulation. Just a bad night. It doesn’t matter whether the System’s answering me or not. I’m getting us both to safety within the hour.
+
+Determined, driven, and focused on the journey ahead, he headed for the exit.
+
+And froze at the sight of a pale-skinned, dark-haired man wearing nothing but a bright red swim brief.
+
+His back was to Alden, and he was pulling open the puzzle door. He stepped out into the night. As the door swung shut, Alden saw him throw his arms out and stand on his bare tiptoes, head tipped back for a big inhale.
+
+“This is your night, Liam!” he shouted to the street. “This your time! Become more than—”
+
+The door closed, cutting off the man’s voice.
+
+The damaged lock clicked a few times.
+
+******

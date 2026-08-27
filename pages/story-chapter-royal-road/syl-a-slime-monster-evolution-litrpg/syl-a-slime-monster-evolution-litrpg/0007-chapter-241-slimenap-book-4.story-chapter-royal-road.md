@@ -1,0 +1,243 @@
+---
+id: d3d1a6c9-743e-5193-82ec-1c23d2ec994b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 241 : Slimenap [Book 4]"
+slug: 0007-chapter-241-slimenap-book-4
+partOf: syl-a-slime-monster-evolution-litrpg
+position: 7
+ownLength: 2719
+unit: words
+ownProgress: 2719
+publishedAt: 2025-05-14
+link: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2278019/chapter-241-slimenap-book-4"
+royalRoadId: "2278019"
+markedReadAt: "2026-06-29T19:42:00.657Z"
+---
+
+Colors crashed and blurred together as we were ripped from one location to another. I felt myself barely holding on after being transferred to Alpha after the death by teleportation storage and, to my regret, could still feel the lingering damage from the soulfire.
+
+Vee was yelling incoherently, or perhaps my senses were failing me as we were hurled an immense distance away from Dhoggurum. Our elf captor seemed fine and utterly unaware of what had just transpired.
+
+Is that… kill notifications? I wondered as messages blurred by.
+
+I couldn't make heads or tails of what was happening, but somehow, I was gaining experience even though I was in this helpless situation. I temporarily muted them to try to maintain whatever mental clarity I had remaining, as when we reached our destination, there was a good chance that Vee and I could be fighting for our lives.
+
+"Syl, are you okay?" Vee cried out in worry, her voice sounding slightly distorted, perhaps due to my struggle to maintain the telepathic link.
+
+I feel so… Empty…
+
+I felt absolutely haggard. My vast slime reserves had been ejected through my core, exploding, along with what seemed like most of the contents of my storage. I didn't technically have a stomach, but I felt what I could only assume was the slime equivalent of being ravenous—I needed more slime! I needed to devour something!
+
+"I'm ravenous," I groaned mentally to Vee.
+
+"Hang on there, Syl," Vee said, trying to reassure me. "We'll get through this! Once they drop this, maybe we can teleport away; just hang in there!"
+
+I groaned in affirmation and tried to make sense of what was going on. I wasn't sure if it was due to my condition, the ailment, or something else, but it felt like we'd been stuck here for a single moment stretched out to eternity.
+
+"I think we are in a sort of teleportation limbo," Vee explained, perhaps somehow understanding my unspoken question. "My [Spatial Sense] is going nuts; it's like we're stuck between places waiting to reach our destination. No… That's not the right phrasing. More like we are waiting to get permission to arrive?"
+
+Permission? Teleporting to the dwarves was instantaneous; then again, it was set up beforehand. Our elf captor seems content, so I don't think anything's gone wrong.
+
+And then, with an almost pop, in reality, we abruptly arrived at our location. I had expected to be on a stone dais like our trip to the dwarven capital, but instead, we were on some form of a wooden construct with the runework still glowing at our arrival.
+
+My false body felt like it was twitching, perhaps struggling to maintain its form. I ordered my [Sub-Cores] to keep it as best they could.
+
+Alpha…
+
+I didn't have the slime mass to recreate it without cannibalizing my available slime. Many individuals seemed to be entering the room, perhaps somehow alerted at our sudden arrival.
+
+"Llewel, you've returned," a stern voice spoke.
+
+I glanced around the room as best I could, noting that plenty of armed guards and one incredibly imposing elf woman were present.
+
+<Loreleia Feirelle [Branch Head].>
+
+Oh great… More people who I can't use [Identify] on. Wait, I've left Trixie behind!?
+
+"Yes, mistress," Llewel confirmed as he took a knee. "I utilized the emergency teleport as the situation deemed it necessary. Outeatus knights attempted to assassinate Sylthaeryn during a conflict with kobolds. Fearing further assassination attempts, I made the decision to seize her after she refused to return and forcibly teleport us home."
+
+"Outeatus knights?" an elf next to the woman spoke up. "Surely you jest, Llewel, they would never dare—"
+
+"Silence Paeris," Loreleia demanded, interrupting him.
+
+The woman stared at me, and her expression seemed to soften for a brief moment before taking on a somewhat concerned look.
+
+"Why is she in such terrible condition?" Loreleia demanded. "Her soul looks like it's been in tatters, and her lifeforce is on death's door."
+
+Llewel looked horrified as he glanced at me, "I-I swear she was in no such condition before we left. Although I did have to activate the teleportation override as I couldn't supply enough Mana and maintain my [Stasis] spell."
+
+"Release her," Loreleia stated.
+
+Llewel nodded and, with a wave, undid the affliction binding me.
+
+<[Stasis] has been removed.>
+
+With the spell removed, I fell to the floor, no longer in my frozen seated position. I stumbled weakly from the unexpectedness of suddenly being victim to gravity, and after regaining my balance, I slowly stood up.
+
+I felt a bubbling urge to lash out, to attack with all I had and throw caution to the wind—to devour and replenish my lost slime! But then a voice of reason spoke up.
+
+"Syl, I'm still trapped! Please don't do anything rash!" Vee pleaded.
+
+Vee was right. As much as I desperately wanted to attack, to give in to the rage and hunger, we were in a terrible condition. Llewel could probably wave his hand with his strange form of instant spellcasting and seize me again.
+
+Loreleia approached me rather quickly and placed her hand softly on my shoulder.
+
+"Be healed," she commanded.
+
+Her eyes flashed with a golden radiance as a prominent, towering figure with six wings appeared behind her. The ethereal figure looked odd, with trunks for legs, roots for fingers, and vines for hair, as if it were an evolution of the Treants I had fought in the forest.
+
+But before I could examine the strange apparition in further detail, it extended its hand, erupted into a spectacle of golden lights, and infused itself into me. I felt my flayed soul be stitched together and rejuvenated while any wounds and fractures in all my cores were mended instantly. Apparently, my old primary core was not alone in taking damage from my [Core Storage] being ripped open.
+
+I opened my mouth to thank her, but she beat me to the punch.
+
+"Everyone but Llewel and Paeris leave now."
+
+Some guards murmured complaints and seemed hesitant until she glared at them in turn. It was as if she was declaring that she needed no protection. Once all the guards had left and closed the door behind them, she sighed and waved her hand, enveloping the entire room in a blanket of magic.
+
+"You're not my daughter," Loreleia said, a look of pain and anger flashing through her expression.
+
+"What, but?" Llewel stammered out.
+
+"I did tell you, mistress; her leaf fell!" the butler-looking elf replied, taking the opportunity to undo his imposed silence.
+
+I tensed slightly but didn't react. Having the woman so close to me and touching me directly would typically fill me with confidence, as a slime did its best work in close quarters to grapple and consume. But my every instinct was screaming at me to flee from her.
+
+"Are you certain?" Llewel asked. "The appearance, the golden oak bag, the [Bonded Companion], everything lines up!"
+
+"The soul is not the same," Loreleia answered. "I touched this one's soul, and it is not the shape of my daughters. It is old and misshapen."
+
+"A demon? Possession?" Llewel asked as I sensed his Mana level rising.
+
+Vee's still trapped… If I attacked Llewel, would that break her free? Then maybe Vee could teleport herself to safety, or perhaps both of us?
+
+"No, not a demon," Loreleia replied. "I'm honestly not sure what we are dealing with. Answer me, why are you puppeting my daughter's corpse around? Or, at the very least, mocking her visage?"
+
+There was a calm rage behind her voice that chilled me to the core. I felt terror when I met Simon the Lich, but this woman was like a hurricane compared to his storm.
+
+I found myself gulping nervously, even though it was an utterly unnecessary action for my actual biology—either a remnant from my past or perhaps an unconscious suggestion from [Acting].
+
+"This is my own body, but I am assuming her form," I hesitantly began answering. "I knew her very briefly when she bonded me and tasked me with returning that bag to the first elf I met."
+
+I pointed to the bag, which had teleported with us. Unlike my storage, which was ripped apart, the bag seemed perfectly intact, as if taunting me.
+
+"Why, what happened?" Loreleia demanded. "How could she bond with you?"
+
+"I found her bleeding and poisoned in the forest," I replied nervously; the woman's eyes briefly flashed with murderous intent. "Her old companion was slain, and she was on her last legs, so she bonded with me. I'm not human—err... elf."
+
+"I don't sense lies in your words," Loreleia declared. "However, I do not know if you speak entirely the truth. I sense you are still hiding much, and you make me want to get a truthseeker to validate your entire story."
+
+"I'm alright with any truth spell or oath you require. The reason I hesitate is for my own safety and also because it might be too sensitive for those present."
+
+"It lies mistress, don't believe it!" Paeris cried out.
+
+"I said be silent, Paeris! The next time you speak out of turn, I'll have your tongue," she threatened. "I trust the following two, as they are both oathbound to my services. You may continue."
+
+"Good job so far, Syl; keep it together!" Vee encouraged.
+
+"I believe what I'm about to say is considered the ultimate taboo," I said, causing the three elves present to tense. "But after Sylthaeryn bonded me and requested I deliver the bag to the first elf I encountered… She used [Order] on me. Her order was to prevent her killer from obtaining her essence and legacy Emblem. She ordered me to kill her."
+
+Loreleia was so taken aback that she actually hissed. Paeris was making gasping noises while going nearly blue in the face, clearly wanting to object but refusing to disobey her again. Llewel also had finally broken from his calm demeanor and looked deeply troubled.
+
+"If what you say is true," Loreleia said, her body trembling. "Then I thank you for not uttering it out loud in the presence of others."
+
+"We should get a truthseeker to confirm it," Llewel said.
+
+"No. I do not want this to leave this room," she demanded. "The truthseeker can confirm everything else about the story, but not that. Assuming everything else is true, we can confirm it by association."
+
+"But-"
+
+"I will not have what's left of my daughter's memory be besmirched like that!" Loreleia snapped.
+
+"Holy shit," Vee gasped. "If you said that out loud, she might have killed us all on the spot!"
+
+That was a terrifying thought I did not want to expand on.
+
+"What else happened?" Llewel asked me.
+
+"No…" Loreleia muttered before I could respond, sounding almost weak. "Enough questioning for now. Put them both in the VIP prison together, assuming that [Bonded Companion] isn't fake."
+
+"It's real," I replied. "Vee and I are bonded."
+
+Loreleia nodded, only looking mildly annoyed that I spoke out of turn.
+
+"We can continue the questioning after I recover and requisition a truthseeker," she informed the other two present.
+
+"Is that wise?" Llewel asked while Paeris frantically nodded his head in agreement with the other elf.
+
+"Unless this creature—"
+
+"Syl," I replied, interrupting her.
+
+"You dare?" Llewel shouted.
+
+I knew I was taking a risk, but some part of me told me to do this. It was either my gut instincts, divine intervention from Gramps, stubbornness, or good old [Acting], but I knew it needed to be said.
+
+"Sylthaeryn gave me the name; she wanted to leave her mark on the world and gave it to me to leave some small part on it!"
+
+The two male elves still looked outraged, but to my surprise, I saw Loreleia lighten up ever so slightly.
+
+"Stubborn girl…" she whispered. "That sounds just the type of idiotic and brash thing she would do with zero thought behind it. Isn't that right, Paeris?"
+
+"Yes…" Paeris said hesitantly. "That does sound a lot like the young mistress. She often fantasized about being a legend."
+
+Loreleia nodded, "Very well, Syl. Please cooperate with us while Llewel escorts you to the VIP prison. You'll be treated well unless proven otherwise. We can continue questioning tomorrow with a truthseeker…"
+
+"Are you sure, mistress?" Paeris asked nervously.
+
+"I am," she replied and picked up the golden-leaf bag. "Now, please leave me and cancel any obligations I had for the day."
+
+Her icy-cold demeanor seemed to defrost as she held onto the bag in an almost hug as if it were her child. Then it came crashing back in a moment as she walked out of the room, with Paeris following, scrambling to follow from behind.
+
+I turned nervously to Llewel, who seemed very conflicted by everything that had transpired.
+
+Could I take him? I briefly wondered.
+
+"I'll be escorting you," Llewel said. "Please do not try anything stupid, or you'll earn the ire of the mistress. Do not scorn a grieving mother."
+
+I nodded.
+
+Llewel gestured, and Vee was also released from her [Stasis]. She tumbled to the floor before swiftly recovering and scrambling toward my shoulder.
+
+"Right, if you'll cooperate and follow me, we can keep things smooth," Llewel said as he gestured toward the door.
+
+"I think I can teleport us out of here," Vee said. "You've lost all your extra weight, I think I can use [Warp] on both of us!"
+
+I began following Llewel, and a few guards came into place and began joining the escort.
+
+"[Warp]?" I questioned our telepathic bond.
+
+"My [Blink] upgraded," Vee explained. "It was one of my options after all my recent levels from whatever happened between being captured and now. [Warp] lets me take objects and willing passengers with me."
+
+Oh… I hadn't looked at all those notifications yet.
+
+"How safe is it?" I questioned.
+
+"I can guarantee that I can teleport the both of us," Vee replied.
+
+It was a risk. Did I want to be taken prisoner? I no longer had the bag, and I confirmed her daughter was dead. The truthseeker would undoubtedly reveal that I was a slime, but would they let me live? They didn't exactly say we would be free to go after answering their questions.
+
+"I don't want to be a prisoner…" Vee replied nervously.
+
+I had to agree with her. I had no idea if we would ever get another chance to escape like this, and their prison might have means to stop escape and teleportation.
+
+"Okay, do it," I replied.
+
+I sensed Vee's joy as she triggered her new skill, and I felt a split-second decision that would allow me to reject traveling with her. I obviously allowed it to happen.
+
+The room warped around us, and abruptly, we were outside, high in the skyline above an ever-expanding treetop. Vee must have teleported us straight up in an attempt to escape.
+
+Below us was an absolutely massive tree, possibly grander than the entire floating island! It seemed to have buildings, walkways, and other structures growing out of it as if they were natural. It absolutely boggled my mind, but I had no time to contemplate the phenomenon.
+
+"We're outside!" Vee exclaimed happily. "I never thought I'd be so happy to see clouds and the sun!"
+
+It was definitely nice to be above ground again, but I needed to redistribute my current slime mass into wings so we could fly away. As I made my decisions before gravity took us, the air seemed to shimmer, and we were suddenly transported again.
+
+I had thought Vee had used [Warp] again, but we were precisely back in our previous position behind Llewel only mere moments ago. As if we hadn't even left at all, and the guards seemed none the wiser. The elf turned around and looked at both of us, mildly peeved.
+
+What the hell did he do? Did he teleport us back? Is he also a dimension mage?
+
+"I did ask you not to try anything funny," he stated calmly. "I'm willing to overlook this only once. Do not test my patience again."
+
+Vee and I gulped and found ourselves both nodding in agreement.
+
+If even teleportation wasn't enough to escape, then we really don't want to piss him off right now.

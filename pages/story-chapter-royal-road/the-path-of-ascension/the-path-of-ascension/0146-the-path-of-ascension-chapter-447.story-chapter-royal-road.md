@@ -1,0 +1,421 @@
+---
+id: 285098f5-3643-5489-be00-1e9b53386494
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 447"
+slug: 0146-the-path-of-ascension-chapter-447
+partOf: the-path-of-ascension
+position: 146
+ownLength: 6381
+unit: words
+ownProgress: 6381
+publishedAt: 2025-10-06
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2656358/the-path-of-ascension-chapter-447"
+royalRoadId: "2656358"
+markedReadAt: "2026-06-29T19:22:41.937Z"
+---
+
+Chapter 447
+
+They arrived at their base a few short minutes later, where they checked in with Liz before picking up one of her clones. She would be tagging along as far as she could, but given the more limited spiritual ranges they had to deal with she might not be able to make it all the way.
+
+Still, there was a possibility it might work.
+
+Liz hadn’t been idling away her time while on semi-permanent guard duty, instead she had been testing the strange realm's spiritual perception limiting fog, trying to increase her spiritual perception range. She had already made small but noticeable progress, and Matt was already theorizing how they could set up a similar environment back home. Ultimately, she was still bound to a singular spiritual perception spread between all instances of herself, and even making more copies to bolster the connection as they traveled, Liz still had to stop a few dozen miles short of their expected destination of the Republic Clipper crew’s tower.
+
+Seeing that, Liz was decisive. “Go on ahead. I’ll keep this body here but weaken it so it’s harder to detect. The other copies of myself will go underground and do the same. If you need help, I’ll transfer over if it turns out there is a coordinated ambush or something.”
+
+Matt didn’t linger, but leaving his wife behind annoyed him more than it should have.
+
+Sadly, the fog was just as restrictive to most sounds as it was to spiritual sense, and all they could feel was the occasional gusts of air shoved around by someone else's clash.
+
+Pushing forward, Matt and Susanne took the lead with Susanne slightly off to the side, ready to back step if anyone rushed Zack or to flank if they attacked Matt.
+
+It wasn’t much, but it was the best they could do at the moment.
+
+When they breached the larger than normal barrier of fog around a base, Matt witnessed the Federation team leading an attack on the Clandestine Clippers.
+
+If that had been all, Matt wouldn’t be all that surprised, but the Federation team was led by a blood soaked and tattered Marve, who looked beyond simple emotions like anger. The ten remaining people from his team had similar levels of rage or fury. It was strange to see such relatable emotions on a man he was so predisposed to dislike.
+
+The Clandestine Clippers looked smug inside their defences and that made him lend a tad more credence to the idea of them being the true culprits of the incident. That, or just gleeful at the loss of a competitor, which wasn’t a glowing endorsement of their character.
+
+Matt still had no idea what was going on, and was about to reach out to one of the other people who were lingering on the edge of the fogless area. Thankfully, one of them was willing to share and reached out preemptively.
+
+On the far side of the fog free zone, a single Corporation man stood in the air like a lone sentinel watching two groups of children play.
+
+The spiritual fluctuations were as abrupt as the man’s posture and demeanor. “Marve’s group was attacked by a massive roaming boss. It just so happened to counter their fire mage, being a water monster, which led to casualties. Marve insists the Clippers set it up, as there were several other targeted elemental monsters attacking them that were the opposite of their party members.”
+
+Matt’s eyes went into his eyebrow at the information sent over about the roaming boss. They had speculated the pocket areas would start to change as the overall danger of the monsters was improving, and the bosses leaving had been on their list of speculation, if they weren’t killed before the reset.
+
+What they hadn’t expected was that the pocket space collapsed on the boss, enlarging it and turning parts of its body into Natural Treasures, which had been absorbed into their gems once it died, leaving the corpse in a miserable state.
+
+Matt shared a look with Zack and Susanne before asking questions, “Did they scout the area this monster came from? Did this destroy the pocket space? Will a new boss spawn from it every day?”
+
+The Corporation man shook his head, replying, “They came over here wanting retribution instead of scouting, saying they had seen evidence of a Clipper being near their bases. I suspect we'll all find out about the boss the same way in a day or so.”
+
+Matt agreed with his speculation and could only hope the pocket space wasn’t gone, but instead changed. It might offer the opportunity to aim for some truly rare, unusual, or never before seen Natural Treasures.
+
+He could see the same question in the others and knew they’d have to do their own tests in the coming days to see.
+
+Amusingly, if Matt’s initial conjecture about the boss simply leaving a pocket space that wasn’t cleared properly was correct, any such attempt to set up a rogue pocket space near them would prove futile.
+
+Matt might even thank someone who found another pocket space near them. They had combed every mile of their territory looking for more pocket spaces to convert before the monsters started growing too strong. While they had mostly paused their expansion efforts not wanting to overextend, they had pushed deep into the endlessly revealing territories.
+
+As far as they had managed to discover, there was no end to the strange realm. Allie had teleported for over an hour in a single direction, but never found an outer edge to the strange realm.
+
+Those tests however, would depend on what happened with the two teams.
+
+Below them, they watched as the Federation team led by Marve continued to attack the Clippers’ fortified base.
+
+The base wasn’t exactly what Matt would call well designed, but it was well built. Simplistic, but sturdy in nature, it allowed the more numerous Clippers to defend themselves without taking any injuries.
+
+Matt did notice they were deliberately not retaliating with lethal force, which he found slightly weird until he realized the Clippers were probably worried about one of the watchers swooping in once they started attacking, as they would need to leave their defensive layers to truly finish off the Federation team.
+
+Seeing that, Matt turned to go, knowing that nothing major would come of this incident at this time. If Marve was smart, he’d disregard his own tower in the evening and rush to set up as many hostile pocket spaces he could nearby the Clippers’ base before a monster broke through defences and destroyed their crystal.
+
+It was either that, or be cut down when either the Clippers attacked as soon as everyone else returned to their own bases, or one of those other teams returned to finish them off whilst weakened. Even if the Clippers hadn’t set up the initial ambush, they had been attacked first, giving them enough reason to lash out in return.
+
+If the Clippers had set the situation up…
+
+Matt considered that possibility and considered if it would be better to wipe them out here and now. Ultimately, he wasn’t a savior righting injustices, nor did he know if they had actually committed the crime in the first place.
+
+The second reason he disregarded it was that he wasn’t particularly worried if they tried it on them.
+
+They would have to set up any such boss up so far away, even with the spiritual perception reducing fog they would have ample time to respond.
+
+He was, however, worried the Clippers might try something against the other Empire team. After mentioning that thought to Zack and Susanne, they rerouted to the other base to warn them.
+
+The Clare’s team didn’t take the news that someone was playing games any better than they did, but appreciated the warning, thanking the three of them profusely.
+
+On the way back, the three of them started considering how they should best test the boss creation. It was probably just as easy as leaving a pocket space undelved, but they didn’t actually know if that was true, it was simply the most likely answer.
+
+After talking with the others, they sacrificed two of the more common elemental type pocket spaces they had, Fire and Air, for the first two tests. The Fire pocket space they left entirely untouched, while the Air pocket space was cleared of everything except the boss.
+
+So far, they had fully cleared the spaces, wanting both the Tier 30 Natural Treasures as well as the boss essence, but they were all nearing Tier 29 and would gladly trade the essence lost for not killing the multitude of monsters leading up to the boss for a chance at even more energy rich Natural Treasures.
+
+Their intentions proved only mildly useful, as Allie managed to find not the Federation team’s pocket space that had created the boss, but rather the bodies of bosses in the Clippers’ territory. Not just any bodies, but copies of the same body.
+
+That told them both the Clippers probably were guilty of tampering with the Federation team’s pocket spaces, and that the pocket spaces seemed to continue to create boss monsters after the first.
+
+Zack poured water on their excitement. “You all realize this news combined with the increase in power the monsters experience every time they come back to life means we might not last as long as our initial predictions.”
+
+Aster punched her hand into her fist. “The solution is easy. We just need to get you all to catch up- I mean Tier up to Tier 29! Then these puny Tier 30 monsters won’t be as difficult to beat for you guys. Soon you too can defeat them with the ease that I do as a Tier 29.”
+
+Her bragging aside, Aster had a point, so they all roamed back out, rushing to push that last little bit before evening fell and their test bosses spawned.
+
+They nearly made it before night fell. They hadn’t minded the darkness and would have continued clearing pocket spaces, but they once more felt air movements indicating a fight in the overworld.
+
+Matt rushed forward this time with Allie and Aster, the three of them having been working together for the crew’s Natural Treasures. They had been considering whether they should also let the Body type pocket space cycle for the full day when they felt the wave and rushed over.
+
+Carried along by Allie, they crossed the distance in short rapid teleports, the world flickering before arriving over Marve’s base mid assault.
+
+Scanning everything over, Matt pieced together some of what happened. The Clippers had, as he expected, attacked in the evening, but Marve’s people had expected that and littered the area with a mine formation, causing serious damage to the attackers.
+
+The two sides were in a fierce and vicious fight in the ruins; both sides seemed driven on by rage and vengeance instead of logic.
+
+That all at least, made some amount of sense.
+
+What he couldn’t piece together was why the Monster Collective team was being attacked by a familiar corporation man along with two others by his side, pressuring the other team into a steady retreat.
+
+He fought in his civilian clothes, but where Matt could only identify there was an illusion of some kind covering him, Aster easily penetrated the illusion and shared with him the real appearance of the man with a glance.
+
+It looked like a Paladin, one of the Corporation’s Minkalla created elites, but lacked all identifiers usually associated with the group, such as color or rank insignia.
+
+That didn’t mean it wasn’t a Paladin in disguise, but it could just as easily be an imitation. That, however, didn’t mean the man would be weak.
+
+There were factions in the Corporation that mirrored their central government and used Minkalla to also create growth armor items. It would, in fact, be more likely to run into one of them than the real thing.
+
+Matt was interested in discovering which this was. He really hoped they had found a real Paladin group. Even a few friendly spars could be good fun, and a serious fight could prove enlightening.
+
+The man, having felt Aster subvert his illusion, turned his anger onto them in a palpable manner, but he didn’t stop his assault on the Monster Collective team either.
+
+Matt wasn’t going to involve himself and felt Aster agreeing with him, but fate took the option out of their hands as another four Corporation Paladins arrived and started attacking both the Federation and Republic teams.
+
+They completely ignored the three of them, moving to ruthlessly eliminate the survivors of the attack.
+
+The matter was further complicated by one of the Monster Collective cultivators pulling out a small harp and strumming it, sending out a subtle but powerful spiritual attack with each now audible note.
+
+Rage tried to flood into Matt, but he easily deflected the outside influence now that he had felt it with no subtlety. The ‘sound’ had been playing silently under a layer of obfuscation in their last meeting, seeming to penetrate the fog.
+
+The three of them were in the minority, as most were driven mad. Both the remaining Federation fighters and Republic Clippers descended into maddened states, their blades turning on everyone unaffected, indicating a measure of control and threatening to shift the tide in favor of the Monster Collective.
+
+Matt deflected a blade, out of habit more than need. The rage made the wielder sloppier than otherwise, and their blows were easy to ignore with his armor, but he didn’t need Luna sitting on his shoulder to avoid taking an unnecessary hit, given where they were.
+
+His caution turned out to be unnecessary as the blow had no hidden mechanisms or spells.
+
+Matt drove an arm into the gem on the woman who rushed him, ignoring the half of her body that was charred from an earlier attack.
+
+Despite now heavily suspecting that the Monster Collective’s songstress was the reason for the initial conflict, Matt had no real way to solve the situation beyond removing those attacking him with as little extra damage as possible.
+
+Matt almost felt bad about being so excited with each burst of Natural Treasures that flowed into his gem when he destroyed his opponents’, but he hadn’t started it.
+
+He wasn't going to help save them, and neither could he defeat them, in a way that they wouldn't transfer their collected items to him, making him just another opportunist—
+
+Matt froze mid punch and figured he could at least help the Federation team slightly. They had played fairly and been schemed upon.
+
+Turning his sight onto their still mostly functional fortress, he launched himself forward, to the surprise of everyone else.
+
+One of the paladins shouted at him, “What do you think you’re doing?!”
+
+Matt felt it was very obvious what he was doing and so didn’t respond, but Allie was never one to let such an opportunity pass. She immediately replied in a taunting manner, even as she engaged the third wave of Corporation cultivators.
+
+Instead, he landed on one of the inner walls and punched out.
+
+Enchantments flared to life along the wall's length, but the wall didn’t crumble, so he hit it two more times in rapid succession.
+
+A hole large enough for him to enter formed, and with his intentions clear, two of the nearest Paladins turned their focus on Matt instead of attacking the still rage-addled cultivators.
+
+One was the woman from before, but the other's outward appearance was of a ‘simple looking’ male who would pass by in any crowd.
+
+The man's armor was the physically largest of the Corporation team that he’d seen so far. Though the armor was unusually small and thin for their standards.
+
+The official Paladins made countless variations of power armor every cycle of Minkalla, ranging from thin sets like the ones before him to ten foot tall humanoids that could expand even farther; their typical profile was more like the one Matt had fought with in the army.
+
+Suits that, while still human sized, were a tad more bulky than all but the heaviest traditional armor.
+
+That discrepancy, combined with the sheer number of power armor wielders, gave him a hint at what this group might be.
+
+Despite that apparent armor frailty, they were strong enough Matt felt a small level of danger as the woman punched out at him.
+
+Matt prepared to take the blow regardless, and just before it landed, he felt the battlefield freeze over. Aster's initial spell failed as all of the Paladins’ armors glowed an orange light, dispelling their various illusions and leaving them free from the suppressive effects that maligned everyone else, who could now hardly move faster than a typical Tier 28.
+
+Another five paladins arrived, keeping Allie and Aster from immediately reinforcing Matt.
+
+Matt took the blow with a raised eyebrow.
+
+The blow was a good, strong attack that shattered most of his internals, but it had basically confirmed she and her group were just a privately raised mercenary company for a Corporation powerful enough to make decent growth power armor.
+
+He further suspected they were someone's attempt to imitate the Pearlescent Paladin, Eli Taien, and create combat capable stealth-based power armor squads.
+
+It also raised his expectations of the upcoming fight.
+
+As he turned and deflected the next attack from the woman, she shouted, “If you don’t want to collect some rewards, don’t try and prevent us from doing so. If you—.”
+
+Matt didn’t wait for her to finish her threat.
+
+Instead, he raised his left pointer finger and cast [Mana Beam].
+
+The arm-thick bar of mana was ink black as Matt activated his Intent, concentrating his mana.
+
+The massive gem the Federation wanted to protect from onslaughts of monsters was layered in defensive wards. Layers of walls and as many enchantments as they could carve all shattered upon being struck by the empowered [Mana Beam]. The moment the gem broke, it ejected the few surviving Federation team members with their collected Natural Treasures, minus whatever the strange realm took.
+
+There wasn’t anything Matt could do, or particularly wanted to do, for the Clippers, but his move had still infuriated the Corporation team.
+
+One of them tried to say something, but the woman launched herself at Matt with a guttural scream that was amplified into a spiritual attack that tried to bypass Matt’s armor and hit his more vulnerable spirit.
+
+Already on the spiritual defensive alert, it did nothing to him, but it signaled the true start of the fight. Seeing that Allie and Aster fully engaged with the possible mercenaries above, leaving Matt the two below.
+
+Not that Matt minded one last romp as a Tier 28.
+
+The man’s armor was only slightly bulkier, but it packed at least twice as much punch as it should have, showing just why he had so much extra suit to hide. Instead of dodging, Matt used the flat of his blade to deflect most of the physical force, letting the wash of poison mist settle harmlessly on [Cracked Phantom Armor].
+
+The woman, in perfect sync, teleported next to Matt, her blow aimed at his heart, but Matt was already twisting low, dodging.
+
+He used his position to bring his blade up and around, slamming into the Tier 30’s armor with his best triple layered attack.
+
+The woman's armor protected her, but she was sent flying through the remains of the Federation team’s base. She wasn’t dead, despite the smoking and dented armor, but she was seriously wounded.
+
+The man used the opportunity to reach out, his fingers spread and glowing, aiming for Matt’s head.
+
+Feeling a palpable danger from the spell, Matt let out a large breath he had been holding, sending a wave of incredibly hot flames washing out with [Dragonflame].
+
+The attacking man seemed to consider pushing through the damage, but almost immediately, his secondary magical armor layer shattered and his armor started to glow cherry red, changing his mind.
+
+With a flash of silver mist the man vanished, his hands appearing from the ground, grasping for Matt’s ankles.
+
+They tried to lock Matt down both magically and physically, ensuring he was an easy target for his squadmate who had recovered and summoned a glowing, oversized great axe from nowhere.
+
+The blow was aimed directly at Matt’s head, further proving the team to be around the mid to high elite levels at a maximum.
+
+He wasn’t particularly worried about the blow until the moment just before his own blade was ready to deflect the axe. In that instant before their weapons collided, the woman’s cultivation flared and she broke through to Tier 31.
+
+Suddenly, a two Tier gap turned into a three Tier gap. Alone, that would have been bearable, but the woman's armor immediately advanced to Tier 31 as well, and that seemed to include her axe.
+
+Changing his reaction mid-movement, Matt reached up and grabbed the descending blade with his left hand.
+
+[Cracked Phantom Armor] lasted for a moment, but the blade, bolstered by its Tier up and momentum, cleaved through.
+
+Matt felt like he had been hit with a descending moon, but instead of trying to redirect the power to better defend himself, he activated [Cosmic Pressure], increasing the gravity around him and further empowering the overhead blow.
+
+Matt flared his Power, his river of stars glowing and empowering his arms catching the blade.
+
+The mercenary below him shuddered as the increased gravity affected him most of all, given he was directly underneath Matt. To their credit, they didn’t let go, instead Tiering himself and his armor up, his grip growing even firmer.
+
+Matt felt but couldn't pay attention to the other mercenaries, who quickly followed suit. Allie was protecting Aster well, and that was the limit to how much attention he was willing to pay when he had such good sparing partners.
+
+Roaring, Matt pushed his Power to its limits. His nigh invulnerable left hand was left in a mangled mess, but he successfully blocked the blow.
+
+For a moment, Matt wished [Cracked Phantom Armor] wasn’t opaque, but rather translucent, because it meant the woman couldn’t see the fierce smile on his face as he blocked the descending axe.
+
+Laughing, Matt gave in and returned some of the earlier trash talk. “I bet you expected that to go a little differently, didn’t you?”
+
+Before anyone could respond, Matt forcefully raised his left leg, ripping it free of the man's grip, and slammed it down into the ground, rather than casting [Mana Beam] at the woman who was already dodging that possibility.
+
+His blow shattered the ground, sending cracks radiating outward for miles.
+
+That, in turn, shattered the [Earthen Strangle] spell that had been preventing Matt from manipulating the terrain while the man was inside of it.
+
+The male paladin knock-off was a second too slow to break free of the ground as Matt seized control of the earth around him.
+
+Matt kept the leg that he caught, pulling it deeper inside the ground in case the armor proved unexpectedly valuable.
+
+The axe-wielding mercenary-paladin didn’t let the initial failure stop her, and after wrenching her axe free of Matt’s already healed hand, she brought it up and back around.
+
+This time, the weapon morphed mid-movement into something more similar to a sword-staff rather than a spear, its blade long and narrow to maximize penetrative power.
+
+Matt met its blade with his own, aggressively advancing despite now being slightly physically weaker than his opponents, not letting her use her range advantage.
+
+Undaunted, he took a blow from the man that managed to punch through [Cracked Phantom Armor]. The needle-like dagger pumping a massive amount of toxins into his body, but he ignored that in favor of rushing down the former-axe wielder.
+
+Slicing out, Matt cut through the now harder armor, his own sword screaming at the force needed, but managing it nonetheless.
+
+Along with the armor, a chunk of flesh was exposed, finally allowing Matt to scan the woman inside.
+
+Matt was shocked by the amount of fleshly enchantments they were operating under, more reminiscent of Federation technology than Corporation. She wasn’t only using alchemical potions, but physical implants that boosted her body directly.
+
+Matt stopped his follow up attack to deflect a blow that was aimed at his heart this time, and more importantly, the gem centered there.
+
+They had devised a few ideas on how they wanted to protect their oh so important gems, but he didn’t want to be forced to use any of them.
+
+Twisting, Matt took the blow on his shoulder blade, continuing his spin to drive a fist into the attacking man’s face.
+
+Matt felt the armor try to dissipate his attack, but while it slightly compensated for the physical power, it failed to account for Matt using a tiny [Mana Beam], no bigger than a pencil.
+
+The man jerked his head away upon seeing the beam of mana, but Matt had never meant the move to be truly lethal, instead aimed downward, cutting a clean grove into the gem in his heart.
+
+A massive wave of Natural Treasures poured into Matt’s gem, but he wasn’t able to appreciate it as the man vanished, along with his buried leg, and the axe wielding paladin tried to avenge her teammate.
+
+“How dare you defeat him! I’m going to tear you into a million little pieces! I’m going to…”
+
+As her attacks rained down on him, she screamed out with enough emotion, Matt had to reconsider if she had been affected by the original emotional boost from the Monster Collective.
+
+Her emotions were just too high for most kinds of elite groups, let alone one that valued discretion like theirs.
+
+Not that he minded.
+
+A fight was a fight.
+
+Matt lifted his blade once more, grinning. Wanting to see if it was an act or not, Matt put on his best arrogant noble voice and said, “You Tiered up and that is the best you can do? Pathetic.”
+
+Her words morphed into a single syllable scream of rage and hatred in such a way Matt was fairly confident she had in fact been affected by the earlier power. He could hear as her vocal cords tore themselves apart, and that wasn’t normal for anyone who could earn such armor.
+
+Attacking in a predictable pattern he could easily block, Matt took the opportunity to scan Aster and Allie, but found the two of them chasing three of the five remaining paladins away, with the other two already expelled.
+
+When he saw an opening, Matt rocketed forward, tackling the power armored woman and earning a hammer to the face in return.
+
+Not flinching, Matt took the hit, blacking out for a moment but grabbing and taking the woman down to the ground.
+
+[Cosmic Pressure] ended what little struggle there was, with Matt finishing the fight off with a fist driven through the woman's heart gem, feeling another burst of Natural Treasures transfer to him.
+
+Matt realized that was actually, multiple people's month of effort, and better understood the nature of this strange realm.
+
+The moment conflict broke out, it would undoubtedly escalate as people got a taste of the additional rewards.
+
+Matt hadn’t expected it to escalate that far, that quickly.
+
+At least one full team had already been fully removed, and at least two others, the Clippers and Monster Collective team, were seriously damaged, with the Corporation team losing at least four people out of their initial dozen.
+
+The other Empire team was up in the air, but so long as they had stuck to their earlier intentions to stay in their base, they should be safe.
+
+Standing up, Matt shook some of the worst dirt off of himself before cleaning himself with a proper spell.
+
+Returning back to base, the three of them found everyone waiting. Together, they debated going to the Corporation team's base and finishing them off, but they decided not to bother. In fact, the only thing they did was have Allie go and check on the other Empire team.
+
+Thanks to their warnings, they had in fact stayed home, which put them in a possible second or third place.
+
+Best of all, the next day they encountered bosses from the pocket space they hadn’t touched at all. Further testing showed that so long as more than half of the realm hadn't been cleared, the boss would leave and that an area that spawned a boss would need to be cleared a second time that day to prevent further breaks with the caveat that there were no Natural Treasures for the clear not letting them double dip.
+
+The fights were more difficult, but not so difficult that they felt the need to prevent the outbreaks. Most interesting of all was that the Natural Treasures were all seemingly of a much higher energy level than what they usually encountered.
+
+Zack postulated it was because all of the Natural Treasures' energy was concentrated into the single creature's body, but either way, they quickly settled on letting all of their pocket spaces turn into bosses.
+
+That next day, all of them broke through to Tier 29, turning the difficult fights back into fairly easy ones.
+
+The only one who would need more time was Rah, but even he was close, given the abundant ambient essence.
+
+In the end, they lasted a little over three months before voluntarily leaving.
+
+The Corporation team lasted the second longest, at two months and two weeks, their pillar falling to a wave of Tier 30 bosses who fought more like weak Tier 32s. They had lasted a full two weeks longer than the other Empire team, and possibly could have lasted longer if not for the fight with them reducing their numbers.
+
+The seven of them didn’t find too many difficulties fighting the larger roaming bosses, even with the three Tier difference, and could have lasted another week or so longer. But they had decided to invert what they thought was the weaker of Liz’s two Ichor pocket spaces in the final days to see what they might get, and it nearly cost them the strange realm.
+
+The boss, a wereboar, empowered day after day with more Ichor mana until it was allowed to break out, was a different breed of boss they hadn’t yet encountered. It was faster and stronger than everything else they had fought, even when it first emerged.
+
+To make matters worse, its daily changes were nigh perfect, unlike the other monsters which seemed to be more random.
+
+The second to last fight had been a slug fest, where the bulky wereboar regenerated from injuries thanks to the three glowing light sacks that looked like cancerous pustules growing off the monster's golden circulatory systems.
+
+In the pocket space it had been a fairly simple empowerment method of the boss that had never changed since it formed. While the pustules were intact, the boar could recover from almost any injury in an instant at no cost. It had also been its own weak spot, and slow to recover if destroyed. Better yet, when they all were destroyed, the boss’s regeneration turned off entirely.
+
+Except with a day's changes, they found the wereboar’s glowing pustules had the same regeneration as the rest of its body, making it that much harder to kill. It took Matt and Zack half an hour to kill the boss, but they had managed it.
+
+The next day, they were prepared with everyone there.
+
+From the moment the boss stepped out of the pocket space, Matt had felt a pulse of danger from his spiritual sense.
+
+The major change of the boar was obvious, its pulsating light sacks were even more vibrant, turning from something grotesque into something almost ethereal.
+
+At Tier 29 and fully boosted, Matt could keep up with the boss, but its strength tried to send him flying and forced him to use his Intent to lock himself in place. The monster was at least forty percent stronger than had been the day before, its light sacks pulsating in tandem with its heartbeat, empowering it further.
+
+Liz slammed her shield into the wereboar’s back, her spear driving into its brain to little to no effect.
+
+Instead, the boss tried to eat at Liz’s spell’s grasp at the ichor mana and blood alike, its regeneration a step above its previous incarnation.
+
+At the same time, in perfect coordination, Susanne darted forward, a clone and herself both stepping past the boss, cutting through two of its pustules and dodging the tendrils of ichor that tried to entangle her.
+
+They hadn’t yet been upgraded and were easy enough to force through, but the creature's regeneration meant a single missed drop of blood would let it come back. That had been Matt and Zack’s issue the day before, as the creature kept cropping back up just moments after they destroyed most of its body.
+
+Unlike Liz’s ichor blood, which needed to convert some form of energy into new ichor, the boss could seemingly convert any matter it touched into blood, a single drop devouring rocks and trees alike to grow a new body, which would merge with and empower the boss or reform if it was the new largest collection of blood.
+
+The only saving grace had been the boss didn’t try to collect new blood once it was at peak strength, once fully powered it only wanted to fight. Notably, it was also perfectly willing to fight in the air and it took time for the blood to fall back down, letting Matt and Zack destroy it all before it reached the ground.
+
+The final things weren’t so easy, but they were ready for it.
+
+Matt hit the boss and felt like he was hitting a wall of concrete with a stick, but at Tier 29 he had enough strength to cut into it, his blade burning its way through as it crackled with enough spells and enchantments to turn the metal red hot.
+
+The body didn’t flow around the blow like Liz would, but the effect was the same as the wereboars flesh knit itself back together moments after the sword passed through.
+
+Aster’s debuffing spell froze the burnt flesh and slowed it down further, but combined, it gave Matt an opportunity to punch the boss into the air.
+
+It hardly worked.
+
+Thankfully, Susanne adapted rapidly and her blade still cut through one of the pustules. At the same moment, Rah brought a sword down on the wereboar’s back, splitting it in half, similarly cutting through one of the glowing areas.
+
+Allie teleported in and cut the final one, removing the other two and leaving just Matt and the boss.
+
+Matt immediately flooded [Cracked Phantom Armor] with arcane energy from his ring, aspecting his armor arcane as a bubble of void from the [Cracked Mana Trap] beneath his foot appeared around them and shrunk.
+
+Stabilized and contained by the arcane mana formations they prepared beforehand, they hoped the void mana would be a surefire way to kill the boss, but Matt had to be close to lay the trap.
+
+As the bubble of void passed over him Matt was safely protected, but the boss wasn’t so lucky, its flesh melting away.
+
+The bubble having passed him, Matt watched with the others as the void continued to shrink. But horrifyingly, the three pustules of light remained behind and pulsated mid air, creating Ichor out of nothingness.
+
+They threw themselves forward, but the boss was already regenerating.
+
+It took over an hour, bought in large part by Lizzes throwing themselves at the boss and fighting for domination of its very blood, but they finally stumbled upon the correct method to kill the boss. It required Matt and Rah to take the beast’s attention and together use his unbreakable earth constructs to create a talisman that could hold a sizeable portion of Matt’s mana generation, landing a blow that dealt enough damage that it instantly evaporated the boss’ physical body, leaving only the three energy pulses.
+
+Zack then disrupted the magical energies while Allie, Susanne, and Liz cut the light pustules apart before they could start producing ichor once more.
+
+Then, in the split moment when they were separated, Aster flash froze the light orbs, finally killing the boss.
+
+Only one Natural Treasure light formed rushing into Liz’s gem, being the closest, and Matt cursed they hadn’t been able to inspect it beyond knowing it had formed from the light pustules which had caused them so much trouble.
+
+They were in awful shape, all except Matt and Liz were injured. But with unlimited mana, they managed to get back on their feet.
+
+That fight also signified the end of their time in the secret realm.
+
+They could have possibly eked out another day or two, but they didn’t know if wounds would carry over. Given the contention in the beginning of the exploration, they didn’t want to risk being the victors while heavily injured.
+
+That would only invite foul play.
+
+When their pillar fell by their own hand, they were immediately ejected from the strange realm, which Matt was gratified to see hadn’t been destroyed.
+
+He was less happy in seeing the fight between the Federation, Republic, and Monster Collective teams starting immediately. Each group was blaming the others for their early removal.
+
+Before attention and aggravation could turn to them, they flew back to their ship to learn only three days had passed while they were inside the strange realm.
+
+Seeing the other Empire team as well as the Corporation team. following their lead and entering their ships the moment they exited, Matt didn’t bother to look at the palm sized storage crystal his collected Natural Treasures had been given to him in instead watching out for a sudden attack.
+
+The Unsparing’s crew were obviously eager for a detailed report, but were professional enough that they were ready to leave the moment they returned.
+
+Instead of explaining, Allie pointed upward with a nervous laugh. “Get us out of here and quick! Our pockets are full and we don’t want anyone else getting ideas! Go!”
